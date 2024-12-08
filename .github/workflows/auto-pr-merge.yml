@@ -1,80 +1,633 @@
 name: Auto-merge PRs
 on:
   pull_request_target:
-    types: [opened, synchronize]
+    types: [opened, synchronize, reopened]
     paths:
-      - 'Contributors.md' # <- only run if only contributors file changed
-    
+      - "Contributors.md" # <- only run if only contributors file changed
+
 jobs:
-  auto-merge:
+  # Job for checking all modified files PR
+  check-modified-files-and-content:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: write
+      issues: write
+
+    outputs:
+      pr_files: ${{ steps.get_pr_files.outputs.pr_files }}
+      files_changed: ${{ steps.check_num_of_files_modified_step.outputs.files_changed }}
+      is_only_contributors_file_changed: ${{ steps.check_num_of_files_modified_step.outputs.only_contributors }}
+      is_only_one_line_modified: ${{ steps.check_num_of_lines_modified_step.outputs.only_one_line_edited }}
+      contributors_md_content: ${{ steps.check_num_of_lines_modified_step.outputs.contributors_md_content }}
+
+    steps:
+      - name: Checkout to PR branch
+        uses: actions/checkout@v2
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+          fetch-depth: 2
+
+      - name: Get PR files
+        id: get_pr_files
+        run: |
+          # Get a list of files changed in the pull request
+          PR_FILES=$(curl -s -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            "https://api.github.com/repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/files")
+            
+          # Trim leading and trailing whitespaces
+          PR_FILES=$(echo $PR_FILES )
+
+          # set the output 
+          echo "pr_files=$PR_FILES" >> $GITHUB_OUTPUT
+
+          # set the env for this job
+          echo "pr_files=$PR_FILES" >> $GITHUB_ENV
+
+      # Check if the pull request only modifies the Contributors.md file
+      - name: Check only Contributors.md file modified
+        id: check_num_of_files_modified_step
+        uses: actions/github-script@v5
+        with:
+          script: |
+            async function run() {
+              try {
+                // Extract the filenames from the API response
+                const filesChanged = JSON.parse(process.env.pr_files);
+                const filenames = filesChanged.map(file => file.filename);
+                
+                // Check if only 'Contributors.md' is in the list of changed files
+                const isOnlyContributorsFileChanged = filenames.length === 1 && filenames[0] === 'Contributors.md';
+
+                // file names stored in output
+                core.setOutput('files_changed', filenames);
+                // file names stored in env
+                core.exportVariable('files_changed', filenames);
+
+                if (isOnlyContributorsFileChanged) {
+
+                    // Find the 'Contributors.md' file in the response
+                    const contributorsFile = filesChanged.find(file => file.filename === 'Contributors.md');
+
+                    // Extract the additions, changes, and deletions fields
+                    const additions = contributorsFile.additions;
+                    core.exportVariable('additions', additions);
+                    const changes = contributorsFile.changes;
+                    core.exportVariable('changes', changes);
+                    const deletions = contributorsFile.deletions;
+                    core.exportVariable('deletions', deletions);
+
+                    
+                    // Extracting the patch field (content which are added)
+                    const patch_text = contributorsFile.patch;
+                    core.exportVariable('patched_content', patch_text);
+                    // core.setOutput('patched_content', patch_text);
+                    
+                    console.log(`additions=${additions}`);
+                    console.log(`changes=${changes}`);
+                    console.log(`deletions=${deletions}`);
+                    console.log(`patched_content=${patch_text}`);
+                }
+            
+                // Set output and environment variable
+                core.setOutput('only_contributors', isOnlyContributorsFileChanged);
+                core.exportVariable('only_contributors', isOnlyContributorsFileChanged);
+              } catch (error) {
+                  core.setFailed(error.message);
+                }
+            }
+            run();
+
+      # Run only if there only Contributors.md file modified in the PR
+      - name: Check only one line modified in Contributors.md
+        id: check_num_of_lines_modified_step
+        if: env.only_contributors == 'true'
+        uses: actions/github-script@v5
+        with:
+          script: |
+            // Get the environment variables
+            const numLineAdditions = process.env.num_line_additions;
+            const numLineChanges = process.env.num_line_changes;
+            const numLineDeletions = process.env.num_line_deletions;
+            const patchedContent = process.env.patched_content;
+
+            const is_one_line_changed = ((numLineAdditions === '1' && numLineChanges === '1' && numLineDeletions === '0') || (numLineAdditions === '0' && numLineChanges === '1' && numLineDeletions === '1'));
+
+            // Check only one line added, or only one line changed, or only one line deleted and one line added which makes 2 number of changes in Contributors.md file
+            if (is_one_line_changed) {
+                // Get the patch content from env variable
+                const contributorsMdContent = patchedContent;
+            
+                // This command uses a regular expression to extract lines from the variable 'contributorsMdContent' that were added in a diff.
+                const onlyAddedContents = contributorsMdContent.split('\n').filter(line => line.startsWith('+')).map(line => line.substring(1));
+            
+                // Set the output
+                core.setOutput('contributors_md_content', onlyAddedContents.join('\n'));
+            }
+
+            // More than one line was edited in Contributors.md file
+            core.setOutput('only_one_line_edited', is_one_line_changed);
+            core.exportVariable('only_one_line_edited', is_one_line_changed);
+            
+        # run: |
+        #   # Extract the additions and changes fields from the API response
+        #   # ADDITIONS=$(echo $pr_files_url | jq '.[] | select(.filename == "Contributors.md") | .additions')
+        #   # CHANGES=$(echo $pr_files_url | jq '.[] | select(.filename == "Contributors.md") | .changes')
+        #   # DELETIONS=$(echo $pr_files_url | jq '.[] | select(.filename == "Contributors.md") | .deletions')
+        #   ADDITIONS=$(echo $num_line_additions)
+        #   CHANGES=$(echo $num_line_changes)
+        #   DELETIONS=$(echo $num_line_deletions)
+
+        #   # check only one line added, or only one line changed, or only one line deleted and one line added which makes 2 number of changes in Contributors.md file
+
+        #   if [[ ( $ADDITIONS -eq 1 && $CHANGES -eq 1 && $DELETIONS -eq 0 ) || ( $ADDITIONS -eq 0 && $CHANGES -eq 1 && $DELETIONS -eq 1 ) ]]; then
+
+        #     # add to job output
+        #     echo "only_one_line_edited=true" >> "$GITHUB_OUTPUT"
+
+        #     # env variable
+        #     echo "only_one_line_edited=true" >> $GITHUB_ENV
+
+        #     # toJSON convert to JSON and jq -r get the value from "patch" as raw 
+        #     # CONTRIBUTORS_MD_CONTENT=$(echo ${{ toJSON(env.pr_files ) }} | jq -r '.[].patch')
+
+        #     #Get the patch content from env variable
+        #     CONTRIBUTORS_MD_CONTENT=$(echo $patched_content);
+        #     echo "$CONTRIBUTORS_MD_CONTENT"
+        #     echo $CONTRIBUTORS_MD_CONTENT
+
+            
+        #     # This command uses 'awk' to extract lines from the variable 'CONTRIBUTORS_MD_CONTENT' that were added in a diff.
+        #     # 'awk' processes each line as a separate record (due to 'BEGIN{RS="\\n"}').
+        #     # It then matches lines starting with a '+' sign (corresponding to lines added in a diff) and prints each matching line, excluding the first character (which is the '+' sign).
+        #     # only_added_contents=$(echo "$CONTRIBUTORS_MD_CONTENT" | awk 'BEGIN{RS="\\n"} /^\+/{print substr($0, 2)}')
+        #     only_added_contents=$(echo ${{ toJSON(env.patched_content) }}  | awk 'BEGIN{RS="\\n"} /^\+/{print substr($0, 2)}')
+            
+        #     echo $only_added_contents
+        #     echo "$only_added_contents"
+
+        #     echo "contributors_md_content=$only_added_contents" >> "$GITHUB_OUTPUT"
+
+        #   else
+
+        #     # More than one line was edited in Contributors.md file
+        #     echo "only_one_line_edited=false" >> "$GITHUB_OUTPUT"
+
+        #     echo "only_one_line_edited=false" >> $GITHUB_ENV
+
+        #   fi
+
+        env:
+          pr_files_url: ${{env.pr_files}}
+          patched_content: ${{env.patched_content}}
+          num_line_additions: ${{env.additions}}
+          num_line_changes: ${{env.changes}}
+          num_line_deletions: ${{env.deletions}}
+          
+
+      - name: Delete previous comments from the bot
+        uses: actions/github-script@v5
+        with:
+          script: |
+            try{
+              const comments = await github.rest.issues.listComments({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+              })
+
+              // get the comments by the bot
+              const bot_comments = comments.data.filter(comment => comment.user.login === 'github-actions[bot]')
+
+              // delete the comments from the bot
+              for (const comment of bot_comments) {
+                await github.rest.issues.deleteComment({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  comment_id: comment.id
+                })
+              }
+
+            } catch (error) {
+              console.error("Error deleting comments:", error.message);
+            }
+
+      # Post comment on PR when PR modifies multiple lines in Contributors.md file
+      - name: Post comment on PR when PR modifies multiple lines in Contributors.md file
+        if: env.only_contributors == 'true' && env.only_one_line_edited == 'false'
+        uses: actions/github-script@v5
+        with:
+          script: |
+            try{
+              
+              const body = `Hello @${context.payload.pull_request.user.login}, Thank you for your contribution! We appreciate your effort and time.\n\n However, It seems that you replaced the existing line or made multiple changes in the Contributors.md file. \n\nPlease add only one new line to the Contributors.md file. For a better understanding, please refer to the [3rd bullet point in the Contributing Guidelines](https://github.com/firstcontributions/first-contributions/issues/35892) \n\n## How to fix this?\n\nYou can follow [this guide](https://www.gitkraken.com/learn/git/problems/undo-git-commit). \n\nIf you need any help, feel free to ask.\n\nKeep up the good work! 😊`
+              const review = {
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pull_number: context.issue.number,
+                body: body,
+                event: 'REQUEST_CHANGES'
+              };
+              github.rest.pulls.createReview(review);
+
+              core.setFailed('Please only add one new line to the Contributors.md file. Please do not make multiple changes in the Contributors.md file');
+
+            } catch (error) {
+              console.error("Error posting comment:", error.message);
+
+              core.setFailed(error.message);
+
+            }
+
+      - name: Post comment on PR about required review
+        if: env.only_contributors != 'true'
+        uses: actions/github-script@v5
+        with:
+          script: |
+            try{
+              const filesChanged = JSON.parse(process.env.files_changed.trim());
+              const fileList = filesChanged.map(file => `- ${file}`).join('\n');
+              
+                const body = `Hey @${context.payload.pull_request.user.login}, thank you for your pull request. This pull request contains changes in files which requires review. The following files were changed:\n\n${fileList}`;
+                
+                github.rest.issues.createComment({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  issue_number: context.issue.number,
+                  body: body
+                });
+
+              } catch (error) {
+                console.error("Error posting comment:", error.message);
+              }
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          files_changed: ${{ env.files_changed }}
+
+      # Add review label to PR if there are multiple files changed
+      - name: Add review label to PR
+        if: env.only_contributors != 'true'
+        uses: actions/github-script@v5
+        with:
+          script: |
+            try{
+                github.rest.issues.addLabels({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  issue_number: context.issue.number,
+                  labels: [":woman_technologist: waiting for review"]
+                });
+
+
+              core.setFailed("PR needs review.")
+
+
+              } catch (error) {
+                console.error("Error adding label:", error.message);
+
+                core.setFailed(error.message);
+              }
+
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+
+  # Job for checking offensive and malicious links
+  check-non-safe-content:
+    # job run after completion of this job
+    needs: check-modified-files-and-content
+
+    runs-on: ubuntu-latest
+
+    permissions:
+      # Only read permission to Github token
+      contents: read
+      pull-requests: write
+
+    outputs:
+      is_safe_contents: ${{ steps.check_inappropriate_words.outputs.is_safe_contents_text }}
+      # replaced_safe_contents: ${{ steps.check-non-safe-content.outputs.replaced_safe_contents }}
+
+    env:
+      get_pr_files: ${{needs.check-modified-files-and-content.outputs.pr_files }}
+      get_is_only_contributors_file_changed: ${{ needs.check-modified-files-and-content.outputs.is_only_contributors_file_changed }}
+      get_is_only_one_line_modified: ${{ needs.check-modified-files-and-content.outputs.is_only_one_line_modified }}
+      get_contributors_md_content: ${{ needs.check-modified-files-and-content.outputs.contributors_md_content }}
+
+    steps:
+      - name: Separate the texts and links from the content
+        id: separate_text_and_links_from_content
+        if: env.get_is_only_contributors_file_changed == 'true' && env.get_is_only_one_line_modified == 'true'
+        run: |
+          echo $get_contributors_md_content
+          echo "$get_contributors_md_content"
+          #the regular expression ((https?:\/\/|www\.)[^\s]+|[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}) will match any word that starts with http://, https://, or www., or any word that looks like a domain name (one or more alphanumeric characters or hyphens, followed by a dot and two or more alphabetic characters).
+          only_added_links=$(echo $get_contributors_md_content | awk 'BEGIN{RS=" ";} /((https?:\/\/|www\.)[^\s]+|[a-zA-Z0-9.-]+\.[a-zA-Z]{2,})/{print}' | sed 's/[.,;]$//')
+          echo "Pirnt out of what is only_added_links"
+          echo $only_added_links
+          echo get_contributors_md_content
+          echo $get_contributors_md_content
+          echo "$get_contributors_md_content"
+          
+          #alternative one (replace the grep to awk)
+          : << 'END_COMMENT'
+          The below code extracts all URLs from the variable 'get_contributors_md_content' and stores them in the array "only_added_links". 
+          It then removes these URLs from "get_contributors_md_content". 
+          The URLs can start with http://, https://, or www., or they can be a domain name (one or more alphanumeric characters or hyphens, followed by a dot and two or more alphabetic characters). 
+          END_COMMENT
+
+          # initialise empty array
+          only_added_links=()
+          for word in $get_contributors_md_content; do
+              if [[ $word =~ ((https?:\/\/|www\.)[^\s]+|[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}) ]]; then
+                  # add link to array 
+                  only_added_links+=("$word")
+
+                  #store text and ignore link 
+                  only_text_content=${get_contributors_md_content//$word/}
+              
+              else
+                  # store text
+                  only_text_content+="$word "
+              fi
+
+          done
+
+          # set the env variables
+          echo "only_added_texts=$only_text_content" >> $GITHUB_ENV
+          echo "only_added_links=${only_added_links[@]}" >> $GITHUB_ENV
+
+      #FIXME: There are no strict and reliable ways to check if the links are safe or not. The current implementation is using Google's Safe Browsing API to check if the links are safe. However, this is not a reliable solution as it only checks for the links that are already reported as malicious. We need to find a better solution for this.
+      # - name: Check if the links are safe
+      #   id: check_if_links_are_safe
+      #   with:
+      #     script: |
+      #       # check with the Google's Safe Browsing API
+      #       try{
+      #         const response = await fetch('https://safebrowsing.googleapis.com/v4/threatMatches:find?key=${{ secrets.GOOGLE_SAFE_BROWSING_API_KEY }}', {
+      #           method: 'POST',
+      #           body: JSON.stringify({
+      #             client: {
+      #               clientId: 'first-contributions',
+      #               clientVersion: '1.0.0'
+      #             },
+      #             threatInfo: {
+      #               threatTypes: ['MALWARE', 'SOCIAL_ENGINEERING', 'UNWANTED_SOFTWARE', 'POTENTIALLY_HARMFUL_APPLICATION'],
+      #               platformTypes: ['ANY_PLATFORM'],
+      #               threatEntryTypes: ['URL'],
+      #               "threatEntries": [
+      #                 for url in "${{ env.array_of_threat_links }}" {
+      #                   {
+      #                     "url": "${{ url }}",
+      #                   }
+      #                 }
+      #               ]
+      #             }
+      #           })
+      #         })
+
+      #         const data = await response.json()
+
+      #         // check if the response is empty
+      #         if (data.matches.length === 0) {
+      #           console.log('No threats found in the links')
+      #           core.setOutput('is_safe_contents_text', true)
+      #         } else {
+      #           console.log('Threats found in the links')
+      #           core.setOutput('is_safe_contents_link', false)
+      #         }
+      #       } catch (error) {
+      #         console.error("Error checking links:", error.message);
+      #       }
+
+      - name: Check inappropriate words in the texts
+        id: check_inappropriate_words
+        if: env.get_is_only_contributors_file_changed == 'true' && env.get_is_only_one_line_modified == 'true'
+        uses: actions/github-script@ba6cf3fe7cf53f06998ea428adfe8f0da42d62fa
+        with:
+          script: |
+            async function checkProfanity() {
+              try {
+                const response = await fetch(`https://www.purgomalum.com/service/containsprofanity?text="${{ env.only_added_texts }}"`);
+                if (!response.ok) {
+                  core.setFailed(`HTTP error! status: ${response.status}`);
+                }
+
+                const text = await response.text();
+
+                // check if the response is empty
+                if (text === 'true') {
+                  console.log('Inappropriate words found in the texts');
+                  core.setOutput('is_safe_contents_text', false);
+                  core.exportVariable('is_safe_contents_text', 'false');
+                } else if (text === 'false') {
+                  console.log('No inappropriate words found in the texts');
+                  core.setOutput('is_safe_contents_text', true);
+                  core.exportVariable('is_safe_contents_text', 'true');
+                } else {
+                  throw new Error('Unexpected response: ' + text);
+                  core.setFailed('Unexpected response: ' + text);
+                }
+              } catch (error) {
+                core.setFailed(error.message);
+                console.log(error.message);
+              }
+            }
+
+            checkProfanity();
+
+      # Post comment on offensive content PR about code of conduct
+      - name: Post comment on PR containing offensive content about code of conduct
+        if: env.is_safe_contents_text == 'false' && env.get_is_only_contributors_file_changed == 'true' && env.get_is_only_one_line_modified == 'true'
+        uses: actions/github-script@v5
+        with:
+          script: |
+            try{
+              const body = `Hello @${context.payload.pull_request.user.login}, Thank you for your contribution! 🎉\n\nWe appreciate your contribution to the project. However, we have a [code of conduct](https://github.com/firstcontributions/first-contributions/blob/main/CODE_OF_CONDUCT.md) that we expect all contributors to follow. \n\nPlease remove the offensive content from your pull request and then push your changes again. \n\nIf you need any help, feel free to ask.`
+              const review = {
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pull_number: context.issue.number,
+                body: body,
+                event: 'REQUEST_CHANGES'
+              };
+              github.rest.pulls.createReview(review);
+
+            } catch (error) {
+              console.error("Error posting comment:", error.message);
+
+              core.setFailed(error.message);
+
+            }
+
+      # Close the PR if it contains offensive content
+      - name: Close PR if it contains offensive content
+        if: env.is_safe_contents_text == 'false' && env.get_is_only_contributors_file_changed == 'true' && env.get_is_only_one_line_modified == 'true'
+        uses: actions/github-script@v5
+        with:
+          script: |
+            try{
+              github.rest.pulls.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pull_number: context.issue.number,
+                state: 'closed'
+              });
+
+              core.setFailed("status: closed PR due to offensive content contains!");
+
+            } catch (error) {
+              console.error("Error closing pull request:", error.message);
+
+              core.setFailed(error.message);
+
+            }
+
+  merge-pr:
+    # job run after completion of this job
+    needs: [check-modified-files-and-content, check-non-safe-content]
     runs-on: ubuntu-latest
     permissions:
       contents: write
       pull-requests: write
       issues: write
-      
+
+    env:
+      get_pr_files: ${{needs.check-modified-files-and-content.outputs.pr_files }}
+      get_is_only_contributors_file_changed: ${{ needs.check-modified-files-and-content.outputs.is_only_contributors_file_changed }}
+      get_is_only_one_line_modified: ${{ needs.check-modified-files-and-content.outputs.is_only_one_line_modified }}
+      get_contributors_md_content: ${{ needs.check-modified-files-and-content.outputs.contributors_md_content }}
+      get_is_safe_contents: ${{ needs.check-non-safe-content.outputs.is_safe_contents }}
+
     steps:
       # Check out the repository code
       - name: Checkout code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v2
         with:
           ref: ${{ github.event.pull_request.head.sha }}
           fetch-depth: 2
 
-      - name: Check if PR only modifies Contributors.md
-        id: is_only_contributors_file_changed
-        run: |
-          # Get a list of files changed in the pull request
-          PR_FILES=$(curl -s -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
-            "https://api.github.com/repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/files" | \
-            jq -r '.[].filename')
-          FILES_CHANGED=$(echo $PR_FILES | tr '\n' ' ')
+      #Check mergeability of PR
+      - name: Check mergeability
+        if: env.get_is_safe_contents == 'true' && env.get_is_only_contributors_file_changed == 'true' && env.get_is_only_one_line_modified == 'true'
+        id: check_mergeability
+        uses: actions/github-script@v5
+        with:
+          script: |
+            const checkMergeability = async () => {
+              try {
+                const {owner, repo} = context.repo;
+                const pull_number = context.issue.number;
 
-          echo "files_changed=$FILES_CHANGED" >> $GITHUB_ENV
-          
-          if [[ "${FILES_CHANGED// /}" == "Contributors.md" ]]; then
+                let mergeable;
 
-            echo "only_contributors=true" >> $GITHUB_ENV
-          else
-            echo "only_contributors=false" >> $GITHUB_ENV
-          fi
+                let retries = 0;
+                const maxRetries = 3; // Maximum number of retries
 
-      - name: Check if PR has only one line change
-        run: |
-          ADDITIONS=${{ github.event.pull_request.additions }}
-          DELETIONS=${{ github.event.pull_request.deletions }}
+                // Keep checking the mergeability of the pull request until it is no longer null
+                while ((mergeable === null || mergeable === undefined ) && retries < maxRetries) {
 
-          echo "additions=$ADDITIONS" >> $GITHUB_ENV
-          echo "deletions=$DELETIONS" >> $GITHUB_ENV
+                  const {data: pullRequest} = await github.rest.pulls.get({
+                    owner,
+                    repo,
+                    pull_number
+                  });
 
-          if [[ $ADDITIONS == 1 && $DELETIONS == 0 ]]; then
-            echo "one_line_change=true" >> $GITHUB_ENV
-          elif [[ $ADDITIONS == 2 && $DELETIONS == 1 ]]; then
-            echo "one_line_change=true" >> $GITHUB_ENV
-          else
-            echo "one_line_change=false" >> $GITHUB_ENV
-          fi
+                  mergeable = pullRequest.mergeable;
 
-      # Merge the pull request if it only modifies the Contributors.md file or if it fail to do then drop failure message as post 
+                  if ((mergeable === null || mergeable === undefined )) {
+                    // Wait 3 seconds before retrying the request
+                    await new Promise(resolve => setTimeout(resolve, 3000));
+                    retries++;
+                  }
+                }
+
+                if(retries === maxRetries) {
+                  console.log('Maximum number of retries exceeded. Mergeability is still null.')
+                  core.setFailed('Maximum number of retries exceeded. Mergeability is still null.');
+                } 
+                if (mergeable === true) {
+                  core.setOutput('is_pr_mergeable', true);
+                  core.exportVariable('is_pr_mergeable', true);
+                } else if (mergeable === false){
+                  console.log('Not mergeable')
+                  core.setOutput('is_pr_mergeable', false);
+                  core.exportVariable('is_pr_mergeable', false);
+                } else {
+                  console.log('Something when wrong while check mergeability of PR - merge status $mergeable');
+                  core.setFailed("Unexpected status value of mergeability status - $mergeable");
+                }
+
+              } catch (error) {
+                console.error("Error checking mergeability:", error.message);
+                core.setFailed(error.message);
+              }
+            }
+
+            checkMergeability();
+
       - name: Merge PR
         id: merge_pr
-        if: env.only_contributors == 'true' && env.one_line_change == 'true'
-        uses: actions/github-script@v6
+        if: env.get_is_only_contributors_file_changed == 'true' && env.get_is_only_one_line_modified == 'true' && env.get_is_safe_contents == 'true' && env.is_pr_mergeable == 'true'
+        uses: actions/github-script@v5
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            try {
-            // Attempt to merge the pull request using the squash method
-             const response = await github.rest.pulls.merge({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              pull_number: context.issue.number,
-               merge_method: "squash"
-             })
+            try{
+              // Attempt to merge the pull request using the squash method
+              const response = await github.rest.pulls.merge({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pull_number: context.issue.number,
+                merge_method: "squash"
+              });
+              console.log(response);
+              // Check if the merge was successful by checking the status code of the response
+                if (response.status === 200) {
+                  core.setOutput('is_merged_successfully', true);
+                  core.exportVariable('is_merged_successfully', true);
+                }
+              } catch (error) {
+                console.log(error);
+                let errMsg = "";
+                console.error("Error merging pull request:", error.message);
+                // set the output error message
+                core.setOutput('is_merged_successfully', false);
+                core.setOutput('merge_error_message', error.message);
+                core.exportVariable('is_merged_successfully', false);
+                core.setFailed(error.message);
+              }
 
-            // Check if the merge was successful by checking the status code of the response
-             if (response.status === 200) {
+      # Post comment on merge conflict when PR only modifies single line in Contributors.md file
+      - name: Post comment on merge conflict
+        if: env.get_is_only_contributors_file_changed == 'true' && env.get_is_only_one_line_modified == 'true' && env.get_is_safe_contents == 'true' && env.is_pr_mergeable == 'false'
+        uses: actions/github-script@v5
+        with:
+          script: |
+            try{
+              const body = `Hello @${context.payload.pull_request.user.login}, Thank you for your contribution! 🎉\n\nUnfortunately, there is a merge conflict in your Pull Request. Please pull the latest changes from the main branch, [resolve the conflict](additional-material/git_workflow_scenarios/resolving-merge-conflicts.md), and then push your changes again.\n\nIf you need any help, feel free to ask.\n\nKeep up the good work! 😊`
+              
+              const review = {
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pull_number: context.issue.number,
+                body: body,
+                event: 'REQUEST_CHANGES'
+              };
 
+              github.rest.pulls.createReview(review);
+
+            } catch (error) {
+              console.error("Error posting comment:", error.message);
+
+              core.setFailed(error.message);
+
+            }
+
+      - name: Post success comment on PR
+        if: env.get_is_only_contributors_file_changed == 'true' && env.get_is_only_one_line_modified == 'true' && env.get_is_safe_contents == 'true' && env.is_merged_successfully == 'true' && env.is_pr_mergeable == 'true'
+        uses: actions/github-script@v5
+        with:
+          script: |
+            try{
                 const celebrationGifs = [
                   'https://c.tenor.com/ZCq4SwgCfxAAAAAC/snoopy-peanuts.gif',
                   'https://c.tenor.com/Z0ojZS2kpO0AAAAC/milk-and-mocha-happy.gif',
@@ -94,7 +647,7 @@ jobs:
 
                 // social media links
                 const web_url = 'https://firstcontributions.github.io';
-                const slack_invite_url = 'https://join.slack.com/t/firstcontributors/shared_invite/zt-1n4y7xnk0-DnLVTaN6U9xLU79H5Hi62w'
+                const slack_invite_url = 'https://join.slack.com/t/firstcontributors/shared_invite/zt-2vqegkew0-ZuzGM1LO33C6Ts4nZyat1Q'
                 const twitter_tweet_share = 'https://twitter.com/intent/tweet?text=Yay%21%20I%20just%20made%20my%20first%20open%20source%20contribution%20with%20@1stcontribution.%20You%20can%20too%20at%20https%3A//goo.gl/66Axwe%0A&hashtags=OpenSource,CodeNewbie'
                 const fb_share_link = 'https://www.facebook.com/sharer/sharer.php?u=https://roshanjossey.github.io/first-contributions&quote=Yay%21%20I%20just%20made%20my%20first%20open%20source%20contribution%20with%20First%20Contributions.%20You%20can%20too,%20by%20following%20a%20simple%20tutorial%20at%20https%3A//goo.gl/66Axwe&hashtag=%23OpenSource'
                 const reddit_link = 'https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Ffirstcontributions%2Ffirst-contributions&title=Learn%20how%20to%20contribute%20to%20open%20source%20projects%20in%205%20minutes'
@@ -111,11 +664,10 @@ jobs:
                 const linkedin_logo = "https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg";
                 const dev_logo = "https://edent.github.io/SuperTinyIcons/images/svg/dev_to.svg";
                 const hackernews_logo = "https://edent.github.io/SuperTinyIcons/images/svg/hackernews.svg";
-
-
+                
 
                 const getMergeMessage = (username) => {
-                  const greeting = `Hello @${username}, congratulations! You've successfully submitted a pull request. 🎉`;
+                  const greeting = `Hello @${username}, congratulations! Your pull request has been successfully approved and merged. 🎉`;
                   const starRepoMessage = `If you liked the tutorial, please star this repo by clicking the star button on the top right of this page. <img alt="star screenshot" title="star button" src="https://firstcontributions.github.io/assets/star.png">`;
                   
                   const nextSteps = `# Next steps \n - Continue contributing: If you're looking for projects to contribute to, checkout our [<img src="${repo_logo}" width="22" title="web app" /> webapp](${web_url}). \n - Join our Slack group: We have a community to help/support contributors. [<img src="${slack_logo}" width="22" title="Slack" /> Join slack group](${slack_invite_url}). \n - Share on social media: You can share this content to help more people. [ <img alt="twitter" title="twitter" src="${twitter_logo}" width="22"> tweet](${twitter_tweet_share}). [<img alt="twitter" title="twitter" src="${fb_logo}" width="22"> share](${fb_share_link}). [ <img alt="reddit" title="reddit" src="${reddit_logo}" width="22"> share](${reddit_link}). [<img alt="linkedin" title="linkedin" src="${linkedin_logo}" width="22"> post](${linkedin_share_link}). [<img alt="devio" title="devio" src="${dev_logo}" width="22"> publish](${dev_share_link}). [<img src="${hackernews_logo}" width="22" title="HackerNews" /> Post on HackerNews](${hackernews_share_link}).`;
@@ -129,89 +681,27 @@ jobs:
                 // Generate the merge message using the getMergeMessage function
                 const message = getMergeMessage(context.payload.pull_request.user.login);
 
-                // post a comment
-                await github.rest.issues.createComment({
+                // post a comment on the PR with approval and merge message
+                const approval = {
                   owner: context.repo.owner,
                   repo: context.repo.repo,
-                  issue_number: context.issue.number,
-                  body: message
-                })
+                  pull_number: context.issue.number,
+                  body: message,
+                  event: 'APPROVE'
+                };
 
-             } else {
+                github.rest.pulls.createReview(approval);
+
+                # await github.rest.issues.createComment({
+                #   owner: context.repo.owner,
+                #   repo: context.repo.repo,
+                #   issue_number: context.issue.number,
+                #   body: message
+                # })
               
-              // Post a comment on the pull request using the createComment method
-              await github.rest.issues.createComment({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                issue_number: context.issue.number,
-                body: "Something went wrong while attempting to merge this pull request. Please check the GitHub Actions log for more information."
-               })
-            }
-             } catch (error) {
+            } catch (error) {
+              console.error("Error posting comment:", error.message);
 
-              let errMsg = "";
-              console.error("Error merging pull request:", error.message);
-
-              // Handle specific error cases based on status code
-              if (error.status === 405 && error.response.data.message === "Pull Request is not mergeable") {
-
-                errMsg = `Hello @${context.payload.pull_request.user.login}, thank you for your pull request. We appreciate your contribution to the project. However, before we can merge it, there is a merge conflict with the target branch.  \n\n No worries! You can follow [this guide](https://github.com/firstcontributions/first-contributions/blob/main/additional-material/git_workflow_scenarios/resolving-merge-conflicts.md) on resolving merge conflicts. 
-                Once you've fixed the conflicts and pushed your changes, the repository will check the changes you made and proceed with the merge if everything looks good.  \n\n If you have any questions or need further assistance, don't hesitate to reach out. We're here to help!`
-
-              } else if (error.status === 409) {
-                console.error("The pull request has conflicts with the target branch. Resolve the conflicts before merging.");
-                errMsg = "The pull request has conflicts with the target branch. Resolve the conflicts before merging.";
-
-              } else {
-                console.error("Something went wrong while merging the pull request.");
-                errMsg = "Something went wrong while merging the pull request.";
-              }
-
-              // Post a comment on the pull request using the createComment method
-              await github.rest.issues.createComment({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                issue_number: context.issue.number,
-                body: errMsg
-               })
-
-              // Set GitHub Action as failed
               core.setFailed(error.message);
+
             }
-
-      # Post a comment on the pull request if it was not merged automatically
-      - name: Post comment on PR if not merged automatically
-        # Check if the pull request only modifies the CONTRIBUTORS.md file
-        if: env.only_contributors != 'true'
-        uses: actions/github-script@v6
-        with:
-          script: |
-            // get the existing comments.
-            const {data: comments} = await github.rest.issues.listComments({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number: context.payload.number,
-            })
-
-            // find any comment already made by the bot.                                                                                                    
-            const botComment = comments.find(comment => comment.user.login === 'github-actions[bot]')                                                                       
-
-            const body = `Thank you for your pull request. This pull request contains changes in files which requires review. The following files were changed:\n\n  ${process.env.files_changed.trim() ? `\n\n${process.env.files_changed.trim().split(' ').map(file => `- ${file}`).join('\n')}` : ''}`
-
-            if (botComment) {
-              await github.rest.issues.updateComment({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                comment_id: botComment.id,
-                body: body
-              })
-            } else {
-                await github.rest.issues.createComment({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                issue_number: context.issue.number,
-                body: body
-              });
-            }
-            
-          github-token: ${{ secrets.GITHUB_TOKEN }}
