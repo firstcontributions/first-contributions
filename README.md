@@ -145,6 +145,19 @@ For example:
 git switch -c add-alonzo-church
 ```
 
+<details>
+<summary> <strong>If you get any errors using git switch, click here:</strong> </summary>
+
+If the error message "Git: ‘switch’ is not a git command. See ‘git –help’" appears, it's likely because you're using an older version of git.
+
+In this case, try to use `git checkout` instead:
+
+```bash
+git checkout -b your-new-branch-name
+```
+
+</details>
+
 ## Make necessary changes and commit those changes
 
 Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
