@@ -18,7 +18,6 @@
 - [Desi Petkova Lee](https://github.com/DesiPetkovaLee)
 - [GCabane](https://github.com/GCabane)
 - [gatura](https://github.com/gatura-source)
-- [ahmad777x86](https://github.com/ahmad777x86)
 - Mradul
 - johnie
 - [Rhea](https://github.com/RheaAtre)
@@ -1369,3 +1368,4 @@
 - [agergoni](https://github.com/agergoni)
 - [Edgit G](https://github.com/flame0618)
 - [Abhishek Kumar Roy](https://github.com/Abhishek-kroy)
+- [ahmad777x86](https://github.com/ahmad777x86)
