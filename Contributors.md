@@ -98,6 +98,7 @@
 - [Sashin Trout](https://github.com/sashin123)
 - [Jordy19](https://github.com/Jordy19)
 - [Whrisper](https://github.com/SChrisper)
+- [Anemone](https://github.com/anemone-coronaria)
 - [Neethu Hari](https://github.com/Neethuharii)
 - [Matheus Ranzani](https://github.com/matheusranzani)
 - [Matthieu Bonnot](https://github.com/MrMattam)
