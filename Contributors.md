@@ -3,7 +3,6 @@
 - Raghav (https://github.com/Raghav9871)
 - [Kyrylo Sorokovskyi](https://github.com/sumdeusvitae)
 - [idrees](https://github.com/idrees2k22)
-- Ramiaemi Dashler (https://github.com/dashleremi)
 - [Suresh Deora] (https://github.com/SureshDeora)
 - [Deepankar Sahoo](https://github.com/CodeByDeepankar)
 - [Jide Falaki](https://github.com/jidefal)
@@ -15,6 +14,7 @@
 - [turtle-papa](https://github.com/turtle-papa)6
 - [Pranav](https://github.com/Pranav0102)
 - [Apoorva garg](https://github.com/ApoorvaGarg629)
+- Ramiaemi Dashler (https://github.com/dashleremi)
 - [Desi Petkova Lee](https://github.com/DesiPetkovaLee)
 - [GCabane](https://github.com/GCabane)
 - [gatura](https://github.com/gatura-source)
