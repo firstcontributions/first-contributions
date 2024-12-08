@@ -19,6 +19,7 @@
 - [GCabane](https://github.com/GCabane)
 - [gatura](https://github.com/gatura-source)
 - Mradul
+- Vilkas
 - johnie
 - [Rhea](https://github.com/RheaAtre)
 - shyGuy
