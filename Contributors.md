@@ -134,6 +134,7 @@
 - [SWanHK](https://github.com/swanhk)
   Saksh
 - [Sagar Patel](https://github.com/sagarpatel279)
+- [umair ibrahim idris](https://github.com/omair1996)
 - [Yogesh Joga యోగేష్ జోగ](https://github.com/yogeshjoga)
 - [Rudhram Saraswat](https://github.com/RUDHRAM01)
 - [Juho Lee](https://github.com/jxuho)
