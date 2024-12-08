@@ -21,6 +21,7 @@
 - [ahmad777x86](https://github.com/ahmad777x86)
 - Mradul
 - Vilkas
+- Ketan Yadav
 - johnie
 - [Rhea](https://github.com/RheaAtre)
 - shyGuy
