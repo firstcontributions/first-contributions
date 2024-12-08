@@ -17,6 +17,7 @@
 - [Desi Petkova Lee](https://github.com/DesiPetkovaLee)
 - [GCabane](https://github.com/GCabane)
 - [gatura](https://github.com/gatura-source)
+- Vilkas
 - Mradul
 - johnie
 - [Rhea](https://github.com/RheaAtre)
