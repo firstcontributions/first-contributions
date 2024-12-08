@@ -38,6 +38,7 @@
 - [Tim Petri](https://github.com/timmytabasco)
 - [@thenocturnaldevgypsy-io | TheNocturnalDevGypsy (Abegail Torrendon)](https://github.com/thenocturnaldevgypsy-io)
 - [Tsafac Nkombong Regine Cyrille](https://github.com/Regine12)
+- Dante
 - [Michael Gabriel](https://github.com/maranatha443)
 - [SHP](https://github.com/Su-Hnin)
 - [ITSMijaiL](https://github.com/ITSMijaiL)
@@ -51,6 +52,7 @@
 - [bivekk51] (https://github.com/bivekk51)
 - [AjaySinghKunwar](https://github.com/AjaySinghKunwar007)
 - [Vilashkumar Daate](https://github.com/vilash99)
+- [Adhish Goswami](https://github.com/Adhishg704)
 - [Zach Garza](https://github.com/ZachG1235)
 - [Mwofoh-Adriel](https://github.com/Mwofoh-Adriel)
 - [Eric-DaRosa](https://github.com/EricDar12)
@@ -533,6 +535,7 @@
 - [vin709](https://github.com/vin709)
 - [Chandana Srinivasa Yatisha](https://github.com/chandanasy)
 - [Praveen R](https://github.com/PRAVEENRP1047)
+- [Caio Barbosa](https://github.com/CaioBarbosaAdS)
 - [MohanRaj R](https://github.com/Mohanraj7373)
 - [Nb](https://github.com/Neeraj6Maths)
 - [Arthur Griffith](https://github.com/agriffith18)
