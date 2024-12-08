@@ -2,6 +2,7 @@
 
 - Raghav (https://github.com/Raghav9871)
 - [Kyrylo Sorokovskyi](https://github.com/sumdeusvitae)
+- [idrees](https://github.com/idrees2k22)
 - [Suresh Deora] (https://github.com/SureshDeora)
 - [Deepankar Sahoo](https://github.com/CodeByDeepankar)
 - [Jide Falaki](https://github.com/jidefal)
