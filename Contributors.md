@@ -1369,4 +1369,3 @@
 - [agergoni](https://github.com/agergoni)
 - [Edgit G](https://github.com/flame0618)
 - [Abhishek Kumar Roy](https://github.com/Abhishek-kroy)
-- [ahmad777x86](https://github.com/ahmad777x86)
