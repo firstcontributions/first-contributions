@@ -266,6 +266,7 @@
 - [Bryson Morton](https://github.com/bryson-morton)
 - Bhavya Singla
 - Gabriele Agosta
+- [Ejorhovi Gift](https://github.com/g1ft-code)
 - Kalhara Batangala (https://github.com/KalharaBatangala)
 - [Ricardo Gomes](https://github.com/ricardogomes)
 - Peter
