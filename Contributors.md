@@ -20,6 +20,7 @@
 - [gatura](https://github.com/gatura-source)
 - [ahmad777x86](https://github.com/ahmad777x86)
 - Mradul
+- Vilkas
 - johnie
 - [Rhea](https://github.com/RheaAtre)
 - shyGuy
@@ -27,6 +28,7 @@
 - add-lansar
 - [Twinkle](https://github.com/Twinkle748)
 - Hi, I'm Anuj.
+- Zahra
 - [Jeanette Gonzalez](https://github.com/JeanetteGz)
 - [Daniel Molina](https://github.com/molinafm30)
 - [HannanToprakPia](https://github.com/HannanToprakPia)
@@ -39,6 +41,7 @@
 - [@thenocturnaldevgypsy-io | TheNocturnalDevGypsy (Abegail Torrendon)](https://github.com/thenocturnaldevgypsy-io)
 - [Tsafac Nkombong Regine Cyrille](https://github.com/Regine12)
 - Dante
+- Pooja
 - [Michael Gabriel](https://github.com/maranatha443)
 - [SHP](https://github.com/Su-Hnin)
 - [ITSMijaiL](https://github.com/ITSMijaiL)
@@ -51,6 +54,7 @@
 - [SaginalaAzeez](https://github.com/asheedh)
 - [bivekk51] (https://github.com/bivekk51)
 - [AjaySinghKunwar](https://github.com/AjaySinghKunwar007)
+- [SaboorNisha](https://github.com/SaboorNisha)
 - [Vilashkumar Daate](https://github.com/vilash99)
 - [Adhish Goswami](https://github.com/Adhishg704)
 - [Zach Garza](https://github.com/ZachG1235)
@@ -59,6 +63,7 @@
 - [Eddgar Rojas](https://github.com/Eddgar0)
 - [Leandro Choque](https://github.com/Leannnmv)
 - [Shagun Sharma](https://github.com/shagunsharma6677)
+-[hey bro](https://github.com/heybro123)
 - [Magdalin princy](https://github.com/Magdalinprincy/)
 - [Hector-Ventura](https://github.com/0Label0)
 - [hide361](https://github.com/hide361)
@@ -71,9 +76,9 @@
 - [Auwalu Hamza](https://github.com/afhamu)
 - [Guilherme Andrade](https://github.com/ZeroRBK)
 - [Akshay Shahi](https://github.com/Akshayshahi900)
-  [kabya deb](https://github.com/kabyadeb)
-  [Khushi Ray](https://github.com/khushiray07)
-  [Gnanendra Naidu N](https://github.com/gnanendranaidun)
+- [kabya deb](https://github.com/kabyadeb)
+- [Khushi Ray](https://github.com/khushiray07)
+- [Gnanendra Naidu N](https://github.com/gnanendranaidun)
 - [Vasupriya Patnaik](https://github.com/VasupriyaPatnaik)
 - [Sashakt Keshri](https://github.com/SASHAKT1290)
 - [Varun Sharma](https://github.com/varunsh20/)
@@ -109,6 +114,7 @@
 - [Matheus Ranzani](https://github.com/matheusranzani)
 - [Matthieu Bonnot](https://github.com/MrMattam)
 - [KWYK](https://github.com/stevenchen99)
+- [Piero Santisteban](https://github.com/JPSantistebanQ)
 - [Gabriel Ripper](https://github.com/gabripper)
 - [Thales Winther](https://github.com/thaleswinther)
 - [Tornike Tsulukidze](https://github.com/TheMechanicalBeing)
@@ -1369,3 +1375,5 @@
 - [agergoni](https://github.com/agergoni)
 - [Edgit G](https://github.com/flame0618)
 - [Abhishek Kumar Roy](https://github.com/Abhishek-kroy)
+- [Luciano-Jeonhyunjun](https://github.com/Luciano-JeonHyunJun)
+- cyber9host
