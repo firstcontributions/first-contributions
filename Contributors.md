@@ -533,6 +533,7 @@
 - [vin709](https://github.com/vin709)
 - [Chandana Srinivasa Yatisha](https://github.com/chandanasy)
 - [Praveen R](https://github.com/PRAVEENRP1047)
+- [Caio Barbosa](https://github.com/CaioBarbosaAdS)
 - [MohanRaj R](https://github.com/Mohanraj7373)
 - [Nb](https://github.com/Neeraj6Maths)
 - [Arthur Griffith](https://github.com/agriffith18)
