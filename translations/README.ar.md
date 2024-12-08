@@ -6,7 +6,7 @@
 # <div dir="rtl">مساهمتك الأولى</div>
 
 <div dir="rtl">
-الصعوبة متوقعة عندما تبدأ بأي عمل جديد، خصوصاً إذا كان العمل يتضمن أشخاص آخرون، مما يجعل الوقوع في الخطأ مزعجًا.
+الصعوبة متوقعة عندما تبدأ بأي عمل جديد، خصوصاً إذا كان العمل يتضمن أشخاصًا آخرين، مما يجعل الوقوع في الخطأ مزعجًا.
 <br>
 لكن المساهمة في مشاريع مفتوحة المصدر يتطلب ويتوقع الخطأ ولهذا السبب سيساعدك الآخرون في تصحيح هذا الخطأ.
 <br>
@@ -42,7 +42,7 @@
 </div>
 <img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 <div dir="rtl">
-افتح terminal وأُكتب الأمر التالي:
+افتح terminal واكتُب الأمر التالي:
 </div>
 
 ```
@@ -90,7 +90,7 @@ git checkout -b "add-alonzo-church"
 
 <div dir="rtl">
 الآن قم بفتح الملف "Contributors.md" في محرر النصوص المفضل لديك وأضف اسمك ثم احفظ الملف.
-بعد ذلك اذهب إلى terminal واكتب الأمر هذا<code>git status</code> هذا الأمر سيظهر لك التغيرات التي حدثت في المشروع.
+بعد ذلك اذهب إلى terminal واكتب الأمر <code>git status</code>. هذا الأمر سيظهر لك التغييرات التي حدثت في المشروع.
 لإضافة هذه التغييرات قم بإضافتها عن طريق هذا الأمر <code>git add</code>.
 </div>
 
@@ -107,7 +107,7 @@ git commit -m "Add <your-name> to Contributors list"
 <div dir="rtl"> استبدل <code>&#60;your-name&#62;</code> باسمك. </div>
 <br>
 
-## <div dir="rtl"> ارفع التغييرات إلى github - Push changes to Github </div>
+## <div dir="rtl"> ارفع التغييرات إلى Push changes to Github - Github </div>
 
 <div dir="rtl">ارفع التغييرات عن طريق الأمر <code>git push</code></div>
 
@@ -128,33 +128,33 @@ git push origin "add-your-name"
 
 <img style="float: left;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-<div dir="rtl">بعد المراجعة سوف أقوم بدمج تغيرراتك إلى الفرع الرئيسي في المشروع. سيتم تنبيهك عن طريق البريد الإلكتروني بذلك.</div>
+<div dir="rtl">بعد المراجعة سوف أقوم بدمج تغييراتك إلى الفرع الرئيسي في المشروع. سيتم تنبيهك عن طريق البريد الإلكتروني بذلك.</div>
 
-<div dir="rtl">الفرع الرئيسي الخاص بك لن يحتوي على هذه التغيررات. عليك مزامنته مع الفرع الرئيس عن طريق الخطوات التالية.</div>
+<div dir="rtl">الفرع الرئيسي الخاص بك لن يحتوي على هذه التغييرات. عليك مزامنته مع الفرع الرئيسي عن طريق الخطوات التالية.</div>
 
 ## <div dir="rtl">مزامنة نسختك مع المشروع الرئيسي</div>
 
- <div dir="rtl">الخطوة الأولى، انتقل إلى الفرع الرئيس.</div>
+ <div dir="rtl">الخطوة الأولى، انتقل إلى الفرع الرئيسي.</div>
 
 ```
 git checkout master
 ```
 
  <div dir="rtl">ثانياً، أضف رابط مشروعي كـ<code>upstream remote url</code>.</div>
- 
+
 ```
 git remote add upstream https://github.com/Roshanjossey/first-contributions
 ```
 
 <div dir="rtl">بهذه الطريقة نخبر git أن هناك نسخة أخرى من هذا المشروع في هذا الرابط ونسميها <code>upstream</code>.
-بعد أن أوافق على تغيرراتك، قم بسحب النسخة الجديدة من المشروع عن طريق الأمر التالي:
+بعد أن أوافق على تغييراتك، قم بسحب النسخة الجديدة من المشروع عن طريق الأمر التالي:
 </div>
 
 ```
 git fetch upstream
 ```
 
-<div dir="rtl">هنا سنقوم بسحب جميع التغييرات من <code>(upstream remote)</code>. والآن، عليك أن تدمج التحديثات الجديدة من فرعي إلى فرعك الرئيس.</div>
+<div dir="rtl">هنا سنقوم بسحب جميع التغييرات من <code>(upstream remote)</code>. والآن، عليك أن تدمج التحديثات الجديدة من فرعي إلى فرعك الرئيسي.</div>
 
 ```
 git rebase upstream/master
@@ -171,6 +171,6 @@ git push origin master
 
 ## <div dir="rtl">توجيهات بإستخدام أدوات أخرى</div>
 
-| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
+| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md)                                                                                                                          | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md)                                                                                                                                        | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                                                  | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                                      | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md)                                                                                                                                                          |

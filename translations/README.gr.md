@@ -3,15 +3,15 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
-# Πρώτη Συνεισφορά
+# Πρώτες Συνεισφορές
 
-Είναι πάντα δύσκολο να κάνεις κάτι για πρώτη φορά. Ειδικά όταν συνεργάζεσαι με άλλους και κάνεις λάθη, η κατάσταση γίνεται ιδιαίτερα άβολη. Αλλά το σημαντικότερο πράγμα στο ανοιχτό λογισμικό είναι η συνεργασία και το να δουλεύουμε μαζί. Θέλαμε να απλοποιήσουμε τον τρόπο με τον οποίο οι άνθρωποι που για πρώτη φορά συνεισφέρουν στο ανοιχτό λογισμικό, μαθαίνουν και κάνουν πράγματα.
+Αυτό το έργο έχει σκοπό να απλοποιήσει και να καθοδηγήσει τον τρόπο με τον οποίο οι αρχάριοι κάνουν την πρώτη τους συνεισφορά. Αν σκοπεύετε να κάνετε την πρώτη σας συνεισφορά, ακολουθήστε τα παρακάτω βήματα. 
 
-Μπορείτε να βοηθηθείτε διαβάζοντας άρθρα και βλέποντας ενημερωτικά βίντεο, αλλά τίποτα δε συγκρίνεται με το να δουλεύετε σε ένα πραγματικό project. Αυτό το έργο έχει στόχο να κατευθύνει και να απλοποιήσει τον τρόπο με τον οποίο οι σχετικά άπειροι συνεισφέρουν για πρώτη φορά σε κώδικα ανοιχτού λογισμικού. Σκεφτείτε ότι όσο πιο χαλαροί είστε τόσο πιο εύκολα μαθαίνετε. Εάν προσπαθείτε να κάνετε την πρώτη σας συνεισφορά σε κώδικα, ακολουθήστε τα επόμενα απλά βήματα.
+Αν δεν είστε άνετοι με τη γραμμή εντολών, [εδώ υπάρχουν σεμινάρια που χρησιμοποιούν γραφικά εργαλεία](https://github.com/firstcontributions/first-contributions#tutorials-using-other-tools)
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-Εάν δεν έχετε εγκατεστημένο το git στον υπολογιστή σας, [εγκαταστήστε το]( https://help.github.com/articles/set-up-git/ )
+Εάν δεν έχετε εγκατεστημένο το git στον υπολογιστή σας, [εγκαταστήστε το](https://help.github.com/articles/set-up-git/)
 
 ## Αντιγράψτε το αποθετήριο (fork)
 
@@ -28,11 +28,13 @@
 ```
 git clone "σύνδεσμος που μόλις αντιγράψατε"
 ```
+
 Όπου "σύνδεσμος που μόλις αντιγράψατε" (χωρίς τα εισαγωγικά) είναι ο σύνδεσμος για αυτό το αποθετήριο. Δείτε τα προηγούμενα βήματα για να βρείτε αυτόν τον σύνδεσμο.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 Για παράδειγμα:
+
 ```
 git clone https://github.com/this-is-you/first-contributions.git
 ```
@@ -41,23 +43,27 @@ git clone https://github.com/this-is-you/first-contributions.git
 
 ## Δημιουργήστε ένα νέο παρακλάδι (branch)
 
-Μεταφερθείτε στο φάκελο του αποθετηρίου στον υπολογιστή σας εάν δεν είστε ήδη εκεί.
+Πηγαίνετε στο φάκελο του αποθετηρίου στον υπολογιστή σας εάν δεν είστε ήδη εκεί.
 
 ```
 cd first-contributions
 ```
+
 Τώρα δημιουργείστε ένα νέο παρακλάδι χρησιμοποιώντας την εντολή `git switch` :
+
 ```
 git switch -c your-new-branch-name
 ```
 
 Για παράδειγμα:
+
 ```
 git switch -c add-alonzo-church
 ```
-(Το όνομα του παρακλαδιού δεν χρειάζεται να περιέχει την λέξη *add* αλλά είναι λογικό να την συμπεριλάβουμε μιας και ο σκοπός του παρακλαδιού είναι να προσθέσουμε το όνομα μας σε μια λίστα.)
 
-## Πραγματοποιήστε αλλαγές και σώστε τες (add & commit)
+(Το όνομα του παρακλαδιού δεν χρειάζεται να περιέχει την λέξη _add_ αλλά είναι λογικό να την συμπεριλάβουμε μιας και ο σκοπός του παρακλαδιού είναι να προσθέσουμε το όνομα μας σε μια λίστα.)
+
+## Πραγματοποιήστε τις αλλαγές και αποθηκεύστετες (add & commit)
 
 Τώρα ανοίξτε το αρχείο `Contributors.md` με έναν επεξεργαστή κειμένου. Χρειάζεται να είστε εξοικειωμένοι με την Markdown, μια ελαφριά γλώσσα σήμανσης. Δείτε στο [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) για το πως να χρησιμοποιήσετε την Markdown.
 
@@ -77,24 +83,28 @@ git switch -c add-alonzo-church
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
-Εάν πάτε στο φάκελο του αποθετηρίου και τρέξετε την εντολή `git status`, θα δείτε ότι υπάρχουν κάποιες αλλαγές. Προσθέστε αυτές τις αλλαγές χρησιμοποιώντας την εντολή `git add`.
+Εάν πάτε στο φάκελο του αποθετηρίου και γράψετε την εντολή `git status`, θα δείτε ότι υπάρχουν κάποιες αλλαγές. Προσθέστε αυτές τις αλλαγές χρησιμοποιώντας την εντολή `git add`.
 
 ```
 git add Contributors.md
 ```
 
 Τώρα σώστε αυτές τις αλλαγές χρησιμοποιώντας την παρακάτω `git commit` εντολή.
+
 ```
 git commit -m "Add <your-name> to Contributors list"
 ```
+
 όπου `<your-name>` αντικαταστήστε με το όνομα σας
 
 ## Αποθηκεύστε τις αλλαγές σας στο github (push)
 
 Αποθηκεύστε τις αλλαγές σας χρησιμοποιώντας την εντολή `git push`
+
 ```
 git push origin <add-your-name>
 ```
+
 όπου `<add-your-name>` αντικαταστήστε με το όνομα του παρακλαδιού(branch) που δημιουργήσατε προηγουμένως
 
 ## Υποβάλλετε τις αλλαγές σας για έλεγχο
@@ -111,6 +121,8 @@ git push origin <add-your-name>
 
 ## Τι να κάνετε τώρα;
 
+Συγχαρητήρια! Μόλις ολοκληρώσατε την τυπική ροή εργασιών _fork -> clone -> edit -> pull request_ που θα συναντήσετε συχνά ως συνεργάτης! 
+
 Γιορτάστε και μοιραστείτε την συνεισφορά σας με τους φίλους και τους ακόλουθους σας πηγαίνοντας στο [web app](https://firstcontributions.github.io/#social-share).
 
 Μπορείτε να συμμετέχετε στην ομάδα μας στο slack σε περίπτωση που θέλετε κάποια βοήθεια ή έχετε κάποια ερώτηση.
@@ -120,9 +132,8 @@ git push origin <add-your-name>
 
 ### [Επιπρόσθετο υλικό](../additional-material/git_workflow_scenarios/additional-material.md)
 
-
 ## Εκπαιδευτικό Υλικό Χρήσης Άλλων Εργαλείων
 
-| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
+| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | --- | --- | --- | --- | --- | --- |
 | [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md) | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md) | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md) | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md) | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md) | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md) |
