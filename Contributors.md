@@ -1,6 +1,7 @@
 # Contributors
 
 - Raghav (https://github.com/Raghav9871)
+- [Edgar Flores](https://github.com/efloresCSE)
 - [Kyrylo Sorokovskyi](https://github.com/sumdeusvitae)
 - [idrees](https://github.com/idrees2k22)
 - [Suresh Deora] (https://github.com/SureshDeora)
