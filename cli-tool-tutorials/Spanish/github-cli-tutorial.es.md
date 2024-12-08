@@ -15,11 +15,11 @@ Esta guía es un poco más desafiante ya que no usamos ninguna interfaz gráfica
 
 El primer requisito es tener:
 - Git instalado (cómo instalar [git](https://git-scm.com/downloads))
-- Cuenta Github
+- Cuenta de Github
 
-Now we need to install the `github-cli` tool in our system by following the [official documentation](https://github.com/cli/cli#installation)
+Ahora vamos a necesitar instalar el `github-cli` En nuestro sistema siguiendo la [documentación oficial](https://github.com/cli/cli#installation)
 
-After that, we need to login in the CLI, so enter this command: 
+Después, debemos iniciar sesión en **CLI** (Interfaz de Línea de Comandos) usando el siguiente comando:
 ```bash 
 gh auth login
 ```
@@ -63,13 +63,13 @@ git push origin -u your-branch-name
 reemplazando `your-branch-name` con el nombre de la sucursal que creaste anteriormente.
 
 <details>
-<summary> <strong>If you get any errors while pushing, click here:</strong> </summary>
+<summary> <strong>Si tienes algún error al hacer pull, haz click aquí</strong> </summary>
 
 - ### Authentication Error
      <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
   remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
   fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
-  Go to [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) on generating and configuring an SSH key to your account.
+  Visita [Tutorial de github](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) on generating and configuring an SSH key to your account.
 
 </details>
 
@@ -96,6 +96,6 @@ Ahora comencemos a contribuir a otros proyectos. Hemos compilado una lista de pr
 
 ### [Material adicional](additional-material/git_workflow_scenarios/additional-material.md)
 
-## Tutorials Using Other Tools
+## Tutoriales usando otras herramientas
 
-[Back to main page](https://github.com/firstcontributions/first-contributions#tutorials-using-other-tools)
+[Regresa a la página principal](https://github.com/firstcontributions/first-contributions#tutorials-using-other-tools)
