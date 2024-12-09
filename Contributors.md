@@ -25,6 +25,7 @@
 - [ahmad777x86](https://github.com/ahmad777x86)
 - [Nikolai B.](https://github.com/nbardzinkevichh)
 - Mradul
+- Lucie C. 
 - Vilkas
 - Ketan Yadav
 - johnie
