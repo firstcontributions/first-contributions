@@ -14,6 +14,7 @@
 - [Starkcover](https://github.com/Starkcover)
 - [MichaelAlanAXL]
 - [Lemar Tokham](https://github.com/LemarTokham)
+- [Bird Dog](https://github.com/acuhlian)
 - [Pasindu Kavinda](https://github.com/pasindu-kavinda)
 - [AutumnFrost](https://github.com/AutumnFrost)
 - [Abhinav](https://github.com/saiabhinav75)
