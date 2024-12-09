@@ -12,6 +12,7 @@
 - [Jide Falaki](https://github.com/jidefal)
 - [Sergio DG](https://github.com/dgsergio)
 - [Starkcover](https://github.com/Starkcover)
+- [MichaelAlanAXL]
 - [Lemar Tokham](https://github.com/LemarTokham)
 - [Pasindu Kavinda](https://github.com/pasindu-kavinda)
 - [AutumnFrost](https://github.com/AutumnFrost)
@@ -23,10 +24,12 @@
 - [Desi Petkova Lee](https://github.com/DesiPetkovaLee)
 - [GCabane](https://github.com/GCabane)
 - [gatura](https://github.com/gatura-source)
+- [KristinnTh](https://github.com/KristinnTh)
 - [ahmad777x86](https://github.com/ahmad777x86)
 - [Nikolai B.](https://github.com/nbardzinkevichh)
 - Mradul
 - Lucie C. 
+- Ron G.
 - Vilkas
 - Ketan Yadav
 - johnie
@@ -45,6 +48,7 @@
 - [Soaring Eagle](https://github.com/SoaringEagle910)
 - [Omkar Guha](https://github.com/omkarguha)
 - [Josmer Rodriguez](https://github.com/Josmerr)
+  [Shiva Prasad Reddy](https://github.com/Shiva-Prasad-Reddy-K)
 - [Max Rauber](https://github.com/maxrbr)
 - [TsvetislavRangelov](https://github.com/TsvetislavRangelov)
 - [Tim Petri](https://github.com/timmytabasco)
@@ -1022,6 +1026,7 @@
 - [Garfield](https://github.com/jiafie7)
 - [S Yougesh Kumar](https://github.com/Yougesh978)
 - [MohammadKad](https://github.com/mohammadkad)
+-[Atilola Oyediji] (https://github.com/netblaiz)
 - [Aniket Negi](https://github.com/theaniketnegi)
 - [yunmaoQu](https://github.com/yunmaoQu)
 - [Kamari M.](https://github.com/Kamari93)
@@ -1357,6 +1362,7 @@
 - [shilinwang](https://github.com/crzwzy)
 - [Taufi](https://github.com/Taufi)
 - [Jack Sighton](https://github.com/JackBerezhnov)
+- [Ellis Franklin](https://github.com/ellfran-7)
 - [alekhine](https://github.com/Src0p)
 - [Mtendekuyokwa19](https://github.com/Mtendekuyokwa19)
 - [Watpo54](https://github.com/Watpo54)
@@ -1396,3 +1402,5 @@
 - [Shubham Kumar Subudhi](https://github.com/subhamKS)
 - [Luciano-Jeonhyunjun](https://github.com/Luciano-JeonHyunJun)
 - [Césaire-Dang](https://github.com/As2pique5)
+- [Shivam Maniya] (https://github.com/shivam-9999)
+- cyber9host
