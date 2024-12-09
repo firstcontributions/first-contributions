@@ -48,6 +48,7 @@
 - [Soaring Eagle](https://github.com/SoaringEagle910)
 - [Omkar Guha](https://github.com/omkarguha)
 - [Josmer Rodriguez](https://github.com/Josmerr)
+  [Shiva Prasad Reddy](https://github.com/Shiva-Prasad-Reddy-K)
 - [Max Rauber](https://github.com/maxrbr)
 - [TsvetislavRangelov](https://github.com/TsvetislavRangelov)
 - [Tim Petri](https://github.com/timmytabasco)
