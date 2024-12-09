@@ -24,6 +24,7 @@
 - Vilkas
 - Ketan Yadav
 - johnie
+- [gooseneedsbread](https://github.com/gooseneedsbread)
 - [Rhea](https://github.com/RheaAtre)
 - shyGuy
 - hi, iam anoof
