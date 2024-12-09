@@ -28,6 +28,7 @@
 - [Nikolai B.](https://github.com/nbardzinkevichh)
 - Mradul
 - Lucie C. 
+- Ron G.
 - Vilkas
 - Ketan Yadav
 - johnie
