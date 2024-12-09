@@ -1358,6 +1358,7 @@
 - [shilinwang](https://github.com/crzwzy)
 - [Taufi](https://github.com/Taufi)
 - [Jack Sighton](https://github.com/JackBerezhnov)
+- [Ellis Franklin](https://github.com/ellfran-7)
 - [alekhine](https://github.com/Src0p)
 - [Mtendekuyokwa19](https://github.com/Mtendekuyokwa19)
 - [Watpo54](https://github.com/Watpo54)
