@@ -1,5 +1,6 @@
 # Contributors
 
+- [mushrifshahreyar] (My first contribution: https://github.com/mushrifshahreyar) 
 - [JoachimC] (https://github.com/Joachim280)
 - [Arsalan Mohseni](https://github.com/arsalanmohseni)
 - Raghav (https://github.com/Raghav9871)
@@ -25,6 +26,7 @@
 - [ahmad777x86](https://github.com/ahmad777x86)
 - [Nikolai B.](https://github.com/nbardzinkevichh)
 - Mradul
+- Lucie C. 
 - Vilkas
 - Ketan Yadav
 - johnie
@@ -333,6 +335,7 @@
 - [Yor-Jihons](https://github.com/Yor-Jihons)
 - [tayobaki](https://github.com/tayobaki)
 - [Charles Sanders @visionthex](https://github.com/visionthex)
+- [Sayan](https://github.com/sayan112207)
 - [Edmond Neziraj](https://github.com/EdmondNeziraj)
 - [Kaivan Shah](https://github.com/Kaivanshah1)
 - [Felix Gomez @felixdavid12](https://github.com/felixdavid12)
@@ -1326,6 +1329,7 @@
 - [Aryan Mahida](https://github.com/aryan083)
 - [Vetle HJ](https://github.com/VetleHJ)
 - [Niranjan A S](https://github.com/Niranjan-A-S)
+- [Gabriel Husain](https://github.com/gabe-husain)
 - [Srekaravarshan N K](https://github.com/Srekaravarshan)
 - [Avinash Mangalore Suresh](https://github.com/msavinash)
 - [Ridhi Priya](https://github.com/Ridhi-priya)
