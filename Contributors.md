@@ -12,6 +12,7 @@
 - [Jide Falaki](https://github.com/jidefal)
 - [Sergio DG](https://github.com/dgsergio)
 - [Starkcover](https://github.com/Starkcover)
+- [MichaelAlanAXL]
 - [Lemar Tokham](https://github.com/LemarTokham)
 - [Pasindu Kavinda](https://github.com/pasindu-kavinda)
 - [AutumnFrost](https://github.com/AutumnFrost)
