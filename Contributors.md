@@ -1,5 +1,6 @@
 # Contributors
 
+- [Arsalan Mohseni](https://github.com/arsalanmohseni)
 - Raghav (https://github.com/Raghav9871)
 - [Edgar Flores](https://github.com/efloresCSE)
 - [Kyrylo Sorokovskyi](https://github.com/sumdeusvitae)
