@@ -90,7 +90,7 @@
 
 # First Contributions
 
-This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
+A contribution in GitHub refers to any activity that improves a project, such as adding or editing code, reporting issues, creating pull requests, or improving documentation. Contributions are a way for users to collaborate and help enhance the quality and functionality of an open-source project. This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 
 _If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
 
