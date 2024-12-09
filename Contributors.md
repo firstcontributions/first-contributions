@@ -20,6 +20,7 @@
 - [GCabane](https://github.com/GCabane)
 - [gatura](https://github.com/gatura-source)
 - [ahmad777x86](https://github.com/ahmad777x86)
+- [Nikolai B.](https://github.com/nbardzinkevichh)
 - Mradul
 - Vilkas
 - Ketan Yadav
