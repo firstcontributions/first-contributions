@@ -1325,6 +1325,7 @@
 - [Aryan Mahida](https://github.com/aryan083)
 - [Vetle HJ](https://github.com/VetleHJ)
 - [Niranjan A S](https://github.com/Niranjan-A-S)
+- [Gabriel Husain](https://github.com/gabe-husain)
 - [Srekaravarshan N K](https://github.com/Srekaravarshan)
 - [Avinash Mangalore Suresh](https://github.com/msavinash)
 - [Ridhi Priya](https://github.com/Ridhi-priya)
