@@ -1,5 +1,6 @@
 # Contributors
 
+- [JoachimC] (https://github.com/Joachim280)
 - [Arsalan Mohseni](https://github.com/arsalanmohseni)
 - Raghav (https://github.com/Raghav9871)
 - [Edgar Flores](https://github.com/efloresCSE)
