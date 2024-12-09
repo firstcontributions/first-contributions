@@ -8,6 +8,7 @@
 - [Deepankar Sahoo](https://github.com/CodeByDeepankar)
 - [Jide Falaki](https://github.com/jidefal)
 - [Sergio DG](https://github.com/dgsergio)
+- [Starkcover](https://github.com/Starkcover)
 - [Lemar Tokham](https://github.com/LemarTokham)
 - [Pasindu Kavinda](https://github.com/pasindu-kavinda)
 - [AutumnFrost](https://github.com/AutumnFrost)
