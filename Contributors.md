@@ -23,18 +23,9 @@
 - [gatura](https://github.com/gatura-source)
 - [ahmad777x86](https://github.com/ahmad777x86)
 - [Nikolai B.](https://github.com/nbardzinkevichh)
-- Mradul
-- Vilkas
-- Ketan Yadav
-- johnie
 - [gooseneedsbread](https://github.com/gooseneedsbread)
 - [Rhea](https://github.com/RheaAtre)
-- shyGuy
-- hi, iam anoof
-- add-lansar
 - [Twinkle](https://github.com/Twinkle748)
-- Hi, I'm Anuj.
-- Zahra
 - [Leaphea](https://github.com/sok-leaphea)
 - [Jeanette Gonzalez](https://github.com/JeanetteGz)
 - [Daniel Molina](https://github.com/molinafm30)
@@ -48,8 +39,6 @@
 - [@thenocturnaldevgypsy-io | TheNocturnalDevGypsy (Abegail Torrendon)](https://github.com/thenocturnaldevgypsy-io)
 - [Tsafac Nkombong Regine Cyrille](https://github.com/Regine12)
 - [Mohamed Alam](https://github.com/the-ALAM)
-- Dante
-- Pooja
 - [Michael Gabriel](https://github.com/maranatha443)
 - [SHP](https://github.com/Su-Hnin)
 - [ITSMijaiL](https://github.com/ITSMijaiL)
@@ -156,7 +145,6 @@
 - [urkwr](https://github.com/urkwr)
 - [Alish-0x](https://github.com/Alish-0x)
 - [SWanHK](https://github.com/swanhk)
-  Saksh
 - [Sagar Patel](https://github.com/sagarpatel279)
 - [Yogesh Joga యోగేష్ జోగ](https://github.com/yogeshjoga)
 - [Rudhram Saraswat](https://github.com/RUDHRAM01)
@@ -279,12 +267,9 @@
 - [Evgeny Kozelskiy](https://github.com/Der12kl)
 - [Benjamin Tsoumagas](https://github.com/tsoumagas-benjamin)
 - [Bryson Morton](https://github.com/bryson-morton)
-- Bhavya Singla
-- Gabriele Agosta
 - [Ejorhovi Gift](https://github.com/g1ft-code)
 - Kalhara Batangala (https://github.com/KalharaBatangala)
 - [Ricardo Gomes](https://github.com/ricardogomes)
-- Peter
 - [Jon Gumero](https://github.com/jongumero)
 - [Thomas Fogarty](https://github.com/Thoss24)
 - [Fathalrhman Adam](https://github.com/Fathalrhman267)
@@ -408,11 +393,9 @@
 - [Nikolay Gusev](https://github.com/TankistPro)
 - [Abhi Patil](https://github.com/Abhisucks)
 - [Xin Xiao](https://github.com/ThetNaingLin7)
-- [Onyango Jerry](No link sorry)
 - [Ambrose Matata](https://github.com/Masaku12)
 - [Trevor Carmack](http://github.com/tscarmack)
 - [ruvvan](https://github.com/ruvvan)
-- [Jayavardhan gorlamandala](No link sorry)
 - [Ashish Kumar](https://github.com/akdevv)
 - [Julius Oyovwikigho](https://github.com/ojst60)
 - [Abdallah Radfi](https://github.com/AbdallahRdf) 🔥
@@ -433,6 +416,7 @@
 - [Robert Judal Regalado](https://github.com/rojre1979)
 - [Pratik Thorat](https://github.com/PratikThoratNortheastern)
 - [Fuahad](https://github.com/fuahad)
+- mam
 - [Shahmeer malik](https://github.com/shahmeermalik1)
 - [Jalithc](https://github.com/Jalithc)
 - [Ahd. Kabeer Hadi](https://github.com/Ahd-Kabeer-Hadi)
