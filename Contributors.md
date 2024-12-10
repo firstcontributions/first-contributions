@@ -1421,6 +1421,7 @@
 - [Marta Laveda](https://github.com/MartaLB95)
 - [Colin BFH](https://github.com/Colin5734)
 - [AnishKarthic](https://github.com/ANISHKARTHIC)
+- [anagha](https://github.com/anagha-v-bhat)
 - [liuuu2004](https://github.com/liuuu2004)
 - [Rohit Nain](https://github.com/rohit141914)
 - [Sainaaa](https://github.com/sainaa21) 
