@@ -9,6 +9,7 @@
 - [Edgar Flores](https://github.com/efloresCSE)
 [Jewel Geea George] (https://github.com/)
 - [Kyrylo Sorokovskyi](https://github.com/sumdeusvitae)
+- [ARPITHA](https://github.com/Arpitha189)  
 - [idrees](https://github.com/idrees2k22)
 - [Suresh Deora] (https://github.com/SureshDeora)
 - [Deepankar Sahoo](https://github.com/CodeByDeepankar)
@@ -21,6 +22,7 @@
 - [Lemar Tokham](https://github.com/LemarTokham)
 - [Bird Dog](https://github.com/acuhlian)
 - [Pasindu Kavinda](https://github.com/pasindu-kavinda)
+- [DhritiTS](https://github.com/DhritiTS)
 - [AutumnFrost](https://github.com/AutumnFrost)
 - [Abhinav](https://github.com/saiabhinav75)
 - [Jeel Bera](https://github.com/beraj2330)
@@ -32,6 +34,8 @@
 - [GCabane](https://github.com/GCabane)
 - [gatura](https://github.com/gatura-source)
 - [KristinnTh](https://github.com/KristinnTh)
+- [veekshitha](https://github.com/Veekshitha21)
+- [TejasK](https://github.com/TejasKoravanavar)
 - [ahmad777x86](https://github.com/ahmad777x86)
 - [Nikolai B.](https://github.com/nbardzinkevichh)
 - Mradul
@@ -51,6 +55,7 @@
 - Zahra
 - [Leaphea](https://github.com/sok-leaphea)
 - [Jeanette Gonzalez](https://github.com/JeanetteGz)
+- [sinchana](https://github.com/Thesinchanaj)
 - [Daniel Molina](https://github.com/molinafm30)
 - [HannanToprakPia](https://github.com/HannanToprakPia)
 - [Soaring Eagle](https://github.com/SoaringEagle910)
@@ -83,6 +88,7 @@
 - [Adhish Goswami](https://github.com/Adhishg704)
 - [Zach Garza](https://github.com/ZachG1235)
 - [Mwofoh-Adriel](https://github.com/Mwofoh-Adriel)
+- [Priya](https://github.com/Priyamahesh24)
 - [Eric-DaRosa](https://github.com/EricDar12)
 - [Eddgar Rojas](https://github.com/Eddgar0)
 - [Leandro Choque](https://github.com/Leannnmv)
@@ -1143,6 +1149,7 @@
 - [Anaida Siv](https://github.com/Anaidasiv)
 - [Naomi Oyerbach](https://github.com/NaomiOyerbach)
 - [Vinia Parker](https://github.com/Lavparker)
+- [Rithwik S Bharadwaj](https://github.com/rithwiksb)
 - [Chandrakanth Kokkiripati](https://github.com/Chandrakanthkokkiripati)
 - [James](https://github.com/jwunet)
 - [Ali Sina](https://github.com/alisina97)
@@ -1416,4 +1423,5 @@
 - nitewing9000
 - [Saumya Thakkar] (https://github.com/Deathstar1999)
 - [woopy] (https://github.com/woopy098)
+  [ Ravikumar S] (https://github.com/Ravikumar07-Byte)
 
