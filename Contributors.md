@@ -2,7 +2,7 @@
 
 -[vishalchauhan] (My first contribution: https://github.com/V1sh4lC)
 - [mushrifshahreyar] (My first contribution: https://github.com/mushrifshahreyar) 
-- [JoachimC] (https://github.com/Joachim280)
+- [raihan] (https://github.com/Joachim280)
 - [Arsalan Mohseni](https://github.com/arsalanmohseni)
 - Raghav (https://github.com/Raghav9871)
 - [Edgar Flores](https://github.com/efloresCSE)
