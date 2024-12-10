@@ -997,7 +997,6 @@
 - [joejoeelephant](https://github.com/joejoeelephant)
 - [amoghshakya](https://github.com/amoghshakya)
 - [Vitor Orsin](https://github.com/YaboiAst)
-- [Jeevan S](https://github.com/JeevanS-777)
 - [Caio Ueda Sampaio](https://github.com/KY-U)
 - [James Russell](https://github.com/James-blend/)
 - [Dastageer HC](https://github.com/dastageer-hc)
@@ -1205,6 +1204,7 @@
 - [Art Villareal](https://github.com/Bushido-Art)
 - [Caleb Osborn](https://github.com/Chaotechnician)
 - [Jerry Yip](https://github.com/yhmyhm0910)
+- [Jeevan S](https://github.com/JeevanS-777)
 - [Michelle X](https://github.com/michelleshx)
   [Pramukh S]
 - [jsdimig](https://github.com/jsdimig)
