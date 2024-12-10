@@ -9,6 +9,7 @@
 - Raghav (https://github.com/Raghav9871)
 - [Edgar Flores](https://github.com/efloresCSE)
 [Jewel Geea George] (https://github.com/)
+- [Diyana](https://github.com/Khoisnam)
 - [Kyrylo Sorokovskyi](https://github.com/sumdeusvitae)
 - [Nimisha](https://github.com/codehusler14)
 - [ARPITHA](https://github.com/Arpitha189)  
@@ -1444,3 +1445,4 @@
 - [woopy] (https://github.com/woopy098)
 - [Poorvika](https://github.com/poorvikaa08)
   [ Ravikumar S] (https://github.com/Ravikumar07-Byte)
+
