@@ -31,7 +31,6 @@
 - [GCabane](https://github.com/GCabane)
 - [gatura](https://github.com/gatura-source)
 - [KristinnTh](https://github.com/KristinnTh)
-- [TejasK](https://github.com/TejasKoravanavar)
 - [ahmad777x86](https://github.com/ahmad777x86)
 - [Nikolai B.](https://github.com/nbardzinkevichh)
 - Mradul
@@ -51,7 +50,6 @@
 - Zahra
 - [Leaphea](https://github.com/sok-leaphea)
 - [Jeanette Gonzalez](https://github.com/JeanetteGz)
-- [sinchana](https://github.com/Thesinchanaj)
 - [Daniel Molina](https://github.com/molinafm30)
 - [HannanToprakPia](https://github.com/HannanToprakPia)
 - [Soaring Eagle](https://github.com/SoaringEagle910)
@@ -1417,4 +1415,5 @@
 - nitewing9000
 - [Saumya Thakkar] (https://github.com/Deathstar1999)
 - [woopy] (https://github.com/woopy098)
+- [Prabhu](https://github.com/pra-bhhuu)
 
