@@ -34,6 +34,7 @@
 - [Jeel Bera](https://github.com/beraj2330)
 - [turtle-papa](https://github.com/turtle-papa)6
 - [Pranav](https://github.com/Pranav0102)
+- [Janvi Chetan Patel](https://github.com/JanviChetanPatel)
 - [Apoorva garg](https://github.com/ApoorvaGarg629)
 - Ramiaemi Dashler (https://github.com/dashleremi)
 - [Desi Petkova Lee](https://github.com/DesiPetkovaLee)
