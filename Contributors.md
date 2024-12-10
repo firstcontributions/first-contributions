@@ -331,7 +331,7 @@
 - [Donovan Guard](https://github.com/dlguard)
 - [Reddi](https://github.com/12eddi)
 - [Feven Seyfu](https://github.com/FevenSeyfu)
-- [Pranav Pise](https://github.com/TheCaptain1810)
+- [PranavPise](https://github.com/TheCaptain1810)
 - [Kai Hyperion Yun](https://github.com/kaihyperion)
 - [Yousof Shahrabi](https://github.com/yousofs)
 - [Kevin Zheng](https://github.com/csdoge007)
