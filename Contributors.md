@@ -10,6 +10,7 @@
 - [Edgar Flores](https://github.com/efloresCSE)
 [Jewel Geea George] (https://github.com/)
 - [Kyrylo Sorokovskyi](https://github.com/sumdeusvitae)
+- [Nimisha](https://github.com/codehusler14)
 - [ARPITHA](https://github.com/Arpitha189)  
 - [idrees](https://github.com/idrees2k22)
 - [Suresh Deora] (https://github.com/SureshDeora)
