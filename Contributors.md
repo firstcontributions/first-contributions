@@ -1142,6 +1142,7 @@
 - [Anaida Siv](https://github.com/Anaidasiv)
 - [Naomi Oyerbach](https://github.com/NaomiOyerbach)
 - [Vinia Parker](https://github.com/Lavparker)
+- [Rithwik S Bharadwaj](https://github.com/rithwiksb)
 - [Chandrakanth Kokkiripati](https://github.com/Chandrakanthkokkiripati)
 - [James](https://github.com/jwunet)
 - [Ali Sina](https://github.com/alisina97)
