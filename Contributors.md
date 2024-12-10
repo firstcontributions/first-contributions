@@ -4,6 +4,7 @@
 - [mushrifshahreyar] (My first contribution: https://github.com/mushrifshahreyar) 
 - [JoachimC] (https://github.com/Joachim280)
 - [Arsalan Mohseni](https://github.com/arsalanmohseni)
+- [Prabhu](https://github.com/pra-bhhuu)
 - [Caroline](https://github.com/perrywinkle2004)
 - [Ravichandra](https://github.com/ravichandra-21/-contributions)
 - Raghav (https://github.com/Raghav9871)
@@ -64,7 +65,6 @@
 - Zahra
 - [Leaphea](https://github.com/sok-leaphea)
 - [Jeanette Gonzalez](https://github.com/JeanetteGz)
-- [sinchana](https://github.com/Thesinchanaj)
 - [Daniel Molina](https://github.com/molinafm30)
 - [HannanToprakPia](https://github.com/HannanToprakPia)
 - [Soaring Eagle](https://github.com/SoaringEagle910)
