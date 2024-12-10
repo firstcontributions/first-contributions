@@ -7,7 +7,7 @@
 - Raghav (https://github.com/Raghav9871)
 - [Edgar Flores](https://github.com/efloresCSE)
 [Jewel Geea George] (https://github.com/)
-- [Kyrylo Sorokovskyi](https://github.com/sumdeusvitae)
+- [Shreyas](https://github.com/Shre-yes10)
 - [idrees](https://github.com/idrees2k22)
 - [Suresh Deora] (https://github.com/SureshDeora)
 - [Deepankar Sahoo](https://github.com/CodeByDeepankar)
