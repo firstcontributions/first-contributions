@@ -293,7 +293,7 @@
 - [shappp1](https://github.com/shappp1) :)
 - [Evgeny Kozelskiy](https://github.com/Der12kl)
 - [Benjamin Tsoumagas](https://github.com/tsoumagas-benjamin)
-- [Bryson Morton](https://github.com/bryson-morton)
+- [SURAJ](https://github.com/suRaj-v3)
 - Bhavya Singla
 - Gabriele Agosta
 - [Ejorhovi Gift](https://github.com/g1ft-code)
