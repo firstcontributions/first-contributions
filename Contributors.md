@@ -66,6 +66,7 @@
 - [Daniel Molina](https://github.com/molinafm30)
 - [HannanToprakPia](https://github.com/HannanToprakPia)
 - [Soaring Eagle](https://github.com/SoaringEagle910)
+- [Floyd Carlo](https://github.com/floo69)
 - [Omkar Guha](https://github.com/omkarguha)
 - [Josmer Rodriguez](https://github.com/Josmerr)
   [Shiva Prasad Reddy](https://github.com/Shiva-Prasad-Reddy-K)
