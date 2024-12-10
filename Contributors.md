@@ -1406,6 +1406,7 @@
 - [Micah Hack](https://github.com/MicahHack)
 - [agergoni](https://github.com/agergoni)
 - [Edgit G](https://github.com/flame0618)
+- [devitha n](https://github.com/Devithan005/first-contributions.git)
 - [Abhishek Kumar Roy](https://github.com/Abhishek-kroy)
 - [Shubham Kumar Subudhi](https://github.com/subhamKS)
 - [Luciano-Jeonhyunjun](https://github.com/Luciano-JeonHyunJun)
