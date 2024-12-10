@@ -996,6 +996,7 @@
 - [Tom Winfield](https://github.com/TomWinfield)
 - [Yatee Singh](https://github.com/yatee-singh)
 - [Cristhian Becerra](https://github.com/cbecerrae)
+- [Amin Khadjenouri](https://github.com/Aminkowski)
 - [Hariharan](https://github.com/Hariharan148)
 - [Atharva Pardeshi](https://github.com/SazedWorldbringer)
 - [Khai Tran](https://github.com/minhkhai2005)
