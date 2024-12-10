@@ -1416,6 +1416,7 @@
 - [liuuu2004](https://github.com/liuuu2004)
 - [Rohit Nain](https://github.com/rohit141914)
 - [Nihal Mohammed](https://github.com/Nihal-Mohammed-V)
+- [Ananya Lokesh](https://github.com/Ananyalokesh01/first-contributions.git)
 - [Micah Hack](https://github.com/MicahHack)
 - [agergoni](https://github.com/agergoni)
 - [Edgit G](https://github.com/flame0618)
@@ -1430,4 +1431,5 @@
 - [Saumya Thakkar] (https://github.com/Deathstar1999)
 - [woopy] (https://github.com/woopy098)
   [ Ravikumar S] (https://github.com/Ravikumar07-Byte)
+
 
