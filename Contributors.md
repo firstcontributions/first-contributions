@@ -12,6 +12,7 @@
 - [Jide Falaki](https://github.com/jidefal)
 - [Sergio DG](https://github.com/dgsergio)
 - [Starkcover](https://github.com/Starkcover)
+- [Nuhu El Adj Souleymane](https://github.com/elsouleymane)
 - [MichaelAlanAXL]
 - [Lemar Tokham](https://github.com/LemarTokham)
 - [Bird Dog](https://github.com/acuhlian)
