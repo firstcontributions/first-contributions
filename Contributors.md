@@ -270,6 +270,7 @@
 - Kate Rasheed
 - [Isabela Magalhães](https://github.com/isarbela)
 - [John Caleb ⚡](https://github.com/thejohncaleb)
+- [Rashmi Pai](https://github.com/RashmiRamdasPai)
 - [Rey Jao](https://github.com/jao-rey)
 - [Wessel Steenkamp](https://github.com/wesse206)
 - [Eiheir](https://github.com/ebininin)
