@@ -1442,10 +1442,6 @@
 - nitewing9000
 - [Saumya Thakkar] (https://github.com/Deathstar1999)
 - [woopy] (https://github.com/woopy098)
-<<<<<<< HEAD
-
-
-=======
 - [Poorvika](https://github.com/poorvikaa08)
   [ Ravikumar S] (https://github.com/Ravikumar07-Byte)
->>>>>>> e754141f38627e5f91b0ad1dc11e5834bc22a740
+
