@@ -50,6 +50,7 @@
 - Zahra
 - [Leaphea](https://github.com/sok-leaphea)
 - [Jeanette Gonzalez](https://github.com/JeanetteGz)
+- [sinchana](https://github.com/Thesinchanaj)
 - [Daniel Molina](https://github.com/molinafm30)
 - [HannanToprakPia](https://github.com/HannanToprakPia)
 - [Soaring Eagle](https://github.com/SoaringEagle910)
