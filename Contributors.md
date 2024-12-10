@@ -1422,9 +1422,11 @@
 - [liuuu2004](https://github.com/liuuu2004)
 - [Rohit Nain](https://github.com/rohit141914)
 - [Sainaaa](https://github.com/sainaa21) 
+- [Lumbini Tambat](https://github.com/Alat07)
 - [Nihal Mohammed](https://github.com/Nihal-Mohammed-V)
 - [Micah Hack](https://github.com/MicahHack)
 - [agergoni](https://github.com/agergoni)
+- [Lumbini Tambat](https://github.com/Alat07)
 - [Edgit G](https://github.com/flame0618)
 [alvisha](https://github.com/Alvisha-28)
 - [Abhishek Kumar Roy](https://github.com/Abhishek-kroy)
@@ -1438,4 +1440,3 @@
 - [woopy] (https://github.com/woopy098)
 - [Poorvika](https://github.com/poorvikaa08)
   [ Ravikumar S] (https://github.com/Ravikumar07-Byte)
-
