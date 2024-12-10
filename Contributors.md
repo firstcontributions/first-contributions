@@ -4,7 +4,6 @@
 - [mushrifshahreyar] (My first contribution: https://github.com/mushrifshahreyar) 
 - [JoachimC] (https://github.com/Joachim280)
 - [Arsalan Mohseni](https://github.com/arsalanmohseni)
-- [Lumbini Tambat](https://github.com/Alat07)
 - Raghav (https://github.com/Raghav9871)
 - [Edgar Flores](https://github.com/efloresCSE)
 [Jewel Geea George] (https://github.com/)
@@ -1413,6 +1412,7 @@
 - [Nihal Mohammed](https://github.com/Nihal-Mohammed-V)
 - [Micah Hack](https://github.com/MicahHack)
 - [agergoni](https://github.com/agergoni)
+- [Lumbini Tambat](https://github.com/Alat07)
 - [Edgit G](https://github.com/flame0618)
 - [Abhishek Kumar Roy](https://github.com/Abhishek-kroy)
 - [Shubham Kumar Subudhi](https://github.com/subhamKS)
@@ -1424,4 +1424,3 @@
 - [Saumya Thakkar] (https://github.com/Deathstar1999)
 - [woopy] (https://github.com/woopy098)
   [ Ravikumar S] (https://github.com/Ravikumar07-Byte)
-
