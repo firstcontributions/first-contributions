@@ -32,7 +32,6 @@
 - [DhritiTS](https://github.com/DhritiTS)
 - [AutumnFrost](https://github.com/AutumnFrost)
 - [Abhinav](https://github.com/saiabhinav75)
-- [Manoj Kumar R] (My first contribution: https://github.com/manoj1978)
 - [Jeel Bera](https://github.com/beraj2330)
 - [turtle-papa](https://github.com/turtle-papa)6
 - [Pranav](https://github.com/Pranav0102)
