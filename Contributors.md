@@ -1420,6 +1420,7 @@
 - [Marta Laveda](https://github.com/MartaLB95)
 - [Colin BFH](https://github.com/Colin5734)
 - [AnishKarthic](https://github.com/ANISHKARTHIC)
+- [anagha](https://github.com/anagha-v-bhat)
 - [liuuu2004](https://github.com/liuuu2004)
 - [Rohit Nain](https://github.com/rohit141914)
 - [Sainaaa](https://github.com/sainaa21) 
@@ -1439,9 +1440,5 @@
 - nitewing9000
 - [Saumya Thakkar] (https://github.com/Deathstar1999)
 - [woopy] (https://github.com/woopy098)
-<<<<<<< HEAD
-- [anagha](https://github.com/anagha-v-bhat)
-=======
 - [Poorvika](https://github.com/poorvikaa08)
   [ Ravikumar S] (https://github.com/Ravikumar07-Byte)
->>>>>>> d6d939375c4b546fd0ecc3285dd0f4006a9ee0fe
