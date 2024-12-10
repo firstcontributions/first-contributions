@@ -7,6 +7,7 @@
 - Raghav (https://github.com/Raghav9871)
 - [Edgar Flores](https://github.com/efloresCSE)
 [Jewel Geea George] (https://github.com/)
+[Sinchana](https://github.com/sinchh16)
 - [Kyrylo Sorokovskyi](https://github.com/sumdeusvitae)
 - [idrees](https://github.com/idrees2k22)
 - [Suresh Deora] (https://github.com/SureshDeora)
@@ -19,7 +20,8 @@
 - [MichaelAlanAXL]
 - [Lemar Tokham](https://github.com/LemarTokham)
 - [Bird Dog](https://github.com/acuhlian)
-- [Pasindu Kavinda](https://github.com/pasindu-kavinda)
+[Sinchana]()
+- [Pasindu Kavinda](https://guthub.com/pasindu-kavinda)
 - [AutumnFrost](https://github.com/AutumnFrost)
 - [Abhinav](https://github.com/saiabhinav75)
 - [Jeel Bera](https://github.com/beraj2330)
