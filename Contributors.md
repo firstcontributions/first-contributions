@@ -14,6 +14,7 @@
 - [Sergio DG](https://github.com/dgsergio)
 - [Starkcover](https://github.com/Starkcover)
 - [Nuhu El Adj Souleymane](https://github.com/elsouleymane)
+- [Shangcheng Li](https://https://github.com/shangchengg)
 - [MichaelAlanAXL]
 - [Lemar Tokham](https://github.com/LemarTokham)
 - [Bird Dog](https://github.com/acuhlian)
