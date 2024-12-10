@@ -1189,6 +1189,7 @@
 - [Satyam Mishra](https://github.com/satyyam11)
 - [Vince](https://github.com/Perunu)
 - [Pocolee](https://github.com/pocolee)
+- [Ravi Gupta] (https://github.com/ravi7228-gh)
 - [gunay-h](https://github.com/gunay-h)
 - [Exia](https://github.com/ooexiaoo)
 - [niqifan007](https://github.com/niqifan007)
