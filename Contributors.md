@@ -24,6 +24,7 @@
 - [Rohan](https://github.com/Christopher-91)
 - [Shangcheng Li](https://https://github.com/shangchengg)
 - [MichaelAlanAXL]
+- [sakib maniyar](https://github.com/Saquib45)
 - [Lemar Tokham](https://github.com/LemarTokham)
 - [Bird Dog](https://github.com/acuhlian)
 - [ Supraja Gaonkar ](https://github.com/Supraja-Gao)
