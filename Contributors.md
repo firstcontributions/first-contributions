@@ -997,6 +997,7 @@
 - [joejoeelephant](https://github.com/joejoeelephant)
 - [amoghshakya](https://github.com/amoghshakya)
 - [Vitor Orsin](https://github.com/YaboiAst)
+- [Jeevan S](https://github.com/JeevanS-777)
 - [Caio Ueda Sampaio](https://github.com/KY-U)
 - [James Russell](https://github.com/James-blend/)
 - [Dastageer HC](https://github.com/dastageer-hc)
