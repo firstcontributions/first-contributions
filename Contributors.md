@@ -4,6 +4,7 @@
 - [mushrifshahreyar] (My first contribution: https://github.com/mushrifshahreyar) 
 - [JoachimC] (https://github.com/Joachim280)
 - [Arsalan Mohseni](https://github.com/arsalanmohseni)
+- [Ravichandra](https://github.com/ravichandra-21/-contributions)
 - Raghav (https://github.com/Raghav9871)
 - [Edgar Flores](https://github.com/efloresCSE)
 [Jewel Geea George] (https://github.com/)
@@ -32,6 +33,8 @@
 - [GCabane](https://github.com/GCabane)
 - [gatura](https://github.com/gatura-source)
 - [KristinnTh](https://github.com/KristinnTh)
+- [veekshitha](https://github.com/Veekshitha21)
+- [TejasK](https://github.com/TejasKoravanavar)
 - [ahmad777x86](https://github.com/ahmad777x86)
 - [Nikolai B.](https://github.com/nbardzinkevichh)
 - Mradul
@@ -51,6 +54,7 @@
 - Zahra
 - [Leaphea](https://github.com/sok-leaphea)
 - [Jeanette Gonzalez](https://github.com/JeanetteGz)
+- [sinchana](https://github.com/Thesinchanaj)
 - [Daniel Molina](https://github.com/molinafm30)
 - [HannanToprakPia](https://github.com/HannanToprakPia)
 - [Soaring Eagle](https://github.com/SoaringEagle910)
@@ -83,6 +87,7 @@
 - [Adhish Goswami](https://github.com/Adhishg704)
 - [Zach Garza](https://github.com/ZachG1235)
 - [Mwofoh-Adriel](https://github.com/Mwofoh-Adriel)
+- [Priya](https://github.com/Priyamahesh24)
 - [Eric-DaRosa](https://github.com/EricDar12)
 - [Eddgar Rojas](https://github.com/Eddgar0)
 - [Leandro Choque](https://github.com/Leannnmv)
