@@ -1267,6 +1267,7 @@
 - [Mohamed-Anasse](https://github.com/OuraghiMohamed-Anasse)
 - [Abdulmalik-Raji](https://github.com/AbdulmalikRaji)
 - [Abijith-Lawrence](https://github.com/abijithlj)
+- [Nalin-Parihar](https://github.com/Phoneixlegend7)
 - [Temitope Bankole](https://github.com/rareprince/)
 - [Dhruvi Patel](https://github.com/dhruvipatel14)
 - [Kevin Grammer](https://github.com/kevingrammer)
