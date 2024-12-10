@@ -1309,6 +1309,7 @@
 - [Taha S. ASAN](https://github.com/tahaasann)
 - [Safa Osman](https://github.com/swafak)
 - [Hamil Dimapanat](https://github.com/hvmil)
+- [Suhash G](https://github.com/Suhash-25)
 - [Sagar Shelke](https://github.com/seeprogramming)
 - [Wilson Chin](https://github.com/shitofshit)
 - [Ben Summerill](https://github.com/Bengsumm)
@@ -1415,4 +1416,3 @@
 - nitewing9000
 - [Saumya Thakkar] (https://github.com/Deathstar1999)
 - [woopy] (https://github.com/woopy098)
-
