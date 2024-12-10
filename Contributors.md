@@ -40,6 +40,8 @@
 - [Desi Petkova Lee](https://github.com/DesiPetkovaLee)
 - [GCabane](https://github.com/GCabane)
 - [gatura](https://github.com/gatura-source)
+- [Maruthi S](https://github.com/JSMaruthi)
+  [KristinnTh](https://github.com/KristinnTh)
 - [KristinnTh](https://github.com/KristinnTh)
 - [veekshitha](https://github.com/Veekshitha21)
 - [TejasK](https://github.com/TejasKoravanavar)
