@@ -301,6 +301,7 @@
 - [Akash Dhamane](https://github.com/explore)
 - [Helen C](https://github.com/hmczap)
 - [Shahan](https://github.com/shahan360)
+- [ColorCode](https://github.com/benjaAguilar)
 - [Aminat A](https://github.com/pejuameenat)
 - mertgokbayrak
 - [Kiranmai Kalla](https://github.com/KiranmaiKalla)
