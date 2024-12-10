@@ -7,6 +7,7 @@
 - Raghav (https://github.com/Raghav9871)
 - [Edgar Flores](https://github.com/efloresCSE)
 [Jewel Geea George] (https://github.com/)
+- [Diyana](https://github.com/Khoisnam)
 - [Kyrylo Sorokovskyi](https://github.com/sumdeusvitae)
 - [idrees](https://github.com/idrees2k22)
 - [Suresh Deora] (https://github.com/SureshDeora)
@@ -1415,4 +1416,5 @@
 - nitewing9000
 - [Saumya Thakkar] (https://github.com/Deathstar1999)
 - [woopy] (https://github.com/woopy098)
+
 
