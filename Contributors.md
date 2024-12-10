@@ -1,7 +1,7 @@
 # Contributors
 
 -[vishalchauhan] (My first contribution: https://github.com/V1sh4lC)
-- [mushrifshahreyar] (My first contribution: https://github.com/mushrifshahreyar) 
+- [mushrifshahreyar] (My first contribution: https://github.com/mushrifshahreyar)
 - [JoachimC] (https://github.com/Joachim280)
 - [Arsalan Mohseni](https://github.com/arsalanmohseni)
 - Raghav (https://github.com/Raghav9871)
@@ -15,6 +15,7 @@
 - [Starkcover](https://github.com/Starkcover)
 - [Nuhu El Adj Souleymane](https://github.com/elsouleymane)
 - [MichaelAlanAXL]
+- [Dhruv Sarpal](https://github.com/HardShell1307)
 - [Lemar Tokham](https://github.com/LemarTokham)
 - [Bird Dog](https://github.com/acuhlian)
 - [Pasindu Kavinda](https://github.com/pasindu-kavinda)
@@ -31,7 +32,7 @@
 - [ahmad777x86](https://github.com/ahmad777x86)
 - [Nikolai B.](https://github.com/nbardzinkevichh)
 - Mradul
-- Lucie C. 
+- Lucie C.
 - Ron G.
 - Vilkas
 - [Ramunas Kazlauskas](https://github.com/akuyra1)
