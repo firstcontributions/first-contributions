@@ -78,7 +78,7 @@
 - [Mamduh](https://github.com/Mamduh5)
 - [AjaySinghKunwar](https://github.com/AjaySinghKunwar007)
 - [SaboorNisha](https://github.com/SaboorNisha)
-- [Vilashkumar Daate](https://github.com/vilash99)
+- [NidharshvGowda](https://github.com/nidharsh)
 - [Adhish Goswami](https://github.com/Adhishg704)
 - [Zach Garza](https://github.com/ZachG1235)
 - [Mwofoh-Adriel](https://github.com/Mwofoh-Adriel)
