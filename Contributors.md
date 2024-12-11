@@ -1479,3 +1479,5 @@
 - anavillamar
 - rmuzeya
 - [Manjiri](https://github.com/manjiri-b)
+- [Jesus Villalobos](https://github.com/jesus-villalobos)
+- [Devanshi Verma](https://github.com/devanshiverma123)
