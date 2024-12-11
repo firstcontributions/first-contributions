@@ -23,6 +23,7 @@
 - [Sergio DG](https://github.com/dgsergio)
 - [Starkcover](https://github.com/Starkcover)
 - [Nuhu El Adj Souleymane](https://github.com/elsouleymane)
+- [Aditya Singh](https://github.com/devxaditya)
 - [Rohan](https://github.com/Christopher-91)
 - [Shangcheng Li](https://https://github.com/shangchengg)
 - [MichaelAlanAXL]
