@@ -1,7 +1,8 @@
 # Contributors
 
 -[vishalchauhan] (My first contribution: https://github.com/V1sh4lC)
-- [mushrifshahreyar] (My first contribution: https://github.com/mushrifshahreyar) 
+- [mushrifshahreyar] (My first contribution: https://github.com/mushrifshahreyar)
+- Bebegick 
 - [JoachimC] (https://github.com/Joachim280)
 - [Arsalan Mohseni](https://github.com/arsalanmohseni)
 - [Caroline](https://github.com/perrywinkle2004)
