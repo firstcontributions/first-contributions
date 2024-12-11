@@ -1454,3 +1454,4 @@
   [ Ravikumar S] (https://github.com/Ravikumar07-Byte)
 - [Bill Law](https://github.com/bill-c-law)
 - [BrendanArc](https://github.com/BrendanArc)
+- [Richard Olpindo](https://github.com/djricky808)
