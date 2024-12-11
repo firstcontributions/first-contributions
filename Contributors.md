@@ -1475,4 +1475,3 @@
 - [upayanmazumder](https://github.com/upayanmazumder)
 - [makornobbe](https://github.com/XaNNaN)
 [Manisha](https://github.com/manishapalsam)
-- [yogeesh](https://github.com/yogeeshry1821)
