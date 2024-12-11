@@ -1475,4 +1475,5 @@
 - [upayanmazumder](https://github.com/upayanmazumder)
 - [makornobbe](https://github.com/XaNNaN)
 [Manisha](https://github.com/manishapalsam)
-- [akatsuki-slayer](https://github.com/akatsuki-slayer)
+- [Miles the akatsuki-slayer](https://github.com/akatsuki-slayer)
+
