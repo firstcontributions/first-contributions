@@ -1080,6 +1080,7 @@
 - [Prakhar Pandey](https://github.com/Prakhar-Pandey28/)
 - [voltagecontrol](https://github.com/voltagecontrol/)
 - [Alamin](https://github.com/AlaminPu1007)
+- [Merinques](https://github.com/Merinques)
 - [Tom Scheers](https://github.com/tomScheers)
 - [Irfan Ali](https://github.com/irfanali1995/irfanali1995)
 - [Ismael Abdulahi](https://github.com/Ismael-ux1)
