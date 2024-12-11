@@ -19,6 +19,7 @@
 - [Deepankar Sahoo](https://github.com/CodeByDeepankar)
 - [Hisham](https://github.com/sikehish)
 - [Muskan](https://github.com/MUSKANFAYAZ)
+- [ekadet](https://github.com/ekadetov)
 - [Gitrhyme](https://github.com/gitrhyme)
 - [Jide Falaki](https://github.com/jidefal)
 - [Sergio DG](https://github.com/dgsergio)
