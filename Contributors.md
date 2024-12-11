@@ -21,6 +21,7 @@
 - [Muskan](https://github.com/MUSKANFAYAZ)
 - [Gitrhyme](https://github.com/gitrhyme)
 - [Jide Falaki](https://github.com/jidefal)
+- [Sidharth Manikandan](https://github.com/salazangar)
 - [Sergio DG](https://github.com/dgsergio)
 - [Starkcover](https://github.com/Starkcover)
 - [Nuhu El Adj Souleymane](https://github.com/elsouleymane)
