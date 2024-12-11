@@ -76,6 +76,7 @@
 - Zahra
 - [Leaphea](https://github.com/sok-leaphea)
 - [Jeanette Gonzalez](https://github.com/JeanetteGz)
+- [GON-CAB-8](https://github.com/GON-CAB-8)
 - [sinchana](https://github.com/Thesinchanaj)
 - [Numix](https://github.com/ltsnumix)
 - [Daniel Molina](https://github.com/molinafm30)
