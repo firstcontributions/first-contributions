@@ -603,6 +603,7 @@
 - [charlesdzadu](https://github.com/charlesdzadu)
 - [Benabadji Abdelkader Tarik](https://github.com/tarikko/)
 - [Catherine Mokgothu](https://github.com/catherinemokgothu)
+- [Nitika Bahl](https://github.com/NitikaBahl)
 - [Caren Mwaka](https://github.com/Caren-Mwaka)
 - [Milind Dhamu](https://github.com/milinddhamu)
 - [jorge zabbara](https://github.com/jorgezabbaram)
