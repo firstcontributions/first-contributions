@@ -35,6 +35,7 @@
 - [Lemar Tokham](https://github.com/LemarTokham)
 - [Bird Dog](https://github.com/acuhlian)
 - [ Supraja Gaonkar ](https://github.com/Supraja-Gao)
+- [Jasleen](https://github.com/JasleenSidhu20)
 - [Pasindu Kavinda](https://github.com/pasindu-kavinda)
 - [DhritiTS](https://github.com/DhritiTS)
 - [AutumnFrost](https://github.com/AutumnFrost)
