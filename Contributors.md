@@ -25,6 +25,7 @@
 - [Rohan](https://github.com/Christopher-91)
 - [Shangcheng Li](https://https://github.com/shangchengg)
 - [MichaelAlanAXL]
+- [Jaydeep Khandla](https://github.com/jaydeep-khandla/)
 - [sakib maniyar](https://github.com/Saquib45)
 - [Lemar Tokham](https://github.com/LemarTokham)
 - [Bird Dog](https://github.com/acuhlian)
