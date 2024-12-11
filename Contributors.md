@@ -59,6 +59,7 @@
 - Lucie C. 
 - Ron G.
 - Vilkas
+- Raj_
 - [Ramunas Kazlauskas](https://github.com/akuyra1)
 - Ketan Yadav
 - johnie
