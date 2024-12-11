@@ -1453,6 +1453,7 @@
 - [Micah Hack](https://github.com/MicahHack)
 - [agergoni](https://github.com/agergoni)
 - [Lumbini Tambat](https://github.com/Alat07)
+- [Burak_Altun](https://github.com/mburakaltun)
 - [Edgit G](https://github.com/flame0618)
 [alvisha](https://github.com/Alvisha-28)
 - [Abhishek Kumar Roy](https://github.com/Abhishek-kroy)
