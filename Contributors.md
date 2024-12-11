@@ -1471,4 +1471,4 @@
 - [teboho](https://github.com/teboho)
 - [upayanmazumder](https://github.com/upayanmazumder)
 - [makornobbe](https://github.com/XaNNaN)
-[Manisha Palsam](https://github.com/manishapalsam)
+[Manisha](https://github.com/manishapalsam)
