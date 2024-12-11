@@ -48,6 +48,7 @@
 - [TejasK](https://github.com/TejasKoravanavar)
 - [ahmad777x86](https://github.com/ahmad777x86)
 - [Nikolai B.](https://github.com/nbardzinkevichh)
+-[Gabriel Vieira](https://www.linkedin.com/in/gabrielvieirasantos/)
 - Mradul
 - Lucie C. 
 - Ron G.
