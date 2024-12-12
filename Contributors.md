@@ -1326,6 +1326,7 @@
 - [Kevin Grammer](https://github.com/kevingrammer)
 - [Emma Barnett](https:/gitHub.com/ka-hels/)
 - [batuhankzn](https://github.com/batuhankzn)
+- [Sean Cho](https://github.com/seanhoonc)
 - [Sinan Balıbey](https://github.com/sinanbalibey)
 - [Rob](https://github.com/robbievolker)
 - [Taylor Cottrell](https://github.com/tlcottr)
