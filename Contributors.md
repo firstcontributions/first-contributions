@@ -223,6 +223,7 @@
 - [Giovanna Cortez](https://github.com/annavoigg)
 - [janGithub122](https://github.com/janGithub122)
 - [Mehfila Parkkulthil](https://github.com/Mehfila123)
+- [Hardik Khandal](https://github.com/hardikkhandal)
 - [Julius Jones](https://github.com/jlwj22)
 - [Dave Friedman](https://github.com/heracliteanflux)
 - [Pankaj Monga] (https://github.com/p-monga)
