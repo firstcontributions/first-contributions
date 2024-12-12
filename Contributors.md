@@ -44,6 +44,7 @@
 - [sakib maniyar](https://github.com/Saquib45)
 - [Lemar Tokham](https://github.com/LemarTokham)
 - [Bird Dog](https://github.com/acuhlian)
+- [Michael B.](https://github.com/mbyrd3)
 - [ Supraja Gaonkar ](https://github.com/Supraja-Gao)
 - [Jasleen](https://github.com/JasleenSidhu20)
 - [Pasindu Kavinda](https://github.com/pasindu-kavinda)
