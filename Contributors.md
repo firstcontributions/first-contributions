@@ -14,6 +14,7 @@
 - [Nimisha](https://github.com/codehusler14)
 - [ARPITHA](https://github.com/Arpitha189)  
 - [idrees](https://github.com/idrees2k22)
+- [JaeHye0k](https://github.com/JaeHye0k)
 - [Suresh Deora] (https://github.com/SureshDeora)
 - [Christian Mayamba] (https://github.com/chris-mayamba)
 - [Deepankar Sahoo](https://github.com/CodeByDeepankar)
