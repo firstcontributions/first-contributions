@@ -12,6 +12,7 @@
 - Raghav (https://github.com/Raghav9871)
 - [Edgar Flores](https://github.com/efloresCSE)
 [Jewel Geea George] (https://github.com/)
+- [Diyana](https://github.com/Khoisnam)
 - [Kyrylo Sorokovskyi](https://github.com/sumdeusvitae)
 - [Nimisha](https://github.com/codehusler14)
 - [ARPITHA](https://github.com/Arpitha189)  
@@ -1509,3 +1510,4 @@
 - [mor3dr3ad](https://github.com/mor3dr3ad)
 - [Nicojsuarez2](https://github.com/NicoJSuarez2)
 - [yama821](https://github.com/yama821)
+
