@@ -169,6 +169,7 @@
 - [Nisha Verma](https://github.com/xnisha-verma)
 - [Jason Ang](https://github.com/jasonavatarang)
 - [Sashin Trout](https://github.com/sashin123)
+- [Anish Banda] (https://github.con/anishbanda)
 - [Jordy19](https://github.com/Jordy19)
 - [Whrisper](https://github.com/SChrisper)
 - [Anemone](https://github.com/anemone-coronaria)
