@@ -357,6 +357,7 @@
 - [Muqeet Mughal](https://github.com/muqeetmughal)
 - [Donovan Guard](https://github.com/dlguard)
 - [Reddi](https://github.com/12eddi)
+- [kiy0315](https://github.com/kiy0315)
 - [Feven Seyfu](https://github.com/FevenSeyfu)
 - [Kai Hyperion Yun](https://github.com/kaihyperion)
 - [Yousof Shahrabi](https://github.com/yousofs)
