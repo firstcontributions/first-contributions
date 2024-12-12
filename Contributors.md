@@ -1501,3 +1501,4 @@
 - [VivoDex](https://github.com/migi15ghost)
 - [yuch3nchen](https://github.com/yuch3nchen)
 - [antenor013](https://github.com/antenor013)
+- [mor3r3ad](https://github.com/mor3dr3ad)
