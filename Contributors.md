@@ -1495,3 +1495,4 @@
 - [Manjiri](https://github.com/manjiri-b)
 - [VivoDex](https://github.com/migi15ghost)
 - [yuch3nchen](https://github.com/yuch3nchen)
+- [antenor013](https://github.com/antenor013)
