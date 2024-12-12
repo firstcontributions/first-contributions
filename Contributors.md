@@ -1505,3 +1505,4 @@
 - [yuch3nchen](https://github.com/yuch3nchen)
 - [antenor013](https://github.com/antenor013)
 - [mor3dr3ad](https://github.com/mor3dr3ad)
+- [Nicojsuarez2](https://github.com/NicoJSuarez2)
