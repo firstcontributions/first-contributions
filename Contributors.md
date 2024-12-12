@@ -663,6 +663,7 @@
 - [Maximilian Ganske](https://github.com/MaxGanske)
 - [Omer Diaaeldin](https://github.com/OmerDiaaeldin)
 - [Sainul Abid](https://github.com/abidta)
+- [Nereya Mantzur](https://github.com/NereyaMantzur)
 - [Prathibha Boini](https://github.com/Prathibha-yadav)
 - [Firoz Khan aka Codezakifiroz](https://github.com/codezakifiroz)
 - [David Preradovic](https://github.com/DavideTheClown)
