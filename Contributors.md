@@ -52,6 +52,7 @@
 - [Jeel Bera](https://github.com/beraj2330)
 - [turtle-papa](https://github.com/turtle-papa)6
 - [Tejasri P R](My first opensource contribution : https://github.com/Tejasri0608)
+- [Emiakpor](https://github.com/Emiakpor)
 - [Pranav](https://github.com/Pranav0102)
 - [Janvi Chetan Patel](https://github.com/JanviChetanPatel)
 - [Apoorva garg](https://github.com/ApoorvaGarg629)
