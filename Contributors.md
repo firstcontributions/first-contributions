@@ -16,6 +16,7 @@
 - [idrees](https://github.com/idrees2k22)
 - [JaeHye0k](https://github.com/JaeHye0k)
 - [Suresh Deora] (https://github.com/SureshDeora)
+- [eesoyeon] (https://github.com/eesoyeon)
 - [Christian Mayamba] (https://github.com/chris-mayamba)
 - [Deepankar Sahoo](https://github.com/CodeByDeepankar)
 - [Hisham](https://github.com/sikehish)
