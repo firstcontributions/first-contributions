@@ -624,6 +624,7 @@
 - [Caio Barbosa](https://github.com/CaioBarbosaAdS)
 - [MohanRaj R](https://github.com/Mohanraj7373)
 - [Nb](https://github.com/Neeraj6Maths)
+- [Greg Finney](https://github.com/GregFJr)
 - [Arthur Griffith](https://github.com/agriffith18)
 - [charlesdzadu](https://github.com/charlesdzadu)
 - [Benabadji Abdelkader Tarik](https://github.com/tarikko/)
