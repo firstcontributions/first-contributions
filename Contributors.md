@@ -1482,3 +1482,4 @@
 - anavillamar
 - rmuzeya
 - [Manjiri](https://github.com/manjiri-b)
+- [VivoDex](https://github.com/migi15ghost)
