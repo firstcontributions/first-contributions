@@ -23,6 +23,7 @@
 - [ekadet](https://github.com/ekadetov)
 - [Gitrhyme](https://github.com/gitrhyme)
 - [Jide Falaki](https://github.com/jidefal)
+- [andev77](https://github.com/AnDev77)
 - [Sidharth Manikandan](https://github.com/salazangar)
 - [Sergio DG](https://github.com/dgsergio)
 - [Starkcover](https://github.com/Starkcover)
