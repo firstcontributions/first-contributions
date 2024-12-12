@@ -33,6 +33,7 @@
 - [Shangcheng Li](https://https://github.com/shangchengg)
 - [MichaelAlanAXL]
 - [Jaydeep Khandla](https://github.com/jaydeep-khandla/)
+- [Goyomix325](https://github.com/Goyomix325)
 - [sakib maniyar](https://github.com/Saquib45)
 - [Lemar Tokham](https://github.com/LemarTokham)
 - [Bird Dog](https://github.com/acuhlian)
