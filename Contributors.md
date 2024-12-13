@@ -1264,6 +1264,7 @@
 - [Ali Rasooli](https://github.com/Aliarm79)
 - [Nilreboot](https://github.com/NilReboot/)
 - [UntoldGam](HTTPS://github.com/UntoldGam)
+  [zahoorfarooq](https://github.com/zahoorfarooq)
 - [bananapretzel](https://github.com/bananapretzel)
 - [Tshidiso Mahlos](https://github.com/Hiccupfish)
 - [Siddharth Vasu](https://github.com/sidvasu)
