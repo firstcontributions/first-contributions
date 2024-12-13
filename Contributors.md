@@ -42,6 +42,7 @@
 -[Shadab Ahmed Qureshi](https://github.com/Shadab786-developer)
 - [Shangcheng Li](https://https://github.com/shangchengg)
 - [Tharushika Hirushani](https://github.com/TharuHiru)
+- [Hasindu Thirasara](https://github.com/Hasindu071)
 - [MichaelAlanAXL]
 - [Jaydeep Khandla](https://github.com/jaydeep-khandla/)
 - [Goyomix325](https://github.com/Goyomix325)
