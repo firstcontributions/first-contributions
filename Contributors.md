@@ -27,6 +27,7 @@
 - [Deepankar Sahoo](https://github.com/CodeByDeepankar)
 - [Hisham](https://github.com/sikehish)
 - [eesoyeon] (https://github.com/eesoyeon)
+- [ricor07](https://github.com/ricor07)
 - [devoceon](https://github.com/emy3)
 - [Muskan](https://github.com/MUSKANFAYAZ)
 - [ekadet](https://github.com/ekadetov)
