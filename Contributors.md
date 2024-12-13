@@ -114,6 +114,7 @@
 - [Hongbi Ko](https://github.com/HongbiKo)
 - Dante
 - Pooja
+- [drak-o](https://github.com/drak-o)
 - [Michael Gabriel](https://github.com/maranatha443)
 - [SHP](https://github.com/Su-Hnin)
 - [Arjit shandilya](https://github.com/arjitshandilya)
