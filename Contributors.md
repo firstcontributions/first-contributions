@@ -1225,6 +1225,7 @@
 - [Rithwik S Bharadwaj](https://github.com/rithwiksb)
 - [Chandrakanth Kokkiripati](https://github.com/Chandrakanthkokkiripati)
 - [James](https://github.com/jwunet)
+- [Deependra Chaddha](https://github.com/DeependraChaddha)
 - [Ali Sina](https://github.com/alisina97)
 - [Samuel Rubens](https://github.com/rubenszinho)
 - [Promise Nwankwo](https://github.com/giftedpromise)
