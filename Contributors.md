@@ -1021,6 +1021,7 @@
 - [Bat-Hen Sharvit](https://github.com/bat-chen)
 - [Matteo Urso](https://github.com/MatteoUrso)
 - [David Shandor](https://github.com/DavidShandor)
+- [alazyer](https://github.com/alazyer)
 - [Pawan Kumar](https://github.com/pawan132)
 - [David Stephenson](https://github.com/dstephenson8)
 - [Vedant Paturkar](https://github.com/Vedx23)
