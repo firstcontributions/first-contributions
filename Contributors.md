@@ -40,6 +40,7 @@
 - [Rohan](https://github.com/Christopher-91)
 -[Shadab Ahmed Qureshi](https://github.com/Shadab786-developer)
 - [Shangcheng Li](https://https://github.com/shangchengg)
+- [Tharushika Hirushani](https://github.com/TharuHiru)
 - [MichaelAlanAXL]
 - [Jaydeep Khandla](https://github.com/jaydeep-khandla/)
 - [Goyomix325](https://github.com/Goyomix325)
