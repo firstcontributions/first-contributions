@@ -45,6 +45,7 @@
 - [Hasindu Thirasara](https://github.com/Hasindu071)
 - [MichaelAlanAXL]
 - [Jaydeep Khandla](https://github.com/jaydeep-khandla/)
+- [Kanishk Shukla](https://github.com/Kanishk819)
 - [Goyomix325](https://github.com/Goyomix325)
 - [sakib maniyar](https://github.com/Saquib45)
 - [Lemar Tokham](https://github.com/LemarTokham)
