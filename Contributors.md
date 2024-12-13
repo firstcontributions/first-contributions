@@ -91,6 +91,7 @@
 - Utkarsh Kumar
 - hi, iam anoof
 - add-lansar
+- [Felipe Chicaiza](https://github.com/FelipeChicaiza)
 - [Twinkle](https://github.com/Twinkle748)
 - Hi, I'm Anuj.
 - Zahra
