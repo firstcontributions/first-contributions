@@ -38,6 +38,7 @@
 - [Nuhu El Adj Souleymane](https://github.com/elsouleymane)
 - [Aditya Singh](https://github.com/devxaditya)
 - [Rohan](https://github.com/Christopher-91)
+-[Shadab Ahmed Qureshi](https://github.com/Shadab786-developer)
 - [Shangcheng Li](https://https://github.com/shangchengg)
 - [MichaelAlanAXL]
 - [Jaydeep Khandla](https://github.com/jaydeep-khandla/)
