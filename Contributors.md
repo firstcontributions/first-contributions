@@ -46,11 +46,13 @@
 - [Nuhu El Adj Souleymane](https://github.com/elsouleymane)
 - [Aditya Singh](https://github.com/devxaditya)
 - [Rohan](https://github.com/Christopher-91)
--[Shadab Ahmed Qureshi](https://github.com/Shadab786-developer)
+- [Shangcheng Li](https://github.com/shangchengg)
+- [Shadab Ahmed Qureshi](https://github.com/Shadab786-developer)
 - [Shangcheng Li](https://https://github.com/shangchengg)
 - [Tharushika Hirushani](https://github.com/TharuHiru)
 - [Hasindu Thirasara](https://github.com/Hasindu071)
 - [MichaelAlanAXL]
+- [killjoybr](https://github.com/killjoybr
 - [Jaydeep Khandla](https://github.com/jaydeep-khandla/)
 - [Jobin Jose](https://github.com/jobin8921)
 - [Abie Anders R](https://github.com/AbieAnders)
@@ -66,9 +68,10 @@
 - [DhritiTS](https://github.com/DhritiTS)
 - [AutumnFrost](https://github.com/AutumnFrost)
 - [Abhinav](https://github.com/saiabhinav75)
+- [Manoj Kumar R] (https://github.com/manoj1978)
 - [Jeel Bera](https://github.com/beraj2330)
 - [turtle-papa](https://github.com/turtle-papa)6
-- [Tejasri P R](My first opensource contribution : https://github.com/Tejasri0608)
+- [Tejasri P R](https://github.com/Tejasri0608)
 - [Emiakpor](https://github.com/Emiakpor)
 - [hyenee99](https://github.com/hyenee99)
 - [Pranav](https://github.com/Pranav0102)
