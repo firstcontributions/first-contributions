@@ -35,6 +35,7 @@
 - [Rohit Kumar Srivastava](https://github.com/rohitsrivastava2000)
 - [Sujal Bhor](https://github.com/bhorsujal)
 - [Shreyas Sridhar](https://github.com/shreyas-sridhar)
+- [Htet Oo Wai Yan](https://github.com/sc3p73r-it)
 - [Martin Jälmby](https://github.com/m-jalmby)
 - [Enrique Garcia](https://github.com/Enriquegarcia-ci)
 - [Madhusmita Jena](https://github.com/J-Madhusmita)
