@@ -1543,3 +1543,4 @@
 - [shreyasTechie](https://github.com/shreyasvg)
 - [Abdelrahman Emara](https://github.com/AAEmara)
 - [Sumit Baranwal](https://github.com/Sumit-22)
+- [Amri Reza W.](https://github.com/AmZaDin14)
