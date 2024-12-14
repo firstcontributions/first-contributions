@@ -3,7 +3,7 @@
 -[vishalchauhan] (My first contribution: https://github.com/V1sh4lC)
 - [Seif Eddine Gadi](https://github.com/Seif-Eddine-Gadi)
 - [Omer Cohen](https://github.com/OmerCohen7530)
-- [mushrifshahreyar] (My first contribution: https://github.com/mushrifshahreyar) 
+- [mushrifshahreyar] (My first contribution: https://github.com/mushrifshahreyar)
 - [Aicirou](My first contribution: https://github.com/Aicirou)
 - [LukaGakhokidze] (https://github.com/Luka288)
 - [JoachimC] (https://github.com/Joachim280)
@@ -21,8 +21,8 @@
 - [Nimisha](https://github.com/codehusler14)
 - [Bhavishay Bharti](https://github.com/bhavi-b)
 - [Cesar Garcia](https://github.com/cesaralej)
-- [ARPITHA](https://github.com/Arpitha189) 
-- [All the World's a Stage](https://github.com/YourHateMyHeroin) 
+- [ARPITHA](https://github.com/Arpitha189)
+- [All the World's a Stage](https://github.com/YourHateMyHeroin)
 - [idrees](https://github.com/idrees2k22)
 - [JaeHye0k](https://github.com/JaeHye0k)
 - [OmkarS] (https://github.com/omkar402)
@@ -85,7 +85,7 @@
 - [Nikolai B.](https://github.com/nbardzinkevichh)
 -[Gabriel Vieira](https://www.linkedin.com/in/gabrielvieirasantos/)
 - Mradul
-- Lucie C. 
+- Lucie C.
 - Ron G.
 - Vilkas
 - Raj_
@@ -104,7 +104,7 @@
 - [Twinkle](https://github.com/Twinkle748)
 - Hi, I'm Anuj.
 - Zahra
-- ARYAN 
+- ARYAN
 - [Leaphea](https://github.com/sok-leaphea)
 - [Jeanette Gonzalez](https://github.com/JeanetteGz)
 - [GON-CAB-8](https://github.com/GON-CAB-8)
@@ -774,6 +774,7 @@
 - [Abdul khader](https://github.com/davyjones7321)
 - [Rounak Kumar Singh](https://github.com/rounakkumarsingh)
 - [David Preradovic](https://github.com/DavideTheClown)
+- [Lakshmanan P] (https://github.com/Luxxgit2k4)
 - [ErkanPerkan25](https://github.com/ErkanPerkan25)
 - [Qki](https://github.com/Qkyyy)
 - [Brayan Gatica](https://github.com/ibrayann)
@@ -1507,7 +1508,7 @@
 - [anagha](https://github.com/anagha-v-bhat)
 - [liuuu2004](https://github.com/liuuu2004)
 - [Rohit Nain](https://github.com/rohit141914)
-- [Sainaaa](https://github.com/sainaa21) 
+- [Sainaaa](https://github.com/sainaa21)
 - [Lumbini Tambat](https://github.com/Alat07)
 - [Nihal Mohammed](https://github.com/Nihal-Mohammed-V)
 - [Micah Hack](https://github.com/MicahHack)
