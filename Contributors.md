@@ -1534,6 +1534,7 @@
 - [Poorvika](https://github.com/poorvikaa08)
   [ Ravikumar S] (https://github.com/Ravikumar07-Byte)
 - [Bill Law](https://github.com/bill-c-law)
+- [YagoBonardi] (https://github.com/yagobonardi)
 - [BrendanArc](https://github.com/BrendanArc)
 - [Richard Olpindo](https://github.com/djricky808)
 - [teboho](https://github.com/teboho)
