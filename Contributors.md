@@ -1489,6 +1489,7 @@
 - [Rene Kathofer](https://github.com/rkatex)
 - [Asfandiyark007](https://github.com/Asfandiyark007)
 - [Aakash Sharma](https://github.com/aakashsharma7)
+- [Adarsha P C](https://github.com/AdarshaCoding)
 - [Sanskriti_Tiwaree](https://github.com/sanskriti0201)
 - [Makr-Xie](https://github.com/Makr-Xie)
 - [Paul-HenryP](https://github.com/Paul-HenryP)
