@@ -223,6 +223,7 @@
 - [Arisa Abiko](https://github.com/arisaabiko)
 - [WHA](https://github.com/wynehtetaung)
 - [Captain](https://github.com/CaptainPatel)
+- [Jonathan](https://github.com/JonathanCharles2003)
 - [Ishita](https://github.com/elekish)
 -[Shresta](https://github.com/g-shresta)
 - [ykeissar](https://github.com/ykeissar)
