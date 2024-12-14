@@ -20,6 +20,7 @@
 - [Kyrylo Sorokovskyi](https://github.com/sumdeusvitae)
 - [Nimisha](https://github.com/codehusler14)
 - [Bhavishay Bharti](https://github.com/bhavi-b)
+- [Dascalu Dumitru](https://github.com/IronMemo)
 - [Cesar Garcia](https://github.com/cesaralej)
 - [ARPITHA](https://github.com/Arpitha189) 
 - [All the World's a Stage](https://github.com/YourHateMyHeroin) 
