@@ -87,6 +87,7 @@
 - Ron G.
 - Vilkas
 - Raj_
+- [Priyash Anand](https://github.com/priyashanand)
 - [Ramunas Kazlauskas](https://github.com/akuyra1)
 - Ketan Yadav
 - johnie
