@@ -382,6 +382,7 @@
 - [Benjamin Tsoumagas](https://github.com/tsoumagas-benjamin)
 - [Bryson Morton](https://github.com/bryson-morton)
 - Bhavya Singla
+- [V1centeJ1menez](https://github.com/V1centeJ1menez)
 - Gabriele Agosta
 - [Ejorhovi Gift](https://github.com/g1ft-code)
 - Kalhara Batangala (https://github.com/KalharaBatangala)
