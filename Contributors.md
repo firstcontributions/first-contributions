@@ -1310,6 +1310,7 @@
 - [Rahul Jindal](https://github.com/rahuljindal1)
 - [Art Villareal](https://github.com/Bushido-Art)
 - [Caleb Osborn](https://github.com/Chaotechnician)
+  [Emil Stridell](https://github.com/estridell)
 - [Jerry Yip](https://github.com/yhmyhm0910)
 - [Jeevan S](https://github.com/JeevanS-777)
 - [Michelle X](https://github.com/michelleshx)
