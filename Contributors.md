@@ -253,6 +253,7 @@
 - [Julius Jones](https://github.com/jlwj22)
 - [Dave Friedman](https://github.com/heracliteanflux)
 - [Pankaj Monga] (https://github.com/p-monga)
+- [Chandan Ravi] (https://github.com/chandanravic)
 - [Vicente Guzmán](https://vicenteguzman.com/)
 - [Vinit Jahagirdar](https://github.com/Vinit1909)
 - [Tyler Daw](https://github.com/TylerD1105)
