@@ -17,6 +17,7 @@
 - [Mangelib](https://github.com/mangelib)
 - [Ravichandra](https://github.com/ravichandra-21/-contributions)
 - Raghav (https://github.com/Raghav9871)
+- [bear-i](https://github.com/bear-i/first-contributions)
 - [Edgar Flores](https://github.com/efloresCSE)
 [Jewel Geea George] (https://github.com/)
 - [Kyrylo Sorokovskyi](https://github.com/sumdeusvitae)
