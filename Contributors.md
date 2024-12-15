@@ -19,7 +19,7 @@
 - Raghav (https://github.com/Raghav9871)
 - [bear-i](https://github.com/bear-i/first-contributions)
 - [Edgar Flores](https://github.com/efloresCSE)
-- [Sai Khay Khun Mong](https://github.com/khaykhun)
+- [Sai Khay Khun Mong](https://github.com/KhayKhun)
 [Jewel Geea George] (https://github.com/)
 - [Kyrylo Sorokovskyi](https://github.com/sumdeusvitae)
 - [Nimisha](https://github.com/codehusler14)
