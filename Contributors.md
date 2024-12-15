@@ -662,6 +662,7 @@
 - [MohanRaj R](https://github.com/Mohanraj7373)
 - [Nb](https://github.com/Neeraj6Maths)
 - [Greg Finney](https://github.com/GregFJr)
+- [Ido Majid] (https://github.com/idomajid)
 - [Arthur Griffith](https://github.com/agriffith18)
 - [charlesdzadu](https://github.com/charlesdzadu)
 - [Benabadji Abdelkader Tarik](https://github.com/tarikko/)
