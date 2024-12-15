@@ -1541,4 +1541,4 @@
 - [shreyasTechie](https://github.com/shreyasvg)
 - [Abdelrahman Emara](https://github.com/AAEmara)
 - [Sumit Baranwal](https://github.com/Sumit-22)
-- [Chandan Ravi] (https://github.com/chandanravic)
+- [Chandan Ravi](https://github.com/chandanravic)
