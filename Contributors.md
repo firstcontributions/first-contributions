@@ -904,6 +904,7 @@
 - [Juan Martinez](https://github.com/juanm18)
 - [Alyssa Ortiz](https://github.com/ao994)
 - [Dev Aggarwal](https://github.com/devaggarwal-1)
+- [Lukmon Adeokun](https://github.com/AdekunleDally/first-contributions)
 - [Dibya Shakti Panda](https://github.com/Dibyas98)
 - [Navin P](https://github.com/mep1tz)
 - [Jacob S](https://github.com/JacobSletten)
