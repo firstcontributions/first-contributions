@@ -70,6 +70,7 @@
 - [Bird Dog](https://github.com/acuhlian)
 - [Michael B.](https://github.com/mbyrd3)
 - [ Supraja Gaonkar ](https://github.com/Supraja-Gao)
+- [vedivero](https://github.com/vedivero)
 - [Jasleen](https://github.com/JasleenSidhu20)
 - [Pasindu Kavinda](https://github.com/pasindu-kavinda)
 - [DhritiTS](https://github.com/DhritiTS)
