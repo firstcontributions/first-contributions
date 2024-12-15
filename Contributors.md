@@ -215,6 +215,7 @@
 - [Anish Banda] (https://github.con/anishbanda)
 - [Jordy19](https://github.com/Jordy19)
 - [Whrisper](https://github.com/SChrisper)
+- [vedivero](https://github.com/vedivero)
 - [Anemone](https://github.com/anemone-coronaria)
 - [Neethu Hari](https://github.com/Neethuharii)
 - [Matheus Ranzani](https://github.com/matheusranzani)
