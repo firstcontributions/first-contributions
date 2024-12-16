@@ -43,6 +43,7 @@
 - [ricor07](https://github.com/ricor07)
 - [devoceon](https://github.com/emy3)
 - [Muskan](https://github.com/MUSKANFAYAZ)
+- [Mohammed Ismail](https://github.com/mdaleardc)
 - [ekadet](https://github.com/ekadetov)
 - [Gitrhyme](https://github.com/gitrhyme)
 - [Jide Falaki](https://github.com/jidefal)
