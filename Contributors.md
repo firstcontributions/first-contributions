@@ -1331,6 +1331,7 @@
 - [Jeevan S](https://github.com/JeevanS-777)
 - [Michelle X](https://github.com/michelleshx)
   [Pramukh S]
+- [Shashiraj Walsetwar](https://github.com/ridersw)
 - [jsdimig](https://github.com/jsdimig)
 - [Danilo Znamerovszkij](https://github.com/danilo-znamerovszkij)
 - [Daniel Kaijzer](https://github.com/danielkaijzer)
