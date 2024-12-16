@@ -111,6 +111,9 @@ jobs:
                 const linkedin_logo = "https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg";
                 const dev_logo = "https://edent.github.io/SuperTinyIcons/images/svg/dev_to.svg";
                 const hackernews_logo = "https://edent.github.io/SuperTinyIcons/images/svg/hackernews.svg";
+                const bluesky_logo = "https://path-to-your-bluesky-logo.png"; 
+const bluesky_share_link = 'https://bsky.app/intent/compose?text=' + encodeURIComponent('Yay! I just made my first open source contribution with @firstcontributions. You can too at https://goo.gl/66Axwe #OpenSource #CodeNewbie');
+
 
 
 
