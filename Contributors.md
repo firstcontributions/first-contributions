@@ -235,6 +235,7 @@
 - [Gabriel Ripper](https://github.com/gabripper)
 - [Thales Winther](https://github.com/thaleswinther)
 - Lance Xie
+- [Mannaseh Merakanapalli](https://github.com/MannasehM)
 - [Chris Bruce](https://github.com/brucec5)
 - [Tornike Tsulukidze](https://github.com/TheMechanicalBeing)
 - [Alwin Sajan](https://github.com/Alwin-Sajan)
