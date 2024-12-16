@@ -1477,6 +1477,7 @@
 - [Uday Vara](https://github.com/UV26320)
 - [Prabel](https://github.com/HiPrabel)
 - [Aryan Mahida](https://github.com/aryan083)
+- [Benedict Robinson] (https://github.com/benedict-robinson)
 - [Vetle HJ](https://github.com/VetleHJ)
 - [Niranjan A S](https://github.com/Niranjan-A-S)
 - [Gabriel Husain](https://github.com/gabe-husain)
