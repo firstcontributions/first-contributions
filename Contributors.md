@@ -548,6 +548,7 @@
 - [Irfan](https://github.com/0xNafri)
 - [Phorian](https://github.com/phorian)
 - [Omari Fahd](https://github.com/sarsa2012)
+- [sumiyak96](https://github.com/sumiyak96)
 - [Robert Judal Regalado](https://github.com/rojre1979)
 - [Pratik Thorat](https://github.com/PratikThoratNortheastern)
 - [Fuahad](https://github.com/fuahad)
