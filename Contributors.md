@@ -1591,6 +1591,7 @@
 - [Suvesh Pandey] (https://github.com/suveshpandey)
 - [1355_XCZ](https://github.com/1355-XCZ)
 - [Farmeurimmo](https://github.com/Farmeurimmo)
+- [DIALLO Elhadj Alhousseiny](https://github.com/Tangama-224)
 - [FEI_TENG] (My first contribution: https://github.com/FEITENG-0828/)
 - [NyKot1ne](https://github.com/NyKot1ne)
 - [juliencastanier](https://github.com/juliencastanier)
