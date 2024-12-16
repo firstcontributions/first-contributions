@@ -1,6 +1,7 @@
-# Contributors
+
 
 -[vishalchauhan] (My first contribution: https://github.com/V1sh4lC)
+- [X3R074] (My first contribution: https://github.com/X3R074)
 - [Seif Eddine Gadi](https://github.com/Seif-Eddine-Gadi)
 - [Harsh Gharsandiya](https://github.com/harshgharsandiya)
 - [Roshawn Brooks] (https://github.com/rbrooks95)
@@ -12,6 +13,7 @@
 - [chandanvnk1] (https://github.com/chandanvnk1
 - [AdityaRaj212] (https://github.com/AdityaRaj212)
 - [FloraPetit] (https://github.com/PetitFlora)
+- [anthocote19](https://github.com/anthocote19)
 - [Arsalan Mohseni](https://github.com/arsalanmohseni)
 - [sadiqhero](https://github.com/sadiqhero)
 - [Caroline](https://github.com/perrywinkle2004)
@@ -548,6 +550,7 @@
 - [Irfan](https://github.com/0xNafri)
 - [Phorian](https://github.com/phorian)
 - [Omari Fahd](https://github.com/sarsa2012)
+- [sumiyak96](https://github.com/sumiyak96)
 - [Robert Judal Regalado](https://github.com/rojre1979)
 - [Pratik Thorat](https://github.com/PratikThoratNortheastern)
 - [Fuahad](https://github.com/fuahad)
@@ -1584,6 +1587,7 @@
 - [maskFox2](https://github.com/maskFox2)
 - [Suvesh Pandey] (https://github.com/suveshpandey)
 - [1355_XCZ](https://github.com/1355-XCZ)
+- [Farmeurimmo](https://github.com/Farmeurimmo)
 - [FEI_TENG] (My first contribution: https://github.com/FEITENG-0828/)
 - [NyKot1ne](https://github.com/NyKot1ne)
-- 
+- [juliencastanier](https://github.com/juliencastanier)
