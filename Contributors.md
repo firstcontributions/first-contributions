@@ -1572,6 +1572,7 @@
 [Manisha](https://github.com/manishapalsam)
 - anavillamar
 - rmuzeya
+- [Axel Denouly](https://github.com/AxelDenouly/)
 - [Manjiri](https://github.com/manjiri-b)
 - [VivoDex](https://github.com/migi15ghost)
 - [yuch3nchen](https://github.com/yuch3nchen)
