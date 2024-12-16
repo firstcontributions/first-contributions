@@ -11,6 +11,7 @@
 - [JoachimC] (https://github.com/Joachim280)
 - [chandanvnk1] (https://github.com/chandanvnk1
 - [AdityaRaj212] (https://github.com/AdityaRaj212)
+- [FloraPetit] (https://github.com/PetitFlora)
 - [Arsalan Mohseni](https://github.com/arsalanmohseni)
 - [Caroline](https://github.com/perrywinkle2004)
 - [AkramMohammad](https://github.com/Akram1806)
