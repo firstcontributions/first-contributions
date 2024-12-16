@@ -12,6 +12,7 @@
 - [chandanvnk1] (https://github.com/chandanvnk1
 - [AdityaRaj212] (https://github.com/AdityaRaj212)
 - [Arsalan Mohseni](https://github.com/arsalanmohseni)
+- [sadiqhero](https://github.com/sadiqhero)
 - [Caroline](https://github.com/perrywinkle2004)
 - [AkramMohammad](https://github.com/Akram1806)
 - [Mangelib](https://github.com/mangelib)
