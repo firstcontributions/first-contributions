@@ -6,6 +6,7 @@
 - [Harsh Gharsandiya](https://github.com/harshgharsandiya)
 - [Roshawn Brooks] (https://github.com/rbrooks95)
 - [Omer Cohen](https://github.com/OmerCohen7530)
+- [EstherCamela](https://github.com/Esther-Assena-pro)
 - [mushrifshahreyar] (My first contribution: https://github.com/mushrifshahreyar) 
 - [Aicirou](My first contribution: https://github.com/Aicirou)
 - [LukaGakhokidze] (https://github.com/Luka288)
@@ -15,6 +16,7 @@
 - [FloraPetit] (https://github.com/PetitFlora)
 - [anthocote19](https://github.com/anthocote19)
 - [Arsalan Mohseni](https://github.com/arsalanmohseni)
+- [Iris Christa](https://github.com/I-christa)
 - [sadiqhero](https://github.com/sadiqhero)
 - [Caroline](https://github.com/perrywinkle2004)
 - [AkramMohammad](https://github.com/Akram1806)
@@ -426,6 +428,7 @@
 - [Adam Robson](https://github.com/Adam-Robson) 🧶
 - [Thomas Ulrich](https://github.com/TomUlrich)
 - [Takuya Yanase](https://github.com/takuyaOOR)
+- [Line Kouider](https://github.com/linekdr)
 - [jbnation](https://github.com/jbnation)
 - [Sarvesh Bachute](https://github.com/sarry8901)
 - [Ala Gowtham Siva Kumar](https://github.com/gowtham-2oo5)
@@ -1572,6 +1575,7 @@
 [Manisha](https://github.com/manishapalsam)
 - anavillamar
 - rmuzeya
+- [Axel Denouly](https://github.com/AxelDenouly/)
 - [Manjiri](https://github.com/manjiri-b)
 - [VivoDex](https://github.com/migi15ghost)
 - [yuch3nchen](https://github.com/yuch3nchen)
@@ -1588,5 +1592,11 @@
 - [Suvesh Pandey] (https://github.com/suveshpandey)
 - [1355_XCZ](https://github.com/1355-XCZ)
 - [Farmeurimmo](https://github.com/Farmeurimmo)
+- [DIALLO Elhadj Alhousseiny](https://github.com/Tangama-224)
 - [FEI_TENG] (My first contribution: https://github.com/FEITENG-0828/)
+- [NyKot1ne](https://github.com/NyKot1ne)
 - [juliencastanier](https://github.com/juliencastanier)
+- [kecirimickael](https://github.com/mkg1t)
+- [OlivierDenoix](https://github.com/OlivierDenoix)
+- [inammar] (https://github.com/inammar)
+- [jackituning] (https://github.com/jackituning)
