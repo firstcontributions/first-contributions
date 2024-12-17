@@ -1,7 +1,7 @@
 
 
 -[vishalchauhan] (My first contribution: https://github.com/V1sh4lC)
--[stevee14]
+
 - [antoineDELEBECQUE](https://github.com/AntoineDlb)
 - [simonpotel](https://github.com/simonpotel)
 - [X3R074] (My first contribution: https://github.com/X3R074)
@@ -1625,4 +1625,4 @@
 - [brav68e] (https://github.com/Brav68e)
 - [psikyy] (https://github.com/Psikyy)
 - [Taumeh] (https://github.com/taumehh)
-  
+  -[stevee14]
