@@ -998,6 +998,7 @@
 - [Nnodim Obinna Brian](https://github.com/nnodim)
 - [Alessio Bugetti](https://github.com/AlessioBugetti)
 - [GwanBin Park](https://github.com/bgb10)
+- [Mahesh Chaulagain]
 - [Ray Yu](https://github.com/RayYu-ChunleiYu)
 - [Yuki Kitayama](https://github.com/yukikitayama)
 - [Tal Shaked](https://github.com/talshaked-git)
