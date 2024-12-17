@@ -30,6 +30,7 @@
 - [Victor Muthii](https://github.com/muthii-10)
 - [AkramMohammad](https://github.com/Akram1806)
 - [Mangelib](https://github.com/mangelib)
+- [tay24or](https://github.com/tay24lor)
 - [Ravichandra](https://github.com/ravichandra-21/-contributions)
 - Raghav (https://github.com/Raghav9871)
 - [bear-i](https://github.com/bear-i/first-contributions)
