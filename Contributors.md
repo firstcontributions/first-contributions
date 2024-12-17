@@ -806,6 +806,7 @@
 - [tejas-mn](https://github.com/tejas-mn)
 - [jotavare](https://github.com/jotavare)
 - [Spencer Craigie](https://github.com/sscraigie)
+- [Reajang](https://github.com/Reajang)
 - [Niraj Giri](https://github.com/nirajgiriXD)
 - [dev-sik2](https://github.com/devpang20)
 - [Onyedikachi Amaechi-Okorie](https://github.com/Honyii)
