@@ -393,6 +393,7 @@
 - [Yash Goyal](https://github.com/yash-goyal-0910)
 - [Shubham kumar](https://github.com/Shubham9384235)
 - [Akash Dhamane](https://github.com/explore)
+- [Amahisa]()
 - [Helen C](https://github.com/hmczap)
 - [Shahan](https://github.com/shahan360)
 - [ColorCode](https://github.com/benjaAguilar)
