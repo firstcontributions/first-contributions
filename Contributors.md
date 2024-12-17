@@ -1202,6 +1202,7 @@
 - [Abdulhaleem Sanuth](https://github.com/Abdulhaleem-6)
 - [CaitlinIsShort](https://github.com/caitlinisshort)
 - [viswanathr](https://github.com/viswanathr73)
+- [Richard Kenneth](https://github.com/richardkenneth10)
 - [Daniel Guerra](https://github.com/DakkuaDev)
 - [Filippos Gkotsopoulos](https://github.com/fgkotsopoulos)
 - [Akashzealzoft](https://github.com/Akashzealzoft)
