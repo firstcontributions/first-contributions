@@ -6,6 +6,7 @@
 - [Harsh Gharsandiya](https://github.com/harshgharsandiya)
 - [Roshawn Brooks] (https://github.com/rbrooks95)
 - [Omer Cohen](https://github.com/OmerCohen7530)
+- [Fikre Tesfay](https://github.com/fikre4444)
 - [EstherCamela](https://github.com/Esther-Assena-pro)
 - [mushrifshahreyar] (My first contribution: https://github.com/mushrifshahreyar) 
 - [Aicirou](My first contribution: https://github.com/Aicirou)
