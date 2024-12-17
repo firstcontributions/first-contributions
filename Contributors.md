@@ -7,7 +7,7 @@
 - [Roshawn Brooks] (https://github.com/rbrooks95)
 - [Omer Cohen](https://github.com/OmerCohen7530)
 - [EstherCamela](https://github.com/Esther-Assena-pro)
-- [mushrifshahreyar] (My first contribution: https://github.com/mushrifshahreyar) 
+- [mushrifshahreyar] (My first contribution: https://github.com/mushrifshahreyar)
 - [Aicirou](My first contribution: https://github.com/Aicirou)
 - [LukaGakhokidze] (https://github.com/Luka288)
 - [JoachimC] (https://github.com/Joachim280)
@@ -19,6 +19,7 @@
 - [Iris Christa](https://github.com/I-christa)
 - [sadiqhero](https://github.com/sadiqhero)
 - [Caroline](https://github.com/perrywinkle2004)
+- [Lawrence](https://github.com/lawrenceee04)
 - [AkramMohammad](https://github.com/Akram1806)
 - [Mangelib](https://github.com/mangelib)
 - [Ravichandra](https://github.com/ravichandra-21/-contributions)
@@ -34,8 +35,8 @@
 - [Dascalu Dumitru](https://github.com/IronMemo)
 - [Cesar Garcia](https://github.com/cesaralej)
 - [Anthony Okechukwu Ubah](https://github.com/okeysbytes)
-- [ARPITHA](https://github.com/Arpitha189) 
-- [All the World's a Stage](https://github.com/YourHateMyHeroin) 
+- [ARPITHA](https://github.com/Arpitha189)
+- [All the World's a Stage](https://github.com/YourHateMyHeroin)
 - [idrees](https://github.com/idrees2k22)
 - [JaeHye0k](https://github.com/JaeHye0k)
 - [OmkarS] (https://github.com/omkar402)
@@ -104,7 +105,7 @@
 - [Nikolai B.](https://github.com/nbardzinkevichh)
 -[Gabriel Vieira](https://www.linkedin.com/in/gabrielvieirasantos/)
 - Mradul
-- Lucie C. 
+- Lucie C.
 - Ron G.
 - RhazhBash
 - Vilkas
@@ -125,7 +126,7 @@
 - [Twinkle](https://github.com/Twinkle748)
 - Hi, I'm Anuj.
 - Zahra
-- ARYAN 
+- ARYAN
 - [Leaphea](https://github.com/sok-leaphea)
 - [Jeanette Gonzalez](https://github.com/JeanetteGz)
 - [GON-CAB-8](https://github.com/GON-CAB-8)
@@ -1544,7 +1545,7 @@
 - [Babouche](https://github.com/babouche03)
 - [JamesCicada](https://github.com/JamesCicada)
 - [Nathan Goebel dit Reddacted](https://github.com/Nathan-Goebel-Reddacted)
-- [Emerson Johnson](https://github.com/lbjmsu) 
+- [Emerson Johnson](https://github.com/lbjmsu)
 - [Marta Laveda](https://github.com/MartaLB95)
 - [shhwangofficial](https://github.com/shhwangofficial)
 - [Colin BFH](https://github.com/Colin5734)
@@ -1552,7 +1553,7 @@
 - [anagha](https://github.com/anagha-v-bhat)
 - [liuuu2004](https://github.com/liuuu2004)
 - [Rohit Nain](https://github.com/rohit141914)
-- [Sainaaa](https://github.com/sainaa21) 
+- [Sainaaa](https://github.com/sainaa21)
 - [Lumbini Tambat](https://github.com/Alat07)
 - [Nihal Mohammed](https://github.com/Nihal-Mohammed-V)
 - [Micah Hack](https://github.com/MicahHack)
