@@ -2,6 +2,7 @@
 
 -[vishalchauhan] (My first contribution: https://github.com/V1sh4lC)
 - [simonpotel](https://github.com/simonpotel)
+- [benoitmonchaninsupinfo] (https://github.com/benoitmonchaninsupinfo)
 - [X3R074] (My first contribution: https://github.com/X3R074)
 - [Seif Eddine Gadi](https://github.com/Seif-Eddine-Gadi)
 - [Harsh Gharsandiya](https://github.com/harshgharsandiya)
@@ -1623,4 +1624,3 @@
 - [brav68e] (https://github.com/Brav68e)
 - [psikyy] (https://github.com/Psikyy)
 - [Taumeh] (https://github.com/taumehh)
-  
