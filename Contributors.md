@@ -394,6 +394,7 @@
 - [Yash Goyal](https://github.com/yash-goyal-0910)
 - [Shubham kumar](https://github.com/Shubham9384235)
 - [Akash Dhamane](https://github.com/explore)
+- [Amahisa]()
 - [Helen C](https://github.com/hmczap)
 - [Shahan](https://github.com/shahan360)
 - [ColorCode](https://github.com/benjaAguilar)
@@ -423,7 +424,8 @@
 - [Ana Luisa Conrado](https://github.com/anaconrado)
 - [Alec Morris](https://github.com/alecmarkmorris)
 - [Jaimit Patel](https://github.com/Jaimtlearn)
-- Rapheal Suber - <https://github.com/manyworldss>
+- Rapheal Suber - https://github.com/manyworldss
+- [Junior Soares](https://github.com/JuniorWSoares)
 - [Fay](https://github.com/notfay)
 - [Vinuthna](https://github.com/vinuthna29)
 - [Hamza Haider](https://github.com/Hamza-H10)
