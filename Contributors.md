@@ -14,6 +14,7 @@
 - [EstherCamela](https://github.com/Esther-Assena-pro)
 - [mushrifshahreyar] (My first contribution: https://github.com/mushrifshahreyar) 
 - [Aicirou](My first contribution: https://github.com/Aicirou)
+- [krshearman](https://github.com/krshearman)
 - [LukaGakhokidze] (https://github.com/Luka288)
 - [HiroseTakuya] (https://github.com/hiro-tech-taku/)
 - [JoachimC] (https://github.com/Joachim280)
