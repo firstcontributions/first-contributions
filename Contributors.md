@@ -746,6 +746,7 @@
 - [Rafael Santos](https://github.com/Blackmagicbox)
 - [Krish Sehgal](https://github.com/krish-sehgal)
 - [Ionecum](https://github.com/ionecum)
+- [Ayush Soni](https://github.com/ayushsoni02)
 - [Sidharth Tripathi](https://github.com/sidharthtripathi)
 - [AM-Shafin](https://github.com/am-safin) 👊
 - [Bharath Ram S](https://github.com/BharathRam125)
