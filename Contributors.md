@@ -424,6 +424,7 @@
 - [Alec Morris](https://github.com/alecmarkmorris)
 - [Jaimit Patel](https://github.com/Jaimtlearn)
 - Rapheal Suber - https://github.com/manyworldss
+- [Junior Soares](https://github.com/JuniorWSoares)
 - [Fay](https://github.com/notfay)
 - [Vinuthna](https://github.com/vinuthna29)
 - [Hamza Haider](https://github.com/Hamza-H10)
