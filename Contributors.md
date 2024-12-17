@@ -94,6 +94,7 @@
 - [DhritiTS](https://github.com/DhritiTS)
 - [AutumnFrost](https://github.com/AutumnFrost)
 - [Abhinav](https://github.com/saiabhinav75)
+- [Wil](https://github.com/TechnicFyre)
 - [Manoj Kumar R] (https://github.com/manoj1978)
 - [Jeel Bera](https://github.com/beraj2330)
 - [turtle-papa](https://github.com/turtle-papa)6
