@@ -44,6 +44,7 @@
 - [Suresh Deora] (https://github.com/SureshDeora)
 - [Mohanshi Jain] (https://github.com/Mohanshi04)
 - [eesoyeon] (https://github.com/eesoyeon)
+- Tournoy Noa
 - [Christian Mayamba] (https://github.com/chris-mayamba)
 - [Deepankar Sahoo](https://github.com/CodeByDeepankar)
 - [Hisham](https://github.com/sikehish)
