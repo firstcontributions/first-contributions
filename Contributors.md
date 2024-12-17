@@ -1618,6 +1618,7 @@
 - LeonJWD
 - Polino
 - [LidaMudota] (https://github.com/LidaMudota)
+- [Gabriel Verschatse] (https://github.com/GabrielVerschatse)
 - [Mihir Tandon] (https://github.com/Mihirt2)
 - [Ay0ko] (https://github.com/Ay0ko)
 - [brav68e] (https://github.com/Brav68e)
