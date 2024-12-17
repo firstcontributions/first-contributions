@@ -589,6 +589,7 @@
 - [Alden Baughman](https://github.com/aldenbaughman)
 - [giandab](https://github.com/giandab)
 - [Žiga Berlič](https://github.com/zigaberlic)
+- [Suneel Reddy](https://github.com/suneelreddysannala)
 - [Vikrant](https://github.com/1vikrant)
 - [Kazuho](https://github.com/kzhgit)
 - [kmkkiii](https://github.com/kmkkiii) 🐢
