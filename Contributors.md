@@ -19,6 +19,7 @@
 - [JoachimC] (https://github.com/Joachim280)
 - [chandanvnk1] (https://github.com/chandanvnk1
 - [AdityaRaj212] (https://github.com/AdityaRaj212)
+- [AvAdiii] (https://github.com/AvAdiii)
 - [FloraPetit] (https://github.com/PetitFlora)
 - [anthocote19](https://github.com/anthocote19)
 - [Arsalan Mohseni](https://github.com/arsalanmohseni)
