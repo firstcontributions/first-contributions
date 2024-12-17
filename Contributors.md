@@ -18,6 +18,7 @@
 - [AdityaRaj212] (https://github.com/AdityaRaj212)
 - [FloraPetit] (https://github.com/PetitFlora)
 - [anthocote19](https://github.com/anthocote19)
+[GabrielVerschatse]
 - [Arsalan Mohseni](https://github.com/arsalanmohseni)
 - [Iris Christa](https://github.com/I-christa)
 - [sadiqhero](https://github.com/sadiqhero)
