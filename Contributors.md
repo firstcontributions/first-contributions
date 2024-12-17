@@ -175,6 +175,7 @@
 - [AjaySinghKunwar](https://github.com/AjaySinghKunwar007)
 - [Felix Morara] (https://github.com/felixmorara)
 - [SaboorNisha](https://github.com/SaboorNisha)
+- [Sanika Nair] (https://github.com/sanika-n)
 - [Vilashkumar Daate](https://github.com/vilash99)
 - [Adhish Goswami](https://github.com/Adhishg704)
 - [Zach Garza](https://github.com/ZachG1235)
