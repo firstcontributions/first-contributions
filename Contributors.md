@@ -10,6 +10,7 @@
 - [mushrifshahreyar] (My first contribution: https://github.com/mushrifshahreyar) 
 - [Aicirou](My first contribution: https://github.com/Aicirou)
 - [LukaGakhokidze] (https://github.com/Luka288)
+- [HiroseTakuya] (https://github.com/hiro-tech-taku/)
 - [JoachimC] (https://github.com/Joachim280)
 - [chandanvnk1] (https://github.com/chandanvnk1
 - [AdityaRaj212] (https://github.com/AdityaRaj212)
