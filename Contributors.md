@@ -26,6 +26,7 @@
 - [Iris Christa](https://github.com/I-christa)
 - [sadiqhero](https://github.com/sadiqhero)
 - [Caroline](https://github.com/perrywinkle2004)
+- [Victor Muthii](https://github.com/muthii-10)
 - [AkramMohammad](https://github.com/Akram1806)
 - [Mangelib](https://github.com/mangelib)
 - [Ravichandra](https://github.com/ravichandra-21/-contributions)
