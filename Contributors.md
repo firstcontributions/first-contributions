@@ -1,8 +1,8 @@
 
 
 -[vishalchauhan] (My first contribution: https://github.com/V1sh4lC)
--[stevee14]
-- [antoineDELEBECQUE](https://github.com/AntoineDlb)
+[antoineDELEBECQUE](https://github.com/AntoineDlb)
+- [stevee14]
 - [simonpotel](https://github.com/simonpotel)
 - [X3R074] (My first contribution: https://github.com/X3R074)
 - [Seif Eddine Gadi](https://github.com/Seif-Eddine-Gadi)
