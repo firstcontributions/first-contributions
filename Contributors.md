@@ -1585,8 +1585,9 @@
 - [teboho](https://github.com/teboho)
 - [upayanmazumder](https://github.com/upayanmazumder)
 - [makornobbe](https://github.com/XaNNaN)
-[Manisha](https://github.com/manishapalsam)
+- [Manisha](https://github.com/manishapalsam)
 - anavillamar
+- [Syc] (https://github.com/Sycc66)
 - rmuzeya
 - [Axel Denouly](https://github.com/AxelDenouly/)
 - [Manjiri](https://github.com/manjiri-b)
