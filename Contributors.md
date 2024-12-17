@@ -291,7 +291,7 @@
 - [Vicente Guzmán](https://vicenteguzman.com/)
 - [Vinit Jahagirdar](https://github.com/Vinit1909)
 - [Bam](https://github.com/QBJ08)
-- [Ak Dinesh](https://github.com/dineshv97)
+- [AkDinesh](https://github.com/dineshv97)
 - [Tyler Daw](https://github.com/TylerD1105)
 - [Minjae Kwon](https://github.com/minjaekwon97)
 - [dev-sik](https://github.com/YouD0313)
