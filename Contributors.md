@@ -18,6 +18,7 @@
 - [mushrifshahreyar] (My first contribution: https://github.com/mushrifshahreyar)
 - [AmnaShouqi] (https://github.com/amnashouqi)
 - [Aicirou](My first contribution: https://github.com/Aicirou)
+- [Thisaga Jayaratna](https://github.com/thisagaa)
 - [krshearman](https://github.com/krshearman)
 - [KevinThomas](https://github.com/HELL-KERBECS)
 - [LukaGakhokidze] (https://github.com/Luka288)
