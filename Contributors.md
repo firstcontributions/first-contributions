@@ -17,6 +17,7 @@
 - [krshearman](https://github.com/krshearman)
 - [LukaGakhokidze] (https://github.com/Luka288)
 - [HiroseTakuya] (https://github.com/hiro-tech-taku/)
+- [Joncineus] (https://github.com/joncineus)
 - [JoachimC] (https://github.com/Joachim280)
 - [chandanvnk1] (https://github.com/chandanvnk1
 - [AdityaRaj212] (https://github.com/AdityaRaj212)
