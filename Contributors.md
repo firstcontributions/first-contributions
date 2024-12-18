@@ -1649,6 +1649,6 @@
 - [brav68e] (https://github.com/Brav68e)
 - [psikyy] (https://github.com/Psikyy)
 - [Taumeh] (https://github.com/taumehh)
-  [nostop10](https//github.com/nostop10)
+- [nostop10](https//github.com/nostop10)
 - [MRCORE]([SCMRCORE (NOBODY)](https://github.com/SCMRCORE))
-
+- [Chelsie Branch](https://github.com/chelsiexyz)
