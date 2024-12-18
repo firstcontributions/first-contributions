@@ -1024,6 +1024,7 @@
 - [Thawzin](https://github.com/Thawzin229)
 - [Alex András Mándrik](https://github.com/alexmandrikdev)
 - [MARCEl0 T0RRES](https://github.com/mjtp)
+- [Helder Luz](https://github.com/HelderLuz)
 - [arsha32 ](https://github.com/arsha32)
 - [Tabish Shamim](https://github.com/tabishshamim10)
 - [Ritik Agrawal](https://github.com/relar-Ritik)
