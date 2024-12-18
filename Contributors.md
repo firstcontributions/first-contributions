@@ -763,6 +763,7 @@
 - [Jun Lei](https://github.com/junevision)
 - [Lavinia](https://github.com/Lavinia225)
 - [Vikas](https://ithub.com/Vikas013)
+- [Akshay](https://github.com/akkiii13)
 - [Guillermo Nicolas Petcho](https://github.com/guillermopetcho)
 - [VaibhavSuryavanshi93](https://github.com/VaibhavSuryavanshi93)
 - [FlandersFrybad](https://github.com/flandersfrybad) 🍉
