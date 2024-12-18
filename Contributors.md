@@ -629,6 +629,7 @@
 - [Shanmuga priya](https://github.com/shanmugapriya1203)
 - [Mohamed Afraar](https://github.com/Afraar99)
 - [Prathwik](https://github.com/Prathwikacharya)
+- [Louis Katz](https://github.com/LouisKatz123)
 - [Omkar Kulkarni](https://github.com/omkarkulkarnii)
 - [Two Spikes](https://github.com/TwoSpikes)
 - [Faisal Aduko Wahabu](https://github.com/faisaladuko)
