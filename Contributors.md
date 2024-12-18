@@ -291,6 +291,7 @@
 - [Fangphire](https://github.com/fangphire)
 - [jhc4318](https://github.com/jhc4318)
 - [td2thinh](https://github.com/td2thinh)
+- [Dinesh](https://github.com/dineshv97)
 - [urkwr](https://github.com/urkwr)
 - [Alish-0x](https://github.com/Alish-0x)
 - [SWanHK](https://github.com/swanhk)
