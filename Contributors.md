@@ -19,6 +19,7 @@
 - [AmnaShouqi] (https://github.com/amnashouqi)
 - [Aicirou](My first contribution: https://github.com/Aicirou)
 - [krshearman](https://github.com/krshearman)
+- [KevinThomas](https://github.com/HELL-KERBECS)
 - [LukaGakhokidze] (https://github.com/Luka288)
 - [HiroseTakuya] (https://github.com/hiro-tech-taku/)
 - [Joncineus] (https://github.com/joncineus)
