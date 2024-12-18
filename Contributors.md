@@ -19,6 +19,7 @@
 - [AmnaShouqi] (https://github.com/amnashouqi)
 - [Aicirou](My first contribution: https://github.com/Aicirou)
 - [krshearman](https://github.com/krshearman)
+- [KevinThomas](https://github.com/HELL-KERBECS)
 - [LukaGakhokidze] (https://github.com/Luka288)
 - [HiroseTakuya] (https://github.com/hiro-tech-taku/)
 - [Joncineus] (https://github.com/joncineus)
@@ -292,7 +293,7 @@
 - [jhc4318](https://github.com/jhc4318)
 - [td2thinh](https://github.com/td2thinh)
 - [dinesh](https://github.com/dineshv97)
-- [sony]
+- [sony](https://github.com/sony77697)
 - [urkwr](https://github.com/urkwr)
 - [Alish-0x](https://github.com/Alish-0x)
 - [SWanHK](https://github.com/swanhk)
