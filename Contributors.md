@@ -427,6 +427,7 @@
 - [Tunde Suleiman](https://github.com/tsuleiman03)
 - [shappp1](https://github.com/shappp1) :)
 - [Evgeny Kozelskiy](https://github.com/Der12kl)
+- [Elina Zoldnere](https://github.com/ElinaZoldnere)
 - [Benjamin Tsoumagas](https://github.com/tsoumagas-benjamin)
 - [Bryson Morton](https://github.com/bryson-morton)
 - Bhavya Singla
