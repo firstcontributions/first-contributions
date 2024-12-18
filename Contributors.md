@@ -1627,5 +1627,5 @@
 - [brav68e] (https://github.com/Brav68e)
 - [psikyy] (https://github.com/Psikyy)
 - [Taumeh] (https://github.com/taumehh)
-  [nostop10](https//github.com/nostop10)
-  
+- [nostop10](https//github.com/nostop10)
+- [May-rain1989] (https://github.com/May-rain1989)
