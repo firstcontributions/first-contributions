@@ -67,6 +67,7 @@
 - [andev77](https://github.com/AnDev77)
 - [Sidharth Manikandan](https://github.com/salazangar)
 - [Sergio DG](https://github.com/dgsergio)
+- [p-a-brown](https://github.com/p-a-brown)
 - [Starkcover](https://github.com/Starkcover)
 - [Nuhu El Adj Souleymane](https://github.com/elsouleymane)
 - [Aditya Singh](https://github.com/devxaditya)
