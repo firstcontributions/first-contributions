@@ -1643,4 +1643,4 @@
 - [psikyy] (https://github.com/Psikyy)
 - [Taumeh] (https://github.com/taumehh)
   [nostop10](https//github.com/nostop10)
-  
+- [ThomasStaehliBFH](https://github.com/ThomasStaehliBFH)
