@@ -3,6 +3,7 @@
 -[vishalchauhan] (My first contribution: https://github.com/V1sh4lC)
 -[stevee14]
 - [antoineDELEBECQUE](https://github.com/AntoineDlb)
+- [Josh Gregory](My first contribution: https://github.com/joshtype)
 - [Jeremiah](https://github.com/jrmhx)
 - [benoitmonchaninsupinfo] (https://github.com/benoitmonchaninsupinfo)
 - [simonpotel](https://github.com/simonpotel)
