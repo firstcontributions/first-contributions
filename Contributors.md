@@ -1612,6 +1612,7 @@
 - anavillamar
 - [Syc] (https://github.com/Sycc66)
 - rmuzeya
+- kizmarco
 - [Axel Denouly](https://github.com/AxelDenouly/)
 - [Manjiri](https://github.com/manjiri-b)
 - [VivoDex](https://github.com/migi15ghost)
@@ -1646,4 +1647,5 @@
 - [psikyy] (https://github.com/Psikyy)
 - [Taumeh] (https://github.com/taumehh)
   [nostop10](https//github.com/nostop10)
+
   
