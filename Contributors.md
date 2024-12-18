@@ -966,6 +966,7 @@
 - [Navin P](https://github.com/mep1tz)
 - [Jacob S](https://github.com/JacobSletten)
 - [Sebastien Jacquemart](https://github.com/sebastienjacquemart-AI)
+- [Ruhinda Roderick Izooba](https://github.com/Ruhinda01/)
 - [Gerges Badr](https://github.com/GergesBadr)
 - [Shahil Kumar](https://github.com/Shahil9728)
 - [Liya K](https://github.com/liyamk)
