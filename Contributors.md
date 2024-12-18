@@ -246,6 +246,7 @@
 - [Nisha Verma](https://github.com/xnisha-verma)
 - [Jerold De Pedro](https://github.com/xherby07)
 - [Jason Ang](https://github.com/jasonavatarang)
+- Sriram Balu
 - [Sashin Trout](https://github.com/sashin123)
 - [Anish Banda] (https://github.con/anishbanda)
 - [Jordy19](https://github.com/Jordy19)
@@ -293,6 +294,7 @@
 - [jhc4318](https://github.com/jhc4318)
 - [td2thinh](https://github.com/td2thinh)
 - [dinesh](https://github.com/dineshv97)
+- [sony](https://github.com/sony77697)
 - [urkwr](https://github.com/urkwr)
 - [Alish-0x](https://github.com/Alish-0x)
 - [SWanHK](https://github.com/swanhk)
@@ -1613,6 +1615,7 @@
 - [upayanmazumder](https://github.com/upayanmazumder)
 - [makornobbe](https://github.com/XaNNaN)
 - [Manisha](https://github.com/manishapalsam)
+- [Mubin Bagwan] (https://github.com/mubinB)
 - anavillamar
 - [Syc] (https://github.com/Sycc66)
 - rmuzeya
@@ -1651,4 +1654,5 @@
 - [Taumeh] (https://github.com/taumehh)
   [nostop10](https//github.com/nostop10)
 - [MRCORE]([SCMRCORE (NOBODY)](https://github.com/SCMRCORE))
+- [Royce Andrew](https://github.com/RoyceAndrew)
 
