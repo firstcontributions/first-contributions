@@ -55,6 +55,7 @@
 - [Nimisha](https://github.com/codehusler14)
 - [Bhavishay Bharti](https://github.com/bhavi-b)
 - [Ajay Dongare](https://github.com/GluconicAcid)
+- [Lachlan Robinson](https://github.com/lachlan-robinson)
 - [Dascalu Dumitru](https://github.com/IronMemo)
 - [Cesar Garcia](https://github.com/cesaralej)
 - [Anthony Okechukwu Ubah](https://github.com/okeysbytes)
