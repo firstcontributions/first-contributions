@@ -15,6 +15,7 @@
 - [Ayananth](https://github.com/Ayananth)
 - [Loubna Lekouaghet](https://github.com/loubna213)
 - [Roshawn Brooks] (https://github.com/rbrooks95)
+- [Tarun Jakkula] (https://github.com/TarunJakkula)
 - [Omer Cohen](https://github.com/OmerCohen7530)
 - [Fikre Tesfay](https://github.com/fikre4444)
 - [EstherCamela](https://github.com/Esther-Assena-pro)
