@@ -23,8 +23,9 @@
 - [LukaGakhokidze] (https://github.com/Luka288)
 - [HiroseTakuya] (https://github.com/hiro-tech-taku/)
 - [Joncineus] (https://github.com/joncineus)
+- [Krishiv] (https://github.com/Krizzhiv)
 - [JoachimC] (https://github.com/Joachim280)
-- [chandanvnk1] (https://github.com/chandanvnk1
+- [chandanvnk1] (https://github.com/chandanvnk1)
 - [AdityaRaj212] (https://github.com/AdityaRaj212)
 - [AvAdiii] (https://github.com/AvAdiii)
 - [FloraPetit] (https://github.com/PetitFlora)
