@@ -28,7 +28,7 @@ Blog post okamak ýa-da wideolardan öwrenmek kömek edip biler, ýöne bir zady
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Indi, forklan repositoryny öz kompýuteriňize klonlan(clone). Bu diýmek, ýaňy siziň github hasabyňyza kopiýasy gelen(forklan) şu proýekti oz kompyuteriňizde-de bir kopiýasyna eýe bolup bilýäňiz. Github hasabyňyza gidiň, forklan repositoryny açyň, code düwmesine basyň, soňra _copy to clipboard_ nyşanyna basyň.
+Indi, forklan repositoryny öz kompýuteriňize klonlaň(clone). Bu diýmek, ýaňy siziň github hasabyňyza kopiýasy gelen(forklan) şu proýekti oz kompyuteriňizde-de bir kopiýasyna eýe bolup bilýäňiz. Github hasabyňyza gidiň, forklan repositoryny açyň, code düwmesine basyň, soňra _copy to clipboard_ nyşanyna basyň. 
 
 Terminaly açyp aşakdaky git buýruguny işlediň:
 
