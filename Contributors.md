@@ -6,6 +6,7 @@
 - [antoineDELEBECQUE](https://github.com/AntoineDlb)
 - [Josh Gregory](My first contribution: https://github.com/joshtype)
 - [Jeremiah](https://github.com/jrmhx)
+- [Akshey](https://github.com/aksheyd)
 - [benoitmonchaninsupinfo] (https://github.com/benoitmonchaninsupinfo)
 - [simonpotel](https://github.com/simonpotel)
 - [X3R074] (My first contribution: https://github.com/X3R074)
