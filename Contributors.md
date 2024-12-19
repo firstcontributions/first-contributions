@@ -1681,4 +1681,5 @@
 - [MRCORE]([SCMRCORE (NOBODY)](https://github.com/SCMRCORE))
 - [Royce Andrew](https://github.com/RoyceAndrew)
 - SlientHippo
+- [kane17](https://github.com/kane17)
 
