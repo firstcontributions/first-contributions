@@ -1,6 +1,6 @@
 # Contributors
 
--[vishalchauhan] (My first contribution: https://github.com/V1sh4lC)
+-[vishalchauhan](My first contribution: https://github.com/V1sh4lC)
 -[stevee14]
 - [addpd](https://github.com/addpd)
 - [antoineDELEBECQUE](https://github.com/AntoineDlb)
@@ -20,13 +20,14 @@
 - [Fikre Tesfay](https://github.com/fikre4444)
 - [EstherCamela](https://github.com/Esther-Assena-pro)
 - [mushrifshahreyar] (My first contribution: https://github.com/mushrifshahreyar)
-- [AmnaShouqi] (https://github.com/amnashouqi)
+- [AmnaShouqi](https://github.com/amnashouqi)
 - [Aicirou](My first contribution: https://github.com/Aicirou)
 - [Thisaga Jayaratna](https://github.com/thisagaa)
 - [krshearman](https://github.com/krshearman)
 - [KevinThomas](https://github.com/HELL-KERBECS)
 - [LukaGakhokidze] (https://github.com/Luka288)
 - [HiroseTakuya] (https://github.com/hiro-tech-taku/)
+- [Adithyan Dileep](https://github.com/adithyandileep/)
 - [Joncineus] (https://github.com/joncineus)
 - [Krishiv] (https://github.com/Krizzhiv)
 - [John J] (https://github.com/john310897)
