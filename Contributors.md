@@ -774,6 +774,7 @@
 - [Guillermo Nicolas Petcho](https://github.com/guillermopetcho)
 - [VaibhavSuryavanshi93](https://github.com/VaibhavSuryavanshi93)
 - [FlandersFrybad](https://github.com/flandersfrybad) 🍉
+- [Md Hasinur Rahman](https://github.com/halim4989)
 - [Daris Mathew](https://github.com/darismathew92)
 - [Harish Kushwah](https://github.com/Harish-Kushwah) ❤️ INDIA
 - [Kartik Pawar](https://github.com/kartikpawar10) INDIA
