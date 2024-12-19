@@ -1184,6 +1184,7 @@
 - [amoghshakya](https://github.com/amoghshakya)
 - [Vitor Orsin](https://github.com/YaboiAst)
 - [Caio Ueda Sampaio](https://github.com/KY-U)
+- [Luiz Fávaro](https://github.com/luizdevfelipe)
 - [James Russell](https://github.com/James-blend/)
 - [Dastageer HC](https://github.com/dastageer-hc)
 - [Serhat Bağlam](https://github.com/Rserhat01)
