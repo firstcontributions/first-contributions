@@ -54,6 +54,7 @@
 - [Kyrylo Sorokovskyi](https://github.com/sumdeusvitae)
 - [Nimisha](https://github.com/codehusler14)
 - [Bhavishay Bharti](https://github.com/bhavi-b)
+- [Shaswat Raj](https://github.com/sh20raj)
 - [Ajay Dongare](https://github.com/GluconicAcid)
 - [Lachlan Robinson](https://github.com/lachlan-robinson)
 - [Dascalu Dumitru](https://github.com/IronMemo)
