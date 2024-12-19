@@ -330,7 +330,7 @@
 - [Tyler Daw](https://github.com/TylerD1105)
 - [Minjae Kwon](https://github.com/minjaekwon97)
 - [dev-sik](https://github.com/YouD0313)
-- [callmekvj] (https://github.com/kvj-harsha)
+- [callme-kvj] (https://github.com/kvj-harsha)
 - [Brandon Munisur](https://github.com/Brandonmunisur)
 - [Rafael Vasconcelos](https://github.com/Rellik7)
 - [Jensen Coonradt](https://github.com/CapyBatman)
