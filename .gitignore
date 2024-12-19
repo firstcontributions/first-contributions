@@ -391,3 +391,279 @@ FodyWeavers.xsd
 
 # Desktop.ini (Google Drive info file)
 desktop.ini
+
+
+# ========================
+# System-Specific Files
+# ========================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+.AppleDouble
+.LSOverride
+
+# ========================
+# Logs and Temporary Files
+# ========================
+*.log
+*.tmp
+*.temp
+*.bak
+*.old
+*.swp
+*.swo
+*.swn
+*.err
+*.orig
+*.rej
+*.seed
+*.pid
+*.state
+*.trace
+*.stackdump
+
+# ========================
+# Build and Output Directories
+# ========================
+[Bb]uild/
+[Bb]in/
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+dist/
+out/
+target/
+x64/
+x86/
+*.egg-info/
+*.war
+*.jar
+*.class
+
+# ========================
+# Dependency Directories
+# ========================
+node_modules/
+.bower_components/
+jspm_packages/
+vendor/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# ========================
+# IDE and Editor Configurations
+# ========================
+# JetBrains (IntelliJ, Rider, PhpStorm, WebStorm, PyCharm)
+.idea/
+.idea_modules/
+*.iml
+.vscode/
+*.code-workspace
+
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+*.userprefs
+*.userosscache
+*.ipch
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.VC.db
+
+# Eclipse
+.metadata/
+*.bak
+*.log
+*.tmp
+*.swp
+*.pydevproject
+.project
+.cproject
+
+# MonoDevelop/Xamarin Studio
+*.userprefs
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pytest_cache/
+*.tox/
+env/
+venv/
+ENV/
+env.bak/
+
+# ========================
+# Java
+# ========================
+*.class
+*.jar
+*.war
+*.ear
+*.javadoc/
+
+# Maven
+.mvn/
+target/
+
+# Gradle
+.gradle/
+build/
+
+# ========================
+# Node.js
+# ========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.eslintcache
+.parcel-cache/
+.next/
+.nuxt/
+
+# ========================
+# Go
+# ========================
+*.exe
+*.test
+*.out
+.idea/
+
+# ========================
+# PHP
+# ========================
+*.phar
+vendor/
+
+# ========================
+# Ruby
+# ========================
+*.gem
+.rvm/
+.bundle/
+.ruby-version
+.ruby-gemset
+
+# ========================
+# Rust
+# ========================
+*.rs.bk
+*.rs.bak
+target/
+Cargo.lock
+
+# ========================
+# .NET / C#
+# ========================
+*.suo
+*.user
+*.userosscache
+*.rsuser
+*.sln.docstates
+*.vs/
+*.pdb
+*.pidb
+*.tmp_proj
+*.obj
+*.dll
+
+# ========================
+# LaTeX
+# ========================
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.vrb
+
+# ========================
+# Archives
+# ========================
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
+*.bz2
+*.xz
+*.bak
+
+# ========================
+# Coverage Reports
+# ========================
+coverage/
+coverage-final.json
+.nyc_output/
+
+# ========================
+# Miscellaneous
+# ========================
+*.sqlite3
+*.sqlite
+*.db
+*.db-shm
+*.db-wal
+*.pdf
+*.docx
+*.doc
+*.xls
+*.xlsx
+
+# ========================
+# Temporary by Build Systems
+# ========================
+.cmake/
+CMakeFiles/
+Makefile
+CMakeCache.txt
+
+# ========================
+# Debug Tool Outputs
+# ========================
+*.lst
+*.map
+*.dmp
+*.cfi
+*.prof
+*.gcda
+*.gcno
+*.gcov
+
+# ========================
+# CI/CD
+# ========================
+.env
+.env.*
+*.env.local
+*.env.production
+*.env.test
+*.env.development
+.gitlab-ci.yml
+.circleci/
+
+# ========================
+# MacOS
+# ========================
+._*
+.Spotlight-V100
+.Trashes
