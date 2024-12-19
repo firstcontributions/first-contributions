@@ -26,6 +26,7 @@
 - [HiroseTakuya] (https://github.com/hiro-tech-taku/)
 - [Joncineus] (https://github.com/joncineus)
 - [Krishiv] (https://github.com/Krizzhiv)
+- [John J] (https://github.com/john310897)
 - [JoachimC] (https://github.com/Joachim280)
 - [chandanvnk1] (https://github.com/chandanvnk1)
 - [AdityaRaj212] (https://github.com/AdityaRaj212)
