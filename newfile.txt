@@ -1,2 +1,0 @@
-Hello GitHub! Đây là file mới.
-Dòng thứ 2: Chỉnh sửa file newfile.txt
