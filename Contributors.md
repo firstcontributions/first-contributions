@@ -97,6 +97,7 @@
 - [Tharushika Hirushani](https://github.com/TharuHiru)
 - [Hasindu Thirasara](https://github.com/Hasindu071)
 - [MichaelAlanAXL]
+- [Bharath]
 - [killjoybr](https://github.com/killjoybr
 - [Jaydeep Khandla](https://github.com/jaydeep-khandla/)
 - [Jobin Jose](https://github.com/jobin8921)
