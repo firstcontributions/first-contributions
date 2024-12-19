@@ -1,6 +1,6 @@
 # Contributors
 
--[vishalchauhan] (My first contribution: https://github.com/V1sh4lC)
+- [vishalchauhan] (My first contribution: https://github.com/V1sh4lC)
 -[stevee14]
 - [antoineDELEBECQUE](https://github.com/AntoineDlb)
 - [Josh Gregory](My first contribution: https://github.com/joshtype)
