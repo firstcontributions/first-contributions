@@ -137,6 +137,7 @@
 - [Nikolai B.](https://github.com/nbardzinkevichh)
 -[Gabriel Vieira](https://www.linkedin.com/in/gabrielvieirasantos/)
 - Mradul
+- [Ahmer Mehmood](https://github.com/Itachi0007)
 - Lucie C. 
 - Ron G.
 - RhazhBash
