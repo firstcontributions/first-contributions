@@ -7,6 +7,7 @@
 - [antoineDELEBECQUE](https://github.com/AntoineDlb)
 - [Josh Gregory](My first contribution: https://github.com/joshtype)
 - [lepickel](https://github.com/lepickel)
+- [hectoru10](https://github.com/Hectoru10)
 - [Jeremiah](https://github.com/jrmhx)
 - [Akshey](https://github.com/aksheyd)
 - [Shubhranka Varma](https://github.com/shubhranka)
