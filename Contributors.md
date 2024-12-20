@@ -1104,6 +1104,7 @@
 - [AestheticWolfie](https://github.com/AestheticWolfie)
 - [Charley Yoshi](https://github.com/charleyoshi)
 - [Sai Preetham Reddy](https://github.com/SaiPreethamReddyy)
+- [Darko Milicevic](https://github.com/DarkoMilicevic5)
 - [Paul Lee](https://github.com/plee30)
 - [Daniel Niemann Hjermitslev](https://github.com/dnh33)
 - [Jonathan Jones](https://github.com/devJonathanJones)
