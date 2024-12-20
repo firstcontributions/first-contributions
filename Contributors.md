@@ -54,6 +54,7 @@
 - [Sai Khay Khun Mong](https://github.com/KhayKhun)
 [Jewel Geea George] (https://github.com/)
 - [Kyrylo Sorokovskyi](https://github.com/sumdeusvitae)
+- [Liquuid1](https://github.com/Liquuid1)
 - [Nimisha](https://github.com/codehusler14)
 - [Bhavishay Bharti](https://github.com/bhavi-b)
 - [Ajay Dongare](https://github.com/GluconicAcid)
