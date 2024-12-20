@@ -21,6 +21,7 @@
 - [Roshawn Brooks] (https://github.com/rbrooks95)
 - [Tarun Jakkula] (https://github.com/TarunJakkula)
 - [Omer Cohen](https://github.com/OmerCohen7530)
+- [Ravi singh](https://github.com/ravir0ushan)
 - [Fikre Tesfay](https://github.com/fikre4444)
 - [EstherCamela](https://github.com/Esther-Assena-pro)
 - [mushrifshahreyar] (My first contribution: https://github.com/mushrifshahreyar)
