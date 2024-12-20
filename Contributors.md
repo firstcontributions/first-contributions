@@ -1,6 +1,6 @@
 # Contributors
 
--[vishalchauhan] (My first contribution: https://github.com/V1sh4lC)
+- [vishalchauhan] (My first contribution: https://github.com/V1sh4lC)
 -[stevee14]
 -[Sonum Jaggi] (http://github.com/sonum02)
 - [addpd](https://github.com/addpd)
