@@ -1693,4 +1693,5 @@
 - [Royce Andrew](https://github.com/RoyceAndrew)
 - SlientHippo
 - [kane17](https://github.com/kane17)
+- [amazingfarooqq](https://github.com/amazingfarooqq)
 
