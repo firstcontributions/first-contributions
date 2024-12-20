@@ -1555,6 +1555,7 @@
 - [Ian Hart](https://github.com/ianahart)
 - [Van Minh Tran](https://github.com/minhtran5109)
 - [Uday Vara](https://github.com/UV26320)
+- [Thiago Fraga](https://github.com/thiagoigfraga)
 - [Prabel](https://github.com/HiPrabel)
 - [Aryan Mahida](https://github.com/aryan083)
 - [Benedict Robinson] (https://github.com/benedict-robinson)
