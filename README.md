@@ -88,6 +88,10 @@
 <kbd>[<img title="ភាសាខ្មែរ" alt="ភាសាខ្មែរ" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/kh.svg" width="22">](translations/README.kh.md)</kbd>
 <kbd>[<img title="Morocco" alt="Moroccan Darija" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ma.svg" width="22">](translations/README.ma.md)</kbd>
 
+# CONTRIBUTORS
+
+NICKO
+
 # First Contributions
 
 This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
