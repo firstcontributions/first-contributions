@@ -61,6 +61,7 @@
 - [Nimisha](https://github.com/codehusler14)
 - [Bhavishay Bharti](https://github.com/bhavi-b)
 - [Ajay Dongare](https://github.com/GluconicAcid)
+- [Manisha1679] (https://github.com/Manisha1679)
 - [Lachlan Robinson](https://github.com/lachlan-robinson)
 - [Dascalu Dumitru](https://github.com/IronMemo)
 - [Cesar Garcia](https://github.com/cesaralej)
