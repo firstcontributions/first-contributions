@@ -106,6 +106,7 @@
 - [Tharushika Hirushani](https://github.com/TharuHiru)
 - [Hasindu Thirasara](https://github.com/Hasindu071)
 - [MichaelAlanAXL]
+- [Minh Thang](https://github.com/thangved)
 - [Bharath]
 - [killjoybr](https://github.com/killjoybr
 - [Jaydeep Khandla](https://github.com/jaydeep-khandla/)
