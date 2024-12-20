@@ -81,7 +81,7 @@
 <kbd>[<img title="Turkmen" alt="Turkmen language" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/tm.svg" width="22">](translations/README.tm.md)</kbd>
 <kbd>[<img title="Ewe (TOGO)" alt="Ewe (TOGO)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/tg.svg" width="22">](translations/README.ewe.md)</kbd>
 <kbd>[<img title="አማርኛ" alt="አማርኛ" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/et.svg" width="22">](translations/README.et.md)</kbd>
-<kbd><img title="Kurdî" alt="Kurdî" src="https://upload.wikimedia.org/wikipedia/commons/b/be/Flag_of_Kurdistan.svg" width="22"></kbd>
+<kbd><img title="Kurdî" alt="Kurdî" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Flag_of_Kurdistan.svg" width="22"></kbd>
 
 # Beşdariyên Yekem
 
