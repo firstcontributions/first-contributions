@@ -806,6 +806,7 @@
 - [AM-Shafin](https://github.com/am-safin) 👊
 - [Bharath Ram S](https://github.com/BharathRam125)
 - [Rakeshkandhi](https://github.com/rakeshkandhi)
+- [iam-jerry](https://github.com/iam-jerry)
 - [Renaulter](https://github.com/himanshu-gadia)
 - [sambutracy](https://github.com/sambutracy)
 - [TH-Raju](https://github.com/TH-Raju)
