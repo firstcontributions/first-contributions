@@ -77,6 +77,7 @@
 - [eesoyeon] (https://github.com/eesoyeon)
 - Tournoy Noa
 - Samarth Sharma
+- [YU-XIN-JIAN] (https://github.com/YU-XIN-JIAN)
 - [Ankita Ayushi] (https://github.com/a-ayushigit)
 - [Chandan Achary] (https://github.com/Adventurist2)
 - [Christian Mayamba] (https://github.com/chris-mayamba)
