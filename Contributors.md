@@ -8,6 +8,7 @@
 - [antoineDELEBECQUE](https://github.com/AntoineDlb)
 - [Josh Gregory](My first contribution: https://github.com/joshtype)
 - [lepickel](https://github.com/lepickel)
+- [Adarsh84] (https://github.com/adarshM84)
 - [hectoru10](https://github.com/Hectoru10)
 - [lennyhurni](https://github.com/lennyhurni)
 - [Jeremiah](https://github.com/jrmhx)
