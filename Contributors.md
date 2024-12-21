@@ -208,6 +208,7 @@
 - [Hongbi Ko](https://github.com/HongbiKo)
 - Dante
 - Pooja
+- Anirudh
 - [drak-o](https://github.com/drak-o)
 - [Michael Gabriel](https://github.com/maranatha443)
 - [SHP](https://github.com/Su-Hnin)
