@@ -51,6 +51,7 @@
 - [AvAdiii] (https://github.com/AvAdiii)
 - [Madhav Singh] (https://github.com/maddy710)
 - [FloraPetit] (https://github.com/PetitFlora)
+- [Sahith](https://github.com/SaiSahithPolimera)
 - [anthocote19](https://github.com/anthocote19)
 - [Arsalan Mohseni](https://github.com/arsalanmohseni)
 - [Iris Christa](https://github.com/I-christa)
@@ -288,6 +289,7 @@
 - [Sashin Trout](https://github.com/sashin123)
 - [Anish Banda] (https://github.con/anishbanda)
 - [Jordy19](https://github.com/Jordy19)
+- [cawhite7](https://github.com/cawhite7)
 - [Whrisper](https://github.com/SChrisper)
 - [vedivero](https://github.com/vedivero)
 - [Anemone](https://github.com/anemone-coronaria)
@@ -1718,4 +1720,6 @@
 - [mathu](https://github.com/Mathu145)
 - [bypythom] (https://github.com/Bypythom)
 - [KriawqZero] (https://github.com/KriawqZero)
+- Phillip-James(https://github.com/Phillip-James)
+- [NitroXen](https://github.com/NitroXen)
 
