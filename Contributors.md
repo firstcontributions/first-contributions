@@ -11,6 +11,7 @@
 - [lepickel](https://github.com/lepickel)
 - [Adarsh84] (https://github.com/adarshM84)
 - [hectoru10](https://github.com/Hectoru10)
+- [Ahorts](https://github.com/Ahorts)
 - [lennyhurni](https://github.com/lennyhurni)
 - [Jeremiah](https://github.com/jrmhx)
 - [Akshey](https://github.com/aksheyd)
