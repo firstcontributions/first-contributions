@@ -71,6 +71,7 @@
 - [Anthony Okechukwu Ubah](https://github.com/okeysbytes)
 - [ARPITHA](https://github.com/Arpitha189) 
 - [All the World's a Stage](https://github.com/YourHateMyHeroin) 
+- [Sidhant Naik](https://github.com/Sidnaik04)
 - [idrees](https://github.com/idrees2k22)
 - [JaeHye0k](https://github.com/JaeHye0k)
 - [JasonSA1993](https://github.com/JasonSa1993/)
