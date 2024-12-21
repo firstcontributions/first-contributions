@@ -18,6 +18,7 @@
 - [Akshey](https://github.com/aksheyd)
 - [Shubhranka Varma](https://github.com/shubhranka)
 - [benoitmonchaninsupinfo] (https://github.com/benoitmonchaninsupinfo)
+- [NandamRishith] (https://github.com/nandam2003)
 - [simonpotel](https://github.com/simonpotel)
 - [X3R074] (My first contribution: https://github.com/X3R074)
 - [Seif Eddine Gadi](https://github.com/Seif-Eddine-Gadi)
