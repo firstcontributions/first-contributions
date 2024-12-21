@@ -51,6 +51,7 @@
 - [AvAdiii] (https://github.com/AvAdiii)
 - [Madhav Singh] (https://github.com/maddy710)
 - [FloraPetit] (https://github.com/PetitFlora)
+- [Sahith](https://github.com/SaiSahithPolimera)
 - [anthocote19](https://github.com/anthocote19)
 - [Arsalan Mohseni](https://github.com/arsalanmohseni)
 - [Iris Christa](https://github.com/I-christa)
