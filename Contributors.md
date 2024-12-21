@@ -1,14 +1,13 @@
 # Contributors
 
 - [Eugene Chia] (https://github.com/eugenechia)
--[Nikhil] (My first contributions: https://github.com/Nikhil-NP)
--[vishalchauhan] (My first contribution: https://github.com/V1sh4lC)
--[Deekshitha] (My first contribution: https://github.com/NDeekshithaReddy)
--[meenakshiruia] (https://github.com/meenakshiruia)
--[RomaniukNatalia] (https://github.com/RomaniukNatalia)
--[stevee14]
--[Dyno-man] (https://github.com/Dyno-man)
--[Sonum Jaggi] (http://github.com/sonum02)
+- [Nikhil] (My first contributions: https://github.com/Nikhil-NP)
+- [vishalchauhan] (My first contribution: https://github.com/V1sh4lC)
+- [meenakshiruia] (https://github.com/meenakshiruia)
+- [RomaniukNatalia](https://github.com/RomaniukNatalia)
+- [stevee14]
+- [Dyno-man] (https://github.com/Dyno-man)
+- [Sonum Jaggi] (http://github.com/sonum02)
 - [addpd](https://github.com/addpd)
 - [antoineDELEBECQUE](https://github.com/AntoineDlb)
 - [Josh Gregory](My first contribution: https://github.com/joshtype)
