@@ -98,6 +98,7 @@
 - [Gitrhyme](https://github.com/gitrhyme)
 - [Jide Falaki](https://github.com/jidefal)
 - [andev77](https://github.com/AnDev77)
+- [Kevin Hu](https://github.com/sijun-kevin-hu)
 - [Sidharth Manikandan](https://github.com/salazangar)
 - [Sergio DG](https://github.com/dgsergio)
 - [p-a-brown](https://github.com/p-a-brown)
