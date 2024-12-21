@@ -730,6 +730,7 @@
 - [Oluwasemilore Omotade-Michaels](https://github.com/shemigam1)
 - [ycvy](https://github.com/ycvy)
 - [Fahim Muntasir](https://github.com/fahim-muntasir)
+- [Madike Olisa](https://github.com/ChubbyJoe)
 - [Sai_Aung_Wann](https://github.com/AungWann)
 - [Jovillios](https://github.com/Jovillios)
 - [Tanvi Shetty](https://github.com/Shettytan99)
