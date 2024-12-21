@@ -1644,6 +1644,7 @@
 - [Soumya Makkar] (https://github.com/soumyamakkar)
 - [Burak_Altun](https://github.com/mburakaltun)
 - [Edgit G](https://github.com/flame0618)
+- [1ndedd](https://github.com/1ndedd)
 [alvisha](https://github.com/Alvisha-28)
 - [Abhishek Kumar Roy](https://github.com/Abhishek-kroy)
 - [Shubham Kumar Subudhi](https://github.com/subhamKS)
