@@ -208,6 +208,7 @@
 - [Hongbi Ko](https://github.com/HongbiKo)
 - Dante
 - Pooja
+- Anirudh
 - [drak-o](https://github.com/drak-o)
 - [Michael Gabriel](https://github.com/maranatha443)
 - [SHP](https://github.com/Su-Hnin)
@@ -1550,6 +1551,7 @@
 - [JayeLee17](https://github.com/JayeLee17)
 - [Niranjan Khedkar](https://github.com/Niranjan2048)
 - [Maurizio Morgano](https://github.com/mmorgano)
+- [Dewguy] (https://github.com/Dewguy)
 - [Pasquotcho] (https://github.com/Pasquotcho)
 - [K S Sai Teja](https://github.com/kssaiteja)
 - [Venkatraj](https://github.com/ivenkatraj)
