@@ -32,6 +32,7 @@
 - [Tarun Jakkula] (https://github.com/TarunJakkula)
 - [Omer Cohen](https://github.com/OmerCohen7530)
 - [Ravi singh](https://github.com/ravir0ushan)
+- [Laurian Iacob](https://github.com/iLaurian)
 - [Fikre Tesfay](https://github.com/fikre4444)
 - [EstherCamela](https://github.com/Esther-Assena-pro)
 - [mushrifshahreyar] (My first contribution: https://github.com/mushrifshahreyar)
