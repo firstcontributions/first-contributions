@@ -207,6 +207,7 @@
 - [Karnam Veerendra Prasad](https://github.com/Veerendra-Prasad)
 - [aoe3](https://github.com/aoe3)
 - [hide361](https://github.com/hide361)
+- [rujeetjahagirdar](https://github.com/rujeetjahagirdar)
 - [pateldevashish001](https://github.com/PatelDevashish001)
 - [NikitaJaiswal77](https://github.com/NikitaJaiswal77)
 - [Sarvesh](https://github.com/sarvesh-sr)
