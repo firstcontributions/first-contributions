@@ -5,6 +5,7 @@
 -[vishalchauhan] (My first contribution: https://github.com/V1sh4lC)
 -[Deekshitha] (My first contribution: https://github.com/NDeekshithaReddy)
 -[meenakshiruia] (https://github.com/meenakshiruia)
+-[RomaniukNatalia] (https://github.com/RomaniukNatalia)
 -[stevee14]
 -[Dyno-man] (https://github.com/Dyno-man)
 -[Sonum Jaggi] (http://github.com/sonum02)
