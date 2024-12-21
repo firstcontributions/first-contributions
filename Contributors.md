@@ -1,6 +1,7 @@
 # Contributors
 
 - [Eugene Chia] (https://github.com/eugenechia)
+-[Nikhil] (My first contributions: https://github.com/Nikhil-NP)
 -[vishalchauhan] (My first contribution: https://github.com/V1sh4lC)
 -[meenakshiruia] (https://github.com/meenakshiruia)
 -[stevee14]
