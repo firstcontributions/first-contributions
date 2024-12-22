@@ -22,6 +22,7 @@
 - [Adarsh84](https://github.com/adarshM84)
 - [hectoru10](https://github.com/Hectoru10)
 - [Ahorts](https://github.com/Ahorts)
+- [widespectrum](https://github.com/widespctr)
 - [lennyhurni](https://github.com/lennyhurni)
 - [Gad](https://github.com/Gad)
 - [Jeremiah](https://github.com/jrmhx)
