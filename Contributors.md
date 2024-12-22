@@ -2082,6 +2082,7 @@ weissbrotjaeger
 - [Hamza or StudHamza :0](https://github.com/StudHamza)
 - [fayez coder](https://github.com/fayezCoder))
 - [Rudi Bakaal](https://github.com/rudibakaal)
+- [Adam Gordon](https://github.com/adamgordonny) [LinkedIn](https://linkedin.com/adam-gordon119) [Portfolio](https://www.adam-gordon.info) [BlueSky](https://bsky.app/profile/adamgny.bsky.social)
 - Justin Blake
 igntius praise 
 - [satoshi nakamoto](https://en.wikipedia.org/wiki/Adam_Back)
