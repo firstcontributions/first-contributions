@@ -17,6 +17,7 @@
 - [Fabrice Pecot] (https://github.com/FabriceAB1)
 - [vishalchauhan] (My first contribution: https://github.com/V1sh4lC)
 - [stevee14]
+- [davidw1281](https://github.com/davidw1281)
 - [antoineDELEBECQUE](https://github.com/AntoineDlb)
 - [Josh Gregory](https://github.com/joshtype)
 - [lepickel](https://github.com/lepickel)
