@@ -993,6 +993,7 @@
 - [Giorgos](https://github.com/geopat24)
 - [thourihan](https://github.com/thourihan)
 - [k8port](https://github.com/k8port)
+- [Anderson F.P. Silva](https://github.com/AndersonFPS)
 - [Faith Adewuyi](https://github.com/faithadewuyi)
 - [Suraj](https://github.com/SurajKamal24)
 - [Satvik](https://github.com/DevSatvik)
