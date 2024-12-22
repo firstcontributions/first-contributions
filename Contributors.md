@@ -1564,9 +1564,9 @@
 - [Venkatraj](https://github.com/ivenkatraj)
 - [Tristan Hyams](https://github.com/tristanhyams)
 - [uXTrebla](https://github.com/uxtrebla)
-- [Buse Dağıdır](https://github.com/busedagidir)
-- [Karulina Alencar](https://github.com/karolalencar)
-- [Jake Abed](https://github.com/jake-abed)
+- [Buse Dağıdır](https://github.com/busedagidi)
+
+- [poojashreeks](https://github.com/poojashreeks)
 - [Agunbiade Aishat](https://github.com/yeeshadev)
 - [Anonym2137](https://github.com/Anonym2137)
 - [Br0wnReculse](https://github.com/br0wnrecluse)
