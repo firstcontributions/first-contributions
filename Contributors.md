@@ -1655,6 +1655,7 @@
 - [Sainaaa](https://github.com/sainaa21) 
 - [Lumbini Tambat](https://github.com/Alat07)
 - [Nihal Mohammed](https://github.com/Nihal-Mohammed-V)
+- [Ananya Lokesh](https://github.com/Ananyalokesh01/first-contributions.git)
 - [Micah Hack](https://github.com/MicahHack)
 - [agergoni](https://github.com/agergoni)
 - [Lumbini Tambat](https://github.com/Alat07)
@@ -1739,4 +1740,5 @@
 - [KriawqZero] (https://github.com/KriawqZero)
 - Phillip-James(https://github.com/Phillip-James)
 - [NitroXen](https://github.com/NitroXen)
+
 
