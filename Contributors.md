@@ -1744,6 +1744,7 @@
 - LeonJWD
 - Polino
 - [LidaMudota] (https://github.com/LidaMudota)
+- [Vikkram] (https://github.com/vikkramstark)
 - [Mihir Tandon] (https://github.com/Mihirt2)
 - [Akilmohammad](https://github.com/akilmohammad)
 - [Ay0ko] (https://github.com/Ay0ko)
