@@ -1,5 +1,6 @@
 # Contributors
 
+- [jasurgraduate] (https://github.com/jasurgraduate)
 - [uzuraDev](https://github.com/uzuraDev)
 - [Eugene Chia] (https://github.com/eugenechia)
 - [Nikhil] (My first contributions: https://github.com/Nikhil-NP)
