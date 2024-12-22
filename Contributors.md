@@ -73,6 +73,7 @@
 - [Liquuid1](https://github.com/Liquuid1)
 - [Nimisha](https://github.com/codehusler14)
 - [Bhavishay Bharti](https://github.com/bhavi-b)
+- [Shaswat Raj](https://github.com/sh20raj)
 - [Ajay Dongare](https://github.com/GluconicAcid)
 - [Manisha1679](https://github.com/Manisha1679)
 - [Lachlan Robinson](https://github.com/lachlan-robinson)
