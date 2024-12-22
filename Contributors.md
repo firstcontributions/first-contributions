@@ -738,6 +738,7 @@ Kencham Vinay
 -[Joseph Mbuyamba](https://github.com/jnmii)
 -[Gerzson Pszota] (https://github.com/gerzson-pszota)
 -[Daniele Russo](https://github.com/DaniVS) [Linkedin](https://www.linkedin.com/in/daniele-russo-0317a3289/)
+-[Nicko Enargan] (https://github.com/dondominick) 
 -[Yogeshwar Khurmi](https://github.com/ykverma99)
 -[Azucena Marroquin](https://github.com/azucena-m)
 -[Dogukan Aysan](https://github.com/dogukan-aysan)
