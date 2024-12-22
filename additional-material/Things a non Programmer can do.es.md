@@ -3,7 +3,7 @@
 
 Todo en código abierto involucra a otras personas.
 Estás buscando unirte a un equipo y eso significa comprender la comunidad y cómo funciona.
-Entrar en un proyecto y decir "Hola, esto es lo que creo que debería hacer este proyecto" generalmente no se considera algo bueno.
+Entrar en un proyecto y decir "Hola, esto es lo que creo que debería hacer este proyecto." generalmente no se considera algo bueno.
 Algunos proyectos pueden acoger con agrado ese tipo de enfoque, pero si el proyecto lleva funcionando un tiempo, las posibilidades de que se adopte esa actitud son pequeñas.
 **Escuchar es la mejor manera de saber qué necesita el proyecto.**
 
@@ -119,6 +119,6 @@ Si puede escribir sobre cómo funciona una aplicación o software, puede escribi
 
 Sobre todo, escuche lo que discuten las personas que lo rodean. Vea si puede reconocer una necesidad urgente. Por ejemplo, recientemente en la lista de correo de los desarrolladores de Parrot, se decidió utilizar GitHub como sistema de notificación de problemas, abandonando la antigua instalación de Trac que tenían. Algunas personas estaban en contra de la medida porque no había forma de convertir los tickets al sistema de GitHub. Después de un día de discusiones de ida y vuelta, hablé y dije: "¿Qué tal si escribo un convertidor?" La gente estaba encantada con la idea. Dediqué tiempo a escribir un programa de conversión para más de 450 boletos, por lo que no perdimos nada de nuestro historial de boletos. Fue un gran éxito. Pude colaborar y los desarrolladores principales se mantuvieron concentrados en el negocio de trabajar en Parrot.
 
-15. **Enseñar y ayudar a otros** :
+16. **Enseñar y ayudar a otros** :
 La mejor manera de aprender más sobre un tema es intentar enseñarlo.
 El mejor profesor es el que puede explicar cosas complejas con ejemplos sencillos. Por lo tanto, debes intentar ser el mejor maestro para ser el mejor alumno y el mejor en tu mundo de programación. Enseñar a otros te hará sentir mejor contigo mismo y te ayudará a adquirir mejores habilidades y conocimientos en tu profesión. Cuando reciba ayuda de alguien, no se la guarde para usted, compártala con los demás. Hacer el mundo un lugar mejor para vivir .
