@@ -197,6 +197,7 @@
 - shyGuy
 - Utkarsh Kumar
 - hi, iam anoof
+- [Juan Saavedra](https://github.com/JuanSaavedraB/)
 - add-lansar
 - [Felipe Chicaiza](https://github.com/FelipeChicaiza)
 - [Twinkle](https://github.com/Twinkle748)
