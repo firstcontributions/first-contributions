@@ -177,8 +177,7 @@
 - [veekshitha](https://github.com/Veekshitha21)
 - [TejasK](https://github.com/TejasKoravanavar)
 - [ahmad777x86](https://github.com/ahmad777x86)
-- [Nikolai B.](https://github.com/nbardzinkevichh)
--[Gabriel Vieira](https://www.linkedin.com/in/gabrielvieirasantos/)
+- [Nikolai B.](https://github.com/nbardzinkevichh) -[Gabriel Vieira](https://www.linkedin.com/in/gabrielvieirasantos/)
 - Mradul
 - [Ahmer Mehmood](https://github.com/Itachi0007)
 - Lucie C.
@@ -186,8 +185,8 @@
 - RhazhBash
 - This is maya from The future.
 - Vilkas
-- Raj_
--FMaciejewski
+- Raj\_
+  -FMaciejewski
 - [Priyash Anand](https://github.com/priyashanand)
 - [Ramunas Kazlauskas](https://github.com/akuyra1)
 - Ketan Yadav
@@ -339,8 +338,7 @@
 - [WHA](https://github.com/wynehtetaung)
 - [Captain](https://github.com/CaptainPatel)
 - [Jonathan](https://github.com/JonathanCharles2003)
-- [Ishita](https://github.com/elekish)
--[Shresta](https://github.com/g-shresta)
+- [Ishita](https://github.com/elekish) -[Shresta](https://github.com/g-shresta)
 - [ykeissar](https://github.com/ykeissar)
 - [Michael](https://github.com/LucidWinter)
 - [Phillip](gttps://github.com/PhillipSom)
@@ -650,8 +648,7 @@
 - [ohdy518](https://github.com/ohdy518)
 - [Satyajit Patra](https://github.com/SatyajitPatra06)
 - [Abishek S R](https://github.com/Abishek0411)
-- [massone99](https://github.com/massone99))
--[G yasaswini](https://github.com/gyasaswini10)
+- [massone99](https://github.com/massone99)) -[G yasaswini](https://github.com/gyasaswini10)
 - [Kyle O'Leary](https://github.com/kyle-oleary)
 - [Muhammed Yaseen Sidhik](https://github.com/Nosawkid)
 - [Irfan](https://github.com/0xNafri)
@@ -819,8 +816,7 @@
 - [Anand Rai](https://github.com/anandrai08)
 - [Agneepradeep Verma](https://github.com/agneepradeep)
 - [Aurélien Lainé](https://github.com/aurelien81)
-- [jashan](https://github.com/JaSHaN-30)
--[Syed Zainab](https://gothub.com/SyedZainab)
+- [jashan](https://github.com/JaSHaN-30) -[Syed Zainab](https://gothub.com/SyedZainab)
 - [Vishnu Vardan](https://github.com/VV-22)
 - [Maruthi Manideep Gorla](https://github.com/manideep3069)
 - [Maximilian Ganske](https://github.com/MaxGanske)
@@ -997,6 +993,7 @@
 - [Hasham Taujoo](https://github.com/HashamTaujoo)
 - [Muhammad Aliyu Abubakar](https://github.com/mxg-mega)
 - [Muhammad Hassaan](https://github.com/Hassaan68)
+- [Luís Silva](https://github.com/LuisSilva7)
 - [Mohib UL Rehman](https://github.com/Mohib-UL-Rehman)
 - [Sachin Kumar](https://github.com/pseudofool)
 - [Apoorv ](https://github.com/APOORV7G)
@@ -1103,7 +1100,7 @@
 - [arsha32 ](https://github.com/arsha32)
 - [Tabish Shamim](https://github.com/tabishshamim10)
 - [Ritik Agrawal](https://github.com/relar-Ritik)
-- [Nnodim Obinna Brian](https://github.com/nnodim) 
+- [Nnodim Obinna Brian](https://github.com/nnodim)
 - [Alessio Bugetti](https://github.com/AlessioBugetti)
 - [GwanBin Park](https://github.com/bgb10)
 - [Mahesh Chaulagain]
@@ -1148,9 +1145,9 @@
 - [Darko Milicevic](https://github.com/DarkoMilicevic5)
 - [Paul Lee](https://github.com/plee30)
 - [Daniel Niemann Hjermitslev](https://github.com/dnh33)
-Ayush Kumar
+  Ayush Kumar
 - [Jonathan Jones](https://github.com/devJonathanJones)
-Ayush Jariyal
+  Ayush Jariyal
 - [Liam Dwyer](https://github.com/ldwy4)
 - [Sentinal cell](https://github.com/Sentinal-cell)
 - [Penn Junior](https://github.com/Payne680)
@@ -1280,8 +1277,7 @@ Ayush Jariyal
 - [MK Saba](https://github.com/mksaba)
 - [Garfield](https://github.com/jiafie7)
 - [S Yougesh Kumar](https://github.com/Yougesh978)
-- [MohammadKad](https://github.com/mohammadkad)
--[Atilola Oyediji] (https://github.com/netblaiz)
+- [MohammadKad](https://github.com/mohammadkad) -[Atilola Oyediji] (https://github.com/netblaiz)
 - [Aniket Negi](https://github.com/theaniketnegi)
 - [yunmaoQu](https://github.com/yunmaoQu)
 - [Kamari M.](https://github.com/Kamari93)
@@ -1560,7 +1556,6 @@ Ayush Jariyal
 - [Shri Chandana](https://github.com/Shri2320)
 - [Shri Chandana](https://github.com/Shri2320)
 
-
 - [Shreaoskar Roy](https://github.com/roybrains)
 - [Muhammad Maarij Zeeshan](https://github.com/muhammad-maarij-zeeshan)
 - [Ebrar Altunkaynak](https://github.com/ebrardev)
@@ -1687,14 +1682,13 @@ Ayush Jariyal
 - [Burak_Altun](https://github.com/mburakaltun)
 - [Edgit G](https://github.com/flame0618)
 - [1ndedd](https://github.com/1ndedd)
-[alvisha](https://github.com/Alvisha-28)
+  [alvisha](https://github.com/Alvisha-28)
 - [Abhishek Kumar Roy](https://github.com/Abhishek-kroy)
 - [Shubham Kumar Subudhi](https://github.com/subhamKS)
 - [Luciano-Jeonhyunjun](https://github.com/Luciano-JeonHyunJun)
 - [Césaire-Dang](https://github.com/As2pique5)
 - [Shivam Maniya] (https://github.com/shivam-9999)
-- cyber9host
--[Manasa32264](https://github.com/Manasa32264)
+- cyber9host -[Manasa32264](https://github.com/Manasa32264)
 - nitewing9000
 - [Roberta Aguilar] (https://github.com/robertarfa)
 - [Saumya Thakkar] (https://github.com/Deathstar1999)
@@ -1733,7 +1727,7 @@ Ayush Jariyal
 - [Sumit Baranwal](https://github.com/Sumit-22)
 - [Jikedao_yzc](https://github.com/yzc109)
 - herman-gathege (https://github.com/Herman-Gathege)
-- 
+-
 - [rhu121](https://github.com/ThapaRh)
 - [maskFox2](https://github.com/maskFox2)
 - [Suvesh Pandey] (https://github.com/suveshpandey)
@@ -1766,7 +1760,7 @@ Ayush Jariyal
 - [Jatin Parmar](https://github.com/JatinParmar1011)
 - SlientHippo
 - Aravind-Pramod
-- [staehli97](https://github.com/staehli97) 
+- [staehli97](https://github.com/staehli97)
 - [kane17](https://github.com/kane17)
 - [amazingfarooqq](https://github.com/amazingfarooqq)
 - [mathu](https://github.com/Mathu145)
@@ -1776,4 +1770,3 @@ Ayush Jariyal
 - [NitroXen](https://github.com/NitroXen)
 - [arunachalam](https://github.com/arunachalam077/)
 - [AnesioSousa](https://github.com/AnesioSousa)
-
