@@ -1,21 +1,11 @@
 # Contributors
 
-- [jasurgraduate] (https://github.com/jasurgraduate)
-- [shubham goyal] (https://github.com/shubgoyal23)
+- [jasurgraduate](https://github.com/jasurgraduate)
+- [shubham goyal](https://github.com/shubgoyal23)
 - [gaikwadyash905](https://github.com/gaikwadyash905) : My First Contribution, looking forward for more..
 - [uzuraDev](https://github.com/uzuraDev)
-- [Eugene Chia] (https://github.com/eugenechia)
-- <<<<<<< first-new
--[Nikhil] (My first contributions: https://github.com/Nikhil-NP)
--[vishalchauhan] (My first contribution: https://github.com/V1sh4lC)
--[Deekshitha] (My first contribution: https://github.com/NDeekshithaReddy)
--[meenakshiruia] (https://github.com/meenakshiruia)
--[RomaniukNatalia] (https://github.com/RomaniukNatalia)
--[stevee14]
-- [zinx](hello)
--[Dyno-man] (https://github.com/Dyno-man)
--[Sonum Jaggi] (http://github.com/sonum02)
-- =======
+- [Eugene Chia](https://github.com/eugenechia)
+- [oogway-x3t](https://github.com/oogway-x3t)
 - [Nikhil] (My first contributions: https://github.com/Nikhil-NP)
 - [vishalchauhan] (My first contribution: https://github.com/V1sh4lC)
 - [Deekshitha] (My first contribution: https://github.com/NDeekshithaReddy)
@@ -24,7 +14,6 @@
 - [stevee14]
 - [Dyno-man] (https://github.com/Dyno-man)
 - [Sonum Jaggi] (http://github.com/sonum02)
-- >>>>>>> main
 - [addpd](https://github.com/addpd)
 - [Fabrice Pecot] (https://github.com/FabriceAB1)
 - [vishalchauhan] (My first contribution: https://github.com/V1sh4lC)
@@ -208,6 +197,7 @@
 - shyGuy
 - Utkarsh Kumar
 - hi, iam anoof
+- [Juan Saavedra](https://github.com/JuanSaavedraB/)
 - add-lansar
 - [Felipe Chicaiza](https://github.com/FelipeChicaiza)
 - [Twinkle](https://github.com/Twinkle748)
@@ -1778,5 +1768,5 @@
 - [KriawqZero] (https://github.com/KriawqZero)
 - Phillip-James(https://github.com/Phillip-James)
 - [NitroXen](https://github.com/NitroXen)
-
+- [AnesioSousa](https://github.com/AnesioSousa)
 
