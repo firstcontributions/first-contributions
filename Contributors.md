@@ -1768,5 +1768,5 @@
 - [KriawqZero] (https://github.com/KriawqZero)
 - Phillip-James(https://github.com/Phillip-James)
 - [NitroXen](https://github.com/NitroXen)
-
+- [AnesioSousa](https://github.com/AnesioSousa)
 
