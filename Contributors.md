@@ -1680,6 +1680,7 @@
 - [Roberta Aguilar] (https://github.com/robertarfa)
 - [Saumya Thakkar] (https://github.com/Deathstar1999)
 - [woopy] (https://github.com/woopy098)
+- [PrakruthiPrasad] (https://github.com/prakruthiprasad20)
 - [Sujan Gowda M](https://github.com/Sujan33632)
 - [WeiZh](https://github.com/shizaoa-x)
 - [Poorvika](https://github.com/poorvikaa08)
