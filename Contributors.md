@@ -23,6 +23,7 @@
 - [hectoru10](https://github.com/Hectoru10)
 - [Ahorts](https://github.com/Ahorts)
 - [lennyhurni](https://github.com/lennyhurni)
+- [Gad](https://github.com/Gad)
 - [Jeremiah](https://github.com/jrmhx)
 - [Akshey](https://github.com/aksheyd)
 - [Vaibhav Rawat](https://github.com/VaibhavRawat27)
