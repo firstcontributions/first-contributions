@@ -24,6 +24,7 @@
 - [lennyhurni](https://github.com/lennyhurni)
 - [Jeremiah](https://github.com/jrmhx)
 - [Akshey](https://github.com/aksheyd)
+- [Vaibhav Rawat](https://github.com/VaibhavRawat27)
 - [Shubhranka Varma](https://github.com/shubhranka)
 - [benoitmonchaninsupinfo](https://github.com/benoitmonchaninsupinfo)
 - [NandamRishith](https://github.com/nandam2003)
