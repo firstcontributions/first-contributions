@@ -960,6 +960,7 @@
 - [chief-fei](https://github.com/chief-fei)
 - [Sushant](https://github.com/sushxnt)
 - [Edward Bordenave](https://github.com/ebordenave)
+- [NicoTerabyte](https://github.com/NicoTerabyte)
 - [Ojo Tolulope](https://github.com/tolu1123)
 - [Mohamed Amine Basdouri](https://github.com/MohamedAmin324)
 - [JamZ](https://github.com/JamZYM)
@@ -1622,7 +1623,6 @@
 - [jackituning] (https://github.com/jackituning)
 - LeonJWD
 - Polino
-- NicoTerabyte (https://github.com/NicoTerabyte)
 - [LidaMudota] (https://github.com/LidaMudota)
 - [Mihir Tandon] (https://github.com/Mihirt2)
 - [Ay0ko] (https://github.com/Ay0ko)
