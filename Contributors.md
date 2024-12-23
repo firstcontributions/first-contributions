@@ -1755,6 +1755,7 @@
 - [jackituning] (https://github.com/jackituning)
 - LeonJWD
 - Polino
+- olajideolamide
 - [LidaMudota] (https://github.com/LidaMudota)
 - [Vikkram] (https://github.com/vikkramstark)
 - [Mihir Tandon] (https://github.com/Mihirt2)
