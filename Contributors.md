@@ -14,6 +14,7 @@
 - [stevee14]
 - [Dyno-man] (https://github.com/Dyno-man)
 - [Sonum Jaggi] (http://github.com/sonum02)
+- [Inifome Eleluwor] (https://github.com/Inifomeeo)
 - [addpd](https://github.com/addpd)
 - [Fabrice Pecot] (https://github.com/FabriceAB1)
 - [vishalchauhan] (My first contribution: https://github.com/V1sh4lC)
