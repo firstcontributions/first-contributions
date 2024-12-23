@@ -42,6 +42,7 @@
 - [Loubna Lekouaghet](https://github.com/loubna213)
 - [Roshawn Brooks](https://github.com/rbrooks95)
 - [Tarun Jakkula](https://github.com/TarunJakkula)
+- [Jeston Lewis](https://github.com/jestoncolelewis)
 - [Omer Cohen](https://github.com/OmerCohen7530)
 - [Ravi singh](https://github.com/ravir0ushan)
 - [Laurian Iacob](https://github.com/iLaurian)
