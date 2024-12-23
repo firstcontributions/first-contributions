@@ -1242,6 +1242,7 @@
 - [Sravan K Suresh](https://github.com/SRAVAN-IITB)
 - [Zelimir Stojcevic](https://github.com/ZelimirS)
 - [Victor Maia](https://github.com/victooooor)
+- [Ibrahim Khan](https://github.com/IbrahimKhanGH)
 - [Haneen](https://github.com/han1py)
 - [nick-nugat](https://github.com/nick-nugat)
 - [Naveen Kurella](https://github.com/KURELLANAVEEN)
