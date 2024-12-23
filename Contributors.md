@@ -1,6 +1,6 @@
 # Contributors
 
-- [dylan-sacco](https://github.com/dylan-sacco)
+ - [dylan-sacco](https://github.com/dylan-sacco)
 - [jasurgraduate](https://github.com/jasurgraduate)
 - [shubham goyal](https://github.com/shubgoyal23)
 - [gaikwadyash905](https://github.com/gaikwadyash905) : My First Contribution, looking forward for more..
@@ -55,6 +55,7 @@
 - [Jeston Lewis](https://github.com/jestoncolelewis)
 - [Omer Cohen](https://github.com/OmerCohen7530)
 - [Ravi singh](https://github.com/ravir0ushan)
+- [Dhruv Pandey](https://github.com/Dhrupandey)
 - [Laurian Iacob](https://github.com/iLaurian)
 - [Fikre Tesfay](https://github.com/fikre4444)
 - [EstherCamela](https://github.com/Esther-Assena-pro)
