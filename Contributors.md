@@ -28,6 +28,7 @@
 - [Ahorts](https://github.com/Ahorts)
 - [widespectrum](https://github.com/widespctr)
 - [lennyhurni](https://github.com/lennyhurni)
+- [Dario Moreno] (https://github.com/3dmoreno)
 - [Gad](https://github.com/Gad)
 - [Jeremiah](https://github.com/jrmhx)
 - [Akshey](https://github.com/aksheyd)
