@@ -1779,3 +1779,4 @@
 - [AnesioSousa](https://github.com/AnesioSousa)
 - [Mohit Srivastava](https://github.com/Mohit-Srivastava-Official)
 - [Aswin-04] (https://github.com/Aswin-04/)
+- [Ganixx] (https://github.com/Ganixx)
