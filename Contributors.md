@@ -234,6 +234,7 @@
 - [TsvetislavRangelov](https://github.com/TsvetislavRangelov)
 - [Tim Petri](https://github.com/timmytabasco)
 - [@thenocturnaldevgypsy-io | TheNocturnalDevGypsy (Abegail Torrendon)](https://github.com/thenocturnaldevgypsy-io)
+- Gail Lobo
 - [Tsafac Nkombong Regine Cyrille](https://github.com/Regine12)
 - [Mohamed Alam](https://github.com/the-ALAM)
 - [Hongbi Ko](https://github.com/HongbiKo)
