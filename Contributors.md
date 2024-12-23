@@ -51,6 +51,7 @@
 - [EstherCamela](https://github.com/Esther-Assena-pro)
 - [mushrifshahreyar](My first contribution: https://github.com/mushrifshahreyar)
 - [HarnoorK-06](https://github.com/HarnoorK-06)
+- [Lawrence Garcia](https://github.com/lawrenceee04)
 - [AmnaShouqi](https://github.com/amnashouqi)
 - [Aicirou](https://github.com/Aicirou)
 - [Thisaga Jayaratna](https://github.com/thisagaa)
