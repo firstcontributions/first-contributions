@@ -13,6 +13,7 @@
 - [RomaniukNatalia](https://github.com/RomaniukNatalia)
 - [stevee14]
 - [Dyno-man] (https://github.com/Dyno-man)
+- [Ch-Umar-Aslam] (https://github.com/CH-Umar-Aslam/)
 - [Sonum Jaggi] (http://github.com/sonum02)
 - [Inifome Eleluwor] (https://github.com/Inifomeeo)
 - [addpd](https://github.com/addpd)
