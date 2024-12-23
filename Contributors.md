@@ -15,6 +15,7 @@
 - [meenakshiruia] (https://github.com/meenakshiruia)
 - [RomaniukNatalia](https://github.com/RomaniukNatalia)
 - [Shankar-Balajee](https://github.com/Shankar-Balajee)
+- [amir asghar akbar mahaleh ghazian tapeh]
 - [stevee14]
 - [Dyno-man] (https://github.com/Dyno-man)
 - # [Sardorbek](https://github.com/Sardorbek-Kuvondikov)
@@ -1243,6 +1244,7 @@
 - [Sravan K Suresh](https://github.com/SRAVAN-IITB)
 - [Zelimir Stojcevic](https://github.com/ZelimirS)
 - [Victor Maia](https://github.com/victooooor)
+- [Ibrahim Khan](https://github.com/IbrahimKhanGH)
 - [Haneen](https://github.com/han1py)
 - [nick-nugat](https://github.com/nick-nugat)
 - [Naveen Kurella](https://github.com/KURELLANAVEEN)
