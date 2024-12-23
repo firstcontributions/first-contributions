@@ -6,6 +6,7 @@
 - [uzuraDev](https://github.com/uzuraDev)
 - [Eugene Chia](https://github.com/eugenechia)
 - [oogway-x3t](https://github.com/oogway-x3t)
+- [Preethi Manoharan](https://github.com/preethimanoharan18)
 - [Nikhil] (My first contributions: https://github.com/Nikhil-NP)
 - [vishalchauhan] (My first contribution: https://github.com/V1sh4lC)
 - [Deekshitha] (My first contribution: https://github.com/NDeekshithaReddy)
