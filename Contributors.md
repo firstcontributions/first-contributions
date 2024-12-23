@@ -15,6 +15,7 @@
 - [Shankar-Balajee](https://github.com/Shankar-Balajee)
 - [stevee14]
 - [Dyno-man] (https://github.com/Dyno-man)
+- # [Sardorbek](https://github.com/Sardorbek-Kuvondikov)
 - [Anuradha-Hariharan] (https://github.com/AnuradhaHariharan)
 - [Ch-Umar-Aslam] (https://github.com/CH-Umar-Aslam/)
 - [Sonum Jaggi] (http://github.com/sonum02)
