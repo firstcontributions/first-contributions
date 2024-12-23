@@ -1725,6 +1725,7 @@
 - [mor3dr3ad](https://github.com/mor3dr3ad)
 - [Nicojsuarez2](https://github.com/NicoJSuarez2)
 - [yama821](https://github.com/yama821)
+- [solizma](https://github.com/solizma) nuthin
 - [shreyasTechie](https://github.com/shreyasvg)
 - [Abdelrahman Emara](https://github.com/AAEmara)
 - [Chandan Ravi](https://github.com/chandanravic)
