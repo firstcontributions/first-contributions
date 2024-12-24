@@ -1665,6 +1665,7 @@
 - [Hadi Purnomo](https://github.com/cephadi)
 - [tester-327](https://github.com/tester327)
 - [Mk9917](https://github.com/mk9917)
+- [Joshua D] (https://github.com/JCD2k4)
 - [HannanToprakPia](https://github.com/HannanToprakPia)
 - [Rene Kathofer](https://github.com/rkatex)
 - [Asfandiyark007](https://github.com/Asfandiyark007)
