@@ -16,7 +16,11 @@
 - [vishalchauhan] (My first contribution: https://github.com/V1sh4lC)
 - [Nakshatra] (My first contribution: https://github.com/Zburgers)
 - [Deekshitha] (My first contribution: https://github.com/NDeekshithaReddy)
+
+- [Vanshika Sirohi] (https://github.com/sirohi-vanshika)
+
 - [aayamrajshakya] (https://github.com/aayamrajshakya)
+
 - [meenakshiruia] (https://github.com/meenakshiruia)
 - [RomaniukNatalia](https://github.com/RomaniukNatalia)
 - [Shankar-Balajee](https://github.com/Shankar-Balajee)
