@@ -1,4 +1,4 @@
-# Contributors
+# Contributors o
 
  - [dylan-sacco](https://github.com/dylan-sacco)
 - [Aarush-Parashar](https://github.com/Aarush-Parashar) 
@@ -54,6 +54,7 @@
 - [Seif Eddine Gadi](https://github.com/Seif-Eddine-Gadi)
 - [Harsh Gharsandiya](https://github.com/harshgharsandiya)
 - [Ayananth](https://github.com/Ayananth)
+- [jorsyk](https://github.com/jorsyk)
 - [Loubna Lekouaghet](https://github.com/loubna213)
 - [Roshawn Brooks](https://github.com/rbrooks95)
 - [Tarun Jakkula](https://github.com/TarunJakkula)
@@ -214,6 +215,7 @@
 - [gooseneedsbread](https://github.com/gooseneedsbread)
 - [Rhea](https://github.com/RheaAtre)
 - shyGuy
+- jorsyk
 - Utkarsh Kumar
 - hi, iam anoof
 - [Juan Saavedra](https://github.com/JuanSaavedraB/)
