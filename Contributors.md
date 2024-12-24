@@ -10,6 +10,7 @@
 - [Nikhil] (My first contributions: https://github.com/Nikhil-NP)
 - [vishalchauhan] (My first contribution: https://github.com/V1sh4lC)
 - [Deekshitha] (My first contribution: https://github.com/NDeekshithaReddy)
+- [Vanshika Sirohi] (https://github.com/sirohi-vanshika)
 - [meenakshiruia] (https://github.com/meenakshiruia)
 - [RomaniukNatalia](https://github.com/RomaniukNatalia)
 - [Shankar-Balajee](https://github.com/Shankar-Balajee)
