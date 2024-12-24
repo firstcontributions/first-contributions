@@ -12,6 +12,7 @@
 - [Preethi Manoharan](https://github.com/preethimanoharan18)
 - [Nikhil] (My first contributions: https://github.com/Nikhil-NP)
 - [vishalchauhan] (My first contribution: https://github.com/V1sh4lC)
+- [Nakshatra] (My first contribution: https://github.com/Zburgers)
 - [Deekshitha] (My first contribution: https://github.com/NDeekshithaReddy)
 - [aayamrajshakya] (https://github.com/aayamrajshakya)
 - [meenakshiruia] (https://github.com/meenakshiruia)
