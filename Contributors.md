@@ -1802,3 +1802,4 @@
 - [Ganixx] (https://github.com/Ganixx)
 - [nebulyu] (https://github.com/nebulyu)
 - [vivekpm614] (https://github.com/vivekpm614)
+- [syahmad] (https://github.com/syahmad-equinix)
