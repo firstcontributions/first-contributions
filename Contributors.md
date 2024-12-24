@@ -1619,7 +1619,7 @@
 - [Tristan Hyams](https://github.com/tristanhyams)
 - [uXTrebla](https://github.com/uxtrebla)
 - [Buse Dağıdır](https://github.com/busedagidi)
-
+- [Abhishek Singh](https://github.com/asabhi6776)
 - [poojashreeks](https://github.com/poojashreeks)
 - [Agunbiade Aishat](https://github.com/yeeshadev)
 - [Anonym2137](https://github.com/Anonym2137)
