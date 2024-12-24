@@ -27,8 +27,7 @@
 - [amir asghar akbar mahaleh ghazian tapeh]
 - [stevee14]
 - [Dyno-man] (https://github.com/Dyno-man)
-- # [Sardorbek](https://github.com/Sardorbek-Kuvondikov)
-- [Anuradha-Hariharan] (https://github.com/AnuradhaHariharan)
+- [Sardorbek](https://github.com/Sardorbek-Kuvondikov)
 - [Ch-Umar-Aslam] (https://github.com/CH-Umar-Aslam/)
 - [Sonum Jaggi] (http://github.com/sonum02)
 - [Inifome Eleluwor] (https://github.com/Inifomeeo)
