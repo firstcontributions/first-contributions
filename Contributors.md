@@ -33,6 +33,7 @@
 - [antoineDELEBECQUE](https://github.com/AntoineDlb)
 - [Josh Gregory](https://github.com/joshtype)
 - [lepickel](https://github.com/lepickel)
+- [Furanimus](https://github.com/Furanimus)
 - [Adarsh84](https://github.com/adarshM84)
 - [hectoru10](https://github.com/Hectoru10)
 - [Ahorts](https://github.com/Ahorts)
