@@ -1,4 +1,4 @@
-# Contributors o
+# Contributors
 
  - [dylan-sacco](https://github.com/dylan-sacco)
 - [Aarush-Parashar](https://github.com/Aarush-Parashar) 
