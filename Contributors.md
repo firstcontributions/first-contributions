@@ -62,6 +62,7 @@
 - [Laurian Iacob](https://github.com/iLaurian)
 - [Fikre Tesfay](https://github.com/fikre4444)
 - [EstherCamela](https://github.com/Esther-Assena-pro)
+- [ikimathi] (https://github.com/ikimathi)
 - [mushrifshahreyar](My first contribution: https://github.com/mushrifshahreyar)
 - [HarnoorK-06](https://github.com/HarnoorK-06)
 - [Lawrence Garcia](https://github.com/lawrenceee04)
@@ -1803,3 +1804,4 @@
 - [Ganixx] (https://github.com/Ganixx)
 - [nebulyu] (https://github.com/nebulyu)
 - [vivekpm614] (https://github.com/vivekpm614)
+- [syahmad] (https://github.com/syahmad-equinix)
