@@ -1435,6 +1435,7 @@
 - [Salmah Lasisi](https://github.com/salmah52)
 - [Pulkit Pathak](https://gothub.com/satyyam11)
 - [Vince](https://github.com/Perunu)
+- [John Octavio](https://github.com/ChocoCodes)
 - [Pocolee](https://github.com/pocolee)
 - [Ravi Gupta] (https://github.com/ravi7228-gh)
 - [gunay-h](https://github.com/gunay-h)
