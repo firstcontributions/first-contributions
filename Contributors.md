@@ -290,6 +290,7 @@
 - [YudisSutisna](https://github.com/Hanep77)
 - [STA](https://github.com/sithuaung246810)
 - [Ernest Muli](https://github.com/kunmuli)
+- [Cole Oliva](https://github.com/ColeOliva)
 - [m4tej](https://github.com/m4tej241)
 - [Auwalu Hamza](https://github.com/afhamu)
 - [Guilherme Andrade](https://github.com/ZeroRBK)
