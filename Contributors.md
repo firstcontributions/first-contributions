@@ -1379,6 +1379,7 @@
 - [Kundan Kumar](https://github.com/kundank02)
 - [Ishraq Ahmad](https://github.com/KarlMagus)
 - [SilencioPz](https://github.com/SilencioPz)
+- Praveen Neel
 - [Samuel Church](https://github.com/samdcchurch)
 - [mkeithx](https://github.com/mkeithX)
 - [MertKy](https://github.com/MertKy/)
