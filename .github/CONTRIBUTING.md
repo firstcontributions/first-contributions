@@ -8,7 +8,7 @@ If you're making changes to a translation, please request a review from our prev
 
 ### Our reviewers :sparkles:
 
-| Language Name | Add ALEX                                                 | Reviewers|
+| Language Name | Add ALEX  222222222222222222222                          | Reviewers|
 |---|----------------------------------------------------------|---|
 | Afrikaans | [Afrikaans](../translations/README.afk.md)               | [<img width="100" src="https://avatars.githubusercontent.com/u/36197725?v=4" alt="@zecollokaris" />](https://github.com/zecollokaris) |
 | Albanian | [Albanian](../translations/README.al.md)                 | [<img width="100" src="https://avatars.githubusercontent.com/u/40631828?v=4" alt="RronKurtishi" />](https://github.com/RronKurtishi) [<img width="100" src="https://avatars.githubusercontent.com/u/98396887?s=400&v=4" alt="RronKurtishi" />](https://github.com/auronvila) |
