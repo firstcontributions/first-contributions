@@ -4,6 +4,7 @@
  - [dylan-sacco](https://github.com/dylan-sacco)
 - [Aarush-Parashar](https://github.com/Aarush-Parashar)
 - [Ronahi Bağcı](https://github.com/RonayBagci) 
+- [Fabrice Pecot](https://github.com/FabriceAB1)
 - [jasurgraduate](https://github.com/jasurgraduate)
   [Dipankaj](https://github.com/DipankajSingh/)
 - [shubham goyal](https://github.com/shubgoyal23)
