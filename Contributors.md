@@ -18,7 +18,7 @@
 - [vishalchauhan] (My first contribution: https://github.com/V1sh4lC)
 - [Nakshatra] (My first contribution: https://github.com/Zburgers)
 - [Deekshitha] (My first contribution: https://github.com/NDeekshithaReddy)
-
+- [Johnathan] (https://github.com/Johnathanyes)
 - [Vanshika Sirohi] (https://github.com/sirohi-vanshika)
 - [Greem Fox] (https://github.com/vulpes-viridis)
 - [aayamrajshakya] (https://github.com/aayamrajshakya)
