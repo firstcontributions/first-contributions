@@ -8,6 +8,7 @@
 - [shubham goyal](https://github.com/shubgoyal23)
 - [gaikwadyash905](https://github.com/gaikwadyash905) : My First Contribution, looking forward for more..
 - [isaacrea](https://github.com/isaacrea)
+- [aqeelabpro](https://github.com/aqeelabpro)
 - [uzuraDev](https://github.com/uzuraDev)
 - [Eugene Chia](https://github.com/eugenechia)
 - [oogway-x3t](https://github.com/oogway-x3t)
