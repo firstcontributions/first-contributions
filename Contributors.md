@@ -1826,4 +1826,5 @@
 - [abdo00xdd] (https://github.com/abdo00xdd)
 - [Husam_Al-nabeai] (https://github.com/HusamAlnabeai)
 - [madhavramini] (https://github.com/madhavramini)
+- [Huisien] (https://github.com/kuhuisien)
 - [Siddhaswar] (https://github.com/siddhaswar-mohanty)
