@@ -1823,6 +1823,7 @@
 - [AnesioSousa](https://github.com/AnesioSousa)
 - [Mohit Srivastava](https://github.com/Mohit-Srivastava-Official)
 - [Aswin-04] (https://github.com/Aswin-04/)
+- [albertolr98](https://github.com/albertolr98/)
 - [Ganixx] (https://github.com/Ganixx)
 - [nebulyu] (https://github.com/nebulyu)
 - [vivekpm614] (https://github.com/vivekpm614)
