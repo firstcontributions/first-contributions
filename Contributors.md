@@ -1306,6 +1306,7 @@
 - [Tim Maingi](https://github.com/Merch7x)
 - [Hruthik Anugula](https://github.com/hruthikgithubrit)
 - [Taiwo Akerele](https://github.com/TaiwoSoftware)
+- [Ravnit Lotay](https://github.com/Ravnit202)
 - [MK Saba](https://github.com/mksaba)
 - [Garfield](https://github.com/jiafie7)
 - [S Yougesh Kumar](https://github.com/Yougesh978)
