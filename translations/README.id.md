@@ -5,13 +5,13 @@
 
 # Kontribusi Pertama
 
-Proyek ini bertujuan untuk menyederhanakan dan membimbing perjalanan seorang pemula berkontribusi di Github untuk pertama kali. Pertahatikan langkah - langkah berikut untuk memulai:
+Proyek ini bertujuan untuk menyederhanakan dan membimbing perjalanan seorang pemula berkontribusi di Github untuk pertama kali. Perhatikan langkah-langkah berikut untuk memulai:
 
 #### _Jika Anda tidak terbiasa dengan baris perintah(command line), [di sini ada tutorial untuk menggunakan GUI(antarmuka bergrafis).](#Tutorial-Menggunakan-Alat-Lain)_
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-Apabila Anda belum menginstall git di komputer Anda, [install segera](https://help.github.com/articles/set-up-git/).
+Apabila Anda belum menginstal git di komputer Anda, [install segera](https://help.github.com/articles/set-up-git/).
 
 ## _Fork_ Repositori Ini
 
@@ -26,10 +26,10 @@ Sekarang kloning repositori yang sudah Anda _fork_ ke komputer Anda. Pergi ke ak
 Buka sebuah terminal dan jalankan perintah git berikut:
 
 ```
-git clone "url yang telah disalin"
+git clone "URL yang telah disalin"
 ```
 
-bagian "url yang telah disalin" (tanpa tanda petik) adalah url ke repositori ini (proyek yang telah Anda _fork_ ini). Lihat langkah sebelumnya untuk mendapatkan url.
+bagian "URL yang telah disalin" (tanpa tanda petik) adalah URL ke repositori ini (proyek yang telah Anda _fork_ ini). Lihat langkah sebelumnya untuk mendapatkan URL.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
@@ -100,7 +100,7 @@ ganti bagian `<tambahkan-nama-cabang-baru>` dengan nama cabang yang sebelumnya A
      <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
   remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
   fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
-  Buka [tutorial GitHub](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) untuk menghasilkan dan mengkonfigurasi sebuah kunci SSH ke akun Anda.
+  Buka [tutorial GitHub](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) untuk menghasilkan dan mengonfigurasi sebuah kunci SSH ke akun Anda.
 
 </details>
 
@@ -128,7 +128,7 @@ Sekarang mari kita mulai dengan berkontribusi di proyek lain. Kami sudah menyusu
 
 ## [Materi tambahan](../additional-material/translations/additional-material.id.md)
 
-## Tutorial Menggunakan Alat (tools) Lain
+## Tutorial Menggunakan Alat (Tools) Lain
 
 | <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
