@@ -547,6 +547,7 @@
 - [Fay](https://github.com/notfay)
 - [Vinuthna](https://github.com/vinuthna29)
 - [Hamza Haider](https://github.com/Hamza-H10)
+- [jumari0](https://github.com/jumari0)
 - [Atif Abedeen](https://github.com/atifabedeen)
 - [Muqeet Mughal](https://github.com/muqeetmughal)
 - [Donovan Guard](https://github.com/dlguard)
