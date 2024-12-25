@@ -218,6 +218,7 @@
 - Ketan Yadav
 - johnie
 - [samuel-b](https://github.com/samuel-b)
+- [gavi021](https://github.com/gavi021)
 - [gooseneedsbread](https://github.com/gooseneedsbread)
 - [Rhea](https://github.com/RheaAtre)
 - shyGuy
