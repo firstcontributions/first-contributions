@@ -2,7 +2,8 @@
 
  -[Rajkumar](https://github.com/Rajkumar-Adepu)
  - [dylan-sacco](https://github.com/dylan-sacco)
-- [Aarush-Parashar](https://github.com/Aarush-Parashar) 
+- [Aarush-Parashar](https://github.com/Aarush-Parashar)
+- [Ronahi Bağcı](https://github.com/RonayBagci) 
 - [jasurgraduate](https://github.com/jasurgraduate)
   [Dipankaj](https://github.com/DipankajSingh/)
 - [shubham goyal](https://github.com/shubgoyal23)
