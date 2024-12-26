@@ -1,4 +1,5 @@
 # Contributors
+- [lomus-hona] (https://github.com/lhona01)
 - [Alexskald](https://github.com/jxuho)
  -[Rajkumar](https://github.com/Rajkumar-Adepu)
  - [dylan-sacco](https://github.com/dylan-sacco)
