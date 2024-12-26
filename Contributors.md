@@ -1581,6 +1581,7 @@ michal
 - [Temitope Bankole](https://github.com/rareprince/)
 - [Dhruvi Patel](https://github.com/dhruvipatel14)
 - [Kevin Grammer](https://github.com/kevingrammer)
+- DankDuck
 - [Emma Barnett](https:/gitHub.com/ka-hels/)
 - [batuhankzn](https://github.com/batuhankzn)
 - [Sean Cho](https://github.com/seanhoonc)
