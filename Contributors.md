@@ -95,6 +95,7 @@
 - [krshearman](https://github.com/krshearman)
 - [KevinThomas](https://github.com/HELL-KERBECS)
 - [LukaGakhokidze](https://github.com/Luka288)
+- [Lucas Emanuel](https://github.com/lucasdev-err)
 - [lukgav](https://github.com/lukgav)
 - [HiroseTakuya](https://github.com/hiro-tech-taku/)
 - [Joncineus](https://github.com/joncineus)
