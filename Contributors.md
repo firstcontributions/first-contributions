@@ -1828,6 +1828,7 @@ michal
 - [Jatin Parmar](https://github.com/JatinParmar1011)
 - SlientHippo
 - Aravind-Pramod
+- [Vineel Palla](https://github.com/VineelReddy14)
 - [staehli97](https://github.com/staehli97)
 - [kane17](https://github.com/kane17)
 - [amazingfarooqq](https://github.com/amazingfarooqq)
@@ -1863,3 +1864,4 @@ michal
 - [Kevin](https://github.com/KevinGuo07)
 - [Anirban Sen](https://github.com/anirbansen17)
 - [Eniafou](https://github.com/eniafou)
+
