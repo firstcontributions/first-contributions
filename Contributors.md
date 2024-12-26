@@ -192,6 +192,7 @@
 - [vedivero](https://github.com/vedivero)
 - [Jasleen](https://github.com/JasleenSidhu20)
 - [Pasindu Kavinda](https://github.com/pasindu-kavinda)
+- [Rushang-github](https://github.com/Rushang-github))
 - [DhritiTS](https://github.com/DhritiTS)
 - [AutumnFrost](https://github.com/AutumnFrost)
 - [Abhinav](https://github.com/saiabhinav75)
