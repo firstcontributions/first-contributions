@@ -1826,6 +1826,7 @@ michal
 - [bypythom] (https://github.com/Bypythom)
 - [KriawqZero] (https://github.com/KriawqZero)
 - Phillip-James(https://github.com/Phillip-James)
+- [aaronrosema](https://github.com/aaronrosema)
 - [NitroXen](https://github.com/NitroXen)
 - [arunachalam](https://github.com/arunachalam077/)
 - [Fellow-Banana](https://github.com/Fellow-Banana)
