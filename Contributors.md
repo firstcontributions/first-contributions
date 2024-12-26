@@ -1695,6 +1695,7 @@ michal
 - [Ellis Franklin](https://github.com/ellfran-7)
 - [alekhine](https://github.com/Src0p)
 - [Mtendekuyokwa19](https://github.com/Mtendekuyokwa19)
+- [Oladapo](https://github.com/Dapo-dan)
 - [Watpo54](https://github.com/Watpo54)
 - [PyaeSone](https://github.com/pyae198022)
 - [Atsushi Koyake](https://github.com/devAtsushiKoyake)
