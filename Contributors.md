@@ -235,6 +235,7 @@
 - jorsyk
 - Utkarsh Kumar
 - hi, iam anoof
+michal
 - [Juan Saavedra](https://github.com/JuanSaavedraB/)
 - add-lansar
 - [Felipe Chicaiza](https://github.com/FelipeChicaiza)
