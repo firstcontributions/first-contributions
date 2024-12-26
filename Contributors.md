@@ -39,6 +39,7 @@
 - [addpd](https://github.com/addpd)
 - [Fabrice Pecot](https://github.com/FabriceAB1)
 - [vishalchauhan](https://github.com/V1sh4lC)
+- [adwaitp](https://github.com/adwaitdagitguy)
 - [stevee14]
 - [davidw1281](https://github.com/davidw1281)
 - [antoineDELEBECQUE](https://github.com/AntoineDlb)
