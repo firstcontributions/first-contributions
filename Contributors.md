@@ -4525,6 +4525,7 @@ Franco Lai
 - [Matteo Salvestrini](https://github.com/hpfs74)
 - [OG_Matcha](https://github.com/OG-Matcha)
 - [Archer](https://github.com/c121914yu)
+- [Samiran Samanta](https://github.com/Samiran2004)
 - [Equan](https://github.com/equan4647)
 - [Mikhail Filin](https://github.com/Gortyser)
 - [Nataliya Kondranina](https://github.com/kondranina)
