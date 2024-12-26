@@ -747,6 +747,7 @@ michal
 - [Bhoomika kaushik](https://github.com/Bhoomikakaushik)
 - [Aksh Walia](https://github.com/akshwalia)
 - [Akshai Srinivasan](https://github.com/aksrin)
+
 - [Srishti Agarwal](https://github.com/srishtiagarwall)
 - [Rahul Rajput](https://github.com/r2hu1)
 - [Rajan Sharma](https://github.com/Immortal-codes)
@@ -1091,6 +1092,7 @@ michal
 - [Liya K](https://github.com/liyamk)
 - [DracoRX16](https://github.com/DracoRX16)
 - [Alexander Todorovic](https://github.com/alexandertodorovic)
+- Papavero
 - [Ergys Hila](https://github.com/ergys25)
 - [Sasmit](https://github.com/mosaicsoft)
 - [Caleb Hill](https://github.com/calebhill98)
