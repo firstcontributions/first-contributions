@@ -1,4 +1,5 @@
 # Contributors
+- [Weirdo-147](https://github.com/Weirdo-147)
 - [pratheek2474](https://github.com/Pratheek2474) : Learning
 - [lomus-hona] (https://github.com/lhona01)
 - [Alexskald](https://github.com/jxuho)
