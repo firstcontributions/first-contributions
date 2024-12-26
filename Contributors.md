@@ -4,6 +4,7 @@
 - [lomus-hona] (https://github.com/lhona01)
 - [Alexskald](https://github.com/jxuho)
  -[Rajkumar](https://github.com/Rajkumar-Adepu)
+ -[Disha520](https://github.com/Disha520)
  - [dylan-sacco](https://github.com/dylan-sacco)
 - [Aarush-Parashar](https://github.com/Aarush-Parashar)
 - [Ronahi Bağcı](https://github.com/RonayBagci) 
