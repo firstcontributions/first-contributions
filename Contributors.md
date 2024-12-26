@@ -1834,6 +1834,7 @@ michal
 - [arunachalam](https://github.com/arunachalam077/)
 - [Fellow-Banana](https://github.com/Fellow-Banana)
 - [AnesioSousa](https://github.com/AnesioSousa)
+- [Fábio Alves Gomes](https://github.com/FabioDevGomes)
 - [Mohit Srivastava](https://github.com/Mohit-Srivastava-Official)
 - [Aswin-04] (https://github.com/Aswin-04/)
 - [albertolr98](https://github.com/albertolr98/)
