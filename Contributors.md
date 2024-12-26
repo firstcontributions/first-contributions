@@ -87,6 +87,7 @@
 - [Lawrence Garcia](https://github.com/lawrenceee04)
 - [AmnaShouqi](https://github.com/amnashouqi)
 - [Aicirou](https://github.com/Aicirou)
+- [Gargi](https://github.com/gargig02)
 - [Thisaga Jayaratna](https://github.com/thisagaa)
 - [krshearman](https://github.com/krshearman)
 - [KevinThomas](https://github.com/HELL-KERBECS)
