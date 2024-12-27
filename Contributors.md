@@ -1,4 +1,5 @@
 # Contributors
+- [EricccTaiwan](https://github.com/EricccTaiwan)
 - [yusraMasood](https://github.com/yusraMasood)
 - [hmdaslam97](https://github.com/hmdaslam97)
 - [Weirdo-147](https://github.com/Weirdo-147)
