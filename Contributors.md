@@ -52,6 +52,7 @@
 - [Sardorbek](https://github.com/Sardorbek-Kuvondikov)
 - [Ch-Umar-Aslam](https://github.com/CH-Umar-Aslam/)
 - [Sonum Jaggi](http://github.com/sonum02)
+- [Thomas Sales](https://github.com/ThomasGSales)
 - [Inifome Eleluwor](https://github.com/Inifomeeo)
 - [addpd](https://github.com/addpd)
 - [Fabrice Pecot](https://github.com/FabriceAB1)
