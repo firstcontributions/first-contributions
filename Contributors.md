@@ -1879,3 +1879,4 @@ michal
 - [Eniafou](https://github.com/eniafou)
 - [Indu Anuga](https://github.com/Induanuga)
 - [Bhawish Kumar](https://github.com/BhawishKumarLohana)
+- [Hogan Lin](https://github.com/hogan-tech)
