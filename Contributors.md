@@ -47,6 +47,7 @@
 - [Shankar-Balajee](https://github.com/Shankar-Balajee)
 - [amir asghar akbar mahaleh ghazian tapeh]
 - [stevee14]
+- [misfit](https://github.com/slMiSFiT)
 - [Dyno-man](https://github.com/Dyno-man)
 - [Sardorbek](https://github.com/Sardorbek-Kuvondikov)
 - [Ch-Umar-Aslam](https://github.com/CH-Umar-Aslam/)
