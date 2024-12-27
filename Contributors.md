@@ -1009,6 +1009,7 @@ michal
 - [el amine 404](https://github.com/el-amine-404)
 - [Apoorv Saini](https://github.com/Apsain1)
 - [Arty S](https://github.com/artimys)
+- [Luciano Barros] (https://github.com/iBerserker89)
 - [Farrukh Ahmed](https://github.com/farrukh-ahmed/)
 - [Ankush Tiwari](https://github.com/tiwaribro/)
 - [Dibyajyoti Mandal](https://github.com/cookiejar2104)
