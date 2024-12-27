@@ -378,6 +378,7 @@ michal
 - [Neethu Hari](https://github.com/Neethuharii)
 - your username
 - [Matheus Ranzani](https://github.com/matheusranzani)
+- [Aakash Pandey](https://github.com/gitaakashstack)
 - [Matthieu Bonnot](https://github.com/MrMattam)
 - [KWYK](https://github.com/stevenchen99)
 - [Piero Santisteban](https://github.com/JPSantistebanQ)
