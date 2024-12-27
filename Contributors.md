@@ -1874,3 +1874,4 @@ michal
 - [Anirban Sen](https://github.com/anirbansen17)
 - [Eniafou](https://github.com/eniafou)
 - [Indu Anuga](https://github.com/Induanuga)
+- [Rishika Shrinivas Billa](https://github.com/rishikabilla)
