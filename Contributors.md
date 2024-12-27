@@ -1,4 +1,5 @@
 # Contributors
+- [yusraMasood](https://github.com/yusraMasood)
 - [hmdaslam97](https://github.com/hmdaslam97)
 - [Weirdo-147](https://github.com/Weirdo-147)
 - [pratheek2474](https://github.com/Pratheek2474) : Learning
@@ -94,6 +95,7 @@
 - [krshearman](https://github.com/krshearman)
 - [KevinThomas](https://github.com/HELL-KERBECS)
 - [LukaGakhokidze](https://github.com/Luka288)
+- [Lucas Emanuel](https://github.com/lucasdev-err)
 - [lukgav](https://github.com/lukgav)
 - [HiroseTakuya](https://github.com/hiro-tech-taku/)
 - [Joncineus](https://github.com/joncineus)
@@ -552,6 +554,7 @@ michal
 - Kalhara Batangala (https://github.com/KalharaBatangala)
 - [Ricardo Gomes](https://github.com/ricardogomes)
 - Peter
+- [Borsoon](https://github.com/Borsoon)
 - [Jon Gumero](https://github.com/jongumero)
 - [Thomas Fogarty](https://github.com/Thoss24)
 - [Fathalrhman Adam](https://github.com/Fathalrhman267)
@@ -1863,5 +1866,3 @@ michal
 - [Rachel Lin](https://github.com/ItzRae)
 - [Kevin](https://github.com/KevinGuo07)
 - [Anirban Sen](https://github.com/anirbansen17)
-- [Eniafou](https://github.com/eniafou)
-
