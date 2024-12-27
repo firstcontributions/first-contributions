@@ -18,6 +18,7 @@
 - [Peleg Ben Barak](https://github.com/peleg-bb)
 - [gaikwadyash905](https://github.com/gaikwadyash905) : My First Contribution, looking forward for more..
 - [isaacrea](https://github.com/isaacrea)
+- [Swapneel_Singh](https://github.com/swapneelsingh) : Just the beginning..
 - [aqeelabpro](https://github.com/aqeelabpro)
 - [uzuraDev](https://github.com/uzuraDev)
 - [Eugene Chia](https://github.com/eugenechia)
