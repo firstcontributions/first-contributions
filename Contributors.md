@@ -2,6 +2,7 @@
 - [SumitThakur](https://github.com/SumitThakur1600)
 - [CaraMcG](https://github.com/caraMcG)
 - [EricccTaiwan](https://github.com/EricccTaiwan)
+Rishab Bhandari
 - [yusraMasood](https://github.com/yusraMasood)
 - [Raunit Arya](https://github.com/RaunitArya)
 -[Akash Dahal}(https://github.com/DARKAD10)
