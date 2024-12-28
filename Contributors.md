@@ -1910,4 +1910,4 @@ michal
 - [Hogan Lin](https://github.com/hogan-tech)
 - [Biswajit Panda](https://github.com/BiswajitHub)
 - [MadeInFck](https://github.com/MadeInFck)
-- [Francesco Paolo Sferratore](https://github.com/Sferratore)
+- [Sferratore](https://github.com/Sferratore)
