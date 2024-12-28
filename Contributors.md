@@ -4,6 +4,7 @@
 - [EricccTaiwan](https://github.com/EricccTaiwan)
 - [yusraMasood](https://github.com/yusraMasood)
 - [Raunit Arya](https://github.com/RaunitArya)
+-[Akash Dahal}(https://github.com/DARKAD10)
 -[rohithGana](https://github.com/Rohithgvmg)
 - [AC](https://github.com/FortKnoxWasTaken)
 - [hmdaslam97](https://github.com/hmdaslam97)
