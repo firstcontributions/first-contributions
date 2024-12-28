@@ -88,6 +88,7 @@
 - [Harsh Gharsandiya](https://github.com/harshgharsandiya)
 - [Ayananth](https://github.com/Ayananth)
 - [jorsyk](https://github.com/jorsyk)
+- [mayurk224](https://github.com/mayurk224)
 - [Loubna Lekouaghet](https://github.com/loubna213)
 - [Roshawn Brooks](https://github.com/rbrooks95)
 - [Tarun Jakkula](https://github.com/TarunJakkula)
