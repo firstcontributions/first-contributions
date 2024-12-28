@@ -38,6 +38,7 @@ Rishab Bhandari
 - [uzuraDev](https://github.com/uzuraDev)
 - [Eugene Chia](https://github.com/eugenechia)
 - [oogway-x3t](https://github.com/oogway-x3t)
+- [Hamza Zahid Butt](https://github.com/HamzaZahid172)
 - [charan](https://github.com/CharanCodeCraft)
 - [Preethi Manoharan](https://github.com/preethimanoharan18)
 - [Nikhil](My first contributions: https://github.com/Nikhil-NP)
