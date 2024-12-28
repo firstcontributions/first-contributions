@@ -1508,6 +1508,7 @@ michal
 - [AntonGeTUM](https://github.com/AntonGeTUM)
 - [ctrlVnt](https://github.com/ctrlVnt)
 - [Mayank Verma](https://github.com/mayankverma2003)
+- [Anzar Ahmad](https://github.com/AhmadAnzar)
 - [Mikael Hans](https://github.com/MikaelHans)
 - [Jeff Araujo](https://github.com/jeffara)
 - [Jaroshevskii 🝳 ︝”🌈](https://github.com/jaroshevskii)
