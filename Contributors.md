@@ -1,24 +1,21 @@
 # Contributors
+
 - [SumitThakur](https://github.com/SumitThakur1600)
 - [CaraMcG](https://github.com/caraMcG)
 - [EricccTaiwan](https://github.com/EricccTaiwan)
 - [yusraMasood](https://github.com/yusraMasood)
 - [Raunit Arya](https://github.com/RaunitArya)
--[Akash Dahal}(https://github.com/DARKAD10)
--[rohithGana](https://github.com/Rohithgvmg)
+  -[Akash Dahal}(https://github.com/DARKAD10) -[rohithGana](https://github.com/Rohithgvmg)
 - [AC](https://github.com/FortKnoxWasTaken)
 - [hmdaslam97](https://github.com/hmdaslam97)
 - [Weirdo-147](https://github.com/Weirdo-147)
 - [pratheek2474](https://github.com/Pratheek2474) : Learning
 - [lomus-hona](https://github.com/lhona01)
 - [Alexskald](https://github.com/jxuho)
-- [roby93](https://github.com/roby93)
- -[Rajkumar](https://github.com/Rajkumar-Adepu)
- -[cloud-whisperer](https://github.com/cloud-whisperer) 
- -[Disha520](https://github.com/Disha520)
- - [dylan-sacco](https://github.com/dylan-sacco)
+- [roby93](https://github.com/roby93) -[Rajkumar](https://github.com/Rajkumar-Adepu) -[cloud-whisperer](https://github.com/cloud-whisperer) -[Disha520](https://github.com/Disha520)
+- [dylan-sacco](https://github.com/dylan-sacco)
 - [Aarush-Parashar](https://github.com/Aarush-Parashar)
-- [Ronahi Bağcı](https://github.com/RonayBagci) 
+- [Ronahi Bağcı](https://github.com/RonayBagci)
 - [Fabrice Pecot](https://github.com/FabriceAB1)
 - [Ryan Tham](https://github.com/ryanjrt)
 - [gabecodessometimes](https://github.com/gabecodessometimes)
@@ -82,7 +79,7 @@
 - [Vaibhav Rawat](https://github.com/VaibhavRawat27)
 - [Shubhranka Varma](https://github.com/shubhranka)
 - [benoitmonchaninsupinfo](https://github.com/benoitmonchaninsupinfo)
-- [NandamRishith](https://github.com/nandam2003) 
+- [NandamRishith](https://github.com/nandam2003)
 - [Shogo Todoroki](https://github.com/n4304-ndensan)
 - [Dhruba Bhattacharyya](https://github.com/Dev-Dhruba2)
 - [simonpotel](https://github.com/simonpotel)
@@ -174,6 +171,7 @@
 - [randompeep]
 - [BinhTran2307](my first contribution)
 - [smandadhi9] (https://github.com/smandadhi9)
+- [Umang Agarwal](https://github.com/UmangAgarwal257)
 - [Magonborn] (https://github.com/MagonBorn)
 - [ricor07](https://github.com/ricor07)
 - [devoceon](https://github.com/emy3)
@@ -262,7 +260,7 @@
 - jorsyk
 - Utkarsh Kumar
 - hi, iam anoof
-michal
+  michal
 - [Juan Saavedra](https://github.com/JuanSaavedraB/)
 - add-lansar
 - [Felipe Chicaiza](https://github.com/FelipeChicaiza)
