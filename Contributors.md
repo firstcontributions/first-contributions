@@ -46,6 +46,7 @@ Rishab Bhandari
 - [Johnathan](https://github.com/Johnathanyes)
 - [Vanshika Sirohi](https://github.com/sirohi-vanshika)
 - [Nathaniel Maffly](https://github.com/nmaffly)
+-[arshadali](https://github.com/Arshadalee)
 - [Greem Fox](https://github.com/vulpes-viridis)
 - [Charulekha P] (https://github.com/charulekha-pandian)
 - [aayamrajshakya](https://github.com/aayamrajshakya)
