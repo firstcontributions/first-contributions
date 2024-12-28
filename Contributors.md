@@ -60,6 +60,7 @@
 - [Sonum Jaggi](http://github.com/sonum02)
 - [Thomas Sales](https://github.com/ThomasGSales)
 - [Inifome Eleluwor](https://github.com/Inifomeeo)
+- [Punnapareddy Bhaskar Rao](https://github.com/P-Bhaskar-Rao)
 - [addpd](https://github.com/addpd)
 - [Fabrice Pecot](https://github.com/FabriceAB1)
 - [vishalchauhan](https://github.com/V1sh4lC)
