@@ -48,6 +48,7 @@
 - [Ch-Umar-Aslam](https://github.com/CH-Umar-Aslam/)
 - [Sonum Jaggi](http://github.com/sonum02)
 - [Inifome Eleluwor](https://github.com/Inifomeeo)
+- [Punnapareddy Bhaskar Rao](https://github.com/P-Bhaskar-Rao)
 - [addpd](https://github.com/addpd)
 - [Fabrice Pecot](https://github.com/FabriceAB1)
 - [vishalchauhan](https://github.com/V1sh4lC)
