@@ -754,7 +754,6 @@ Rishabh Pandey
 - [Arnav Ranjekar@DevSocPI](https://github.com/Zubenalgenubi)
 - [Massoud Suleiman](https://github.com/DSMSSTHN)
 - [Pradeep Kurapati] (https://github.com/Pradeep-Kurapati)
-- [Pradeep Peethambaram] (https://github.com/pradeepblue)
 - [Aniket Bhunia](https://github.com/AniketBhunia)
 - [Divyansh Singh @devsoc pre induction]
 - [Taksh Paresh Patel @devsoc pre induction]
@@ -2279,4 +2278,4 @@ Ayan Das
 - [Nawed Alam] (https://github.com/nawed-alam)
 - [Felipe González](https://github.com/figonzal1)
 - [Akshay Jagiasi](https://github.com/Akshay-Jagiasi)
-- []()
+- [Pradeep Peethambaram] (https://github.com/pradeepblue)
