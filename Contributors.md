@@ -283,6 +283,7 @@
 - [GON-CAB-8](https://github.com/GON-CAB-8)
 - [sinchana](https://github.com/Thesinchanaj)
 - [Numix](https://github.com/ltsnumix)
+- [Chidanand Gowda](https://github.com/chidanandgowda)
 - [Daniel Molina](https://github.com/molinafm30)
 - [notamudkipiguess](https://github.com/notamudkipiguess)
 - [HannanToprakPia](https://github.com/HannanToprakPia)
