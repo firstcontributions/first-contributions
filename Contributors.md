@@ -1870,6 +1870,7 @@
 - [Jatin Parmar](https://github.com/JatinParmar1011)
 - SlientHippo
 - Aravind-Pramod
+- [Vineel Palla](https://github.com/VineelReddy14)
 - [staehli97](https://github.com/staehli97)
 - [kane17](https://github.com/kane17)
 - [amazingfarooqq](https://github.com/amazingfarooqq)
