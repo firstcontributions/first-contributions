@@ -2,6 +2,7 @@
 
 - [SumitThakur](https://github.com/SumitThakur1600)
 - [CaraMcG](https://github.com/caraMcG)
+- [sls-1](https://github.com/sls-1) 
 - [EricccTaiwan](https://github.com/EricccTaiwan)
 - [Daiwiik Harihar](https://github.com/daiv09)
 - [yusraMasood](https://github.com/yusraMasood)
