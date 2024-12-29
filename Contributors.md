@@ -1123,6 +1123,7 @@
 - [Lukmon Adeokun](https://github.com/AdekunleDally/first-contributions)
 - [Dibya Shakti Panda](https://github.com/Dibyas98)
 - [Navin P](https://github.com/mep1tz)
+- [Sagar Betkar](https://github.com/sagarbetkar)
 - [Jacob S](https://github.com/JacobSletten)
 - [Sebastien Jacquemart](https://github.com/sebastienjacquemart-AI)
 - [Ruhinda Roderick Izooba](https://github.com/Ruhinda01/)
