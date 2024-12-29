@@ -198,6 +198,7 @@
 - [p-a-brown](https://github.com/p-a-brown)
 - [Starkcover](https://github.com/Starkcover)
 - [Nuhu El Adj Souleymane](https://github.com/elsouleymane)
+- [Vivek Deshmukh](https://github.com/vivekd16)
 - [Aditya Singh](https://github.com/devxaditya)
 - [Rohan](https://github.com/Christopher-91)
 - [Shangcheng Li](https://github.com/shangchengg)
