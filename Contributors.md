@@ -4,6 +4,7 @@
 - [CaraMcG](https://github.com/caraMcG)
 - [sls-1](https://github.com/sls-1) 
 <!-- - [abhijeeth m](https://github.com/abhijeeth-mantha) -->
+- [Arindam Dinda](https://github.com/Arindam2003)
 - [EricccTaiwan](https://github.com/EricccTaiwan)
 - [Daiwiik Harihar](https://github.com/daiv09)
 - [yusraMasood](https://github.com/yusraMasood)
@@ -20,6 +21,7 @@ YoucefBoursali
 - [lomus-hona](https://github.com/lhona01)
 - [Alexskald](https://github.com/jxuho)
 - [Rajkumar](https://github.com/Rajkumar-Adepu)
+- [HKNain](https://github.com/HKNain)
 - [cloud-whisperer](https://github.com/cloud-whisperer)
 - [Disha520](https://github.com/Disha520)
 - [dylan-sacco](https://github.com/dylan-sacco)
@@ -58,6 +60,7 @@ YoucefBoursali
 - Namu
 - [meenakshiruia](https://github.com/meenakshiruia)
 - [RomaniukNatalia](https://github.com/RomaniukNatalia)
+- [Hemlata_Sharma](https://github.com/HemaGarima)
 - [Shankar-Balajee](https://github.com/Shankar-Balajee)
 - [amir asghar akbar mahaleh ghazian tapeh]
 - [stevee14]
