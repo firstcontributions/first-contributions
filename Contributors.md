@@ -29,6 +29,7 @@ YoucefBoursali
 - [Ronahi Bağcı](https://github.com/RonayBagci)
 - [Fabrice Pecot](https://github.com/FabriceAB1)
 - [Ryan Tham](https://github.com/ryanjrt)
+- [Algorytmouse](https://github.com/algorytmouse)
 - [Raghav Dwivedi](https://github.com/dwi4122)
 - [gabecodessometimes](https://github.com/gabecodessometimes)
 - [jasurgraduate](https://github.com/jasurgraduate)
