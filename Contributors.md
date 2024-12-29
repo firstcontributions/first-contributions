@@ -9,7 +9,7 @@
 - [yusraMasood](https://github.com/yusraMasood)
 - [FabioCamerota](https://github.com/FabioCamerota)
 - [Raunit Arya](https://github.com/RaunitArya)
-- [Akash Dahal](https://github.com/DARKAD10)
+- [Akash Dahal- (https://github.com/DARKAD10)
 YoucefBoursali
 - [rohithGana](https://github.com/Rohithgvmg)
 - [AC](https://github.com/FortKnoxWasTaken)
@@ -97,6 +97,7 @@ YoucefBoursali
 - [Shogo Todoroki](https://github.com/n4304-ndensan)
 - [Dhruba Bhattacharyya](https://github.com/Dev-Dhruba2)
 - [simonpotel](https://github.com/simonpotel)
+- binara nurlankyzy
 - [X3R074](My first contribution: https://github.com/X3R074)
 - [Seif Eddine Gadi](https://github.com/Seif-Eddine-Gadi)
 - [Harsh Gharsandiya](https://github.com/harshgharsandiya)
