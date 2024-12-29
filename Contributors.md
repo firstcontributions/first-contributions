@@ -1908,6 +1908,7 @@
 - [Kevin](https://github.com/KevinGuo07)
 - [Anirban Sen](https://github.com/anirbansen17)
 - [Eniafou](https://github.com/eniafou)
+- [Zaradacht](https://github.com/zaradacht)
 - [Indu Anuga](https://github.com/Induanuga)
 - [Rishika Shrinivas Billa](https://github.com/rishikabilla)
 - [Bhawish Kumar](https://github.com/BhawishKumarLohana)
