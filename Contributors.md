@@ -4,6 +4,7 @@
 - [SumitThakur](https://github.com/SumitThakur1600)
 - [CaraMcG](https://github.com/caraMcG)
 - [sls-1](https://github.com/sls-1) 
+- [Manas Mahajan](https://github.com/ManasMahajan2003)
 <!-- - [abhijeeth m](https://github.com/abhijeeth-mantha) -->
 - [Arindam Dinda](https://github.com/Arindam2003)
 - [EricccTaiwan](https://github.com/EricccTaiwan)
