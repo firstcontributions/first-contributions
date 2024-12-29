@@ -1,4 +1,5 @@
 # Contributors
+
 - [SumitThakur](https://github.com/SumitThakur1600)
 - [CaraMcG](https://github.com/caraMcG)
 - [EricccTaiwan](https://github.com/EricccTaiwan)
@@ -8,8 +9,7 @@ Rishab Bhandari
 - [yusraMasood](https://github.com/yusraMasood)
 - [FabioCamerota] (https://github.com/FabioCamerota)
 - [Raunit Arya](https://github.com/RaunitArya)
--[Akash Dahal}(https://github.com/DARKAD10)
--[rohithGana](https://github.com/Rohithgvmg)
+  -[Akash Dahal}(https://github.com/DARKAD10) -[rohithGana](https://github.com/Rohithgvmg)
 - [AC](https://github.com/FortKnoxWasTaken)
 - [Mohit-Goswami](https://github.com/Mohitgoswami18)
 - [hmdaslam97](https://github.com/hmdaslam97)
@@ -17,11 +17,8 @@ Rishab Bhandari
 - [pratheek2474](https://github.com/Pratheek2474) : Learning
 - [lomus-hona](https://github.com/lhona01)
 - [Alexskald](https://github.com/jxuho)
-- [roby93](https://github.com/roby93)
- -[Rajkumar](https://github.com/Rajkumar-Adepu)
- -[cloud-whisperer](https://github.com/cloud-whisperer) 
- -[Disha520](https://github.com/Disha520)
- - [dylan-sacco](https://github.com/dylan-sacco)
+- [roby93](https://github.com/roby93) -[Rajkumar](https://github.com/Rajkumar-Adepu) -[cloud-whisperer](https://github.com/cloud-whisperer) -[Disha520](https://github.com/Disha520)
+- [dylan-sacco](https://github.com/dylan-sacco)
 - [Aarush-Parashar](https://github.com/Aarush-Parashar)
 - [Ronahi Bağcı](https://github.com/RonayBagci)
 - [Fabrice Pecot](https://github.com/FabriceAB1)
@@ -183,6 +180,7 @@ nl
 - [randompeep]
 - [BinhTran2307](my first contribution)
 - [smandadhi9] (https://github.com/smandadhi9)
+- [Umang Agarwal](https://github.com/UmangAgarwal257)
 - [Magonborn] (https://github.com/MagonBorn)
 - [ricor07](https://github.com/ricor07)
 - [devoceon](https://github.com/emy3)
