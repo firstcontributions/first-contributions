@@ -99,6 +99,7 @@ YoucefBoursali
 - [lepickel](https://github.com/lepickel)
 - [Furanimus](https://github.com/Furanimus)
 - [Adarsh84](https://github.com/adarshM84)
+- [Rathin Subramaniam](https://github.com/rathinsubra)
 - [hectoru10](https://github.com/Hectoru10)
 - [Ahorts](https://github.com/Ahorts)
 - [widespectrum](https://github.com/widespctr)
