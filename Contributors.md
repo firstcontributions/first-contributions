@@ -15,6 +15,7 @@
 - [yusraMasood](https://github.com/yusraMasood)
 - [FabioCamerota](https://github.com/FabioCamerota)
 - [Raunit Arya](https://github.com/RaunitArya)
+- [AureDev](https://github.com/AureDev)
 - [Akash Dahal](https://github.com/DARKAD10)
 - [Harry C](https://github.com/campbellharry)
   YoucefBoursali
