@@ -1747,6 +1747,7 @@
 - [Avinash Mangalore Suresh](https://github.com/msavinash)
 - [Ridhi Priya](https://github.com/Ridhi-priya)
 - [Deepak Saini](https://github.com/dipaksaini98)
+- [Jason Victor](https://github.com/jason-victor1)
 - [Nsikan Patrick Adaowo](https://github.com/NsikanPatrick)
 - [Valentyn Chernetskyi](https://github.com/Valik3201)
 - [solola David](https://github.com/LetcodeitwithDave)
