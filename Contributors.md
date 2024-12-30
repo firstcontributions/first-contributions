@@ -25,6 +25,7 @@ YoucefBoursali
 - [Alexskald](https://github.com/jxuho)
 - [Rajkumar](https://github.com/Rajkumar-Adepu)
 - [HKNain](https://github.com/HKNain)
+- [Arun](https://github.com/Arun8698)
 - [cloud-whisperer](https://github.com/cloud-whisperer)
 - [Disha520](https://github.com/Disha520)
 - [Daniel Guo](https://github.com/DiiGii)
