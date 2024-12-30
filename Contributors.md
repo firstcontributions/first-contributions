@@ -162,6 +162,7 @@ YoucefBoursali
 - [FloraPetit](https://github.com/PetitFlora)
 - [anthocote19](https://github.com/anthocote19)
 - [Arsalan Mohseni](https://github.com/arsalanmohseni)
+- [Ariyan Pandian](https://github.com/AriyanPandian)
 - [Iris Christa](https://github.com/I-christa)
 - [sadiqhero](https://github.com/sadiqhero)
 - [Caroline](https://github.com/perrywinkle2004)
