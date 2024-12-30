@@ -3,7 +3,7 @@
 - [Harshit Joshi](https://github.com/harsh040206)
 - [SumitThakur](https://github.com/SumitThakur1600)
 - [CaraMcG](https://github.com/caraMcG)
-- [sls-1](https://github.com/sls-1) 
+- [sls-1](https://github.com/sls-1)
 - [Manas Mahajan](https://github.com/ManasMahajan2003)
 <!-- - [abhijeeth m](https://github.com/abhijeeth-mantha) -->
 - [Jefferson Huisa](https://github.com/j3ffh95)
@@ -15,7 +15,7 @@
 - [Raunit Arya](https://github.com/RaunitArya)
 - [Akash Dahal](https://github.com/DARKAD10)
 - [Harry C](https://github.com/campbellharry)
-YoucefBoursali
+  YoucefBoursali
 - [rohithGana](https://github.com/Rohithgvmg)
 - [AC](https://github.com/FortKnoxWasTaken)
 - [Mohit-Goswami](https://github.com/Mohitgoswami18)
@@ -1946,3 +1946,4 @@ YoucefBoursali
 - [Wahhlei](https://github.com/Wahhlei)
 - [Yaswanth](https://github.com/yaswanthd333)
 - [Cyberforge](https://github.com/cyberforge1)
+- [Ron Daniel Manguerra](https://github.com/ronforrestron24)
