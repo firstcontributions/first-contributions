@@ -1614,6 +1614,7 @@ YoucefBoursali
 - [Carry Lee](https://github.com/Nuaza)
 - [yuchenlogin](https://github.com/yuchenlogin)
 - [Furkan Dogmus](https://github.com/furkandogmus)
+- [Saif Alvi](https://github.com/yuusaif)
 - [Comet AHC](https://github.com/CometAHC)
 - [Yakov Donde](https://github.com/yakovdonde)
 - [ducknows](https://github.com/ducknows)
