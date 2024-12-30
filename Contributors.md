@@ -7,6 +7,7 @@
 - [Manas Mahajan](https://github.com/ManasMahajan2003)
 <!-- - [abhijeeth m](https://github.com/abhijeeth-mantha) -->
 - [Jefferson Huisa](https://github.com/j3ffh95)
+- [mrxc0de](https://github.com/mrxc0de)
 - [Rushikesh Jadhav] (https://github.com/Rushi543)
 - [Arindam Dinda](https://github.com/Arindam2003)
 - [EricccTaiwan](https://github.com/EricccTaiwan)
