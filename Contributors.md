@@ -79,6 +79,7 @@ YoucefBoursali
 - [Wendell Oliveira](https://github.com/wendelloliiver)
 - [Ch-Umar-Aslam](https://github.com/CH-Umar-Aslam/)
 - [Sonum Jaggi](http://github.com/sonum02)
+- [Matt Bellardi] (https://github.com/met97)
 - [Thomas Sales](https://github.com/ThomasGSales)
 - [Inifome Eleluwor](https://github.com/Inifomeeo)
 - [Punnapareddy Bhaskar Rao](https://github.com/P-Bhaskar-Rao)
