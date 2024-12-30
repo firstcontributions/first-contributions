@@ -12,7 +12,7 @@
 - [Arindam Dinda](https://github.com/Arindam2003)
 - [EricccTaiwan](https://github.com/EricccTaiwan)
 - [Daiwiik Harihar](https://github.com/daiv09)
-- [yusraMasood](https://github.com/yusraMasood)
+- [zwehtetpaing](https://github.com/Z-to-the-hp69)
 - [FabioCamerota](https://github.com/FabioCamerota)
 - [Raunit Arya](https://github.com/RaunitArya)
 - [Akash Dahal](https://github.com/DARKAD10)
