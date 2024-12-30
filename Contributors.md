@@ -1,9 +1,13 @@
 # Contributors
 
+- [Harshit Joshi](https://github.com/harsh040206)
 - [SumitThakur](https://github.com/SumitThakur1600)
 - [CaraMcG](https://github.com/caraMcG)
 - [sls-1](https://github.com/sls-1) 
+- [Manas Mahajan](https://github.com/ManasMahajan2003)
 <!-- - [abhijeeth m](https://github.com/abhijeeth-mantha) -->
+- [Jefferson Huisa](https://github.com/j3ffh95)
+- [Rushikesh Jadhav] (https://github.com/Rushi543)
 - [Arindam Dinda](https://github.com/Arindam2003)
 - [EricccTaiwan](https://github.com/EricccTaiwan)
 - [Daiwiik Harihar](https://github.com/daiv09)
@@ -11,6 +15,7 @@
 - [FabioCamerota](https://github.com/FabioCamerota)
 - [Raunit Arya](https://github.com/RaunitArya)
 - [Akash Dahal](https://github.com/DARKAD10)
+- [Harry C](https://github.com/campbellharry)
 YoucefBoursali
 - [rohithGana](https://github.com/Rohithgvmg)
 - [AC](https://github.com/FortKnoxWasTaken)
@@ -22,13 +27,18 @@ YoucefBoursali
 - [Alexskald](https://github.com/jxuho)
 - [Rajkumar](https://github.com/Rajkumar-Adepu)
 - [HKNain](https://github.com/HKNain)
+- [Arun](https://github.com/Arun8698)
 - [cloud-whisperer](https://github.com/cloud-whisperer)
 - [Disha520](https://github.com/Disha520)
+- [Daniel Guo](https://github.com/DiiGii)
 - [dylan-sacco](https://github.com/dylan-sacco)
 - [Aarush-Parashar](https://github.com/Aarush-Parashar)
 - [Ronahi Bağcı](https://github.com/RonayBagci)
 - [Fabrice Pecot](https://github.com/FabriceAB1)
+- [kazuma](https://github.com/Mio-3)
 - [Ryan Tham](https://github.com/ryanjrt)
+- [Algorytmouse](https://github.com/algorytmouse)
+- [Pavani](https://github.com/pavani42)
 - [Raghav Dwivedi](https://github.com/dwi4122)
 - [gabecodessometimes](https://github.com/gabecodessometimes)
 - [jasurgraduate](https://github.com/jasurgraduate)
@@ -70,6 +80,7 @@ YoucefBoursali
 - [Wendell Oliveira](https://github.com/wendelloliiver)
 - [Ch-Umar-Aslam](https://github.com/CH-Umar-Aslam/)
 - [Sonum Jaggi](http://github.com/sonum02)
+- [Matt Bellardi] (https://github.com/met97)
 - [Thomas Sales](https://github.com/ThomasGSales)
 - [Inifome Eleluwor](https://github.com/Inifomeeo)
 - [Punnapareddy Bhaskar Rao](https://github.com/P-Bhaskar-Rao)
@@ -97,9 +108,11 @@ YoucefBoursali
 - [Shubhranka Varma](https://github.com/shubhranka)
 - [benoitmonchaninsupinfo](https://github.com/benoitmonchaninsupinfo)
 - [NandamRishith](https://github.com/nandam2003)
+- [Jonas Mikosch](https://github.com/jomik101)
 - [Shogo Todoroki](https://github.com/n4304-ndensan)
 - [Dhruba Bhattacharyya](https://github.com/Dev-Dhruba2)
 - [simonpotel](https://github.com/simonpotel)
+- binara nurlankyzy
 - [X3R074](My first contribution: https://github.com/X3R074)
 - [Seif Eddine Gadi](https://github.com/Seif-Eddine-Gadi)
 - [Harsh Gharsandiya](https://github.com/harshgharsandiya)
@@ -135,6 +148,7 @@ YoucefBoursali
 - [Krishiv](https://github.com/Krizzhiv)
 - [John J](https://github.com/john310897)
 - [JoachimC](https://github.com/Joachim280)
+- [Tzipi W](https://github.com/Tzipi-Winefeld)
 - [chandanvnk1](https://github.com/chandanvnk1)
 - [AdityaRaj212](https://github.com/AdityaRaj212)
 - [AvAdiii](https://github.com/AvAdiii)
@@ -1381,7 +1395,9 @@ YoucefBoursali
 - [MK Saba](https://github.com/mksaba)
 - [Garfield](https://github.com/jiafie7)
 - [S Yougesh Kumar](https://github.com/Yougesh978)
-- [MohammadKad](https://github.com/mohammadkad) -[Atilola Oyediji] (https://github.com/netblaiz)
+- [MohammadKad](https://github.com/mohammadkad)
+- [Atilola Oyediji](https://github.com/netblaiz)
+- [vignshwaransrinivasan](https://github.com/vignesh-04rep)
 - [Aniket Negi](https://github.com/theaniketnegi)
 - [yunmaoQu](https://github.com/yunmaoQu)
 - [Kamari M.](https://github.com/Kamari93)
@@ -1859,6 +1875,7 @@ YoucefBoursali
 - [OlivierDenoix](https://github.com/OlivierDenoix)
 - [inammar](https://github.com/inammar)
 - [jackituning](https://github.com/jackituning)
+- [Freebet98](https://github.com/Freebet98)
 - LeonJWD
 - Polino
 - olajideolamide
@@ -1931,3 +1948,5 @@ YoucefBoursali
 - [Wahhlei](https://github.com/Wahhlei)
 - [Yaswanth](https://github.com/yaswanthd333)
 - [Abhijna](https://github.com/Abhijna11)
+- [Cyberforge](https://github.com/cyberforge1)
+
