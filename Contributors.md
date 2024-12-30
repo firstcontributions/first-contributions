@@ -23,6 +23,7 @@ YoucefBoursali
 - [Mohit-Goswami](https://github.com/Mohitgoswami18)
 - [hmdaslam97](https://github.com/hmdaslam97)
 - [Weirdo-147](https://github.com/Weirdo-147)
+- [Akhila Sahithi](https://github.com/Akhila-Sahithi)
 - [pratheek2474](https://github.com/Pratheek2474) : Learning
 - [lomus-hona](https://github.com/lhona01)
 - [Alexskald](https://github.com/jxuho)
