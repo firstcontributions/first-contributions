@@ -34,6 +34,7 @@ YoucefBoursali
 - [Aarush-Parashar](https://github.com/Aarush-Parashar)
 - [Ronahi Bağcı](https://github.com/RonayBagci)
 - [Fabrice Pecot](https://github.com/FabriceAB1)
+- [kazuma](https://github.com/Mio-3)
 - [Ryan Tham](https://github.com/ryanjrt)
 - [Algorytmouse](https://github.com/algorytmouse)
 - [Pavani](https://github.com/pavani42)
