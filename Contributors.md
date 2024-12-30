@@ -100,6 +100,7 @@ YoucefBoursali
 - [hectoru10](https://github.com/Hectoru10)
 - [Ahorts](https://github.com/Ahorts)
 - [widespectrum](https://github.com/widespctr)
+- [rinujohn](https://github.com/rinujohn) 
 - [lennyhurni](https://github.com/lennyhurni)
 - [Ullas Arwan](https://github.com/ullaslgd)
 - [Dario Moreno](https://github.com/3dmoreno)
