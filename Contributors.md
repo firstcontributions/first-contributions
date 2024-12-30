@@ -8,6 +8,7 @@
 <!-- - [abhijeeth m](https://github.com/abhijeeth-mantha) -->
 - [Jefferson Huisa](https://github.com/j3ffh95)
 - [mrxc0de](https://github.com/mrxc0de)
+- [Chibuzor Israel](https://github.com/pseudoeazy)
 - [Rushikesh Jadhav] (https://github.com/Rushi543)
 - [Arindam Dinda](https://github.com/Arindam2003)
 - [EricccTaiwan](https://github.com/EricccTaiwan)
@@ -1951,3 +1952,4 @@ YoucefBoursali
 - [Wahhlei](https://github.com/Wahhlei)
 - [Yaswanth](https://github.com/yaswanthd333)
 - [Cyberforge](https://github.com/cyberforge1)
+
