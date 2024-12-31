@@ -115,6 +115,7 @@
 - [widespectrum](https://github.com/widespctr)
 - [rinujohn](https://github.com/rinujohn) 
 - [lennyhurni](https://github.com/lennyhurni)
+- [AShotOfCode]
 - [Ullas Arwan](https://github.com/ullaslgd)
 - [Dario Moreno](https://github.com/3dmoreno)
 - [Gad](https://github.com/Gad)
