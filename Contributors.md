@@ -997,6 +997,7 @@
 - [Abdullah Kidwai](https://github.com/fauzank339)
 - [Alston Antony](https://github.com/alston06)
 - [Sulejman Hoxha](https://github.com/sulejmanhoxha)
+- [Ali Rahbar](https://github.com/crypto-a)
 - [Skin Spectra](https://github.com/mqry)
 - [iPig](https://github.com/ipigtw)
 - [Kornel Hergert](https://github.com/kornel54)
