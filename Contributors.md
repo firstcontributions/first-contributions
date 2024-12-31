@@ -44,6 +44,7 @@
 - [kazuma](https://github.com/Mio-3)
 - [Ryan Tham](https://github.com/ryanjrt)
 - [Algorytmouse](https://github.com/algorytmouse)
+- [Nidhin Sankar](https://github.com/nidhinsankar)
 - [Pavani](https://github.com/pavani42)
 - [Raghav Dwivedi](https://github.com/dwi4122)
 - [gabecodessometimes](https://github.com/gabecodessometimes)
