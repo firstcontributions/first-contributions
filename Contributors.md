@@ -89,6 +89,7 @@
 - [amir asghar akbar mahaleh ghazian tapeh]
 - [stevee14]
 - [misfit](https://github.com/slMiSFiT)
+- [Hashim](https://github.com/runtime-errrrorr)
 - [Dyno-man](https://github.com/Dyno-man)
 - [Sardorbek](https://github.com/Sardorbek-Kuvondikov)
 - [Wendell Oliveira](https://github.com/wendelloliiver)
