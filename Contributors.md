@@ -321,6 +321,7 @@
 - Hi, I'm Anuj.
 - Zahra
 - ARYAN
+- [Pranav Pise](https://github.com/TheCaptain1810)
 - [Leaphea](https://github.com/sok-leaphea)
 - [Jeanette Gonzalez](https://github.com/JeanetteGz)
 - [GON-CAB-8](https://github.com/GON-CAB-8)
