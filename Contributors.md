@@ -6,6 +6,7 @@
 - [sls-1](https://github.com/sls-1) 
 - [Manas Mahajan](https://github.com/ManasMahajan2003)
 <!-- - [abhijeeth m](https://github.com/abhijeeth-mantha) -->
+[Rushikesh Amale]
 - [Jefferson Huisa](https://github.com/j3ffh95)
 - [mrxc0de](https://github.com/mrxc0de)
 - [Rushikesh Jadhav] (https://github.com/Rushi543)
