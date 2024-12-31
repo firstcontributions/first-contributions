@@ -20,6 +20,7 @@
 - [Harry C](https://github.com/campbellharry)
   YoucefBoursali
 - [rohithGana](https://github.com/Rohithgvmg)
+- Lokesh
 - [AC](https://github.com/FortKnoxWasTaken)
 - [Mohit-Goswami](https://github.com/Mohitgoswami18)
 - [hmdaslam97](https://github.com/hmdaslam97)
