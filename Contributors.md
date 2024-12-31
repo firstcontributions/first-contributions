@@ -63,6 +63,7 @@
 - [Eugene Chia](https://github.com/eugenechia)
 - [oogway-x3t](https://github.com/oogway-x3t)
 - [Hamza Zahid Butt](https://github.com/HamzaZahid172)
+- [Achintha Ekanayake](https://github.com/achintha-eknayake)
 - [charan](https://github.com/CharanCodeCraft)
 - [Preethi Manoharan](https://github.com/preethimanoharan18)
 - [Nikhil](My first contributions: https://github.com/Nikhil-NP)
