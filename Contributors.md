@@ -29,6 +29,7 @@
 - [Weirdo-147](https://github.com/Weirdo-147)
 - [Akhila Sahithi](https://github.com/Akhila-Sahithi)
 - [pratheek2474](https://github.com/Pratheek2474) : Learning
+- [Issac-BK] (https://github.com/issaccodes) : Issac was here
 - [lomus-hona](https://github.com/lhona01)
 - [Alexskald](https://github.com/jxuho)
 - [Rajkumar](https://github.com/Rajkumar-Adepu)
