@@ -1029,6 +1029,7 @@
 - [Nitant Makwana](https://github.com/nitverse)
 - [Matthew McWilliams](https://github.com/potatoBobRocks)
 - [Gabby Greer](https://github.com/gabbygreer)
+- Ayush Agarwal
 - [@eiramada](https://github.com/eiramada)
 - [Elton Armelini](https://github.com/EltonArmelini)
 - [Gary Meng](https://github.com/liutongechao)
