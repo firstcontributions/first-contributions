@@ -1176,6 +1176,7 @@
 - [DracoRX16](https://github.com/DracoRX16)
 - [Alexander Todorovic](https://github.com/alexandertodorovic)
 - Papavero
+- kana
 - [Ergys Hila](https://github.com/ergys25)
 - [Sasmit](https://github.com/mosaicsoft)
 - [Caleb Hill](https://github.com/calebhill98)
