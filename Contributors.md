@@ -43,6 +43,7 @@
 - [Fabrice Pecot](https://github.com/FabriceAB1)
 - [kazuma](https://github.com/Mio-3)
 - [Ryan Tham](https://github.com/ryanjrt)
+- [Navreet Kaur](https://github.com/NavreetKB)
 - [Algorytmouse](https://github.com/algorytmouse)
 - [Nidhin Sankar](https://github.com/nidhinsankar)
 - [Pavani](https://github.com/pavani42)
