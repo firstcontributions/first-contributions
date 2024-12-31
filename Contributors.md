@@ -21,6 +21,7 @@
 - [Akash Dahal](https://github.com/DARKAD10)
 - [Harry C](https://github.com/campbellharry)
   YoucefBoursali
+- [Hetvi Shah]
 - [rohithGana](https://github.com/Rohithgvmg)
 - Lokesh
 - [AC](https://github.com/FortKnoxWasTaken)
