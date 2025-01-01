@@ -2009,4 +2009,5 @@
 - [Fatih Kucukkara](https://github.com/fkucukkara)
 - [Mustafa Chambers](https://github.com/mchamb92)
 - [Garv Jhajharia](https://github.com/garvj65)
+- [Vedant Patel](https://github.com/Vedant-07)
 - [Arun N](https://github.com/arun-357)
