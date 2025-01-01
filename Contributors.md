@@ -18,7 +18,7 @@
 - [Arindam Dinda](https://github.com/Arindam2003)
 - [EricccTaiwan](https://github.com/EricccTaiwan)
 - [Daiwiik Harihar](https://github.com/daiv09)
-- [yusraMasood](https://github.com/yusraMasood)
+- [Z-to-the-hp69](https://github.com/Z-to-the-hp69/)
 - [FabioCamerota](https://github.com/FabioCamerota)
 - [Raunit Arya](https://github.com/RaunitArya)
 - [Hemant] (https://github.com/l1emant/)
