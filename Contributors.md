@@ -76,6 +76,7 @@
 - [isaacrea](https://github.com/isaacrea)
 - [Swapneel_Singh](https://github.com/swapneelsingh) : Just the beginning..
 - [aqeelabpro](https://github.com/aqeelabpro)
+- Bandish Patel.
 - [gyanchandkabra](https://github.com/gyanchandkabra)
 - [uzuraDev](https://github.com/uzuraDev)
 - [Eugene Chia](https://github.com/eugenechia)
