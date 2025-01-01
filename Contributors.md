@@ -13,6 +13,7 @@
 [Rushikesh Amale]
 - [Jefferson Huisa](https://github.com/j3ffh95)
 - [mrxc0de](https://github.com/mrxc0de)
+- [Sumit Pandey](https://github.com/SumitPandey08)
 - [Rushikesh Jadhav] (https://github.com/Rushi543)
 - [Arindam Dinda](https://github.com/Arindam2003)
 - [EricccTaiwan](https://github.com/EricccTaiwan)
