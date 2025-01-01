@@ -4,6 +4,7 @@
 - [Sanjai Kumar R](https://github.com/sanjai451)
 - [SumitThakur](https://github.com/SumitThakur1600)
 - [CaraMcG](https://github.com/caraMcG)
+- [Arnav Joshi](https://github.com/Arnav020)
 - [sls-1](https://github.com/sls-1)
 - [Anurag Chaturvedi](https://github.com/anuragjcchaturvedi) 
 - [Manas Mahajan](https://github.com/ManasMahajan2003)
