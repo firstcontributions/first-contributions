@@ -1775,6 +1775,7 @@
 - [A K M Jubaeir Islam](https://github.com/Zubiii333)
 - [Abhay Singh](https://github.com/Abhay-Singh-1913)
 - [Ian Hart](https://github.com/ianahart)
+- [sperbs](https://github.com/sperbs)
 - [Van Minh Tran](https://github.com/minhtran5109)
 - [Uday Vara](https://github.com/UV26320)
 - [Thiago Fraga](https://github.com/thiagoigfraga)
