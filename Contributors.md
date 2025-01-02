@@ -27,6 +27,7 @@
 - [Akash Dahal](https://github.com/DARKAD10)
 - [Harry C](https://github.com/campbellharry)
   YoucefBoursali
+- [vinod jaina] (https://github.com/firstcontributions/first-contributions?tab=readme-ov-file)
 - [Hetvi Shah]
 - [rohithGana](https://github.com/Rohithgvmg)
 - Lokesh
