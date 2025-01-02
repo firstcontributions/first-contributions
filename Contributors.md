@@ -42,6 +42,7 @@
 - [Esther Kalsmith](https://github.com/EstherKal)
 - [Weirdo-147](https://github.com/Weirdo-147)
 - [Akhila Sahithi](https://github.com/Akhila-Sahithi)
+[SrivastavaAman8604](https://github.com/SrivastavaAman8604)
 - [Zach Warmoth] (https://github.com/ZWarmoth)
 - [pratheek2474](https://github.com/Pratheek2474) : Learning
 - [Issac-BK] (https://github.com/issaccodes) : Issac was here
