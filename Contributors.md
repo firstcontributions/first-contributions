@@ -51,6 +51,7 @@
 - [Issac-BK] (https://github.com/issaccodes) : Issac was here
 - [lomus-hona](https://github.com/lhona01)
 - [Alexskald](https://github.com/jxuho)
+- [Rodrigo](https://github.com/Rdgistauf)
 - [Rajkumar](https://github.com/Rajkumar-Adepu)
 - [HKNain](https://github.com/HKNain)
 - [Arun](https://github.com/Arun8698)
