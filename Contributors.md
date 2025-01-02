@@ -424,6 +424,7 @@
 - [Varun Sharma](https://github.com/varunsh20/)
 - [Keshav Kant](https://github.com/Keshav-Kant/)
 - [emrlk](https://github.com/emrlk)
+- [Chuffed](https://github.com/Chuffed-Code)
 - [Sushanth hebri](https://github.com/Sushanth-Hebri/)
 - [Sai Manogyana Tokachichu](https://github.com/scrapperDubiBear/)
 - [reihori](https://github.com/reihori)
