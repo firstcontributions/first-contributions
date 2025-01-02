@@ -1829,6 +1829,7 @@
 - [Ridwan Oladapo](https://github.com/theridwanoladapo)
 - [Rohail Zubair](https://github.com/Rohail-Zubair)
 - [Johnnoe Dom](https://github.com/johnniedom/)
+- [Sanchay Jadon](https://github.com/sanchay22/)
 - [Sarvesh0955](https://github.com/Sarvesh0955)
 - [MichaelSoto95](https://github.com/MichaelSoto95)
 - [Jorge M Soto Pena](https:://github.com/jorgemsotopena)
