@@ -417,6 +417,7 @@
 - [Sneha Singh](https://github.com/snehasingh-25)
 - [Varun Tadpatri](https://github.com/varun2799dev)
 - [Hypothalamus](https://github.com/Hypothalamuss)
+- [Andrew Tan](https://github.com/AndrewTan517)
 - [YudisSutisna](https://github.com/Hanep77)
 - [STA](https://github.com/sithuaung246810)
 - [Ernest Muli](https://github.com/kunmuli)
