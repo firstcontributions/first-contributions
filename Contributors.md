@@ -3,6 +3,7 @@
 did it different
 - Hello I am Adam
 - Moro! I am Tommi
+- Him I am Aayush Poudel (https://github.com/aayushhh44)
 - Hello, I am Adharsh Rajavel (https://github.com/adharshr15)
 - Ray Wienand
 -🚀✨**Hello I am Aung Pyae Son Oo**✨🥳👋
