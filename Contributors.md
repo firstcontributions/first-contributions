@@ -57,6 +57,7 @@
 - [cloud-whisperer](https://github.com/cloud-whisperer)
 - [Disha520](https://github.com/Disha520)
 - [Daniel Guo](https://github.com/DiiGii)
+  [Lovepreet Kaur](https://github.com/LovekUR)
 - [Navneet Yadav](https://github.com/navnt00)
 - [dylan-sacco](https://github.com/dylan-sacco)
 - [Aarush-Parashar](https://github.com/Aarush-Parashar)
