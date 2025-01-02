@@ -25,6 +25,7 @@
 - [Daiwiik Harihar](https://github.com/daiv09)
 - [Z-to-the-hp69](https://github.com/Z-to-the-hp69/)
 - [FabioCamerota](https://github.com/FabioCamerota)
+- [Anaïs Gatard](https://github.com/AnaisG14)
 - [Raunit Arya](https://github.com/RaunitArya)
 - [Hemant] (https://github.com/l1emant/)
 - [AureDev](https://github.com/AureDev)
