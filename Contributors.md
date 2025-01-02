@@ -836,6 +836,7 @@
 - [Jayesh Bagde](https://github.com/jysh-bgde)
 - [Karuppaiah](https://github.com/akdinesh124)
 - [Thirupathi Addisherla](https://github.com/Thiru7747)
+- [Pedro Santos](https://github.com/pedro-sts)
 - [Masch90](https://github.com/Masch90)
 - [Chijioke Ugwuanyi](https://github.com/xplorer1)
 - [Horatio Hanley](https://github.com/horatioDev)
