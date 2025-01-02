@@ -83,4 +83,4 @@ If you're making changes to a translation, please request a review from our prev
 | 中文 | [Chinese (Simplified)](../translations/README.zh-cn.md) | [<img width="100" src="https://avatars2.githubusercontent.com/u/6414741?s=400&v=4" alt="@yuzhoujr" />](https://github.com/yuzhoujr) |
 | 中文 | [Chinese (Traditional)](../translations/README.zh-tw.md) | [<img width="100" src="https://avatars2.githubusercontent.com/u/27748281?s=460&v=4" alt="@WeiChienHsu" />](https://github.com/WeiChienHsu) |
 | Zulu | [Zulu](../translations/README.zu.md) | [<img width="100" src="https://avatars.githubusercontent.com/u/36197725?v=4" alt="@zecollokaris" />](https://github.com/zecollokaris) []() |
-
+| [Hariom Kumar Pandit](../translations/README.en.md) | [<img width="100" src="https://avatars.githubusercontent.com/u/138400713?s=400&u=f87dd2999dfe17cac49a5417cf5f854cb2a52bd3&v=4" alt="@hari7261" />](https://github.com/hari7261) []() |
