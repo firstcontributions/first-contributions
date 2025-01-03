@@ -2066,3 +2066,4 @@
 - [Pranay Karvi](https://github.com/pranaykarvi)
 - [lemonexee](https://github.com/lemonexee)
 - [Alessandro Iannacone](https://github.com/alesiestu)
+- [Devesh Bervar](https://github.com/deveshbervar)
