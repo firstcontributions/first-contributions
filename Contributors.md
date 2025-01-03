@@ -26,6 +26,7 @@
 - [mrxc0de](https://github.com/mrxc0de)
 - [Nihal Barua](https://github.com/nihal-bar)
 - [Sanidhya Soni](https://github.com/sonisanidhya)
+- [Adrian Bajczyk](https://github.com/AdrianBajczyk)
 - [Chibuzor Israel](https://github.com/pseudoeazy)
 - [Sumit Pandey](https://github.com/SumitPandey08)
 - [Rushikesh Jadhav](https://github.com/Rushi543)
