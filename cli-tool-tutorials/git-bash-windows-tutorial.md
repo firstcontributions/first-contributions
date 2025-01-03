@@ -31,19 +31,23 @@ To clone the repo, click on "Code" and then copy the string down below.
 
 <img src="https://firstcontributions.github.io/assets/cli-tool-tutorials/git-bash-windows-tutorial/gb-clone-1.png" alt="copy string" />
 
-Open the git bash application you just downloaded. It should look like the image down below if its on a windows machine.
+Open the git bash application you just downloaded. It should look like the image down below if it's on a windows machine.
 
 <img src="https://firstcontributions.github.io/assets/cli-tool-tutorials/git-bash-windows-tutorial/gb-terminal-1.png" alt="open git bash terminal" />
 
-Go to the folder that you want to save this project on by uisng this command
+Go to the folder that you want to save this project on by using this command
 
-`cd <folder>`
+```bash
+cd <folder>
+```
 
 <img src="https://firstcontributions.github.io/assets/cli-tool-tutorials/git-bash-windows-tutorial/gb-terminal-2.png" alt="cd into a folder" />
 
 Use the string you copied in the step above to clone the repository using this command
 
-`git clone <repo-url>`
+```bash
+git clone <repo-url>
+```
 
 <img src="https://firstcontributions.github.io/assets/cli-tool-tutorials/git-bash-windows-tutorial/gb-clone-2.png" alt="clone the repository" />
 
@@ -53,9 +57,9 @@ Go to the directory where the repo is and open it up on vs code to make your cha
 
 ## Create a branch
 
-Now create a branch by uing this simple command. This command not only creates a branch for you but also lets you switch to that branch.
+Now create a branch by using this simple command. This command not only creates a branch for you but also lets you switch to that branch.
 
-```
+```bash
 git checkout -b <branch-name>
 ```
 
@@ -73,7 +77,9 @@ Example: If your name is James Smith, It should look like this.
 
 You can see that there are changes to Contributors.md by simply running this command
 
-`git status`
+```bash
+git status
+```
 
 <img src="https://firstcontributions.github.io/assets/cli-tool-tutorials/git-bash-windows-tutorial/gb-status.png" alt="check the status" />
 
@@ -81,11 +87,15 @@ Now commit those changes:
 
 First add the change you made to the staging area by using
 
-`git add file-name`
+```bash
+git add file-name
+```
 
 Then write a commit message by sing this command
 
-`git commit -m "Add your-name to Contributors list"`
+```bash
+git commit -m "Add your-name to Contributors list"
+```
 
 Replace `<your-name>` with your name.
 
@@ -97,7 +107,9 @@ To see if your commit has been made you can run a simple `git log --oneline` com
 
 Once you are done with the above steps you can push your changes by using this command
 
-`git push origin <branch-name>`
+```bash
+git push origin <branch-name>
+```
 
 <img src="https://firstcontributions.github.io/assets/cli-tool-tutorials/git-bash-windows-tutorial/gb-push.png" alt="push changes" />
 

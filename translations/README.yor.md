@@ -6,7 +6,7 @@
 
 # Akọkọ ilowosi
 
-Lati dasi nko lakoko n'le, pataki ti a ba ronu nipa asise ti a le bapade, a fe ko rorun fun awon ilowosi akoko lati le dasi 
+Lati dasi nko lakoko n'le, pataki ti a ba ronu nipa asise ti a le bapade, a fe ko rorun fun awon ilowosi akoko lati le dasi
 ise agbese lakoko, ise agbese yi a ko yin be ese le se, e tele ilana ni isalẹ
 
 
@@ -28,7 +28,7 @@ oya e de ibi ipamọ yi si account yin, e lo si githubu accounti yin, e te 'clon
 
 e sii ebute in ero ise yin, e te pipaṣẹ to be a labe oro yi si:
 
-```
+```bash
 git clone "ọna asopọ ' te daakọ"
 ```
 
@@ -38,7 +38,7 @@ ibi, "ọna asopọ ' te daakọ" (lai awọn ' quote iṣmiṣ) lo je ono asopo
 
 oye ko ri bi:
 
-```
+```bash
 git clone https://github.com/oruko yin/first-contributions.git
 ```
 
@@ -48,19 +48,19 @@ ibi `oruko yin` ni oruko githubu accounti yin. ni bi yi en didako awon akoonu ' 
 
 seda eka si ero, amo ko to sebe te pipaṣẹ yi si ibe
 
-```
+```bash
 cd first-contributions
 ```
 
 oya seda eka si  pelu ' `git checkout` pipase:
 
-```
+```bash
 git checkout -b <oruko to fe so eka to fe seda>
 ```
 
 fun apere:
 
-```
+```bash
 git checkout -b add-luke-oliff
 ```
 
@@ -76,13 +76,13 @@ to ba te pipase  `git status` si ebute re, wa re awon ayipada ti ose
 
 fi won mo eka ti ode pelu pipase yii `git add`:
 
-```
+```bash
 git add Contributors.md
 ```
 
 oya dawon papop pelu pipase yi `git commit`:
 
-```
+```bash
 git commit -m "Add <oruko githubu account yin> to Contributors list"
 ```
 
@@ -92,7 +92,7 @@ yi `<oruko githubu account yin>` pada si oruko re.
 
 te pipase yi `git push`:
 
-```
+```bash
 git push origin <oruko eda ti e se>
 ```
 
@@ -124,6 +124,6 @@ Bayi jẹ ki a bẹrẹ pẹlu' idasi' t' awọn iṣẹ akanṣe miiran. A ti �
 
 ## Tutorial lilo 'miiran Irinṣẹ
 
-| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
+| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | --- | --- | --- | --- | --- | --- |
 | [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md) | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md) | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md) | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md) | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md) | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md) |
