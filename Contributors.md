@@ -1,6 +1,7 @@
 # Contributors
 
 - [Louis7363](https://github.com/louis7363)
+- [DeathScytheZ](https://github.com/DeathScytheZ)
 - [A N M Mashud](https://github.com/anmmashud)
 - [Zhen Liu](https://github.com/zh3nl)
 - [Chong Liu](https://github.com/lc87624)
