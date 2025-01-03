@@ -1,4 +1,5 @@
 # Contributors
+- Add [Nill_The_Alchemist](https://github.com/Nill-The-Alchemist/)
 - [Karim-M03](https://github.com/Karim-M03)
 - [Louis7363](https://github.com/louis7363)
 - [Dani Matuko](https://github.com/danimatuko)
