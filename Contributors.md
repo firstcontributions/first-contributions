@@ -5,6 +5,7 @@
 - [Zhen Liu](https://github.com/zh3nl)
 - [Chong Liu](https://github.com/lc87624)
 - [Harshit Joshi](https://github.com/harsh040206)
+- [Aditya Kumar Jha ](https://github.com/Aditya-myst)
 - [Sanjai Kumar R](https://github.com/sanjai451)
 - [Trevor Kibuba](https://github.com/kibuba-njihia)
 - [SumitThakur](https://github.com/SumitThakur1600)
