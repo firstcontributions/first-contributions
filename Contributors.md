@@ -994,6 +994,7 @@
 - [Milind Dhamu](https://github.com/milinddhamu)
 - [jorge zabbara](https://github.com/jorgezabbaram)
 - [Tony B. Nya](https://github.com/tonybnya)
+- [franchsli](https://github.com/franchsli)
 - [Luca Bersezio](https://github.com/lucabersezio)
 - [Mebanteidor M Syiem](https://github.com/teidorS)
 - [Sinchana Kumbale](https://github.com/sinchana-kumbale)
