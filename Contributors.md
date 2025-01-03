@@ -27,7 +27,7 @@
 - [Sanidhya Soni](https://github.com/sonisanidhya)
 - [Chibuzor Israel](https://github.com/pseudoeazy)
 - [Sumit Pandey](https://github.com/SumitPandey08)
-- [Rushikesh Jadhav] (https://github.com/Rushi543)
+- [Rushikesh Jadhav](https://github.com/Rushi543)
 - [Arindam Dinda](https://github.com/Arindam2003)
 - [EricccTaiwan](https://github.com/EricccTaiwan)
 - [Daiwiik Harihar](https://github.com/daiv09)
@@ -36,12 +36,12 @@
 - [Anaïs Gatard](https://github.com/AnaisG14)
 - [Jordan Atkins](https://github.com/Atkinss1)
 - [Raunit Arya](https://github.com/RaunitArya)
-- [Hemant] (https://github.com/l1emant/)
+- [Hemant](https://github.com/l1emant/)
 - [AureDev](https://github.com/AureDev)
 - [Akash Dahal](https://github.com/DARKAD10)
 - [Harry C](https://github.com/campbellharry)
   YoucefBoursali
-- [vinod jaina] (https://github.com/firstcontributions/first-contributions?tab=readme-ov-file)
+- [vinod jaina](https://github.com/firstcontributions/first-contributions?tab=readme-ov-file)
 - [Hetvi Shah]
 - [raj-opensource]
 - [rohithGana](https://github.com/Rohithgvmg)
@@ -56,9 +56,9 @@
 - [Weirdo-147](https://github.com/Weirdo-147)
 - [Akhila Sahithi](https://github.com/Akhila-Sahithi)
 [SrivastavaAman8604](https://github.com/SrivastavaAman8604)
-- [Zach Warmoth] (https://github.com/ZWarmoth)
+- [Zach Warmoth](https://github.com/ZWarmoth)
 - [pratheek2474](https://github.com/Pratheek2474) : Learning
-- [Issac-BK] (https://github.com/issaccodes) : Issac was here
+- [Issac-BK](https://github.com/issaccodes) : Issac was here
 - [lomus-hona](https://github.com/lhona01)
 - [Alexskald](https://github.com/jxuho)
 - [Rodrigo](https://github.com/Rdgistauf)
@@ -82,7 +82,7 @@
 - [Fabrice Pecot](https://github.com/FabriceAB1)
 - [kazuma](https://github.com/Mio-3)
 - [Vinothini Thangamani]( https://github.com/VinothiniSaravankumar)
-- [Saif Mohammed] (https://github.com/SaifMohammed22)
+- [Saif Mohammed](https://github.com/SaifMohammed22)
 - [Ryan Tham](https://github.com/ryanjrt)
 - [Ryan Gapp](https://github.com/ryan-gapp)
 - [Navreet Kaur](https://github.com/NavreetKB)
@@ -132,6 +132,7 @@
 - [Shankar-Balajee](https://github.com/Shankar-Balajee)
 - [amir asghar akbar mahaleh ghazian tapeh]
 - [stevee14]
+- Aayush Poudel (https://github.com/aayushhh44)
 - [misfit](https://github.com/slMiSFiT)
 - [Gilbert-Koom](https://github.com/Gilbert-Koom/)
 - [Shubhanjan](https://github.com/AnjanC0des)
@@ -141,7 +142,7 @@
 - [Wendell Oliveira](https://github.com/wendelloliiver)
 - [Ch-Umar-Aslam](https://github.com/CH-Umar-Aslam/)
 - [Sonum Jaggi](http://github.com/sonum02)
-- [Matt Bellardi] (https://github.com/met97)
+- [Matt Bellardi](https://github.com/met97)
 - [Thomas Sales](https://github.com/ThomasGSales)
 - [Inifome Eleluwor](https://github.com/Inifomeeo)
 - [Punnapareddy Bhaskar Rao](https://github.com/P-Bhaskar-Rao)
