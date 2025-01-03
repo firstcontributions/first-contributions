@@ -1991,6 +1991,7 @@
 - [NitroXen](https://github.com/NitroXen)
 - [arunachalam](https://github.com/arunachalam077/)
 - [Fellow-Banana](https://github.com/Fellow-Banana)
+- [Yi-An (Shirley) Lin](https://github.com/shirleylin39)
 - [AnesioSousa](https://github.com/AnesioSousa)
 - [Fábio Alves Gomes](https://github.com/FabioDevGomes)
 - [Mohit Srivastava](https://github.com/Mohit-Srivastava-Official)
