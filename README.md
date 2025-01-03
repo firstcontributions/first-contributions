@@ -49,6 +49,7 @@
 <kbd>[<img title="Wikang Filipino" alt="Wikang Filipino" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ph.svg" width="22">](translations/README.fil.md)</kbd>
 <kbd>[<img title="English (Pirate)" alt="English (Pirate)" src="https://firstcontributions.github.io/assets/Readme/pirate.png" width="22">](translations/README.en-pirate.md)</kbd>
 <kbd>[<img title="اُاردو" alt="اردو" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/pk.svg" width="22">](translations/README.ur.md)</kbd>
+<kbd>[<img title="Twi (Ghana)" alt="Twi (Ghana)" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/gh.svg" width="22">](translations/README.gh.md)</kbd>
 <kbd>[<img title="Polski" alt="Polski" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/pl.svg" width="22">](translations/README.pl.md)</kbd>
 <kbd>[<img title="Português (Portugal)" alt="Português (Portugal)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/pt.svg" width="22">](translations/README.pt-pt.md)</kbd>
 <kbd>[<img title="Русский язык" alt="Русский язык" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ru.svg" width="22">](translations/README.ru.md)</kbd>
@@ -83,7 +84,7 @@
 <kbd>[<img title="Turkmen" alt="Turkmen language" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/tm.svg" width="22">](translations/README.tm.md)</kbd>
 <kbd>[<img title="Ewe (TOGO)" alt="Ewe (TOGO)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/tg.svg" width="22">](translations/README.ewe.md)</kbd>
 <kbd>[<img title="አማርኛ" alt="አማርኛ" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/et.svg" width="22">](translations/README.et.md)</kbd>
-<kbd>[<img title="Kurdî" alt="Kurdî" src="https://upload.wikimedia.org/wikipedia/commons/b/be/Flag_of_Kurdistan.svg" width="22">](translations/README.kr.md)</kbd>
+<kbd>[<img title="Kurdî" alt="Kurdî" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Flag_of_Kurdistan.svg" width="22">](translations/README.kr.md)</kbd>
 <kbd>[<img title="Malagasy" alt="Malagasy" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/mg.svg" width="22">](translations/README.mg.md)</kbd>
 <kbd>[<img title="ភាសាខ្មែរ" alt="ភាសាខ្មែរ" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/kh.svg" width="22">](translations/README.kh.md)</kbd>
 <kbd>[<img title="Morocco" alt="Moroccan Darija" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ma.svg" width="22">](translations/README.ma.md)</kbd>
@@ -107,7 +108,7 @@ This will create a copy of this repository in your account.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
+Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button, then on SSH tab and then click the _copy to clipboard_ icon.
 
 Open a terminal and run the following git command:
 
@@ -150,7 +151,7 @@ git switch -c add-alonzo-church
 <details>
 <summary> <strong>If you get any errors using git switch, click here:</strong> </summary>
 
-If the error message "Git: ‘switch’ is not a git command. See ‘git –help’" appears, it's likely because you're using an older version of git.
+If the error message "Git: `switch` is not a git command. See `git –help`" appears, it's likely because you're using an older version of git.
 
 In this case, try to use `git checkout` instead:
 

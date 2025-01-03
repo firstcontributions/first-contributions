@@ -52,7 +52,7 @@ cd first-contributions
 Agora crie um _Branch_ usando o comando `git switch`:
 
 ```
-git switch -c <add-seu-nome>
+git switch -c <nome-da-sua-nova-branch>
 ```
 
 Por exemplo:
