@@ -41,6 +41,7 @@
   YoucefBoursali
 - [vinod jaina] (https://github.com/firstcontributions/first-contributions?tab=readme-ov-file)
 - [Hetvi Shah]
+- [raj-opensource]
 - [rohithGana](https://github.com/Rohithgvmg)
 - Lokesh
 - [AC](https://github.com/FortKnoxWasTaken)
