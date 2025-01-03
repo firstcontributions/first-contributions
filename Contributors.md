@@ -1,5 +1,5 @@
 # Contributors
-
+- [Karim-M03](https://github.com/Karim-M03)
 - [Louis7363](https://github.com/louis7363)
 - [Dani Matuko](https://github.com/danimatuko)
 - [DeathScytheZ](https://github.com/DeathScytheZ)
@@ -41,6 +41,7 @@
   YoucefBoursali
 - [vinod jaina] (https://github.com/firstcontributions/first-contributions?tab=readme-ov-file)
 - [Hetvi Shah]
+- [raj-opensource]
 - [rohithGana](https://github.com/Rohithgvmg)
 - Lokesh
 - [AC](https://github.com/FortKnoxWasTaken)
@@ -2059,7 +2060,7 @@
 - [Vedant Patel](https://github.com/Vedant-07)
 - [Arun N](https://github.com/arun-357)
 - [Neil Prabhu](https://github.com/NeilPrabhu)
--[Raghupathi](https://github.com/raghupathi321)
+- [Raghupathi](https://github.com/raghupathi321)
 - [Ahmed Wael](https://github.com/ahmed-wael2002)
 - [Adit Khandelwal](https://github.com/AditKhandelwal)
 - [Evan Perry](https://github.com/EvanPrograms)
@@ -2068,4 +2069,4 @@
 - [lemonexee](https://github.com/lemonexee)
 - [Alessandro Iannacone](https://github.com/alesiestu)
 - [Devesh Bervar](https://github.com/deveshbervar)
-
+- [Jorgy Sandoval](https://github.com/NickToonOver)
