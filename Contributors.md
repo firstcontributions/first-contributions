@@ -21,6 +21,7 @@
 - [Aditya Radadiya](https://github.com/RadadiyaAditya)
 - [Jefferson Huisa](https://github.com/j3ffh95)
 - [mrxc0de](https://github.com/mrxc0de)
+- [Sanidhya Soni](https://github.com/sonisanidhya)
 - [Chibuzor Israel](https://github.com/pseudoeazy)
 - [Sumit Pandey](https://github.com/SumitPandey08)
 - [Rushikesh Jadhav] (https://github.com/Rushi543)
