@@ -14,7 +14,7 @@
 - [sls-1](https://github.com/sls-1)
 - [Anurag Chaturvedi](https://github.com/anuragjcchaturvedi)
 - [Manas Mahajan](https://github.com/ManasMahajan2003)
-- [Su Nge Nyeint](https://github.com/sungenyeint)
+- [SNN](https://github.com/sungenyeint)
 <!-- - [abhijeeth m](https://github.com/abhijeeth-mantha) -->
 [Rushikesh Amale]
 - [Aditya Radadiya](https://github.com/RadadiyaAditya)
