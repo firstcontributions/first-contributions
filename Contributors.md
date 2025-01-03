@@ -62,6 +62,7 @@
 - [cloud-whisperer](https://github.com/cloud-whisperer)
 - [Disha520](https://github.com/Disha520)
 - [Daniel Guo](https://github.com/DiiGii)
+- [Farhan Ilyas](https://github.com/Farhan2001M)
   [Lovepreet Kaur](https://github.com/LovekUR)
 - [Navneet Yadav](https://github.com/navnt00)
 - [dylan-sacco](https://github.com/dylan-sacco)
@@ -2055,3 +2056,5 @@
 - [Evan Perry](https://github.com/EvanPrograms)
 - [crun geek](https://github.com/geekk8)
 - [Farzana Chowdhury](https://github.com/ChowdhuryFarzana)
+- [Pranay Karvi](https://github.com/pranaykarvi)
+
