@@ -1961,6 +1961,7 @@
 - [Chandan Ravi](https://github.com/chandanravic)
 - [Amit Luhar](https://github.com/dedsec995)
 - [Sumit Baranwal](https://github.com/Sumit-22)
+- [Amri Reza W.](https://github.com/AmZaDin14)
 - [Jikedao_yzc](https://github.com/yzc109)
 - [herman-gathege](https://github.com/Herman-Gathege)
 - [Paras]
