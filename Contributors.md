@@ -1853,6 +1853,7 @@
 - [jeevan-aj](https://github.com/jeevan-aj)
 - [shilinwang](https://github.com/crzwzy)
 - [Taufi](https://github.com/Taufi)
+- 
 - [Jack Sighton](https://github.com/JackBerezhnov)
 - [Ellis Franklin](https://github.com/ellfran-7)
 - [alekhine](https://github.com/Src0p)
@@ -2002,6 +2003,7 @@
 - [aaronrosema](https://github.com/aaronrosema)
   [jonathanc1923](https://github.com/jonathanc1923)
 - [NitroXen](https://github.com/NitroXen)
+- [MaximusDeimusMeridus](https://github.com/Maximo)
 - [arunachalam](https://github.com/arunachalam077/)
 - [Fellow-Banana](https://github.com/Fellow-Banana)
 - [Yi-An (Shirley) Lin](https://github.com/shirleylin39)
