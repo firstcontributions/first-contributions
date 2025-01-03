@@ -5,7 +5,7 @@
 
 # Prvi doprinos
 
-Ovaj projekat ima za cilj da pojednostavi i vodi početnike do njihovog prvog doprinosa. Ako želite da napravite vaš prvi doprinos, pratite korake ispod.  
+Ovaj projekat ima za cilj da pojednostavi i vodi početnike do njihovog prvog doprinosa. Ako želite da napravite vaš prvi doprinos, pratite korake ispod.
 
 _Ako nijeste navikli da koristite komandnu liniju, [evo tutorijala koji koristi GUI alatke.](#Tutorijali-koji-koriste-druge-alatke)_
 
@@ -24,7 +24,7 @@ Ovo će kreirati kopiju ovog repozitorijuma na vašem nalogu.
 <img  align="right"  width="300"  src="assets/clone.png"  alt="Klonirajte repozitorijum"  />
 
 Sada klonirajte repozitorijum na vašu mašinu. Idite na vaš GitHub profil, otvorite kopiju repozitorijuma, kliknite na dugme **code** i kliknite ikonicu *copy to clipboard*.
-  
+
 Otvorite terminal i unesite sledeću git komandu:
 
 ```
@@ -45,7 +45,7 @@ Umjesto `korisnicko-ime` napišite korisničko ime za vaš GitHub nalog. Na ovaj
 
 ## Kreiranje grane _(branch)_
 
-Prebacite se u radni direktorijum na vašem računaru (ukoliko već nijeste tu):  
+Prebacite se u radni direktorijum na vašem računaru (ukoliko već nijeste tu):
 
 ```
 cd first-contributions
@@ -57,24 +57,24 @@ Sada kreirajte granu koristeći komadu `git checkout`:
 git checkout -b ime-vase-grane
 
 ```
- 
+
 Na primjer:
-  
+
 ```
 git checkout -b add-nikola-popovic
 ```
 
-(Ime grane ne mora sadržati riječ _add_, ali je to preporučljivo jer je poenta ove grane da se doda vaše ime na listu kontributora.) 
+(Ime grane ne mora sadržati riječ _add_, ali je to preporučljivo jer je poenta ove grane da se doda vaše ime na listu kontributora.)
 
 ## Napravite potrebne promjene i potvrdite ih
-  
+
 Sada otvorite fajl `Contributors.md` u tekst editoru i dodajte vaše ime. Nemojte dodati svoje ime na početku ili na kraju fajla. Stavite ga bilo gdje između. Sada, sačuvajte fajl.
-  
+
 <img  align="right"  width="450"  src="assets/git-status.png"  alt="git status"  />
 
-Ako se vratite na radni direktorijum i izvršite komandu `git status`, vidjećete da su prisutne promjene.  
+Ako se vratite na radni direktorijum i izvršite komandu `git status`, vidjećete da su prisutne promjene.
 
-Dodajte te promjene u granu koju ste kreirali u prethodnim koracima koristeći komandu `git add`: 
+Dodajte te promjene u granu koju ste kreirali u prethodnim koracima koristeći komandu `git add`:
 
 ```
 git add Contributors.md
@@ -95,7 +95,7 @@ Pošaljite izmjene koje ste napravili u repozitorijum na GitHub-u koristeći kom
 ```
 git push origin <add-ime-vase-grane>
 ```
-  
+
 Umjesto `<add-ime-vase-grane>` napišite ime grane koju ste kreirali ranije.
 
 ## Pošaljite vaše izmjene na provjeru
@@ -109,11 +109,11 @@ Sada pošaljite vaš pull request.
 <img  style="float: right;"  src="assets/submit-pull-request.png"  alt="Pošaljite pull request"  />
 
 Uskoro, ja ću spojiti promjene koje ste napravili sa master granom repozitorijuma. Dobićete mejl potvrde kada se grane spoje.
-  
+
 ## Šta dalje?
- 
-Čestitamo! Upravo ste izvršili standradni _fork -> clone -> edit -> pull request_ proces koji ćete često gledati dok doprinosite kodu. 
-  
+
+Čestitamo! Upravo ste izvršili standradni _fork -> clone -> edit -> pull request_ proces koji ćete često gledati dok doprinosite kodu.
+
 Proslavite vaš doprinos i podijelite ga sa prijateljima i pratiocima kroz [stranicu](https://firstcontributions.github.io/#social-share).
 
 Ukoliko vam je potrebna pomoć ili imate neka pitanja, možete da se priključite našem [Slack timu](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
@@ -124,6 +124,6 @@ Sada možete početi da doprinosite i drugim projektima. Sastavili smo listu pro
 
 ## Tutorijali koji koriste druge alatke
 
-| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
+| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | --- | --- | --- | --- | --- | --- |
 | [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md) | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md) | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md) | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md) | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md) | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md) |

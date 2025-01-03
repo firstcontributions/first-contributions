@@ -18,15 +18,15 @@ Kusoma makala na mafunzo ya kutazama yanaweza kusaidia, lakini ni nini bora zaid
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 
-## Futa hifadhi hii
+## Vuta hifadhi hii
 
-Futa repo hii kwa kubonyeza kifungo cha fakia juu ya ukurasa huu. Hii itaunda nakala ya hifadhi hii katika akaunti yako.
+Vuta repo hii kwa kubonyeza kifungo cha fakia juu ya ukurasa huu. Hii itaunda nakala ya hifadhi hii katika akaunti yako.
 
 ## Weka chumba
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Sasa fungia repo iliyofungwa kwa mashine yako. Nenda kwenye akaunti yako ya GitHub, kufungua repo iliyofungwa, bonyeza kitufe cha kamba na kisha bofya nakala kwenye clipboard.
+Sasa nakala repo iliyovutwa kwa mashine yako. Nenda kwenye akaunti yako ya GitHub, fungua repo iliyovutwa, bonyeza kitufe cha kamba na kisha bofya nakala kwenye clipboard.
 
 
 Fungua terminal na uendesha amri yafuatayo:
@@ -45,7 +45,7 @@ Kwa mfano:
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 
-wapi `this-is-you` jina lako la mtumiaji GitHub. Hapa unakili nakala ya maudhui ya kwanza ya michango kwenye GitHub kwenye kompyuta yako.
+hapo `this-is-you`tumia jina lako la mtumiaji GitHub. Hapa unakili nakala ya maudhui ya kwanza ya michango kwenye GitHub kwenye kompyuta yako.
 
 ## Unda tawi
 
@@ -55,7 +55,7 @@ Badilisha kwenye saraka ya uhifadhi kwenye kompyuta yako (ikiwa huko tayari):
 cd first-contributions
 ```
 
-Sasa uunda tawi kwa kutumia git `checkout` amri:
+Sasa unda tawi kwa kutumia git `checkout` amri:
 
 
 ```
@@ -129,6 +129,6 @@ Sasa hebu tuanze uanze na kuchangia kwenye miradi mingine. Tumeandika orodha ya 
 
 ## Mafundisho Kutumia Zana Zingine
 
-| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
+| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | --- | --- | --- | --- | --- | --- |
 | [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md) | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md) | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md) | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md) | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md) | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md) |
