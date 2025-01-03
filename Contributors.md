@@ -1950,6 +1950,7 @@
 - [DIALLO Elhadj Alhousseiny](https://github.com/Tangama-224)
 - [FEI_TENG](My first contribution: https://github.com/FEITENG-0828/)
 - [NyKot1ne](https://github.com/NyKot1ne)
+- [menachem mintzberg](https://github.com/m-minz)
 - [juliencastanier](https://github.com/juliencastanier)
 - [kecirimickael](https://github.com/mkg1t)
 - [OlivierDenoix](https://github.com/OlivierDenoix)
@@ -2048,3 +2049,4 @@
 - [Ahmed Wael](https://github.com/ahmed-wael2002)
 - [Adit Khandelwal](https://github.com/AditKhandelwal)
 - [crun geek](https://github.com/geekk8)
+
