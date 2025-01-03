@@ -15,6 +15,7 @@
 - [Manas Mahajan](https://github.com/ManasMahajan2003)
 <!-- - [abhijeeth m](https://github.com/abhijeeth-mantha) -->
 [Rushikesh Amale]
+- [Aditya Radadiya](https://github.com/RadadiyaAditya)
 - [Jefferson Huisa](https://github.com/j3ffh95)
 - [mrxc0de](https://github.com/mrxc0de)
 - [Chibuzor Israel](https://github.com/pseudoeazy)
