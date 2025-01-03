@@ -6,6 +6,7 @@
 - [Chong Liu](https://github.com/lc87624)
 - [Harshit Joshi](https://github.com/harsh040206)
 - [Sanjai Kumar R](https://github.com/sanjai451)
+- [Trevor Kibuba](https://github.com/kibuba-njihia)
 - [SumitThakur](https://github.com/SumitThakur1600)
 - [CaraMcG](https://github.com/caraMcG)
 - [Arnav Joshi](https://github.com/Arnav020)
