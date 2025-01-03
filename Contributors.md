@@ -15,8 +15,9 @@
 - [Arnav Joshi](https://github.com/Arnav020)
 - [Vedant Pillai](https://github.com/Codewith-Vedant)
 - [sls-1](https://github.com/sls-1)
-- [Anurag Chaturvedi](https://github.com/anuragjcchaturvedi) 
+- [Anurag Chaturvedi](https://github.com/anuragjcchaturvedi)
 - [Manas Mahajan](https://github.com/ManasMahajan2003)
+- [SNN](https://github.com/sungenyeint)
 <!-- - [abhijeeth m](https://github.com/abhijeeth-mantha) -->
 [Rushikesh Amale]
 - [Aditya Radadiya](https://github.com/RadadiyaAditya)
@@ -157,7 +158,7 @@
 - [hectoru10](https://github.com/Hectoru10)
 - [Ahorts](https://github.com/Ahorts)
 - [widespectrum](https://github.com/widespctr)
-- [rinujohn](https://github.com/rinujohn) 
+- [rinujohn](https://github.com/rinujohn)
 - [lennyhurni](https://github.com/lennyhurni)
 - [AShotOfCode]
 - [Ullas Arwan](https://github.com/ullaslgd)
