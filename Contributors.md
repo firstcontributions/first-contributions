@@ -383,6 +383,7 @@
 - Pooja
 - Anirudh
 - DrFrank101
+- [leandroxd](https://github.com/leamequiell)
 - [drak-o](https://github.com/drak-o)
 - [Michael Gabriel](https://github.com/maranatha443)
 - [SHP](https://github.com/Su-Hnin)
