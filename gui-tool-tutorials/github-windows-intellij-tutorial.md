@@ -31,9 +31,9 @@ Most top-level GitHub Repos (i.e. ones not forked from any other repo) have a sm
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-The next step is to clone your repo down to your machine so you can begin making changes. IntelliJ IDEA needs the URL of your repo, so click the "clone" button and then click the "copy to clipboard" icon.
+The next step is to clone your repo down to your machine, so you can begin making changes. IntelliJ IDEA needs the URL of your repo, so click the "clone" button and then click the "copy to clipboard" icon.
 
-**CAREFUL:** One mistake that new contributors often make is to clone the repo you forked _from_ rather than cloning your repo. Check your browser's address bar and make sure you are cloning your repo.
+**CAREFUL:** One common mistake that new contributors often make is to clone the repo you forked _from_ rather than cloning your repo. Check your browser's address bar and make sure you are cloning your repo.
 
 Now open up IntelliJ IDEA. 
 

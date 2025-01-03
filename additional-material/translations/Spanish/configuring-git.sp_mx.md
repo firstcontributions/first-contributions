@@ -1,6 +1,6 @@
 # Configurando Git
 
-La primera vez que intentes comprometerte usando git, deberías obtener uno como este:
+La primera vez que intentes comprometerte usando Git, deberías obtener uno como este:
 
 ```bash
 $ git commit
@@ -15,15 +15,15 @@ Para configurar su identidad de cuenta predeterminada.
 Omita "--global" para establecer la identidad solo en ese repositorio
 ```
 
-Git necesita saber quién es usted al crear una confirmación. Cuando trabajas en colaboración, deberías poder ver quién modificó qué partes del proyecto y cuándo, por lo que git está diseñado para crear confirmaciones vinculadas a un nombre y correo electrónico.
+Git necesita saber quién eres tú al crear una confirmación. Cuando trabajas en colaboración, deberías poder ver quién modificó qué partes del proyecto y cuándo, por lo que Git está diseñado para crear confirmaciones vinculadas a un nombre y correo electrónico.
 
 Hay varias formas de proporcionar el comando `git commit` con su correo electrónico y nombre. Veremos algunos de ellos a continuación.
 
 
 ### Configuración global
-Cuando almacena algo en la configuración global, es accesible en todos los sistemas y repositorios en los que trabaja. Esta es la forma principal y funciona para la mayoría de los casos de uso.
+Cuando almacenas algo en la configuración global, es accesible en todos los sistemas y repositorios en los que trabajas. Esta es la forma principal y funciona para la mayoría de los casos de uso.
 
-Para almacenar algo en la configuración use el comando `config` de la siguiente manera:
+Para almacenar algo en la configuración usa el comando `config` de la siguiente manera:
 
 `$ git config --global <variable name> <value>`
 
@@ -36,7 +36,7 @@ $ git config --global user.name "Su nombre"
 
 ### Configuración del repositorio
 
-Como su nombre lo indica, estas configuraciones apuntan a su repositorio actual. Si desea comprometerse con un repositorio específico, por ejemplo, un proyecto relacionado con el trabajo, con el correo electrónico de su empresa, puede utilizar este método.
+Como su nombre lo indica, estas configuraciones apuntan a su repositorio actual. Si deseas comprometerte con un repositorio específico, por ejemplo, un proyecto relacionado con el trabajo, con el correo electrónico de tu empresa, puedes utilizar este método.
 
 Para almacenar algo en la configuración del repositorio, usa el comando `config` omitiendo el indicador `--global`, así:
 
@@ -53,7 +53,7 @@ $ git config user.name "Tu nombre"
 
 Este tipo de configuración solo tiene como objetivo el comando actual. Todos los comandos de git usan argumentos `-c` antes del verbo de acción para establecer datos de configuración temporales
 
-Para almacenar algo en la configuración de la línea de comando. Ejecute su comando de la siguiente manera:
+Para almacenar algo en la configuración de la línea de comando. Ejecuta su comando de la siguiente manera:
 
 `$ git -c <variable-1>=<value> -c <variable-2>=<value> <command>`
 

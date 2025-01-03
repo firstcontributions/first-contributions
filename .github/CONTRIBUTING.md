@@ -32,7 +32,7 @@ If you're making changes to a translation, please request a review from our prev
 | Galego | [Galician](../translations/README.gl.md) | [<img width="100" src="https://avatars1.githubusercontent.com/u/16878891?s=460&v=4" alt="@siderio2" />](https://github.com/siderio2) |
 | Greek | [Greek](../translations/README.gr.md) |  [<img width="100" src="https://avatars.githubusercontent.com/u/63111742?v=4" alt="@adreaskar" />](https://github.com/adreaskar)   [<img width="100" src="https://avatars.githubusercontent.com/u/19299306?v=4" alt="@porfanid" />](https://github.com/porfanid)  |
 | Gujarati | [Gujarati](../translations/README.guj.md) | [<img width="100" src="https://avatars2.githubusercontent.com/u/38134283?s=460&v=4" alt="@smitgajjar" />](https://github.com/smitgajjar) [<img width="100" src="https://avatars.githubusercontent.com/u/16669911?v=4" alt="@kaushalgosaliya5" />](https://github.com/kaushalgosaliya5/) |
-| Hausa | [Hausa](../translations/README.ha.md) | []() |
+| Hausa | [Hausa](../translations/README.hau.md) | []() |
 | עברית | [Hebrew](../translations/README.hb.md) | [<img width="100" src="https://avatars1.githubusercontent.com/u/23402988?s=460&v=4" alt="@TomerPacific" />](https://github.com/TomerPacific) |
 | हिन्दी | [Hindi](../translations/README.hi.md) | [<img width="100" src="https://avatars2.githubusercontent.com/u/4654382?s=460&v=4" alt="@arshadkazmi42" />](https://github.com/arshadkazmi42) [<img width="100" src="https://avatars2.githubusercontent.com/u/7047079?s=460&v=4" alt="@sara-02" />](https://github.com/sara-02) [<img width="100" src="https://avatars.githubusercontent.com/u/20799404?v=4" alt="shrut1996" />](https://github.com/shrut1996) |
 | Chhattisgarhi | [Chhattisgarhi](../translations/README.hne.md) | [<img width="100" src="https://avatars2.githubusercontent.com/u/54806739?s=400&v=4" alt="@pradyyadav" />](https://github.com/pradyyadav) |
@@ -58,7 +58,7 @@ If you're making changes to a translation, please request a review from our prev
 | Nederlandse | [Dutch](../translations/README.nl.md) | [<img width="100" src="https://avatars0.githubusercontent.com/u/3897815?s=460&v=4" alt="@MJMajoor" />](https://github.com/MJMajoor) |
 | Norsk | [Norwegian](../translations/README.no.md) | []() |
 | नेपाली | [Nepali](../translations/README.np.md) | [<img width="100" src="https://avatars2.githubusercontent.com/u/2145263?s=460&v=4" alt="@milap-neupane" />](https://github.com/milap-neupane) |
-| ਪਨਜਾਬੀ | [Punjabi](../translations/README.pa.md) | []() |
+| ਪੰਜਾਬੀ | [Punjabi](../translations/README.pa.md) | []() |
 | Polski | [Polish](../translations/README.pl.md) | [<img width="100" src="https://avatars0.githubusercontent.com/u/3372341?s=460&v=4" alt="@P1X3L0V4" />](https://github.com/P1X3L0V4) [<img width="100" src="https://avatars2.githubusercontent.com/u/1311358?v=4" alt="@mikowhy" />](https://github.com/mikowhy) |
 | Português | [Portugues (Portugal)](../translations/README.pt-pt.md) | [<img width="100" src="https://avatars.githubusercontent.com/u/36346554?v=4" alt="@RamosCSV" />](https://github.com/RamosCSV) |
 | Português do Brasil | [Portugues (Brazil)](../translations/README.pt-br.md) | [<img width="100" src="https://avatars2.githubusercontent.com/u/10578275?s=460&v=4" alt="@OtacilioN" />](https://github.com/OtacilioN) [<img width="100" src="https://avatars2.githubusercontent.com/u/47339825?s=460&v=4" alt="@gabrielsanttana" />](https://github.com/gabrielsanttana)|

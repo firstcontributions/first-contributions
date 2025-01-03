@@ -13,13 +13,13 @@
 በዚህ ገጽ ላይኛው ክፍል ላይ ያለውን የfork button ጠቅ በማድረግ ይህንን ማከማቻ fork ያድርጉት።
 ይህ በአንተ account ውስጥ የዚህን repository ቅጂ ይፈጥራል።
 
-## የማከማቻውን ቅጂ ይፍጠሩ
+## የማከማቻውን ተመሳሳይ ይፍጠሩ
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
 አሁን fork የተደረገውን ማከማቻ (repository) ቅጂ በማሽንዎ(በኮምፒውተርዎ) ይፍጥሩ። ወደ GitHub (account)መለያዎ ይሂዱ፤ fork የተደረገውን ማከማቻ ይክፈቱ፤ ኮድ የሚለውን button ጠቅ ያድርጉ እና  ከዚያ *ወደ clipboard ቅዳ* የሚለውን ጠቅ ያድርጉ::
 
-ተርሚናል ይክፈቱ እና የሚከተለውን የgit ትዕዛዝ ያሩጡት
+ተርሚናል ይክፈቱ እና የሚከተለውን የgit ትዕዛዝ run
 
 ```bash
 git clone "የቀዱትን url"
@@ -95,10 +95,10 @@ git push -u origin የእርስዎ-ቅርንጫፍ-ስም
 
 ```
 
-ቀደም ብለው በፈጠሩት የቅርንጫፍ ስም 'የእርስዎ-ቅርንጫፍ-ስም' የሚለውን ይተኩ።
+ቀደም ብለዉ በፈጠሩት የቅርንጫፍ ስም 'የእርስዎን-ቅርንጫፍ-ስም'ን ይትኩ።
 
 <details>
-<summary> <strong>በመግፋት ላይ ማንኛውም ስህተት ካጋጠሞት ፤ እዚህ ጠቅ ያድርጉ:</strong> </summary>
+<summary> <strong>በመግፋት ላይ ማንኛውም ስህተት ካጋጠሞት ፤ እዚህ ጠቅ ያድርግ:</strong> </summary>
 
 - Authentication Error
 <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
@@ -122,7 +122,7 @@ Go to [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-t
 
 ## ከዚህስ ወዴት ልሂድ?
 
-እንኳን ደስ ያሎት! ልክ እንደ አስተዋጽዖ አበርካች የሚያጋጥሙትን መደበኛ *fork -> clone -> edit-> pull request* የስራ ፍሰትን አጠናቀዋል!
+እንኳን ደስ ያሎዎት! ልክ እንደ አስተዋጽዖ አበርካች የሚያጋጥሙትን መደበኛ _fork -> clone -> አርትዕ -> የመሳብ ጥያቄ_ የስራ ፍሰትን አጠናቀዋል!
 
 አስተዋጾዎን  ያጣጣጥሙ እና ወደ ድር በመሄድ ለጓደኞችዎ እና ተከታዮችዎ ያካፍሉ።(https://firstcontributions.github.io/#social-share).
 
@@ -134,13 +134,13 @@ Go to [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-t
 
 ## የሌሎች መሳሪያዎች አጠቃቀም አጋዥ ስልጠናዎች
 
-| <a href="gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
-| --- | --- | --- | --- | --- | --- |
-| https://www.notion.so/gui-tool-tutorials/github-desktop-tutorial.md | https://www.notion.so/gui-tool-tutorials/github-windows-vs2017-tutorial.md | https://www.notion.so/gui-tool-tutorials/gitkraken-tutorial.md | https://www.notion.so/gui-tool-tutorials/github-windows-vs-code-tutorial.md | https://www.notion.so/gui-tool-tutorials/sourcetree-macos-tutorial.md | https://www.notion.so/gui-tool-tutorials/github-windows-intellij-tutorial.md |
+| <a href="gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [GitHub Desktop](gui-tool-tutorials/github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](gui-tool-tutorials/github-windows-vs2017-tutorial.md)                                                                                                                          | [GitKraken](gui-tool-tutorials/gitkraken-tutorial.md)                                                                                                                                        | [Visual Studio Code](gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                                                  | [Atlassian Sourcetree](gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                                      | [IntelliJ IDEA](gui-tool-tutorials/github-windows-intellij-tutorial.md)                                                                                                                                                          |
 
 <p>ይህ ፕሮጀክት የሚደገፈው በ:</p>
 <p>
-<a href="https://www.digitalocean.com/">
-<img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_horizontal_blue.svg" width="201px">
-</a>
+  <a href="https://www.digitalocean.com/">
+    <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_horizontal_blue.svg" width="201px">
+  </a>
 </p>
