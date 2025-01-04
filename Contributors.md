@@ -105,6 +105,7 @@
 - [aqeelabpro](https://github.com/aqeelabpro)
 - Bandish Patel.
 - [gyanchandkabra](https://github.com/gyanchandkabra)
+- [benHitt] (https://github.com/benHitt123)
 - [uzuraDev](https://github.com/uzuraDev)
 - [Eugene Chia](https://github.com/eugenechia)
 - [oogway-x3t](https://github.com/oogway-x3t)
