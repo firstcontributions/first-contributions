@@ -25,7 +25,6 @@
 - [Anurag Chaturvedi](https://github.com/anuragjcchaturvedi)
 - [Manas Mahajan](https://github.com/ManasMahajan2003)
 - [SNN](https://github.com/sungenyeint)
-<!-- - [abhijeeth m](https://github.com/abhijeeth-mantha) -->
 [Rushikesh Amale]
 - [Aditya Radadiya](https://github.com/RadadiyaAditya)
 - [Jefferson Huisa](https://github.com/j3ffh95)
