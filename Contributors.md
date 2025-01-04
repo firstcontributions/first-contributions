@@ -2100,5 +2100,6 @@
 - [Jorgy Sandoval](https://github.com/NickToonOver)
 - [Mafer Rodriguez] (https://github.com/MaferRod)
 - [SW] (https://github.com/skwada)
+- [Tushar] (https://github.com/Tushar-92)
 - [yahange] (https://github.com/yahange)
 - [Jian Yang](https://github.com/HARRY-JUSTHARRY)
