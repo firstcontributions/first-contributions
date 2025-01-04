@@ -158,6 +158,7 @@
 - [Sardorbek](https://github.com/Sardorbek-Kuvondikov)
 - [Wendell Oliveira](https://github.com/wendelloliiver)
 - [Ch-Umar-Aslam](https://github.com/CH-Umar-Aslam/)
+- [BrennerBK](https://github.com/BrennerBK)
 - [Sonum Jaggi](http://github.com/sonum02)
 - [Matt Bellardi](https://github.com/met97)
 - [Thomas Sales](https://github.com/ThomasGSales)
