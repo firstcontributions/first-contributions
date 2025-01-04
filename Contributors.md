@@ -12,6 +12,7 @@
 - [Sanjai Kumar R](https://github.com/sanjai451)
 - [Trevor Kibuba](https://github.com/kibuba-njihia)
 - [SumitThakur](https://github.com/SumitThakur1600)
+- [SaniyaSayyed](https://github.com/saniya-154)
 - [CaraMcG](https://github.com/caraMcG)
 - [Arnav Joshi](https://github.com/Arnav020)
 - [Vedant Pillai](https://github.com/Codewith-Vedant)
