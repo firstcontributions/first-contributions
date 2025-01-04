@@ -287,6 +287,7 @@
 - [ekadet](https://github.com/ekadetov)
 - [Gitrhyme](https://github.com/gitrhyme)
 - [Jide Falaki](https://github.com/jidefal)
+- [Evan Rhea] (https://github.com/MegaSF)
 - [andev77](https://github.com/AnDev77)
 - [karim1safan](https://github.com/karim1safan)
 - [Kevin Hu](https://github.com/sijun-kevin-hu)
