@@ -1934,6 +1934,7 @@
 - [Micah Hack](https://github.com/MicahHack)
 - [agergoni](https://github.com/agergoni)
 - [Lumbini Tambat](https://github.com/Alat07)
+- [Léo Vitor](https://github.com/devleov/)
 - [Soumya Makkar](https://github.com/soumyamakkar)
 - [Burak_Altun](https://github.com/mburakaltun)
 - [Edgit G](https://github.com/flame0618)
