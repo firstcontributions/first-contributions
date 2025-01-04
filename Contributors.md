@@ -840,6 +840,7 @@
 - [stjepanDeveloper](https://github.com/stjepanDeveloper)
 - [romvcarlos](https://github.com/romvcarlos)
 - [Karsy](https://github.com/karsyz)
+- [Emelie](https://github.com/eemmeelliiee)
 - [MatK](https://github.com/mat-kop)
 - [Sandesh KV](https://github.com/SandeshAmin)
 - [Nikolay Gusev](https://github.com/TankistPro)
