@@ -2095,3 +2095,4 @@
 - [Jorgy Sandoval](https://github.com/NickToonOver)
 - [Mafer Rodriguez] (https://github.com/MaferRod)
 - [SW] (https://github.com/skwada)
+- [Tushar Singh] (https://github.com/Tushar-92)
