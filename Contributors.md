@@ -12,6 +12,7 @@
 - [Sanjai Kumar R](https://github.com/sanjai451)
 - [Trevor Kibuba](https://github.com/kibuba-njihia)
 - [SumitThakur](https://github.com/SumitThakur1600)
+- [SaniyaSayyed](https://github.com/saniya-154)
 - [CaraMcG](https://github.com/caraMcG)
 - [Arnav Joshi](https://github.com/Arnav020)
 - [Vedant Pillai](https://github.com/Codewith-Vedant)
@@ -82,6 +83,7 @@
 - [AhmedRediwan](https://github.com/ahmed12-dev)
 - [Erpipemio](https://github.com/Erpipemio)
 - [Fabrice Pecot](https://github.com/FabriceAB1)
+- [Ravi](https://github.com/raviprakash7367)
 - [kazuma](https://github.com/Mio-3)
 - [Vinothini Thangamani]( https://github.com/VinothiniSaravankumar)
 - [Saif Mohammed](https://github.com/SaifMohammed22)
@@ -100,6 +102,7 @@
 - [Sankalp Yerigeri](https://github.com/SankalpYerigeri)
 - [Peleg Ben Barak](https://github.com/peleg-bb)
 - [gaikwadyash905](https://github.com/gaikwadyash905) : My First Contribution, looking forward for more..
+- [sarthakpawar](https://github.com/sarthak2477)
 - [isaacrea](https://github.com/isaacrea)
 - [Swapneel_Singh](https://github.com/swapneelsingh) : Just the beginning..
 - [aqeelabpro](https://github.com/aqeelabpro)
@@ -413,6 +416,7 @@
 - [Michael Gabriel](https://github.com/maranatha443)
 - [SHP](https://github.com/Su-Hnin)
 - [Arjit shandilya](https://github.com/arjitshandilya)
+- [Hari chandra prasad](https://github.com/harichandra1)
 - [LoneWarrior147]
 - [ITSMijaiL](https://github.com/ITSMijaiL)
 - [Karnam Veerendra Prasad](https://github.com/Veerendra-Prasad)
@@ -455,6 +459,7 @@
 - [Ernest Muli](https://github.com/kunmuli)
 - [Cole Oliva](https://github.com/ColeOliva)
 - [m4tej](https://github.com/m4tej241)
+- [Afham Irfan](https://github.com/auth-Afham)
 - [Auwalu Hamza](https://github.com/afhamu)
 - [Guilherme Andrade](https://github.com/ZeroRBK)
 - [Moulya.K](https://github.com/MoulyaK2005)
@@ -2096,3 +2101,5 @@
 - [Mafer Rodriguez] (https://github.com/MaferRod)
 - [SW] (https://github.com/skwada)
 - [Tushar] (https://github.com/Tushar-92)
+- [yahange] (https://github.com/yahange)
+- [Jian Yang](https://github.com/HARRY-JUSTHARRY)
