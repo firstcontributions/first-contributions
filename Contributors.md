@@ -2129,3 +2129,4 @@
 - [David Tierney] (https://github.com/drtierney)
 - [Aanand] (https://github.com/aanand3)
 - [Code-JL](https://github.com/Code-JL) - A developer interested in all programming, currently working with C++ on inventory management projects
+- [Cristian de la Hoz](https://github.com/cristiandelahooz)
