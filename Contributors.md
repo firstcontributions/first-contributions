@@ -131,6 +131,7 @@
 - [Charulekha P](https://github.com/charulekha-pandian)
 - [aayamrajshakya](https://github.com/aayamrajshakya)
 - [Vaibhav0725](https://github.com/vaibhav0725)
+- [Vardararo](https://github.com/Vardararo)
 - Namu
 - [meenakshiruia](https://github.com/meenakshiruia)
 - [RomaniukNatalia](https://github.com/RomaniukNatalia)
