@@ -18,6 +18,7 @@
 - [SaniyaSayyed](https://github.com/saniya-154)
 - [CaraMcG](https://github.com/caraMcG)
 - [Arnav Joshi](https://github.com/Arnav020)
+- [Lalit Khokhar](https://github.com/lalitkhokhar)
 - [Vedant Pillai](https://github.com/Codewith-Vedant)
 - [sls-1](https://github.com/sls-1)
 - [Anurag Chaturvedi](https://github.com/anuragjcchaturvedi)
