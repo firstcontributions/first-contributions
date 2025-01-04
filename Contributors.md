@@ -14,6 +14,7 @@
 - [Gayatri](https://github.com/gayatriiv)
 - [Sanjai Kumar R](https://github.com/sanjai451)
   [Chuks Stephen](https://github.com/stephenchuks)
+- [CamiloRodriguezDev](https://github.com/CamiloRodriguezDev)
 - [Trevor Kibuba](https://github.com/kibuba-njihia)
 - [SumitThakur](https://github.com/SumitThakur1600)
 - [SaniyaSayyed](https://github.com/saniya-154)
