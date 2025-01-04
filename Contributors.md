@@ -2094,3 +2094,4 @@
 - [Devesh Bervar](https://github.com/deveshbervar)
 - [Jorgy Sandoval](https://github.com/NickToonOver)
 - [Mafer Rodriguez] (https://github.com/MaferRod)
+- [SW] (https://github.com/skwada)
