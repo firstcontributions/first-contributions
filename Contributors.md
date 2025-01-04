@@ -12,6 +12,7 @@
 - [Aditya Kumar Jha ](https://github.com/Aditya-myst)
 - [Gayatri](https://github.com/gayatriiv)
 - [Sanjai Kumar R](https://github.com/sanjai451)
+  [Chuks Stephen](https://github.com/stephenchuks)
 - [Trevor Kibuba](https://github.com/kibuba-njihia)
 - [SumitThakur](https://github.com/SumitThakur1600)
 - [SaniyaSayyed](https://github.com/saniya-154)
