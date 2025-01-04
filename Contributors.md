@@ -10,6 +10,7 @@
 - [Chong Liu](https://github.com/lc87624)
 - [Harshit Joshi](https://github.com/harsh040206)
 - [Aditya Kumar Jha ](https://github.com/Aditya-myst)
+- [Sargunesh](https://github.com/sargunesh25)
 - [Gayatri](https://github.com/gayatriiv)
 - [Sanjai Kumar R](https://github.com/sanjai451)
   [Chuks Stephen](https://github.com/stephenchuks)
