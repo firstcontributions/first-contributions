@@ -2096,7 +2096,7 @@
 - [Alessandro Iannacone](https://github.com/alesiestu)
 - [Devesh Bervar](https://github.com/deveshbervar)
 - [Jorgy Sandoval](https://github.com/NickToonOver)
-- [Mafer Rodriguez](https://github.com/MaferRod)
-- [SW](https://github.com/skwada)
+- [Mafer Rodriguez] (https://github.com/MaferRod)
+- [SW] (https://github.com/skwada)
 - [yahange](https://github.com/yahange)
 - 
