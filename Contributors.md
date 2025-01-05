@@ -81,6 +81,7 @@
 - [tuioe](https://github.com/tuioe5679)
 - [cloud-whisperer](https://github.com/cloud-whisperer)
 - [Disha520](https://github.com/Disha520)
+- [Priyanshu Walia](https://github.com/priyanshuwalia)
 - [Daniel Guo](https://github.com/DiiGii)
 - [Farhan Ilyas](https://github.com/Farhan2001M)
   [Lovepreet Kaur](https://github.com/LovekUR)
