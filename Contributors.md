@@ -1948,6 +1948,7 @@
 - [Rohan Noronha](https://github.com/ro23op)
 - [Babouche](https://github.com/babouche03)
 - [JamesCicada](https://github.com/JamesCicada)
+- [Swapnil Bokade](https://github.com/swapsrb)
 - [Nathan Goebel dit Reddacted](https://github.com/Nathan-Goebel-Reddacted)
 - [Emerson Johnson](https://github.com/lbjmsu)
 - [Marta Laveda](https://github.com/MartaLB95)
