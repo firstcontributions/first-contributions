@@ -1,4 +1,5 @@
 # Contributors
+
 - Add [Nill_The_Alchemist](https://github.com/Nill-The-Alchemist/)
 - [siddiqueahmk](https://github.com/siddiqueahmk)
 -[Shashank Sinha](https://github.com/cbsinha)
@@ -28,8 +29,8 @@
 - [Anurag Chaturvedi](https://github.com/anuragjcchaturvedi)
 - [Manas Mahajan](https://github.com/ManasMahajan2003)
 - [SNN](https://github.com/sungenyeint)
-<!-- - [abhijeeth m](https://github.com/abhijeeth-mantha) -->
-[Rushikesh Amale]
+  <!-- - [abhijeeth m](https://github.com/abhijeeth-mantha) -->
+  [Rushikesh Amale]
 - [Aditya Radadiya](https://github.com/RadadiyaAditya)
 - [Jefferson Huisa](https://github.com/j3ffh95)
 - [mrxc0de](https://github.com/mrxc0de)
@@ -68,7 +69,7 @@
 - [Vittorio Garretto](https://github.com/VittorioGarretto)
 - [Weirdo-147](https://github.com/Weirdo-147)
 - [Akhila Sahithi](https://github.com/Akhila-Sahithi)
-[SrivastavaAman8604](https://github.com/SrivastavaAman8604)
+  [SrivastavaAman8604](https://github.com/SrivastavaAman8604)
 - [Zach Warmoth](https://github.com/ZWarmoth)
 - [pratheek2474](https://github.com/Pratheek2474) : Learning
 - [Issac-BK](https://github.com/issaccodes) : Issac was here
@@ -97,7 +98,7 @@
 - [Fabrice Pecot](https://github.com/FabriceAB1)
 - [Ravi](https://github.com/raviprakash7367)
 - [kazuma](https://github.com/Mio-3)
-- [Vinothini Thangamani]( https://github.com/VinothiniSaravankumar)
+- [Vinothini Thangamani](https://github.com/VinothiniSaravankumar)
 - [Saif Mohammed](https://github.com/SaifMohammed22)
 - [Ryan Tham](https://github.com/ryanjrt)
 - [Ryan Gapp](https://github.com/ryan-gapp)
@@ -383,6 +384,7 @@
 - [Ramunas Kazlauskas](https://github.com/akuyra1)
 - Ketan Yadav
 - johnie
+- [Harsh Raj](https://github.com/harzh1)
 - [samuel-b](https://github.com/samuel-b)
 - [gavi021](https://github.com/gavi021)
 - [gooseneedsbread](https://github.com/gooseneedsbread)
@@ -1137,7 +1139,7 @@
 - [Kain](https://github.com/kainosaur)
 - [hamza](https://github.com/bouayadhamza)
 - [Rounak Kumar Singh](https://github.com/rounakkumarsingh)
-  Kumar  Sanjeev Dutta(https://github.com/sanjeevWeb)
+  Kumar Sanjeev Dutta(https://github.com/sanjeevWeb)
 - [Abdul khader](https://github.com/davyjones7321)
 - [Rounak Kumar Singh](https://github.com/rounakkumarsingh)
 - [David Preradovic](https://github.com/DavideTheClown)
@@ -1896,7 +1898,7 @@
 - [jeevan-aj](https://github.com/jeevan-aj)
 - [shilinwang](https://github.com/crzwzy)
 - [Taufi](https://github.com/Taufi)
-- 
+-
 - [Jack Sighton](https://github.com/JackBerezhnov)
 - [Ellis Franklin](https://github.com/ellfran-7)
 - [alekhine](https://github.com/Src0p)
