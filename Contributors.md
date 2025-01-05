@@ -84,6 +84,7 @@
 - [Arun](https://github.com/Arun8698)
 - [Bhavika](https://github.com/bhavikab04)
 - [tuioe](https://github.com/tuioe5679)
+- [Snushev](https://github.com/snushev)
 - [cloud-whisperer](https://github.com/cloud-whisperer)
 - [Disha520](https://github.com/Disha520)
 - [Priyanshu Walia](https://github.com/priyanshuwalia)
