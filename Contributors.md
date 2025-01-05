@@ -1748,6 +1748,7 @@
 - [Gaopo Huang](https://github.com/GaopoHuang)
 - [Victor Alejandro Contreras Vargas](https://github.com/vc743) Who's gonna carry the boats?💪🔥
 - [Hlan Htet Kyaw](https://github.com/HlanHtetKyaw) The last mile is the least crowded.......
+- [Wai Linn O0](https://github.com/Wai-Linn-Oo) Long live and prosper!
 - [titamoto](https://github.com/titamoto)
 - [Neal Willis](https://github.com/nealwillis)
 - [KiwamiJP](https://github.com/KiwamiJP)
