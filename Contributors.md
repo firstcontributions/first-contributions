@@ -1,5 +1,6 @@
 # Contributors
 - Add [Nill_The_Alchemist](https://github.com/Nill-The-Alchemist/)
+- [harshit patel](https://github.com/harshitpatel862)
 - [siddiqueahmk](https://github.com/siddiqueahmk)
 - [Sunny-Saurya](https://github.com/Sunny-Saurya)
 - [Karim-M03](https://github.com/Karim-M03)
