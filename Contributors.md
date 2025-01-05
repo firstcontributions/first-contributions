@@ -1,6 +1,7 @@
 # Contributors
 
 - Add [Nill_The_Alchemist](https://github.com/Nill-The-Alchemist/)
+- [Sayyed Mustafa](https://github.com/mustafa-sayyed/)
 - [siddiqueahmk](https://github.com/siddiqueahmk)
 - [Shashank Sinha](https://github.com/cbsinha)
 - [Sunny-Saurya](https://github.com/Sunny-Saurya)
