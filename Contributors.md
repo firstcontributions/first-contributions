@@ -150,6 +150,7 @@
 - [Vardararo](https://github.com/Vardararo)
 - Namu
 - [meenakshiruia](https://github.com/meenakshiruia)
+- [Joshua Luca](https://github.com/joshluca98)
 - [RomaniukNatalia](https://github.com/RomaniukNatalia)
 - [Kelvin Yeboah](https://github.com/KelvCodes)
 - [Subramanya_M](https://github.com/RoronoaZoro1752)
