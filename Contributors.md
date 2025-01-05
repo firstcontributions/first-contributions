@@ -1274,6 +1274,7 @@
 - [Liya K](https://github.com/liyamk)
 - [DracoRX16](https://github.com/DracoRX16)
 - [Alexander Todorovic](https://github.com/alexandertodorovic)
+- Strelitzia
 - Papavero
 - kana
 - [Ergys Hila](https://github.com/ergys25)
