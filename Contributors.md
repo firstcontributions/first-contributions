@@ -32,6 +32,7 @@
 - [SNN](https://github.com/sungenyeint)
   <!-- - [abhijeeth m](https://github.com/abhijeeth-mantha) -->
   [Rushikesh Amale]
+  [KishanSingh]
 - [Aditya Radadiya](https://github.com/RadadiyaAditya)
 - [Jefferson Huisa](https://github.com/j3ffh95)
 - [mrxc0de](https://github.com/mrxc0de)
