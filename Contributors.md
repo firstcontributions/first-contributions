@@ -47,6 +47,7 @@
 - [Jefferson Huisa](https://github.com/j3ffh95)
 - [mrxc0de](https://github.com/mrxc0de)
 - [Nihal Barua](https://github.com/nihal-bar)
+- [Nejma Latheef](https://github.com/Nejma-Latheef)
 - [Sanidhya Soni](https://github.com/sonisanidhya)
 - [Adrian Bajczyk](https://github.com/AdrianBajczyk)
 - [Kristin Dailey](https://github.com/kristindailey)
