@@ -8,6 +8,7 @@
 - [Karim-M03](https://github.com/Karim-M03)
 - [Shivay Sharma](https://github.com/Paperyduke6)
 - [Ishan Karpe](https://github.com/Ishan-Karpe)
+- [Gavin Reid] (https://github.com/GavinReid82)
 - [Louis7363](https://github.com/louis7363)
 - [Dani Matuko](https://github.com/danimatuko)
 - [DeathScytheZ](https://github.com/DeathScytheZ)
