@@ -1566,6 +1566,7 @@
 - [Merinques](https://github.com/Merinques)
 - [Tom Scheers](https://github.com/tomScheers)
 - [Irfan Ali](https://github.com/irfanali1995/irfanali1995)
+- [Rishabh Mishra](https://github.com/RIsHaBHMiShrA2710)
 - [Ismael Abdulahi](https://github.com/Ismael-ux1)
 - [Unnikrishnan Namboothiri](https://github.com/unnikrishnanNam)
 - [freezerbox](https://github.com/freezerbox1)
