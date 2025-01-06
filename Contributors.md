@@ -108,6 +108,7 @@
 - [SANJAY KUMAR] (https://github.com/sanjaydeepak)
 - [Ravi](https://github.com/raviprakash7367)
 - [kazuma](https://github.com/Mio-3)
+- [Kai Krah](https://github.com/KaiKrah79)
 - [Vinothini Thangamani](https://github.com/VinothiniSaravankumar)
 - [Saif Mohammed](https://github.com/SaifMohammed22)
 - [Ryan Tham](https://github.com/ryanjrt)
