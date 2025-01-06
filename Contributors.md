@@ -1,5 +1,5 @@
 # Contributors
-- Yuhan Zou
+- [Yuhan Zou](https://github.com/djj316/)
 - Add [Nill_The_Alchemist](https://github.com/Nill-The-Alchemist/)
 - [Sayyed Mustafa](https://github.com/mustafa-sayyed/)
 - [siddiqueahmk](https://github.com/siddiqueahmk)
