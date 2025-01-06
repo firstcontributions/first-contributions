@@ -1599,6 +1599,7 @@
 - [ganximi](https://github.com/ganximi)
 - [Aditya Kumar](https://github.com/ad1tyaaa)
 - [Gabriele-Dotcom](https://github.com/Gabriele-Dotcom)
+- [Quackudy](https://github.com/Quackudy)
 - [Kent Howell](https://github.com/khowellmobile)
 - [Kaan](https://github.com/ksayin)
 - [KonerDev](https://github.com/KonerDev)
