@@ -25,6 +25,7 @@
 - [Trevor Kibuba](https://github.com/kibuba-njihia)
 - [SumitThakur](https://github.com/SumitThakur1600)
 - [SaniyaSayyed](https://github.com/saniya-154)
+- [CynthiaWahome](https://github.com/CynthiaWahome)
 - [CaraMcG](https://github.com/caraMcG)
 - [Arnav Joshi](https://github.com/Arnav020)
 - [Lalit Khokhar](https://github.com/lalitkhokhar)
