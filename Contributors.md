@@ -1599,6 +1599,7 @@
 - [Xamss](https://github.com/Xamss)
 - [riadmmdli](https://github.com/riadmmdli)
 - [ganximi](https://github.com/ganximi)
+  [tcod](https://github.com/thecrackofdoom)
 - [Aditya Kumar](https://github.com/ad1tyaaa)
 - [Gabriele-Dotcom](https://github.com/Gabriele-Dotcom)
 - [Quackudy](https://github.com/Quackudy)
