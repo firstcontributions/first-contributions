@@ -184,6 +184,7 @@
 - [Hashim](https://github.com/runtime-errrrorr)
 - [Dyno-man](https://github.com/Dyno-man)
 - [Sardorbek](https://github.com/Sardorbek-Kuvondikov)
+- [nickeem](https://github.com/Nickeem)
 - [Wendell Oliveira](https://github.com/wendelloliiver)
 - [Ch-Umar-Aslam](https://github.com/CH-Umar-Aslam/)
 - [BrennerBK](https://github.com/BrennerBK)
