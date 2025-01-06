@@ -2047,6 +2047,7 @@
 - [menachem mintzberg](https://github.com/m-minz)
 - [juliencastanier](https://github.com/juliencastanier)
 - [kecirimickael](https://github.com/mkg1t)
+- [PaddseL](https://github.com/PaddseL)
 - [OlivierDenoix](https://github.com/OlivierDenoix)
 - [inammar](https://github.com/inammar)
 - [jackituning](https://github.com/jackituning)
