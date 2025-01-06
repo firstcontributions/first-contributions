@@ -11,6 +11,7 @@
 - [Ishan Karpe](https://github.com/Ishan-Karpe)
 - [Vicky Besra](https://github.com/vickybesra)
 - [Gavin Reid] (https://github.com/GavinReid82)
+- [isimbana](https://github.com/isimbana)
 - [Louis7363](https://github.com/louis7363)
 - [mickaelk98](https://github.com/mickaelk98/)
 - [Dani Matuko](https://github.com/danimatuko)
