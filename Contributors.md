@@ -1396,6 +1396,7 @@
 - [Ashish Dochania](https://github.com/AshishDochania)
 - [N1krat](https://github.com/N1krat)
 - [Nikalas Armstrong](https://github.com/hangonasecond)
+- [Chris D](https://github.com/Dibberdini/)
 - [Duc Dong](https://github.com/ducdongmg)
 - [Jessenavas](https://github.com/Jessenavas)
 - [AestheticWolfie](https://github.com/AestheticWolfie)
