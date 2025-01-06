@@ -137,6 +137,7 @@
 - Bandish Patel.
 - [gyanchandkabra](https://github.com/gyanchandkabra)
 - [harshit](https://github.com/harshitpatel862)
+- [Giusnovetti](https://github.com/Giusnovetti)
 - [benHitt](https://github.com/benHitt123)
 - [uzuraDev](https://github.com/uzuraDev)
 - [Eugene Chia](https://github.com/eugenechia)
