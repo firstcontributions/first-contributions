@@ -1759,6 +1759,7 @@
 - [Emeraldthedev](https://github.com/OriloyeEmerald)
 - [BeesyBumbleBee](https://github.com/BeesyBumbleBee)
 - [Carry Lee](https://github.com/Nuaza)
+- [Aisar Ali](https://github.com/aisarali99)
 - [yuchenlogin](https://github.com/yuchenlogin)
 - [Furkan Dogmus](https://github.com/furkandogmus)
 - [Saif Alvi](https://github.com/yuusaif)
