@@ -1,4 +1,5 @@
 # Contributors
+- Chagit Lipsky!
 - [Sruthi Krishnakumar](https://github.com/SruthiKrish19) :07/01/2025
 - [Leli Vexler](https://github.com/Lelivexler) 
 - [Yuhan Zou](https://github.com/djj316/) :A brand new start
@@ -2226,3 +2227,7 @@
 - [Masatoshi Ogiwara](https://github.com/zigzagdev)
 - [Mihir Deshpande](https://github.com/mihirrd)
 - [Cesar Armango Garcia](https://github.com/ingcesargo/)
+- Elisheva Fried
+- Elisheva
+- Menucha
+- Tehila
