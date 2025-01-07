@@ -39,6 +39,7 @@
   [Chuks Stephen](https://github.com/stephenchuks)
 - [CamiloRodriguezDev](https://github.com/CamiloRodriguezDev)
 - [Trevor Kibuba](https://github.com/kibuba-njihia)
+- [Joshua Sunday](https://github.com/joshuasunnexy)
 - [SumitThakur](https://github.com/SumitThakur1600)
 - [Aditya](https://github.com/aditya-7562) :: 07/01/2025
 - [SaniyaSayyed](https://github.com/saniya-154)
