@@ -2170,7 +2170,6 @@
 - [Raghupathi](https://github.com/raghupathi321)
 - [Ahmed Wael](https://github.com/ahmed-wael2002)
 - [Adit Khandelwal](https://github.com/AditKhandelwal)
-- [Srigana Pulikantham](https://github.com/Srigana)
 - [crun geek](https://github.com/geekk8)
 - [Evan Perry](https://github.com/EvanPrograms)
 - [crun geek](https://github.com/geekk8)
@@ -2216,3 +2215,4 @@
 - [Ryan Bae](https://github.com/ryanbae94)
 - [xian](https://github.com/cbxian22)
 - [Masatoshi Ogiwara](https://github.com/zigzagdev)
+- [Srigana Pulikantham](https://github.com/Srigana)
