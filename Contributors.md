@@ -2186,6 +2186,7 @@
 - [Marco Polo Hsing Yuan](https://github.com/Polo-Marco)
 - [Steven Song](https://github.com/StevenSong-sTs)
 - STS
+- [pcardona34](https://github.com/pcardona34)
 - [Weblato](https://github.com/theweblato)
 - [Girish](https://github.com/girishtulabandu)
 - [Rheza](https://github.com/RhezaPriyaAnargya)
