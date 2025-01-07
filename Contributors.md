@@ -1984,6 +1984,7 @@
 - [Emerson Johnson](https://github.com/lbjmsu)
 - [Marta Laveda](https://github.com/MartaLB95)
 - [shhwangofficial](https://github.com/shhwangofficial)
+- [Michael Schellhorn](https://github.com/Ekco-S64QTN6)
 - [Colin BFH](https://github.com/Colin5734)
 - [AnishKarthic](https://github.com/ANISHKARTHIC)
 - [anagha](https://github.com/anagha-v-bhat)
