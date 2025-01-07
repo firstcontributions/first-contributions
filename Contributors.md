@@ -47,6 +47,7 @@
   [Rushikesh Amale]
   [KishanSingh]
 - [Aditya Radadiya](https://github.com/RadadiyaAditya)
+- [Sarthak Bhardwaj](https://github.com/sarthakbhardwaj27)
 - [Jefferson Huisa](https://github.com/j3ffh95)
 - [mrxc0de](https://github.com/mrxc0de)
 - [Nihal Barua](https://github.com/nihal-bar)
