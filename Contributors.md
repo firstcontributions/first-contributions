@@ -1955,7 +1955,7 @@
 - [jeevan-aj](https://github.com/jeevan-aj)
 - [shilinwang](https://github.com/crzwzy)
 - [Taufi](https://github.com/Taufi)
--
+-Ruty
 - [Jack Sighton](https://github.com/JackBerezhnov)
 - [Ellis Franklin](https://github.com/ellfran-7)
 - [alekhine](https://github.com/Src0p)
@@ -2225,3 +2225,4 @@
 - [Masatoshi Ogiwara](https://github.com/zigzagdev)
 - [Mihir Deshpande](https://github.com/mihirrd)
 - [Cesar Armango Garcia](https://github.com/ingcesargo/)
+
