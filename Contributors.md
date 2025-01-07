@@ -16,7 +16,7 @@
 - [mickaelk98](https://github.com/mickaelk98/)
 - [Dani Matuko](https://github.com/danimatuko)
 - [DeathScytheZ](https://github.com/DeathScytheZ)
-- [L.G.](https://github.com/LeoZFG)
+- [Leo.G](https://github.com/LeoZFG)
 - [A N M Mashud](https://github.com/anmmashud)
 - [Zhen Liu](https://github.com/zh3nl)
 - [Aditya kr. mishra](https://github.com/adityakrmishra)
