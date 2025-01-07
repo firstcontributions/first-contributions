@@ -1,4 +1,5 @@
 # Contributors
+- Chagit Lipsky
 - [Sruthi Krishnakumar](https://github.com/SruthiKrish19) :07/01/2025
 - [Yuhan Zou](https://github.com/djj316/) :A brand new start
 - [RoyWB.AKA.rdubbi] (https://github.com/rdubbi) :Hello Opensource World!
