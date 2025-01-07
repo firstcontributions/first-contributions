@@ -2225,3 +2225,4 @@
 - [Masatoshi Ogiwara](https://github.com/zigzagdev)
 - [Mihir Deshpande](https://github.com/mihirrd)
 - [Cesar Armango Garcia](https://github.com/ingcesargo/)
+- [Tamar Cohen](https://github.com/tamar-cohen1)
