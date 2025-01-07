@@ -2046,6 +2046,7 @@
 - [Manisha](https://github.com/manishapalsam)
 - [Mubin Bagwan](https://github.com/mubinB)
 - anavillamar
+- Efrat Cohen (https://github.com/EfratCohen2185)
 - [Syc](https://github.com/Sycc66)
 - rmuzeya
 - kizmarco
