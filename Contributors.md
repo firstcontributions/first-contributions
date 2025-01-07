@@ -1,8 +1,10 @@
 # Contributors
+- [Sruthi Krishnakumar](https://github.com/SruthiKrish19) :07/01/2025
 - [Yuhan Zou](https://github.com/djj316/) :A brand new start
 - [RoyWB.AKA.rdubbi] (https://github.com/rdubbi) :Hello Opensource World!
 - Add [Nill_The_Alchemist](https://github.com/Nill-The-Alchemist/)
 - [Sayyed Mustafa](https://github.com/mustafa-sayyed/)
+- [Abijeeth Vasra](https://github.com/Abijeethvasra890)
 - [siddiqueahmk](https://github.com/siddiqueahmk)
 - [Shashank Sinha](https://github.com/cbsinha)
 - [Sunny-Saurya](https://github.com/Sunny-Saurya)
@@ -14,6 +16,7 @@
 - [Gavin Reid] (https://github.com/GavinReid82)
 - [isimbana](https://github.com/isimbana)
 - [Louis7363](https://github.com/louis7363)
+- [aajliAhmed](https://github.com/aajliAhmed)
 - [mickaelk98](https://github.com/mickaelk98/)
 - [Dani Matuko](https://github.com/danimatuko)
 - [DeathScytheZ](https://github.com/DeathScytheZ)
@@ -33,6 +36,7 @@
 - [CamiloRodriguezDev](https://github.com/CamiloRodriguezDev)
 - [Trevor Kibuba](https://github.com/kibuba-njihia)
 - [SumitThakur](https://github.com/SumitThakur1600)
+- [Aditya](https://github.com/aditya-7562) :: 07/01/2025
 - [SaniyaSayyed](https://github.com/saniya-154)
 - [Mahwish Rizwan] (https://github.com/MahwishRizwan)
 - [CynthiaWahome](https://github.com/CynthiaWahome)
@@ -48,6 +52,7 @@
   [Rushikesh Amale]
   [KishanSingh]
 - [Aditya Radadiya](https://github.com/RadadiyaAditya)
+- [Sarthak Bhardwaj](https://github.com/sarthakbhardwaj27)
 - [Jefferson Huisa](https://github.com/j3ffh95)
 - [mrxc0de](https://github.com/mrxc0de)
 - [Nihal Barua](https://github.com/nihal-bar)
@@ -75,6 +80,7 @@
 - [vinod jaina](https://github.com/firstcontributions/first-contributions?tab=readme-ov-file)
 - [Hetvi Shah]
 - [raj-opensource]
+- [padmalathak]
 - [rohithGana](https://github.com/Rohithgvmg)
 - Lokesh
 - [AC](https://github.com/FortKnoxWasTaken)
@@ -82,6 +88,7 @@
 - [Mohit-Goswami](https://github.com/Mohitgoswami18)
 - [hmdaslam97](https://github.com/hmdaslam97)
 - [Ester Youngreis](https://github.com/eti-youngreis)
+- [Ragini Tiwar] (https://github.com/Ragini-Tiwari)
 - [tuysh](https://github.com/Tuysh)
 - [Esther Kalsmith](https://github.com/EstherKal)
 - [Vittorio Garretto](https://github.com/VittorioGarretto)
@@ -176,6 +183,7 @@
 - [Joshua Luca](https://github.com/joshluca98)
 - [RomaniukNatalia](https://github.com/RomaniukNatalia)
 - [Kelvin Yeboah](https://github.com/KelvCodes)
+- [Nicolas_Triana](https://github.com/nicolastriana88) 
 - [Subramanya_M](https://github.com/RoronoaZoro1752)
 - [Austin Banner](https://github.com/AustinBanner)
 - [Hemlata_Sharma](https://github.com/HemaGarima)
@@ -606,6 +614,7 @@
 - [Alish-0x](https://github.com/Alish-0x)
 - [SWanHK](https://github.com/swanhk)
   Saksh
+  Daksh
 - [Sagar Patel](https://github.com/sagarpatel279)
 - [Yogesh Joga యోగేష్ జోగ](https://github.com/yogeshjoga)
 - [Rudhram Saraswat](https://github.com/RUDHRAM01)
@@ -884,6 +893,7 @@
 - [romvcarlos](https://github.com/romvcarlos)
 - [Karsy](https://github.com/karsyz)
 - [Emelie](https://github.com/eemmeelliiee)
+- [chipsmelon](https://github.com/chipsmelon)
 - [MatK](https://github.com/mat-kop)
 - [Sandesh KV](https://github.com/SandeshAmin)
 - [Nikolay Gusev](https://github.com/TankistPro)
@@ -1983,6 +1993,7 @@
 - [Emerson Johnson](https://github.com/lbjmsu)
 - [Marta Laveda](https://github.com/MartaLB95)
 - [shhwangofficial](https://github.com/shhwangofficial)
+- [Michael Schellhorn](https://github.com/Ekco-S64QTN6)
 - [Colin BFH](https://github.com/Colin5734)
 - [AnishKarthic](https://github.com/ANISHKARTHIC)
 - [anagha](https://github.com/anagha-v-bhat)
@@ -2160,6 +2171,7 @@
 - [Vedant Patel](https://github.com/Vedant-07)
 - [Arun N](https://github.com/arun-357)
 - [LiWuyao](https://github.com/LiWuyao)
+- [Kavindu Dhananjaya](https://github.com/KavinduDr)
 - [Neil Prabhu](https://github.com/NeilPrabhu)
 - [Raghupathi](https://github.com/raghupathi321)
 - [Ahmed Wael](https://github.com/ahmed-wael2002)
@@ -2207,3 +2219,6 @@
 - [Ethan Gao](https://github.com/adamqddnh)
 - [Prerana Maurya](https://github.com/Prerana-Mauryaa)
 - [Ryan Bae](https://github.com/ryanbae94)
+- [xian](https://github.com/cbxian22)
+- [Masatoshi Ogiwara](https://github.com/zigzagdev)
+- [Mihir Deshpande](https://github.com/mihirrd)
