@@ -2224,3 +2224,4 @@
 - [xian](https://github.com/cbxian22)
 - [Masatoshi Ogiwara](https://github.com/zigzagdev)
 - [Mihir Deshpande](https://github.com/mihirrd)
+- [Cesar Armango Garcia](https://github.com/ingcesargo/)
