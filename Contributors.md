@@ -996,6 +996,7 @@
 - [Naim Ahmad](https://github.com/Naim-Ahmad)
 - [Arco Kim](https://github.com/ArcoKim)
 - archit singh chahuan(https://github.com/archit-8)
+- [Almog](https://github.com/almogfishel)🐨
 - [Aditya](https://github.com/LogiqueClergyman)
 - [SohamKore](https://github.com/SohamKore)
 - [Israel N Precious](https://github.com/Precious000)
