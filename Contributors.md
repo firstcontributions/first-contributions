@@ -1,4 +1,5 @@
 # Contributors
+- [Jonathan Eudja](https://github.com/jjthisguy)
 - [Yuhan Zou](https://github.com/djj316/) :A brand new start
 - [RoyWB.AKA.rdubbi] (https://github.com/rdubbi) :Hello Opensource World!
 - Add [Nill_The_Alchemist](https://github.com/Nill-The-Alchemist/)
