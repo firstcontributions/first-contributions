@@ -151,13 +151,13 @@ git branch feature
 Now to see all the branches present:
 
 ```bash
-  git branch 
+git branch 
   ```
 
 Now to navigate between branches:
 
 ```bash
-  git checkout [branch-name]
+git checkout [branch-name]
   ```
 
 <!-- <details>
