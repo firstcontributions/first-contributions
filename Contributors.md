@@ -1,5 +1,7 @@
 # Contributors
+- Chagit Lipsky!
 - [Sruthi Krishnakumar](https://github.com/SruthiKrish19) :07/01/2025
+- [Leli Vexler](https://github.com/Lelivexler) 
 - [Yuhan Zou](https://github.com/djj316/) :A brand new start
 - [RoyWB.AKA.rdubbi] (https://github.com/rdubbi) :Hello Opensource World!
 - Add [Nill_The_Alchemist](https://github.com/Nill-The-Alchemist/)
@@ -1955,7 +1957,7 @@
 - [jeevan-aj](https://github.com/jeevan-aj)
 - [shilinwang](https://github.com/crzwzy)
 - [Taufi](https://github.com/Taufi)
--
+-Ruty
 - [Jack Sighton](https://github.com/JackBerezhnov)
 - [Ellis Franklin](https://github.com/ellfran-7)
 - [alekhine](https://github.com/Src0p)
@@ -2211,6 +2213,7 @@
 - [pcardona34](https://github.com/pcardona34)
 - [Weblato](https://github.com/theweblato)
 - [Girish](https://github.com/girishtulabandu)
+-[Yaara Alkalay](https://github.com/yaaraalkalay)
 - [Rheza](https://github.com/RhezaPriyaAnargya)
 - [StephaneKoeniguer](https://github.com/StephaneKoeniguer)
 - [Asaf](https://github.com/OddLamb)
@@ -2223,6 +2226,11 @@
 - [Ryan Bae](https://github.com/ryanbae94)
 - [xian](https://github.com/cbxian22)
 - [Masatoshi Ogiwara](https://github.com/zigzagdev)
+- [Srigana Pulikantham](https://github.com/Srigana)
 - [Mihir Deshpande](https://github.com/mihirrd)
 - [Cesar Armango Garcia](https://github.com/ingcesargo/)
 - [Tamar Cohen](https://github.com/tamar-cohen1)
+- Elisheva Fried
+- Elisheva
+- Menucha
+- Tehila
