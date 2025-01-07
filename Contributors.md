@@ -1398,6 +1398,7 @@
 - [Aravind R](https://github.com/AravindR97)
 - [nickf2k](https://github.com/nickf2k)
 - [Harish](https://github.com/HarishI123)
+- [Ray O](https://github.com/reiogo)
 - [Edgar Dikenge](https://github.com/edgar3g)
 - [Kyle Starrett](https://github.com/kylestarrett1)
 - [Osama Ahmad](https://github.com/oahmadgit)
