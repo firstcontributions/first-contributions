@@ -2211,6 +2211,7 @@
 - [pcardona34](https://github.com/pcardona34)
 - [Weblato](https://github.com/theweblato)
 - [Girish](https://github.com/girishtulabandu)
+-[Yaara Alkalay](https://github.com/yaaraalkalay)
 - [Rheza](https://github.com/RhezaPriyaAnargya)
 - [StephaneKoeniguer](https://github.com/StephaneKoeniguer)
 - [Asaf](https://github.com/OddLamb)
@@ -2225,3 +2226,4 @@
 - [Masatoshi Ogiwara](https://github.com/zigzagdev)
 - [Mihir Deshpande](https://github.com/mihirrd)
 - [Cesar Armango Garcia](https://github.com/ingcesargo/)
+
