@@ -1,5 +1,4 @@
 # Contributors
-- [Jonathan Eudja](https://github.com/jjthisguy)
 - [Yuhan Zou](https://github.com/djj316/) :A brand new start
 - [RoyWB.AKA.rdubbi] (https://github.com/rdubbi) :Hello Opensource World!
 - Add [Nill_The_Alchemist](https://github.com/Nill-The-Alchemist/)
@@ -23,6 +22,7 @@
 - [A N M Mashud](https://github.com/anmmashud)
 - [Jeff Martin](https://github.com/siberian-devsky) :01.06.25
 - [Zhen Liu](https://github.com/zh3nl)
+- [Jonathan Eudja](https://github.com/jjthisguy)
 - [Aditya kr. mishra](https://github.com/adityakrmishra)
 - [Chong Liu](https://github.com/lc87624)
 - [Harshit Joshi](https://github.com/harsh040206)
