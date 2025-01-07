@@ -1,5 +1,6 @@
 # Contributors
 - [Yuhan Zou](https://github.com/djj316/) :A brand new start
+- [RoyWB.AKA.rdubbi] (https://github.com/rdubbi) :Hello Opensource World!
 - Add [Nill_The_Alchemist](https://github.com/Nill-The-Alchemist/)
 - [Sayyed Mustafa](https://github.com/mustafa-sayyed/)
 - [siddiqueahmk](https://github.com/siddiqueahmk)
@@ -10,6 +11,7 @@
 - [Ishan Karpe](https://github.com/Ishan-Karpe)
 - [Vicky Besra](https://github.com/vickybesra)
 - [Gavin Reid] (https://github.com/GavinReid82)
+- [isimbana](https://github.com/isimbana)
 - [Louis7363](https://github.com/louis7363)
 - [mickaelk98](https://github.com/mickaelk98/)
 - [Dani Matuko](https://github.com/danimatuko)
@@ -45,8 +47,10 @@
 - [Jefferson Huisa](https://github.com/j3ffh95)
 - [mrxc0de](https://github.com/mrxc0de)
 - [Nihal Barua](https://github.com/nihal-bar)
+- [Nejma Latheef](https://github.com/Nejma-Latheef)
 - [Sanidhya Soni](https://github.com/sonisanidhya)
 - [Adrian Bajczyk](https://github.com/AdrianBajczyk)
+- [Kristin Dailey](https://github.com/kristindailey)
 - [Chibuzor Israel](https://github.com/pseudoeazy)
 - [Sumit Pandey](https://github.com/SumitPandey08)
 - [Rushikesh Jadhav](https://github.com/Rushi543)
@@ -136,6 +140,7 @@
 - Bandish Patel.
 - [gyanchandkabra](https://github.com/gyanchandkabra)
 - [harshit](https://github.com/harshitpatel862)
+- [Giusnovetti](https://github.com/Giusnovetti)
 - [benHitt](https://github.com/benHitt123)
 - [uzuraDev](https://github.com/uzuraDev)
 - [Eugene Chia](https://github.com/eugenechia)
@@ -179,6 +184,7 @@
 - [Hashim](https://github.com/runtime-errrrorr)
 - [Dyno-man](https://github.com/Dyno-man)
 - [Sardorbek](https://github.com/Sardorbek-Kuvondikov)
+- [nickeem](https://github.com/Nickeem)
 - [Wendell Oliveira](https://github.com/wendelloliiver)
 - [Ch-Umar-Aslam](https://github.com/CH-Umar-Aslam/)
 - [BrennerBK](https://github.com/BrennerBK)
@@ -191,6 +197,7 @@
 - [addpd](https://github.com/addpd)
 - [Fabrice Pecot](https://github.com/FabriceAB1)
 - [Cristina S](https://github.com/AhsokaTa)
+- [kuch_bhi]
 - [vishalchauhan](https://github.com/V1sh4lC)
 - [adwaitp](https://github.com/adwaitdagitguy)
 - [stevee14]
@@ -1597,8 +1604,10 @@
 - [Xamss](https://github.com/Xamss)
 - [riadmmdli](https://github.com/riadmmdli)
 - [ganximi](https://github.com/ganximi)
+  [tcod](https://github.com/thecrackofdoom)
 - [Aditya Kumar](https://github.com/ad1tyaaa)
 - [Gabriele-Dotcom](https://github.com/Gabriele-Dotcom)
+- [Quackudy](https://github.com/Quackudy)
 - [Kent Howell](https://github.com/khowellmobile)
 - [Kaan](https://github.com/ksayin)
 - [KonerDev](https://github.com/KonerDev)
@@ -2177,9 +2186,12 @@
 - [Marco Polo Hsing Yuan](https://github.com/Polo-Marco)
 - [Steven Song](https://github.com/StevenSong-sTs)
 - STS
+- [pcardona34](https://github.com/pcardona34)
 - [Weblato](https://github.com/theweblato)
 - [Girish](https://github.com/girishtulabandu)
 - [Rheza](https://github.com/RhezaPriyaAnargya)
 - [StephaneKoeniguer](https://github.com/StephaneKoeniguer)
 - [Asaf](https://github.com/OddLamb)
-
+- [Abdul Aouwal](https://github.com/meher09)
+- [Jessamillz](https://github.com/jessamillz)
+- [Mjerta](https://github.com/mjerta)
