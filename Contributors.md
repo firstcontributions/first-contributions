@@ -2190,6 +2190,7 @@
 - [Weblato](https://github.com/theweblato)
 - [Girish](https://github.com/girishtulabandu)
 - [Rheza](https://github.com/RhezaPriyaAnargya)
+- [StephaneKoeniguer](https://github.com/StephaneKoeniguer)
 - [Asaf](https://github.com/OddLamb)
 - [Abdul Aouwal](https://github.com/meher09)
 - [Jessamillz](https://github.com/jessamillz)
