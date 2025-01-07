@@ -178,6 +178,7 @@
 - [Joshua Luca](https://github.com/joshluca98)
 - [RomaniukNatalia](https://github.com/RomaniukNatalia)
 - [Kelvin Yeboah](https://github.com/KelvCodes)
+- [Nicolas_Triana](https://github.com/nicolastriana88) 
 - [Subramanya_M](https://github.com/RoronoaZoro1752)
 - [Austin Banner](https://github.com/AustinBanner)
 - [Hemlata_Sharma](https://github.com/HemaGarima)
