@@ -2226,6 +2226,7 @@
 - [Ryan Bae](https://github.com/ryanbae94)
 - [xian](https://github.com/cbxian22)
 - [Masatoshi Ogiwara](https://github.com/zigzagdev)
+- [Srigana Pulikantham](https://github.com/Srigana)
 - [Mihir Deshpande](https://github.com/mihirrd)
 - [Cesar Armango Garcia](https://github.com/ingcesargo/)
 - Elisheva Fried
