@@ -34,6 +34,7 @@
 - [CamiloRodriguezDev](https://github.com/CamiloRodriguezDev)
 - [Trevor Kibuba](https://github.com/kibuba-njihia)
 - [SumitThakur](https://github.com/SumitThakur1600)
+- [Aditya](https://github.com/aditya-7562) :: 07/01/2025
 - [SaniyaSayyed](https://github.com/saniya-154)
 - [Mahwish Rizwan] (https://github.com/MahwishRizwan)
 - [CynthiaWahome](https://github.com/CynthiaWahome)
