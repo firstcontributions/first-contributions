@@ -1,5 +1,6 @@
 # Contributors
 - [Sruthi Krishnakumar](https://github.com/SruthiKrish19) :07/01/2025
+- [Leli Vexler](https://github.com/Lelivexler) 
 - [Yuhan Zou](https://github.com/djj316/) :A brand new start
 - [RoyWB.AKA.rdubbi] (https://github.com/rdubbi) :Hello Opensource World!
 - Add [Nill_The_Alchemist](https://github.com/Nill-The-Alchemist/)
@@ -2225,4 +2226,3 @@
 - [Masatoshi Ogiwara](https://github.com/zigzagdev)
 - [Mihir Deshpande](https://github.com/mihirrd)
 - [Cesar Armango Garcia](https://github.com/ingcesargo/)
-- Elisheva
