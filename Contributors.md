@@ -1079,6 +1079,7 @@
 - [Tony B. Nya](https://github.com/tonybnya)
 - [franchsli](https://github.com/franchsli)
 - [Luca Bersezio](https://github.com/lucabersezio)
+- [Taine](https://github.com/taine-buchan)
 - [Mebanteidor M Syiem](https://github.com/teidorS)
 - [Sinchana Kumbale](https://github.com/sinchana-kumbale)
 - [Yuvraj Singh Wahla](https://github.com/yuvraj-singh08)
