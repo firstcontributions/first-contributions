@@ -16,6 +16,7 @@
 - [Sadiat360](https://github.com/Sadiat360)
 - [Shivay Sharma](https://github.com/Paperyduke6)
 - [Ishan Karpe](https://github.com/Ishan-Karpe)
+- [nokesh](https://github.com/Nokesh11)
 - [Vicky Besra](https://github.com/vickybesra)
 - [Gavin Reid] (https://github.com/GavinReid82)
 - [isimbana](https://github.com/isimbana)
