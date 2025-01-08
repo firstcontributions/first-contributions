@@ -1,9 +1,10 @@
 # Contributors
+
 - Chagit Lipsky!
 - Annie was here
 - [Sandhya Rani](https://github.com/sandhya12r) :Full Stack Web Developer
 - [Sruthi Krishnakumar](https://github.com/SruthiKrish19) :07/01/2025
-- [Leli Vexler](https://github.com/Lelivexler) 
+- [Leli Vexler](https://github.com/Lelivexler)
 - [Yuhan Zou](https://github.com/djj316/) :A brand new start
 - [RoyWB.AKA.rdubbi] (https://github.com/rdubbi) :Hello Opensource World!
 - [EKWUNIFE, Oluwatomiwa] (https://github.com/elisheba-beep) : first contribution!
@@ -14,6 +15,7 @@
 - [siddiqueahmk](https://github.com/siddiqueahmk)
 - [Shashank Sinha](https://github.com/cbsinha)
 - [Joseph](https://github.com/Joseph77667)
+- [Myles](https://github.com/Smyles20)
 - [Sunny-Saurya](https://github.com/Sunny-Saurya)
 - [Purva Masurkar](https://github.com/purvanova-213)
 - [Karim-M03](https://github.com/Karim-M03)
@@ -30,7 +32,7 @@
 - [mickaelk98](https://github.com/mickaelk98/)
 - [Dani Matuko](https://github.com/danimatuko)
 - [DeathScytheZ](https://github.com/DeathScytheZ)
-- [Aamir Shaikh] (https://github.com/aamirsk8766)
+- [Aamir Shaikh](https://github.com/aamirsk8766)
 - [Leo.G](https://github.com/LeoZFG)
 - [A N M Mashud](https://github.com/anmmashud)
 - [Jeff Martin](https://github.com/siberian-devsky) :01.06.25
@@ -63,7 +65,7 @@
 - [Anurag Chaturvedi](https://github.com/anuragjcchaturvedi)
 - [Manas Mahajan](https://github.com/ManasMahajan2003)
 - [SNN](https://github.com/sungenyeint)
-  <!-- - [abhijeeth m](https://github.com/abhijeeth-mantha) -->
+  [abhijeeth m](https://github.com/abhijeeth-mantha)
   [Rushikesh Amale]
   [KishanSingh]
   [Abdul Rahim](https://github.com/Abdrahim-123)
@@ -109,6 +111,7 @@
 - [tuysh](https://github.com/Tuysh)
 - [Esther Kalsmith](https://github.com/EstherKal)
 - [Vittorio Garretto](https://github.com/VittorioGarretto)
+- [Zoe Reed](https://github.com/zoereedviz)
 - [Weirdo-147](https://github.com/Weirdo-147)
 - [Akhila Sahithi](https://github.com/Akhila-Sahithi)
   [SrivastavaAman8604](https://github.com/SrivastavaAman8604)
@@ -200,7 +203,7 @@
 - [Joshua Luca](https://github.com/joshluca98)
 - [RomaniukNatalia](https://github.com/RomaniukNatalia)
 - [Kelvin Yeboah](https://github.com/KelvCodes)
-- [Nicolas_Triana](https://github.com/nicolastriana88) 
+- [Nicolas_Triana](https://github.com/nicolastriana88)
 - [Subramanya_M](https://github.com/RoronoaZoro1752)
 - [Austin Banner](https://github.com/AustinBanner)
 - [Hemlata_Sharma](https://github.com/HemaGarima)
@@ -1974,7 +1977,7 @@
 - [jeevan-aj](https://github.com/jeevan-aj)
 - [shilinwang](https://github.com/crzwzy)
 - [Taufi](https://github.com/Taufi)
--Ruty
+  -Ruty
 - [Jack Sighton](https://github.com/JackBerezhnov)
 - [Ellis Franklin](https://github.com/ellfran-7)
 - [alekhine](https://github.com/Src0p)
@@ -2193,6 +2196,7 @@
 - [Vedant Patel](https://github.com/Vedant-07)
 - [Arun N](https://github.com/arun-357)
 - [LiWuyao](https://github.com/LiWuyao)
+- [Rita Lopez](https://github.com/Rita-Lopez)
 - [Kavindu Dhananjaya](https://github.com/KavinduDr)
 - [Neil Prabhu](https://github.com/NeilPrabhu)
 - [Raghupathi](https://github.com/raghupathi321)
@@ -2230,8 +2234,7 @@
 - [Wen Xuan Fung Chen](https://github.com/HiChocoWhite)
 - [pcardona34](https://github.com/pcardona34)
 - [Weblato](https://github.com/theweblato)
-- [Girish](https://github.com/girishtulabandu)
--[Yaara Alkalay](https://github.com/yaaraalkalay)
+- [Girish](https://github.com/girishtulabandu) -[Yaara Alkalay](https://github.com/yaaraalkalay)
 - [Rheza](https://github.com/RhezaPriyaAnargya)
 - [StephaneKoeniguer](https://github.com/StephaneKoeniguer)
 - [Asaf](https://github.com/OddLamb)
@@ -2253,6 +2256,8 @@
 - Menucha
 - Tehila
 - Jack Arnaud
+- Samuel Yonas
 - [Kevin Ruiz](https://github.com/KeOt777)
 - [Cristiano Miranda] (https://github.com/CMBVT2023)
 - [Nadelina Georgieva] (https://github.com/nadelinageorgieva)
+- [Abdul Aouwal](https://github.com/aouwalitshikkha)
