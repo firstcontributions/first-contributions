@@ -2190,6 +2190,7 @@
 - [Yashika Khattri](https://github.com/yashika232)
 - [Sourabh Rai](https://github.com/fourabh)
 - [Davi do Egito](https://github.com/davi-egito)
+- lina
 - [Zuckmantra](https://github.com/Zuckmantra)
 - [Md. Rejwar Rahman Rifat](https://github.com/rejwar)
 - [Fatih Kucukkara](https://github.com/fkucukkara)
