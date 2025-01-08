@@ -1,5 +1,6 @@
 # Contributors
 - Chagit Lipsky!
+- Annie was here
 - [Sandhya Rani](https://github.com/sandhya12r) :Full Stack Web Developer
 - [Sruthi Krishnakumar](https://github.com/SruthiKrish19) :07/01/2025
 - [Leli Vexler](https://github.com/Lelivexler) 
@@ -20,6 +21,7 @@
 - [Ishan Karpe](https://github.com/Ishan-Karpe)
 - [nokesh](https://github.com/Nokesh11)
 - [Vicky Besra](https://github.com/vickybesra)
+- [Jenny Martin] (https://github.com/jmartinDS14)
 - [Gavin Reid] (https://github.com/GavinReid82)
 - [isimbana](https://github.com/isimbana)
 - [Louis7363](https://github.com/louis7363)
@@ -87,6 +89,7 @@
 - [Akash Dahal](https://github.com/DARKAD10)
 - [Harry C](https://github.com/campbellharry)
   YoucefBoursali
+- [Lydia Wren] (https://github.com/lydiaaawren)
 - [Khushi Goyal](https://github.com/goyalkhushi)
 - [vinod jaina](https://github.com/firstcontributions/first-contributions?tab=readme-ov-file)
 - [Hetvi Shah]
@@ -1916,6 +1919,7 @@
 - [poojashreeks](https://github.com/poojashreeks)
 - [Agunbiade Aishat](https://github.com/yeeshadev)
 - [Anonym2137](https://github.com/Anonym2137)
+- Trea M
 - [Br0wnReculse](https://github.com/br0wnrecluse)
 - [A K M Jubaeir Islam](https://github.com/Zubiii333)
 - [Sri Ram Gowd Vuppala](https://github.com/velvet-thunder-cmd)
@@ -2245,6 +2249,7 @@
 - Elisheva
 - Menucha
 - Tehila
+- Jack Arnaud
 - [Kevin Ruiz](https://github.com/KeOt777)
 - [Cristiano Miranda] (https://github.com/CMBVT2023)
 - [Nadelina Georgieva] (https://github.com/nadelinageorgieva)
