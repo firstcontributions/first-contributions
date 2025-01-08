@@ -2,13 +2,14 @@
 
 - Chagit Lipsky!
 - Annie was here
+- [Arvid Håkon Seternes](https://github.com/ArvidHS) : Hobbyist wanting to contribute!
 - [Sandhya Rani](https://github.com/sandhya12r) :Full Stack Web Developer
 - [Sruthi Krishnakumar](https://github.com/SruthiKrish19) :07/01/2025
 - [Leli Vexler](https://github.com/Lelivexler)
 - [Yuhan Zou](https://github.com/djj316/) :A brand new start
 - [RoyWB.AKA.rdubbi] (https://github.com/rdubbi) :Hello Opensource World!
-- [EKWUNIFE, Oluwatomiwa] (https://github.com/elisheba-beep) : first contribution!
-- [Vijay Makwana] (https://github.com/vijay-makwana959/first-contributions.git)  : Hello contributors!
+- [EKWUNIFE, Oluwatomiwa](https://github.com/elisheba-beep) : first contribution!
+- [Vijay Makwana](https://github.com/vijay-makwana959/first-contributions.git)  : Hello contributors!
 - Add [Nill_The_Alchemist](https://github.com/Nill-The-Alchemist/)
 - [Sayyed Mustafa](https://github.com/mustafa-sayyed/)
 - [Abijeeth Vasra](https://github.com/Abijeethvasra890)
@@ -37,7 +38,7 @@
 - [A N M Mashud](https://github.com/anmmashud)
 - [Jeff Martin](https://github.com/siberian-devsky) :01.06.25
 - [Zhen Liu](https://github.com/zh3nl)
-- [Harsh Rana] (https://github.com/HarshRana-Simform)
+- [Harsh Rana](https://github.com/HarshRana-Simform)
 - [Jonathan Eudja](https://github.com/jjthisguy)
 - [Aditya kr. mishra](https://github.com/adityakrmishra)
 - [Chong Liu](https://github.com/lc87624)
@@ -55,7 +56,7 @@
 - [SumitThakur](https://github.com/SumitThakur1600)
 - [Aditya](https://github.com/aditya-7562) :: 07/01/2025
 - [SaniyaSayyed](https://github.com/saniya-154)
-- [Mahwish Rizwan] (https://github.com/MahwishRizwan)
+- [Mahwish Rizwan](https://github.com/MahwishRizwan)
 - [CynthiaWahome](https://github.com/CynthiaWahome)
 - [CaraMcG](https://github.com/caraMcG)
 - [Arnav Joshi](https://github.com/Arnav020)
