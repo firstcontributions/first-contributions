@@ -2,19 +2,21 @@
 
 - Chagit Lipsky!
 - Annie was here
+- [Arvid Håkon Seternes](https://github.com/ArvidHS) : Hobbyist wanting to contribute!
 - [Sandhya Rani](https://github.com/sandhya12r) :Full Stack Web Developer
 - [Sruthi Krishnakumar](https://github.com/SruthiKrish19) :07/01/2025
 - [Leli Vexler](https://github.com/Lelivexler)
 - [Yuhan Zou](https://github.com/djj316/) :A brand new start
 - [RoyWB.AKA.rdubbi] (https://github.com/rdubbi) :Hello Opensource World!
-- [EKWUNIFE, Oluwatomiwa] (https://github.com/elisheba-beep) : first contribution!
-- [Vijay Makwana] (https://github.com/vijay-makwana959/first-contributions.git) : Hello contributors!
+- [EKWUNIFE, Oluwatomiwa](https://github.com/elisheba-beep) : first contribution!
+- [Vijay Makwana](https://github.com/vijay-makwana959/first-contributions.git)  : Hello contributors!
 - Add [Nill_The_Alchemist](https://github.com/Nill-The-Alchemist/)
 - [Sayyed Mustafa](https://github.com/mustafa-sayyed/)
 - [Abijeeth Vasra](https://github.com/Abijeethvasra890)
 - [siddiqueahmk](https://github.com/siddiqueahmk)
 - [Shashank Sinha](https://github.com/cbsinha)
 - [Joseph](https://github.com/Joseph77667)
+- [Myles](https://github.com/Smyles20)
 - [Sunny-Saurya](https://github.com/Sunny-Saurya)
 - [Purva Masurkar](https://github.com/purvanova-213)
 - [Karim-M03](https://github.com/Karim-M03)
@@ -30,12 +32,13 @@
 - [aajliAhmed](https://github.com/aajliAhmed)
 - [mickaelk98](https://github.com/mickaelk98/)
 - [Dani Matuko](https://github.com/danimatuko)
-- [DeathScytheZ](https://github.com/DeathScytheZ) -[Aamir Shaikh] (https://github.com/aamirsk8766)
-  [Leo.G](https://github.com/LeoZFG)
+- [DeathScytheZ](https://github.com/DeathScytheZ)
+- [Aamir Shaikh](https://github.com/aamirsk8766)
+- [Leo.G](https://github.com/LeoZFG)
 - [A N M Mashud](https://github.com/anmmashud)
 - [Jeff Martin](https://github.com/siberian-devsky) :01.06.25
 - [Zhen Liu](https://github.com/zh3nl)
-- [Harsh Rana] (https://github.com/HarshRana-Simform)
+- [Harsh Rana](https://github.com/HarshRana-Simform)
 - [Jonathan Eudja](https://github.com/jjthisguy)
 - [Aditya kr. mishra](https://github.com/adityakrmishra)
 - [Chong Liu](https://github.com/lc87624)
@@ -45,14 +48,15 @@
 - [Sargunesh](https://github.com/sargunesh25)
 - [Gayatri](https://github.com/gayatriiv)
 - [Sanjai Kumar R](https://github.com/sanjai451)
-  [Chuks Stephen](https://github.com/stephenchuks)
+- [Chuks Stephen](https://github.com/stephenchuks)
+- [Seth Hendrix](https://github.com/LondorNative) :01/08/2025
 - [CamiloRodriguezDev](https://github.com/CamiloRodriguezDev)
 - [Trevor Kibuba](https://github.com/kibuba-njihia)
 - [Joshua Sunday](https://github.com/joshuasunnexy)
 - [SumitThakur](https://github.com/SumitThakur1600)
 - [Aditya](https://github.com/aditya-7562) :: 07/01/2025
 - [SaniyaSayyed](https://github.com/saniya-154)
-- [Mahwish Rizwan] (https://github.com/MahwishRizwan)
+- [Mahwish Rizwan](https://github.com/MahwishRizwan)
 - [CynthiaWahome](https://github.com/CynthiaWahome)
 - [CaraMcG](https://github.com/caraMcG)
 - [Arnav Joshi](https://github.com/Arnav020)
@@ -62,7 +66,7 @@
 - [Anurag Chaturvedi](https://github.com/anuragjcchaturvedi)
 - [Manas Mahajan](https://github.com/ManasMahajan2003)
 - [SNN](https://github.com/sungenyeint)
-  <!-- - [abhijeeth m](https://github.com/abhijeeth-mantha) -->
+  [abhijeeth m](https://github.com/abhijeeth-mantha)
   [Rushikesh Amale]
   [KishanSingh]
   [Abdul Rahim](https://github.com/Abdrahim-123)
@@ -108,6 +112,7 @@
 - [tuysh](https://github.com/Tuysh)
 - [Esther Kalsmith](https://github.com/EstherKal)
 - [Vittorio Garretto](https://github.com/VittorioGarretto)
+- [Zoe Reed](https://github.com/zoereedviz)
 - [Weirdo-147](https://github.com/Weirdo-147)
 - [Akhila Sahithi](https://github.com/Akhila-Sahithi)
   [SrivastavaAman8604](https://github.com/SrivastavaAman8604)
@@ -2193,6 +2198,7 @@
 - [Dileep Kumar](https://github.com/dileep0998666)
 - [Arun N](https://github.com/arun-357)
 - [LiWuyao](https://github.com/LiWuyao)
+- [Rita Lopez](https://github.com/Rita-Lopez)
 - [Kavindu Dhananjaya](https://github.com/KavinduDr)
 - [Neil Prabhu](https://github.com/NeilPrabhu)
 - [Raghupathi](https://github.com/raghupathi321)
@@ -2252,6 +2258,8 @@
 - Menucha
 - Tehila
 - Jack Arnaud
+- Samuel Yonas
 - [Kevin Ruiz](https://github.com/KeOt777)
 - [Cristiano Miranda] (https://github.com/CMBVT2023)
 - [Nadelina Georgieva] (https://github.com/nadelinageorgieva)
+- [Abdul Aouwal](https://github.com/aouwalitshikkha)
