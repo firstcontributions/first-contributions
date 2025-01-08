@@ -109,6 +109,7 @@
 - [tuysh](https://github.com/Tuysh)
 - [Esther Kalsmith](https://github.com/EstherKal)
 - [Vittorio Garretto](https://github.com/VittorioGarretto)
+- [Zoe Reed](https://github.com/zoereedviz)
 - [Weirdo-147](https://github.com/Weirdo-147)
 - [Akhila Sahithi](https://github.com/Akhila-Sahithi)
   [SrivastavaAman8604](https://github.com/SrivastavaAman8604)
