@@ -10,6 +10,7 @@
 - [Abijeeth Vasra](https://github.com/Abijeethvasra890)
 - [siddiqueahmk](https://github.com/siddiqueahmk)
 - [Shashank Sinha](https://github.com/cbsinha)
+- [Joseph](https://github.com/Joseph77667)
 - [Sunny-Saurya](https://github.com/Sunny-Saurya)
 - [Purva Masurkar](https://github.com/purvanova-213)
 - [Karim-M03](https://github.com/Karim-M03)
