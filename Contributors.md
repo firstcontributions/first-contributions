@@ -1,5 +1,6 @@
 # Contributors
 - Chagit Lipsky!
+- [Sandhya Rani](https://github.com/sandhya12r) :Full Stack Web Developer
 - [Sruthi Krishnakumar](https://github.com/SruthiKrish19) :07/01/2025
 - [Leli Vexler](https://github.com/Lelivexler) 
 - [Yuhan Zou](https://github.com/djj316/) :A brand new start
