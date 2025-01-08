@@ -45,6 +45,7 @@
 - [Sanjai Kumar R](https://github.com/sanjai451)
   [Chuks Stephen](https://github.com/stephenchuks)
 - [CamiloRodriguezDev](https://github.com/CamiloRodriguezDev)
+- [Julia](https://github.com/Katastropha)
 - [Trevor Kibuba](https://github.com/kibuba-njihia)
 - [Joshua Sunday](https://github.com/joshuasunnexy)
 - [SumitThakur](https://github.com/SumitThakur1600)
