@@ -87,6 +87,7 @@
 - [Akash Dahal](https://github.com/DARKAD10)
 - [Harry C](https://github.com/campbellharry)
   YoucefBoursali
+- [Lydia Wren] (https://github.com/lydiaaawren)
 - [Khushi Goyal](https://github.com/goyalkhushi)
 - [vinod jaina](https://github.com/firstcontributions/first-contributions?tab=readme-ov-file)
 - [Hetvi Shah]
