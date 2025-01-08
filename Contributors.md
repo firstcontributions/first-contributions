@@ -2192,6 +2192,7 @@
 - [Vedant Patel](https://github.com/Vedant-07)
 - [Arun N](https://github.com/arun-357)
 - [LiWuyao](https://github.com/LiWuyao)
+- [Rita Lopez](https://github.com/Rita-Lopez)
 - [Kavindu Dhananjaya](https://github.com/KavinduDr)
 - [Neil Prabhu](https://github.com/NeilPrabhu)
 - [Raghupathi](https://github.com/raghupathi321)
