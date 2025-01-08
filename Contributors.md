@@ -1,6 +1,7 @@
 # Contributors
 - Chagit Lipsky!
 - Annie was here
+- Curtis Paterson
 - [Sandhya Rani](https://github.com/sandhya12r) :Full Stack Web Developer
 - [Sruthi Krishnakumar](https://github.com/SruthiKrish19) :07/01/2025
 - [Leli Vexler](https://github.com/Lelivexler) 
