@@ -10,6 +10,7 @@
 - [RoyWB.AKA.rdubbi] (https://github.com/rdubbi) :Hello Opensource World!
 - [EKWUNIFE, Oluwatomiwa](https://github.com/elisheba-beep) : first contribution!
 - [Vijay Makwana](https://github.com/vijay-makwana959/first-contributions.git)  : Hello contributors!
+- [Sebastián Lozano](https://github.com/SebastianL-dev) : Web developer
 - Add [Nill_The_Alchemist](https://github.com/Nill-The-Alchemist/)
 - [Sayyed Mustafa](https://github.com/mustafa-sayyed/)
 - [Abijeeth Vasra](https://github.com/Abijeethvasra890)
