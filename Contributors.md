@@ -2164,6 +2164,7 @@
 - [Vedant Patel](https://github.com/Vedant-07)
 - [Arun N](https://github.com/arun-357)
 - [LiWuyao](https://github.com/LiWuyao)
+- [Rita Lopez](https://github.com/Rita-Lopez)
 - [Neil Prabhu](https://github.com/NeilPrabhu)
 - [Raghupathi](https://github.com/raghupathi321)
 - [Ahmed Wael](https://github.com/ahmed-wael2002)
@@ -2212,3 +2213,4 @@
 - [Prerana Maurya](https://github.com/Prerana-Mauryaa)
 - [Ryan Bae](https://github.com/ryanbae94)
 - [xian](https://github.com/cbxian22)
+
