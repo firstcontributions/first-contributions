@@ -1,10 +1,11 @@
 # Contributors
+
 - Chagit Lipsky!
 - Annie was here
-- Curtis Paterson
+- Curtis Paterson!
 - [Sandhya Rani](https://github.com/sandhya12r) :Full Stack Web Developer
 - [Sruthi Krishnakumar](https://github.com/SruthiKrish19) :07/01/2025
-- [Leli Vexler](https://github.com/Lelivexler) 
+- [Leli Vexler](https://github.com/Lelivexler)
 - [Yuhan Zou](https://github.com/djj316/) :A brand new start
 - [RoyWB.AKA.rdubbi] (https://github.com/rdubbi) :Hello Opensource World!
 - [EKWUNIFE, Oluwatomiwa] (https://github.com/elisheba-beep) : first contribution!
@@ -29,9 +30,8 @@
 - [aajliAhmed](https://github.com/aajliAhmed)
 - [mickaelk98](https://github.com/mickaelk98/)
 - [Dani Matuko](https://github.com/danimatuko)
-- [DeathScytheZ](https://github.com/DeathScytheZ)
--[Aamir Shaikh] (https://github.com/aamirsk8766)
-[Leo.G](https://github.com/LeoZFG)
+- [DeathScytheZ](https://github.com/DeathScytheZ) -[Aamir Shaikh] (https://github.com/aamirsk8766)
+  [Leo.G](https://github.com/LeoZFG)
 - [A N M Mashud](https://github.com/anmmashud)
 - [Jeff Martin](https://github.com/siberian-devsky) :01.06.25
 - [Zhen Liu](https://github.com/zh3nl)
@@ -198,7 +198,7 @@
 - [Joshua Luca](https://github.com/joshluca98)
 - [RomaniukNatalia](https://github.com/RomaniukNatalia)
 - [Kelvin Yeboah](https://github.com/KelvCodes)
-- [Nicolas_Triana](https://github.com/nicolastriana88) 
+- [Nicolas_Triana](https://github.com/nicolastriana88)
 - [Subramanya_M](https://github.com/RoronoaZoro1752)
 - [Austin Banner](https://github.com/AustinBanner)
 - [Hemlata_Sharma](https://github.com/HemaGarima)
@@ -1972,7 +1972,7 @@
 - [jeevan-aj](https://github.com/jeevan-aj)
 - [shilinwang](https://github.com/crzwzy)
 - [Taufi](https://github.com/Taufi)
--Ruty
+  -Ruty
 - [Jack Sighton](https://github.com/JackBerezhnov)
 - [Ellis Franklin](https://github.com/ellfran-7)
 - [alekhine](https://github.com/Src0p)
@@ -2228,8 +2228,7 @@
 - [Wen Xuan Fung Chen](https://github.com/HiChocoWhite)
 - [pcardona34](https://github.com/pcardona34)
 - [Weblato](https://github.com/theweblato)
-- [Girish](https://github.com/girishtulabandu)
--[Yaara Alkalay](https://github.com/yaaraalkalay)
+- [Girish](https://github.com/girishtulabandu) -[Yaara Alkalay](https://github.com/yaaraalkalay)
 - [Rheza](https://github.com/RhezaPriyaAnargya)
 - [StephaneKoeniguer](https://github.com/StephaneKoeniguer)
 - [Asaf](https://github.com/OddLamb)
