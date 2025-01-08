@@ -31,8 +31,9 @@
 - [aajliAhmed](https://github.com/aajliAhmed)
 - [mickaelk98](https://github.com/mickaelk98/)
 - [Dani Matuko](https://github.com/danimatuko)
-- [DeathScytheZ](https://github.com/DeathScytheZ) -[Aamir Shaikh] (https://github.com/aamirsk8766)
-  [Leo.G](https://github.com/LeoZFG)
+- [DeathScytheZ](https://github.com/DeathScytheZ)
+- [Aamir Shaikh](https://github.com/aamirsk8766)
+- [Leo.G](https://github.com/LeoZFG)
 - [A N M Mashud](https://github.com/anmmashud)
 - [Jeff Martin](https://github.com/siberian-devsky) :01.06.25
 - [Zhen Liu](https://github.com/zh3nl)
@@ -46,7 +47,8 @@
 - [Sargunesh](https://github.com/sargunesh25)
 - [Gayatri](https://github.com/gayatriiv)
 - [Sanjai Kumar R](https://github.com/sanjai451)
-  [Chuks Stephen](https://github.com/stephenchuks)
+- [Chuks Stephen](https://github.com/stephenchuks)
+- [Seth Hendrix](https://github.com/LondorNative) :01/08/2025
 - [CamiloRodriguezDev](https://github.com/CamiloRodriguezDev)
 - [Trevor Kibuba](https://github.com/kibuba-njihia)
 - [Joshua Sunday](https://github.com/joshuasunnexy)
