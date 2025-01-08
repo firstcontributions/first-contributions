@@ -9,6 +9,7 @@
 - [Yuhan Zou](https://github.com/djj316/) :A brand new start
 - [RoyWB.AKA.rdubbi] (https://github.com/rdubbi) :Hello Opensource World!
 - [EKWUNIFE, Oluwatomiwa] (https://github.com/elisheba-beep) : first contribution!
+- [Vijay Makwana] (https://github.com/vijay-makwana959/first-contributions.git)  : Hello contributors!
 - Add [Nill_The_Alchemist](https://github.com/Nill-The-Alchemist/)
 - [Sayyed Mustafa](https://github.com/mustafa-sayyed/)
 - [Abijeeth Vasra](https://github.com/Abijeethvasra890)
@@ -39,6 +40,7 @@
 - [Jonathan Eudja](https://github.com/jjthisguy)
 - [Aditya kr. mishra](https://github.com/adityakrmishra)
 - [Chong Liu](https://github.com/lc87624)
+- [Govind R](https://github.com/GovindR-19)
 - [Harshit Joshi](https://github.com/harsh040206)
 - [Aditya Kumar Jha ](https://github.com/Aditya-myst)
 - [Sargunesh](https://github.com/sargunesh25)
