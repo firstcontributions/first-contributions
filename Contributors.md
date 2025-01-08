@@ -62,7 +62,7 @@
 - [Anurag Chaturvedi](https://github.com/anuragjcchaturvedi)
 - [Manas Mahajan](https://github.com/ManasMahajan2003)
 - [SNN](https://github.com/sungenyeint)
-  <!-- - [abhijeeth m](https://github.com/abhijeeth-mantha) -->
+  [abhijeeth m](https://github.com/abhijeeth-mantha)
   [Rushikesh Amale]
   [KishanSingh]
   [Abdul Rahim](https://github.com/Abdrahim-123)
