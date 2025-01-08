@@ -24,6 +24,7 @@
 - [Zhen Liu](https://github.com/zh3nl)
 - [Aditya kr. mishra](https://github.com/adityakrmishra)
 - [Chong Liu](https://github.com/lc87624)
+- [Govind R](https://github.com/GovindR-19)
 - [Harshit Joshi](https://github.com/harsh040206)
 - [Aditya Kumar Jha ](https://github.com/Aditya-myst)
 - [Sargunesh](https://github.com/sargunesh25)
