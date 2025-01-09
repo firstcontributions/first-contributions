@@ -334,6 +334,7 @@
 - [Lachlan Robinson](https://github.com/lachlan-robinson)
 - [Dascalu Dumitru](https://github.com/IronMemo)
 - [Cesar Garcia](https://github.com/cesaralej)
+- [Keval Deepak](https://github.com/kevaldeepak)
 - [Anthony Okechukwu Ubah](https://github.com/okeysbytes)
 - [ARPITHA](https://github.com/Arpitha189)
 - [All the World's a Stage](https://github.com/YourHateMyHeroin)
