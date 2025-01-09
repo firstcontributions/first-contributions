@@ -206,6 +206,7 @@
 - [aayamrajshakya](https://github.com/aayamrajshakya)
 - [Vaibhav0725](https://github.com/vaibhav0725)
 - [Vardararo](https://github.com/Vardararo)
+- [Fuad Hasan](https://github.com/itsfuad)
 - Namu
 - [meenakshiruia](https://github.com/meenakshiruia)
 - [Joshua Luca](https://github.com/joshluca98)
