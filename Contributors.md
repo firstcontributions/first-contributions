@@ -225,6 +225,7 @@
 - [amir asghar akbar mahaleh ghazian tapeh]
 - [stevee14]
 - Aayush Poudel (https://github.com/aayushhh44)
+- [Cédric Bohnert](https://github.com/cbohnert67)
 - [misfit](https://github.com/slMiSFiT)
 - [Gilbert-Koom](https://github.com/Gilbert-Koom/)
 - [Shubhanjan](https://github.com/AnjanC0des)
