@@ -1,6 +1,7 @@
 # Contributors
 
 - Chagit Lipsky!
+- [Vivek Chudasama](https://github.com/vivekchudasama-2004)
 - Annie was here
 - DJ was here
 - [Shimwa Aime Kelvin](https://github.com/AimeKelvin) : Developer discovering about the wonders of open_source projects🫡!
