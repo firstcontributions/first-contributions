@@ -2207,6 +2207,7 @@
 - [Garv Jhajharia](https://github.com/garvj65)
 - [Vedant Patel](https://github.com/Vedant-07)
 - [Dileep Kumar](https://github.com/dileep0998666)
+- [Luiz Elias](https://github.com/luizelias8)
 - [Arun N](https://github.com/arun-357)
 - [LiWuyao](https://github.com/LiWuyao)
 - [Rita Lopez](https://github.com/Rita-Lopez)
