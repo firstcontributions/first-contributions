@@ -113,7 +113,7 @@ Sasa weka ombi la kuvuta.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-Hivi karibuni nitakuwa kuunganisha mabadiliko yako yote kwenye tawi la mradi huu. Utapata barua pepe ya arifa mara mabadiliko yameunganishwa.
+Hivi karibuni nitaunganisha mabadiliko yako yote kwenye tawi la mradi huu. Utapata barua pepe ya arifa mara mabadiliko yameunganishwa.
 
 ## Wapi kutoka hapa?
 
