@@ -1,5 +1,6 @@
 # Contributors
 
+- [hannah0wang 🍍](https://github.com/hannah0wang)
 - Chagit Lipsky!
 - Annie was here
 - [Arvid Håkon Seternes](https://github.com/ArvidHS) : Hobbyist wanting to contribute!
