@@ -23,6 +23,7 @@
 - [Sunny-Saurya](https://github.com/Sunny-Saurya)
 - [Purva Masurkar](https://github.com/purvanova-213)
 - [Karim-M03](https://github.com/Karim-M03)
+- [Trevor C Justus](https://github.com/trevorcj)
 - [Sadiat360](https://github.com/Sadiat360)
 - [Shivay Sharma](https://github.com/Paperyduke6)
 - [Ishan Karpe](https://github.com/Ishan-Karpe)
