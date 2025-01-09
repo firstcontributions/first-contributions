@@ -2123,6 +2123,7 @@
 - Polino
 - olajideolamide
 - [LidaMudota](https://github.com/LidaMudota)
+- [MatrixAIPy](https://github.com/MatrixAIPy)
 - [Vikkram](https://github.com/vikkramstark)
 - [Mihir Tandon](https://github.com/Mihirt2)
 - [Akilmohammad](https://github.com/akilmohammad)
