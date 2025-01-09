@@ -3,6 +3,7 @@
 - Chagit Lipsky!
 - [Vivek Chudasama](https://github.com/vivekchudasama-2004)
 - Annie was here
+- [HayatZarine](https://github.com/HayatZarine): Hello OpenSource world!
 - DJ was here
 - Saiteja 
 - [Shilpa](https://github.com/Shilpa805) : my first contribution!
