@@ -2155,6 +2155,7 @@
 - [Aswin-04](https://github.com/Aswin-04/)
 - [albertolr98](https://github.com/albertolr98/)
 - [Ganixx](https://github.com/Ganixx)
+- [Federico Vita](https://github.com/fedevita)
 - [Shun11111](https://github.com/Shun11111)
 - [nebulyu](https://github.com/nebulyu)
 - [vivekpm614](https://github.com/vivekpm614)
