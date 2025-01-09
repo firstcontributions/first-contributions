@@ -9,6 +9,7 @@
 - [Leli Vexler](https://github.com/Lelivexler)
 - [Yuhan Zou](https://github.com/djj316/) :A brand new start
 - [RoyWB.AKA.rdubbi] (https://github.com/rdubbi) :Hello Opensource World!
+- [Monicah Mackena](https://github.com/MACKENA05) : Contributor
 - [EKWUNIFE, Oluwatomiwa](https://github.com/elisheba-beep) : first contribution!
 - [Vijay Makwana](https://github.com/vijay-makwana959/first-contributions.git)  : Hello contributors!
 - [Sebastián Lozano](https://github.com/SebastianL-dev) : Web developer
