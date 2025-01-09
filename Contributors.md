@@ -2,6 +2,7 @@
 
 - Chagit Lipsky!
 - Annie was here
+- DJ was here
 - [Arvid Håkon Seternes](https://github.com/ArvidHS) : Hobbyist wanting to contribute!
 - [Sandhya Rani](https://github.com/sandhya12r) :Full Stack Web Developer
 - [Sruthi Krishnakumar](https://github.com/SruthiKrish19) :07/01/2025
