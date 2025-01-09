@@ -4,6 +4,7 @@
 - [Vivek Chudasama](https://github.com/vivekchudasama-2004)
 - Annie was here
 - DJ was here
+- Saiteja 
 - [Shimwa Aime Kelvin](https://github.com/AimeKelvin) : Developer discovering about the wonders of open_source projects🫡!
 - [Shreeya Gokhale](https://github.com/shreeya1810) : First contribution!
 - [Arvid Håkon Seternes](https://github.com/ArvidHS) : Hobbyist wanting to contribute!
