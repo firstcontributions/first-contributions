@@ -225,6 +225,7 @@
 - [amir asghar akbar mahaleh ghazian tapeh]
 - [stevee14]
 - Aayush Poudel (https://github.com/aayushhh44)
+- [Cédric Bohnert](https://github.com/cbohnert67)
 - [misfit](https://github.com/slMiSFiT)
 - [Gilbert-Koom](https://github.com/Gilbert-Koom/)
 - [Shubhanjan](https://github.com/AnjanC0des)
@@ -2123,6 +2124,7 @@
 - Polino
 - olajideolamide
 - [LidaMudota](https://github.com/LidaMudota)
+- [MatrixAIPy](https://github.com/MatrixAIPy)
 - [Vikkram](https://github.com/vikkramstark)
 - [Mihir Tandon](https://github.com/Mihirt2)
 - [Akilmohammad](https://github.com/akilmohammad)
@@ -2285,3 +2287,4 @@
 - [Ashok Gharpankar] (https://github.com/ashokgharpankar)
 - [Brayan Brenes Soto](https://github.com/Brayanbs99)
 - [Yohanna Jiryis](http://github.com/MrBlue0177)
+- [Blake Gurnee] (https://github.com/BlakeGurnee)
