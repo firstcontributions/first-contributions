@@ -1712,6 +1712,7 @@
 - [Negan Nguyen](https://github.com/nenene1812)
 - [Sriram B](https://github.com/Sriram-B-Srivatsa)
 - [Chen Jiang](https://github.com/LuluLalaJ)
+- [Sean Noh](https://github.com/snoh1654)
 - [Adwaith M K](https://github.com/a-dwaith)
 - [Fabio k](https://github.com/Fabio-k)
 - [umair ibrahim](https://github.com/omair1996)
