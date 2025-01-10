@@ -2,6 +2,7 @@
 
 - [asyraf34](https://github.com/asyraf34) : ***I Love Github!***
 - Chagit Lipsky!
+  Rohit Chavan:  My First controbution 
 - [Vivek Chudasama](https://github.com/vivekchudasama-2004)
 - Annie was here
 - [HayatZarine](https://github.com/HayatZarine): Hello OpenSource world!
