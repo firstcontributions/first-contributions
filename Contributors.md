@@ -30,6 +30,7 @@
 - [Joseph](https://github.com/Joseph77667)
 - [Myles](https://github.com/Smyles20)
 - [Zülal] (https://github.com/zulalc)
+- [Scorpio] (https://github.com/Black-Scorpio)
 - [Sunny-Saurya](https://github.com/Sunny-Saurya)
 - [Purva Masurkar](https://github.com/purvanova-213)
 - [Karim-M03](https://github.com/Karim-M03)
