@@ -1,5 +1,6 @@
 # Contributors
 
+- [Nathan Nguyen](https://github.com/froztty)
 - [asyraf34](https://github.com/asyraf34) : ***I Love Github!***
 - Chagit Lipsky!
   Rohit Chavan:  My First controbution 
