@@ -1,5 +1,5 @@
 # Contributors
-
+- [Nathan Nguyen](https://github.com/froztty)
 - Chagit Lipsky!
 - [Vivek Chudasama](https://github.com/vivekchudasama-2004)
 - Annie was here
