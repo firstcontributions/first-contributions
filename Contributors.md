@@ -80,6 +80,7 @@
 - [Aditya](https://github.com/aditya-7562) :: 07/01/2025
 - [SaniyaSayyed](https://github.com/saniya-154)
 - [Mahwish Rizwan](https://github.com/MahwishRizwan)
+- [Pedro Peña Segura](https://github.com/ppsegura)
 - [CynthiaWahome](https://github.com/CynthiaWahome)
 - [CaraMcG](https://github.com/caraMcG)
 - [Arnav Joshi](https://github.com/Arnav020)
