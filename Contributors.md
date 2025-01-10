@@ -5,7 +5,8 @@
 - Annie was here
 - [HayatZarine](https://github.com/HayatZarine): Hello OpenSource world!
 - DJ was here
-- Saiteja 
+- Saiteja
+- [Mateo Juncal](https://github.com/MateoJuncal)
 - [Shilpa](https://github.com/Shilpa805) : my first contribution!
 - [Shimwa Aime Kelvin](https://github.com/AimeKelvin) : Developer discovering about the wonders of open_source projects🫡!
 - [Shreeya Gokhale](https://github.com/shreeya1810) : First contribution!
@@ -17,7 +18,7 @@
 - [RoyWB.AKA.rdubbi] (https://github.com/rdubbi) :Hello Opensource World!
 - [Monicah Mackena](https://github.com/MACKENA05) : Contributor
 - [EKWUNIFE, Oluwatomiwa](https://github.com/elisheba-beep) : first contribution!
-- [Vijay Makwana](https://github.com/vijay-makwana959/first-contributions.git)  : Hello contributors!
+- [Vijay Makwana](https://github.com/vijay-makwana959/first-contributions.git) : Hello contributors!
 - [Sebastián Lozano](https://github.com/SebastianL-dev) : Web developer
 - Add [Nill_The_Alchemist](https://github.com/Nill-The-Alchemist/)
 - [Sayyed Mustafa](https://github.com/mustafa-sayyed/)
