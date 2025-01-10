@@ -5,7 +5,7 @@
 - Annie was here
 - [HayatZarine](https://github.com/HayatZarine): Hello OpenSource world!
 - DJ was here
-- Saiteja 
+- Saiteja
 - [JorgeOteíza](https://github.com/JorgeOteiza) : Discovering OpenSource projects.
 - [Shilpa](https://github.com/Shilpa805) : my first contribution!
 - [Shimwa Aime Kelvin](https://github.com/AimeKelvin) : Developer discovering about the wonders of open_source projects🫡!
@@ -19,8 +19,9 @@
 - [RoyWB.AKA.rdubbi] (https://github.com/rdubbi) :Hello Opensource World!
 - [Monicah Mackena](https://github.com/MACKENA05) : Contributor
 - [EKWUNIFE, Oluwatomiwa](https://github.com/elisheba-beep) : first contribution!
-- [Vijay Makwana](https://github.com/vijay-makwana959/first-contributions.git)  : Hello contributors!
+- [Vijay Makwana](https://github.com/vijay-makwana959/first-contributions.git) : Hello contributors!
 - [Sebastián Lozano](https://github.com/SebastianL-dev) : Web developer
+
 - Add [Nill_The_Alchemist](https://github.com/Nill-The-Alchemist/)
 - [Sayyed Mustafa](https://github.com/mustafa-sayyed/)
 - [Abijeeth Vasra](https://github.com/Abijeethvasra890)
@@ -47,7 +48,7 @@
 - [Dani Matuko](https://github.com/danimatuko)
 - [DeathScytheZ](https://github.com/DeathScytheZ)
 - [Aamir Shaikh](https://github.com/aamirsk8766)
-- [Leo.G](https://github.com/LeoZFG)
+- [Leo.G](https://github.com/LeoZFG) -[Nikhil Kr Das](https://github.com/nikhil94058)
 - [A N M Mashud](https://github.com/anmmashud)
 - [Jeff Martin](https://github.com/siberian-devsky) :01.06.25
 - [Zhen Liu](https://github.com/zh3nl)
@@ -84,7 +85,7 @@
   [Rushikesh Amale]
   [KishanSingh]
   [Abdul Rahim](https://github.com/Abdrahim-123)
-  [Swapnil Nagras] 
+  [Swapnil Nagras]
 - [Aditya Radadiya](https://github.com/RadadiyaAditya)
 - [Sarthak Bhardwaj](https://github.com/sarthakbhardwaj27)
 - [Jefferson Huisa](https://github.com/j3ffh95)
@@ -2296,5 +2297,5 @@
 - [Brayan Brenes Soto](https://github.com/Brayanbs99)
 - [Yohanna Jiryis](http://github.com/MrBlue0177)
 - [Blake Gurnee] (https://github.com/BlakeGurnee)
-- [ninthursday](https://github.com/ninthursday) 
+- [ninthursday](https://github.com/ninthursday)
 - WY
