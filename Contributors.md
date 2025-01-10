@@ -1,5 +1,6 @@
 # Contributors
 - Chagit Lipsky!
+- [PARTH BHATT](https://github.com/paarthbhatt) : Fresher CSE student
 - Annie was here
 - [Sandhya Rani](https://github.com/sandhya12r) :Full Stack Web Developer
 - [Sruthi Krishnakumar](https://github.com/SruthiKrish19) :07/01/2025
