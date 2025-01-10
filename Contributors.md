@@ -84,6 +84,7 @@
   [Rushikesh Amale]
   [KishanSingh]
   [Abdul Rahim](https://github.com/Abdrahim-123)
+  [Swapnil Nagras] 
 - [Aditya Radadiya](https://github.com/RadadiyaAditya)
 - [Sarthak Bhardwaj](https://github.com/sarthakbhardwaj27)
 - [Jefferson Huisa](https://github.com/j3ffh95)
