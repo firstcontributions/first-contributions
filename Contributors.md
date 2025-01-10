@@ -1,11 +1,13 @@
 # Contributors
 
+- [asyraf34](https://github.com/asyraf34) : ***I Love Github!***
 - Chagit Lipsky!
+  Rohit Chavan:  My First controbution 
 - [Vivek Chudasama](https://github.com/vivekchudasama-2004)
 - Annie was here
 - [HayatZarine](https://github.com/HayatZarine): Hello OpenSource world!
 - DJ was here
-- Saiteja 
+- Saiteja
 - [JorgeOteíza](https://github.com/JorgeOteiza) : Discovering OpenSource projects.
 - [Shilpa](https://github.com/Shilpa805) : my first contribution!
 - [Shimwa Aime Kelvin](https://github.com/AimeKelvin) : Developer discovering about the wonders of open_source projects🫡!
@@ -19,16 +21,19 @@
 - [RoyWB.AKA.rdubbi] (https://github.com/rdubbi) :Hello Opensource World!
 - [Monicah Mackena](https://github.com/MACKENA05) : Contributor
 - [EKWUNIFE, Oluwatomiwa](https://github.com/elisheba-beep) : first contribution!
-- [Vijay Makwana](https://github.com/vijay-makwana959/first-contributions.git)  : Hello contributors!
+- [Vijay Makwana](https://github.com/vijay-makwana959/first-contributions.git) : Hello contributors!
 - [Sebastián Lozano](https://github.com/SebastianL-dev) : Web developer
+- [ninthursday](https://github.com/ninthursday)
 - Add [Nill_The_Alchemist](https://github.com/Nill-The-Alchemist/)
 - [Sayyed Mustafa](https://github.com/mustafa-sayyed/)
+  [Max De Luna](https://github.com/MaxDLuna)
 - [Abijeeth Vasra](https://github.com/Abijeethvasra890)
 - [siddiqueahmk](https://github.com/siddiqueahmk)
 - [Shashank Sinha](https://github.com/cbsinha)
 - [Joseph](https://github.com/Joseph77667)
 - [Myles](https://github.com/Smyles20)
 - [Zülal] (https://github.com/zulalc)
+- [Scorpio] (https://github.com/Black-Scorpio)
 - [Sunny-Saurya](https://github.com/Sunny-Saurya)
 - [Purva Masurkar](https://github.com/purvanova-213)
 - [Karim-M03](https://github.com/Karim-M03)
@@ -47,7 +52,9 @@
 - [Dani Matuko](https://github.com/danimatuko)
 - [DeathScytheZ](https://github.com/DeathScytheZ)
 - [Aamir Shaikh](https://github.com/aamirsk8766)
+- [Nikhil Kr Das](https://github.com/nikhil94058)
 - [Leo.G](https://github.com/LeoZFG)
+- [aassalax](https://github.com/aassalax) : Web developer
 - [A N M Mashud](https://github.com/anmmashud)
 - [Jeff Martin](https://github.com/siberian-devsky) :01.06.25
 - [Zhen Liu](https://github.com/zh3nl)
@@ -84,6 +91,7 @@
   [Rushikesh Amale]
   [KishanSingh]
   [Abdul Rahim](https://github.com/Abdrahim-123)
+  [Swapnil Nagras]
 - [Aditya Radadiya](https://github.com/RadadiyaAditya)
 - [Sarthak Bhardwaj](https://github.com/sarthakbhardwaj27)
 - [Jefferson Huisa](https://github.com/j3ffh95)
@@ -287,6 +295,7 @@
 - [jorsyk](https://github.com/jorsyk)
 - [rajeshwar](https://github.com/snehasuresh2005)
 - [mayurk224](https://github.com/mayurk224)
+- [Matheus Deus](https://github.com/deusMatheus)
 - [Loubna Lekouaghet](https://github.com/loubna213)
 - [Roshawn Brooks](https://github.com/rbrooks95)
 - [Tarun Jakkula](https://github.com/TarunJakkula)
@@ -1459,6 +1468,7 @@
 - [nickf2k](https://github.com/nickf2k)
 - [Harish](https://github.com/HarishI123)
 - [Ray O](https://github.com/reiogo)
+- [Ahmed Fathalaleem](https://github.com/AhmedFathalaleem)
 - [Edgar Dikenge](https://github.com/edgar3g)
 - [Kyle Starrett](https://github.com/kylestarrett1)
 - [Osama Ahmad](https://github.com/oahmadgit)
@@ -1706,6 +1716,7 @@
 - [Negan Nguyen](https://github.com/nenene1812)
 - [Sriram B](https://github.com/Sriram-B-Srivatsa)
 - [Chen Jiang](https://github.com/LuluLalaJ)
+- [Sean Noh](https://github.com/snoh1654)
 - [Adwaith M K](https://github.com/a-dwaith)
 - [Fabio k](https://github.com/Fabio-k)
 - [umair ibrahim](https://github.com/omair1996)
@@ -2294,7 +2305,6 @@
 - [Brayan Brenes Soto](https://github.com/Brayanbs99)
 - [Yohanna Jiryis](http://github.com/MrBlue0177)
 - [Blake Gurnee] (https://github.com/BlakeGurnee)
-- [ninthursday](https://github.com/ninthursday)
-- [lona](https://github.com/light-dawn)
+- [ninthursday](https://github.com/ninthursday) 
 - WY
-
+- Devon Russo https://github.com/drusso97
