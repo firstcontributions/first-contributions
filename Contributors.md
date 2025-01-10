@@ -25,6 +25,7 @@
 - [Sebastián Lozano](https://github.com/SebastianL-dev) : Web developer
 - Add [Nill_The_Alchemist](https://github.com/Nill-The-Alchemist/)
 - [Sayyed Mustafa](https://github.com/mustafa-sayyed/)
+  [Max De Luna](https://github.com/MaxDLuna)
 - [Abijeeth Vasra](https://github.com/Abijeethvasra890)
 - [siddiqueahmk](https://github.com/siddiqueahmk)
 - [Shashank Sinha](https://github.com/cbsinha)
