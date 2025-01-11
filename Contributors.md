@@ -83,6 +83,7 @@ Samarth
 - [Chuks Stephen](https://github.com/stephenchuks)
 - [Seth Hendrix](https://github.com/LondorNative) :01/08/2025
 - [CamiloRodriguezDev](https://github.com/CamiloRodriguezDev)
+- [Tunings](https://github.com/Tunings) : First contribution!
 - [Julia](https://github.com/Katastropha)
 - [Trevor Kibuba](https://github.com/kibuba-njihia)
 - [Joshua Sunday](https://github.com/joshuasunnexy)
