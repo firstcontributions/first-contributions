@@ -2303,6 +2303,7 @@ Samarth
 - [Prerana Maurya](https://github.com/Prerana-Mauryaa)
 - [Ryan Bae](https://github.com/ryanbae94)
 - [xian](https://github.com/cbxian22)
+- [Enrique Díaz Valenzuela](https://github.com/endiva112)
 - [Masatoshi Ogiwara](https://github.com/zigzagdev)
 - [Srigana Pulikantham](https://github.com/Srigana)
 - [Mihir Deshpande](https://github.com/mihirrd)
