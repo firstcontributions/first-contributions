@@ -1760,6 +1760,7 @@ Samarth
 - [buckmisterfullereno](https://github.com/Buckminsterfullereno)
 - [Abhijithmr-403](https://github.com/AbhijithMR-403)
 - [RegianaBarbosa](https://github.com/RegianaBarbosa)
+- [borisivanov07](https://github.com/borisivanov07)
 - [derronli](https://github.com/derronli)
 - [EnesUnlu](https://github.com/enes9103)
 - [Dhruv Koli](https://github.com/dask-58)
@@ -2329,8 +2330,8 @@ Samarth
 - [Nadelina Georgieva] (https://github.com/nadelinageorgieva)
 - [Abdul Aouwal](https://github.com/aouwalitshikkha)
 - [Ellmaer Ranjber](https://github.com/mjollnir03)
-- [Mauricio Mendonca] (https://github.com/marmendonca)
-- [Ashok Gharpankar] (https://github.com/ashokgharpankar)
+- [Mauricio Mendonca](https://github.com/marmendonca)
+- [Ashok Gharpankar](https://github.com/ashokgharpankar)
 - [Brayan Brenes Soto](https://github.com/Brayanbs99)
 - [Yohanna Jiryis](http://github.com/MrBlue0177)
 - [Blake Gurnee] (https://github.com/BlakeGurnee)
@@ -2341,6 +2342,6 @@ Samarth
 - Hi This is Goutham.
 - Hi I am Vaibhav  
 - [Roshan Pradhan](https://github.com/Roshan-1024)
-- [Andrii Yatsenko] (https://github.com/and1lays)
+- [Andrii Yatsenko](https://github.com/and1lays)
 - [Sourabh Chasta] (https://github.com/sourabh-chasta)
 - [Aman Gupta](https://github.com/imamangupta)
