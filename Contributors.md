@@ -1,5 +1,5 @@
 # Contributors
-
+- [myslfmayurmahajan 🍍](https://github.com/myslfmayurmahajan)
 - [hannah0wang 🍍](https://github.com/hannah0wang)
 - [albannakhaled](https://github.com/albannakhaled)
 - [Nathan Nguyen](https://github.com/froztty)
