@@ -1355,6 +1355,7 @@ Samarth
 - [Nabil Negadi](https://github.com/Darknab)
 - [AniketKumar](https://github.com/aniketkumar7)
 - [Aditya Bansal](https://github.com/Adityab1179)
+- [Jacob Lipton](https://github.com/jlipton04)
 - [Olayinkascott Andee](https://github.com/scottandee)
 - [WooJin Hong](https://github.com/woojinhong)
 - [Eduardo Xavier](https://github.com/eduardodsxavier)
