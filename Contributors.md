@@ -285,6 +285,7 @@
 - [Dario Moreno](https://github.com/3dmoreno)
 - [Gad](https://github.com/Gad)
 - [Jeremiah](https://github.com/jrmhx)
+- [ManzaLord](https://github.com/ManzaLord) : Journey before destination
 - [Akshey](https://github.com/aksheyd)
 - [Vaibhav Rawat](https://github.com/VaibhavRawat27)
 - [Shubhranka Varma](https://github.com/shubhranka)
