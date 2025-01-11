@@ -14,10 +14,12 @@
 - Saiteja
 - [Mehul Kaushik](https://github.com/Epicguest97)
 - [Mateo Juncal](https://github.com/MateoJuncal)
+- [PavanVenkataNagaManoj17](https://github.com/PavanVenkataNagaManoj17)
 - [Kevin Kasozi](https://github.com/KevinKasozi)
 - [Zohaer Al Mahatab] (https://github.com/priom-mahatab)
 - [JorgeOteíza](https://github.com/JorgeOteiza) : Discovering OpenSource projects.
 - [Shilpa](https://github.com/Shilpa805) : my first contribution!
+ - [myslfmayurmahajan 🍍](https://github.com/myslfmayurmahajan)
 - [Nakul Saini](https://github.com/HackerKing5128) : Hello, OpenSource Duniya! #11/01/2025
 - [Shimwa Aime Kelvin](https://github.com/AimeKelvin) : Developer discovering about the wonders of open_source projects🫡!
 - [Favour Arum](https://github.com/Arum-Favour)
@@ -84,6 +86,7 @@ Samarth
 - [Chuks Stephen](https://github.com/stephenchuks)
 - [Seth Hendrix](https://github.com/LondorNative) :01/08/2025
 - [CamiloRodriguezDev](https://github.com/CamiloRodriguezDev)
+- [Tunings](https://github.com/Tunings) : First contribution!
 - [Julia](https://github.com/Katastropha)
 - [Trevor Kibuba](https://github.com/kibuba-njihia)
 - [Joshua Sunday](https://github.com/joshuasunnexy)
@@ -127,6 +130,7 @@ Samarth
 - [Anaïs Gatard](https://github.com/AnaisG14)
 - [Jordan Atkins](https://github.com/Atkinss1)
 - [Raunit Arya](https://github.com/RaunitArya)
+- [Jan Topolewski](https://github.com/JanTopolewski)
 - [Hemant](https://github.com/l1emant/)
 - [AureDev](https://github.com/AureDev)
 - [Akash Dahal](https://github.com/DARKAD10)
@@ -360,6 +364,7 @@ Samarth
 - [Victor Muthii](https://github.com/muthii-10)
 - [AkramMohammad](https://github.com/Akram1806)
 - [Mangelib](https://github.com/mangelib)
+- [Imam](https://github.com/Shaik-36)
 - [tay24or](https://github.com/tay24lor)
 - [Ravichandra](https://github.com/ravichandra-21/-contributions)
 - [Raghav](https://github.com/Raghav9871)
@@ -1355,6 +1360,7 @@ Samarth
 - [Nabil Negadi](https://github.com/Darknab)
 - [AniketKumar](https://github.com/aniketkumar7)
 - [Aditya Bansal](https://github.com/Adityab1179)
+- [Jacob Lipton](https://github.com/jlipton04)
 - [Olayinkascott Andee](https://github.com/scottandee)
 - [WooJin Hong](https://github.com/woojinhong)
 - [Eduardo Xavier](https://github.com/eduardodsxavier)
@@ -2310,6 +2316,7 @@ Samarth
 - [Srigana Pulikantham](https://github.com/Srigana)
 - [Mihir Deshpande](https://github.com/mihirrd)
 - [Cesar Armango Garcia](https://github.com/ingcesargo/)
+- [DRunkPiano114](https://github.com/DRunkPiano114)
 - [Tamar Cohen](https://github.com/tamar-cohen1)
 - Elisheva Fried
 - Elisheva
@@ -2336,3 +2343,5 @@ Samarth
 - Hi I am Vaibhav  
 - [Roshan Pradhan](https://github.com/Roshan-1024)
 - [Andrii Yatsenko](https://github.com/and1lays)
+- [Sourabh Chasta] (https://github.com/sourabh-chasta)
+- [Aman Gupta](https://github.com/imamangupta)
