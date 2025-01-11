@@ -2323,8 +2323,8 @@ Samarth
 - [Nadelina Georgieva] (https://github.com/nadelinageorgieva)
 - [Abdul Aouwal](https://github.com/aouwalitshikkha)
 - [Ellmaer Ranjber](https://github.com/mjollnir03)
-- [Mauricio Mendonca] (https://github.com/marmendonca)
-- [Ashok Gharpankar] (https://github.com/ashokgharpankar)
+- [Mauricio Mendonca](https://github.com/marmendonca)
+- [Ashok Gharpankar](https://github.com/ashokgharpankar)
 - [Brayan Brenes Soto](https://github.com/Brayanbs99)
 - [Yohanna Jiryis](http://github.com/MrBlue0177)
 - [Blake Gurnee] (https://github.com/BlakeGurnee)
@@ -2335,4 +2335,4 @@ Samarth
 - Hi This is Goutham.
 - Hi I am Vaibhav  
 - [Roshan Pradhan](https://github.com/Roshan-1024)
-- [Andrii Yatsenko] (https://github.com/and1lays)
+- [Andrii Yatsenko](https://github.com/and1lays)
