@@ -74,6 +74,7 @@ Samarth
 - [Govind R](https://github.com/GovindR-19)
 - [Harshit Joshi](https://github.com/harsh040206)
 - [Aditya Kumar Jha ](https://github.com/Aditya-myst)
+- [Anthony Pizzoni](https://github.com/HINKOKO) :01.11.25 Hello contributors !
 - [Sargunesh](https://github.com/sargunesh25)
 - [Gayatri](https://github.com/gayatriiv)
 - [Sanjai Kumar R](https://github.com/sanjai451)
