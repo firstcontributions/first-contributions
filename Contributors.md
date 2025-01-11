@@ -10,6 +10,7 @@
 - [HayatZarine](https://github.com/HayatZarine): Hello OpenSource world!
 - DJ was here
 - Saiteja
+- [Mateo Juncal](https://github.com/MateoJuncal)
 - [Zohaer Al Mahatab] (https://github.com/priom-mahatab)
 - [JorgeOteíza](https://github.com/JorgeOteiza) : Discovering OpenSource projects.
 - [Shilpa](https://github.com/Shilpa805) : my first contribution!
