@@ -7,6 +7,7 @@
   Rohit Chavan:  My First controbution 
 - [Vivek Chudasama](https://github.com/vivekchudasama-2004)
 - Annie was here
+- [haruna libero](https://github.com/harunalibero)
 - [HayatZarine](https://github.com/HayatZarine): Hello OpenSource world!
 - DJ was here
 - Saiteja
@@ -14,6 +15,7 @@
 - [Zohaer Al Mahatab] (https://github.com/priom-mahatab)
 - [JorgeOteíza](https://github.com/JorgeOteiza) : Discovering OpenSource projects.
 - [Shilpa](https://github.com/Shilpa805) : my first contribution!
+- [Nakul Saini](https://github.com/HackerKing5128) : Hello, OpenSource Duniya! #11/01/2025
 - [Shimwa Aime Kelvin](https://github.com/AimeKelvin) : Developer discovering about the wonders of open_source projects🫡!
 - [Favour Arum](https://github.com/Arum-Favour)
 Samarth
@@ -72,6 +74,7 @@ Samarth
 - [Govind R](https://github.com/GovindR-19)
 - [Harshit Joshi](https://github.com/harsh040206)
 - [Aditya Kumar Jha ](https://github.com/Aditya-myst)
+- [Anthony Pizzoni](https://github.com/HINKOKO) :01.11.25 Hello contributors !
 - [Sargunesh](https://github.com/sargunesh25)
 - [Gayatri](https://github.com/gayatriiv)
 - [Sanjai Kumar R](https://github.com/sanjai451)
@@ -101,6 +104,7 @@ Samarth
   [Abdul Rahim](https://github.com/Abdrahim-123)
   [Swapnil Nagras]
 - [Aditya Radadiya](https://github.com/RadadiyaAditya)
+- [Mostapha EL ANSARI](https://github.com/mostaphaelansari)
 - [Sarthak Bhardwaj](https://github.com/sarthakbhardwaj27)
 - [Jefferson Huisa](https://github.com/j3ffh95)
 - [mrxc0de](https://github.com/mrxc0de)
@@ -2323,3 +2327,5 @@ Samarth
 - Devon Russo https://github.com/drusso97
 - [Kuo CH](https://github.com/kuochh)
 - Hi This is Goutham.
+- Hi I am Vaibhav  
+- [Roshan Pradhan](https://github.com/Roshan-1024)
