@@ -12,6 +12,7 @@
 - [HayatZarine](https://github.com/HayatZarine): Hello OpenSource world!
 - DJ was here
 - Saiteja
+- [Mehul Kaushik](https://github.com/Epicguest97)
 - [Mateo Juncal](https://github.com/MateoJuncal)
 - [Kevin Kasozi](https://github.com/KevinKasozi)
 - [Zohaer Al Mahatab] (https://github.com/priom-mahatab)
