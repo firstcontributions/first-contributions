@@ -147,6 +147,7 @@
 - [Issac-BK](https://github.com/issaccodes) : Issac was here
 - [lomus-hona](https://github.com/lhona01)
 - [Alexskald](https://github.com/jxuho)
+- Danny Chen
 - [Taryn Boonpongmanee] (https://github.com/tarynboon)
 - [Rodrigo](https://github.com/Rdgistauf)
 - [Kelvin Yeboah](https://github.com/KelvCodes)
