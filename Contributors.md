@@ -1754,6 +1754,7 @@ Samarth
 - [buckmisterfullereno](https://github.com/Buckminsterfullereno)
 - [Abhijithmr-403](https://github.com/AbhijithMR-403)
 - [RegianaBarbosa](https://github.com/RegianaBarbosa)
+- [borisivanov07](https://github.com/borisivanov07)
 - [derronli](https://github.com/derronli)
 - [EnesUnlu](https://github.com/enes9103)
 - [Dhruv Koli](https://github.com/dask-58)
