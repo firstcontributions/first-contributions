@@ -1,18 +1,23 @@
 # Contributors
 - [bugudiramu 👨‍💻](https://github.com/bugudiramu)
+- Alvaro Zayas-Bazan Santos
 - [hannah0wang 🍍](https://github.com/hannah0wang)
+- f1ssure contributed
 - [albannakhaled](https://github.com/albannakhaled)
 - [Nathan Nguyen](https://github.com/froztty)
 - [asyraf34](https://github.com/asyraf34) : **_I Love Github!_**
 - Chagit Lipsky!
-  Rohit Chavan:  My First controbution 
+  Rohit Chavan:  My First controbution
 - [Somto Ogbe](https://github.com/somtoval)
 - [Vivek Chudasama](https://github.com/vivekchudasama-2004)
+- Infernal Blueberry
 - Annie was here
 - [haruna libero](https://github.com/harunalibero)
+- [HAONAN TAO](https://github.com/HAONANTAO)
 - [HayatZarine](https://github.com/HayatZarine): Hello OpenSource world!
 - DJ was here
 - Saiteja
+- [Younis Ayoub](https://github.com/younisdev): Hello World!
 - [Faiz Khan](https://github.com/calvincandiec137):
 - [Pedro Arias](https://github.com/pedarias) -[Aakash Gaur](https://github.com/aakashGaur03)
 - [Mehul Kaushik](https://github.com/Epicguest97)
@@ -32,6 +37,7 @@
 - [Sandhya Rani](https://github.com/sandhya12r) :Full Stack Web Developer
 - [Sruthi Krishnakumar](https://github.com/SruthiKrish19) :07/01/2025
 - [Leli Vexler](https://github.com/Lelivexler)
+- [Navaneethakrishnan M V](https://github.com/Navaneetha-Krishnan-MV) :Full Stack and Cloud Enthusiast
 - [Yuhan Zou](https://github.com/djj316/) :A brand new start
 - [RoyWB.AKA.rdubbi](https://github.com/rdubbi) :Hello Opensource World!
 - [Monicah Mackena](https://github.com/MACKENA05) : Contributor
@@ -113,6 +119,7 @@
   [KishanSingh]
   [Abdul Rahim](https://github.com/Abdrahim-123)
   [Swapnil Nagras]
+  [Nitesh Choudhary](https://github.com/codewith-Nitesh)
   [Andres Rojo Mesa](https://github.com/AndresRojo12)
 - [Aditya Radadiya](https://github.com/RadadiyaAditya)
 - [Mostapha EL ANSARI](https://github.com/mostaphaelansari)
@@ -135,6 +142,7 @@
 - [Anaïs Gatard](https://github.com/AnaisG14)
 - [Jordan Atkins](https://github.com/Atkinss1)
 - [Raunit Arya](https://github.com/RaunitArya)
+- [Wiktor Kycia](https://github.com/wiktorKycia)
 - [Jan Topolewski](https://github.com/JanTopolewski)
 - [Hemant](https://github.com/l1emant/)
 - [AureDev](https://github.com/AureDev)
@@ -1425,6 +1433,7 @@
 - [RoraRaven](https://github.com/RoraRaven)
 - [Rohit Roy](https://github.com/Roy009)
 - [chief-fei](https://github.com/chief-fei)
+- [PenguinPen](https://github.com/PenguinPen)
 - [Sushant](https://github.com/sushxnt)
 - [Edward Bordenave](https://github.com/ebordenave)
 - [NicoTerabyte](https://github.com/NicoTerabyte)
@@ -2342,7 +2351,7 @@
 - [Brayan Brenes Soto](https://github.com/Brayanbs99)
 - [Yohanna Jiryis](http://github.com/MrBlue0177)
 - [Blake Gurnee](https://github.com/BlakeGurnee)
-- [ninthursday](https://github.com/ninthursday) 
+- [ninthursday](https://github.com/ninthursday)
 - WY
 - Devon Russo https://github.com/drusso97
 - [Kuo CH](https://github.com/kuochh)
@@ -2354,3 +2363,4 @@
 - [Aman Gupta](https://github.com/imamangupta)
 - [LINDECKER Charles](https://github.com/Shirou-Emiya2420)
 - [kjgino](https://github.com/kjgino)
+- [Özgür Sönmez](https://github.com/ozgursnmz)
