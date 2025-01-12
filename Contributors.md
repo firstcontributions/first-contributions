@@ -2178,6 +2178,7 @@ Patrick Gibbs
 - [FEI_TENG](My first contribution: https://github.com/FEITENG-0828/)
 - [NyKot1ne](https://github.com/NyKot1ne)
 - [menachem mintzberg](https://github.com/m-minz)
+- [ruben sa brito](https://github.com/ruben-sa-brito)
 - [juliencastanier](https://github.com/juliencastanier)
 - [kecirimickael](https://github.com/mkg1t)
 - [PaddseL](https://github.com/PaddseL)
