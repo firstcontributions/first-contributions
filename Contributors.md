@@ -1,4 +1,5 @@
 # Contributors
+- [bugudiramu 👨‍💻](https://github.com/bugudiramu)
 - Alvaro Zayas-Bazan Santos
 - [hannah0wang 🍍](https://github.com/hannah0wang)
 - f1ssure contributed
