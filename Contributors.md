@@ -12,6 +12,7 @@
 - Infernal Blueberry
 - Annie was here
 - [haruna libero](https://github.com/harunalibero)
+- [HAONAN TAO](https://github.com/HAONANTAO)
 - [HayatZarine](https://github.com/HayatZarine): Hello OpenSource world!
 - DJ was here
 - Saiteja
@@ -117,6 +118,7 @@
   [KishanSingh]
   [Abdul Rahim](https://github.com/Abdrahim-123)
   [Swapnil Nagras]
+  [Nitesh Choudhary](https://github.com/codewith-Nitesh)
   [Andres Rojo Mesa](https://github.com/AndresRojo12)
 - [Aditya Radadiya](https://github.com/RadadiyaAditya)
 - [Mostapha EL ANSARI](https://github.com/mostaphaelansari)
