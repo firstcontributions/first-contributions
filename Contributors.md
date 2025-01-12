@@ -1,6 +1,7 @@
 # Contributors
 
 - [hannah0wang 🍍](https://github.com/hannah0wang)
+- f1ssure contributed
 - [albannakhaled](https://github.com/albannakhaled)
 - [Nathan Nguyen](https://github.com/froztty)
 - [asyraf34](https://github.com/asyraf34) : **_I Love Github!_**
@@ -1428,6 +1429,7 @@
 - [RoraRaven](https://github.com/RoraRaven)
 - [Rohit Roy](https://github.com/Roy009)
 - [chief-fei](https://github.com/chief-fei)
+- [PenguinPen](https://github.com/PenguinPen)
 - [Sushant](https://github.com/sushxnt)
 - [Edward Bordenave](https://github.com/ebordenave)
 - [NicoTerabyte](https://github.com/NicoTerabyte)
