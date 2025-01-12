@@ -1,4 +1,6 @@
 # Contributors
+
+
 - [bugudiramu 👨‍💻](https://github.com/bugudiramu)
 - Alvaro Zayas-Bazan Santos
 - [hannah0wang 🍍](https://github.com/hannah0wang)
@@ -14,6 +16,7 @@
 - Infernal Blueberry
 - Annie was here
 - [haruna libero](https://github.com/harunalibero)
+- [burgosricard0](https://github.com/BurgosRicard0)
 - [HAONAN TAO](https://github.com/HAONANTAO)
 - [HayatZarine](https://github.com/HayatZarine): Hello OpenSource world!
 - DJ was here
