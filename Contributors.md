@@ -2340,6 +2340,7 @@
 - Elisheva
 - Menucha
 - SteadySteps
+- [Verdichtete Energie](https://github.com/VerdichteteEnergie)
 - Tehila
 - Jack Arnaud
 - Samuel Yonas
