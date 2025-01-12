@@ -1,4 +1,5 @@
 # Contributors
+
 - [bugudiramu 👨‍💻](https://github.com/bugudiramu)
 - Alvaro Zayas-Bazan Santos
 - [hannah0wang 🍍](https://github.com/hannah0wang)
@@ -122,6 +123,7 @@
   [KishanSingh]
   [Abdul Rahim](https://github.com/Abdrahim-123)
   [Swapnil Nagras]
+  [AD](https://github.com/AtharvaD1407)
   [Nitesh Choudhary](https://github.com/codewith-Nitesh)
   [Andres Rojo Mesa](https://github.com/AndresRojo12)
 - [Aditya Radadiya](https://github.com/RadadiyaAditya)
