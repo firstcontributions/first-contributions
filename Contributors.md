@@ -1920,6 +1920,7 @@
 - [Shahbaz Javed Qureshi](https://github.com/shahbazjavedqureshi) And the logs!?!!
 - [Samyak Shah](https://github.com/sam10556)They Don't Know Me Son!!!!
 - [Srajal Sawner](https://github.com/Srajal16)
+Patrick Gibbs
 - [JusiaDEV](https://github.com/JusiaDev)
 - [Jayesh](https://github.com/jayeshrdeotalu)
 - [Nehal chaudhary](https://github.com/neh666)
