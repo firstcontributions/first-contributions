@@ -160,6 +160,7 @@
 - [raj-opensource]
 - [padmalathak]
 - [rohithGana](https://github.com/Rohithgvmg)
+- Celeste 
 - Lokesh
 - [AC](https://github.com/FortKnoxWasTaken)
 - [Yisel Cintora Vega](https://github.com/yisel260)
