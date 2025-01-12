@@ -142,6 +142,7 @@
 - [Anaïs Gatard](https://github.com/AnaisG14)
 - [Jordan Atkins](https://github.com/Atkinss1)
 - [Raunit Arya](https://github.com/RaunitArya)
+- [Christopher Faris](https://github.com/chrisF943)
 - [Wiktor Kycia](https://github.com/wiktorKycia)
 - [Jan Topolewski](https://github.com/JanTopolewski)
 - [Hemant](https://github.com/l1emant/)
