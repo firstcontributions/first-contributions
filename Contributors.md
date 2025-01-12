@@ -8,7 +8,8 @@
 - [Nathan Nguyen](https://github.com/froztty)
 - [asyraf34](https://github.com/asyraf34) : **_I Love Github!_**
 - Chagit Lipsky!
-  Rohit Chavan: My First controbution
+  Rohit Chavan:  My First controbution
+  [Piyush Mandloi](https://github.com/piyush0mandloi)
 - [Somto Ogbe](https://github.com/somtoval)
 - [Vivek Chudasama](https://github.com/vivekchudasama-2004)
 - Infernal Blueberry
