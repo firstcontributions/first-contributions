@@ -25,6 +25,7 @@
 - [PavanVenkataNagaManoj17](https://github.com/PavanVenkataNagaManoj17)
 - [Kevin Kasozi](https://github.com/KevinKasozi)
 - [Zohaer Al Mahatab](https://github.com/priom-mahatab)
+- [Eyal Kutz](https://github.com/eyalkutz)
 - [JorgeOteíza](https://github.com/JorgeOteiza) : Discovering OpenSource projects.
 - [Shilpa](https://github.com/Shilpa805) : my first contribution!
 - [myslfmayurmahajan 🍍](https://github.com/myslfmayurmahajan)
