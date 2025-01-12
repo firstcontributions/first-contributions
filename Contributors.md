@@ -1032,6 +1032,7 @@ Samarth
 - [Suneel Reddy](https://github.com/suneelreddysannala)
 - [Vikrant](https://github.com/1vikrant)
 - [Kazuho](https://github.com/kzhgit)
+- [zaki1228](https://github.com/zaki1228)
 - [kmkkiii](https://github.com/kmkkiii) 🐢
 - [Kevin Koech](https://github.com/kevinkoech357)
 - [Kevin Subbotin](https://github.com/KevinSubbotin)
