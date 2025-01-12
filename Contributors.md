@@ -1,4 +1,5 @@
 # Contributors
+
 - [bugudiramu 👨‍💻](https://github.com/bugudiramu)
 - Alvaro Zayas-Bazan Santos
 - [hannah0wang 🍍](https://github.com/hannah0wang)
@@ -7,7 +8,7 @@
 - [Nathan Nguyen](https://github.com/froztty)
 - [asyraf34](https://github.com/asyraf34) : **_I Love Github!_**
 - Chagit Lipsky!
-  Rohit Chavan:  My First controbution
+  Rohit Chavan: My First controbution
 - [Somto Ogbe](https://github.com/somtoval)
 - [Vivek Chudasama](https://github.com/vivekchudasama-2004)
 - Infernal Blueberry
@@ -119,6 +120,7 @@
   [KishanSingh]
   [Abdul Rahim](https://github.com/Abdrahim-123)
   [Swapnil Nagras]
+  [AD](https://github.com/AtharvaD1407)
   [Nitesh Choudhary](https://github.com/codewith-Nitesh)
   [Andres Rojo Mesa](https://github.com/AndresRojo12)
 - [Aditya Radadiya](https://github.com/RadadiyaAditya)
