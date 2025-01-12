@@ -12,6 +12,7 @@
 - Infernal Blueberry
 - Annie was here
 - [haruna libero](https://github.com/harunalibero)
+- [HAONAN TAO](https://github.com/HAONANTAO)
 - [HayatZarine](https://github.com/HayatZarine): Hello OpenSource world!
 - DJ was here
 - Saiteja
