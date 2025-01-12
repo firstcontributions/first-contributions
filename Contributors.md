@@ -1,5 +1,5 @@
 # Contributors
-
+- [Ashish Jha](https://github.com/ashish-jha-2004)
 - [hannah0wang 🍍](https://github.com/hannah0wang)
 - [albannakhaled](https://github.com/albannakhaled)
 - [Nathan Nguyen](https://github.com/froztty)
