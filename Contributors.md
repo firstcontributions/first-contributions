@@ -156,6 +156,7 @@
 - [Hetvi Shah]
 - [raj-opensource]
 - [padmalathak]
+- Celeste 🖤
 - [rohithGana](https://github.com/Rohithgvmg)
 - Lokesh
 - [AC](https://github.com/FortKnoxWasTaken)
