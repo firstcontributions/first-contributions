@@ -101,8 +101,7 @@ _If you're not comfortable with command line, [here are tutorials using GUI tool
 
 ## Fork this repository
 
-Fork this repository by clicking on the fork button on the top of this page.
-This will create a copy of this repository in your account.
+To start, look for the 'Fork' button right at the top of this page and click it. By doing this, a personal copy of this repository will be made in your own GitHub account, which is the first step towards contributing!
 
 ## Clone the repository
 
@@ -213,7 +212,7 @@ replacing `your-branch-name` with the name of the branch you created earlier.
   git remote set-url origin git@github.com:your-username/your_repo.git
   ```
   Otherwise you'll still get prompted for username and password and get authentication error.
-</details>
+     </details>
 
 ## Submit your changes for review
 

@@ -62,6 +62,7 @@ Samarth
 - [Jenny Martin] (https://github.com/jmartinDS14)
 - [Gavin Reid] (https://github.com/GavinReid82)
 - [isimbana](https://github.com/isimbana)
+- [HAONAN TAO](https://github.com/HAONANTAO)
 - [Louis7363](https://github.com/louis7363)
 - [aajliAhmed](https://github.com/aajliAhmed)
 - [mickaelk98](https://github.com/mickaelk98/)
@@ -1953,7 +1954,6 @@ Samarth
 - [Pramodh Rajapakse](https://github.com/PramodhRajapakse)
 - [Shri Chandana](https://github.com/Shri2320)
 - [Shri Chandana](https://github.com/Shri2320)
-
 - [Shreaoskar Roy](https://github.com/roybrains)
 - [Muhammad Maarij Zeeshan](https://github.com/muhammad-maarij-zeeshan)
 - [Ebrar Altunkaynak](https://github.com/ebrardev)
