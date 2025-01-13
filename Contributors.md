@@ -2384,6 +2384,7 @@ Patrick Gibbs
 - [kjgino](https://github.com/kjgino)
 - [Özgür Sönmez](https://github.com/ozgursnmz)
 - [InigoMontoya]
+- [Defalt-Meh](https://github.com/Defalt-Meh)
 - [Jonasz Grabowski](https://github.com/Jonasz-Grabowski)
 - [Ajibode Olayinka](https://github.com/olayinka-maker)
 - Hi I am Shinya
