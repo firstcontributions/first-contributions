@@ -23,6 +23,7 @@
 - [burgosricard0](https://github.com/BurgosRicard0)
 - [HAONAN TAO](https://github.com/HAONANTAO)
 - [HayatZarine](https://github.com/HayatZarine): Hello OpenSource world!
+- [Leonardo Carvalho Machado](https://github.com/leonardocarmac)
 - DJ was here
 - Saiteja
 - [Divine Success](https://github.com/Successinnovatia) 
