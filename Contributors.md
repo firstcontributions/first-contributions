@@ -2,6 +2,7 @@
 
 - [bugudiramu 👨‍💻](https://github.com/bugudiramu)
 - [Jescaps Nyarko Antwi alias THE GODFATHER](https://github.com/JescapsAntwi)
+[Mercy-Mbao ✨](https://github.com/mercie-ux)
 - [Emmanuel Leu Tecson] (https://github.com/TEKKSUNN)
 - Alvaro Zayas-Bazan Santos
 - [Brandon W Lee](https://github.com/bwlee13): bwlee13 OpenSource discovery
