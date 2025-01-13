@@ -2384,4 +2384,5 @@ Patrick Gibbs
 - Hi I am Shinya
 - [Dinosaur101](https://github.com/Dinosaur101)
 - [Yile Wang](https://github.com/Elliotwang122)
+- [Mstt Duguid](https://github.com/msttduguid)
 - [Aman Jangid](https://github.com/Aman-Jangid)
