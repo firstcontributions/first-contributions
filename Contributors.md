@@ -6,10 +6,10 @@
 - [asyraf34](https://github.com/asyraf34) : **_I Love Github!_**
 - Chagit Lipsky!
   Rohit Chavan:  My First controbution
-  Sonam *******: My first contribution : ********
 - [Somto Ogbe](https://github.com/somtoval)
 - [Vivek Chudasama](https://github.com/vivekchudasama-2004)
 - Annie was here
+- Sonam *******: My first contribution : ********
 - [haruna libero](https://github.com/harunalibero)
 - [HayatZarine](https://github.com/HayatZarine): Hello OpenSource world!
 - DJ was here
