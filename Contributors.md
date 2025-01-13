@@ -1,6 +1,7 @@
 # Contributors
 
 - [bugudiramu 👨‍💻](https://github.com/bugudiramu)
+- Sheheryar Hassan
 - [Jescaps Nyarko Antwi alias THE GODFATHER](https://github.com/JescapsAntwi)
 [Mercy-Mbao ✨](https://github.com/mercie-ux)
 - [Emmanuel Leu Tecson] (https://github.com/TEKKSUNN)
