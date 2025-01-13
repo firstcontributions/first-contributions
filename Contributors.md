@@ -70,6 +70,7 @@
 - [Sunny-Saurya](https://github.com/Sunny-Saurya)
 - [Purva Masurkar](https://github.com/purvanova-213)
 - [Karim-M03](https://github.com/Karim-M03)
+- [Dhruvikaa Ahuja](https://github.com/dhruvikaa12)
 - [Trevor C Justus](https://github.com/trevorcj)
 - [Sadiat360](https://github.com/Sadiat360)
 - [Nathan-Htun](https://github.com/Virtigox): Thanks for my first contribution.
