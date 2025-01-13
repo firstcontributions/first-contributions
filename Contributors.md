@@ -2382,3 +2382,4 @@ Patrick Gibbs
 - [Jonasz Grabowski](https://github.com/Jonasz-Grabowski)
 - [Ajibode Olayinka](https://github.com/olayinka-maker)
 - Hi I am Shinya
+- [Dinosaur101](https://github.com/Dinosaur101)
