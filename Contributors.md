@@ -115,6 +115,7 @@
 - [CamiloRodriguezDev](https://github.com/CamiloRodriguezDev)
 - [Tunings](https://github.com/Tunings) : First contribution!
 - [Julia](https://github.com/Katastropha)
+- [Zahidi14](https://github.com/zahidi14/)
 - [Trevor Kibuba](https://github.com/kibuba-njihia)
 - [Joshua Sunday](https://github.com/joshuasunnexy)
 - [SumitThakur](https://github.com/SumitThakur1600)
