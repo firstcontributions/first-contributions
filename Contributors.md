@@ -2386,3 +2386,4 @@ Patrick Gibbs
 - [Yile Wang](https://github.com/Elliotwang122)
 - [Mstt Duguid](https://github.com/msttduguid)
 - [Aman Jangid](https://github.com/Aman-Jangid)
+- [Ritesh](https://github.com/RiteshPanta)
