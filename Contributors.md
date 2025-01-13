@@ -5,6 +5,7 @@
   Rohit Chavan:  My First controbution
 - [Vivek Chudasama](https://github.com/vivekchudasama-2004)
 - Annie was here
+- [John] (<https://github.com/yrdnal-c-nhoj>)
 - [HayatZarine](https://github.com/HayatZarine): Hello OpenSource world!
 - DJ was here
 - Saiteja
