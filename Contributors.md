@@ -2388,3 +2388,4 @@ Patrick Gibbs
 - [Aman Jangid](https://github.com/Aman-Jangid)
 - [Ritesh](https://github.com/RiteshPanta)
 - [Chris](https://github.com/chris-tela/) hire me pls
+- [Sheena Thomas](https://github.com/SheenaRT)
