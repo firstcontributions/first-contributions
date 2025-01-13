@@ -588,6 +588,7 @@
 - [Vitvin](https://github.com/vitvinvaz)
 - [SaginalaAzeez](https://github.com/asheedh)
 - [bivekk51](https://github.com/bivekk51)
+- [barkinke](https://github.com/barkinke)
 - [Mamduh](https://github.com/Mamduh5)
 - [AjaySinghKunwar](https://github.com/AjaySinghKunwar007)
 - [Felix Morara](https://github.com/felixmorara)
