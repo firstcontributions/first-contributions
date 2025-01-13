@@ -1,6 +1,7 @@
 # Contributors
 
 - [bugudiramu 👨‍💻](https://github.com/bugudiramu)
+- [Jescaps Nyarko Antwi alias THE GODFATHER](https://github.com/JescapsAntwi)
 - Alvaro Zayas-Bazan Santos
 - [hannah0wang 🍍](https://github.com/hannah0wang)
 - f1ssure contributed
