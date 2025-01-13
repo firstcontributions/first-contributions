@@ -774,6 +774,7 @@
 - [Albert Byrone](https://github.com/Albert-Byrone)
 - [zurfjereluhmie](https://github.com/zurfjereluhmie)
 - [Rishan Thangaraj](https://github.com/rishant3441)
+- [Jhonac Was Here ;-;]
 - [Anish Yalavarthi](https://github.com/AnishYalavarthi)
 - [Arshadakl](https://www.linkedin.com/in/arshad-akl)
 - [Samuel Rudqvist](https://github.com/srudqvist)
