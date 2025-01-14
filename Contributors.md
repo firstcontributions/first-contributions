@@ -1,5 +1,6 @@
 # Contributors
 
+- [Hi I am Zou Zixi](https://github.com/specter0714)
 - [bugudiramu 👨‍💻](https://github.com/bugudiramu)
 - Sheheryar Hassan
 - [John](https://github.com/yrdnal-c-nhoj)
