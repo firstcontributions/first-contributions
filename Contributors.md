@@ -19,6 +19,7 @@
 - f1ssure contributed
 - Muhammad Dawar here. Assalam u Alaikum
 - [albannakhaled](https://github.com/albannakhaled)
+- [arinsood](https://github.com/arin101230523)
 - [Nathan Nguyen](https://github.com/froztty)
 - [asyraf34](https://github.com/asyraf34) : **_I Love Github!_**
 - Chagit Lipsky!
