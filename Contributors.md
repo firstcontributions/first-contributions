@@ -7,7 +7,7 @@
 - [EarendelH](https://github.com/Earendelh)
 - [John](https://github.com/yrdnal-c-nhoj)
 - [Jescaps Nyarko Antwi alias THE GODFATHER](https://github.com/JescapsAntwi)
-[Mercy-Mbao ✨](https://github.com/mercie-ux)
+  [Mercy-Mbao ✨](https://github.com/mercie-ux)
 - [Emmanuel Leu Tecson] (https://github.com/TEKKSUNN)
 - Alvaro Zayas-Bazan Santos
 - [Abdullah Khurram Vohra](https://github.com/VohraAK)
@@ -16,12 +16,13 @@
 - [hannah0wang 🍍](https://github.com/hannah0wang)
 - [thiagodau](https://github.com/thiagodau) Hello everyone!
 - f1ssure contributed
+- Muhammad Dawar here. Assalam u Alaikum
 - [albannakhaled](https://github.com/albannakhaled)
 - [Nathan Nguyen](https://github.com/froztty)
 - [asyraf34](https://github.com/asyraf34) : **_I Love Github!_**
 - Chagit Lipsky!
 - [Aditya Atreya](https://github.com/AdiAce4u)
-  Rohit Chavan:  My First controbution
+  Rohit Chavan: My First controbution
   [Piyush Mandloi](https://github.com/piyush0mandloi)
   [Prathamesh Zingade](https://github.com/ZingadePrathamesh)
 - [Somto Ogbe](https://github.com/somtoval)
@@ -29,7 +30,7 @@
 - [Vivek Chudasama](https://github.com/vivekchudasama-2004)
 - Infernal Blueberry
 - Annie was here
-- Sonam *******: My first contribution : ********
+- Sonam **\*\*\***: My first contribution : **\*\*\*\***
 - [haruna libero](https://github.com/harunalibero)
 - [burgosricard0](https://github.com/BurgosRicard0)
 - [saadmann18] (https://github.com/saadmann18)
@@ -39,7 +40,7 @@
 - DJ was here
 - Saiteja
 - rao was here.
-- [Divine Success](https://github.com/Successinnovatia) 
+- [Divine Success](https://github.com/Successinnovatia)
 - [Chris Nguyen](https://github.com/chrisnguyen928): Hello GitHub
 - [Younis Ayoub](https://github.com/younisdev): Hello World!
 - [Faiz Khan](https://github.com/calvincandiec137):
@@ -188,7 +189,7 @@
 - [raj-opensource]
 - [padmalathak]
 - [rohithGana](https://github.com/Rohithgvmg)
-- Celeste 
+- Celeste
 - Lokesh
 - [AC](https://github.com/FortKnoxWasTaken)
 - [Yisel Cintora Vega](https://github.com/yisel260)
@@ -271,7 +272,7 @@
 - [oogway-x3t](https://github.com/oogway-x3t)
 - [Hamza Zahid Butt](https://github.com/HamzaZahid172)
 - [Mohammad Nikvarz](https://github.com/Mohammad79-nkv)
-- [Sixtus Aondoakaa]( https://github.com/sixtusdeveloper):My first contribution
+- [Sixtus Aondoakaa](https://github.com/sixtusdeveloper):My first contribution
 - [Achintha Ekanayake](https://github.com/achintha-eknayake)
 - [charan](https://github.com/CharanCodeCraft)
 - [NJMcCoy](https://github.com/NJMcCoy)
@@ -1951,7 +1952,7 @@
 - [Shahbaz Javed Qureshi](https://github.com/shahbazjavedqureshi) And the logs!?!!
 - [Samyak Shah](https://github.com/sam10556)They Don't Know Me Son!!!!
 - [Srajal Sawner](https://github.com/Srajal16)
-Patrick Gibbs
+  Patrick Gibbs
 - [JusiaDEV](https://github.com/JusiaDev)
 - [Jayesh](https://github.com/jayeshrdeotalu)
 - [Nehal chaudhary](https://github.com/neh666)
@@ -2420,8 +2421,7 @@ Patrick Gibbs
 - [Chris](https://github.com/chris-tela/) hire me pls
 - [Sheena Thomas](https://github.com/SheenaRT)
 - [Aryamann Sharma](https://github.com/Aryamann002)
-- [WhatsACloud] (https://github.com/WhatsACloud) 
+- [WhatsACloud] (https://github.com/WhatsACloud)
 - [26sneakysnake](https://github.com/26sneakysnake) my goal is to make 100 open source contributions by end of 2025. 99 more to go!
-- [ATP Showcase](https://github.com/atpshowcase) 
-- [Tim Wang](https://github.com/TimWang0928) 
--[Lucifer]
+- [ATP Showcase](https://github.com/atpshowcase)
+- [Tim Wang](https://github.com/TimWang0928) -[Lucifer]
