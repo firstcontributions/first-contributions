@@ -83,6 +83,7 @@
 - [Scorpio](https://github.com/Black-Scorpio)
 - [Sunny-Saurya](https://github.com/Sunny-Saurya)
 - [Purva Masurkar](https://github.com/purvanova-213)
+- [Sahil Dale](https://github.com/Curiousminded06)
 - [Karim-M03](https://github.com/Karim-M03)
 - [Dhruvikaa Ahuja](https://github.com/dhruvikaa12)
 - [Trevor C Justus](https://github.com/trevorcj)
