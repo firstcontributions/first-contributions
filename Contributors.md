@@ -1397,6 +1397,7 @@
 - [Deepika Jain](https://github.com/deepika8383)
 - [Avadhoot Tavhare](https://github.com/AvadhootT)
 - [sus-domesticus](https://github.com/sus-domesticus)
+- [Noha Waheed](https://github.com/nohawaheed)
 - [sumanthtp](https://github.com/SUMANTHTPs)
 - [Daniel Ndirangu](https://github.com/daniel-ndirangu)
 - [Gyanavardhan](https://github.com/gyanavardhana)
