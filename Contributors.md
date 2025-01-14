@@ -11,6 +11,7 @@
 - Chagit Lipsky!
   Rohit Chavan:  My First controbution
   [Piyush Mandloi](https://github.com/piyush0mandloi)
+  [Prathamesh Zingade](https://github.com/ZingadePrathamesh)
 - [Somto Ogbe](https://github.com/somtoval)
 - [Vorahpong Mean](https://github.com/VorahPong)
 - [Vivek Chudasama](https://github.com/vivekchudasama-2004)
