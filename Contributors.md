@@ -12,6 +12,7 @@
 - Alvaro Zayas-Bazan Santos
 - [Abdullah Khurram Vohra](https://github.com/VohraAK)
 - [Brandon W Lee](https://github.com/bwlee13): bwlee13 OpenSource discovery
+- [Meyer](https://github.com/WiktorMeyer)
 - [hannah0wang 🍍](https://github.com/hannah0wang)
 - [thiagodau](https://github.com/thiagodau) Hello everyone!
 - f1ssure contributed
