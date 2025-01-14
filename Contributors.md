@@ -1,6 +1,7 @@
 # Contributors
 
 - [Hi I am Zou Zixi](https://github.com/specter0714)
+- [Samarth Bedare](https://github.com/samarthbedare)
 - [Yeshu](https://www.youtube.com/watch?v=hB7CDrVnNCs)
 - [bugudiramu 👨‍💻](https://github.com/bugudiramu)
 - Sheheryar Hassan
