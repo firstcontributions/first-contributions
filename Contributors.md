@@ -1,6 +1,7 @@
 # Contributors
 
 - [Hi I am Zou Zixi](https://github.com/specter0714)
+- [Samarth Bedare](https://github.com/samarthbedare)
 - [Yeshu](https://www.youtube.com/watch?v=hB7CDrVnNCs)
 - [bugudiramu 👨‍💻](https://github.com/bugudiramu)
 - Sheheryar Hassan
@@ -21,6 +22,7 @@
 - [Nathan Nguyen](https://github.com/froztty)
 - [asyraf34](https://github.com/asyraf34) : **_I Love Github!_**
 - Chagit Lipsky!
+- Kartik Sharma will prove himself worthy,https://github.com/Kartikk28
 - [Aditya Atreya](https://github.com/AdiAce4u)
   Rohit Chavan: My First controbution
   [Piyush Mandloi](https://github.com/piyush0mandloi)
@@ -30,7 +32,8 @@
 - [Vivek Chudasama](https://github.com/vivekchudasama-2004)
 - Infernal Blueberry
 - Annie was here
-- Sonam **\*\*\***: My first contribution : **\*\*\*\***
+- meh...idk
+- Sonam *******: My first contribution : ********
 - [haruna libero](https://github.com/harunalibero)
 - [burgosricard0](https://github.com/BurgosRicard0)
 - [saadmann18] (https://github.com/saadmann18)
