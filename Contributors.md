@@ -73,6 +73,7 @@
 - [RoyWB.AKA.rdubbi](https://github.com/rdubbi) :Hello Opensource World!
 - [Monicah Mackena](https://github.com/MACKENA05) : Contributor
 - [EKWUNIFE, Oluwatomiwa](https://github.com/elisheba-beep) : first contribution!
+- [John B](https://github.com/JB31415): Testing out pull requests
 - [Vijay Makwana](https://github.com/vijay-makwana959/first-contributions.git) : Hello contributors!
 - [Sebastián Lozano](https://github.com/SebastianL-dev) : Web developer
 - [ninthursday](https://github.com/ninthursday)
