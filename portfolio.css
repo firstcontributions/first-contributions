@@ -1,0 +1,26 @@
+h2 {
+    border: 4px solid navy;
+    margin: 10px;
+    padding: 10px;
+    color: white;
+    background-color: navy;
+    font-family: 'Futura', sans-serif;
+    text-decoration: wavy;
+    text-shadow: 2px;
+}
+
+
+.project {
+    display: inline-block;
+    height: 550px;
+    width: 250px;
+    color:blueviolet;
+    border: 4px solid navy;
+    margin: 10px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    text-align: center;
+    overflow: scroll;
+}
