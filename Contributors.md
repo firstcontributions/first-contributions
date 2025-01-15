@@ -4,6 +4,7 @@
 - [prajanlal](https://github.com/prajanlal)
 - [Syed Asad Khalid](https://github.com/SyedAsadK/first-contributi
 - [Sarang Rajesh Kale](https://github.com/Sarangkale66)
+- [Mozzam Shahid](https://github.com/MozzamShahid)
 - [Assalam ualikum from Abdul Basit](https://github.com/Abdulbasit110)
 - [Hi I am Zou Zixi](https://github.com/specter0714)
 - [Samarth Bedare](https://github.com/samarthbedare)
