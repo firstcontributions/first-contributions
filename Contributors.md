@@ -2321,6 +2321,7 @@
 - [Mustafa Chambers](https://github.com/mchamb92)
 - [Garv Jhajharia](https://github.com/garvj65)
 - [Vedant Patel](https://github.com/Vedant-07)
+- [Brian Chamberlain](https://github.com/chambbri)
 - [Dileep Kumar](https://github.com/dileep0998666)
 - [Luiz Elias](https://github.com/luizelias8)
 - [Arun N](https://github.com/arun-357)
