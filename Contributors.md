@@ -10,6 +10,7 @@
 - [Emmanuel Leu Tecson] (https://github.com/TEKKSUNN)
 - Alvaro Zayas-Bazan Santos
 - [Brandon W Lee](https://github.com/bwlee13): bwlee13 OpenSource discovery
+- Mustafa Mubarak Shaik (GitHub-mubarakshaik6)
 - [hannah0wang 🍍](https://github.com/hannah0wang)
 - [thiagodau](https://github.com/thiagodau) Hello everyone!
 - f1ssure contributed
