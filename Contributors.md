@@ -1,6 +1,7 @@
 # Contributors
 
 - wdbrk wuz here
+- [Yoguti](https://github.com/Yoguti)
 - [prajanlal](https://github.com/prajanlal)
 - [Syed Asad Khalid](https://github.com/SyedAsadK/first-contributi
 - [Sarang Rajesh Kale](https://github.com/Sarangkale66)
