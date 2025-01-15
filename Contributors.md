@@ -66,6 +66,7 @@
 - [PavanVenkataNagaManoj17](https://github.com/PavanVenkataNagaManoj17)
 - [Kevin Kasozi](https://github.com/KevinKasozi)
 - [David Nguyen] (https://github.com/davido-noowin/):
+- [David Uche] (https://github.com/acarsondave): **: Exploring Github...**
 - [Zohaer Al Mahatab](https://github.com/priom-mahatab)
 - [Eyal Kutz](https://github.com/eyalkutz)
 - [JorgeOteíza](https://github.com/JorgeOteiza) : Discovering OpenSource projects.
