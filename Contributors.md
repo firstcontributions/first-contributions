@@ -1,5 +1,6 @@
 # Contributors
 
+- [Yash Mehetre](https://github.com/YashMehetre)
 - wdbrk wuz here
 - [Sarang Rajesh Kale](https://github.com/Sarangkale66)
 - [Assalam ualikum from Abdul Basit](https://github.com/Abdulbasit110)
@@ -37,7 +38,7 @@
 - Infernal Blueberry
 - Annie was here
 - meh...idk
-- Sonam *******: My first contribution : ********
+- Sonam **\*\*\***: My first contribution : **\*\*\*\***
 - [haruna libero](https://github.com/harunalibero)
 - [burgosricard0](https://github.com/BurgosRicard0)
 - [saadmann18] (https://github.com/saadmann18)
@@ -2442,4 +2443,4 @@
 - [Tim Wang](https://github.com/TimWang0928) -[Lucifer]
 - [Araf Latif](https://github.com/ARAFLATIF)
 - [Sarang Kale](https://github.com/Sarangkale66)
-- [Juan Manuel Villalón](https://github.com/Juanma-Villalon5/first-contributions.git) 
+- [Juan Manuel Villalón](https://github.com/Juanma-Villalon5/first-contributions.git)
