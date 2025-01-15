@@ -95,6 +95,7 @@
 - [siddiqueahmk](https://github.com/siddiqueahmk)
 - [Shashank Sinha](https://github.com/cbsinha)
 - [Avinash Saroj 🍉](https://github.com/avinashsaroj01) : Hello World!
+- [Glory Tari](https://github.com/itsTari): Hello Creators!! My first contribution, and looking forward to more 
 - [Joseph](https://github.com/Joseph77667)
 - [Myles](https://github.com/Smyles20)
 - [Zülal](https://github.com/zulalc)
