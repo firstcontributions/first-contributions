@@ -182,6 +182,7 @@
 - [Z-to-the-hp69](https://github.com/Z-to-the-hp69/)
 - [FabioCamerota](https://github.com/FabioCamerota)
 - [Anaïs Gatard](https://github.com/AnaisG14)
+- [Stefano Fratello](https://github.com/sterik000)
 - [Jordan Atkins](https://github.com/Atkinss1)
 - [Raunit Arya](https://github.com/RaunitArya)
 - [Christopher Faris](https://github.com/chrisF943)
