@@ -198,6 +198,7 @@
 - [rohithGana](https://github.com/Rohithgvmg)
 - Celeste
 - Lokesh
+- eisthron
 - [AC](https://github.com/FortKnoxWasTaken)
 - [Yisel Cintora Vega](https://github.com/yisel260)
 - [Mohit-Goswami](https://github.com/Mohitgoswami18)
