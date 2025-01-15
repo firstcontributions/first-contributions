@@ -108,6 +108,7 @@
 - [Gavin Reid](https://github.com/GavinReid82)
 - [isimbana](https://github.com/isimbana)
 - [Flavio Souza](https://github.com/flaviopsouzajr)
+- [SujithaKC](https://github.com/SujithaKC) : Fixes, Features, and a Dash of Hope ✨
 - [Louis7363](https://github.com/louis7363)
 - [aajliAhmed](https://github.com/aajliAhmed)
 - [mickaelk98](https://github.com/mickaelk98/)
