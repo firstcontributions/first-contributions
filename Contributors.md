@@ -44,6 +44,7 @@
 - [HAONAN TAO](https://github.com/HAONANTAO)
 - [HayatZarine](https://github.com/HayatZarine): Hello OpenSource world!
 - [Leonardo Carvalho Machado](https://github.com/leonardocarmac)
+- [RickFerrDev](https://github.com/RickFerrDev)
 - DJ was here
 - Saiteja
 - rao was here.
