@@ -28,6 +28,7 @@
 - Chagit Lipsky!
 - Kartik Sharma will prove himself worthy,https://github.com/Kartikk28
 - [Aditya Atreya](https://github.com/AdiAce4u)
+- [Joao Ribeiro](https://github.com/joaopedrorori) **My First Contribution🎉🎉**
   Rohit Chavan: My First controbution
   [Piyush Mandloi](https://github.com/piyush0mandloi)
   [Prathamesh Zingade](https://github.com/ZingadePrathamesh)
