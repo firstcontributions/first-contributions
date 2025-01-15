@@ -1,6 +1,7 @@
 # Contributors
 
 - wdbrk wuz here
+- [prajanlal](https://github.com/prajanlal)
 - [Sarang Rajesh Kale](https://github.com/Sarangkale66)
 - [Assalam ualikum from Abdul Basit](https://github.com/Abdulbasit110)
 - [Hi I am Zou Zixi](https://github.com/specter0714)
