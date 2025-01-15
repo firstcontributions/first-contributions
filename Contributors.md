@@ -2,6 +2,7 @@
 
 - wdbrk wuz here
 - [prajanlal](https://github.com/prajanlal)
+- [Syed Asad Khalid](https://github.com/SyedAsadK/first-contributi
 - [Sarang Rajesh Kale](https://github.com/Sarangkale66)
 - [Assalam ualikum from Abdul Basit](https://github.com/Abdulbasit110)
 - [Hi I am Zou Zixi](https://github.com/specter0714)
@@ -29,6 +30,7 @@
 - Chagit Lipsky!
 - Kartik Sharma will prove himself worthy,https://github.com/Kartikk28
 - [Aditya Atreya](https://github.com/AdiAce4u)
+- [Joao Ribeiro](https://github.com/joaopedrorori) **My First Contribution🎉🎉**
   Rohit Chavan: My First controbution
   [Piyush Mandloi](https://github.com/piyush0mandloi)
   [Prathamesh Zingade](https://github.com/ZingadePrathamesh)
@@ -784,6 +786,7 @@
 - [Sylvain L](https://github.com/sylvain-lec)
 - [Shubham Dhama](https://github.com/shubhamdhama108)
 - [Danyal Ejaz](https://github.com/danyalejaz)
+- [AFRA A](https://github.com/Afrah4331)
 - [Sneha Jain](https://github.com/sj11105)
 - [Varun Patel](https://github.com/varunpatel07)
 - [Jayadeep Velagapudi](https://github.com/jkvelagapudi)
@@ -2446,3 +2449,4 @@
 - [Araf Latif](https://github.com/ARAFLATIF)
 - [Sarang Kale](https://github.com/Sarangkale66)
 - [Juan Manuel Villalón](https://github.com/Juanma-Villalon5/first-contributions.git) 
+- [Ishan Joshi](https://github.com/Dragonix230)
