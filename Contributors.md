@@ -884,6 +884,7 @@
 - [Evgeny Kozelskiy](https://github.com/Der12kl)
 - [Elina Zoldnere](https://github.com/ElinaZoldnere)
 - [Benjamin Tsoumagas](https://github.com/tsoumagas-benjamin)
+- [Umair Amir](https://github.com/UmairAmir)
 - [SURAJ](https://github.com/suRaj-v3)
 - Bhavya Singla
 - [V1centeJ1menez](https://github.com/V1centeJ1menez)
