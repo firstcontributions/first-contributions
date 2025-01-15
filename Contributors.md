@@ -1157,6 +1157,7 @@
 - [Fahim Muntasir](https://github.com/fahim-muntasir)
 - [Madike Olisa](https://github.com/ChubbyJoe)
 - [Sai_Aung_Wann](https://github.com/AungWann)
+- [Julian Koch](https://github.com/jkoch1220)
 - [Jovillios](https://github.com/Jovillios)
 - [Tanvi Shetty](https://github.com/Shettytan99)
 - [Manu Bharadwaj](https://github.com/Manu577228)
