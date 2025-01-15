@@ -20,6 +20,7 @@
 - [Brandon W Lee](https://github.com/bwlee13): bwlee13 OpenSource discovery
 - [Meyer](https://github.com/WiktorMeyer)
 - [hannah0wang 🍍](https://github.com/hannah0wang)
+- [kamil](https://github.com/Kamil115853)
 - [thiagodau](https://github.com/thiagodau) Hello everyone!
 - f1ssure contributed
 - Muhammad Dawar here. Assalam u Alaikum
