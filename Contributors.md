@@ -28,6 +28,7 @@
 - f1ssure contributed
 - karmaa
 - Muhammad Dawar here. Assalam u Alaikum
+- [JDude](https://github.com/JRHolder6263) Hi!
 - [albannakhaled](https://github.com/albannakhaled)
 - [arinsood](https://github.com/arin101230523)
 - [Nathan Nguyen](https://github.com/froztty)
