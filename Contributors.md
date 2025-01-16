@@ -1,5 +1,6 @@
 # Contributors
 
+- [AryanVeks] (https://github.com/Aryan0826)
 - wdbrk wuz here
 - [Sandip Patel)(https://github.com/slotify-dev)
 - [Abhijit Sahane](https://github.com/AbhiSahane0)
