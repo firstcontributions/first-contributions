@@ -1,6 +1,7 @@
 # Contributors
 
 - wdbrk wuz here
+- [Mathdallas-code](https://github.com/Mathdallas-code)
 - [Yoguti](https://github.com/Yoguti)
 - [prajanlal](https://github.com/prajanlal)
 - [Syed Asad Khalid](https://github.com/SyedAsadK/first-contributi
