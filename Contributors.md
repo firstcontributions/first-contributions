@@ -26,6 +26,7 @@
 - [hannah0wang 🍍](https://github.com/hannah0wang)
 - [kamil](https://github.com/Kamil115853)
 - [thiagodau](https://github.com/thiagodau) Hello everyone!
+- [AdiSaikat](https://github.com/adisaikat)
 - f1ssure contributed
 - karmaa
 - Muhammad Dawar here. Assalam u Alaikum
