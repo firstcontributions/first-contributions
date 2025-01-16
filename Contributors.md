@@ -13,6 +13,7 @@
 - [bugudiramu 👨‍💻](https://github.com/bugudiramu)
 - Sheheryar Hassan
 - [EarendelH](https://github.com/Earendelh)
+- [Vanlal Peka](https://github.com/vanlalpeka)
 - [John](https://github.com/yrdnal-c-nhoj)
 - [Jescaps Nyarko Antwi alias THE GODFATHER](https://github.com/JescapsAntwi)
   [Mercy-Mbao ✨](https://github.com/mercie-ux)
