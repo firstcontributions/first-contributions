@@ -29,6 +29,7 @@
 - [thiagodau](https://github.com/thiagodau) Hello everyone!
 - [AdiSaikat](https://github.com/adisaikat)
 - f1ssure contributed
+- devNjan contributed
 - karmaa
 - Muhammad Dawar here. Assalam u Alaikum
 - [JDude](https://github.com/JRHolder6263) Hi!
