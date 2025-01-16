@@ -106,6 +106,7 @@
 - [Glory Tari](https://github.com/itsTari): Hello Creators!! My first contribution, and looking forward to more 
 - [Joseph](https://github.com/Joseph77667)
 - [Myles](https://github.com/Smyles20)
+- [Tanishqua-Simform](https://github.com/Tanishqua-Simform): Leaving my marks here on 16 Jan, 2025
 - [Zülal](https://github.com/zulalc)
 - [Scorpio](https://github.com/Black-Scorpio)
 - [Sunny-Saurya](https://github.com/Sunny-Saurya)
