@@ -1,5 +1,6 @@
 # Contributors
 
+- [AryanVeks] (https://github.com/Aryan0826)
 - wdbrk wuz here
 - [Yoguti](https://github.com/Yoguti)
 - [prajanlal](https://github.com/prajanlal)
@@ -45,7 +46,7 @@
 - Infernal Blueberry
 - Annie was here
 - meh...idk
-- Sonam *******: My first contribution : ********
+- Sonam **\*\*\***: My first contribution : **\*\*\*\***
 - [haruna libero](https://github.com/harunalibero)
 - [burgosricard0](https://github.com/BurgosRicard0)
 - [saadmann18] (https://github.com/saadmann18)
@@ -100,7 +101,7 @@
 - [siddiqueahmk](https://github.com/siddiqueahmk)
 - [Shashank Sinha](https://github.com/cbsinha)
 - [Avinash Saroj 🍉](https://github.com/avinashsaroj01) : Hello World!
-- [Glory Tari](https://github.com/itsTari): Hello Creators!! My first contribution, and looking forward to more 
+- [Glory Tari](https://github.com/itsTari): Hello Creators!! My first contribution, and looking forward to more
 - [Joseph](https://github.com/Joseph77667)
 - [Myles](https://github.com/Smyles20)
 - [Zülal](https://github.com/zulalc)
@@ -2460,6 +2461,6 @@
 - [Tim Wang](https://github.com/TimWang0928) -[Lucifer]
 - [Araf Latif](https://github.com/ARAFLATIF)
 - [Sarang Kale](https://github.com/Sarangkale66)
-- [Juan Manuel Villalón](https://github.com/Juanma-Villalon5/first-contributions.git) 
+- [Juan Manuel Villalón](https://github.com/Juanma-Villalon5/first-contributions.git)
 - [Ishan Joshi](https://github.com/Dragonix230)
 - [Andrew Doty](https://github.com/dotyand-ga)
