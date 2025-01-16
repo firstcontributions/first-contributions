@@ -1,7 +1,11 @@
 # Contributors
 
-- wdbrk wuz here -[Abhijit Sahane](https://github.com/AbhiSahane0)
+- wdbrk wuz here
+- [Sandip Patel)(https://github.com/slotify-dev)
+- [Abhijit Sahane](https://github.com/AbhiSahane0)
+- [Youssef Sayed](https://github.com/Youssehf)
 - [Mathdallas-code](https://github.com/Mathdallas-code)
+- [Gaddala Sathvik](https://github.com/sathvik73)
 - [Yoguti](https://github.com/Yoguti)
 - [prajanlal](https://github.com/prajanlal)
 - [Syed Asad Khalid](https://github.com/SyedAsadK/first-contributi
@@ -20,6 +24,8 @@
   [Mercy-Mbao ✨](https://github.com/mercie-ux)
 - [Emmanuel Leu Tecson] (https://github.com/TEKKSUNN)
 - Alvaro Zayas-Bazan Santos
+- [Mohmmadabrar Malek](https://github.com/Git-abby)
+- Theresa!
 - [Abdullah Khurram Vohra](https://github.com/VohraAK)
 - [Ben Arlanda](https://github.com/Ben-Arlanda)
 - [Brandon W Lee](https://github.com/bwlee13): bwlee13 OpenSource discovery
@@ -44,6 +50,7 @@
   Rohit Chavan: My First controbution
   [Piyush Mandloi](https://github.com/piyush0mandloi)
   [Prathamesh Zingade](https://github.com/ZingadePrathamesh)
+  Brajesh aya tha 
 - [Somto Ogbe](https://github.com/somtoval)
 - [Vorahpong Mean](https://github.com/VorahPong)
 - [Vivek Chudasama](https://github.com/vivekchudasama-2004)
@@ -128,11 +135,13 @@
 - [nokesh](https://github.com/Nokesh11)
 - [Vicky Besra](https://github.com/vickybesra)
 - [Jenny Martin](https://github.com/jmartinDS14)
+- [Saurabh Verma](https://github.com/akasaurabhverma) : The first of many contributions
 - [Gavin Reid](https://github.com/GavinReid82)
 - [isimbana](https://github.com/isimbana)
 - [Flavio Souza](https://github.com/flaviopsouzajr)
 - [SujithaKC](https://github.com/SujithaKC) : Fixes, Features, and a Dash of Hope ✨
 - [Louis7363](https://github.com/louis7363)
+- [lharsha2005](https://github.com/lharsha2005)
 - [aajliAhmed](https://github.com/aajliAhmed)
 - [mickaelk98](https://github.com/mickaelk98/)
 - [Dani Matuko](https://github.com/danimatuko)
@@ -719,6 +728,7 @@
 - [Jerold De Pedro](https://github.com/xherby07)
 - [Jason Ang](https://github.com/jasonavatarang)
 - Sriram Balu
+-[ayala](https://github.com/AyalaFridman)
 - [Sashin Trout](https://github.com/sashin123)
 - [Anish Banda](https://github.con/anishbanda)
 - [Jordy19](https://github.com/Jordy19)
@@ -820,6 +830,7 @@
 - [Stephen Ng](https://github.com/snust)
 - [Axel Valerio Ertamto](https://github.com/AxelValerioErtamto)
 - [Justin](https://github.com/JustinBifeld)
+- [Rahul Gurav](https://github.com/RahulGurav82)
 - [Vinicius Alves Amorim](https://github.com/am0rimdev)
 - [aseel matta](https://github.com/aseelmatta)
 - [Lulu Harvey](https://github.com/luluharvey)
@@ -2455,6 +2466,7 @@
 - [LINDECKER Charles](https://github.com/Shirou-Emiya2420)
 - [kjgino](https://github.com/kjgino)
 - [Özgür Sönmez](https://github.com/ozgursnmz)
+- BabsTech
 - [InigoMontoya]
 - [Defalt-Meh](https://github.com/Defalt-Meh)
 - [Jaime Velez](https://github.com/vlzjc)
@@ -2488,3 +2500,4 @@
 - [Harsh kumar](https://github.com/harshbarnwal0101)
 - [Ryan Smith aka Tyriol](https://github.com/Tyriol)
 - [Nimesh Vellera] (https://github.com/omennemo)
+- Yassr stagio => <a href="https://github.com/stagioo">Yassr Stagio</a>
