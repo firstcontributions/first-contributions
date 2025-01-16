@@ -2125,6 +2125,7 @@
 - [Taufi](https://github.com/Taufi)
   -Ruty
 - [Jack Sighton](https://github.com/JackBerezhnov)
+- [A Parker](https://github.com/aparker00)
 - [Ellis Franklin](https://github.com/ellfran-7)
 - [alekhine](https://github.com/Src0p)
 - [Mtendekuyokwa19](https://github.com/Mtendekuyokwa19)
