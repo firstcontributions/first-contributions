@@ -1,7 +1,8 @@
 # Contributors
 
 - wdbrk wuz here
--[Abhijit Sahane](https://github.com/AbhiSahane0)
+- [Sandip Patel)(https://github.com/slotify-dev)
+- [Abhijit Sahane](https://github.com/AbhiSahane0)
 - [Youssef Sayed](https://github.com/Youssehf)
 - [Mathdallas-code](https://github.com/Mathdallas-code)
 - [Gaddala Sathvik](https://github.com/sathvik73)
