@@ -2496,3 +2496,4 @@
 - [Harsh kumar](https://github.com/harshbarnwal0101)
 - [Ryan Smith aka Tyriol](https://github.com/Tyriol)
 - [Nimesh Vellera] (https://github.com/omennemo)
+- Yassr stagio => <a href="https://github.com/stagioo">Yassr Stagio</a>
