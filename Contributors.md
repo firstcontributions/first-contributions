@@ -725,6 +725,7 @@
 - [Jerold De Pedro](https://github.com/xherby07)
 - [Jason Ang](https://github.com/jasonavatarang)
 - Sriram Balu
+-[ayala](https://github.com/AyalaFridman)
 - [Sashin Trout](https://github.com/sashin123)
 - [Anish Banda](https://github.con/anishbanda)
 - [Jordy19](https://github.com/Jordy19)
