@@ -2,7 +2,7 @@
 
 - wdbrk wuz here
 -[Abhijit Sahane](https://github.com/AbhiSahane0)
-- [Gaddala Sathvik](https://github.com/sathvik73)
+- [Gaddala Sathvik](https://github.com/sathvik73) 
 - [Mathdallas-code](https://github.com/Mathdallas-code)
 - [Yoguti](https://github.com/Yoguti)
 - [prajanlal](https://github.com/prajanlal)
