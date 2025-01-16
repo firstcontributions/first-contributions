@@ -115,15 +115,15 @@ Haitochukua muda mrefu nitaanza kuchukua mabadiliko yaliyofanyika na kuyapeleka 
 
 Hongera! Umeweza kumaliza hatua za msingi ambazo ni _fork -> clone -> edit -> PR_ ambazo utakutana nazo mara nyingi ukiwa kama mchangiaji!
 
-Sheherekea hatua uliyofikia na wajulishe wengine kwa kwenda kwenye [wavuti](https://roshanjossey.github.io/first-contributions/#social-share).
+Sherehekea hatua uliyofikia na wajulishe wengine kwa kwenda kwenye [wavuti](https://roshanjossey.github.io/first-contributions/#social-share).
 
-Waweza kujiunga kundi letu la slack endapo utakuwa unahitaji msaada wowote. [Jiunge na kundi letu la slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
+Waweza kujiunga na kundi letu la slack endapo utakuwa unahitaji msaada wowote. [Jiunge na kundi letu la slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
 Sasa tuanze kuchangia kwenye miradi mingine. Tumekusanya orodha ya miradi ambayo ina mambo mepesi unayoweza kuanza kushughulika nayo. Angalia [Orodha ya miradi](https://roshanjossey.github.io/first-contributions/#project-list).
 
 ### [Nyenzo za ziada](../additional-material/git_workflow_scenarios/additional-material.md)
 
-## Mafundisho ya namna ya kutumia nyenzo nyingine
+## Mafunzo ya namna ya kutumia nyenzo nyingine
 
 | <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | --- | --- | --- | --- | --- | --- |
