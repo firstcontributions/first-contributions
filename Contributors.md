@@ -24,6 +24,7 @@
 - [Emmanuel Leu Tecson] (https://github.com/TEKKSUNN)
 - Alvaro Zayas-Bazan Santos
 - [Mohmmadabrar Malek](https://github.com/Git-abby)
+- Theresa!
 - [Abdullah Khurram Vohra](https://github.com/VohraAK)
 - [Ben Arlanda](https://github.com/Ben-Arlanda)
 - [Brandon W Lee](https://github.com/bwlee13): bwlee13 OpenSource discovery
