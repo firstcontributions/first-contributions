@@ -2,10 +2,13 @@
 - [Adarsh Bhayani](https://github.com/Adarsh-Bhayani)
 - [Jahin Ahnaf](https://github.com/jahin-ahnaf) / BANGLADESH
 - [Yash Mehetre](https://github.com/YashMehetre)
+- [AryanVeks] (https://github.com/Aryan0826)
+- [Sandip Patel](https://github.com/slotify-dev)
+- [Prashant](https://github.com/Moxie-47)
 - [Oyaghi](https://github.com/oyaghi) 👈(ﾟヮﾟ👈)
 - [AryanVeks](https://github.com/Aryan0826)
 - [kikumiyako](https://github.com/kikumiyako)
-- wdbrk wuz here
+- wdbrk
 - [Sandip Patel)(https://github.com/slotify-dev)
 - [Abhijit Sahane](https://github.com/AbhiSahane0)
 - [Youssef Sayed](https://github.com/Youssehf)
