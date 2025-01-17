@@ -220,6 +220,7 @@
 - [Nejma Latheef](https://github.com/Nejma-Latheef)
 - [Sanidhya Soni](https://github.com/sonisanidhya)
 - [Adrian Bajczyk](https://github.com/AdrianBajczyk)
+- [Bosco Tsin](https://github.com/boscomanilow128)
 - [Kristin Dailey](https://github.com/kristindailey)
 - [Chibuzor Israel](https://github.com/pseudoeazy)
 - [Sumit Pandey](https://github.com/SumitPandey08)
