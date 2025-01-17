@@ -1,7 +1,7 @@
 # Contributors
 
 - [Yash Mehetre](https://github.com/YashMehetre)
-- [Oyaghi](https://github.com/oyaghi) 👈(ﾟヮﾟ👈)
+- [Oyaghi](https://github.com/oyaghi) 👈(ﾟヮﾟ 👈)
 - [AryanVeks](https://github.com/Aryan0826)
 - [kikumiyako](https://github.com/kikumiyako)
 - wdbrk wuz here
@@ -59,7 +59,7 @@
   Rohit Chavan: My First controbution
   [Piyush Mandloi](https://github.com/piyush0mandloi)
   [Prathamesh Zingade](https://github.com/ZingadePrathamesh)
-  Brajesh aya tha 
+  Brajesh aya tha
 - [Somto Ogbe](https://github.com/somtoval)
 - [Vorahpong Mean](https://github.com/VorahPong)
 - [Vivek Chudasama](https://github.com/vivekchudasama-2004)
@@ -410,6 +410,7 @@
 - [Jeremiah](https://github.com/jrmhx)
 - [ManzaLord](https://github.com/ManzaLord) : Journey before destination
 - [Akshey](https://github.com/aksheyd)
+- [Darllyson Santos](https://github.com/DarllysonS)
 - [Vaibhav Rawat](https://github.com/VaibhavRawat27)
 - [Shubhranka Varma](https://github.com/shubhranka)
 - [benoitmonchaninsupinfo](https://github.com/benoitmonchaninsupinfo)
@@ -742,8 +743,7 @@
 - [Nisha Verma](https://github.com/xnisha-verma)
 - [Jerold De Pedro](https://github.com/xherby07)
 - [Jason Ang](https://github.com/jasonavatarang)
-- Sriram Balu
--[ayala](https://github.com/AyalaFridman)
+- Sriram Balu -[ayala](https://github.com/AyalaFridman)
 - [Sashin Trout](https://github.com/sashin123)
 - [Anish Banda](https://github.con/anishbanda)
 - [Jordy19](https://github.com/Jordy19)
