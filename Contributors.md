@@ -1,10 +1,13 @@
 # Contributors
-
+- [Adarsh Bhayani](https://github.com/Adarsh-Bhayani)
+- [Jahin Ahnaf](https://github.com/jahin-ahnaf) / BANGLADESH
 - [Yash Mehetre](https://github.com/YashMehetre)
-- [Oyaghi](https://github.com/oyaghi) 👈(ﾟヮﾟ 👈)
+- [Sandip Patel](https://github.com/slotify-dev)
+- [Prashant](https://github.com/Moxie-47)
+- [Oyaghi](https://github.com/oyaghi) 👈(ﾟヮﾟ👈)
 - [AryanVeks](https://github.com/Aryan0826)
 - [kikumiyako](https://github.com/kikumiyako)
-- wdbrk wuz here
+- wdbrk
 - [Sandip Patel)(https://github.com/slotify-dev)
 - [Abhijit Sahane](https://github.com/AbhiSahane0)
 - [Youssef Sayed](https://github.com/Youssehf)
@@ -25,6 +28,7 @@
 - [Yeshu](https://www.youtube.com/watch?v=hB7CDrVnNCs)
 - [bugudiramu 👨‍💻](https://github.com/bugudiramu)
 - Sheheryar Hassan
+- [Aritra Mukherjee](https://github.com/maritra)
 - [EarendelH](https://github.com/Earendelh)
 - [mohitpuri-codes](https://github.com/mohitpuri-codes)
 - [Vanlal Peka](https://github.com/vanlalpeka)
@@ -54,6 +58,7 @@
 - [asyraf34](https://github.com/asyraf34) : **_I Love Github!_**
 - Chagit Lipsky!
 - Kartik Sharma will prove himself worthy,https://github.com/Kartikk28
+- [Andrew Wildgoose](https://github.com/andrewwildgoose)
 - [Aditya Atreya](https://github.com/AdiAce4u)
 - [Joao Ribeiro](https://github.com/joaopedrorori) **My First Contribution🎉🎉**
   Rohit Chavan: My First controbution
@@ -220,6 +225,7 @@
 - [Nejma Latheef](https://github.com/Nejma-Latheef)
 - [Sanidhya Soni](https://github.com/sonisanidhya)
 - [Adrian Bajczyk](https://github.com/AdrianBajczyk)
+- [Bosco Tsin](https://github.com/boscomanilow128)
 - [Kristin Dailey](https://github.com/kristindailey)
 - [Chibuzor Israel](https://github.com/pseudoeazy)
 - [Sumit Pandey](https://github.com/SumitPandey08)
@@ -227,6 +233,7 @@
 - [Arindam Dinda](https://github.com/Arindam2003)
 - [EricccTaiwan](https://github.com/EricccTaiwan)
 - [Daiwiik Harihar](https://github.com/daiv09)
+- [Mohammad Sarfaraz Afzal](https://github.com/mohammadsarfarazafzal)
 - [Z-to-the-hp69](https://github.com/Z-to-the-hp69/)
 - [FabioCamerota](https://github.com/FabioCamerota)
 - [Anaïs Gatard](https://github.com/AnaisG14)
@@ -574,6 +581,7 @@
 - [Jeel Bera](https://github.com/beraj2330)
 - [turtle-papa](https://github.com/turtle-papa)6
 - [Tejasri P R](https://github.com/Tejasri0608)
+- [wystmk](https://github.com/wystmk)
 - [Emiakpor](https://github.com/Emiakpor)
 - [hyenee99](https://github.com/hyenee99)
 - [Pranav](https://github.com/Pranav0102)
@@ -1385,6 +1393,7 @@
 - [Anjali Jaiswal](https://github.com/ajaisw13)
 - [Kain](https://github.com/kainosaur)
 - [hamza](https://github.com/bouayadhamza)
+- [Nikola Stojanovic](https://github.com/nikola310)
 - [Rounak Kumar Singh](https://github.com/rounakkumarsingh)
   Kumar Sanjeev Dutta(https://github.com/sanjeevWeb)
 - [Abdul khader](https://github.com/davyjones7321)
@@ -2520,6 +2529,9 @@
 - [Harsh kumar](https://github.com/harshbarnwal0101)
 - [Ryan Smith aka Tyriol](https://github.com/Tyriol)
 - [Nimesh Vellera] (https://github.com/omennemo)
+- HoRangyi
 - Yassr stagio => <a href="https://github.com/stagioo">Yassr Stagio</a>
+- [Priyanshu](https://github.com/Priyanshtailor07)
 - Udaya Sri(https://github.com/Udaya19SRI)
 - [Likhita](https://github.com/likhita666)
+- Shifra
