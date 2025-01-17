@@ -7,6 +7,7 @@
 - [Oyaghi](https://github.com/oyaghi) 👈(ﾟヮﾟ👈)
 - [AryanVeks](https://github.com/Aryan0826)
 - [kikumiyako](https://github.com/kikumiyako)
+- [Connor Sullivan](https://github.com/connorssullivan)
 - wdbrk
 - Manuel MG
 - [Sandip Patel)(https://github.com/slotify-dev)
