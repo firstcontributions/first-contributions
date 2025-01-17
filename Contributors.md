@@ -2,7 +2,6 @@
 - [Adarsh Bhayani](https://github.com/Adarsh-Bhayani)
 - [Jahin Ahnaf](https://github.com/jahin-ahnaf) / BANGLADESH
 - [Yash Mehetre](https://github.com/YashMehetre)
-- [AryanVeks] (https://github.com/Aryan0826)
 - [Sandip Patel](https://github.com/slotify-dev)
 - [Prashant](https://github.com/Moxie-47)
 - [Oyaghi](https://github.com/oyaghi) 👈(ﾟヮﾟ👈)
@@ -418,6 +417,7 @@
 - [Jeremiah](https://github.com/jrmhx)
 - [ManzaLord](https://github.com/ManzaLord) : Journey before destination
 - [Akshey](https://github.com/aksheyd)
+- [Darllyson Santos](https://github.com/DarllysonS)
 - [Vaibhav Rawat](https://github.com/VaibhavRawat27)
 - [Shubhranka Varma](https://github.com/shubhranka)
 - [benoitmonchaninsupinfo](https://github.com/benoitmonchaninsupinfo)
