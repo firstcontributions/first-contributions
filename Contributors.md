@@ -13,6 +13,7 @@
 - [Gaddala Sathvik](https://github.com/sathvik73)
 - [Yoguti](https://github.com/Yoguti)
 - [prajanlal](https://github.com/prajanlal)
+- [WardhaKashif](https://github.com/Wardha-kashif)
 - [Syed Asad Khalid](https://github.com/SyedAsadK/first-contributi
 - [Sarang Rajesh Kale](https://github.com/Sarangkale66)
 - [Mozzam Shahid](https://github.com/MozzamShahid)
