@@ -98,6 +98,7 @@
 - [Arvid Håkon Seternes](https://github.com/ArvidHS) : Hobbyist wanting to contribute!
 - [Sandhya Rani](https://github.com/sandhya12r) :Full Stack Web Developer
 - [Sruthi Krishnakumar](https://github.com/SruthiKrish19) :07/01/2025
+- [The Lunatek](https://github.com/tekluna)
 - [Leli Vexler](https://github.com/Lelivexler)
 - [Navaneethakrishnan M V](https://github.com/Navaneetha-Krishnan-MV) :Full Stack and Cloud Enthusiast
 - [Yuhan Zou](https://github.com/djj316/) :A brand new start
