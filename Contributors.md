@@ -708,7 +708,7 @@
 - [Sheikh Mujtaba](https://github.com/Sheikh-Muhammad-Mujtaba)
 - [Hypothalamus](https://github.com/Hypothalamuss)
 - [Andrew Tan](https://github.com/AndrewTan517)
-- [jokalu-it](Grüße :))
+- [jokalu-it](Grüße :D)
 - [YudisSutisna](https://github.com/Hanep77)
 - [STA](https://github.com/sithuaung246810)
 - [Ernest Muli](https://github.com/kunmuli)
