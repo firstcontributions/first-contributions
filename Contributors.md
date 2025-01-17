@@ -1230,6 +1230,7 @@
 - [Ryan Dallimore](https://github.com/rdallim2)
 - [Tim the First](https://github.com/tjr214) # Thank you!
 - [jikrish](https://github.com/jikrish)
+- [Trésor](https://github.com/tresor-del)
 - [Aniket Botre](https://github.com/Aniket200-ind)
 - [Harsha S](https://github.com/harsha-likes-to-code) ^\_^
 - [Rafal Jasielec](https://github.com/GHrjasielec)
