@@ -1,10 +1,9 @@
 # Contributors
 
 - [Yash Mehetre](https://github.com/YashMehetre)
-- [Prashant](https://github.com/Moxie-47)
 - [AryanVeks] (https://github.com/Aryan0826)
-- wdbrk wuz here
-- [Sandip Patel)(https://github.com/slotify-dev)
+- [Sandip Patel](https://github.com/slotify-dev)
+- [Prashant](https://github.com/Moxie-47)
 - [Abhijit Sahane](https://github.com/AbhiSahane0)
 - [Youssef Sayed](https://github.com/Youssehf)
 - [Mathdallas-code](https://github.com/Mathdallas-code)
