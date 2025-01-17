@@ -52,7 +52,7 @@
   Rohit Chavan: My First controbution
   [Piyush Mandloi](https://github.com/piyush0mandloi)
   [Prathamesh Zingade](https://github.com/ZingadePrathamesh)
-  Brajesh aya tha 
+  Brajesh aya tha
 - [Somto Ogbe](https://github.com/somtoval)
 - [Vorahpong Mean](https://github.com/VorahPong)
 - [Vivek Chudasama](https://github.com/vivekchudasama-2004)
@@ -729,8 +729,7 @@
 - [Nisha Verma](https://github.com/xnisha-verma)
 - [Jerold De Pedro](https://github.com/xherby07)
 - [Jason Ang](https://github.com/jasonavatarang)
-- Sriram Balu
--[ayala](https://github.com/AyalaFridman)
+- Sriram Balu -[ayala](https://github.com/AyalaFridman)
 - [Sashin Trout](https://github.com/sashin123)
 - [Anish Banda](https://github.con/anishbanda)
 - [Jordy19](https://github.com/Jordy19)
@@ -2502,4 +2501,5 @@
 - [Harsh kumar](https://github.com/harshbarnwal0101)
 - [Ryan Smith aka Tyriol](https://github.com/Tyriol)
 - [Nimesh Vellera] (https://github.com/omennemo)
+- HoRangyi
 - Yassr stagio => <a href="https://github.com/stagioo">Yassr Stagio</a>
