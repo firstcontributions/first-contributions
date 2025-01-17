@@ -2530,6 +2530,7 @@
 - [Nimesh Vellera] (https://github.com/omennemo)
 - HoRangyi
 - Yassr stagio => <a href="https://github.com/stagioo">Yassr Stagio</a>
+- [Priyanshu](https://github.com/Priyanshtailor07)
 - Udaya Sri(https://github.com/Udaya19SRI)
 - [Likhita](https://github.com/likhita666)
 - Shifra
