@@ -1,6 +1,7 @@
 # Contributors
 
 - [Yash Mehetre](https://github.com/YashMehetre)
+- [Prashant](https://github.com/Moxie-47)
 - [AryanVeks] (https://github.com/Aryan0826)
 - wdbrk wuz here
 - [Sandip Patel)(https://github.com/slotify-dev)
