@@ -636,6 +636,7 @@
 - [Prathik Cherian](https://github.com/prathik-codes)
 - [@thenocturnaldevgypsy-io | TheNocturnalDevGypsy (Abegail Torrendon)](https://github.com/thenocturnaldevgypsy-io)
 - Gail Lobo
+- [chilee00](https://github.com/cclee00)
 - [Tsafac Nkombong Regine Cyrille](https://github.com/Regine12)
 - [Mohamed Alam](https://github.com/the-ALAM)
 - [Hongbi Ko](https://github.com/HongbiKo)
