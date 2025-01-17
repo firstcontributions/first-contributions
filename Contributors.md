@@ -1,5 +1,5 @@
 # Contributors
-
+  [Adarsh Bhayani](https://github.com/Adarsh-Bhayani)
 - [Yash Mehetre](https://github.com/YashMehetre)
 - [AryanVeks] (https://github.com/Aryan0826)
 - wdbrk wuz here
