@@ -1,16 +1,20 @@
 # Contributors
 
 - [Yash Mehetre](https://github.com/YashMehetre)
-- [AryanVeks] (https://github.com/Aryan0826)
+- [Oyaghi](https://github.com/oyaghi) 👈(ﾟヮﾟ👈)
+- [AryanVeks](https://github.com/Aryan0826)
+- [kikumiyako](https://github.com/kikumiyako)
 - wdbrk wuz here
 - [Sandip Patel)(https://github.com/slotify-dev)
 - [Abhijit Sahane](https://github.com/AbhiSahane0)
 - [Youssef Sayed](https://github.com/Youssehf)
+- [Martti Z](https://github.com/marttiil)
 - [Mathdallas-code](https://github.com/Mathdallas-code)
 - [Zayar Linn](https://github.com/zayarlinnwebster)
 - [Gaddala Sathvik](https://github.com/sathvik73)
 - [Yoguti](https://github.com/Yoguti)
 - [prajanlal](https://github.com/prajanlal)
+- [WardhaKashif](https://github.com/Wardha-kashif)
 - [Syed Asad Khalid](https://github.com/SyedAsadK/first-contributi
 - [Sarang Rajesh Kale](https://github.com/Sarangkale66)
 - [Mozzam Shahid](https://github.com/MozzamShahid)
@@ -1230,6 +1234,7 @@
 - [Ryan Dallimore](https://github.com/rdallim2)
 - [Tim the First](https://github.com/tjr214) # Thank you!
 - [jikrish](https://github.com/jikrish)
+- [Trésor](https://github.com/tresor-del)
 - [Aniket Botre](https://github.com/Aniket200-ind)
 - [Harsha S](https://github.com/harsha-likes-to-code) ^\_^
 - [Rafal Jasielec](https://github.com/GHrjasielec)
@@ -2514,3 +2519,4 @@
 - [Ryan Smith aka Tyriol](https://github.com/Tyriol)
 - [Nimesh Vellera] (https://github.com/omennemo)
 - Yassr stagio => <a href="https://github.com/stagioo">Yassr Stagio</a>
+- Udaya Sri(https://github.com/Udaya19SRI)
