@@ -3,6 +3,7 @@
 - [Yash Mehetre](https://github.com/YashMehetre)
 - [Oyaghi](https://github.com/oyaghi) 👈(ﾟヮﾟ👈)
 - [AryanVeks](https://github.com/Aryan0826)
+- [kikumiyako](https://github.com/kikumiyako)
 - wdbrk wuz here
 - [Sandip Patel)(https://github.com/slotify-dev)
 - [Abhijit Sahane](https://github.com/AbhiSahane0)
