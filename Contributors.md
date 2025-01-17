@@ -1191,6 +1191,7 @@
 - [Siddhesh Gawade](https://github.com/sid293)👋
 - [Huzaifa Azim](https://github.com/huzaifaazim0)
 - [Joanna McDonald](https://github.com/joannamcd)
+- [AkinduID](https://github.com/AkinduID)
 - [Tianna Lopes](https://github.com/TiannaLopes)
 - [dDevAhmed](https://github.com/dDevAhmed/)
 - [WaiyakiDev](https://github.com/MONSURU-rgb)
