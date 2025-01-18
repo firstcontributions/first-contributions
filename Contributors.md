@@ -30,6 +30,7 @@
 - [Yeshu](https://www.youtube.com/watch?v=hB7CDrVnNCs)
 - [bugudiramu 👨‍💻](https://github.com/bugudiramu)
 - Sheheryar Hassan
+- [Ctrshift-Pm](https://github.com/Ctrshift-Pm)
 - [Aritra Mukherjee](https://github.com/maritra)
 - [EarendelH](https://github.com/Earendelh)
 - [mohitpuri-codes](https://github.com/mohitpuri-codes)
