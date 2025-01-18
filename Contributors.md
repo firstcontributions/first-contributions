@@ -539,6 +539,7 @@
 - [Fahad Haque](https://github.com/Daahaf)
 - [Deepankar Sahoo](https://github.com/CodeByDeepankar)
 - [Hisham](https://github.com/sikehish)
+- [risavctt](https://github.com/risavctt)
 - [eesoyeon] (https://github.com/eesoyeon)
 - [PhamNguyenDangHuy](https://github.com/pndh)
 - [randompeep]
