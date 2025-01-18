@@ -2556,4 +2556,5 @@
 - [Simón Villafañe](https://github.com/itssimmons) was here
 - [Jagrut Patil](https://github.com/jagrut25)
 - [AnselZorro](https://github.com/Ansellino)
+- [sushi-taro](https://github.com/sushi-taro)
 - [I was here :)](https://github.com/SAHEEDPM)
