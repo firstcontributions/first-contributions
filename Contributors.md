@@ -1,4 +1,5 @@
 # Contributors
+- [Talha Bin Rafique] (https://github.com/cykillon3)
 - [Adarsh Bhayani](https://github.com/Adarsh-Bhayani)
 - [Chris Banas](https://github.com/chrisbanas)
 - [Jahin Ahnaf](https://github.com/jahin-ahnaf) / BANGLADESH
@@ -2561,4 +2562,5 @@
 - [AnselZorro](https://github.com/Ansellino)
 - [I was here :)](https://github.com/SAHEEDPM)
 - [Suyog](https://github.com/cosmicsuyog)
-
+- [Hi all new here](https://github.com/Pushpak2861)
+- [Dejan Zivkovic](https://github.com/theZivkovic)
