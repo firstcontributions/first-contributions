@@ -2022,6 +2022,7 @@
 - [Abiha Sami](https://github.com/CodingBiyu)
 - [Nestor Garcia](https://github.com/nestorjgc) ✔️
 - [Matthew Given](https://github.com/mgiv)
+- [M. Ishaque Junejo](https://github.com/IshaqJunejo/) was here on 18-Jan-2025
 - [Didi Zapryanov](https://github.com/Jibromircho)
 - [Emeraldthedev](https://github.com/OriloyeEmerald)
 - [BeesyBumbleBee](https://github.com/BeesyBumbleBee)
