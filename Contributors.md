@@ -13,6 +13,7 @@
 - [Connor Sullivan](https://github.com/connorssullivan)
 - [Gabriel Costa](https://github.com/gabriel-oxx)
 - [Yenuganti Rahul](https://github.com/yenugantirahul)
+- [Mike T]
 - [Mustafa Ajnawala](https://github.com/MustafaAjnawala)
 - wdbrk
 - Manuel MG
