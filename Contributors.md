@@ -50,6 +50,7 @@
 - Alvaro Zayas-Bazan Santos
 - [Mohmmadabrar Malek](https://github.com/Git-abby)
 - Theresa!
+- [Leina Prieur](https://github.com/leinapr)
 - [Daniel Cárdenas](https://github.com/Darcares)
 - [Abdullah Khurram Vohra](https://github.com/VohraAK)
 - [Ben Arlanda](https://github.com/Ben-Arlanda)
