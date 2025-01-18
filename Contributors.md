@@ -1,5 +1,6 @@
 # Contributors
 - [Adarsh Bhayani](https://github.com/Adarsh-Bhayani)
+- [Chris Banas](https://github.com/chrisbanas)
 - [Jahin Ahnaf](https://github.com/jahin-ahnaf) / BANGLADESH
 - [Yash Mehetre](https://github.com/YashMehetre)
 - [Sandip Patel](https://github.com/slotify-dev)
