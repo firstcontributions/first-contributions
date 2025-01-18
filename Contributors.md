@@ -2213,6 +2213,7 @@
 - [abharclin](https://github.com/abharclin)
 - [Suraj Agrawal](https://github.com/surajagrawal01)
 - [alecastaldo] (https://github.com/alecastaldo)
+- [Nikodem Eluszkiewicz] (https://github.com/elusznik)
 - [Joshua D] (https://github.com/JCD2k4)
 - [HannanToprakPia](https://github.com/HannanToprakPia)
 - [Rene Kathofer](https://github.com/rkatex)
