@@ -9,6 +9,7 @@
 - [AryanVeks](https://github.com/Aryan0826)
 - [kikumiyako](https://github.com/kikumiyako)
 - [Connor Sullivan](https://github.com/connorssullivan)
+- [Yenuganti Rahul](https://github.com/yenugantirahul)
 - wdbrk
 - Manuel MG
 - [Sandip Patel)(https://github.com/slotify-dev)
