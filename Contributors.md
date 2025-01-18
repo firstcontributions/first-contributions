@@ -1,13 +1,14 @@
 # Contributors
+
 - [Talha Bin Rafique] (https://github.com/cykillon3)
 - [Adarsh Bhayani](https://github.com/Adarsh-Bhayani)
 - [Chris Banas](https://github.com/chrisbanas)
 - [Jahin Ahnaf](https://github.com/jahin-ahnaf) / BANGLADESH
 - [Yash Mehetre](https://github.com/YashMehetre)
 - [Sandip Patel](https://github.com/slotify-dev)
-- [Ritik Verma](https://github.com/vritik907) 👈(ﾟヮﾟ👈)
+- [Ritik Verma](https://github.com/vritik907) 👈(ﾟヮﾟ 👈)
 - [Prashant](https://github.com/Moxie-47)
-- [Oyaghi](https://github.com/oyaghi) 👈(ﾟヮﾟ👈)
+- [Oyaghi](https://github.com/oyaghi) 👈(ﾟヮﾟ 👈)
 - [AryanVeks](https://github.com/Aryan0826)
 - [kikumiyako](https://github.com/kikumiyako)
 - [Connor Sullivan](https://github.com/connorssullivan)
@@ -175,6 +176,7 @@
 - [aajliAhmed](https://github.com/aajliAhmed)
 - [mickaelk98](https://github.com/mickaelk98/)
 - [Dani Matuko](https://github.com/danimatuko)
+- [Prashanti](https://github.com/prxshxnti)
 - [DeathScytheZ](https://github.com/DeathScytheZ)
 - [Aamir Shaikh](https://github.com/aamirsk8766)
 - [Mustakim Farooqui](https://github.com/imustakim)
