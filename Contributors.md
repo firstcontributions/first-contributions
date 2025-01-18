@@ -401,6 +401,7 @@
 - [Wendell Oliveira](https://github.com/wendelloliiver)
 - [Ch-Umar-Aslam](https://github.com/CH-Umar-Aslam/)
 - [BrennerBK](https://github.com/BrennerBK)
+- [Adam Kokhnover](https://github.com/Adamko17)
 - [Sonum Jaggi](http://github.com/sonum02)
 - [Matt Bellardi](https://github.com/met97)
 - [Arvind Singireddy](https://github.com/Sunny-webdev)
