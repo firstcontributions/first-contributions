@@ -10,6 +10,7 @@
 - [AryanVeks](https://github.com/Aryan0826)
 - [kikumiyako](https://github.com/kikumiyako)
 - [Connor Sullivan](https://github.com/connorssullivan)
+- [Gabriel Costa](https://github.com/gabriel-oxx)
 - [Yenuganti Rahul](https://github.com/yenugantirahul)
 - wdbrk
 - Manuel MG
