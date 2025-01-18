@@ -14,6 +14,7 @@
 - [Connor Sullivan](https://github.com/connorssullivan)
 - [Gabriel Costa](https://github.com/gabriel-oxx)
 - [Yenuganti Rahul](https://github.com/yenugantirahul)
+- [Naw](https://github.com/nawni1491)
 - [Mike T]
 - [Mustafa Ajnawala](https://github.com/MustafaAjnawala)
 - wdbrk
