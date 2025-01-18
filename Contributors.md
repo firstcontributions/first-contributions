@@ -1088,6 +1088,7 @@
 - [K G Tint Swe](https://github.com/KG6605)
 - [Dithi-Fuzzythinker](https://github.com/fuzzythinker)
 - [Muhammad-Ghufran-Ali](https://github.com/ghufran2508)
+- [DanielV]
 - [Evelyn Xia](https://github.com/Evelyn406)
 - [Rohit R](https://github.com/Rohr0) 🔥
 - [17LingShan](https://github.com/17LingShan)
