@@ -540,6 +540,7 @@
 - [Fahad Haque](https://github.com/Daahaf)
 - [Deepankar Sahoo](https://github.com/CodeByDeepankar)
 - [Hisham](https://github.com/sikehish)
+- [risavctt](https://github.com/risavctt)
 - [eesoyeon] (https://github.com/eesoyeon)
 - [PhamNguyenDangHuy](https://github.com/pndh)
 - [randompeep]
@@ -1088,6 +1089,7 @@
 - [K G Tint Swe](https://github.com/KG6605)
 - [Dithi-Fuzzythinker](https://github.com/fuzzythinker)
 - [Muhammad-Ghufran-Ali](https://github.com/ghufran2508)
+- [DanielV]
 - [Evelyn Xia](https://github.com/Evelyn406)
 - [Rohit R](https://github.com/Rohr0) 🔥
 - [17LingShan](https://github.com/17LingShan)
@@ -2214,6 +2216,7 @@
 - [abharclin](https://github.com/abharclin)
 - [Suraj Agrawal](https://github.com/surajagrawal01)
 - [alecastaldo] (https://github.com/alecastaldo)
+- [Nikodem Eluszkiewicz] (https://github.com/elusznik)
 - [Joshua D] (https://github.com/JCD2k4)
 - [HannanToprakPia](https://github.com/HannanToprakPia)
 - [Rene Kathofer](https://github.com/rkatex)
@@ -2566,3 +2569,5 @@
 - [Suyog](https://github.com/cosmicsuyog)
 - [Hi all new here](https://github.com/Pushpak2861)
 - [Dejan Zivkovic](https://github.com/theZivkovic)
+- [Mihir Vasave](https://github.com/Mihir146)
+- [Fajar Stevanus](https://github.com/fstevanus)
