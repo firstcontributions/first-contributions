@@ -1661,6 +1661,7 @@
 - [Nikalas Armstrong](https://github.com/hangonasecond)
 - [Chris D](https://github.com/Dibberdini/)
 - [Duc Dong](https://github.com/ducdongmg)
+- [rresidentalien](https://github.com/rresidentalien)
 - [Jessenavas](https://github.com/Jessenavas)
 - [AestheticWolfie](https://github.com/AestheticWolfie)
 - [Charley Yoshi](https://github.com/charleyoshi)
