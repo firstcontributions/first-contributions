@@ -12,6 +12,7 @@
 - [Connor Sullivan](https://github.com/connorssullivan)
 - [Gabriel Costa](https://github.com/gabriel-oxx)
 - [Yenuganti Rahul](https://github.com/yenugantirahul)
+- [Mustafa Ajnawala](https://github.com/MustafaAjnawala)
 - wdbrk
 - Manuel MG
 - [Sandip Patel)(https://github.com/slotify-dev)
