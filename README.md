@@ -142,6 +142,7 @@ Now create a branch using the `git switch` command:
 git switch -c your-new-branch-name
 ```
 
+
 For example:
 
 ```bash
@@ -214,6 +215,10 @@ replacing `your-branch-name` with the name of the branch you created earlier.
   ```
   Otherwise you'll still get prompted for username and password and get authentication error.
 </details>
+
+## Contributors
+
+- Robins Kumar: A NIT Calicut Student.
 
 ## Submit your changes for review
 
