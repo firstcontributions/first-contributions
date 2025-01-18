@@ -2342,6 +2342,7 @@ Samarth
 - [Blake Gurnee] (https://github.com/BlakeGurnee)
 - [ninthursday](https://github.com/ninthursday) 
 - WY
+- [atreyanr] (https://github.com/atreyanr)
 - Devon Russo https://github.com/drusso97
 - [Kuo CH](https://github.com/kuochh)
 - Hi This is Goutham.
