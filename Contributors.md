@@ -21,6 +21,7 @@
 - [Mustafa Ajnawala](https://github.com/MustafaAjnawala)
 - wdbrk
 - Manuel MG
+- SkMave
 - [Sandip Patel)](https://github.com/slotify-dev)
 - [Abhijit Sahane](https://github.com/AbhiSahane0)
 - [Youssef Sayed](https://github.com/Youssehf)
