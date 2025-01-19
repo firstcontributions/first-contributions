@@ -32,6 +32,7 @@
 - [Shimwa Aime Kelvin](https://github.com/AimeKelvin) : Developer discovering about the wonders of open_source projects🫡!
 - [Favour Arum](https://github.com/Arum-Favour)
   Samarth
+  [Poojan Javiya](https://github.com/PoojanJaviya) : A new big thing coming out in few years!!
 - [Shreeya Gokhale](https://github.com/shreeya1810) : First contribution!
 - [Arvid Håkon Seternes](https://github.com/ArvidHS) : Hobbyist wanting to contribute!
 - [Sandhya Rani](https://github.com/sandhya12r) :Full Stack Web Developer
