@@ -40,7 +40,7 @@
 - [Assalam ualikum from Abdul Basit](https://github.com/Abdulbasit110)
 - [Hi I am Zou Zixi](https://github.com/specter0714)
 - [Hi I am vijay prajapati](https://github.com/vijay-2005)
-
+- [Andre N.](https://github.com/dre-pg)
 - [Samarth Bedare](https://github.com/samarthbedare)
 - [Yeshu](https://www.youtube.com/watch?v=hB7CDrVnNCs)
 - [bugudiramu 👨‍💻](https://github.com/bugudiramu)
