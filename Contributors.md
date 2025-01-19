@@ -3,6 +3,7 @@
 - [Talha Bin Rafique] (https://github.com/cykillon3)
 - [Adarsh Bhayani](https://github.com/Adarsh-Bhayani)
 - [Chris Banas](https://github.com/chrisbanas)
+- Hello World, Happy Coding!!!![Akshar Rastogi](https://github.com/akshar99/)
 - [Jahin Ahnaf](https://github.com/jahin-ahnaf) / BANGLADESH
 - [Yash Mehetre](https://github.com/YashMehetre)
 - [Sandip Patel](https://github.com/slotify-dev)
@@ -20,7 +21,7 @@
 - [Mustafa Ajnawala](https://github.com/MustafaAjnawala)
 - wdbrk
 - Manuel MG
-- [Sandip Patel)(https://github.com/slotify-dev)
+- [Sandip Patel)](https://github.com/slotify-dev)
 - [Abhijit Sahane](https://github.com/AbhiSahane0)
 - [Youssef Sayed](https://github.com/Youssehf)
 - [Aoife Mulvenna](https://github.com/aoife-mulvennna)
