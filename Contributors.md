@@ -1,5 +1,7 @@
 # Contributors
 - [MCorneliussen]https://github.com/MCorneliussen
+- [Jorge Hecherat](https://github.com/Hechprad)
+- _Frontend Developer & Enthusiast 🚀_
 - [cyberph3onix]https://github.com/cyberph3onix
 - [Talha Bin Rafique] (https://github.com/cykillon3)
 - [Adarsh Bhayani](https://github.com/Adarsh-Bhayani)
