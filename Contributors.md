@@ -1,6 +1,7 @@
 # Contributors
 - [Talha Bin Rafique] (https://github.com/cykillon3)
 - [Adarsh Bhayani](https://github.com/Adarsh-Bhayani)
+  [Emmanson Effiong](https://github.com/Emmanson109)
 - [Chris Banas](https://github.com/chrisbanas)
 - [Jahin Ahnaf](https://github.com/jahin-ahnaf) / BANGLADESH
 - [Yash Mehetre](https://github.com/YashMehetre)
