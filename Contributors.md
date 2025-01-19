@@ -1,5 +1,6 @@
 # Contributors
 
+- [Cesar](https://github.com/cesarslv)
 - [CAN](https://github.com/lawinpyae)
 - [MCorneliussen]https://github.com/MCorneliussen
 - [Jorge Hecherat](https://github.com/Hechprad)
