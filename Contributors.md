@@ -1092,6 +1092,7 @@
 - [Joy A](https://github.com/joyagbo)
 - [Shreya Shivratriwar](https://github.com/shreyasico)
 - [dev-sik2](https://github.com/devpang20)
+- [karthikn](https://github.com/kkeyan931)
 - [BABLU](https://github.com/bablu2b)
 - [ZarKHasM](https://github.com/ZarKHasM)
 - [Pranav Hajare](https://github.com/pranavhajare)
