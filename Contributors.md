@@ -28,6 +28,7 @@
 - [Mike T]
 - [Ernst Lin](https://github.com/ErnstLin) First Contributions to open source!!
 - [Mustafa Ajnawala](https://github.com/MustafaAjnawala)
+- [Stanislaw Mikolajczyk](https://github.com/mikolajczykstanislaw)
 - wdbrk
 - Manuel MG
 - [Anish Dusad](https://github.com/anishDusad)
