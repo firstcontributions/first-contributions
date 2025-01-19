@@ -694,6 +694,7 @@
   [Shiva Prasad Reddy](https://github.com/Shiva-Prasad-Reddy-K)
 - [Max Rauber](https://github.com/maxrbr)
 - [TsvetislavRangelov](https://github.com/TsvetislavRangelov)
+- [Stepan](https://github.com/earthquakeonmars)
 - [Tim Petri](https://github.com/timmytabasco)
 - [Prathik Cherian](https://github.com/prathik-codes)
 - [@thenocturnaldevgypsy-io | TheNocturnalDevGypsy (Abegail Torrendon)](https://github.com/thenocturnaldevgypsy-io)
