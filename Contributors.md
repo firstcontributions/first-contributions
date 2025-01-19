@@ -1,14 +1,16 @@
 # Contributors
+
 - [CAN](https://github.com/lawinpyae)
 - [MCorneliussen]https://github.com/MCorneliussen
 - [Jorge Hecherat](https://github.com/Hechprad)
 - _Frontend Developer & Enthusiast 🚀_
 - [cyberph3onix]https://github.com/cyberph3onix
 - [Talha Bin Rafique] (https://github.com/cykillon3)
+- [mohit5723] (https://github.com/mohit5723)
 - [Adarsh Bhayani](https://github.com/Adarsh-Bhayani)
   [Emmanson Effiong](https://github.com/Emmanson109)
 - [Chris Banas](https://github.com/chrisbanas)
-- Hello World, Happy Coding!!!![Akshar Rastogi](https://github.com/akshar99/) 
+- Hello World, Happy Coding!!!![Akshar Rastogi](https://github.com/akshar99/)
 - [Saad Ahmed](https://github.com/MahbubHS) 🟢
 - [Jahin Ahnaf](https://github.com/jahin-ahnaf) / BANGLADESH
 - [Yash Mehetre](https://github.com/YashMehetre)
