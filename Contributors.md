@@ -96,6 +96,7 @@
 - Muhammad Dawar here. Assalam u Alaikum
 - [JDude](https://github.com/JRHolder6263) Hi!
 - [albannakhaled](https://github.com/albannakhaled)
+- hypesed
 - [arinsood](https://github.com/arin101230523)
 - [Nathan Nguyen](https://github.com/froztty)
 - [asyraf34](https://github.com/asyraf34) : **_I Love Github!_**
