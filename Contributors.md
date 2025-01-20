@@ -492,6 +492,7 @@
 - [Tarun Jakkula](https://github.com/TarunJakkula)
 - [Jeston Lewis](https://github.com/jestoncolelewis)
 - [Omer Cohen](https://github.com/OmerCohen7530)
+- [Janice Fernandes] (https://github.com/janiceferns02)
 - [Ravi singh](https://github.com/ravir0ushan)
 - [Dhruv Pandey](https://github.com/Dhrupandey)
 - [Laurian Iacob](https://github.com/iLaurian)
