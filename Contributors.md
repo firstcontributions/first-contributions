@@ -224,6 +224,7 @@
 - [Anthony Pizzoni](https://github.com/HINKOKO) :01.11.25 Hello contributors !
 - [Sargunesh](https://github.com/sargunesh25)
 - [Gayatri](https://github.com/gayatriiv)
+- [Arinjay Bhola](https://github.com/ArinjayBhola)
 - [Sanjay Chaudhary](https://github.com/sanjay-np)
 - [Sanjai Kumar R](https://github.com/sanjai451)
 - [Chuks Stephen](https://github.com/stephenchuks)
