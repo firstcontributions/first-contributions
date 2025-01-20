@@ -2622,4 +2622,5 @@
 - [yegeunyang](https://github.com/yegeunyang)
 - [kvk tejaswi](https://github.com/kvktejaswi)
 - [Rachel Swimmer](https://github.com/rachelSwimmer)
+- [EsterSokolovsky](https://github.com/EstyS637)
 - [Ayala Flamingo](https://github.com/AyalaFlemen)
