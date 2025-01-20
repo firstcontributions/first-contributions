@@ -390,4 +390,10 @@ FodyWeavers.xsd
 .DS_Store
 
 # Desktop.ini (Google Drive info file)
+<<<<<<< HEAD
 desktop.ini
+=======
+desktop.ini
+
+.codegpt
+>>>>>>> upstream/main
