@@ -2059,6 +2059,7 @@
 - [Sengphachanh Chanthavong](https://github.com/tyecode)
 - [aoi-hiraeth](https://github.com/aoi-hiraeth)
 - [OsvaFernandez](https://github.com/osvafernandez)
+- [SeoJeong-Lee] (https://github.com/lyric9999)
 - [Anu](Anu-310)
 - [HarryKim24](https://github.com/HarryKim24)
 - [Praveen Pandi](https://github.com/PravinPandi)
