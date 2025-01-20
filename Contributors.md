@@ -77,6 +77,7 @@
 - Alvaro Zayas-Bazan Santos
 - [Mohmmadabrar Malek](https://github.com/Git-abby)
 - Theresa!
+- [Singha ram]
 - [Leina Prieur](https://github.com/leinapr)
 - [Daniel Cárdenas](https://github.com/Darcares)
 - [Abdullah Khurram Vohra](https://github.com/VohraAK)
