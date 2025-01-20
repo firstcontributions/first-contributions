@@ -155,6 +155,7 @@
 - [Sandhya Rani](https://github.com/sandhya12r) :Full Stack Web Developer
 - [Rajas Patankar](https://github.com/patraj20): Exploring open source
 - [Sruthi Krishnakumar](https://github.com/SruthiKrish19) :07/01/2025
+- [Solaymane Himite](https://github.com/solaymanehimite) :20/01/2025
 - [The Lunatek](https://github.com/tekluna)
 - [Leli Vexler](https://github.com/Lelivexler)
 - [KevinMitsi](https://github.com/KevinMitsi) : learning Git & GitHub
