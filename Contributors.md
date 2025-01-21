@@ -2659,4 +2659,8 @@
 - [Praneetha Kamarajugadda](https://github.com/Pranjkee)
 - [ImVickySan](https://github.com/imvickysan)
 - [Ondra Komora](https://github.com/ondrakomora)
+<<<<<<< HEAD
 - [Daniel Nicola] (https://github.com/nicoland-a)
+=======
+- [optim77](https://github.com/optim77)
+>>>>>>> ae74b35b87212b6f19c5ffebb3f6c728ea90aa94
