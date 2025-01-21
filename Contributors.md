@@ -949,6 +949,7 @@
 - [Reuel Terezakis](https://github.com/SeventhDream)
 - [Stelios Gee](https://github.com/SteliosGee)
 - [Arslanaka](https://github.com/arslanaka)
+- [Bektur Duishembekov](https://github.com/Bektur13)
 - [Tarun kumar](https://github.com/krtarun7)
 - [Codemanticism](https://github.com/codemanticism)
 - [Mohiuddin Hasan](https://github.com/mmhasan07)
