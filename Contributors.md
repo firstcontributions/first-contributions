@@ -1223,6 +1223,7 @@
 - [Harsha S](https://github.com/sharsha315)
 - [Matthew C](https://github.com/matthew08069)
 - [David Wenk](https://github.com/thedavidwenk)
+- [Loris Panza](https://github.com/LorisPanza)
 - [Alden Baughman](https://github.com/aldenbaughman)
 - [giandab](https://github.com/giandab)
 - [Žiga Berlič](https://github.com/zigaberlic)
@@ -2645,4 +2646,4 @@
 - [Natalie Demyanenko](https://github.com/SaraDawner2000)
 - [Azraf](https://github.com/turboslapper)
 - [Praneetha Kamarajugadda](https://github.com/Pranjkee)
-- [Loris Panza](https://github.com/LorisPanza)
+
