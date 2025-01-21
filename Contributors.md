@@ -2645,3 +2645,4 @@
 - [Natalie Demyanenko](https://github.com/SaraDawner2000)
 - [Azraf](https://github.com/turboslapper)
 - [Praneetha Kamarajugadda](https://github.com/Pranjkee)
+- [Loris Panza](https://github.com/LorisPanza)
