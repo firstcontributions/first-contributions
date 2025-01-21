@@ -69,6 +69,7 @@
 - [bugudiramu 👨‍💻](https://github.com/bugudiramu)
 - Sheheryar Hassan
 - [Ctrshift-Pm](https://github.com/Ctrshift-Pm)
+- [Sakshi Jaiswal](https://github.com/Sakshijazz)
 - [Sowndhariya](https://github.com/sowndhariyasugan)
 - [Anay](https://github.com/Anay-Patil)
 - [Aritra Mukherjee](https://github.com/maritra)
