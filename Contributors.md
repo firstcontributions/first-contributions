@@ -2642,6 +2642,7 @@
 - [Fajar Stevanus](https://github.com/fstevanus)
 - [Nifty](https://github.com/NiftyYak)
 - [globusniy] (https://github.com/globusniy)
+- [dn] (https://github.com/nicoland-a)
 - [Ayush Nimiwal] (https://github.com/ayushnimiwal)
 - [yanfd](https://github.com/yanfd)
 - [Adrian Abella](https://github.com/AAA-Triple-AAA)
@@ -2659,8 +2660,4 @@
 - [Praneetha Kamarajugadda](https://github.com/Pranjkee)
 - [ImVickySan](https://github.com/imvickysan)
 - [Ondra Komora](https://github.com/ondrakomora)
-<<<<<<< HEAD
-- [Daniel Nicola] (https://github.com/nicoland-a)
-=======
 - [optim77](https://github.com/optim77)
->>>>>>> ae74b35b87212b6f19c5ffebb3f6c728ea90aa94
