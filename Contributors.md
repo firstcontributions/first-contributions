@@ -32,6 +32,7 @@
 - [Gabriel Costa](https://github.com/gabriel-oxx)
 - [Yenuganti Rahul](https://github.com/yenugantirahul)
 - [Naw](https://github.com/nawni1491)
+- [Naveen Suresh](https://github.com/naveensureshh)
 - [Mahir Sharma] (https://github.com/Mahir-06)
 - [BlackKostia] (https://github.com/BlackKostia)
 - [Mike T]
