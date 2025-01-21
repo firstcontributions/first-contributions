@@ -2656,6 +2656,7 @@
 - [Ayush Nimiwal] (https://github.com/ayushnimiwal)
 - [yanfd](https://github.com/yanfd)
 - [Adrian Abella](https://github.com/AAA-Triple-AAA)
+- [Navin](https://github.com/navix1456)
 - [jadeproheshan](https://github.com/jadeproheshan)
 - [sylvestergah](https://github.com/sylvestergah) 🔥
 - [yegeunyang](https://github.com/yegeunyang)
