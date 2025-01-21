@@ -6,7 +6,7 @@
 - [MCorneliussen]https://github.com/MCorneliussen
 - [Jorge Hecherat](https://github.com/Hechprad)
 - _Frontend Developer & Enthusiast 🚀_
-- [Stella](https://github.com/KyelSin) **First Contribution(♡˙︶˙♡)**	
+- [Stella](https://github.com/KyelSin) **First Contribution(♡˙︶˙♡)**
 - [cyberph3onix]https://github.com/cyberph3onix
 - [Talha Bin Rafique] (https://github.com/cykillon3)
 - [mohit5723] (https://github.com/mohit5723)
@@ -26,7 +26,7 @@
 - [Prashant](https://github.com/Moxie-47)
 - [Oyaghi](https://github.com/oyaghi) 👈(ﾟヮﾟ 👈)
 - [AryanVeks](https://github.com/Aryan0826)
-- [kikumiyako](https://github.com/kikumiyako)
+- [kikumiyako](https://github.com/kikumiyako) -[mpawank](https://github.com/mpawank)
 - [paul kiprop] (https://github.com/youngKip)
 - [Connor Sullivan](https://github.com/connorssullivan)
 - [Gabriel Costa](https://github.com/gabriel-oxx)
@@ -2592,7 +2592,7 @@
 - [Tim Wang](https://github.com/TimWang0928) -[Lucifer]
 - [Araf Latif](https://github.com/ARAFLATIF)
 - [Sarang Kale](https://github.com/Sarangkale66)
-- [Juan Manuel Villalón](https://github.com/Juanma-Villalon5/first-contributions.git) 
+- [Juan Manuel Villalón](https://github.com/Juanma-Villalon5/first-contributions.git)
 - [Jose Zorrilla Urbina] (https://github.com/jazu1967/JAZU1967)
 - [Juan Manuel Villalón](https://github.com/Juanma-Villalon5/first-contributions.git)
 - [Ishan Joshi](https://github.com/Dragonix230)
