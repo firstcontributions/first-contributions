@@ -69,6 +69,7 @@
 - Sheheryar Hassan
 - [Ctrshift-Pm](https://github.com/Ctrshift-Pm)
 - [Sowndhariya](https://github.com/sowndhariyasugan)
+- [Anay](https://github.com/Anay-Patil)
 - [Aritra Mukherjee](https://github.com/maritra)
 - [Zafran Ullah](https://github.com/zafran-ullah)
 - [EarendelH](https://github.com/Earendelh)
