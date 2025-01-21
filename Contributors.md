@@ -188,6 +188,7 @@
 - [Abijeeth Vasra](https://github.com/Abijeethvasra890)
 - [siddiqueahmk](https://github.com/siddiqueahmk)
 - HarshNe here
+- [dusza](https://github.com/danielsk62)
 - [Shashank Sinha](https://github.com/cbsinha)
 - [Avinash Saroj 🍉](https://github.com/avinashsaroj01) : Hello World!
 - [Glory Tari](https://github.com/itsTari): Hello Creators!! My first contribution, and looking forward to more
