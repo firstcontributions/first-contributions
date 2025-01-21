@@ -298,6 +298,7 @@
 - [Anaïs Gatard](https://github.com/AnaisG14)
 - [Stefano Fratello](https://github.com/sterik000)
 - [Jordan Atkins](https://github.com/Atkinss1)
+- [Sabittwa Banerjee](https://github.com/strangely-true)
 - [Raunit Arya](https://github.com/RaunitArya)
 - [Christopher Faris](https://github.com/chrisF943)
 - [Wiktor Kycia](https://github.com/wiktorKycia)
