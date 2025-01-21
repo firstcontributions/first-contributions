@@ -1,4 +1,5 @@
 # Contributors
+- [senjenjo juliabrim](https://github.com/marcvs-eng/gitcur.git)
 - [Brahim](https://github.com/BrahimChatri)
 - [sanjeev muddala](https://github.com/rohitsanjeev)
 - [Cesar](https://github.com/cesarslv)
