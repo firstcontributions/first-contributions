@@ -973,6 +973,7 @@
 - [TejoSaiSwaroop](https://github.com/tejosaiswaroop)
 - [Kores Nkoidila](https://github.com/Nkoidila)
 - [Ian McManus](https://github.com/ianmcman)
+- [Giulio Arantes](https://github.com/GiulioArantes)
 - [PatríciaRamosS](https://github.com/PatriciaRamosS)
 - [Michelle Mullane](https://github.com/MichelleMullane)
 - [omartrese](https://github.com/omartrese)
