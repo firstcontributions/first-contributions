@@ -470,6 +470,7 @@
 - [adwaitp](https://github.com/adwaitdagitguy)
 - [stevee14]
 - [davidw1281](https://github.com/davidw1281)
+- [Ryen-K](https://github.com/Ryen-K)
 - [antoineDELEBECQUE](https://github.com/AntoineDlb)
 - [Josh Gregory](https://github.com/joshtype)
 - [lepickel](https://github.com/lepickel)
@@ -682,6 +683,7 @@
 - Ron G.
 - RhazhBash
 - This is maya from The future.
+- Kamal Miboun
 - Vilkas
 - Raj\_
   -FMaciejewski
