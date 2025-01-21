@@ -110,6 +110,7 @@
 - [JDude](https://github.com/JRHolder6263) Hi!
 - [albannakhaled](https://github.com/albannakhaled)
 - hypesed
+- [Yusuke-Hi](https://github.com/Yusuke-Hi)
 - [arinsood](https://github.com/arin101230523)
 - [Nathan Nguyen](https://github.com/froztty)
 - [asyraf34](https://github.com/asyraf34) : **_I Love Github!_**
