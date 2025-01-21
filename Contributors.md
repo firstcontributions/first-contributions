@@ -1481,6 +1481,7 @@
 - [Heesu Han](https://github.com/han990702)
 - [Peterson Moro](https://github.com/PM0R0)
 - [Mark Louis Bernardo](https://github.com/marklouisALTER)
+- [Giulio Arantes](https://github.com/GiulioArantes)
 - [gjeodnd12165](https://github.com/gjeodnd12165)
 - [Bernardo GE](https://github.com/geBernardo)
 - [Abdulmajid Mahadi](https://github.com/sheriifMahadi)
