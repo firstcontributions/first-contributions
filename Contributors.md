@@ -2659,3 +2659,4 @@
 - [Praneetha Kamarajugadda](https://github.com/Pranjkee)
 - [ImVickySan](https://github.com/imvickysan)
 - [Ondra Komora](https://github.com/ondrakomora)
+- [Daniel Nicola] (https://github.com/nicoland-a)
