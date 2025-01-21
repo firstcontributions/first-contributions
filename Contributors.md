@@ -436,6 +436,7 @@
 - [Shankar-Balajee](https://github.com/Shankar-Balajee)
 - [amir asghar akbar mahaleh ghazian tapeh]
 - [stevee14]
+- [Qi](https://github.com/Aubur9y)
 - [Aayush Poudel](https://github.com/aayushhh44)
 - [Cédric Bohnert](https://github.com/cbohnert67)
 - [misfit](https://github.com/slMiSFiT)
