@@ -1,5 +1,5 @@
 # Contributors
-
+- [MobyTh1cc] (https://github.com/MobyTh1cc)
 - [Aman Deshpande](https://github.com/amandesh694)
 - Janne
 - [kuklinv](https://github.com/kuklinv)
@@ -79,7 +79,7 @@
 - [Assalam ualikum from Abdul Basit](https://github.com/Abdulbasit110)
 - [Hi I am Zou Zixi](https://github.com/specter0714)
 - [Hi I am vijay prajapati](https://github.com/vijay-2005)
-
+  Sakeena
 - [Samarth Bedare](https://github.com/samarthbedare)
 - [Yeshu](https://www.youtube.com/watch?v=hB7CDrVnNCs)
 - [bugudiramu 👨‍💻](https://github.com/bugudiramu)
@@ -1160,6 +1160,7 @@
 - [ZarKHasM](https://github.com/ZarKHasM)
 - [Pranav Hajare](https://github.com/pranavhajare)
 - [Emmanuel](https://github.com/codesmith-emmy)
+- [Lu Ziyue](https://github.com/LuZiyueLZY)
 - [luispunx](https://github.com/luispunx)
 - [Thomas McLaughlin](https://github.com/mclaughlin-thomas)
 - [maxgmr](https://github.com/maxgmr)
