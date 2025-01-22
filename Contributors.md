@@ -45,6 +45,7 @@
 - [Ernst Lin](https://github.com/ErnstLin) First Contributions to open source!!
 - [Mustafa Ajnawala](https://github.com/MustafaAjnawala)
 - [Stanislaw Mikolajczyk](https://github.com/mikolajczykstanislaw)
+- [Gautam Kumar](https://github.com/gautamkumar1)
 - wdbrk
 - Manuel MG
 - [Anish Dusad](https://github.com/anishDusad)
