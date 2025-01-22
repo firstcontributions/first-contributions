@@ -1527,6 +1527,7 @@
 - [Newton Mwasomanya](https://github.com/nmwasomanya)
 - [kuephi](https://github.com/kuephi)
 - [matilopezz](https://github.com/matilopezz)
+- [Will Rodrigues](github.com/wilitonjr)
 - [Siddharth](https://github.com/Siddharth194)
 - [Jesus-Rojas](https://github.com/Jesus-Rojas)
 - [gmpsankalpa](https://github.com/gmpsankalpa)
