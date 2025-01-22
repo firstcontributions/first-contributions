@@ -42,7 +42,6 @@
 - [Mahir Sharma] (https://github.com/Mahir-06)
 - [BlackKostia] (https://github.com/BlackKostia)
 - [Dhananjay Pathak] (https://github.com/DJay2012)
-- [Mike T]
 - [Ernst Lin](https://github.com/ErnstLin) First Contributions to open source!!
 - [Mustafa Ajnawala](https://github.com/MustafaAjnawala)
 - [Stanislaw Mikolajczyk](https://github.com/mikolajczykstanislaw)
