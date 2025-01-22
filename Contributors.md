@@ -2642,6 +2642,7 @@
 - Shifra
 - Peng Zixuan(https://github.com/wingpeng30)
 - [Moenes Zribi](https://github.com/zribimoenes)
+- [Fayyadh Hafizh](https://github.com/fydhfzh)
 - [Pranjul Saxena](https://github.com/pranjulsaxena)
 - [Simón Villafañe](https://github.com/itssimmons) was here
 - [Jagrut Patil](https://github.com/jagrut25)
