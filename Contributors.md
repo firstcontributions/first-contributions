@@ -2681,5 +2681,6 @@
 - [ImVickySan](https://github.com/imvickysan)
 - [Ondra Komora](https://github.com/ondrakomora)
 - [optim77](https://github.com/optim77)
+- [IsaoSakane](https://github.com/IsaoSakane)
 - [syawqy](https://github.com/syawqy)
 - nob
