@@ -663,6 +663,7 @@
 - [Pasindu Kavinda](https://github.com/pasindu-kavinda)
 - [Rushang-github](https://github.com/Rushang-github)
 - [DhritiTS](https://github.com/DhritiTS)
+- Kevin
 - [Angie-newbie](https://github.com/Angie-newbie)
 - [AutumnFrost](https://github.com/AutumnFrost)
 - [Abhinav](https://github.com/saiabhinav75)
