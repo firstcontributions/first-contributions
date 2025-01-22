@@ -1159,6 +1159,7 @@
 - [ZarKHasM](https://github.com/ZarKHasM)
 - [Pranav Hajare](https://github.com/pranavhajare)
 - [Emmanuel](https://github.com/codesmith-emmy)
+- [Lu Ziyue](https://github.com/LuZiyueLZY)
 - [luispunx](https://github.com/luispunx)
 - [Thomas McLaughlin](https://github.com/mclaughlin-thomas)
 - [maxgmr](https://github.com/maxgmr)
