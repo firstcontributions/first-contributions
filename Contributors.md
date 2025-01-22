@@ -10,6 +10,7 @@
 - [CAN](https://github.com/lawinpyae)
 - [MCorneliussen]https://github.com/MCorneliussen
 - [Jorge Hecherat](https://github.com/Hechprad)
+- [Hnin Wai Phoo](https://github.com/HninWaiPhoo)
 - _Frontend Developer & Enthusiast 🚀_
 - [Stella](https://github.com/KyelSin) **First Contribution(♡˙︶˙♡)**
 - [cyberph3onix]https://github.com/cyberph3onix
