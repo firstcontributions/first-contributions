@@ -24,6 +24,7 @@
 - [Talha Bin Rafique] (https://github.com/cykillon3)
 - [mohit5723] (https://github.com/mohit5723)
 - [SVSHV](https://github.com/SVSHV)
+- [Gabryel Bele](https://github.com/GabryelBele)
 - [mahinur](https://github.com/fatima2022/first-contributions)
 - [GokulnathUW](https://github.com/GokulnathUW)
 - Hello Developers , Dhruv Prajapati [Here](https://github.com/dhruvp66572) 👈
