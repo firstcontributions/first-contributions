@@ -1,6 +1,7 @@
 # Contributors
 
 - [MobyTh1cc] (https://github.com/MobyTh1cc)
+- [Ujjwal Pandit) (https://github.com/Ujjwal-Pandit)
 - [Aman Deshpande](https://github.com/amandesh694)
 - Janne
 - [Adriana Paiva](https://github.com/itsadrianapaiva)
