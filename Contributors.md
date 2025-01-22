@@ -136,6 +136,7 @@
 - Chagit Lipsky!
 - Dan
 - Kartik Sharma will prove himself worthy,https://github.com/Kartikk28
+- Ishant kulshreshtha
 - [Andrew Wildgoose](https://github.com/andrewwildgoose)
 - [Aditya Atreya](https://github.com/AdiAce4u)
 - [Joao Ribeiro](https://github.com/joaopedrorori) **My First Contribution🎉🎉**
