@@ -5,6 +5,7 @@
 - [Akash kumar Ak](https://github.com/akash-ak-03/)
 - [senjenjo juliabrim](https://github.com/marcvs-eng/gitcur.git)
 - [Brahim](https://github.com/BrahimChatri)
+- [IceyDuan](https://github.com/IceyDuan)
 - [sanjeev muddala](https://github.com/rohitsanjeev)
 - [Cesar](https://github.com/cesarslv)
 - [CAN](https://github.com/lawinpyae)
