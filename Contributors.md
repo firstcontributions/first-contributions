@@ -1,4 +1,5 @@
 # Contributors
+
 - [MobyTh1cc] (https://github.com/MobyTh1cc)
 - [Aman Deshpande](https://github.com/amandesh694)
 - Janne
@@ -20,7 +21,7 @@
 - [Kaushik Namburi](https://github.com/KaushikNamburi) **First Contribution!!!**
 - _Frontend Developer & Enthusiast 🚀_
 - [Stella](https://github.com/KyelSin) **First Contribution(♡˙︶˙♡)**
-- [Kevinrivas96] (https://github.com/Kevinrivas96) **First Contribution** 
+- [Kevinrivas96] (https://github.com/Kevinrivas96) **First Contribution**
 - [AdarshKumarSr] (https://github.com/adarshKumarSr) **Developer**
 - [cyberph3onix]https://github.com/cyberph3onix
 - [Talha Bin Rafique] (https://github.com/cykillon3)
@@ -585,6 +586,7 @@
 - [Mangelib](https://github.com/mangelib)
 - [Imam](https://github.com/Shaik-36)
 - [tay24or](https://github.com/tay24lor)
+- [Jonah Raiford](https://github.com/JonahXiaFei)
 - [Ravichandra](https://github.com/ravichandra-21/-contributions)
 - [Raghav](https://github.com/Raghav9871)
 - [bear-i](https://github.com/bear-i/first-contributions)
