@@ -45,6 +45,7 @@
 - [Mike T]
 - [Ernst Lin](https://github.com/ErnstLin) First Contributions to open source!!
 - [Mustafa Ajnawala](https://github.com/MustafaAjnawala)
+- [Harsh Kumar](https://github.com/hkuser212)
 - [Stanislaw Mikolajczyk](https://github.com/mikolajczykstanislaw)
 - [Gautam Kumar](https://github.com/gautamkumar1)
 - wdbrk
