@@ -13,6 +13,7 @@
 - [Hnin Wai Phoo](https://github.com/HninWaiPhoo)
 - _Frontend Developer & Enthusiast 🚀_
 - [Stella](https://github.com/KyelSin) **First Contribution(♡˙︶˙♡)**
+- [AdarshKumarSr] (https://github.com/adarshKumarSr) **Developer** 
 - [cyberph3onix]https://github.com/cyberph3onix
 - [Talha Bin Rafique] (https://github.com/cykillon3)
 - [mohit5723] (https://github.com/mohit5723)
