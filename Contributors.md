@@ -18,6 +18,7 @@
 - [Hnin Wai Phoo](https://github.com/HninWaiPhoo)
 - _Frontend Developer & Enthusiast 🚀_
 - [Stella](https://github.com/KyelSin) **First Contribution(♡˙︶˙♡)**
+- [Kevinrivas96] (https://github.com/Kevinrivas96) **First Contribution** 
 - [AdarshKumarSr] (https://github.com/adarshKumarSr) **Developer**
 - [cyberph3onix]https://github.com/cyberph3onix
 - [Talha Bin Rafique] (https://github.com/cykillon3)
