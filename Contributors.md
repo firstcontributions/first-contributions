@@ -2,6 +2,7 @@
 - [MobyTh1cc] (https://github.com/MobyTh1cc)
 - [Aman Deshpande](https://github.com/amandesh694)
 - Janne
+- [Adriana Paiva](https://github.com/itsadrianapaiva)
 - [kuklinv](https://github.com/kuklinv)
 - [Navin](https://github.com/navix1456)
 - [Akash kumar Ak](https://github.com/akash-ak-03/)
