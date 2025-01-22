@@ -17,6 +17,7 @@
 - [MCorneliussen]https://github.com/MCorneliussen
 - [Jorge Hecherat](https://github.com/Hechprad)
 - [Hnin Wai Phoo](https://github.com/HninWaiPhoo)
+- [Kaushik Namburi](https://github.com/KaushikNamburi) **First Contribution!!!**
 - _Frontend Developer & Enthusiast 🚀_
 - [Stella](https://github.com/KyelSin) **First Contribution(♡˙︶˙♡)**
 - [Kevinrivas96] (https://github.com/Kevinrivas96) **First Contribution** 
