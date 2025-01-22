@@ -2683,5 +2683,6 @@
 - [Ondra Komora](https://github.com/ondrakomora)
 - [optim77](https://github.com/optim77)
 - [IsaoSakane](https://github.com/IsaoSakane)
+- [Atsushi Wakabayashi](https://github.com/atsushi-wakabayashi)
 - [syawqy](https://github.com/syawqy)
 - nob
