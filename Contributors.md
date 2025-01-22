@@ -49,7 +49,7 @@
 - [Naveen Suresh](https://github.com/naveensureshh)
 - [Mahir Sharma] (https://github.com/Mahir-06)
 - [BlackKostia] (https://github.com/BlackKostia)
-- [Mike T]
+- [Dhananjay Pathak] (https://github.com/DJay2012)
 - [Ernst Lin](https://github.com/ErnstLin) First Contributions to open source!!
 - [Mustafa Ajnawala](https://github.com/MustafaAjnawala)
 - [Harsh Kumar](https://github.com/hkuser212)
