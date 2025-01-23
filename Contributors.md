@@ -1,5 +1,6 @@
 # Contributors
 
+- [doing1024](https://github.com/doing1024)
 - [Tav0nes](https://github.com/Tav0nes)
 - [MobyTh1cc] (https://github.com/MobyTh1cc)
 - [Ujjwal Pandit) (https://github.com/Ujjwal-Pandit)
