@@ -4,6 +4,7 @@
 - [Ujjwal Pandit) (https://github.com/Ujjwal-Pandit)
 - [Aman Deshpande](https://github.com/amandesh694)
 - Janne
+- [Amirul from Terengganu (https://github.com/mirul-Work)]
 - [Adriana Paiva](https://github.com/itsadrianapaiva)
 - [kuklinv](https://github.com/kuklinv)
 - [Navin](https://github.com/navix1456)
