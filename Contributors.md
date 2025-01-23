@@ -34,6 +34,7 @@
 - [cyberph3onix]https://github.com/cyberph3onix
 - [truenickspivak](https://github.com/truenickspivak)
 - [Arham H Khan](https://github.com/arham2003)
+- [Nishanth Devabathini](https://github.com/Nishanth1812) 
 - [Talha Bin Rafique](https://github.com/cykillon3)
 - [Jivi-this-side ^_^](https://github.com/Jivi-this-side)
 - [mohit5723](https://github.com/mohit5723)
