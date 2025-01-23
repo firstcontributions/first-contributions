@@ -9,6 +9,7 @@
 - [Stella](https://github.com/KyelSin) **First Contribution(♡˙︶˙♡)**	
 - [cyberph3onix]https://github.com/cyberph3onix
 - [Talha Bin Rafique] (https://github.com/cykillon3)
+- [Jivi-this-side ^_^](https://github.com/Jivi-this-side)
 - [mohit5723] (https://github.com/mohit5723)
 - [GokulnathUW] (https://github.com/GokulnathUW)
 - Hello Developers , Dhruv Prajapati [Here](https://github.com/dhruvp66572) 👈
@@ -1151,7 +1152,6 @@
 - [Nihal Baranwal](https://github.com/N-I-H-A-L)
 - [Mykyta Kuznietsov](https://github.com/kuznimyk)
 - [Essi Akpevwe Praise](https://https://github.com/Akpevwe11)
-- [Jivi ~\_~](https://github.com/Jivi-this-side)
 - [Subro](https://www.linkedin.com/in/subrojyoti-paul)
 - [BrianC](https://github.com/BrianSChase
 - [Arthur Almeida](https://github.com/ragnarthur)
