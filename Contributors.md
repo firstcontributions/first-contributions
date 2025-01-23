@@ -9,6 +9,7 @@
 - Janne
 - [Amirul Hamiezan from Terengganu](https://github.com/mirul-Work)
 - [Adriana Paiva](https://github.com/itsadrianapaiva)
+- [Sayanjit Mukherjee](https://github.com/Thedrogon)
 - [khsu](https://github.com/Kevin858)
 - [kuklinv](https://github.com/kuklinv)
 - [Srijita](https://github.com/srijita7)
