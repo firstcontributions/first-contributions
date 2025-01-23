@@ -102,6 +102,7 @@ chakri
 - [Fwank] (https://github.com/yo-frank)
 - Sakeena
 - [Samarth Bedare](https://github.com/samarthbedare)
+- [Mila Stamatovska] :)
 - [Yeshu](https://www.youtube.com/watch?v=hB7CDrVnNCs)
 - [bugudiramu 👨‍💻](https://github.com/bugudiramu)
 - Sheheryar Hassan
