@@ -25,6 +25,7 @@
 - [Kevinrivas96] (https://github.com/Kevinrivas96) **First Contribution**
 - [AdarshKumarSr] (https://github.com/adarshKumarSr) **Developer**
 - [cyberph3onix]https://github.com/cyberph3onix
+- [truenickspivak] (https://github.com/truenickspivak)
 - [Talha Bin Rafique] (https://github.com/cykillon3)
 - [mohit5723] (https://github.com/mohit5723)
 - [Redbellpepper7079] (https://github.com/Redbellpepper7079)
