@@ -34,6 +34,7 @@
 - [truenickspivak] (https://github.com/truenickspivak)
 - [Arham H Khan] (https://github.com/arham2003)
 - [Talha Bin Rafique] (https://github.com/cykillon3)
+- [Jivi-this-side ^_^](https://github.com/Jivi-this-side)
 - [mohit5723] (https://github.com/mohit5723)
 - [Redbellpepper7079] (https://github.com/Redbellpepper7079)
 - [SVSHV](https://github.com/SVSHV)
@@ -1209,7 +1210,6 @@ chakri
 - [Nihal Baranwal](https://github.com/N-I-H-A-L)
 - [Mykyta Kuznietsov](https://github.com/kuznimyk)
 - [Essi Akpevwe Praise](https://https://github.com/Akpevwe11)
-- [Jivi ~\_~](https://github.com/Jivi-this-side)
 - [Subro](https://www.linkedin.com/in/subrojyoti-paul)
 - [BrianC](https://github.com/BrianSChase
 - [Arthur Almeida](https://github.com/ragnarthur)
