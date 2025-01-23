@@ -1336,6 +1336,7 @@ chakri
 - [Rohit Singh](https://github.com/Rataash99)
 - [Palash Chitnavis](https://github.com/PalashChitnavis)
 - [abedalavi](https://github.com/abedalavi)
+- [STICKnoLOGIC](https://github.com/STICKnoLOGIC) : Web and App Developer : [ITCH.IO](https://STICKnoLOGIC.itch.io)
 - [StablePeru](https://github.com/StablePeru)
 - [Santos Arellano](https://github.com/Santos-Arellano)
 - [Tyler B](https://github.com/tycbrown32)
