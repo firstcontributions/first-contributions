@@ -1776,6 +1776,7 @@ chakri
 - [Duc Dong](https://github.com/ducdongmg)
 - [rresidentalien](https://github.com/rresidentalien)
 - [Jessenavas](https://github.com/Jessenavas)
+- [Dhairya Chheda](https://github.com/Dhairya1732)
 - [AestheticWolfie](https://github.com/AestheticWolfie)
 - [Charley Yoshi](https://github.com/charleyoshi)
 - [Sai Preetham Reddy](https://github.com/SaiPreethamReddyy)
