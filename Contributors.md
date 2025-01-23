@@ -31,6 +31,7 @@
 - [AdarshKumarSr] (https://github.com/adarshKumarSr) **Developer**
 - [cyberph3onix]https://github.com/cyberph3onix
 - [truenickspivak] (https://github.com/truenickspivak)
+- [Arham H Khan] (https://github.com/arham2003)
 - [Talha Bin Rafique] (https://github.com/cykillon3)
 - [mohit5723] (https://github.com/mohit5723)
 - [Redbellpepper7079] (https://github.com/Redbellpepper7079)
