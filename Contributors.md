@@ -2030,6 +2030,7 @@ chakri
 - [Adilet Baimyrza](https://github.com/AdiletBaimyrza)
 - [Rahul Kundu](https://github.com/rahulkundu1209)
 - [LionKang](https://github.com/Lion-Kang)
+- [HimashaGallage](https://github.com/HimashaGallage)
 - [Tsveto](https://github.com/Sclipper)
 - [salaminipples](https://github.com/salaminipples)
 - [bucked404](https://github.com/bucked404)
