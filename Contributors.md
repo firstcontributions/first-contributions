@@ -2748,4 +2748,5 @@ chakri
 - [kunandkarina](https://github.com/kunandkarina)
 - [Abhijeeet](https://github.com/Abhijeet0605)
 - [RolandBouwer](https://github.com/RolandBouwer)
+- [lannthecreative](https://github.com/lannthecreative) 🪿
 - [Gonzalezjulvez](https://github.com/gonzalezjulvez)
