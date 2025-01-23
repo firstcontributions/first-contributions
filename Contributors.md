@@ -2707,6 +2707,7 @@ chakri
 - [Nifty](https://github.com/NiftyYak)
 - [globusniy] (https://github.com/globusniy)
 - [dn] (https://github.com/nicoland-a)
+- [Praveen Yadav] (https://github.com/praveen-0910)
 - [Ayush Nimiwal] (https://github.com/ayushnimiwal)
 - [yanfd](https://github.com/yanfd)
 - [Adrian Abella](https://github.com/AAA-Triple-AAA)
