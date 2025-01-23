@@ -8,6 +8,7 @@
 - [Aman Deshpande](https://github.com/amandesh694)
 - Janne
 - [Amirul Hamiezan from Terengganu](https://github.com/mirul-Work)
+- [Hemank Patwal](https://github.com/hemankpatwal)
 - [Adriana Paiva](https://github.com/itsadrianapaiva)
 - [Sayanjit Mukherjee](https://github.com/Thedrogon)
 - [khsu](https://github.com/Kevin858)
