@@ -1198,6 +1198,7 @@ chakri
 - [maxgmr](https://github.com/maxgmr)
 - [Robin Van Persie](https://github.com/rvp20)
 - [Siddhartha Verma](https://github.com/SidVer312) <33
+-[Daksh Patel](https://github.com/daksh-patel-nitw)
 - [Alex Terskin](https://github.com/ATerskin)
 - [Bhargav](https://github.com/thotabhargav123)
 - [Aakash Preetam](https://github.com/aakashpreetam)
