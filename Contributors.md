@@ -1,5 +1,7 @@
 # Contributors
 - [sandeepgurram](https://github.com/gurram46)
+- [Ye Lin Ko](https://github.com/yelinko20)
+- [doing1024](https://github.com/doing1024)
 - [Tav0nes](https://github.com/Tav0nes)
 - [MobyTh1cc] (https://github.com/MobyTh1cc)
 - [Ujjwal Pandit) (https://github.com/Ujjwal-Pandit)
@@ -9,6 +11,7 @@
 - [Adriana Paiva](https://github.com/itsadrianapaiva)
 - [khsu](https://github.com/Kevin858)
 - [kuklinv](https://github.com/kuklinv)
+- [Srijita](https://github.com/srijita7)
 - [Navin](https://github.com/navix1456)
 - [Akash kumar Ak](https://github.com/akash-ak-03/)
 - [Arun V](https://github.com/akash-ak-03/)
@@ -29,12 +32,15 @@
 - [AdarshKumarSr] (https://github.com/adarshKumarSr) **Developer**
 - [cyberph3onix]https://github.com/cyberph3onix
 - [truenickspivak] (https://github.com/truenickspivak)
+- [Arham H Khan] (https://github.com/arham2003)
 - [Talha Bin Rafique] (https://github.com/cykillon3)
+- [Jivi-this-side ^_^](https://github.com/Jivi-this-side)
 - [mohit5723] (https://github.com/mohit5723)
 - [Redbellpepper7079] (https://github.com/Redbellpepper7079)
 - [SVSHV](https://github.com/SVSHV)
 - [Gabryel Bele](https://github.com/GabryelBele)
 - [mahinur](https://github.com/fatima2022/first-contributions)
+- [Impana B C](https://github.com/impanabc21) "Aspiring Developer"
 - [GokulnathUW](https://github.com/GokulnathUW)
 - Hello Developers , Dhruv Prajapati [Here](https://github.com/dhruvp66572) 👈
 - [Adarsh Bhayani](https://github.com/Adarsh-Bhayani)
@@ -49,6 +55,7 @@
 - [Yash Mehetre](https://github.com/YashMehetre)
 - [Sandip Patel](https://github.com/slotify-dev)
 	jayanth
+- [Amr Sheqwara](https://github.com/Amr-Sheqwara) 👈(ﾟヮﾟ 👈)
 - [Ritik Verma](https://github.com/vritik907) 👈(ﾟヮﾟ 👈)
 - [Taniya](https://github.com/taniyaapatel) 👈(ﾟヮﾟ 👈)
 - [Prashant](https://github.com/Moxie-47)
@@ -73,6 +80,7 @@
 - [Kareem... ツ](https://github.com/kareematout)
 - Manuel MG
 - [Anish Dusad](https://github.com/anishDusad)
+chakri
 - SkMave
 - [Sandip Patel)](https://github.com/slotify-dev)
 - [Abhijit Sahane](https://github.com/AbhiSahane0)
@@ -98,6 +106,7 @@
 - [Fwank] (https://github.com/yo-frank)
 - Sakeena
 - [Samarth Bedare](https://github.com/samarthbedare)
+- [Mila Stamatovska] :)
 - [Yeshu](https://www.youtube.com/watch?v=hB7CDrVnNCs)
 - [bugudiramu 👨‍💻](https://github.com/bugudiramu)
 - Sheheryar Hassan
@@ -1201,7 +1210,6 @@
 - [Nihal Baranwal](https://github.com/N-I-H-A-L)
 - [Mykyta Kuznietsov](https://github.com/kuznimyk)
 - [Essi Akpevwe Praise](https://https://github.com/Akpevwe11)
-- [Jivi ~\_~](https://github.com/Jivi-this-side)
 - [Subro](https://www.linkedin.com/in/subrojyoti-paul)
 - [BrianC](https://github.com/BrianSChase
 - [Arthur Almeida](https://github.com/ragnarthur)
@@ -1773,6 +1781,7 @@
 - [Duc Dong](https://github.com/ducdongmg)
 - [rresidentalien](https://github.com/rresidentalien)
 - [Jessenavas](https://github.com/Jessenavas)
+- [Dhairya Chheda](https://github.com/Dhairya1732)
 - [AestheticWolfie](https://github.com/AestheticWolfie)
 - [Charley Yoshi](https://github.com/charleyoshi)
 - [Sai Preetham Reddy](https://github.com/SaiPreethamReddyy)
@@ -2021,6 +2030,7 @@
 - [Adilet Baimyrza](https://github.com/AdiletBaimyrza)
 - [Rahul Kundu](https://github.com/rahulkundu1209)
 - [LionKang](https://github.com/Lion-Kang)
+- [HimashaGallage](https://github.com/HimashaGallage)
 - [Tsveto](https://github.com/Sclipper)
 - [salaminipples](https://github.com/salaminipples)
 - [bucked404](https://github.com/bucked404)
@@ -2654,6 +2664,7 @@
 - [Tim Wang](https://github.com/TimWang0928) -[Lucifer]
 - [Araf Latif](https://github.com/ARAFLATIF)
 - [Sarang Kale](https://github.com/Sarangkale66)
+- [A Giggle](https://github.com/giggleo28u908703242)
 - [Juan Manuel Villalón](https://github.com/Juanma-Villalon5/first-contributions.git)
 - [Jose Zorrilla Urbina] (https://github.com/jazu1967/JAZU1967)
 - [Juan Manuel Villalón](https://github.com/Juanma-Villalon5/first-contributions.git)
@@ -2725,3 +2736,4 @@
 - [kunandkarina](https://github.com/kunandkarina)
 - [Abhijeeet](https://github.com/Abhijeet0605)
 - [RolandBouwer](https://github.com/RolandBouwer)
+
