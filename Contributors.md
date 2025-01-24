@@ -2754,3 +2754,4 @@ chakri
 - [Gonzalezjulvez](https://github.com/gonzalezjulvez)
 - [Aegdae](https://github.com/Aegdae)
 - yhliu
+- [Mohamed Sano]
