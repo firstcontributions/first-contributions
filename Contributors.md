@@ -410,6 +410,7 @@ chakri
 - [Alexskald](https://github.com/jxuho)
 - Danny Chen
 - [Taryn Boonpongmanee](https://github.com/tarynboon)
+- [Aditya Chaubey](https://github.com/AdityaChaubeyIITM/)
 - [Rodrigo](https://github.com/Rdgistauf)
 - [Kelvin Yeboah](https://github.com/KelvCodes)
 - [Rajkumar](https://github.com/Rajkumar-Adepu)
