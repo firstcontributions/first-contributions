@@ -2770,3 +2770,4 @@ chakri
 - [Mohamed Sano]
 - [Parth Dubal] (<https://github.com/Parth00>)
 - [iveseentheworld] (https://github.com/ResetPlease)
+- [Daniel Strielnikow](https://github.com/danielStrielnikow)
