@@ -1124,6 +1124,7 @@ chakri
 - [kiy0315](https://github.com/kiy0315)
 - [Feven Seyfu](https://github.com/FevenSeyfu)
 - [Kai Hyperion Yun](https://github.com/kaihyperion)
+- [Jason Ma](https://github.com/jasonma1127)
 - [Yousof Shahrabi](https://github.com/yousofs)
 - [Kevin Zheng](https://github.com/csdoge007)
 - [Natnael Hailu](https://github.com/natnaelhailu)
