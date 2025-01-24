@@ -2756,3 +2756,4 @@ chakri
 - [Aegdae](https://github.com/Aegdae)
 - yhliu
 - [Mohamed Sano]
+- [Parth Dubal] (<https://github.com/Parth00>)
