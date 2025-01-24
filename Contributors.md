@@ -1,8 +1,10 @@
 # Contributors
 - [Shalini](https://github.com/ShaliniKashyap717)
+- [Rachit Agrawal](https://github.com/RachitAgrwal545422)
+- [Xerx](https://github.com/Xerx81)
 - [RandithaK](https://github.com/RandithaK)
 - [sandeepgurram](https://github.com/gurram46)
-- [Devam Desai}(https://github.com/Shaaaark126)
+- [Devam Desai](https://github.com/Shaaaark126)
 - [Ye Lin Ko](https://github.com/yelinko20)
 - [doing1024](https://github.com/doing1024)
 - [Tav0nes](https://github.com/Tav0nes)
@@ -13,6 +15,7 @@
 - [Amirul Hamiezan from Terengganu](https://github.com/mirul-Work)
 - [Hemank Patwal](https://github.com/hemankpatwal)
 - [Adriana Paiva](https://github.com/itsadrianapaiva)
+- [Thejesh Kumar](https://github.com/unedsky)
 - [Sayanjit Mukherjee](https://github.com/Thedrogon)
 - [khsu](https://github.com/Kevin858)
 - [kuklinv](https://github.com/kuklinv)
@@ -35,6 +38,7 @@
 - [Kaushik Namburi](https://github.com/KaushikNamburi) **First Contribution!!!**
 - _Frontend Developer & Enthusiast 🚀_
 - [Stella](https://github.com/KyelSin) **First Contribution(♡˙︶˙♡)**
+- [Gurudhev](https://github.com/devguru06)
 - [Kevinrivas96](https://github.com/Kevinrivas96) **First Contribution**
 - [AdarshKumarSr](https://github.com/adarshKumarSr) **Developer**
 - [cyberph3onix]https://github.com/cyberph3onix
@@ -63,6 +67,7 @@
 - [Jahin Ahnaf](https://github.com/jahin-ahnaf) / BANGLADESH
 - [Yash Mehetre](https://github.com/YashMehetre)
 - [Sandip Patel](https://github.com/slotify-dev)
+- [Victor Mwadime](https://github.com/mwvc)
 	jayanth
 - [Amr Sheqwara](https://github.com/Amr-Sheqwara) 👈(ﾟヮﾟ 👈)
 - [Ritik Verma](https://github.com/vritik907) 👈(ﾟヮﾟ 👈)
@@ -2701,6 +2706,7 @@ chakri
 - Shifra
 - Peng Zixuan(https://github.com/wingpeng30)
 - [Moenes Zribi](https://github.com/zribimoenes)
+- [Abafaras Abba] (https://github.com/01Azgad)
 - [Fayyadh Hafizh](https://github.com/fydhfzh)
 - [Pranjul Saxena](https://github.com/pranjulsaxena)
 - [arianagh](https://github.com/arianagh)
@@ -2757,3 +2763,4 @@ chakri
 - [Aegdae](https://github.com/Aegdae)
 - yhliu
 - [Mohamed Sano]
+- [Parth Dubal] (<https://github.com/Parth00>)
