@@ -1,7 +1,7 @@
 # Contributors
 - [RandithaK](https://github.com/RandithaK)
 - [sandeepgurram](https://github.com/gurram46)
-- [Devam Desai}(https://github.com/Shaaaark126)
+- [Devam Desai](https://github.com/Shaaaark126)
 - [Ye Lin Ko](https://github.com/yelinko20)
 - [doing1024](https://github.com/doing1024)
 - [Tav0nes](https://github.com/Tav0nes)
@@ -62,6 +62,7 @@
 - [Jahin Ahnaf](https://github.com/jahin-ahnaf) / BANGLADESH
 - [Yash Mehetre](https://github.com/YashMehetre)
 - [Sandip Patel](https://github.com/slotify-dev)
+- [Victor Mwadime](https://github.com/mwvc)
 	jayanth
 - [Amr Sheqwara](https://github.com/Amr-Sheqwara) 👈(ﾟヮﾟ 👈)
 - [Ritik Verma](https://github.com/vritik907) 👈(ﾟヮﾟ 👈)
