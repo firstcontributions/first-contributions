@@ -20,7 +20,8 @@ If you don't have Git Bash on your windows machine, [install it](https://git-scm
 
 Fork this repo by clicking on the fork button on the top right of this page.
 This will create a copy of this repository in your account.
-
+# trying to commit right now
+# hope it goes good this time
 ## Clone the repository
 
 Now clone this repo to your machine.
