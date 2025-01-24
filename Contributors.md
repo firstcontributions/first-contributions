@@ -663,6 +663,7 @@ chakri
 - [Hisham](https://github.com/sikehish)
 - [risavctt](https://github.com/risavctt)
 - [eesoyeon] (https://github.com/eesoyeon)
+- [Alejandr0x] (https://github.com/Alejandr0xxx)
 - [PhamNguyenDangHuy](https://github.com/pndh)
 - [randompeep]
 - [BinhTran2307](my first contribution)
