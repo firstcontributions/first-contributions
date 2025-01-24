@@ -1,7 +1,7 @@
 # Contributors
 - [RandithaK](https://github.com/RandithaK)
 - [sandeepgurram](https://github.com/gurram46)
-- [Devam Desai}(https://github.com/Shaaaark126)
+- [Devam Desai](https://github.com/Shaaaark126)
 - [Ye Lin Ko](https://github.com/yelinko20)
 - [doing1024](https://github.com/doing1024)
 - [Tav0nes](https://github.com/Tav0nes)
@@ -34,6 +34,7 @@
 - [Kaushik Namburi](https://github.com/KaushikNamburi) **First Contribution!!!**
 - _Frontend Developer & Enthusiast 🚀_
 - [Stella](https://github.com/KyelSin) **First Contribution(♡˙︶˙♡)**
+- [Gurudhev](https://github.com/devguru06)
 - [Kevinrivas96](https://github.com/Kevinrivas96) **First Contribution**
 - [AdarshKumarSr](https://github.com/adarshKumarSr) **Developer**
 - [cyberph3onix]https://github.com/cyberph3onix
@@ -62,6 +63,7 @@
 - [Jahin Ahnaf](https://github.com/jahin-ahnaf) / BANGLADESH
 - [Yash Mehetre](https://github.com/YashMehetre)
 - [Sandip Patel](https://github.com/slotify-dev)
+- [Victor Mwadime](https://github.com/mwvc)
 	jayanth
 - [Amr Sheqwara](https://github.com/Amr-Sheqwara) 👈(ﾟヮﾟ 👈)
 - [Ritik Verma](https://github.com/vritik907) 👈(ﾟヮﾟ 👈)
@@ -2756,4 +2758,7 @@ chakri
 - [Aegdae](https://github.com/Aegdae)
 - yhliu
 - [Mohamed Sano]
+
+>>>>>> add-raeef-chowdhury
 - [Raeef Chowdhury](https://github.com/Raeef-Chowdhury) 15 year old aspiring bengali Developer 💪💪💪
+=======
