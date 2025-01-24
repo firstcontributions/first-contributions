@@ -1,4 +1,5 @@
 # Contributors
+- [Rachit Agrawal](https://github.com/RachitAgrwal545422)
 - [Xerx](https://github.com/Xerx81) 🫡
 - [RandithaK](https://github.com/RandithaK)
 - [sandeepgurram](https://github.com/gurram46)
