@@ -30,6 +30,7 @@
 - [Goldenfalcone](https://github.com/Goldenfalcone)
 - [Jeffawe](https://github.com/Jeffawe)
 - [sanjeev muddala](https://github.com/rohitsanjeev)
+- [Hanz-Alleskonner](https://github.com/Hanz-Alleskonner) **C**
 - [Cesar](https://github.com/cesarslv)
 - [CAN](https://github.com/lawinpyae)
 - [MCorneliussen]https://github.com/MCorneliussen
