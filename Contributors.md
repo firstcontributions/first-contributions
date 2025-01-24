@@ -25,6 +25,7 @@
 - [Arun V](https://github.com/akash-ak-03/)
   [preludeinc](https://github.com/preludeinc/)
 - [senjenjo juliabrim](https://github.com/marcvs-eng/gitcur.git)
+- [Sarthak](https://github.com/Sarthak2284)
 - [Brahim](https://github.com/BrahimChatri)
 - [IceyDuan](https://github.com/IceyDuan)
 - [Goldenfalcone](https://github.com/Goldenfalcone)
