@@ -51,6 +51,7 @@
 - [mohit5723](https://github.com/mohit5723)
 - [Redbellpepper7079](https://github.com/Redbellpepper7079) **
 - [SVSHV](https://github.com/SVSHV)
+- [Alex Hagen] (https://github.com/Paucey)
 - [Gabryel Bele](https://github.com/GabryelBele)
 - [mahinur](https://github.com/fatima2022/first-contributions)
 - [Impana B C](https://github.com/impanabc21) "Aspiring Developer"
