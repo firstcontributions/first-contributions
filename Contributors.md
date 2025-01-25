@@ -1,6 +1,8 @@
 # Contributors
-
 - [thisispembe](https://github.com/xpembe)
+- Mamai Nataki Hello open source world >]
+- [Xerx](https://github.com/Xerx81) 🫡
+- [Swatantra](https://github.com/Swatantra-66)
 - [Shalini](https://github.com/ShaliniKashyap717)
 - [Deepak](https://github.com/deepaksingh126)
 - [Rachit Agrawal](https://github.com/RachitAgrwal545422)
@@ -9,6 +11,7 @@
 - [RandithaK](https://github.com/RandithaK)
 - [sandeepgurram](https://github.com/gurram46)
 - [Devam Desai](https://github.com/Shaaaark126)
+- [Himanshu Singh Aswal](https://github.com/LAWSA07)
 - [Danielle-Higgins](https://github.com/Danielle-Higgins)
 - [Ye Lin Ko](https://github.com/yelinko20)
 - [Devan Parekh](https://github.com/devpar)
@@ -162,6 +165,7 @@
 - [Singha ram]
 - [Mathews Mathews](https://github.com/Mathews9396)
 - [Leina Prieur](https://github.com/leinapr)
+- [Anirudh CE](https://github.com/ace97)
 - [Daniel Cárdenas](https://github.com/Darcares)
 - [Abdullah Khurram Vohra](https://github.com/VohraAK)
 - [Ben Arlanda](https://github.com/Ben-Arlanda)
@@ -2426,6 +2430,7 @@
 - [Manasa32264](https://github.com/Manasa32264)
 - nitewing9000
 - [Roberta Aguilar](https://github.com/robertarfa)
+- [Tiggersosu]
 - [Saumya Thakkar](https://github.com/Deathstar1999)
 - [woopy](https://github.com/woopy098)
 - [PrakruthiPrasad](https://github.com/prakruthiprasad20)
@@ -2712,6 +2717,7 @@
 - [Andrew Doty](https://github.com/dotyand-ga)
 - [Mauricio Pisco](https://github.com/jdev128)
 - [Donny Meyer](https://github.com/dgmeyer3)
+- [Ratnesh Jhavar](https://github.com/Ratnesh5)
 - [Ankit Kurve](https://github.com/Kurveankit005)
 - [Dharshini](https://github.com/Dharshini-457/first-contributions)
 - [Chaitanya Patil] starting contribution from now 16/01/2025
@@ -2780,11 +2786,15 @@
 - [RolandBouwer](https://github.com/RolandBouwer)
 - [lannthecreative](https://github.com/lannthecreative) 🪿
 - [Gonzalezjulvez](https://github.com/gonzalezjulvez)
+- [Jayden Krishna](https://github.com/JaydenKrishna)
 - [Aegdae](https://github.com/Aegdae)
 - yhliu
 - [Mohamed Sano]
+- [Raeef Chowdhury](https://github.com/Raeef-Chowdhury) 15 year old aspiring bengali Developer 💪💪💪
 - [Parth Dubal] (<https://github.com/Parth00>)
+- [Roja Kodur] (https://github.com/rojakoduru09)
 - [iveseentheworld] (https://github.com/ResetPlease)
 - [Daniel Strielnikow](https://github.com/danielStrielnikow)
+- [Pranay Akula](https://github.com/pranayakula25)
 - [Brijesh Thummar](https://github.com/Brijeshthummar02)
 - [Michele Grimaldi](https://github.com/Mike014)
