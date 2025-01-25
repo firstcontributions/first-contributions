@@ -1,5 +1,7 @@
 # Contributors
 
+- [Xerx](https://github.com/Xerx81) 🫡
+- [Swatantra](https://github.com/Swatantra-66)
 - [Shalini](https://github.com/ShaliniKashyap717)
 - [Deepak](https://github.com/deepaksingh126)
 - [Rachit Agrawal](https://github.com/RachitAgrwal545422)
