@@ -2785,5 +2785,6 @@
 - [Parth Dubal] (<https://github.com/Parth00>)
 - [iveseentheworld] (https://github.com/ResetPlease)
 - [Daniel Strielnikow](https://github.com/danielStrielnikow)
+- [Pranay Akula](https://github.com/pranayakula25)
 - [Brijesh Thummar](https://github.com/Brijeshthummar02)
 - [Michele Grimaldi](https://github.com/Mike014)
