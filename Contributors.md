@@ -360,6 +360,7 @@
 - [Manas Mahajan](https://github.com/ManasMahajan2003)
 - [SNN](https://github.com/sungenyeint)
   [abhijeeth m](https://github.com/abhijeeth-mantha)
+  [Maximilian Wu](https://github.com/maxiwu13133/) : **Hopeful for my journey**
   [Rushikesh Amale]
   [KishanSingh]
   [Abdul Rahim](https://github.com/Abdrahim-123)
