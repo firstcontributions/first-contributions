@@ -15,6 +15,7 @@
 - [Ujjwal Pandit](https://github.com/Ujjwal-Pandit)
 - [Aman Deshpande](https://github.com/amandesh694)
 - Janne
+- Aayush Gupta
 - [Amirul Hamiezan from Terengganu](https://github.com/mirul-Work)
 - [Hemank Patwal](https://github.com/hemankpatwal)
 - [Adriana Paiva](https://github.com/itsadrianapaiva)
@@ -95,6 +96,7 @@
 - [BlackKostia](https://github.com/BlackKostia)
 - [Dhananjay Pathak](https://github.com/DJay2012)
 - [Ernst Lin](https://github.com/ErnstLin) First Contributions to open source!!
+- [Filimon N.](https://github.com/Filimon-Coding) 👈(ﾟヮﾟ 👈) Contribution to Open Source
 - [Mustafa Ajnawala](https://github.com/MustafaAjnawala)
 - [Harsh Kumar](https://github.com/hkuser212)
 - [Stanislaw Mikolajczyk](https://github.com/mikolajczykstanislaw)
@@ -1300,6 +1302,7 @@ chakri
 - [Karuppaiah](https://github.com/akdinesh124)
 - [Thirupathi Addisherla](https://github.com/Thiru7747)
 - [Pedro Santos](https://github.com/pedro-sts)
+- [Aayush Sharma]
 - [Masch90](https://github.com/Masch90)
 - [Chijioke Ugwuanyi](https://github.com/xplorer1)
 - [Horatio Hanley](https://github.com/horatioDev)
@@ -1337,6 +1340,7 @@ chakri
 - [Rahul Rajput](https://github.com/r2hu1)
 - [Rajan Sharma](https://github.com/Immortal-codes)
 - [Nirupam Pal](https://github.com/nirupampal)
+- [Samant Rathod](https://github.com/samfip1)
 - [imalightbulb](https://github.com/imalightbulb)
 - [mpellouin](https://github.com/mpellouin) !
 - [Hunter Beach](https://github.com/HunterB433)
@@ -2683,6 +2687,7 @@ chakri
 - [Ajibode Olayinka](https://github.com/olayinka-maker)
 - Hi I am Shinya
 - [Dinosaur101](https://github.com/Dinosaur101)
+- [JoshuaFrederick] (https://github.com/JoshuaFrederick)
 - [Yile Wang](https://github.com/Elliotwang122)
 - [Mstt Duguid](https://github.com/msttduguid)
 - [Aman Jangid](https://github.com/Aman-Jangid)
