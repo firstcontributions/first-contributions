@@ -2785,6 +2785,7 @@
 - [RolandBouwer](https://github.com/RolandBouwer)
 - [lannthecreative](https://github.com/lannthecreative) 🪿
 - [Gonzalezjulvez](https://github.com/gonzalezjulvez)
+- [Jayden Krishna](https://github.com/JaydenKrishna)
 - [Aegdae](https://github.com/Aegdae)
 - yhliu
 - [Mohamed Sano]
