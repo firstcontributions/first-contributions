@@ -2777,3 +2777,4 @@ chakri
 - [Parth Dubal] (<https://github.com/Parth00>)
 - [iveseentheworld] (https://github.com/ResetPlease)
 - [Daniel Strielnikow](https://github.com/danielStrielnikow)
+- [Brijesh Thummar](https://github.com/Brijeshthummar02)
