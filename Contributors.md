@@ -40,6 +40,7 @@
 - [Brahim](https://github.com/BrahimChatri)
 - [Coderchameleon] (https://github.com/coderchameleon)
 - [IceyDuan](https://github.com/IceyDuan)
+- praneeth 
 - [Goldenfalcone](https://github.com/Goldenfalcone)
 - [Jeffawe](https://github.com/Jeffawe)
 - [sanjeev muddala](https://github.com/rohitsanjeev)
