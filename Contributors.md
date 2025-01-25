@@ -15,6 +15,7 @@
 - [Ujjwal Pandit](https://github.com/Ujjwal-Pandit)
 - [Aman Deshpande](https://github.com/amandesh694)
 - Janne
+- Aayush Gupta
 - [Amirul Hamiezan from Terengganu](https://github.com/mirul-Work)
 - [Hemank Patwal](https://github.com/hemankpatwal)
 - [Adriana Paiva](https://github.com/itsadrianapaiva)
