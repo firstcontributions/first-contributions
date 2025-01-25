@@ -2273,6 +2273,7 @@
 - [Jose Sesena](https://github.com/jsesena/first-contributions)
 - [heywhf](https://github.com/heywhf)
 - [Jeff Schuman](https://github.com/jschuman)
+- [Trevor Gudmundsen](https://github.com/trevorgud)
 - [Suhas Harish] (https://github.com/SuhasHareesh)
 - [Shiv Dev](https://github.com/Sh1vd3v)
 - [Harshal Ingole](https://github.com/Harshalingole)
