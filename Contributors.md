@@ -2784,6 +2784,7 @@
 - [Atsushi Wakabayashi](https://github.com/atsushi-wakabayashi)
 - [syawqy](https://github.com/syawqy)
 - nob
+- [GhassenJebbari](https://github.com/ghassenjebari)
 - [kunandkarina](https://github.com/kunandkarina)
 - [Abhijeeet](https://github.com/Abhijeet0605)
 - [RolandBouwer](https://github.com/RolandBouwer)
