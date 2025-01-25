@@ -1,4 +1,5 @@
 # Contributors
+
 - [Shalini](https://github.com/ShaliniKashyap717)
 - [Deepak](https://github.com/deepaksingh126)
 - [Rachit Agrawal](https://github.com/RachitAgrwal545422)
@@ -7,6 +8,7 @@
 - [RandithaK](https://github.com/RandithaK)
 - [sandeepgurram](https://github.com/gurram46)
 - [Devam Desai](https://github.com/Shaaaark126)
+- [Danielle-Higgins](https://github.com/Danielle-Higgins)
 - [Ye Lin Ko](https://github.com/yelinko20)
 - [Devan Parekh](https://github.com/devpar)
 - [doing1024](https://github.com/doing1024)
@@ -52,12 +54,12 @@
 - [cyberph3onix]https://github.com/cyberph3onix
 - [truenickspivak](https://github.com/truenickspivak)
 - [Arham H Khan](https://github.com/arham2003)
-- [Nishanth Devabathini](https://github.com/Nishanth1812) 
+- [Nishanth Devabathini](https://github.com/Nishanth1812)
 - Jacob Bowler
 - [Talha Bin Rafique](https://github.com/cykillon3)
-- [Jivi-this-side ^_^](https://github.com/Jivi-this-side)
+- [Jivi-this-side ^\_^](https://github.com/Jivi-this-side)
 - [mohit5723](https://github.com/mohit5723)
-- [Redbellpepper7079](https://github.com/Redbellpepper7079) **
+- [Redbellpepper7079](https://github.com/Redbellpepper7079) \*\*
 - [SVSHV](https://github.com/SVSHV)
 - [Alex Hagen] (https://github.com/Paucey)
 - [Gabryel Bele](https://github.com/GabryelBele)
@@ -78,7 +80,7 @@
 - [Yash Mehetre](https://github.com/YashMehetre)
 - [Sandip Patel](https://github.com/slotify-dev)
 - [Victor Mwadime](https://github.com/mwvc)
-	jayanth
+  jayanth
 - [Amr Sheqwara](https://github.com/Amr-Sheqwara) 👈(ﾟヮﾟ 👈)
 - [Ritik Verma](https://github.com/vritik907) 👈(ﾟヮﾟ 👈)
 - [Taniya](https://github.com/taniyaapatel) 👈(ﾟヮﾟ 👈)
@@ -105,7 +107,7 @@
 - [Kareem... ツ](https://github.com/kareematout)
 - Manuel MG
 - [Anish Dusad](https://github.com/anishDusad)
-chakri
+  chakri
 - SkMave
 - [Sandip Patel)](https://github.com/slotify-dev)
 - [Abhijit Sahane](https://github.com/AbhiSahane0)
@@ -1224,8 +1226,7 @@ chakri
 - [Thomas McLaughlin](https://github.com/mclaughlin-thomas)
 - [maxgmr](https://github.com/maxgmr)
 - [Robin Van Persie](https://github.com/rvp20)
-- [Siddhartha Verma](https://github.com/SidVer312) <33
--[Daksh Patel](https://github.com/daksh-patel-nitw)
+- [Siddhartha Verma](https://github.com/SidVer312) <33 -[Daksh Patel](https://github.com/daksh-patel-nitw)
 - [Alex Terskin](https://github.com/ATerskin)
 - [Bhargav](https://github.com/thotabhargav123)
 - [Aakash Preetam](https://github.com/aakashpreetam)
