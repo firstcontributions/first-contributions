@@ -29,6 +29,7 @@
 - [Sayanjit Mukherjee](https://github.com/Thedrogon)
 - [khsu](https://github.com/Kevin858)
 - [kuklinv](https://github.com/kuklinv)
+- Praneeth 
 - [Srijita](https://github.com/srijita7)
 - [Navin](https://github.com/navix1456)
 - [Akash kumar Ak](https://github.com/akash-ak-03/)
