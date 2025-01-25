@@ -94,6 +94,7 @@
 - [BlackKostia](https://github.com/BlackKostia)
 - [Dhananjay Pathak](https://github.com/DJay2012)
 - [Ernst Lin](https://github.com/ErnstLin) First Contributions to open source!!
+- [Filimon N.](https://github.com/Filimon-Coding) 👈(ﾟヮﾟ 👈) Contribution to Open Source
 - [Mustafa Ajnawala](https://github.com/MustafaAjnawala)
 - [Harsh Kumar](https://github.com/hkuser212)
 - [Stanislaw Mikolajczyk](https://github.com/mikolajczykstanislaw)
