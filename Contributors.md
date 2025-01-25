@@ -1,5 +1,6 @@
 # Contributors
 - [thisispembe](https://github.com/xpembe)
+- [Eric Mokuma] (https://github.com/eric-mokuma)
 - Mamai Nataki Hello open source world >]
 - [Bhavishya Chaturvedi](https://github.com/Bhavishya-Chaturvedi)
 - [Xerx](https://github.com/Xerx81) 🫡
