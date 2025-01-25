@@ -1,6 +1,7 @@
 # Contributors
 - [thisispembe](https://github.com/xpembe)
 - Mamai Nataki Hello open source world >]
+- [Bhavishya Chaturvedi](https://github.com/Bhavishya-Chaturvedi)
 - [Xerx](https://github.com/Xerx81) 🫡
 - [Swatantra](https://github.com/Swatantra-66)
 - [Shalini](https://github.com/ShaliniKashyap717)
@@ -32,6 +33,7 @@
 - Praneeth 
 - [Srijita](https://github.com/srijita7)
 - [Navin](https://github.com/navix1456)
+- [Valeria-D-23](https://github.com/Valeria-D-23)
 - [Akash kumar Ak](https://github.com/akash-ak-03/)
 - [Arun V](https://github.com/akash-ak-03/)
   [preludeinc](https://github.com/preludeinc/)
@@ -40,6 +42,7 @@
 - [Brahim](https://github.com/BrahimChatri)
 - [Coderchameleon] (https://github.com/coderchameleon)
 - [IceyDuan](https://github.com/IceyDuan)
+- praneeth 
 - [Goldenfalcone](https://github.com/Goldenfalcone)
 - [Jeffawe](https://github.com/Jeffawe)
 - [sanjeev muddala](https://github.com/rohitsanjeev)
@@ -2800,6 +2803,8 @@
 - [Roja Kodur] (https://github.com/rojakoduru09)
 - [iveseentheworld] (https://github.com/ResetPlease)
 - [Daniel Strielnikow](https://github.com/danielStrielnikow)
+- [Brijesh Thummar](https://github.com/Brijeshthummar02)
 - [Pranay Akula](https://github.com/pranayakula25)
 - [Brijesh Thummar](https://github.com/Brijeshthummar02)
 - [Michele Grimaldi](https://github.com/Mike014)
+- [javad hamedi moghaddam](https://github.com/j4v4diiii)
