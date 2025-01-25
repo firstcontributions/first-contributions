@@ -164,6 +164,7 @@
 - [Singha ram]
 - [Mathews Mathews](https://github.com/Mathews9396)
 - [Leina Prieur](https://github.com/leinapr)
+- [Anirudh CE](https://github.com/ace97)
 - [Daniel Cárdenas](https://github.com/Darcares)
 - [Abdullah Khurram Vohra](https://github.com/VohraAK)
 - [Ben Arlanda](https://github.com/Ben-Arlanda)
