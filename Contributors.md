@@ -23,6 +23,7 @@
 - [kuklinv](https://github.com/kuklinv)
 - [Srijita](https://github.com/srijita7)
 - [Navin](https://github.com/navix1456)
+- [Valeria-D-23](https://github.com/Valeria-D-23)
 - [Akash kumar Ak](https://github.com/akash-ak-03/)
 - [Arun V](https://github.com/akash-ak-03/)
   [preludeinc](https://github.com/preludeinc/)
