@@ -136,6 +136,7 @@
 - [Anish Dusad](https://github.com/anishDusad)
   chakri
 - SkMave
+- [Ulises Larraga](https://github.com/uliseslarraga)
 - [Sandip Patel)](https://github.com/slotify-dev)
 - [Abhijit Sahane](https://github.com/AbhiSahane0)
 - [Youssef Sayed](https://github.com/Youssehf)
