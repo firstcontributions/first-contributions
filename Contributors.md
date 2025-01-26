@@ -54,6 +54,7 @@
 - [Hanz-Alleskonner](https://github.com/Hanz-Alleskonner) **C**
 - [Cesar](https://github.com/cesarslv)
 - [CAN](https://github.com/lawinpyae)
+- [Roshan Bara](https://github.com/roshanbara)
 - [MCorneliussen]https://github.com/MCorneliussen
 - [Jorge Hecherat](https://github.com/Hechprad)
 - [Hnin Wai Phoo](https://github.com/HninWaiPhoo)
