@@ -28,6 +28,7 @@
 - Janne
 - Aayush Gupta
 - [Amirul Hamiezan from Terengganu](https://github.com/mirul-Work)
+- [DavidOlbrz](https://github.com/DavidOlbrz)
 - [JT](https://github.com/jayyyyteee)
 - [Hemank Patwal](https://github.com/hemankpatwal)
 - [Adriana Paiva](https://github.com/itsadrianapaiva)
