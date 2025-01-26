@@ -1,10 +1,11 @@
 # Contributors
-- [thisispembe}(https://github.com/xpembe)
+- [thisispembe](https://github.com/xpembe)
 - [Jesus Lopez](https://github.com/jlopezmarti20)
 - [Eric Mokuma] (https://github.com/eric-mokuma)
 - Mamai Nataki Hello open source world >]
 - [toolbokz](https://github.com/toolbokz)
 - [CoderAlpha9] (https://github.com/CoderAlpha9)
+- [Jephthah Orobia](https://github.com/jephthah-orobia) / [sirjhep.dev ![sirjhep.dev](https://sirjhep.dev/images/favicon/favicon-16x16.png)](https://sirjhep.dev) 
 - [Bhavishya Chaturvedi](https://github.com/Bhavishya-Chaturvedi)
 - [Xerx](https://github.com/Xerx81) 🫡
 - [Swatantra](https://github.com/Swatantra-66)
