@@ -97,6 +97,7 @@
 - [Amr Sheqwara](https://github.com/Amr-Sheqwara) 👈(ﾟヮﾟ 👈)
 - [Ritik Verma](https://github.com/vritik907) 👈(ﾟヮﾟ 👈)
 - [Taniya](https://github.com/taniyaapatel) 👈(ﾟヮﾟ 👈)
+- [Soumitra Das](https://github.com/SoumitraDas1) 👈
 - [Prashant](https://github.com/Moxie-47)
 - [Oyaghi](https://github.com/oyaghi) 👈(ﾟヮﾟ 👈)
 - [AryanVeks](https://github.com/Aryan0826)
