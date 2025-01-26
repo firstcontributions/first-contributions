@@ -1,18 +1,24 @@
 # Contributors
 - [thisispembe](https://github.com/xpembe)
+- [Jesus Lopez](https://github.com/jlopezmarti20)
 - [Eric Mokuma] (https://github.com/eric-mokuma)
 - Mamai Nataki Hello open source world >]
+- [toolbokz](https://github.com/toolbokz)
 - [CoderAlpha9] (https://github.com/CoderAlpha9)
+- [Jephthah Orobia](https://github.com/jephthah-orobia) / [sirjhep.dev ![sirjhep.dev](https://sirjhep.dev/images/favicon/favicon-16x16.png)](https://sirjhep.dev) 
 - [Bhavishya Chaturvedi](https://github.com/Bhavishya-Chaturvedi)
 - [Xerx](https://github.com/Xerx81) 🫡
 - [Swatantra](https://github.com/Swatantra-66)
 - [IndiraP] (https://github.com/indirapanneer)
 - [Shalini](https://github.com/ShaliniKashyap717)
 - [Deepak](https://github.com/deepaksingh126)
+- [Polianthiel - Hello World]
+- [Matthew Ray](https://github.com/MatthewRayUk)
 - [Rachit Agrawal](https://github.com/RachitAgrwal545422)
 - [Ramya Swetha Vejendla](https://github.com/RamyaSwethaVejendla11)
 - [Xerx](https://github.com/Xerx81)
 - [RandithaK](https://github.com/RandithaK)
+- [Rashmika Naveen](https://github.com/rashmikanaveen)
 - [sandeepgurram](https://github.com/gurram46)
 - [Devam Desai](https://github.com/Shaaaark126)
 - [Himanshu Singh Aswal](https://github.com/LAWSA07)
@@ -27,6 +33,7 @@
 - Janne
 - Aayush Gupta
 - [Amirul Hamiezan from Terengganu](https://github.com/mirul-Work)
+- [DavidOlbrz](https://github.com/DavidOlbrz)
 - [JT](https://github.com/jayyyyteee)
 - [Hemank Patwal](https://github.com/hemankpatwal)
 - [Adriana Paiva](https://github.com/itsadrianapaiva)
@@ -54,6 +61,7 @@
 - [Hanz-Alleskonner](https://github.com/Hanz-Alleskonner) **C**
 - [Cesar](https://github.com/cesarslv)
 - [CAN](https://github.com/lawinpyae)
+- [Roshan Bara](https://github.com/roshanbara)
 - [MCorneliussen]https://github.com/MCorneliussen
 - [Jorge Hecherat](https://github.com/Hechprad)
 - [Hnin Wai Phoo](https://github.com/HninWaiPhoo)
@@ -104,6 +112,8 @@
 - [kikumiyako](https://github.com/kikumiyako) -[mpawank](https://github.com/mpawank)
 - [paul kiprop] (https://github.com/youngKip)
 - [Connor Sullivan](https://github.com/connorssullivan)
+- [SnowyCrest](https://github.com/SnowyCrest)
+- [found-sec](https://github.com/found-sec)
 - [Gabriel Costa](https://github.com/gabriel-oxx)
 - [Yenuganti Rahul](https://github.com/yenugantirahul)
 - [Naw](https://github.com/nawni1491)
@@ -138,6 +148,7 @@
 - [Majid R](https://github.com/MajidrNEO1879)
 - [M.Usman](https://github.com/usmanaholic)
 - [prajanlal](https://github.com/prajanlal)
+- [tahseen861](https://github.com/tahseen861)
 - [WardhaKashif](https://github.com/Wardha-kashif)
 - [Syed Asad Khalid](https://github.com/SyedAsadK/first-contributi
 - [Sarang Rajesh Kale](https://github.com/Sarangkale66) -[vinayreddy](https://github.com/Vinayreddy765)
@@ -252,8 +263,10 @@
 - [Favour Arum](https://github.com/Arum-Favour)
   Samarth
   [Poojan Javiya](https://github.com/PoojanJaviya) : A new big thing coming out in few years!!
+  [ompatel](https://github.com/ompatel3625) :A new big thing coming out with the upper person in few years!!
 - [Shreeya Gokhale](https://github.com/shreeya1810) : First contribution!
 - [Arvid Håkon Seternes](https://github.com/ArvidHS) : Hobbyist wanting to contribute!
+-[Muhammad Abdullah](https://github.com/mAbdullahrana) : First contribution!
 - [Sandhya Rani](https://github.com/sandhya12r) :Full Stack Web Developer
 - [Rajas Patankar](https://github.com/patraj20): Exploring open source
 - [Sruthi Krishnakumar](https://github.com/SruthiKrish19) :07/01/2025
@@ -478,6 +491,7 @@
 - [Hari Krishan](https://github.com/Hari-krishna-tech)
 - [Keepas3](https://github.com/Keepas3)
 - [Pavani](https://github.com/pavani42)
+- [Menahil](https://github.com/mena-aq)
 - [Raghav Dwivedi](https://github.com/dwi4122)
 - [gabecodessometimes](https://github.com/gabecodessometimes)
 - [jasurgraduate](https://github.com/jasurgraduate)
@@ -2799,6 +2813,7 @@
 - nob
 - [GhassenJebbari](https://github.com/ghassenjebari)
 - [kunandkarina](https://github.com/kunandkarina)
+- gzjian(0v0)
 - [Abhijeeet](https://github.com/Abhijeet0605)
 - [RolandBouwer](https://github.com/RolandBouwer)
 - [lannthecreative](https://github.com/lannthecreative) 🪿
@@ -2819,3 +2834,8 @@
 - [javad hamedi moghaddam](https://github.com/j4v4diiii)
 - [David Plainview](https://github.com/davidplainview)
 - shaaluu😎
+- [Sangeeta Waiba](https://github.com/wsangeeta)
+-[rasha]
+-[Divyesh Shinde](https://github.com/Divyesh-20)
+- [untitled-guy](https://github.com/untitled-guy)
+- [praveenbn88](https://github.com/praveenbn88/)
