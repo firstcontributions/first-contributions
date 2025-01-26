@@ -261,6 +261,7 @@
 - [Favour Arum](https://github.com/Arum-Favour)
   Samarth
   [Poojan Javiya](https://github.com/PoojanJaviya) : A new big thing coming out in few years!!
+  [ompatel](https://github.com/ompatel3625) :A new big thing coming out with the upper person in few years!!
 - [Shreeya Gokhale](https://github.com/shreeya1810) : First contribution!
 - [Arvid Håkon Seternes](https://github.com/ArvidHS) : Hobbyist wanting to contribute!
 - [Sandhya Rani](https://github.com/sandhya12r) :Full Stack Web Developer
