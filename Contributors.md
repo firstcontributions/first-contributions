@@ -1,4 +1,5 @@
 # Contributors
+
 - [thisispembe](https://github.com/xpembe)
 - [Jesus Lopez](https://github.com/jlopezmarti20)
 - [Eric Mokuma] (https://github.com/eric-mokuma)
@@ -7,6 +8,7 @@
 - [CoderAlpha9] (https://github.com/CoderAlpha9)
 - [Jephthah Orobia](https://github.com/jephthah-orobia) / [sirjhep.dev ![sirjhep.dev](https://sirjhep.dev/images/favicon/favicon-16x16.png)](https://sirjhep.dev) 
 - [Bhavishya Chaturvedi](https://github.com/Bhavishya-Chaturvedi)
+- [Psammy](https://github.com/Psamm-y/)
 - [Xerx](https://github.com/Xerx81) 🫡
 - [Swatantra](https://github.com/Swatantra-66)
 - [IndiraP] (https://github.com/indirapanneer)
@@ -41,7 +43,7 @@
 - [Sayanjit Mukherjee](https://github.com/Thedrogon)
 - [khsu](https://github.com/Kevin858)
 - [kuklinv](https://github.com/kuklinv)
-- Praneeth 
+- Praneeth
 - [thisispembe](https://github.com/xpembe)
 - [Srijita](https://github.com/srijita7)
 - [Navin](https://github.com/navix1456)
@@ -54,7 +56,7 @@
 - [Brahim](https://github.com/BrahimChatri)
 - [Coderchameleon] (https://github.com/coderchameleon)
 - [IceyDuan](https://github.com/IceyDuan)
-- praneeth 
+- praneeth
 - [Goldenfalcone](https://github.com/Goldenfalcone)
 - [Jeffawe](https://github.com/Jeffawe)
 - [sanjeev muddala](https://github.com/rohitsanjeev)
@@ -66,7 +68,7 @@
 - [Jorge Hecherat](https://github.com/Hechprad)
 - [Hnin Wai Phoo](https://github.com/HninWaiPhoo)
 - [Kaushik Namburi](https://github.com/KaushikNamburi)
- **First Contribution!!!**
+  **First Contribution!!!**
 - _Frontend Developer & Enthusiast 🚀_
 - [Stella](https://github.com/KyelSin) **First Contribution(♡˙︶˙♡)**
 - [Gurudhev](https://github.com/devguru06)
