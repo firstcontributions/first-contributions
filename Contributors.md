@@ -107,6 +107,7 @@
 - [kikumiyako](https://github.com/kikumiyako) -[mpawank](https://github.com/mpawank)
 - [paul kiprop] (https://github.com/youngKip)
 - [Connor Sullivan](https://github.com/connorssullivan)
+- [SnowyCrest](https://github.com/SnowyCrest)
 - [Gabriel Costa](https://github.com/gabriel-oxx)
 - [Yenuganti Rahul](https://github.com/yenugantirahul)
 - [Naw](https://github.com/nawni1491)
