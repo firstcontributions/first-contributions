@@ -1,12 +1,11 @@
 # Contributors
-- [Omkar Nath] (https://github.com/nathomkar799)
+
 -[D Sanjay Azhagan] (https://github.com/Sanjayazhagan)
 -[thisispembe](https://github.com/xpembe)
 - [Jesus Lopez](https://github.com/jlopezmarti20)
 - [Yadneshx17](https://github.com/yadneshx17)
 - [Eric Mokuma] (https://github.com/eric-mokuma)
 - Mamai Nataki Hello open source world >]
-- [Omkar Nath] (https://github.com/nathomkar799/first-contributions)
 - [toolbokz](https://github.com/toolbokz)
 - [CoderAlpha9] (https://github.com/CoderAlpha9)
 - [Jephthah Orobia](https://github.com/jephthah-orobia) / [sirjhep.dev ![sirjhep.dev](https://sirjhep.dev/images/favicon/favicon-16x16.png)](https://sirjhep.dev) 
@@ -18,6 +17,7 @@
 - [Swatantra](https://github.com/Swatantra-66)
 - [IndiraP] (https://github.com/indirapanneer)
 - [Paul Cave](https://github.com/paulcave001)
+- [Omkar Nath] (https://github.com/nathomkar799/first-contributions)
 mridul vaishnav
 - [Mrinal Singh](https://github.com/MrinalSingh04)
 - [Shalini](https://github.com/ShaliniKashyap717)
