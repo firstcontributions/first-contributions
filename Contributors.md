@@ -1,7 +1,8 @@
 # Contributors
-
+- [Muhammed Serim](https://github.com/mahitox38)
 - [D Sanjay Azhagan](https://github.com/Sanjayazhagan)
 - [Ibrahim Gaber](https://github.com/IbrahimGaberOfficial) Exiting to start contributing in open-source 😃.
+- [Ahmed Nasser]([Git hub account](https://github.com/AhmedNasser-bug))
 - [thisispembe](https://github.com/xpembe)
 - [Jesus Lopez](https://github.com/jlopezmarti20)
 - [Yadneshx17](https://github.com/yadneshx17)
@@ -11,6 +12,7 @@
 - [Marqitos](https://github.com/Marqitos) / [Marcos Porto](https://marcospor.to)
 - [toolbokz](https://github.com/toolbokz)
 - [CoderAlpha9] (https://github.com/CoderAlpha9)
+- [Venkat-Koushik](https://github.com/vkoushik15)
 - [Ratna-Babu](https://github.com/Ratna-Babu)
 - [Jephthah Orobia](https://github.com/jephthah-orobia) / [sirjhep.dev ![sirjhep.dev](https://sirjhep.dev/images/favicon/favicon-16x16.png)](https://sirjhep.dev)
 - [Bhavishya Chaturvedi](https://github.com/Bhavishya-Chaturvedi)
@@ -21,7 +23,8 @@
 - [Swatantra](https://github.com/Swatantra-66)
 - [IndiraP] (https://github.com/indirapanneer)
 - [Paul Cave](https://github.com/paulcave001)
-  mridul vaishnav
+- [Omkar Nath](https://github.com/nathomkar799/first-contributions)
+- mridul vaishnav
 - [Mrinal Singh](https://github.com/MrinalSingh04)
 - [Shalini](https://github.com/ShaliniKashyap717)
 - [Deepak](https://github.com/deepaksingh126)
@@ -30,6 +33,7 @@
 - [Alison Souza](https://github.com/Aouza)
 - [Muhammed Nazim] (https://github.com/MuhammedNazimAK)
 - [whatsup]
+- [shadow-is-hear]
 - [Dobra Palovich[
 - [Rachit Agrawal](https://github.com/RachitAgrwal545422)
 - [Ramya Swetha Vejendla](https://github.com/RamyaSwethaVejendla11)
@@ -89,12 +93,15 @@
 - [Gurudhev](https://github.com/devguru06)
 - [Kevinrivas96](https://github.com/Kevinrivas96) **First Contribution**
 - [AdarshKumarSr](https://github.com/adarshKumarSr) **Developer**
+- [EzzFelt](https://github.com/EzzFelt) **Developer**
 - [cyberph3onix]https://github.com/cyberph3onix
 - [truenickspivak](https://github.com/truenickspivak)
+- [Kotige](https://github.com/Kotige)
 - [Arham H Khan](https://github.com/arham2003)
 - [Nishanth Devabathini](https://github.com/Nishanth1812)
 - Jacob Bowler
 - [Talha Bin Rafique](https://github.com/cykillon3)
+- [Prashant kushwaha] (https://github.com/Prashant211111) 👈**My first contribution.**
 - [Jivi-this-side ^\_^](https://github.com/Jivi-this-side)
 - [mohit5723](https://github.com/mohit5723)
 - [Redbellpepper7079](https://github.com/Redbellpepper7079) \*\*
@@ -107,8 +114,8 @@
 - Hello Developers , Dhruv Prajapati [Here](https://github.com/dhruvp66572) 👈
 - [Adarsh Bhayani](https://github.com/Adarsh-Bhayani)
 - [Ack-Mawé 🐥](https://github.com/ackmawe)
-  [Emmanson Effiong](https://github.com/Emmanson109)
-  [Shirish](https://github.com/shirish1995)
+- [Emmanson Effiong](https://github.com/Emmanson109)
+- [Shirish](https://github.com/shirish1995)
 - [Chris Banas](https://github.com/chrisbanas)
 - [Gerold Maier](https://github.com/maigero)
 - [Aman K](https://github.com/amankumarmatta)
@@ -2855,13 +2862,19 @@
 - [Pranay Akula](https://github.com/pranayakula25)
 - [Brijesh Thummar](https://github.com/Brijeshthummar02)
 - [Michele Grimaldi](https://github.com/Mike014)
+- [Abhay Patil](https://github.com/user-abhay08)
 - [javad hamedi moghaddam](https://github.com/j4v4diiii)
 - [David Plainview](https://github.com/davidplainview)
 - shaaluu😎
-- [Sangeeta Waiba](https://github.com/wsangeeta) -[rasha] -[Divyesh Shinde](https://github.com/Divyesh-20)
+- [Sangeeta Waiba](https://github.com/wsangeeta)
+- [rasha]
+- [Dinechko]
+- [Divyesh Shinde](https://github.com/Divyesh-20)
 - [untitled-guy](https://github.com/untitled-guy)
 - [praveenbn88](https://github.com/praveenbn88/)
 - [Divyanshu Varma](https://github.com/divyanshu-varma)
 - [phantom-98](https://github.com/phantom-98)
 - [Kriemseeley](https://github.com/Kriemseeley/) Let's go!😼
 - [Piyushbhatt7](https://github.com/Piyushbhatt7) Grateful for my contribution in this repo
+- [ChetaniyaBajaj](https://github.com/ChetaniyaBajaj)
+- [crismide](https://github.com/crismide)
