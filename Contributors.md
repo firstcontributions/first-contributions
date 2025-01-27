@@ -2867,6 +2867,7 @@ mridul vaishnav
 - shaaluu😎
 - [Sangeeta Waiba](https://github.com/wsangeeta)
 -[rasha]
+-[Dinechko]
 -[Divyesh Shinde](https://github.com/Divyesh-20)
 - [untitled-guy](https://github.com/untitled-guy)
 - [praveenbn88](https://github.com/praveenbn88/)
