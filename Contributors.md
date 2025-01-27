@@ -22,6 +22,7 @@
 - [Polianthiel - Hello World]
 - [Matthew Ray](https://github.com/MatthewRayUk)
 - [Alison Souza](https://github.com/Aouza)
+- Nazim
 - [whatsup]
 - [Dobra Palovich[ 
 - [Rachit Agrawal](https://github.com/RachitAgrwal545422)
