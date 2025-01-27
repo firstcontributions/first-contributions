@@ -12,7 +12,7 @@
 - [toolbokz](https://github.com/toolbokz)
 - [CoderAlpha9] (https://github.com/CoderAlpha9)
 - [Ratna-Babu](https://github.com/Ratna-Babu)
-- [Jephthah Orobia](https://github.com/jephthah-orobia) / [sirjhep.dev ![sirjhep.dev](https://sirjhep.dev/images/favicon/favicon-16x16.png)](https://sirjhep.dev) 
+- [Jephthah Orobia](https://github.com/jephthah-orobia) / [sirjhep.dev ![sirjhep.dev](https://sirjhep.dev/images/favicon/favicon-16x16.png)](https://sirjhep.dev)
 - [Bhavishya Chaturvedi](https://github.com/Bhavishya-Chaturvedi)
 - [Psammy](https://github.com/Psamm-y/)
 - [Lucas Manuel Alface] (https://github.com/Lucasmanuelmz)
@@ -21,7 +21,7 @@
 - [Swatantra](https://github.com/Swatantra-66)
 - [IndiraP] (https://github.com/indirapanneer)
 - [Paul Cave](https://github.com/paulcave001)
-mridul vaishnav
+  mridul vaishnav
 - [Mrinal Singh](https://github.com/MrinalSingh04)
 - [Shalini](https://github.com/ShaliniKashyap717)
 - [Deepak](https://github.com/deepaksingh126)
@@ -30,7 +30,7 @@ mridul vaishnav
 - [Alison Souza](https://github.com/Aouza)
 - [Muhammed Nazim] (https://github.com/MuhammedNazimAK)
 - [whatsup]
-- [Dobra Palovich[ 
+- [Dobra Palovich[
 - [Rachit Agrawal](https://github.com/RachitAgrwal545422)
 - [Ramya Swetha Vejendla](https://github.com/RamyaSwethaVejendla11)
 - [Xerx](https://github.com/Xerx81)
@@ -43,8 +43,7 @@ mridul vaishnav
 - [Ye Lin Ko](https://github.com/yelinko20)
 - [Devan Parekh](https://github.com/devpar)
 - [doing1024](https://github.com/doing1024)
-- [Tav0nes](https://github.com/Tav0nes)
--[Zac W](https://github.com/ZacWJ1)
+- [Tav0nes](https://github.com/Tav0nes) -[Zac W](https://github.com/ZacWJ1)
 - [MobyTh1cc] (https://github.com/MobyTh1cc)
 - [Ujjwal Pandit](https://github.com/Ujjwal-Pandit)
 - [Aman Deshpande](https://github.com/amandesh694)
@@ -286,8 +285,7 @@ mridul vaishnav
   [Poojan Javiya](https://github.com/PoojanJaviya) : A new big thing coming out in few years!!
   [ompatel](https://github.com/ompatel3625) :A new big thing coming out with the upper person in few years!!
 - [Shreeya Gokhale](https://github.com/shreeya1810) : First contribution!
-- [Arvid Håkon Seternes](https://github.com/ArvidHS) : Hobbyist wanting to contribute!
--[Muhammad Abdullah](https://github.com/mAbdullahrana) : First contribution!
+- [Arvid Håkon Seternes](https://github.com/ArvidHS) : Hobbyist wanting to contribute! -[Muhammad Abdullah](https://github.com/mAbdullahrana) : First contribution!
 - [Sandhya Rani](https://github.com/sandhya12r) :Full Stack Web Developer
 - [Rajas Patankar](https://github.com/patraj20): Exploring open source
 - [Sruthi Krishnakumar](https://github.com/SruthiKrish19) :07/01/2025
@@ -2366,8 +2364,7 @@ mridul vaishnav
 - [Matthew Weigand](https://github.com/MatthewWeigand99)
 - [Shreelu Santosh](https://github.com/ShreeluSantosh)
 - [A K M Jubaeir Islam](https://github.com/Zubiii333)
-- [Abhay Singh](https://github.com/Abhay-Singh-1913)
--[Jonus Green] (https://github.com/jonusgreen)
+- [Abhay Singh](https://github.com/Abhay-Singh-1913) -[Jonus Green] (https://github.com/jonusgreen)
 - [Ian Hart](https://github.com/ianahart)
 - [sperbs](https://github.com/sperbs)
 - [Van Minh Tran](https://github.com/minhtran5109)
@@ -2499,6 +2496,7 @@ mridul vaishnav
 - [teboho](https://github.com/teboho)
 - [upayanmazumder](https://github.com/upayanmazumder)
 - [makornobbe](https://github.com/XaNNaN)
+- [valescaray](https://github.com/Valescaray)
 - [Manisha](https://github.com/manishapalsam)
 - [Manisha](https://github.com/manishapalsam)
 - [Mubin Bagwan](https://github.com/mubinB)
@@ -2860,9 +2858,7 @@ mridul vaishnav
 - [javad hamedi moghaddam](https://github.com/j4v4diiii)
 - [David Plainview](https://github.com/davidplainview)
 - shaaluu😎
-- [Sangeeta Waiba](https://github.com/wsangeeta)
--[rasha]
--[Divyesh Shinde](https://github.com/Divyesh-20)
+- [Sangeeta Waiba](https://github.com/wsangeeta) -[rasha] -[Divyesh Shinde](https://github.com/Divyesh-20)
 - [untitled-guy](https://github.com/untitled-guy)
 - [praveenbn88](https://github.com/praveenbn88/)
 - [Divyanshu Varma](https://github.com/divyanshu-varma)
