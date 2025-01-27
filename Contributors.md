@@ -64,6 +64,7 @@
 - [khsu](https://github.com/Kevin858)
 - [kuklinv](https://github.com/kuklinv)
 - Praneeth
+- [ebubecodes](https://github.com/ebubecodes)
 - [thisispembe](https://github.com/xpembe)
 - [Srijita](https://github.com/srijita7)
 - [Navin](https://github.com/navix1456)
