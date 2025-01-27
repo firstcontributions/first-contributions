@@ -1663,6 +1663,7 @@
 - [Anand Raj](https://github.com/anandr07)
 - [Nicholas Olds](https://github.com/nicholas-olds)
 - [Chandra Kant Bauri](https://github.com/Lynk4)
+- [Jakub Krc](https://github.com/JakubKrc)
 - [GlitchCake](https://github.com/GlitchCake)
 - [Hasya Patel](https://github.com/hasya2107)
 - [ChrisB0617](https://github.com/ChrisB0617)
