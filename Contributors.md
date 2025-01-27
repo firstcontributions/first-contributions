@@ -2324,6 +2324,7 @@
 - [Matteo Bongiovanni](https://github.com/matteobongio)
 - [Timothy Charteris] (https://github.com/timm167)
 - [Taha S. ASAN](https://github.com/tahaasann)
+- [Cade Bray](https://github.com/Cade-Bray)
 - [Safa Osman](https://github.com/swafak)
 - [Hamil Dimapanat](https://github.com/hvmil)
 - [Suhash G](https://github.com/Suhash-25)
