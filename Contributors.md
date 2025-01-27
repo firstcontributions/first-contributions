@@ -99,8 +99,8 @@
 - Hello Developers , Dhruv Prajapati [Here](https://github.com/dhruvp66572) 👈
 - [Adarsh Bhayani](https://github.com/Adarsh-Bhayani)
 - [Ack-Mawé 🐥](https://github.com/ackmawe)
-  [Emmanson Effiong](https://github.com/Emmanson109)
-  [Shirish](https://github.com/shirish1995)
+- [Emmanson Effiong](https://github.com/Emmanson109)
+- [Shirish](https://github.com/shirish1995)
 - [Chris Banas](https://github.com/chrisbanas)
 - [Gerold Maier](https://github.com/maigero)
 - [Aman K](https://github.com/amankumarmatta)
