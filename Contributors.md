@@ -1,11 +1,12 @@
 # Contributors
 
--[D Sanjay Azhagan] (https://github.com/Sanjayazhagan)
+- [D Sanjay Azhagan](https://github.com/Sanjayazhagan)
 -[thisispembe](https://github.com/xpembe)
 - [Jesus Lopez](https://github.com/jlopezmarti20)
 - [Yadneshx17](https://github.com/yadneshx17)
 - [Eric Mokuma] (https://github.com/eric-mokuma)
 - Mamai Nataki Hello open source world >]
+- [Marqitos](https://github.com/Marqitos) / [Marcos Porto](https://marcospor.to)
 - [toolbokz](https://github.com/toolbokz)
 - [CoderAlpha9] (https://github.com/CoderAlpha9)
 - [Jephthah Orobia](https://github.com/jephthah-orobia) / [sirjhep.dev ![sirjhep.dev](https://sirjhep.dev/images/favicon/favicon-16x16.png)](https://sirjhep.dev) 
