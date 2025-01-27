@@ -40,6 +40,7 @@
 - [Xerx](https://github.com/Xerx81)
 - [RandithaK](https://github.com/RandithaK)
 - [Rashmika Naveen](https://github.com/rashmikanaveen)
+- [alismx](https://github.com/alismx)
 - [sandeepgurram](https://github.com/gurram46)
 - [Devam Desai](https://github.com/Shaaaark126)
 - [Himanshu Singh Aswal](https://github.com/LAWSA07)
