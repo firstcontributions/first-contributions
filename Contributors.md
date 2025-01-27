@@ -6,6 +6,7 @@
 - [Yadneshx17](https://github.com/yadneshx17)
 - [Eric Mokuma] (https://github.com/eric-mokuma)
 - Mamai Nataki Hello open source world >]
+- [Omkar Nath] (https://github.com/nathomkar799/first-contributions)
 - [toolbokz](https://github.com/toolbokz)
 - [CoderAlpha9] (https://github.com/CoderAlpha9)
 - [Jephthah Orobia](https://github.com/jephthah-orobia) / [sirjhep.dev ![sirjhep.dev](https://sirjhep.dev/images/favicon/favicon-16x16.png)](https://sirjhep.dev) 
