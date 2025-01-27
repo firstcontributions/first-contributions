@@ -10,6 +10,7 @@
 - [Bhavishya Chaturvedi](https://github.com/Bhavishya-Chaturvedi)
 - [Psammy](https://github.com/Psamm-y/)
 - [Xerx](https://github.com/Xerx81) 🫡
+- [vijay](https://github.com/vijayanarasimhareddy)
 - [Swatantra](https://github.com/Swatantra-66)
 - [IndiraP] (https://github.com/indirapanneer)
 - [Paul Cave](https://github.com/paulcave001)
