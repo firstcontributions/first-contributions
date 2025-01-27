@@ -1183,7 +1183,8 @@
 - Gabriele Agosta
 - [Ejorhovi Gift](https://github.com/g1ft-code)
 - [Govind Mohan](https://github.com/G0vind04)
-- [Kalhara Batangala](https://github.com/KalharaBatangala)
+- [Kalhara Batangala](https://github.com/KalharaBatangala
+- GabboVG
 - [Ricardo Gomes](https://github.com/ricardogomes)
 - Peter
 - [Borsoon](https://github.com/Borsoon)
