@@ -1,6 +1,7 @@
 # Contributors
 
-- [thisispembe](https://github.com/xpembe)
+-[D Sanjay Azhagan] (https://github.com/Sanjayazhagan)
+-[thisispembe](https://github.com/xpembe)
 - [Jesus Lopez](https://github.com/jlopezmarti20)
 - [Eric Mokuma] (https://github.com/eric-mokuma)
 - Mamai Nataki Hello open source world >]
