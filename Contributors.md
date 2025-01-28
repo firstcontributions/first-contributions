@@ -7,6 +7,7 @@
 - [yaswanth narikamalli](https://github.com/Yashu1th)
 - [Ahmed Nasser]([Git hub account](https://github.com/AhmedNasser-bug))
 - [thisispembe](https://github.com/xpembe)
+- [Saad Shaikh](https://github.com/saad-0012)
 - [Jesus Lopez](https://github.com/jlopezmarti20)
 - [Sagar Niroula](https://github.com/sagarniroula112)
 [Sambhav Jhunjhunwala](https://github.com/Sambhav774)
