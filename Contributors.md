@@ -17,6 +17,7 @@
 - Mamai Nataki Hello open source world >]
 - [Marqitos](https://github.com/Marqitos) / [Marcos Porto](https://marcospor.to)
 - [Numan](https://github.com/Numan52)
+- [Amritansu Aditya] (https://github.com/Amritansu-Adi)
 - [toolbokz](https://github.com/toolbokz)
 - [CoderAlpha9] (https://github.com/CoderAlpha9)
 - [Venkat-Koushik](https://github.com/vkoushik15)
