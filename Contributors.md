@@ -49,6 +49,7 @@ mridul vaishnav
 - [Aman Deshpande](https://github.com/amandesh694)
 - Janne
 - Aayush Gupta
+- datascrapper
 - [Amirul Hamiezan from Terengganu](https://github.com/mirul-Work)
 - [DavidOlbrz](https://github.com/DavidOlbrz)
 - [JT](https://github.com/jayyyyteee)
