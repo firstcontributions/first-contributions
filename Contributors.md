@@ -2843,6 +2843,7 @@
 - [sylvestergah](https://github.com/sylvestergah) 🔥
 - [yegeunyang](https://github.com/yegeunyang)
 - [kvk tejaswi](https://github.com/kvktejaswi)
+- [Avery A.](https://github.com/averyma07)
 - [Rachel Swimmer](https://github.com/rachelSwimmer)
 - [Tehila Friedland](https://github.com/FTehila123)
 - [EsterSokolovsky](https://github.com/EstyS637)
