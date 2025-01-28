@@ -1545,6 +1545,7 @@
 - [Adrià Escandell](https://github.com/AdriiE17)
 - [Roberto Cárdenas](https://github.com/BrokenRoto)
 - [Siddhesh Parate](https://github.com/Siddhesh877)
+- [Landon Peery](https://github.com/NotTheNull)
 - [Aayushvyas1](https://github.com/aayushvyas1)
 - [Ivine Chebet](https://github.com/Chebet895git)
 - [Ronita Patra](https://github.com/Ronita-Patra)
