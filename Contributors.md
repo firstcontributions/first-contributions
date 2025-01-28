@@ -69,6 +69,7 @@
 - [kuklinv](https://github.com/kuklinv)
 - [Hussain Zaidi](https://github.com/hussaynzaidi)
 - Praneeth
+- [pocall23](https://github.com/pocall23)
 - [ebubecodes](https://github.com/ebubecodes)
 - [thisispembe](https://github.com/xpembe)
 - [Srijita](https://github.com/srijita7)
