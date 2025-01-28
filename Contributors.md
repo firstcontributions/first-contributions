@@ -34,7 +34,7 @@
 - [Muhammed Nazim] (https://github.com/MuhammedNazimAK)
 - [whatsup]
 - [shadow-is-hear]
-- [Dobra Palovich[
+- [Dobra Palovich]
 - [Rachit Agrawal](https://github.com/RachitAgrwal545422)
 - [Ramya Swetha Vejendla](https://github.com/RamyaSwethaVejendla11)
 - [Xerx](https://github.com/Xerx81)
@@ -58,6 +58,7 @@
 - [DavidOlbrz](https://github.com/DavidOlbrz)
 - [JT](https://github.com/jayyyyteee)
 - [Hemank Patwal](https://github.com/hemankpatwal)
+- [Krishna Mouli Morampudi](https://github.com/krishnamouli8)
 - [Adriana Paiva](https://github.com/itsadrianapaiva)
 - [Thejesh Kumar](https://github.com/unedsky)
 - [Sayanjit Mukherjee](https://github.com/Thedrogon)
