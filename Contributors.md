@@ -16,7 +16,7 @@
 - [Swatantra](https://github.com/Swatantra-66)
 - [IndiraP] (https://github.com/indirapanneer)
 - [Paul Cave](https://github.com/paulcave001)
-- [Durgesh Shekhawat](https://github.com/durgeshhhhhhh);
+- [Durgesh Shekhawat](https://github.com/durgeshhhhhhh)
 - [Mrinal Singh](https://github.com/MrinalSingh04)
 - [Shalini](https://github.com/ShaliniKashyap717)
 - [Deepak](https://github.com/deepaksingh126)
