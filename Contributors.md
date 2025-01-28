@@ -1,6 +1,5 @@
 # Contributors
 
-- [Jaomar92](https://github.com/Jaomar92)
 - [Loic CHECK](https://github.com/NDZIE444)
 - [Muhammed Serim](https://github.com/mahitox38)
 - [D Sanjay Azhagan](https://github.com/Sanjayazhagan)
@@ -38,6 +37,7 @@
 - [Mrinal Singh](https://github.com/MrinalSingh04)
 - [Shalini](https://github.com/ShaliniKashyap717)
 - [Deepak](https://github.com/deepaksingh126)
+- [Jaomar92](https://github.com/Jaomar92)
 - [Polianthiel - Hello World]
 - [Matthew Ray](https://github.com/MatthewRayUk)
 - [Alison Souza](https://github.com/Aouza)
