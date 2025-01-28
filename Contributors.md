@@ -1,4 +1,6 @@
 # Contributors
+
+- [Jaomar92](https://github.com/Jaomar92)
 - [Loic CHECK](https://github.com/NDZIE444)
 - [Muhammed Serim](https://github.com/mahitox38)
 - [D Sanjay Azhagan](https://github.com/Sanjayazhagan)
@@ -9,7 +11,7 @@
 - [thisispembe](https://github.com/xpembe)
 - [Jesus Lopez](https://github.com/jlopezmarti20)
 - [Sagar Niroula](https://github.com/sagarniroula112)
-[Sambhav Jhunjhunwala](https://github.com/Sambhav774)
+  [Sambhav Jhunjhunwala](https://github.com/Sambhav774)
 - [Yadneshx17](https://github.com/yadneshx17)
 - [Eric Mokuma] (https://github.com/eric-mokuma)
 - [Harry] (https://github.com/CampbellHarry)
@@ -2908,4 +2910,4 @@
 - [Lee Y M](https://github.com/rabbit-friend)
 - [ddelimond](https://github.com/ddelimond/)
 - [xatomen](https://github.com/xatomen)
-- [Aryan](https://github.com/aryan6673)  | a commitment a day keeps unemployment away ;) | LOL XD
+- [Aryan](https://github.com/aryan6673) | a commitment a day keeps unemployment away ;) | LOL XD
