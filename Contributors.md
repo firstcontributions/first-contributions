@@ -5,6 +5,7 @@
 - [Ahmed Nasser]([Git hub account](https://github.com/AhmedNasser-bug))
 - [thisispembe](https://github.com/xpembe)
 - [Jesus Lopez](https://github.com/jlopezmarti20)
+- [Sagar Niroula](https://github.com/sagarniroula112)
 - [Yadneshx17](https://github.com/yadneshx17)
 - [Eric Mokuma] (https://github.com/eric-mokuma)
 - [Harry] (https://github.com/CampbellHarry)
