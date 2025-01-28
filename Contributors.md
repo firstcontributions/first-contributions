@@ -1,15 +1,21 @@
 # Contributors
+- [Loic CHECK](https://github.com/NDZIE444)
 - [Muhammed Serim](https://github.com/mahitox38)
 - [D Sanjay Azhagan](https://github.com/Sanjayazhagan)
+- [EET] (https://github.com/eitheint-ET)
 - [Ibrahim Gaber](https://github.com/IbrahimGaberOfficial) Exiting to start contributing in open-source 😃.
+- [yaswanth narikamalli](https://github.com/Yashu1th)
 - [Ahmed Nasser]([Git hub account](https://github.com/AhmedNasser-bug))
 - [thisispembe](https://github.com/xpembe)
 - [Jesus Lopez](https://github.com/jlopezmarti20)
+- [Sagar Niroula](https://github.com/sagarniroula112)
+[Sambhav Jhunjhunwala](https://github.com/Sambhav774)
 - [Yadneshx17](https://github.com/yadneshx17)
 - [Eric Mokuma] (https://github.com/eric-mokuma)
 - [Harry] (https://github.com/CampbellHarry)
 - Mamai Nataki Hello open source world >]
 - [Marqitos](https://github.com/Marqitos) / [Marcos Porto](https://marcospor.to)
+- [Numan](https://github.com/Numan52)
 - [toolbokz](https://github.com/toolbokz)
 - [CoderAlpha9] (https://github.com/CoderAlpha9)
 - [Venkat-Koushik](https://github.com/vkoushik15)
@@ -23,6 +29,8 @@
 - [Swatantra](https://github.com/Swatantra-66)
 - [IndiraP] (https://github.com/indirapanneer)
 - [Paul Cave](https://github.com/paulcave001)
+- [Durgesh Shekhawat](https://github.com/durgeshhhhhhh)
+- [Durgesh Shekhawat](https://github.com/durgeshhhhhhh)
 - [Omkar Nath](https://github.com/nathomkar799/first-contributions)
 - mridul vaishnav
 - [Mrinal Singh](https://github.com/MrinalSingh04)
@@ -34,7 +42,8 @@
 - [Muhammed Nazim] (https://github.com/MuhammedNazimAK)
 - [whatsup]
 - [shadow-is-hear]
-- [Dobra Palovich[
+- [Dobra Palovich]
+- [sjwhole](https://github.com/sjwhole)
 - [Rachit Agrawal](https://github.com/RachitAgrwal545422)
 - [Ramya Swetha Vejendla](https://github.com/RamyaSwethaVejendla11)
 - [Xerx](https://github.com/Xerx81)
@@ -54,16 +63,20 @@
 - [Aman Deshpande](https://github.com/amandesh694)
 - Janne
 - Aayush Gupta
+- datascrapper
 - [Amirul Hamiezan from Terengganu](https://github.com/mirul-Work)
 - [DavidOlbrz](https://github.com/DavidOlbrz)
 - [JT](https://github.com/jayyyyteee)
 - [Hemank Patwal](https://github.com/hemankpatwal)
+- [Krishna Mouli Morampudi](https://github.com/krishnamouli8)
 - [Adriana Paiva](https://github.com/itsadrianapaiva)
 - [Thejesh Kumar](https://github.com/unedsky)
 - [Sayanjit Mukherjee](https://github.com/Thedrogon)
 - [khsu](https://github.com/Kevin858)
 - [kuklinv](https://github.com/kuklinv)
+- [Hussain Zaidi](https://github.com/hussaynzaidi)
 - Praneeth
+- [pocall23](https://github.com/pocall23)
 - [ebubecodes](https://github.com/ebubecodes)
 - [thisispembe](https://github.com/xpembe)
 - [Srijita](https://github.com/srijita7)
@@ -101,6 +114,7 @@
 - [Kotige](https://github.com/Kotige)
 - [Arham H Khan](https://github.com/arham2003)
 - [Nishanth Devabathini](https://github.com/Nishanth1812)
+- [abraxam](https://github.com/abraxam)
 - Jacob Bowler
 - [Talha Bin Rafique](https://github.com/cykillon3)
 - [Prashant kushwaha] (https://github.com/Prashant211111) 👈**My first contribution.**
@@ -2687,6 +2701,7 @@
 - [Girish Kumar Yadav](https://github.com/Girisssh)
 - [David Tierney] (https://github.com/drtierney)
 - [Aanand] (https://github.com/aanand3)
+- [Zuzu Kobaladze] (<https://github.com/zuzukobaladze>)
 - [Giorgos Neofitou](https://github.com/gneo0)
 - [Code-JL](https://github.com/Code-JL) - A developer interested in all programming, currently working with C++ on inventory management projects
 - [Cristian de la Hoz](https://github.com/cristiandelahooz)
@@ -2731,6 +2746,7 @@
 - [Abdul Aouwal](https://github.com/aouwalitshikkha)
 - [Ellmaer Ranjber](https://github.com/mjollnir03)
 - [Mauricio Mendonca](https://github.com/marmendonca)
+- [Eduard Zabara - draudde](https://github.com/draudde/)
 - [Ashok Gharpankar](https://github.com/ashokgharpankar)
 - [Brayan Brenes Soto](https://github.com/Brayanbs99)
 - [Yohanna Jiryis](http://github.com/MrBlue0177)
@@ -2795,6 +2811,7 @@
 - Udaya Sri(https://github.com/Udaya19SRI)
 - [Likhita](https://github.com/likhita666)
 - Shifra
+- [dshenforza] (https://github.com/dshenforza)
 - Peng Zixuan(https://github.com/wingpeng30)
 - [Moenes Zribi](https://github.com/zribimoenes)
 - [Abafaras Abba] (https://github.com/01Azgad)
@@ -2881,5 +2898,10 @@
 - [phantom-98](https://github.com/phantom-98)
 - [Kriemseeley](https://github.com/Kriemseeley/) Let's go!😼
 - [Piyushbhatt7](https://github.com/Piyushbhatt7) Grateful for my contribution in this repo
+- [Varun Poduri](https://github.com/varunpoduri)
 - [ChetaniyaBajaj](https://github.com/ChetaniyaBajaj)
 - [crismide](https://github.com/crismide)
+- [Kshitij](https://github.com/dkshitij29)
+- [Mihjan Muhammad Ibrahim](https://github.com/mmigetso)
+- [Lee Y M](https://github.com/rabbit-friend)
+- [ddelimond](https://github.com/ddelimond/)
