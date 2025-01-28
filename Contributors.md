@@ -2889,4 +2889,4 @@
 - [ChetaniyaBajaj](https://github.com/ChetaniyaBajaj)
 - [crismide](https://github.com/crismide)
 - [Kshitij](https://github.com/dkshitij29)
-- [MIHJAN MUHAMMAD IBRAHIM](https://github.com/mmigetso)
+- [Mihjan Muhammad Ibrahim](https://github.com/mmigetso)
