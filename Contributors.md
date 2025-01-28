@@ -66,6 +66,7 @@
 - datascrapper
 - [Amirul Hamiezan from Terengganu](https://github.com/mirul-Work)
 - [DavidOlbrz](https://github.com/DavidOlbrz)
+- [Faiz From C.D.G](https://github.com/faizr93)
 - [JT](https://github.com/jayyyyteee)
 - [Hemank Patwal](https://github.com/hemankpatwal)
 - [Krishna Mouli Morampudi](https://github.com/krishnamouli8)
@@ -2844,6 +2845,7 @@
 - [sylvestergah](https://github.com/sylvestergah) 🔥
 - [yegeunyang](https://github.com/yegeunyang)
 - [kvk tejaswi](https://github.com/kvktejaswi)
+- [Avery A.](https://github.com/averyma07)
 - [Rachel Swimmer](https://github.com/rachelSwimmer)
 - [Tehila Friedland](https://github.com/FTehila123)
 - [EsterSokolovsky](https://github.com/EstyS637)
