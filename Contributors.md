@@ -36,6 +36,7 @@
 - [whatsup]
 - [shadow-is-hear]
 - [Dobra Palovich]
+- [sjwhole](https://github.com/sjwhole)
 - [Rachit Agrawal](https://github.com/RachitAgrwal545422)
 - [Ramya Swetha Vejendla](https://github.com/RamyaSwethaVejendla11)
 - [Xerx](https://github.com/Xerx81)
