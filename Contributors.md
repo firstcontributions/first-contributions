@@ -367,6 +367,7 @@
 - [lharsha2005](https://github.com/lharsha2005)
 - [aajliAhmed](https://github.com/aajliAhmed)
 - [mickaelk98](https://github.com/mickaelk98/)
+- [ashrey369](https://github.com/ashrey369)
 - [Dani Matuko](https://github.com/danimatuko)
 - [Rajneesh](https://github.com/iamcreed/): Thanks for My first contribution 👍.
 - [Prashanti](https://github.com/prxshxnti)
