@@ -11,6 +11,7 @@
 - [Harry] (https://github.com/CampbellHarry)
 - Mamai Nataki Hello open source world >]
 - [Marqitos](https://github.com/Marqitos) / [Marcos Porto](https://marcospor.to)
+- [Numan](https://github.com/Numan52)
 - [toolbokz](https://github.com/toolbokz)
 - [CoderAlpha9] (https://github.com/CoderAlpha9)
 - [Venkat-Koushik](https://github.com/vkoushik15)
@@ -67,7 +68,9 @@
 - [Sayanjit Mukherjee](https://github.com/Thedrogon)
 - [khsu](https://github.com/Kevin858)
 - [kuklinv](https://github.com/kuklinv)
+- [Hussain Zaidi](https://github.com/hussaynzaidi)
 - Praneeth
+- [pocall23](https://github.com/pocall23)
 - [ebubecodes](https://github.com/ebubecodes)
 - [thisispembe](https://github.com/xpembe)
 - [Srijita](https://github.com/srijita7)
@@ -2890,3 +2893,5 @@
 - [crismide](https://github.com/crismide)
 - [Kshitij](https://github.com/dkshitij29)
 - [Mihjan Muhammad Ibrahim](https://github.com/mmigetso)
+- [Lee Y M](https://github.com/rabbit-friend)
+- [ddelimond](https://github.com/ddelimond/)
