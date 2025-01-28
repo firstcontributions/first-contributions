@@ -26,6 +26,7 @@
 - [Bhavishya Chaturvedi](https://github.com/Bhavishya-Chaturvedi)
 - [Psammy](https://github.com/Psamm-y/)
 - [Lucas Manuel Alface] (https://github.com/Lucasmanuelmz)
+- [Francesco Ciccone] (https://github.com/Francesco-87)
 - [Xerx](https://github.com/Xerx81) 🫡
 - [vijay](https://github.com/vijayanarasimhareddy)
 - [Swatantra](https://github.com/Swatantra-66)
