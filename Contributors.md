@@ -1,4 +1,5 @@
 # Contributors
+- [Loic CHECK](https://github.com/NDZIE444)
 - [Muhammed Serim](https://github.com/mahitox38)
 - [D Sanjay Azhagan](https://github.com/Sanjayazhagan)
 - [EET] (https://github.com/eitheint-ET)
