@@ -5,17 +5,24 @@
 - [Loic CHECK](https://github.com/NDZIE444)
 - [Muhammed Serim](https://github.com/mahitox38)
 - [Aatif Khan](https://github.com/Aatif-K47)
+- [Shashank Dahake](https://github.com/ShashankDahake7)
 - [D Sanjay Azhagan](https://github.com/Sanjayazhagan)
 - [EET] (https://github.com/eitheint-ET)
 - [Ibrahim Gaber](https://github.com/IbrahimGaberOfficial) Exiting to start contributing in open-source 😃.
 - [Eduardo Molina](https://github.com/edumol8)
+- [Joshoa Castaneda](https://github.com/TILINGO2)
+- [Stephanie Mukami](https://github.com/stephmukami)
 - [yaswanth narikamalli](https://github.com/Yashu1th)
+- [Karolayn Bunay](https://github.com/Karolayn8756)
 - [Sanidhya Rathore](https://github.com/sanidhyarathore)
+-[Carlos junior ]([Git hub account](https://github.com/ImCarlsJ))
 - [Ahmed Nasser]([Git hub account](https://github.com/AhmedNasser-bug))
 [Harsh Vardhan Singh]([https://github.com/HN-9])
 - [thisispembe](https://github.com/xpembe)
+- [Saul Velez] (https://github.com/SaulVelez)
 - [Jai prahanth](https://github.com/Jai-karthi)
 - [Saad Shaikh](https://github.com/saad-0012)
+- [Carlitos mi amorcito] (https://github.com/manuelxd69)
 - [Jesus Lopez](https://github.com/jlopezmarti20)
 - [Sagar Niroula](https://github.com/sagarniroula112)
   [Sambhav Jhunjhunwala](https://github.com/Sambhav774)
@@ -27,12 +34,14 @@
 - Mamai Nataki Hello open source world >]
 - [Daniel Okot](https://github.com/okotdaniel)
 - [Ankit Kumar](https://github.com/1820ANKIT2029)
+- [Eduardo Molina](https://github.com/edumol8)
 - [Marqitos](https://github.com/Marqitos) / [Marcos Porto](https://marcospor.to)
 - [Yojana] (https://github.com/yojanas14)
 - [Numan](https://github.com/Numan52)
 - [Amritansu Aditya] (https://github.com/Amritansu-Adi)
 - [Lin172005](https://github.com/Lin172005)
 - [toolbokz](https://github.com/toolbokz)
+- [CappCat](https://github.com/CappCat)
 - [CoderAlpha9] (https://github.com/CoderAlpha9)
 - [Venkat-Koushik](https://github.com/vkoushik15)
 - [Ratna-Babu](https://github.com/Ratna-Babu)
@@ -61,6 +70,7 @@
 - [Alison Souza](https://github.com/Aouza)
 - [Muhammed Nazim] (https://github.com/MuhammedNazimAK)
 - [Namratha Gummadi] (https://github.com/gnamratha09)
+- [kwnna15](https://github.com/kwnna15) 🚀
 - [whatsup]
 - [takayuki]
 - [Cindy]
@@ -413,6 +423,7 @@
 - [Jeff Martin](https://github.com/siberian-devsky) :01.06.25
 - [Zhen Liu](https://github.com/zh3nl)
 - [ufunc](https://github.com/ufunc)
+- [Johaan K Jis](https://github.com/johaankjis)
 - [Harsh Rana](https://github.com/HarshRana-Simform)
 - [Jonathan Eudja](https://github.com/jjthisguy)
 - [Aditya kr. mishra](https://github.com/adityakrmishra)
@@ -1423,6 +1434,7 @@
 - [Nadav J. Outmezguine](https://github.com/Nadav-out)
 - [Gokularaju](https://github.com/gokul78590)
 - [Oliver](https://github.com/oliverg13)
+- [Phillip Alter](https://github.com/phillip-alter)
 - [Banjo Patrick](https:github.com/Super-Savvy)
 - [Emmanuel Doji](https://github.com/devopsnormad)
 - [Collin Bugash](https://github.com/CollinBugash)
