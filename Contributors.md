@@ -8,7 +8,6 @@
 - [D Sanjay Azhagan](https://github.com/Sanjayazhagan)
 - [EET] (https://github.com/eitheint-ET)
 - [Ibrahim Gaber](https://github.com/IbrahimGaberOfficial) Exiting to start contributing in open-source 😃.
-- [Eduardo Molina](https://github.com/edumol8)
 - [yaswanth narikamalli](https://github.com/Yashu1th)
 - [Sanidhya Rathore](https://github.com/sanidhyarathore)
 - [Ahmed Nasser]([Git hub account](https://github.com/AhmedNasser-bug))
@@ -27,6 +26,7 @@
 - Mamai Nataki Hello open source world >]
 - [Daniel Okot](https://github.com/okotdaniel)
 - [Ankit Kumar](https://github.com/1820ANKIT2029)
+- [Eduardo Molina](https://github.com/edumol8)
 - [Marqitos](https://github.com/Marqitos) / [Marcos Porto](https://marcospor.to)
 - [Yojana] (https://github.com/yojanas14)
 - [Numan](https://github.com/Numan52)
