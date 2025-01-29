@@ -1,5 +1,6 @@
 # Contributors
 
+
 - [Loic CHECK](https://github.com/NDZIE444)
 - [Muhammed Serim](https://github.com/mahitox38)
 - [Aatif Khan](https://github.com/Aatif-K47)
@@ -144,6 +145,7 @@
 - [Chris Banas](https://github.com/chrisbanas)
 - [Gerold Maier](https://github.com/maigero)
 - [Aman K](https://github.com/amankumarmatta)
+- [Victor Alonzo](https://github.com/victorhalonzo)
 - Hello World, Happy Coding!!!![Akshar Rastogi](https://github.com/akshar99/)
 - [Saad Ahmed](https://github.com/MahbubHS) 🟢
 - [Elyas6126](https://github.com/ely67)
