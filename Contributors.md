@@ -1445,6 +1445,7 @@
 - [Two Spikes](https://github.com/TwoSpikes)
 - [Faisal Aduko Wahabu](https://github.com/faisaladuko)
 - [Rituraj Hao](https://github.com/rituraj27)
+- [Ghandy Jimenez]
 - [Sanay Doshi](https://github.com/sanayd)
 - [Naveen Kari](https://github.com/NaveenKari)
 - [Abisola Majeed](https://github.com/AbisolaMajeed)
