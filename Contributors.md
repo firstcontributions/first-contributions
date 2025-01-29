@@ -17,6 +17,7 @@
   [Sambhav Jhunjhunwala](https://github.com/Sambhav774)
 - [Yadneshx17](https://github.com/yadneshx17)
 - [yasaswini majety](https://github.com/yasaswinim09).
+- [Victor Alonzo](https://github.com/victorhalonzo)
 - [Eric Mokuma] (https://github.com/eric-mokuma)
 - [Harry] (https://github.com/CampbellHarry)
 - Mamai Nataki Hello open source world >]
@@ -145,7 +146,6 @@
 - [Chris Banas](https://github.com/chrisbanas)
 - [Gerold Maier](https://github.com/maigero)
 - [Aman K](https://github.com/amankumarmatta)
-- [Victor Alonzo](https://github.com/victorhalonzo)
 - Hello World, Happy Coding!!!![Akshar Rastogi](https://github.com/akshar99/)
 - [Saad Ahmed](https://github.com/MahbubHS) 🟢
 - [Elyas6126](https://github.com/ely67)
