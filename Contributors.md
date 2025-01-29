@@ -50,6 +50,7 @@
 - [Alison Souza](https://github.com/Aouza)
 - [Muhammed Nazim] (https://github.com/MuhammedNazimAK)
 - [whatsup]
+- [takayuki]
 - [Cindy]
 - [shadow-is-hear]
 - [Dobra Palovich]
