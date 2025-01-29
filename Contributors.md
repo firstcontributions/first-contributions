@@ -314,7 +314,7 @@
 - [Sebastián Robles](https://github.com/LTAuro84)
 - [Reinaldo Robles](https://github.com/Robodlan)
 - [PavanVenkataNagaManoj17](https://github.com/PavanVenkataNagaManoj17)
-- [Gustavo Sabath] (https://github.com/gustavosabath)
+- [Gustavo Sabath](https://github.com/gustavosabath)
 - [Kevin Kasozi](https://github.com/KevinKasozi)
 - [David Nguyen] (https://github.com/davido-noowin/):
 - [David Uche] (https://github.com/acarsondave): **: Exploring Github...**
