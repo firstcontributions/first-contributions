@@ -68,6 +68,7 @@
 - [Alison Souza](https://github.com/Aouza)
 - [Muhammed Nazim] (https://github.com/MuhammedNazimAK)
 - [Namratha Gummadi] (https://github.com/gnamratha09)
+- [kwnna15](https://github.com/kwnna15) 🚀
 - [whatsup]
 - [takayuki]
 - [Cindy]
