@@ -1,5 +1,5 @@
 # Contributors
-
+- [Sarang Jayagopal](https://github.com/Sarang-2004)
 - [Loic CHECK](https://github.com/NDZIE444)
 - [Muhammed Serim](https://github.com/mahitox38)
 - [Aatif Khan](https://github.com/Aatif-K47)
