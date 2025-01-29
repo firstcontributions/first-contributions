@@ -49,6 +49,7 @@
 - [Alison Souza](https://github.com/Aouza)
 - [Muhammed Nazim] (https://github.com/MuhammedNazimAK)
 - [whatsup]
+- [Cindy]
 - [shadow-is-hear]
 - [Dobra Palovich]
 - [sjwhole](https://github.com/sjwhole)
