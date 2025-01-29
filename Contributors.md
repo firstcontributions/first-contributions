@@ -42,6 +42,7 @@
 - [Omkar Nath](https://github.com/nathomkar799/first-contributions)
 - mridul vaishnav
 - [Mrinal Singh](https://github.com/MrinalSingh04)
+- [Mkrsun](https://github.com/Mkrsun)
 - [Shalini](https://github.com/ShaliniKashyap717)
 - [Deepak](https://github.com/deepaksingh126)
 - [Polianthiel - Hello World]
