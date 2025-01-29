@@ -116,6 +116,7 @@
 - [Jorge Hecherat](https://github.com/Hechprad)
 - [Hnin Wai Phoo](https://github.com/HninWaiPhoo)
 - [Kaushik Namburi](https://github.com/KaushikNamburi)
+- [Nursultan Maulen](https://github.com/NursultanMaulen)
   **First Contribution!!!**
 - _Frontend Developer & Enthusiast 🚀_
 - [Stella](https://github.com/KyelSin) **First Contribution(♡˙︶˙♡)**
