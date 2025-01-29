@@ -60,6 +60,7 @@
 - [whatsup]
 - [takayuki]
 - [Cindy]
+- [Shaikat](https://github.com/Shaikats/)
 - [shadow-is-hear]
 - [Dobra Palovich]
 - [sjwhole](https://github.com/sjwhole)
