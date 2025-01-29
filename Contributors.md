@@ -20,6 +20,7 @@
 - [Harry] (https://github.com/CampbellHarry)
 - Mamai Nataki Hello open source world >]
 - [Daniel Okot](https://github.com/okotdaniel)
+- [Ankit Kumar](https://github.com/1820ANKIT2029)
 - [Marqitos](https://github.com/Marqitos) / [Marcos Porto](https://marcospor.to)
 - [Numan](https://github.com/Numan52)
 - [Amritansu Aditya] (https://github.com/Amritansu-Adi)
