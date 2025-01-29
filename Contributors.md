@@ -54,6 +54,7 @@
 - [Matthew Ray](https://github.com/MatthewRayUk)
 - [Alison Souza](https://github.com/Aouza)
 - [Muhammed Nazim] (https://github.com/MuhammedNazimAK)
+- [Namratha Gummadi] (https://github.com/gnamratha09)
 - [whatsup]
 - [takayuki]
 - [Cindy]
