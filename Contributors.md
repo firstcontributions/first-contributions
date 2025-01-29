@@ -19,6 +19,7 @@
 - [Saul Velez] (https://github.com/SaulVelez)
 - [Jai prahanth](https://github.com/Jai-karthi)
 - [Saad Shaikh](https://github.com/saad-0012)
+- [Carlitos mi amorcito] (https://github.com/manuelxd69)
 - [Jesus Lopez](https://github.com/jlopezmarti20)
 - [Sagar Niroula](https://github.com/sagarniroula112)
   [Sambhav Jhunjhunwala](https://github.com/Sambhav774)
