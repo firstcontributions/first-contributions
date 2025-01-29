@@ -1,5 +1,5 @@
 # Contributors
-
+- [Sarang Jayagopal](https://github.com/Sarang-2004)
 - [Loic CHECK](https://github.com/NDZIE444)
 - [Muhammed Serim](https://github.com/mahitox38)
 - [Aatif Khan](https://github.com/Aatif-K47)
@@ -11,6 +11,7 @@
 - [Ahmed Nasser]([Git hub account](https://github.com/AhmedNasser-bug))
 [Harsh Vardhan Singh]([https://github.com/HN-9])
 - [thisispembe](https://github.com/xpembe)
+- [Jai prahanth](https://github.com/Jai-karthi)
 - [Saad Shaikh](https://github.com/saad-0012)
 - [Jesus Lopez](https://github.com/jlopezmarti20)
 - [Sagar Niroula](https://github.com/sagarniroula112)
@@ -34,6 +35,7 @@
 - [Jephthah Orobia](https://github.com/jephthah-orobia) / [sirjhep.dev ![sirjhep.dev](https://sirjhep.dev/images/favicon/favicon-16x16.png)](https://sirjhep.dev)
 - [Bhavishya Chaturvedi](https://github.com/Bhavishya-Chaturvedi)
 - [Psammy](https://github.com/Psamm-y/)
+-[Jai Prashanth](https://github.com/Jai-karthi)
 - [Lucas Manuel Alface] (https://github.com/Lucasmanuelmz)
 - [Francesco Ciccone] (https://github.com/Francesco-87)
 - [Xerx](https://github.com/Xerx81) 🫡
@@ -54,6 +56,7 @@
 - [Matthew Ray](https://github.com/MatthewRayUk)
 - [Alison Souza](https://github.com/Aouza)
 - [Muhammed Nazim] (https://github.com/MuhammedNazimAK)
+- [Namratha Gummadi] (https://github.com/gnamratha09)
 - [whatsup]
 - [takayuki]
 - [Cindy]
@@ -73,7 +76,9 @@
 - [Ye Lin Ko](https://github.com/yelinko20)
 - [Devan Parekh](https://github.com/devpar)
 - [doing1024](https://github.com/doing1024)
-- [Tav0nes](https://github.com/Tav0nes) -[Zac W](https://github.com/ZacWJ1)
+- [Tav0nes](https://github.com/Tav0nes)
+- [Sardarsadiq](https://github.com/Sardar-Sadiq)
+- [Zac W](https://github.com/ZacWJ1)
 - [MobyTh1cc] (https://github.com/MobyTh1cc)
 - [Ujjwal Pandit](https://github.com/Ujjwal-Pandit)
 - [Aman Deshpande](https://github.com/amandesh694)
@@ -313,7 +318,7 @@
 - [Sebastián Robles](https://github.com/LTAuro84)
 - [Reinaldo Robles](https://github.com/Robodlan)
 - [PavanVenkataNagaManoj17](https://github.com/PavanVenkataNagaManoj17)
-- [Gustavo Sabath] (https://github.com/gustavosabath)
+- [Gustavo Sabath](https://github.com/gustavosabath)
 - [Kevin Kasozi](https://github.com/KevinKasozi)
 - [David Nguyen] (https://github.com/davido-noowin/):
 - [David Uche] (https://github.com/acarsondave): **: Exploring Github...**
