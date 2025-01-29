@@ -1889,6 +1889,7 @@
 - [Reiner Balschun](https://github.com/ReinerBalschun)
 - Nandini Kashyap
 - [arrayMi](https://github.com/arrayMi)
+- [Whytebread]
 - [Ashish Dochania](https://github.com/AshishDochania)
 - [N1krat](https://github.com/N1krat)
 - [Nikalas Armstrong](https://github.com/hangonasecond)
