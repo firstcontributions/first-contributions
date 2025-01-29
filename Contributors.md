@@ -10,6 +10,7 @@
 - [Ibrahim Gaber](https://github.com/IbrahimGaberOfficial) Exiting to start contributing in open-source 😃.
 - [yaswanth narikamalli](https://github.com/Yashu1th)
 - [Sanidhya Rathore](https://github.com/sanidhyarathore)
+-[Carlos junior ]([Git hub account](https://github.com/ImCarlsJ))
 - [Ahmed Nasser]([Git hub account](https://github.com/AhmedNasser-bug))
 [Harsh Vardhan Singh]([https://github.com/HN-9])
 - [thisispembe](https://github.com/xpembe)
