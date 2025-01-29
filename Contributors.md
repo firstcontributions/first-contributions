@@ -17,7 +17,7 @@
   [Sambhav Jhunjhunwala](https://github.com/Sambhav774)
 - [Yadneshx17](https://github.com/yadneshx17)
 - [yasaswini majety](https://github.com/yasaswinim09).
-- [Victor Alonzo](https://github.com/victorhalonzo)
+- [Victor Alonzo](https://github.com/victorhalonzo) caballero de plata
 - [Eric Mokuma] (https://github.com/eric-mokuma)
 - [Harry] (https://github.com/CampbellHarry)
 - Mamai Nataki Hello open source world >]
