@@ -315,6 +315,7 @@
 - [Vorahpong Mean](https://github.com/VorahPong)
 - [Vivek Chudasama](https://github.com/vivekchudasama-2004)
 - Infernal Blueberry
+- [Haxaru](https://github.com/Haxaru) It's amazing to see so many contributors <3
 - Annie was here
 - [karim](https://github.com/khlkarim): feels like a yearbook
 - meh...idk
