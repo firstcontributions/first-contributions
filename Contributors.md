@@ -7,6 +7,7 @@
 - [0v3nb1rd](https://github.com/0v3nb1rd)
 - [Loic CHECK](https://github.com/NDZIE444)
 - [Muhammed Serim](https://github.com/mahitox38)
+- [Otavio Gomes](https://github.com/otgomes) 👈(ﾟヮﾟ 👈)
 - [Aatif Khan](https://github.com/Aatif-K47)
 - [Shashank Dahake](https://github.com/ShashankDahake7)
 - [D Sanjay Azhagan](https://github.com/Sanjayazhagan)
