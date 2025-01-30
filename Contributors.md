@@ -2820,6 +2820,7 @@
 - [kjgino](https://github.com/kjgino)
 - [Özgür Sönmez](https://github.com/ozgursnmz)
 - BabsTech
+- SvybGit
 - [InigoMontoya]
 - [Defalt-Meh](https://github.com/Defalt-Meh)
 - [Jaime Velez](https://github.com/vlzjc)
