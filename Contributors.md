@@ -443,6 +443,7 @@
 - [Anurag Choudhury](https://github.com/Anurag9977) : New to open source contributions!
 - [Harshit Joshi](https://github.com/harsh040206)
 - [Aditya Kumar Jha ](https://github.com/Aditya-myst)
+- [Damien Salls](https://github.com/dmien47)
 - [Anthony Pizzoni](https://github.com/HINKOKO) :01.11.25 Hello contributors !
 - [Sargunesh](https://github.com/sargunesh25)
 - [Gayatri](https://github.com/gayatriiv)
