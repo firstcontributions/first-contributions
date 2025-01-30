@@ -11,6 +11,7 @@
 - [Ibrahim Gaber](https://github.com/IbrahimGaberOfficial) Exiting to start contributing in open-source 😃.
 - [Eduardo Molina](https://github.com/edumol8)
 - [Joshoa Castaneda](https://github.com/TILINGO2)
+- [Vanstr](https://github.com/vanstr)
 - [Stephanie Mukami](https://github.com/stephmukami)
 - [yaswanth narikamalli](https://github.com/Yashu1th)
 - [Karolayn Bunay](https://github.com/Karolayn8756)
