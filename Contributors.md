@@ -1,4 +1,5 @@
 # Contributors
+- [Vipul Singh](https://github.com/vipulsc)
 - [Sarang Jayagopal](https://github.com/Sarang-2004)
 - [Dharambir Agrawal](https://github.com/DharambirAgrawal)
 - [Sushovit Shah](https://github.com/Sushovit204)
