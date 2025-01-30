@@ -877,6 +877,7 @@
 - [Gabriel Vieira](https://www.linkedin.com/in/gabrielvieirasantos/)
 - Mradul
 - [Ahmer Mehmood](https://github.com/Itachi0007)
+- AJ
 - Lucie C.
 - Ron G.
 - RhazhBash
