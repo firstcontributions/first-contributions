@@ -1,6 +1,7 @@
 # Contributors
 - [Sarang Jayagopal](https://github.com/Sarang-2004)
 - [Dharambir Agrawal](https://github.com/DharambirAgrawal)
+- [Sushovit Shah](https://github.com/Sushovit204)
 - [0v3nb1rd](https://github.com/0v3nb1rd)
 - [Loic CHECK](https://github.com/NDZIE444)
 - [Muhammed Serim](https://github.com/mahitox38)
