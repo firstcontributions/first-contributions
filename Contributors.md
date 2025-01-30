@@ -2975,3 +2975,4 @@
 - [spailll](https://github.com/spailll) Hi
 - [Harshdeep](https://github.com/harshdeepsdhillon1) | Got a job !
 - [xpedroyx](https://github.com/xpedrotx) | apple pen!
+- [Amy](https://github.com/APape95)
