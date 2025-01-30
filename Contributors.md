@@ -1,7 +1,8 @@
 # Contributors
-
+- [Vipul Singh](https://github.com/vipulsc)
 - [Sarang Jayagopal](https://github.com/Sarang-2004)
 - [Dharambir Agrawal](https://github.com/DharambirAgrawal)
+- [Sushovit Shah](https://github.com/Sushovit204)
 - [0v3nb1rd](https://github.com/0v3nb1rd)
 - [Loic CHECK](https://github.com/NDZIE444)
 - [Muhammed Serim](https://github.com/mahitox38)
@@ -12,6 +13,8 @@
 - [Ibrahim Gaber](https://github.com/IbrahimGaberOfficial) Exiting to start contributing in open-source 😃.
 - [Eduardo Molina](https://github.com/edumol8)
 - [Joshoa Castaneda](https://github.com/TILINGO2)
+- [Max Bakoian] (https://github.com/maxdbakoian)
+- [Vanstr](https://github.com/vanstr)
 - [Stephanie Mukami](https://github.com/stephmukami)
 - [yaswanth narikamalli](https://github.com/Yashu1th)
 - [Karolayn Bunay](https://github.com/Karolayn8756)
@@ -81,6 +84,7 @@
 - [Ramya Swetha Vejendla](https://github.com/RamyaSwethaVejendla11)
 - [Xerx](https://github.com/Xerx81)
 - [RandithaK](https://github.com/RandithaK)
+- [Mandhata Pathak](https://github.com/Mandhata001)
 - [Rashmika Naveen](https://github.com/rashmikanaveen)
 - [alismx](https://github.com/alismx)
 - [sandeepgurram](https://github.com/gurram46)
@@ -162,6 +166,7 @@
 - [Prashant kushwaha] (https://github.com/Prashant211111) 👈**My first contribution.**
 - [Jivi-this-side ^\_^](https://github.com/Jivi-this-side)
 - [mohit5723](https://github.com/mohit5723)
+- [Mayen007](https://github.com/mayen007)
 - [Redbellpepper7079](https://github.com/Redbellpepper7079) \*\*
 - [SVSHV](https://github.com/SVSHV)
 - [Alex Hagen] (https://github.com/Paucey)
@@ -1674,6 +1679,7 @@
 - [Leul Adnew](https://github.com/leulad)
 - [Fabricio](https://github.com/fabsantana)
 - [PancakesForRent](https://github.com/PancakesForRent)
+- [hokeiiiching](https://github.com/hokeiiiching)
 - [SurendharGN](https://github.com/SurendharGN)
 - [Yashas-naidu](https://github.com/Yashas-naidu)
 - [tejas-mn](https://github.com/tejas-mn)
@@ -2972,3 +2978,6 @@
 - [Zpon](https://github.com/Zpon1992) first try.
 - [spailll](https://github.com/spailll) Hi
 - [Harshdeep](https://github.com/harshdeepsdhillon1) | Got a job !
+- [xpedroyx](https://github.com/xpedrotx) | apple pen!
+- [Amy](https://github.com/APape95)
+- [FabioCanavarro](https://github.com/FabioCanavarro) | Goal: 10 Open source contribution before june
