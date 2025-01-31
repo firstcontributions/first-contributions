@@ -1,4 +1,5 @@
 # Contributors
+- [Basil Ahamed](https://github.com/basilahamed07)
 - [Vipul Singh](https://github.com/vipulsc)
 - [Aditi Babu](https://github.com/aditib25)
 - [Sarang Jayagopal](https://github.com/Sarang-2004)
