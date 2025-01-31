@@ -2866,4 +2866,4 @@ mridul vaishnav
 - [phantom-98](https://github.com/phantom-98)
 - [Kriemseeley](https://github.com/Kriemseeley/) Let's go!😼
 - [Piyushbhatt7](https://github.com/Piyushbhatt7) Grateful for my contribution in this repo
-- [ChandniMehta](https://github.com/chand192004) learning is fun!
+- [ChandniMehta](https://github.com/chand192004) learning is fun
