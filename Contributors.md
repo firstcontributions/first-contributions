@@ -2009,6 +2009,7 @@ Hello coders
 - [atomic-soul](https://github.com/atomic-soul)
 - [Abhinav](https://github.com/malteezy)
 - [Andy Nguyen](https://github.com/AndyVuong201)
+- [Kyler Smith](https://github.com/jytole)
 - [David Cao](https://github.com/dave-cao)
 - [Bat-Hen Sharvit](https://github.com/bat-chen)
 - [Matteo Urso](https://github.com/MatteoUrso)
