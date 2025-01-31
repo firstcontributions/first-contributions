@@ -2443,6 +2443,7 @@
 - [Maurizio Morgano](https://github.com/mmorgano)
 - [Dewguy] (https://github.com/Dewguy)
 - [Pasquotcho] (https://github.com/Pasquotcho)
+- [Andero]
 - [K S Sai Teja](https://github.com/kssaiteja)
 - [Venkatraj](https://github.com/ivenkatraj)
 - [Tristan Hyams](https://github.com/tristanhyams)
