@@ -1,5 +1,5 @@
 # Contributors
-
+- [Tony Montana](https://github.com/tonymont4n4)
 - [Basil Ahamed](https://github.com/basilahamed07)
 - [mrgamernavshorts](https://github.com/mrgamernavshorts)
 - [itz_skeshri](https://github.com/itz-skeshri)
