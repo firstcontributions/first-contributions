@@ -1775,6 +1775,7 @@
 - [Guilherme Gomes](https://github.com/oGigaflops)
 - [David Nawl Sang Lui](http://github.com/David-Sang96)
 - [Sambhav Sharma](https://github.com/Dev-Sambhav)
+- [Diana Lourenço](https://github.com/dianalourenco)
 - [Yuvaraj V](https://github.com/Yuvaraj643)
 - [Ikuo Ohba](https://github.com/ohba-ikuo)
 - [el amine 404](https://github.com/el-amine-404)
