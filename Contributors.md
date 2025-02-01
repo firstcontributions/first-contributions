@@ -38,6 +38,7 @@
 - [Zeeshan Niaz] (https://github.com/mrzeeshanniaz)
 - [Rishabh Chordiya] (https://github.com/rishabhc33)
 - [Isra HQ](https://github.com/rhizvo)
+- [Yvona](https://github.com/YvonaAci)
 - [Jesus Lopez](https://github.com/jlopezmarti20)
 - [Sagar Niroula](https://github.com/sagarniroula112)
   [Sambhav Jhunjhunwala](https://github.com/Sambhav774)
@@ -3021,3 +3022,4 @@ Hello coders
 - [Lianna Bolivar](https://github.com/woomy32)
 - [AIQuantumCore](https://github.com/AIQuantumCore)
 - [Wunna](https://github.com/wunna11)
+- [ProperPickle](https://github.com/ProperPickle)
