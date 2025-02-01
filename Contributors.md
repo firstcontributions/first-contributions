@@ -134,7 +134,6 @@
 - Aayush Gupta
 - datascrapper
 - [Amirul Hamiezan from Terengganu](https://github.com/mirul-Work)
-- 
 - [DavidOlbrz](https://github.com/DavidOlbrz)
 - [Faiz From C.D.G](https://github.com/faizr93)
 - [JT](https://github.com/jayyyyteee)
