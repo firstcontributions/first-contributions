@@ -66,6 +66,7 @@
 - [Ratna-Babu](https://github.com/Ratna-Babu)
 - [Jephthah Orobia](https://github.com/jephthah-orobia) / [sirjhep.dev ![sirjhep.dev](https://sirjhep.dev/images/favicon/favicon-16x16.png)](https://sirjhep.dev)
 - [Bhavishya Chaturvedi](https://github.com/Bhavishya-Chaturvedi)
+- [Gagan](https://github.com/gagan-j)
 - [Psammy](https://github.com/Psamm-y/) -[Jai Prashanth](https://github.com/Jai-karthi)
 - [Lucas Manuel Alface] (https://github.com/Lucasmanuelmz)
 - [Francesco Ciccone] (https://github.com/Francesco-87)
