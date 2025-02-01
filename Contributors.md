@@ -3039,7 +3039,8 @@
 - [Surajam29](https://github.com/Surajam29)
 - [ProperPickle](https://github.com/ProperPickle)
 - [yiquanfeng](https://github.com/yiquanfeng)
-- [ibrahim-sisar](https://github.com/ibrahim-sisar) from gaza Palestine
+- [Codeveno](https://github.com/Codeveno)
+- [ibrahim-sisar](https://github.com/ibrahim-sisar) from Gaza, Palestine
 - [EshanyaORNifa1211](https://github.com/Nifa1211)
 - [RefatChowdhury](https://github.com/refatchowdhury)
 - [Di Heqiu](https://github.com/Di-Heqiu)
