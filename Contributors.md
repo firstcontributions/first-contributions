@@ -1802,7 +1802,7 @@
 - [Jason Scott](https://github.com/Scott-Jason)
 - [Metti Alinia](https://github.com/mett-E/)
 - [Shishir Kr](https://github.com/krshishir1)
-- 🐈‍⬛[lonely_caat](https://github.com/lonely-caat)🐈‍⬛
+- 🐈‍⬛[lonely_caat](https://github.com/lonely-cat)🐈‍⬛
 - [Gatere Kinyanjui](https://github.com/gatere-kinyanjui)
 - [Aleksander C](https://github.com/meritant)
 - [Saur-av](https://github.com/Saur-av/) # Thanks for help
