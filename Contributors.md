@@ -1,4 +1,5 @@
 # Contributors
+
 - [Basil Ahamed](https://github.com/basilahamed07)
 - [mrgamernavshorts](https://github.com/mrgamernavshorts)
 - [Savvas Fam](https://github.com/sabliran) Hello everyone! :D
@@ -21,8 +22,7 @@
 - [Dheeraz] (https://github.com/dheeraz101/)
 - [EET] (https://github.com/eitheint-ET)
 - [Ibrahim Gaber](https://github.com/IbrahimGaberOfficial) Exiting to start contributing in open-source 😃.
-- [Eduardo Molina](https://github.com/edumol8)
--[Jacqueline Joya](https://github.com/Jackiesafari)
+- [Eduardo Molina](https://github.com/edumol8) -[Jacqueline Joya](https://github.com/Jackiesafari)
 - [Joshoa Castaneda](https://github.com/TILINGO2)
 - [Max Bakoian] (https://github.com/maxdbakoian)
 - [Vanstr](https://github.com/vanstr)
@@ -1013,7 +1013,7 @@
 - [Magdalin princy](https://github.com/Magdalinprincy/)
 - [Hector-Ventura](https://github.com/0Label0)
 - [hide361](https://github.com/hide361)
-Hello coders
+  Hello coders
 - [Sneha Singh](https://github.com/snehasingh-25)
 - [Varun Tadpatri](https://github.com/varun2799dev)
 - [Sheikh Mujtaba](https://github.com/Sheikh-Muhammad-Mujtaba)
@@ -3021,6 +3021,7 @@ Hello coders
 - [HELLO,I am cty](https://github.com/awsomecty) BE HAPPY EVERYDAY
 - [Hello everyone! I am so excited to be a part of this contribution](https://github.com/Shilpa3107)
 - [Harris Salimo](https://github.com/harris-salimo)
+- [Anas Rabhi](https://github.com/annous246)
 - [Antonio Azmovi Cicero](https://github.com/azmovi)
 - [Luiz Otávio Teixeira Mello](https://github.com/LuizOt31) | Hello mundo!
 - [Aidan Cooper](https://github.com/AidanCooper2003)
