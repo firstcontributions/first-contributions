@@ -52,6 +52,7 @@
 - [Harry] (https://github.com/CampbellHarry)
 - Mamai Nataki Hello open source world >]
 - [Daniel Okot](https://github.com/okotdaniel)
+- [Vikash Choudhary](https://github.com/Vikash0132])
 - [Ankit Kumar](https://github.com/1820ANKIT2029)
 - [Eduardo Molina](https://github.com/edumol8)
 - [Marqitos](https://github.com/Marqitos) / [Marcos Porto](https://marcospor.to)
