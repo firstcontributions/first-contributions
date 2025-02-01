@@ -1,5 +1,7 @@
 # Contributors
+
 - [Tony Montana](https://github.com/tonymont4n4)
+- [K M Arif](https://github.com/kmarif2006)
 - [Omar Suarez](https://github.com/omar-suarez)
 - [Basil Ahamed](https://github.com/basilahamed07)
 - [mrgamernavshorts](https://github.com/mrgamernavshorts)
@@ -56,7 +58,7 @@
 - [Harry](https://github.com/CampbellHarry)
 - Mamai Nataki Hello open source world >]
 - [Daniel Okot](https://github.com/okotdaniel)
-- [Mohamed Elsadek](https://github.com/mobaqii) *DEVOPS*
+- [Mohamed Elsadek](https://github.com/mobaqii) _DEVOPS_
 - [Vikash Choudhary](https://github.com/Vikash0132])
 - [Ankit Kumar](https://github.com/1820ANKIT2029)
 - [Eduardo Molina](https://github.com/edumol8)
@@ -2804,7 +2806,7 @@
 - [Girish Kumar Yadav](https://github.com/Girisssh)
 - [David Tierney](https://github.com/drtierney)
 - [Aanand](https://github.com/aanand3)
-- [Zuzu Kobaladze](<https://github.com/zuzukobaladze>)
+- [Zuzu Kobaladze](https://github.com/zuzukobaladze)
 - [Giorgos Neofitou](https://github.com/gneo0)
 - [Code-JL](https://github.com/Code-JL) - A developer interested in all programming, currently working with C++ on inventory management projects
 - [Cristian de la Hoz](https://github.com/cristiandelahooz)
@@ -2985,7 +2987,7 @@
 - yhliu
 - [Mohamed Sano]
 - [Raeef Chowdhury](https://github.com/Raeef-Chowdhury) 15 year old aspiring bengali Developer 💪💪💪
-- [Parth Dubal](<https://github.com/Parth00>)
+- [Parth Dubal](https://github.com/Parth00)
 - [Roja Kodur](https://github.com/rojakoduru09)
 - [iveseentheworld](https://github.com/ResetPlease)
 - [Daniel Strielnikow](https://github.com/danielStrielnikow)
