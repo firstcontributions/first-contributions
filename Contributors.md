@@ -5,7 +5,6 @@
 - [Vipul Singh](https://github.com/vipulsc)
 - [Salma Fadl Azzam](https://github.com/salmafadlabdulrahman)
 - [Cindy Muraya](https://github.com/CindyMuraya)
-
 - [Aditi Babu](https://github.com/aditib25)
 - [Sarang Jayagopal](https://github.com/Sarang-2004)
 - [Dharambir Agrawal](https://github.com/DharambirAgrawal)
