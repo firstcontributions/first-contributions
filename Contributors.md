@@ -1,5 +1,6 @@
 # Contributors
 - [Basil Ahamed](https://github.com/basilahamed07)
+- [mrgamernavshorts](https://github.com/mrgamernavshorts)
 - [Savvas Fam](https://github.com/sabliran) Hello everyone! :D
 - [Sergi Castarnado](https://github.com/scastarnado)
 - [Vipul Singh](https://github.com/vipulsc)
