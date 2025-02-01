@@ -80,6 +80,7 @@
 - [Francesco Ciccone](https://github.com/Francesco-87)
 - [Xerx](https://github.com/Xerx81) 🫡
 - [vijay](https://github.com/vijayanarasimhareddy)
+- [Innocente Mutabazi Umuhuza](https://github.com/innocentemutabazi)
 - [Swatantra](https://github.com/Swatantra-66)
 - [IndiraP](https://github.com/indirapanneer)
 - [Paul Cave](https://github.com/paulcave001)
