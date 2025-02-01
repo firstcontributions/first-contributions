@@ -21,6 +21,7 @@
 - [Aatif Khan](https://github.com/Aatif-K47)
 - [Shashank Dahake](https://github.com/ShashankDahake7)
 - [D Sanjay Azhagan](https://github.com/Sanjayazhagan)
+- [David Kamau](https://github.com/Pak-Man926) My first Contribution, I'm excited!
 - [Dheeraz](https://github.com/dheeraz101/)
 - [EET](https://github.com/eitheint-ET)
 - [Ibrahim Gaber](https://github.com/IbrahimGaberOfficial) Exiting to start contributing in open-source 😃.
