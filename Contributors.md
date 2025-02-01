@@ -242,6 +242,7 @@
 - [Aoife Mulvenna](https://github.com/aoife-mulvennna)
 - [Medha](https://github.com/medss19)
 - [aries967](https://github.com/aries967)
+- [Gojer16](https://github.com/Gojer16)
 - [Martti Z](https://github.com/marttiil)
 - [Mathdallas-code](https://github.com/Mathdallas-code)
 - [Zayar Linn](https://github.com/zayarlinnwebster)
