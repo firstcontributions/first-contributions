@@ -3036,4 +3036,6 @@
 - [ProperPickle](https://github.com/ProperPickle)
 - [yiquanfeng](https://github.com/yiquanfeng)
 - [Codeveno](https://github.com/Codeveno)
+- [ibrahim-sisar](https://github.com/ibrahim-sisar) from Gaza, Palestine
+- [EshanyaORNifa1211](https://github.com/Nifa1211)
 
