@@ -3,6 +3,7 @@
 - [Omar Suarez](https://github.com/omar-suarez)
 - [Basil Ahamed](https://github.com/basilahamed07)
 - [mrgamernavshorts](https://github.com/mrgamernavshorts)
+- [itz_skeshri](https://github.com/itz-skeshri)
 - [Savvas Fam](https://github.com/sabliran) Hello everyone! :D
 - [Sergi Castarnado](https://github.com/scastarnado)
 - [Vipul Singh](https://github.com/vipulsc)
@@ -10,6 +11,7 @@
 - [Salma Fadl Azzam](https://github.com/salmafadlabdulrahman)
 - [Cindy Muraya](https://github.com/CindyMuraya)
 - [Aditi Babu](https://github.com/aditib25)
+- [Lucas Souza](https://github.com/lucasrbsouza)
 - [Sarang Jayagopal](https://github.com/Sarang-2004)
 - [Dharambir Agrawal](https://github.com/DharambirAgrawal)
 - [Sushovit Shah](https://github.com/Sushovit204)
@@ -20,6 +22,7 @@
 - [Aatif Khan](https://github.com/Aatif-K47)
 - [Shashank Dahake](https://github.com/ShashankDahake7)
 - [D Sanjay Azhagan](https://github.com/Sanjayazhagan)
+- [David Kamau](https://github.com/Pak-Man926) My first Contribution, I'm excited!
 - [Dheeraz](https://github.com/dheeraz101/)
 - [EET](https://github.com/eitheint-ET)
 - [Ibrahim Gaber](https://github.com/IbrahimGaberOfficial) Exiting to start contributing in open-source 😃.
@@ -1803,7 +1806,7 @@
 - [Jason Scott](https://github.com/Scott-Jason)
 - [Metti Alinia](https://github.com/mett-E/)
 - [Shishir Kr](https://github.com/krshishir1)
-- 🐈‍⬛[lonely_caat](https://github.com/lonely-caat)🐈‍⬛
+- 🐈‍⬛[lonely_caat](https://github.com/lonely-cat)🐈‍⬛
 - [Gatere Kinyanjui](https://github.com/gatere-kinyanjui)
 - [Aleksander C](https://github.com/meritant)
 - [Saur-av](https://github.com/Saur-av/) # Thanks for help
@@ -2602,6 +2605,7 @@
 - cyber9host
 - [Manasa32264](https://github.com/Manasa32264)
 - nitewing9000
+- [Teja Routhu](https://github.com/tejarouthu007)
 - [Roberta Aguilar](https://github.com/robertarfa)
 - [Tiggersosu]
 - [Saumya Thakkar](https://github.com/Deathstar1999)
@@ -3032,9 +3036,14 @@
 - [Lianna Bolivar](https://github.com/woomy32)
 - [AIQuantumCore](https://github.com/AIQuantumCore)
 - [jone-cmd](https://github.com/jone-cmd)
+- [Anderson Hexsel](https://github.com/hexsel007)
 - [Wunna](https://github.com/wunna11)
 - [Surajam29](https://github.com/Surajam29)
 - [ProperPickle](https://github.com/ProperPickle)
 - [yiquanfeng](https://github.com/yiquanfeng)
-- [ibrahim-sisar](https://github.com/ibrahim-sisar) from gaza Palestine
+- [Codeveno](https://github.com/Codeveno)
+- [ibrahim-sisar](https://github.com/ibrahim-sisar) from Gaza, Palestine
 - [EshanyaORNifa1211](https://github.com/Nifa1211)
+- [RefatChowdhury](https://github.com/refatchowdhury)
+- [Di Heqiu](https://github.com/Di-Heqiu)
+- [Sahil Alr](https://github.com/sahilalr)
