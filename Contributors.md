@@ -3019,3 +3019,4 @@ Hello coders
 - [Lianna Bolivar](https://github.com/woomy32)
 - [AIQuantumCore](https://github.com/AIQuantumCore)
 - [Wunna](https://github.com/wunna11)
+- [ProperPickle](https://github.com/ProperPickle)
