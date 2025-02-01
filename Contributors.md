@@ -3021,5 +3021,6 @@ Hello coders
 - [Aidan Cooper](https://github.com/AidanCooper2003)
 - [Lianna Bolivar](https://github.com/woomy32)
 - [AIQuantumCore](https://github.com/AIQuantumCore)
+- [jone-cmd](https://github.com/jone-cmd)
 - [Wunna](https://github.com/wunna11)
 - [ProperPickle](https://github.com/ProperPickle)
