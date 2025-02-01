@@ -487,6 +487,7 @@
 - [sls-1](https://github.com/sls-1)
 - [Anurag Chaturvedi](https://github.com/anuragjcchaturvedi)
 - [Manas Mahajan](https://github.com/ManasMahajan2003)
+- [Christopher O.](https://github.com/limitpointinf0)
 - [SNN](https://github.com/sungenyeint)
   [abhijeeth m](https://github.com/abhijeeth-mantha)
   [Maximilian Wu](https://github.com/maxiwu13133/) : **Hopeful for my journey**
