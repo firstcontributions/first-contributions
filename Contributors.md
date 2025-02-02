@@ -16,6 +16,7 @@
 - [Aditi Babu](https://github.com/aditib25)
 - [Prakash Dass](https://github.com/rprakashdass)
 - [Lucas Souza](https://github.com/lucasrbsouza)
+- [Bhaskar Rawat](https://github.com/bhaskarrawat2002)
 - [Sarang Jayagopal](https://github.com/Sarang-2004)
 - [Dharambir Agrawal](https://github.com/DharambirAgrawal)
 - [Sushovit Shah](https://github.com/Sushovit204)
