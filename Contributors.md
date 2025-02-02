@@ -1,4 +1,5 @@
 # Contributors
+- [Binaryguardia](https://github.com/binaryguardia)
 - [Richard Nixon](https://github.com/richardnixondev)
 - [Tony Montana](https://github.com/tonymont4n4)
 - [K M Arif](https://github.com/kmarif2006)
@@ -1009,7 +1010,6 @@
 - [barkinke](https://github.com/barkinke)
 - [Mamduh](https://github.com/Mamduh5)
 - [AjaySinghKunwar](https://github.com/AjaySinghKunwar007)
-- [Binaryguardia](https://github.com/binaryguardia)
 - [Felix Morara](https://github.com/felixmorara)
 - [SaboorNisha](https://github.com/SaboorNisha)
 - [Sanika Nair](https://github.com/sanika-n)
