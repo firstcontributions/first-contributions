@@ -1,5 +1,5 @@
 # Contributors
-
+- [Binaryguardia](https://github.com/binaryguardia)
 - [Richard Nixon](https://github.com/richardnixondev)
 - [Tony Montana](https://github.com/tonymont4n4)
 - [K M Arif](https://github.com/kmarif2006)
@@ -17,6 +17,7 @@
 - [Aditi Babu](https://github.com/aditib25)
 - [Prakash Dass](https://github.com/rprakashdass)
 - [Lucas Souza](https://github.com/lucasrbsouza)
+- [Bhaskar Rawat](https://github.com/bhaskarrawat2002)
 - [Sarang Jayagopal](https://github.com/Sarang-2004)
 - [Dharambir Agrawal](https://github.com/DharambirAgrawal)
 - [Sushovit Shah](https://github.com/Sushovit204)
@@ -36,6 +37,7 @@
 - [Joshoa Castaneda](https://github.com/TILINGO2)
 - [Max Bakoian](https://github.com/maxdbakoian)
 - [Vanstr](https://github.com/vanstr)
+- [Emmanuel Sobowale](https://github.com/Matutozi) HEllo everyone
 - [Stephanie Mukami](https://github.com/stephmukami)
 - [yaswanth narikamalli](https://github.com/Yashu1th)
 - [Karolayn Bunay](https://github.com/Karolayn8756)
@@ -193,7 +195,8 @@
 - [EzzFelt](https://github.com/EzzFelt) **Developer**
 - [cyberph3onix](https://github.com/cyberph3onix)
 - [truenickspivak](https://github.com/truenickspivak)
-- [Kotige](https://github.com/Kotige)
+- [Kotige](https://github.com/Kotig
+- [asrap](https://github.com/daddySpartan)
 - [Arham H Khan](https://github.com/arham2003)
 - [Nishanth Devabathini](https://github.com/Nishanth1812)
 - [abraxam](https://github.com/abraxam)
@@ -270,6 +273,7 @@
 - [Mathdallas-code](https://github.com/Mathdallas-code)
 - [Zayar Linn](https://github.com/zayarlinnwebster)
 - [Gaddala Sathvik](https://github.com/sathvik73)
+- [Mandela Trevor](https://github.com/mandelatrey)
 - [peet](https://github.com/PETROUNKNOWN)
 - [Yoguti](https://github.com/Yoguti)
 - [Majid R](https://github.com/MajidrNEO1879)
@@ -3036,6 +3040,7 @@
 - [FabioCanavarro](https://github.com/FabioCanavarro) | Goal: 10 Open source contribution before june
 - [Sukanya Ojha](https://github.com/khushi-engg)!goal to do in feb.
 - [Noah Adofina](https://github.com/itzRayys)
+- [Kashish Jatain](https://github.com/KashishJatain) *My first Contribution
 - [Talal Jafri](https://github.com/talalabbas84)
 - [TRaisooooo Was Here ;](https://github.com/TR4IS) XMASTROOOOO
 - [HELLO,I am cty](https://github.com/awsomecty) BE HAPPY EVERYDAY
@@ -3061,7 +3066,11 @@
 - [Di Heqiu](https://github.com/Di-Heqiu)
 - [Sahil Alr](https://github.com/sahilalr)
 - [Kireeti] (https://github.com/kireeti2112)
+- [Mamidisetty](https://github.com/Mamidisetty)
 - [lostcache](http://github.com/lostcache)
 - [Bowei Xu](https://github.com/Xu929-X1) way to go👌
 - [Ipshita Patel](http://github.com/Ipshita29)
 - [Sid](https://github.com/siddhantsingh-25) Start Afresh
+- [Sohib](https://github.com/abdimannabov) The Moon Haunts You!
+- [Oladimeji](https://github.com/boladimeji834) Destined for More!
+- [HarisChandio](https://github.com/HarisChandio) DhatteBayo!
