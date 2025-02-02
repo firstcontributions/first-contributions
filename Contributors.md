@@ -2991,6 +2991,7 @@
 - [Mohamed Sano]
 - [Raeef Chowdhury](https://github.com/Raeef-Chowdhury) 15 year old aspiring bengali Developer 💪💪💪
 - [Parth Dubal](https://github.com/Parth00)
+- [zerocool](https://github.com/zerocool03)
 - [Roja Kodur](https://github.com/rojakoduru09)
 - [iveseentheworld](https://github.com/ResetPlease)
 - [Daniel Strielnikow](https://github.com/danielStrielnikow)
