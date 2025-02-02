@@ -3015,6 +3015,7 @@ rohitmhnty
 - shaaluu😎
 - [Sangeeta Waiba](https://github.com/wsangeeta)
 - [rasha]
+- [Samuelhallman](https://github.com/SamuelhaIIman) Hello from Finland!
 - [Dinechko]
 - [Divyesh Shinde](https://github.com/Divyesh-20)
 - [untitled-guy](https://github.com/untitled-guy)
