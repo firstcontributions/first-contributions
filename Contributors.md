@@ -3065,6 +3065,7 @@
 - [Di Heqiu](https://github.com/Di-Heqiu)
 - [Sahil Alr](https://github.com/sahilalr)
 - [Kireeti] (https://github.com/kireeti2112)
+- [Mamidisetty](https://github.com/Mamidisetty)
 - [lostcache](http://github.com/lostcache)
 - [Bowei Xu](https://github.com/Xu929-X1) way to go👌
 - [Ipshita Patel](http://github.com/Ipshita29)
