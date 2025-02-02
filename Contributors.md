@@ -3039,6 +3039,7 @@
 - [FabioCanavarro](https://github.com/FabioCanavarro) | Goal: 10 Open source contribution before june
 - [Sukanya Ojha](https://github.com/khushi-engg)!goal to do in feb.
 - [Noah Adofina](https://github.com/itzRayys)
+- [Kashish Jatain](https://github.com/KashishJatain) *My first Contribution
 - [Talal Jafri](https://github.com/talalabbas84)
 - [TRaisooooo Was Here ;](https://github.com/TR4IS) XMASTROOOOO
 - [HELLO,I am cty](https://github.com/awsomecty) BE HAPPY EVERYDAY
