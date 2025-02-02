@@ -1108,6 +1108,7 @@
 - [Alex Thompson](https://github.com/Alex-Inems)
 - [Anand Shende](https://github.com/anandshende)
 - [Arisa Abiko](https://github.com/arisaabiko)
+- [Aniket Singh](https://github.com/darksoul-7) 
 - [WHA](https://github.com/wynehtetaung)
 - [Captain](https://github.com/CaptainPatel)
 - [xnm-sdksdk](https://github.com/xnm-sdksdk)
