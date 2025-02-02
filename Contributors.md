@@ -1,4 +1,5 @@
 # Contributors
+- [Binaryguardia](https://github.com/binaryguardia)
 - [Richard Nixon](https://github.com/richardnixondev)
 - [Tony Montana](https://github.com/tonymont4n4)
 - [K M Arif](https://github.com/kmarif2006)
