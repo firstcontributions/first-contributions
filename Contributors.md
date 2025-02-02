@@ -13,6 +13,7 @@
 - [Salma Fadl Azzam](https://github.com/salmafadlabdulrahman)
 - [Cindy Muraya](https://github.com/CindyMuraya)
 - [Aditi Babu](https://github.com/aditib25)
+- [Prakash Dass](https://github.com/rprakashdass)
 - [Lucas Souza](https://github.com/lucasrbsouza)
 - [Sarang Jayagopal](https://github.com/Sarang-2004)
 - [Dharambir Agrawal](https://github.com/DharambirAgrawal)
