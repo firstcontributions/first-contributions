@@ -193,7 +193,8 @@
 - [EzzFelt](https://github.com/EzzFelt) **Developer**
 - [cyberph3onix](https://github.com/cyberph3onix)
 - [truenickspivak](https://github.com/truenickspivak)
-- [Kotige](https://github.com/Kotige)
+- [Kotige](https://github.com/Kotig
+- [asrap](https://github.com/daddySpartan)
 - [Arham H Khan](https://github.com/arham2003)
 - [Nishanth Devabathini](https://github.com/Nishanth1812)
 - [abraxam](https://github.com/abraxam)
