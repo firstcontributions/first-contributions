@@ -3077,4 +3077,4 @@ rohitmhnty
 - [Sohib](https://github.com/abdimannabov) The Moon Haunts You!
 - [Oladimeji](https://github.com/boladimeji834) Destined for More!
 - [HarisChandio](https://github.com/HarisChandio) DhatteBayo!
-[Hahaem1ly](https://github.com/hahaem1ly)
+[Hahaem1ly](https://github.com/hahaem1ly) amor fati 
