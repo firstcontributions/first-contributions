@@ -271,6 +271,7 @@
 - [Mathdallas-code](https://github.com/Mathdallas-code)
 - [Zayar Linn](https://github.com/zayarlinnwebster)
 - [Gaddala Sathvik](https://github.com/sathvik73)
+- [Mandela Trevor](https://github.com/mandelatrey)
 - [peet](https://github.com/PETROUNKNOWN)
 - [Yoguti](https://github.com/Yoguti)
 - [Majid R](https://github.com/MajidrNEO1879)
