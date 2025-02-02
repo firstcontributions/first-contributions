@@ -1009,6 +1009,7 @@
 - [barkinke](https://github.com/barkinke)
 - [Mamduh](https://github.com/Mamduh5)
 - [AjaySinghKunwar](https://github.com/AjaySinghKunwar007)
+- [Binaryguardia](https://github.com/binaryguardia)
 - [Felix Morara](https://github.com/felixmorara)
 - [SaboorNisha](https://github.com/SaboorNisha)
 - [Sanika Nair](https://github.com/sanika-n)
