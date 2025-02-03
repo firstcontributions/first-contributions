@@ -2853,6 +2853,7 @@ rohitmhnty
 - [DRunkPiano114](https://github.com/DRunkPiano114)
 - [Tamar Cohen](https://github.com/tamar-cohen1)
 - Elisheva Fried
+- [Anshu](https://github.com/Anshu1912)
 - Elisheva
 - Menucha
 - SteadySteps
@@ -3083,5 +3084,6 @@ rohitmhnty
 - [HarisChandio](https://github.com/HarisChandio) DhatteBayo!
 [Hahaem1ly](https://github.com/hahaem1ly)
 [TeefAlfadhli](https://github.com/TeefAlfadhli) Hello Teef is HERE
-- [Raeef Chowdhury](https://github.com/Raeef-Chowdhury/) Aspiring 15 year old developer 💪💪💪
+- [Raeef Chowdhury](https://github.com/Raeef-Chowdhury/) Aspiring 15 year old developer 
 - [Rahul Shendre](https://github.com/rahulshendre) let's goooo
+- [Atilla Ertas](https://github.com/atillaertas1)
