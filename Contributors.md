@@ -10,6 +10,7 @@
 - [Savvas Fam](https://github.com/sabliran) Hello everyone! :D
 - [Sergi Castarnado](https://github.com/scastarnado)
 - [Vipul Singh](https://github.com/vipulsc)
+- [Nikunj Kakkad](https://github.com/kakkadnikunj)
 - [Mohammad Junaid Abbasi](https://github.com/mjunaid280)
 - [Lestlin Robins](https://github.com/LestlinRobins)
 - [Salma Fadl Azzam](https://github.com/salmafadlabdulrahman)
@@ -20,6 +21,7 @@
 - [Bhaskar Rawat](https://github.com/bhaskarrawat2002)
 - [Sarang Jayagopal](https://github.com/Sarang-2004)
 - [Dharambir Agrawal](https://github.com/DharambirAgrawal)
+- [Jack Kraus](https://github.com/jack-kraus)
 - [Sushovit Shah](https://github.com/Sushovit204)
 - [0v3nb1rd](https://github.com/0v3nb1rd)
 - [Loic CHECK](https://github.com/NDZIE444)
@@ -53,6 +55,7 @@
 - [Rishabh Chordiya](https://github.com/rishabhc33)
 - [Isra HQ](https://github.com/rhizvo)
 - [Yvona](https://github.com/YvonaAci)
+  Hugh Gramelspacher
 - [Jesus Lopez](https://github.com/jlopezmarti20)
 - [Sagar Niroula](https://github.com/sagarniroula112)
   [Sambhav Jhunjhunwala](https://github.com/Sambhav774)
@@ -171,6 +174,7 @@ rohitmhnty
 - [senjenjo juliabrim](https://github.com/marcvs-eng/gitcur.git)
 - [Sarthak](https://github.com/Sarthak2284)
 - [0HOON](https://github.com/0HOON)
+- [Sameep Shah](https://github.com/sameep-git)
 - [Brahim](https://github.com/BrahimChatri)
 - [Coderchameleon](https://github.com/coderchameleon)
 - [IceyDuan](https://github.com/IceyDuan)
@@ -183,6 +187,7 @@ rohitmhnty
 - [CAN](https://github.com/lawinpyae)
 - [Roshan Bara](https://github.com/roshanbara)
 - [MCorneliussen](https://github.com/MCorneliussen)
+
 - [Jorge Hecherat](https://github.com/Hechprad)
 - [Hnin Wai Phoo](https://github.com/HninWaiPhoo)
 - [Pawan Bhati](https://github.com/pawan00126)
@@ -2849,6 +2854,7 @@ rohitmhnty
 - [DRunkPiano114](https://github.com/DRunkPiano114)
 - [Tamar Cohen](https://github.com/tamar-cohen1)
 - Elisheva Fried
+- [Anshu](https://github.com/Anshu1912)
 - Elisheva
 - Menucha
 - SteadySteps
@@ -3073,8 +3079,13 @@ rohitmhnty
 - [lostcache](http://github.com/lostcache)
 - [Bowei Xu](https://github.com/Xu929-X1) way to go👌
 - [Ipshita Patel](http://github.com/Ipshita29)
-- [Sid](https://github.com/siddhantsingh-25) Start Afresh
+- [https://github.com/ahmed-seidu] Ahmed Tijani Seidu
+[Sid](https://github.com/siddhantsingh-25) Start Afresh
 - [Sohib](https://github.com/abdimannabov) The Moon Haunts You!
 - [Oladimeji](https://github.com/boladimeji834) Destined for More!
 - [HarisChandio](https://github.com/HarisChandio) DhatteBayo!
-[Hahaem1ly](https://github.com/hahaem1ly) amor fati 
+[Hahaem1ly](https://github.com/hahaem1ly)
+[TeefAlfadhli](https://github.com/TeefAlfadhli) Hello Teef is HERE
+- [Raeef Chowdhury](https://github.com/Raeef-Chowdhury/) Aspiring 15 year old developer 
+- [Atilla Ertas](https://github.com/atillaertas1)
+- [Rahul Shendre](https://github.com/rahulshendre) let's do it
