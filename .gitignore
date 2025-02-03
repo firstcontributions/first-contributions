@@ -2,7 +2,6 @@
 .idea/
 .vs
 .env
-
 # User-specific files
 *.rsuser
 *.suo
@@ -392,3 +391,5 @@ FodyWeavers.xsd
 
 # Desktop.ini (Google Drive info file)
 desktop.ini
+
+.codegpt
