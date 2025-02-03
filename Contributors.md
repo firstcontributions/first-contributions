@@ -9,6 +9,7 @@
 - [Omar Suarez](https://github.com/omar-suarez)
 - [Basil Ahamed](https://github.com/basilahamed07)
 - [mrgamernavshorts](https://github.com/mrgamernavshorts)
+- [Emilio Garzia](https://github.com/EmilioGarzia)
 - [itz_skeshri](https://github.com/itz-skeshri)
 - [Savvas Fam](https://github.com/sabliran) Hello everyone! :D
 - [Sergi Castarnado](https://github.com/scastarnado)
