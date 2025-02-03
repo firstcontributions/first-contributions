@@ -132,6 +132,7 @@
 - [Devam Desai](https://github.com/Shaaaark126)
 - [Himanshu Singh Aswal](https://github.com/LAWSA07)
 - [Danielle-Higgins](https://github.com/Danielle-Higgins)
+- [Goodness Jakaza Chauke](https://github.com/Jakaza) HEllo everyone
 - [Ye Lin Ko](https://github.com/yelinko20)
 - [Devan Parekh](https://github.com/devpar)
 - [doing1024](https://github.com/doing1024)
