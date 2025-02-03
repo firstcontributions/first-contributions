@@ -65,6 +65,8 @@
 - [Victor Alonzo](https://github.com/victorhalonzo)
 - [Eric Mokuma](https://github.com/eric-mokuma)
 - [Harry](https://github.com/CampbellHarry)
+- [Ryan Muiga](https://github.com/RMuchir1)
+- [Ryan Muiga](https://github.com/RMuchir1)
 - Mamai Nataki Hello open source world >]
 - [Daniel Okot](https://github.com/okotdaniel)
 - [Mohamed Elsadek](https://github.com/mobaqii) _DEVOPS_
