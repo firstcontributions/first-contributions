@@ -1,7 +1,9 @@
 # Contributors
+
 - [Binaryguardia](https://github.com/binaryguardia)
 - [Richard Nixon](https://github.com/richardnixondev)
 - [Tony Montana](https://github.com/tonymont4n4)
+- [Syed Tawakkal](https://github.com/SyedTawakkal)
 - [K M Arif](https://github.com/kmarif2006)
 - [Omar Suarez](https://github.com/omar-suarez)
 - [Basil Ahamed](https://github.com/basilahamed07)
@@ -166,7 +168,7 @@
 - [ebubecodes](https://github.com/ebubecodes)
 - [thisispembe](https://github.com/xpembe)
 - [Srijita](https://github.com/srijita7)
-rohitmhnty
+  rohitmhnty
 - [Navin](https://github.com/navix1456)
 - [Valeria-D-23](https://github.com/Valeria-D-23)
 - [Akash kumar Ak](https://github.com/akash-ak-03/)
@@ -3052,7 +3054,7 @@ rohitmhnty
 - [FabioCanavarro](https://github.com/FabioCanavarro) | Goal: 10 Open source contribution before june
 - [Sukanya Ojha](https://github.com/khushi-engg)!goal to do in feb.
 - [Noah Adofina](https://github.com/itzRayys)
-- [Kashish Jatain](https://github.com/KashishJatain) *My first Contribution
+- [Kashish Jatain](https://github.com/KashishJatain) \*My first Contribution
 - [Talal Jafri](https://github.com/talalabbas84)
 - [TRaisooooo Was Here ;](https://github.com/TR4IS) XMASTROOOOO
 - [HELLO,I am cty](https://github.com/awsomecty) BE HAPPY EVERYDAY
@@ -3083,13 +3085,13 @@ rohitmhnty
 - [Bowei Xu](https://github.com/Xu929-X1) way to go👌
 - [Ipshita Patel](http://github.com/Ipshita29)
 - [https://github.com/ahmed-seidu] Ahmed Tijani Seidu
-[Sid](https://github.com/siddhantsingh-25) Start Afresh
+  [Sid](https://github.com/siddhantsingh-25) Start Afresh
 - [Sohib](https://github.com/abdimannabov) The Moon Haunts You!
 - [Oladimeji](https://github.com/boladimeji834) Destined for More!
 - [HarisChandio](https://github.com/HarisChandio) DhatteBayo!
-[Hahaem1ly](https://github.com/hahaem1ly)
-[TeefAlfadhli](https://github.com/TeefAlfadhli) Hello Teef is HERE
-- [Raeef Chowdhury](https://github.com/Raeef-Chowdhury/) Aspiring 15 year old developer 
+  [Hahaem1ly](https://github.com/hahaem1ly)
+  [TeefAlfadhli](https://github.com/TeefAlfadhli) Hello Teef is HERE
+- [Raeef Chowdhury](https://github.com/Raeef-Chowdhury/) Aspiring 15 year old developer
 - [Atilla Ertas](https://github.com/atillaertas1)
 - [Rahul Shendre](https://github.com/rahulshendre) let's do it
 - [Gichia Muiruri](https://github.com/itsgichia) let's do it
