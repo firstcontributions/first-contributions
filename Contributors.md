@@ -198,6 +198,7 @@ rohitmhnty
 - _Frontend Developer & Enthusiast 🚀_
 - [Stella](https://github.com/KyelSin) **First Contribution(♡˙︶˙♡)**
 - [Gurudhev](https://github.com/devguru06)
+- [Priyanshu Kumar Maurya](https://github.com/CosmicKittu)
 - [Kevinrivas96](https://github.com/Kevinrivas96) **First Contribution**
 - [AdarshKumarSr](https://github.com/adarshKumarSr) **Developer**
 - [EzzFelt](https://github.com/EzzFelt) **Developer**
