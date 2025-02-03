@@ -3108,4 +3108,5 @@
 - [Leon Fray](https://github.com/Leon-Fray)
 - [Khizar Nadeem](https://github.com/KhiziNadeem)
 - [Josue Ordonez](https://github.com/r4zu)
+- [Soleil Herring](https://github.com/soleilherring)
 - [Zach Lindemuth](https://github.com/Zach-Lindemuth)
