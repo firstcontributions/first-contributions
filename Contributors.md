@@ -187,6 +187,7 @@ rohitmhnty
 - [CAN](https://github.com/lawinpyae)
 - [Roshan Bara](https://github.com/roshanbara)
 - [MCorneliussen](https://github.com/MCorneliussen)
+
 - [Jorge Hecherat](https://github.com/Hechprad)
 - [Hnin Wai Phoo](https://github.com/HninWaiPhoo)
 - [Pawan Bhati](https://github.com/pawan00126)
@@ -3078,7 +3079,8 @@ rohitmhnty
 - [lostcache](http://github.com/lostcache)
 - [Bowei Xu](https://github.com/Xu929-X1) way to go👌
 - [Ipshita Patel](http://github.com/Ipshita29)
-- [Sid](https://github.com/siddhantsingh-25) Start Afresh
+- [https://github.com/ahmed-seidu] Ahmed Tijani Seidu
+[Sid](https://github.com/siddhantsingh-25) Start Afresh
 - [Sohib](https://github.com/abdimannabov) The Moon Haunts You!
 - [Oladimeji](https://github.com/boladimeji834) Destined for More!
 - [HarisChandio](https://github.com/HarisChandio) DhatteBayo!
