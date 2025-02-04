@@ -1,6 +1,7 @@
 # Contributors
 
 - [Somisrbija](https://github.com/SomiSrbija)
+- [Maxime Benoit](https://github.com/Max13500)
 - [Feng-chengyi](https://github.com/Feng-chengyi)
 - [Brayan Kai](https://github.com/mwanyumba7)
 - [Binaryguardia](https://github.com/binaryguardia)
