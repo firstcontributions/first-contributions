@@ -93,6 +93,7 @@
 - [Venkat-Koushik](https://github.com/vkoushik15)
 - [Lungelo Nzimande] (https://github.com/LungeloNzimande)
 - [Marcus](https://github.com/JunQi123-del)
+- [Nikita kanwar - My first contribution ](https://github.com/Nikitakanwar4)
 - [Ratna-Babu](https://github.com/Ratna-Babu)
 - [Jephthah Orobia](https://github.com/jephthah-orobia) / [sirjhep.dev ![sirjhep.dev](https://sirjhep.dev/images/favicon/favicon-16x16.png)](https://sirjhep.dev)
 - [Bhavishya Chaturvedi](https://github.com/Bhavishya-Chaturvedi)
