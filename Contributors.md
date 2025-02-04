@@ -14,6 +14,7 @@
 - [mrgamernavshorts](https://github.com/mrgamernavshorts)
 - [Emilio Garzia](https://github.com/EmilioGarzia)
 - [itz_skeshri](https://github.com/itz-skeshri)
+- [Chanuka Dilshan](https://github.com/Chanukaa2002)
 - [Savvas Fam](https://github.com/sabliran) Hello everyone! :D
 - [Sergi Castarnado](https://github.com/scastarnado)
 - [Vipul Singh](https://github.com/vipulsc)
