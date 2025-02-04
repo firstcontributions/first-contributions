@@ -177,6 +177,7 @@
 - [Srijita](https://github.com/srijita7)
   rohitmhnty
 - [Navin](https://github.com/navix1456)
+- [Praful Kudikala](https://github.com/heis43pk)
 - [Valeria-D-23](https://github.com/Valeria-D-23)
 - [Akash kumar Ak](https://github.com/akash-ak-03/)
 - [Arun V](https://github.com/akash-ak-03/)
