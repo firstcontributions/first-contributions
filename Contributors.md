@@ -6,6 +6,7 @@
 - [Tony Montana](https://github.com/tonymont4n4)
 - [Syed Tawakkal](https://github.com/SyedTawakkal)
 - [K M Arif](https://github.com/kmarif2006)
+- [Shadrack Dorkenoo](https://github.com/shadyOg)
 - [Omar Suarez](https://github.com/omar-suarez)
 - [Basil Ahamed](https://github.com/basilahamed07)
 - [mrgamernavshorts](https://github.com/mrgamernavshorts)
