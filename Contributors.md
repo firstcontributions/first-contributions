@@ -4,7 +4,7 @@
 - [Binaryguardia](https://github.com/binaryguardia)
 - [Richard Nixon](https://github.com/richardnixondev)
 - [Tony Montana](https://github.com/tonymont4n4)
-- [Syed Tawakkal](https://github.com/SyedTawakkal)
+- [Syed Tawakkal](https://github.com/SyedTawakkal)                                 
 - [K M Arif](https://github.com/kmarif2006)
 - [Shadrack Dorkenoo](https://github.com/shadyOg)
 - [Omar Suarez](https://github.com/omar-suarez)
@@ -2573,6 +2573,7 @@
 - [Taufi](https://github.com/Taufi)
   -Ruty
 - [Jack Sighton](https://github.com/JackBerezhnov)
+- [Mokhlaroyim](https://github.com/mokhlaroyim)
 - [A Parker](https://github.com/aparker00)
 - [Ellis Franklin](https://github.com/ellfran-7)
 - [alekhine](https://github.com/Src0p)
