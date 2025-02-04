@@ -6,6 +6,7 @@
 - [Omar Suarez](https://github.com/omar-suarez)
 - [Basil Ahamed](https://github.com/basilahamed07)
 - [mrgamernavshorts](https://github.com/mrgamernavshorts)
+- [Nathan rotich]
 - [itz_skeshri](https://github.com/itz-skeshri)
 - [Savvas Fam](https://github.com/sabliran) Hello everyone! :D
 - [Sergi Castarnado](https://github.com/scastarnado)
@@ -142,6 +143,7 @@
 - [MobyTh1cc](https://github.com/MobyTh1cc)
 - [Ujjwal Pandit](https://github.com/Ujjwal-Pandit)
 - [Aman Deshpande](https://github.com/amandesh694)
+- [Nathan Rotich](https://github.com/Rio-than)
 - [Kishan J](https://github.com/Iamkishan08)
 - Janne
 - Aayush Gupta
