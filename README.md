@@ -93,6 +93,10 @@
 
 This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 
+#### Zimmerman group notes:
+- Athena already has git installed globally with multiple versions available as environment modules. If you want to check out a repository on your laptop, you may need to install git the first time you use it.
+- I generally interact with git through the visual studio code built-in integration because I find it convenient but occasionally fall back to the command line interface when I run into issues. I have slightly customized the [VS Code tutorial](docs/gui-tool-tutorials/github-windows-vs-code-tutorial.md) for Zimmerman group specific usage.
+
 _If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
