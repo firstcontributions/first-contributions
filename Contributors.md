@@ -76,6 +76,7 @@
 - [yasaswini majety](https://github.com/yasaswinim09).
 - [Victor Alonzo](https://github.com/victorhalonzo)
 - [Eric Mokuma](https://github.com/eric-mokuma)
+- [O4bit](https://github.com/O4bit)
 - [Harry](https://github.com/CampbellHarry)
 - Mamai Nataki Hello open source world >]
 - [Daniel Okot](https://github.com/okotdaniel)
