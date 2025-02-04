@@ -101,6 +101,8 @@ In your repo on GitHub you'll see the `Compare & pull request` button next to th
 
 <img src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
+#### Zimmerman group note: The default base fork is the upstream repository where I got this tutorial, but I'm planning to demonstrate what it looks like to merge pull requests from branches within the ZimmermanGroup repository, so change the base fork to the ZimmermanGroup repository.
+
 Now submit the pull request.
 
 <img src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
