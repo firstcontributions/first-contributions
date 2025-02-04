@@ -90,6 +90,7 @@
 - [CoderAlpha9](https://github.com/CoderAlpha9)
 - [Aubakerzzz](https://github.com/Aubakerzzz)
 - [Venkat-Koushik](https://github.com/vkoushik15)
+- [Lungelo Nzimande] (https://github.com/LungeloNzimande)
 - [Marcus](https://github.com/JunQi123-del)
 - [Ratna-Babu](https://github.com/Ratna-Babu)
 - [Jephthah Orobia](https://github.com/jephthah-orobia) / [sirjhep.dev ![sirjhep.dev](https://sirjhep.dev/images/favicon/favicon-16x16.png)](https://sirjhep.dev)
