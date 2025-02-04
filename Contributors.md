@@ -132,6 +132,7 @@
 - [whatsup]
 - [takayuki]
 - [Cindy]
+- [Abdalla Hassan](https://github.com/GitAbdalla)
 - [Shaikat](https://github.com/Shaikats/)
 - [shadow-is-hear]
 - [Dobra Palovich]
