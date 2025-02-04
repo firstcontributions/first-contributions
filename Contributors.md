@@ -3071,4 +3071,5 @@
 - [Ipshita Patel](http://github.com/Ipshita29)
 - [Sid](https://github.com/siddhantsingh-25) Start Afresh
 - [Sohib](https://github.com/abdimannabov) The Moon Haunts You!
+- [Kelly Sun](https://github.com/xiyuansun)
 - [Oladimeji](https://github.com/boladimeji834) Destined for More!
