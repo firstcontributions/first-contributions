@@ -3111,3 +3111,4 @@
 - [Josue Ordonez](https://github.com/r4zu)
 - [Soleil Herring](https://github.com/soleilherring)
 - [Zach Lindemuth](https://github.com/Zach-Lindemuth)
+- [Sayudha](https://github.com/mazaya-studio)
