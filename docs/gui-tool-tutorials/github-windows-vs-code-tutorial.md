@@ -15,11 +15,15 @@ Reading articles & watching tutorials can help, but what comes better than actua
 
 If you don't have Visual Studio Code on your machine, [install it](https://code.visualstudio.com/download).
 
+#### Zimmerman group note: Generally you will be working over ssh on our research group's high performance computing cluster. VS Code has [a well supported extension designed for this use case](https://code.visualstudio.com/docs/remote/ssh). If you don't already have this extension, it can be installed [here](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh).
+
 **Notice:** This tutorial was made using Visual Studio Code (Version 1.27.2) on a Windows 10 machine. Later in this tutorial we will make use of some keyboard shortcuts. These may differ on other operating systems (macOS/Linux) as well as keyboard language (UK, DE, etc). You can go through your list of shortcuts by searching "shortcut" in the Command Palette.
 
 ## Fork this repository
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+
+#### Zimmerman group note: This repository is already forked into the ZimmermanGroup organization where you should have permission to make changes, so you can skip this step. This step will be necessary if you want to contribute changes to a github repository developed outside of our research group.
 
 Fork this repo by clicking on the fork button on the top right of this page. This will create a copy of this repository in your GitHub account.
 
