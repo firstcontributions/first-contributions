@@ -1,5 +1,6 @@
 # Contributors
 
+- [pauldbg](https://github.com/Pauldbg)
 - [joothy](https://github.com/thikshathajoothy)
 - [maplesyrup0423](https://github.com/maplesyrup0423)
 - [Arman khan](https://github.com/Rage400)
