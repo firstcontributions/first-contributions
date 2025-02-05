@@ -12,6 +12,7 @@
 - [Shadrack Dorkenoo](https://github.com/shadyOg)
 - ryanmathew
 - [Omar Suarez](https://github.com/omar-suarez)
+- [ayush kumar](https://github.com/Ayush9945)
 - [Basil Ahamed](https://github.com/basilahamed07)
 - [mrgamernavshorts](https://github.com/mrgamernavshorts)
 - [Emilio Garzia](https://github.com/EmilioGarzia)
