@@ -1,5 +1,6 @@
 # Contributors
 
+- [Md Faizan Ashrafi](https://github.com/mdfaizanashrafi) Hey Guys! Not my first contribution
 - [yash](https://github.com/YASHWANTHBH1)- hi
 - [pauldbg](https://github.com/Pauldbg)
 - [joothy](https://github.com/thikshathajoothy)
@@ -3180,6 +3181,7 @@
 - [Sayudha](https://github.com/mazaya-studio)
 - [Sebastian](https://github.com/sebiwsk)
 - [Naman Thakur](https://github.com/namanthakur22)
+- [csuer411](https://github.com/csuer411)
 - [Martin Vollenbröker](https://github.com/Volli4)
 - [csuer411](https://github.com/csuer411)
 - [sciisawesome](https://github.com/sciisawesome)
