@@ -1,17 +1,23 @@
 # Contributors
+[Arman khan](https://github.com/Rage4005)
 
 - [Somisrbija](https://github.com/SomiSrbija)
 - [Maxime Benoit](https://github.com/Max13500)
 - [Feng-chengyi](https://github.com/Feng-chengyi)
+- [Badrinath](https://github.com/Badrinath7941)
 - [Brayan Kai](https://github.com/mwanyumba7)
 - [Binaryguardia](https://github.com/binaryguardia)
 - [Richard Nixon](https://github.com/richardnixondev)
 - [Tony Montana](https://github.com/tonymont4n4)
+- [Dhanvin Ratheesh](https://github.com/dhanvin-6)
 - [Syed Tawakkal](https://github.com/SyedTawakkal)                                 
 - [K M Arif](https://github.com/kmarif2006)
 - [Shadrack Dorkenoo](https://github.com/shadyOg)
+- ryanmathew
 - [Omar Suarez](https://github.com/omar-suarez)
+- [ayush kumar](https://github.com/Ayush9945)
 - [Basil Ahamed](https://github.com/basilahamed07)
+- [Melvyn Savio](https://github.com/Melvynsavio)
 - [mrgamernavshorts](https://github.com/mrgamernavshorts)
 - [Emilio Garzia](https://github.com/EmilioGarzia)
 - [itz_skeshri](https://github.com/itz-skeshri)
@@ -27,8 +33,10 @@
 - [Lestlin Robins](https://github.com/LestlinRobins)
 - [Salma Fadl Azzam](https://github.com/salmafadlabdulrahman)
 - [Cindy Muraya](https://github.com/CindyMuraya)
+- [Bijay Thomas](https://github.com/bijaythms)
 - [Aditi Babu](https://github.com/aditib25)
 - [Prakash Dass](https://github.com/rprakashdass)
+[Athulpshajil](https://github.com/ATHULAPS)
 - [Lucas Souza](https://github.com/lucasrbsouza)
 - [Bhaskar Rawat](https://github.com/bhaskarrawat2002)
 - [Sarang Jayagopal](https://github.com/Sarang-2004)
@@ -58,6 +66,7 @@
 - [Emmanuel Sobowale](https://github.com/Matutozi) HEllo everyone
 - [Stephanie Mukami](https://github.com/stephmukami)
 - [yaswanth narikamalli](https://github.com/Yashu1th)
+- [CarrenMerry](https://github.com/CarrenMerry)
 - [Syed Hassan Ali Rizvi] (https://github.com/HassanAliRizvi)
 - [Karolayn Bunay](https://github.com/Karolayn8756)
 - [Sanidhya Rathore](https://github.com/sanidhyarathore) -[Carlos junior ]([Git hub account](https://github.com/ImCarlsJ))
@@ -139,6 +148,7 @@
 - [whatsup]
 - [takayuki]
 - [Cindy]
+- [Alaka](https://github.com/alaka-cell)
 - [Debasis Dash] (https://github.com/dashDebasis123)
 - [Abdalla Hassan](https://github.com/GitAbdalla)
 - [Shaikat](https://github.com/Shaikats/)
@@ -3146,3 +3156,4 @@
 - [Sahand Jamalzadeh] (https://github.com/jamalzadeh-sahand)
 - [Akhil sai](https://github.com/akhiltech-dev) Lets do it 🔥
 - [George Shaiju](https://github.com/GeorgeShaijuu)
+- [Shreya B](https://github.com/Shreyaa100)
