@@ -3094,6 +3094,7 @@
 - [Antonio Azmovi Cicero](https://github.com/azmovi)
 - [Luiz Otávio Teixeira Mello](https://github.com/LuizOt31) | Hello mundo!
 - [Aidan Cooper](https://github.com/AidanCooper2003)
+- [Derek Seitz](https://github.com/ds731)
 - [Lianna Bolivar](https://github.com/woomy32)
 - [AIQuantumCore](https://github.com/AIQuantumCore)
 - [jone-cmd](https://github.com/jone-cmd)
