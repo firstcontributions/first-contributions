@@ -22,7 +22,8 @@
 - [Nikunj Kakkad](https://github.com/kakkadnikunj)
 - [Mohammad Junaid Abbasi](https://github.com/mjunaid280)
 - [Waverew](https://github.com/waverew) // Oh hi there)
-   [David Jahn](https://github.com/DavidJahnPY)
+- [Mark Tomescu](https://github.com/NEVERdieNM) Hi, first contribution
+- [David Jahn](https://github.com/DavidJahnPY)
 - [Lestlin Robins](https://github.com/LestlinRobins)
 - [Salma Fadl Azzam](https://github.com/salmafadlabdulrahman)
 - [Cindy Muraya](https://github.com/CindyMuraya)
