@@ -2832,6 +2832,7 @@
 - [Davi do Egito](https://github.com/davi-egito)
 - lina
 - [Zuckmantra](https://github.com/Zuckmantra)
+- [Romeo III](https://github.com/romeo-iii)
 - [Md. Rejwar Rahman Rifat](https://github.com/rejwar)
 - [Fatih Kucukkara](https://github.com/fkucukkara)
 - [Mustafa Chambers](https://github.com/mchamb92)
