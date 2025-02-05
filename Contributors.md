@@ -65,6 +65,7 @@
 - [David Kamau](https://github.com/Pak-Man926) My first Contribution, I'm excited!
 - [edrzz08](https://github.com/edrzz08)
 - [Dheeraz](https://github.com/dheeraz101/)
+-[AKSHAYA K](https://github.com/Akshayak5)
 -[Abhinaya Sreedharan](https://github.com/abhi-nayaa/)
 - [EET](https://github.com/eitheint-ET)
 - [Ibrahim Gaber](https://github.com/IbrahimGaberOfficial) Exiting to start contributing in open-source 😃.
