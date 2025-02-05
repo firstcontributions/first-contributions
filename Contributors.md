@@ -52,6 +52,7 @@
 - [Sanskar Soni](https://github.com/TheCodeSculptor-cmd/first-contributions.git)
 - [Prakash Dass](https://github.com/rprakashdass)
 [Athulpshajil](https://github.com/ATHULAPS)
+- [Cornel Earle] (...)
 - [Lucas Souza](https://github.com/lucasrbsouza)
 - [Bhaskar Rawat](https://github.com/bhaskarrawat2002)
 - [Sarang Jayagopal](https://github.com/Sarang-2004)
