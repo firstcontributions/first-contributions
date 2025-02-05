@@ -139,6 +139,7 @@
 - [whatsup]
 - [takayuki]
 - [Cindy]
+- [Alaka](https://github.com/alaka-cell)
 - [Debasis Dash] (https://github.com/dashDebasis123)
 - [Abdalla Hassan](https://github.com/GitAbdalla)
 - [Shaikat](https://github.com/Shaikats/)
