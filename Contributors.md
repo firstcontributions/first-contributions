@@ -1,4 +1,4 @@
-# Contributors
+Aditi Menon# Contributors
 
 - [Somisrbija](https://github.com/SomiSrbija)
 - [Maxime Benoit](https://github.com/Max13500)
@@ -48,8 +48,8 @@
 - [David Kamau](https://github.com/Pak-Man926) My first Contribution, I'm excited!
 - [edrzz08](https://github.com/edrzz08)
 - [Dheeraz](https://github.com/dheeraz101/)
--[Hello]
-- [EET](https://github.com/eitheint-ET)
+-[Aditi Menon](https://github.com/ad1tii)
+- [EET](https://github.com/eithein)
 - [Ibrahim Gaber](https://github.com/IbrahimGaberOfficial) Exiting to start contributing in open-source 😃.
 - [Eduardo Molina](https://github.com/edumol8) -[Jacqueline Joya](https://github.com/Jackiesafari)
 - [Joshoa Castaneda](https://github.com/TILINGO2)
