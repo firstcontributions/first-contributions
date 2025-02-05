@@ -68,6 +68,7 @@
 - [Soumyasree Mohapatra](https://github.com/SoumyasreeMohapatra) : Hello World!
 - [David Kamau](https://github.com/Pak-Man926) My first Contribution, I'm excited!
 - [edrzz08](https://github.com/edrzz08)
+[Aren D Couto](https://github.com/Aren-04)
 - [Dheeraz](https://github.com/dheeraz101/)
 - [AKSHAYA N](https://github.com/Akshaya-NirmalKumar)
 -[AKSHAYA K](https://github.com/Akshayak5)
