@@ -1,4 +1,4 @@
-   Akshaya R # Contributors
+# Contributors
 
 - [Somisrbija](https://github.com/SomiSrbija)
 - [Maxime Benoit](https://github.com/Max13500)
@@ -605,6 +605,7 @@
 - Celeste
 - Lokesh
 - eisthron
+-    Akshaya R 
 - [AC](https://github.com/FortKnoxWasTaken)
 - [Yisel Cintora Vega](https://github.com/yisel260)
 - [Mohit-Goswami](https://github.com/Mohitgoswami18)
