@@ -18,7 +18,7 @@
 - [Shadrack Dorkenoo](https://github.com/shadyOg)
 - ryanmathew
 - [Omar Suarez](https://github.com/omar-suarez)
-- [Himanshu Kumar](https://github.com/H1manshu-Kumar) Here comes the first open-source contribution :D
+- [Himanshu Kumar](https://github.com/H1manshu-Kumar) Here comes my first open-source contribution! :D
 - [ayush kumar](https://github.com/Ayush9945)
 - [Basil Ahamed](https://github.com/basilahamed07)
 - [Melvyn Savio](https://github.com/Melvynsavio)
