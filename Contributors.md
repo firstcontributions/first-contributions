@@ -1,3 +1,4 @@
+
 # Contributors
 
 - [Somisrbija](https://github.com/SomiSrbija)
@@ -48,7 +49,7 @@
 - [David Kamau](https://github.com/Pak-Man926) My first Contribution, I'm excited!
 - [edrzz08](https://github.com/edrzz08)
 - [Dheeraz](https://github.com/dheeraz101/)
--[Hello]
+- [AKSHAYA N](https://github.com/Akshaya-NirmalKumar)
 - [EET](https://github.com/eitheint-ET)
 - [Ibrahim Gaber](https://github.com/IbrahimGaberOfficial) Exiting to start contributing in open-source 😃.
 - [Eduardo Molina](https://github.com/edumol8) -[Jacqueline Joya](https://github.com/Jackiesafari)
@@ -93,7 +94,7 @@
 - [Marqitos](https://github.com/Marqitos) / [Marcos Porto](https://marcospor.to)
 - [Yojana](https://github.com/yojanas14)
 - [Numan](https://github.com/Numan52)
-- [Amritansu Aditya](https://github.com/Amritansu-Adi)
+- (https://github.com/dheeraz101[Amritansu Aditya](https://github.com/Amritansu-Adi)
 - [Pavankumar](https://github.com/paonejogi)
 - [Lin172005](https://github.com/Lin172005)
 - [AGreenLad](https://github.com/AGreenLad) someone give me a new name please :p
