@@ -151,6 +151,7 @@
 - [RandithaK](https://github.com/RandithaK)
 - [Mandhata Pathak](https://github.com/Mandhata001)
 - [Rashmika Naveen](https://github.com/rashmikanaveen)
+[Amal K A](https://github.com/amal-k-a)
 - [alismx](https://github.com/alismx)
 - [sandeepgurram](https://github.com/gurram46)
 - [Devam Desai](https://github.com/Shaaaark126)
