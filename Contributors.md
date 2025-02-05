@@ -45,6 +45,7 @@
 - [Samyuktaa Sivakumar] (https://github.com/SamyuktaaS17)
 - [Soumyasree Mohapatra](https://github.com/SoumyasreeMohapatra) : Hello World!
 - [David Kamau](https://github.com/Pak-Man926) My first Contribution, I'm excited!
+- [edrzz08](https://github.com/edrzz08)
 - [Dheeraz](https://github.com/dheeraz101/)
 -[Hello]
 - [EET](https://github.com/eitheint-ET)
