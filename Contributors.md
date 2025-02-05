@@ -114,6 +114,7 @@
 - [Yadneshx17](https://github.com/yadneshx17)
 - [Anu Kanthaswamy](https://github.com/anukanthaswamy)
 - [yasaswini majety](https://github.com/yasaswinim09).
+- [Aryan C](https://github.com/aryanc-04)
 - [Victor Alonzo](https://github.com/victorhalonzo)
 - [Eric Mokuma](https://github.com/eric-mokuma)
 - [O4bit](https://github.com/O4bit)
