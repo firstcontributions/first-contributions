@@ -89,6 +89,7 @@
 - [Aamir Shaikh](https://github.com/aamirsk8766)
 - [Nikhil Kr Das](https://github.com/nikhil94058)
 - [Leo.G](https://github.com/LeoZFG)
+- [Sarim Ali Baloch](https://github.com/SarimAliBaloch)
 - [aassalax](https://github.com/aassalax) : Web developer
 - [A N M Mashud](https://github.com/anmmashud)
 - [Jeff Martin](https://github.com/siberian-devsky) :01.06.25
