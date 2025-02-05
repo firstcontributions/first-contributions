@@ -27,6 +27,7 @@
 - [Lestlin Robins](https://github.com/LestlinRobins)
 - [Salma Fadl Azzam](https://github.com/salmafadlabdulrahman)
 - [Cindy Muraya](https://github.com/CindyMuraya)
+- [Bijay Thomas](https://github.com/bijaythms)
 - [Aditi Babu](https://github.com/aditib25)
 - [Prakash Dass](https://github.com/rprakashdass)
 - [Lucas Souza](https://github.com/lucasrbsouza)
