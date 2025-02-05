@@ -36,6 +36,7 @@
 - [Sergi Castarnado](https://github.com/scastarnado)
 - [Vipul Singh](https://github.com/vipulsc)
 - [Nikunj Kakkad](https://github.com/kakkadnikunj)
+- [Harshvardhan Mundada](https://github.com/KeshavSM10)
 - [Mohammad Junaid Abbasi](https://github.com/mjunaid280)
 - [Waverew](https://github.com/waverew) // Oh hi there)
 - [Mark Tomescu](https://github.com/NEVERdieNM) Hi, first contribution
