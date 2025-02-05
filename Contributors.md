@@ -3079,6 +3079,7 @@
 - [Aryan](https://github.com/aryan6673) | a commitment a day keeps unemployment away ;) | LOL XD
 - [Zpon](https://github.com/Zpon1992) first try.
 - [spailll](https://github.com/spailll) Hi
+- [Regan P] (https://github.com/Regan2327)
 - [Harshdeep](https://github.com/harshdeepsdhillon1) | Got a job !
 - [xpedroyx](https://github.com/xpedrotx) | apple pen!
 - [Amy](https://github.com/APape95)
@@ -3103,7 +3104,7 @@
 - [Wunna](https://github.com/wunna11)
 - [Surajam29](https://github.com/Surajam29)
 - [ProperPickle](https://github.com/ProperPickle)
-- [yiquanfeng](https://github.com/yiquanfeng)
+https://github.com/Regan2327/first-contributions.git- [yiquanfeng](https://github.com/yiquanfeng)
 - [Codeveno](https://github.com/Codeveno)
 - [ibrahim-sisar](https://github.com/ibrahim-sisar) from Gaza, Palestine
 - [EshanyaORNifa1211](https://github.com/Nifa1211)
@@ -3121,7 +3122,7 @@
 - [Sohib](https://github.com/abdimannabov) The Moon Haunts You!
 - [Kelly Sun](https://github.com/xiyuansun)
 - [Oladimeji](https://github.com/boladimeji834) Destined for More!
-- [HarisChandio](https://github.com/HarisChandio) DhatteBayo!
+- [HarisChandio](https://github.com/HarisChandio) Dhhttps://github.com/Regan2327/first-contributions.gitatteBayo!
   [Hahaem1ly](https://github.com/hahaem1ly)
   [TeefAlfadhli](https://github.com/TeefAlfadhli) Hello Teef is HERE
 - [Raeef Chowdhury](https://github.com/Raeef-Chowdhury/) Aspiring 15 year old developer
@@ -3144,4 +3145,5 @@
 - [csuer411](https://github.com/csuer411)
 - [sciisawesome](https://github.com/sciisawesome)
 - [Sahand Jamalzadeh] (https://github.com/jamalzadeh-sahand)
-- [Akhil sai](https://github.com/akhiltech-dev) Lets do it 🔥
+- [Akhil sai](https://github.com/akhiltech-dev) Lets do it 
+_ 🔥
