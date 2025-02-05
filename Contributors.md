@@ -1,4 +1,4 @@
-Aditi Menon# Contributors
+# Contributors
 
 - [pauldbg](https://github.com/Pauldbg)
 - [joothy](https://github.com/thikshathajoothy)
@@ -37,7 +37,8 @@ Aditi Menon# Contributors
 - [Mark Tomescu](https://github.com/NEVERdieNM) Hi, first contribution
 - [David Jahn](https://github.com/DavidJahnPY)
 - [Lestlin Robins](https://github.com/LestlinRobins)
-- [Salma Fadl Azhttpszam](https://github.com/salmafadlabdulrahman)
+- [Shankar Reddy](https://github.com/Shankar3804)
+- [Salma Fadl Azzam](https://github.com/salmafadlabdulrahman)
 - [Cindy Muraya](https://github.com/CindyMuraya)
 - [Bijay Thomas](https://github.com/bijaythms)
 - [Aditi Babu](https://github.com/aditib25)
