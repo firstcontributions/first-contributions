@@ -3163,4 +3163,4 @@
 - [Sahand Jamalzadeh] (https://github.com/jamalzadeh-sahand)
 - [Akhil sai](https://github.com/akhiltech-dev) Lets do it 🔥
 - [Shreya B](https://github.com/Shreyaa100)
-- [Md. Adnan Qamar](https://github.com/AdnanQamar-dev) New Here!
+- [Md. Adnan Qamar](https://github.com/AdnanQamar-dev) New Here
