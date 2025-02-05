@@ -3171,4 +3171,5 @@
 - [Akhil sai](https://github.com/akhiltech-dev) Lets do it 🔥
 - [Adhwaide Krishna](https://github.com/Adhwaide) 
 - [Shreya B](https://github.com/Shreyaa100)
+- [beiminghaoze](https://github.com/beiminghaoze)
 - [Akanksha Uniyal](https://github.com/akankshauniyal)
