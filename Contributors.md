@@ -35,6 +35,7 @@
 - [Jack Kraus](https://github.com/jack-kraus)
 - [Sushovit Shah](https://github.com/Sushovit204)
 - [0v3nb1rd](https://github.com/0v3nb1rd)
+- [Dayyan Hamid](https://github.com/dayy346)
 - [Loic CHECK](https://github.com/NDZIE444)
 - [Muhammed Serim](https://github.com/mahitox38)
 - [Otavio Gomes](https://github.com/otgomes) 👈(ﾟヮﾟ 👈)
