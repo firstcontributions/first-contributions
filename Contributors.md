@@ -3124,9 +3124,6 @@
 - [PhilDaiguille](https://github.com/PhilDaiguille)
 - [Do Ngoc Hieu](https://github.com/dongochieu268)
 - [Leon Fray](https://github.com/Leon-Fray)
-<<<<<<< HEAD
-- [Josue Ordonez](https://github.com/r4zu)
-=======
 - [Khizar Nadeem](https://github.com/KhiziNadeem)
 - [Josue Ordonez](https://github.com/r4zu)
 - [Soleil Herring](https://github.com/soleilherring)
@@ -3139,4 +3136,3 @@
 - [sciisawesome](https://github.com/sciisawesome)
 - [Sahand Jamalzadeh] (https://github.com/jamalzadeh-sahand)
 - [Akhil sai](https://github.com/akhiltech-dev) Lets do it 🔥
->>>>>>> 5a8ec7be1d64a792eafe7708c76cfd2fff655004
