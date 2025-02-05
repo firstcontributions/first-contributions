@@ -1,5 +1,6 @@
 # Contributors
 
+- [Prashant/Kenny](https://github.com/Prashant-SG14)
 - [Md Faizan Ashrafi](https://github.com/mdfaizanashrafi) Hey Guys! Not my first contribution
 - [yash](https://github.com/YASHWANTHBH1)- hi
 - [pauldbg](https://github.com/Pauldbg)
