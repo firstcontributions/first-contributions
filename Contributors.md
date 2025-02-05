@@ -5,6 +5,7 @@
 - [Md Faizan Ashrafi](https://github.com/mdfaizanashrafi) Hey Guys! Not my first contribution
 - [yash](https://github.com/YASHWANTHBH1)- hi
 - [pauldbg](https://github.com/Pauldbg)
+- [LeandroKellerSalto](https://github.com/lksalto)
 - [joothy](https://github.com/thikshathajoothy)
 - [maplesyrup0423](https://github.com/maplesyrup0423)
 - [Arman khan](https://github.com/Rage400)
