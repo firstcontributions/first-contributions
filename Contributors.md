@@ -134,6 +134,7 @@
 - [whatsup]
 - [takayuki]
 - [Cindy]
+- [Debasis Dash] (https://github.com/dashDebasis123)
 - [Abdalla Hassan](https://github.com/GitAbdalla)
 - [Shaikat](https://github.com/Shaikats/)
 - [shadow-is-hear]
