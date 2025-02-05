@@ -3147,3 +3147,4 @@
 - [Sahand Jamalzadeh] (https://github.com/jamalzadeh-sahand)
 - [Akhil sai](https://github.com/akhiltech-dev) Lets do it 🔥
 - [Hardik Parmar] (https://github.com/hardikjp7)
+- [Hardik Parmar] (https://www.linkedin.com/in/hardikjp/)
