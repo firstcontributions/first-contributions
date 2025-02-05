@@ -1,5 +1,6 @@
 # Contributors
 
+- [yash](https://github.com/YASHWANTHBH1)- hi
 - [pauldbg](https://github.com/Pauldbg)
 - [joothy](https://github.com/thikshathajoothy)
 - [maplesyrup0423](https://github.com/maplesyrup0423)
