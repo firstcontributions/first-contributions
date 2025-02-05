@@ -523,6 +523,7 @@
 - [Nikhil Kr Das](https://github.com/nikhil94058)
 - [Sehige](https://github.com/Sehige) : hi mom!
 - [Leo.G](https://github.com/LeoZFG)
+- [Lucky Orji](https://github.com/lumpy72006)
 - [aassalax](https://github.com/aassalax) : Web developer
 - [A N M Mashud](https://github.com/anmmashud)
 - [Jeff Martin](https://github.com/siberian-devsky) :01.06.25
