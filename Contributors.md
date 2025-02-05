@@ -48,6 +48,7 @@
 - [Dharambir Agrawal](https://github.com/DharambirAgrawal)
 - [Jack Kraus](https://github.com/jack-kraus)
 - [Sushovit Shah](https://github.com/Sushovit204)
+- [Nik Ahmad Izzat](https://github.com/NikPrivate)
 - [0v3nb1rd](https://github.com/0v3nb1rd)
 - [Dayyan Hamid](https://github.com/dayy346)
 - [Loic CHECK](https://github.com/NDZIE444)
