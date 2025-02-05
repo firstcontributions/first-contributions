@@ -40,6 +40,7 @@
 - [Cindy Muraya](https://github.com/CindyMuraya)
 - [Bijay Thomas](https://github.com/bijaythms)
 - [Aditi Babu](https://github.com/aditib25)
+- [Sanskar Soni](https://github.com/TheCodeSculptor-cmd/first-contributions.git)
 - [Prakash Dass](https://github.com/rprakashdass)
 [Athulpshajil](https://github.com/ATHULAPS)
 - [Lucas Souza](https://github.com/lucasrbsouza)
