@@ -25,9 +25,11 @@
 - [Mark Tomescu](https://github.com/NEVERdieNM) Hi, first contribution
 - [David Jahn](https://github.com/DavidJahnPY)
 - [Lestlin Robins](https://github.com/LestlinRobins)
-- [Salma Fadl Azzam](https://github.com/salmafadlabdulrahman)
+- [Salma Fadl Azhttpszam](https://github.com/salmafadlabdulrahman)
 - [Cindy Muraya](https://github.com/CindyMuraya)
 - [Aditi Babu](https://github.com/aditib25)
+- [Joshila Jose]( https://github.com/Joshila789)
+
 - [Prakash Dass](https://github.com/rprakashdass)
 - [Lucas Souza](https://github.com/lucasrbsouza)
 - [Bhaskar Rawat](https://github.com/bhaskarrawat2002)
