@@ -1,6 +1,7 @@
 # Contributors
-[Arman khan](https://github.com/Rage4005)
 
+- [joothy](https://github.com/thikshathajoothy)
+- [Arman khan](https://github.com/Rage400)
 - [Somisrbija](https://github.com/SomiSrbija)
 - [Maxime Benoit](https://github.com/Max13500)
 - [Feng-chengyi](https://github.com/Feng-chengyi)
