@@ -111,6 +111,7 @@
   Hugh Gramelspacher
 - [Tomer Dahan](https://github.com/Tomer72)
 - [Jesus Lopez](https://github.com/jlopezmarti20)
+- [Mariana Junghans] (https://github.com/mbittencourt96)
   [Albin Thomas](https://github.com/Albi-10git)
 - [Sagar Niroula](https://github.com/sagarniroula112)
   [Sambhav Jhunjhunwala](https://github.com/Sambhav774)
