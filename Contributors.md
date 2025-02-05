@@ -37,10 +37,11 @@
 - [Mark Tomescu](https://github.com/NEVERdieNM) Hi, first contribution
 - [David Jahn](https://github.com/DavidJahnPY)
 - [Lestlin Robins](https://github.com/LestlinRobins)
-- [Salma Fadl Azzam](https://github.com/salmafadlabdulrahman)
+- [Salma Fadl Azhttpszam](https://github.com/salmafadlabdulrahman)
 - [Cindy Muraya](https://github.com/CindyMuraya)
 - [Bijay Thomas](https://github.com/bijaythms)
 - [Aditi Babu](https://github.com/aditib25)
+- [Joshila Jose]( https://github.com/Joshila789)
 - [febin bijoy jestin](https://github.com/febinbioyjestin)
 - [Sanskar Soni](https://github.com/TheCodeSculptor-cmd/first-contributions.git)
 - [Prakash Dass](https://github.com/rprakashdass)
