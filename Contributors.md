@@ -1,6 +1,7 @@
 # Contributors
 
 - [joothy](https://github.com/thikshathajoothy)
+- [maplesyrup0423](https://github.com/maplesyrup0423)
 - [Arman khan](https://github.com/Rage400)
 - [Somisrbija](https://github.com/SomiSrbija)
 - [Maxime Benoit](https://github.com/Max13500)
