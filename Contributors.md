@@ -995,6 +995,7 @@
 - [Jeel Bera](https://github.com/beraj2330)
 - [turtle-papa](https://github.com/turtle-papa)6
 - [Tejasri P R](https://github.com/Tejasri0608)
+- JackJin
 - [wystmk](https://github.com/wystmk)
 - [Emiakpor](https://github.com/Emiakpor)
 - [hyenee99](https://github.com/hyenee99)
