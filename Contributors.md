@@ -61,7 +61,7 @@
 - [Dharambir Agrawal](https://github.com/DharambirAgrawal)
 - [Jack Kraus](https://github.com/jack-kraus)
 - [Sushovit Shah](https://github.com/Sushovit204)
-- [Nik Ahmad Izzat](https://github.com/NikPrivate)
+- [NikPrivate](https://github.com/NikPrivate)
 - [junocodex] (https://github.com/junocodex)
 - [0v3nb1rd](https://github.com/0v3nb1rd)
 - [Dayyan Hamid](https://github.com/dayy346)
