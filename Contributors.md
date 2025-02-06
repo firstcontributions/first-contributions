@@ -3038,6 +3038,7 @@
 - [Udaya Sri](https://github.com/Udaya19SRI)
 - [Likhita](https://github.com/likhita666)
 - Shifra
+- [Harison Harold](https://github.com/harisonharold)
 - [dshenforza](https://github.com/dshenforza)
 - [Peng Zixuan](https://github.com/wingpeng30)
 - [Moenes Zribi](https://github.com/zribimoenes)
