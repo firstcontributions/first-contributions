@@ -2,6 +2,7 @@
 
 - [Prashant/Kenny](https://github.com/Prashant-SG14)
 - [srmorita](https://github.com/srmorita)
+- [Akhilesh Pratap Shahi](https://github.com/shahiakhilesh1304) Note: This is my first contribution looking forward to contribute as a Data Scientist/Python Developer/Data Engineer/ AI Engineer.
 - [Md Faizan Ashrafi](https://github.com/mdfaizanashrafi) Hey Guys! Not my first contribution
 - [yash](https://github.com/YASHWANTHBH1)- hi
 - [pauldbg](https://github.com/Pauldbg)
