@@ -60,6 +60,7 @@
 - [Ujjwal Pandit](https://github.com/Ujjwal-Pandit)
 - [Aman Deshpande](https://github.com/amandesh694)
 - Janne
+- Jasmeet
 - Aayush Gupta
 - datascrapper
 - [Amirul Hamiezan from Terengganu](https://github.com/mirul-Work)
