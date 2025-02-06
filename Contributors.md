@@ -1,6 +1,6 @@
 # Contributors
 
-- [Prashant/Kenny](https://github.com/Prashant-SG14)
+- [Ronan Barry](https://github.com/Prashant-SG14)
 - [srmorita](https://github.com/srmorita)
 - [Md Faizan Ashrafi](https://github.com/mdfaizanashrafi) Hey Guys! Not my first contribution
 - [yash](https://github.com/YASHWANTHBH1)- hi
