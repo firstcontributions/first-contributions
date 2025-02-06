@@ -29,6 +29,7 @@
 - [Sakshi Garg](https://github.com/sakshi-garg) Hiiii
 - [Manas Salian](https://github.com/Manas-salian) It's my first open-source contribution, yippee!
 - [TheTrinch] (https://github.com/TheTrinch)
+- [Stoplight] (https://github.com/LeulShiferaw) HELLO FELLOW CODERS
 - [omsudhamsh] (https://github.com/omsudhamsh)
 - [Omar Suarez](https://github.com/omar-suarez)
 - [Himanshu Kumar](https://github.com/H1manshu-Kumar) Here comes my first open-source contribution! :D
