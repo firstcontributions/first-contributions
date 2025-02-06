@@ -24,6 +24,7 @@
 - [K M Arif](https://github.com/kmarif2006)
 - [Shadrack Dorkenoo](https://github.com/shadyOg)
 - ryanmathew
+-[HassanKoraim]
 - [Thaddeus](https://github.com/madladthad42) yipeeeeeeeeeeee
 - [Sakshi Garg](https://github.com/sakshi-garg) Hiiii
 - [Manas Salian](https://github.com/Manas-salian) It's my first open-source contribution, yippee!
@@ -174,6 +175,7 @@
 - [Durgesh Shekhawat](https://github.com/durgeshhhhhhh)
 - [Omkar Nath](https://github.com/nathomkar799/first-contributions)
 - mridul vaishnav
+- [einegbenosun](https://github.com/einegbenosun)
 - [Mrinal Singh](https://github.com/MrinalSingh04)
 - [Mkrsun](https://github.com/Mkrsun)
 - [Shalini](https://github.com/ShaliniKashyap717)
@@ -298,6 +300,7 @@
 - [Redbellpepper7079](https://github.com/Redbellpepper7079) \*\*
 - [SVSHV](https://github.com/SVSHV)
 - [Alex Hagen](https://github.com/Paucey)
+- [Filipa Daniela Barbosa](https://github.com/DanielaBarbosa13)
 - [Gabryel Bele](https://github.com/GabryelBele)
 - [mahinur](https://github.com/fatima2022/first-contributions)
 - [Impana B C](https://github.com/impanabc21) "Aspiring Developer"
@@ -3038,6 +3041,7 @@
 - [Udaya Sri](https://github.com/Udaya19SRI)
 - [Likhita](https://github.com/likhita666)
 - Shifra
+- [Harison Harold](https://github.com/harisonharold)
 - [dshenforza](https://github.com/dshenforza)
 - [Peng Zixuan](https://github.com/wingpeng30)
 - [Moenes Zribi](https://github.com/zribimoenes)
@@ -3233,4 +3237,6 @@
 - [Imran Basha](https://github.com/DreamsOfImran) Consistency is the key
 - [Virender Thakur](https://github.com/iam-viru) Let's start coding...
 - [Ritik Singh](https://github.com/Hey-Ritik) Starting to open source...
-- [Carlos Ripolles Motos](https://github.com/Carlos19uji/first-contributions/branches?branch_event=branch%2520%27test-branch%27%2520was%2520created) 
+- [Lucia Cepria](https://github.com/luciacepria) 
+- [ocean0s](https://github.com/ocean0s) 
+- [Carlos Ripolles Motos](https://github.com/Carlos19uji)
