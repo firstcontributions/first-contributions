@@ -3239,3 +3239,4 @@
 - [Ritik Singh](https://github.com/Hey-Ritik) Starting to open source...
 - [Lucia Cepria](https://github.com/luciacepria) 
 - [ocean0s](https://github.com/ocean0s) 
+- [Carlos Ripolles Motos](https://github.com/Carlos19uji)
