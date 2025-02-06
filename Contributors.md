@@ -174,6 +174,7 @@
 - [Durgesh Shekhawat](https://github.com/durgeshhhhhhh)
 - [Omkar Nath](https://github.com/nathomkar799/first-contributions)
 - mridul vaishnav
+- [einegbenosun](https://github.com/einegbenosun)
 - [Mrinal Singh](https://github.com/MrinalSingh04)
 - [Mkrsun](https://github.com/Mkrsun)
 - [Shalini](https://github.com/ShaliniKashyap717)
