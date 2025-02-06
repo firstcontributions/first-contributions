@@ -123,6 +123,7 @@
 - [yasaswini majety](https://github.com/yasaswinim09).
 - [Aryan C] (https://github.com/aryanc-04)
 - [Victor Alonzo](https://github.com/victorhalonzo)
+- [Karan Arora](https://github.com/karanarora)
 - [Eric Mokuma](https://github.com/eric-mokuma)
 - [O4bit](https://github.com/O4bit)
 - [Harry](https://github.com/CampbellHarry)
