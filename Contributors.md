@@ -130,6 +130,7 @@
 - [Eric Mokuma](https://github.com/eric-mokuma)
 - [O4bit](https://github.com/O4bit)
 - [Harry](https://github.com/CampbellHarry)
+- [NTNS](https://github.com/NantTheintNadiSoe)
 - Mamai Nataki Hello open source world >]
 - [Daniel Okot](https://github.com/okotdaniel)
 - [Mohamed Elsadek](https://github.com/mobaqii) _DEVOPS_
