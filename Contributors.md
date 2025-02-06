@@ -213,6 +213,7 @@
 - [Aman Deshpande](https://github.com/amandesh694)
 - [Kishan J](https://github.com/Iamkishan08)
 - Janne
+- Jasmeet
 - Aayush Gupta
 - datascrapper
 - [Amirul Hamiezan from Terengganu](https://github.com/mirul-Work)
