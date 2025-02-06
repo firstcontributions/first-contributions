@@ -23,6 +23,7 @@
 - [K M Arif](https://github.com/kmarif2006)
 - [Shadrack Dorkenoo](https://github.com/shadyOg)
 - ryanmathew
+- [TheTrinch] (https://github.com/TheTrinch)
 - [omsudhamsh] (https://github.com/omsudhamsh)
 - [Omar Suarez](https://github.com/omar-suarez)
 - [Himanshu Kumar](https://github.com/H1manshu-Kumar) Here comes my first open-source contribution! :D
