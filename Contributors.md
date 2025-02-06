@@ -2526,6 +2526,7 @@
 - [Maral Yousefi](https://github.com/Marall-Y)
 - [Elijah Love](https://elijahlove.xyz)
 - [Ksnq](https://github.com/devcembeer) [Website](https://ksnq.me)
+- [LisZLisowni2](https://github.com/LisZLisowni2)
 - [Ashika Dsilva](https://github.com/ashikadsilva)
 - [tenere](https://github.com/000tenere000)
 - [Mohamed-Anasse](https://github.com/OuraghiMohamed-Anasse)
