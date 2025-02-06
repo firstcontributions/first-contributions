@@ -23,6 +23,7 @@
 - [K M Arif](https://github.com/kmarif2006)
 - [Shadrack Dorkenoo](https://github.com/shadyOg)
 - ryanmathew
+- [Sakshi Garg](https://github.com/sakshi-garg) Hiiii
 - [Manas Salian](https://github.com/Manas-salian) It's my first open-source contribution, yippee!
 - [TheTrinch] (https://github.com/TheTrinch)
 - [omsudhamsh] (https://github.com/omsudhamsh)
