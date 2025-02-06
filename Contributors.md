@@ -1276,6 +1276,7 @@
 - [Rahul Gurav](https://github.com/RahulGurav82)
 - [Vinicius Alves Amorim](https://github.com/am0rimdev)
 - [aseel matta](https://github.com/aseelmatta)
+- [Amar Yasser](https://github.com/AmarYasser1)
 - [Lulu Harvey](https://github.com/luluharvey)
 - [ma3ti](https://github.com/ma3ti)
 - [J-Kosm](https://github.com/J-Kosm)
