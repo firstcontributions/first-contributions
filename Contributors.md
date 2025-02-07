@@ -23,7 +23,7 @@
 - [Richard Nixon](https://github.com/richardnixondev)
 - [Tony Montana](https://github.com/tonymont4n4)
 - [Dhanvin Ratheesh](https://github.com/dhanvin-6)
-- [Syed Tawakkal](https://github.com/SyedTawakkal)   
+- [Syed Tawakkal](https://github.com/SyedTawakkal)      
 - [Val Ryan](https://github.com/valryanb/)                           
 - [K M Arif](https://github.com/kmarif2006)
 - [Shadrack Dorkenoo](https://github.com/shadyOg)
@@ -674,7 +674,7 @@
 - Celeste
 - Lokesh
 - eisthron
--    Akshaya R
+-    Akshaya R 
 - [AC](https://github.com/FortKnoxWasTaken)
 - [Yisel Cintora Vega](https://github.com/yisel260)
 - [Mohit-Goswami](https://github.com/Mohitgoswami18)
@@ -3232,7 +3232,7 @@
 - [Tom Mathew](https://github.com/tommathewz)
 - [Hardik Parmar](https://github.com/hardikjp7)
 - [Hardik Parmar](https://www.linkedin.com/in/hardikjp/)
-- [Adhwaide Krishna](https://github.com/Adhwaide)
+- [Adhwaide Krishna](https://github.com/Adhwaide) 
 - [Shreya B](https://github.com/Shreyaa100)
 - [beiminghaoze](https://github.com/beiminghaoze)
 - [Akanksha Uniyal](https://github.com/akankshauniyal)
