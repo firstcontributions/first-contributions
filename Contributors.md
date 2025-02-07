@@ -1,5 +1,6 @@
 # Contributors
 
+- [Ronan Barry](https://github.com/Prashant-SG14)
 - [Ziqi LI](https://github.com/zli353) 🚀Hello world!
 - [maxx](https://github.com/MMAX2000)
 - [Prashant/Kenny](https://github.com/michalshelenberg)
