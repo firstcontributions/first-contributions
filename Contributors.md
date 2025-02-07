@@ -759,6 +759,7 @@
 - [aqeelabpro](https://github.com/aqeelabpro)
 - Bandish Patel.
 - [jspop]
+- [Fred Mwaniki](https://github.com/ngari-s8z)
 - [gyanchandkabra](https://github.com/gyanchandkabra)
 - [harshit](https://github.com/harshitpatel862)
 - [Giusnovetti](https://github.com/Giusnovetti)
