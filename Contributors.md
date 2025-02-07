@@ -134,6 +134,7 @@
 - [Yadneshx17](https://github.com/yadneshx17)
 - [Anu Kanthaswamy](https://github.com/anukanthaswamy)
 - [yasaswini majety](https://github.com/yasaswinim09).
+- [Loyal Chen](https://github.com/kxdds)
 - [Aryan C] (https://github.com/aryanc-04)
 - [Victor Alonzo](https://github.com/victorhalonzo)
 - [Karan Arora](https://github.com/karanarora)
