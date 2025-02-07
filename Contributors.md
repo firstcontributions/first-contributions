@@ -20,7 +20,8 @@
 - [Richard Nixon](https://github.com/richardnixondev)
 - [Tony Montana](https://github.com/tonymont4n4)
 - [Dhanvin Ratheesh](https://github.com/dhanvin-6)
-- [Syed Tawakkal](https://github.com/SyedTawakkal)                                 
+- [Syed Tawakkal](https://github.com/SyedTawakkal)      
+- [Val Ryan](https://github.com/valryanb/)                           
 - [K M Arif](https://github.com/kmarif2006)
 - [Shadrack Dorkenoo](https://github.com/shadyOg)
 - ryanmathew
