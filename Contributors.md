@@ -71,6 +71,7 @@
 [Athulpshajil](https://github.com/ATHULAPS)
 - [Lucas Souza](https://github.com/lucasrbsouza)
 - [Bhaskar Rawat](https://github.com/bhaskarrawat2002)
+- [Pranav Vijitharan](https://github.com/Pranav-Vijitharan)
 - [Sarang Jayagopal](https://github.com/Sarang-2004)
 - [Dharambir Agrawal](https://github.com/DharambirAgrawal)
 - [Jack Kraus](https://github.com/jack-kraus)
