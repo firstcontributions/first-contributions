@@ -3219,6 +3219,7 @@
 - [Anmol Kumar](https://github.com/anmolkumarfromspn) test
 - [PhilDaiguille](https://github.com/PhilDaiguille)
 - [Do Ngoc Hieu](https://github.com/dongochieu268)
+- [Jack Jackson-Lane](https://github.com/JJLane13)
 - [Leon Fray](https://github.com/Leon-Fray)
 - [Khizar Nadeem](https://github.com/KhiziNadeem)
 - [Josue Ordonez](https://github.com/r4zu)
