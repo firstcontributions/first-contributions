@@ -169,6 +169,7 @@
 - [Venkat-Koushik](https://github.com/vkoushik15)
 - [Lungelo Nzimande] (https://github.com/LungeloNzimande)
 - [Marcus](https://github.com/JunQi123-del)
+- [Yasmin Oliveira](https://github.com/yasminvo)
 - [Ruksh Seran] (https://github.com/RukshS)
 - [Nikita kanwar - My first contribution ](https://github.com/Nikitakanwar4)
 - [Ratna-Babu](https://github.com/Ratna-Babu)
