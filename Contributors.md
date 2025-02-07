@@ -3249,6 +3249,7 @@
 - [DucNhat03](https://github.com/DucNhat03) from Viet Nam
 - [will-kyda](https://github.com/will-kyda) yes it's me
 - [Kolbacyn](https://github.com/Kolbacyn)
+- [karanam karthik](https://github.com/Karanamkathik) starting my open source journey
 - [Chris Lee](https://github.com/ChrisLee2C)
 - [Ezio Zhang](https://github.com/zzhang025)
 - [Imran Basha](https://github.com/DreamsOfImran) Consistency is the key
