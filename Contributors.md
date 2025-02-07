@@ -88,6 +88,7 @@
 - [Muhammed Serim](https://github.com/mahitox38)
 - [Otavio Gomes](https://github.com/otgomes) 👈(ﾟヮﾟ 👈)
 - [Aatif Khan](https://github.com/Aatif-K47)
+- [Patrick Leonard](https://github.com/p-leonard) Hopefully the first contribution of many!
 - [Shashank Dahake](https://github.com/ShashankDahake7)
 - [fathima mahvish](https://github.com/fathimamahvish)
 - [Adarsh Nair]{https://github.com/adarshnair094}
