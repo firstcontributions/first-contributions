@@ -3211,8 +3211,11 @@
 - [Kelly Sun](https://github.com/xiyuansun)
 - [Oladimeji](https://github.com/boladimeji834) Destined for More!
 - [HarisChandio](https://github.com/HarisChandio) DhatteBayo!
-  [Hahaem1ly](https://github.com/hahaem1ly)
-  [TeefAlfadhli](https://github.com/TeefAlfadhli) Hello Teef is HERE
+- [Hahaem1ly](https://github.com/hahaem1ly)
+- [Talha Coşkun](https://github.com/ttalhacoskun)
+- [Hahaem1ly](https://github.com/hahaem1ly)
+- [Hahaem1ly](https://github.com/hahaem1ly)
+- [TeefAlfadhli](https://github.com/TeefAlfadhli) Hello Teef is HERE
 - [Raeef Chowdhury](https://github.com/Raeef-Chowdhury/) Aspiring 15 year old developer
 - [Atilla Ertas](https://github.com/atillaertas1)
 - [Rahul Shendre](https://github.com/rahulshendre) let's do it
@@ -3225,6 +3228,7 @@
 - [Leon Fray](https://github.com/Leon-Fray)
 - [Khizar Nadeem](https://github.com/KhiziNadeem)
 - [Josue Ordonez](https://github.com/r4zu)
+- [Zach Lindemuth](https://github.com/Zach-Lindemuth)
 - [Soleil Herring](https://github.com/soleilherring)
 - [Zach Lindemuth](https://github.com/Zach-Lindemuth)
 - [Sayudha](https://github.com/mazaya-studio)
