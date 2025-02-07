@@ -14,6 +14,7 @@
 - [maplesyrup0423](https://github.com/maplesyrup0423)
 - [Arman khan](https://github.com/Rage400)
 - [Somisrbija](https://github.com/SomiSrbija)
+- [Estilo Joseph] (https://github.com/sephhsephh) nice
 - [Andrea-Sgarbi](https://github.com/Andrea-Sgarbi) Hello everyone, this is my first contribution! :)
 - [Maxime Benoit](https://github.com/Max13500)
 - [Feng-chengyi](https://github.com/Feng-chengyi)
