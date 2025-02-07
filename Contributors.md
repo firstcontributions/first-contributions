@@ -171,6 +171,7 @@
 - [vijay](https://github.com/vijayanarasimhareddy)
 - [Vraj Ved](https://github.com/VrajVed) 
 - [Innocente Mutabazi Umuhuza](https://github.com/innocentemutabazi)
+- [Prathita Gorantla](https://github.com/GPS4)
 - [Swatantra](https://github.com/Swatantra-66)
 - [IndiraP](https://github.com/indirapanneer)
 - [Paul Cave](https://github.com/paulcave001)
