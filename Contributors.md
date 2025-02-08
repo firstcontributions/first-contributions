@@ -34,6 +34,7 @@ Nataly Cristina (https://github.com/natycristina)
 - [Badrinath](https://github.com/Badrinath7941)
 - [Muzamil](https://github.com/M-Codes6) Hey folks, i cloned the repo and this is my first contribution in the open source world 
 - [Brayan Kai](https://github.com/mwanyumba7)
+Add Bilal Hasan
 - [Binaryguardia](https://github.com/binaryguardia)
 - [Richard Nixon](https://github.com/richardnixondev)
 - [Tony Montana](https://github.com/tonymont4n4)
