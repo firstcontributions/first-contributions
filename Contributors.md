@@ -27,6 +27,7 @@ Nataly Cristina (https://github.com/natycristina)
 - [Maxime Benoit](https://github.com/Max13500)
 - [Feng-chengyi](https://github.com/Feng-chengyi)
 - [Badrinath](https://github.com/Badrinath7941)
+- [Muzamil](https://github.com/M-Codes6) Hey folks, i cloned the repo and this is my first contribution in the open source world 
 - [Brayan Kai](https://github.com/mwanyumba7)
 - [Binaryguardia](https://github.com/binaryguardia)
 - [Richard Nixon](https://github.com/richardnixondev)
@@ -3197,6 +3198,7 @@ Nataly Cristina (https://github.com/natycristina)
 - [HELLO,I am cty](https://github.com/awsomecty) BE HAPPY EVERYDAY
 - [Hello everyone! I am so excited to be a part of this contribution](https://github.com/Shilpa3107)
 - [Harris Salimo](https://github.com/harris-salimo)
+- [Emmanuel Enzeyi](https://github.com/EmmanuelEnzeyigit )
 - [Anas Rabhi](https://github.com/annous246)
 - [Antonio Azmovi Cicero](https://github.com/azmovi)
 - [Luiz Otávio Teixeira Mello](https://github.com/LuizOt31) | Hello mundo!
