@@ -323,6 +323,7 @@ Nataly Cristina (https://github.com/natycristina)
 - [Redbellpepper7079](https://github.com/Redbellpepper7079) \*\*
 - [SVSHV](https://github.com/SVSHV)
 - [Alex Hagen](https://github.com/Paucey)
+- [Harsha Aradhya](https://github.com/Harsha1849)
 - [Filipa Daniela Barbosa](https://github.com/DanielaBarbosa13)
 - [Gabryel Bele](https://github.com/GabryelBele)
 - [mahinur](https://github.com/fatima2022/first-contributions)
