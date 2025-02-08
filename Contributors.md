@@ -18,6 +18,7 @@
 - [Aakash](https://github.com/aakash1v)- This is my first contribution..
 - [JAGADEESH](https://github.com/Jagadeesh-18-bot) - First contribution 
 - [pauldbg](https://github.com/Pauldbg)
+- [Vinicius da Luz](https://github.com/Lvght)
 - [LeandroKellerSalto](https://github.com/lksalto)
 - [joothy](https://github.com/thikshathajoothy)
 - [maplesyrup0423](https://github.com/maplesyrup0423)
