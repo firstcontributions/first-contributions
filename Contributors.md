@@ -6,6 +6,7 @@
 - [Prashant/Kenny](https://github.com/michalshelenberg)
 - [Prashant/Kenny](https://github.com/Prashant-SG14)
 - [srmorita](https://github.com/srmorita)
+- Hiddon
 - [Md Afridi Sk](https://github.com/hackerslash)
 - [Akhilesh Pratap Shahi](https://github.com/shahiakhilesh1304) Note: This is my first contribution looking forward to contribute as a Data Scientist/Python Developer/Data Engineer/ AI Engineer.
 - [Misanthropic](https://github.com/misanthropic23)
