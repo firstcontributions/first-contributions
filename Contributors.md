@@ -39,6 +39,7 @@ Nataly Cristina (https://github.com/natycristina)
 - [Val Ryan](https://github.com/valryanb/)                           
 - [K M Arif](https://github.com/kmarif2006)
 - [Shadrack Dorkenoo](https://github.com/shadyOg)
+- [Brian kemboi](https://github.com/kemboi5928)
 - ryanmathew
 -[HassanKoraim]
 - [Thaddeus](https://github.com/madladthad42) yipeeeeeeeeeeee
