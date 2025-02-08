@@ -60,6 +60,7 @@ Nataly Cristina (https://github.com/natycristina)
 - [Harshvardhan Mundada](https://github.com/KeshavSM10)
 - [Mohammad Junaid Abbasi](https://github.com/mjunaid280)
 - [Naman Saini](https://github.com/NamanSaini18) First Contribution, YaY!!
+- [prathikrvs163] (https://github.com/prathikrvs163)
 - [Waverew](https://github.com/waverew) // Oh hi there)
 - [Mark Tomescu](https://github.com/NEVERdieNM) Hi, first contribution
 - [David Jahn](https://github.com/DavidJahnPY)
