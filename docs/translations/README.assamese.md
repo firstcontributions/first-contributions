@@ -1,5 +1,4 @@
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-2vqegkew0-ZuzGM1LO33C6Ts4nZyat1Q)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -143,8 +142,6 @@ Pull Request জমা দিয়ক
 অভিনন্দন! আপুনি কেৱল সম্পূৰ্ণ কৰিলে fork -> clone -> edit -> pull request কাৰ্যধাৰাটোৰ মানসংগত ৰূপ যি প্ৰায়ে এক অবদানকাৰী হিচাপে সন্মুখীন হ'ব!
 
 আপোনাৰ অৱদান উদযাপন কৰক আৰু আপোনাৰ বন্ধু আৰু অনুসাৰকসকলৰ সৈতে ইয়াক শেয়াৰ কৰক [web app](https://firstcontributions.github.io/#social-share).
-
-আপুনি আমাৰ Slack দলত যোগদান কৰিব পাৰে যদি আপোনাৰ সহায়ৰ প্ৰয়োজন হয় বা কোনো প্ৰশ্ন থাকে। [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-2vqegkew0-ZuzGM1LO33C6Ts4nZyat1Q).
 
 এতিয়া আপোনাক আন প্ৰকল্পত অৱদান কৰিবলৈ আৰম্ভ কৰা যাক। আমি সহজ সমস্যাসমূহ সহ কিছু প্ৰকল্পৰ তালিকা সংকলন কৰিছো যাৰ সহায়ত আপুনি আৰম্ভ কৰিব পাৰে। [ৱেব এপত প্ৰকল্পসমূহৰ তালিকা পৰীক্ষা কৰক](https://firstcontributions.github.io/#project-list).
 

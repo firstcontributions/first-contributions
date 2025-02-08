@@ -1,5 +1,4 @@
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1n4y7xnk0-DnLVTaN6U9xLU79H5Hi62w)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -136,8 +135,6 @@ Snart vil jeg merge dine endringer inn i master branch av mitt prosjekt. Du vil 
 Gratulerer! Du har gjennomført standardprosessen for _fork -> clone -> edit -> PR_, en prosess du vil møte på ofte!
 
 Feir ditt bidrag og del det med dine venner og følgere ved å gå til [web app](https://firstcontributions.github.io/#social-share).
-
-Behøver du hjelp eller vil stille spørsmål så kan du bli med i vår slack-gruppe. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
 Nå kan du gå videre og bidra til andre open-source prosjekter. Vi har satt sammen en liste med enkle og overkommelige problemer du kan starte med. Sjekk den ut her: [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
 <br/><br/>

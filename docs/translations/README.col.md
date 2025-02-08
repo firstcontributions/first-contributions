@@ -1,5 +1,4 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -115,8 +114,6 @@ Dentro de poco voy a estar fusionando tus cambios (haciendo merge) con la rama m
 ¡Felicitaciones parcero! ¡Le diste la vuelta completa al proceso _fork -> clone -> edit -> PR_ que vas a usar un montón como contribuidor!
 
 Celebrá tu aporte y compartilo con tus amigos y seguidores en la.[web app](https://firstcontributions.github.io/#social-share).
-
-También te podés unir a nuestro equipo de Slack si necesitás una mano o tenés alguna pregunta.[Unite a nuestro Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
 Ahora dale, empezá a contribuir a otros proyectos. Armamos una lista de proyectos con issues fáciles para que arranques. Dale una mirada a la[lista de proyectos en la aplicación web](https://firstcontributions.github.io/#project-list).
 

@@ -1,5 +1,4 @@
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -113,8 +112,6 @@ Së shpejti do të bashkoj (bëj merge) të gjitha ndryshimet te dega master e k
 Urime! Ti sapo ke kompletuar procesin _fork -> clone -> edit -> PR_ që do ta hasësh shpesh si kontributor!
 
 Festoje kontributin tënd dhe ndaje me shokët dhe ndjekësit duke shkuar te [web aplikacioni](https://firstcontributions.github.io/#social-share).
-
-Ti mund të bashkohesh në ekipin tonë në slack nëse të duhet ndihmë ose nëse ke ndonjë pyetje. [Bashkohu ekipit në slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
 Tani të të ndihmojmë që të kontribuosh në projekte tjera. Ne kemi krijuar një listë projektesh me probleme të lehta tek të cilat mund të fillosh. Shiko [listën e projekteve në web apliacion](https://firstcontributions.github.io/#project-list).
 

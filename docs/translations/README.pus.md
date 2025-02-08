@@ -1,5 +1,4 @@
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-vchl8cde-S0KstI_jyCcGEEj7rSTQiA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -92,8 +91,6 @@ git push origin <add-your-branch-name>
 مبارک شه! تاسو یوازې د معیاري فورک(Fork)، کلون(Clone)، ایډیټ(Edit)، او پلولو غوښتنې (Pull Request) کاري فلو بشپړ کړی چې تاسو به ډیری وختونه د مرسته کونکي په توګه ورسره مخ شئ!
 
 خپله ونډه ولمانځئ او له خپلو ملګرو او پیروانو سره یې شریک کړئ [دلته](https://firstcontributions.github.io/#social-share) لاړ شئ.
-
-همدارنګه، تاسو کولی شئ زموږ د Slack ټیم سره یوځای شئ که تاسو کومې مرستې ته اړتیا لرئ یا کومه پوښتنه لرئ. [دلته کلیک وکړی](https://join.slack.com/t/firstcontributors/shared_invite/zt-vchl8cde-S0KstI_jyCcGEEj7rSTQiA)
 
 اوس راځئ چې تاسو په نورو پروژو کې د مرستې سره پیل وکړو. موږ د اسانه مسلو سره د پروژو لیست ترتیب کړی چې تاسو یې پیل کولی شئ. [بشپړ ی وګوره](https://firstcontributions.github.io/#project-list)
 

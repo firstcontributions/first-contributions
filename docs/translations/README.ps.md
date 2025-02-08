@@ -1,8 +1,16 @@
 <div dir="rtl">
-<a href="https://github.com/ellerbrock/open-source-badges/"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source Love"></a><a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green.svg"></a><a href="https://www.codetriage.com/roshanjossey/first-contributions" rel="nofollow"> <img src="https://camo.githubusercontent.com/8e53aecabdd0316ce198fe932798bb0f8754b30f/68747470733a2f2f7777772e636f64657472696167652e636f6d2f726f7368616e6a6f737365792f66697273742d636f6e747269627574696f6e732f6261646765732f75736572732e737667" alt="Open Source Helpers"></a><a href="https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA"> <img align="left" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png"></a>
+<a href="https://github.com/ellerbrock/open-source-badges/"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source Love"></a>
+
+
+<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green.svg"></a><a href="https://www.codetriage.com/roshanjossey/first-contributions" rel="nofollow">
+
+
+
+
+ <img src="https://camo.githubusercontent.com/8e53aecabdd0316ce198fe932798bb0f8754b30f/68747470733a2f2f7777772e636f64657472696167652e636f6d2f726f7368616e6a6f737365792f66697273742d636f6e747269627574696f6e732f6261646765732f75736572732e737667" alt="Open Source Helpers"></a>
 </div>
 
-#<div dir="rtl">لومړی ګډون <div dir="rtl">
+<div dir="rtl">لومړی ګډون <div dir="rtl">
 ***
 <div dir="rtl">
 د دې پروژې موخه دا ده ترڅو نویو پېل کوونکو ته په خلاصو سرچینو پروژو (Open Source Projects) کې د ګډون لاره وښئ که چېرې تاسو غواړی خپل لومړی ګډون پیل کړئ لاندې قدمونه  پر مخ یوسئ.
@@ -120,8 +128,6 @@ git push origin -u add-Masih-Karimi
 خپل لومړئ ګډون مو ولمانځئ او له خپلو ملګرو سره یې <a href="https://firstcontributions.github.io/#social-share"> شریک کړئ</a>
 
 </p>
-
-<p align="right" dir="rtl">که چېرې کومه ستونزه او پوښتنه لرئ کولائ شئ زموږ د سلک slack  ټیم سره یوځائ شئ</p>
 
 <p align="right" dir="rtl">
 اوس راځئ په نورو پروژو کې ګډون وکړئ  موږ د هغو پروژو لیست جمتو کړئ دئ چې تاسو کولائ شئ په آسانی ګډون پکې وکړئ  <a href="https://firstcontributions.github.io/#project-list"> د پروژو لیست دلته وګورئ</a>

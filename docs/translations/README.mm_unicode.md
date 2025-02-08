@@ -1,5 +1,4 @@
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -116,8 +115,6 @@ git push origin <add-your-branch-name>
 Congratulation! Open Source Project တွေမှာ အမြဲလုပ်ရလေ့ရှိတဲ့ _fork -> clone -> edit -> pull request_ လုပ်ငန်းစဥ်ကို သင် အောင်မြင်စွာ လုပ်နိုင်ခဲ့ပါပြီ။
 
 အခု သင်ကူညီထောက်ပံ့ခဲ့တာကို သင့်သူငယ်ချင်းတွေကို share ချင်ရင် [ဒီ web app](https://firstcontributions.github.io/#social-share) ကို သွားပါ။
-
-တခြားအကူအညီများနဲ့ မေးစရာများရှိပါက ကျွန်တော်တို့ရဲ့ Slack team ကို ဝင်ရောက် မေးမြန်းနိုင်ပါတယ်။[Join slack team သို့ ဝင်ရန်](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
 နောက်ထပ် ပရောဂျက်များကိုလည်း ဝင်ရောက်ကူညီလိုပါက ကျွန်တော်တို့ ပြုစုထားတဲ့ ပရောဂျက်စာရင်းကို လေ့လာနိုင်ပါတယ်။ [web app ထဲမှ ပရောဂျက်စာရင်း](https://firstcontributions.github.io/#project-list).
 
