@@ -1,4 +1,4 @@
-git# Contributors
+# Contributors
 - [Pratik](https://github.com/pktensor)  Hello everyone, this is my first contribution! :)
 - [Ronan Barry](https://github.com/Prashant-SG14)
 - [Ziqi LI](https://github.com/zli353) 🚀Hello world!
@@ -3266,7 +3266,6 @@ Nataly Cristina (https://github.com/natycristina)
 - [Naman Thakur](https://github.com/namanthakur22)
 - [Mohab](https://github.com/Mohba0p)
 - [csuer411](https://github.com/csuer411)
-- [praba
 - [Jay](https://github.com/jd20000)
 - [Martin Vollenbröker](https://github.com/Volli4)
 - [csuer411](https://github.com/csuer411)
