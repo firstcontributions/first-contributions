@@ -2997,6 +2997,7 @@ Add Bilal Hasan
 - [Mjerta](https://github.com/mjerta)
 - [hansnam1105](https://github.com/hansnam1105)
 - [Ethan Gao](https://github.com/adamqddnh)
+- [Ming Zhang](https://github.com/mzhang9622)
 - [Prerana Maurya](https://github.com/Prerana-Mauryaa)
 - [Ryan Bae](https://github.com/ryanbae94)
 - [xian](https://github.com/cbxian22)
