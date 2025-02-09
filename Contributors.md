@@ -3310,3 +3310,4 @@ Add Bilal Hasan
 - [Soumadeep46](https://personal-portfolio-esnr.onrender.com/)
 - [Ajay Oraon](https://github.com/Ajay-oraon) ##Backend Developer
 - [Alex I](https://github.com/FilthyActs4Sale)
+- [Sharon Shi](https://github.com/sleepsheee/) #Open Source
