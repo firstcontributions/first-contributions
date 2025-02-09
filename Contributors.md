@@ -3295,6 +3295,7 @@ Add Bilal Hasan
 - [DucNhat03](https://github.com/DucNhat03) from Viet Nam
 - [will-kyda](https://github.com/will-kyda) yes it's me
 - [Kolbacyn](https://github.com/Kolbacyn)
+- [Leandro1302] (https://github.com/Leandro1302) Lessgo
 - [karanam karthik](https://github.com/Karanamkathik) starting my open source journey
 - [Chris Lee](https://github.com/ChrisLee2C)
 - [Ezio Zhang](https://github.com/zzhang025)
