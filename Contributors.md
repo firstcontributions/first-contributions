@@ -505,6 +505,7 @@ Add Bilal Hasan
 - DJ was here
 - Saiteja
 - [Loyd Johnosn](https://github.com/ljohnson2382)
+- [Kartikey Srivastava] 09-02-2025
 - rao was here.
 - Mayan was here
 - [Divine Success](https://github.com/Successinnovatia)
