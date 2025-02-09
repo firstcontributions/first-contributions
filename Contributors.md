@@ -337,12 +337,7 @@ Add Bilal Hasan
 - [abraxam](https://github.com/abraxam)
 - Jacob Bowler
 - [Talha Bin Rafique](https://github.com/cykillon3)
-- [Prashant kushwaha](https://github.com/Prashant211111) 👈**My first contribution.**
-- [Jivi-this-side ^\_^](https://github.com/Jivi-this-side)
-- [mohit5723](https://github.com/mohit5723)
-- [Mayen007](https://github.com/mayen007)
-- [Redbellpepper7079](https://github.com/Redbellpepper7079) \*\*
-- [SVSHV](https://github.com/SVSHV)
+- [Prashant kushwaha](https://github.com>
 - [Alex Hagen](https://github.com/Paucey)
 - [Filipa Daniela Barbosa](https://github.com/DanielaBarbosa13)
 - [Gabryel Bele](https://github.com/GabryelBele)
@@ -3314,3 +3309,4 @@ Add Bilal Hasan
 - [oompyy](https://github.com/oompyy)
 - [Soumadeep46](https://personal-portfolio-esnr.onrender.com/)
 - [Ajay Oraon](https://github.com/Ajay-oraon) ##Backend Developer
+- [Alex I](https://github.com/FilthyActs4Sale)
