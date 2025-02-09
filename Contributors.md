@@ -47,6 +47,7 @@ Add Bilal Hasan
 - [Syed Tawakkal](https://github.com/SyedTawakkal)   
 -[Rodgers Muriki](https://github.com/MurikiRodgers)   
 - [Val Ryan](https://github.com/valryanb/)                           
+- [Kanvad](https://github.com/Kanvad):wink:
 - [K M Arif](https://github.com/kmarif2006)
 - [Shadrack Dorkenoo](https://github.com/shadyOg)
 - [Brian kemboi](https://github.com/kemboi5928)
