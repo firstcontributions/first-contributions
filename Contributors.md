@@ -23,6 +23,7 @@
 - [LeandroKellerSalto](https://github.com/lksalto)
 - Praba
 - [joothy](https://github.com/thikshathajoothy)
+- [Teja](https://github.com/Billakanti-Teja)
 - [maplesyrup0423](https://github.com/maplesyrup0423)
 - [Arman khan](https://github.com/Rage400)
 - [Bohne1225(https://github.com/Bohne1225)
