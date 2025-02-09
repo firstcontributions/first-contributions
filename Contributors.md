@@ -21,7 +21,7 @@
 - [Arman khan](https://github.com/Rage400)
 - [Somisrbija](https://github.com/SomiSrbija)
 - [Estilo Joseph] (https://github.com/sephhsephh) nice
-Nataly Cristina (https://github.com/natycristina)
+  Nataly Cristina (https://github.com/natycristina)
 - [Andrea-Sgarbi](https://github.com/Andrea-Sgarbi) Hello everyone, this is my first contribution! :)
 - [Maxime Benoit](https://github.com/Max13500)
 - [Feng-chengyi](https://github.com/Feng-chengyi)
@@ -31,12 +31,11 @@ Nataly Cristina (https://github.com/natycristina)
 - [Richard Nixon](https://github.com/richardnixondev)
 - [Tony Montana](https://github.com/tonymont4n4)
 - [Dhanvin Ratheesh](https://github.com/dhanvin-6)
-- [Syed Tawakkal](https://github.com/SyedTawakkal)      
-- [Val Ryan](https://github.com/valryanb/)                           
+- [Syed Tawakkal](https://github.com/SyedTawakkal)
+- [Val Ryan](https://github.com/valryanb/)
 - [K M Arif](https://github.com/kmarif2006)
 - [Shadrack Dorkenoo](https://github.com/shadyOg)
-- ryanmathew
--[HassanKoraim]
+- ryanmathew -[HassanKoraim]
 - [Thaddeus](https://github.com/madladthad42) yipeeeeeeeeeeee
 - [Sakshi Garg](https://github.com/sakshi-garg) Hiiii
 - [Manas Salian](https://github.com/Manas-salian) It's my first open-source contribution, yippee!
@@ -56,6 +55,7 @@ Nataly Cristina (https://github.com/natycristina)
 - [Isaac Vahlenkamp](https://github.com/Ivahlenkamp) Hi!
 - [Sergi Castarnado](https://github.com/scastarnado)
 - [Vipul Singh](https://github.com/vipulsc)
+- [Yash Yadav](https://github.com/YashYadav2)
 - [Nikunj Kakkad](https://github.com/kakkadnikunj)
 - [Harshvardhan Mundada](https://github.com/KeshavSM10)
 - [Mohammad Junaid Abbasi](https://github.com/mjunaid280)
@@ -71,11 +71,11 @@ Nataly Cristina (https://github.com/natycristina)
 - [Bijay Thomas](https://github.com/bijaythms)
 - [Aditi Babu](https://github.com/aditib25)
 - [Pragna Pragada](https://github.com/Pragna1P)
-- [Joshila Jose]( https://github.com/Joshila789)
+- [Joshila Jose](https://github.com/Joshila789)
 - [febin bijoy jestin](https://github.com/febinbioyjestin)
 - [Sanskar Soni](https://github.com/TheCodeSculptor-cmd/first-contributions.git)
 - [Prakash Dass](https://github.com/rprakashdass)
-[Athulpshajil](https://github.com/ATHULAPS)
+  [Athulpshajil](https://github.com/ATHULAPS)
 - [Lucas Souza](https://github.com/lucasrbsouza)
 - [Bhaskar Rawat](https://github.com/bhaskarrawat2002)
 - [Pranav Vijitharan](https://github.com/Pranav-Vijitharan)
@@ -101,14 +101,9 @@ Nataly Cristina (https://github.com/natycristina)
 - [Soumyasree Mohapatra](https://github.com/SoumyasreeMohapatra) : Hello World!
 - [David Kamau](https://github.com/Pak-Man926) My first Contribution, I'm excited!
 - [edrzz08](https://github.com/edrzz08)
-[Aren D Couto](https://github.com/Aren-04)
-- [Dheeraz](https://github.com/dheeraz101/)
--[Aditi Menon](https://github.com/ad1tii)
--[abhinav](https://github.com/ABHINAV-GR77)
--[Abhi.S](https://github.com/AbhiS14)
-- [AKSHAYA N](https://github.com/Akshaya-NirmalKumar)
--[AKSHAYA K](https://github.com/Akshayak5)
--[Abhinaya Sreedharan](https://github.com/abhi-nayaa/)
+  [Aren D Couto](https://github.com/Aren-04)
+- [Dheeraz](https://github.com/dheeraz101/) -[Aditi Menon](https://github.com/ad1tii) -[abhinav](https://github.com/ABHINAV-GR77) -[Abhi.S](https://github.com/AbhiS14)
+- [AKSHAYA N](https://github.com/Akshaya-NirmalKumar) -[AKSHAYA K](https://github.com/Akshayak5) -[Abhinaya Sreedharan](https://github.com/abhi-nayaa/)
 - [EET](https://github.com/eitheint-ET)
 - [Ibrahim Gaber](https://github.com/IbrahimGaberOfficial) Exiting to start contributing in open-source 😃.
 - [Eduardo Molina](https://github.com/edumol8) -[Jacqueline Joya](https://github.com/Jackiesafari)
@@ -186,7 +181,7 @@ Nataly Cristina (https://github.com/natycristina)
 - [Francesco Ciccone](https://github.com/Francesco-87)
 - [Xerx](https://github.com/Xerx81) 🫡
 - [vijay](https://github.com/vijayanarasimhareddy)
-- [Vraj Ved](https://github.com/VrajVed) 
+- [Vraj Ved](https://github.com/VrajVed)
 - [Innocente Mutabazi Umuhuza](https://github.com/innocentemutabazi)
 - [Prathita Gorantla](https://github.com/GPS4)
 - [Swatantra](https://github.com/Swatantra-66)
@@ -226,7 +221,7 @@ Nataly Cristina (https://github.com/natycristina)
 - [RandithaK](https://github.com/RandithaK)
 - [Mandhata Pathak](https://github.com/Mandhata001)
 - [Rashmika Naveen](https://github.com/rashmikanaveen)
-[Amal K A](https://github.com/amal-k-a)
+  [Amal K A](https://github.com/amal-k-a)
 - [alismx](https://github.com/alismx)
 - [sandeepgurram](https://github.com/gurram46)
 - [Devam Desai](https://github.com/Shaaaark126)
@@ -690,7 +685,7 @@ Nataly Cristina (https://github.com/natycristina)
 - Celeste
 - Lokesh
 - eisthron
--    Akshaya R
+- Akshaya R
 - [AC](https://github.com/FortKnoxWasTaken)
 - [Yisel Cintora Vega](https://github.com/yisel260)
 - [Mohit-Goswami](https://github.com/Mohitgoswami18)
@@ -3263,8 +3258,7 @@ Nataly Cristina (https://github.com/natycristina)
 - [Shreya B](https://github.com/Shreyaa100)
 - [beiminghaoze](https://github.com/beiminghaoze)
 - [Akanksha Uniyal](https://github.com/akankshauniyal)
-- [Deepak]
--[Tanmay Yadav]
+- [Deepak] -[Tanmay Yadav]
 - [Thes3us](https://github.com/Thes3us)
 - [DucNhat03](https://github.com/DucNhat03) from Viet Nam
 - [will-kyda](https://github.com/will-kyda) yes it's me
@@ -3276,8 +3270,8 @@ Nataly Cristina (https://github.com/natycristina)
 - [Virender Thakur](https://github.com/iam-viru) Let's start coding...
 - [OliverDevsCode](https://github.com/OliverDevsCode) My First Contribution
 - [Ritik Singh](https://github.com/Hey-Ritik) Starting to open source...
-- [Lucia Cepria](https://github.com/luciacepria) 
-- [ocean0s](https://github.com/ocean0s) 
+- [Lucia Cepria](https://github.com/luciacepria)
+- [ocean0s](https://github.com/ocean0s)
 - [Carlos Ripolles Motos](https://github.com/Carlos19uji)
 - [Jack Sangl](https://github.com/jacksangl)
 - [Anna Carolina] (https://github.com/annacarolinaf)
