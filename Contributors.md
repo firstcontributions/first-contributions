@@ -12,6 +12,7 @@
 - [Prashant/Kenny](https://github.com/Prashant-SG14)
 - [srmorita](https://github.com/srmorita)
 - [Syed Mohaiminul Hoque](https://github.com/SyedT1)
+- Bill
 - Hiddon
 - [Jude Mpoyo](https://github.com/judempoyo) 👨🏾‍💻😁
 - [Md Afridi Sk](https://github.com/hackerslash)
