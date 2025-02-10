@@ -1530,6 +1530,7 @@ Sugan
 - [Kaivan Shah](https://github.com/Kaivanshah1)
 - [Felix Gomez @felixdavid12](https://github.com/felixdavid12)
 - [doudouCodingInGithub](https://github.com/doudouCodingInGithub)
+- [kaustub03](https://github.com/kaustub03)
 - [Alberto Pe#a](https://github.com/APC9) 🔥
 - [Abhishek Sharma](https://github.com/Abhisheksharmao)
 - [Nayana N M](https://github.com/Nayana62)
