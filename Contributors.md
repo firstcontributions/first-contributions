@@ -1,4 +1,5 @@
 # Contributors
+
 - [Marc Daniel Falsado](https://github.com/marcdanielfalsado) Hey everyone, Wish yall the best!
 - [Shivam Gupta] Hello guys, this is my first contribution. Hope you guys also pushing your limits.
 - [Deepaakash Gupta](https://github.com/deep-2812) Hi Everyone, This is my first contribution. #Data Engineer
@@ -35,6 +36,7 @@
 - [Banyar](https://github.com/minbanyartalahtaw)
 - [Ze Santos](https://github.com/ze13sk) altamente
 - [Md Faizan Ashrafi](https://github.com/mdfaizanashrafi) Hey Guys! Not my first contribution
+- [Aldo Koyoc](https://github.com/Koyoc23)
 - [yash](https://github.com/YASHWANTHBH1)- hi
 - [Aakash](https://github.com/aakash1v)- This is my first contribution..
 - [JAGADEESH](https://github.com/Jagadeesh-18-bot) - First contribution 
