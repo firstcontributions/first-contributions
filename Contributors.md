@@ -3337,3 +3337,4 @@ Sugan
 - [Claire]✊
 - [Gustavo Araujo] (https://github.com/gustavofda/) ##FrontendDeveloper 
 - [Raja Kokate] (https://github.com/rajakokate) ##DevOps Engineer
+- [Maryia Krauchanka] (https://github.com/mariakravchenko) ##FullStackDeveloper
