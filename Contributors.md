@@ -54,6 +54,7 @@
 - [Maxime Benoit](https://github.com/Max13500)
 - [Feng-chengyi](https://github.com/Feng-chengyi)
 - [NataliaBachiega] (https://github.com/NataliaBachiega) Hi ≽^•⩊•^≼
+- [Alifa-Ara-Heya] (https://github.com/alifa-ara-heya) Alhamdulillah (All praises to Allah), my first contribution in the open source world. :D
 - [Badrinath](https://github.com/Badrinath7941)
 - [Muzamil](https://github.com/M-Codes6) Hey folks, i cloned the repo and this is my first contribution in the open source world 
 - [Brayan Kai](https://github.com/mwanyumba7)
