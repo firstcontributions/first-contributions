@@ -44,6 +44,7 @@
 - [Omar Suarez](https://github.com/omar-suarez)
 - [Himanshu Kumar](https://github.com/H1manshu-Kumar) Here comes my first open-source contribution! :D
 - [ayush kumar](https://github.com/Ayush9945)
+- [Boudin Djama](https://github.com/BoudinDjama)
 - [Basil Ahamed](https://github.com/basilahamed07)
 - [Melvyn Savio](https://github.com/Melvynsavio)
 - [mrgamernavshorts](https://github.com/mrgamernavshorts)
