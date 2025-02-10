@@ -1,4 +1,5 @@
 # Contributors
+- [Grydr](https://github.com/Grydr) Hi, everyone
 - [UzairGL](https://github.com/UzairGL) Hello From France :)
 - [krishna](https://github.com/Krishna27Singh) Hello
 - [Samuel](https://github.com/girmasamuel)  Hello everyone, This is my first contribution!
