@@ -23,11 +23,12 @@
 - [Misanthropic](https://github.com/misanthropic23)
 -[ Herbert- chacha ](https://github.com/gabimaru)
 - [Banyar](https://github.com/minbanyartalahtaw)
+- [Maciej]
 - [Ze Santos](https://github.com/ze13sk) altamente
 - [Md Faizan Ashrafi](https://github.com/mdfaizanashrafi) Hey Guys! Not my first contribution
 - [yash](https://github.com/YASHWANTHBH1)- hi
 - [Aakash](https://github.com/aakash1v)- This is my first contribution..
-- [JAGADEESH](https://github.com/Jagadeesh-18-bot) - First contribution 
+- [JAGADEESH](https://github.com/Jagadeesh-18-bot) - First contribution
 - [pauldbg](https://github.com/Pauldbg)
 - [Vinicius da Luz](https://github.com/Lvght)
 - [LeandroKellerSalto](https://github.com/lksalto)
@@ -46,7 +47,7 @@
 - [Feng-chengyi](https://github.com/Feng-chengyi)
 - [NataliaBachiega] (https://github.com/NataliaBachiega) Hi ≽^•⩊•^≼
 - [Badrinath](https://github.com/Badrinath7941)
-- [Muzamil](https://github.com/M-Codes6) Hey folks, i cloned the repo and this is my first contribution in the open source world 
+- [Muzamil](https://github.com/M-Codes6) Hey folks, i cloned the repo and this is my first contribution in the open source world
 - [Brayan Kai](https://github.com/mwanyumba7)
 - [xiaotian] (https://github.com/w5cschool) Hello world! let's make it done.
 Add Bilal Hasan
@@ -54,9 +55,9 @@ Add Bilal Hasan
 - [Richard Nixon](https://github.com/richardnixondev)
 - [Tony Montana](https://github.com/tonymont4n4)
 - [Dhanvin Ratheesh](https://github.com/dhanvin-6)
-- [Syed Tawakkal](https://github.com/SyedTawakkal)   
-- [Rodgers Muriki](https://github.com/MurikiRodgers)   
-- [Val Ryan](https://github.com/valryanb/)                           
+- [Syed Tawakkal](https://github.com/SyedTawakkal)
+- [Rodgers Muriki](https://github.com/MurikiRodgers)
+- [Val Ryan](https://github.com/valryanb/)
 - [Kanvad](https://github.com/Kanvad):wink:
 - [K M Arif](https://github.com/kmarif2006)
 - [Shadrack Dorkenoo](https://github.com/shadyOg)
@@ -70,7 +71,7 @@ Add Bilal Hasan
 - [Stoplight] (https://github.com/LeulShiferaw) HELLO FELLOW CODERS
 - [omsudhamsh] (https://github.com/omsudhamsh)
 - [Omar Suarez](https://github.com/omar-suarez)
-Sugan 
+Sugan
 - [Himanshu Kumar](https://github.com/H1manshu-Kumar) Here comes my first open-source contribution! :D
 - [ayush kumar](https://github.com/Ayush9945)
 - [Basil Ahamed](https://github.com/basilahamed07)
@@ -361,7 +362,7 @@ Sugan
 - [Emmanson Effiong](https://github.com/Emmanson109)
 - [Shirish](https://github.com/shirish1995)
 - [Chris Banas](https://github.com/chrisbanas)
--John Wakili 
+-John Wakili
 - [Gerold Maier](https://github.com/maigero)
 - [Aman K](https://github.com/amankumarmatta)
 - Hello World, Happy Coding!!!![Akshar Rastogi](https://github.com/akshar99/)
@@ -3332,4 +3333,4 @@ Sugan
 - [Jess Raimondo](github.com/Jraimondo7)
 - [Sharon Shi](https://github.com/sleepsheee/) #Open Source
 - [Claire]✊
-- [Gustavo Araujo] (https://github.com/gustavofda/) ##FrontendDeveloper 
+- [Gustavo Araujo] (https://github.com/gustavofda/) ##FrontendDeveloper
