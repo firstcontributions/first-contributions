@@ -3288,6 +3288,7 @@ Sugan
 - [Jay](https://github.com/jd20000)
 - [Martin Vollenbröker](https://github.com/Volli4)
 - [csuer411](https://github.com/csuer411)
+- [kazzhira](https://github.com/kazzhira)
 - [sciisawesome](https://github.com/sciisawesome)
 - [Sahand Jamalzadeh] (https://github.com/jamalzadeh-sahand)
 - [Akhil sai](https://github.com/akhiltech-dev) Lets do it 🔥
