@@ -139,6 +139,7 @@ Sugan
 - [Ibrahim Gaber](https://github.com/IbrahimGaberOfficial) Exiting to start contributing in open-source 😃.
 - [Eduardo Molina](https://github.com/edumol8) -[Jacqueline Joya](https://github.com/Jackiesafari)
 - [Joshoa Castaneda](https://github.com/TILINGO2)
+- [trapklew](https://github.com/trapklew) The first of many!
 - [Max Bakoian](https://github.com/maxdbakoian)
 - [Vanstr](https://github.com/vanstr)
 - [Emmanuel Sobowale](https://github.com/Matutozi) HEllo everyone
