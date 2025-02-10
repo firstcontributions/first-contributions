@@ -11,6 +11,7 @@
 - [Pratik](https://github.com/pktensor)  Hello everyone, this is my first contribution! :)
 - [Caleb](https://github.com/Kiknchicken) Hi everyone, this is my first contribution!
 - [Aditya](https://github.com/AdityaTile04) Hello everyone, this is my first contribution!
+- [Azam Abbasi](https://github.com/Abbasi393/) Hi, this is my first contribution
 - [Ronan Barry](https://github.com/Prashant-SG14)
 - [Ziqi LI](https://github.com/zli353) 🚀Hello world!
 - [maxx](https://github.com/MMAX2000)
