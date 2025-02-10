@@ -473,6 +473,7 @@ Sugan
 - [kamil](https://github.com/Kamil115853)
 - [thiagodau](https://github.com/thiagodau) Hello everyone!
 - [AdiSaikat](https://github.com/adisaikat)
+- [Arman Yadav](https://github.com/armaaan-yadav)
 - [new contribution]
 - f1ssure contributed
 - devNjan contributed
