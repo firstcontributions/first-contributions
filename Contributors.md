@@ -3346,3 +3346,4 @@ Sugan
 - [Raja Kokate] (https://github.com/rajakokate) ##DevOps Engineer
 - [Maryia Krauchanka] (https://github.com/mariakravchenko) ##FullStackDeveloper
 - [yagaoyg] (https://github.com/yagaoyg) let's go 🍔
+- [Talha Nawaz](https://github.com/NawazTalha)
