@@ -18,6 +18,7 @@
 - Bill
 - Hiddon
 - [Jude Mpoyo](https://github.com/judempoyo) 👨🏾‍💻😁
+- [Josue Igiraneza](https://github.com/IGIRANEZAJosue) Okaay lets's go OSS.
 - [Md Afridi Sk](https://github.com/hackerslash)
 - [Akhilesh Pratap Shahi](https://github.com/shahiakhilesh1304) Note: This is my first contribution looking forward to contribute as a Data Scientist/Python Developer/Data Engineer/ AI Engineer.
 - [Misanthropic](https://github.com/misanthropic23)
