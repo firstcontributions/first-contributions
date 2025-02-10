@@ -41,6 +41,7 @@
 - [Vinicius da Luz](https://github.com/Lvght)
 - [LeandroKellerSalto](https://github.com/lksalto)
 - Praba
+- [Lena Andjelkovic](https://github.com/lenicqq)
 - [joothy](https://github.com/thikshathajoothy)
 - [Teja](https://github.com/Billakanti-Teja)
 - [maplesyrup0423](https://github.com/maplesyrup0423)
