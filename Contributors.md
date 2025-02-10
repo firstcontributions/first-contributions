@@ -722,6 +722,7 @@ Sugan
   YoucefBoursali
 - [Lydia Wren](https://github.com/lydiaaawren)
 - [Khushi Goyal](https://github.com/goyalkhushi)
+- [Bernardo Awano](https://github.com/japawm11)
 - [vinod jaina](https://github.com/firstcontributions/first-contributions?tab=readme-ov-file)
 - [Hetvi Shah]
 - [raj-opensource]
