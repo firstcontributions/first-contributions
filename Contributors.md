@@ -3162,6 +3162,7 @@ Sugan
 - [syawqy](https://github.com/syawqy)
 - [James Donohue](https://github.com/Ranger-Jim)
 - nob
+- [Herianto Tanoyo](https://github.com/heri2000)
 - [GhassenJebbari](https://github.com/ghassenjebari)
 - [kunandkarina](https://github.com/kunandkarina)
 - gzjian(0v0)
