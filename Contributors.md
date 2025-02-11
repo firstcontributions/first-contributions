@@ -519,6 +519,7 @@ Sugan
 - [Somto Ogbe](https://github.com/somtoval)
 - [Vorahpong Mean](https://github.com/VorahPong)
 - [Vivek Chudasama](https://github.com/vivekchudasama-2004)
+- [Borzoi Lover](https://github.com/mmitros1)
 - Infernal Blueberry
 - [Haxaru](https://github.com/Haxaru) It's amazing to see so many contributors <3
 - Annie was here
