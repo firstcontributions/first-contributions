@@ -888,6 +888,7 @@
 - [Htut Oakkar](https://github.com/htutoakkar)
 - [K G Tint Swe](https://github.com/KG6605)
 - [Michal Fogel](https://github.com/MichalFog)
+- [Michal fogel](https://github.com/MichalFog)
 - [Aakash Srivastava](https://github.com/kayasthasky)
 - [nilesh sharma](https://github.com/nileshdsharma)
 - [Matt Blumenthal](https://github.com/matthewblu421)
