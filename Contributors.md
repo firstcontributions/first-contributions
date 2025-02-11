@@ -291,6 +291,7 @@ Sugan
 - [Ujjwal Pandit](https://github.com/Ujjwal-Pandit)
 - [Aman Deshpande](https://github.com/amandesh694)
 - [Kishan J](https://github.com/Iamkishan08)
+- [Michael Mallo] (https://github.com/PcZeroKey)
 - Janne
 - Jasmeet
 - Aayush Gupta
