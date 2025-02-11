@@ -103,8 +103,6 @@ Təbriklər! Töhfə olaraq tez-tez qarşılaşacağınız standart _fork -> clo
 
 Töhfənizi qeyd edin və [veb tətbiqə](https://firstcontributions.github.io/#social-share) girərək dostlarınız və izləyicilərinizlə bölüşün.
 
-Hər hansı bir köməyə ehtiyacınız və ya suallarınız olarsa, [Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA) komandamıza qoşula bilərsiniz.
-
 İndi başqa layihələrə töhfə verməyə başlayaq. Başlaya biləcəyiniz asan məsələləri olan layihələrin siyahısını hazırladıq, [siyahıya baxın](https://firstcontributions.github.io/#project-list).
 
 ### [Əlavə Məlumat](additional-material/git_workflow_scenarios/additional-material.md)

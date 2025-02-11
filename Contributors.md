@@ -380,6 +380,7 @@ Sugan
 - [Impana B C](https://github.com/impanabc21) "Aspiring Developer"
 - [GokulnathUW](https://github.com/GokulnathUW)
 - Hello Developers , Dhruv Prajapati [Here](https://github.com/dhruvp66572) 👈
+- [Mike Manzi](https://github.com/MikeManzi)
 - [Adarsh Bhayani](https://github.com/Adarsh-Bhayani)
 - [Ack-Mawé 🐥](https://github.com/ackmawe)
 - [Emmanson Effiong](https://github.com/Emmanson109)
