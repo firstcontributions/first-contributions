@@ -3361,3 +3361,4 @@ Sugan
 - [Zarlish Fathima](https://github.com/zarlish13)Hello Folks👋
 - [Mahmoud Alfadel] Hello Folks👋
 - [DarlanCascaes](https://github.com/DarlanCascaes)
+- [L4ZYLinuxVendor](https://github.com/L4ZYLinuxVendor) Hello XD, I use arch btw.
