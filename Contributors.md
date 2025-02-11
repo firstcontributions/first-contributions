@@ -202,6 +202,7 @@ Sugan
 - [Daniel Okot](https://github.com/okotdaniel)
 - [Mohamed Elsadek](https://github.com/mobaqii) _DEVOPS_
 - [Vikash Choudhary](https://github.com/Vikash0132])
+- [Mehdi Sqalli](https://github.com/MehdiSv)
 - [Ankit Kumar](https://github.com/1820ANKIT2029)
 - [Eduardo Molina](https://github.com/edumol8)
 - [Marqitos](https://github.com/Marqitos) / [Marcos Porto](https://marcospor.to)
