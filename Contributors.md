@@ -6,6 +6,7 @@
 - [Grydr](https://github.com/Grydr) Hi, everyone
 - [UzairGL](https://github.com/UzairGL) Hello From France :)
 - [krishna](https://github.com/Krishna27Singh) Hello
+- [Het Savani](https://github.com/Hetsavani) Hey!
 - [Samuel](https://github.com/girmasamuel)  Hello everyone, This is my first contribution!
 - [Innocent Nyamusa](https://github.com/innocent-george-mithu-nyamusa) Hello World!. Here is my first OS contribution
 - [Akhilesh](https://github.com/akhileshu)  Hello everyone, this is my first contribution!
