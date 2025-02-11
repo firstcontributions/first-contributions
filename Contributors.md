@@ -936,6 +936,7 @@
 - [Daniel Otchere](https://github.com/ascot20)
 - [Aviral Swarnkar](https://github.com/aviralnx)
 - [Jayesh Bagde](https://github.com/jysh-bgde)
+- [Michal Fogel](https://github.com/MichalFog)
 - [Karuppaiah](https://github.com/akdinesh124)
 - [Thirupathi Addisherla](https://github.com/Thiru7747)
 - [Pedro Santos](https://github.com/pedro-sts)
