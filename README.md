@@ -1,3 +1,15 @@
+## Getting Started
+
+To get started with this project, follow these steps:
+1. Fork the repository.
+2. Clone your forked repository to your local machine.
+3. Make your changes and commit them.
+4. Push your changes to your forked repository.
+5. Submit a pull request to the original repository.
+
+Happy contributing!
+
+
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
