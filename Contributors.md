@@ -3368,3 +3368,6 @@ Sugan
 - [Mahmoud Alfadel] Hello Folks👋
 - [DarlanCascaes](https://github.com/DarlanCascaes)
 - [L4ZYLinuxVendor](https://github.com/L4ZYLinuxVendor) Hello XD, I use arch btw.
+- [L4ZYLinuxVendor](https://github.com/L4ZYLinuxVendor) Hello XD, I use arch btw.
+- [7afidi](https://github.com/7afidi) Hello everyone :) 
+
