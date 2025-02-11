@@ -76,7 +76,8 @@ Add Bilal Hasan
 - [Dhanvin Ratheesh](https://github.com/dhanvin-6)
 - [Syed Tawakkal](https://github.com/SyedTawakkal)   
 - [Rodgers Muriki](https://github.com/MurikiRodgers)   
-- [Val Ryan](https://github.com/valryanb/)                           
+- [Val Ryan](https://github.com/valryanb/)
+- [TatumToo](https://github.com/tatumtoo) First contribution.                           
 - [Kanvad](https://github.com/Kanvad):wink:
 - [K M Arif](https://github.com/kmarif2006)
 - [Shadrack Dorkenoo](https://github.com/shadyOg)
