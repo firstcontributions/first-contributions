@@ -1,9 +1,10 @@
 # Contributors
 - [Baba Dan Constantin](https://github.com/fuixone) Thanks for the tutorial.
-- Amit Kumar[[https://github.com/](https://github.com/amit15000) Thanks for the beginners tutorial.
+- Amit Kumar[https://github.com/](https://github.com/amit15000) Thanks for the beginners tutorial.
 - [Ahmad Allahverdiyev](https://github.com/hmd37) Thank you for the tutorial
 - [Abin Shaji Thomas](https://github.com/Abin-Shaji-Thomas)This is my first contribution Thanks for the tutorial 
 - [AdarshDotDev]
+  [Michal Fogel](https://github.com/MichalFog)
 - [Rose Lagdameo](https://github.com/workwithrose) Hello, hope y'all are having a nice day
 - [Do Quoc Vuong](https://github.com/vsrs3) hello from vietnam ;)
 - [Marc Daniel Falsado](https://github.com/marcdanielfalsado) Hey everyone, Wish yall the best!
