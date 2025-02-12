@@ -175,6 +175,7 @@ Sugan
 - [Stephanie Mukami](https://github.com/stephmukami)
 - [Chidambaram PS](https://github.com/Chidambaram-CPS)
 - [Man Ho Cheung](https://github.com/moscmh)
+- [VaisaghG](https://github.com/VaishaghG)
 - [yaswanth narikamalli](https://github.com/Yashu1th)
 - [CarrenMerry](https://github.com/CarrenMerry)
 - [Syed Hassan Ali Rizvi] (https://github.com/HassanAliRizvi)
