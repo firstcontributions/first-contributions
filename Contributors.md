@@ -1457,6 +1457,7 @@ Sugan
 - [Joaquin D](https://github.com/Joaco273)
 - [Aditya Mitra](https://github.com/mitras-git)
 - [Anthony Ladon](https://github.com/AnthonyLadon)
+- [Assaf Lewin](https://github.com/Assaf1713)
 - [EbertonKM](https://github.com/EbertonKM)
 - [Shayne Geilman](https://github.com/ShayneJG)
 - [Silviya Kolchakova](https://github.com/SilviyaKolchakova)
