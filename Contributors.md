@@ -1,6 +1,7 @@
 # Contributors
 
 - [Feng-chengyi](https://github.com/Feng-chengyi)
+- [Kai Mwanyumba](https://github.com/mwanyumba7)
 - [Binaryguardia](https://github.com/binaryguardia)
 - [Richard Nixon](https://github.com/richardnixondev)
 - [Tony Montana](https://github.com/tonymont4n4)
