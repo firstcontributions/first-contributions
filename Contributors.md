@@ -61,6 +61,7 @@
 - [Tav0nes](https://github.com/Tav0nes) -[Zac W](https://github.com/ZacWJ1)
 - [MobyTh1cc] (https://github.com/MobyTh1cc)
 - [Ujjwal Pandit](https://github.com/Ujjwal-Pandit)
+- Rithika pradeep
 - [Aman Deshpande](https://github.com/amandesh694)
 - Janne
 - Aayush Gupta
