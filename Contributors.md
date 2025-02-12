@@ -43,6 +43,7 @@
 - [Md Faizan Ashrafi](https://github.com/mdfaizanashrafi) Hey Guys! Not my first contribution
 - [yash](https://github.com/YASHWANTHBH1)- hi
 - [Aakash](https://github.com/aakash1v)- This is my first contribution..
+- [Rebecca](https://github.com/Beccatoni) This is my first contribution, looking forward to making more contributions😌
 - [JAGADEESH](https://github.com/Jagadeesh-18-bot) - First contribution 
 - [pauldbg](https://github.com/Pauldbg)
 - [Vinicius da Luz](https://github.com/Lvght)
