@@ -2632,6 +2632,7 @@ Sugan
 - [Iliyan Nedelchev](https://github.com/ilkataa10)
 - [Gabriel-Rojas](https://github.com/ga-romu)
 - [brandobogar](https://github.com/brandobogar)
+- [Yohander Díaz](https://github.com/DiazYY)
 - [Maral Yousefi](https://github.com/Marall-Y)
 - [Elijah Love](https://elijahlove.xyz)
 - [Ksnq](https://github.com/devcembeer) [Website](https://ksnq.me)
