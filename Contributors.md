@@ -1,10 +1,14 @@
 # Contributors
+- [Ahmad Allahverdiyev](https://github.com/hmd37) Thank you for the tutorial
+- [Rose Lagdameo](https://github.com/workwithrose) Hello, hope y'all are having a nice day
+- [Do Quoc Vuong](https://github.com/vsrs3) hello from vietnam ;)
 - [Marc Daniel Falsado](https://github.com/marcdanielfalsado) Hey everyone, Wish yall the best!
 - [Shivam Gupta] Hello guys, this is my first contribution. Hope you guys also pushing your limits.
 - [Deepaakash Gupta](https://github.com/deep-2812) Hi Everyone, This is my first contribution. #Data Engineer
 - [Ibodullaev Asadbek](https://github.com/asadbekiv) Hello Contributors
 - [Grydr](https://github.com/Grydr) Hi, everyone
 - [UzairGL](https://github.com/UzairGL) Hello From France :)
+- New York Knicks 2025 champions
 - [krishna](https://github.com/Krishna27Singh) Hello
 - [Het Savani](https://github.com/Hetsavani) Hey!
 - [Samuel](https://github.com/girmasamuel)  Hello everyone, This is my first contribution!
@@ -15,6 +19,7 @@
 - [Aditya](https://github.com/AdityaTile04) Hello everyone, this is my first contribution!
 - [Azam Abbasi](https://github.com/Abbasi393/) Hi, this is my first contribution
 - [Ronan Barry](https://github.com/Prashant-SG14)
+- [Javier Ramirez] (https://github.com/javierrcyb) Hello World!
 - [Ziqi LI](https://github.com/zli353) 🚀Hello world!
 - [maxx](https://github.com/MMAX2000)
 - [Prashant/Kenny](https://github.com/michalshelenberg)
@@ -24,6 +29,7 @@
 - [Syed Mohaiminul Hoque](https://github.com/SyedT1)
 - [Muhammad Bilal Hassan] (https://github.com/bilalsavagexd) Hi, this is my first contribution!
 - How are you
+- [rustyziptie](https://github.com/RustyZipTie?tab=overview&from=2025-02-01&to=2025-02-11)
 - Yash Soni
 - [Mahiman Bissa](https://github.com/mahiman12) Hi, This is my first contribution!
 - [Jude Mpoyo](https://github.com/judempoyo) 👨🏾‍💻😁
@@ -38,12 +44,15 @@
 - [Md Faizan Ashrafi](https://github.com/mdfaizanashrafi) Hey Guys! Not my first contribution
 - [yash](https://github.com/YASHWANTHBH1)- hi
 - [Aakash](https://github.com/aakash1v)- This is my first contribution..
+- [Rebecca](https://github.com/Beccatoni) This is my first contribution, looking forward to making more contributions😌
 - [JAGADEESH](https://github.com/Jagadeesh-18-bot) - First contribution 
 - [pauldbg](https://github.com/Pauldbg)
 - [Vinicius da Luz](https://github.com/Lvght)
 - [LeandroKellerSalto](https://github.com/lksalto)
 - Praba
 - [Lena Andjelkovic](https://github.com/lenicqq)
+-[Aarush Pandey](https://github.com/Hadar01)
+- [Ayantunji Timilehin](https://github.com/timmy471)
 - [joothy](https://github.com/thikshathajoothy)
 - [Teja](https://github.com/Billakanti-Teja)
 - [maplesyrup0423](https://github.com/maplesyrup0423)
@@ -72,7 +81,8 @@ Add Bilal Hasan
 - [Dhanvin Ratheesh](https://github.com/dhanvin-6)
 - [Syed Tawakkal](https://github.com/SyedTawakkal)   
 - [Rodgers Muriki](https://github.com/MurikiRodgers)   
-- [Val Ryan](https://github.com/valryanb/)                           
+- [Val Ryan](https://github.com/valryanb/)
+- [TatumToo](https://github.com/tatumtoo) First contribution.                           
 - [Kanvad](https://github.com/Kanvad):wink:
 - [K M Arif](https://github.com/kmarif2006)
 - [Shadrack Dorkenoo](https://github.com/shadyOg)
@@ -81,6 +91,7 @@ Add Bilal Hasan
 - [HassanKoraim]
 - [Thaddeus](https://github.com/madladthad42) yipeeeeeeeeeeee
 - [Sakshi Garg](https://github.com/sakshi-garg) Hiiii
+- [Ayush Rai] (https://github.com/7xAyush) Hello guys, this is my first contribution. Hope you guys also pushing your limits.
 - [Manas Salian](https://github.com/Manas-salian) It's my first open-source contribution, yippee!
 - [TheTrinch] (https://github.com/TheTrinch)
 - [Stoplight] (https://github.com/LeulShiferaw) HELLO FELLOW CODERS
@@ -347,6 +358,7 @@ Sugan
 
 - [Jorge Hecherat](https://github.com/Hechprad)
 - [Hnin Wai Phoo](https://github.com/HninWaiPhoo)
+- [Shambhavi](https://github.com/sfeshambhavi)
 - [Pawan Bhati](https://github.com/pawan00126)
 - [Kaushik Namburi](https://github.com/KaushikNamburi)
 - [Nursultan Maulen](https://github.com/NursultanMaulen)
@@ -518,6 +530,7 @@ Sugan
 - [Somto Ogbe](https://github.com/somtoval)
 - [Vorahpong Mean](https://github.com/VorahPong)
 - [Vivek Chudasama](https://github.com/vivekchudasama-2004)
+- [Borzoi Lover](https://github.com/mmitros1)
 - Infernal Blueberry
 - [Haxaru](https://github.com/Haxaru) It's amazing to see so many contributors <3
 - Annie was here
@@ -3371,3 +3384,6 @@ Sugan
 - [L4ZYLinuxVendor](https://github.com/L4ZYLinuxVendor) Hello XD, I use arch btw.
 - [7afidi](https://github.com/7afidi) Hello everyone :) 
 - [treeleaves30760](https://github.com/treeleaves30760) Hello, I am a student from NTHU!
+- [treeleaves30760](https://github.com/treeleaves30760) Hello, I am a student from NTHU!
+- [BenjaminP17](https://github.com/BenjaminP17) Hello, I am back-end developer on Symfony.
+- [Code Alligator](https://github.com/csprasad) Hello 👋
