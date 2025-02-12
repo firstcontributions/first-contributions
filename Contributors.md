@@ -1708,6 +1708,7 @@ Sugan
 - [David Wenk](https://github.com/thedavidwenk)
 - [Loris Panza](https://github.com/LorisPanza)
 - [Alden Baughman](https://github.com/aldenbaughman)
+- [Jose Vasquez] (https://github.com/vasquez-jpr/)
 - [giandab](https://github.com/giandab)
 - [Žiga Berlič](https://github.com/zigaberlic)
 - [Suneel Reddy](https://github.com/suneelreddysannala)
