@@ -996,7 +996,7 @@
 - [Matthew C](https://github.com/matthew08069)
 - [David Wenk](https://github.com/thedavidwenk)
 - [Alden Baughman](https://github.com/aldenbaughman)
-- [Jose Vasquez] (https://github.com/vasquez-jpr)
+- [Jose Vasquez] (https://github.com/vasquez-jpr/)
 - [giandab](https://github.com/giandab)
 - [Žiga Berlič](https://github.com/zigaberlic)
 - [Suneel Reddy](https://github.com/suneelreddysannala)
