@@ -8,6 +8,7 @@
 - [Ibodullaev Asadbek](https://github.com/asadbekiv) Hello Contributors
 - [Grydr](https://github.com/Grydr) Hi, everyone
 - [UzairGL](https://github.com/UzairGL) Hello From France :)
+- New York Knicks 2025 champions
 - [krishna](https://github.com/Krishna27Singh) Hello
 - [Het Savani](https://github.com/Hetsavani) Hey!
 - [Samuel](https://github.com/girmasamuel)  Hello everyone, This is my first contribution!
