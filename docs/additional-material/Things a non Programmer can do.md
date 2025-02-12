@@ -127,4 +127,4 @@ The best teacher is the one who can explain complex stuff with simple examples. 
  -You can just simply ask them to minimise the gap between a programmer and a group of audience which they directly do by represent the work of a developer at a greater level and make him get appreciated.
 
 18. **Can make your product getting sold easily**
- -A majority of non-tech professionals nowadays focus on getting the marketing done, taking it to the customers and doing that end to end cycle completely multiple times as long as they got projects to be sold.
+ -A majority of non-tech professionals nowadays focus on getting the marketing done, taking it to the customers and doing that end to end cycle completely multiple times as long as they got projects to be sold by programmers.
