@@ -110,6 +110,7 @@ Add Bilal Hasan
 - [omsudhamsh] (https://github.com/omsudhamsh)
 - [Omar Suarez](https://github.com/omar-suarez)
 Sugan 
+- [Ammar Najwan](https://github.com/ammarnjwn) This is my first contribution.
 - [Himanshu Kumar](https://github.com/H1manshu-Kumar) Here comes my first open-source contribution! :D
 - [ayush kumar](https://github.com/Ayush9945)
 - [Boudin Djama](https://github.com/BoudinDjama)
