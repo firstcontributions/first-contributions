@@ -235,7 +235,7 @@ Sugan
 - [Aubakerzzz](https://github.com/Aubakerzzz)
 - [Venkat-Koushik](https://github.com/vkoushik15)
 - [Lungelo Nzimande] (https://github.com/LungeloNzimande)
-- [Dominique Solomon](https://github.com/dominiquesolo)
+- [Dominique Solomon](https://github.com/DominiqueSolo)
 - [Marcus](https://github.com/JunQi123-del)
 - [Yasmin Oliveira](https://github.com/yasminvo)
 - [Ruksh Seran] (https://github.com/RukshS)
