@@ -19,6 +19,7 @@
 - New York Knicks 2025 champions
 - [krishna](https://github.com/Krishna27Singh) Hello
 - [Het Savani](https://github.com/Hetsavani) Hey!
+- [INEZA Lucky Believe](https://github.com/LuckyBelieve) Hello! this is an Open-source enthusiast!
 - [Samuel](https://github.com/girmasamuel)  Hello everyone, This is my first contribution!
 - [Innocent Nyamusa](https://github.com/innocent-george-mithu-nyamusa) Hello World!. Here is my first OS contribution
 - [Akhilesh](https://github.com/akhileshu)  Hello everyone, this is my first contribution!
