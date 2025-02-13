@@ -1,9 +1,11 @@
 # Contributors
 - [Baba Dan Constantin](https://github.com/fuixone) Thanks for the tutorial.
+- [Muhammad Gamal Azab](https://github.com/muhammadgamalazab) This is Jimmy, DevOps Engineer.
 - Amit Kumar[https://github.com/](https://github.com/amit15000) Thanks for the beginners tutorial.
 - [Ahmad Allahverdiyev](https://github.com/hmd37) Thank you for the tutorial
 - [Abin Shaji Thomas](https://github.com/Abin-Shaji-Thomas)This is my first contribution Thanks for the tutorial 
 - [AdarshDotDev]
+- [Juan Naranjo](https://github.com/Orange-code-orange) Hello from Colombia! ❤️
   [Michal Fogel](https://github.com/MichalFog)
 - [Rose Lagdameo](https://github.com/workwithrose) Hello, hope y'all are having a nice day
 - [Do Quoc Vuong](https://github.com/vsrs3) hello from vietnam ;)
@@ -29,6 +31,7 @@
 - [maxx](https://github.com/MMAX2000)
 - [Prashant/Kenny](https://github.com/michalshelenberg)
 - [Prashant/Kenny](https://github.com/Prashant-SG14)
+- [Adrian Lopez](https://github.com/adrianxlopez/)
 - [srmorita](https://github.com/srmorita)
 - [Abhimanyu](https://github.com/abhimanyu12321/) Hiot first contribution , but wanted to be part of it
 - [shakibalhasan-code](https://github.com/shakibalhasan-code) feel proud to be a part of this, from Dhaka, Bangladesh 👨🏾‍💻
@@ -690,6 +693,7 @@ Sugan
 - [Julia](https://github.com/Katastropha)
 - [Zahidi14](https://github.com/zahidi14/)
 - [brendon-felix](https://github.com/brendon-felix)
+- [Brendan Coen](https://github.com/KenShabby)
 - [Trevor Kibuba](https://github.com/kibuba-njihia)
 - [Joshua Sunday](https://github.com/joshuasunnexy)
 - [SumitThakur](https://github.com/SumitThakur1600)
@@ -2869,6 +2873,7 @@ Sugan
 - [Syc](https://github.com/Sycc66)
 - rmuzeya
 - kizmarco
+- [tripolibalbo](https://github.com/tripolibalbo)
 - [Axel Denouly](https://github.com/AxelDenouly/)
 - [Manjiri](https://github.com/manjiri-b)
 - [VivoDex](https://github.com/migi15ghost)
@@ -3354,6 +3359,7 @@ Sugan
 - [beiminghaoze](https://github.com/beiminghaoze)
 - [Akanksha Uniyal](https://github.com/akankshauniyal)
 - [Deepak]
+- [Ryan DeFalco] Have a Great Day!
 - [Jaswinder](https://github.com/codejaswinder)
 - [Tanmay Yadav]
 - [Thes3us](https://github.com/Thes3us)
@@ -3398,3 +3404,4 @@ Sugan
 - [BenjaminP17](https://github.com/BenjaminP17) Hello, I am back-end developer on Symfony.
 - [Code Alligator](https://github.com/csprasad) Hello 👋
 - [Tamar Borges](https://github.com/tamar-borges) Hello.
+- [Kriti](https://github.com/SymmetricEntropy) Hello, World!
