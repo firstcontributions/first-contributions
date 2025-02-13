@@ -1125,6 +1125,7 @@ Sugan
 - [Janvi Chetan Patel](https://github.com/JanviChetanPatel)
 - [Apoorva garg](https://github.com/ApoorvaGarg629)
 - [Ramiaemi Dashler](https://github.com/dashleremi)
+- [Xinsheng Ooi](https://github.com/xs1128)
 - [Desi Petkova Lee](https://github.com/DesiPetkovaLee)
 - [Rahul Keswani](https://github.com/rahulkeswani010)
 - [GCabane](https://github.com/GCabane)
