@@ -22,6 +22,7 @@
 - [Ujjwal Sharma](https://github.com/UjjwalSharma0112) Hello from India
 - New York Knicks 2025 champions
 - [krishna](https://github.com/Krishna27Singh) Hello
+- [Sarthak Sharma](https://github.com/MT23083) Hello everyone!! First time contributing to an open source project is awesome.
 - [Het Savani](https://github.com/Hetsavani) Hey!
 - [INEZA Lucky Believe](https://github.com/LuckyBelieve) Hello! this is an Open-source enthusiast!
 - [Samuel](https://github.com/girmasamuel)  Hello everyone, This is my first contribution!
