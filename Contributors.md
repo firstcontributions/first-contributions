@@ -94,6 +94,7 @@
 - [Brayan Kai](https://github.com/mwanyumba7)
 - [xiaotian] (https://github.com/w5cschool) Hello world! let's make it done.
 Add Bilal Hasan
+- [Mpho Somo](https://github.com/programmingwithfantom) Hello, this is my first open-source contribution
 - [Binaryguardia](https://github.com/binaryguardia)
 - [Syam](https://github.com/syamjith44)
 - [Richard Nixon](https://github.com/richardnixondev)
