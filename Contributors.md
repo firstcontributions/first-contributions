@@ -1,4 +1,5 @@
 # Contributors
+- [Muhammad Ehsan](https://github.com/MuhammadEhsan02) This is Ehsan, Data Scientist.
 - [Baba Dan Constantin](https://github.com/fuixone) Thanks for the tutorial.
 - [Muhammad Gamal Azab](https://github.com/muhammadgamalazab) This is Jimmy, DevOps Engineer.
 - Amit Kumar[https://github.com/](https://github.com/amit15000) Thanks for the beginners tutorial.
@@ -21,6 +22,7 @@
 - [Ujjwal Sharma](https://github.com/UjjwalSharma0112) Hello from India
 - New York Knicks 2025 champions
 - [krishna](https://github.com/Krishna27Singh) Hello
+- [Sarthak Sharma](https://github.com/MT23083) Hello everyone!! First time contributing to an open source project is awesome.
 - [Het Savani](https://github.com/Hetsavani) Hey!
 - [INEZA Lucky Believe](https://github.com/LuckyBelieve) Hello! this is an Open-source enthusiast!
 - [Samuel](https://github.com/girmasamuel)  Hello everyone, This is my first contribution!
@@ -94,6 +96,7 @@
 - [Brayan Kai](https://github.com/mwanyumba7)
 - [xiaotian] (https://github.com/w5cschool) Hello world! let's make it done.
 Add Bilal Hasan
+- [Mpho Somo](https://github.com/programmingwithfantom) Hello, this is my first open-source contribution
 - [Binaryguardia](https://github.com/binaryguardia)
 - [Syam](https://github.com/syamjith44)
 - [Richard Nixon](https://github.com/richardnixondev)
@@ -552,6 +555,7 @@ Sugan
   [Piyush Mandloi](https://github.com/piyush0mandloi)
   [Prathamesh Zingade](https://github.com/ZingadePrathamesh)
   Brajesh aya tha
+  [Abdul Sabur](https://github.com/alsabur20)
 - [Somto Ogbe](https://github.com/somtoval)
 - [Vorahpong Mean](https://github.com/VorahPong)
 - [Vivek Chudasama](https://github.com/vivekchudasama-2004)
@@ -3425,5 +3429,6 @@ Sugan
 - [RAFiasyam](https://github.com/RAFiasyam) Hello 😁
 - [Ivan](https://github.com/pumi00) Hello guys!!
 - [Juan López](https://github.com/uo293860) 
-- [NatieBao](https://github.com/natiebao) Hi guys, thanks for the tutorial, very helpful.
-- [Zackery Payne](https://github.com/zpayne254) Hello guys
+- [NatieBao](https://github.com/natiebao) Hi guys, thanks for the tutorial, very he
+- [Zackery Payne](https://github.com/zpayne254) Hello guys=======
+- [David Vasilchenko](https://github.com/dvasil23) Hi guys
