@@ -693,6 +693,7 @@ Sugan
 - [Julia](https://github.com/Katastropha)
 - [Zahidi14](https://github.com/zahidi14/)
 - [brendon-felix](https://github.com/brendon-felix)
+- [Brendan Coen](https://github.com/KenShabby)
 - [Trevor Kibuba](https://github.com/kibuba-njihia)
 - [Joshua Sunday](https://github.com/joshuasunnexy)
 - [SumitThakur](https://github.com/SumitThakur1600)
