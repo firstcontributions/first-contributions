@@ -205,6 +205,7 @@ Sugan
 - [Carlitos mi amorcito](https://github.com/manuelxd69)
 - [Zeeshan Niaz](https://github.com/mrzeeshanniaz)
 - [Rishabh Chordiya](https://github.com/rishabhc33)
+- [Kryptoish](https://github.com/kryptoish) locked in.
 - [Isra HQ](https://github.com/rhizvo)
 - [Yvona](https://github.com/YvonaAci)
   Hugh Gramelspacher
