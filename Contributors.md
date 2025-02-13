@@ -997,6 +997,7 @@ Sugan
 - [Joncineus](https://github.com/joncineus)
 - [Krishiv](https://github.com/Krizzhiv)
 - [John J](https://github.com/john310897)
+- [Vivek-Ch](https://github.com/vivekchadaram9)
 - [JoachimC](https://github.com/Joachim280)
 - [JVent-WSU](https://github.com/JVentulett-WSU)
 - [Tzipi W](https://github.com/Tzipi-Winefeld)
