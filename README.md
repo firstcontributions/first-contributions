@@ -132,30 +132,34 @@ where `this-is-you` is your GitHub username. Here you're copying the contents of
 Change to the repository directory on your computer (if you are not already there):
 
 ```bash
-cd first-contributions
+cd "first-contributions"
 ```
 
 Now create a branch using the `git switch` command:
 
 ```bash
-git switch -c your-new-branch-name
+git switch -c "your-new-branch-name"
 ```
 
 For example:
 
 ```bash
-git switch -c add-alonzo-church
+git switch -c "add-alonzo-church"
 ```
 
 <details>
-<summary> <strong>If you get any errors using git switch, click here:</strong> </summary>
+<summary style="cursor: pointer; background-color:#f5f5f5; padding: 8px 12px; border: 1px solid #ddd; border-radius: 4px; color: #333; font-weight: bold;">
+  <strong>Having trouble with `git switch`? Click here for a solution.</strong>
+</summary> 
 
-If the error message "Git: `switch` is not a git command. See `git –help`" appears, it's likely because you're using an older version of git.
-
+If you see the error message:  
+"Git: `switch` is not a git command".
+It means you're using an older version of Git.
+ 
 In this case, try to use `git checkout` instead:
 
 ```bash
-git checkout -b your-new-branch-name
+git checkout -b "your-new-branch-name"
 ```
 
 </details>
@@ -187,7 +191,7 @@ replacing `your-name` with your name.
 Push your changes using the command `git push`:
 
 ```bash
-git push -u origin your-branch-name
+git push -u origin "your-branch-name"
 ```
 
 replacing `your-branch-name` with the name of the branch you created earlier.
