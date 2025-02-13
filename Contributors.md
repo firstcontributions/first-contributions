@@ -2871,6 +2871,7 @@ Sugan
 - [Syc](https://github.com/Sycc66)
 - rmuzeya
 - kizmarco
+- [tripolibalbo](https://github.com/tripolibalbo)
 - [Axel Denouly](https://github.com/AxelDenouly/)
 - [Manjiri](https://github.com/manjiri-b)
 - [VivoDex](https://github.com/migi15ghost)
