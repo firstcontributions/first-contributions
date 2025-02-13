@@ -6,6 +6,7 @@
 - [Abin Shaji Thomas](https://github.com/Abin-Shaji-Thomas)This is my first contribution Thanks for the tutorial 
 - [AdarshDotDev]
 - [Juan Naranjo](https://github.com/Orange-code-orange) Hello from Colombia! ❤️
+- [Srushti Bhoyar](https://github.com/bsrushti) Thanks for the tutorial.
   [Michal Fogel](https://github.com/MichalFog)
 - [Rose Lagdameo](https://github.com/workwithrose) Hello, hope y'all are having a nice day
 - [Do Quoc Vuong](https://github.com/vsrs3) hello from vietnam ;)
