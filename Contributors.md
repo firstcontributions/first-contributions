@@ -31,7 +31,7 @@
 - [INEZA Lucky Believe](https://github.com/LuckyBelieve) Hello! this is an Open-source enthusiast!
 - [Samuel](https://github.com/girmasamuel)  Hello everyone, This is my first contribution!
 - [Innocent Nyamusa](https://github.com/innocent-george-mithu-nyamusa) Hello World!. Here is my first OS contribution
-- [Ajibola Ganiyu]((https://github.com/jb-gy) Hi Everyone, here's my first contribution!
+- [Ajibola Ganiyu](https://github.com/jb-gy) Hi Everyone, here's my first contribution!
 - [Akhilesh](https://github.com/akhileshu)  Hello everyone, this is my first contribution!
 - [Pratik](https://github.com/pktensor)  Hello everyone, this is my first contribution! :)
 - [Caleb](https://github.com/Kiknchicken) Hi everyone, this is my first contribution!
