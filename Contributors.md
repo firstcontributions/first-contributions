@@ -1377,6 +1377,7 @@ Sugan
 - [Sergio Caminitti](https://github.com/SergioCaminitti) =)
 - [Phillip](gttps://github.com/PhillipSom)
 - [Nik Zulfauzaan](https://github.com/nickzulfauzaan)
+- [Irakli Petriashvili](https://github.com/CortaSaire)
 - [Robiya](https://github.com/rhakim24)
 - [Kit-Kat31415926](https://github.com/Kit-Kat31415926)
 - [Luís Simas](https://github.com/luissimas)
