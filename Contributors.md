@@ -1,5 +1,6 @@
 # Contributors
  [Z-Dev-Coder](https://github.com/Z-Dev-Coder) 
+- [Amankumar 140](#) This is Aman, college student.(https://github.com/Amankumar140)
 - [Aaron Corpuz](https://github.com/acorp88) 
 - [Muhammad Ehsan](https://github.com/MuhammadEhsan02) This is Ehsan, Data Scientist.
 - [Baba Dan Constantin](https://github.com/fuixone) Thanks for the tutorial.
@@ -74,6 +75,7 @@ Dnaie
 - [yash](https://github.com/YASHWANTHBH1)- hi
 - [Aakash](https://github.com/aakash1v)- This is my first contribution..
 - [Rebecca](https://github.com/Beccatoni) This is my first contribution, looking forward to making more contributions😌
+
 - [JAGADEESH](https://github.com/Jagadeesh-18-bot) - First contribution 
 - [pauldbg](https://github.com/Pauldbg)
 - [Vinicius da Luz](https://github.com/Lvght)
