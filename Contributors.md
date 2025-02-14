@@ -1955,6 +1955,7 @@ Sugan
 - [Ron Mordokhovich](https://github.com/RonMordo)
 - [John Co](https://github.com/john0ground)
 - [DylanCo](https://github.com/DylanCoexel)
+- [Irakli Petriashvili](https://github.com/CortaSaire)
 - [Saurav Kumar Mishra](https://github.com/sauravkm)
 - [André Wlodkovski](https://github.com/andrewlod)
 - [Yash Singh](https://github.com/YaSH-sInngH)
