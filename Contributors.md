@@ -57,6 +57,7 @@
 - Yash Soni
 - [Mahiman Bissa](https://github.com/mahiman12) Hi, This is my first contribution!
 - [Jude Mpoyo](https://github.com/judempoyo) 👨🏾‍💻😁
+- [cochkoch](https://github.com/cochkoch)
 - [Josue Igiraneza](https://github.com/IGIRANEZAJosue) Okaay lets's go OSS.
 - [Ange Karara Mbabazi](https://github.com/Angekarara)💃.
 - [Md Afridi Sk](https://github.com/hackerslash)
