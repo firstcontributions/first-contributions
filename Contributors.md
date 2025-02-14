@@ -36,6 +36,7 @@
 Dnaie
 - [Samuel](https://github.com/girmasamuel)  Hello everyone, This is my first contribution!
 - [Innocent Nyamusa](https://github.com/innocent-george-mithu-nyamusa) Hello World!. Here is my first OS contribution
+- [Ryan Bowman](https://github.com/rymbowman) Hey all! This is my first open-source contribution. Go Birds!
 - [Ajibola Ganiyu]((https://github.com/jb-gy) Hi Everyone, here's my first contribution!
 - [Akhilesh](https://github.com/akhileshu)  Hello everyone, this is my first contribution!
 - [Pratik](https://github.com/pktensor)  Hello everyone, this is my first contribution! :)
