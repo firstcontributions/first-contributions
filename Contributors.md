@@ -1,4 +1,5 @@
 # Contributors
+ [Z-Dev-Coder](https://github.com/Z-Dev-Coder) 
 - [Aaron Corpuz](https://github.com/acorp88) 
 - [Muhammad Ehsan](https://github.com/MuhammadEhsan02) This is Ehsan, Data Scientist.
 - [Baba Dan Constantin](https://github.com/fuixone) Thanks for the tutorial.
@@ -29,6 +30,7 @@
 - [Sarthak Sharma](https://github.com/MT23083) Hello everyone!! First time contributing to an open source project is awesome.
 - [Het Savani](https://github.com/Hetsavani) Hey!
 - [INEZA Lucky Believe](https://github.com/LuckyBelieve) Hello! this is an Open-source enthusiast!
+Dnaie
 - [Samuel](https://github.com/girmasamuel)  Hello everyone, This is my first contribution!
 - [Innocent Nyamusa](https://github.com/innocent-george-mithu-nyamusa) Hello World!. Here is my first OS contribution
 - [Ajibola Ganiyu]((https://github.com/jb-gy) Hi Everyone, here's my first contribution!
@@ -3449,4 +3451,5 @@ Sugan
 - [Yancy] Hi, I am a noob in open source. I am trying to contribute to open source.
 - [YangRucheng](https://github.com/YangRucheng) Hello
 - [Zhixia Lau](https://github.com/zxzxovo) Interesting project encouraging freshman, Hello ^w^.
-- [Khushi Pandey](https://github.com/KhushiPandey8) Hi 👋 guys, I am Software Develope.
+- [Khushi Pandey](https://github.com/KhushiPandey8) Hi 👋 guys, I am a Software Developer
+- WWWeeds. Hi guys, hope you have a nice day! ^_^
