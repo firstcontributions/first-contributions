@@ -3449,3 +3449,4 @@ Sugan
 - [Yancy] Hi, I am a noob in open source. I am trying to contribute to open source.
 - [YangRucheng](https://github.com/YangRucheng) Hello
 - [Zhixia Lau](https://github.com/zxzxovo) Interesting project encouraging freshman, Hello ^w^.
+- [Khushi Pandey](https://github.com/KhushiPandey8) Hi 👋 guys, I am Software Developer
