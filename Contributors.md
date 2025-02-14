@@ -1567,6 +1567,7 @@ Sugan
 - [Reddi](https://github.com/12eddi)
 - [kiy0315](https://github.com/kiy0315)
 - [Feven Seyfu](https://github.com/FevenSeyfu)
+- [Janzen Go](https://github.com/janzengo)
 - [Kai Hyperion Yun](https://github.com/kaihyperion)
 - [Jason Ma](https://github.com/jasonma1127)
 - [Yousof Shahrabi](https://github.com/yousofs)
