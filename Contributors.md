@@ -3462,3 +3462,4 @@ Sugan
 - WWWeeds. Hi guys, hope you have a nice day! ^_^
 - [Shashi Kiran J](https://github.com/ShashiKiranGenesis) I guess I am a little late 🙄
 - [NateC-Fossa] (https://github.com/NateC-F)
+- [quzq] (https://github.com/quzq)
