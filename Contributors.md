@@ -3418,6 +3418,7 @@ Sugan
 - [Maryia Krauchanka] (https://github.com/mariakravchenko) ##FullStackDeveloper
 - [yagaoyg] (https://github.com/yagaoyg) let's go 🍔
 - [Talha Nawaz](https://github.com/NawazTalha)
+- [Wes Simpson](https://github.com/wessimpson)
 - [Djilanib] (https://github.com/Djilanib) thank u so much ^^
 - [Balacoumarane M](https://github.com/Balacoumarane45)
 - [Zarlish Fathima](https://github.com/zarlish13)Hello Folks👋
@@ -3436,4 +3437,4 @@ Sugan
 - [NatieBao](https://github.com/natiebao) Hi guys, thanks for the tutorial, very he
 - [Zackery Payne](https://github.com/zpayne254) Hello guys=======
 - [David Vasilchenko](https://github.com/dvasil23) Hi guys
-- [Bryson Magee](https://github.com/OllieWalle13)
+- [Bryson Magee](https://github.com/OllieWalle13) 
