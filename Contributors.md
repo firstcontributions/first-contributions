@@ -3468,6 +3468,7 @@ Sugan
 - [YangRucheng](https://github.com/YangRucheng) Hello
 - [Zhixia Lau](https://github.com/zxzxovo) Interesting project encouraging freshman, Hello ^w^.
 - [Khushi Pandey](https://github.com/KhushiPandey8) Hi 👋 guys, I am a Software Developer
+- [Mikhail Ramirez](https://mikhail-ramirez.com) Hey y'all this is my first contribution! Hope it works :)  
 - WWWeeds. Hi guys, hope you have a nice day! ^_^
 - [Shashi Kiran J](https://github.com/ShashiKiranGenesis) I guess I am a little late 🙄
 - [NateC-Fossa] (https://github.com/NateC-F)
