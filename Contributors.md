@@ -60,6 +60,7 @@ Dnaie
 - [Syed Mohaiminul Hoque](https://github.com/SyedT1)
 - [Muhammad Bilal Hassan] (https://github.com/bilalsavagexd) Hi, this is my first contribution!
 - How are you
+- [Owais Ahmad](https://github.com/codingwithowais) This is my first contribution!
 - [rustyziptie](https://github.com/RustyZipTie?tab=overview&from=2025-02-01&to=2025-02-11)
 - Yash Soni
 - [Mahiman Bissa](https://github.com/mahiman12) Hi, This is my first contribution!
