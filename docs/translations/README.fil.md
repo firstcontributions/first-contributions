@@ -121,8 +121,6 @@ Congrats! Nakumpleto mo lang ang karaniwang _fork -> clone -> edit -> pull reque
 
 Ipakita ang iyong kontribusyon sa iyong mga kaibigan at tagasubaybay at magpunta sa [web app](https://firstcontributions.github.io/#social-share).
 
-Pwede ka ring sumali sa aming slack team kung kailangan mo ng anumang tulong o may anumang mga katanungan. [Sumali sa slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
-
 Ngayon, pwede ka nang gumawa ng kontribusyon sa iba pang mga proyekto! Gumawa kami ng isang listahan ng mga proyekto na may mga madadaling gawing _issues_ na pwede mong gawin. Tingnan ang [listahan ng mga proyekto sa web app](https://firstcontributions.github.io/#project-list).
 
 ### [Karagdagang materyal](additional-material/git_workflow_scenarios/additional-material.md)
