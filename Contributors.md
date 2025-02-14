@@ -26,6 +26,8 @@
 - [UzairGL](https://github.com/UzairGL) Hello From France :)
 - [Ujjwal Sharma](https://github.com/UjjwalSharma0112) Hello from India
 - [Treesha Bacchuwar](https://github.com/TreeshaBacchuwar) Hello everyone. This is my first contribution. Excited to continue this journey.
+- [Istiak Islam](https://github.com/isttiiak) | Excited to start my open-source journey and contribute to meaningful projects!
+
 [Domdancing] (https://github.com/domdancing) Hello from MA
 - New York Knicks 2025 champions
 - [Rakshit Gupta] (github.com/Rakshitg600) Hello from DTU
