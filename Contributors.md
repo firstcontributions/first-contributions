@@ -3437,6 +3437,7 @@ Sugan
 - [Balacoumarane M](https://github.com/Balacoumarane45)
 - [Zarlish Fathima](https://github.com/zarlish13)Hello Folks👋
 - [Mahmoud Alfadel] Hello Folks👋
+- [Ossys101010](https://github.com/Osssy010101) Path of PC Guru (PCG; 2PCG; 4PCG). Code with fun brother ^-^
 - [DarlanCascaes](https://github.com/DarlanCascaes)
 - [L4ZYLinuxVendor](https://github.com/L4ZYLinuxVendor) Hello XD, I use arch btw.
 - [treeleaves30760](https://github.com/treeleaves30760) Hello, I am a student from NTHU!
