@@ -990,6 +990,7 @@ Sugan
 - [Dhruba Bhattacharyya](https://github.com/Dev-Dhruba2)
 - [simonpotel](https://github.com/simonpotel)
 - binara nurlankyzy
+- [Ian Acosta](https://github.com/Ian-Acosta2330)
 - [Sophie Sokol](https://github.com/ippotheboxer)
 - [X3R074](My first contribution: https://github.com/X3R074)
 - [Seif Eddine Gadi](https://github.com/Seif-Eddine-Gadi)
