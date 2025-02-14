@@ -117,6 +117,7 @@ Add Bilal Hasan
 - [Shadrack Dorkenoo](https://github.com/shadyOg)
 - [Brian kemboi](https://github.com/kemboi5928)
 - ryanmathew
+- sofí cruz
 - [HassanKoraim]
 - [Thaddeus](https://github.com/madladthad42) yipeeeeeeeeeeee
 - [Sakshi Garg](https://github.com/sakshi-garg) Hiiii
