@@ -110,6 +110,7 @@ Dnaie
 - [Somisrbija](https://github.com/SomiSrbija)
 - [Estilo Joseph] (https://github.com/sephhsephh) nice
   Nataly Cristina (https://github.com/natycristina)
+- [Mohit Appari](https://github.com/moh1tt) Heyyy ! First Contribution 2025 !! 
 - lenkey
 - [Andrea-Sgarbi](https://github.com/Andrea-Sgarbi) Hello everyone, this is my first contribution! :)
 - [brancore87](https://github.com/Andrea-Sgarbi) Hello peeps 😊, this is my first contribution! Date: 2nd February, 2025 🙋🏻‍♂️
