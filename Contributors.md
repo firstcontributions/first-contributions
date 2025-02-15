@@ -1,4 +1,5 @@
 # Contributors
+- [Diego_Sosa] (https://github.com/Diego19871983)
  [Z-Dev-Coder](https://github.com/Z-Dev-Coder) 
 - Anders Lorén Hello World!
 - [Aaron Corpuz](https://github.com/acorp88) 
