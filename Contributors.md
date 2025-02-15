@@ -1,4 +1,6 @@
 # Contributors
+- [Juan Morales](https://github.com/JuanMorales1025/first-contributions) This is my first contribution
+- [Juan Rodriguez](https://github.com/CatConstellation/first-contributions.git) This is my first contribution
  [Z-Dev-Coder](https://github.com/Z-Dev-Coder) 
 - Anders Lorén Hello World!
 - [Aaron Corpuz](https://github.com/acorp88) 
