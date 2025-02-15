@@ -91,6 +91,7 @@ Dnaie
 -[Aarush Pandey](https://github.com/Hadar01)
 - [Ayantunji Timilehin](https://github.com/timmy471)
 - [joothy](https://github.com/thikshathajoothy)
+- [Ernie Cheng](https://github.com/erniecy0124)
 - [Teja](https://github.com/Billakanti-Teja)
 - [maplesyrup0423](https://github.com/maplesyrup0423)
 - zoro [https://github.com/]() Thanks
@@ -3429,6 +3430,7 @@ Sugan
 - [Ritik Singh](https://github.com/Hey-Ritik) Starting to open source...
 - [Lucia Cepria](https://github.com/luciacepria)
 - [ocean0s](https://github.com/ocean0s)
+- [Sushovan pan](https://github.com/Sushovan09) this my first contribution.
 - [Carlos Ripolles Motos](https://github.com/Carlos19uji)
 - [Darragh O'Keeffe](https://github.com/Darragh7)
 - [Jack Sangl](https://github.com/jacksangl)
@@ -3486,3 +3488,5 @@ Sugan
 - [Mohamed Arbani] (https://github.com/MohamedArbani) OIIAOIIA 🐈🔄🔄🔄 ^_^
 - [Sathya Ram] (https://github.com/BITS08SATHYA) Prefect timing bros!
 - [Prince Yadav](https://github.com/iprinceyadav) this is myfirst contributition
+- [akinatada](https://github.com/akinatada) This is my first contribution. Yay!🌟
+- [Yunbo Zhang] (https://github.com/cm2fh)
