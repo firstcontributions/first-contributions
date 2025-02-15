@@ -2901,6 +2901,7 @@ Sugan
 - [woopy](https://github.com/woopy098)
 - [PrakruthiPrasad](https://github.com/prakruthiprasad20)
 - [Sujan Gowda M](https://github.com/Sujan33632)
+- chris
 - [WeiZh](https://github.com/shizaoa-x)
 - [dev-kas](https://github.com/dev-kas)
 - [Poorvika](https://github.com/poorvikaa08)
