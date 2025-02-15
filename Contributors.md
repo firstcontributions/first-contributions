@@ -15,6 +15,7 @@
 - [AdarshDotDev]
 -[PPPS](https://github.com/phuepyaesan) 
 - [Oliver McGale] Hi from Ireland! Thank you for the tutorial
+- [Juan Jose Ruiz](https://github.com/juann227) Gracis chavales 
 - [Juan Naranjo](https://github.com/Orange-code-orange) Hello from Colombia! ❤️
 - [Srushti Bhoyar](https://github.com/bsrushti) Thanks for the tutorial.
 - [Habibullah_Howlader] - Hello from Bangladesh
