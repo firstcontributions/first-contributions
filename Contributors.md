@@ -1,6 +1,7 @@
 # Contributors
  [Z-Dev-Coder](https://github.com/Z-Dev-Coder) 
 - Anders Lorén Hello World!
+- [Ethan Narkiewicz](https://github.com/Enarkiewicz2) CAIS240
 - [Sara Palacios](https://github.com/SaraPalaciosAndes) Hello World!
 - [Aaron Corpuz](https://github.com/acorp88) 
 - [Sarah Calixto](https://github.com/sarahcalixto)
