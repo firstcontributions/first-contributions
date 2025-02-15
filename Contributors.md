@@ -1,6 +1,7 @@
 # Contributors
  [Z-Dev-Coder](https://github.com/Z-Dev-Coder) 
 - Anders Lorén Hello World!
+- [Angel Garcia](https://github.com/AngelGarc3123) Desarrollo de software seguro 2025-1
 - [Aaron Corpuz](https://github.com/acorp88) 
 - [Sarah Calixto](https://github.com/sarahcalixto)
 - [Muhammad Ehsan](https://github.com/MuhammadEhsan02) This is Ehsan, Data Scientist.
