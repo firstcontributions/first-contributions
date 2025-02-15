@@ -34,6 +34,7 @@
 - [Treesha Bacchuwar](https://github.com/TreeshaBacchuwar) Hello everyone. This is my first contribution. Excited to continue this journey.
 [Domdancing] (https://github.com/domdancing) Hello from MA
 - New York Knicks 2025 champions
+- [Vimangsa] (https://github.com/vimangsa) Well hellooo, world! This is my first contribution to an open-source repository and I am excited to do more in future.
 - [Rakshit Gupta] (github.com/Rakshitg600) Hello from DTU
 - [krishna](https://github.com/Krishna27Singh) Hello
 - [Sarthak Sharma](https://github.com/MT23083) Hello everyone!! First time contributing to an open source project is awesome.
