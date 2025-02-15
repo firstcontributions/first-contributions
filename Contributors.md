@@ -1,7 +1,9 @@
 # Contributors
  [Z-Dev-Coder](https://github.com/Z-Dev-Coder) 
 - Anders Lorén Hello World!
-- [Aaron Corpuz](https://github.com/acorp88) 
+- [Sebastian Rodriguez] (https://github.com/sebastianrodriguezp) Hello
+- [Juan Esteban Cruz] (https://github.com/juanecruz) This is Juan
+- [Aaron Corpuz](https://github.com/acorp88) 0
 - [Sarah Calixto](https://github.com/sarahcalixto)
 - [Muhammad Ehsan](https://github.com/MuhammadEhsan02) This is Ehsan, Data Scientist.
 - [Baba Dan Constantin](https://github.com/fuixone) Thanks for the tutorial.
