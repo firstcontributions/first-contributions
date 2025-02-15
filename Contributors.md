@@ -170,6 +170,7 @@ Sugan
 - [Waverew](https://github.com/waverew) // Oh hi there)
 - [Carlvensky St Fleur](https://github.com/Carlvensky)
 - [Mark Tomescu](https://github.com/NEVERdieNM) Hi, first contribution
+- [Tanmay Khilari](https://github.com/Tanmayk13) Hello Everybody, Glad to have first open source contribution!
 - [David Jahn](https://github.com/DavidJahnPY)
 - [Lestlin Robins](https://github.com/LestlinRobins)
 - [Rajeev Kumar Ranjan](https://github.com/rajeev-2711) First contribution
@@ -2905,6 +2906,7 @@ Sugan
 - [woopy](https://github.com/woopy098)
 - [PrakruthiPrasad](https://github.com/prakruthiprasad20)
 - [Sujan Gowda M](https://github.com/Sujan33632)
+- chris
 - [WeiZh](https://github.com/shizaoa-x)
 - [dev-kas](https://github.com/dev-kas)
 - [Poorvika](https://github.com/poorvikaa08)
@@ -3470,6 +3472,7 @@ Sugan
 - [Bryson Magee](https://github.com/OllieWalle13) 
 - [bl3ssedc0de](https://github.com/nullx5)
 - [bagasadiii](https://github.com/bagasadiii)
+- [zbinx]Thanks for the tutorial, really cool.
 - [Yancy] Hi, I am a noob in open source. I am trying to contribute to open source.
 - [YangRucheng](https://github.com/YangRucheng) Hello
 - [MarcoMarquez19](https://github.com/MarcoMarquez19) Hola, tratando de acabar el github fundations :'D
@@ -3485,4 +3488,5 @@ Sugan
 - [hugohtz05] (https://github.com/hugohtz05) 
 - [Mohamed Arbani] (https://github.com/MohamedArbani) OIIAOIIA 🐈🔄🔄🔄 ^_^
 - [Sathya Ram] (https://github.com/BITS08SATHYA) Prefect timing bros!
-- [Yunbo Zhang]
+- [Yunbo Zhang] (https://github.com/cm2fh) hello
+
