@@ -182,6 +182,7 @@ Sugan
 - [Lestlin Robins](https://github.com/LestlinRobins)
 - [Rajeev Kumar Ranjan](https://github.com/rajeev-2711) First contribution
 - [Shankar Reddy](https://github.com/Shankar3804)
+- [Farhiya Abdalla](https://github.com/rhiyality)
 - [Salma Fadl Azzam](https://github.com/salmafadlabdulrahman)
 - [Cindy Muraya](https://github.com/CindyMuraya)
 - [Bijay Thomas](https://github.com/bijaythms)
