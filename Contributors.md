@@ -5,6 +5,7 @@
 - [Aaron Corpuz](https://github.com/acorp88) 
 - [Sarah Calixto](https://github.com/sarahcalixto)
 - [Muhammad Ehsan](https://github.com/MuhammadEhsan02) This is Ehsan, Data Scientist.
+- [Sarah Simbaqueba](https://github.com/S-Simbaqueba) Hey there 
 - [Baba Dan Constantin](https://github.com/fuixone) Thanks for the tutorial.
 - [Pranav Dhekane](https://github.com/pranavdhekane) Nice tutorial.. 
 - [Muhammad Gamal Azab](https://github.com/muhammadgamalazab) This is Jimmy, DevOps Engineer.
