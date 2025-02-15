@@ -1,6 +1,9 @@
 # Contributors
+
  [Z-Dev-Coder](https://github.com/Z-Dev-Coder) 
 - Anders Lorén Hello World!
+- [Adamya Tripathi](https://github.com/Inferno-P) Data Scientist here. Wassup!🚀🚀
+
 - [Aaron Corpuz](https://github.com/acorp88) 
 - [Sarah Calixto](https://github.com/sarahcalixto)
 - [Muhammad Ehsan](https://github.com/MuhammadEhsan02) This is Ehsan, Data Scientist.
