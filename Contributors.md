@@ -5,12 +5,14 @@
 # Contributors
  [Z-Dev-Coder](https://github.com/Z-Dev-Coder) 
 - [Aaron Corpuz](https://github.com/acorp88) 
+- [Sarah Calixto](https://github.com/sarahcalixto)
 - [Muhammad Ehsan](https://github.com/MuhammadEhsan02) This is Ehsan, Data Scientist.
 - [Baba Dan Constantin](https://github.com/fuixone) Thanks for the tutorial.
 - [Muhammad Gamal Azab](https://github.com/muhammadgamalazab) This is Jimmy, DevOps Engineer.
 - Amit Kumar[https://github.com/](https://github.com/amit15000) Thanks for the beginners tutorial.
 - [Ahmad Allahverdiyev](https://github.com/hmd37) Thank you for the tutorial
 - [Abin Shaji Thomas](https://github.com/Abin-Shaji-Thomas)This is my first contribution Thanks for the tutorial 
+- [Cooper Board] (https://github/cboard9)
 - [AdarshDotDev]
 - [Oliver McGale] Hi from Ireland! Thank you for the tutorial
 - [Juan Naranjo](https://github.com/Orange-code-orange) Hello from Colombia! ❤️
@@ -63,6 +65,7 @@ Dnaie
 - [Syed Mohaiminul Hoque](https://github.com/SyedT1)
 - [Muhammad Bilal Hassan] (https://github.com/bilalsavagexd) Hi, this is my first contribution!
 - How are you
+- [Owais Ahmad](https://github.com/codingwithowais) This is my first contribution!
 - [rustyziptie](https://github.com/RustyZipTie?tab=overview&from=2025-02-01&to=2025-02-11)
 - Yash Soni
 - [Mahiman Bissa](https://github.com/mahiman12) Hi, This is my first contribution!
@@ -107,6 +110,7 @@ Dnaie
 - [Feng-chengyi](https://github.com/Feng-chengyi)
 - [NataliaBachiega] (https://github.com/NataliaBachiega) Hi ≽^•⩊•^≼
 - [Alifa-Ara-Heya] (https://github.com/alifa-ara-heya) Alhamdulillah (All praises to Allah), my first contribution in the open source world. :D
+- [Wahab-Guerrilla] (https://github.com/wGuerrilla) Alhumdulillah.
 - [Julia Robe] (https://github.com/juliarobe)
 - [Badrinath](https://github.com/Badrinath7941)
 - [Muzamil](https://github.com/M-Codes6) Hey folks, i cloned the repo and this is my first contribution in the open source world 
@@ -991,6 +995,7 @@ Sugan
 - [Dhruba Bhattacharyya](https://github.com/Dev-Dhruba2)
 - [simonpotel](https://github.com/simonpotel)
 - binara nurlankyzy
+- [Ian Acosta](https://github.com/Ian-Acosta2330)
 - [Sophie Sokol](https://github.com/ippotheboxer)
 - [X3R074](My first contribution: https://github.com/X3R074)
 - [Seif Eddine Gadi](https://github.com/Seif-Eddine-Gadi)
@@ -1380,6 +1385,7 @@ Sugan
 - [Sergio Caminitti](https://github.com/SergioCaminitti) =)
 - [Phillip](gttps://github.com/PhillipSom)
 - [Nik Zulfauzaan](https://github.com/nickzulfauzaan)
+- [Irakli Petriashvili](https://github.com/CortaSaire)
 - [Robiya](https://github.com/rhakim24)
 - [Kit-Kat31415926](https://github.com/Kit-Kat31415926)
 - [Luís Simas](https://github.com/luissimas)
@@ -1395,6 +1401,7 @@ Sugan
 - [sony](https://github.com/sony77697)
 - [urkwr](https://github.com/urkwr)
 - [Alish-0x](https://github.com/Alish-0x)
+- [fikrirazor](https://github.com/fikrirazor)
 - [SWanHK](https://github.com/swanhk)
   Saksh
   Daksh
@@ -3396,6 +3403,7 @@ Sugan
 - [Akhil sai](https://github.com/akhiltech-dev) Lets do it 🔥
 - [George Shaiju](https://github.com/GeorgeShaijuu)
 - [vishnuvardhan m](https://github.com/vishnuvardhan-61)
+- [Preah Smith](https://github.com/Kaggiee)
 - [Tom Mathew](https://github.com/tommathewz)
 - [Hardik Parmar](https://github.com/hardikjp7)
 - [Hardik Parmar](https://www.linkedin.com/in/hardikjp/)
@@ -3464,12 +3472,17 @@ Sugan
 - [bagasadiii](https://github.com/bagasadiii)
 - [Yancy] Hi, I am a noob in open source. I am trying to contribute to open source.
 - [YangRucheng](https://github.com/YangRucheng) Hello
+- [MarcoMarquez19](https://github.com/MarcoMarquez19) Hola, tratando de acabar el github fundations :'D
 - [Zhixia Lau](https://github.com/zxzxovo) Interesting project encouraging freshman, Hello ^w^.
 - [Khushi Pandey](https://github.com/KhushiPandey8) Hi 👋 guys, I am a Software Developer
+- [Mikhail Ramirez](https://mikhail-ramirez.com) Hey y'all this is my first contribution! Hope it works :)  
 - WWWeeds. Hi guys, hope you have a nice day! ^_^
 - [Shashi Kiran J](https://github.com/ShashiKiranGenesis) I guess I am a little late 🙄
 - [NateC-Fossa] (https://github.com/NateC-F)
 - [quzq] (https://github.com/quzq)
 - [pk1705] (https://github.com/pk1705)
-- [Yunbo Zhang]
 - [hugohtz05] (https://github.com/hugohtz05) 
+- [hugohtz05] (https://github.com/hugohtz05) 
+- [Mohamed Arbani] (https://github.com/MohamedArbani) OIIAOIIA 🐈🔄🔄🔄 ^_^
+- [Sathya Ram] (https://github.com/BITS08SATHYA) Prefect timing bros!
+- [Yunbo Zhang]
