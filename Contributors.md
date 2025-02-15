@@ -947,6 +947,7 @@ Sugan
 - [Dhanush](https://github.com/dhanush-cache)
 - [Austin Banner](https://github.com/AustinBanner)
 - [Hemlata_Sharma](https://github.com/HemaGarima)
+- [Shawn Bai](https://github.com/xbai)
 - [Shankar-Balajee](https://github.com/Shankar-Balajee)
 - [amir asghar akbar mahaleh ghazian tapeh]
 - [stevee14]
