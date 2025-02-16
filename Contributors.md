@@ -9,6 +9,7 @@
 - [Ethan Narkiewicz](https://github.com/Enarkiewicz2) CAIS240
 - [Sara Palacios](https://github.com/SaraPalaciosAndes) Hello World!
 - [Aaron Corpuz](https://github.com/acorp88) 
+- [Thomas Hyam](https://github.com/HyamT) Lets get contributing
 - [Sarah Calixto](https://github.com/sarahcalixto)
 - [Muhammad Ehsan](https://github.com/MuhammadEhsan02) This is Ehsan, Data Scientist.
 - [Fadil Amad K M](https://github.com/TechTrovePlus) namasthe!!🙏
