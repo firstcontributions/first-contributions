@@ -18,6 +18,7 @@
 - [Cooper Board] (https://github/cboard9)
 - [Ryan Tetreault] (https://github.com/ryantetreault)
 - [AdarshDotDev]
+- [Andgihrew](https://github/Andgihrew) hello is me contributor; also hello everybody else in here;
 -[PPPS](https://github.com/phuepyaesan) 
 - [Owen Morris](https://github.com/OMorris95) 
 - [Oliver McGale] Hi from Ireland! Thank you for the tutorial
@@ -323,6 +324,7 @@ Sugan
 - [BissyKay](https://github.com/BissyKay)
 - [Durgesh Shekhawat](https://github.com/durgeshhhhhhh)
 - [Durgesh Shekhawat](https://github.com/durgeshhhhhhh)
+  "Hey! Why is this duplicated? :("
 - [Omkar Nath](https://github.com/nathomkar799/first-contributions)
 - mridul vaishnav
 - [einegbenosun](https://github.com/einegbenosun)
