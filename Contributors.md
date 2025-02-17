@@ -1993,6 +1993,7 @@ Sugan
 - [Renaulter](https://github.com/himanshu-gadia)
 - [sambutracy](https://github.com/sambutracy)
 - [TH-Raju](https://github.com/TH-Raju)
+- [Jon P](https://github.com/kyuukestu)
 - [Advait Johari](https://github.com/aadijo)
 - [Ron Mordokhovich](https://github.com/RonMordo)
 - [John Co](https://github.com/john0ground)
