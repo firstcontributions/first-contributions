@@ -9,6 +9,7 @@
 - [Ethan Narkiewicz](https://github.com/Enarkiewicz2) CAIS240
 - [Sara Palacios](https://github.com/SaraPalaciosAndes) Hello World!
 - [Aaron Corpuz](https://github.com/acorp88) 
+- [Thomas Hyam](https://github.com/HyamT) Lets get contributing
 - [Sarah Calixto](https://github.com/sarahcalixto)
 - [Muhammad Ehsan](https://github.com/MuhammadEhsan02) This is Ehsan, Data Scientist.
 - [Fadil Amad K M](https://github.com/TechTrovePlus) namasthe!!🙏
@@ -31,7 +32,9 @@
 - [Srushti Bhoyar](https://github.com/bsrushti) Thanks for the tutorial.
 - [Habibullah_Howlader] - Hello from Bangladesh
   [Michal Fogel](https://github.com/MichalFog)
+  [Ki Chue lwin](https://github.com/KiChueLwin)
 - [Rose Lagdameo](https://github.com/workwithrose) Hello, hope y'all are having a nice day
+- [Karina Kallas](https://github.com/kallka) Thanks for the tutorial!
 - [Hermela Zekarias] (https://github.com/hermela-zekarias)
 - [Do Quoc Vuong](https://github.com/vsrs3) hello from vietnam ;)
 - [Marc Daniel Falsado](https://github.com/marcdanielfalsado) Hey everyone, Wish yall the best!
@@ -90,6 +93,7 @@ Dnaie
 - [Josue Igiraneza](https://github.com/IGIRANEZAJosue) Okaay lets's go OSS.
 - [Ange Karara Mbabazi](https://github.com/Angekarara)💃.
 - [Md Afridi Sk](https://github.com/hackerslash)
+- [Karan Chirde](https://github.com/chirdekaran262) Hello World, This is my first contribution........
 - [Akhilesh Pratap Shahi](https://github.com/shahiakhilesh1304) Note: This is my first contribution looking forward to contribute as a Data Scientist/Python Developer/Data Engineer/ AI Engineer.
 - [Misanthropic](https://github.com/misanthropic23)
 - [Mukesh](https://github.com/mukezh) First OSC
@@ -107,6 +111,7 @@ Dnaie
 - Praba
 - [Lena Andjelkovic](https://github.com/lenicqq)
 -[Aarush Pandey](https://github.com/Hadar01)
+- [Kyle Murray](https://github.com/kylepatmurray)
 - [Ayantunji Timilehin](https://github.com/timmy471)
 - [joothy](https://github.com/thikshathajoothy)
 - [Ernie Cheng](https://github.com/erniecy0124)
@@ -117,6 +122,7 @@ Dnaie
 - [Uchi Fiti](https://github.com/uchi-fiti) Hi everyone, this is my first contribution. I hope to see more 🇲🇬 people here :)
 - [Bohne1225(https://github.com/Bohne1225)
 - [Somisrbija](https://github.com/SomiSrbija)
+- [VestJin](https://github.com/vestjin)
 - [Estilo Joseph] (https://github.com/sephhsephh) nice
   Nataly Cristina (https://github.com/natycristina)
 - [Mohit Appari](https://github.com/moh1tt) Heyyy ! First Contribution 2025 !! 
@@ -142,6 +148,7 @@ Add Bilal Hasan
 - [Richard Nixon](https://github.com/richardnixondev)
 - [Tony Montana](https://github.com/tonymont4n4)
 - [Dhanvin Ratheesh](https://github.com/dhanvin-6)
+- [Kiara Matos Luna](https://github.com/KMLPr)
 - [Syed Tawakkal](https://github.com/SyedTawakkal)   
 - [Rodgers Muriki](https://github.com/MurikiRodgers)   
 - [Val Ryan](https://github.com/valryanb/)
@@ -1962,6 +1969,7 @@ Sugan
 - [Firoz Khan aka Codezakifiroz](https://github.com/codezakifiroz)
 - [David Preradovic](https://github.com/DavideTheClown)
 - [Ankur](https://github.com/Ar7109)
+- [Sawara](https://github.com/oga114)🚀🚀🚀
 - [toryf](https://github.com/tfernandez2017)
 - [Jun Lei](https://github.com/junevision)
 - [Lavinia](https://github.com/Lavinia225)
@@ -1988,6 +1996,7 @@ Sugan
 - [Renaulter](https://github.com/himanshu-gadia)
 - [sambutracy](https://github.com/sambutracy)
 - [TH-Raju](https://github.com/TH-Raju)
+- [Jon P](https://github.com/kyuukestu)
 - [Advait Johari](https://github.com/aadijo)
 - [Ron Mordokhovich](https://github.com/RonMordo)
 - [John Co](https://github.com/john0ground)
@@ -3530,5 +3539,11 @@ Sugan
 - [Alan Leonel Gomez] (https://github.com/alango89) Argentina!
 - [Pravin Avhad](https://github.com/Thalapravin)
 - [Ruturaj Jadhav](https://github.com/ruturajjadhav07) Hello from India! This is my first contribution.
+
 - [Nadham sai pallavi](https://github.com/nadhamsaipallavi) This is my first contribution.
+
+
+- [Syahrul Daffa Mahesa](https://github.com/dapruk)
+- [Nithin U](https://github.com/nithinu2802) Hi, I'm Looking forward to connect with people to impl tech😊
+- [Krish Mehta](https://github.com/KrishMehta2004) 🙏
 
