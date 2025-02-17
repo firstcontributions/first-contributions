@@ -1968,6 +1968,7 @@ Sugan
 - [Firoz Khan aka Codezakifiroz](https://github.com/codezakifiroz)
 - [David Preradovic](https://github.com/DavideTheClown)
 - [Ankur](https://github.com/Ar7109)
+- [Sawara](https://github.com/oga114)🚀🚀🚀
 - [toryf](https://github.com/tfernandez2017)
 - [Jun Lei](https://github.com/junevision)
 - [Lavinia](https://github.com/Lavinia225)
