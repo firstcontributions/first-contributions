@@ -3541,3 +3541,4 @@ Sugan
 - [Ruturaj Jadhav](https://github.com/ruturajjadhav07) Hello from India! This is my first contribution.
 - [Syahrul Daffa Mahesa](https://github.com/dapruk)
 - [Nithin U](https://github.com/nithinu2802) Hi, I'm Looking forward to connect with people to impl tech😊
+- [Krish Mehta](https://github.com/KrishMehta2004) 🙏
