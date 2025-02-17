@@ -10,6 +10,8 @@
 - [Sara Palacios](https://github.com/SaraPalaciosAndes) Hello World!
 - [Aaron Corpuz](https://github.com/acorp88) 
 - [Thomas Hyam](https://github.com/HyamT) Lets get contributing
+- [Adil Köken](https://github.com/AdilKoken/)
+- [Praveen Raj](https://github.com/trytobegoodatleast)
 - [Sarah Calixto](https://github.com/sarahcalixto)
 - [Muhammad Ehsan](https://github.com/MuhammadEhsan02) This is Ehsan, Data Scientist.
 - [Fadil Amad K M](https://github.com/TechTrovePlus) namasthe!!🙏
@@ -25,6 +27,7 @@
 - [Ryan Tetreault] (https://github.com/ryantetreault)
 - [AdarshDotDev]
 -[PPPS](https://github.com/phuepyaesan) 
+- [Blucio Castro](https://github.com/BlucioCastro) I was here, thanks for the XP!
 - [Owen Morris](https://github.com/OMorris95) 
 - [Oliver McGale] Hi from Ireland! Thank you for the tutorial
 - [Juan Jose Ruiz](https://github.com/juann227) Gracis chavales 
@@ -45,6 +48,7 @@
 - [Deepaakash Gupta](https://github.com/deep-2812) Hi Everyone, This is my first contribution. #Data Engineer
 - [Ibodullaev Asadbek](https://github.com/asadbekiv) Hello Contributors
 - [Grydr](https://github.com/Grydr) Hi, everyone
+- [Banggu](https://github.com/areum0116/) My historical moment of contributing to the open source for the first time!!
 - Hello World!
 - [UzairGL](https://github.com/UzairGL) Hello From France :)
 - [Ujjwal Sharma](https://github.com/UjjwalSharma0112) Hello from India
@@ -3126,6 +3130,7 @@ Sugan
 - [yahange](https://github.com/yahange)
 - [Luca Bensi](https://github.com/lucab-91)
 - [Tushar](https://github.com/Tushar-92)
+- [JohnTheSteel](https://github.com/JohnTheSteel) Let's rock.
 - [yahange](https://github.com/yahange)
 - [Hubert](https://github.com/hubertmilewski)
 - [Jian Yang](https://github.com/HARRY-JUSTHARRY)
@@ -3546,4 +3551,8 @@ Sugan
 - [Syahrul Daffa Mahesa](https://github.com/dapruk)
 - [Nithin U](https://github.com/nithinu2802) Hi, I'm Looking forward to connect with people to impl tech😊
 - [Krish Mehta](https://github.com/KrishMehta2004) 🙏
+
+
+
+- [Andrew Dev](https://github.com/Andss-ye) Co-co-co-colombia 
 
