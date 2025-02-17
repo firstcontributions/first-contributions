@@ -11,6 +11,7 @@
 - [Aaron Corpuz](https://github.com/acorp88) 
 - [Thomas Hyam](https://github.com/HyamT) Lets get contributing
 - [Adil Köken](https://github.com/AdilKoken/)
+- [Praveen Raj](https://github.com/trytobegoodatleast)
 - [Sarah Calixto](https://github.com/sarahcalixto)
 - [Muhammad Ehsan](https://github.com/MuhammadEhsan02) This is Ehsan, Data Scientist.
 - [Fadil Amad K M](https://github.com/TechTrovePlus) namasthe!!🙏
