@@ -6,6 +6,7 @@
 - [Z-Dev-Coder](https://github.com/Z-Dev-Coder) 
 - Anders Lorén Hello World!
 - [Ernest Whitehead](https://github.com/cliffy987) It's-a-me!
+- [Sope Azeez](https://github.com/mosh-d) This is Sope, Software Engineer! Nice to meet you!
 - [Ethan Narkiewicz](https://github.com/Enarkiewicz2) CAIS240
 - [Sara Palacios](https://github.com/SaraPalaciosAndes) Hello World!
 - [Aaron Corpuz](https://github.com/acorp88) 
