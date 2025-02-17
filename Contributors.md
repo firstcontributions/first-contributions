@@ -110,6 +110,7 @@ Dnaie
 - Praba
 - [Lena Andjelkovic](https://github.com/lenicqq)
 -[Aarush Pandey](https://github.com/Hadar01)
+- [Kyle Murray](https://github.com/kylepatmurray)
 - [Ayantunji Timilehin](https://github.com/timmy471)
 - [joothy](https://github.com/thikshathajoothy)
 - [Ernie Cheng](https://github.com/erniecy0124)
