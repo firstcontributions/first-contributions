@@ -35,6 +35,7 @@
   [Ki Chue lwin](https://github.com/KiChueLwin)
 - [Rose Lagdameo](https://github.com/workwithrose) Hello, hope y'all are having a nice day
 - [Karina Kallas](https://github.com/kallka) Thanks for the tutorial!
+- [Tarun Thakur](https://github.com/TarunThakur172000) Thanks for the tutorial!
 - [Hermela Zekarias] (https://github.com/hermela-zekarias)
 - [Do Quoc Vuong](https://github.com/vsrs3) hello from vietnam ;)
 - [Marc Daniel Falsado](https://github.com/marcdanielfalsado) Hey everyone, Wish yall the best!
@@ -1040,7 +1041,7 @@ Sugan
 - [Matheus Deus](https://github.com/deusMatheus)
 - [Loubna Lekouaghet](https://github.com/loubna213)
 - [Roshawn Brooks](https://github.com/rbrooks95)
-- [Tarun Jakkula](https://github.com/TarunJakkula)
+- [Mr. Jakkula](https://github.com/Mr.Jakkula)
 - [Jeston Lewis](https://github.com/jestoncolelewis)
 - [Omer Cohen](https://github.com/OmerCohen7530)
 - [Janice Fernandes](https://github.com/janiceferns02)
@@ -1517,7 +1518,7 @@ Sugan
 - [Arslanaka](https://github.com/arslanaka)
 - [Bektur Duishembekov](https://github.com/Bektur13)
 - [Psalmuel Carvajal](https://github.com/ThisRiven)
-- [Tarun kumar](https://github.com/krtarun7)
+- [Mr. kumar](https://github.com/krMr.7)
 - [Codemanticism](https://github.com/codemanticism)
 - [Mohiuddin Hasan](https://github.com/mmhasan07)
 - [Flavio Emanuele Cannavò](https://github.com/flaviocnn)
