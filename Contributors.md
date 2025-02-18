@@ -23,6 +23,7 @@
 - [Praveen Raj](https://github.com/trytobegoodatleast)
 - [Sarah Calixto](https://github.com/sarahcalixto)
 - [Muhammad Ehsan](https://github.com/MuhammadEhsan02) This is Ehsan, Data Scientist.
+- [Md Sajidul Mowla](https://github.com/sajid73) Hello everyone, nice to contribute to an open source project 😊
 - [Fadil Amad K M](https://github.com/TechTrovePlus) namasthe!!🙏
 - [Sarah Simbaqueba](https://github.com/S-Simbaqueba) Hey there 
 - [Baba Dan Constantin](https://github.com/fuixone) Thanks for the tutorial.
