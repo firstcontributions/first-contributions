@@ -11,6 +11,7 @@
 - MAGNUNMAX00  "thanks for help the biginners"
 - [Nathaniel Hanlon] (https://github.com/anarchoverah) Hello world! Programmed to work and not to feel...
 - [Abhijeet Gorhe] (https://github.com/abhijeetgorhe26); let's kill it boys.....!
+- [Sarthak Sharma] Hello world from sarthak!!!
 - [Ernest Whitehead](https://github.com/cliffy987) It's-a-me!
 - [Aryan Saraswat](https://github.com/Aryan-Saraswat05) let'ss goo
 - [Beau Desrosiers](https://github.com/BDesro) Hello and thank you!
@@ -23,6 +24,7 @@
 - [Praveen Raj](https://github.com/trytobegoodatleast)
 - [Sarah Calixto](https://github.com/sarahcalixto)
 - [Muhammad Ehsan](https://github.com/MuhammadEhsan02) This is Ehsan, Data Scientist.
+- [Md Sajidul Mowla](https://github.com/sajid73) Hello everyone, nice to contribute to an open source project 😊
 - [Fadil Amad K M](https://github.com/TechTrovePlus) namasthe!!🙏
 - [Sarah Simbaqueba](https://github.com/S-Simbaqueba) Hey there 
 - [Baba Dan Constantin](https://github.com/fuixone) Thanks for the tutorial.
@@ -2642,6 +2644,7 @@ Sugan
 - [Jithin Thankachan](https://github.com/jithin-space)
 - [michik0](https://github.com/michik0)
 - [TimotheeMarreroMeyer](https://github.com/TimotheeMarreroMeyer)
+- [Shojol Ahmed](https://github.com/ShojolAhmed) My first ever contribution to a github project
 - [Salmah Lasisi](https://github.com/salmah52)
 - [Pulkit Pathak](https://gothub.com/satyyam11)
 - [Vince](https://github.com/Perunu)
