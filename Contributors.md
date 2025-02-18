@@ -106,6 +106,7 @@ Dnaie
 - [Md Afridi Sk](https://github.com/hackerslash)
 - [Karan Chirde](https://github.com/chirdekaran262) Hello World, This is my first contribution........
 - [Akhilesh Pratap Shahi](https://github.com/shahiakhilesh1304) Note: This is my first contribution looking forward to contribute as a Data Scientist/Python Developer/Data Engineer/ AI Engineer.
+- [Aman Kaushik] https://github.com/amasick 
 - [Misanthropic](https://github.com/misanthropic23)
 - [Mukesh](https://github.com/mukezh) First OSC
 -[ Herbert- chacha ](https://github.com/gabimaru)
