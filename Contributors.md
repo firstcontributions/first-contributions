@@ -3562,3 +3562,4 @@ Sugan
 - [nadhamsaipallavi](https://github.com/nadhamsaipallavi)
 - [Holden Brown](https://github.com/crabnoise)
 - [nazareno moreno](https://github.com/nazarenomoreno) LAS MALVINAS SON ARGENTINAS
+- [Chase Russo](https://github.com/chaserusso) Hello from the US!
