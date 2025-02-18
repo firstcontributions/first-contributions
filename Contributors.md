@@ -31,7 +31,6 @@
 - [Praveen Raj](https://github.com/trytobegoodatleast)
 - [Sarah Calixto](https://github.com/sarahcalixto)
 - [Muhammad Ehsan](https://github.com/MuhammadEhsan02) This is Ehsan, Data Scientist.
-- [Md Sajidul Mowla](https://github.com/sajid73) Hello everyone, nice to contribute to an open source project 😊
 - [Fadil Amad K M](https://github.com/TechTrovePlus) namasthe!!🙏
 - [Samrat Saha](https://github.com/Samsgithub9635) I love Java 🍵 and This my first step towards open source contribution...Yeeeeh!😃 and thanks! to first-contributions
 repo for it.
