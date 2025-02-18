@@ -29,6 +29,7 @@
 - [Cooper Board] (https://github/cboard9)
 - [Ryan Tetreault] (https://github.com/ryantetreault)
 - [AdarshDotDev]
+- [Samir Butt] Hey everyone!
 -[PPPS](https://github.com/phuepyaesan) 
 - [Blucio Castro](https://github.com/BlucioCastro) I was here, thanks for the XP!
 - [Owen Morris](https://github.com/OMorris95) 
