@@ -122,9 +122,3 @@ Most of all, listen to what people around you discuss. See if you can recognize 
 16. **Teach and Help others**:
 The best way to learn more about a topic is to try to teach it.
 The best teacher is the one who can explain complex stuff with simple examples. So you need to try to be the best teacher to be the best learner and the best in your programming world. Teaching others will make you feel better about yourself and it will help you get better skills and knowledge in your profession. When you get help from someone don't keep it to yourself share it with others. Make the world a better place to live.
-
-17. **Can respresent Programmer's work"
- -You can just simply ask them to minimise the gap between a programmer and a group of audience which they directly do by represent the work of a developer at a greater level and make him get appreciated.
-
-18. **Can make your product getting sold easily**
- -A majority of non-tech professionals nowadays focus on getting the marketing done, taking it to the customers and doing that end to end cycle completely multiple times as long as they got projects to be sold by the programmers.
