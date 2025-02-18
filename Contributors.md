@@ -142,6 +142,7 @@ Dnaie
 - [Banyar](https://github.com/minbanyartalahtaw)
 - [Ze Santos](https://github.com/ze13sk) altamente
 - [Md Faizan Ashrafi](https://github.com/mdfaizanashrafi) Hey Guys! Not my first contribution
+- [Aldo Koyoc](https://github.com/Koyoc23)
 - [yash](https://github.com/YASHWANTHBH1)- hi
 - [Aakash](https://github.com/aakash1v)- This is my first contribution..
 - [Rebecca](https://github.com/Beccatoni) This is my first contribution, looking forward to making more contributions😌
