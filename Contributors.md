@@ -15,6 +15,7 @@
 - [Ernest Whitehead](https://github.com/cliffy987) It's-a-me!
 - [Aryan Saraswat](https://github.com/Aryan-Saraswat05) let'ss goo
 - [Beau Desrosiers](https://github.com/BDesro) Hello and thank you!
+- [John Garry B. Tan](https://github.com/dev-rygar) Hello World, Pusangkuting is here!
 - [Sope Azeez](https://github.com/mosh-d) This is Sope, Software Engineer! Nice to meet you!
 - [Ethan Narkiewicz](https://github.com/Enarkiewicz2) CAIS240
 - [Sara Palacios](https://github.com/SaraPalaciosAndes) Hello World!
