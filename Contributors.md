@@ -3579,3 +3579,4 @@ Sugan
 - Hi This is Ismail
 - [Prajwala P](https://github.com/prajp98) Hello
 - [Ghaith ElHamwi](https://github.com/Ghaith8Bit) ⚡ "Turning coffee into code since 2020" ☕
+- [Manuel] hello from switzerland
