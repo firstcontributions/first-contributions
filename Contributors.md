@@ -2606,6 +2606,7 @@ Sugan
 - [LionKang](https://github.com/Lion-Kang)
 - [HimashaGallage](https://github.com/HimashaGallage)
 - [Tsveto](https://github.com/Sclipper)
+- ofink
 - [salaminipples](https://github.com/salaminipples)
 - [bucked404](https://github.com/bucked404)
 - [buckmisterfullereno](https://github.com/Buckminsterfullereno)
