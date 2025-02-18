@@ -5,12 +5,20 @@
 - [Mouhamed FARDOUSI](https://github.com/Mouhamed941)
 - [Z-Dev-Coder](https://github.com/Z-Dev-Coder) 
 - Anders Lorén Hello World!
+- Austin Spangler hi guys !
+- aleberkn
+- Arthur Shvetsov
+- [Nathaniel Hanlon] (https://github.com/anarchoverah) Hello world! Programmed to work and not to feel...
 - [Ernest Whitehead](https://github.com/cliffy987) It's-a-me!
 - [Aryan Saraswat](https://github.com/Aryan-Saraswat05) let'ss goo
+- [Beau Desrosiers](https://github.com/BDesro) Hello and thank you!
+- [Sope Azeez](https://github.com/mosh-d) This is Sope, Software Engineer! Nice to meet you!
 - [Ethan Narkiewicz](https://github.com/Enarkiewicz2) CAIS240
 - [Sara Palacios](https://github.com/SaraPalaciosAndes) Hello World!
 - [Aaron Corpuz](https://github.com/acorp88) 
 - [Thomas Hyam](https://github.com/HyamT) Lets get contributing
+- [Adil Köken](https://github.com/AdilKoken/)
+- [Praveen Raj](https://github.com/trytobegoodatleast)
 - [Sarah Calixto](https://github.com/sarahcalixto)
 - [Muhammad Ehsan](https://github.com/MuhammadEhsan02) This is Ehsan, Data Scientist.
 - [Fadil Amad K M](https://github.com/TechTrovePlus) namasthe!!🙏
@@ -25,7 +33,9 @@
 - [Cooper Board] (https://github/cboard9)
 - [Ryan Tetreault] (https://github.com/ryantetreault)
 - [AdarshDotDev]
+- [Samir Butt] Hey everyone!
 -[PPPS](https://github.com/phuepyaesan) 
+- [Blucio Castro](https://github.com/BlucioCastro) I was here, thanks for the XP!
 - [Owen Morris](https://github.com/OMorris95) 
 - [Oliver McGale] Hi from Ireland! Thank you for the tutorial
 - [Juan Jose Ruiz](https://github.com/juann227) Gracis chavales 
@@ -33,6 +43,7 @@
 - [Srushti Bhoyar](https://github.com/bsrushti) Thanks for the tutorial.
 - [Habibullah_Howlader] - Hello from Bangladesh
   [Michal Fogel](https://github.com/MichalFog)
+  [Ki Chue lwin](https://github.com/KiChueLwin)
 - [Rose Lagdameo](https://github.com/workwithrose) Hello, hope y'all are having a nice day
 - [Karina Kallas](https://github.com/kallka) Thanks for the tutorial!
 - [Hermela Zekarias] (https://github.com/hermela-zekarias)
@@ -45,7 +56,9 @@
 - [Deepaakash Gupta](https://github.com/deep-2812) Hi Everyone, This is my first contribution. #Data Engineer
 - [Ibodullaev Asadbek](https://github.com/asadbekiv) Hello Contributors
 - [Grydr](https://github.com/Grydr) Hi, everyone
+- [Banggu](https://github.com/areum0116/) My historical moment of contributing to the open source for the first time!!
 - Hello World!
+- [Miguel Goizueta] (https://github.com/MiguelGoizueta) Hi! I'm so excited to learn!
 - [UzairGL](https://github.com/UzairGL) Hello From France :)
 - [Ujjwal Sharma](https://github.com/UjjwalSharma0112) Hello from India
 - [Treesha Bacchuwar](https://github.com/TreeshaBacchuwar) Hello everyone. This is my first contribution. Excited to continue this journey.
@@ -183,6 +196,7 @@ Sugan
 - [itz_skeshri](https://github.com/itz-skeshri)
 - [Chanuka Dilshan](https://github.com/Chanukaa2002)
 - [Savvas Fam](https://github.com/sabliran) Hello everyone! :D
+- [emiskas](https://github.com/emiskas)
 - [Isaac Vahlenkamp](https://github.com/Ivahlenkamp) Hi!
 - [Sergi Castarnado](https://github.com/scastarnado)
 - [Vipul Singh](https://github.com/vipulsc)
@@ -549,6 +563,7 @@ Sugan
 - Sakeena
 - [Samarth Bedare](https://github.com/samarthbedare)
 - [Mila Stamatovska] :)
+- [Kushaal Kankane] Hello :p (https://github.com/Kushaal-k)
 - [Yeshu](https://www.youtube.com/watch?v=hB7CDrVnNCs)
 - [bugudiramu 👨‍💻](https://github.com/bugudiramu)
 - Sheheryar Hassan
@@ -2499,6 +2514,7 @@ Sugan
 - [Richard Kenneth](https://github.com/richardkenneth10)
 - [Daniel Guerra](https://github.com/DakkuaDev)
 - [Filippos Gkotsopoulos](https://github.com/fgkotsopoulos)
+- [Matthew-Dumicich](https://github.com/matthew-dumicich)
 - [Akashzealzoft](https://github.com/Akashzealzoft)
 - [Pritam Das](https://github.com/4ritam)
 - [Srijan Biswas](https://github.com/srijanB7)
@@ -3126,6 +3142,7 @@ Sugan
 - [yahange](https://github.com/yahange)
 - [Luca Bensi](https://github.com/lucab-91)
 - [Tushar](https://github.com/Tushar-92)
+- [JohnTheSteel](https://github.com/JohnTheSteel) Let's rock.
 - [yahange](https://github.com/yahange)
 - [Hubert](https://github.com/hubertmilewski)
 - [Jian Yang](https://github.com/HARRY-JUSTHARRY)
@@ -3541,3 +3558,10 @@ Sugan
 - [Ruturaj Jadhav](https://github.com/ruturajjadhav07) Hello from India! This is my first contribution.
 - [Syahrul Daffa Mahesa](https://github.com/dapruk)
 - [Nithin U](https://github.com/nithinu2802) Hi, I'm Looking forward to connect with people to impl tech😊
+- [Krish Mehta](https://github.com/KrishMehta2004) 🙏
+- [Andrew Dev](https://github.com/Andss-ye) Co-co-co-colombia 
+- [Exbenedict](https://github.com/exbenedict)
+- [nadhamsaipallavi](https://github.com/nadhamsaipallavi)
+- [Holden Brown](https://github.com/crabnoise)
+- [nazareno moreno](https://github.com/nazarenomoreno) LAS MALVINAS SON ARGENTINAS
+- [Chase Russo](https://github.com/chaserusso) Hello from the US!
