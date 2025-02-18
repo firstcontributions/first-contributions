@@ -22,6 +22,7 @@
 - [Aaron Corpuz](https://github.com/acorp88) 
 - [Thomas Hyam](https://github.com/HyamT) Lets get contributing
 - [Adil Köken](https://github.com/AdilKoken/)
+- [Mike Floyd](https://github.com/kmfloyd) Hello there, and thank you for this tutorial
 - [Praveen Raj](https://github.com/trytobegoodatleast)
 - [Sarah Calixto](https://github.com/sarahcalixto)
 - [Muhammad Ehsan](https://github.com/MuhammadEhsan02) This is Ehsan, Data Scientist.
