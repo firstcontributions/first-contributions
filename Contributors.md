@@ -562,6 +562,7 @@ Sugan
 - Sakeena
 - [Samarth Bedare](https://github.com/samarthbedare)
 - [Mila Stamatovska] :)
+- [Kushaal Kankane] Hello :p (https://github.com/Kushaal-k)
 - [Yeshu](https://www.youtube.com/watch?v=hB7CDrVnNCs)
 - [bugudiramu 👨‍💻](https://github.com/bugudiramu)
 - Sheheryar Hassan
