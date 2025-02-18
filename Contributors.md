@@ -1,5 +1,6 @@
 # Contributors
 -- [Athiban](https://github.com/your-github-username) First contribution for me.Wish me best
+- [Noah Weddles](https://github.com/NoahWeddles) Sup!
 - [Aditya Patel](https://github.com/adityadipakpatel/) Hey!
 - [Piyush Prakash](https://github.com/Piyush240604) So this is how it starts...
 - [Mouhamed FARDOUSI](https://github.com/Mouhamed941)
