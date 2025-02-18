@@ -140,6 +140,7 @@ Dnaie
 - [Mukesh](https://github.com/mukezh) First OSC
 -[ Herbert- chacha ](https://github.com/gabimaru)
 - [Banyar](https://github.com/minbanyartalahtaw)
+- [Maciej]
 - [Ze Santos](https://github.com/ze13sk) altamente
 - [Md Faizan Ashrafi](https://github.com/mdfaizanashrafi) Hey Guys! Not my first contribution
 - [Aldo Koyoc](https://github.com/Koyoc23)
