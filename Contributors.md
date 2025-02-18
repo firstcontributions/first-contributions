@@ -3586,3 +3586,4 @@ Sugan
 - [Ghaith ElHamwi](https://github.com/Ghaith8Bit) ⚡ "Turning coffee into code since 2020" ☕
 - [Manuel] hello from switzerland
 - [Jesse](https://github.com/wanger233) 2025.2.19 0:02 gooood!
+- [Krishna] hello world
