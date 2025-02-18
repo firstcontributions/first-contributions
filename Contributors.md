@@ -361,9 +361,11 @@ Sugan
 - [Ratna-Babu](https://github.com/Ratna-Babu)
 - [Jephthah Orobia](https://github.com/jephthah-orobia) / [sirjhep.dev ![sirjhep.dev](https://sirjhep.dev/images/favicon/favicon-16x16.png)](https://sirjhep.dev)
 - [Bhavishya Chaturvedi](https://github.com/Bhavishya-Chaturvedi)
+- RithikaPradeep
 - [Gagan](https://github.com/gagan-j)
 - [Brenda Ida]()
-- [Psammy](https://github.com/Psamm-y/) -[Jai Prashanth](https://github.com/Jai-karthi)
+- [Psammy](https://github.com/Psamm-y/)
+- [Jai Prashanth](https://github.com/Jai-karthi)
 - [Marcus Black](https://github.com/Marcus-Black) Ready to start this new software journey!
 - [Lucas Manuel Alface](https://github.com/Lucasmanuelmz)
 - [Francesco Ciccone](https://github.com/Francesco-87)
@@ -428,6 +430,7 @@ Sugan
 - [Zac W](https://github.com/ZacWJ1)
 - [MobyTh1cc](https://github.com/MobyTh1cc)
 - [Ujjwal Pandit](https://github.com/Ujjwal-Pandit)
+- Rithika pradeep
 - [Aman Deshpande](https://github.com/amandesh694)
 - [Kishan J](https://github.com/Iamkishan08)
 - [Michael Mallo] (https://github.com/PcZeroKey)
