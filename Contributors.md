@@ -173,6 +173,7 @@ Dnaie
 - [Maxime Benoit](https://github.com/Max13500)
 - [Jose Vasquez](https://github.com/vasquez-jpr) This is my first contribution today, 20250214
 - [Feng-chengyi](https://github.com/Feng-chengyi)
+- [Kai Mwanyumba](https://github.com/mwanyumba7)
 - [NataliaBachiega] (https://github.com/NataliaBachiega) Hi ≽^•⩊•^≼
 - [Alifa-Ara-Heya] (https://github.com/alifa-ara-heya) Alhamdulillah (All praises to Allah), my first contribution in the open source world. :D
 - [Wahab-Guerrilla] (https://github.com/wGuerrilla) Alhumdulillah.
