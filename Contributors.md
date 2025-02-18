@@ -440,6 +440,7 @@ Sugan
   [preludeinc](https://github.com/preludeinc/)
 - [senjenjo juliabrim](https://github.com/marcvs-eng/gitcur.git)
 - [Sarthak](https://github.com/Sarthak2284)
+- [Ard](https://github.com/Ryoxzd)
 - [0HOON](https://github.com/0HOON)
 - [Sameep Shah](https://github.com/sameep-git)
 - [Brahim](https://github.com/BrahimChatri)
