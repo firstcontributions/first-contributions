@@ -1,5 +1,5 @@
 # Contributors
--- [Athiban](https://github.com/your-github-username) First contribution for me.Wish me best
+- [Athiban](https://github.com/your-github-username) First contribution for me.Wish me best
 - [Rajat Sehgal](https://github.com/riitr) Lets do it!!!
 - [Noah Weddles](https://github.com/NoahWeddles) Sup!
 - [Aditya Patel](https://github.com/adityadipakpatel/) Hey!
@@ -3362,6 +3362,7 @@ Sugan
 - yhliu
 - [Mohamed Sano]
 - [Raeef Chowdhury](https://github.com/Raeef-Chowdhury) 15 year old aspiring bengali Developer 💪💪💪
+- [Adamya.Tripathi](https://github.com/Inferno-P) Data Scientist here. Wassup!🚀🚀
 - [Parth Dubal](https://github.com/Parth00)
 - [zerocool](https://github.com/zerocool03)
 - [Igor](https://github.com/Igor-Ueno)
