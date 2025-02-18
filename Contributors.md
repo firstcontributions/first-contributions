@@ -626,6 +626,7 @@ Sugan
 - Dan
 - Kartik Sharma will prove himself worthy,<https://github.com/Kartikk28>
 - Ishant kulshreshtha
+- Palak Sinha: My First Contribution
 - [Andrew Wildgoose](https://github.com/andrewwildgoose)
 - [Aditya Atreya](https://github.com/AdiAce4u)
 - [Joao Ribeiro](https://github.com/joaopedrorori) **My First Contribution🎉🎉**
@@ -3575,4 +3576,5 @@ Sugan
 - [nazareno moreno](https://github.com/nazarenomoreno) LAS MALVINAS SON ARGENTINAS
 - [Chase Russo](https://github.com/chaserusso) Hello from the US!
 - Hi This is Ismail
+- [Prajwala P](https://github.com/prajp98) Hello
 - [Ghaith ElHamwi](https://github.com/Ghaith8Bit) ⚡ "Turning coffee into code since 2020" ☕
