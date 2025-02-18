@@ -54,6 +54,7 @@ repo for it.
 - [Ryan Tetreault] (https://github.com/ryantetreault)
 - [sanykoul007](https://github.com/sandykoul007)
 - [AdarshDotDev]
+- [Andgihrew](https://github/Andgihrew) hello is me contributor; also hello everybody else in here;
 - [Samir Butt] Hey everyone!
 -[PPPS](https://github.com/phuepyaesan) 
 - [Blucio Castro](https://github.com/BlucioCastro) I was here, thanks for the XP!
@@ -374,6 +375,7 @@ Sugan
 - [BissyKay](https://github.com/BissyKay)
 - [Durgesh Shekhawat](https://github.com/durgeshhhhhhh)
 - [Durgesh Shekhawat](https://github.com/durgeshhhhhhh)
+  "Hey! Why is this duplicated? :("
 - [Omkar Nath](https://github.com/nathomkar799/first-contributions)
 - mridul vaishnav
 - [einegbenosun](https://github.com/einegbenosun)
