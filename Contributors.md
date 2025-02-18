@@ -3574,6 +3574,7 @@ Sugan
 - [Ziad Samer] (https://github.com/zizoisprogramming)
 - [PRD] (https://github.com/Pravata-dash/)
 - [Taha Ar](https://github.com/tahaAr691)
+- [vitamin43](https://github.com/vitamin43) Hello, world!
 - [Alan Leonel Gomez] (https://github.com/alango89) Argentina!
 - [Pravin Avhad](https://github.com/Thalapravin)
 - [Ruturaj Jadhav](https://github.com/ruturajjadhav07) Hello from India! This is my first contribution.
@@ -3593,3 +3594,4 @@ Sugan
 - [Jesse](https://github.com/wanger233) 2025.2.19 0:02 gooood!
 - [Krishna] hello world
 - [BergamaschiDev] My first contribution studying Java at Dio.me! 🚀💻✨ #Learning #Java #DioMe
+- [AlnahdiSM](https://github.com/AlnahdiSM) This is my github
