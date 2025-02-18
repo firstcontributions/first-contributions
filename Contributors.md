@@ -3532,6 +3532,7 @@ Sugan
 - [Hsu](https://github.com/mtm-hsuthinzar) Hello World 
 - [RAFiasyam](https://github.com/RAFiasyam) Hello 😁
 - [Ivan](https://github.com/pumi00) Hello guys!!
+- [Ryu](https://github.com/YujiRyu) "Just doing my Git Foundation Course!"
 - [Juan López](https://github.com/uo293860) 
 - [NatieBao](https://github.com/natiebao) Hi guys, thanks for the tutorial, very he
 - [Zackery Payne](https://github.com/zpayne254) Hello guys=======
