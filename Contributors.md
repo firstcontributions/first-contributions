@@ -15,7 +15,7 @@
 - [Abhijeet Gorhe] (https://github.com/abhijeetgorhe26); let's kill it boys.....!
 - [Sarthak Sharma] Hello world from sarthak!!!
 - [Ernest Whitehead](https://github.com/cliffy987) It's-a-me!
-  [Calvin Knowles](https://github.com/calvinknowles) GLHF!
+- [Calvin Knowles](https://github.com/calvinknowles) GLHF!
 - [Aryan Saraswat](https://github.com/Aryan-Saraswat05) let'ss goo
 - [Beau Desrosiers](https://github.com/BDesro) Hello and thank you!
 - [John Garry B. Tan](https://github.com/dev-rygar) Hello World, Pusangkuting is here!
