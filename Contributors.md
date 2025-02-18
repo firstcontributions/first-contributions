@@ -6,6 +6,7 @@
 - [Z-Dev-Coder](https://github.com/Z-Dev-Coder) 
 - Anders Lorén Hello World!
 - Austin Spangler hi guys !
+- Arthur Shvetsov
 - [Nathaniel Hanlon] (https://github.com/anarchoverah) Hello world! Programmed to work and not to feel...
 - [Ernest Whitehead](https://github.com/cliffy987) It's-a-me!
 - [Beau Desrosiers](https://github.com/BDesro) Hello and thank you!
