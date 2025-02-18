@@ -12,6 +12,7 @@
 - aleberkn+
 - [the-pigeon-coder](https://github.com/the-pigeon-coder)
 - Arthur Shvetsov
+- [Adita Roy Chowdhury] (https://github.com/adityaroy10)
 - MAGNUNMAX00  "thanks for help the biginners"
 - [Nathaniel Hanlon] (https://github.com/anarchoverah) Hello world! Programmed to work and not to feel...
 - [Abhijeet Gorhe] (https://github.com/abhijeetgorhe26); let's kill it boys.....!
