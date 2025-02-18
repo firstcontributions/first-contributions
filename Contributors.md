@@ -3556,6 +3556,7 @@ Sugan
 - [Zarlish Fathima](https://github.com/zarlish13)Hello Folks👋
 - [Florian Frevol](https://github.com/DjeDleConquerant) Heyy everyone !!
 - [Mahmoud Alfadel] Hello Folks👋
+- [Cody] Hello!
 - [Ossys101010](https://github.com/Osssy010101) Path of PC Guru (PCG; 2PCG; 4PCG). Code with fun brother ^-^
 - [DarlanCascaes](https://github.com/DarlanCascaes)
 - [L4ZYLinuxVendor](https://github.com/L4ZYLinuxVendor) Hello XD, I use arch btw.
