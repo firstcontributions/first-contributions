@@ -3441,6 +3441,7 @@ Sugan
 - [Aryan](https://github.com/aryan6673) | a commitment a day keeps unemployment away ;) | LOL XD
 - [Zpon](https://github.com/Zpon1992) first try.
 - [spailll](https://github.com/spailll) Hi
+- [Regan P] (https://github.com/Regan2327)
 - [Harshdeep](https://github.com/harshdeepsdhillon1) | Got a job !
 - [xpedroyx](https://github.com/xpedrotx) | apple pen!
 - [Amy](https://github.com/APape95)
@@ -3467,7 +3468,7 @@ Sugan
 - [Wunna](https://github.com/wunna11)
 - [Surajam29](https://github.com/Surajam29)
 - [ProperPickle](https://github.com/ProperPickle)
-- [yiquanfeng](https://github.com/yiquanfeng)
+https://github.com/Regan2327/first-contributions.git- [yiquanfeng](https://github.com/yiquanfeng)
 - [Codeveno](https://github.com/Codeveno)
 - [ibrahim-sisar](https://github.com/ibrahim-sisar) from Gaza, Palestine
 - [EshanyaORNifa1211](https://github.com/Nifa1211)
@@ -3487,6 +3488,9 @@ Sugan
 - [Sohib](https://github.com/abdimannabov) The Moon Haunts You!
 - [Kelly Sun](https://github.com/xiyuansun)
 - [Oladimeji](https://github.com/boladimeji834) Destined for More!
+- [HarisChandio](https://github.com/HarisChandio) Dhhttps://github.com/Regan2327/first-contributions.gitatteBayo!
+  [Hahaem1ly](https://github.com/hahaem1ly)
+  [TeefAlfadhli](https://github.com/TeefAlfadhli) Hello Teef is HERE
 - [HarisChandio](https://github.com/HarisChandio) DhatteBayo!
 - [Hahaem1ly](https://github.com/hahaem1ly)
 - [Talha Coşkun](https://github.com/ttalhacoskun)
@@ -3520,6 +3524,8 @@ Sugan
 - [kazzhira](https://github.com/kazzhira)
 - [sciisawesome](https://github.com/sciisawesome)
 - [Sahand Jamalzadeh] (https://github.com/jamalzadeh-sahand)
+- [Akhil sai](https://github.com/akhiltech-dev) Lets do it 
+_ [Regan P](https://github.com/Regan2327)
 - [Akhil sai](https://github.com/akhiltech-dev) Lets do it 🔥
 - [George Shaiju](https://github.com/GeorgeShaijuu)
 - [vishnuvardhan m](https://github.com/vishnuvardhan-61)
