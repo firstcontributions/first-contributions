@@ -270,6 +270,7 @@ Sugan
   [Athulpshajil](https://github.com/ATHULAPS)
 - [Lucas Souza](https://github.com/lucasrbsouza)
 - [Bhaskar Rawat](https://github.com/bhaskarrawat2002)
+- [Rizvi Fazi](https://github.com/rizvifazi) Heck Yeah!! Let's do this
 -[strayberry-97](https://github.com/strayberry-97)
 - [hekikiwi](https://github.com/hekikiwi) :3
 - [Pranav Vijitharan](https://github.com/Pranav-Vijitharan)
