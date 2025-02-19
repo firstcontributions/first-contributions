@@ -109,7 +109,7 @@ Tillykke! Du har nu gennemført den udbredte _fork -> clone -> edit -> PR_ workf
 
 Fejr dit bidrag og del det med dine venner og følgere ved at gå til [web app](https://firstcontributions.github.io/#social-share).
 
-Du er velkommen til at kigge forbi vores Slack hvis du mangler hjælp, eller har spørgsmål. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
+Du er velkommen til at kigge forbi vores Slack hvis du mangler hjælp, eller har spørgsmål. [Join slack team](https://github.com/roshanjossey/code-contributions).
 
 Tillad os også at hjælpe dig i gang med dine næste bidrag. Vi har kompileret en liste af projekter med letty, overkommelige problemer du kan starte ud med. Check den ud her: [the list of projects in web app](https://firstcontributions.github.io/#project-list).
 
