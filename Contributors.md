@@ -3564,7 +3564,7 @@ Sugan
 - [DarlanCascaes](https://github.com/DarlanCascaes)
 - [L4ZYLinuxVendor](https://github.com/L4ZYLinuxVendor) Hello XD, I use arch btw.
 - [treeleaves30760](https://github.com/treeleaves30760) Hello, I am a student from NTHU!
-- linear
+- [HTMLSlander](https://github.com/HTMLSlander) This is HTMLSlander and I know HTML, CSS and JavaScript.
 - [BenjaminP17](https://github.com/BenjaminP17) Hello, I am back-end developer on Symfony.
 - [Austin](https://github.com/Six5pAdes) Hello all, I am becoming a contributor now while I am still looking for a job.
 - [Code Alligator](https://github.com/csprasad) Hello 👋
