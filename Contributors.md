@@ -783,6 +783,7 @@ Sugan
 - [mickaelk98](https://github.com/mickaelk98/)
 - [ashrey369](https://github.com/ashrey369)
 - [Dani Matuko](https://github.com/danimatuko)
+- [Afnan Sayyad](https://github.com/Afnan-001)
 - [Rajneesh](https://github.com/iamcreed/): Thanks for My first contribution 👍.
 - [Prashanti](https://github.com/prxshxnti)
 - [DeathScytheZ](https://github.com/DeathScytheZ)
