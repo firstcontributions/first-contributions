@@ -1,6 +1,6 @@
 # Contributors
 - [Ahmad Allahverdiyev](https://github.com/hmd37) Thank you for the tutorial
-- [Abin Shaji Thomas](https://github.com/Abin-Shaji-Thomas)This is my first contribution Thanks for the tutorial 
+- [Abin Shaji Thomas](https://github.com/Abin-Shaji-Thomas)This is my first contribution Thanks for the tutorial and help 
 - [Rose Lagdameo](https://github.com/workwithrose) Hello, hope y'all are having a nice day
 - [Do Quoc Vuong](https://github.com/vsrs3) hello from vietnam ;)
 - [Marc Daniel Falsado](https://github.com/marcdanielfalsado) Hey everyone, Wish yall the best!
