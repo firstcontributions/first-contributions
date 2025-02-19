@@ -26,6 +26,7 @@
 - [Nathaniel Hanlon] (https://github.com/anarchoverah) Hello world! Programmed to work and not to feel...
 - [Abhijeet Gorhe] (https://github.com/abhijeetgorhe26); let's kill it boys.....!
 - [Sarthak Sharma] Hello world from sarthak!!!
+- [Junior Atemebang Ashu](https://github.com/jxnior01) Great Tutorial!
 - [Ernest Whitehead](https://github.com/cliffy987) It's-a-me!
 - [Calvin Knowles](https://github.com/calvinknowles) GLHF!
 - [Aryan Saraswat](https://github.com/Aryan-Saraswat05) let'ss goo
