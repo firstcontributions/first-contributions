@@ -3146,4 +3146,4 @@ https://github.com/Regan2327/first-contributions.git- [yiquanfeng](https://githu
 - [sciisawesome](https://github.com/sciisawesome)
 - [Sahand Jamalzadeh] (https://github.com/jamalzadeh-sahand)
 - [Akhil sai](https://github.com/akhiltech-dev) Lets do it 
-_ 🔥
+_ [Regan P](https://github.com/Regan2327)
