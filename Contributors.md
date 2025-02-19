@@ -233,6 +233,7 @@ Sugan
 - [Sergi Castarnado](https://github.com/scastarnado)
 - [Vipul Singh](https://github.com/vipulsc)
 - [Yash Yadav](https://github.com/YashYadav2)
+- [Aneesh Gidda] (https://github.com/AneeshGidda)
 - [Nikunj Kakkad](https://github.com/kakkadnikunj)
 - [Harshvardhan Mundada](https://github.com/KeshavSM10)
 - [Mohammad Junaid Abbasi](https://github.com/mjunaid280)
