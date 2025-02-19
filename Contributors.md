@@ -18,6 +18,7 @@
 - Austin Spangler hi guys !
 - aleberkn
 - aleberkn+
+- [Jelis](https://github.com/JelisM)
 - [the-pigeon-coder](https://github.com/the-pigeon-coder)
 - [Bipika Amatya](https://github.com/bipika) Hello! Let the code begin
 - Arthur Shvetsov
