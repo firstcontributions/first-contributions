@@ -2952,6 +2952,7 @@ Sugan
 - [Marinos33](https://github.com/Marinos33)
 - [40tude](https://github.com/40tude)
 - [Hadi Purnomo](https://github.com/cephadi)
+- [Yehuda Bernat](https://github.com/yehudamber)
 - [tester-327](https://github.com/tester327)
 - [Mk9917](https://github.com/mk9917)
 - [abharclin](https://github.com/abharclin)
