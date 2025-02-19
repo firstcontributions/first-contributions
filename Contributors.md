@@ -19,6 +19,7 @@
 - aleberkn
 - aleberkn+
 Rotem
+-[sameer](https://github.com/sameersam648)
 - [Jelis](https://github.com/JelisM)
 - [the-pigeon-coder](https://github.com/the-pigeon-coder)
 - [Bipika Amatya](https://github.com/bipika) Hello! Let the code begin
