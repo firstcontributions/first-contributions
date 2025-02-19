@@ -3610,6 +3610,7 @@ Sugan
 - [Burka111](https://github.com/Burka111)
 - [Tristan Spear] I love learning coding!
 [Mahati](https://github.com/Mahatig) Thanks for the Tutorial
+- [Brendan Riley] (https://github.com/brendanriley4) This is fun!
 - [Nikhil Lingadhal] (https://github.com/nikhillingadhal1999)
 - [Ziad Samer] (https://github.com/zizoisprogramming)
 - [PRD] (https://github.com/Pravata-dash/)
