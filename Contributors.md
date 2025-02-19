@@ -19,6 +19,7 @@
 - aleberkn
 - aleberkn+
 - [the-pigeon-coder](https://github.com/the-pigeon-coder)
+- [Bipika Amatya](https://github.com/bipika) Hello! Let the code begin
 - Arthur Shvetsov
 - [Adita Roy Chowdhury] (https://github.com/adityaroy10)
 - MAGNUNMAX00  "thanks for help the biginners"
