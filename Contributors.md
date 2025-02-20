@@ -8,6 +8,7 @@
 - [white-yj8109](https://github.com/white-yj8109/first-contributions) This is my first contribution
 - [Juan Rodriguez](https://github.com/CatConstellation/first-contributions.git) This is my first contribution
 - [Prince Gabecha] I hope it turns out well!!
+- [Harikrishnan J] Haaalo
 - [Athiban](https://github.com/your-github-username) First contribution for me.Wish me best
 - [Rajat Sehgal](https://github.com/riitr) Lets do it!!!
 - [Noah Weddles](https://github.com/NoahWeddles) Sup!
@@ -25,6 +26,7 @@ Rotem
 - [Anand Patel](https://github.com/aarsh487) Let it begin!
 - [sameer](https://github.com/sameersam648)
 - [Jelis](https://github.com/JelisM)
+- [tomcat16](https://github.com/tomcat16)
 - [the-pigeon-coder](https://github.com/the-pigeon-coder)
 - [Bipika Amatya](https://github.com/bipika) Hello! Let the code begin
 - [Shubham Bharti] (https://github.com/Shubham007-tech)
@@ -91,6 +93,7 @@ repo for it.
 - [Marc Daniel Falsado](https://github.com/marcdanielfalsado) Hey everyone, Wish yall the best!
 - [ Sharanya G S](https://github.com/Sharanyags3) Hi Everyone, This is my first contribution.
 - [Shivam Gupta] Hello guys, this is my first contribution. Hope you guys also pushing your limits.
+- [PatrickHung99] Hellow World
 - [Luis Chavarria](https://github.com/LiChDevel) Thanks for the tutorial!!
 - [Tracy Wright](https://github.com/stlwright85) Hello, this is my first contribution.
 - [Deepaakash Gupta](https://github.com/deep-2812) Hi Everyone, This is my first contribution. #Data Engineer
@@ -1386,6 +1389,7 @@ Sugan
 - [Vilashkumar Daate](https://github.com/vilash99)
 - [Adhish Goswami](https://github.com/Adhishg704)
 - [Zach Garza](https://github.com/ZachG1235)
+- [ilyas]
 - [Mwofoh-Adriel](https://github.com/Mwofoh-Adriel)
 - [Priya](https://github.com/Priyamahesh24)
 - [Eric-DaRosa](https://github.com/EricDar12)
@@ -1515,6 +1519,7 @@ Sugan
 - [SWanHK](https://github.com/swanhk)
   Saksh
   Daksh
+- [Yoshiki Shinonome](https://github.com/generaldai)
 - [Sagar Patel](https://github.com/sagarpatel279)
 - [Yogesh Joga యోగేష్ జోగ](https://github.com/yogeshjoga)
 - [Rudhram Saraswat](https://github.com/RUDHRAM01)
@@ -1817,6 +1822,7 @@ Sugan
 - [Harishraj Selvakumar](https://github.com/ByteBender24)
 - [stjepanDeveloper](https://github.com/stjepanDeveloper)
 - [romvcarlos](https://github.com/romvcarlos)
+- [rinerte](https://github.com/rinerte)
 - [Karsy](https://github.com/karsyz)
 - [Emelie](https://github.com/eemmeelliiee)
 - [chipsmelon](https://github.com/chipsmelon)
@@ -3675,3 +3681,5 @@ _ [Regan P](https://github.com/Regan2327)
 - [Ibrahim](https://github.com/IbrahimLoveForJS) This is my first contribution. Excited to learn more about open source!
 - [saqib-aminul](https://github.com/saqib-aminul) - Hello from Dhaka, Bangladesh. The 3676th contributor of this repo.
 - [Ethan LaPointe](https://github.com/EthanLaPointe)
+- [Sandeep](https://github.com/Sandeep13Rana)
+- [hahaqwq](https://github.com/hahaQWQ)
