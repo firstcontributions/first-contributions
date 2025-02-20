@@ -698,6 +698,7 @@
   Brajesh aya tha
   [Abdul Sabur](https://github.com/alsabur20)
 - [Somto Ogbe](https://github.com/somtoval)
+- [Dinara Aysungurova] (https://github.com/aysdi)
 - [Vorahpong Mean](https://github.com/VorahPong)
 - [Vivek Chudasama](https://github.com/vivekchudasama-2004)
 - [Borzoi Lover](https://github.com/mmitros1)
