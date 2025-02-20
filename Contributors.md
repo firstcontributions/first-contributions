@@ -31,6 +31,7 @@ Rotem
 - [Bipika Amatya](https://github.com/bipika) Hello! Let the code begin
 - [Shubham Bharti] (https://github.com/Shubham007-tech)
 - Arthur Shvetsov
+- [Soumya Kanta Mitra] (https://github.com/soumyakantamitra) Thanks for this great tutorial!
 - [Adita Roy Chowdhury] (https://github.com/adityaroy10)
 - MAGNUNMAX00  "thanks for help the biginners"
 - [Nathaniel Hanlon] (https://github.com/anarchoverah) Hello world! Programmed to work and not to feel...
