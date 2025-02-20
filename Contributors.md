@@ -3682,5 +3682,6 @@ _ [Regan P](https://github.com/Regan2327)
 - [Ibrahim](https://github.com/IbrahimLoveForJS) This is my first contribution. Excited to learn more about open source!
 - [saqib-aminul](https://github.com/saqib-aminul) - Hello from Dhaka, Bangladesh. The 3676th contributor of this repo.
 - [Ethan LaPointe](https://github.com/EthanLaPointe)
+- [jini] (https://github.com/YooJini) This is my first contribution.
 - [Sandeep](https://github.com/Sandeep13Rana)
 - [hahaqwq](https://github.com/hahaQWQ)
