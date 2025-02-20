@@ -14,7 +14,7 @@
 - [Jas Singh](https://github.com/TheAlphaJas) Letsgooo 
 - [Harikrishnan J] Haaalo
 - [Ans Joju](https://github.com/ansj99) looking forward to more  contributions!!!
-
+- [Ami-L] (https://github.com/amilia-n) Hi!! I love Techtonica!
 - [Athiban](https://github.com/your-github-username) First contribution for me.Wish me best
 - [Rajat Sehgal](https://github.com/riitr) Lets do it!!!
 - [Noah Weddles](https://github.com/NoahWeddles) Sup!
