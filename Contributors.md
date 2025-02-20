@@ -1817,6 +1817,7 @@ Sugan
 - [Harishraj Selvakumar](https://github.com/ByteBender24)
 - [stjepanDeveloper](https://github.com/stjepanDeveloper)
 - [romvcarlos](https://github.com/romvcarlos)
+- [rinerte](https://github.com/rinerte)
 - [Karsy](https://github.com/karsyz)
 - [Emelie](https://github.com/eemmeelliiee)
 - [chipsmelon](https://github.com/chipsmelon)
