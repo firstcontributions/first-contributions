@@ -277,6 +277,7 @@ Sugan
 - [Pranav Vijitharan](https://github.com/Pranav-Vijitharan)
 - [Sarang Jayagopal](https://github.com/Sarang-2004)
 - [Dharambir Agrawal](https://github.com/DharambirAgrawal)
+- [Rafael Schulz](https://github.com/rafael7044)
 - [Jack Kraus](https://github.com/jack-kraus)
 - [Sushovit Shah](https://github.com/Sushovit204)
 - [Nik Ahmad Izzat](https://github.com/NikPrivate)
