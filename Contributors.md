@@ -327,6 +327,7 @@
 - [Man Ho Cheung](https://github.com/moscmh)
 - [VaisaghG](https://github.com/VaishaghG)
 - [yaswanth narikamalli](https://github.com/Yashu1th)
+- [Dinith Chameera](https://github.com/chameerakhd)
 - [CarrenMerry](https://github.com/CarrenMerry)
 - [Syed Hassan Ali Rizvi] (https://github.com/HassanAliRizvi)
 - [Karolayn Bunay](https://github.com/Karolayn8756)
