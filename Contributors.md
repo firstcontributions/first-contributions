@@ -3671,3 +3671,4 @@ _ [Regan P](https://github.com/Regan2327)
 - [yumoxuan](https://github.com/yumoxuan-25) This is my first contribution.I hope that I can do more contribution to open source!
 - [Ibrahim](https://github.com/IbrahimLoveForJS) This is my first contribution. Excited to learn more about open source!
 - [Ethan LaPointe](https://github.com/EthanLaPointe)
+- [jini] (https://github.com/YooJini) This is my first contribution.
