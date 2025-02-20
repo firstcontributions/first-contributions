@@ -11,6 +11,7 @@
 - [white-yj8109](https://github.com/white-yj8109/first-contributions) This is my first contribution
 - [Juan Rodriguez](https://github.com/CatConstellation/first-contributions.git) This is my first contribution
 - [Prince Gabecha] I hope it turns out well!!
+- [Jas Singh] Letsgooo 
 - [Harikrishnan J] Haaalo
 - [Ans Joju](https://github.com/ansj99) looking forward to more  contributions!!!
 
