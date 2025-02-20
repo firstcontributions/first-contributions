@@ -14,7 +14,7 @@
 - [Jas Singh](https://github.com/TheAlphaJas) Letsgooo 
 - [Harikrishnan J] Haaalo
 - [Ans Joju](https://github.com/ansj99) looking forward to more  contributions!!!
-
+- [Misavalmad](https://github.com/Misavalmad) I hope all of us achieve our goals
 - [Athiban](https://github.com/your-github-username) First contribution for me.Wish me best
 - [Rajat Sehgal](https://github.com/riitr) Lets do it!!!
 - [Noah Weddles](https://github.com/NoahWeddles) Sup!
