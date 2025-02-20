@@ -125,6 +125,7 @@ Dnaie
 - [Javier Ramirez] (https://github.com/javierrcyb) Hello World!
 - [Ziqi LI](https://github.com/zli353) 🚀Hello world!
 - [maxx](https://github.com/MMAX2000)
+Daniel V
 - [Javier_AS](https://github.com/DevJProd)
 - [Prashant/Kenny](https://github.com/michalshelenberg)
 - [Prashant/Kenny](https://github.com/Prashant-SG14)
