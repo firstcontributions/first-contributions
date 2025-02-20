@@ -1518,6 +1518,7 @@ Sugan
 - [SWanHK](https://github.com/swanhk)
   Saksh
   Daksh
+- [Yoshiki Shinonome](https://github.com/generaldai)
 - [Sagar Patel](https://github.com/sagarpatel279)
 - [Yogesh Joga యోగేష్ జోగ](https://github.com/yogeshjoga)
 - [Rudhram Saraswat](https://github.com/RUDHRAM01)
