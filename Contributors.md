@@ -24,6 +24,7 @@
 - aleberkn
 - aleberkn+
 Rotem
+- [khushidesai](https://github.com/khushi-desai23) Heyy super excited to start this!!!
 - [Anand Patel](https://github.com/aarsh487) Let it begin!
 - [sameer](https://github.com/sameersam648)
 - [Jelis](https://github.com/JelisM)
