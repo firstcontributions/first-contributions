@@ -114,6 +114,7 @@ A continuació, et pots preparar per contribuir a altres projectes. Hem reunit u
 
 ### [Material extra](../additional-material/git_workflow_scenarios/additional-material.md)
 
+Podeu contribuir al codi seguint aquesta guia: [Guia de Contribució](https://github.com/firstcontributions/first-contributions/blob/main/CONTRIBUTING.md)
 
 ## Tutorials utilitzant altres eines
 
