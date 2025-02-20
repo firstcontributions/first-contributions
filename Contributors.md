@@ -1,5 +1,6 @@
 # Contributors
-- [Harsh Surendran](https://github.com/HarshSurendran) Hey! 
+
+- [Harsh Surendran](https://github.com/HarshSurendran) Hey!
 - [Sahrin Tahiyat Khusi](https://github.com/Sahrin-Tahiyat-Choudhury)git add Contributors.md
 - [Diego_Sosa](https://github.com/Diego19871983) Z-Dev-Coder
 - [cheez]
@@ -12,7 +13,7 @@
 - [Juan Rodriguez](https://github.com/CatConstellation/first-contributions.git) This is my first contribution
 - [Prince Gabecha] I hope it turns out well!!
 - [Harikrishnan J] Haaalo
-- [Ans Joju](https://github.com/ansj99) looking forward to more  contributions!!!
+- [Ans Joju](https://github.com/ansj99) looking forward to more contributions!!!
 
 - [Athiban](https://github.com/your-github-username) First contribution for me.Wish me best
 - [Rajat Sehgal](https://github.com/riitr) Lets do it!!!
@@ -3676,6 +3677,7 @@
 - [Ghaith ElHamwi](https://github.com/Ghaith8Bit) ⚡ "Turning coffee into code since 2020" ☕
 - [Manuel] hello from switzerland
 - [Jesse](https://github.com/wanger233) 2025.2.19 0:02 gooood!
+- [Michael](https://github.com/michaelr1717) 02/20/2025 Hello from Illinois, USA
 - [Krishna] hello world
 - [Louise] My name is Louise, and I am contributing for the first time!
 - [BergamaschiDev] My first contribution studying Java at Dio.me! 🚀💻✨ #Learning #Java #DioMe
