@@ -1,8 +1,9 @@
 # Contributors
-
+- [Harsh Surendran](https://github.com/HarshSurendran) Hey! 
 - [Sahrin Tahiyat Khusi](https://github.com/Sahrin-Tahiyat-Choudhury)git add Contributors.md
 - [Diego_Sosa](https://github.com/Diego19871983) Z-Dev-Coder
 - [cheez]
+- [GASTON Stanley] (https://github.com/gastanley) This is my first contribution as a student!!
 - [Kanye west SOrry North] Lets Fork It Boys!!!!
 - [Jonatas Winston | CyberSecurity | @jonatas_winston](https://github.com/winstonsec)
 - [Juan Morales](https://github.com/JuanMorales1025/first-contributions) This is my first contribution
@@ -24,7 +25,8 @@
 - Austin Spangler hi guys !
 - aleberkn
 - aleberkn+
-  Rotem
+- Rotem
+- [khushidesai](https://github.com/khushi-desai23) Heyy super excited to start this!!!
 - [Anand Patel](https://github.com/aarsh487) Let it begin!
 - [sameer](https://github.com/sameersam648)
 - [Jelis](https://github.com/JelisM)
@@ -413,6 +415,7 @@
 - [Mrinal Singh](https://github.com/MrinalSingh04)
 - [Mkrsun](https://github.com/Mkrsun)
 - [Shalini](https://github.com/ShaliniKashyap717)
+- [Priyanshu (Demark00)](https://github.com/Demark00/)
 - [Vishal Rathi]
 - [Andrew](https://github.com/AndroBOI)
 - [Deepak](https://github.com/deepaksingh126)
@@ -3685,3 +3688,4 @@
 - [jini] (https://github.com/YooJini) This is my first contribution.
 - [Sandeep](https://github.com/Sandeep13Rana)
 - [hahaqwq](https://github.com/hahaQWQ)
+- [ignacio](https://github.com/ignaciozhuzhu)
