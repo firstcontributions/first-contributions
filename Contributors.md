@@ -3712,5 +3712,6 @@
 - [Max Temirbekov](https://github.com/GrinlexGH) Hello from Russia 20.02.2024 👋
 - [Ashish Vaidya](https://github.com/Ashish-619) Hi There!
 - [San](https://github.com/alvessanthiago) Hello from Brazil!
+- [Ayush More](https://github.com/Ayushmore1214) Hi This is my first contribution. Excited to learn more about open source!
 - [Henrique Oliveira](https://github.com/HenriqueKO) Hello from Portugal! This was made on the 21st of february 2025 😁
 - [Jaysinh Patankar] (https://github.com/Jaysinh146) Hello from India!
