@@ -2615,6 +2615,7 @@
 - [Mtwa Mgimwa](https://github.com/cisCO₂001)
 - [Danny Rivas](https://github.com/DannyRivasDev)
 - [promax1113](https://github.com/promax1113)
+- [csidirop](https://github.com/csidirop)
 - [darkdevil3610](https://github.com/darkdevil3610)
 - [PJha](https://github.com/connectPjha)
 - [Xamss](https://github.com/Xamss)
