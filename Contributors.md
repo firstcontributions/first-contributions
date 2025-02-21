@@ -1,5 +1,6 @@
 # Contributors
-- [Harsh Surendran](https://github.com/HarshSurendran) Hey! 
+
+- [Harsh Surendran](https://github.com/HarshSurendran) Hey!
 - [Sahrin Tahiyat Khusi](https://github.com/Sahrin-Tahiyat-Choudhury)git add Contributors.md
 - [Diego_Sosa](https://github.com/Diego19871983) Z-Dev-Coder
 - [cheez]
@@ -12,9 +13,9 @@
 - [white-yj8109](https://github.com/white-yj8109/first-contributions) This is my first contribution
 - [Juan Rodriguez](https://github.com/CatConstellation/first-contributions.git) This is my first contribution
 - [Prince Gabecha] I hope it turns out well!!
-- [Jas Singh](https://github.com/TheAlphaJas) Letsgooo 
+- [Jas Singh](https://github.com/TheAlphaJas) Letsgooo
 - [Harikrishnan J] Haaalo
-- [Ans Joju](https://github.com/ansj99) looking forward to more  contributions!!!
+- [Ans Joju](https://github.com/ansj99) looking forward to more contributions!!!
 - [Naga Rohtih Kumar Jakkala](https://github.com/NagaRohithKumarJakkala)
 
 - [Athiban](https://github.com/your-github-username) First contribution for me.Wish me best
@@ -252,7 +253,7 @@
 - [Basil Ahamed](https://github.com/basilahamed07)
 - [Melvyn Savio](https://github.com/Melvynsavio)
 - [Sam/Mericot](https://github.com/mericot)
-Deekshith
+  Deekshith
 - [mrgamernavshorts](https://github.com/mrgamernavshorts)
 - [Emilio Garzia](https://github.com/EmilioGarzia)
 - [itz_skeshri](https://github.com/itz-skeshri)
@@ -1702,6 +1703,7 @@ Deekshith
 - [Ricardo Gomes](https://github.com/ricardogomes)
 - Peter
 - [Borsoon](https://github.com/Borsoon)
+  hi fellas this is my first contibution
 - [Kalhara Tennakoon](https://github.com/kalharatennakoon)
 - [Jon Gumero](https://github.com/jongumero)
 - [Thomas Fogarty](https://github.com/Thoss24)
