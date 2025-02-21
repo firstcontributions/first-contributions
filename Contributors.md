@@ -3,18 +3,18 @@
 - [Sahrin Tahiyat Khusi](https://github.com/Sahrin-Tahiyat-Choudhury)git add Contributors.md
 - [Diego_Sosa](https://github.com/Diego19871983) Z-Dev-Coder
 - [cheez]
-- [GASTON Stanley] (https://github.com/gastanley) This is my first contribution as a student!!
+- [GASTON Stanley](https://github.com/gastanley) This is my first contribution as a student!!
 - [Kanye west SOrry North] Lets Fork It Boys!!!!
 - [Jonatas Winston | CyberSecurity | @jonatas_winston](https://github.com/winstonsec)
 - [Juan Morales](https://github.com/JuanMorales1025/first-contributions) This is my first contribution
-- [Sejal Kaur] (https://github.com/Sejalkaur/first-contributions) This is my First Contribution guys.
+- [Sejal Kaur](https://github.com/Sejalkaur/first-contributions) This is my First Contribution guys.
 - [white-yj8109](https://github.com/white-yj8109/first-contributions) This is my first contribution
 - [Juan Rodriguez](https://github.com/CatConstellation/first-contributions.git) This is my first contribution
 - [Prince Gabecha] I hope it turns out well!!
 - [Jas Singh](https://github.com/TheAlphaJas) Letsgooo 
 - [Harikrishnan J] Haaalo
 - [Ans Joju](https://github.com/ansj99) looking forward to more  contributions!!!
-
+- [Kero Wadgy](https://github.com/KeroWagdy100) Open-Source is WELCOMING ME!
 - [Athiban](https://github.com/your-github-username) First contribution for me.Wish me best
 - [Rajat Sehgal](https://github.com/riitr) Lets do it!!!
 - [Noah Weddles](https://github.com/NoahWeddles) Sup!
