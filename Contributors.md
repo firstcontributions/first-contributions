@@ -1028,6 +1028,7 @@
 - [Achintha Ekanayake](https://github.com/achintha-eknayake)
 - [charan](https://github.com/CharanCodeCraft)
 - [NJMcCoy](https://github.com/NJMcCoy)
+- [Carlos Gabriel Rocha](https://github.com/CarlosGabrielRocha) : 2025 will be awesome!
 - [Preethi Manoharan](https://github.com/preethimanoharan18)
 - [Nikhil](My first contributions: https://github.com/Nikhil-NP)
 - [vishalchauhan](My first contribution: https://github.com/V1sh4lC)
