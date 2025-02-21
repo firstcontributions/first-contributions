@@ -42,6 +42,7 @@ Rotem
 - [John Garry B. Tan](https://github.com/dev-rygar) Hello World, Pusangkuting is here!
 - [Sope Azeez](https://github.com/mosh-d) This is Sope, Software Engineer! Nice to meet you!
 - [Ethan Narkiewicz](https://github.com/Enarkiewicz2) CAIS240
+- [Sakshi Singh](https://github.com/236sakshi)begins contribution
 - [Sara Palacios](https://github.com/SaraPalaciosAndes) Hello World!
 - [Aaron Corpuz](https://github.com/acorp88) 
 - [Thomas Hyam](https://github.com/HyamT) Lets get contributing
