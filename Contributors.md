@@ -426,6 +426,7 @@
   "Hey! Why is this duplicated? :("
 - [Omkar Nath](https://github.com/nathomkar799/first-contributions)
 - mridul vaishnav
+Aadyant Agrawal
 - [einegbenosun](https://github.com/einegbenosun)
 - [Mrinal Singh](https://github.com/MrinalSingh04)
 - [Mkrsun](https://github.com/Mkrsun)
