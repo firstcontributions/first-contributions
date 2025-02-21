@@ -16,6 +16,7 @@
 - [Prince Gabecha] I hope it turns out well!!
 - [Jas Singh](https://github.com/TheAlphaJas) Letsgooo
 - [Harikrishnan J] Haaalo
+- [Misavalmad](https://github.com/Misavalmad) I hope all of us achieve our goals
 - [Kero Wadgy](https://github.com/KeroWagdy100) Open-Source is WELCOMING ME!
 - [Ans Joju](https://github.com/ansj99) looking forward to more contributions!!!
 - [Naga Rohtih Kumar Jakkala](https://github.com/NagaRohithKumarJakkala)
