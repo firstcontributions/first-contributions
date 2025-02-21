@@ -15,7 +15,7 @@
 - [Juan Rodriguez](https://github.com/CatConstellation/first-contributions.git) This is my first contribution
 - [Prince Gabecha] I hope it turns out well!!
 - [Jas Singh](https://github.com/TheAlphaJas) Letsgooo
-- [Harikrishnan J] Haaalo
+- [Aqib Khan] (https://github.com/KAquib24)MY FIRST CONTRIBUTION!!!
 - [Ami-L] (https://github.com/amilia-n) Hi!! I love Techtonica!
 - [Misavalmad](https://github.com/Misavalmad) I hope all of us achieve our goals
 - [Kero Wadgy](https://github.com/KeroWagdy100) Open-Source is WELCOMING ME!
