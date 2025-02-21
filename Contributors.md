@@ -20,6 +20,7 @@
 - [Athiban](https://github.com/your-github-username) First contribution for me.Wish me best
 - [Rajat Sehgal](https://github.com/riitr) Lets do it!!!
 - [Noah Weddles](https://github.com/NoahWeddles) Sup!
+- [Aryan Tyagi](https://github.com/Lonewolf-0) Cool Stuff!!
 - [Aditya Patel](https://github.com/adityadipakpatel/) Hey!
 - [Piyush Prakash](https://github.com/Piyush240604) So this is how it starts...
 - [Mouhamed FARDOUSI](https://github.com/Mouhamed941)
