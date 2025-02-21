@@ -1,6 +1,7 @@
 # Contributors
-
 - [Harsh Surendran](https://github.com/HarshSurendran) Hey!
+- [Mursaleen Nisar](https://github.com/mursaleen-nisar) I'm a professional full stack web developer and an experienced freelancer and this is my first open source contribution.
+- [Prabha Nagaraj](https://github.com/prabhanjasu) Full Stack Developer and This is my first contribution! 
 - [Sahrin Tahiyat Khusi](https://github.com/Sahrin-Tahiyat-Choudhury)git add Contributors.md
 - [Diego_Sosa](https://github.com/Diego19871983) Z-Dev-Coder
 - [cheez]
@@ -1001,6 +1002,7 @@
 - [Pavani](https://github.com/pavani42)
 - [Arun G Jose](https://github.com/arungjose)
 - [DB Koenig](https://github.com/dkoe00)
+- [iaiw3br](https://github.com/iaiw3br)
 - [Menahil](https://github.com/mena-aq)
 - [Raghav Dwivedi](https://github.com/dwi4122)
 - [gabecodessometimes](https://github.com/gabecodessometimes)
