@@ -3699,3 +3699,4 @@
 - [Max Temirbekov](https://github.com/GrinlexGH) Hello from Russia 20.02.2024 👋
 - [Ashish Vaidya](https://github.com/Ashish-619) Hi There!
 - [San](https://github.com/alvessanthiago) Hello from Brazil!
+- [Henrique Oliveira](https://github.com/HenriqueKO) Hello from Portugal! This was made on the 21st of february 2025 😁
