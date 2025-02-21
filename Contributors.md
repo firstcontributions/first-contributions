@@ -3695,6 +3695,7 @@
 - [Ghaith ElHamwi](https://github.com/Ghaith8Bit) ⚡ "Turning coffee into code since 2020" ☕
 - [Manuel] hello from switzerland
 - [Jesse](https://github.com/wanger233) 2025.2.19 0:02 gooood!
+- [Michael](https://github.com/michaelr1717) 02/20/2025 Hello from Illinois, USA
 - [Krishna] hello world
 - [Louise] My name is Louise, and I am contributing for the first time!
 - [BergamaschiDev] My first contribution studying Java at Dio.me! 🚀💻✨ #Learning #Java #DioMe
