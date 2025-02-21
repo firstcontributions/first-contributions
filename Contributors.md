@@ -3711,6 +3711,7 @@
 - [Sandeep](https://github.com/Sandeep13Rana)
 - [hahaqwq](https://github.com/hahaQWQ)
 - [ignacio](https://github.com/ignaciozhuzhu)
+- [Nicholas Karim](https://github.com/sonick2006) - Oh yeah first contribution!
 - [Amr Hossam](https://github.com/amrhossamdev)
 - [Max Temirbekov](https://github.com/GrinlexGH) Hello from Russia 20.02.2024 👋
 - [Ashish Vaidya](https://github.com/Ashish-619) Hi There!
