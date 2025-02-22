@@ -36,7 +36,7 @@
 - [Adil Köken](https://github.com/AdilKoken/)
 - [Mike Floyd](https://github.com/kmfloyd) Hello there, and thank you for this tutorial
 - [Praveen Raj](https://github.com/trytobegoodatleast)
-- [Hein Thet Aung ](https://github.com/SaiHeinThetAung)Backend developer
+- [Hein Thet Aung ](https://github.com/SaiHeinThetAung)Backend developer and fun.
 - [Sarah Calixto](https://github.com/sarahcalixto)
 - [Muhammad Ehsan](https://github.com/MuhammadEhsan02) This is Ehsan, Data Scientist.
 - [Fadil Amad K M](https://github.com/TechTrovePlus) namasthe!!🙏
