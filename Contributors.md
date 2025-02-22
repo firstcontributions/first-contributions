@@ -209,6 +209,7 @@
 - [Uchi Fiti](https://github.com/uchi-fiti) Hi everyone, this is my first contribution. I hope to see more 🇲🇬 people here :)
 - [Bohne1225(https://github.com/Bohne1225)
 - [Somisrbija](https://github.com/SomiSrbija)
+- [Jesus Lopez](https://github.com/jesuslln) Hi! Thank you for the tutorial, I love the initiative. Happy to join the project! 😊
 - [VestJin](https://github.com/vestjin)
 - [Estilo Joseph] (https://github.com/sephhsephh) nice
   Nataly Cristina (https://github.com/natycristina)
