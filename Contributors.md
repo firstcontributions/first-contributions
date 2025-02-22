@@ -199,11 +199,13 @@
 - [Rebecca](https://github.com/Beccatoni) This is my first contribution, looking forward to making more contributions😌
 - [JAGADEESH](https://github.com/Jagadeesh-18-bot) - First contribution
 - [pauldbg](https://github.com/Pauldbg)
-- Anuj Yadav (https://github.com/yanuj9) 
+- Anuj Yadav (https://github.com/yanuj9)
 - [Vinicius da Luz](https://github.com/Lvght)
 - [LeandroKellerSalto](https://github.com/lksalto)
 - Praba
-- [Lena Andjelkovic](https://github.com/lenicqq) -[Aarush Pandey](https://github.com/Hadar01)
+- [Jeffrey Hammack](https://github.com/jth1903)
+- [Lena Andjelkovic](https://github.com/lenicqq)
+- [Aarush Pandey](https://github.com/Hadar01)
 - [Kyle Murray](https://github.com/kylepatmurray)
 - [Ayantunji Timilehin](https://github.com/timmy471)
 - [joothy](https://github.com/thikshathajoothy)
