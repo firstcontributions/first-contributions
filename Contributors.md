@@ -2476,6 +2476,7 @@ Aadyant Agrawal
 - [Rithvik Shetty](https://github.com/rithvikshetty)
 - [Syed Mehdi](https://github.com/Infamous003)
 - [Ethan Don](https://github.com/ethan05d)
+- [Mat Gonzalez](https://github.com/matgonzalezv)
 - [Balaji Jegadeesh V](https://github.com/Vbj1808/)
 - [syurenuko](https://github.com/syurenuko)
 - [Collin Hensel](https://github.com/chensel558)
