@@ -2,11 +2,11 @@
 - [WadeHsu0](https://github.com/WadeHsu0)I love contributing ,happy every day!
 - [Harsh Surendran](https://github.com/HarshSurendran) Hey!
 - [Mursaleen Nisar](https://github.com/mursaleen-nisar) I'm a professional full stack web developer and an experienced freelancer and this is my first open source contribution.
-- [Prabha Nagaraj](https://github.com/prabhanjasu) Full Stack Developer and This is my first contribution! 
+- [Prabha Nagaraj](https://github.com/prabhanjasu) Full Stack Developer and This is my first contribution!
 - [Sahrin Tahiyat Khusi](https://github.com/Sahrin-Tahiyat-Choudhury)git add Contributors.md
 - [Diego_Sosa](https://github.com/Diego19871983) Z-Dev-Coder
 - [cheez]
-- [RazFernandez](https://github.com/RazFernandez) This my first contribution, first milestone to become a Full Stack Developer. Greetings from Mexico :v: 
+- [RazFernandez](https://github.com/RazFernandez) This my first contribution, first milestone to become a Full Stack Developer. Greetings from Mexico :v:
 - [mqrv-mckl](https://github.com/mqrv-mckl) hey there :)
 - [GASTON Stanley](https://github.com/gastanley) This is my first contribution as a student!!
 - [Kanye west SOrry North] Lets Fork It Boys!!!!
@@ -78,6 +78,7 @@
 - [Praveen Raj](https://github.com/trytobegoodatleast)
 - [Sarah Calixto](https://github.com/sarahcalixto)
 - [Muhammad Ehsan](https://github.com/MuhammadEhsan02) This is Ehsan, Data Scientist.
+- [Ali Adel Nour](https://github.com/Ali-Adel-Nour) I'm passionate software enginner and this my first contribution to open source!
 - [Fadil Amad K M](https://github.com/TechTrovePlus) namasthe!!🙏
 - [Samrat Saha](https://github.com/Samsgithub9635) I love Java 🍵 and This my first step towards open source contribution...Yeeeeh!😃 and thanks! to first-contributions
   repo for it.
