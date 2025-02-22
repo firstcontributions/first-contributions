@@ -55,6 +55,7 @@
 - [the-pigeon-coder](https://github.com/the-pigeon-coder)
 - [Bipika Amatya](https://github.com/bipika) Hello! Let the code begin
 - [Shubham Bharti] (https://github.com/Shubham007-tech)
+- [Angel Garcia](https://github.com/AngelGarc3123) Desarrollo de software seguro 2025-1
 - Arthur Shvetsov
 - [Soumya Kanta Mitra] (https://github.com/soumyakantamitra) Thanks for this great tutorial!
 - [Adita Roy Chowdhury] (https://github.com/adityaroy10)
