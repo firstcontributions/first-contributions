@@ -3776,6 +3776,7 @@ Aadyant Agrawal
 - [Steve Loh](https://github.com/weichn) This is my first contribution!
 - [Shankar Somu](https://github.com/ShankarSomu) This is my first contribution on 2/22/25!
 - [Rohit Anand](https://github.com/R0h1tAnand) Tring to Contribute to Open Source for the first time
+- [Jecara] HI🤓
 - [Inferno] Hi
 - [George2Times](https://github.com/George2Times) Hello from Poland! I'm thrilled to be contributing to open source for the first time!
 - [arthurlw](https://github.com/arthurlw) Hello from Indonesia! Excited to learn more about open source!
