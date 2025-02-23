@@ -3313,6 +3313,7 @@ Aadyant Agrawal
 - [Srigana Pulikantham](https://github.com/Srigana)
 - [Mihir Deshpande](https://github.com/mihirrd)
 - [Cesar Armango Garcia](https://github.com/ingcesargo/)
+- [Armin Pakdaman](https://github.com/1amGenius) my goal is to start contributing in open source projects! 
 - [DRunkPiano114](https://github.com/DRunkPiano114)
 - [Tamar Cohen](https://github.com/tamar-cohen1)
 - Elisheva Fried
