@@ -153,6 +153,7 @@
 - New York Knicks 2025 champions
 - [Vimangsa] (https://github.com/vimangsa) Well hellooo, world! This is my first contribution to an open-source repository and I am excited to do more in future.
 - [Rakshit Gupta] (github.com/Rakshitg600) Hello from DTU
+- [Vansh Tomar](https://github.com/vanshtomar1512/first-contributions) Congrats to me for my 1st open source contro..i'll keep going!!
 - [krishna](https://github.com/Krishna27Singh) Hello
 - [Sarthak Sharma](https://github.com/MT23083) Hello everyone!! First time contributing to an open source project is awesome.
 - [Het Savani](https://github.com/Hetsavani) Hey!
