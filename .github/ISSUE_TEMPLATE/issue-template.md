@@ -18,6 +18,8 @@ assignees: Roshanjossey
 <!--- Why is this change important to you? How would you use it? -->
 <!--- How can it benefit other users? -->
 
+I have translated the content from **Portuguese to Kannada** to make it accessible to Kannada-speaking users.
+
 💡 **Possible solutions**
 <!--- Not obligatory, but suggest an idea for implementing addition or change -->
 
