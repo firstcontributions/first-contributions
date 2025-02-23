@@ -306,6 +306,7 @@
 - [Rajeev Kumar Ranjan](https://github.com/rajeev-2711) First contribution
 - [Shankar Reddy](https://github.com/Shankar3804)
 - [Farhiya Abdalla](https://github.com/rhiyality)
+- [Chanrady Ho](https://github.com/cradyh)
 - [Salma Fadl Azzam](https://github.com/salmafadlabdulrahman)
 - [Cindy Muraya](https://github.com/CindyMuraya)
 - [Bijay Thomas](https://github.com/bijaythms)
