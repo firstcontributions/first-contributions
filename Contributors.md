@@ -66,6 +66,7 @@
 - Arthur Shvetsov
 - [Soumya Kanta Mitra] (https://github.com/soumyakantamitra) Thanks for this great tutorial!
 - [Adita Roy Chowdhury] (https://github.com/adityaroy10)
+- ArkingJ (NICE!)
 - MAGNUNMAX00 "thanks for help the biginners"
 - [Nathaniel Hanlon] (https://github.com/anarchoverah) Hello world! Programmed to work and not to feel...
 - [Abhijeet Gorhe] (https://github.com/abhijeetgorhe26); let's kill it boys.....!
