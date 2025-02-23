@@ -2668,6 +2668,7 @@ Sugan
 - [Comet AHC](https://github.com/CometAHC)
 - [Yakov Donde](https://github.com/yakovdonde)
 - [ducknows](https://github.com/ducknows)
+- [davinchooo](https://github.com/davinchooo)
 - [TheJobGG](https://github.com/theJobGG)
 - [Gabe Cano](https://github.com/gabecano4308)
 - [Eray Ates](https://github.com/erayates)
