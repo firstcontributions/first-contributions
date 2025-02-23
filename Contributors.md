@@ -3778,3 +3778,4 @@ Aadyant Agrawal
 - [Rohit Anand](https://github.com/R0h1tAnand) Tring to Contribute to Open Source for the first time
 - [Inferno] Hi
 - [George2Times](https://github.com/George2Times) Hello from Poland! I'm thrilled to be contributing to open source for the first time!
+- [arthurlw](https://github.com/arthurlw) Hello from Indonesia! Excited to learn more about open source!
