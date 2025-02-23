@@ -3768,3 +3768,4 @@ Aadyant Agrawal
 - [Khoa Nguyen](https://github.com/khoanguyenxuan) This is my first contribution!
 - [Steve Loh](https://github.com/weichn) This is my first contribution!
 - [Shankar Somu](https://github.com/ShankarSomu) This is my first contribution on 2/22/25!
+- [Rohit Anand](https://github.com/R0h1tAnand) Tring to Contribute to Open Source for the first time
