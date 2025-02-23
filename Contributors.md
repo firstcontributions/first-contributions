@@ -173,6 +173,8 @@
 - [Ziqi LI](https://github.com/zli353) 🚀Hello world!
 - [maxx](https://github.com/MMAX2000)
   Daniel V
+  - [Tejas Wangulkar](https://github.com/Tejas-987) Hi Everyone, here's my first contribution!
+
 - [Javier_AS](https://github.com/DevJProd)
 - [Prashant/Kenny](https://github.com/michalshelenberg)
 - [Prashant/Kenny](https://github.com/Prashant-SG14)
