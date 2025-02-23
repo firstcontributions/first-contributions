@@ -214,6 +214,7 @@
 - [Ayantunji Timilehin](https://github.com/timmy471)
 - [joothy](https://github.com/thikshathajoothy)
 - [Ernie Cheng](https://github.com/erniecy0124)
+- [simon] (https://github.com/srozenstock)
 - [Teja](https://github.com/Billakanti-Teja)
 - [maplesyrup0423](https://github.com/maplesyrup0423)
 - zoro [https://github.com/]() Thanks
