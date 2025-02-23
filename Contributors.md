@@ -363,6 +363,7 @@
 - [Vanstr](https://github.com/vanstr)
 - [Emmanuel Sobowale](https://github.com/Matutozi) HEllo everyone
 - [Stephanie Mukami](https://github.com/stephmukami)
+- [XX1o](https://github.com/XX1o) Hi!! First open source commit!!
 - [Chidambaram PS](https://github.com/Chidambaram-CPS)
 - [Man Ho Cheung](https://github.com/moscmh)
 - [VaisaghG](https://github.com/VaishaghG)
