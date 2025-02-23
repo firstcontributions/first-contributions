@@ -3771,3 +3771,7 @@ Aadyant Agrawal
 - [Steve Loh](https://github.com/weichn) This is my first contribution!
 - [Shankar Somu](https://github.com/ShankarSomu) This is my first contribution on 2/22/25!
 - [Rohit Anand](https://github.com/R0h1tAnand) Tring to Contribute to Open Source for the first time
+
+- [mohammed](https://github.com/0xmohammedf/) **El 3arandas is here!**
+@0xmohammedf
+![El 3arandas](image.png)
