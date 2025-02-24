@@ -2158,6 +2158,7 @@ Aadyant Agrawal
 - [John Co](https://github.com/john0ground)
 - [DylanCo](https://github.com/DylanCoexel)
 - [Saurav Kumar Mishra](https://github.com/sauravkm)
+- [Anirudh Nayak](https://github.com/Anirudh-Nayak-CS)
 - [André Wlodkovski](https://github.com/andrewlod)
 - [Yash Singh](https://github.com/YaSH-sInngH)
 - [Kim La](https://github.com/ktla99)
