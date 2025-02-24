@@ -30,6 +30,8 @@
 - [Juan Rodriguez](https://github.com/CatConstellation/first-contributions.git) This is my first contribution
 - [Prince Gabecha] I hope it turns out well!!
 - [Andrew Martinez](https://github.com/andymartinez1) I love contributing!
+- [Sauzan Faza] its my first contribution!!
+  (https://github.com/sauzanfaza/first-contributions)
 - [Jas Singh](https://github.com/TheAlphaJas) Letsgooo
 - [Aqib Khan] (https://github.com/KAquib24)MY FIRST CONTRIBUTION!!!
 - [Ami-L] (https://github.com/amilia-n) Hi!! I love Techtonica!
