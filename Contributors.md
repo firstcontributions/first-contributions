@@ -1,4 +1,10 @@
 # Contributors
+
+-Danish Raja  
+ Web Developer | Open Source Enthusiast  
+ GitHub: [Daniishraza](https://github.com/Daniishraza)  
+ "Learning, building, and contributing to open source!"
+ 
 - [Ayushman] (https://github.com/ayushman1210) learning to deep dive into the open source world 
 - [Purwatsate](https://github.com/Purwatsate) Thar Li Swa Bar
 - [Sami Ahmed] (https://github.com/SamiA1995) Hello
