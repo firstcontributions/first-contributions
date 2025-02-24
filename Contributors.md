@@ -2244,6 +2244,7 @@ Aadyant Agrawal
 - [Abdulmajid Mahadi](https://github.com/sheriifMahadi)
 - [Mario Arroyo](https://github.com/marioteli96)
 - [Dann Gil Rabaya](https://github.com/thisismedg)
+- [Anirudh Nayak](https://github.com/Anirudh-Nayak-CS)
 - [rivian](https://github.com/rivian96)
 - [Anup Kumar Mridha](https://github.com/anupkumarmridha)
 - [Ejemudaro Ufuoma Isaac](http://github.com/ufuomaisaac)
