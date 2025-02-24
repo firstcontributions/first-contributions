@@ -3770,6 +3770,7 @@ Aadyant Agrawal
 - [Henrique Oliveira](https://github.com/HenriqueKO) Hello from Portugal! This was made on the 21st of february 2025 😁
 - [Jaysinh Patankar] (https://github.com/Jaysinh146) Hello from India!
 - [Steve]
+- [Shuxing Fang](https://github.com/ShuxingFang) Hello from Tokyo
 - [Luis] Hello World, this is my first contribution!
 - [q1q1w2w2] Hi
 - [Jerryfandev] Hello World! Love from Vietnam <3
