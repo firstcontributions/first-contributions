@@ -3780,4 +3780,5 @@ Aadyant Agrawal
 - [Jecara] HI🤓
 - [Inferno] Hi
 - [George2Times](https://github.com/George2Times) Hello from Poland! I'm thrilled to be contributing to open source for the first time!
+- [Hirtus] Hello World!
 - [arthurlw](https://github.com/arthurlw) Hello from Indonesia! Excited to learn more about open source!
