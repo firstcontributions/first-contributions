@@ -1,5 +1,5 @@
 # Contributors
-- [Ayushman] (https://github.com/ayushman1210) learning to deep dive into the open source world 
+- [Ayushman] (https://github.com/ayushman1210) learning to deep dive into the open source world
 - [Sami Ahmed] (https://github.com/SamiA1995) Hello
 - [Dehemi Fabio](https://github.com/dreadlord-sedai) I am a Software Engineering Student, this is my first contribution, I look forward to be a Fullstack Engineer.
 - [Hallie Ricci](https://github.com/halliericci6)Hi, this is my first contribution!
@@ -3326,7 +3326,7 @@ Aadyant Agrawal
 - [Srigana Pulikantham](https://github.com/Srigana)
 - [Mihir Deshpande](https://github.com/mihirrd)
 - [Cesar Armango Garcia](https://github.com/ingcesargo/)
-- [Armin Pakdaman](https://github.com/1amGenius) my goal is to start contributing in open source projects! 
+- [Armin Pakdaman](https://github.com/1amGenius) my goal is to start contributing in open source projects!
 - [DRunkPiano114](https://github.com/DRunkPiano114)
 - [Tamar Cohen](https://github.com/tamar-cohen1)
 - Elisheva Fried
@@ -3784,3 +3784,4 @@ Aadyant Agrawal
 - [Hirtus] Hello World!
 - [arthurlw](https://github.com/arthurlw) Hello from Indonesia! Excited to learn more about open source!
 - [yu-min3](https://github.com/yu-min3) Hello from Japan! I would like to dive into OSS activities!
+- [Ritesh Chepuri](https://github.com/RiteshChepuri) Hello! This is my first Contribution
