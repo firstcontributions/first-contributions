@@ -128,7 +128,8 @@ Tabriklayman! Siz horizgina contributor sifatida tez-tez uchraydigan standard is
 Hissangizni nishonlang va [web app](https://firstcontributions.github.io/#social-share)ga o'tish orqali do'stlaringizga va ergashuvchilaringizga ulashing.
 
 
-Agar siz ko'proq mashq qilmoqchi bo'lsangiz, [kodinga hissa qo'shish](https://github.com/firstcontributions/first-contributions#code-contributions)ni ko'rib chiqing.
+Agar koʻproq mashq qilishni istasangiz, [kod hissalarini](https://github.com/roshanjossey/code-contributions) tekshiring.
+
 
 
 
