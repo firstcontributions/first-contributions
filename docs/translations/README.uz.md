@@ -131,6 +131,7 @@ Hissangizni nishonlang va [web app](https://firstcontributions.github.io/#social
 Agar siz ko'proq mashq qilmoqchi bo'lsangiz, [kodinga hissa qo'shish](https://github.com/firstcontributions/first-contributions#code-contributions)ni ko'rib chiqing.
 
 
+
 Endi boshqa proyektlarga hissa qo‘shishni boshlaylik. Siz boshlashingiz mumkin bo'lgan oson masalalar bilan proyektlar ro'yxatini tuzdik. Ko'zdan kechiring [web appdagi proyektlar ro'yxati](https://firstcontributions.github.io/#project-list).
 
 ### [Qo'shimcha materiallar](additional-material/git_workflow_scenarios/additional-material.md)
