@@ -1,5 +1,4 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -114,6 +113,7 @@ A continuació, et pots preparar per contribuir a altres projectes. Hem reunit u
 
 ### [Material extra](../additional-material/git_workflow_scenarios/additional-material.md)
 
+Podeu contribuir al codi seguint aquesta guia: [Guia de Contribució](https://github.com/firstcontributions/first-contributions/blob/main/CONTRIBUTING.md)
 
 ## Tutorials utilitzant altres eines
 
