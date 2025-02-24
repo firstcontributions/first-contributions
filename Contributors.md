@@ -3701,3 +3701,25 @@
 - [San](https://github.com/alvessanthiago) Hello from Brazil!
 - [Henrique Oliveira](https://github.com/HenriqueKO) Hello from Portugal! This was made on the 21st of february 2025 😁
 - [Nazish Kiran](https://github.com/Nazish-Kiran) Hello from Pakistan! its my first contribution
+=======
+- [Jaysinh Patankar] (https://github.com/Jaysinh146) Hello from India!
+- [Steve]
+- [Luis] Hello World, this is my first contribution!
+- [q1q1w2w2] Hi
+- [Jerryfandev] Hello World! Love from Vietnam <3
+- [Kaiyuan Zhang](https://github.com/zhangkaiyuan007) This is my first contribution. Love from China.
+- [Raj Jasoliya](https://github.com/rajjasoliya) This is my first contribution, wooo hoooo let's get into this!
+- [Alex Sanderson](https://github.com/vexelior) This is my first contribution!
+- [Fillah Alamsyah](https://github.com/fillahalamsyah) This is my first contribution in this project
+- [Khoa Nguyen](https://github.com/khoanguyenxuan) This is my first contribution!
+- [Steve Loh](https://github.com/weichn) This is my first contribution!
+- [Shankar Somu](https://github.com/ShankarSomu) This is my first contribution on 2/22/25!
+- [Rohit Anand](https://github.com/R0h1tAnand) Tring to Contribute to Open Source for the first time
+- [Jecara] HI🤓
+- [Inferno] Hi
+- [George2Times](https://github.com/George2Times) Hello from Poland! I'm thrilled to be contributing to open source for the first time!
+- [Hirtus] Hello World!
+- [Neil S McKay] My first git contribution, at last!
+- [arthurlw](https://github.com/arthurlw) Hello from Indonesia! Excited to learn more about open source!
+- [yu-min3](https://github.com/yu-min3) Hello from Japan! I would like to dive into OSS activities!
+>>>>>>> main
