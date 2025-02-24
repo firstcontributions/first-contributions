@@ -1,5 +1,6 @@
 # Contributors
 - [Ayushman] (https://github.com/ayushman1210) learning to deep dive into the open source world 
+- [Purwatsate](https://github.com/Purwatsate) Thar Li Swa Bar
 - [Sami Ahmed] (https://github.com/SamiA1995) Hello
 - [Dehemi Fabio](https://github.com/dreadlord-sedai) I am a Software Engineering Student, this is my first contribution, I look forward to be a Fullstack Engineer.
 - [Hallie Ricci](https://github.com/halliericci6)Hi, this is my first contribution!
