@@ -3458,6 +3458,7 @@ Sugan
 - [Bryson Magee](https://github.com/OllieWalle13) 
 - [bl3ssedc0de](https://github.com/nullx5)
 - [bagasadiii](https://github.com/bagasadiii)
+- [Maria Clement](https://github.com/mclem6) <3
 - [Yancy] Hi, I am a noob in open source. I am trying to contribute to open source.
 - [YangRucheng](https://github.com/YangRucheng) Hello
 - [Zhixia Lau](https://github.com/zxzxovo) Interesting project encouraging freshman, Hello ^w^.
