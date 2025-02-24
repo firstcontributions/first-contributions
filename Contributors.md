@@ -3781,6 +3781,7 @@ Aadyant Agrawal
 - [Shankar Somu](https://github.com/ShankarSomu) This is my first contribution on 2/22/25!
 - [Rohit Anand](https://github.com/R0h1tAnand) Tring to Contribute to Open Source for the first time
 - [Jecara] HI🤓
+- [Ralphy](https://github.com/RalphFilipek) Howdy from Poland 🇵🇱 its great to be here for the first time, good luck guys! 24/02/25
 - [Inferno] Hi
 - [George2Times](https://github.com/George2Times) Hello from Poland! I'm thrilled to be contributing to open source for the first time!
 - [Hirtus] Hello World!
