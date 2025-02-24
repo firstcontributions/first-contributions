@@ -1,5 +1,5 @@
 # Contributors
-- [Ayushman] (https://github.com/ayushman1210) learning to deep dive into the open source world 
+- [Ayushman] (https://github.com/ayushman1210) learning to deep dive into the open source world
 - [Purwatsate](https://github.com/Purwatsate) Thar Li Swa Bar
 - [Sami Ahmed] (https://github.com/SamiA1995) Hello
 - [Dehemi Fabio](https://github.com/dreadlord-sedai) I am a Software Engineering Student, this is my first contribution, I look forward to be a Fullstack Engineer.
@@ -1207,6 +1207,7 @@ Aadyant Agrawal
 - [Nenad](https://github.com/maglvoskiNenad)
 - [Thisaga Jayaratna](https://github.com/thisagaa)
 - [krshearman](https://github.com/krshearman)
+- [adumic02](https://github.com/adumic02)
 - [KevinThomas](https://github.com/HELL-KERBECS)
 - [LukaGakhokidze](https://github.com/Luka288)
 - [Lucas Emanuel](https://github.com/lucasdev-err)
@@ -3332,7 +3333,7 @@ Aadyant Agrawal
 - [Srigana Pulikantham](https://github.com/Srigana)
 - [Mihir Deshpande](https://github.com/mihirrd)
 - [Cesar Armango Garcia](https://github.com/ingcesargo/)
-- [Armin Pakdaman](https://github.com/1amGenius) my goal is to start contributing in open source projects! 
+- [Armin Pakdaman](https://github.com/1amGenius) my goal is to start contributing in open source projects!
 - [DRunkPiano114](https://github.com/DRunkPiano114)
 - [Tamar Cohen](https://github.com/tamar-cohen1)
 - Elisheva Fried
@@ -3794,4 +3795,4 @@ Aadyant Agrawal
 - [Eamon Wong](https://github.com/eamonwong) Hello, may great things happen to you! :)
 - [arthurlw](https://github.com/arthurlw) Hello from Indonesia! Excited to learn more about open source!
 - [yu-min3](https://github.com/yu-min3) Hello from Japan! I would like to dive into OSS activities!
-- [krsna](https://github.com/KrishnaTiwariCoder) 
+- [krsna](https://github.com/KrishnaTiwariCoder)
