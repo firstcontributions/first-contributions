@@ -1,5 +1,5 @@
 # Contributors
-- [Ayushman] (https://github.com/ayushman1210) learning to deep dive into the open source world 
+- [Ayushman] 赵梓健(https://github.com/ayushman1210) learning to deep dive into the open source world 
 - [Sami Ahmed] (https://github.com/SamiA1995) Hello
 - [Hallie Ricci](https://github.com/halliericci6)Hi, this is my first contribution!
 - [WadeHsu0](https://github.com/WadeHsu0)I love contributing ,happy every day!
