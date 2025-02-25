@@ -1,6 +1,8 @@
 # Contributors
+
 - [Abayomi] (itsabayomi2)
-- [Ayushman] (https://github.com/ayushman1210) learning to deep dive into the open source world 
+- [Ayushman] (https://github.com/ayushman1210) learning to deep dive into the open source world
+- [ArmanBhatia] (https://github.com/ArmanBhatia0100) Thank for this opportunity.
 - [Purwatsate](https://github.com/Purwatsate) Thar Li Swa Bar
 - [Sami Ahmed] (https://github.com/SamiA1995) Hello
 - [Dehemi Fabio](https://github.com/dreadlord-sedai) I am a Software Engineering Student, this is my first contribution, I look forward to be a Fullstack Engineer.
@@ -36,8 +38,7 @@
 - [Andrew Martinez](https://github.com/andymartinez1) I love contributing!
 - [Jas Singh](https://github.com/TheAlphaJas) Letsgooo
 - [Aqib Khan] (https://github.com/KAquib24)MY FIRST CONTRIBUTION!!!
-- [Ami-L] (https://github.com/amilia-n) Hi!! I love Techtonica!
--[Rayclu](https://github.com/Rayclu) Hi!! I'm Claudio and THIS IS MY FIRST CONTRIBUTION, I'm crying because the emotion (It's a joke)
+- [Ami-L] (https://github.com/amilia-n) Hi!! I love Techtonica! -[Rayclu](https://github.com/Rayclu) Hi!! I'm Claudio and THIS IS MY FIRST CONTRIBUTION, I'm crying because the emotion (It's a joke)
 - [Misavalmad](https://github.com/Misavalmad) I hope all of us achieve our goals
 - [Kero Wadgy](https://github.com/KeroWagdy100) Open-Source is WELCOMING ME!
 - [Ans Joju](https://github.com/ansj99) looking forward to more contributions!!!
@@ -469,7 +470,7 @@
   "Hey! Why is this duplicated? :("
 - [Omkar Nath](https://github.com/nathomkar799/first-contributions)
 - mridul vaishnav
-Aadyant Agrawal
+  Aadyant Agrawal
 - [einegbenosun](https://github.com/einegbenosun)
 - [Mrinal Singh](https://github.com/MrinalSingh04)
 - [Mkrsun](https://github.com/Mkrsun)
@@ -3336,7 +3337,7 @@ Aadyant Agrawal
 - [Srigana Pulikantham](https://github.com/Srigana)
 - [Mihir Deshpande](https://github.com/mihirrd)
 - [Cesar Armango Garcia](https://github.com/ingcesargo/)
-- [Armin Pakdaman](https://github.com/1amGenius) my goal is to start contributing in open source projects! 
+- [Armin Pakdaman](https://github.com/1amGenius) my goal is to start contributing in open source projects!
 - [DRunkPiano114](https://github.com/DRunkPiano114)
 - [Tamar Cohen](https://github.com/tamar-cohen1)
 - Elisheva Fried
@@ -3798,6 +3799,6 @@ Aadyant Agrawal
 - [Eamon Wong](https://github.com/eamonwong) Hello, may great things happen to you! :)
 - [arthurlw](https://github.com/arthurlw) Hello from Indonesia! Excited to learn more about open source!
 - [yu-min3](https://github.com/yu-min3) Hello from Japan! I would like to dive into OSS activities!
-- [krsna](https://github.com/KrishnaTiwariCoder) 
+- [krsna](https://github.com/KrishnaTiwariCoder)
 - [Mouadhbendjedidi](https://github.com/Mouadhbendjedidi) bro what's up (message to WaliEddine_ght bro stay hard we are brothers forever 🗿🗿♟️ nice my bro
 - [Hao Ran Pu](https://github.com/HaoRanPu) Hello, This is my first contribution.
