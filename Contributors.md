@@ -52,6 +52,7 @@
 - Sidney Shafer | [LinkedIn](https://www.linkedin.com/in/sidney-shafer/) | [GitHub](https://github.com/sidneyshafer)
 - [Athiban](https://github.com/your-github-username) First contribution for me.Wish me best
 - [Rajat Sehgal](https://github.com/riitr) Lets do it!!!
+- [Akila Wasalathilaka](https://github.com/Akila-Wasalathilaka)Hello world wassuppp??? 🍉
 - [Alice Lee](https://github.com/alicelee2735) First contribution on github!!
 - [Noah Weddles](https://github.com/NoahWeddles) Sup!
 - [Aryan Tyagi](https://github.com/Lonewolf-0) Cool Stuff!!
