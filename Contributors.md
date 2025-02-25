@@ -104,6 +104,7 @@
 - [Samrat Saha](https://github.com/Samsgithub9635) I love Java 🍵 and This my first step towards open source contribution...Yeeeeh!😃 and thanks! to first-contributions
   repo for it.
 - [swarna suneri](https://github.com/Suneri-2)
+- [Alizon Kingslen](https://github.com/KINZEE97) **my first contribution, thanks for the tutorial**
 - [Sarah Simbaqueba](https://github.com/S-Simbaqueba) Hey there
 - [Baba Dan Constantin](https://github.com/fuixone) Thanks for the tutorial.
 - [Kaiyuan Zhang](https://github.com/zhangkaiyuan007) Start Contributing.
