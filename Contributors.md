@@ -194,6 +194,7 @@
 - [Prashant/Kenny](https://github.com/Prashant-SG14)
 - [Adrian Lopez](https://github.com/adrianxlopez/)
 - [srmorita](https://github.com/srmorita)
+George Addai
 - [Abhimanyu](https://github.com/abhimanyu12321/) Hiot first contribution , but wanted to be part of it
 - [shakibalhasan-code](https://github.com/shakibalhasan-code) feel proud to be a part of this, from Dhaka, Bangladesh 👨🏾‍💻
 - [Ahmed Mostafa Mohamed](https://github.com/AhmedMostafaMohamed) I feel like contributing to react
