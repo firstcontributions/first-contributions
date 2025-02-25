@@ -1,6 +1,7 @@
 # Contributors
+
 - [Abayomi] (itsabayomi2)
-- [Ayushman] (https://github.com/ayushman1210) learning to deep dive into the open source world 
+- [Ayushman] (https://github.com/ayushman1210) learning to deep dive into the open source world
 - [Daniel] (https://github.com/raysedev) This is my first contribution
 - [Purwatsate](https://github.com/Purwatsate) Thar Li Swa Bar
   [Sandun Balasooriya](https://github.com/sandunx) Hello, World!
@@ -21,6 +22,7 @@
 - [Sahrin Tahiyat Khusi](https://github.com/Sahrin-Tahiyat-Choudhury)git add Contributors.md
 - [Diego_Sosa](https://github.com/Diego19871983) Z-Dev-Coder
 - [cheez]
+- [Mostafa Nassar](https://github.com/Mostafa-SWE) Front End Software Engineer, This is a practical demo of contribution to prepare for GSoC 2025
 - [Bapt]
 - [Kerim Demir](https://github.com/kerimdemir9)
 - [RazFernandez](https://github.com/RazFernandez) This my first contribution, first milestone to become a Full Stack Developer. Greetings from Mexico :v:
@@ -41,10 +43,9 @@
 - [Prince Gabecha] I hope it turns out well!!
 - [Andrew Martinez](https://github.com/andymartinez1) I love contributing!
 - [Jas Singh](https://github.com/TheAlphaJas) Letsgooo
-- [Youssef mohamed](https://github.com/TURBO70) 
+- [Youssef mohamed](https://github.com/TURBO70)
 - [Aqib Khan] (https://github.com/KAquib24)MY FIRST CONTRIBUTION!!!
-- [Ami-L] (https://github.com/amilia-n) Hi!! I love Techtonica!
--[Rayclu](https://github.com/Rayclu) Hi!! I'm Claudio and THIS IS MY FIRST CONTRIBUTION, I'm crying because the emotion (It's a joke)
+- [Ami-L] (https://github.com/amilia-n) Hi!! I love Techtonica! -[Rayclu](https://github.com/Rayclu) Hi!! I'm Claudio and THIS IS MY FIRST CONTRIBUTION, I'm crying because the emotion (It's a joke)
 - [Misavalmad](https://github.com/Misavalmad) I hope all of us achieve our goals
 - [Kero Wadgy](https://github.com/KeroWagdy100) Open-Source is WELCOMING ME!
 - [Ans Joju](https://github.com/ansj99) looking forward to more contributions!!!
@@ -133,7 +134,7 @@
 - [Owen Morris](https://github.com/OMorris95)
 - [Oliver McGale] Hi from Ireland! Thank you for the tutorial
 - [kyal lin soeA](https://github.com/juann227) Gracis chavales
-- [Swapnil Ingale](https://github.com/swab019) Swapnil Ingale 
+- [Swapnil Ingale](https://github.com/swab019) Swapnil Ingale
 - [Juan Naranjo](https://github.com/Orange-code-orange) Hello from Colombia! ❤️
 - [Srushti Bhoyar](https://github.com/bsrushti) Thanks for the tutorial.
 - [Sparsh Vardhan](https://github.com/Sparsh-V3) Hey there, I'm Sparsh Vardhan, and this is my First Open Source Contribution <3
@@ -197,7 +198,7 @@
 - [Prashant/Kenny](https://github.com/Prashant-SG14)
 - [Adrian Lopez](https://github.com/adrianxlopez/)
 - [srmorita](https://github.com/srmorita)
-George Addai
+  George Addai
 - [Abhimanyu](https://github.com/abhimanyu12321/) Hiot first contribution , but wanted to be part of it
 - [shakibalhasan-code](https://github.com/shakibalhasan-code) feel proud to be a part of this, from Dhaka, Bangladesh 👨🏾‍💻
 - [Ahmed Mostafa Mohamed](https://github.com/AhmedMostafaMohamed) I feel like contributing to react
@@ -481,7 +482,7 @@ George Addai
   "Hey! Why is this duplicated? :("
 - [Omkar Nath](https://github.com/nathomkar799/first-contributions)
 - mridul vaishnav
-Aadyant Agrawal
+  Aadyant Agrawal
 - [einegbenosun](https://github.com/einegbenosun)
 - [Mrinal Singh](https://github.com/MrinalSingh04)
 - [Mkrsun](https://github.com/Mkrsun)
@@ -3348,7 +3349,7 @@ Aadyant Agrawal
 - [Srigana Pulikantham](https://github.com/Srigana)
 - [Mihir Deshpande](https://github.com/mihirrd)
 - [Cesar Armango Garcia](https://github.com/ingcesargo/)
-- [Armin Pakdaman](https://github.com/1amGenius) my goal is to start contributing in open source projects! 
+- [Armin Pakdaman](https://github.com/1amGenius) my goal is to start contributing in open source projects!
 - [DRunkPiano114](https://github.com/DRunkPiano114)
 - [Tamar Cohen](https://github.com/tamar-cohen1)
 - Elisheva Fried
@@ -3810,7 +3811,7 @@ Aadyant Agrawal
 - [Eamon Wong](https://github.com/eamonwong) Hello, may great things happen to you! :)
 - [arthurlw](https://github.com/arthurlw) Hello from Indonesia! Excited to learn more about open source!
 - [yu-min3](https://github.com/yu-min3) Hello from Japan! I would like to dive into OSS activities!
-- [krsna](https://github.com/KrishnaTiwariCoder) 
+- [krsna](https://github.com/KrishnaTiwariCoder)
 - [Mouadhbendjedidi](https://github.com/Mouadhbendjedidi) bro what's up (message to WaliEddine_ght bro stay hard we are brothers forever 🗿🗿♟️ nice my bro
 - [Hao Ran Pu](https://github.com/HaoRanPu) Hello, This is my first contribution.
 - [Tasleema Shaik Mohammed](https://github.com/TasleemaShaik) Hey, finally I have taken this first step, Cheers to the next person who is looking forward for their first contribution. May all your manifestations come true!
@@ -3820,4 +3821,4 @@ Aadyant Agrawal
 - [z-cursor](https://github.com/z-cursor) Hello from China. It's my first time to be contributing to open source and it's feels not bad.
 - [ajit-abc](https://github.com/ajit-abc) Hello. 👋
 - [Amit Kanjariya](https://github.com/amitkanjariya/first-contributions.git) Hellooo from India...
-- [LemonMonster03] (https://github.com/LemonMonster03) This is LemonMonster03 from China, hello everyone! :D 	
+- [LemonMonster03] (https://github.com/LemonMonster03) This is LemonMonster03 from China, hello everyone! :D
