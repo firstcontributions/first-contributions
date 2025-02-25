@@ -116,7 +116,7 @@ git push origin <分支的名称>
 
 
 
-还在等什么，马上加入到其他项目的开发中去吧！为了方便你快速上手，我们收集了当前流行的众多代码仓库中，适合初学者解决的[问题列表](https://firstcontributions.github.io/#project-list)。
+如果您想更多练习，请查看(https://github.com/roshanjossey/code-contributions)。
 
 ### [附加材料](additional-material/git_workflow_scenarios/additional-material.md)
 
