@@ -253,6 +253,7 @@ George Addai
   Nataly Cristina (https://github.com/natycristina)
 - [Mohit Appari](https://github.com/moh1tt) Heyyy ! First Contribution 2025 !!
 - lenkey
+- [Maribel Pereyra](https://github.com/MaribelP29) First Contribution 2025.
 - [Andrea-Sgarbi](https://github.com/Andrea-Sgarbi) Hello everyone, this is my first contribution! :)
 - [brancore87](https://github.com/Andrea-Sgarbi) Hello peeps 😊, this is my first contribution! Date: 2nd February, 2025 🙋🏻‍♂️
 - [Maxime Benoit](https://github.com/Max13500)
