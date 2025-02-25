@@ -3825,4 +3825,5 @@ Aadyant Agrawal
 - [ajit-abc](https://github.com/ajit-abc) Hello. 👋
 - [Amit Kanjariya](https://github.com/amitkanjariya/first-contributions.git) Hellooo from India...
 - [LemonMonster03] (https://github.com/LemonMonster03) This is LemonMonster03 from China, hello everyone! :D 	
-- [Pallavi] (https://github.com/Pallavi-0210/) 
+- [Pallavi] (https://github.com/Pallavi-0210/)
+- [shanizu](https://github.com/shanizu) This is my first contribution! 
