@@ -3814,3 +3814,4 @@ Aadyant Agrawal
 - [Preetam Hegde](https://github.com/Preetam-hegde) Hello from india. I'm thrilled to be contributing to open source for the first time! 25/02/25
 - [z-cursor](https://github.com/z-cursor) Hello from China. It's my first time to be contributing to open source and it's feels not bad.
 - [ajit-abc](https://github.com/ajit-abc) Hello. 👋
+- [Amit Kanjariya](https://github.com/amitkanjariya/first-contributions.git) Hellooo from India...
