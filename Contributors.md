@@ -3810,5 +3810,6 @@ Aadyant Agrawal
 - [Hao Ran Pu](https://github.com/HaoRanPu) Hello, This is my first contribution.
 - [Tasleema Shaik Mohammed](https://github.com/TasleemaShaik) Hey, finally I have taken this first step, Cheers to the next person who is looking forward for their first contribution. May all your manifestations come true!
 - [Prem Bhajaj](https://github.com/prembhajaj) Hey, finally I have taken this first step, Cheers to the next person who is looking forward for their first contribution. May all your manifestations come true!
+- [Daksh](https://github.com/GitDaksh) Hope this goes well, really exited to start this journey!
 - [Preetam Hegde](https://github.com/Preetam-hegde) Hello from india. I'm thrilled to be contributing to open source for the first time! 25/02/25
 - [z-cursor](https://github.com/z-cursor) Hello from China. It's my first time to be contributing to open source and it's feels not bad.
