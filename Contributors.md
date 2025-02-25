@@ -118,6 +118,7 @@
 - [Baba Dan Constantin](https://github.com/fuixone) Thanks for the tutorial.
 - [Kaiyuan Zhang](https://github.com/zhangkaiyuan007) Start Contributing.
 - [Pranav Dhekane](https://github.com/pranavdhekane) Nice tutorial..
+- [anandvijy]
 - [Muhammad Gamal Azab](https://github.com/muhammadgamalazab) This is Jimmy, DevOps Engineer.
 - Amit Kumar[https://github.com/](https://github.com/amit15000) Thanks for the beginners tutorial.
 - [Michele pelegrinelli](https://github.com/michelepelegrinelli) Hi everyone!
@@ -3804,6 +3805,7 @@ Aadyant Agrawal
 - [Fillah Alamsyah](https://github.com/fillahalamsyah) This is my first contribution in this project
 - [Khoa Nguyen](https://github.com/khoanguyenxuan) This is my first contribution!
 - [Steve Loh](https://github.com/weichn) This is my first contribution!
+- [Murali Sb](https://github.com/imuralisb/first-contributions) Hola! My First Contribution...
 - [Shankar Somu](https://github.com/ShankarSomu) This is my first contribution on 2/22/25!
 - [Rohit Anand](https://github.com/R0h1tAnand) Tring to Contribute to Open Source for the first time
 - [Jecara] HI🤓
