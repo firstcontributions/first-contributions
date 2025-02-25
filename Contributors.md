@@ -3804,6 +3804,7 @@ Aadyant Agrawal
 - [Fillah Alamsyah](https://github.com/fillahalamsyah) This is my first contribution in this project
 - [Khoa Nguyen](https://github.com/khoanguyenxuan) This is my first contribution!
 - [Steve Loh](https://github.com/weichn) This is my first contribution!
+- [Murali Sb](https://github.com/imuralisb/first-contributions) Hola! My First Contribution...
 - [Shankar Somu](https://github.com/ShankarSomu) This is my first contribution on 2/22/25!
 - [Rohit Anand](https://github.com/R0h1tAnand) Tring to Contribute to Open Source for the first time
 - [Jecara] HI🤓
