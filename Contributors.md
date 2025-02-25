@@ -147,6 +147,7 @@
 - [Rose Lagdameo](https://github.com/workwithrose) Hello, hope y'all are having a nice day
 - [Héctor Cortés Ramírez] (https://github.com/hcortesr) Mi destino fue tallado con piedra y lo voy a cumplir. Lo juro por Dios.
 - [Karina Kallas](https://github.com/kallka) Thanks for the tutorial!
+- [Filippo Bortoli](https://github.com/BigBird404) Hello from Portugal :)
 - [Tarun Thakur](https://github.com/TarunThakur172000) Thanks for the tutorial!
 - [Hermela Zekarias] (https://github.com/hermela-zekarias)
 - [Do Quoc Vuong](https://github.com/vsrs3) hello from vietnam ;)
