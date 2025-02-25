@@ -3679,6 +3679,7 @@ Aadyant Agrawal
 - [oompyy](https://github.com/oompyy)
 - [Soumadeep46](https://personal-portfolio-esnr.onrender.com/)
 - [Ajay Oraon](https://github.com/Ajay-oraon) ##Backend Developer
+- [Deelaka S] (https://github.com/Deelz07) #This is my first work on OS project!
 - [Anurag Wankhede] (https://github.com/AshRW) Lets Goo
 - [Alex I](https://github.com/FilthyActs4Sale)
 - [Jess Raimondo](github.com/Jraimondo7)
