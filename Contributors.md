@@ -2369,3 +2369,4 @@
 - [Özgür Sönmez](https://github.com/ozgursnmz)
 - [InigoMontoya]
 - [Jonasz Grabowski](https://github.com/Jonasz-Grabowski)
+- [Amit Kanjariya](https://github.com/amitkanjariya)
