@@ -509,6 +509,7 @@ Aadyant Agrawal
 - [sjwhole](https://github.com/sjwhole)
 - [Rachit Agrawal](https://github.com/RachitAgrwal545422)
 - [Ramya Swetha Vejendla](https://github.com/RamyaSwethaVejendla11)
+- [Yogendra Singh Rathod](hhttps://github.com/Yogendrasinghrathod)
 - [Xerx](https://github.com/Xerx81)
 - [RandithaK](https://github.com/RandithaK)
 - [Mandhata Pathak](https://github.com/Mandhata001)
