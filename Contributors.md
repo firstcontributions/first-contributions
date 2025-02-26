@@ -3642,6 +3642,7 @@ Aadyant Agrawal
 - [Zach Lindemuth](https://github.com/Zach-Lindemuth)
 - [Sayudha](https://github.com/mazaya-studio)
 - [Sebastian](https://github.com/sebiwsk)
+- [Andrei Nikitin](https://github.com/StudCramon) Believe in the You That Believes in Yourself!
 - [Naman Thakur](https://github.com/namanthakur22)
 - [Mohab](https://github.com/Mohba0p)
 - [csuer411](https://github.com/csuer411)
