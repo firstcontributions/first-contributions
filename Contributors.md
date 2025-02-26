@@ -86,6 +86,7 @@
 - [sameer](https://github.com/sameersam648)
 - [Jelis](https://github.com/JelisM)
 - [tomcat16](https://github.com/tomcat16)
+- [Yuvraj Singh](https://github.com/YUVRAJSINGH3112)
 - [the-pigeon-coder](https://github.com/the-pigeon-coder)
 - [Bipika Amatya](https://github.com/bipika) Hello! Let the code begin
 - [Shubham Bharti] (https://github.com/Shubham007-tech)
