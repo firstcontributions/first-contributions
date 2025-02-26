@@ -1,6 +1,7 @@
 # Contributors
 - [Abayomi] (itsabayomi2)
 - [Krishnan K](https://github.com/Krishnan005K) The Three important things of Life are **Health ,Wealth, Relationship**
+- [DanielNieto] (https://github.com/Daniel-Nieto-2526)
 - [Ayushman] (https://github.com/ayushman1210) learning to deep dive into the open source world 
 - [Daniel] (https://github.com/raysedev) This is my first contribution
 - [Purwatsate](https://github.com/Purwatsate) Thar Li Swa Bar
