@@ -2712,6 +2712,7 @@ Aadyant Agrawal
 - [Danny Rivas](https://github.com/DannyRivasDev)
 - [promax1113](https://github.com/promax1113)
 - [csidirop](https://github.com/csidirop)
+- [BlueD2O](https://github.com/BlueD2O) Learning GIT and thanks for this tut!
 - [darkdevil3610](https://github.com/darkdevil3610)
 - [PJha](https://github.com/connectPjha)
 - [Xamss](https://github.com/Xamss)
