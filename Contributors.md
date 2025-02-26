@@ -12,7 +12,7 @@
 - [Fadil Amad K M](https://github.com/TechTrovePlus) namasthe!!🙏
 - [Sarah Simbaqueba](https://github.com/S-Simbaqueba) Hey there 
 - [Baba Dan Constantin](https://github.com/fuixone) Thanks for the tutorial.
-- [Krishna Kumar](https://github.com/KrsihnaDev) Hello.
+- [Krishna Kumar](https://github.com/KrsihnaDev) Hello(26/02/2025).
 - [Pranav Dhekane](https://github.com/pranavdhekane) Nice tutorial.. 
 - [Muhammad Gamal Azab](https://github.com/muhammadgamalazab) This is Jimmy, DevOps Engineer.
 - Amit Kumar[https://github.com/](https://github.com/amit15000) Thanks for the beginners tutorial.
