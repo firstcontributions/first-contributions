@@ -3833,5 +3833,7 @@ Aadyant Agrawal
 - [Pallavi] (https://github.com/Pallavi-0210/)
 - [shanizu](https://github.com/shanizu) This is my first contribution! 
 - [Thayná Freire](https://github.com/thaynafd) Hello World! I'm Thayná, a student. This is my first contribution.
-- [Abdelrahman Mohammed Aboulfotouh](https://github.com/AbdelrahmanAboulfotouh) This is my first contribution. Love from Egypt.
+- [Abdelrahman Mohammed Aboulfotouh](https://github.com/AbdelrahmanAboulfotouh) This is my first contribution. 
+- [samitach9] This is my first contribution! 
+Love from Egypt.
 This is my first contribution.
