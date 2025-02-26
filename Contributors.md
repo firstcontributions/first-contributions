@@ -23,6 +23,7 @@
 - [Akshansh](https://github.com/akshansh029) was here :)
 - [Sahrin Tahiyat Khusi](https://github.com/Sahrin-Tahiyat-Choudhury)git add Contributors.md
 - [Diego_Sosa](https://github.com/Diego19871983) Z-Dev-Coder
+I hate capitalism
 - [cheez]
 - [Bapt]
 - [Kerim Demir](https://github.com/kerimdemir9)
