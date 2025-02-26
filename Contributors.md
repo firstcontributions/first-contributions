@@ -1,12 +1,17 @@
 # Contributors
+- [vatsalya] (https://github.com/VatsalyaBetala)
+- [jhena] (https://github.com/jhenals) This is my first contribution!
 - [Abayomi] (itsabayomi2)
 - [Krishnan K](https://github.com/Krishnan005K) The Three important things of Life are **Health ,Wealth, Relationship**
 - [Ayushman] (https://github.com/ayushman1210) learning to deep dive into the open source world 
 - [Daniel] (https://github.com/raysedev) This is my first contribution
 - [Purwatsate](https://github.com/Purwatsate) Thar Li Swa Bar
+- [Divyansh] (https://github.com/divyansh090)Hi, this is my first contribution :-)
   [Sandun Balasooriya](https://github.com/sandunx) Hello, World!
 - [Sami Ahmed] (https://github.com/SamiA1995) Hello
 - [Shey Camille](https://github.com/sheycamille) Let's make softwares better by sharing ideas!
+- [Lwin Moe Oo](https://github.com/sheycamille) Freedom from Fear
+- [TheProStar](https://github.com/Ansh2209) First Contribution! Yay!! 
 - [Dehemi Fabio](https://github.com/dreadlord-sedai) I am a Software Engineering Student, this is my first contribution, I look forward to be a Fullstack Engineer.
 - [Manikanta Thummuri](https://github.com/manikanta5827) I am a Aspiring Backend Engineer and this is my first contribution :) 25/02/2025 Tuesday 3:55pm
 - [Alisha]() Hey! I hope you have a great day today? If not don't worry help is on the way =) 
@@ -28,12 +33,14 @@
 - [Kerim Demir](https://github.com/kerimdemir9)
 - [RazFernandez](https://github.com/RazFernandez) This my first contribution, first milestone to become a Full Stack Developer. Greetings from Mexico :v:
 - [mqrv-mckl](https://github.com/mqrv-mckl) hey there :)
+- [Superfrettchen](https://github.com/Superfrettchen) nett hier.
 - [GASTON Stanley](https://github.com/gastanley) This is my first contribution as a student!!
 - [Karthik Sriramoju](https://github.com/karthiksriramoju) I'll be doing Opensource Seriously.
 - [Kanye west SOrry North] Lets Fork It Boys!!!!
 - [Daniel Dias](https://github.com/ecodelearn) Hello Brazil, my first contribution here!
 - [Jonatas Winston | CyberSecurity | @jonatas_winston](https://github.com/winstonsec)
 - [xKensho47](https://github.com/xKensho47)
+- [uqnquvwfkq](https://github.com/uqnquvwfkq)
 - [M1D0R1x](https://github.com/M1D0R1x) This is my first contribution more to come
 - [Krubanandan](https://github.com/Krubanandan) This is my first contribution
 - [Juan Morales](https://github.com/JuanMorales1025/first-contributions) This is my first contribution
@@ -267,6 +274,7 @@ George Addai
 - [Jose Vasquez](https://github.com/vasquez-jpr) This is my first contribution today, 20250214
 - [Feng-chengyi](https://github.com/Feng-chengyi)
 - [Kai Mwanyumba](https://github.com/mwanyumba7)
+- [Akhil Nambiar](https://github.com/akhilnambiar29) Testing first open source
 - [NataliaBachiega] (https://github.com/NataliaBachiega) Hi ≽^•⩊•^≼
 - [Alifa-Ara-Heya] (https://github.com/alifa-ara-heya) Alhamdulillah (All praises to Allah), my first contribution in the open source world. :D
 - [Wahab-Guerrilla] (https://github.com/wGuerrilla) Alhumdulillah.
@@ -2558,6 +2566,7 @@ Aadyant Agrawal
 - [Rahul Guggilam](https://github.com/Rahulguggilam2003)
 - [Kingsley Kamkwamba](https://github.com/kamkwamba)
 - [Wesley Perrang](https://github.com/Wesley-Perrang)
+- [Nuno Martins](https://github.com/nunofbiomartins)
 - [Judah Nii Bonney](https://github.com/JudahNii)
 - [Felicia H](https://github.com/coder02603)
 - [Dori A](https://github.com/EdoriAtiri)
@@ -3678,6 +3687,7 @@ Aadyant Agrawal
 - [oompyy](https://github.com/oompyy)
 - [Soumadeep46](https://personal-portfolio-esnr.onrender.com/)
 - [Ajay Oraon](https://github.com/Ajay-oraon) ##Backend Developer
+- [Deelaka S] (https://github.com/Deelz07) #This is my first work on OS project!
 - [Anurag Wankhede] (https://github.com/AshRW) Lets Goo
 - [Alex I](https://github.com/FilthyActs4Sale)
 - [Jess Raimondo](github.com/Jraimondo7)
@@ -3833,7 +3843,5 @@ Aadyant Agrawal
 - [Pallavi] (https://github.com/Pallavi-0210/)
 - [shanizu](https://github.com/shanizu) This is my first contribution! 
 - [Thayná Freire](https://github.com/thaynafd) Hello World! I'm Thayná, a student. This is my first contribution.
-- [Abdelrahman Mohammed Aboulfotouh](https://github.com/AbdelrahmanAboulfotouh) This is my first contribution. 
-- [samitach9] This is my first contribution! 
-Love from Egypt.
+- [Abdelrahman Mohammed Aboulfotouh](https://github.com/AbdelrahmanAboulfotouh) This is my first contribution. Love from Egypt.
 This is my first contribution.
