@@ -9,6 +9,7 @@
 - [Divyansh] (https://github.com/divyansh090)Hi, this is my first contribution :-)
   [Sandun Balasooriya](https://github.com/sandunx) Hello, World!
 - [Sami Ahmed] (https://github.com/SamiA1995) Hello
+- [Philip Hsinh] (https://github.com/xhbear) It's been a long way from punching holes to just casually typing text and having it seen across the globe!
 - [Shey Camille](https://github.com/sheycamille) Let's make softwares better by sharing ideas!
 - [Lwin Moe Oo](https://github.com/sheycamille) Freedom from Fear!
 - [Dehemi Fabio](https://github.com/dreadlord-sedai) I am a Software Engineering Student, this is my first contribution, I look forward to be a Fullstack Engineer.
