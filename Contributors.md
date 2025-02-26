@@ -48,6 +48,7 @@
 - [M1D0R1x](https://github.com/M1D0R1x) This is my first contribution more to come
 - [Krubanandan](https://github.com/Krubanandan) This is my first contribution
 - [Juan Morales](https://github.com/JuanMorales1025/first-contributions) This is my first contribution
+- [Christopher Liudahl-Rackley](https://github.com/clrminded) This is my first contribution to a public repository!
 - [Sejal Kaur](https://github.com/Sejalkaur/first-contributions) This is my First Contribution guys.
 - [white-yj8109](https://github.com/white-yj8109/first-contributions) This is my first contribution
 - [David-Nwosu](https://github.com/Pointbr8ker-123/first-contributions.git) This is my first contribution. Hope to achieve big dreams in the tech field
