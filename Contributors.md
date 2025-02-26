@@ -16,7 +16,7 @@
 -[PPPS](https://github.com/phuepyaesan) 
 - [Oliver McGale] Hi from Ireland! Thank you for the tutorial
 - [Juan Naranjo](https://github.com/Orange-code-orange) Hello from Colombia! ❤️
-- [Andres Cortes] Salu2 desde Colombia <3.
+- [Andres Cortes] Hello from Colombia <3.
 - [Srushti Bhoyar](https://github.com/bsrushti) Thanks for the tutorial.
 - [Habibullah_Howlader] - Hello from Bangladesh
   [Michal Fogel](https://github.com/MichalFog)
