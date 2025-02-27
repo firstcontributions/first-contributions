@@ -1,5 +1,6 @@
 # Contributors
 - [vatsalya] (https://github.com/VatsalyaBetala)
+- [Sujit] (https://github.com/KushwahaPrasadSujit)
 - [jhena] (https://github.com/jhenals) This is my first contribution!
 - [Abayomi] (itsabayomi2)
 - [Ayaz-75] (https://github.com/Ayaz-75) This is Ayaz Ali, I am a python developer and this is my very first open-source contribution.
