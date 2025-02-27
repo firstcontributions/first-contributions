@@ -2156,6 +2156,7 @@ Aadyant Agrawal
 - [Vishnu Vardan](https://github.com/VV-22)
 - [Maruthi Manideep Gorla](https://github.com/manideep3069)
 - [Maximilian Ganske](https://github.com/MaxGanske)
+- [amdm-aus] (https://github.com/amdm-aus)
 - [Omer Diaaeldin](https://github.com/OmerDiaaeldin)
 - [Sainul Abid](https://github.com/abidta)
 - [Nereya Mantzur](https://github.com/NereyaMantzur)
