@@ -2,6 +2,7 @@
 - [vatsalya] (https://github.com/VatsalyaBetala)
 - [jhena] (https://github.com/jhenals) This is my first contribution!
 - [Abayomi] (itsabayomi2)
+- [Ayaz-75] (https://github.com/Ayaz-75) This is Ayaz Ali, I am a python developer and this is my very first open-source contribution.
 - [Krishnan K](https://github.com/Krishnan005K) The Three important things of Life are **Health ,Wealth, Relationship**
 - [Muhammad Bagir] (https://github.com/bagir-kaff) Hello, this is my first contribution **say hi**, look forward to be a fullstack engineering.
 - [Ayushman] (https://github.com/ayushman1210) learning to deep dive into the open source world 
