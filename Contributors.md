@@ -3196,6 +3196,7 @@ Aadyant Agrawal
 - [Aiyazhi]
 - Paulo
 - [rogervdo](httis://github.com/rogervdo)
+- [skamal1](https://github.com/skamal71)
 - [rhu121](https://github.com/ThapaRh)
 - [maskFox2](https://github.com/maskFox2)
 - [Suvesh Pandey](https://github.com/suveshpandey)
