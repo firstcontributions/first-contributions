@@ -23,14 +23,14 @@ Date:   Mon Jun 3 23:06:05 2024 -0600
 ```
 
 
-## Command variations and options 
+## Command variations and options
 - In order to perform the commits reachable from a particular commit ids: <i>(In this case, `foo` and `bar`)</i><br>
-    `git log foo bar ` 
+    `git log foo bar `
 - It is also possible to remove the commits reachable from a given commit id by adding a `^` in front of commit id: <i>(In this case, `baz`)</i><br>
     `git log foo bar ^baz`
-- Commit log for a particular file: <br> 
+- Commit log for a particular file: <br>
     `git log --all <filename>`
-- Limit number of commits in log: <i>(In this case, `5`)</i><br> 
+- Limit number of commits in log: <i>(In this case, `5`)</i><br>
     `git log -n 5`
 
 ## Refer

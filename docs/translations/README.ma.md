@@ -6,7 +6,7 @@
 
 # Awel Moucharaka
 
-Fo9ma katbghi tbda chi 7aja jdida katkoun m39da flewl. Dik lkhouf anak tghlet ki3ssbek,5ossosan fach katkoun 5dam m3a nass o5rin. Walakin lblan dl open source w anak t5dm m3a nass f fra9i . Bghina , nsshlou 3likoum bach t3lmou tcharkou fchi projet open source b7al hada l awel mra .   
+Fo9ma katbghi tbda chi 7aja jdida katkoun m39da flewl. Dik lkhouf anak tghlet ki3ssbek,5ossosan fach katkoun 5dam m3a nass o5rin. Walakin lblan dl open source w anak t5dm m3a nass f fra9i . Bghina , nsshlou 3likoum bach t3lmou tcharkou fchi projet open source b7al hada l awel mra .
 
 Rah blan tb9a t9ra kifach dir wla tchouf des tutoriels , walakin wach machi 7ssen nwriwk ki der bla matghlet ? Had lprojet l hadaf dyalou howa y3tek nassa2i7 w 5lik 3a9l : koulma knti mheden , ghat3lem 7ssen. Ila knti 3wal der awel i3ana , tbe3 had l5otowat w ra atsde9lk . Kanwa3dk , ghay3jbek l7al.
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="connecter had repo" />
@@ -28,7 +28,7 @@ Daba ,cloner repo dyalk l pc 3ndk. Brek 3la bottona d Clone w copier dik lien (H
 ```
 git clone "dik lien li 3ad copieti"
 ```
-3andak t5liha hakak hhh "dik lien li 3ad copieti" (bla douk "") kteb tma lien li copieti fhemni . 
+3andak t5liha hakak hhh "dik lien li 3ad copieti" (bla douk "") kteb tma lien li copieti fhemni .
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copier l'URL dans le presse-papier" />
 
@@ -36,8 +36,8 @@ Atkoun b7al had chkel :
 ```
 git clone https://github.com/smytk_dyal_github/first-contributions.git
 ```
-rah `smytk_dyal_github`  hia smya li nta dayr. 
-Daba nta fhad l5twa ghatelecharger ga3 had repo 3ndk f pc bach tbda tbeddel fiha. 
+rah `smytk_dyal_github`  hia smya li nta dayr.
+Daba nta fhad l5twa ghatelecharger ga3 had repo 3ndk f pc bach tbda tbeddel fiha.
 
 ## Swb branche jdida dyalk
 
@@ -95,7 +95,7 @@ branche main dyalk maghaytbdel fiha walou daba . Ila bghiti ta main dyalk ykoun 
 
 ## 5li main dyalk synchronisé m3a contributors
 
-B3da rje3 lmain matb9ach fdik add-brahim 
+B3da rje3 lmain matb9ach fdik add-brahim
  ```
  git checkout main
  ```
@@ -128,7 +128,7 @@ git push origin --delete <add-votre-nom>
 ```
 Machi darori t7yd lbranch walakin raha salat 5smtha ma3ndha lach tb9a tma .
 
-## Tutoriels bchi twichyat o5rin 
+## Tutoriels bchi twichyat o5rin
 
 
 | <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
@@ -138,4 +138,3 @@ Machi darori t7yd lbranch walakin raha salat 5smtha ma3ndha lach tb9a tma .
 ## Fin nmchi daba ?
 
 Ymklkoum tjiw l slack fin kayna lfr9a d hadchi kaml , n9do n3awnokom w njawbo 3la chi ass2ila    [Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
-

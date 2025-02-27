@@ -9,7 +9,7 @@ V vsakem primeru pa moramo biti previdni pri povračanju, ker si lahko poškoduj
 Da lahko izberemo SHA točno določenega commit-a, ki ga hočemo odstraniti, nam zelo prav pride seznam vseh commit-ov, ki smo jih napravili.
 Ta seznam dobimo s tem ukazom:
 ```git log --oneline ```
-Ukaz ```git log``` bi nam prav tako vrnil SHA, vendar v daljši obliki izpisa. 
+Ukaz ```git log``` bi nam prav tako vrnil SHA, vendar v daljši obliki izpisa.
 Uporaba zastavice ```--oneline ``` Git-u pove da hočemo pregleden izpis v eni vrstici.
 
 Prvih 7 znakov v vsaki vrstici izpisa se imenuje skrajšani hash commit-a.

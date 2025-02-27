@@ -1,7 +1,7 @@
 # Kaj je stiskanje?
 
 V Git-u stiskanje ( squashing ) pomeni popravljanje zgodovine svojih commit-ov, tako da na koncu ostaneš samo z enim commit-om in enim komentarjem narejenih sprememb.
-To je običajni postopek v odprto kodnih projektih, ker je velik del zgodovine vsake veje pomemben samo programerju, ki jo je ustvaril. Poleg tega na ta način poenostavimo sledenje izvedenih sprememb in jih tudi lažje povrnemo v prejšnje stanje, če je to potrebno. 
+To je običajni postopek v odprto kodnih projektih, ker je velik del zgodovine vsake veje pomemben samo programerju, ki jo je ustvaril. Poleg tega na ta način poenostavimo sledenje izvedenih sprememb in jih tudi lažje povrnemo v prejšnje stanje, če je to potrebno.
 
 # Kako stisneš commit-e?
 
@@ -91,4 +91,3 @@ commit message 2
 To sporočilo lahko po želji spremenimo preden zapremo urejevalnik besedila, kar shrani spremembe.
 
 Če še enkrat uporabimo ukaz `git log`, bi morali dobiti komentar commit-a, ki smo ga vnesli preden smo zaprli urejevalnik besedila, in commit-i bi morali biti združeni v enega.
-

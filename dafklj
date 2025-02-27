@@ -1,0 +1,143 @@
+warning: in the working copy of '.github/CODE_OF_CONDUCT.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.gitignore', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.prettierignore', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/Things a non Programmer can do.ta.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/git_workflow_scenarios/delete-branch-locally.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/git_workflow_scenarios/installing-git-arch.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/git_workflow_scenarios/stashing-a-file.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/git_workflow_scenarios/storing-credentials.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/translations/Belarusian/additional-material.by.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/translations/Belarusian/amending-a-commit.by.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/translations/Belarusian/configuring-git.by.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/translations/Belarusian/keeping-your-fork-synced-with-this-repository.by.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/translations/Belarusian/moving-a-commit-to-a-different-branch.by.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/translations/Belarusian/removing-a-file.by.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/translations/Belarusian/stashing-a-file.by.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/translations/Bengali/additional-material.be.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/translations/Farsi/amending-a-commit.fa.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/translations/French/check-commit-log.fr.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/translations/Greek/git_workflow_scenarios/amending-a-commit.gr.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/translations/Greek/git_workflow_scenarios/configuring-git.gr.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/translations/Greek/git_workflow_scenarios/creating-a-gitignore-file.gr.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/translations/Greek/git_workflow_scenarios/delete-branch-locally.gr.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/translations/Greek/git_workflow_scenarios/gitflow.gr.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/translations/Hindi/moving-a-commit-to-a-different-branch.hi.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/translations/Hindi/removing-a-file.hi.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/translations/Hindi/removing-branch-from-your-repository.hi.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/translations/Hindi/resetting-a-branch.hi.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/translations/Hindi/resetting-a-commit.hi.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/translations/Indonesian/Useful-links-for-further-learning.id.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/translations/Italian/reverting-a-commit.it.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/translations/Korean/additional-material.ko.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/translations/Korean/delete-branch-locally.ko.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/translations/Marathi/additional-material.ma.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/translations/Portugues/confinguring-git.pt-br.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/translations/Russian/additional-material.ru.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/translations/Russian/configuring-git.ru.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/translations/Sinhala/amending-a-commit.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/translations/Slovenian/moving-a-commit-to-a-different-branch.sl.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/translations/Slovenian/reverting-a-commit.sl.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/translations/Slovenian/stashing-a-file.sl.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/translations/Spanish/amending-a-commit.es.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/translations/Spanish/amending-a-commit.sp_mx.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/translations/Spanish/configuring-git.sp_mx.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/translations/Spanish/delete-branch-locally.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/translations/Tamil/additional-material.ta.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/translations/Turkish/Useful-links-for-further-learning.tr.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/translations/Turkish/amending-a-commit.tr.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/translations/Turkish/configuring-git.tr.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/translations/Turkish/moving-a-commit-to-a-different-branch.tr.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/translations/Turkish/removing-a-file.tr.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/translations/Turkish/removing-branch-from-your-repository.tr.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/translations/Turkish/resolving-merge-conflicts.tr.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/translations/Turkish/reverting-a-commit.tr.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/translations/Turkish/squashing-commits.tr.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/translations/Turkish/stashing-a-file.tr.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/translations/Turkish/undoing-a-commit.tr.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/translations/Urdu/additional-material.ur.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/additional-material/translations/Urdu/amending-a-commit.ur.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/cli-tool-tutorials/git-cli-tutorial-kannada.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/cli-tool-tutorials/github-cli-tutorial-sinhala.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/cli-tool-tutorials/github-cli-tutorial-tamil.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/cli-tool-tutorials/github-cli-tutorials-francais.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/gui-tool-tutorials/translations/Greek/github-windows-intellij-tutorial.gr.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/gui-tool-tutorials/translations/Greek/github-windows-vs2017-tutorial.gr.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/gui-tool-tutorials/translations/github-desktop-tutorial.vn.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/translations/README.fil.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/translations/README.ge.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/translations/README.gh.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/translations/README.ng-pidgin.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/translations/README.no.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/translations/README.ps.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/translations/README.sk.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/translations/README.so.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/translations/gujarati/gujarati.md', LF will be replaced by CRLF the next time Git touches it
+[1mdiff --git a/.github/CODE_OF_CONDUCT.md b/.github/CODE_OF_CONDUCT.md[m
+[1mindex 8118d40..6cf8f19 100644[m
+[1m--- a/.github/CODE_OF_CONDUCT.md[m
+[1m+++ b/.github/CODE_OF_CONDUCT.md[m
+[36m@@ -130,4 +130,4 @@[m [mFor answers to common questions about this code of conduct, see the FAQ at[m
+ [v2.1]: https://www.contributor-covenant.org/version/2/1/code_of_conduct.html[m
+ [Mozilla CoC]: https://github.com/mozilla/diversity[m
+ [FAQ]: https://www.contributor-covenant.org/faq[m
+[31m-[translations]: https://www.contributor-covenant.org/translations[m
+\ No newline at end of file[m
+[32m+[m[32m[translations]: https://www.contributor-covenant.org/translations[m
+[1mdiff --git a/.github/CONTRIBUTING.md b/.github/CONTRIBUTING.md[m
+[1mindex 17c6fab..ff35351 100644[m
+[1m--- a/.github/CONTRIBUTING.md[m
+[1m+++ b/.github/CONTRIBUTING.md[m
+[36m@@ -83,4 +83,3 @@[m [mIf you're making changes to a translation, please request a review from our prev[m
+ | 中文 | [Chinese (Simplified)](../translations/README.zh-cn.md) | [<img width="100" src="https://avatars2.githubusercontent.com/u/6414741?s=400&v=4" alt="@yuzhoujr" />](https://github.com/yuzhoujr) |[m
+ | 中文 | [Chinese (Traditional)](../translations/README.zh-tw.md) | [<img width="100" src="https://avatars2.githubusercontent.com/u/27748281?s=460&v=4" alt="@WeiChienHsu" />](https://github.com/WeiChienHsu) |[m
+ | Zulu | [Zulu](../translations/README.zu.md) | [<img width="100" src="https://avatars.githubusercontent.com/u/36197725?v=4" alt="@zecollokaris" />](https://github.com/zecollokaris) []() |[m
+[31m-[m
+[1mdiff --git a/.github/workflows/auto-pr-merge.yml b/.github/workflows/auto-pr-merge.yml[m
+[1mindex 0b9c2cf..96372f5 100644[m
+[1m--- a/.github/workflows/auto-pr-merge.yml[m
+[1m+++ b/.github/workflows/auto-pr-merge.yml[m
+[36m@@ -4,7 +4,7 @@[m [mon:[m
+     types: [opened, synchronize][m
+     paths:[m
+       - 'Contributors.md' # <- only run if only contributors file changed[m
+[31m-    [m
+[32m+[m
+ jobs:[m
+   auto-merge:[m
+     runs-on: ubuntu-latest[m
+[36m@@ -12,7 +12,7 @@[m [mjobs:[m
+       contents: write[m
+       pull-requests: write[m
+       issues: write[m
+[31m-      [m
+[32m+[m
+     steps:[m
+       # Check out the repository code[m
+       - name: Checkout code[m
+[36m@@ -31,7 +31,7 @@[m [mjobs:[m
+           FILES_CHANGED=$(echo $PR_FILES | tr '\n' ' ')[m
+ [m
+           echo "files_changed=$FILES_CHANGED" >> $GITHUB_ENV[m
+[31m-          [m
+[32m+[m
+           if [[ "${FILES_CHANGED// /}" == "Contributors.md" ]]; then[m
+ [m
+             echo "only_contributors=true" >> $GITHUB_ENV[m
+[36m@@ -55,7 +55,7 @@[m [mjobs:[m
+             echo "one_line_change=false" >> $GITHUB_ENV[m
+           fi[m
+ [m
+[31m-      # Merge the pull request if it only modifies the Contributors.md file or if it fail to do then drop failure message as post [m
+[32m+[m[32m      # Merge the pull request if it only modifies the Contributors.md file or if it fail to do then drop failure message as post[m
+       - name: Merge PR[m
+         id: merge_pr[m
+         if: env.only_contributors == 'true' && env.one_line_change == 'true'[m
+[36m@@ -101,7 +101,7 @@[m [mjobs:[m
+                 const dev_share_link = "https://dev.to/new?prefill=---%0Atitle%3A%20First%20Contributions%3A%20learn%20how%20to%20contribute%20to%20open%20source%20projects%0Apublished%3A%20true%0Atags%3A%20opensource%2C%20beginners%2C%20tutorial%0A---%0A%0AI%20followed%20the%20hands-on%20tutorial%20in%20the%20Readme%20of%20first%20contributions%20and%20made%20my%20first%20pull%20request%20to%20the%20same%20repo.%0A%0A%0A%7B%25%20embed%20https%3A%2F%2Fgithub.com%2Ffirstcontributions%2Ffirst-contributions%20%25%7D";[m
+                 const hackernews_share_link = 'https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fgithub.com%2Ffirstcontributions%2Ffirst-contributions&t=Show%20HN%3A%20Hands%20on%20tutorial%20for%20open%20source%20contribution'[m
+                 const bluesky_share_link = 'https://bsky.app/intent/compose?text=Yay%21%20I%20just%20made%20my%20first%20open%20source%20contribution%20with%20%40FirstContributions.%20You%20can%20too%20by%20following%20a%20simple%20tutorial%20at%20https%3A%2F%2Fgoo.gl%2F66Axwe%20%23OpenSource%20%23FirstContribution%20%23Coding%20%23DevCommunity%20%23GitHub%20%23LearnToCode';[m
+[31m-                [m
+[32m+[m
+                 // social logo[m
+                 const repo_logo = "https://avatars0.githubusercontent.com/u/65761570?s=88&u=640f39b808c75c6b86460aa907dd030bcca2f3c7&v=4"[m
+                 const fb_logo = "https://ede

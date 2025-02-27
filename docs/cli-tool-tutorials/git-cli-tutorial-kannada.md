@@ -22,7 +22,7 @@
 ಇದಕ್ಕೆ ನಂತರ, ನಮ್ಮ ಸಿಸ್ಟಮ್‌ನಲ್ಲಿ `github-cli` ಸಾಧನವನ್ನು [ಆಧಿಕಾರಿಕ ಡಾಕ್ಯುಮೆಂಟೇಶನ್](https://github.com/cli/cli#installation) ಅನ್ನು ಅನುಸರಿಸಿ ಸ್ಥಾಪಿಸಬೇಕು.
 
 ಆಮೇಲೆ, CLI ಗೆ ಲಾಗಿನ್ ಆಗಬೇಕಾಗಿದೆ, ಆದ್ದರಿಂದ ಈ ಕಮಾಂಡ್ ಅನ್ನು ನಮೂದಿಸಿ:
-```bash 
+```bash
 gh auth login
 ```
 
@@ -38,7 +38,7 @@ gh repo fork firstcontributions/first-contributions
 
 # ನಿಮ್ಮ ಶಾಖೆಯನ್ನು ರಚಿಸಿ
 ನಾವು ಈ ಹಂತವನ್ನು git ಮೂಲಕ ಮಾಡುತ್ತೇವೆ, ಆದ್ದರಿಂದ ಈ ಕಮಾಂಡ್ ಅನ್ನು ನೀವು ರಚಿಸಿದ ಶಾಖೆಯ ಹೆಸರು ಇನ್‌ಪುಟ್ ಮಾಡಬೇಕಾಗಿದೆ, ಉದಾಹರಣೆಗೆ:
-```bash 
+```bash
 git switch -c add-john-doe
 ```
 
@@ -78,7 +78,7 @@ git push origin -u your-branch-name
 # ನಿಮ್ಮ ಬದಲಾವಣೆಗಳನ್ನು ವಿಮರ್ಶೆಗೆ ಸಲ್ಲಿಸಿ
 ನಮ್ಮ ರೆಪೋಸಿಟರಿಯ ಡೈರೆಕ್ಟರಿಯಲ್ಲಿ ಈ ಕಮಾಂಡ್ ಅನ್ನು ಓಡಿಸುವ ಮೂಲಕ, ವಿಮರ್ಶೆಗೆ ಪುಲ್ ರಿಕ್ವೆಸ್ಟ್ ಅನ್ನು ರಚಿಸಬಹುದು:
 
-```bash 
+```bash
 gh pr create --repo firstcontributions/first-contributions
 ```
 

@@ -46,7 +46,7 @@ Here’s a normalized version of the text without GitHub command examples:
 
 ## આગામી પગલાં શું છે?
 
-અભિનંદન! તમે યોગદાન આપવાની પ્રક્રિયા પૂરી કરી છે. 
+અભિનંદન! તમે યોગદાન આપવાની પ્રક્રિયા પૂરી કરી છે.
 
 તમારા યોગદાનનો ઉત્સવ મનાવો અને તેને શેર કરો.
 
@@ -58,6 +58,6 @@ Here’s a normalized version of the text without GitHub command examples:
 
 ## અન્ય સાધનોના ઉપયોગ કરતા ટ્યુટોરીયલ
 
---- 
+---
 
 Feel free to let me know if you need further modifications!

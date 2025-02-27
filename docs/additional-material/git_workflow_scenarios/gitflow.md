@@ -71,7 +71,7 @@ Using a dedicated branch to prepare releases makes it possible for one team to p
     git checkout master
     git checkout -b hotfix_branch
     ```
-    With git-flow extensions: 
+    With git-flow extensions:
     ```
     git flow hotfix start hotfix_branch
     ```

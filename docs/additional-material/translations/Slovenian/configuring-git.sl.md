@@ -68,10 +68,10 @@ Zaporedje uporabe med zgoraj omenjenimi metodami je sledeče `command-line > rep
 
 ## Dodatno
 
-Do sedaj smo delali samo z nastavitvami uporabnika, vendar obstaja še nekaj drugih konfiguracij. Nekatere med njimi so: 
+Do sedaj smo delali samo z nastavitvami uporabnika, vendar obstaja še nekaj drugih konfiguracij. Nekatere med njimi so:
 
 1.  `core.editor` - za določitev urejevalnika besedila, ki se uporabi za pisanje komentarjev, itd.
-2.  `commit.template` - za določitev datoteke v sistemu, ki se uporabi kot začetna predloga za commit 
+2.  `commit.template` - za določitev datoteke v sistemu, ki se uporabi kot začetna predloga za commit
 3.  `color.ui` - za določitev boolean vrednosti za uporabo barv v Git-ovem izpisu.
 
 Nekaj podrobnosti smo poenostavili za lažje razumevanje. Več si lahko prebereš na [git-scm.com](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration).

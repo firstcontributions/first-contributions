@@ -12,7 +12,7 @@
 É difícil. Sempre é difícil fazer algo pela primeira vez. Especialmente quando você está colaborando, cometer erros não é confortável. Mas o open sourece tem tudo a ver com colaboração e trabalho em equipe. Nós queremos simplificar a maneira de aprendizagem aos novos contribuidores de open source e ajudar em sua primeira contribuição.
 
 Lendo artigos e olhando tutoriais podem ajudar, mas o que é melhor do que realmente fazer as coisas sem estragar nada.
-Esse projeto visa em providenciar uma orientação e simplificar a maneira dos novatos a conseguirem a sua primeira contribuição. 
+Esse projeto visa em providenciar uma orientação e simplificar a maneira dos novatos a conseguirem a sua primeira contribuição.
 Lembre-se, quanto mais relaxado melhor será o aprendizado. Se você está procurando em fazer a sua primeira contribuição, siga esses passos abaixo. Nós prometemos a você que vai ser divertido.
 
 
@@ -21,7 +21,7 @@ Lembre-se, quanto mais relaxado melhor será o aprendizado. Se você está procu
 
 Baixe [GitKraken](https://www.gitkraken.com), Instale e abra.
 
-Provavelmente aparecerá um "Bem-vindo ao GitKraken" com um espaço para entrar na sua conta do GitHub e permitir que o GitKraken possa ter o acesso dela. 
+Provavelmente aparecerá um "Bem-vindo ao GitKraken" com um espaço para entrar na sua conta do GitHub e permitir que o GitKraken possa ter o acesso dela.
 
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-login.png" alt="login to GitHub" />
@@ -51,14 +51,14 @@ Quando estiver tudo certo com o diretório, clique em "Clone o repositório!"
 
 ## Crie uma Branch
 
-Clique o botão branch na barra de ferramentas. 
+Clique o botão branch na barra de ferramentas.
 
 Nomeie a sua branch "add-seu-nome", for example: "add-william-sutton"
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-branch.png" alt="name your branch" />
 
 
-## Faça mudanças necessárias e faça um commit nelas 
+## Faça mudanças necessárias e faça um commit nelas
 
 Agora abra o arquivo `Contributors.md` em um editor de texto e adicione o seu nome, em seguida salve-o.
 
@@ -95,7 +95,7 @@ Na barra de ferramentas, clique no botão Push.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-origin.png" alt="origin or branch" />
 
-Se você quer enviar as mudanças direto para branch master, você pode enviar para a branch de origem. Caso contrário, selecione uma branch apropriada para mandar.  
+Se você quer enviar as mudanças direto para branch master, você pode enviar para a branch de origem. Caso contrário, selecione uma branch apropriada para mandar.
 
 
 ## Envie as suas mudanças para revisão
