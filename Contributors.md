@@ -269,6 +269,7 @@ George Addai
 - [Teja](https://github.com/Billakanti-Teja)
 - [maplesyrup0423](https://github.com/maplesyrup0423)
 - zoro [https://github.com/]() Thanks
+- [mmwandla]
 - [Arman khan](https://github.com/Rage400)
 - [Uchi Fiti](https://github.com/uchi-fiti) Hi everyone, this is my first contribution. I hope to see more 🇲🇬 people here :)
 - [Bohne1225(https://github.com/Bohne1225)
