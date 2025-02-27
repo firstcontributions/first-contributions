@@ -10,6 +10,7 @@
 - [Daniel] (https://github.com/raysedev) This is my first contribution
 - [Purwatsate](https://github.com/Purwatsate) Thar Li Swa Bar
 - [Divyansh] (https://github.com/divyansh090)Hi, this is my first contribution :-)
+- [David Hope] (https://github.com/dhope1) - Dont be afraid to choose love.
   [Sandun Balasooriya](https://github.com/sandunx) Hello, World!
 - [Sami Ahmed] (https://github.com/SamiA1995) Hello
 - [Ausaf Ahmad Ansari] (https://github.com/ahmad-ausaf0/) - Life is an opportunity - Take it
