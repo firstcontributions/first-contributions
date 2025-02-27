@@ -22,6 +22,7 @@
 - [Dehemi Fabio](https://github.com/dreadlord-sedai) I am a Software Engineering Student, this is my first contribution, I look forward to be a Fullstack Engineer.
 - [Manikanta Thummuri](https://github.com/manikanta5827) I am a Aspiring Backend Engineer and this is my first contribution :) 25/02/2025 Tuesday 3:55pm
 - [Alisha]() Hey! I hope you have a great day today? If not don't worry help is on the way =)
+- [Hrishikesh Borkar](https://github.com/Hrishi75) Hi this is to learn how top contribute to open source projects.
 - [Jordan](https://github.com/jrsweig9021) 1337. 
 - [Steve](https://github.com/HtunThiha) Hello World!
 - [Hallie Ricci](https://github.com/halliericci6)Hi, this is my first contribution!
