@@ -59,7 +59,7 @@ git checkout -b add-crystel-ratsimbazafy
 
 ## Ataovy ny fanovana ilaina rehetra
 
-Sokafy ny rakitra `Contributors.md` ao amin'ny fanoratanao ny soratra, dia hampidiro ao ny anaranao, dia tehirizo.Raha sokafanao ny fandefasana kaomandy ka alefanao ny `git status`, dia ho hitanao fa misy ny zavatra niova. Hampidiro anaty lisitra mba ho afaka hiditra ao amin'ny sampana zay noforoninao ny fanovana amin'ny alalan'ny kaomandy `git add`: 
+Sokafy ny rakitra `Contributors.md` ao amin'ny fanoratanao ny soratra, dia hampidiro ao ny anaranao, dia tehirizo.Raha sokafanao ny fandefasana kaomandy ka alefanao ny `git status`, dia ho hitanao fa misy ny zavatra niova. Hampidiro anaty lisitra mba ho afaka hiditra ao amin'ny sampana zay noforoninao ny fanovana amin'ny alalan'ny kaomandy `git add`:
 
 ```
 git add Contributors.md
@@ -106,18 +106,18 @@ Dia hampidiro ny rohy misy ny takelak'ilay tetik'asa naotaonao fampifandraisana 
 git remote add upstream https://github.com/Roshanjossey/first-contributions
 ```
 
-Fomba iray atao mba hahahafantaran'i git fa misy zavatra vaovao ao amin'io takelaka io izay antsoina hoe `upstream`. Rehefa vita izay dia alaivo ny fanovana vaovao rehetra ao amin'ilay takelaka nampifandraisina: 
+Fomba iray atao mba hahahafantaran'i git fa misy zavatra vaovao ao amin'io takelaka io izay antsoina hoe `upstream`. Rehefa vita izay dia alaivo ny fanovana vaovao rehetra ao amin'ilay takelaka nampifandraisina:
 
 ```
 git fetch upstream
 ```
-Alefaso ao amin'ny sampana fiaingana misy ny takelakao anaty solosainao ny zavatra vaovao rehetra: 
+Alefaso ao amin'ny sampana fiaingana misy ny takelakao anaty solosainao ny zavatra vaovao rehetra:
 
 ```
 git rebase upstream/main
 ```
 
-Alefaso any amin'ny takelaka ao amin'ny github anao ny fanovana azonao rehetra: 
+Alefaso any amin'ny takelaka ao amin'ny github anao ny fanovana azonao rehetra:
 
 ```
 git push origin main
@@ -142,4 +142,3 @@ git push origin --delete <add-votre-nom>
 ## Ny atao manaraka ?
 
 Afaka miditra ho mpikambana ao amin'ny ekipanay ao amin'ny Slack ianao raha mila fanontaniana na fanampiana. [Hiditra ho mpikambana ao amin'ny Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
-

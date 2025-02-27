@@ -9,10 +9,10 @@
 |<img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="200">|GitKraken Edition|
 |---|---|
 
-C'est difficile. C'est toujours difficile, quand on fait quelque chose pour la première fois. Surtout lorsque vous collaborez, faire des erreurs n'est pas une chose confortable. Mais l'open source concerne avant tout la collaboration et le travail en équipe. 
+C'est difficile. C'est toujours difficile, quand on fait quelque chose pour la première fois. Surtout lorsque vous collaborez, faire des erreurs n'est pas une chose confortable. Mais l'open source concerne avant tout la collaboration et le travail en équipe.
 Nous voulions simplifier la manière dont les nouveaux contributeurs open source apprennent et contribuent pour la première fois.
 
-Lire des articles et regarder des tutoriels peut aider, mais quoi de mieux que de vraiment faire les choses sans tout gâcher. Ce projet vise à fournir des conseils et à simplifier la manière dont les novices font leur première contribution. 
+Lire des articles et regarder des tutoriels peut aider, mais quoi de mieux que de vraiment faire les choses sans tout gâcher. Ce projet vise à fournir des conseils et à simplifier la manière dont les novices font leur première contribution.
 Rappelez-vous, plus vous êtes détendu, mieux vous apprenez. Si vous cherchez à faire votre première contribution, suivez simplement les étapes simples ci-dessous. Nous vous promettons que ce sera amusant
 
 ## Git Kraken
@@ -68,7 +68,7 @@ Examinez les fichiers qui ont été modifiés et décidez de ceux que vous souha
 
 Once you have a good commit message ("Add <your-name> to Contributors list" sounds nice and descriptive) and are happy with your changes, you can hit "Stage all changes" to stage everything that is modified or "Stage File" to stage an individual file.
 
-Lorsque vous avez un bon message de commit ("Add <your-name> to Contributors list" semble joli et descriptif) et que vous êtes satisfait de vos modifications, 
+Lorsque vous avez un bon message de commit ("Add <your-name> to Contributors list" semble joli et descriptif) et que vous êtes satisfait de vos modifications,
 vous pouvez cliquer sur "Stage all changes" pour "stage" tout ce qui est modifié ou "Stage File" pour ajouter un fichier individuel.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-commit.png" alt="clone this repository" />

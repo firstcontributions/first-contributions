@@ -21,7 +21,7 @@ If there is a planet site, like planet.gnome.org or planet.mysql.com, start ther
 3. **Join an IRC channel**: Many open source projects have dedicated Internet relay chat (IRC) channels where developers and users hang out to discuss problems and development.
 Check the project's website for the details of what the channel is called and what IRC network it's found on.
 
-**Work with Tickets**  
+**Work with Tickets**
 Code is the heart of any open source project, but don't think that writing code is the only way to contribute.
 Maintenance of code and the systems surrounding the code often are neglected in the rush to create new features and to fix bugs.
 Look to these areas as an easy way to get your foot into a project.
@@ -115,7 +115,7 @@ and by creating a record for anyone else who has your problem in the future  and
 If you've got skills in web design and can help improve the website, and thus the public-facing image of the project, that's time well spent.
 Perhaps the project could use a graphic overhaul, or a logo to identify the project.
 These may be skills lacking in the community. I know I'd love it if I could get some graphic design help on my projects' websites.
-  
+
 15. **Write technical documentation**
   If you can write about how an application or piece of software works, you could write technical documentation about it. Especially open source projects that are looking to update, revamp, expand, or create technical docs for the general public to read. The more you write in plain english, the better. The best part, you don't have to be a programmer to write technical docs.
 

@@ -5,7 +5,7 @@
 
 # Những đóng góp đầu tiên
 
-Lần đầu tiên bạn làm điều gì đó có thể gặp nhiều trở ngại. Đặc biệt khi bạn đang cộng tác, sai lầm là điều rất khó tránh khỏi. 
+Lần đầu tiên bạn làm điều gì đó có thể gặp nhiều trở ngại. Đặc biệt khi bạn đang cộng tác, sai lầm là điều rất khó tránh khỏi.
 
 Việc đọc hướng dẫn có tác dụng, nhưng có gì tốt hơn là thực sự đóng góp trong môi trường thực tiễn? Dự án này là nhằm mục đích cung cấp sự hướng dẫn và đơn giản hóa cách thức những người mới tham gia đóng góp. Nếu bạn mong muốn thực hiện việc đóng góp đầu tiên của mình, chỉ cần làm theo các bước đơn giản bên dưới.
 

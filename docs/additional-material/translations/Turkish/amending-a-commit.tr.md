@@ -8,7 +8,7 @@ Bunu bir dosyayı düzenlemeye açmadan yapmak için:
 * ```git commit --amend -m "yeni commit mesajınız"``` komutunu girin.
 * Ardından değişiklikleri Github'a göndermek için ```git push origin <branch-name>``` komutunu çalıştırın.
 
-Not: Eğer sadece ```git commit --amend``` yazarsanız, bir metin editörü açılır ve commit mesajını düzenlemenizi önerir. 
+Not: Eğer sadece ```git commit --amend``` yazarsanız, bir metin editörü açılır ve commit mesajını düzenlemenizi önerir.
 ``-m`` anahtarını kullanmak editörün açılmasını engeller.
 
 ## Bir Committe Nasıl Değişiklik Yapılır?

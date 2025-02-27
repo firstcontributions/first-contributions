@@ -11,7 +11,7 @@
 É difícil. Sempre é difícil fazer algo pela primeira vez. Especialmente quando você está colaborando, cometer erros não é confortável. Mas o open sourece tem tudo a ver com colaboração e trabalho em equipe. Nós queremos simplificar a maneira de aprendizagem aos novos contribuidores de open source e ajudar em sua primeira contribuição.
 
 Lendo artigos e olhando tutoriais podem ajudar, mas o que é melhor do que realmente fazer as coisas sem estragar nada.
-Esse projeto visa em providenciar uma orientação e simplificar a maneira dos novatos a conseguirem a sua primeira contribuição. 
+Esse projeto visa em providenciar uma orientação e simplificar a maneira dos novatos a conseguirem a sua primeira contribuição.
 Lembre-se, quanto mais relaxado melhor será o aprendizado. Se você está procurando em fazer a sua primeira contribuição, siga esses passos abaixo. Nós prometemos a você que vai ser divertido.
 
 Se você não possui o Visual Studio 2017 na sua máquina, [instale-o aqui](https://www.visualstudio.com/downloads/).

@@ -116,7 +116,7 @@ _אם אינכם חשים בנוח להשתמש בשורת פקודה, [כאן �
 git clone "url you just copied"
 ```
 
-  
+
 כאשר הביטוי `"url you just copied"` (ללא סימני הגרשיים) הוא הקישור למאגר זה שביצעתם עליו FORK קודם לכן. ראו את הצעדים הקודמים כדי להשיג את הקישור.
 
 <img align="left" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
@@ -127,7 +127,7 @@ git clone "url you just copied"
 git clone git@github.com:this-is-you/first-contributions.git
 ```
 
-  
+
 כאשר `this-is-you` הוא שם המשתמש שלכם ב-GitHub. לכאן אתם מעתיקים את התוכן של מאגר first-contributions ב-GitHub לתוך המחשב שלכם.
 
 ## יצירת ענף
@@ -138,7 +138,7 @@ git clone git@github.com:this-is-you/first-contributions.git
 cd first-contributions
 ```
 
-  
+
 כעת, צרו ענף (branch) בשימוש הפעולה `git switch`:
 
 ```bash
@@ -154,7 +154,7 @@ git switch -c add-alonzo-church
 <div dir="rtl">
 <details>
 <summary><strong>אם אתה מקבל שגיאות בעת השימוש ב-git switch, לחץ כאן:</strong></summary>
-<p dir="rtl">אם מופיעה הודעת השגיאה <strong>"Git: <code>switch</code> is not a git command. See <code>git –help</code>"</strong>,  
+<p dir="rtl">אם מופיעה הודעת השגיאה <strong>"Git: <code>switch</code> is not a git command. See <code>git –help</code>"</strong>,
 זה כנראה בגלל שאתה משתמש בגרסה ישנה של Git.</p>
 
 <p>במקרה כזה, נסה להשתמש במקום זאת בפקודה <code>git checkout</code>:</p>
@@ -168,7 +168,7 @@ git checkout -b your-new-branch-name
 
 ## ערכו שינויים הכרחיים ובצעו להם commit
 
-  
+
 כעת פתחו את הקובץ `Contributors.md` בתוכנת עריכת טקסט והוסיפו את השם שלכם אליו. אל תוסיפו את השם בתחילת הקובץ או בסופו. הוסיפו אותו באמצע. לאחר שסיימתם, שמרו את הקובץ.
 
 <img align="left" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
@@ -181,26 +181,26 @@ git checkout -b your-new-branch-name
 git add Contributors.md
 ```
 
-  
+
 עכשיו, בצעו commit לשינויים הללו תוך שימוש בפקודת `git commit`:
 
 ```bash
 git commit -m "Add your-name to Contributors list"
 ```
 
-  
+
 החליפו את הביטוי `your-name` עם השם שלכם.
 
 ## לדחוף את השינויים ל-GitHub
 
-  
+
 דחפו את השינויים תוך שימוש בפקודה `git push`:
 
 ```bash
 git push origin add-your-branch-name
 ```
 
-  
+
 החליפו את `add-your-branch-name` עם השם של הענף שיצרתם מוקדם יותר.
 
 <div dir="rtl">
@@ -239,7 +239,7 @@ git remote set-url origin git@github.com:your-username/your_repo.git
 
 ## הגישו את השינויים שלכם לסקירה
 
-  
+
 אם תלכו למאגר שלכם ב-GitHub, תוכלו לראות כפתור עם הכיתוב `Compare & pull request`. לחצו על כפתור זה.
 
 <img style="float: left;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />

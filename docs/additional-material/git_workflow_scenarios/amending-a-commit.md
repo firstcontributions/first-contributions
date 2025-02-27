@@ -51,7 +51,7 @@ That way, both changes would be in one single commit.
 
 If the commit that you like to amend has been already pushed to the remote, amending this commit will lead to your local history being diverged from the remote (since you basically create a new commit and replace the amended one). Since you want to change the commit on the remote, you need to overwrite the remotes history on your branch. To achieve that, follow the same procedure as described above, but use force push when pushing your commit to the remote.
 
-> **Warning**  
+> **Warning**
 > Force pushing to the remote will overwrite (and discard) changes on the remote and only keep your pushed commits. Changes on the remote, that other team members did in the meantime, will be overwritten as well.
 
 This is how you modify the last recent commit on the remote:

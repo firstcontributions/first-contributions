@@ -1,4 +1,4 @@
-# Undo local commits 
+# Undo local commits
 
 To undo a local commit, all you need to do is
 ```

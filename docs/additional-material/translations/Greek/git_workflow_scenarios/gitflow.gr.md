@@ -75,7 +75,7 @@
     git checkout master
     git checkout -b hotfix_branch
     ```
-    Με τις επεκτάσεις git-flow: 
+    Με τις επεκτάσεις git-flow:
     ```
     git flow hotfix start hotfix_branch
     ```

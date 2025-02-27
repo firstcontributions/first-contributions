@@ -10,7 +10,7 @@
 </div>
 <br />
 <div dir="rtl">
-اگر آپ کمانڈ لائن سے واقف نہیں ہیں تو، یہاں 
+اگر آپ کمانڈ لائن سے واقف نہیں ہیں تو، یہاں
 <a href="#tutorials-using-other-tools">جى يو آئ ٹولز استعمال کرنے كا طریقہ</a>
  موجود ہے۔
 </div>
@@ -129,8 +129,8 @@ git push origin <add-your-name>
 
 ## <div dir="rtl">آگے کیا کرنا چاہیے؟</div>
 <div dir="rtl">
-مبارک ہو! آپ نے کامیابی سے 
- فورک -> کلون -> ترمیم -> پل ریکویسٹ ورک فلو 
+مبارک ہو! آپ نے کامیابی سے
+ فورک -> کلون -> ترمیم -> پل ریکویسٹ ورک فلو
  مکمل کر لیا ہے جو آپ کو اکثر ایک شراکت دار کے طور پر ملے گا
 
 اپنی شراکت کا جشن منائیں اور اپنے دوستوں اور فالوورز کے ساتھ اسے
@@ -143,7 +143,7 @@ git push origin <add-your-name>
 </div>
 <br />
 <div dir="rtl">
-اب ہم آپ کو دوسرے پراجيكٹس میں شراکت کرنے کے لئے دعوت ديتے ہیں۔ 
+اب ہم آپ کو دوسرے پراجيكٹس میں شراکت کرنے کے لئے دعوت ديتے ہیں۔
 ادھر آپ چند
 <a href="https://firstcontributions.github.io/#project-list"> مقبول ذخیروں</a>
   میں کچھ ابتدائی سطح کے مسائل حل کر سکتے ہیں. آگے بڑھیے اور مزید جاننے کے لئے ان ذخیروں پر جائیے۔
@@ -158,7 +158,7 @@ git push origin <add-your-name>
 | --- | --- | --- | --- | --- | --- |
 | [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md) | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md) | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md) | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md) | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md) | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md) |
 
-<div dir="rtl">  
+<div dir="rtl">
 اس منصوبے کی حمایت کی ہے
 </div>
 <p>
