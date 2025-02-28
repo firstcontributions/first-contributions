@@ -1,7 +1,11 @@
 # Contributors
+- [eattrenclenhard] (https://github.com/eattrenclenhard) The omnipotent Eat Tren Clen Hard descended from the heavens, his presence radiating divine light and reverence. In that moment, the very air seemed to pause, as if the world itself bowed to honor his arrival.
+- [mochasweet] (https://github.com/mochasweet) Make Github Great Again!
 - [vatsalya] (https://github.com/VatsalyaBetala)
+- [wazzan] (https://github.com/wazzan) jj says hi
 - [Sujit] (https://github.com/KushwahaPrasadSujit)
 - [jhena] (https://github.com/jhenals) This is my first contribution!
+-[SanjanaSree] (https://github.com/Sanjanasree02)I am Sanjana from India ,  Excited for my first Contribution:)! 
 - [Abayomi] (itsabayomi2)
 - [Ayaz-75] (https://github.com/Ayaz-75) This is Ayaz Ali, I am a python developer and this is my very first open-source contribution.
 - [Krishnan K](https://github.com/Krishnan005K) The Three important things of Life are **Health ,Wealth, Relationship**
@@ -29,6 +33,7 @@
 - [WadeHsu0](https://github.com/WadeHsu0)I love contributing ,happy every day!
 - [Rajat Abhay Sirsikar](https://github.com/rajat-sirsikar) I am a Civil Structural Engineer, currently doing Ph.D. I look forward to contributing to scientific open source projects and make some impact with my work.
 - [Miles Johnson](https://github.com/milesJohnsonDev) Looking to contribute to open source projects
+- [Jacob M Rivera](https://github.com/jacobmrivera) Let's go! 🤠
 - [Amruta Suresh Monde](https://github.com/Amruta241197) I look forward to contribute in open source projects.
 - [Harsh Surendran](https://github.com/HarshSurendran) Hey!
 - [Mursaleen Nisar](https://github.com/mursaleen-nisar) I'm a professional full stack web developer and an experienced freelancer and this is my first open source contribution.
@@ -1601,6 +1606,7 @@ Aadyant Agrawal
 - [Antonio Fábio](https://github.com/zodiecko)
 - [Alanto Manu](https://github.com/alantomanu)
 - [Shivam Mishra](https://github.com/29shivam99)
+- [Aaditya Chunekar](https://github.com/Aaditya-Chunekar)
 - [Alex Thompson](https://github.com/Alex-Inems)
 - [Anand Shende](https://github.com/anandshende)
 - [Arisa Abiko](https://github.com/arisaabiko)
@@ -3770,6 +3776,7 @@ Aadyant Agrawal
 - [quzq] (https://github.com/quzq)
 - [pk1705] (https://github.com/pk1705)
 - [hugohtz05] (https://github.com/hugohtz05)
+- [Azeez Abdulrahman] (https://github.com/Rahman504) Hello from Nigeria, this is my first contribution
 - [Mohamed Arbani] (https://github.com/MohamedArbani) OIIAOIIA 🐈🔄🔄🔄 ^\_^
 - [Sathya Ram] (https://github.com/BITS08SATHYA) Prefect timing bros!
 - [Prince Yadav](https://github.com/iprinceyadav) this is myfirst contributition
@@ -3877,3 +3884,5 @@ Aadyant Agrawal
 - [Jian Du](https://github.com/dj2717166816) Hello, my first contribution!
 - [Vaud Keith] (https://github.com/VaudKK) Hi, my first contribution
 - [Usman Javed] (https://github.com/ujavedodl) Hello from Pakistan, This is my first contribution!
+- [lonelycat](https://github.com/zhao-jingyan) Hello from China
+- [Julietowah](https://github.com/julietowah) Hello from Nigeria, This is my first contribution!
