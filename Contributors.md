@@ -1,4 +1,5 @@
 # Contributors
+- [eattrenclenhard] (https://github.com/eattrenclenhard) The omnipotent Eat Tren Clen Hard descended from the heavens, his presence radiating divine light and reverence. In that moment, the very air seemed to pause, as if the world itself bowed to honor his arrival.
 - [mochasweet] (https://github.com/mochasweet) Make Github Great Again!
 - [vatsalya] (https://github.com/VatsalyaBetala)
 - [wazzan] (https://github.com/wazzan) jj says hi
