@@ -1,5 +1,6 @@
 # Contributors
 - [vatsalya] (https://github.com/VatsalyaBetala)
+- [wazzan] (https://github.com/wazzan) jj says hi
 - [Sujit] (https://github.com/KushwahaPrasadSujit)
 - [jhena] (https://github.com/jhenals) This is my first contribution!
 - [Abayomi] (itsabayomi2)
