@@ -1213,6 +1213,7 @@ Aadyant Agrawal
 - [lepickel](https://github.com/lepickel)
 - [Furanimus](https://github.com/Furanimus)
 - [Adarsh84](https://github.com/adarshM84)
+- [Kent0011](https://github.com/Kent0011)
 - [Rathin Subramaniam](https://github.com/rathinsubra)
 - [hectoru10](https://github.com/Hectoru10)
 - [Ahorts](https://github.com/Ahorts)
