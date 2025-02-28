@@ -3775,6 +3775,7 @@ hello world, and hello world
 - [quzq] (https://github.com/quzq)
 - [pk1705] (https://github.com/pk1705)
 - [hugohtz05] (https://github.com/hugohtz05)
+- [Azeez Abdulrahman] (https://github.com/Rahman504) Hello from Nigeria, this is my first contribution
 - [Mohamed Arbani] (https://github.com/MohamedArbani) OIIAOIIA 🐈🔄🔄🔄 ^\_^
 - [Sathya Ram] (https://github.com/BITS08SATHYA) Prefect timing bros!
 - [Prince Yadav](https://github.com/iprinceyadav) this is myfirst contributition
