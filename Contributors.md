@@ -5,6 +5,7 @@
 - [wazzan] (https://github.com/wazzan) jj says hi
 - [Sujit] (https://github.com/KushwahaPrasadSujit)
 - [jhena] (https://github.com/jhenals) This is my first contribution!
+-[SanjanaSree] (https://github.com/Sanjanasree02)I am Sanjana from India ,  Excited for my first Contribution:)! 
 - [Abayomi] (itsabayomi2)
 - [Ayaz-75] (https://github.com/Ayaz-75) This is Ayaz Ali, I am a python developer and this is my very first open-source contribution.
 - [Krishnan K](https://github.com/Krishnan005K) The Three important things of Life are **Health ,Wealth, Relationship**
@@ -60,6 +61,7 @@
 - [xKensho47](https://github.com/xKensho47)
 - [uqnquvwfkq](https://github.com/uqnquvwfkq)
 - [adumic02](https://github.com/adumic02)
+- [n3lbits](https://github.com/n3lbits) FINALLY.
 - [M1D0R1x](https://github.com/M1D0R1x) This is my first contribution more to come
 - [Krubanandan](https://github.com/Krubanandan) This is my first contribution
 - [Juan Morales](https://github.com/JuanMorales1025/first-contributions) This is my first contribution
@@ -329,6 +331,7 @@ George Addai
 - ryanmathew
 - sofí cruz
 - [HassanKoraim]
+- [Saajan](https://github.com/saajann)
 - [Thaddeus](https://github.com/madladthad42) yipeeeeeeeeeeee
 - [Sakshi Garg](https://github.com/sakshi-garg) Hiiii
 - [Ayush Rai] (https://github.com/7xAyush) Hello guys, this is my first contribution. Hope you guys also pushing your limits.
@@ -541,6 +544,7 @@ Aadyant Agrawal
 - [Debasis Dash] (https://github.com/dashDebasis123)
 - [Abdalla Hassan](https://github.com/GitAbdalla)
 - [Shaikat](https://github.com/Shaikats/)
+- [piyush] i am batman
 - [shadow-is-hear]
 - [Dobra Palovich]
 - [vishnu vardhan reddy](https://github.com/vishnub123)
@@ -810,6 +814,7 @@ Aadyant Agrawal
 - [Vorahpong Mean](https://github.com/VorahPong)
 - [Vivek Chudasama](https://github.com/vivekchudasama-2004)
 - [Borzoi Lover](https://github.com/mmitros1)
+- [Sharan] (https://github.com/sharananure)
 - Infernal Blueberry
 - [Haxaru](https://github.com/Haxaru) It's amazing to see so many contributors <3
 - Annie was here
@@ -3627,6 +3632,7 @@ Aadyant Agrawal
 - [Marlar-tz](https://github.com/marlar-tz)
 - [Incognito10011](https://github.com/Incognito10011)
 - [Di Heqiu](https://github.com/Di-Heqiu)
+- [Fabian](https://github.com/fabian488)
 - [Sahil Alr](https://github.com/sahilalr)
 - [Kireeti] (https://github.com/kireeti2112)
 - [Mamidisetty](https://github.com/Mamidisetty)
@@ -3689,7 +3695,7 @@ Aadyant Agrawal
 - [Shreya B](https://github.com/Shreyaa100)
 - [beiminghaoze](https://github.com/beiminghaoze)
 - [Akanksha Uniyal](https://github.com/akankshauniyal)
-hello world, and hello world
+- [PeanutInMay](https://github.com/PeanutInMay)hello world, and hello world
 - [Deepak]
 - [ohad b]
 - [Ryan DeFalco] Have a Great Day!
@@ -3775,6 +3781,7 @@ hello world, and hello world
 - [quzq] (https://github.com/quzq)
 - [pk1705] (https://github.com/pk1705)
 - [hugohtz05] (https://github.com/hugohtz05)
+- [Azeez Abdulrahman] (https://github.com/Rahman504) Hello from Nigeria, this is my first contribution
 - [Mohamed Arbani] (https://github.com/MohamedArbani) OIIAOIIA 🐈🔄🔄🔄 ^\_^
 - [Sathya Ram] (https://github.com/BITS08SATHYA) Prefect timing bros!
 - [Prince Yadav](https://github.com/iprinceyadav) this is myfirst contributition
@@ -3804,6 +3811,7 @@ hello world, and hello world
 - [nadhamsaipallavi](https://github.com/nadhamsaipallavi)
 - [Holden Brown](https://github.com/crabnoise)
 - [nazareno moreno](https://github.com/nazarenomoreno) LAS MALVINAS SON ARGENTINAS
+- [PeanutInMay](https://github.com/PeanutInMay) hello world, delight to git here!
 - [Chase Russo](https://github.com/chaserusso) Hello from the US!
 - Hi This is Ismail
 - [Prajwala P](https://github.com/prajp98) Hello
@@ -3881,4 +3889,6 @@ hello world, and hello world
 - [Jian Du](https://github.com/dj2717166816) Hello, my first contribution!
 - [Vaud Keith] (https://github.com/VaudKK) Hi, my first contribution
 - [Usman Javed] (https://github.com/ujavedodl) Hello from Pakistan, This is my first contribution!
-- [lonelycat](https://github.com/zhao-jingyan) Hello from China!
+- [lonelycat](https://github.com/zhao-jingyan) Hello from China
+- [Julietowah](https://github.com/julietowah) Hello from Nigeria, This is my first contribution!
+- [jsierra] (https://github.com/jesussierrait) 
