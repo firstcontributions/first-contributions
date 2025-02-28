@@ -1,7 +1,14 @@
 # Contributors
+- [mochasweet](https://github.com/mochasweet) Make Github Great Again!
+- [eattrenclenhard](https://github.com/eattrenclenhard) The omnipotent Eat Tren Clen Hard descended from the heavens, his presence radiating divine light and reverence. In that moment, the very air seemed to pause, as if the world itself bowed to honor his arrival.
+- [mochasweet] (https://github.com/mochasweet) Make Github Great Again!
+- [eattrenclenhard] (https://github.com/eattrenclenhard) The omnipotent Eat Tren Clen Hard descended from the heavens, his presence radiating divine light and reverence. In that moment, the very air seemed to pause, as if the world itself bowed to honor his arrival.
+- [mochasweet] (https://github.com/mochasweet) Make Github Great Again!
 - [vatsalya] (https://github.com/VatsalyaBetala)
+- [wazzan] (https://github.com/wazzan) jj says hi
 - [Sujit] (https://github.com/KushwahaPrasadSujit)
 - [jhena] (https://github.com/jhenals) This is my first contribution!
+-[SanjanaSree] (https://github.com/Sanjanasree02)I am Sanjana from India ,  Excited for my first Contribution:)! 
 - [Abayomi] (itsabayomi2)
 - [Ayaz-75] (https://github.com/Ayaz-75) This is Ayaz Ali, I am a python developer and this is my very first open-source contribution.
 - [Krishnan K](https://github.com/Krishnan005K) The Three important things of Life are **Health ,Wealth, Relationship**
@@ -22,15 +29,18 @@
 - [Dehemi Fabio](https://github.com/dreadlord-sedai) I am a Software Engineering Student, this is my first contribution, I look forward to be a Fullstack Engineer.
 - [Manikanta Thummuri](https://github.com/manikanta5827) I am a Aspiring Backend Engineer and this is my first contribution :) 25/02/2025 Tuesday 3:55pm
 - [Alisha]() Hey! I hope you have a great day today? If not don't worry help is on the way =)
+- [Hrishikesh Borkar](https://github.com/Hrishi75) Hi this is to learn how top contribute to open source projects.
 - [Jordan](https://github.com/jrsweig9021) 1337. 
 - [Steve](https://github.com/HtunThiha) Hello World!
 - [Hallie Ricci](https://github.com/halliericci6)Hi, this is my first contribution!
 - [WadeHsu0](https://github.com/WadeHsu0)I love contributing ,happy every day!
 - [Rajat Abhay Sirsikar](https://github.com/rajat-sirsikar) I am a Civil Structural Engineer, currently doing Ph.D. I look forward to contributing to scientific open source projects and make some impact with my work.
 - [Miles Johnson](https://github.com/milesJohnsonDev) Looking to contribute to open source projects
+- [Jacob M Rivera](https://github.com/jacobmrivera) Let's go! 🤠
 - [Amruta Suresh Monde](https://github.com/Amruta241197) I look forward to contribute in open source projects.
 - [Harsh Surendran](https://github.com/HarshSurendran) Hey!
 - [Mursaleen Nisar](https://github.com/mursaleen-nisar) I'm a professional full stack web developer and an experienced freelancer and this is my first open source contribution.
+- [GediminasLA](https://github.com/GediminasLA) See you in other OS projects!
 - [Vedant Ere] (https://github.com/vedant-ere) First of many 
 - [Aniket Verma] (https://github.com/Aniket7545) Hi, this is my first open source contribution.
 - [Kourosh Altafi](https://github.com/kouroshai) Hello Everybody, First from IRAN, 2025
@@ -54,6 +64,7 @@
 - [xKensho47](https://github.com/xKensho47)
 - [uqnquvwfkq](https://github.com/uqnquvwfkq)
 - [adumic02](https://github.com/adumic02)
+- [n3lbits](https://github.com/n3lbits) FINALLY.
 - [M1D0R1x](https://github.com/M1D0R1x) This is my first contribution more to come
 - [Krubanandan](https://github.com/Krubanandan) This is my first contribution
 - [Juan Morales](https://github.com/JuanMorales1025/first-contributions) This is my first contribution
@@ -323,6 +334,7 @@ George Addai
 - ryanmathew
 - sofí cruz
 - [HassanKoraim]
+- [Saajan](https://github.com/saajann)
 - [Thaddeus](https://github.com/madladthad42) yipeeeeeeeeeeee
 - [Sakshi Garg](https://github.com/sakshi-garg) Hiiii
 - [Ayush Rai] (https://github.com/7xAyush) Hello guys, this is my first contribution. Hope you guys also pushing your limits.
@@ -365,6 +377,7 @@ George Addai
 - [David Jahn](https://github.com/DavidJahnPY)
 - [Lestlin Robins](https://github.com/LestlinRobins)
 - [Rajeev Kumar Ranjan](https://github.com/rajeev-2711) First contribution
+- I'm making my first contribution by adding up my name [Zacky Mohamed Aathif](https://github.com/Aathifzacky)
 - [Shankar Reddy](https://github.com/Shankar3804)
 - [Farhiya Abdalla](https://github.com/rhiyality)
 - [Chanrady Ho](https://github.com/cradyh)
@@ -535,6 +548,7 @@ Aadyant Agrawal
 - [Debasis Dash] (https://github.com/dashDebasis123)
 - [Abdalla Hassan](https://github.com/GitAbdalla)
 - [Shaikat](https://github.com/Shaikats/)
+- [piyush] i am batman
 - [shadow-is-hear]
 - [Dobra Palovich]
 - [vishnu vardhan reddy](https://github.com/vishnub123)
@@ -804,6 +818,7 @@ Aadyant Agrawal
 - [Vorahpong Mean](https://github.com/VorahPong)
 - [Vivek Chudasama](https://github.com/vivekchudasama-2004)
 - [Borzoi Lover](https://github.com/mmitros1)
+- [Sharan] (https://github.com/sharananure)
 - Infernal Blueberry
 - [Haxaru](https://github.com/Haxaru) It's amazing to see so many contributors <3
 - Annie was here
@@ -1199,6 +1214,7 @@ Aadyant Agrawal
 - [lepickel](https://github.com/lepickel)
 - [Furanimus](https://github.com/Furanimus)
 - [Adarsh84](https://github.com/adarshM84)
+- [Kent0011](https://github.com/Kent0011)
 - [Rathin Subramaniam](https://github.com/rathinsubra)
 - [hectoru10](https://github.com/Hectoru10)
 - [Ahorts](https://github.com/Ahorts)
@@ -1600,6 +1616,7 @@ Aadyant Agrawal
 - [Antonio Fábio](https://github.com/zodiecko)
 - [Alanto Manu](https://github.com/alantomanu)
 - [Shivam Mishra](https://github.com/29shivam99)
+- [Aaditya Chunekar](https://github.com/Aaditya-Chunekar)
 - [Alex Thompson](https://github.com/Alex-Inems)
 - [Anand Shende](https://github.com/anandshende)
 - [Arisa Abiko](https://github.com/arisaabiko)
@@ -3621,6 +3638,7 @@ Aadyant Agrawal
 - [Marlar-tz](https://github.com/marlar-tz)
 - [Incognito10011](https://github.com/Incognito10011)
 - [Di Heqiu](https://github.com/Di-Heqiu)
+- [Fabian](https://github.com/fabian488)
 - [Sahil Alr](https://github.com/sahilalr)
 - [Kireeti] (https://github.com/kireeti2112)
 - [Mamidisetty](https://github.com/Mamidisetty)
@@ -3683,6 +3701,7 @@ Aadyant Agrawal
 - [Shreya B](https://github.com/Shreyaa100)
 - [beiminghaoze](https://github.com/beiminghaoze)
 - [Akanksha Uniyal](https://github.com/akankshauniyal)
+- [PeanutInMay](https://github.com/PeanutInMay)hello world, and hello world
 - [Deepak]
 - [ohad b]
 - [Ryan DeFalco] Have a Great Day!
@@ -3768,6 +3787,7 @@ Aadyant Agrawal
 - [quzq] (https://github.com/quzq)
 - [pk1705] (https://github.com/pk1705)
 - [hugohtz05] (https://github.com/hugohtz05)
+- [Azeez Abdulrahman] (https://github.com/Rahman504) Hello from Nigeria, this is my first contribution
 - [Mohamed Arbani] (https://github.com/MohamedArbani) OIIAOIIA 🐈🔄🔄🔄 ^\_^
 - [Sathya Ram] (https://github.com/BITS08SATHYA) Prefect timing bros!
 - [Prince Yadav](https://github.com/iprinceyadav) this is myfirst contributition
@@ -3797,6 +3817,7 @@ Aadyant Agrawal
 - [nadhamsaipallavi](https://github.com/nadhamsaipallavi)
 - [Holden Brown](https://github.com/crabnoise)
 - [nazareno moreno](https://github.com/nazarenomoreno) LAS MALVINAS SON ARGENTINAS
+- [PeanutInMay](https://github.com/PeanutInMay) hello world, delight to git here!
 - [Chase Russo](https://github.com/chaserusso) Hello from the US!
 - Hi This is Ismail
 - [Prajwala P](https://github.com/prajp98) Hello
@@ -3874,3 +3895,7 @@ Aadyant Agrawal
 - [Jian Du](https://github.com/dj2717166816) Hello, my first contribution!
 - [Vaud Keith] (https://github.com/VaudKK) Hi, my first contribution
 - [Usman Javed] (https://github.com/ujavedodl) Hello from Pakistan, This is my first contribution!
+- [lonelycat](https://github.com/zhao-jingyan) Hello from China
+- [Julietowah](https://github.com/julietowah) Hello from Nigeria, This is my first contribution!
+- [jsierra] (https://github.com/jesussierrait) 
+- [Vedant] (https://github.com/Vedant-D04) 
