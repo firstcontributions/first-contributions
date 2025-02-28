@@ -1010,6 +1010,7 @@ Aadyant Agrawal
 - [mrxc0de](https://github.com/mrxc0de)
 - [Nihal Barua](https://github.com/nihal-bar)
 - [Nejma Latheef](https://github.com/Nejma-Latheef)
+- [Rajesh Khanna] (https://github.com/Rajeshkris2)
 - [Sanidhya Soni](https://github.com/sonisanidhya)
 - [Adrian Bajczyk](https://github.com/AdrianBajczyk)
 - [Bosco Tsin](https://github.com/boscomanilow128)
