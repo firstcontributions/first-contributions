@@ -54,6 +54,7 @@
 - [Karthik Sriramoju](https://github.com/karthiksriramoju) I'll be doing Opensource Seriously.
 - [Kanye west SOrry North] Lets Fork It Boys!!!!
 - [Daniel Dias](https://github.com/ecodelearn) Hello Brazil, my first contribution here!
+- [João Guilherme](https://github.com/Camarota-234) Hello from Brazil! 
 - [Jonatas Winston | CyberSecurity | @jonatas_winston](https://github.com/winstonsec)
 - [xKensho47](https://github.com/xKensho47)
 - [uqnquvwfkq](https://github.com/uqnquvwfkq)
