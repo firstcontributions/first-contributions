@@ -377,7 +377,7 @@ George Addai
 - [David Jahn](https://github.com/DavidJahnPY)
 - [Lestlin Robins](https://github.com/LestlinRobins)
 - [Rajeev Kumar Ranjan](https://github.com/rajeev-2711) First contribution
-- I'm making my first contribution by adding up my name [Zackya Mohamed Aathif](https://github.com/Aathifzacky)
+- I'm making my first contribution by adding up my name [Zacky Mohamed Aathif](https://github.com/Aathifzacky)
 - [Shankar Reddy](https://github.com/Shankar3804)
 - [Farhiya Abdalla](https://github.com/rhiyality)
 - [Chanrady Ho](https://github.com/cradyh)
