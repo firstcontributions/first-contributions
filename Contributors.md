@@ -19,6 +19,7 @@
 - [Divyansh] (https://github.com/divyansh090)Hi, this is my first contribution :-)
 - [David Hope] (https://github.com/dhope1) - Dont be afraid to choose love.
   [Sandun Balasooriya](https://github.com/sandunx) Hello, World!
+  [Yari yassi ](https://github.com/yassiEmp) no way i am here 🤣 !
 - [Sami Ahmed] (https://github.com/SamiA1995) Hello
 - [Andres Salgueiro] (https://github.com/Andres-Salgueiro) Open your eyes for the next Faiz
 - [Ausaf Ahmad Ansari] (https://github.com/ahmad-ausaf0/) - Life is an opportunity - Take it
