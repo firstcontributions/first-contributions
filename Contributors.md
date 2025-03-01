@@ -3086,6 +3086,7 @@ Aadyant Agrawal
 - [Jason Victor](https://github.com/jason-victor1)
 - [Nsikan Patrick Adaowo](https://github.com/NsikanPatrick)
 - [Valentyn Chernetskyi](https://github.com/Valik3201)
+- [Derek Smith Nautel](https://github.com/dsmithnautel)
 - [solola David](https://github.com/LetcodeitwithDave)
 - [Prajein C K](https://github.com/prajein)
 - [Abhiram A R](https://github.com/AbhiramAnanthu)
