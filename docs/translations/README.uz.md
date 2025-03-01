@@ -128,7 +128,10 @@ Tabriklayman! Siz horizgina contributor sifatida tez-tez uchraydigan standard is
 Hissangizni nishonlang va [web app](https://firstcontributions.github.io/#social-share)ga o'tish orqali do'stlaringizga va ergashuvchilaringizga ulashing.
 
 
-Agar sizga yordam kerak bo'lsa yoki savollaringiz bo'lsa, bizning slack jamoamizga qo'shilishingiz mumkin.[Slack jamoasiga qo'shiling](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
+Agar koʻproq mashq qilishni istasangiz, [kod hissalarini](https://github.com/roshanjossey/code-contributions) tekshiring.
+
+
+
 
 Endi boshqa proyektlarga hissa qo‘shishni boshlaylik. Siz boshlashingiz mumkin bo'lgan oson masalalar bilan proyektlar ro'yxatini tuzdik. Ko'zdan kechiring [web appdagi proyektlar ro'yxati](https://firstcontributions.github.io/#project-list).
 
