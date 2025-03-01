@@ -78,6 +78,7 @@
 - [white-yj8109](https://github.com/white-yj8109/first-contributions) This is my first contribution
 - [David-Nwosu](https://github.com/Pointbr8ker-123/first-contributions.git) This is my first contribution. Hope to achieve big dreams in the tech field
 - [Juan Rodriguez](https://github.com/CatConstellation/first-contributions.git) This is my first contribution
+- [Patrick Früh](https://github.com/PatrickFrueh) Hello, World!
 - [Prince Gabecha] I hope it turns out well!!
 - [Ian Ko](https://github.com/kosunghw) This is my first contribution!
 - [Andrew Martinez](https://github.com/andymartinez1) I love contributing!
