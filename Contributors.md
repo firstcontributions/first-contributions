@@ -3687,6 +3687,7 @@ Aadyant Agrawal
 - [Sebastian](https://github.com/sebiwsk)
 - [Andrei Nikitin](https://github.com/StudCramon) Believe in the You That Believes in Yourself!
 - [Naman Thakur](https://github.com/namanthakur22)
+- [zxuexingzhijie (Makoto)](https://github.com/zxuexingzhijie)
 - [Mohab](https://github.com/Mohba0p)
 - [csuer411](https://github.com/csuer411)
 - [Jay](https://github.com/jd20000)
@@ -3907,4 +3908,6 @@ Aadyant Agrawal
 - [Julietowah](https://github.com/julietowah) Hello from Nigeria, This is my first contribution!
 - [jsierra] (https://github.com/jesussierrait) 
 - [Vedant] (https://github.com/Vedant-D04)
+<<<<<<< HEAD
 - [Vatsal](https://github.com/IamVatsal) Hello, This is My First Contribution and This is The Beginning to My Open Source Contributions! 🤞 
+
