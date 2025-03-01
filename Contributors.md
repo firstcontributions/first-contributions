@@ -3687,6 +3687,7 @@ Aadyant Agrawal
 - [Sebastian](https://github.com/sebiwsk)
 - [Andrei Nikitin](https://github.com/StudCramon) Believe in the You That Believes in Yourself!
 - [Naman Thakur](https://github.com/namanthakur22)
+- [zxuexingzhijie (Makoto)](https://github.com/zxuexingzhijie)
 - [Mohab](https://github.com/Mohba0p)
 - [csuer411](https://github.com/csuer411)
 - [Jay](https://github.com/jd20000)
