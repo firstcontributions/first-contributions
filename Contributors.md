@@ -1944,6 +1944,7 @@ Aadyant Agrawal
 - [Pramendra Shukla](https://github.com/PramendraShukla1/)
 - [DanielV]
 - [Evelyn Xia](https://github.com/Evelyn406)
+- [Mikael Balin](https://github.com/mikaelbalin)
 - [Rohit R](https://github.com/Rohr0) 🔥
 - [17LingShan](https://github.com/17LingShan)
 - [Carlos Camacho](https://github.com/ccamacho02)
