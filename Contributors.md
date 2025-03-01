@@ -930,6 +930,7 @@ Aadyant Agrawal
 - [Flavio Souza](https://github.com/flaviopsouzajr)
 - [SujithaKC](https://github.com/SujithaKC) : Fixes, Features, and a Dash of Hope ✨
 - [Louis7363](https://github.com/louis7363)
+----> Let's try something new! All the best to all.
 - [lharsha2005](https://github.com/lharsha2005)
 - [aajliAhmed](https://github.com/aajliAhmed)
 - [mickaelk98](https://github.com/mickaelk98/)
