@@ -528,6 +528,7 @@ George Addai
   "Hey! Why is this duplicated? :("
 - [Omkar Nath](https://github.com/nathomkar799/first-contributions)
 - mridul vaishnav
+- [Adishree Bharadwaj](https://github.com/AdishreeB)
 Aadyant Agrawal
 - [einegbenosun](https://github.com/einegbenosun)
 - [Mrinal Singh](https://github.com/MrinalSingh04)
