@@ -3733,6 +3733,7 @@ Aadyant Agrawal
 - [Ervin Erviansyah](https://github.com/ervinerviansyah)
 - [oompyy](https://github.com/oompyy)
 - [Soumadeep46](https://personal-portfolio-esnr.onrender.com/)
+- [Abdulla kasim](https://github.com/kasim3.)##starting out
 - [Ajay Oraon](https://github.com/Ajay-oraon) ##Backend Developer
 - [Deelaka S] (https://github.com/Deelz07) #This is my first work on OS project!
 - [Anurag Wankhede] (https://github.com/AshRW) Lets Goo
