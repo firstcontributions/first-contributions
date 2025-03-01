@@ -38,6 +38,7 @@
 - [Jordan](https://github.com/jrsweig9021) 1337. 
 - [Steve](https://github.com/HtunThiha) Hello World!
 - [Hallie Ricci](https://github.com/halliericci6)Hi, this is my first contribution!
+-[Paul Gulti](https://github.com/Paulgulti) My first ever contribution. Hope it won't be my last 😉
 - [WadeHsu0](https://github.com/WadeHsu0)I love contributing ,happy every day!
 - [Rajat Abhay Sirsikar](https://github.com/rajat-sirsikar) I am a Civil Structural Engineer, currently doing Ph.D. I look forward to contributing to scientific open source projects and make some impact with my work.
 - [Miles Johnson](https://github.com/milesJohnsonDev) Looking to contribute to open source projects
