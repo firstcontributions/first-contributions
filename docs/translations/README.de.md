@@ -110,6 +110,9 @@ Glückwunsch! Du hast so eben den Standard-Workflow _Fork -> Clone -> Edit -> Pu
 
 Feiere deinen Beitrag zum Projekt und teile ihn mit deinen Freunden und Followern über unsere [Web-App](https://firstcontributions.github.io/#social-share).
 
+Du kannst unserem Team auf Slack beitreten, wenn du Hilfe benötigst oder Fragen hast.[Tritt dem Team auf Slack bei] (https://github.com/roshanjossey/code-contributions).
+
+
 Falls du jetzt zu anderen Projekten beitragen möchtest, dann haben wir für dich eine Liste von einfachen, ersten Issues zusammengestellt, an denen du arbeiten kannst. Diese Projekt-Liste findest du [in unserer Web-App](https://firstcontributions.github.io/#project-list).
 
 ## Tutorials mit anderen Tools
