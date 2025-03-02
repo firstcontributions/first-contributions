@@ -1,5 +1,7 @@
 # Contributors
-[turki013](https://github.com/turki013) Hello **Everyone!** this first contrbution !! `woow`
+
+- [Ayushman](https://github.com/ayushman1210) learning to deep dive into the open source world 
+- [turki013](https://github.com/turki013) Hello **Everyone!** this first contrbution !! `woow`
 - [satishkumarnarayanasamy](https://github.com/mochasweet) Make Github Great Again!
 - [CheDani](https://github.com/CheDaniSV) Hi everyone! 👾
 - [mochasweet](https://github.com/mochasweet) Make Github Great Again!
@@ -3642,6 +3644,11 @@
 - [Harshdeep](https://github.com/harshdeepsdhillon1) | Got a job !
 - [xpedroyx](https://github.com/xpedrotx) | apple pen!
 - [Amy](https://github.com/APape95)
+- Danish Raja  
+ Web Developer | Open Source Enthusiast  
+ GitHub: [Daniishraza](https://github.com/Daniishraza)  
+ "Learning, building, and contributing to open source!"
+ 
 - [FabioCanavarro](https://github.com/FabioCanavarro) | Goal: 10 Open source contribution before june
 - [Sukanya Ojha](https://github.com/khushi-engg)!goal to do in feb.
 - [Noah Adofina](https://github.com/itzRayys)
