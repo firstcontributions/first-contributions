@@ -743,7 +743,9 @@
 - [Stanislaw Mikolajczyk](https://github.com/mikolajczykstanislaw)
 - [Gautam Kumar](https://github.com/gautamkumar1)
 - wdbrk
-- [Kareem... ツ](https://github.com/kareematout)
+- [Kareem... ツ](https://github.com/kareematout)clone this repository
+
+Now cl
 - Manuel MG
 - [Anish Dusad](https://github.com/anishDusad)
   chakri
@@ -1035,7 +1037,9 @@
   [KishanSingh]
   [Abdul Rahim](https://github.com/Abdrahim-123)
   [Swapnil Nagras]
-  [AD](https://github.com/AtharvaD1407)
+  [AD](https://github.com/AtharvaD1407)clone this repository
+
+Now cl
   [Saksham Manav Was here ---->>>>>>>>] {https://github.com/SakshamManav}
   [Nitesh Choudhary](https://github.com/codewith-Nitesh)
   [Andres Rojo Mesa](https://github.com/AndresRojo12)
@@ -1114,7 +1118,9 @@
 - [Kelvin Yeboah](https://github.com/KelvCodes)
 - [Rajkumar](https://github.com/Rajkumar-Adepu)
 - [HKNain](https://github.com/HKNain)
-- [Arun](https://github.com/Arun8698)
+- [Arun](https://github.com/Arun8698)clone this repository
+
+Now cl
 - [Bhavika](https://github.com/bhavikab04)
 - [tuioe](https://github.com/tuioe5679)
 - [Snushev](https://github.com/snushev)
@@ -1646,7 +1652,9 @@
 - [Thales Winther](https://github.com/thaleswinther)
 - Lance Xie
 - [Mannaseh Merakanapalli](https://github.com/MannasehM)
-- [Chris Bruce](https://github.com/brucec5)
+- [Chris Bruce](https://github.com/brucec5)clone this repository
+
+Now cl
 - [Tornike Tsulukidze](https://github.com/TheMechanicalBeing)
 - [Alwin Sajan](https://github.com/Alwin-Sajan)
 - [Alonso Jimenez](https://github.com/alonsojmnz)
@@ -3969,3 +3977,4 @@ This is my first contribution.
 - [Ajit Ashwath](https://github.com/ajitashwathr10) My first contribution!
 - [Patthh](https://github.com/Patthh) My first contribution on OSS project, hope it's not my last ;)
 - [Jeyep8](https://github.com/Jeyep18) Someone taught me this :D, now Im open source contributorrr yey
+- [Mayur](http://github.com/Mayurbhaiishere) Learning how to learn people and code :_)
