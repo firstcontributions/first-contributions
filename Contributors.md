@@ -338,6 +338,7 @@
 - [xiaotian] (https://github.com/w5cschool) Hello world! let's make it done.
 - [ArmanBhatia] (https://github.com/ArmanBhatia0100) Thank for this opportunity.
   Add Bilal Hasan
+- [Ayushman] 赵梓健(https://github.com/ayushman1210) learning to deep dive into the open source world 
 - [Mpho Somo](https://github.com/programmingwithfantom) Hello, this is my first open-source contribution
 - [Gregory Alexandrou](https://github.com/gregalexan) Hello everyone this is my first contribution!
 - [Elton](https:/github.com/eltonbaidoo)
