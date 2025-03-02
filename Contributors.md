@@ -3818,6 +3818,7 @@
 - [Bryson Magee](https://github.com/OllieWalle13)
 - [bl3ssedc0de](https://github.com/nullx5)
 - [bagasadiii](https://github.com/bagasadiii)
+- [Maria Clement](https://github.com/mclem6) <3
 - [Hakim-2206](https://github.com/Hakim-2206/) Hi everyone !
 - [Tanjeeb Meheran Rohan](https://github.com/RippedKek/)
 - [zbinx]Thanks for the tutorial, really cool.
