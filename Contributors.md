@@ -74,6 +74,7 @@
 - [Kanye west SOrry North] Lets Fork It Boys!!!!
 - [Daniel Dias](https://github.com/ecodelearn) Hello Brazil, my first contribution here!
 - [Jonatas Winston | CyberSecurity | @jonatas_winston](https://github.com/winstonsec)
+- [Krishna Kumar](https://github.com/KrsihnaDev) Hellow(26-02-2025)
 - [xKensho47](https://github.com/xKensho47)
 - [uqnquvwfkq](https://github.com/uqnquvwfkq)
 - [adumic02](https://github.com/adumic02)
