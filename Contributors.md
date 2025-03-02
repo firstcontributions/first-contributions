@@ -1,14 +1,18 @@
 # Contributors
 
 - [satishkumarnarayanasamy](https://github.com/mochasweet) Make Github Great Again!
+- [CheDani](https://github.com/CheDaniSV) Hi everyone! 👾
 - [mochasweet](https://github.com/mochasweet) Make Github Great Again!
+- [Justin](https://github.com/S8TiN) hi
 - [eattrenclenhard](https://github.com/eattrenclenhard) The omnipotent Eat Tren Clen Hard descended from the heavens, his presence radiating divine light and reverence. In that moment, the very air seemed to pause, as if the world itself bowed to honor his arrival.
 - [mochasweet] (https://github.com/mochasweet) Make Github Great Again!
 - [eattrenclenhard] (https://github.com/eattrenclenhard) The omnipotent Eat Tren Clen Hard descended from the heavens, his presence radiating divine light and reverence. In that moment, the very air seemed to pause, as if the world itself bowed to honor his arrival.
 - [mochasweet] (https://github.com/mochasweet) Make Github Great Again!
+- [matthew] (https://github.com/MatthewW07) Consider the goals that a benefit of a sacrafice contributes to to optimize gain from loss!
 - [vatsalya] (https://github.com/VatsalyaBetala)
 - [vigneshwaran] (https://github.com/joyboy0711) Hey Hello everyone.. Nice to meet you all.
 - [wazzan] (https://github.com/wazzan) jj says hi
+- [Israt] (https://github.com/IsratErin) Here is my first contribution!!
 - [Sujit] (https://github.com/KushwahaPrasadSujit)
 - [jhena] (https://github.com/jhenals) This is my first contribution! -[SanjanaSree] (https://github.com/Sanjanasree02)I am Sanjana from India , Excited for my first Contribution:)!
 - [Abayomi] (itsabayomi2)
@@ -1186,6 +1190,7 @@
 - [Shawn Bai](https://github.com/xbai)
 - [Shankar-Balajee](https://github.com/Shankar-Balajee)
 - [amir asghar akbar mahaleh ghazian tapeh]
+- [Diego](https://github.com/Diego19871983)
 - [stevee14]
 - [Qi](https://github.com/Aubur9y)
 - [Aayush Poudel](https://github.com/aayushhh44)
@@ -3908,5 +3913,11 @@
 - [Usman Javed] (https://github.com/ujavedodl) Hello from Pakistan, This is my first contribution!
 - [lonelycat](https://github.com/zhao-jingyan) Hello from China
 - [Julietowah](https://github.com/julietowah) Hello from Nigeria, This is my first contribution!
-- [jsierra] (https://github.com/jesussierrait)
-- [Vedant] (https://github.com/Vedant-D04)
+- [jsierra] (https://github.com/jesussierrait) 
+- [Vedant] (https://github.com/Vedant-D04) 
+- [Shravan] (https://github.com/ShravanDeva5327) My first contribution I guess!!
+- [Hyeongi] (https://github.com/hhg000726) My first contribution
+-[Devesh Shrivas] (https://github.com/Deveshshrivas)
+- [Harumoto](https://github.com/Harumoto1103) My first contribution!
+- [Ajit Ashwath](https://github.com/ajitashwathr10) My first contribution!
+
