@@ -267,6 +267,7 @@
 - [Josue Igiraneza](https://github.com/IGIRANEZAJosue) Okaay lets's go OSS.
 - [Ange Karara Mbabazi](https://github.com/Angekarara)💃.
 - [Md Afridi Sk](https://github.com/hackerslash)
+- [Solomon Shilly](https://github.com/SolomonShilly/)
 - [Karan Chirde](https://github.com/chirdekaran262) Hello World, This is my first contribution........
 - [Akhilesh Pratap Shahi](https://github.com/shahiakhilesh1304) Note: This is my first contribution looking forward to contribute as a Data Scientist/Python Developer/Data Engineer/ AI Engineer.
 - [Aman Kaushik] https://github.com/amasick
