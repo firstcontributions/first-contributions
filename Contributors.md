@@ -1,5 +1,4 @@
 # Contributors
-- [awkwardpy](https://github.com/awkward-py) Make this GitHub repo legendary again! 🚀
 - [satishkumarnarayanasamy](https://github.com/mochasweet) Make Github Great Again!
 - [mochasweet](https://github.com/mochasweet) Make Github Great Again!
 - [eattrenclenhard](https://github.com/eattrenclenhard) The omnipotent Eat Tren Clen Hard descended from the heavens, his presence radiating divine light and reverence. In that moment, the very air seemed to pause, as if the world itself bowed to honor his arrival.
@@ -11,6 +10,7 @@
 - [wazzan] (https://github.com/wazzan) jj says hi
 - [Sujit] (https://github.com/KushwahaPrasadSujit)
 - [jhena] (https://github.com/jhenals) This is my first contribution!
+- [awkwardpy](https://github.com/awkward-py) Make this GitHub repo legendary again! 🚀
 -[SanjanaSree] (https://github.com/Sanjanasree02)I am Sanjana from India ,  Excited for my first Contribution:)! 
 - [Abayomi] (itsabayomi2)
 - [Ajay Panjeta](https://github.com/Ajay-Panjeta) Hello, this is my first contribution. I am a python developer.
