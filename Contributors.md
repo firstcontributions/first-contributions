@@ -20,6 +20,7 @@
 - [Sujit] (https://github.com/KushwahaPrasadSujit)
 - [jhena] (https://github.com/jhenals) This is my first contribution!
 - [Margaux] (https://github.com/margaux-works) Hello, world!
+- [Hashem SH](https://github.com/hashemsh) Init 10 ⚡
 - [Abayomi] (itsabayomi2)
 - [Ajay Panjeta](https://github.com/Ajay-Panjeta) Hello, this is my first contribution. I am a python developer.
 - [Ayaz-75] (https://github.com/Ayaz-75) This is Ayaz Ali, I am a python developer and this is my very first open-source contribution.
