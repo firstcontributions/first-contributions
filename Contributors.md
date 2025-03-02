@@ -62,6 +62,7 @@
 - [Soundarya](https://avatars.githubusercontent.com/u/141019246?v=4&size=64) First contribution 🎀
 - [Diego_Sosa](https://github.com/Diego19871983) Z-Dev-Coder
 - [cheez]
+- [Mostafa Nassar](https://github.com/Mostafa-SWE) Front End Software Engineer, This is a practical demo of contribution to prepare for GSoC 2025
 - [Matheus Nunes](https://github.com/MateushSNunes) Hello, World!
 - [Bapt]
 - [Kerim Demir](https://github.com/kerimdemir9)
