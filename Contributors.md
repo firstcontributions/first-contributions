@@ -902,6 +902,7 @@
 - [ninthursday](https://github.com/ninthursday)
 - [BarathKalyan](https://github.com/Barathkalyan): Gonna rock from now on!!
 - [Keisuke Miura](https://github.com/ksukemiura)
+- [Ayushman] (https://github.com/ayushman1210) learning to deep dive into the open source world
 - Add [Nill_The_Alchemist](https://github.com/Nill-The-Alchemist/)
 - [Sayyed Mustafa](https://github.com/mustafa-sayyed/)
   [Max De Luna](https://github.com/MaxDLuna)
@@ -3901,6 +3902,8 @@
 - [Neil S McKay] My first git contribution, at last!
 - [Eamon Wong](https://github.com/eamonwong) Hello, may great things happen to you! :)
 - [arthurlw](https://github.com/arthurlw) Hello from Indonesia! Excited to learn more about open source!
+- [yu-min3](https://github.com/yu-min3) Hello from Japan! I would like to dive into OSS activities!
+- [Ritesh Chepuri](https://github.com/RiteshChepuri) Hello! This is my first Contribution
 - [Rafael Alba](https://github.com/RafaelAlbaS) Hello from Spain! Let's the Code games start!
 https://github.com/RafaelAlbaS
 - [yu-min3](https://github.com/yu-min3) Hello from Japan! I would like to dive into OSS activities!
