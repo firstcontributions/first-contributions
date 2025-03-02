@@ -1,6 +1,7 @@
 # Contributors
 
--  [Deborshi](https://github.com/decembboy/) First time in open source
+- [OS] (https://github.com/SD-OTM/)  First contribution
+- [Deborshi](https://github.com/decembboy/) First time in open source
 - [Ayushman](https://github.com/ayushman1210) learning to deep dive into the open source world 
 - [turki013](https://github.com/turki013) Hello **Everyone!** this first contrbution !! `woow`
 - [satishkumarnarayanasamy](https://github.com/mochasweet) Make Github Great Again!
