@@ -28,9 +28,9 @@
 - [Purwatsate](https://github.com/Purwatsate) Thar Li Swa Bar
 - [Divyansh] (https://github.com/divyansh090)Hi, this is my first contribution :-)
 - [David Hope] (https://github.com/dhope1) - Dont be afraid to choose love.
-  [Sandun Balasooriya](https://github.com/sandunx) Hello, World!
-  [Yari yassi ](https://github.com/yassiEmp) no way i am here 🤣 !
-  [Sambit](https://github.com/sambitmishra04)Hello! Welcome to this new world. keep grinding...
+- [Sandun Balasooriya](https://github.com/sandunx) Hello, World!
+- [Yari yassi ](https://github.com/yassiEmp) no way i am here 🤣 !
+- [Sambit](https://github.com/sambitmishra04)Hello! Welcome to this new world. keep grinding...
 - [Sami Ahmed] (https://github.com/SamiA1995) Hello
 - [ditsus](https://github.com/ditsus) Good luck to whoever reads this!
 - [Andres Salgueiro](https://github.com/Andres-Salgueiro) Open your eyes for the next Faiz
