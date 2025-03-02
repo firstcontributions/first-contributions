@@ -1830,6 +1830,8 @@
 - Bhavya Singla
 - [V1centeJ1menez](https://github.com/V1centeJ1menez)
 - Gabriele Agosta
+- [shubh] (https://github.com/letswriteaprogram)
+  :- today is the beginning of something new and big. let's code for making someone's life better and Happy .
 - [Ejorhovi Gift](https://github.com/g1ft-code)
 - [Govind Mohan](https://github.com/G0vind04)
 - [Kalhara Batangala](https://github.com/KalharaBatangala)
