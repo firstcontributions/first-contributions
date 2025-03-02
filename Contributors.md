@@ -3901,6 +3901,9 @@
 - [Neil S McKay] My first git contribution, at last!
 - [Eamon Wong](https://github.com/eamonwong) Hello, may great things happen to you! :)
 - [arthurlw](https://github.com/arthurlw) Hello from Indonesia! Excited to learn more about open source!
+- [Rafael Alba](https://github.com/RafaelAlbaS) Hello from Spain! Let's the Code games start!
+https://github.com/RafaelAlbaS
+- [yu-min3](https://github.com/yu-min3) Hello from Japan! I would like to dive into OSS activities!
 - [yu-min3](https://github.com/yu-min3) Hello from Japan! I would like to dive into OSS activities!
 - [krsna](https://github.com/KrishnaTiwariCoder)
 - [Mouadhbendjedidi](https://github.com/Mouadhbendjedidi) bro what's up (message to WaliEddine_ght bro stay hard we are brothers forever 🗿🗿♟️ nice my bro
