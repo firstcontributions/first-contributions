@@ -1007,6 +1007,7 @@
 - [Tunings](https://github.com/Tunings) : First contribution!
 - [Julia](https://github.com/Katastropha)
 - [Zahidi14](https://github.com/zahidi14/)
+- [Siddharth] (https://github.com/siddharth11010/)
 - [brendon-felix](https://github.com/brendon-felix)
 - [Brendan Coen](https://github.com/KenShabby)
 - [Trevor Kibuba](https://github.com/kibuba-njihia)
