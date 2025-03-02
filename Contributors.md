@@ -3104,6 +3104,7 @@
 - [Prajein C K](https://github.com/prajein)
 - [Abhiram A R](https://github.com/AbhiramAnanthu)
 - [Grace Kim](https://github.com/gracekim1217)
+- [Temirlan Tlektessov] (https://github.com/ttlektessov) Hi there, this is my first contribution to open-source!
 - [Danyal Imtiaz](https://github.com/danyal-imtiaz99)
 - [Clementallo](https://github.com/ClementEraud)
 - [Sadia Ishtaq](https://github.com/SadiaIshtaq)
