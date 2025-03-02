@@ -93,6 +93,8 @@
 - [Prince Gabecha] I hope it turns out well!!
 - [Ian Ko](https://github.com/kosunghw) This is my first contribution!
 - [Andrew Martinez](https://github.com/andymartinez1) I love contributing!
+- [Sauzan Faza] its my first contribution!!
+  (https://github.com/sauzanfaza/first-contributions)
 - [Jas Singh](https://github.com/TheAlphaJas) Letsgooo
 - [Youssef mohamed](https://github.com/TURBO70)
 - [Aqib Khan] (https://github.com/KAquib24)MY FIRST CONTRIBUTION!!!
