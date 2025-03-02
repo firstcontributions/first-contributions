@@ -1695,6 +1695,7 @@
 - [Juho Lee](https://github.com/jxuho)
 - [TOK7O](https://github.com/TOK7O)
 - [Hossain Rion](https://github.com/best-rion)
+- [Rion Sato](https://github.com/Rion-Sato)
 - [Daniel Cursi](https://github.com/danielcursi)
 - [Giovanna Cortez](https://github.com/annavoigg)
 - [janGithub122](https://github.com/janGithub122)
