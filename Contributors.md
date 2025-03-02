@@ -28,8 +28,9 @@
   [Sandun Balasooriya](https://github.com/sandunx) Hello, World!
   [Yari yassi ](https://github.com/yassiEmp) no way i am here 🤣 !
 - [Sami Ahmed] (https://github.com/SamiA1995) Hello
-- [Andres Salgueiro] (https://github.com/Andres-Salgueiro) Open your eyes for the next Faiz
-- [Ausaf Ahmad Ansari] (https://github.com/ahmad-ausaf0/) - Life is an opportunity - Take it
+- [ditsus](https://github.com/ditsus) Good luck to whoever reads this!
+- [Andres Salgueiro](https://github.com/Andres-Salgueiro) Open your eyes for the next Faiz
+- [Ausaf Ahmad Ansari](https://github.com/ahmad-ausaf0/) - Life is an opportunity - Take it
 - [Charles DeClouette II] (https://github.com/CharlesDdev) Finally!! My first contribution! May the odds be ever in your favor.
 - [Philip Hsinh] (https://github.com/xhbear) It's been a long way from punching holes to just casually typing text and having it seen across the globe!
 - [Shey Camille](https://github.com/sheycamille) Let's make softwares better by sharing ideas!
