@@ -69,7 +69,7 @@
 - [Bapt]
 - [Kerim Demir](https://github.com/kerimdemir9)
 - [RazFernandez](https://github.com/RazFernandez) This my first contribution, first milestone to become a Full Stack Developer. Greetings from Mexico :v:
-- [mqrv-mckl](https://github.com/mqrv-mckl) hey there :)
+- [mqrv-mckl](https://github.com/mqrv-mckl) heyyy :)
 - [Superfrettchen](https://github.com/Superfrettchen) nett hier.
 - [GASTON Stanley](https://github.com/gastanley) This is my first contribution as a student!!
 - [Karthik Sriramoju](https://github.com/karthiksriramoju) I'll be doing Opensource Seriously.
