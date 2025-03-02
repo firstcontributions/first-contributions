@@ -296,6 +296,7 @@
 - [maplesyrup0423](https://github.com/maplesyrup0423)
 - zoro [https://github.com/]() Thanks
 - [mmwandla]
+- [Vatsal](https://github.com/IamVatsal) Hello, This is My First Contribution and This is The Beginning to My Open Source Contributions! 🤞
 - [Arman khan](https://github.com/Rage400)
 - [Uchi Fiti](https://github.com/uchi-fiti) Hi everyone, this is my first contribution. I hope to see more 🇲🇬 people here :)
 - [Bohne1225(https://github.com/Bohne1225)
