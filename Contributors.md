@@ -1191,6 +1191,7 @@ Aadyant Agrawal
 - [Shawn Bai](https://github.com/xbai)
 - [Shankar-Balajee](https://github.com/Shankar-Balajee)
 - [amir asghar akbar mahaleh ghazian tapeh]
+- [Diego](https://github.com/Diego19871983)
 - [stevee14]
 - [Qi](https://github.com/Aubur9y)
 - [Aayush Poudel](https://github.com/aayushhh44)
