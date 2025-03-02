@@ -3932,6 +3932,7 @@
 - [George2Times](https://github.com/George2Times) Hello from Poland! I'm thrilled to be contributing to open source for the first time!
 - [Hirtus] Hello World!
 - [Neil S McKay] My first git contribution, at last!
+- [Zane Godden](https://github.com/mechatour) Yay! My first contribution. Hopefully more to come :)
 - [Eamon Wong](https://github.com/eamonwong) Hello, may great things happen to you! :)
 - [arthurlw](https://github.com/arthurlw) Hello from Indonesia! Excited to learn more about open source!
 - [yu-min3](https://github.com/yu-min3) Hello from Japan! I would like to dive into OSS activities!
