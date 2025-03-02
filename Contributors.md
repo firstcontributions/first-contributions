@@ -156,6 +156,7 @@
 - [Praveen Raj](https://github.com/trytobegoodatleast)
 - [Sarah Calixto](https://github.com/sarahcalixto)
 - [Muhammad Ehsan](https://github.com/MuhammadEhsan02) This is Ehsan, Data Scientist.
+- [Juan Cruz Reichert](https://github.com/juanecruz) This is Juan Esteban CS student.
 - [Ali Adel Nour](https://github.com/Ali-Adel-Nour) I'm passionate software enginner and this my first contribution to open source!
 - [Fadil Amad K M](https://github.com/TechTrovePlus) namasthe!!🙏
 - [Samrat Saha](https://github.com/Samsgithub9635) I love Java 🍵 and This my first step towards open source contribution...Yeeeeh!😃 and thanks! to first-contributions
