@@ -2,7 +2,7 @@
 
 - [OS] (https://github.com/SD-OTM/)  First contribution
 - [Deborshi](https://github.com/decembboy/) First time in open source
-- [Ayushman](https://github.com/ayushman1210) learning to deep dive into the open source world 
+- [Ayushman](https://github.com/ayushman1210) learning to deep dive into the open source world
 - [turki013](https://github.com/turki013) Hello **Everyone!** this first contrbution !! `woow`
 - [satishkumarnarayanasamy](https://github.com/mochasweet) Make Github Great Again!
 - [CheDani](https://github.com/CheDaniSV) Hi everyone! 👾
@@ -221,7 +221,7 @@
 - [ Sharanya G S](https://github.com/Sharanyags3) Hi Everyone, This is my first contribution.
 - [Shivam Gupta] Hello guys, this is my first contribution. Hope you guys also pushing your limits.
 - [PatrickHung99] Hellow World
-- [sshooting0203](https://github.com/sshooting0203) Hi Everyone, This is my first contribuiton. 
+- [sshooting0203](https://github.com/sshooting0203) Hi Everyone, This is my first contribuiton.
 - [Luis Chavarria](https://github.com/LiChDevel) Thanks for the tutorial!!
 - [Tracy Wright](https://github.com/stlwright85) Hello, this is my first contribution.
 - [Deepaakash Gupta](https://github.com/deep-2812) Hi Everyone, This is my first contribution. #Data Engineer
@@ -350,7 +350,7 @@
 - [xiaotian] (https://github.com/w5cschool) Hello world! let's make it done.
 - [ArmanBhatia] (https://github.com/ArmanBhatia0100) Thank for this opportunity.
   Add Bilal Hasan
-- [Ayushman] 赵梓健(https://github.com/ayushman1210) learning to deep dive into the open source world 
+- [Ayushman] 赵梓健(https://github.com/ayushman1210) learning to deep dive into the open source world
 - [Mpho Somo](https://github.com/programmingwithfantom) Hello, this is my first open-source contribution
 - [Gregory Alexandrou](https://github.com/gregalexan) Hello everyone this is my first contribution!
 - [Elton](https:/github.com/eltonbaidoo)
@@ -668,7 +668,7 @@
 - [Jeffawe](https://github.com/Jeffawe)
 - [sanjeev muddala](https://github.com/rohitsanjeev)
 - [Hanz-Alleskonner](https://github.com/Hanz-Alleskonner) **C**
-- [JG-6895] Hello World Contrbution!! :) 
+- [JG-6895] Hello World Contrbution!! :)
 - [Cesar](https://github.com/cesarslv)
 - [CAN](https://github.com/lawinpyae)
 - [Korupoju Saikrishna](https://github.com/saikrishna411)
@@ -3664,11 +3664,11 @@
 - [Harshdeep](https://github.com/harshdeepsdhillon1) | Got a job !
 - [xpedroyx](https://github.com/xpedrotx) | apple pen!
 - [Amy](https://github.com/APape95)
-- Danish Raja  
- Web Developer | Open Source Enthusiast  
- GitHub: [Daniishraza](https://github.com/Daniishraza)  
- "Learning, building, and contributing to open source!"
- 
+- Danish Raja
+ Web Developer | Open Source Enthusiast
+  GitHub: [Daniishraza](https://github.com/Daniishraza)
+  "Learning, building, and contributing to open source!"
+
 - [FabioCanavarro](https://github.com/FabioCanavarro) | Goal: 10 Open source contribution before june
 - [Sukanya Ojha](https://github.com/khushi-engg)!goal to do in feb.
 - [Noah Adofina](https://github.com/itzRayys)
@@ -3971,8 +3971,8 @@ This is my first contribution.
 - [Rocklinks](https://github.com/Rocklinks) Hello From Tamilnadu,India
 - [lonelycat](https://github.com/zhao-jingyan) Hello from China
 - [Julietowah](https://github.com/julietowah) Hello from Nigeria, This is my first contribution!
-- [jsierra] (https://github.com/jesussierrait) 
-- [Vedant] (https://github.com/Vedant-D04) 
+- [jsierra] (https://github.com/jesussierrait)
+- [Vedant] (https://github.com/Vedant-D04)
 - [Shravan] (https://github.com/ShravanDeva5327) My first contribution I guess!!
 - [Hyeongi] (https://github.com/hhg000726) My first contribution
 -[Devesh Shrivas] (https://github.com/Deveshshrivas)
@@ -3982,3 +3982,4 @@ This is my first contribution.
 - [Jeyep8](https://github.com/Jeyep18) Someone taught me this :D, now Im open source contributorrr yey
 - [DevOpsWithYoge](https://github.com/AllAboutAzure) Happy to kickstart my journey with Open Source.
 - [iSeaox](https://github.com/iSeaox) C’est une bonne situation, ça, dev ? Mais, vous savez, moi je ne crois pas qu’il y ait de bonne ou de mauvaise situation. Moi, si je devais résumer ma vie aujourd’hui avec vous, je dirais que c’est d’abord des rencontres, des gens qui m’ont tendu la main, peut-être à un moment où je ne pouvais pas, où j’étais seul chez moi. Et c’est assez curieux de se dire que les hasards, les rencontres forgent une destinée… Parce que quand on a le goût de la chose, quand on a le goût de la chose bien faite, le beau geste, parfois on ne trouve pas l’interlocuteur en face, je dirais, le miroir qui vous aide à avancer. Alors ce n’est pas mon cas, comme je le disais là, puisque moi au contraire, j’ai pu ; et je dis merci à la vie, je lui dis merci, je chante la vie, je danse la vie… Je ne suis qu’amour ! **Otis**
+- [Julianchu](https://github.com/JulianChu00) Hello from China.
