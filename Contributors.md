@@ -8,6 +8,7 @@
 - [satishkumarnarayanasamy](https://github.com/mochasweet) Make Github Great Again!
 - [CheDani](https://github.com/CheDaniSV) Hi everyone! 👾
 - [mochasweet](https://github.com/mochasweet) Make Github Great Again!
+- [AakashPrithiveeRam](https://github.com/aakashprithiveeram) Hello **Everyone!**, I'm here stating my Open Source journey !
 - [Justin](https://github.com/S8TiN) hi
 -[karan soni](https://github.com/SimpliSoni) holla! ^_^
 - [eattrenclenhard](https://github.com/eattrenclenhard) The omnipotent Eat Tren Clen Hard descended from the heavens, his presence radiating divine light and reverence. In that moment, the very air seemed to pause, as if the world itself bowed to honor his arrival.
