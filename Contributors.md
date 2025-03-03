@@ -3983,3 +3983,6 @@ This is my first contribution.
 - [Jeyep8](https://github.com/Jeyep18) Someone taught me this :D, now Im open source contributorrr yey
 - [DevOpsWithYoge](https://github.com/AllAboutAzure) Happy to kickstart my journey with Open Source.
 - [iSeaox](https://github.com/iSeaox) C’est une bonne situation, ça, dev ? Mais, vous savez, moi je ne crois pas qu’il y ait de bonne ou de mauvaise situation. Moi, si je devais résumer ma vie aujourd’hui avec vous, je dirais que c’est d’abord des rencontres, des gens qui m’ont tendu la main, peut-être à un moment où je ne pouvais pas, où j’étais seul chez moi. Et c’est assez curieux de se dire que les hasards, les rencontres forgent une destinée… Parce que quand on a le goût de la chose, quand on a le goût de la chose bien faite, le beau geste, parfois on ne trouve pas l’interlocuteur en face, je dirais, le miroir qui vous aide à avancer. Alors ce n’est pas mon cas, comme je le disais là, puisque moi au contraire, j’ai pu ; et je dis merci à la vie, je lui dis merci, je chante la vie, je danse la vie… Je ne suis qu’amour ! **Otis**
+
+- [Rahul Selvaraj](https://github.com/Laihu08)
+
