@@ -26,6 +26,7 @@ Akbar: Nima gap!
 - [Margaux] (https://github.com/margaux-works) Hello, world!
 - [Hashem SH](https://github.com/hashemsh) Init 10 ⚡
 - [Abayomi] (itsabayomi2)
+- [Amit Chhatbar](https://github.com/amitchhatbar11) Let's start the OSS journey with this!
 - [Andreas]
 - [Nishil](https://github.com/NishilHoogar) Wanted to say Hi!
 - [Ajay Panjeta](https://github.com/Ajay-Panjeta) Hello, this is my first contribution. I am a python developer.
