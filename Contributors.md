@@ -38,6 +38,7 @@
   [Sambit](https://github.com/sambitmishra04)Hello! Welcome to this new world. keep grinding...
 - [Sami Ahmed] (https://github.com/SamiA1995) Hello
 - [ditsus](https://github.com/ditsus) Good luck to whoever reads this!
+- [DavideGrecoGit](https://github.com/DavideGrecoGit) - GLHF!
 - [Andres Salgueiro](https://github.com/Andres-Salgueiro) Open your eyes for the next Faiz
 - [Ausaf Ahmad Ansari](https://github.com/ahmad-ausaf0/) - Life is an opportunity - Take it
 - [Charles DeClouette II] (https://github.com/CharlesDdev) Finally!! My first contribution! May the odds be ever in your favor.
