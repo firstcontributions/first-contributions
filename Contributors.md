@@ -232,6 +232,7 @@
 - [kyal lin soeA](https://github.com/juann227) Gracis chavales
 - [Swapnil Ingale](https://github.com/swab019) Swapnil Ingale
 - [Juan Naranjo](https://github.com/Orange-code-orange) Hello from Colombia! ❤️
+- [Sherwin Ying](https://github.com/HeartyEagle) My first contribution
 - [Andres Cortes] Salu2 desde Colombia <3.
 - [Srushti Bhoyar](https://github.com/bsrushti) Thanks for the tutorial.
 - [Sparsh Vardhan](https://github.com/Sparsh-V3) Hey there, I'm Sparsh Vardhan, and this is my First Open Source Contribution <3
