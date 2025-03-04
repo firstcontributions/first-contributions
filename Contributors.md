@@ -742,6 +742,7 @@ This is Piyush Nihalani.
   jayanth
   [Brittany Brooks](https://github.com/birdyBcodes)
 - [Amr Sheqwara](https://github.com/Amr-Sheqwara) 👈(ﾟヮﾟ 👈)
+- drux - First contribution
 - [Ritik Verma](https://github.com/vritik907) 👈(ﾟヮﾟ 👈)
 - [Taniya](https://github.com/taniyaapatel) 👈(ﾟヮﾟ 👈)
 - [Soumitra Das](https://github.com/SoumitraDas1) 👈
