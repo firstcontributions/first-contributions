@@ -1074,16 +1074,6 @@
 - [Manas Mahajan](https://github.com/ManasMahajan2003)
 - [Christopher O.](https://github.com/limitpointinf0)
 - [SNN](https://github.com/sungenyeint)
-  [abhijeeth m](https://github.com/abhijeeth-mantha)
-  [Maximilian Wu](https://github.com/maxiwu13133/) : **Hopeful for my journey**
-  [Rushikesh Amale]
-  [KishanSingh]
-  [Abdul Rahim](https://github.com/Abdrahim-123)
-  [Swapnil Nagras]
-  [AD](https://github.com/AtharvaD1407)
-  [Saksham Manav Was here ---->>>>>>>>] {https://github.com/SakshamManav}
-  [Nitesh Choudhary](https://github.com/codewith-Nitesh)
-  [Andres Rojo Mesa](https://github.com/AndresRojo12)
 - [Aditya Radadiya](https://github.com/RadadiyaAditya)
 - [Mostapha EL ANSARI](https://github.com/mostaphaelansari)
 - [Sarthak Bhardwaj](https://github.com/sarthakbhardwaj27)
@@ -4024,6 +4014,7 @@
 - [Ajit Ashwath](https://github.com/ajitashwathr10) My first contribution!
 - [Patthh](https://github.com/Patthh) My first contribution on OSS project, hope it's not my last ;)
 - [Jeyep8](https://github.com/Jeyep18) Someone taught me this :D, now Im open source contributorrr yey
+- [Mayur](http://github.com/Mayurbhaiishere) Learning how to learn people and code :_)
 - [DevOpsWithYoge](https://github.com/AllAboutAzure) Happy to kickstart my journey with Open Source.
 - [JuyaoHuang](https://github.com/AlenhuAN) Hello from China, This is my first excersice!
 - [iSeaox](https://github.com/iSeaox) C’est une bonne situation, ça, dev ? Mais, vous savez, moi je ne crois pas qu’il y ait de bonne ou de mauvaise situation. Moi, si je devais résumer ma vie aujourd’hui avec vous, je dirais que c’est d’abord des rencontres, des gens qui m’ont tendu la main, peut-être à un moment où je ne pouvais pas, où j’étais seul chez moi. Et c’est assez curieux de se dire que les hasards, les rencontres forgent une destinée… Parce que quand on a le goût de la chose, quand on a le goût de la chose bien faite, le beau geste, parfois on ne trouve pas l’interlocuteur en face, je dirais, le miroir qui vous aide à avancer. Alors ce n’est pas mon cas, comme je le disais là, puisque moi au contraire, j’ai pu ; et je dis merci à la vie, je lui dis merci, je chante la vie, je danse la vie… Je ne suis qu’amour ! **Otis**
