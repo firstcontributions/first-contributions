@@ -3995,11 +3995,11 @@ This is my first contribution.
 - [Rocklinks](https://github.com/Rocklinks) Hello From Tamilnadu,India
 - [lonelycat](https://github.com/zhao-jingyan) Hello from China
 - [Julietowah](https://github.com/julietowah) Hello from Nigeria, This is my first contribution!
-- [jsierra] (https://github.com/jesussierrait) 
-- [Vedant] (https://github.com/Vedant-D04) 
-- [Shravan] (https://github.com/ShravanDeva5327) My first contribution I guess!!
-- [Hyeongi] (https://github.com/hhg000726) My first contribution
--[Devesh Shrivas] (https://github.com/Deveshshrivas)
+- [jsierra](https://github.com/jesussierrait) 
+- [Vedant](https://github.com/Vedant-D04) 
+- [Shravan](https://github.com/ShravanDeva5327) My first contribution I guess!!
+- [Hyeongi](https://github.com/hhg000726) My first contribution
+-[Devesh Shrivas](https://github.com/Deveshshrivas)
 - [Russ](https://github.com/RUSS-Sebastian) holaaaaaaaaaaaaaaaaaaaaaaaaaaaa!!!!!!!!!
 - [Harumoto](https://github.com/Harumoto1103) My first contribution!
 - [Ajit Ashwath](https://github.com/ajitashwathr10) My first contribution!
@@ -4015,3 +4015,4 @@ This is my first contribution.
 - [Yinglinc](https://github.com/YinglinC) Study hard
 - [JiayueYang](https://github.com/jryyangjy) My first step of pushing my local file to github
 - [KunlinLI](https://github.com/ZJU-Andre) Test for PR.
+- [Parsivan](https://github.com/parsivan) I was here. The ultimate goal of programming is picking up farming. that is what i strive for!
