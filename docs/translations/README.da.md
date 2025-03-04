@@ -1,5 +1,4 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -109,7 +108,7 @@ Tillykke! Du har nu gennemført den udbredte _fork -> clone -> edit -> PR_ workf
 
 Fejr dit bidrag og del det med dine venner og følgere ved at gå til [web app](https://firstcontributions.github.io/#social-share).
 
-Du er velkommen til at kigge forbi vores Slack hvis du mangler hjælp, eller har spørgsmål. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
+Du er velkommen til at kigge forbi vores Slack hvis du mangler hjælp, eller har spørgsmål. [Join slack team]
 
 Tillad os også at hjælpe dig i gang med dine næste bidrag. Vi har kompileret en liste af projekter med letty, overkommelige problemer du kan starte ud med. Check den ud her: [the list of projects in web app](https://firstcontributions.github.io/#project-list).
 
