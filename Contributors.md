@@ -405,6 +405,7 @@ This is Piyush Nihalani.
   Sugan
 - [Ammar Najwan](https://github.com/ammarnjwn) This is my first contribution.
 - [Himanshu Kumar](https://github.com/H1manshu-Kumar) Here comes my first open-source contribution! :D
+- [Spencer Bradkin] (https://github.com/shbradki) Good luck everyone!
 - [ayush kumar](https://github.com/Ayush9945)
 - [Kcstring Kai](https://github.com/Kcstring) Hello Everyone, It's nice to meet you !!!!!!
 - [Boudin Djama](https://github.com/BoudinDjama)
