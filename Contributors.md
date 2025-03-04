@@ -19,6 +19,7 @@ Akbar: Nima gap!
 - [matthew] (https://github.com/MatthewW07) Consider the goals that a benefit of a sacrafice contributes to to optimize gain from loss!
 - [vatsalya] (https://github.com/VatsalyaBetala)
 - [vigneshwaran] (https://github.com/joyboy0711) Hey Hello everyone.. Nice to meet you all.
+- [Muhmmad Asif Khalid] (https://github.com/asifkhalid03) (https://asifkhalid.com) Hey Hello everyone.. Nice to meet you all. :-D
 - [wazzan] (https://github.com/wazzan) jj says hi
 - [Israt] (https://github.com/IsratErin) Here is my first contribution!!
 - [Sujit] (https://github.com/KushwahaPrasadSujit)
@@ -132,6 +133,7 @@ This is Piyush Nihalani.
 - [Aditya Patel](https://github.com/adityadipakpatel/) Hey!
 - [Piyush Prakash](https://github.com/Piyush240604) So this is how it starts...
 - [Mouhamed FARDOUSI](https://github.com/Mouhamed941)
+- [asdfasdasd314](https://github.com/asdfasdasd314) Can't wait to start contributing to open source!
 - [Z-Dev-Coder](https://github.com/Z-Dev-Coder)
 - [Amankumar 140](#) This is Aman, college student.(https://github.com/Amankumar140)
 - Anders Lorén Hello World!
@@ -196,6 +198,7 @@ This is Piyush Nihalani.
 - [anandvijy]
 - [Muhammad Gamal Azab](https://github.com/muhammadgamalazab) This is Jimmy, DevOps Engineer.
 - [Sithara](https://github.com/Sithartk) Hey!.
+- [JCJ-CS] (https://github.com/JCJ-CS/JCJ-CS) 
 - Amit Kumar[https://github.com/](https://github.com/amit15000) Thanks for the beginners tutorial.
 - [Michele pelegrinelli](https://github.com/michelepelegrinelli) Hi everyone!
 - [Ahmad Allahverdiyev](https://github.com/hmd37) Thank you for the tutorial
@@ -1499,6 +1502,7 @@ This is Piyush Nihalani.
   -FMaciejewski
 - [Priyash Anand](https://github.com/priyashanand)
 - [Ramunas Kazlauskas](https://github.com/akuyra1)
+- [Pawelgit1234](https://github.com/Pawelgit1234) Hello from Germany! (づ￣ 3￣)づ
 - Ketan Yadav
 - johnie
 - [Harsh Raj](https://github.com/harzh1)
@@ -3617,6 +3621,7 @@ This is Piyush Nihalani.
 - [Atsushi Wakabayashi](https://github.com/atsushi-wakabayashi)
 - [syawqy](https://github.com/syawqy)
 - [James Donohue](https://github.com/Ranger-Jim)
+- [skywalkerryan] Hello world
 - nob
 - [Herianto Tanoyo](https://github.com/heri2000)
 - [GhassenJebbari](https://github.com/ghassenjebari)
@@ -3994,5 +3999,6 @@ This is my first contribution.
 - [DevOpsWithYoge](https://github.com/AllAboutAzure) Happy to kickstart my journey with Open Source.
 - [JuyaoHuang](https://github.com/AlenhuAN) Hello from China, This is my first excersice!
 - [iSeaox](https://github.com/iSeaox) C’est une bonne situation, ça, dev ? Mais, vous savez, moi je ne crois pas qu’il y ait de bonne ou de mauvaise situation. Moi, si je devais résumer ma vie aujourd’hui avec vous, je dirais que c’est d’abord des rencontres, des gens qui m’ont tendu la main, peut-être à un moment où je ne pouvais pas, où j’étais seul chez moi. Et c’est assez curieux de se dire que les hasards, les rencontres forgent une destinée… Parce que quand on a le goût de la chose, quand on a le goût de la chose bien faite, le beau geste, parfois on ne trouve pas l’interlocuteur en face, je dirais, le miroir qui vous aide à avancer. Alors ce n’est pas mon cas, comme je le disais là, puisque moi au contraire, j’ai pu ; et je dis merci à la vie, je lui dis merci, je chante la vie, je danse la vie… Je ne suis qu’amour ! **Otis**
+- [lilblueyes](https://lilblueyes.github.io/lilblueyes/) Hello from France! (btw, the guy above is really funny)
 - [Irina Kuettner](https://github.com/IK-IT-PM) My first step und contribution!
 - [Brian Kwan](https://github.com/BrianKwan0909/) My first step of contribution!
