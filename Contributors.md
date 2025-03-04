@@ -21,6 +21,7 @@ Akbar: Nima gap!
 - [mochasweet] (https://github.com/mochasweet) Make Github Great Again!
 - [matthew] (https://github.com/MatthewW07) Consider the goals that a benefit of a sacrafice contributes to to optimize gain from loss!
 - [vatsalya] (https://github.com/VatsalyaBetala)
+- [ruchit] (https://github.com/ruchitsheth13) hey!
 - [vigneshwaran] (https://github.com/joyboy0711) Hey Hello everyone.. Nice to meet you all.
 - [Muhmmad Asif Khalid] (https://github.com/asifkhalid03) (https://asifkhalid.com) Hey Hello everyone.. Nice to meet you all. :-D
 - [wazzan] (https://github.com/wazzan) jj says hi
