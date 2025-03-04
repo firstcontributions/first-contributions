@@ -4004,3 +4004,4 @@ This is my first contribution.
 - [lilblueyes](https://lilblueyes.github.io/lilblueyes/) Hello from France! (btw, the guy above is really funny)
 - [Irina Kuettner](https://github.com/IK-IT-PM) My first step und contribution!
 - [Brian Kwan](https://github.com/BrianKwan0909/) My first step of contribution!
+- [Veldrine Evelia Kaharwa](https://github.com/Tech-Vexy)
