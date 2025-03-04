@@ -1,6 +1,7 @@
 # Contributors
 
 - [Abhishek Bagal] (https://github.com/AbhishekBagal9) First step into open-source excited to contribute and learn more! 🚀
+- [Santosh Nc] (https://github.com/Santoshn26/) First step to start my contribution journey to Open source community excited to Explore things out there
 - [OS] (https://github.com/SD-OTM/)  First contribution
 - [Deborshi](https://github.com/decembboy/) First time in open source
 - [SIVAPRASAD. G] (https://github.com/sprasad519/)
@@ -42,6 +43,7 @@ Akbar: Nima gap!
 - [M3hTi] (https://github.com/M3hTi)  Hi, I’m M3hTi a programmer with a passion for coding and listening to music and watching movies and a little bit playing games. pls star my projects if u like it.
 - [Ayushman] (https://github.com/ayushman1210) learning to deep dive into the open source world
 - [Daniel] (https://github.com/raysedev) This is my first contribution
+- [Ramon Gomez] (https://github.com/ramonGomezEnc) Hello from Mexico!
 - [Purwatsate](https://github.com/Purwatsate) Thar Li Swa Bar
 - [Divyansh] (https://github.com/divyansh090)Hi, this is my first contribution :-)
 - [David Hope] (https://github.com/dhope1) - Dont be afraid to choose love.
@@ -71,6 +73,7 @@ Akbar: Nima gap!
 - [Miles Johnson](https://github.com/milesJohnsonDev) Looking to contribute to open source projects
 - [Jacob M Rivera](https://github.com/jacobmrivera) Let's go! 🤠
 - [Amruta Suresh Monde](https://github.com/Amruta241197) I look forward to contribute in open source projects.
+- [chikinpie](https://github.com/chikinpie) looking to start helping out with open source and embeded systems
 - [Harsh Surendran](https://github.com/HarshSurendran) Hey!
 - [Zuhaitz](https://github.com/Zuhaitz-dev) Grains of sand form deserts.
 - [Mursaleen Nisar](https://github.com/mursaleen-nisar) I'm a professional full stack web developer and an experienced freelancer and this is my first open source contribution.
