@@ -1,6 +1,8 @@
 # Contributors
 
 - [Abhishek Bagal] (https://github.com/AbhishekBagal9) First step into open-source excited to contribute and learn more! 🚀
+- [Tejesh Santosh Yewale](https://github.com/Tejeshyewale) this is my first to learn open-source and contribute 🌟
+
 - [OS] (https://github.com/SD-OTM/)  First contribution
 - [Deborshi](https://github.com/decembboy/) First time in open source
 - [SIVAPRASAD. G] (https://github.com/sprasad519/)
