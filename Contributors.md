@@ -3820,6 +3820,8 @@ This is Piyush Nihalani.
 - [ocean0s](https://github.com/ocean0s)
 - [Sushovan pan](https://github.com/Sushovan09) this my first contribution.
 - [Carlos Ripolles Motos](https://github.com/Carlos19uji)
+- [Jack Sangl](https://github.com/jacksangl)
+- [Riya Bhardwaj](https://github.com/rheaadotcom)
 - [Darragh O'Keeffe](https://github.com/Darragh7)
 - [Jack Sangl](https://github.com/jacksangl)
 - [Sadra Oveisi](https://github.com/Sadraoveisi)
@@ -4026,3 +4028,4 @@ This is my first contribution.
 - [JiayueYang](https://github.com/jryyangjy) My first step of pushing my local file to github
 - [KunlinLI](https://github.com/ZJU-Andre) Test for PR.
 - [Hacker0P](https://github.com/Hacker0P)
+
