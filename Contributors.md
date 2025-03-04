@@ -66,6 +66,7 @@ Akbar: Nima gap!
 - [Miles Johnson](https://github.com/milesJohnsonDev) Looking to contribute to open source projects
 - [Jacob M Rivera](https://github.com/jacobmrivera) Let's go! 🤠
 - [Amruta Suresh Monde](https://github.com/Amruta241197) I look forward to contribute in open source projects.
+- [chikinpie](https://github.com/chikinpie) looking to start helping out with open source and embeded systems
 - [Harsh Surendran](https://github.com/HarshSurendran) Hey!
 - [Mursaleen Nisar](https://github.com/mursaleen-nisar) I'm a professional full stack web developer and an experienced freelancer and this is my first open source contribution.
 - [GediminasLA](https://github.com/GediminasLA) See you in other OS projects!
