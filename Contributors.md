@@ -652,6 +652,7 @@ This is Piyush Nihalani.
 - [JT](https://github.com/jayyyyteee)
 - [Hemank Patwal](https://github.com/hemankpatwal)
 - [Harshitha]
+- [Iahzeel](https://https://github.com/Iahzeel-fe)
 - [Krishna Mouli Morampudi](https://github.com/krishnamouli8)
 - [Adriana Paiva](https://github.com/itsadrianapaiva)
 - [Thejesh Kumar](https://github.com/unedsky)
