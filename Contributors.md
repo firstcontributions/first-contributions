@@ -256,6 +256,7 @@ This is Piyush Nihalani.
 [Domdancing] (https://github.com/domdancing) Hello from MA
 
 - New York Knicks 2025 champions
+- Ajoro
 - [Vimangsa] (https://github.com/vimangsa) Well hellooo, world! This is my first contribution to an open-source repository and I am excited to do more in future.
 - [Rakshit Gupta] (github.com/Rakshitg600) Hello from DTU
 - [Vansh Tomar](https://github.com/vanshtomar1512/first-contributions) Congrats to me for my 1st open source contro..i'll keep going!!
