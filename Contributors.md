@@ -3830,7 +3830,7 @@ This is Piyush Nihalani.
 - [Florian Frevol](https://github.com/DjeDleConquerant) Heyy everyone !!
 - [Mahmoud Alfadel] Hello Folks👋
 - [Cody] Hello!
-- [Skatboards] (https://github.com/Skatboards) 03/04/2025 hi there !
+- [Skatboards](https://github.com/Skatboards) 03/04/2025 hi there !
 - [Ossys101010](https://github.com/Osssy010101) Path of PC Guru (PCG; 2PCG; 4PCG). Code with fun brother ^-^
 - [DarlanCascaes](https://github.com/DarlanCascaes)
 - [L4ZYLinuxVendor](https://github.com/L4ZYLinuxVendor) Hello XD, I use arch btw.
