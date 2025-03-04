@@ -4005,3 +4005,4 @@ This is my first contribution.
 - [Irina Kuettner](https://github.com/IK-IT-PM) My first step und contribution!
 - [Brian Kwan](https://github.com/BrianKwan0909/) My first step of contribution!
 - [Veldrine Evelia Kaharwa](https://github.com/Tech-Vexy)
+- [Yinglinc](https://github.com/YinglinC) Study hard
