@@ -32,6 +32,7 @@
 - [Israt] (https://github.com/IsratErin) Here is my first contribution!!
 - [Sujit] (https://github.com/KushwahaPrasadSujit)
 - [jhena] (https://github.com/jhenals) This is my first contribution!
+- [awkwardpy](https://github.com/awkward-py) Make this GitHub repo legendary again! 🚀
 - [Margaux] (https://github.com/margaux-works) Hello, world!
 - [Hashem SH](https://github.com/hashemsh) Init 10 ⚡
 - [Abayomi] (itsabayomi2)
