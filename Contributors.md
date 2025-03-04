@@ -2,7 +2,8 @@
 
 - [Abhishek Bagal] (https://github.com/AbhishekBagal9) First step into open-source excited to contribute and learn more! 🚀
 - [Santosh Nc] (https://github.com/Santoshn26/) First step to start my contribution journey to Open source community excited to Explore things out there
-- [OS] (https://github.com/SD-OTM/) First contribution
+- [supwan] (https://github.com/supwan) Hello World
+- [OS] (https://github.com/SD-OTM/)  First contribution
 - [Deborshi](https://github.com/decembboy/) First time in open source
 - [SIVAPRASAD. G] (https://github.com/sprasad519/)
 - [Jeyanth.V] (hhtps://github.com/jeyanth-jr) Excited to give beck to the community and take away
@@ -3628,6 +3629,7 @@
 - [Praneetha Kamarajugadda](https://github.com/Pranjkee)
 - [Joshua](https://github.com/shaggyBadger)
 - [Joshua Ballard](https://github.com/shaggyBadger)
+- [Vancityg](https://github.com/vancityg/)
 - [tomoki okada](https://github.com/tomoki-okada123)
 - [ImVickySan](https://github.com/imvickysan)
 - [Ondra Komora](https://github.com/ondrakomora)
@@ -3819,6 +3821,8 @@
 - [ocean0s](https://github.com/ocean0s)
 - [Sushovan pan](https://github.com/Sushovan09) this my first contribution.
 - [Carlos Ripolles Motos](https://github.com/Carlos19uji)
+- [Jack Sangl](https://github.com/jacksangl)
+- [Riya Bhardwaj](https://github.com/rheaadotcom)
 - [Darragh O'Keeffe](https://github.com/Darragh7)
 - [Jack Sangl](https://github.com/jacksangl)
 - [Sadra Oveisi](https://github.com/Sadraoveisi)
@@ -4024,3 +4028,4 @@
 - [JiayueYang](https://github.com/jryyangjy) My first step of pushing my local file to github
 - [KunlinLI](https://github.com/ZJU-Andre) Test for PR.
 - [Hacker0P](https://github.com/Hacker0P)
+
