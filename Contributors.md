@@ -3830,6 +3830,7 @@ This is Piyush Nihalani.
 - [Florian Frevol](https://github.com/DjeDleConquerant) Heyy everyone !!
 - [Mahmoud Alfadel] Hello Folks👋
 - [Cody] Hello!
+- [Skatboards] (https://github.com/Skatboards) 03/04/2025 hi there !
 - [Ossys101010](https://github.com/Osssy010101) Path of PC Guru (PCG; 2PCG; 4PCG). Code with fun brother ^-^
 - [DarlanCascaes](https://github.com/DarlanCascaes)
 - [L4ZYLinuxVendor](https://github.com/L4ZYLinuxVendor) Hello XD, I use arch btw.
@@ -3857,7 +3858,6 @@ This is Piyush Nihalani.
 - [Hakim-2206](https://github.com/Hakim-2206/) Hi everyone !
 - [Tanjeeb Meheran Rohan](https://github.com/RippedKek/)
 - [zbinx]Thanks for the tutorial, really cool.
-- [Skatboards] (https://github.com/Skatboards) 03/04/2025 hi there !
 - [Yancy] Hi, I am a noob in open source. I am trying to contribute to open source.
 - [YangRucheng](https://github.com/YangRucheng) Hello
 - [MarcoMarquez19](https://github.com/MarcoMarquez19) Hola, tratando de acabar el github fundations :'D
