@@ -151,6 +151,7 @@
 - [Aqib Khan] (https://github.com/KAquib24)MY FIRST CONTRIBUTION!!!
 - [Ami-L] (https://github.com/amilia-n) Hi!! I love Techtonica! -[Rayclu](https://github.com/Rayclu) Hi!! I'm Claudio and THIS IS MY FIRST CONTRIBUTION, I'm crying because the emotion (It's a joke)
 - [Misavalmad](https://github.com/Misavalmad) I hope all of us achieve our goals
+- [Valentine Ukah](https://github.com/Tinobrace/first-contributions) 05/03/2025. Valentine Uchenna Ukah was here. See you at the top
 - [Kero Wadgy](https://github.com/KeroWagdy100) Open-Source is WELCOMING ME!
 - [Ans Joju](https://github.com/ansj99) looking forward to more contributions!!!
 - [Naga Rohtih Kumar Jakkala](https://github.com/NagaRohithKumarJakkala)
