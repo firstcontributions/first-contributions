@@ -37,6 +37,7 @@
 - [matthew] (https://github.com/MatthewW07) Consider the goals that a benefit of a sacrafice contributes to to optimize gain from loss!
 - [vatsalya] (https://github.com/VatsalyaBetala)
 - [ruchit] (https://github.com/ruchitsheth13) hey!
+- [Kehinde Adedokun](https://github.com/hi-heavens/) Hey! Nice being here. This is from a class task. Thank you!
 - [vigneshwaran] (https://github.com/joyboy0711) Hey Hello everyone.. Nice to meet you all.
 - [Muhmmad Asif Khalid] (https://github.com/asifkhalid03) (https://asifkhalid.com) Hey Hello everyone.. Nice to meet you all. :-D
 - [wazzan] (https://github.com/wazzan) jj says hi
