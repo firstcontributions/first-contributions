@@ -4,8 +4,8 @@
 - [Tejesh Santosh Yewale](https://github.com/Tejeshyewale) this is my first to learn open-source and contribute 🌟
 - [Santosh Nc] (https://github.com/Santoshn26/) First step to start my contribution journey to Open source community excited to Explore things out there
 - [supwan] (https://github.com/supwan) Hello World
-- [Abhiram Ayyannagari] (https://github.com/abhiram-ayyan07) First step of achieving anything is believing "YOU CAN DEFINITELY DO IT". cheers to everyone.   
-- [OS] (https://github.com/SD-OTM/)  First contribution
+- [Abhiram Ayyannagari] (https://github.com/abhiram-ayyan07) First step of achieving anything is believing "YOU CAN DEFINITELY DO IT". cheers to everyone.
+- [OS] (https://github.com/SD-OTM/) First contribution
 - [Deborshi](https://github.com/decembboy/) First time in open source
 - [SIVAPRASAD. G] (https://github.com/sprasad519/)
 - [Jeyanth.V] (hhtps://github.com/jeyanth-jr) Excited to give beck to the community and take away
@@ -18,7 +18,7 @@
 - [mochasweet](https://github.com/mochasweet) Make Github Great Again!
 - [AakashPrithiveeRam](https://github.com/aakashprithiveeram) Hello **Everyone!**, I'm here stating my Open Source journey !
 - [Justin](https://github.com/S8TiN) hi
-- [karan soni](https://github.com/SimpliSoni) holla! ^_^
+- [karan soni](https://github.com/SimpliSoni) holla! ^\_^
 - [Harshavardhan] (https://github.com/Harsha-1-8/) Taking it to the next level
 - [eattrenclenhard](https://github.com/eattrenclenhard) The omnipotent Eat Tren Clen Hard descended from the heavens, his presence radiating divine light and reverence. In that moment, the very air seemed to pause, as if the world itself bowed to honor his arrival.
 - [mochasweet] (https://github.com/mochasweet) Make Github Great Again!
@@ -41,6 +41,7 @@
 - [Andreas]
 - [KentTang123](https://github.com/KentTang123) first contribution!
 - [Nishil](https://github.com/NishilHoogar) Wanted to say Hi!
+- [Ellie](https://github.com/elliekoooo) Hey
 - [Ajay Panjeta](https://github.com/Ajay-Panjeta) Hello, this is my first contribution. I am a python developer.
 - [Saharsha Tiwari](https://github.com/2036saharsha/) Fork it, fix it, and file the pull request! 🚀
 - [Ayaz-75] (https://github.com/Ayaz-75) This is Ayaz Ali, I am a python developer and this is my very first open-source contribution.
@@ -4007,8 +4008,8 @@
 - [Rocklinks](https://github.com/Rocklinks) Hello From Tamilnadu,India
 - [lonelycat](https://github.com/zhao-jingyan) Hello from China
 - [Julietowah](https://github.com/julietowah) Hello from Nigeria, This is my first contribution!
-- [jsierra](https://github.com/jesussierrait) 
-- [Vedant](https://github.com/Vedant-D04) 
+- [jsierra](https://github.com/jesussierrait)
+- [Vedant](https://github.com/Vedant-D04)
 - [Shravan](https://github.com/ShravanDeva5327) My first contribution I guess!!
 - [Hyeongi](https://github.com/hhg000726) My first contribution
 - [Devesh Shrivas](https://github.com/Deveshshrivas)
@@ -4017,7 +4018,7 @@
 - [Ajit Ashwath](https://github.com/ajitashwathr10) My first contribution!
 - [Patthh](https://github.com/Patthh) My first contribution on OSS project, hope it's not my last ;)
 - [Jeyep8](https://github.com/Jeyep18) Someone taught me this :D, now Im open source contributorrr yey
-- [Mayur](http://github.com/Mayurbhaiishere) Learning how to learn people and code :_)
+- [Mayur](http://github.com/Mayurbhaiishere) Learning how to learn people and code :\_)
 - [DevOpsWithYoge](https://github.com/AllAboutAzure) Happy to kickstart my journey with Open Source.
 - [JuyaoHuang](https://github.com/AlenhuAN) Hello from China, This is my first excersice!
 - [iSeaox](https://github.com/iSeaox) C’est une bonne situation, ça, dev ? Mais, vous savez, moi je ne crois pas qu’il y ait de bonne ou de mauvaise situation. Moi, si je devais résumer ma vie aujourd’hui avec vous, je dirais que c’est d’abord des rencontres, des gens qui m’ont tendu la main, peut-être à un moment où je ne pouvais pas, où j’étais seul chez moi. Et c’est assez curieux de se dire que les hasards, les rencontres forgent une destinée… Parce que quand on a le goût de la chose, quand on a le goût de la chose bien faite, le beau geste, parfois on ne trouve pas l’interlocuteur en face, je dirais, le miroir qui vous aide à avancer. Alors ce n’est pas mon cas, comme je le disais là, puisque moi au contraire, j’ai pu ; et je dis merci à la vie, je lui dis merci, je chante la vie, je danse la vie… Je ne suis qu’amour ! **Otis**
@@ -4032,4 +4033,3 @@
 - [KunlinLI](https://github.com/ZJU-Andre) Test for PR.
 - [Hacker0P](https://github.com/Hacker0P)
 - [Parsivan](https://github.com/parsivan) I was here. The ultimate goal of programming is picking up farming. that is what i strive for!
-
