@@ -3897,6 +3897,7 @@
 - [akinatada](https://github.com/akinatada) This is my first contribution. Yay!🌟
 - [Yunbo Zhang] (https://github.com/cm2fh)
 - [Burka111](https://github.com/Burka111)
+- [Amani Medcroft] (https://github.com/slurpinpuffs) Hellarrrrr
 - [Tristan Spear] I love learning coding!
   [Mahati](https://github.com/Mahatig) Thanks for the Tutorial
 - [Brendan Riley] (https://github.com/brendanriley4) This is fun!
