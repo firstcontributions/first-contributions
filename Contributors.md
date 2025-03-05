@@ -4,7 +4,7 @@
 - [Tejesh Santosh Yewale](https://github.com/Tejeshyewale) this is my first to learn open-source and contribute 🌟
 - [Santosh Nc] (https://github.com/Santoshn26/) First step to start my contribution journey to Open source community excited to Explore things out there
 - [supwan] (https://github.com/supwan) Hello World
-- [Abhiram Ayyannagari] (https://github.com/abhiram-ayyan07) First step of achieving anything is believing "YOU CAN DEFINITELY DO IT". cheers to everyone.   
+- [Abhiram Ayyannagari] (https://github.com/abhiram-ayyan07) First step of achieving anything is believing "YOU CAN DEFINITELY DO IT". cheers to everyone.
 - [OS] (https://github.com/SD-OTM/)  First contribution
 - [Deborshi](https://github.com/decembboy/) First time in open source
 - [SIVAPRASAD. G] (https://github.com/sprasad519/)
@@ -301,7 +301,6 @@
   Daniel V
 
   - [Tejas Wangulkar](https://github.com/Tejas-987) Hi Everyone, here's my first contribution!
-
 - [Javier_AS](https://github.com/DevJProd)
 - [Prashant/Kenny](https://github.com/michalshelenberg)
 - [Prashant/Kenny](https://github.com/Prashant-SG14)
@@ -882,7 +881,7 @@
 - [asyraf34](https://github.com/asyraf34) : **_I Love Github!_**
 - Chagit Lipsky!
 - Dan
-- Kartik Sharma will prove himself worthy,<https://github.com/Kartikk28>
+- Kartik Sharma will prove himself worthy,[https://github.com/Kartikk28](https://github.com/Kartikk28)
 - Ishant kulshreshtha
 - Palak Sinha: My First Contribution
 - [Andrew Wildgoose](https://github.com/andrewwildgoose)
@@ -3696,11 +3695,10 @@
 - [Harshdeep](https://github.com/harshdeepsdhillon1) | Got a job !
 - [xpedroyx](https://github.com/xpedrotx) | apple pen!
 - [Amy](https://github.com/APape95)
-- Danish Raja  
-  Web Developer | Open Source Enthusiast  
-  GitHub: [Daniishraza](https://github.com/Daniishraza)  
+- Danish Raja
+  Web Developer | Open Source Enthusiast
+  GitHub: [Daniishraza](https://github.com/Daniishraza)
   "Learning, building, and contributing to open source!"
-
 - [FabioCanavarro](https://github.com/FabioCanavarro) | Goal: 10 Open source contribution before june
 - [Sukanya Ojha](https://github.com/khushi-engg)!goal to do in feb.
 - [Noah Adofina](https://github.com/itzRayys)
@@ -4007,8 +4005,8 @@
 - [Rocklinks](https://github.com/Rocklinks) Hello From Tamilnadu,India
 - [lonelycat](https://github.com/zhao-jingyan) Hello from China
 - [Julietowah](https://github.com/julietowah) Hello from Nigeria, This is my first contribution!
-- [jsierra](https://github.com/jesussierrait) 
-- [Vedant](https://github.com/Vedant-D04) 
+- [jsierra](https://github.com/jesussierrait)
+- [Vedant](https://github.com/Vedant-D04)
 - [Shravan](https://github.com/ShravanDeva5327) My first contribution I guess!!
 - [Hyeongi](https://github.com/hhg000726) My first contribution
 - [Devesh Shrivas](https://github.com/Deveshshrivas)
@@ -4033,4 +4031,4 @@
 - [Hacker0P](https://github.com/Hacker0P)
 - [Parsivan](https://github.com/parsivan) I was here. The ultimate goal of programming is picking up farming. that is what i strive for!
 - [Shivash](https://github.com/Shivashvenkataramani.)shivash was here.made my first contribute to open source.
-
+- [null-gman](https://github.com/null-gman) .
