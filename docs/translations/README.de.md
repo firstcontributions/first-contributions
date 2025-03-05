@@ -63,7 +63,6 @@ git checkout -b add-max-mustermann
 (Der Name des Branches muss nicht unbedingt das Wort _add_ beinhalten aber hier ist es sinnvoll, denn der Zweck deines Branches ist es ja, deinen Namen zur Liste hinzuzufügen.)
 
 ## Mache die nötigen Änderungen und committe sie
-
 Öffne `Contributors.md` in einem Text-Editor und füge deine Namen hinzu. Beachte, dass du den Namen nicht am Anfang oder am Ende der Datei hinzufügst. Speichere die Datei anschließend.
 
 Gibst du in der Kommandozeile nun `git status` ein, siehst du die Änderungen.
@@ -89,6 +88,7 @@ Pushe die Änderungen mit `git push`:
 ```
 git push origin <add-dein-Name>
 ```
+<!-- First open source comment -->
 
 Ersetze `<add-dein-Name>` mit dem Namen des Branches, den du zuvor erstellt hast.
 
