@@ -103,6 +103,8 @@ Təbriklər! Töhfə olaraq tez-tez qarşılaşacağınız standart _fork -> clo
 
 Töhfənizi qeyd edin və [veb tətbiqə](https://firstcontributions.github.io/#social-share) girərək dostlarınız və izləyicilərinizlə bölüşün.
 
+Daha çox təcrübə istəyirsinizsə, yoxlayın [kod töhfələri](https://github.com/roshanjossey/code-contributions).
+
 İndi başqa layihələrə töhfə verməyə başlayaq. Başlaya biləcəyiniz asan məsələləri olan layihələrin siyahısını hazırladıq, [siyahıya baxın](https://firstcontributions.github.io/#project-list).
 
 ### [Əlavə Məlumat](additional-material/git_workflow_scenarios/additional-material.md)
