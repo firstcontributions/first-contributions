@@ -3589,6 +3589,7 @@
 - [Likhita](https://github.com/likhita666)
 - Shifra
 - [Harison Harold](https://github.com/harisonharold)
+- [CoderJot] (https://https://github.com/coder-JOT)
 - [dshenforza](https://github.com/dshenforza)
 - [Peng Zixuan](https://github.com/wingpeng30)
 - [Moenes Zribi](https://github.com/zribimoenes)
