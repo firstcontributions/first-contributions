@@ -1406,6 +1406,7 @@ This is Piyush Nihalani.
 - Samarth Sharma
 - [YU-XIN-JIAN](https://github.com/YU-XIN-JIAN)
 - [Ankita Ayushi](https://github.com/a-ayushigit)
+- Feifan Gao
 - [Gökhan Özdemir](https://github.com/Han-90) Hi everyone, best regards from Germany :)
 - [Chandan Achary](https://github.com/Adventurist2)
 - [Christian Mayamba](https://github.com/chris-mayamba)
@@ -3693,9 +3694,9 @@ This is Piyush Nihalani.
 - [Amy](https://github.com/APape95)
 - Danish Raja  
  Web Developer | Open Source Enthusiast  
- GitHub: [Daniishraza](https://github.com/Daniishraza)  
- "Learning, building, and contributing to open source!"
- 
+  GitHub: [Daniishraza](https://github.com/Daniishraza)  
+  "Learning, building, and contributing to open source!"
+
 - [FabioCanavarro](https://github.com/FabioCanavarro) | Goal: 10 Open source contribution before june
 - [Sukanya Ojha](https://github.com/khushi-engg)!goal to do in feb.
 - [Noah Adofina](https://github.com/itzRayys)
