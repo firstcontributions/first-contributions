@@ -10,7 +10,8 @@
 - [supwan] (https://github.com/supwan) Hello World
 - [Haythem532002] (https://github.com/Haythem532002) first open source contribution
 - [peter_lustig] Peter Lustig master of desaster
-- [Abhiram Ayyannagari] (https://github.com/abhiram-ayyan07) First step of achieving anything is believing "YOU CAN DEFINITELY DO IT". cheers to everyone.   
+- [Abhiram Ayyannagari] (https://github.com/abhiram-ayyan07) First step of achieving anything is believing "YOU CAN DEFINITELY DO IT". cheers to everyone.  
+- [ElectScholar] (https://github.com/ElectScholar) first contribution
 - [OS] (https://github.com/SD-OTM/)  First contribution
 - [Deborshi](https://github.com/decembboy/) First time in open source
 - [IzabelLV](https://github.com/IzabelLV) First contribution!
