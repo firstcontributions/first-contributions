@@ -58,6 +58,7 @@
 - [Amit Chhatbar](https://github.com/amitchhatbar11) Let's start the OSS journey with this!
 - [Krishnaswaroop] Hello Everyone.. Nice to meet you all
 - [Andreas]
+- [Ishita Tayal](https://github.com/ishita-tayal) first contribution hehee 
 - [KentTang123](https://github.com/KentTang123) first contribution!
 - [Nishil](https://github.com/NishilHoogar) Wanted to say Hi!
 - [Ajay Panjeta](https://github.com/Ajay-Panjeta) Hello, this is my first contribution. I am a python developer.
