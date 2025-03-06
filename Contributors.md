@@ -931,6 +931,7 @@
 - [Essoly Elyazid](https://github.com/MrElyazid)
 - [HAONAN TAO](https://github.com/HAONANTAO)
 - [HayatZarine](https://github.com/HayatZarine): Hello OpenSource world!
+- [Hayrettin Mavis](https://github.com/hayrettinm/) -> My very first step for my goal : contributing to open source
 - [Leonardo Carvalho Machado](https://github.com/leonardocarmac)
 - [Kaushal Chhaunkar](https://github.com/chhaunkar96)
 - [RickFerrDev](https://github.com/RickFerrDev)
