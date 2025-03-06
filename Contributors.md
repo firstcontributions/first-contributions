@@ -1232,6 +1232,7 @@
 - [Kristoffer Paulsson](https://github.com/kristoffer-paulsson)
 - [benHitt](https://github.com/benHitt123)
 - [uzuraDev](https://github.com/uzuraDev)
+- [Eoin Breen](https://github.com/ebreen1)
 - [Eugene Chia](https://github.com/eugenechia)
 - [Adam Moria](https://github.com/aabro1325)
 - [oogway-x3t](https://github.com/oogway-x3t)
