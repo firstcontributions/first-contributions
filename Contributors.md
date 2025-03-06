@@ -1448,6 +1448,7 @@
 - Samarth Sharma
 - [YU-XIN-JIAN](https://github.com/YU-XIN-JIAN)
 - [Ankita Ayushi](https://github.com/a-ayushigit)
+- Feifan Gao
 - [Gökhan Özdemir](https://github.com/Han-90) Hi everyone, best regards from Germany :)
 - [Chandan Achary](https://github.com/Adventurist2)
 - [Christian Mayamba](https://github.com/chris-mayamba)
