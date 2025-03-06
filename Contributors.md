@@ -1336,6 +1336,7 @@
 - [Dario Moreno](https://github.com/3dmoreno)
 - [Gad](https://github.com/Gad)
 - [Jeremiah](https://github.com/jrmhx)
+- [Raphael Filipiak](https://github.com/rf-temmel) Starting my journey as a webdev!
 - [ManzaLord](https://github.com/ManzaLord) : Journey before destination
 - [Akshey](https://github.com/aksheyd)
 - [Darllyson Santos](https://github.com/DarllysonS)
@@ -4077,6 +4078,7 @@
 - [KunlinLI](https://github.com/ZJU-Andre) Test for PR.
 - [Hacker0P](https://github.com/Hacker0P)
 - [Parsivan](https://github.com/parsivan) I was here. The ultimate goal of programming is picking up farming. that is what i strive for!
+- [Shivash](https://github.com/Shivashvenkataramani.)shivash was here.made my first contribute to open source.
 - [Shivash](https://github.com/Shivashvenkataramani.)shivash was here.made my first contribute to open source.
 - [PM25OO](https://github.com/PM25OO) Hello! Love from China 😜
 - [Daniel Quevedo](https://github.com/DanielQuevedo1) Hello there!
