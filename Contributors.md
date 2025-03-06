@@ -4061,7 +4061,7 @@
 - [Julianchu](https://github.com/JulianChu00) Hello from China.
 - [Rahul Selvaraj](https://github.com/Laihu08)
 - [lilblueyes](https://lilblueyes.github.io/lilblueyes/) Hello from France! (btw, the guy above is really funny)
-- [JimmyC27] (https://github.com/JimmyC27/) A random line entered
+- [JimmyC27] (https://github.com/JimmyC27/) A random line entered twice
 - [Irina Kuettner](https://github.com/IK-IT-PM) My first step und contribution!
 - [Brian Kwan](https://github.com/BrianKwan0909/) My first step of contribution!
 - [Veldrine Evelia Kaharwa](https://github.com/Tech-Vexy)
