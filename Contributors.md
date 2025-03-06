@@ -52,6 +52,7 @@
 - [Hashem SH](https://github.com/hashemsh) Init 10 ⚡
 - [Abayomi] (itsabayomi2)
 - [Amit Chhatbar](https://github.com/amitchhatbar11) Let's start the OSS journey with this!
+- [Krishnaswaroop] Hello Everyone.. Nice to meet you all
 - [Andreas]
 - [KentTang123](https://github.com/KentTang123) first contribution!
 - [Nishil](https://github.com/NishilHoogar) Wanted to say Hi!
