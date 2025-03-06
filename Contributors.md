@@ -2575,6 +2575,7 @@
 - [Pankaj Singh Koranga](https://github.com/PankajSingh10)
 - [Daniel](https://github.com/dddanielliu)
 - [Marcelina Maye Abaga Maye](https://github.com/Marmaye)
+- [Jihye](https://github.com/Jihye817)
 - [MratWong](https://github.com/MratWong)
 - [MarianoJ](https://github.com/marianoj1984)
 - [Roman Zvir](https://github.com/roman-zvir)
