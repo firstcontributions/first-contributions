@@ -1101,6 +1101,7 @@
 - [Mahwish Rizwan](https://github.com/MahwishRizwan)
 - [Pedro Peña Segura](https://github.com/ppsegura)
 - [Justen Manni](https://github.com/justenmx) : Software Engineer
+- [RiperCrepe](https://github.com/ripercrepe)
 - [CynthiaWahome](https://github.com/CynthiaWahome)
 - [CaraMcG](https://github.com/caraMcG)
 - [Arnav Joshi](https://github.com/Arnav020)
