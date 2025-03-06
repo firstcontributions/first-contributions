@@ -349,6 +349,7 @@
 - [Owais Ahmad](https://github.com/codingwithowais) This is my first contribution!
 - [rustyziptie](https://github.com/RustyZipTie?tab=overview&from=2025-02-01&to=2025-02-11)
 - Yash Soni
+- open source explorer
 - [Mahiman Bissa](https://github.com/mahiman12) Hi, This is my first contribution!
 - [Jude Mpoyo](https://github.com/judempoyo) 👨🏾‍💻😁
 - [cochkoch](https://github.com/cochkoch)
