@@ -118,6 +118,7 @@
 - [Mostafa Nassar](https://github.com/Mostafa-SWE) Front End Software Engineer, This is a practical demo of contribution to prepare for GSoC 2025
 - [Matheus Nunes](https://github.com/MateushSNunes) Hello, World!
 - [Bapt]
+-[sathvik-9](https://githib.com/sathvik-9) Here for my first contribution!
 - [Kerim Demir](https://github.com/kerimdemir9)
 - [RazFernandez](https://github.com/RazFernandez) This my first contribution, first milestone to become a Full Stack Developer. Greetings from Mexico :v:
 - [mqrv-mckl](https://github.com/mqrv-mckl) heyyy :)
