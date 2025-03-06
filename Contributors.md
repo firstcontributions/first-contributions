@@ -1232,6 +1232,7 @@
 - [Swapneel_Singh](https://github.com/swapneelsingh) : Just the beginning..
 - [aqeelabpro](https://github.com/aqeelabpro)
 - Bandish Patel.
+- [Morgan Gallagher](https://github.com/mgallagher28)
 - [jspop]
 - [Fred Mwaniki](https://github.com/ngari-s8z)
 - [gyanchandkabra](https://github.com/gyanchandkabra)
