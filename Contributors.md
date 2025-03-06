@@ -1098,6 +1098,7 @@
 - [Mahwish Rizwan](https://github.com/MahwishRizwan)
 - [Pedro Peña Segura](https://github.com/ppsegura)
 - [Justen Manni](https://github.com/justenmx) : Software Engineer
+- [RiperCrepe](https://github.com/ripercrepe)
 - [CynthiaWahome](https://github.com/CynthiaWahome)
 - [CaraMcG](https://github.com/caraMcG)
 - [Arnav Joshi](https://github.com/Arnav020)
@@ -1107,7 +1108,6 @@
 - [Anurag Chaturvedi](https://github.com/anuragjcchaturvedi)
 - [Manas Mahajan](https://github.com/ManasMahajan2003)
 - [Christopher O.](https://github.com/limitpointinf0)
-- [RiperCrepe](https://github.com/ripercrepe)
 - [SNN](https://github.com/sungenyeint)
 - [Aditya Radadiya](https://github.com/RadadiyaAditya)
 - [Mostapha EL ANSARI](https://github.com/mostaphaelansari)
