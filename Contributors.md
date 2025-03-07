@@ -4091,6 +4091,7 @@ Riustina
 - [Irina Kuettner](https://github.com/IK-IT-PM) My first step und contribution!
 - [Brian Kwan](https://github.com/BrianKwan0909/) My first step of contribution!
 - [Veldrine Evelia Kaharwa](https://github.com/Tech-Vexy)
+- [Antonio Maggiore] (https://github.com/credp1985/)
 - [Yinglinc](https://github.com/YinglinC) Study hard
 - [JiayueYang](https://github.com/jryyangjy) My first step of pushing my local file to github
 - [KunlinLI](https://github.com/ZJU-Andre) Test for PR.
