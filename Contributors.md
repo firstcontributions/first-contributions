@@ -441,6 +441,7 @@
 - [Binaryguardia](https://github.com/binaryguardia)
 - [Syam](https://github.com/syamjith44)
 - [ShivankXD](https://github.com/ShivankXD) Happy to make my first contribution!
+- [Harmony Mothershed](https://github.com/hmothershed) Thank you for this opportunity! Excited to contribute to more open-source projects🫶🏾
 - [Richard Nixon](https://github.com/richardnixondev)
 - [Tony Montana](https://github.com/tonymont4n4)
 - [Dhanvin Ratheesh](https://github.com/dhanvin-6)
