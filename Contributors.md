@@ -19,6 +19,7 @@
 - [peter_lustig] Peter Lustig master of desaster
 - [Abhiram Ayyannagari] (https://github.com/abhiram-ayyan07) First step of achieving anything is believing "YOU CAN DEFINITELY DO IT". cheers to everyone.
 - [ElectScholar] (https://github.com/ElectScholar) first contribution
+- [Amey Shah] (https://github.com/amey3636) first contribution
 - [OS] (https://github.com/SD-OTM/) First contribution
 - [Balaji guru] My Very first contribution
 - [chanbay] (https://github.com/Imchanbay) hello from indonesia!
