@@ -32,6 +32,7 @@
 - [satishkumarnarayanasamy](https://github.com/mochasweet) Make Github Great Again!
   Akbar: Nima gap!
 - [r0s3ndev] first contribution lol
+- [daniels_16] This is my very first step on GitHub! Hi everyone!
 - [CheDani](https://github.com/CheDaniSV) Hi everyone! 👾
 - [mochasweet](https://github.com/mochasweet) Make Github Great Again!
 - [AakashPrithiveeRam](https://github.com/aakashprithiveeram) Hello **Everyone!**, I'm here stating my Open Source journey !
@@ -47,6 +48,7 @@
 - [matthew] (https://github.com/MatthewW07) Consider the goals that a benefit of a sacrafice contributes to to optimize gain from loss!
 - [vatsalya] (https://github.com/VatsalyaBetala)
 - [ruchit] (https://github.com/ruchitsheth13) hey!
+Riustina
 - [Kehinde Adedokun](https://github.com/hi-heavens/) Hey! Nice being here. This is from a class task. Thank you!
 - [vigneshwaran] (https://github.com/joyboy0711) Hey Hello everyone.. Nice to meet you all.
 - [Abdul Hakeem] (https://github.com/abdulhakeem19) First step into open source cheers!
@@ -4110,3 +4112,4 @@
 - [Morn734](https://github.com/Morn734) Commemoration!
 - [Abhijeet](https://github.com/Abhijeet213) Gimme My Money!!
 - [Mahya Madelta] (https://github.com/mahyamadelta) the first step in opensource contribution, I'm very exited 🚀
+- [ubantpy](https://github.com/ubantpy)
