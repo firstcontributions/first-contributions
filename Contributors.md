@@ -386,6 +386,7 @@
 - [Lena Andjelkovic](https://github.com/lenicqq)
 - [Aarush Pandey](https://github.com/Hadar01)
 - [Kyle Murray](https://github.com/kylepatmurray)
+- [Jayanjan Mukherjee](https://github.com/jicoing) - Hello World! First contribution!
 - [Ayantunji Timilehin](https://github.com/timmy471)
 - [joothy](https://github.com/thikshathajoothy) -[Delvyn]Hello everynyan
 - [Ernie Cheng](https://github.com/erniecy0124)
