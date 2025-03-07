@@ -111,15 +111,15 @@
 - [Zuhaitz](https://github.com/Zuhaitz-dev) Grains of sand form deserts.
 - [Mursaleen Nisar](https://github.com/mursaleen-nisar) I'm a professional full stack web developer and an experienced freelancer and this is my first open source contribution.
 - [GediminasLA](https://github.com/GediminasLA) See you in other OS projects!
-- [Vedant Ere] (https://github.com/vedant-ere) First of many
-- [Aniket Verma] (https://github.com/Aniket7545) Hi, this is my first open source contribution.
+- [Vedant Ere](https://github.com/vedant-ere) First of many
+- [Aniket Verma](https://github.com/Aniket7545) Hi, this is my first open source contribution.
   This is Piyush Nihalani.
   [Mujahidah Abdurrahmon] Hello Everyone
 - [Kourosh Altafi](https://github.com/kouroshai) Hello Everybody, First from IRAN, 2025
 - [Prabha Nagaraj](https://github.com/prabhanjasu) Full Stack Developer and This is my first contribution!
 - [Akshansh](https://github.com/akshansh029) was here :)
 - [Iveel]()
-- [John Baker] (https://github.com/jbaker8935)
+- [John Baker](https://github.com/jbaker8935)
 - ZhangPengQi
 - [Sahrin Tahiyat Khusi](https://github.com/Sahrin-Tahiyat-Choudhury)git add Contributors.md
 - [Soundarya](https://avatars.githubusercontent.com/u/141019246?v=4&size=64) First contribution 🎀
@@ -162,11 +162,10 @@
 - [Prince Gabecha] I hope it turns out well!!
 - [Ian Ko](https://github.com/kosunghw) This is my first contribution!
 - [Andrew Martinez](https://github.com/andymartinez1) I love contributing!
-- [Sauzan Faza] its my first contribution!!
-  (https://github.com/sauzanfaza/first-contributions)
+- [Sauzan Faza](https://github.com/sauzanfaza/first-contributions)its my first contribution!!
 - [Jas Singh](https://github.com/TheAlphaJas) Letsgooo
 - [Youssef mohamed](https://github.com/TURBO70)
-- [Aqib Khan] (https://github.com/KAquib24)MY FIRST CONTRIBUTION!!!
+- [Aqib Khan](https://github.com/KAquib24)MY FIRST CONTRIBUTION!!!
 - [Ami-L] (https://github.com/amilia-n) Hi!! I love Techtonica! -[Rayclu](https://github.com/Rayclu) Hi!! I'm Claudio and THIS IS MY FIRST CONTRIBUTION, I'm crying because the emotion (It's a joke)
 - [Misavalmad](https://github.com/Misavalmad) I hope all of us achieve our goals
 - [Valentine Ukah](https://github.com/Tinobrace/first-contributions) 05/03/2025. Valentine Uchenna Ukah was here. See you at the top
@@ -251,7 +250,7 @@
 - [anandvijy]
 - [Muhammad Gamal Azab](https://github.com/muhammadgamalazab) This is Jimmy, DevOps Engineer.
 - [Sithara](https://github.com/Sithartk) Hey!.
-- [JCJ-CS] (https://github.com/JCJ-CS/JCJ-CS)
+- [JCJ-CS](https://github.com/JCJ-CS/JCJ-CS)
 - Amit Kumar[https://github.com/](https://github.com/amit15000) Thanks for the beginners tutorial.
 - [Michele pelegrinelli](https://github.com/michelepelegrinelli) Hi everyone!
 - [Ahmad Allahverdiyev](https://github.com/hmd37) Thank you for the tutorial
@@ -371,6 +370,7 @@
 - [Ze Santos](https://github.com/ze13sk) altamente
 - [Md Faizan Ashrafi](https://github.com/mdfaizanashrafi) Hey Guys! Not my first contribution
 - [Aldo Koyoc](https://github.com/Koyoc23)
+- [Omofon](https://github.com/omofz) To the stars🚀
 - [yash](https://github.com/YASHWANTHBH1)- hi
 - [Aakash](https://github.com/aakash1v)- This is my first contribution..
 - [Rebecca](https://github.com/Beccatoni) This is my first contribution, looking forward to making more contributions😌
@@ -412,8 +412,8 @@
 - [Feng-chengyi](https://github.com/Feng-chengyi)
 - [Kai Mwanyumba](https://github.com/mwanyumba7)
 - [Akhil Nambiar](https://github.com/akhilnambiar29) Testing first open source
-- [NataliaBachiega] (https://github.com/NataliaBachiega) Hi ≽^•⩊•^≼
-- [Alifa-Ara-Heya] (https://github.com/alifa-ara-heya) Alhamdulillah (All praises to Allah), my first contribution in the open source world. :D
+- [NataliaBachiega](https://github.com/NataliaBachiega) Hi ≽^•⩊•^≼
+- [Alifa-Ara-Heya](https://github.com/alifa-ara-heya) Alhamdulillah (All praises to Allah), my first contribution in the open source world. :D
 - [Wahab-Guerrilla] (https://github.com/wGuerrilla) Alhumdulillah.
 - [Julia Robe] (https://github.com/juliarobe)
 - [Badrinath](https://github.com/Badrinath7941)
