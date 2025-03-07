@@ -2,7 +2,7 @@
 
 - [codeplaygroundspace] (https://github.com/codeplaygroundspace/)
 - [John Hendricks](https://github.com/j-hendricks)
-- [Juliana Gómez Consuegra](https://github.com/JulianaGomez) 
+- [Juliana Gómez Consuegra](https://github.com/JulianaGomez)
 - [Mohamed Turki](https://github.com/MohamedTurki96) m3ellem 🐔
 - [Abhishek Bagal] (https://github.com/AbhishekBagal9) First step into open-source excited to contribute and learn more! 🚀
 - [Christin Estrella] (https://github.com/CCestrella) this is exciting!
@@ -16,9 +16,9 @@
 - [Haythem532002] (https://github.com/Haythem532002) first open source contribution
 - Aman Kumar Agarwal
 - [peter_lustig] Peter Lustig master of desaster
-- [Abhiram Ayyannagari] (https://github.com/abhiram-ayyan07) First step of achieving anything is believing "YOU CAN DEFINITELY DO IT". cheers to everyone.  
+- [Abhiram Ayyannagari] (https://github.com/abhiram-ayyan07) First step of achieving anything is believing "YOU CAN DEFINITELY DO IT". cheers to everyone.
 - [ElectScholar] (https://github.com/ElectScholar) first contribution
-- [OS] (https://github.com/SD-OTM/)  First contribution
+- [OS] (https://github.com/SD-OTM/) First contribution
 - [Balaji guru] My Very first contribution
 - [Deborshi](https://github.com/decembboy/) First time in open source
 - [IzabelLV](https://github.com/IzabelLV) First contribution!
@@ -48,7 +48,7 @@
 - [matthew] (https://github.com/MatthewW07) Consider the goals that a benefit of a sacrafice contributes to to optimize gain from loss!
 - [vatsalya] (https://github.com/VatsalyaBetala)
 - [ruchit] (https://github.com/ruchitsheth13) hey!
-Riustina
+  Riustina
 - [Kehinde Adedokun](https://github.com/hi-heavens/) Hey! Nice being here. This is from a class task. Thank you!
 - [vigneshwaran] (https://github.com/joyboy0711) Hey Hello everyone.. Nice to meet you all.
 - [Abdul Hakeem] (https://github.com/abdulhakeem19) First step into open source cheers!
@@ -64,7 +64,7 @@ Riustina
 - [Amit Chhatbar](https://github.com/amitchhatbar11) Let's start the OSS journey with this!
 - [Krishnaswaroop] Hello Everyone.. Nice to meet you all
 - [Andreas]
-- [Ishita Tayal](https://github.com/ishita-tayal) first contribution hehee 
+- [Ishita Tayal](https://github.com/ishita-tayal) first contribution hehee
 - [KentTang123](https://github.com/KentTang123) first contribution!
 - [Nishil](https://github.com/NishilHoogar) Wanted to say Hi!
 - [Ellie](https://github.com/elliekoooo) Hey
@@ -132,8 +132,7 @@ Riustina
 - [jiawei](https://github.com/jiawei64850) practice for my first contribution.
 - [Mostafa Nassar](https://github.com/Mostafa-SWE) Front End Software Engineer, This is a practical demo of contribution to prepare for GSoC 2025
 - [Matheus Nunes](https://github.com/MateushSNunes) Hello, World!
-- [Bapt]
--[sathvik-9](https://githib.com/sathvik-9) Here for my first contribution!
+- [Bapt] -[sathvik-9](https://githib.com/sathvik-9) Here for my first contribution!
 - [Kerim Demir](https://github.com/kerimdemir9)
 - [RazFernandez](https://github.com/RazFernandez) This my first contribution, first milestone to become a Full Stack Developer. Greetings from Mexico :v:
 - [mqrv-mckl](https://github.com/mqrv-mckl) heyyy :)
@@ -142,7 +141,7 @@ Riustina
 - [Karthik Sriramoju](https://github.com/karthiksriramoju) I'll be doing Opensource Seriously.
 - [Kanye west SOrry North] Lets Fork It Boys!!!!
 - [Daniel Dias](https://github.com/ecodelearn) Hello Brazil, my first contribution here!
-- [João Guilherme](https://github.com/Camarota-234) Hello from Brazil! 
+- [João Guilherme](https://github.com/Camarota-234) Hello from Brazil!
 - [Jonatas Winston | CyberSecurity | @jonatas_winston](https://github.com/winstonsec)
 - [Sarang Patil](https://github.com/saarang2003)
 - [Sameehana Chavali](https://github.com/sameehana18) I am excited to learn about open source contribution
@@ -1007,6 +1006,7 @@ Riustina
 - [EKWUNIFE, Oluwatomiwa](https://github.com/elisheba-beep) : first contribution!
 - [John B](https://github.com/JB31415): Testing out pull requests
 - [Vijay Makwana](https://github.com/vijay-makwana959/first-contributions.git) : Hello contributors!
+- [Karan Rajiwade](https://github.com/KaranRajiwade) : Hello everyone!
 - [Sebastián Lozano](https://github.com/SebastianL-dev) : Web developer
 - [ninthursday](https://github.com/ninthursday)
 - [BarathKalyan](https://github.com/Barathkalyan): Gonna rock from now on!!
@@ -4099,9 +4099,9 @@ Riustina
 - [Shivash](https://github.com/Shivashvenkataramani.)shivash was here.made my first contribute to open source.
 - [PM25OO](https://github.com/PM25OO) Hello! Love from China 😜
 - [Daniel Quevedo](https://github.com/DanielQuevedo1) Hello there!
-- [Volowoon](https://github.com/volowoon)  My first step towards the world of open source:) Hello World!
+- [Volowoon](https://github.com/volowoon) My first step towards the world of open source:) Hello World!
 - [AnmSleepalone](https://github.com/AnmSleepalone) Now, it is my turn.
-- [Surjeet] (https://github.com/surjeetrana-cts) surjeet here to add my test contirbution 
+- [Surjeet] (https://github.com/surjeetrana-cts) surjeet here to add my test contirbution
 - [JimmyLin](https://github.com/Jimmy-0) First step. I hope this can keep going...
 - [Mikami](https://github.com/mikami-w) This is my first contribution, and I am glad to do this. Hope this is not my last. qwq
 - My first contribution
