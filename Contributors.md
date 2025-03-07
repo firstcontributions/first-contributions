@@ -61,6 +61,7 @@ Riustina
 - [jhena] (https://github.com/jhenals) This is my first contribution!
 - [awkwardpy](https://github.com/awkward-py) Make this GitHub repo legendary again! 🚀
 - [Margaux] (https://github.com/margaux-works) Hello, world!
+- [ricky-aufvaa] (https://github.com/ricky-aufvaa) Hello, world!
 - [Hashem SH](https://github.com/hashemsh) Init 10 ⚡
 - [Abayomi] (itsabayomi2)
 - [Amit Chhatbar](https://github.com/amitchhatbar11) Let's start the OSS journey with this!
