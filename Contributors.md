@@ -3767,9 +3767,9 @@
 - [Harshdeep](https://github.com/harshdeepsdhillon1) | Got a job !
 - [xpedroyx](https://github.com/xpedrotx) | apple pen!
 - [Amy](https://github.com/APape95)
-- Danish Raja  
-  Web Developer | Open Source Enthusiast  
-  GitHub: [Daniishraza](https://github.com/Daniishraza)  
+- Danish Raja
+  Web Developer | Open Source Enthusiast
+  GitHub: [Daniishraza](https://github.com/Daniishraza)
   "Learning, building, and contributing to open source!"
 
 - [FabioCanavarro](https://github.com/FabioCanavarro) | Goal: 10 Open source contribution before june
@@ -4129,3 +4129,4 @@
 - [Abhijeet](https://github.com/Abhijeet213) Gimme My Money!!
 - [ubantpy](https://github.com/ubantpy)
 - [dragenkit](https://github.com/dragenkit) hi im happy to make this contribution
+- [DavidAMaldonadoH](https://github.com/DavidAMaldonadoH) Trying to make a constribution!
