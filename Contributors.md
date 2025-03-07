@@ -1228,6 +1228,7 @@ Riustina
 - [Ryan Tham](https://github.com/ryanjrt)
 - [Ryan Gapp](https://github.com/ryan-gapp)
 - [Navreet Kaur](https://github.com/NavreetKB)
+- [Ammar Adnew](https://github.com/AmmarAdnew)
 - [Algorytmouse](https://github.com/algorytmouse)
 - [Nidhin Sankar](https://github.com/nidhinsankar)
 - [Hari Krishan](https://github.com/Hari-krishna-tech)
