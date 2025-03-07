@@ -19,6 +19,7 @@
 - [Abhiram Ayyannagari] (https://github.com/abhiram-ayyan07) First step of achieving anything is believing "YOU CAN DEFINITELY DO IT". cheers to everyone.  
 - [ElectScholar] (https://github.com/ElectScholar) first contribution
 - [OS] (https://github.com/SD-OTM/)  First contribution
+- [Balaji guru] My Very first contribution
 - [Deborshi](https://github.com/decembboy/) First time in open source
 - [IzabelLV](https://github.com/IzabelLV) First contribution!
 - [GustavoAlves](https://github.com/DevAlvesGG) Primeira Contribuição!!!
