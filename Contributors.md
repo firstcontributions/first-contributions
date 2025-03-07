@@ -99,6 +99,7 @@
 - [Jordan](https://github.com/jrsweig9021) 1337.
 - [Steve](https://github.com/HtunThiha) Hello World!
 - [Hallie Ricci](https://github.com/halliericci6)Hi, this is my first contribution! -[Paul Gulti](https://github.com/Paulgulti) My first ever contribution. Hope it won't be my last 😉
+- [Atharav Singh](https://github.com/AtHaRaVs)Hi, I will becomes the developer, they always think to hire!
 - [WadeHsu0](https://github.com/WadeHsu0)I love contributing ,happy every day!
 - [Ramya Vedi] Hey thank you for the great guide!!
 - [Vivek Vallabhan](https://github.com/vvivek498) I would love to contribute to open source projects.
