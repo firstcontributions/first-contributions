@@ -95,6 +95,7 @@
 - [Andres Salgueiro](https://github.com/Andres-Salgueiro) Open your eyes for the next Faiz
 - [Ausaf Ahmad Ansari](https://github.com/ahmad-ausaf0/) - Life is an opportunity - Take it
 - [Charles DeClouette II] (https://github.com/CharlesDdev) Finally!! My first contribution! May the odds be ever in your favor.
+- [zizzi](http://github.com/zizzii) - First contribution!
 - [Philip Hsinh] (https://github.com/xhbear) It's been a long way from punching holes to just casually typing text and having it seen across the globe!
 - [Shey Camille](https://github.com/sheycamille) Let's make softwares better by sharing ideas!
 - [Lwin Moe Oo](https://github.com/sheycamille) Freedom from Fear
