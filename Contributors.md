@@ -152,6 +152,7 @@
 - [Daniel Dias](https://github.com/ecodelearn) Hello Brazil, my first contribution here!
 - [João Guilherme](https://github.com/Camarota-234) Hello from Brazil!
 - [Jonatas Winston | CyberSecurity | @jonatas_winston](https://github.com/winstonsec)
+- [Khojasteh Mirza | (https://github.com/vulcan-332)]
 - [Sarang Patil](https://github.com/saarang2003)
 - [Sameehana Chavali](https://github.com/sameehana18) I am excited to learn about open source contribution
 - [Krishna Kumar](https://github.com/KrsihnaDev) Hellow(26-02-2025)
