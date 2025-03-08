@@ -3,6 +3,7 @@
 - [Pranav Kumar](https://github.com/pranavkodin) Oye! balle balle free ki achievement!
 - [Christopher Wright](https://github.com/cwrightlibrary)
 - [Debasrita Saha](https://github.com/DebasritaS)
+- [Michael Wu](https://github.com/miwucy) This is my first contribution!
 - [Ditto R K Asnar](https://github.com/dittorahmat) First time contribution to open source
 - [codeplaygroundspace] (https://github.com/codeplaygroundspace)- [John Hendricks](https://github.com/j-hendricks)
 - [Juliana Gómez Consuegra](https://github.com/JulianaG
