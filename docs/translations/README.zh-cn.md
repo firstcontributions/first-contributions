@@ -114,6 +114,7 @@ git push origin <分支的名称>
 
 为你的第一次贡献庆祝吧，不要忘记和你的朋友以及你的小迷弟小迷妹们分享我们的[网站](https://roshanjossey.github.io/first-contributions/#social-share)哟！
 
+(如果你遇到问题或者有任何疑问，你可以加入我们的团队交流。[加入团队](https://github.com/roshanjossey/code-contributions)。)
 
 
 如果您想更多练习，请查看(https://github.com/roshanjossey/code-contributions)。
