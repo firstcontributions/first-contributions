@@ -97,6 +97,7 @@
 - [Sami Ahmed] (https://github.com/SamiA1995) Hello
 - [ditsus](https://github.com/ditsus) Good luck to whoever reads this!
 - [Valentine](https://github.com/theocode12) Hello Universe!!!
+- [Ebubechukwu Ogubunka](https://github.com/Ebube101) made my contributions from Nigeria
 - [DavideGrecoGit](https://github.com/DavideGrecoGit) - GLHF!
 - [Andres Salgueiro](https://github.com/Andres-Salgueiro) Open your eyes for the next Faiz
 -test contribution
@@ -4152,3 +4153,4 @@
 - [Lachlovy](https://github.com/lachlovy) Hi, I am honored to be here. Hope to contribute more to open-source projects in the future!
 - [Soma] First time contributing to a project. hope to do more
 - [skv0zsneg](https://github.com/skv0zsneg) OpenSource helping us and we must help it too! 🚀
+
