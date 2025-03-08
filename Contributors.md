@@ -774,6 +774,7 @@
 - [CAN](https://github.com/lawinpyae)
 - [Korupoju Saikrishna](https://github.com/saikrishna411)
 - [Roshan Bara](https://github.com/roshanbara)
+- [Yanagisawa Noriko](https://github.com/Yanagisawa-Noriko)
 - [MCorneliussen](https://github.com/MCorneliussen)
 - [Nishitha Tirumalaraju](https://github.com/nishithat-28)
 - [Jorge Hecherat](https://github.com/Hechprad)
