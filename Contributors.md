@@ -2,10 +2,10 @@
 
 - [Pranav Kumar](https://github.com/pranavkodin) Oye! balle balle free ki achievement!
 - [Christopher Wright](https://github.com/cwrightlibrary)
+- [Debasrita Saha](https://github.com/DebasritaS)
 - [Ditto R K Asnar](https://github.com/dittorahmat) First time contribution to open source
-- [codeplaygroundspace] (https://github.com/codeplaygroundspace)
-- [John Hendricks](https://github.com/j-hendricks)
-- [Juliana Gómez Consuegra](https://github.com/JulianaGomez)
+- [codeplaygroundspace] (https://github.com/codeplaygroundspace)- [John Hendricks](https://github.com/j-hendricks)
+- [Juliana Gómez Consuegra](https://github.com/JulianaG
 - [Mohamed Turki](https://github.com/MohamedTurki96) m3ellem 🐔
 - [Abhishek Bagal] (https://github.com/AbhishekBagal9) First step into open-source excited to contribute and learn more! 🚀
 - [Shakirullah](https://github.com/Shakirullah25) Always curious about how forking a repo works
