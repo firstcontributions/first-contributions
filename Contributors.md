@@ -4150,7 +4150,7 @@
 - [Karan Kumar](https://github.com/KaranKumar282828) Hello everyone today I am going to start my open source contribution journey.
 -  [ll1zt](https://github.com/ll1zt) hello there!
 - [Lachlovy](https://github.com/lachlovy) Hi, I am honored to be here. Hope to contribute more to open-source projects in the future!
-documentation-update
 - [Daniel] Hello everyone. Happy to be here, hoping to contribute more to open-source projects in the nearest future!
 [skv0zsneg](https://github.com/skv0zsneg) OpenSource helping us and we must help it too! 🚀
-
+- [Soma] First time contributing to a project. hope to do more
+- [skv0zsneg](https://github.com/skv0zsneg) OpenSource helping us and we must help it too! 🚀
