@@ -3833,6 +3833,7 @@ piyuma iddamalgoda
 - [https://github.com/ahmed-seidu] Ahmed Tijani Seidu
   [Sid](https://github.com/siddhantsingh-25) Start Afresh
 - [Sohib](https://github.com/abdimannabov) The Moon Haunts You!
+- [Mark](https://github.com/mpaguay)
 - [Kelly Sun](https://github.com/xiyuansun)
 - [Oladimeji](https://github.com/boladimeji834) Destined for More!
 - [HarisChandio](https://github.com/HarisChandio) Dhhttps://github.com/Regan2327/first-contributions.gitatteBayo!
