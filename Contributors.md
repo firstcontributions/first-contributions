@@ -1,5 +1,6 @@
 # Contributors
 
+- [Hugo Pereira] Take the green pill.
 - [Pranav Kumar](https://github.com/pranavkodin) Oye! balle balle free ki achievement!
 - [Christopher Wright](https://github.com/cwrightlibrary)
 - [Debasrita Saha](https://github.com/DebasritaS)
