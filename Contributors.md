@@ -177,6 +177,7 @@
 - [Ian Ko](https://github.com/kosunghw) This is my first contribution!
 - [Andrew Martinez](https://github.com/andymartinez1) I love contributing!
 - [Sauzan Faza](https://github.com/sauzanfaza/first-contributions)its my first contribution!!
+- [Hello](https://github.com/theJuniorProgrammer3/) This is my first contribution!!! Why did I try this?!?!? Weheheeheeh.
 - [Jas Singh](https://github.com/TheAlphaJas) Letsgooo
 - [Youssef mohamed](https://github.com/TURBO70)
 - [Aqib Khan](https://github.com/KAquib24)MY FIRST CONTRIBUTION!!!
