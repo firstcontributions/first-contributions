@@ -6,6 +6,7 @@
 - [Michael Wu](https://github.com/miwucy) This is my first contribution!
 - [Ditto R K Asnar](https://github.com/dittorahmat) First time contribution to open source
 - [codeplaygroundspace] (https://github.com/codeplaygroundspace)- [John Hendricks](https://github.com/j-hendricks)
+piyuma iddamalgoda
 - [Juliana Gómez Consuegra](https://github.com/JulianaG
 - [Mohamed Turki](https://github.com/MohamedTurki96) m3ellem 🐔
 - [Abhishek Bagal] (https://github.com/AbhishekBagal9) First step into open-source excited to contribute and learn more! 🚀
