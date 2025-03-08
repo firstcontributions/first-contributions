@@ -51,6 +51,7 @@
 [MeriWtech](https://github.com/MeriWtech.com) First time contributer, yay!
 - [AryanKhandhadiya] (https://github.com/aryanyk) The biggest regret is not trying.
 - [mochasweet] (https://github.com/mochasweet) Make Github Great Again!
+- [Einstephener] (https://github.com/Einstephener) annyeonghaseyo. jalbutaghaeyo.
 - [matthew] (https://github.com/MatthewW07) Consider the goals that a benefit of a sacrafice contributes to to optimize gain from loss!
 - [vatsalya] (https://github.com/VatsalyaBetala)
 - [ruchit] (https://github.com/ruchitsheth13) hey!
