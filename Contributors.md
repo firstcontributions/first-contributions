@@ -2063,6 +2063,7 @@
 - [dev-sik2](https://github.com/devpang20)
 - [karthikn](https://github.com/kkeyan931)
 - [BABLU](https://github.com/bablu2b)
+- [JorgeDRDev](https://github.com/JorgeDRDev)
 - [ZarKHasM](https://github.com/ZarKHasM)
 - [Pranav Hajare](https://github.com/pranavhajare)
 - [Emmanuel](https://github.com/codesmith-emmy)
