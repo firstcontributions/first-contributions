@@ -1092,6 +1092,7 @@
 - [Nikhil Kr Das](https://github.com/nikhil94058)
 - [Sehige](https://github.com/Sehige) : hi mom!
 - [Leo.G](https://github.com/LeoZFG)
+- [TheCaptain333](https://github.com/TheCaptain333): First contribution!
 - [Sarim Ali Baloch](https://github.com/SarimAliBaloch)
 - [Lucky Orji](https://github.com/lumpy72006)
 - [aassalax](https://github.com/aassalax) : Web developer
