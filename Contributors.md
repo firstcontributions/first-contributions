@@ -3,8 +3,10 @@
 - [Pranav Kumar](https://github.com/pranavkodin) Oye! balle balle free ki achievement!
 - [Christopher Wright](https://github.com/cwrightlibrary)
 - [Debasrita Saha](https://github.com/DebasritaS)
+- [Michael Wu](https://github.com/miwucy) This is my first contribution!
 - [Ditto R K Asnar](https://github.com/dittorahmat) First time contribution to open source
 - [codeplaygroundspace] (https://github.com/codeplaygroundspace)- [John Hendricks](https://github.com/j-hendricks)
+piyuma iddamalgoda
 - [Juliana Gómez Consuegra](https://github.com/JulianaG
 - [Mohamed Turki](https://github.com/MohamedTurki96) m3ellem 🐔
 - [Abhishek Bagal] (https://github.com/AbhishekBagal9) First step into open-source excited to contribute and learn more! 🚀
@@ -1600,6 +1602,7 @@
 - [Harsh Raj](https://github.com/harzh1)
 - [samuel-b](https://github.com/samuel-b)
 - [gavi021](https://github.com/gavi021)
+- [TaskDan] (https://github.com/TaskDan)
 - [gooseneedsbread](https://github.com/gooseneedsbread)
 - [Rhea](https://github.com/RheaAtre)
 - shyGuy
@@ -4149,3 +4152,8 @@
 - Jaz-galaxy
 - [Karan Kumar](https://github.com/KaranKumar282828) Hello everyone today I am going to start my open source contribution journey.
 - [HPereira21] (https://github.com/HPereira21) Take the green pill.
+-  [ll1zt](https://github.com/ll1zt) hello there!
+- [Lachlovy](https://github.com/lachlovy) Hi, I am honored to be here. Hope to contribute more to open-source projects in the future!
+- [Soma] First time contributing to a project. hope to do more
+- [skv0zsneg](https://github.com/skv0zsneg) OpenSource helping us and we must help it too! 🚀
+- [DanielAzeez] Hello everyone. Happy to be here, and hope to contribute more on open-source projects in the nearest future!
