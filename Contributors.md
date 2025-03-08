@@ -15,6 +15,7 @@ piyuma iddamalgoda
 - [Liamu-Lin] (https://github.com/Liamu-Lin) What can I say? Mamba out!
 - [swetha baboo] (https://github.com/SwethaBaboo)
 - [Tausif Sayyad](https://github.com/Tausifcodes) Alhamdulillah
+- [Saloship](https://github.com/saloship) So this really worked!
 - [Tejesh Santosh Yewale](https://github.com/Tejeshyewale) this is my first to learn open-source and contribute 🌟
 - [Gunanshu Joshi](https://github.com/GunanshuJoshi) Random IT guy🧑‍💻
 - [Shihab Hasan](https://github.com/shihabhasan0161/) My first ever open source contribution, excited to contribute more in the future.
