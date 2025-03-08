@@ -2,7 +2,8 @@
 
 - [Pranav Kumar](https://github.com/pranavkodin) Oye! balle balle free ki achievement!
 - [Christopher Wright](https://github.com/cwrightlibrary)
-- [codeplaygroundspace] (https://github.com/codeplaygroundspace/)
+- [Ditto R K Asnar](https://github.com/dittorahmat) First time contribution to open source
+- [codeplaygroundspace] (https://github.com/codeplaygroundspace)
 - [John Hendricks](https://github.com/j-hendricks)
 - [Juliana Gómez Consuegra](https://github.com/JulianaGomez)
 - [Mohamed Turki](https://github.com/MohamedTurki96) m3ellem 🐔
