@@ -2,12 +2,13 @@
 
 - [Pranav Kumar](https://github.com/pranavkodin) Oye! balle balle free ki achievement!
 - [Christopher Wright](https://github.com/cwrightlibrary)
+- [Debasrita Saha](https://github.com/DebasritaS)
 - [Ditto R K Asnar](https://github.com/dittorahmat) First time contribution to open source
-- [codeplaygroundspace] (https://github.com/codeplaygroundspace)
-- [John Hendricks](https://github.com/j-hendricks)
-- [Juliana Gómez Consuegra](https://github.com/JulianaGomez)
+- [codeplaygroundspace] (https://github.com/codeplaygroundspace)- [John Hendricks](https://github.com/j-hendricks)
+- [Juliana Gómez Consuegra](https://github.com/JulianaG
 - [Mohamed Turki](https://github.com/MohamedTurki96) m3ellem 🐔
 - [Abhishek Bagal] (https://github.com/AbhishekBagal9) First step into open-source excited to contribute and learn more! 🚀
+- [Shakirullah](https://github.com/Shakirullah25) Always curious about how forking a repo works
 - [Christin Estrella] (https://github.com/CCestrella) this is exciting!
 - [Liamu-Lin] (https://github.com/Liamu-Lin) What can I say? Mamba out!
 - [swetha baboo] (https://github.com/SwethaBaboo)
@@ -98,6 +99,7 @@
 - [Valentine](https://github.com/theocode12) Hello Universe!!!
 - [DavideGrecoGit](https://github.com/DavideGrecoGit) - GLHF!
 - [Andres Salgueiro](https://github.com/Andres-Salgueiro) Open your eyes for the next Faiz
+-test contribution
 - [Ausaf Ahmad Ansari](https://github.com/ahmad-ausaf0/) - Life is an opportunity - Take it
 - [Charles DeClouette II] (https://github.com/CharlesDdev) Finally!! My first contribution! May the odds be ever in your favor.
 - [zizzi](http://github.com/zizzii) - First contribution!
@@ -3742,7 +3744,7 @@
 - [Pranay Akula](https://github.com/pranayakula25)
 - [Brijesh Thummar](https://github.com/Brijeshthummar02)
 - [Michele Grimaldi](https://github.com/Mike014)
-- [Abhay Patil](https://github.com/user-abhay08)
+- [Abhay Patil](https://github.com/user-abhay08) First contribution vibes! 😎
 - [javad hamedi moghaddam](https://github.com/j4v4diiii)
 - [David Plainview](https://github.com/davidplainview)
 - shaaluu😎
@@ -3759,6 +3761,7 @@
 - [phantom-98](https://github.com/phantom-98)
 - [Kriemseeley](https://github.com/Kriemseeley/) Let's go!😼
 - [Piyushbhatt7](https://github.com/Piyushbhatt7) Grateful for my contribution in this repo
+- [Abhay Patil](https://github.com/user-abhay08) First contribution vibes! 😎
 - [ChandniMehta](https://github.com/chand192004) learning is fun
 - [Varun Poduri](https://github.com/varunpoduri)
 - [ChetaniyaBajaj](https://github.com/ChetaniyaBajaj)
@@ -4117,6 +4120,7 @@
 - [KunlinLI](https://github.com/ZJU-Andre) Test for PR.
 - [Hacker0P](https://github.com/Hacker0P)
 - [Parsivan](https://github.com/parsivan) I was here. The ultimate goal of programming is picking up farming. that is what i strive for!
+- [Chanul](https://github.com/TrapG1)
 - [AnthonyLee](https://github.com/0xsmiler) This is Anthony's first contribution.
 - [Bolun](https://github.com/really-no-name) hello from China, hope everyone have a good time on Github!!
 - [Shivash](https://github.com/Shivashvenkataramani.)shivash was here.made my first contribute to open source.
@@ -4140,3 +4144,4 @@
 - [DavidAMaldonadoH](https://github.com/DavidAMaldonadoH) Trying to make a constribution!
 - [Chalapati Leharika Sri](https://github.com/leharikasri) Hello there Iam trying to learn and entering into the world of open source.
 - Jaz-galaxy
+- [Karan Kumar](https://github.com/KaranKumar282828) Hello everyone today I am going to start my open source contribution journey.
