@@ -4152,3 +4152,4 @@
 - [Lachlovy](https://github.com/lachlovy) Hi, I am honored to be here. Hope to contribute more to open-source projects in the future!
 - [Soma] First time contributing to a project. hope to do more
 - [skv0zsneg](https://github.com/skv0zsneg) OpenSource helping us and we must help it too! 🚀
+- [KrisZ](https://github.com/Kris6657) Appreciate for open source
