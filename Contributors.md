@@ -3768,6 +3768,7 @@ piyuma iddamalgoda
 - [Divyesh Shinde](https://github.com/Divyesh-20)
 - [untitled-guy](https://github.com/untitled-guy)
 - [praveenbn88](https://github.com/praveenbn88/)
+- [Gabriel Amaral](https://github.com/sousaGab) Hello everyone, I hope you all have a great day!
 - [Kanishk](https://github.com/fantom845)
 - [Tharindu](https://github.com/tdissana)
 - [Divyanshu Varma](https://github.com/divyanshu-varma)
