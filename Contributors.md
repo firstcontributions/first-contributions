@@ -96,6 +96,7 @@ piyuma iddamalgoda
 - [Purwatsate](https://github.com/Purwatsate) Thar Li Swa Bar
 - [Divyansh] (https://github.com/divyansh090)Hi, this is my first contribution :-)
 - [David Hope] (https://github.com/dhope1) - Dont be afraid to choose love.
+- [Perez-salem Tuwan] (https://github.com/perez-21) Hi :D
 - [Sandun Balasooriya](https://github.com/sandunx) Hello, World!
 - [Yari yassi ](https://github.com/yassiEmp) no way i am here 🤣 !
 - [Sambit](https://github.com/sambitmishra04)Hello! Welcome to this new world. keep grinding...
