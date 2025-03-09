@@ -11,6 +11,7 @@ piyuma iddamalgoda
 - [Nourhan Essam](https://github.com/Nourhan123Essam) The first step is always the hardest!
 - [Juliana Gómez Consuegra](https://github.com/JulianaG
 - [Mohamed Turki](https://github.com/MohamedTurki96) m3ellem 🐔
+- [Kseniia Suleimanova](https://github.com/KseniiaSuleimanova)
 - [Abhishek Bagal] (https://github.com/AbhishekBagal9) First step into open-source excited to contribute and learn more! 🚀
 - [Shakirullah](https://github.com/Shakirullah25) Always curious about how forking a repo works
 - [Christin Estrella] (https://github.com/CCestrella) this is exciting!
