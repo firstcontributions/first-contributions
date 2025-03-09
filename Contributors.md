@@ -1,13 +1,14 @@
 # Contributors
 
 - [Ansh Gupta](https://github.com/anshgupta2403)
+- [Farhan TEnmoy](https://github.com/Ten-T-Tonmoy)
 - [Pranav Kumar](https://github.com/pranavkodin) Oye! balle balle free ki achievement!
 - [Christopher Wright](https://github.com/cwrightlibrary)
 - [Debasrita Saha](https://github.com/DebasritaS)
 - [Michael Wu](https://github.com/miwucy) This is my first contribution!
 - [Ditto R K Asnar](https://github.com/dittorahmat) First time contribution to open source
 - [codeplaygroundspace] (https://github.com/codeplaygroundspace)- [John Hendricks](https://github.com/j-hendricks)
-piyuma iddamalgoda
+  piyuma iddamalgoda
 - [Nourhan Essam](https://github.com/Nourhan123Essam) The first step is always the hardest!
 - [Juliana Gómez Consuegra](https://github.com/JulianaG
 - [Mohamed Turki](https://github.com/MohamedTurki96) m3ellem 🐔
@@ -57,7 +58,7 @@ piyuma iddamalgoda
 - [BirWri](https://github.com/BirWri) It all started with a git init and a dream.
 - [Jacinto Morales](https://github.com/jacintomorales) Make Github
 - [eattrenclenhard] (https://github.com/eattrenclenhard) The omnipotent Eat Tren Clen Hard descended from the heavens, his presence radiating divine light and reverence. In that moment, the very air seemed to pause, as if the world itself bowed to honor his arrival.
-[MeriWtech](https://github.com/MeriWtech.com) First time contributer, yay!
+  [MeriWtech](https://github.com/MeriWtech.com) First time contributer, yay!
 - [AryanKhandhadiya] (https://github.com/aryanyk) The biggest regret is not trying.
 - [mochasweet] (https://github.com/mochasweet) Make Github Great Again!
 - [Einstephener] (https://github.com/Einstephener) annyeonghaseyo. jalbutaghaeyo.
@@ -106,7 +107,7 @@ piyuma iddamalgoda
 - [Valentine](https://github.com/theocode12) Hello Universe!!!
 - [DavideGrecoGit](https://github.com/DavideGrecoGit) - GLHF!
 - [Andres Salgueiro](https://github.com/Andres-Salgueiro) Open your eyes for the next Faiz
--test contribution
+  -test contribution
 - [Ausaf Ahmad Ansari](https://github.com/ahmad-ausaf0/) - Life is an opportunity - Take it
 - [Charles DeClouette II] (https://github.com/CharlesDdev) Finally!! My first contribution! May the odds be ever in your favor.
 - [zizzi](http://github.com/zizzii) - First contribution!
@@ -4165,16 +4166,15 @@ piyuma iddamalgoda
 - Jaz-galaxy
 - [Karan Kumar](https://github.com/KaranKumar282828) Hello everyone today I am going to start my open source contribution journey.
 - [HPereira21] (https://github.com/HPereira21) Take the green pill.
--  [ll1zt](https://github.com/ll1zt) hello there!
+- [ll1zt](https://github.com/ll1zt) hello there!
 - [Lachlovy](https://github.com/lachlovy) Hi, I am honored to be here. Hope to contribute more to open-source projects in the future!
 - [Soma] First time contributing to a project. hope to do more
 - [skv0zsneg](https://github.com/skv0zsneg) OpenSource helping us and we must help it too! 🚀
-- [DanielAzeez] Hello everyone. Happy to be here, and hope to contribute more on open-source projects in the nearest future!"Fixing pull request issue" 
-"Fixing pull request issue" 
+- [DanielAzeez] Hello everyone. Happy to be here, and hope to contribute more on open-source projects in the nearest future!"Fixing pull request issue"
+  "Fixing pull request issue"
 - [Beckendrof](htps://github.com/beckendrof) I need to get a job
 - [Paul Wang](https://github.com/paulwang19) Hello everyone, I am a beginner in open source from Taiwan, and I’m excited to learn and contribute!
 - [Star] (https://github.com/starieeee) Hello everyone, I am from Cambodia and I am looking forward to contribute in the community!
 - [Follow Dreams] Hello everyone, I’m excited to learn and contribute!
 - [Uttam Anand](https://github.com/ananduttam) I Love Boobs!!!
 - [Satish Kumar](https://github.com/gitTimps123)
-
