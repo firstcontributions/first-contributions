@@ -43,6 +43,7 @@ piyuma iddamalgoda
 - [Ayushman](https://github.com/ayushman1210) learning to deep dive into the open source world
 - [turki013](https://github.com/turki013) Hello **Everyone!** this first contrbution !! `woow`
 - [satishkumarnarayanasamy](https://github.com/mochasweet) Make Github Great Again!
+-[RakeshKunapareddy](https://github.com/Rakesh-592) Rest at the End, Not in the Middle - Kobe Bryant.
   Akbar: Nima gap!
 - [r0s3ndev] first contribution lol
 - [daniels_16] This is my very first step on GitHub! Hi everyone!
