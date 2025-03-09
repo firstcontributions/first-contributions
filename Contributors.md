@@ -11,6 +11,7 @@
 piyuma iddamalgoda
 - [Nourhan Essam](https://github.com/Nourhan123Essam) The first step is always the hardest!
 - [Juliana Gómez Consuegra](https://github.com/JulianaG
+- [Shreyash Damodar](https://github.com/shreyash1086) Thank you for Such beginner guide to make contributions
 - [Mohamed Turki](https://github.com/MohamedTurki96) m3ellem 🐔
 - [Kseniia Suleimanova](https://github.com/KseniiaSuleimanova)
 - [Abhishek Bagal] (https://github.com/AbhishekBagal9) First step into open-source excited to contribute and learn more! 🚀
