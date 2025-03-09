@@ -54,6 +54,7 @@ piyuma iddamalgoda
 - [Klari] (https://github.com/bantoklara/) This is my first contribution
 - [eattrenclenhard](https://github.com/eattrenclenhard) The omnipotent Eat Tren Clen Hard descended from the heavens, his presence radiating divine light and reverence. In that moment, the very air seemed to pause, as if the world itself bowed to honor his arrival.
 - [mochasweet] (https://github.com/mochasweet) Make Github Great Again!
+- [BirWri](https://github.com/BirWri) It all started with a git init and a dream.
 - [Jacinto Morales](https://github.com/jacintomorales) Make Github
 - [eattrenclenhard] (https://github.com/eattrenclenhard) The omnipotent Eat Tren Clen Hard descended from the heavens, his presence radiating divine light and reverence. In that moment, the very air seemed to pause, as if the world itself bowed to honor his arrival.
 [MeriWtech](https://github.com/MeriWtech.com) First time contributer, yay!
