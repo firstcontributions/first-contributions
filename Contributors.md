@@ -21,6 +21,7 @@ piyuma iddamalgoda
 - [Saloship](https://github.com/saloship) So this really worked.
 - [Tejesh Santosh Yewale](https://github.com/Tejeshyewale) this is my first to learn open-source and contribute 🌟
 - [Gunanshu Joshi](https://github.com/GunanshuJoshi) Random IT guy🧑‍💻
+- [Marshall Russell](https://github.com/Marshallrussell) Software Developer and also actor under alias Marshall Fitzpatricks
 - [Shihab Hasan](https://github.com/shihabhasan0161/) My first ever open source contribution, excited to contribute more in the future.
 - [Santosh Nc] (https://github.com/Santoshn26/) First step to start my contribution journey to Open source community excited to Explore things out there
 - [supwan] (https://github.com/supwan) Hello World
