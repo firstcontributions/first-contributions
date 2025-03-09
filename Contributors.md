@@ -4123,6 +4123,7 @@ piyuma iddamalgoda
 - [JimmyC27] (https://github.com/JimmyC27/) A random line entered twice
 - [Irina Kuettner](https://github.com/IK-IT-PM) My first step und contribution!
 - [Brian Kwan](https://github.com/BrianKwan0909/) My first step of contribution!
+- [uetyama](https://github.com/uetyama) My first step of contribution!
 - [Veldrine Evelia Kaharwa](https://github.com/Tech-Vexy)
 - [Antonio Maggiore] (https://github.com/credp1985/)
 - [Yinglinc](https://github.com/YinglinC) Study hard
