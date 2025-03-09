@@ -1,0 +1,251 @@
+repos:
+  - repo: https://github.com/mwouts/jupytext
+    rev: "v1.16.4b"
+    hooks:
+     - id: jupytext
+       entry: jupytext
+       language: python
+       types: [jupyter]
+       args:
+         - --from=ipynb
+         - --to=py:light
+         - --set-formats=ipynb,py:light
+         - --quiet
+         - --sync
+         - --warn-only
+       exclude: '.*\.md$'
+  - repo: https://github.com/PyCQA/docformatter
+    rev: "eb1df347edd128b30cd3368dddc3aa65edcfac38"
+    hooks:
+      - id: docformatter
+        args: [--in-place, --wrap-descriptions=79, --style=google]
+  - repo: https://github.com/psf/black.git
+    rev: "24.10.0"
+    hooks:
+      - id: black
+
+  - repo: https://github.com/nbQA-dev/nbQA
+    rev: 1.9.0
+    hooks:
+      - id: nbqa-black
+        name: nbqa-black
+        description: Run 'black' on a Jupyter Notebook
+        entry: nbqa black
+        language: python
+        require_serial: true
+        types_or: [jupyter, markdown]
+        additional_dependencies: [black]
+  - repo: https://github.com/asottile/pyupgrade
+    rev: "v3.19.0"
+    hooks:
+      - id: pyupgrade
+        args: [--py39-plus]
+  - repo: https://github.com/pycqa/isort
+    rev: "5.13.2"
+    hooks:
+      - id: isort
+        entry: isort
+        args:
+          - --float-to-top
+
+  - repo: https://github.com/nbQA-dev/nbQA
+    rev: "1.9.0"
+    hooks:
+      - id: nbqa
+        entry: nbqa blacken-docs
+        name: nbqa-blacken-docs
+        alias: nbqa-blacken-docs
+        additional_dependencies: [blacken-docs]
+        args:
+          - --nbqa-md
+  - repo: https://github.com/nbQA-dev/nbQA
+    rev: 1.9.0
+    hooks:
+      - id: nbqa-pyupgrade
+        name: nbqa-pyupgrade
+        description: Run 'pyupgrade' on a Jupyter Notebook
+        entry: nbqa pyupgrade
+        language: python
+        require_serial: true
+        types_or: [jupyter, markdown]
+        additional_dependencies: [pyupgrade]
+      - id: nbqa-isort
+        name: nbqa-isort
+        description: Run 'isort' on a Jupyter Notebook
+        entry: nbqa isort
+        language: python
+        require_serial: true
+        types_or: [jupyter, markdown]
+        additional_dependencies: [isort]
+        args:
+          - --float-to-top
+
+  - repo: https://github.com/codespell-project/codespell
+    rev: v2.3.0
+    hooks:
+      - id: codespell
+        additional_dependencies:
+          - tomli
+        args:
+          - --ignore-regex=^\s*"image\/(jpeg|png|gif|bmp|tiff)":\s.*
+          - --ignore-regex=[A-Za-z0-9+/]{100,}
+          - --skip=*.js,*.html,*.css,*.svg",*.json,*.png,*.jpg,*.yml,*.yaml
+  - repo: https://github.com/nbQA-dev/nbQA
+    rev: 1.9.0
+    hooks:
+      - id: nbqa-flake8
+        args:
+          - --ignore=E501,E712,W291,F632,E203,F821,F403,W391,F401
+          - --exclude=.*,__init__.py
+        name: nbqa-flake8
+        description: Run 'flake8' on a Jupyter Notebook
+        entry: nbqa flake8
+        language: python
+        require_serial: true
+        types_or: [jupyter, markdown]
+        additional_dependencies:
+          - flake8-variables-names
+          - pep8-naming
+          - flake8-functions-names
+
+  - repo: https://github.com/PyCQA/flake8
+    rev: 7.1.1
+    hooks:
+      - id: flake8
+        args:
+          - --ignore=E501,E712,W291,F632,E203,F821,F403,W391,F401
+          - --exclude=.*,__init__.py
+        additional_dependencies:
+          - flake8-variables-names
+          - pep8-naming
+          - flake8-functions-names
+
+  - repo: https://github.com/nbQA-dev/nbQA
+    rev: 1.9.0
+    hooks:
+      - id: nbqa-mypy
+        name: nbqa-mypy
+        description: Run 'mypy' on a Jupyter Notebook
+        entry: nbqa mypy
+        language: python
+        require_serial: true
+        types_or: [jupyter, markdown]
+        additional_dependencies:
+          - mypy
+          - pandas-stubs
+          - git+https://github.com/numpy/numpy-stubs
+          - mypy-extensions
+          - types-requests
+          - types-PyYAML
+          - types-setuptools
+
+        args:
+          # - --cache-dir=/dev/null
+          # - --cache-dir=nul
+          # - --no-incremental
+          - --non-interactive
+          - --install-types
+          - --explicit-package-bases
+          - --ignore-missing-imports
+          - --disallow-untyped-calls
+          - --disallow-untyped-defs
+          - --disallow-untyped-decorators
+          - --strict
+          - --extra-checks
+          - --disallow-any-decorated
+          - --disallow-any-generics
+          - --local-partial-types
+          - --pretty
+          - --force-uppercase-builtins
+          - --force-union-syntax
+          - --warn-unreachable
+          - --warn-redundant-casts
+          - --warn-return-any
+          - --disallow-any-explicit
+
+
+
+  - repo: https://github.com/pre-commit/mirrors-mypy
+    rev: v1.13.0
+    hooks:
+      - id: mypy
+        args:
+          # - --cache-dir=/dev/null
+          # - --cache-dir=nul
+          # - --no-incremental
+          - --non-interactive
+          - --install-types
+          - --explicit-package-bases
+          - --ignore-missing-imports
+          - --disallow-untyped-calls
+          - --disallow-untyped-defs
+          - --disallow-untyped-decorators
+          - --strict
+          - --extra-checks
+          - --disallow-any-decorated
+          - --disallow-any-generics
+          - --local-partial-types
+          - --pretty
+          - --force-uppercase-builtins
+          - --force-union-syntax
+          - --warn-unreachable
+          - --warn-redundant-casts
+          - --warn-return-any
+          - --disallow-any-explicit
+
+
+        additional_dependencies:
+          - mypy
+          - pandas-stubs
+          - git+https://github.com/numpy/numpy-stubs
+          - mypy-extensions
+          - types-requests
+          - types-PyYAML
+          - types-setuptools
+
+  - repo: https://github.com/nbQA-dev/nbQA
+    rev: 1.9.0
+    hooks:
+      - id: nbqa-pylint
+        name: nbqa-pylint
+        description: Run 'pylint' on a Jupyter Notebook
+        entry: nbqa pylint
+        language: python
+        require_serial: true
+        types_or: [jupyter, markdown]
+        additional_dependencies: [pylint]
+        args:
+          - --ignore=no_check*,__init__.py
+          - --max-line-length=79
+          - --const-naming-style=any
+          - --disable=E0401,W0104,R0903,R1721,E1101,E0611,F0002,C0305,C0303,E2515
+
+
+  - repo: https://github.com/pylint-dev/pylint
+    rev: "v3.3.1"
+    hooks:
+      - id: pylint
+        name: pylint
+        entry: pylint
+        language: python
+        types: [python]
+        args:
+          [
+            "--ignore=no_check*,__init__.py",
+            "--max-line-length=79",
+            "--const-naming-style=any",
+            "--disable=E0401,W0104,R0903,R1721,E1101,E0611,F0002,C0305,line-too-long,C0303,E2515"
+          ]
+        additional_dependencies: [pylint]
+
+  - repo: https://github.com/nbQA-dev/nbQA
+    rev: 1.9.0
+    hooks:
+      - id: nbqa-pydocstyle
+        name: nbqa-pydocstyle
+        description: Run 'pydocstyle' on a Jupyter Notebook
+        entry: nbqa pydocstyle
+        language: python
+        require_serial: true
+        types_or: [jupyter, markdown]
+        additional_dependencies: [pydocstyle]
