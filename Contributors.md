@@ -1,5 +1,6 @@
 # Contributors
-
+**Yossef Elshamy**
+ [Ansh Gupta]
 - [Ansh Gupta](https://github.com/anshgupta2403)
 - [Pranav Kumar](https://github.com/pranavkodin) Oye! balle balle free ki achievement!
 - [Christopher Wright](https://github.com/cwrightlibrary)
