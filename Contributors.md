@@ -24,6 +24,7 @@
 - [Juliana Gómez Consuegra](https://github.com/JulianaG
 - [Shreyash Damodar](https://github.com/shreyash1086) Thank you for Such beginner guide to make contributions
 - [Mohamed Turki](https://github.com/MohamedTurki96) m3ellem 🐔
+- [AJBAR Imad] (https://github.com/AjImad) This is just my first contribution, and Insha'Allah, more to come! 🚀
 - [Kseniia Suleimanova](https://github.com/KseniiaSuleimanova)
 - [Abhishek Bagal] (https://github.com/AbhishekBagal9) First step into open-source excited to contribute and learn more! 🚀
 - [Shakirullah](https://github.com/Shakirullah25) Always curious about how forking a repo works
