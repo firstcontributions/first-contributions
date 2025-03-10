@@ -4,6 +4,7 @@
  [Ansh Gupta]
  **SEM7AC WAS HERE**
 - [Otmane SAIAOUD](https://github.com/SD-OTM/)
+- [Dhruv Sharma] (https://github.com/dhruv-sharma007) kya baat hai
 - [Zawe Yan Naing](https://github.com/ZaweYanNaing)
 - [Ansh Gupta](https://github.com/anshgupta2403)
 - [Farhan TEnmoy](https://github.com/Ten-T-Tonmoy)
