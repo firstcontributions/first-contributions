@@ -4107,3 +4107,5 @@
 - [Inoue]Hello!
 - [elias86](https://github.com/elias863) First change by myself
 - [Morn734](https://github.com/Morn734) Commemoration!
+- [Franky](https://github.com/YUYU0219) Hi Everyone I from Taiwan, Hope you have a nice day!
+
