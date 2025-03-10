@@ -4,6 +4,7 @@
  [Ansh Gupta]
  **SEM7AC WAS HERE**
 - [Otmane SAIAOUD](https://github.com/SD-OTM/)
+- [Dhruv Sharma] (https://github.com/dhruv-sharma007) kya baat hai
 - [Zawe Yan Naing](https://github.com/ZaweYanNaing)
 - [Ansh Gupta](https://github.com/anshgupta2403)
 - [Farhan TEnmoy](https://github.com/Ten-T-Tonmoy)
@@ -14,6 +15,7 @@
 - [Michael Wu](https://github.com/miwucy) This is my first contribution!
 - [Musaib Bashir](https://github.com/MusaibBashir) 
 - [Ditto R K Asnar](https://github.com/dittorahmat) First time contribution to open source
+- [Zheng ZiXiang](https://github.com/Kris6657) Hello Opensource World! Nihao
 - [codeplaygroundspace] (https://github.com/codeplaygroundspace)- [John Hendricks](https://github.com/j-hendricks)
   piyuma iddamalgoda
 - [Hadas Amar] (https://github.com/HadasAmar) This is my first contribution:)
@@ -3921,6 +3923,7 @@
 - [Deepak]
 - [ohad b]
 - [Ryan DeFalco] Have a Great Day!
+- [Nika Jamaspishvili] 🇬🇪
 - [Jaswinder](https://github.com/codejaswinder)
 - [Tanmay Yadav]
 - [Thes3us](https://github.com/Thes3us)
