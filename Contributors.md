@@ -130,6 +130,7 @@
 - [Charles DeClouette II] (https://github.com/CharlesDdev) Finally!! My first contribution! May the odds be ever in your favor.
 - [zizzi](http://github.com/zizzii) - First contribution!
 - [Philip Hsinh] (https://github.com/xhbear) It's been a long way from punching holes to just casually typing text and having it seen across the globe!
+- [Pravas Mohanty](https://github.com/PravasMohanty) - Marking the start of a new journey.
 - [Shey Camille](https://github.com/sheycamille) Let's make softwares better by sharing ideas!
 - [Lwin Moe Oo](https://github.com/sheycamille) Freedom from Fear
 - [TheProStar](https://github.com/Ansh2209) First Contribution! Yay!!
