@@ -13,7 +13,7 @@
 - [Christopher Wright](https://github.com/cwrightlibrary)
 - [Debasrita Saha](https://github.com/DebasritaS)
 - [Michael Wu](https://github.com/miwucy) This is my first contribution!
-- [Musaib Bashir](https://github.com/MusaibBashir) 
+- [Musaib Bashir](https://github.com/MusaibBashir)
 - [Ditto R K Asnar](https://github.com/dittorahmat) First time contribution to open source
 - [Zheng ZiXiang](https://github.com/Kris6657) Hello Opensource World! Nihao
 - [codeplaygroundspace] (https://github.com/codeplaygroundspace)- [John Hendricks](https://github.com/j-hendricks)
@@ -47,6 +47,7 @@
 - [OS] (https://github.com/SD-OTM/) First contribution
 - [Balaji guru] My Very first contribution
 - [Liverios] First of everything coming!
+- [hariprasadd0](https://github.com/hariprasadd0) first contribution
 - [chanbay] (https://github.com/Imchanbay) hello from indonesia!
 - [Deborshi](https://github.com/decembboy/) First time in open source
 - [IzabelLV](https://github.com/IzabelLV) First contribution!
@@ -4215,4 +4216,3 @@
 - [Kevin Simmons](https://github.com/Kdog91) I want to contribute!
 
 @ausbmuruges - Its my first contribution
-
