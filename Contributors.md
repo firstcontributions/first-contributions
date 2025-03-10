@@ -45,6 +45,7 @@
 - [IzabelLV](https://github.com/IzabelLV) First contribution!
 - [GustavoAlves](https://github.com/DevAlvesGG) Primeira Contribuição!!!
 - [Praveen B](https://github.com/Praveen-mc/) Excited to start my first contribution
+- [Imokut](https://github.com/Imokut) cool huh
 - [SIVAPRASAD. G] (https://github.com/sprasad519/)
 - [Jeyanth.V] (hhtps://github.com/jeyanth-jr) Excited to give beck to the community and take away
 - [SamCabrera](https://github.com/samanthacabrera) My first open source contribution!
