@@ -106,6 +106,7 @@
 - [Shubham Sonake](https://github.com/imShubh03) First of many
 - [Abdessamie Mezaache](https://github.com/mathelem) Wish me luck yall
 - [Mike Floyd](https://github.com/kmfloyd) Hello there, and thank you for this tutorial
+- [Neha Kulkarni](https://github.com/nehaask) New to open-source and hoping to learn more!
 - [Praveen Raj](https://github.com/trytobegoodatleast)
 - [Sarah Calixto](https://github.com/sarahcalixto)
 - [Muhammad Ehsan](https://github.com/MuhammadEhsan02) This is Ehsan, Data Scientist.
