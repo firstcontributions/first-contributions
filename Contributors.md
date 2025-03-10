@@ -164,6 +164,7 @@
 - [Vedant Ere](https://github.com/vedant-ere) First of many
 - [Aniket Verma](https://github.com/Aniket7545) Hi, this is my first open source contribution.
   This is Piyush Nihalani.
+
   [Mujahidah Abdurrahmon] Hello Everyone
 - [Kourosh Altafi](https://github.com/kouroshai) Hello Everybody, First from IRAN, 2025
 - [Prabha Nagaraj](https://github.com/prabhanjasu) Full Stack Developer and This is my first contribution!
@@ -633,6 +634,7 @@
 - [Isra HQ](https://github.com/rhizvo)
 - [Yvona](https://github.com/YvonaAci)
   Hugh Gramelspacher
+  
 - [Tomer Dahan](https://github.com/Tomer72)
 - [Jesus Lopez](https://github.com/jlopezmarti20)
 - [Mariana Junghans] (https://github.com/mbittencourt96)
@@ -782,6 +784,7 @@
 - Praneeth
 - [PARK, Yeonjong](https://github.com/patulus) 안녕하세요!
 - [Nisha Kumari](https://github.com/workdotnisha)
+- [Rishitha](https://github.com/rishitha4303) - This is my first contribution!
 - [pocall23](https://github.com/pocall23)
 - [ebubecodes](https://github.com/ebubecodes)
 - [thisispembe](https://github.com/xpembe)
