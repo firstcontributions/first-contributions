@@ -4093,6 +4093,7 @@
 - [Murali Sb](https://github.com/imuralisb/first-contributions) Hola! My First Contribution...
 - [Shankar Somu](https://github.com/ShankarSomu) This is my first contribution on 2/22/25!
 - [Rohit Anand](https://github.com/R0h1tAnand) Tring to Contribute to Open Source for the first time
+- [Manasa](https://github.com/ManasaSita) Contributed by translating content into Kannada! Happy to be part of open-source 🚀
 - [Jecara] HI🤓
 - [Ralphy](https://github.com/RalphFilipek) Howdy from Poland 🇵🇱 its great to be here for the first time, good luck guys! 24/02/25
 - [Inferno] Hi
