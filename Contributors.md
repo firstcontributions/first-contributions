@@ -3,17 +3,19 @@
 **Yossef Elshamy**
  [Ansh Gupta]
  **SEM7AC WAS HERE**
+ Ashley Lewis
 - [Otmane SAIAOUD](https://github.com/SD-OTM/)
 - [Dhruv Sharma] (https://github.com/dhruv-sharma007) kya baat hai
 - [Zawe Yan Naing](https://github.com/ZaweYanNaing)
 - [Ansh Gupta](https://github.com/anshgupta2403)
 - [Farhan TEnmoy](https://github.com/Ten-T-Tonmoy)
 - [Bran Don](https://github.com/edogola4)
+- [Cristian cantillo]
 - [Pranav Kumar](https://github.com/pranavkodin) Oye! balle balle free ki achievement!
 - [Christopher Wright](https://github.com/cwrightlibrary)
 - [Debasrita Saha](https://github.com/DebasritaS)
 - [Michael Wu](https://github.com/miwucy) This is my first contribution!
-- [Musaib Bashir](https://github.com/MusaibBashir) 
+- [Musaib Bashir](https://github.com/MusaibBashir)
 - [Ditto R K Asnar](https://github.com/dittorahmat) First time contribution to open source
 - [Zheng ZiXiang](https://github.com/Kris6657) Hello Opensource World! Nihao
 - [codeplaygroundspace] (https://github.com/codeplaygroundspace)- [John Hendricks](https://github.com/j-hendricks)
@@ -23,6 +25,7 @@
 - [Juliana Gómez Consuegra](https://github.com/JulianaG
 - [Shreyash Damodar](https://github.com/shreyash1086) Thank you for Such beginner guide to make contributions
 - [Mohamed Turki](https://github.com/MohamedTurki96) m3ellem 🐔
+- [AJBAR Imad] (https://github.com/AjImad) This is just my first contribution, and Insha'Allah, more to come! 🚀
 - [Kseniia Suleimanova](https://github.com/KseniiaSuleimanova)
 - [Abhishek Bagal] (https://github.com/AbhishekBagal9) First step into open-source excited to contribute and learn more! 🚀
 - [Shakirullah](https://github.com/Shakirullah25) Always curious about how forking a repo works
@@ -47,6 +50,8 @@
 - [OS] (https://github.com/SD-OTM/) First contribution
 - [Balaji guru] My Very first contribution
 - [Liverios] First of everything coming!
+- [hariprasadd0](https://github.com/hariprasadd0) first contribution
+- [Prashant] First contribution!
 - [chanbay] (https://github.com/Imchanbay) hello from indonesia!
 - [Deborshi](https://github.com/decembboy/) First time in open source
 - [IzabelLV](https://github.com/IzabelLV) First contribution!
@@ -54,6 +59,7 @@
 - [Praveen B](https://github.com/Praveen-mc/) Excited to start my first contribution
 - [Imokut](https://github.com/Imokut) cool huh
 - [SIVAPRASAD. G] (https://github.com/sprasad519/)
+- [jroznowski] (https://github.com/jroznowski/) Long live open source.
 - [romeoJorge] (https://github.com/romeoJorge/)
 - [Jeyanth.V] (hhtps://github.com/jeyanth-jr) Excited to give beck to the community and take away
 - [SamCabrera](https://github.com/samanthacabrera) My first open source contribution!
@@ -159,6 +165,7 @@
 - [Vedant Ere](https://github.com/vedant-ere) First of many
 - [Aniket Verma](https://github.com/Aniket7545) Hi, this is my first open source contribution.
   This is Piyush Nihalani.
+
   [Mujahidah Abdurrahmon] Hello Everyone
 - [Kourosh Altafi](https://github.com/kouroshai) Hello Everybody, First from IRAN, 2025
 - [Prabha Nagaraj](https://github.com/prabhanjasu) Full Stack Developer and This is my first contribution!
@@ -280,6 +287,7 @@
 - [Shubham Sonake](https://github.com/imShubh03) First of many
 - [Abdessamie Mezaache](https://github.com/mathelem) Wish me luck yall
 - [Mike Floyd](https://github.com/kmfloyd) Hello there, and thank you for this tutorial
+- [Neha Kulkarni](https://github.com/nehaask) New to open-source and hoping to learn more!
 - [Praveen Raj](https://github.com/trytobegoodatleast)
 - [Sarah Calixto](https://github.com/sarahcalixto)
 - [Muhammad Ehsan](https://github.com/MuhammadEhsan02) This is Ehsan, Data Scientist.
@@ -627,6 +635,7 @@
 - [Isra HQ](https://github.com/rhizvo)
 - [Yvona](https://github.com/YvonaAci)
   Hugh Gramelspacher
+  
 - [Tomer Dahan](https://github.com/Tomer72)
 - [Jesus Lopez](https://github.com/jlopezmarti20)
 - [Mariana Junghans] (https://github.com/mbittencourt96)
@@ -776,6 +785,7 @@
 - Praneeth
 - [PARK, Yeonjong](https://github.com/patulus) 안녕하세요!
 - [Nisha Kumari](https://github.com/workdotnisha)
+- [Rishitha](https://github.com/rishitha4303) - This is my first contribution!
 - [pocall23](https://github.com/pocall23)
 - [ebubecodes](https://github.com/ebubecodes)
 - [thisispembe](https://github.com/xpembe)
