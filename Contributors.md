@@ -16,6 +16,7 @@
 - [Ditto R K Asnar](https://github.com/dittorahmat) First time contribution to open source
 - [codeplaygroundspace] (https://github.com/codeplaygroundspace)- [John Hendricks](https://github.com/j-hendricks)
   piyuma iddamalgoda
+- [Hadas Amar] (https://github.com/HadasAmar) This is my first contribution:)
 - [Nourhan Essam](https://github.com/Nourhan123Essam) The first step is always the hardest!
 - [Juliana Gómez Consuegra](https://github.com/JulianaG
 - [Shreyash Damodar](https://github.com/shreyash1086) Thank you for Such beginner guide to make contributions
