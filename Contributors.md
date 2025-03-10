@@ -1335,6 +1335,7 @@
 - [Deekshitha](My first contribution: https://github.com/NDeekshithaReddy)
 - [Johnathan](https://github.com/Johnathanyes)
 - [Raunav Ghosh](https://github.com/imraunav) That's one small step for fun, one giant leap for life! Woo, this is fun!
+- [Bruno Tommaso Fitti](https://github.com/BTFitti) : My first contribution =) It's just the beginning!
 - [Vanshika Sirohi](https://github.com/sirohi-vanshika)
 - [Punosie](https://github.com/Punosie)
 - [Diogo Capdeville](https://github.com/DiogoJRC)
