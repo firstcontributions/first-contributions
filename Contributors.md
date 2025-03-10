@@ -333,6 +333,7 @@
 - [Do Quoc Vuong](https://github.com/vsrs3) hello from vietnam ;)
 - [Darshil Solanki](https://github.com/Darshil-Solanki) Hello World! to Open Source
 - [Marc Daniel Falsado](https://github.com/marcdanielfalsado) Hey everyone, Wish yall the best!
+- [Jonathan Yau](https://github.com/Thissutek) Hi Everyone Welcome to the world of Open Source
 - [ Sharanya G S](https://github.com/Sharanyags3) Hi Everyone, This is my first contribution.
 - [Shivam Gupta] Hello guys, this is my first contribution. Hope you guys also pushing your limits.
 - [PatrickHung99] Hellow World
