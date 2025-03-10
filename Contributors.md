@@ -20,6 +20,7 @@
 - [bugudiramu 👨‍💻](https://github.com/bugudiramu)
 - Sheheryar Hassan
 - [EarendelH](https://github.com/Earendelh)
+- [Tgeorge514](https://github.com/TGeorge514)
 - [Vanlal Peka](https://github.com/vanlalpeka)
 - [John](https://github.com/yrdnal-c-nhoj)
 - [Jescaps Nyarko Antwi alias THE GODFATHER](https://github.com/JescapsAntwi)
