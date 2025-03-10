@@ -15,6 +15,7 @@
 - [Michael Wu](https://github.com/miwucy) This is my first contribution!
 - [Musaib Bashir](https://github.com/MusaibBashir) 
 - [Ditto R K Asnar](https://github.com/dittorahmat) First time contribution to open source
+- [Zheng ZiXiang](https://github.com/Kris6657) Hello Opensource World! Nihao
 - [codeplaygroundspace] (https://github.com/codeplaygroundspace)- [John Hendricks](https://github.com/j-hendricks)
   piyuma iddamalgoda
 - [Hadas Amar] (https://github.com/HadasAmar) This is my first contribution:)
