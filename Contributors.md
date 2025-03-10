@@ -55,6 +55,7 @@
 - [Praveen B](https://github.com/Praveen-mc/) Excited to start my first contribution
 - [Imokut](https://github.com/Imokut) cool huh
 - [SIVAPRASAD. G] (https://github.com/sprasad519/)
+- [jroznowski] (https://github.com/jroznowski/) Long live open source.
 - [romeoJorge] (https://github.com/romeoJorge/)
 - [Jeyanth.V] (hhtps://github.com/jeyanth-jr) Excited to give beck to the community and take away
 - [SamCabrera](https://github.com/samanthacabrera) My first open source contribution!
