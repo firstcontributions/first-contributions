@@ -48,6 +48,7 @@
 - [Balaji guru] My Very first contribution
 - [Liverios] First of everything coming!
 - [hariprasadd0](https://github.com/hariprasadd0) first contribution
+- [Prashant] First contribution!
 - [chanbay] (https://github.com/Imchanbay) hello from indonesia!
 - [Deborshi](https://github.com/decembboy/) First time in open source
 - [IzabelLV](https://github.com/IzabelLV) First contribution!
