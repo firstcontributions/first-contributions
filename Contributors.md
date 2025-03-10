@@ -24,6 +24,7 @@
 - [Abhishek Bagal] (https://github.com/AbhishekBagal9) First step into open-source excited to contribute and learn more! 🚀
 - [Shakirullah](https://github.com/Shakirullah25) Always curious about how forking a repo works
 - [Christin Estrella] (https://github.com/CCestrella) this is exciting!
+- [Shreyas Goswami] (https://github.com/srey002)
 - [Liamu-Lin] (https://github.com/Liamu-Lin) What can I say? Mamba out!
 - [swetha baboo] (https://github.com/SwethaBaboo)
 - [Tausif Sayyad](https://github.com/Tausifcodes) Alhamdulillah
