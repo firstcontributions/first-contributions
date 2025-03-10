@@ -48,6 +48,7 @@
 - [Praveen B](https://github.com/Praveen-mc/) Excited to start my first contribution
 - [Imokut](https://github.com/Imokut) cool huh
 - [SIVAPRASAD. G] (https://github.com/sprasad519/)
+- [romeoJorge] (https://github.com/romeoJorge/)
 - [Jeyanth.V] (hhtps://github.com/jeyanth-jr) Excited to give beck to the community and take away
 - [SamCabrera](https://github.com/samanthacabrera) My first open source contribution!
 - [Ayushman](https://github.com/ayushman1210) learning to deep dive into the open source world
