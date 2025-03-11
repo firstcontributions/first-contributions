@@ -1,6 +1,7 @@
 # Contributors
 - [Fwank](https://github.com/yo-frank)
 - [Samarth Bedare](https://github.com/samarthbedare)
+- [Abhinav Singh](https://github.com/Abhinav-kodes)
 - [Yeshu](https://www.youtube.com/watch?v=hB7CDrVnNCs)
 - [Abdullah Asim](https://github.com/Abdulla-asim)
 - [Ctrshift-Pm](https://github.com/Ctrshift-Pm)
