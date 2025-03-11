@@ -8,6 +8,7 @@
 - [Sowndhariya](https://github.com/sowndhariyasugan)
 - [Anay](https://github.com/Anay-Patil)
 - [levo](https://github.com/LeVo011)
+- [Cedrick](https://github.com/Cedrick-Deguzman)
 - [Carburio](https://github.com/Carburio)
 - [Aritra Mukherjee](https://github.com/maritra)
 - [Zafran Ullah](https://github.com/zafran-ullah)
