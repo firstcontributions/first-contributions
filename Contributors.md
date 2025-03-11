@@ -413,6 +413,7 @@
 - [SaboorNisha](https://github.com/SaboorNisha)
 - [Sanika Nair](https://github.com/sanika-n)
 - [LateGit](https://github.com/LateGit)
+- [Parker Crook](https://github.com/parkercrook)
 - [Vilashkumar Daate](https://github.com/vilash99)
 - [Adhish Goswami](https://github.com/Adhishg704)
 - [Zach Garza](https://github.com/ZachG1235)
