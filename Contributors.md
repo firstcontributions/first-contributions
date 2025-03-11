@@ -4227,4 +4227,4 @@
 @ausbmuruges - Its my first contribution
 - [eraserhead21](https://github.com/eraserhead21) xx
 - [Samandar Abdukodirov](https://github.com/abdukod1rov) Life moves pretty fast, it will be over before you know it.
-
+- [Rohit Bharti](https://github.com/Smarty6452) Excited to start my open-source journey! Web developer proficient in React and MERN!
