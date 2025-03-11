@@ -979,6 +979,7 @@
 - [Taine](https://github.com/taine-buchan)
 - [Mebanteidor M Syiem](https://github.com/teidorS)
 - [Sinchana Kumbale](https://github.com/sinchana-kumbale)
+- [chambora](https://github.com/chambora1312)
 - [Yuvraj Singh Wahla](https://github.com/yuvraj-singh08)
 - [Adrià Escandell](https://github.com/AdriiE17)
 - [Roberto Cárdenas](https://github.com/BrokenRoto)
@@ -1006,3 +1007,4 @@
 - [Sainul Abid](https://github.com/abidta)
 - [Mayi RAj](https://github.com/mayilraj)
 - [ekaterinburg001](https://github.com/ekaterinburg001)
+- 
