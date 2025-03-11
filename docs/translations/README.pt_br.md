@@ -110,7 +110,7 @@ Parabéns! Você completou o fluxo de trabalho básico _fork -> clone -> edit ->
 
 Celebre sua contribuição e compartilhe com seus amigos e seguidores no [app web](https://firstcontributions.github.io/#social-share).
 
-Você também pode se juntar à nossa equipe no _Slack_ caso precise de alguma ajuda ou tenha alguma dúvida. [Junte-se à nossa equipe no Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
+Se você quiser mais prática, verifique [code contributions](https://github.com/roshanjossey/code-contributions). 
 
 Agora você pode colaborar com outros projetos. Nós compilamos uma lista de projetos com problemas simples que você pode começar. Verifique em [a lista de projetos no web app](https://firstcontributions.github.io/#project-list).
 
