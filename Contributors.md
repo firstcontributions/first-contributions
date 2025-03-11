@@ -1026,4 +1026,4 @@
 - [ekaterinburg001](https://github.com/ekaterinburg001)
 - [Ashwin Kumar](https://github.com/ashwin-kumar9405)
 - [Siddartha Koppaka](https://github.com/SiddarthaKoppaka)
-- [Antoniorodr][https://github.com/antoniorodr]
+- [Antoniorodr](https://github.com/antoniorodr)
