@@ -138,7 +138,10 @@ git push origin "add-your-name"
  احتفل بأول مساهمة ليك، أعمل شير مع صحابك ومتابعينك عن طريق زيارة <a href="https://firstcontributions.github.io/#social-share">الموقع دة. </a>
 </div>
 
-<div dir="rtl">ممكن تنضم للفريق على Slack لو حابب تساعد او عندك أسئلة. ></div>
+<div dir="rtl">
+  ممكن تنضم للفريق على <a href="https://slack.com/signin#/signin" target="_blank">Slack</a> لو حابب تساعد او عندك أسئلة.
+</div>
+
 
 <br>
 
