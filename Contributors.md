@@ -7,6 +7,7 @@
 - [Sakshi Jaiswal](https://github.com/Sakshijazz)
 - [Sowndhariya](https://github.com/sowndhariyasugan)
 - [Anay](https://github.com/Anay-Patil)
+- [Anay](https://github.com/SiddharthaWork)
 - [levo](https://github.com/LeVo011)
 - [HVentura 👋](https://github.com/hventura)
 - [Cedrick](https://github.com/Cedrick-Deguzman)
