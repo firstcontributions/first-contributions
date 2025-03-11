@@ -739,6 +739,7 @@
 - [Matthew Z](https://github.com/GitwithAbba)
 - [Ayush Rai](https://github.com/Charlie-1-3)
 - [Patrick C](https://github.com/patrickcap)
+- [David S](https://github.com/kyumsong)
 - [Aditya Gupta](https://github.com/Deadlock-exe)
 - [Alan Thomas](https://github.com/alntom)
 - [Joy A](https://github.com/joyagbo)
