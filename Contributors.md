@@ -847,6 +847,7 @@
 - [Chijioke Ugwuanyi](https://github.com/xplorer1)
 - [Horatio Hanley](https://github.com/horatioDev)
 - [Nadav J. Outmezguine](https://github.com/Nadav-out)
+- [ERBierć](https://github.com/erbierc)
 - [Gokularaju](https://github.com/gokul78590)
 - [Oliver](https://github.com/oliverg13)
 - [Phillip Alter](https://github.com/phillip-alter)
