@@ -31,6 +31,7 @@
 - [Andrew Wildgoose](https://github.com/andrewwildgoose)
 - [Aditya Atreya](https://github.com/AdiAce4u)
 - [Somto Ogbe](https://github.com/somtoval)
+- [Opeyemi Oluwayemi] (https://github.com/delightoluwayemi)
 - [Dinara Aysungurova] (https://github.com/aysdi)
 - [Vorahpong Mean](https://github.com/VorahPong)
 - [Vivek Chudasama](https://github.com/vivekchudasama-2004)
