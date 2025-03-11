@@ -47,6 +47,7 @@
 - [CynthiaWahome](https://github.com/CynthiaWahome)
 - [CaraMcG](https://github.com/caraMcG)
 - [Arnav Joshi](https://github.com/Arnav020)
+- [Avadhoot Kulkarni] (https://github.com/Avadhoot-Kulkarni)
 - [Lalit Khokhar](https://github.com/lalitkhokhar)
 - [Vedant Pillai](https://github.com/Codewith-Vedant)
 - [sls-1](https://github.com/sls-1)
