@@ -5,6 +5,7 @@
  **SEM7AC WAS HERE**
  Ashley Lewis
 - [Otmane SAIAOUD](https://github.com/SD-OTM/)
+- [Nichole Higgins](https://github.com/worldsocoled) This is my very first contribution to this! Thank you! 
 - [Dhruv Sharma] (https://github.com/dhruv-sharma007) kya baat hai
 - [Zawe Yan Naing](https://github.com/ZaweYanNaing)
 - [Ansh Gupta](https://github.com/anshgupta2403)
