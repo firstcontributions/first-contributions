@@ -990,6 +990,7 @@
 - [franchsli](https://github.com/franchsli)
 - [Luca Bersezio](https://github.com/lucabersezio)
 - [Taine](https://github.com/taine-buchan)
+- [Jannik](https://github.com/JannikSteuk)
 - [Mebanteidor M Syiem](https://github.com/teidorS)
 - [Sinchana Kumbale](https://github.com/sinchana-kumbale)
 - [Yuvraj Singh Wahla](https://github.com/yuvraj-singh08)
