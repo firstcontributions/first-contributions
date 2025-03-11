@@ -307,6 +307,7 @@
 - [risavctt](https://github.com/risavctt)
 - [eesoyeon](https://github.com/eesoyeon)
 - [Alejandr0x](https://github.com/Alejandr0xxx)
+- [Nehsik](https://github.com/Kishen271828)
 - [PhamNguyenDangHuy](https://github.com/pndh)
 - [BinhTran2307](my first contribution)
 - [smandadhi9](https://github.com/smandadhi9)
