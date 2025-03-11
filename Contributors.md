@@ -6,7 +6,6 @@
  Ashley Lewis
 - [Otmane SAIAOUD](https://github.com/SD-OTM/)
 - [Dhruv Sharma] (https://github.com/dhruv-sharma007) kya baat hai
-- [Roy Surya Pratama](https://github.com/royf5oil)
 - [Zawe Yan Naing](https://github.com/ZaweYanNaing)
 - [Ansh Gupta](https://github.com/anshgupta2403)
 - [Farhan TEnmoy](https://github.com/Ten-T-Tonmoy)
@@ -250,6 +249,7 @@
 - Rotem
 - [Sobhi Abu Hammour](https://github.com/Sobhi-0)
 - Raj
+- add-nikozo-ch
 - [Ziad-Elganzory](https://github.com/Ziad-Elganzory) First contribution wish ne the best.
 - [HaidarOps](https://github.com/HaidarOps)LFG!!
 - [Advaith K](https://github.com/advai-007)Heyy!!To a new beginning
