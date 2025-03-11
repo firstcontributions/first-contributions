@@ -568,6 +568,7 @@
 - [Sylvain L](https://github.com/sylvain-lec)
 - [Shubham Dhama](https://github.com/shubhamdhama108)
 - [Danyal Ejaz](https://github.com/danyalejaz)
+- [João Inacio](https://github.com/J-Inacio)
 - [AFRA A](https://github.com/Afrah4331)
 - [Sneha Jain](https://github.com/sj11105)
 - [Varun Patel](https://github.com/varunpatel07)
