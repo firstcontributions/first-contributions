@@ -271,6 +271,7 @@
 - [Mangelib](https://github.com/mangelib)
 - [Imam](https://github.com/Shaik-36)
 - [tay24or](https://github.com/tay24lor)
+- [Anu](https://github.com/anurag998)
 - [Jonah Raiford](https://github.com/JonahXiaFei)
 - [Ravichandra](https://github.com/ravichandra-21/-contributions)
 - [Raghav](https://github.com/Raghav9871)
