@@ -1,4 +1,5 @@
 # Contributors
+
 - [Fwank](https://github.com/yo-frank)
 - [Samarth Bedare](https://github.com/samarthbedare)
 - [Yeshu](https://www.youtube.com/watch?v=hB7CDrVnNCs)
@@ -301,7 +302,7 @@
 - [Mohanshi Jain](https://github.com/Mohanshi04)
 - [eesoyeon](https://github.com/eesoyeon)
 - [Tournoy Noa](https://github.com/)
- [Chandan Achary](https://github.com/Adventurist2)
+  [Chandan Achary](https://github.com/Adventurist2)
 - [Christian Mayamba](https://github.com/chris-mayamba)
 - [Fahad Haque](https://github.com/Daahaf)
 - [Deepankar Sahoo](https://github.com/CodeByDeepankar)
@@ -1012,3 +1013,4 @@
 - [Dawid Pisarczyk](https://github.com/Dawe000)
 - [Noor E Mobeen](https://github.com/NoorEMobeen)
 - [ekaterinburg001](https://github.com/ekaterinburg001)
+- [BilalSubhani](https://github.com/BilalSubhani)
