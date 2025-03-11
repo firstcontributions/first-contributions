@@ -218,6 +218,7 @@
 - [Sauzan Faza](https://github.com/sauzanfaza/first-contributions)its my first contribution!!
 - [Hello](https://github.com/theJuniorProgrammer3/) This is my first contribution!!! Why did I try this?!?!? Weheheeheeh.
 - [Jas Singh](https://github.com/TheAlphaJas) Letsgooo
+- [Gayathiri Nakkeeran](https://github.com/gayuvick) Hmmm.. Let's get started!!
 - [Youssef mohamed](https://github.com/TURBO70)
 - [Aqib Khan](https://github.com/KAquib24)MY FIRST CONTRIBUTION!!!
 - [Ami-L] (https://github.com/amilia-n) Hi!! I love Techtonica! -[Rayclu](https://github.com/Rayclu) Hi!! I'm Claudio and THIS IS MY FIRST CONTRIBUTION, I'm crying because the emotion (It's a joke)
