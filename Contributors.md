@@ -36,6 +36,7 @@
 - [kamil](https://github.com/Kamil115853)
 - [AdiSaikat](https://github.com/adisaikat)
 - [Arman Yadav](https://github.com/armaaan-yadav)
+- [Raul Alejandro Ledea Cruz](https://github.com/Raulledea)
 - [Andrew Wildgoose](https://github.com/andrewwildgoose)
 - [Aditya Atreya](https://github.com/AdiAce4u)
 - [Somto Ogbe](https://github.com/somtoval)
