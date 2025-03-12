@@ -1036,4 +1036,3 @@
 - [Prabin Bhandari] (https://github.com/prabinbessie)
 - [Sabina Wickforsen] (https://github.com/sabinawic)
 - [Saboor Bhutta](https://github.com/saboor10131)
-- [Sarthak Ghosh](https://github.com/sarthak7034) IN :)
