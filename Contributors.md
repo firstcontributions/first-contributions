@@ -1,4 +1,5 @@
 # Contributors
+
 - [Dhayanithi](https://github.com/Dhayanithi-545)
 - [Fwank](https://github.com/yo-frank)
 - [Samarth Bedare](https://github.com/samarthbedare)
@@ -13,6 +14,7 @@
 - [Anay](https://github.com/SiddharthaWork)
 - [levo](https://github.com/LeVo011)
 - [HVentura 👋](https://github.com/hventura)
+- [Jitendar E Y](https://github.com/jitendarey9594)
 - [Cedrick](https://github.com/Cedrick-Deguzman)
 - [Carburio](https://github.com/Carburio)
 - [Aritra Mukherjee](https://github.com/maritra)
@@ -307,7 +309,7 @@
 - [Mohanshi Jain](https://github.com/Mohanshi04)
 - [eesoyeon](https://github.com/eesoyeon)
 - [Tournoy Noa](https://github.com/)
- [Chandan Achary](https://github.com/Adventurist2)
+  [Chandan Achary](https://github.com/Adventurist2)
 - [Christian Mayamba](https://github.com/chris-mayamba)
 - [Fahad Haque](https://github.com/Daahaf)
 - [Deepankar Sahoo](https://github.com/CodeByDeepankar)
@@ -778,7 +780,7 @@
 - [K G Tint Swe](https://github.com/KG6605)
 - [Dithi-Fuzzythinker](https://github.com/fuzzythinker)
 - [Muhammad-Ghufran-Ali](https://github.com/ghufran2508)
-- [Kleyner Lopez](https://github.com/kleyner098) 
+- [Kleyner Lopez](https://github.com/kleyner098)
 - [Pramendra Shukla](https://github.com/PramendraShukla1/)
 - [Evelyn Xia](https://github.com/Evelyn406)
 - [Mikael Balin](https://github.com/mikaelbalin)
@@ -1031,5 +1033,4 @@
 - [Amit Joshi](https://github.com/amit204joshi)
 - [TaeYeong Jeong](https://github.com/dev-taeyeong)
 - [hdh](https://github.com/hdh0)
-- [Hyungmin Park](https://github.com/keepConcentration)
--[Prabin Bhandari] (https://github.com/prabinbessie)
+- [Hyungmin Park](https://github.com/keepConcentration) -[Prabin Bhandari] (https://github.com/prabinbessie)
