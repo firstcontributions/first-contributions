@@ -1040,6 +1040,7 @@
 - [Amit Joshi](https://github.com/amit204joshi)
 - [TaeYeong Jeong](https://github.com/dev-taeyeong)
 - [hdh](https://github.com/hdh0)
+- [Mauricio Colque](https://github.com/maurom02)
 - [Govind Singh](https://github.com/govinds9)
 - [Hyungmin Park](https://github.com/keepConcentration)
 - [Prabin Bhandari] (https://github.com/prabinbessie)
