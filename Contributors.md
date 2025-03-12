@@ -509,6 +509,7 @@
 - [Tornike Tsulukidze](https://github.com/TheMechanicalBeing)
 - [Alwin Sajan](https://github.com/Alwin-Sajan)
 - [Alonso Jimenez](https://github.com/alonsojmnz)
+- [Matthew Alan Estock](https://www.mattyalanestock.com) (@mattyalanestock) 🎮
 - [Gopal Iyer](https://github.com/geekiyer)
 - [Antonio Fábio](https://github.com/zodiecko)
 - [Alanto Manu](https://github.com/alantomanu)
