@@ -321,6 +321,7 @@
 - [eesoyeon](https://github.com/eesoyeon)
 - [Alejandr0x](https://github.com/Alejandr0xxx)
 - [Nehsik](https://github.com/Kishen271828)
+- [deep9x](https://github.com/deep9x)
 - [PhamNguyenDangHuy](https://github.com/pndh)
 - [BinhTran2307](my first contribution)
 - [smandadhi9](https://github.com/smandadhi9)
