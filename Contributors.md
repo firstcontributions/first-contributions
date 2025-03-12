@@ -120,6 +120,7 @@
 - [Daniel Guo](https://github.com/DiiGii)
 - [Farhan Ilyas](https://github.com/Farhan2001M)
   [Lovepreet Kaur](https://github.com/LovekUR)
+- [Leola](https://github.com/leolalopeslobo)
 - [Navneet Yadav](https://github.com/navnt00)
 - [dylan-sacco](https://github.com/dylan-sacco)
 - [Tawheed Ahmed](https://github.com/TawheedAhmed28)
