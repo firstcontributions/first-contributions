@@ -917,6 +917,7 @@
 - [Palash Chitnavis](https://github.com/PalashChitnavis)
 - [abedalavi](https://github.com/abedalavi)
 - [Delton Hughes](https://github.com/dHughes97)
+- [Yuvam] 
 - [Sixtus Agbo](https://github.com/sixtusagbo)
 - [Siddhesh Gawade](https://github.com/sid293)👋
 - [Huzaifa Azim](https://github.com/huzaifaazim0)
@@ -1034,3 +1035,4 @@
 - [Hyungmin Park](https://github.com/keepConcentration)
 - [Prabin Bhandari] (https://github.com/prabinbessie)
 - [Sabina Wickforsen] (https://github.com/sabinawic)
+- [Saboor Bhutta](https://github.com/saboor10131)
