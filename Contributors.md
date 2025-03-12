@@ -47,6 +47,7 @@
 - [36borderless] (https://github.com/36borderless)
 - [0xjeji](https://github.com/0xjeji)
 - [artistique1](https://github.com/artistique1)
+- [Abhay](https://github.com/abhayiscoding)
 - [Jenny Martin](https://github.com/jmartinDS14)
 - [CynthiaWahome](https://github.com/CynthiaWahome)
 - [CaraMcG](https://github.com/caraMcG)
