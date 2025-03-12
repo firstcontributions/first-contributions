@@ -534,6 +534,7 @@
 - [Vinay Joshi](https://github.com/Anigrl)
 - [JakeJeongAiden](https://github.com/JakeJeongAiden/)
 - [Fangphire](https://github.com/fangphire)
+- [Saptarshi Mitra](https://github.com/Saptarshi1010)
 - [jhc4318](https://github.com/jhc4318)
 - [td2thinh](https://github.com/td2thinh)
 - [dinesh](https://github.com/dineshv97)
