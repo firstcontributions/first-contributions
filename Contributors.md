@@ -69,6 +69,7 @@
 - [Jefferson Huisa](https://github.com/j3ffh95)
 - [mrxc0de](https://github.com/mrxc0de)
 - [Nihal Barua](https://github.com/nihal-bar)
+- [Juan Carlos Alfonso Vina](https://github.com/call-me-trOmpY)
 - [Nejma Latheef](https://github.com/Nejma-Latheef)
 - [Rajesh Khanna] (https://github.com/Rajeshkris2)
 - [Sanidhya Soni](https://github.com/sonisanidhya)
