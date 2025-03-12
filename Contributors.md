@@ -1049,3 +1049,4 @@
 - [Saboor Bhutta](https://github.com/saboor10131)
 - [Sarthak Ghosh](https://github.com/sarthak7034)
 - [Joao Paulo Carvalho](https://github.com/carvalhojp26)
+- [Daniel Barraza](https://github.com/dabamascodes)
