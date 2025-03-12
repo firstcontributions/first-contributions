@@ -1011,6 +1011,7 @@
 - [Aurélien Lainé](https://github.com/aurelien81)
 - [jashan](https://github.com/JaSHaN-30)
 - [John](https://github.com/GitHubCoder144)
+- [Riyanshi](https://github.com/riyanshibohra)
 - [Syed Zainab](https://gothub.com/SyedZainab)
 - [Vishnu Vardan](https://github.com/VV-22)
 - [Maruthi Manideep Gorla](https://github.com/manideep3069)
