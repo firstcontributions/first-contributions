@@ -1039,3 +1039,4 @@
 - [Sabina Wickforsen] (https://github.com/sabinawic)
 - [Saboor Bhutta](https://github.com/saboor10131)
 - [Sarthak Ghosh](https://github.com/sarthak7034)
+- [Joao Paulo Carvalho](https://github.com/carvalhojp26)
