@@ -1053,3 +1053,4 @@
 - [Joao Paulo Carvalho](https://github.com/carvalhojp26)
 - [Daniel Barraza](https://github.com/dabamascodes)
 - [francisco miguel perez](https://github.com/dabamascodes)
+- [William](https://github.com/WilliamIsMe1)
