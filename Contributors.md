@@ -1059,3 +1059,6 @@
 - [Daniel Barraza](https://github.com/dabamascodes)
 - [francisco miguel perez](https://github.com/dabamascodes)
 - [William](https://github.com/WilliamIsMe1)
+- [Siheon](https://github.com/Danbaekman)
+
+
