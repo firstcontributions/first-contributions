@@ -132,6 +132,7 @@
 - [Leola](https://github.com/leolalopeslobo)
 - [Navneet Yadav](https://github.com/navnt00)
 - [dylan-sacco](https://github.com/dylan-sacco)
+- [GabboRocchia](https://github.com/GabboRocchia)
 - [Tawheed Ahmed](https://github.com/TawheedAhmed28)
 - [Aarush-Parashar](https://github.com/Aarush-Parashar)
 - [Ronahi Bağcı](https://github.com/RonayBagci)
