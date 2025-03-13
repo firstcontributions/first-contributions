@@ -1071,6 +1071,7 @@
 - [francisco miguel perez](https://github.com/dabamascodes)
 - [William](https://github.com/WilliamIsMe1)
 - [Jeanette Conklin](https://github.com/conklinj09) 
+- [kmgan] (https://github.com/kmgan)
 - [PaniniRS](https://github.com/paninirs) 
 - [Alercio Silva](https://github.com/alercioborges) 
 - [R Nilesh](https://github.com/r-nilesh-c)
