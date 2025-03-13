@@ -308,6 +308,7 @@
 - [Kyrylo Sorokovskyi](https://github.com/sumdeusvitae)
 - [Federico](https://github.com/Fede2717)
 - [Liquuid1](https://github.com/Liquuid1)
+- [Pankaj Nautiyal](https://github.com/PankajNautiyal)
 - [Nimisha](https://github.com/codehusler14)
 - [Bhavishay Bharti](https://github.com/bhavi-b)
 - [Shaswat Raj](https://github.com/sh20raj)
