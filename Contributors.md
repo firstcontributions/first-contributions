@@ -1074,3 +1074,4 @@
 - [PaniniRS](https://github.com/paninirs) 
 - [Alercio Silva](https://github.com/alercioborges) 
 - [R Nilesh](https://github.com/r-nilesh-c)
+- [madplay](https://github.com/madplay)
