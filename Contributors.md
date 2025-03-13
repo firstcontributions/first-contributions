@@ -708,6 +708,7 @@
 - [Elina Zoldnere](https://github.com/ElinaZoldnere)
 - [Benjamin Tsoumagas](https://github.com/tsoumagas-benjamin)
 - [Ricardo Guimaraes](https://github.com/Ricardoguima)
+- [Matheus Bortolo](https://github.com/Matheusbortolo)
 - [Umair Amir](https://github.com/UmairAmir)
 - [Kevin Zheng](https://github.com/csdoge007)
 - [Natnael Hailu](https://github.com/natnaelhailu)
