@@ -1068,6 +1068,7 @@
 - [Prabin Bhandari] (https://github.com/prabinbessie)
 - [Sabina Wickforsen] (https://github.com/sabinawic)
 - [Saboor Bhutta](https://github.com/saboor10131)
+- [wheinrichs](https://github.com/wheinrichs)
 - [Ibrahima Camara](https://github.com/Cami25-code)
 - [Sarthak Ghosh](https://github.com/sarthak7034)
 - [Joao Paulo Carvalho](https://github.com/carvalhojp26)
