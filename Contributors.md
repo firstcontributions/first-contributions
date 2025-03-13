@@ -7,6 +7,7 @@
 - [Abdullah Asim](https://github.com/Abdulla-asim)
 - [Ctrshift-Pm](https://github.com/Ctrshift-Pm)
 - [Sakshi Jaiswal](https://github.com/Sakshijazz)
+- [Pranshu Rakhecha](https://github.com/pranshurakhecha)
 - [Ngoc Phuong Vi Nguyen](https://github.com/phuongvinguyen)
 - [Sowndhariya](https://github.com/sowndhariyasugan)
 - [Anay](https://github.com/Anay-Patil)
