@@ -804,7 +804,7 @@
 - [K G Tint Swe](https://github.com/KG6605)
 - [Dithi-Fuzzythinker](https://github.com/fuzzythinker)
 - [Muhammad-Ghufran-Ali](https://github.com/ghufran2508)
-- [Kleyner Lopez](https://github.com/kleyner098) 
+- [Kleyner Lopez](https://github.com/kleyner098)
 - [Pramendra Shukla](https://github.com/PramendraShukla1/)
 - [Evelyn Xia](https://github.com/Evelyn406)
 - [Mikael Balin](https://github.com/mikaelbalin)
@@ -943,7 +943,7 @@
 - [Palash Chitnavis](https://github.com/PalashChitnavis)
 - [abedalavi](https://github.com/abedalavi)
 - [Delton Hughes](https://github.com/dHughes97)
-- [Yuvam] 
+- [Yuvam]
 - [Sixtus Agbo](https://github.com/sixtusagbo)
 - [Siddhesh Gawade](https://github.com/sid293)👋
 - [Huzaifa Azim](https://github.com/huzaifaazim0)
@@ -1070,8 +1070,9 @@
 - [Daniel Barraza](https://github.com/dabamascodes)
 - [francisco miguel perez](https://github.com/dabamascodes)
 - [William](https://github.com/WilliamIsMe1)
-- [Jeanette Conklin](https://github.com/conklinj09) 
-- [PaniniRS](https://github.com/paninirs) 
-- [Alercio Silva](https://github.com/alercioborges) 
+- [Jeanette Conklin](https://github.com/conklinj09)
+- [PaniniRS](https://github.com/paninirs)
+- [Alercio Silva](https://github.com/alercioborges)
 - [R Nilesh](https://github.com/r-nilesh-c)
 - [madplay](https://github.com/madplay)
+- [Ruslan Kazmiryk] (https://github.com/callogan)

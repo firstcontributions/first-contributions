@@ -21,7 +21,7 @@ Deberías ver el diálogo modal "Welcome to GitKraken" - Regístrate con Github 
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-login.png" alt="login to GitHub" />
 
-(opcional) Dirígete a File -> Preferences y configura el directorio de tu proyecto en la raíz de tus repositorios locales. 
+(opcional) Dirígete a File -> Preferences y configura el directorio de tu proyecto en la raíz de tus repositorios locales.
 
 
 ## Bifurca (Fork) este repositorio
