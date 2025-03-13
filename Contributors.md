@@ -12,6 +12,7 @@
 - [Ctrshift-Pm](https://github.com/Ctrshift-Pm)
 - [Janani](https://github.com/cjanani)
 - [Sakshi Jaiswal](https://github.com/Sakshijazz)
+- [Pranshu Rakhecha](https://github.com/pranshurakhecha)
 - [Ngoc Phuong Vi Nguyen](https://github.com/phuongvinguyen)
 - [Sowndhariya](https://github.com/sowndhariyasugan)
 - [Anay](https://github.com/Anay-Patil)
