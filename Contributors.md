@@ -9,6 +9,7 @@
 - [John Wilkinson](https://github.com/dnCRevelation)
 - [Yeshu](https://www.youtube.com/watch?v=hB7CDrVnNCs)
 - [Abdullah Asim](https://github.com/Abdulla-asim)
+- [Steve Yadav](https://github.com/lucifer47C)
 - [Ctrshift-Pm](https://github.com/Ctrshift-Pm)
 - [Janani](https://github.com/cjanani)
 - [Sakshi Jaiswal](https://github.com/Sakshijazz)
