@@ -306,6 +306,7 @@
 - [Sai Khay Khun Mong](https://github.com/KhayKhun)
 - [Jewel Geea George](https://github.com/)
 - [Kyrylo Sorokovskyi](https://github.com/sumdeusvitae)
+- [Federico](https://github.com/Fede2717)
 - [Liquuid1](https://github.com/Liquuid1)
 - [Nimisha](https://github.com/codehusler14)
 - [Bhavishay Bharti](https://github.com/bhavi-b)
