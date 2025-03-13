@@ -1,5 +1,6 @@
 # Contributors
 - [Dhayanithi](https://github.com/Dhayanithi-545)
+- [Harish](https://github.com/harish-167)
 - [Fwank](https://github.com/yo-frank)
 - [Navid](https://github.com/navidcodes)
 - [KigulaJesse](https://github.com/KigulaJesse)
