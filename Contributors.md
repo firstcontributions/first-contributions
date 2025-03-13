@@ -1,4 +1,6 @@
 # Contributors
+
+- [Santhosh-D](https://github.com/SanthoshD123)
 - [Dhayanithi](https://github.com/Dhayanithi-545)
 - [Fwank](https://github.com/yo-frank)
 - [Navid](https://github.com/navidcodes)
@@ -324,7 +326,7 @@
 - [Mohanshi Jain](https://github.com/Mohanshi04)
 - [eesoyeon](https://github.com/eesoyeon)
 - [Tournoy Noa](https://github.com/)
- [Chandan Achary](https://github.com/Adventurist2)
+  [Chandan Achary](https://github.com/Adventurist2)
 - [Christian Mayamba](https://github.com/chris-mayamba)
 - [Fahad Haque](https://github.com/Daahaf)
 - [Deepankar Sahoo](https://github.com/CodeByDeepankar)
@@ -799,7 +801,7 @@
 - [K G Tint Swe](https://github.com/KG6605)
 - [Dithi-Fuzzythinker](https://github.com/fuzzythinker)
 - [Muhammad-Ghufran-Ali](https://github.com/ghufran2508)
-- [Kleyner Lopez](https://github.com/kleyner098) 
+- [Kleyner Lopez](https://github.com/kleyner098)
 - [Pramendra Shukla](https://github.com/PramendraShukla1/)
 - [Evelyn Xia](https://github.com/Evelyn406)
 - [Mikael Balin](https://github.com/mikaelbalin)
@@ -938,7 +940,7 @@
 - [Palash Chitnavis](https://github.com/PalashChitnavis)
 - [abedalavi](https://github.com/abedalavi)
 - [Delton Hughes](https://github.com/dHughes97)
-- [Yuvam] 
+- [Yuvam]
 - [Sixtus Agbo](https://github.com/sixtusagbo)
 - [Siddhesh Gawade](https://github.com/sid293)👋
 - [Huzaifa Azim](https://github.com/huzaifaazim0)
@@ -1065,6 +1067,6 @@
 - [Daniel Barraza](https://github.com/dabamascodes)
 - [francisco miguel perez](https://github.com/dabamascodes)
 - [William](https://github.com/WilliamIsMe1)
-- [Jeanette Conklin](https://github.com/conklinj09) 
-- [PaniniRS](https://github.com/paninirs) 
+- [Jeanette Conklin](https://github.com/conklinj09)
+- [PaniniRS](https://github.com/paninirs)
 - [R Nilesh](https://github.com/r-nilesh-c)
