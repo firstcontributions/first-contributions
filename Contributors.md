@@ -4,6 +4,7 @@
 - [Nayabasetsi J. Kisowile](https://github.com/nas3ts)
 - [Samarth Bedare](https://github.com/samarthbedare)
 - [Abhinav Singh](https://github.com/Abhinav-kodes)
+- [John Wilkinson](https://github.com/dnCRevelation)
 - [Yeshu](https://www.youtube.com/watch?v=hB7CDrVnNCs)
 - [Abdullah Asim](https://github.com/Abdulla-asim)
 - [Ctrshift-Pm](https://github.com/Ctrshift-Pm)
