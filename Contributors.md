@@ -552,6 +552,7 @@
 - [Länzlinger Jonas](https://github.com/jonaslanzlinger)
 - [Ramis Humayun](https://github.com/Ramis102)
 - [Polina Polupan](https://github.com/PolinaPolupan)
+- [Anwesh Rawat](https://github.com/anwrat)
 - [Vinay Joshi](https://github.com/Anigrl)
 - [JakeJeongAiden](https://github.com/JakeJeongAiden/)
 - [Fangphire](https://github.com/fangphire)
