@@ -8,6 +8,7 @@
 - [Yeshu](https://www.youtube.com/watch?v=hB7CDrVnNCs)
 - [Abdullah Asim](https://github.com/Abdulla-asim)
 - [Ctrshift-Pm](https://github.com/Ctrshift-Pm)
+- [Janani](https://github.com/cjanani)
 - [Sakshi Jaiswal](https://github.com/Sakshijazz)
 - [Ngoc Phuong Vi Nguyen](https://github.com/phuongvinguyen)
 - [Sowndhariya](https://github.com/sowndhariyasugan)
