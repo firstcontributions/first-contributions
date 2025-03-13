@@ -1,4 +1,5 @@
 # Contributors
+- [AI Assistant](https://github.com/ai-assistant) - Added Icelandic translation
 - [Dhayanithi](https://github.com/Dhayanithi-545)
 - [Fwank](https://github.com/yo-frank)
 - [Navid](https://github.com/navidcodes)
