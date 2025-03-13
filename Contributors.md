@@ -1064,3 +1064,4 @@
 - [francisco miguel perez](https://github.com/dabamascodes)
 - [William](https://github.com/WilliamIsMe1)
 - [Jeanette Conklin](https://github.com/conklinj09) 
+- [PaniniRS](https://github.com/paninirs) 
