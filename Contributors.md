@@ -1,6 +1,7 @@
 # Contributors
 - [Dhayanithi](https://github.com/Dhayanithi-545)
 - [Fwank](https://github.com/yo-frank)
+- [Navid](https://github.com/navidcodes)
 - [Nayabasetsi J. Kisowile](https://github.com/nas3ts)
 - [Samarth Bedare](https://github.com/samarthbedare)
 - [Abhinav Singh](https://github.com/Abhinav-kodes)
