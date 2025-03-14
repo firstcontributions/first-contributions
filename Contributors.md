@@ -415,6 +415,7 @@
 - [Nikolai B.](https://github.com/nbardzinkevichh)
 - [Gabriel Vieira](https://www.linkedin.com/in/gabrielvieirasantos/)
 - [Daniel Molina](https://github.com/molinafm30)
+- [am1n1602](https://github.com/Am1n1602)
 - [notamudkipiguess](https://github.com/notamudkipiguess)
 - [HannanToprakPia](https://github.com/HannanToprakPia)
 - [Soaring Eagle](https://github.com/SoaringEagle910)
