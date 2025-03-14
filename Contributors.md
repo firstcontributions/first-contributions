@@ -180,6 +180,7 @@
 - [shubham goyal](https://github.com/shubgoyal23)
 - [Sankalp Yerigeri](https://github.com/SankalpYerigeri)
 - [Peleg Ben Barak](https://github.com/peleg-bb)
+- [AjiHsu](https://github.com/AjiHsu)
 - [gyanchandkabra](https://github.com/gyanchandkabra)
 - [harshit](https://github.com/harshitpatel862)
 - [Giusnovetti](https://github.com/Giusnovetti)
