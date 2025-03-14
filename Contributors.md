@@ -497,6 +497,7 @@
 - [emrlk](https://github.com/emrlk)
 - [Chuffed](https://github.com/Chuffed-Code)
 - [PangWithaPang](https://github.com/PangWithaPang)
+- [Anal joseph](https://github.com/anal96)
 - [Sushanth hebri](https://github.com/Sushanth-Hebri/)
 - [Sai Manogyana Tokachichu](https://github.com/scrapperDubiBear/)
 - [reihori](https://github.com/reihori)
