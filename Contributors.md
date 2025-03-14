@@ -1,6 +1,7 @@
 # Contributors
 - [Dhayanithi](https://github.com/Dhayanithi-545)
 - [Timothy Phan](https://github.com/TimothyPhan2)
+- [Shailesh Sharma](https://github.com/Chinipanda)
 - [Harish](https://github.com/harish-167)
 - [Fwank](https://github.com/yo-frank)
 - [Navid](https://github.com/navidcodes)
