@@ -218,6 +218,7 @@
 - [AbubakerKhilji](https://github.com/Abubaker-khilji)
 - [adwaitp](https://github.com/adwaitdagitguy)
 - [davidw1281](https://github.com/davidw1281)
+- [paddygriff](https://github.com/paddygriffin)
 - [Ryen-K](https://github.com/Ryen-K)
 - [antoineDELEBECQUE](https://github.com/AntoineDlb)
 - [Josh Gregory](https://github.com/joshtype)
