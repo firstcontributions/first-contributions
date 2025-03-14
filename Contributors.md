@@ -12,6 +12,7 @@
 - [Abhinav Singh](https://github.com/Abhinav-kodes)
 - [John Wilkinson](https://github.com/dnCRevelation)
 - [Yeshu](https://www.youtube.com/watch?v=hB7CDrVnNCs)
+- [Michael S]
 - [Abdullah Asim](https://github.com/Abdulla-asim)
 - [Steve Yadav](https://github.com/lucifer47C)
 - [Ctrshift-Pm](https://github.com/Ctrshift-Pm)
