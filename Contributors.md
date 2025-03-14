@@ -257,6 +257,7 @@
 - [oompf](https://github.com/oompf)
 - [Roshawn Brooks](https://github.com/rbrooks95)
 - [Mr. Jakkula](https://github.com/Mr.Jakkula)
+- [Romuald Oluwatobi](https://github.com/Romulad)
 - [Jeston Lewis](https://github.com/jestoncolelewis)
 - [Omer Cohen](https://github.com/OmerCohen7530)
 - [Janice Fernandes](https://github.com/janiceferns02)
