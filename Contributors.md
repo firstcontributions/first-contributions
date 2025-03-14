@@ -1097,6 +1097,8 @@
 - [PaniniRS](https://github.com/paninirs) 
 - [Alercio Silva](https://github.com/alercioborges) 
 - [R Nilesh](https://github.com/r-nilesh-c)
+- [madplay](https://github.com/madplay) -[lucifer]
+- [c0d1ng-ma5ter](https://github.com/c0d1ng-ma5ter)
 - [madplay](https://github.com/madplay)
 - [MLwoodi](https://github.com/MLwoodi)
 - [Travis Keefe](https://github.com/tkeefe)
@@ -1109,3 +1111,4 @@
 - [Yamadori](https://github.com/yamadoriAnka)
 - [Tan ChiaYan](https://github.com/tchiayan)
 - [Hoa Hung](https://github.com/imandy63)
+
