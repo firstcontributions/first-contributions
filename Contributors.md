@@ -1,6 +1,8 @@
 # Contributors
 
 - [Dhayanithi](https://github.com/Dhayanithi-545)
+- [Timothy Phan](https://github.com/TimothyPhan2)
+- [Shailesh Sharma](https://github.com/Chinipanda)
 - [Harish](https://github.com/harish-167)
 - [Fwank](https://github.com/yo-frank)
 - [Navid](https://github.com/navidcodes)
@@ -14,6 +16,7 @@
 - [Steve Yadav](https://github.com/lucifer47C)
 - [Ctrshift-Pm](https://github.com/Ctrshift-Pm)
 - [Janani](https://github.com/cjanani)
+- [Nahom](https://github.com/NahomWondimu)
 - [Sakshi Jaiswal](https://github.com/Sakshijazz)
 - [Pranshu Rakhecha](https://github.com/pranshurakhecha)
 - [Ngoc Phuong Vi Nguyen](https://github.com/phuongvinguyen)
@@ -35,6 +38,7 @@
 - [Vanlal Peka](https://github.com/vanlalpeka)
 - [John](https://github.com/yrdnal-c-nhoj)
 - [Sreekutty Kottukkal Ajamalan](https://github.com/sreekutty-434)
+- [Matthew Romero](https://github.com/matmatromero)
 - [Mercy-Mbao ✨](https://github.com/mercie-ux)
 - [wonathan](https://github.com/threestuff)
 - [Emmanuel Leu Tecson](https://github.com/TEKKSUNN)
@@ -47,8 +51,9 @@
 - [Andrew Wildgoose](https://github.com/andrewwildgoose)
 - [Aditya Atreya](https://github.com/AdiAce4u)
 - [Somto Ogbe](https://github.com/somtoval)
-- [Opeyemi Oluwayemi] (<https://github.com/delightoluwayemi>)
-- [Dinara Aysungurova] (<https://github.com/aysdi>)
+- [Yodahe Wondimu](https://github.com/YodaheWondimu)
+- [Opeyemi Oluwayemi] (https://github.com/delightoluwayemi)
+- [Dinara Aysungurova] (https://github.com/aysdi)
 - [Vorahpong Mean](https://github.com/VorahPong)
 - [Vivek Chudasama](https://github.com/vivekchudasama-2004)
 - [Borzoi Lover](https://github.com/mmitros1)
@@ -852,6 +857,7 @@
 - [Jayavardhan gorlamandala](No link sorry)
 - [Ashish Kumar](https://github.com/akdevv)
 - [Julius Oyovwikigho](https://github.com/ojst60)
+- [thenil3sh](https://github.com/thenil3sh)
 - [Mohammed Siddiq Sawani](https://github.com/siddiksawani)
 - [Mohammed Sidiq](https://github.com/MohdSiddiq12)
 - [BlackSmithOfFire](I won't put my link/Sorry!But thanks)
@@ -1085,4 +1091,9 @@
 - [Alercio Silva](https://github.com/alercioborges) 
 - [R Nilesh](https://github.com/r-nilesh-c)
 - [madplay](https://github.com/madplay)
--[lucifer]
+- [MLwoodi](https://github.com/MLwoodi)
+- [Travis Keefe](https://github.com/tkeefe)
+- [Lim Zhang](https://github.com/Limwalnut)
+- [lucifer]
+- [tappe9](https://github.com/tappe9)
+- 侯文卓[https://github.com/wenzhuo4657]
