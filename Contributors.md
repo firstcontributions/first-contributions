@@ -1105,3 +1105,4 @@
 - 侯文卓[https://github.com/wenzhuo4657]
 - [Ersin Dalga](https://github.com/ersindalga)
 - [Yamadori](https://github.com/yamadoriAnka)
+- [Tan ChiaYan](https://github.com/tchiayan)
