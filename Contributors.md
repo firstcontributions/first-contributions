@@ -650,6 +650,7 @@
 - [Capri Caviedes](https://github.com/caprivm)
 - [ccie5013](https://github.com/ccie5013)
 - [Leticia suzuki](https://github.com/Leticia567568)
+- [Letícia Reche](https://github.com/lereche)
 - [Albert Byrone](https://github.com/Albert-Byrone)
 - [zurfjereluhmie](https://github.com/zurfjereluhmie)
 - [Rishan Thangaraj](https://github.com/rishant3441)
