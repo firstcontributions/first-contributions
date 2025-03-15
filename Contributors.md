@@ -5,6 +5,7 @@
 - [Ahmed Elskh](https://github.com/ahmedelshkh)
 - [Shailesh Sharma](https://github.com/Chinipanda)
 - [Harish](https://github.com/harish-167)
+- [Pratik](https://github.com/pratik2374)
 - [Fwank](https://github.com/yo-frank)
 - [Navid](https://github.com/navidcodes)
 - [KigulaJesse](https://github.com/KigulaJesse)
