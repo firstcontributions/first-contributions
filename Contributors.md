@@ -1114,4 +1114,6 @@
 - [Yusup Maulana](https://github.com/yusupscopes)
 - [Hoa Hung](https://github.com/imandy63)
 - [Ariful Mowla](https://github.com/arifulmowla)
-- [Darshan Gowda](https://github.com/DarshanGowdaATU/FOSS_Darshan)
+- [Darshan Gowda]
+- [Aly El-Badry](https://github.com/Ali-EL-Badry)
+(https://github.com/DarshanGowdaATU/FOSS_Darshan)
