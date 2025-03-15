@@ -57,6 +57,7 @@
 - [Sreekutty Kottukkal Ajamalan](https://github.com/sreekutty-434)
 - [Matthew Romero](https://github.com/matmatromero)
 - [Mercy-Mbao ✨](https://github.com/mercie-ux)
+- [Wanling Fu](https://github.com/wanling0000)
 - [wonathan](https://github.com/threestuff)
 - [Emmanuel Leu Tecson](https://github.com/TEKKSUNN)
 - Mustafa Mubarak Shaik (GitHub-mubarakshaik6)
