@@ -61,6 +61,7 @@
 - [Wanling Fu](https://github.com/wanling0000)
 - [wonathan](https://github.com/threestuff)
 - [Emmanuel Leu Tecson](https://github.com/TEKKSUNN)
+- [git-gud-jim](https://github.com/git-gud-jim)
 - Mustafa Mubarak Shaik (GitHub-mubarakshaik6)
 - [hannah0wang 🍍](https://github.com/hannah0wang)
 - [kamil](https://github.com/Kamil115853)
@@ -1151,3 +1152,4 @@
 - [Dennis Guaman](https://github.com/guzmi25) 
 - [Manish](https://github.com/Manish187738)
 - [René Elbracht](https://github.com/reelxi)
+- [Aniket] (https://github.com/aniketr3)
