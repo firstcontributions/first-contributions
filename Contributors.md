@@ -1144,4 +1144,4 @@
 - [Abhay Patil](https://github.com/user-abhay08)
 - [cyc](https://github.com/Cai-yc)
 - ransomn(https://github.com/ransomn)
-- [Dennis Guaman] (https://github.com/guzmi25) 
+- [Dennis Guaman](https://github.com/guzmi25) 
