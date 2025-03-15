@@ -1109,5 +1109,6 @@
 - [Ersin Dalga](https://github.com/ersindalga)
 - [Yamadori](https://github.com/yamadoriAnka)
 - [Tan ChiaYan](https://github.com/tchiayan)
+- [Yusup Maulana](https://github.com/yusupscopes)
 - [Hoa Hung](https://github.com/imandy63)
 - [Ariful Mowla](https://github.com/arifulmowla)
