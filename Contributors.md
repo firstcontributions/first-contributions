@@ -82,6 +82,7 @@
 - [Jenny Martin](https://github.com/jmartinDS14)
 - [CynthiaWahome](https://github.com/CynthiaWahome)
 - [Torres Martinez]
+- [Keshav Raj Chaudhary](https://github.com/chaudharykeshavraj)
 - [CaraMcG](https://github.com/caraMcG)
 - [Arnav Joshi](https://github.com/Arnav020)
 - [Avadhoot Kulkarni] (https://github.com/Avadhoot-Kulkarni)
