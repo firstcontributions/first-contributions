@@ -530,6 +530,7 @@
 - [Sashin Trout](https://github.com/sashin123)
 - [Anish Banda](https://github.con/anishbanda)
 - [Jordy19](https://github.com/Jordy19)
+- [Efte Hassan Hridoy](https://github.com/eftehassanpp)
 - [cawhite7](https://github.com/cawhite7)
 - [Whrisper](https://github.com/SChrisper)
 - [vedivero](https://github.com/vedivero)
