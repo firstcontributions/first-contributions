@@ -1,4 +1,5 @@
 # Contributors
+- [Harshita Singla](https://github.com/HarshitaSingla)
 - [Dhayanithi](https://github.com/Dhayanithi-545)
 - [Timothy Phan](https://github.com/TimothyPhan2)
 - [Ahmed Reyyan](https://github.com/AhmedReyyan)
