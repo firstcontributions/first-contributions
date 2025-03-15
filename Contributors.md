@@ -8,6 +8,7 @@
 - [Pratik](https://github.com/pratik2374)
 - [Fwank](https://github.com/yo-frank)
 - [Navid](https://github.com/navidcodes)
+- [Asghar Kazmi](https://github.com/AsgharKazmi2005)
 - [KigulaJesse](https://github.com/KigulaJesse)
 - [Nayabasetsi J. Kisowile](https://github.com/nas3ts)
 - [Samarth Bedare](https://github.com/samarthbedare)
