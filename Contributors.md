@@ -54,6 +54,7 @@
 - [Arman Yadav](https://github.com/armaaan-yadav)
 - [Raul Alejandro Ledea Cruz](https://github.com/Raulledea)
 - [Andrew Wildgoose](https://github.com/andrewwildgoose)
+- [jsutCodes](https://github.com/jsutCodes)
 - [Aditya Atreya](https://github.com/AdiAce4u)
 - [Somto Ogbe](https://github.com/somtoval)
 - [Yodahe Wondimu](https://github.com/YodaheWondimu)
