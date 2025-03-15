@@ -1,5 +1,6 @@
 # Contributors
 - [Vijaya](https://github.com/Vijayaa21)
+- [Josh] (https://github.com/josh902)
 - [Dhayanithi](https://github.com/Dhayanithi-545)
 - [Abhishek Negi](https://github.com/abhi-negii7)
 - [Timothy Phan](https://github.com/TimothyPhan2)
