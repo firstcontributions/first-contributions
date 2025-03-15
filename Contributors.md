@@ -25,6 +25,7 @@
 - [Nikhil Rajbhar](https://github.com/NikhilRajbhar111)
 - [Michael S]
 - leee
+- [njn](https://github.com/Njn03)
 - [Yadunand Kamath](https://github.com/yadunand-kamath)
 - [Abdullah Asim](https://github.com/Abdulla-asim)
 - [Umer Aslam](https://github.com/umeraslam00)
@@ -1146,3 +1147,7 @@
 - ransomn(https://github.com/ransomn)
 - [Dennis Guaman](https://github.com/guzmi25)
 - [Facundo Gómez](https://github.com/facundolgomez)
+- [Dennis Guaman](https://github.com/guzmi25) 
+- [Manish](https://github.com/Manish187738)
+
+
