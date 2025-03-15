@@ -9,6 +9,7 @@
 - [Harish](https://github.com/harish-167)
 - [Pratik](https://github.com/pratik2374)
 - [Fwank](https://github.com/yo-frank)
+- [Mulenga Chituta](https://github.com/MulengaHankandaChituta)
 - [Navid](https://github.com/navidcodes)
 - [Asghar Kazmi](https://github.com/AsgharKazmi2005)
 - [KigulaJesse](https://github.com/KigulaJesse)
