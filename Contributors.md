@@ -26,6 +26,7 @@
 - [Nikhil Rajbhar](https://github.com/NikhilRajbhar111)
 - [Michael S]
 - leee
+- [Stephanie Chen] (https://github.com/stephaniechen58)
 - [njn](https://github.com/Njn03)
 - [Yadunand Kamath](https://github.com/yadunand-kamath)
 - [Abdullah Asim](https://github.com/Abdulla-asim)
