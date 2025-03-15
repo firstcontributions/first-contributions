@@ -1,6 +1,7 @@
 # Contributors
 - [Vijaya](https://github.com/Vijayaa21)
 - [Dhayanithi](https://github.com/Dhayanithi-545)
+- [Abhishek Negi](https://github.com/abhi-negii7)
 - [Timothy Phan](https://github.com/TimothyPhan2)
 - [Ahmed Reyyan](https://github.com/AhmedReyyan)
 - [Ahmed Elskh](https://github.com/ahmedelshkh)
