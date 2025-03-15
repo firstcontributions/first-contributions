@@ -163,6 +163,7 @@
   [Lovepreet Kaur](https://github.com/LovekUR)
 - [Leola](https://github.com/leolalopeslobo)
 - [Navneet Yadav](https://github.com/navnt00)
+- [Anina van Niekerk](https://github.com/aninagotgit)
 - [dylan-sacco](https://github.com/dylan-sacco)
 - [GabboRocchia](https://github.com/GabboRocchia)
 - [Tawheed Ahmed](https://github.com/TawheedAhmed28)
@@ -1142,4 +1143,5 @@
 - Ravitej Herwatta 💀 (https://github.com/ravitej199)
 - [Abhay Patil](https://github.com/user-abhay08)
 - [cyc](https://github.com/Cai-yc)
+- ransomn(https://github.com/ransomn)
 - [Dennis Guaman] (https://github.com/guzmi25) 
