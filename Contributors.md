@@ -163,6 +163,7 @@
   [Lovepreet Kaur](https://github.com/LovekUR)
 - [Leola](https://github.com/leolalopeslobo)
 - [Navneet Yadav](https://github.com/navnt00)
+- [Anina van Niekerk](https://github.com/aninagotgit)
 - [dylan-sacco](https://github.com/dylan-sacco)
 - [GabboRocchia](https://github.com/GabboRocchia)
 - [Tawheed Ahmed](https://github.com/TawheedAhmed28)
