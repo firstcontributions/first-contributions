@@ -4,6 +4,7 @@
 - [Ahmed Reyyan](https://github.com/AhmedReyyan)
 - [Ahmed Elskh](https://github.com/ahmedelshkh)
 - [Shailesh Sharma](https://github.com/Chinipanda)
+- [Sam Shattock](https://github.com/Shatt85)
 - [Harish](https://github.com/harish-167)
 - [Pratik](https://github.com/pratik2374)
 - [Fwank](https://github.com/yo-frank)
