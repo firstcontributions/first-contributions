@@ -12,6 +12,7 @@
 - [Abhinav Singh](https://github.com/Abhinav-kodes)
 - [John Wilkinson](https://github.com/dnCRevelation)
 - [Yeshu](https://www.youtube.com/watch?v=hB7CDrVnNCs)
+- [Nikhil Rajbhar](https://github.com/NikhilRajbhar111)
 - [Michael S]
 - [Abdullah Asim](https://github.com/Abdulla-asim)
 - [Steve Yadav](https://github.com/lucifer47C)
@@ -172,6 +173,7 @@
 - [Arun G Jose](https://github.com/arungjose)
 - [DB Koenig](https://github.com/dkoe00)
 - [iaiw3br](https://github.com/iaiw3br)
+- [Pujan Bohora](https://github.com/pujanbohora)
 - [Menahil](https://github.com/mena-aq)
 - [PacOne] (https://github.com/pac1-lab/)
 - [Raghav Dwivedi](https://github.com/dwi4122)
@@ -1113,3 +1115,4 @@
 - [Yusup Maulana](https://github.com/yusupscopes)
 - [Hoa Hung](https://github.com/imandy63)
 - [Ariful Mowla](https://github.com/arifulmowla)
+- [Darshan Gowda](https://github.com/DarshanGowdaATU/FOSS_Darshan)
