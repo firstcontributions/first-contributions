@@ -1103,6 +1103,7 @@
 - [William](https://github.com/WilliamIsMe1)
 - [Jeanette Conklin](https://github.com/conklinj09) 
 - [kmgan] (https://github.com/kmgan)
+- [Jewelle Vergara] (https://github.com/wey02)
 - [PaniniRS](https://github.com/paninirs) 
 - [Alercio Silva](https://github.com/alercioborges) 
 - [R Nilesh](https://github.com/r-nilesh-c)
@@ -1125,3 +1126,4 @@
 - [Darshan Gowda](https://github.com/DarshanGowdaATU/FOSS_Darshan)
 - [Mouadhbendjedidi](https://github.com/Mouadhbendjedidi)
 - Ravitej Herwatta 💀 (https://github.com/ravitej199)
+
