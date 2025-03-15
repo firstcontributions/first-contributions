@@ -434,6 +434,7 @@
 - [TsvetislavRangelov](https://github.com/TsvetislavRangelov)
 - [SHP](https://github.com/Su-Hnin)
 - [Ben](https://github.com/ben3211)
+- [Mark](https://github.com/markferritto)
 - [Arjit shandilya](https://github.com/arjitshandilya)
 - [Hari chandra prasad](https://github.com/harichandra1)
 - [ITSMijaiL](https://github.com/ITSMijaiL)
@@ -1114,6 +1115,6 @@
 - [Yusup Maulana](https://github.com/yusupscopes)
 - [Hoa Hung](https://github.com/imandy63)
 - [Ariful Mowla](https://github.com/arifulmowla)
-- [Darshan Gowda]
 - [Aly El-Badry](https://github.com/Ali-EL-Badry)
-(https://github.com/DarshanGowdaATU/FOSS_Darshan)
+- [karthikeyanm](https://github.com/karthikeyan187463)
+- [Darshan Gowda](https://github.com/DarshanGowdaATU/FOSS_Darshan)
