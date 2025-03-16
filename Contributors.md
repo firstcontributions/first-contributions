@@ -7,6 +7,7 @@
 - [Vijaya](https://github.com/Vijayaa21)
 - [Tinotenda Mhedziso](https://github.com/Passion-Over-Pain)
 - [Dhayanithi](https://github.com/Dhayanithi-545)
+- [Vishnu Vardhan N](https://github.com/VishnuVardhanNk)
 - [Abhishek Negi](https://github.com/abhi-negii7)
 - [Timothy Phan](https://github.com/TimothyPhan2)
 - [Ahmed Reyyan](https://github.com/AhmedReyyan)
