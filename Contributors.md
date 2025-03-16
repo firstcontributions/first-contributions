@@ -2,6 +2,7 @@
 - [JorgeGallegos] (https://github.com/JorgeGallegos8)
 - [ashykng](https://github.com/ashykng)
 - Javier Borja
+- Jeffrey Cole
 - [Vijaya](https://github.com/Vijayaa21)
 - [Dhayanithi](https://github.com/Dhayanithi-545)
 - [Abhishek Negi](https://github.com/abhi-negii7)
@@ -41,10 +42,12 @@
 - [Ngoc Phuong Vi Nguyen](https://github.com/phuongvinguyen)
 - [Sowndhariya](https://github.com/sowndhariyasugan)
 - [Anay](https://github.com/Anay-Patil)
+- [Argha Saha](https://github.com/arg387)
 - [Jason](https://github.com/JayKayDevOps)
 - [Anay](https://github.com/SiddharthaWork)
 - [Eduardo Egydio Shirai](https://github.com/ShiraiEd)
 - [AMG-AA](https://github.com/AMG-AA)
+- [balakumaran-ks](https://github.com/balakumaran-ks)
 - [levo](https://github.com/LeVo011)
 - [HVentura 👋](https://github.com/hventura)
 - [Cedrick](https://github.com/Cedrick-Deguzman)
@@ -65,6 +68,7 @@
 - [wonathan](https://github.com/threestuff)
 - [Emmanuel Leu Tecson](https://github.com/TEKKSUNN)
 - [git-gud-jim](https://github.com/git-gud-jim)
+- Abhinav KR
 - Mustafa Mubarak Shaik (GitHub-mubarakshaik6)
 - [hannah0wang 🍍](https://github.com/hannah0wang)
 - [kamil](https://github.com/Kamil115853)
@@ -1148,6 +1152,7 @@
 - [karthikeyanm](https://github.com/karthikeyan187463)
 - [Darshan Gowda](https://github.com/DarshanGowdaATU/FOSS_Darshan)
 - [Mouadhbendjedidi](https://github.com/Mouadhbendjedidi)
+-[Abhay Patil] (https://github.com/user-abhay08)
 - Ravitej Herwatta 💀 (https://github.com/ravitej199)
 - [Abhay Patil](https://github.com/user-abhay08)
 - [cyc](https://github.com/Cai-yc)
@@ -1155,4 +1160,5 @@
 - [Dennis Guaman](https://github.com/guzmi25) 
 - [Manish](https://github.com/Manish187738)
 - [Aniket] (https://github.com/aniketr3)
+- [Raviteja Guntaka] (https://github.com/raviteja-reddy-guntaka)
 - [Pearl] (https://github.com/e-s-l)
