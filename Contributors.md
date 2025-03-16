@@ -1,4 +1,5 @@
 # Contributors
+- [JorgeGallegos] (https://github.com/JorgeGallegos8)
 - [ashykng](https://github.com/ashykng)
 - Javier Borja
 - [Vijaya](https://github.com/Vijayaa21)
