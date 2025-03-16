@@ -47,6 +47,7 @@
 - [Anay](https://github.com/SiddharthaWork)
 - [Eduardo Egydio Shirai](https://github.com/ShiraiEd)
 - [AMG-AA](https://github.com/AMG-AA)
+- [balakumaran-ks](https://github.com/balakumaran-ks)
 - [levo](https://github.com/LeVo011)
 - [HVentura 👋](https://github.com/hventura)
 - [Cedrick](https://github.com/Cedrick-Deguzman)
