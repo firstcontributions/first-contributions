@@ -719,6 +719,7 @@
 - [Hu TianHang](https://github.com/HTH24)
 - [Patrick Yeung](https://github.com/eampat)
 - [Leonardo Lopes](https://github.com/leonardo-lopes-br)
+- [Leon Deppe](https://github.com/leondeppe)
 - [Steve Armstrong](https://github.com/W0474997SteveArmstrong)
 - [Andres Riaño](https://github.com/afrianodev)
 - [Irksomehails](https://github.com/irksomehails)
