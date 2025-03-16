@@ -15,6 +15,7 @@
 - [Shailesh Sharma](https://github.com/Chinipanda)
 - [Sam Shattock](https://github.com/Shatt85)
 - [Harish](https://github.com/harish-167)
+- [Anand](https://github.com/CRAnand-pro)
 - [Pratik](https://github.com/pratik2374)
 - [Fwank](https://github.com/yo-frank)
 - [Mulenga Chituta](https://github.com/MulengaHankandaChituta)
