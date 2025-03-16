@@ -548,6 +548,7 @@
 - [Rohan Raj P](https://github.com/rohandeadshot)
 - [damsoon](https://github.com/damhyeong)
 - [Mounish Nanu](https://github.com/mounish123)
+- James Harpe
 - [Juan Sarmiento](https://github.com/JuanEnriqueSF)
 - [Fady Zaky](https://github.com/0ddAuto00)
 - [Arnav](https://github.com/arnav-mi)
