@@ -115,6 +115,7 @@
 - [Mostapha EL ANSARI](https://github.com/mostaphaelansari)
 - [Sarthak Bhardwaj](https://github.com/sarthakbhardwaj27)
 - [Manoj Thilakarathna](https://github.com/manojtharindu11)
+- [Robert Szlufik](https://github.com/Robert-Szlufik-L00188394)
 - [Jefferson Huisa](https://github.com/j3ffh95)
 - [mrxc0de](https://github.com/mrxc0de)
 - [Nihal Barua](https://github.com/nihal-bar)
