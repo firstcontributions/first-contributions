@@ -17,6 +17,7 @@
 - [Harish](https://github.com/harish-167)
 - [Pratik](https://github.com/pratik2374)
 - [Fwank](https://github.com/yo-frank)
+- [Jisnoo Dev Pal](https://github.com/jisnoo123)
 - [Mulenga Chituta](https://github.com/MulengaHankandaChituta)
 - [Amleshwar Pandey](https://github.com/amleshwar-p)
 - [Navid](https://github.com/navidcodes)
