@@ -2,6 +2,7 @@
 - [JorgeGallegos] (https://github.com/JorgeGallegos8)
 - [ashykng](https://github.com/ashykng)
 - Javier Borja
+- Jeffrey Cole
 - [Vijaya](https://github.com/Vijayaa21)
 - [Dhayanithi](https://github.com/Dhayanithi-545)
 - [Abhishek Negi](https://github.com/abhi-negii7)
