@@ -1156,5 +1156,5 @@
 - ransomn(https://github.com/ransomn)
 - [Dennis Guaman](https://github.com/guzmi25) 
 - [Manish](https://github.com/Manish187738)
+- [René Elbracht](https://github.com/reelxi)
 - [Aniket] (https://github.com/aniketr3)
-
