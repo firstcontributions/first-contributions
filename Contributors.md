@@ -194,6 +194,7 @@
 - [Ryan Tham](https://github.com/ryanjrt)
 - [Ryan Gapp](https://github.com/ryan-gapp)
 - [Navreet Kaur](https://github.com/NavreetKB)
+- [Devdhar Manpuria](https://github.com/DevdharManpuria)
 - [Ammar Adnew](https://github.com/AmmarAdnew)
 - [Algorytmouse](https://github.com/algorytmouse)
 - [Nidhin Sankar](https://github.com/nidhinsankar)
