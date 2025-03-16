@@ -5,6 +5,7 @@
 - Javier Borja
 - Jeffrey Cole
 - [Vijaya](https://github.com/Vijayaa21)
+- [Tinotenda Mhedziso](https://github.com/Passion-Over-Pain)
 - [Dhayanithi](https://github.com/Dhayanithi-545)
 - [Abhishek Negi](https://github.com/abhi-negii7)
 - [Timothy Phan](https://github.com/TimothyPhan2)
