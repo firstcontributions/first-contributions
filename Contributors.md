@@ -40,6 +40,7 @@
 - [Janani](https://github.com/cjanani)
 - [Nahom](https://github.com/NahomWondimu)
 - [Sakshi Jaiswal](https://github.com/Sakshijazz)
+- [Kaushik Ghorai](https://github.com/kaushikghorai)
 - [Pranshu Rakhecha](https://github.com/pranshurakhecha)
 - [Ngoc Phuong Vi Nguyen](https://github.com/phuongvinguyen)
 - [Sowndhariya](https://github.com/sowndhariyasugan)
