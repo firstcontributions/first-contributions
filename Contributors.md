@@ -29,6 +29,7 @@
 - [Nayabasetsi J. Kisowile](https://github.com/nas3ts)
 - [Samarth Bedare](https://github.com/samarthbedare)
 - [Abhinav Singh](https://github.com/Abhinav-kodes)
+- [Janardhan Polle](https://github.com/Jpisnice)
 - [John Wilkinson](https://github.com/dnCRevelation)
 - [Yeshu](https://www.youtube.com/watch?v=hB7CDrVnNCs)
 - [Priyanshu Agarwal](https://github.com/23f2003488)
