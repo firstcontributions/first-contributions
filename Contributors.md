@@ -999,6 +999,7 @@
 - [Vara Rahul Rajana](https://github.com/rajanarahul93)
 - [Srishti Agarwal](https://github.com/srishtiagarwall)
 - [Rahul Rajput](https://github.com/r2hu1)
+- [Levi] (https://github.com/LeviDantas01)
 - [Rajan Sharma](https://github.com/Immortal-codes)
 - [Nirupam Pal](https://github.com/nirupampal)
 - [Samant Rathod](https://github.com/samfip1)
@@ -1203,4 +1204,3 @@
 - [Raju Das] (https://github.com/Rajudas94)
 - [Aaron Sung] (https://github.com/aaronsung)
 - [CaioXyZ] (https://github.com/caioreis29974/)
-
