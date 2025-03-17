@@ -909,6 +909,7 @@
 - [Nilanjan](https://github.com/Neelanjan45)
 - [Karsy](https://github.com/karsyz)
 - [Emelie](https://github.com/eemmeelliiee)
+- [Fabrizio Nucci](https://github.com/fabrinucci)
 - [chipsmelon](https://github.com/chipsmelon)
 - [MatK](https://github.com/mat-kop)
 - [Sandesh KV](https://github.com/SandeshAmin)
