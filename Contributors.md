@@ -8,6 +8,7 @@
 - [KigulaJesse](https://github.com/KigulaJesse)
 - [Nayabasetsi J. Kisowile](https://github.com/nas3ts)
 - [Samarth Bedare](https://github.com/samarthbedare)
+- [Kerem Bes](https://github.com/kebe001)
 - [Abhinav Singh](https://github.com/Abhinav-kodes)
 - [John Wilkinson](https://github.com/dnCRevelation)
 - [Yeshu](https://www.youtube.com/watch?v=hB7CDrVnNCs)
