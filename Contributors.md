@@ -800,6 +800,7 @@
 - [Natnael Hailu](https://github.com/natnaelhailu)
 - [Adam Robson](https://github.com/Adam-Robson) 🧶
 - [Thomas Ulrich](https://github.com/TomUlrich)
+- [Lyes Mersel](https://github.com/lyes-mersel)
 - [Takuya Yanase](https://github.com/takuyaOOR)
 - [Line Kouider](https://github.com/linekdr)
 - [jbnation](https://github.com/jbnation)
