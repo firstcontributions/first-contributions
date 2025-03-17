@@ -1,4 +1,5 @@
 # Contributors
+- [pyraminx] (https://github.com/pyraminx123)
 - [JorgeGallegos] (https://github.com/JorgeGallegos8)
 - [Ivo-velev] (https://github.com/Ivo-velev)
 - [INPATHTAMILAN](https://github.com/tamilan3)
