@@ -1175,6 +1175,7 @@
 - [Abhay Patil](https://github.com/user-abhay08)
 - [cyc](https://github.com/Cai-yc)
 - ransomn(https://github.com/ransomn)
+- [Krit]
 - [Dennis Guaman](https://github.com/guzmi25) 
 - [Manish](https://github.com/Manish187738)
 - [Aniket] (https://github.com/aniketr3)
