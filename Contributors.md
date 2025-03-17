@@ -1,6 +1,7 @@
 # Contributors
 - [pyraminx] (https://github.com/pyraminx123)
 - [JorgeGallegos] (https://github.com/JorgeGallegos8)
+- [StevenHall] (https://github.com/PedanticSteve)
 - [Ivo-velev] (https://github.com/Ivo-velev)
 - [INPATHTAMILAN](https://github.com/tamilan3)
 - [ashykng](https://github.com/ashykng)
