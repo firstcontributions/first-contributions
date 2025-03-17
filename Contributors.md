@@ -6,6 +6,7 @@
 - Jeffrey Cole
 - [Khaled Javdan](https://github.com/kjavedan/)
 - [Vijaya](https://github.com/Vijayaa21)
+- [Aryan Srivastava] (https://github.com/AryanSrivastava15)
 - [Tinotenda Mhedziso](https://github.com/Passion-Over-Pain)
 - [Dhayanithi](https://github.com/Dhayanithi-545)
 - [Vishnu Vardhan N](https://github.com/VishnuVardhanNk)
