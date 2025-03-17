@@ -168,6 +168,7 @@
 - [Sivasankaran Chandrasekaran](https://github.com/sivasankarnc65)
 - [Akash Dahal](https://github.com/DARKAD10)
 - [Harry C](https://github.com/campbellharry)
+- [yugo](https://github.com/yugook)
 - [AC](https://github.com/FortKnoxWasTaken)
 - [Yisel Cintora Vega](https://github.com/yisel260)
 - [Mohit-Goswami](https://github.com/Mohitgoswami18)
