@@ -47,6 +47,7 @@
 - [Steve Yadav](https://github.com/lucifer47C)
 - [Ctrshift-Pm](https://github.com/Ctrshift-Pm)
 - [Janani](https://github.com/cjanani)
+- [Nayan](https://github.com/NayanUnni95)
 - [Nahom](https://github.com/NahomWondimu)
 - [Sakshi Jaiswal](https://github.com/Sakshijazz)
 - [Kaushik Ghorai](https://github.com/kaushikghorai)
