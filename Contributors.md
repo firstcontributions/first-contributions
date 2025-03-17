@@ -1157,6 +1157,7 @@
 - [tappe9](https://github.com/tappe9)
 - [anthonyb8](https://github.com/anthonyb8)
 - 侯文卓[https://github.com/wenzhuo4657]
+- [xiaoyuchenhot] (https://github.com/xiaoyuchenhot)
 - [Ersin Dalga](https://github.com/ersindalga)
 - [Yamadori](https://github.com/yamadoriAnka)
 - [Tan ChiaYan](https://github.com/tchiayan)
