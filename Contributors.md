@@ -148,6 +148,7 @@
 - [Davide Rubinetti](https://github.com/davideruby)
 - [Daiwiik Harihar](https://github.com/daiv09)
 - [Mohammad Sarfaraz Afzal](https://github.com/mohammadsarfarazafzal)
+- [Firdaus Zulkifli](https://github.com/firdaus-zulkifli)
 - [Z-to-the-hp69](https://github.com/Z-to-the-hp69/)
 - [FabioCamerota](https://github.com/FabioCamerota)
 - [Anaïs Gatard](https://github.com/AnaisG14)
