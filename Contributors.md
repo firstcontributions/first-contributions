@@ -499,6 +499,7 @@
 - [Arjit shandilya](https://github.com/arjitshandilya)
 - [Hari chandra prasad](https://github.com/harichandra1)
 - [ITSMijaiL](https://github.com/ITSMijaiL)
+- [Shab00](https://github.com/Shab00)
 - [Karnam Veerendra Prasad](https://github.com/Veerendra-Prasad)
 - [aoe3](https://github.com/aoe3)
 - [hide361](https://github.com/hide361)
@@ -1214,4 +1215,5 @@
 - [CaioXyZ] (https://github.com/caioreis29974/)
 - [ManuCodeX] (https://github.com/ManuCodeX)
 - [Ayu] (https://github.com/LiangYuF)
+- [Chinmoy Das](https://github.com/chinmoy1809/)
 
