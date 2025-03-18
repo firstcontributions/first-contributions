@@ -8,6 +8,7 @@
 - Javier Borja
 - Jeffrey Cole
 - [Khaled Javdan](https://github.com/kjavedan/)
+- [Fazlul Karim Choudhury](https://github.com/FazlulKarimC)
 - [Vijaya](https://github.com/Vijayaa21)
 - [Gustavo William](https://github.com/alt-gusta)
 - [Aryan Srivastava] (https://github.com/AryanSrivastava15)
