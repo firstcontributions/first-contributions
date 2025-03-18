@@ -22,6 +22,7 @@
 - [Timothy Phan](https://github.com/TimothyPhan2)
 - [Ahmed Reyyan](https://github.com/AhmedReyyan)
 - [Ahmed Elskh](https://github.com/ahmedelshkh)
+- [Maria Vilela]
 - [Shailesh Sharma](https://github.com/Chinipanda)
 - [Sam Shattock](https://github.com/Shatt85)
 - [Harish](https://github.com/harish-167)
