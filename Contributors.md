@@ -147,6 +147,7 @@
 - [Zilvinas K]
 - [Fco Birr](https://github.com/FcoBirr)
 - [Rajesh Khanna] (https://github.com/Rajeshkris2)
+- [joserata] (https://github.com/joserata/first-contributions.git)
 - [Sanidhya Soni](https://github.com/sonisanidhya)
 - [Adrian Bajczyk](https://github.com/AdrianBajczyk)
 - [Bosco Tsin](https://github.com/boscomanilow128)
