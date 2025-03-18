@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Submit Pull Request</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+            line-height: 1.5;
+            color: #24292e;
+            background-color: #f6f8fa;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            background-color: white;
+            border: 1px solid #e1e4e8;
+            border-radius: 6px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.12);
+        }
+        .header {
+            padding: 16px;
+            border-bottom: 1px solid #e1e4e8;
+        }
+        .header h2 {
+            margin: 0;
+            font-size: 20px;
+            font-weight: 600;
+        }
+        .content {
+            padding: 16px;
+        }
+        .form-group {
+            margin-bottom: 16px;
+        }
+        .form-group label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: 600;
+        }
+        .form-control {
+            width: 100%;
+            padding: 8px;
+            border: 1px solid #e1e4e8;
+            border-radius: 6px;
+            font-size: 14px;
+        }
+        .form-description {
+            width: 100%;
+            padding: 8px;
+            border: 1px solid #e1e4e8;
+            border-radius: 6px;
+            font-size: 14px;
+            min-height: 100px;
+            resize: vertical;
+        }
+        .footer {
+            padding: 16px;
+            border-top: 1px solid #e1e4e8;
+            display: flex;
+            justify-content: flex-end;
+        }
+        .create-pr-button {
+            background-color: #2ea44f;
+            color: white;
+            border: 1px solid rgba(27, 31, 35, 0.15);
+            border-radius: 6px;
+            padding: 8px 16px;
+            font-size: 14px;
+            font-weight: 500;
+            cursor: pointer;
+        }
+        .branch-info {
+            display: flex;
+            align-items: center;
+            margin-bottom: 16px;
+            font-size: 14px;
+        }
+        .branch-name {
+            font-weight: 600;
+            color: #0366d6;
+            margin: 0 5px;
+            padding: 2px 6px;
+            background-color: #f1f8ff;
+            border-radius: 3px;
+        }
+        .arrow {
+            margin: 0 8px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h2>Create a new pull request</h2>
+        </div>
+        <div class="content">
+            <div class="branch-info">
+                <span class="branch-name">improve-readme-images</span>
+                <span class="arrow">→</span>
+                <span class="branch-name">main</span>
+            </div>
+            <div class="form-group">
+                <label for="title">Title</label>
+                <input type="text" id="title" class="form-control" value="Update README images for modern GitHub interface">
+            </div>
+            <div class="form-group">
+                <label for="description">Description</label>
+                <textarea id="description" class="form-description">
+- Updated the compare-and-pull.png image to match the current GitHub interface
+- Updated the submit-pull-request.png image to match the current GitHub interface
+- Improved image quality and clarity for better readability
+                </textarea>
+            </div>
+        </div>
+        <div class="footer">
+            <button class="create-pr-button">Create pull request</button>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Compare and Pull Request</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+            line-height: 1.5;
+            color: #24292e;
+            background-color: #f6f8fa;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            background-color: white;
+            border: 1px solid #e1e4e8;
+            border-radius: 6px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.12);
+        }
+        .header {
+            padding: 16px;
+            border-bottom: 1px solid #e1e4e8;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .branch-info {
+            display: flex;
+            align-items: center;
+            font-size: 14px;
+            color: #586069;
+        }
+        .branch-name {
+            font-weight: 600;
+            color: #0366d6;
+            margin: 0 5px;
+        }
+        .compare-button {
+            background-color: #2ea44f;
+            color: white;
+            border: 1px solid rgba(27, 31, 35, 0.15);
+            border-radius: 6px;
+            padding: 5px 16px;
+            font-size: 14px;
+            font-weight: 500;
+            cursor: pointer;
+        }
+        .content {
+            padding: 16px;
+        }
+        .notification {
+            padding: 16px;
+            background-color: #f1f8ff;
+            border: 1px solid #c8e1ff;
+            border-radius: 6px;
+            margin-bottom: 16px;
+        }
+        .notification h3 {
+            margin-top: 0;
+            color: #05264c;
+        }
+        .pull-request-button {
+            background-color: #2ea44f;
+            color: white;
+            border: 1px solid rgba(27, 31, 35, 0.15);
+            border-radius: 6px;
+            padding: 8px 16px;
+            font-size: 14px;
+            font-weight: 500;
+            cursor: pointer;
+            display: inline-block;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="branch-info">
+                <span>Your branch</span>
+                <span class="branch-name">improve-readme-images</span>
+                <span>is ahead of</span>
+                <span class="branch-name">main</span>
+                <span>by 1 commit</span>
+            </div>
+        </div>
+        <div class="content">
+            <div class="notification">
+                <h3>Your recently pushed branch has 1 commit</h3>
+                <p>Would you like to create a pull request for your changes?</p>
+                <a class="pull-request-button">Compare & pull request</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

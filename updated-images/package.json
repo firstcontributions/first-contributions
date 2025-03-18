@@ -1,0 +1,12 @@
+{
+  "name": "updated-images",
+  "version": "1.0.0",
+  "description": "Generate updated images for README",
+  "main": "generate-images.js",
+  "scripts": {
+    "generate": "node generate-images.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.0.0"
+  }
+}
