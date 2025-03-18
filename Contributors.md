@@ -198,6 +198,7 @@
 - [Alivia Nayla Wibisono](https://github.com/alivianay)
 - [Weirdo-147](https://github.com/Weirdo-147)
 - [Akhila Sahithi](https://github.com/Akhila-Sahithi)
+- [Naveen](https://github.com/i0xnaveen)
   [SrivastavaAman8604](https://github.com/SrivastavaAman8604)
 - [Zach Warmoth](https://github.com/ZWarmoth)
 - [Snushev](https://github.com/snushev)
