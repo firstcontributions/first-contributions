@@ -1144,6 +1144,7 @@
 - [Sainul Abid](https://github.com/abidta)
 - [Mayi RAj](https://github.com/mayilraj)
 - [sonakeee](https://github.com/sonakeee)
+- [gabriel alcantara](https://github.com/gabriel-alcantara)
 - [Dawid Pisarczyk](https://github.com/Dawe000)
 - [Noor E Mobeen](https://github.com/NoorEMobeen)
 - [ekaterinburg001](https://github.com/ekaterinburg001)
