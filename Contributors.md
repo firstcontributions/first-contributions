@@ -1,5 +1,6 @@
 # Contributors
-- [NovenkoOlha] (https://github.com/NovenkoOlya)
+
+- [preethi0297] (https://github.com/Preethi0297)
 - [pyraminx] (https://github.com/pyraminx123)
 - [JorgeGallegos] (https://github.com/JorgeGallegos8)
 - [StevenHall] (https://github.com/PedanticSteve)
