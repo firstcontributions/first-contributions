@@ -1213,4 +1213,5 @@
 - [Aaron Sung] (https://github.com/aaronsung)
 - [CaioXyZ] (https://github.com/caioreis29974/)
 - [ManuCodeX] (https://github.com/ManuCodeX)
+- [Ayu] (https://github.com/LiangYuF)
 
