@@ -88,6 +88,7 @@
 - [git-gud-jim](https://github.com/git-gud-jim)
 - Abhinav KR
 - Mustafa Mubarak Shaik (GitHub-mubarakshaik6)
+- [Mohammad Ali Akmal](https://github.com/maliakmal)
 - [hannah0wang 🍍](https://github.com/hannah0wang)
 - [kamil](https://github.com/Kamil115853)
 - [AdiSaikat](https://github.com/adisaikat)
