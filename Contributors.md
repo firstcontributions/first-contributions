@@ -1,5 +1,6 @@
 # Contributors
 
+- [whynot1963] (https://github.com/whynot1963) 
 - [preethi0297] (https://github.com/Preethi0297)
 - [pyraminx] (https://github.com/pyraminx123)
 - [JorgeGallegos] (https://github.com/JorgeGallegos8)
