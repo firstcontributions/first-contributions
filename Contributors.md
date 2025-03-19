@@ -5,6 +5,7 @@
 - [ISOTOPE | THEMBA](https://github.com/Goitseone-Themba)
 - [preethi0297] (https://github.com/Preethi0297)
 - [pyraminx] (https://github.com/pyraminx123)
+- [Silvia-Zh] (https://github.com/Silvia-Zh)
 - [Kenny92dev](https://github.com/Kenny92dev)
 - [JorgeGallegos] (https://github.com/JorgeGallegos8)
 - [StevenHall] (https://github.com/PedanticSteve)
