@@ -127,6 +127,7 @@
 - [Borzoi Lover](https://github.com/mmitros1)
 - [Sharan] (https://github.com/sharananure)
 - [Zohaer Al Mahatab](https://github.com/priom-mahatab)
+- [eobrien673](https://github.com/eobrien673)
 - [Eyal Kutz](https://github.com/eyalkutz)
 - [nokesh](https://github.com/Nokesh11)
 - [Vicky Besra](https://github.com/vickybesra)
