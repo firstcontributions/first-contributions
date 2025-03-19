@@ -1257,4 +1257,4 @@
  -[kazurem](https://github.com/kazurem)
  -[Youssef Allali](https://github.com/youssefallalix)
 - [Asad Bakhsh] (https://github.com/Asadbakhsh2412)
-- [David Heeren] (https://github.com/davidheeren)
+- [David Heeren](https://github.com/davidheeren)
