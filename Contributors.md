@@ -1246,6 +1246,7 @@
 - [ManuCodeX] (https://github.com/ManuCodeX)
 - [Ayu] (https://github.com/LiangYuF)
 - [Chinmoy Das](https://github.com/chinmoy1809/)
+- [Trojan Morse] (https://github.com/trojanMorse)
 - [Iker Martínez.](https://github.com/moimenta84)
 - [Tarun Nallabelli](https://github.com/tnallabelli)
 - [Jeremiah](https://github.com/wuss26f)
