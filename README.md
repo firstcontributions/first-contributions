@@ -250,3 +250,11 @@ Now let's get you started with contributing to other projects. We've compiled a 
     <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_horizontal_blue.svg" width="201px">
   </a>
 </p>
+
+### Resolving Merge Conflicts
+If you encounter a merge conflict, follow these steps:
+1. Pull the latest changes from the main branch.
+2. Resolve the conflicts in your code editor.
+3. Add the resolved files using `git add`.
+4. Commit the changes with `git commit`.
+5. Push the changes to your branch.
