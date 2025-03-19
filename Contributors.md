@@ -4,6 +4,7 @@
 - [whynot1963] (https://github.com/whynot1963) 
 - [preethi0297] (https://github.com/Preethi0297)
 - [pyraminx] (https://github.com/pyraminx123)
+- [Kenny92dev](https://github.com/Kenny92dev)
 - [JorgeGallegos] (https://github.com/JorgeGallegos8)
 - [StevenHall] (https://github.com/PedanticSteve)
 - [Ivo-velev] (https://github.com/Ivo-velev)
