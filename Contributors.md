@@ -1133,6 +1133,7 @@
 - [Amit Joshi](https://github.com/amit204joshi)
 - [TaeYeong Jeong](https://github.com/dev-taeyeong)
 - [hdh](https://github.com/hdh0)
+- [nordicgoddess](https://github.com/NordicGoddess)
 -[Sreedhar](https://github.com/Sreedharreddymukkamalla)
 - [Abdelrahman Ahmed](https://github.com/AbdelrahmanSuliman)
 - [Mauricio Colque](https://github.com/maurom02)
@@ -1185,4 +1186,3 @@
 - [Raviteja Guntaka] (https://github.com/raviteja-reddy-guntaka)
 - [wedgestar] (https://github.com/wedgestar/)
 - [Raju Das] (https://github.com/Rajudas94)
-
