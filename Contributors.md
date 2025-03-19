@@ -45,6 +45,7 @@
 - [Navid](https://github.com/navidcodes)
 - [Asghar Kazmi](https://github.com/AsgharKazmi2005)
 - [KigulaJesse](https://github.com/KigulaJesse)
+- [Sitanshu Nandan](https://github.com/stansho)
 - [Nayabasetsi J. Kisowile](https://github.com/nas3ts)
 - [Samarth Bedare](https://github.com/samarthbedare)
 - [Abhinav Singh](https://github.com/Abhinav-kodes)
