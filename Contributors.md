@@ -1,7 +1,7 @@
 # Contributors
 
-- [xFooFoo](https://github.com/xFooFoo) 
-- [whynot1963] (https://github.com/whynot1963) 
+- [xFooFoo](https://github.com/xFooFoo)
+- [whynot1963] (https://github.com/whynot1963)
 - [preethi0297] (https://github.com/Preethi0297)
 - [pyraminx] (https://github.com/pyraminx123)
 - [Kenny92dev](https://github.com/Kenny92dev)
@@ -50,7 +50,7 @@
 - [Yeshu](https://www.youtube.com/watch?v=hB7CDrVnNCs)
 - [Priyanshu Agarwal](https://github.com/23f2003488)
 - [Nikhil Rajbhar](https://github.com/NikhilRajbhar111)
-- [Michael S]
+- [LiuSam](https://www.youtube.com/CommitKU)
 - leee
 - [Buzz] Grok
 - Maria Saram (https://github.com/sara01-m)
@@ -560,7 +560,7 @@
 - [Sheikh Mujtaba](https://github.com/Sheikh-Muhammad-Mujtaba)
 - [Hypothalamus](https://github.com/Hypothalamuss)
 - [Siddharth](https://github.com/siddharth-123)
-- [OWillp](https://github.com/0Willp) 
+- [OWillp](https://github.com/0Willp)
 - [jokalu-it](Grüße :D)
 - [Asif Iqbal](https://github.com/rvasif)
 - [YudisSutisna](https://github.com/Hanep77)
@@ -916,7 +916,7 @@
 - [K G Tint Swe](https://github.com/KG6605)
 - [Dithi-Fuzzythinker](https://github.com/fuzzythinker)
 - [Muhammad-Ghufran-Ali](https://github.com/ghufran2508)
-- [Kleyner Lopez](https://github.com/kleyner098) 
+- [Kleyner Lopez](https://github.com/kleyner098)
 - [Pramendra Shukla](https://github.com/PramendraShukla1/)
 - [Evelyn Xia](https://github.com/Evelyn406)
 - [Mikael Balin](https://github.com/mikaelbalin)
@@ -1057,7 +1057,7 @@
 - [Palash Chitnavis](https://github.com/PalashChitnavis)
 - [abedalavi](https://github.com/abedalavi)
 - [Delton Hughes](https://github.com/dHughes97)
-- [Yuvam] 
+- [Yuvam]
 - [Sixtus Agbo](https://github.com/sixtusagbo)
 - [Siddhesh Gawade](https://github.com/sid293)👋
 - [Huzaifa Azim](https://github.com/huzaifaazim0)
@@ -1193,10 +1193,10 @@
 - [Daniel Barraza](https://github.com/dabamascodes)
 - [francisco miguel perez](https://github.com/dabamascodes)
 - [William](https://github.com/WilliamIsMe1)
-- [Jeanette Conklin](https://github.com/conklinj09) 
+- [Jeanette Conklin](https://github.com/conklinj09)
 - [kmgan] (https://github.com/kmgan)
-- [PaniniRS](https://github.com/paninirs) 
-- [Alercio Silva](https://github.com/alercioborges) 
+- [PaniniRS](https://github.com/paninirs)
+- [Alercio Silva](https://github.com/alercioborges)
 - [R Nilesh](https://github.com/r-nilesh-c)
 - [madplay](https://github.com/madplay)
 - [MLwoodi](https://github.com/MLwoodi)
@@ -1223,7 +1223,7 @@
 - [cyc](https://github.com/Cai-yc)
 - ransomn(https://github.com/ransomn)
 - [Krit]
-- [Dennis Guaman](https://github.com/guzmi25) 
+- [Dennis Guaman](https://github.com/guzmi25)
 - [Manish](https://github.com/Manish187738)
 - [Aniket] (https://github.com/aniketr3)
 - [Chinmoy Ranjan] (https://github.com/thegreekgoat98)
