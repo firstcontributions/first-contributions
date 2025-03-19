@@ -2,6 +2,7 @@
 
 - [xFooFoo](https://github.com/xFooFoo) 
 - [whynot1963] (https://github.com/whynot1963) 
+- [ISOTOPE | THEMBA](https://github.com/Goitseone-Themba)
 - [preethi0297] (https://github.com/Preethi0297)
 - [pyraminx] (https://github.com/pyraminx123)
 - [Kenny92dev](https://github.com/Kenny92dev)
