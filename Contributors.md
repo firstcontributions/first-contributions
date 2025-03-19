@@ -1241,5 +1241,6 @@
 - [Tarun Nallabelli](https://github.com/tnallabelli)
 - [Jeremiah](https://github.com/wuss26f)
 - [Sabrina Ornelas] (https://github.com/MargotGirl21)
+ -[kazurem](https://github.com/kazurem)
 - [Asad Bakhsh] (https://github.com/Asadbakhsh2412)
 
