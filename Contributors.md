@@ -499,6 +499,7 @@
 - [KristinnTh](https://github.com/KristinnTh)
 - [veekshitha](https://github.com/Veekshitha21)
 - [Arun Kumar](https://github.com/Arun471)
+- [Igor Balić](https://github.com/Iggy2399)
 - [TejasK](https://github.com/TejasKoravanavar)
 - [Animesh Yadav](https://github.com/Aanimesh003)
 - [ahmad777x86](https://github.com/ahmad777x86)
