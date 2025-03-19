@@ -7,6 +7,7 @@
 - [INPATHTAMILAN](https://github.com/tamilan3)
 - [ashykng](https://github.com/ashykng)
 - Javier Borja
+  [Davide Franchi] (https://github.com/DAVIDE004)
 - Jeffrey Cole
 - [Bruno Nascimento](https://github.com/nascimentodeveloper)
 - [Khaled Javdan](https://github.com/kjavedan/)
