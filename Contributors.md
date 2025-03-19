@@ -1260,4 +1260,5 @@
  -[Youssef Allali](https://github.com/youssefallalix)
 - [Asad Bakhsh] (https://github.com/Asadbakhsh2412)
 - [Junaid Ali Khan](https://github.com/juna0704)
+- [Firas Ridene](https://github.com/RideneFiras)
 
