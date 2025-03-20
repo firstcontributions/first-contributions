@@ -1,5 +1,6 @@
 # Contributors
 
+- [Tejaswi Saraswathi](https://github.com/Tejaswi1305)
 - [xFooFoo](https://github.com/xFooFoo) 
 - [whynot1963] (https://github.com/whynot1963) 
 - [ISOTOPE | THEMBA](https://github.com/Goitseone-Themba)
@@ -7,6 +8,7 @@
 - [pyraminx] (https://github.com/pyraminx123)
 - [Silvia-Zh] (https://github.com/Silvia-Zh)
 - [Kenny92dev](https://github.com/Kenny92dev)
+- [Harlan Enciso](https://github.com/harlanenciso112)
 - [JorgeGallegos] (https://github.com/JorgeGallegos8)
 - [StevenHall] (https://github.com/PedanticSteve)
 - [Ivo-velev] (https://github.com/Ivo-velev)
@@ -16,10 +18,12 @@
   [Davide Franchi] (https://github.com/DAVIDE004)
 - Jeffrey Cole
 - [Bruno Nascimento](https://github.com/nascimentodeveloper)
+- [Stefanos Gersch-Koutsogiannis](https://github.com/stefanosGerschKoutsogiannis)
 - [Parimi Pujitha](https://github.com/parimipujitha269)
 - [Khaled Javdan](https://github.com/kjavedan/)
 - [Fazlul Karim Choudhury](https://github.com/FazlulKarimC)
 - [Eris Kasa](https://github.com/eriskasa)
+- [Timur Malkoc](https://github.com/TimurMalkc)
 - [Vijaya](https://github.com/Vijayaa21)
 - [Gustavo William](https://github.com/alt-gusta)
 - [Aryan Srivastava] (https://github.com/AryanSrivastava15)
@@ -1256,4 +1260,7 @@
  -[kazurem](https://github.com/kazurem)
  -[Youssef Allali](https://github.com/youssefallalix)
 - [Asad Bakhsh] (https://github.com/Asadbakhsh2412)
- -[B Suraj Patra](https://github.com/bsurajpatra)
+-[B Suraj Patra](https://github.com/bsurajpatra)
+- [Junaid Ali Khan](https://github.com/juna0704)
+- [Firas Ridene](https://github.com/RideneFiras)
+- [meowmeow](https://github.com/true-meowmeow) 🤯
