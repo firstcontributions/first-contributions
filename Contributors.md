@@ -9,6 +9,7 @@
 - [whynot1963] (https://github.com/whynot1963) 
 - [ISOTOPE | THEMBA](https://github.com/Goitseone-Themba)
 - [preethi0297] (https://github.com/Preethi0297)
+- [ASA666] (https://github.com/ASA-666) 
 - [pyraminx] (https://github.com/pyraminx123)
 - [Silvia-Zh] (https://github.com/Silvia-Zh)
 - [Kenny92dev](https://github.com/Kenny92dev)
