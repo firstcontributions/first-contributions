@@ -151,6 +151,7 @@
 - [Abhay](https://github.com/abhayiscoding)
 - [Jenny Martin](https://github.com/jmartinDS14)
 - [CynthiaWahome](https://github.com/CynthiaWahome)
+- [JWD](https://github.com/JWD-101)
 - [Torres Martinez]
 - [Keshav Raj Chaudhary](https://github.com/chaudharykeshavraj)
 - [CaraMcG](https://github.com/caraMcG)
