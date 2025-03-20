@@ -305,6 +305,7 @@
 - [Fuad Hasan](https://github.com/itsfuad)
 - [meenakshiruia](https://github.com/meenakshiruia)
 - [Joshua Luca](https://github.com/joshluca98)
+- [Yhlas Yazmyrad](https://github.com/yazmyrad)
 - [RomaniukNatalia](https://github.com/RomaniukNatalia)
 - [Kelvin Yeboah](https://github.com/KelvCodes)
 - [Sardorbek](https://github.com/Sardorbek-Kuvondikov)
