@@ -58,6 +58,7 @@
 - [Jisnoo Dev Pal](https://github.com/jisnoo123)
 - [Mulenga Chituta](https://github.com/MulengaHankandaChituta)
 - [Amleshwar Pandey](https://github.com/amleshwar-p)
+- [Jared Noel] (https://github.com/AshenDary)
 - [Navid](https://github.com/navidcodes)
 - [Asghar Kazmi](https://github.com/AsgharKazmi2005)
 - [KigulaJesse](https://github.com/KigulaJesse)
