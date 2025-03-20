@@ -20,6 +20,7 @@
 - Javier Borja
   [Davide Franchi] (https://github.com/DAVIDE004)
 - Jeffrey Cole
+- [David Ruiz] (https://github.com/DavidRZ-ai)
 - [Bruno Nascimento](https://github.com/nascimentodeveloper)
 - [Stefanos Gersch-Koutsogiannis](https://github.com/stefanosGerschKoutsogiannis)
 - [Parimi Pujitha](https://github.com/parimipujitha269)
