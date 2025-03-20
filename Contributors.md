@@ -784,6 +784,7 @@
 - [Jaytee Majoni](https://github.com/jayteemajoni)
 - [eszanon](https://github.com/eszanon)
 - [TejoSaiSwaroop](https://github.com/tejosaiswaroop)
+- [Haj Mohamed👨‍💻](https://github.com/haj8110)
 - [Kores Nkoidila](https://github.com/Nkoidila)
 - [Ian McManus](https://github.com/ianmcman)
 - [Sharon-Kevin] (https://github.com/sharon17kevin)
