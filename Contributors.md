@@ -1,4 +1,5 @@
 # Contributors
+-[Rohit Kumar](https://github.com/kumarrohitdev)
 [Tejaswi Saraswathi](https://github.com/Tejaswi1305)
 
 -[Vyshnavi Jammi]-(https://github.com/vyshnaviJammi)
