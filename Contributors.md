@@ -20,6 +20,7 @@
 - Javier Borja
   [Davide Franchi] (https://github.com/DAVIDE004)
 - Jeffrey Cole
+- [David Ruiz] (https://github.com/DavidRZ-ai)
 - [Bruno Nascimento](https://github.com/nascimentodeveloper)
 - [Stefanos Gersch-Koutsogiannis](https://github.com/stefanosGerschKoutsogiannis)
 - [Parimi Pujitha](https://github.com/parimipujitha269)
@@ -172,6 +173,7 @@
 - [Nejma Latheef](https://github.com/Nejma-Latheef)
 - [as6200](https://github.com/as6200)
 - [Zilvinas K]
+- [Aryan Joshi] (https://github.com/AryanJoshi2108)
 - [Fco Birr](https://github.com/FcoBirr)
 - [Rajesh Khanna] (https://github.com/Rajeshkris2)
 - [joserata] (https://github.com/joserata/first-contributions.git)
@@ -622,6 +624,7 @@
 - [Abdelwakil](https://github.com/fondbcn)
 - [Andyple](https://github.com/andyple)
 - [psp0](https://github.com/psp0)
+- Egor Kravchenko
 - [isaacbelles](https://github.com/isaacbelles)
 - [Shoaib Shuja](https://github.com/ShoaibShuja)
 - [brunoblaise](https://github.com/brunoblaise)
@@ -1090,6 +1093,7 @@
 - [toya33](https://github.com/toya33)
 - [Cez](https://github.com/Cezzzzzz)
 - [Oluwasemilore Omotade-Michaels](https://github.com/shemigam1)
+- [Leonardo Schell](https://github.com/DevSchell)
 - [ycvy](https://github.com/ycvy)
 - [Fahim Muntasir](https://github.com/fahim-muntasir)
 - [Madike Olisa](https://github.com/ChubbyJoe)
