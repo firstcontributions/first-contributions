@@ -23,6 +23,7 @@
 - [Abhishek Negi](https://github.com/abhi-negii7)
 - [Jonah Deschenes](https://github.com/JMDeschenes13)
 - [Shubha Bhat](https://github.com/syshubha)
+- Sam
 - [Timothy Phan](https://github.com/TimothyPhan2)
 - [Ahmed Reyyan](https://github.com/AhmedReyyan)
 - [Ahmed Elskh](https://github.com/ahmedelshkh)
