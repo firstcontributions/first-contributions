@@ -1279,4 +1279,4 @@
 - [Firas Ridene](https://github.com/RideneFiras)
 - [meowmeow](https://github.com/true-meowmeow) 🤯
 - [Lohith Reddy](https://github.com/Lohith-11)
-
+- [Talanti Arun](https://github.com/talantiarun)
