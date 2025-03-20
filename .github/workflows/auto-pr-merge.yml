@@ -4,7 +4,7 @@ on:
     types: [opened, synchronize]
     paths:
       - 'Contributors.md' # <- only run if only contributors file changed
-
+    
 jobs:
   auto-merge:
     runs-on: ubuntu-latest
@@ -12,7 +12,7 @@ jobs:
       contents: write
       pull-requests: write
       issues: write
-
+      
     steps:
       # Check out the repository code
       - name: Checkout code
@@ -31,7 +31,7 @@ jobs:
           FILES_CHANGED=$(echo $PR_FILES | tr '\n' ' ')
 
           echo "files_changed=$FILES_CHANGED" >> $GITHUB_ENV
-
+          
           if [[ "${FILES_CHANGED// /}" == "Contributors.md" ]]; then
 
             echo "only_contributors=true" >> $GITHUB_ENV
@@ -55,7 +55,7 @@ jobs:
             echo "one_line_change=false" >> $GITHUB_ENV
           fi
 
-      # Merge the pull request if it only modifies the Contributors.md file or if it fail to do then drop failure message as post
+      # Merge the pull request if it only modifies the Contributors.md file or if it fail to do then drop failure message as post 
       - name: Merge PR
         id: merge_pr
         if: env.only_contributors == 'true' && env.one_line_change == 'true'
@@ -101,7 +101,7 @@ jobs:
                 const dev_share_link = "https://dev.to/new?prefill=---%0Atitle%3A%20First%20Contributions%3A%20learn%20how%20to%20contribute%20to%20open%20source%20projects%0Apublished%3A%20true%0Atags%3A%20opensource%2C%20beginners%2C%20tutorial%0A---%0A%0AI%20followed%20the%20hands-on%20tutorial%20in%20the%20Readme%20of%20first%20contributions%20and%20made%20my%20first%20pull%20request%20to%20the%20same%20repo.%0A%0A%0A%7B%25%20embed%20https%3A%2F%2Fgithub.com%2Ffirstcontributions%2Ffirst-contributions%20%25%7D";
                 const hackernews_share_link = 'https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fgithub.com%2Ffirstcontributions%2Ffirst-contributions&t=Show%20HN%3A%20Hands%20on%20tutorial%20for%20open%20source%20contribution'
                 const bluesky_share_link = 'https://bsky.app/intent/compose?text=Yay%21%20I%20just%20made%20my%20first%20open%20source%20contribution%20with%20%40FirstContributions.%20You%20can%20too%20by%20following%20a%20simple%20tutorial%20at%20https%3A%2F%2Fgoo.gl%2F66Axwe%20%23OpenSource%20%23FirstContribution%20%23Coding%20%23DevCommunity%20%23GitHub%20%23LearnToCode';
-
+                
                 // social logo
                 const repo_logo = "https://avatars0.githubusercontent.com/u/65761570?s=88&u=640f39b808c75c6b86460aa907dd030bcca2f3c7&v=4"
                 const fb_logo = "https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg"
@@ -115,10 +115,10 @@ jobs:
                 const getMergeMessage = (username) => {
                   const greeting = `Hello @${username}, congratulations! You've successfully submitted a pull request. 🎉`;
                   const starRepoMessage = `If you liked the tutorial, please star this repo by clicking the star button on the top right of this page. <img alt="star screenshot" title="star button" src="https://firstcontributions.github.io/assets/star.png">`;
-
+                  
                   const nextSteps = `# Next steps \n - Continue contributing: If you're looking for projects to contribute to, checkout our [<img src="${repo_logo}" width="22" title="web app" /> webapp](${web_url}). \n - If you want more practice checkout [code contributions](${codeContributionsLink}). \n - Share on social media: You can share this content to help more people.\n   - [<img alt="bluesky" title="bluesky" src="${bluesky_logo}" width="22"> Post on Bluesky](${bluesky_share_link}).\n   - [<img alt="facebook" title="facebook" src="${fb_logo}" width="22"> share](${fb_share_link}).\n   - [ <img alt="reddit" title="reddit" src="${reddit_logo}" width="22"> share](${reddit_link}).\n   - [<img alt="linkedin" title="linkedin" src="${linkedin_logo}" width="22"> post](${linkedin_share_link}).\n   - [<img alt="devio" title="devio" src="${dev_logo}" width="22"> publish](${dev_share_link}).\n   - [<img src="${hackernews_logo}" width="22" title="HackerNews" /> Post on HackerNews](${hackernews_share_link}).`;
                   const feedbackMessage = `We'd love to hear your thoughts about this project. Let us know how we can improve by commenting or opening an issue here.`;
-
+                  
                   const gif = `![celebration gif](${getRandomGif()})`;
 
                   return `${greeting}\n\n${starRepoMessage}\n\n${nextSteps}\n\n${feedbackMessage}\n\n${gif}`;
@@ -136,7 +136,7 @@ jobs:
                 })
 
              } else {
-
+              
               // Post a comment on the pull request using the createComment method
               await github.rest.issues.createComment({
                 owner: context.repo.owner,
@@ -153,7 +153,7 @@ jobs:
               // Handle specific error cases based on status code
               if (error.status === 405 && error.response.data.message === "Pull Request is not mergeable") {
 
-                errMsg = `Hello @${context.payload.pull_request.user.login}, thank you for your pull request. We appreciate your contribution to the project. However, before we can merge it, there is a merge conflict with the target branch.  \n\n No worries! You can follow [this guide](https://github.com/firstcontributions/first-contributions/blob/main/docs/additional-material/git_workflow_scenarios/resolving-merge-conflicts.md) on resolving merge conflicts.
+                errMsg = `Hello @${context.payload.pull_request.user.login}, thank you for your pull request. We appreciate your contribution to the project. However, before we can merge it, there is a merge conflict with the target branch.  \n\n No worries! You can follow [this guide](https://github.com/firstcontributions/first-contributions/blob/main/docs/additional-material/git_workflow_scenarios/resolving-merge-conflicts.md) on resolving merge conflicts. 
                 Once you've fixed the conflicts and pushed your changes, the repository will check the changes you made and proceed with the merge if everything looks good.  \n\n If you have any questions or need further assistance, don't hesitate to reach out. We're here to help!`
 
               } else if (error.status === 409) {
@@ -191,8 +191,8 @@ jobs:
               issue_number: context.payload.number,
             })
 
-            // find any comment already made by the bot.
-            const botComment = comments.find(comment => comment.user.login === 'github-actions[bot]')
+            // find any comment already made by the bot.                                                                                                    
+            const botComment = comments.find(comment => comment.user.login === 'github-actions[bot]')                                                                       
 
             const body = `Thank you for your pull request. This pull request contains changes in files which requires review. The following files were changed:\n\n  ${process.env.files_changed.trim() ? `\n\n${process.env.files_changed.trim().split(' ').map(file => `- ${file}`).join('\n')}` : ''}`
 
@@ -211,5 +211,5 @@ jobs:
                 body: body
               });
             }
-
+            
           github-token: ${{ secrets.GITHUB_TOKEN }}

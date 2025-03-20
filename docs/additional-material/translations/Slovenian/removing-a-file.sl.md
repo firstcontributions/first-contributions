@@ -1,6 +1,6 @@
 # Odstranjevanje datoteke
 
-Včasih si želiš odstraniti datoteko z Git-a, vendar je ne želiš odstraniti s svojega računalnika. To lahko storiš z uporabo naslednjega ukaza:
+Včasih si želiš odstraniti datoteko z Git-a, vendar je ne želiš odstraniti s svojega računalnika. To lahko storiš z uporabo naslednjega ukaza: 
 
 ``git rm <file> --cached``
 

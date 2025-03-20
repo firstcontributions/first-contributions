@@ -24,7 +24,7 @@ $ git config --global credential.helper cache
 
 ### Repository Credential Cache
 
-We can store the credentials for the repository we are working with using one simple command, similar to before:
+We can store the credentials for the repository we are working with using one simple command, similar to before: 
 
 ```
 $ git config credential.helper cache

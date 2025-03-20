@@ -20,7 +20,7 @@ El primer requisito es tener:
 Ahora vamos a necesitar instalar el `github-cli` En nuestro sistema siguiendo la [documentación oficial](https://github.com/cli/cli#installation)
 
 Después, debemos iniciar sesión en **CLI** (Interfaz de Línea de Comandos) usando el siguiente comando:
-```bash
+```bash 
 gh auth login
 ```
 
@@ -36,7 +36,7 @@ gh repo fork firstcontributions/first-contributions
 
 # Crea tu sucursal
 Haremos este paso con git, así que ingresa este comando reemplazando el nombre con tu nombre, por ejemplo:
-```bash
+```bash 
 git switch -c add-john-doe
 ```
 
@@ -76,7 +76,7 @@ reemplazando `your-branch-name` con el nombre de la sucursal que creaste anterio
 # Envíe sus cambios para su revisión
 Ahora, ejecutar este comando en el directorio de nuestro repositorio nos permitirá crear una solicitud de extracción para revisión:
 
-```bash
+```bash 
 gh pr create --repo firstcontributions/first-contributions
 ```
 

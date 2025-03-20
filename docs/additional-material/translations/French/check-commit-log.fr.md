@@ -8,7 +8,7 @@ Par défaut, la sortie de cette commande est affichée dans l'ordre chronologiqu
 
 ## Variations et options de la commande
 - Pour effectuer les commits accessibles à partir de certains identifiants de commit : <i>(Dans ce cas,`foo` et `bar`)</i><br>
-    `git log foo bar`
+    `git log foo bar` 
 - Il est également possible de supprimer les commits accessibles à partir d'un identifiant de commit donné en ajoutant un `^` devant l'identifiant de commit: <i>(Dans ce cas, `baz`)</i><br>
     `git log foo bar ^baz`
 - Historique des commits pour un fichier spécifique <br>

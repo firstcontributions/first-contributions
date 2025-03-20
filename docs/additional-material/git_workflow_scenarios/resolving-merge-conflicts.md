@@ -19,9 +19,9 @@ e.g. :
  >>>>>>> 4e2b407f501b68f8588aa645acafffa0224b9b78:mergetest
 ```
 
-`<<<<<<<`: Indicates the start of the lines that had a merge conflict. The first set of lines are the lines from the file that you were trying to merge the changes into.
-`=======`: Indicates the break point used for comparison. Breaks up changes that user has committed (above) to changes coming from merge (below) to visually see the differences.
-`>>>>>>>`: Indicates the end of the lines that had a merge conflict.
+`<<<<<<<`: Indicates the start of the lines that had a merge conflict. The first set of lines are the lines from the file that you were trying to merge the changes into.  
+`=======`: Indicates the break point used for comparison. Breaks up changes that user has committed (above) to changes coming from merge (below) to visually see the differences.  
+`>>>>>>>`: Indicates the end of the lines that had a merge conflict.  
 
 You resolve a conflict by editing the file and then manually merging the parts of the file that git had trouble merging. This may mean discarding either your changes or someone else's or going ahead with a mix of the two. You will also need to delete the '<<<<<<<', '=======', and '>>>>>>>' in the file.
 

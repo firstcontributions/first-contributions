@@ -76,3 +76,4 @@ git -c user.name='Your Name' -c user.email='you@example.com' commit -m "Your com
 Git ಸಂರಚನೆ ಬಗ್ಗೆ ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ, ಈ ಲಿಂಕ್ ಅನ್ನು ಭೇಟಿ ನೀಡಿ:
 
 [git-scm.com](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration).
+

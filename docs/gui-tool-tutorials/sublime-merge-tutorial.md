@@ -50,8 +50,8 @@ Once you're satisfied with the path, click "Clone".
 
 ## Create a branch
 
-Right click Branches -> Create Branch
-or
+Right click Branches -> Create Branch 
+or 
 Navigate to Repository -> Create Branch
 
 Name your branch "add-your-name", for example: "add-william-sutton"
@@ -63,9 +63,9 @@ Name your branch "add-your-name", for example: "add-william-sutton"
 
 Now open `Contributors.md` file in a text editor and add your name to it, then save the file.
 
-If you have the repo open in Sublime Merge you'll see there are changes.
+If you have the repo open in Sublime Merge you'll see there are changes. 
 Select the newest commit at the top, named "x unstaged files"
-Review the files that have been changed and decide what you would like to stage.
+Review the files that have been changed and decide what you would like to stage. 
 Give the commit a commit message ("Add <your-name> to Contributors list" sounds nice and descriptive).
 When you are happy with your changes stage those changes by staging them file by file or selecting "stage all". Staging is important to tell git exactly what file changes you want associated with this commit.
 

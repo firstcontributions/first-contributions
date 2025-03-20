@@ -21,8 +21,8 @@ Le premier prérequis est d'avoir :
 
 Ensuite, nous devons installer l'outil `github-cli` sur notre système en suivant la [documentation officielle](https://github.com/cli/cli#installation).
 
-Après cela, nous devons nous connecter à la CLI en entrant cette commande :
-```bash
+Après cela, nous devons nous connecter à la CLI en entrant cette commande : 
+```bash 
 gh auth login
 ```
 
@@ -38,11 +38,11 @@ gh repo fork firstcontributions/first-contributions
 
 # Créer votre branche
 Nous allons effectuer cette étape avec Git, alors entrez cette commande en remplaçant le nom par votre nom, par exemple :
-```bash
+```bash 
 git switch -c add-john-doe
 ```
 
-# Effectuer les changements nécessaires et commitez ces modifications
+# Effectuer les changements nécessaires et commitez ces modifications 
 Vous pouvez maintenant ouvrir le fichier `Contributors.md` dans un éditeur de texte et y ajouter votre nom. Placez votre nom n'importe où entre le début et la fin du fichier, puis enregistrez-le.
 
 Dans le répertoire du projet, exécutez `git status` et vous verrez les modifications.
@@ -55,7 +55,7 @@ Commitez maintenant ces changements en utilisant la commande `git commit` :
 `git commit -m "Ajouter votre-nom à la liste des contributeurs"`
 en remplaçant `votre-nom` par votre nom.
 
-# Envoyez les modifications sur GitHub
+# Envoyez les modifications sur GitHub 
 Envoyez vos modifications en utilisant la commande `git push` :
 
 ```
@@ -78,7 +78,7 @@ en remplaçant `votre-nom-de-branche` par le nom de la branche que vous avez cr�
 # Soumettez vos modifications pour examen
 Maintenant, en exécutant cette commande dans le répertoire de notre dépôt, vous pourrez créer une pull request pour examen :
 
-```bash
+```bash 
 gh pr create --repo firstcontributions/first-contributions
 ```
 

@@ -35,7 +35,7 @@ The next step is to clone your repo down to your machine, so you can begin makin
 
 **CAREFUL:** One common mistake that new contributors often make is to clone the repo you forked _from_ rather than cloning your repo. Check your browser's address bar and make sure you are cloning your repo.
 
-Now open up IntelliJ IDEA.
+Now open up IntelliJ IDEA. 
 
 IntelliJ IDEA allows you to check out (in Git terms clone) an existing repository and create a new project based on the data you've downloaded.
 

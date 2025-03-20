@@ -38,7 +38,7 @@ git reset --hard
 Рэжым `` --hard `` загадвае Git таксама адмяняць усе змены ў працоўным каталогу.
 Вы павінны запускаць гэта толькі тады, калі вы сапраўды ўпэўненыя ў тым, што выкінеце цэлае local development.
 
-Прыклад выкарыстання  ```git reset --hard```
+Прыклад выкарыстання  ```git reset --hard``` 
 ```
 # Decided to start a crazy experiment
 # Create a new file 'crazy.php' and add some code to it

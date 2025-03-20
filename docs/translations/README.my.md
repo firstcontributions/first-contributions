@@ -6,7 +6,7 @@
 
 # Sumbangan Pertama
 
-Projek ini bertujuan untuk memberikan panduan dan memudahkan individu yang baru mula belajar membuat sumbangan pertama mereka.
+Projek ini bertujuan untuk memberikan panduan dan memudahkan individu yang baru mula belajar membuat sumbangan pertama mereka. 
 Jika anda ingin membuat sumbangan pertama anda, sila ikuti arahan yang disediakan di bawah.
 
 #### *Sekiranya anda tidak selesa dengan menggunakan antara muka baris perintah (CLI), anda boleh mengikuti [panduan untuk menggunakan alat GUI di sini.](#Tutorial-Menggunakan-Alat-Lain)*

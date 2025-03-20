@@ -67,7 +67,7 @@ Open nu het `Contributors.md` bestand in een teksteditor en voeg je naam toe. Do
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
-Als je naar de projectmap gaat en `git status` doet, zul je zien dat er wijzigingen zijn.
+Als je naar de projectmap gaat en `git status` doet, zul je zien dat er wijzigingen zijn. 
 
 Voeg deze toe aan je branch met behulp van onderstaand `git add` commando.
 

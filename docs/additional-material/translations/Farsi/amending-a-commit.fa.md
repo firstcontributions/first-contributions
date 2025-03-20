@@ -14,7 +14,7 @@ git commit --amend -m "پیام جدید برای این کامیت"
 ```
 
 2.دستور
-
+  
 ```
 git push origin <نام-شاخه>
 ```
@@ -33,7 +33,7 @@ git push origin <نام-شاخه>
 
 مثلا این لاگ (log) کامیت هاست:
 ```
-g56123f create botfile
+g56123f create botfile 
 a2235d updated contributor.md
 a5da0d modified  botfile
 ```
@@ -44,7 +44,7 @@ a5da0d modified  botfile
 
 راه اول این است که یک کامیت جدید ایجاد کرد که شامل این تغییرات هست:
 ```
-g56123f create botfile
+g56123f create botfile 
 a2235d updated contributor.md
 a5da0d modified  botfile
 b0ca8f added single word to botfile
@@ -63,7 +63,7 @@ b0ca8f added single word to botfile
 git add <اسم-فایل>
 ```
 
-معمولا بعد از اضافه کردن تغییرات، با دستور
+معمولا بعد از اضافه کردن تغییرات، با دستور 
 
 ```
 git commit -m "our commit message"

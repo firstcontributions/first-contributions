@@ -25,7 +25,7 @@
 දැන් අපට [නිල ලේඛන](https://github.com/cli/cli#installation) අනුගමනය කිරීමෙන් අපගේ පද්ධතිය තුළ `github-cli` මෙවලම ස්ථාපනය කිරීමට අවශ්‍ය වේ.
 
 ඊට පසු, අපි CLI වෙත පිවිසිය යුතුය, එබැවින් මෙම විධානය ඇතුළත් කරන්න:
-```bash
+```bash 
 gh auth login
 ```
 
@@ -45,7 +45,7 @@ gh repo fork firstcontributions/first-contributions
 
 අපි මෙම පියවර git සමඟ කරන්නෙමු, එබැවින් නම ඔබේ නම සමඟ ප්‍රතිස්ථාපනය කරමින් මෙම විධානය ඇතුළත් කරන්න, උදාහරණයක් ලෙස:
 
-```bash
+```bash 
 git switch -c add-john-doe
 ```
 # අවශ්‍ය වෙනස්කම් සිදු කර commit කරන්න
@@ -77,14 +77,14 @@ git push origin -u your-branch-name
   දුරස්ථ: කරුණාකර වැඩි විස්තර සඳහා https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ බලන්න.
   මාරක: 'https://github.com/<your-username>/first-contributions.git/'</pre> සඳහා සත්‍යාපනය අසාර්ථක විය
   [GitHub හි නිබන්ධනය](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) වෙත යන්න ඔබගේ ගිණුමට SSH යතුරක් උත්පාදනය කිරීම සහ වින්‍යාස කිරීම.
-
-</details>
+  
+</details>     
 
 
 # ඔබගේ වෙනස්කම් සමාලෝචනය සඳහා ඉදිරිපත් කරන්න
 දැන් අපගේ repo හි නාමාවලියෙහි මෙම විධානය ක්‍රියාත්මක කිරීමෙන් සමාලෝචනය සඳහා ඇදීමේ ඉල්ලීමක් සෑදීමට අපට ඉඩ සලසයි:
 
-```bash
+```bash 
 gh pr create --repo firstcontributions/first-contributions
 ```
 

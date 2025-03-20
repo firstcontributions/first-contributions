@@ -12,7 +12,7 @@ Para fazer isso, digite:
 ```git checkout name-of-the-correct-branch``` - Alterna para a outra branch.
 ```git stash pop``` - Recupera o último estado salvo.
 ```git add .``` - Ou tente adicionar arquivos individualmente.
-```git commit -m "your message here"``` - Faça o commit das alterações.
+```git commit -m "your message here"``` - Faça o commit das alterações.  
 
 Agora suas alterações estão na branch correta
 

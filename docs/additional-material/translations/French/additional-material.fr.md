@@ -20,7 +20,7 @@ Cette page vous donnera les informations dont vous avez besoin pour déplacer un
 
 ### [Supprimer un Fichier](removing-a-file.md)
 Cette page vous donnera les informations dont vous avez besoin pour supprimer un Fichier depuis votre répertoire local :
-> Suivez ces étapes pour apprendre comment supprimer un fichier avant d'effectuer un commit.
+> Suivez ces étapes pour apprendre comment supprimer un fichier avant d'effectuer un commit. 
 
 ### [Supprimer une branche dans votre répertoire](removing-branch-from-your-repository.md)
 Cette page vous donnera les informations dont vous avez besoin pour supprimer une branche de votre répertoire :

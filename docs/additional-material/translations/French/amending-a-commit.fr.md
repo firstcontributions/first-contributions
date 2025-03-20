@@ -39,7 +39,7 @@ Pour se faire, il faut suivre les étapes suivantes :
 *   Modifier le fichier. Dans notre cas, on modifie le fichier bot pour y inclure le mot oublié.
 *   Ensuite, ajouter le fichier dans la zone de transit avec la commande ```git add <nom-du-fichier>```
 
-D'habitude, après avoir ajouté des fichiers dans la zone de transit, l'étape suivante est d'exécuter la commande
+D'habitude, après avoir ajouté des fichiers dans la zone de transit, l'étape suivante est d'exécuter la commande 
 git commit -m "notre message de commit", n'est-ce pas ? Mais comme ce qu'on veut ici c'est modifier le commit
 précédent, on va plutôt lancer les commandes :
 

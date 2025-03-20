@@ -16,9 +16,9 @@ Saya sarankan Anda mengikuti milis berorientasi pengguna utama dan milis pengemb
 dan apa yang diperlukan untuk mencapainya. Situs planet mengumpulkan berita dan entri blog dari banyak sumber yang terkait dengan proyek.
 Jika ada situs planet, seperti planet.gnome.org atau planet.mysql.com, mulailah dari sana. Cari saja di Google dengan kata kunci “planet <nama proyek>.”
 
-3. **Bergabunglah dengan saluran IRC**: Banyak proyek open source memiliki saluran khusus Internet relay chat (IRC) di mana para pengembang dan pengguna berkumpul untuk mendiskusikan
+3. **Bergabunglah dengan saluran IRC**: Banyak proyek open source memiliki saluran khusus Internet relay chat (IRC) di mana para pengembang dan pengguna berkumpul untuk mendiskusikan 
 
-**Bekerja dengan Tiket**
+**Bekerja dengan Tiket**  
 Kode adalah jantung dari setiap proyek open source, tetapi jangan berpikir bahwa menulis kode adalah satu-satunya cara untuk berkontribusi.
 Pemeliharaan kode dan sistem yang mengelilingi kode sering kali terabaikan karena terburu-buru untuk membuat fitur baru dan memperbaiki bug.
 Lihatlah area-area ini sebagai cara mudah untuk masuk ke dalam sebuah proyek.
@@ -112,7 +112,7 @@ dan dengan membuat catatan untuk orang lain yang memiliki masalah yang sama deng
 Jika Anda memiliki keahlian dalam desain web dan dapat membantu meningkatkan situs web, dan dengan demikian citra proyek yang dihadapi publik, itu adalah waktu yang dihabiskan dengan baik.
 Mungkin proyek tersebut dapat menggunakan perbaikan grafis, atau logo untuk mengidentifikasi proyek.
 Hal ini mungkin merupakan keterampilan yang kurang dimiliki oleh komunitas. Saya tahu saya akan sangat senang jika saya bisa mendapatkan bantuan desain grafis di situs web proyek saya.
-
+  
 15. **Menulis dokumentasi teknis**
 Jika Anda dapat menulis tentang bagaimana sebuah aplikasi atau perangkat lunak bekerja, Anda dapat menulis dokumentasi teknis tentangnya. Terutama proyek-proyek open source yang ingin memperbarui, mengubah, memperluas, atau membuat dokumen teknis untuk dibaca oleh masyarakat umum. Semakin banyak Anda menulis dalam bahasa Inggris, semakin baik. Bagian terbaiknya, Anda tidak harus menjadi seorang programmer untuk menulis dokumen teknis.
 
