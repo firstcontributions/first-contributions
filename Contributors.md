@@ -1,6 +1,6 @@
 # Contributors
-[Tejaswi Saraswathi](https://github.com/Tejaswi1305)
 
+- [Tejaswi Saraswathi](https://github.com/Tejaswi1305)
 - [xFooFoo](https://github.com/xFooFoo) 
 - [whynot1963] (https://github.com/whynot1963) 
 - [ISOTOPE | THEMBA](https://github.com/Goitseone-Themba)
@@ -1260,7 +1260,7 @@
  -[kazurem](https://github.com/kazurem)
  -[Youssef Allali](https://github.com/youssefallalix)
 - [Asad Bakhsh] (https://github.com/Asadbakhsh2412)
+-[B Suraj Patra](https://github.com/bsurajpatra)
 - [Junaid Ali Khan](https://github.com/juna0704)
 - [Firas Ridene](https://github.com/RideneFiras)
 - [meowmeow](https://github.com/true-meowmeow) 🤯
-
