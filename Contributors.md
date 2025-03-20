@@ -3,6 +3,7 @@
 [Tejaswi Saraswathi](https://github.com/Tejaswi1305)
 
 -[Vyshnavi Jammi]-(https://github.com/vyshnaviJammi)
+-[shetloorrahul]-(https://github.com/shetloorrahul)
 -[Nadupuru Harshitha]-(https://github.com/Harshitha2300033363)
 -[Sneha Latha Reddy]-(https://github.com/Snehareddy5566)
   [RAGHUTTAMA K G]-(https://github.com/RAGHUTTAMA-DEV)
@@ -304,6 +305,7 @@
 - [Fuad Hasan](https://github.com/itsfuad)
 - [meenakshiruia](https://github.com/meenakshiruia)
 - [Joshua Luca](https://github.com/joshluca98)
+- [Yhlas Yazmyrad](https://github.com/yazmyrad)
 - [RomaniukNatalia](https://github.com/RomaniukNatalia)
 - [Kelvin Yeboah](https://github.com/KelvCodes)
 - [Sardorbek](https://github.com/Sardorbek-Kuvondikov)
@@ -1280,3 +1282,4 @@
 - [meowmeow](https://github.com/true-meowmeow) 🤯
 - [Antoniorodr](https://github.com/antoniorodr)
 - [Lohith Reddy](https://github.com/Lohith-11)
+- [Kalmykov Nikita](https://github.com/nknk39)
