@@ -119,7 +119,7 @@ jobs:
                   const nextSteps = `# Next steps \n - Continue contributing: If you're looking for projects to contribute to, checkout our [<img src="${repo_logo}" width="22" title="web app" /> webapp](${web_url}). \n - If you want more practice checkout [code contributions](${codeContributionsLink}). \n - Share on social media: You can share this content to help more people.\n   - [<img alt="bluesky" title="bluesky" src="${bluesky_logo}" width="22"> Post on Bluesky](${bluesky_share_link}).\n   - [<img alt="facebook" title="facebook" src="${fb_logo}" width="22"> share](${fb_share_link}).\n   - [ <img alt="reddit" title="reddit" src="${reddit_logo}" width="22"> share](${reddit_link}).\n   - [<img alt="linkedin" title="linkedin" src="${linkedin_logo}" width="22"> post](${linkedin_share_link}).\n   - [<img alt="devio" title="devio" src="${dev_logo}" width="22"> publish](${dev_share_link}).\n   - [<img src="${hackernews_logo}" width="22" title="HackerNews" /> Post on HackerNews](${hackernews_share_link}).`;
                   const feedbackMessage = `We'd love to hear your thoughts about this project. Let us know how we can improve by commenting or opening an issue here.`;
                   
-                  const gif = `![celebration gif](${getRandomGif()})`;
+                  const gif = "![celebration gif](${getRandomGif()})";
 
                   return `${greeting}\n\n${starRepoMessage}\n\n${nextSteps}\n\n${feedbackMessage}\n\n${gif}`;
                 }
