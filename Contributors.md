@@ -5,10 +5,12 @@
 -[Vyshnavi Jammi]-(https://github.com/vyshnaviJammi)
 -[Nadupuru Harshitha]-(https://github.com/Harshitha2300033363)
 -[Sneha Latha Reddy]-(https://github.com/Snehareddy5566)
+  [RAGHUTTAMA K G]-(https://github.com/RAGHUTTAMA-DEV)
 - [xFooFoo](https://github.com/xFooFoo) 
 - [whynot1963] (https://github.com/whynot1963) 
 - [ISOTOPE | THEMBA](https://github.com/Goitseone-Themba)
 - [preethi0297] (https://github.com/Preethi0297)
+- [ASA666] (https://github.com/ASA-666) 
 - [pyraminx] (https://github.com/pyraminx123)
 - [Silvia-Zh] (https://github.com/Silvia-Zh)
 - [Kenny92dev](https://github.com/Kenny92dev)
@@ -149,6 +151,7 @@
 - [Abhay](https://github.com/abhayiscoding)
 - [Jenny Martin](https://github.com/jmartinDS14)
 - [CynthiaWahome](https://github.com/CynthiaWahome)
+- [JWD](https://github.com/JWD-101)
 - [Torres Martinez]
 - [Keshav Raj Chaudhary](https://github.com/chaudharykeshavraj)
 - [CaraMcG](https://github.com/caraMcG)
@@ -220,6 +223,7 @@
 - [hmdaslam97](https://github.com/hmdaslam97)
 - [Ester Youngreis](https://github.com/eti-youngreis)
 - [Hmanaya](https://github.com/manayah199)
+- [Komathi](https://github.com/komathi-pandiyan)
 - [Ragini Tiwar](https://github.com/Ragini-Tiwari)
 - [tuysh](https://github.com/Tuysh)
 - [Esther Kalsmith](https://github.com/EstherKal)
@@ -1275,3 +1279,4 @@
 - [Firas Ridene](https://github.com/RideneFiras)
 - [meowmeow](https://github.com/true-meowmeow) 🤯
 - [Antoniorodr](https://github.com/antoniorodr)
+- [Lohith Reddy](https://github.com/Lohith-11)
