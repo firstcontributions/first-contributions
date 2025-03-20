@@ -1276,4 +1276,5 @@
 - [Junaid Ali Khan](https://github.com/juna0704)
 - [Firas Ridene](https://github.com/RideneFiras)
 - [meowmeow](https://github.com/true-meowmeow) 🤯
+- [Lohith Reddy](https://github.com/Lohith-11)
 
