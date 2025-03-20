@@ -172,6 +172,7 @@
 - [Nejma Latheef](https://github.com/Nejma-Latheef)
 - [as6200](https://github.com/as6200)
 - [Zilvinas K]
+- [Aryan Joshi] (https://github.com/AryanJoshi2108)
 - [Fco Birr](https://github.com/FcoBirr)
 - [Rajesh Khanna] (https://github.com/Rajeshkris2)
 - [joserata] (https://github.com/joserata/first-contributions.git)
