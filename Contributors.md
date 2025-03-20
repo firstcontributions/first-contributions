@@ -18,6 +18,7 @@
   [Davide Franchi] (https://github.com/DAVIDE004)
 - Jeffrey Cole
 - [Bruno Nascimento](https://github.com/nascimentodeveloper)
+- [Stefanos Gersch-Koutsogiannis](https://github.com/stefanosGerschKoutsogiannis)
 - [Parimi Pujitha](https://github.com/parimipujitha269)
 - [Khaled Javdan](https://github.com/kjavedan/)
 - [Fazlul Karim Choudhury](https://github.com/FazlulKarimC)
