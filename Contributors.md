@@ -112,6 +112,7 @@
 - [balakumaran-ks](https://github.com/balakumaran-ks)
 - [levo](https://github.com/LeVo011)
 - [HVentura 👋](https://github.com/hventura)
+- [jvleesenb](https://github.com/meatlake)
 - [Cedrick](https://github.com/Cedrick-Deguzman)
 - [Carburio](https://github.com/Carburio)
 - [Amit Patil](https://github.com/meAmitPatil)
