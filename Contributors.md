@@ -3,6 +3,7 @@
 -[Lovnish Verma]-(https://github.com/lovnishverma)
 -[Rohit Kumar](https://github.com/kumarrohitdev)
 [Tejaswi Saraswathi](https://github.com/Tejaswi1305)
+-[CHITRANSH PRASANNA](https://github.com/Chitransh1011)
 
 -[Vyshnavi Jammi]-(https://github.com/vyshnaviJammi)
 -[shetloorrahul]-(https://github.com/shetloorrahul)
