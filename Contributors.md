@@ -26,6 +26,7 @@
 - [INPATHTAMILAN](https://github.com/tamilan3)
 - [Varsha Gajula](https://github.com/varsha359)
 - [ashykng](https://github.com/ashykng)
+- [Hans Kalders](https://github.com/hansk112)
 - Javier Borja
   [Davide Franchi] (https://github.com/DAVIDE004)
 - Jeffrey Cole
