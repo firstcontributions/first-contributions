@@ -1,5 +1,7 @@
 # Contributors
 
+-[Maxi Candia] (https://github.com/MaxiCandiaJara)
+-[Lovnish Verma]-(https://github.com/lovnishverma)
 -[Rohit Kumar](https://github.com/kumarrohitdev)
 [Tejaswi Saraswathi](https://github.com/Tejaswi1305)
 
@@ -8,9 +10,8 @@
 -[Fahim_Al_Rashid]-(https://github.com/fahimar)
 
 -[shetloorrahul]-(https://github.com/shetloorrahul)
-
+-[Krishna Gollavilli]-(https://github.com/SvachutaGollavilli)
 -[Nadupuru Harshitha]-(https://github.com/Harshitha2300033363)
-
 -[Sneha Latha Reddy]-(https://github.com/Snehareddy5566)
 [RAGHUTTAMA K G]-(https://github.com/RAGHUTTAMA-DEV)
 
@@ -25,9 +26,13 @@
 - [Harlan Enciso](https://github.com/harlanenciso112)
 - [JorgeGallegos] (https://github.com/JorgeGallegos8)
 - [StevenHall] (https://github.com/PedanticSteve)
+- [KingTroy125](https://github.com/KingTroy125)
 - [Ivo-velev] (https://github.com/Ivo-velev)
 - [INPATHTAMILAN](https://github.com/tamilan3)
+- [Varsha Gajula](https://github.com/varsha359)
 - [ashykng](https://github.com/ashykng)
+- [Hans Kalders](https://github.com/hansk112)
+- [Harsha0603] (https://github.com/harsha0603)
 - Javier Borja
   [Davide Franchi] (https://github.com/DAVIDE004)
 - Jeffrey Cole
@@ -49,12 +54,15 @@
 - [Jonah Deschenes](https://github.com/JMDeschenes13)
 - [Shubha Bhat](https://github.com/syshubha)
 - Sam
+- [ZelenovicA](https://github.com/ZelenovicA)
 - Zeddie
 - [Timothy Phan](https://github.com/TimothyPhan2)
 - [Ahmed Reyyan](https://github.com/AhmedReyyan)
 - [Ahmed Elskh](https://github.com/ahmedelshkh)
 - [Maria Vilela]
-- [Shailesh Sharma](https://github.com/Chinipanda)
+- [vansh]
+[Shailesh Sharma](https://github.com/Chinipanda)
+- [Eduardo Chaparro Huaman](https://github.com/Eduardo-v01)
 - [Robbe Van Herpe](https://github.com/Robbevanherpe1)
 - [Sam Shattock](https://github.com/Shatt85)
 - [Harish](https://github.com/harish-167)
@@ -65,6 +73,7 @@
 - [Jisnoo Dev Pal](https://github.com/jisnoo123)
 - [Mulenga Chituta](https://github.com/MulengaHankandaChituta)
 - [Amleshwar Pandey](https://github.com/amleshwar-p)
+- [Jared Noel] (https://github.com/AshenDary)
 - [Navid](https://github.com/navidcodes)
 - [Asghar Kazmi](https://github.com/AsgharKazmi2005)
 - [KigulaJesse](https://github.com/KigulaJesse)
@@ -101,12 +110,14 @@
 - [Anay](https://github.com/Anay-Patil)
 - [Argha Saha](https://github.com/arg387)
 - [Jason](https://github.com/JayKayDevOps)
+- [Gopal](https://github.com/gopallchoudhary)
 - [Anay](https://github.com/SiddharthaWork)
 - [Eduardo Egydio Shirai](https://github.com/ShiraiEd)
 - [AMG-AA](https://github.com/AMG-AA)
 - [balakumaran-ks](https://github.com/balakumaran-ks)
 - [levo](https://github.com/LeVo011)
 - [HVentura 👋](https://github.com/hventura)
+- [jvleesenb](https://github.com/meatlake)
 - [Cedrick](https://github.com/Cedrick-Deguzman)
 - [Carburio](https://github.com/Carburio)
 - [Amit Patil](https://github.com/meAmitPatil)
@@ -173,6 +184,7 @@
 - [Christopher O.](https://github.com/limitpointinf0)
 - [SNN](https://github.com/sungenyeint)
 - [Springer Barry](https://github.com/BarryCoding)
+- [Naveen1023](https://github.com/Naveen1023)
 - [Aditya Radadiya](https://github.com/RadadiyaAditya)
 - [Mostapha EL ANSARI](https://github.com/mostaphaelansari)
 - [Sarthak Bhardwaj](https://github.com/sarthakbhardwaj27)
@@ -291,6 +303,7 @@
 - [shubham goyal](https://github.com/shubgoyal23)
 - [Sankalp Yerigeri](https://github.com/SankalpYerigeri)
 - [Peleg Ben Barak](https://github.com/peleg-bb)
+- [idekwid](https://github.com/idekwid)
 - [AjiHsu](https://github.com/AjiHsu)
 - [gyanchandkabra](https://github.com/gyanchandkabra)
 - [harshit](https://github.com/harshitpatel862)
@@ -450,6 +463,7 @@
 - [OmkarS](https://github.com/omkar402)
 - [Suresh Deora](https://github.com/SureshDeora)
 - [Mohanshi Jain](https://github.com/Mohanshi04)
+- [traf nosleep](https://github.com/ayohsan)
 - [eesoyeon](https://github.com/eesoyeon)
 - [Tournoy Noa](https://github.com/)
 - [Plamen Hadzhiev](https://github.com/plmn95)
@@ -1285,3 +1299,4 @@
 - [Lohith Reddy](https://github.com/Lohith-11)
 - [Kalmykov Nikita](https://github.com/nknk39)
 - [Tyler Wolfe](https://github.com/JustSomeGuyy)
+- [Aaron Li](https://github.com/aaronlee916)
