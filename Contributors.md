@@ -3,7 +3,7 @@
 -[Lovnish Verma]-(https://github.com/lovnishverma)
 -[Rohit Kumar](https://github.com/kumarrohitdev)
 [Tejaswi Saraswathi](https://github.com/Tejaswi1305)
-
+-[Leahylin](https://github.com/Leahylin0317)
 -[Vyshnavi Jammi]-(https://github.com/vyshnaviJammi)
 -[shetloorrahul]-(https://github.com/shetloorrahul)
 -[Krishna Gollavilli]-(https://github.com/SvachutaGollavilli)
@@ -21,7 +21,6 @@
 - [Harlan Enciso](https://github.com/harlanenciso112)
 - [JorgeGallegos] (https://github.com/JorgeGallegos8)
 - [StevenHall] (https://github.com/PedanticSteve)
-- [KingTroy125](https://github.com/KingTroy125)
 - [Ivo-velev] (https://github.com/Ivo-velev)
 - [INPATHTAMILAN](https://github.com/tamilan3)
 - [ashykng](https://github.com/ashykng)
@@ -771,6 +770,7 @@
 - [BOUKARI Marfourz](https://github.com/Marfourz)
 - [Hillary Nyakundi](https://github.com/HillaryNyakundi)
 - [Claudio Jara](https://github.com/claudiojara)
+Leahylin
 - [Peter Hilbert](https://github.com/pehilbert)
 - [.kim](https//github.com/kim8584)
 - [Yeressil Taupiyk](https://github.com/BalmundSM)
