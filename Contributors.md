@@ -21,6 +21,7 @@
 - [Harlan Enciso](https://github.com/harlanenciso112)
 - [JorgeGallegos] (https://github.com/JorgeGallegos8)
 - [StevenHall] (https://github.com/PedanticSteve)
+- [Leonardo Teodoro](https://github.com/LeonardoTeodoroSantos)
 - [KingTroy125](https://github.com/KingTroy125)
 - [Ivo-velev] (https://github.com/Ivo-velev)
 - [INPATHTAMILAN](https://github.com/tamilan3)
