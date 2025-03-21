@@ -378,6 +378,7 @@
 - [Loubna Lekouaghet](https://github.com/loubna213)
 - [oompf](https://github.com/oompf)
 - [Roshawn Brooks](https://github.com/rbrooks95)
+- [Bhagyashree Jena](https://github.com/bhagyashree-j)
 - [Mr. Jakkula](https://github.com/Mr.Jakkula)
 - [Romuald Oluwatobi](https://github.com/Romulad)
 - [Jeston Lewis](https://github.com/jestoncolelewis)
