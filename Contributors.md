@@ -71,6 +71,7 @@
 - [Jared Noel] (https://github.com/AshenDary)
 - [Navid](https://github.com/navidcodes)
 - [Asghar Kazmi](https://github.com/AsgharKazmi2005)
+- [Bhagyashree Jena](https://github.com/bhagyashree-j)
 - [KigulaJesse](https://github.com/KigulaJesse)
 - [Sitanshu Nandan](https://github.com/stansho)
 - [Nayabasetsi J. Kisowile](https://github.com/nas3ts)
