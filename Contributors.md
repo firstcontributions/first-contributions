@@ -20,6 +20,7 @@
 - [Harlan Enciso](https://github.com/harlanenciso112)
 - [JorgeGallegos] (https://github.com/JorgeGallegos8)
 - [StevenHall] (https://github.com/PedanticSteve)
+- [KingTroy125](https://github.com/KingTroy125)
 - [Ivo-velev] (https://github.com/Ivo-velev)
 - [INPATHTAMILAN](https://github.com/tamilan3)
 - [ashykng](https://github.com/ashykng)
