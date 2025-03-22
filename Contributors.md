@@ -1304,10 +1304,10 @@ Zues
 - [Junaid Ali Khan](https://github.com/juna0704)
 - [Firas Ridene](https://github.com/RideneFiras)
 - [meowmeow](https://github.com/true-meowmeow) 🤯
+- [Antoniorodr](https://github.com/antoniorodr)
 - [Lohith Reddy](https://github.com/Lohith-11)
 - [Kalmykov Nikita](https://github.com/nknk39)
 - [Tyler Wolfe](https://github.com/JustSomeGuyy)
 - [Aaron Li](https://github.com/aaronlee916)
 - [Hamza RAHAL](https://github.com/hmz-rhl)
 - [AbdallaSamirKhalifa](https://github.com/AbdallaSamirKhalifa)
-
