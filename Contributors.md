@@ -26,6 +26,7 @@
 - [preethi0297] (https://github.com/Preethi0297)
 - [ASA666] (https://github.com/ASA-666)
 - [pyraminx] (https://github.com/pyraminx123)
+- [Kenny92dev](https://github.com/Kenny92dev)
 - [Silvia-Zh] (https://github.com/Silvia-Zh)
 - [Kenny92dev](https://github.com/Kenny92dev)
 - [Harlan Enciso](https://github.com/harlanenciso112)
@@ -99,7 +100,7 @@
 - [Yeshu](https://www.youtube.com/watch?v=hB7CDrVnNCs)
 - [Priyanshu Agarwal](https://github.com/23f2003488)
 - [Nikhil Rajbhar](https://github.com/NikhilRajbhar111)
-- [Michael S]
+- [LiuSam](https://www.youtube.com/CommitKU)
 - leee
 - [Buzz] Grok
 - Maria Saram (https://github.com/sara01-m)
