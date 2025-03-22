@@ -138,6 +138,7 @@ Zues
 - [balakumaran-ks](https://github.com/balakumaran-ks)
 - [levo](https://github.com/LeVo011)
 - [HVentura 👋](https://github.com/hventura)
+- [Jitendar E Y](https://github.com/jitendarey9594)
 - [jvleesenb](https://github.com/meatlake)
 - [Cedrick](https://github.com/Cedrick-Deguzman)
 - [Kmogun](https://github.com/kmogun)
