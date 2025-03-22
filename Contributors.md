@@ -1321,6 +1321,7 @@ Zues
 - [Aaron Li](https://github.com/aaronlee916)
 - [Hamza RAHAL](https://github.com/hmz-rhl)
 - [AbdallaSamirKhalifa](https://github.com/AbdallaSamirKhalifa)
+- [Dhruv Devaliya](https://github.com/Bit-Bard)
 - [Yash](https://github.com/yashbhappa)
 - [Jun Le](https://github.com/junleuk)
 - [Alan Benny](https://github.com/AlanBennyOfficial)
