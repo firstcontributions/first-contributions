@@ -12,7 +12,7 @@
 - [Bran Don](https://github.com/edogola4)
 - [Cristian cantillo]
 - [Pranav Kumar](https://github.com/pranavkodin) Oye! balle balle free ki achievement!
-- [royf5oil]
+- [royf5oil](https://github.com/royf5oil)
 - [Christopher Wright](https://github.com/cwrightlibrary)
 - [Debasrita Saha](https://github.com/DebasritaS)
 - [Michael Wu](https://github.com/miwucy) This is my first contribution!
