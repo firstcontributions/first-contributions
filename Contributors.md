@@ -1362,6 +1362,7 @@ Leahylin
 - [Lohith Reddy](https://github.com/Lohith-11)
 - [Newerton] (https://github.com/newerton)
 - [Talanti Arun](https://github.com/talantiarun)
+- [Rohan Upadhyay](https://github.com/RyanX5)
 - [Liam Horton](https://github.com/Liam-Horton)
 - [Kalmykov Nikita](https://github.com/nknk39)
 - [Tyler Wolfe](https://github.com/JustSomeGuyy)
