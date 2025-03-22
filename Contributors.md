@@ -1310,4 +1310,4 @@ Zues
 - [Aaron Li](https://github.com/aaronlee916)
 - [Hamza RAHAL](https://github.com/hmz-rhl)
 - [AbdallaSamirKhalifa](https://github.com/AbdallaSamirKhalifa)
-
+- [Dhruv Devaliya](https://github.com/Bit-Bard)
