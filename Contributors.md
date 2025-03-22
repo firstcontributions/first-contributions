@@ -1311,6 +1311,7 @@ Leahylin
 - [Abhay Patil](https://github.com/user-abhay08)
 - [cyc](https://github.com/Cai-yc)
 - ransomn(https://github.com/ransomn)
+- [Facundo Gómez](https://github.com/facundolgomez)
 - [Krit]
 - [Moses Hong] (https://github.com/Moses249)
 - [Dennis Guaman](https://github.com/guzmi25)
