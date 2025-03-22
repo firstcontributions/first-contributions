@@ -1318,6 +1318,7 @@ Zues
 - [Hamza RAHAL](https://github.com/hmz-rhl)
 - [AbdallaSamirKhalifa](https://github.com/AbdallaSamirKhalifa)
 - [Yash](https://github.com/yashbhappa)
+- [Jun Le](https://github.com/junleuk)
 - [Alan Benny](https://github.com/AlanBennyOfficial)
 - [Prabhleen Kaur](https://github.com/prbhleeen)
 
