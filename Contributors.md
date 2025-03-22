@@ -1314,6 +1314,7 @@ Zues
 - [Junaid Ali Khan](https://github.com/juna0704)
 - [Firas Ridene](https://github.com/RideneFiras)
 - [meowmeow](https://github.com/true-meowmeow) 🤯
+- [Antoniorodr](https://github.com/antoniorodr)
 - [Lohith Reddy](https://github.com/Lohith-11)
 - [Kalmykov Nikita](https://github.com/nknk39)
 - [Tyler Wolfe](https://github.com/JustSomeGuyy)
@@ -1324,4 +1325,3 @@ Zues
 - [Jun Le](https://github.com/junleuk)
 - [Alan Benny](https://github.com/AlanBennyOfficial)
 - [Prabhleen Kaur](https://github.com/prbhleeen)
-
