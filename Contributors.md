@@ -4,6 +4,7 @@
 -[Lovnish Verma]-(https://github.com/lovnishverma)
 -[Rohit Kumar](https://github.com/kumarrohitdev)
 [Tejaswi Saraswathi](https://github.com/Tejaswi1305)
+- [Dev Iyer](https://github.com/midaz)
 - [Leahylin](https://github.com/Leahylin0317)
 - [CHITRANSH PRASANNA](https://github.com/Chitransh1011)
 - [Eugenio Ramirez](https://github.com/madkng)
