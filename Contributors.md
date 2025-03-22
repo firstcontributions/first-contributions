@@ -1320,6 +1320,7 @@ Leahylin
  -[kazurem](https://github.com/kazurem)
  -[Youssef Allali](https://github.com/youssefallalix)
 - [Asad Bakhsh] (https://github.com/Asadbakhsh2412)
+- [Jiabei Luo](https://github.com/jluo9612)
 - [B Suraj Patra](https://github.com/bsurajpatra)
 - [Abhay Dhiman ](https://github.com/AbhayDhiman23)
 - [Junaid Ali Khan](https://github.com/juna0704)
