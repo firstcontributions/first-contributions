@@ -1256,6 +1256,7 @@ Leahylin
 - [Neeraj Wadhwani](https://github.com/neeraj43)
 - [TaeYeong Jeong](https://github.com/dev-taeyeong)
 - [hdh](https://github.com/hdh0)
+- [nordicgoddess](https://github.com/NordicGoddess)
 -[Sreedhar](https://github.com/Sreedharreddymukkamalla)
 - [Abdelrahman Ahmed](https://github.com/AbdelrahmanSuliman)
 - [Mauricio Colque](https://github.com/maurom02)
