@@ -2,6 +2,7 @@
 -[Maxi Candia] (https://github.com/MaxiCandiaJara)
 - [Abhishek Maurya](https://github.com/abhishek-maurya576)
 -[Lovnish Verma]-(https://github.com/lovnishverma)
+-[Abubakkar Khan]-(https://github.com/Abubakkar-Khan)
 -[Rohit Kumar](https://github.com/kumarrohitdev)
 [Tejaswi Saraswathi](https://github.com/Tejaswi1305)
 - [Dev Iyer](https://github.com/midaz)
