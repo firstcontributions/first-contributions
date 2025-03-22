@@ -668,7 +668,7 @@ Zues
 - [Nisha Verma](https://github.com/xnisha-verma)
 - [TrevyBurgess](https://github.com/TrevyBurgess)
 - [Jerold De Pedro](https://github.com/xherby07)
--[Neeraj M](https://github.com/NERUZ-XOD)
+- [Neeraj M](https://github.com/NERUZ-XOD)
 - [Jason Ang](https://github.com/jasonavatarang)
 - [Sashin Trout](https://github.com/sashin123)
 - [Anish Banda](https://github.con/anishbanda)
