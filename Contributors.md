@@ -100,6 +100,8 @@
 - [Yeshu](https://www.youtube.com/watch?v=hB7CDrVnNCs)
 - [Priyanshu Agarwal](https://github.com/23f2003488)
 - [Nikhil Rajbhar](https://github.com/NikhilRajbhar111)
+- [Nicolas Alves](https://github.com/NickeAlves)
+- [Michael S]
 - [LiuSam](https://www.youtube.com/CommitKU)
 - leee
 - [Buzz] Grok
