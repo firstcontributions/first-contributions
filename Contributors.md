@@ -1095,5 +1095,5 @@
 - [lucifer]
 - [tappe9](https://github.com/tappe9)
 - 侯文卓[https://github.com/wenzhuo4657]
--[Sheraz Malik](https://github.com/sheraz-El)
+- [Sheraz Malik](https://github.com/sheraz-El)
 
