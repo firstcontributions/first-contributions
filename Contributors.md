@@ -1325,6 +1325,7 @@ Leahylin
 - [Piyachetnoy](https://github.com/Piyachetnoy)
 - [Antoniorodr](https://github.com/antoniorodr)
 - [Lohith Reddy](https://github.com/Lohith-11)
+- [Newerton] (https://github.com/newerton)
 - [Talanti Arun](https://github.com/talantiarun)
 - [Liam Horton](https://github.com/Liam-Horton)
 - [Kalmykov Nikita](https://github.com/nknk39)
