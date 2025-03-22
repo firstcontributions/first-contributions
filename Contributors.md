@@ -67,6 +67,7 @@
 - [Shubha Bhat](https://github.com/syshubha)
 - [Pravallika Pulipaka](https://github.com/pravallikapulipaka)
 - Sam
+- [Raisul Islam Rifat](https://github.com/skywalker478)
 - [ZelenovicA](https://github.com/ZelenovicA)
 - Zeddie
 - [Timothy Phan](https://github.com/TimothyPhan2)
