@@ -1313,4 +1313,5 @@ Zues
 - [Hamza RAHAL](https://github.com/hmz-rhl)
 - [AbdallaSamirKhalifa](https://github.com/AbdallaSamirKhalifa)
 - [Yash](https://github.com/yashbhappa)
+- [Alan Benny](https://github.com/AlanBennyOfficial)
 
