@@ -102,6 +102,7 @@
 - [Nikhil Rajbhar](https://github.com/NikhilRajbhar111)
 - [Nicolas Alves](https://github.com/NickeAlves)
 - [Michael S]
+- [Kadeem George]
 - [LiuSam](https://www.youtube.com/CommitKU)
 - leee
 - [Buzz] Grok
