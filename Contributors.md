@@ -3,8 +3,10 @@
 -[Lovnish Verma]-(https://github.com/lovnishverma)
 -[Rohit Kumar](https://github.com/kumarrohitdev)
 [Tejaswi Saraswathi](https://github.com/Tejaswi1305)
+-[CHITRANSH PRASANNA](https://github.com/Chitransh1011)
 
 -[Vyshnavi Jammi]-(https://github.com/vyshnaviJammi)
+- [Adam Abgao] - (https://github.com/adamabgao?tab=repositories)
 -[shetloorrahul]-(https://github.com/shetloorrahul)
 -[Krishna Gollavilli]-(https://github.com/SvachutaGollavilli)
 -[Nadupuru Harshitha]-(https://github.com/Harshitha2300033363)
@@ -21,9 +23,12 @@
 - [Harlan Enciso](https://github.com/harlanenciso112)
 - [JorgeGallegos] (https://github.com/JorgeGallegos8)
 - [StevenHall] (https://github.com/PedanticSteve)
+- [Leonardo Teodoro](https://github.com/LeonardoTeodoroSantos)
+- [Hamed Haghani](https://github.com/HamedHaghani)
 - [KingTroy125](https://github.com/KingTroy125)
 - [Ivo-velev] (https://github.com/Ivo-velev)
 - [INPATHTAMILAN](https://github.com/tamilan3)
+- [ Jayanth](https;//github.com/18jayanth)
 - [Varsha Gajula](https://github.com/varsha359)
 - [ashykng](https://github.com/ashykng)
 - [Hans Kalders](https://github.com/hansk112)
@@ -48,6 +53,7 @@
 - [Abhishek Negi](https://github.com/abhi-negii7)
 - [Jonah Deschenes](https://github.com/JMDeschenes13)
 - [Shubha Bhat](https://github.com/syshubha)
+- [Pravallika Pulipaka](https://github.com/pravallikapulipaka)
 - Sam
 - [ZelenovicA](https://github.com/ZelenovicA)
 - Zeddie
@@ -95,6 +101,7 @@
 - [Steve Yadav](https://github.com/lucifer47C)
 - [Ctrshift-Pm](https://github.com/Ctrshift-Pm)
 - [Janani](https://github.com/cjanani)
+Zues
 - [Nayan](https://github.com/NayanUnni95)
 - [Nahom](https://github.com/NahomWondimu)
 - [Sakshi Jaiswal](https://github.com/Sakshijazz)
@@ -112,6 +119,7 @@
 - [balakumaran-ks](https://github.com/balakumaran-ks)
 - [levo](https://github.com/LeVo011)
 - [HVentura 👋](https://github.com/hventura)
+- [jvleesenb](https://github.com/meatlake)
 - [Cedrick](https://github.com/Cedrick-Deguzman)
 - [Carburio](https://github.com/Carburio)
 - [Amit Patil](https://github.com/meAmitPatil)
@@ -647,6 +655,7 @@
 - [Andyple](https://github.com/andyple)
 - [psp0](https://github.com/psp0)
 - Egor Kravchenko
+- [mohammadanas51](https://github.com/mohammadanas51)
 - [isaacbelles](https://github.com/isaacbelles)
 - [Shoaib Shuja](https://github.com/ShoaibShuja)
 - [brunoblaise](https://github.com/brunoblaise)
@@ -1300,3 +1309,4 @@
 - [Kalmykov Nikita](https://github.com/nknk39)
 - [Tyler Wolfe](https://github.com/JustSomeGuyy)
 - [Aaron Li](https://github.com/aaronlee916)
+- [AbdallaSamirKhalifa](https://github.com/AbdallaSamirKhalifa)
