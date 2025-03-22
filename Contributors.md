@@ -500,6 +500,7 @@ Zues
 - [PhamNguyenDangHuy](https://github.com/pndh)
 - [BinhTran2307](my first contribution)
 - [smandadhi9](https://github.com/smandadhi9)
+- [Mateus Cruz](https://github.com/Mdacruzrego)
 - [Umang Agarwal](https://github.com/UmangAgarwal257)
 - [Magonborn](https://github.com/MagonBorn)
 - [ricor07](https://github.com/ricor07)
