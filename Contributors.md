@@ -1114,6 +1114,7 @@ Zues
 - [Naim Ahmad](https://github.com/Naim-Ahmad)
 - [Arco Kim](https://github.com/ArcoKim)
 - [archit singh chahuan](https://github.com/archit-8)
+- [ancientcommit](https://github.com/ancientcommit)
 - [Aditya](https://github.com/LogiqueClergyman)
 - [SohamKore](https://github.com/SohamKore)
 - [Israel N Precious](https://github.com/Precious000)
