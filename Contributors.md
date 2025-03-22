@@ -103,6 +103,7 @@
 - [Janani](https://github.com/cjanani)
 Zues
 - [Nayan](https://github.com/NayanUnni95)
+- [Arpit Dubey](https://github.com/Arpit1033)
 - [Nahom](https://github.com/NahomWondimu)
 - [Sakshi Jaiswal](https://github.com/Sakshijazz)
 - [Kaushik Ghorai](https://github.com/kaushikghorai)
