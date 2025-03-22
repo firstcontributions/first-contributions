@@ -4,7 +4,8 @@
 -[Lovnish Verma]-(https://github.com/lovnishverma)
 -[Rohit Kumar](https://github.com/kumarrohitdev)
 [Tejaswi Saraswathi](https://github.com/Tejaswi1305)
--[CHITRANSH PRASANNA](https://github.com/Chitransh1011)
+- [Leahylin](https://github.com/Leahylin0317)
+- [CHITRANSH PRASANNA](https://github.com/Chitransh1011)
 - [Eugenio Ramirez](https://github.com/madkng)
 - [Akhand](https://github.com/Akhand0ps)
 - [Thien-Phu Vo](https://github.com/phuvo05)
@@ -794,6 +795,7 @@ Zues
 - [BOUKARI Marfourz](https://github.com/Marfourz)
 - [Hillary Nyakundi](https://github.com/HillaryNyakundi)
 - [Claudio Jara](https://github.com/claudiojara)
+Leahylin
 - [Peter Hilbert](https://github.com/pehilbert)
 - [.kim](https//github.com/kim8584)
 - [Yeressil Taupiyk](https://github.com/BalmundSM)
