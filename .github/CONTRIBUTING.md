@@ -20,7 +20,7 @@ If you're making changes to a translation, please request a review from our prev
 | Belarusian | [Belarusian](../translations/README.by.md) | []() |
 | Català | [Catalan](../translations/README.ca.md) | [<img width="100" src="https://avatars0.githubusercontent.com/u/16263046?s=460&v=4" alt="@Sergih28" />](https://github.com/Sergih28) |
 | čeština | [Czech](../translations/README.cs.md) | []() |
-| Danish | [Danish](../translations/README.da.md) | [<img width="100" src="https://avatars1.githubusercontent.com/u/15271858?s=460&v=4" alt="@7013145" />](https://github.com/7013145) |
+| Danish | [Danish](../translations/README.da.md) | [<img width="100" src="https://avatars1.githubusercontent.com/u/15271858?s=460&v=4" alt="@7013145" />](https://github.com/7013145) |priyam
 | Deutsch | [German](../translations/README.de.md) | [<img width="100" src="https://avatars3.githubusercontent.com/u/22977266?s=460&v=4" alt="@lkreimann" />](https://github.com/lkreimann) |
 | المصرية | [Egyptian](../translations/README.eg.md) | [<img width="100" src="https://avatars0.githubusercontent.com/u/12827629?s=460&v=4" alt="@MichaelKMalak" />](https://github.com/MichaelKMalak) |
 | English (Pirate) | [English (Pirate)](../translations/README.en-pirate.md) | [<img width="100" src="https://avatars0.githubusercontent.com/u/956290?s=460&v=4" alt="@lukeoliff" />](https://github.com/lukeoliff) |
