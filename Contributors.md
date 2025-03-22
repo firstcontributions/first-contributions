@@ -4,7 +4,7 @@
 -[Rohit Kumar](https://github.com/kumarrohitdev)
 [Tejaswi Saraswathi](https://github.com/Tejaswi1305)
 -[CHITRANSH PRASANNA](https://github.com/Chitransh1011)
-
+-[Akhand](https://github.com/Akhand0ps)
 -[Vyshnavi Jammi]-(https://github.com/vyshnaviJammi)
 - [Adam Abgao] - (https://github.com/adamabgao?tab=repositories)
 -[shetloorrahul]-(https://github.com/shetloorrahul)
