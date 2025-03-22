@@ -1308,5 +1308,6 @@ Zues
 - [Kalmykov Nikita](https://github.com/nknk39)
 - [Tyler Wolfe](https://github.com/JustSomeGuyy)
 - [Aaron Li](https://github.com/aaronlee916)
+- [Hamza RAHAL](https://github.com/hmz-rhl)
 - [AbdallaSamirKhalifa](https://github.com/AbdallaSamirKhalifa)
 
