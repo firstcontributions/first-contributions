@@ -1,30 +1,30 @@
 ---
-name: Suggest changes
-about: If you want to report a bug or suggest improvements, please open an issue.
-title: ''
-labels: discussion, question
-assignees: Roshanjossey
-
+name: Suggest Changes  
+about: Report a bug, propose an improvement, or discuss potential enhancements.  
+title: ''  
+labels: discussion, question  
+assignees: Roshanjossey  
 ---
 
-<!--- Provide a general summary of the issue in the Title above -->
-<!-- Make sure that you've read through https://github.com/firstcontributions/first-contributions/issues/35892 and understand the design of this project. If you have questions about it, please write a comment in that issue. -->
+<!--- Thank you for taking the time to contribute! Please provide a clear and concise summary of your issue below. -->  
+<!--- Before submitting, make sure you've read through the project's design: https://github.com/firstcontributions/first-contributions/issues/35892 -->  
+<!--- If you have any questions, feel free to ask in that issue. -->  
 
-🐞 **Problem**
-<!--- Provide a detailed description of the change or addition you are proposing -->
-<!--- If it is a feature or a bug, what problem is it solving-->
+## 🐞 Problem  
+<!--- Describe the issue or feature request in detail. What problem does it solve? -->  
 
-🎯 **Goal**
-<!--- Why is this change important to you? How would you use it? -->
-<!--- How can it benefit other users? -->
+## 🎯 Goal  
+<!--- Why is this change important? How will it improve the project? -->  
+<!--- How can it benefit other contributors and users? -->  
 
-💡 **Possible solutions**
-<!--- Not obligatory, but suggest an idea for implementing addition or change -->
+## 💡 Possible Solutions  
+<!--- Optional: Suggest possible ways to address the issue. -->  
 
-📋  **Steps to solve the problem**
+## 📋 Steps to Resolve  
 
-*   Comment below about what you've started working on.
-*   Add, commit, push your changes.
-*   Submit a pull request and add this in comments - `Addresses #<put issue number here>`
-*   Ask for reviews in comments section of pull request.
-*   Celebrate your contribution to this project. 🎉
+1. Comment below about what you're working on.  
+2. Make your changes, then add, commit, and push them.  
+3. Submit a pull request, mentioning this issue: `Addresses #<issue_number>`.  
+4. Request reviews in the pull request comments.  
+5. Celebrate your contribution! 🎉  
+
