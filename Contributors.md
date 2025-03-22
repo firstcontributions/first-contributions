@@ -1147,6 +1147,7 @@ Leahylin
 - [Joanna McDonald](https://github.com/joannamcd)
 - [AkinduID](https://github.com/AkinduID)
 - [Tianna Lopes](https://github.com/TiannaLopes)
+- [Taha Sdq](https://github.com/Tahasdq)
 - [dDevAhmed](https://github.com/dDevAhmed/)
 - [WaiyakiDev](https://github.com/MONSURU-rgb)
 - [toya33](https://github.com/toya33)
