@@ -136,6 +136,7 @@ Zues
 - [HVentura 👋](https://github.com/hventura)
 - [jvleesenb](https://github.com/meatlake)
 - [Cedrick](https://github.com/Cedrick-Deguzman)
+- [Kmogun](https://github.com/kmogun)
 - [Carburio](https://github.com/Carburio)
 - [Amit Patil](https://github.com/meAmitPatil)
 - [Aritra Mukherjee](https://github.com/maritra)
