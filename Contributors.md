@@ -1318,6 +1318,7 @@ Leahylin
 - [Aniket] (https://github.com/aniketr3)
 - [Chinmoy Ranjan] (https://github.com/thegreekgoat98)
 - [Raviteja Guntaka] (https://github.com/raviteja-reddy-guntaka)
+- [Jia Tianzhao](https://github.com/2306187715)
 - [Pearl](https://github.com/e-s-l)
 - [Adam Almuhtaseb](https://github.com/adamuhtaseb04)
 - [wedgestar] (https://github.com/wedgestar/)
