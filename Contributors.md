@@ -6,6 +6,7 @@
 -[CHITRANSH PRASANNA](https://github.com/Chitransh1011)
 
 -[Vyshnavi Jammi]-(https://github.com/vyshnaviJammi)
+- [Adam Abgao] - (https://github.com/adamabgao?tab=repositories)
 -[shetloorrahul]-(https://github.com/shetloorrahul)
 -[Krishna Gollavilli]-(https://github.com/SvachutaGollavilli)
 -[Nadupuru Harshitha]-(https://github.com/Harshitha2300033363)
