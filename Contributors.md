@@ -108,6 +108,7 @@ Zues
 - [Kaushik Ghorai](https://github.com/kaushikghorai)
 - [Pranshu Rakhecha](https://github.com/pranshurakhecha)
 - [Ngoc Phuong Vi Nguyen](https://github.com/phuongvinguyen)
+- [Bhagyashree](https://github.com/bhagyashree-j)
 - [Sowndhariya](https://github.com/sowndhariyasugan)
 - [Anay](https://github.com/Anay-Patil)
 - [Argha Saha](https://github.com/arg387)
