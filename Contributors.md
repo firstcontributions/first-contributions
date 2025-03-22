@@ -1236,6 +1236,7 @@ Leahylin
 - [Jannik](https://github.com/JannikSteuk)
 - [Mebanteidor M Syiem](https://github.com/teidorS)
 - [Sinchana Kumbale](https://github.com/sinchana-kumbale)
+- [chambora](https://github.com/chambora1312)
 - [Yuvraj Singh Wahla](https://github.com/yuvraj-singh08)
 - [Adrià Escandell](https://github.com/AdriiE17)
 - [Roberto Cárdenas](https://github.com/BrokenRoto)
