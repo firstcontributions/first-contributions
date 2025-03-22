@@ -5,6 +5,7 @@
 [Tejaswi Saraswathi](https://github.com/Tejaswi1305)
 
 -[Vyshnavi Jammi]-(https://github.com/vyshnaviJammi)
+- [Adam Abgao] - (https://github.com/adamabgao?tab=repositories)
 -[shetloorrahul]-(https://github.com/shetloorrahul)
 -[Nadupuru Harshitha]-(https://github.com/Harshitha2300033363)
 -[Sneha Latha Reddy]-(https://github.com/Snehareddy5566)
