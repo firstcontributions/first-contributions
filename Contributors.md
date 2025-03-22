@@ -24,6 +24,7 @@
 - [JorgeGallegos] (https://github.com/JorgeGallegos8)
 - [StevenHall] (https://github.com/PedanticSteve)
 - [Leonardo Teodoro](https://github.com/LeonardoTeodoroSantos)
+- [Hamed Haghani](https://github.com/HamedHaghani)
 - [KingTroy125](https://github.com/KingTroy125)
 - [Ivo-velev] (https://github.com/Ivo-velev)
 - [INPATHTAMILAN](https://github.com/tamilan3)
