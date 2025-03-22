@@ -1080,6 +1080,7 @@ Zues
 - [Kazuho](https://github.com/kzhgit)
 - [zaki1228](https://github.com/zaki1228)
 - [kmkkiii](https://github.com/kmkkiii) 🐢
+- [Omar Emad](https://github.com/OM3X4)
 - [Kevin Koech](https://github.com/kevinkoech357)
 - [Kevin Subbotin](https://github.com/KevinSubbotin)
 - [Shoury Singh](https://github.com/shourysingh07)
