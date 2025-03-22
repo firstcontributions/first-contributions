@@ -5,6 +5,7 @@
 -[Rohit Kumar](https://github.com/kumarrohitdev)
 [Tejaswi Saraswathi](https://github.com/Tejaswi1305)
 -[CHITRANSH PRASANNA](https://github.com/Chitransh1011)
+- [Eugenio Ramirez](https://github.com/madkng)
 - [Akhand](https://github.com/Akhand0ps)
 - [Thien-Phu Vo](https://github.com/phuvo05)
 -[Vyshnavi Jammi]-(https://github.com/vyshnaviJammi)
