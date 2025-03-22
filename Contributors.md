@@ -1315,6 +1315,7 @@ Leahylin
 - [Moses Hong] (https://github.com/Moses249)
 - [Dennis Guaman](https://github.com/guzmi25)
 - [Manish](https://github.com/Manish187738)
+- [René Elbracht](https://github.com/reelxi)
 - [Aniket] (https://github.com/aniketr3)
 - [Lionel Benvino](https://github.com/LionelBenvino)
 - [Chinmoy Ranjan] (https://github.com/thegreekgoat98)
