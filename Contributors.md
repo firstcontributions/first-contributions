@@ -192,6 +192,7 @@ Zues
 - [artistique1](https://github.com/artistique1)
 - [Abhay](https://github.com/abhayiscoding)
 - [Jenny Martin](https://github.com/jmartinDS14)
+- [Ametoj Singh](https://github.com/singamet)
 - [CynthiaWahome](https://github.com/CynthiaWahome)
 - [JWD](https://github.com/JWD-101)
 - [Torres Martinez]
