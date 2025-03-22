@@ -738,6 +738,7 @@ Zues
 - [Rion Sato](https://github.com/Rion-Sato)
 - [Daniel Cursi](https://github.com/danielcursi)
 - [Giovanna Cortez](https://github.com/annavoigg)
+- [Ashish Jadhav](https://github.com/Ashish1022)
 - [janGithub122](https://github.com/janGithub122)
 - [Mehfila Parkkulthil](https://github.com/Mehfila123)
 - [Hardik Khandal](https://github.com/hardikkhandal)
