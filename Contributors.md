@@ -1412,6 +1412,7 @@
 - [Prabhleen Kaur](https://github.com/prbhleeen)
 - [Priyadarshan Garg](https://github.com/Priyadarshan-Garg)
 - [Michael L.](https://github.com/michaellau410)
+- [Sushmoy Nandi](https://github.com/Sushmoy-Nandi)
 - [Pranitha P](https://github.com/pranitha174)
 - [Flashpogu](https://githib.com/flashpogu)
 - [Satyajit Behera](https://github.com/Capchi079)
