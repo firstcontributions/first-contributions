@@ -2,6 +2,7 @@
 
 - [Deepika Reddy](https://github.com/klu2300031389)
 - [heer](https://github.com/gunheerahuja)
+- [Fahim_Al_Rashid](https://github.com/fahimar)
 - [Virat Shandilya](https://github.com/viraaattttt)
 - [Pratham Jaiswal](https://github.com/PrathamJaiswal9)
 - [Tejaswi Saraswathi](https://github.com/Tejaswi1305)
