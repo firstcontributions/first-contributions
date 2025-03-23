@@ -779,6 +779,7 @@
 - [Ashish Jadhav](https://github.com/Ashish1022)
 - [janGithub122](https://github.com/janGithub122)
 - [Mehfila Parkkulthil](https://github.com/Mehfila123)
+- [Seul](https://github.com/seulahn)
 - [Hardik Khandal](https://github.com/hardikkhandal)
 - [Julius Jones](https://github.com/jlwj22)
 - [Dave Friedman](https://github.com/heracliteanflux)
