@@ -1,7 +1,7 @@
 # Contributors
 
 - [Deepika Reddy](https://github.com/klu2300031389) 
-- [Fahim_Al_Rashid]-(https://github.com/fahimar)
+- [Fahim_Al_Rashid](https://github.com/fahimar)
 - [heer](https://github.com/gunheerahuja)
 - [Virat Shandilya](https://github.com/viraaattttt)
 - [Pratham Jaiswal](https://github.com/PrathamJaiswal9)
@@ -1413,6 +1413,7 @@
 - [Prabhleen Kaur](https://github.com/prbhleeen)
 - [Priyadarshan Garg](https://github.com/Priyadarshan-Garg)
 - [Michael L.](https://github.com/michaellau410)
+- [Sushmoy Nandi](https://github.com/Sushmoy-Nandi)
 - [Pranitha P](https://github.com/pranitha174)
 - [Flashpogu](https://githib.com/flashpogu)
 - [Satyajit Behera](https://github.com/Capchi079)
