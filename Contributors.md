@@ -859,6 +859,7 @@ Leahylin
 - [Michelle Mullane](https://github.com/MichelleMullane)
 - [omartrese](https://github.com/omartrese)
 - [Guru Balamurugan](https://github.com/guru-apr21)
+- [Jo Ensal](https://github.com/Yzquile)
 - [Hu TianHang](https://github.com/HTH24)
 - [Patrick Yeung](https://github.com/eampat)
 - [Leonardo Lopes](https://github.com/leonardo-lopes-br)
