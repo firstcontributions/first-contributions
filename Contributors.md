@@ -1,7 +1,7 @@
 # Contributors
 
 - [Deepika Reddy](https://github.com/klu2300031389) 
--[Fahim_Al_Rashid]-(https://github.com/fahimar)
+- [Fahim_Al_Rashid]-(https://github.com/fahimar)
 - [heer](https://github.com/gunheerahuja)
 - [Virat Shandilya](https://github.com/viraaattttt)
 - [Pratham Jaiswal](https://github.com/PrathamJaiswal9)
