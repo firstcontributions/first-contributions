@@ -1,6 +1,8 @@
 # Contributors
+
 - [Deepika Reddy](https://github.com/klu2300031389)
 - [heer](https://github.com/gunheerahuja)
+- [Pratham Jaiswal] (https://github.com/PrathamJaiswal9)
 - [Virat Shandilya] (https://github.com/viraaattttt)
 - [Tejaswi Saraswathi](https://github.com/Tejaswi1305)
 - [Maxi Candia](https://github.com/MaxiCandiaJara)
@@ -78,7 +80,7 @@
 - [Ahmed Elskh](https://github.com/ahmedelshkh)
 - [Maria Vilela]
 - [vansh]
-[Shailesh Sharma](https://github.com/Chinipanda)
+  [Shailesh Sharma](https://github.com/Chinipanda)
 - [Eduardo Chaparro Huaman](https://github.com/Eduardo-v01)
 - [Robbe Van Herpe](https://github.com/Robbevanherpe1)
 - [Sam Shattock](https://github.com/Shatt85)
@@ -122,7 +124,7 @@
 - [Steve Yadav](https://github.com/lucifer47C)
 - [Ctrshift-Pm](https://github.com/Ctrshift-Pm)
 - [Janani](https://github.com/cjanani)
-Zues
+  Zues
 - [Nayan](https://github.com/NayanUnni95)
 - [Arpit Dubey](https://github.com/Arpit1033)
 - [Nahom](https://github.com/NahomWondimu)
@@ -823,7 +825,7 @@ Zues
 - [BOUKARI Marfourz](https://github.com/Marfourz)
 - [Hillary Nyakundi](https://github.com/HillaryNyakundi)
 - [Claudio Jara](https://github.com/claudiojara)
-Leahylin
+  Leahylin
 - [Peter Hilbert](https://github.com/pehilbert)
 - [.kim](https//github.com/kim8584)
 - [Yeressil Taupiyk](https://github.com/BalmundSM)
@@ -1286,8 +1288,7 @@ Leahylin
 - [TaeYeong Jeong](https://github.com/dev-taeyeong)
 - [hdh](https://github.com/hdh0)
 - [Sreedhar](https://github.com/Sreedharreddymukkamalla)
-- [nordicgoddess](https://github.com/NordicGoddess)
--[Sreedhar](https://github.com/Sreedharreddymukkamalla)
+- [nordicgoddess](https://github.com/NordicGoddess) -[Sreedhar](https://github.com/Sreedharreddymukkamalla)
 - [Abdelrahman Ahmed](https://github.com/AbdelrahmanSuliman)
 - [Mauricio Colque](https://github.com/maurom02)
 - [Govind Singh](https://github.com/govinds9)
@@ -1373,9 +1374,7 @@ Leahylin
 - [Iker Martínez.](https://github.com/moimenta84)
 - [Tarun Nallabelli](https://github.com/tnallabelli)
 - [Jeremiah](https://github.com/wuss26f)
-- [Sabrina Ornelas] (https://github.com/MargotGirl21)
- -[kazurem](https://github.com/kazurem)
- -[Youssef Allali](https://github.com/youssefallalix)
+- [Sabrina Ornelas] (https://github.com/MargotGirl21) -[kazurem](https://github.com/kazurem) -[Youssef Allali](https://github.com/youssefallalix)
 - [Asad Bakhsh] (https://github.com/Asadbakhsh2412)
 - [Aviv Nur](https://github.com/avivnur)
 - [Nayamat-E-Meet](https://github.com/NAYAMATVISION)
