@@ -541,6 +541,7 @@ Zues
 - [Jaydeep Khandla](https://github.com/jaydeep-khandla/)
 - [Jobin Jose](https://github.com/jobin8921)
 - [Abie Anders R](https://github.com/AbieAnders)
+- [Anderson Gomes](https://github.com/andersongomes001)
 - [Kanishk Shukla](https://github.com/Kanishk819)
 - [Goyomix325](https://github.com/Goyomix325)
 - [sakib maniyar](https://github.com/Saquib45)
