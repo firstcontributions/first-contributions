@@ -92,6 +92,7 @@
 - [Shubham Mate](https://github.com/Shubham-Mate)
 - [Anand](https://github.com/CRAnand-pro)
 - [Gabor Pusztai](https://github.com/GaborPusztai)
+- [Ivan Torres](https://github.com/Ivan-Torres1)
 - [Pratik](https://github.com/pratik2374)
 - [Fwank](https://github.com/yo-frank)
 - [Jisnoo Dev Pal](https://github.com/jisnoo123)
