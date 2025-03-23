@@ -1379,6 +1379,7 @@ Leahylin
 - [Nayamat-E-Meet](https://github.com/NAYAMATVISION)
 - [Davinah](https://github.com/Userdavinah)
 - [David Heeren](https://github.com/davidheeren)
+- [Aryeh Abramovitz](https://github.com/amaryeh)
 - [Jiabei Luo](https://github.com/jluo9612)
 - [B Suraj Patra](https://github.com/bsurajpatra)
 - [Abhay Dhiman ](https://github.com/AbhayDhiman23)
