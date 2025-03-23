@@ -106,6 +106,7 @@
 - [Nicolas Alves](https://github.com/NickeAlves)
 - [Michael S]
 - [Kadeem George]
+- [Ameer Radhi]
 - [LiuSam](https://www.youtube.com/CommitKU)
 - leee
 - [Buzz] Grok
