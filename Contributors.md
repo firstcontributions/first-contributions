@@ -1,6 +1,9 @@
 # Contributors
+
+- [Deepika Reddy](https://github.com/klu2300031389)
 - [heer](https://github.com/gunheerahuja)
 - [Virat Shandilya](https://github.com/viraaattttt)
+- [Pratham Jaiswal](https://github.com/PrathamJaiswal9)
 - [Tejaswi Saraswathi](https://github.com/Tejaswi1305)
 - [Maxi Candia](https://github.com/MaxiCandiaJara)
 - [Abhishek Maurya](https://github.com/abhishek-maurya576)
@@ -77,11 +80,12 @@
 - [Ahmed Elskh](https://github.com/ahmedelshkh)
 - [Maria Vilela]
 - [vansh]
-[Shailesh Sharma](https://github.com/Chinipanda)
+  [Shailesh Sharma](https://github.com/Chinipanda)
 - [Eduardo Chaparro Huaman](https://github.com/Eduardo-v01)
 - [Robbe Van Herpe](https://github.com/Robbevanherpe1)
 - [Sam Shattock](https://github.com/Shatt85)
 - [Harish](https://github.com/harish-167)
+- [Shubham Mate](https://github.com/Shubham-Mate)
 - [Anand](https://github.com/CRAnand-pro)
 - [Gabor Pusztai](https://github.com/GaborPusztai)
 - [Pratik](https://github.com/pratik2374)
@@ -106,6 +110,7 @@
 - [Nicolas Alves](https://github.com/NickeAlves)
 - [Michael S]
 - [Kadeem George]
+- [Ameer Radhi]
 - [LiuSam](https://www.youtube.com/CommitKU)
 - leee
 - [Buzz] Grok
@@ -119,7 +124,7 @@
 - [Steve Yadav](https://github.com/lucifer47C)
 - [Ctrshift-Pm](https://github.com/Ctrshift-Pm)
 - [Janani](https://github.com/cjanani)
-Zues
+  Zues
 - [Nayan](https://github.com/NayanUnni95)
 - [Arpit Dubey](https://github.com/Arpit1033)
 - [Nahom](https://github.com/NahomWondimu)
@@ -495,6 +500,7 @@ Zues
 - [OmkarS](https://github.com/omkar402)
 - [Suresh Deora](https://github.com/SureshDeora)
 - [Mohanshi Jain](https://github.com/Mohanshi04)
+- [Subhiksha Rao](https://github.com/subikrao)
 - [traf nosleep](https://github.com/ayohsan)
 - [eesoyeon](https://github.com/eesoyeon)
 - [Tournoy Noa](https://github.com/)
@@ -819,7 +825,7 @@ Zues
 - [BOUKARI Marfourz](https://github.com/Marfourz)
 - [Hillary Nyakundi](https://github.com/HillaryNyakundi)
 - [Claudio Jara](https://github.com/claudiojara)
-Leahylin
+  Leahylin
 - [Peter Hilbert](https://github.com/pehilbert)
 - [.kim](https//github.com/kim8584)
 - [Yeressil Taupiyk](https://github.com/BalmundSM)
@@ -1282,8 +1288,7 @@ Leahylin
 - [TaeYeong Jeong](https://github.com/dev-taeyeong)
 - [hdh](https://github.com/hdh0)
 - [Sreedhar](https://github.com/Sreedharreddymukkamalla)
-- [nordicgoddess](https://github.com/NordicGoddess)
--[Sreedhar](https://github.com/Sreedharreddymukkamalla)
+- [nordicgoddess](https://github.com/NordicGoddess) -[Sreedhar](https://github.com/Sreedharreddymukkamalla)
 - [Abdelrahman Ahmed](https://github.com/AbdelrahmanSuliman)
 - [Mauricio Colque](https://github.com/maurom02)
 - [Govind Singh](https://github.com/govinds9)
@@ -1369,18 +1374,18 @@ Leahylin
 - [Iker Martínez.](https://github.com/moimenta84)
 - [Tarun Nallabelli](https://github.com/tnallabelli)
 - [Jeremiah](https://github.com/wuss26f)
-- [Sabrina Ornelas] (https://github.com/MargotGirl21)
- -[kazurem](https://github.com/kazurem)
- -[Youssef Allali](https://github.com/youssefallalix)
+- [Sabrina Ornelas] (https://github.com/MargotGirl21) -[kazurem](https://github.com/kazurem) -[Youssef Allali](https://github.com/youssefallalix)
 - [Asad Bakhsh] (https://github.com/Asadbakhsh2412)
 - [Aviv Nur](https://github.com/avivnur)
 - [Nayamat-E-Meet](https://github.com/NAYAMATVISION)
 - [Davinah](https://github.com/Userdavinah)
 - [David Heeren](https://github.com/davidheeren)
+- [Aryeh Abramovitz](https://github.com/amaryeh)
 - [Jiabei Luo](https://github.com/jluo9612)
 - [B Suraj Patra](https://github.com/bsurajpatra)
 - [Abhay Dhiman ](https://github.com/AbhayDhiman23)
 - [Junaid Ali Khan](https://github.com/juna0704)
+- [ Akash ](https://github.com/akashyadv03)
 - [Firas Ridene](https://github.com/RideneFiras)
 - [meowmeow](https://github.com/true-meowmeow) 🤯
 - [Joey The 33rd](https://github.com/joey-the-33rd)
@@ -1403,3 +1408,7 @@ Leahylin
 - [Alan Benny](https://github.com/AlanBennyOfficial)
 - [Prabhleen Kaur](https://github.com/prbhleeen)
 - [Priyadarshan Garg](https://github.com/Priyadarshan-Garg)
+- [Michael L.](https://github.com/michaellau410)
+- [Pranitha P](https://github.com/pranitha174)
+- [Flashpogu](https://githib.com/flashpogu)
+- [Soumyaatanna](https://github.com/Soumyaatanna)
