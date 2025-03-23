@@ -2,8 +2,8 @@
 
 - [Deepika Reddy](https://github.com/klu2300031389)
 - [heer](https://github.com/gunheerahuja)
-- [Pratham Jaiswal] (https://github.com/PrathamJaiswal9)
-- [Virat Shandilya] (https://github.com/viraaattttt)
+- [Virat Shandilya](https://github.com/viraaattttt)
+- [Pratham Jaiswal](https://github.com/PrathamJaiswal9)
 - [Tejaswi Saraswathi](https://github.com/Tejaswi1305)
 - [Maxi Candia](https://github.com/MaxiCandiaJara)
 - [Abhishek Maurya](https://github.com/abhishek-maurya576)
