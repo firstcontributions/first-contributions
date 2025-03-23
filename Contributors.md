@@ -1393,6 +1393,7 @@
 - [meowmeow](https://github.com/true-meowmeow) 🤯
 - [Joey The 33rd](https://github.com/joey-the-33rd)
 - [Piyachetnoy](https://github.com/Piyachetnoy)
+- [Ashutosh Thakur](https://github.com/Ashutosh1999112)
 - [Antoniorodr](https://github.com/antoniorodr)
 - [Lohith Reddy](https://github.com/Lohith-11)
 - [Newerton] (https://github.com/newerton)
