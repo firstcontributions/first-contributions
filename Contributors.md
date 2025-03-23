@@ -83,6 +83,7 @@
 - [Robbe Van Herpe](https://github.com/Robbevanherpe1)
 - [Sam Shattock](https://github.com/Shatt85)
 - [Harish](https://github.com/harish-167)
+- [Shubham Mate](https://github.com/Shubham-Mate)
 - [Anand](https://github.com/CRAnand-pro)
 - [Gabor Pusztai](https://github.com/GaborPusztai)
 - [Pratik](https://github.com/pratik2374)
