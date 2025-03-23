@@ -30,6 +30,8 @@
 - [Eugenio Ramirez](https://github.com/madkng)
 - [Akhand](https://github.com/Akhand0ps)
 - [Thien-Phu Vo](https://github.com/phuvo05)
+- [Vyshnavi Jammi](https://github.com/vyshnaviJammi)
+- [Ayush Jadaun](https://github.com/ayush-jadaun)
 - [Kaung Min Htet](https://github.com/kaungminhtet-swe)
 - [Adam Abgao](https://github.com/adamabgao?tab=repositories)
 - [Kenny92dev](https://github.com/Kenny92dev)
