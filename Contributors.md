@@ -1426,3 +1426,4 @@
 - [Priyam Kumar](https://github.com/priyamkumar)
 - [Shruti Memane](https://github.com/shrutimemane)
 - [Patricia Kimmerle](https://github.com/PFKimmerle)
+- [Darshil Shah](https://github.com/nameisdarshil)
