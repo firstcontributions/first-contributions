@@ -782,6 +782,7 @@
 - [Mehfila Parkkulthil](https://github.com/Mehfila123)
 - [Seul](https://github.com/seulahn)
 - [Hardik Khandal](https://github.com/hardikkhandal)
+- [Vaishnavi](https://github.com/vaishnavi20git)
 - [Julius Jones](https://github.com/jlwj22)
 - [Dave Friedman](https://github.com/heracliteanflux)
 - [Pankaj Monga](https://github.com/p-monga)
