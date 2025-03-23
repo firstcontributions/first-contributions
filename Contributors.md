@@ -1418,3 +1418,4 @@
 - [Satyajit Behera](https://github.com/Capchi079)
 - [Soumyaatanna](https://github.com/Soumyaatanna)
 - [Priyam Kumar](https://github.com/priyamkumar)
+- [Shruti Memane](https://github.com/shrutimemane)
