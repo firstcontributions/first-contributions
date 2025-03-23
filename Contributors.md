@@ -1412,5 +1412,6 @@
 - [Michael L.](https://github.com/michaellau410)
 - [Pranitha P](https://github.com/pranitha174)
 - [Flashpogu](https://githib.com/flashpogu)
+- [Satyajit Behera](https://github.com/Capchi079)
 - [Soumyaatanna](https://github.com/Soumyaatanna)
 - [Priyam Kumar](https://github.com/priyamkumar)
