@@ -1,4 +1,5 @@
 # Contributors
+- [Deepika Reddy](https://github.com/klu2300031389)
 - [heer](https://github.com/gunheerahuja)
 - [Virat Shandilya] (https://github.com/viraaattttt)
 - [Tejaswi Saraswathi](https://github.com/Tejaswi1305)
