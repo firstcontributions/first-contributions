@@ -5,6 +5,7 @@
 - [Eekshitha Vemula](https://github.com/eekshitha1)
 - [Nirbhay Pratap Singh](https://github.com/NirbhayPS)
 - [heer](https://github.com/gunheerahuja)
+- [ZhIIhaoc](https://github.com/ZhIIhaoc)
 - [Fahim_Al_Rashid](https://github.com/fahimar)
 - [Virat Shandilya](https://github.com/viraaattttt)
 - [Pratham Jaiswal](https://github.com/PrathamJaiswal9)
