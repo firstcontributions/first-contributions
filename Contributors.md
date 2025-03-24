@@ -16,6 +16,7 @@
 - [Abubakkar Khan](https://github.com/Abubakkar-Khan)
 - [Rohit Kumar](https://github.com/kumarrohitdev)
 - [Tejaswi Saraswathi](https://github.com/Tejaswi1305)
+- [Selvaraj Muthaiyah](https://github.com/selvarajmuthaiyah)
 - [Dev Iyer](https://github.com/midaz)
 - [Leahylin](https://github.com/Leahylin0317)
 - [CHITRANSH PRASANNA](https://github.com/Chitransh1011)
