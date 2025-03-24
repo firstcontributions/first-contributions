@@ -1,6 +1,7 @@
 # Contributors
 
 - [Joe Akroush] (https://github.com/reloadjoefromkokomo)
+- [mazezen](https://github.com/mazezen)
 - [Deepika Reddy](https://github.com/klu2300031389)
 - [Eekshitha Vemula](https://github.com/eekshitha1)
 - [Nirbhay Pratap Singh](https://github.com/NirbhayPS)
