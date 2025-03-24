@@ -41,6 +41,7 @@
 - [preethi0297](https://github.com/Preethi0297)
 - [ASA666](https://github.com/ASA-666)
 - [pyraminx](https://github.com/pyraminx123)
+- [KALEAB II](https://github.com/kaleab49)
 - [Kenny92dev](https://github.com/Kenny92dev)
 - [Silvia-Zh](https://github.com/Silvia-Zh)
 - [Kenny92dev](https://github.com/Kenny92dev)
