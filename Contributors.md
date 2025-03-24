@@ -1436,5 +1436,6 @@
 - [Priyam Kumar](https://github.com/priyamkumar)
 - [Shruti Memane](https://github.com/shrutimemane)
 - [Patricia Kimmerle](https://github.com/PFKimmerle)
+- [Darshil Shah](https://github.com/nameisdarshil)
 - [Joseph M V](https://github.com/joseph-mv)
 - [Aatrey Sahay](https://github.com/aatrey56)
