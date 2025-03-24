@@ -3,6 +3,7 @@
 - [Abhishek Maurya](https://github.com/abhishek-maurya576)
 -[Lovnish Verma]-(https://github.com/lovnishverma)
 -[Rohit Kumar](https://github.com/kumarrohitdev)
+-[Rishav Mondal](https://github.com/CallSignRishav)
 [Tejaswi Saraswathi](https://github.com/Tejaswi1305)
 -[CHITRANSH PRASANNA](https://github.com/Chitransh1011)
 
