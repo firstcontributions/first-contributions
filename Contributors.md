@@ -315,6 +315,7 @@
 - [GabboRocchia](https://github.com/GabboRocchia)
 - [Tawheed Ahmed](https://github.com/TawheedAhmed28)
 - [Aarush-Parashar](https://github.com/Aarush-Parashar)
+- [Vidisha Raut] (https://github.com/vidisharaut)
 - [Ronahi Bağcı](https://github.com/RonayBagci)
 - [AhmedRediwan](https://github.com/ahmed12-dev)
 - [Erpipemio](https://github.com/Erpipemio)
