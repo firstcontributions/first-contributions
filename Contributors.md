@@ -1442,3 +1442,4 @@
 - [Joseph M V](https://github.com/joseph-mv)
 - [Aatrey Sahay](https://github.com/aatrey56)
 - [Kevin Yao](https://github.com/kevinyao0901)
+- [Hiroto Kurokawa](https://github.com/hirotoKurokawaTnptine)
