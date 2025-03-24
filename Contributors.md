@@ -1,4 +1,5 @@
 # Contributors
+
 - [Vasudeva Cuddapah](https://github.com/NitishCuddapah)
 - [Joe Akroush](https://github.com/reloadjoefromkokomo)
 - [mazezen](https://github.com/mazezen)
@@ -22,6 +23,7 @@
 - [Dev Iyer](https://github.com/midaz)
 - [Leahylin](https://github.com/Leahylin0317)
 - [CHITRANSH PRASANNA](https://github.com/Chitransh1011)
+- [Abdul Muksit](https://github.com/Muksit86)
 - [Eugenio Ramirez](https://github.com/madkng)
 - [Akhand](https://github.com/Akhand0ps)
 - [Thien-Phu Vo](https://github.com/phuvo05)
