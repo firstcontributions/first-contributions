@@ -11,6 +11,7 @@
 - [ZhIIhaoc](https://github.com/ZhIIhaoc)
 - [Fahim_Al_Rashid](https://github.com/fahimar)
 - [Virat Shandilya](https://github.com/viraaattttt)
+- [Muhammad Sidik](https://github.com/msidik01)
 - [Pratham Jaiswal](https://github.com/PrathamJaiswal9)
 - [Tejaswi Saraswathi](https://github.com/Tejaswi1305)
 - [Matteo Grosso](https://github.com/matteo00gm)
