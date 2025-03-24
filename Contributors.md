@@ -11,6 +11,7 @@
 - [Virat Shandilya](https://github.com/viraaattttt)
 - [Pratham Jaiswal](https://github.com/PrathamJaiswal9)
 - [Tejaswi Saraswathi](https://github.com/Tejaswi1305)
+- [Matteo Grosso](https://github.com/matteo00gm)
 - [Maxi Candia](https://github.com/MaxiCandiaJara)
 - [Abhishek Maurya](https://github.com/abhishek-maurya576)
 - [Darshil Shah](https://github.com/nameisdarshil)
