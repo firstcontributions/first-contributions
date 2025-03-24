@@ -394,3 +394,16 @@ desktop.ini
 
 .codegpt
 .qodo
+# Ignore log files
+*.log
+
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore environment variables
+*.env
+
+# Ignore system files (macOS, Windows)
+.DS_Store
+Thumbs.db
+

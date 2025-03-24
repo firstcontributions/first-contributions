@@ -250,3 +250,28 @@ Now let's get you started with contributing to other projects. We've compiled a 
     <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_horizontal_blue.svg" width="201px">
   </a>
 </p>
+# FIRST-CONTRIBUTIONS
+
+## Description
+This repository is designed to help beginners make their first open-source contributions. It provides a step-by-step guide on how to fork, clone, make changes, and create a pull request.
+
+## Installation Steps
+1. **Fork this repository** by clicking the "Fork" button on GitHub.
+2. **Clone your forked repository** to your local machine:
+    ```bash
+    git clone https://github.com/your-username/FIRST-CONTRIBUTIONS.git
+    ```
+3. Navigate into the project directory:
+    ```bash
+    cd FIRST-CONTRIBUTIONS
+    ```
+4. Make your changes and commit them.
+5. Push your changes and create a pull request.
+
+## Usage
+- Use this repository to practice contributing to open source.
+- Follow the guide to understand Git workflows.
+
+## Contributing
+- Feel free to open an issue or a pull request if you find any improvements.
+
