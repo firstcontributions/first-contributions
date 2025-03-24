@@ -4,6 +4,7 @@
 - [mazezen](https://github.com/mazezen)
 - [Deepika Reddy](https://github.com/klu2300031389)
 - [Eekshitha Vemula](https://github.com/eekshitha1)
+- [Rishav Mondal](https://github.com/CallSignRishav)
 - [Nirbhay Pratap Singh](https://github.com/NirbhayPS)
 - [heer](https://github.com/gunheerahuja)
 - [ZhIIhaoc](https://github.com/ZhIIhaoc)
