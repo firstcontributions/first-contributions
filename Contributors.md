@@ -1,6 +1,6 @@
 # Contributors
-
-- [Joe Akroush] (https://github.com/reloadjoefromkokomo)
+- [Vasudeva Cuddapah](https://github.com/NitishCuddapah)
+- [Joe Akroush](https://github.com/reloadjoefromkokomo)
 - [mazezen](https://github.com/mazezen)
 - [Deepika Reddy](https://github.com/klu2300031389)
 - [Eekshitha Vemula](https://github.com/eekshitha1)
