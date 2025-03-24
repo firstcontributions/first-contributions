@@ -1,4 +1,5 @@
 # Contributors
+
 - [Vasudeva Cuddapah](https://github.com/NitishCuddapah)
 - [Joe Akroush](https://github.com/reloadjoefromkokomo)
 - [mazezen](https://github.com/mazezen)
@@ -1395,6 +1396,7 @@
 - [Jeremiah](https://github.com/wuss26f)
 - [Sabrina Ornelas] (https://github.com/MargotGirl21) -[kazurem](https://github.com/kazurem) -[Youssef Allali](https://github.com/youssefallalix)
 - [Asad Bakhsh] (https://github.com/Asadbakhsh2412)
+- [Ronak Dagale] (https://github.com/Ronak-Dagale)
 - [Aviv Nur](https://github.com/avivnur)
 - [Nayamat-E-Meet](https://github.com/NAYAMATVISION)
 - [Davinah](https://github.com/Userdavinah)
