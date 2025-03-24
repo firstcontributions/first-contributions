@@ -9,6 +9,7 @@
 - [Tejaswi Saraswathi](https://github.com/Tejaswi1305)
 - [Maxi Candia](https://github.com/MaxiCandiaJara)
 - [Abhishek Maurya](https://github.com/abhishek-maurya576)
+- [Darshil Shah](https://github.com/nameisdarshil)
 - [Lovnish Verma](https://github.com/lovnishverma)
 - [Abubakkar Khan](https://github.com/Abubakkar-Khan)
 - [Rohit Kumar](https://github.com/kumarrohitdev)
