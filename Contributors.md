@@ -258,6 +258,7 @@
 - [Abhishek Kumar](https://github.com/abhishekkr8399)
 - [Aryan Joshi] (https://github.com/AryanJoshi2108)
 - [Fco Birr](https://github.com/FcoBirr)
+- [Vedant Garg][https://github.com/VedantG479]
 - [Rajesh Khanna] (https://github.com/Rajeshkris2)
 - [joserata] (https://github.com/joserata/first-contributions.git)
 - [Sanidhya Soni](https://github.com/sonisanidhya)
