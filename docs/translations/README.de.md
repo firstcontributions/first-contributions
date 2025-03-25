@@ -108,7 +108,8 @@ Roshan Jossey wird nun deine Änderungen in den Master Branch dieses Projekts me
 
 Glückwunsch! Du hast so eben den Standard-Workflow _Fork -> Clone -> Edit -> Pull Request_ beendet, der dir als Mitwirkender häufig begegnen wird.
 
-Feiere deinen Beitrag zum Projekt und teile ihn mit deinen Freunden und Followern über unsere [Web-App](https://firstcontributions.github.io/#social-share).
+Falls du noch mehr üben möchtest, schau Dir das [Code-Contributions Repository](https://github.com/roshanjossey/code-contributions) an.
+
 
 Wenn Du noch mehr üben möchtest, schau Dir das [Code-Contributions Repository] (https://github.com/roshanjossey/code-contributions) an.
 Falls du jetzt zu anderen Projekten beitragen möchtest, dann haben wir für dich eine Liste von einfachen, ersten Issues zusammengestellt, an denen du arbeiten kannst. Diese Projekt-Liste findest du [in unserer Web-App](https://firstcontributions.github.io/#project-list).
