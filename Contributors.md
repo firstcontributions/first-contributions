@@ -482,6 +482,7 @@
 - [HiroseTakuya](https://github.com/hiro-tech-taku/)
 - [Joncineus](https://github.com/joncineus)
 - [Krishiv](https://github.com/Krizzhiv)
+- [Pavani](https://github.com/PavaniMuppalla29)
 - [John J](https://github.com/john310897)
 - [Vivek-Ch](https://github.com/vivekchadaram9)
 - [JoachimC](https://github.com/Joachim280)
