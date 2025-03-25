@@ -1460,4 +1460,5 @@
 - [Kevin Yao](https://github.com/kevinyao0901)
 - [Hiroto Kurokawa](https://github.com/hirotoKurokawaTnptine)
 - [Raihan Khairul Rochman](https://github.com/raihankr)
-
+- [Wataru Shiga](https://github.com/Wataru-Shiga)
+- [Raihan Khairul Rochman](https://github.com/raihankr)
