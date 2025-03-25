@@ -1124,6 +1124,7 @@
 - [Muhammed Yaseen Sidhik](https://github.com/Nosawkid)
 - [Irfan](https://github.com/0xNafri)
 - [Phorian](https://github.com/phorian)
+- [Yuki Tajima](https://github.com/yt-catpaw)
 - [Omari Fahd](https://github.com/sarsa2012)
 - [sumiyak96](https://github.com/sumiyak96)
 - [Robert Judal Regalado](https://github.com/rojre1979)
