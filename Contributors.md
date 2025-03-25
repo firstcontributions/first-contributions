@@ -8,6 +8,7 @@
 - [Eekshitha Vemula](https://github.com/eekshitha1)
 - [Rishav Mondal](https://github.com/CallSignRishav)
 - [Gustave.A Ilunga](https://github.com/Gvstave)
+- [Anthony M. Mwila](https://github.com/anthonymmwila)
 - [Samson Kwizela](https://github.com/SamsonKwizela)
 - [Nirbhay Pratap Singh](https://github.com/NirbhayPS)
 - [heer](https://github.com/gunheerahuja)
