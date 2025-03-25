@@ -79,6 +79,7 @@
 - [Eris Kasa](https://github.com/eriskasa)
 - [Timur Malkoc](https://github.com/TimurMalkc)
 - [Vijaya](https://github.com/Vijayaa21)
+- [Cindy Dang](https://github.com/cindyddang)
 - [Gustavo William](https://github.com/alt-gusta)
 - [Aryan Srivastava] (https://github.com/AryanSrivastava15)
 - [Tinotenda Mhedziso](https://github.com/Passion-Over-Pain)
