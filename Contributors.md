@@ -1466,5 +1466,6 @@
 - [Hiroto Kurokawa](https://github.com/hirotoKurokawaTnptine)
 - [Wataru Shiga](https://github.com/Wataru-Shiga)
 - [Raihan Khairul Rochman](https://github.com/raihankr)
+- [DCRC](https://github.com/RC-95)
 - [Kopai](https://github.com/kopai11)
 - [Daniel Bessa](https://github.com/dwbessa)
