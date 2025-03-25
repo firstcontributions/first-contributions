@@ -25,6 +25,7 @@
 - [Tejaswi Saraswathi](https://github.com/Tejaswi1305)
 - [Sivaani Janaswamy](https://github.com/Sivaani-Janaswamy)
 - [Matteo Grosso](https://github.com/matteo00gm)
+- [Dev Patel](https://github.com/Devpatel224)
 - [Maxi Candia](https://github.com/MaxiCandiaJara)
 - [Abhishek Maurya](https://github.com/abhishek-maurya576)
 - [Roman Sokolov](https://github.com/rmhodus)
