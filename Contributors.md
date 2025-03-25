@@ -1462,3 +1462,4 @@
 - [Wataru Shiga](https://github.com/Wataru-Shiga)
 - [Raihan Khairul Rochman](https://github.com/raihankr)
 - [Kopai](https://github.com/kopai11)
+- [Daniel Bessa](https://github.com/dwbessa)
