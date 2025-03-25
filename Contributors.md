@@ -1457,4 +1457,5 @@
 - [Aatrey Sahay](https://github.com/aatrey56)
 - [Kevin Yao](https://github.com/kevinyao0901)
 - [Hiroto Kurokawa](https://github.com/hirotoKurokawaTnptine)
+- [Wataru Shiga](https://github.com/Wataru-Shiga)
 - [Raihan Khairul Rochman](https://github.com/raihankr)
