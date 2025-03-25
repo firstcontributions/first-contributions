@@ -96,6 +96,7 @@
 - [Shubha Bhat](https://github.com/syshubha)
 - [Pravallika Pulipaka](https://github.com/pravallikapulipaka)
 - Sam
+- [AnonymousTies](https://github.com/InnovatorMind)
 - [Raisul Islam Rifat](https://github.com/skywalker478)
 - [ZelenovicA](https://github.com/ZelenovicA)
 - Zeddie
