@@ -18,6 +18,7 @@
 - [Fahim_Al_Rashid](https://github.com/fahimar)
 - [Virat Shandilya](https://github.com/viraaattttt)
 - [Muhammad Sidik](https://github.com/msidik01)
+- [Gowtham Raj](https://github.com/Fizzy-Brain)
 - [Pratham Jaiswal](https://github.com/PrathamJaiswal9)
 - [Tejaswi Saraswathi](https://github.com/Tejaswi1305)
 - [Sivaani Janaswamy](https://github.com/Sivaani-Janaswamy)
