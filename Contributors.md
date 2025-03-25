@@ -827,6 +827,7 @@
 - [Dave Friedman](https://github.com/heracliteanflux)
 - [Pankaj Monga](https://github.com/p-monga)
 - [Chandan Ravi](https://github.com/chandanravic)
+- [Sayyid Sajad](https://github.com/sayyidsajad)
 - [Vicente Guzmán](https://vicenteguzman.com/)
 - [Vinit Jahagirdar](https://github.com/Vinit1909)
 - [Bam](https://github.com/QBJ08)
