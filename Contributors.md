@@ -1,5 +1,5 @@
 # Contributors
-- [Stephen Kotiang](https://github.com/kotiang54)
+- [Stephen K](https://github.com/kotiang54)
 - [Vasudeva Cuddapah](https://github.com/NitishCuddapah)
 - [Joe Akroush](https://github.com/reloadjoefromkokomo)
 - [mazezen](https://github.com/mazezen)
