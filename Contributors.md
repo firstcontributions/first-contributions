@@ -775,6 +775,7 @@
 - [Robiya](https://github.com/rhakim24)
 - [Kit-Kat31415926](https://github.com/Kit-Kat31415926)
 - [Luís Simas](https://github.com/luissimas)
+- [Breno Sturmer] (https://github.com/bromo777)
 - [Länzlinger Jonas](https://github.com/jonaslanzlinger)
 - [Ramis Humayun](https://github.com/Ramis102)
 - [Polina Polupan](https://github.com/PolinaPolupan)
