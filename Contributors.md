@@ -11,6 +11,7 @@
 - [Gustave.A Ilunga](https://github.com/Gvstave)
 - [Anthony M. Mwila](https://github.com/anthonymmwila)
 - [Samson Kwizela](https://github.com/SamsonKwizela)
+- [Irakiza Divine](https://github.com/DivineIrakiza)
 - [Nirbhay Pratap Singh](https://github.com/NirbhayPS)
 - [heer](https://github.com/gunheerahuja)
 - [ZhIIhaoc](https://github.com/ZhIIhaoc)
