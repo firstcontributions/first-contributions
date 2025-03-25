@@ -20,6 +20,7 @@
 - [Muhammad Sidik](https://github.com/msidik01)
 - [Pratham Jaiswal](https://github.com/PrathamJaiswal9)
 - [Tejaswi Saraswathi](https://github.com/Tejaswi1305)
+- [Sivaani Janaswamy](https://github.com/Sivaani-Janaswamy)
 - [Matteo Grosso](https://github.com/matteo00gm)
 - [Maxi Candia](https://github.com/MaxiCandiaJara)
 - [Abhishek Maurya](https://github.com/abhishek-maurya576)
