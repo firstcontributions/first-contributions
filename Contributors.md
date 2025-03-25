@@ -1493,3 +1493,5 @@
 - [Daniel Bessa](https://github.com/dwbessa)
 - [Modem Sai Deekshith](https://github.com/itzme-deekshith) 
 - [Chetan Palde](https://github.com/chetanpalde)
+- [Kruti Popat](https://github.com/kruti-popat)
+
