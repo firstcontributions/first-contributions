@@ -1,4 +1,5 @@
 # Contributors
+
 - [Stephen K](https://github.com/kotiang54)
 - [Vasudeva Cuddapah](https://github.com/NitishCuddapah)
 - [Joe Akroush](https://github.com/reloadjoefromkokomo)
@@ -1149,6 +1150,7 @@
 - [Omar Emad](https://github.com/OM3X4)
 - [Kevin Koech](https://github.com/kevinkoech357)
 - [Kevin Subbotin](https://github.com/KevinSubbotin)
+- [Tobi Falode](https://github.com/Thobbytosin)
 - [Shoury Singh](https://github.com/shourysingh07)
 - [Emmanuel Yegon](https://github.com/emmanuel-yegon)
 - [suga5314](https://github.com/sg5314)
