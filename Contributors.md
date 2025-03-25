@@ -1,4 +1,5 @@
 # Contributors
+
 - [Stephen K](https://github.com/kotiang54)
 - [Vasudeva Cuddapah](https://github.com/NitishCuddapah)
 - [Joe Akroush](https://github.com/reloadjoefromkokomo)
@@ -1378,6 +1379,7 @@
 - [Krit]
 - [Moses Hong] (https://github.com/Moses249)
 - [Dennis Guaman](https://github.com/guzmi25)
+- [Arjun Manjunath](https://github.com/arjunmnath)
 - [Manish](https://github.com/Manish187738)
 - [René Elbracht](https://github.com/reelxi)
 - [Aniket] (https://github.com/aniketr3)
@@ -1458,3 +1460,4 @@
 - [Kevin Yao](https://github.com/kevinyao0901)
 - [Hiroto Kurokawa](https://github.com/hirotoKurokawaTnptine)
 - [Raihan Khairul Rochman](https://github.com/raihankr)
+
