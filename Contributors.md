@@ -663,6 +663,7 @@
 - [bivekk51](https://github.com/bivekk51)
 - [barkinke](https://github.com/barkinke)
 - [Mamduh](https://github.com/Mamduh5)
+- [DarKouto](https://github.com/DarKouto)
 - [Nasrul](https://github.com/nnayz)
 - [AjaySinghKunwar](https://github.com/AjaySinghKunwar007)
 - [Felix Morara](https://github.com/felixmorara)
