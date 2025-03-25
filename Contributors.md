@@ -1461,3 +1461,4 @@
 - [Hiroto Kurokawa](https://github.com/hirotoKurokawaTnptine)
 - [Wataru Shiga](https://github.com/Wataru-Shiga)
 - [Raihan Khairul Rochman](https://github.com/raihankr)
+- [Kopai](https://github.com/kopai11)
