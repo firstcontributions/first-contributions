@@ -15,8 +15,11 @@
 - [Muhammad Sidik](https://github.com/msidik01)
 - [Pratham Jaiswal](https://github.com/PrathamJaiswal9)
 - [Tejaswi Saraswathi](https://github.com/Tejaswi1305)
+
 - [Matteo Grosso](https://github.com/matteo00gm)
+- [Dev Patel](https://github.com/Devpatel224)
 - [Maxi Candia](https://github.com/MaxiCandiaJara)
+-[]
 - [Abhishek Maurya](https://github.com/abhishek-maurya576)
 - [Darshil Shah](https://github.com/nameisdarshil)
 - [Lovnish Verma](https://github.com/lovnishverma)
