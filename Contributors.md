@@ -130,6 +130,7 @@
 - [KigulaJesse](https://github.com/KigulaJesse)
 - [Sitanshu Nandan](https://github.com/stansho)
 - [Nayabasetsi J. Kisowile](https://github.com/nas3ts)
+- [Diparna Adhikary](https://github.com/Diparna)
 - [ Anand S](https://github.com/anand1946s)
 - [Samarth Bedare](https://github.com/samarthbedare)
 - Rob Readling
