@@ -8,6 +8,7 @@
 - [Hrid1402](https://github.com/Hrid1402)
 - [Gabriel-Cintron](https://github.com/Gabriel-Cintron)
 - [mazezen](https://github.com/mazezen)
+- [Katherine Windatt](https://github.com/DiceTowerKitty)
 - [Deep Sutariya](https://github.com/d-sutariya)
 - [Harinder Singh Sudwal](https://github.com/Hsinghsudwal)
 - [Deepika Reddy](https://github.com/klu2300031389)
