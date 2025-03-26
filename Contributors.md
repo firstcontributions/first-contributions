@@ -77,6 +77,7 @@
 - [Kenny92dev](https://github.com/Kenny92dev)
 - [Harlan Enciso](https://github.com/harlanenciso112)
 - [JorgeGallegos](https://github.com/JorgeGallegos8)
+- [soundousbenziadi](https://github.com/soundousbenziadi)
 - [StevenHall](https://github.com/PedanticSteve)
 - [Leonardo Teodoro](https://github.com/LeonardoTeodoroSantos)
 - [Leonardo Saldaña](https://github.com/lpsaldana)
