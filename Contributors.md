@@ -1532,3 +1532,4 @@
 - [Mauricio Gonzalez](https://github.com/mauricio-gu2)
 - [Subhajit Roy](https://github.com/SubhajitRoy11)
 - [Michael Do](https://github.com/MichDoDoDo)
+- [Mahjour Oussama](https://github.com/OussamaMahjour)
