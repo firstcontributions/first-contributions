@@ -4,6 +4,7 @@
 - [Stephen K](https://github.com/kotiang54)
 - [Vasudeva Cuddapah](https://github.com/NitishCuddapah)
 - [Joe Akroush](https://github.com/reloadjoefromkokomo)
+- [Mostafa Fayazi](https://github.com/Mostafa-Phoenix)
 - [mazezen](https://github.com/mazezen)
 - [Deep Sutariya](https://github.com/d-sutariya)
 - [Harinder Singh Sudwal](https://github.com/Hsinghsudwal)
