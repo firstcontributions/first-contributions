@@ -1524,3 +1524,4 @@
 - [Muhammet Canlı](https://github.com/muhammetcnli)
 - [Milon Mete](https://github.com/Milon-Mete)
 - [Mauricio Gonzalez](https://github.com/mauricio-gu2)
+- [Subhajit Roy](https://github.com/SubhajitRoy11)
