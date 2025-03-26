@@ -1501,6 +1501,7 @@
 - [Raihan Khairul Rochman](https://github.com/raihankr)
 - [DCRC](https://github.com/RC-95)
 - [Kopai](https://github.com/kopai11)
+- [Rpqq](https://github.com/rpqq)
 - [Daniel Bessa](https://github.com/dwbessa)
 - [Modem Sai Deekshith](https://github.com/itzme-deekshith)
 - [Chetan Palde](https://github.com/chetanpalde)
