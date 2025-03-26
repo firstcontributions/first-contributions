@@ -1416,6 +1416,7 @@
 - [René Elbracht](https://github.com/reelxi)
 - [Aniket] (https://github.com/aniketr3)
 - [Lionel Benvino](https://github.com/LionelBenvino)
+- [Peter Jurek](https://github.com/Stuler)
 - [Chinmoy Ranjan] (https://github.com/thegreekgoat98)
 - [Raviteja Guntaka] (https://github.com/raviteja-reddy-guntaka)
 - [Jia Tianzhao](https://github.com/2306187715)
