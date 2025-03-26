@@ -7,6 +7,7 @@
 - [Mostafa Fayazi](https://github.com/Mostafa-Phoenix)
 - [Hrid1402](https://github.com/Hrid1402)
 - [Gabriel-Cintron](https://github.com/Gabriel-Cintron)
+- [ManueldG](https://github.com/ManueldG)
 - [mazezen](https://github.com/mazezen)
 - [Katherine Windatt](https://github.com/DiceTowerKitty)
 - [Deep Sutariya](https://github.com/d-sutariya)
