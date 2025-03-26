@@ -6,6 +6,7 @@
 - [Joe Akroush](https://github.com/reloadjoefromkokomo)
 - [Mostafa Fayazi](https://github.com/Mostafa-Phoenix)
 - [Hrid1402](https://github.com/Hrid1402)
+- [Gabriel-Cintron]{https/github.com/Gabriel-Cintron)
 - [mazezen](https://github.com/mazezen)
 - [Deep Sutariya](https://github.com/d-sutariya)
 - [Harinder Singh Sudwal](https://github.com/Hsinghsudwal)
