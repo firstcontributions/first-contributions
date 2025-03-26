@@ -1512,6 +1512,7 @@
 - [Daniel Bessa](https://github.com/dwbessa)
 - [Modem Sai Deekshith](https://github.com/itzme-deekshith)
 - [Chetan Palde](https://github.com/chetanpalde)
+- [Kruti Popat](https://github.com/kruti-popat)
 - [Baycan Vural](https://github.com/baycan)
 - [Yuchen Huang](https://github.com/StarfishJ)
 - [Foysal Ahmed Emon](http://github.com/emon535)
