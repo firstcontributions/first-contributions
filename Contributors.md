@@ -18,6 +18,7 @@
 - [Anthony M. Mwila](https://github.com/anthonymmwila)
 - [Samson Kwizela](https://github.com/SamsonKwizela)
 - [Irakiza Divine](https://github.com/DivineIrakiza)
+- [Darlene Ishimwe](https://github.com/DarleneIshimwe)
 - [Nirbhay Pratap Singh](https://github.com/NirbhayPS)
 - [heer](https://github.com/gunheerahuja)
 - [camonayc](https://github.com/camonayc)
