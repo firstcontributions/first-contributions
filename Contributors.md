@@ -48,6 +48,7 @@
 - [Dev Iyer](https://github.com/midaz)
 - [Leahylin](https://github.com/Leahylin0317)
 - [Vandana Kerketta](https://github.com/Vandy02)
+- [Matt Seal] (https://github.com/matt-seal)
 - [CHITRANSH PRASANNA](https://github.com/Chitransh1011)
 - [Abdul Muksit](https://github.com/Muksit86)
 - [rppgithub](https://github.com/rppgithub)
