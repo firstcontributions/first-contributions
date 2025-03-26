@@ -171,6 +171,7 @@
 - [Stephanie Chen] (https://github.com/stephaniechen58)
 - [njn](https://github.com/Njn03)
 - [Yadunand Kamath](https://github.com/yadunand-kamath)
+- [Manish Ambarwar](https://github.com/manish3299)
 - [Abdullah Asim](https://github.com/Abdulla-asim)
 - [Umer Aslam](https://github.com/umeraslam00)
 - [Steve Yadav](https://github.com/lucifer47C)
