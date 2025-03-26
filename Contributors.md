@@ -60,6 +60,7 @@
 - [Thien-Phu Vo](https://github.com/phuvo05)
 - [Vyshnavi Jammi](https://github.com/vyshnaviJammi)
 - [Donnie Pereira](https://github.com/DonniePereira)
+- [Timon Kayser](https://github.com/txmxn)
 - [Ayush Jadaun](https://github.com/ayush-jadaun)
 - [Karuna Nikam](https://github.com/krunanikam)
 - [Kaung Min Htet](https://github.com/kaungminhtet-swe)
