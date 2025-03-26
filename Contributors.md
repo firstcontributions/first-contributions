@@ -39,6 +39,7 @@
 - [Andrew Martinez](https://github.com/andymartinez1) I love contributing!
 - [Jas Singh](https://github.com/TheAlphaJas) Letsgooo
 - [Aqib Khan] (https://github.com/KAquib24)MY FIRST CONTRIBUTION!!!
+
 - [Ami-L] (https://github.com/amilia-n) Hi!! I love Techtonica!
 -[Rayclu](https://github.com/Rayclu) Hi!! I'm Claudio and THIS IS MY FIRST CONTRIBUTION, I'm crying because the emotion (It's a joke)
 - [Misavalmad](https://github.com/Misavalmad) I hope all of us achieve our goals
@@ -86,6 +87,7 @@
 - [Junior Atemebang Ashu](https://github.com/jxnior01) Great Tutorial!
 - [Ernest Whitehead](https://github.com/cliffy987) It's-a-me!
 - [Calvin Knowles](https://github.com/calvinknowles) GLHF!
+- [Manikiran](https://github.com/manikiran231) This Is My First Contribution guys.......
 - [Aryan Saraswat](https://github.com/Aryan-Saraswat05) let'ss goo
 - [Beau Desrosiers](https://github.com/BDesro) Hello and thank you!
 - [John Garry B. Tan](https://github.com/dev-rygar) Hello World, Pusangkuting is here!
