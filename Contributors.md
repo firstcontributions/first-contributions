@@ -54,6 +54,7 @@
 - [Vyshnavi Jammi](https://github.com/vyshnaviJammi)
 - [Donnie Pereira](https://github.com/DonniePereira)
 - [Ayush Jadaun](https://github.com/ayush-jadaun)
+- [Karuna Nikam](https://github.com/krunanikam)
 - [Kaung Min Htet](https://github.com/kaungminhtet-swe)
 - [Adam Abgao](https://github.com/adamabgao?tab=repositories)
 - [RedScare76](https://github.com/RedScare76)
