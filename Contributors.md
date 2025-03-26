@@ -1403,6 +1403,7 @@
 - [Tan ChiaYan](https://github.com/tchiayan)
 - [Yusup Maulana](https://github.com/yusupscopes)
 - [Hoa Hung](https://github.com/imandy63)
+- [Alex Lizondo](https://github.com/lizondoalex)
 - [Ariful Mowla](https://github.com/arifulmowla)
 - [Vinod Vijayan](https://github.com/vinod-421)
 - [Aly El-Badry](https://github.com/Ali-EL-Badry)
