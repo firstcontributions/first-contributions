@@ -26,6 +26,7 @@
 - [Pratham Jaiswal](https://github.com/PrathamJaiswal9)
 - [Tejaswi Saraswathi](https://github.com/Tejaswi1305)
 - [Sivaani Janaswamy](https://github.com/Sivaani-Janaswamy)
+- [Gage Morgan](https://github.com/gagem-sigsev)
 - [Matteo Grosso](https://github.com/matteo00gm)
 - [Dev Patel](https://github.com/Devpatel224)
 - [Maxi Candia](https://github.com/MaxiCandiaJara)
