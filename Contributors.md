@@ -50,7 +50,6 @@
 - [rppgithub](https://github.com/rppgithub)
 - [Eugenio Ramirez](https://github.com/madkng)
 - [Vamsi Krishna](https://github.com/vamsi-krish-chiguruwada)
-- [soundousbenziadi](https://github.com/soundousbenziadi)
 - [Akhand](https://github.com/Akhand0ps)
 - [Thien-Phu Vo](https://github.com/phuvo05)
 - [Vyshnavi Jammi](https://github.com/vyshnaviJammi)
