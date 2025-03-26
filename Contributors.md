@@ -999,6 +999,7 @@
 - [Sarvesh Bachute](https://github.com/sarry8901)
 - [Ala Gowtham Siva Kumar](https://github.com/gowtham-2oo5)
 - [Swapnilkumar Dwivedi](https://github.com/swappy-2003)
+- [Chang Shian Goh](https://github.com/changshiangoh)
 - [Gergely Kántor](https://github.com/kantorge)
 - [Antonimo](https://github.com/EAntonioFH)
 - [Aaron Tran](https://github.com/BobbyFergerson)
