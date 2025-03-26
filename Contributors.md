@@ -17,6 +17,7 @@
 - [Gustave.A Ilunga](https://github.com/Gvstave)
 - [Anthony M. Mwila](https://github.com/anthonymmwila)
 - [Samson Kwizela](https://github.com/SamsonKwizela)
+- [Arowolo Abimbola](https://github.com/ArowoloAbimbolaVictoria)
 - [Irakiza Divine](https://github.com/DivineIrakiza)
 - [Darlene Ishimwe](https://github.com/DarleneIshimwe)
 - [Nirbhay Pratap Singh](https://github.com/NirbhayPS)
