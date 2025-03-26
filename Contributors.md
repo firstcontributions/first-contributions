@@ -950,6 +950,7 @@
 - [Isabela Magalhães](https://github.com/isarbela)
 - [HiParham](https://github.com/hiparham)
 - [John Caleb ⚡](https://github.com/thejohncaleb)
+- [Nahuel Franco](https://github.com/NahuelNubiral)
 - [Rashmi Pai](https://github.com/RashmiRamdasPai)
 - [Rey Jao](https://github.com/jao-rey)
 - [Wessel Steenkamp](https://github.com/wesse206)
