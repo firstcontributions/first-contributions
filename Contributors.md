@@ -523,6 +523,7 @@
 - [Tzipi W](https://github.com/Tzipi-Winefeld)
 - [chandanvnk1](https://github.com/chandanvnk1)
 - [AdityaRaj212](https://github.com/AdityaRaj212)
+- [kbrooks81] (https://github.com/kbrooks81)
 - [AvAdiii](https://github.com/AvAdiii)
 - [Madhav Singh](https://github.com/maddy710)
 - [David Okosa](https://github.com/dfw7th)
