@@ -1512,3 +1512,4 @@
 - [Baycan Vural](https://github.com/baycan)
 - [Yuchen Huang](https://github.com/StarfishJ)
 - [Foysal Ahmed Emon](http://github.com/emon535)
+- [Gi Uk Kim](https://github.com/2897robo)
