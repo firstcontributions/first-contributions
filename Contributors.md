@@ -6,6 +6,7 @@
 - [Vasudeva Cuddapah](https://github.com/NitishCuddapah)
 - [Aditi Verma](https://github.com/aditi02verma)
 - [Joe Akroush](https://github.com/reloadjoefromkokomo)
+- [Robert Fodor](https://github.com/IngRobertFodor)
 - [Mostafa Fayazi](https://github.com/Mostafa-Phoenix)
 - [Hrid1402](https://github.com/Hrid1402)
 - [Mohit Choubey](https://github.com/mohitchoubey007)
