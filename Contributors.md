@@ -408,6 +408,7 @@
 - [Pujan Bohora](https://github.com/pujanbohora)
 - [Menahil](https://github.com/mena-aq)
 - [Yeaabsra Ashebir (tech nerd)](https://github.com/yeabnoah)
+- [Ro Shocks](https://github.com/Rshocks)
 - [PacOne] (https://github.com/pac1-lab/)
 - [Raghav Dwivedi](https://github.com/dwi4122)
 - [gabecodessometimes](https://github.com/gabecodessometimes)
