@@ -1,6 +1,7 @@
 # Contributors
 
 - [Abdelrhman Masoud](https://github.com/Abdomasoud)
+- [Coolgamer]
 - [Aditya ak](https://github.com/Adity-star)
 - [Misal Silva](https://github.com/MisalSilva)
 - [Stephen K](https://github.com/kotiang54)
