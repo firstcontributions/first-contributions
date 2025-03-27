@@ -147,6 +147,7 @@
   [Shailesh Sharma](https://github.com/Chinipanda)
 - [Saksham Gupta](https://github.com/sakshamgupta123)
 - [Eduardo Chaparro Huaman](https://github.com/Eduardo-v01)
+- [Ben Gaudry](https://github.com/bengaudry)
 - [Robbe Van Herpe](https://github.com/Robbevanherpe1)
 - [Sam Shattock](https://github.com/Shatt85)
 - [Harish](https://github.com/harish-167)
