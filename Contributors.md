@@ -7,6 +7,7 @@
 - [Joe Akroush](https://github.com/reloadjoefromkokomo)
 - [Mostafa Fayazi](https://github.com/Mostafa-Phoenix)
 - [Hrid1402](https://github.com/Hrid1402)
+- [Mohit Choubey](https://github.com/mohitchoubey007)
 - [Gabriel-Cintron](https://github.com/Gabriel-Cintron)
 - [ManueldG](https://github.com/ManueldG)
 - [mazezen](https://github.com/mazezen)
