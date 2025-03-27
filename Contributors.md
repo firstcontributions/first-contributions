@@ -71,6 +71,7 @@
 - [Nadupuru Harshitha](https://github.com/Harshitha2300033363)
 - [Rajiv Ranjan](https://github.com/rajeevrj256)
 - [Sneha Latha Reddy](https://github.com/Snehareddy5566)
+- [Pranaw Juyal](https://github.com/Pranaw-dev)
 - [RAGHUTTAMA K G](https://github.com/RAGHUTTAMA-DEV)
 - [xFooFoo](https://github.com/xFooFoo)
 - [whynot1963](https://github.com/whynot1963)
