@@ -66,6 +66,7 @@
 - [Kaung Min Htet](https://github.com/kaungminhtet-swe)
 - [Adam Abgao](https://github.com/adamabgao?tab=repositories)
 - [RedScare76](https://github.com/RedScare76)
+- [Anuvab Bikash Nayak](https://github.com/AnuvabNayak)
 - [shetloorrahul](https://github.com/shetloorrahul)
 - [Krishna Gollavilli](https://github.com/SvachutaGollavilli)
 - [Nadupuru Harshitha](https://github.com/Harshitha2300033363)
