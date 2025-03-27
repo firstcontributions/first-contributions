@@ -3,6 +3,7 @@
 - [Abdelrhman Masoud](https://github.com/Abdomasoud)
 - [Stephen K](https://github.com/kotiang54)
 - [Vasudeva Cuddapah](https://github.com/NitishCuddapah)
+- [Aditi Verma](https://github.com/aditi02verma)
 - [Joe Akroush](https://github.com/reloadjoefromkokomo)
 - [Mostafa Fayazi](https://github.com/Mostafa-Phoenix)
 - [Hrid1402](https://github.com/Hrid1402)
