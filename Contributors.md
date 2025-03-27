@@ -13,6 +13,7 @@
 - [Gabriel-Cintron](https://github.com/Gabriel-Cintron)
 - [ManueldG](https://github.com/ManueldG)
 - [mazezen](https://github.com/mazezen)
+- [Lakshay Bhatia](https://github.com/lakshayb30)
 - [Katherine Windatt](https://github.com/DiceTowerKitty)
 - [Deep Sutariya](https://github.com/d-sutariya)
 - [Harinder Singh Sudwal](https://github.com/Hsinghsudwal)
