@@ -541,6 +541,7 @@
 - [Ariyan Pandian](https://github.com/AriyanPandian)
 - [Iris Christa](https://github.com/I-christa)
 - [sadiqhero](https://github.com/sadiqhero)
+- [Zemenu Mekuria](https://github.com/Teklez)
 - [Caroline](https://github.com/perrywinkle2004)
 - [Victor Muthii](https://github.com/muthii-10)
 - [AkramMohammad](https://github.com/Akram1806)
