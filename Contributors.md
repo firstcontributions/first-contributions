@@ -86,6 +86,7 @@
 - [ASA666](https://github.com/ASA-666)
 - [pyraminx](https://github.com/pyraminx123)
 - [KALEAB II](https://github.com/kaleab49)
+- [Ioannis Christou] (https://github.com/yianchristou)
 - [Kenny92dev](https://github.com/Kenny92dev)
 - [Silvia-Zh](https://github.com/Silvia-Zh)
 - [Kenny92dev](https://github.com/Kenny92dev)
