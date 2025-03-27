@@ -930,6 +930,7 @@
 - [Leticia suzuki](https://github.com/Leticia567568)
 - [Letícia Reche](https://github.com/lereche)
 - [Albert Byrone](https://github.com/Albert-Byrone)
+- [iAdani](https://github.com/iAdani)
 - [zurfjereluhmie](https://github.com/zurfjereluhmie)
 - [Rishan Thangaraj](https://github.com/rishant3441)
 - [Anish Yalavarthi](https://github.com/AnishYalavarthi)
