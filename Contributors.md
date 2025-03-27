@@ -1,6 +1,7 @@
 # Contributors
 
 - [Abdelrhman Masoud](https://github.com/Abdomasoud)
+- [Misal Silva](https://github.com/MisalSilva) 
 - [Stephen K](https://github.com/kotiang54)
 - [Vasudeva Cuddapah](https://github.com/NitishCuddapah)
 - [Aditi Verma](https://github.com/aditi02verma)
