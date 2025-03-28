@@ -1,5 +1,6 @@
 # Contributors
 
+- [Spencer Linsner](https://github.com/slins1)
 - [Abdelrhman Masoud](https://github.com/Abdomasoud)
 - [Coolgamer]
 - [Aditya ak](https://github.com/Adity-star)
