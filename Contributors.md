@@ -699,6 +699,7 @@
 - [hide361](https://github.com/hide361)
 - [rujeetjahagirdar](https://github.com/rujeetjahagirdar)
 - [pateldevashish001](https://github.com/PatelDevashish001)
+- [Joel Anarba](https://github.com/joelanarba)
 - [NikitaJaiswal77](https://github.com/NikitaJaiswal77)
 - [sema-altinkaynak](https://github.com/sema-altinkaynak)
 - [Sarvesh](https://github.com/sarvesh-sr)
