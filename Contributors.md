@@ -135,6 +135,7 @@
 - [Dhayanithi](https://github.com/Dhayanithi-545)
 - [Vishnu Vardhan N](https://github.com/VishnuVardhanNk)
 - [Abhishek Negi](https://github.com/abhi-negii7)
+- [Tristan Henning] (https://github.com/tristanh-code)
 - [Teja Chalikanti](https://github.com/tchalikanti1705)
 - [Jonah Deschenes](https://github.com/JMDeschenes13)
 - [Shubha Bhat](https://github.com/syshubha)
