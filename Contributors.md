@@ -1578,4 +1578,6 @@
 - [jhsim](https://github.com/tnfhrnsss)
 - [Nyirigira Philippe](https://github.com/nyirigira)
 - [Dominic N](https://github.com/dnussgr/first-contributions)
+- [Reetam Dan](https://github.com/RD945)
 - [Buğra Emirhan Akkök](https://github.com/emirhann46)
+
