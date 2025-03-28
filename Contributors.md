@@ -23,6 +23,7 @@
 - [Harinder Singh Sudwal](https://github.com/Hsinghsudwal)
   [Harsh bhatia](https://github.com/h-bhatia)
 - [Deepika Reddy](https://github.com/klu2300031389)
+- [Edoardo De Rosa](https://github.com/edvelhope)
 - [Khushi nagaliya](https://github.com/Khushi1638)
 - [Eekshitha Vemula](https://github.com/eekshitha1)
 - [Rishav Mondal](https://github.com/CallSignRishav)
