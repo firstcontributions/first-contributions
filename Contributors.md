@@ -72,6 +72,7 @@
 - [Eugenio Ramirez](https://github.com/madkng)
 - [Vamsi Krishna](https://github.com/vamsi-krish-chiguruwada)
 - [Akhand](https://github.com/Akhand0ps)
+- [Reshma Shaik](https://github.com/Shaikr786)
 - [Thien-Phu Vo](https://github.com/phuvo05)
 - [Vyshnavi Jammi](https://github.com/vyshnaviJammi)
 - [Donnie Pereira](https://github.com/DonniePereira)
