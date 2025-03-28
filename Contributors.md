@@ -37,6 +37,7 @@
 - [heer](https://github.com/gunheerahuja)
 - [camonayc](https://github.com/camonayc)
 - [ZhIIhaoc](https://github.com/ZhIIhaoc)
+-[kenrodgers wainaina] (https://github.com/k3n-bat)
 - [Fahim_Al_Rashid](https://github.com/fahimar)
 - [Virat Shandilya](https://github.com/viraaattttt)
 - [Muhammad Sidik](https://github.com/msidik01)
@@ -1569,3 +1570,4 @@
 - [wishgr zhao](https://github.com/wishgr)
 - [hemanth3139](https://github.com/hemanth3139)
 - [jhsim](https://github.com/tnfhrnsss)
+- [Nyirigira Philippe](https://github.com/nyirigira)
