@@ -4,6 +4,7 @@
 - [Abdelrhman Masoud](https://github.com/Abdomasoud)
 - [Coolgamer]
 - [Aditya ak](https://github.com/Adity-star)
+  [Ajaypal Singh Sran](https://github.com/Ajayss04)
 - [Misal Silva](https://github.com/MisalSilva)
 - [Stephen K](https://github.com/kotiang54)
 - [Vasudeva Cuddapah](https://github.com/NitishCuddapah)
