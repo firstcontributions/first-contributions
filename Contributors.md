@@ -10,6 +10,7 @@
 - [Vasudeva Cuddapah](https://github.com/NitishCuddapah)
 - [north-calm] (https://github.com/north-calm)
 - [Aditi Verma](https://github.com/aditi02verma)
+- [Yashi Sharma](https://github.com/yashi-04)
 - [Joe Akroush](https://github.com/reloadjoefromkokomo)
 - [Robert Fodor](https://github.com/IngRobertFodor)
 - [Mostafa Fayazi](https://github.com/Mostafa-Phoenix)
