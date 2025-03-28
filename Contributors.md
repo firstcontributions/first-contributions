@@ -171,6 +171,7 @@
 - [Sitanshu Nandan](https://github.com/stansho)
 - [Nayabasetsi J. Kisowile](https://github.com/nas3ts)
 - [Diparna Adhikary](https://github.com/Diparna)
+- [Daniel Ricketts] (https://github.com/Melvo12)
 - [ Anand S](https://github.com/anand1946s)
 - [Samarth Bedare](https://github.com/samarthbedare)
 - Rob Readling
