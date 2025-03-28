@@ -1,6 +1,7 @@
 # Contributors
 
 - [Spencer Linsner](https://github.com/slins1)
+- [Daniel Echevarria](https://github.com/daniel-echevarria)
 - [Abdelrhman Masoud](https://github.com/Abdomasoud)
 - [Coolgamer]
 - [Aditya ak](https://github.com/Adity-star)
@@ -41,8 +42,7 @@
 - [Nirbhay Pratap Singh](https://github.com/NirbhayPS)
 - [heer](https://github.com/gunheerahuja)
 - [camonayc](https://github.com/camonayc)
-- [ZhIIhaoc](https://github.com/ZhIIhaoc)
--[kenrodgers wainaina] (https://github.com/k3n-bat)
+- [ZhIIhaoc](https://github.com/ZhIIhaoc) -[kenrodgers wainaina] (https://github.com/k3n-bat)
 - [Fahim_Al_Rashid](https://github.com/fahimar)
 - [Virat Shandilya](https://github.com/viraaattttt)
 - [Muhammad Sidik](https://github.com/msidik01)
@@ -1580,9 +1580,7 @@
 - [hemanth3139](https://github.com/hemanth3139)
 - [jhsim](https://github.com/tnfhrnsss)
 - [Nyirigira Philippe](https://github.com/nyirigira)
-- [Dominic N](https://github.com/dnussgr/first-contributions)
--[Cyriaque Koffi](https://github.com/Koffi413/first-contributions)
+- [Dominic N](https://github.com/dnussgr/first-contributions) -[Cyriaque Koffi](https://github.com/Koffi413/first-contributions)
 - [Buğra Emirhan Akkök](https://github.com/emirhann46)
-- [Rahul Bagul](https://github.com/rahul07bagul)
--[Keci chilala](https://github.com/Kchilala)
+- [Rahul Bagul](https://github.com/rahul07bagul) -[Keci chilala](https://github.com/Kchilala)
 - [Azgar Taj](https://github.com/azgartaj)
