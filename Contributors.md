@@ -1460,6 +1460,7 @@
 - ransomn(https://github.com/ransomn)
 - [Facundo Gómez](https://github.com/facundolgomez)
 - [Krit]
+- [uvindu]
 - [Moses Hong] (https://github.com/Moses249)
 - [Dennis Guaman](https://github.com/guzmi25)
 - [Manish](https://github.com/Manish187738)
