@@ -1562,6 +1562,7 @@
 - [Napakorn Sukkasem](https://github.com/napakornsk)
 - [salkaev]
 - [4devly]
+- [Vikas Seervi] (https://github.com/vikasseervi)
 - [Untitled Programmer](https://github.com/untitled-programmer)
 - [giorgioyu125](https://github.com/giorgioyu125/first-contributions)
 - [wishgr zhao](https://github.com/wishgr)
