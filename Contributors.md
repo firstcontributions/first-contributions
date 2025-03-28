@@ -31,6 +31,7 @@
 - [Anthony M. Mwila](https://github.com/anthonymmwila)
 - [Samson Kwizela](https://github.com/SamsonKwizela)
 - [Arowolo Abimbola](https://github.com/ArowoloAbimbolaVictoria)
+- [Ur Ya'ar](https://github.com/firubat)
 - [Irakiza Divine](https://github.com/DivineIrakiza)
 - [Darlene Ishimwe](https://github.com/DarleneIshimwe)
 - [Nirbhay Pratap Singh](https://github.com/NirbhayPS)
