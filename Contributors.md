@@ -1172,6 +1172,7 @@
 - [Haonan Lu](No link by now)
 - [Ambrose Matata](https://github.com/Masaku12)
 - [Trevor Carmack](http://github.com/tscarmack)
+- [Minseo] (https://github.com/Gimminse)
 - [ruvvan](https://github.com/ruvvan)
 - [Jayavardhan gorlamandala](No link sorry)
 - [Ashish Kumar](https://github.com/akdevv)
