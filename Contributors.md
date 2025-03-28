@@ -15,6 +15,7 @@
 - [Hrid1402](https://github.com/Hrid1402)
 - [Mohit Choubey](https://github.com/mohitchoubey007)
 - [Gabriel-Cintron](https://github.com/Gabriel-Cintron)
+- [Micheal-Ndoh](https://github.com/micheal-ndoh)
 - [ManueldG](https://github.com/ManueldG)
 - [mazezen](https://github.com/mazezen)
 - [Lakshay Bhatia](https://github.com/lakshayb30)
