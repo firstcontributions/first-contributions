@@ -1,6 +1,7 @@
 # Contributors
 
-- [niimma] (https://github.com/niimma)
+- [Sabona Waktole](https://github.com/SabonaWaktole)
+- [niimma](https://github.com/niimma)
 - [Spencer Linsner](https://github.com/slins1)
 - [Abdelrhman Masoud](https://github.com/Abdomasoud)
 - [Coolgamer]
