@@ -1429,6 +1429,7 @@
 - [Siheon](https://github.com/Danbaekman)
 - [Suman](https://github.com/SumanDeyDevOps/first-contributions)
 - [Jeanette Conklin](https://github.com/conklinj09)
+- [Yefry Sanchez](https://github.com/yefrysanchez)
 - [kmgan] (https://github.com/kmgan)
 - [Jewelle Vergara](https://github.com/wey02)
 - [PaniniRS](https://github.com/paninirs)
