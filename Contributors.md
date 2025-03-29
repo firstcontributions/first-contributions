@@ -4,6 +4,7 @@
 - [Spencer Linsner](https://github.com/slins1)
 - [Abdelrhman Masoud](https://github.com/Abdomasoud)
 - [Coolgamer]
+- [Sawyerlau](https://github.com/ccasJay)
 - [Saida] (https://github.com/sasasaida)
 - [Aditya ak](https://github.com/Adity-star)
   [Ajaypal Singh Sran](https://github.com/Ajayss04)
@@ -1596,6 +1597,7 @@
 - [jhsim](https://github.com/tnfhrnsss)
 - [Nyirigira Philippe](https://github.com/nyirigira)
 - [Dominic N](https://github.com/dnussgr/first-contributions)
+- [Buğra Emirhan Akkök](https://github.com/emirhann46)
 -[Cyriaque Koffi](https://github.com/Koffi413/first-contributions)
 - [Buğra Emirhan Akkök](https://github.com/emirhann46)
 - [Rahul Bagul](https://github.com/rahul07bagul)
