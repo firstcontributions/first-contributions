@@ -28,6 +28,7 @@
 - [Deepika Reddy](https://github.com/klu2300031389)
 - [Anna Re]
 - [Edoardo De Rosa](https://github.com/edvelhope)
+- [Syed Haris Bin Aamir](https://github.com/syedharis14)
 - [Khushi nagaliya](https://github.com/Khushi1638)
 - [Eekshitha Vemula](https://github.com/eekshitha1)
 - [Rishav Mondal](https://github.com/CallSignRishav)
