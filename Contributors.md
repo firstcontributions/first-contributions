@@ -356,6 +356,7 @@
 - [Kunga Derick Abongho](https://github.com/Dericko681)
 - [Stefano Fratello](https://github.com/sterik000)
 - [Linda Jennings](https://github.com/lindaJennings)
+- [ninet33n](https://github.com/meetVaidya)
 - [Jordan Atkins](https://github.com/Atkinss1)
 - [Sabittwa Banerjee](https://github.com/strangely-true)
 - [Ashmita120](https://github.com/Ashmita120)
