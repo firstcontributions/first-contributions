@@ -24,6 +24,7 @@
 - [Gabriel-Cintron](https://github.com/Gabriel-Cintron)
 - [Micheal-Ndoh](https://github.com/micheal-ndoh)
 - [ManueldG](https://github.com/ManueldG)
+- [MazenSamehR](https://github.com/MazenSamehR)
 - [mazezen](https://github.com/mazezen)
 - [Lakshay Bhatia](https://github.com/lakshayb30)
 - [Katherine Windatt](https://github.com/DiceTowerKitty)
@@ -1606,3 +1607,4 @@
 - [Md Nurul Amzad](https://github.com/nu-amzad)
 - [Salman Shahid](https://github.com/salman-281)
 - [Lakhshyaa](https://github.com/LAKHSHYAA)
+- [sn-ljh](https://github.com/sn-ljh)
