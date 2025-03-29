@@ -1,6 +1,7 @@
 # Contributors
 
 - [Sabona Waktole](https://github.com/SabonaWaktole)
+- [Satyam Mishra](https://github.com/satyPunk)
 - [niimma](https://github.com/niimma)
 - [Spencer Linsner](https://github.com/slins1)
 - [Abdelrhman Masoud](https://github.com/Abdomasoud)
