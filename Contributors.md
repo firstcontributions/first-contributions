@@ -1601,3 +1601,4 @@
 - [Igor Cap](https://github.com/Igor-Capdeville)
 - [Rajwinder Singh](https://github.com/rajwindersxxx)
 - [Ameya Lad 😊](https://github.com/ameya028)
+- [Md Nurul Amzad](https://github.com/nu-amzad)
