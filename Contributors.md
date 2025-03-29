@@ -40,6 +40,7 @@
 - [Edoardo De Rosa](https://github.com/edvelhope)
 - [Syed Haris Bin Aamir](https://github.com/syedharis14)
 - [Khushi nagaliya](https://github.com/Khushi1638)
+- [Rohan Gorvadiya](https://github.com/Rohangorvadia)
 - [Eekshitha Vemula](https://github.com/eekshitha1)
 - [Rishav Mondal](https://github.com/CallSignRishav)
 - [Racheal Milele](https://github.com/RachealMilele123)
