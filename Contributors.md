@@ -8,6 +8,7 @@
   [Ajaypal Singh Sran](https://github.com/Ajayss04)
 - [Misal Silva](https://github.com/MisalSilva)
 - [Stephen K](https://github.com/kotiang54)
+- [Bedelya] (https://github.com/Dazzlebutterfly)
 - [Vasudeva Cuddapah](https://github.com/NitishCuddapah)
 - [north-calm] (https://github.com/north-calm)
 - [Aditi Verma](https://github.com/aditi02verma)
