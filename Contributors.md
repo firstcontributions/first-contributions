@@ -1429,6 +1429,7 @@
 - [Siheon](https://github.com/Danbaekman)
 - [Suman](https://github.com/SumanDeyDevOps/first-contributions)
 - [Jeanette Conklin](https://github.com/conklinj09)
+- [Yefry Sanchez](https://github.com/yefrysanchez)
 - [kmgan] (https://github.com/kmgan)
 - [Jewelle Vergara](https://github.com/wey02)
 - [PaniniRS](https://github.com/paninirs)
@@ -1590,4 +1591,4 @@
 - [Rahul Bagul](https://github.com/rahul07bagul)
 -[Keci chilala](https://github.com/Kchilala)
 - [Azgar Taj](https://github.com/azgartaj)
-- [Yefry Sanchez](https://github.com/yefrysanchez)
+- [Igor Cap](https://github.com/Igor-Capdeville)
