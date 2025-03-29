@@ -14,6 +14,7 @@
 - [Yashi Sharma](https://github.com/yashi-04)
 - [Joe Akroush](https://github.com/reloadjoefromkokomo)
 - [Robert Fodor](https://github.com/IngRobertFodor)
+- [Irsyad](https://github.com/i230010)
 - [Mostafa Fayazi](https://github.com/Mostafa-Phoenix)
 - [Hrid1402](https://github.com/Hrid1402)
 - [Mohit Choubey](https://github.com/mohitchoubey007)
