@@ -303,6 +303,7 @@
 - [36borderless] (https://github.com/36borderless)
 - [Rudra] (github.com/ruudra03)
 - [0xjeji](https://github.com/0xjeji)
+- [Beetlesliu](https://github.com/Beetlesliu)
 - [artistique1](https://github.com/artistique1)
 - [Abhay](https://github.com/abhayiscoding)
 - [Jenny Martin](https://github.com/jmartinDS14)
