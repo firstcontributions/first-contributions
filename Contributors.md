@@ -1614,4 +1614,4 @@
 - [Salman Shahid](https://github.com/salman-281)
 - [Lakhshyaa](https://github.com/LAKHSHYAA)
 - [sn-ljh](https://github.com/sn-ljh)
-- [Harman Singh](https://github.com/harmanSinghX)
+- [Harman Singh Multani](https://github.com/harmanSinghX)
