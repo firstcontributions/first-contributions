@@ -207,7 +207,7 @@
 - [ Anand S](https://github.com/anand1946s)
 - [Samarth Bedare](https://github.com/samarthbedare)
 - Rob Readling
-- Omari Watson
+
 - [Abhinav Singh](https://github.com/Abhinav-kodes)
 - [Janardhan Polle](https://github.com/Jpisnice)
 - [John Wilkinson](https://github.com/dnCRevelation)
@@ -872,6 +872,7 @@
 - [Jonathan](https://github.com/JonathanCharles2003)
 - [Ishita](https://github.com/elekish)
 - Udhay
+- Omari Watson
 - [Shresta](https://github.com/g-shresta)
 - [Michael](https://github.com/LucidWinter)
 - [Phillip](gttps://github.com/PhillipSom)
