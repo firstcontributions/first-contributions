@@ -1572,6 +1572,7 @@
 - [Darshil Shah](https://github.com/nameisdarshil)
 - [Joseph M V](https://github.com/joseph-mv)
 - [Aatrey Sahay](https://github.com/aatrey56)
+- [Advait K](https://github.com/akin2662)
 - [Kevin Yao](https://github.com/kevinyao0901)
 - [KM0912](https://github.com/KM0912)
 - [Hiroto Kurokawa](https://github.com/hirotoKurokawaTnptine)
