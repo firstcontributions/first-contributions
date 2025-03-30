@@ -19,6 +19,7 @@
 - [Aditi Verma](https://github.com/aditi02verma)
 - [Yashwanth Santhanam](https://github.com/yash1thsa)
 - [Yashi Sharma](https://github.com/yashi-04)
+- [Eh Masuk](https://github.com/ehmasuk)
 - [Joe Akroush](https://github.com/reloadjoefromkokomo)
 - [Robert Fodor](https://github.com/IngRobertFodor)
 - [Irsyad](https://github.com/i230010)
