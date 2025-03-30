@@ -37,7 +37,7 @@
 - [Harinder Singh Sudwal](https://github.com/Hsinghsudwal)
   [Harsh bhatia](https://github.com/h-bhatia)
 - [Deepika Reddy](https://github.com/klu2300031389)
-- [Anna Re]
+- [Anna RevutskyA]
 - [Edoardo De Rosa](https://github.com/edvelhope)
 - [Syed Haris Bin Aamir](https://github.com/syedharis14)
 - [Ravi Shankar Poddar](https://github.com/ravirv17)
