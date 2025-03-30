@@ -1584,6 +1584,7 @@
 - [Kruti Popat](https://github.com/kruti-popat)
 - [Baycan Vural](https://github.com/baycan)
 - [Yuchen Huang](https://github.com/StarfishJ)
+- [baset](https://github.com/abdulbasi-code)
 - [Foysal Ahmed Emon](http://github.com/emon535)
 - [Gi Uk Kim](https://github.com/2897robo)
 - [Muhammet Canlı](https://github.com/muhammetcnli)
