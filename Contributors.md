@@ -20,6 +20,7 @@
 - [Yashwanth Santhanam](https://github.com/yash1thsa)
 - [Gayathri Betha](https://github.com/Gayathri-betha)
 - [Yashi Sharma](https://github.com/yashi-04)
+- [Oolazile](https://github.com/Oolazile)
 - [Eh Masuk](https://github.com/ehmasuk)
 - [Joe Akroush](https://github.com/reloadjoefromkokomo)
 - [Robert Fodor](https://github.com/IngRobertFodor)
