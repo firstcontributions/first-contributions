@@ -173,6 +173,7 @@
 - [ZelenovicA](https://github.com/ZelenovicA)
 - Zeddie
 - [Timothy Phan](https://github.com/TimothyPhan2)
+- [Pranitee Sonavane](https://github.com/Pranitee-Sonavane)
 - [Ahmed Reyyan](https://github.com/AhmedReyyan)
 - [Ahmed Elskh](https://github.com/ahmedelshkh)
 - [Maria Vilela]
