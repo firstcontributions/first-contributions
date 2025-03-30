@@ -15,6 +15,7 @@
 - [Mohit Choubey](https://github.com/mohitchoubey007)
 - [Gabriel-Cintron](https://github.com/Gabriel-Cintron)
 - [ManueldG](https://github.com/ManueldG)
+- [Paa Kwasi Owusu](https://github.com/Paa-Kwasi-04)
 - [mazezen](https://github.com/mazezen)
 - [Lakshay Bhatia](https://github.com/lakshayb30)
 - [Katherine Windatt](https://github.com/DiceTowerKitty)
