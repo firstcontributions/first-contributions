@@ -1202,6 +1202,7 @@
 - [Mohammed Sidiq](https://github.com/MohdSiddiq12)
 - [BlackSmithOfFire](I won't put my link/Sorry!But thanks)
 - [Ethri](https://github.com/ethrii)
+- [Nam Anh Le](https://github.com/namanhle941998)
 - [etriddle88](https://github.com/etriddle88)
 - [ohdy518](https://github.com/ohdy518)
 - [Satyajit Patra](https://github.com/SatyajitPatra06)
