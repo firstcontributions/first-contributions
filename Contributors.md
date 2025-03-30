@@ -40,6 +40,7 @@
 - [Anna Re]
 - [Edoardo De Rosa](https://github.com/edvelhope)
 - [Syed Haris Bin Aamir](https://github.com/syedharis14)
+- [Ravi Shankar Poddar](https://github.com/ravirv17)
 - [Khushi nagaliya](https://github.com/Khushi1638)
 - [Rohan Gorvadiya](https://github.com/Rohangorvadia)
 - [Eekshitha Vemula](https://github.com/eekshitha1)
