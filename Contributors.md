@@ -1628,3 +1628,4 @@
 - [maheshbhatiya](https://github.com/maheshbhatiya73)
 - [Tim Wolter](https://github.com/timwolter-dev)
 - [Wlwool](https://github.com/Wlwool)   
+- [Nick-Lemy K.](https://github.com/Nick-Lemy)
