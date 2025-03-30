@@ -151,6 +151,7 @@
 - [Vienji Racaza](https://github.com/vienji)
 - [Cindy Dang](https://github.com/cindyddang)
 - [Gustavo William](https://github.com/alt-gusta)
+- [Chioma Igbe](https://github.com/Dagem17)
 - [Aryan Srivastava] (https://github.com/AryanSrivastava15)
 - [Tinotenda Mhedziso](https://github.com/Passion-Over-Pain)
 - [Olyviero](https://github.com/olyviero)
