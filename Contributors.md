@@ -1613,4 +1613,5 @@
 - [Salman Shahid](https://github.com/salman-281)
 - [Lakhshyaa](https://github.com/LAKHSHYAA)
 - [sn-ljh](https://github.com/sn-ljh)
--  [Fatema Alam]([https://github.com/sn-ljh](https://github.com/fatemakotha))
+- [Fatema Alam]([https://github.com/sn-ljh](https://github.com/fatemakotha))
+- [terutarou](https://github.com/teruteru214)
