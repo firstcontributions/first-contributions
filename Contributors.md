@@ -1,5 +1,6 @@
 # Contributors
 
+- [Jonathan B. Liu](https://github.com/JBL168)
 - [Sabona Waktole](https://github.com/SabonaWaktole)
 - [Anna Revutsky](https://github.com/AnnaRevutsky)
 - [Satyam Mishra](https://github.com/satyPunk)
