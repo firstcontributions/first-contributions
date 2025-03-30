@@ -1535,6 +1535,7 @@
 - [Piyachetnoy](https://github.com/Piyachetnoy)
 - [Ashutosh Thakur](https://github.com/Ashutosh1999112)
 - [Antoniorodr](https://github.com/antoniorodr)
+- [Harman Singh](https://github.com/HarmanSinghX)
 - [Lohith Reddy](https://github.com/Lohith-11)
 - [Newerton] (https://github.com/newerton)
 - [Talanti Arun](https://github.com/talantiarun)
@@ -1613,3 +1614,4 @@
 - [Salman Shahid](https://github.com/salman-281)
 - [Lakhshyaa](https://github.com/LAKHSHYAA)
 - [sn-ljh](https://github.com/sn-ljh)
+- [Harman Singh](https://github.com/harmanSinghX)
