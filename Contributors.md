@@ -38,6 +38,7 @@
   [Harsh bhatia](https://github.com/h-bhatia)
 - [Deepika Reddy](https://github.com/klu2300031389)
 - [Anna Re]
+- [Obidkhon Akhmadkhonov] (https://github.com/obbteam/)
 - [Edoardo De Rosa](https://github.com/edvelhope)
 - [Syed Haris Bin Aamir](https://github.com/syedharis14)
 - [Ravi Shankar Poddar](https://github.com/ravirv17)
