@@ -928,6 +928,7 @@
 - [Vinit Jahagirdar](https://github.com/Vinit1909)
 - [Bam](https://github.com/QBJ08)
 - [Tyler Daw](https://github.com/TylerD1105)
+- [Christopher Taljaard](https://github.com/ctaljaard)
 - [Minjae Kwon](https://github.com/minjaekwon97)
 - [dev-sik](https://github.com/YouD0313)
 - [callme-kvj](https://github.com/kvj-harsha)
