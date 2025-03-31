@@ -41,6 +41,7 @@
   [Harsh bhatia](https://github.com/h-bhatia)
 - [Deepika Reddy](https://github.com/klu2300031389)
 - [Anna Re]
+- [Sergio](https://github.com/sergio14082001)
 - [Obidkhon Akhmadkhonov] (https://github.com/obbteam/)
 - [Edoardo De Rosa](https://github.com/edvelhope)
 - [Syed Haris Bin Aamir](https://github.com/syedharis14)
