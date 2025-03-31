@@ -1643,6 +1643,7 @@
 - [Basharat](https://github.com/Basharat-cmd)
 - [T Schneider](https://github.com/t-schneids)
 - [maheshbhatiya](https://github.com/maheshbhatiya73)
+- [firatdem](https://github.com/firatdem)
 - [Tim Wolter](https://github.com/timwolter-dev)
 - [Wlwool](https://github.com/Wlwool)   
 - [Nick-Lemy K.](https://github.com/Nick-Lemy)
