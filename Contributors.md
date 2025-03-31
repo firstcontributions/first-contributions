@@ -21,6 +21,7 @@
 - [Vasudeva Cuddapah](https://github.com/NitishCuddapah)
 - [north-calm] (https://github.com/north-calm)
 - [Aditi Verma](https://github.com/aditi02verma)
+- [Adrian Rosales](https://github.com/adrianhrosales365)
 - [Yashwanth Santhanam](https://github.com/yash1thsa)
 - [Gayathri Betha](https://github.com/Gayathri-betha)
 - [Yashi Sharma](https://github.com/yashi-04)
