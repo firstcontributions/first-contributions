@@ -118,6 +118,7 @@
 - [Sneha Latha Reddy](https://github.com/Snehareddy5566)
 - [Pranaw Juyal](https://github.com/Pranaw-dev)
 - [RAGHUTTAMA K G](https://github.com/RAGHUTTAMA-DEV)
+- [Adrian Guerra](https://github.com/adie9)
 - [xFooFoo](https://github.com/xFooFoo)
 - [whynot1963](https://github.com/whynot1963)
 - [ISOTOPE | THEMBA](https://github.com/Goitseone-Themba)
