@@ -910,6 +910,7 @@
 - [Alish-0x](https://github.com/Alish-0x)
 - [fikrirazor](https://github.com/fikrirazor)
 - [SWanHK](https://github.com/swanhk)
+- [tcadieux](https://github.com/tcadieux)
 - [Yoshiki Shinonome](https://github.com/generaldai)
 - [Sagar Patel](https://github.com/sagarpatel279)
 - [Yogesh Joga యోగేష్ జోగ](https://github.com/yogeshjoga)
