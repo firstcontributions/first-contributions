@@ -10,6 +10,8 @@ If you're making changes to a translation, please request a review from our prev
 
 | Language Name | Name in English | Reviewers|
 |---|---|---|
+
+|हिन्दी|Hindi|---|
 | Afrikaans | [Afrikaans](../translations/README.afk.md) | [<img width="100" src="https://avatars.githubusercontent.com/u/36197725?v=4" alt="@zecollokaris" />](https://github.com/zecollokaris) |
 | Albanian | [Albanian](../translations/README.al.md) | [<img width="100" src="https://avatars.githubusercontent.com/u/40631828?v=4" alt="RronKurtishi" />](https://github.com/RronKurtishi) [<img width="100" src="https://avatars.githubusercontent.com/u/98396887?s=400&v=4" alt="RronKurtishi" />](https://github.com/auronvila) |
 | العربية | [Arabic](../translations/README.ar.md) | [<img width="100" src="https://avatars.githubusercontent.com/u/83532081?v=4" alt="OsaidAlhomedy" />](https://github.com/OsaidAlhomedy) [<img width="100" src="https://avatars.githubusercontent.com/u/97640062?v=4" alt="AlaaYlula" />](https://github.com/AlaaYlula) [<img width="100" src="https://avatars.githubusercontent.com/u/60319236?v=4" alt="Laith-Alayassa" />](https://github.com/Laith-Alayassa) |
