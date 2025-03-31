@@ -6,6 +6,7 @@
 - [Sabona Waktole](https://github.com/SabonaWaktole)
 - [Anna Revutsky](https://github.com/AnnaRevutsky)
 - [Satyam Mishra](https://github.com/satyPunk)
+- [Saurav Singh](https://github.com/sauravsingh3021)
 - [niimma](https://github.com/niimma)
 - [Spencer Linsner](https://github.com/slins1)
 - [Abdelrhman Masoud](https://github.com/Abdomasoud)
