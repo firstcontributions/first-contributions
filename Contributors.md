@@ -606,6 +606,7 @@
 - [Anu](https://github.com/anurag998)
 - [Jonah Raiford](https://github.com/JonahXiaFei)
 - [Ravichandra](https://github.com/ravichandra-21/-contributions)
+- [Giovanni Massiot](https://github.com/Giovanni-jpg)
 - [Raghav](https://github.com/Raghav9871)
 - [bear-i](https://github.com/bear-i/first-contributions)
 - [Edgar Flores](https://github.com/efloresCSE)
