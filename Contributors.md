@@ -7,6 +7,7 @@
 - [niimma](https://github.com/niimma)
 - [Spencer Linsner](https://github.com/slins1)
 - [Abdelrhman Masoud](https://github.com/Abdomasoud)
+- [Fardeen Shahed](https://github.com/Fardeen2903)
 - [Coolgamer]
 - [Saida] (https://github.com/sasasaida)
 - [Aditya ak](https://github.com/Adity-star)
