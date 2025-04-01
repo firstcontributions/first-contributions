@@ -67,6 +67,7 @@
 - [Racheal Milele](https://github.com/RachealMilele123)
 - [Gustave.A Ilunga](https://github.com/Gvstave)
 - [Anthony M. Mwila](https://github.com/anthonymmwila)
+- [Taha Yunus Demir](https://github.com/tahayunusdemir)
 - [Samson Kwizela](https://github.com/SamsonKwizela)
 - [Arowolo Abimbola](https://github.com/ArowoloAbimbolaVictoria)
 - [Ur Ya'ar](https://github.com/firubat)
