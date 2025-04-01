@@ -144,6 +144,7 @@
 - [Harlan Enciso](https://github.com/harlanenciso112)
 - [JorgeGallegos](https://github.com/JorgeGallegos8)
 - [apple]
+- [SamTheTechi](https://github.com/SamTheTechi/)
 - [soundousbenziadi](https://github.com/soundousbenziadi)
 - [StevenHall](https://github.com/PedanticSteve)
 - [Leonardo Teodoro](https://github.com/LeonardoTeodoroSantos)
