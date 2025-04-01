@@ -267,6 +267,7 @@
 - [Sowndhariya](https://github.com/sowndhariyasugan)
 - [Anay](https://github.com/Anay-Patil)
 - [Argha Saha](https://github.com/arg387)
+- [Gabriel Macedo](https://github.com/gabrielssmacedo)
 - [Jason](https://github.com/JayKayDevOps)
 - [Gopal](https://github.com/gopallchoudhary)
 - [Anay](https://github.com/SiddharthaWork)
