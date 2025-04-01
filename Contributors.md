@@ -92,6 +92,7 @@
 - [Maxi Candia](https://github.com/MaxiCandiaJara)
 - [Abhishek Maurya](https://github.com/abhishek-maurya576)
 - [Roman Sokolov](https://github.com/rmhodus)
+- [Ram Charan](https://github.com/ramCharan2405)
 - [Darshil Shah](https://github.com/nameisdarshil)
 - [Lovnish Verma](https://github.com/lovnishverma)
 - [Abubakkar Khan](https://github.com/Abubakkar-Khan)
