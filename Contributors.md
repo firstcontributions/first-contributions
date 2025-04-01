@@ -17,6 +17,7 @@
 - [Fardeen Shahed](https://github.com/Fardeen2903)
 - [Clegginator](https://github.com/Clegginator)
 - [Coolgamer]
+- [SomeRandomFella] (https://github.com/SomeRandomFella)
 - [Saida] (https://github.com/sasasaida)
 - [Aditya ak](https://github.com/Adity-star)
 - [Sawi Choukikar](https://github.com/choukikars16)
