@@ -286,6 +286,7 @@
 - [Aritra Mukherjee](https://github.com/maritra)
 - [Zafran Ullah](https://github.com/zafran-ullah)
 - [lecsim](https://github.com/lecsim)
+- [Morley lane](https://github.com/0ni4)
 - [Matheus Azevedo](https://github.com/Matheusada)
 - [Rishabh Kumar Das](https://github.com/rishabhd-cognavi)
 - [EarendelH](https://github.com/Earendelh)
