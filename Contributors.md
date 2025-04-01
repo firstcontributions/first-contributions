@@ -73,6 +73,7 @@
 - [camonayc](https://github.com/camonayc)
 - [ZhIIhaoc](https://github.com/ZhIIhaoc)
 - [Nuno Pontes](https://github.com/n-pontes)
+- [Naman Bansal](https://github.com/namanbnsl)
 -[kenrodgers wainaina] (https://github.com/k3n-bat)
 - [Fahim_Al_Rashid](https://github.com/fahimar)
 - [Virat Shandilya](https://github.com/viraaattttt)
