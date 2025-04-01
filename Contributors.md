@@ -71,6 +71,7 @@
 - [heer](https://github.com/gunheerahuja)
 - [camonayc](https://github.com/camonayc)
 - [ZhIIhaoc](https://github.com/ZhIIhaoc)
+- [Nuno Pontes](https://github.com/n-pontes)
 -[kenrodgers wainaina] (https://github.com/k3n-bat)
 - [Fahim_Al_Rashid](https://github.com/fahimar)
 - [Virat Shandilya](https://github.com/viraaattttt)
