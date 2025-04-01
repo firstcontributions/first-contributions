@@ -199,6 +199,7 @@
 - [Ahmed Elskh](https://github.com/ahmedelshkh)
 - [Maria Vilela]
 - [vansh]
+- [Luis Octávio](https://github.com/Big-Plato)
   [Shailesh Sharma](https://github.com/Chinipanda)
 - [Saksham Gupta](https://github.com/sakshamgupta123)
 - [Eduardo Chaparro Huaman](https://github.com/Eduardo-v01)
