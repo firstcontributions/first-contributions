@@ -1066,6 +1066,7 @@
 - [ColorCode](https://github.com/benjaAguilar)
 - [Aminat A](https://github.com/pejuameenat)
 - [Kiranmai Kalla](https://github.com/KiranmaiKalla)
+- [Maik Schoepe](https://github.com/MaikSchoepe)
 - [Loyd Ngei](https://github.com/LoydNgei)
 - [Suved Ganduri](https://github.com/Sooowayydh)
 - [Mariusz Sobczak](https://github.com/SmoQ)
