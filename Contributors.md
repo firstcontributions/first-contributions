@@ -1,6 +1,7 @@
 # Contributors
 
 - [Jonathan B. Liu](https://github.com/JBL168)
+- [Adhan Salah](https://github.com/adensalah)
 - [Tamilarasan](https://github.com/tamizhasn)
 - [Meet Mehta](https://github.com/MeetInCode)
 - [Karthikeyen K](https://github.com/KARTHIKEYEN14)
