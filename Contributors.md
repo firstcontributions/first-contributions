@@ -1,6 +1,7 @@
 # Contributors
 
 - [Jonathan B. Liu](https://github.com/JBL168)
+- [Tamilarasan](https://github.com/tamizhasn)
 - [Meet Mehta](https://github.com/MeetInCode)
 - [Balaji Balakrishnan](https://github.com/balajibalakris)
 - [Nithin M S](https://github.com/Nithin3003)
