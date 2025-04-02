@@ -9,6 +9,7 @@
 - [Meet Mehta](https://github.com/MeetInCode)
 - [Karthikeyen K](https://github.com/KARTHIKEYEN14)
 - [Balaji Balakrishnan](https://github.com/balajibalakris)
+- [Alvaro Garcia](https://github.com/alvarofelipe12)
 - [Kirtiraj Darwai]
 - [David canas](https://github.com/dacanass)
 - [Nithin M S](https://github.com/Nithin3003)
