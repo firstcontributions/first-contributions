@@ -1,5 +1,6 @@
 # Contributors
 
+- [Ramzan Khan](https://github.com/Ramzan-Khan-786)
 - [Jonathan B. Liu](https://github.com/JBL168)
 - [Adhan Salah](https://github.com/adensalah)
 - [Youzi2233](https://github.com/Youzi2233)
