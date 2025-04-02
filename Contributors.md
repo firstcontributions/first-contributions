@@ -26,6 +26,7 @@
 - [Sawi Choukikar](https://github.com/choukikars16)
   [Ajaypal Singh Sran](https://github.com/Ajayss04)
 - [Misal Silva](https://github.com/MisalSilva)
+- [Vijay Modi](https://github.com/VijayM0di)
 - [Stephen K](https://github.com/kotiang54)
 - [Bedelya] (https://github.com/Dazzlebutterfly)
 - [Vasudeva Cuddapah](https://github.com/NitishCuddapah)
