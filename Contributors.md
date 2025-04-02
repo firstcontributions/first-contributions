@@ -25,6 +25,7 @@
   [nii fakye](https://github.com/Niifakye)
 - [Coolgamer]
 - [SomeRandomFella] (https://github.com/SomeRandomFella)
+- [Anushree S K] (https://github.com/anushree1206/)
 - [Saida] (https://github.com/sasasaida)
 - [Aditya ak](https://github.com/Adity-star)
 - [Sawi Choukikar](https://github.com/choukikars16)
