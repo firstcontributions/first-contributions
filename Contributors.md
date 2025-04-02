@@ -9,7 +9,7 @@
 - [Kirtiraj Darwai]
 - [Nithin M S](https://github.com/Nithin3003)
 - [Sabona Waktole](https://github.com/SabonaWaktole)
-- [Aung-Thu](https://github.com/aungthu-26)
+- [Aung Thura](https://github.com/aungthu-26)
 - [Anna Revutsky](https://github.com/AnnaRevutsky)
 - [Satyam Mishra](https://github.com/satyPunk)
 - [Saurav Singh](https://github.com/sauravsingh3021)
