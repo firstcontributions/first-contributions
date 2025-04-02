@@ -11,6 +11,7 @@
 - [Balaji Balakrishnan](https://github.com/balajibalakris)
 - [Alvaro Garcia](https://github.com/alvarofelipe12)
 - [Kirtiraj Darwai]
+- [Nency Patel](https://github.com/nenncy)
 - [David canas](https://github.com/dacanass)
 - [Nithin M S](https://github.com/Nithin3003)
 - [Sabona Waktole](https://github.com/SabonaWaktole)
