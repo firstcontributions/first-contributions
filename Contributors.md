@@ -13,6 +13,7 @@
 - [Satyam Mishra](https://github.com/satyPunk)
 - [Saurav Singh](https://github.com/sauravsingh3021)
 - [niimma](https://github.com/niimma)
+- [Abhinav Gupta] (https://github.com/abhinav-322)
 - [Spencer Linsner](https://github.com/slins1)
 - [Abdelrhman Masoud](https://github.com/Abdomasoud)
 - [Fardeen Shahed](https://github.com/Fardeen2903)
