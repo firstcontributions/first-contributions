@@ -22,7 +22,7 @@
 - [Stephen K](https://github.com/kotiang54)
 - [Bedelya] (https://github.com/Dazzlebutterfly)
 - [Vasudeva Cuddapah](https://github.com/NitishCuddapah)
-- [Aung Thu](https://github.com/aungthu-26)
+- [AungThu](https://github.com/aungthu-26)
 - [north-calm] (https://github.com/north-calm)
 - [Aditi Verma](https://github.com/aditi02verma)
 - [Adrian Rosales](https://github.com/adrianhrosales365)
