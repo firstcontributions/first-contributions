@@ -848,6 +848,7 @@
 - [Sushanth hebri](https://github.com/Sushanth-Hebri/)
 - [Sai Manogyana Tokachichu](https://github.com/scrapperDubiBear/)
 - [reihori](https://github.com/reihori)
+- [detail331](https://github.com/detail331)
 - [Swetha Kannan](https://github.com/swethakannan12)
 - [gpalacios26](https://github.com/gpalacios26/curso-git-fork)
 - [Fahad Shoaib](https://github.com/Fahad-S94)
