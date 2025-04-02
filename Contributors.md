@@ -20,6 +20,7 @@
 - [Saurav Singh](https://github.com/sauravsingh3021)
 - [niimma](https://github.com/niimma)
 - [Abhinav Gupta] (https://github.com/abhinav-322)
+- [palyen](https://github.com/palyen)
 - [Spencer Linsner](https://github.com/slins1)
 - [Sreenath K K](https://github.com/sreenath-pydev)
 - [Abdelrhman Masoud](https://github.com/Abdomasoud)
