@@ -1696,4 +1696,5 @@
 - [Aila Lu](https://github.com/AilaLu)
 - [Osman Hazic](https://github.com/osmanhadzic)
 - [Huang Zhang Wen](https://github.com/HAHATOMGIT)
+- [Thiago Silva](https://github.com/thiago-ssilva)
 - [Vrushabh Patil] (https://github.com/vrushcbp)
