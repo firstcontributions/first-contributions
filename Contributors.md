@@ -497,6 +497,7 @@
 - [gyanchandkabra](https://github.com/gyanchandkabra)
 - [harshit](https://github.com/harshitpatel862)
 - [Giusnovetti](https://github.com/Giusnovetti)
+- [Druva Kumar](https://github.com/Dru-blip)
 - [Kristoffer Paulsson](https://github.com/kristoffer-paulsson)
 - [benHitt](https://github.com/benHitt123)
 - [uzuraDev](https://github.com/uzuraDev)
