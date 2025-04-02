@@ -1695,7 +1695,7 @@
 - [keerthana250501](https://github.com/keerthana250501)
 - [Wlwool](https://github.com/Wlwool)   
 - [Nick-Lemy K.](https://github.com/Nick-Lemy)
-- [CryptoLove88](https://github.com/CryptoLove88)  
+- [CryptoLove88](https://github.com/CryptoLove88)
 - [Pravallika Panyam](https://github.com/panyampravallika)
 -[Biokes](https://github.com/Biokes)
 - [Faraz Mirza](https://github.com/code-with-faraz)
