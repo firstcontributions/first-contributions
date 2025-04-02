@@ -155,6 +155,7 @@
 - [JorgeGallegos](https://github.com/JorgeGallegos8)
 - [apple]
 - [SamTheTechi](https://github.com/SamTheTechi/)
+- [Kam](https://github.com/Kam0797)
 - [soundousbenziadi](https://github.com/soundousbenziadi)
 - [StevenHall](https://github.com/PedanticSteve)
 - [Leonardo Teodoro](https://github.com/LeonardoTeodoroSantos)
