@@ -22,7 +22,7 @@
   [nii fakye](https://github.com/Niifakye)
 - [Coolgamer]
 - [SomeRandomFella] (https://github.com/SomeRandomFella)
-- [Mark Thompson](https://github.com/mark-d-thompson)
+- [MarkThompson](https://github.com/mark-d-thompson)
 - [Saida] (https://github.com/sasasaida)
 - [Aditya ak](https://github.com/Adity-star)
 - [Sawi Choukikar](https://github.com/choukikars16)
