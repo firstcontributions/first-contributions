@@ -76,6 +76,7 @@
 - [Anthony M. Mwila](https://github.com/anthonymmwila)
 - [Taha Yunus Demir](https://github.com/tahayunusdemir)
 - [Samson Kwizela](https://github.com/SamsonKwizela)
+- [Illia Dehodiuk](https://github.com/IlliaDhD)
 - [Arowolo Abimbola](https://github.com/ArowoloAbimbolaVictoria)
 - [Ur Ya'ar](https://github.com/firubat)
 - [Irakiza Divine](https://github.com/DivineIrakiza)
