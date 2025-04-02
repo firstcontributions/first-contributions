@@ -6,6 +6,7 @@
 - [Meet Mehta](https://github.com/MeetInCode)
 - [Karthikeyen K](https://github.com/KARTHIKEYEN14)
 - [Balaji Balakrishnan](https://github.com/balajibalakris)
+- [Kirtiraj Darwai]
 - [Nithin M S](https://github.com/Nithin3003)
 - [Sabona Waktole](https://github.com/SabonaWaktole)
 - [Anna Revutsky](https://github.com/AnnaRevutsky)
