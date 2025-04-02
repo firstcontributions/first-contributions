@@ -38,6 +38,7 @@
 - [Joe Akroush](https://github.com/reloadjoefromkokomo)
 - [Robert Fodor](https://github.com/IngRobertFodor)
 - [Irsyad](https://github.com/i230010)
+- [Kunal Rajpal](https://github.com/KunalRajpal)
 - [Mostafa Fayazi](https://github.com/Mostafa-Phoenix)
 - [Hrid1402](https://github.com/Hrid1402)
 - [Mohit Choubey](https://github.com/mohitchoubey007)
