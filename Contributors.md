@@ -776,7 +776,7 @@
 - [Joel Anarba](https://github.com/joelanarba)
 - [NikitaJaiswal77](https://github.com/NikitaJaiswal77)
 - [sema-altinkaynak](https://github.com/sema-altinkaynak)
-- [Lily](https://github.com/lilypandy)
+- [Lily](https://github.com/lilypandey)
 - [Sarvesh](https://github.com/sarvesh-sr)
 - [Vitvin](https://github.com/vitvinvaz)
 - [SaginalaAzeez](https://github.com/asheedh)
