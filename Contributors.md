@@ -1334,6 +1334,7 @@
 - [Faisal Aduko Wahabu](https://github.com/faisaladuko)
 - [Rituraj Hao](https://github.com/rituraj27)
 - [Sanay Doshi](https://github.com/sanayd)
+- [Danilo Dj](https://github.cin/danilo-dj)
 - [Naveen Kari](https://github.com/NaveenKari)
 - [Abisola Majeed](https://github.com/AbisolaMajeed)
 - [Aayushi Sinha](https://github.com/aayushi892)
