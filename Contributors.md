@@ -1687,3 +1687,4 @@
 - [Eng-Soft-Claudio](https://github.com/Eng-Soft-Claudio)
 - [dyasic](https://github.com/dyasic)
 - [Aila Lu](https://github.com/AilaLu)
+- [Osman Hazic](https://github.com/osmanhadzic)
