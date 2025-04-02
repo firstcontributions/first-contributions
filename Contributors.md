@@ -85,6 +85,7 @@
 - [Fahim_Al_Rashid](https://github.com/fahimar)
 - [Virat Shandilya](https://github.com/viraaattttt)
 - [Muhammad Sidik](https://github.com/msidik01)
+-[Satyugesque](https://github.com/Satyugesque)
 - [Gowtham Raj](https://github.com/Fizzy-Brain)
 - [Prashant Saini](https://github.com/prashantsaini1525)
 - [Pratham Jaiswal](https://github.com/PrathamJaiswal9)
