@@ -1535,6 +1535,7 @@
 - [Muhammet Canlı](https://github.com/muhammetcnli)
 - [Milon Mete](https://github.com/Milon-Mete)
 - [Mauricio Gonzalez](https://github.com/mauricio-gu2)
+- [Arpit Tripathi](https://github.com/nexpectArpit)
 - [Subhajit Roy](https://github.com/SubhajitRoy11)
 - [Michael Do](https://github.com/MichDoDoDo)
 - [Mahjour Oussama](https://github.com/OussamaMahjour)
