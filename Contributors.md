@@ -1704,3 +1704,4 @@
 - [Thiago Silva](https://github.com/thiago-ssilva)
 - [Vrushabh Patil] (https://github.com/vrushcbp)
 - [Khaled](https://github.com/khd22)
+- [lit-cup](https://github.com/lit-cup)
