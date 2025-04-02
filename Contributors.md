@@ -52,6 +52,7 @@
 - [Mohit Choubey](https://github.com/mohitchoubey007)
 - [Gabriel-Cintron](https://github.com/Gabriel-Cintron)
 - [Micheal-Ndoh](https://github.com/micheal-ndoh)
+- [Graham Morrison](https://github.com/morpole)
 - [ManueldG](https://github.com/ManueldG)
 - [MazenSamehR](https://github.com/MazenSamehR)
 - [mazezen](https://github.com/mazezen)
