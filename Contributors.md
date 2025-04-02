@@ -39,6 +39,7 @@
 - [Yashi Sharma](https://github.com/yashi-04)
 - [Oolazile](https://github.com/Oolazile)
 - [Eh Masuk](https://github.com/ehmasuk)
+- [Mattias](https://github.com/mattiasstrom)
 - [Joe Akroush](https://github.com/reloadjoefromkokomo)
 - [Robert Fodor](https://github.com/IngRobertFodor)
 - [Irsyad](https://github.com/i230010)
