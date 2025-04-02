@@ -1157,6 +1157,7 @@
 - [Kurumi30](https://github.com/Kurumi30)
 - [Pfandflasche91](https://github.com/Pfandflasche91)
 - [Mitko Rumenov Mitkov](https://github.com/mrmitkov)
+- [Janani](https://github.com/januraja)
 - [Shanky17](https://github.com/shanky17)
 - [Aia Sia](https://github.com/siaaia)
 - [Jay Paun](https://github.com/Jay2704)
