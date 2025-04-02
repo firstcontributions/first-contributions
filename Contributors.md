@@ -380,6 +380,7 @@
 - [Manas Mahajan](https://github.com/ManasMahajan2003)
 - [Christopher O.](https://github.com/limitpointinf0)
 - [SNN](https://github.com/sungenyeint)
+- [candycane124](https://github.com/candycane124)
 - [Springer Barry](https://github.com/BarryCoding)
 - [Naveen1023](https://github.com/Naveen1023)
 - [Prasad Ingale](https://github.com/PrasadIngale40)
