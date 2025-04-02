@@ -1294,6 +1294,7 @@
 - [zaki1228](https://github.com/zaki1228)
 - [kmkkiii](https://github.com/kmkkiii) 🐢
 - [Omar Emad](https://github.com/OM3X4)
+- [Arnau Davis](https://github.com/arnaudavis)
 - [Kevin Koech](https://github.com/kevinkoech357)
 - [Kevin Subbotin](https://github.com/KevinSubbotin)
 - [Tobi Falode](https://github.com/Thobbytosin)
