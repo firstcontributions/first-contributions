@@ -21,6 +21,7 @@
 - [Nency Patel](https://github.com/nenncy)
 - [David canas](https://github.com/dacanass)
 - [Nithin M S](https://github.com/Nithin3003)
+- [Benita Kingsley](https://github.com/BenitaMags)
 - [Sabona Waktole](https://github.com/SabonaWaktole)
 - [Anna Revutsky](https://github.com/AnnaRevutsky)
 - [Satyam Mishra](https://github.com/satyPunk)
@@ -34,7 +35,7 @@
 - [Abdelrhman Masoud](https://github.com/Abdomasoud)
 - [Fardeen Shahed](https://github.com/Fardeen2903)
 - [Clegginator](https://github.com/Clegginator)
-  [nii fakye](https://github.com/Niifakye)
+- [nii fakye](https://github.com/Niifakye)
 - [Coolgamer]
 - [SomeRandomFella] (https://github.com/SomeRandomFella)
 - [Anushree S K] (https://github.com/anushree1206/)
