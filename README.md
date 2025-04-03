@@ -112,7 +112,7 @@ Now clone the forked repository to your machine. Go to your GitHub account, open
 Open a terminal and run the following git command:
 
 ```bash
-git clone "url you just copied"
+  git clone "url you just copied"
 ```
 
 where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
@@ -122,7 +122,7 @@ where "url you just copied" (without the quotation marks) is the url to this rep
 For example:
 
 ```bash
-git clone git@github.com:this-is-you/first-contributions.git
+  git clone git@github.com:this-is-you/first-contributions.git
 ```
 
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
@@ -132,19 +132,19 @@ where `this-is-you` is your GitHub username. Here you're copying the contents of
 Change to the repository directory on your computer (if you are not already there):
 
 ```bash
-cd first-contributions
+  cd first-contributions
 ```
 
 Now create a branch using the `git switch` command:
 
 ```bash
-git switch -c your-new-branch-name
+  git switch -c your-new-branch-name
 ```
 
 For example:
 
 ```bash
-git switch -c add-alonzo-church
+  git switch -c add-alonzo-church
 ```
 
 <details>
@@ -155,7 +155,7 @@ If the error message "Git: `switch` is not a git command. See `git –help`" app
 In this case, try to use `git checkout` instead:
 
 ```bash
-git checkout -b your-new-branch-name
+  git checkout -b your-new-branch-name
 ```
 
 </details>
@@ -171,13 +171,13 @@ If you go to the project directory and execute the command `git status`, you'll 
 Add those changes to the branch you just created using the `git add` command:
 
 ```bash
-git add Contributors.md
+  git add Contributors.md
 ```
 
 Now commit those changes using the `git commit` command:
 
 ```bash
-git commit -m "Add your-name to Contributors list"
+  git commit -m "Add your-name to Contributors list"
 ```
 
 replacing `your-name` with your name.
@@ -187,7 +187,7 @@ replacing `your-name` with your name.
 Push your changes using the command `git push`:
 
 ```bash
-git push -u origin your-branch-name
+  git push -u origin your-branch-name
 ```
 
 replacing `your-branch-name` with the name of the branch you created earlier.
