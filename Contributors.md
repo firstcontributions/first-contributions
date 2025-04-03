@@ -11,6 +11,7 @@
 - [Spencer Linsner](https://github.com/slins1)
 - [Abdelrhman Masoud](https://github.com/Abdomasoud)
 - [Fardeen Shahed](https://github.com/Fardeen2903)
+- [Benita Kingsley Prince](https://github.com/BenitaMags)
 - [Coolgamer]
 - [Saida] (https://github.com/sasasaida)
 - [Aditya ak](https://github.com/Adity-star)
