@@ -186,6 +186,7 @@
 - [Leonardo Saldaña](https://github.com/lpsaldana)
 - [Hamed Haghani](https://github.com/HamedHaghani)
 - [KingTroy125](https://github.com/KingTroy125)
+- [Victor Alexander](https://github.com/ViitorA)
 - [Karan Maheshwari](https://github.com/krnmaheshwari09)
 - [Ivo-velev](https://github.com/Ivo-velev)
 - [INPATHTAMILAN](https://github.com/tamilan3)
