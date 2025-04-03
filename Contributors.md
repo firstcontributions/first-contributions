@@ -6,6 +6,7 @@
 - [Deron Hutchinson](https://github.com/Gitty-3ps)
 - [Youzi2233](https://github.com/Youzi2233)
 - [Tamilarasan](https://github.com/tamizhasn)
+- [Sai Krishna Kotha](https://github.com/sai-krishna-kotha)
 - [Meet Mehta](https://github.com/MeetInCode)
 - [Karthikeyen K](https://github.com/KARTHIKEYEN14)
 - [Balaji Balakrishnan](https://github.com/balajibalakris)
