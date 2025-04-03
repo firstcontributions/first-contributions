@@ -169,6 +169,7 @@
 - [Ioannis Christou] (https://github.com/yianchristou)
 - [Kenny92dev](https://github.com/Kenny92dev)
 - [Silvia-Zh](https://github.com/Silvia-Zh)
+- [newtau] (https://github.com/newtau)
 - [Khyxer](https://github.com/Khyxer)
 - [Kenny92dev](https://github.com/Kenny92dev)
 - [Harlan Enciso](https://github.com/harlanenciso112)
