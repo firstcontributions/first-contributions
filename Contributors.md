@@ -12,8 +12,8 @@
 - [Youzi2233](https://github.com/Youzi2233)
 - [Tamilarasan](https://github.com/tamizhasn)
 - [Sai Krishna Kotha](https://github.com/sai-krishna-kotha)
+ -[dev-conquero](https://github.com/dev-conquer0)
 - [Meet Mehta](https://github.com/MeetInCode)
-- [Karthikeyen K](https://github.com/KARTHIKEYEN14)
 - [Balaji Balakrishnan](https://github.com/balajibalakris)
 - [Alvaro Garcia](https://github.com/alvarofelipe12)
 - [Kirtiraj Darwai]
