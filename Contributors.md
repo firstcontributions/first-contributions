@@ -20,6 +20,7 @@
 - [Satyam Mishra](https://github.com/satyPunk)
 - [Saurav Singh](https://github.com/sauravsingh3021)
 - [niimma](https://github.com/niimma)
+- [danishayman](https://github.com/danishayman)
 - [Abhinav Gupta] (https://github.com/abhinav-322)
 - [palyen](https://github.com/palyen)
 - [Spencer Linsner](https://github.com/slins1)
