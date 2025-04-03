@@ -1706,6 +1706,7 @@
 - [maheshbhatiya](https://github.com/maheshbhatiya73)
 - [firatdem](https://github.com/firatdem)
 - [Tim Wolter](https://github.com/timwolter-dev)
+- [Devansh Sharma] (https://github.com/adawatia)
 - [keerthana250501](https://github.com/keerthana250501)
 - [Wlwool](https://github.com/Wlwool)   
 - [Nick-Lemy K.](https://github.com/Nick-Lemy)
