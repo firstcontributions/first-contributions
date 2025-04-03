@@ -1,5 +1,6 @@
 # Contributors
 
+- [Kruthi Kusa](https://github.com/kruthi-kusa)
 - [Ramzan Khan](https://github.com/Ramzan-Khan-786)
 - [Nick Girmes] (https://github.com/ngirmes)
 - [Jonathan B. Liu](https://github.com/JBL168)
