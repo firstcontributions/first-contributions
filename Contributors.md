@@ -478,6 +478,7 @@
 - [Ronahi Bağcı](https://github.com/RonayBagci)
 - [AhmedRediwan](https://github.com/ahmed12-dev)
 - [Erpipemio](https://github.com/Erpipemio)
+- [RiteshSirohi](https://github.com/riteshsirohi)
 - [Fabrice Pecot](https://github.com/FabriceAB1)
 - [Bob Mumrmu](https://github.com/bobo-m)
 - [SANJAY KUMAR](https://github.com/sanjaydeepak)
