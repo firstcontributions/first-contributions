@@ -17,6 +17,7 @@
 - [Balaji Balakrishnan](https://github.com/balajibalakris)
 - [Alvaro Garcia](https://github.com/alvarofelipe12)
 - [Kirtiraj Darwai]
+- [Gonzalo Murgeutyio](https://github.com/chalo2304)
 - [Nency Patel](https://github.com/nenncy)
 - [David canas](https://github.com/dacanass)
 - [Nithin M S](https://github.com/Nithin3003)
@@ -169,6 +170,7 @@
 - [Ioannis Christou] (https://github.com/yianchristou)
 - [Kenny92dev](https://github.com/Kenny92dev)
 - [Silvia-Zh](https://github.com/Silvia-Zh)
+- [newtau] (https://github.com/newtau)
 - [Khyxer](https://github.com/Khyxer)
 - [Kenny92dev](https://github.com/Kenny92dev)
 - [Harlan Enciso](https://github.com/harlanenciso112)
@@ -1737,3 +1739,4 @@
 - [HQHC](https://github.com/HQHC)
 - [Priyesh1311421](https://github.com/Priyesh1311421)
 - [LlisGod](https://github.com/LlisGod)
+- [Daniel](https://github.com/danigst)
