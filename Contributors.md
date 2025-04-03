@@ -2,6 +2,7 @@
 
 - [Kruthi Kusa](https://github.com/kruthi-kusa)
 - [Vidit](https://github.com/VIDIT-13)
+- [Tarreq Maulana](https://github.com/mrtrq)
 - [Ramzan Khan](https://github.com/Ramzan-Khan-786)
 - [Nick Girmes] (https://github.com/ngirmes)
 - [Jonathan B. Liu](https://github.com/JBL168)
