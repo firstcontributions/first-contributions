@@ -888,6 +888,7 @@
 - [isaacbelles](https://github.com/isaacbelles)
 - [Shoaib Shuja](https://github.com/ShoaibShuja)
 - [brunoblaise](https://github.com/brunoblaise)
+- [Riley Gould](https://github.com/thelifeofri1ey)
 - [OBLI B VIKRAM](https://github.com/Vikramobli)
 - [Nisha Verma](https://github.com/xnisha-verma)
 - [TrevyBurgess](https://github.com/TrevyBurgess)
