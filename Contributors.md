@@ -37,6 +37,7 @@
 - [Clegginator](https://github.com/Clegginator)
 - [nii fakye](https://github.com/Niifakye)
 - [Coolgamer]
+- [Rob Clark] (https://github.com/robthomasclark)
 - [SomeRandomFella] (https://github.com/SomeRandomFella)
 - [Anushree S K] (https://github.com/anushree1206/)
 - [Saida] (https://github.com/sasasaida)
