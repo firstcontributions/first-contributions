@@ -7,6 +7,7 @@
 - [Youzi2233](https://github.com/Youzi2233)
 - [Tamilarasan](https://github.com/tamizhasn)
 - [Meet Mehta](https://github.com/MeetInCode)
+- [Medini M Krishnan](https://github.com/medinikrishnan)
 - [Karthikeyen K](https://github.com/KARTHIKEYEN14)
 - [Balaji Balakrishnan](https://github.com/balajibalakris)
 - [Alvaro Garcia](https://github.com/alvarofelipe12)
