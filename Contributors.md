@@ -1744,6 +1744,7 @@
 - [Khaled](https://github.com/khd22)
 - [lit-cup](https://github.com/lit-cup)
 - [Acefa](https://github.com/Acefa)
+- [Anany Singh](https://github.com/Deadeye102000)
 - [Mohammed Sufiyan Ahmed](https://github.com/Sufiyan-MSA)
 - [Atul Patil](https://github.com/atulpatildev)
 - [Adity Pandey](https://github.com/adityapandey13-yours)
