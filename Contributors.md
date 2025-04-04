@@ -1016,6 +1016,7 @@
 - [João Inacio](https://github.com/J-Inacio)
 - [AFRA A](https://github.com/Afrah4331)
 - [Sneha Jain](https://github.com/sj11105)
+- [Drax-dr](https://github.com/Drax-dr/)
 - [Varun Patel](https://github.com/varunpatel07)
 - [Jayadeep Velagapudi](https://github.com/jkvelagapudi)
 - [Varsha Gitty](https://github.com/vgg1459)
