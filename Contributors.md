@@ -64,6 +64,7 @@
 - [Gayathri Betha](https://github.com/Gayathri-betha)
 - [Qasim Sudais] (https://github.com/kasim23)
 - [Yashi Sharma](https://github.com/yashi-04)
+- [Chasang Tsering Bhutia](https://github.com/ChasangBhutia)
 - [Oolazile](https://github.com/Oolazile)
 - [Eh Masuk](https://github.com/ehmasuk)
 - [Mattias](https://github.com/mattiasstrom)
