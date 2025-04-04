@@ -1,5 +1,6 @@
 # Contributors
 
+- [Prayoga Agus Setiawan](https://github.com/Prayoga-bit)
 - [Dibyadyuti Das](https://github.com/DibyadyutiDas)
 - [Kruthi Kusa](https://github.com/kruthi-kusa)
 - [Vidit](https://github.com/VIDIT-13)
