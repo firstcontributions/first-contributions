@@ -1763,6 +1763,7 @@
 - [Adity Pandey](https://github.com/adityapandey13-yours)
 - [ZnnnnnH2](https://github.com/ZnnnnnH2)
 - [HQHC](https://github.com/HQHC)
+- [Sartaj](https://github.com/sartajkhan25)
 - [Priyesh1311421](https://github.com/Priyesh1311421)
 - [LlisGod](https://github.com/LlisGod)
 - [Daniel](https://github.com/danigst)
