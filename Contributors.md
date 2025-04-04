@@ -59,6 +59,7 @@
 - [Ansh Pachauri](https://github.com/ansh-pachauri/)
 - [Adrian Rosales](https://github.com/adrianhrosales365)
 - [Yashwanth Santhanam](https://github.com/yash1thsa)
+- [Visal Raza Zaidi](https://github.com/VisalRazaZaidi)
 - [Gayathri Betha](https://github.com/Gayathri-betha)
 - [Qasim Sudais] (https://github.com/kasim23)
 - [Yashi Sharma](https://github.com/yashi-04)
