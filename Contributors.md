@@ -110,6 +110,7 @@
 - [Racheal Milele](https://github.com/RachealMilele123)
 - [Gustave.A Ilunga](https://github.com/Gvstave)
 - [Anthony M. Mwila](https://github.com/anthonymmwila)
+- [Ahmed Issawy](https://github.com/AhmedIssawy)
 - [Taha Yunus Demir](https://github.com/tahayunusdemir)
 - [Samson Kwizela](https://github.com/SamsonKwizela)
 - [Illia Dehodiuk](https://github.com/IlliaDhD)
