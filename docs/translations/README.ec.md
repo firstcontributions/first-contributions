@@ -9,7 +9,7 @@
 Este proyecto tiene como objetivo simplificar y guiar la forma en que los principiantes hacen su primera contribución. Si está buscando hacer su primera contribución, siga los pasos a continuación.
 
 
-#### *Si no estás familiarizado con la línea de comandos, [aquí hay tutoriales usando herramientas con Interfaz Gráfica (GUI)](#Tutoriales-con-otras-herramientas)*
+#### *Si no estás familiarizado con la línea de comandos, [aquí hay tutoriales usando herramientas con Interfaz Gráfica (GUI)](#tutoriales-usando-otras-herramientas)*
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork de este repositorio" />
 
