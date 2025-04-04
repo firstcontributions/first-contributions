@@ -55,6 +55,7 @@
 - [Adrian Rosales](https://github.com/adrianhrosales365)
 - [Yashwanth Santhanam](https://github.com/yash1thsa)
 - [Gayathri Betha](https://github.com/Gayathri-betha)
+- [Qasim Sudais] (https://github.com/kasim23)
 - [Yashi Sharma](https://github.com/yashi-04)
 - [Oolazile](https://github.com/Oolazile)
 - [Eh Masuk](https://github.com/ehmasuk)
