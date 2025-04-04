@@ -49,7 +49,7 @@
 - [SomeRandomFella] (https://github.com/SomeRandomFella)
 - [Anushree S K] (https://github.com/anushree1206/)
 - [Saida] (https://github.com/sasasaida)
-- [Aditya ak](https://github.com/Adity-star)
+ [Aditya ak](https://github.com/Adity-star)
 - [Sawi Choukikar](https://github.com/choukikars16)
   [Ajaypal Singh Sran](https://github.com/Ajayss04)
 - [Misal Silva](https://github.com/MisalSilva)
@@ -187,6 +187,7 @@
 - [newtau] (https://github.com/newtau)
 - [Khyxer](https://github.com/Khyxer)
 - [Kenny92dev](https://github.com/Kenny92dev)
+- [Suneel Reddy]
 - [Harlan Enciso](https://github.com/harlanenciso112)
 - [JorgeGallegos](https://github.com/JorgeGallegos8)
 - [apple]
