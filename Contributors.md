@@ -22,6 +22,7 @@
 - [Gonzalo Murgeutyio](https://github.com/chalo2304)
 - [Nency Patel](https://github.com/nenncy)
 - [David canas](https://github.com/dacanass)
+- [Wee Ye Zhi](https://github.com/WeeYeZhi)
 - [Nithin M S](https://github.com/Nithin3003)
 - [Benita Kingsley](https://github.com/BenitaMags)
 - [Sabona Waktole](https://github.com/SabonaWaktole)
