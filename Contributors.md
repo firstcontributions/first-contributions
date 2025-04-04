@@ -15,6 +15,7 @@
 - [Tamilarasan](https://github.com/tamizhasn)
 - [Sai Krishna Kotha](https://github.com/sai-krishna-kotha)
 - [Meet Mehta](https://github.com/MeetInCode)
+- [Vasu Nandan](https://github.com/phoenixvasu)
 - [Karthikeyen K](https://github.com/KARTHIKEYEN14)
 - [Balaji Balakrishnan](https://github.com/balajibalakris)
 - [Alvaro Garcia](https://github.com/alvarofelipe12)
