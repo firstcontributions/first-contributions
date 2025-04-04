@@ -8,6 +8,7 @@
 - [Jonathan B. Liu](https://github.com/JBL168)
 - [HMMK](https://github.com/hmwemya10)
 - [Adhan Salah](https://github.com/adensalah)
+- [Yoyo Zhang](https://github.com/YoyoZhang24)
 - [Deron Hutchinson](https://github.com/Gitty-3ps)
 - [Youzi2233](https://github.com/Youzi2233)
 - [Tamilarasan](https://github.com/tamizhasn)
