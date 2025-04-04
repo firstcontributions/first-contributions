@@ -55,6 +55,7 @@
 - [Misal Silva](https://github.com/MisalSilva)
 - [Vijay Modi](https://github.com/VijayM0di)
 - [Stephen K](https://github.com/kotiang54)
+- [Caio Dias](https://github.com/devCaiodias)
 - [Bedelya] (https://github.com/Dazzlebutterfly)
 - [Vasudeva Cuddapah](https://github.com/NitishCuddapah)
 - [north-calm] (https://github.com/north-calm)
