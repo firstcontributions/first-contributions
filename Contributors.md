@@ -6,6 +6,7 @@
 - [Aditya ak](https://github.com/Adity-star)
   [Ajaypal Singh Sran](https://github.com/Ajayss04)
 - [Misal Silva](https://github.com/MisalSilva)
+- [Daniel Echevarria](https://github.com/daniel-echevarria)
 - [Stephen K](https://github.com/kotiang54)
 - [Vasudeva Cuddapah](https://github.com/NitishCuddapah)
 - [north-calm] (https://github.com/north-calm)
