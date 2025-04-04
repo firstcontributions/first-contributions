@@ -97,6 +97,29 @@ git push -u origin <nombre-rama>
 ```
 Reemplaza `<nombre-rama>` con el nombre de la rama que creaste anteriormente.
 
+<details>
+<summary> <strong>Si obtienes algún error al enviar (Push), haz clic aquí:</strong> </summary>
+
+- ### Error de Autenticación
+    <pre>remote: El soporte para la autenticación de contraseña se eliminó el 13 de agosto de 2021. Utiliza un token de acceso personal en su lugar.
+  remote: Consulta [https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/) para obtener más información.
+  fatal: Fallo en la autenticación para '[https://github.com/](https://github.com/)<tu-usuario>/first-contributions.git/'</pre>
+    Ve al [tutorial de GitHub](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) sobre cómo generar y configurar una clave SSH en tu cuenta.
+
+    Además, es posible que desees ejecutar `git remote -v` para verificar tu dirección remota.
+    
+    Si se ve algo como esto:
+    <pre>origin [https://github.com/tu-usuario/tu_repo.git] (fetch)  
+  origin  [https://github.com/tu-usuario/tu_repo.git] (push)</pre>
+
+    
+    cámbialo usando este comando:
+    ```bash
+    git remote set-url origin git@github.com:tu-usuario/tu_repo.git
+    ```
+    De lo contrario, aún se te pedirá un nombre de usuario y contraseña y obtendrás un error de autenticación.
+</details>
+
 ## Envía (*Submit*) tus cambios para ser revisados
 
 Si vas a tu repositorio en GitHub, verás un botón `Compare & pull request`. Haz clic sobre este botón.
