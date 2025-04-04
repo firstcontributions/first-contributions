@@ -1,4 +1,4 @@
-# Contributors
+ # Contributors
 
 - [Prayoga Agus Setiawan](https://github.com/Prayoga-bit)
 - [Dibyadyuti Das](https://github.com/DibyadyutiDas)
@@ -166,6 +166,7 @@
 - [Kaung Min Htet](https://github.com/kaungminhtet-swe)
 - [Adam Abgao](https://github.com/adamabgao?tab=repositories)
 - [RedScare76](https://github.com/RedScare76)
+- [Gustavo Rodrigues](https://github.com/gusropdev)
 - [Anuvab Bikash Nayak](https://github.com/AnuvabNayak)
 - [shetloorrahul](https://github.com/shetloorrahul)
 - [Krishna Gollavilli](https://github.com/SvachutaGollavilli)
