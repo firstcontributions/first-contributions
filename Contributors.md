@@ -1,5 +1,5 @@
 # Contributors
-
+- [Anish Kumar](https://github.com/anish1301)
 - [Dibyadyuti Das](https://github.com/DibyadyutiDas)
 - [Kruthi Kusa](https://github.com/kruthi-kusa)
 - [Vidit](https://github.com/VIDIT-13)
