@@ -1,5 +1,6 @@
 # Contributors
 
+- [Dibyadyuti Das](https://github.com/DibyadyutiDas)
 - [Kruthi Kusa](https://github.com/kruthi-kusa)
 - [Vidit](https://github.com/VIDIT-13)
 - [Tarreq Maulana](https://github.com/mrtrq)
