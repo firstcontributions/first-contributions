@@ -958,6 +958,7 @@
 - [Jonathan](https://github.com/JonathanCharles2003)
 - [Ishita](https://github.com/elekish)
 - Udhay
+- [Smit Joshi](https://github.com/smit-1z)
 - [Shresta](https://github.com/g-shresta)
 - [Michael](https://github.com/LucidWinter)
 - [Phillip](gttps://github.com/PhillipSom)
