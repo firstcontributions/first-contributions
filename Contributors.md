@@ -10,7 +10,6 @@
 - [Nick Girmes] (https://github.com/ngirmes)
 - [Jonathan B. Liu](https://github.com/JBL168)
 - [HMMK](https://github.com/hmwemya10)
-- [Pablo Berzal](https://github.com/PabloJBG)
 - [Adhan Salah](https://github.com/adensalah)
 - [Yoyo Zhang](https://github.com/YoyoZhang24)
 - [Deron Hutchinson](https://github.com/Gitty-3ps)
