@@ -1788,16 +1788,17 @@
 - [Atharva-Gurav](https://github.com/Guri10)
 - [Gnaneswar Lopinti](https://github.com/flying-spagetti)
 - [Daniel Kohut](https://github.com/DanielKohut)
--Charles Sigxakuma 
--Rachel_qi
+- Charles Sigxakuma 
+- Rachel_qi
 - [eja](https://github.com/ealker)
--[Mitali]
+- [Mitali]
 - [Dinesh Kumar S R](https://github.com/dineshkumarsrdk)
 - [xinshujun](https://github.com/xianshujun)
 - [Jade](https://github.com/Sharizhai)
 - Antoine 
 - [John](https://github.com/JosParker)
--[Abdulahi Fantaw](https://github.com/abdelishha)
--[Shivam Saurabh](https://github.com/rebeljustice13)
+- [Abdulahi Fantaw](https://github.com/abdelishha)
+- [Shivam Saurabh](https://github.com/rebeljustice13)
 - [Justin Holsinger](https://github.com/JHolsy)
--[Rwin Zakeri](https://github.com/RwinZakeri)
+- [Rwin Zakeri](https://github.com/RwinZakeri)
+- [Coder x Rohan](https://github.com/Coderxrohan)
