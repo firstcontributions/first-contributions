@@ -1778,6 +1778,7 @@
 - [HQHC](https://github.com/HQHC)
 - [Sartaj](https://github.com/sartajkhan25)
 - [Priyesh1311421](https://github.com/Priyesh1311421)
+- [YASH SISODIYA 😊](https://github.com/01yash01)
 - [LlisGod](https://github.com/LlisGod)
 - [Daniel](https://github.com/danigst)
 - [DPrakashh](https://github.com/DPrakashh)
@@ -1792,3 +1793,4 @@
 - [xinshujun](https://github.com/xianshujun)
 - [Jade](https://github.com/Sharizhai)
 - Antoine 
+
