@@ -5,6 +5,7 @@
 - [Kruthi Kusa](https://github.com/kruthi-kusa)
 - [Akshay Tiwari](https://github.com/AkshayTiwari222)
 - [Vidit](https://github.com/VIDIT-13)
+- [GerardMastra](https://github.com/GerardMastra)
 - [Melek Kchaou](https://github.com/KcMelek)
 - [Tarreq Maulana](https://github.com/mrtrq)
 - [Ramzan Khan](https://github.com/Ramzan-Khan-786)
