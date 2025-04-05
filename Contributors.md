@@ -72,6 +72,7 @@
 - [Yashi Sharma](https://github.com/yashi-04)
 - [Chasang Tsering Bhutia](https://github.com/ChasangBhutia)
 - [Oolazile](https://github.com/Oolazile)
+- [Franklin Gómez](https://github.com/Franklingo13)
 - [Eh Masuk](https://github.com/ehmasuk)
 - [Mattias](https://github.com/mattiasstrom)
 - [Joe Akroush](https://github.com/reloadjoefromkokomo)
