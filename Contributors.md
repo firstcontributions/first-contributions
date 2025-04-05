@@ -26,6 +26,7 @@
 - [Balaji Balakrishnan](https://github.com/balajibalakris)
 - [Alvaro Garcia](https://github.com/alvarofelipe12)
 - [Matheesha Senevirathne](https://github.com/Matheesha-ls)
+- [Neer Gosrani] (https://github.com/NeErAgOsRaNi)
 - [Kirtiraj Darwai]
 - [Saicobys (Jacob Moronta)](https://github.com/SaicoBys)
 - [Gonzalo Murgeutyio](https://github.com/chalo2304)
