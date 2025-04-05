@@ -1751,6 +1751,7 @@
 -[Biokes](https://github.com/Biokes)
 - [Faraz Mirza](https://github.com/code-with-faraz)
 - [Raghav]
+- [Claire] (https://github.com/clairew16)
 - [Chandan](https://github.com/chandankr111)
 - [Eng-Soft-Claudio](https://github.com/Eng-Soft-Claudio)
 - [dyasic](https://github.com/dyasic)
