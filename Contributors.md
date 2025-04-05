@@ -7,6 +7,7 @@
 - [Vidit](https://github.com/VIDIT-13)
 - [Tarreq Maulana](https://github.com/mrtrq)
 - [Ramzan Khan](https://github.com/Ramzan-Khan-786)
+- [Syed Ali](https://github.com/Pro-Algorythm)
 - [Nick Girmes] (https://github.com/ngirmes)
 - [Jonathan B. Liu](https://github.com/JBL168)
 - [HMMK](https://github.com/hmwemya10)
@@ -1797,3 +1798,4 @@
 - [John](https://github.com/JosParker)
 -[Abdulahi Fantaw](https://github.com/abdelishha)
 -[Shivam Saurabh](https://github.com/rebeljustice13)
+- [Justin Holsinger](https://github.com/JHolsy)
