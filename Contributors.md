@@ -69,6 +69,7 @@
 - [Ansh Pachauri](https://github.com/ansh-pachauri/)
 - [Adrian Rosales](https://github.com/adrianhrosales365)
 - [Thrisha Kopula](https://github.com/ThrishaKopula)
+- [Abasiono Mbat] (https://github.com/AJ-505)
 - [Yashwanth Santhanam](https://github.com/yash1thsa)
 - [Visal Raza Zaidi](https://github.com/VisalRazaZaidi)
 - [Gayathri Betha](https://github.com/Gayathri-betha)
