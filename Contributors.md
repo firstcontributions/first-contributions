@@ -49,6 +49,7 @@
 - [Visur Indula](https://github.com/visuraindula2001)
 - [Rob Clark] (https://github.com/robthomasclark)
 - [SomeRandomFella] (https://github.com/SomeRandomFella)
+- [Nikhil Adapureddy] (https://github.com/nikkhil9)
 - [Anushree S K] (https://github.com/anushree1206/)
 - [Saida] (https://github.com/sasasaida)
  [Aditya ak](https://github.com/Adity-star)
