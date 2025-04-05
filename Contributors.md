@@ -3,6 +3,7 @@
 - [Prayoga Agus Setiawan](https://github.com/Prayoga-bit)
 - [Dibyadyuti Das](https://github.com/DibyadyutiDas)
 - [Kruthi Kusa](https://github.com/kruthi-kusa)
+-[Akshay Tiwari](https://github.com/AkshayTiwari222)
 - [Vidit](https://github.com/VIDIT-13)
 - [Tarreq Maulana](https://github.com/mrtrq)
 - [Ramzan Khan](https://github.com/Ramzan-Khan-786)
