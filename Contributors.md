@@ -61,6 +61,7 @@
 - [Bedelya] (https://github.com/Dazzlebutterfly)
 - [Vasudeva Cuddapah](https://github.com/NitishCuddapah)
 - [north-calm] (https://github.com/north-calm)
+- [Sindhu R] (https://github.com/17sindhu)
 - [Aditi Verma](https://github.com/aditi02verma)
 - [Ansh Pachauri](https://github.com/ansh-pachauri/)
 - [Adrian Rosales](https://github.com/adrianhrosales365)
