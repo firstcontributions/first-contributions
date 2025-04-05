@@ -1,4 +1,4 @@
- # Contributors
+﻿ # Contributors
 
 - [Prayoga Agus Setiawan](https://github.com/Prayoga-bit)
 - [Dibyadyuti Das](https://github.com/DibyadyutiDas)
@@ -1695,6 +1695,7 @@
 - [Kopai](https://github.com/kopai11)
 - [Rpqq](https://github.com/rpqq)
 - [Gourabananda Datta](https://github.com/gourabanandad)
+- [Sphurti Dixit](https://github.com/SphurtiD)
 - [Dagimawi Tamrat] (https://github.com/Dagimawi7)
 - [Daniel Bessa](https://github.com/dwbessa)
 - [Modem Sai Deekshith](https://github.com/itzme-deekshith)
@@ -1787,3 +1788,4 @@
 -[Mitali]
 - [Dinesh Kumar S R](https://github.com/dineshkumarsrdk)
 - [xinshujun](https://github.com/xianshujun)
+- [Jade](https://github.com/Sharizhai)
