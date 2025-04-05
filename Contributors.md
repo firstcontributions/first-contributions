@@ -14,6 +14,7 @@
 - [Pablo Berzal](https://github.com/PabloJBG)
 - [Adhan Salah](https://github.com/adensalah)
 - [Yoyo Zhang](https://github.com/YoyoZhang24)
+- [HARINAARAYANAN U](https://github.com/IamHarriiii)
 - [Deron Hutchinson](https://github.com/Gitty-3ps)
 - [Youzi2233](https://github.com/Youzi2233)
 - [Tamilarasan](https://github.com/tamizhasn)
