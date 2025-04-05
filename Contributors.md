@@ -106,6 +106,7 @@
 - [Ravi Shankar Poddar](https://github.com/ravirv17)
 - [Khushi nagaliya](https://github.com/Khushi1638)
 - [Rohan Gorvadiya](https://github.com/Rohangorvadia)
+- [Shivam Khedekar](https://github.com/shivam501-00)
 - [Eekshitha Vemula](https://github.com/eekshitha1)
 - [Rishav Mondal](https://github.com/CallSignRishav)
 - [Racheal Milele](https://github.com/RachealMilele123)
