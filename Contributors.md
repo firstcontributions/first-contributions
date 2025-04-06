@@ -1,4 +1,4 @@
-﻿ # Contributors
+ # Contributors
 
 - [Thomas](https://github.com/Thomas-Leo)
 - [Arnav Agarwal](https://github.com/arnav-343-agarwal)
@@ -590,6 +590,7 @@
 - [meenakshiruia](https://github.com/meenakshiruia)
 - [Joshua Luca](https://github.com/joshluca98)
 - [Yhlas Yazmyrad](https://github.com/yazmyrad)
+- [Sean Calderon](https://github.com/rimorgin)
 - [Anusha Jamsandekar](https://github.com/anushaj79)
 - [RomaniukNatalia](https://github.com/RomaniukNatalia)
 - [Kelvin Yeboah](https://github.com/KelvCodes)
