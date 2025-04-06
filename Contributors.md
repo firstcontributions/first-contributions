@@ -128,6 +128,7 @@
 - [Anthony M. Mwila](https://github.com/anthonymmwila)
 - [Ahmed Issawy](https://github.com/AhmedIssawy)
 - [Taha Yunus Demir](https://github.com/tahayunusdemir)
+- [Venkataramana hegde](https://github.com/Venkataramana-hegde)
 - [Samson Kwizela](https://github.com/SamsonKwizela)
 - [Illia Dehodiuk](https://github.com/IlliaDhD)
 - [Arowolo Abimbola](https://github.com/ArowoloAbimbolaVictoria)
