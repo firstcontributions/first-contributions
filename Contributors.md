@@ -72,6 +72,7 @@
 - [Bedelya] (https://github.com/Dazzlebutterfly)
 - [Vasudeva Cuddapah](https://github.com/NitishCuddapah)
 - [north-calm] (https://github.com/north-calm)
+-[MAANASA-KOTTE] (htts://gthub.com/MAANASA-KOTTE)
 - [Sindhu R] (https://github.com/17sindhu)
 - [Aditi Verma](https://github.com/aditi02verma)
 - [Ansh Pachauri](https://github.com/ansh-pachauri/)
