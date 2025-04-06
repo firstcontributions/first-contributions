@@ -1809,6 +1809,7 @@
 - [Gnaneswar Lopinti](https://github.com/flying-spagetti)
 - [Daniel Kohut](https://github.com/DanielKohut)
 - [Hossein Khalilian](https://github.com/hossein-khalilian)
+- [Dylan Brandstetter](https://github.com/dylanbrandstetter)
 -Charles Sigxakuma 
 -hemeshhere
 -Rachel_qi
