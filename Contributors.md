@@ -1,5 +1,6 @@
 ﻿ # Contributors
 
+- [Arsh Patel](https://github.com/Arshp-svg)
 - [Prayoga Agus Setiawan](https://github.com/Prayoga-bit)
 - [Dibyadyuti Das](https://github.com/DibyadyutiDas)
 - [Kruthi Kusa](https://github.com/kruthi-kusa)
