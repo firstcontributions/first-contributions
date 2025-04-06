@@ -8,6 +8,7 @@
 - [Kruthi Kusa](https://github.com/kruthi-kusa)
 - [Akshay Tiwari](https://github.com/AkshayTiwari222)
 - [Vidit](https://github.com/VIDIT-13)
+- [ethical-buddy](https://github.com/ethical-buddy)
 - [GerardMastra](https://github.com/GerardMastra)
 - [Melek Kchaou](https://github.com/KcMelek)
 - [Tarreq Maulana](https://github.com/mrtrq)
