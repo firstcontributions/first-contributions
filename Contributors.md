@@ -33,6 +33,7 @@
 - [Matheesha Senevirathne](https://github.com/Matheesha-ls)
 - [Neer Gosrani] (https://github.com/NeErAgOsRaNi)
 - [Kirtiraj Darwai]
+- [Ayush Hrishikesh Mishra](https://github.com/Ayush-hm)
 - [Saicobys (Jacob Moronta)](https://github.com/SaicoBys)
 - [Gonzalo Murgeutyio](https://github.com/chalo2304)
 - [Nency Patel](https://github.com/nenncy)
