@@ -8,6 +8,7 @@
 - [GerardMastra](https://github.com/GerardMastra)
 - [Melek Kchaou](https://github.com/KcMelek)
 - [Tarreq Maulana](https://github.com/mrtrq)
+- [Tsakane Shiri](https://github.com/tsakane28)
 - [Ramzan Khan](https://github.com/Ramzan-Khan-786)
 - [Syed Ali](https://github.com/Pro-Algorythm)
 - [Nick Girmes] (https://github.com/ngirmes)
