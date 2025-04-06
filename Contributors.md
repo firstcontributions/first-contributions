@@ -139,6 +139,7 @@
 - [Irakiza Divine](https://github.com/DivineIrakiza)
 - [Darlene Ishimwe](https://github.com/DarleneIshimwe)
 - [Nirbhay Pratap Singh](https://github.com/NirbhayPS)
+- [Kshitij Raj](https://github.com/Kshitij0007)
 - [heer](https://github.com/gunheerahuja)
 - [camonayc](https://github.com/camonayc)
 - [ZhIIhaoc](https://github.com/ZhIIhaoc)
