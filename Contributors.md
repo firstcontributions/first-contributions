@@ -14,6 +14,7 @@
 - [Melek Kchaou](https://github.com/KcMelek)
 - [Tarreq Maulana](https://github.com/mrtrq)
 - [Tsakane Shiri](https://github.com/tsakane28)
+- [Emmanuel Ofoneta](https://github.com/Lordmaryo)
 - [Ramzan Khan](https://github.com/Ramzan-Khan-786)
 - [Mamta Vyas](https://github.com/your-mamta-vyas)
 - [Syed Ali](https://github.com/Pro-Algorythm)
