@@ -2,6 +2,7 @@
 
 - [Thomas](https://github.com/Thomas-Leo)
 - [Arnav Agarwal](https://github.com/arnav-343-agarwal)
+[Patrick Yeboah Bonsu](https://github.com/Patrick-Bonsu)
 - [Arsh Patel](https://github.com/Arshp-svg)
 - [Prayoga Agus Setiawan](https://github.com/Prayoga-bit)
 - [Dibyadyuti Das](https://github.com/DibyadyutiDas)
