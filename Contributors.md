@@ -1,5 +1,6 @@
  # Contributors
 
+- [Vishal] (https://github.com/ghostdeveloper404)
 - [Thomas](https://github.com/Thomas-Leo)
 - [Arnav Agarwal](https://github.com/arnav-343-agarwal)
 [Patrick Yeboah Bonsu](https://github.com/Patrick-Bonsu)
