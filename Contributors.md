@@ -246,6 +246,7 @@
 - [Hans Kalders](https://github.com/hansk112)
 - [Harsha0603](https://github.com/harsha0603)
 - Javier Borja
+- Regina Niu
 - [Davide Franchi](https://github.com/DAVIDE004)
 - Jeffrey Cole
 - [David Ruiz](https://github.com/DavidRZ-ai)
