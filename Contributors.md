@@ -25,6 +25,7 @@
 - [Nick Girmes] (https://github.com/ngirmes)
 - [Jonathan B. Liu](https://github.com/JBL168)
 - [HMMK](https://github.com/hmwemya10)
+- [Jayashree Manigandan](https://github.com/Jay9093)
 - [Pablo Berzal](https://github.com/PabloJBG)
 - [Adhan Salah](https://github.com/adensalah)
 - [Yoyo Zhang](https://github.com/YoyoZhang24)
