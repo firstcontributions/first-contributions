@@ -1231,6 +1231,7 @@
 - [Yor-Jihons](https://github.com/Yor-Jihons)
 - [tayobaki](https://github.com/tayobaki)
 - [Charles Sanders @visionthex](https://github.com/visionthex)
+- [Balu](https://github.com/Bhimadolu-Balu)
 - [Sayan](https://github.com/sayan112207)
 - [Edmond Neziraj](https://github.com/EdmondNeziraj)
 - [Kaivan Shah](https://github.com/Kaivanshah1)
