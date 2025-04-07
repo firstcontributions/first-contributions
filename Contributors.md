@@ -626,6 +626,7 @@
 - [sgunner2014](https://github.com/SGunner2014)
 - [Ryen-K](https://github.com/Ryen-K)
 - [antoineDELEBECQUE](https://github.com/AntoineDlb)
+- [Patel Smitkumar](https://github.com/smitRoot)
 - [Josh Gregory](https://github.com/joshtype)
 - [lepickel](https://github.com/lepickel)
 - [Furanimus](https://github.com/Furanimus)
