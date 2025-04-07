@@ -1,9 +1,10 @@
- # Contributors
+# Contributors
 
 - [Thomas](https://github.com/Thomas-Leo)
 - [Arnav Agarwal](https://github.com/arnav-343-agarwal)
 [Patrick Yeboah Bonsu](https://github.com/Patrick-Bonsu)
 - [Arsh Patel](https://github.com/Arshp-svg)
+- [Parth Verma](https://github.com/parthverma)
 - [Prayoga Agus Setiawan](https://github.com/Prayoga-bit)
 - [Dibyadyuti Das](https://github.com/DibyadyutiDas)
 - [Kruthi Kusa](https://github.com/kruthi-kusa)
@@ -959,7 +960,7 @@
 - [Neeraj M](https://github.com/NERUZ-XOD)
 - [Jason Ang](https://github.com/jasonavatarang)
 - [Sashin Trout](https://github.com/sashin123)
-- [Anish Banda](https://github.con/anishbanda)
+- [Anish Banda](https://github.com/anishbanda)
 - [Jordy19](https://github.com/Jordy19)
 - [Efte Hassan Hridoy](https://github.com/eftehassanpp)
 - [Kannan Ravindran](https://github.com/kannan-ravi)
