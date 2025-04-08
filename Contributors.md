@@ -1,14 +1,19 @@
  # Contributors
 
+- [Satish Birhade](https://github.com/SatishB15)
 - [kamesh63] (https://github.com/kamesh63)
 - [David Aldan] (https://github.com/davidaldan)
+- [Tarak] (https://github.com/tarak6984)
 - [Vishal] (https://github.com/ghostdeveloper404)
 - [Thomas](https://github.com/Thomas-Leo)
 - [Chao Cherng] (https://github.com/ChaoCherng-Lee)
 - [Abhishek Upadhyay](http://github.com/GitsGut)
+- [caliarch](https://github.com/caliarch)
 - [Arnav Agarwal](https://github.com/arnav-343-agarwal)
 [Patrick Yeboah Bonsu](https://github.com/Patrick-Bonsu)
 - [Arsh Patel](https://github.com/Arshp-svg)
+- [Roman Sheydvasser](https://github.com/rsheyd)
+- [Mario Lovamanitra](https://github.com/Hey-Mario)
 - [Prayoga Agus Setiawan](https://github.com/Prayoga-bit)
 - [Dibyadyuti Das](https://github.com/DibyadyutiDas)
 - [Kruthi Kusa](https://github.com/kruthi-kusa)
@@ -48,8 +53,11 @@
 - [Matheesha Senevirathne](https://github.com/Matheesha-ls)
 - [Neer Gosrani] (https://github.com/NeErAgOsRaNi)
 - [Kirtiraj Darwai]
+- [Deshmukh Shubham] (https://github.com/deshmukh-shubham)
 - [Ayush Hrishikesh Mishra](https://github.com/Ayush-hm)
+- [João Victor dos Reis da Silva](https://github.com/R3I5)
 - [Saicobys (Jacob Moronta)](https://github.com/SaicoBys)
+- [Hechima](https://github.com/hechima256)
 - [Gonzalo Murgeutyio](https://github.com/chalo2304)
 - [Nency Patel](https://github.com/nenncy)
 - [David canas](https://github.com/dacanass)
@@ -71,6 +79,7 @@
 - [Fardeen Shahed](https://github.com/Fardeen2903)
 - [Clegginator](https://github.com/Clegginator)
 - [nii fakye](https://github.com/Niifakye)
+- [kalkrijk](https://github.com/kalkrijk)
 - [Coolgamer]
 - [dzwee]
 - [Sunil Pabba]
@@ -715,6 +724,7 @@
 - [AvAdiii](https://github.com/AvAdiii)
 - [Madhav Singh](https://github.com/maddy710)
 - [David Okosa](https://github.com/dfw7th)
+  [Theo-do](https://github.com/Theo-do)
 - [FloraPetit](https://github.com/PetitFlora)
 - [anthocote19](https://github.com/anthocote19)
 - [souravsumit07](https://github.com/souravsumit07)
@@ -937,6 +947,7 @@
 - [Sashakt Keshri](https://github.com/SASHAKT1290)
 - [Varun Sharma](https://github.com/varunsh20/)
 - [Keshav Kant](https://github.com/Keshav-Kant/)
+- [Cristian Leiton Valencia](https://github.com/crileiton/)
 - [emrlk](https://github.com/emrlk)
 - [Yiitalp] (https://github.com/Yiitalpp)
 - [Chuffed](https://github.com/Chuffed-Code)
@@ -1834,6 +1845,7 @@
 - [Daniel Kohut](https://github.com/DanielKohut)
 - [Hossein Khalilian](https://github.com/hossein-khalilian)
 - [Dylan Brandstetter](https://github.com/dylanbrandstetter)
+- [Nouran Sabry](https://github.com/NouSabr)
 -Charles Sigxakuma 
 -hemeshhere
 -Rachel_qi
@@ -1868,3 +1880,4 @@
 - [Jake S](https://github.com/jakedevsthings)
 - [Sunil Kumar](https://github.com/sunilkumar2170)
 - [Burak Teke](https://github.com/buraktke)
+- [Whoami](https://github.com/12471220)
