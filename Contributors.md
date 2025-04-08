@@ -1860,3 +1860,4 @@
 - [Rodrigo Avino](https://github.com/rodrigoavino)
 - [ESSEDD](https://github.com/ESSEDD)
 - [Balasurya S](https://github.com/SBalasuryas)
+- [Jake S](https://github.com/jakedevsthings)
