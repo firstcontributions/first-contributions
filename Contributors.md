@@ -9,6 +9,7 @@
 - [Arnav Agarwal](https://github.com/arnav-343-agarwal)
 [Patrick Yeboah Bonsu](https://github.com/Patrick-Bonsu)
 - [Arsh Patel](https://github.com/Arshp-svg)
+- [Mario Lovamanitra](https://github.com/Hey-Mario)
 - [Prayoga Agus Setiawan](https://github.com/Prayoga-bit)
 - [Dibyadyuti Das](https://github.com/DibyadyutiDas)
 - [Kruthi Kusa](https://github.com/kruthi-kusa)
