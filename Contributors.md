@@ -997,6 +997,7 @@
 - [Alanto Manu](https://github.com/alantomanu)
 - [Shivam Mishra](https://github.com/29shivam99)
 - [Aaditya Chunekar](https://github.com/Aaditya-Chunekar)
+- [magikcarp](https://github.com/magikcarp)
 - [Alex Thompson](https://github.com/Alex-Inems)
 - [Anand Shende](https://github.com/anandshende)
 - [Arisa Abiko](https://github.com/arisaabiko)
