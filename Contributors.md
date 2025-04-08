@@ -2,6 +2,7 @@
 
 - [kamesh63] (https://github.com/kamesh63)
 - [David Aldan] (https://github.com/davidaldan)
+- [Tarak] (https://github.com/tarak6984)
 - [Vishal] (https://github.com/ghostdeveloper404)
 - [Thomas](https://github.com/Thomas-Leo)
 - [Chao Cherng] (https://github.com/ChaoCherng-Lee)
