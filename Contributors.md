@@ -6,6 +6,7 @@
 - [Thomas](https://github.com/Thomas-Leo)
 - [Chao Cherng] (https://github.com/ChaoCherng-Lee)
 - [Abhishek Upadhyay](http://github.com/GitsGut)
+- [caliarch](https://github.com/caliarch)
 - [Arnav Agarwal](https://github.com/arnav-343-agarwal)
 [Patrick Yeboah Bonsu](https://github.com/Patrick-Bonsu)
 - [Arsh Patel](https://github.com/Arshp-svg)
@@ -1870,4 +1871,7 @@
 - [Jake S](https://github.com/jakedevsthings)
 - [Sunil Kumar](https://github.com/sunilkumar2170)
 - [Burak Teke](https://github.com/buraktke)
+<<<<<<< HEAD
 - [Fardin Noora Kazi](https://github.com/fardinkazi)
+=======
+>>>>>>> 936902fc1421b82f837c25d9e14354fd47b98adb
