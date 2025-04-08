@@ -3,6 +3,7 @@
 - [David Aldan] (https://github.com/davidaldan)
 - [Vishal] (https://github.com/ghostdeveloper404)
 - [Thomas](https://github.com/Thomas-Leo)
+- [Chao Cherng] (https://github.com/ChaoCherng-Lee)
 - [Abhishek Upadhyay](http://github.com/GitsGut)
 - [Arnav Agarwal](https://github.com/arnav-343-agarwal)
 [Patrick Yeboah Bonsu](https://github.com/Patrick-Bonsu)
