@@ -723,6 +723,7 @@
 - [AvAdiii](https://github.com/AvAdiii)
 - [Madhav Singh](https://github.com/maddy710)
 - [David Okosa](https://github.com/dfw7th)
+  [Theo-do](https://github.com/Theo-do)
 - [FloraPetit](https://github.com/PetitFlora)
 - [anthocote19](https://github.com/anthocote19)
 - [souravsumit07](https://github.com/souravsumit07)
