@@ -11,6 +11,7 @@
 - [Prayoga Agus Setiawan](https://github.com/Prayoga-bit)
 - [Dibyadyuti Das](https://github.com/DibyadyutiDas)
 - [Kruthi Kusa](https://github.com/kruthi-kusa)
+- [Khushi Rajpurohit](https://github.com/kraj2003)
 - [Akshay Tiwari](https://github.com/AkshayTiwari222)
 - [Vidit](https://github.com/VIDIT-13)
 - [ethical-buddy](https://github.com/ethical-buddy)
