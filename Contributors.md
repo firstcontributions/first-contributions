@@ -1591,6 +1591,7 @@
 - [Omer Diaaeldin](https://github.com/OmerDiaaeldin)
 - [Sainul Abid](https://github.com/abidta)
 - [Mayi RAj](https://github.com/mayilraj)
+- [Ethan Dettmann](https://github.com/EtDet)
 - [sonakeee](https://github.com/sonakeee)
 - [gabriel alcantara](https://github.com/gabriel-alcantara)
 - [Dawid Pisarczyk](https://github.com/Dawe000)
