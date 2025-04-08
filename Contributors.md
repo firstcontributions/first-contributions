@@ -942,6 +942,7 @@
 - [Sashakt Keshri](https://github.com/SASHAKT1290)
 - [Varun Sharma](https://github.com/varunsh20/)
 - [Keshav Kant](https://github.com/Keshav-Kant/)
+- [Cristian Leiton Valencia](https://github.com/crileiton/)
 - [emrlk](https://github.com/emrlk)
 - [Yiitalp] (https://github.com/Yiitalpp)
 - [Chuffed](https://github.com/Chuffed-Code)
