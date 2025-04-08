@@ -54,6 +54,7 @@
 - [Ayush Hrishikesh Mishra](https://github.com/Ayush-hm)
 - [João Victor dos Reis da Silva](https://github.com/R3I5)
 - [Saicobys (Jacob Moronta)](https://github.com/SaicoBys)
+- [Hechima](https://github.com/hechima256)
 - [Gonzalo Murgeutyio](https://github.com/chalo2304)
 - [Nency Patel](https://github.com/nenncy)
 - [David canas](https://github.com/dacanass)
