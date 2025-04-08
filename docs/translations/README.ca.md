@@ -107,7 +107,8 @@ Enhorabona! Acabes de completar el procés de treball principal que et trobaràs
 
 Ara, celebra la teva contribució i comparteix-la amb els teus amics i seguidors anant a [la web](https://firstcontributions.github.io/#social-share).
 
-Podeu unir-vos al nostre equip d'*slack* en cas de que necessiteu ajuda o tingueu alguna pregunta. [Unir-se a l'equip d'slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
+Pots veure altres maneres de contribuir en aquest [repositori](https://github.com/firstcontributions/first-contributions#getting-help).
+
 
 A continuació, et pots preparar per contribuir a altres projectes. Hem reunit una llista de projectes amb tasques (*issues*) pendents fàcils per tal de poder començar. Fes un cop d'ull a [la llista de projectes aquí](https://firstcontributions.github.io/#project-list).
 
