@@ -1876,3 +1876,7 @@
 - [Jake S](https://github.com/jakedevsthings)
 - [Sunil Kumar](https://github.com/sunilkumar2170)
 - [Burak Teke](https://github.com/buraktke)
+<<<<<<< HEAD
+- [Fardin Noora Kazi](https://github.com/fardinkazi)
+=======
+>>>>>>> 936902fc1421b82f837c25d9e14354fd47b98adb
