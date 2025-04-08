@@ -1870,3 +1870,4 @@
 - [Jake S](https://github.com/jakedevsthings)
 - [Sunil Kumar](https://github.com/sunilkumar2170)
 - [Burak Teke](https://github.com/buraktke)
+- [Fardin Noora Kazi](https://github.com/fardinkazi)
