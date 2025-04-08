@@ -71,6 +71,7 @@
 - [Coolgamer]
 - [dzwee]
 - [Visur Indula](https://github.com/visuraindula2001)
+- [Hardy Scheel](https://github.com/hardyscheel)
 - [Rob Clark] (https://github.com/robthomasclark)
 - [SomeRandomFella] (https://github.com/SomeRandomFella)
 - [Nikhil Adapureddy] (https://github.com/nikkhil9)
