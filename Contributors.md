@@ -1,5 +1,6 @@
  # Contributors
 
+- [Gabriel Lima](https://github.com/gabriel-lima258)
 - [Alex Bascevan](https://github.com/alexbascevan)
 - [Satish Birhade](https://github.com/SatishB15)
 - [kamesh63] (https://github.com/kamesh63)
