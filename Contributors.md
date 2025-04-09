@@ -129,6 +129,7 @@
 - [Eh Masuk](https://github.com/ehmasuk)
 - [Mattias](https://github.com/mattiasstrom)
 - [Joe Akroush](https://github.com/reloadjoefromkokomo)
+- [RF](https://github.com/IngRF)
 - [Robert Fodor](https://github.com/IngRobertFodor)
 - [Robco Fodor](https://github.com/RobcoFodor)
 - [Irsyad](https://github.com/i230010)
