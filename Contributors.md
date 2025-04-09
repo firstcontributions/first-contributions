@@ -123,6 +123,7 @@
 - [Micheal-Ndoh](https://github.com/micheal-ndoh)
 - [Graham Morrison](https://github.com/morpole)
 - [ManueldG](https://github.com/ManueldG)
+- [Albert Aldor](https://github.com/AlbertAldor)
 - [MazenSamehR](https://github.com/MazenSamehR)
 - [mazezen](https://github.com/mazezen)
 - [Lakshay Bhatia](https://github.com/lakshayb30)
