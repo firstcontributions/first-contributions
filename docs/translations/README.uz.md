@@ -105,7 +105,6 @@ albatta, `yangi-branch-nomingiz` ni biroz oldin yaratgan branch nomiga almashtir
   fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'
 </pre>
 
-Akkountingizga SSH kalit yaratish va konfiguratsiya qilish uchun [GitHub qo'llanma](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) ga o'ting.
 
 </details>
 
