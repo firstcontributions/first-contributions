@@ -43,6 +43,7 @@
 - [Adhan Salah](https://github.com/adensalah)
 - [Yoyo Zhang](https://github.com/YoyoZhang24)
 - [HARINAARAYANAN U](https://github.com/IamHarriiii)
+- [Wing Sun Au](https://github.com/WingSunAu)
 - [Deron Hutchinson](https://github.com/Gitty-3ps)
 - [Youzi2233](https://github.com/Youzi2233)
 - [Tamilarasan](https://github.com/tamizhasn)
