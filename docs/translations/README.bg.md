@@ -107,7 +107,10 @@ git push origin <add-your-branch-name>
 
 Поздравления!  Вие току що изпълнихте стандарните _fork -> clone -> edit -> PR_ операции, които ще срещнете като сътрудник!
 
-Отпразнувайте вашия принос и го споделете с приятели и последователи като посетите [уеб приложението](https://firstcontributions.github.io/#social-share).
+## Накъде след това?
+
+Вижте [Как да допринасяте с код](https://github.com/firstcontributions/first-contributions#next-steps), за да започнете.
+
 
 Ако бихте искали повече практика, разгледайте [код приноси](https://github.com/roshanjossey/code-contributions).
 
