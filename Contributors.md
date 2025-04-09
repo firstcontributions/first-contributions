@@ -142,6 +142,7 @@
 - [Graham Morrison](https://github.com/morpole)
 - [ManueldG](https://github.com/ManueldG)
 - [Albert Aldor](https://github.com/AlbertAldor)
+- [Jhony Wuanderson](https://github.com/Jhony-wqs)
 - [MazenSamehR](https://github.com/MazenSamehR)
 - [mazezen](https://github.com/mazezen)
 - [Lakshay Bhatia](https://github.com/lakshayb30)
