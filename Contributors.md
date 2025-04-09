@@ -126,7 +126,7 @@
 - [Albert Aldor](https://github.com/AlbertAldor)
 - [MazenSamehR](https://github.com/MazenSamehR)
 - [mazezen](https://github.com/mazezen)
-- [Talbert Taldor](https://github.com/TalbertTaldor)
+- [Aalbert Aaldor](https://github.com/AalbertAaldor)
 - [Lakshay Bhatia](https://github.com/lakshayb30)
 - [Katherine Windatt](https://github.com/DiceTowerKitty)
 - [Ozzy](https://github.com/KaungPyaeHtet)
