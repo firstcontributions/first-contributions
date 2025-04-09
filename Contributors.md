@@ -156,6 +156,7 @@
 - [Sergio](https://github.com/sergio14082001)
 - [Obidkhon Akhmadkhonov] (https://github.com/obbteam/)
 - [Edoardo De Rosa](https://github.com/edvelhope)
+- [Ali_Nek09](https://github.com/AliNek09)
 - [Syed Haris Bin Aamir](https://github.com/syedharis14)
 - [Ravi Shankar Poddar](https://github.com/ravirv17)
 - [Khushi nagaliya](https://github.com/Khushi1638)
