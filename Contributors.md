@@ -132,7 +132,8 @@
 - [Ozzy](https://github.com/KaungPyaeHtet)
 - [Deep Sutariya](https://github.com/d-sutariya)
 - [Harinder Singh Sudwal](https://github.com/Hsinghsudwal)
-  [Harsh bhatia](https://github.com/h-bhatia)
+- [Harsh bhatia](https://github.com/h-bhatia)
+- [Aaalbert Aaaldor](https://github.com/AaalbertAaaldor)
 - [Deepika Reddy](https://github.com/klu2300031389)
 - [Kuanlin](https://github.com/kuanlin1227)
 - [Anna Re]
