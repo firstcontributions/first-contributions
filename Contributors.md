@@ -264,6 +264,7 @@
 - [Harlan Enciso](https://github.com/harlanenciso112)
 - [JorgeGallegos](https://github.com/JorgeGallegos8)
 - [apple]
+- [Vijay Vishwakarma](https://github.com/GoldenFish23)
 - [SamTheTechi](https://github.com/SamTheTechi/)
 - [Kam](https://github.com/Kam0797)
 - [soundousbenziadi](https://github.com/soundousbenziadi)
