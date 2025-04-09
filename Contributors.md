@@ -250,6 +250,7 @@
 - [rashid](https://github.com/rashid-360)
 - [preethi0297](https://github.com/Preethi0297)
 - [ASA666](https://github.com/ASA-666)
+- [jagnaki](https://github.com/jagnaki)
 - [pyraminx](https://github.com/pyraminx123)
 - [KALEAB II](https://github.com/kaleab49)
 - [Ioannis Christou] (https://github.com/yianchristou)
