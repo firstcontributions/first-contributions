@@ -129,6 +129,7 @@
 - [Mattias](https://github.com/mattiasstrom)
 - [Joe Akroush](https://github.com/reloadjoefromkokomo)
 - [Robert Fodor](https://github.com/IngRobertFodor)
+- [Rob Cofodor](https://github.com/RobCofodor)
 - [Irsyad](https://github.com/i230010)
 - [Kunal Rajpal](https://github.com/KunalRajpal)
 - [Mostafa Fayazi](https://github.com/Mostafa-Phoenix)
