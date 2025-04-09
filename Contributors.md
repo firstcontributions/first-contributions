@@ -126,6 +126,7 @@
 - [Hrid1402](https://github.com/Hrid1402)
 - [Mohit Choubey](https://github.com/mohitchoubey007)
 - [Gabriel-Cintron](https://github.com/Gabriel-Cintron)
+- [Ronik Jagpal](https://github.com/RonikJagpal)
 - [Micheal-Ndoh](https://github.com/micheal-ndoh)
 - [Graham Morrison](https://github.com/morpole)
 - [ManueldG](https://github.com/ManueldG)
