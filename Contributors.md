@@ -140,6 +140,7 @@
 - [Gabriel-Cintron](https://github.com/Gabriel-Cintron)
 - [Ronik Jagpal](https://github.com/RonikJagpal)
 - [Micheal-Ndoh](https://github.com/micheal-ndoh)
+- [Rr Ff](https://github.com/RrFf)
 - [R F](https://github.com/RF)
 - [Graham Morrison](https://github.com/morpole)
 - [ManueldG](https://github.com/ManueldG)
