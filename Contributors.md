@@ -1210,6 +1210,7 @@
 - [John Caleb ⚡](https://github.com/thejohncaleb)
 - [Nahuel Franco](https://github.com/NahuelNubiral)
 - [Rashmi Pai](https://github.com/RashmiRamdasPai)
+- [CristhianBravo865](https://github.com/CristhianBravo865)
 - [Rey Jao](https://github.com/jao-rey)
 - [Wessel Steenkamp](https://github.com/wesse206)
 - [Eiheir](https://github.com/ebininin)
