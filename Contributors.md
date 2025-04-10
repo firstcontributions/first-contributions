@@ -1149,6 +1149,7 @@
 - [Sneha Jain](https://github.com/sj11105)
 - [Drax-dr](https://github.com/Drax-dr/)
 - [Varun Patel](https://github.com/varunpatel07)
+- [Suelen Santos](https://github.com/suelensantos)
 - [Jayadeep Velagapudi](https://github.com/jkvelagapudi)
 - [Varsha Gitty](https://github.com/vgg1459)
   [Muhammad Abdullah Khan](https://github.com/sapientabdullah)
