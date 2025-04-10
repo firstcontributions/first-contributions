@@ -1,6 +1,7 @@
  # Contributors
 
 - [Gabriel Lima](https://github.com/gabriel-lima258)
+- [Heeyoun Lim](https://github.com/ready-oun)
 - [Amit](https://github.com/Singhamit911)
 - [Sarvesh Yogi](https://github.com/SARVESHYOGI)
 - [Navya Sree Ram Kumar Chowdary](https://github.com/NAVI-1725)
@@ -181,6 +182,7 @@
 - [Ali_Nek09](https://github.com/AliNek09)
 - [Syed Haris Bin Aamir](https://github.com/syedharis14)
 - [Ravi Shankar Poddar](https://github.com/ravirv17)
+- [N'GUESSAN KOUAKOU](https://github.com/YVNNVLEX)
 - [Khushi nagaliya](https://github.com/Khushi1638)
 - [Rohan Gorvadiya](https://github.com/Rohangorvadia)
 - [Shivam Khedekar](https://github.com/shivam501-00)
@@ -1942,6 +1944,8 @@
 - [Juan Sierra](https://github.com/Zodd2698)
 - [Sree Lakshmi](https://github.com/SreeLekshmi19)
 - [Mohammed Almuzainy](https://github.com/almuziny)
+- [hanoon] (https://github.com/hanoon-07)
 - [hhalejo] (https://github.com/hhalejo)
 - BestStatham8(https://github.com/BestStatham8)
 - Ga-eun Lee 💙
+
