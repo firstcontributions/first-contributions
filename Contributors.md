@@ -1020,6 +1020,7 @@
 - [bereamk](https://github.com/bereamk)
 - [rishabh1024](https://github.com/rishabh1024/)
 - [Simons Arhin](https://github.com/simonskayi)
+- [Sam Kim](https://github.com/samuelkim28)
 - [Abdelwakil](https://github.com/fondbcn)
 - [Andyple](https://github.com/andyple)
 - [psp0](https://github.com/psp0)
