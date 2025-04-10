@@ -104,6 +104,7 @@
 - [Coolgamer]
 - [dzwee]
 - [Sunil Pabba]
+- [Mackenzie Whetzel](https://github.com/Mijawh)
 - [Visur Indula](https://github.com/visuraindula2001)
 - [Hardy Scheel](https://github.com/hardyscheel)
 - [Rob Clark] (https://github.com/robthomasclark)
