@@ -1954,5 +1954,6 @@
 - [hhalejo] (https://github.com/hhalejo)
 - BestStatham8(https://github.com/BestStatham8)
 - [PedroOliveiraWish](https://github.com/PedroOliveiraWish)
+- [pashkov256](https://github.com/pashkov256)
 - Ga-eun Lee 💙
 
