@@ -1525,6 +1525,7 @@
 - [Büşra Özlem Koç](https://github.com/bushushow)
 - [Yuvam]
 - [Sixtus Agbo](https://github.com/sixtusagbo)
+- [Brad Meyer](https://github.com/Wbradmeyer)
 - [Siddhesh Gawade](https://github.com/sid293)👋
 - [Huzaifa Azim](https://github.com/huzaifaazim0)
 - [Joanna McDonald](https://github.com/joannamcd)
