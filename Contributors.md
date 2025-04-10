@@ -9,6 +9,7 @@
 - [Abbas Jaorawala](https://github.com/AbbasJaorawala)
 - [Aryan Chikeshwaram](https://github.com/ch-aryan)
 - [Alex Bascevan](https://github.com/alexbascevan)
+- [Alexander DaCosta](https://github.com/dachourico)
 - [Sourav Manikandan](https://github.com/souravmanikandan)
 - [Satish Birhade](https://github.com/SatishB15)
 - [kamesh63] (https://github.com/kamesh63)
