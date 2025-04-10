@@ -1948,5 +1948,6 @@
 - [hanoon] (https://github.com/hanoon-07)
 - [hhalejo] (https://github.com/hhalejo)
 - BestStatham8(https://github.com/BestStatham8)
+- [PedroOliveiraWish](https://github.com/PedroOliveiraWish)
 - Ga-eun Lee 💙
 
