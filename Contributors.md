@@ -42,6 +42,7 @@
 - [GerardMastra](https://github.com/GerardMastra)
 - [Melek Kchaou](https://github.com/KcMelek)
 - [Tarreq Maulana](https://github.com/mrtrq)
+- [Esa Salminen](https://github.com/esalminen)
 - [Tsakane Shiri](https://github.com/tsakane28)
 - [Emmanuel Ofoneta](https://github.com/Lordmaryo)
 - [Ramzan Khan](https://github.com/Ramzan-Khan-786)
