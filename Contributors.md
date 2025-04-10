@@ -96,6 +96,7 @@
 - [danishayman](https://github.com/danishayman)
 - [Abhinav Gupta] (https://github.com/abhinav-322)
 - [palyen](https://github.com/palyen)
+- [Anirudh]
 - [Sukhbeer Mangat] (https://github.com/ssmangat)
 - [Spencer Linsner](https://github.com/slins1)
 - [Sreenath K K](https://github.com/sreenath-pydev)
