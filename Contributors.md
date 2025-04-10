@@ -96,6 +96,7 @@
 - [Fardeen Shahed](https://github.com/Fardeen2903)
 - [Clegginator](https://github.com/Clegginator)
 - [nii fakye](https://github.com/Niifakye)
+- [kmoratis](https://github.com/kmoratis)
 - [kalkrijk](https://github.com/kalkrijk)
 - [Coolgamer]
 - [dzwee]
