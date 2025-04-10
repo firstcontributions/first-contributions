@@ -7,7 +7,7 @@
 
 Proyek ini bertujuan untuk menyederhanakan dan membimbing perjalanan seorang pemula berkontribusi di Github untuk pertama kali. Pertahatikan langkah - langkah berikut untuk memulai:
 
-#### _Jika Anda tidak terbiasa dengan baris perintah(command line), [di sini ada tutorial untuk menggunakan GUI(antarmuka bergrafis).](#Tutorial-Menggunakan-Alat-Lain)_
+#### _Jika Anda tidak terbiasa dengan baris perintah (command line), [di sini ada tutorial untuk menggunakan GUI (antarmuka bergrafis).](#Tutorial-Menggunakan-Alat-Lain)_
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
@@ -17,11 +17,11 @@ Apabila Anda belum menginstall git di komputer Anda, [install segera](https://he
 
 Fork repositori ini dengan cara klik tombol _Fork_ yang ada di bagian atas kanan pada halaman ini. Hal Ini akan membuat sebuah salinan repositori di akun Anda.
 
-## _Clone_ (Kloning) Repositori
+## _Clone_ (Salin) Repositori
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Sekarang kloning repositori yang sudah Anda _fork_ ke komputer Anda. Pergi ke akun GitHub Anda, buka repositori yang sudah Anda _fork_, klik tombol _Code_ dan kemudian klik ikon salin ke papan klip.
+Sekarang salin repositori yang sudah Anda _fork_ ke komputer Anda. Pergi ke akun GitHub Anda, buka repositori yang sudah Anda _fork_, klik tombol _Code_ dan kemudian klik ikon salin ke papan klip.
 
 Buka sebuah terminal dan jalankan perintah git berikut:
 
