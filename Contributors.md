@@ -4,6 +4,7 @@
 - [Amit](https://github.com/Singhamit911)
 - [Navya Sree Ram Kumar Chowdary](https://github.com/NAVI-1725)
 - [Lakshmi SR](https://github.com/LakshmiRamasubramanian)
+- [Saron Gm](https://github.com/saronbgm)
 - [Abbas Jaorawala](https://github.com/AbbasJaorawala)
 - [Aryan Chikeshwaram](https://github.com/ch-aryan)
 - [Alex Bascevan](https://github.com/alexbascevan)
