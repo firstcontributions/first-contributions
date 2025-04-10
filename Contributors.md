@@ -973,6 +973,7 @@
 - [Hypothalamus](https://github.com/Hypothalamuss)
 - [Siddharth](https://github.com/siddharth-123)
 - [OWillp](https://github.com/0Willp)
+- [Shristi Chauhan](https://github.com/Shristi-17)
 - [jokalu-it](Grüße :D)
 - [Asif Iqbal](https://github.com/rvasif)
 - [YudisSutisna](https://github.com/Hanep77)
