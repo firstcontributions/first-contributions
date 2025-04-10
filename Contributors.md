@@ -72,6 +72,7 @@
 - [Hechima](https://github.com/hechima256)
 - [Huan Salomão](https://github.com/neneca-lab)
 - [Gonzalo Murgeutyio](https://github.com/chalo2304)
+- [Tarun Mannava](https://github.com/tarunmannava)
 - [Nency Patel](https://github.com/nenncy)
 - [David canas](https://github.com/dacanass)
 - [Wee Ye Zhi](https://github.com/WeeYeZhi)
