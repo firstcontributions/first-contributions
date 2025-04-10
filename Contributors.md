@@ -2,6 +2,7 @@
 
 - [Gabriel Lima](https://github.com/gabriel-lima258)
 - [Amit](https://github.com/Singhamit911)
+- [Sarvesh Yogi](https://github.com/SARVESHYOGI)
 - [Navya Sree Ram Kumar Chowdary](https://github.com/NAVI-1725)
 - [Lakshmi SR](https://github.com/LakshmiRamasubramanian)
 - [Saron Gm](https://github.com/saronbgm)
