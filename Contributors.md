@@ -1,6 +1,7 @@
 # Contributors
 
 - [Gabriel Lima](https://github.com/gabriel-lima258)
+- [Heeyoun Lim](https://github.com/ready-oun)
 - [Amit](https://github.com/Singhamit911)
 - [Sarvesh Yogi](https://github.com/SARVESHYOGI)
 - [Leke Adeloye](https://github.com/Lekeadeloye)
@@ -1928,6 +1929,7 @@
 - [Juan Sierra](https://github.com/Zodd2698)
 - [Sree Lakshmi](https://github.com/SreeLekshmi19)
 - [Mohammed Almuzainy](https://github.com/almuziny)
+- [hanoon] (https://github.com/hanoon-07)
 - [hhalejo] (https://github.com/hhalejo)
 - BestStatham8(https://github.com/BestStatham8)
 - Ga-eun Lee 💙
