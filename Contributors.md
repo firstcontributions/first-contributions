@@ -10,6 +10,7 @@
 - [Saron Gm](https://github.com/saronbgm)
 - [Abbas Jaorawala](https://github.com/AbbasJaorawala)
 - [Aryan Chikeshwaram](https://github.com/ch-aryan)
+- [Lars Magelssen](https://github.com/l4rma)
 - [Alex Bascevan](https://github.com/alexbascevan)
 - [Alexander DaCosta](https://github.com/dachourico)
 - [Sourav Manikandan](https://github.com/souravmanikandan)
