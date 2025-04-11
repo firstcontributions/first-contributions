@@ -66,6 +66,7 @@
 - [Ana Pernalete](https://github.com/anapernalete)
 - [Adhan Salah](https://github.com/adensalah)
 - [Yoyo Zhang](https://github.com/YoyoZhang24)
+- [Joe Sluis](https://github.com/JoeS51)
 - [HARINAARAYANAN U](https://github.com/IamHarriiii)
 - [Wing Sun Au](https://github.com/WingSunAu)
 - [Deron Hutchinson](https://github.com/Gitty-3ps)
