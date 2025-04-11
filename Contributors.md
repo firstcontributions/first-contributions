@@ -30,6 +30,7 @@
 - [Abhishek Upadhyay](http://github.com/GitsGut)
 - [Mateo](https://github.com/mateopozor02)
 - [caliarch](https://github.com/caliarch)
+- [Sandeep](https://github.com/sandeepxi)
 - [Arnav Agarwal](https://github.com/arnav-343-agarwal)
 [Patrick Yeboah Bonsu](https://github.com/Patrick-Bonsu)
 - [Arsh Patel](https://github.com/Arshp-svg)
