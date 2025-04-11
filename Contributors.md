@@ -642,6 +642,7 @@
 - [Ammar Adnew](https://github.com/AmmarAdnew)
 - [Algorytmouse](https://github.com/algorytmouse)
 - [Nidhin Sankar](https://github.com/nidhinsankar)
+- [demhak](https://github.com/dem-hak)
 - [Hari Krishan](https://github.com/Hari-krishna-tech)
 - [Keepas3](https://github.com/Keepas3)
 - [Pavani](https://github.com/pavani42)
