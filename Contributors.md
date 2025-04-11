@@ -19,6 +19,7 @@
 -[Stefany Pinzon](https://github.com/stefanybyte)
 - [Ashish Singh](https://github.com/ashish-sng)
 - [Tomohiko Sashimura](https://github.com/heysappy)
+- [David] (https://github.com/Bytor0)
 - [kamesh63] (https://github.com/kamesh63)
 - [David Aldan] (https://github.com/davidaldan)
 - [Anmol Raturi] (https://github.com/TimelyCo)
