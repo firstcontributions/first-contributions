@@ -1718,6 +1718,8 @@
 - [Raviteja Guntaka] (https://github.com/raviteja-reddy-guntaka)
 - [Jia Tianzhao](https://github.com/2306187715)
 - [Pearl](https://github.com/e-s-l)
+- [Darshan D] (https://github.com/Shawdowzz)
+- [Darshan D] (https://github.com/Shawdowzz)
 - [Adam Almuhtaseb](https://github.com/adamuhtaseb04)
 - [wedgestar] (https://github.com/wedgestar/)
 - [Raju Das] (https://github.com/Rajudas94)
