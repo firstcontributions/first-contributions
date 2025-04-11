@@ -28,6 +28,7 @@
 - [Kelseyyxm] (http://github.com/kelseyyxm)
 - [Tarak] (https://github.com/tarak6984)
 - [Vishal] (https://github.com/ghostdeveloper404)
+- [Ruben Manriquez](https://github.com/Eoloth)
 - [Ankita] (https://github.com/Ankitabehera385)
 - [Kavitha] (https://github.com/Kavitha1401)
 - [Thomas](https://github.com/Thomas-Leo)
