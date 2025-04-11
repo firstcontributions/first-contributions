@@ -11,6 +11,7 @@
 - [Alex Bascevan](https://github.com/alexbascevan)
 - [Sourav Manikandan](https://github.com/souravmanikandan)
 - [Satish Birhade](https://github.com/SatishB15)
+- [Darshan D] (https://github.com/Shawdowzz)
 - [kamesh63] (https://github.com/kamesh63)
 - [David Aldan] (https://github.com/davidaldan)
 - [Shiva-Narra] (https://github.com/Shiva-ADA)
