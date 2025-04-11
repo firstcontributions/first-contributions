@@ -14,6 +14,7 @@
 - [Sourav Manikandan](https://github.com/souravmanikandan)
 - [Satish Birhade](https://github.com/SatishB15)
 -[Stefany Pinzon](https://github.com/stefanybyte)
+- [Tomohiko Sashimura](https://github.com/heysappy)
 - [kamesh63] (https://github.com/kamesh63)
 - [David Aldan] (https://github.com/davidaldan)
 - [Shiva-Narra] (https://github.com/Shiva-ADA)
