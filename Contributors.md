@@ -13,9 +13,11 @@
 - [Alexander DaCosta](https://github.com/dachourico)
 - [Sourav Manikandan](https://github.com/souravmanikandan)
 - [Satish Birhade](https://github.com/SatishB15)
+-[Stefany Pinzon](https://github.com/stefanybyte)
 - [kamesh63] (https://github.com/kamesh63)
 - [David Aldan] (https://github.com/davidaldan)
 - [Shiva-Narra] (https://github.com/Shiva-ADA)
+- [Scott K Fraley] (https://github.com/ScottKFraley)
 - [Kelseyyxm] (http://github.com/kelseyyxm)
 - [Tarak] (https://github.com/tarak6984)
 - [Vishal] (https://github.com/ghostdeveloper404)
@@ -1958,4 +1960,5 @@
 - [PedroOliveiraWish](https://github.com/PedroOliveiraWish)
 - [pashkov256](https://github.com/pashkov256)
 - Ga-eun Lee 💙
+- Tche
 - Im John Pork
