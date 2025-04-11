@@ -115,6 +115,7 @@
 - [Clegginator](https://github.com/Clegginator)
 - [nii fakye](https://github.com/Niifakye)
 - [kmoratis](https://github.com/kmoratis)
+- [Pratyush](https://github.com/pratstick)
 - [kalkrijk](https://github.com/kalkrijk)
 - [Coolgamer]
 - [dzwee]
