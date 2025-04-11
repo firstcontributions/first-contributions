@@ -19,6 +19,7 @@
 - [Tomohiko Sashimura](https://github.com/heysappy)
 - [kamesh63] (https://github.com/kamesh63)
 - [David Aldan] (https://github.com/davidaldan)
+- [Anmol Raturi] (https://github.com/TimelyCo)
 - [Shiva-Narra] (https://github.com/Shiva-ADA)
 - [Scott K Fraley] (https://github.com/ScottKFraley)
 - [Kelseyyxm] (http://github.com/kelseyyxm)
