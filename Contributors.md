@@ -59,6 +59,7 @@
 - [HMMK](https://github.com/hmwemya10)
 - [Jayashree Manigandan](https://github.com/Jay9093)
 - [Pablo Berzal](https://github.com/PabloJBG)
+- [Ana Pernalete](https://github.com/anapernalete)
 - [Adhan Salah](https://github.com/adensalah)
 - [Yoyo Zhang](https://github.com/YoyoZhang24)
 - [HARINAARAYANAN U](https://github.com/IamHarriiii)
