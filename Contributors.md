@@ -15,6 +15,7 @@
 - [Sourav Manikandan](https://github.com/souravmanikandan)
 - [Satish Birhade](https://github.com/SatishB15)
 -[Stefany Pinzon](https://github.com/stefanybyte)
+- [Ashish Singh](https://github.com/ashish-sng)
 - [Tomohiko Sashimura](https://github.com/heysappy)
 - [kamesh63] (https://github.com/kamesh63)
 - [David Aldan] (https://github.com/davidaldan)
