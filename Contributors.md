@@ -14,8 +14,6 @@
 - [Alexander DaCosta](https://github.com/dachourico)
 - [Sourav Manikandan](https://github.com/souravmanikandan)
 - [Satish Birhade](https://github.com/SatishB15)
-
-- [Darshan D] (https://github.com/Shawdowzz)
 - [kamesh63] (https://github.com/kamesh63)
 - [David Aldan] (https://github.com/davidaldan)
 - [Anmol Raturi] (https://github.com/TimelyCo)
@@ -168,6 +166,7 @@
 - [Ronik Jagpal](https://github.com/RonikJagpal)
 - [Micheal-Ndoh](https://github.com/micheal-ndoh)
 - [Rr Ff](https://github.com/RrFf)
+- [Darshan D] (https://github.com/Shawdowzz)
 - [R F](https://github.com/RF)
 - [Graham Morrison](https://github.com/morpole)
 - [ManueldG](https://github.com/ManueldG)
