@@ -87,7 +87,7 @@
 - [Matheesha Senevirathne](https://github.com/Matheesha-ls)
 - [Neer Gosrani] (https://github.com/NeErAgOsRaNi)
 - [Kirtiraj Darwai]
-- [SHASHA $] (https://github.com/ertghgfcxv)
+- [SHASHA](https://github.com/ertghgfcxv)
 - [Deshmukh Shubham] (https://github.com/deshmukh-shubham)
 - [Ayush Hrishikesh Mishra](https://github.com/Ayush-hm)
 - [João Victor dos Reis da Silva](https://github.com/R3I5)
