@@ -82,6 +82,7 @@
 - [David canas](https://github.com/dacanass)
 - [Wee Ye Zhi](https://github.com/WeeYeZhi)
 - [Nithin M S](https://github.com/Nithin3003)
+- [Darshan D] (https://github.com/Shawdowzz)
 - [Benita Kingsley](https://github.com/BenitaMags)
 - [Sabona Waktole](https://github.com/SabonaWaktole)
 - [Anna Revutsky](https://github.com/AnnaRevutsky)
