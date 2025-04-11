@@ -110,6 +110,7 @@
 - [Peyman Valikhanli](https://github.com/peymanvalikhanli)
 - [niimma](https://github.com/niimma)
 - [danishayman](https://github.com/danishayman)
+- [James Tansey](https://github.com/JTansey93)
 - [Abhinav Gupta] (https://github.com/abhinav-322)
 - [palyen](https://github.com/palyen)
 - [Anirudh]
