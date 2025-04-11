@@ -5,13 +5,13 @@
 
 # Prvi doprinosi
 
-Cilj ovog projekta je da pruži jednostavne korake za početnike da naprave svoje prve doprinose. Ukoliko tražite da napravite prvi doprinos pratite sljedeće korake ispod.
+Cilj ovog projekta je da pruži jednostavne korake za početnike da naprave svoje prve doprinose. Ukoliko želite napraviti prvi doprinos pratite sljedeće korake ispod.
 
-#### _Ukoliko niste baš sigurni u vaš rad sa naredbnom linijom/terminalom, [ovdje možete pronaći tutorijale za GUI alate.](#Uputstva-za-druge-alate)_
+#### _Ukoliko niste baš sigurni u svoj rad s komandnom linijom/terminalom, [ovdje možete pronaći tutorijale za GUI alate.](#Upute-za-druge-alate)_
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="Napravite fork repozitorijuma" />
 
-Ukoliko nemate git instaliran na vašom računalu, [instalirajte ga ovdje](https://help.github.com/articles/set-up-git/).
+Ukoliko nemate git instaliran na Vašem računalu, [instalirajte ga ovdje](https://help.github.com/articles/set-up-git/).
 
 ## Napravite fork repozitorija
 
@@ -36,14 +36,14 @@ gdje je "url koji ste sada kopirali" (bez navodnika) url na ovaj repozitorij (va
 Na primjer:
 
 ```
-git clone https://github.com/ovo-ste-vi/first-contributions.git
+git clone https://github.com/ovo-ste-Vi/first-contributions.git
 ```
 
-Gdje je umjesto `ovo-ste-vi` upisano vaše _github_ korisničko ime. Ovime kopirate sadržaj repozitorija _first-contributions_ na vaše računalo.
+Gdje je umjesto `ovo-ste-Vi` upisano vaše _github_ korisničko ime. Ovime kopirate sadržaj repozitorija _first-contributions_ na vaše računalo.
 
-## Pravljenje grane _branch_
+## Stvaranje grane _branch_
 
-Prebacite se u radni direktorij na vašem računalu (ukoliko već niste tamo):
+Prebacite se u radni direktorij na Vašem računalu (ukoliko već niste tamo):
 
 ```
 cd first-contributions
@@ -52,7 +52,7 @@ cd first-contributions
 Pa zatim napravite novu granu _branch_ koristeći `git switch` comandu:
 
 ```
-git switch -c add-svoje-ime
+git switch -c dodaj-svoje-ime
 ```
 
 Na primjer:
@@ -63,11 +63,11 @@ git switch -c add-alonzo-church
 
 ## Napravite potrebne izmjene i potvrdite promjene
 
-Otvorite `Contributors.md` datoteku u tekst editoru i dodajte vaše ime. Nemojte dodavati ime na sam početak ili kraj. Stavite ga negdje u sredinu. Potom sačuvajte datoteku.
+Otvorite `Contributors.md` datoteku u tekst editoru i dodajte Vaše ime. Nemojte dodavati ime na sam početak ili kraj. Stavite ga negdje u sredinu. Potom spremite datoteku.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
-Ukoliko odete u radni direktorij i izvršite naredbu `git status`, primijetiti ćete da postoje promjene.
+Ukoliko odete u radni direktorij i izvršite naredbu `git status`, primijetit ćete da postoje promjene.
 
 Dodajte ove promjene u granu koju ste gore napravili koristeći `git add` naredbu:
 
@@ -78,24 +78,24 @@ git add Contributors.md
 Sada potvrdite ove promjene koristeći `git commit` naredbu:
 
 ```
-git commit -m "Add tvoje-ime to Contributors list"
+git commit -m "Add svoje-ime to Contributors list"
 ```
 
-Gdje umjesto `tvoje-ime` upisujete svoje ime.
+Gdje umjesto `svoje-ime` upisujete svoje ime.
 
 ## Pushajte promjene na GitHub
 
 Pošaljite promjene u repozitorij na GitHub-u koristeći naredbu `git push`:
 
 ```
-git push origin -u ime-vaše-grane
+git push origin -u ime-Vaše-grane
 ```
 
-gdje umjesto `ime-vaše-grane` stavljate ime vaše grane koje ste prethodno napravili.
+gdje umjesto `ime-Vaše-grane` stavljate ime vaše grane koje ste prethodno napravili.
 
 ## Pošaljite izmjene na pregled
 
-Ukoliko odete na repozitorij na vašem GitHub profilu primijetit ćete `Compare & pull request` Dugme. Kliknite na njega.
+Ukoliko odete na repozitorij na Vašem GitHub profilu primijetit ćete `Compare & pull request` Dugme. Kliknite na njega.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
@@ -107,17 +107,17 @@ Nakon toga, vlasnik će spojiti promjene koje ste napravili sa master granom pro
 
 ## Što dalje?
 
-Čestitamo! Završili ste standardni _fork -> clone -> edit -> PR_ tok koji će vas pratiti kroz vaš čitav programerski život!
+Čestitamo! Završili ste standardni _fork -> clone -> edit -> PR_ tok koji će vas pratiti kroz Vaš čitav programerski život!
 
-Proslavite tako što ćete podjeliti vaš doprinos sa prijateljima i pratiocima otvaranjem [stranice](https://firstcontributions.github.io/#social-share).
+Proslavite tako što ćete podjeliti svoj doprinos sa prijateljima i pratiocima otvaranjem [stranice](https://firstcontributions.github.io/#social-share).
 
-Pridružite se i našem Slack timu u slučaju da vam je potrebna ikakva pomoć ili imate bilo kakvih pitanja. [Slack tim](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
+Pridružite se i našem Slack timu u slučaju da vam je potrebna ikakva pomoć ili imate bilo kakvih pitanja. [Slack tim](https://join.slack.com/t/firstcontributors/shared_invite/zt-2vqegkew0-ZuzGM1LO33C6Ts4nZyat1Q).
 
-A sada, možemo početi sa doprinosima drugim projektima. Napravili smo popis projekata sa jednostavnim problemima na kojima možete početi raditi. Posjetite [listu projekata na naštoj stranici](https://firstcontributions.github.io/#project-list).
+Sada možemo početi sa doprinosima drugim projektima. Napravili smo popis projekata sa jednostavnim problemima na kojima možete početi raditi. Posjetite [listu projekata na naštoj stranici](https://firstcontributions.github.io/#project-list).
 
 ### [Dodatni materijali](../additional-material/git_workflow_scenarios/additional-material.md)
 
-## Uputstva za druge alate
+## Upute za druge alate
 
 | <a href="gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -113,13 +113,13 @@ Sasa weka ombi la kuvuta.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-Hivi karibuni nitakuwa kuunganisha mabadiliko yako yote kwenye tawi la mradi huu. Utapata barua pepe ya arifa mara mabadiliko yameunganishwa.
+Hivi karibuni nitaunganisha mabadiliko yako yote kwenye tawi la mradi huu. Utapata barua pepe ya arifa mara mabadiliko yameunganishwa.
 
 ## Wapi kutoka hapa?
 
 Hongera! Wewe umekamilisha fomu ya kawaida *fork -> clone -> hariri -> pull request* ambayo unakutana mara nyingi kama mchangiaji!
 
-Sherehe mchango wako na uwashiriki na marafiki zako na wafuasi kwa kwenda kwenye [programu ya wavuti](https://firstcontributions.github.io/#social-share).
+Sherehekea mchango wako na marafiki na wafuasi wako kwa kuenda kwenye [programu ya wavuti](https://firstcontributions.github.io/#social-share).
 
 Unaweza kujiunga na timu yetu ya slack ikiwa unahitaji msaada wowote au una maswali yoyote. [Jiunge na timu ya slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 

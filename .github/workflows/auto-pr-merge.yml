@@ -94,8 +94,7 @@ jobs:
 
                 // social media links
                 const web_url = 'https://firstcontributions.github.io';
-                const slack_invite_url = 'https://join.slack.com/t/firstcontributors/shared_invite/zt-2vqegkew0-ZuzGM1LO33C6Ts4nZyat1Q'
-                const twitter_tweet_share = 'https://twitter.com/intent/tweet?text=Yay%21%20I%20just%20made%20my%20first%20open%20source%20contribution%20with%20@1stcontribution.%20You%20can%20too%20at%20https%3A//goo.gl/66Axwe%0A&hashtags=OpenSource,CodeNewbie'
+                const codeContributionsLink = 'https://github.com/roshanjossey/code-contributions'
                 const fb_share_link = 'https://www.facebook.com/sharer/sharer.php?u=https://roshanjossey.github.io/first-contributions&quote=Yay%21%20I%20just%20made%20my%20first%20open%20source%20contribution%20with%20First%20Contributions.%20You%20can%20too,%20by%20following%20a%20simple%20tutorial%20at%20https%3A//goo.gl/66Axwe&hashtag=%23OpenSource'
                 const reddit_link = 'https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Ffirstcontributions%2Ffirst-contributions&title=Learn%20how%20to%20contribute%20to%20open%20source%20projects%20in%205%20minutes'
                 const linkedin_share_link = 'https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/firstcontributions/first-contributions';
@@ -105,8 +104,6 @@ jobs:
                 
                 // social logo
                 const repo_logo = "https://avatars0.githubusercontent.com/u/65761570?s=88&u=640f39b808c75c6b86460aa907dd030bcca2f3c7&v=4"
-                const slack_logo = "https://edent.github.io/SuperTinyIcons/images/svg/slack.svg"
-                const twitter_logo = "https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg"
                 const fb_logo = "https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg"
                 const reddit_logo = "https://edent.github.io/SuperTinyIcons/images/svg/reddit.svg"
                 const linkedin_logo = "https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg";
@@ -119,7 +116,7 @@ jobs:
                   const greeting = `Hello @${username}, congratulations! You've successfully submitted a pull request. 🎉`;
                   const starRepoMessage = `If you liked the tutorial, please star this repo by clicking the star button on the top right of this page. <img alt="star screenshot" title="star button" src="https://firstcontributions.github.io/assets/star.png">`;
                   
-                  const nextSteps = `# Next steps \n - Continue contributing: If you're looking for projects to contribute to, checkout our [<img src="${repo_logo}" width="22" title="web app" /> webapp](${web_url}). \n - Join our Slack group: We have a community to help/support contributors. [<img src="${slack_logo}" width="22" title="Slack" /> Join slack group](${slack_invite_url}). \n - Share on social media: You can share this content to help more people.\n  - [<img alt="bluesky" title="bluesky" src="${bluesky_logo}" width="22"> Post on Bluesky](${bluesky_share_link}).\n  - [ <img alt="twitter" title="twitter" src="${twitter_logo}" width="22"> tweet](${twitter_tweet_share}).\n  - [<img alt="twitter" title="twitter" src="${fb_logo}" width="22"> share](${fb_share_link}).\n  - [ <img alt="reddit" title="reddit" src="${reddit_logo}" width="22"> share](${reddit_link}).\n  - [<img alt="linkedin" title="linkedin" src="${linkedin_logo}" width="22"> post](${linkedin_share_link}).\n  - [<img alt="devio" title="devio" src="${dev_logo}" width="22"> publish](${dev_share_link}).\n  - [<img src="${hackernews_logo}" width="22" title="HackerNews" /> Post on HackerNews](${hackernews_share_link}).`;
+                  const nextSteps = `# Next steps \n - Continue contributing: If you're looking for projects to contribute to, checkout our [<img src="${repo_logo}" width="22" title="web app" /> webapp](${web_url}). \n - If you want more practice checkout [code contributions](${codeContributionsLink}). \n - Share on social media: You can share this content to help more people.\n   - [<img alt="bluesky" title="bluesky" src="${bluesky_logo}" width="22"> Post on Bluesky](${bluesky_share_link}).\n   - [<img alt="facebook" title="facebook" src="${fb_logo}" width="22"> share](${fb_share_link}).\n   - [ <img alt="reddit" title="reddit" src="${reddit_logo}" width="22"> share](${reddit_link}).\n   - [<img alt="linkedin" title="linkedin" src="${linkedin_logo}" width="22"> post](${linkedin_share_link}).\n   - [<img alt="devio" title="devio" src="${dev_logo}" width="22"> publish](${dev_share_link}).\n   - [<img src="${hackernews_logo}" width="22" title="HackerNews" /> Post on HackerNews](${hackernews_share_link}).`;
                   const feedbackMessage = `We'd love to hear your thoughts about this project. Let us know how we can improve by commenting or opening an issue here.`;
                   
                   const gif = `![celebration gif](${getRandomGif()})`;
@@ -156,7 +153,7 @@ jobs:
               // Handle specific error cases based on status code
               if (error.status === 405 && error.response.data.message === "Pull Request is not mergeable") {
 
-                errMsg = `Hello @${context.payload.pull_request.user.login}, thank you for your pull request. We appreciate your contribution to the project. However, before we can merge it, there is a merge conflict with the target branch.  \n\n No worries! You can follow [this guide](https://github.com/firstcontributions/first-contributions/blob/main/additional-material/git_workflow_scenarios/resolving-merge-conflicts.md) on resolving merge conflicts. 
+                errMsg = `Hello @${context.payload.pull_request.user.login}, thank you for your pull request. We appreciate your contribution to the project. However, before we can merge it, there is a merge conflict with the target branch.  \n\n No worries! You can follow [this guide](https://github.com/firstcontributions/first-contributions/blob/main/docs/additional-material/git_workflow_scenarios/resolving-merge-conflicts.md) on resolving merge conflicts. 
                 Once you've fixed the conflicts and pushed your changes, the repository will check the changes you made and proceed with the merge if everything looks good.  \n\n If you have any questions or need further assistance, don't hesitate to reach out. We're here to help!`
 
               } else if (error.status === 409) {

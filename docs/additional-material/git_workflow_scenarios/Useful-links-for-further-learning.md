@@ -43,4 +43,6 @@ This document is dedicated to all the tips and tricks websites, blog posts, and 
 38. [Complete Git and GitHub Tutorial by Kunal Kushwaha](https://www.youtube.com/watch?v=apGV9Kg7ics&ab_channel=KunalKushwaha)
 39. [Git workflow Cheat Sheet](https://drive.google.com/uc?export=download&id=1QPRh5YmqQm4DFfitelPYlBTWC2I6tTTM)
 40. [Beginers Guide To Proper Git Workflow](https://medium.com/@anjulapaulus_84798/beginners-guide-to-proper-git-workflow-35a2d967734e)
+41. [How to using Github-Pages](https://docs.github.com/en/pages)
+42. [Learn about Github Copilot](https://docs.github.com/en/copilot/about-github-copilot/what-is-github-copilot)
 Keep adding more links, that you find helpful.
