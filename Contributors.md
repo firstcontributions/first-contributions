@@ -495,6 +495,7 @@
 - [Eyal Kutz](https://github.com/eyalkutz)
 - [nokesh](https://github.com/Nokesh11)
 - [Vicky Besra](https://github.com/vickybesra)
+- [Mike Mertens](https://github.com/mmert9008)
 - [36borderless] (https://github.com/36borderless)
 - [Rudra] (github.com/ruudra03)
 - [0xjeji](https://github.com/0xjeji)
