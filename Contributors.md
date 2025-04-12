@@ -329,6 +329,7 @@
 - [soundousbenziadi](https://github.com/soundousbenziadi)
 - [StevenHall](https://github.com/PedanticSteve)
 - [Leonardo Teodoro](https://github.com/LeonardoTeodoroSantos)
+- [CTResurrection](https://github.com/ctresurrection)
 - [Leonardo Saldaña](https://github.com/lpsaldana)
 - [Hamed Haghani](https://github.com/HamedHaghani)
 - [KingTroy125](https://github.com/KingTroy125)
