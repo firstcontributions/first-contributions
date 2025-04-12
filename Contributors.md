@@ -195,6 +195,7 @@
   [Harsh bhatia](https://github.com/h-bhatia)
 - [Deepika Reddy](https://github.com/klu2300031389)
 - [Kuanlin](https://github.com/kuanlin1227)
+- [Rojo Arano](https://github.com/aranorj)
 - [Anna Re]
 - [hh]
 - [Sean Erfan](https://github.com/Shameed4)
