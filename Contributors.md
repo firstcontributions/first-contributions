@@ -77,6 +77,7 @@
 - [konishi takahiro](https://github.com/taka727)
 - [HMMK](https://github.com/hmwemya10)
 - [Jayashree Manigandan](https://github.com/Jay9093)
+- [Tosin Chukwu](https://github.com/tosinchukwu)
 - [Pablo Berzal](https://github.com/PabloJBG)
 - [Ana Pernalete](https://github.com/anapernalete)
 - [Adhan Salah](https://github.com/adensalah)
