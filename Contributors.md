@@ -8,6 +8,7 @@
 - [Navya Sree Ram Kumar Chowdary](https://github.com/NAVI-1725)
 - [Lakshmi SR](https://github.com/LakshmiRamasubramanian)
 - [Saron Gm](https://github.com/saronbgm)
+- [Renan Rodrigues](https://github.com/renanrcrr)
 - [Abbas Jaorawala](https://github.com/AbbasJaorawala)
 - [Aryan Chikeshwaram](https://github.com/ch-aryan)
 - [Vetle Kise](https://github.com/vetlekise)
