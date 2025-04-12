@@ -12,6 +12,7 @@
 - [Abbas Jaorawala](https://github.com/AbbasJaorawala)
 - [Aryan Chikeshwaram](https://github.com/ch-aryan)
 - [Vetle Kise](https://github.com/vetlekise)
+- [Manju B](https://github.com/ManjuBodi)
 - [Uthman Abdulganiyu](https://github.com/auspicious14)
 - [Lars Magelssen](https://github.com/l4rma)
 - [Alex Bascevan](https://github.com/alexbascevan)
