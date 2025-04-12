@@ -67,6 +67,7 @@
 - [Emmanuel Ofoneta](https://github.com/Lordmaryo)
 - [Ramzan Khan](https://github.com/Ramzan-Khan-786)
 - [Mamta Vyas](https://github.com/your-mamta-vyas)
+- [Burhanuddin Bohra](https://github.com/burhan-72)
 - [Syed Ali](https://github.com/Pro-Algorythm)
 - [Aartik saini](https://github.com/aartiksaini)
 - [Samarth Kumbhar](https://github.com/Samarth144)
