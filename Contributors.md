@@ -787,6 +787,7 @@
 - [Aicirou](https://github.com/Aicirou)
 - [Gargi](https://github.com/gargig02)
 - [Nenad](https://github.com/maglvoskiNenad)
+- [Kanishk Singh](https://github.com/kanishkIIITD)
 - [Thisaga Jayaratna](https://github.com/thisagaa)
 - [krshearman](https://github.com/krshearman)
 - [KevinThomas](https://github.com/HELL-KERBECS)
