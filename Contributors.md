@@ -66,6 +66,7 @@
 - [Samarth Kumbhar](https://github.com/Samarth144)
 - [Nick Girmes] (https://github.com/ngirmes)
 - [Jonathan B. Liu](https://github.com/JBL168)
+- [konishi takahiro](https://github.com/taka727)
 - [HMMK](https://github.com/hmwemya10)
 - [Jayashree Manigandan](https://github.com/Jay9093)
 - [Pablo Berzal](https://github.com/PabloJBG)
