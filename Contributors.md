@@ -1,6 +1,7 @@
  # Contributors
 
 - [Andy M. Celi](https://github.com/andy-mc)
+- [Gonzalo Benitez](https://github.com/gonzaabenitezz)
 - [Gabriel Lima](https://github.com/gabriel-lima258)
 - [Heeyoun Lim](https://github.com/ready-oun)
 - [Amit](https://github.com/Singhamit911)
@@ -69,6 +70,7 @@
 - [Samarth Kumbhar](https://github.com/Samarth144)
 - [Nick Girmes] (https://github.com/ngirmes)
 - [Jonathan B. Liu](https://github.com/JBL168)
+- [konishi takahiro](https://github.com/taka727)
 - [HMMK](https://github.com/hmwemya10)
 - [Jayashree Manigandan](https://github.com/Jay9093)
 - [Pablo Berzal](https://github.com/PabloJBG)
@@ -195,6 +197,7 @@
   [Harsh bhatia](https://github.com/h-bhatia)
 - [Deepika Reddy](https://github.com/klu2300031389)
 - [Kuanlin](https://github.com/kuanlin1227)
+- [Rojo Arano](https://github.com/aranorj)
 - [Anna Re]
 - [hh]
 - [Sean Erfan](https://github.com/Shameed4)
@@ -1953,6 +1956,7 @@
 -[Dustin Wleczyk](https://github.com/Dustin-Wleczyk)
 - [Shrewd Van](https://github.com/ShrewdVan)
 - [PMZ2025](https://github.com/pmz2025)
+- [nibeyrovictor](https://github.com/nibeyrovictor)
 - [Tauheed Butt](https://github.com/tauheedbuttt)
 - [Sujal Rana] (https://github.com/Sujal-Rana-88)
 - [Narges khalilollahi](https://github.com/Nargeskhl)
