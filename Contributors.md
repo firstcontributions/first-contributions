@@ -14,6 +14,7 @@
 - [Aryan Chikeshwaram](https://github.com/ch-aryan)
 - [Vetle Kise](https://github.com/vetlekise)
 - [Barkn]
+- [Aditya TLN](https://github.com/TLNAditya)
 - [Noor Rida](https://github.com/loralridz)
 - [Manju B](https://github.com/ManjuBodi)
 - [Uthman Abdulganiyu](https://github.com/auspicious14)
