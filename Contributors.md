@@ -5,6 +5,7 @@
 - [Gabriel Lima](https://github.com/gabriel-lima258)
 - [Heeyoun Lim](https://github.com/ready-oun)
 - [Amit](https://github.com/Singhamit911)
+- [Harsimran jeet Singh](https://github.com/h4harsimran)
 - [Sarvesh Yogi](https://github.com/SARVESHYOGI)
 - [Navya Sree Ram Kumar Chowdary](https://github.com/NAVI-1725)
 - [Lakshmi SR](https://github.com/LakshmiRamasubramanian)
