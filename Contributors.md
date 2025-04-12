@@ -1,6 +1,8 @@
 # Contributors
 
+
 - [Somisrbija](https://github.com/SomiSrbija)
+-[Lakshmi Prasanna K](https://github.com/lakshmiprasannak0203)
 - [Maxime Benoit](https://github.com/Max13500)
 - [Feng-chengyi](https://github.com/Feng-chengyi)
 - [Brayan Kai](https://github.com/mwanyumba7)
@@ -47,8 +49,8 @@
 - [Soumyasree Mohapatra](https://github.com/SoumyasreeMohapatra) : Hello World!
 - [David Kamau](https://github.com/Pak-Man926) My first Contribution, I'm excited!
 - [edrzz08](https://github.com/edrzz08)
-- [Dheeraz](https://github.com/dheeraz101/)
--[Hello]
+- [Dheeraz](https://github.com/dheeraz01/)
+- [lakshmi prasanna k]{
 - [EET](https://github.com/eitheint-ET)
 - [Ibrahim Gaber](https://github.com/IbrahimGaberOfficial) Exiting to start contributing in open-source 😃.
 - [Eduardo Molina](https://github.com/edumol8) -[Jacqueline Joya](https://github.com/Jackiesafari)
