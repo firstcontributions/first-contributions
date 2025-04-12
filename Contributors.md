@@ -244,6 +244,7 @@
 - [Alejandro Martin] (https://github.com/alejandromartincarrera)
 - [Tejaswi Saraswathi](https://github.com/Tejaswi1305)
 - [Sivaani Janaswamy](https://github.com/Sivaani-Janaswamy)
+- [Omkar T](https://github.com/omkar-thite)
 - [Gage Morgan](https://github.com/gagem-sigsev)
 - [Joseph Sackitey](https://github.com/jsackitey1)
 - [Omkar T](https://github.com/omkar-thite)
