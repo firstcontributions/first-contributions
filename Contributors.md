@@ -1,6 +1,7 @@
  # Contributors
 
 - [Andy M. Celi](https://github.com/andy-mc)
+- [Thomas Moody](https://github.com/tjmoody)
 - [Gonzalo Benitez](https://github.com/gonzaabenitezz)
 - [Gabriel Lima](https://github.com/gabriel-lima258)
 - [Heeyoun Lim](https://github.com/ready-oun)
