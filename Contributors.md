@@ -10,6 +10,7 @@
 - [Josh Greenberg](https://github.com/savoi)
 - [Amit](https://github.com/Singhamit911)
 - [Harsimran jeet Singh](https://github.com/h4harsimran)
+- [Saurabh Patel](https://github.com/Saurabh3652)
 - [Sarvesh Yogi](https://github.com/SARVESHYOGI)
 - [Navya Sree Ram Kumar Chowdary](https://github.com/NAVI-1725)
 - [Lakshmi SR](https://github.com/LakshmiRamasubramanian)
