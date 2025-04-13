@@ -18,6 +18,7 @@
 - [Aryan Chikeshwaram](https://github.com/ch-aryan)
 - [Vetle Kise](https://github.com/vetlekise)
 - [Barkn]
+- [Anum Kousar](https://github.com/anum-349)
 - [Aditya TLN](https://github.com/TLNAditya)
 - [Noor Rida](https://github.com/loralridz)
 - [Ye Thura](https://github.com/YeThura-424)
