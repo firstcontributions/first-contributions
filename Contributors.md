@@ -97,6 +97,7 @@
 - [Vasu Nandan](https://github.com/phoenixvasu)
 - [Karthikeyen K](https://github.com/KARTHIKEYEN14)
 - [Balaji Balakrishnan](https://github.com/balajibalakris)
+- [Sinan Rasheed](https://github.com/sinanxrasheed)
 - [Dilshan](https://github.com/Harish-Aananth)
 - [Alvaro Garcia](https://github.com/alvarofelipe12)
 - [Matheesha Senevirathne](https://github.com/Matheesha-ls)
