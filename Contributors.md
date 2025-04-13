@@ -20,6 +20,7 @@
 - [Aryan Chikeshwaram](https://github.com/ch-aryan)
 - [Vetle Kise](https://github.com/vetlekise)
 - [Barkn]
+- [SergioElías](https://github.com/sezgox)
 - [AHMEEEEEEED (the real Andy Kaufman)] (https://github.com/andykofman)
 - [Anum Kousar](https://github.com/anum-349)
 - [Aditya TLN](https://github.com/TLNAditya)
