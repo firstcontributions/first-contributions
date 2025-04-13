@@ -66,6 +66,7 @@
 - [Roman Sheydvasser](https://github.com/rsheyd)
 - [Lianhuashan](https://github.com/lianhuashanlianhuashan)
 - [Benson Manzano](https://github.com/benson-fm)
+- [Adarsh Kumar](https://github.com/kumaradarsh2)
 - [Mario Lovamanitra](https://github.com/Hey-Mario)
 - [Prayoga Agus Setiawan](https://github.com/Prayoga-bit)
 -[Deepthi](https://github.com/D-E-E-P-T-H-I)
