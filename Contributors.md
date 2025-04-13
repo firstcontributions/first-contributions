@@ -168,6 +168,7 @@
 - [Sawi Choukikar](https://github.com/choukikars16)
   [Ajaypal Singh Sran](https://github.com/Ajayss04)
 - [Misal Silva](https://github.com/MisalSilva)
+- [Arka Karmakar]
 - [Daniel Echevarria](https://github.com/daniel-echevarria)
 - [Howard Nguyen](https://github.com/howardng97)
 - [Vijay Modi](https://github.com/VijayM0di)
