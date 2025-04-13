@@ -18,6 +18,7 @@
 - [Barkn]
 - [Aditya TLN](https://github.com/TLNAditya)
 - [Noor Rida](https://github.com/loralridz)
+- [Ye Thura](https://github.com/YeThura-424)
 - [Manju B](https://github.com/ManjuBodi)
 - [Uthman Abdulganiyu](https://github.com/auspicious14)
 - [Lars Magelssen](https://github.com/l4rma)
