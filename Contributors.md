@@ -1,5 +1,6 @@
  # Contributors
 
+- [echenglight](https://github.com/echenglight)
 - [Andy M. Celi](https://github.com/andy-mc)
 - [Gabriel Lima](https://github.com/gabriel-lima258)
 - [Heeyoun Lim](https://github.com/ready-oun)
@@ -1985,7 +1986,6 @@
 - Ga-eun Lee 💙
 - Tche
 - [2333](https://github.com/2333xxxx)
-- [echenglight](https://github.com/echenglight)
 
 
 
