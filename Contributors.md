@@ -26,6 +26,7 @@
 - [Ye Thura](https://github.com/YeThura-424)
 - [Manju B](https://github.com/ManjuBodi)
 - [Uthman Abdulganiyu](https://github.com/auspicious14)
+- [Mohsin Ahmad](https://github.com/mohsinahmad1979)
 - [Lars Magelssen](https://github.com/l4rma)
 - [Alex Bascevan](https://github.com/alexbascevan)
 - [Alexander DaCosta](https://github.com/dachourico)
