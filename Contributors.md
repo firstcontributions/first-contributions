@@ -485,6 +485,7 @@
 - [Carburio](https://github.com/Carburio)
 - [Amit Patil](https://github.com/meAmitPatil)
 - [Aritra Mukherjee](https://github.com/maritra)
+- [Chris C](https://github.com/xboof)
 - [Zafran Ullah](https://github.com/zafran-ullah)
 - [lecsim](https://github.com/lecsim)
 - [Morley lane](https://github.com/0ni4)
