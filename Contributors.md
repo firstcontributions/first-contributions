@@ -5,6 +5,7 @@
 - [Naveen M.](https://github.com/naveenm4d)
 - [Thomas Moody](https://github.com/tjmoody)
 - [Gonzalo Benitez](https://github.com/gonzaabenitezz)
+- [Mohit Joe . R](https://github.com/mohitjoer)
 - [Gabriel Lima](https://github.com/gabriel-lima258)
 - [Heeyoun Lim](https://github.com/ready-oun)
 - [Josh Greenberg](https://github.com/savoi)
@@ -2027,3 +2028,4 @@
 - [Sanyam Phartyal](https://github.com/Sanyam2511)
 
 - [Hamna Liaquat](https://github.com/humnaliaquat)
+
