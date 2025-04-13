@@ -2020,4 +2020,5 @@
 - [yosakax](https://github.com/yosakax)
 - oku3ma🥰 
 - [Sien](https://github.com/SimonLGo)
-- 
+- [Sanyam Phartyal](https://github.com/Sanyam2511)
+
