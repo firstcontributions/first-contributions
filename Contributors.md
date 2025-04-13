@@ -1,11 +1,13 @@
 # Contributors
 
 - [Andy M. Celi](https://github.com/andy-mc)
+- [Dwip Biswas](https://github.com/DWIP-BISWAS)
 - [Naveen M.](https://github.com/naveenm4d)
 - [Thomas Moody](https://github.com/tjmoody)
 - [Gonzalo Benitez](https://github.com/gonzaabenitezz)
 - [Gabriel Lima](https://github.com/gabriel-lima258)
 - [Heeyoun Lim](https://github.com/ready-oun)
+- [Josh Greenberg](https://github.com/savoi)
 - [Amit](https://github.com/Singhamit911)
 - [Harsimran jeet Singh](https://github.com/h4harsimran)
 - [Sarvesh Yogi](https://github.com/SARVESHYOGI)
@@ -17,6 +19,8 @@
 - [Aryan Chikeshwaram](https://github.com/ch-aryan)
 - [Vetle Kise](https://github.com/vetlekise)
 - [Barkn]
+- [AHMEEEEEEED (the real Andy Kaufman)] (https://github.com/andykofman)
+- [Anum Kousar](https://github.com/anum-349)
 - [Aditya TLN](https://github.com/TLNAditya)
 - [Noor Rida](https://github.com/loralridz)
 - [Ye Thura](https://github.com/YeThura-424)
@@ -40,6 +44,7 @@
 - [Tarak] (https://github.com/tarak6984)
 - [Vishal] (https://github.com/ghostdeveloper404)
 - [Ruben Manriquez](https://github.com/Eoloth)
+- [Boniaszewski](https://github.com/wbonicki)
 - [Ankita] (https://github.com/Ankitabehera385)
 - [Kavitha] (https://github.com/Kavitha1401)
 - [Thomas](https://github.com/Thomas-Leo)
@@ -479,6 +484,7 @@
 - [Carburio](https://github.com/Carburio)
 - [Amit Patil](https://github.com/meAmitPatil)
 - [Aritra Mukherjee](https://github.com/maritra)
+- [Chris C](https://github.com/xboof)
 - [Zafran Ullah](https://github.com/zafran-ullah)
 - [lecsim](https://github.com/lecsim)
 - [Morley lane](https://github.com/0ni4)
@@ -1998,4 +2004,7 @@
 - [yosakax](https://github.com/yosakax)
 - oku3ma🥰
 - [Sien](https://github.com/SimonLGo)
--
+
+- [Sanyam Phartyal](https://github.com/Sanyam2511)
+
+- [Hamna Liaquat](https://github.com/humnaliaquat)
