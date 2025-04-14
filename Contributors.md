@@ -125,6 +125,7 @@
 - [Neer Gosrani] (https://github.com/NeErAgOsRaNi)
 - [Kirtiraj Darwai]
 - [SHASHA](https://github.com/ertghgfcxv)
+- [Samail Islam](https://github.com/samail-islam)
 - [Tegrask](https://github.com/Tegrask/)
 - [Deshmukh Shubham] (https://github.com/deshmukh-shubham)
 - [Ayush Hrishikesh Mishra](https://github.com/Ayush-hm)
