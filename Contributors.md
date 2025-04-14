@@ -32,6 +32,7 @@
 - [Manju B](https://github.com/ManjuBodi)
 - [Uthman Abdulganiyu](https://github.com/auspicious14)
 - [Mohsin Ahmad](https://github.com/mohsinahmad1979)
+- [Chirag Sathish](https://github.com/chiru0631)
 - [Lars Magelssen](https://github.com/l4rma)
 - [Alex Bascevan](https://github.com/alexbascevan)
 - [Alexander DaCosta](https://github.com/dachourico)
