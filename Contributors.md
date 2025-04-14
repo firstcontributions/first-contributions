@@ -133,6 +133,7 @@
 - [João Victor dos Reis da Silva](https://github.com/R3I5)
 - [Saicobys (Jacob Moronta)](https://github.com/SaicoBys)
 - [Hechima](https://github.com/hechima256)
+- [Fabiana Barreto](https://github.com/fabifelicia)
 - [Huan Salomão](https://github.com/neneca-lab)
 - [Gonzalo Murgeutyio](https://github.com/chalo2304)
 - [Tarun Mannava](https://github.com/tarunmannava)
