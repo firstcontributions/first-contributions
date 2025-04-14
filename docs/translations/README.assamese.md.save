@@ -128,8 +128,7 @@ git push -u origin your-branch-name
  নহলে আপুনি কেতিয়াও লগইনৰ বাবে নিৰ্দিষ্ট নাম আৰু পাছৱৰ্ড দিয়া হব আৰু লগইন ত্ৰুটি হব।
 </details>
 
-## আপোনাৰ পৰিবৰ্তনসমূহ পৰ্যালোচনাৰ বাবে জমা দিয়ক
-যদি আপুনি GitHub ত আপোনাৰ ৰেপ'জিট'ৰিটোত যায়, আপুনি `Compare & pull request` বুটামটো দেখিব। এই বুটামটোত ক্লিক কৰক।
+## আপোনাৰ পৰিবৰ্তনসমূহ পৰ্যালোচনাৰ বাবে জমা দিয়যদি আপুনি GitHub ত আপোনাৰ ৰেপ'জিট'ৰিটোত যায়, আপুনি `Compare & pull request` বুটামটো দেখিব। এই বুটামটোত ক্লিক কৰক।
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
