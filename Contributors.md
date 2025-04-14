@@ -554,6 +554,7 @@
 - [eobrien673](https://github.com/eobrien673)
 - [Eyal Kutz](https://github.com/eyalkutz)
 - [nokesh](https://github.com/Nokesh11)
+- [tr33k](https://github.com/tr33k)
 - [Vicky Besra](https://github.com/vickybesra)
 - [Mike Mertens](https://github.com/mmert9008)
 - [36borderless] (https://github.com/36borderless)
