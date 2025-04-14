@@ -15,6 +15,7 @@
 - [Harsimran jeet Singh](https://github.com/h4harsimran)
 - [Saurabh Patel](https://github.com/Saurabh3652)
 - [Sarvesh Yogi](https://github.com/SARVESHYOGI)
+- [Deboneil Bhattacharjee](https://github.com/deboneil07)
 - [Navya Sree Ram Kumar Chowdary](https://github.com/NAVI-1725)
 - [Lakshmi SR](https://github.com/LakshmiRamasubramanian)
 - [Saron Gm](https://github.com/saronbgm)
