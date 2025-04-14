@@ -2038,6 +2038,7 @@
 - [pashkov256](https://github.com/pashkov256)
 - Ga-eun Lee 💙
 - Tche
+- maruthi-raj
 - [2333](https://github.com/2333xxxx)
 - [Quia](https://github.com/Quia2325)
 - [yosakax](https://github.com/yosakax)
@@ -2049,4 +2050,3 @@
 - [Rohit Dhall](https://github.com/Rohitdhall987)
 - NaNaJyu3
 - [Jonas newbeans](https://github.com/nevvbeans)
-
