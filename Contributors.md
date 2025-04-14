@@ -1856,6 +1856,7 @@
 - [Chetan Palde](https://github.com/chetanpalde)
 - [Kruti Popat](https://github.com/kruti-popat)
 - [Baycan Vural](https://github.com/baycan)
+- [Aparmit Srivastava](https://github.com/AparmitSrivastava)
 - [Yuchen Huang](https://github.com/StarfishJ)
 - [baset](https://github.com/abdulbasi-code)
 - [ArchILLtect](https://github.com/ArchILLtect)
