@@ -957,6 +957,7 @@
 - [Lemar Tokham](https://github.com/LemarTokham)
 - [Bird Dog](https://github.com/acuhlian)
 - [Michael B.](https://github.com/mbyrd3)
+- [Connor] (https://github.com/ConnorEnglish8561)
 - [ Supraja Gaonkar ](https://github.com/Supraja-Gao)
 - [vedivero](https://github.com/vedivero)
 - [Abhishek](https://github.com/i411229891)
