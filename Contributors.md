@@ -2049,4 +2049,4 @@
 - [Rohit Dhall](https://github.com/Rohitdhall987)
 - NaNaJyu3
 - [Jonas newbeans](https://github.com/nevvbeans)
-
+- [Maksim Maltsev](https://github.com/Maksim-1307)
