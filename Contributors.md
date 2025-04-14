@@ -37,7 +37,6 @@
 - [Mohsin Ahmad](https://github.com/mohsinahmad1979)
 - [Chirag Sathish](https://github.com/chiru0631)
 - [Deepesh Haldankar](https://github.com/09deepesh)
-- [Deepesh Haldankar](https://github.com/09deepesh)
 - [Lars Magelssen](https://github.com/l4rma)
 - [Alex Bascevan](https://github.com/alexbascevan)
 - [Alexander DaCosta](https://github.com/dachourico)
