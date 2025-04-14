@@ -236,6 +236,7 @@
 - [Anna Re]
 - [hh]
 - [Sean Erfan](https://github.com/Shameed4)
+- [Tushar Shinde](https://github.com/Tushar-Shinde31)
 - [Ravi Kumar](https://github.com/r-v-c-o-d-e-r)
 - [MaotyKevin] (https://github.com/MaotyKevin)
 - [An Hoff](https://github.com/DarkNickide)
