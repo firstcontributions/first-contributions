@@ -9,6 +9,7 @@
 - [Gabriel Lima](https://github.com/gabriel-lima258)
 - [Heeyoun Lim](https://github.com/ready-oun)
 - [Josh Greenberg](https://github.com/savoi)
+- [Dawxay](https://github.com/Dawxay)
 - [Amit](https://github.com/Singhamit911)
 - [Harsimran jeet Singh](https://github.com/h4harsimran)
 - [Saurabh Patel](https://github.com/Saurabh3652)
