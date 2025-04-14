@@ -2046,4 +2046,5 @@
 - [Mahdi Javadi](https://github.com/m-djawadi)
 - [Rohit Dhall](https://github.com/Rohitdhall987)
 - NaNaJyu3
+- [Jonas newbeans](https://github.com/nevvbeans)
 
