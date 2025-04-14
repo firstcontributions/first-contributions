@@ -774,6 +774,7 @@
 - [rinujohn](https://github.com/rinujohn)
 - [lennyhurni](https://github.com/lennyhurni)
 - [Akshey](https://github.com/aksheyd)
+- [Chinmay L](https://github.com/stom-breaker-07)
 - [Darllyson Santos](https://github.com/DarllysonS)
 - [Vaibhav Rawat](https://github.com/VaibhavRawat27)
 - [Shubhranka Varma](https://github.com/shubhranka)
