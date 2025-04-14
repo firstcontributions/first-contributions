@@ -1,5 +1,5 @@
  # Contributors
-
+- [Sevatar](https://github.com/zhaojs182)
 - [Andy M. Celi](https://github.com/andy-mc)
 - [Carl Vlok](https://github.com/CarlVlok)
 - [Dwip Biswas](https://github.com/DWIP-BISWAS)
