@@ -974,6 +974,7 @@
 - [Mzwandilemkhokha](https://github.com/mzwandilemkhokha)
 - [Janvi Chetan Patel](https://github.com/JanviChetanPatel)
 - [Apoorva garg](https://github.com/ApoorvaGarg629)
+- [Erick Mata] (https://github.com/zarzamoraati)
 - [Ramiaemi Dashler](https://github.com/dashleremi)
 - [Xinsheng Ooi](https://github.com/xs1128)
 - [Desi Petkova Lee](https://github.com/DesiPetkovaLee)
