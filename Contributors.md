@@ -29,6 +29,9 @@
 - [Vetle Kise](https://github.com/vetlekise)
 - [Vamsi](https://github.com/Vamsibuddaraj)
 - [Ahmet Karapınar](https://github.com/KarapinarAhmet)
+- [TZL](https://github.com/thuzarlwi)
+
+
 - [Barkn]
 - [Pinky Gupta](https://github.com/PinkyGuptaa)
 - [Hossein Khalili](https://github.com/hos715)
