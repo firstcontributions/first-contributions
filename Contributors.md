@@ -1,6 +1,7 @@
  # Contributors
 
 - [Andy M. Celi](https://github.com/andy-mc)
+- [Baljit Panda](https://www.gihub.com/baljit-webcoder)
 - [Carl Vlok](https://github.com/CarlVlok)
 - [Dwip Biswas](https://github.com/DWIP-BISWAS)
 - [Naveen M.](https://github.com/naveenm4d)
