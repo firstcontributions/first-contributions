@@ -1,5 +1,5 @@
  # Contributors
-
+- [Brian E](https://github.com/Im-BrianEng)
 - [Andy M. Celi](https://github.com/andy-mc)
 - [Carl Vlok](https://github.com/CarlVlok)
 - [Dwip Biswas](https://github.com/DWIP-BISWAS)
