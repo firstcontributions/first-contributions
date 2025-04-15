@@ -13,6 +13,7 @@
 - [Gabriel Lima](https://github.com/gabriel-lima258)
 - [Heeyoun Lim](https://github.com/ready-oun)
 - [Josh Greenberg](https://github.com/savoi)
+- [Tiago Marques](https://github.com/fkdraeb)
 - [Dawxay](https://github.com/Dawxay)
 - [Amit](https://github.com/Singhamit911)
 - [Harsimran jeet Singh](https://github.com/h4harsimran)
@@ -44,6 +45,7 @@
 - [Uthman Abdulganiyu](https://github.com/auspicious14)
 - [Mohsin Ahmad](https://github.com/mohsinahmad1979)
 - [Chirag Sathish](https://github.com/chiru0631)
+- [Tiago Marques](https://github.com/fkdraeb)
 - [Deepesh Haldankar](https://github.com/09deepesh)
 Matthew Burgos
 - [Lars Magelssen](https://github.com/l4rma)
