@@ -7,6 +7,7 @@
 - [Naveen M.](https://github.com/naveenm4d)
 - [Thomas Moody](https://github.com/tjmoody)
 - [Gonzalo Benitez](https://github.com/gonzaabenitezz)
+- [Hemant Konduri](https://github.com/HemantKonduri)
 - [Jefin Joji](https://github.com/JefinCodes)
 - [Gabriel Lima](https://github.com/gabriel-lima258)
 - [Heeyoun Lim](https://github.com/ready-oun)
