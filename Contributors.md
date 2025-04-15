@@ -1,6 +1,7 @@
  # Contributors
 
 - [Andy M. Celi](https://github.com/andy-mc)
+- [Paridhi Agarwal](https://github.com/paridhi3)
 - [Baljit Panda](https://www.gihub.com/baljit-webcoder)
 - [Carl Vlok](https://github.com/CarlVlok)
 - [Dwip Biswas](https://github.com/DWIP-BISWAS)
