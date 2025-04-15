@@ -196,6 +196,7 @@ Matthew Burgos
 - [Vijay Modi](https://github.com/VijayM0di)
 - [Stephen K](https://github.com/kotiang54)
 - [Caio Dias](https://github.com/devCaiodias)
+- [Calvin Cathey](...)
 - [Bedelya] (https://github.com/Dazzlebutterfly)
 - [Vasudeva Cuddapah](https://github.com/NitishCuddapah)
 - [north-calm] (https://github.com/north-calm)
@@ -2075,3 +2076,9 @@ Matthew Burgos
 -[Abinanthan-CG](https://github.com/Abinanthan-CG)
 
 -[Shahid Ali](https://github.com/shahidali54)
+- [JoroAmboara] (https://github.com/JoroAmboara)
+- [BISCUITIC](https://github.com/BISCUITIC)
+- [nischal] ((https://github.com/nischaljain))
+- Hello! This is Christelle
+- Im John Pork
+
