@@ -27,6 +27,7 @@
 - [Vamsi](https://github.com/Vamsibuddaraj)
 - [Ahmet Karapınar](https://github.com/KarapinarAhmet)
 - [Barkn]
+- [Pinky Gupta](https://github.com/PinkyGuptaa)
 - [Hossein Khalili](https://github.com/hos715)
 - [Adriel Foppa](https://github.com/AdrielFoppa)
 - [Cybercodemomo](https://github.com/Azu001-Cyber)
