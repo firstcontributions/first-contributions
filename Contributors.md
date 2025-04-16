@@ -2039,6 +2039,7 @@ Matthew Burgos
 - [Narges khalilollahi](https://github.com/Nargeskhl)
 - [Aryan Jadav](https://github.com/aryanjadav037)
 - [Hung](https://github.com/HungLe17)
+- [takkuhiro](https://github.com/takkuhiro)
 - [Roku Nishimiya](https://github.com/rokuuuuu)
 - [Chaitanya Phanichalla](https://github.com/chaitanyaiscoding)
 - [Adarsh](https://github.com/adarsh-0024)
