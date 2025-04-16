@@ -1,5 +1,5 @@
  # Contributors
-
+- [faraz shafi](https://github.com/farazshafi)
 - [Jason Liu](https://github.com/jsl1114)
 - [Andy M. Celi](https://github.com/andy-mc)
 - [Daniyal Mohammed](https://github.com/dan2017558)
