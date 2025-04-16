@@ -1,5 +1,5 @@
  # Contributors
-
+- [Gavin Corlette](https://github.com/gavincorlette)
 - [Mr Zuber](https://github.com/mrzuber)
 - [Jason Liu](https://github.com/jsl1114)
 - [Jamshaid Ali](https://github.com/jamshaidali)
