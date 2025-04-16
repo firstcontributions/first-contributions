@@ -2079,7 +2079,7 @@ Matthew Burgos
 - [Jonas newbeans](https://github.com/nevvbeans)
 - GhXsTReZy
 -[aieng-abdullah](https://github.com/aieng-abdullah)
--[DPAC] (https://github.com/ldpacl)
+- [DPAC](https://github.com/ldpacl)
 - 
 -[Abinanthan-CG](https://github.com/Abinanthan-CG)
 - [JoroAmboara] (https://github.com/JoroAmboara)
