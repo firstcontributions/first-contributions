@@ -598,6 +598,7 @@ Matthew Burgos
 - [Torres Martinez]
 - [devnap]
 - [Keshav Raj Chaudhary](https://github.com/chaudharykeshavraj)
+- [MFigueroa](https://github.com/MiguelFOlivar)
 - [CaraMcG](https://github.com/caraMcG)
 - [Arnav Joshi](https://github.com/Arnav020)
 - [Avadhoot Kulkarni] (https://github.com/Avadhoot-Kulkarni)
