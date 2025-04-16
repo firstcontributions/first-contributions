@@ -3,6 +3,7 @@
 - [Jason Liu](https://github.com/jsl1114)
 - [Andy M. Celi](https://github.com/andy-mc)
 - [Daniyal Mohammed](https://github.com/dan2017558)
+- [Pathan Ismailkhan] (https://github.com/Smile-Khan)
 - [Raj Gajjar](https://github.com/RajGajjar-01)
 - [Paridhi Agarwal](https://github.com/paridhi3)
 - [Baljit Panda](https://www.gihub.com/baljit-webcoder)
