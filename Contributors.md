@@ -22,6 +22,7 @@
 - [Jefin Joji](https://github.com/JefinCodes)
 - [Gabriel Lima](https://github.com/gabriel-lima258)
 - [Heeyoun Lim](https://github.com/ready-oun)
+- [Aldo Rodriguez](https://github.com/aldorodz)
 - [Josh Greenberg](https://github.com/savoi)
 - [Dawxay](https://github.com/Dawxay)
 - [Amit](https://github.com/Singhamit911)
