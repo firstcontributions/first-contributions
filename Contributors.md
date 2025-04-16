@@ -25,6 +25,7 @@
 - [Saron Gm](https://github.com/saronbgm)
 - [Rohit seth](https://github.com/Rohitniet)
 - [Renan Rodrigues](https://github.com/renanrcrr)
+- [David Batchelder] (https://github.com/batchelder)
 - [Abbas Jaorawala](https://github.com/AbbasJaorawala)
 - [Aryan Chikeshwaram](https://github.com/ch-aryan)
 - [Vetle Kise](https://github.com/vetlekise)
