@@ -459,6 +459,7 @@ Matthew Burgos
 - [Harish](https://github.com/harish-167)
 - [Shubham Mate](https://github.com/Shubham-Mate)
 - [Anand](https://github.com/CRAnand-pro)
+- [vinit](https://github.com/vinitkate)
 - [Gabor Pusztai](https://github.com/GaborPusztai)
 - [Ivan Torres](https://github.com/Ivan-Torres1)
 - [Pratik](https://github.com/pratik2374)
