@@ -280,6 +280,7 @@ Matthew Burgos
 - [Illia Dehodiuk](https://github.com/IlliaDhD)
 - [Arowolo Abimbola](https://github.com/ArowoloAbimbolaVictoria)
 - [Ur Ya'ar](https://github.com/firubat)
+- [Puneet Verma ](https://github.com/PuneetVerma07)
 - [Mehika Jhaveri](https://github.com/MehikaJhaveri)
 - [Irakiza Divine](https://github.com/DivineIrakiza)
 - [Darlene Ishimwe](https://github.com/DarleneIshimwe)
