@@ -46,6 +46,7 @@
 - [AHMEEEEEEED (the real Andy Kaufman)] (https://github.com/andykofman)
 - [Anum Kousar](https://github.com/anum-349)
 - [Aditya TLN](https://github.com/TLNAditya)
+- [AditiRajguru](https://github.com/aditi10998)
 - [Noor Rida](https://github.com/loralridz)
 - [Ye Thura](https://github.com/YeThura-424)
 - [Manju B](https://github.com/ManjuBodi)
