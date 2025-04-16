@@ -50,6 +50,7 @@
 - [AditiRajguru](https://github.com/aditi10998)
 - [Noor Rida](https://github.com/loralridz)
 - [Ye Thura](https://github.com/YeThura-424)
+- [Kyaw Zin Thet](https://github.com/kyawzinthetgithub)
 - [Manju B](https://github.com/ManjuBodi)
 - [Uthman Abdulganiyu](https://github.com/auspicious14)
 - [Mohsin Ahmad](https://github.com/mohsinahmad1979)
