@@ -19,6 +19,7 @@
 - [Gonzalo Benitez](https://github.com/gonzaabenitezz)
 - [Horticultural Hedgemon](https://github.com/horticulturalhedgemon)
 - [Hemant Konduri](https://github.com/HemantKonduri)
+- [Jazmine Chargualaf](https://github.com/CodeWithJazmine)
 - [Jefin Joji](https://github.com/JefinCodes)
 - [Gabriel Lima](https://github.com/gabriel-lima258)
 - [Heeyoun Lim](https://github.com/ready-oun)
