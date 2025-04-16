@@ -25,6 +25,7 @@
 - [Dawxay](https://github.com/Dawxay)
 - [Amit](https://github.com/Singhamit911)
 - [Harsimran jeet Singh](https://github.com/h4harsimran)
+- [Harshil Chavada](https://github.com/HarshilChavada04)
 - [Saurabh Patel](https://github.com/Saurabh3652)
 - [Sarvesh Yogi](https://github.com/SARVESHYOGI)
 - [Deboneil Bhattacharjee](https://github.com/deboneil07)
