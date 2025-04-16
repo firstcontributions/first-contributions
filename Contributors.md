@@ -263,6 +263,7 @@ Matthew Burgos
 - [An Hoff](https://github.com/DarkNickide)
 - [Sergio](https://github.com/sergio14082001)
 - [Obidkhon Akhmadkhonov] (https://github.com/obbteam/)
+- [Manish Thakur](https://github.com/12347manish)
 - [Edoardo De Rosa](https://github.com/edvelhope)
 - [Ali_Nek09](https://github.com/AliNek09)
 - [Syed Haris Bin Aamir](https://github.com/syedharis14)
