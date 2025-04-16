@@ -46,8 +46,7 @@
 - [Mohsin Ahmad](https://github.com/mohsinahmad1979)
 - [Chirag Sathish](https://github.com/chiru0631)
 - [Deepesh Haldankar](https://github.com/09deepesh)
-Matthew Burgos
-- [Lars Magelssen](https://github.com/l4rma)
+- [NATHANA]
 - [Alex Bascevan](https://github.com/alexbascevan)
 - [Alexander DaCosta](https://github.com/dachourico)
 - [Sourav Manikandan](https://github.com/souravmanikandan)
