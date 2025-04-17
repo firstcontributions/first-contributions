@@ -103,6 +103,7 @@ Matthew Burgos
 - [Benson Manzano](https://github.com/benson-fm)
 - [Rene Torres](https://github.com/neco11)
 - [Adarsh Kumar](https://github.com/kumaradarsh2)
+- [Jonathann-Silva](https://github.com/Jonathann-Silva)
 - [Mario Lovamanitra](https://github.com/Hey-Mario)
 - [Prayoga Agus Setiawan](https://github.com/Prayoga-bit)
 -[Deepthi](https://github.com/D-E-E-P-T-H-I)
