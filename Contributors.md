@@ -1334,6 +1334,7 @@ Matthew Burgos
 - [Albert Byrone](https://github.com/Albert-Byrone)
 - [iAdani](https://github.com/iAdani)
 - [zurfjereluhmie](https://github.com/zurfjereluhmie)
+- [NullifiedSec Aka. Mashrur Rahman](https://github.com/NullifiedSec)
 - [Rishan Thangaraj](https://github.com/rishant3441)
 - [Anish Yalavarthi](https://github.com/AnishYalavarthi)
 - [Noah Petzinger](https://github.com/Jimegroxak)
