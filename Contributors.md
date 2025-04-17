@@ -2066,5 +2066,6 @@ Matthew Burgos
 - NaNaJyu3
 - [Jonas newbeans](https://github.com/nevvbeans)
 - GhXsTReZy
+-Mustafa Magdy aka Farkha (https://github.com/MustafaMagdyy)
 -[aieng-abdullah](https://github.com/aieng-abdullah)
 
