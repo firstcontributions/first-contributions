@@ -194,6 +194,7 @@ Matthew Burgos
 - [kmoratis](https://github.com/kmoratis)
 - [Pratyush](https://github.com/pratstick)
 - [kalkrijk](https://github.com/kalkrijk)
+- [Autumn Willard] (https://github.com/autumnwillard)
 - [Coolgamer]
 - [dzwee]
 - [Sunil Pabba]
