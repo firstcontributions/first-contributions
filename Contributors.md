@@ -3,6 +3,7 @@
 - [Dhrubaraj Pati](https://github.com/codewithdhruba01)
 - [MbeAlexPFS](https://github.com/MbeAlexPFS)
 - [myhifi](https://github.com/myhifi)
+- [Eunice C Maduka](https://github.com/aimmiebug) 
 -[Pedroka2000](https://github.com/Pedroka2000)
 -[Saneesh](https://github.com/2300031420)
 - [Mr Zuber](https://github.com/mrzuber)
