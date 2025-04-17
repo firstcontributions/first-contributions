@@ -931,6 +931,7 @@ Matthew Burgos
 - [Pankaj Nautiyal](https://github.com/PankajNautiyal)
 - [Nimisha](https://github.com/codehusler14)
 - [Bhavishay Bharti](https://github.com/bhavi-b)
+- [Shrushti Jadhav](https://github.com/shrushtijadhavv)
 - [Shaswat Raj](https://github.com/sh20raj)
 - [Ajay Dongare](https://github.com/GluconicAcid)
 - [Manisha1679](https://github.com/Manisha1679)
