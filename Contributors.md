@@ -395,6 +395,7 @@ Matthew Burgos
 - [ISOTOPE | THEMBA](https://github.com/Goitseone-Themba)
 - [Shreyas](https://github.com/shreyasgunjal)
 - [rashid](https://github.com/rashid-360)
+- [ramoncomendadorjr](https://github.com/ramoncomendadorjr)
 - [preethi0297](https://github.com/Preethi0297)
 - [ASA666](https://github.com/ASA-666)
 - [jagnaki](https://github.com/jagnaki)
