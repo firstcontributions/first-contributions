@@ -1,6 +1,6 @@
  # Contributors
 
-- [Felipe Zanatta Couto](https://github.com/FelipeZanatta09)
+
 - [Mr Zuber](https://github.com/mrzuber)
 - [Jason Liu](https://github.com/jsl1114)
 - [Aditya joshi](https://github.com/Aditya44234)
@@ -21,6 +21,7 @@
 - [Horticultural Hedgemon](https://github.com/horticulturalhedgemon)
 - [Hemant Konduri](https://github.com/HemantKonduri)
 - [Jazmine Chargualaf](https://github.com/CodeWithJazmine)
+- [Felipe Zanatta Couto](https://github.com/FelipeZanatta09)
 - [Jefin Joji](https://github.com/JefinCodes)
 - [Gabriel Lima](https://github.com/gabriel-lima258)
 - [Heeyoun Lim](https://github.com/ready-oun)
