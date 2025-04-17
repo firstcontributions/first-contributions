@@ -22,6 +22,7 @@
 - [Jazmine Chargualaf](https://github.com/CodeWithJazmine)
 - [Jefin Joji](https://github.com/JefinCodes)
 - [Gabriel Lima](https://github.com/gabriel-lima258)
+- [Samuel Calixto](https://github.com/samuelcalixtodev)
 - [Heeyoun Lim](https://github.com/ready-oun)
 - [Aldo Rodriguez](https://github.com/aldorodz)
 - [Josh Greenberg](https://github.com/savoi)
