@@ -132,6 +132,7 @@ Matthew Burgos
 - [Jonathan B. Liu](https://github.com/JBL168)
 - [katzilipsiz](https://github.com/katzilipsiz)
 - [konishi takahiro](https://github.com/taka727)
+- [kauanfuza](https://github.com/KauanFuza)
 - [HMMK](https://github.com/hmwemya10)
 - [Jayashree Manigandan](https://github.com/Jay9093)
 - [Tosin Chukwu](https://github.com/tosinchukwu)
