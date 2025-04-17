@@ -10,6 +10,7 @@
 - [Pedroka2000](https://github.com/Pedroka2000)  
 - [Saenesh](https://github.com/2300034120)  
 - [Tarak Shabbir](https://github.com/tarak6984)
+- [Eunice C Maduka](https://github.com/aimmiebug)
 - [Mr Zuber](https://github.com/mrzuber)
 - [Hariprasad] (https://github.com/gshari89)
 - [Jason Liu](https://github.com/jsl1114)
@@ -2148,3 +2149,4 @@
 - [Gavin Zhou](https://github.com/gvnzhou)
 - [Wonho Jo](https://github.com/jwh926)
 - [Kapil Kumar](https://github.com/kapil2121)
+- [Jerry Ma](https://github.com/mazikai002)
