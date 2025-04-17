@@ -1,6 +1,7 @@
  # Contributors
 
 - [Dhrubaraj Pati](https://github.com/codewithdhruba01)
+ -[Tarak Shabbir](https://github.com/tarak6984)
 - [MbeAlexPFS](https://github.com/MbeAlexPFS)
 - [myhifi](https://github.com/myhifi)
 -[Pedroka2000](https://github.com/Pedroka2000)
