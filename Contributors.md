@@ -7,6 +7,9 @@
 - [Jamshaid Ali](https://github.com/jamshaidali)
 - [Andy M. Celi](https://github.com/andy-mc)
 - [Daniyal Mohammed](https://github.com/dan2017558)
+
+
+
 - [Pathan Ismailkhan] (https://github.com/Smile-Khan)
 - [Raj Gajjar](https://github.com/RajGajjar-01)
 - [Paridhi Agarwal](https://github.com/paridhi3)
@@ -522,6 +525,9 @@ Matthew Burgos
 - [Nayan](https://github.com/NayanUnni95)
 - [Arpit Dubey](https://github.com/Arpit1033)
 - [Nahom](https://github.com/NahomWondimu)
+
+- [Rafael Scorfi Gatto](https://github.com/rscorfi)
+
 - [Sakshi Jaiswal](https://github.com/Sakshijazz)
 - [Kaushik Ghorai](https://github.com/kaushikghorai)
 - [Pranshu Rakhecha](https://github.com/pranshurakhecha)
@@ -2084,6 +2090,8 @@ Matthew Burgos
 - BestStatham8(https://github.com/BestStatham8)
 - [PedroOliveiraWish](https://github.com/PedroOliveiraWish)
 - [pashkov256](https://github.com/pashkov256)
+
+
 - Ga-eun Lee 💙
 - Tche
 - [2333](https://github.com/2333xxxx)
