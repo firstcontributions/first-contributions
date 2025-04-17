@@ -1179,6 +1179,7 @@ Matthew Burgos
 - [Riley Gould](https://github.com/thelifeofri1ey)
 - [OBLI B VIKRAM](https://github.com/Vikramobli)
 - [Nisha Verma](https://github.com/xnisha-verma)
+- [eulerBM](https://github.com/eulerBM)
 - [TrevyBurgess](https://github.com/TrevyBurgess)
 - [Jerold De Pedro](https://github.com/xherby07)
 - [Neeraj M](https://github.com/NERUZ-XOD)
