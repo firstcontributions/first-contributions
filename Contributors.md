@@ -38,6 +38,7 @@
 - [Saurabh Patel](https://github.com/Saurabh3652)
 - [Sarvesh Yogi](https://github.com/SARVESHYOGI)
 - [Deboneil Bhattacharjee](https://github.com/deboneil07)
+- [Aryan Bagale](https://github.com/Aryan-Bagale)
 - [Navya Sree Ram Kumar Chowdary](https://github.com/NAVI-1725)
 - [Lakshmi SR](https://github.com/LakshmiRamasubramanian)
 - [Saron Gm](https://github.com/saronbgm)
@@ -52,7 +53,7 @@
 - [Barkn]
 - [Pinky Gupta](https://github.com/PinkyGuptaa)
 - [Hossein Khalili](https://github.com/hos715)
-- [Adriel Foppa](https://github.com/AdrielFoppa)
+- [Adriel Foppa](https://github.com/AdrielFoppa)ss
 - [Cybercodemomo](https://github.com/Azu001-Cyber)
 - [SergioElías](https://github.com/sezgox)
 - [AHMEEEEEEED (the real Andy Kaufman)] (https://github.com/andykofman)
