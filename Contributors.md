@@ -66,6 +66,7 @@
 - [Deepesh Haldankar](https://github.com/09deepesh)
 Matthew Burgos
 - [Lars Magelssen](https://github.com/l4rma)
+- [Miguel Sambati](https://github.com/magualitos)
 - [Alex Bascevan](https://github.com/alexbascevan)
 - [Alexander DaCosta](https://github.com/dachourico)
 - [Sourav Manikandan](https://github.com/souravmanikandan)
