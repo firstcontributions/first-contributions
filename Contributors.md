@@ -21,7 +21,7 @@
 - [Horticultural Hedgemon](https://github.com/horticulturalhedgemon)
 - [Hemant Konduri](https://github.com/HemantKonduri)
 - [Jazmine Chargualaf](https://github.com/CodeWithJazmine)
-- [Felipe Zanatta Couto](https://github.com/FelipeZanatta09)
+- [Felipe Zanatta CoutoZ](https://github.com/FelipeZanatta09)
 - [Jefin Joji](https://github.com/JefinCodes)
 - [Gabriel Lima](https://github.com/gabriel-lima258)
 - [Heeyoun Lim](https://github.com/ready-oun)
