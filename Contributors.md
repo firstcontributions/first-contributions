@@ -55,6 +55,7 @@
 - [AditiRajguru](https://github.com/aditi10998)
 - [Noor Rida](https://github.com/loralridz)
 - [Ye Thura](https://github.com/YeThura-424)
+- [Natã Felipe](https://github.com/NataFelipeS)
 - [Kyaw Zin Thet](https://github.com/kyawzinthetgithub)
 - [Manju B](https://github.com/ManjuBodi)
 - [Uthman Abdulganiyu](https://github.com/auspicious14)
