@@ -1,5 +1,6 @@
  # Contributors
 
+-[Pedroka2000](https://github.com/Pedroka2000)
 - [Mr Zuber](https://github.com/mrzuber)
 - [Jason Liu](https://github.com/jsl1114)
 - [Aditya joshi](https://github.com/Aditya44234)
