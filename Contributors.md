@@ -1035,6 +1035,7 @@ Matthew Burgos
 - [notamudkipiguess](https://github.com/notamudkipiguess)
 - [HannanToprakPia](https://github.com/HannanToprakPia)
 - [Soaring Eagle](https://github.com/SoaringEagle910)
+- [André Herreira Oliveira](https://github.com/andrehherreira)
 - [Floyd Carlo](https://github.com/floo69)
 - [Omkar Guha](https://github.com/omkarguha)
 - [Josmer Rodriguez](https://github.com/Josmerr)
