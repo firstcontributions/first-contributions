@@ -13,6 +13,7 @@
 - [Deepika Reddy](https://github.com/klu2300031389)
 - [Eekshitha Vemula](https://github.com/eekshitha1)
 - [Rishav Mondal](https://github.com/CallSignRishav)
+- [Larisa Capatina] (https://github.com/pianist-in-tech)
 - [Racheal Milele](https://github.com/RachealMilele123)
 - [Gustave.A Ilunga](https://github.com/Gvstave)
 - [Anthony M. Mwila](https://github.com/anthonymmwila)
