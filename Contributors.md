@@ -20,6 +20,7 @@
 - [Rohan Bhalerao](https://github.com/Rohanbhalerao875)
 - [Vannyou TANG 🇰🇭](https://github.com/TVYDev)
 - [shubham](https://github.com/sidharthkshubham)
+- [devmigmig](https://github.com/devmigmig) 
 e-Jo
 - [mmhd]
 - [Francis Rey](https://github.com/frb21)
