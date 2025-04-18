@@ -197,6 +197,7 @@ Matthew Burgos
 - [Tarun Mannava](https://github.com/tarunmannava)
 - [Nency Patel](https://github.com/nenncy)
 - [David canas](https://github.com/dacanass)
+- [Juan Alvarez](https://github.com/JAlv200)
 - [Nilesh Suryawanshi](https://github.com/nilesh1168)
 - [Wee Ye Zhi](https://github.com/WeeYeZhi)
 - [Nithin M S](https://github.com/Nithin3003)
