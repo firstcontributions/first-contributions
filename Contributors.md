@@ -2143,3 +2143,4 @@ e-Jo
 - [Kirill-soft](https://github.com/Kirill-soft)
 - [Ankush Gupta](https://github.com/Ankush443)
 - [Om Jadhav](https://github.com/omrjadhav)
+- [Ivan Kazhnov](https://github.com/kazhnov)
