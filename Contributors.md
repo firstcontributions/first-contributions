@@ -1,5 +1,5 @@
  # Contributors
-
+- [Alan Chien](https://github.com/Yicheng-1218)
 - [Max Ma](https://github.com/maxu198668)
 - [Miging](https://github.com/Miging)
 - [Dhrubaraj Pati](https://github.com/codewithdhruba01)
