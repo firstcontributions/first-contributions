@@ -314,6 +314,7 @@ Matthew Burgos
 - [Shivam Khedekar](https://github.com/shivam501-00)
 - [Eekshitha Vemula](https://github.com/eekshitha1)
 - [Rishav Mondal](https://github.com/CallSignRishav)
+- [Larisa Capatina] (https://github.com/pianist-in-tech)
 - [Racheal Milele](https://github.com/RachealMilele123)
   [Gustave.A Ilunga](https://github.com/Gvstave)
 - [Anthony M. Mwila](https://github.com/anthonymmwila)
