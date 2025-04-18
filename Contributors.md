@@ -1,5 +1,4 @@
  # Contributors
-- [Kylash](https://github.com/kylash-mr/)
 - [Max Ma](https://github.com/maxu198668)
 - [Miging](https://github.com/Miging)
 - [Dhrubaraj Pati](https://github.com/codewithdhruba01)
@@ -2170,3 +2169,4 @@ Matthew Burgos
 - [Ivan Kazhnov](https://github.com/kazhnov)
 - [Tauã Bernardo aka Ned] (https://github.com/tauabernardo)
 - [samarsinh225](https://github.com/samarsinh225)
+- [Kylash](https://github.com/kylash-mr/)
