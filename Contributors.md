@@ -71,7 +71,7 @@ e-Jo
 - [SergioElías](https://github.com/sezgox)
 - [AHMEEEEEEED (the real Andy Kaufman)] (https://github.com/andykofman)
 - [Anum Kousar](https://github.com/anum-349)
-- [Aditya TLN](https://github.com/TLNAditya) 
+- [Aditya TLN](https://github.com/TLNAditya)
 - [Aditya Kumar](https://github.com/devcodesadi)
 - [AditiRajguru](https://github.com/aditi10998)
 - [Noor Rida](https://github.com/loralridz)
