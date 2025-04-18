@@ -2174,3 +2174,4 @@ Matthew Burgos
 - [Tauã Bernardo aka Ned] (https://github.com/tauabernardo)
 - [samarsinh225](https://github.com/samarsinh225)
 - [Emil Eriksson] (https://github.com/PalmenPC)
+- [Calvin Fernandes](https://github.com/ninja2482k)
