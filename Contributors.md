@@ -1,6 +1,7 @@
  # Contributors
 
 - [Max Ma](https://github.com/maxu198668)
+- [Ward](https://github.com/rawadmuhammed)
 - [Miging](https://github.com/Miging)
 - [Dhrubaraj Pati](https://github.com/codewithdhruba01)
 - [Soumya Pachpor](https://github.com/SoumyaPachpor)
