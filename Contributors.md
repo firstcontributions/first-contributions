@@ -2152,3 +2152,4 @@ Matthew Burgos
 - [Wonho Jo](https://github.com/jwh926)
 - [Kapil Kumar](https://github.com/kapil2121)
 - [Jerry Ma](https://github.com/mazikai002)
+- [Matheus B M Lopes](https://github.com/lopesmtt)
