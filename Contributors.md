@@ -981,6 +981,7 @@ e-Jo
 - [Nehsik](https://github.com/Kishen271828)
 - [deep9x](https://github.com/deep9x)
 - [PhamNguyenDangHuy](https://github.com/pndh)
+- [Kimjunseoo](https://github.com/kimjunseoo)
 - [BinhTran2307](my first contribution)
 - [smandadhi9](https://github.com/smandadhi9)
 - [Mateus Cruz](https://github.com/Mdacruzrego)
@@ -2145,3 +2146,4 @@ e-Jo
 - [Om Jadhav](https://github.com/omrjadhav)
 - [Ivan Kazhnov](https://github.com/kazhnov)
 - [Tauã Bernardo aka Ned] (https://github.com/tauabernardo)
+- [samarsinh225](https://github.com/samarsinh225)
