@@ -503,6 +503,7 @@
 - [Amleshwar Pandey](https://github.com/amleshwar-p)
 - [Jared Noel] (https://github.com/AshenDary)
 - [Navid](https://github.com/navidcodes)
+- [Pradhi Rajak](https://github.com/pradhi02)
 - [Asghar Kazmi](https://github.com/AsgharKazmi2005)
 - [KigulaJesse](https://github.com/KigulaJesse)
 - [Sitanshu Nandan](https://github.com/stansho)
