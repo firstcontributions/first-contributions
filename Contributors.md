@@ -2169,3 +2169,4 @@ Matthew Burgos
 - [Ivan Kazhnov](https://github.com/kazhnov)
 - [Tauã Bernardo aka Ned] (https://github.com/tauabernardo)
 - [samarsinh225](https://github.com/samarsinh225)
+- [Emil Eriksson] (https://github.com/PalmenPC)
