@@ -14,6 +14,7 @@
 - [Mr Zuber](https://github.com/mrzuber)
 - [Hariprasad] (https://github.com/gshari89)
 - [Jason Liu](https://github.com/jsl1114)
+- [Jayant Kumar](https://github.com/zapwiz22)
 - [Aditya joshi](https://github.com/Aditya44234)
 - [Jamshaid Ali](https://github.com/jamshaidali)
 - [Andy M. Celi](https://github.com/andy-mc)
