@@ -1,5 +1,6 @@
  # Contributors
 
+- [Miging](https://github.com/Miging)
 - [Dhrubaraj Pati](https://github.com/codewithdhruba01)
 - [Soumya Pachpor](https://github.com/SoumyaPachpor)
  -[Tarak Shabbir](https://github.com/tarak6984)
