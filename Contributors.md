@@ -31,6 +31,7 @@ e-Jo
 - [Raj Gajjar](https://github.com/RajGajjar-01)
 - [Paridhi Agarwal](https://github.com/paridhi3)
 - [Abhinav Devarakonda](https://github.com/abhinavdevarakonda)
+- [Avineet Kaur](https://github.com/AvineetKaur)
 - [Baljit Panda](https://www.gihub.com/baljit-webcoder)
 - [Carl Vlok](https://github.com/CarlVlok)
 - [Dwip Biswas](https://github.com/DWIP-BISWAS)
