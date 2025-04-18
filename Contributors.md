@@ -2167,3 +2167,4 @@ Matthew Burgos
 - [Om Jadhav](https://github.com/omrjadhav)
 - [Ivan Kazhnov](https://github.com/kazhnov)
 - [Tauã Bernardo aka Ned] (https://github.com/tauabernardo)
+- [samarsinh225](https://github.com/samarsinh225)
