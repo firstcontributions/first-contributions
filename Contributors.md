@@ -1,5 +1,5 @@
  # Contributors
-
+- [Ajit Sargar](https://github.com/sargar-ajit)
 - [Max Ma](https://github.com/maxu198668)
 - [Ward](https://github.com/rawadmuhammed)
 - [Miging](https://github.com/Miging)
@@ -149,6 +149,7 @@ Matthew Burgos
 - [Tsakane Shiri](https://github.com/tsakane28)
 - [Emmanuel Ofoneta](https://github.com/Lordmaryo)
 - [Ramzan Khan](https://github.com/Ramzan-Khan-786)
+
 - [Mamta Vyas](https://github.com/your-mamta-vyas)
 - [Burhanuddin Bohra](https://github.com/burhan-72)
 - [Syed Ali](https://github.com/Pro-Algorythm)
