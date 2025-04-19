@@ -70,6 +70,7 @@ e-Jo
 - [Rohit seth](https://github.com/Rohitniet)
 - [Renan Rodrigues](https://github.com/renanrcrr)
 - [David Batchelder] (https://github.com/batchelder)
+- [PRIYANSHU RAJ] (https://github.com/priyanshuraj-debug)
 - [Abbas Jaorawala](https://github.com/AbbasJaorawala)
 - [Aryan Chikeshwaram](https://github.com/ch-aryan)
 - [Vetle Kise](https://github.com/vetlekise)
