@@ -1,4 +1,5 @@
  # Contributors
+- [TopHat327](https://github.com/TopHat327)
 - [Ajit Sargar](https://github.com/sargar-ajit)
 - [Max Ma](https://github.com/maxu198668)
 - [spacegodx](https://github.com/spacegodx)
