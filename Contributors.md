@@ -31,6 +31,7 @@
 - [devmigmig](https://github.com/devmigmig) 
 e-Jo
 - [mmhd]
+- [xdu]
 - [Francis Rey](https://github.com/frb21)
 - [Pathan Ismailkhan] (https://github.com/Smile-Khan)
 - [Raj Gajjar](https://github.com/RajGajjar-01)
