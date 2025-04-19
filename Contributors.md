@@ -7,6 +7,7 @@
 - [Soumya Pachpor](https://github.com/SoumyaPachpor)
  -[Tarak Shabbir](https://github.com/tarak6984)
 - [MbeAlexPFS](https://github.com/MbeAlexPFS)
+- [Shiva Kumar Tirupathi](https://github.com/wings-aka-shiva)
 - [myhifi](https://github.com/myhifi)
 - [Eunice C Maduka](https://github.com/aimmiebug) 
 -[Pedroka2000](https://github.com/Pedroka2000)
