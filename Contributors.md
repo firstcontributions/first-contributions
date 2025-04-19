@@ -724,6 +724,7 @@ Matthew Burgos
 - [AureDev](https://github.com/AureDev)
 - [Vasu Singh](https://github.com/Vasu1303)
 - [Sivasankaran Chandrasekaran](https://github.com/sivasankarnc65)
+- [Antonio Thoamaz Oliveira Reis](https://github.com/antonioThomaz1903)
 - [Akash Dahal](https://github.com/DARKAD10)
 - [Harry C](https://github.com/campbellharry)
 - [yugo](https://github.com/yugook)
