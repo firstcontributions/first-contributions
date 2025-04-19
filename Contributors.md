@@ -2,6 +2,7 @@
 - [Ajit Sargar](https://github.com/sargar-ajit)
 - [Max Ma](https://github.com/maxu198668)
 - [spacegodx](https://github.com/spacegodx)
+- [Nishu](https://github.com/nishuR31)
 - [Ward](https://github.com/rawadmuhammed)
 - [GoodBoy](https://github.com/prasad-bigdp)
 - [Miging](https://github.com/Miging)
