@@ -2188,3 +2188,4 @@ Matthew Burgos
 - [Kaushal Kumbagowdana](https://github.com/kaushaltheeG)
 - [Kylash M R]
 - [white devil] - (https://github.com/prasad-bigdp)
+- [Yutaro] - (https://github.com/Yutaro-orange)
