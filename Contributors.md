@@ -2178,7 +2178,10 @@ Matthew Burgos
 - [Alexcarbi] (https://github.com/alexcarbi)
 - Delaksan Sritharan
 - [Jefferson Santos](https://github.com/jeff777-source)
+
 - [Marcelo Mendonça](https://github.com/marcelo18012010)
+- [Sai Teja](https://github.com/klu2300090005)
+- [Sai Teja Basava](https://github.com/klu2300090005)
 - [Manik Garg](https://github.com/gargmanik6080)
 - [Gavin Zhou](https://github.com/gvnzhou)
 - [Wonho Jo](https://github.com/jwh926)
@@ -2189,12 +2192,12 @@ Matthew Burgos
 - [Ankush Gupta](https://github.com/Ankush443)
 - [Om Jadhav](https://github.com/omrjadhav)
 - [Ivan Kazhnov](https://github.com/kazhnov)
-- [Tauã Bernardo aka Ned] (https://github.com/tauabernardo)
+- [Tauã Bernardo aka Ned](https://github.com/tauabernardo)
 - [samarsinh225](https://github.com/samarsinh225)
-- [Emil Eriksson] (https://github.com/PalmenPC)
+- [Emil Eriksson](https://github.com/PalmenPC)
 - [Calvin Fernandes](https://github.com/ninja2482k)
 - [Kaushal Kumbagowdana](https://github.com/kaushaltheeG)
 - [Kylash M R]
-- [white devil] - (https://github.com/prasad-bigdp)
-- [Yutaro] - (https://github.com/Yutaro-orange)
-- [Anton Avdeev] (https://github.com/Extend777)
+- [white devil](https://github.com/prasad-bigdp)
+- [Yutaro](https://github.com/Yutaro-orange)
+- [Anton Avdeev](https://github.com/Extend777)
