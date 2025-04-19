@@ -36,6 +36,8 @@
 - [praveen hari krishna](https://github.com/phk16)
 e-Jo
 - [mmhd]
+- [xdu]
+- [XDU]
 - [Francis Rey](https://github.com/frb21)
 - [Pathan Ismailkhan] (https://github.com/Smile-Khan)
 - [Raj Gajjar](https://github.com/RajGajjar-01)
