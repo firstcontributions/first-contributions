@@ -61,6 +61,8 @@ e-Jo
 - [Aldo Rodriguez](https://github.com/aldorodz)
 - [Josh Greenberg](https://github.com/savoi)
 - [Dawxay](https://github.com/Dawxay)
+- [dddd]
+- [Warterkk](https://github.com/Warterkk)
 - [Amit](https://github.com/Singhamit911)
 - [Harsimran jeet Singh](https://github.com/h4harsimran)
 - [Harshil Chavada](https://github.com/HarshilChavada04)
