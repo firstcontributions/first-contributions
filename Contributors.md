@@ -2086,7 +2086,7 @@ Matthew Burgos
 - [PedroOliveiraWish](https://github.com/PedroOliveiraWish)
 - [pashkov256](https://github.com/pashkov256)
 - Ga-eun Lee 💙
-- Tche
+- [Everton Moura](https://github.com/EVERTON100792)
 - [2333](https://github.com/2333xxxx)
 - [Quia](https://github.com/Quia2325)
 - [yosakax](https://github.com/yosakax)
@@ -2114,4 +2114,3 @@ Matthew Burgos
 - [Alexcarbi] (https://github.com/alexcarbi)
 - Delaksan Sritharan
 - [Jefferson Santos](https://github.com/jeff777-source)
-- [Everton Moura](https://github.com/EVERTON100792)
