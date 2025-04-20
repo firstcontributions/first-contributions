@@ -2211,3 +2211,4 @@ Matthew Burgos
 - [Yutaro] - (https://github.com/Yutaro-orange)
 - [Anton Avdeev] (https://github.com/Extend777)
 - [Dmytro Petruniv] (https://github.com/dmyrkoo)
+- [Pacome Fromager] (https://github.com/Teyzer)
