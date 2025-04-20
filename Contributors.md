@@ -62,6 +62,7 @@ e-Jo
 - [Pavithra Nelluri](https://github.com/PavithraNelluri)
 - [Samuel Calixto](https://github.com/samuelcalixtodev)
 - [Heeyoun Lim](https://github.com/ready-oun)
+- [Nogunix](https://github.com/nogunix)
 - [Aldo Rodriguez](https://github.com/aldorodz)
 - [Josh Greenberg](https://github.com/savoi)
 - [Dawxay](https://github.com/Dawxay)
