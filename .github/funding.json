@@ -5,7 +5,6 @@
     "role": "owner",
     "name": "firstcontributions",
     "email": "firstcontributions@gmail.com",
-    "phone": "",
     "description": "Improve accessibility with enhanced documentation tailored for beginners and create opportunities for first-time contributors to get involved. Focus on building great software while inspiring a thriving, collaborative community around open source projects.",
     "webpageUrl": {
       "url": "https://github.com/firstcontributions/first-contributions"
@@ -45,54 +44,51 @@
         "guid": "github-sponsors",
         "type": "payment-provider",
         "address": "https://github.com/sponsors/firstcontributions",
-        "description": "Uses open collective"
-      }
-    ],
-    "plans": [
-      {
-        "guid": "maintainer-time",
-        "status": "active",
-        "name": "Maintainer compensation",
-        "description": "This will compensate the effort of one maintainer working part-time on the projects.",
-        "amount": 30000,
-        "currency": "USD",
-        "frequency": "yearly",
-        "channels": [
-          "opencollective",
-          "github-sponsors"
-        ]
-      },
-      {
-        "guid": "hosting-monthly",
-        "status": "active",
-        "name": "Hosting support",
-        "description": "This will cover the monthly server hosting costs for the projects.",
-        "amount": 30,
-        "currency": "USD",
-        "frequency": "monthly",
-        "channels": [
-          "opencollective",
-          "github-sponsors"
-        ]
-      }
-    ],
-    "history": [
-      {
-        "year": 2024,
-        "income": 3,
-        "expenses": 0,
-        "taxes": 0,
-        "currency": "USD",
-        "description": ""
-      },
-      {
-        "year": 2023,
-        "income": 5,
-        "expenses": 0,
-        "taxes": 0,
-        "currency": "USD",
-        "description": ""
-      }
+        "description": "GitHub Sponsors allows contributors to support the project financially, and the funds are managed through Open Collective as the fiscal host."
     ]
-  }
+  },
+  "plans": [
+    {
+      "guid": "maintainer-time",
+      "status": "active",
+      "name": "Maintainer compensation",
+      "description": "This will compensate the effort of one maintainer working part-time (20 hours per week) on the projects.",
+      "amount": 30000,
+      "currency": "USD",
+      "frequency": "yearly",
+      "channels": [
+        "opencollective",
+        "github-sponsors"
+      ]
+    },
+    {
+      "guid": "hosting-monthly",
+      "status": "active",
+      "name": "Hosting support",
+      "description": "This will cover the monthly server hosting costs for the projects.",
+      "amount": 30,
+      "currency": "USD",
+      "frequency": "monthly",
+      "channels": [
+        "opencollective",
+        "github-sponsors"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "year": 2024,
+      "income": 3,
+      "expenses": 0,
+      "taxes": 0,
+      "currency": "USD"
+    },
+    {
+      "year": 2023,
+      "income": 5,
+      "expenses": 0,
+      "taxes": 0,
+      "currency": "USD"
+    }
+  ]
 }
