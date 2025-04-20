@@ -498,6 +498,7 @@ Matthew Burgos
 - [Vishnu Vardhan N](https://github.com/VishnuVardhanNk)
 - [Sharan Robinson](https://github.com/Sharan-Robinson)
 - [Abhishek Negi](https://github.com/abhi-negii7)
+- [Priydev Mishra](https://github.com/priydevmishra)
 - [Tristan Henning] (https://github.com/tristanh-code)
 - [Andrew Poly](https://github.com/minakilabs)
 - [Teja Chalikanti](https://github.com/tchalikanti1705)
