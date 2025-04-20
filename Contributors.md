@@ -229,6 +229,7 @@ Matthew Burgos
 - [niimma](https://github.com/niimma)
 - [danishayman](https://github.com/danishayman)
 - [James Tansey](https://github.com/JTansey93)
+- [Emil Bergman](https://github.com/tfk16egb)
 - [Abhinav Gupta] (https://github.com/abhinav-322)
 - [palyen](https://github.com/palyen)
 - [Anirudh]
