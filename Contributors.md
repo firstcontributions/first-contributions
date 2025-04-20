@@ -2114,3 +2114,4 @@ Matthew Burgos
 - [Alexcarbi] (https://github.com/alexcarbi)
 - Delaksan Sritharan
 - [Jefferson Santos](https://github.com/jeff777-source)
+- [Everton Moura](https://github.com/EVERTON100792)
