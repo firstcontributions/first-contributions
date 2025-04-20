@@ -2219,3 +2219,4 @@ Matthew Burgos
 - [Pacome Fromager] (https://github.com/Teyzer)
 - [utopia] (https://github.com/Utopia-a)
 - [Kirankumarvel] - (https://github.com/Kirankumarvel/)
+- [vëhxï] - (https://github.com/vehxi)
