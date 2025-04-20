@@ -7,7 +7,7 @@
 <kbd>[<img title="Shqip" alt="Shqip" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/al.svg" width="22">](docs/translations/README.al.md)</kbd>
 <kbd>[<img title="Armenian" alt="Armenian" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/am.svg" width="22">](docs/translations/README.arm.md)</kbd>
 <kbd>[<img title="Uzbek" alt="Uzbek language" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/uz.svg" width="22">](docs/translations/README.uz.md)</kbd>
-<kbd>[<img title="Azərbaycan dili" alt="Azərbaycan dili" src="https://cdn.statically.io/flags/az.svg" width="22">](docs/translations/README.aze.md)</kbd>
+<kbd>[<img title="Azərbaycan dili" alt="Azərbaycan dili" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/az.svg" width="22">](docs/translations/README.aze.md)</kbd>
 <kbd>[<img title="বাংলা" alt="বাংলা" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/bd.svg" width="22">](docs/translations/README.bn.md)</kbd>
 <kbd>[<img title="Bulgarian" alt="Bulgarian" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/bg.svg" width="22">](docs/translations/README.bg.md)</kbd>
 <kbd>[<img title="Português (Brasil)" alt="Português (Brasil)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](docs/translations/README.pt_br.md)</kbd>
@@ -44,7 +44,7 @@
 <kbd>[<img title="Bahasa Melayu / بهاس ملايو‎ / Malay" alt="Bahasa Melayu / بهاس ملايو‎ / Malay" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/my.svg" width="22">](docs/translations/README.my.md)</kbd>
 <kbd>[<img title="Dutch" alt="Dutch" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/nl.svg" width="22">](docs/translations/README.nl.md)</kbd>
 <kbd>[<img title="Norsk" alt="Norsk" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/no.svg" width="22">](docs/translations/README.no.md)</kbd>
-<kbd>[<img title="नेपाली" alt="नेपाली" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/np.svg" width="15">](docs/translations/README.np.md)</kbd>
+<kbd>[<img title="नेपाली" alt="नेपाली" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/np.svg" width="22">](docs/translations/README.np.md)</kbd>
 <kbd>[<img title="Wikang Filipino" alt="Wikang Filipino" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ph.svg" width="22">](docs/translations/README.fil.md)</kbd>
 <kbd>[<img title="English (Pirate)" alt="English (Pirate)" src="https://firstcontributions.github.io/assets/Readme/pirate.png" width="22">](docs/translations/README.en-pirate.md)</kbd>
 <kbd>[<img title="اُاردو" alt="اردو" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/pk.svg" width="22">](docs/translations/README.ur.md)</kbd>
@@ -155,7 +155,7 @@ If the error message "Git: `switch` is not a git command. See `git –help`" app
 In this case, try to use `git checkout` instead:
 
 ```bash
-git checkout -b your-new-branch-name
+git switch -c your-new-branch-name
 ```
 
 </details>
