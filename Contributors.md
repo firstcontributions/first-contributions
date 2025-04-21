@@ -1455,6 +1455,7 @@ Matthew Burgos
 - [Hoin Shin](https://github.com/signalman)
 - [Rahul Choudhary](https://github.com/RahulCh010)
 - [I-Bex](https://github.com/i-Bex)
+- [Tristan Orpilla](https://github.com/13tristan)
 - [Jon Compton](https://github.com/joncompton)
 - [Yash Goyal](https://github.com/yash-goyal-0910)
 - [Shubham kumar](https://github.com/Shubham9384235)
