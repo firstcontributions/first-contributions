@@ -2215,6 +2215,7 @@ Matthew Burgos
 - [Kirill-soft](https://github.com/Kirill-soft)
 - [Ankush Gupta](https://github.com/Ankush443)
 - [Om Jadhav](https://github.com/omrjadhav)
+- John Doe
 - [Ivan Kazhnov](https://github.com/kazhnov)
 - [Tauã Bernardo aka Ned] (https://github.com/tauabernardo)
 - [samarsinh225](https://github.com/samarsinh225)
