@@ -1,6 +1,7 @@
  # Contributors
  -[Diyacoder-123](https://github.com/Diyacoder-123)
  - [dreamaker69](https://github.com/dreamaker69)
+ - [Letlhogonolo] (https://github.com/whoIsImai)
 - [TopHat327](https://github.com/TopHat327)
 - [Jonathan Kila](https://github.com/Excelsior2021)
 - [siddy09re](https://github.com/siddy09re)
@@ -46,6 +47,7 @@
 e-Jo
 - [mmhd]
 - [Francis Rey](https://github.com/frb21)
+- [Srivatsav V](https://github.com/srivatsav09)
 - [Pathan Ismailkhan] (https://github.com/Smile-Khan)
 - [Raj Gajjar](https://github.com/RajGajjar-01)
 - [Paridhi Agarwal](https://github.com/paridhi3)
@@ -131,6 +133,7 @@ Matthew Burgos
 - [David] (https://github.com/Bytor0)
 - [kamesh63] (https://github.com/kamesh63)
 - [David Aldan] (https://github.com/davidaldan)
+- [Tristan Orpilla] (https://github.com/13tristan)
 - [Akash M] (https://github.com/Akashm311)
 - [Anmol Raturi] (https://github.com/TimelyCo)
 - [Shiva-Narra] (https://github.com/Shiva-ADA)
