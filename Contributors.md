@@ -1,6 +1,3 @@
-# Contributors
-
-- [dreamaker69](https://github.com/dreamaker69)
 - [TopHat327](https://github.com/TopHat327)
 - [Jonathan Kila](https://github.com/Excelsior2021)
 - [siddy09re](https://github.com/siddy09re)
