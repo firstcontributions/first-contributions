@@ -1,14 +1,15 @@
  # Contributors
- -[Diyacoder-123](https://github.com/Diyacoder-123)
- - [dreamaker69](https://github.com/dreamaker69)
- - [Letlhogonolo] (https://github.com/whoIsImai)
- - [AkashVardhan](https://github.com/akashinferno)
+- [Mariana Reis](https://github.com/mariana-reis)
+- [Diyacoder-123](https://github.com/Diyacoder-123)
+- [dreamaker69](https://github.com/dreamaker69)
+- [Letlhogonolo] (https://github.com/whoIsImai)
+- [AkashVardhan](https://github.com/akashinferno)
 - [TopHat327](https://github.com/TopHat327)
 - [Jonathan Kila](https://github.com/Excelsior2021)
 - [siddy09re](https://github.com/siddy09re)
 - [Ajit Sargar](https://github.com/sargar-ajit)
--[Aadarsh mishra]
--[Nithish699](https://github.com/Nithish699)
+- [Aadarsh mishra]
+- [Nithish699](https://github.com/Nithish699)
 [ajaykamera](https://github.com/kameraajay)
 - [Max Ma](https://github.com/maxu198668)
 - [spacegodx](https://github.com/spacegodx)
