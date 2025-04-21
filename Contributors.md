@@ -54,6 +54,7 @@ e-Jo
 - [Naveen M.](https://github.com/naveenm4d)
 - [Thomas Moody](https://github.com/tjmoody)
 - [Matheus Cavalcanti](https://github.com/matheusscavalcanti)
+- [Samuel Rahul J](https://github.com/SamuelJ70)
 - [Bakhodir Ulugov](https://github.com/bulugov)
 - [Sayed Sahil Ahmed] (https://github.com/SSAHMED007)
 - [Gonzalo Benitez](https://github.com/gonzaabenitezz)
