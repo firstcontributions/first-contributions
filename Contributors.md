@@ -28,6 +28,7 @@
 - [Revanth Kumar](https://github.com/revanth98-bit)
 - [Jason Liu](https://github.com/jsl1114)
 - [Jayant Kumar](https://github.com/zapwiz22)
+- [Muhammad Anas](https://github.com/AnasJadoon31)
 - [Aditya joshi](https://github.com/Aditya44234)
 - [JS-Bej](https://github.com/JS-Bej)
 - [Jamshaid Ali](https://github.com/jamshaidali)
