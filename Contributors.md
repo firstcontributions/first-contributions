@@ -8,6 +8,7 @@
 - [Ajit Sargar](https://github.com/sargar-ajit)
 -[Aadarsh mishra]
 -[Nithish699](https://github.com/Nithish699)
+[ajaykamera](https://github.com/kameraajay)
 - [Max Ma](https://github.com/maxu198668)
 - [spacegodx](https://github.com/spacegodx)
 - [Nishu](https://github.com/nishuR31)
