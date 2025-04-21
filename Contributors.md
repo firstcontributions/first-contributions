@@ -1006,6 +1006,7 @@ Matthew Burgos
 - [Nimisha](https://github.com/codehusler14)
 - [Bhavishay Bharti](https://github.com/bhavi-b)
 - [Shrushti Jadhav](https://github.com/shrushtijadhavv)
+- [Dr4kfire](https://github.com/dr4kfire)
 - [Shaswat Raj](https://github.com/sh20raj)
 - [Ajay Dongare](https://github.com/GluconicAcid)
 - [Manisha1679](https://github.com/Manisha1679)
