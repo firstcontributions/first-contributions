@@ -2167,6 +2167,7 @@ Matthew Burgos
 - BestStatham8(https://github.com/BestStatham8)
 - [PedroOliveiraWish](https://github.com/PedroOliveiraWish)
 - [pashkov256](https://github.com/pashkov256)
+- Jule Sall
 - Ga-eun Lee 💙
 - Tche
 - [2333](https://github.com/2333xxxx)
