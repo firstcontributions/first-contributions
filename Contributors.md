@@ -24,6 +24,7 @@
 - [Nishu](https://github.com/nishuR31)
 - [Ward](https://github.com/rawadmuhammed)
 - [GoodBoy](https://github.com/prasad-bigdp)
+- [Toni Thomas](https://github.com/DiyBookOfLife)
 - [Miging](https://github.com/Miging)
 - [Pallav Sharma](https://github.com/pallavsharma505/)
 - [SELVARAGAAVAN](https://github.com/selva-ragaavan)
