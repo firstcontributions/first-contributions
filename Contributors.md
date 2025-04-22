@@ -2272,3 +2272,4 @@ Matthew Burgos
 - [Bharath Kumar P](https://github.com/imBharathkumarp)
 - [Dinesh](https://github.com/Dinesh-0813)
 - [Guilherme](https://github.com/kylesonev)
+- [Hari](https://github.com/HXRIkumar)
