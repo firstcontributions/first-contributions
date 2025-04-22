@@ -197,6 +197,7 @@ Matthew Burgos
 - [kauanfuza](https://github.com/KauanFuza)
 - [HMMK](https://github.com/hmwemya10)
 - [Jayashree Manigandan](https://github.com/Jay9093)
+- [Steven Suarez](https://github.com/scruffypilot)
 - [Ravindra Reddy](https://github.com/Ravindra-reddy-18)
 - [Tosin Chukwu](https://github.com/tosinchukwu)
 - [Pablo Berzal](https://github.com/PabloJBG)
