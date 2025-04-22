@@ -45,6 +45,7 @@
 - [Daniyal Mohammed](https://github.com/dan2017558)
 - [Rohan Bhalerao](https://github.com/Rohanbhalerao875)
 - [Vannyou TANG 🇰🇭](https://github.com/TVYDev)
+- [zedi-nccu](https://github.com/zedi-nccu)
 - [shubham](https://github.com/sidharthkshubham)
 - [devmigmig](https://github.com/devmigmig) 
 - [praveen hari krishna](https://github.com/phk16)
