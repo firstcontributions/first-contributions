@@ -24,6 +24,7 @@
  -[Tarak Shabbir](https://github.com/tarak6984)
 - [MbeAlexPFS](https://github.com/MbeAlexPFS)
 - [Shiva Kumar Tirupathi](https://github.com/wings-aka-shiva)
+- [Abdul Hafeez](https://github.com/abdul-hafeez12)
 - [myhifi](https://github.com/myhifi)
 - [Eunice C Maduka](https://github.com/aimmiebug) 
 -[Pedroka2000](https://github.com/Pedroka2000)
