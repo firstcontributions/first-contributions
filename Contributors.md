@@ -10,6 +10,7 @@
 - [siddy09re](https://github.com/siddy09re)
 - [Ajit Sargar](https://github.com/sargar-ajit)
 -[Aadarsh mishra]
+-[Arjun Thazhath](https://github.com/arjunthazhath2001)
 -[Nithish699](https://github.com/Nithish699)
 [ajaykamera](https://github.com/kameraajay)
 - [Max Ma](https://github.com/maxu198668)
