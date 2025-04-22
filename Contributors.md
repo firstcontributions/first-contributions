@@ -18,6 +18,7 @@
 - [Ward](https://github.com/rawadmuhammed)
 - [GoodBoy](https://github.com/prasad-bigdp)
 - [Miging](https://github.com/Miging)
+- [Pallav Sharma](https://github.com/pallavsharma505/)
 - [SELVARAGAAVAN](https://github.com/selva-ragaavan)
 - [Martell0x1](https://github.com/Martell0x1)
 - [Dhrubaraj Pati](https://github.com/codewithdhruba01)
