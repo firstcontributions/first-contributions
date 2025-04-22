@@ -1255,6 +1255,7 @@ Matthew Burgos
 - [isaacbelles](https://github.com/isaacbelles)
 - [Shoaib Shuja](https://github.com/ShoaibShuja)
 - [brunoblaise](https://github.com/brunoblaise)
+- [Luan Lessa](https://github.com/LuanLessa)
 - [Riley Gould](https://github.com/thelifeofri1ey)
 - [OBLI B VIKRAM](https://github.com/Vikramobli)
 - [Nisha Verma](https://github.com/xnisha-verma)
