@@ -2257,3 +2257,4 @@ Matthew Burgos
 - [Thais Barbosa](https://github.com/bsthaiss)
 - [JadePoet](https://github.com/jedpoet)
 - [BaturhanKahraman] (https://github.com/BaturhanKahraman)
+- [Ver](https://github.com/hy-0003)
