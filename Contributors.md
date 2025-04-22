@@ -2249,3 +2249,4 @@ Matthew Burgos
 - [Pooh555](https://github.com/Pooh555)
 - [marjanRafi] - (https://github.com/marjanRafi)
 - [moaz310] - (https://github.com/moaz310)
+- [Thais Barbosa](https://github.com/bsthaiss)
