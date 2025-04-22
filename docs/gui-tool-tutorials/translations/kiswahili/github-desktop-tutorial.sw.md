@@ -58,8 +58,8 @@ Sasa, nenda kwenye sehemeu ya mafaili ya kazi yako, fungua faili la "Contributor
 
 Mfano: Ikiwa jina lako ni Hamisi Bakari, inapaswa kuonekana kama hivi:
 
-- [Hamisi Bakari](https://github.com/hamisibakari)
-Kilichopo kwenye mabano ya [] - Ni ajaina lako, na kilichopo kwenye mabano ya () - ni kiunganishi chako cha akaunti yako ya Github.
+- [Hamisi Bakari](https://github.com/hamisiibunbeka)
+Kilichopo kwenye mabano ya [ ] - Ni ajaina lako, na kilichopo kwenye mabano ya ( ) - ni kiunganishi chako cha akaunti yako ya Github.
 
 Unaweza kuona mabadiliko yaliyofanywa kwenye "Contributors.md" na tayari yameongezwa kwenye GitHub Desktop.
 
