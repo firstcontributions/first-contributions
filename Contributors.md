@@ -113,6 +113,7 @@ e-Jo
 - [Ahmet Karapınar](https://github.com/KarapinarAhmet)
 - [Gerrod Schirtzinger](https://github.com/GerrodSchirtzingerInsight)
 - [Barkn]
+- [Sidney](https://github.com/sidneykanoti)
 - [Pinky Gupta](https://github.com/PinkyGuptaa)
 - [Hossein Khalili](https://github.com/hos715)
 - [Md Shahriar Hossein](https://github.com/Shahriar-Hossein)
