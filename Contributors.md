@@ -2019,6 +2019,7 @@ Matthew Burgos
 - [Shruti Memane](https://github.com/shrutimemane)
 - [Patricia Kimmerle](https://github.com/PFKimmerle)
 - [Darshil Shah](https://github.com/nameisdarshil)
+- [Ankith Rai](https://github.com/ankith-rai)
 - [Joseph M V](https://github.com/joseph-mv)
 - [Aatrey Sahay](https://github.com/aatrey56)
 - [Advait K](https://github.com/akin2662)
