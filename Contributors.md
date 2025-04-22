@@ -9,6 +9,7 @@
 - [dreamaker69](https://github.com/dreamaker69)
 - [Letlhogonolo] (https://github.com/whoIsImai)
 - [AkashVardhan](https://github.com/akashinferno)
+ -[VincentChiang621](https://github.com/VincentChiang621)
 - [TopHat327](https://github.com/TopHat327)
 - [Jonathan Kila](https://github.com/Excelsior2021)
 - [siddy09re](https://github.com/siddy09re)
@@ -113,6 +114,7 @@ e-Jo
 - [Ahmet Karapınar](https://github.com/KarapinarAhmet)
 - [Gerrod Schirtzinger](https://github.com/GerrodSchirtzingerInsight)
 - [Barkn]
+- [Sidney](https://github.com/sidneykanoti)
 - [Pinky Gupta](https://github.com/PinkyGuptaa)
 - [Hossein Khalili](https://github.com/hos715)
 - [Md Shahriar Hossein](https://github.com/Shahriar-Hossein)
@@ -195,7 +197,6 @@ Matthew Burgos
 - [Tsakane Shiri](https://github.com/tsakane28)
 - [Emmanuel Ofoneta](https://github.com/Lordmaryo)
 - [Ramzan Khan](https://github.com/Ramzan-Khan-786)
-
 - [Mamta Vyas](https://github.com/your-mamta-vyas)
 - [Burhanuddin Bohra](https://github.com/burhan-72)
 - [Syed Ali](https://github.com/Pro-Algorythm)
@@ -1255,6 +1256,7 @@ Matthew Burgos
 - [isaacbelles](https://github.com/isaacbelles)
 - [Shoaib Shuja](https://github.com/ShoaibShuja)
 - [brunoblaise](https://github.com/brunoblaise)
+- [Luan Lessa](https://github.com/LuanLessa)
 - [Riley Gould](https://github.com/thelifeofri1ey)
 - [OBLI B VIKRAM](https://github.com/Vikramobli)
 - [Nisha Verma](https://github.com/xnisha-verma)
@@ -2273,3 +2275,4 @@ Matthew Burgos
 - [Dinesh](https://github.com/Dinesh-0813)
 - [Guilherme](https://github.com/kylesonev)
 - [Hari](https://github.com/HXRIkumar)
+- [Monokatarina](https://github.com/monokatarina)
