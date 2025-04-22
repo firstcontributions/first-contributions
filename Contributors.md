@@ -1993,6 +1993,7 @@ Matthew Burgos
 - [Talanti Arun](https://github.com/talantiarun)
 - [Rohan Upadhyay](https://github.com/RyanX5)
 - [Liam Horton](https://github.com/Liam-Horton)
+- [Camila Melo Machado](https://github.com/camilamachado)
 - [Kalmykov Nikita](https://github.com/nknk39)
 - [Tyler Wolfe](https://github.com/JustSomeGuyy)
 - [Aaron Li](https://github.com/aaronlee916)
