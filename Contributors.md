@@ -109,6 +109,7 @@ e-Jo
 - [SHAfoin](https://github.com/SHAfoin)
 - [Vamsi](https://github.com/Vamsibuddaraj)
 - [Ahmet Karapınar](https://github.com/KarapinarAhmet)
+- [Gerrod Schirtzinger](https://github.com/GerrodSchirtzingerInsight)
 - [Barkn]
 - [Pinky Gupta](https://github.com/PinkyGuptaa)
 - [Hossein Khalili](https://github.com/hos715)
