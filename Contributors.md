@@ -288,6 +288,7 @@ Matthew Burgos
 - [Stephen K](https://github.com/kotiang54)
 - [Caio Dias](https://github.com/devCaiodias)
 - [Calvin Cathey](...)
+- [Zedi](https://github.com/zedi-nccu)
 - [Bedelya] (https://github.com/Dazzlebutterfly)
 - [Vasudeva Cuddapah](https://github.com/NitishCuddapah)
 - [north-calm] (https://github.com/north-calm)
