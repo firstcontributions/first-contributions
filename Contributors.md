@@ -363,6 +363,7 @@ Matthew Burgos
 - [Kuanlin](https://github.com/kuanlin1227)
 - [Rojo Arano](https://github.com/aranorj)
 - [Anna Re]
+- [Olivier Faivre]
 - [hh]
 - [Sean Erfan](https://github.com/Shameed4)
 - [Tushar Shinde](https://github.com/Tushar-Shinde31)
