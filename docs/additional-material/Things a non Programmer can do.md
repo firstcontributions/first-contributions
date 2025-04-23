@@ -115,7 +115,7 @@ Perhaps the project could use a graphic overhaul, or a logo to identify the proj
 These may be skills lacking in the community. I know I'd love it if I could get some graphic design help on my projects' websites.
   
 15. **Write technical documentation**
-  If you can write about how an application or piece of software works, you could write technical documentation about it. Especially open source projects that are looking to update, revamp, expand, or create technical docs for the general public to read. The more you write in plain english, the better. The best part, you don't have to be a programmer to write technical docs.
+If you can write about how an application or piece of software works, you could write technical documentation about it. Especially open source projects that are looking to update, revamp, expand, or create technical docs for the general public to read. The more you write in plain english, the better. The best part, you don't have to be a programmer to write technical docs.
 
 Most of all, listen to what people around you discuss. See if you can recognize a pressing need. For instance, recently on the Parrot developers' mailing list, it was decided to use GitHub as the trouble ticket system, abandoning the old Trac installation they had. Some people were against the move because there was no way to convert the tickets to GitHub's system. After a day of back and forth arguing, I piped up and said "How about if I write a converter?" People were thrilled at the idea. I spent the time to write a conversion program for the 450+ tickets, so we lost none of our ticket history. It was a great success.  I got to pitch in, and the core developers stayed focused on the business of working on Parrot.
 
