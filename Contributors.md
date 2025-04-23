@@ -1,5 +1,4 @@
  # Contributors
- -[Hamisi Bakari](https://github.com/hamisiibunbeka)
  -[George Tannous](https://github.com/GeorgeTannous98) 
  -[Deepak Sharma](https://github.com/DeepakSharma46)
  -[Anne-Okingo](https://github.com/Anne-Okingo)
@@ -18,6 +17,7 @@
 - [Ajit Sargar](https://github.com/sargar-ajit)
 -[Aadarsh mishra]
 -[Arjun Thazhath](https://github.com/arjunthazhath2001)
+ -[Hamisi Bakari](https://github.com/hamisiibunbeka)
 -[Nithish699](https://github.com/Nithish699)
 [ajaykamera](https://github.com/kameraajay)
 - [Max Ma](https://github.com/maxu198668)
