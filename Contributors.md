@@ -1141,6 +1141,7 @@ Matthew Burgos
 - [Rahul Keswani](https://github.com/rahulkeswani010)
 - [GCabane](https://github.com/GCabane)
 - [mateus barauna](https://github.com/mateusbarauna97)
+- [Daniel Barbosa Martins](https://github.com/dmatrixxBR)
 - [gatura](https://github.com/gatura-source)
 - [Maruthi S](https://github.com/JSMaruthi)
 - [KristinnTh](https://github.com/KristinnTh)
