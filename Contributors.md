@@ -2298,3 +2298,4 @@ Matthew Burgos
 - [Oleksii Shamrai](https://github.com/alexshamrai)
 - Damilare ( https://github.com/damilareoo )
 - [Konstantin Lollert](https://github.com/KonstantinM87)
+- [Bekezela Pangenyama](https://github.com/bekezela)
