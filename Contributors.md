@@ -1,4 +1,5 @@
  # Contributors
+  -[Ronan Cuaresma](https://github.com/MuushyRoom)
  -[Hamisi Bakari](https://github.com/hamisiibunbeka)
  -[Atsu-Taiyo] (https://github.com/Atsu-Taiyo)
  -[George Tannous](https://github.com/GeorgeTannous98) 
