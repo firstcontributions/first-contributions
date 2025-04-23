@@ -47,6 +47,7 @@
 - [Mr Zuber](https://github.com/mrzuber)
 - [Hariprasad] (https://github.com/gshari89)
 - [Revanth Kumar](https://github.com/revanth98-bit)
+- [Rutika Khaire](https://github.com/rutika-khaire)
 - [Jason Liu](https://github.com/jsl1114)
 - [Jayant Kumar](https://github.com/zapwiz22)
 - [Muhammad Anas](https://github.com/AnasJadoon31)
