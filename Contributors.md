@@ -2275,6 +2275,7 @@ Matthew Burgos
 - [moaz310] - (https://github.com/moaz310)
 - [Thais Barbosa](https://github.com/bsthaiss)
 - [JadePoet](https://github.com/jedpoet)
+- [Barry](https://github.com/Barry-2020)
 - [BaturhanKahraman] (https://github.com/BaturhanKahraman)
 - [Ver](https://github.com/hy-0003)
 - [Bharath Kumar P](https://github.com/imBharathkumarp)
