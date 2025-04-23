@@ -2237,5 +2237,4 @@ Matthew Burgos
 - [evgenymoore] - (https://github.com/evgenymoore)
 - [Pooh555](https://github.com/Pooh555)
 - [marjanRafi] - (https://github.com/marjanRafi)
-- [XYZ] - (https://github.com/XYZ)
-
+- [XYZ](https://github.com/XYZ)
