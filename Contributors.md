@@ -1778,6 +1778,7 @@ Matthew Burgos
 - [Brad Meyer](https://github.com/Wbradmeyer)
 - [Siddhesh Gawade](https://github.com/sid293)👋
 - [Huzaifa Azim](https://github.com/huzaifaazim0)
+- [Sndsh](https://github.com/git07Sandesh)
 - [Joanna McDonald](https://github.com/joannamcd)
 - [AkinduID](https://github.com/AkinduID)
 - [Tianna Lopes](https://github.com/TiannaLopes)
