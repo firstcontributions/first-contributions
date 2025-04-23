@@ -2293,3 +2293,4 @@ Matthew Burgos
 - [Kazuyuki Kita](https://github.com/chisuke0309)
 - [Flxzz](https://github.com/Flxzz)
 - [Oleksii Shamrai](https://github.com/alexshamrai)
+- Damilare ( https://github.com/damilareoo )
