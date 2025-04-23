@@ -916,6 +916,7 @@ Matthew Burgos
 - [Matt Bellardi](https://github.com/met97)
 - [Arvind Singireddy](https://github.com/Sunny-webdev)
 - [Thomas Sales](https://github.com/ThomasGSales)
+-[SydWald] (https://github.com/sydwald)
 - [Inifome Eleluwor](https://github.com/Inifomeeo)
 - [Punnapareddy Bhaskar Rao](https://github.com/P-Bhaskar-Rao)
 - [gregbetron] (https://github.com/gregbetron)
