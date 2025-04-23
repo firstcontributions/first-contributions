@@ -1,9 +1,7 @@
  # Contributors
- -[Hamisi Bakari](https://github.com/hamisiibunbeka)
  -[George Tannous](https://github.com/GeorgeTannous98) 
  -[Deepak Sharma](https://github.com/DeepakSharma46)
  -[Anne-Okingo](https://github.com/Anne-Okingo)
-- [Resu19680](https://github.com/Resu19680)
  -[VincentChiang621](https://github.com/VincentChiang621)
  -[Diyacoder-123](https://github.com/Diyacoder-123)
  -[venkatesh doddi](https://github.com/venkey799)
@@ -18,11 +16,13 @@
 - [Ajit Sargar](https://github.com/sargar-ajit)
 -[Aadarsh mishra]
 -[Arjun Thazhath](https://github.com/arjunthazhath2001)
+ -[Hamisi Bakari](https://github.com/hamisiibunbeka)
 -[Nithish699](https://github.com/Nithish699)
 [ajaykamera](https://github.com/kameraajay)
 - [Max Ma](https://github.com/maxu198668)
 - [spacegodx](https://github.com/spacegodx)
 - [Nishu](https://github.com/nishuR31)
+- [Resu19680](https://github.com/Resu19680)
 - [Ward](https://github.com/rawadmuhammed)
 - [GoodBoy](https://github.com/prasad-bigdp)
 - [Toni Thomas](https://github.com/DiyBookOfLife)
