@@ -87,6 +87,7 @@ e-Jo
 - [Baljit Panda](https://www.gihub.com/baljit-webcoder)
 - [Carl Vlok](https://github.com/CarlVlok)
 - [Dwip Biswas](https://github.com/DWIP-BISWAS)
+- [Alex De Souza](https://github.com/alxss01)
 - [Naveen M.](https://github.com/naveenm4d)
 - [Thomas Moody](https://github.com/tjmoody)
 - [Matheus Cavalcanti](https://github.com/matheusscavalcanti)
