@@ -446,6 +446,7 @@ Matthew Burgos
 - [Daniel Jamison](https://github.com/djamison2903)
 - [Ram Charan](https://github.com/ramCharan2405)
 - [Darshil Shah](https://github.com/nameisdarshil)
+- [Fatih Portakal](https://github.com/GoStKoRx)
 - [Rushikesh](https://github.com/RushikeshGanachari)
 - [Lovnish Verma](https://github.com/lovnishverma)
 - [Abubakkar Khan](https://github.com/Abubakkar-Khan)
