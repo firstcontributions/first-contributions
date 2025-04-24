@@ -624,6 +624,7 @@ Matthew Burgos
 - [Ameer Radhi]
 - [LiuSam](https://www.youtube.com/CommitKU)
 - leee
+- [Fatih Portakal](https://github.com/GoStKoRx)
 - [Buzz] Grok
 - Maria Saram (https://github.com/sara01-m)
 - [Sanjay D] (https://github.com/sdwarka)
