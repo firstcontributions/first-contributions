@@ -156,6 +156,7 @@ e-Jo
 - [Mohsin Ahmad](https://github.com/mohsinahmad1979)
 - [Chirag Sathish](https://github.com/chiru0631)
 - [Apeksha Jamjar](https://github.com/Apekshaj04)
+- [Pratiksha Jamjar](https://github.com/pratikshajamjar)
 - [Deepesh Haldankar](https://github.com/09deepesh)
 Matthew Burgos
 - [Lars Magelssen](https://github.com/l4rma)
