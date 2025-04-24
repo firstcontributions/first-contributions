@@ -26,6 +26,7 @@
 - [Ajit Sargar](https://github.com/sargar-ajit)
 -[Aadarsh mishra]
 -[Arjun Thazhath](https://github.com/arjunthazhath2001)
+-[Jas Verma](https://github.com/jasverma-hub)
 -[Sharmake Ibrahim](https://github.com/sharmake-ibrahim)
 -[Seba Acosta](https://github.com/sebaacosta25)
 -[Nithish699](https://github.com/Nithish699)
