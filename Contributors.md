@@ -12,6 +12,7 @@
  -[Deepak Sharma](https://github.com/DeepakSharma46)
  -[Anne-Okingo](https://github.com/Anne-Okingo)
 - [Resu19680](https://github.com/Resu19680)
+- [Manju Vasanth](https://github.com/ManjuVasanth)
  -[VincentChiang621](https://github.com/VincentChiang621)
  -[Diyacoder-123](https://github.com/Diyacoder-123)
  -[Paulina Udeh](https://github.com/paulina351)
