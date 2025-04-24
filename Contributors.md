@@ -1266,6 +1266,7 @@ Matthew Burgos
 - [KingKongNi](https://github.com/KingKongNi) 
 - [Juan Sarmiento](https://github.com/JuanEnriqueSF)
 - [Fady Zaky](https://github.com/0ddAuto00)
+- [VortexEdge](https://github.com/VortexEdge69)
 - [Arnav](https://github.com/arnav-mi)
 - [bereamk](https://github.com/bereamk)
 - [rishabh1024](https://github.com/rishabh1024/)
