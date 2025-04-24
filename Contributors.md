@@ -1,6 +1,7 @@
  # Contributors
  -[Naiara Gabriela](https://github.com/naiaragabriela)
-  -[Ronan Cuaresma](https://github.com/MuushyRoom)
+ -[Aman Sirohi](https://github.com/ErAgOn-AmAnSiRoHi)
+ -[Ronan Cuaresma](https://github.com/MuushyRoom)
  -[Hamisi Bakari](https://github.com/hamisiibunbeka)
  -[Aditya Pawar](https://github.com/AdityaByte)
  -[Omprakash Kadur](https://github.com/OmprakashKadur)
