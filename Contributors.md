@@ -183,6 +183,7 @@ Matthew Burgos
 - [Kelseyyxm] (http://github.com/kelseyyxm)
 - [Tarak] (https://github.com/tarak6984)
 - [Vishal] (https://github.com/ghostdeveloper404)
+- [Rohan Udith] (https://github.com/Duck6407)
 - [Abdullah Raheel] (https://github.com/Elusive7733)
 - [Ruben Manriquez](https://github.com/Eoloth)
 - [Boniaszewski](https://github.com/wbonicki)
