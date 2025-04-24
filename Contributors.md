@@ -3,6 +3,7 @@
   -[Ronan Cuaresma](https://github.com/MuushyRoom)
  -[Hamisi Bakari](https://github.com/hamisiibunbeka)
  -[Atsu-Taiyo] (https://github.com/Atsu-Taiyo)
+ -[daitougoose](why not see me )
  -[George Tannous](https://github.com/GeorgeTannous98) 
  -[Deepak Sharma](https://github.com/DeepakSharma46)
  -[Anne-Okingo](https://github.com/Anne-Okingo)
