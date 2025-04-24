@@ -12,7 +12,7 @@
 - [Resu19680](https://github.com/Resu19680)
  -[VincentChiang621](https://github.com/VincentChiang621)
  -[Diyacoder-123](https://github.com/Diyacoder-123)
- -[Paulina Udeh](https://github.com)/paulina351)
+ -[Paulina Udeh](https://github.com/paulina351)
  - [Sandeep Narahari](https://github.com/Sandeep-Narahari)
  -[venkatesh doddi](https://github.com/venkey799)
  -[Vasanth Muthoju](https://github.com/vasanthmuthoju)
@@ -2325,3 +2325,4 @@ Matthew Burgos
 - [Talha Peracha](https://github.com/itstalhaperacha)
 - [dingyong11](https://github.com/dingyong11)
 - [khalid14414](https://github.com/khalid14414)
+- [Akhil Ramola](https://github.com/akhilramola)
