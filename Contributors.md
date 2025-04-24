@@ -2324,6 +2324,3 @@ Matthew Burgos
 - [Somesh Verma](https://github.com/D666evil)
 - [Talha Peracha](https://github.com/itstalhaperacha)
 - [dingyong11](https://github.com/dingyong11)
-< a   h r e f = \  
- h t t p s : / / g i t h u b . c o m / n i i k w a d e > M i c h a e l   N a i - K w a d e < / a >  
- 
