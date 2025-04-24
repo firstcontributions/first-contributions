@@ -1152,6 +1152,7 @@ Matthew Burgos
 - [Desi Petkova Lee](https://github.com/DesiPetkovaLee)
 - [Rahul Keswani](https://github.com/rahulkeswani010)
 - [GCabane](https://github.com/GCabane)
+- [MC_CLINT](https://github.com/MC-CLINT)
 - [mateus barauna](https://github.com/mateusbarauna97)
 - [Daniel Barbosa Martins](https://github.com/dmatrixxBR)
 - [gatura](https://github.com/gatura-source)
