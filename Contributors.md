@@ -150,6 +150,7 @@ e-Jo
 - [Ahmet Karapınar](https://github.com/KarapinarAhmet)
 - [Gerrod Schirtzinger](https://github.com/GerrodSchirtzingerInsight)
 - [Barkn]
+- [Eliozzo]
 - [Sidney](https://github.com/sidneykanoti)
 - [Pinky Gupta](https://github.com/PinkyGuptaa)
 - [Hossein Khalili](https://github.com/hos715)
