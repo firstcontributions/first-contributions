@@ -2332,3 +2332,4 @@ Matthew Burgos
 - [Akhil Ramola](https://github.com/akhilramola)
 - [Awan Raskall](https://github.com/AwanRaskall)
 - [Mahmoud Essam](https://github.com/mahmoudessam16)
+- [Lucas Bandeira](https://github.com/lucass2772)
