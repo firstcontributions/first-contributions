@@ -81,6 +81,7 @@
 e-Jo
 - [mmhd]
 - [Francis Rey](https://github.com/frb21)
+- [Bandit](https://github.com/ctrlbandit)
 - [Srivatsav V](https://github.com/srivatsav09)
 - [Pathan Ismailkhan] (https://github.com/Smile-Khan)
 - [Raj Gajjar](https://github.com/RajGajjar-01)
