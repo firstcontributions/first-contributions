@@ -2345,3 +2345,4 @@ Matthew Burgos
 - [Andy Le](https://github.com/ale0k) 
 - [Lumirelle](https://github.com/Lumirelle)
 - [Anas Badru Salam](https://github.com/anasbadrusalam)
+- [Kurt-DS](https://github.com/kurt-ds)
