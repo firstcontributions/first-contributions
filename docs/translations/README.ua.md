@@ -84,7 +84,7 @@ git commit -m "Add <your-name> to Contributors list"
 Відправте зміни на віддалений репозиторій в GitHub за допомогою команди `git push`:
 
 ```bash
-git push -г origin <your-branch-name>
+git push origin <your-branch-name>
 ```
 
 Замініть `<your-branch-name>` назвою гілки, яку ви створили раніше.
