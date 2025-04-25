@@ -80,6 +80,7 @@
 - [devmigmig](https://github.com/devmigmig) 
 - [praveen hari krishna](https://github.com/phk16)
 e-Jo
+- Eric Manuel Rosales
 - [mmhd]
 - [Francis Rey](https://github.com/frb21)
 - [Srivatsav V](https://github.com/srivatsav09)
