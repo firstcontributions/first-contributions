@@ -12,6 +12,7 @@
  -[Atsu-Taiyo] (https://github.com/Atsu-Taiyo)
  -[sjgithubber](https://github.com/sjgithubber)
  -[daitougoose](why not see me )
+Anshi
  -[George Tannous](https://github.com/GeorgeTannous98) 
  -[Deepak Sharma](https://github.com/DeepakSharma46)
  -[Anne-Okingo](https://github.com/Anne-Okingo)
@@ -2350,6 +2351,7 @@ Matthew Burgos
 - [Akhil Ramola](https://github.com/akhilramola)
 - [Awan Raskall](https://github.com/AwanRaskall)
 - [Mahmoud Essam](https://github.com/mahmoudessam16)
+- [Lucas Bandeira](https://github.com/lucass2772)
 - [Asem Abdallah](https://github.com/3sem3bdallah)
 - [Kaustubh Daruri](https://github.com/Kaustubh152003)
 - [José Luis](https://github.com/joseluismaxp) 
@@ -2362,4 +2364,6 @@ Matthew Burgos
 - [Anton Pretorius](https://github.com/Ajax401)
 - [Richard Ogundele](https://github.com/richardogundele)
 - [Sandeep Rajput](https://github.com/codesofsandeep)
+- [Todd ATM](https://github.com/Todd-ATM)
 - [Sashka Yekimov](https://github.com/Sashka-UA-1)
+
