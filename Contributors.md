@@ -2358,3 +2358,4 @@ Matthew Burgos
 - [WaterWhisperer](https://github.com/WaterWhisperer)
 - [Prampina](https://github.com/Prampina)
 - [Anton Pretorius](https://github.com/Ajax401)
+- [Richard Ogundele](https://github.com/richardogundele)
