@@ -2340,3 +2340,4 @@ Matthew Burgos
 - [José Luis](https://github.com/joseluismaxp) 
 - [Andy Le](https://github.com/ale0k) 
 - [Lumirelle](https://github.com/Lumirelle)
+- [Anas Badru Salam](https://github.com/anasbadrusalam)
