@@ -2353,3 +2353,4 @@ Matthew Burgos
 - [Kurt-DS](https://github.com/kurt-ds)
 - [WaterWhisperer](https://github.com/WaterWhisperer)
 - [Prampina](https://github.com/Prampina)
+- [Anton Pretorius](https://github.com/Ajax401)
