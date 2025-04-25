@@ -97,6 +97,7 @@ e-Jo
 - [Thomas Moody](https://github.com/tjmoody)
 - [Matheus Cavalcanti](https://github.com/matheusscavalcanti)
 - [Samuel Rahul J](https://github.com/SamuelJ70)
+- [Ayush Chintalwar](https://github.com/4yu5h-crtl)
 - [Bakhodir Ulugov](https://github.com/bulugov)
 - [Sayed Sahil Ahmed] (https://github.com/SSAHMED007)
 - [Matthew Morgan] (https://github.com/PowerUpHero3)
