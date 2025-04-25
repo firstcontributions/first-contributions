@@ -1,6 +1,4 @@
-[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
+
 
 #### _Read this in [other languages](docs/translations/Translations.md)._
 
@@ -88,28 +86,34 @@
 <kbd>[<img title="ភាសាខ្មែរ" alt="ភាសាខ្មែរ" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/kh.svg" width="22">](docs/translations/README.kh.md)</kbd>
 <kbd>[<img title="Morocco" alt="Moroccan Darija" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ma.svg" width="22">](docs/translations/README.ma.md)</kbd>
 
+[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
+
 # First Contributions
 
-This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
+**👋 Welcome!**  
+This project is here to help **first-time contributors** make their very first open-source contribution. Follow the steps below and you’ll learn by doing — no experience necessary!
 
-_If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
+> Prefer a GUI instead of the command line? [Try one of these tutorials.](#tutorials-using-other-tools)
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+---
 
-#### If you don't have git on your machine, [install it](https://docs.github.com/en/get-started/quickstart/set-up-git).
+### 🌍 Available in Other Languages
 
-## Fork this repository
+Want to read this guide in your language? Click below to choose:
 
-Fork this repository by clicking on the fork button on the top of this page.
-This will create a copy of this repository in your account.
+[![Translations](https://firstcontributions.github.io/assets/Readme/translation-banner.png)](docs/translations/Translations.md)
 
-## Clone the repository
+---
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+### 🛠 Quickstart Instructions
 
-Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button, then on SSH tab and then click the _copy to clipboard_ icon.
+#### 1. Fork This Repository
+Click the **"Fork"** button at the top of this page. This creates a copy under your GitHub account.
 
-Open a terminal and run the following git command:
+#### 2. Clone to Your Computer
+Open your terminal (or PowerShell on Windows), and run:
 
 ```bash
 git clone "url you just copied"
