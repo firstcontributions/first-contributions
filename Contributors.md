@@ -1169,6 +1169,7 @@ Matthew Burgos
 - [Daniel Barbosa Martins](https://github.com/dmatrixxBR)
 - [gatura](https://github.com/gatura-source)
 - [Maruthi S](https://github.com/JSMaruthi)
+- [capex digital](https://github.com/capexdigital)
 - [KristinnTh](https://github.com/KristinnTh)
 - [veekshitha](https://github.com/Veekshitha21)
 - [Arun Kumar](https://github.com/Arun471)
