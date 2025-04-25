@@ -2349,3 +2349,4 @@ Matthew Burgos
 - [Lumirelle](https://github.com/Lumirelle)
 - [Anas Badru Salam](https://github.com/anasbadrusalam)
 - [Kurt-DS](https://github.com/kurt-ds)
+- [WaterWhisperer](https://github.com/WaterWhisperer)
