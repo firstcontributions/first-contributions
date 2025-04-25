@@ -4,6 +4,7 @@
  -[Naiara Gabriela](https://github.com/naiaragabriela)
  -[Vikram Naidu](https://github.com/Vikramnaidu16)
  -[Aman Sirohi](https://github.com/ErAgOn-AmAnSiRoHi)
+ -[Isaiah Richards](https://github.com/iprichards)
  -[Ronan Cuaresma](https://github.com/MuushyRoom)
  -[Hamisi Bakari](https://github.com/hamisiibunbeka)
  -[Aditya Pawar](https://github.com/AdityaByte)
