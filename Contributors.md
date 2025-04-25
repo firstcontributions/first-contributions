@@ -1,6 +1,8 @@
  # Contributors
  -[Naiara Gabriela](https://github.com/naiaragabriela)
+ -[](https://github.com/naiaragabriela)
  -[Vikram Naidu](https://github.com/Vikramnaidu16)
+ -[Amir Dorri](https://github.com/amirdorri)
  -[Aman Sirohi](https://github.com/ErAgOn-AmAnSiRoHi)
  -[Ronan Cuaresma](https://github.com/MuushyRoom)
  -[Hamisi Bakari](https://github.com/hamisiibunbeka)
