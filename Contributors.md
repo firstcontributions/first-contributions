@@ -2135,6 +2135,7 @@ Matthew Burgos
 - [giorgioyu125](https://github.com/giorgioyu125/first-contributions)
 - [wishgr zhao](https://github.com/wishgr)
 - [hemanth3139](https://github.com/hemanth3139)
+- [J Hand](https://github.com/jamiehand)
 - [jhsim](https://github.com/tnfhrnsss)
 - [Nyirigira Philippe](https://github.com/nyirigira)
 - [Dominic N](https://github.com/dnussgr/first-contributions)
