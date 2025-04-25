@@ -893,6 +893,7 @@ Matthew Burgos
 - [gabecodessometimes](https://github.com/gabecodessometimes)
 - [jasurgraduate](https://github.com/jasurgraduate)
 - [Dipankaj](https://github.com/DipankajSingh/)
+- [Pardhu Mattupalli](https://github.com/Parlynx1)
 - [shubham goyal](https://github.com/shubgoyal23)
 - [Sankalp Yerigeri](https://github.com/SankalpYerigeri)
 - [Peleg Ben Barak](https://github.com/peleg-bb)
