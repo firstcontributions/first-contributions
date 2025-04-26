@@ -1046,6 +1046,7 @@ Matthew Burgos
 - [AdityaRaj212](https://github.com/AdityaRaj212)
 - [kbrooks81] (https://github.com/kbrooks81)
 - [AvAdiii](https://github.com/AvAdiii)
+- [Nicolas Schirosi](https://github.com/Nicolas04u)
 - [Madhav Singh](https://github.com/maddy710)
 - [David Okosa](https://github.com/dfw7th)
   [Theo-do](https://github.com/Theo-do)
