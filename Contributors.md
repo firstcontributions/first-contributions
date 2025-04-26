@@ -1568,6 +1568,7 @@ Matthew Burgos
 - [Evgeny Kozelskiy](https://github.com/Der12kl)
 - [Elina Zoldnere](https://github.com/ElinaZoldnere)
 - [Benjamin Tsoumagas](https://github.com/tsoumagas-benjamin)
+- [Godswill Udida](https://github.com/GodswillUdida)
 - [Ricardo Guimaraes](https://github.com/Ricardoguima)
 - [Helen Tsui](https://github.com/helentht)
 - [Matheus Bortolo](https://github.com/Matheusbortolo)
