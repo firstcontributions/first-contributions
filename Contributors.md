@@ -1,5 +1,6 @@
  # Contributors
  - [AwooPH](https://github.com/AwooPH)
+ - [Afzal Diwan](https://github.com/Afzal-husen)
  - [YoohPH](https://github.com/YoohPH)
  -[Naiara Gabriela](https://github.com/naiaragabriela)
  -[Vikram Naidu](https://github.com/Vikramnaidu16)
