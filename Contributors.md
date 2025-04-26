@@ -544,6 +544,7 @@ Matthew Burgos
 - [apple]
 - [Vijay Vishwakarma](https://github.com/GoldenFish23)
 - [SamTheTechi](https://github.com/SamTheTechi/)
+- [Shannon Rose Hill](https://github.com/ShannonRoseHill)
 - [Kam](https://github.com/Kam0797)
 - [soundousbenziadi](https://github.com/soundousbenziadi)
 - [StevenHall](https://github.com/PedanticSteve)
