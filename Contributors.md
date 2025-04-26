@@ -1906,6 +1906,7 @@ Matthew Burgos
 - [Caren Mwaka](https://github.com/Caren-Mwaka)
 - [Milind Dhamu](https://github.com/milinddhamu)
 - [jorge zabbara](https://github.com/jorgezabbaram)
+- [Hirotaka Baba](https://github.com/Babarin0512)
 - [Tony B. Nya](https://github.com/tonybnya)
 - [Julian Taub](https://github.com/JulianTaub)
 - [Ben Hickton] (https://github.com/bhick33)
