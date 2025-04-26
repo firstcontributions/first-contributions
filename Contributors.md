@@ -2217,6 +2217,7 @@ Matthew Burgos
 - [Hossein Khalilian](https://github.com/hossein-khalilian)
 - [Dylan Brandstetter](https://github.com/dylanbrandstetter)
 - [Nouran Sabry](https://github.com/NouSabr)
+- Pari Chauhan
 -Charles Sigxakuma 
 -hemeshhere
 -Rachel_qi
