@@ -8,6 +8,7 @@
  -[Aman Sirohi](https://github.com/ErAgOn-AmAnSiRoHi)
  -[Isaiah Richards](https://github.com/iprichards)
  -[Ronan Cuaresma](https://github.com/MuushyRoom)
+ -[Michelle Burton] (https://github.com/michelle-burton)
  - [SFatimah56](https://github.com/SFatimah56)
  -[Hamisi Bakari](https://github.com/hamisiibunbeka)
  -[Aditya Pawar](https://github.com/AdityaByte)
