@@ -4,6 +4,7 @@
  - [Afzal Diwan](https://github.com/Afzal-husen)
  - [YoohPH](https://github.com/YoohPH)
  - [Raghav](https://github.com/raghav-si)
+ -[Uday Dhir](https://github.com/Udaylol)
  -[Naiara Gabriela](https://github.com/naiaragabriela)
  -[Vikram Naidu](https://github.com/Vikramnaidu16)
  -[Aman Sirohi](https://github.com/ErAgOn-AmAnSiRoHi)
