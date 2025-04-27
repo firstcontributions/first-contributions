@@ -490,6 +490,7 @@ Matthew Burgos
 - [Maxi Candia](https://github.com/MaxiCandiaJara)
 - [Abhishek Maurya](https://github.com/abhishek-maurya576)
 - [Roman Sokolov](https://github.com/rmhodus)
+- [gitcerts](https://github.com/gitcerts)
 - [Daniel Jamison](https://github.com/djamison2903)
 - [Ram Charan](https://github.com/ramCharan2405)
 - [Darshil Shah](https://github.com/nameisdarshil)
