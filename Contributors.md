@@ -120,6 +120,7 @@ e-Jo
 - [Alex De Souza](https://github.com/alxss01)
 - [Naveen M.](https://github.com/naveenm4d)
 - [Thomas Moody](https://github.com/tjmoody)
+- [Jacob Nickerson](https://github.com/jacobnickerson)
 - [Akshitha Ramesh](https://github.com/akshitha2903)
 - [Matheus Cavalcanti](https://github.com/matheusscavalcanti)
 - [Samuel Rahul J](https://github.com/SamuelJ70)
