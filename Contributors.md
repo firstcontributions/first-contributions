@@ -2412,6 +2412,7 @@ Matthew Burgos
 - [Mert Temiz](https://github.com/merttemiz)
 - [Michael Gan](https://github.com/WenxiGan)
 - [Yingying Ye](https://github.com/yiiingye)
+- [Eray Öztürk](https://github.com/diffstorm)
 - [JonnyJalapeno](https://github.com/JonnyJalapeno)
 - [Kgeek33](https://github.com/Kgeek33)
 - [Veerawat](https://github.com/Veerawat)
