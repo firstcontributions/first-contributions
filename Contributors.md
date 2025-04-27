@@ -42,6 +42,7 @@ Anshi
  - [AkashVardhan](https://github.com/akashinferno)
 - [TopHat327](https://github.com/TopHat327)
 - [Jonathan Kila](https://github.com/Excelsior2021)
+- [Joruji Tsuchiya](https://github.com/joruji-tsuchiya)
 - [siddy09re](https://github.com/siddy09re)
 - [Lovalakshmi](https://github.com/lovalakshmi080223)
 - [Ajit Sargar](https://github.com/sargar-ajit)
