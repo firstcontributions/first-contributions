@@ -2419,3 +2419,4 @@ Matthew Burgos
 - [LysandraEris](https://github.com/LysandraEris)
 - [Muhammad Haseeb](https://github.com/haseeb2412)
 - [Pavan Gajjala](https://github.com/pavangajjala)
+- [Hazem Waleed](https://github.com/hazem-walied)
