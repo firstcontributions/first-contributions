@@ -377,6 +377,7 @@ Matthew Burgos
 -[MAANASA-KOTTE] (htts://gthub.com/MAANASA-KOTTE)
 - [Sindhu R] (https://github.com/17sindhu)
 - [Aditi Verma](https://github.com/aditi02verma)
+- [Viktor de Pomian](https://github.com/viktordepomian)
 - [Ansh Pachauri](https://github.com/ansh-pachauri/)
 - [Adrian Rosales](https://github.com/adrianhrosales365)
 - [Thrisha Kopula](https://github.com/ThrishaKopula)
