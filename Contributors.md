@@ -2422,6 +2422,7 @@ Matthew Burgos
 - [Amelia Young](https://github.com/ameliacode)
 - [LysandraEris](https://github.com/LysandraEris)
 - [Muhammad Haseeb](https://github.com/haseeb2412)
+- [Firdevs Akbayır](https://github.com/lyushher)
 - [Pavan Gajjala](https://github.com/pavangajjala)
 - [Hazem Waleed](https://github.com/hazem-walied)
 -[Shubhachand Patel](https://github.com/shubhachand)
