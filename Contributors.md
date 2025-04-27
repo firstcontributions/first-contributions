@@ -98,6 +98,7 @@ Anshi
 - [Vannyou TANG 🇰🇭](https://github.com/TVYDev)
 - [shubham](https://github.com/sidharthkshubham)
 - [devmigmig](https://github.com/devmigmig) 
+- [Billy Whizz](https://github.com/leithdm)
 - [praveen hari krishna](https://github.com/phk16)
 e-Jo
 - Eric Manuel Rosales
