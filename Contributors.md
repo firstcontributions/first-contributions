@@ -2408,4 +2408,5 @@ Matthew Burgos
 - [Yingying Ye](https://github.com/yiiingye)
 - [JonnyJalapeno](https://github.com/JonnyJalapeno)
 - [Kgeek33](https://github.com/Kgeek33)
-- [Veerawat] (https://github.com/Veerawat)
+- [Veerawat](https://github.com/Veerawat)
+- [Amelia Young](https://github.com/ameliacode)
