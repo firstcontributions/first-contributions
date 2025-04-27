@@ -230,6 +230,7 @@ Matthew Burgos
 - [Evan William](https://github.com/Wowieee4)
 - [Mateo](https://github.com/mateopozor02)
 - [caliarch](https://github.com/caliarch)
+- [Leo van der Ploeg](https://github.com/User32sys)
 - [Sandeep](https://github.com/sandeepxi)
 - [Arnav Agarwal](https://github.com/arnav-343-agarwal)
 [Patrick Yeboah Bonsu](https://github.com/Patrick-Bonsu)
