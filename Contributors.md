@@ -2378,6 +2378,7 @@ Matthew Burgos
 - [Dinesh](https://github.com/Dinesh-0813)
 - [Guilherme](https://github.com/kylesonev)
 - [Hari](https://github.com/HXRIkumar)
+- [Johannes Sæthre](https://github.com/Johannes-Sathre)
 - [Monokatarina](https://github.com/monokatarina)
 - [Kazuyuki Kita](https://github.com/chisuke0309)
 - [Flxzz](https://github.com/Flxzz)
