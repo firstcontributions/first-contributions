@@ -2365,5 +2365,5 @@ Matthew Burgos
 - [Richard Ogundele](https://github.com/richardogundele)
 - [Sandeep Rajput](https://github.com/codesofsandeep)
 - [Todd ATM](https://github.com/Todd-ATM)
-- [Sashka Yekimov](https://github.com/Sashka-UA-1)
+- [Olexsand Yekimov (Sashka_UK_1)](https://github.com/Sashka-UA-1)
 
