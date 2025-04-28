@@ -1142,6 +1142,7 @@ Matthew Burgos
 - [Tournoy Noa](https://github.com/)
 - [Plamen Hadzhiev](https://github.com/plmn95)
 - [Chandan Achary](https://github.com/Adventurist2)
+- [LaraAcuna](https://github.com/LaraAcuna)
 - [Oleksandr Tubolets] (https://github.com/alextuby)
 - [Christian Mayamba](https://github.com/chris-mayamba)
 - [Fahad Haque](https://github.com/Daahaf)
