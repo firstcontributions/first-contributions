@@ -1086,6 +1086,7 @@ Matthew Burgos
 - [David Okosa](https://github.com/dfw7th)
   [Theo-do](https://github.com/Theo-do)
 - [FloraPetit](https://github.com/PetitFlora)
+- [Livia Neto](https://github.com/LiviaNeto)
 - [anthocote19](https://github.com/anthocote19)
 - [souravsumit07](https://github.com/souravsumit07)
 - [Arsalan Mohseni](https://github.com/arsalanmohseni)
