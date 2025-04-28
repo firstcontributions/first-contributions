@@ -112,6 +112,7 @@ Anshi
 e-Jo
 - Eric Manuel Rosales
 - [mmhd]
+- [m1tani](https://github.com/m1tani)
 - [Francis Rey](https://github.com/frb21)
 - [Srivatsav V](https://github.com/srivatsav09)
 - [Pathan Ismailkhan] (https://github.com/Smile-Khan)
