@@ -997,6 +997,7 @@ Matthew Burgos
 - [BrennerBK](https://github.com/BrennerBK)
 - [Harrison Noe](https://github.com/harr-3d)
 - [Adam Kokhnover](https://github.com/Adamko17)
+- [JCoder](https://github.com/jcoder-12)
 - [Sonum Jaggi](http://github.com/sonum02)
 - [Matt Bellardi](https://github.com/met97)
 - [Arvind Singireddy](https://github.com/Sunny-webdev)
