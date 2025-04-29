@@ -31,7 +31,7 @@ Anshi
 - [Balaji Jayakumar](https://github.com/Balaji93bobby)
  -[George Tannous](https://github.com/GeorgeTannous98) 
  -[Deepak Sharma](https://github.com/DeepakSharma46)
-  -[sowmya gandhamaneni]
+  sowmya gandhamaneni
  -[Phanindra Naralasetty] (https://github.com/naralasetty99)
  -[Anne-Okingo](https://github.com/Anne-Okingo)
 - [Resu19680](https://github.com/Resu19680)
