@@ -2195,6 +2195,7 @@ Matthew Burgos
 - [Napakorn Sukkasem](https://github.com/napakornsk)
 - [salkaev]
 - [4devly]
+- [Tine](https://github.com/Tine-debug)
 - [Vikas Seervi] (https://github.com/vikasseervi)
 - [Untitled Programmer](https://github.com/untitled-programmer)
 - [giorgioyu125](https://github.com/giorgioyu125/first-contributions)
