@@ -69,6 +69,7 @@ Anshi
 -[Arjun Thazhath](https://github.com/arjunthazhath2001)
 -[Ilyas El Madni](https://github.com/ilyasmdn)
 -[Jas Verma](https://github.com/jasverma-hub)
+-[Rajath Shettigar](https://github.com/rajathshttgr)
 -[Sharmake Ibrahim](https://github.com/sharmake-ibrahim)
 -[Seba Acosta](https://github.com/sebaacosta25)
 -[Nithish699](https://github.com/Nithish699)
