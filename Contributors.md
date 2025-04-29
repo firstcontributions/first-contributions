@@ -2470,4 +2470,4 @@ Matthew Burgos
 - [MuhammadUsmanGM](https://github.com/MuhammadUsmanGM)
 [Nish2005karsh](https://github.com/Nish2005karsh)
 -[Miguel Feria](https://github.com/inkmiguel)
-- [Fausto Rodriguez](https://github.com/FaustoRo)
+-[Fausto Rodriguez](https://github.com/FaustoRo)
