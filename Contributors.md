@@ -1876,6 +1876,7 @@ Matthew Burgos
 - [dDevAhmed](https://github.com/dDevAhmed/)
 - [WaiyakiDev](https://github.com/MONSURU-rgb)
 - [toya33](https://github.com/toya33)
+- [Sudhir810](https://github.com/Sudhir810)
 - [Cez](https://github.com/Cezzzzzz)
 - [Oluwasemilore Omotade-Michaels](https://github.com/shemigam1)
 - [Leonardo Schell](https://github.com/DevSchell)
@@ -2440,3 +2441,8 @@ Matthew Burgos
 - [HANAdes](https://github.com/HANAdes1126)
 - [Sai Teja](https://github.com/klu2300090005)
 - [Kim Songmok](https://github.com/kimsongmok)
+- [Mirmovsum Abasov](https://github.com/mirmovsum-abasov)
+- April Kidd
+- [the_robats](https://github.com/therobats1)
+- [MuhammadUsmanGM](https://github.com/MuhammadUsmanGM)
+[Nish2005karsh](https://github.com/Nish2005karsh)
