@@ -101,7 +101,7 @@ Ora invia la pull request.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-Presto avrò incorporato (*merge*) tutti i tuoi cambiamenti nel master branch di questo progetto. Ti arriverà una mail di notifica una volta che le modifiche saranno state accettate.
+Presto saranno incorporati (*merge*) tutti i tuoi cambiamenti nel master branch di questo progetto. Riceverai una mail di notifica una volta che le modifiche saranno state accettate.
 
 ### [ Prossimi passi ](../additional-material/git_workflow_scenarios/additional-material.md)
 
