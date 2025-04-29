@@ -1758,6 +1758,7 @@ Matthew Burgos
 - [chipsmelon](https://github.com/chipsmelon)
 - [MatK](https://github.com/mat-kop)
 - [Sandesh KV](https://github.com/SandeshAmin)
+- [Kinnixx](https://github.com/Kinnixx)
 - [Nikolay Gusev](https://github.com/TankistPro)
 - [Abhi Patil](https://github.com/Abhisucks)
 - [Xin Xiao](https://github.com/ThetNaingLin7)
