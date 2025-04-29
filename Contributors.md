@@ -1298,6 +1298,7 @@ Matthew Burgos
 - [RahulRawat](https://github.com/RHL-RWT-01)
 - [Magdalin princy](https://github.com/Magdalinprincy/)
 - [Hector-Ventura](https://github.com/0Label0)
+- [SamTheSomebody](https://github.com/SamTheSomebody)
 - [hide361](https://github.com/hide361)
 - [YahiaAbdeldjalilBenyahia](https://github.com/YahiaAbdeldjalilBenyahia)
 - [Sneha Singh](https://github.com/snehasingh-25)
