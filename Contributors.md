@@ -67,6 +67,7 @@ Anshi
 - [Ajit Sargar](https://github.com/sargar-ajit)
 -[Aadarsh mishra]
 -[Arjun Thazhath](https://github.com/arjunthazhath2001)
+-[Daniascii](https://github.com/daniascii)
 -[Ilyas El Madni](https://github.com/ilyasmdn)
 -[Jas Verma](https://github.com/jasverma-hub)
 -[Rajath Shettigar](https://github.com/rajathshttgr)
