@@ -770,6 +770,7 @@ Matthew Burgos
 - [Vorahpong Mean](https://github.com/VorahPong)
 - [Hana]
 - [Vivek Chudasama](https://github.com/vivekchudasama-2004)
+- [Shamsheed Ali](https://github.com/shamsheedali)
 - [Sai Manohar Nanduri](https://github.com/NSM1997)
 - [Pouyan Iranpour](https://github.com/pouyaniranpour)
 - [Borzoi Lover](https://github.com/mmitros1)
@@ -982,6 +983,7 @@ Matthew Burgos
 - [BrennerBK](https://github.com/BrennerBK)
 - [Harrison Noe](https://github.com/harr-3d)
 - [Adam Kokhnover](https://github.com/Adamko17)
+- [JCoder](https://github.com/jcoder-12)
 - [Sonum Jaggi](http://github.com/sonum02)
 - [Matt Bellardi](https://github.com/met97)
 - [Arvind Singireddy](https://github.com/Sunny-webdev)
@@ -1577,6 +1579,7 @@ Matthew Burgos
 - [Samaksh Sethiya](https://github.com/Samaksh22)
 - [Hoin Shin](https://github.com/signalman)
 - [Rahul Choudhary](https://github.com/RahulCh010)
+- [Anirudh Pandey](https://github.com/anirudh241)
 - [I-Bex](https://github.com/i-Bex)
 - [Tristan Orpilla](https://github.com/13tristan)
 - [Jon Compton](https://github.com/joncompton)
@@ -1740,6 +1743,7 @@ Matthew Burgos
 - [chipsmelon](https://github.com/chipsmelon)
 - [MatK](https://github.com/mat-kop)
 - [Sandesh KV](https://github.com/SandeshAmin)
+- [Kinnixx](https://github.com/Kinnixx)
 - [Nikolay Gusev](https://github.com/TankistPro)
 - [Abhi Patil](https://github.com/Abhisucks)
 - [Xin Xiao](https://github.com/ThetNaingLin7)
@@ -1926,6 +1930,7 @@ Matthew Burgos
 - [vin709](https://github.com/vin709)
 - [Chandana Srinivasa Yatisha](https://github.com/chandanasy)
 - [Saral karki](https://github.com/Saralkarki)
+- [Zach B](https://github.com/fnyah)
 - [Praveen R](https://github.com/PRAVEENRP1047)
 - [Caio Barbosa](https://github.com/CaioBarbosaAdS)
 - [MohanRaj R](https://github.com/Mohanraj7373)
@@ -2176,6 +2181,7 @@ Matthew Burgos
 - [Napakorn Sukkasem](https://github.com/napakornsk)
 - [salkaev]
 - [4devly]
+- [Tine](https://github.com/Tine-debug)
 - [Vikas Seervi] (https://github.com/vikasseervi)
 - [Untitled Programmer](https://github.com/untitled-programmer)
 - [giorgioyu125](https://github.com/giorgioyu125/first-contributions)
@@ -2446,3 +2452,4 @@ Matthew Burgos
 - [the_robats](https://github.com/therobats1)
 - [MuhammadUsmanGM](https://github.com/MuhammadUsmanGM)
 [Nish2005karsh](https://github.com/Nish2005karsh)
+-[Miguel Feria](https://github.com/inkmiguel)
