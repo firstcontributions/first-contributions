@@ -133,6 +133,7 @@ Anshi
 - [Muhammad Anas](https://github.com/AnasJadoon31)
 - [Aditya joshi](https://github.com/Aditya44234)
 - [Dalbeer Singh Toor](https://github.com/dalbeersinghtoor)
+- [Siddhartha Gotur](https://github.com/sidd1237)
 - [Giselle]
 - [JS-Bej](https://github.com/JS-Bej)
 - [Jamshaid Ali](https://github.com/jamshaidali)
