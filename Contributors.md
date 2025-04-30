@@ -1,6 +1,7 @@
  # Contributors
  - [Ajinkya Nikam](https://github.com/Jinkz04)
  - [Arshi Sabah](https://github.com/arshisabah/first-contributions)
+ - [Ashutosh Singh](https://github.com/AshutoshSinghJ)this
  - [Avinash Kumar Learning GitHub]
  - [John Mapunda](https://johnmapunda.com)
  - [Kiran Kumar Boinapally](https://github.com/kiranraoboinapally)
