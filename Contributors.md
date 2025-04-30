@@ -254,6 +254,7 @@ Matthew Burgos
 - [Vishal] (https://github.com/ghostdeveloper404)
 - [Rohan Udith] (https://github.com/Duck6407)
 - [Abdullah Raheel] (https://github.com/Elusive7733)
+- [Muhammad Fazle Mawla] (https://github.com/Zefr0xe)
 - [Ruben Manriquez](https://github.com/Eoloth)
 - [Boniaszewski](https://github.com/wbonicki)
 - [Ankita] (https://github.com/Ankitabehera385)
