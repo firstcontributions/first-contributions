@@ -176,6 +176,7 @@ e-Jo
 - [Hemant Konduri](https://github.com/HemantKonduri)
 - [Jazmine Chargualaf](https://github.com/CodeWithJazmine)
 - [Jefin Joji](https://github.com/JefinCodes)
+- [Marcela Obeso](https://github.com/marcelaobeso)
 - [Gabriel Lima](https://github.com/gabriel-lima258)
 - [Pavithra Nelluri](https://github.com/PavithraNelluri)
 - [Samuel Calixto](https://github.com/samuelcalixtodev)
