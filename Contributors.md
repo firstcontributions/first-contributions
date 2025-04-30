@@ -2475,6 +2475,7 @@ Matthew Burgos
 - [Sai Teja](https://github.com/klu2300090005)
 - [Kim Songmok](https://github.com/klu2300090005)
 - [Mirmovsum Abasov](https://github.com/mirmovsum-abasov)
+- [Farrel Oktavian Lietara](https://github.com/FarrelOktavianLietara)
 - April Kidd
 - [the_robats](https://github.com/therobats1)
 - [MuhammadUsmanGM](https://github.com/MuhammadUsmanGM)
@@ -2482,3 +2483,4 @@ Matthew Burgos
 -[Miguel Feria](https://github.com/inkmiguel)
 -[Fausto Rodriguez](https://github.com/FaustoRo)
 -[Muhammad Zidan Fatonie](https://github.com/mzf11125)
+
