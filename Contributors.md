@@ -16,6 +16,7 @@
  - [YoohPH](https://github.com/YoohPH)
  - [Raghav](https://github.com/raghav-si)
  -[Uday Dhir](https://github.com/Udaylol)
+ - [Edwin Herbert Khiat](https://github.com/Kuuhaku-web)
  -[Qi Yang] (https://github.com/sqiyang)
  -[Naiara Gabriela](https://github.com/naiaragabriela)
  -[Eliezer Bolding](https://github.com/chelito103)
