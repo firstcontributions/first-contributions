@@ -1,6 +1,7 @@
  # Contributors
  - [Arshi Sabah](https://github.com/arshisabah/first-contributions)
  - [Avinash Kumar Learning GitHub]
+ - [John Mapunda](https://johnmapunda.com)
  - [Kiran Kumar Boinapally](https://github.com/kiranraoboinapally)
  - [Festus Sabu](https://github.com/festussabu)
  - [Mohammed Farhan](https://github.com/TheRealFarhanDev)
@@ -37,6 +38,7 @@
  -[Yin Heaven](https://github.com/YinHeaven)
 Anshi
 -[Dhriti Roy]
+- [Bryan Joy] (https://github.com/BlitzelR)
 - [Balaji Jayakumar](https://github.com/Balaji93bobby)
  -[George Tannous](https://github.com/GeorgeTannous98) 
  -[Deepak Sharma](https://github.com/DeepakSharma46)
@@ -2129,6 +2131,7 @@ Matthew Burgos
 - [Jiabei Luo](https://github.com/jluo9612)
 - [B Suraj Patra](https://github.com/bsurajpatra)
 - [Abhay Dhiman ](https://github.com/AbhayDhiman23)
+- [Ashwin Essa](https://github.com/aeshwin10)
 - [Junaid Ali Khan](https://github.com/juna0704)
 - [ Akash ](https://github.com/akashyadv03)
 - [Laura] (https://github.com/ladywhiskers)
@@ -2483,4 +2486,5 @@ Matthew Burgos
 -[Miguel Feria](https://github.com/inkmiguel)
 -[Fausto Rodriguez](https://github.com/FaustoRo)
 -[Muhammad Zidan Fatonie](https://github.com/mzf11125)
-
+-[Nicholas Franshel Kurniawan](https://github.com/franshel)
+main
