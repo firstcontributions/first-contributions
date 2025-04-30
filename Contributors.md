@@ -21,6 +21,7 @@
  - [Raghav](https://github.com/raghav-si)
  -[Uday Dhir](https://github.com/Udaylol)
  - [Edwin Herbert Khiat](https://github.com/Kuuhaku-web)
+ - [IRjSI](https://github.com/IRjSI)
  -[Qi Yang] (https://github.com/sqiyang)
  -[Naiara Gabriela](https://github.com/naiaragabriela)
  -[Eliezer Bolding](https://github.com/chelito103)
