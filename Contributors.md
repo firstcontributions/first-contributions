@@ -35,6 +35,7 @@
  -[Michelle Burton] (https://github.com/michelle-burton)
  - [SFatimah56](https://github.com/SFatimah56)
  - [Biraj Paul]
+ -[Alejandra_Salcedo] (https://github.com/asalcedo07/first-contributions.git)
  -[Hamisi Bakari](https://github.com/hamisiibunbeka)
  -[Aditya Pawar](https://github.com/AdityaByte)
  -[Abhijit Tupe](https://github.com/abhijittupe)
