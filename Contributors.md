@@ -1,6 +1,7 @@
  # Contributors
  - [Arshi Sabah](https://github.com/arshisabah/first-contributions)
  - [Avinash Kumar Learning GitHub]
+ - [John Mapunda](https://johnmapunda.com)
  - [Kiran Kumar Boinapally](https://github.com/kiranraoboinapally)
  - [Festus Sabu](https://github.com/festussabu)
  - [Mohammed Farhan](https://github.com/TheRealFarhanDev)
