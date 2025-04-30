@@ -1,6 +1,8 @@
  # Contributors
  - [Avinash Kumar Learning GitHub]
  - [Kiran Kumar Boinapally](https://github.com/kiranraoboinapally)
+ - [Festus Sabu](https://github.com/festussabu)
+ - [Mohammed Farhan](https://github.com/TheRealFarhanDev)
  - [Milej Kamil](https://github.com/KMilej)
  - [Roberto Ochoa Cuevas :)](https://github.com/Roberto0611)
  - [Sufyan-00](https://github.com/Sufyan-00)
@@ -15,6 +17,7 @@
  -[Uday Dhir](https://github.com/Udaylol)
  -[Qi Yang] (https://github.com/sqiyang)
  -[Naiara Gabriela](https://github.com/naiaragabriela)
+ -[Eliezer Bolding](https://github.com/chelito103)
  -[Vikram Naidu](https://github.com/Vikramnaidu16)
  -[Aman Sirohi](https://github.com/ErAgOn-AmAnSiRoHi)
  -[Isaiah Richards](https://github.com/iprichards)
@@ -67,8 +70,10 @@ Anshi
 - [Ajit Sargar](https://github.com/sargar-ajit)
 -[Aadarsh mishra]
 -[Arjun Thazhath](https://github.com/arjunthazhath2001)
+-[Daniascii](https://github.com/daniascii)
 -[Ilyas El Madni](https://github.com/ilyasmdn)
 -[Jas Verma](https://github.com/jasverma-hub)
+-[Rajath Shettigar](https://github.com/rajathshttgr)
 -[Sharmake Ibrahim](https://github.com/sharmake-ibrahim)
 -[Seba Acosta](https://github.com/sebaacosta25)
 -[Nithish699](https://github.com/Nithish699)
