@@ -3,6 +3,7 @@
  - [Avinash Kumar Learning GitHub]
  - [Kiran Kumar Boinapally](https://github.com/kiranraoboinapally)
  - [Festus Sabu](https://github.com/festussabu)
+ - [Astrid Angelene Setio]
  - [Mohammed Farhan](https://github.com/TheRealFarhanDev)
  - [Milej Kamil](https://github.com/KMilej)
  - [Roberto Ochoa Cuevas :)](https://github.com/Roberto0611)
