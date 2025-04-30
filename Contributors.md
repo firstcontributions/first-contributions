@@ -700,6 +700,7 @@ Matthew Burgos
 - [Nikhil Rajbhar](https://github.com/NikhilRajbhar111)
 - [Nicolas Alves](https://github.com/NickeAlves)
 - [Michael S]
+- [Michael Jordan](https://github.com/Mona-kecil)
 - [Kadeem George]
 - [Ameer Radhi]
 - [LiuSam](https://www.youtube.com/CommitKU)
