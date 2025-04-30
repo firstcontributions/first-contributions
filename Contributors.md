@@ -621,6 +621,7 @@ Matthew Burgos
 - [Fazlul Karim Choudhury](https://github.com/FazlulKarimC)
 - [Eris Kasa](https://github.com/eriskasa)
 - [Timur Malkoc](https://github.com/TimurMalkc)
+- [Dusti Johnson](https://github.com/dustij)
 - [Vijaya](https://github.com/Vijayaa21)
 - [Vienji Racaza](https://github.com/vienji)
 - [Cindy Dang](https://github.com/cindyddang)
