@@ -37,6 +37,7 @@
  -[Yin Heaven](https://github.com/YinHeaven)
 Anshi
 -[Dhriti Roy]
+- [Bryan Joy] (https://github.com/BlitzelR)
 - [Balaji Jayakumar](https://github.com/Balaji93bobby)
  -[George Tannous](https://github.com/GeorgeTannous98) 
  -[Deepak Sharma](https://github.com/DeepakSharma46)
