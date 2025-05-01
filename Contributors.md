@@ -466,6 +466,7 @@ Matthew Burgos
 - [Lakshay Bhatia](https://github.com/lakshayb30)
 - [Katherine Windatt](https://github.com/DiceTowerKitty)
 - [Ozzy](https://github.com/KaungPyaeHtet)
+- [gc](https://github.com/Garvity)
 - [Deep Sutariya](https://github.com/d-sutariya)
 - [Harinder Singh Sudwal](https://github.com/Hsinghsudwal)
   [Harsh bhatia](https://github.com/h-bhatia)
