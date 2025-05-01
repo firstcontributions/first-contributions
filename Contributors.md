@@ -2396,6 +2396,7 @@ Matthew Burgos
 - [BISCUITIC](https://github.com/BISCUITIC)
 - [nischal] ((https://github.com/nischaljain))
 - Hello! This is Christelle
+- [zakaneki](https://github.com/zakaneki)
 - Im John Pork
 - [Murilo Pigosso](https://github.com/witcliff-byte)
 - [Yu Xie](https://github.com/SkipDiscreto)
