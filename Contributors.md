@@ -57,7 +57,7 @@ Anshi
 -[Dhriti Roy]
 - [Bryan Joy] (https://github.com/BlitzelR)
 - [Balaji Jayakumar](https://github.com/Balaji93bobby)
- -[George Tannous](https://github.com/GeorgeTannous98) 
+ -[George Tannous](https://github.com/GeorgeTannous98)
  -[Deepak Sharma](https://github.com/DeepakSharma46)
  - [regiiik]
   sowmya gandhamaneni
@@ -123,7 +123,7 @@ Anshi
 - [Shiva Kumar Tirupathi](https://github.com/wings-aka-shiva)
 - [Abdul Hafeez](https://github.com/abdul-hafeez12)
 - [myhifi](https://github.com/myhifi)
-- [Eunice C Maduka](https://github.com/aimmiebug) 
+- [Eunice C Maduka](https://github.com/aimmiebug)
 -[Theo Zahn](https://github.com/zahntheo)
 -[Pedroka2000](https://github.com/Pedroka2000)
 -[Saneesh](https://github.com/2300031420)
@@ -150,7 +150,7 @@ Anshi
 - [Rohan Bhalerao](https://github.com/Rohanbhalerao875)
 - [Vannyou TANG 🇰🇭](https://github.com/TVYDev)
 - [shubham](https://github.com/sidharthkshubham)
-- [devmigmig](https://github.com/devmigmig) 
+- [devmigmig](https://github.com/devmigmig)
 - [Billy Whizz](https://github.com/leithdm)
 - [praveen hari krishna](https://github.com/phk16)
 e-Jo
@@ -1264,6 +1264,7 @@ Matthew Burgos
 - [Pranav](https://github.com/Pranav0102)
 - [Mzwandilemkhokha](https://github.com/mzwandilemkhokha)
 - [Janvi Chetan Patel](https://github.com/JanviChetanPatel)
+- [Arham Garg](https://github.com/arhamgarg)
 - [Apoorva garg](https://github.com/ApoorvaGarg629)
 - [Erick Mata] (https://github.com/zarzamoraati)
 - [Ramiaemi Dashler](https://github.com/dashleremi)
@@ -1393,7 +1394,7 @@ Matthew Burgos
 - [damsoon](https://github.com/damhyeong)
 - [Mounish Nanu](https://github.com/mounish123)
 - James Harpe
-- [KingKongNi](https://github.com/KingKongNi) 
+- [KingKongNi](https://github.com/KingKongNi)
 - [Juan Sarmiento](https://github.com/JuanEnriqueSF)
 - [Fady Zaky](https://github.com/0ddAuto00)
 - [VortexEdge](https://github.com/VortexEdge69)
@@ -2274,10 +2275,10 @@ Matthew Burgos
 - [Tim Wolter](https://github.com/timwolter-dev)
 - [Devansh Sharma] (https://github.com/adawatia)
 - [keerthana250501](https://github.com/keerthana250501)
-- [Wlwool](https://github.com/Wlwool)   
+- [Wlwool](https://github.com/Wlwool)
 - [Nick-Lemy K.](https://github.com/Nick-Lemy)
 - [王羿博](https://github.com/Starry663)
-- [CryptoLove88](https://github.com/CryptoLove88)  
+- [CryptoLove88](https://github.com/CryptoLove88)
 - [Pravallika Panyam](https://github.com/panyampravallika)
 - [Ben C (TheSilverBulet)](https://github.com/TheSilverBulet)
 -[Biokes](https://github.com/Biokes)
@@ -2314,7 +2315,7 @@ Matthew Burgos
 - [Hossein Khalilian](https://github.com/hossein-khalilian)
 - [Dylan Brandstetter](https://github.com/dylanbrandstetter)
 - [Nouran Sabry](https://github.com/NouSabr)
--Charles Sigxakuma 
+-Charles Sigxakuma
 -hemeshhere
 -Rachel_qi
 - [eja](https://github.com/ealker)
@@ -2323,7 +2324,7 @@ Matthew Burgos
 - [Dinesh Kumar S R](https://github.com/dineshkumarsrdk)
 - [xinshujun](https://github.com/xianshujun)
 - [Jade](https://github.com/Sharizhai)
-- Antoine 
+- Antoine
 - [John](https://github.com/JosParker)
 -[Abdulahi Fantaw](https://github.com/abdelishha)
 -[Shivam Saurabh](https://github.com/rebeljustice13)
@@ -2383,7 +2384,7 @@ Matthew Burgos
 - [2333](https://github.com/2333xxxx)
 - [Quia](https://github.com/Quia2325)
 - [yosakax](https://github.com/yosakax)
-- oku3ma🥰 
+- oku3ma🥰
 - [Sien](https://github.com/SimonLGo)
 - [Sanyam Phartyal](https://github.com/Sanyam2511)
 - [Hamna Liaquat](https://github.com/humnaliaquat)
@@ -2395,7 +2396,7 @@ Matthew Burgos
 -Mustafa Magdy aka Farkha (https://github.com/MustafaMagdyy)
 -[aieng-abdullah](https://github.com/aieng-abdullah)
 - [DPAC](https://github.com/ldpacl)
-- 
+-
 -[Abinanthan-CG](https://github.com/Abinanthan-CG)
 - [JoroAmboara] (https://github.com/JoroAmboara)
 - [BISCUITIC](https://github.com/BISCUITIC)
@@ -2473,8 +2474,8 @@ Matthew Burgos
 - [Lucas Bandeira](https://github.com/lucass2772)
 - [Asem Abdallah](https://github.com/3sem3bdallah)
 - [Kaustubh Daruri](https://github.com/Kaustubh152003)
-- [José Luis](https://github.com/joseluismaxp) 
-- [Andy Le](https://github.com/ale0k) 
+- [José Luis](https://github.com/joseluismaxp)
+- [Andy Le](https://github.com/ale0k)
 - [Liyon](https://github.com/leontoys)
 - [Lumirelle](https://github.com/Lumirelle)
 - [Anas Badru Salam](https://github.com/anasbadrusalam)
@@ -2488,7 +2489,7 @@ Matthew Burgos
 - [Joe 05](https://github.com/JoelMbuyi05)
 - [Bristy Rosemary Pereira](https://github.com/Bristy1210)
 - [Angshuman Kishore Mahato](https://github.com/angshumankishore)
-- [Enzo Marsola](https://github.com/MarsoL4) 
+- [Enzo Marsola](https://github.com/MarsoL4)
 - [Junda Yin](https://github.com/Deiahri)
 - [Mert Temiz](https://github.com/merttemiz)
 - [Michael Gan](https://github.com/WenxiGan)
