@@ -2527,3 +2527,4 @@ Matthew Burgos
 - [Yassine Erradouani](https://github.com/yassnemo)
 - [Julio Florentino](https://github.com/JulioFlorentino)
 - [DevDhomm](https://github.com/DevDhomm)
+- [Edward2323](https://github.com/Edward2323)
