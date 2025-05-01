@@ -1,4 +1,5 @@
  # Contributors
+ - [Anurag Bhardwaj](https://github.com/theanuraaag)
  - [Ajinkya Nikam](https://github.com/Jinkz04)
  - [Talha Jubaer Prantor](https://github.com/TalhaJubaerPrantor)
  - [Arshi Sabah](https://github.com/arshisabah/first-contributions)
