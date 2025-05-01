@@ -2534,4 +2534,5 @@ Matthew Burgos
 - [Edward2323](https://github.com/Edward2323)
 - [Manojc-dev](https://github.com/Manojc-dev)
 - [Akitoshi Nakayama](https://github.com/akitoshi-n)
+- [xarical](https://github.com/xarical) hopes you have a great day :)
 - [Daniel J. Manning](https://github.com/Daniel-J-Manning)
