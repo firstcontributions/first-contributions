@@ -8,6 +8,7 @@
  - [Avinash Kumar Learning GitHub]
  - [Luke Busfield](https://github.com/LukeBusfield) hOI
  - [John Mapunda](https://johnmapunda.com)
+ - [Vivek Tripathi](https://github.com/vivektripatthi)
  - [Kiran Kumar Boinapally](https://github.com/kiranraoboinapally)
  - [Festus Sabu](https://github.com/festussabu)
  - [Astrid Angelene Setio]
