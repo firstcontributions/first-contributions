@@ -2533,4 +2533,5 @@ Matthew Burgos
 - [DevDhomm](https://github.com/DevDhomm)
 - [Edward2323](https://github.com/Edward2323)
 - [Manojc-dev](https://github.com/Manojc-dev)
+- [Akitoshi Nakayama](https://github.com/akitoshi-n)
 - [Daniel J. Manning](https://github.com/Daniel-J-Manning)
