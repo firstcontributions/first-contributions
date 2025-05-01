@@ -38,6 +38,7 @@
  -[Aman Sirohi](https://github.com/ErAgOn-AmAnSiRoHi)
  -[Isaiah Richards](https://github.com/iprichards)
  -[Alexandros Moraitis](https://github.com/AlexandrosMo)
+ -[Rushil Patel](https://github.com/RUSHILPATEL33)
  -[Ronan Cuaresma](https://github.com/MuushyRoom)
  -[Michelle Burton] (https://github.com/michelle-burton)
  - [SFatimah56](https://github.com/SFatimah56)
