@@ -2048,4 +2048,6 @@
 - [Rohit Dhall](https://github.com/Rohitdhall987)
 - NaNaJyu3
 - [Jonas newbeans](https://github.com/nevvbeans)
-- GhXsTReZy, -[aieng-abdullah](https://github.com/aieng-abdullah), -[Zaheer Mulani](https://github.com/RBZAHEER)
+- GhXsTReZy
+- [aieng-abdullah](https://github.com/aieng-abdullah)
+- [Zaheer Mulani](https://github.com/RBZAHEER)
