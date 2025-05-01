@@ -9,6 +9,7 @@
  - [Javid Hussain Fazaeli](https://github.com/luckyjavid)
  - [Ashutosh Singh](https://github.com/AshutoshSinghJ)this
  - [Avinash Kumar Learning GitHub]
+ - [Ariel Vazquez](https://github.com/VazquezAriel)
  - [Luke Busfield](https://github.com/LukeBusfield) hOI
  - [John Mapunda](https://johnmapunda.com)
  - [Vivek Tripathi](https://github.com/vivektripatthi)
