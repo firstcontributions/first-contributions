@@ -317,6 +317,7 @@ Matthew Burgos
 - [konishi takahiro](https://github.com/taka727)
 - [kauanfuza](https://github.com/KauanFuza)
 - [HMMK](https://github.com/hmwemya10)
+- [yuri10199](https://github.com/yuri10199)
 - [Jayashree Manigandan](https://github.com/Jay9093)
 - [Steven Suarez](https://github.com/scruffypilot)
 - [Ravindra Reddy](https://github.com/Ravindra-reddy-18)
