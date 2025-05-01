@@ -35,6 +35,7 @@
  -[Vikram Naidu](https://github.com/Vikramnaidu16)
  -[Aman Sirohi](https://github.com/ErAgOn-AmAnSiRoHi)
  -[Isaiah Richards](https://github.com/iprichards)
+ -[Alexandros Moraitis](https://github.com/AlexandrosMo)
  -[Ronan Cuaresma](https://github.com/MuushyRoom)
  -[Michelle Burton] (https://github.com/michelle-burton)
  - [SFatimah56](https://github.com/SFatimah56)
