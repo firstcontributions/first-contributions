@@ -563,7 +563,7 @@
   -Kunal
 - Sudhanshu
 - [Fwank](https://github.com/yo-frank)
-- [Shivanshu Singh](https://github.com/ShivanshuRag)
+-
 - [Piyush Kumar Agarwal](https://github.com/piyush-kumar-agarwal1)
 - [Kezia](https://github.com/kezzyk123)
 - [shobana](https://github.com/Shobanaprojects)
@@ -2198,6 +2198,7 @@
 - [yosakax](https://github.com/yosakax)
 - oku3ma🥰
 - [Sien](https://github.com/SimonLGo)
+- [Shivanshu Singh](https://github.com/ShivanshuRag)
 - [Sanyam Phartyal](https://github.com/Sanyam2511)
 - [Hamna Liaquat](https://github.com/humnaliaquat)
 - [Mahdi Javadi](https://github.com/m-djawadi)
