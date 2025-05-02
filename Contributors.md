@@ -1222,6 +1222,7 @@ Matthew Burgos
 - [Mateus Cruz](https://github.com/Mdacruzrego)
 - [Umang Agarwal](https://github.com/UmangAgarwal257)
 - [Magonborn](https://github.com/MagonBorn)
+- [Said Dias]
 - [devtechsector](https://github.com/devtechsector)
 - [ricor07](https://github.com/ricor07)
 - [devoceon](https://github.com/emy3)
