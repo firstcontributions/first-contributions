@@ -8,6 +8,7 @@
  - [Avinash Kumar Learning GitHub]
  - [Luke Busfield](https://github.com/LukeBusfield) hOI
  - [John Mapunda](https://johnmapunda.com)
+ - [Vivek Tripathi](https://github.com/vivektripatthi)
  - [Kiran Kumar Boinapally](https://github.com/kiranraoboinapally)
  - [Festus Sabu](https://github.com/festussabu)
  - [Astrid Angelene Setio]
@@ -2396,6 +2397,7 @@ Matthew Burgos
 - [BISCUITIC](https://github.com/BISCUITIC)
 - [nischal] ((https://github.com/nischaljain))
 - Hello! This is Christelle
+- [zakaneki](https://github.com/zakaneki)
 - Im John Pork
 - [Murilo Pigosso](https://github.com/witcliff-byte)
 - [Yu Xie](https://github.com/SkipDiscreto)
@@ -2522,3 +2524,4 @@ Matthew Burgos
 - [cpcap](https://github.com/cpcap1214)
 - [Yassine Erradouani](https://github.com/yassnemo)
 - [Julio Florentino](https://github.com/JulioFlorentino)
+- [DevDhomm](https://github.com/DevDhomm)
