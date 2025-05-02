@@ -867,6 +867,7 @@ Matthew Burgos
 - [Christopher O.](https://github.com/limitpointinf0)
 - [SNN](https://github.com/sungenyeint)
 - [candycane124](https://github.com/candycane124)
+- [amoorali](https://github.com/amoorali)
 - [Springer Barry](https://github.com/BarryCoding)
 - [Naveen1023](https://github.com/Naveen1023)
 - [Prasad Ingale](https://github.com/PrasadIngale40)
