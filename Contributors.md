@@ -4,6 +4,7 @@
  - [Umesh Bhatt](https://github.com/me-hem)
  - [Ajinkya Nikam](https://github.com/Jinkz04)
  - [RJangir] (https://github.com/Rjang1212)
+ - [Anasmtaweh] (https://github.com/Anasmtaweh)
  - [Talha Jubaer Prantor](https://github.com/TalhaJubaerPrantor)
  - [Arshi Sabah](https://github.com/arshisabah/first-contributions)
  - [DungGramer](https://github.com/DungGramer)
