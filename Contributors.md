@@ -17,6 +17,7 @@
  - [Kiran Kumar Boinapally](https://github.com/kiranraoboinapally)
  - [Festus Sabu](https://github.com/festussabu)
  - [Astrid Angelene Setio]
+ - [Elnar Ismael (0quaaD)](https://github.com/0quaaD)
  - [Mohammed Farhan](https://github.com/TheRealFarhanDev)
  - [Jason Tanuwijaya](https://github.com/ItMoSu)
  - [Milej Kamil](https://github.com/KMilej)
