@@ -26,6 +26,7 @@
  - [Jason Tanuwijaya](https://github.com/ItMoSu)
  - [Milej Kamil](https://github.com/KMilej)
  - [Roberto Ochoa Cuevas :)](https://github.com/Roberto0611)
+ - [Carter O'Leary](https://github.com/carter-oleary)
  - [Sufyan-00](https://github.com/Sufyan-00)
  - [AwooPH](https://github.com/AwooPH)
  - [Priyadarshini Nadar](https://github.com/walkrantrolls)
