@@ -412,6 +412,7 @@ Matthew Burgos
 - [Autumn Willard] (https://github.com/autumnwillard)
 - [Coolgamer]
 - [Shubham Bankar] (https://github.com/shubhsbankar)
+- [Kim Minseok] (https://github.com/semteul)
 - [dzwee]
 - [Sunil Pabba]
 - [Charles]
