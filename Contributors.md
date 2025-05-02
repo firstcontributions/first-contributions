@@ -1,4 +1,5 @@
  # Contributors
+ - [Amit Chaudhary](https://github.com/amitchaudhary9648)
  - [Anurag Bhardwaj](https://github.com/theanuraaag)
  - [Ajinkya Nikam](https://github.com/Jinkz04)
  - [RJangir] (https://github.com/Rjang1212)
