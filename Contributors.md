@@ -2544,3 +2544,4 @@ Matthew Burgos
 - [Daniel J. Manning](https://github.com/Daniel-J-Manning)
 - [Clutz450](https://github.com/Clutz450)
 - [Enmaai0](https://github.com/Enmaai0)
+- [Ramon W. (Sonryu) Vilar](https://github.com/Sonryu)
