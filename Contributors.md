@@ -801,6 +801,7 @@ Matthew Burgos
 - [Morley lane](https://github.com/0ni4)
 - [Matheus Azevedo](https://github.com/Matheusada)
 - [Rishabh Kumar Das](https://github.com/rishabhd-cognavi)
+- [Shinbatsu F](https://github.com/Shinbatsu)
 - [EarendelH](https://github.com/Earendelh)
 - [mohitpuri-codes](https://github.com/mohitpuri-codes)
 - [Vanlal Peka](https://github.com/vanlalpeka)
