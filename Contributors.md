@@ -64,6 +64,7 @@
  - [Biraj Paul]
  -[Alejandra_Salcedo] (https://github.com/asalcedo07/first-contributions.git)
  -[Hamisi Bakari](https://github.com/hamisiibunbeka)
+ -[Baldur Logi](https://github.com/baldurlogi)
  -[Aditya Pawar](https://github.com/AdityaByte)
  -[Abhijit Tupe](https://github.com/abhijittupe)
  -[Omprakash Kadur](https://github.com/OmprakashKadur)
