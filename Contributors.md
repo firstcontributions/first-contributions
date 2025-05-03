@@ -33,6 +33,7 @@
  - [Mohrip] (https://github.com/Mohrip)
   -[Milan Rajanih](https://github.com/milanrajani)
  -[Kewoda Joanitah](https://github.com/KewodaJoanitah)
+ -[Amrutha Varshini](https://github.com/Varshini1905)
  - [Jomkit Jujaroen](https://github.com/Jomkit)
  - [Willy Agusta](https://github.com/willyagusta)
  - [Afzal Diwan](https://github.com/Afzal-husen)
@@ -43,6 +44,7 @@
  - [Edwin Herbert Khiat](https://github.com/Kuuhaku-web)
  - [Moideen Shihab](https://github.com/shihabJ91)
  - [IRjSI](https://github.com/IRjSI)
+-[kiranmayee](https://github.com/sreekironmai)
  -[Qi Yang] (https://github.com/sqiyang)
  -[Naiara Gabriela](https://github.com/naiaragabriela)
  -[Eliezer Bolding](https://github.com/chelito103)
@@ -171,6 +173,7 @@ e-Jo
 - Eric Manuel Rosales
 - [mmhd]
 - [m1tani](https://github.com/m1tani)
+- [ZT-25](https://github.com/ZT-25)
 - [Francis Rey](https://github.com/frb21)
 - [Srivatsav V](https://github.com/srivatsav09)
 - [Pathan Ismailkhan] (https://github.com/Smile-Khan)
@@ -660,6 +663,7 @@ Matthew Burgos
 - Javier Borja
 - Regina Niu
 - [Davide Franchi](https://github.com/DAVIDE004)
+- [Zubair Hassan](https://github.com/zubairhassan652)
 - Jeffrey Cole
 - [David Ruiz](https://github.com/DavidRZ-ai)
 - [Bruno Nascimento](https://github.com/nascimentodeveloper)
@@ -988,6 +992,7 @@ Matthew Burgos
 - [Bob Mumrmu](https://github.com/bobo-m)
 - [SANJAY KUMAR](https://github.com/sanjaydeepak)
 - [Ravi](https://github.com/raviprakash7367)
+- [asart90](https://github.com/asart9O)
 - [kazuma](https://github.com/Mio-3)
 - [Kai Krah](https://github.com/KaiKrah79)
 - [leviiii] (https://github.com/Shekhar2107)
@@ -1684,6 +1689,7 @@ Matthew Burgos
 - [Benjamin Tsoumagas](https://github.com/tsoumagas-benjamin)
 - [Godswill Udida](https://github.com/GodswillUdida)
 - [Ricardo Guimaraes](https://github.com/Ricardoguima)
+- [Intedai](https://github.com/Intedai)
 - [Helen Tsui](https://github.com/helentht)
 - [Matheus Bortolo](https://github.com/Matheusbortolo)
 - [Umair Amir](https://github.com/UmairAmir)
@@ -2288,6 +2294,7 @@ Matthew Burgos
 - [Salman Shahid](https://github.com/salman-281)
 - [Lakhshyaa](https://github.com/LAKHSHYAA)
 - [sn-ljh](https://github.com/sn-ljh)
+- [BonKRrr](https://github.com/BonKRrr)
 - [Fatema Alam]([https://github.com/sn-ljh](https://github.com/fatemakotha))
 - [terutarou](https://github.com/teruteru214)
 - [Zewang0217](https://github.com/Zewang0217)
@@ -2501,6 +2508,7 @@ Matthew Burgos
 - [Asem Abdallah](https://github.com/3sem3bdallah)
 - [Kaustubh Daruri](https://github.com/Kaustubh152003)
 - [José Luis](https://github.com/joseluismaxp) 
+- [Thainara Oliveira](https://github.com/thaisdo) 
 - [Andy Le](https://github.com/ale0k) 
 - [Liyon](https://github.com/leontoys)
 - [Lumirelle](https://github.com/Lumirelle)
@@ -2531,6 +2539,7 @@ Matthew Burgos
 - [Pavan Gajjala](https://github.com/pavangajjala)
 - [Hazem Waleed](https://github.com/hazem-walied)
 -[Shubhachand Patel](https://github.com/shubhachand)
+- [Hermes-erm](https://github.com/Hermes-erm/)
 - [Yusuf](https://github.com/ustastan)
 - [Kapain1](https://github.com/Kapain1)
 - [HANAdes](https://github.com/HANAdes1126)
@@ -2566,3 +2575,6 @@ Matthew Burgos
 - [Ramon W. (Sonryu) Vilar](https://github.com/Sonryu)
 - [Aron Young](https://github.com/aron5055)
 - [Prabhakar Singh](https://github.com/prabhaks)
+- [gfy125](https://github.com/gfy125)
+- [ycamlad](https://github.com/ycamlad)
+- [Daniella Asuqo] (https://github.com/Malef02rules)
