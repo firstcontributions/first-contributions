@@ -2481,6 +2481,7 @@ Matthew Burgos
 - [Kazuyuki Kita](https://github.com/chisuke0309)
 - [Flxzz](https://github.com/Flxzz)
 - [Oleksii Shamrai](https://github.com/alexshamrai)
+- [Brad Stafford](https://github.com/b-rad-omni)
 - Damilare ( https://github.com/damilareoo )
 - [Konstantin Lollert](https://github.com/KonstantinM87)
 - [Bekezela Pangenyama](https://github.com/bekezela)
