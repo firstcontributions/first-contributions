@@ -2536,6 +2536,7 @@ Matthew Burgos
 - [Pavan Gajjala](https://github.com/pavangajjala)
 - [Hazem Waleed](https://github.com/hazem-walied)
 -[Shubhachand Patel](https://github.com/shubhachand)
+- [Hermes-erm](https://github.com/Hermes-erm/)
 - [Yusuf](https://github.com/ustastan)
 - [Kapain1](https://github.com/Kapain1)
 - [HANAdes](https://github.com/HANAdes1126)
