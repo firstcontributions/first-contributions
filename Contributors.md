@@ -1,5 +1,6 @@
  # Contributors
  - [Shubham Garh](https://github.com/devac123)
+ - [Tyler Taylor](https://github.com/UnstablePayload)
  - [Anurag Bhardwaj](https://github.com/theanuraaag)
  - [Umesh Bhatt](https://github.com/me-hem)
  - [Ajinkya Nikam](https://github.com/Jinkz04)
