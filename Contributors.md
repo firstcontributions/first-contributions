@@ -35,7 +35,10 @@
  -[Kewoda Joanitah](https://github.com/KewodaJoanitah)
  -[Amrutha Varshini](https://github.com/Varshini1905)
  - [Jomkit Jujaroen](https://github.com/Jomkit)
- - [Willy Agusta](https://github.com/willyagusta)
+- [Willy Agusta](https://github.com/willyagusta)
+ - [Willy Agusta]
+ - [David Latour]
+(https://github.com/willyagusta)
  - [Afzal Diwan](https://github.com/Afzal-husen)
  - [YoohPH](https://github.com/YoohPH)
  - [Raghav](https://github.com/raghav-si)
