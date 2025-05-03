@@ -2501,6 +2501,7 @@ Matthew Burgos
 - [Asem Abdallah](https://github.com/3sem3bdallah)
 - [Kaustubh Daruri](https://github.com/Kaustubh152003)
 - [José Luis](https://github.com/joseluismaxp) 
+- [Thainara Oliveira](https://github.com/thaisdo) 
 - [Andy Le](https://github.com/ale0k) 
 - [Liyon](https://github.com/leontoys)
 - [Lumirelle](https://github.com/Lumirelle)
