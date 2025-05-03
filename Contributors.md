@@ -662,6 +662,7 @@ Matthew Burgos
 - Javier Borja
 - Regina Niu
 - [Davide Franchi](https://github.com/DAVIDE004)
+- [Zubair Hassan](https://github.com/zubairhassan652)
 - Jeffrey Cole
 - [David Ruiz](https://github.com/DavidRZ-ai)
 - [Bruno Nascimento](https://github.com/nascimentodeveloper)
