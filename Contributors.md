@@ -140,6 +140,7 @@ Anshi
 - [Pallav Sharma](https://github.com/pallavsharma505/)
 - [SELVARAGAAVAN](https://github.com/selva-ragaavan)
 - [HareeshJ]
+- [Kirti goyal] (https://github.com/kirti763)
 - [Martell0x1](https://github.com/Martell0x1)
 - [Meshach](https://github.com/MeshachOpoku)
 - [Dhrubaraj Pati](https://github.com/codewithdhruba01)
