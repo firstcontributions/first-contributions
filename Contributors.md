@@ -1,4 +1,5 @@
  # Contributors
+ - [Katy Frances A](https://github.com/KatyFrancesA)
  - [Shubham Garh](https://github.com/devac123)
  - [Tyler Taylor](https://github.com/UnstablePayload)
  - [Anurag Bhardwaj](https://github.com/theanuraaag)
