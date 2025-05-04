@@ -100,6 +100,7 @@ Anshi
  -[Harsh Mawalkar](https://github.com/Harsh-Mawalkar)
  -[geoffreyFernando](https://github.com/geoffreyFernando)
  - [Ludmi Lopez](https://github.com/DamperDoor56)
+ - [LaMinYou](https://github.com/LaMinYou)
  - [Sandeep Narahari](https://github.com/Sandeep-Narahari)
  - [Sai Prasanna](https://github.com/saiprasanna94)
  - [Samriddhi Agarwal ](https://github.com/SamriddhiAgarwal95)
