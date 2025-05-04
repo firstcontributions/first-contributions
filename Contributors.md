@@ -2600,3 +2600,4 @@ Matthew Burgos
 - [Muhammad Sagor] (https://github.com/Sagor0078)
 - [Ishtiaque Ahmed] (https://github.com/allubie)
 - [Andrew Harris] (https://github.com/ajharris)
+- [Maksim] (https://github.com/AndreevMakc)
