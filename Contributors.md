@@ -337,7 +337,7 @@ Matthew Burgos
 - [Tsakane Shiri](https://github.com/tsakane28)
 - [Emmanuel Ofoneta](https://github.com/Lordmaryo)
 - [Ramzan Khan](https://github.com/Ramzan-Khan-786)
-
+- [Sel](https://github.come/izume01)
 - [Mamta Vyas](https://github.com/your-mamta-vyas)
 - [Burhanuddin Bohra](https://github.com/burhan-72)
 - [Syed Ali](https://github.com/Pro-Algorythm)
