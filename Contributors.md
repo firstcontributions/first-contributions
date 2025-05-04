@@ -2602,4 +2602,4 @@ Matthew Burgos
 - [Ishtiaque Ahmed] (https://github.com/allubie)
 - [Andrew Harris] (https://github.com/ajharris)
 - [Maksim] (https://github.com/AndreevMakc)
-- [U-GOD] (https://github.com/U-GOD)
+- [U-GOD Fred] (https://github.com/U-GOD)
