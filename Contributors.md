@@ -3,6 +3,7 @@
 - [Durga Prasad](https://github.com/prasad-bigdp)
 - [Mateusz Sopyla](https://github.com/Sakii470) 
 - [Shravani Gaikwad](https://github.com/shrav84)
+- [Hugo Lopez](https://github.com/sketchugo)
 - [Hans Guillen](https://github.com/GuiH823)
 - [Katy Frances A](https://github.com/KatyFrancesA)
 - [Nabina Mallik](https://thenabinamallik.vercel.app)
