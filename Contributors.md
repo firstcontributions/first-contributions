@@ -1,6 +1,7 @@
  # Contributors
  - [Erdem Ceylan] (https://github.com/erdem-cc)
   - [Durga Prasad](https://github.com/prasad-bigdp)
+ - [Vidisha kashyap](https://github.com/Vidisha151)
  - [Mateusz Sopyla](https://github.com/Sakii470) 
  - [Shravani Gaikwad](https://github.com/shrav84)
  - [Hans Guillen] (https://github.com/GuiH823)
@@ -66,6 +67,7 @@
  - [Edwin Herbert Khiat](https://github.com/Kuuhaku-web)
  - [Moideen Shihab](https://github.com/shihabJ91)
  - [IRjSI](https://github.com/IRjSI)
+ - [Vidisha151](https://github.com/Vidisha151)
 -[kiranmayee](https://github.com/sreekironmai)
  -[Qi Yang] (https://github.com/sqiyang)
  -[Naiara Gabriela](https://github.com/naiaragabriela)
