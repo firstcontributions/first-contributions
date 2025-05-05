@@ -1845,6 +1845,7 @@ Matthew Burgos
 - [17LingShan](https://github.com/17LingShan)
 - [Carlos Camacho](https://github.com/ccamacho02)
 - [Nihal Baranwal](https://github.com/N-I-H-A-L)
+- [Murn] (https://github.com/MurnX)
 - [Mykyta Kuznietsov](https://github.com/kuznimyk)
 - [Essi Akpevwe Praise](https://https://github.com/Akpevwe11)
 - [Subro](https://www.linkedin.com/in/subrojyoti-paul)
