@@ -2635,3 +2635,4 @@ Matthew Burgos
 - [Colin Frerichs](https://github.com/colinfrerichs)
 - [vencordthemer](https://github.com/vencordthemer)
 - [George C Ward](https://github.com/gcward18)
+- [Anasazx] (https://github.com/anasazzz)
