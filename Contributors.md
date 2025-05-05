@@ -2627,3 +2627,4 @@ Matthew Burgos
 - [Omid Hashemzadeh](https://github.com/omidcodes)
 - [Colin Frerichs](https://github.com/colinfrerichs)
 - [vencordthemer](https://github.com/vencordthemer)
+- [George C Ward](https://github.com/gcward18)
