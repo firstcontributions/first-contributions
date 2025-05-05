@@ -2,6 +2,7 @@
  - [Erdem Ceylan] (https://github.com/erdem-cc)
   - [Durga Prasad](https://github.com/prasad-bigdp)
  - [Mateusz Sopyla](https://github.com/Sakii470) 
+ - Anastasia
  - [Shravani Gaikwad](https://github.com/shrav84)
  - [Hans Guillen] (https://github.com/GuiH823)
  - [Katy Frances A](https://github.com/KatyFrancesA)
@@ -14,6 +15,8 @@
  - [Ajinkya Nikam](https://github.com/Jinkz04)
  - Maurizio
  - [RJangir] (https://github.com/Rjang1212)
+ - [YihangJin] (https://github.com/GYihang)
+ - [Roberto Ayres](https://github.com/roberto-ayres)
  - [Anasmtaweh] (https://github.com/Anasmtaweh)
  - [Talha Jubaer Prantor](https://github.com/TalhaJubaerPrantor)
  - [Arshi Sabah](https://github.com/arshisabah/first-contributions)
@@ -132,6 +135,7 @@ Anshi
 - [Joruji Tsuchiya](https://github.com/joruji-tsuchiya)
 - [siddy09re](https://github.com/siddy09re)
 - [Lovalakshmi](https://github.com/lovalakshmi080223)
+- [rahmatanko](https://github.com/rahmatanko)
 - [Ajit Sargar](https://github.com/sargar-ajit)
 -[Aadarsh mishra]
 -[Arjun Thazhath](https://github.com/arjunthazhath2001)
@@ -1412,6 +1416,7 @@ Matthew Burgos
 - [hide361](https://github.com/hide361)
 - [YahiaAbdeldjalilBenyahia](https://github.com/YahiaAbdeldjalilBenyahia)
 - [Sneha Singh](https://github.com/snehasingh-25)
+- [Bee Tee](https://github.com/bennytp)
 - [Varun Tadpatri](https://github.com/varun2799dev)
 - [Sheikh Mujtaba](https://github.com/Sheikh-Muhammad-Mujtaba)
 - [Hypothalamus](https://github.com/Hypothalamuss)
@@ -1841,6 +1846,7 @@ Matthew Burgos
 - [17LingShan](https://github.com/17LingShan)
 - [Carlos Camacho](https://github.com/ccamacho02)
 - [Nihal Baranwal](https://github.com/N-I-H-A-L)
+- [Murn] (https://github.com/MurnX)
 - [Mykyta Kuznietsov](https://github.com/kuznimyk)
 - [Essi Akpevwe Praise](https://https://github.com/Akpevwe11)
 - [Subro](https://www.linkedin.com/in/subrojyoti-paul)
@@ -2630,3 +2636,5 @@ Matthew Burgos
 - [vencordthemer](https://github.com/vencordthemer)
 - [George C Ward](https://github.com/gcward18)
 - Kshitiz the first
+- [Anasazx] (https://github.com/anasazzz)
+>>>>>>> f8ab027aedcfaf4c2f01e69ea8040bcfb277344b
