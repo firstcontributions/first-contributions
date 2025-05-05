@@ -19,6 +19,7 @@
  - [Arshi Sabah](https://github.com/arshisabah/first-contributions)
  - [DungGramer](https://github.com/DungGramer)
  - [dbto](https://github.com/dbto)
+ - [shrutimishra-123](https://github.com/shrutimishra-123)
  - [VIkas Kumar](https://github.com/vikasviks)
  - [Kacper Adam Krotecki](https://github.com/kkrotecky)
  - {Bhargav made his 1st sucessful contribution}
