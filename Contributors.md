@@ -32,6 +32,7 @@
  - [Kiran Kumar Boinapally](https://github.com/kiranraoboinapally)
  - [Festus Sabu](https://github.com/festussabu)
  - [Astrid Angelene Setio]
+ - [Balamurugan R](https://github.com/Balamurugan-1000)
  - [Elnar Ismael (0quaaD)](https://github.com/0quaaD)
  - [Mohammed Farhan](https://github.com/TheRealFarhanDev)
  - [Jason Tanuwijaya](https://github.com/ItMoSu)
