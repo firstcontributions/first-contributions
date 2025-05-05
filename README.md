@@ -250,3 +250,8 @@ Now let's get you started with contributing to other projects. We've compiled a 
     <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_horizontal_blue.svg" width="201px">
   </a>
 </p>
+## How to Contribute
+- Fork the repository.
+- Clone it to your local machine.
+- Make your changes in a new branch.
+- Open a pull request.
