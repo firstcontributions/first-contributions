@@ -955,6 +955,7 @@ Matthew Burgos
 - [FabioCamerota](https://github.com/FabioCamerota)
 - [Anaïs Gatard](https://github.com/AnaisG14)
 - [Tharun Rajeev](https://github.com/TharunRajeev/)
+- [Abed Ouda (asqalani)](https://github.com/Asqalani112)
 - [Kunga Derick Abongho](https://github.com/Dericko681)
 - [Stefano Fratello](https://github.com/sterik000)
 - [Linda Jennings](https://github.com/lindaJennings)
