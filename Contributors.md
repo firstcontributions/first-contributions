@@ -81,6 +81,7 @@
  -[Omprakash Kadur](https://github.com/OmprakashKadur)
  -[Atsu-Taiyo] (https://github.com/Atsu-Taiyo)
  -[sjgithubber](https://github.com/sjgithubber)
+ -[Stefan Nadler](https://github.com/ststnadle)
  -[daitougoose](why not see me )
  -[Ben Samy] (https://github.com/b33ni3)
  -[Yin Heaven](https://github.com/YinHeaven)
