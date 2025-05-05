@@ -2026,6 +2026,7 @@ Matthew Burgos
 - [Siyu Fang](https://github.com/FsyJerryDev)
 - [B1lol-dev](https://github.com/b1lol-dev)
 - [Kavya Yamsani](https://github.com/ykavya5)
+- [Anay Padhye](https://github.com/AnayP99)
 - [Ryan Dallimore](https://github.com/rdallim2)
 - [Tim the First](https://github.com/tjr214) # Thank you!
 - [jikrish](https://github.com/jikrish)
