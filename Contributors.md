@@ -15,6 +15,7 @@
  - [Ajinkya Nikam](https://github.com/Jinkz04)
  - Maurizio
  - [RJangir] (https://github.com/Rjang1212)
+ - [YihangJin] (https://github.com/GYihang)
  - [Roberto Ayres](https://github.com/roberto-ayres)
  - [Anasmtaweh] (https://github.com/Anasmtaweh)
  - [Talha Jubaer Prantor](https://github.com/TalhaJubaerPrantor)
