@@ -9,6 +9,7 @@
  - [Musteba Erkan GUNAY](https://github.com/megunay)
  - [Umesh Bhatt](https://github.com/me-hem)
  - [Ajinkya Nikam](https://github.com/Jinkz04)
+ - Maurizio
  - [RJangir] (https://github.com/Rjang1212)
  - [Anasmtaweh] (https://github.com/Anasmtaweh)
  - [Talha Jubaer Prantor](https://github.com/TalhaJubaerPrantor)
