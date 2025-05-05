@@ -622,6 +622,7 @@ Matthew Burgos
 - [Vyshnavi Jammi](https://github.com/vyshnaviJammi)
 - [Donnie Pereira](https://github.com/DonniePereira)
 - [Timon Kayser](https://github.com/txmxn)
+- [Kento Murai](https://github.com/kenty-25)
 - [Rahul Bhujbal](https://github.com/Rahul9766)
 - [Ayush Jadaun](https://github.com/ayush-jadaun)
 - [Karuna Nikam](https://github.com/krunanikam)
