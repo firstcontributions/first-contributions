@@ -2635,4 +2635,6 @@ Matthew Burgos
 - [Colin Frerichs](https://github.com/colinfrerichs)
 - [vencordthemer](https://github.com/vencordthemer)
 - [George C Ward](https://github.com/gcward18)
+- Kshitiz the first
 - [Anasazx] (https://github.com/anasazzz)
+>>>>>>> f8ab027aedcfaf4c2f01e69ea8040bcfb277344b
