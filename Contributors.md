@@ -1482,6 +1482,7 @@ Matthew Burgos
 - Egor Kravchenko
 - [Enzo](https://github.com/FRAIOLIenzo)
 - [mohammadanas51](https://github.com/mohammadanas51)
+- [Neil Foxcroft](https://github.com/neilfoxcroft)
 - [isaacbelles](https://github.com/isaacbelles)
 - [Shoaib Shuja](https://github.com/ShoaibShuja)
 - [brunoblaise](https://github.com/brunoblaise)
