@@ -1,5 +1,6 @@
  # Contributors
  - [Erdem Ceylan] (https://github.com/erdem-cc)
+ - [Aryan Bhatiya](https://github.com/aryan-bhatiya)
   - [Durga Prasad](https://github.com/prasad-bigdp)
   - [Saba Siddique](https://github.com/sabasiddique1)
  - [Mateusz Sopyla](https://github.com/Sakii470) 
