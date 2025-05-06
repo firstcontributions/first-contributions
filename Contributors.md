@@ -2641,3 +2641,4 @@ Matthew Burgos
 - [Anasazx] (https://github.com/anasazzz)
 - [Hanz Cocchi] (https://github.com/hanzcg)
 - [Kotaro Fujii](https://github.com/kotarofu)
+- [Sanskriti Agarwal](https://github.com/SANSKRITI-2004)
