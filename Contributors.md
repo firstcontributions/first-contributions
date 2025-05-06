@@ -2637,3 +2637,4 @@ Matthew Burgos
 - [vencordthemer](https://github.com/vencordthemer)
 - [George C Ward](https://github.com/gcward18)
 - [Anasazx] (https://github.com/anasazzz)
+- [Hanz Cocchi] (https://github.com/hanzcg)
