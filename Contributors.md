@@ -70,6 +70,7 @@
  -[Amrutha Varshini](https://github.com/Varshini1905)
  - [AKG99](https://github.com/akg99)
  - [Jomkit Jujaroen](https://github.com/Jomkit)
+ - [Vítor Henrique](https://github.com/Vitorhrf)
  - [Rahul Sharma] (https://github.com/rahulDNS)
  - [Willy Agusta](https://github.com/willyagusta)
  -[vivekananda](https://github.com/vivek4566)
