@@ -668,6 +668,7 @@ Matthew Burgos
 - [RAGHUTTAMA K G](https://github.com/RAGHUTTAMA-DEV)
 - [Adrian Guerra](https://github.com/adie9)
 - [Vishwas Sharma](https://github.com/vishwasshar)
+- [Aldo Jure](https://github.com/AldoJure)
 - [xFooFoo](https://github.com/xFooFoo)
 - [whynot1963](https://github.com/whynot1963)
 - [ISOTOPE | THEMBA](https://github.com/Goitseone-Themba)
