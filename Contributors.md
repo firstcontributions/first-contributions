@@ -2660,3 +2660,4 @@ Matthew Burgos
 - [Muneer Hashmat](https://github.com/MuneerHashmat)
 - [Kotaro Fujii](https://github.com/kotarofu)
 - [Mario Ivan Wijaya Tanata] (https://github.com/Mario-Ivan)
+- [HitTheRhythm](https://github.com/HitTheRhythm)
