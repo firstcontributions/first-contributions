@@ -1616,6 +1616,7 @@ Matthew Burgos
 - [Jason Alvarez](https://github.com/jason-alvarez-data)
 - [Sylvain L](https://github.com/sylvain-lec)
 - [Shubham Dhama](https://github.com/shubhamdhama108)
+- [Arnau Cribillers](https://github.com/cribiking)
 - [Danyal Ejaz](https://github.com/danyalejaz)
 - [João Inacio](https://github.com/J-Inacio)
 - [AFRA A](https://github.com/Afrah4331)
