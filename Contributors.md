@@ -2666,3 +2666,4 @@ Matthew Burgos
 - [Kotaro Fujii](https://github.com/kotarofu)
 - [Mario Ivan Wijaya Tanata] (https://github.com/Mario-Ivan)
 - [HitTheRhythm](https://github.com/HitTheRhythm)
+- [Edward Li] (https://github.com/Edwards-Github)
