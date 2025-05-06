@@ -36,6 +36,7 @@
  - [John Mapunda](https://johnmapunda.com)
  - [Amaan Khan](https://github.com/amaan-19)
  - [Vivek Tripathi](https://github.com/vivektripatthi)
+ - [Rodrigo Maciel](https://github.com/devrodrigorpm)
  - [Kiran Kumar Boinapally](https://github.com/kiranraoboinapally)
  - [Festus Sabu](https://github.com/festussabu)
  - [Astrid Angelene Setio]
