@@ -500,6 +500,7 @@ Matthew Burgos
 - [Yashi Sharma](https://github.com/yashi-04)
 - [Ishwari Dole](https://github.com/IshwariDole/first-contributions)
 - [Chasang Tsering Bhutia](https://github.com/ChasangBhutia)
+- [Ali Banijamali](https://github.com/alibnj)
 - [Oolazile](https://github.com/Oolazile)
 - [Eh Masuk](https://github.com/ehmasuk)
 - [Mattias](https://github.com/mattiasstrom)
