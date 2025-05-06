@@ -2647,4 +2647,5 @@ Matthew Burgos
 - [George C Ward](https://github.com/gcward18)
 - [Anasazx] (https://github.com/anasazzz)
 - [Hanz Cocchi] (https://github.com/hanzcg)
+- [Cole St John] (https://github.com/cole-st-john)
 - [Kotaro Fujii](https://github.com/kotarofu)
