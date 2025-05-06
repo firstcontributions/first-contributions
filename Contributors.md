@@ -3,6 +3,7 @@
   - [Durga Prasad](https://github.com/prasad-bigdp)
  - [Mateusz Sopyla](https://github.com/Sakii470) 
  - Anastasia
+ - LOL
  - [Shravani Gaikwad](https://github.com/shrav84)
  - [Hans Guillen] (https://github.com/GuiH823)
  - [Katy Frances A](https://github.com/KatyFrancesA)
