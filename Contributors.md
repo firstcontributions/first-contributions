@@ -2648,4 +2648,5 @@ Matthew Burgos
 - [Anasazx] (https://github.com/anasazzz)
 - [Hanz Cocchi] (https://github.com/hanzcg)
 - [Cole St John] (https://github.com/cole-st-john)
+- [Muneer Hashmat](https://github.com/MuneerHashmat)
 - [Kotaro Fujii](https://github.com/kotarofu)
