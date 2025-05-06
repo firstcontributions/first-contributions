@@ -42,6 +42,7 @@
  - [Vivek Tripathi](https://github.com/vivektripatthi)
  - [Rodrigo Maciel](https://github.com/devrodrigorpm)
  - [Kiran Kumar Boinapally](https://github.com/kiranraoboinapally)
+ - [Kuldeep Parmar](https://github.com/kuldeeparmar)
  - [Festus Sabu](https://github.com/festussabu)
  - [Astrid Angelene Setio]
  - [Balamurugan R](https://github.com/Balamurugan-1000)
