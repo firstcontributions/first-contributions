@@ -1078,6 +1078,7 @@ Matthew Burgos
 - [Pardhu Mattupalli](https://github.com/Parlynx1)
 - [shubham goyal](https://github.com/shubgoyal23)
 - [Sankalp Yerigeri](https://github.com/SankalpYerigeri)
+- [Giuseppe Di Sanza](https://github.com/peppe0709)
 - [Peleg Ben Barak](https://github.com/peleg-bb)
 - [idekwid](https://github.com/idekwid)
 - [AjiHsu](https://github.com/AjiHsu)
