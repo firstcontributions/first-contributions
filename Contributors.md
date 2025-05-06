@@ -401,6 +401,7 @@ Matthew Burgos
 - [Angelo Camargo](https://github.com/anglobox)
 - [Deron Hutchinson](https://github.com/Gitty-3ps)
 - [Youzi2233](https://github.com/Youzi2233)
+- [ryuki41](https://github.com/ryuki41)
 - [Tamilarasan](https://github.com/tamizhasn)
 - [Sai Krishna Kotha](https://github.com/sai-krishna-kotha)
 - [Meet Mehta](https://github.com/MeetInCode)
