@@ -4,6 +4,7 @@
   - [Saba Siddique](https://github.com/sabasiddique1)
  - [Mateusz Sopyla](https://github.com/Sakii470) 
  - Anastasia
+ - Đắc Minh ( https://github.com/Duck-Minh-D )
  - [Shravani Gaikwad](https://github.com/shrav84)
  - [Hans Guillen] (https://github.com/GuiH823)
  - [AjayS] (https://github.com/ajaykuma)
