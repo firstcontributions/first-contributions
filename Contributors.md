@@ -253,6 +253,7 @@ e-Jo
 - [Aldo Rodriguez](https://github.com/aldorodz)
 - [Josh Greenberg](https://github.com/savoi)
 - [Dawxay](https://github.com/Dawxay)
+- [Simon Chernyk](https://github.com/siimons)
 - [Jeferson Schmitz](https://github.com/jefersonschmitz)
 - [Amit](https://github.com/Singhamit911)
 - [Harsimran jeet Singh](https://github.com/h4harsimran)
