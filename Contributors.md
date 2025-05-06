@@ -19,6 +19,7 @@
  - [Musteba Erkan GUNAY](https://github.com/megunay)
  - [Umesh Bhatt](https://github.com/me-hem)
  - [Ajinkya Nikam](https://github.com/Jinkz04)
+ - [Shruthi Kuraparthy] (https://github.com/shruthi6reddy)
  - Maurizio
  - [RJangir] (https://github.com/Rjang1212)
  - [YihangJin] (https://github.com/GYihang)
