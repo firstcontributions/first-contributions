@@ -5,6 +5,7 @@
  - Anastasia
  - [Shravani Gaikwad](https://github.com/shrav84)
  - [Hans Guillen] (https://github.com/GuiH823)
+ - [AjayS] (https://github.com/ajaykuma)
  - [Katy Frances A](https://github.com/KatyFrancesA)
  - [Nabina Mallik](https://thenabinamallik.vercel.app)
  - [Shubham Garh](https://github.com/devac123)
