@@ -54,7 +54,7 @@
 - [Carter O&#39;Leary](https://github.com/carter-oleary)
 - [Sufyan-00](https://github.com/Sufyan-00)
 - [AwooPH](https://github.com/AwooPH)
-- [[naveenkumar]()] (https://github.com/naveenkumarr-onyx)
+- [naveenkumar](https://github.com/naveenkumarr-onyx)
 - [Ruslan Balkovyy] (https://github.com/ImmortalF)
 - [Priyadarshini Nadar](https://github.com/walkrantrolls)
 - [Mohrip] (https://github.com/Mohrip)
