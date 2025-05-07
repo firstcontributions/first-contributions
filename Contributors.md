@@ -1,4 +1,5 @@
  # Contributors
+   {pragnyan ramtha made a contribution}
  - [Amir Razakov](https://github.com/ByteHasher)
  - [0x7c00](https://github.com/alex-robert-fr/)
  - [Erdem Ceylan] (https://github.com/erdem-cc)
