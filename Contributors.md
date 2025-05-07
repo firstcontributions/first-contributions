@@ -1,6 +1,7 @@
  # Contributors
  - [Amir Razakov](https://github.com/ByteHasher)
  - [0x7c00](https://github.com/alex-robert-fr/)
+ - [Ibrahim Sezer](https://github.com/ibrahimsezer)
  - [Erdem Ceylan] (https://github.com/erdem-cc)
  - [Aryan Bhatiya](https://github.com/aryan-bhatiya)
   - [Durga Prasad](https://github.com/prasad-bigdp)
