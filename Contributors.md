@@ -12,6 +12,7 @@
  - [Mateusz Sopyla](https://github.com/Sakii470) 
  - Shintaro Kikuta
  - Anastasia
+ - [hanyudeye](https://github.com/hanyudeye)
  - [Shravani Gaikwad](https://github.com/shrav84)
  - [Daniel Widjaja](https://github.com/Danwidj)
  - [ZeruZeruZee](https://github.com/ZeruZeruZee)
