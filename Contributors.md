@@ -8,6 +8,7 @@
  - [Mateusz Sopyla](https://github.com/Sakii470) 
  - Anastasia
  - [Shravani Gaikwad](https://github.com/shrav84)
+ - [ZeruZeruZee](https://github.com/ZeruZeruZee)
  - [Manu-kun](https://github.com/Manu-kun)
  - [Hans Guillen] (https://github.com/GuiH823)
  - [AjayS] (https://github.com/ajaykuma)
