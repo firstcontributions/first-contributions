@@ -2670,3 +2670,4 @@ Matthew Burgos
 - [HitTheRhythm](https://github.com/HitTheRhythm)
 - [Edward Li] (https://github.com/Edwards-Github)
 - [Himani Desai] (https://github.com/HimaniDesai)
+- [Andrii Buha](https://github.com/Asbuga)
