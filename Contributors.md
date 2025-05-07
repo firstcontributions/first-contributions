@@ -8,6 +8,8 @@
   [charudutt pachori] (https://github.com/charudutt358)
  - [Mateusz Sopyla](https://github.com/Sakii470) 
  - Anastasia
+ LOL
+- [Shortest Program Ever](https://github.com/shortestprogram)
  - [Shravani Gaikwad](https://github.com/shrav84)
  - [Daniel Widjaja](https://github.com/Danwidj)
  - [ZeruZeruZee](https://github.com/ZeruZeruZee)
