@@ -22,6 +22,7 @@
  - [Anurag Bhardwaj](https://github.com/theanuraaag)
  - [Nikhil Kumar](https://github.com/Nick1200000)
  - [Musteba Erkan GUNAY](https://github.com/megunay)
+ -[pragnyan ramtha](https://github.com/pragnyanramtha) 
  - [Umesh Bhatt](https://github.com/me-hem)
  - [Ajinkya Nikam](https://github.com/Jinkz04)
  - [Shruthi Kuraparthy] (https://github.com/shruthi6reddy)
