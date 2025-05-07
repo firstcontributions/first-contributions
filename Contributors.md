@@ -9,6 +9,7 @@
  - [Mateusz Sopyla](https://github.com/Sakii470) 
  - Shintaro Kikuta
  - Anastasia
+ - Đắc Minh ( https://github.com/Duck-Minh-D )
  - [Shravani Gaikwad](https://github.com/shrav84)
  - [Daniel Widjaja](https://github.com/Danwidj)
  - [ZeruZeruZee](https://github.com/ZeruZeruZee)
