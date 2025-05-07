@@ -2671,3 +2671,4 @@ Matthew Burgos
 - [Edward Li] (https://github.com/Edwards-Github)
 - [Himani Desai] (https://github.com/HimaniDesai)
 - [Andrii Buha](https://github.com/Asbuga)
+- Juanita Gloriann Bakara
