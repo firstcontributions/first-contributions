@@ -7,6 +7,7 @@
   - [Saba Siddique](https://github.com/sabasiddique1)
   [charudutt pachori] (https://github.com/charudutt358)
  - [Mateusz Sopyla](https://github.com/Sakii470) 
+ - Shintaro Kikuta
  - Anastasia
  - [Shravani Gaikwad](https://github.com/shrav84)
  - [Daniel Widjaja](https://github.com/Danwidj)
