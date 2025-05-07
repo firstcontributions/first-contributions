@@ -2688,3 +2688,4 @@ Matthew Burgos
 - Yash Mishra  
 - Yikuanzz 
 - [selysse] (https://github.com/selysse)
+- [Leticia Campos](https://github.com/leticiacamposs2)
