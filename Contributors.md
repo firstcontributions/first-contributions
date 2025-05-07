@@ -112,6 +112,7 @@
  -[Yin Heaven](https://github.com/YinHeaven)
 Anshi
 -[Dhriti Roy]
+-[Pranjal kusnake]
 - [Bryan Joy] (https://github.com/BlitzelR)
 - [Balaji Jayakumar](https://github.com/Balaji93bobby)
  -[George Tannous](https://github.com/GeorgeTannous98) 
