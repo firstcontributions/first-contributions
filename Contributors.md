@@ -1,5 +1,4 @@
  # Contributors
-   {pragnyan ramtha made a contribution}
  - [Amir Razakov](https://github.com/ByteHasher)
  - [0x7c00](https://github.com/alex-robert-fr/)
  - [Erdem Ceylan] (https://github.com/erdem-cc)
@@ -22,6 +21,7 @@
  - [Anurag Bhardwaj](https://github.com/theanuraaag)
  - [Nikhil Kumar](https://github.com/Nick1200000)
  - [Musteba Erkan GUNAY](https://github.com/megunay)
+ -[pragnyan ramtha](https://github.com/pragnyanramtha) 
  - [Umesh Bhatt](https://github.com/me-hem)
  - [Ajinkya Nikam](https://github.com/Jinkz04)
  - [Shruthi Kuraparthy] (https://github.com/shruthi6reddy)
