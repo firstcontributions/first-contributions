@@ -1,5 +1,6 @@
  # Contributors
  - [Amir Razakov](https://github.com/ByteHasher)
+ - [Archie Boswell](https://github.com/archiebos)
  - [0x7c00](https://github.com/alex-robert-fr/)
  - [Ibrahim Sezer](https://github.com/ibrahimsezer)
  - [Erdem Ceylan] (https://github.com/erdem-cc)
