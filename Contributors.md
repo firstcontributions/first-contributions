@@ -1708,7 +1708,6 @@ Matthew Burgos
 - [Steve Armstrong](https://github.com/W0474997SteveArmstrong)
 - [Andres Riaño](https://github.com/afrianodev)
 - [Irksomehails](https://github.com/irksomehails)
-- [Aanya Srivastava] (https://github.com/aanyaSrivastava)
 - [Isabela Magalhães](https://github.com/isarbela)
 - [HiParham](https://github.com/hiparham)
 - [John Caleb ⚡](https://github.com/thejohncaleb)
