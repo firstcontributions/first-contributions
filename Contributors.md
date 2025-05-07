@@ -222,6 +222,7 @@ Anshi
 e-Jo
 - Eric Manuel Rosales
 - [mmhd]
+- [DDitter94](https://github.com/DDiego94)
 - [m1tani](https://github.com/m1tani)
 - [ZT-25](https://github.com/ZT-25)
 - [Francis Rey](https://github.com/frb21)
