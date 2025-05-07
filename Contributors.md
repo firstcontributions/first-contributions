@@ -2669,3 +2669,4 @@ Matthew Burgos
 - [Mario Ivan Wijaya Tanata] (https://github.com/Mario-Ivan)
 - [HitTheRhythm](https://github.com/HitTheRhythm)
 - [Edward Li] (https://github.com/Edwards-Github)
+- [Himani Desai] (https://github.com/HimaniDesai)
