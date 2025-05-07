@@ -1119,6 +1119,7 @@ Matthew Burgos
 - [Vardararo](https://github.com/Vardararo)
 - [Fuad Hasan](https://github.com/itsfuad)
 - [meenakshiruia](https://github.com/meenakshiruia)
+- [gleisomSilva](https://github.com/Gleison-Silva-02)
 - [Joshua Luca](https://github.com/joshluca98)
 - [Yhlas Yazmyrad](https://github.com/yazmyrad)
 - [Sean Calderon](https://github.com/rimorgin)
