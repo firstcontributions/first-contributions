@@ -2691,4 +2691,5 @@ Matthew Burgos
 - Yikuanzz 
 - [selysse] (https://github.com/selysse)
 - [Leticia Campos](https://github.com/leticiacamposs2)
+- [Gustavo Freitas](https://github.com/freitasgustavos)
 - [Wee Zi Hao](https://github.com/27July)
