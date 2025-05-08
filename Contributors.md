@@ -28,6 +28,7 @@
  - [Daniel Widjaja](https://github.com/Danwidj)
  - [ZeruZeruZee](https://github.com/ZeruZeruZee)
  - [Divyam Sharma](https://github.com/Divyamsharma-18)
+ - [Shanice Thompson](https://github.com/Shanice826?tab=repositories)
  - [zo3biibra](https://github.com/zo3biibra)
  - [Manu-kun](https://github.com/Manu-kun)
  - [Hans Guillen] (https://github.com/GuiH823)
