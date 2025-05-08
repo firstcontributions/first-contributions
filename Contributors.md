@@ -1,7 +1,10 @@
  # Contributors
+
  - [RandyGamplays](https://github.com/RandyZam04)
+
  - [Free Willy](https://github.com/freewillyone) Jesse, you're my friend
  - [Juan Pablo Rovayo Delgado](https://github.com/Pablitord)
+ - [Arturo Silva](https://github.com/rtr-slv)
  - [Akshay Mahto](https://github.com/akshaymahto)
  - [Mukhammad Kharis](https://github.com/mkharis)
  - [Alex Santos](https://github.com/alexaito26) LEBRON JAMES CRISTIANO RONALDO
