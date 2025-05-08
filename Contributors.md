@@ -97,6 +97,7 @@
  -[sigallage](https://github.com/sigallage)
  - [Zahra7] (https://github.com/zahra7)
  -[Uday Dhir](https://github.com/Udaylol)
+ - [SimonHabte] (https://github.com/SimonProjekt)
  - [Edwin Herbert Khiat](https://github.com/Kuuhaku-web)
  - [Moideen Shihab](https://github.com/shihabJ91)
  - [IRjSI](https://github.com/IRjSI)
