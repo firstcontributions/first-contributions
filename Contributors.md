@@ -74,6 +74,7 @@
  - [Astrid Angelene Setio]
  - [Balamurugan R](https://github.com/Balamurugan-1000)
  -[Moulik Bose]
+- [Johan0k en ig](https://github.com/Johan0k)
  - [Swastik](https://github.com/swastikiscoding)
  - [Elnar Ismael (0quaaD)](https://github.com/0quaaD)
  - [Mohammed Farhan](https://github.com/TheRealFarhanDev)
