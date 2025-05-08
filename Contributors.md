@@ -1,5 +1,6 @@
  # Contributors
  - [Free Willy](https://github.com/freewillyone) Jesse, you're my friend
+ - [Mukhammad Kharis](https://github.com/mkharis)
  - [Amir Razakov](https://github.com/ByteHasher)
  - [Archie Boswell](https://github.com/archiebos)
  - [0x7c00](https://github.com/alex-robert-fr/)
