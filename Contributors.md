@@ -2700,3 +2700,4 @@ Matthew Burgos
 - zhangslq
 - [Just Albert Code](https://github.com/justalbertcode)
 - [Samyak](https://github.com/samyakjain-1)
+- [Jai Ashutosh Singh](https://github.com/JaiAshutoshSingh1)
