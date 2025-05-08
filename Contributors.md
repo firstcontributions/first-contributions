@@ -1,8 +1,13 @@
  # Contributors
- - [Arturo Silva](https://github.com/rtr-slv)
+
+ - [RandyGamplays](https://github.com/RandyZam04)
+
  - [Free Willy](https://github.com/freewillyone) Jesse, you're my friend
+ - [Juan Pablo Rovayo Delgado](https://github.com/Pablitord)
+ - [Arturo Silva](https://github.com/rtr-slv)
  - [Akshay Mahto](https://github.com/akshaymahto)
  - [Mukhammad Kharis](https://github.com/mkharis)
+ - [Alex Santos](https://github.com/alexaito26) LEBRON JAMES CRISTIANO RONALDO
  - [Amir Razakov](https://github.com/ByteHasher)
  - [Archie Boswell](https://github.com/archiebos)
  - [0x7c00](https://github.com/alex-robert-fr/)
@@ -12,6 +17,7 @@
  - [Aryan Bhatiya](https://github.com/aryan-bhatiya)
   - [Durga Prasad](https://github.com/prasad-bigdp)
   - [Saba Siddique](https://github.com/sabasiddique1)
+ - [Sury Delgado](https://github.com/surydelgado)
   [charudutt pachori] (https://github.com/charudutt358)
  - [Mateusz Sopyla](https://github.com/Sakii470) 
  - Shintaro Kikuta
@@ -506,6 +512,7 @@ Matthew Burgos
 - [Hardy Scheel](https://github.com/hardyscheel)
 - [Rob Clark] (https://github.com/robthomasclark)
 - [SomeRandomFella] (https://github.com/SomeRandomFella)
+- [Davi Moreira Fuzatto] (https://github.com/davimf721)
 - [Nikhil Adapureddy] (https://github.com/nikkhil9)
 - [Anushree S K] (https://github.com/anushree1206/)
 - [Saida] (https://github.com/sasasaida)
