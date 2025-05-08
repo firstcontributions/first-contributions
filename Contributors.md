@@ -3,6 +3,7 @@
  - [Amir Razakov](https://github.com/ByteHasher)
  - [Archie Boswell](https://github.com/archiebos)
  - [0x7c00](https://github.com/alex-robert-fr/)
+ - [Animatrix3253](https://github.com/animatrix3253)
  - [Ibrahim Sezer](https://github.com/ibrahimsezer)
  - [Erdem Ceylan] (https://github.com/erdem-cc)
  - [Aryan Bhatiya](https://github.com/aryan-bhatiya)
@@ -35,6 +36,7 @@
  - Maurizio
  - [RJangir] (https://github.com/Rjang1212)
  - [YihangJin] (https://github.com/GYihang)
+ - [IngenieroVictorAlonzo] (https://github.com/IngenieroVictorAlonzo)
  - [Roberto Ayres](https://github.com/roberto-ayres)
  - [Anasmtaweh] (https://github.com/Anasmtaweh)
  - [Talha Jubaer Prantor](https://github.com/TalhaJubaerPrantor)
@@ -2690,3 +2692,4 @@ Matthew Burgos
 - [selysse] (https://github.com/selysse)
 - [Leticia Campos](https://github.com/leticiacamposs2)
 - [Gustavo Freitas](https://github.com/freitasgustavos)
+- [Wee Zi Hao](https://github.com/27July)
