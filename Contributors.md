@@ -2712,3 +2712,4 @@ Matthew Burgos
 - [miaoler](https://github.com/miaoler)
 - [Kash](https://github.com/kash-jay)
 - [SpikeTheDragon](https://github.com/SpikeTheDragon40k)
+- [Miguel Zambrano](https://github.com/miguelzambranom)
