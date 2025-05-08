@@ -1,6 +1,7 @@
  # Contributors
  - [RandyGamplays](https://github.com/RandyZam04)
  - [Free Willy](https://github.com/freewillyone) Jesse, you're my friend
+ - [Juan Pablo Rovayo Delgado](https://github.com/Pablitord)
  - [Akshay Mahto](https://github.com/akshaymahto)
  - [Mukhammad Kharis](https://github.com/mkharis)
  - [Amir Razakov](https://github.com/ByteHasher)
