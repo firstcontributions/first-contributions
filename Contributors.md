@@ -17,6 +17,7 @@
  - [Sury Delgado](https://github.com/surydelgado)
   [charudutt pachori] (https://github.com/charudutt358)
  - [Mateusz Sopyla](https://github.com/Sakii470) 
+  - [Arturo Silva](https://github.com/rtr-slv)
  - Shintaro Kikuta
  - Anastasia
  - [hanyudeye](https://github.com/hanyudeye)
