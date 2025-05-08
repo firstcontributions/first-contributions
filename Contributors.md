@@ -52,6 +52,7 @@
  - {Bhargav made his 1st sucessful contribution}
  - [Javid Hussain Fazaeli](https://github.com/luckyjavid)
  - [Ashutosh Singh](https://github.com/AshutoshSinghJ)this
+ - [ajaydewangan](https://github.com/ajaydewangan1100)
  - [Avinash Kumar Learning GitHub]
  - [Nizan Naor]
  - [Afroz](https://github.com/afroz000)
