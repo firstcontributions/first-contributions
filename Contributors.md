@@ -505,6 +505,7 @@ Matthew Burgos
 - [Hardy Scheel](https://github.com/hardyscheel)
 - [Rob Clark] (https://github.com/robthomasclark)
 - [SomeRandomFella] (https://github.com/SomeRandomFella)
+- [Davi Moreira Fuzatto] (https://github.com/davimf721)
 - [Nikhil Adapureddy] (https://github.com/nikkhil9)
 - [Anushree S K] (https://github.com/anushree1206/)
 - [Saida] (https://github.com/sasasaida)
