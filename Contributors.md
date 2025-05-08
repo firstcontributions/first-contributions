@@ -147,6 +147,7 @@ Anshi
  -[Deepak Sharma](https://github.com/DeepakSharma46)
  - [regiiik]
   sowmya gandhamaneni
+- [Rachit Singh](https://github.com/RachitSinghh)
 - [Mahesh Badampudi](https://github.com/badampudimahesh2005)
  -[Phanindra Naralasetty] (https://github.com/naralasetty99)
  -[Anne-Okingo](https://github.com/Anne-Okingo)
