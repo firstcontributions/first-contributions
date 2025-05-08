@@ -15,6 +15,7 @@
  - Shintaro Kikuta
  - Anastasia
  - [hanyudeye](https://github.com/hanyudeye)
+ - [Rajdeep Keshri](https://github.com/Rajdeep4586)
  - [Shravani Gaikwad](https://github.com/shrav84)
  - [Daniel Widjaja](https://github.com/Danwidj)
  - [ZeruZeruZee](https://github.com/ZeruZeruZee)
