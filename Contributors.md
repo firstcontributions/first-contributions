@@ -1,4 +1,5 @@
  # Contributors
+ - [StraitGhost](https://github.com/StraitGhost)
  - [Free Willy](https://github.com/freewillyone) Jesse, you're my friend
  - [Akshay Mahto](https://github.com/akshaymahto)
  - [Mukhammad Kharis](https://github.com/mkharis)
