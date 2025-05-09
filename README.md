@@ -226,6 +226,21 @@ Now submit the pull request.
 
 Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
 
+## Common Mistakes
+
+Here are some common mistakes beginners make when contributing:
+
+- ❌ Forgetting to fork the repository before cloning.
+- ❌ Not creating a new branch before making changes (working on `main` directly).
+- ❌ Failing to pull the latest changes from the upstream before pushing.
+- ❌ Skipping `git add` before `git commit`, resulting in no changes being committed.
+- ❌ Using unclear or non-descriptive commit messages.
+- ❌ Editing files not relevant to the contribution (e.g., deleting or overwriting others' entries).
+- ❌ Submitting a pull request without checking for merge conflicts.
+
+> ✅ **Tip**: Always follow the tutorial carefully, and double-check each step before pushing your changes.
+
+
 ## Where to go from here?
 
 Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll often encounter as a contributor!
