@@ -226,6 +226,26 @@ Now submit the pull request.
 
 Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
 
+
+## Using GitHub Desktop (Alternative to Git CLI)
+
+If you're not comfortable with the command line, you can contribute using **GitHub Desktop**, a user-friendly GUI tool.
+
+Follow these steps to contribute:
+
+1. Download GitHub Desktop from [desktop.github.com](https://desktop.github.com) and install it.
+2. Click **"Clone a repository from the Internet"**, paste the URL of your forked repository, and choose a local path.
+3. Once cloned, click on **Current Branch > New Branch** and name your branch (e.g., `add-username`).
+4. Open the project folder in your text editor (e.g., VS Code) and make your changes (e.g., edit `Contributors.md`).
+5. After saving the file, return to GitHub Desktop. You'll see your changes listed in the left panel.
+6. Add a commit message like: `Add YourName to Contributors list`, then click **Commit to branch-name**.
+7. Click **Push origin** to upload your changes to GitHub.
+8. Go to your repository on GitHub.com and click **Compare & pull request**.
+9. Submit the pull request and wait for it to be reviewed and merged.
+
+> 💡 Tip: You can sync with the original repository by adding it as "upstream" and pulling changes.
+
+
 ## Where to go from here?
 
 Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll often encounter as a contributor!
