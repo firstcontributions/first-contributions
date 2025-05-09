@@ -2,6 +2,7 @@
  - [Rabbi Islam Rony](https://github.com/rabbiislamrony)
  - [RandyGamplays](https://github.com/RandyZam04)
  - [Free Willy](https://github.com/freewillyone) Jesse, you're my friend
+ - [Dac Minh](https://github.com/dac-minh)
  - [Juan Pablo Rovayo Delgado](https://github.com/Pablitord)
  - [Akshay Mahto](https://github.com/akshaymahto)
  - [Mukhammad Kharis](https://github.com/mkharis)
