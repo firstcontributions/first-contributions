@@ -1,5 +1,6 @@
  # Contributors
   [ReNothingg](https://github.com/ReNothingg)
+ - [Rahul Sharma](https://github.com/DeF4lt-Cap10N)
  - [Harsh kumar jadon](https://github.com/Harsh-jadoun)
  - [Shubiksha](https://github.com/Shubiks)
  - [Anjayy Mabar](https://github.com/yoksipmksi)
