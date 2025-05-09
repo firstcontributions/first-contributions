@@ -1,10 +1,12 @@
  # Contributors
+ - [Harsh kumar jadon](https://github.com/Harsh-jadoun)
  - [Shubiksha](https://github.com/Shubiks)
  - [Anjayy Mabar](https://github.com/yoksipmksi)
   -[Mohammad Ahmad](https://github.com/MohammadAh2002)
  -[Pathan Lakir khan](https://github.com/Lakirkhan)
  - [Rabbi Islam Rony](https://github.com/rabbiislamrony)
  - [Divyansh Goyal](https://github.com/divyanshgoyal777)
+ - [IamJayPrakash](https://github.com/IamJayPrakash)
  - [RandyGamplays](https://github.com/RandyZam04)
  - [Free Willy](https://github.com/freewillyone) Jesse, you're my friend
  - [Dac Minh](https://github.com/dac-minh)
@@ -46,6 +48,7 @@
  - [Shubham Garh](https://github.com/devac123)
  - [Tyler Taylor](https://github.com/UnstablePayload)
  - [Anurag Bhardwaj](https://github.com/theanuraaag)
+ - [Akshaya R] (https://github.com/akshaya-rrn)
  - [Nikhil Kumar](https://github.com/Nick1200000)
  - [Musteba Erkan GUNAY](https://github.com/megunay)
  -[pragnyan ramtha](https://github.com/pragnyanramtha) 
@@ -193,6 +196,7 @@ Anshi
 - [Joruji Tsuchiya](https://github.com/joruji-tsuchiya)
 - [siddy09re](https://github.com/siddy09re)
 - [Lovalakshmi](https://github.com/lovalakshmi080223)
+-[mohd faizan](https://github.com/faizan1250)
 - [rahmatanko](https://github.com/rahmatanko)
 - [Ajit Sargar](https://github.com/sargar-ajit)
 -[Aadarsh mishra]
@@ -2737,3 +2741,4 @@ Matthew Burgos
 - [Miguel Zambrano](https://github.com/miguelzambranom)
 - [ATOMIC09](https://github.com/ATOMIC09)
 - [Jina Walbourne] (https://github.com/jinawalbourne)
+- [Manasvi Panda](https://github.com/Manasvipanda)
