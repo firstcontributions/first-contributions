@@ -722,7 +722,6 @@ Matthew Burgos
 - [KALEAB II](https://github.com/kaleab49)
 - [Ioannis Christou] (https://github.com/yianchristou)
 - [Kenny92dev](https://github.com/Kenny92dev)
-- [Justin Klava](https://github.com/JustinKlava)
 - [Silvia-Zh](https://github.com/Silvia-Zh)
 - [newtau] (https://github.com/newtau)
 - [Khyxer](https://github.com/Khyxer)
