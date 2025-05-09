@@ -74,6 +74,7 @@
  - [Marco Calle](https://github.com/mcf331)
  - [Ariel Vazquez](https://github.com/VazquezAriel)
  - [Luke Busfield](https://github.com/LukeBusfield) hOI
+ - [Phinehas Macharia] (https://github.com/MachariaP)
  - [John Mapunda](https://johnmapunda.com)
  - [Amaan Khan](https://github.com/amaan-19)
  - [Vivek Tripathi](https://github.com/vivektripatthi)
