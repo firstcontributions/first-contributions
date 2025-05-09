@@ -34,6 +34,7 @@
  - [Manu-kun](https://github.com/Manu-kun)
  - [Hans Guillen] (https://github.com/GuiH823)
  - [AjayS] (https://github.com/ajaykuma)
+ - [Venkidesh Venu](https://github.com/venkideshVenu)
  - [Katy Frances A](https://github.com/KatyFrancesA)
  - [Nabina Mallik](https://thenabinamallik.vercel.app)
  - [Shubham Garh](https://github.com/devac123)
