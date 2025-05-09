@@ -46,6 +46,7 @@
  - [Shubham Garh](https://github.com/devac123)
  - [Tyler Taylor](https://github.com/UnstablePayload)
  - [Anurag Bhardwaj](https://github.com/theanuraaag)
+ - [Akshaya R] (https://github.com/akshaya-rrn)
  - [Nikhil Kumar](https://github.com/Nick1200000)
  - [Musteba Erkan GUNAY](https://github.com/megunay)
  -[pragnyan ramtha](https://github.com/pragnyanramtha) 
