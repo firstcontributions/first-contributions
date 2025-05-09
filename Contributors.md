@@ -5,7 +5,9 @@
  - [Juan Pablo Rovayo Delgado](https://github.com/Pablitord)
  - [Akshay Mahto](https://github.com/akshaymahto)
  - [Mukhammad Kharis](https://github.com/mkharis)
- - [Alex Santos](https://github.com/alexaito26) LEBRON JAMES CRISTIANO RONALDO
+ - [Alex Santos](https://github.com/alexaito26) LEBRON JAMES
+Quan Nguyen Minh
+CRISTIANO RONALDO
  - [Mason Naung](https://github.com/masonn99)
  - [Amir Razakov](https://github.com/ByteHasher)
  - [Archie Boswell](https://github.com/archiebos)
