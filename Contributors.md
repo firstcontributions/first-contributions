@@ -5,6 +5,7 @@
  -[Pathan Lakir khan](https://github.com/Lakirkhan)
  - [Rabbi Islam Rony](https://github.com/rabbiislamrony)
  - [Divyansh Goyal](https://github.com/divyanshgoyal777)
+ - [IamJayPrakash](https://github.com/IamJayPrakash)
  - [RandyGamplays](https://github.com/RandyZam04)
  - [Free Willy](https://github.com/freewillyone) Jesse, you're my friend
  - [Dac Minh](https://github.com/dac-minh)
