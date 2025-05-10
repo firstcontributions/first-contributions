@@ -1762,7 +1762,7 @@ Matthew Burgos
 - [Titus James](https://github.com/tj330)
 - [Harsh Verma](https://github.com/hv0911)
 - [Jaytee Majoni](https://github.com/jayteemajoni)
-- [Elif Ş.] (https://github.com/elifsz)
+- [Elif Ş.](https://github.com/elifsz)
 - [eszanon](https://github.com/eszanon)
 - [TejoSaiSwaroop](https://github.com/tejosaiswaroop)
 - [Haj Mohamed👨‍💻](https://github.com/haj8110)
