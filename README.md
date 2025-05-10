@@ -92,7 +92,7 @@
 
 This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 
-_If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
+_If you're not comfortable with the command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
@@ -100,14 +100,14 @@ _If you're not comfortable with command line, [here are tutorials using GUI tool
 
 ## Fork this repository
 
-Fork this repository by clicking on the fork button on the top of this page.
+Fork this repository by clicking on the fork button at the top of this page.
 This will create a copy of this repository in your account.
 
 ## Clone the repository
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button, then on SSH tab and then click the _copy to clipboard_ icon.
+Could you clone the forked repository to your machine? Go to your GitHub account, open the forked repository, click on the code button, then on the SSH tab, and then click the _copy to clipboard_ icon.
 
 Open a terminal and run the following git command:
 
@@ -115,7 +115,7 @@ Open a terminal and run the following git command:
 git clone "url you just copied"
 ```
 
-where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
+where "url you just copied" (without the quotation marks) is the URL to this repository (your fork of this project). Please take a look at the previous steps to obtain the URL.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
@@ -135,7 +135,7 @@ Change to the repository directory on your computer (if you are not already ther
 cd first-contributions
 ```
 
-Now create a branch using the `git switch` command:
+Now, create a branch using the `git switch` command:
 
 ```bash
 git switch -c your-new-branch-name
@@ -162,11 +162,11 @@ git checkout -b your-new-branch-name
 
 ## Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+Now open `Contributors.md` file in a text editor, and add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
-If you go to the project directory and execute the command `git status`, you'll see there are changes.
+If you go to the project directory and execute the command `git status`, you'll see that there are changes.
 
 Add those changes to the branch you just created using the `git add` command:
 
@@ -180,7 +180,7 @@ Now commit those changes using the `git commit` command:
 git commit -m "Add your-name to Contributors list"
 ```
 
-replacing `your-name` with your name.
+Replacing `your-name` with your name.
 
 ## Push changes to GitHub
 
@@ -190,7 +190,7 @@ Push your changes using the command `git push`:
 git push -u origin your-branch-name
 ```
 
-replacing `your-branch-name` with the name of the branch you created earlier.
+Replace `your-branch-name` with the name of the branch you created earlier.
 
 <details>
 <summary> <strong>If you get any errors while pushing, click here:</strong> </summary>
@@ -207,11 +207,11 @@ replacing `your-branch-name` with the name of the branch you created earlier.
   <pre>origin	https://github.com/your-username/your_repo.git (fetch)
   origin	https://github.com/your-username/your_repo.git (push)</pre>
   
-  change it using this command:
+  Change it using this command:
   ```bash
   git remote set-url origin git@github.com:your-username/your_repo.git
   ```
-  Otherwise you'll still get prompted for username and password and get authentication error.
+  Otherwise, you'll still get prompted for username and password and get an authentication error.
 </details>
 
 ## Submit your changes for review
@@ -232,7 +232,7 @@ Congrats! You just completed the standard _fork -> clone -> edit -> pull request
 
 Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io/#social-share).
 
-If you'd like more practice, checkout [code contributions](https://github.com/roshanjossey/code-contributions).
+If you'd like more practice, check out [code contributions](https://github.com/roshanjossey/code-contributions).
 
 Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
 
