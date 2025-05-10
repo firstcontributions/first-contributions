@@ -1801,6 +1801,7 @@ Matthew Burgos
 - [EbertonKM](https://github.com/EbertonKM)
 - [Shayne Geilman](https://github.com/ShayneJG)
 - [Silviya Kolchakova](https://github.com/SilviyaKolchakova)
+- [Luke Lumakin](https://github.com/lukegabriel520)
 - [Aiman](https://github.com/PX201)
 - [Debapriya sengupta](https://github.com/DebapriyaSengupta28)
 - [Samaksh Sethiya](https://github.com/Samaksh22)
