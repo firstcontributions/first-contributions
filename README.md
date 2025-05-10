@@ -160,6 +160,16 @@ git checkout -b your-new-branch-name
 
 </details>
 
+## Access code in Local repository
+
+To open VS code editor in the command line. Use the VS Code shortcut:
+
+```bash
+code .
+```
+
+Or Press Ctrl + Shift + P (Cmd + Shift + P on macOS).
+
 ## Make necessary changes and commit those changes
 
 Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
