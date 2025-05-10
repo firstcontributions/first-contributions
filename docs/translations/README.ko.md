@@ -124,6 +124,8 @@ git push -u origin your-branch-name
 
 첫 기여에 대한 소식을 친구들 및 팔로워에게 [웹 앱](https://firstcontributions.github.io/#social-share)을 통해 공유해보세요.
 
+https://github.com/roshanjossey/code-contributions
+
 이제 다른 프로젝트에도 기여해보세요! 지금 바로 시작할 수 있는 난이도가 낮은 이슈들로 가득찬 목록이 있습니다. [웹앱의 프로젝트 목록](https://firstcontributions.github.io/#project-list)에서 확인해보세요.
 
 ### [추가 자료](../additional-material/translations/Korean/additional-material.ko.md)
