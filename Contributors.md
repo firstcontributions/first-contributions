@@ -7,6 +7,7 @@
  - [Shubiksha](https://github.com/Shubiks)
  - [Anjayy Mabar](https://github.com/yoksipmksi)
  -[Mohammad Ahmad](https://github.com/MohammadAh2002)
+ -[Rahul Shah](https://github.com/NeuralSnax)
  - [Allan Alton](https://github.com/alton47)
  -[Pathan Lakir khan](https://github.com/Lakirkhan)
  - [Rabbi Islam Rony](https://github.com/rabbiislamrony)
