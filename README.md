@@ -88,6 +88,20 @@
 <kbd>[<img title="ភាសាខ្មែរ" alt="ភាសាខ្មែរ" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/kh.svg" width="22">](docs/translations/README.kh.md)</kbd>
 <kbd>[<img title="Morocco" alt="Moroccan Darija" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ma.svg" width="22">](docs/translations/README.ma.md)</kbd>
 
+
+## 📚 Table of Contents
+
+- [Introduction](#first-contributions)
+- [Fork this repository](#fork-this-repository)
+- [Clone the repository](#clone-the-repository)
+- [Create a branch](#create-a-branch)
+- [Make necessary changes and commit those changes](#make-necessary-changes-and-commit-those-changes)
+- [Push changes to GitHub](#push-changes-to-github)
+- [Submit your changes for review](#submit-your-changes-for-review)
+- [Where to go from here?](#where-to-go-from-here)
+- [Tutorials Using Other Tools](#tutorials-using-other-tools)
+
+
 # First Contributions
 
 This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
