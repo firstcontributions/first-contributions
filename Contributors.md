@@ -908,6 +908,7 @@ Matthew Burgos
 - [Yaoke](https://github.com/geeksKK8)
 - [Arjun Manjunath](https://github.com/arjunmnath)
 - [Sabahat](https://github.com/Saba633)
+- [Mer0n1] (https://github.com/Mer0n1)
 - [Eduardo Egydio Shirai](https://github.com/ShiraiEd)
 - [AMG-AA](https://github.com/AMG-AA)
 - [balakumaran-ks](https://github.com/balakumaran-ks)
