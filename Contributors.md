@@ -17,6 +17,7 @@
  - [Free Willy](https://github.com/freewillyone) Jesse, you're my friend
  - [Dac Minh](https://github.com/dac-minh)
  - [Steve Mendeleev](https://github.com/StiopaPopa)
+ - [NegiChahan](https://github.com/NegiChahan)
  - [Abdulrhman Ansary](https://github.com/AbdulrhmanAnsary)
  - [Juan Pablo Rovayo Delgado](https://github.com/Pablitord)
  - [Akshay Mahto](https://github.com/akshaymahto)
