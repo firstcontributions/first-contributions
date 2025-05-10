@@ -1,4 +1,5 @@
  # Contributors
+ [FreemanBoss](https://github.com/FreemanBoss)
   [ReNothingg](https://github.com/ReNothingg)
  - [Rahul Sharma](https://github.com/DeF4lt-Cap10N)
  - [Saikatur Rahman Kaium](https://github.com/S-rahmanKaium)
