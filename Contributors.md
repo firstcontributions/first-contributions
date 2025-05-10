@@ -100,6 +100,7 @@
  - [Festus Sabu](https://github.com/festussabu)
  - [Astrid Angelene Setio]
  - [Balamurugan R](https://github.com/Balamurugan-1000)
+ - [Aarush Ranjan](https://github.com/Aarush625)
  -[Moulik Bose]
 - [Johan0k en ig](https://github.com/Johan0k)
  - [Swastik](https://github.com/swastikiscoding)
