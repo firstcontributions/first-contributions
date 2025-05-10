@@ -13,6 +13,7 @@
  -[Pathan Lakir khan](https://github.com/Lakirkhan)
  - [Rabbi Islam Rony](https://github.com/rabbiislamrony)
  - [Divyansh Goyal](https://github.com/divyanshgoyal777)
+ - [JacobisEpic](https://github.com/JacobisEpic)
  - [Johnathan Aye](https://github.com/jaye311)
  - [IamJayPrakash](https://github.com/IamJayPrakash)
  - [Kalyanram Poonamalli](https://github.com/kram-12)
