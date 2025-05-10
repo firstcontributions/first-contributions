@@ -280,6 +280,8 @@ Anshi
 - [Jaydeep Pokhariya](https://github.com/jaydeep869)
 - [Andy M. Celi](https://github.com/andy-mc)
 - [Daniyal Mohammed](https://github.com/dan2017558)
+- [Vannyou TANG 🇰🇭](https://github.com/TVYDev)
+- [shubham](https://github.com/sidharthkshubham)
 - [Rohan Bhalerao](https://github.com/Rohanbhalerao875)
 - [Vannyou TANG 🇰🇭](https://github.com/TVYDev)
 - [shubham](https://github.com/sidharthkshubham)
@@ -904,7 +906,13 @@ Matthew Burgos
 - [Nayan](https://github.com/NayanUnni95)
 - [Arpit Dubey](https://github.com/Arpit1033)
 - [Nahom](https://github.com/NahomWondimu)
+
+
+- [Rafael Scorfi Gatto](https://github.com/rscorfi)
+
+=======
 - [RunByKim](https://github.com/runbykim)
+
 - [Sakshi Jaiswal](https://github.com/Sakshijazz)
 - [Kaushik Ghorai](https://github.com/kaushikghorai)
 - [Pranshu Rakhecha](https://github.com/pranshurakhecha)
@@ -2636,6 +2644,7 @@ Matthew Burgos
 - [Johannes Sæthre](https://github.com/Johannes-Sathre)
 - [Monokatarina](https://github.com/monokatarina)
 - [Kazuyuki Kita](https://github.com/chisuke0309)
+- [Rafael Scorfi] - (https://github.com/rscorfi)
 - [Flxzz](https://github.com/Flxzz)
 - [Oleksii Shamrai](https://github.com/alexshamrai)
 - [Brad Stafford](https://github.com/b-rad-omni)
