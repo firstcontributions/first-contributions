@@ -30,6 +30,7 @@
  - [Mukhammad Kharis](https://github.com/mkharis)
  - [Alex Santos](https://github.com/alexaito26) LEBRON JAMES CRISTIANO RONALDO
  - [Mason Naung](https://github.com/masonn99)
+ - [Vinicius Correia](https://github.com/vini-correia)
  - [Amir Razakov](https://github.com/ByteHasher)
  - [Archie Boswell](https://github.com/archiebos)
  - [0x7c00](https://github.com/alex-robert-fr/)
