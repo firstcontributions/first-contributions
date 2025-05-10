@@ -37,6 +37,7 @@
   - [Arturo Silva](https://github.com/rtr-slv)
  - Shintaro Kikuta
  - Anastasia
+   Frizja
  - [Rakshanaa](https://github.com/Rakshanaa2026) 
  - [hanyudeye](https://github.com/hanyudeye)
  - [Rajdeep Keshri](https://github.com/Rajdeep4586)
