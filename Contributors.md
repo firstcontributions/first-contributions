@@ -19,6 +19,7 @@
  - [Kalyanram Poonamalli](https://github.com/kram-12)
  - [RandyGamplays](https://github.com/RandyZam04)
  - [Free Willy](https://github.com/freewillyone) Jesse, you're my friend
+ - [Dac Minh](https://github.com/dac-minh) - D U C K
  - [Dac Minh](https://github.com/dac-minh)
  - [Steve Mendeleev](https://github.com/StiopaPopa)
  - [Alex Pozhidaev](https://github.com/AlexPozh)
