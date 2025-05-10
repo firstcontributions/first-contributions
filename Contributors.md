@@ -31,6 +31,7 @@
  - [Archie Boswell](https://github.com/archiebos)
  - [0x7c00](https://github.com/alex-robert-fr/)
  - [Gabrielly Santos](https://github.com/GabriellySS)
+ - [Amanda](https://github.com/Amandamrd)
  - [Animatrix3253](https://github.com/animatrix3253)
  - [Ibrahim Sezer](https://github.com/ibrahimsezer)
  - [Erdem Ceylan] (https://github.com/erdem-cc)
