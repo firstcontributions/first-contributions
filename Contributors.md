@@ -2782,3 +2782,4 @@ Matthew Burgos
 - [Henry ZHENG](https://github.com/zsyayo112/first-contributions.git)
 - [M Naveen 77](https://github.com/Naveen-M77)
 - [Saad Keyani](https://github.com/SaadKeyani)
+- [Dalton Sloan](https://github.com/DaltonSloan)
