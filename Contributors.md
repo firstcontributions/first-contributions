@@ -136,6 +136,7 @@
   -[Milan Rajanih](https://github.com/milanrajani)
  -[Kewoda Joanitah](https://github.com/KewodaJoanitah)
  -[Amrutha Varshini](https://github.com/Varshini1905)
+ - [Sathishkumar Thirumalai](https://github.com/sathishkumartheta)
  - [AKG99](https://github.com/akg99)
  - [Jomkit Jujaroen](https://github.com/Jomkit)
  - [Vítor Henrique](https://github.com/Vitorhrf)
