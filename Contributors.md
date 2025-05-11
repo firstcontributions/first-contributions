@@ -833,6 +833,7 @@ Matthew Burgos
 - [Olyviero](https://github.com/olyviero)
 - [Swetha](https://github.com/Ravula-Swetha)
 - [Dhayanithi](https://github.com/Dhayanithi-545)
+- [Devno](https://github.com/noamseifer)
 - [Vishnu Vardhan N](https://github.com/VishnuVardhanNk)
 - [Sharan Robinson](https://github.com/Sharan-Robinson)
 - [Abhishek Negi](https://github.com/abhi-negii7)
