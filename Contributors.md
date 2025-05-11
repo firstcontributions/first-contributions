@@ -672,6 +672,7 @@ Matthew Burgos
 - [Puneet Verma ](https://github.com/PuneetVerma07)
 - [Mehika Jhaveri](https://github.com/MehikaJhaveri)
 - [Irakiza Divine](https://github.com/DivineIrakiza)
+- [Ruoxuann](https://github.com/Ruoxuann)
 - [Facundo Giuliano](https://github.com/FacundoGiuliano)
 - [Darlene Ishimwe](https://github.com/DarleneIshimwe)
 - [Nirbhay Pratap Singh](https://github.com/NirbhayPS)
