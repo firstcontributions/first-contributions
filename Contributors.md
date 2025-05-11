@@ -1,5 +1,5 @@
  # Contributors
- -[FluffySce - Farhan Khan](https://github.com/FluffySce)
+ - [FluffySce - Farhan Khan](https://github.com/FluffySce)
 -[joao-299](https://github.com/Joao-299)
 - [Justicide381](https://gothub.com/justicide381) 
 [FreemanBoss](https://github.com/FreemanBoss)
