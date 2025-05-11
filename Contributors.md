@@ -2794,3 +2794,4 @@ Matthew Burgos
 - [Dalton Sloan](https://github.com/DaltonSloan)
 - [maelshei](https://github.com/mahelshei)
 - [Satyam Shivam] (https://github.com/satyamshivam13)
+- [Juliana Oliveira](https://github.com/Julianacavalaro)
