@@ -26,6 +26,7 @@
  - [Mukund](https://github.com/mukundgupta)
  - [Kalyanram Poonamalli](https://github.com/kram-12)
  - [RandyGamplays](https://github.com/RandyZam04)
+ - [Luis Romera](https://github.com/LuisFelipeRomera)
  - [Free Willy](https://github.com/freewillyone) Jesse, you're my friend
  - [Dac Minh](https://github.com/dac-minh) - D U C K
  - [Dac Minh](https://github.com/dac-minh)
