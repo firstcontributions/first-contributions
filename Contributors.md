@@ -3,7 +3,8 @@
 -[joao-299](https://github.com/Joao-299)
 - [Justicide381](https://gothub.com/justicide381) 
 [FreemanBoss](https://github.com/FreemanBoss)
-- [J-Ezra](https://github.com/j-ezra) 
+- [J-Ezra](https://github.com/j-ezra)
+-[KhanBuilds](https://github.com/KhanBuilds) I was here.
   [ReNothingg](https://github.com/ReNothingg)
  - [Rahul Sharma](https://github.com/DeF4lt-Cap10N)
  - [Saikatur Rahman Kaium](https://github.com/S-rahmanKaium)
