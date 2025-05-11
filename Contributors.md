@@ -191,6 +191,7 @@ Anshi
  -[Deepak Sharma](https://github.com/DeepakSharma46)
  - [regiiik]
   sowmya gandhamaneni
+- [Baisnabi Rout](https://github.com/Reileen00)
 - [Rachit Singh](https://github.com/RachitSinghh)
 - [Mahesh Badampudi](https://github.com/badampudimahesh2005)
  -[Phanindra Naralasetty] (https://github.com/naralasetty99)
