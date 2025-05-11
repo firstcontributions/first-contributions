@@ -16,6 +16,7 @@
  - [Divyansh Goyal](https://github.com/divyanshgoyal777)
  - [JacobisEpic](https://github.com/JacobisEpic)
  - [Johnathan Aye](https://github.com/jaye311)
+ - [Makhlwf](https://github.com/Makhlwf)
  - [IamJayPrakash](https://github.com/IamJayPrakash)
  - [Kalyanram Poonamalli](https://github.com/kram-12)
  - [RandyGamplays](https://github.com/RandyZam04)
