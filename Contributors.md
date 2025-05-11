@@ -249,6 +249,7 @@ Anshi
 -[Sharmake Ibrahim](https://github.com/sharmake-ibrahim)
 -[Seba Acosta](https://github.com/sebaacosta25)
 -[Nithish699](https://github.com/Nithish699)
+- Eduardo Moreira Chaves (https://github.com/duds1402)
 [ajaykamera](https://github.com/kameraajay)
 - [Max Ma](https://github.com/maxu198668)
 - [Selbi](https://github.com/Izume01)
