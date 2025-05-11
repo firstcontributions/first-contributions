@@ -114,6 +114,7 @@
  - [Phinehas Macharia] (https://github.com/MachariaP)
  - [John Mapunda](https://johnmapunda.com)
  - [Amaan Khan](https://github.com/amaan-19)
+ - [Aditya Mehra](https://github.com/isthatdeception)
  - [Vivek Tripathi](https://github.com/vivektripatthi)
  - [Rodrigo Maciel](https://github.com/devrodrigorpm)
  - [Kiran Kumar Boinapally](https://github.com/kiranraoboinapally)
