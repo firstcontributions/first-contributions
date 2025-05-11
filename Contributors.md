@@ -228,6 +228,7 @@ Anshi
  - [bolder58](https://github.com/bolder58)
  - [Letlhogonolo] (https://github.com/whoIsImai)
  - [AkashVardhan](https://github.com/akashinferno)
+-[Luisa](https://github.com/lucstr-souza)
 - [TopHat327](https://github.com/TopHat327)
 -[Bytes Lord](https://github.com/Bram1956)
 - [Jonathan Kila](https://github.com/Excelsior2021)
@@ -833,7 +834,6 @@ Matthew Burgos
 - [Olyviero](https://github.com/olyviero)
 - [Swetha](https://github.com/Ravula-Swetha)
 - [Dhayanithi](https://github.com/Dhayanithi-545)
-- [Devno](https://github.com/noamseifer)
 - [Vishnu Vardhan N](https://github.com/VishnuVardhanNk)
 - [Sharan Robinson](https://github.com/Sharan-Robinson)
 - [Abhishek Negi](https://github.com/abhi-negii7)
@@ -2442,6 +2442,7 @@ Matthew Burgos
 - [salkaev]
 - [4devly]
 - [Tine](https://github.com/Tine-debug)
+- [Luisa](https://github.com/lucstr-souza)
 - [Vikas Seervi] (https://github.com/vikasseervi)
 - [Untitled Programmer](https://github.com/untitled-programmer)
 - [giorgioyu125](https://github.com/giorgioyu125/first-contributions)
