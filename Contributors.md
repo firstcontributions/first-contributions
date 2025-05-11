@@ -2752,6 +2752,7 @@ Matthew Burgos
 - [Enmaai0](https://github.com/Enmaai0)
 - [Ramon W. (Sonryu) Vilar](https://github.com/Sonryu)
 - [Aron Young](https://github.com/aron5055)
+- [Edgar mejia](https://github.com/maxinms2)
 - [Prabhakar Singh](https://github.com/prabhaks)
 - [gfy125](https://github.com/gfy125)
 - [Andreja Djordjevic](https://github.com/andrejadj2)
