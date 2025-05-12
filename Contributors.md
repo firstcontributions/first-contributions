@@ -109,7 +109,7 @@
  - [Talha Jubaer Prantor](https://github.com/TalhaJubaerPrantor)
  - [Arshi Sabah](https://github.com/arshisabah/first-contributions)
  - [DungGramer](https://github.com/DungGramer)
- - [MV] (https://github.com/mvakkasoglu)
+ - [MV](https://github.com/mvakkasoglu)
  - [Mujahid Mohammad] (https://github.com/mujju834)
  - [dbto](https://github.com/dbto)
  - [shrutimishra-123](https://github.com/shrutimishra-123)
