@@ -1,5 +1,6 @@
  # Contributors
  - [Vishruth](https://github.com/Vishruth-Hyphen)
+ - [ADMIRΛL](https://github.com/ogadmiral)
  - [Samaha Munir](https://github.com/SamahaMunir)
  - [Sarah Caulfield](https://github.com/scaulfield7)
  -[NotIshaan - Ishaan Bhadrike] (https://github.com/NotIshaan)
