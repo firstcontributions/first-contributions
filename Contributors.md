@@ -75,6 +75,7 @@
  - [Shravani Gaikwad](https://github.com/shrav84)
  - [Unknown_rvp]
  - [Daniel Widjaja](https://github.com/Danwidj)
+ - [Mamosebetsi Kekae](https://github.com/shaymk1)
  - [ZeruZeruZee](https://github.com/ZeruZeruZee)
  - [Divyam Sharma](https://github.com/Divyamsharma-18)
  - [Shanice Thompson](https://github.com/Shanice826?tab=repositories)
