@@ -2826,3 +2826,4 @@ Darien Edwards
 - [Amr Soliman](https://github.com/amr124003)
 - [504257689](https://github.com/504257689)
 -[Shai Yos](https://github.com/ShaiYos)
+- [daiki fujimoto](https://github.com/dai-fuji)
