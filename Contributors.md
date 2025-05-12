@@ -29,6 +29,7 @@
  - [Johnathan Aye](https://github.com/jaye311)
  - [IamJayPrakash](https://github.com/IamJayPrakash)
  - [Mukund](https://github.com/mukundgupta)
+ - [OmarKHDR](https://github.com/OmarKHDR)
  - [Kalyanram Poonamalli](https://github.com/kram-12)
  - [RandyGamplays](https://github.com/RandyZam04)
  - [Luis Romera](https://github.com/LuisFelipeRomera)
