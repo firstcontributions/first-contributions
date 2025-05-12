@@ -19,6 +19,7 @@
  -[Anushka Ekka](https://github.com/Chiccoo-oo)
  - [Harsh kumar jadon](https://github.com/Harsh-jadoun)
  - [Ebrahim El-Sayed](https://github.com/0xEbrahim)
+ - [Devansh](https://github.com/DevanshKapoor)
  - [Shubiksha](https://github.com/Shubiks)
  - [Anjayy Mabar](https://github.com/yoksipmksi)
  -[Mohammad Ahmad](https://github.com/MohammadAh2002)
