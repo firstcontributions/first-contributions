@@ -1,4 +1,4 @@
- # Contributors
+# Contributors
 - [Johnpark](https://github.com/devjohnpark)
  - [Vishruth](https://github.com/Vishruth-Hyphen)
  - [Vishruth](https://github.com/Vishruth-Hyphen)
@@ -2837,3 +2837,4 @@ Darien Edwards
 - [daiki fujimoto](https://github.com/dai-fuji)
 - [Shijie Gan](https://github.com/sgan0420)
 - [Juan Araujo](https://github.com/jufearcas)
+- [Paulina Vz](https://github.com/Pvzf) 
