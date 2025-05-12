@@ -14,6 +14,7 @@
  - [Rahul Sharma](https://github.com/DeF4lt-Cap10N)
  - [sfreagin](https://github.com/sfreagin)
  - [Saikatur Rahman Kaium](https://github.com/S-rahmanKaium)
+ - [Happy4Game](https://github.com/Happy4Game)
  -[Anushka Ekka](https://github.com/Chiccoo-oo)
  - [Harsh kumar jadon](https://github.com/Harsh-jadoun)
  - [Ebrahim El-Sayed](https://github.com/0xEbrahim)
