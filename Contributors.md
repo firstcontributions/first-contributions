@@ -656,6 +656,7 @@ Matthew Burgos
 - [Kuanlin](https://github.com/kuanlin1227)
 - [Rojo Arano](https://github.com/aranorj)
 - [Anna Re]
+- [Dev Makwana](https://github.com/Phaedrus1301)
 - [Olivier Faivre]
 - [hh]
 - [Sean Erfan](https://github.com/Shameed4)
