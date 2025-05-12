@@ -134,6 +134,7 @@
  -[Moulik Bose]
 - [Johan0k en ig](https://github.com/Johan0k)
  - [Swastik](https://github.com/swastikiscoding)
+ - [Vijak Khajornritdacha](https://github.com/khajornritdacha)
  - [Elnar Ismael (0quaaD)](https://github.com/0quaaD)
  - [Mohammed Farhan](https://github.com/TheRealFarhanDev)
  - [Jason Tanuwijaya](https://github.com/ItMoSu)
