@@ -2835,3 +2835,4 @@ Darien Edwards
 -[Shai Yos](https://github.com/ShaiYos)
 - [daiki fujimoto](https://github.com/dai-fuji)
 - [Shijie Gan](https://github.com/sgan0420)
+- [Juan Araujo](https://github.com/jufearcas)
