@@ -1298,6 +1298,7 @@ Matthew Burgos
 - [EstherCamela](https://github.com/Esther-Assena-pro)
 - [ikimathi](https://github.com/ikimathi)
 - [Lawrence Garcia](https://github.com/lawrenceee04)
+Darien Edwards
 - [AmnaShouqi](https://github.com/amnashouqi)
 - [Aicirou](https://github.com/Aicirou)
 - [Gargi](https://github.com/gargig02)
