@@ -1253,6 +1253,7 @@ Matthew Burgos
 - [Adarsh84](https://github.com/adarshM84)
 - [Kent0011](https://github.com/Kent0011)
 - [Rathin Subramaniam](https://github.com/rathinsubra)
+- [Ritesh Raj Dwivedi](https://github.com/riteshrajd)
 - [Luís Oliveira](https://github.com/LuisCarlosOliveira)
 - [hectoru10](https://github.com/Hectoru10)
 - [Ahorts](https://github.com/Ahorts)
