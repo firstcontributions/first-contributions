@@ -1,10 +1,14 @@
  # Contributors
+ - [Samaha Munir](https://github.com/SamahaMunir)
+ - [Sarah Caulfield](https://github.com/scaulfield7)
+ -[NotIshaan - Ishaan Bhadrike] (https://github.com/NotIshaan)
  -[FluffySce - Farhan Khan](https://github.com/FluffySce)
 -[joao-299](https://github.com/Joao-299)
 - [Justicide381](https://gothub.com/justicide381) 
 [FreemanBoss](https://github.com/FreemanBoss)
 [Ashish Raj](https://github.com/Ashish570raj)
 - [J-Ezra](https://github.com/j-ezra)
+- [Chirag Sehgal](https://github.com/chirAAG-sehgal) Just trying it out
 -[KhanBuilds](https://github.com/KhanBuilds) I was here.
   [ReNothingg](https://github.com/ReNothingg)
  - [Rahul Sharma](https://github.com/DeF4lt-Cap10N)
@@ -25,6 +29,7 @@
  - [Johnathan Aye](https://github.com/jaye311)
  - [IamJayPrakash](https://github.com/IamJayPrakash)
  - [Mukund](https://github.com/mukundgupta)
+ - [OmarKHDR](https://github.com/OmarKHDR)
  - [Kalyanram Poonamalli](https://github.com/kram-12)
  - [RandyGamplays](https://github.com/RandyZam04)
  - [Luis Romera](https://github.com/LuisFelipeRomera)
@@ -70,6 +75,7 @@
  - [Shravani Gaikwad](https://github.com/shrav84)
  - [Unknown_rvp]
  - [Daniel Widjaja](https://github.com/Danwidj)
+ - [Mamosebetsi Kekae](https://github.com/shaymk1)
  - [ZeruZeruZee](https://github.com/ZeruZeruZee)
  - [Divyam Sharma](https://github.com/Divyamsharma-18)
  - [Shanice Thompson](https://github.com/Shanice826?tab=repositories)
@@ -98,6 +104,7 @@
  - [YihangJin] (https://github.com/GYihang)
  - [IngenieroVictorAlonzo] (https://github.com/IngenieroVictorAlonzo)
  - [Roberto Ayres](https://github.com/roberto-ayres)
+ - [Ray Xiang](https://github.com/rayxiang03)
  - [Anasmtaweh] (https://github.com/Anasmtaweh)
  - [Talha Jubaer Prantor](https://github.com/TalhaJubaerPrantor)
  - [Arshi Sabah](https://github.com/arshisabah/first-contributions)
@@ -134,6 +141,7 @@
  -[Moulik Bose]
 - [Johan0k en ig](https://github.com/Johan0k)
  - [Swastik](https://github.com/swastikiscoding)
+ - [Vijak Khajornritdacha](https://github.com/khajornritdacha)
  - [Elnar Ismael (0quaaD)](https://github.com/0quaaD)
  - [Mohammed Farhan](https://github.com/TheRealFarhanDev)
  - [Jason Tanuwijaya](https://github.com/ItMoSu)
@@ -654,6 +662,7 @@ Matthew Burgos
 - [Kuanlin](https://github.com/kuanlin1227)
 - [Rojo Arano](https://github.com/aranorj)
 - [Anna Re]
+- [Dev Makwana](https://github.com/Phaedrus1301)
 - [Olivier Faivre]
 - [hh]
 - [Sean Erfan](https://github.com/Shameed4)
@@ -1064,6 +1073,7 @@ Matthew Burgos
 - [Zilvinas K]
 - Victor Raeva - rev
 - [Abhishek Kumar](https://github.com/abhishekkr8399)
+- [A C Bhaskar Reddy](https://github.com/acbhaskar1/)
 - [Aryan Joshi] (https://github.com/AryanJoshi2108)
 - [Fco Birr](https://github.com/FcoBirr)
 - [Vedant Garg][https://github.com/VedantG479]
@@ -1253,6 +1263,7 @@ Matthew Burgos
 - [Adarsh84](https://github.com/adarshM84)
 - [Kent0011](https://github.com/Kent0011)
 - [Rathin Subramaniam](https://github.com/rathinsubra)
+- [Ritesh Raj Dwivedi](https://github.com/riteshrajd)
 - [Luís Oliveira](https://github.com/LuisCarlosOliveira)
 - [hectoru10](https://github.com/Hectoru10)
 - [Ahorts](https://github.com/Ahorts)
@@ -2671,6 +2682,7 @@ Darien Edwards
 - [Oleksii Shamrai](https://github.com/alexshamrai)
 - [Brad Stafford](https://github.com/b-rad-omni)
 - Damilare ( https://github.com/damilareoo )
+- [Benjamin] (https://github.com/BXNK4042)
 - [Konstantin Lollert](https://github.com/KonstantinM87)
 - [Bekezela Pangenyama](https://github.com/bekezela)
 - [Beth Cr](https://github.com/BethCr)
@@ -2745,6 +2757,7 @@ Darien Edwards
 - [Anshul Verma](https://github.com/Coder-0120)
 - [cpcap](https://github.com/cpcap1214)
 - [Yassine Erradouani](https://github.com/yassnemo)
+- [April](https://github.com/zhao-leo)
 - [Julio Florentino](https://github.com/JulioFlorentino)
 - [DevDhomm](https://github.com/DevDhomm)
 - [Edward2323](https://github.com/Edward2323)
@@ -2812,3 +2825,7 @@ Darien Edwards
 - [Juliana Oliveira](https://github.com/Julianacavalaro)
 - [Amr Soliman](https://github.com/amr124003)
 - [JT Coleman](https://github.com/Joetommy)
+- [504257689](https://github.com/504257689)
+-[Shai Yos](https://github.com/ShaiYos)
+- [daiki fujimoto](https://github.com/dai-fuji)
+- [Shijie Gan](https://github.com/sgan0420)
