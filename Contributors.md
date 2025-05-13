@@ -21,6 +21,7 @@
  - [Saikatur Rahman Kaium](https://github.com/S-rahmanKaium)
  - [Happy4Game](https://github.com/Happy4Game)
  -[Anushka Ekka](https://github.com/Chiccoo-oo)
+ - [RintaroKanaji](https://github.com/kanaji2002)
  - [Harsh kumar jadon](https://github.com/Harsh-jadoun)
  - [Ebrahim El-Sayed](https://github.com/0xEbrahim)
  - [Devansh](https://github.com/DevanshKapoor)
