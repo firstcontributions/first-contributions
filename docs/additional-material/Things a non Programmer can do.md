@@ -7,6 +7,8 @@ Walking in to a project and saying "Hi, here's what I think this project should 
 Some projects may welcome that sort of approach, but if the project has been running a while, the chances of that attitude being embraced are small.
 **Listening is the best way to know what the project needs.**
 
+This is a random change that I made
+
 1. **Join a mailing list**: For many projects, the mailing list is the main conduit of communication about the development of the project.
 On large projects, there are many mailing lists to choose from.
 For example, the PostgreSQL project has no fewer than 12 user-oriented lists and six developer lists on its mailing list page.
