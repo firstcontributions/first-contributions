@@ -2854,3 +2854,4 @@ Darien Edwards
 - [Enoch Owoade](https://github.com/Enochteo)
 - [Sergio Ambrosio](https://github.com/sambrosiomartin)
 - [Klausk0].(https://github.com/Klausk0)
+- [jahangeer10].(https://github.com/jahangeer10)
