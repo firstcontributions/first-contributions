@@ -2,6 +2,7 @@
 - [Johnpark](https://github.com/devjohnpark)
  - [Vishruth](https://github.com/Vishruth-Hyphen)
  - [Vishruth](https://github.com/Vishruth-Hyphen)
+ - [Arjun Rai](https://github.com/ArjunRai1)
  - [Samaha Munir](https://github.com/SamahaMunir)
  - [Sarah Caulfield](https://github.com/scaulfield7)
  -[NotIshaan - Ishaan Bhadrike] (https://github.com/NotIshaan)
