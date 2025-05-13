@@ -87,6 +87,7 @@
  main
  - [hanyudeye](https://github.com/hanyudeye)
  - [Rajdeep Keshri](https://github.com/Rajdeep4586)
+ - [Shubhanga R Beeragere](https://github.com/beeragere)
  - [Shravani Gaikwad](https://github.com/shrav84)
  - [Unknown_rvp]
  - [Daniel Widjaja](https://github.com/Danwidj)
@@ -2854,4 +2855,9 @@ Darien Edwards
 - [Enoch Owoade](https://github.com/Enochteo)
 - [Sergio Ambrosio](https://github.com/sambrosiomartin)
 - [Klausk0].(https://github.com/Klausk0)
+ add-jahangeer-alam
 - [jahangeer10].(https://github.com/jahangeer10)
+=======
+- [Atharv Singh](https://github.com/NotAtharvOP)
+- [Hieu Le Van](https://github.com/heterl0)
+ main
