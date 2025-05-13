@@ -1775,6 +1775,7 @@ Darien Edwards
 - [Justin](https://github.com/JustinBifeld)
 - [Rahul Gurav](https://github.com/RahulGurav82)
 - [Vinicius Alves Amorim](https://github.com/am0rimdev)
+- [Soumyojit Choudhury](https://github.com/soumyoo)
 - [aseel matta](https://github.com/aseelmatta)
 - [Amar Yasser](https://github.com/AmarYasser1)
 - [Lulu Harvey](https://github.com/luluharvey)
