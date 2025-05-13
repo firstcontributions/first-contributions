@@ -2861,3 +2861,4 @@ Darien Edwards
 - [Klausk0].(https://github.com/Klausk0)
 - [Atharv Singh](https://github.com/NotAtharvOP)
 - [Hieu Le Van](https://github.com/heterl0)
+- [Joao Filipe](https://github.com/JF532)
