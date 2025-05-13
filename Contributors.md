@@ -2,6 +2,7 @@
 - [Johnpark](https://github.com/devjohnpark)
  - [Vishruth](https://github.com/Vishruth-Hyphen)
  - [Vishruth](https://github.com/Vishruth-Hyphen)
+ - [Arjun Rai](https://github.com/ArjunRai1)
  - [Samaha Munir](https://github.com/SamahaMunir)
  - [Sarah Caulfield](https://github.com/scaulfield7)
  -[NotIshaan - Ishaan Bhadrike] (https://github.com/NotIshaan)
@@ -17,6 +18,7 @@
   [ReNothingg](https://github.com/ReNothingg)
  - [Rahul Sharma](https://github.com/DeF4lt-Cap10N)
  -[Karyampudi Meghana Sai](https://github.com/kmeghanasai)
+ -[KobeVLM](https://github.com/KobeVLM)
  - [sfreagin](https://github.com/sfreagin)
  - [Saikatur Rahman Kaium](https://github.com/S-rahmanKaium)
  - [Happy4Game](https://github.com/Happy4Game)
@@ -37,6 +39,7 @@
  - [Johnathan Aye](https://github.com/jaye311)
  - [IamJayPrakash](https://github.com/IamJayPrakash)
  - [Mukund](https://github.com/mukundgupta)
+ - [HashimZ](https://github.com/HASHIM0312)
  - [OmarKHDR](https://github.com/OmarKHDR)
  - [Kalyanram Poonamalli](https://github.com/kram-12)
  - [RandyGamplays](https://github.com/RandyZam04)
@@ -53,6 +56,7 @@
  - [Akshay Mahto](https://github.com/akshaymahto)
  - [Mukhammad Kharis](https://github.com/mkharis)
  - [Alex Santos](https://github.com/alexaito26) LEBRON JAMES CRISTIANO RONALDO
+ - [Walisson Fernandes](https://github.com/Murynga)
  - [Hamundo](https://github.com/Ha-Mundo)
  - [Mason Naung](https://github.com/masonn99)
  - [Vinicius Correia](https://github.com/vini-correia)
@@ -68,7 +72,8 @@
  - [Aryan Bhatiya](https://github.com/aryan-bhatiya)
   - [Durga Prasad](https://github.com/prasad-bigdp)
   - [Saba Siddique](https://github.com/sabasiddique1)
- - [Sury Delgado](https://github.com/surydelgado)
+-[Lakshay](https://github.com/lakshay-lg) 
+- [Sury Delgado](https://github.com/surydelgado)
   [charudutt pachori] (https://github.com/charudutt358)
  - [Mateusz Sopyla](https://github.com/Sakii470) 
   - [Arturo Silva](https://github.com/rtr-slv)
@@ -132,6 +137,7 @@
  - [Nizan Naor]
  - [Anton Berglund]
  - [Sebastian](https://github.com/karsonbwoy)
+ - [Isgandar Karimov](https://github.com/Isgandarrr)
  - [Afroz](https://github.com/afroz000)
  - [Marco Calle](https://github.com/mcf331)
  - [Ariel Vazquez](https://github.com/VazquezAriel)
@@ -332,6 +338,7 @@ Anshi
 e-Jo
 - Eric Manuel Rosales
 - [mmhd]
+- [Shivaram](https://github.com/shivaram-dev)
 - [DDitter94](https://github.com/DDiego94)
 - [m1tani](https://github.com/m1tani)
 - [ZT-25](https://github.com/ZT-25)
@@ -2843,4 +2850,5 @@ Darien Edwards
 - [Paulina Vz](https://github.com/Pvzf) 
 - [Joshua Uduehi](https://github.com/jUdu97) 
 - [Enoch Owoade](https://github.com/Enochteo)
+- [Sergio Ambrosio](https://github.com/sambrosiomartin)
 - [Klausk0].(https://github.com/Klausk0)
