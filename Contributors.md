@@ -13,6 +13,7 @@
 - [J-Ezra](https://github.com/j-ezra)
 - [Chirag Sehgal](https://github.com/chirAAG-sehgal) Just trying it out
 -[KhanBuilds](https://github.com/KhanBuilds) I was here.
+- [Elaine Ibanez](https://github.com/elaineibanez)
   [ReNothingg](https://github.com/ReNothingg)
  - [Rahul Sharma](https://github.com/DeF4lt-Cap10N)
  - [sfreagin](https://github.com/sfreagin)
