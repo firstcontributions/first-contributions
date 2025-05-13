@@ -7,6 +7,7 @@
  - [Arjun Rai](https://github.com/ArjunRai1)
  - [Samaha Munir](https://github.com/SamahaMunir)
  - [Sarah Caulfield](https://github.com/scaulfield7)
+ - [Daniel](https://github.com/dbcode1)
  -[NotIshaan - Ishaan Bhadrike] (https://github.com/NotIshaan)
  - [Neel Bhattacharya](https://github.com/Neel-max-cpu)
  -[FluffySce - Farhan Khan](https://github.com/FluffySce)
