@@ -1221,6 +1221,7 @@ Matthew Burgos
 - [Peleg Ben Barak](https://github.com/peleg-bb)
 - [idekwid](https://github.com/idekwid)
 - [AjiHsu](https://github.com/AjiHsu)
+- [Rahul Nikale](https://github.com/Rahul25052002)
 - [gyanchandkabra](https://github.com/gyanchandkabra)
 - [harshit](https://github.com/harshitpatel862)
 - [Kutlu Çağan Akın](https://github.com/kCagan)
