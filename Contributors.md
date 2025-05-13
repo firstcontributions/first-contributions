@@ -40,6 +40,7 @@
  - [JacobisEpic](https://github.com/JacobisEpic)
  - [Johnathan Aye](https://github.com/jaye311)
  - [IamJayPrakash](https://github.com/IamJayPrakash)
+ - [Lawan Mai](https://github.com/zlKxrsan)
  - [Mukund](https://github.com/mukundgupta)
  - [HashimZ](https://github.com/HASHIM0312)
  - [OmarKHDR](https://github.com/OmarKHDR)
