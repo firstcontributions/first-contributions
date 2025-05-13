@@ -1,4 +1,5 @@
 # Contributors
+- [Levis-Nyagah] (https://github.com/umeskia-levi)
 - [Johnpark](https://github.com/devjohnpark)
  - [Vishruth](https://github.com/Vishruth-Hyphen)
  - [Vishruth](https://github.com/Vishruth-Hyphen)
