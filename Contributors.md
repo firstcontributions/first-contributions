@@ -86,6 +86,7 @@
  main
  - [hanyudeye](https://github.com/hanyudeye)
  - [Rajdeep Keshri](https://github.com/Rajdeep4586)
+ - [Shubhanga R Beeragere](https://github.com/beeragere)
  - [Shravani Gaikwad](https://github.com/shrav84)
  - [Unknown_rvp]
  - [Daniel Widjaja](https://github.com/Danwidj)
