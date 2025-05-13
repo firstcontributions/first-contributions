@@ -1031,6 +1031,7 @@ Matthew Burgos
 - [Aditya Atreya](https://github.com/AdiAce4u)
 - [Somto Ogbe](https://github.com/somtoval)
 - [Yodahe Wondimu](https://github.com/YodaheWondimu)
+- [Chip Kelsey](https://github.com/chipncharge)
 - [Opeyemi Oluwayemi] (https://github.com/delightoluwayemi)
 - [Alan Vanichtheeranont](https://github.com/alphabet-al)
 - [Dinara Aysungurova] (https://github.com/aysdi)
