@@ -19,6 +19,7 @@
   [ReNothingg](https://github.com/ReNothingg)
  - [Rahul Sharma](https://github.com/DeF4lt-Cap10N)
  -[Karyampudi Meghana Sai](https://github.com/kmeghanasai)
+ [Júlia Menger] (https://github.com/juliamenger)
  -[KobeVLM](https://github.com/KobeVLM)
  - [sfreagin](https://github.com/sfreagin)
  - [Saikatur Rahman Kaium](https://github.com/S-rahmanKaium)
