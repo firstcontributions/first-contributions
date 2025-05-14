@@ -1,6 +1,7 @@
 # Contributors
 - [Mike G](https://github.com/mgalkowski/)
 - [Levis-Nyagah] (https://github.com/umeskia-levi)
+- [Xuefeng Sun] (https://github.com/Artan1ss)
 - [Johnpark](https://github.com/devjohnpark)
 - [nastenka_777](https://github.com/nastenka777)
 - [jiji](https://github.com/chelchel29)
