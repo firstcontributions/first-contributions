@@ -30,6 +30,7 @@
 -[KhanBuilds](https://github.com/KhanBuilds) I was here.
   [ReNothingg](https://github.com/ReNothingg)
  - [Rahul Sharma](https://github.com/DeF4lt-Cap10N)
+ - [Sarah Biscuits](https://github.com/SarahBiscuit)
  -[Karyampudi Meghana Sai](https://github.com/kmeghanasai)
  [Júlia Menger] (https://github.com/juliamenger)
  -[KobeVLM](https://github.com/KobeVLM)
