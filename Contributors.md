@@ -2,6 +2,7 @@
 - [Levis-Nyagah] (https://github.com/umeskia-levi)
 - [Johnpark](https://github.com/devjohnpark)
 - [nastenka_777](https://github.com/nastenka777)
+- [jiji](https://github.com/chelchel29)
  - [Vishruth](https://github.com/Vishruth-Hyphen)
  - [Vishruth](https://github.com/Vishruth-Hyphen)
  - [Arjun Rai](https://github.com/ArjunRai1)
