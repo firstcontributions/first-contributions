@@ -2874,3 +2874,4 @@ Darien Edwards
 - [Sudhanshoo Sarage](https://github.com/sudhanshoosarage)
 - [Dave Tsui](https://github.com/dave-hk)
 - [Jingyi Ding](https://github.com/dingfwrvhfhb)
+- [Tristan Aragon](https://github.com/Nobitwhat)
