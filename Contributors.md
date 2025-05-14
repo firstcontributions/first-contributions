@@ -2889,4 +2889,5 @@ Darien Edwards
 - [Dave Tsui](https://github.com/dave-hk)
 - [Jingyi Ding](https://github.com/dingfwrvhfhb)
 - [Tristan Aragon](https://github.com/Nobitwhat)
+- [Helen Wong](https://github.com/helen-m-wong)
 - [zep](https://github.com/zepredos)
