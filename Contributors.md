@@ -10,6 +10,7 @@
 - [nastenka_777](https://github.com/nastenka777)
 - [jiji](https://github.com/chelchel29)
 - [Harsh-Jain](https://github.com/Harshjain10020)
+
 - [Vishruth](https://github.com/Vishruth-Hyphen)
 - [Vishruth](https://github.com/Vishruth-Hyphen)
 - [Arjun Rai](https://github.com/ArjunRai1)
@@ -20,6 +21,22 @@
 - [Daniel](https://github.com/dbcode1) -[NotIshaan - Ishaan Bhadrike] (https://github.com/NotIshaan)
 - [Neel Bhattacharya](https://github.com/Neel-max-cpu) -[FluffySce - Farhan Khan](https://github.com/FluffySce) -[joao-299](https://github.com/Joao-299)
 - [Justicide381](https://gothub.com/justicide381)
+
+ - [Vishruth](https://github.com/Vishruth-Hyphen)
+ - [Vishruth](https://github.com/Vishruth-Hyphen)
+ - [Arjun Rai](https://github.com/ArjunRai1)
+ - [Samaha Munir](https://github.com/SamahaMunir)
+ - [shruthi reddy](https://github.com/shruthireddy1213)
+ - [Sheila Susan](https://github.com/SheilaSusan)
+ - [Sarah Caulfield](https://github.com/scaulfield7)
+ - [Daniel](https://github.com/dbcode1)
+ -[NotIshaan - Ishaan Bhadrike] (https://github.com/NotIshaan)
+ - [Neel Bhattacharya](https://github.com/Neel-max-cpu)
+ -[FluffySce - Farhan Khan](https://github.com/FluffySce)
+ -[Cat Young](https://github.com/CatYoung018/CatYoung018)
+-[joao-299](https://github.com/Joao-299)
+- [Justicide381](https://gothub.com/justicide381) 
+
 - [Ray Silva](https://github.com/RSM23191)
 - [Shaparow] (https://github.com/Shaparow) I was here too.
   [FreemanBoss](https://github.com/FreemanBoss)
