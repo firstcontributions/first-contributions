@@ -27,6 +27,8 @@
  [Júlia Menger] (https://github.com/juliamenger)
  -[KobeVLM](https://github.com/KobeVLM)
  - [sfreagin](https://github.com/sfreagin)
+- [Shijie Gan](https://github.com/ujjwalbajpai)
+
  - [Saikatur Rahman Kaium](https://github.com/S-rahmanKaium)
  - [Happy4Game](https://github.com/Happy4Game)
  -[Anushka Ekka](https://github.com/Chiccoo-oo)
