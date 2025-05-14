@@ -2872,4 +2872,5 @@ Darien Edwards
 - [Hieu Le Van](https://github.com/heterl0)
 - [Joao Filipe](https://github.com/JF532)
 - [Sudhanshoo Sarage](https://github.com/sudhanshoosarage)
+- [Dave Tsui](https://github.com/dave-hk)
 - [Jingyi Ding](https://github.com/dingfwrvhfhb)
