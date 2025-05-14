@@ -5,6 +5,7 @@
 - [Johnpark](https://github.com/devjohnpark)
 - [nastenka_777](https://github.com/nastenka777)
 - [jiji](https://github.com/chelchel29)
+- [Harsh Jain](https://github.com/Harshjain10020)
  - [Vishruth](https://github.com/Vishruth-Hyphen)
  - [Vishruth](https://github.com/Vishruth-Hyphen)
  - [Arjun Rai](https://github.com/ArjunRai1)
