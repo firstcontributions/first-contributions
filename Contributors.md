@@ -2845,6 +2845,7 @@ Darien Edwards
 - [Jai Ashutosh Singh](https://github.com/JaiAshutoshSingh1)
 - [miaoler](https://github.com/miaoler)
 - [Kash](https://github.com/kash-jay)
+- [Daiju](https://github.com/daiju81)
 - [SpikeTheDragon](https://github.com/SpikeTheDragon40k)
 - [Miguel Zambrano](https://github.com/miguelzambranom)
 - [ATOMIC09](https://github.com/ATOMIC09)
