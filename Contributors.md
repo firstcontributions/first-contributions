@@ -201,6 +201,7 @@
 -[kiranmayee](https://github.com/sreekironmai)
  -[Qi Yang] (https://github.com/sqiyang)
  -[Naiara Gabriela](https://github.com/naiaragabriela)
+ -[Nikita kumari](https://github.com/Nikita0047)
  -[Eliezer Bolding](https://github.com/chelito103)
  -[Vikram Naidu](https://github.com/Vikramnaidu16)
  -[Aman Sirohi](https://github.com/ErAgOn-AmAnSiRoHi)
@@ -385,6 +386,7 @@ e-Jo
 - [Kaori Athaya Hazza] (https://github.com/Hazko-stack)
 - [Heeyoun Lim](https://github.com/ready-oun)
 - [Saksham Mishra](https://github.com/Saksham-Mishra-coder)
+- [pleasetypeyourusername](https://github.com/pleasetypeyourusername) my first contribution :0
 - [Nogunix](https://github.com/nogunix)
 - [Aldo Rodriguez](https://github.com/aldorodz)
 - [Josh Greenberg](https://github.com/savoi)
@@ -2871,3 +2873,4 @@ Darien Edwards
 - [Joao Filipe](https://github.com/JF532)
 - [Sudhanshoo Sarage](https://github.com/sudhanshoosarage)
 - [Dave Tsui](https://github.com/dave-hk)
+- [Jingyi Ding](https://github.com/dingfwrvhfhb)
