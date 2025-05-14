@@ -1,5 +1,6 @@
 # Contributors
 - [Levis-Nyagah] (https://github.com/umeskia-levi)
+- [Xuefeng Sun] (https://github.com/Artan1ss)
 - [Johnpark](https://github.com/devjohnpark)
 - [nastenka_777](https://github.com/nastenka777)
  - [Vishruth](https://github.com/Vishruth-Hyphen)
