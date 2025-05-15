@@ -2912,3 +2912,4 @@ Darien Edwards
 - [Yang Yuan Yuan](https://github.com/yyy9264)
 - [Luke Beedie] (https://github.com/lukebeedie)
 -[Chandra Sekhar] (https://github.com/Chandra-Sekhar-02-45)
+-[Gustavo Rodrigues de Oliveira](https://github.com/GuuhRodrigues96)
