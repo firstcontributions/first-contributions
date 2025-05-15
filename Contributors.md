@@ -4,6 +4,7 @@
 - [Ale Roses](https://github.com/aleroses)
 - [Mike G](https://github.com/mgalkowski/)
 - [Michael J] (https://github.com/michaeljjamero)
+- [Debpriyo-Ghosal] (https://github.com/DevDebpriyo)
 - [Levis-Nyagah] (https://github.com/umeskia-levi)
 - [Xuefeng Sun] (https://github.com/Artan1ss)
 - [Johnpark](https://github.com/devjohnpark)
