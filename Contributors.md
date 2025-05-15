@@ -418,6 +418,7 @@ e-Jo
 - [Sarvesh Yogi](https://github.com/SARVESHYOGI)
 - [Deboneil Bhattacharjee](https://github.com/deboneil07)
 - [Aryan Bagale](https://github.com/Aryan-Bagale)
+- [The-vinicius](https://github.com/The-vinicius)
 - [Navya Sree Ram Kumar Chowdary](https://github.com/NAVI-1725)
 - [Dhwani Chauhan](https://github.com/dhruvi003)
 - [Lakshmi SR](https://github.com/LakshmiRamasubramanian)
