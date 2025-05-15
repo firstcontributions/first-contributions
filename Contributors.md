@@ -2906,3 +2906,4 @@ Darien Edwards
 - [Sudi-Hagestam](https://github.com/QuantumXG)
 - [Santhosh Kumar Chintada](https://github.com/santhoshagain)
 - [krismile-sunflower](https://github.com/krismile-sunflower)
+- [Sona Bateshar](https://github.com/sona-bateshar)
