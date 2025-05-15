@@ -61,6 +61,7 @@
  - [Mukund](https://github.com/mukundgupta)
  - [HashimZ](https://github.com/HASHIM0312)
  - [OmarKHDR](https://github.com/OmarKHDR)
+ - [Clement Ogol](https://github.com/Clem-Tee)
  - [Kalyanram Poonamalli](https://github.com/kram-12)
  - [RandyGamplays](https://github.com/RandyZam04)
  - [Luis Romera](https://github.com/LuisFelipeRomera)
