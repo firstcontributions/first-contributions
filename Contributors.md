@@ -2900,3 +2900,4 @@ Darien Edwards
 - [Rahul Chauhan](https://github.com/Rahul0-01)
 - [Jon Hay](https://github.com/jonhayjr)
 - [Marie Cynthia Abijuru kamikazi](https://github.com/Cynthia-kam)
+- [Sudi-Hagestam](https://github.com/QuantumXG)
