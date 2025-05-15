@@ -2893,3 +2893,4 @@ Darien Edwards
 - [Tristan Aragon](https://github.com/Nobitwhat)
 - [Helen Wong](https://github.com/helen-m-wong)
 - [zep](https://github.com/zepredos)
+- [Rahul Chauhan](https://github.com/Rahul0-01)
