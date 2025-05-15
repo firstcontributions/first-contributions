@@ -81,6 +81,7 @@
  - [Vinicius Correia](https://github.com/vini-correia)
  - [Amir Razakov](https://github.com/ByteHasher)
  - [Archie Boswell](https://github.com/archiebos)
+ - [Deepak Maganti](https://github.com/DeepakMaganti)
  - [Beatriz Nonato](https://github.com/beatriznonato)
  - [0x7c00](https://github.com/alex-robert-fr/)
  - [Gabrielly Santos](https://github.com/GabriellySS)
