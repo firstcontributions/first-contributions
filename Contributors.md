@@ -1,5 +1,6 @@
 # Contributors
 - [Abhishek Prajapatt](https://github.com/abhishekprajapatt)
+- [Naheel]
 - [Ale Roses](https://github.com/aleroses)
 - [Mike G](https://github.com/mgalkowski/)
 - [Levis-Nyagah] (https://github.com/umeskia-levi)
