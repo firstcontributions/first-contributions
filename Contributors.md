@@ -77,6 +77,7 @@
  - [Alex Pozhidaev](https://github.com/AlexPozh)
  - [NegiChahan](https://github.com/NegiChahan)
  - [Abdulrhman Ansary](https://github.com/AbdulrhmanAnsary)
+ - [Barta Zsombor](https://github.com/l4ttic3zs)
  - [Ayush Dwibedy](https://github.com/<your-username>)
  - [Juan Pablo Rovayo Delgado](https://github.com/Pablitord)
  - [Akshay Mahto](https://github.com/akshaymahto)
