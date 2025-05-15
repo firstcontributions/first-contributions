@@ -2897,6 +2897,7 @@ Darien Edwards
 - [Atharv Singh](https://github.com/NotAtharvOP)
 - [Hieu Le Van](https://github.com/heterl0)
 - [Joao Filipe](https://github.com/JF532)
+- [PyPlumber](https://github.com/PyPlumber)
 - [Sudhanshoo Sarage](https://github.com/sudhanshoosarage)
 - [Dave Tsui](https://github.com/dave-hk)
 - [Jingyi Ding](https://github.com/dingfwrvhfhb)
