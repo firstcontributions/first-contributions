@@ -1,9 +1,15 @@
 # Contributors
+- [Abhishek Prajapatt](https://github.com/abhishekprajapatt)
+- [Naheel]
+- [Ale Roses](https://github.com/aleroses)
 - [Mike G](https://github.com/mgalkowski/)
 - [Levis-Nyagah] (https://github.com/umeskia-levi)
+- [Xuefeng Sun] (https://github.com/Artan1ss)
 - [Johnpark](https://github.com/devjohnpark)
 - [nastenka_777](https://github.com/nastenka777)
 - [jiji](https://github.com/chelchel29)
+- [Harsh-Jain](https://github.com/Harshjain10020)
+- [Lazymanzoid](https://github.com/LazymanzoidOfficial) I was also here.
  - [Vishruth](https://github.com/Vishruth-Hyphen)
  - [Vishruth](https://github.com/Vishruth-Hyphen)
  - [Arjun Rai](https://github.com/ArjunRai1)
@@ -16,7 +22,10 @@
  - [Neel Bhattacharya](https://github.com/Neel-max-cpu)
  -[FluffySce - Farhan Khan](https://github.com/FluffySce)
  -[joao-299](https://github.com/Joao-299)
+ -[Cat Young](https://github.com/CatYoung018/CatYoung018)
+-[joao-299](https://github.com/Joao-299)
 - [Justicide381](https://gothub.com/justicide381) 
+- [Ray Silva](https://github.com/RSM23191)
 - [Shaparow] (https://github.com/Shaparow) I was here too.
 [FreemanBoss](https://github.com/FreemanBoss)
 [Ashish Raj](https://github.com/Ashish570raj)
@@ -25,6 +34,7 @@
   -[KhanBuilds](https://github.com/KhanBuilds) I was here.
   [ReNothingg](https://github.com/ReNothingg)
  - [Rahul Sharma](https://github.com/DeF4lt-Cap10N)
+ - [Sarah Biscuits](https://github.com/SarahBiscuit)
  -[Karyampudi Meghana Sai](https://github.com/kmeghanasai)
   [Júlia Menger] (https://github.com/juliamenger)
   -[KobeVLM](https://github.com/KobeVLM)
@@ -2882,5 +2892,6 @@ Darien Edwards
 - [Dave Tsui](https://github.com/dave-hk)
 - [Jingyi Ding](https://github.com/dingfwrvhfhb)
 - [Tristan Aragon](https://github.com/Nobitwhat)
+- [Helen Wong](https://github.com/helen-m-wong)
 - [zep](https://github.com/zepredos)
 - [Michael Yuen](https://github.com/subPTcon)
