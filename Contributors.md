@@ -49,6 +49,7 @@
  - [RintaroKanaji](https://github.com/kanaji2002)
  - [Harsh kumar jadon](https://github.com/Harsh-jadoun)
  - [Ebrahim El-Sayed](https://github.com/0xEbrahim)
+ - [Davi Gomes Mendes](https://github.com/DaviGms5)
  - [Devansh](https://github.com/DevanshKapoor)
  - [Shubiksha](https://github.com/Shubiks)
  - [Anjayy Mabar](https://github.com/yoksipmksi)
