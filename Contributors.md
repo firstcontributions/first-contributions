@@ -2934,3 +2934,4 @@ Darien Edwards
 -[P.Kawshikk-Shriidatta](https://github.com/Kawshikk-Shrii)
 -[Prithika](https://github.com/prithikalambore)
 -[Anuj Jain](https://github.com/anujScript)
+- [interset-wq](https://github.com/interset-wq)
