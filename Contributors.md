@@ -2830,6 +2830,7 @@ Darien Edwards
 [Nish2005karsh](https://github.com/Nish2005karsh)
 -[Miguel Feria](https://github.com/inkmiguel)
 -[Fausto Rodriguez](https://github.com/FaustoRo)
+- Derrick Wijaya
 -[Muhammad Zidan Fatonie](https://github.com/mzf11125)
 -[Nicholas Franshel Kurniawan](https://github.com/franshel)
 -[Javier Almer](https://github.com/merzxyz)
