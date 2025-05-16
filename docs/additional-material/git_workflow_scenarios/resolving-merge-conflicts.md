@@ -106,4 +106,4 @@ git checkout -b feature-branch
 
 - [FreeCodeCamp: Practical Guide to Merge Conflicts](https://www.freecodecamp.org/news/resolve-merge-conflicts-in-git-a-practical-guide/)
 
-By following this guide, you'll be well-equipped to handle merge conflicts confidently, ensuring a smoother contribution process to the First Contributions project.
+By following this guide, you'll be well-equipped to handle merge conflicts confidently, ensuring a smoother contribution process to any open source project!
