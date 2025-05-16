@@ -13,6 +13,7 @@
 - [Levis-Nyagah] (https://github.com/umeskia-levi)
 - [Xuefeng Sun] (https://github.com/Artan1ss)
 - [Johnpark](https://github.com/devjohnpark)
+- [Nabil Al Masri](https://github.com/NabilMx99)
 - [Jakes_okindo] (https://github.com/Okindo-T)
 - [nastenka_777](https://github.com/nastenka777)
 - [jiji](https://github.com/chelchel29)
