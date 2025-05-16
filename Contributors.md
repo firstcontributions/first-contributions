@@ -94,6 +94,7 @@
  - [Alex Santos](https://github.com/alexaito26) LEBRON JAMES CRISTIANO RONALDO
  - [Walisson Fernandes](https://github.com/Murynga)
  - [Hamundo](https://github.com/Ha-Mundo)
+ - [Alisson Ricady](https://github.com/armg2005)
  - [Mason Naung](https://github.com/masonn99)
  - [Vinicius Correia](https://github.com/vini-correia)
  - [Amir Razakov](https://github.com/ByteHasher)
