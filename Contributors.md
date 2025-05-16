@@ -322,6 +322,7 @@ Anshi
 - [Gabrielgg](https://github.com/gabrielgrillo)
 - [Nishu](https://github.com/nishuR31)
 - [Ward](https://github.com/rawadmuhammed)
+- [Indrajit] (https://github.com/satoru-77)
 - [GoodBoy](https://github.com/prasad-bigdp)
 - [Aman](https://github.com/Amanthisside)
 - [Toni Thomas](https://github.com/DiyBookOfLife)
