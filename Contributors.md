@@ -2945,5 +2945,6 @@ Darien Edwards
 -[Mauricio Ribeiro] (https://github.com/Mauma9)
 -[P.Kawshikk-Shriidatta](https://github.com/Kawshikk-Shrii)
 -[Prithika](https://github.com/prithikalambore)
+- S W Rusci
 -[Anuj Jain](https://github.com/anujScript)
 -[ChilliRoger](https://github.com/ChilliRoger)
