@@ -3,6 +3,7 @@
 - [Douglas souza dos santos](https://github.com/Fera-programador)
 - [Abhishek Prajapatt](https://github.com/abhishekprajapatt)
 - [Naheel]
+- [Asna Assalam](https://github.com/asnaassalam)
 - [Ale Roses](https://github.com/aleroses)
 - [Mike G](https://github.com/mgalkowski/)
 - [Michael J] (https://github.com/michaeljjamero)
