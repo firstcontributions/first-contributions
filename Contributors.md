@@ -68,6 +68,7 @@
  - [Rabbi Islam Rony](https://github.com/rabbiislamrony)
  - [Divyansh Goyal](https://github.com/divyanshgoyal777)
  - [JacobisEpic](https://github.com/JacobisEpic)
+ - [Peterson William](https:github.com/codesmaug)
  - [Johnathan Aye](https://github.com/jaye311)
  - [IamJayPrakash](https://github.com/IamJayPrakash)
  - [Lawan Mai](https://github.com/zlKxrsan)
