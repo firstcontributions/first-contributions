@@ -74,6 +74,7 @@
  - [JacobisEpic](https://github.com/JacobisEpic)
  - [Peterson William](https:github.com/codesmaug)
  - [Johnathan Aye](https://github.com/jaye311)
+ - [Makhlwf](https://github.com/Makhlwf)
  - [IamJayPrakash](https://github.com/IamJayPrakash)
  - [Lawan Mai](https://github.com/zlKxrsan)
  - [Mukund](https://github.com/mukundgupta)
