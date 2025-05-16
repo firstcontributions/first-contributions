@@ -4,6 +4,7 @@
 - [Asna Assalam](https://github.com/asnaassalam)
 - [Ale Roses](https://github.com/aleroses)
 - [Mike G](https://github.com/mgalkowski/)
+- [Sachin Kumar](https://github.com/sk2105)
 - [Michael J] (https://github.com/michaeljjamero)
 - [Debpriyo-Ghosal] (https://github.com/DevDebpriyo)
 - [Levis-Nyagah] (https://github.com/umeskia-levi)
