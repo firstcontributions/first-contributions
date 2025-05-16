@@ -141,6 +141,7 @@
  - [AjayS] (https://github.com/ajaykuma)
  - [Venkidesh Venu](https://github.com/venkideshVenu)
  - [Katy Frances A](https://github.com/KatyFrancesA)
+ - [Daniel Pineda P] (https://github.com/chakra777)
  - [Nabina Mallik](https://thenabinamallik.vercel.app)
  - [Shubham Garh](https://github.com/devac123)
  - [Tyler Taylor](https://github.com/UnstablePayload)
