@@ -1,4 +1,6 @@
 # Contributors
+
+- [Douglas souza dos santos](https://github.com/Fera-programador)
 - [Abhishek Prajapatt](https://github.com/abhishekprajapatt)
 - [Naheel]
 - [Ale Roses](https://github.com/aleroses)
