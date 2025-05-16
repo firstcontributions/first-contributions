@@ -1197,6 +1197,7 @@ Matthew Burgos
 - [Ragini Tiwar](https://github.com/Ragini-Tiwari)
 - [tuysh](https://github.com/Tuysh)
 - [Esther Kalsmith](https://github.com/EstherKal)
+- [Daing Hanum Farhana](https://github.com/iAmHanum)
 - [Vittorio Garretto](https://github.com/VittorioGarretto)
 - [Zoe Reed](https://github.com/zoereedviz)
 - [Alivia Nayla Wibisono](https://github.com/alivianay)
