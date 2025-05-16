@@ -1989,9 +1989,10 @@ Darien Edwards
 - [Felix Gomez @felixdavid12](https://github.com/felixdavid12)
 - [doudouCodingInGithub](https://github.com/doudouCodingInGithub)
 - [kaustub03](https://github.com/kaustub03)
+- [Thamyres Christine](https://github.com/ThamyresChristine/)
 - [Alberto Pe#a](https://github.com/APC9) 🔥
 - [Abhishek Sharma](https://github.com/Abhisheksharmao)
-- [Nayana N M](https://github.com/Nayana62)
+- [Nayana N M](https://github.com/Nayana62
 - [Hemant](https://github.com/hemant187)
 - [Pradip Borade](https://github.com/pradipborade911)
 [C043](https://github.com/c043) was here.
