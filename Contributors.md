@@ -2944,6 +2944,7 @@ Darien Edwards
 -[Gustavo Rodrigues de Oliveira](https://github.com/GuuhRodrigues96)
 -[Nathan Chrestani](https://github.com/Nathan-js458)
 -[Mauricio Ribeiro] (https://github.com/Mauma9)
+- [Caio César Oliveira Silva] (https://github.com/CaiaoCesar)
 -[P.Kawshikk-Shriidatta](https://github.com/Kawshikk-Shrii)
 -[Prithika](https://github.com/prithikalambore)
 -[Anuj Jain](https://github.com/anujScript)
