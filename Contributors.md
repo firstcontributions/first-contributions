@@ -1690,6 +1690,7 @@ Darien Edwards
 - [Andyple](https://github.com/andyple)
 - [psp0](https://github.com/psp0)
 - Egor Kravchenko
+- [StraitGhost](https://github.com/StraitGhost)
 - [Enzo](https://github.com/FRAIOLIenzo)
 - [mohammadanas51](https://github.com/mohammadanas51)
 - [Neil Foxcroft](https://github.com/neilfoxcroft)
