@@ -2949,5 +2949,6 @@ Darien Edwards
 - [Caio César Oliveira Silva] (https://github.com/CaiaoCesar)
 -[P.Kawshikk-Shriidatta](https://github.com/Kawshikk-Shrii)
 -[Prithika](https://github.com/prithikalambore)
+- S W Rusci
 -[Anuj Jain](https://github.com/anujScript)
 -[ChilliRoger](https://github.com/ChilliRoger)
