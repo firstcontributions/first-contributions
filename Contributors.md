@@ -775,6 +775,7 @@ Matthew Burgos
 - [Masha K] (https://github.com/Mashkasd)
 - [heer](https://github.com/gunheerahuja)
 - [camonayc](https://github.com/camonayc)
+- [Fikir](https://github.com/smartrader1)
 - [Francisco Robles](https://github.com/fcojrobles)
 - [ZhIIhaoc](https://github.com/ZhIIhaoc)
 - [Nuno Pontes](https://github.com/n-pontes)
