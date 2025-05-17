@@ -5,7 +5,7 @@
 - [Austin Cook](https://github.com/austin-cook)
 - [Abhishek Prajapatt](https://github.com/abhishekprajapatt)
 - [Naheel]
-- [Dharani Eswaramurthi](https://github.com/Dharani-Eswaramurthi)
+- [Dharani Eswaramurthi](https://github.com/Dharani-Eswaramurthi) 
 - [Guilherme Queiroz Guimaraes](https://github.com/GuilhQueiroz)
 - [Anton Tumurov](https://github.com/Anton-tumurov)
 - [Everton Gabriel do Santos](https://github.com/Evert0nSantos)
