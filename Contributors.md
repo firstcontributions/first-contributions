@@ -2,7 +2,7 @@
 
 - [Khaja](https://github.com/mkshah502)
 - [Manoj](https://github.com/mxnojkumar)
-- [Prathamesh Rokade](https://github.com/Prathamesh-1011/)
+- [Prathamesh Rokade](https://github.com/Prathames)
 - [Douglas souza dos santos](https://github.com/Fera-programador)
 - [Austin Cook](https://github.com/austin-cook)
 - [Abhishek Prajapatt](https://github.com/abhishekprajapatt)
@@ -2985,3 +2985,4 @@ Darien Edwards
 - [dodolalorc](https://github.com/dodolalorc)
 - [Bhargav Desai](https://github.com/sureokay)
 - [CrayonCreator](https://github.com/CrayonCreator)
+-[Agrim](https://github.com/Agrimsh)
