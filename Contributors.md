@@ -1,7 +1,8 @@
 # Contributors
 
+- [Khaja](https://github.com/mkshah502)
 - [Manoj](https://github.com/mxnojkumar)
--[Agrim](https://github.com/Agrimsh)
+- [Prathamesh Rokade](https://github.com/Prathames)
 - [Douglas souza dos santos](https://github.com/Fera-programador)
 - [Austin Cook](https://github.com/austin-cook)
 - [Abhishek Prajapatt](https://github.com/abhishekprajapatt)
@@ -1586,6 +1587,7 @@ Darien Edwards
 - [ahmad777x86](https://github.com/ahmad777x86)
 - [aakashsaini09](https://github.com/aakashsaini09)
 - [Nikolai B.](https://github.com/nbardzinkevichh)
+- [Nicholas C.](https://github.com/ncolvin-dev)
 - [TheJaydenProject](https://github.com/TheJaydenProject)
 - [Gabriel Vieira](https://www.linkedin.com/in/gabrielvieirasantos/)
 - [Daniel Molina](https://github.com/molinafm30)
