@@ -1915,6 +1915,7 @@ Darien Edwards
 - [Isabela Magalhães](https://github.com/isarbela)
 - [HiParham](https://github.com/hiparham)
 - [John Caleb ⚡](https://github.com/thejohncaleb)
+- [KG](https://github.com/kgoel9899)
 - [Nahuel Franco](https://github.com/NahuelNubiral)
 - [Rashmi Pai](https://github.com/RashmiRamdasPai)
 - [CristhianBravo865](https://github.com/CristhianBravo865)
