@@ -10,6 +10,7 @@
 - [Everton Gabriel do Santos](https://github.com/Evert0nSantos)
 - [Tony Obi] (https://github.com/tboyobi)
 - [Asna Assalam](https://github.com/asnaassalam)
+- [ADMIRΛL](https://github.com/ogadmiral)
 - [Ale Roses](https://github.com/aleroses)
 - [Mike G](https://github.com/mgalkowski/)
 - [Sachin Kumar](https://github.com/sk2105)
@@ -27,8 +28,6 @@
 - [Wanessa Brito](https://github.com/wanessabrito)
 - [Lazymanzoid](https://github.com/LazymanzoidOfficial) I was also here.
  - [Vishruth](https://github.com/Vishruth-Hyphen)
- - [Vishruth](https://github.com/Vishruth-Hyphen)
- - [Arjun Rai](https://github.com/ArjunRai1)
  - [Samaha Munir](https://github.com/SamahaMunir)
  - [shruthi reddy](https://github.com/shruthireddy1213)
  - [Sheila Susan](https://github.com/SheilaSusan)
