@@ -2,6 +2,7 @@
  - [Vishruth](https://github.com/Vishruth-Hyphen)
  - [Samaha Munir](https://github.com/SamahaMunir)
  - [Sarah Caulfield](https://github.com/scaulfield7)
+ [ADMIRΛL](https://github.com/ogadmiral)
  -[NotIshaan - Ishaan Bhadrike] (https://github.com/NotIshaan)
  -[FluffySce - Farhan Khan](https://github.com/FluffySce)
 -[joao-299](https://github.com/Joao-299)
