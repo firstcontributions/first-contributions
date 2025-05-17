@@ -2980,4 +2980,5 @@ Darien Edwards
 - [Zugravel Teodor](https://github.com/zugravelteodor)
 - Amanda E N (https://github.com/aeemiliaaa)
 - [dodolalorc](https://github.com/dodolalorc)
+- [Bhargav Desai](https://github.com/sureokay)
 - [CrayonCreator](https://github.com/CrayonCreator)
