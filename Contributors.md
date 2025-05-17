@@ -77,6 +77,7 @@
  - [Allan Alton](https://github.com/alton47)
  -[Pathan Lakir khan](https://github.com/Lakirkhan)
  - [Rabbi Islam Rony](https://github.com/rabbiislamrony)
+ - [Stitou Ghita](https://github.com/ghita2025)
  - [Divyansh Goyal](https://github.com/divyanshgoyal777)
  - [JacobisEpic](https://github.com/JacobisEpic)
  - [Peterson William](https:github.com/codesmaug)
