@@ -2971,3 +2971,4 @@ Darien Edwards
 - [Chetan Barakki](https://github.com/chetanbarakki)
 - [yeguo](https://github.com/yeguoz)
 - [Zugravel Teodor](https://github.com/zugravelteodor)
+- [dodolalorc](https://github.com/dodolalorc)
