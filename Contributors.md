@@ -2940,6 +2940,7 @@ Darien Edwards
 - [Tristan Aragon](https://github.com/Nobitwhat)
 - [Helen Wong](https://github.com/helen-m-wong)
 - [zep](https://github.com/zepredos)
+- [Vadim N](https://github.com/vadim8702)
 - [Rahul Chauhan](https://github.com/Rahul0-01)
 - [Jon Hay](https://github.com/jonhayjr)
 - [Marie Cynthia Abijuru kamikazi](https://github.com/Cynthia-kam)
