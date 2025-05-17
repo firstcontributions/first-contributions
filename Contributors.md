@@ -1,6 +1,7 @@
 # Contributors
 
 - [Manoj](https://github.com/mxnojkumar)
+- [Prathamesh Rokade](https://github.com/Prathamesh-1011/)
 - [Douglas souza dos santos](https://github.com/Fera-programador)
 - [Austin Cook](https://github.com/austin-cook)
 - [Abhishek Prajapatt](https://github.com/abhishekprajapatt)
