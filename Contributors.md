@@ -140,6 +140,7 @@
  - [Unknown_rvp]
  -[Ayush Singh](https://github.com/ayushsingh4848)
  - [Daniel Widjaja](https://github.com/Danwidj)
+ - [Daniel Douglas](https://github.com/dannndouglas)
  - [Mamosebetsi Kekae](https://github.com/shaymk1)
  - [ZeruZeruZee](https://github.com/ZeruZeruZee)
  - [Divyam Sharma](https://github.com/Divyamsharma-18)
