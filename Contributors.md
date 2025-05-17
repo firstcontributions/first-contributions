@@ -1585,6 +1585,7 @@ Darien Edwards
 - [ahmad777x86](https://github.com/ahmad777x86)
 - [aakashsaini09](https://github.com/aakashsaini09)
 - [Nikolai B.](https://github.com/nbardzinkevichh)
+- [Nicholas C.](https://github.com/ncolvin-dev)
 - [TheJaydenProject](https://github.com/TheJaydenProject)
 - [Gabriel Vieira](https://www.linkedin.com/in/gabrielvieirasantos/)
 - [Daniel Molina](https://github.com/molinafm30)
