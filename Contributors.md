@@ -4,6 +4,7 @@
 - [Austin Cook](https://github.com/austin-cook)
 - [Abhishek Prajapatt](https://github.com/abhishekprajapatt)
 - [Naheel]
+- [Anton Tumurov](https://github.com/Anton-tumurov)
 - [Asna Assalam](https://github.com/asnaassalam)
 - [ADMIRΛL](https://github.com/ogadmiral)
 - [Ale Roses](https://github.com/aleroses)
