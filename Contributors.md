@@ -1,6 +1,7 @@
 # Contributors
 
 - [Manoj](https://github.com/mxnojkumar)
+-[Agrim](https://github.com/Agrimsh)
 - [Douglas souza dos santos](https://github.com/Fera-programador)
 - [Austin Cook](https://github.com/austin-cook)
 - [Abhishek Prajapatt](https://github.com/abhishekprajapatt)
@@ -2982,3 +2983,4 @@ Darien Edwards
 - [dodolalorc](https://github.com/dodolalorc)
 - [Bhargav Desai](https://github.com/sureokay)
 - [CrayonCreator](https://github.com/CrayonCreator)
+-[Agrim](https://github.com/Agrimsh)
