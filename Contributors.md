@@ -137,6 +137,7 @@
  - [Shubhanga R Beeragere](https://github.com/beeragere)
  - [Shravani Gaikwad](https://github.com/shrav84)
  - [Unknown_rvp]
+ -[Ayush Singh](https://github.com/ayushsingh4848)
  - [Daniel Widjaja](https://github.com/Danwidj)
  - [Mamosebetsi Kekae](https://github.com/shaymk1)
  - [ZeruZeruZee](https://github.com/ZeruZeruZee)
