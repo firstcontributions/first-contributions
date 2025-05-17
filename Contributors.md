@@ -5,6 +5,7 @@
 - [Abhishek Prajapatt](https://github.com/abhishekprajapatt)
 - [Naheel]
 - [Anton Tumurov](https://github.com/Anton-tumurov)
+- [Everton Gabriel do Santos](https://github.com/Evert0nSantos)
 - [Tony Obi] (https://github.com/tboyobi)
 - [Asna Assalam](https://github.com/asnaassalam)
 - [Ale Roses](https://github.com/aleroses)
