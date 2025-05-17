@@ -5,6 +5,7 @@
 - [Abhishek Prajapatt](https://github.com/abhishekprajapatt)
 - [Naheel]
 - [Anton Tumurov](https://github.com/Anton-tumurov)
+- [Tony Obi] (https://github.com/tboyobi)
 - [Asna Assalam](https://github.com/asnaassalam)
 - [Ale Roses](https://github.com/aleroses)
 - [Mike G](https://github.com/mgalkowski/)
@@ -476,6 +477,7 @@ e-Jo
 - [Cybercodemomo](https://github.com/Azu001-Cyber)
 - [SergioElías](https://github.com/sezgox)
 - [AHMEEEEEEED (the real Andy Kaufman)] (https://github.com/andykofman)
+- [Phantom](https://github.com/Phan1000-7)
 - [Anum Kousar](https://github.com/anum-349)
 - [Aditya TLN](https://github.com/TLNAditya)
 - [AditiRajguru](https://github.com/aditi10998)
@@ -2939,6 +2941,7 @@ Darien Edwards
 - [Tristan Aragon](https://github.com/Nobitwhat)
 - [Helen Wong](https://github.com/helen-m-wong)
 - [zep](https://github.com/zepredos)
+- [Vadim N](https://github.com/vadim8702)
 - [Rahul Chauhan](https://github.com/Rahul0-01)
 - [Jon Hay](https://github.com/jonhayjr)
 - [Marie Cynthia Abijuru kamikazi](https://github.com/Cynthia-kam)
@@ -2961,3 +2964,4 @@ Darien Edwards
 - [Sohaib Mahmoud](https://github.com/sohaib077)
 - [interset-wq](https://github.com/interset-wq)
 - [Chetan Barakki](https://github.com/chetanbarakki)
+- [yeguo](https://github.com/yeguoz)
