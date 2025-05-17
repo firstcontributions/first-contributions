@@ -5,6 +5,7 @@
 - [Abhishek Prajapatt](https://github.com/abhishekprajapatt)
 - [Naheel]
 - [Asna Assalam](https://github.com/asnaassalam)
+- [ADMIRΛL](https://github.com/ogadmiral)
 - [Ale Roses](https://github.com/aleroses)
 - [Mike G](https://github.com/mgalkowski/)
 - [Sachin Kumar](https://github.com/sk2105)
