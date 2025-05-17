@@ -2969,3 +2969,4 @@ Darien Edwards
 - [interset-wq](https://github.com/interset-wq)
 - [Chetan Barakki](https://github.com/chetanbarakki)
 - [yeguo](https://github.com/yeguoz)
+- [Zugravel Teodor](https://github.com/zugravelteodor)
