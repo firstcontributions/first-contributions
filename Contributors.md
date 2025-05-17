@@ -2989,3 +2989,4 @@ Darien Edwards
 - [Bhargav Desai](https://github.com/sureokay)
 - [CrayonCreator](https://github.com/CrayonCreator)
 -[Agrim](https://github.com/Agrimsh)
+- [Luiz Henrique Pego Santos](https://github.com/LuizHenriquePego)
