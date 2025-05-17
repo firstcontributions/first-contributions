@@ -2971,4 +2971,5 @@ Darien Edwards
 - [Chetan Barakki](https://github.com/chetanbarakki)
 - [yeguo](https://github.com/yeguoz)
 - [Zugravel Teodor](https://github.com/zugravelteodor)
+- Amanda E N (https://github.com/aeemiliaaa)
 - [dodolalorc](https://github.com/dodolalorc)
