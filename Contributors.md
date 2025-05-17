@@ -22,6 +22,7 @@
 - [Johnpark](https://github.com/devjohnpark)
 - [Nabil Al Masri](https://github.com/NabilMx99)
 - [Jakes_okindo] (https://github.com/Okindo-T)
+- [Walter Murage] (https://github.com/Thriller-W)
 - [nastenka_777](https://github.com/nastenka777)
 - [jiji](https://github.com/chelchel29)
 - [Harsh-Jain](https://github.com/Harshjain10020)
