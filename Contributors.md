@@ -56,8 +56,8 @@
 [FreemanBoss](https://github.com/FreemanBoss)
 [Ashish Raj](https://github.com/Ashish570raj)
 - [J-Ezra](https://github.com/j-ezra)
+ -[KhanBuilds](https://github.com/KhanBuilds) I WAS HERE.
 - [Chirag Sehgal](https://github.com/chirAAG-sehgal) Just trying it out
--[KhanBuilds](https://github.com/KhanBuilds) I was here.
   [ReNothingg](https://github.com/ReNothingg)
  - [Rahul Sharma](https://github.com/DeF4lt-Cap10N)
  -[Sahadev Pandey] (https://github.com/sahadev234)
