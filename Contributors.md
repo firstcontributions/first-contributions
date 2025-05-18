@@ -490,6 +490,7 @@ e-Jo
 - [Rahul Tiwari](https://github.com/tiwari-Rhul)
 - [Barkn]
 - [Eliozzo]
+  [leonardo santos]
 - [Sidney](https://github.com/sidneykanoti)
 - [Pinky Gupta](https://github.com/PinkyGuptaa)
 - [Hossein Khalili](https://github.com/hos715)
