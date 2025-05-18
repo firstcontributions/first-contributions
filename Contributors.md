@@ -435,6 +435,7 @@ e-Jo
 - [Bakhodir Ulugov](https://github.com/bulugov)
 - [Sayed Sahil Ahmed] (https://github.com/SSAHMED007)
 - [Matthew Morgan] (https://github.com/PowerUpHero3)
+- [Dor Varsulker] (https://github.com/dorvarsul)
 - [VulpesGH](https://github.com/vulpesGH)
 - [Gonzalo Benitez](https://github.com/gonzaabenitezz)
 - [Horticultural Hedgemon](https://github.com/horticulturalhedgemon)
