@@ -1,8 +1,9 @@
 # Contributors
 
+- [UTKARSH-at-code] (https://github.com/UTKARSH-at-code)
 - [Khaja](https://github.com/mkshah502)
 - [Manoj](https://github.com/mxnojkumar)
-- [Prathamesh Rokade](https://github.com/Prathames)
+- [Prathamesh Rokade](https://github.com/Pratha)
 - [Douglas souza dos santos](https://github.com/Fera-programador)
 - [Austin Cook](https://github.com/austin-cook)
 - [Abhishek Prajapatt](https://github.com/abhishekprajapatt)
@@ -65,6 +66,7 @@
  -[Karyampudi Meghana Sai](https://github.com/kmeghanasai)
  [Júlia Menger] (https://github.com/juliamenger)
  [Syang] (https://github.com/Syang111)
+ [Kovi_The_Handsome] (https://github.com/KoviSingh)
  -[KobeVLM](https://github.com/KobeVLM)
  -[KobyBuchanan](https://github.com/KobyBuchanan)
  - [sfreagin](https://github.com/sfreagin)
@@ -2996,3 +2998,5 @@ Darien Edwards
 - [Luiz Henrique Pego Santos](https://github.com/LuizHenriquePego)
 - [Jacson Francisco Viana Santos](https://github.com/jfvs013)
 - [Weilia](https://github.com/Weilia95)
+- [Artur Rakhmatullin](https://github.com/destiny503)
+- [Faysal SARKER](https://github.com/faysal123455)
