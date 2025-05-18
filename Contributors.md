@@ -435,6 +435,7 @@ e-Jo
 - [Bakhodir Ulugov](https://github.com/bulugov)
 - [Sayed Sahil Ahmed] (https://github.com/SSAHMED007)
 - [Matthew Morgan] (https://github.com/PowerUpHero3)
+- [Dor Varsulker] (https://github.com/dorvarsul)
 - [VulpesGH](https://github.com/vulpesGH)
 - [Gonzalo Benitez](https://github.com/gonzaabenitezz)
 - [Horticultural Hedgemon](https://github.com/horticulturalhedgemon)
@@ -2998,3 +2999,5 @@ Darien Edwards
 - [Luiz Henrique Pego Santos](https://github.com/LuizHenriquePego)
 - [Jacson Francisco Viana Santos](https://github.com/jfvs013)
 - [Weilia](https://github.com/Weilia95)
+- [Artur Rakhmatullin](https://github.com/destiny503)
+- [Faysal SARKER](https://github.com/faysal123455)
