@@ -3015,3 +3015,4 @@ Darien Edwards
 - Olá! Eu sou o Luiz Felipe (https://github.com/LuizFelipeLP) do Brasil!
 - [Horizon7006](https://github.com/horizon7006)
 - [faizdevx](https://github.com/faizdevx)
+- [myopicOracle](https://github.com/myopicOracle)
