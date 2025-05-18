@@ -144,6 +144,7 @@
    Frizja
  - [Rakshanaa](https://github.com/Rakshanaa2026) 
  main
+ -[Lonedev](https://github.com/ishwarthecodddr)
  - [hanyudeye](https://github.com/hanyudeye)
  - [Rajdeep Keshri](https://github.com/Rajdeep4586)
  - [Shubhanga R Beeragere](https://github.com/beeragere)
