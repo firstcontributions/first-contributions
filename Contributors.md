@@ -537,6 +537,7 @@ Matthew Burgos
 - [Tristan Orpilla] (https://github.com/13tristan)
 - [Akash M] (https://github.com/Akashm311)
 - [Anmol Raturi] (https://github.com/TimelyCo)
+- [João Gabriel Loiola Lima] (https://github.com/jg323/first-contributions)
 - [Shiva-Narra] (https://github.com/Shiva-ADA)
 - [Scott K Fraley] (https://github.com/ScottKFraley)
 - [Kelseyyxm] (http://github.com/kelseyyxm)
