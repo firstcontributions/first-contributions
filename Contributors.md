@@ -2998,3 +2998,4 @@ Darien Edwards
 - [Luiz Henrique Pego Santos](https://github.com/LuizHenriquePego)
 - [Jacson Francisco Viana Santos](https://github.com/jfvs013)
 - [Weilia](https://github.com/Weilia95)
+- [Artur Rakhmatullin](https://github.com/destiny503)
