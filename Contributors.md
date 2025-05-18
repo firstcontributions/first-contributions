@@ -3012,6 +3012,8 @@ Darien Edwards
 - [Faysal SARKER](https://github.com/faysal123455)
 - [Ali Akpoyraz](https://github.com/aliakpoyraz)
 - [Keyz](https://github.com/keyzeuh)
+- [Oziri](https://github.com/oziriemeka) 
 - Olá! Eu sou o Luiz Felipe (https://github.com/LuizFelipeLP) do Brasil!
 - [Horizon7006](https://github.com/horizon7006)
 - [faizdevx](https://github.com/faizdevx)
+
