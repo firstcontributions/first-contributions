@@ -1106,6 +1106,7 @@ Matthew Burgos
 - Mustafa Mubarak Shaik (GitHub-mubarakshaik6)
 - [Mohammad Ali Akmal](https://github.com/maliakmal)
 - [hannah0wang 🍍](https://github.com/hannah0wang)
+- [evneis](https://github.com/evneis)
 - [kamil](https://github.com/Kamil115853)
 - [AdiSaikat](https://github.com/adisaikat)
 - [Arman Yadav](https://github.com/armaaan-yadav)
