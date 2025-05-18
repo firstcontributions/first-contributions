@@ -3008,3 +3008,4 @@ Darien Edwards
 - [Ali Akpoyraz](https://github.com/aliakpoyraz)
 - [Keyz](https://github.com/keyzeuh)
 - Olá! Eu sou o Luiz Felipe (https://github.com/LuizFelipeLP) do Brasil!
+- [Horizon7006](https://github.com/horizon7006)
