@@ -1,7 +1,7 @@
 # Contributors
 
-- [Sooraj Rao](https://soorajrao.in?ref=github-first-contribution)
 - [UTKARSH-at-code] (https://github.com/UTKARSH-at-code)
+- [Sooraj Rao](https://soorajrao.in?ref=github-first-contribution)
 - [Khaja](https://github.com/mkshah502)
 - [Manoj](https://github.com/mxnojkumar)
 - [Prathamesh Rokade](https://github.com/Pratha)
