@@ -2789,6 +2789,7 @@ Darien Edwards
 - [Monokatarina](https://github.com/monokatarina)
 - [Kazuyuki Kita](https://github.com/chisuke0309)
 - [Flxzz](https://github.com/Flxzz)
+- [Maaz Azhar](https://github.com/maxpainop)
 - [Oleksii Shamrai](https://github.com/alexshamrai)
 - [Brad Stafford](https://github.com/b-rad-omni)
 - Damilare ( https://github.com/damilareoo )
