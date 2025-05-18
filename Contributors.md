@@ -26,6 +26,7 @@
 - [Johnpark](https://github.com/devjohnpark)
 - [Nabil Al Masri](https://github.com/NabilMx99)
 - [Jakes_okindo] (https://github.com/Okindo-T)
+- [Josemedvel](https://github.com/Josemedvel)
 - [Walter Murage] (https://github.com/Thriller-W)
 - [nastenka_777](https://github.com/nastenka777)
 - [jiji](https://github.com/chelchel29)
@@ -334,6 +335,7 @@ Anshi
 -[Luisa](https://github.com/lucstr-souza)
 - [TopHat327](https://github.com/TopHat327)
 -[Bytes Lord](https://github.com/Bram1956)
+-[Renganayaki]
 - [Jonathan Kila](https://github.com/Excelsior2021)
 - [Joruji Tsuchiya](https://github.com/joruji-tsuchiya)
 - [siddy09re](https://github.com/siddy09re)
@@ -489,6 +491,7 @@ e-Jo
 - [Rahul Tiwari](https://github.com/tiwari-Rhul)
 - [Barkn]
 - [Eliozzo]
+  [leonardo santos]
 - [Sidney](https://github.com/sidneykanoti)
 - [Pinky Gupta](https://github.com/PinkyGuptaa)
 - [Hossein Khalili](https://github.com/hos715)
@@ -536,6 +539,7 @@ Matthew Burgos
 - [Tristan Orpilla] (https://github.com/13tristan)
 - [Akash M] (https://github.com/Akashm311)
 - [Anmol Raturi] (https://github.com/TimelyCo)
+- [João Gabriel Loiola Lima] (https://github.com/jg323/first-contributions)
 - [Shiva-Narra] (https://github.com/Shiva-ADA)
 - [Scott K Fraley] (https://github.com/ScottKFraley)
 - [Kelseyyxm] (http://github.com/kelseyyxm)
@@ -715,6 +719,7 @@ Matthew Burgos
 - [Adrian Rosales](https://github.com/adrianhrosales365)
 - [Thrisha Kopula](https://github.com/ThrishaKopula)
 - [Kritesh Bhattarai](https://github.com/kritesh00/)
+- [Eduardo Cruz](https://github.com/eduardocruz777)👨👍
 - [Abasiono Mbat] (https://github.com/AJ-505)
 - [Yashwanth Santhanam](https://github.com/yash1thsa)
 - [Visal Raza Zaidi](https://github.com/VisalRazaZaidi)
@@ -1101,6 +1106,7 @@ Matthew Burgos
 - Mustafa Mubarak Shaik (GitHub-mubarakshaik6)
 - [Mohammad Ali Akmal](https://github.com/maliakmal)
 - [hannah0wang 🍍](https://github.com/hannah0wang)
+- [evneis](https://github.com/evneis)
 - [kamil](https://github.com/Kamil115853)
 - [AdiSaikat](https://github.com/adisaikat)
 - [Arman Yadav](https://github.com/armaaan-yadav)
@@ -3007,3 +3013,7 @@ Darien Edwards
 - [Ali Akpoyraz](https://github.com/aliakpoyraz)
 - [Keyz](https://github.com/keyzeuh)
 - [Oziri](https://github.com/oziriemeka) 
+- Olá! Eu sou o Luiz Felipe (https://github.com/LuizFelipeLP) do Brasil!
+- [Horizon7006](https://github.com/horizon7006)
+- [faizdevx](https://github.com/faizdevx)
+
