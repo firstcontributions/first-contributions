@@ -1,7 +1,7 @@
 # Contributors
-
 - [Khaja](https://github.com/mkshah502)
 - [Manoj](https://github.com/mxnojkumar)
+- [Fola](https://github.com/aluko123)
 - [Prathamesh Rokade](https://github.com/Prathames)
 - [Douglas souza dos santos](https://github.com/Fera-programador)
 - [Austin Cook](https://github.com/austin-cook)
