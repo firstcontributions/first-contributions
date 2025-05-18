@@ -66,6 +66,7 @@
  -[Karyampudi Meghana Sai](https://github.com/kmeghanasai)
  [Júlia Menger] (https://github.com/juliamenger)
  [Syang] (https://github.com/Syang111)
+ [Kovi_The_Handsome] (https://github.com/KoviSingh)
  -[KobeVLM](https://github.com/KobeVLM)
  -[KobyBuchanan](https://github.com/KobyBuchanan)
  - [sfreagin](https://github.com/sfreagin)
