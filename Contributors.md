@@ -10,6 +10,7 @@
   [Douglas souza dos santos](https://github.com/Fera-programador)
 - [Austin Cook](https://github.com/austin-cook)
 - [Abhishek Prajapatt](https://github.com/abhishekprajapatt)
+- [Flounder](https://github.com/restfulcurrent)
 - [Naheel]
 - Emre Arikan
 - [Asish Jena](https://github.com/Cadburyash/)
