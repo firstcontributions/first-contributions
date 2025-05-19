@@ -19,6 +19,7 @@
 - [Tony Obi] (https://github.com/tboyobi)
 - [Asna Assalam](https://github.com/asnaassalam)
 - [Ale Roses](https://github.com/aleroses)
+- [Lior Cohen](https://github.com/liorcodev)
 - [Mike G](https://github.com/mgalkowski/)
 - [Harshil-Solanki](https://github.com/26harshil)
 - [Sachin Kumar](https://github.com/sk2105)
