@@ -266,6 +266,7 @@
  - [Edwin Herbert Khiat](https://github.com/Kuuhaku-web)
  - [Moideen Shihab](https://github.com/shihabJ91)
  - [IRjSI](https://github.com/IRjSI)
+ - [Milagros Jimenez](https://github.com/milaejimenez)
 -[kiranmayee](https://github.com/sreekironmai)
  -[Qi Yang] (https://github.com/sqiyang)
  -[Naiara Gabriela](https://github.com/naiaragabriela)
