@@ -28,6 +28,7 @@
 - [Jakes_okindo] (https://github.com/Okindo-T)
 - [Josemedvel](https://github.com/Josemedvel)
 - [Walter Murage] (https://github.com/Thriller-W)
+- [Masterlincs](https://github.com/Masterlincs) 朝闻道，夕死可矣
 - [nastenka_777](https://github.com/nastenka777)
 - [jiji](https://github.com/chelchel29)
 - [Harsh-Jain](https://github.com/Harshjain10020)
