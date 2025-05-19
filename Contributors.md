@@ -980,6 +980,7 @@ Matthew Burgos
 - [Shubha Bhat](https://github.com/syshubha)
 - [Pravallika Pulipaka](https://github.com/pravallikapulipaka)
 - Sam
+- [cweichen](https://github.com/cweichen)
 -[Yenohi0704]s
 - [AnonymousTies](https://github.com/InnovatorMind)
 - [Raisul Islam Rifat](https://github.com/skywalker478)
