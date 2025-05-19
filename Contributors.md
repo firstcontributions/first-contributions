@@ -217,6 +217,7 @@
  - [Isgandar Karimov](https://github.com/Isgandarrr)
  - [Afroz](https://github.com/afroz000)
  - [Marco Calle](https://github.com/mcf331)
+ - [Oliver Wekesa](https://github.com/wekesaoliver)
  - [Ariel Vazquez](https://github.com/VazquezAriel)
  - [Luke Busfield](https://github.com/LukeBusfield) hOI
  - [Phinehas Macharia] (https://github.com/MachariaP)
