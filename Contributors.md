@@ -53,6 +53,7 @@
  - [Daniel](https://github.com/dbcode1)
  -[NotIshaan - Ishaan Bhadrike] (https://github.com/NotIshaan)
  - [Neel Bhattacharya](https://github.com/Neel-max-cpu)
+ -[Tony Karanja]
  -[FluffySce - Farhan Khan](https://github.com/FluffySce)
  -[Cat Young](https://github.com/CatYoung018/CatYoung018)
 -[Rohit Lal](https://github.com/rohitllal)
