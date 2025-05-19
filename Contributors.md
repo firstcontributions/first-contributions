@@ -77,6 +77,7 @@
  [Júlia Menger] (https://github.com/juliamenger)
  [Syang] (https://github.com/Syang111)
  [Kovi_The_Handsome] (https://github.com/KoviSingh)
+ [Marc Wijesuriya] (https://github.com/MarcWije)
  -[KobeVLM](https://github.com/KobeVLM)
  -[KobyBuchanan](https://github.com/KobyBuchanan)
  - [sfreagin](https://github.com/sfreagin)
