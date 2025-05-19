@@ -652,6 +652,7 @@ Matthew Burgos
 - [Gonzalo Murgeutyio](https://github.com/chalo2304)
 - [Tarun Mannava](https://github.com/tarunmannava)
 - [Pierre Jarry](https://github.com/pierrejarry)
+- [Arbel Karassin](https://github.com/ArbelKarassin)
 - [Nency Patel](https://github.com/nenncy)
 - [David canas](https://github.com/dacanass)
 - [Juan Alvarez](https://github.com/JAlv200)
