@@ -1651,6 +1651,7 @@ Darien Edwards
 - [Joel Anarba](https://github.com/joelanarba)
 - [NikitaJaiswal77](https://github.com/NikitaJaiswal77)
 - [sema-altinkaynak](https://github.com/sema-altinkaynak)
+- [Rikemannen](https://github.com/rikemannen)
 - [Lily](https://github.com/lilypandey)
 - [Sarvesh](https://github.com/sarvesh-sr)
 - [Vitvin](https://github.com/vitvinvaz)
