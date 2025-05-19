@@ -567,6 +567,7 @@ Matthew Burgos
 - [Chao Cherng] (https://github.com/ChaoCherng-Lee)
 - [Abhishek Upadhyay](http://github.com/GitsGut)
 - [Evan William](https://github.com/Wowieee4)
+- [Afthab Madathil] (https://github.com/afthabtm)
 - [Mateo](https://github.com/mateopozor02)
 - [caliarch](https://github.com/caliarch)
 - [Leo van der Ploeg](https://github.com/User32sys)
