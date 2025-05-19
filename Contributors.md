@@ -5,7 +5,8 @@
 - [Manoj](https://github.com/mxnojkumar)
 - [Faruq Khan Shired](https://github.com/FaruqKhan11148)
 - [Prathamesh Rokade](https://github.com/Pratha)
-- [Douglas souza dos santos](https://github.com/Fera-programador)
+-  [Kayo rodrigues]
+  [Douglas souza dos santos](https://github.com/Fera-programador)
 - [Austin Cook](https://github.com/austin-cook)
 - [Abhishek Prajapatt](https://github.com/abhishekprajapatt)
 - [Naheel]
