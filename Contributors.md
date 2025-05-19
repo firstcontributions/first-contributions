@@ -9,6 +9,7 @@
 - [Austin Cook](https://github.com/austin-cook)
 - [Abhishek Prajapatt](https://github.com/abhishekprajapatt)
 - [Naheel]
+- Emre Arikan
 - Laraib Ahmed Ansari
 - [Muhammed Nishad](https://github.com/mhdnishadc?tab=repositories)
 - [Guilherme Queiroz Guimaraes](https://github.com/GuilhQueiroz)
