@@ -220,6 +220,7 @@
  - [Nizan Naor]
  - [Anton Berglund]
  - [Sebastian](https://github.com/karsonbwoy)
+ - [Raj Singh]
  - [Isgandar Karimov](https://github.com/Isgandarrr)
  - [Afroz](https://github.com/afroz000)
  - [Marco Calle](https://github.com/mcf331)
