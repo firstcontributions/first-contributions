@@ -1785,6 +1785,7 @@ Darien Edwards
 - [Jason Ang](https://github.com/jasonavatarang)
 - [Sashin Trout](https://github.com/sashin123)
 - [Anish Banda](https://github.con/anishbanda)
+- [Sal Adrian](https://github.com/Sal-Adrian)
 - [Jordy19](https://github.com/Jordy19)
 - [Efte Hassan Hridoy](https://github.com/eftehassanpp)
 - [Alimilla-Abhinandan](https://github.com/Alimilla-Abhinandan).
