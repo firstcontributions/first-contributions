@@ -63,6 +63,7 @@
  - [Sarah Caulfield](https://github.com/scaulfield7)
  - [Aniket J. Patil](https://github.com/Aniket-Patil-2196)
  - [Daniel](https://github.com/dbcode1)
+ - [James]
  -[NotIshaan - Ishaan Bhadrike] (https://github.com/NotIshaan)
  - [Neel Bhattacharya](https://github.com/Neel-max-cpu)
  -[FluffySce - Farhan Khan](https://github.com/FluffySce)
