@@ -3,6 +3,7 @@
 - [UTKARSH-at-code] (https://github.com/UTKARSH-at-code)
 - [Delower Hosen](https://github.com/delower-hosen)
 - [Jeon Yun Seek](https://github.com/Yseek)
+- [Winnie](https://github.com/winnteas)
 - [Khaja](https://github.com/mkshah502)
 - [Manoj](https://github.com/mxnojkumar)
 - [Faruq Khan Shired](https://github.com/FaruqKhan11148)
@@ -12,6 +13,7 @@
 -  [Kayo rodrigues]
   [Douglas souza dos santos](https://github.com/Fera-programador)
 - [Austin Cook](https://github.com/austin-cook)
+- [Parthasarathi Agarwal](https://github.com/ParthAgarwal-05)
 - [Abhishek Prajapatt](https://github.com/abhishekprajapatt)
 - [Flounder](https://github.com/restfulcurrent)
 - [Naheel]
@@ -43,6 +45,7 @@
 - [Walter Murage] (https://github.com/Thriller-W)
 - [Masterlincs](https://github.com/Masterlincs) 朝闻道，夕死可矣
 - [nastenka_777](https://github.com/nastenka777)
+- [HarshitaKhare28](https://github.com/HarshitaKhare28)
 - [jiji](https://github.com/chelchel29)
 - [Harsh-Jain](https://github.com/Harshjain10020)
 - [Awanat Olawale] (https://github.com/awanat-olawale)Yayyy!My first contribution
@@ -544,6 +547,7 @@ e-Jo
 - [Mohsin Ahmad](https://github.com/mohsinahmad1979)
 - [Aswin](https://github.com/as-w-in)
 - [Chirag Sathish](https://github.com/chiru0631)
+- [Sathiskumar Ravichandran](https://github.com/sathisk15/)
 - [Apeksha Jamjar](https://github.com/Apekshaj04)
 - [Pratiksha Jamjar](https://github.com/pratikshajamjar)
 - [Deepesh Haldankar](https://github.com/09deepesh)
@@ -3057,6 +3061,10 @@ Darien Edwards
 - [Saumya Singh](https://www.youtube.com/playlist?list=PLTV_nsuD2lf4hfQvqKRToCXtVB7-6rZnz)
 - [Manh Nguyen Van](https://github.com/novmah62)
 - [Vincent Deng](https://github.com/vincent-deng)
+- [Will T](https://github.com/WillT18)
 - [Mayuresh Pawashe](https://github.com/mayureshpawashe)
 - [Chereshnev Nikita](https://github.com/curtrika)
 - [Persio Camargo](https://github.com/CamargoCode)
+- [hssnx](https://github.com/hssnx)
+- [Franzkie](https://github.com/Franzkie777)
+
