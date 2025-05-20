@@ -12,6 +12,7 @@
 -  [Kayo rodrigues]
   [Douglas souza dos santos](https://github.com/Fera-programador)
 - [Austin Cook](https://github.com/austin-cook)
+- [Parthasarathi Agarwal](https://github.com/ParthAgarwal-05)
 - [Abhishek Prajapatt](https://github.com/abhishekprajapatt)
 - [Flounder](https://github.com/restfulcurrent)
 - [Naheel]
