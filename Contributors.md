@@ -3059,6 +3059,7 @@ Darien Edwards
 - [Saumya Singh](https://www.youtube.com/playlist?list=PLTV_nsuD2lf4hfQvqKRToCXtVB7-6rZnz)
 - [Manh Nguyen Van](https://github.com/novmah62)
 - [Vincent Deng](https://github.com/vincent-deng)
+- [Will T](https://github.com/WillT18)
 - [Mayuresh Pawashe](https://github.com/mayureshpawashe)
 - [Chereshnev Nikita](https://github.com/curtrika)
 - [Franzkie] (https://github.com/Franzkie777)
