@@ -797,6 +797,7 @@ Matthew Burgos
 - [Dev Makwana](https://github.com/Phaedrus1301)
 - [Olivier Faivre]
 - [hh]
+- [Robin Tournadre](https://github.com/RobTou)
 - [Sean Erfan](https://github.com/Shameed4)
 - [Tushar Shinde](https://github.com/Tushar-Shinde31)
 - [Ichi075](https://github.com/Ichi075)
@@ -3058,3 +3059,4 @@ Darien Edwards
 - [Vincent Deng](https://github.com/vincent-deng)
 - [Mayuresh Pawashe](https://github.com/mayureshpawashe)
 - [Chereshnev Nikita](https://github.com/curtrika)
+- [Franzkie] (https://github.com/Franzkie777)
