@@ -3059,3 +3059,5 @@ Darien Edwards
 - [Vincent Deng](https://github.com/vincent-deng)
 - [Mayuresh Pawashe](https://github.com/mayureshpawashe)
 - [Chereshnev Nikita](https://github.com/curtrika)
+- [Finsa Kusuma Putra](https://github.com/Finsa-SC)
+
