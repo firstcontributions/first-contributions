@@ -3054,3 +3054,4 @@ Darien Edwards
 - [Manh Nguyen Van](https://github.com/novmah62)
 - [Vincent Deng](https://github.com/vincent-deng)
 - [Mayuresh Pawashe](https://github.com/mayureshpawashe)
+- [Chereshnev Nikita](https://github.com/curtrika)
