@@ -14,6 +14,7 @@
 - [Flounder](https://github.com/restfulcurrent)
 - [Naheel]
 - Emre Arikan
+- [Avinash Singh](https://github.com/avinashs1ngh)
 - [Asish Jena](https://github.com/Cadburyash/)
 - Laraib Ahmed Ansari
   [GalaxyM105] 
