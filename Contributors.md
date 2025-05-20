@@ -16,6 +16,7 @@
 - [Naheel]
 - Emre Arikan
 - [Avinash Singh](https://github.com/avinashs1ngh)
+- [Ananya Pratap Singh](https://github.com/AnanyaPratapSingh7)
 - [Asish Jena](https://github.com/Cadburyash/)
 - Laraib Ahmed Ansari
   [GalaxyM105] 
