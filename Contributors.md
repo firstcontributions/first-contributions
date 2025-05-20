@@ -3009,7 +3009,7 @@ Darien Edwards
 - [Helen Wong](https://github.com/helen-m-wong)
 - [zep](https://github.com/zepredos)
 - [Vadim N](https://github.com/vadim8702)
-- [Rahul Chauhan](https://github.com/Rahul0-01) worries! You can
+- [Rahul Chauhan](https://github.com/Rahul0-01)
 - [Jon Hay](https://github.com/jonhayjr)
 - [Marie Cynthia Abijuru kamikazi](https://github.com/Cynthia-kam)
 - [Sudi-Hagestam](https://github.com/QuantumXG)
@@ -3055,7 +3055,7 @@ Darien Edwards
 - [GlukKluk](https://github.com/glukkluk) 👋
 - [Gabriela Rodrigues de Souza](https://github.com/Agbl09)
 - [Saumya Singh](https://www.youtube.com/playlist?list=PLTV_nsuD2lf4hfQvqKRToCXtVB7-6rZnz)
-- [Manh Nguyen Van](https://github.com/novmah62)Nikita
+- [Manh Nguyen Van](https://github.com/novmah62)
 - [Vincent Deng](https://github.com/vincent-deng)
 - [Mayuresh Pawashe](https://github.com/mayureshpawashe)
 - [Chereshnev Nikita](https://github.com/curtrika)
