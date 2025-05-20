@@ -3061,4 +3061,5 @@ Darien Edwards
 - [Vincent Deng](https://github.com/vincent-deng)
 - [Mayuresh Pawashe](https://github.com/mayureshpawashe)
 - [Chereshnev Nikita](https://github.com/curtrika)
-- [Franzkie] (https://github.com/Franzkie777)
+- [hssnx](https://github.com/hssnx)
+- [Franzkie](https://github.com/Franzkie777)
