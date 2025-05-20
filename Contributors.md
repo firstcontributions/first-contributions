@@ -3051,3 +3051,4 @@ Darien Edwards
 - [Gabriela Rodrigues de Souza](https://github.com/Agbl09)
 - [Saumya Singh](https://www.youtube.com/playlist?list=PLTV_nsuD2lf4hfQvqKRToCXtVB7-6rZnz)
 - [Manh Nguyen Van](https://github.com/novmah62)
+- [Vincent Deng](https://github.com/vincent-deng)
