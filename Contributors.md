@@ -1683,6 +1683,7 @@ Darien Edwards
 - [Eric-DaRosa](https://github.com/EricDar12)
 - [Eddgar Rojas](https://github.com/Eddgar0)
 - [Leandro Choque](https://github.com/Leannnmv)
+- [chris-ehmann](https://github.com/chris-ehmmann)
 - [Shagun Sharma](https://github.com/shagunsharma6677)
 - [Vernwalker](https://github.com/Vernwalker)
 - [hey bro](https://github.com/heybro123)
