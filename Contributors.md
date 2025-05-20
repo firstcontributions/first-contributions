@@ -43,6 +43,7 @@
 - [Walter Murage] (https://github.com/Thriller-W)
 - [Masterlincs](https://github.com/Masterlincs) 朝闻道，夕死可矣
 - [nastenka_777](https://github.com/nastenka777)
+- [HarshitaKhare28](https://github.com/HarshitaKhare28)
 - [jiji](https://github.com/chelchel29)
 - [Harsh-Jain](https://github.com/Harshjain10020)
 - [Awanat Olawale] (https://github.com/awanat-olawale)Yayyy!My first contribution
@@ -544,6 +545,7 @@ e-Jo
 - [Mohsin Ahmad](https://github.com/mohsinahmad1979)
 - [Aswin](https://github.com/as-w-in)
 - [Chirag Sathish](https://github.com/chiru0631)
+- [Sathiskumar Ravichandran](https://github.com/sathisk15/)
 - [Apeksha Jamjar](https://github.com/Apekshaj04)
 - [Pratiksha Jamjar](https://github.com/pratikshajamjar)
 - [Deepesh Haldankar](https://github.com/09deepesh)
@@ -3060,3 +3062,4 @@ Darien Edwards
 - [Mayuresh Pawashe](https://github.com/mayureshpawashe)
 - [Chereshnev Nikita](https://github.com/curtrika)
 - [hssnx](https://github.com/hssnx)
+- [Franzkie](https://github.com/Franzkie777)
