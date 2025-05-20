@@ -4,6 +4,7 @@
 - [Khaja](https://github.com/mkshah502)
 - [Manoj](https://github.com/mxnojkumar)
 - [Faruq Khan Shired](https://github.com/FaruqKhan11148)
+- [Darshan Paccha](https://github.com/d1rshan)
 - [Prathamesh Rokade](https://github.com/Pratha)
 - [Mohammad Kawash](https://github.com/mohammad-kawach)
 -  [Kayo rodrigues]
