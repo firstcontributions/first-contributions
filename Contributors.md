@@ -52,6 +52,7 @@
  - [Arjun Rai](https://github.com/ArjunRai1)
  - [Samaha Munir](https://github.com/SamahaMunir)
  - [shruthi reddy](https://github.com/shruthireddy1213)
+ - Vratik Zade (https://github.com/vizzscript) 
  - [Sheila Susan](https://github.com/SheilaSusan)
  -[Midhun P M](https://github.com/MidhunPM6)
  - [Sarah Caulfield](https://github.com/scaulfield7)
