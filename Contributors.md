@@ -370,6 +370,7 @@ Anshi
 - [Joruji Tsuchiya](https://github.com/joruji-tsuchiya)
 - [siddy09re](https://github.com/siddy09re)
 - [Lovalakshmi](https://github.com/lovalakshmi080223)
+[Omonbek Xojamurodov](https://github.com/omonboyweb)
 -[mohd faizan](https://github.com/faizan1250)
 - [rahmatanko](https://github.com/rahmatanko)
 - [Ajit Sargar](https://github.com/sargar-ajit)
@@ -2480,6 +2481,7 @@ Darien Edwards
 - [anthonyb8](https://github.com/anthonyb8)
 - 侯文卓[https://github.com/wenzhuo4657]
 - [Sheraz Malik](https://github.com/sheraz-El)
+- [Steins-Trait](https://github.com/steins-trait)
 - [xiaoyuchenhot] (https://github.com/xiaoyuchenhot)
 - [Ersin Dalga](https://github.com/ersindalga)
 - [Yamadori](https://github.com/yamadoriAnka)
@@ -3070,3 +3072,5 @@ Darien Edwards
 - [hssnx](https://github.com/hssnx)
 - [Franzkie](https://github.com/Franzkie777)
 - [Nivetha](https://github.com/Nivetha200111)
+- [Vanshika-Sharma](https://github.com/vanshika1708)
+- [Pardeep Singh] (https://github.com/pradeep-sgh)
