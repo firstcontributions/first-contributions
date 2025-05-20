@@ -3058,5 +3058,5 @@
 - [Manh Nguyen Van](https://github.com/novmah62)
 - [Vincent Deng](https://github.com/vincent-deng)
 - [Mayuresh Pawashe](https://github.com/mayureshpawashe)
-- [Chereshnev Nikita](https://github.com/curtrika) 
+- [Chereshnev Nikita](https://github.com/curtrika)
 - [Vaishnavi](https://github.com/TVVaishnavi)
