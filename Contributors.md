@@ -1533,6 +1533,7 @@ Darien Edwards
 - [Plamen Hadzhiev](https://github.com/plmn95)
 - [Chandan Achary](https://github.com/Adventurist2)
 - [LaraAcuna](https://github.com/LaraAcuna)
+- [Chandra Mouli](https://github.com/Chandramouliva)
 - [Oleksandr Tubolets] (https://github.com/alextuby)
 - [Christian Mayamba](https://github.com/chris-mayamba)
 - [Fahad Haque](https://github.com/Daahaf)
