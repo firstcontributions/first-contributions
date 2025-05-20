@@ -296,6 +296,7 @@
  -[Ronan Cuaresma](https://github.com/MuushyRoom)
  -[Michelle Burton] (https://github.com/michelle-burton)
  - [SFatimah56](https://github.com/SFatimah56)
+- [Saqib Reza](https://github.com/saqib-reza)
  - [Biraj Paul]
  -[StraitGhost](https://github.com/StraitGhost)
  -[Alejandra_Salcedo] (https://github.com/asalcedo07/first-contributions.git)
