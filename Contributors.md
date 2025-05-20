@@ -1,6 +1,7 @@
 # Contributors
 
 - [UTKARSH-at-code] (https://github.com/UTKARSH-at-code)
+- [Jeon Yun Seek](https://github.com/Yseek)
 - [Khaja](https://github.com/mkshah502)
 - [Manoj](https://github.com/mxnojkumar)
 - [Faruq Khan Shired](https://github.com/FaruqKhan11148)
