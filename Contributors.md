@@ -158,6 +158,7 @@
  - [Akshay Mahto](https://github.com/akshaymahto)
  - [Arief Shaik](https://github.com/ariefshaik7)
  - [Mukhammad Kharis](https://github.com/mkharis)
+ - [Arthur Silva](https://github.com/arthur-aps) O de baixo tem cultura
  - [Alex Santos](https://github.com/alexaito26) LEBRON JAMES CRISTIANO RONALDO
  - [Walisson Fernandes](https://github.com/Murynga)
  - [Hamundo](https://github.com/Ha-Mundo)
