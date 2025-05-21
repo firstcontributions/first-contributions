@@ -9,6 +9,7 @@
 - [Winnie](https://github.com/winnteas)
 - [Muhammad Kashan Haider](https://github.com/kashan321)
 - [Haidy El-Daly](https://github.com/haidy73)
+- [KANDREGULA VENKATA AJAY] (https://github.com/AJAY5503)
 - [Khaja](https://github.com/mkshah502)
 - [Manoj](https://github.com/mxnojkumar)
 - [Arnav Tiwari](https://github.com/Arnav10090)
