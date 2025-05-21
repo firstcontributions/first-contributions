@@ -1271,6 +1271,7 @@ Matthew Burgos
 - [Abed Ouda (asqalani)](https://github.com/Asqalani112)
 - [Kunga Derick Abongho](https://github.com/Dericko681)
 - [Stefano Fratello](https://github.com/sterik000)
+- [rasmuskn44](https://github.com/rasmuskn44)
 - [Linda Jennings](https://github.com/lindaJennings)
 - [ninet33n](https://github.com/meetVaidya)
 - [Jordan Atkins](https://github.com/Atkinss1)
