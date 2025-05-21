@@ -1,7 +1,7 @@
 # Contributors
 
-- [UTKARSH-at-code] (https://github.com/UTKARSH-at-code)
-- [Amit_Vishwakarma] (https://github.com/amitvish)
+- [UTKARSH-at-code](https://github.com/UTKARSH-at-code)
+- [Amit Vishwakarma](https://github.com/amitvish)
 - [Delower Hosen](https://github.com/delower-hosen)
 - [Jeon Yun Seek](https://github.com/Yseek)
 - [Winnie](https://github.com/winnteas)
@@ -39,21 +39,21 @@
 - [Mike G](https://github.com/mgalkowski/)
 - [Harshil-Solanki](https://github.com/26harshil)
 - [Sachin Kumar](https://github.com/sk2105)
-- [Michael J] (https://github.com/michaeljjamero)
-- [Debpriyo-Ghosal] (https://github.com/DevDebpriyo)
-- [Levis-Nyagah] (https://github.com/umeskia-levi)
-- [Xuefeng Sun] (https://github.com/Artan1ss)
+- [Michael J](https://github.com/michaeljjamero)
+- [Debpriyo-Ghosal](https://github.com/DevDebpriyo)
+- [Levis-Nyagah](https://github.com/umeskia-levi)
+- [Xuefeng Sun](https://github.com/Artan1ss)
 - [Johnpark](https://github.com/devjohnpark)
 - [Nabil Al Masri](https://github.com/NabilMx99)
-- [Jakes_okindo] (https://github.com/Okindo-T)
+- [Jakes_okindo](https://github.com/Okindo-T)
 - [Josemedvel](https://github.com/Josemedvel)
-- [Walter Murage] (https://github.com/Thriller-W)
+- [Walter Murage](https://github.com/Thriller-W)
 - [Masterlincs](https://github.com/Masterlincs) 朝闻道，夕死可矣
 - [nastenka_777](https://github.com/nastenka777)
 - [HarshitaKhare28](https://github.com/HarshitaKhare28)
 - [jiji](https://github.com/chelchel29)
 - [Harsh-Jain](https://github.com/Harshjain10020)
-- [Awanat Olawale] (https://github.com/awanat-olawale)Yayyy!My first contribution
+- [Awanat Olawale](https://github.com/awanat-olawale)Yayyy!My first contribution
 - [Wanessa Brito](https://github.com/wanessabrito)
 - [Lazymanzoid](https://github.com/LazymanzoidOfficial) I was also here.
  - [Vishruth](https://github.com/Vishruth-Hyphen)
