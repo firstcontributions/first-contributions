@@ -1540,6 +1540,7 @@ Darien Edwards
 - [Dascalu Dumitru](https://github.com/IronMemo)
 - [Cesar Garcia](https://github.com/cesaralej)
 - [Keval Deepak](https://github.com/kevaldeepak)
+- [Anshif Monz](https://github.com/anshifmonz)
 - [Anthony Okechukwu Ubah](https://github.com/okeysbytes)
 - [ARPITHA](https://github.com/Arpitha189)
 - [Sidhant Naik](https://github.com/Sidnaik04)
