@@ -1,6 +1,7 @@
 # Contributors
 
 - [UTKARSH-at-code] (https://github.com/UTKARSH-at-code)
+- [Amit_Vishwakarma] (https://github.com/amitvish)
 - [Delower Hosen](https://github.com/delower-hosen)
 - [Jeon Yun Seek](https://github.com/Yseek)
 - [Winnie](https://github.com/winnteas)
