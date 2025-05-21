@@ -8,6 +8,7 @@
 - [Haidy El-Daly](https://github.com/haidy73)
 - [Khaja](https://github.com/mkshah502)
 - [Manoj](https://github.com/mxnojkumar)
+- [Arnav Tiwari](https://github.com/Arnav10090)
 - [Faruq Khan Shired](https://github.com/FaruqKhan11148)
 - [Darshan Paccha](https://github.com/d1rshan)
 - [Prathamesh Rokade](https://github.com/Pratha)
