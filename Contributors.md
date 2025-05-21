@@ -4,6 +4,7 @@
 - [Delower Hosen](https://github.com/delower-hosen)
 - [Jeon Yun Seek](https://github.com/Yseek)
 - [Winnie](https://github.com/winnteas)
+- [Haidy El-Daly](https://github.com/haidy73)
 - [Khaja](https://github.com/mkshah502)
 - [Manoj](https://github.com/mxnojkumar)
 - [Faruq Khan Shired](https://github.com/FaruqKhan11148)
