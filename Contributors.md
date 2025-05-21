@@ -1485,6 +1485,7 @@ Darien Edwards
 - [Kanishk Singh](https://github.com/kanishkIIITD)
 - [Thisaga Jayaratna](https://github.com/thisagaa)
 - [krshearman](https://github.com/krshearman)
+- [Adil KM](https://github.com/Adil-km)
 - [KevinThomas](https://github.com/HELL-KERBECS)
 - [LukaGakhokidze](https://github.com/Luka288)
 - [Lucas Emanuel](https://github.com/lucasdev-err)
