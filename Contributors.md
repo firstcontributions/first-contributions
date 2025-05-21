@@ -2906,6 +2906,7 @@ Darien Edwards
 - [Veerawat](https://github.com/Veerawat)
 - [Amelia Young](https://github.com/ameliacode)
 - [LysandraEris](https://github.com/LysandraEris)
+- [Minhaj AP](https://github.com/minhaj-ap)
 - [Gopi Banjara](https://github.com/gopi374)
 - [Muhammad Haseeb](https://github.com/haseeb2412)
 - [Firdevs Akbayır](https://github.com/lyushher)
