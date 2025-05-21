@@ -907,6 +907,7 @@ Matthew Burgos
 - [rppgithub](https://github.com/rppgithub)
 - [Eugenio Ramirez](https://github.com/madkng)
 - [Vamsi Krishna](https://github.com/vamsi-krish-chiguruwada)
+- [Rohith](https://github.com/dev-rohith)
 - [Akhand](https://github.com/Akhand0ps)
 - [Reshma Shaik](https://github.com/Shaikr786)
 - [Thien-Phu Vo](https://github.com/phuvo05)
