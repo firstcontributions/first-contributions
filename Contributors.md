@@ -3095,3 +3095,5 @@ Darien Edwards
 - [alanwgouveia](https://github.com/alanwgouveia)
 - [Shashank Hosamani](https://github.com/SHASHANKH33)
 - [arinazhou](https://github.com/arinazhou)
+- [Hashim](https://github.com/wakku9780)
+
