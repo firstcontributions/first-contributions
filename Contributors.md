@@ -3109,6 +3109,7 @@ Darien Edwards
 - [Artur Rakhmatullin](https://github.com/destiny503)
 - [Faysal SARKER](https://github.com/faysal123455)
 - [Ali Akpoyraz](https://github.com/aliakpoyraz)
+- [Aziz LAKHDHAR](https://github.com/AzizLAKHDHAR)
 - [Keyz](https://github.com/keyzeuh)
 - Olá! Eu sou o Luiz Felipe (https://github.com/LuizFelipeLP) do Brasil!
 - [Horizon7006](https://github.com/horizon7006)
