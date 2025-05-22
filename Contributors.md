@@ -1,5 +1,6 @@
 # Contributors
 
+- [RifkiFrds] (https://github.com/RifkiFrds/)
 - [OfficialSahilGupta] (https://github.com/OfficialSahilGupta)
 - [UTKARSH-at-code] (https://github.com/UTKARSH-at-code)
 - [Vimal Ganesh M](https://github.com/M-Vimal)
