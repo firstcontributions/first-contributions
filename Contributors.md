@@ -3069,6 +3069,7 @@ Darien Edwards
 -[Chandra Sekhar] (https://github.com/Chandra-Sekhar-02-45)
 -[Gustavo Rodrigues de Oliveira](https://github.com/GuuhRodrigues96)
 -[Nathan Chrestani](https://github.com/Nathan-js458)
+- [Raco1001](https://github.com/raco1001)
 -[Mauricio Ribeiro] (https://github.com/Mauma9)
 - [Caio César Oliveira Silva] (https://github.com/CaiaoCesar)
 -[P.Kawshikk-Shriidatta](https://github.com/Kawshikk-Shrii)
