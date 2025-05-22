@@ -2913,6 +2913,7 @@ Darien Edwards
 - [Lumirelle](https://github.com/Lumirelle)
 - [Anas Badru Salam](https://github.com/anasbadrusalam)
 - [Kurt-DS](https://github.com/kurt-ds)
+- [igho3](https://github.com/igho3)
 - [WaterWhisperer](https://github.com/WaterWhisperer)
 - [Prampina](https://github.com/Prampina)
 - [Anton Pretorius](https://github.com/Ajax401)
