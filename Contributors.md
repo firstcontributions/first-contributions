@@ -4,7 +4,7 @@
 - [OfficialSahilGupta] (https://github.com/OfficialSahilGupta)
 - [Mohammed-Thaha] (https://github.com/Mohammed-Thaha)
 - [UTKARSH-at-code] (https://github.com/UTKARSH-at-code)
-- Amruta Deo
+- [Amruta Deo] (https://github.com/Amruta-25)
 - [Vimal Ganesh M](https://github.com/M-Vimal)
 - [Ali-dev11](https://github.com/Ali-dev11)
   [Shahin_Hashemi] (https://github.com/techsup93)
