@@ -4,7 +4,8 @@
 - [OfficialSahilGupta] (https://github.com/OfficialSahilGupta)
 - [Mohammed-Thaha] (https://github.com/Mohammed-Thaha)
 - [UTKARSH-at-code] (https://github.com/UTKARSH-at-code)
-- [Amruta] (https://github.com/Amruta-25)
+- [Amruta](https://github.com/Amruta-25)
+- Amruta
 - [Vimal Ganesh M](https://github.com/M-Vimal)
 - [Ali-dev11](https://github.com/Ali-dev11)
   [Shahin_Hashemi] (https://github.com/techsup93)
@@ -39,6 +40,7 @@
 - Emre Arikan
 - [Avinash Singh](https://github.com/avinashs1ngh)
 - [Ananya Pratap Singh](https://github.com/AnanyaPratapSingh7)
+-[Ankam Hitha](https://github.com/hithaankam)
 - [Asish Jena](https://github.com/Cadburyash/)
 - Laraib Ahmed Ansari
 -[Abdourrahmane Kabbaj]
@@ -1108,6 +1110,7 @@ Matthew Burgos
 - [Stephanie Chen] (https://github.com/stephaniechen58)
 - [njn](https://github.com/Njn03)
 - Darian was here
+- [jieun] (https://github.com/HwangJieun03)
 - [Yadunand Kamath](https://github.com/yadunand-kamath)
 - [Manish Ambarwar](https://github.com/manish3299)
 - [Abdullah Asim](https://github.com/Abdulla-asim)
@@ -1212,6 +1215,7 @@ Matthew Burgos
 - [tr33k](https://github.com/tr33k)
 - [Vicky Besra](https://github.com/vickybesra)
 - [Nick K] (https://github.com/Nick2191)
+- [lsj0202] (https://github.com/lsj0202)
 - [Mike Mertens](https://github.com/mmert9008)
 - [36borderless] (https://github.com/36borderless)
 - [Rudra] (github.com/ruudra03)
