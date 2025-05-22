@@ -1,6 +1,7 @@
 # Contributors
 
-- [RifkiFrdsS] (https://github.com/RifkiFrds/)
+- 
+[RifkiFrdsS] (https://github.com/RifkiFrds/)
 - [OfficialSahilGupta] (https://github.com/OfficialSahilGupta)
 - [Mohammed-Thaha] (https://github.com/Mohammed-Thaha)
 - [UTKARSH-at-code] (https://github.com/UTKARSH-at-code)
@@ -3145,4 +3146,5 @@ Darien Edwards
 - [emad](https://github.com/emadn87)
 - [Yasser Y](https://github.com/hybridgreen)
 - [Kathleen-HKY](https://github.com/Kathleen-HKY)
+- [Immaculate Munde](https://github.com/munde006)
 - [KONA](https://github.com/KONA-159)
