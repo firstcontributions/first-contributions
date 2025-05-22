@@ -46,6 +46,7 @@
 -[Abdourrahmane Kabbaj]
   [GalaxyM105] 
 - [Muhammed Nishad](https://github.com/mhdnishadc?tab=repositories)
+- [Xander]
 - [Guilherme Queiroz Guimaraes](https://github.com/GuilhQueiroz)
 - [Anton Tumurov](https://github.com/Anton-tumurov)
 - [Everton Gabriel do Santos](https://github.com/Evert0nSantos)
