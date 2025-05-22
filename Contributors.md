@@ -1211,6 +1211,7 @@ Matthew Burgos
 - [tr33k](https://github.com/tr33k)
 - [Vicky Besra](https://github.com/vickybesra)
 - [Nick K] (https://github.com/Nick2191)
+- [lsj0202] (https://github.com/lsj0202)
 - [Mike Mertens](https://github.com/mmert9008)
 - [36borderless] (https://github.com/36borderless)
 - [Rudra] (github.com/ruudra03)
