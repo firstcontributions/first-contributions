@@ -19,6 +19,7 @@
 - [Haidy El-Daly](https://github.com/haidy73)
 - [KANDREGULA VENKATA AJAY] (https://github.com/AJAY5503)
 - [Khaja](https://github.com/mkshah502)
+- [Ethanol](https://github.com/Ethanol0404)
 - [Francisca](https://github.com/fnabwire)
 - [Manoj](https://github.com/mxnojkumar)
 - [Arnav Tiwari](https://github.com/Arnav10090)
