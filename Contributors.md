@@ -779,6 +779,7 @@ Matthew Burgos
 - [Kritesh Bhattarai](https://github.com/kritesh00/)
 - [Eduardo Cruz](https://github.com/eduardocruz777)👨👍
 - [Abasiono Mbat] (https://github.com/AJ-505)
+- [jiseong](https://github.com/jiseong1688)
 - [Yashwanth Santhanam](https://github.com/yash1thsa)
 - [Visal Raza Zaidi](https://github.com/VisalRazaZaidi)
 - [Gayathri Betha](https://github.com/Gayathri-betha)
