@@ -1282,6 +1282,7 @@ Matthew Burgos
 - [Ashmita120](https://github.com/Ashmita120)
 - [Raunit Arya](https://github.com/RaunitArya)
 - [Christopher Faris](https://github.com/chrisF943)
+- [dev-knb](https://github.com/kimnambin)
 - [Wiktor Kycia](https://github.com/wiktorKycia)
 - [Jan Topolewski](https://github.com/JanTopolewski)
 - [Hemant](https://github.com/l1emant/)
