@@ -973,6 +973,7 @@ Matthew Burgos
 - [SamTheTechi](https://github.com/SamTheTechi/)
 - [Shannon Rose Hill](https://github.com/ShannonRoseHill)
 - [Kam](https://github.com/Kam0797)
+- [jiseong](https://github.com/jiseong1688)
 - [soundousbenziadi](https://github.com/soundousbenziadi)
 - [StevenHall](https://github.com/PedanticSteve)
 - [Leonardo Teodoro](https://github.com/LeonardoTeodoroSantos)
