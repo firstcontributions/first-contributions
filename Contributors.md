@@ -2,6 +2,7 @@
 
 - [OfficialSahilGupta] (https://github.com/OfficialSahilGupta)
 - [UTKARSH-at-code] (https://github.com/UTKARSH-at-code)
+- [Vimal Ganesh M](https://github.com/M-Vimal)
 - [Ali-dev11](https://github.com/Ali-dev11)
   [Shahin_Hashemi] (https://github.com/techsup93)
 - [Amit_Vishwakarma] (https://github.com/amitvish)
