@@ -1,5 +1,6 @@
 # Contributors
 
+- [RachitPatekar7] (https://github.com/RachitPatekar7)
 - [RifkiFrdsS] (https://github.com/RifkiFrds/)
 - [OfficialSahilGupta] (https://github.com/OfficialSahilGupta)
 - [Mohammed-Thaha] (https://github.com/Mohammed-Thaha)
