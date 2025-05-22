@@ -167,6 +167,7 @@
  - [Walisson Fernandes](https://github.com/Murynga)
  - [Hamundo](https://github.com/Ha-Mundo)
  - [Alisson Ricady](https://github.com/armg2005)
+ - [Vaibhav Jain](https://github.com/vaibh123540)
  - [Mason Naung](https://github.com/masonn99)
  - [Vinicius Correia](https://github.com/vini-correia)
  - [Amir Razakov](https://github.com/ByteHasher)
