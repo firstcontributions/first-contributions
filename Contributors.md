@@ -3118,3 +3118,4 @@ Darien Edwards
 - [Nethra G S](https://github.com/NethraGS)
 - [Midnight-ar19](https://github.com/midnight-ar19)
 - [drambaut](https://github.com/drambaut)
+- [Nitesh Singh](https://github.com/writer-nitesh)
