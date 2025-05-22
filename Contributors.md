@@ -43,6 +43,7 @@
 - [Everton Gabriel do Santos](https://github.com/Evert0nSantos)
 - [Tony Obi] (https://github.com/tboyobi)
 - [Asna Assalam](https://github.com/asnaassalam)
+- [Pritish Divate](https://github.com/pritish2403)
 - [Ale Roses](https://github.com/aleroses)
 - [Lior Cohen](https://github.com/liorcodev)
 - [Mike G](https://github.com/mgalkowski/)
