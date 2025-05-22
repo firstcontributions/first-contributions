@@ -207,6 +207,7 @@
  - [Shubhanga R Beeragere](https://github.com/beeragere)
  - [Shravani Gaikwad](https://github.com/shrav84)
  - [Unknown_rvp]
+ - [mingyeong0210](https://github.com/mingyeong0210)
  -[Ayush Singh](https://github.com/ayushsingh4848)
  - [Daniel Widjaja](https://github.com/Danwidj)
  - [Daniel Douglas](https://github.com/dannndouglas)
@@ -214,7 +215,6 @@
  - [ZeruZeruZee](https://github.com/ZeruZeruZee)
  - [Divyam Sharma](https://github.com/Divyamsharma-18)
  - [Shanice Thompson](https://github.com/Shanice826?tab=repositories)
- - [mingyeong0210] (https://github.com/mingyeong0210)
  - [zo3biibra](https://github.com/zo3biibra)
  - [Manu-kun](https://github.com/Manu-kun)
  - [Hans Guillen] (https://github.com/GuiH823)
