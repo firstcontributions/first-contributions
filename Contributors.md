@@ -2428,6 +2428,7 @@ Darien Edwards
 - [vin709](https://github.com/vin709)
 - [Chandana Srinivasa Yatisha](https://github.com/chandanasy)
 - [Saral karki](https://github.com/Saralkarki)
+- [Yuri Doestoevsky] (https://github.com/YuriDoestoevsky)
 - [Zach B](https://github.com/fnyah)
 - [Praveen R](https://github.com/PRAVEENRP1047)
 - [Caio Barbosa](https://github.com/CaioBarbosaAdS)
