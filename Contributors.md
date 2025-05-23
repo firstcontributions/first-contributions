@@ -39,6 +39,7 @@
 -[Arun Kumar](https://github.com/Arun-AK-27/)
   -  [Sayon Coulibaly](https://github.com/chococoul)
 - [Austin Cook](https://github.com/austin-cook)
+- [Julian Elliott](https://github.com/Julian-Elliott)
 - [Parthasarathi Agarwal](https://github.com/ParthAgarwal-05)
 - [Abhishek Prajapatt](https://github.com/abhishekprajapatt)
 - [Flounder](https://github.com/restfulcurrent)
