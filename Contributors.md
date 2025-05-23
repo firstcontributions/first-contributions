@@ -216,6 +216,7 @@
   [charudutt pachori] (https://github.com/charudutt358)
  - [Mateusz Sopyla](https://github.com/Sakii470) 
   - [Arturo Silva](https://github.com/rtr-slv)
+ - [Guidosti] (https://github.com/guidosti)
  - Shintaro Kikuta
  - Anastasia
  add-Mariaje
