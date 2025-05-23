@@ -1,5 +1,6 @@
 # Contributors
 
+- [Yashaswi Mishra](https://github.com/pixperk)
 - [RifkiFrdsS] (https://github.com/RifkiFrds/)
 - [OfficialSahilGupta] (https://github.com/OfficialSahilGupta)
 - [Mohammed-Thaha] (https://github.com/Mohammed-Thaha)
