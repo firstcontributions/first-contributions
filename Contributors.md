@@ -2300,6 +2300,7 @@ Darien Edwards
 - [ERBierć](https://github.com/erbierc)
 - [Gokularaju](https://github.com/gokul78590)
 - [Oliver](https://github.com/oliverg13)
+- [Drshiye](https://github.com/Drshiye)
 - [Phillip Alter](https://github.com/phillip-alter)
 - [Banjo Patrick](https:github.com/Super-Savvy)
 - [Emmanuel Doji](https://github.com/devopsnormad)
