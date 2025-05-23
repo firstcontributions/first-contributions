@@ -40,6 +40,7 @@
 -  [Kayo rodrigues]
   [Douglas souza dos santos](https://github.com/Fera-programador)
 -[Arun Kumar](https://github.com/Arun-AK-27/)
+-[Praneet Biswal](https://github.com/Praneetb2929)
   -  [Sayon Coulibaly](https://github.com/chococoul)
 - [Austin Cook](https://github.com/austin-cook)
 - [Julian Elliott](https://github.com/Julian-Elliott)
@@ -3177,4 +3178,7 @@ Darien Edwards
 - [Mohammad Arab](https://github.com/MohammadTheDev)
 - [Abdullah](https://github.com/firstcontributions/first-contributions.git)
 - [Manish Aravindh](https://github.com/manisharavindh)
-- [Marco Ramirez] (https://github.com/marcocrio)
+- [Jiyaa Rana](https://github.com/ranajiya)
+- Hi I'm Brandon
+- [Maverick](https://github.com/HistoriaNonVult)
+- [Marco Ramirez](https://github.com/marcocrio)
