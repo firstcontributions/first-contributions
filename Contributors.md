@@ -120,6 +120,7 @@
 - [Shaparow] (https://github.com/Shaparow) I was here too.
 [FreemanBoss](https://github.com/FreemanBoss)
 [Ashish Raj](https://github.com/Ashish570raj)
+- [Sumit Nayak](https://github.com/NotaScripptkiddie)
 - [J-Ezra](https://github.com/j-ezra)
 - [Chirag Sehgal](https://github.com/chirAAG-sehgal) Just trying it out
 -[KhanBuilds](https://github.com/KhanBuilds) I was here.
