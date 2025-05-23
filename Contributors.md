@@ -333,6 +333,7 @@
  -[vivekananda](https://github.com/vivek4566)
  - [Afzal Diwan](https://github.com/Afzal-husen)
  - [YoohPH](https://github.com/YoohPH)
+ - [Brayan Pérez](https://github.com/brayanp11)
  - [Raghav](https://github.com/raghav-si)
  -[sigallage](https://github.com/sigallage)
  - [Zahra7] (https://github.com/zahra7)
