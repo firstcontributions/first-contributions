@@ -3001,6 +3001,7 @@ Darien Edwards
 - [xarical](https://github.com/xarical) hopes you have a great day :)
 - [Daniel J. Manning](https://github.com/Daniel-J-Manning)
 - [Clutz450](https://github.com/Clutz450)
+- [Amaury](https://github.com/Iam4isan)
 - [Enmaai0](https://github.com/Enmaai0)
 - [Ramon W. (Sonryu) Vilar](https://github.com/Sonryu)
 - [Aron Young](https://github.com/aron5055)
