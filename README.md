@@ -147,6 +147,44 @@ For example:
 git switch -c add-alonzo-church
 ```
 
+## 🚫 Common Mistakes and How to Fix Them
+
+### 1. Forgetting to Stage Files
+**Problem**: You made changes but they don’t appear in the commit.  
+**Fix**:
+```bash
+git add <filename>
+git commit -m "Added my name"
+```
+### 2.  Incorrect Formatting in Contributors.md
+**Problem**: You added your name but the format is incorrect, which breaks the file.
+**Fix**: Follow this structure:
+    - [Your Name](https://github.com/yourusername)
+
+### 3. Merge Conflicts While Pulling/PR
+**Problem**: You get a merge conflict when pushing or pulling.
+**Fix**:
+```bash
+git pull origin main
+# Resolve conflicts manually in the file
+git add .
+git commit -m "Resolved merge conflict"
+```
+
+### 4. Not Creating a New Branch
+**Problem**: You work on the main branch directly.
+**Fix**: Always create a new branch for your changes
+```bash
+git checkout -b your-branch-name
+```
+
+### 4.  Forgetting to Pull Latest Changes Before Push
+**Problem**: Your branch is outdated and causes PR conflicts.
+**Fix**: Before pushing, always do
+```bash
+git pull origin main
+```
+
 <details>
 <summary> <strong>If you get any errors using git switch, click here:</strong> </summary>
 
