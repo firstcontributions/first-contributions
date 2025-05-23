@@ -217,7 +217,8 @@
 -[Lakshay](https://github.com/lakshay-lg) 
 - [Sury Delgado](https://github.com/surydelgado)
   [charudutt pachori] (https://github.com/charudutt358)
- - [Mateusz Sopyla](https://github.com/Sakii470) 
+ - [Mateusz Sopyla](https://github.com/Sakii470)
+ - [Ifeoluwa Adebisi](https://github.com/SEIfeoluwa) 
   - [Arturo Silva](https://github.com/rtr-slv)
  - Shintaro Kikuta
  - Anastasia
