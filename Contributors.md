@@ -3180,3 +3180,4 @@ Darien Edwards
 - [Manish Aravindh](https://github.com/manisharavindh)
 - [Jiyaa Rana](https://github.com/ranajiya)
 - Hi I'm Brandon
+- [Maverick](https://github.com/HistoriaNonVult)
