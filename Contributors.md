@@ -5,6 +5,7 @@
 - [Mohammed-Thaha] (https://github.com/Mohammed-Thaha)
 - [UTKARSH-at-code] (https://github.com/UTKARSH-at-code)
 - [Amruta](https://github.com/Amruta-25)
+- [Refilwe M. Mashile](https://github.com/refilwe-m)
 - Amruta
 - WLO (https://github.com/WLO)
 - [Yousef Shanawany](https://github.com/askyous)
