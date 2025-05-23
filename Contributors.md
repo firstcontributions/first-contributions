@@ -1,5 +1,6 @@
 # Contributors
 
+- [oCHANKU0](https://github.com/oCHANKUo)
 - [inkstar](https://github.com/inkstar)
 - [Yashaswi Mishra](https://github.com/pixperk)
 - [RifkiFrdsS] (https://github.com/RifkiFrds/)
