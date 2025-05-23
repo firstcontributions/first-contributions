@@ -1607,6 +1607,7 @@ Darien Edwards
 - [traf nosleep](https://github.com/ayohsan)
 - [eesoyeon](https://github.com/eesoyeon)
 - [Tournoy Noa](https://github.com/)
+- [Dhruv](https://github.com/DhruvTheDev1)
 - [Plamen Hadzhiev](https://github.com/plmn95)
 - [Chandan Achary](https://github.com/Adventurist2)
 - [LaraAcuna](https://github.com/LaraAcuna)
