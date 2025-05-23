@@ -3178,4 +3178,4 @@ Darien Edwards
 - [Mohammad Arab](https://github.com/MohammadTheDev)
 - [Abdullah](https://github.com/firstcontributions/first-contributions.git)
 - [Manish Aravindh](https://github.com/manisharavindh)
-- [Jiya Rana](https://github.com/ranajiya)
+- [Jiyaa Rana](https://github.com/ranajiya)
