@@ -10,6 +10,7 @@
 - [Refilwe M. Mashile](https://github.com/refilwe-m)
 - Amruta
 - WLO (https://github.com/WLO)
+- [SIDDHARTH K P] (https://github.com/Symbian-Bro)
 - [Yousef Shanawany](https://github.com/askyous)
 - [Vimal Ganesh M](https://github.com/M-Vimal)
 - [Ali-dev11](https://github.com/Ali-dev11)
