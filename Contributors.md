@@ -2000,6 +2000,7 @@ Darien Edwards
 - [Albert Byrone](https://github.com/Albert-Byrone)
 - [iAdani](https://github.com/iAdani)
 - [zurfjereluhmie](https://github.com/zurfjereluhmie)
+- [foxdefalt](https://github.com/D-f4lt)
 - [NullifiedSec Aka. Mashrur Rahman](https://github.com/NullifiedSec)
 - [Rishan Thangaraj](https://github.com/rishant3441)
 - [Anish Yalavarthi](https://github.com/AnishYalavarthi)
