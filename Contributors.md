@@ -3177,3 +3177,4 @@ Darien Edwards
 - [Mohammad Arab](https://github.com/MohammadTheDev)
 - [Abdullah](https://github.com/firstcontributions/first-contributions.git)
 - [Manish Aravindh](https://github.com/manisharavindh)
+- [Rahul Ravindra](https://github.com/hellosemiconductor)
