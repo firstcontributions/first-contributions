@@ -97,6 +97,7 @@
  - [Martín Ocampo](https://github.com/PzykoEich)
  -[NotIshaan - Ishaan Bhadrike] (https://github.com/NotIshaan)
  - [Neel Bhattacharya](https://github.com/Neel-max-cpu)
+ - [Sanjay AR](https://github.com/Sanjay-AnanthavijayanRamesh)
  -[FluffySce - Farhan Khan](https://github.com/FluffySce)
  -[Cat Young](https://github.com/CatYoung018/CatYoung018)
 -[Rohit Lal](https://github.com/rohitllal)
