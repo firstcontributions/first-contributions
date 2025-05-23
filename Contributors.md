@@ -107,6 +107,7 @@
 - [rosenkr](https://github.com/rosenkr)
 -[Vaishnavi][https://github.com/lekkalaVaishnavi955/]
 - [Ray Silva](https://github.com/RSM23191)
+- [DonQuaya] (https://github.com/DQuaya/) TechnoQuaya
 - [Shaparow] (https://github.com/Shaparow) I was here too.
 [FreemanBoss](https://github.com/FreemanBoss)
 [Ashish Raj](https://github.com/Ashish570raj)
