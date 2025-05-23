@@ -1440,13 +1440,13 @@ Matthew Burgos
 - [Harrison Noe](https://github.com/harr-3d)
 - [Adam Kokhnover](https://github.com/Adamko17)
 - [JCoder](https://github.com/jcoder-12)
-- [Clarence _webmast3R](https://github.com/specialbrocoli)
+- [Clarence]( _webmast3R](https://github.com/specialbrocoli)
 - [Coding-Sisyphus](https://github.com/Coding-Sisyphus/)
 - [Sonum Jaggi](http://github.com/sonum02)
 - [Matt Bellardi](https://github.com/met97)
 - [Arvind Singireddy](https://github.com/Sunny-webdev)
 - [Thomas Sales](https://github.com/ThomasGSales)
--[SydWald] (https://github.com/sydwald)
+- [SydWald] (https://github.com/sydwald)
 - [Inifome Eleluwor](https://github.com/Inifomeeo)
 - [Punnapareddy Bhaskar Rao](https://github.com/P-Bhaskar-Rao)
 - [gregbetron] (https://github.com/gregbetron)
@@ -1514,7 +1514,7 @@ Matthew Burgos
 - [EstherCamela](https://github.com/Esther-Assena-pro)
 - [ikimathi](https://github.com/ikimathi)
 - [Lawrence Garcia](https://github.com/lawrenceee04)
-Darien Edwards
+- [Darien Edwards]()
 - [AmnaShouqi](https://github.com/amnashouqi)
 - [Aicirou](https://github.com/Aicirou)
 - [Gargi](https://github.com/gargig02)
@@ -1581,7 +1581,7 @@ Darien Edwards
 - [Dr4kfire](https://github.com/dr4kfire)
 - [Shaswat Raj](https://github.com/sh20raj)
 - [Ajay Dongare](https://github.com/GluconicAcid)
--[Nima Abed](https://github.com/nimabed)
+- [Nima Abed](https://github.com/nimabed)
 - [Manisha1679](https://github.com/Manisha1679)
 - [Lachlan Robinson](https://github.com/lachlan-robinson)
 - [Dascalu Dumitru](https://github.com/IronMemo)
@@ -1624,7 +1624,7 @@ Darien Edwards
 - [Mateus Cruz](https://github.com/Mdacruzrego)
 - [Umang Agarwal](https://github.com/UmangAgarwal257)
 - [Magonborn](https://github.com/MagonBorn)
-- [Said Dias]
+- [Said Dias]()
 - [devtechsector](https://github.com/devtechsector)
 - [ricor07](https://github.com/ricor07)
 - [devoceon](https://github.com/emy3)
@@ -1811,7 +1811,7 @@ Darien Edwards
 - [Rohan Raj P](https://github.com/rohandeadshot)
 - [damsoon](https://github.com/damhyeong)
 - [Mounish Nanu](https://github.com/mounish123)
-- James Harpe
+- [James Harpe]()
 - [KingKongNi](https://github.com/KingKongNi) 
 - [Juan Sarmiento](https://github.com/JuanEnriqueSF)
 - [Fady Zaky](https://github.com/0ddAuto00)
@@ -1824,7 +1824,7 @@ Darien Edwards
 - [Abdelwakil](https://github.com/fondbcn)
 - [Andyple](https://github.com/andyple)
 - [psp0](https://github.com/psp0)
-- Egor Kravchenko
+- [Egor Kravchenko]()
 - [StraitGhost](https://github.com/StraitGhost)
 - [Enzo](https://github.com/FRAIOLIenzo)
 - [mohammadanas51](https://github.com/mohammadanas51)
@@ -1861,8 +1861,8 @@ Darien Edwards
 - [Piero Santisteban](https://github.com/JPSantistebanQ)
 - [Gabriel Ripper](https://github.com/gabripper)
 - [Thales Winther](https://github.com/thaleswinther)
-- Lance Xie
-[kush gupta]
+- [Lance Xie]()
+- [kush gupta]()
 - [Mannaseh Merakanapalli](https://github.com/MannasehM)
 - [Chris Bruce](https://github.com/brucec5)
 - [Tornike Tsulukidze](https://github.com/TheMechanicalBeing)
@@ -2142,10 +2142,10 @@ Darien Edwards
 - [Thamyres Christine](https://github.com/ThamyresChristine/)
 - [Alberto Pe#a](https://github.com/APC9) 🔥
 - [Abhishek Sharma](https://github.com/Abhisheksharmao)
-- [Nayana N M](https://github.com/Nayana62
+- [Nayana N M](https://github.com/Nayana62)
 - [Hemant](https://github.com/hemant187)
 - [Pradip Borade](https://github.com/pradipborade911)
-[C043](https://github.com/c043) was here.
+- [C043](https://github.com/c043) was here.
 - [Sandeep Dewangan](https://github.com/sandy15d)
 - [Jess Lane](https://github.com/jesslane94)
 - [Osman](https://github.com/Osmansiddiquer)
@@ -2528,7 +2528,7 @@ Darien Edwards
 - [PaniniRS](https://github.com/paninirs)
 - [Alercio Silva](https://github.com/alercioborges)
 - [R Nilesh](https://github.com/r-nilesh-c)
-- [madplay](https://github.com/madplay) -[lucifer]
+- [madplay](https://github.com/madplay)
 - [c0d1ng-ma5ter](https://github.com/c0d1ng-ma5ter)
 - [madplay](https://github.com/madplay)
 - [MLwoodi](https://github.com/MLwoodi)
@@ -2538,7 +2538,7 @@ Darien Edwards
 - [tappe9](https://github.com/tappe9)Adding my contribution
 - [tappe9](https://github.com/tappe9)
 - [anthonyb8](https://github.com/anthonyb8)
-- 侯文卓[https://github.com/wenzhuo4657]
+- [侯文卓](https://github.com/wenzhuo4657)
 - [Sheraz Malik](https://github.com/sheraz-El)
 - [Steins-Trait](https://github.com/steins-trait)
 - [xiaoyuchenhot] (https://github.com/xiaoyuchenhot)
@@ -3161,3 +3161,4 @@ Darien Edwards
 - [KONA](https://github.com/KONA-159)
 - [Steven T. Black](https://github.com/steventblack)
 - [Mohammad Arab](https://github.com/MohammadTheDev)
+- [Satoshi Kodaira](https://github.com/satoshi-kodaira)
