@@ -1,5 +1,6 @@
  # Contributors
  - [Ajinkya Nikam](https://github.com/Jinkz04)
+ - [Aishwarya](https://github.com/aishwarya-pixel0)
  - [Talha Jubaer Prantor](https://github.com/TalhaJubaerPrantor)
  - [Arshi Sabah](https://github.com/arshisabah/first-contributions)
  - [DungGramer](https://github.com/DungGramer)
