@@ -4,6 +4,7 @@
 - [inkstar](https://github.com/inkstar)
 - [Pedro0152](https://github.com/Pedro0152)
 - [Yashaswi Mishra](https://github.com/pixperk)
+- [Vishal kumar](https://github.com/fateisintersting)
 - [RifkiFrdsS] (https://github.com/RifkiFrds/)
 - [SachinSingh] (https://github.com/sachinsingh2002/)
 - [OfficialSahilGupta] (https://github.com/OfficialSahilGupta)
