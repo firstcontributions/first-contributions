@@ -3217,4 +3217,4 @@ Darien Edwards
 - [Aman Deol](https://github.com/AmanDeol7)
 - [Shardul Dhiwar](https://github.com/ShardulDhiwar)
 - [Gabriel RyZeno](https://github.com/RyZenoKelb)
-- [Aditi Gupta](https://github.com/AditiGupta-tech)
+- [Aditi Gupta] (https://github.com/AditiGupta-tech)
