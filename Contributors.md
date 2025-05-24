@@ -3200,4 +3200,5 @@ Darien Edwards
 - [BeiChen Stanly](https://github.com/BeiChenStanly)
 - [Rahul Ravindra](https://github.com/hellosemiconductor)
 - [Kunal Maka](https://github.com/DuddWiser)
+- [itsMeOnli](https://github.com/itsMeOnli)
 - [Aman Deol](https://github.com/AmanDeol7)
