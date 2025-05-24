@@ -78,6 +78,7 @@
 - [Ashis Hota](https://github.com/ashishota)
 - [Lior Cohen](https://github.com/liorcodev)
 - [Mike G](https://github.com/mgalkowski/)
+- [Raaghav Raaj](https://github.com/raaghavraaj)
 - [Harshil-Solanki](https://github.com/26harshil)
 - [Sachin Kumar](https://github.com/sk2105)
 - [Michael J] (https://github.com/michaeljjamero)
