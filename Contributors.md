@@ -1,5 +1,6 @@
 # Contributors
 
+- [Daniel Li](https://github.com/dan-li-dev)
 - [Prasanna Saladi](https://github.com/prasanna2108saladi)
 - [inkstar](https://github.com/inkstar)
 - [JDerenthalCS](https://github.com/JDerenthalCS)
