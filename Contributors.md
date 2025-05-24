@@ -70,6 +70,7 @@
 - [Asna Assalam](https://github.com/asnaassalam)
 - [Pritish Divate](https://github.com/pritish2403)
 - [Ale Roses](https://github.com/aleroses)
+- [Ashis Hota](https://github.com/ashishota)
 - [Lior Cohen](https://github.com/liorcodev)
 - [Mike G](https://github.com/mgalkowski/)
 - [Harshil-Solanki](https://github.com/26harshil)
