@@ -139,3 +139,7 @@ Ceci n'est pas nécessaire, mais le nom de la branche montre que son objectif es
 ## Où aller ensuite ?
 
 Vous pouvez aussi rejoindre notre équipe sur Slack au cas où vous auriez besoin d'aide ou auriez des questions.  [Rejoindre l'équipe sur  Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
+
+## Astuce Git
+
+Utilisez `git status` pour vérifier les fichiers modifiés avant de les ajouter à l’index.
