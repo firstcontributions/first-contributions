@@ -1,5 +1,5 @@
 # Contributors
-
+- [Hrishikesh H](https://github.com/hrishihrishi/first-contributions)
 - [Prasanna Saladi](https://github.com/prasanna2108saladi)
 - [inkstar](https://github.com/inkstar)
 - [Yashaswi Mishra](https://github.com/pixperk)
