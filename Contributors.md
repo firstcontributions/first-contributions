@@ -15,6 +15,7 @@
 - WLO (https://github.com/WLO)
 - [SIDDHARTH K P] (https://github.com/Symbian-Bro)
 - [Yousef Shanawany](https://github.com/askyous)
+- [Sumit Nayak](https://github.com/NotaScripptkiddie)
 - [Vimal Ganesh M](https://github.com/M-Vimal)
 - [Ali-dev11](https://github.com/Ali-dev11)
   [Shahin_Hashemi] (https://github.com/techsup93)
