@@ -1033,6 +1033,7 @@ Matthew Burgos
 - [Hamed Haghani](https://github.com/HamedHaghani)
 - [KingTroy125](https://github.com/KingTroy125)
 - [Victor Alexander](https://github.com/ViitorA)
+- [Yoshitaro Miyoshi]
 - [Sigma](https://github.com/sigma7863)
 - [Karan Maheshwari](https://github.com/krnmaheshwari09)
 - [Ivo-velev](https://github.com/Ivo-velev)
@@ -3210,3 +3211,4 @@ Darien Edwards
 - [itsMeOnli](https://github.com/itsMeOnli)
 - [Aman Deol](https://github.com/AmanDeol7)
 - [Shardul Dhiwar](https://github.com/ShardulDhiwar)
+- [Gabriel RyZeno](https://github.com/RyZenoKelb)
