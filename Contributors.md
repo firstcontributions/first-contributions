@@ -1,5 +1,6 @@
 # Contributors
 
+- [Prasanna Saladi](https://github.com/prasanna2108saladi)
 - [inkstar](https://github.com/inkstar)
 - [Yashaswi Mishra](https://github.com/pixperk)
 - [RifkiFrdsS] (https://github.com/RifkiFrds/)
