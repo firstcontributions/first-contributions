@@ -100,7 +100,7 @@ _If you're not comfortable with command line, [here are tutorials using GUI tool
 
 ## Fork this repository
 
-Fork this repository by clicking on the fork button on the top of this page.
+Fork this repository by clicking on the _"Fork"_ button on the top of this page.
 This will create a copy of this repository in your account.
 
 ## Clone the repository
@@ -166,7 +166,7 @@ Now open `Contributors.md` file in a text editor, add your name to it. Don't add
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
-If you go to the project directory and execute the command `git status`, you'll see there are changes.
+If you go to the project directory and execute the command `git status`, you'll see that there are changes.
 
 Add those changes to the branch you just created using the `git add` command:
 
