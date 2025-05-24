@@ -516,6 +516,7 @@ Anshi
 - [Billy Whizz](https://github.com/leithdm)
 - [praveen hari krishna](https://github.com/phk16)
 e-Jo
+- [Sai Praneeth Reddy](https://github.com/dsp0redy)
 - Eric Manuel Rosales
 - [mmhd]
 - [Shivaram](https://github.com/shivaram-dev)
