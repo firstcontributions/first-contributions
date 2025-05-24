@@ -1,6 +1,10 @@
  # Contributors
  - [Ajinkya Nikam](https://github.com/Jinkz04)
+<<<<<<< HEAD
  - [Aishwarya](https://github.com/aishwarya-pixel0)
+=======
+ - Aishwarya S
+>>>>>>> 79b61c7a3a7b37ce6b9338edcbcf2eb3870c0c60
  - [Talha Jubaer Prantor](https://github.com/TalhaJubaerPrantor)
  - [Arshi Sabah](https://github.com/arshisabah/first-contributions)
  - [DungGramer](https://github.com/DungGramer)
