@@ -4,6 +4,7 @@
 - [inkstar](https://github.com/inkstar)
 - [Yashaswi Mishra](https://github.com/pixperk)
 - [RifkiFrdsS] (https://github.com/RifkiFrds/)
+- [SachinSingh] (https://github.com/sachinsingh2002/)
 - [OfficialSahilGupta] (https://github.com/OfficialSahilGupta)
 - [Mohammed-Thaha] (https://github.com/Mohammed-Thaha)
 - [UTKARSH-at-code] (https://github.com/UTKARSH-at-code)
