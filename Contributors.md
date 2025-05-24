@@ -2920,6 +2920,7 @@ Darien Edwards
 - [Thais Barbosa](https://github.com/bsthaiss)
 - [JadePoet](https://github.com/jedpoet)
 - [Barry](https://github.com/Barry-2020)
+- [Nanami Takemoto](https://github.com/nanami-takemoto)
 - [yilisharcs](https://github.com/yilisharcs)
 - [BaturhanKahraman] (https://github.com/BaturhanKahraman)
 - [Ver](https://github.com/hy-0003)
