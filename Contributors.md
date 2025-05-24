@@ -3192,3 +3192,4 @@ Darien Edwards
 - [Victor me](https://github.com/viisatadi)
 - [Marco Ramirez](https://github.com/marcocrio)
 - [BeiChen Stanly](https://github.com/BeiChenStanly)
+- [Rahul Ravindra](https://github.com/hellosemiconductor)
