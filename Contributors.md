@@ -3219,3 +3219,4 @@ Darien Edwards
 - [Shardul Dhiwar](https://github.com/ShardulDhiwar)
 - [Gabriel RyZeno](https://github.com/RyZenoKelb)
 - [Virat Samdarshi](https://github.com/virat7832)
+- [jordan smalls] (https://github.com/weakbecomeheroes)
