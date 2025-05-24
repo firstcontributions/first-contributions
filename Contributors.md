@@ -3195,3 +3195,4 @@ Darien Edwards
 - [Marco Ramirez](https://github.com/marcocrio)
 - [BeiChen Stanly](https://github.com/BeiChenStanly)
 - [Rahul Ravindra](https://github.com/hellosemiconductor)
+- [Kunal Maka](https://github.com/DuddWiser)
