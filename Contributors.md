@@ -354,6 +354,7 @@
 -[kiranmayee](https://github.com/sreekironmai)
  -[Qi Yang] (https://github.com/sqiyang)
  -[Naiara Gabriela](https://github.com/naiaragabriela)
+ -[Salatwurzel](https://github.com/Salatwurzel)
  -[Nikita kumari](https://github.com/Nikita0047)
  -[Eliezer Bolding](https://github.com/chelito103)
  -[Vikram Naidu](https://github.com/Vikramnaidu16)
