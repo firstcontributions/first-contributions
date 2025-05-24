@@ -2,6 +2,7 @@
 
 - [Prasanna Saladi](https://github.com/prasanna2108saladi)
 - [inkstar](https://github.com/inkstar)
+- [Pedro0152](https://github.com/Pedro0152)
 - [Yashaswi Mishra](https://github.com/pixperk)
 - [RifkiFrdsS] (https://github.com/RifkiFrds/)
 - [SachinSingh] (https://github.com/sachinsingh2002/)
