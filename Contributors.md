@@ -26,9 +26,9 @@
   [Shahin_Hashemi] (https://github.com/techsup93)
 - [Amit_Vishwakarma] (https://github.com/amitvish)
 - [aramb-dev (Abdur-Rahman Bilal)](https://github.com/aramb-dev)
- kenji Watanabe
+- [kenji Watanabe]
 - [Anouar tizgui] (https://github.com/An009)
-- NyeinNyeinA (hhtps://github.com/Allison)
+- [NyeinNyeinA](https://github.com/Allison)
 - [Delower Hosen](https://github.com/delower-hosen)
 - [Jeon Yun Seek](https://github.com/Yseek)
 - [Winnie](https://github.com/winnteas)
@@ -45,12 +45,13 @@
 - [Pranav Wankhedkar](https://github.com/astroficboy)
 - [Prathamesh Rokade](https://github.com/Pratha)
 - [Mohammad Kawash](https://github.com/mohammad-kawach)
--  [Kayo rodrigues]
+- [Kayo rodrigues]
+- [Heymun Pareek](https://github.com/PareekHeymun/)
 - [Saksham](https://github.com/Saksham67)
-  [Douglas souza dos santos](https://github.com/Fera-programador)
--[Arun Kumar](https://github.com/Arun-AK-27/)
--[Praneet Biswal](https://github.com/Praneetb2929)
-  -  [Sayon Coulibaly](https://github.com/chococoul)
+- [Douglas souza dos santos](https://github.com/Fera-programador)
+- [Arun Kumar](https://github.com/Arun-AK-27/)
+- [Praneet Biswal](https://github.com/Praneetb2929)
+- [Sayon Coulibaly](https://github.com/chococoul)
 - [Austin Cook](https://github.com/austin-cook)
 - [Julian Elliott](https://github.com/Julian-Elliott)
 - [Parthasarathi Agarwal](https://github.com/ParthAgarwal-05)
@@ -59,14 +60,14 @@
 - [SuperCat908809](https://github.com/SuperCat908809)
 - [lebenna](https://github.com/lebenna)
 - [Naheel]
-- Emre Arikan
+- [Emre Arikan]
 - [Avinash Singh](https://github.com/avinashs1ngh)
 - [Ananya Pratap Singh](https://github.com/AnanyaPratapSingh7)
--[Ankam Hitha](https://github.com/hithaankam)
+- [Ankam Hitha](https://github.com/hithaankam)
 - [Asish Jena](https://github.com/Cadburyash/)
 - Laraib Ahmed Ansari
--[Abdourrahmane Kabbaj]
-  [GalaxyM105] 
+- [Abdourrahmane Kabbaj]
+- [GalaxyM105] 
 - [Muhammed Nishad](https://github.com/mhdnishadc?tab=repositories)
 - [Xander]
 - [Guilherme Queiroz Guimaraes](https://github.com/GuilhQueiroz)
@@ -88,13 +89,13 @@
 - [Xuefeng Sun] (https://github.com/Artan1ss)
 - [Johnpark](https://github.com/devjohnpark)
 - [Nabil Al Masri](https://github.com/NabilMx99)
-- [Jakes_okindo] (https://github.com/Okindo-T)
+- [Jakes okindo] (https://github.com/Okindo-T)
 - [Josemedvel](https://github.com/Josemedvel)
 - [Saksham Mittal](https://github.com/B4S1C-Coder)
 - [sarvajnya] (https://github.com/sarvajnya)
 - [Walter Murage] (https://github.com/Thriller-W)
 - [Masterlincs](https://github.com/Masterlincs) 朝闻道，夕死可矣
-- [nastenka_777](https://github.com/nastenka777)
+- [nastenka 777](https://github.com/nastenka777)
 - [HarshitaKhare28](https://github.com/HarshitaKhare28)
 - [jiji](https://github.com/chelchel29)
 - [Harsh-Jain](https://github.com/Harshjain10020)
