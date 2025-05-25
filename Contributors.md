@@ -1,11 +1,12 @@
 # Contributors
-
+- [Abizer Masavi](https://github.com/abizer007)
 - [Eunbin Kwon](https://github.com/eun61n00)
 - [Daniel Li](https://github.com/dan-li-dev)
 - [Prasanna Saladi](https://github.com/prasanna2108saladi)
 - [inkstar](https://github.com/inkstar)
 - [JDerenthalCS](https://github.com/JDerenthalCS)
 - [Pedro0152](https://github.com/Pedro0152)
+- [Wajid Hussain](https://github.com/wajidengg)
 - [Yashaswi Mishra](https://github.com/pixperk)
 - [Vishal kumar](https://github.com/fateisintersting)
 - [RifkiFrdsS] (https://github.com/RifkiFrds/)
@@ -41,6 +42,7 @@
 - [Haidy El-Daly](https://github.com/haidy73)
 - [KANDREGULA VENKATA AJAY] (https://github.com/AJAY5503)
 - [Khaja](https://github.com/mkshah502)
+- [Shivam](https://github.com/mshivam2502)
 - [Ethanol](https://github.com/Ethanol0404)
 - [Francisca](https://github.com/fnabwire)
 - [Manoj](https://github.com/mxnojkumar)
@@ -54,6 +56,7 @@
 - [Delete-Me](https://github.com/delete-me)
 -  [Kayo rodrigues]
 - [Saksham](https://github.com/Saksham67)
+- [Raja Mohammed](https://gitbuh.com/RajamdGamer)
   [Douglas souza dos santos](https://github.com/Fera-programador)
 -[Arun Kumar](https://github.com/Arun-AK-27/)
 -[Praneet Biswal](https://github.com/Praneetb2929)
@@ -160,7 +163,8 @@
  [Marc Wijesuriya] (https://github.com/MarcWije)
  -[KobeVLM](https://github.com/KobeVLM)
  -[KobyBuchanan](https://github.com/KobyBuchanan)
- - [sfreagin](https://github.com/sfreagin)
+-[quiquemonroy](https://github.com/quiquemonroy) Thanks! 
+- [sfreagin](https://github.com/sfreagin)
  - [VivekDahiya](https://github.com/VivekDahiya06)
  - [Saikatur Rahman Kaium](https://github.com/S-rahmanKaium)
  -[Sparsha Sawant](https://github.com/Sparsha0)
@@ -3166,6 +3170,7 @@ Darien Edwards
 - [Ali Akpoyraz](https://github.com/aliakpoyraz)
 - [Aziz LAKHDHAR](https://github.com/AzizLAKHDHAR)
 - [Keyz](https://github.com/keyzeuh)
+- [Oziri](https://github.com/oziriemeka) 
 - Olá! Eu sou o Luiz Felipe (https://github.com/LuizFelipeLP) do Brasil!
 - [Horizon7006](https://github.com/horizon7006)
 - [faizdevx](https://github.com/faizdevx)
@@ -3173,6 +3178,7 @@ Darien Edwards
 - [Rharume Neres](https://github.com/RharumeNeres)
 - [Abdullah Obad](https://github.com/AbdulllahObad)
 - [GlukKluk](https://github.com/glukkluk) 👋
+- [srilu9100](https://github.com/srilu9100)
 - [Gabriela Rodrigues de Souza](https://github.com/Agbl09)
 - [Saumya Singh](https://www.youtube.com/playlist?list=PLTV_nsuD2lf4hfQvqKRToCXtVB7-6rZnz)
 - [Manh Nguyen Van](https://github.com/novmah62)
@@ -3180,6 +3186,7 @@ Darien Edwards
 - [Will T](https://github.com/WillT18)
 - [Mayuresh Pawashe](https://github.com/mayureshpawashe)
 - [Chereshnev Nikita](https://github.com/curtrika)
+- [Persio Camargo](https://github.com/CamargoCode)
 - [hssnx](https://github.com/hssnx)
 - [Franzkie](https://github.com/Franzkie777)
 - [Paul-Emile ANTOINE](https://github.com/peantoine0)
@@ -3229,3 +3236,4 @@ Darien Edwards
 - [Pranilash Reddy] (https://github.com/pranilash)
 - [Manish Tomar] (https://github.com/tomarmanish25)
 - [KrithigaSiv] (https://github.com/KrithigaSiv)
+- [Viswa] (https://github.com/Viswa220522)
