@@ -3052,6 +3052,7 @@ Darien Edwards
 -[Javier Almer](https://github.com/merzxyz)
 - [Matthew Oliver](https://github.com/IVsaw)
 - [cpcap](https://github.com/cpcap1214)
+- [Nasir Jalil](https://github.com/gisp-cubicon)
  - [Surya](https://github.com/hubaba397)
  - [Adam Kroon](https://github.com/betterdevops-adamkroon)
 - [Ravern Cliff Lim](https://github.com/Papercliff123)
