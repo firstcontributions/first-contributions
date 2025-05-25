@@ -1,5 +1,5 @@
 # Contributors
-
+- [Abizer Masavi](https://github.com/abizer007)
 - [Eunbin Kwon](https://github.com/eun61n00)
 - [Daniel Li](https://github.com/dan-li-dev)
 - [Prasanna Saladi](https://github.com/prasanna2108saladi)
