@@ -18,6 +18,7 @@
 - [Wajid Hussain](https://github.com/wajidengg)
 - [Yashaswi Mishra](https://github.com/pixperk)
 - [Vishal kumar](https://github.com/fateisintersting)
+- [Milan Pal](https://github.com/milanpal15)
 - [RifkiFrdsS] (https://github.com/RifkiFrds/)
 - [SachinSingh] (https://github.com/sachinsingh2002/)
 - [OfficialSahilGupta] (https://github.com/OfficialSahilGupta)
