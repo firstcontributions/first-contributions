@@ -1897,6 +1897,7 @@ Darien Edwards
 - [Enzo](https://github.com/FRAIOLIenzo)
 - [mohammadanas51](https://github.com/mohammadanas51)
 - [Neil Foxcroft](https://github.com/neilfoxcroft)
+- [Cristian Rios](https://github.com/rioscris)
 - [isaacbelles](https://github.com/isaacbelles)
 - [Shoaib Shuja](https://github.com/ShoaibShuja)
 - [brunoblaise](https://github.com/brunoblaise)
