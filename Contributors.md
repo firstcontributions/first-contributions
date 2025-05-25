@@ -3228,3 +3228,4 @@ Darien Edwards
 - [jordan smalls] (https://github.com/weakbecomeheroes)
 - [Pranilash Reddy] (https://github.com/pranilash)
 - [Manish Tomar] (https://github.com/tomarmanish25)
+- [KrithigaSiv] (https://github.com/KrithigaSiv)
