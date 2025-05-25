@@ -221,6 +221,7 @@
  - [Barta Zsombor](https://github.com/l4ttic3zs)
  - [Ayush Dwibedy](https://github.com/<your-username>)
  - [Juan Pablo Rovayo Delgado](https://github.com/Pablitord)
+ - [Arturo Silva](https://github.com/rtr-slv)
  - [Akshay Mahto](https://github.com/akshaymahto)
  - [Arief Shaik](https://github.com/ariefshaik7)
  - [Mukhammad Kharis](https://github.com/mkharis)
@@ -992,6 +993,7 @@ Matthew Burgos
 - [Tom] (https://github.com/tom-mai-wichtig)
 - [Mike Mertens](https://github.com/mmertens-empirical)
 -  where am i????
+ - [RandyGamplays](https://github.com/RandyZam04)
 - [Edith Amondi] (https://github.com/Amondi014)
 - [Vandana Kerketta](https://github.com/Vandy02)
 - [Matt Seal] (https://github.com/matt-seal)
