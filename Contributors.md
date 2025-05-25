@@ -158,6 +158,8 @@
 -[KhanBuilds](https://github.com/KhanBuilds) I was here.
   [ReNothingg](https://github.com/ReNothingg)
  - [Rahul Sharma](https://github.com/DeF4lt-Cap10N)
+ - [sfreagin](https://github.com/sfreagin)
+- [Shijie Gan](https://github.com/ujjwalbajpai)
  -[Sahadev Pandey] (https://github.com/sahadev234)
  - [Sarah Biscuits](https://github.com/SarahBiscuit)
  - [Dev-kumar] (https://github.com/Devkumar-web)
