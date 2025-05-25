@@ -257,6 +257,7 @@
    Frizja
  - [Rakshanaa](https://github.com/Rakshanaa2026) 
  main
+ - Aaditya Chauhan (https://github.com/Aadityachauhan463)
  -[Lonedev](https://github.com/ishwarthecodddr)
  - [hanyudeye](https://github.com/hanyudeye)
  - [Rajdeep Keshri](https://github.com/Rajdeep4586)
@@ -291,6 +292,7 @@
  - [Gabriela Hernandez](https://github.com/candytale55)
  - [Shruthi Kuraparthy] (https://github.com/shruthi6reddy)
  - Maurizio
+ - [Aaditya Chauhan] (https://github.com/Aadityachauhan463)
  -julio
  - [RJangir] (https://github.com/Rjang1212)
  - [Siddhant Ojha](https://github.com/Siddhantv1)
