@@ -163,7 +163,8 @@
  [Marc Wijesuriya] (https://github.com/MarcWije)
  -[KobeVLM](https://github.com/KobeVLM)
  -[KobyBuchanan](https://github.com/KobyBuchanan)
- - [sfreagin](https://github.com/sfreagin)
+-[quiquemonroy](https://github.com/quiquemonroy) Thanks! 
+- [sfreagin](https://github.com/sfreagin)
  - [VivekDahiya](https://github.com/VivekDahiya06)
  - [Saikatur Rahman Kaium](https://github.com/S-rahmanKaium)
  -[Sparsha Sawant](https://github.com/Sparsha0)
