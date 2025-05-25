@@ -17,6 +17,7 @@
 - [Refilwe M. Mashile](https://github.com/refilwe-m)
 - [DeveloperRam-Coder](https://github.com/DeveloperRam-Coder)
 - [yamayamma](https://github.com/yamayamma)
+- [artem-sitd](https://github.com/artem-sitd)
 - Amruta
 - Betty 
 - WLO (https://github.com/WLO)
