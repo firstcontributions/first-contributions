@@ -26,6 +26,7 @@
 - [OfficialSahilGupta] (https://github.com/OfficialSahilGupta)
 - [Mohammed-Thaha] (https://github.com/Mohammed-Thaha)
 - [UTKARSH-at-code] (https://github.com/UTKARSH-at-code)
+- [FroSty361] (https://github.com/FroSty361)
 - [Amruta](https://github.com/Amruta-25)
 - [Refilwe M. Mashile](https://github.com/refilwe-m)
 - [DeveloperRam-Coder](https://github.com/DeveloperRam-Coder)
