@@ -3222,6 +3222,7 @@ Darien Edwards
 - [Mohammad Arab](https://github.com/MohammadTheDev)
 - [Abdullah](https://github.com/firstcontributions/first-contributions.git)
 - [Manish Aravindh](https://github.com/manisharavindh)
+- [Melissa Makonga](https://github.com/Mel-Mak)
 - [Jiyaa Rana](https://github.com/ranajiya)
 - Hi I'm Brandon
 - [Maverick](https://github.com/HistoriaNonVult)
