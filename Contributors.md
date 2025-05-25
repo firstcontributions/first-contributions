@@ -3184,6 +3184,7 @@ Darien Edwards
 - [Will T](https://github.com/WillT18)
 - [Mayuresh Pawashe](https://github.com/mayureshpawashe)
 - [Chereshnev Nikita](https://github.com/curtrika)
+- [Persio Camargo](https://github.com/CamargoCode)
 - [hssnx](https://github.com/hssnx)
 - [Franzkie](https://github.com/Franzkie777)
 - [Paul-Emile ANTOINE](https://github.com/peantoine0)
