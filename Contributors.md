@@ -3225,6 +3225,7 @@ Darien Edwards
 - [Mohammad Arab](https://github.com/MohammadTheDev)
 - [Abdullah](https://github.com/firstcontributions/first-contributions.git)
 - [Manish Aravindh](https://github.com/manisharavindh)
+- [Brent Kowal](https://github.com/BrentK-ADI)
 - [John Tomarakos] (https://github.com/jtomarak/)
 - [Melissa Makonga](https://github.com/Mel-Mak)
 - [Jiyaa Rana](https://github.com/ranajiya)
