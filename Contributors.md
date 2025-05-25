@@ -248,6 +248,7 @@
  - [Mateusz Sopyla](https://github.com/Sakii470)
  - [Ifeoluwa Adebisi](https://github.com/SEIfeoluwa) 
   - [Arturo Silva](https://github.com/rtr-slv)
+ - [Guidosti] (https://github.com/guidosti)
  - Shintaro Kikuta
  - Anastasia
  add-Mariaje
