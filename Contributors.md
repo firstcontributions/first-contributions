@@ -2919,8 +2919,8 @@ Darien Edwards
 -Mustafa Magdy aka Farkha (https://github.com/MustafaMagdyy)
 -[aieng-abdullah](https://github.com/aieng-abdullah)
 - [DPAC](https://github.com/ldpacl)
-- 
--[Abinanthan-CG](https://github.com/Abinanthan-CG)
+- [Tareq Alansari](https://github.com/treqo)
+- [Abinanthan-CG](https://github.com/Abinanthan-CG)
 - [JoroAmboara] (https://github.com/JoroAmboara)
 - [BISCUITIC](https://github.com/BISCUITIC)
 - [nischal] ((https://github.com/nischaljain))
