@@ -850,6 +850,7 @@ Matthew Burgos
 - [Felix Hsu] (https://github.com/FelixHsu98)
 -[MAANASA-KOTTE] (htts://gthub.com/MAANASA-KOTTE)
 - [Sindhu R] (https://github.com/17sindhu)
+- [Miguel Zambrano](https://github.com/miguelzambranom)
 - [Aditi Verma](https://github.com/aditi02verma)
 - [Viktor de Pomian](https://github.com/viktordepomian)
 - [Ansh Pachauri](https://github.com/ansh-pachauri/)
