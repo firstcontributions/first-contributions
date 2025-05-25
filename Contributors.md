@@ -13,6 +13,7 @@
 - [Eunbin Kwon](https://github.com/eun61n00)
 - [Daniel Li](https://github.com/dan-li-dev)
 - [Prasanna Saladi](https://github.com/prasanna2108saladi)
+- [Cosmictrigger01](https://github.com/Cosmictrigger01)
 - [inkstar](https://github.com/inkstar)
 - [JDerenthalCS](https://github.com/JDerenthalCS)
 - [Pedro0152](https://github.com/Pedro0152)
