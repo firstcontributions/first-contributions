@@ -1,5 +1,6 @@
 # Contributors
 
+- [RifkiFrdsS](https://github.com/RifkiFrds/)
 - [oCHANKU0](https://github.com/oCHANKUo)
 - [Hrishikesh H](https://github.com/hrishihrishi/first-contributions)
 - [Siddharth](https://github.com/siddharth2835)
@@ -3220,6 +3221,7 @@ Darien Edwards
 - [emad](https://github.com/emadn87)
 - [Yasser Y](https://github.com/hybridgreen)
 - [Kathleen-HKY](https://github.com/Kathleen-HKY)
+- [Immaculate Munde](https://github.com/munde006)
 - [KONA](https://github.com/KONA-159)
 - [Steven T. Black](https://github.com/steventblack)
 - [Mohammad Arab](https://github.com/MohammadTheDev)
