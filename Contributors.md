@@ -4,6 +4,7 @@
   [Robyn](https://github.com/RBodde)
 - [Suhail](https://github.com/suhailchoudhary)
 - [JayGokani](https://github.com/jaygokani)
+- [AnnaPlatoshina]https://github.com/AnnaPlatoshina)
 - [RifkiFrdsS](https://github.com/RifkiFrds/)
 - [oCHANKU0](https://github.com/oCHANKUo)
 - [Hrishikesh H](https://github.com/hrishihrishi/first-contributions)
