@@ -1814,6 +1814,7 @@ Darien Edwards
 - [Felix Morara](https://github.com/felixmorara)
 - [SaboorNisha](https://github.com/SaboorNisha)
 - [Sanika Nair](https://github.com/sanika-n)
+- [Shashwat Anand](https://github.com/Sushiii07)
 - [LateGit](https://github.com/LateGit)
 - [sakaleshhubli](https://github.com/Sakaleshhubli)
 - [Parker Crook](https://github.com/parkercrook)
