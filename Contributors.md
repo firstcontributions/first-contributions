@@ -53,6 +53,7 @@
 - [Ethanol](https://github.com/Ethanol0404)
 - [Francisca](https://github.com/fnabwire)
 - [Manoj](https://github.com/mxnojkumar)
+- [Fola](https://github.com/aluko123)
 - [Arnav Tiwari](https://github.com/Arnav10090)
 - [Faruq Khan Shired](https://github.com/FaruqKhan11148)
 - [Darshan Paccha](https://github.com/d1rshan)
