@@ -3047,7 +3047,7 @@ Darien Edwards
 - [Kapain1](https://github.com/Kapain1)
 - [HANAdes](https://github.com/HANAdes1126)
 - [Sai Teja](https://github.com/klu2300090005)
-- [Kim Songmok](https://github.com/klu2300090005)
+- [KimSongmok](https://github.com/kimsongmok)
 - [Mirmovsum Abasov](https://github.com/mirmovsum-abasov)
 - April Kidd
 - Luis Borges
