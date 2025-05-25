@@ -574,6 +574,7 @@ e-Jo
 - [Dwip Biswas](https://github.com/DWIP-BISWAS)
 - [Alex De Souza](https://github.com/alxss01)
 - [Naveen M.](https://github.com/naveenm4d)
+- [Harini R.](https://github.com/rharini1423)
 - [Thomas Moody](https://github.com/tjmoody)
 - [Jacob Nickerson](https://github.com/jacobnickerson)
 - [Akshitha Ramesh](https://github.com/akshitha2903)
