@@ -35,6 +35,7 @@
 - [yamayamma](https://github.com/yamayamma)
 - [artem-sitd](https://github.com/artem-sitd)
 - [carrie](https://github.com/MyatNoeKyin)
+- [Daniel Garcia}(https://github.com/Daniel-W-Garcia)
 - Amruta
 - Betty 
 - WLO (https://github.com/WLO)
