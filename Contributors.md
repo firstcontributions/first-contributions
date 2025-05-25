@@ -3,6 +3,7 @@
 - [RachitPatekar7](https://github.com/RachitPatekar7)
   [Robyn](https://github.com/RBodde)
 - [Suhail](https://github.com/suhailchoudhary)
+- [Void Emerald](https://github.com/voidexis)
 - [JayGokani](https://github.com/jaygokani)
 - [RifkiFrdsS](https://github.com/RifkiFrds/)
 - [oCHANKU0](https://github.com/oCHANKUo)
