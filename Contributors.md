@@ -296,6 +296,7 @@
  - [Mujahid Mohammad] (https://github.com/mujju834)
  - [dbto](https://github.com/dbto)
  - [shrutimishra-123](https://github.com/shrutimishra-123)
+ - [Myane234](https://github.com/myane234)
  - [VIkas Kumar](https://github.com/vikasviks)
  - [Kacper Adam Krotecki](https://github.com/kkrotecky)
  - {Bhargav made his 1st sucessful contribution}
