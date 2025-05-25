@@ -1,4 +1,4 @@
-# Contributors
+- [rishi-jat](https://github.com/rishi-jat) # Contributors
 
 - [RachitPatekar7](https://github.com/RachitPatekar7)
 - [Suhail](https://github.com/suhailchoudhary)
@@ -17,9 +17,10 @@
 - [Wajid Hussain](https://github.com/wajidengg)
 - [Yashaswi Mishra](https://github.com/pixperk)
 - [Vishal kumar](https://github.com/fateisintersting)
-- [RifkiFrdsS] (https://github.com/RifkiFrds/)
-- [SachinSingh] (https://github.com/sachinsingh2002/)
-- [OfficialSahilGupta] (https://github.com/OfficialSahilGupta)
+- [rishi-jat](https://github.com/rishi-jat)
+- [RifkiFrdsS](https://github.com/RifkiFrds/)
+- [SachinSingh (https- [OfficialSahilGupta](https://github.com/OfficialSahilGupta)://github.com/sachinsingh2002/)
+- [OfficialSahilGupta (https://github.com/OfficialSahilGupta)
 - [Mohammed-Thaha] (https://github.com/Mohammed-Thaha)
 - [UTKARSH-at-code] (https://github.com/UTKARSH-at-code)
 - [Amruta](https://github.com/Amruta-25)
