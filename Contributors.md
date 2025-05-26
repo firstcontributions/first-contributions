@@ -2355,6 +2355,7 @@ Darien Edwards
 - [Fuahad](https://github.com/fuahad)
 - [Shahmeer malik](https://github.com/shahmeermalik1)
 - [Jalithc](https://github.com/Jalithc)
+- [Pratik Choudhuri](https://github.com/CodeBunny09)
 - [cielestrial](https://github.com/cielestrial)
 - [Sidney Muriuki](https://github.com/mathncode-sid)
 - [Ahd. Kabeer Hadi](https://github.com/Ahd-Kabeer-Hadi)
