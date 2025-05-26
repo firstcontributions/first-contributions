@@ -7,6 +7,7 @@
 - [JayGokani](https://github.com/jaygokani)
 - [RifkiFrdsS](https://github.com/RifkiFrds/)
 - [oCHANKU0](https://github.com/oCHANKUo)
+- [Deepshikha](https://github.com/Yddeepshikha)
 - [Hrishikesh H](https://github.com/hrishihrishi/first-contributions)
 - [Siddharth](https://github.com/siddharth2835)
 - [Champer](https://github.com/Aw-Ab)
