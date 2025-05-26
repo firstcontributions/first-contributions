@@ -46,6 +46,7 @@
 - [SIDDHARTH K P] (https://github.com/Symbian-Bro)
 - [Blair](https://github.com/BlairyDev)
 - [Yousef Shanawany](https://github.com/askyous)
+- [Anu]
 - [puralpha](https://github.com/puralpha)
 - [Sumit Nayak](https://github.com/NotaScripptkiddie)
 - [Vimal Ganesh M](https://github.com/M-Vimal)
