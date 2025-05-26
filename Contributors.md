@@ -1,7 +1,17 @@
 # Contributors
+***
+Below is a list of developers who’ve contributed to this project. If you’d like to be listed, feel free to add your name — or even better, a link to your GitHub account — whichever you prefer.
+
+Please make sure to use the correct Markdown syntax for links: `[anchor](link)`
+For example:
+
+* `[YourName](https://github.com/yourusername)` (Note: no space between the square and round brackets)
+
+Thanks for being a part of this project! 💙
+***
 
 - [RachitPatekar7](https://github.com/RachitPatekar7)
--  [Robyn](https://github.com/RBodde)
+- [Robyn](https://github.com/RBodde)
 - [Suhail](https://github.com/suhailchoudhary)
 - [Void Emerald](https://github.com/voidexis)
 - [JayGokani](https://github.com/jaygokani)
@@ -338,7 +348,7 @@
 - [Kacper Adam Krotecki](https://github.com/kkrotecky)
 - Bhargav made his 1st sucessful contribution
 - [Javid Hussain Fazaeli](https://github.com/luckyjavid)
-- [Ashutosh Singh](https://github.com/AshutoshSinghJ)this
+- [Ashutosh Singh](https://github.com/AshutoshSinghJ), this
 - [ajaydewangan](https://github.com/ajaydewangan1100)
 - Avinash Kumar Learning GitHub
 - Nizan Naor
@@ -441,8 +451,8 @@
 - [Balaji Jayakumar](https://github.com/Balaji93bobby)
 - [George Tannous](https://github.com/GeorgeTannous98) 
 - [Deepak Sharma](https://github.com/DeepakSharma46)
-- [regiiik]
-sowmya gandhamaneni
+- regiiik 
+- sowmya gandhamaneni
 - [Justin Monubi](https://github.com/MonubiJustin)
 - [Baisnabi Rout](https://github.com/Reileen00)
 - [Rachit Singh](https://github.com/RachitSinghh)
@@ -454,7 +464,7 @@ sowmya gandhamaneni
 - [Abdul-AMA](https://github.com/Abdul-AMA)
 - [Manju Vasanth](https://github.com/ManjuVasanth)
 - [VincentChiang621](https://github.com/VincentChiang621)
- - [Kashyap K R](https://github.com/Kashyap888)
+- [Kashyap K R](https://github.com/Kashyap888)
 - [Diyacoder-123](https://github.com/Diyacoder-123)
 - [Puneet NJ](https://github.com/puneet-nj)
 - [Mohammad Hashim](https://github.com/mohammadhashim135)
