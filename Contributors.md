@@ -555,6 +555,7 @@ Anshi
 - [Aditya joshi](https://github.com/Aditya44234)
 - [Dalbeer Singh Toor](https://github.com/dalbeersinghtoor)
 - [Giselle]
+- [Chris Gaston]
 - [JS-Bej](https://github.com/JS-Bej)
 - [Jamshaid Ali](https://github.com/jamshaidali)
 - [Austine Okenu](https://github.com/aokenu)
