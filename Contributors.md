@@ -1,5 +1,6 @@
 # Contributors
 
+- [JaBee](https://github.com/Jabee7531)
 - [RachitPatekar7](https://github.com/RachitPatekar7)
   [Robyn](https://github.com/RBodde)
 - [Suhail](https://github.com/suhailchoudhary)
@@ -94,7 +95,8 @@
 - [SuperCat908809](https://github.com/SuperCat908809)
 - [lebenna](https://github.com/lebenna)
 - [Naheel]
-- Emre Arikan
+- [Emre Arikan]
+-[Abyss Tempest](https://github.com/P116gif)
 - [Avinash Singh](https://github.com/avinashs1ngh)
 - [Ananya Pratap Singh](https://github.com/AnanyaPratapSingh7)
 -[Ankam Hitha](https://github.com/hithaankam)
@@ -3298,4 +3300,4 @@ Darien Edwards
 - [Nabin Koirala] (https://github.com/nabinkoirala452/)
 - [Axel Flores](https://github.com/AxelF1899)
 - [Johnny Chiu](https://github.com/nokroth)
-- [JaBee](https://github.com/Jabee7531)
+- [Bbsbr](https://github.com/Bbsbr)
