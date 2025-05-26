@@ -2018,6 +2018,7 @@ Darien Edwards
 - [Chandan Ravi](https://github.com/chandanravic)
 - [Sayyid Sajad](https://github.com/sayyidsajad)
 - [Vicente Guzmán](https://vicenteguzman.com/)
+- [Aldo Oliva](https://github.com/aldoliva)
 - [Vinit Jahagirdar](https://github.com/Vinit1909)
 - [Bam](https://github.com/QBJ08)
 - [Tyler Daw](https://github.com/TylerD1105)
