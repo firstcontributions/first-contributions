@@ -1495,6 +1495,7 @@ Matthew Burgos
 - [Giusnovetti](https://github.com/Giusnovetti)
 - [Druva Kumar](https://github.com/Dru-blip)
 - [Kristoffer Paulsson](https://github.com/kristoffer-paulsson)
+- [oluwasegun](https://github.com/Optimist19)
 - [benHitt](https://github.com/benHitt123)
 - [uzuraDev](https://github.com/uzuraDev)
 - [Eoin Breen](https://github.com/ebreen1)
