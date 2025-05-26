@@ -19,6 +19,7 @@
 - [Daniel Li](https://github.com/dan-li-dev)
 - [Prasanna Saladi](https://github.com/prasanna2108saladi)
 - [Cosmictrigger01](https://github.com/Cosmictrigger01)
+- [Rash522](https://github.com/rash522)
 - [QWeDev](https://github.com/QWeDev)
 - [inkstar](https://github.com/inkstar)
 - [ChristBernardS](https://github.com/ChristBernardS)
