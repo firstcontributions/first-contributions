@@ -48,6 +48,7 @@
 - Betty 
 - WLO (https://github.com/WLO)
 - Shawn
+- [Brandsrx](https://github.com/brandsrx)
 - [SIDDHARTH K P] (https://github.com/Symbian-Bro)
 - [Blair](https://github.com/BlairyDev)
 - [Yousef Shanawany](https://github.com/askyous)
