@@ -82,6 +82,7 @@
 - [Mohammad Kawash](https://github.com/mohammad-kawach)
 - [Delete-Me](https://github.com/delete-me)
 -  [Kayo rodrigues]
+-[Ananya](
 - [Saksham](https://github.com/Saksham67)
 - [Raja Mohammed](https://gitbuh.com/RajamdGamer)
   [Douglas souza dos santos](https://github.com/Fera-programador)
@@ -719,6 +720,7 @@ Matthew Burgos
 - [Mateo](https://github.com/mateopozor02)
 - [caliarch](https://github.com/caliarch)
 - [Leo van der Ploeg](https://github.com/User32sys)
+-[Ananya](https://github.com/ItsMeAnanyaSrivastava)
 - [Sandeep](https://github.com/sandeepxi)
 - [Arnav Agarwal](https://github.com/arnav-343-agarwal)
 [Patrick Yeboah Bonsu](https://github.com/Patrick-Bonsu)
