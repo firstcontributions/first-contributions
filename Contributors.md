@@ -80,6 +80,7 @@
 - [Faruq Khan Shired](https://github.com/FaruqKhan11148)
 - [Darshan Paccha](https://github.com/d1rshan)
 - [Pranav Wankhedkar](https://github.com/astroficboy)
+- [Sean Coughlin](https://github.com/Scc33)
 - [Heymun Pareek](https://github.com/PareekHeymun)
 - [Prathamesh Rokade](https://github.com/Pratha)
 - [Mohammad Kawash](https://github.com/mohammad-kawach)
