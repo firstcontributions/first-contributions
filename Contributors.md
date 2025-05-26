@@ -94,7 +94,7 @@
 - [SuperCat908809](https://github.com/SuperCat908809)
 - [lebenna](https://github.com/lebenna)
 - [Naheel]
-- Emre Arikan
+- [Emre Arikan]
 -[Abyss Tempest](https://github.com/P116gif)
 - [Avinash Singh](https://github.com/avinashs1ngh)
 - [Ananya Pratap Singh](https://github.com/AnanyaPratapSingh7)
