@@ -3307,3 +3307,4 @@ Darien Edwards
 - [Rod-Welsh](https://github.com/Rod-Welsh)
 - [Jiayan Fu](https://github.com/ichthyosaur)
 - [Nestea29950](https://github.com/Nestea29950)
+- [Souhard Roy](https://github.com/nolifer-jpg)
