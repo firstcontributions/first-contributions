@@ -20,6 +20,7 @@
 - [Cosmictrigger01](https://github.com/Cosmictrigger01)
 - [QWeDev](https://github.com/QWeDev)
 - [inkstar](https://github.com/inkstar)
+- [ChristBernardS](https://github.com/ChristBernardS)
 - [JDerenthalCS](https://github.com/JDerenthalCS)
 - [Pedro0152](https://github.com/Pedro0152)
 - [Wajid Hussain](https://github.com/wajidengg)
