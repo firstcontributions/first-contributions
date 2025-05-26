@@ -3303,3 +3303,4 @@ Darien Edwards
 - [Johnny Chiu](https://github.com/nokroth)
 - [Bbsbr](https://github.com/Bbsbr)
 - [Rod-Welsh](https://github.com/Rod-Welsh)
+- [Jiayan Fu](https://github.com/ichthyosaur)
