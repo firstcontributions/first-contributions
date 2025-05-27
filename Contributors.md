@@ -96,6 +96,7 @@
 - [Delete-Me](https://github.com/delete-me)
 -  [Kayo rodrigues]
 - [Saksham](https://github.com/Saksham67)
+- [Rayid](https://github.com/rayidali)
 - [Raja Mohammed](https://gitbuh.com/RajamdGamer)
   [Douglas souza dos santos](https://github.com/Fera-programador)
 -[Arun Kumar](https://github.com/Arun-AK-27/)
