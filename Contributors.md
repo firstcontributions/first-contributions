@@ -167,6 +167,7 @@
  -[Cat Young](https://github.com/CatYoung018/CatYoung018)
 -[Rohit Lal](https://github.com/rohitllal)
 -[Tony Karanja]
+- [GoldenAppler] (https://github.com/GoldenAppler-Eng)
 -[DexterWard](https://github.com/DexterWard)
 -[joao-299](https://github.com/Joao-299)
 - [Stephon Horton](https://github.com/StephonRomeroHorton) WE DID IT!!!
