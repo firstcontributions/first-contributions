@@ -86,6 +86,7 @@
 <kbd>[<img title="Malagasy" alt="Malagasy" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/mg.svg" width="22">](docs/translations/README.mg.md)</kbd>
 <kbd>[<img title="ភាសាខ្មែរ" alt="ភាសាខ្មែរ" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/kh.svg" width="22">](docs/translations/README.kh.md)</kbd>
 <kbd>[<img title="Morocco" alt="Moroccan Darija" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ma.svg" width="22">](docs/translations/README.ma.md)</kbd>
+<kbd>[<img title="廣東話(Cantonese)" alt="廣東話(Cantonese)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/hk.svg" width="22">](docs/translations/README.zh-hk.md)</kbd>
 
 # First Contributions
 
