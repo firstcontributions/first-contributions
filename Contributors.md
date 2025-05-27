@@ -2780,6 +2780,7 @@ Darien Edwards
 - [Daniel Bessa](https://github.com/dwbessa)
 - [Modem Sai Deekshith](https://github.com/itzme-deekshith)
 - [Chetan Palde](https://github.com/chetanpalde)
+- [Shaun Newman](https://github.com/newmanwell)
 - [Kruti Popat](https://github.com/kruti-popat)
 - [Baycan Vural](https://github.com/baycan)
 - [Aparmit Srivastava](https://github.com/AparmitSrivastava)
