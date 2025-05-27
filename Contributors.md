@@ -3324,4 +3324,5 @@ Darien Edwards
 - [Nestea29950](https://github.com/Nestea29950)
 - [Souhard Roy](https://github.com/nolifer-jpg)
 - [spkara25](https://github.com/spkara25)
+- [Sergio Lissanou](https://github.com/Sergitodelavega)
 - [saloni-singh] (https://github.com/saloni875)
