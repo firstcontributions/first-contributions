@@ -47,6 +47,7 @@
 - Amruta
 - Betty 
 - WLO (https://github.com/WLO)
+- Anderton de Andradas Leoncio (https://github.com/locksher182)
 - Shawn
 - [SIDDHARTH K P] (https://github.com/Symbian-Bro)
 - [Blair](https://github.com/BlairyDev)
