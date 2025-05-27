@@ -3116,6 +3116,7 @@ Darien Edwards
 - [Andreja Djordjevic](https://github.com/andrejadj2)
 - [ycamlad](https://github.com/ycamlad)
 - [Daniella Asuqo] (https://github.com/Malef02rules)
+- [Anuga Indu](https://github.com/Induanuga)
 - [AaronSmatta] (https://github.com/AaronSmatta)
 - [Muhammad Sagor] (https://github.com/Sagor0078)
 - [Ishtiaque Ahmed] (https://github.com/allubie)
