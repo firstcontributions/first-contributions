@@ -10,6 +10,7 @@
  -[Isaiah Richards](https://github.com/iprichards)
  -[Ronan Cuaresma](https://github.com/MuushyRoom)
  -[Michelle Burton] (https://github.com/michelle-burton)
+ -[Dharani K] (https://github.com/sroiis)
  - [SFatimah56](https://github.com/SFatimah56)
  - [Biraj Paul]
  -[Hamisi Bakari](https://github.com/hamisiibunbeka)
