@@ -111,7 +111,7 @@ git push origin <add-your-name>
 
 ## 咁之後要做咩呀？
 
-喺[呢個網站](https://firstcontributions.github.io/#social-share)慶祝你的成就並跟朋友同追隨者分享啦
+喺[呢個網站](https://firstcontributions.github.io/#social-share)慶祝你的成就並跟朋友同你啲Followers分享啦
 
 假如你有任何疑問或者想搵到更多幫手，歡迎加入我哋嘅 [Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 
