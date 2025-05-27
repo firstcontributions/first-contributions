@@ -1771,6 +1771,7 @@ Darien Edwards
 - [sakib maniyar](https://github.com/Saquib45)
 - [Lemar Tokham](https://github.com/LemarTokham)
 - [Bird Dog](https://github.com/acuhlian)
+- [Gil Anavi](https://github.com/thisguygil)
 - [Michael B.](https://github.com/mbyrd3)
 - [ Supraja Gaonkar ](https://github.com/Supraja-Gao)
 - [vedivero](https://github.com/vedivero)
