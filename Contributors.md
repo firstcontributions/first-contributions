@@ -1,6 +1,7 @@
 # Contributors
 
 - [Nirajan Dhungel](https://github.com/nirajandhungel)
+- [Mandeep Singh](https://github.com/Mandeep-Singh18)
 - [JaBee](https://github.com/Jabee7531)
 - [RachitPatekar7](https://github.com/RachitPatekar7)
   [Robyn](https://github.com/RBodde)
