@@ -2292,6 +2292,7 @@ Darien Edwards
 - [Thomas McLaughlin](https://github.com/mclaughlin-thomas)
 - [maxgmr](https://github.com/maxgmr)
 - [Robin Van Persie](https://github.com/rvp20)
+- [Anuga Indu](https://github.com/Induanuga)
 - [Alex Terskin](https://github.com/ATerskin)
 - [Kelsen23](https://github.com/Kelsen23)
 - [Bhargav](https://github.com/thotabhargav123)
