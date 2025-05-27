@@ -1947,6 +1947,7 @@ Darien Edwards
 - [Anish Banda](https://github.con/anishbanda)
 - [Sal Adrian](https://github.com/Sal-Adrian)
 - [Jordy19](https://github.com/Jordy19)
+- [Derek Hall](https://github.com/derekhall483)
 - [Efte Hassan Hridoy](https://github.com/eftehassanpp)
 - [Alimilla-Abhinandan](https://github.com/Alimilla-Abhinandan).
 - [Kannan Ravindran](https://github.com/kannan-ravi)
