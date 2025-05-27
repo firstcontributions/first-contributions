@@ -1,5 +1,6 @@
 # Contributors
 
+- [Yanick De la Torre](https://github.com/Yank2901)
 - [Nirajan Dhungel](https://github.com/nirajandhungel)
 - [Mandeep Singh](https://github.com/Mandeep-Singh18)
 - [JaBee](https://github.com/Jabee7531)
