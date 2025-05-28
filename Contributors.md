@@ -879,6 +879,7 @@ Matthew Burgos
 - [dzwee]
 - [Sunil Pabba]
 - [Charles]
+- [Seriously_Sirius]()
 - [codeuniquecode] (https://github.com/codeuniquecode)
 - [Vidhu P Vinod](https://github.com/VidhuVi)
 - [Mackenzie Whetzel](https://github.com/Mijawh)
