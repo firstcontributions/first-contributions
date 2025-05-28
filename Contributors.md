@@ -1721,6 +1721,7 @@ Darien Edwards
 - [eesoyeon](https://github.com/eesoyeon)
 - [Tournoy Noa](https://github.com/)
 - [Dhruv](https://github.com/DhruvTheDev1)
+- [Mitchell Smith](https://github.com/msmit4095)
 - [Plamen Hadzhiev](https://github.com/plmn95)
 - [Chandan Achary](https://github.com/Adventurist2)
 - [LaraAcuna](https://github.com/LaraAcuna)
