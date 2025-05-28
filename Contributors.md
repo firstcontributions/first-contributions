@@ -23,6 +23,7 @@
 - [Hrishikesh H](https://github.com/hrishihrishi/first-contributions)
 - [Siddharth](https://github.com/siddharth2835)
 - [SethMSC](https://github.com/SethMSC)
+- [Sarthak](https://github.com/SarthakMiglani)
 - [NidaSiddiquee](https://github.com/Nida-siddiquee)
 - [Champer](https://github.com/Aw-Ab)
 - [Abizer Masavi](https://github.com/abizer007)
