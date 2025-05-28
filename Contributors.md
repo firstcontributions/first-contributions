@@ -1,5 +1,7 @@
 # Contributors
 
+- [Jimmy Navarro](https://github.com/Navarriux)
+- [Yanick De la Torre](https://github.com/Yank2901)
 - [Nirajan Dhungel](https://github.com/nirajandhungel)
 - [Mandeep Singh](https://github.com/Mandeep-Singh18)
 - [JaBee](https://github.com/Jabee7531)
@@ -16,6 +18,7 @@
 - [Hrishikesh H](https://github.com/hrishihrishi/first-contributions)
 - [Siddharth](https://github.com/siddharth2835)
 - [SethMSC](https://github.com/SethMSC)
+- [NidaSiddiquee](https://github.com/Nida-siddiquee)
 - [Champer](https://github.com/Aw-Ab)
 - [Abizer Masavi](https://github.com/abizer007)
 - [Sdevso](https://github.com/Sdevso)
@@ -66,6 +69,7 @@
 - [Amit_Vishwakarma] (https://github.com/amitvish)
 - [aramb-dev (Abdur-Rahman Bilal)](https://github.com/aramb-dev)
  kenji Watanabe
+- [ViswajithKS] (https://github.com/ViswajithKS)
 - [Anouar tizgui] (https://github.com/An009)
 - NyeinNyeinA (hhtps://github.com/Allison)
 - [Delower Hosen](https://github.com/delower-hosen)
@@ -92,6 +96,7 @@
 - [Delete-Me](https://github.com/delete-me)
 -  [Kayo rodrigues]
 - [Saksham](https://github.com/Saksham67)
+- [Rayid](https://github.com/rayidali)
 - [Raja Mohammed](https://gitbuh.com/RajamdGamer)
   [Douglas souza dos santos](https://github.com/Fera-programador)
 -[Arun Kumar](https://github.com/Arun-AK-27/)
@@ -1766,6 +1771,7 @@ Darien Edwards
 - [sakib maniyar](https://github.com/Saquib45)
 - [Lemar Tokham](https://github.com/LemarTokham)
 - [Bird Dog](https://github.com/acuhlian)
+- [Gil Anavi](https://github.com/thisguygil)
 - [Michael B.](https://github.com/mbyrd3)
 - [ Supraja Gaonkar ](https://github.com/Supraja-Gao)
 - [vedivero](https://github.com/vedivero)
@@ -2832,6 +2838,7 @@ Darien Edwards
 - [maheshbhatiya](https://github.com/maheshbhatiya73)
 - [firatdem](https://github.com/firatdem)
 - [Tim Wolter](https://github.com/timwolter-dev)
+- [Rodrigo Farinango](https://github.com/rofarinango)
 - [Devansh Sharma] (https://github.com/adawatia)
 - [keerthana250501](https://github.com/keerthana250501)
 - [Wlwool](https://github.com/Wlwool)   
@@ -3334,4 +3341,6 @@ Darien Edwards
 - [saloni-singh] (https://github.com/saloni875)
 - [zsolt-bardos]
 - [Ashutosh Kumar](https://github.com/codeashutoshkr)
+- [Prabakaran](https://github.com/Prabakaran2712/)
+- [Robert Barreca](https://github.com/robertbarreca)
 - [Henry Lok](https://github.com/HenryLok0)
