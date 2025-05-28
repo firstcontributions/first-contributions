@@ -1,6 +1,7 @@
 # Contributors
 
 - [Jimmy Navarro](https://github.com/Navarriux)
+- [vansh nagar](https://github.com/vansh-nagar)
 - [Yanick De la Torre](https://github.com/Yank2901)
 - [Nirajan Dhungel](https://github.com/nirajandhungel)
 - [Mandeep Singh](https://github.com/Mandeep-Singh18)
