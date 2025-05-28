@@ -357,6 +357,7 @@
  - [Anasmtaweh] (https://github.com/Anasmtaweh)
  - laszloekovacs
  samiksha
+ - [Nikhil Sinha] (https://github.com/niksy-1)
  - [Talha Jubaer Prantor](https://github.com/TalhaJubaerPrantor)
  - [Arshi Sabah](https://github.com/arshisabah/first-contributions)
  - [DungGramer](https://github.com/DungGramer)
