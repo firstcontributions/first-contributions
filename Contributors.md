@@ -68,6 +68,7 @@
 - [Yousef Shanawany](https://github.com/askyous)
 - [José Guilherme](https://github.com/dappter)
 - [Anu]
+- [Miguel Sanchez]
 - [puralpha](https://github.com/puralpha)
 - [Sumit Nayak](https://github.com/NotaScripptkiddie)
 - [Vimal Ganesh M](https://github.com/M-Vimal)
