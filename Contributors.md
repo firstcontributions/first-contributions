@@ -1,5 +1,6 @@
 # Contributors
 
+- [Stylianos Vogiatzis](https://github.com/VforVog)
 - [Jimmy Navarro](https://github.com/Navarriux)
 - [vansh nagar](https://github.com/vansh-nagar)
 - [Yanick De la Torre](https://github.com/Yank2901)
