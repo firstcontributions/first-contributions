@@ -69,6 +69,7 @@
 - [Yousef Shanawany](https://github.com/askyous)
 - [José Guilherme](https://github.com/dappter)
 - [Anu]
+- [Miguel Sanchez]
 - [puralpha](https://github.com/puralpha)
 - [Sumit Nayak](https://github.com/NotaScripptkiddie)
 - [Vimal Ganesh M](https://github.com/M-Vimal)
@@ -1722,6 +1723,7 @@ Darien Edwards
 - [eesoyeon](https://github.com/eesoyeon)
 - [Tournoy Noa](https://github.com/)
 - [Dhruv](https://github.com/DhruvTheDev1)
+- [Mitchell Smith](https://github.com/msmit4095)
 - [Plamen Hadzhiev](https://github.com/plmn95)
 - [Chandan Achary](https://github.com/Adventurist2)
 - [LaraAcuna](https://github.com/LaraAcuna)
