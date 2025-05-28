@@ -1473,6 +1473,7 @@ Matthew Burgos
 - [Farhan Ilyas](https://github.com/Farhan2001M)
   [Lovepreet Kaur](https://github.com/LovekUR)
 - [Leola](https://github.com/leolalopeslobo)
+- [Samuel Spina](https://github.com/SamuelSpina)
 - [Navneet Yadav](https://github.com/navnt00)
 - [Anina van Niekerk](https://github.com/aninagotgit)
 - [dylan-sacco](https://github.com/dylan-sacco)
