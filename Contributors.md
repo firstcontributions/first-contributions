@@ -1729,6 +1729,7 @@ Darien Edwards
 - [Mitchell Smith](https://github.com/msmit4095)
 - [Plamen Hadzhiev](https://github.com/plmn95)
 - [Chandan Achary](https://github.com/Adventurist2)
+- [Mayank Jangid] (https://github.com/Mayank-jangid007)
 - [LaraAcuna](https://github.com/LaraAcuna)
 - [Chandra Mouli](https://github.com/Chandramouliva)
 - [Oleksandr Tubolets] (https://github.com/alextuby)
