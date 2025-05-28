@@ -9,6 +9,7 @@
 - [Muhammad Imaduddin](https://github.com/Muhasix)
 - [Jason Schinis](https://github.com/blunchboxx)
 - [JaBee](https://github.com/Jabee7531)
+- [AshtavinayakPande](https://github.com/yuno-gen)
 - [RachitPatekar7](https://github.com/RachitPatekar7)
 - [Bani](https://github.com/babanini95)
 - [Ancil](https://github.com/iamancil)
