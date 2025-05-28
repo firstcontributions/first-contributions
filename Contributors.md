@@ -3355,4 +3355,4 @@ Darien Edwards
 - [asato425](https://github.com/asato425)
 - [fgeygfe](https://github.com/fgeygfe)
 - [yannis-e](https://github.com/yannis-e)
-- [Ezekiel John Alvar](https://github.com/alvarezekiel19)
+- [Ezekiel Alvar](https://github.com/alvarezekiel19)
