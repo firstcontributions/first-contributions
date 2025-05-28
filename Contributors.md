@@ -30,6 +30,7 @@
 - [Cosmictrigger01](https://github.com/Cosmictrigger01)
 - [Rash522](https://github.com/rash522)
 - [QWeDev](https://github.com/QWeDev)
+- [Minglang Du](https://github.com/minglangdu)
 - [inkstar](https://github.com/inkstar)
 - [ChristBernardS](https://github.com/ChristBernardS)
 - [JDerenthalCS](https://github.com/JDerenthalCS)
