@@ -7,6 +7,7 @@
 - [Nirajan Dhungel](https://github.com/nirajandhungel)
 - [Mandeep Singh](https://github.com/Mandeep-Singh18)
 - [Muhammad Imaduddin](https://github.com/Muhasix)
+- [Jason Schinis](https://github.com/blunchboxx)
 - [JaBee](https://github.com/Jabee7531)
 - [RachitPatekar7](https://github.com/RachitPatekar7)
 - [Bani](https://github.com/babanini95)
