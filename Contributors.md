@@ -5,6 +5,7 @@
 - [Yanick De la Torre](https://github.com/Yank2901)
 - [Nirajan Dhungel](https://github.com/nirajandhungel)
 - [Mandeep Singh](https://github.com/Mandeep-Singh18)
+- [Muhammad Imaduddin](https://github.com/Muhasix)
 - [JaBee](https://github.com/Jabee7531)
 - [RachitPatekar7](https://github.com/RachitPatekar7)
 - [Bani](https://github.com/babanini95)
