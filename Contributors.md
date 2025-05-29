@@ -9,6 +9,7 @@
 - [Muhammad Imaduddin](https://github.com/Muhasix)
 - [Jason Schinis](https://github.com/blunchboxx)
 - [JaBee](https://github.com/Jabee7531)
+- [Mri](https://github.com/mri2004)
 - [AshtavinayakPande](https://github.com/yuno-gen)
 - [Utkarsh Shrivastava](https://github.com/UTKARSHSHRIVASTAVA007)
 - [RachitPatekar7](https://github.com/RachitPatekar7)
