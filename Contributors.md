@@ -277,6 +277,7 @@
  - [Abdulrhman Ansary](https://github.com/AbdulrhmanAnsary)
  - [Barta Zsombor](https://github.com/l4ttic3zs)
  - [Ayush Dwibedy](https://github.com/<your-username>)
+ - [Ren Narciso](https://github.com/AbsoluteRivers)
  - [Juan Pablo Rovayo Delgado](https://github.com/Pablitord)
  - [Arturo Silva](https://github.com/rtr-slv)
  - [Akshay Mahto](https://github.com/akshaymahto)
