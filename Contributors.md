@@ -145,6 +145,7 @@
 - [ADMIRΛL](https://github.com/ogadmiral)
 - [Pritish Divate](https://github.com/pritish2403)
 - [Ale Roses](https://github.com/aleroses)
+- [Joshua Jimenez](https://github.com/JoshKerosh)
 - [Ashis Hota](https://github.com/ashishota)
 - [Lior Cohen](https://github.com/liorcodev)
 - [Mike G](https://github.com/mgalkowski/)
