@@ -3326,6 +3326,7 @@ Darien Edwards
 - [Immaculate Munde](https://github.com/munde006)
 - [KONA](https://github.com/KONA-159)
 - [Steven T. Black](https://github.com/steventblack)
+- [Harshit Singh Rathore]
 - [Mohammad Arab](https://github.com/MohammadTheDev)
 - [Abdullah](https://github.com/firstcontributions/first-contributions.git)
 - [Manish Aravindh](https://github.com/manisharavindh)
