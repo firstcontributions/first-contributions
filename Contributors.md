@@ -31,6 +31,7 @@
 - [NidaSiddiquee](https://github.com/Nida-siddiquee)
 - [Champer](https://github.com/Aw-Ab)
 - [Abizer Masavi](https://github.com/abizer007)
+-[Sanjay Ramsinghani](https://github.com/sanjay78632)
 - [Sdevso](https://github.com/Sdevso)
 - [Eunbin Kwon](https://github.com/eun61n00)
 - [Daniel Li](https://github.com/dan-li-dev)
