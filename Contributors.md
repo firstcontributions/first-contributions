@@ -74,6 +74,7 @@
 - Anderton de Andradas Leoncio (https://github.com/locksher182)
 - Shawn
 - Twisted Frank
+- Comfort Jones
 - [Brandsrx](https://github.com/brandsrx)
 - [SIDDHARTH K P] (https://github.com/Symbian-Bro)
 - [Blair](https://github.com/BlairyDev)
