@@ -18,6 +18,7 @@
 - [Suhail](https://github.com/suhailchoudhary)
 - [Void Emerald](https://github.com/voidexis)
 - [SanjayaCF](https://github.com/ZetaCo7)
+- [Gregory Guths](https://github.com/Guthsss)
 - [JayGokani](https://github.com/jaygokani)
 - [RifkiFrdsS](https://github.com/RifkiFrds/)
 - [oCHANKU0](https://github.com/oCHANKUo)
