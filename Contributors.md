@@ -153,7 +153,7 @@
 - [Raaghav Raaj](https://github.com/raaghavraaj)
 - [Harshil-Solanki](https://github.com/26harshil)
 - [Sachin Kumar](https://github.com/sk2105)
-- [Vanessa O. Bakare](https://github.com/Vanessabakare) 
+- [Vanessa Bakare](https://github.com/Vanessabakare) 
 - [Michael J] (https://github.com/michaeljjamero)
 - [Debpriyo-Ghosal] (https://github.com/DevDebpriyo)
 - [Levis-Nyagah] (https://github.com/umeskia-levi)
