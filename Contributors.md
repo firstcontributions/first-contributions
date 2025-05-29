@@ -56,6 +56,7 @@
 - [UTKARSH-at-code] (https://github.com/UTKARSH-at-code)
 - [FroSty361] (https://github.com/FroSty361)
 - [Amruta](https://github.com/Amruta-25)
+- [aluminaaaaaa](https://github.com/aluminaaaaaa)
 - [Refilwe M. Mashile](https://github.com/refilwe-m)
 - [DeveloperRam-Coder](https://github.com/DeveloperRam-Coder)
 - [yamayamma](https://github.com/yamayamma)
