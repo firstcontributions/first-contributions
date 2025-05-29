@@ -1924,6 +1924,7 @@ Darien Edwards
 - [Moulya.K](https://github.com/MoulyaK2005)
 - [Akshay Shahi](https://github.com/Akshayshahi900)
 - [kabya deb](https://github.com/kabyadeb)
+- [Faheem Saleem] (https://github.com/faheem-s27)
 - [Khushi Ray](https://github.com/khushiray07)
 - [Gnanendra Naidu N](https://github.com/gnanendranaidun)
 - [Vasupriya Patnaik](https://github.com/VasupriyaPatnaik)
