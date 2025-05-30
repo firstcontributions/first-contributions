@@ -1108,6 +1108,7 @@ Matthew Burgos
 - [xFooFoo](https://github.com/xFooFoo)
 - [whynot1963](https://github.com/whynot1963)
 - [ISOTOPE | THEMBA](https://github.com/Goitseone-Themba)
+- [Luigi Bergozza](https://github.com/LuigiBergozza)
 - [Mateus Navarro](https://github.com/GreatApe77)
 - [Shreyas](https://github.com/shreyasgunjal)
 - [rashid](https://github.com/rashid-360)
