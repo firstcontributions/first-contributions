@@ -3421,3 +3421,4 @@ Darien Edwards
 -[dusk-beep](https://github.com/dusk-beep)
 -[Dmytro Horbachenko](https://github.com/shapkoff)
 -[Filip Brataon](https://github.com/filip-brataon)
+-[Karan Vasudevamurthy](https://github.com/karanlvm)
