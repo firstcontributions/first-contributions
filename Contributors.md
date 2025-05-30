@@ -2,6 +2,7 @@
 
 - [Raghav Khatri](https://github.com/raghavkhatri413)
 - [Stylianos Vogiatzis](https://github.com/VforVog)
+- [Atkin Rong](https://github.com/atkin0)
 - [Jimmy Navarro](https://github.com/Navarriux)
 - [vansh nagar](https://github.com/vansh-nagar)
 - [Ahmed Nosir](https://github.com/egycondor)
