@@ -14,6 +14,7 @@
 - [Mri](https://github.com/mri2004)
 - [leocampos81](https://github.com/leocampos81)
 - [jay](https://github.com/jaykos) 
+- [Akanksha](https://github.com/Akanksha9821)
 - [AshtavinayakPande](https://github.com/yuno-gen)
 - [Utkarsh Shrivastava](https://github.com/UTKARSHSHRIVASTAVA007)
 - [RachitPatekar7](https://github.com/RachitPatekar7)
