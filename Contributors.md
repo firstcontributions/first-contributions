@@ -130,6 +130,7 @@
 - [Austin Cook](https://github.com/austin-cook)
 - [Julian Elliott](https://github.com/Julian-Elliott)
 - [Parthasarathi Agarwal](https://github.com/ParthAgarwal-05)
+- [Talha Saleem] (https://github.com/Tsaleem123/)
 - [Abhishek Prajapatt](https://github.com/abhishekprajapatt)
 - [Flounder](https://github.com/restfulcurrent)
 - [SuperCat908809](https://github.com/SuperCat908809)
