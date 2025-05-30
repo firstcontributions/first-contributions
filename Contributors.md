@@ -124,6 +124,7 @@
 - [Prathamesh Rokade](https://github.com/Pratha)
 - [Mohammad Kawash](https://github.com/mohammad-kawach)
 - [Delete-Me](https://github.com/delete-me)
+- [Mate Mrse](https://github.com/senf-f)
 -  [Kayo rodrigues]
 - [Saksham](https://github.com/Saksham67)
 - [Rayid](https://github.com/rayidali)
