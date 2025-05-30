@@ -901,6 +901,7 @@ Matthew Burgos
 - [codeuniquecode] (https://github.com/codeuniquecode)
 - [Vidhu P Vinod](https://github.com/VidhuVi)
 - [Mackenzie Whetzel](https://github.com/Mijawh)
+- [Giulia Mdo](https://github.com/giuucca)
 - [Visur Indula](https://github.com/visuraindula2001)
 - [Hardy Scheel](https://github.com/hardyscheel)
 - [Rob Clark] (https://github.com/robthomasclark)
