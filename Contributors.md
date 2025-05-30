@@ -2057,6 +2057,7 @@ Darien Edwards
 - [Fangphire](https://github.com/fangphire)
 - [Saptarshi Mitra](https://github.com/Saptarshi1010)
 - [jhc4318](https://github.com/jhc4318)
+- [table106](https://github.com/table106)
 - [Marc Larson](https://github.com/m-larson94)
 - [td2thinh](https://github.com/td2thinh)
 - [dinesh](https://github.com/dineshv97)
