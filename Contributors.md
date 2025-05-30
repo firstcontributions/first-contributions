@@ -3413,3 +3413,4 @@ Darien Edwards
 -[kayvour](https://github.com/kayvour)
 -[dusk-beep](https://github.com/dusk-beep)
 -[Dmytro Horbachenko](https://github.com/shapkoff)
+-[Filip Brataon](https://github.com/filip-brataon)
