@@ -1747,6 +1747,7 @@ Darien Edwards
 - [JaeHye0k](https://github.com/JaeHye0k)
 - [JasonSA1993](https://github.com/JasonSa1993/)
 - [OmkarS](https://github.com/omkar402)
+- [0scrxk](https://github.com/oscrxk)
 - [Suresh Deora](https://github.com/SureshDeora)
 - [Mohanshi Jain](https://github.com/Mohanshi04)
 - [Subhiksha Rao](https://github.com/subikrao)
