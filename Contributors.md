@@ -2261,6 +2261,7 @@ Darien Edwards
 - [Takuya Yanase](https://github.com/takuyaOOR)
 - [Line Kouider](https://github.com/linekdr)
 - [jbnation](https://github.com/jbnation)
+- [tlorand2](https://github.com/tlorand2)
 - [Sarvesh Bachute](https://github.com/sarry8901)
 - [Ala Gowtham Siva Kumar](https://github.com/gowtham-2oo5)
 - [Swapnilkumar Dwivedi](https://github.com/swappy-2003)
