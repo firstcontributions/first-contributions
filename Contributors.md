@@ -820,6 +820,7 @@ Matthew Burgos
 - [Arunabha Mishra](https://github.com/MishraJi-Devloper)
 - [Steven Suarez](https://github.com/scruffypilot)
 - [Ravindra Reddy](https://github.com/Ravindra-reddy-18)
+- [Nawaz](https://github.com/Nawazxam)
 - [Tosin Chukwu](https://github.com/tosinchukwu)
 - [Pablo Berzal](https://github.com/PabloJBG)
 - [Ana Pernalete](https://github.com/anapernalete)
