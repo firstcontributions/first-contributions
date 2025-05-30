@@ -1,5 +1,6 @@
 # Contributors
 
+- [Raghav Khatri](https://github.com/raghavkhatri413)
 - [Stylianos Vogiatzis](https://github.com/VforVog)
 - [Jimmy Navarro](https://github.com/Navarriux)
 - [vansh nagar](https://github.com/vansh-nagar)
