@@ -2227,6 +2227,7 @@ Darien Edwards
 - [Assaf Lewin](https://github.com/Assaf1713)
 - [EbertonKM](https://github.com/EbertonKM)
 - [Shayne Geilman](https://github.com/ShayneJG)
+- [Sandeep Nalamaru](https://github.com/SandeepNalamaru)
 - [Silviya Kolchakova](https://github.com/SilviyaKolchakova)
 - [Aiman](https://github.com/PX201)
 - [Debapriya sengupta](https://github.com/DebapriyaSengupta28)
