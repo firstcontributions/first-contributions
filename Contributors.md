@@ -11,6 +11,7 @@
 - [Jason Schinis](https://github.com/blunchboxx)
 - [JaBee](https://github.com/Jabee7531)
 - [Mri](https://github.com/mri2004)
+- [leocampos81](https://github.com/leocampos81)
 - [jay](https://github.com/jaykos) 
 - [AshtavinayakPande](https://github.com/yuno-gen)
 - [Utkarsh Shrivastava](https://github.com/UTKARSHSHRIVASTAVA007)
