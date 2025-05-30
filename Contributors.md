@@ -80,6 +80,7 @@
 - Shawn
 - Twisted Frank
 - Comfort Jones
+- Mohamed Ashiq
 - [Brandsrx](https://github.com/brandsrx)
 - [SIDDHARTH K P] (https://github.com/Symbian-Bro)
 - [Blair](https://github.com/BlairyDev)
