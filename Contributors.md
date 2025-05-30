@@ -2713,6 +2713,7 @@ Darien Edwards
 - [anthonyb8](https://github.com/anthonyb8)
 - 侯文卓[https://github.com/wenzhuo4657]
 - [Sheraz Malik](https://github.com/sheraz-El)
+- [Andrew Yule](https://github.com/andrewy656)
 - [Steins-Trait](https://github.com/steins-trait)
 - [xiaoyuchenhot] (https://github.com/xiaoyuchenhot)
 - [Ersin Dalga](https://github.com/ersindalga)
