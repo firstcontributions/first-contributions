@@ -2960,6 +2960,7 @@ Darien Edwards
 -[Hasindu Koshitha](https://github.com/hasindu-k)
 -[Dustin Wleczyk](https://github.com/Dustin-Wleczyk)
 -[Rowby Villanueva](https://github.com/rowby7)
+- [Cynthia Takiishi](https://github.com/ctakiishi)
 - [Shrewd Van](https://github.com/ShrewdVan)
 - [PMZ2025](https://github.com/pmz2025)
 - [Ramel Gulane](https://github.com/Ramelzkie96)
