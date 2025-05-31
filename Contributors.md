@@ -1989,6 +1989,7 @@ Darien Edwards
 - [Keshav Kant](https://github.com/Keshav-Kant/)
 - [Cristian Leiton Valencia](https://github.com/crileiton/)
 - [emrlk](https://github.com/emrlk)
+- [Bonga M](https://github.com/BongaManzini)
 - [Yiitalp] (https://github.com/Yiitalpp)
 - [Chuffed](https://github.com/Chuffed-Code)
 - [PangWithaPang](https://github.com/PangWithaPang)
