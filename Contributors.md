@@ -41,6 +41,7 @@
 - [RifkiFrdsS](https://github.com/RifkiFrds/)
 - [oCHANKU0](https://github.com/oCHANKUo)
 - [Deepshikha](https://github.com/Yddeepshikha)
+- [Ananya](https://github.com/itsmeananyasrivastava)
 - [Hrishikesh H](https://github.com/hrishihrishi/first-contributions)
 - [Siddharth](https://github.com/siddharth2835)
 - [SethMSC](https://github.com/SethMSC)
@@ -139,6 +140,7 @@
 - [Delete-Me](https://github.com/delete-me)
 - [Mate Mrse](https://github.com/senf-f)
 -  [Kayo rodrigues]
+- [Ananya](https://github.com/ItsMeAnanyaSrivastava)
 - [Saksham](https://github.com/Saksham67)
 - [Rayid](https://github.com/rayidali)
 - [Raja Mohammed](https://gitbuh.com/RajamdGamer)
@@ -790,6 +792,7 @@ Matthew Burgos
 - [Mateo](https://github.com/mateopozor02)
 - [caliarch](https://github.com/caliarch)
 - [Leo van der Ploeg](https://github.com/User32sys)
+- [Ananya](https://github.com/ItsMeAnanyaSrivastava)
 - [Sandeep](https://github.com/sandeepxi)
 - [Arnav Agarwal](https://github.com/arnav-343-agarwal)
 [Patrick Yeboah Bonsu](https://github.com/Patrick-Bonsu)
