@@ -128,8 +128,7 @@ git push -u origin your-branch-name
  নহলে আপুনি কেতিয়াও লগইনৰ বাবে নিৰ্দিষ্ট নাম আৰু পাছৱৰ্ড দিয়া হব আৰু লগইন ত্ৰুটি হব।
 </details>
 
-## আপোনাৰ পৰিবৰ্তনসমূহ পৰ্যালোচনাৰ বাবে জমা দিয়ক
-যদি আপুনি GitHub ত আপোনাৰ ৰেপ'জিট'ৰিটোত যায়, আপুনি `Compare & pull request` বুটামটো দেখিব। এই বুটামটোত ক্লিক কৰক।
+## আপোনাৰ পৰিবৰ্তনসমূহ পৰ্যালোচনাৰ বাবে জমা দিয়যদি আপুনি GitHub ত আপোনাৰ ৰেপ'জিট'ৰিটোত যায়, আপুনি `Compare & pull request` বুটামটো দেখিব। এই বুটামটোত ক্লিক কৰক।
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
@@ -144,12 +143,9 @@ Pull Request জমা দিয়ক
 
 আপোনাৰ অৱদান উদযাপন কৰক আৰু আপোনাৰ বন্ধু আৰু অনুসাৰকসকলৰ সৈতে ইয়াক শেয়াৰ কৰক [web app](https://firstcontributions.github.io/#social-share).
 
-আপুনি আমাৰ Slack দলত যোগদান কৰিব পাৰে যদি আপোনাৰ সহায়ৰ প্ৰয়োজন হয় বা কোনো প্ৰশ্ন থাকে। [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-2vqegkew0-ZuzGM1LO33C6Ts4nZyat1Q).
+আপুনি অধিক অনুশীলনৰ বাবে [ক’ড অৱদান](../../additional-material/git_workflow_scenarios/additional-material.md) চাব পাৰে।
 
 এতিয়া আপোনাক আন প্ৰকল্পত অৱদান কৰিবলৈ আৰম্ভ কৰা যাক। আমি সহজ সমস্যাসমূহ সহ কিছু প্ৰকল্পৰ তালিকা সংকলন কৰিছো যাৰ সহায়ত আপুনি আৰম্ভ কৰিব পাৰে। [ৱেব এপত প্ৰকল্পসমূহৰ তালিকা পৰীক্ষা কৰক](https://firstcontributions.github.io/#project-list).
-
-### [অতিৰিক্ত সামগ্ৰী](additional-material/git_workflow_scenarios/additional-material.md)
-
 ## অন্য সঁজুলিসমূহ ব্যৱহাৰ কৰি টিউট'ৰিয়েলসকল
 
 | <a href="gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
