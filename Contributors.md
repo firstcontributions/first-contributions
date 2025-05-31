@@ -692,6 +692,7 @@ e-Jo
 - [Nogunix](https://github.com/nogunix)
 - [Aldo Rodriguez](https://github.com/aldorodz)
 - [Josh Greenberg](https://github.com/savoi)
+- [Tiago Marques](https://github.com/fkdraeb)
 - [Dawxay](https://github.com/Dawxay)
 - [Simon Chernyk](https://github.com/siimons)
 - [Jeferson Schmitz](https://github.com/jefersonschmitz)
