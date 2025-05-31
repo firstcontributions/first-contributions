@@ -1,5 +1,4 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -122,7 +121,7 @@ git push origin -u <your-new-branch-name>
 
 আপনার অবদানের আনন্দ উপভোগ করুন এবং [ওয়েব অ্যাপ](https://firstcontributions.github.io/#social-share)-এর মাধ্যমে বন্ধু ও অনুসরণকারীদের সাথে শেয়ার করুন।
 
-কোনো সহায়তার প্রয়োজন হলে বা আপনার কোনো প্রশ্ন থাকলে আপনি আমাদের স্ল্যাক টিমে যুক্ত হতে পারেন। [স্ল্যাক টিমে যোগ দিন](https://firstcontributions.herokuapp.com)
+যদি আপনি আরও অনুশীলন করতে চান, তাহলে [কোড অবদানগুলি](https://https://github.com/roshanjossey/code-contributions) চেকআউট করুন।
 
 এখন আপনি অন্যান্য প্রজেক্টগুলোতেও অবদান রাখতে পারেন। আপনার সুবিধার্থে আমরা সহজ সমস্যা সম্বলিত প্রজেক্টগুলোর একটি তালিকা তৈরি করেছি। ওয়েব অ্যাপে [প্রজেক্টগুলোর তালিকা](https://firstcontributions.github.io/#project-list) দেখুন।
 
