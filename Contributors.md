@@ -1320,6 +1320,7 @@ Matthew Burgos
 - [Anay](https://github.com/Anay-Patil)
 - [Aadi Jain](https://github.com/Aadi1903)
 - [Argha Saha](https://github.com/arg387)
+- [devtechsector](https://github.com/devtechsector)
 - [Gabriel Macedo](https://github.com/gabrielssmacedo)
 - [Jason](https://github.com/JayKayDevOps)
 - [Gopal](https://github.com/gopallchoudhary)
