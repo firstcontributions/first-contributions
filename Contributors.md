@@ -648,7 +648,6 @@ e-Jo
 - [Raj Gajjar](https://github.com/RajGajjar-01)
 - [Paridhi Agarwal](https://github.com/paridhi3)
 - [Abhinav Devarakonda](https://github.com/abhinavdevarakonda)
-- [iammnandu](https://github.com/iammnandu)
 - [Avineet Kaur](https://github.com/AvineetKaur)
 - [Monami Ghosh](https://github.com/MonamiGhosh2003/github_2003.git)
 - [Baljit Panda](https://www.gihub.com/baljit-webcoder)
