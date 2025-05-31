@@ -2823,6 +2823,7 @@ Darien Edwards
 - [Piyachetnoy](https://github.com/Piyachetnoy)
 - [Ashutosh Thakur](https://github.com/Ashutosh1999112)
 - [Antoniorodr](https://github.com/antoniorodr)
+- [Harman Singh](https://github.com/HarmanSinghX)
 - [Lohith Reddy](https://github.com/Lohith-11)
 - [Saqiba ](https://github.com/saqiba123)
 - [Newerton] (https://github.com/newerton)
