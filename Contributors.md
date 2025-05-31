@@ -3042,6 +3042,7 @@ Darien Edwards
 - [Hamna Liaquat](https://github.com/humnaliaquat)
 - [Mahdi Javadi](https://github.com/m-djawadi)
 - [Rohit Dhall](https://github.com/Rohitdhall987)
+- [Miyata Ryo](https://github.com/miyata09x0084)
 - NaNaJyu3
 - [Jonas newbeans](https://github.com/nevvbeans)
 - GhXsTReZy
