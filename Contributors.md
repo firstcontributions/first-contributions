@@ -680,6 +680,7 @@ e-Jo
 - [Horticultural Hedgemon](https://github.com/horticulturalhedgemon)
 - [Hemant Konduri](https://github.com/HemantKonduri)
 - [Jazmine Chargualaf](https://github.com/CodeWithJazmine)
+- [Felipe Zanatta CoutoZ](https://github.com/FelipeZanatta09)
 - [Jefin Joji](https://github.com/JefinCodes)
 - [Marcela Obeso](https://github.com/marcelaobeso)
 - [Gabriel Lima](https://github.com/gabriel-lima258)
