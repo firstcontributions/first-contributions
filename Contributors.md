@@ -64,8 +64,6 @@
 - [Jaydeep Pokhariya](https://github.com/jaydeep869)
 - [Andy M. Celi](https://github.com/andy-mc)
 - [Daniyal Mohammed](https://github.com/dan2017558)
-- [Vannyou TANG 🇰🇭](https://github.com/TVYDev)
-- [shubham](https://github.com/sidharthkshubham)
 - [Rohan Bhalerao](https://github.com/Rohanbhalerao875)
 - [Vannyou TANG 🇰🇭](https://github.com/TVYDev)
 - [shubham](https://github.com/sidharthkshubham)
