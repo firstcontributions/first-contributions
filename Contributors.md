@@ -825,6 +825,7 @@ Matthew Burgos
 - [Vidit](https://github.com/VIDIT-13)
 - [ethical-buddy](https://github.com/ethical-buddy)
 -[mohanpavanchandu](https://github.com/mohanpavanchandu)
+ - [Amit Chaudhary](https://github.com/amitchaudhary9648)
 
 - [Dev_Lucas05](https://github.com/DevLucas05)
 - [GerardMastra](https://github.com/GerardMastra)
