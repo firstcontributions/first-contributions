@@ -245,6 +245,7 @@ y- [Eunbin Kwon](https://github.com/eun61n00)
 - [J-Ezra](https://github.com/j-ezra)
  -[KhanBuilds](https://github.com/KhanBuilds) I WAS HERE.
 - [Chirag Sehgal](https://github.com/chirAAG-sehgal) Just trying it out
+- [Elaine Ibanez](https://github.com/elaineibanez)
   [ReNothingg](https://github.com/ReNothingg)
  - [Rahul Sharma](https://github.com/DeF4lt-Cap10N)
  - [sfreagin](https://github.com/sfreagin)
@@ -3306,6 +3307,7 @@ Darien Edwards
 - [Shijie Gan](https://github.com/sgan0420)
 - [Juan Araujo](https://github.com/jufearcas)
 - [Paulina Vz](https://github.com/Pvzf) 
+- [add-elaineibanez](https://github.com/elaineibanez)
 - [Joshua Uduehi](https://github.com/jUdu97) 
 - [Enoch Owoade](https://github.com/Enochteo)
 - [Sergio Ambrosio](https://github.com/sambrosiomartin)
