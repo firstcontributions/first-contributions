@@ -3422,3 +3422,4 @@ Darien Edwards
 -[Dmytro Horbachenko](https://github.com/shapkoff)
 -[Filip Brataon](https://github.com/filip-brataon)
 -[Karan Vasudevamurthy](https://github.com/karanlvm)
+-[jsinghakan](https://https://github.com/jsinghakan)
