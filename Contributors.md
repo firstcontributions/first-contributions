@@ -487,6 +487,7 @@
  -[Nikita kumari](https://github.com/Nikita0047)
  -[Eliezer Bolding](https://github.com/chelito103)
  -[Vikram Naidu](https://github.com/Vikramnaidu16)
+ -[Amir Dorri](https://github.com/amirdorri)
  -[Aman Sirohi](https://github.com/ErAgOn-AmAnSiRoHi)
  -[Isaiah Richards](https://github.com/iprichards)
  -[Alexandros Moraitis](https://github.com/AlexandrosMo)
