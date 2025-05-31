@@ -3171,6 +3171,7 @@ Darien Edwards
 - [Sai Teja](https://github.com/klu2300090005)
 - [KimSongmok](https://github.com/kimsongmok)
 - [Mirmovsum Abasov](https://github.com/mirmovsum-abasov)
+- [Farrel Oktavian Lietara](https://github.com/FarrelOktavianLietara)
 - April Kidd
 - Luis Borges
 - [the_robats](https://github.com/therobats1)
