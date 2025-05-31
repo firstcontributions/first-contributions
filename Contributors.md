@@ -76,6 +76,7 @@
 - [yamayamma](https://github.com/yamayamma)
 - [artem-sitd](https://github.com/artem-sitd)
 - [GhostOcelot](https://github.com/GhostOcelot)
+- [Sanghee Son](https://github.com/higangssh)
 - [carrie](https://github.com/MyatNoeKyin)
 - [Daniel Garcia}(https://github.com/Daniel-W-Garcia)
 - Amruta
