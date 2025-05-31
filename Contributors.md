@@ -3199,6 +3199,10 @@ Darien Edwards
 - [Iswarya I](https://github.com/IswaryaIyapalam)
 [Nish2005karsh](https://github.com/Nish2005karsh)
 -[Miguel Feria](https://github.com/inkmiguel)
+- [Lexy Samuel] (https://github.com/lagxy)
+- [Juan Verron Anggani] (https://github.com/JuanVerron)
+- [Muhammad Yaasiin Ramadhan] (https://github.com/yasinramadan)
+- [Taufan Satria Nirwikara] (https://github.com/fan2812)
 -[Fausto Rodriguez](https://github.com/FaustoRo)
 - Derrick Wijaya
 -[Muhammad Zidan Fatonie](https://github.com/mzf11125)
