@@ -1,5 +1,5 @@
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1n4y7xnk0-DnLVTaN6U9xLU79H5Hi62w)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -122,7 +122,7 @@ git push -u origin your-branch-name
 
 Նշեք ձեր ներդրումը և կիսվեք այն ձեր ընկերների և հետևորդների հետ՝ գնալով [վեբ հավելված](https://firstcontributions.github.io/#social-share).
 
-Դուք կարող եք միանալ մեր Slack թիմին, եթե օգնության կարիք ունեք կամ հարցեր ունեք. [Միացե՛ք Slack թիմին](https://join.slack.com/t/firstcontributors/shared_invite/zt-1n4y7xnk0-DnLVTaN6U9xLU79H5Hi62w).
+Եթե ցանկանում եք ավելի շատ փորձել, ստուգեք [կոդի ներդրումները](https://github.com/roshanjossey/code-contributions).
 
 Հիմա եկեք սկսենք ձեր ներդրումն ունենալ այլ նախագծերում: Մենք կազմել ենք հեշտ խնդիրներ ունեցող նախագծերի ցանկ, որոնցից կարող եք սկսել: Ստուգեք [վեբ հավելվածի նախագծերի ցանկը](https://firstcontributions.github.io/#project-list).
 

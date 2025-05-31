@@ -1,5 +1,4 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -110,7 +109,7 @@ git push origin <add-your-branch-name>
 
 Отпразнувайте вашия принос и го споделете с приятели и последователи като посетите [уеб приложението](https://firstcontributions.github.io/#social-share).
 
-Можете да се присъедините към нашия slack team в случай, че имате допълнителни въпроси или нужда от помощ [Присъединете се към slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
+Ако бихте искали повече практика, разгледайте [код приноси](https://github.com/roshanjossey/code-contributions).
 
 Време да започнете да допринасяте и към други приекти. Ние сме съставили списък с проекти съдържащи лесни проблеми, които са лесни за начало. Проверете  [списъка от приекти в уеб приложението](https://firstcontributions.github.io/#project-list).
 
