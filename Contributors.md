@@ -1,5 +1,5 @@
 # Contributors
-
+- [Rahul Vuppula] (https://github.com/rahul-vuppula) 
 - [Raghav Khatri](https://github.com/raghavkhatri413)
 - [Ricky Lam](https://github.com/RickyLam11)
 - [Charan Vengala](https://github.com/1012Charan)
