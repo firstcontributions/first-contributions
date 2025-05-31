@@ -4,6 +4,7 @@
 - [Charan Vengala](https://github.com/1012Charan)
 - [Stylianos Vogiatzis](https://github.com/VforVog)
 - [Atkin](https://github.com/atkin0)
+- [Daniel Feldman](https://github.com/DanielFeldman1)
 - [Jimmy Navarro](https://github.com/Navarriux)
 - [vansh nagar](https://github.com/vansh-nagar)
 - [Ahmed Nosir](https://github.com/egycondor)
