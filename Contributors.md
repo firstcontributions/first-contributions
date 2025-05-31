@@ -3496,3 +3496,4 @@ Darien Edwards
 -[jsinghakan](https://https://github.com/jsinghakan)
 -[gidhub48](https://github.com/gidhub48)
 -[shubham](https://github.com/RoyShubham07)
+- [nutipa0](https://github.com/nutipa0)  (I like Big Chonk btw :>)
