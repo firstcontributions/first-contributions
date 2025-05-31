@@ -23,6 +23,7 @@
 - [Bani](https://github.com/babanini95)
 - [Ancil](https://github.com/iamancil)
 - [Robyn](https://github.com/RBodde)
+- [Erick Hermida] (https://github.com/erickhermida)
 - [calledarian] (https://github.com/calledarian)
 - [Suhail](https://github.com/suhailchoudhary)
 - [hammerov](https://github.com/Hammerov)
