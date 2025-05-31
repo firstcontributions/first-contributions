@@ -5,6 +5,7 @@
 - [Stylianos Vogiatzis](https://github.com/VforVog)
 - [Atkin](https://github.com/atkin0)
 - [Daniel Feldman](https://github.com/DanielFeldman1)
+- [Abdullah Adel](https://github.com/Abdullah-adel)
 - [Jimmy Navarro](https://github.com/Navarriux)
 - [vansh nagar](https://github.com/vansh-nagar)
 - [Pawan Kumar](https://github.com/pawan2088)
