@@ -3149,6 +3149,7 @@ Darien Edwards
 - [Junda Yin](https://github.com/Deiahri)
 - [Mert Temiz](https://github.com/merttemiz)
 - [Michael Gan](https://github.com/WenxiGan)
+- [NarutoPotter](https://github.com/NarutoPotter19)
 - [Yingying Ye](https://github.com/yiiingye)
 - [Eray Öztürk](https://github.com/diffstorm)
 - [JonnyJalapeno](https://github.com/JonnyJalapeno)
