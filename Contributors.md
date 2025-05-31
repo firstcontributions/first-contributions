@@ -635,11 +635,6 @@ Matthew Burgos
 - [Nayan](https://github.com/NayanUnni95)
 - [Arpit Dubey](https://github.com/Arpit1033)
 - [Nahom](https://github.com/NahomWondimu)
-
-
-- [Rafael Scorfi Gatto](https://github.com/rscorfi)
-
-=======
 - [RunByKim](https://github.com/runbykim)
 
 - [Sakshi Jaiswal](https://github.com/Sakshijazz)
