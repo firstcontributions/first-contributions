@@ -2934,6 +2934,7 @@ Darien Edwards
 - [Basharat](https://github.com/Basharat-cmd)
 - [T Schneider](https://github.com/t-schneids)
 - [maheshbhatiya](https://github.com/maheshbhatiya73)
+- [ArmaandipSinghMaan](https://github.com/Armaan-Dip-Singh-Maan)
 - [firatdem](https://github.com/firatdem)
 - [Tim Wolter](https://github.com/timwolter-dev)
 - [Rodrigo Farinango](https://github.com/rofarinango)
