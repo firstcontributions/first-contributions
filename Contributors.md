@@ -1,6 +1,7 @@
 # Contributors
 
 - [Raghav Khatri](https://github.com/raghavkhatri413)
+- [Ricky Lam](https://github.com/RickyLam11)
 - [Charan Vengala](https://github.com/1012Charan)
 - [Stylianos Vogiatzis](https://github.com/VforVog)
 - [Atkin](https://github.com/atkin0)
