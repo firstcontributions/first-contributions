@@ -51,7 +51,7 @@
 - [Abizer Masavi](https://github.com/abizer007)
 -[Sanjay Ramsinghani](https://github.com/sanjay78632)
 - [Sdevso](https://github.com/Sdevso)
-- [Eunbin Kwon](https://github.com/eun61n00)
+y- [Eunbin Kwon](https://github.com/eun61n00)
 - [Daniel Li](https://github.com/dan-li-dev)
 - [Prasanna Saladi](https://github.com/prasanna2108saladi)
 - [Cosmictrigger01](https://github.com/Cosmictrigger01)
@@ -1278,6 +1278,7 @@ Matthew Burgos
 - [Samarth Bedare](https://github.com/samarthbedare)
 - Rob Readling
 
+- [Rajinisoumya](https://github.com/Rajinisoumya)
 - [Abhinav Singh](https://github.com/Abhinav-kodes)
 - [Janardhan Polle](https://github.com/Jpisnice)
 - [John Wilkinson](https://github.com/dnCRevelation)
