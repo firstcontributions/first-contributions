@@ -114,6 +114,31 @@ git push origin "add-your-name"
 
 <div dir="rtl">إستبدل <code>&#60;add-your-name&#62;</code> بإسم الفرع اللي انت لسة عامله .</div>
 
+<details dir="rtl">
+<summary> <strong>لو عندك مشكلة وانت بتعمل <bdi>push</bdi> غالبا هتكون <bdi>Authentication error</bdi></strong> </summary>
+
+- ### Authentication Error
+     <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+  remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+  fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
+	أسهل طريقة لحل المشكلة انك تعمل <bdi>ssh key</bdi> وتحطه علي <bdi>GitHub</bdi>
+	[GitHub's Tutorial - Create an ssh key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+   [GitHub's tutorial - adding ssh key to your account](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) 
+    بكده هتكون <bdi>authenticated</bdi> و مش هيكون عندك مشكلة لما تعمل <bdi>push</bdi> 
+
+    تقدر تتاكد انك بترفع علي الريبو الصح لما تكتب في ال 
+	```bash
+	git remote -v
+	```
+    لو ظهرلك كده:
+  <pre>origin	https://github.com/your-username/your_repo.git (fetch)
+  origin	https://github.com/your-username/your_repo.git (push)</pre>
+    يبقي معندكش مشكلة
+	غير كده تقدر تغير ال <bdi>remote address</bdi> كده
+  ```bash
+  git remote set-url origin git@github.com:your-username/your_repo.git
+  ```
+</details>
 
 <br>
 <h2 id="سلم-تغيراتك-للمراجعة"><a name="سلم-تغيراتك-للمراجعة" href="#سلم-تغيراتك-للمراجعة"></a><div dir="rtl">سلم تغيراتك للمراجعة</div></h2>
@@ -138,7 +163,8 @@ git push origin "add-your-name"
  احتفل بأول مساهمة ليك، أعمل شير مع صحابك ومتابعينك عن طريق زيارة <a href="https://firstcontributions.github.io/#social-share">الموقع دة. </a>
 </div>
 
-<div dir="rtl">ممكن تنضم للفريق على Slack لو حابب تساعد او عندك أسئلة. ></div>
+<div dir="rtl">إذا كنت ترغب في المزيد من التدريب <a href="https://github.com/roshanjossey/code-contributions">مساهمات </a></div>
+
 
 <br>
 
