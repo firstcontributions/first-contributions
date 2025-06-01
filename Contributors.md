@@ -1,6 +1,7 @@
 # Contributors
 
 - [Raghav Khatri](https://github.com/raghavkhatri413)
+- [Solus](https://github.com/Soul2x)>-<REMEMBER ME!!, Remember that i lived...
 - [Ricky Lam](https://github.com/RickyLam11)
 - [Charan Vengala](https://github.com/1012Charan)
 - [Stylianos Vogiatzis](https://github.com/VforVog)
@@ -3501,4 +3502,4 @@ Darien Edwards
 -[gidhub48](https://github.com/gidhub48)
 -[shubham](https://github.com/RoyShubham07)
 - [nutipa0](https://github.com/nutipa0)  (I like Big Chonk btw :>
--[Wency](https://github.com/WencySuo)
+-[Wency](https://github.com/WencySuo) 
