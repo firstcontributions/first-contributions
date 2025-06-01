@@ -2703,6 +2703,7 @@ Darien Edwards
 - [chambora](https://github.com/chambora1312)
 - [Yuvraj Singh Wahla](https://github.com/yuvraj-singh08)
 - [Adrià Escandell](https://github.com/AdriiE17)
+- [02RdDT]
 - [Roberto Cárdenas](https://github.com/BrokenRoto)
 - [Siddhesh Parate](https://github.com/Siddhesh877)
 - [Landon Peery](https://github.com/NotTheNull)
