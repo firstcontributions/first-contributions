@@ -144,7 +144,7 @@ Pull Request জমা দিয়ক
 
 আপোনাৰ অৱদান উদযাপন কৰক আৰু আপোনাৰ বন্ধু আৰু অনুসাৰকসকলৰ সৈতে ইয়াক শেয়াৰ কৰক [web app](https://firstcontributions.github.io/#social-share).
 
-যদি আপুনি অধিক অনুশীলন কৰিব বিচাৰে, [code contributions](https://github.com/firstcontributions/first-contributions/blob/main/code-contributions.md) পৰীক্ষা কৰক।
+যদি আপুনি অধিক অনুশীলন কৰিব বিচাৰে, [code contributions](https://github.com/roshanjossey/code-contributions) পৰীক্ষা কৰক।
 
 এতিয়া আপোনাক আন প্ৰকল্পত অৱদান কৰিবলৈ আৰম্ভ কৰা যাক। আমি সহজ সমস্যাসমূহ সহ কিছু প্ৰকল্পৰ তালিকা সংকলন কৰিছো যাৰ সহায়ত আপুনি আৰম্ভ কৰিব পাৰে। [ৱেব এপত প্ৰকল্পসমূহৰ তালিকা পৰীক্ষা কৰক](https://firstcontributions.github.io/#project-list).
 
