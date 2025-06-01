@@ -3509,6 +3509,7 @@ Darien Edwards
 - [Madhu Smita] (https://github.com/MSmita74)
 -[A-r-tamta](https://github.com/Artamta)
 - [Hetvin-P](https://github.com/Hetvin-p)
+- [Pranjal Chalak](https://github.com/pranjal2501)
 -[Dracarys_pierce](https://github.com/dracaryspierce)
 - [Hirak-abc](https://github.com/Hirak-abc)
 - [Chelsea Hu](https://github.com/jingzhuochelseahu)
@@ -3530,6 +3531,7 @@ Darien Edwards
 -[Stanislav Polyakov](https://github.com/j3n1xnoname)
 -[saswata pattanaik] (https://github.com/Saswata-Pattanaik)
 - [Yamuna](https://github.com/Yamuna-b)
+- [Szabi] (https://github.com/SzabiGeo)
 -[Ashok Kaji] (https://github.com/ashokkaji26)
 - [Shubham Mohole](https://github.com/Ishubhammohole)
 - [Song Hyun-gi](https://github.com/SHGKOIHE) ^_^
