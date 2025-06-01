@@ -12,6 +12,7 @@
 - [Semi Venturero](https://github.com/venturero)
 - [Mariia Shmidt] (https://github.com/markshmidt)
 - [Atkin](https://github.com/atkin0)
+- [Peter Schenk](https://github.com/EinSatzMitX)
 - [Daniel Feldman](https://github.com/DanielFeldman1)
 - [Abdullah Adel](https://github.com/Abdullah-adel)
 - [Joseph Ngatia](https://github.com/Joe-Ngatia)
