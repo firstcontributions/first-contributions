@@ -2,6 +2,7 @@
 
 - [Raghav Khatri](https://github.com/raghavkhatri413)
 -[Kashmala Ahmad](https://github.com/kashmalaahmad)
+-[Tharun Prasad K](https://github.com/tharun10x)
 - [Solus](https://github.com/Soul2x)>-<REMEMBER ME!!, Remember that i lived...
 - [Ricky Lam](https://github.com/RickyLam11)
 - [Charan Vengala](https://github.com/1012Charan)
