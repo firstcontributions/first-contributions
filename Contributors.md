@@ -785,6 +785,7 @@ Matthew Burgos
 - [Ashish Singh](https://github.com/ashish-sng)
 - [Obioma Eke] (https://github.com/obivio)
 - [Tomohiko Sashimura](https://github.com/heysappy)
+- [Khang Le Duy](https://github.com/blueonline07)
 - [David] (https://github.com/Bytor0)
 - [kamesh63] (https://github.com/kamesh63)
 - [David Aldan] (https://github.com/davidaldan)
