@@ -3512,3 +3512,4 @@ Darien Edwards
 - [nutipa0](https://github.com/nutipa0)  (I like Big Chonk btw :>
 -[Wency](https://github.com/WencySuo) 
 - [Manisha Godara](https://github.com/ManishaGodara-gif)
+-[Stanislav Polyakov](https://github.com/j3n1xnoname)
