@@ -2,6 +2,7 @@
 
 - [Raghav Khatri](https://github.com/raghavkhatri413)
 -[Kashmala Ahmad](https://github.com/kashmalaahmad)
+- [Benita Magdalene Kingsley Prince](https://github.com/BenitaMags)
 -[Tharun Prasad K](https://github.com/tharun10x)
 - [Solus](https://github.com/Soul2x)>-<REMEMBER ME!!, Remember that i lived...
 - [Gias uddin vuiya](https://github.com/Gias-uddin-vuiya)
