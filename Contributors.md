@@ -34,6 +34,7 @@
 - [Bani](https://github.com/babanini95)
 - [Ancil](https://github.com/iamancil)
 - [Robyn](https://github.com/RBodde)
+- [Snowsita](https://github.com/Snowsita)
 - [Ganesh Rathnam](https://github.com/lsganeshrathnam)
 - [calledarian](https://github.com/calledarian)
 - [Suhail](https://github.com/suhailchoudhary)
