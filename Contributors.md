@@ -83,6 +83,7 @@ y- [Eunbin Kwon](https://github.com/eun61n00)
 - [artem-sitd](https://github.com/artem-sitd)
 - [GhostOcelot](https://github.com/GhostOcelot)
 - [Sanghee Son](https://github.com/higangssh)
+- [Charlie Uland](https://github.com/charlesuland)
 - [carrie](https://github.com/MyatNoeKyin)
 - [Daniel Garcia}(https://github.com/Daniel-W-Garcia)
 - Amruta
