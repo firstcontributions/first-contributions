@@ -1,6 +1,7 @@
 # Contributors
 
 - [Raghav Khatri](https://github.com/raghavkhatri413)
+- [Sweta Jaiswal](https://github.com/SwetaJaiswal9)
 -[Kashmala Ahmad](https://github.com/kashmalaahmad)
 -[Tharun Prasad K](https://github.com/tharun10x)
 - [Solus](https://github.com/Soul2x)>-<REMEMBER ME!!, Remember that i lived...
