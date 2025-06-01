@@ -6,6 +6,7 @@
 - [Ricky Lam](https://github.com/RickyLam11)
 - [Charan Vengala](https://github.com/1012Charan)
 - [Stylianos Vogiatzis](https://github.com/VforVog)
+- [Semi Venturero](https://github.com/venturero)
 - [Mariia Shmidt] (https://github.com/markshmidt)
 - [Atkin](https://github.com/atkin0)
 - [Daniel Feldman](https://github.com/DanielFeldman1)
