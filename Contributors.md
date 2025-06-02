@@ -131,6 +131,7 @@ y- [Eunbin Kwon](https://github.com/eun61n00)
 - [Anu]
 - [Miguel Sanchez]
 - [puralpha](https://github.com/puralpha)
+- [hrushitha]
 - [Sumit Nayak](https://github.com/NotaScripptkiddie)
 - [Vimal Ganesh M](https://github.com/M-Vimal)
 - [Ali-dev11](https://github.com/Ali-dev11)
