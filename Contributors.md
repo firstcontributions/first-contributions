@@ -10,6 +10,7 @@
 - [Gias uddin vuiya](https://github.com/Gias-uddin-vuiya)
 - [Bhavya khandelwal](https://github.com/terminal2299)
 - [Ricky Lam](https://github.com/RickyLam11)
+- [Lucas Lopes](http://github.com/olucaslopes)
 - [Joan Stefano Capparelli](https://github.com/ltdab/)
 - [Charan Vengala](https://github.com/1012Charan)
 - [Stylianos Vogiatzis](https://github.com/VforVog)
