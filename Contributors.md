@@ -1,11 +1,12 @@
 # Contributors
 
+- Hi, I’m [Vineet Yadav](https://github.com/Vineet3458) Nice to meet you!
 - [Raghav Khatri](https://github.com/raghavkhatri413)
 - [Sweta Jaiswal](https://github.com/SwetaJaiswal9)
--[Kashmala Ahmad](https://github.com/kashmalaahmad)
+- [Kashmala Ahmad](https://github.com/kashmalaahmad)
 - [Benita Magdalene Kingsley Prince](https://github.com/BenitaMags)
--[Sujal Maharjan](https://github.com/SUJAL390)
--[Tharun Prasad K](https://github.com/tharun10x)
+- [Sujal Maharjan](https://github.com/SUJAL390)
+- [Tharun Prasad K](https://github.com/tharun10x)
 - [Solus](https://github.com/Soul2x)>-<REMEMBER ME!!, Remember that i lived...
 - [Gias uddin vuiya](https://github.com/Gias-uddin-vuiya)
 - [Bhavya khandelwal](https://github.com/terminal2299)
