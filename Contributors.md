@@ -8,6 +8,7 @@
 -[Tharun Prasad K](https://github.com/tharun10x)
 - [Solus](https://github.com/Soul2x)>-<REMEMBER ME!!, Remember that i lived...
 - [Gias uddin vuiya](https://github.com/Gias-uddin-vuiya)
+- [Bhavya khandelwal](https://github.com/terminal2299)
 - [Ricky Lam](https://github.com/RickyLam11)
 - [Joan Stefano Capparelli](https://github.com/ltdab/)
 - [Charan Vengala](https://github.com/1012Charan)
@@ -126,6 +127,7 @@ y- [Eunbin Kwon](https://github.com/eun61n00)
 - [Blair](https://github.com/BlairyDev)
 - [Yousef Shanawany](https://github.com/askyous)
 - [José Guilherme](https://github.com/dappter)
+- [Kaufman](https://github.com/bohdan167) 💾
 - [Anu]
 - [Miguel Sanchez]
 - [puralpha](https://github.com/puralpha)
