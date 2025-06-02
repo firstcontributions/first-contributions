@@ -126,6 +126,7 @@ y- [Eunbin Kwon](https://github.com/eun61n00)
 - [Blair](https://github.com/BlairyDev)
 - [Yousef Shanawany](https://github.com/askyous)
 - [José Guilherme](https://github.com/dappter)
+- [Kaufman](https://github.com/bohdan167) 💾
 - [Anu]
 - [Miguel Sanchez]
 - [puralpha](https://github.com/puralpha)
