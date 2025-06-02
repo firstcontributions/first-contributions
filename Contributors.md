@@ -2553,6 +2553,7 @@ Darien Edwards
 - [David Wenk](https://github.com/thedavidwenk)
 - [Loris Panza](https://github.com/LorisPanza)
 - [Alden Baughman](https://github.com/aldenbaughman)
+- [Ankit Makwana](https://github.com/anqeet)
 - [giandab](https://github.com/giandab)
 - [Žiga Berlič](https://github.com/zigaberlic)
 - [Suneel Reddy](https://github.com/suneelreddysannala)
