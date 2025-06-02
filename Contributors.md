@@ -2397,6 +2397,7 @@ Darien Edwards
 - [Edmond Neziraj](https://github.com/EdmondNeziraj)
 - [Kaivan Shah](https://github.com/Kaivanshah1)
 - [Felix Gomez @felixdavid12](https://github.com/felixdavid12)
+- [Siemen Lec](https://github.com/SiemenLec)
 - [doudouCodingInGithub](https://github.com/doudouCodingInGithub)
 - [kaustub03](https://github.com/kaustub03)
 - [Thamyres Christine](https://github.com/ThamyresChristine/)
@@ -3569,3 +3570,4 @@ Darien Edwards
 - [Aung Kyaw Wai Htun](https://github.com/akwhtun)
 - [Oubai Bendjedidi](https://github.com/oubaibendjedidi)
 - [Nandani Gupta](https://github.com/Nandani-Guptaa)
+
