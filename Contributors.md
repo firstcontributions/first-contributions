@@ -3545,3 +3545,4 @@ Darien Edwards
 - [Song Hyun-gi](https://github.com/SHGKOIHE) ^_^
 - [Biel Roca](https://github.com/bielrocafndz)
 - [Jay Patel](https://github.com/pateljay684)
+- [Ellen Dalecio](https://github.com/Dalecioellen)
