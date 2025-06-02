@@ -3553,3 +3553,4 @@ Darien Edwards
 - [Jay Patel](https://github.com/pateljay684)
 - [Ellen Dalecio](https://github.com/Dalecioellen)
 - [Midhun](https://github.com/MIDHUNMi4)
+- [KappaNone](https://github.com/KappaNone)
