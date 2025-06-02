@@ -9,6 +9,7 @@
 - [Solus](https://github.com/Soul2x)>-<REMEMBER ME!!, Remember that i lived...
 - [Gias uddin vuiya](https://github.com/Gias-uddin-vuiya)
 - [Ricky Lam](https://github.com/RickyLam11)
+- [Virat Kohli](https://github.com/arnavtumbde)
 - [Joan Stefano Capparelli](https://github.com/ltdab/)
 - [Charan Vengala](https://github.com/1012Charan)
 - [Stylianos Vogiatzis](https://github.com/VforVog)
