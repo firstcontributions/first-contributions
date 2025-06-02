@@ -13,6 +13,7 @@
 - [Joan Stefano Capparelli](https://github.com/ltdab/)
 - [Charan Vengala](https://github.com/1012Charan)
 - [Stylianos Vogiatzis](https://github.com/VforVog)
+-[cromano](https://github.com/cromano87)
 - [Semi Venturero](https://github.com/venturero)
 - [LittleFish-Coder](https://github.com/LittleFish-Coder)
 - [Ashish Jha](https://github.com/AshishJha30)
