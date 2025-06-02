@@ -62,6 +62,7 @@
 - [Ananya](https://github.com/itsmeananyasrivastava)
 - [Hrishikesh H](https://github.com/hrishihrishi/first-contributions)
 - [Siddharth](https://github.com/siddharth2835)
+- [arnavtumbde](https://github.com/arnavtumbde)
 - [SethMSC](https://github.com/SethMSC)
 - [Sarthak](https://github.com/SarthakMiglani)
 - [NidaSiddiquee](https://github.com/Nida-siddiquee)
