@@ -240,6 +240,7 @@
 - [Shijie Gan](https://github.com/ujjwalbajpai)
  -[Sahadev Pandey] (https://github.com/sahadev234)
  - [Sarah Biscuits](https://github.com/SarahBiscuit)
+ - [Erick Hermida] (https://github.com/erickhermida)
  - [Dev-kumar] (https://github.com/Devkumar-web)
  - [Siddarth] (https://github.com/Siddarth0454)
  - [Giovana Bezerra](https://github.com/giovanabezerra)
