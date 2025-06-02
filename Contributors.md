@@ -15,6 +15,7 @@
 - [Stylianos Vogiatzis](https://github.com/VforVog)
 - [Semi Venturero](https://github.com/venturero)
 - [LittleFish-Coder](https://github.com/LittleFish-Coder)
+- [Ashish Jha](https://github.com/AshishJha30)
 - [Mariia Shmidt] (https://github.com/markshmidt)
 - [Atkin](https://github.com/atkin0)
 - [Peter Schenk](https://github.com/EinSatzMitX)
