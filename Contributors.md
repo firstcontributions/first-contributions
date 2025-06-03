@@ -2610,6 +2610,7 @@ Darien Edwards
 - [Julian Taub](https://github.com/JulianTaub)
 - [Ben Hickton] (https://github.com/bhick33)
 - [franchsli](https://github.com/franchsli)
+- [Oded]
 - [Luca Bersezio](https://github.com/lucabersezio)
 - [Taine](https://github.com/taine-buchan)
 - [Jannik](https://github.com/JannikSteuk)
