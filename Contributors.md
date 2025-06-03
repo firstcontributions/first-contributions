@@ -1622,6 +1622,7 @@ Matthew Burgos
 - [Nidhin Sankar](https://github.com/nidhinsankar)
 - [demhak](https://github.com/dem-hak)
 - [Hari Krishan](https://github.com/Hari-krishna-tech)
+- [Erick Wilfred Daniel](https://github.com/ErickWDaniel)
 - [Keepas3](https://github.com/Keepas3)
 - [Pavani](https://github.com/pavani42)
 - [Arun G Jose](https://github.com/arungjose)
