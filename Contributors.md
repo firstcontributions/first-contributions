@@ -29,6 +29,7 @@
 - [Daniel Feldman](https://github.com/DanielFeldman1)
 - [Abdullah Adel](https://github.com/Abdullah-adel)
 - [Joseph Ngatia](https://github.com/Joe-Ngatia)
+- [Lina Kolte](https://github.com/Lina Kolte)
 - [CoffeePuma55644](https://github.com/CoffeePuma55644)
 - [Jimmy Navarro](https://github.com/Navarriux)
 - [vansh nagar](https://github.com/vansh-nagar)
