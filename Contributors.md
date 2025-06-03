@@ -6,6 +6,7 @@
 - [Raghav Khatri](https://github.com/raghavkhatri413)
 - [Anchal Gupta](https://github.com/anchalgupta27)
 - [Sweta Jaiswal](https://github.com/SwetaJaiswal9)
+- [Rodoshi Mondal](https://github.com/rodoshi16)
 -[Kashmala Ahmad](https://github.com/kashmalaahmad)
 - [Benita Magdalene Kingsley Prince](https://github.com/BenitaMags)
 -[Sujal Maharjan](https://github.com/SUJAL390)
