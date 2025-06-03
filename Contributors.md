@@ -2,6 +2,7 @@
 
 - [Xiaopeng Zhang](https://github.com/XiaoPeng0x3) **Love you guys!!!**
 - [Raghav Khatri](https://github.com/raghavkhatri413)
+- [Anchal Gupta](https://github.com/anchalgupta27)
 - [Sweta Jaiswal](https://github.com/SwetaJaiswal9)
 -[Kashmala Ahmad](https://github.com/kashmalaahmad)
 - [Benita Magdalene Kingsley Prince](https://github.com/BenitaMags)
