@@ -57,6 +57,7 @@
 - [Robyn](https://github.com/RBodde)
 - [Snowsita](https://github.com/Snowsita)
 - [VictorMontoya](https://github.com/alonvico)
+- [YashV](https://github.com/YaSh88991)
 - [Ganesh Rathnam](https://github.com/lsganeshrathnam)
 - [calledarian](https://github.com/calledarian)
 - [Suhail](https://github.com/suhailchoudhary)
