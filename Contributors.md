@@ -26,6 +26,7 @@
 - [Ashish Jha](https://github.com/AshishJha30)
 - [Mariia Shmidt] (https://github.com/markshmidt)
 - [Atkin](https://github.com/atkin0)
+- [Alex Taylor](https://github.com/Alex-Devonte)
 - [Peter Schenk](https://github.com/EinSatzMitX)
 - [Daniel Feldman](https://github.com/DanielFeldman1)
 - [Abdullah Adel](https://github.com/Abdullah-adel)
