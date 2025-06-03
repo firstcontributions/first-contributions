@@ -1,5 +1,5 @@
 # Contributors
-
+- [Ayush Singhal](https://github.com/ayush8201)
 - [Raghav Khatri](https://github.com/raghavkhatri413)
 - [Sweta Jaiswal](https://github.com/SwetaJaiswal9)
 -[Kashmala Ahmad](https://github.com/kashmalaahmad)
