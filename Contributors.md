@@ -17,6 +17,7 @@
 -[cromano](https://github.com/cromano87)
 - [Semi Venturero](https://github.com/venturero)
 - [LittleFish-Coder](https://github.com/LittleFish-Coder)
+- [Blaine Pavlock] (https://github.com/PavlockBlaine03)
 - [Ashish Jha](https://github.com/AshishJha30)
 - [Mariia Shmidt] (https://github.com/markshmidt)
 - [Atkin](https://github.com/atkin0)
