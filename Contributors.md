@@ -1714,6 +1714,7 @@ Matthew Burgos
 - [gregbetron] (https://github.com/gregbetron)
 - [addpd](https://github.com/addpd)
 - [Fabrice Pecot](https://github.com/FabriceAB1)
+- [Samuel Kiragu] (https://github.com/sskiragu)
 - [Cristina S](https://github.com/AhsokaTa)
 - [AbubakerKhilji](https://github.com/Abubaker-khilji)
 - [adwaitp](https://github.com/adwaitdagitguy)
