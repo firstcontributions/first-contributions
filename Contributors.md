@@ -3589,3 +3589,4 @@ Darien Edwards
 - [Yusuf Ahmad Jalil](https://github.com/YusufDW1)
 - [Ahlal Izzatul](https://github.com/alaliz4)
 - [Noflare](https://github.com/Noflare)
+- [Lorena Peracho](https://github.com/plorenab)
