@@ -3,6 +3,7 @@
 - [Heng_Xin](https://github.com/HengXin666) :)
 - [ReshmiAK](https://github.com/ReshmiAK)✌️
 - [Dharmendra Ahirwar](https://github.com/Kilvish25) Exciting! This is my first contribution. Lets connect on [LinkedIn](https://www.linkedin.com/in/kilvish25/) and collaborate.
+-[Faruk Selim Duman](https://github.com/FSDuman) **Memento Mori**
 - [Xiaopeng Zhang](https://github.com/XiaoPeng0x3) **Love you guys!!!**
 - [Raghav Khatri](https://github.com/raghavkhatri413)
 - [Anchal Gupta](https://github.com/anchalgupta27)
