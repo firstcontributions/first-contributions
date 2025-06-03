@@ -3579,3 +3579,4 @@ Darien Edwards
 - [Jazmynn Banks](https://github.com/jazmynnbanks)
 - [Yusuf Ahmad Jalil](https://github.com/YusufDW1)
 - [Ahlal Izzatul](https://github.com/alaliz4)
+- [Noflare](https://github.com/Noflare)
