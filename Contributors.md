@@ -34,6 +34,7 @@
 - [Lina Kolte](https://github.com/Lina Kolte)
 - [CoffeePuma55644](https://github.com/CoffeePuma55644)
 - [Jimmy Navarro](https://github.com/Navarriux)
+- [Nimish2098](https://github.com/Nimish2098)
 - [vansh nagar](https://github.com/vansh-nagar)
 - [Pawan Kumar](https://github.com/pawan2088)
 - [Ahmed Nosir](https://github.com/egycondor)
