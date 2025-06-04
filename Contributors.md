@@ -235,6 +235,7 @@ y- [Eunbin Kwon](https://github.com/eun61n00)
   [GalaxyM105] 
 - [Muhammed Nishad](https://github.com/mhdnishadc?tab=repositories)
 - [Xander]
+- [Alexander Cunningham Rojas](https://github.com/alexswcr)
 - [Guilherme Queiroz Guimaraes](https://github.com/GuilhQueiroz)
 - [Anton Tumurov](https://github.com/Anton-tumurov)
 - [Everton Gabriel do Santos](https://github.com/Evert0nSantos)
