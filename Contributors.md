@@ -3603,6 +3603,6 @@ Darien Edwards
 - [Anastazja Glowska](https://github.com/anastazja-glowska)
 - [Lorena Peracho](https://github.com/plorenab)
 [Yunus Aydogdu](https://github.com/aydogduyunus)
-[Keerthi V Nair](https://github.com/keerthivnair)
+- [Keerthi V Nair](https://github.com/keerthivnair)
 - [Alvi Shams] (https://github.com/alviShams)
 - [lzc](https://github.com/lzcooker)
