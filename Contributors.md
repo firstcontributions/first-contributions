@@ -60,6 +60,7 @@
 - [jay](https://github.com/jaykos) 
 - [Akanksha](https://github.com/Akanksha9821)
 - [SanjiVinsmoke](https://github.com/yaCent100)
+- [Rajesh Khandige](https://github.com/rajeshprabhuk)
 - [Ayan Upadhaya](https://github.com/AyanUpadhaya)
 - [AshtavinayakPande](https://github.com/yuno-gen)
 - [Utkarsh Shrivastava](https://github.com/UTKARSHSHRIVASTAVA007)
