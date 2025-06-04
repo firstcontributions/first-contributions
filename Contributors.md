@@ -85,6 +85,7 @@
 - [RifkiFrdsS](https://github.com/RifkiFrds/)
 - [oCHANKU0](https://github.com/oCHANKUo)
 - [Deepshikha](https://github.com/Yddeepshikha)
+- [Purushothaman](https://github.com/Purushoth-06)**Hello!! dev's**
 - [Ananya](https://github.com/itsmeananyasrivastava)
 - [Hrishikesh H](https://github.com/hrishihrishi/first-contributions)
 - [Siddharth](https://github.com/siddharth2835)
