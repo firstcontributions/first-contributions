@@ -25,6 +25,7 @@
 - [Stylianos Vogiatzis](https://github.com/VforVog)
 -[cromano](https://github.com/cromano87)
 - [Semi Venturero](https://github.com/venturero)
+- [Kollin Trujillo](https://github.com/KollinRT)
 - [Sarvesh](https://github.com/Sarvesh2006)
 - [Sarvesh](https://github.com/Sarvesh2006) GUESS WHO IS HERE...
 - [LittleFish-Coder](https://github.com/LittleFish-Coder)
@@ -84,6 +85,7 @@
 - [RifkiFrdsS](https://github.com/RifkiFrds/)
 - [oCHANKU0](https://github.com/oCHANKUo)
 - [Deepshikha](https://github.com/Yddeepshikha)
+- [Purushothaman](https://github.com/Purushoth-06)**Hello!! dev's**
 - [Ananya](https://github.com/itsmeananyasrivastava)
 - [Hrishikesh H](https://github.com/hrishihrishi/first-contributions)
 - [Siddharth](https://github.com/siddharth2835)
