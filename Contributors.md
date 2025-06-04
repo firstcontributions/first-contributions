@@ -1,5 +1,5 @@
 # Contributors
-
+- [Harsh Thakur](https://github.com/harshthakur3) 
 - [Heng_Xin](https://github.com/HengXin666) :)
 - [dguan]
 - [jiku_jiku](https://github.com/Jikuhara)
