@@ -42,6 +42,7 @@
 - [Alex Taylor](https://github.com/Alex-Devonte)
 - [Peter Schenk](https://github.com/EinSatzMitX)
 - [Andy Chen](https://github.com/tjcchen)
+- [Ganesh Magar](https://github.com/GaneshM2714)
 - [Daniel Feldman](https://github.com/DanielFeldman1)
 - [Abdullah Adel](https://github.com/Abdullah-adel)
 - [Joseph Ngatia](https://github.com/Joe-Ngatia)
