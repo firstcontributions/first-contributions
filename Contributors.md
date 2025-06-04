@@ -913,6 +913,7 @@ Matthew Burgos
 - [Emmanuel Ofoneta](https://github.com/Lordmaryo)
 - [Ramzan Khan](https://github.com/Ramzan-Khan-786)
 - [Sel](https://github.come/izume01)
+- [Puli Charishma Reddy](https://github.com/charishma237)
 - [Clifin Cletus](https://github.com/ClifinCletus)
 - [Mamta Vyas](https://github.com/your-mamta-vyas)
 - [Burhanuddin Bohra](https://github.com/burhan-72)
