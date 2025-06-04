@@ -25,6 +25,7 @@
 - [Stylianos Vogiatzis](https://github.com/VforVog)
 -[cromano](https://github.com/cromano87)
 - [Semi Venturero](https://github.com/venturero)
+- [Kollin Trujillo](https://github.com/KollinRT)
 - [Sarvesh](https://github.com/Sarvesh2006)
 - [Sarvesh](https://github.com/Sarvesh2006) GUESS WHO IS HERE...
 - [LittleFish-Coder](https://github.com/LittleFish-Coder)
