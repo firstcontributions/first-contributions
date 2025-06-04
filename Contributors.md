@@ -20,6 +20,7 @@
 - [Solus](https://github.com/Soul2x)>-<REMEMBER ME!!, Remember that i lived...
 - [Gias uddin vuiya](https://github.com/Gias-uddin-vuiya)
 - [Bhavya khandelwal](https://github.com/terminal2299)
+- [Hady Hefny](https://github.com/hadyhefny)
 - [Ricky Lam](https://github.com/RickyLam11)
 - [Lucas Lopes](http://github.com/olucaslopes)
 - [Joan Stefano Capparelli](https://github.com/ltdab/)
