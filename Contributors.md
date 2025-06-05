@@ -2229,6 +2229,7 @@ Darien Edwards
 - [Rion Sato](https://github.com/Rion-Sato)
 - [Daniel Cursi](https://github.com/danielcursi)
 - [Giovanna Cortez](https://github.com/annavoigg)
+- [Sagar Bangari](https://github.com/SagarBangari)
 - [Ashish Jadhav](https://github.com/Ashish1022)
 - [janGithub122](https://github.com/janGithub122)
 - [Mehfila Parkkulthil](https://github.com/Mehfila123)
