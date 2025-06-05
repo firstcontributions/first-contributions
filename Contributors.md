@@ -2203,6 +2203,7 @@ Darien Edwards
 - [Polina Polupan](https://github.com/PolinaPolupan)
 - [Anwesh Rawat](https://github.com/anwrat)
 - [Vinay Joshi](https://github.com/Anigrl)
+- [Sagar Bangari](https://github.com/SagarBangari)
 - [JakeJeongAiden](https://github.com/JakeJeongAiden/)
 - [Fangphire](https://github.com/fangphire)
 - [Saptarshi Mitra](https://github.com/Saptarshi1010)
