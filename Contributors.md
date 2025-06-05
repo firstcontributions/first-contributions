@@ -3636,5 +3636,6 @@ Darien Edwards
 - [AmirWpf] (https://github.com/amirhoseinmp)
 - [Abhishek Sharma](https://github.com/abhi-up79)
 - [Ife Osifalujo](https://github.com/osifalujoi1)
+- [Alessio Galluccio](https://github.com/AlessioGalluccio)
 - [Fat Cat Likes Beer](https://github.com/FatCatLikesBeer)
 - [Emile Qiu](https://github.com/Qa864830345)
