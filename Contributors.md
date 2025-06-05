@@ -103,6 +103,7 @@
 - [Purushothaman](https://github.com/Purushoth-06)**Hello!! dev's**
 - [Ananya](https://github.com/itsmeananyasrivastava)
 - [Hrishikesh H](https://github.com/hrishihrishi/first-contributions)
+- [crabtastic](https://github.com/crabtastic/)
 - [Siddharth](https://github.com/siddharth2835)
 - [arnavtumbde](https://github.com/arnavtumbde)
 - [SethMSC](https://github.com/SethMSC)
