@@ -3651,4 +3651,5 @@ Darien Edwards
 - [Fat Cat Likes Beer](https://github.com/FatCatLikesBeer)
 - [Emile Qiu](https://github.com/Qa864830345)
 - [MayurHedau](https://github.com/mayurdweek)
+- [Sabat Pierre](https://github.com/Tchouang)
 [Sanika Thorat](https://github.com/Sanika394)
