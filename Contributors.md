@@ -431,6 +431,7 @@ y- [Eunbin Kwon](https://github.com/eun61n00)
  - [hanyudeye](https://github.com/hanyudeye)
  - [Rajdeep Keshri](https://github.com/Rajdeep4586)
  - [Shubhanga R Beeragere](https://github.com/beeragere)
+ - [Ryusuke Akane](https://github.com/ryusuke0215)
  - [Shravani Gaikwad](https://github.com/shrav84)
  - [Unknown_rvp]
  -[Ayush Singh](https://github.com/ayushsingh4848)
