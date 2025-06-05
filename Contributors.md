@@ -1,7 +1,9 @@
 # Contributors
+
 - [Harsh Thakur](https://github.com/harshthakur3) 
 - [Heng_Xin](https://github.com/HengXin666) :)
 - [dguan]
+- [Abuji]
 - [jiku_jiku](https://github.com/Jikuhara)
 - [ReshmiAK](https://github.com/ReshmiAK)✌️
 - [Dharmendra Ahirwar](https://github.com/Kilvish25) Exciting! This is my first contribution. Lets connect on [LinkedIn](https://www.linkedin.com/in/kilvish25/) and collaborate.
@@ -27,6 +29,7 @@
 - [Charan Vengala](https://github.com/1012Charan)
 - [Stylianos Vogiatzis](https://github.com/VforVog)
 -[cromano](https://github.com/cromano87)
+- [Mateus Moura](https://github.com/mateusvcsmoura)
 - [Semi Venturero](https://github.com/venturero)
 - [Kollin Trujillo](https://github.com/KollinRT)
 - [Sarvesh](https://github.com/Sarvesh2006)
@@ -40,6 +43,7 @@
 - [Alex Taylor](https://github.com/Alex-Devonte)
 - [Peter Schenk](https://github.com/EinSatzMitX)
 - [Andy Chen](https://github.com/tjcchen)
+- [Ganesh Magar](https://github.com/GaneshM2714)
 - [Daniel Feldman](https://github.com/DanielFeldman1)
 - [Abdullah Adel](https://github.com/Abdullah-adel)
 - [Joseph Ngatia](https://github.com/Joe-Ngatia)
@@ -123,6 +127,7 @@ y- [Eunbin Kwon](https://github.com/eun61n00)
 - [RifkiFrdsS] (https://github.com/RifkiFrds/)
 - [SachinSingh] (https://github.com/sachinsingh2002/)
 - [MahimaGA] (https://github.com/MahimaGA)
+- [georgiiparla] (https://github.com/georgiiparla)
 - [OfficialSahilGupta] (https://github.com/OfficialSahilGupta)
 - [Mohammed-Thaha] (https://github.com/Mohammed-Thaha)
 - [UTKARSH-at-code] (https://github.com/UTKARSH-at-code)
@@ -232,6 +237,7 @@ y- [Eunbin Kwon](https://github.com/eun61n00)
   [GalaxyM105] 
 - [Muhammed Nishad](https://github.com/mhdnishadc?tab=repositories)
 - [Xander]
+- [Alexander Cunningham Rojas](https://github.com/alexswcr)
 - [Guilherme Queiroz Guimaraes](https://github.com/GuilhQueiroz)
 - [Anton Tumurov](https://github.com/Anton-tumurov)
 - [Everton Gabriel do Santos](https://github.com/Evert0nSantos)
@@ -909,6 +915,7 @@ Matthew Burgos
 - [Emmanuel Ofoneta](https://github.com/Lordmaryo)
 - [Ramzan Khan](https://github.com/Ramzan-Khan-786)
 - [Sel](https://github.come/izume01)
+- [Puli Charishma Reddy](https://github.com/charishma237)
 - [Clifin Cletus](https://github.com/ClifinCletus)
 - [Mamta Vyas](https://github.com/your-mamta-vyas)
 - [Burhanuddin Bohra](https://github.com/burhan-72)
@@ -3621,3 +3628,5 @@ Darien Edwards
 - [chrkuznos1] (https://github.com/chrkuznos1)
 - [MYethishwar] (https://github.com/MYethishwar)
 - [AmirWpf] (https://github.com/amirhoseinmp)
+- [Abhishek Sharma](https://github.com/abhi-up79)
+- [Ife Osifalujo](https://github.com/osifalujoi1)
