@@ -126,7 +126,7 @@ y- [Eunbin Kwon](https://github.com/eun61n00)
 - [RifkiFrdsS] (https://github.com/RifkiFrds/)
 - [SachinSingh] (https://github.com/sachinsingh2002/)
 - [MahimaGA] (https://github.com/MahimaGA)
-- [georgiiparla] (https://github.com/georgiiparla
+- [georgiiparla] (https://github.com/georgiiparla)
 - [OfficialSahilGupta] (https://github.com/OfficialSahilGupta)
 - [Mohammed-Thaha] (https://github.com/Mohammed-Thaha)
 - [UTKARSH-at-code] (https://github.com/UTKARSH-at-code)
