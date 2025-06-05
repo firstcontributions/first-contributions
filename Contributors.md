@@ -3609,6 +3609,7 @@ Darien Edwards
 - [Szabi] (https://github.com/SzabiGeo)
 -[Ashok Kaji] (https://github.com/ashokkaji26)
 - [Shubham Mohole](https://github.com/Ishubhammohole)
+- [Alvise Spadea](https://github.com/Alvaise):)
 - [Song Hyun-gi](https://github.com/SHGKOIHE) ^_^
 - [Biel Roca](https://github.com/bielrocafndz)
 - [Jay Patel](https://github.com/pateljay684)
