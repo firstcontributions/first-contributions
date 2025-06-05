@@ -4187,7 +4187,7 @@ random guy
 - [MayurHedau](https://github.com/mayurdweek)
 - [Sabat Pierre](https://github.com/Tchouang)
 - [Hardik Agnihotri](https://github.com/hardik-agnihotri)
-[Sanika Thorat](https://github.com/Sanika394)
+-  [Sanika Thorat](https://github.com/Sanika394)
 - [Mason McDaniel](https://github.com/MickPoletti) **Here's to many more!** 
 - [Samridhi Prakash](https://github.com/Samridhi-2007)
 - [Yue Sun]
@@ -4199,9 +4199,9 @@ random guy
 - [Kuldeep Sahoo](https://github.com/Kuldeep-Sahoo-7257-1922)
 - [Ahmet Mert Şengöl](https://github.com/ahmertsengol)
 - [Theodore Rose] (https://github.com/OutofSpacee)
--[Marstrx](https://github.com/marstrx)
--[thabel](https://github.com/thabel)
--[Shankary23](https://github.com/Shankary23)
+- [Marstrx](https://github.com/marstrx)
+- [thabel](https://github.com/thabel)
+- [Shankary23](https://github.com/Shankary23)
 - [Ikjyot Singh]((https://github.com)/icansingh)
 - [Kashish Choudhary](https://github.com/kashu06)
 - [Alif Akbar](https://github.com/alifakbxr)
@@ -4211,16 +4211,16 @@ random guy
 - [Rennan Reis](https://github.com/rennanreis)
 - [Divyam Kataria](https://github.com/katsdivi) Hey everyone! Trying to learn git and open source.
 - [Maitreyee Singh](https://github.com/maitreyee-s)
-[Pouria Tofighi](https://github.com/Pouria-Tofighi)
--[Marouane Tabaa](https://github.com/Marouane666)
+- [Pouria Tofighi](https://github.com/Pouria-Tofighi)
+- [Marouane Tabaa](https://github.com/Marouane666)
 - [Sidharth P](https://github.com/Sid-CodeX)
 - [Ehab Hamdy](https://github.com/hobzz2)
 - [Raghuveer Adari] (https://github.com/raghuadari)
 - [yohaku7](https://github.com/yohaku7)
 - [mukyoko](https://github.com/mukyoko)
 - [Derek K]
--[Yusuf Tastan] (https://github.com/tastanyusuf)
--[Tames] (https://github.com/tameszaza)
+- [Yusuf Tastan] (https://github.com/tastanyusuf)
+- [Tames] (https://github.com/tameszaza)
 - [Ming Xiro]  (https://github.com/dinhminh0307)
 - [RedHeadFred923] (https://github.com/RedHeadFred923)
 - [Caleb Johnson] (https://github.com/CalebJohnson1)
@@ -4234,13 +4234,13 @@ random guy
 - [Aisha AQ] (https://github.com/AishaAQ)
 - [Arvind Paraliya] (https://github.com/arvindparaliya)
 - Hi,I'm [Gilbert Wang], Let's grow into towering trees together! (https://github.com/OGAS-45)
-[Benedicta MD] (https://github.com/benedictamd) 
-[Ryleigh] (https://github.com/Ryleigh-alt/)
-- [Swekit] (https://github.com/swekizer)
-[Manson](http://github.com/MansonBruv)
-[Kalyana] (https://github.com/kp2469-Kaly)
-[Myungho Bae] (https://github.com/MyunghoBae)
-[adiancodes](https://github.com/adiancodes)
+- [Benedicta MD] (https://github.com/benedictamd) 
+- [Ryleigh] (https://github.com/Ryleigh-alt/)
+-[Swekit] (https://github.com/swekizer)
+- [Manson](http://github.com/MansonBruv)
+- [Kalyana] (https://github.com/kp2469-Kaly)
+- [Myungho Bae] (https://github.com/MyunghoBae)
+- [adiancodes](https://github.com/adiancodes)
 - [mike Cardeiro]
 - [Ashrith] (https://github.com/Ashrituh)
 - [Loïc Burnotte](https://github.com/LoicBurnotte)
@@ -4249,7 +4249,7 @@ random guy
 - [Easy Mahaffey] (https://github.com/easymahaffey)
 - [Muaz Islam Babar](https://github.com/Muazislam) im goona use gentoo linux
 - Hi,I'm [XInzhe Gao], Dream it. Chase it. Code it. (https://github.com/XinzheGao)
-[Roshan Sahu](https://github.com/notGifoyle)
+- [Roshan Sahu](https://github.com/notGifoyle)
 - [hahahahaha66](https://github.com/hahahahaha66) A completely new endeavor
 - [PraveenX812](https://github.com/PraveenX812)
 -[Raghav Jha](https://github.com/Raghavjha60570) A complete Begginer 
@@ -4264,7 +4264,7 @@ random guy
 - [Angelo Fontoura](https://github.com/angelofontoura)
 - [Gautam Grover](https://github.com/Themistokles-2137)
 - [zzb](https://github.com/zbrun)
-- - [Raphaella Costa](https://github.com/raphaellacostaa)
+- [Raphaella Costa](https://github.com/raphaellacostaa)
 - [Priyanshu](https://github.com/priyanshu5259)
 - [Gafoor Shaik](https://github.com/gafoor-bot)
 - atendeiro91
@@ -4296,7 +4296,7 @@ random guy
 - [Diksha Rani](https://github.com/diksha-0420)
 - [Suresh Jagannadham](https://github.com/sureshjagannadham)
 - [Brandon Song] (https://github.com/defkorean)
-- [Mayuri Khandelwal] (https://github.com/khandelwalmayuri) Thankyou for creating this repository, Code is like humor. When you have to explain it, it’s bad and that's why every project has a readme 
+- [Mayuri Khandelwal] (https://github.com/khandelwalmayuri) Thankyou for creating this repository, Code is like humor. When you have to explain  it, it’s bad and that's why every project has a readme 
 - [Amit Kumar Deo](https://github.com/22AmitDeo)
 - [Lakshit Kumawat](https://github.com/Lakshit1111) It's just get started. 
 - [Vaibhav](https://github.com/vaibhavsanap112)
@@ -4394,5 +4394,7 @@ John Morgan Hello!
 - [MindFuckJS](https://github.com/MindFuckJS) - Yeah ik you hate JavaScript
 - [ericbarron329](https://github.com/ericbarron329) - Hi, sending a contribution!
 - [David Veytsman](https://github.com/dveytsman) - Awesome idea, thank you!
-- [Kelvin Ifeanyi] (https://github.com/rootikigai) - Yo! Wagwan great mindz! This is a good one for beginners contributing to open source. Nice work. Also, if you're coming underneath me, do give a follow on github...I follow back.
+- [Kelvin Ifeanyi] (https://github.com/rootikigai) - Yo! Wagwan great mindz! This is a good one for beginners contributing to open source. Nice  work. Also, if you're coming underneath me, do give a follow on github...I follow back.
 - [Emmanuel Mingala](https://github.com/emmanyouwell) - Connect with me 🤝
+- [Harshit Shukla](https://github.com/Harshit9026)
+  8ab32f5a (Add Harshit9026 to contributors list)
