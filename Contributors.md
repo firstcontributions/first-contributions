@@ -46,6 +46,7 @@
 - [Mariia Shmidt] (https://github.com/markshmidt)
 - [Atkin](https://github.com/atkin0)
 - [Alex Taylor](https://github.com/Alex-Devonte)
+- [Aryan Pal] (https://github.com/aryanpal-7)
 - [Peter Schenk](https://github.com/EinSatzMitX)
 - [Andy Chen](https://github.com/tjcchen)
 - [Ganesh Magar](https://github.com/GaneshM2714)
