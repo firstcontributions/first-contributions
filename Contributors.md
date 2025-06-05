@@ -1,7 +1,7 @@
 # Contributors
 
 - [MRRM]
-- [Heng_Xin](https://github.com/HengXin666) :)
+- [Heng_Xin](https://github.com/HengXin666) 
 - [dguan]
 - [Abuji]
 - [gccpsben](https://github.com/gccpsben) This is my first contribution daze~~ (definitely not from marisa)
@@ -3642,3 +3642,4 @@ Darien Edwards
 - [Fat Cat Likes Beer](https://github.com/FatCatLikesBeer)
 - [Emile Qiu](https://github.com/Qa864830345)
 - [MayurHedau](https://github.com/mayurdweek)
+[Sanika Thorat](https://github.com/Sanika394)
