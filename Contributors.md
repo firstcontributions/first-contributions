@@ -3272,7 +3272,7 @@ Darien Edwards
 - [Asem Abdallah](https://github.com/3sem3bdallah)
 - [Kaustubh Daruri](https://github.com/Kaustubh152003)
 - [Abdul Hannan Khan](https://github.com/Hannankhan203)
-- [José Luis](https://github.com/joseluismaxp) 
+- [José Luis](https://github.com/joseluismaxp)
 - [Thainara Oliveira](https://github.com/thaisdo) 
 - [Andy Le](https://github.com/ale0k) 
 - [Liyon](https://github.com/leontoys)
@@ -3655,3 +3655,4 @@ Darien Edwards
 - [Sabat Pierre](https://github.com/Tchouang)
 [Sanika Thorat](https://github.com/Sanika394)
 - [Samridhi Prakash](https://github.com/Samridhi-2007)
+- [Ali Saad](https://github.com/AliSaa78)
