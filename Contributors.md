@@ -28,6 +28,7 @@
 - [Bhavya khandelwal](https://github.com/terminal2299)
 - [Hady Hefny](https://github.com/hadyhefny)
 - [Ricky Lam](https://github.com/RickyLam11)
+- [Ayush Premchand](http://github.com/APremchand)
 - [Lucas Lopes](http://github.com/olucaslopes)
 - [Joan Stefano Capparelli](https://github.com/ltdab/)
 - [Charan Vengala](https://github.com/1012Charan)
