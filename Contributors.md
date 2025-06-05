@@ -36,6 +36,7 @@
 - [Semi Venturero](https://github.com/venturero)
 - [Kollin Trujillo](https://github.com/KollinRT)
 - [Sarvesh](https://github.com/Sarvesh2006)
+- [Shadow](https://github.com/SedOwO)
 - [Sarvesh](https://github.com/Sarvesh2006) GUESS WHO IS HERE...
 - [Molecools](https://github.com/molecools)
 - [LittleFish-Coder](https://github.com/LittleFish-Coder)
