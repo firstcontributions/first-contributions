@@ -61,6 +61,7 @@
 - [CoffeePuma55644](https://github.com/CoffeePuma55644)
 - [Jimmy Navarro](https://github.com/Navarriux)
 - [Nimish2098](https://github.com/Nimish2098)
+- [Rushabh Shah](https://github.com/rushabhshah007)
 - [vansh nagar](https://github.com/vansh-nagar)
 - [Pawan Kumar](https://github.com/pawan2088)
 - [Ahmed Nosir](https://github.com/egycondor)
@@ -2001,6 +2002,7 @@ Darien Edwards
 - [Maruthi S](https://github.com/JSMaruthi)
 - [capex digital](https://github.com/capexdigital)
 - [KristinnTh](https://github.com/KristinnTh)
+- [Diogo Carrola](https://github.com/diogocarrola) 🐦‍🔥
 - [veekshitha](https://github.com/Veekshitha21)
 - [Arun Kumar](https://github.com/Arun471)
 - [Igor Balić](https://github.com/Iggy2399)
@@ -2809,6 +2811,7 @@ Darien Edwards
 - [John](https://github.com/GitHubCoder144)
 - [Riyanshi](https://github.com/riyanshibohra)
 - [Vinh Bui](https://github.com/VinnyBui)
+- [Mick-EN] (Hello world)
 - [Syed Zainab](https://gothub.com/SyedZainab)
 - [Vishnu Vardan](https://github.com/VV-22)
 - [Maruthi Manideep Gorla](https://github.com/manideep3069)
@@ -3469,6 +3472,7 @@ Darien Edwards
 -[Prithika](https://github.com/prithikalambore)
 - S W Rusci
 -[Anuj Jain](https://github.com/anujScript)
+-[Dunsi Taiwo](https://github.com/Oluwadunsi)
 -[ChilliRoger](https://github.com/ChilliRoger)
 - [Sohaib Mahmoud](https://github.com/sohaib077)
 -[Landy Tia](https://github.com/tiaL-ops)
@@ -3664,3 +3668,6 @@ Darien Edwards
 - [Shudan Luo](https://github.com/shudanluo)
 - [Yux](https://github.com/rahumers321POPPy)
 - [Vyankatesh Potdar](https://github.com/vyankateshpotdar)
+- [Kuldeep Sahoo](https://github.com/Kuldeep-Sahoo-7257-1922)
+- [Ahmet Mert Şengöl](https://github.com/ahmertsengol)
+
