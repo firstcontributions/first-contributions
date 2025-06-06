@@ -2000,6 +2000,7 @@ Darien Edwards
 - [Maruthi S](https://github.com/JSMaruthi)
 - [capex digital](https://github.com/capexdigital)
 - [KristinnTh](https://github.com/KristinnTh)
+- [Diogo Carrola](https://github.com/diogocarrola) 🐦‍🔥
 - [veekshitha](https://github.com/Veekshitha21)
 - [Arun Kumar](https://github.com/Arun471)
 - [Igor Balić](https://github.com/Iggy2399)
