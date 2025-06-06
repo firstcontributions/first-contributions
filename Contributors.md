@@ -3682,3 +3682,4 @@ Darien Edwards
 - [Theodore Rose] (https://github.com/OutofSpacee)
 -[Marstrx](https://github.com/marstrx)
 -[Shankary23](https://github.com/Shankary23)
+- [Ikjyot Singh](https://github.com/icansingh)
