@@ -13,11 +13,11 @@
 - [Xiaopeng Zhang](https://github.com/XiaoPeng0x3) **Love you guys!!!**
 - [Raghav Khatri](https://github.com/raghavkhatri413)
 - [Paras Kanojia](https://github.com/Paras1209) **Love to conenct with others and learn from them** 
-- [yuriuser126](https://github.com/yuriuser126)
 - [Anchal Gupta](https://github.com/anchalgupta27)
 - [Sweta Jaiswal](https://github.com/SwetaJaiswal9)
 - [Rodoshi Mondal](https://github.com/rodoshi16)
 -[Kashmala Ahmad](https://github.com/kashmalaahmad)
+- [Shawn Jacobsen](https://github.com/JacobsenShawn) **Lets connect and grow**✌️✌️✌️✌️✌️
 - [Chamindu Dahanayaka](https://github.com/ChaminduD)
 - [Benita Magdalene Kingsley Prince](https://github.com/BenitaMags)
 -[Sujal Maharjan](https://github.com/SUJAL390)
@@ -28,7 +28,6 @@
 - [Gias uddin vuiya](https://github.com/Gias-uddin-vuiya)
 - [Bhavya khandelwal](https://github.com/terminal2299)
 - [Hady Hefny](https://github.com/hadyhefny)
-- [AkashGGaonkar]
 - [Ricky Lam](https://github.com/RickyLam11)
 - [Ayush Premchand](http://github.com/APremchand)
 - [Lucas Lopes](http://github.com/olucaslopes)
@@ -61,7 +60,6 @@
 - [CoffeePuma55644](https://github.com/CoffeePuma55644)
 - [Jimmy Navarro](https://github.com/Navarriux)
 - [Nimish2098](https://github.com/Nimish2098)
-- [Rushabh Shah](https://github.com/rushabhshah007)
 - [vansh nagar](https://github.com/vansh-nagar)
 - [Pawan Kumar](https://github.com/pawan2088)
 - [Ahmed Nosir](https://github.com/egycondor)
@@ -100,7 +98,6 @@
 - [Raghavendra Konkathi](https://github.com/raghav-konk)
 - [Void Emerald](https://github.com/voidexis)
 - [SanjayaCF](https://github.com/ZetaCo7)
-- [Soumyaranjan Rout](https://github.com/Soumya7681)
 - [Gregory Guths](https://github.com/Guthsss)
 - [JayGokani](https://github.com/jaygokani)
 - [Yousef AlShaikh](http://github.com/yousefalshaikh17)
@@ -288,7 +285,6 @@ y- [Eunbin Kwon](https://github.com/eun61n00)
 - [nastenka_777](https://github.com/nastenka777)
 - [HarshitaKhare28](https://github.com/HarshitaKhare28)
 - [jiji](https://github.com/chelchel29)
-- [edgroc](https://github.com/edgroc)
 - [Harsh-Jain](https://github.com/Harshjain10020)
 - [Awanat Olawale] (https://github.com/awanat-olawale)Yayyy!My first contribution
 - [Wanessa Brito](https://github.com/wanessabrito)
@@ -1022,7 +1018,6 @@ Matthew Burgos
 - [Anirudh]
 - [Sukhbeer Mangat] (https://github.com/ssmangat)
 - [Spencer Linsner](https://github.com/slins1)
-- [Implicit-Charm](https://github.com/implicit-charm)
 - [Sreenath K K](https://github.com/sreenath-pydev)
 - [Abdelrhman Masoud](https://github.com/Abdomasoud)
 - [Fardeen Shahed](https://github.com/Fardeen2903)
@@ -2002,7 +1997,6 @@ Darien Edwards
 - [Maruthi S](https://github.com/JSMaruthi)
 - [capex digital](https://github.com/capexdigital)
 - [KristinnTh](https://github.com/KristinnTh)
-- [Diogo Carrola](https://github.com/diogocarrola) 🐦‍🔥
 - [veekshitha](https://github.com/Veekshitha21)
 - [Arun Kumar](https://github.com/Arun471)
 - [Igor Balić](https://github.com/Iggy2399)
@@ -2039,7 +2033,6 @@ Darien Edwards
 - [rujeetjahagirdar](https://github.com/rujeetjahagirdar)
 - [pateldevashish001](https://github.com/PatelDevashish001)
 - [Joel Anarba](https://github.com/joelanarba)
-- [Joel Singh](https:/github.com/Joel-Singh)
 - [NikitaJaiswal77](https://github.com/NikitaJaiswal77)
 - [sema-altinkaynak](https://github.com/sema-altinkaynak)
 - [Rikemannen](https://github.com/rikemannen)
@@ -2812,7 +2805,6 @@ Darien Edwards
 - [John](https://github.com/GitHubCoder144)
 - [Riyanshi](https://github.com/riyanshibohra)
 - [Vinh Bui](https://github.com/VinnyBui)
-- [Mick-EN] (Hello world)
 - [Syed Zainab](https://gothub.com/SyedZainab)
 - [Vishnu Vardan](https://github.com/VV-22)
 - [Maruthi Manideep Gorla](https://github.com/manideep3069)
@@ -3473,7 +3465,6 @@ Darien Edwards
 -[Prithika](https://github.com/prithikalambore)
 - S W Rusci
 -[Anuj Jain](https://github.com/anujScript)
--[Dunsi Taiwo](https://github.com/Oluwadunsi)
 -[ChilliRoger](https://github.com/ChilliRoger)
 - [Sohaib Mahmoud](https://github.com/sohaib077)
 -[Landy Tia](https://github.com/tiaL-ops)
@@ -3552,7 +3543,6 @@ Darien Edwards
 - [KONA](https://github.com/KONA-159)
 - [smehraliyev404](https://github.com/smehraliyev404)
 - [Steven T. Black](https://github.com/steventblack)
-- [Muhammad Sohaib](https://github.com/sohaibkundi2)
 - [Harshit Singh Rathore]
 - [Mohammad Arab](https://github.com/MohammadTheDev)
 - [Abdullah](https://github.com/firstcontributions/first-contributions.git)
@@ -3667,8 +3657,3 @@ Darien Edwards
 [Sanika Thorat](https://github.com/Sanika394)
 - [Samridhi Prakash](https://github.com/Samridhi-2007)
 - [Ali Saad](https://github.com/AliSaa78)
-- [Shudan Luo](https://github.com/shudanluo)
-- [Yux](https://github.com/rahumers321POPPy)
-- [Vyankatesh Potdar](https://github.com/vyankateshpotdar)
-- [Kuldeep Sahoo](https://github.com/Kuldeep-Sahoo-7257-1922)
-- [Ahmet Mert Şengöl](https://github.com/ahmertsengol)
