@@ -29,6 +29,7 @@
 - [Bhavya khandelwal](https://github.com/terminal2299)
 - [Hady Hefny](https://github.com/hadyhefny)
 - [AkashGGaonkar]
+- [Omesh Ramlagan](https://github.com/kristovr)
 - [Ricky Lam](https://github.com/RickyLam11)
 - [Ayush Premchand](http://github.com/APremchand)
 - [Lucas Lopes](http://github.com/olucaslopes)
