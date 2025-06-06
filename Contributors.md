@@ -27,6 +27,7 @@
 - [Jimmy Navarro](https://github.com/Navarriux)
 - [vansh nagar](https://github.com/vansh-nagar)
 - [Pawan Kumar](https://github.com/pawan2088)
+- [Ravi Shastri](https://github.com/arnavtumbde)
 - [Ahmed Nosir](https://github.com/egycondor)
 - [Yanick De la Torre](https://github.com/Yank2901)
 - [Nirajan Dhungel](https://github.com/nirajandhungel)
