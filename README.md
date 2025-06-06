@@ -133,7 +133,7 @@ Change to the repository directory on your computer (if you are not already ther
 cd first-contributions
 ```
 
-Now create a branch using the `git switch` command:
+Now create a branch using the `git switch` command（The branch name should not be the same as the repository name, as this may cause the "Compare & pull request" to fail.）:
 
 ```bash
 git switch -c your-new-branch-name
@@ -148,7 +148,7 @@ git switch -c add-alonzo-church
 <details>
 <summary> <strong>If you get any errors using git switch, click here:</strong> </summary>
 
-If the error message "Git: `switch` is not a git command. See `git –help`" appears, it's likely because you're using an older version of git.
+If the error message "Git: `switch` is not a git command. See `git –help`" appears, it's likely because you're using an older version of git（The branch name should not be the same as the repository name, as this may cause the "Compare & pull request" to fail.）.
 
 In this case, try to use `git checkout` instead:
 
