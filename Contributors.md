@@ -3551,6 +3551,7 @@ Darien Edwards
 - [KONA](https://github.com/KONA-159)
 - [smehraliyev404](https://github.com/smehraliyev404)
 - [Steven T. Black](https://github.com/steventblack)
+- [Muhammad Sohaib](https://github.com/sohaibkundi2)
 - [Harshit Singh Rathore]
 - [Mohammad Arab](https://github.com/MohammadTheDev)
 - [Abdullah](https://github.com/firstcontributions/first-contributions.git)
