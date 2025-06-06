@@ -75,6 +75,7 @@
 - [Kavish Shah](https://github.com/thekavishshah)
 - [Muhammad Imaduddin](https://github.com/Muhasix)
 - [Jason Schinis](https://github.com/blunchboxx)
+- [Erickzunigap](https://github.com/erickzunigap)
 - [JaBee](https://github.com/Jabee7531)
 - [Mri](https://github.com/mri2004)
 - [leocampos81](https://github.com/leocampos81)
