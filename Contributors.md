@@ -98,6 +98,7 @@
 - [Raghavendra Konkathi](https://github.com/raghav-konk)
 - [Void Emerald](https://github.com/voidexis)
 - [SanjayaCF](https://github.com/ZetaCo7)
+- [Soumyaranjan Rout](https://github.com/Soumya7681)
 - [Gregory Guths](https://github.com/Guthsss)
 - [JayGokani](https://github.com/jaygokani)
 - [Yousef AlShaikh](http://github.com/yousefalshaikh17)
