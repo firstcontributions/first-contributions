@@ -13,6 +13,7 @@
 - [Xiaopeng Zhang](https://github.com/XiaoPeng0x3) **Love you guys!!!**
 - [Raghav Khatri](https://github.com/raghavkhatri413)
 - [Paras Kanojia](https://github.com/Paras1209) **Love to conenct with others and learn from them** 
+- [yuriuser126](https://github.com/yuriuser126)
 - [Anchal Gupta](https://github.com/anchalgupta27)
 - [Sweta Jaiswal](https://github.com/SwetaJaiswal9)
 - [Rodoshi Mondal](https://github.com/rodoshi16)
