@@ -4,6 +4,7 @@
 - [Stylianos Vogiatzis](https://github.com/VforVog)
 - [Atkin](https://github.com/atkin0)
 - [Jimmy Navarro](https://github.com/Navarriux)
+- [Revathi Harin](https://github.com/revathiharin)
 - [vansh nagar](https://github.com/vansh-nagar)
 - [Ahmed Nosir](https://github.com/egycondor)
 - [Yanick De la Torre](https://github.com/Yank2901)
