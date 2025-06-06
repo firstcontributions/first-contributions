@@ -284,6 +284,7 @@ y- [Eunbin Kwon](https://github.com/eun61n00)
 - [nastenka_777](https://github.com/nastenka777)
 - [HarshitaKhare28](https://github.com/HarshitaKhare28)
 - [jiji](https://github.com/chelchel29)
+- [edgroc](https://github.com/edgroc)
 - [Harsh-Jain](https://github.com/Harshjain10020)
 - [Awanat Olawale] (https://github.com/awanat-olawale)Yayyy!My first contribution
 - [Wanessa Brito](https://github.com/wanessabrito)
