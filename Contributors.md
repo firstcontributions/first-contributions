@@ -3,6 +3,7 @@
 - [MRRM]
 - [Heng_Xin](https://github.com/HengXin666) 
 - [dguan]
+- [zeyno_trying](https://github.com/zeyno-trying)
 - [Abuji]
 - [gccpsben](https://github.com/gccpsben) This is my first contribution daze~~ (definitely not from marisa)
 - [Atul Boyal](https://github.com/AtulBoyal)
