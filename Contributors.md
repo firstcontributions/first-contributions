@@ -2039,6 +2039,7 @@ Darien Edwards
 - [rujeetjahagirdar](https://github.com/rujeetjahagirdar)
 - [pateldevashish001](https://github.com/PatelDevashish001)
 - [Joel Anarba](https://github.com/joelanarba)
+- [Joel Singh](https:/github.com/Joel-Singh)
 - [NikitaJaiswal77](https://github.com/NikitaJaiswal77)
 - [sema-altinkaynak](https://github.com/sema-altinkaynak)
 - [Rikemannen](https://github.com/rikemannen)
