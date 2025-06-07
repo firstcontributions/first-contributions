@@ -1109,6 +1109,7 @@ Matthew Burgos
 - [Chasang Tsering Bhutia](https://github.com/ChasangBhutia)
 - [Ali Banijamali](https://github.com/alibnj)
 - [Oolazile](https://github.com/Oolazile)
+- [Franklin Gómez](https://github.com/Franklingo13)
 - [Eh Masuk](https://github.com/ehmasuk)
 - [Mattias](https://github.com/mattiasstrom)
 - [Joe Akroush](https://github.com/reloadjoefromkokomo)
