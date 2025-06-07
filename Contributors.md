@@ -2068,6 +2068,7 @@ random guy
 - [SaboorNisha](https://github.com/SaboorNisha)
 - [Sanika Nair](https://github.com/sanika-n)
 - [Shashwat Anand](https://github.com/Sushiii07)
+-[furinaabhidave](https://github.com/ItzmeFurina)
 - [LateGit](https://github.com/LateGit)
 - [sakaleshhubli](https://github.com/Sakaleshhubli)
 - [Parker Crook](https://github.com/parkercrook)
