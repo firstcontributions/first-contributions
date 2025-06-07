@@ -3709,3 +3709,4 @@ random guy
 - [Pritam Sing] (https://github.com/Pritam-Sing-2025)
 - [Tech] (https://github.com/techplayz32)
 - [Rennan Reis](https://github.com/rennanreis)
+- [Maitreyee Singh](https://github.com/maitreyee-s)
