@@ -3693,3 +3693,4 @@ random guy
 - [Kashish Choudhary](https://github.com/kashu06)
 - [Alif Akbar](https://github.com/alifakbxr)
 - [Ashutosh Bhagat](https://github.com/ashutosh-bhagat)
+- [Pritam Sing] (https://github.com/Pritam-Sing-2025)
