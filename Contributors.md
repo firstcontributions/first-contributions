@@ -11,7 +11,7 @@
 - [gccpsben](https://github.com/gccpsben) This is my first contribution daze~~ (definitely not from marisa)
 - [Atul Boyal](https://github.com/AtulBoyal)
 - [Rebekah Aung](https://github.com/rebekahaung)
-
+- Hi, I’m [Vineet Yadav](https://github.com/Vineet3458) Nice to meet you!
 - [jiku_jiku](https://github.com/Jikuhara)
 - [dianah_ddlite](https://github.com/ddlite92) My first contribution!
 - [ReshmiAK](https://github.com/ReshmiAK)✌️
@@ -24,6 +24,10 @@
 - [yuriuser126](https://github.com/yuriuser126)
 - [Anchal Gupta](https://github.com/anchalgupta27)
 - [Sweta Jaiswal](https://github.com/SwetaJaiswal9)
+- [Kashmala Ahmad](https://github.com/kashmalaahmad)
+- [Benita Magdalene Kingsley Prince](https://github.com/BenitaMags)
+- [Sujal Maharjan](https://github.com/SUJAL390)
+- [Tharun Prasad K](https://github.com/tharun10x)
 - [Rodoshi Mondal](https://github.com/rodoshi16)
 -[Kashmala Ahmad](https://github.com/kashmalaahmad)
 - [Chamindu Dahanayaka](https://github.com/ChaminduD)
