@@ -55,6 +55,7 @@
 - [Stylianos Vogiatzis](https://github.com/VforVog)
 -[cromano](https://github.com/cromano87)
 - [Mateus Moura](https://github.com/mateusvcsmoura)
+- [Akhil Cherukuri](https://github.com/AkhilCh54)
 - [Semi Venturero](https://github.com/venturero)
 - [Kollin Trujillo](https://github.com/KollinRT)
 - [Sarvesh](https://github.com/Sarvesh2006)
