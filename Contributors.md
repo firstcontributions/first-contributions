@@ -3678,7 +3678,9 @@ random guy
 - [Emile Qiu](https://github.com/Qa864830345)
 - [MayurHedau](https://github.com/mayurdweek)
 - [Sabat Pierre](https://github.com/Tchouang)
+- [Hardik Agnihotri](https://github.com/hardik-agnihotri)
 [Sanika Thorat](https://github.com/Sanika394)
+
 - [Samridhi Prakash](https://github.com/Samridhi-2007)
 - [Ali Saad](https://github.com/AliSaa78)
 - [Shudan Luo](https://github.com/shudanluo)
