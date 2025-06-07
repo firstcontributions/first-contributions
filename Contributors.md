@@ -7,6 +7,7 @@
 - [torihazi](https://github.com/torihazi)
 - [Abhi K](https://github.com/AbhiK1237) **This is just the beginning** 
 - [Sweta goswami] This is my first contribution hope to do more on real world projects ....
+- [Research Devkota] (https://github.com/itsresearch) Hello itsresearch..
 - [gccpsben](https://github.com/gccpsben) This is my first contribution daze~~ (definitely not from marisa)
 - [Atul Boyal](https://github.com/AtulBoyal)
 - [jiku_jiku](https://github.com/Jikuhara)
