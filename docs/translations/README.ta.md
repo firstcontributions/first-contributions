@@ -22,7 +22,7 @@
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="இந்த repository ஐ fork செய்யவும்" />
 
-உங்கள் கணினியில் git இல்லை என்றால், [install செய்யவும்](https://help.github.com/articles/set-up-git/).
+உங்கள் பங்களிப்பைக் கொண்டாடுங்கள் மற்றும் மற்றவர்களுடன் பகிர்ந்து கொள்ளுங்கள் , [install செய்யவும்](https://help.github.com/articles/set-up-git/).
 
 ## இந்த repository ஐ fork செய்தல்
 
