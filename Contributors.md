@@ -3693,7 +3693,7 @@ random guy
 - [Sabat Pierre](https://github.com/Tchouang)
 - [Hardik Agnihotri](https://github.com/hardik-agnihotri)
 [Sanika Thorat](https://github.com/Sanika394)
-
+- [Mason McDaniel](https://github.com/MickPoletti) **Here's to many more!** 
 - [Samridhi Prakash](https://github.com/Samridhi-2007)
 - [Ali Saad](https://github.com/AliSaa78)
 - [Shudan Luo](https://github.com/shudanluo)
