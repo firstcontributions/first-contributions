@@ -1,5 +1,4 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -8,11 +7,13 @@
 
 Sunku. Visada sunku ką nors padaryti pirmą kartą. Ypač bendradarbiaujant, klaidų darymas nėra malonus dalykas. Tačiau atviras kodas - tai bendravimas ir bendradarbiavimas. Mes norime paprasčiau paaiškinti naujiesiems atvirojo kodo kūrėjams, kaip jie gali prisidėti pirmą kartą.
 
-Galite pradėti skaityti straipsnius ir žiūrėti vadovus, bet kas gali būti geriau nei mokymasis darant be klaidų pirmą kartą? Šio projekto tikslas - suteikti patarimus ir supaprastinti tai, kaip naujokai daro pirmąjį indėlį. Prisiminkite: kuo labiau esate atsipalaidavęs, tuo geriau mokotės. Jei norite atlikti pirmąjį indėlį, atlikite toliau pateiktus paprastus veiksmus. Mes pažadame, tai bus smagu.
+Galite pradėti skaityti straipsnius ir žiūrėti vadovus, bet kas gali būti geriau nei mokymasis darant be klaidų pirmą kartą? Šio projekto tikslas - suteikti patarimus ir supaprastinti tai, kaip naujokai atlieka savo pirmąjį indėlį. Prisiminkite: kuo labiau atsipalaidavę esate, tuo geriau mokotės. Jei norite atlikti pirmąjį indėlį, atlikite toliau pateiktus paprastus veiksmus. Mes pažadame, tai bus smagu.
+
+_Jei nesate pratę dirbti su komandine eilute, [čia rasite vadovą, naudojantį GUI įrankius.](#tutorials-using-other-tools)_
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-Jei neturite instaliuoto git, [ instaliuokite čia ]( https://help.github.com/articles/set-up-git/).
+#### Jei neturite instaliuoto git, [instaliuokite čia](https://help.github.com/articles/set-up-git/).
 
 ## Kopijuokite (fork) šią saugyklą
 
@@ -28,9 +29,9 @@ Dabar klonuokite šią saugyklą į savo kompiuterį. Spustelėkite klonavimo my
 Atidarykite terminalą ir paleiskite šią git komandą:
 
 ```
-git clone "kopijuota nuoroda"
+git clone "kątik nukopijuota nuoroda"
 ```
-kur "kopijuota nuoroda" (be citatos ženklų) yra url nuoroda jūsų saugyklai. Peržiūrėkite ankstesnius veiksmus, kad gautumėte url nuorodą.
+kur "kątik nukopijuota nuoroda" (be citatos ženklų) yra url nuoroda jūsų saugyklai (jūsų projekto kopijai). Peržiūrėkite ankstesnius veiksmus, kad gautumėte url nuorodą.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
@@ -47,20 +48,35 @@ Pakeiskite kompiuterio saugyklos katalogą (jei dar to nepadarėte anksčiau):
 ```
 cd first-contributions
 ```
-Dabar sukurkite šaką naudodami komandą `git checkout`:
+Dabar sukurkite šaką naudodami komandą `git branch`:
 ```
-git checkout -b <add-tavo-vardas>
+git branch -c <tavo-sakos-vardas>
 ```
 
 Pavyzdžiui:
 ```
+git branch -c add-vardenis-pavardenis
+```
+(Saugyklos pavadinime neprivalo būti žodžio *add*, bet mes jį naudojame, kadangi šios šakos (branch) paskirtis yra įtraukti savo vardą į sąrašą.)
+
+<details>
+<summary> <strong>Jei gavote klaidos pranešimą naudodami git switch, spauskite čia:</strong> </summary>
+
+Jei klaidos pranešimas yra "Git: `switch` is not a git command. See `git –help`", tikėtinai naudojate seną git versiją.
+
+Tokiu atveju bandykite `git checkout`:
+
+```bash
 git checkout -b add-vardenis-pavardenis
 ```
-(Saugyklos pavadinime neturi būti žodžio *add*, bet tai yra reikalinga, kadangi šios šakos (branch) paskirtis yra įtraukti savo vardą į sąrašą.)
+
+</details>
 
 ## Atlikite reikiamus pakeitimus ir pridėkite (commit) šiuos pakeitimus
 
-Dabar atidarykite failą `Contributors.md` teksto redaktoriuje, pridėkite prie jo savo vardą ir išsaugokite failą. Jei eisite į projekto katalogą ir paleisite komandą `git status`, pamatysite, kad yra pakeitimų. Pridėkite šiuos pakeitimus į ką tik sukurtą šaką (branch) komandos `git add` pagalba:
+Dabar atidarykite failą `Contributors.md` teksto redaktoriuje ir pridėkite prie jo savo vardą. Nedėkite jo į failo pradžią ar pabaigą - įrašykite jį bet kur kitur faile. Galiausiai, išsaugokite failą. 
+
+Jei eisite į projekto katalogą ir paleisite komandą `git status`, pamatysite, kad yra pakeitimų. Pridėkite šiuos pakeitimus į ką tik sukurtą šaką (branch) komandos `git add` pagalba:
 ```
 git add Contributors.md
 ```
@@ -75,9 +91,31 @@ pakeisdami `<tavo-vardas>` savo vardu.
 
 Išsiųskite pakeitimus komanda `git push`:
 ```
-git push origin <add-tavo-vardas>
+git push origin <tavo-sakos-vardas>
 ```
-pakeisdami `<tavo-vardas>` anskčiau sukurtos šakos (branch) vardu.
+pakeisdami `<tavo-sakos-vardas>` anskčiau sukurtos šakos (branch) vardu.
+
+<details>
+<summary> <strong>Jei gaunate klaidos pranešimą išsaugodami pakeitimus, spauskite čia:</strong> </summary>
+
+- ### Autentifikacijos klaida
+     <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+  remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+  fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
+  [GitHub vadovas](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) padės jums sugeneruoti ir sukonfiguruoti SSH raktą savo paskyroje.
+
+  Taip pat, galbūt norėsite pabandyti 'git remote -v', skirtą patikrintite savo nuotolinį adresą (remote address).
+  
+  Jei jis atrodo taip ar panašiai:
+  <pre>origin	https://github.com/your-username/your_repo.git (fetch)
+  origin	https://github.com/your-username/your_repo.git (push)</pre>
+  
+  pakeiskite jį, naudodami komandą:
+  ```bash
+  git remote set-url origin git@github.com:your-username/your_repo.git
+  ```
+  Kitu atveju jūsų vis tiek sulauksite klausimo apie savo vartotojo vardą ir slaptažodį ir sulauksite autentifikacijos klaidos.
+</details>
 
 ## Pateikite pakeitimus peržiūrai
 
@@ -94,8 +132,6 @@ Netrukus projekto autorius sujungs visus jūsų šakos pakeitimus su šio projek
 ## Kas toliau?
 
 Džiaukitės ir atkreipkite dėmesį į savo įnašą pasidalindami šia žinia su draugais [interneto aplikacijoje](https://firstcontributions.github.io/#social-share).
-
-Prisijunkite prie mūsų "slack" komandos, jei jums reikia pagalbos ar turite klausimų. [Prisijungti prie slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
 Pradėkite tobulinti kitus projektus. Mes sukūrėme projektų sąrašą, kuriuose yra lengvai išsprendžiamų problemų. Peržiūrėkite [projektų sąrašą interneto aplikacijoje](https://firstcontributions.github.io/#project-list).
 
