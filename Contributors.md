@@ -6,6 +6,7 @@
 - [zeyno_trying](https://github.com/zeyno-trying)
 - [Abuji]
 - [Amélie Avery](https://github.com/amelieav)
+- [Priyanshu Bhatt] First contribution, will do more and more in future and present.
 - [torihazi](https://github.com/torihazi)
 - [Abhi K](https://github.com/AbhiK1237) **This is just the beginning** 
 - [Sweta goswami] This is my first contribution hope to do more on real world projects ....
