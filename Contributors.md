@@ -1,5 +1,4 @@
 ﻿# Contributors
-
 - [MRRM]
 - [Heng_Xin](https://github.com/HengXin666) 
 - [dguan]
@@ -11,6 +10,8 @@
 - [Research Devkota] (https://github.com/itsresearch) Hello itsresearch..
 - [gccpsben](https://github.com/gccpsben) This is my first contribution daze~~ (definitely not from marisa)
 - [Atul Boyal](https://github.com/AtulBoyal)
+- [Rebekah Aung](https://github.com/rebekahaung)
+- Hi, I’m [Vineet Yadav](https://github.com/Vineet3458) Nice to meet you!
 - [jiku_jiku](https://github.com/Jikuhara)
 - [dianah_ddlite](https://github.com/ddlite92) My first contribution!
 - [ReshmiAK](https://github.com/ReshmiAK)✌️
@@ -24,6 +25,10 @@
 - [yuriuser126](https://github.com/yuriuser126)
 - [Anchal Gupta](https://github.com/anchalgupta27)
 - [Sweta Jaiswal](https://github.com/SwetaJaiswal9)
+- [Kashmala Ahmad](https://github.com/kashmalaahmad)
+- [Benita Magdalene Kingsley Prince](https://github.com/BenitaMags)
+- [Sujal Maharjan](https://github.com/SUJAL390)
+- [Tharun Prasad K](https://github.com/tharun10x)
 - [Rodoshi Mondal](https://github.com/rodoshi16)
 -[Kashmala Ahmad](https://github.com/kashmalaahmad)
 - [Chamindu Dahanayaka](https://github.com/ChaminduD)
@@ -81,6 +86,7 @@
 - [Kavish Shah](https://github.com/thekavishshah)
 - [Muhammad Imaduddin](https://github.com/Muhasix)
 - [Jason Schinis](https://github.com/blunchboxx)
+- [Erickzunigap](https://github.com/erickzunigap)
 - [JaBee](https://github.com/Jabee7531)
 - [Mri](https://github.com/mri2004)
 - [Sanjana Shivanand](https://github.com/sanjanaashivanand)
@@ -177,7 +183,7 @@ y- [Eunbin Kwon](https://github.com/eun61n00)
 - Sibi Elwin
 - [Paul](https:/github.com/neverleaveualong)
 - [0xHuzaifa](https://github.com/0xHuzaifa)
-
+- [Téo Zwiebel](https://github.com/TeoZWIEBEL)
 - WLO (https://github.com/WLO)
 - Anderton de Andradas Leoncio (https://github.com/locksher182)
 - Shawn
@@ -3662,11 +3668,12 @@ random guy
 - [Noflare](https://github.com/Noflare)
 - [Anastazja Glowska](https://github.com/anastazja-glowska)
 - [Lorena Peracho](https://github.com/plorenab)
-[Yunus Aydogdu](https://github.com/aydogduyunus)
-[Keerthi V Nair](https://github.com/keerthivnair)
+- [Yunus Aydogdu](https://github.com/aydogduyunus)
+- [Keerthi V Nair](https://github.com/keerthivnair)
 - [Alvi Shams] (https://github.com/alviShams)
 - [lzc](https://github.com/lzcooker)
 - [Pranav K P](https://github.com/pranavkp71)
+- [mtmatt](https://github.com/mtmatt)
 - [White](https://github.com/Baibajiujing)
 - [Kassahun F](https://github.com/Kas1398)
 - [chrkuznos1] (https://github.com/chrkuznos1)
@@ -3680,7 +3687,9 @@ random guy
 - [Emile Qiu](https://github.com/Qa864830345)
 - [MayurHedau](https://github.com/mayurdweek)
 - [Sabat Pierre](https://github.com/Tchouang)
+- [Hardik Agnihotri](https://github.com/hardik-agnihotri)
 [Sanika Thorat](https://github.com/Sanika394)
+
 - [Samridhi Prakash](https://github.com/Samridhi-2007)
 - [Ali Saad](https://github.com/AliSaa78)
 - [Shudan Luo](https://github.com/shudanluo)
@@ -3697,4 +3706,4 @@ random guy
 - [Ashutosh Bhagat](https://github.com/ashutosh-bhagat)
 - [Pritam Sing] (https://github.com/Pritam-Sing-2025)
 - [Tech] (https://github.com/techplayz32)
-
+- [Rennan Reis](https://github.com/rennanreis)
