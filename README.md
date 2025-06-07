@@ -6,7 +6,7 @@
 <kbd>[<img title="Shqip" alt="Shqip" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/al.svg" width="22">](docs/translations/README.al.md)</kbd>
 <kbd>[<img title="Armenian" alt="Armenian" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/am.svg" width="22">](docs/translations/README.arm.md)</kbd>
 <kbd>[<img title="Uzbek" alt="Uzbek language" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/uz.svg" width="22">](docs/translations/README.uz.md)</kbd>
-<kbd>[<img title="Azərbaycan dili" alt="Azərbaycan dili" src="https://cdn.statically.io/flags/az.svg" width="22">](docs/translations/README.aze.md)</kbd>
+<kbd>[<img title="Azan dili" alt="Azərbaycan dili" src="https://cdn.statically.io/flags/az.svg" width="22">](docs/translations/README.aze.md)</kbd>
 <kbd>[<img title="বাংলা" alt="বাংলা" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/bd.svg" width="22">](docs/translations/README.bn.md)</kbd>
 <kbd>[<img title="Bulgarian" alt="Bulgarian" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/bg.svg" width="22">](docs/translations/README.bg.md)</kbd>
 <kbd>[<img title="Português (Brasil)" alt="Português (Brasil)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](docs/translations/README.pt_br.md)</kbd>
