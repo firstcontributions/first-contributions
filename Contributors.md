@@ -1,5 +1,4 @@
 ﻿# Contributors
-
 - [MRRM]
 - [Heng_Xin](https://github.com/HengXin666) 
 - [dguan]
@@ -80,6 +79,7 @@
 - [Kavish Shah](https://github.com/thekavishshah)
 - [Muhammad Imaduddin](https://github.com/Muhasix)
 - [Jason Schinis](https://github.com/blunchboxx)
+- [Erickzunigap](https://github.com/erickzunigap)
 - [JaBee](https://github.com/Jabee7531)
 - [Mri](https://github.com/mri2004)
 - [Sanjana Shivanand](https://github.com/sanjanaashivanand)
