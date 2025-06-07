@@ -28,6 +28,7 @@
 - [Paras Kanojia](https://github.com/Paras1209) **Love to conenct with others and learn from them** 
 - [yuriuser126](https://github.com/yuriuser126)
 - [Anchal Gupta](https://github.com/anchalgupta27)
+- [Navid Fayezi](https://github.com/NavidFayezi)
 - [Sweta Jaiswal](https://github.com/SwetaJaiswal9)
 - [Kashmala Ahmad](https://github.com/kashmalaahmad)
 - [Benita Magdalene Kingsley Prince](https://github.com/BenitaMags)
