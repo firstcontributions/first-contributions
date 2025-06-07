@@ -3698,6 +3698,7 @@ random guy
 [Sanika Thorat](https://github.com/Sanika394)
 - [Mason McDaniel](https://github.com/MickPoletti) **Here's to many more!** 
 - [Samridhi Prakash](https://github.com/Samridhi-2007)
+- [Yue Sun]
 - [Ali Saad](https://github.com/AliSaa78)
 - [Shudan Luo](https://github.com/shudanluo)
 - [Yux](https://github.com/rahumers321POPPy)
