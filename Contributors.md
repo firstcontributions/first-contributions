@@ -2819,6 +2819,7 @@ random guy
 - [charlesdzadu](https://github.com/charlesdzadu)
 - [Benabadji Abdelkader Tarik](https://github.com/tarikko/)
 - [Catherine Mokgothu](https://github.com/catherinemokgothu)
+- [Connor Kelly](https://github.com/Liternal)
 - [Nitika Bahl](https://github.com/NitikaBahl)
 - [Pranjal Singh](https://github.com/Pranjal0901)
 - [Andrea Ontibon](https://github.com/Paula34919)
