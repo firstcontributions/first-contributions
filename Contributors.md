@@ -172,6 +172,7 @@ y- [Eunbin Kwon](https://github.com/eun61n00)
 - [Vishal kumar](https://github.com/fateisintersting)
 - [Vishal kumar](https://github.com/fateisintersting)
 abu sulaymaan
+- [Academic Spork] (https://github.com/academic-spork)
 - [JP094](https://github.com/Jenishontheindex)
 - [Lokesh Priyanshu](https://github.com/Lokesh1933)
 - [RifkiFrdsS] (https://github.com/RifkiFrds/)
@@ -195,7 +196,7 @@ abu sulaymaan
 - [Sanghee Son](https://github.com/higangssh)
 - [Charlie Uland](https://github.com/charlesuland)
 - [carrie](https://github.com/MyatNoeKyin)
-- [Daniel Garcia}(https://github.com/Daniel-W-Garcia)
+- [Daniel Garcia](https://github.com/Daniel-W-Garcia)
 - Amruta
 - [Lia]
 - Betty 
