@@ -3,7 +3,6 @@
 - [Ankur Das](https://github.com/Ankur123unsungDevloper)
 - [MRRM]
 - [Heng_Xin](https://github.com/HengXin666) 
-- [d111kc](https://github.com/d111kc)
 - [dguan]
 - [zeyno_trying](https://github.com/zeyno-trying)
 - [Abuji]
