@@ -34,6 +34,7 @@
 - [Xiaopeng Zhang](https://github.com/XiaoPeng0x3) **Love you guys!!!**
 - [Raghav Khatri](https://github.com/raghavkhatri413)
 - [Eleftherios](https://github.com/leftkats) **Happy to be part of the open source journey!**
+- [Mihai Sirbu](https://github.com/MihaiSirbu)
 - [Kevin Tirado] (https://github.com/KevJosTd) **;)**
 - [Paras Kanojia](https://github.com/Paras1209) **Love to conenct with others and learn from them** 
 - [yuriuser126](https://github.com/yuriuser126)
