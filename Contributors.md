@@ -14,6 +14,7 @@
 - [Sweta goswami] This is my first contribution hope to do more on real world projects ....
 - [Research Devkota] (https://github.com/itsresearch) Hello itsresearch..
 - [gccpsben](https://github.com/gccpsben) This is my first contribution daze~~ (definitely not from marisa)
+- [Aryan Choudhary](https://github.com/Aryanxx4)
 - [Katyayani Mishra](https://github.com/Katyayani1875)
 - [Atul Boyal](https://github.com/AtulBoyal)
 - [Rebekah Aung](https://github.com/rebekahaung)
@@ -44,6 +45,7 @@
 -[Kashmala Ahmad](https://github.com/kashmalaahmad)
 - [Chamindu Dahanayaka](https://github.com/ChaminduD)
 - [Benita Magdalene Kingsley Prince](https://github.com/BenitaMags)
+-[Pastel Noel]
 -[Sujal Maharjan](https://github.com/SUJAL390)
 -[Aquib younis](https://github.com/Aquibyounis)
 -[Tharun Prasad K](https://github.com/tharun10x)
@@ -267,6 +269,7 @@ abu sulaymaan
 - [Parthasarathi Agarwal](https://github.com/ParthAgarwal-05)
 - [Talha Saleem] (https://github.com/Tsaleem123/)
 - [Lukas Drobek](https://github.com/LukasDrobek)
+Mohamed Farah
 - [Abhishek Prajapatt](https://github.com/abhishekprajapatt)
 - [Flounder](https://github.com/restfulcurrent)
 - [SuperCat908809](https://github.com/SuperCat908809)
@@ -1193,6 +1196,7 @@ Matthew Burgos
 - [Venkataramana hegde](https://github.com/Venkataramana-hegde)
 - [Samson Kwizela](https://github.com/SamsonKwizela)
 - [Illia Dehodiuk](https://github.com/IlliaDhD)
+- [Narendran Velaga](https://github.com/narendranvelaga24)
 - [Arowolo Abimbola](https://github.com/ArowoloAbimbolaVictoria)
 - [Ur Ya'ar](https://github.com/firubat)
 - [Puneet Verma ](https://github.com/PuneetVerma07)
@@ -3736,3 +3740,5 @@ random guy
 - [Raghuveer Adari] (https://github.com/raghuadari)
 - [yohaku7](https://github.com/yohaku7)
 - [mukyoko](https://github.com/mukyoko)
+-[Yusuf Tastan] (https://github.com/tastanyusuf)
+-[Tames] (https://github.com/tameszaza)
