@@ -2923,6 +2923,7 @@ random guy
 - [xiaoyuchenhot] (https://github.com/xiaoyuchenhot)
 - [Ersin Dalga](https://github.com/ersindalga)
 - [Yamadori](https://github.com/yamadoriAnka)
+- [Aidan Shea](https://github.com/aidantshea)
 - [Tan ChiaYan](https://github.com/tchiayan)
 - [Yusup Maulana](https://github.com/yusupscopes)
 - [Hoa Hung](https://github.com/imandy63)
