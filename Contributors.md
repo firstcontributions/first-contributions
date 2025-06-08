@@ -147,6 +147,7 @@
 - [Ananya](https://github.com/itsmeananyasrivastava)
 - [Hrishikesh H](https://github.com/hrishihrishi/first-contributions)
 - [crabtastic](https://github.com/crabtastic/)
+- [Caio Dorfmam](https://github.com/dorfmam)
 - [Siddharth](https://github.com/siddharth2835)
 - [arnavtumbde](https://github.com/arnavtumbde)
 - [SethMSC](https://github.com/SethMSC)
