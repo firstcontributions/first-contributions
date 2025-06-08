@@ -98,6 +98,7 @@
 - [vansh nagar](https://github.com/vansh-nagar)
 - [Pawan Kumar](https://github.com/pawan2088)
 - [Ahmed Nosir](https://github.com/egycondor)
+- [Aditya Raj Srivastava](https://github.com/adityarajsrv)
 - [Yanick De la Torre](https://github.com/Yank2901)
 - [Nirajan Dhungel](https://github.com/nirajandhungel)
 - [Mandeep Singh](https://github.com/Mandeep-Singh18)
