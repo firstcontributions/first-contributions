@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Shivraj Rajbhar](https://github.com/shivrajr1)
 - [Ankur Das](https://github.com/Ankur123unsungDevloper)
 - [MRRM]
 - [Heng_Xin](https://github.com/HengXin666)
@@ -247,8 +248,11 @@
 - [Saksham](https://github.com/Saksham67)
 - [Rayid](https://github.com/rayidali)
 - [Raja Mohammed](https://gitbuh.com/RajamdGamer)
-  [Douglas souza dos santos](https://github.com/Fera-programador) -[Arun Kumar](https://github.com/Arun-AK-27/) -[Praneet Biswal](https://github.com/Praneetb2929)
-  - [Sayon Coulibaly](https://github.com/chococoul)
+- [Douglas souza dos santos](https://github.com/Fera-programador)
+- [Arun Kumar](https://github.com/Arun-AK-27/)
+- [Praneet Biswal](https://github.com/Praneetb2929)
+- [Shubhankar Chauhan](https://github.com/Shubhankar1211)
+- [Sayon Coulibaly](https://github.com/chococoul)
 - [Austin Cook](https://github.com/austin-cook)
 - [Julian Elliott](https://github.com/Julian-Elliott)
 - [Parthasarathi Agarwal](https://github.com/ParthAgarwal-05)
