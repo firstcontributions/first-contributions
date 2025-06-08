@@ -18,6 +18,7 @@
 - [Katyayani Mishra](https://github.com/Katyayani1875)
 - [Atul Boyal](https://github.com/AtulBoyal)
 - [Rebekah Aung](https://github.com/rebekahaung)
+- [Nobita ](https://faris12333-cloud) - I will contribute to opensource projects until my death 
 - Hi, I’m [Vineet Yadav](https://github.com/Vineet3458) Nice to meet you!
 - [jiku_jiku](https://github.com/Jikuhara)
 - [dianah_ddlite](https://github.com/ddlite92) My first contribution!
