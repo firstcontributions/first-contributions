@@ -9,6 +9,7 @@
 - [zeyno_trying](https://github.com/zeyno-trying)
 - [Abuji]
 - [Amélie Avery](https://github.com/amelieav)
+- Hi! I'm [Ham Seoyeon](https://github.com/makee-ham). Just to clarify — I'm not that kind of *ham*🐷😉
 - [Priyanshu Bhatt] First contribution, will do more and more in future and present.
 - [torihazi](https://github.com/torihazi)
 - [Abhi K](https://github.com/AbhiK1237) **This is just the beginning** 
