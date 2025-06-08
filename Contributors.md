@@ -9,6 +9,7 @@
 - [Priyanshu Bhatt] First contribution, will do more and more in future and present.
 - [torihazi](https://github.com/torihazi)
 - [Abhi K](https://github.com/AbhiK1237) **This is just the beginning** 
+- [Gaurav](https://github.com/gauravkrsingh321) **Open Source Contribution**
 - [Sweta goswami] This is my first contribution hope to do more on real world projects ....
 - [Research Devkota] (https://github.com/itsresearch) Hello itsresearch..
 - [gccpsben](https://github.com/gccpsben) This is my first contribution daze~~ (definitely not from marisa)
@@ -19,6 +20,7 @@
 - [dianah_ddlite](https://github.com/ddlite92) My first contribution!
 - [ReshmiAK](https://github.com/ReshmiAK)✌️
 - [Dharmendra Ahirwar](https://github.com/Kilvish25) Exciting! This is my first contribution. Lets connect on [LinkedIn](https://www.linkedin.com/in/kilvish25/) and collaborate.
+- [YLAdatagit](https://github.com/YLAdatagit) This is my first contribution.
 - [EarlSheppard] I am committed
 -[Faruk Selim Duman](https://github.com/FSDuman) **Memento Mori**
 - [Xiaopeng Zhang](https://github.com/XiaoPeng0x3) **Love you guys!!!**
@@ -27,7 +29,9 @@
 - [Kevin Tirado] (https://github.com/KevJosTd) **;)**
 - [Paras Kanojia](https://github.com/Paras1209) **Love to conenct with others and learn from them** 
 - [yuriuser126](https://github.com/yuriuser126)
+- [ArthurKouam](https://github.com/ArthurKouam)
 - [Anchal Gupta](https://github.com/anchalgupta27)
+- [Navid Fayezi](https://github.com/NavidFayezi)
 - [Sweta Jaiswal](https://github.com/SwetaJaiswal9)
 - [Kashmala Ahmad](https://github.com/kashmalaahmad)
 - [Benita Magdalene Kingsley Prince](https://github.com/BenitaMags)
@@ -55,6 +59,7 @@
 - [Stylianos Vogiatzis](https://github.com/VforVog)
 -[cromano](https://github.com/cromano87)
 - [Mateus Moura](https://github.com/mateusvcsmoura)
+- [Akhil Cherukuri](https://github.com/AkhilCh54)
 - [Semi Venturero](https://github.com/venturero)
 - [Kollin Trujillo](https://github.com/KollinRT)
 - [Sarvesh](https://github.com/Sarvesh2006)
@@ -706,6 +711,7 @@ Anshi
 - [Selbi](https://github.com/Izume01)
 - [spacegodx](https://github.com/spacegodx)
 - [Gabrielgg](https://github.com/gabrielgrillo)
+- [Kirpartem] (https://github.com/Kirpartem)
 - [Nishu](https://github.com/nishuR31)
 - [Ward](https://github.com/rawadmuhammed)
 - [Indrajit] (https://github.com/satoru-77)
@@ -3254,6 +3260,7 @@ random guy
 - [Kaushal Kumbagowdana](https://github.com/kaushaltheeG)
 - [Kylash M R]
 - [white devil] - (https://github.com/prasad-bigdp)
+- [affengold] 
 - [Yutaro] - (https://github.com/Yutaro-orange)
 - [Anton Avdeev] (https://github.com/Extend777)
 - [Dmytro Petruniv] (https://github.com/dmyrkoo)
@@ -3460,6 +3467,7 @@ random guy
 - [JT Coleman](https://github.com/Joetommy)
 - [504257689](https://github.com/504257689)
 -[Shai Yos](https://github.com/ShaiYos)
+- kevz8
 - [daiki fujimoto](https://github.com/dai-fuji)
 - [Shijie Gan](https://github.com/sgan0420)
 - [Juan Araujo](https://github.com/jufearcas)
@@ -3589,6 +3597,7 @@ random guy
 - [John Tomarakos] (https://github.com/jtomarak/)
 - [Melissa Makonga](https://github.com/Mel-Mak)
 - [Jiyaa Rana](https://github.com/ranajiya)
+- [Nisar]
 - Hi I'm Brandon
 - [Maverick](https://github.com/HistoriaNonVult)
 - [Victor me](https://github.com/viisatadi)
@@ -3698,6 +3707,7 @@ random guy
 [Sanika Thorat](https://github.com/Sanika394)
 - [Mason McDaniel](https://github.com/MickPoletti) **Here's to many more!** 
 - [Samridhi Prakash](https://github.com/Samridhi-2007)
+- [Yue Sun]
 - [Ali Saad](https://github.com/AliSaa78)
 - [Shudan Luo](https://github.com/shudanluo)
 - [Yux](https://github.com/rahumers321POPPy)
@@ -3715,4 +3725,11 @@ random guy
 - [Tech] (https://github.com/techplayz32)
 - [Rennan Reis](https://github.com/rennanreis)
 - [Maitreyee Singh](https://github.com/maitreyee-s)
+<<<<<<< HEAD
 -[Rachana Rajiwade](https://github.com/Rrachana14)
+=======
+[Pouria Tofighi](https://github.com/Pouria-Tofighi)
+-[Marouane Tabaa](https://github.com/Marouane666)
+- [Sidharth P](https://github.com/Sid-CodeX)
+- [Raghuveer Adari] (https://github.com/raghuadari)
+>>>>>>> upstream/main
