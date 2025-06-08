@@ -44,6 +44,7 @@
 -[Kashmala Ahmad](https://github.com/kashmalaahmad)
 - [Chamindu Dahanayaka](https://github.com/ChaminduD)
 - [Benita Magdalene Kingsley Prince](https://github.com/BenitaMags)
+-[Pastel Noel]
 -[Sujal Maharjan](https://github.com/SUJAL390)
 -[Aquib younis](https://github.com/Aquibyounis)
 -[Tharun Prasad K](https://github.com/tharun10x)
