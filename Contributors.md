@@ -2539,6 +2539,7 @@ random guy
 - [Aristide Legba](https://github.com/aristidelegba)
 - [EvinExiNiTy](https://github.com/Evinexinity)
 - [Daley Nyae](https://github.com/nyae44)
+- [Louis Amoah-Nuamah](https://github.com/louisan42) 🚀
 - [Martin Flores](https://github.com/Mflore29)
 - [Radu Mocanu](https://github.com/radumocanu1)
 - [Matthew Z](https://github.com/GitwithAbba)
