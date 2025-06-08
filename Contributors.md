@@ -1195,6 +1195,7 @@ Matthew Burgos
 - [Venkataramana hegde](https://github.com/Venkataramana-hegde)
 - [Samson Kwizela](https://github.com/SamsonKwizela)
 - [Illia Dehodiuk](https://github.com/IlliaDhD)
+- [Narendran Velaga](https://github.com/narendranvelaga24)
 - [Arowolo Abimbola](https://github.com/ArowoloAbimbolaVictoria)
 - [Ur Ya'ar](https://github.com/firubat)
 - [Puneet Verma ](https://github.com/PuneetVerma07)
