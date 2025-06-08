@@ -90,6 +90,7 @@
 - [Lina Kolte](https://github.com/Lina Kolte)
 - [CoffeePuma55644](https://github.com/CoffeePuma55644)
 - [Jimmy Navarro](https://github.com/Navarriux)
+  Mohamed Farah
 - [Nimish2098](https://github.com/Nimish2098)
 - [Rushabh Shah](https://github.com/rushabhshah007)
 - [vansh nagar](https://github.com/vansh-nagar)
