@@ -27,6 +27,7 @@
 - [Atul Boyal](https://github.com/AtulBoyal)
 - [Rebekah Aung](https://github.com/rebekahaung)
 - [Nobita ](https://faris12333-cloud) - I will contribute to opensource projects until my death 
+- [Sonali](https://github.com/SonaliDandoriya)
 - Hi, I’m [Vineet Yadav](https://github.com/Vineet3458) Nice to meet you!
 - [jiku_jiku](https://github.com/Jikuhara)
 - [dianah_ddlite](https://github.com/ddlite92) My first contribution!
