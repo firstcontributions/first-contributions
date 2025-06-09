@@ -1585,6 +1585,7 @@ Matthew Burgos
 - [36borderless] (https://github.com/36borderless)
 - [soulpm](https://github.com/soulpm)
 - [Rudra] (github.com/ruudra03)
+- [soulpm](https://github.com/soulpm)
 - [0xjeji](https://github.com/0xjeji)
 - [Beetlesliu](https://github.com/Beetlesliu)
 - [artistique1](https://github.com/artistique1)
