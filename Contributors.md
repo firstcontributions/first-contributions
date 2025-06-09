@@ -140,6 +140,7 @@ Mubarak Qorane
 - [Utkarsh Shrivastava](https://github.com/UTKARSHSHRIVASTAVA007)
 - [RachitPatekar7](https://github.com/RachitPatekar7)
 - [Bani](https://github.com/babanini95)
+- [gitty98]noice
 - [Ancil](https://github.com/iamancil)
 - [Robyn](https://github.com/RBodde)
 - [Snowsita](https://github.com/Snowsita)
