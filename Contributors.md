@@ -759,7 +759,7 @@ Anshi
 - [Selbi](https://github.com/Izume01)
 - [spacegodx](https://github.com/spacegodx)
 - [Gabrielgg](https://github.com/gabrielgrillo)
-- [Kirpartem] (https://github.com/Kirpartem)
+- [Kirpartem](https://github.com/Kirpartem)
 - [Nishu](https://github.com/nishuR31)
 - [Ward](https://github.com/rawadmuhammed)
 - [Indrajit] (https://github.com/satoru-77)
