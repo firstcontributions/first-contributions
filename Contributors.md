@@ -3756,7 +3756,7 @@ random guy
 - [Theodore Rose] (https://github.com/OutofSpacee)
 -[Marstrx](https://github.com/marstrx)
 -[Shankary23](https://github.com/Shankary23)
-- [Ikjyot Singh](https://github.com/icansingh)
+- [Ikjyot Singh]((https://github.com)/icansingh)
 - [Kashish Choudhary](https://github.com/kashu06)
 - [Alif Akbar](https://github.com/alifakbxr)
 - [Ashutosh Bhagat](https://github.com/ashutosh-bhagat)
@@ -3781,4 +3781,4 @@ random guy
 - [Iliiasik](https://github.com/Iliiasik)
 - [Namaskruti Pal](https://github.com/namaskrutipal)
 - [Libaan Musa] (https://github.com/libbanm7)
-- [Rahulravi-dev]
+- [Rahulravi-dev](https://github.com/RahulRavi024)
