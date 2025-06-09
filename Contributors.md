@@ -130,6 +130,7 @@
 - [Helen Annie Mathew](https://github.com/HelenMathw)
 - [Hrishikesh](https://github.com/neo-0007)
 - [SanjiVinsmoke](https://github.com/yaCent100)
+Mubarak Qorane 
 - [Rajesh Khandige](https://github.com/rajeshprabhuk)
 - [Ayan Upadhaya](https://github.com/AyanUpadhaya)
 - [AshtavinayakPande](https://github.com/yuno-gen)
