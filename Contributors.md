@@ -20,6 +20,7 @@
 - [torihazi](https://github.com/torihazi)
 - [Abhi K](https://github.com/AbhiK1237) **This is just the beginning** 
 - [Gaurav](https://github.com/gauravkrsingh321) **Open Source Contribution**
+- [Tubhyam Jain](https://github.com/tubhyam14)**New Here...** 
 - [Sweta goswami] This is my first contribution hope to do more on real world projects ....
 - [Research Devkota] (https://github.com/itsresearch) Hello itsresearch..
 - [gccpsben](https://github.com/gccpsben) This is my first contribution daze~~ (definitely not from marisa)
@@ -68,7 +69,6 @@
 - [Solus](https://github.com/Soul2x)>-<REMEMBER ME!!, Remember that i lived...
 - [Gias uddin vuiya](https://github.com/Gias-uddin-vuiya)
 - [Bhavya khandelwal](https://github.com/terminal2299)
-- [Tubhyam Jain](https://github.com/tubhyam14)**New Here...** 
 - [Hady Hefny](https://github.com/hadyhefny)
 - [AkashGGaonkar]
 - [Omesh Ramlagan](https://github.com/kristovr)
