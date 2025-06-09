@@ -3777,3 +3777,4 @@ random guy
 - [AlicepetereoNa](https://github.com/AlicepetereoNa)
 - [Syttpz] (https://github.com/syttpz)
 - [Iliiasik](https://github.com/Iliiasik)
+- [Namaskruti Pal](https://github.com/namaskrutipal)
