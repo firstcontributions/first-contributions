@@ -18,6 +18,7 @@
 - [Research Devkota] (https://github.com/itsresearch) Hello itsresearch..
 - [gccpsben](https://github.com/gccpsben) This is my first contribution daze~~ (definitely not from marisa)
 - Rodrigo Peñalba
+- [Evan Kline Mores](https://github.com/moresevankline) - **Open source contribution lets gooooo!!!**
 - [Aryan Choudhary](https://github.com/Aryanxx4)
 - [Katyayani Mishra](https://github.com/Katyayani1875)
 - [Atul Boyal](https://github.com/AtulBoyal)
