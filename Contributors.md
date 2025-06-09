@@ -14,6 +14,7 @@
 - [Ankur Das](https://github.com/Ankur123unsungDevloper)
 - [Devansh Gaur](https://github.com/Devaur03) will be the king of the pirates.
 - [MRRM]
+- [RusticByte](https://github.com/Davidskumar)
 - [Heng_Xin](https://github.com/HengXin666) 
 - [dguan]
 - [Akansha Arora](https://github.com/https://github.com/aroraakansha-27) 
