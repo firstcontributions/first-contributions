@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Mukul Bhardwaj](https://github.com/MukulB0412)
 - [Tomoaki Kurata](https://github.com/moecute-asmr/)
 - [Ismail Salah](https://github.com/msi404)
@@ -21,6 +21,7 @@
 - [Ragib Gulzar](https://github.com/ragibgulzar) 
 - [zeyno_trying](https://github.com/zeyno-trying)
 - [Abuji]
+- [Cas]
 - [phanindra]
 - [Masayoshi]
 - [Amélie Avery](https://github.com/amelieav)
