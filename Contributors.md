@@ -59,6 +59,7 @@
 - [Kevin Tirado] (https://github.com/KevJosTd) **;)**
 - [Paras Kanojia](https://github.com/Paras1209) **Love to conenct with others and learn from them** 
 - [yuriuser126](https://github.com/yuriuser126)
+- [Michael](https://github.com/itsmikoj) **My first contribution**
 - [ArthurKouam](https://github.com/ArthurKouam)
 - [Anchal Gupta](https://github.com/anchalgupta27)
 - [Navid Fayezi](https://github.com/NavidFayezi)
