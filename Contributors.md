@@ -434,6 +434,7 @@ Mohamed Farah
  - [IamJayPrakash](https://github.com/IamJayPrakash)
  - [Lawan Mai](https://github.com/zlKxrsan)
  - Wex47
+ - [Mohan Singh](https://github.com/MohanSG)
  - [Mukund](https://github.com/mukundgupta)
  - [HashimZ](https://github.com/HASHIM0312)
  - [OmarKHDR](https://github.com/OmarKHDR)
