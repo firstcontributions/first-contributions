@@ -7,6 +7,7 @@
 - [Abdelrahman Sharaf](https://github.com/eng-abdelrahman-sharaf)
 - [Shivraj Rajbhar](https://github.com/shivrajr1)
 - [Usama Danbaiwa](https://github.com/usamadanbaiwa)
+- [d111kc](https://github.com/d111kc)
 - [Ankur Das](https://github.com/Ankur123unsungDevloper)
 - [Devansh Gaur](https://github.com/Devaur03) will be the king of the pirates.
 - [MRRM]
