@@ -7,7 +7,6 @@
 - [Abdelrahman Sharaf](https://github.com/eng-abdelrahman-sharaf)
 - [Shivraj Rajbhar](https://github.com/shivrajr1)
 - [Usama Danbaiwa](https://github.com/usamadanbaiwa)
-- [Satyam](https://github.com/AnonymousDarkside)
 - [Ankur Das](https://github.com/Ankur123unsungDevloper)
 - [Devansh Gaur](https://github.com/Devaur03) will be the king of the pirates.
 - [MRRM]
@@ -134,6 +133,7 @@
 - [Utkarsh Shrivastava](https://github.com/UTKARSHSHRIVASTAVA007)
 - [RachitPatekar7](https://github.com/RachitPatekar7)
 - [Bani](https://github.com/babanini95)
+- [gitty98]noice
 - [Ancil](https://github.com/iamancil)
 - [Robyn](https://github.com/RBodde)
 - [Snowsita](https://github.com/Snowsita)
@@ -2219,6 +2219,7 @@
 - [dev-sik](https://github.com/YouD0313)
 - [callme-kvj](https://github.com/kvj-harsha)
 - [Brandon Munisur](https://github.com/Brandonmunisur)
+- [qrywo](https://github.com/qrywo)
 - [Graysen Gould](https://github.com/GraysenGould)
 - [Param Shah](https://github.com/Kommandant2005)
 - [Rafael Vasconcelos](https://github.com/Rellik7)
