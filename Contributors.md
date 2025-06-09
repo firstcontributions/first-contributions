@@ -8,6 +8,7 @@
 - [Shivraj Rajbhar](https://github.com/shivrajr1)
 - [Usama Danbaiwa](https://github.com/usamadanbaiwa)
 - [Ankur Das](https://github.com/Ankur123unsungDevloper)
+- [Saty](https://github.com/AnonymousDarkside)
 - [Devansh Gaur](https://github.com/Devaur03) will be the king of the pirates.
 - [MRRM]
 - [Heng_Xin](https://github.com/HengXin666)
