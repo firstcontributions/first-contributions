@@ -1396,6 +1396,7 @@ Matthew Burgos
 - [Vijaya](https://github.com/Vijayaa21)
 - [Vienji Racaza](https://github.com/vienji)
 - [Cindy Dang](https://github.com/cindyddang)
+- [Manuel Fernández](https://github.com/manuelito18)
 - [Gustavo William](https://github.com/alt-gusta)
 - [Chioma Igbe](https://github.com/Dagem17)
 - [Aryan Srivastava] (https://github.com/AryanSrivastava15)
