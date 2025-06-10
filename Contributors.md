@@ -1,5 +1,4 @@
 # Contributors
-- [Samuel Thomas](https://github.com/samthomaz)
 - [Andrew Velez](https://github.com/andrew-velez)
 - [Brandon Tavares](https://github.com/Btavares64)
 - [KonnorDev](https://github.com/KonnorDev)
