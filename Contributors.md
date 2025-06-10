@@ -1473,6 +1473,7 @@ Matthew Burgos
 - [ Anand S](https://github.com/anand1946s)
 - [Samarth Bedare](https://github.com/samarthbedare)
 - Rob Readling
+- [Eli Vogelhuber](https://github.com/ekarma2)
 
 - [Rajinisoumya](https://github.com/Rajinisoumya)
 - [Abhinav Singh](https://github.com/Abhinav-kodes)
