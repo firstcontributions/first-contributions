@@ -1,4 +1,6 @@
 # Contributors
+- [Andrew Velez](https://github.com/andrew-velez)
+- [Brandon Tavares](https://github.com/Btavares64)
 - [KonnorDev](https://github.com/KonnorDev)
 - [Mukul Bhardwaj](https://github.com/MukulB0412)
 - [Tomoaki Kurata](https://github.com/moecute-asmr/)
@@ -669,6 +671,7 @@ Mohamed Farah
  -[Rushil Patel](https://github.com/RUSHILPATEL33)
  -[Ronan Cuaresma](https://github.com/MuushyRoom)
  -[Michelle Burton] (https://github.com/michelle-burton)
+ -[Leah Tesfaye] (https://github.com/lt575)
  -[Dharani K] (https://github.com/sroiis)
  - [SFatimah56](https://github.com/SFatimah56)
 - [Saqib Reza](https://github.com/saqib-reza)
@@ -3811,3 +3814,5 @@ random guy
 [Benedicta MD] (https://github.com/benedictamd) 
 [Ryleigh] (https://github.com/Ryleigh-alt/)
 [Kalyana] (https://github.com/kp2469-Kaly)
+[Myungho Bae] (https://github.com/MyunghoBae)
+[adiancodes](https://github.com/adiancodes)
