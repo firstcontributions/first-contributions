@@ -34,6 +34,7 @@
 - [zeyno_trying](https://github.com/zeyno-trying)
 - [Abuji]
 - [Cas]
+- [Shruti]
 - [phanindra]
 - [Masayoshi]
 - [Amélie Avery](https://github.com/amelieav)
