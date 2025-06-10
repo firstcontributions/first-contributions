@@ -1,5 +1,5 @@
 # Contributors
-- [Muaz Islam Babar](https://github.com/Muazislam)
+- [Muaz Islam Babar](https://github.com/Muazislam) im goona use gentoo linux
 - [Samuel Thomas](https://github.com/samthomaz)
 - [Andrew Velez](https://github.com/andrew-velez)
 - [Yagnesh Patel](https://github.com/yagnesh-patel)
