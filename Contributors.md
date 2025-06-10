@@ -11,6 +11,7 @@
 - [Kaloyan Dimitrov](https://github.com/KAKVOKAZA)
 - [AmirAbbas Mashayekhi](https://github.com/AmirAbbas-Mashayekhi)
 - [Tomerog](https://github.com/Tomerog)
+- [Srividhya Srinivasan](https://github.com/vidhyavasan07)
 - [Evan Robertson](https://github.com/eprobertson001)
 - [Khandaker Atik](https://github.com/khandaker-atik)
 - [Suliman S](https://github.com/suliman9683) 
