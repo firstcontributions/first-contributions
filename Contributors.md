@@ -3819,3 +3819,4 @@ random guy
 [Myungho Bae] (https://github.com/MyunghoBae)
 [adiancodes](https://github.com/adiancodes)
 - [Ashrith] (https://github.com/Ashrituh)
+- [Loïc Burnotte](https://github.com/LoicBurnotte)
