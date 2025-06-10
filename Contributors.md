@@ -31,6 +31,7 @@
 - [Ahmed Nosir](https://github.com/egycondor)
 - [Yanick De la Torre](https://github.com/Yank2901)
 - [Nirajan Dhungel](https://github.com/nirajandhungel)
+- [Ishan Kishan](https://github.com/arnavtumbde)
 - [Mandeep Singh](https://github.com/Mandeep-Singh18)
 - [Pranjal Kabra](https://github.com/PranjalKabra)
 - [Kavish Shah](https://github.com/thekavishshah)
