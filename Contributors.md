@@ -2632,6 +2632,7 @@ random guy
 - [17LingShan](https://github.com/17LingShan)
 - [Carlos Camacho](https://github.com/ccamacho02)
 - [Nihal Baranwal](https://github.com/N-I-H-A-L)
+- [Erdem Serin](https://github.com/Erdemthetechguy)
 - [Yong Kheng Beh](https://github.com/Kheng2023)
 - [Murn] (https://github.com/MurnX)
 - [Mykyta Kuznietsov](https://github.com/kuznimyk)
