@@ -57,6 +57,7 @@
 - [Atul Boyal](https://github.com/AtulBoyal)
 - [Rebekah Aung](https://github.com/rebekahaung)
 - [Kushal Jain](https://github.com/KushalJain07)**YOO WE ROLLIN FR! LESSS D00 THIS**
+- [Julien Marodon](https://github.com/JMD-tech)
 - [Tai]
 - [Nobita ](https://faris12333-cloud) - I will contribute to opensource projects until my death
 - [DWNewton](https://github.com/DWNewton) Serenity Now!
