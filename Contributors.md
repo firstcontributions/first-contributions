@@ -1,5 +1,4 @@
 # Contributors
-- [Muaz Islam Babar](https://github.com/Muazislam) im goona use gentoo linux
 - [Samuel Thomas](https://github.com/samthomaz)
 - [Andrew Velez](https://github.com/andrew-velez)
 - [Yagnesh Patel](https://github.com/yagnesh-patel)
@@ -3829,3 +3828,4 @@ random guy
 [adiancodes](https://github.com/adiancodes)
 - [Ashrith] (https://github.com/Ashrituh)
 - [Loïc Burnotte](https://github.com/LoicBurnotte)
+- [Muaz Islam Babar](https://github.com/Muazislam) im goona use gentoo linux
