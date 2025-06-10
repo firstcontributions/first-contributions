@@ -3814,3 +3814,5 @@ random guy
 [Ryleigh] (https://github.com/Ryleigh-alt/)
 - [Myungho Bae] (https://github.com/MyunghoBae)
 [adiancodes](https://github.com/adiancodes)
+- [Eli Vogelhuber](https://github.com/ekarma2)
+
