@@ -1,4 +1,5 @@
 # Contributors
+- [Muaz Islam Babar](https://github.com/Muazislam)
 - [Samuel Thomas](https://github.com/samthomaz)
 - [Andrew Velez](https://github.com/andrew-velez)
 - [Yagnesh Patel](https://github.com/yagnesh-patel)
