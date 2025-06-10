@@ -12,7 +12,10 @@ assignees: Roshanjossey
 
 🐞 **Problem**
 <!--- Provide a detailed description of the change or addition you are proposing -->
-<!--- If it is a feature or a bug, what problem is it solving-->
+<!--- If it is a feature or a bug, what problem is it solving -->
+
+<!--- ⚠️ If you're facing an SSH error like `Permission denied (publickey)`, -->
+<!--- please refer to this guide to set up your SSH key: [SSH Key Setup Guide](../ssh-key-setup.md) -->
 
 🎯 **Goal**
 <!--- Why is this change important to you? How would you use it? -->
