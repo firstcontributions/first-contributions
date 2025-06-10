@@ -1613,6 +1613,7 @@ Matthew Burgos
 - [nokesh](https://github.com/Nokesh11)
 - [tr33k](https://github.com/tr33k)
 - [Vicky Besra](https://github.com/vickybesra)
+- [Gem793](https://github.com/Gem793)
 - [Nick K] (https://github.com/Nick2191)
 - [lsj0202] (https://github.com/lsj0202)
 - [Mike Mertens](https://github.com/mmert9008)
