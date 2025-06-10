@@ -17,7 +17,8 @@
 - [d111kc](https://github.com/d111kc)
 - [Ankur Das](https://github.com/Ankur123unsungDevloper)
 - [Devansh Gaur](https://github.com/Devaur03) will be the king of the pirates.
-- [MRRM]
+ - [Eli Vogelhuber](https://github.com/ekarma2)
+
 - [RusticByte](https://github.com/Davidskumar)
 - [Heng_Xin](https://github.com/HengXin666) 
 - [dguan]
@@ -1477,6 +1478,7 @@ Matthew Burgos
 - [ Anand S](https://github.com/anand1946s)
 - [Samarth Bedare](https://github.com/samarthbedare)
 - Rob Readling
+- [Eli Vogelhuber](https://github.com/ekarma2)
 
 - [Rajinisoumya](https://github.com/Rajinisoumya)
 - [Abhinav Singh](https://github.com/Abhinav-kodes)
@@ -3818,3 +3820,5 @@ random guy
 [Kalyana] (https://github.com/kp2469-Kaly)
 [Myungho Bae] (https://github.com/MyunghoBae)
 [adiancodes](https://github.com/adiancodes)
+- [Eli Vogelhuber](https://github.com/ekarma2)
+
