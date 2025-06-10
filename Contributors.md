@@ -3836,3 +3836,4 @@ random guy
 [adiancodes](https://github.com/adiancodes)
 - [Ashrith] (https://github.com/Ashrituh)
 - [Loïc Burnotte](https://github.com/LoicBurnotte)
+- [Muaz Islam Babar](https://github.com/Muazislam) im goona use gentoo linux
