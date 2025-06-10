@@ -1,4 +1,4 @@
-# Contributors
+# Contributor
 - [Samuel Thomas](https://github.com/samthomaz)
 - [Andrew Velez](https://github.com/andrew-velez)
 - [Yagnesh Patel](https://github.com/yagnesh-patel)
@@ -8,6 +8,7 @@
 - [Tomoaki Kurata](https://github.com/moecute-asmr/)
 - [Piyush Varma](https://github.com/piyushhvarma)
 - [Ismail Salah](https://github.com/msi404)
+- Shreya Khapekar](https://github.com/Shreyakh0356)
 - [Kaloyan Dimitrov](https://github.com/KAKVOKAZA)
 - [AmirAbbas Mashayekhi](https://github.com/AmirAbbas-Mashayekhi)
 - [Evan Robertson](https://github.com/eprobertson001)
