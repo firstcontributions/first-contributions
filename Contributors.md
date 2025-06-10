@@ -2,6 +2,7 @@
 - [Samuel Thomas](https://github.com/samthomaz)
 - [Andrew Velez](https://github.com/andrew-velez)
 - [Yagnesh Patel](https://github.com/yagnesh-patel)
+- [JA Creative](https://github.com/jacreative904)
 - [Brandon Tavares](https://github.com/Btavares64)
 - [KonnorDev](https://github.com/KonnorDev)
 - [Mukul Bhardwaj](https://github.com/MukulB0412)
