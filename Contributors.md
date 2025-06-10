@@ -107,6 +107,7 @@
 - [Hady Hefny](https://github.com/hadyhefny)
 - [AkashGGaonkar]
 - [Omesh Ramlagan](https://github.com/kristovr)
+- [Measum-Shah](https://github.com/Measum-Shah)
 - [Ricky Lam](https://github.com/RickyLam11)
 - [Ayush Premchand](http://github.com/APremchand)
 - [Lucas Lopes](http://github.com/olucaslopes)
