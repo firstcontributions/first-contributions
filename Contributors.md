@@ -25,6 +25,8 @@
 - [Stylianos Vogiatzis](https://github.com/VforVog)
 -[cromano](https://github.com/cromano87)
 - [Semi Venturero](https://github.com/venturero)
+- [Sarvesh](https://github.com/Sarvesh2006)
+- [Sarvesh](https://github.com/Sarvesh2006) GUESS WHO IS HERE...
 - [LittleFish-Coder](https://github.com/LittleFish-Coder)
 - [Blaine Pavlock] (https://github.com/PavlockBlaine03)
 - [Ashish Jha](https://github.com/AshishJha30)
@@ -136,7 +138,7 @@ y- [Eunbin Kwon](https://github.com/eun61n00)
 - [Lia]
 - Betty 
 - Sibi Elwin
-
+- [Paul](https:/github.com/neverleaveualong)
 - [0xHuzaifa](https://github.com/0xHuzaifa)
 
 - WLO (https://github.com/WLO)
@@ -2419,6 +2421,7 @@ Darien Edwards
 - [Edmond Neziraj](https://github.com/EdmondNeziraj)
 - [Kaivan Shah](https://github.com/Kaivanshah1)
 - [Felix Gomez @felixdavid12](https://github.com/felixdavid12)
+- [Siemen Lec](https://github.com/SiemenLec)
 - [doudouCodingInGithub](https://github.com/doudouCodingInGithub)
 - [kaustub03](https://github.com/kaustub03)
 - [Thamyres Christine](https://github.com/ThamyresChristine/)
@@ -3600,3 +3603,5 @@ Darien Edwards
 - [Noflare](https://github.com/Noflare)
 - [Anastazja Glowska](https://github.com/anastazja-glowska)
 - [Lorena Peracho](https://github.com/plorenab)
+[Yunus Aydogdu](https://github.com/aydogduyunus)
+- [Alvi Shams] (https://github.com/alviShams)
