@@ -7,6 +7,7 @@
 - [JA Creative](https://github.com/jacreative904)
 - [Vishwam](https://github.com/vishwamz)
 - [Otto Lukacs](https://github.com/ottolukacs)
+- [Ashi Jain](http://github.com/Ashi-Jain)
 - [Ethan Hom](https://github.com/EthanHom)
 - [mildw428] (https://github.com/mildw428)
 - [Brandon Tavares](https://github.com/Btavares64)
