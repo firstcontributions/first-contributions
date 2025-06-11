@@ -1,5 +1,6 @@
 # Contributors
 - [CHAN](https://github.com/LEECHANHYUNG)
+  [Passarini](https://github.com/m12Passarini)
 - [Minh](https://github.com/remiminh)
 - [Samuel Thomas](https://github.com/samthomaz)
 - [Andrew Velez](https://github.com/andrew-velez)
