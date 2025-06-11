@@ -1,5 +1,6 @@
 # Contributors
 - [CHAN](https://github.com/LEECHANHYUNG)
+- [Minh](https://github.com/remiminh)
 - [Samuel Thomas](https://github.com/samthomaz)
 - [Andrew Velez](https://github.com/andrew-velez)
 - [Yagnesh Patel](https://github.com/yagnesh-patel)
