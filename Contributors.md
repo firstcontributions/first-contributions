@@ -31,6 +31,7 @@
 - [Malvin sehmaluva](https://githu.com/Malvint)
 - [Shivraj Rajbhar](https://github.com/shivrajr1)
 - [Usama Danbaiwa](https://github.com/usamadanbaiwa)
+- [Aneeket Deo](https://github.com/AneeketDeo/first-contributions.git)
 - [Ye-Khaung-Moe](https://github.com/Ye-Khaung-Moe)
 - [Eunju Park](https://github.com/ej23dd)
 - [d111kc](https://github.com/d111kc)
