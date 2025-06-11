@@ -35,6 +35,7 @@
 - [RusticByte](https://github.com/Davidskumar)
 - [Heng_Xin](https://github.com/HengXin666) 
 - [dguan]
+- [veni](https://github.com/veni2412)
 - [Akansha Arora](https://github.com/https://github.com/aroraakansha-27) 
 - [Ragib Gulzar](https://github.com/ragibgulzar) 
 - [zeyno_trying](https://github.com/zeyno-trying)
