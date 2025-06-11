@@ -11,6 +11,7 @@
 - [Tomoaki Kurata](https://github.com/moecute-asmr/)
 - [Piyush Varma](https://github.com/piyushhvarma)
 - [Ismail Salah](https://github.com/msi404)
+- [Vitor Moreira](https://github.com/mmartins-vitor)
 - [Kaloyan Dimitrov](https://github.com/KAKVOKAZA)
 - [AmirAbbas Mashayekhi](https://github.com/AmirAbbas-Mashayekhi)
 - [Tomerog](https://github.com/Tomerog)
