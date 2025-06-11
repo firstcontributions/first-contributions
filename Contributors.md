@@ -1228,6 +1228,7 @@ Matthew Burgos
 - [R F](https://github.com/RF)
 - [Graham Morrison](https://github.com/morpole)
 - [ManueldG](https://github.com/ManueldG)
+- [Mahima](https://github.com/mahima1655/)
 - [Albert Aldor](https://github.com/AlbertAldor)
 - [Jhony Wuanderson](https://github.com/Jhony-wqs)
 - [MazenSamehR](https://github.com/MazenSamehR)
