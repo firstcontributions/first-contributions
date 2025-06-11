@@ -1,6 +1,7 @@
 # Contributors
 - [CHAN](https://github.com/LEECHANHYUNG)
 - [Minh](https://github.com/remiminh)
+- [Devansh Gaur](https://github.com/Devaur03) will be the king of the pirates.
 - [Samuel Thomas](https://github.com/samthomaz)
 - [Andrew Velez](https://github.com/andrew-velez)
 - [Yagnesh Patel](https://github.com/yagnesh-patel)
@@ -33,7 +34,6 @@
 - [Eunju Park](https://github.com/ej23dd)
 - [d111kc](https://github.com/d111kc)
 - [Ankur Das](https://github.com/Ankur123unsungDevloper)
-- [Devansh Gaur](https://github.com/Devaur03) will be the king of the pirates.
 - [MRRM]
 - [RusticByte](https://github.com/Davidskumar)
 - [WillyR777j](https://github.com/WillyR777j/first-contributions)
