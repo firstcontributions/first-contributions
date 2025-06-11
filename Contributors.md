@@ -322,6 +322,7 @@ abu sulaymaan
 - [Aslah Yasar](https://github.com/aslahy)
 - [Heymun Pareek](https://github.com/PareekHeymun)
 - [Prathamesh Rokade](https://github.com/Pratha)
+- [Shehan Wijetunga] (https://github.com/shez-w)
 - [Mohammad Kawash](https://github.com/mohammad-kawach)
 - [Delete-Me](https://github.com/delete-me)
 - [Mate Mrse](https://github.com/senf-f)
