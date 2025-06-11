@@ -44,6 +44,7 @@
 - [chonstar]
 - [Cas]
 - [Shruti]
+- [Felipe Ranzoni Borges](https://github.com/Ranzoni)
 - [phanindra]
 - [Masayoshi]
 - [Amélie Avery](https://github.com/amelieav)
