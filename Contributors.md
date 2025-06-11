@@ -36,6 +36,7 @@
 - [Devansh Gaur](https://github.com/Devaur03) will be the king of the pirates.
 - [MRRM]
 - [RusticByte](https://github.com/Davidskumar)
+- [WillyR777j](https://github.com/WillyR777j/first-contributions)
 - [Heng_Xin](https://github.com/HengXin666) 
 - [dguan]
 - [veni](https://github.com/veni2412)
