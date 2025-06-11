@@ -5,6 +5,7 @@
 - [Yagnesh Patel](https://github.com/yagnesh-patel)
 - [JA Creative](https://github.com/jacreative904)
 - [Ethan Hom](https://github.com/EthanHom)
+- [mildw428] (https://github.com/mildw428)
 - [Brandon Tavares](https://github.com/Btavares64)
 - [KonnorDev](https://github.com/KonnorDev)
 - [Mukul Bhardwaj](https://github.com/MukulB0412)
