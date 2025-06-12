@@ -18,6 +18,7 @@
 - [Stylianos Vogiatzis](https://github.com/VforVog)
 - [Semi Venturero](https://github.com/venturero)
 - [Mariia Shmidt] (https://github.com/markshmidt)
+- [Temba Bavuma]
 - [Atkin](https://github.com/atkin0)
 - [ParthivPatel](https://github.com/arnavtumbde)
 - [Peter Schenk](https://github.com/EinSatzMitX)
