@@ -295,6 +295,7 @@ abu sulaymaan
 - Anderton de Andradas Leoncio (https://github.com/locksher182)
 - Shawn
 - Twisted Frank
+- Khushi Paliwal
 - Comfort Jones
 - Mohamed Ashiq
 - [Brandsrx](https://github.com/brandsrx)
