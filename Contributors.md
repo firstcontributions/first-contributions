@@ -1,4 +1,6 @@
 # Contributors
+- [Aditya](https://github.com/itxadii) Lets Connect coders🚀.
+- [Max](https://github.com/mxpfister) I'm bored
 - [HaiJeng](https://github.com/HaiJeng) Making this commit on 2025-06-12 16:22:49
 - [Raunak](https://github.com/Raunakkumarsingh2005) Making this commit on 12.06.2025 If you are new to open source like me let's get in touch. Connect with me on X(https://x.com/RaunakKumar_27). Dm and we are good to go.
 - [Achal](https://github.com/vx6Fid)
@@ -3877,6 +3879,7 @@ random guy
 - [Iliiasik](https://github.com/Iliiasik)
 - [Namaskruti Pal](https://github.com/namaskrutipal)
 - [Libaan Musa] (https://github.com/libbanm7)
+- [Aisha AQ] (https://github.com/AishaAQ)
 - [Arvind Paraliya] (https://github.com/arvindparaliya)
 - Hi,I'm [Gilbert Wang], Let's grow into towering trees together! (https://github.com/OGAS-45)
 [Benedicta MD] (https://github.com/benedictamd) 
@@ -3901,3 +3904,4 @@ random guy
 - [Raushan](https://github.com/oisitme)
 - [Bansuri S](https://github.com/bansurisenthilkumar) Day one !
 - [Jenny Khanh Nguyen](https://github.com/jennykhanhnguyen)
+- [Pulgiux] (https://github.com/Pulgiux)
