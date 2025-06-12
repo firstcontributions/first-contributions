@@ -86,6 +86,7 @@
 - [Kushal Jain](https://github.com/KushalJain07)**YOO WE ROLLIN FR! LESSS D00 THIS**
 - [Julien Marodon](https://github.com/JMD-tech)
 - [Tai]
+- [Shivani] (https://github.com/shivt-F5) - my first ever commit!! yay!!!
 - [Nobita ](https://faris12333-cloud) - I will contribute to opensource projects until my death
 - [DWNewton](https://github.com/DWNewton) Serenity Now!
 - [Sonali](https://github.com/SonaliDandoriya)
