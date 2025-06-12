@@ -51,6 +51,7 @@
 - [Abuji]
 - [chonstar]
 - [Cas]
+- [debWho] 
 - [Shruti]
 - [Felipe Ranzoni Borges](https://github.com/Ranzoni)
 - [phanindra]
