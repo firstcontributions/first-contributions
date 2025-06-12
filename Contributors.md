@@ -6,6 +6,7 @@
 - [Minh](https://github.com/remiminh)
 - [Samuel Thomas](https://github.com/samthomaz)
 - [SREE VARSHAN V](https://github.com/sreevarshan-xenoz) 
+- [Fabricio Campos](https://github.com/Fabricio21dv/)
 - [Ragnus]
 - [Andrew Velez](https://github.com/andrew-velez)
 - [Yagnesh Patel](https://github.com/yagnesh-patel)
@@ -3894,3 +3895,4 @@ random guy
 - [Nitin](https://github.com/nitin020997) 
 - [Yurikon](https://github.com/Yuri-Kon) I'm willing to do it.
 - [Raul Gabriel](https://github.com/RaulGabriel)
+- [Raushan](https://github.com/oisitme)
