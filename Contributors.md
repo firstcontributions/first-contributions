@@ -3635,6 +3635,7 @@ random guy
 -[Prithika](https://github.com/prithikalambore)
 - S W Rusci
 -[Anuj Jain](https://github.com/anujScript)
+-[Shagufta Tabreen]https://github.com/Shagufta-Tabreen/first-contributions#
 -[Dunsi Taiwo](https://github.com/Oluwadunsi)
 -[ChilliRoger](https://github.com/ChilliRoger)
 - [Sohaib Mahmoud](https://github.com/sohaib077)
