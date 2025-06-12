@@ -3,6 +3,7 @@
   [Passarini](https://github.com/m12Passarini)
 - [Minh](https://github.com/remiminh)
 - [Samuel Thomas](https://github.com/samthomaz)
+- [Ragnus]
 - [Andrew Velez](https://github.com/andrew-velez)
 - [Yagnesh Patel](https://github.com/yagnesh-patel)
 - [JA Creative](https://github.com/jacreative904)
