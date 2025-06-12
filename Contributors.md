@@ -20,6 +20,7 @@
 - [Ismail Salah](https://github.com/msi404)
 - [Vitor Moreira](https://github.com/mmartins-vitor)
 - [Kaloyan Dimitrov](https://github.com/KAKVOKAZA)
+- [Oolazile](https://github.com/Oolazile)
 - [AmirAbbas Mashayekhi](https://github.com/AmirAbbas-Mashayekhi)
 - [Tomerog](https://github.com/Tomerog)
 - [Danjuma](https://github.com/Ufidtech)
