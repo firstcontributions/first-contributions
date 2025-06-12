@@ -142,6 +142,7 @@
 - [Omesh Ramlagan](https://github.com/kristovr)
 - [Ricky Lam](https://github.com/RickyLam11)
 - [Ayush Premchand](http://github.com/APremchand)
+- [Wesley Jason](https://github.com/Wesley-nfj)
 - [Lucas Lopes](http://github.com/olucaslopes)
 - [Joan Stefano Capparelli](https://github.com/ltdab/)
 - [Charan Vengala](https://github.com/1012Charan)
