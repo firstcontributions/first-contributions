@@ -10,6 +10,7 @@
 - [Vishwam](https://github.com/vishwamz)
 - [Otto Lukacs](https://github.com/ottolukacs)
 - [Ashi Jain](http://github.com/Ashi-Jain)
+- [Riya Mundhara](https://github.com/riyamundhara)
 - [Szabolcs Cseres](https://github.com/szabicseres)
 - [Ethan Hom](https://github.com/EthanHom)
 - [mildw428] (https://github.com/mildw428)
