@@ -2,7 +2,7 @@
 - [Harsh Surendran](https://github.com/HarshSurendran) Hey! 
 - [Sahrin Tahiyat Khusi](https://github.com/Sahrin-Tahiyat-Choudhury)git add Contributors.md
 - [Diego_Sosa](https://github.com/Diego19871983) Z-Dev-Coder
-- Anushka Singh (https://github.com/anushkajiyaa) Heyy !!!
+- [Anushka Singh] (https://github.com/anushkajiyaa) Heyy !!!
 - [cheez]
 - [GASTON Stanley] (https://github.com/gastanley) This is my first contribution as a student!!
 - [Kanye west SOrry North] Lets Fork It Boys!!!!
