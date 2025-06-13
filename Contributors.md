@@ -10,6 +10,7 @@
 - [CHAN](https://github.com/LEECHANHYUNG)
   [Passarini](https://github.com/m12Passarini)
 - [Minh](https://github.com/remiminh)
+- [Krishna Chamarthy](https://github.com/KrishnaChamarthy)
 - [Samuel Thomas](https://github.com/samthomaz)
 - [SREE VARSHAN V](https://github.com/sreevarshan-xenoz) 
 - [Fabricio Campos](https://github.com/Fabricio21dv/)
