@@ -1,6 +1,7 @@
 # Contributors
 - [seh maluva](https://github.com/sehmaluva)
 - [Andriamihamina Sébastien](https://github.com/Andriamihamina) The start of a long series of open source contributions.
+- [Anurag] Long way to go!
 - [Aditya](https://github.com/itxadii) Lets Connect coders🚀.
 - [Abhishek](https://github.com/Abhishek-Mishra-GH) This marks the beginning of my open source journy
 - [Max](https://github.com/mxpfister) I'm bored
