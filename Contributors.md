@@ -294,6 +294,7 @@ abu sulaymaan
 - [georgiiparla] (https://github.com/georgiiparla)
 - [OfficialSahilGupta] (https://github.com/OfficialSahilGupta)
 - [Mohammed-Thaha] (https://github.com/Mohammed-Thaha)
+- [Shreya Khapekar](https://github.com/shreyakh0356)s
 - [UTKARSH-at-code] (https://github.com/UTKARSH-at-code)
 - [Hariharan] (https://github.com/hariharan-gts)
 - [FroSty361] (https://github.com/FroSty361)
