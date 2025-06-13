@@ -1,4 +1,5 @@
 # Contributors
+- [seh maluva](https://github.com/sehmaluva)
 - [Andriamihamina Sébastien](https://github.com/Andriamihamina) The start of a long series of open source contributions.
 - [Aditya](https://github.com/itxadii) Lets Connect coders🚀.
 - [Max](https://github.com/mxpfister) I'm bored
@@ -46,7 +47,7 @@
 - [Khandaker Atik](https://github.com/khandaker-atik)
 - [Suliman S](https://github.com/suliman9683) 
 - [Abdelrahman Sharaf](https://github.com/eng-abdelrahman-sharaf)
-- [Malvin sehmaluva](https://githu.com/Malvint)
+- [Malvin sehmaluva](https://github.com/sehmaluva)
 - [Shivraj Rajbhar](https://github.com/shivrajr1)
 - [Usama Danbaiwa](https://github.com/usamadanbaiwa)
 - [Aneeket Deo](https://github.com/AneeketDeo/first-contributions.git)
