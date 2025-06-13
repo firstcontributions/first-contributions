@@ -290,6 +290,7 @@ abu sulaymaan
 - [artem-sitd](https://github.com/artem-sitd)
 - [GhostOcelot](https://github.com/GhostOcelot)
 - [Gunjan](https://github.com/Gunjan125)
+- [AzizB](https://github.com/AzizB283)
 - [Sanghee Son](https://github.com/higangssh)
 - [Charlie Uland](https://github.com/charlesuland)
 - [carrie](https://github.com/MyatNoeKyin)
