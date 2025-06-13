@@ -1,4 +1,5 @@
 # Contributors
+- [Andriamihamina Sébastien](https://github.com/Andriamihamina) The start of a long series of open source contributions.
 - [Aditya](https://github.com/itxadii) Lets Connect coders🚀.
 - [Max](https://github.com/mxpfister) I'm bored
 - [HaiJeng](https://github.com/HaiJeng) Making this commit on 2025-06-12 16:22:49
