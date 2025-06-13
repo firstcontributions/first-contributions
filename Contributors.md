@@ -20,6 +20,7 @@
 - [Riya Mundhara](https://github.com/riyamundhara)
 - [Szabolcs Cseres](https://github.com/szabicseres)
 - [Ethan Hom](https://github.com/EthanHom)
+- [jonvert](https://github.com/jonvert)
 - [mildw428] (https://github.com/mildw428)
 - [Brandon Tavares](https://github.com/Btavares64)
 - [KonnorDev](https://github.com/KonnorDev)
