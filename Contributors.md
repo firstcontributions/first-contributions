@@ -47,6 +47,7 @@
 - [Eunju Park](https://github.com/ej23dd)
 - [d111kc](https://github.com/d111kc)
 - [Ankur Das](https://github.com/Ankur123unsungDevloper)
+- [Andrii Synytsia](https://github.com/AndriiSynytsia)
 - [Devansh Gaur](https://github.com/Devaur03) will be the king of the pirates.
 - [MRRM]
 - [RusticByte](https://github.com/Davidskumar)
