@@ -1,4 +1,5 @@
 # Contributors
+- [seh maluva](https://github.com/sehmaluva)
 - [Samuel Thomas](https://github.com/samthomaz)
 - [Andrew Velez](https://github.com/andrew-velez)
 - [Yagnesh Patel](https://github.com/yagnesh-patel)
