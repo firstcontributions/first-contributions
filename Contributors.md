@@ -1,4 +1,21 @@
 # Contributors
+
+- [Harsh Surendran](https://github.com/HarshSurendran) Hey! 
+- [Sahrin Tahiyat Khusi](https://github.com/Sahrin-Tahiyat-Choudhury)git add Contributors.md
+- [Diego_Sosa](https://github.com/Diego19871983) Z-Dev-Coder
+- [Anushka Singh] (https://github.com/anushkajiyaa) Heyy !!!
+- [cheez]
+- [GASTON Stanley] (https://github.com/gastanley) This is my first contribution as a student!!
+- [Kanye west SOrry North] Lets Fork It Boys!!!!
+- [Jonatas Winston | CyberSecurity | @jonatas_winston](https://github.com/winstonsec)
+- [Juan Morales](https://github.com/JuanMorales1025/first-contributions) This is my first contribution
+- [Sejal Kaur] (https://github.com/Sejalkaur/first-contributions) This is my First Contribution guys.
+- [white-yj8109](https://github.com/white-yj8109/first-contributions) This is my first contribution
+- [Juan Rodriguez](https://github.com/CatConstellation/first-contributions.git) This is my first contribution
+- [Prince Gabecha] I hope it turns out well!!
+- [Jas Singh](https://github.com/TheAlphaJas) Letsgooo 
+- [Harikrishnan J] Haaalo
+- [Ans Joju](https://github.com/ansj99) looking forward to more  contributions!!!
 - [Aditya](https://github.com/itxadii) Lets Connect coders🚀.
 - [Max](https://github.com/mxpfister) I'm bored
 - [HaiJeng](https://github.com/HaiJeng) Making this commit on 2025-06-12 16:22:49
@@ -138,6 +155,7 @@
 - [Solus](https://github.com/Soul2x)>-<REMEMBER ME!!, Remember that i lived...
 - [Gias uddin vuiya](https://github.com/Gias-uddin-vuiya)
 - [Bhavya khandelwal](https://github.com/terminal2299)
+
 
 - [Hady Hefny](https://github.com/hadyhefny)
 - [AkashGGaonkar]
