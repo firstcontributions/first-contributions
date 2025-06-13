@@ -3892,6 +3892,7 @@ random guy
 - [Syttpz] (https://github.com/syttpz)
 - [Iliiasik](https://github.com/Iliiasik)
 - [Namaskruti Pal](https://github.com/namaskrutipal)
+- [Turab Usmani](https://github.com/turab-usmani)
 - [Libaan Musa] (https://github.com/libbanm7)
 - [Aisha AQ] (https://github.com/AishaAQ)
 - [Arvind Paraliya] (https://github.com/arvindparaliya)
