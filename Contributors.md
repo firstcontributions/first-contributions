@@ -3910,3 +3910,4 @@ random guy
 - [Bansuri S](https://github.com/bansurisenthilkumar) Day one !
 - [Jenny Khanh Nguyen](https://github.com/jennykhanhnguyen)
 - [Pulgiux] (https://github.com/Pulgiux)
+- [Angelo Fontoura](https://github.com/angelofontoura)
