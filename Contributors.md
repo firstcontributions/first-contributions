@@ -1485,6 +1485,7 @@ Matthew Burgos
 - [Tristan Henning] (https://github.com/tristanh-code)
 - [Andrew Poly](https://github.com/minakilabs)
 - [Teja Chalikanti](https://github.com/tchalikanti1705)
+- [Ava De La Cruz](https://github.com/adelacruz88)
 - [Jonah Deschenes](https://github.com/JMDeschenes13)
 - [Shubha Bhat](https://github.com/syshubha)
 - [Pravallika Pulipaka](https://github.com/pravallikapulipaka)
