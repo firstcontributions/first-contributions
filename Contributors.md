@@ -17,6 +17,7 @@
 - [SREE VARSHAN V](https://github.com/sreevarshan-xenoz) 
 - [Fabricio Campos](https://github.com/Fabricio21dv/)
 - [Ragnus]
+- [Anish] (https://github.com/anish-eng)
 - [Hadar Pada-el] (https://github.com/HadarPadael)
 - [Andrew Velez](https://github.com/andrew-velez)
 - [Yagnesh Patel](https://github.com/yagnesh-patel)
