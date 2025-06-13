@@ -86,7 +86,7 @@ git push origin <add-your-name>
 將 `<add-your-name>` 替換為之前新建的分支名稱。
 
 <details>
-<summary> <strong>如果在 push（發佈）过程中出 error（錯誤），點擊這裡</strong> </summary>
+<summary> <strong>如果在 push（發佈）過程中出 error（錯誤），點擊這裡</strong> </summary>
 
 - ### Authentication Error
      <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
