@@ -2,6 +2,7 @@
 - [seh maluva](https://github.com/sehmaluva)
 - [Andriamihamina Sébastien](https://github.com/Andriamihamina) The start of a long series of open source contributions.
 - [Anurag] Long way to go!
+- [Vikas Gari](https://github.com/VikasGari) First Contribution (●'◡'●)
 - [Akshada Mane](https://github.com/AkshadaMane26) Starting my open source contribution journey.
 - [Aditya](https://github.com/itxadii) Lets Connect coders🚀.
 - [Abhishek](https://github.com/Abhishek-Mishra-GH) This marks the beginning of my open source journy
