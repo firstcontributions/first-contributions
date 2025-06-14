@@ -18,12 +18,14 @@
 - [SREE VARSHAN V](https://github.com/sreevarshan-xenoz) 
 - [Fabricio Campos](https://github.com/Fabricio21dv/)
 - [Ragnus]
+- [Reshma R](https://github.com/reshma045)
 - [Anish] (https://github.com/anish-eng)
 - [Hadar Pada-el] (https://github.com/HadarPadael)
 - [Andrew Velez](https://github.com/andrew-velez)
 - [Yagnesh Patel](https://github.com/yagnesh-patel)
 - [JA Creative](https://github.com/jacreative904)
 - [Vishwam](https://github.com/vishwamz)
+- [manhtruong03.it](https://github.com/manhtruong03) First contribution on GitHub 14/06/2025
 - [Otto Lukacs](https://github.com/ottolukacs)
 - [Ashi Jain](http://github.com/Ashi-Jain)
 - [Riya Mundhara](https://github.com/riyamundhara)
@@ -1108,6 +1110,7 @@ Matthew Burgos
 - [Syed Ali](https://github.com/Pro-Algorythm)
 - [Aartik saini](https://github.com/aartiksaini)
 - [Samarth Kumbhar](https://github.com/Samarth144)
+- [AZOUZOUL](https://github.com/AZOUZOUL)
 - [Nick Girmes] (https://github.com/ngirmes)
 - [Jonathan B. Liu](https://github.com/JBL168)
 - [katzilipsiz](https://github.com/katzilipsiz)
@@ -3740,6 +3743,7 @@ random guy
 - [Yasser Y](https://github.com/hybridgreen)
 - [Kathleen-HKY](https://github.com/Kathleen-HKY)
 - [Immaculate Munde](https://github.com/munde006)
+- [GamerZord](https://github.com/gamerzord)
 - [Alba Ascaso](https://github.com/AlbaAsca)
 - [KONA](https://github.com/KONA-159)
 - [smehraliyev404](https://github.com/smehraliyev404)
@@ -3939,4 +3943,7 @@ random guy
 - - [Raphaella Costa](https://github.com/raphaellacostaa)
 - [Priyanshu](https://github.com/priyanshu5259)
 - [Gafoor Shaik](https://github.com/gafoor-bot)
-atendeiro91
+- atendeiro91
+- [Squirrelcoding](https://github.com/Squirrelcoding)
+- [Bhavya Sonigra](https://github.com/Bhavya-Sonigra)
+- [Inshal 0x03a](https://github.com/0x03a)
