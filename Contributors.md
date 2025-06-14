@@ -997,6 +997,7 @@ e-Jo
 - [Vamsi](https://github.com/Vamsibuddaraj)
 - [Ahmet Karapınar](https://github.com/KarapinarAhmet)
 - [Gerrod Schirtzinger](https://github.com/GerrodSchirtzingerInsight)
+- [HoneyHoney](https://github.com/honeyHoneyHortiHack) **Yippee!**
 - [Rahul Tiwari](https://github.com/tiwari-Rhul)
 - [Barkn]
 - [Eliozzo]
