@@ -3954,3 +3954,4 @@ random guy
 - [Inshal 0x03a](https://github.com/0x03a)
 - [Shruti Gupta](https://github.com/ShrutiGupta37)
 - [Daniel Larrusso](https://github.com/daniellarrusso)
+- [Halil İbrahim Kutmur](https://github.com/kutmur) — I use Arch btw
