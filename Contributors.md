@@ -11,6 +11,7 @@
 - [Achal](https://github.com/vx6Fid)
 - [Andrea](https://github.com/AndreaBrocal) First contribution on GitHub 13/06/2025
 - [ptrcmahinay](https://github.com/ptrcmahinay) First open source contribution (06.13.25) I WILL BE GOOD AT THIS!
+- [Lahcene Nouali](https://github.com/LahceneNouali)
 - [CHAN](https://github.com/LEECHANHYUNG)
   [Passarini](https://github.com/m12Passarini)
 - [Minh](https://github.com/remiminh)
@@ -68,6 +69,10 @@
 - [RusticByte](https://github.com/Davidskumar)
 - [WillyR777j](https://github.com/WillyR777j/first-contributions) -[Adam Owolabi](https://github.com/AdamOwolabi/first-contributions)
 - [Heng_Xin](https://github.com/HengXin666)
+- [WillyR777j](https://github.com/WillyR777j/first-contributions)
+-[Adam Owolabi](https://github.com/AdamOwolabi/first-contributions)
+- [Heng_Xin](https://github.com/HengXin666) 
+- [Guna_Sai](https://github.com/Guna1301)
 - [dguan]
 - [veni](https://github.com/veni2412)
 - [Akansha Arora](https://github.com/https://github.com/aroraakansha-27)
@@ -3769,5 +3774,8 @@
 - - [Raphaella Costa](https://github.com/raphaellacostaa)
 - [Priyanshu](https://github.com/priyanshu5259)
 - [Gafoor Shaik](https://github.com/gafoor-bot)
+- atendeiro91
 - [Squirrelcoding](https://github.com/Squirrelcoding)
 - [Bhavya Sonigra](https://github.com/Bhavya-Sonigra)
+- [Inshal 0x03a](https://github.com/0x03a)
+- [Shruti Gupta](https://github.com/ShrutiGupta37)
