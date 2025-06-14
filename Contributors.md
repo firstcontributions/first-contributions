@@ -1108,6 +1108,7 @@ Matthew Burgos
 - [Syed Ali](https://github.com/Pro-Algorythm)
 - [Aartik saini](https://github.com/aartiksaini)
 - [Samarth Kumbhar](https://github.com/Samarth144)
+- [AZOUZOUL](https://github.com/AZOUZOUL)
 - [Nick Girmes] (https://github.com/ngirmes)
 - [Jonathan B. Liu](https://github.com/JBL168)
 - [katzilipsiz](https://github.com/katzilipsiz)
