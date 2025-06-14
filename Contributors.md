@@ -3945,3 +3945,4 @@ random guy
 - [Gafoor Shaik](https://github.com/gafoor-bot)
 - [Squirrelcoding](https://github.com/Squirrelcoding)
 - [Bhavya Sonigra](https://github.com/Bhavya-Sonigra)
+- [Inshal 0x03a](https://github.com/0x03a)
