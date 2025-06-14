@@ -1,5 +1,6 @@
 # Contributors
 - [seh maluva](https://github.com/sehmaluva)
+- [Syed Salman Reza](https://github.com/syed-reza98)
 - [Andriamihamina Sébastien](https://github.com/Andriamihamina) The start of a long series of open source contributions.
 - [Anurag] Long way to go!
 - [Akshada Mane](https://github.com/AkshadaMane26) Starting my open source contribution journey.
