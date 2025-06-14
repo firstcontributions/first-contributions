@@ -3740,6 +3740,7 @@ random guy
 - [Yasser Y](https://github.com/hybridgreen)
 - [Kathleen-HKY](https://github.com/Kathleen-HKY)
 - [Immaculate Munde](https://github.com/munde006)
+- [GamerZord](https://github.com/gamerzord)
 - [Alba Ascaso](https://github.com/AlbaAsca)
 - [KONA](https://github.com/KONA-159)
 - [smehraliyev404](https://github.com/smehraliyev404)
