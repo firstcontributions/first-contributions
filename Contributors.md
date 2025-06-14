@@ -10,6 +10,7 @@
 - [Achal](https://github.com/vx6Fid)
 - [Andrea](https://github.com/AndreaBrocal) First contribution on GitHub 13/06/2025
 - [ptrcmahinay](https://github.com/ptrcmahinay) First open source contribution (06.13.25) I WILL BE GOOD AT THIS!
+- [Lahcene Nouali](https://github.com/LahceneNouali)
 - [CHAN](https://github.com/LEECHANHYUNG)
   [Passarini](https://github.com/m12Passarini)
 - [Minh](https://github.com/remiminh)
