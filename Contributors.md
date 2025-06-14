@@ -89,6 +89,8 @@
 - [Abhi K](https://github.com/AbhiK1237) **This is just the beginning** 
 - [Gaurav](https://github.com/gauravkrsingh321) **Open Source Contribution**
 - [Tubhyam Jain](https://github.com/tubhyam14)**New Here...** 
+- [Hassan Aniri](https://github.com/HassanAmirii)**well cheers to first contribution 🍻...** 
+
 - [Sweta goswami] This is my first contribution hope to do more on real world projects ....
 - [Yourself] First contribution ...
 - [Wyn Mars] (https://github.com/WynMars/) Cheer up, don't give in
