@@ -87,6 +87,7 @@
 - [chonstar]
 - [Cas]
 - [debWho] 
+- [Kieran Edge](https://github.com/KieranEdge)
 - [Shruti]
 - [Felipe Ranzoni Borges](https://github.com/Ranzoni)
 - [phanindra]
