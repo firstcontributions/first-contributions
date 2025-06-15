@@ -3965,3 +3965,4 @@ random guy
 - [Daniel Larrusso](https://github.com/daniellarrusso)
 - [shreekrishna](https://github.com/sreekrishnah)
 - [Kimaya Chavan](https://github.com/kimiko-11)
+- [Tan Loc](https://github.com/htloc98)
