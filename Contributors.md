@@ -20,13 +20,15 @@
 - [Lahcene Nouali](https://github.com/LahceneNouali)
 - [LKA](https://github.com/LK-stack399)
 - [CHAN](https://github.com/LEECHANHYUNG)
-  [Passarini](https://github.com/m12Passarini)
+-  [Passarini](https://github.com/m12Passarini)
+- It's Me
 - [Minh](https://github.com/remiminh)
 - [Krishna Chamarthy](https://github.com/KrishnaChamarthy)
 - [Samuel Thomas](https://github.com/samthomaz)
 - [SREE VARSHAN V](https://github.com/sreevarshan-xenoz) 
 - [Fabricio Campos](https://github.com/Fabricio21dv/)
 - [Ragnus]
+- [Vipin Sao](https://github.com/vipinsao) First open source contribution, Now from here going to contribute in various open source projets.
 - [bochard](https://github.com/b0chard)
 - [Saanvi] First contribution.
 - [Reshma R](https://github.com/reshma045)
