@@ -245,6 +245,7 @@ Mubarak Qorane
 - [Bani](https://github.com/babanini95)
 - [gitty98]noice
 - [Ancil](https://github.com/iamancil)
+- [androvonx95](https://github.com/androvonx95) – **__ I use Arch btw 🗿🗿🗿🗿 __**
 - [Robyn](https://github.com/RBodde)
 - [Snowsita](https://github.com/Snowsita)
 - [VictorMontoya](https://github.com/alonvico)
