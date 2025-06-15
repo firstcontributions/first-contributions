@@ -7,6 +7,7 @@
 - [seh maluva](https://github.com/sehmaluva)
 - [Syed Salman Reza](https://github.com/syed-reza98)
 - [Andriamihamina Sébastien](https://github.com/Andriamihamina) The start of a long series of open source contributions.
+- [Zeeshan Jumabhoy](https://github.com/ZeeshanJumabhoy) My first contri
 - [Anurag] Long way to go!
 -[Ayush Mishra] IIITDM IS HERE!
 - [Belbacha Sofian](https://github.com/SofianBelbacha) First open source contribution -	 GitHub 15/06/25
