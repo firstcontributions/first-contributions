@@ -203,6 +203,7 @@
 - [Aryan Pal] (https://github.com/aryanpal-7)
 - [Bhuvaneshwar Venkatraman] (https://github.com/bhuvnsh)
 - [Peter Schenk](https://github.com/EinSatzMitX)
+- [S Madhavan](https://github.com/smadhavan1)
 - [Andy Chen](https://github.com/tjcchen)
 - [Ganesh Magar](https://github.com/GaneshM2714)
 - [Vvslaxman](https://github.com/Vvslaxman)
