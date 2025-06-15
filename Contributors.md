@@ -2896,3 +2896,4 @@ Darien Edwards
 - [zep](https://github.com/zepredos)
 - [Rahul Chauhan](https://github.com/Rahul0-01)
 - [Jon Hay](https://github.com/jonhayjr)
+- [Eric W Chan] (https://github.com/doggyeliot)
