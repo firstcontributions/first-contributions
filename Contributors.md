@@ -63,6 +63,7 @@
 - [Evan Robertson](https://github.com/eprobertson001)
 - [Khandaker Atik](https://github.com/khandaker-atik)
 - [Suliman S](https://github.com/suliman9683) 
+- [chloetychang](https://github.com/chloetychang)
 - [Abdelrahman Sharaf](https://github.com/eng-abdelrahman-sharaf)
 - [Malvin sehmaluva](https://github.com/sehmaluva)
 - [Shivraj Rajbhar](https://github.com/shivrajr1)
