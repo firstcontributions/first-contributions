@@ -25,6 +25,7 @@
 - [SREE VARSHAN V](https://github.com/sreevarshan-xenoz) 
 - [Fabricio Campos](https://github.com/Fabricio21dv/)
 - [Ragnus]
+- [bochard](https://github.com/b0chard)
 - [Saanvi] First contribution.
 - [Reshma R](https://github.com/reshma045)
 - [Anish] (https://github.com/anish-eng)
