@@ -20,7 +20,8 @@
 - [Lahcene Nouali](https://github.com/LahceneNouali)
 - [LKA](https://github.com/LK-stack399)
 - [CHAN](https://github.com/LEECHANHYUNG)
-  [Passarini](https://github.com/m12Passarini)
+-  [Passarini](https://github.com/m12Passarini)
+- It's Me
 - [Minh](https://github.com/remiminh)
 - [Krishna Chamarthy](https://github.com/KrishnaChamarthy)
 - [Samuel Thomas](https://github.com/samthomaz)
