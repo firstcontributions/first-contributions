@@ -1,6 +1,7 @@
 # Contributors
 - [Anurag Raut](https://github.com/anurag-raut1) First Contribution...
 - [Srihari Venkatesan](https://github.com/MayaDisepler)
+- [Navya_A](https://github.com/NavyaA1896) My first contribution to open source on 15/06/2025!
 - [seh maluva](https://github.com/sehmaluva)
 - [Syed Salman Reza](https://github.com/syed-reza98)
 - [Andriamihamina Sébastien](https://github.com/Andriamihamina) The start of a long series of open source contributions.
