@@ -775,6 +775,7 @@ Mohamed Farah
  -[Anting Deng](https://github.com/Twilight521)
  -[Baldur Logi](https://github.com/baldurlogi)
  -[Aditya Pawar](https://github.com/AdityaByte)
+ -[W Hansen](https://github.com/BigBrothersen)
  -[Abhijit Tupe](https://github.com/abhijittupe)
  -[Omprakash Kadur](https://github.com/OmprakashKadur)
  -[Atsu-Taiyo] (https://github.com/Atsu-Taiyo)
