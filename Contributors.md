@@ -209,6 +209,7 @@
   Essa Faisal Isa Ali Aden
   Bukhaari Issa
   Saed Mahamed
+  Luqman Mohammed
 - [Denis Bonate](https://github.com/dbonate)
 - [Nimish2098](https://github.com/Nimish2098)
 - [Rushabh Shah](https://github.com/rushabhshah007)
