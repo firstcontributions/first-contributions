@@ -1,4 +1,5 @@
 # Contributors
+- [Srihari Venkatesan](https://github.com/MayaDisepler)
 - [seh maluva](https://github.com/sehmaluva)
 - [Syed Salman Reza](https://github.com/syed-reza98)
 - [Andriamihamina Sébastien](https://github.com/Andriamihamina) The start of a long series of open source contributions.
