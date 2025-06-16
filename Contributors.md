@@ -271,6 +271,7 @@ Mubarak Qorane
 - [Bani](https://github.com/babanini95)
 - [gitty98]noice
 - [Ancil](https://github.com/iamancil)
+- [Om Borse](https://github.com/Om-Borse26) My first contribution to open source!
 - [androvonx95](https://github.com/androvonx95) – **__ I use Arch btw 🗿🗿🗿🗿 __**
 - [Robyn](https://github.com/RBodde)
 - [Snowsita](https://github.com/Snowsita)
@@ -513,8 +514,8 @@ Mohamed Farah
  -[NotIshaan - Ishaan Bhadrike] (https://github.com/NotIshaan)
  - [Neel Bhattacharya](https://github.com/Neel-max-cpu)
  - [Sanjay AR](https://github.com/Sanjay-AnanthavijayanRamesh)
- -[FluffySce - Farhan Khan](https://github.com/FluffySce)
- -[Cat Young](https://github.com/CatYoung018/CatYoung018)
+-[FluffySce - Farhan Khan](https://github.com/FluffySce)
+-[Cat Young](https://github.com/CatYoung018/CatYoung018)
 -[Rohit Lal](https://github.com/rohitllal)
 -[Tony Karanja]
 - [GoldenAppler] (https://github.com/GoldenAppler-Eng)
