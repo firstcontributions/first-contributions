@@ -21,6 +21,7 @@
 - [Belbacha Sofian](https://github.com/SofianBelbacha) First open source contribution -	 GitHub 15/06/25
 - [Vikas Gari](https://github.com/VikasGari) First Contribution (●'◡'●)
 - [Akshada Mane](https://github.com/AkshadaMane26) Starting my open source contribution journey.
+- [Thinzar](https://github.com/Thinzar-Shun-Lei)
 - [Aditya](https://github.com/itxadii) Lets Connect coders🚀.
 - [Abhishek](https://github.com/Abhishek-Mishra-GH) This marks the beginning of my open source journy
 - [Max](https://github.com/mxpfister) I'm bored
