@@ -1,4 +1,5 @@
 # Contributors
+
 - [Aleena Ali Azeem](https://github.com/aleenaazeem) Heya, Welcome to first of many contributions. Good luck :D.
 - [Mathues Justin Hasda](https://github.com/hasdajustin) Hello World! This is my first contribution to open source!
 - [Amritanshu Goutam](https://github.com/bhutuklearning) Hii Everyone.
@@ -23,6 +24,7 @@
 - [Akshada Mane](https://github.com/AkshadaMane26) Starting my open source contribution journey.
 - [Thinzar](https://github.com/Thinzar-Shun-Lei)
 - [Aditya](https://github.com/itxadii) Lets Connect coders🚀.
+- [Gregory](https://github.com/gregory-7)
 - [Abhishek](https://github.com/Abhishek-Mishra-GH) This marks the beginning of my open source journy
 - [Max](https://github.com/mxpfister) I'm bored
 - [Shriya Ramesh] (https://github.com/ShriyaRamesh123) Making my first commit.
