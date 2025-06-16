@@ -5,6 +5,7 @@
 - [Soham Padalikar](https://github.com/Soham204) Hello World
 - [Prabhneet Singh ](https://github.com/neet1313)Practicing to contribute for Open Source.
 - [IGBUDU CHIBUZOR](https://github.com/thechibuzor1) My first open source contribution!!
+- [Ilana de Beer](https://github.com/LlamaIlana) Hello, Welcome to first of many contributions. 
 - [Anurag Raut](https://github.com/anurag-raut1) First Contribution...
 - [Srihari Venkatesan](https://github.com/MayaDisepler)
 - [Navya_A](https://github.com/NavyaA1896) My first contribution to open source on 15/06/2025!
@@ -14,17 +15,21 @@
 - [Andriamihamina Sébastien](https://github.com/Andriamihamina) The start of a long series of open source contributions.
 - [Zeeshan Jumabhoy](https://github.com/ZeeshanJumabhoy) My first contri
 - [Anurag] Long way to go!
+-[MICK RYAN] - Adding name!!!!
 -[Ayush Mishra] IIITDM IS HERE!
 -[Jaideep](https://github.com/jai3546) Hello fellow developers!This marks my first contribution in github journey and yours too..
 - [Belbacha Sofian](https://github.com/SofianBelbacha) First open source contribution -	 GitHub 15/06/25
 - [Vikas Gari](https://github.com/VikasGari) First Contribution (●'◡'●)
 - [Akshada Mane](https://github.com/AkshadaMane26) Starting my open source contribution journey.
+- [Thinzar](https://github.com/Thinzar-Shun-Lei)
 - [Aditya](https://github.com/itxadii) Lets Connect coders🚀.
 - [Abhishek](https://github.com/Abhishek-Mishra-GH) This marks the beginning of my open source journy
 - [Max](https://github.com/mxpfister) I'm bored
+- [Shriya Ramesh] (https://github.com/ShriyaRamesh123) Making my first commit.
 - [HaiJeng](https://github.com/HaiJeng) Making this commit on 2025-06-12 16:22:49
 - [Raunak](https://github.com/Raunakkumarsingh2005) Making this commit on 12.06.2025 If you are new to open source like me let's get in touch. Connect with me on X(https://x.com/RaunakKumar_27). Dm and we are good to go.
 - [Achal](https://github.com/vx6Fid)
+- [Srilekha]
 - [Andrea](https://github.com/AndreaBrocal) First contribution on GitHub 13/06/2025
 - [ptrcmahinay](https://github.com/ptrcmahinay) First open source contribution (06.13.25) I WILL BE GOOD AT THIS!
 - [Lahcene Nouali](https://github.com/LahceneNouali)
@@ -33,6 +38,8 @@
 -  [Passarini](https://github.com/m12Passarini)
 - It's Me
 - [Minh](https://github.com/remiminh)
+- [Maheswara](https://github.com/dctn/) This is my first open-source contribution
+- [Divesh Saini](https://github.com/diveshsaini1991) Hello fellow developers! Lets Connect
 - [Krishna Chamarthy](https://github.com/KrishnaChamarthy)
 - [Samuel Thomas](https://github.com/samthomaz)
 - [SREE VARSHAN V](https://github.com/sreevarshan-xenoz) 
@@ -74,6 +81,7 @@
 - [Srividhya Srinivasan](https://github.com/vidhyavasan07)
 - [Evan Robertson](https://github.com/eprobertson001)
 - [Khandaker Atik](https://github.com/khandaker-atik)
+- [Sarvagna Vemula](https://github.com/VemulaSarvagna)
 - [Suliman S](https://github.com/suliman9683) 
 - [chloetychang](https://github.com/chloetychang)
 - [Abdelrahman Sharaf](https://github.com/eng-abdelrahman-sharaf)
@@ -1992,6 +2000,7 @@ Matthew Burgos
 - [Ritesh Raj Dwivedi](https://github.com/riteshrajd)
 - [Luís Oliveira](https://github.com/LuisCarlosOliveira)
 - [hectoru10](https://github.com/Hectoru10)
+- [Ifeoma-Chidera](https://github.com/ifaycodes)
 - [Ahorts](https://github.com/Ahorts)
 - [widespectrum](https://github.com/widespctr)
 - [rinujohn](https://github.com/rinujohn)
@@ -2101,6 +2110,7 @@ Darien Edwards
 - [Nimisha](https://github.com/codehusler14)
 - [Bhavishay Bharti](https://github.com/bhavi-b)
 - [Shrushti Jadhav](https://github.com/shrushtijadhavv)
+- [Def1] (https://github.com/Def1s1)
 - [Dr4kfire](https://github.com/dr4kfire)
 - [Shaswat Raj](https://github.com/sh20raj)
 - [Ajay Dongare](https://github.com/GluconicAcid)
@@ -4002,4 +4012,5 @@ random guy
 - Merary
 - [Balina Sai Charan](https://github.com/charan22640)
 - [Saikat Bhattacharjee](https://github.com/saikat1993)
+- [Santhosh Kumar Karthikeyan](https://github.com/santhosh-kumar-karthikeyan)
 - [Numan Khan](https://github.com/Nuu-maan)
