@@ -36,6 +36,7 @@
 - [Ragnus]
 - [Vipin Sao](https://github.com/vipinsao) First open source contribution, Now from here going to contribute in various open source projets.
 - [bochard](https://github.com/b0chard)
+- [Akanksha] (https://github.com/Akanksha928) Let's go! 
 - [Saanvi] First contribution.
 - [Reshma R](https://github.com/reshma045)
 - [Anish] (https://github.com/anish-eng)
