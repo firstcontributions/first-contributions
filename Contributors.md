@@ -12,7 +12,6 @@
 - [Zeeshan Jumabhoy](https://github.com/ZeeshanJumabhoy) My first contri
 - [Anurag] Long way to go!
 -[Ayush Mishra] IIITDM IS HERE!
-
 - [Belbacha Sofian](https://github.com/SofianBelbacha) First open source contribution -	 GitHub 15/06/25
 - [Vikas Gari](https://github.com/VikasGari) First Contribution (●'◡'●)
 - [Akshada Mane](https://github.com/AkshadaMane26) Starting my open source contribution journey.
