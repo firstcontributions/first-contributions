@@ -1,6 +1,7 @@
 # Contributors
 - [Mathues Justin Hasda](https://github.com/hasdajustin) Hello World! This is my first contribution to open source!
 - [Soham Padalikar](https://github.com/Soham204) Hello World
+- [Prabhneet Singh ](https://github.com/neet1313)Practicing to contribute for Open Source.
 - [Anurag Raut](https://github.com/anurag-raut1) First Contribution...
 - [Srihari Venkatesan](https://github.com/MayaDisepler)
 - [Navya_A](https://github.com/NavyaA1896) My first contribution to open source on 15/06/2025!
