@@ -295,6 +295,7 @@ Mubarak Qorane
 - [Caio Dorfmam](https://github.com/dorfmam)
 - [Siddharth](https://github.com/siddharth2835)
 - [arnavtumbde](https://github.com/arnavtumbde)
+- [avoysasmal](https://github.com/Avoy-Sasmal)
 - [SethMSC](https://github.com/SethMSC)
 - [Sarthak](https://github.com/SarthakMiglani)
 - [NidaSiddiquee](https://github.com/Nida-siddiquee)
