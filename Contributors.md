@@ -1,4 +1,20 @@
 # Contributors
+- [Harsh Surendran](https://github.com/HarshSurendran) Hey! 
+- [Sahrin Tahiyat Khusi](https://github.com/Sahrin-Tahiyat-Choudhury)git add Contributors.md
+- [Diego_Sosa](https://github.com/Diego19871983) Z-Dev-Coder
+- [Anushka Singh] (https://github.com/anushkajiyaa) Heyy !!!
+- [cheez]
+- [GASTON Stanley] (https://github.com/gastanley) This is my first contribution as a student!!
+- [Kanye west SOrry North] Lets Fork It Boys!!!!
+- [Jonatas Winston | CyberSecurity | @jonatas_winston](https://github.com/winstonsec)
+- [Juan Morales](https://github.com/JuanMorales1025/first-contributions) This is my first contribution
+- [Sejal Kaur] (https://github.com/Sejalkaur/first-contributions) This is my First Contribution guys.
+- [white-yj8109](https://github.com/white-yj8109/first-contributions) This is my first contribution
+- [Juan Rodriguez](https://github.com/CatConstellation/first-contributions.git) This is my first contribution
+- [Prince Gabecha] I hope it turns out well!!
+- [Jas Singh](https://github.com/TheAlphaJas) Letsgooo 
+- [Harikrishnan J] Haaalo
+- [Ans Joju](https://github.com/ansj99) looking forward to more  contributions!!!
 - [Aleena Ali Azeem](https://github.com/aleenaazeem) Heya, Welcome to first of many contributions. Good luck :D.
 - [Mathues Justin Hasda](https://github.com/hasdajustin) Hello World! This is my first contribution to open source!
 - [Amritanshu Goutam](https://github.com/bhutuklearning) Hii Everyone.
