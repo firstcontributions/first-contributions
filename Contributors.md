@@ -24,6 +24,7 @@
 - [Aditya](https://github.com/itxadii) Lets Connect coders🚀.
 - [Abhishek](https://github.com/Abhishek-Mishra-GH) This marks the beginning of my open source journy
 - [Max](https://github.com/mxpfister) I'm bored
+- [Shriya Ramesh] (https://github.com/ShriyaRamesh123) Making my first commit.
 - [HaiJeng](https://github.com/HaiJeng) Making this commit on 2025-06-12 16:22:49
 - [Raunak](https://github.com/Raunakkumarsingh2005) Making this commit on 12.06.2025 If you are new to open source like me let's get in touch. Connect with me on X(https://x.com/RaunakKumar_27). Dm and we are good to go.
 - [Achal](https://github.com/vx6Fid)
