@@ -1998,6 +1998,7 @@ Matthew Burgos
 - [Ritesh Raj Dwivedi](https://github.com/riteshrajd)
 - [Luís Oliveira](https://github.com/LuisCarlosOliveira)
 - [hectoru10](https://github.com/Hectoru10)
+- [Ifeoma-Chidera](https://github.com/ifaycodes)
 - [Ahorts](https://github.com/Ahorts)
 - [widespectrum](https://github.com/widespctr)
 - [rinujohn](https://github.com/rinujohn)
