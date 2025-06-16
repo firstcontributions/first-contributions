@@ -2706,6 +2706,7 @@ random guy
 - [Cameron Johnson](https://github.com/will-fork-for-food)
 - [Ignacio Elìas Rosner](https://github.com/roznerx)
 - [annieyii](https://github.com/annieyii/first-contributions)
+- [Divyansh Chauhan](https://github.com/kami123kaze)
 - [MTHS](https://github.com/MTHS)
 - [Aristide Legba](https://github.com/aristidelegba)
 - [EvinExiNiTy](https://github.com/Evinexinity)
