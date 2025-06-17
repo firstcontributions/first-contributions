@@ -39,6 +39,7 @@
 - [Achal](https://github.com/vx6Fid)
 - [Srilekha]
 - [Andrea](https://github.com/AndreaBrocal) First contribution on GitHub 13/06/2025
+- [Gab](https://github.com/gabrielalibero)
 - [ptrcmahinay](https://github.com/ptrcmahinay) First open source contribution (06.13.25) I WILL BE GOOD AT THIS!
 - [Lahcene Nouali](https://github.com/LahceneNouali)
 - [Per Cedersund](https://github.com/perceder)
