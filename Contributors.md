@@ -13,6 +13,7 @@
 - [Srihari Venkatesan](https://github.com/MayaDisepler)
 - [Navya_A](https://github.com/NavyaA1896) My first contribution to open source on 15/06/2025!
 - [seh maluva](https://github.com/sehmaluva)
+- [Daniel W](https://github.com/Daniel041516)
 - [Jagannath Pridhviraj](https://github.com/jagannathPridh18)
 - [Syed Salman Reza](https://github.com/syed-reza98)
 - [Andriamihamina Sébastien](https://github.com/Andriamihamina) The start of a long series of open source contributions.
