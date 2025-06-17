@@ -18,6 +18,7 @@
 - [Srihari Venkatesan](https://github.com/MayaDisepler)
 - [Navya_A](https://github.com/NavyaA1896) My first contribution to open source on 15/06/2025!
 - [seh maluva](https://github.com/sehmaluva)
+- [Luan Fernandes](https://github.com/https-Luan-Fernandes) Hello from Brazil! <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brasil" width="30"/>
 - [Daniel W](https://github.com/Daniel041516)
 - [Ken Li] Let's get started!
 - [glarerena](https://github.com/glarerena)
