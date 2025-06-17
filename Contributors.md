@@ -48,6 +48,7 @@
 - [Maheswara](https://github.com/dctn/) This is my first open-source contribution
 - [Divesh Saini](https://github.com/diveshsaini1991) Hello fellow developers! Lets Connect
 - [Krishna Chamarthy](https://github.com/KrishnaChamarthy)
+- [vikas bansode](https://github.com/Vikass19) now learned how to contribute in open source projects.lets connect together and make a freelance boom on upwork connect with for colloboration.
 - [Samuel Thomas](https://github.com/samthomaz)
 - [SREE VARSHAN V](https://github.com/sreevarshan-xenoz) 
 - [Fabricio Campos](https://github.com/Fabricio21dv/)
