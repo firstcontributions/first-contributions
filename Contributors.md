@@ -1,6 +1,7 @@
 # Contributors
 -[Hariprasad Duvvuru](https://github.com/Hari0546)  I am learing Git and GitHub!!
 - [Purandar Sai](https://github.com/Purandhar17) Hello World!!
+- [Abhishek Kumar Paswan](https://github.com/Abhishekkumarpaswan) My first open source contribution on 18/06/2025! 12:40 AM
 - [Matheus Knaul] (https://github.com/matheusknaul) My First open source!!
 - [Adarsh](https://github.com/Fire-furo) My first contribution to open source on 17/06/2025!
 - [Aleena Ali Azeem](https://github.com/aleenaazeem) Heya, Welcome to first of many contributions. Good luck :D.
