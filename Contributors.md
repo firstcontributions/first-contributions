@@ -1,5 +1,6 @@
 # Contributors
 - [Purandar Sai](https://github.com/Purandhar17) Hello World!!
+- [Mohamed_amine](https://github.com/AmineDELTA) 17/06/2025 first contribution to open source, lets see how this journey goes!
 - [Matheus Knaul] (https://github.com/matheusknaul) My First open source!!
 - [Adarsh](https://github.com/Fire-furo) My first contribution to open source on 17/06/2025!
 - [Aleena Ali Azeem](https://github.com/aleenaazeem) Heya, Welcome to first of many contributions. Good luck :D.
@@ -57,6 +58,7 @@
 - [Ragnus]
 - [Vipin Sao](https://github.com/vipinsao) First open source contribution, Now from here going to contribute in various open source projets.
 - [bochard](https://github.com/b0chard)
+- [Mohamed_amine](https://github.com/AmineDELTA)
 - [Akanksha] (https://github.com/Akanksha928) Let's go! 
 - [Saanvi] First contribution.
 - [Reshma R](https://github.com/reshma045)
