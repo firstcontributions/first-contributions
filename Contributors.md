@@ -4037,4 +4037,6 @@ random guy
 - [Diksha Rani](https://github.com/diksha-0420)
 - [Suresh Jagannadham](https://github.com/sureshjagannadham)
 - [Brandon Song] (https://github.com/defkorean)
-- [Mayuri Khandelwal] (https://github.com/khandelwalmayuri) Thankyou for creating this repository, Code is like humor. When you have to explain it, it’s bad and that's why every project has a readme 
+- [Mayuri Khandelwal] (https://github.com/khandelwalmayuri)
+- [Furkan Camcıoğlu](https://github.com/furkancmc)
+ Thankyou for creating this repository, Code is like humor. When you have to explain it, it’s bad and that's why every project has a readme 
