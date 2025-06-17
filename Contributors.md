@@ -4040,3 +4040,4 @@ random guy
 - [Suresh Jagannadham](https://github.com/sureshjagannadham)
 - [Brandon Song] (https://github.com/defkorean)
 - [Mayuri Khandelwal] (https://github.com/khandelwalmayuri) Thankyou for creating this repository, Code is like humor. When you have to explain it, it’s bad and that's why every project has a readme 
+- [Amit Kumar Deo](https://github.com/22AmitDeo)
