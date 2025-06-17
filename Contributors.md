@@ -2111,6 +2111,7 @@ Darien Edwards
 - [Edgar Flores](https://github.com/efloresCSE)
 - [Sai Khay Khun Mong](https://github.com/KhayKhun)
 - [Jewel Geea George](https://github.com/)
+- [Itay Levi](https://github.com/ItayLHdev)
 - [Kyrylo Sorokovskyi](https://github.com/sumdeusvitae)
 - [Federico](https://github.com/Fede2717)
 - [Liquuid1](https://github.com/Liquuid1)
