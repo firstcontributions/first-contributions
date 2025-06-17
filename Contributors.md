@@ -67,7 +67,7 @@
 - [phanindra]
 - [Masayoshi]
 - [Amélie Avery](https://github.com/amelieav)
-- [Maulik Beladiya](https://github.com/maulikb). Let's build tomorrow now.
+- [Maulik Beladiya](https://github.com/maulikb). Added My FIrst COntribution .
 - [Courtney Daniels](https://github.com/cdjdaniels)
 - Hi! I'm [Ham Seoyeon](https://github.com/makee-ham). Just to clarify — I'm not that kind of *ham*🐷😉
 - [Priyanshu Bhatt] First contribution, will do more and more in future and present.
