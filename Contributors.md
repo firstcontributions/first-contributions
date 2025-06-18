@@ -33,6 +33,7 @@
 - [Ravi Shastri](https://github.com/arnavtumbde)
 - [Ahmed Nosir](https://github.com/egycondor)
 - [Yanick De la Torre](https://github.com/Yank2901)
+- [MumbaiIndians]
 - [Nirajan Dhungel](https://github.com/nirajandhungel)
 - [Ishan Kishan](https://github.com/arnavtumbde)
 - [Mandeep Singh](https://github.com/Mandeep-Singh18)
