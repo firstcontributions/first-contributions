@@ -144,6 +144,7 @@
 - [chonstar]
 - [Cas]
 - [debWho] 
+- [Linnea Johansson](https://github.com/lmvjohansson) Hello from Sweden!
 - [Kieran Edge](https://github.com/KieranEdge)
 - [Shruti]
 - [Felipe Ranzoni Borges](https://github.com/Ranzoni)
