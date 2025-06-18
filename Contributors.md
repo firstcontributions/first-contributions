@@ -32,6 +32,7 @@
 - [Zeeshan Jumabhoy](https://github.com/ZeeshanJumabhoy) My first contri
 - [ParadoxicalParticle](https://github.com/ParadoxicalParticle) happens
 - [Anurag] Long way to go!
+- [Kub1no23](https://github.com/Kub1no23) 18/6/2025
 -[MICK RYAN] - Adding name!!!!
 -[Ayush Mishra] IIITDM IS HERE!
 - [Willian R](https://github.com/WillR-forget) For a new Beginning.
