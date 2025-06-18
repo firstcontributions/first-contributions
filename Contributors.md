@@ -27,6 +27,7 @@
 - [Syed Salman Reza](https://github.com/syed-reza98)
 - [Andriamihamina Sébastien](https://github.com/Andriamihamina) The start of a long series of open source contributions.
 - [Zeeshan Jumabhoy](https://github.com/ZeeshanJumabhoy) My first contri
+- [ParadoxicalParticle](https://github.com/ParadoxicalParticle) happens
 - [Anurag] Long way to go!
 -[MICK RYAN] - Adding name!!!!
 -[Ayush Mishra] IIITDM IS HERE!
