@@ -97,6 +97,7 @@
 - [Piyush Varma](https://github.com/piyushhvarma)
 - [Ismail Salah](https://github.com/msi404)
 - [Vitor Moreira](https://github.com/mmartins-vitor)
+- [Pravalika Reddy](https://github.com/pravalikareddym)
 - [Kaloyan Dimitrov](https://github.com/KAKVOKAZA)
 - [Oolazile](https://github.com/Oolazile)
 - [AmirAbbas Mashayekhi](https://github.com/AmirAbbas-Mashayekhi)
