@@ -3693,6 +3693,7 @@ random guy
 - [Saad Keyani](https://github.com/SaadKeyani)
 - [Dalton Sloan](https://github.com/DaltonSloan)
 - [maelshei](https://github.com/mahelshei)
+- [Carlos Eliezer](https://github.com/CarlosEliezer)
 - [Abdelrhman ELdsoky](https://github.com/Desoky231)
 - [Satyam Shivam] (https://github.com/satyamshivam13)
 - [Juliana Oliveira](https://github.com/Julianacavalaro)
