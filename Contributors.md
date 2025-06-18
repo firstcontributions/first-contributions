@@ -94,6 +94,7 @@
 - [jonvert](https://github.com/jonvert)
 - [mildw428] (https://github.com/mildw428)
 - [Brandon Tavares](https://github.com/Btavares64)
+- [TEJAS](https://github.com/Surge77) **Ready to Blast it**
 - [KonnorDev](https://github.com/KonnorDev)
 - [Jugal Vyas](https://github.com/jugal-v)
 - [Mukul Bhardwaj](https://github.com/MukulB0412)
