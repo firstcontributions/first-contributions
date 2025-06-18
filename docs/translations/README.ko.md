@@ -1,5 +1,4 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -123,8 +122,6 @@ git push -u origin your-branch-name
 축하합니다! 앞으로 기여자로서 자주 사용하게될 기본 워크플로우인 _포크(fork) -> 클론(clone) -> 수정(edit) -> 풀 요청(pull request)_, 를 완료했습니다!
 
 첫 기여에 대한 소식을 친구들 및 팔로워에게 [웹 앱](https://firstcontributions.github.io/#social-share)을 통해 공유해보세요.
-
-도움이 필요하거나 질문이 있다면 저희 slack 팀에 참여할 수 있습니다. → [slack 팀 참여하기](https://firstcontributors.slack.com/join/shared_invite/zt-29qhyr9lt-Bi7WLbgGIFqV7aCEG_grvg#/shared-invite/email)
 
 이제 다른 프로젝트에도 기여해보세요! 지금 바로 시작할 수 있는 난이도가 낮은 이슈들로 가득찬 목록이 있습니다. [웹앱의 프로젝트 목록](https://firstcontributions.github.io/#project-list)에서 확인해보세요.
 
