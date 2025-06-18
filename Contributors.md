@@ -3068,6 +3068,7 @@ random guy
 - [Shruti Jayaraman](https://github.com/shrujaya)
 - [Himanshu Garg](https://github.com/himanshu-garg-ds)
 - [Abdallah Afifi](https://github.com/Abdallah-Afifi)
+- [Aniruddha](https://github.com/moharir-aniruddha)
 - [nibrasqureshi](https://github.com/nibrasqureshi)
 - [Atharva Gawas](https://github.com/ATHARVA-GAWAS)
 - [Temitope Emokpae](https://github.com/temokpae3)
