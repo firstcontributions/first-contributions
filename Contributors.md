@@ -27,6 +27,7 @@
 - [VSuryawanshi]
 - [Joseph Ngatia](https://github.com/Joe-Ngatia)
 - [Jimmy Navarro](https://github.com/Navarriux)
+- [RajasthanRoyals]
 - [vansh nagar](https://github.com/vansh-nagar)
 - [Pawan Kumar](https://github.com/pawan2088)
 - [Ravi Shastri](https://github.com/arnavtumbde)
