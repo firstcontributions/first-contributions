@@ -96,6 +96,7 @@
 - [Brandon Tavares](https://github.com/Btavares64)
 - [TEJAS](https://github.com/Surge77) **Ready to Blast it**
 - [KonnorDev](https://github.com/KonnorDev)
+- [Mohammed Karab](https://github.com/Im-Mohammed) ⌨️ "In the world of code, even the smallest contribution echoes forever."
 - [Jugal Vyas](https://github.com/jugal-v)
 - [Mukul Bhardwaj](https://github.com/MukulB0412)
 - [Tomoaki Kurata](https://github.com/moecute-asmr/)
