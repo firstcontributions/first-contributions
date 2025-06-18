@@ -33,8 +33,8 @@
 - [ParadoxicalParticle](https://github.com/ParadoxicalParticle) happens
 - [Anurag] Long way to go!
 - [Kub1no23](https://github.com/Kub1no23) 18/6/2025
--[MICK RYAN] - Adding name!!!!
--[Ayush Mishra] IIITDM IS HERE!
+- [MICK RYAN] - Adding name!!!!
+- [Ayush Mishra] IIITDM IS HERE!
 - [Willian R](https://github.com/WillR-forget) For a new Beginning.
 - [Juhyeon Lee] I see a lot of humans!! (emotion: excited)
 -[Jaideep](https://github.com/jai3546) Hello fellow developers!This marks my first contribution in github journey and yours too..
