@@ -3821,3 +3821,4 @@ Aadyant Agrawal
 - [Amit Kanjariya](https://github.com/amitkanjariya/first-contributions.git) Hellooo from India...
 - [LemonMonster03] (https://github.com/LemonMonster03) This is LemonMonster03 from China, hello everyone! :D
 - yo
+- [Jaskaran-Singh] (https://github.com/jkmalra) jkmalra
