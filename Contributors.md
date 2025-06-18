@@ -61,6 +61,7 @@
 - [LKA](https://github.com/LK-stack399)
 - [CHAN](https://github.com/LEECHANHYUNG)
 -  [Passarini](https://github.com/m12Passarini)
+- [Likhitha Ramachandrapurapu] My first open-source contribution
 - It's Me
 - [Minh](https://github.com/remiminh)
 - [Maheswara](https://github.com/dctn/) This is my first open-source contribution
