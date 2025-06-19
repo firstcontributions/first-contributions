@@ -1,4 +1,5 @@
 # Contributors
+- [Lavkush] (https://github.com/Lavkush24) First dive in the world of Open source on 19/06/2025!
 - [Md. Mahmudul Hasan Mabud](https://github.com/mahmudul626) Hi, I'm Mahmudul, I'm very interested in robotics!
 - [Anurag Pandey](https://github.com/anurag99x) My first contribution to open source on 19/06/2025!
 - [Jenna Lee] (https://github.com/roasted-oolong)
@@ -202,6 +203,7 @@
 - [Xiaopeng Zhang](https://github.com/XiaoPeng0x3) **Love you guys!!!**
 - [Raghav Khatri](https://github.com/raghavkhatri413)
 - [Eleftherios](https://github.com/leftkats) **Happy to be part of the open source journey!**
+- [WetWayne](https://github.com/wetwayne)
 - [Mihai Sirbu](https://github.com/MihaiSirbu)
 - [Chaitanya Satsangi] (https://github.com/0xChaitanya) 
 - [Kevin Tirado] (https://github.com/KevJosTd) **;)**
@@ -2188,6 +2190,7 @@ Darien Edwards
 - [Oleksandr Tubolets] (https://github.com/alextuby)
 - [Caleb Rollf](https://github.com/lemonsloth)
 - [Christian Mayamba](https://github.com/chris-mayamba)
+- [Mark Sverdlov](https://github.com/MarkSverdlov)
 - [Fahad Haque](https://github.com/Daahaf)
 - [Deepankar Sahoo](https://github.com/CodeByDeepankar)
 - [Olympus5](https://github.com/Olympus5)
