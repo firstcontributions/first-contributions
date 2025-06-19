@@ -212,7 +212,9 @@
 - [Aung Myo Aye](https://github.com/AungMyoAye101) **My First Contribution**
 - [Navid Fayezi](https://github.com/NavidFayezi)
 - [Sweta Jaiswal](https://github.com/SwetaJaiswal9)
-- [Ayush Kalra](https://github.com/ayushkalra09) **Lessgoooo!!!**
+- [Ayush Kalra](https://github.com/ayushkalra09) 
+- [Neelabh sharma ](https://github.com/Neelabh-Sharma)**Welcome to the world of Open Source HappyCoding!**
+**Lessgoooo!!!**
 - [Kashmala Ahmad](https://github.com/kashmalaahmad)
 - [Benita Magdalene Kingsley Prince](https://github.com/BenitaMags)
 - [Sujal Maharjan](https://github.com/SUJAL390)
