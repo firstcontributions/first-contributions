@@ -4096,4 +4096,5 @@ random guy
 - [Nilesh Kumar](https://github.com/nilesh646)
 - [Ren Usuda](https://github.com/renusuda) こんちには、世界！
 - [Aditya Sagar](https://github.com/adisagar2003) ^_^
+- [Kornel Pakulski](https://github.com/Kalemak2) Marcin dubiel tu byl
 - [stacklocal](https://github.com/stacklocal) Exploring Open Source!
