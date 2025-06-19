@@ -1337,6 +1337,7 @@ Matthew Burgos
 - [north-calm] (https://github.com/north-calm)
 - [Felix Hsu] (https://github.com/FelixHsu98)
 -[MAANASA-KOTTE] (htts://gthub.com/MAANASA-KOTTE)
+- [Daniel] (https://github.com/Dani234jf)
 - [Sindhu R] (https://github.com/17sindhu)
 - [Miguel Zambrano](https://github.com/miguelzambranom)
 - [Aditi Verma](https://github.com/aditi02verma)
