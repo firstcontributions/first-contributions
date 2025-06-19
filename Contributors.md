@@ -1,4 +1,5 @@
 # Contributors
+- [Kantesh Murade] (https://github.com/KanteshMurade) **Happy to be part of the open source journey!**
 - [Md. Mahmudul Hasan Mabud] (https://github.com/mahmudul626) Hi, Iam from Bangladesh.
 - [Adrian2047] (https://github.com/AdrianNeshad) Hello World!
 - [Lavkush] (https://github.com/Lavkush24) Frist dive in the world of Open source on 19/06/2025!
