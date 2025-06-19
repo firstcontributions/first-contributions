@@ -4101,4 +4101,5 @@ random guy
 - [Aditya Sagar](https://github.com/adisagar2003) ^_^
 - [Kornel Pakulski](https://github.com/Kalemak2) Marcin dubiel tu byl
 - [Vishnu](https://github.com/kpvishnu10987) First PR! Super excited to be here 💪
+- [marcuscs00](https://github.com/marcuscs00)
 - [stacklocal](https://github.com/stacklocal) Exploring Open Source!
