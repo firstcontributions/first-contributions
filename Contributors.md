@@ -11,6 +11,7 @@
 - [Adarsh](https://github.com/Fire-furo) My first contribution to open source on 17/06/2025!
 - [Danyal Ansari](https://github.com/DanyalAnsari) 18-06-2025::21:02 IST.
 - [Aleena Ali Azeem](https://github.com/aleenaazeem) Heya, Welcome to first of many contributions. Good luck :D.
+- [Dadir Awad](https://github.com/dadirawad) Hello World, this is my first time contributing to open source! 
 - [Mathues Justin Hasda](https://github.com/hasdajustin) Hello World! This is my first contribution to open source!
 - [Amritanshu Goutam](https://github.com/bhutuklearning) Hii Everyone.
 - [Soham Padalikar](https://github.com/Soham204) Hello World
@@ -2635,6 +2636,7 @@ random guy
 - [Steve Armstrong](https://github.com/W0474997SteveArmstrong)
 - [Andres Riaño](https://github.com/afrianodev)
 - [Irksomehails](https://github.com/irksomehails)
+- [Damian](https://google.com)
 - [Aanya Srivastava] (https://github.com/aanyaSrivastava)
 - [Isabela Magalhães](https://github.com/isarbela)
 - [HiParham](https://github.com/hiparham)
