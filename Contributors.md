@@ -1673,7 +1673,8 @@ Matthew Burgos
 - [Nicolas Alves](https://github.com/NickeAlves)
 - [Michael S]
 - [Michael Jordan](https://github.com/Mona-kecil)
-- [Kadeem George]
+- [Gison]
+[Kadeem George]
 - [Ameer Radhi]
 - [LiuSam](https://www.youtube.com/CommitKU)
 - leee
