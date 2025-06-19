@@ -81,6 +81,7 @@
 - [Fabricio Campos](https://github.com/Fabricio21dv/)
 - [Ragnus]
 - [Vipin Sao](https://github.com/vipinsao) First open source contribution, Now from here going to contribute in various open source projets.
+- [Adithya Salel](https://github.com/adithya-salel) First of many, hopefully.
 - [bochard](https://github.com/b0chard)
 - [Akanksha] (https://github.com/Akanksha928) Let's go! 
 - [Saanvi] First contribution.
