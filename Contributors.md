@@ -1,5 +1,7 @@
 # Contributors
 - [Kantesh Murade] (https://github.com/KanteshMurade) **Happy to be part of the open source journey!**
+- [Md. Mahmudul Hasan Mabud] (https://github.com/mahmudul626) Hi, Iam from Bangladesh.
+- [Adrian2047] (https://github.com/AdrianNeshad) Hello World!
 - [Lavkush] (https://github.com/Lavkush24) Frist dive in the world of Open source on 19/06/2025!
 - [Anurag Pandey](https://github.com/anurag99x) My first contribution to open source on 19/06/2025!
 - [Jenna Lee] (https://github.com/roasted-oolong)
@@ -1764,6 +1766,7 @@ Matthew Burgos
 - [lahari-prasanna] (https://github.com/lahari-prasanna)
 - [OWilliams](https://github.com/O-Bots)
 - [Abhishek Soni](https://github.com/abhisheksoni27)
+- [Antonio Santos](https://github.com/Antonio413100)
 - [jsutCodes](https://github.com/jsutCodes)
 - [ZNezirov](https://github.com/ZNezirov)
 - [Aditya Atreya](https://github.com/AdiAce4u)
@@ -4090,4 +4093,5 @@ random guy
 - [Robert Orozco](https://github.com/robmau101295) Hola desde Ecuador!
 - [Matt Foo](https://github.com/MattFooshilong) Hello
 - [Nilesh Kumar](https://github.com/nilesh646)
+- [Ren Usuda](https://github.com/renusuda) こんちには、世界！
 - [Aditya Sagar](https://github.com/adisagar2003) ^_^
