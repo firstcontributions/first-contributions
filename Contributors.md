@@ -166,6 +166,7 @@
 - [Shruti]
 - [Felipe Ranzoni Borges](https://github.com/Ranzoni)
 - [phanindra]
+- [ThiagoVenturim](https://github.com/ThiagoVenturim)
 - [Masayoshi]
 - [Amélie Avery](https://github.com/amelieav)
 - [Maulik Beladiya](https://github.com/maulikb). Let's build tomorrow now.
