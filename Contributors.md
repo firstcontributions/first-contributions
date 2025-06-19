@@ -4108,3 +4108,4 @@ random guy
 - [Vishnu](https://github.com/kpvishnu10987) First PR! Super excited to be here 💪
 - [marcuscs00](https://github.com/marcuscs00)
 - [stacklocal](https://github.com/stacklocal) Exploring Open Source!
+- [Khushi Singh](https://github.com/mekhushi)
