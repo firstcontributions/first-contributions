@@ -2,6 +2,7 @@
 - [Kantesh Murade] (https://github.com/KanteshMurade) **Happy to be part of the open source journey!**
 - [Md. Mahmudul Hasan Mabud] (https://github.com/mahmudul626) Hi, Iam from Bangladesh.
 - [Adrian2047] (https://github.com/AdrianNeshad) Hello World!
+- [Sudhanshu] (https://github.com/sudhanshu-raj) Namaste | Holla | Hello ,  guys ! 
 - [Lavkush] (https://github.com/Lavkush24) Frist dive in the world of Open source on 19/06/2025!
 - [Anurag Pandey](https://github.com/anurag99x) My first contribution to open source on 19/06/2025!
 - [Jenna Lee] (https://github.com/roasted-oolong)
