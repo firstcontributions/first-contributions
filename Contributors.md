@@ -1,5 +1,6 @@
 # Contributors
 - [Kantesh Murade] (https://github.com/KanteshMurade) **Happy to be part of the open source journey!**
+- [Rafael Rezende](https://github.com/rafa-rez) Hello from UFLA - Lavras - MG - Brazil | XD
 - [Md. Mahmudul Hasan Mabud] (https://github.com/mahmudul626) Hi, Iam from Bangladesh.
 - [Adrian2047] (https://github.com/AdrianNeshad) Hello World!
 - [Sudhanshu] (https://github.com/sudhanshu-raj) Namaste | Holla | Hello ,  guys ! 
