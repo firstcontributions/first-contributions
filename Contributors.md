@@ -201,6 +201,7 @@
 - [Xiaopeng Zhang](https://github.com/XiaoPeng0x3) **Love you guys!!!**
 - [Raghav Khatri](https://github.com/raghavkhatri413)
 - [Eleftherios](https://github.com/leftkats) **Happy to be part of the open source journey!**
+- [WetWayne](https://github.com/wetwayne)
 - [Mihai Sirbu](https://github.com/MihaiSirbu)
 - [Chaitanya Satsangi] (https://github.com/0xChaitanya) 
 - [Kevin Tirado] (https://github.com/KevJosTd) **;)**
