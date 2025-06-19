@@ -2187,6 +2187,7 @@ Darien Edwards
 - [Oleksandr Tubolets] (https://github.com/alextuby)
 - [Caleb Rollf](https://github.com/lemonsloth)
 - [Christian Mayamba](https://github.com/chris-mayamba)
+- [Mark Sverdlov](https://github.com/MarkSverdlov)
 - [Fahad Haque](https://github.com/Daahaf)
 - [Deepankar Sahoo](https://github.com/CodeByDeepankar)
 - [Olympus5](https://github.com/Olympus5)
