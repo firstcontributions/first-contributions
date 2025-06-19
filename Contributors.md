@@ -1177,6 +1177,7 @@ Matthew Burgos
 - [Prayoga Agus Setiawan](https://github.com/Prayoga-bit)
 -[Deepthi](https://github.com/D-E-E-P-T-H-I)
 - [Dibyadyuti Das](https://github.com/DibyadyutiDas)
+- [Dibyajyoti Ganguly](https://github.com/dibyajyoti-ganguly)
 - [Kruthi Kusa](https://github.com/kruthi-kusa)
 - [Khushi Rajpurohit](https://github.com/kraj2003)
 - [Akshay Tiwari](https://github.com/AkshayTiwari222)
