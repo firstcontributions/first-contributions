@@ -4074,3 +4074,4 @@ random guy
 - [Pedro Vitorino](https://github.com/pedrovitorino07) First Pull Request, lets go boys!
 - [Bartosz Ciulkin](https://github.com/bciulkin) Greetings
 - [Zoe Cai](https://github.com/Parabolaa)
+- [Miguel Angel Gonzalez](https://github.com/mglnglgnz) Colaborando "in the open source" 18/06/2025 Catch you coding!
