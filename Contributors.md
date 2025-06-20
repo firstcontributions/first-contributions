@@ -50,6 +50,7 @@
 - [Andriamihamina Sébastien](https://github.com/Andriamihamina) The start of a long series of open source contributions.
 - [Zeeshan Jumabhoy](https://github.com/ZeeshanJumabhoy) My first contri
 - [ParadoxicalParticle](https://github.com/ParadoxicalParticle) happens
+- [Hariom Chaudhary](https://github.com/hariomch1) Lets kick start it
 - [Anurag] Long way to go!
 -[MICK RYAN] - Adding name!!!!
 -[Jad] - 200506201053
