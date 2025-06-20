@@ -19,6 +19,7 @@
 -[Hariprasad Duvvuru](https://github.com/Hari0546)  I am learing Git and GitHub!!
 - [SanGiio](https://github.com/SanGiio)
 - [Pavni](https://github.com/PavniR) just learning!
+- [Vraj](https://github.com/VrajChariot) My first open source contribution.
 - [Purandar Sai](https://github.com/Purandhar17) Hello World!! Hello World! This is my first contribution to open source!
 - [Sonia RM Karungi](https://github.com/SoniaRMK): 
 - [Abhishek Kumar Paswan](https://github.com/Abhishekkumarpaswan) My first open source contribution on 18/06/2025! 12:40 AM
