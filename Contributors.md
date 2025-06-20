@@ -1,6 +1,7 @@
 # Contributors
 - [moe-charm](https://github.com/moe-charm)
 - [Deryn Brown](https://github.com/dbrown13) Hi, I am learning open source! 6/19/2025
+- [Anderson Patricio](https://github.com/1patricio) Hi, My Name is Anderson 6/20/2025
 - [Clarence Gatama](https://github.com/clarenceG01) Start of an awesome journey
 - [Dianna Brown](https://github.com/dibrown) Hello from Missouri!  Jun-20-2025
 - [M.Mahadevan](https://github.com/mahadevan2005) My first open source contribution.
