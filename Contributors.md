@@ -18,6 +18,7 @@
 -[Ojas Mhatre] (https://github.com/mhatreojas)  Hell yeah
 -[Hariprasad Duvvuru](https://github.com/Hari0546)  I am learing Git and GitHub!!
 - [SanGiio](https://github.com/SanGiio)
+- [Felix](https://github.com/felixpitterling)
 - [Pavni](https://github.com/PavniR) just learning!
 - [Vraj](https://github.com/VrajChariot) My first open source contribution.
 - [Purandar Sai](https://github.com/Purandhar17) Hello World!! Hello World! This is my first contribution to open source!
