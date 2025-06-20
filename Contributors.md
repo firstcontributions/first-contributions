@@ -1,5 +1,6 @@
 # Contributors
 - [moe-charm](https://github.com/moe-charm)
+- [Kyra](https://github.com/kyrazzx) I'm making cool things you should check my profile!
 - [Deryn Brown](https://github.com/dbrown13) Hi, I am learning open source! 6/19/2025
 - [Clarence Gatama](https://github.com/clarenceG01) Start of an awesome journey
 - [Dianna Brown](https://github.com/dibrown) Hello from Missouri!  Jun-20-2025
@@ -4135,6 +4136,5 @@ random guy
 - [Ayisha](https://github.com/Ayisha-Mohammed)Hey cool people ! exploring open source !!
 - [Leo](https://github.com/Leorjjj1) Hi
 - [Tagir](https://github.com/tishembitov) Hello!!!
-- [Kyra](https://github.com/kyrazzx) hey everyone
 - [Amar Pujari](https://github.com/amarp123) hello guys new contributer added
 - [Subhranil Patra](https://github.com/Subh09) Hello everyone hope you all are doing great XD
