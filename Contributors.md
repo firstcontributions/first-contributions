@@ -97,6 +97,7 @@
 - [Adithya Salel](https://github.com/adithya-salel) First of many, hopefully.
 - [bochard](https://github.com/b0chard)
 - [Akanksha] (https://github.com/Akanksha928) Let's go! 
+- [Soumyosish] (https://github.com/Soumyosish) Contribution
 - [Saanvi] First contribution.
 - [Reshma R](https://github.com/reshma045)
 - [Anish] (https://github.com/anish-eng)
