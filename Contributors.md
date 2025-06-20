@@ -4125,3 +4125,4 @@ random guy
 - [Keilor Rodriguez](https://github.com/KeilorRodriguez) Exploremos juntos!
 - [Ayisha](https://github.com/Ayisha-Mohammed)Hey cool people ! exploring open source !!
 - [Leo](https://github.com/Leorjjj1) Hi
+- [Tagir](https://github.com/tishembitov) Hello!!!
