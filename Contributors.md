@@ -17,6 +17,7 @@
 -[Jeremiah Lillon] (https://github.com/Barwolf) Lots to learn! 06/17/2025
 -[Ojas Mhatre] (https://github.com/mhatreojas)  Hell yeah
 -[Hariprasad Duvvuru](https://github.com/Hari0546)  I am learing Git and GitHub!!
+
 - [SanGiio](https://github.com/SanGiio)
 - [Pavni](https://github.com/PavniR) just learning!
 - [Vraj](https://github.com/VrajChariot) My first open source contribution.
@@ -42,6 +43,8 @@
 - [seh maluva](https://github.com/sehmaluva)
 - [Luan Fernandes](https://github.com/https-Luan-Fernandes) Hello from Brazil! <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brasil" width="30"/>
 - [Daniel W](https://github.com/Daniel041516)
+- [Devika S](https://github.com/devika200)
+
 -[23Mandla](https://github.com/23Mandla)
 -[daniemprm](https://github.com/danielprm)
 - [Ken Li] Let's get started!
