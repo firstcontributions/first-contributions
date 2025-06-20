@@ -9,6 +9,7 @@
 - [Rafael Rezende](https://github.com/rafa-rez) Hello from UFLA - Lavras - MG - Brazil | XD
 - [Md. Mahmudul Hasan Mabud] (https://github.com/mahmudul626) Hi, I am from Bangladesh.
 - [David Gagnon] (https://github.com/Numpkens) Hello World!
+-[Piyush Rawat] (https://github.com/PiyushRw) first contribution!!!
 - [Adrian2047] (https://github.com/AdrianNeshad) Hello World!
 - [Sudhanshu] (https://github.com/sudhanshu-raj) Namaste | Holla | Hello ,  guys ! 
 - [Lavkush] (https://github.com/Lavkush24) Frist dive in the world of Open source on 19/06/2025!
