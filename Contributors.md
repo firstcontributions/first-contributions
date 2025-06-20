@@ -51,6 +51,7 @@
 - [ParadoxicalParticle](https://github.com/ParadoxicalParticle) happens
 - [Anurag] Long way to go!
 -[MICK RYAN] - Adding name!!!!
+-[Jad] - 200506201053
 -[Ayush Mishra] IIITDM IS HERE!
 - [Willian R](https://github.com/WillR-forget) For a new Beginning.
 - [Juhyeon Lee] I see a lot of humans!! (emotion: excited)
