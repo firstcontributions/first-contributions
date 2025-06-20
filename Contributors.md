@@ -3,6 +3,8 @@
 - [moe-charm](https://github.com/moe-charm)
 - [Deryn Brown](https://github.com/dbrown13) Hi, I am learning open source! 6/19/2025
 - [Dianna Brown](https://github.com/dibrown) Hello from Missouri! Jun-20-2025
+- [Clarence Gatama](https://github.com/clarenceG01) Start of an awesome journey
+- [Dianna Brown](https://github.com/dibrown) Hello from Missouri!  Jun-20-2025
 - [Reymund Virtus](https://github.com/reymundvirtus) Hello, this is my first contribution to open source 20/06/25 1:42AM
 - Michael Alemayehu (https://github.com/MickeyAlemayehu) Hello, from Ethiopia here!! Wish you all the best!!
 - [Kantesh Murade] (https://github.com/KanteshMurade) **Happy to be part of the open source journey!**
@@ -3924,3 +3926,4 @@
 - [Keilor Rodriguez](https://github.com/KeilorRodriguez) Exploremos juntos!
 - [Ayisha](https://github.com/Ayisha-Mohammed)Hey cool people ! exploring open source !!
 - [Prasad Yeole](https://github.com/PrasadYeole-Developer) First PR!
+- [Leo](https://github.com/Leorjjj1) Hi
