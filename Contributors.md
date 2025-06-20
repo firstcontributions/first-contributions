@@ -4023,6 +4023,7 @@ random guy
 - [Pritam Sing] (https://github.com/Pritam-Sing-2025)
 - [Tech] (https://github.com/techplayz32)
 - [Rennan Reis](https://github.com/rennanreis)
+- [Divyam Kataria](https://github.com/katsdivi) Hey everyone! Trying to learn git and open source.
 - [Maitreyee Singh](https://github.com/maitreyee-s)
 [Pouria Tofighi](https://github.com/Pouria-Tofighi)
 -[Marouane Tabaa](https://github.com/Marouane666)
