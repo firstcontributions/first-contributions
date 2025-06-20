@@ -97,6 +97,7 @@
 - [vikas bansode](https://github.com/Vikass19) now learned how to contribute in open source projects.lets connect together and make a freelance boom on upwork connect with for colloboration.
 - [Samuel Thomas](https://github.com/samthomaz)
 - [SREE VARSHAN V](https://github.com/sreevarshan-xenoz) 
+- [Jaz H](https://github.com/jzmn6) Holaaa!
 - [Fabricio Campos](https://github.com/Fabricio21dv/)
 - [Ragnus]
 - [Vipin Sao](https://github.com/vipinsao) First open source contribution, Now from here going to contribute in various open source projets.
