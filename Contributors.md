@@ -2150,6 +2150,7 @@ Matthew Burgos
 - [oompf](https://github.com/oompf)
 - [Roshawn Brooks](https://github.com/rbrooks95)
 - [Александр Мосин](https://github.com/mosinisom)
+- [Ver Argulla](https://github.com/verargulla)
 - [Mr. Jakkula](https://github.com/Mr.Jakkula)
 - [Romuald Oluwatobi](https://github.com/Romulad)
 - [Jeston Lewis](https://github.com/jestoncolelewis)
