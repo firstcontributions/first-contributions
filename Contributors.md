@@ -92,6 +92,7 @@ Saryuna Batobolotova
 - [Akshada Mane](https://github.com/AkshadaMane26) Starting my open source contribution journey.
 - [Thinzar](https://github.com/Thinzar-Shun-Lei)
 - [Aditya](https://github.com/itxadii) Lets Connect coders🚀.
+- [Gregory](https://github.com/gregory-7)
 - [Abhishek](https://github.com/Abhishek-Mishra-GH) This marks the beginning of my open source journy
 - [Rishabh Singh Gaharwar](https://github.com/RishabhSGaharwar) First step of my open source journey
 - [Max](https://github.com/mxpfister) I'm bored
