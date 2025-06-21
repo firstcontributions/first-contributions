@@ -98,6 +98,7 @@
 -  [Passarini](https://github.com/m12Passarini)
 - [Likhitha Ramachandrapurapu] My first open-source contribution
 - It's Me
+- [Sathvik Q.](https://github.com/SathvikQ)
 - [Minh](https://github.com/remiminh)
 - [Maheswara](https://github.com/dctn/) This is my first open-source contribution
 - [Divesh Saini](https://github.com/diveshsaini1991) Hello fellow developers! Lets Connect
