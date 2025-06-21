@@ -452,6 +452,7 @@ abu sulaymaan
 - [Lia]
 - Betty 
 - Sibi Elwin
+Solomon
 - [Paul](https:/github.com/neverleaveualong)
 - [0xHuzaifa](https://github.com/0xHuzaifa)
 - [Téo Zwiebel](https://github.com/TeoZWIEBEL)
