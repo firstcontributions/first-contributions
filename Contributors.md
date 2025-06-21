@@ -2387,6 +2387,7 @@ random guy
 - [sakaleshhubli](https://github.com/Sakaleshhubli)
 - [Parker Crook](https://github.com/parkercrook)
 - [Vilashkumar Daate](https://github.com/vilash99)
+- [Michael Vincendon](https://github.com/mvincendon) **Bonjour tout le monde !** 🇫🇷🥖 Let's build something great!
 - [Adhish Goswami](https://github.com/Adhishg704)
 - [Zach Garza](https://github.com/ZachG1235)
 - [Mwofoh-Adriel](https://github.com/Mwofoh-Adriel)
