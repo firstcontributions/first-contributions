@@ -60,6 +60,7 @@ Saryuna Batobolotova
 -[daniemprm](https://github.com/danielprm)
 - [Ken Li] Let's get started!
 - [AKSHITHA] The Beginning!
+- [Rahul Kumar](https://github.com/rahul-aws) This is my first commit, I want to go for more. Thank you. 
 - [Anas Ansari] (https://github.com/moansari1234) Ee sala cup namdu!!!!
 - [glarerena](https://github.com/glarerena)
 - [Jagannath Pridhviraj](https://github.com/jagannathPridh18)
