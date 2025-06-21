@@ -241,6 +241,7 @@ Saryuna Batobolotova
 - [jiku_jiku](https://github.com/Jikuhara)
 - [dianah_ddlite](https://github.com/ddlite92) My first contribution!
 - [ReshmiAK](https://github.com/ReshmiAK)✌️
+- [AshishKadian](https://github.com/syntax2/) let's go , this is a nice repo
 - [Dharmendra Ahirwar](https://github.com/Kilvish25) Exciting! This is my first contribution. Lets connect on [LinkedIn](https://www.linkedin.com/in/kilvish25/) and collaborate.
 - [YLAdatagit](https://github.com/YLAdatagit) This is my first contribution.
 - [Simon Browning](https://github.com/Simon-Browning) My first contribution. Just doing my best!
