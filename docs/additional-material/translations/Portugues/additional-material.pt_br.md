@@ -1,46 +1,54 @@
 ﻿# Informações Adicionais
 
-Nós imaginamos que você já tenha terminado o tutorial básico antes de vir aqui. As informações adicionais te darão algumas informações sobre técnicas mais avançadas de Git.
+Nós imaginamos que você já tenha concluído o tutorial básico antes de chegar aqui. Este documento fornece informações adicionais sobre técnicas avançadas de Git.
 
-### [Emendando um commit](../git_workflow_scenarios/amending-a-commit.md)
-Esse documento provê informações sobre como emendar um commit no repositório remoto.
-> Use isso quando você precisar ajustar um commit que você tenha feito.
+### [Emendando um commit](amending-a-commit.pt_br.md)
+Este documento fornece informações sobre como emendar um commit no repositório remoto. Emendar um commit é uma forma de modificar o commit mais recente feito na branch atual. Isso pode ser útil caso você precise editar a mensagem do commit ou tenha esquecido de incluir alguma mudança. É possível continuar emendando um commit até que ele seja enviado ao repositório remoto.
+> Use isso quando precisar ajustar um commit que você fez.
 
-### [Configurando o git](../git_workflow_scenarios/configuring-git.md)
-Esse documento provê informações sobre como configurar detalhes de usuário e outras opções do git.
-> Use isso para melhor controlar as suas configurações do git.
+### [Configurando o Git](confinguring-git.pt-br.md)
+Este documento fornece informações sobre como configurar os dados do usuário e outras opções no Git.
+> Use isso para ter mais controle sobre suas configurações do Git.
 
-### [Mantendo o seu fork em sincronia com o repositório](../git_workflow_scenarios/keeping-your-fork-synced-with-this-repository.md)
-Esse documento provê informações sobre como manter o seu fork atualizado com o repositório base. Isso é importante, já que se espera que você e muitas outras pessoas contribuem com o projeto.
-> Siga esses passos se o seu fork não possui as mesmas alterações do repositório pai.
+### [Mantendo seu fork sincronizado com o repositório](keeping-your-fork-synced-with-this-repository.pt_br.md)
+Este documento fornece informações sobre como manter o seu fork atualizado com o repositório base. Isso é importante, já que você e outras pessoas provavelmente contribuirão com o projeto.
+> Siga estes passos se o seu fork não contém as alterações do repositório pai.
 
-### [Movendo um Commit para um Branch diferente](../git_workflow_scenarios/moving-a-commit-to-a-different-branch.md)
-Esse documento provê informações sobre como mover um Commit para outro Branch.
-> Siga esses passos para mover um commit para outro branch.
+### [Movendo um commit para outra branch](moving-a-commit-to-a-different-branch.pt_br.md)
+Este documento fornece informações sobre como mover um commit para outra branch.
+> Siga estas etapas para mover um commit para outra branch.
 
-### [Removendo um arquivo](../git_workflow_scenarios/removing-a-file.md)
-Esse documento provê informações sobre como remover um arquivo do seu repositório local.
-> Siga esses passos para aprender como remover um arquivo do seu repositório local.
+### [Removendo um arquivo](removing-a-file.pt_br.md)
+Este documento fornece informações sobre como remover um arquivo do seu repositório local.
+> Siga estas etapas para remover um arquivo antes de fazer o commit.
 
-### [Removendo um Branch do seu repositório](../git_workflow_scenarios/removing-branch-from-your-repository.md)
-Esse documento provê informações sobre como deletar um Branch do seu repositório.
-> Apenas siga esses passos após o seu pull request ter sido mesclado.
+### [Removendo uma branch do seu repositório](removing-branch-from-your-repository.pt_br.md)
+Este documento fornece informações sobre como deletar uma branch do seu repositório.
+> Siga estas etapas somente depois que seu pull request for mesclado.
 
-### [Resolvendo conflitos de Merge](../git_workflow_scenarios/resolving-merge-conflicts.md)
-Esse documento provê informações sobre como resolver conflitos de Merge.
-> Siga esses passos para resolver conflitos de Merge irritantes.
+### [Resolvendo conflitos de merge](../../git_workflow_scenarios/resolving-merge-conflicts.md)
+Este documento fornece informações sobre como resolver conflitos de merge.
+> Siga estas etapas para resolver conflitos de merge incômodos.
 
-### [Revertendo um commit](../git_workflow_scenarios/reverting-a-commit.md)
-Esse documento provê informações sobre como reverter um commit feito no repositório remoto. Isso é muito útil quando você precisa desfazer um commit que tenha sido publicado no GitHub.
-> Siga esses passos se você quiser reverter um commit.
+### [Revertendo um commit](../../git_workflow_scenarios/reverting-a-commit.md)
+Este documento fornece informações sobre como reverter um commit no repositório remoto. Isso pode ser útil caso você precise desfazer um commit que já foi enviado ao GitHub.
+> Siga estas etapas se quiser reverter um commit.
 
-### [Comprimir Commits juntos](../git_workflow_scenarios/squashing-commits.md)
-Esse documento provê informações sobre como esmagar commits juntos em um só realizando um rebase.
-> Use esses passos se você quiser realizar um PR em um projeto open source e a pessoa que realizou o review pedir para você mesclar todos os commits em um só, com uma mensagem de commit informativa.
+### [Comprimindo commits](../../git_workflow_scenarios/squashing-commits.md)
+Este documento fornece informações sobre como comprimir commits usando rebase interativo.
+> Use isso caso vá abrir um PR em um projeto open source e o revisor peça para unir todos os commits em um só, com uma mensagem de commit clara.
 
-### [Desfazendo um commit local](../git_workflow_scenarios/undoing-a-commit.md)
-Esse documento provê informações sobre como desfazer um commit no seu repositório local. Isso é o que você precisa fazer quando sente que fez alguma besteira no seu repositório e deseja desfazer.
-> Take these steps if you want to undo/reset a local commit.
+### [Desfazendo um commit local](../../git_workflow_scenarios/undoing-a-commit.md)
+Este documento fornece informações sobre como desfazer um commit no repositório local. É o que você deve fazer quando sente que bagunçou algo e deseja resetar o repositório local.
+> Siga estas etapas se quiser desfazer ou resetar um commit local.
 
-### [Links úteis](../git_workflow_scenarios/Useful-links-for-further-learning.md)
-Esse documento é dedicado a todos os blogs, posts, sites úteis, dicas e truques que fazem a nossa vida mais simples. Seja você um expert ou um iniciante, essa pagina deve servir como um index para todos esses links úteis para ajudar qualquer um que seja novo no mundo de projetos open-source ou alguém que queira prender mais a respeito.
+### [Links úteis](../../git_workflow_scenarios/Useful-links-for-further-learning.md)
+Este documento é dedicado a blogs, posts, sites com dicas e truques que facilitam nosso trabalho. São ótimas referências para todos, seja você iniciante ou experiente. Esta página funciona como um índice de links úteis para quem está começando no universo open source ou deseja se aprofundar.
+
+### [Criando um arquivo .gitignore](../../git_workflow_scenarios/creating-a-gitignore-file.md)
+Este documento explica para que serve um arquivo `.gitignore`, por que usá-lo e como criá-lo. Ele é utilizado na maioria dos projetos com Git e ajuda a garantir que apenas os arquivos necessários sejam versionados.
+> Use isso para evitar que arquivos desnecessários sejam incluídos no controle de versão.
+
+### [Armazenando credenciais](../../git_workflow_scenarios/storing-credentials.md)
+Este documento explica como armazenar suas credenciais para repositórios. Isso pode representar um risco de segurança, portanto siga sempre as políticas da sua organização ou instituição.
+> Siga estas orientações para armazenar credenciais com segurança.
