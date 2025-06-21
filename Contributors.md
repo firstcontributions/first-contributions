@@ -2,6 +2,7 @@
 - AISeekerX 20260620
 - [Anmol Yadav](https://github.com/Anmolyadav4836/) Hi, I am learning open Source!
 - [moe-charm](https://github.com/moe-charm)
+- [Kyle-Smith] (https://github.com/Atlis-Ky) One more dev joins the endless sea of juniors, hell yeah brother!
 - [Deryn Brown](https://github.com/dbrown13) Hi, I am learning open source! 6/19/2025
 - [Anderson Patricio](https://github.com/1patricio) Hi, My Name is Anderson 6/20/2025
 - [Clarence Gatama](https://github.com/clarenceG01) Start of an awesome journey
