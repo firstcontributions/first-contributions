@@ -1,3 +1,4 @@
+Saryuna Batobolotova
 # Contributors
 
 - AISeekerX 20260620
@@ -193,8 +194,10 @@
 - [torihazi](https://github.com/torihazi)
 - [Abhi K](https://github.com/AbhiK1237) **This is just the beginning**
 - [Gaurav](https://github.com/gauravkrsingh321) **Open Source Contribution**
-- [Tubhyam Jain](https://github.com/tubhyam14)**New Here...**
-- [Sweta goswami] This is my first contribution hope to do more on real world projects .... -[Rohan Pawar](https://github.com/Rohanpawar9921) \*\*Trying best to be a contributer ❤️
+- [Tubhyam Jain](https://github.com/tubhyam14)**New Here...** 
+- [Imalka Sewwandi](https://github.com/imalkasewwandi24) Excited to contribute!
+- [Sweta goswami] This is my first contribution hope to do more on real world projects ....
+-[Rohan Pawar](https://github.com/Rohanpawar9921) **Trying best to be a contributer ❤️
 - [Yourself] First contribution ...
 - [Wyn Mars] (https://github.com/WynMars/) Cheer up, don't give in
 - [Research Devkota] (https://github.com/itsresearch) Hello itsresearch..
@@ -2254,6 +2257,7 @@
 - [sakaleshhubli](https://github.com/Sakaleshhubli)
 - [Parker Crook](https://github.com/parkercrook)
 - [Vilashkumar Daate](https://github.com/vilash99)
+- [Michael Vincendon](https://github.com/mvincendon) **Bonjour tout le monde !** 🇫🇷🥖 Let's build something great!
 - [Adhish Goswami](https://github.com/Adhishg704)
 - [Zach Garza](https://github.com/ZachG1235)
 - [Mwofoh-Adriel](https://github.com/Mwofoh-Adriel)
