@@ -127,6 +127,7 @@ Saryuna Batobolotova
 - [Vipin Sao](https://github.com/vipinsao) First open source contribution, Now from here going to contribute in various open source projets.
 - [Adithya Salel](https://github.com/adithya-salel) First of many, hopefully.
 - [bochard](https://github.com/b0chard)
+- [Mohamed_amine](https://github.com/AmineDELTA)
 - [Akanksha] (https://github.com/Akanksha928) Let's go! 
 - [Aarohi Mathur] lessgoo
 - [Soumyosish] (https://github.com/Soumyosish) Contribution
