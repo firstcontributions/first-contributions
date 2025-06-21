@@ -19,6 +19,7 @@ Saryuna Batobolotova
 - [Md. Mahmudul Hasan Mabud] (https://github.com/mahmudul626) Hi, I am from Bangladesh.
 - [David Gagnon] (https://github.com/Numpkens) Hello World!
 -[Piyush Rawat] (https://github.com/PiyushRw) first contribution!!!
+- [Kacper Ajdyna](https://github.com/kaaper11) Hello open source!
 - [Adrian2047] (https://github.com/AdrianNeshad) Hello World!
 - [Akalanka] (https://github.com/akalankawijesing) Hello World!
 - [Danica] (https://github.com/danicawinola) my first contribution on 20/6/25 !!
