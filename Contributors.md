@@ -56,6 +56,7 @@ Saryuna Batobolotova
 - [Anurag Raut](https://github.com/anurag-raut1) First Contribution...
 - [Mateusz Święszek](https://github.com/MateuszSwieszek)
 - [Srihari Venkatesan](https://github.com/MayaDisepler)
+- [Asitha kodithwakku](https://github.com/Asitha0012)
 - [Heric Libong](https://github.com/hericlibong)
 - [Navya_A](https://github.com/NavyaA1896) My first contribution to open source on 15/06/2025!
 - [seh maluva](https://github.com/sehmaluva)
