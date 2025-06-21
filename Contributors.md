@@ -4183,6 +4183,7 @@ random guy
 - [Kyra](https://github.com/kyrazzx) hey everyone
 - [Amar Pujari](https://github.com/amarp123) hello guys new contributer added
 - [Subhranil Patra](https://github.com/Subh09) Hello everyone hope you all are doing great XD
+- [Rishit Gupta](https://github.com/rishitg5) Thanks for this tutorial!
 - [Tobias Medina](https://github.com/TobiasMedinaGaleano) - Hello everyone. Tengo 14 años. Inicio en el mundo de github. Byee.
 - pddd
 - [Manan Kumar](https://github.com/codex-blip) - Hello World
