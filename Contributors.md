@@ -106,6 +106,7 @@ Saryuna Batobolotova
 - [LKA](https://github.com/LK-stack399)
 - [CHAN](https://github.com/LEECHANHYUNG)
 -  [Passarini](https://github.com/m12Passarini)
+- [Rudraksh Jurel](https://github.com/Rudraksh1510)
 - [Likhitha Ramachandrapurapu] My first open-source contribution
 - It's Me
 - [Sathvik Q.](https://github.com/SathvikQ)
