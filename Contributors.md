@@ -1,5 +1,6 @@
 # Contributors
 - AISeekerX 20260620
+- [Anmol Yadav](https://github.com/Anmolyadav4836/) Hi, I am learning open Source!
 - [moe-charm](https://github.com/moe-charm)
 - [Deryn Brown](https://github.com/dbrown13) Hi, I am learning open source! 6/19/2025
 - [Anderson Patricio](https://github.com/1patricio) Hi, My Name is Anderson 6/20/2025
