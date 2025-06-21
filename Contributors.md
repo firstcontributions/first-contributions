@@ -235,6 +235,7 @@ Saryuna Batobolotova
 - [Nobita ](https://faris12333-cloud) - I will contribute to opensource projects until my death
 - [DWNewton](https://github.com/DWNewton) Serenity Now!
 - [Sonali](https://github.com/SonaliDandoriya)
+- [Kevin Ferreira](https://github.com/KFerreira1221)
 - [srikarkvs](https://github.com/srikarkvs007)**YEAH I JUST GOT HERE**
 - Hi, I’m [Vineet Yadav](https://github.com/Vineet3458) Nice to meet you!
 - [jiku_jiku](https://github.com/Jikuhara)
