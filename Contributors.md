@@ -30,6 +30,7 @@ Saryuna Batobolotova
 -[Jeremiah Lillon] (https://github.com/Barwolf) Lots to learn! 06/17/2025
 -[Zakiya khan](https://github.com/zakiyakhan1605/first-contributions#)its me...
 -[Ojas Mhatre] (https://github.com/mhatreojas)  Hell yeah
+-[Codesmith-114](https://github.com/Codesmith-114) Just gettin started
 -[Hariprasad Duvvuru](https://github.com/Hari0546)  I am learing Git and GitHub!!
 - [SanGiio](https://github.com/SanGiio)
 - [Felix](https://github.com/felixpitterling)
