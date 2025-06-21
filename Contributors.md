@@ -293,6 +293,7 @@ Saryuna Batobolotova
 - [Hady Hefny](https://github.com/hadyhefny)
 - [AkashGGaonkar]
 - [Omesh Ramlagan](https://github.com/kristovr)
+- [Measum-Shah](https://github.com/Measum-Shah)
 - [Ricky Lam](https://github.com/RickyLam11)
 - [Ayush Premchand](http://github.com/APremchand)
 - [Wesley Jason](https://github.com/Wesley-nfj)
