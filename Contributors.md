@@ -10,6 +10,7 @@ Saryuna Batobolotova
 - [Deryn Brown](https://github.com/dbrown13) Hi, I am learning open source! 6/19/2025
 - [Alisha Mahek](https://github.com/AlishaMahek03) Hi, My Name is Alisha Mahek! This is my First Open Source Contribution.
 - [Anderson Patricio](https://github.com/1patricio) Hi, My Name is Anderson 6/20/2025
+- [Nirnay Kumar](https://github.com/nirnayKumar) My first contribution hope not the last, i might not survive but good luck to everyone else. you too my future self!
 - [Clarence Gatama](https://github.com/clarenceG01) Start of an awesome journey
 - [Dianna Brown](https://github.com/dibrown) Hello from Missouri!  Jun-20-2025
 - [M.Mahadevan](https://github.com/mahadevan2005) My first open source contribution.
