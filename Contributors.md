@@ -4,6 +4,7 @@ Saryuna Batobolotova
 - [Anmol Yadav](https://github.com/Anmolyadav4836/) Hi, I am learning open Source!
 - [moe-charm](https://github.com/moe-charm)
 - [Ankit Kumar Prajapati](https://github.com/ankit-kumar-prajapati) Hello guys, this is my first contribution on github. Excited to learn and grow together.
+- [Priyanka-Kumari] (https://github.com/prowessclust) Hi, I am learning open source, this is my first contribution! 22/06/2025
 - [Kyle-Smith] (https://github.com/Atlis-Ky) One more dev joins the endless sea of juniors, hell yeah brother!
 - [Deryn Brown](https://github.com/dbrown13) Hi, I am learning open source! 6/19/2025
 - [Anderson Patricio](https://github.com/1patricio) Hi, My Name is Anderson 6/20/2025
@@ -26,6 +27,7 @@ Saryuna Batobolotova
 - [Sudhanshu] (https://github.com/sudhanshu-raj) Namaste | Holla | Hello ,  guys !
 - Hii Everyone, My name is Hariom Pandey 
 - [Lavkush] (https://github.com/Lavkush24) Frist dive in the world of Open source on 19/06/2025!
+Achal Agrawal
 - [Anurag Pandey](https://github.com/anurag99x) My first contribution to open source on 19/06/2025!
 - [Jenna Lee] (https://github.com/roasted-oolong)
 - [John Erol Tambal](https://github.com/Lore-d-J) HELLLOOOOOOOOOO this is my first contribution ^^
@@ -78,6 +80,7 @@ Saryuna Batobolotova
 - [Syed Salman Reza](https://github.com/syed-reza98)
 - [Andriamihamina Sébastien](https://github.com/Andriamihamina) The start of a long series of open source contributions.
 - [Zeeshan Jumabhoy](https://github.com/ZeeshanJumabhoy) My first contri
+- [Frank Mesa](https://github.com/frankxhunter) Hello from Barcelona
 - [ParadoxicalParticle](https://github.com/ParadoxicalParticle) happens
 - [Hariom Chaudhary](https://github.com/hariomch1) Lets kick start it
 - [Anurag] Long way to go!
@@ -4191,4 +4194,6 @@ random guy
 - [Manan Kumar](https://github.com/codex-blip) - Hello World
 -[Ahmed Nazzal](https://github.com/Nazzal-hmm) - Hi everyone!
 - [TianYe](https://github.com/TianYe717) - Hello everyone!
+- [Daniel Tang](https://github.com/Tacode) 您好，世界！
 - Way to go
+- [Max](https://github.com/main-dot-py) - Hi Everybody
