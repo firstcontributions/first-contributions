@@ -18,6 +18,7 @@ Saryuna Batobolotova
 - [Rafael Rezende](https://github.com/rafa-rez) Hello from UFLA - Lavras - MG - Brazil | XD
 - [Md. Mahmudul Hasan Mabud] (https://github.com/mahmudul626) Hi, I am from Bangladesh.
 -Achal Agrawal this i my first contribution and I'm happy and learning to do it.
+I'm doing some minor changes for practice.
 - [David Gagnon] (https://github.com/Numpkens) Hello World!
 -[Piyush Rawat] (https://github.com/PiyushRw) first contribution!!!
 - [Adrian2047] (https://github.com/AdrianNeshad) Hello World!
