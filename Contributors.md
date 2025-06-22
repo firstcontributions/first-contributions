@@ -41,7 +41,7 @@ Achal Agrawal
 -[Ojas Mhatre] (https://github.com/mhatreojas)  Hell yeah
 -[Codesmith-114](https://github.com/Codesmith-114) Just gettin started
 -[Hariprasad Duvvuru](https://github.com/Hari0546)  I am learing Git and GitHub!!
-
+- [KnightBlue] (https://github.com/KnightBlue14) Happy to see a project that actively encourages beginners to contribute 
 - [SanGiio](https://github.com/SanGiio)
 - [Felix](https://github.com/felixpitterling)
 - [Pavni](https://github.com/PavniR) just learning!
