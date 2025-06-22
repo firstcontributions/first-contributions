@@ -4166,8 +4166,6 @@ random guy
 - [Brandon Song] (https://github.com/defkorean)
 - [Mayuri Khandelwal] (https://github.com/khandelwalmayuri) Thankyou for creating this repository, Code is like humor. When you have to explain it, it’s bad and that's why every project has a readme 
 - [Amit Kumar Deo](https://github.com/22AmitDeo)
-- [Lakshit Kumawat](https://github.com/Lakshit1111) It's just get started.
-- [Andri Devoloper](https://github.com/andri-devoloper)
 - [Lakshit Kumawat](https://github.com/Lakshit1111) It's just get started. 
 - [Vaibhav](https://github.com/vaibhavsanap112)
 - [Pedro Vitorino](https://github.com/pedrovitorino07) First Pull Request, lets go boys!
