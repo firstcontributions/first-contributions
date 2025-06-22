@@ -1,5 +1,4 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -123,7 +122,6 @@ git push origin <താങ്കളുടെ-ബ്രാഞ്ചിന്റ�
 
 താങ്കളുടെ സംഭാവന സുഹൃത്തുക്കളും പിൻഗാമികളുമായി (followers) പങ്കിട്ട് ആഘോഷിക്കുവാനായി ഈ [വെബ് ആപ്പ് ഉപയോഗിക്കുക](https://firstcontributions.github.io/#social-share).
 
-താങ്കൾക്ക് എന്തെങ്കിലും സഹായം വേണമെങ്കിൽ, അല്ലെങ്കിൽ എന്തെങ്കിലും ചോദ്യങ്ങൾ ഉണ്ടെങ്കിൽ ഞങ്ങളുടെ [slack team-ൽ ചേരുവാനായി റിക്വസ്റ്റ് അയക്കുക](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
 ഇനി താങ്കൾക്ക് മറ്റുള്ള പ്രൊജെക്ടുകളിൽ സംഭാവന ചെയ്യുവാൻ സാധിക്കും. താങ്കൾക്ക് വേഗം തുടങ്ങുവാൻ വേണ്ടി ഞങ്ങൾ എളുപ്പത്തിൽ തീർക്കാവുന്ന പ്രശ്നങ്ങൾ (issues) ഉള്ള പ്രോജക്ടുകളുടെ ഒരു ലിസ്റ്റ് ഉണ്ടാക്കിയിട്ടുണ്ട്. അത് ഈ  [പ്രോജക്ടുകളുടെ ലിസ്റ്റിൽ](https://firstcontributions.github.io/#project-list) ഉൾപ്പെടുത്തിയിട്ടുണ്ട്.
 

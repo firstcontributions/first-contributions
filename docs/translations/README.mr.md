@@ -1,5 +1,4 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -120,7 +119,6 @@ git push origin <आपल्या-शाखेचे-नाव>
 
 आपले योगदान साजरे करा आणि [येथे](https://firstcontributions.github.io/#social-share) जाऊन आपल्या मित्र आणि अनुयायांसह शेअर/सामायिक करा.
 
-आपल्याला कोणत्याही मदतीची आवश्यकता असल्यास किंवा काही प्रश्न असल्यास आपण आमच्या स्लॅक टीममध्ये सामील होऊ शकता. [स्लॅक टीममध्ये सामील व्हा](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
 आता आपण इतर प्रकल्पांमध्येही आपले योगदान देऊ शकता. आपण प्रारंभ करू शकाल अशा सुलभ समस्यांसह (Issues) आम्ही काही प्रोजेक्टची सूची संकलित केली आहे. [येथे वेब अॅप मधील प्रकल्पांची यादी पहा.](https://firstcontributions.github.io/#project-list)
 

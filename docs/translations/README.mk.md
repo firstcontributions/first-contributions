@@ -109,7 +109,6 @@ git push origin <vnesete-ime-na-vashata-granka>
 
 Прославете ги вашите придонеси и споделете ги со пријатели и следители со посета на [веб-апликацијата](https://firstcontributions.github.io/#social-share).
 
-Можете да станете дел од нашиот slack team ако ви треба помош или имате прашања  [Стани дел](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
 Сега е време да започнете да допринесувате кон други проекти. Ние имаме создадено список со лесни проекти за да започнете. [Види ја листата](https://firstcontributions.github.io/#project-list).
 

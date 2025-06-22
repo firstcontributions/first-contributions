@@ -1,5 +1,4 @@
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1n4y7xnk0-DnLVTaN6U9xLU79H5Hi62w)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -111,7 +110,6 @@ Ki ekirungi! Onoowuziza ku ttendekero lya _fork -> clone -> edit -> pull request
 
 Jaguza ekyo ky'oyongeddeko era ogikwase mikwano gyo n'abagoberera nga oyita ku [web app](https://firstcontributions.github.io/#social-share).
 
-Osobola okuyingira ku team ya slack bw'oba oyagala obuyambi obulala oba olina ebibuuzo. [Yingira team ya slack.](https://firstcontributors.slack.com/join/shared_invite/zt-29qhyr9lt-Bi7WLbgGIFqV7aCEG_grvg#/shared-invite/email).
 
 Kati ka tutandikire okukola ku kintu ekirala. Tundese olukalala lwa project ezirina ebizibu ebitalina y'oyinza okutandika n'okukola. Kebera [olukalala lwa project mu web app](https://firstcontributions.github.io/#project-list).
 

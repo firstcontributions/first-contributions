@@ -1,5 +1,4 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -105,7 +104,6 @@ git push origin <ຊື່ branch ຂອງທ່ານ>
 ຍິນດີນຳ, ທ່ານໄດ້ປະຕິບັດຂັ້ນຕອນຂອງການເຮັດ contribute ຄື fork -> clone -> edit -> pull request ເຊິ່ງຂັ້ນຕອນຕ່າງໆເຫຼົ່ານີ້ເປັນສິ່ງທີ່ທ່ານຕອງໄດ້ພົບເມື່ອທ່ານເປັນ contributor
 ສະເຫຼີມສະຫຼອງໃຫ້ແກ່ການມີສ່ວນຮ່ວມຂອງທ່ານ, ຢ່າລືມແບ່ງປະສົບການທີ່ທ່ານໄດ້ຮັບໃຫ້ແກ່ໝູ່ເພື່ອນຂອງທ່ານ ໂດຍໄປທີ່ [ເວັບໄຊນີ້](https://firstcontributions.github.io/#social-share)
 
-ຫຼືຈະມີສ່ວນຮ່ວມກັບເຮົາຜ່ານ Slack ໃນກໍລະນີທີ່ທ່ານຕ້ອງການຄວາມຊ່ວຍເຫຼືອ ຫຼື ມີຂໍ້ສົງໄສໃດໆ [ເຂົ້າຮ່ວມ slack ກັບພວກເຮົາ](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 
 ຈາກນີ້ທ່ານສາມາດ contribute ໃຫ້ໂປຣເຈັກອື່ນໆໄດ້, ໂດຍທາງເຮົາໄດ້ເຮັດລາຍການໂປຣເຈັກທີ່ງ່າຍຕໍ່ການເລີ່ມຕົ້ນບາງສ່ວນໄວ້ໃຫ້ [ລາຍຊື່ໂປຣເຈັກທີ່ໜ້າສົນໃຈ](https://firstcontributions.github.io/#project-list)
 

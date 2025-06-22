@@ -1,5 +1,4 @@
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -141,7 +140,6 @@ GitHub இல் உள்ள உங்கள் களஞ்சியத்த�
 
 உங்கள் பங்களிப்பைக் கொண்டாடுங்கள் மற்றும் உங்கள் நண்பர்கள் மற்றும் பின்தொடர்பவர்களுடன் [web app](https://firstcontributions.github.io/#social-share) சென்று பகிர்ந்து கொள்ளுங்கள்.
 
-உங்களுக்கு ஏதேனும் உதவி தேவைப்பட்டால் அல்லது ஏதேனும் கேள்விகள் இருந்தால் எங்கள் slack team இல் இணையலாம். [Join our slack crew](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)..
 
 இப்போது மற்ற திட்டங்களுக்கு பங்களிப்பதன் மூலம் தொடங்குவோம். நீங்கள் தொடங்கக்கூடிய எளிதான சிக்கல்களுடன் திட்டங்களின் பட்டியலை நாங்கள் தொகுத்துள்ளோம். பாருங்கள் [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
 

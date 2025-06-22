@@ -1,5 +1,4 @@
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -141,7 +140,6 @@ Hambalyo! Waxaad hadda dhamaystirtay heerka caadiga ah ee kalaqaybinta(fork) -> 
 
 U dabaaldeg wax ku biirintaada oo la wadaag asxaabtaada iyo kuwa ku raacsan adiga oo aadaya [abka shabakada](https://firstcontributions.github.io/#social-share).
 
-Waxaad ku biiri kartaa kooxdeena slack ah haddii aad u baahan tahay wax caawimo ah ama aad qabto wax su'aalo ah. [Ku biir kooxda slack ](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
 Hadda aan kuu bilowno ka qayb qaadashada mashaariicda kale. Waxaan soo diyaarinay liis mashruucyo ah oo leh qaladaad sahlan oo aad ku bilaabi karto. Fiiri [liiska mashaariicda ku jira abka shabakada](https://firstcontributions.github.io/#project-list).
 

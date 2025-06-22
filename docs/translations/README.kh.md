@@ -1,5 +1,4 @@
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1n4y7xnk0-DnLVTaN6U9xLU79H5Hi62w)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -202,7 +201,6 @@ git push -u origin your-branch-name
 
 អបអរសាទរការរួមចំណែករបស់អ្នក ហើយចែករំលែកវាជាមួយមិត្តភក្តិ និងអ្នកដើរតាមរបស់អ្នកដោយចូលទៅកាន់ [កម្មវិធីគេហទំព័រ](https://firstcontributions.github.io/#social-share).
 
-អ្នកអាចចូលរួមជាមួយក្រុម slack របស់យើង ប្រសិនបើអ្នកត្រូវការជំនួយ ឬមានសំណួរណាមួយ។ [ចូលរួមក្រុម slack](https://firstcontributors.slack.com/join/shared_invite/zt-29qhyr9lt-Bi7WLbgGIFqV7aCEG_grvg#/shared-invite/email).
 
 ឥឡូវនេះ ចូរអ្នកចាប់ផ្តើមជាមួយនឹងការរួមចំណែកដល់គម្រោងផ្សេងទៀត។ យើងបានចងក្រងបញ្ជីគម្រោងដែលមានបញ្ហាងាយស្រួលដែលអ្នកអាចចាប់ផ្តើមបាន។ ពិនិត្យមើល [បញ្ជីគម្រោងក្នុងកម្មវិធីបណ្ដាញ](https://firstcontributions.github.io/#project-list).
 

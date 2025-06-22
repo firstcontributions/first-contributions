@@ -1,5 +1,4 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -116,7 +115,6 @@ Ku ise oti pari boṣewa bisesenlo _fork -> clone -> edit -> PR_ bisesenlo ti o 
 
 Ṣe ayẹyẹ ilowosi yer 'ki o pin pẹlu' awọn ọkan ati awọn ọmọlẹyin nipasẹ lilọ’ si [web app](https://firstcontributions.github.io/#social-share).
 
-Ẹ lè darapọ̀ mọ́ àwọn òṣìṣẹ́ òṣìṣẹ́ wa tí kò já fáfá tí ẹ bá nílò ìrànlọ́wọ́ èyíkéyìí tàbí kí ẹ lè gba àlọ́ kankan. [Darapo](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
 Bayi jẹ ki a bẹrẹ pẹlu' idasi' t' awọn iṣẹ akanṣe miiran. A ti ṣe akojọpọ awọn iṣẹ akanṣe pẹlu awọn ọran irọrun ti o le bẹrẹ. Ṣayẹwo [awon re](https://firstcontributions.github.io/#project-list).
 

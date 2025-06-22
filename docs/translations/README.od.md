@@ -1,5 +1,4 @@
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -123,7 +122,6 @@ git push -u <ଉତ୍ପତ୍ତି ତୁମର ଶାଖା-ନାମ>
 
 ଆପଣଙ୍କର ଅବଦାନକୁ ପାଳନ କରନ୍ତୁ ଏବଂ [ୱେବ୍ ଆପ୍](https://firstcontributions.github.io/#social-share) କୁ ଯାଇ ଆପଣଙ୍କର ସାଙ୍ଗ ଏବଂ ଅନୁସରଣକାରୀଙ୍କ ସହିତ ଅଂଶୀଦାର କରନ୍ତୁ |
 
-ଯଦି ତୁମର କ ଣସି ସାହାଯ୍ୟ ଦରକାର କିମ୍ବା କ ଣସି ପ୍ରଶ୍ନ ଅଛି ତେବେ ତୁମେ ଆମର ଅଳସୁଆ ଦଳରେ ଯୋଗ ଦେଇ ପାରିବ | [ଅଳିଆ ଦଳରେ ଯୋଗ ଦିଅନ୍ତୁ](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 
 ବର୍ତ୍ତମାନ, ଅନ୍ୟ ପ୍ରୋଜେକ୍ଟରେ ଯୋଗଦାନ ସହିତ ଆରମ୍ଭ କରିବା | ସହଜ ପ୍ରସଙ୍ଗଗୁଡିକ ସହିତ ଆମେ ପ୍ରୋଜେକ୍ଟଗୁଡିକର ଏକ ତାଲିକା ସଂକଳନ କରିଛୁ ଯାହାକୁ ଆପଣ ଆରମ୍ଭ କରିପାରିବେ | [ୱେବ୍ ଆପରେ ପ୍ରୋଜେକ୍ଟଗୁଡିକର ତାଲିକା](https://firstcontributions.github.io/#project-list) ଦେଖନ୍ତୁ |
 
