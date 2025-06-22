@@ -397,6 +397,7 @@ Mubarak Qorane
 - [androvonx95](https://github.com/androvonx95) – **__ I use Arch btw 🗿🗿🗿🗿 __**
 - [Robyn](https://github.com/RBodde)
 - [Snowsita](https://github.com/Snowsita)
+- [smoglmy](https://github.com/smoglmy)
 - [VictorMontoya](https://github.com/alonvico)
 - [railgun-0402](https://github.com/railgun-0402)
 - [YashV](https://github.com/YaSh88991)
