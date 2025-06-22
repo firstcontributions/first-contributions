@@ -20,7 +20,10 @@ Saryuna Batobolotova
 - [Kantesh Murade] (https://github.com/KanteshMurade) **Happy to be part of the open source journey!**
 - [Rafael Rezende](https://github.com/rafa-rez) Hello from UFLA - Lavras - MG - Brazil | XD
 - [Md. Mahmudul Hasan Mabud] (https://github.com/mahmudul626) Hi, I am from Bangladesh.
-- [David Gagnon] (https://github.com/Numpkens) Hello World! -[Piyush Rawat] (https://github.com/PiyushRw) first contribution!!!
+- [David Gagnon](https://github.com/Numpkens) Hello World!
+- [Arjan Chakraborty](https://github.com/Arjan-Git1) My first contribution to the open source world! Cheers to open sourcing!
+- [Piyush Rawat](https://github.com/PiyushRw) first contribution!!!
+
 - [Kacper Ajdyna](https://github.com/kaaper11) Hello open source!
 - [Adrian2047] (https://github.com/AdrianNeshad) Hello World!
 - [Akalanka] (https://github.com/akalankawijesing) Hello World!
@@ -366,7 +369,7 @@ Saryuna Batobolotova
 - [gitty98]noice
 - [Ancil](https://github.com/iamancil)
 - [Om Borse](https://github.com/Om-Borse26) My first contribution to open source!
-- [androvonx95](https://github.com/androvonx95) – **** I use Arch btw 🗿🗿🗿🗿 ****
+- [androvonx95](https://github.com/androvonx95) – \***\* I use Arch btw 🗿🗿🗿🗿 \*\***
 - [Robyn](https://github.com/RBodde)
 - [Snowsita](https://github.com/Snowsita)
 - [VictorMontoya](https://github.com/alonvico)
