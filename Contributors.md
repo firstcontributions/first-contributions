@@ -1,4 +1,5 @@
  # Contributors
+ -[Anjali Gaikwad](https://github.com/anjaligaikwad1405)
  - [Samaha Munir](https://github.com/SamahaMunir)
  - [Sarah Caulfield](https://github.com/scaulfield7)
  -[NotIshaan - Ishaan Bhadrike] (https://github.com/NotIshaan)
