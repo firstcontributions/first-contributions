@@ -1,5 +1,5 @@
 # Contributors
-- [Muawiya](https://github.com/Muawiya-contact)
+- [Muawiya-contact](https://github.com/Muawiya-contact)
 **Yossef Elshamy**
  [Ansh Gupta]
 - [Otmane SAIAOUD](https://github.com/SD-OTM/)
