@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -123,7 +123,7 @@ Congrats! Nakumpleto mo lang ang karaniwang _fork -> clone -> edit -> pull reque
 
 Ipagdiwang ang iyong kontribusyon at ibahagi ito sa iyong mga kaibigan at tagasubaybay sa pamamagitan ng pagpunta sa [web app](https://firstcontributions.github.io/#social-share).
 
-Maaari kang sumali sa aming slack team kung kailangan mo ng anumang tulong o may anumang mga katanungan. [Sumali sa slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
+
 
 Ngayon simulan na natin ang pag-aambag sa iba pang mga proyekto. Nag-compile kami ng isang listahan ng mga proyekto na may mga madaling isyu na maaari mong simulan. Tingnan ang [listahan ng mga proyekto sa web app](https://firstcontributions.github.io/#project-list).
 

@@ -118,7 +118,7 @@ replacing `የእርስዎ-ቅርንጫፍ-ስም` with the name of the branch y
 
 አስተዋፅኦዎን ያክብሩ እና ወደ [ድር መተግበሪያ](https://firstcontributions.github.io/#social-share) በመሄድ ለጓደኞችዎ እና ተከታዮችዎ ያካፍሉ።
 
-ማንኛውም እርዳታ ከፈለጉ ወይም ማንኛውም ጥያቄ ካለዎት የእኛን ደካማ ቡድን መቀላቀል ይችላሉ. [የላላ ቡድንን ይቀላቀሉ](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)።
+
 
 አሁን ለሌሎች ፕሮጀክቶች በማበርከት እንጀምር። እርስዎ ሊጀምሩባቸው የሚችሉ ቀላል ጉዳዮች ያላቸውን የፕሮጀክቶች ዝርዝር አዘጋጅተናል። ይመልከቱ [በድር መተግበሪያ ውስጥ ያሉ የፕሮጀክቶች ዝርዝር](https://firstcontributions.github.io/#project-list)።
 

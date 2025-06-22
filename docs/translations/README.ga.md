@@ -1,5 +1,5 @@
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1n4y7xnk0-DnLVTaN6U9xLU79H5Hi62w)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -130,7 +130,7 @@ Comhghairdeas! Chríochnaigh tú an tslí ríthábhachtach  _fork -> clone -> ed
 
 Ceiliúraigh do chionta agus roinne é le do chairde agus le do leanúnaigh trí dul go dtí an aip ghréasáin. [web app](https://firstcontributions.github.io/#social-share).
 
-D'fhéadfá dul inár bhfoireann Slack má tá cabhair uait nó ceisteanna agat. [Ghabh le foireann Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1n4y7xnk0-DnLVTaN6U9xLU79H5Hi62w).
+
 
 Anois, lig dúinn tú a thosú ag tacú le tionscadail eile. Tá liosta againn de thionscadail le faidhéideanna éasca a d'fhéadfá tosú orthu. Féach ar liosta na dtionscadal san aip ghréasáin.
 

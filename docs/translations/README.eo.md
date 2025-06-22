@@ -1,5 +1,5 @@
 [![Amo al Malferma Kodo](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
+
 [![Licenco: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Helpantoj de Malferma Kodo](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -120,7 +120,7 @@ Gratulojn! Vi ĵus finis la regulan _fork -> clone -> redaktu -> pull request_ f
 
 Festu vian kontribuon kaj dividiĝu kun viaj amikoj kaj sekvantoj irante al [rete apikaĵo](https://firstcontributions.github.io/#social-share).
 
-Vi ankaŭ povas aliĝi al nia Slack-teamo se vi bezonas helpon aŭ havas demandojn. [Aliĝu al nia Slack-teamo](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
+
 
 Nun komencu kontribui al aliaj projektoj. Ni kolektis liston de projektoj kun facilaj problemoj, por ke vi povu ekhavi. Rigardu [la liston de projektoj en la rete apikaĵo](https://firstcontributions.github.io/#project-list).
 

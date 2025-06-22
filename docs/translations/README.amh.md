@@ -126,7 +126,6 @@ Go to [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-t
 
 አስተዋጾዎን  ያጣጣጥሙ እና ወደ ድር በመሄድ ለጓደኞችዎ እና ተከታዮችዎ ያካፍሉ።(https://firstcontributions.github.io/#social-share).
 
-ማንኛውም እርዳታ ከፈለጉ ወይም ማንኛውም ጥያቄ ካለዎት የእኛን 'slack' ቡድን መቀላቀል ይችላሉ::(https://join.slack.com/t/firstcontributors/shared_invite/zt-1n4y7xnk0-DnLVTaN6U9xLU79H5Hi62w).
 
 አሁን ለሌሎች ፕሮጀክቶች በማበርከት እንጀምር። እርስዎ ሊጀምሩባቸው የሚችሉ ቀላል ጉዳዮች ያላቸውን የፕሮጀክቶች ዝርዝር አዘጋጅተናል። በድር መተግበሪያ ውስጥ ያሉትን የፕሮጀክቶች ዝርዝር ይመልከቱ(https://firstcontributions.github.io/#project-list).
 

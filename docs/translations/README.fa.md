@@ -1,5 +1,5 @@
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -115,7 +115,7 @@ git push origin <add-your-branch-name>
 
 مشارکت خود روی این پروژه را [از اینجا](https://firstcontributions.github.io/#social-share) با دیگر دوستان و دنبال‌کنندگان خود جشن بگیرید.
 
-همچنین شما می‌توانید [از اینجا](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)، وارد تیم Slack ما شوید و سوالات خود را مطرح نمایید.
+
 
 حال، شما می‌توانید مشارکت خود را روی دیگر پروژه‌ها آغاز نمایید. ما یک لیست از پروژه‌ها با مشکلات ساده ایجاد کردیم که گزینه خوبی برای شروع می‌باشد. لیست پروژه‌ها را [از این اینجا](https://firstcontributions.github.io/#project-list) دنبال کنید.
 

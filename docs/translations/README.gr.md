@@ -1,5 +1,5 @@
 ﻿[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -124,9 +124,6 @@ git push origin <add-your-name>
 Συγχαρητήρια! Μόλις ολοκληρώσατε την τυπική ροή εργασιών _fork -> clone -> edit -> pull request_ που θα συναντήσετε συχνά ως συνεργάτης! 
 
 Γιορτάστε και μοιραστείτε την συνεισφορά σας με τους φίλους και τους ακόλουθους σας πηγαίνοντας στο [web app](https://firstcontributions.github.io/#social-share).
-
-Μπορείτε να συμμετέχετε στην ομάδα μας στο slack σε περίπτωση που θέλετε κάποια βοήθεια ή έχετε κάποια ερώτηση.
-[Η ομάδα μας στο slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
 Τώρα μπορείτε να ξεκινήσετε να συνεισφέρετε και σε άλλα project. Έχουμε φτιάξει μια λίστα από project με εύκολα προβλήματα για να ξεκινήσετε. Δείτε εδώ [τη λίστα με τα project](https://firstcontributions.github.io/#project-list).
 

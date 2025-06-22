@@ -1,5 +1,4 @@
 ﻿[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 # प्रथम योगदान
@@ -112,7 +111,6 @@ git push origin <अपन-शाखा-के-नाम-जोड़व>
 
 अपन पहली योगदान के ख़ुशी म अपन संगी मन करा शेयर करव [वेब एप्प](https://firstcontributions.github.io/#social-share) पे जाके |
 
-आपमन हमर स्लैक टीम ल ज्वाइन कर सकत हव अगर आपमन ल कोनो सहायता के जरुरत होही त | [म ज्वाइन करव](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 
 अब आपमन अउ प्रोजेक्ट्स म कंट्रीब्यूट करे बर शुरू कर सकत हव | हमन एक लिस्ट बनाए हन जेन म अड़बड़ सरल मुद्दे हवएं| [प्रोजेक्ट्स के लिस्ट](https://firstcontributions.github.io/#project-list)
 

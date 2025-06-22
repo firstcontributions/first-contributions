@@ -1,5 +1,4 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -119,7 +118,6 @@ Taya murna! Ka kawai karanta uwar garken -> kwafin fitarwa -> gyara -> Zazzage s
 
 Duba gudunmawar ku kuma ku raba ta tare da abokanku da mabiyanku ta ziyartar [app app](https://firstcontributions.github.io/#social-share).
 
-Kuna iya shiga cikin ma'aikatan mu na abokantaka idan kuna buƙatar kowane taimako ko kuna da tambayoyi. [Haɗa ƙungiyar slack](https://join.slack.com/t/firstcontr🏴ibutors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWYZm
 
 Yanzu, bari mu fara da ba da gudummawa don wasu ayyuka. Mun tattara jerin ayyuka masu sauƙi da tattaunawa da za ku iya farawa. Duba [jerin ayyuka da aikace-aikacen yanar gizo](https://firstcontributions.github.io/#project-list).
 
