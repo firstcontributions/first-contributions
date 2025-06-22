@@ -17,6 +17,7 @@ Saryuna Batobolotova
 [Pranav Pandey] 
 - [Reymund Virtus](https://github.com/reymundvirtus) Hello, this is my first contribution to open source 20/06/25 1:42AM
 - John. The start of a young boy becoming a man 
+- Uday. Let's see where it goes
 - Michael Alemayehu (https://github.com/MickeyAlemayehu) Hello, from Ethiopia here!! Wish you all the best!!
 - [Kantesh Murade] (https://github.com/KanteshMurade) **Happy to be part of the open source journey!**
 - [Rafael Rezende](https://github.com/rafa-rez) Hello from UFLA - Lavras - MG - Brazil | XD
