@@ -4203,3 +4203,5 @@ random guy
 - [Max](https://github.com/main-dot-py) - Hi Everybody
 - [Harun Celen](https://github.com/HarunCelen) - This is the way
 -  [Om Yewale](https://github.com/OMEE-69) - First Contribution
+- [TheCodingPenguin22](https://github.com/TheCodingPenguin22) - Halloj! Detta är min första öppenkällkods projekt!
+
