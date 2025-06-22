@@ -4205,3 +4205,4 @@ random guy
 - [Max](https://github.com/main-dot-py) - Hi Everybody
 - [Harun Celen](https://github.com/HarunCelen) - This is the way
 - [TheCodingPenguin22](https://github.com/TheCodingPenguin22) - Halloj! Detta är min första öppenkällkods projekt!
+- [RustyFox13] (https://github.com/RustyFox13) - 'Ello 'ello all, just out here having a bit o' fun, hope to see some of y'all on some projects soon!
