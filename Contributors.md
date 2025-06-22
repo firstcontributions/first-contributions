@@ -4125,6 +4125,7 @@ random guy
 - [Ashrith] (https://github.com/Ashrituh)
 - [Loïc Burnotte](https://github.com/LoicBurnotte)
 - [Ryan Pham] (https://github.com/RoddyCodes)
+- [Easy Mahaffey] (https://github.com/easymahaffey)
 - [Muaz Islam Babar](https://github.com/Muazislam) im goona use gentoo linux
 - Hi,I'm [XInzhe Gao], Dream it. Chase it. Code it. (https://github.com/XinzheGao)
 [Roshan Sahu](https://github.com/notGifoyle)
