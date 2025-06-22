@@ -118,7 +118,7 @@ Geluk! Jy het net die standaardvurk voltooi -> klone -> wysig -> PR- werkvloei w
 
 Vier jou bydrae en deel dit met jou vriende en volgelinge deur na die [webprogram te](https://firstcontributions.github.io/#social-share) gaan .
 
-U kan by ons span aansluit indien u enige hulp nodig het of enige vrae het. [Sluit aan by 'n slapende span](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
+U kan by ons span aansluit indien u enige hulp nodig het of enige vrae het. [Sluit aan by 'n slapende span].
 
 Kom ons begin met die bydrae tot ander projekte. Ons het 'n lys van projekte saamgestel met maklike probleme waarmee u kan begin. Kyk na [die lys van projekte in die web app](https://firstcontributions.github.io/#project-list).
 
