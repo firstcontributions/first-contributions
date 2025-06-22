@@ -5,7 +5,7 @@ Saryuna Batobolotova
 - [moe-charm](https://github.com/moe-charm)
 - [Ankit Kumar Prajapati](https://github.com/ankit-kumar-prajapati) Hello guys, this is my first contribution on github. Excited to learn and grow together.
 - [Priyanka-Kumari] (https://github.com/prowessclust) Hi, I am learning open source, this is my first contribution! 22/06/2025
-- [mabubakar87] (https://github.com/mabubakar87) Happy to learn new things and be a part of the open source community 
+- [mabubakar87] (https://github.com/mabubakar87) Happy to learn new things and be a part of the open source community 06/22/2025
 - [Kyle-Smith] (https://github.com/Atlis-Ky) One more dev joins the endless sea of juniors, hell yeah brother!
 - [Deryn Brown](https://github.com/dbrown13) Hi, I am learning open source! 6/19/2025
 - [Anderson Patricio](https://github.com/1patricio) Hi, My Name is Anderson 6/20/2025
