@@ -1,4 +1,5 @@
 # Contributors
+- [Jaiyanth] (https://github.com/Jaiyanth-dk) **OOGA BOOGA COMRADES**
 - [Purandar Sai](https://github.com/Purandhar17) Hello World!!
 - [Matheus Knaul] (https://github.com/matheusknaul) My First open source!!
 - [Adarsh](https://github.com/Fire-furo) My first contribution to open source on 17/06/2025!
