@@ -1532,6 +1532,7 @@ Matthew Burgos
 - [Siddhant Y](https://github.com/megastore21)
 - [Virat Shandilya](https://github.com/viraaattttt)
 - [Muhammad Sidik](https://github.com/msidik01)
+- [AJ LeSure](https://github.com/AJurBoii)
 -[Satyugesque](https://github.com/Satyugesque)
 - [Gowtham Raj](https://github.com/Fizzy-Brain)
 - [Prashant Saini](https://github.com/prashantsaini1525)
