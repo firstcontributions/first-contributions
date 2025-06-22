@@ -7,6 +7,7 @@ Saryuna Batobolotova
 - [Priyanka-Kumari] (https://github.com/prowessclust) Hi, I am learning open source, this is my first contribution! 22/06/2025
 - [Kyle-Smith] (https://github.com/Atlis-Ky) One more dev joins the endless sea of juniors, hell yeah brother!
 - [Deryn Brown](https://github.com/dbrown13) Hi, I am learning open source! 6/19/2025
+- [Alisha Mahek](https://github.com/AlishaMahek03) Hi, My Name is Alisha Mahek! This is my First Open Source Contribution.
 - [Anderson Patricio](https://github.com/1patricio) Hi, My Name is Anderson 6/20/2025
 - [Clarence Gatama](https://github.com/clarenceG01) Start of an awesome journey
 - [Dianna Brown](https://github.com/dibrown) Hello from Missouri!  Jun-20-2025
