@@ -2,6 +2,7 @@ Saryuna Batobolotova
 # Contributors
 - AISeekerX 20260620
 - [Anmol Yadav](https://github.com/Anmolyadav4836/) Hi, I am learning open Source!
+- [Lavanya Selvaraaj] Bonjur, New beginning in my life, hope to get succeed in whatever i am contributing
 - [moe-charm](https://github.com/moe-charm)
 - [Ankit Kumar Prajapati](https://github.com/ankit-kumar-prajapati) Hello guys, this is my first contribution on github. Excited to learn and grow together.
 - [Priyanka-Kumari] (https://github.com/prowessclust) Hi, I am learning open source, this is my first contribution! 22/06/2025
@@ -396,6 +397,7 @@ Mubarak Qorane
 - [androvonx95](https://github.com/androvonx95) – **__ I use Arch btw 🗿🗿🗿🗿 __**
 - [Robyn](https://github.com/RBodde)
 - [Snowsita](https://github.com/Snowsita)
+- [smoglmy](https://github.com/smoglmy)
 - [VictorMontoya](https://github.com/alonvico)
 - [railgun-0402](https://github.com/railgun-0402)
 - [YashV](https://github.com/YaSh88991)
@@ -1531,6 +1533,7 @@ Matthew Burgos
 - [Siddhant Y](https://github.com/megastore21)
 - [Virat Shandilya](https://github.com/viraaattttt)
 - [Muhammad Sidik](https://github.com/msidik01)
+- [AJ LeSure](https://github.com/AJurBoii)
 -[Satyugesque](https://github.com/Satyugesque)
 - [Gowtham Raj](https://github.com/Fizzy-Brain)
 - [Prashant Saini](https://github.com/prashantsaini1525)
@@ -3122,6 +3125,7 @@ random guy
 - [hg1414](https://github.com/hg1414)
 - [Pedro](https://github.com/Pedro137BR)
 - [rbrickmn](https://github.com/rbrickmn)
+- [khalisah khan](https://github.com/khalisahkhan)
 - [yend724](https://github.com/yend724)
 - [leeCode83](https://github.com/leeCode83)
 - [Dwiki Kurnia](https://github.com/dwikikurnia)
@@ -4206,3 +4210,4 @@ random guy
 - [Harun Celen](https://github.com/HarunCelen) - This is the way
 - [TheCodingPenguin22](https://github.com/TheCodingPenguin22) - Halloj! Detta är min första öppenkällkods projekt!
 - [RustyFox13] (https://github.com/RustyFox13) - 'Ello 'ello all, just out here having a bit o' fun, hope to see some of y'all on some projects soon!
+- [Syed Muhammad Qasim](https://github.com/qasim032) - Happy to contribute!
