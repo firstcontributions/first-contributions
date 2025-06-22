@@ -4190,4 +4190,5 @@ random guy
 - pddd
 - [Manan Kumar](https://github.com/codex-blip) - Hello World
 -[Ahmed Nazzal](https://github.com/Nazzal-hmm) - Hi everyone!
+- [Daniel Tang](https://github.com/Tacode) 您好，世界！
 - Way to go
