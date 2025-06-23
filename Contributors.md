@@ -3982,6 +3982,7 @@ random guy
 - [BeiChen Stanly](https://github.com/BeiChenStanly)
 - [Rahul Ravindra](https://github.com/hellosemiconductor)
 - [Kunal Maka](https://github.com/DuddWiser)
+- [Jimisaq](Hi I am Jim Ainamani, a gallant Makererean)
 - [itsMeOnli](https://github.com/itsMeOnli)
 - [Aman Deol](https://github.com/AmanDeol7)
 - [Shardul Dhiwar](https://github.com/ShardulDhiwar)
