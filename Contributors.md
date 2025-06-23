@@ -2,6 +2,7 @@ Saryuna Batobolotova
 # Contributors
 - AISeekerX 20260620
 - [Anmol Yadav](https://github.com/Anmolyadav4836/) Hi, I am learning open Source!
+- [Lipsa Das](https://github.com/LipsaDas0710)Hi, This is my first open source contribution!
 - [Lavanya Selvaraaj] Bonjur, New beginning in my life, hope to get succeed in whatever i am contributing
 - [moe-charm](https://github.com/moe-charm)
 - [Ankit Kumar Prajapati](https://github.com/ankit-kumar-prajapati) Hello guys, this is my first contribution on github. Excited to learn and grow together.
