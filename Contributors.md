@@ -344,6 +344,7 @@ Achal Agrawal
 - [Ashish Jha](https://github.com/AshishJha30)
 - [Mariia Shmidt] (https://github.com/markshmidt)
 - [Atkin](https://github.com/atkin0)
+- [Aakash Choudhary](https://github.com/ifaakash) **First Open Source Contribution**
 - [Julia Coyner](https://github.com/jucoyner1)
 - [Alex Taylor](https://github.com/Alex-Devonte)
 - [Aryan Pal] (https://github.com/aryanpal-7)
