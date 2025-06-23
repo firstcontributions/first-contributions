@@ -68,7 +68,8 @@ Achal Agrawal
 - [Soham Padalikar](https://github.com/Soham204) Hello World
 - [Prabhneet Singh ](https://github.com/neet1313)Practicing to contribute for Open Source.
 - [IGBUDU CHIBUZOR](https://github.com/thechibuzor1) My first open source contribution!!
-- [Ilana de Beer](https://github.com/LlamaIlana) Hello, Welcome to first of many contributions. 
+- [Ilana de Beer](https://github.com/LlamaIlana) Hello, Welcome to first of many contributions.
+- [joset15](https://github.com/joset15) - My first open source contribution!
 - [Adharsh k](https://github.com/shadows-codinghub) Starting of my open source contribution!(23/06/2025)
 - [Anurag Raut](https://github.com/anurag-raut1) First Contribution...
 - [Mateusz Święszek](https://github.com/MateuszSwieszek)
