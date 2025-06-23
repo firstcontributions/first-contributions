@@ -2630,6 +2630,7 @@ random guy
 - [Vicente Guzmán](https://vicenteguzman.com/)
 - [Aldo Oliva](https://github.com/aldoliva)
 - [Vinit Jahagirdar](https://github.com/Vinit1909)
+- [Vicente Pinochet ](https://github.com/Qajirr)
 - [Mohamed Abdulghany](https://github.com/MohamedMG7)
 - [Bam](https://github.com/QBJ08)
 - [Tyler Daw](https://github.com/TylerD1105)
