@@ -1956,6 +1956,7 @@ Matthew Burgos
 - [Vaibhav Baweja](https://github.com/vaibhavbaweja7)
 - [Nathaly Fairlie Pearson Freitas](https://github.com/NathalyFairlie)
 - [Davide Rubinetti](https://github.com/davideruby)
+- [Sangam Paudel](https://github.com/sangampaudel530)
 - [Daiwiik Harihar](https://github.com/daiv09)
 - [Mohammad Sarfaraz Afzal](https://github.com/mohammadsarfarazafzal)
 - [Firdaus Zulkifli](https://github.com/firdaus-zulkifli)
