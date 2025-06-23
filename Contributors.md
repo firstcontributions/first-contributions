@@ -1155,6 +1155,7 @@ e-Jo
 - [Navya Sree Ram Kumar Chowdary](https://github.com/NAVI-1725)
 - [Dhwani Chauhan](https://github.com/dhruvi003)
 - [Lakshmi SR](https://github.com/LakshmiRamasubramanian)
+- [Sachin Karthikeyan](https://github.com/compiledchaos)
 - [Divya Punna](https://github.com/divya2507punna)
 - [Shamik Sinha](https://github.com/theshamiksinha)
 - [Saron Gm](https://github.com/saronbgm)
