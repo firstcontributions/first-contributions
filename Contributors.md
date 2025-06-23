@@ -4229,3 +4229,4 @@ random guy
 - Akmal
 - [olatzgoti](https://github.com/olatzgoti) - Hi all, hello from Basque Country :-)
 - [kavyaMajeti](https://github.com/KavyadeviMajeti) -Hi all,starting my contribution journey 
+- [Janvi Chaturvedi](https://github.com/JANVI-CHATURVEDI) First step into open source ✨
