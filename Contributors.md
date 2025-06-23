@@ -1346,6 +1346,7 @@ Matthew Burgos
 - [Ayush Hrishikesh Mishra](https://github.com/Ayush-hm)
 - [João Victor dos Reis da Silva](https://github.com/R3I5)
 - [Saicobys (Jacob Moronta)](https://github.com/SaicoBys)
+- [Mattan Toledo](https://github.com/mattantoledo)
 - [Hechima](https://github.com/hechima256)
 - [Fabiana Barreto](https://github.com/fabifelicia)
 - [Huan Salomão](https://github.com/neneca-lab)
