@@ -42,6 +42,7 @@ I'm doing some minor changes for practice.
 - Hii Everyone, My name is Hariom Pandey 
 - [Lavkush] (https://github.com/Lavkush24) Frist dive in the world of Open source on 19/06/2025!
 Achal Agrawal
+- [Beatriz Gonçalves](https://github.com/beatrizvsgoncalves)
 - [Anurag Pandey](https://github.com/anurag99x) My first contribution to open source on 19/06/2025!
 - [Jenna Lee] (https://github.com/roasted-oolong)
 - [John Erol Tambal](https://github.com/Lore-d-J) HELLLOOOOOOOOOO this is my first contribution ^^
