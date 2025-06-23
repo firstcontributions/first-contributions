@@ -4227,3 +4227,4 @@ random guy
 - [deehyeon](https://github.com/deehyeon) - Hello!!
 - Akmal
 - [olatzgoti](https://github.com/olatzgoti) - Hi all, hello from Basque Country :-)
+- [kavyaMajeti](https://github.com/KavyadeviMajeti) -Hi all,starting my contribution journey 
