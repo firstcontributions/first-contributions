@@ -181,6 +181,7 @@ Achal Agrawal
 - [Mukul Bhardwaj](https://github.com/MukulB0412)
 - [Tomoaki Kurata](https://github.com/moecute-asmr/)
 - [Dipesh Kumar Mandal](https://github.com/Dipesh166)
+- [GiziL](https://github.com/GiziL13)
 - [Piyush Varma](https://github.com/piyushhvarma)
 - [Ismail Salah](https://github.com/msi404)
 - [Vitor Moreira](https://github.com/mmartins-vitor)
