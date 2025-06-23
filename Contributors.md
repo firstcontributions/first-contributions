@@ -108,6 +108,7 @@ Achal Agrawal
 - [Rama Samsara](https://github.com/RamaSamsara) This one of my learning stage into GitHub
 - [Akshada Mane](https://github.com/AkshadaMane26) Starting my open source contribution journey.
 - [Thinzar](https://github.com/Thinzar-Shun-Lei)
+- [Tarman](https://github.com/Tarmanjeet) Adding my name to contributors list.
 - [Aditya](https://github.com/itxadii) Lets Connect coders🚀.
 - [Gregory](https://github.com/gregory-7)
 - [Abhishek](https://github.com/Abhishek-Mishra-GH) This marks the beginning of my open source journy
