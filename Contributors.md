@@ -3669,6 +3669,7 @@ random guy
 - [Kazuyuki Kita](https://github.com/chisuke0309)
 - [Rafael Scorfi] - (https://github.com/rscorfi)
 - [Flxzz](https://github.com/Flxzz)
+- [Sergio Montenegro](https://github.com/sergioomp) First open source contribution!
 - [Maaz Azhar](https://github.com/maxpainop)
 - [Oleksii Shamrai](https://github.com/alexshamrai)
 - [Brad Stafford](https://github.com/b-rad-omni)
