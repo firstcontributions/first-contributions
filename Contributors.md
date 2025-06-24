@@ -1,5 +1,6 @@
 Saryuna Batobolotova
 # Contributors
+- [Olivier] this is my first contribution ever ! I'm happy to try this new feature. Salutations to everyone !
 - AISeekerX 20260620
 - [nguyenhoanghai1605](https://github.com/nguyenhoanghai1605) Hello everyone, my name is Mr.Hai, I am passionate about Website, Mobile App and Full-Stack development | Software engineering student.
 - [Kishan Rana Ghosh](https://github.com/kishanghosh090) - Hi everyone my name is Kishan, i'm Passionate about Android & Full-Stack Development | BS Data Science Student 📚
