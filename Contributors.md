@@ -990,6 +990,7 @@ Anshi
  -[Mohammad Hashim](https://github.com/mohammadhashim135)
  -[Paulina Udeh](https://github.com/paulina351)
  -[Harsh Mawalkar](https://github.com/Harsh-Mawalkar)
+ -[Sergio A B Madrigal](https://github.com/SergioABMadrigal)
  -[geoffreyFernando](https://github.com/geoffreyFernando)
  - [Ludmi Lopez](https://github.com/DamperDoor56)
  - [LaMinYou](https://github.com/LaMinYou)
