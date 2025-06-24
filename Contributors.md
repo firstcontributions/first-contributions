@@ -15,6 +15,7 @@
 - [Adrian2047] (https://github.com/AdrianNeshad) Hello World!
 - [Akalanka] (https://github.com/akalankawijesing) Hello World!
 - [Sudhanshu] (https://github.com/sudhanshu-raj) Namaste | Holla | Hello ,  guys ! 
+- [Chidi SMith] (https://github.com/chidismith01) my first cotribution to open-source project
 - [Lavkush] (https://github.com/Lavkush24) Frist dive in the world of Open source on 19/06/2025!
 - [Anurag Pandey](https://github.com/anurag99x) My first contribution to open source on 19/06/2025!
 - [Jenna Lee] (https://github.com/roasted-oolong)
