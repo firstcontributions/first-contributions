@@ -108,6 +108,7 @@ Achal Agrawal
 - [Syed Salman Reza](https://github.com/syed-reza98)
 - [Andriamihamina Sébastien](https://github.com/Andriamihamina) The start of a long series of open source contributions.
 - [Zeeshan Jumabhoy](https://github.com/ZeeshanJumabhoy) My first contri
+- [Bjor](https://github.com/BJ0R) you have my gratitude
 - [Frank Mesa](https://github.com/frankxhunter) Hello from Barcelona
 - [ParadoxicalParticle](https://github.com/ParadoxicalParticle) happens
 - [Hariom Chaudhary](https://github.com/hariomch1) Lets kick start it
