@@ -4240,3 +4240,4 @@ John Morgan Hello!
 - [kavyaMajeti](https://github.com/KavyadeviMajeti) -Hi all,starting my contribution journey 
 - [Janvi Chaturvedi](https://github.com/JANVI-CHATURVEDI) First step into open source ✨
 - [Animesh Chittora] (https://github.com/animeshchittora) - Hello Open Source!!!
+- [Eduardo](https://github.com/Edd17369)
