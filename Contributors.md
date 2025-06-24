@@ -32,6 +32,7 @@ Saryuna Batobolotova
 - Uday. Let's see where it goes. Maybe one more time??
 - Michael Alemayehu (https://github.com/MickeyAlemayehu) Hello, from Ethiopia here!! Wish you all the best!!
 - [Kantesh Murade] (https://github.com/KanteshMurade) **Happy to be part of the open source journey!**
+- [Manish Kumar] Things are not simple until you make them simple lets begain the journey of open source contributions 
 - [Rafael Rezende](https://github.com/rafa-rez) Hello from UFLA - Lavras - MG - Brazil | XD
 - [Md. Mahmudul Hasan Mabud] (https://github.com/mahmudul626) Hi, I am from Bangladesh.
 -Achal Agrawal this i my first contribution and I'm happy and learning to do it.Something happened.
