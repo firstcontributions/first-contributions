@@ -26,7 +26,7 @@ Este documento fornece informações sobre como remover um arquivo do seu reposi
 Este documento fornece informações sobre como deletar uma branch do seu repositório.
 > Siga estas etapas somente depois que seu pull request for mesclado.
 
-### [Resolvendo conflitos de merge](../../git_workflow_scenarios/resolving-merge-conflicts.md)
+### [Resolvendo conflitos de merge](resolving-merge-conflicts.pt-br.md)
 Este documento fornece informações sobre como resolver conflitos de merge.
 > Siga estas etapas para resolver conflitos de merge incômodos.
 
