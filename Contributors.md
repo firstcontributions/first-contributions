@@ -82,7 +82,8 @@ Achal Agrawal
 - [Dadir Awad](https://github.com/dadirawad) Hello World, this is my first time contributing to open source! 
 - [Mathues Justin Hasda](https://github.com/hasdajustin) Hello World! This is my first contribution to open source!
 - [Amritanshu Goutam](https://github.com/bhutuklearning) Hii Everyone.
-- Harika Y 
+- Harika Y
+- [Al Lizaso](https://github.com/alizaso97) Hello World! Excited to contribute to my first open source project :]
 - [Soham Padalikar](https://github.com/Soham204) Hello World
 - [Prabhneet Singh ](https://github.com/neet1313)Practicing to contribute for Open Source.
 - [IGBUDU CHIBUZOR](https://github.com/thechibuzor1) My first open source contribution!!
