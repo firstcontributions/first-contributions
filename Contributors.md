@@ -4165,6 +4165,7 @@ random guy
 - [mike Cardeiro]
 - [Ashrith] (https://github.com/Ashrituh)
 - [Loïc Burnotte](https://github.com/LoicBurnotte)
+- [Isabella Mclean](https://github.com/Isabella-Mclean)
 - [Ryan Pham] (https://github.com/RoddyCodes)
 - [Easy Mahaffey] (https://github.com/easymahaffey)
 - [Muaz Islam Babar](https://github.com/Muazislam) im goona use gentoo linux
