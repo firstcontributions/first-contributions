@@ -1097,6 +1097,7 @@ Anshi
 - [Jason Liu](https://github.com/jsl1114)
 - [Jayant Kumar](https://github.com/zapwiz22)
 - [Mohamad Hussain](https://github.com/mdkh9980)
+- [Adão Araujo](https://github.com/adao-araujo)
 - [Filippo Iori](https://github.com/Girolamone)
 - [Muhammad Anas](https://github.com/AnasJadoon31)
 - [Aditya joshi](https://github.com/Aditya44234)
