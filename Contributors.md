@@ -13,6 +13,7 @@ Saryuna Batobolotova
 - [mabubakar87] (https://github.com/mabubakar87) Happy to learn new things and be a part of the open source community 06/22/2025
 - [Kyle-Smith] (https://github.com/Atlis-Ky) One more dev joins the endless sea of juniors, hell yeah brother!
 - [Unnati Agarwal] First time making a contribution reallyyyy exciteddd...
+- [Jerald-Pascual] (https://github.com/JeraldPascual) Hello, World! Open source, here I come 6/24/2025
 - [Deryn Brown](https://github.com/dbrown13) Hi, I am learning open source! 6/19/2025
 - [Alisha Mahek](https://github.com/AlishaMahek03) Hi, My Name is Alisha Mahek! This is my First Open Source Contribution.
 - [Anderson Patricio](https://github.com/1patricio) Hi, My Name is Anderson 6/20/2025
