@@ -1,6 +1,7 @@
 Saryuna Batobolotova
 # Contributors
 - AISeekerX 20260620
+- [Kishan Rana Ghosh](https://github.com/kishanghosh090) - Hi everyone my name is Kishan, i'm Passionate about Android & Full-Stack Development | BS Data Science Student 📚
 - [Ziyue Zhou] (https://github.com/Oatsinthepine/) Hello, this is the practice of contributing to a open source project.
 - [Anmol Yadav](https://github.com/Anmolyadav4836/) Hi, I am learning open Source!
 - Nicol: Hola, emocionada por mi primera contribucion! :)
