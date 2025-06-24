@@ -4276,3 +4276,4 @@ John Morgan Hello!
 -[Zaky](https://github.com/zeciati) - Just coming through
 -[Ishika](https://github.com/ishika240047) - i am from india and this is my first open source contibution 
 - [Lucas Hoggan](https://github.com/lucashoggan) - Hello from Scotland!
+- [pranaytg](https://github.com/pranaytg) – Hi, I'm Pranay, a passionate AI and full-stack developer exploring open source and solving real-world problems with code.
