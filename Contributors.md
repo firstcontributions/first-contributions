@@ -1034,6 +1034,7 @@ Anshi
 -[Aadarsh mishra]
 -[Arjun Thazhath](https://github.com/arjunthazhath2001)
 -[Daniascii](https://github.com/daniascii)
+-[Sragvi Chavan](https://github.com/sragssmonkey)
 -[Ilyas El Madni](https://github.com/ilyasmdn)
 -[Jas Verma](https://github.com/jasverma-hub)
 -[Rajath Shettigar](https://github.com/rajathshttgr)
