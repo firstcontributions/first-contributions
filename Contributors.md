@@ -3993,4 +3993,4 @@ Saryuna Batobolotova
 - [Daniel Tang](https://github.com/Tacode) 您好，世界！
 - Way to go
 - [Max](https://github.com/main-dot-py) - Hi Everybody
-- [Shravani Rane](https://github.com/SHRAVANIRANE)
+- [Shravanii Rane](https://github.com/SHRAVANIRANE)
