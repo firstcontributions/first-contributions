@@ -4264,3 +4264,4 @@ John Morgan Hello!
 - [lackoxy](https://github.com/lackoxy) -Hi there, a traveler who want to start an open source journey!(❁´◡`❁)
 - [Stevemichael](https://github.com/stevemichael15) - Hello, World!
 - [Taran Shetty](https://github.com/TaranShetty)
+- [ronaldrnd](https://github.com/ronaldrnd) - Hello from Madagascar!
