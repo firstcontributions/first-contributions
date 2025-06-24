@@ -32,6 +32,7 @@ Saryuna Batobolotova
 - [Tolani](https://github.com/tolaxxi) hi everyone 
 - [DoNguyenAnhTuan](https://github.com/DoNguyenAnhTuan)
 [Pranav Pandey]
+- [Ugochukwu]()
 - Coder Shota Kun, trying my best.
 - [Reymund Virtus](https://github.com/reymundvirtus) Hello, this is my first contribution to open source 20/06/25 1:42AM
 - John. The start of a young boy becoming a man 
