@@ -4263,3 +4263,4 @@ John Morgan Hello!
 -[Viswanathan](https://github.com/viswanathan11) -Hello world starting my open source journey
 - [lackoxy](https://github.com/lackoxy) -Hi there, a traveler who want to start an open source journey!(❁´◡`❁)
 - [Stevemichael](https://github.com/stevemichael15) - Hello, World!
+- [ronaldrnd](https://github.com/ronaldrnd) - Hello from Madagascar!
