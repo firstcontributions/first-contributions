@@ -1,5 +1,6 @@
 Saryuna Batobolotova
 # Contributors
+- [AhmedShaikh0](https://github.com/AhmedShaikh0) – Hi, I'm Ahmed M Shaikh, a passionate Web/Python developer and AI learner, contributing in the world of open source.
 - [Olivier] this is my first contribution ever ! I'm happy to try this new feature. Salutations to everyone !
 - AISeekerX 20260620
 - [nguyenhoanghai1605](https://github.com/nguyenhoanghai1605) Hello everyone, my name is Mr.Hai, I am passionate about Website, Mobile App and Full-Stack development | Software engineering student.
