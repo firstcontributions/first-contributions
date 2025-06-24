@@ -6,8 +6,6 @@ Saryuna Batobolotova
 - [Ziyue Zhou] (https://github.com/Oatsinthepine/) Hello, this is the practice of contributing to a open source project.
 - [Anmol Yadav](https://github.com/Anmolyadav4836/) Hi, I am learning open Source!
 - Nicol: Hola, emocionada por mi primera contribucion! :)
-- [Sakhi Chatterjee](https://github.com/sakhi3008) - - Hi, I'm Sakhi Chatterjee — passionate about Data Analysis and Python. Excited to make my first open-source contribution! 🚀
-
 - [Lipsa Das](https://github.com/LipsaDas0710)Hi, This is my first open source contribution!
 - [Lavanya Selvaraaj] Bonjur, New beginning in my life, hope to get succeed in whatever i am contributing
 - [Melissa Mision](https://github.com/MMision/melissamision) It's so nice to join the open source dev world! I am excited to learn and work together with the dev community.
@@ -49,6 +47,7 @@ I'm doing some minor changes for practice.
 - [Adrian2047] (https://github.com/AdrianNeshad) Hello World!
 - [Akalanka] (https://github.com/akalankawijesing) Hello World!
 - [Danica] (https://github.com/danicawinola) my first contribution on 20/6/25 !!
+- [Sakhi Chatterjee](https://github.com/sakhi3008) - - Hi, I'm Sakhi Chatterjee — Excited to make my first open-source contribution!🚀
 - [Sudhanshu] (https://github.com/sudhanshu-raj) Namaste | Holla | Hello ,  guys !
 - Hii Everyone, My name is Hariom Pandey 
 - [Lavkush] (https://github.com/Lavkush24) Frist dive in the world of Open source on 19/06/2025!
