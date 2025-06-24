@@ -160,6 +160,7 @@ Achal Agrawal
 - [Ragnus]
 - [Vipin Sao](https://github.com/vipinsao) First open source contribution, Now from here going to contribute in various open source projets.
 - [Adithya Salel](https://github.com/adithya-salel) First of many, hopefully.
+- [Vijay Killu](https://github.com/mvkillu) - Perfection is not attainable, but if we chase perfection we can catch excellence
 - [bochard](https://github.com/b0chard)
 - [Mohamed_amine](https://github.com/AmineDELTA)
 - [Akanksha] (https://github.com/Akanksha928) Let's go! 
