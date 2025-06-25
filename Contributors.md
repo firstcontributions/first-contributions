@@ -1,4 +1,6 @@
 # Contributors
+- [Kian] (https://github.com/kiaann1/) - Hey :O
+- [Reshard Turner](https://github.com/GhostShepherd31) - Excited to make my first contribution
 - [KingCode](https://github.com/King-Code-938) - Hello, this is my first contribution
 - [AhmedShaikh0](https://github.com/AhmedShaikh0) – Hi, I'm Ahmed M Shaikh, a passionate Web/Python developer and AI learner, contributing in the world of open source.
 - [Olivier] this is my first contribution ever ! I'm happy to try this new feature. Salutations to everyone !
@@ -2482,6 +2484,7 @@ random guy
 - [Jeswin Thomas Mathew] (https://github.com/Rioichi03)
 - [Kyle](https://github.com/goodwinkyle94)
 - [Kjohnbaba](https://github.com/kjohnbaba)
+- [Cristian Diaz Vega](https://github.com/crisvegadiaz) **Hola a todos!** 🇦🇷👋 Let's make great contributions together!
 - [Eric-DaRosa](https://github.com/EricDar12)
 - [Eddgar Rojas](https://github.com/Eddgar0)
 - [Leandro Choque](https://github.com/Leannnmv)
@@ -4288,4 +4291,8 @@ John Morgan Hello!
 - [Adriana Cabrera](https://github.com/adcab) Hey, I'm Adriana!
 - [1014laopi](https://github.com/1014laopi) - Hi, I'm wx
 - [Priyan Darshana](https://github.com/priyan1995) Hello Guys! I'm from Sri Lanka ✨🍁😎❤️🍔🧶👋
-- [Ramya R](https://github.com/Ramyaa-ar) Hello all, this is me a tech enthusiast want to explore different tech stack and this is my way forward to it.
+ 
+- [Ramya R](https://github.com/Ramyaa-ar) Hello all, this is me a tech enthusiast want to explore different tech stack and this is my way forward to 
+- [Riccardo Cataldi](https://github.com/RiccardoCataldi) Hi, I'm Riccardo
+- [Domenico] (https://github.com/Domi2004VR) Hi, i'm Domenico
+
