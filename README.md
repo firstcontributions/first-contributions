@@ -25,7 +25,6 @@
 <kbd>[<img title="ქართული" alt="ქართული" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ge.svg" width="22">](docs/translations/README.ge.md)</kbd>
 <kbd>[<img title="Magyar" alt="Magyar" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/hu.svg" width="22">](docs/translations/README.hu.md)</kbd>
 <kbd>[<img title="Bahasa Indonesia" alt="Bahasa Indonesia" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/id.svg" width="22">](docs/translations/README.id.md)</kbd>
-<kbd>[<img title="עִברִית" alt="עִברִית" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/il.svg" width="22">](docs/translations/README.hb.md)</kbd>
 <kbd>[<img title="हिंदी/ગુજરાતી/मराठी/മലയാളം/ಕನ್ನಡ/తెలుగు/छत्तीसगढ़ी/বাংলা/தமிழ்" alt="हिंदी/ગુજરાતી/मराठी/മലയാളം/ಕನ್ನಡ/తెలుగు/छत्तीसगढ़ी/বাংলা/தமிழ்" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/in.svg" width="22">](docs/translations/Translations.md)</kbd>
 <kbd>[<img title="தமிழ்" alt="தமிழ்" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/lk.svg" width="22">](docs/translations/README.ta.md)</kbd>
 <kbd>[<img title="فارسی" alt="فارسی" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ir.svg" width="22">](docs/translations/README.fa.md)</kbd>
