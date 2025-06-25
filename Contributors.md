@@ -4288,3 +4288,4 @@ John Morgan Hello!
 - [Adriana Cabrera](https://github.com/adcab) Hey, I'm Adriana!
 - [1014laopi](https://github.com/1014laopi) - Hi, I'm wx
 - [Priyan Darshana](https://github.com/priyan1995) Hello Guys! I'm from Sri Lanka ✨🍁😎❤️🍔🧶👋
+- [Riccardo Cataldi](https://github.com/RiccardoCataldi) Hi, I'm Riccardo
