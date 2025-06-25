@@ -4282,3 +4282,4 @@ John Morgan Hello!
 - [pranaytg](https://github.com/pranaytg) – Hi, I'm Pranay, a passionate AI and full-stack developer exploring open source and solving real-world problems with code.
 - [Edward Summitt](https://github.com/EdwardSummitt) hello
 - [lalashark](https://github.com/lalashark) hi this is lalashark~
+- [Mohit Rathi](https://github.com/rathi-mohit) Hey, I'm Mohit!
