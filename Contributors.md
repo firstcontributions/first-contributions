@@ -4298,3 +4298,5 @@ John Morgan Hello!
 - [Riccardo Cataldi](https://github.com/RiccardoCataldi) Hi, I'm Riccardo
 - [Domenico] (https://github.com/Domi2004VR) Hi, i'm Domenico
 - Satwika Chowdary Boppudi
+- [Sandip Hembram](https://github.com/sandiphembram2021) Added my name to contributors list and fixed typos.
+
