@@ -4290,3 +4290,4 @@ John Morgan Hello!
 - [1014laopi](https://github.com/1014laopi) - Hi, I'm wx
 - [Priyan Darshana](https://github.com/priyan1995) Hello Guys! I'm from Sri Lanka ✨🍁😎❤️🍔🧶👋
 - [Riccardo Cataldi](https://github.com/RiccardoCataldi) Hi, I'm Riccardo
+- [Domenico] (https://github.com/Domi2004VR) Hi, i'm Domenico
