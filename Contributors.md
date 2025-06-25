@@ -195,6 +195,7 @@ Achal Agrawal
 - [Bill](https://github.com/Bill-Pu/first-contributions) First contribution on GitHub 14/06/2025
 - [Caz](https://github.com/Caz1609)
 - [Otto Lukacs](https://github.com/ottolukacs)
+- [Kshitij Sharma](https://github.com/TheDucky-2) Come on man! Never even imagined i'll be coding. Yet, i'm here.
 - [Ashi Jain](http://github.com/Ashi-Jain)
 - [Riya Mundhara](https://github.com/riyamundhara)
 - [Szabolcs Cseres](https://github.com/szabicseres)
