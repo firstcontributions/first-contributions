@@ -2484,6 +2484,7 @@ random guy
 - [Jeswin Thomas Mathew] (https://github.com/Rioichi03)
 - [Kyle](https://github.com/goodwinkyle94)
 - [Kjohnbaba](https://github.com/kjohnbaba)
+- [Cristian Diaz Vega](https://github.com/crisvegadiaz) **Hola a todos!** 🇦🇷👋 Let's make great contributions together!
 - [Eric-DaRosa](https://github.com/EricDar12)
 - [Eddgar Rojas](https://github.com/Eddgar0)
 - [Leandro Choque](https://github.com/Leannnmv)
