@@ -21,6 +21,7 @@
 - [Senghak Choeun](https://github.com/Senghak-Choeun) - My first contribution to Open Source!
 - [leokkyhh](https://github.com/leokkyhh) hi there
 - [Ziyue Zhou] (https://github.com/Oatsinthepine/) Hello, this is the practice of contributing to a open source project.
+- [Lianne Liu] (https://github.com/Zhizhen-Lianne-Liu) Want to try contributing to open source to learn new skills
 - [Anmol Yadav](https://github.com/Anmolyadav4836/) Hi, I am learning open Source!
 - [Amjad Toama] (https://github.com/Amjad-Toama) – Software Engineer passionate about clean code, collaboration, and turning ideas into robust solutions.
 - Nicol: Hola, emocionada por mi primera contribucion! :)
