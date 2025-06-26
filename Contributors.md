@@ -4329,3 +4329,5 @@ John Morgan Hello!
 - [Tan] (https://github.com/tannistha12) - Hello I am Tannistha ~
 - [kyiroywops](https://github.com/kyiroywops)
 - [Surendhar](https://github.com/Surendhar512/) - Welcome to the open source community.
+- [KhangDangPham](https://github.com/KhangDangPham) - Hi there. I'm Khang Pham. This is my first open source contribution.
+- [Ananya Kulkarni] (https://github.com/ananya1971) - Exploring open source!
