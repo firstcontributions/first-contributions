@@ -1992,6 +1992,7 @@ Matthew Burgos
 - [A C Bhaskar Reddy](https://github.com/acbhaskar1/)
 - [Aryan Joshi] (https://github.com/AryanJoshi2108)
 - [Fco Birr](https://github.com/FcoBirr)
+- [linuxuxs](https://github.com/linuxuxs) Hey !! [C](https://img.shields.io/badge/C-:3-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 - [Vedant Garg][https://github.com/VedantG479]
 - [Rajesh Khanna] (https://github.com/Rajeshkris2)
 - [joserata] (https://github.com/joserata/first-contributions.git)
