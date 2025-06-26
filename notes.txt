@@ -1,3 +1,6 @@
 farhan
 learning git 
 teacher chatgpt
+its new line
+gonna work with branches
+
