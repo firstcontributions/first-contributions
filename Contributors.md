@@ -534,6 +534,7 @@ abu sulaymaan
 - Betty 
 - Sibi Elwin
 Solomon
+- [Oscar](https://github.com/oscarmiguel1)
 - [Paul](https:/github.com/neverleaveualong)
 - [0xHuzaifa](https://github.com/0xHuzaifa)
 - [Téo Zwiebel](https://github.com/TeoZWIEBEL)
