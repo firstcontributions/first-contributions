@@ -88,6 +88,7 @@ Achal Agrawal
 - [SanGiio](https://github.com/SanGiio)
 - [AdityaMalik7] (https://github.com/AdityaMalik7) Excited for open source contributions.
 - [Felix](https://github.com/felixpitterling)
+- [Ayushi Srivastava](https://github.com/AyushiSrivastava11) Hey, I am joining in for fun, would love to be the part of this amazing tech community, lots of love to everyone and a little note to myself: "life will be better in 6 months (hopefully)."
 - [Pavni](https://github.com/PavniR) just learning!
 - [Vraj](https://github.com/VrajChariot) My first open source contribution.
 - [Purandar Sai](https://github.com/Purandhar17) Hello World!! Hello World! This is my first contribution to open source!
