@@ -192,6 +192,7 @@ Achal Agrawal
 - [Saanvi] First contribution.
 - [Neeraj] Add me Please!
 - [Reshma R](https://github.com/reshma045)
+- [Ayush_Agrawal] (https://github.com/AyushAgrawal-04) Cheers to new beginning 
 - [Anish] (https://github.com/anish-eng)
 - [Hadar Pada-el] (https://github.com/HadarPadael)
 - [Andrew Velez](https://github.com/andrew-velez)
