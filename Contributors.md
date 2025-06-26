@@ -1,5 +1,6 @@
 # Contributors
 - [Ambika Sony] (https://github.com/Ambika-Sony) - hey! excited to contribute to Open source ..
+- [Gary Wang] (https://github.com/XJTUGary)- Hey, guys! Thanks for this project!
 - [Eddie He](https://github.com/eddiehe99) contributed to this project on June 26th, 2025.
 - [Parth Kikani](https://github.com/kikani-parth) - Namaste from India! This is my first open-source contribution.
 - [Gustavo Mendes] (https://github.com/ghmmendes) - Hello everybody, this is my first contribution.
