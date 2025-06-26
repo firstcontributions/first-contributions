@@ -4,6 +4,7 @@
 - [Reshard Turner](https://github.com/GhostShepherd31) - Excited to make my first contribution
 - [KingCode](https://github.com/King-Code-938) - Hello, this is my first contribution
 - [AhmedShaikh0](https://github.com/AhmedShaikh0) – Hi, I'm Ahmed M Shaikh, a passionate Web/Python developer and AI learner, contributing in the world of open source.
+-[Augusta](https://github.com/AbundanceChommy) This is my first contribution.I'm excited to contribute to open source.
 - [Olivier] this is my first contribution ever ! I'm happy to try this new feature. Salutations to everyone !
 - AISeekerX 20260620
 - [Sahil Chand](https://github.com/sahil-chand-21) Hi, I am Sahil Chand Currently exploring the open source project i am a beginner here hope this journey will help to add new functionality on my life!
