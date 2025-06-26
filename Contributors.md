@@ -300,6 +300,7 @@ Achal Agrawal
 - [Julien Marodon](https://github.com/JMD-tech)
 - [Tai]
 - team edith is here
+- [Jaiveer Tiwana]
 - [Dimitris Tsitsimis](https://github.com/adiropos)
 - [Shivani] (https://github.com/shivt-F5) - my first ever commit!! yay!!!
 - [Nobita ](https://faris12333-cloud) - I will contribute to opensource projects until my death
