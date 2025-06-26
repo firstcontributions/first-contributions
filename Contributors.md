@@ -4297,3 +4297,4 @@ John Morgan Hello!
 - [Riccardo Cataldi](https://github.com/RiccardoCataldi) Hi, I'm Riccardo
 - [Domenico] (https://github.com/Domi2004VR) Hi, i'm Domenico
 - Satwika Chowdary Boppudi
+- [Richard Kelly] (https://github.com/Hammersmythe) Hi, I'm Richard from Austin
