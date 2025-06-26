@@ -8,6 +8,7 @@
 - [Tina Zhao](https://github.com/Ruohan0413) - Hi there! This is my first open source contribution
 - [KingCode](https://github.com/King-Code-938) - Hello, this is my first contribution
 - [AhmedShaikh0](https://github.com/AhmedShaikh0) – Hi, I'm Ahmed M Shaikh, a passionate Web/Python developer and AI learner, contributing in the world of open source.
+-[Augusta](https://github.com/AbundanceChommy) This is my first contribution.I'm excited to contribute to open source.
 - [Olivier] this is my first contribution ever ! I'm happy to try this new feature. Salutations to everyone !
 - [Artūrs Kiseļevskis](https://github.com/akiselevskis) - Hey! Thank you for this guide :)
 - AISeekerX 20260620
@@ -1992,6 +1993,7 @@ Matthew Burgos
 - [A C Bhaskar Reddy](https://github.com/acbhaskar1/)
 - [Aryan Joshi] (https://github.com/AryanJoshi2108)
 - [Fco Birr](https://github.com/FcoBirr)
+- [linuxuxs](https://github.com/linuxuxs) Hey!! Hope you have an amazing day:3
 - [Vedant Garg][https://github.com/VedantG479]
 - [Rajesh Khanna] (https://github.com/Rajeshkris2)
 - [joserata] (https://github.com/joserata/first-contributions.git)
@@ -2997,6 +2999,7 @@ random guy
 - [Gaaglab](https://github.com/gaaglab)
 - [satyam1024](https://github.com/satyam1024)
 - [Harishraj Selvakumar](https://github.com/ByteBender24)
+- [Kyota Watanabe](https://github.com/axykot)
 - [stjepanDeveloper](https://github.com/stjepanDeveloper)
 - [romvcarlos](https://github.com/romvcarlos)
 - [rinerte](https://github.com/rinerte)
@@ -4317,4 +4320,6 @@ John Morgan Hello!
 - Satwika Chowdary Boppudi
 - [Richard Kelly] (https://github.com/Hammersmythe) Hi, I'm Richard from Austin
 - [Ambar Kansal]  (https://github.com/ambarkansal) Hi, I'm Ambar from India
+- [Saniya Guguloth](https://github.com/Saniyaguguloth)
 - [Tan] (https://github.com/tannistha12) - Hello I am Tannistha ~
+- [kyiroywops](https://github.com/kyiroywops)
