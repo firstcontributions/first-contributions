@@ -1726,6 +1726,7 @@ Matthew Burgos
 = [dlyh0] (https://github.com/dyhl0)
 - [Parimi Pujitha](https://github.com/parimipujitha269)
 - [Khaled Javdan](https://github.com/kjavedan/)
+- [Manas Tripathi](https://github.com/arsenik-09/) - My first contribution ^^
 - [Fazlul Karim Choudhury](https://github.com/FazlulKarimC)
 - [Eris Kasa](https://github.com/eriskasa)
 - [Timur Malkoc](https://github.com/TimurMalkc)
