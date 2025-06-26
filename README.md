@@ -1,6 +1,4 @@
-[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
+Commit 1
 
 #### _Read this in [other languages](docs/translations/Translations.md)._
 <kbd>[<img title="Shqip" alt="Shqip" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/al.svg" width="22">](docs/translations/README.al.md)</kbd>
