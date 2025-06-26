@@ -166,15 +166,7 @@ If you go to the project directory and execute the command `git status`, you'll 
 
 Add those changes to the branch you just created using the `git add` command:
 
-```bash
-git add Contributors.md
-```
-
-Now commit those changes using the `git commit` command:
-
-```bash
-git commit -m "Add your-name to Contributors list"
-```
+commit 3
 
 replacing `your-name` with your name.
 
