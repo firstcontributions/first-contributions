@@ -1993,6 +1993,7 @@ Matthew Burgos
 - [A C Bhaskar Reddy](https://github.com/acbhaskar1/)
 - [Aryan Joshi] (https://github.com/AryanJoshi2108)
 - [Fco Birr](https://github.com/FcoBirr)
+- [linuxuxs](https://github.com/linuxuxs) Hey!! Hope you have an amazing day:3
 - [Vedant Garg][https://github.com/VedantG479]
 - [Rajesh Khanna] (https://github.com/Rajeshkris2)
 - [joserata] (https://github.com/joserata/first-contributions.git)
