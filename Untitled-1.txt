@@ -1,1 +1,0 @@
-docs/translations/README.yo.md
