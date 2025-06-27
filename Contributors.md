@@ -4337,3 +4337,4 @@ John Morgan Hello!
 - [KhangDangPham](https://github.com/KhangDangPham) - Hi there. I'm Khang Pham. This is my first open source contribution.
 - [Vishal](https://github.com/Vishal12328) - I guess my open source journey starts from today!!
 - [Eli] (https://github.com/doggyeliot) - Enjoy
+- [Jeremy] - Howdy howdy howdy, all
