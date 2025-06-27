@@ -72,6 +72,7 @@
 I'm doing some minor changes for practice.
 - [David Gagnon] (https://github.com/Numpkens) Hello World!
 - [Arjan Chakraborty] (https://github.com/Arjan-Git1) My first contribution to the open source world! Cheers to open sourcing!
+- [Angel Gonzales] My first contribution to Open Source software on 27/06/25. Happy to be here! 
 -[Piyush Rawat] (https://github.com/PiyushRw) first contribution!!!
 - [Kacper Ajdyna](https://github.com/kaaper11) Hello open source!
 - [Adrian2047] (https://github.com/AdrianNeshad) Hello World!
@@ -4346,3 +4347,4 @@ John Morgan Hello!
 - [Eli] (https://github.com/doggyeliot) - Enjoy
 - [Jeremy] - Howdy howdy howdy, all
 - [Harman] - Showing some kids how to work github and programming languages!
+- [buso] - buso(https://github.com/buso40) - Hi, I'm buso.
