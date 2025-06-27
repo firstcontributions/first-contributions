@@ -2046,6 +2046,7 @@ Matthew Burgos
 - [ninet33n](https://github.com/meetVaidya)
 - [Jordan Atkins](https://github.com/Atkinss1)
 - [Sabittwa Banerjee](https://github.com/strangely-true)
+- [krushnaapatil](https://github.com/Krushnaapatil)
 - [Ashmita120](https://github.com/Ashmita120)
 - [Raunit Arya](https://github.com/RaunitArya)
 - [Christopher Faris](https://github.com/chrisF943)
