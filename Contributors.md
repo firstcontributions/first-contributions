@@ -4346,3 +4346,4 @@ John Morgan Hello!
 - [Eli] (https://github.com/doggyeliot) - Enjoy
 - [Jeremy] - Howdy howdy howdy, all
 - [Harman] - Showing some kids how to work github and programming languages!
+- [buso] - buso(https://github.com/buso40) - Hi, I'm buso.
