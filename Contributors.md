@@ -12,6 +12,7 @@
 - [Kian] (https://github.com/kiaann1/) - Hey :O
 - [Reshard Turner](https://github.com/GhostShepherd31) - Excited to make my first contribution
 - [Tina Zhao](https://github.com/Ruohan0413) - Hi there! This is my first open source contribution
+- [Rohan H](https://github.com/rhelwatkar) - Excited to start my open source journey !
 - [KingCode](https://github.com/King-Code-938) - Hello, this is my first contribution
 - [AhmedShaikh0](https://github.com/AhmedShaikh0) – Hi, I'm Ahmed M Shaikh, a passionate Web/Python developer and AI learner, contributing in the world of open source.
 -[Augusta](https://github.com/AbundanceChommy) This is my first contribution.I'm excited to contribute to open source.
