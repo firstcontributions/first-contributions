@@ -7,6 +7,7 @@
 - [Carlos Hernandez] (https://github.com/carloshernandezcu/) Hi, I was here! Greetings from Latam. June 26th, 2025.
 - [darkWolF61](https://github.com/darkWolF61) - i was here too..!
 - [Gary Wang] (https://github.com/XJTUGary)- Hey, guys! Thanks for this project!
+- [Justin Kakuyo](https://github.com/JMK-104) - Hey, everyone! Glad to be a part of this project (27/6/25)
 - [Eddie He](https://github.com/eddiehe99) contributed to this project on June 26th, 2025.
 - [Parth Kikani](https://github.com/kikani-parth) - Namaste from India! This is my first open-source contribution.
 - [Leah Boyd] (https://github.com/boydlm) - Excited to start a career in technical writing!
