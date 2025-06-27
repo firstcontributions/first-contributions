@@ -4321,7 +4321,8 @@ John Morgan Hello!
 - [ronaldrnd](https://github.com/ronaldrnd) - Hello from Madagascar!
 -[Zaky](https://github.com/zeciati) - Just coming through
 - [Roshan Koirala] (https://github.com/RoshannCodes) - Hello guys, Myself Roshan Koirala from Nepal!
--[Ishika](https://github.com/ishika240047) - i am from india and this is my first open source contibution 
+-[Ishika](https://github.com/ishika240047) - i am from india and this is my first open source contibutiono
+- [lichanghui11](https://github.com/lichanghui11) - Hello, I am a freshman in programming.
 - [Lucas Hoggan](https://github.com/lucashoggan) - Hello from Scotland!
 - [pranaytg](https://github.com/pranaytg) – Hi, I'm Pranay, a passionate AI and full-stack developer exploring open source and solving real-world problems with code.
 - [Kangsub Han](https://github.com/hks0827) hello! OpenSource
