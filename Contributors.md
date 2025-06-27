@@ -247,7 +247,7 @@ Achal Agrawal
 - [Khandaker Atik](https://github.com/khandaker-atik)
 - [Sarvagna Vemula](https://github.com/VemulaSarvagna)
 - [Suliman S](https://github.com/suliman9683) 
-譬如- [chloetychang](https://github.com/chloetychang)
+- [chloetychang](https://github.com/chloetychang)
 - [Abdelrahman Sharaf](https://github.com/eng-abdelrahman-sharaf)
 - [Malvin sehmaluva](https://github.com/sehmaluva)
 - [Shivraj Rajbhar](https://github.com/shivrajr1)
