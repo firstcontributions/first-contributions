@@ -2415,6 +2415,7 @@ Darien Edwards
 - [Gil Anavi](https://github.com/thisguygil)
 - [Michael B.](https://github.com/mbyrd3)
 - [ Supraja Gaonkar ](https://github.com/Supraja-Gao)
+- [Oscar A. Virguez](https://github.com/oscar243)
 - [vedivero](https://github.com/vedivero)
 - [Abhishek](https://github.com/i411229891)
 - [Hamed-Gharghi](https://github.com/Hamed-Gharghi)
