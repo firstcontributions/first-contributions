@@ -235,6 +235,7 @@ Achal Agrawal
 - [KonnorDev](https://github.com/KonnorDev)
 - [Mohammed Karab](https://github.com/Im-Mohammed) ⌨️ "In the world of code, even the smallest contribution echoes forever."
 - [Jugal Vyas](https://github.com/jugal-v)
+- [Konstantinos Pisimisis](https://github.com/CodeMaestro1/CodeMaestro1) "Every great project begins with a single line of code—and the courage to share it."
 - [Mukul Bhardwaj](https://github.com/MukulB0412)
 - [Tomoaki Kurata](https://github.com/moecute-asmr/)
 - [Dipesh Kumar Mandal](https://github.com/Dipesh166)
