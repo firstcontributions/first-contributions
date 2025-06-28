@@ -12,6 +12,7 @@
 - [José Albornoz] (https://github.com/jacs626)- This is my first contribution :D! Greetings from Chile (27/6/25)
 - [Justin Kakuyo](https://github.com/JMK-104) - Hey, everyone! Glad to be a part of this project (27/6/25)
 - [Eddie He](https://github.com/eddiehe99) contributed to this project on June 26th, 2025.
+- [Vasilis Avgoustakis](https://github.com/VasilisAvgoustakis) - Greetings!
 - [Parth Kikani](https://github.com/kikani-parth) - Namaste from India! This is my first open-source contribution.
 - [Leah Boyd] (https://github.com/boydlm) - Excited to start a career in technical writing!
 - [Gustavo Mendes] (https://github.com/ghmmendes) - Hello everybody, this is my first contribution.
