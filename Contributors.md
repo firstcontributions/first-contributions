@@ -68,6 +68,7 @@
 [Pranav Pandey]
 - [Ugochukwu]()
 - Coder Shota Kun, trying my best.
+- [Kobi Kenzi](https://github.com/KenziVisor) Hello thy neighbours.
 - [Reymund Virtus](https://github.com/reymundvirtus) Hello, this is my first contribution to open source 20/06/25 1:42AM
 - John. The start of a young boy becoming a man 
 - Uday. Let's see where it goes. Maybe one more time??
