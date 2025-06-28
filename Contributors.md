@@ -1,4 +1,7 @@
 # Contributors
+- [Rohit_nayak](https://github.com/rohitnayak19)  
+Hello everyone! 👋 I'm Rohit Nayak, a 24-year-old Frontend Developer from Chhattisgarh, India 🇮🇳. Excited to contribute to open source, learn from the community, and grow as a developer .
+ 
 -[madasamy](https://github.com/madasamydfan) - 18 year old , student started contributing to learn.
 - [Ritik-khandelwal] (https://github.com/Ritik-khandelwal) - Hey Hii Everyone !!! It's 28th June, 2025 Today. From today I have decided to do open source contributions. All The Best everyone for their future.
 - [zhouparis] (https://github.com/zhouparis) - 25 years old, 6/26/25, start of my OSS contributions hopefully. Goodluck to all those that come after and a big Wow to all those before
