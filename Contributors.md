@@ -206,6 +206,7 @@ Achal Agrawal
 - [Krishna Chamarthy](https://github.com/KrishnaChamarthy)
 - [vikas bansode](https://github.com/Vikass19) now learned how to contribute in open source projects.lets connect together and make a freelance boom on upwork connect with for colloboration.
 - [Samuel Thomas](https://github.com/samthomaz)
+- [Olivier](https://github.com/sbeerh)
 - [SREE VARSHAN V](https://github.com/sreevarshan-xenoz) 
 - [Jaz H](https://github.com/jzmn6) Holaaa!
 - [Fabricio Campos](https://github.com/Fabricio21dv/)
