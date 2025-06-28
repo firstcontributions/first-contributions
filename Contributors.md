@@ -9,6 +9,7 @@ Hello everyone! 👋 I'm Rohit Nayak, a 24-year-old Frontend Developer from Chha
 -[TSingh](https://github.com/Hawkscribe)-Hello !This time I am learning of the open source and increasing my space for the same.
 - [Ambika Sony] (https://github.com/Ambika-Sony) - hey! excited to contribute to Open source ..
 - [Kyle Santos] - Nice to meet you!
+- [SunkeSruthi603](https://github.com/SunkeSruthi603/) - Hello! Thank you for this Project.
 - [Carlos Hernandez] (https://github.com/carloshernandezcu/) Hi, I was here! Greetings from Latam. June 26th, 2025.
 - [darkWolF61](https://github.com/darkWolF61) - i was here too..!
 - [Gary Wang] (https://github.com/XJTUGary)- Hey, guys! Thanks for this project!
@@ -4375,3 +4376,4 @@ John Morgan Hello!
 - [Jeremiah] (https://github.com/jeremiahlay) - hi
 - [Aishwarya] (https://github.com/Aishwarya011k)- it is my first open source contribution i would love to continue this pace for the rest of my career 
 - [Shubh Bindal](https://github.com/shbd845) - HI
+- [AvatarG](https://github.com/AvatarG)
