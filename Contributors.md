@@ -2362,6 +2362,7 @@ Darien Edwards
 - [ARPITHA](https://github.com/Arpitha189)
 - [Sidhant Naik](https://github.com/Sidnaik04)
 - [rockxxjin](https://github.com/rockxxjin)
+- [WeAreBorg20](https://github.com/WeAreBorg20)
 - [idrees](https://github.com/idrees2k22)
 - [JaeHye0k](https://github.com/JaeHye0k)
 - [JasonSA1993](https://github.com/JasonSa1993/)
