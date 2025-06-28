@@ -197,6 +197,7 @@ Achal Agrawal
 - [Rudraksh Jurel](https://github.com/Rudraksh1510)
 - [Likhitha Ramachandrapurapu] My first open-source contribution
 - It's Me
+- [Ewogijk](https://github.com/Ewogijk) Hello there!
 - [Sathvik Q.](https://github.com/SathvikQ)
 - [Minh](https://github.com/remiminh)
 - [Maheswara](https://github.com/dctn/) This is my first open-source contribution
