@@ -4385,3 +4385,4 @@ John Morgan Hello!
 - [Shubh Bindal](https://github.com/shbd845) - HI
 - [AvatarG](https://github.com/AvatarG)
 - [MindFuckJS](https://github.com/MindFuckJS) - Yeah ik you hate JavaScript
+- [ericbarron329](https://github.com/ericbarron329) - Hi, sending a contribution!
