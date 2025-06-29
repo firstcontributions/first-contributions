@@ -1,5 +1,9 @@
 # கூடுதல் தகவல்
 
+[Slack குழுவில் சேரவும்](https://join.slack.com/t/firstcontributions/shared_invite/...)
+
+அல்லது, உதவிக்காக, [GitHub Discussions](https://github.com/firstcontributions/first-contributions/discussions) பகுதியை பயன்படுத்தவும்.
+
 இங்கு வருவதற்கு முன்பு நீங்கள் ஏற்கனவே அடிப்படை பயிற்சியை முடித்துவிட்டீர்கள் என்று கருதுகிறோம். இந்த ஆவணம் மேம்பட்ட Git நுட்பங்களைப் பற்றிய சில கூடுதல் தகவல்களை உங்களுக்கு வழங்கும்.
 
 ### [ஒரு உறுதிப்பாட்டைத் திருத்துதல்](amending-a-commit.md)
