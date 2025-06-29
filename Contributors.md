@@ -2324,6 +2324,7 @@ Darien Edwards
 - [David Okosa](https://github.com/dfw7th)
   [Theo-do](https://github.com/Theo-do)
 - [FloraPetit](https://github.com/PetitFlora)
+- [joelinux60](https://github.com/joelinux60)
 - [Amelia (amyfisticuffs)](https://amyfisticuffs.github.io)
 - [Livia Neto](https://github.com/LiviaNeto)
 - [anthocote19](https://github.com/anthocote19)
