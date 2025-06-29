@@ -1,12 +1,15 @@
 # Contributors
 -[Samiru Hemaka](https://github.com/SamiruHemaka2004) - hi guyz. this is my first contributiuon for open source.All the best for everyone!
 -[Insaf](https://github.com/itsmefminsaf) - Remember my name. I am the one who is going to invent the quantum computer
+-[Sara](https://github.com/sara-1129)-This is my first open source contribution ,really excited for the amazing journey ahead.
 -[Faizan Sheikh](https://github.com/faizan929) - Hello everyone, this is my first time contributing to an open source, happy learning, All the best
 -[madasamy](https://github.com/madasamydfan) - 18 year old , student started contributing to learn.
 - [Ritik-khandelwal] (https://github.com/Ritik-khandelwal) - Hey Hii Everyone !!! It's 28th June, 2025 Today. From today I have decided to do open source contributions. All The Best everyone for their future.
+- [johntoby] (https://github.com/johntoby) - Hii guys. Happy to contribute
 - [zhouparis] (https://github.com/zhouparis) - 25 years old, 6/26/25, start of my OSS contributions hopefully. Goodluck to all those that come after and a big Wow to all those before
 - [xiaobai-cn21] (https://github.com/xiaobai-cn21/) - hola! I'm a latinamerican student in china, nice to mee you guys
 -[TSingh](https://github.com/Hawkscribe)-Hello !This time I am learning of the open source and increasing my space for the same.
+- [Gustavo Rodriguez](https://github.com/grodriguez-it) - Hello everyone!! I'm preparing for my GitHub Foundations Exam
 - [Ambika Sony] (https://github.com/Ambika-Sony) - hey! excited to contribute to Open source ..
 - [Ikedalab-Daniel](https://github.com/IkedaLab-Daniel) - Preparing for GitHub Foundations Exam
 - [Kyle Santos] - Nice to meet you!
@@ -323,6 +326,7 @@ Achal Agrawal
 - [Imalka Sewwandi](https://github.com/imalkasewwandi24) Excited to contribute!
 - [Sweta goswami] This is my first contribution hope to do more on real world projects ....
 -[Rohan Pawar](https://github.com/Rohanpawar9921) **Trying best to be a contributer ❤️
+- [Deeraj P Menon](https://github.com/Deratheone) 
 - [Yourself] First contribution ...
 - [Wyn Mars] (https://github.com/WynMars/) Cheer up, don't give in
 - [Research Devkota] (https://github.com/itsresearch) Hello itsresearch..
@@ -596,6 +600,7 @@ Solomon
 - [Sumit Nayak](https://github.com/NotaScripptkiddie)
 - [Vimal Ganesh M](https://github.com/M-Vimal)
 - [Ali-dev11](https://github.com/Ali-dev11)
+- [André Celestino dos Santos] (https://github.com/andre-celestino-santos) Hello guys, i'm André from Brazil and this is my first contribution here, i hope to contribute more thanks.
   [Shahin_Hashemi] (https://github.com/techsup93)
 - [Amit_Vishwakarma] (https://github.com/amitvish)
 - [aramb-dev (Abdur-Rahman Bilal)](https://github.com/aramb-dev)
@@ -4214,6 +4219,7 @@ random guy
 - [Raghuveer Adari] (https://github.com/raghuadari)
 - [yohaku7](https://github.com/yohaku7)
 - [mukyoko](https://github.com/mukyoko)
+- [Derek K]
 -[Yusuf Tastan] (https://github.com/tastanyusuf)
 -[Tames] (https://github.com/tameszaza)
 - [Ming Xiro]  (https://github.com/dinhminh0307)
@@ -4388,3 +4394,7 @@ John Morgan Hello!
 - [AvatarG](https://github.com/AvatarG)
 - [MindFuckJS](https://github.com/MindFuckJS) - Yeah ik you hate JavaScript
 - [ericbarron329](https://github.com/ericbarron329) - Hi, sending a contribution!
+- [David Veytsman](https://github.com/dveytsman) - Awesome idea, thank you!
+- [Kelvin Ifeanyi] (https://github.com/rootikigai) - Yo! Wagwan great mindz! This is a good one for beginners contributing to open source. Nice work. Also, if you're coming underneath me, do give a follow on github...I follow back.
+- [Emmanuel Mingala](https://github.com/emmanyouwell) - Connect with me 🤝
+
