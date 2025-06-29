@@ -228,6 +228,7 @@ Achal Agrawal
 - [Vijay Killu](https://github.com/mvkillu) - Perfection is not attainable, but if we chase perfection we can catch excellence
 - [bochard](https://github.com/b0chard)
 - [Mohamed_amine](https://github.com/AmineDELTA)
+- [Shailesh_Kumar_Shukla](https://github.com/Shaileshukla529) --> Thrilled to announce my first open-source contribution – a huge step in my coding journey!
 - [Akanksha] (https://github.com/Akanksha928) Let's go! 
 - [Aarohi Mathur] lessgoo
 - [Asmitha] (https://github.com/AsmiSam) Good luck everybody!
