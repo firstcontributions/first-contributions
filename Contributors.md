@@ -4395,4 +4395,4 @@
 - [MindFuckJS](https://github.com/MindFuckJS) - Yeah ik you hate JavaScript
 - [ericbarron329](https://github.com/ericbarron329) - Hi, sending a contribution!
 - [David Veytsman](https://github.com/dveytsman) - Awesome idea, thank you!
-- [Emmanuel Mingala](https://github.com/emmanyouwell) - Fixed the list. 
+- [Emmanuel Mingala](https://github.com/emmanyouwell) - Fixed the list.
