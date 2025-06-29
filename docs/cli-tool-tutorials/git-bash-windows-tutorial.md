@@ -10,7 +10,7 @@
 
 It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
 
-Reading articles & watching tutorials can help, but what comes better than actually doing the stuff without messing up anything. This project aims at providing guidance & simplifying the way rookies make their first contribution. Remember the more relaxed you are the better you learn. If you are looking for making your first contribution just follow the simple steps below. We promise you, it will be fun.
+ Reading articles and watching tutorials can help, but nothing is better than actually doing it without the risk of messing things up. This project aims at providing guidance & simplifying the way rookies make their first contribution. Remember the more relaxed you are the better you learn. If you are looking for making your first contribution just follow the simple steps below. We promise you, it will be fun.
 
 If you don't have Git Bash on your windows machine, [install it](https://git-scm.com/download/win).
 
@@ -35,7 +35,7 @@ Open the git bash application you just downloaded. It should look like the image
 
 <img src="https://firstcontributions.github.io/assets/cli-tool-tutorials/git-bash-windows-tutorial/gb-terminal-1.png" alt="open git bash terminal" />
 
-Go to the folder that you want to save this project on by using this command
+Navigate to the folder where you want to save this project using the following command:
 
 ```bash
 cd <folder>
