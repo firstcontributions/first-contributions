@@ -4218,6 +4218,7 @@ random guy
 - [Raghuveer Adari] (https://github.com/raghuadari)
 - [yohaku7](https://github.com/yohaku7)
 - [mukyoko](https://github.com/mukyoko)
+- [Derek K]
 -[Yusuf Tastan] (https://github.com/tastanyusuf)
 -[Tames] (https://github.com/tameszaza)
 - [Ming Xiro]  (https://github.com/dinhminh0307)
