@@ -4399,3 +4399,4 @@ John Morgan Hello!
 - [David Veytsman](https://github.com/dveytsman) - Awesome idea, thank you!
 - [Kelvin Ifeanyi] (https://github.com/rootikigai) - Yo! Wagwan great mindz! This is a good one for beginners contributing to open source. Nice work. Also, if you're coming underneath me, do give a follow on github...I follow back.
 - [Emmanuel Mingala](https://github.com/emmanyouwell) - Connect with me 🤝
+-[Ronit Thakur](https://github.com/RonitThakur2003)-Connect with me 🤝
