@@ -1222,6 +1222,7 @@ e-Jo
 - [Harini R.](https://github.com/rharini1423)
 - [Thomas Moody](https://github.com/tjmoody)
 - [Jacob Nickerson](https://github.com/jacobnickerson)
+- [Kostiantyn Semenenko](https://github.com/NureSemenenkoKostiantyn)
 - [Akshitha Ramesh](https://github.com/akshitha2903)
 - [Matheus Cavalcanti](https://github.com/matheusscavalcanti)
 - [Samuel Rahul J](https://github.com/SamuelJ70)
