@@ -4394,5 +4394,6 @@
 - [AvatarG](https://github.com/AvatarG)
 - [MindFuckJS](https://github.com/MindFuckJS) - Yeah ik you hate JavaScript
 - [ericbarron329](https://github.com/ericbarron329) - Hi, sending a contribution!
-- [David Veytsman](https://github.com/dveytsman) - Awesome idea, thank you!
+- [David Veytsman](https://github.com/dveytsman) - Awesome idea, thank 
 - [Emmanuel Mingala](https://github.com/emmanyouwell) - Fixed the list.
+- [Kelvin Ifeanyi] (https://github.com/rootikigai) - Yo! Wagwan great mindz! This is a good one for beginners contributing to open source. Nice work. Also, if you're coming underneath me, do give a follow on github...I follow back.
