@@ -525,6 +525,7 @@ Mubarak Qorane
 - [NidaSiddiquee](https://github.com/Nida-siddiquee)
 - [Champer](https://github.com/Aw-Ab)
 - [Abizer Masavi](https://github.com/abizer007)
+- [cleonf24](https://github.com/cleonf24)
 - [Marianne Santos](https://github.com/Akiri017)
 -[Sanjay Ramsinghani](https://github.com/sanjay78632)
 - [Sdevso](https://github.com/Sdevso)
