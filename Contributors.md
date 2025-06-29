@@ -4404,3 +4404,4 @@ John Morgan Hello!
 -[Ronit Thakur](https://github.com/RonitThakur2003)-Connect with me 🤝
 - [MrGunkin](https://github.com/mrgunkin) - Hello everyone!
 - [Krishna Awasthi](https://github.com/krishnaawasthi-26)- from krishna, for Krishna, to Krishna
+-[kevinpeltier](https://github.com/kevinpeltier) - Doin' It! Cheers Everyone!!
