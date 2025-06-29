@@ -3,126 +3,136 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
-# පළමු දායකත්වය
+# පළමු දායකත්වය (First Contribution)
 
-ආරම්භකයින්ගේ පළමු දායකත්වය ලබා දෙන ආකාරය සරල කිරීම සහ මඟ පෙන්වීම මෙම ව්‍යාපෘතියේ අරමුණයි. ඔබ ඔබේ පළමු දායකත්වය ලබා දීමට බලාපොරොත්තු වන්නේ නම්, පහත පියවර අනුගමනය කරන්න.
+මේ project එකේ අරමුණ, open-source වලට අලුත් අයට, ඒ අයගේ පළමු දායකත්වය (contribution) ලබාදෙන එක සරල කරලා, ඒකට මග පෙන්වීමක් ලබා දෙන එකයි. ඔයත් ඔයාගේ පළමු contribution එක කරන්න බලාගෙන ඉන්නවා නම්, මේ පියවර අනුගමනය කරන්න.
 
-#### *ඔබ විධාන රේඛාව (command line) සමඟ අපහසු නම්, [GUI මෙවලම් භාවිතා කරන නිබන්ධන මෙන්න.](#tutorials-using-other-tools)*
+#### *Command line (terminal) එක භාවිතා කරලා මේ දේවල් කරන එක අමාරුයි වගේ නම්, [GUI මෙවලම් පාවිච්චි කරන මේ tutorials බලන්න.](#වෙනත්-මෙවලම්-සඳහා-වන-මාර්ගෝපදේශ)*
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="මෙම ගබඩාව fork කරන්න" />
+**සටහන:** ඔයාගේ computer එකේ git install කරලා නැත්නම්, මුලින්ම [මේ link එකෙන් ගිහින් install කරගන්න](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
-ඔබේ පරිගණකයේ git නොමැති නම්, [ස්ථාපනය කරන්න](https://help.github.com/articles/set-up-git/).
+## 1. මේ Repository එක Fork කරගන්න
 
-## මෙම ගබඩාව fork කිරීම
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="මෙම repository එක fork කරන්න" />
 
-පිටුවේ ඉහළින් ඇති fork බොත්තම ක්ලික් කිරීමෙන් මෙය කළ හැකිය. මෙය ඔබගේ ගිණුමේ
-පිටපතක් සාදනු ඇත.
+මේ පිටුවේ උඩ දකුණු පැත්තේ තියෙන 'Fork' button එක click කරන්න. එතකොට මේ repository එකේ copy එකක් ඔයාගේ GitHub ගිණුමේ හැදෙයි.
+## 2. Fork කරගත්තු Repository එක Clone කරගන්න
 
-## මෙම ගබඩාව clone කරන්න
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="මෙම repository එක clone කරන්න" />
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="මෙම ගබඩාව clone කරන්න" />
+දැන් ඔයා fork කරගත්ත repository එක ඔයාගේ computer එකට clone කරගන්න ඕන. ඒකට, ඔයාගේ GitHub ගිණුමට යන්න. Fork කරගත්ත repository එක open කරලා, 'Code' button එක click කරලා, එන URL එක copy කරගන්න.
 
-දැන් ඔබේ පරිගණකට fork කරපු repository ය ක්ලෝන කරන්න. ඔබට ඔබගේ GitHub ගිණුමට ගොස් fork කරපු repository විවෘත කර clone බොත්තම ක්ලික් කර එය පසුරු පුවරුවට (clipboard) පිටපත් කිරීමෙන් මෙය කළ හැක.
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="URL එක clipboard එකට copy කරගන්න" />
 
-*terminal* හෝ *command prompt* විවෘත කර පහත git විධානය ක්‍රියාත්මක කරන්න:
+දැන් ඔයාගේ computer එකේ terminal (command prompt) එක open කරලා, මේ git command එක run කරන්න:
 
-```
-git clone "ඔබ පිටපත් කළ url එක"
-```
-
-මෙහි "ඔබ පිටපත් කළ url එක" (උපුටා දැක්වීම් ලකුණු නොමැතිව) මෙම ගබඩාවේ url එක වේ (මෙම ව්යාපෘතියේ ඔබේ දෙබල (fork) ). url එක ලබා ගැනීමට පෙර පියවර බලන්න.
-
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
-
-
-උදාහරණ වශයෙන්:
-
-```
-git clone https://github.com/මෙය-ඔබයි/first-contributions.git
+```bash
+git clone "ඔයා දැන් copy කරගත්තු url එක"
 ```
 
-මෙහි `මෙය ඔබයි` යනු GitHub පරිශීලක නාමයයි. මෙය ඔබගේ GitHub ගිණුමේ first-contributions repository පිටපතක් සෑදීමට ඔබට ඉඩ සලසයි.
+"ඔයා දැන් copy කරගත්තු url එක" කියන තැනට (කමාන්ඩ් එකේදී උඩු කොමා දාන්නේ නැතුව) ඔයාගේ forked repository එකේ URL එක දාන්න.
 
-## ශාඛාවක් නිර්මාණය කිරීම
+උදාහරණයක් විදියට:
 
-ඔබේ පරිගණකයේ ගබඩා නාමාවලියට වෙනස් කරන්න (ඔබ දැනටමත් එහි නොමැති නම්):
-
+```bash
+git clone git@github.com:this-is-you/first-contributions.git
 ```
+
+`this-is-you` කියන තැනට ඔයාගේ GitHub username එක එන්න ඕන. මේ command එකෙන් කරන්නේ, *first-contributions repository* එකේ අන්තර්ගතය ඔයාගේ computer එකට copy කරන එකයි.
+
+## 3. අලුත් Branch එකක් හදන්න
+
+Terminal එකේ ඉඳන් ඔයා දැන් clone කරගත්ත repository එකේ folder එකට යන්න (ඔයා දැනටමත් ඒක ඇතුලේ නෙවෙයි නම්):
+
+```bash
 cd first-contributions
 ```
 
+දැන්, ඔයාගේ වෙනස්කම් ටික කරන්න අලුත් branch එකක් හදන්න `git switch` command එක run කරන්න:
 
-දැන් `git checkout` විධානය භාවිතා කරමින් ශාඛාවක් සාදන්න:
-
-```
-git checkout -b <ඔබගේ-නව-ශාඛාවේ-නම>
-```
-
-උදාහරණ වශයෙන්:
-
-```
-git checkout -b add-luke-oliff
+```bash
+git switch -c ඔයාගේ-අලුත්-branch-එකේ-නම
 ```
 
-(ශාඛාවේ නමට *add* එකතු කිරීම අවශ්‍ය නොවේ, නමුත් එය සාධාරණ දෙයකි, මන්ද මෙම ශාඛාවේ අරමුණ ඔබේ නම ලැයිස්තුවකට එකතු කිරීමයි.)
+උදාහරණයක් විදියට:
 
-## අවශ්‍ය වෙනස්කම් සිදු කර commit කරන්න
+```bash
+git switch -c add-kasun-perera
+```
 
-දැන් Contributors.md ගොනුව පෙළ සංස්කාරකයක විවෘත කරන්න, එයට ඔබේ නම එක් කරන්න. ගොනුවේ ආරම්භයේ හෝ අවසානයේ එය එකතු නොකරන්න. එය අතර මැද ඕනෑම තැනකට එකතු කරන්න. දැන්, ගොනුව save කරන්න.
+<details>
+<summary> <strong>git switch භාවිතා කරන විට error එකක් ආවොත්, මෙතන click කරන්න:</strong> </summary>
+
+"Git: `switch` is not a git command. See `git –help`" වගේ error පණිවිඩයක් ආවොත්, ඒකට හේතුව වෙන්න පුළුවන් ඔයා git වල පරණ version එකක් use කරන එක.
+
+ඒ වගේ වෙලාවක, `git switch` වෙනුවට `git checkout` command එක use කරලා බලන්න:
+
+```bash
+git checkout -b your-new-branch-name
+```
+
+</details>
+
+
+*(Branch එකේ නමට `add-` වගේ කෑල්ලක් එකතු කරන එක අනිවාර්ය නැහැ. ඒත්, අපි මේ branch එකෙන් කරන්නේ නමක් එකතු කරන එක නිසා, ඒ වගේ නමක් දාන එක හොඳ පුරුද්දක්.)*
+
+## 4. අවශ්‍ය වෙනස්කම් කරලා Commit කරන්න
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
-ඔබ ව්‍යාපෘති නාමාවලිය වෙත ගොස් git status විධානය ක්‍රියාත්මක කළහොත්, වෙනස්කම් ඇති බව ඔබට පෙනෙනු ඇත.
+දැන් `Contributors.md` file එක ඔයා කැමති text editor එකකින් (උදා: VS Code, Notepad) open කරලා, ඔයාගේ නම ඒකට එකතු කරන්න. File එකේ මුලටම හරි අගටම හරි නම දාන්න එපා. මැද හරියට කොතනට හරි දාන්න. දැන් file එක save කරන්න.
 
-`git add` විධානය භාවිතයෙන් ඔබ දැන් නිර්මාණය කළ ශාඛාවට එම වෙනස්කම් එක් කරන්න:
+ඔයා project folder එකේ terminal එකට ගිහින් `git status` කියලා type කලොත්, ඔයා කරපු වෙනස්කම් ටික පෙන්නයි.
 
-```
+ඒ වෙනස්කම් ටික ඔයා හදපු අලුත් branch එකට add කරන්න `git add` command එක run කරන්න:
+
+```bash
 git add Contributors.md
 ```
 
-දැන් `git commit` විධානය භාවිතා කර එම වෙනස්කම් සිදු කරන්න:
+දැන්, `git commit` command එකෙන් මේ වෙනස්කම් ටික commit කරන්න:
 
-```
-git commit -m "Add <ඔයාගේ_නම> to Contributors list"
-```
-
-`<ඔබේ_නම>` වෙනුවට ඔබේ නම ඇතුල් කරන්න.
-
-## GitHub වෙත වෙනස්කම් තල්ලු කරන්න
-
-`git push` විධානය භාවිතයෙන් ඔබගේ වෙනස්කම් තල්ලු කරන්න:
-```
-git push origin -u <ඔබගේ-නව-ශාඛාවේ-නම>
+```bash
+git commit -m "Add your-name to Contributors list"
 ```
 
-`<ඔබගේ-නව-ශාඛාවේ-නම>` ඔබ කලින් නිර්මාණය කළ නම සමඟ ශාඛාව ප්රතිස්ථාපනය කරන්න.
+your-name` කියන තැනට ඔයාගේ නම දාන්න.
 
-## සමාලෝචනය සඳහා ඔබේ වෙනස්කම් ඉදිරිපත් කරන්න
+## 5. වෙනස්කම් ටික GitHub වලට Push කරන්න
 
+ඔයා කරපු වෙනස්කම් ටික GitHub එකට push (upload) කරන්න `git push` command එක run කරන්න:
 
-ඔබ GitHub හි ඔබගේ ගබඩාවට ගියහොත්, ඔබට `Compare & pull request` බොත්තමක් පෙනෙනු ඇත. එම බොත්තම මත ක්ලික් කරන්න.
+```bash
+git push -u origin ඔයාගේ-branch-එකේ-නම
+```
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+ඔයාගේ-branch-එකේ-නම` කියන තැනට ඔයා කලින් හදපු branch එකේ නම දාන්න.
 
-දැන් pull request ඉදිරිපත් කරන්න.
+## 6. ඔයාගේ වෙනස්කම් Pull Request එකක් ලෙස යවන්න
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="pull request එකක් හදන්න" />
 
-මම ළඟදීම ඔබේ සියලු වෙනස්කම් මෙම ව්‍යාපෘතියේ ප්‍රධාන ශාඛාවට ඒකාබද්ධ කරමි. වෙනස්කම් ඒකාබද්ධ කළ පසු ඔබට දැනුම්දීමේ Email පණිවිඩයක් ලැබෙනු ඇත.
+ඔයාගේ GitHub ගිණුමේ තියෙන repository එකට ගියාම, ඔයාට `'Compare & pull request'` කියලා button එකක් පෙනෙයි. ඒක click කරන්න.
+
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="pull request එක submit කරන්න" />
+
+දැන් ඔයාගේ pull request එක submit කරන්න.
+
+ඉක්මනින්ම මම ඔයාගේ වෙනස්කම් ටික මේ project එකේ ප්‍රධාන (main) branch එකට merge කරන්නම්. ඒක merge කරාට පස්සේ ඔයාට notification email එකක් එයි.
 
 ## මෙතැන් සිට කොහේ යන්නද?
 
-සුභ පැතුම්! ඔබ දායකයෙකු ලෙස සම්මත 'fork -> clone -> edit -> pull request' කාර්ය ප්‍රවාහය ඔබ සම්පුර්ණ කර ඇත!
+සුභ පැතුම්! Open-source contributor කෙනෙක් විදියට ඔයා නිතරම භාවිතා කරන **fork -> clone -> edit -> pull request**  කියන සම්පූර්ණ ක්‍රියාවලියම ඔයා දැන් සාර්ථකව අවසන් කරලා තියෙන්නේ!
 
-ඔබේ දායකත්වය සහ ඔබේ මිතුරන් සහ අනුගාමිකයින් සමඟ සමරන්න [web app](https://firstcontributions.github.io/#social-share) ගිහින් share කරන්න.
+ඔයාගේ මේ පළමු දායකත්වය සමරන්න, ඒ වගේම යාළුවොත් එක්ක share කරගන්න [web app](https://firstcontributions.github.io/#social-share) එකට යන්න.
 
-ඔබට කිසියම් උදව්වක් අවශ්‍ය නම් හෝ කිසියම් ප්‍රශ්නයක් ඇත්නම් ඔබට අපගේ slack කණ්ඩායමට සම්බන්ධ විය හැකිය. [අපගේ slack කණ්ඩායමට එක්වන්න](https://join.slack.com/t/firstcontributors/shared_invite/zt-kpbyrmkk-JDkRtchcvRvQ0qK4iPmyvA)..
+තවත් පුහුණුවක් ලබන්න කැමති නම්, [code contributions](https://github.com/roshanjossey/code-contributions) බලන්න.
 
-දැන් අපි ඔබට වෙනත් ව්‍යාපෘති සඳහා දායක වීම ආරම්භ කරමු. ඔබට ආරම්භ කළ හැකි පහසු ගැටළු සහිත ව්‍යාපෘති ලැයිස්තුවක් අපි සම්පාදනය කර ඇත්තෙමු. පරීක්ෂා කරන්න [web app ව්‍යාපෘති ලැයිස්තුව](https://firstcontributions.github.io/#project-list).
+දැන් ඔයාට වෙනත් projects වලටත් contribute කරන්න පටන්ගන්න උදව් කරමු. අපි ඔයාට පටන් ගන්නම ලේසි issues (ගැටළු) තියෙන projects ලැයිස්තුවක් හදලා තියෙනවා. [Web app එකෙන් ඒ projects ලැයිස්තුව බලන්න](https://firstcontributions.github.io/#project-list).
 
 ### [අතිරේක සම්පත්](../additional-material/git_workflow_scenarios/additional-material.md)
 
-## වෙනත් මෙවලම් භාවිතා කරන නිබන්ධන
+## වෙනත් මෙවලම් සඳහා වන මාර්ගෝපදේශ
 
 | <a href="gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
