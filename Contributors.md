@@ -28,6 +28,7 @@
 - [Gustavo Mendes] (https://github.com/ghmmendes) - Hello everybody, this is my first contribution.
 - [Kian] (https://github.com/kiaann1/) - Hey :O
 - [VladimirGutuev](https://github.com/VladimirGutuev) Hi everyone my name is Vladimir, i'm Passionate about Machine Learning | BS Data Science Student
+-[Pranjul](https://github.com/pranjul-jangra) I have made changes to the README.hi.md. Add table of contents and prerequisites section,Include comprehensive troubleshooting for common Git errors,Improve section organization and fix translation issues,Better organize tools section with descriptive tables
 - [Reshard Turner](https://github.com/GhostShepherd31) - Excited to make my first contribution
 - [Tina Zhao](https://github.com/Ruohan0413) - Hi there! This is my first open source contribution
 - [Rohan H](https://github.com/rhelwatkar) - Excited to start my open source journey !
