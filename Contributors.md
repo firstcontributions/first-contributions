@@ -4413,6 +4413,7 @@ John Morgan Hello!
 - [Emmanuel Mingala](https://github.com/emmanyouwell) - Connect with me 🤝
 -[Ronit Thakur](https://github.com/RonitThakur2003)-Connect with me 🤝
 - [MrGunkin](https://github.com/mrgunkin) - Hello everyone!
+- [Astha](https://github.com/Astha-codes16)- Starting my journey of open source contribution! All the best to everyone out there
 - [Krishna Awasthi](https://github.com/krishnaawasthi-26)- from krishna, for Krishna, to Krishna
 -[kevinpeltier](https://github.com/kevinpeltier) - Doin' It! Cheers Everyone!!
 - [Kirti Mangate](https://github.com/kirti-ak47)
