@@ -4159,6 +4159,7 @@ random guy
 - [Aung Kyaw Wai Htun](https://github.com/akwhtun)
 - [Oubai Bendjedidi](https://github.com/oubaibendjedidi)
 - [Nandani Gupta](https://github.com/Nandani-Guptaa)
+- [Harshit Shukla](https://github.com/Harshit9026)
 - [Jazmynn Banks](https://github.com/jazmynnbanks)
 - [Yusuf Ahmad Jalil](https://github.com/YusufDW1)
 - [Ahlal Izzatul](https://github.com/alaliz4)
