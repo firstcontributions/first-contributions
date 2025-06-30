@@ -4403,6 +4403,7 @@ John Morgan Hello!
 - [shivamkumar71] (https://github.com/shivamkumar71)
 - [dadadabobosha] (https://github.com/dadadabobosha) - Nice try.
 - [flux]() - hi!
+- [Ashmit GaRG] (https://github.com/Ashmitgarg18/) - Hi Everyone! I want to get into OSS.
 - [Jeremiah] (https://github.com/jeremiahlay) - hi
 - [Aishwarya] (https://github.com/Aishwarya011k)- it is my first open source contribution i would love to continue this pace for the rest of my career 
 - [Shubh Bindal](https://github.com/shbd845) - HI
