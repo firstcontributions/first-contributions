@@ -3521,6 +3521,7 @@ random guy
 - [Shaun Newman](https://github.com/newmanwell)
 - [Kruti Popat](https://github.com/kruti-popat)
 - [Baycan Vural](https://github.com/baycan)
+- [Canberk Sezen](https://github.com/bancerk) - This is my first-ever contribution! 2025-06-30
 - [Aparmit Srivastava](https://github.com/AparmitSrivastava)
 - [Yuchen Huang](https://github.com/StarfishJ)
 - [baset](https://github.com/abdulbasi-code)
