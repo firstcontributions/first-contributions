@@ -1,0 +1,515 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tutorial Search - First Contributions</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f8f9fa;
+        }
+        
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        
+        .header h1 {
+            color: #2c3e50;
+            margin-bottom: 10px;
+        }
+        
+        .header p {
+            color: #666;
+            font-size: 16px;
+        }
+        
+        .search-container {
+            background: white;
+            padding: 25px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            margin-bottom: 30px;
+        }
+        
+        .search-box {
+            width: 100%;
+            padding: 15px;
+            font-size: 16px;
+            border: 2px solid #e1e5e9;
+            border-radius: 6px;
+            outline: none;
+            transition: border-color 0.3s;
+        }
+        
+        .search-box:focus {
+            border-color: #007bff;
+        }
+        
+        .filters {
+            display: flex;
+            gap: 15px;
+            margin-top: 15px;
+            flex-wrap: wrap;
+        }
+        
+        .filter-group {
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+        }
+        
+        .filter-group label {
+            font-weight: 600;
+            color: #555;
+            font-size: 14px;
+        }
+        
+        .filter-select {
+            padding: 8px 12px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            background: white;
+            font-size: 14px;
+        }
+        
+        .results-container {
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+        
+        .results-header {
+            background: #f8f9fa;
+            padding: 15px 20px;
+            border-bottom: 1px solid #e9ecef;
+            font-weight: 600;
+            color: #495057;
+        }
+        
+        .result-item {
+            padding: 20px;
+            border-bottom: 1px solid #e9ecef;
+            transition: background-color 0.2s;
+        }
+        
+        .result-item:hover {
+            background-color: #f8f9fa;
+        }
+        
+        .result-item:last-child {
+            border-bottom: none;
+        }
+        
+        .result-title {
+            font-size: 18px;
+            font-weight: 600;
+            color: #007bff;
+            text-decoration: none;
+            display: block;
+            margin-bottom: 8px;
+        }
+        
+        .result-title:hover {
+            text-decoration: underline;
+        }
+        
+        .result-meta {
+            display: flex;
+            gap: 15px;
+            margin-bottom: 10px;
+            flex-wrap: wrap;
+        }
+        
+        .result-tag {
+            background: #e3f2fd;
+            color: #1976d2;
+            padding: 4px 8px;
+            border-radius: 12px;
+            font-size: 12px;
+            font-weight: 500;
+        }
+        
+        .result-tag.tool {
+            background: #e8f5e8;
+            color: #2e7d32;
+        }
+        
+        .result-tag.language {
+            background: #fff3e0;
+            color: #f57c00;
+        }
+        
+        .result-description {
+            color: #666;
+            font-size: 14px;
+            line-height: 1.5;
+        }
+        
+        .no-results {
+            text-align: center;
+            padding: 40px;
+            color: #666;
+        }
+        
+        .stats {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        
+        .result-count {
+            color: #666;
+            font-size: 14px;
+        }
+        
+        @media (max-width: 768px) {
+            .filters {
+                flex-direction: column;
+            }
+            
+            .result-meta {
+                flex-direction: column;
+                gap: 8px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🔍 Tutorial Search</h1>
+        <p>Find the perfect tutorial for your Git and GitHub learning journey</p>
+    </div>
+
+    <div class="search-container">
+        <input type="text" id="searchInput" class="search-box" placeholder="Search tutorials by tool, language, or keyword...">
+        
+        <div class="filters">
+            <div class="filter-group">
+                <label for="categoryFilter">Category</label>
+                <select id="categoryFilter" class="filter-select">
+                    <option value="">All Categories</option>
+                    <option value="cli">CLI Tools</option>
+                    <option value="gui">GUI Tools</option>
+                    <option value="additional">Additional Resources</option>
+                </select>
+            </div>
+            
+            <div class="filter-group">
+                <label for="toolFilter">Tool</label>
+                <select id="toolFilter" class="filter-select">
+                    <option value="">All Tools</option>
+                </select>
+            </div>
+            
+            <div class="filter-group">
+                <label for="languageFilter">Language</label>
+                <select id="languageFilter" class="filter-select">
+                    <option value="">All Languages</option>
+                </select>
+            </div>
+        </div>
+    </div>
+
+    <div class="results-container">
+        <div class="results-header">
+            <div class="stats">
+                <span id="resultCount" class="result-count">Loading tutorials...</span>
+            </div>
+        </div>
+        <div id="resultsContainer"></div>
+    </div>
+
+    <script>
+        // Tutorial data structure
+        const tutorials = [
+            // CLI Tools
+            {
+                title: "Git Bash Windows Tutorial",
+                path: "docs/cli-tool-tutorials/git-bash-windows-tutorial.md",
+                category: "cli",
+                tool: "git-bash",
+                language: "english",
+                description: "Learn how to use Git Bash on Windows for your first contribution"
+            },
+            {
+                title: "GitHub CLI Tutorial",
+                path: "docs/cli-tool-tutorials/github-cli-tutorial.md",
+                category: "cli",
+                tool: "github-cli",
+                language: "english",
+                description: "Use GitHub CLI to make your first contribution from the command line"
+            },
+            {
+                title: "GitHub CLI Tutorial (Hindi)",
+                path: "docs/cli-tool-tutorials/github-cli-tutorial-Hindi.md",
+                category: "cli",
+                tool: "github-cli",
+                language: "hindi",
+                description: "GitHub CLI tutorial in Hindi language"
+            },
+            {
+                title: "GitHub CLI Tutorial (Urdu)",
+                path: "docs/cli-tool-tutorials/github-cli-tutorial-Urdu.md",
+                category: "cli",
+                tool: "github-cli",
+                language: "urdu",
+                description: "GitHub CLI tutorial in Urdu language"
+            },
+            {
+                title: "GitHub CLI Tutorial (Gujarati)",
+                path: "docs/cli-tool-tutorials/github-cli-tutorial-gujarati.md",
+                category: "cli",
+                tool: "github-cli",
+                language: "gujarati",
+                description: "GitHub CLI tutorial in Gujarati language"
+            },
+            {
+                title: "GitHub CLI Tutorial (Indonesian)",
+                path: "docs/cli-tool-tutorials/github-cli-tutorial-id.md",
+                category: "cli",
+                tool: "github-cli",
+                language: "indonesian",
+                description: "GitHub CLI tutorial in Indonesian language"
+            },
+            {
+                title: "GitHub CLI Tutorial (Portuguese Brazil)",
+                path: "docs/cli-tool-tutorials/github-cli-tutorial-pt-br.md",
+                category: "cli",
+                tool: "github-cli",
+                language: "portuguese",
+                description: "GitHub CLI tutorial in Portuguese (Brazil)"
+            },
+            {
+                title: "GitHub CLI Tutorial (Sinhala)",
+                path: "docs/cli-tool-tutorials/github-cli-tutorial-sinhala.md",
+                category: "cli",
+                tool: "github-cli",
+                language: "sinhala",
+                description: "GitHub CLI tutorial in Sinhala language"
+            },
+            {
+                title: "GitHub CLI Tutorial (Tamil)",
+                path: "docs/cli-tool-tutorials/github-cli-tutorial-tamil.md",
+                category: "cli",
+                tool: "github-cli",
+                language: "tamil",
+                description: "GitHub CLI tutorial in Tamil language"
+            },
+            {
+                title: "GitHub CLI Tutorial (French)",
+                path: "docs/cli-tool-tutorials/github-cli-tutorials-francais.md",
+                category: "cli",
+                tool: "github-cli",
+                language: "french",
+                description: "GitHub CLI tutorial in French language"
+            },
+            {
+                title: "Git CLI Tutorial (Kannada)",
+                path: "docs/cli-tool-tutorials/git-cli-tutorial-kannada.md",
+                category: "cli",
+                tool: "git-cli",
+                language: "kannada",
+                description: "Git CLI tutorial in Kannada language"
+            },
+            
+            // GUI Tools
+            {
+                title: "GitHub Desktop Tutorial",
+                path: "docs/gui-tool-tutorials/github-desktop-tutorial.md",
+                category: "gui",
+                tool: "github-desktop",
+                language: "english",
+                description: "Learn how to make your first contribution using GitHub Desktop"
+            },
+            {
+                title: "GitHub Desktop Tutorial (Old Version)",
+                path: "docs/gui-tool-tutorials/github-desktop-old-version-tutorial.md",
+                category: "gui",
+                tool: "github-desktop",
+                language: "english",
+                description: "Tutorial for older versions of GitHub Desktop"
+            },
+            {
+                title: "IntelliJ IDEA Tutorial (Windows)",
+                path: "docs/gui-tool-tutorials/github-windows-intellij-tutorial.md",
+                category: "gui",
+                tool: "intellij",
+                language: "english",
+                description: "Make your first contribution using IntelliJ IDEA on Windows"
+            },
+            {
+                title: "IntelliJ IDEA Tutorial (Chinese)",
+                path: "docs/gui-tool-tutorials/github-windows-intellij-tutorial.zh-cn.md",
+                category: "gui",
+                tool: "intellij",
+                language: "chinese",
+                description: "IntelliJ IDEA tutorial in Chinese"
+            },
+            {
+                title: "VS Code Tutorial (Windows)",
+                path: "docs/gui-tool-tutorials/github-windows-vs-code-tutorial.md",
+                category: "gui",
+                tool: "vscode",
+                language: "english",
+                description: "Make your first contribution using Visual Studio Code on Windows"
+            },
+            {
+                title: "Visual Studio 2017 Tutorial (Windows)",
+                path: "docs/gui-tool-tutorials/github-windows-vs2017-tutorial.md",
+                category: "gui",
+                tool: "visual-studio",
+                language: "english",
+                description: "Make your first contribution using Visual Studio 2017 on Windows"
+            },
+            {
+                title: "GitKraken Tutorial",
+                path: "docs/gui-tool-tutorials/gitkraken-tutorial.md",
+                category: "gui",
+                tool: "gitkraken",
+                language: "english",
+                description: "Learn how to use GitKraken for your first contribution"
+            },
+            {
+                title: "SourceTree Tutorial (macOS)",
+                path: "docs/gui-tool-tutorials/sourcetree-macos-tutorial.md",
+                category: "gui",
+                tool: "sourcetree",
+                language: "english",
+                description: "Make your first contribution using SourceTree on macOS"
+            },
+            {
+                title: "Sublime Merge Tutorial",
+                path: "docs/gui-tool-tutorials/sublime-merge-tutorial.md",
+                category: "gui",
+                tool: "sublime-merge",
+                language: "english",
+                description: "Learn how to use Sublime Merge for your first contribution"
+            },
+            
+            // Additional Resources
+            {
+                title: "Things a Non-Programmer Can Do",
+                path: "docs/additional-material/Things a non Programmer can do.md",
+                category: "additional",
+                tool: "general",
+                language: "english",
+                description: "Non-technical ways to contribute to open source projects"
+            },
+            {
+                title: "How to Contribute to Open Source Projects",
+                path: "docs/how-to-contribute-to-open-source-projects.md",
+                category: "additional",
+                tool: "general",
+                language: "english",
+                description: "Comprehensive guide on contributing to open source projects"
+            }
+        ];
+
+        // Extract unique values for filters
+        const tools = [...new Set(tutorials.map(t => t.tool))].sort();
+        const languages = [...new Set(tutorials.map(t => t.language))].sort();
+
+        // DOM elements
+        const searchInput = document.getElementById('searchInput');
+        const categoryFilter = document.getElementById('categoryFilter');
+        const toolFilter = document.getElementById('toolFilter');
+        const languageFilter = document.getElementById('languageFilter');
+        const resultsContainer = document.getElementById('resultsContainer');
+        const resultCount = document.getElementById('resultCount');
+
+        // Initialize filters
+        function initializeFilters() {
+            // Populate tool filter
+            tools.forEach(tool => {
+                const option = document.createElement('option');
+                option.value = tool;
+                option.textContent = tool.charAt(0).toUpperCase() + tool.slice(1).replace('-', ' ');
+                toolFilter.appendChild(option);
+            });
+
+            // Populate language filter
+            languages.forEach(language => {
+                const option = document.createElement('option');
+                option.value = language;
+                option.textContent = language.charAt(0).toUpperCase() + language.slice(1);
+                languageFilter.appendChild(option);
+            });
+        }
+
+        // Filter tutorials
+        function filterTutorials() {
+            const searchTerm = searchInput.value.toLowerCase().trim();
+            const categoryValue = categoryFilter.value;
+            const toolValue = toolFilter.value;
+            const languageValue = languageFilter.value;
+
+            let filtered = tutorials.filter(tutorial => {
+                // Text search
+                const matchesSearch = !searchTerm || 
+                    tutorial.title.toLowerCase().includes(searchTerm) ||
+                    tutorial.description.toLowerCase().includes(searchTerm) ||
+                    tutorial.tool.toLowerCase().includes(searchTerm) ||
+                    tutorial.language.toLowerCase().includes(searchTerm);
+
+                // Category filter
+                const matchesCategory = !categoryValue || tutorial.category === categoryValue;
+
+                // Tool filter
+                const matchesTool = !toolValue || tutorial.tool === toolValue;
+
+                // Language filter
+                const matchesLanguage = !languageValue || tutorial.language === languageValue;
+
+                return matchesSearch && matchesCategory && matchesTool && matchesLanguage;
+            });
+
+            displayResults(filtered);
+        }
+
+        // Display results
+        function displayResults(tutorials) {
+            resultCount.textContent = `Found ${tutorials.length} tutorial${tutorials.length !== 1 ? 's' : ''}`;
+
+            if (tutorials.length === 0) {
+                resultsContainer.innerHTML = `
+                    <div class="no-results">
+                        <h3>No tutorials found</h3>
+                        <p>Try adjusting your search terms or filters</p>
+                    </div>
+                `;
+                return;
+            }
+
+            resultsContainer.innerHTML = tutorials.map(tutorial => `
+                <div class="result-item">
+                    <a href="${tutorial.path}" class="result-title">${tutorial.title}</a>
+                    <div class="result-meta">
+                        <span class="result-tag">${tutorial.category.toUpperCase()}</span>
+                        <span class="result-tag tool">${tutorial.tool.replace('-', ' ').toUpperCase()}</span>
+                        <span class="result-tag language">${tutorial.language.toUpperCase()}</span>
+                    </div>
+                    <div class="result-description">${tutorial.description}</div>
+                </div>
+            `).join('');
+        }
+
+        // Event listeners
+        searchInput.addEventListener('input', filterTutorials);
+        categoryFilter.addEventListener('change', filterTutorials);
+        toolFilter.addEventListener('change', filterTutorials);
+        languageFilter.addEventListener('change', filterTutorials);
+
+        // Initialize
+        initializeFilters();
+        displayResults(tutorials);
+    </script>
+</body>
+</html>
