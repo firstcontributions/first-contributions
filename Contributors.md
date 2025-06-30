@@ -4378,6 +4378,7 @@ John Morgan Hello!
 - [Taran Shetty](https://github.com/TaranShetty)
 - [ronaldrnd](https://github.com/ronaldrnd) - Hello from Madagascar!
 -[Zaky](https://github.com/zeciati) - Just coming through
+- [Romit Sharma] - My First Ever Contribution
 - [Roshan Koirala] (https://github.com/RoshannCodes) - Hello guys, Myself Roshan Koirala from Nepal!
 -[Ishika](https://github.com/ishika240047) - i am from india and this is my first open source contibutiono
 - [lichanghui11](https://github.com/lichanghui11) - Hello, I am a freshman in programming.
