@@ -4420,3 +4420,4 @@ John Morgan Hello!
 -[kevinpeltier](https://github.com/kevinpeltier) - Doin' It! Cheers Everyone!!
 - [Kirti Mangate](https://github.com/kirti-ak47)
 - [Christian de Diego](https://github.com/christian97dd) - Hi!, senior frontend developer here!
+- [Farhan Khan Shekhu](https://github.com/FarhanKhanShekhu) - hehehehehe
