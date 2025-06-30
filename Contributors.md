@@ -75,6 +75,7 @@ vanakkam da Mapala...
 - [TheJSPythonator] (https://github.com/TheJSPythonator) - Hello! This is my first contribution.
 - [moe-charm](https://github.com/moe-charm)
 - [Ankit Kumar Prajapati](https://github.com/ankit-kumar-prajapati) Hello guys, this is my first contribution on github. Excited to learn and grow together.
+- [Aisssky] (https://github.com/first-contributions) -GameExplorer here~.
 - [Antoine Developpeur](https://github.com/AntoineDeveloppeur) Hi it's me Antoine
 - [Priyanka-Kumari] (https://github.com/prowessclust) Hi, I am learning open source, this is my first contribution! 22/06/2025
 - [mabubakar87] (https://github.com/mabubakar87) Happy to learn new things and be a part of the open source community 06/22/2025
@@ -314,6 +315,7 @@ Achal Agrawal
 - [Andrii Synytsia](https://github.com/AndriiSynytsia)
 - [Devansh Gaur](https://github.com/Devaur03) will be the king of the pirates.
 - [MRRM]
+- [Aisssky]
 - [RusticByte](https://github.com/Davidskumar)
 - [WillyR777j](https://github.com/WillyR777j/first-contributions)
 -[Adam Owolabi](https://github.com/AdamOwolabi/first-contributions)
@@ -4425,6 +4427,7 @@ John Morgan Hello!
 - [Aishwarya] (https://github.com/Aishwarya011k)- it is my first open source contribution i would love to continue this pace for the rest of my career 
 - [Shubh Bindal](https://github.com/shbd845) - HI
 - [AvatarG](https://github.com/AvatarG)
+- [Girish Kumar Yadav](https://github.com/G1r1shCodes) - Hi this my open source contribution
 - [MindFuckJS](https://github.com/MindFuckJS) - Yeah ik you hate JavaScript
 - [ericbarron329](https://github.com/ericbarron329) - Hi, sending a contribution!
 - [David Veytsman](https://github.com/dveytsman) - Awesome idea, thank you!
