@@ -4352,6 +4352,7 @@ random guy
 - [Keilor Rodriguez](https://github.com/KeilorRodriguez) Exploremos juntos!
 - [Ayisha](https://github.com/Ayisha-Mohammed)Hey cool people ! exploring open source !!
 - [Leo](https://github.com/Leorjjj1) Hi
+-[BocaDN](https://github.com/BocaDN) - Hello from Romania !
 - [Tagir](https://github.com/tishembitov) Hello!!!
 - [Kyra](https://github.com/kyrazzx) hey everyone
 - [Amar Pujari](https://github.com/amarp123) hello guys new contributer added
