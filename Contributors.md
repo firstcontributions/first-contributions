@@ -4076,7 +4076,7 @@ random guy
 - [Aman Roy](https://github.com/Amannroy)
 - [AminAkademia Git](https://github.com/adminakademiagit)
 - [Vivek Gummadishetty](https://github.com/Vivek3751)
-- [Yashashree Mehare]
+- [Yashashree Mehare](https://github.com/Yashashree-06-mehare19)
 - [Nethra G S](https://github.com/NethraGS)
 - [Midnight-ar19](https://github.com/midnight-ar19)
 - [drambaut](https://github.com/drambaut)
