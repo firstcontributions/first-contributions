@@ -11,6 +11,7 @@ vanakkam da Mapala...
 -[Insaf](https://github.com/itsmefminsaf) - Remember my name. I am the one who is going to invent the quantum computer
 -[Sara](https://github.com/sara-1129)-This is my first open source contribution ,really excited for the amazing journey ahead.
 -[Harsha](https://github.com/HarshaTalatala)-This is my first open source contribution.
+-[Ravin Kuamr Jangir](https://github.com/ravin1100)-This is my first open source contribution.
 -[Avital](https://github.com/Avital2025)- A beginner developer who loves solving problems and aims high. Aspiring to create solutions that make a lasting impact.
 -[Faizan Sheikh](https://github.com/faizan929) - Hello everyone, this is my first time contributing to an open source, happy learning, All the best
 -[madasamy](https://github.com/madasamydfan) - 18 year old , student started contributing to learn.
