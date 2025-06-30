@@ -4418,3 +4418,4 @@ John Morgan Hello!
 - [Krishna Awasthi](https://github.com/krishnaawasthi-26)- from krishna, for Krishna, to Krishna
 -[kevinpeltier](https://github.com/kevinpeltier) - Doin' It! Cheers Everyone!!
 - [Kirti Mangate](https://github.com/kirti-ak47)
+- [Christian de Diego](https://github.com/christian97dd) - Hi!, senior frontend developer here!
