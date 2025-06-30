@@ -311,6 +311,7 @@ Achal Agrawal
 - [Andrii Synytsia](https://github.com/AndriiSynytsia)
 - [Devansh Gaur](https://github.com/Devaur03) will be the king of the pirates.
 - [MRRM]
+- [Aisssky]
 - [RusticByte](https://github.com/Davidskumar)
 - [WillyR777j](https://github.com/WillyR777j/first-contributions)
 -[Adam Owolabi](https://github.com/AdamOwolabi/first-contributions)
