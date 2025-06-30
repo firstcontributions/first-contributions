@@ -774,6 +774,7 @@ Mohamed Farah
 [Ashish Raj](https://github.com/Ashish570raj)
 - [Eunmi Lee](https://github.com/eunmilee89)
 - [Sumit Nayak](https://github.com/NotaScripptkiddie)
+- [sjh](https://github.com/JongHyeonSong) 응애, 난 아기 개발자
 - [J-Ezra](https://github.com/j-ezra)
  -[KhanBuilds](https://github.com/KhanBuilds) I WAS HERE.
 - [Chirag Sehgal](https://github.com/chirAAG-sehgal) Just trying it out
