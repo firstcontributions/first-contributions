@@ -1,6 +1,7 @@
 # Contributors
 Hello guys, My name is Milad Kheradmand.
 vanakkam da Mapala...
+-[Rishabh] (https://github.com/RishabhSinghMoonCake) - Hey there
 -[Sourav Sahoo] (https://github.com/SouravSahoo-D) - Hellow all, this my first ever GIT open source contribution.
 -[Shubham Gavand] (https://github.com/ShubhamGavand1234) - Hi Friends
 -[Pruthviraj Patil] (https://github.com/pruthvirajpatil2024) - Hello i am doing this contribution in intent of learning open source contribution.  
