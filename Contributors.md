@@ -29,6 +29,7 @@ vanakkam da Mapala...
 - [Ikedalab-Daniel](https://github.com/IkedaLab-Daniel) - Preparing for GitHub Foundations Exam
 - [Kyle Santos] - Nice to meet you!
 - [Miro Kakkonen](https://github.com/MJKagone) - o/
+- [ww34sel](https://github.com/w34sel) - Ahoi!
 - [Collins](https://github.com/xperia3110) - this is the first of my many opensource contribution, June 30th 2025.
 - [SunkeSruthi603](https://github.com/SunkeSruthi603/) - Hello! Thank you for this Project.
 - [Carlos Hernandez] (https://github.com/carloshernandezcu/) Hi, I was here! Greetings from Latam. June 26th, 2025.
