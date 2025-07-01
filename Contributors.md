@@ -97,6 +97,7 @@ vanakkam da Mapala...
 - [Manomalt](https://github.com/manomalt) My first contribution.  Thanks for the guide! 6/20/2025
 - [Ghamani M](https://github.com/Ghamani121) Heyy, It is 26th June,2025. My first open source contribution, feels good :)
 - [Tolani](https://github.com/tolaxxi) hi everyone 
+- [SarthakBhat](https://github.com/SarthakBhat22)
 - [DoNguyenAnhTuan](https://github.com/DoNguyenAnhTuan)
 [Pranav Pandey]
 - [Ugochukwu]()
