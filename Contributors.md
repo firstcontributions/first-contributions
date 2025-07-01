@@ -21,6 +21,7 @@ vanakkam da Mapala...
 -[s1ggelin] (https://github.com/s1ggelin) - Happy to contribute
 - [zhouparis] (https://github.com/zhouparis) - 25 years old, 6/26/25, start of my OSS contributions hopefully. Goodluck to all those that come after and a big Wow to all those before
 - [Nelson Muñoz](https://github.com/Ginto11) - Junior developer in .NET, Angular, and SQL, with experience creating REST APIs and implementing relational databases.
+- [Hafiz Azhari](https://github.com/mhafizazh) - my first contribution!
 - [swaroop-phatak] (https://github.com/swaroop-phatak) - Heyy, this is my first contribution, nice to meet you all!
 - [xiaobai-cn21] (https://github.com/xiaobai-cn21/) - hola! I'm a latinamerican student in china, nice to mee you guys
 -[TSingh](https://github.com/Hawkscribe)-Hello !This time I am learning of the open source and increasing my space for the same.
