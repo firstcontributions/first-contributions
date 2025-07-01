@@ -629,6 +629,7 @@ Solomon
 - Khushi Paliwal
 - Comfort Jones
 - Mohamed Ashiq
+-[Sai Venkat](https://github.com/saivenkatyalamanchi)
 - [Brandsrx](https://github.com/brandsrx)
 - [SIDDHARTH K P] (https://github.com/Symbian-Bro)
 - [Blair](https://github.com/BlairyDev)
