@@ -2,8 +2,7 @@
 
 Hello guys, My name is Milad Kheradmand.
 vanakkam da Mapala... -[Sourav Sahoo] (https://github.com/SouravSahoo-D) - Hellow all, this my first ever GIT open source contribution. -[Pruthviraj Patil] (https://github.com/pruthvirajpatil2024) - Hello i am doing this contribution in intent of learning open source contribution.  
--[Jyoti Lalwani](https://github.com/Jyoti520) - first time contribution to open source  
--[Sonakshi](https://github.com/sonakshi555) - heyy there, today 30/06/2025 , when i marked my first contribution to open source in the line 5. -[Vijay vardhan](https://github.com/sonakshi555) - heyy there, today 30/06/2025 , when i marked my first contribution to open source in the line 6. -[Samiru Hemaka](https://github.com/SamiruHemaka2004) - hi guyz. this is my first contributiuon for open source.All the best for everyone! -[Miska Braun](https://github.com/MiskaB) - Never follow the beaten path, make your own instead, they said... -[Insaf](https://github.com/itsmefminsaf) - Remember my name. I am the one who is going to invent the quantum computer -[Sara](https://github.com/sara-1129)-This is my first open source contribution ,really excited for the amazing journey ahead. -[Harsha](https://github.com/HarshaTalatala)-This is my first open source contribution. -[Avital](https://github.com/Avital2025)- A beginner developer who loves solving problems and aims high. Aspiring to create solutions that make a lasting impact. -[Faizan Sheikh](https://github.com/faizan929) - Hello everyone, this is my first time contributing to an open source, happy learning, All the best -[madasamy](https://github.com/madasamydfan) - 18 year old , student started contributing to learn.
+-[Jyoti Lalwani](https://github.com/Jyoti520) - first time contribution to open source
 
 - [Ritik-khandelwal] (https://github.com/Ritik-khandelwal) - Hey Hii Everyone !!! It's 28th June, 2025 Today. From today I have decided to do open source contributions. All The Best everyone for their future.
 - [johntoby] (https://github.com/johntoby) - Hii guys. Happy to contribute -[s1ggelin] (https://github.com/s1ggelin) - Happy to contribute
@@ -471,7 +470,7 @@ vanakkam da Mapala... -[Sourav Sahoo] (https://github.com/SouravSahoo-D) - Hello
 - [gitty98]noice
 - [Ancil](https://github.com/iamancil)
 - [Om Borse](https://github.com/Om-Borse26) My first contribution to open source!
-- [androvonx95](https://github.com/androvonx95) – **** I use Arch btw 🗿🗿🗿🗿 ****
+- [androvonx95](https://github.com/androvonx95) – \***\* I use Arch btw 🗿🗿🗿🗿 \*\***
 - [Robyn](https://github.com/RBodde)
 - [Snowsita](https://github.com/Snowsita)
 - [smoglmy](https://github.com/smoglmy)
