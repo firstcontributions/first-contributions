@@ -4472,5 +4472,6 @@ Artem Ryabtcev
 - [Enox3](https://github.com/enox3/) - Hello world!
 - [Kanishka](https://github.com/codeby-kanishka) - Hello everyone! This is my first open source contribution
 - [tetsup-jp](https://github.com/tetsuo-jp) - Hello world!
-- [aniruth] (https://github.com/AniruthKarthik) - Yooo Yoo
-- [Md Sharieff] (https://github.com/MdSharieff-081) - Yo!
+- [Sudharsanan Gokul](https://github.com/sudharsanangokul) - Hey everyone, this is my first open-source contribution. 💜
+- [aniruth](https://github.com/AniruthKarthik) - Yooo Yoo
+- [Md Sharieff](https://github.com/MdSharieff-081) - Yo!
