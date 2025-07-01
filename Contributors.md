@@ -4471,4 +4471,4 @@ Artem Ryabtcev
 [Adem Hoş](https://github.com/AdemHos) - Happy to be here !!
 - [Enox3](https://github.com/enox3/) - Hello world!
 - [Kanishka](https://github.com/codeby-kanishka) - Hello everyone! This is my first open source contribution
-- [tetsup-jp](https://github.com/tetsuo-jp)
+- [tetsup-jp](https://github.com/tetsuo-jp) - Hello world!
