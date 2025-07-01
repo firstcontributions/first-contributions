@@ -3130,6 +3130,7 @@ random guy
 - [Ethri](https://github.com/ethrii)
 - [Nam Anh Le](https://github.com/namanhle941998)
 - [Afham Abqary](https://github.com/afham-abqary)
+- [Travis Sova](https://github.com/travis-sova/)
 - [Quan02](https://github.com/Quan02)
 - [etriddle88](https://github.com/etriddle88)
 - [ohdy518](https://github.com/ohdy518)
