@@ -4465,6 +4465,7 @@ John Morgan Hello!
 - [Krishna Awasthi](https://github.com/krishnaawasthi-26)- from krishna, for Krishna, to Krishna
 -[kevinpeltier](https://github.com/kevinpeltier) - Doin' It! Cheers Everyone!!
 Artem Ryabtcev
+- [Vladislav Boyarkin](https://github.com/NonsenseUser) - Hope I get that job
 - [Kirti Mangate](https://github.com/kirti-ak47)
 - [Christian de Diego](https://github.com/christian97dd) - Hi!, senior frontend developer here!
 - [Farhan Khan Shekhu](https://github.com/FarhanKhanShekhu) - hehehehehe
