@@ -4312,6 +4312,7 @@ random guy
 - [Tan Loc](https://github.com/htloc98)
 - [Muskan Singh]~(https://github.com/muskansngh07)
 - [Osman Aslan](https://github.com/osmanaslann01)
+- [mighty-baseplate](https://github.com/mighty-baseplate)
 - [Ruby] (https://github.com/Ruby-Hu) Shout out to Tech Career North 🍁
 - Merary
 - [Katsu](https://github.com/kakko341)
