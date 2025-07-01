@@ -1,9 +1,38 @@
 # Contributors
+# Contribution by Pradeep Kadam [https://github.com/saineox](https://github.com/saineox)
+
+Hello! I'm Pradeep Kadam, a developer passionate about Python, cloud technologies, and open source. This marks my **second open source contribution**, building on my first successful PR to the aws-devops-zero-to-hero repository.
+## About- ✅ **First Contribution**: 
+  - PR #145: "Update alb-controller-add-on.md" 
+  - Submitted May 21, 2025 to [iam-veeramalla/aws-devops-zero-to-hero](https://github.com/iam-veeramalla/aws-devops-zero-to-hero)
+  ✅ ** Second Contribution**: 
+
+
+## My Journey
+As someone at the beginning of their open source journey (this being my second contribution), I've focused on:
+1. Understanding the project architecture
+2. Following contribution guidelines meticulously
+3. Maintaining clean, testable code
+4. Seeking feedback to improve
+
+
+## My Open Source Journey
+- Compliance with project coding standards
+- Clear commit messages
+- Proper documentation updates
+- Backward compatibility (where applicable)
+  ## GitHub Profile
+You can view my other work and connect with me here:  
+-[Pradeep Kadam][https://github.com/saineox](https://github.com/saineox)
+I'm open to any feedback and willing to make adjustments. Thank you for the opportunity to contribute!
+
+
 Hello guys, My name is Milad Kheradmand.
 vanakkam da Mapala...
 -[Sourav Sahoo] (https://github.com/SouravSahoo-D) - Hellow all, this my first ever GIT open source contribution.
 -[Pruthviraj Patil] (https://github.com/pruthvirajpatil2024) - Hello i am doing this contribution in intent of learning open source contribution.  
--[Jyoti Lalwani](https://github.com/Jyoti520) - first time contribution to open source  
+-[Jyoti Lalwani](https://github.com/Jyoti520) - first time contribution to open source
+-[WangZhenYU](https://github.com/wausdjaks) -Ciallo~  
 -[Sonakshi](https://github.com/sonakshi555) - heyy there, today 30/06/2025 , when i marked my first contribution to open source in the line 5. 
 -[Vijay vardhan](https://github.com/sonakshi555) - heyy there, today 30/06/2025 , when i marked my first contribution to open source in the line 6. 
 -[Samiru Hemaka](https://github.com/SamiruHemaka2004) - hi guyz. this is my first contributiuon for open source.All the best for everyone!
@@ -20,8 +49,10 @@ vanakkam da Mapala...
 - [johntoby] (https://github.com/johntoby) - Hii guys. Happy to contribute
 -[s1ggelin] (https://github.com/s1ggelin) - Happy to contribute
 - [zhouparis] (https://github.com/zhouparis) - 25 years old, 6/26/25, start of my OSS contributions hopefully. Goodluck to all those that come after and a big Wow to all those before
+- [Collin7273] (https://github.com/Collin7273) - Hello there, nice to meet you!!
 - [Nelson Muñoz](https://github.com/Ginto11) - Junior developer in .NET, Angular, and SQL, with experience creating REST APIs and implementing relational databases.
 - [Hafiz Azhari](https://github.com/mhafizazh) - my first contribution!
+- [Sudhir Yadav](https://github.com/sky-sudhir) - Everthing Counts.
 - [swaroop-phatak] (https://github.com/swaroop-phatak) - Heyy, this is my first contribution, nice to meet you all!
 - [xiaobai-cn21] (https://github.com/xiaobai-cn21/) - hola! I'm a latinamerican student in china, nice to mee you guys
 -[TSingh](https://github.com/Hawkscribe)-Hello !This time I am learning of the open source and increasing my space for the same.
@@ -198,6 +229,7 @@ Achal Agrawal
 - [Anurag] Long way to go!
 -[MICK RYAN] - Adding name!!!!
 -[Jad] - 200506201053
+-[Naveen](https://github.com/GaragaNaveenKumar) Hi EveryOne!..
 -[Ayush Mishra] IIITDM IS HERE!
 - [Rahul Shaw](https://github.com/RahulShaw321) Hello to everyone from India !!
 - [Abhimanyu Chaudahry](https://github.com/Abhimanyu-10-11) Lets start..
