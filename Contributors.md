@@ -470,6 +470,7 @@ Achal Agrawal
 - [LittleFish-Coder](https://github.com/LittleFish-Coder)
 - [Blaine Pavlock] (https://github.com/PavlockBlaine03)
 - [Ashish Jha](https://github.com/AshishJha30)
+- [Praneetha](https://github.com/PorumamillaPraneetha) 
 - [Mariia Shmidt] (https://github.com/markshmidt)
 - [Atkin](https://github.com/atkin0)
 - [Aakash Choudhary](https://github.com/ifaakash) **First Open Source Contribution**
