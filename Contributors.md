@@ -29,6 +29,7 @@ vanakkam da Mapala...
 - [Ikedalab-Daniel](https://github.com/IkedaLab-Daniel) - Preparing for GitHub Foundations Exam
 - [Kyle Santos] - Nice to meet you!
 - [Miro Kakkonen](https://github.com/MJKagone) - o/ 
+
 - [Collins](https://github.com/xperia3110) - this is the first of my many opensource contribution, June 30th 2025.
 - [SunkeSruthi603](https://github.com/SunkeSruthi603/) - Hello! Thank you for this Project.
 - [Carlos Hernandez] (https://github.com/carloshernandezcu/) Hi, I was here! Greetings from Latam. June 26th, 2025.
@@ -45,6 +46,7 @@ vanakkam da Mapala...
 - [VladimirGutuev](https://github.com/VladimirGutuev) Hi everyone my name is Vladimir, i'm Passionate about Machine Learning | BS Data Science Student
 - [Vivek Chowgule](https://github.com/ChowguleVivek)
 - [Reshard Turner](https://github.com/GhostShepherd31) - Excited to make my first contribution
+-[Theekshana Dinujaya](https://github.com/PandaSL2) - hi guyz. this is my first contributiuon for open source.All the best for everyone!
 - [Tina Zhao](https://github.com/Ruohan0413) - Hi there! This is my first open source contribution
 - [Rohan H](https://github.com/rhelwatkar) - Excited to start my open source journey !
 - [Areeb Khan](https://github.com/curiousbud) - Hey everyone I'm Areeb Khan nice to meet you.
