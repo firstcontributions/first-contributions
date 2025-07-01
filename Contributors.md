@@ -580,6 +580,7 @@ abu sulaymaan
 - [Lokesh Priyanshu](https://github.com/Lokesh1933)
 - [RifkiFrdsS] (https://github.com/RifkiFrds/)
 - [SachinSingh] (https://github.com/sachinsingh2002/)
+- [YasasBanuka] (https://github.com/YasasBanuka)
 - [MahimaGA] (https://github.com/MahimaGA)
 - [georgiiparla] (https://github.com/georgiiparla)
 - [OfficialSahilGupta] (https://github.com/OfficialSahilGupta)
