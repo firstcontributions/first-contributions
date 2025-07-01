@@ -1,0 +1,98 @@
+{
+  "version": "v1.0.0",
+  "entity": {
+    "type": "organisation",
+    "role": "owner",
+    "name": "firstcontributions",
+    "email": "firstcontributions@gmail.com",
+    "phone": "",
+    "description": "Improve accessibility with enhanced documentation tailored for beginners and create opportunities for first-time contributors to get involved. Focus on building great software while inspiring a thriving, collaborative community around open source projects.",
+    "webpageUrl": {
+      "url": "https://github.com/firstcontributions/first-contributions"
+    }
+  },
+  "projects": [
+    {
+      "guid": "first-contributions",
+      "name": "First contributions",
+      "description": "Help beginners learn how to contribute to open-source projects. It provides a simple and beginner-friendly way for users to understand the contribution workflow using Git and GitHub. We've had over 90,000 users since we started in 2016",
+      "webpageUrl": {
+        "url": "https://github.com/firstcontributions/first-contributions"
+      },
+      "repositoryUrl": {
+        "url": "https://github.com/firstcontributions/first-contributions"
+      },
+      "licenses": [
+        "spdx:MIT"
+      ],
+      "tags": [
+        "tutorial",
+        "beginner",
+        "open-source",
+        "contribution"
+      ]
+    }
+  ],
+  "funding": {
+    "channels": [
+      {
+        "guid": "opencollective",
+        "type": "payment-provider",
+        "address": "https://opencollective.com/firstcontributions",
+        "description": "Fiscal host is Open Source Collective. Payment methods can be found in https://docs.opencollective.com/help/financial-contributors/payments#select-a-payment-method"
+      },
+      {
+        "guid": "github-sponsors",
+        "type": "payment-provider",
+        "address": "https://github.com/sponsors/firstcontributions",
+        "description": "Uses open collective"
+      }
+    ],
+    "plans": [
+      {
+        "guid": "maintainer-time",
+        "status": "active",
+        "name": "Maintainer compensation",
+        "description": "This will compensate the effort of one maintainer working part-time on the projects.",
+        "amount": 30000,
+        "currency": "USD",
+        "frequency": "yearly",
+        "channels": [
+          "opencollective",
+          "github-sponsors"
+        ]
+      },
+      {
+        "guid": "hosting-monthly",
+        "status": "active",
+        "name": "Hosting support",
+        "description": "This will cover the monthly server hosting costs for the projects.",
+        "amount": 30,
+        "currency": "USD",
+        "frequency": "monthly",
+        "channels": [
+          "opencollective",
+          "github-sponsors"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "year": 2024,
+        "income": 3,
+        "expenses": 0,
+        "taxes": 0,
+        "currency": "USD",
+        "description": ""
+      },
+      {
+        "year": 2023,
+        "income": 5,
+        "expenses": 0,
+        "taxes": 0,
+        "currency": "USD",
+        "description": ""
+      }
+    ]
+  }
+}
