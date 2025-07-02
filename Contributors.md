@@ -2,6 +2,7 @@
 Hello guys, My name is Milad Kheradmand.
 vanakkam da Mapala...
 -[Rishabh] (https://github.com/RishabhSinghMoonCake) - Hey there
+-[tetsuo-jp] (https://github.com/tetsuo-jp) - Hello, World! こんにちは世界
 -[Sourav Sahoo] (https://github.com/SouravSahoo-D) - Hellow all, this my first ever GIT open source contribution.
 -[Fausto Calviño] (https://github.com/faustocalvinio) - Hello everyone, this is my first contribution to open source. I am excited to be part of this community!
 -[Shubham Gavand] (https://github.com/ShubhamGavand1234) - Hi Friends
