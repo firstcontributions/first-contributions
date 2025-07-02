@@ -65,6 +65,7 @@ vanakkam da Mapala...
 - [Eddie He](https://github.com/eddiehe99) contributed to this project on June 26th, 2025.
 - [Vasilis Avgoustakis](https://github.com/VasilisAvgoustakis) - Greetings!
 - [Parth Kikani](https://github.com/kikani-parth) - Namaste from India! This is my first open-source contribution.
+- [Riddhi J](http://github.com/riddhij-7) - This is my first open-source contribution yay!
 - [Leah Boyd] (https://github.com/boydlm) - Excited to start a career in technical writing!
 - [Gustavo Mendes] (https://github.com/ghmmendes) - Hello everybody, this is my first contribution.
 - [Kian] (https://github.com/kiaann1/) - Hey :O
