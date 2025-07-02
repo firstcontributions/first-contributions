@@ -21,7 +21,6 @@ vanakkam da Mapala...
 -[Sara](https://github.com/sara-1129)-This is my first open source contribution ,really excited for the amazing journey ahead.
 -[Keerthika](https://github.com/KeerthikaKatheresan)-Ithu tha enoda first open source contribution .I am happyyyy.
 -[Harsha](https://github.com/HarshaTalatala)-This is my first open source contribution.
--[Neel Sane](https://github.com/superdudeneel)-This is my first open source contribution.
 -[Avital](https://github.com/Avital2025)- A beginner developer who loves solving problems and aims high. Aspiring to create solutions that make a lasting impact.
 -[Faizan Sheikh](https://github.com/faizan929) - Hello everyone, this is my first time contributing to an open source, happy learning, All the best
 -[madasamy](https://github.com/madasamydfan) - 18 year old , student started contributing to learn.
@@ -4496,3 +4495,6 @@ Artem Ryabtcev
 - [Jeremy](https://github.com/jefische) - Hi all, this is my first open source contribution.
 - [aniruth] (https://github.com/AniruthKarthik) - Yooo Yoo
 - [lsy1973] (https://github.com/lsy1973) -  🚀 🚀 🚀!!!
+- [divyeshdash](https://github.com/divyeshdash) - Excited for my first open-source contribution  🚀💻
+
+ 
