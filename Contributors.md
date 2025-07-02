@@ -30,6 +30,7 @@ vanakkam da Mapala...
 -[AmjadHamoud](https://github.com/AmjadHamoud) - 18 year old , student started contributing to learn.
 - [Ritik-khandelwal] (https://github.com/Ritik-khandelwal) - Hey Hii Everyone !!! It's 28th June, 2025 Today. From today I have decided to do open source contributions. All The Best everyone for their future.
 - [johntoby] (https://github.com/johntoby) - Hii guys. Happy to contribute
+- [Juanelios] (https://github.com/Juanelios) - Happy to start here :)
 -[s1ggelin] (https://github.com/s1ggelin) - Happy to contribute
 - [zhouparis] (https://github.com/zhouparis) - 25 years old, 6/26/25, start of my OSS contributions hopefully. Goodluck to all those that come after and a big Wow to all those before
 - [Collin7273] (https://github.com/Collin7273) - Hello there, nice to meet you!!
