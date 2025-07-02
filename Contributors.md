@@ -4073,6 +4073,7 @@ random guy
 - [Keyz](https://github.com/keyzeuh)
 - Jefferson Eduardo Santos Lima
 - [Oziri](https://github.com/oziriemeka) 
+- [Nitesh] (https://github.com/NiteshGowda2802) first contribution 
 - Olá! Eu sou o Luiz Felipe (https://github.com/LuizFelipeLP) do Brasil!
 - [Horizon7006](https://github.com/horizon7006)
 - [faizdevx](https://github.com/faizdevx)
