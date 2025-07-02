@@ -315,6 +315,7 @@ Achal Agrawal
 - [Tomoaki Kurata](https://github.com/moecute-asmr/)
 - [Dipesh Kumar Mandal](https://github.com/Dipesh166)
 - [GiziL](https://github.com/GiziL13)
+- [Chanith Adikari](https://github.com/Chanith27)My First Contribution for an Open Source on 02nd July 2025
 - [Piyush Varma](https://github.com/piyushhvarma)
 - [Ismail Salah](https://github.com/msi404)
 - [Vitor Moreira](https://github.com/mmartins-vitor)
