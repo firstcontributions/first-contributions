@@ -2072,6 +2072,7 @@ Matthew Burgos
 - [Anurag Chaturvedi](https://github.com/anuragjcchaturvedi)
 - [Manas Mahajan](https://github.com/ManasMahajan2003)
 - [Christopher O.](https://github.com/limitpointinf0)
+- [Irfan khan](https://github.com/khanirfan18)
 - [SNN](https://github.com/sungenyeint)
 - [candycane124](https://github.com/candycane124)
 - [amoorali](https://github.com/amoorali)
