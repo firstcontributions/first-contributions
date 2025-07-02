@@ -999,6 +999,7 @@ Mohamed Farah
  - [Avinash Kumar Learning GitHub]
  - [Nizan Naor]
  - [Anton Berglund]
+ - [Rikki Kaufman] (https://github.com/Rikkik102)
  - [Sebastian](https://github.com/karsonbwoy)
  - [Raj Singh]
  - [Isgandar Karimov](https://github.com/Isgandarrr)
