@@ -687,6 +687,7 @@ Solomon
 - [Deepanshu Sharwan] (https://github.com/Deepanshusharwan/first-contributions.git)
 - [Muhammad Kashan Haider](https://github.com/kashan321)
 - [Mansoor Ahmad](https://github.com/mansoorahmad-47)
+- [Narendra Nath Chatterjee](https://github.com/Narendra-JU)
 - [Haidy El-Daly](https://github.com/haidy73)
 - [KANDREGULA VENKATA AJAY] (https://github.com/AJAY5503)
 - [Khaja](https://github.com/mkshah502)
