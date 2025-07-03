@@ -1014,6 +1014,7 @@ Mohamed Farah
  - [IngenieroVictorAlonzo] (https://github.com/IngenieroVictorAlonzo)
  - [Roberto Ayres](https://github.com/roberto-ayres)
  - [Ray Xiang](https://github.com/rayxiang03)
+ - [Nithish Kumar S](https://github.com/NithishKumar-13) Hey there! Excited to begin my open-source journey
  - [Anasmtaweh] (https://github.com/Anasmtaweh)
  - laszloekovacs
  samiksha
