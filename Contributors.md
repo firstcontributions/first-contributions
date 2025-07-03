@@ -16,6 +16,7 @@ vanakkam da Mapala...
 -[Pruthviraj Patil] (https://github.com/pruthvirajpatil2024) - Hello i am doing this contribution in intent of learning open source contribution.  
 -[Jyoti Lalwani](https://github.com/Jyoti520) - first time contribution to open source
 -[WangZhenYU](https://github.com/wausdjaks) -Ciallo~  
+-[Nelson Privette](https://github.com/NPrivette) - Hey, I've been self taught for going on three years. Here's my first official open source contribution
 -[Sonakshi](https://github.com/sonakshi555) - heyy there, today 30/06/2025 , when i marked my first contribution to open source in the line 5. 
 -[Vijay vardhan](https://github.com/sonakshi555) - heyy there, today 30/06/2025 , when i marked my first contribution to open source in the line 6. 
 -[Yudiblimb](https://github.com/Yudiblimb) - first time really using github :O
