@@ -1,5 +1,4 @@
 # Contributors
--[Ritesh] (https://github.com/rahool-oo7) - Hello everyone, I am going to become an AI/ML ENGINEER by the end of the year 2025
 -[Aditya] (https://github.com/Aditya-githubbb) - Hey guys, this is my first contribution to open source made on - 02/07/2025 
 Hello guys, My name is Milad Kheradmand.
 vanakkam da Mapala...
@@ -183,6 +182,7 @@ Achal Agrawal
 - [Mahantesh Gurav](https://github.com/mahanteshbg) Hello Everyone! My first open source contribution.
 - [Amritanshu Goutam](https://github.com/bhutuklearning) Hii Everyone.
 - Harika Y
+-[Ritesh] (https://github.com/rahool-oo7) - Hello everyone, I am going to become an AI/ML ENGINEER by the end of the year 2025
 - Henish Shah here. Greetings!
 - [Al Lizaso](https://github.com/alizaso97) Hello World! Excited to contribute to my first open source project :]
 - [Soham Padalikar](https://github.com/Soham204) Hello World
