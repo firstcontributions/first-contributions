@@ -761,6 +761,7 @@ Mohamed Farah
 - [Anton Tumurov](https://github.com/Anton-tumurov)
 - [Everton Gabriel do Santos](https://github.com/Evert0nSantos)
 - [Tony Obi] (https://github.com/tboyobi)
+- [Luckaty](https://github.com/Luckaty)
 - [Asna Assalam](https://github.com/asnaassalam)
 - [ADMIRΛL](https://github.com/ogadmiral)
 - [Pritish Divate](https://github.com/pritish2403)
