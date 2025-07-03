@@ -776,6 +776,7 @@ Mohamed Farah
 - [Navaneeth Krishna G](https://github.com/Navaneeth832)
 - [Ashis Hota](https://github.com/ashishota)
 - [Lior Cohen](https://github.com/liorcodev)
+- [Brian Mulhern](https://github.com/thebmul)
 - [Mike G](https://github.com/mgalkowski/)
 - [Raaghav Raaj](https://github.com/raaghavraaj)
 - [Harshil-Solanki](https://github.com/26harshil)
