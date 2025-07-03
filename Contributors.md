@@ -4526,4 +4526,3 @@ Artem Ryabtcev
 - [Mohammad Chisty Madeena Sharieff](https://github.com/MdSharieff-081) - yo!
 - [Basma BT](https://github.com/Boutaib-Basma)
 - [Alberto Jiménez] (https://github.com/alberyxulo)
-- [ishan bawa]: hey author good to know about you are helping people like me. really appreciate that.
