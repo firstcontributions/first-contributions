@@ -2384,6 +2384,7 @@ Darien Edwards
 - [lukgav](https://github.com/lukgav)
 - [Deepak Ondimuthu**](https://github.com/MeteorBlitz)
 - [HiroseTakuya](https://github.com/hiro-tech-taku/)
+- [Taha Tariq](https://github.com/tahatariq19)
 - [Joncineus](https://github.com/joncineus)
 - [Krishiv](https://github.com/Krizzhiv)
 - [Pavani](https://github.com/PavaniMuppalla29)
