@@ -1685,6 +1685,7 @@ Matthew Burgos
 - [Dev Makwana](https://github.com/Phaedrus1301)
 - [Olivier Faivre]
 - [hh]
+-[Freya0527](https://github.com/Freya0527)
 - [Robin Tournadre](https://github.com/RobTou)
 - [Sean Erfan](https://github.com/Shameed4)
 - [Tushar Shinde](https://github.com/Tushar-Shinde31)
