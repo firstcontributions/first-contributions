@@ -4558,3 +4558,4 @@ Jin
 - [Ipshita Bhardwaj](https://github.com/ipshitabhardwaj)
 - [Manuel Díaz](https://github.com/kmanuelDC/first-contributions) - firs fork
 - [ressoll](https://github.com/ressoll) - hello world
+- [Freya0527](https://github.com/Freya0527) - hello world
