@@ -335,6 +335,7 @@ Achal Agrawal
 - [Szabolcs Cseres](https://github.com/szabicseres)
 - [Ethan Hom](https://github.com/EthanHom)
 - [jonvert](https://github.com/jonvert)
+- [Masamichi Kaneko](https://github.com/kaneko-masa) - hope this goes well for me in the future 2025, July 3
 - [mildw428] (https://github.com/mildw428)
 - [Brandon Tavares](https://github.com/Btavares64)
 - [TEJAS](https://github.com/Surge77) **Ready to Blast it**
