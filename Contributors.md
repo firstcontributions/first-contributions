@@ -4562,3 +4562,4 @@ Jin
 - [ressoll](https://github.com/ressoll) - hello world
 - [RyuzuTakalov](https://github.com/RyuzuTakalov) - There so many of us!
 - [Pritiranjan Patra](https://github.com/PritiranjanPatra2) - Never Give Up
+- [Jueda Sherifi] (https://github.com/juedash)
