@@ -22,6 +22,7 @@
 - [Atkin](https://github.com/atkin0)
 - [ParthivPatel](https://github.com/arnavtumbde)
 - [Peter Schenk](https://github.com/EinSatzMitX)
+- [ChrisWoakes]
 - [Daniel Feldman](https://github.com/DanielFeldman1)
 - [Abdullah Adel](https://github.com/Abdullah-adel)
 - [VSuryawanshi]
