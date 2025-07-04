@@ -4555,3 +4555,4 @@ Jin
 - [Agam singh](https://github.com/agamsiingh) - Hello World
 - [Ipshita Bhardwaj](https://github.com/ipshitabhardwaj)
 - [Manuel Díaz](https://github.com/kmanuelDC/first-contributions) - firs fork
+- [ressoll](https://github.com/ressoll) - hello world
