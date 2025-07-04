@@ -4485,5 +4485,5 @@ Artem Ryabtcev
 - [tetsup-jp](https://github.com/tetsuo-jp) - Hello world!
 - [Sudharsanan Gokul](https://github.com/sudharsanangokul) - Hey everyone, this is my first open-source contribution. 💜
 - [Jeremy](https://github.com/jefische) - Hi all, this is my first open source contribution.
-- [aniruth] (https://github.com/AniruthKarthik) - Yooo Yoo
+- [Aniruth](https://github.com/AniruthKarthik) - Yooo Yoo
 - [Vedant Gore](https://github.com/VedantGore07) - hello, this is my first open source contribution.
