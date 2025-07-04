@@ -17,6 +17,7 @@ Hello guys, My name is Milad Kheradmand.
 vanakkam da Mapala...
 -[Pietro Franca] (https://github.com/pietro-franca)
 -[Adameji Israel] (https://github.com/ireoluwa12345)
+-[Anuj Kulkarni](https://github.com/steam-bell-92) - Hye guys, this is my first contribution to an unknown repo / source (date - 05-0702025 in form {dd/mm/yyyy})
 -[Shivani] (https://github.com/Shivtanu) - Hey guys, first contribution to open source dated - 02/07/2025
 -[Shivam] (https://github.com/Shivam040) - Hello! 
 -[Rishabh] (https://github.com/RishabhSinghMoonCake) - Hey there
