@@ -9,6 +9,7 @@
 -[Tawsia](https://github.com/tawsia)- First Contribution Ever. 03-07-2025
 -[Gilbert] (https://github.com/Girome01) -Hello, first contribution to open source date - 02/07/2025
 -[Ali] (https://github.com/ali8646) - 
+-[reza] (https://github.com/rez-w-laban) - hi very excited to start my journey!! 
 -[Aditya] (https://github.com/Aditya-githubbb) - Hey guys, this is my first contribution to open source made on - 02/07/2025 
 Hello guys, My name is Milad Kheradmand.
 vanakkam da Mapala...
