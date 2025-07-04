@@ -4565,3 +4565,4 @@ Jin
 - [Pritiranjan Patra](https://github.com/PritiranjanPatra2) - Never Give Up
 - [Jueda Sherifi] (https://github.com/juedash)
 -[Naveena](https://github.com/Nav99-git)- It's never too late to begin !!
+- [Zack Bou](https://github.com/brainchemist)- Trust no man, Fear no b!tch !
