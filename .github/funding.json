@@ -86,6 +86,14 @@
         "description": ""
       },
       {
+        "year": 2024,
+        "income": 3,
+        "expenses": 0,
+        "taxes": 0,
+        "currency": "USD",
+        "description": ""
+      },
+      {
         "year": 2023,
         "income": 5,
         "expenses": 0,
