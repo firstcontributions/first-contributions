@@ -2307,6 +2307,7 @@ Matthew Burgos
 - [Fuad Hasan](https://github.com/itsfuad)
 - [meenakshiruia](https://github.com/meenakshiruia)
 - [gleisomSilva](https://github.com/Gleison-Silva-02)
+- [dbolate](https://github.com/dbolate)
 - [S.Yukiko](https://github.com/yuki-git-9)
 - [Joshua Luca](https://github.com/joshluca98)
 - [Yhlas Yazmyrad](https://github.com/yazmyrad)
