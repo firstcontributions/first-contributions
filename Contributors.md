@@ -4561,3 +4561,4 @@ Jin
 - [Manuel Díaz](https://github.com/kmanuelDC/first-contributions) - firs fork
 - [ressoll](https://github.com/ressoll) - hello world
 - [RyuzuTakalov](https://github.com/RyuzuTakalov) - There so many of us!
+- [Pritiranjan Patra](https://github.com/PritiranjanPatra2) - Never Give Up
