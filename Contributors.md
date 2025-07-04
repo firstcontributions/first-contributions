@@ -4546,6 +4546,8 @@ Artem Ryabtcev
 - [Sudharsanan Gokul](https://github.com/sudharsanangokul) - Hey everyone, this is my first open-source contribution. 💜
 - [yanj428](https://github.com/yanj428) - hello!!! im new here
 - [Jeremy](https://github.com/jefische) - Hi all, this is my first open source contribution.
+- [Aniruth](https://github.com/AniruthKarthik) - Yooo Yoo
+- [Vedant Gore](https://github.com/VedantGore07) - hello, this is my first open source contribution.
 - [aniruth] (https://github.com/AniruthKarthik) - Yooo Yoo
 - [lsy1973] (https://github.com/lsy1973) -  🚀 🚀 🚀!!!
 - [kpCoder](https://github.com/kpCoder2801) - Hi there, I'm a software developer from Vietnam. This is my first open-source contribution. 🚀   
@@ -4563,3 +4565,4 @@ Jin
 - [RyuzuTakalov](https://github.com/RyuzuTakalov) - There so many of us!
 - [Pritiranjan Patra](https://github.com/PritiranjanPatra2) - Never Give Up
 - [Jueda Sherifi] (https://github.com/juedash)
+
