@@ -8,6 +8,7 @@
 - [Carlos Eduardo Ferreira](https://github.com/Carloseduardo-dev) - Olá , Eu sou o Cadu!
 - [Emadaddin Alqadasi] (https://github.com/EmadCodesPy) Hello everyone, This is my first contribution ever - 03/07/2025
 - [Daksh Aggarwal] (https://github.com/Daksh-Aggarwal) Hi everyone! First ever contribution on 3 July 2025!
+- [RamonMarino] (https://github.com/RamonMarino3005)
 -[Tawsia](https://github.com/tawsia)- First Contribution Ever. 03-07-2025
 -[Gilbert] (https://github.com/Girome01) -Hello, first contribution to open source date - 02/07/2025
 -[Ali] (https://github.com/ali8646) - 
