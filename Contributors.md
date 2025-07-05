@@ -2594,6 +2594,7 @@ Darien Edwards
 - [Bird Dog](https://github.com/acuhlian)
 - [Gil Anavi](https://github.com/thisguygil)
 - [Michael B.](https://github.com/mbyrd3)
+- [Connor] (https://github.com/ConnorEnglish8561)
 - [ Supraja Gaonkar ](https://github.com/Supraja-Gao)
 - [Oscar A. Virguez](https://github.com/oscar243)
 - [vedivero](https://github.com/vedivero)
