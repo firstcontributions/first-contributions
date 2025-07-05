@@ -1,12 +1,15 @@
 # Contributors
+- [jw-MY] (https://github.com/Yeoh-JinWei) - Hello World! 你好世界！
 - [whiteDevil] (https://github.com/prasad-bigdp) - I did 05/07/2025
 -[BChaput] (https://github.com/BrianChaput) -Howdy World! 7/3/2025
 -[OsirisNexus] (https://github.com/osirisNexus) - First Open Src Contribution on the 4th of July!!! 07/04/2025
 -[yrdaman] (https://github.com/yrdaman) - Hola Open src World !!! 04/07/2025
+-[Karan-312] (https://github.com/Karan-312) - just a test how to raise a PR . 
 -[PraMaratha] (https://github.com/PraMaratha) - Hello, Everyone!
 -[ArshiaAA9] (https://github.com/ArshiaAA9/first-contributions) - if you are reading this, i hope you have a great carrier ahead of you. 3/7/2025
 - [Anaymehra] (https://github.com/anaymehra/first-contributions) - I will be doing better, JSR 4/7/2025
 -[Vishal] (https://github.com/thevishaal26) Hello , this is my first contribution to the open soure - 03/07/2025
+-[Parv] (https://github.com/Parv1404) Hello, this is my first step in the open source world - 05/07/2025
 - [Carlos Eduardo Ferreira](https://github.com/Carloseduardo-dev) - Olá , Eu sou o Cadu!
 - [Emadaddin Alqadasi] (https://github.com/EmadCodesPy) Hello everyone, This is my first contribution ever - 03/07/2025
 - [Daksh Aggarwal] (https://github.com/Daksh-Aggarwal) Hi everyone! First ever contribution on 3 July 2025!
@@ -20,8 +23,10 @@
 Hello guys, My name is Milad Kheradmand.
 vanakkam da Mapala...
 -[Pietro Franca] (https://github.com/pietro-franca)
+-[Ziad Essam]  (https://github.com/Ziaad03)
 -[Adameji Israel] (https://github.com/ireoluwa12345)
 -[Anuj Kulkarni](https://github.com/steam-bell-92) - Hye guys, this is my first contribution to an unknown repo / source (date - 05-0702025 in form {dd/mm/yyyy})
+-[Amulya]- (https://github.com/amulyaa-19) Hello!
 -[Shivani] (https://github.com/Shivtanu) - Hey guys, first contribution to open source dated - 02/07/2025
 -[Shivam] (https://github.com/Shivam040) - Hello! 
 -[Rishabh] (https://github.com/RishabhSinghMoonCake) - Hey there
@@ -4578,4 +4583,5 @@ Jin
 - [Jada Thibodeaux](https://github.com/jadathib) - Hi there, I'm Jada 
 - [Siva Murthy](https://github.com/sivamurthy30)--goof
 - [nyaru177](https://github.com/nyaru177) - NiHao sekai!!
+- [lichangz](https://github.com/lichangz-git) - hello
 - [heojawon](https//github.com/heojawon) - Hi, I'm Developer from Korea.
