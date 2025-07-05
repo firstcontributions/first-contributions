@@ -794,6 +794,7 @@ Mohamed Farah
 - [Luckaty](https://github.com/Luckaty)
 - [Asna Assalam](https://github.com/asnaassalam)
 - [ADMIRΛL](https://github.com/ogadmiral)
+- Harish Kumbar
 - [Pritish Divate](https://github.com/pritish2403)
 - [Ale Roses](https://github.com/aleroses)
 - [Joshua Jimenez](https://github.com/JoshKerosh)
