@@ -1,4 +1,5 @@
 # Contributors
+- [jw-MY] (https://github.com/Yeoh-JinWei) - Hello World! 你好世界！
 - [whiteDevil] (https://github.com/prasad-bigdp) - I did 05/07/2025
 -[BChaput] (https://github.com/BrianChaput) -Howdy World! 7/3/2025
 -[OsirisNexus] (https://github.com/osirisNexus) - First Open Src Contribution on the 4th of July!!! 07/04/2025
@@ -20,8 +21,10 @@
 Hello guys, My name is Milad Kheradmand.
 vanakkam da Mapala...
 -[Pietro Franca] (https://github.com/pietro-franca)
+-[Ziad Essam]  (https://github.com/Ziaad03)
 -[Adameji Israel] (https://github.com/ireoluwa12345)
 -[Anuj Kulkarni](https://github.com/steam-bell-92) - Hye guys, this is my first contribution to an unknown repo / source (date - 05-0702025 in form {dd/mm/yyyy})
+-[Amulya]- (https://github.com/amulyaa-19) Hello!
 -[Shivani] (https://github.com/Shivtanu) - Hey guys, first contribution to open source dated - 02/07/2025
 -[Shivam] (https://github.com/Shivam040) - Hello! 
 -[Rishabh] (https://github.com/RishabhSinghMoonCake) - Hey there
