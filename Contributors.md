@@ -4574,4 +4574,5 @@ Jin
 - [Jueda Sherifi] (https://github.com/juedash)
 -[Naveena](https://github.com/Nav99-git)- It's never too late to begin !!
 - [Zack Bou](https://github.com/brainchemist)- Trust no man, Fear no b!tch !
-- [Makhdum Hossain](https://github.com/Makhdum412)- We are not behind. We are where we need to be!!
+- [Makhdum Hossain](https://github.com/Makhdum412)- We are not behind. We are where we need to be!! 
+- [Jada Thibodeaux](https://github.com/jadathib) - Hi there, I'm Jada 
