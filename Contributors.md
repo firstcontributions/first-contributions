@@ -7,7 +7,7 @@
 -[yrdaman] (https://github.com/yrdaman) - Hola Open src World !!! 04/07/2025
 -[Karan-312] (https://github.com/Karan-312) - just a test how to raise a PR . 
 -[PraMaratha] (https://github.com/PraMaratha) - Hello, Everyone!
-Clyde-Chen-JJ
+-[Clyde-Chen-JJ] (https://github.com/Clyde-Chen-JJ) - Officially entering the community 6/7/2025
 -[ArshiaAA9] (https://github.com/ArshiaAA9/first-contributions) - if you are reading this, i hope you have a great carrier ahead of you. 3/7/2025
 - [Anaymehra] (https://github.com/anaymehra/first-contributions) - I will be doing better, JSR 4/7/2025
 -[Vishal] (https://github.com/thevishaal26) Hello , this is my first contribution to the open soure - 03/07/2025
