@@ -4580,3 +4580,4 @@ Jin
 - [Jada Thibodeaux](https://github.com/jadathib) - Hi there, I'm Jada 
 - [Siva Murthy](https://github.com/sivamurthy30)--goof
 - [nyaru177](https://github.com/nyaru177) - NiHao sekai!!
+- [lichangz](https://github.com/lichangz-git) - hello
