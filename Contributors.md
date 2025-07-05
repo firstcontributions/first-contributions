@@ -1,7 +1,8 @@
 # Contributors
 
 - [jw-MY] (https://github.com/Yeoh-JinWei) - Hello World! 你好世界！
-- [whiteDevil] (https://github.com/prasad-bigdp) - I did 05/07/2025 -[BChaput] (https://github.com/BrianChaput) -Howdy World! 7/3/2025 -[Shriya-Choksi](https://github.com/shriyachoksi) - Love from India 5/07/25 -[OsirisNexus] (https://github.com/osirisNexus) - First Open Src Contribution on the 4th of July!!! 07/04/2025 -[yrdaman] (https://github.com/yrdaman) - Hola Open src World !!! 04/07/2025 -[PraMaratha] (https://github.com/PraMaratha) - Hello, Everyone! -[ArshiaAA9] (https://github.com/ArshiaAA9/first-contributions) - if you are reading this, i hope you have a great carrier ahead of you. 3/7/2025
+- [whiteDevil] (https://github.com/prasad-bigdp) - I did 05/07/2025 -[BChaput] (https://github.com/BrianChaput) -Howdy World! 7/3/2025
+- [Shriya-Choksi](https://github.com/shriyachoksi) - Love from India 5/07/25 -[OsirisNexus] (https://github.com/osirisNexus) - First Open Src Contribution on the 4th of July!!! 07/04/2025 -[yrdaman] (https://github.com/yrdaman) - Hola Open src World !!! 04/07/2025 -[PraMaratha] (https://github.com/PraMaratha) - Hello, Everyone! -[ArshiaAA9] (https://github.com/ArshiaAA9/first-contributions) - if you are reading this, i hope you have a great carrier ahead of you. 3/7/2025
 - [Anaymehra] (https://github.com/anaymehra/first-contributions) - I will be doing better, JSR 4/7/2025 -[Vishal] (https://github.com/thevishaal26) Hello , this is my first contribution to the open soure - 03/07/2025
 - [Carlos Eduardo Ferreira](https://github.com/Carloseduardo-dev) - Olá , Eu sou o Cadu!
 - [Emadaddin Alqadasi] (https://github.com/EmadCodesPy) Hello everyone, This is my first contribution ever - 03/07/2025
@@ -510,7 +511,7 @@
 - [gitty98]noice
 - [Ancil](https://github.com/iamancil)
 - [Om Borse](https://github.com/Om-Borse26) My first contribution to open source!
-- [androvonx95](https://github.com/androvonx95) – **** I use Arch btw 🗿🗿🗿🗿 ****
+- [androvonx95](https://github.com/androvonx95) – \***\* I use Arch btw 🗿🗿🗿🗿 \*\***
 - [Robyn](https://github.com/RBodde)
 - [Snowsita](https://github.com/Snowsita)
 - [smoglmy](https://github.com/smoglmy)
