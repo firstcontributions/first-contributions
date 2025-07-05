@@ -4476,15 +4476,15 @@ John Morgan Hello!
 - [Animesh Chittora] (https://github.com/animeshchittora) - Hello Open Source!!!
 - [Eduardo](https://github.com/Edd17369)
 - [Zhenbin An](https://github.com/ZanderAN07) - Hello Guys
--[Viswanathan](https://github.com/viswanathan11) -Hello world starting my open source journey
+- [Viswanathan](https://github.com/viswanathan11) -Hello world starting my open source journey
 - [lackoxy](https://github.com/lackoxy) -Hi there, a traveler who want to start an open source journey!(❁´◡`❁)
 - [Stevemichael](https://github.com/stevemichael15) - Hello, World!
 - [Taran Shetty](https://github.com/TaranShetty)
 - [ronaldrnd](https://github.com/ronaldrnd) - Hello from Madagascar!
--[Zaky](https://github.com/zeciati) - Just coming through
+- [Zaky](https://github.com/zeciati) - Just coming through
 - [Romit Sharma] - My First Ever Contribution
 - [Roshan Koirala] (https://github.com/RoshannCodes) - Hello guys, Myself Roshan Koirala from Nepal!
--[Ishika](https://github.com/ishika240047) - i am from india and this is my first open source contibutiono
+- [Ishika](https://github.com/ishika240047) - i am from india and this is my first open source contibutiono
 - [lichanghui11](https://github.com/lichanghui11) - Hello, I am a freshman in programming.
 - [Lucas Hoggan](https://github.com/lucashoggan) - Hello from Scotland!
 - [pranaytg](https://github.com/pranaytg) – Hi, I'm Pranay, a passionate AI and full-stack developer exploring open source and solving real-world problems with code.
@@ -4533,7 +4533,7 @@ John Morgan Hello!
 - [MrGunkin](https://github.com/mrgunkin) - Hello everyone!
 - [Astha](https://github.com/Astha-codes16)- Starting my journey of open source contribution! All the best to everyone out there
 - [Krishna Awasthi](https://github.com/krishnaawasthi-26)- from krishna, for Krishna, to Krishna
--[kevinpeltier](https://github.com/kevinpeltier) - Doin' It! Cheers Everyone!!
+- [kevinpeltier](https://github.com/kevinpeltier) - Doin' It! Cheers Everyone!!
 Artem Ryabtcev
 - [Vladislav Boyarkin](https://github.com/NonsenseUser) - Hope I get that job
 - [Kirti Mangate](https://github.com/kirti-ak47)
@@ -4544,7 +4544,7 @@ Artem Ryabtcev
 - [Hemant Acharya](https://github.com/hemantacharya1) - Hey guys, this is my firsst open-source contribution, many more to go. 🚀
 - [sYanXO] (https://github.com/sYanXO) - Hey! This is my first contribution. <3
 - [dinhdev-nu](https://github.com/dinhdev-nu) - Hi! This is my first contribution.
--[Poornima Tewatia] ([https://github.com/poornima200631](https://github.com/poornima200631))-Hello!This is my first contribution
+- [Poornima Tewatia] ([https://github.com/poornima200631](https://github.com/poornima200631))-Hello!This is my first contribution
 - [James Smith](https://github.com/Matte1196) - Love and unity to us all!
 - [JBetz-Dev](https://github.com/JBetz-Dev)
 - Garvit A [@Garvit09A](https://github.com/Garvit09A)
@@ -4572,9 +4572,10 @@ Jin
 - [RyuzuTakalov](https://github.com/RyuzuTakalov) - There so many of us!
 - [Pritiranjan Patra](https://github.com/PritiranjanPatra2) - Never Give Up
 - [Jueda Sherifi] (https://github.com/juedash)
--[Naveena](https://github.com/Nav99-git)- It's never too late to begin !!
+- [Naveena](https://github.com/Nav99-git)- It's never too late to begin !!
 - [Zack Bou](https://github.com/brainchemist)- Trust no man, Fear no b!tch !
 - [Makhdum Hossain](https://github.com/Makhdum412)- We are not behind. We are where we need to be!! 
 - [Jada Thibodeaux](https://github.com/jadathib) - Hi there, I'm Jada 
 - [Siva Murthy](https://github.com/sivamurthy30)--goof
 - [nyaru177](https://github.com/nyaru177) - NiHao sekai!!
+- [heojawon](https//github.com/heojawon) - Hi, I'm Developer from Korea.
