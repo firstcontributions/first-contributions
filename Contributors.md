@@ -1,11 +1,14 @@
 
 # Contributors
 
+
 - [sᴧɴᴅᴇᴇᴘ sʜᴧʀᴍᴧ](https://github.com/itzsandeepshrma) This is my **first ever contribution to open source** dated on 06/07/2025
 
 
 
 # Contributors
+- [Mohit Suthar](https://github.com/MohitSutharOfficial) - Hello, World! This is my first contribution to open source on 06/07/2025!
+
 - [Talha](https://github.com/talha-0) - Hello GitHub! My first open source contribution.
 - [Almish Hoda](https://github.com/almishhoda04) - Hi! This is Almish and this is my attempt to enter open source contributions!!
 - [Mohammed Omair Mohiuddin](https://github.com/Mohammed-Omair) - Hey everyone!, This is my very first open-source contribution - 5th July 2025
@@ -45,6 +48,7 @@ vanakkam da Mapala...
 -[Shivani] (https://github.com/Shivtanu) - Hey guys, first contribution to open source dated - 02/07/2025
 -[Shivam] (https://github.com/Shivam040) - Hello! 
 -[Rishabh] (https://github.com/RishabhSinghMoonCake) - Hey there
+-[Kulchandra](https://github.com/bhattk64)-Hi there!
 -[Vu Hoang] (https://github.com/hondeorua) - Hi, first contribution is really exciting huh :>>
 -[tetsuo-jp] (https://github.com/tetsuo-jp) - Hello, World! こんにちは世界
 -[Rushikesh Borkar] (https://github.com/Rushi-04) - Hey, Namaskar! this is my first contribution to open source - 02/07/2025
@@ -255,6 +259,7 @@ Achal Agrawal
 - [joset15](https://github.com/joset15) - My first open source contribution!
 - [Adharsh k](https://github.com/shadows-codinghub) Starting of my open source contribution!(23/06/2025)
 - [Anurag Raut](https://github.com/anurag-raut1) First Contribution...
+- [Vincent Chin](https://github.com/VincentChin-Git) Hi, I am a software engineer, this is my first contribution to open source repository! (06/07/2025)
 - [Mateusz Święszek](https://github.com/MateuszSwieszek)
 - [Srihari Venkatesan](https://github.com/MayaDisepler)
 - [Asitha kodithwakku](https://github.com/Asitha0012)
@@ -357,6 +362,7 @@ Achal Agrawal
 - [Reshma R](https://github.com/reshma045)
 - [Ayush_Agrawal] (https://github.com/AyushAgrawal-04) Cheers to new beginning 
 - [Anish] (https://github.com/anish-eng)
+- [Raka Putra Utama](https://github.com/Raka023) - Nice to meet y'all!
 - [Hadar Pada-el] (https://github.com/HadarPadael)
 - [Andrew Velez](https://github.com/andrew-velez)
 - [Yagnesh Patel](https://github.com/yagnesh-patel)
@@ -469,6 +475,7 @@ Achal Agrawal
 - [Kushal Jain](https://github.com/KushalJain07)**YOO WE ROLLIN FR! LESSS D00 THIS**
 - [Julien Marodon](https://github.com/JMD-tech)
 - [Tai]
+- [Pranit Nagdeote](https://github.com/Pranit169) **Hey there. This is my first contribution and I hope this is a start of many       contribution of my carrer
 - team edith is here
 - [Jaiveer Tiwana]
 - [Dimitris Tsitsimis](https://github.com/adiropos)
@@ -558,6 +565,7 @@ Achal Agrawal
 - [Aakash Choudhary](https://github.com/ifaakash) **First Open Source Contribution**
 - [Julia Coyner](https://github.com/jucoyner1)
 - [Alex Taylor](https://github.com/Alex-Devonte)
+- [Ananya](https://github.com/ananya97br)
 - [Aryan Pal] (https://github.com/aryanpal-7)
 - [Bhuvaneshwar Venkatraman] (https://github.com/bhuvnsh)
 - [Peter Schenk](https://github.com/EinSatzMitX)
