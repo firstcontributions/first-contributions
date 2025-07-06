@@ -467,6 +467,7 @@ Achal Agrawal
 - [Kushal Jain](https://github.com/KushalJain07)**YOO WE ROLLIN FR! LESSS D00 THIS**
 - [Julien Marodon](https://github.com/JMD-tech)
 - [Tai]
+- [Pranit Nagdeote](https://github.com/Pranit169) **Hey there. This is my first contribution and I hope this is a start of many       contribution of my carrer
 - team edith is here
 - [Jaiveer Tiwana]
 - [Dimitris Tsitsimis](https://github.com/adiropos)
