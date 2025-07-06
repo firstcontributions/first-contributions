@@ -11,7 +11,7 @@
 -[BChaput] (https://github.com/BrianChaput) -Howdy World! 7/3/2025
 -[OsirisNexus] (https://github.com/osirisNexus) - First Open Src Contribution on the 4th of July!!! 07/04/2025
 -[yrdaman] (https://github.com/yrdaman) - Hola Open src World !!! 04/07/2025
--[Karan-312] (https://github.com/Karan-312) - just a test how to raise a PR . 
+-[Karan-312] (https://github.com/Karan-312) - just a test how to raise a PR .
 -[PraMaratha] (https://github.com/PraMaratha) - Hello, Everyone!
 -[Clyde-Chen-JJ] (https://github.com/Clyde-Chen-JJ) - Officially entering the community 6/7/2025
 -[ArshiaAA9] (https://github.com/ArshiaAA9/first-contributions) - if you are reading this, i hope you have a great carrier ahead of you. 3/7/2025
@@ -25,10 +25,10 @@
 - [RamonMarino] (https://github.com/RamonMarino3005)
 -[Tawsia](https://github.com/tawsia)- First Contribution Ever. 03-07-2025
 -[Gilbert] (https://github.com/Girome01) -Hello, first contribution to open source date - 02/07/2025
--[Ali] (https://github.com/ali8646) - 
-  Hemank 
--[reza] (https://github.com/rez-w-laban) - hi very excited to start my journey!! 
--[Aditya] (https://github.com/Aditya-githubbb) - Hey guys, this is my first contribution to open source made on - 02/07/2025 
+-[Ali] (https://github.com/ali8646) -
+  Hemank
+-[reza] (https://github.com/rez-w-laban) - hi very excited to start my journey!!
+-[Aditya] (https://github.com/Aditya-githubbb) - Hey guys, this is my first contribution to open source made on - 02/07/2025
 Hello guys, My name is Milad Kheradmand.
 vanakkam da Mapala...
 -[Pietro Franca] (https://github.com/pietro-franca)
@@ -37,8 +37,9 @@ vanakkam da Mapala...
 -[Anuj Kulkarni](https://github.com/steam-bell-92) - Hye guys, this is my first contribution to an unknown repo / source (date - 05-0702025 in form {dd/mm/yyyy})
 -[Amulya]- (https://github.com/amulyaa-19) Hello!
 -[Shivani] (https://github.com/Shivtanu) - Hey guys, first contribution to open source dated - 02/07/2025
--[Shivam] (https://github.com/Shivam040) - Hello! 
+-[Shivam] (https://github.com/Shivam040) - Hello!
 -[Rishabh] (https://github.com/RishabhSinghMoonCake) - Hey there
+-[HarshVZ] (https://github.com/HarshVz) - Hello Universe!
 -[Vu Hoang] (https://github.com/hondeorua) - Hi, first contribution is really exciting huh :>>
 -[tetsuo-jp] (https://github.com/tetsuo-jp) - Hello, World! こんにちは世界
 -[Rushikesh Borkar] (https://github.com/Rushi-04) - Hey, Namaskar! this is my first contribution to open source - 02/07/2025
@@ -47,12 +48,12 @@ vanakkam da Mapala...
 -[Sourav Sahoo] (https://github.com/SouravSahoo-D) - Hellow all, this my first ever GIT open source contribution.
 -[Fausto Calviño] (https://github.com/faustocalvinio) - Hello everyone, this is my first contribution to open source. I am excited to be part of this community!
 -[Shubham Gavand] (https://github.com/ShubhamGavand1234) - Hi Friends
--[Pruthviraj Patil] (https://github.com/pruthvirajpatil2024) - Hello i am doing this contribution in intent of learning open source contribution.  
+-[Pruthviraj Patil] (https://github.com/pruthvirajpatil2024) - Hello i am doing this contribution in intent of learning open source contribution.
 -[Jyoti Lalwani](https://github.com/Jyoti520) - first time contribution to open source
--[WangZhenYU](https://github.com/wausdjaks) -Ciallo~  
+-[WangZhenYU](https://github.com/wausdjaks) -Ciallo~
 -[Nelson Privette](https://github.com/NPrivette) - Hey, I've been self taught for going on three years. Here's my first official open source contribution
--[Sonakshi](https://github.com/sonakshi555) - heyy there, today 30/06/2025 , when i marked my first contribution to open source in the line 5. 
--[Vijay vardhan](https://github.com/sonakshi555) - heyy there, today 30/06/2025 , when i marked my first contribution to open source in the line 6. 
+-[Sonakshi](https://github.com/sonakshi555) - heyy there, today 30/06/2025 , when i marked my first contribution to open source in the line 5.
+-[Vijay vardhan](https://github.com/sonakshi555) - heyy there, today 30/06/2025 , when i marked my first contribution to open source in the line 6.
 -[Yudiblimb](https://github.com/Yudiblimb) - first time really using github :O
 -[Samiru Hemaka](https://github.com/SamiruHemaka2004) - hi guyz. this is my first contributiuon for open source.All the best for everyone!
 -[Briand Miranda](https://github.com/briandms)
@@ -72,7 +73,7 @@ vanakkam da Mapala...
 -[Jaiguru2992](https://github.com/jai2992) - hi all started with my first contribution i guess doesn't know what is going to happen in the future.
 -[Faizan Sheikh](https://github.com/faizan929) - Hello everyone, this is my first time contributing to an open source, happy learning, All the best
 -[madasamy](https://github.com/madasamydfan) - 18 year old , student started contributing to learn.
--[MiaDeCataldo](https://github.com/MiaDeCataldo) - HI :). 
+-[MiaDeCataldo](https://github.com/MiaDeCataldo) - HI :).
 -[AmjadHamoud](https://github.com/AmjadHamoud) - 18 year old , student started contributing to learn.
 - [Ritik-khandelwal] (https://github.com/Ritik-khandelwal) - Hey Hii Everyone !!! It's 28th June, 2025 Today. From today I have decided to do open source contributions. All The Best everyone for their future.
 - [johntoby] (https://github.com/johntoby) - Hii guys. Happy to contribute
@@ -173,7 +174,7 @@ vanakkam da Mapala...
 - [Manomalt](https://github.com/manomalt) My first contribution.  Thanks for the guide! 6/20/2025
 - [Ghamani M](https://github.com/Ghamani121) Heyy, It is 26th June,2025. My first open source contribution, feels good :)
 - [Ashley N](https://github.com/ajnussel17) "A ship in port is safe, but that's not what ships are built for." - Grace Hopper
-- [Tolani](https://github.com/tolaxxi) hi everyone 
+- [Tolani](https://github.com/tolaxxi) hi everyone
 - [SarthakBhat](https://github.com/SarthakBhat22)
 - [DoNguyenAnhTuan](https://github.com/DoNguyenAnhTuan)
 [Pranav Pandey]
@@ -181,12 +182,12 @@ vanakkam da Mapala...
 - Coder Shota Kun, trying my best.
 - [Kobi Kenzi](https://github.com/KenziVisor) Hello thy neighbours.
 - [Reymund Virtus](https://github.com/reymundvirtus) Hello, this is my first contribution to open source 20/06/25 1:42AM
-- John. The start of a young boy becoming a man 
+- John. The start of a young boy becoming a man
 - Uday. Let's see where it goes. Maybe one more time??
 - Michael Alemayehu (https://github.com/MickeyAlemayehu) Hello, from Ethiopia here!! Wish you all the best!!
 - [Kantesh Murade] (https://github.com/KanteshMurade) **Happy to be part of the open source journey!**
 - [Devansh Agrawal] (https://github.com/dk0509/)
-- [Manish Kumar] Things are not simple until you make them simple lets begain the journey of open source contributions 
+- [Manish Kumar] Things are not simple until you make them simple lets begain the journey of open source contributions
 - [Rafael Rezende](https://github.com/rafa-rez) Hello from UFLA - Lavras - MG - Brazil | XD
 - [Md. Mahmudul Hasan Mabud] (https://github.com/mahmudul626) Hi, I am from Bangladesh.
 -Achal Agrawal this i my first contribution and I'm happy and learning to do it.Something happened.
@@ -200,7 +201,7 @@ I'm doing some minor changes for practice.
 - [Danica] (https://github.com/danicawinola) my first contribution on 20/6/25 !!
 - [Sakhi Chatterjee](https://github.com/sakhi3008) - - Hi, I'm Sakhi Chatterjee — Excited to make my first open-source contribution!🚀
 - [Sudhanshu] (https://github.com/sudhanshu-raj) Namaste | Holla | Hello ,  guys !
-- Hii Everyone, My name is Hariom Pandey 
+- Hii Everyone, My name is Hariom Pandey
 - [Lavkush] (https://github.com/Lavkush24) Frist dive in the world of Open source on 19/06/2025!
 Achal Agrawal
 - [Julian Müller] (https://github.com/julianmllr) für fortnite
@@ -215,7 +216,7 @@ Achal Agrawal
 -[Ojas Mhatre] (https://github.com/mhatreojas)  Hell yeah
 -[Codesmith-114](https://github.com/Codesmith-114) Just gettin started
 -[Hariprasad Duvvuru](https://github.com/Hari0546)  I am learing Git and GitHub!!
-- [KnightBlue] (https://github.com/KnightBlue14) Happy to see a project that actively encourages beginners to contribute 
+- [KnightBlue] (https://github.com/KnightBlue14) Happy to see a project that actively encourages beginners to contribute
 - [SanGiio](https://github.com/SanGiio)
 - [AdityaMalik7] (https://github.com/AdityaMalik7) Excited for open source contributions.
 - [kuldeeptiwari91] (https://github.com/kuldeeptiwari91) Hello everyone! I'm Kuldeep Tiwari and lets deep dive into the world of open source contributions!!
@@ -225,7 +226,7 @@ Achal Agrawal
 - [Pavni](https://github.com/PavniR) just learning!
 - [Vraj](https://github.com/VrajChariot) My first open source contribution.
 - [Purandar Sai](https://github.com/Purandhar17) Hello World!! Hello World! This is my first contribution to open source!
-- [Sonia RM Karungi](https://github.com/SoniaRMK): 
+- [Sonia RM Karungi](https://github.com/SoniaRMK):
 - [sourav](https://github.com/souravdpal)
 - [Abhishek Kumar Paswan](https://github.com/Abhishekkumarpaswan) My first open source contribution on 18/06/2025! 12:40 AM
  Hello my name is namexy and here is my first of many open source contribution
@@ -234,7 +235,7 @@ Achal Agrawal
 - [Prashan Kulathunga](https://github.com/prashankulathunga) I am starting my contribution journey today - 2025-06-26 : Happy Coding All!
 - [Danyal Ansari](https://github.com/DanyalAnsari) 18-06-2025::21:02 IST.
 - [Aleena Ali Azeem](https://github.com/aleenaazeem) Heya, Welcome to first of many contributions. Good luck :D.
-- [Dadir Awad](https://github.com/dadirawad) Hello World, this is my first time contributing to open source! 
+- [Dadir Awad](https://github.com/dadirawad) Hello World, this is my first time contributing to open source!
 - [Mathues Justin Hasda](https://github.com/hasdajustin) Hello World! This is my first contribution to open source!
 - [Mahantesh Gurav](https://github.com/mahanteshbg) Hello Everyone! My first open source contribution.
 - [Amritanshu Goutam](https://github.com/bhutuklearning) Hii Everyone.
@@ -264,8 +265,8 @@ Achal Agrawal
 -[daniemprm](https://github.com/danielprm)
 - [Ken Li] Let's get started!
 - [AKSHITHA] The Beginning!
--[Aliya syed] Hey, y'all 
-- [Rahul Kumar](https://github.com/rahul-aws) This is my first commit, I want to go for more. Thank you. 
+-[Aliya syed] Hey, y'all
+- [Rahul Kumar](https://github.com/rahul-aws) This is my first commit, I want to go for more. Thank you.
 - [Anas Ansari] (https://github.com/moansari1234) Ee sala cup namdu!!!!
 - [glarerena](https://github.com/glarerena)
 - [Ayman Mouhcine] (https://github.com/aymane66)
@@ -333,7 +334,7 @@ Achal Agrawal
 - [vikas bansode](https://github.com/Vikass19) now learned how to contribute in open source projects.lets connect together and make a freelance boom on upwork connect with for colloboration.
 - [Samuel Thomas](https://github.com/samthomaz)
 - [Olivier](https://github.com/sbeerh)
-- [SREE VARSHAN V](https://github.com/sreevarshan-xenoz) 
+- [SREE VARSHAN V](https://github.com/sreevarshan-xenoz)
 - [Jaz H](https://github.com/jzmn6) Holaaa!
 - [Fabricio Campos](https://github.com/Fabricio21dv/)
 - [Ragnus]
@@ -343,14 +344,14 @@ Achal Agrawal
 - [bochard](https://github.com/b0chard)
 - [Mohamed_amine](https://github.com/AmineDELTA)
 - [Shailesh_Kumar_Shukla](https://github.com/Shaileshukla529) --> Thrilled to announce my first open-source contribution – a huge step in my coding journey!
-- [Akanksha] (https://github.com/Akanksha928) Let's go! 
+- [Akanksha] (https://github.com/Akanksha928) Let's go!
 - [Aarohi Mathur] lessgoo
 - [Asmitha] (https://github.com/AsmiSam) Good luck everybody!
 - [Soumyosish] (https://github.com/Soumyosish) Contribution
 - [Saanvi] First contribution.
 - [Neeraj] Add me Please!
 - [Reshma R](https://github.com/reshma045)
-- [Ayush_Agrawal] (https://github.com/AyushAgrawal-04) Cheers to new beginning 
+- [Ayush_Agrawal] (https://github.com/AyushAgrawal-04) Cheers to new beginning
 - [Anish] (https://github.com/anish-eng)
 - [Raka Putra Utama](https://github.com/Raka023) - Nice to meet y'all!
 - [Hadar Pada-el] (https://github.com/HadarPadael)
@@ -395,7 +396,7 @@ Achal Agrawal
 - [Evan Robertson](https://github.com/eprobertson001)
 - [Khandaker Atik](https://github.com/khandaker-atik)
 - [Sarvagna Vemula](https://github.com/VemulaSarvagna)
-- [Suliman S](https://github.com/suliman9683) 
+- [Suliman S](https://github.com/suliman9683)
 - [chloetychang](https://github.com/chloetychang)
 - [Abdelrahman Sharaf](https://github.com/eng-abdelrahman-sharaf)
 - [Malvin sehmaluva](https://github.com/sehmaluva)
@@ -413,20 +414,20 @@ Achal Agrawal
 - [RusticByte](https://github.com/Davidskumar)
 - [WillyR777j](https://github.com/WillyR777j/first-contributions)
 -[Adam Owolabi](https://github.com/AdamOwolabi/first-contributions)
-- [Heng_Xin](https://github.com/HengXin666) 
+- [Heng_Xin](https://github.com/HengXin666)
 - [Guna_Sai](https://github.com/Guna1301)
 - [dguan]
 - [IyadAli0](https://github.com/IyadAli0)
 - [veni](https://github.com/veni2412)
-- [Akansha Arora](https://github.com/https://github.com/aroraakansha-27) 
-- [Ragib Gulzar](https://github.com/ragibgulzar) 
+- [Akansha Arora](https://github.com/https://github.com/aroraakansha-27)
+- [Ragib Gulzar](https://github.com/ragibgulzar)
 - [zeyno_trying](https://github.com/zeyno-trying)
 - [Raghu Vamsi](https://github.com/raghuvamsi2328)
 - [Abuji]
 - [chonstar]
 - [Cas]
 - [debWho]
-- [Aqib Ali] 
+- [Aqib Ali]
 - [Linnea Johansson](https://github.com/lmvjohansson) Hello from Sweden!
 - [Kieran Edge](https://github.com/KieranEdge)
 - [Shruti]
@@ -440,17 +441,17 @@ Achal Agrawal
 - Hi! I'm [Ham Seoyeon](https://github.com/makee-ham). Just to clarify — I'm not that kind of *ham*🐷😉
 - [Priyanshu Bhatt] First contribution, will do more and more in future and present.
 - [torihazi](https://github.com/torihazi)
-- [Abhi K](https://github.com/AbhiK1237) **This is just the beginning** 
+- [Abhi K](https://github.com/AbhiK1237) **This is just the beginning**
 - [Gaurav](https://github.com/gauravkrsingh321) **Open Source Contribution**
-- [Tubhyam Jain](https://github.com/tubhyam14)**New Here...** 
+- [Tubhyam Jain](https://github.com/tubhyam14)**New Here...**
 - [Imalka Sewwandi](https://github.com/imalkasewwandi24) Excited to contribute!
 - [Sweta goswami] This is my first contribution hope to do more on real world projects ....
 -[Rohan Pawar](https://github.com/Rohanpawar9921) **Trying best to be a contributer ❤️
-- [Deeraj P Menon](https://github.com/Deratheone) 
+- [Deeraj P Menon](https://github.com/Deratheone)
 - [Yourself] First contribution ...
 - [Wyn Mars] (https://github.com/WynMars/) Cheer up, don't give in
 - [Research Devkota] (https://github.com/itsresearch) Hello itsresearch..
-- [rafi] (https://github.com/osak3r) 
+- [rafi] (https://github.com/osak3r)
 - [gccpsben](https://github.com/gccpsben) This is my first contribution daze~~ (definitely not from marisa)
 - Rodrigo Peñalba
 - [Yorgo Haykal] (https://github.com/yorgo-haykal) ""You miss 100% of the shots you don't take. -Wayne Gretzky" -Michael Scott" -Yorgo Haykal
@@ -494,9 +495,9 @@ Achal Agrawal
 - [Eleftherios](https://github.com/leftkats) **Happy to be part of the open source journey!**
 - [WetWayne](https://github.com/wetwayne)
 - [Mihai Sirbu](https://github.com/MihaiSirbu)
-- [Chaitanya Satsangi] (https://github.com/0xChaitanya) 
+- [Chaitanya Satsangi] (https://github.com/0xChaitanya)
 - [Kevin Tirado] (https://github.com/KevJosTd) **;)**
-- [Paras Kanojia](https://github.com/Paras1209) **Love to conenct with others and learn from them** 
+- [Paras Kanojia](https://github.com/Paras1209) **Love to conenct with others and learn from them**
 - [yuriuser126](https://github.com/yuriuser126)
 - [Michael](https://github.com/itsmikoj) **My first contribution**
 - [ArthurKouam](https://github.com/ArthurKouam)
@@ -504,7 +505,7 @@ Achal Agrawal
 - [Aung Myo Aye](https://github.com/AungMyoAye101) **My First Contribution**
 - [Navid Fayezi](https://github.com/NavidFayezi)
 - [Sweta Jaiswal](https://github.com/SwetaJaiswal9)
-- [Ayush Kalra](https://github.com/ayushkalra09) 
+- [Ayush Kalra](https://github.com/ayushkalra09)
 - [Neelabh sharma ](https://github.com/Neelabh-Sharma)**Welcome to the world of Open Source HappyCoding!**
 **Lessgoooo!!!**
 - [Kashmala Ahmad](https://github.com/kashmalaahmad)
@@ -536,7 +537,7 @@ Achal Agrawal
 - [Stylianos Vogiatzis](https://github.com/VforVog)
 - [Michee Kayembe](https://github.com/Devmike0007)
 -[cromano](https://github.com/cromano87)
-- [Gower Campbell](https://github.com/GowerCampbell) 
+- [Gower Campbell](https://github.com/GowerCampbell)
 - [Mateus Moura](https://github.com/mateusvcsmoura)
 - [Akhil Cherukuri](https://github.com/AkhilCh54)
 - [Semi Venturero](https://github.com/venturero)
@@ -548,7 +549,7 @@ Achal Agrawal
 - [LittleFish-Coder](https://github.com/LittleFish-Coder)
 - [Blaine Pavlock] (https://github.com/PavlockBlaine03)
 - [Ashish Jha](https://github.com/AshishJha30)
-- [Praneetha](https://github.com/PorumamillaPraneetha) 
+- [Praneetha](https://github.com/PorumamillaPraneetha)
 - [Mariia Shmidt] (https://github.com/markshmidt)
 - [Atkin](https://github.com/atkin0)
 - [Aakash Choudhary](https://github.com/ifaakash) **First Open Source Contribution**
@@ -595,14 +596,14 @@ Achal Agrawal
 - [Athul Sabu](https://github.com/AthulSabu2002)
 - [leocampos81](https://github.com/leocampos81)
 - [Wilmar Florez](https://github.com/wilmarFlorez)
-- [jay](https://github.com/jaykos) 
+- [jay](https://github.com/jaykos)
 - [Akanksha](https://github.com/Akanksha9821)
 - [Helen Annie Mathew](https://github.com/HelenMathw)
 - [Hrishikesh](https://github.com/neo-0007)
 - [SanjiVinsmoke](https://github.com/yaCent100)
-Mubarak Qorane 
+Mubarak Qorane
 - [Rajesh Khandige](https://github.com/rajeshprabhuk)
-- [Oridak](https://github.com/Oridak771) the first of many more 
+- [Oridak](https://github.com/Oridak771) the first of many more
 - [Ayan Upadhaya](https://github.com/AyanUpadhaya)
 - [AshtavinayakPande](https://github.com/yuno-gen)
 - [Utkarsh Shrivastava](https://github.com/UTKARSHSHRIVASTAVA007)
@@ -700,7 +701,7 @@ abu sulaymaan
 - [Daniel Garcia](https://github.com/Daniel-W-Garcia)
 - Amruta
 - [Lia]
-- Betty 
+- Betty
 - Sibi Elwin
 Solomon
 - [Oscar](https://github.com/oscarmiguel1)
@@ -798,7 +799,7 @@ Mohamed Farah
 - [Asish Jena](https://github.com/Cadburyash/)
 - Laraib Ahmed Ansari
 -[Abdourrahmane Kabbaj]
-  [GalaxyM105] 
+  [GalaxyM105]
 -[Ashokkumar](https://github.com/Ashokkumar3006)
 - [Muhammed Nishad](https://github.com/mhdnishadc?tab=repositories)
 - [Xander]
@@ -823,7 +824,7 @@ Mohamed Farah
 - [Raaghav Raaj](https://github.com/raaghavraaj)
 - [Harshil-Solanki](https://github.com/26harshil)
 - [Sachin Kumar](https://github.com/sk2105)
-- [Vanessa Bakare](https://github.com/Vanessabakare) 
+- [Vanessa Bakare](https://github.com/Vanessabakare)
 - [Michael J] (https://github.com/michaeljjamero)
 - [Debpriyo-Ghosal] (https://github.com/DevDebpriyo)
 - [Levis-Nyagah] (https://github.com/umeskia-levi)
@@ -855,7 +856,7 @@ Mohamed Farah
  - [Samaha Munir](https://github.com/SamahaMunir)
  - [shruthi reddy](https://github.com/shruthireddy1213)
  - [Arunachalam T](https://github.com/lightsta1ker)
- - Vratik Zade (https://github.com/vizzscript) 
+ - Vratik Zade (https://github.com/vizzscript)
  - [Sheila Susan](https://github.com/SheilaSusan)
  -[Midhun P M](https://github.com/MidhunPM6)
  - [Sarah Caulfield](https://github.com/scaulfield7)
@@ -863,7 +864,7 @@ Mohamed Farah
  - [Daniel](https://github.com/dbcode1)
  - [Vivek] (https://github.com/v152kuma)
  - [James]
- - [Agrima] 
+ - [Agrima]
  - [Ben Gawith](https://github.com/bengawith)
  - [ponponnsan](https://github.com/ponponnsan)
  - [Martín Ocampo](https://github.com/PzykoEich)
@@ -878,7 +879,7 @@ Mohamed Farah
 -[DexterWard](https://github.com/DexterWard)
 -[joao-299](https://github.com/Joao-299)
 - [Stephon Horton](https://github.com/StephonRomeroHorton) WE DID IT!!!
-- [Justicide381](https://gothub.com/justicide381) 
+- [Justicide381](https://gothub.com/justicide381)
 - [Shivam](https://github.com/brainDensed)
 - [rosenkr](https://github.com/rosenkr)
 -[Vaishnavi][https://github.com/lekkalaVaishnavi955/]
@@ -911,7 +912,7 @@ Mohamed Farah
  - [Kovi_The_Handsome] (https://github.com/KoviSingh)
  -[KobeVLM](https://github.com/KobeVLM)
  -[KobyBuchanan](https://github.com/KobyBuchanan)
--[quiquemonroy](https://github.com/quiquemonroy) Thanks! 
+-[quiquemonroy](https://github.com/quiquemonroy) Thanks!
 - [sfreagin](https://github.com/sfreagin)
  - [VivekDahiya](https://github.com/VivekDahiya06)
  - [Saikatur Rahman Kaium](https://github.com/S-rahmanKaium)
@@ -945,7 +946,7 @@ Mohamed Farah
  - [IamJayPrakash](https://github.com/IamJayPrakash)
  - [Lawan Mai](https://github.com/zlKxrsan)
  - Wex47
- 
+
 - [Khang Pham](https://github.com/Khang080704) Hi, this is my first contribution to an open source
 
 - [Jony Kapash](https://github.com/JonyKapash) **Hello Everyone! Happy To Start My Open Source Journey!🎉👨‍💻**
@@ -968,7 +969,7 @@ Mohamed Farah
  - [Abdulrhman Ansary](https://github.com/AbdulrhmanAnsary)
  - [Barta Zsombor](https://github.com/l4ttic3zs)
  - [Ayush Dwibedy](https://github.com/<your-username>)
- - [Ren Narciso](https://github.com/AbsoluteRivers) 
+ - [Ren Narciso](https://github.com/AbsoluteRivers)
  - [Juan Pablo Rovayo Delgado](https://github.com/Pablitord)
  - [Arturo Silva](https://github.com/rtr-slv)
  - [Akshay Mahto](https://github.com/akshaymahto)
@@ -1001,11 +1002,11 @@ Mohamed Farah
  - [Aryan Bhatiya](https://github.com/aryan-bhatiya)
   - [Durga Prasad](https://github.com/prasad-bigdp)
   - [Saba Siddique](https://github.com/sabasiddique1)
--[Lakshay](https://github.com/lakshay-lg) 
+-[Lakshay](https://github.com/lakshay-lg)
 - [Sury Delgado](https://github.com/surydelgado)
   [charudutt pachori] (https://github.com/charudutt358)
  - [Mateusz Sopyla](https://github.com/Sakii470)
- - [Ifeoluwa Adebisi](https://github.com/SEIfeoluwa) 
+ - [Ifeoluwa Adebisi](https://github.com/SEIfeoluwa)
   - [Arturo Silva](https://github.com/rtr-slv)
  - [Guidosti] (https://github.com/guidosti)
  - Shintaro Kikuta
@@ -1013,7 +1014,7 @@ Mohamed Farah
  add-Mariaje
  - [Mariaje] (https://github.com/Mariaje)
    Frizja
- - [Rakshanaa](https://github.com/Rakshanaa2026) 
+ - [Rakshanaa](https://github.com/Rakshanaa2026)
 - [Lakshmi Prasanna K](https://github.com/lakshmiprasannak0203)
  - Aaditya Chauhan (https://github.com/Aadityachauhan463)
  -[Lonedev](https://github.com/ishwarthecodddr)
@@ -1045,7 +1046,7 @@ Mohamed Farah
  - [Akshaya R] (https://github.com/akshaya-rrn)
  - [Nikhil Kumar](https://github.com/Nick1200000)
  - [Musteba Erkan GUNAY](https://github.com/megunay)
- -[pragnyan ramtha](https://github.com/pragnyanramtha) 
+ -[pragnyan ramtha](https://github.com/pragnyanramtha)
  - [Umesh Bhatt](https://github.com/me-hem)
  - [Ajinkya Nikam](https://github.com/Jinkz04)
  - [Gabriela Hernandez](https://github.com/candytale55)
@@ -1192,7 +1193,7 @@ Anshi
 -[Pranjal kusnake]
 - [Bryan Joy] (https://github.com/BlitzelR)
 - [Balaji Jayakumar](https://github.com/Balaji93bobby)
- -[George Tannous](https://github.com/GeorgeTannous98) 
+ -[George Tannous](https://github.com/GeorgeTannous98)
  -[Deepak Sharma](https://github.com/DeepakSharma46)
  - [regiiik]
   sowmya gandhamaneni
@@ -1291,7 +1292,7 @@ Anshi
 - [Shiva Kumar Tirupathi](https://github.com/wings-aka-shiva)
 - [Abdul Hafeez](https://github.com/abdul-hafeez12)
 - [myhifi](https://github.com/myhifi)
-- [Eunice C Maduka](https://github.com/aimmiebug) 
+- [Eunice C Maduka](https://github.com/aimmiebug)
 -[Theo Zahn](https://github.com/zahntheo)
 -[Pedroka2000](https://github.com/Pedroka2000)
 -[Saneesh](https://github.com/2300031420)
@@ -1321,7 +1322,7 @@ Anshi
 - [Vannyou TANG 🇰🇭](https://github.com/TVYDev)
 - [zedi-nccu](https://github.com/zedi-nccu)
 - [shubham](https://github.com/sidharthkshubham)
-- [devmigmig](https://github.com/devmigmig) 
+- [devmigmig](https://github.com/devmigmig)
 - [Billy Whizz](https://github.com/leithdm)
 - [praveen hari krishna](https://github.com/phk16)
 - [Blondel Seumo](https://github.com/blondelseumo)
@@ -2314,7 +2315,7 @@ Matthew Burgos
 - [Sankalp Yerigeri](https://github.com/SankalpYerigeri)
 - [Giuseppe Di Sanza](https://github.com/peppe0709)
 - [Peleg Ben Barak](https://github.com/peleg-bb)
-- [Neha Kumari](https://github.com/Neha-Kumarii-123) - Excited to make my first open-source contribution! 
+- [Neha Kumari](https://github.com/Neha-Kumarii-123) - Excited to make my first open-source contribution!
 - [Andy Ruz](https://github.com/Anghy73) - First contribution on GitHub 05/07/2025
 - [idekwid](https://github.com/idekwid)
 - [AjiHsu](https://github.com/AjiHsu)
@@ -2763,7 +2764,7 @@ Jyothish
 - [damsoon](https://github.com/damhyeong)
 - [Mounish Nanu](https://github.com/mounish123)
 - James Harpe
-- [KingKongNi](https://github.com/KingKongNi) 
+- [KingKongNi](https://github.com/KingKongNi)
 - [Juan Sarmiento](https://github.com/JuanEnriqueSF)
 - [Fady Zaky](https://github.com/0ddAuto00)
 - [VortexEdge](https://github.com/VortexEdge69)
@@ -3719,7 +3720,7 @@ Jyothish
 - [Wlwool](https://github.com/Wlwool)
 - [Nick-Lemy K.](https://github.com/Nick-Lemy)
 - [王羿博](https://github.com/Starry663)
-- [CryptoLove88](https://github.com/CryptoLove88)  
+- [CryptoLove88](https://github.com/CryptoLove88)
 - [Pravallika Panyam](https://github.com/panyampravallika)
 - [Ben C (TheSilverBulet)](https://github.com/TheSilverBulet)
 -[Biokes](https://github.com/Biokes)
@@ -3770,7 +3771,7 @@ Jyothish
 - Antoine
 - [John](https://github.com/JosParker)
 -[Abdulahi Fantaw](https://github.com/abdelishha)
-- [Anamta Ali](https://github.com/Anamta2) 
+- [Anamta Ali](https://github.com/Anamta2)
 -[Shivam Saurabh](https://github.com/rebeljustice13)
 -[Prakash Kumar](https://github.com/Prakash1185)
 - [Justin Holsinger](https://github.com/JHolsy)
@@ -3834,7 +3835,7 @@ Jyothish
 - [Magd74NA](https://github.com/Magd74NA)
 - [Quia](https://github.com/Quia2325)
 - [yosakax](https://github.com/yosakax)
-- oku3ma🥰 
+- oku3ma🥰
 - [Sien](https://github.com/SimonLGo)
 - [Sanyam Phartyal](https://github.com/Sanyam2511)
 - [Hamna Liaquat](https://github.com/humnaliaquat)
@@ -3883,7 +3884,7 @@ Jyothish
 - [Kaushal Kumbagowdana](https://github.com/kaushaltheeG)
 - [Kylash M R]
 - [white devil] - (https://github.com/prasad-bigdp)
-- [affengold] 
+- [affengold]
 - [Yutaro] - (https://github.com/Yutaro-orange)
 - [Anton Avdeev] (https://github.com/Extend777)
 - [Dmytro Petruniv] (https://github.com/dmyrkoo)
@@ -3941,8 +3942,8 @@ Jyothish
 - [Kaustubh Daruri](https://github.com/Kaustubh152003)
 - [Abdul Hannan Khan](https://github.com/Hannankhan203)
 - [José Luis](https://github.com/joseluismaxp)
-- [Thainara Oliveira](https://github.com/thaisdo) 
-- [Andy Le](https://github.com/ale0k) 
+- [Thainara Oliveira](https://github.com/thaisdo)
+- [Andy Le](https://github.com/ale0k)
 - [Liyon](https://github.com/leontoys)
 - [Lumirelle](https://github.com/Lumirelle)
 - [Anas Badru Salam](https://github.com/anasbadrusalam)
@@ -3957,12 +3958,12 @@ Jyothish
 - [Joe 05](https://github.com/JoelMbuyi05)
 - [Bristy Rosemary Pereira](https://github.com/Bristy1210)
 - [Angshuman Kishore Mahato](https://github.com/angshumankishore)
-- [Enzo Marsola](https://github.com/MarsoL4) 
+- [Enzo Marsola](https://github.com/MarsoL4)
 - [Junda Yin](https://github.com/Deiahri)
-- [Dev K] (https://github.com/devtcu) Wonderful little contribution 
+- [Dev K] (https://github.com/devtcu) Wonderful little contribution
 - [Mert Temiz](https://github.com/merttemiz)
 - [Michael Gan](https://github.com/WenxiGan)
-- [Ye Yingying](https://github.com/yiiingye) 
+- [Ye Yingying](https://github.com/yiiingye)
 - [NarutoPotter](https://github.com/NarutoPotter19)
 - [Yingying Ye](https://github.com/yiiingye)
 - [Eray Öztürk](https://github.com/diffstorm)
@@ -4060,8 +4061,8 @@ Jyothish
 - [Himani Desai] (https://github.com/HimaniDesai)
 - [Andrii Buha](https://github.com/Asbuga)
 - Juanita Gloriann Bakara
-- Yash Mishra  
-- Yikuanzz 
+- Yash Mishra
+- Yikuanzz
 - [selysse] (https://github.com/selysse)
 - [Leticia Campos](https://github.com/leticiacamposs2)
 - [Gustavo Freitas](https://github.com/freitasgustavos)
@@ -4100,9 +4101,9 @@ Jyothish
 - [daiki fujimoto](https://github.com/dai-fuji)
 - [Shijie Gan](https://github.com/sgan0420)
 - [Juan Araujo](https://github.com/jufearcas)
-- [Paulina Vz](https://github.com/Pvzf) 
+- [Paulina Vz](https://github.com/Pvzf)
 - [add-elaineibanez](https://github.com/elaineibanez)
-- [Joshua Uduehi](https://github.com/jUdu97) 
+- [Joshua Uduehi](https://github.com/jUdu97)
 - [Enoch Owoade](https://github.com/Enochteo)
 - [Sergio Ambrosio](https://github.com/sambrosiomartin)
 - [Klausk0](https://github.com/Klausk0)
@@ -4162,8 +4163,8 @@ Jyothish
 - [Aziz LAKHDHAR](https://github.com/AzizLAKHDHAR)
 - [Keyz](https://github.com/keyzeuh)
 - Jefferson Eduardo Santos Lima
-- [Oziri](https://github.com/oziriemeka) 
-- [Nitesh] (https://github.com/NiteshGowda2802) first contribution 
+- [Oziri](https://github.com/oziriemeka)
+- [Nitesh] (https://github.com/NiteshGowda2802) first contribution
 - Olá! Eu sou o Luiz Felipe (https://github.com/LuizFelipeLP) do Brasil!
 - [Horizon7006](https://github.com/horizon7006)
 - [faizdevx](https://github.com/faizdevx)
@@ -4297,7 +4298,7 @@ Jyothish
 -[shubham](https://github.com/RoyShubham07)
 -[Darshan-M](https://github.com/darshanm17)
 - [nutipa0](https://github.com/nutipa0)  (I like Big Chonk btw :>
--[Wency](https://github.com/WencySuo) 
+-[Wency](https://github.com/WencySuo)
 - [Manisha Godara](https://github.com/ManishaGodara-gif)
 -[Stanislav Polyakov](https://github.com/j3n1xnoname)
 -[saswata pattanaik] (https://github.com/Saswata-Pattanaik)
@@ -4347,7 +4348,7 @@ Jyothish
 - [Sabat Pierre](https://github.com/Tchouang)
 - [Hardik Agnihotri](https://github.com/hardik-agnihotri)
 [Sanika Thorat](https://github.com/Sanika394)
-- [Mason McDaniel](https://github.com/MickPoletti) **Here's to many more!** 
+- [Mason McDaniel](https://github.com/MickPoletti) **Here's to many more!**
 - [Samridhi Prakash](https://github.com/Samridhi-2007)
 - [Yue Sun]
 - [Ali Saad](https://github.com/AliSaa78)
@@ -4393,7 +4394,7 @@ Jyothish
 - [Aisha AQ] (https://github.com/AishaAQ)
 - [Arvind Paraliya] (https://github.com/arvindparaliya)
 - Hi,I'm [Gilbert Wang], Let's grow into towering trees together! (https://github.com/OGAS-45)
-[Benedicta MD] (https://github.com/benedictamd) 
+[Benedicta MD] (https://github.com/benedictamd)
 [Ryleigh] (https://github.com/Ryleigh-alt/)
 - [Swekit] (https://github.com/swekizer)
 [Manson](http://github.com/MansonBruv)
@@ -4412,8 +4413,8 @@ Hi i am Utsav Goyal
 [Roshan Sahu](https://github.com/notGifoyle)
 - [hahahahaha66](https://github.com/hahahahaha66) A completely new endeavor
 - [PraveenX812](https://github.com/PraveenX812)
--[Raghav Jha](https://github.com/Raghavjha60570) A complete Begginer 
-- [Nitin](https://github.com/nitin020997) 
+-[Raghav Jha](https://github.com/Raghavjha60570) A complete Begginer
+- [Nitin](https://github.com/nitin020997)
 - [Yurikon](https://github.com/Yuri-Kon) I'm willing to do it.
 - [Ollieistic](https://github.com/Ollieistic) Ready to dive into the open-source world.
 - [Raul Gabriel](https://github.com/RaulGabriel)
@@ -4458,9 +4459,9 @@ Hi i am Utsav Goyal
 - [Diksha Rani](https://github.com/diksha-0420)
 - [Suresh Jagannadham](https://github.com/sureshjagannadham)
 - [Brandon Song] (https://github.com/defkorean)
-- [Mayuri Khandelwal] (https://github.com/khandelwalmayuri) Thankyou for creating this repository, Code is like humor. When you have to explain it, it’s bad and that's why every project has a readme 
+- [Mayuri Khandelwal] (https://github.com/khandelwalmayuri) Thankyou for creating this repository, Code is like humor. When you have to explain it, it’s bad and that's why every project has a readme
 - [Amit Kumar Deo](https://github.com/22AmitDeo)
-- [Lakshit Kumawat](https://github.com/Lakshit1111) It's just get started. 
+- [Lakshit Kumawat](https://github.com/Lakshit1111) It's just get started.
 - [Vaibhav](https://github.com/vaibhavsanap112)
 - [Pedro Vitorino](https://github.com/pedrovitorino07) First Pull Request, lets go boys!
 - [Bartosz Ciulkin](https://github.com/bciulkin) Greetings
@@ -4504,7 +4505,7 @@ John Morgan Hello!
 - [deehyeon](https://github.com/deehyeon) - Hello!!
 - Akmal
 - [olatzgoti](https://github.com/olatzgoti) - Hi all, hello from Basque Country :-)
-- [kavyaMajeti](https://github.com/KavyadeviMajeti) -Hi all,starting my contribution journey 
+- [kavyaMajeti](https://github.com/KavyadeviMajeti) -Hi all,starting my contribution journey
 - [Janvi Chaturvedi](https://github.com/JANVI-CHATURVEDI) First step into open source ✨
 - [Animesh Chittora] (https://github.com/animeshchittora) - Hello Open Source!!!
 - [Eduardo](https://github.com/Edd17369)
@@ -4554,7 +4555,7 @@ John Morgan Hello!
 - [flux]() - hi!
 - [Ashmit GaRG] (https://github.com/Ashmitgarg18/) - Hi Everyone! I want to get into OSS.
 - [Jeremiah] (https://github.com/jeremiahlay) - hi
-- [Aishwarya] (https://github.com/Aishwarya011k)- it is my first open source contribution i would love to continue this pace for the rest of my career 
+- [Aishwarya] (https://github.com/Aishwarya011k)- it is my first open source contribution i would love to continue this pace for the rest of my career
 - [Shubh Bindal](https://github.com/shbd845) - HI
 - [AvatarG](https://github.com/AvatarG)
 - [MindFuckJS](https://github.com/MindFuckJS) - Yeah ik you hate JavaScript
@@ -4591,7 +4592,7 @@ Artem Ryabtcev
 - [Jeremy](https://github.com/jefische) - Hi all, this is my first open source contribution.
 - [aniruth] (https://github.com/AniruthKarthik) - Yooo Yoo
 - [lsy1973] (https://github.com/lsy1973) -  🚀 🚀 🚀!!!
-- [kpCoder](https://github.com/kpCoder2801) - Hi there, I'm a software developer from Vietnam. This is my first open-source contribution. 🚀   
+- [kpCoder](https://github.com/kpCoder2801) - Hi there, I'm a software developer from Vietnam. This is my first open-source contribution. 🚀
 - [Duncan Huisamen](https://github.com/DHuisamen)
 - [Mohammad Chisty Madeena Sharieff](https://github.com/MdSharieff-081) - yo!
 - [Basma BT](https://github.com/Boutaib-Basma)
@@ -4608,8 +4609,8 @@ Jin
 - [Jueda Sherifi] (https://github.com/juedash)
 -[Naveena](https://github.com/Nav99-git)- It's never too late to begin !!
 - [Zack Bou](https://github.com/brainchemist)- Trust no man, Fear no b!tch !
-- [Makhdum Hossain](https://github.com/Makhdum412)- We are not behind. We are where we need to be!! 
-- [Jada Thibodeaux](https://github.com/jadathib) - Hi there, I'm Jada 
+- [Makhdum Hossain](https://github.com/Makhdum412)- We are not behind. We are where we need to be!!
+- [Jada Thibodeaux](https://github.com/jadathib) - Hi there, I'm Jada
 - [Siva Murthy](https://github.com/sivamurthy30)--goof
 - [nyaru177](https://github.com/nyaru177) - NiHao sekai!!
 - [lichangz](https://github.com/lichangz-git) - hello

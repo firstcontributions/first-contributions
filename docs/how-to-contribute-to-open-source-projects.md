@@ -16,6 +16,8 @@ Before diving into the "how," let’s explore the "why." Contributing to open so
 
 ## How to Get Started with Open Source Contributions
 
+![image for better understanding](https://i.ibb.co/YF9J55wr/Untitled-2024-12-07-1645.png)
+
 ### 1. Choose the Right Project
 
 Finding the right project is crucial. Look for projects that align with your interests, skill level, and goals. Here’s how to find them:
@@ -69,4 +71,3 @@ Give Back: Once you’re comfortable, help others by reviewing PRs, answering qu
 ## Conclusion
 
 Contributing to open source is a journey that offers immense personal and professional growth. By starting small, staying consistent, and engaging with the community, you can make meaningful contributions while honing your skills. Remember, open source thrives on collaboration, and every contribution—no matter how small—helps build a better digital world. Ready to take the plunge? Find a project that excites you, make your first contribution, and join the global open source movement today!
-
