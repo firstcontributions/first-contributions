@@ -5,6 +5,7 @@
 - [Talha](https://github.com/talha-0) - Hello GitHub! My first open source contribution.
 - [Almish Hoda](https://github.com/almishhoda04) - Hi! This is Almish and this is my attempt to enter open source contributions!!
 - [Mohammed Omair Mohiuddin](https://github.com/Mohammed-Omair) - Hey everyone!, This is my very first open-source contribution - 5th July 2025
+- [Onome Owah](https://github.com/Onome-Owah)- Hi contributors, Thanks for this, it's a good idea especially for people new to open source. Thanks, time to do more!!!! 6th July 2025
 - [tempo] (https://github.com/Saivamshi-git) - Hi
 - [Shushmitha AVR](https://https://github.com/shushmitha-29) - Hey, everyone this is my first ever GitHub contribution to open source - 6th July.
 - [F10T3D] (https:/github.com/F104T3D) - First contribution to open source! 6th july
