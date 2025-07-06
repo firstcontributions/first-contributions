@@ -43,6 +43,7 @@ vanakkam da Mapala...
 -[John] (https://github.com/johnelhachem)
 -[Adameji Israel] (https://github.com/ireoluwa12345)
 -[Anuj Kulkarni](https://github.com/steam-bell-92) - Hye guys, this is my first contribution to an unknown repo / source (date - 05-0702025 in form {dd/mm/yyyy})
+-[Abhinanda N Shetty](https://github.com/Abhinanda-Shetty)-First time contribution to open source-07/07/2025
 -[Amulya]- (https://github.com/amulyaa-19) Hello!
 -[Shivani] (https://github.com/Shivtanu) - Hey guys, first contribution to open source dated - 02/07/2025
 -[Shivam] (https://github.com/Shivam040) - Hello! 
