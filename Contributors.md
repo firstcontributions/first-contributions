@@ -4623,11 +4623,11 @@ Jin
 - [RyuzuTakalov](https://github.com/RyuzuTakalov) - There so many of us!
 - [Pritiranjan Patra](https://github.com/PritiranjanPatra2) - Never Give Up
 - [Jueda Sherifi] (https://github.com/juedash)
--[Naveena](https://github.com/Nav99-git)- It's never too late to begin !!
-- [Zack Bou](https://github.com/brainchemist)- Trust no man, Fear no b!tch !
-- [Makhdum Hossain](https://github.com/Makhdum412)- We are not behind. We are where we need to be!! 
+- [Naveena](https://github.com/Nav99-git) - It's never too late to begin !!
+- [Zack Bou](https://github.com/brainchemist) - Trust no man, Fear no b!tch !
+- [Makhdum Hossain](https://github.com/Makhdum412) - We are not behind. We are where we need to be!! 
 - [Jada Thibodeaux](https://github.com/jadathib) - Hi there, I'm Jada 
-- [Siva Murthy](https://github.com/sivamurthy30)--goof
+- [Siva Murthy](https://github.com/sivamurthy30) --goof
 - [nyaru177](https://github.com/nyaru177) - NiHao sekai!!
 - [lichangz](https://github.com/lichangz-git) - hello
 - [mus](https://github.com/Mu5-0099) - Second time, maybe success
@@ -4635,9 +4635,9 @@ Jin
 - [Rezy](https://github.com/Rezy-19) - helloo
 - [Thulile Masuku](https://github.com/ThulileMasuku)
 - [Sai Mohaneesh](https://github.com/23241a6749)
-- [Kodenith](https://github.com/Kodenith) - beep boop、
-asd
+- [Kodenith](https://github.com/Kodenith) - beep boop、asd
 - [Fajar Cheema](https://github.com/fajarCheema) - Hi there, I'm Fajar
+- [zx-nidhogg](https://github.com/zx-nidhogg)
 - [Alex Replyansky](https://github.com/alegofrenicht) - Пристегнитесь, мы взлетаем!!!
 - [Vratej Dwivedi](https://github.com/VRATEJDWIVEDI) - ANYONE WHO READS THIS: नमस्ते (NAMASTE)
 - [Mukul bassi](https://github.com/mukul007d-cole) -LET'S CONNECT AND SEE EACH OTHERS WORK!
