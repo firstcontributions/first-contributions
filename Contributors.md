@@ -321,6 +321,7 @@ Achal Agrawal
 - [Likhitha Ramachandrapurapu] My first open-source contribution
 - It's Me
 - [Ewogijk](https://github.com/Ewogijk) Hello there!
+- James Mwihaki
 - [Sathvik Q.](https://github.com/SathvikQ)
 - [Minh](https://github.com/remiminh)
 - [Maheswara](https://github.com/dctn/) This is my first open-source contribution
