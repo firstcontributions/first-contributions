@@ -1,4 +1,27 @@
 # Contributors
+## About- 
+✅ **First Contribution**: 
+  - PR #145: "Update alb-controller-add-on.md" 
+  - Submitted May 21, 2025 to [iam-veeramalla/aws-devops-zero-to-hero](https://github.com/iam-veeramalla/aws-devops-zero-to-hero)
+
+  <br>
+✅ ** Second Contribution**: 
+## My Journey
+As someone at the beginning of their open source journey (this being my second contribution), I've focused on:
+1. Understanding the project architecture
+2. Following contribution guidelines meticulously
+3. Maintaining clean, testable code
+4. Seeking feedback to improve
+
+## My Open Source Journey
+- Compliance with project coding standards
+- Clear commit messages
+- Proper documentation updates
+- Backward compatibility (where applicable)
+  ## GitHub Profile
+You can view my other work and connect with me here:  
+-[Pradeep Kadam][https://github.com/saineox](https://github.com/saineox)
+I'm open to any feedback and willing to make adjustments. Thank you for the opportunity to contribute!
 Hello guys, My name is Milad Kheradmand.
 vanakkam da Mapala...
 -[Sourav Sahoo] (https://github.com/SouravSahoo-D) - Hellow all, this my first ever GIT open source contribution.
