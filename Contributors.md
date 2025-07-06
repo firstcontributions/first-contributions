@@ -5,6 +5,7 @@
 - [Talha](https://github.com/talha-0) - Hello GitHub! My first open source contribution.
 - [Almish Hoda](https://github.com/almishhoda04) - Hi! This is Almish and this is my attempt to enter open source contributions!!
 - [Mohammed Omair Mohiuddin](https://github.com/Mohammed-Omair) - Hey everyone!, This is my very first open-source contribution - 5th July 2025
+- [Onome Owah](https://github.com/Onome-Owah)- Hi contributors, Thanks for this, it's a good idea especially for people new to open source. Thanks, time to do more!!!! 6th July 2025
 - [tempo] (https://github.com/Saivamshi-git) - Hi
 - [Shushmitha AVR](https://https://github.com/shushmitha-29) - Hey, everyone this is my first ever GitHub contribution to open source - 6th July.
 - [F10T3D] (https:/github.com/F104T3D) - First contribution to open source! 6th july
@@ -430,6 +431,7 @@ Achal Agrawal
 - [Ragib Gulzar](https://github.com/ragibgulzar) 
 - [zeyno_trying](https://github.com/zeyno-trying)
 - [Raghu Vamsi](https://github.com/raghuvamsi2328)
+- [Yasmin Serag] 
 - [Abuji]
 - [chonstar]
 - [Cas]
@@ -1381,6 +1383,7 @@ e-Jo
 - [Gabriel Lima](https://github.com/gabriel-lima258)
 - [Pavithra Nelluri](https://github.com/PavithraNelluri)
 - [Samuel Calixto](https://github.com/samuelcalixtodev)
+- [Samuel Oommen](https://github.com/fullstacksam23) hello world and happy coding :>
 - [Kaori Athaya Hazza] (https://github.com/Hazko-stack)
 - [Heeyoun Lim](https://github.com/ready-oun)
 - [Saksham Mishra](https://github.com/Saksham-Mishra-coder)
@@ -4631,3 +4634,6 @@ Jin
 - [Kodenith](https://github.com/Kodenith) - beep boop
 - [Fajar Cheema](https://github.com/fajarCheema) - Hi there, I'm Fajar
 - [Rupesh Sahu](https://github.com/Rynox1612)- Newbie Rupesh
+- [Kodenith](https://github.com/Kodenith) - beep boop、
+asd
+- [Fajar Cheema](https://github.com/fajarCheema) - Hi there, I'm Fajar
