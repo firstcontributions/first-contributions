@@ -1,5 +1,6 @@
 
 # Contributors
+- [Mohit Suthar](https://github.com/MohitSutharOfficial) - Hello, World! This is my first contribution to open source on 06/07/2025!
 - [Talha](https://github.com/talha-0) - Hello GitHub! My first open source contribution.
 - [Almish Hoda](https://github.com/almishhoda04) - Hi! This is Almish and this is my attempt to enter open source contributions!!
 - [Mohammed Omair Mohiuddin](https://github.com/Mohammed-Omair) - Hey everyone!, This is my very first open-source contribution - 5th July 2025
