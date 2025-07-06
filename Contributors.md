@@ -4622,6 +4622,7 @@ Jin
 - [lichangz](https://github.com/lichangz-git) - hello
 - [mus](https://github.com/Mu5-0099) - Second time, maybe success
 - [Gokularaman Chandran](https://github.com/gokularaman-c) - Every great things starts from something very small
+- [Rezy](https://github.com/Rezy-19) - helloo
 - [Thulile Masuku](https://github.com/ThulileMasuku)
 - [Sai Mohaneesh](https://github.com/23241a6749)
 - [Kodenith](https://github.com/Kodenith) - beep boop
