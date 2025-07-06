@@ -19,7 +19,6 @@
 -[Clyde-Chen-JJ] (https://github.com/Clyde-Chen-JJ) - Officially entering the community 6/7/2025
 -[ArshiaAA9] (https://github.com/ArshiaAA9/first-contributions) - if you are reading this, i hope you have a great carrier ahead of you. 3/7/2025
 -[Mayank1105] (https://github.com/mayankagg1105) - Hello World . 6/7/2025
--[Yangcancan0211] (https://github.com/Yangcancan0211) - Hello everyone！ 6/7/2025
 - [Anaymehra] (https://github.com/anaymehra/first-contributions) - I will be doing better, JSR 4/7/2025
 -[Vishal] (https://github.com/thevishaal26) Hello , this is my first contribution to the open soure - 03/07/2025
 -[Parv] (https://github.com/Parv1404) Hello, this is my first step in the open source world - 05/07/2025
@@ -241,7 +240,6 @@ Achal Agrawal
 - [Danyal Ansari](https://github.com/DanyalAnsari) 18-06-2025::21:02 IST.
 - [Aleena Ali Azeem](https://github.com/aleenaazeem) Heya, Welcome to first of many contributions. Good luck :D.
 - [Dadir Awad](https://github.com/dadirawad) Hello World, this is my first time contributing to open source! 
-- [Felipe Sanz](https://github.com/Multydelivery) Hola Everyone!!!
 - [Mathues Justin Hasda](https://github.com/hasdajustin) Hello World! This is my first contribution to open source!
 - [Mahantesh Gurav](https://github.com/mahanteshbg) Hello Everyone! My first open source contribution.
 - [Amritanshu Goutam](https://github.com/bhutuklearning) Hii Everyone.
