@@ -6,7 +6,7 @@
 - [tempo] (https://github.com/Saivamshi-git) - Hi
 - [F10T3D] (https:/github.com/F104T3D) - First contribution to open source! 6th july
 - [jw-MY] (https://github.com/Yeoh-JinWei) - Hello World! 你好世界！
-- [whiteDevil] (https://github.com/prasad-bigdp) - I did 05/07/2025
+- [whiteDevil] sujay (https://github.com/prasad-bigdp) - I did 05/07/2025
 - [Kiran](https://github.com/Kiran-Qlik) - My First Git commit 07/06/2025
 -[BChaput] (https://github.com/BrianChaput) -Howdy World! 7/3/2025
 -[OsirisNexus] (https://github.com/osirisNexus) - First Open Src Contribution on the 4th of July!!! 07/04/2025
