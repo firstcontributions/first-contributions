@@ -556,6 +556,7 @@ Achal Agrawal
 - [Aakash Choudhary](https://github.com/ifaakash) **First Open Source Contribution**
 - [Julia Coyner](https://github.com/jucoyner1)
 - [Alex Taylor](https://github.com/Alex-Devonte)
+- [Ananya](https://github.com/ananya97br)
 - [Aryan Pal] (https://github.com/aryanpal-7)
 - [Bhuvaneshwar Venkatraman] (https://github.com/bhuvnsh)
 - [Peter Schenk](https://github.com/EinSatzMitX)
