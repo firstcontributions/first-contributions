@@ -1383,6 +1383,7 @@ e-Jo
 - [Gabriel Lima](https://github.com/gabriel-lima258)
 - [Pavithra Nelluri](https://github.com/PavithraNelluri)
 - [Samuel Calixto](https://github.com/samuelcalixtodev)
+- [Samuel Oommen](https://github.com/fullstacksam23) hello world and happy coding :>
 - [Kaori Athaya Hazza] (https://github.com/Hazko-stack)
 - [Heeyoun Lim](https://github.com/ready-oun)
 - [Saksham Mishra](https://github.com/Saksham-Mishra-coder)
