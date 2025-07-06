@@ -234,6 +234,27 @@ If you'd like more practice, checkout [code contributions](https://github.com/ro
 
 Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
 
+# 🧩 Contribution FAQ
+
+A collection of common questions new contributors often ask — and their answers!
+
+---
+
+### ❓ How do I resolve merge conflicts?
+
+Merge conflicts happen when your changes conflict with changes in the main branch.
+
+**Steps to fix:**
+
+1. Run `git pull origin main` (or the default branch)
+2. Git will show you files with conflicts
+3. Open the files and manually fix the conflict (look for `<<<<<<<`, `=======`, `>>>>>>>`)
+4. After fixing, run:
+   ```bash
+   git add .
+   git commit -m "Resolve merge conflict"
+   git push
+
 ### [Additional material](docs/additional-material/git_workflow_scenarios/additional-material.md)
 
 ## Tutorials Using Other Tools
