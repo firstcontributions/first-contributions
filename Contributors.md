@@ -1,5 +1,6 @@
 
 # Contributors
+
 - [Omotayo Emmanuel](https://github.com/ecodes-max) - Hey guys this is my first contribution to an opensource work on 7/6/2025
 - [Mohit Suthar](https://github.com/MohitSutharOfficial) - Hello, World! This is my first contribution to open source on 06/07/2025!
 - [Talha](https://github.com/talha-0) - Hello GitHub! My first open source contribution.
@@ -40,6 +41,7 @@ vanakkam da Mapala...
 -[Pietro Franca] (https://github.com/pietro-franca)
 -[Ziad Essam]  (https://github.com/Ziaad03)
 -[John] (https://github.com/johnelhachem)
+- Anshu Gupta
 -[Adameji Israel] (https://github.com/ireoluwa12345)
 -[Anuj Kulkarni](https://github.com/steam-bell-92) - Hye guys, this is my first contribution to an unknown repo / source (date - 05-0702025 in form {dd/mm/yyyy})
 -[Amulya]- (https://github.com/amulyaa-19) Hello!
