@@ -1,9 +1,11 @@
 
 # Contributors
+- [Omotayo Emmanuel](https://github.com/ecodes-max) - Hey guys this is my first contribution to an opensource work on 7/6/2025
 - [Mohit Suthar](https://github.com/MohitSutharOfficial) - Hello, World! This is my first contribution to open source on 06/07/2025!
 - [Talha](https://github.com/talha-0) - Hello GitHub! My first open source contribution.
 - [Almish Hoda](https://github.com/almishhoda04) - Hi! This is Almish and this is my attempt to enter open source contributions!!
 - [Mohammed Omair Mohiuddin](https://github.com/Mohammed-Omair) - Hey everyone!, This is my very first open-source contribution - 5th July 2025
+- [Onome Owah](https://github.com/Onome-Owah)- Hi contributors, Thanks for this, it's a good idea especially for people new to open source. Thanks, time to do more!!!! 6th July 2025
 - [tempo] (https://github.com/Saivamshi-git) - Hi
 - [Shushmitha AVR](https://https://github.com/shushmitha-29) - Hey, everyone this is my first ever GitHub contribution to open source - 6th July.
 - [F10T3D] (https:/github.com/F104T3D) - First contribution to open source! 6th july
@@ -429,6 +431,7 @@ Achal Agrawal
 - [Ragib Gulzar](https://github.com/ragibgulzar) 
 - [zeyno_trying](https://github.com/zeyno-trying)
 - [Raghu Vamsi](https://github.com/raghuvamsi2328)
+- [Yasmin Serag] 
 - [Abuji]
 - [chonstar]
 - [Cas]
@@ -1380,6 +1383,7 @@ e-Jo
 - [Gabriel Lima](https://github.com/gabriel-lima258)
 - [Pavithra Nelluri](https://github.com/PavithraNelluri)
 - [Samuel Calixto](https://github.com/samuelcalixtodev)
+- [Samuel Oommen](https://github.com/fullstacksam23) hello world and happy coding :>
 - [Kaori Athaya Hazza] (https://github.com/Hazko-stack)
 - [Heeyoun Lim](https://github.com/ready-oun)
 - [Saksham Mishra](https://github.com/Saksham-Mishra-coder)
@@ -2706,10 +2710,11 @@ Jyothish
 - [Adhish Goswami](https://github.com/Adhishg704)
 - [Zach Garza](https://github.com/ZachG1235)
 - [Mwofoh-Adriel](https://github.com/Mwofoh-Adriel)
-- [Priya](https://github.com/Priyamahesh24)
+- [Priya](https://github.com/Priyamahesh24
 - [Jeswin Thomas Mathew] (https://github.com/Rioichi03)
 - [Kyle](https://github.com/goodwinkyle94)
 - [Kjohnbaba](https://github.com/kjohnbaba)
+- [Devesh Chandra](https://github.com/deveshru2712)
 - [Cristian Diaz Vega](https://github.com/crisvegadiaz) **Hola a todos!** 🇦🇷👋 Let's make great contributions together!
 - [Eric-DaRosa](https://github.com/EricDar12)
 - [Eddgar Rojas](https://github.com/Eddgar0)
@@ -4615,16 +4620,18 @@ Jin
 - [RyuzuTakalov](https://github.com/RyuzuTakalov) - There so many of us!
 - [Pritiranjan Patra](https://github.com/PritiranjanPatra2) - Never Give Up
 - [Jueda Sherifi] (https://github.com/juedash)
--[Naveena](https://github.com/Nav99-git)- It's never too late to begin !!
-- [Zack Bou](https://github.com/brainchemist)- Trust no man, Fear no b!tch !
-- [Makhdum Hossain](https://github.com/Makhdum412)- We are not behind. We are where we need to be!! 
+- [Naveena](https://github.com/Nav99-git) - It's never too late to begin !!
+- [Zack Bou](https://github.com/brainchemist) - Trust no man, Fear no b!tch !
+- [Makhdum Hossain](https://github.com/Makhdum412) - We are not behind. We are where we need to be!! 
 - [Jada Thibodeaux](https://github.com/jadathib) - Hi there, I'm Jada 
-- [Siva Murthy](https://github.com/sivamurthy30)--goof
+- [Siva Murthy](https://github.com/sivamurthy30) --goof
 - [nyaru177](https://github.com/nyaru177) - NiHao sekai!!
 - [lichangz](https://github.com/lichangz-git) - hello
 - [mus](https://github.com/Mu5-0099) - Second time, maybe success
 - [Gokularaman Chandran](https://github.com/gokularaman-c) - Every great things starts from something very small
+- [Rezy](https://github.com/Rezy-19) - helloo
 - [Thulile Masuku](https://github.com/ThulileMasuku)
 - [Sai Mohaneesh](https://github.com/23241a6749)
 - [Kodenith](https://github.com/Kodenith) - beep boop
-- [Fajar Cheema](https://github.com/fajarCheema) - Hi there, I'm Fajar- [zx-nidhogg](https://github.com/zx-nidhogg)
+- [Fajar Cheema](https://github.com/fajarCheema) - Hi there, I'm Fajar
+- [zx-nidhogg](https://github.com/zx-nidhogg)
