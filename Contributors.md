@@ -2384,6 +2384,7 @@ Matthew Burgos
 - [Anusha Jamsandekar](https://github.com/anushaj79)
 - [RomaniukNatalia](https://github.com/RomaniukNatalia)
 - [Kelvin Yeboah](https://github.com/KelvCodes)
+- [Casper] (...)
 - [Sardorbek](https://github.com/Sardorbek-Kuvondikov)
 - [nickeem](https://github.com/Nickeem)
 - [Wendell Oliveira](https://github.com/wendelloliiver)
