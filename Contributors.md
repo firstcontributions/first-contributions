@@ -3677,6 +3677,7 @@ Jyothish
 - [Gourabananda Datta](https://github.com/gourabanandad)
 - [Sphurti Dixit](https://github.com/SphurtiD)
 - [Dagimawi Tamrat] (https://github.com/Dagimawi7)
+- [Alexandru Paraschiv](https://github.com/alex-p-git)
 - [Daniel Bessa](https://github.com/dwbessa)
 - [Modem Sai Deekshith](https://github.com/itzme-deekshith)
 - [Chetan Palde](https://github.com/chetanpalde)
