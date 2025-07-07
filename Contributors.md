@@ -262,6 +262,7 @@ Achal Agrawal
 - [Al Lizaso](https://github.com/alizaso97) Hello World! Excited to contribute to my first open source project :]
 - [Soham Padalikar](https://github.com/Soham204) Hello World
 - [Prabhneet Singh ](https://github.com/neet1313)Practicing to contribute for Open Source.
+- [RushabhSingh](https://github.com/R1shabhCodes)Open source contribution 
 - [IGBUDU CHIBUZOR](https://github.com/thechibuzor1) My first open source contribution!!
 - [Ilana de Beer](https://github.com/LlamaIlana) Hello, Welcome to first of many contributions.
 - [joset15](https://github.com/joset15) - My first open source contribution!
