@@ -4668,3 +4668,4 @@ asd
 - [mulingHT](https://github.com/mulingHT) - 小猫老弟 coke
 - [Rohit] - https://github.com/RohitKale1983
 - [Yash](https://github.com/Yashxp1) - Hello world!
+- [Ammar Hashmi](https://github.com/ammarhashmi113) - 🇵🇰 Hi from Pakistan, First open source contribution – 08/07/2025
