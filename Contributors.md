@@ -228,6 +228,7 @@ I'm doing some minor changes for practice.
 Achal Agrawal
 - [Julian Müller] (https://github.com/julianmllr) für fortnite
 - [Beatriz Gonçalves](https://github.com/beatrizvsgoncalves)
+- [Sanket Khambal](https://github.com/Sanket-Khambal) My first open source contribution!!! 
 - [Anurag Pandey](https://github.com/anurag99x) My first contribution to open source on 19/06/2025!
 - [Jenna Lee] (https://github.com/roasted-oolong)
 - [John Erol Tambal](https://github.com/Lore-d-J) HELLLOOOOOOOOOO this is my first contribution ^^
