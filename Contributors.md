@@ -101,6 +101,7 @@ vanakkam da Mapala...
 - [loleczekqdev](https://github.com/loleczekqdev)
 - [Nelson Muñoz](https://github.com/Ginto11) - Junior developer in .NET, Angular, and SQL, with experience creating REST APIs and implementing relational databases.
 - [Pedro Echavarria](https://github.com/pechavarria62) - Hello! I'm a mid level dev, i know Python|Javascript|Typescript|PHP and I'm learnig .Net and C#, this is awesome.
+- [Palak Sharma](https://github.com/Palak09sh) - Hello! This is my first contribution , nice to meet you everyone.
 - [Hafiz Azhari](https://github.com/mhafizazh) - my first contribution!
 - [Sudhir Yadav](https://github.com/sky-sudhir) - Everthing Counts.
 - [swaroop-phatak] (https://github.com/swaroop-phatak) - Heyy, this is my first contribution, nice to meet you all!
