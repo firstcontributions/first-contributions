@@ -16,7 +16,8 @@
 - [whiteDevil] (https://github.com/prasad-bigdp) - I did 05/07/2025
 - [Kiran](https://github.com/Kiran-Qlik) - My First Git commit 07/06/2025
 -[BChaput] (https://github.com/BrianChaput) -Howdy World! 7/3/2025
--[OsirisNexus] (https://github.com/osirisNexus) - First Open Src Contribution on the 4th of July!!! 07/04/2025
+-[OsirisNexus] (https://github.com/osirisNexus) - First Open Src Contribution on the 4th of July!!! 07/04/2025  
+-[thebinarycoder] (https://github.com/BhavanaNannuru) - Thanks for the repo! Learning to contribute!! 
 -[yrdaman] (https://github.com/yrdaman) - Hola Open src World !!! 04/07/2025
 -[KabitaTudu] (https://github.com/KabitaTudu) - My first-ever contribution
 -[Karan-312] (https://github.com/Karan-312) - just a test how to raise a PR . 
