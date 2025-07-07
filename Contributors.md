@@ -85,6 +85,7 @@ vanakkam da Mapala...
 -[Insaf](https://github.com/itsmefminsaf) - Remember my name. I am the one who is going to invent the quantum computer
 -[Sara](https://github.com/sara-1129)-This is my first open source contribution ,really excited for the amazing journey ahead.
 -[Krishna_Nagiri](https://github.com/krishna-nagiri)- This is my First Contribution,Feel Free to Checkout my Profile - 05/07/2025.
+- [dnas93](https://github.com/dnascimento93) - YO.
 -[Keerthika](https://github.com/KeerthikaKatheresan)-Ithu tha enoda first open source contribution .I am happyyyy.
 -[Harsha](https://github.com/HarshaTalatala)-This is my first open source contribution.
 -[Maya](https://github.com/UmayaJayasuriya)-This is my first open source contribution.
@@ -4548,7 +4549,6 @@ John Morgan Hello!
 - [Zhenbin An](https://github.com/ZanderAN07) - Hello Guys
 -[Viswanathan](https://github.com/viswanathan11) -Hello world starting my open source journey
 - [lackoxy](https://github.com/lackoxy) -Hi there, a traveler who want to start an open source journey!(❁´◡`❁)
-- [dnas93] (https://github.com/dnascimento93) - YO.
 - [Stevemichael](https://github.com/stevemichael15) - Hello, World!
 - [Taran Shetty](https://github.com/TaranShetty)
 - [ronaldrnd](https://github.com/ronaldrnd) - Hello from Madagascar!
