@@ -17,6 +17,7 @@
 -[BChaput] (https://github.com/BrianChaput) -Howdy World! 7/3/2025
 -[OsirisNexus] (https://github.com/osirisNexus) - First Open Src Contribution on the 4th of July!!! 07/04/2025
 -[yrdaman] (https://github.com/yrdaman) - Hola Open src World !!! 04/07/2025
+-[KabitaTudu] (https://github.com/KabitaTudu) - My first-ever contribution
 -[Karan-312] (https://github.com/Karan-312) - just a test how to raise a PR . 
 -[PraMaratha] (https://github.com/PraMaratha) - Hello, Everyone!
 -[Mirang Bhandari](https://github.com/Bloodwingv2) - That's One small Step for me, a giant leap for the open source community
