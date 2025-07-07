@@ -1,5 +1,7 @@
 
 # Contributors
+- [Craig Gray] (https://github.com/Craig-Scarn/) Hello from the vale South Africa 
+- This is Aryan's first contribution. Looking for more! [Discord](https://discordapp.com/users/r._.yann), [Github](https://github.com/aryanriyahi)
 - [Uttkarsh Malvia](https://github.com/Menma420) - People's dreams have NO end!!! 
 - [Mr Vi](https://github.com/mrvi0) - 🐈 Hello from Saint-Petersburg! Microservices architect and Python developer passionate about automation, bots, and web technologies. Building the future one service at a time! 🚀
 - [Omotayo Emmanuel](https://github.com/ecodes-max) - Hey guys this is my first contribution to an opensource work on 7/6/2025
@@ -24,6 +26,7 @@
 -[Karan-312] (https://github.com/Karan-312) - just a test how to raise a PR . 
 -[RykerWilder](https://github.com/RykerWilder) - Thanks to create a repo for my first contribution! 
 -[PraMaratha] (https://github.com/PraMaratha) - Hello, Everyone!
+- [AyelotanTee] (https://github.com/AyelotanTee) - My first contribution to open source on GitHub
 -[Mirang Bhandari](https://github.com/Bloodwingv2) - That's One small Step for me, a giant leap for the open source community
 -[Clyde-Chen-JJ] (https://github.com/Clyde-Chen-JJ) - Officially entering the community 6/7/2025
 -[ArshiaAA9] (https://github.com/ArshiaAA9/first-contributions) - if you are reading this, i hope you have a great carrier ahead of you. 3/7/2025
@@ -93,6 +96,7 @@ vanakkam da Mapala...
 -[AmjadHamoud](https://github.com/AmjadHamoud) - 18 year old , student started contributing to learn.
 - [Ritik-khandelwal] (https://github.com/Ritik-khandelwal) - Hey Hii Everyone !!! It's 28th June, 2025 Today. From today I have decided to do open source contributions. All The Best everyone for their future.
 - [johntoby] (https://github.com/johntoby) - Hii guys. Happy to contribute
+- [kunduarjun] (https://github.com/kunduarjun) - Happy to be making my first contribution to a forked repo! 
 - [Juanelios] (https://github.com/Juanelios) - Happy to start here :)
 -[s1ggelin] (https://github.com/s1ggelin) - Happy to contribute
 - [zhouparis] (https://github.com/zhouparis) - 25 years old, 6/26/25, start of my OSS contributions hopefully. Goodluck to all those that come after and a big Wow to all those before
@@ -100,6 +104,7 @@ vanakkam da Mapala...
 - [loleczekqdev](https://github.com/loleczekqdev)
 - [Nelson Muñoz](https://github.com/Ginto11) - Junior developer in .NET, Angular, and SQL, with experience creating REST APIs and implementing relational databases.
 - [Pedro Echavarria](https://github.com/pechavarria62) - Hello! I'm a mid level dev, i know Python|Javascript|Typescript|PHP and I'm learnig .Net and C#, this is awesome.
+- [Palak Sharma](https://github.com/Palak09sh) - Hello! This is my first contribution , nice to meet you everyone.
 - [Hafiz Azhari](https://github.com/mhafizazh) - my first contribution!
 - [Sudhir Yadav](https://github.com/sky-sudhir) - Everthing Counts.
 - [swaroop-phatak] (https://github.com/swaroop-phatak) - Heyy, this is my first contribution, nice to meet you all!
@@ -263,6 +268,7 @@ Achal Agrawal
 - [Al Lizaso](https://github.com/alizaso97) Hello World! Excited to contribute to my first open source project :]
 - [Soham Padalikar](https://github.com/Soham204) Hello World
 - [Prabhneet Singh ](https://github.com/neet1313)Practicing to contribute for Open Source.
+- [RushabhSingh](https://github.com/R1shabhCodes)Open source contribution 
 - [IGBUDU CHIBUZOR](https://github.com/thechibuzor1) My first open source contribution!!
 - [Ilana de Beer](https://github.com/LlamaIlana) Hello, Welcome to first of many contributions.
 - [joset15](https://github.com/joset15) - My first open source contribution!
@@ -324,6 +330,7 @@ Achal Agrawal
 - [HaiJeng](https://github.com/HaiJeng) Making this commit on 2025-06-12 16:22:49
 - [Raunak](https://github.com/Raunakkumarsingh2005) Making this commit on 12.06.2025 If you are new to open source like me let's get in touch. Connect with me on X(https://x.com/RaunakKumar_27). Dm and we are good to go.
 - [Ny Aina] Trying to be social ;P
+- [Piyush Banka] Hello Everyone :) 
 - [Achal](https://github.com/vx6Fid)
 - [Srilekha]
 - [Ben Huynh] (https://github.com/benhyh) - Xin chào 💛
@@ -473,6 +480,7 @@ Achal Agrawal
 - [rafi] (https://github.com/osak3r) 
 - [gccpsben](https://github.com/gccpsben) This is my first contribution daze~~ (definitely not from marisa)
 - Rodrigo Peñalba
+- [Sanjana Rai](https://github.com/sanjanaaraii)
 - [Yorgo Haykal] (https://github.com/yorgo-haykal) ""You miss 100% of the shots you don't take. -Wayne Gretzky" -Michael Scott" -Yorgo Haykal
 - [Sakshi Tripathi] (https://github.com/SakshiTripathi680) This is my first contribution and its great to be the part of this community.
 - [Evan Kline Mores](https://github.com/moresevankline) - **Open source contribution lets gooooo!!!**
@@ -2301,6 +2309,7 @@ Matthew Burgos
 - [RiteshSirohi](https://github.com/riteshsirohi)
 - [Fabrice Pecot](https://github.com/FabriceAB1)
 - [Bob Mumrmu](https://github.com/bobo-m)
+- [testing]
 - [SANJAY KUMAR](https://github.com/sanjaydeepak)
 - [Ravi](https://github.com/raviprakash7367)
 - [asart90](https://github.com/asart9O)
@@ -2376,6 +2385,7 @@ Matthew Burgos
 - [Anusha Jamsandekar](https://github.com/anushaj79)
 - [RomaniukNatalia](https://github.com/RomaniukNatalia)
 - [Kelvin Yeboah](https://github.com/KelvCodes)
+- [Casper] (...)
 - [Sardorbek](https://github.com/Sardorbek-Kuvondikov)
 - [nickeem](https://github.com/Nickeem)
 - [Wendell Oliveira](https://github.com/wendelloliiver)
@@ -4537,6 +4547,7 @@ John Morgan Hello!
 - [Zhenbin An](https://github.com/ZanderAN07) - Hello Guys
 -[Viswanathan](https://github.com/viswanathan11) -Hello world starting my open source journey
 - [lackoxy](https://github.com/lackoxy) -Hi there, a traveler who want to start an open source journey!(❁´◡`❁)
+- [dnas93] (https://github.com/dnascimento93) - YO.
 - [Stevemichael](https://github.com/stevemichael15) - Hello, World!
 - [Taran Shetty](https://github.com/TaranShetty)
 - [ronaldrnd](https://github.com/ronaldrnd) - Hello from Madagascar!
@@ -4656,3 +4667,6 @@ asd
 - [BAIM](https://github.com/BAIMOoo) - hello
 - [mulingHT](https://github.com/mulingHT) - 小猫老弟 coke
 - [Betel Yohannes](https://github.com/Benareyo) – Hellooo
+- [Rohit] - https://github.com/RohitKale1983
+- [Yash](https://github.com/Yashxp1) - Hello world!
+
