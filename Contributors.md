@@ -617,6 +617,7 @@ Achal Agrawal
 - [SanjiVinsmoke](https://github.com/yaCent100)
 Mubarak Qorane 
 - [Rajesh Khandige](https://github.com/rajeshprabhuk)
+- [Vaibhav Anand Singh](https://github.com/Vasudev2401)
 - [Oridak](https://github.com/Oridak771) the first of many more 
 - [Ayan Upadhaya](https://github.com/AyanUpadhaya)
 - [AshtavinayakPande](https://github.com/yuno-gen)
