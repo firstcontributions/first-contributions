@@ -1,6 +1,7 @@
 
 # Contributors
-- [Craig Gray] (https://github.com/Craig-Scarn/) Hello for the vale South Africa 
+- [Craig Gray] (https://github.com/Craig-Scarn/) Hello from the vale South Africa 
+- This is Aryan's first contribution. Looking for more! [Discord](https://discordapp.com/users/r._.yann), [Github](https://github.com/aryanriyahi)
 - [Uttkarsh Malvia](https://github.com/Menma420) - People's dreams have NO end!!! 
 - [Mr Vi](https://github.com/mrvi0) - 🐈 Hello from Saint-Petersburg! Microservices architect and Python developer passionate about automation, bots, and web technologies. Building the future one service at a time! 🚀
 - [Omotayo Emmanuel](https://github.com/ecodes-max) - Hey guys this is my first contribution to an opensource work on 7/6/2025
@@ -4541,6 +4542,7 @@ John Morgan Hello!
 - [Zhenbin An](https://github.com/ZanderAN07) - Hello Guys
 -[Viswanathan](https://github.com/viswanathan11) -Hello world starting my open source journey
 - [lackoxy](https://github.com/lackoxy) -Hi there, a traveler who want to start an open source journey!(❁´◡`❁)
+- [dnas93] (https://github.com/dnascimento93) - YO.
 - [Stevemichael](https://github.com/stevemichael15) - Hello, World!
 - [Taran Shetty](https://github.com/TaranShetty)
 - [ronaldrnd](https://github.com/ronaldrnd) - Hello from Madagascar!
