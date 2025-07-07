@@ -4540,7 +4540,6 @@ John Morgan Hello!
 - [Zhenbin An](https://github.com/ZanderAN07) - Hello Guys
 -[Viswanathan](https://github.com/viswanathan11) -Hello world starting my open source journey
 - [lackoxy](https://github.com/lackoxy) -Hi there, a traveler who want to start an open source journey!(❁´◡`❁)
-- [dnas93](https://github.com/dnascimento93) - YO.
 - [Stevemichael](https://github.com/stevemichael15) - Hello, World!
 - [Taran Shetty](https://github.com/TaranShetty)
 - [ronaldrnd](https://github.com/ronaldrnd) - Hello from Madagascar!
@@ -4548,6 +4547,7 @@ John Morgan Hello!
 - [Romit Sharma] - My First Ever Contribution
 - [Roshan Koirala] (https://github.com/RoshannCodes) - Hello guys, Myself Roshan Koirala from Nepal!
 -[Ishika](https://github.com/ishika240047) - i am from india and this is my first open source contibutiono
+- [dnas93](https://github.com/dnascimento93) - YO.
 - [Zawisza-Czarny](https://github.com/Zawisza-Czarny/) - Hello and greetings from Poland!!!
 - [lichanghui11](https://github.com/lichanghui11) - Hello, I am a freshman in programming.
 - [Lucas Hoggan](https://github.com/lucashoggan) - Hello from Scotland!
