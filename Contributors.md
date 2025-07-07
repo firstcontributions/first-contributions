@@ -4476,6 +4476,7 @@ Hi i am Utsav Goyal
 - [Balina Sai Charan](https://github.com/charan22640)
 - [Sivakumar] (https://github.com/SavvasSivakumarSubramanian/)
 - [Saikat Bhattacharjee](https://github.com/saikat1993)
+- [dnas93](https://github.com/dnascimento93) - YO.
 - [Santhosh Kumar Karthikeyan](https://github.com/santhosh-kumar-karthikeyan)
 - [Numan Khan](https://github.com/Nuu-maan)
 - [Alejandro Flores](https://github.com/afr-dt)
@@ -4547,7 +4548,6 @@ John Morgan Hello!
 - [Romit Sharma] - My First Ever Contribution
 - [Roshan Koirala] (https://github.com/RoshannCodes) - Hello guys, Myself Roshan Koirala from Nepal!
 -[Ishika](https://github.com/ishika240047) - i am from india and this is my first open source contibutiono
-- [dnas93](https://github.com/dnascimento93) - YO.
 - [Zawisza-Czarny](https://github.com/Zawisza-Czarny/) - Hello and greetings from Poland!!!
 - [lichanghui11](https://github.com/lichanghui11) - Hello, I am a freshman in programming.
 - [Lucas Hoggan](https://github.com/lucashoggan) - Hello from Scotland!
