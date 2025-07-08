@@ -2,7 +2,8 @@
 # Contributors
 - [Boyu Yang] (https://github.com/Severus-Yang0) - Hello! This is my first contribution!
 - [Jihyeon Jeon] (https://github.com/fujiena04) Hello World
-- [Craig Gray] (https://github.com/Craig-Scarn/) Hello from the vale South Africa 
+- [Craig Gray] (https://github.com/Craig-Scarn/) Hello from the vale South Africa
+- [Krishan Dwivedi](https://github.com/krisd23) i have a [portfolio](https://krishandwivedi.tech/) too. WGMI.
 - This is Aryan's first contribution. Looking for more! [Discord](https://discordapp.com/users/r._.yann), [Github](https://github.com/aryanriyahi)
 - [Uttkarsh Malvia](https://github.com/Menma420) - People's dreams have NO end!!! 
 - [Mr Vi](https://github.com/mrvi0) - 🐈 Hello from Saint-Petersburg! Microservices architect and Python developer passionate about automation, bots, and web technologies. Building the future one service at a time! 🚀
