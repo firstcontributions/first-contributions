@@ -87,7 +87,6 @@ vanakkam da Mapala...
 -[Samiru Hemaka](https://github.com/SamiruHemaka2004) - hi guyz. this is my first contributiuon for open source.All the best for everyone!
 -[Briand Miranda](https://github.com/briandms)
 -[Rhonda Ojongmboh](https://github.com/rhondaoj4) - first of many open source contributions. Beginning of the pursuit of an emmaculate career
--[Anthony Ostia](https://github.com/maroonedace) - Hi, this will be my first contribution to open source.
 -[Moosa Ali](https://github.com/Moosa-Aly) - Hi, guys how are you?
 -[Bikram](https://github.com/bikramroyutsa/) - Hi, commiting to os for the first time
 -[Miska Braun](https://github.com/MiskaB) - Never follow the beaten path, make your own instead, they said...
@@ -108,6 +107,7 @@ vanakkam da Mapala...
 - [Ritik-khandelwal] (https://github.com/Ritik-khandelwal) - Hey Hii Everyone !!! It's 28th June, 2025 Today. From today I have decided to do open source contributions. All The Best everyone for their future.
 -[Niteesh Hegde](https://github.com/Niteeshh16) - Good Morning Everyone, Happy to contribute.
 - [johntoby] (https://github.com/johntoby) - Hii guys. Happy to contribute
+- [Anthony Ostia](https://github.com/maroonedace) - Hi, this will be my first contribution to open source. Look forward to learning.
 - [kunduarjun] (https://github.com/kunduarjun) - Happy to be making my first contribution to a forked repo! 
 - [Juanelios] (https://github.com/Juanelios) - Happy to start here :)
 -[s1ggelin] (https://github.com/s1ggelin) - Happy to contribute
