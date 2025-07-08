@@ -101,6 +101,7 @@ vanakkam da Mapala...
 -[MiaDeCataldo](https://github.com/MiaDeCataldo) - HI :). 
 -[AmjadHamoud](https://github.com/AmjadHamoud) - 18 year old , student started contributing to learn.
 - [Ritik-khandelwal] (https://github.com/Ritik-khandelwal) - Hey Hii Everyone !!! It's 28th June, 2025 Today. From today I have decided to do open source contributions. All The Best everyone for their future.
+-[Niteesh Hegde](https://github.com/Niteeshh16) - Good Morning Everyone, Happy to contribute.
 - [johntoby] (https://github.com/johntoby) - Hii guys. Happy to contribute
 - [kunduarjun] (https://github.com/kunduarjun) - Happy to be making my first contribution to a forked repo! 
 - [Juanelios] (https://github.com/Juanelios) - Happy to start here :)
