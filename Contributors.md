@@ -4684,3 +4684,4 @@ asd
 - [Sakshi Sharma](https://github.com/221sakshisharma) - Hi this is my first PR
 - [Salma Dhegacadde](https://github.com/salmamokhtaar) - 🇸🇴 Hi from Somalia, First open source contribution – 08/07/2025
 - [Erin Potter](https://github.com/ernpotter) - Hi from Erin. This is my first open source contribution - 08/07/2025
+- [Catalina Fullana](https://github.com/catalinacatalinacatalina) - Hello Open Source!! - 08/07/2025
