@@ -4642,6 +4642,7 @@ Artem Ryabtcev
 - [Alberto Jiménez] (https://github.com/alberyxulo)
 - [Biswarup Das](https://github.com/biswarupdas445)
 Jin
+- [Batubo Victory](https://github.com/Phoenix-Domain) - Hi, I'm Victory — a passionate Frontend Web Developer and I'm    looking forward to contributing to my first open source projects. I specialize in building stunning, responsive, and high-converting websites using HTML, CSS, and JavaScript.
 - [yyubin](https://github.com/yyubin) - hello world
 - [Agam singh](https://github.com/agamsiingh) - Hello World
 - [Ipshita Bhardwaj](https://github.com/ipshitabhardwaj)
