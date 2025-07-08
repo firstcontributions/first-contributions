@@ -4686,6 +4686,7 @@ asd
 - [Yash](https://github.com/Yashxp1) - Hello world!
 - [Ammar Hashmi](https://github.com/ammarhashmi113) - 🇵🇰 Hi from Pakistan, First open source contribution – 08/07/2025
 - [Sakshi Sharma](https://github.com/221sakshisharma) - Hi this is my first PR
+- [Ayesha Mohapatra](https://github.com/ayesha2104) - MY First Contribution yeahhhh!!! - 08/07/2025
 - [Salma Dhegacadde](https://github.com/salmamokhtaar) - 🇸🇴 Hi from Somalia, First open source contribution – 08/07/2025
 - [Jeffrey Thompson](https://github.com/Jaffulee) - Hi from UK
 - [Erin Potter](https://github.com/ernpotter) - Hi from Erin. This is my first open source contribution - 08/07/2025
