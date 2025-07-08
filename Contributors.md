@@ -2682,6 +2682,7 @@ Jyothish
 - [Igor Balić](https://github.com/Iggy2399)
 - [TejasK](https://github.com/TejasKoravanavar)
 - [Animesh Yadav](https://github.com/Aanimesh003)
+- [Jules Claeys]
 - [ahmad777x86](https://github.com/ahmad777x86)
 - [aakashsaini09](https://github.com/aakashsaini09)
 - [Nikolai B.](https://github.com/nbardzinkevichh)
