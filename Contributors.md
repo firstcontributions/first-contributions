@@ -8,10 +8,12 @@
 - [Uttkarsh Malvia](https://github.com/Menma420) - People's dreams have NO end!!! 
 - [Mr Vi](https://github.com/mrvi0) - 🐈 Hello from Saint-Petersburg! Microservices architect and Python developer passionate about automation, bots, and web technologies. Building the future one service at a time! 🚀
 Hello world.I'm Rohith and this is my first open source contribution on (7/8/2025). Code for good!!. Peace ppl.
+-[Shalabh Ranjan](https://github.com/ShalabhRanjan19)- Hello ! This is my first open source contribution!
 - [Omotayo Emmanuel](https://github.com/ecodes-max) - Hey guys this is my first contribution to an opensource work on 7/6/2025
 - [Huerte](https://github.com/Huerte) – Hello everyone! I hope that one day I can look back at this moment, remember all the hard work and sacrifices, and see how it helped make my dreams come true. (7/7/2025)
 - [Mohit Suthar](https://github.com/MohitSutharOfficial) - Hello, World! This is my first contribution to open source on 06/07/2025!
 - [Talha](https://github.com/talha-0) - Hello GitHub! My first open source contribution.
+- [Yashasvi Choudhary] (https://github.com/yashasviCodes) Namaste World! This is my first open source contribution. Remember you are not what happens to you, you are how you respond to it. (￣y▽,￣)╭ 
 - [Almish Hoda](https://github.com/almishhoda04) - Hi! This is Almish and this is my attempt to enter open source contributions!!
 - [Mohammed Omair Mohiuddin](https://github.com/Mohammed-Omair) - Hey everyone!, This is my very first open-source contribution - 5th July 2025
 - [Onome Owah](https://github.com/Onome-Owah)- Hi contributors, Thanks for this, it's a good idea especially for people new to open source. Thanks, time to do more!!!! 6th July 2025
@@ -4351,6 +4353,7 @@ Jyothish
 -[saswata pattanaik] (https://github.com/Saswata-Pattanaik)
 - [Yamuna](https://github.com/Yamuna-b)
 - [Szabi] (https://github.com/SzabiGeo)
+- [AndresContreras1034] (https://github.com/AndresContreras1034)
 -[Ashok Kaji] (https://github.com/ashokkaji26)
 - [Shubham Mohole](https://github.com/Ishubhammohole)
 - [Alvise Spadea](https://github.com/Alvaise):)
@@ -4684,6 +4687,7 @@ asd
 - [Yash](https://github.com/Yashxp1) - Hello world!
 - [Ammar Hashmi](https://github.com/ammarhashmi113) - 🇵🇰 Hi from Pakistan, First open source contribution – 08/07/2025
 - [Sakshi Sharma](https://github.com/221sakshisharma) - Hi this is my first PR
+- [Ayesha Mohapatra](https://github.com/ayesha2104) - MY First Contribution yeahhhh!!! - 08/07/2025
 - [Salma Dhegacadde](https://github.com/salmamokhtaar) - 🇸🇴 Hi from Somalia, First open source contribution – 08/07/2025
 - [Jeffrey Thompson](https://github.com/Jaffulee) - Hi from UK
 - [Erin Potter](https://github.com/ernpotter) - Hi from Erin. This is my first open source contribution - 08/07/2025
