@@ -4705,3 +4705,4 @@ asd
 - [Catalina Fullana](https://github.com/catalinacatalinacatalina) - Hello Open Source!! - 08/07/2025
 - [Archi Rai](https://github.com/archixcodes) - hello open source !! - 08/07/2025
 - [Nisha Potkule](https://github.com/NishaSPotkule)
+- [Lucas-Code](https://github.com/Lucas-Code27) - First Open Source Contribution!!!
