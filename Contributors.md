@@ -2756,6 +2756,7 @@ Jyothish
 - [Parker Crook](https://github.com/parkercrook)
 - [Vilashkumar Daate](https://github.com/vilash99)
 - [Michael Vincendon](https://github.com/mvincendon) **Bonjour tout le monde !** 🇫🇷🥖 Let's build something great!
+- [Gousik Rao](https://github.com/gousik-Rao) **Hello Everyone, First Open Source Contribution!**
 - [Adhish Goswami](https://github.com/Adhishg704)
 - [Zach Garza](https://github.com/ZachG1235)
 - [Mwofoh-Adriel](https://github.com/Mwofoh-Adriel)
