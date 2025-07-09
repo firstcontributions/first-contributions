@@ -4700,3 +4700,5 @@ asd
 - [Erin Potter](https://github.com/ernpotter) - Hi from Erin. This is my first open source contribution - 08/07/2025
 - [Catalina Fullana](https://github.com/catalinacatalinacatalina) - Hello Open Source!! - 08/07/2025
 - [Archi Rai](https://github.com/archixcodes) - hello open source !! - 08/07/2025
+-[Shelly S](https://github.com/shellsri) - excited to start my open source journey! - 09/07/2025
+
