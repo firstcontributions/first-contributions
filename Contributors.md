@@ -27,8 +27,9 @@ Hello world.I'm Rohith and this is my first open source contribution on (7/8/202
 - [jw-MY] (https://github.com/Yeoh-JinWei) - Hello World! 你好世界！
 - [whiteDevil] (https://github.com/prasad-bigdp) - I did 05/07/2025
 - [Minh K] (https://github.com/minh-khuc) - It's 7/8/2025 now
-- [Minh VS] {https://github.com/Khucs)
+- [Minh VS] (https://github.com/Khucs)
 - [Kiran](https://github.com/Kiran-Qlik) - My First Git commit 07/06/2025
+- [Anastasia](https://github.com/anastasia-lobareva) My first contribution!
 -[BChaput] (https://github.com/BrianChaput) -Howdy World! 7/3/2025
 -[OsirisNexus] (https://github.com/osirisNexus) - First Open Src Contribution on the 4th of July!!! 07/04/2025  
 -[thebinarycoder] (https://github.com/BhavanaNannuru) - Thanks for the repo! Learning to contribute!! 
