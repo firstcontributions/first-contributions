@@ -1,5 +1,6 @@
 
 # Contributors
+- [Dhruv Karthik] (https://github.com/EmptyJug09) This is my first contribution on GitHub!
 - [Boyu Yang] (https://github.com/Severus-Yang0) - Hello! This is my first contribution!
 - [Jihyeon Jeon] (https://github.com/fujiena04) Hello World
 - [Xay Han] (https://github.com/XayHanmonty) Xay's here (first contributor)
