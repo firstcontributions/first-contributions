@@ -3339,6 +3339,7 @@ Jyothish
 - [giandab](https://github.com/giandab)
 - [Žiga Berlič](https://github.com/zigaberlic)
 - [Suneel Reddy](https://github.com/suneelreddysannala)
+- [Lovis](https://github.com/LovisDepoorter)
 - [Vikrant](https://github.com/1vikrant)
 - [Kazuho](https://github.com/kzhgit)
 - [zaki1228](https://github.com/zaki1228)
