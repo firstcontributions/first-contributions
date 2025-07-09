@@ -4721,3 +4721,4 @@ asd
 - [Sumaiyah Ibrahim](https://github.com/sumaiyahibrahim)
 - [Mohammed Wajith](https://github.com/wawa660) - Waiting for AGI
 - [Ganesh Kurapati](https://github.com/ganesh-codes404) - Hello everyone, nice to meet you :>
+- [Charles Santana](https://github.com/selrahcsan) - 🐧 Hello from Brazil 🇧🇷! - 09/07/2025
