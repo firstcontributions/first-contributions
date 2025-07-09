@@ -137,6 +137,7 @@ vanakkam da Mapala...
 - [Ambika Sony] (https://github.com/Ambika-Sony) - hey! excited to contribute to Open source ..
 - [Ikedalab-Daniel](https://github.com/IkedaLab-Daniel) - Preparing for GitHub Foundations Exam
 - [Kyle Santos] - Nice to meet you!
+- [Kashyap Hegde Kota](https://github.com/KashyapHegdeKota) - Hey everyone! My name is Kashyap and I am excited to contribute to open source projects on Github! July 9th 2025
 - [Adarsh Rangare](https://github.com/adarshrangare) - Software Developer
 - [James Kiongo Njihia](https://github.com/jameskiongo) - Software Developer
 - [Miro Kakkonen](https://github.com/MJKagone) - o/
