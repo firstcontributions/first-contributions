@@ -88,7 +88,8 @@ vanakkam da Mapala...
 -[Jyoti Lalwani](https://github.com/Jyoti520) - first time contribution to open source
 -[WangZhenYU](https://github.com/wausdjaks) -Ciallo~  
 -[Nelson Privette](https://github.com/NPrivette) - Hey, I've been self taught for going on three years. Here's my first official open source contribution
--[Sonakshi](https://github.com/sonakshi555) - heyy there, today 30/06/2025 , when i marked my first contribution to open source in the line 5. 
+-[Sonakshi](https://github.com/sonakshi555) - heyy there, today 30/06/2025 , when i marked my first contribution to open source in the line 5.
+-[EasternRoman](https://github.com/ByzantineCitizen) - Hello! This is my first contribution ever on Github/Git open source. Have a great day!
 -[Vijay vardhan](https://github.com/sonakshi555) - heyy there, today 30/06/2025 , when i marked my first contribution to open source in the line 6. 
 -[Yudiblimb](https://github.com/Yudiblimb) - first time really using github :O
 -[Samiru Hemaka](https://github.com/SamiruHemaka2004) - hi guyz. this is my first contributiuon for open source.All the best for everyone!
