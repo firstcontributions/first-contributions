@@ -17,6 +17,7 @@
 - [Uttkarsh Malvia](https://github.com/Menma420) - People's dreams have NO end!!! 
 - [Mr Vi](https://github.com/mrvi0) - 🐈 Hello from Saint-Petersburg! Microservices architect and Python developer passionate about automation, bots, and web technologies. Building the future one service at a time! 🚀
 - [Siddhi Jain](https://github.com/siddhijain120) - MY FIRST OPEN SOURCE CONTRIBUTION. EXCITED ABOUT WHAT'S THERE AHEAD!!! (09 - 07 -2025)
+- [Gaurav Bhagwaria](https://github.com/BhagwariaGaurav) - First contribution bratan!
 - [Praveen](https://github.com/Praveen123-png) - This is my first open source contribution, Praveen was here 🔨(7/9/2025). 
 - This is my first contribution.... Excited!!!!!
 Hello world.I'm Rohith and this is my first open source contribution on (7/8/2025). Code for good!!. Peace ppl.
@@ -4738,6 +4739,7 @@ asd
 - [Sumaiyah Ibrahim](https://github.com/sumaiyahibrahim)
 - [Mohammed Wajith](https://github.com/wawa660) - Waiting for AGI
 - [Ganesh Kurapati](https://github.com/ganesh-codes404) - Hello everyone, nice to meet you :>
+- [Charles Santana](https://github.com/selrahcsan) - 🐧 Hello from Brazil 🇧🇷! - 09/07/2025
 - [Jose Antonio](https://github.com/baraja25) - Hi! this is my first contribution 10/07/2025
 - [Charles Santana](https://github.com/selrahcsan) - 🐧 Hello from Brazil 🇧🇷! - 09/07/2025
 - [Pedro Pierri](https://github.com/pedropierri) - hi! pierri was here in 09/07/2025 :3
