@@ -44,6 +44,7 @@ Hello world.I'm Rohith and this is my first open source contribution on (7/8/202
 -[thebinarycoder] (https://github.com/BhavanaNannuru) - Thanks for the repo! Learning to contribute!! 
 -[yrdaman] (https://github.com/yrdaman) - Hola Open src World !!! 04/07/2025
 -[KabitaTudu] (https://github.com/KabitaTudu) - My first-ever contribution
+- [Giovani](https://github.com/Giovani2108) My first contribution!
 -[Karan-312] (https://github.com/Karan-312) - just a test how to raise a PR . 
 -[RykerWilder](https://github.com/RykerWilder) - Thanks to create a repo for my first contribution! 
 -[PraMaratha] (https://github.com/PraMaratha) - Hello, Everyone!
