@@ -2948,6 +2948,7 @@ Jyothish
 - [TOK7O](https://github.com/TOK7O)
 - [Hossain Rion](https://github.com/best-rion)
 - [Rion Sato](https://github.com/Rion-Sato)
+- [Srijan Suresh](https://github.com/SrijanSuresh)
 - [Daniel Cursi](https://github.com/danielcursi)
 - [Giovanna Cortez](https://github.com/annavoigg)
 - [Sagar Bangari](https://github.com/SagarBangari)
