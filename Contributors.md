@@ -9,6 +9,7 @@
 - [Siddharth Gandhi](https://github.com/sid1275) - My first open source contibution!!!
 - This is Aryan's first contribution. Looking for more! [Discord](https://discordapp.com/users/r._.yann), [Github](https://github.com/aryanriyahi)
 - This is Mihri's first contribution :)
+- [Krishna Moghe] (https://github.com/KrishnaMoghe)
 - [Jinkai Liu](https://github.com/Kai-qvq)Hey,I was here.That’s so cool!Greetings from Hainan,China -07/09/2025
 - [Aayushi raj] (https://github.com/aayushi404) Hello World!!
 - [Uttkarsh Malvia](https://github.com/Menma420) - People's dreams have NO end!!! 
