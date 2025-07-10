@@ -1,6 +1,8 @@
 
-# Contributors
+# Contributor
 Cowb's first contribution
+=======
+- [Balraj Choure](https://github.com/balraj009) – 🌟 First PR!
 - [Abhinav Dwivedi](https://github.com/Abhinavv-933) Namaste world , my first open source contributions !!
 - [Dhruv Karthik] (https://github.com/EmptyJug09) This is my first contribution on GitHub!
 - [Boyu Yang] (https://github.com/Severus-Yang0) - Hello! This is my first contribution!
@@ -4455,6 +4457,7 @@ Jyothish
 - [Rennan Reis](https://github.com/rennanreis)
 - [Divyam Kataria](https://github.com/katsdivi) Hey everyone! Trying to learn git and open source.
 - [Maitreyee Singh](https://github.com/maitreyee-s)
+- [Puneeth] - (https://github.com/puni2000/) - Hello!!
 [Pouria Tofighi](https://github.com/Pouria-Tofighi)
 -[Marouane Tabaa](https://github.com/Marouane666)
 - [Sidharth P](https://github.com/Sid-CodeX)
@@ -4737,6 +4740,9 @@ asd
 - [Sumaiyah Ibrahim](https://github.com/sumaiyahibrahim)
 - [Mohammed Wajith](https://github.com/wawa660) - Waiting for AGI
 - [Ganesh Kurapati](https://github.com/ganesh-codes404) - Hello everyone, nice to meet you :>
+- [Jose Antonio](https://github.com/baraja25) - Hi! this is my first contribution 10/07/2025
 - [Charles Santana](https://github.com/selrahcsan) - 🐧 Hello from Brazil 🇧🇷! - 09/07/2025
 - [Pedro Pierri](https://github.com/pedropierri) - hi! pierri was here in 09/07/2025 :3
+- [Jisoo Lee](https://github.com/easywater4528) - Hello It's so funny!
 - [dasmat] - (https://github.com/Dasmat13) - hi ! myself dasmat
+- [Sheikh Hassaan Saeed] - Open Source Learner 7/10/2025
