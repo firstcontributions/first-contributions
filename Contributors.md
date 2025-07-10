@@ -4495,6 +4495,7 @@ Hi i am Utsav Goyal
 - [Raul Gabriel](https://github.com/RaulGabriel)
 - [Raushan](https://github.com/oisitme)
 - [Bansuri S](https://github.com/bansurisenthilkumar) Day one !
+- [Brandon] (https://github.com/rofthchild) Me the NEWBIE but I "do be" having fun. 1st contribute!
 - [Jenny Khanh Nguyen](https://github.com/jennykhanhnguyen)
 - [Pulgiux] (https://github.com/Pulgiux)
 - [Angelo Fontoura](https://github.com/angelofontoura)
