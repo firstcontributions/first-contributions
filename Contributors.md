@@ -18,6 +18,7 @@
 - [Mr Vi](https://github.com/mrvi0) - 🐈 Hello from Saint-Petersburg! Microservices architect and Python developer passionate about automation, bots, and web technologies. Building the future one service at a time! 🚀
 - [Siddhi Jain](https://github.com/siddhijain120) - MY FIRST OPEN SOURCE CONTRIBUTION. EXCITED ABOUT WHAT'S THERE AHEAD!!! (09 - 07 -2025)
 - [Praveen](https://github.com/Praveen123-png) - This is my first open source contribution, Praveen was here 🔨(7/9/2025). 
+-[KamathAnjali] Hey it's one of my first contributions (10-07-2025). i hope this takes you on a long and wondrous journey through open source and one day you'll be so proud looking back :))
 - This is my first contribution.... Excited!!!!!
 Hello world.I'm Rohith and this is my first open source contribution on (7/8/2025). Code for good!!. Peace ppl.
 -[Shalabh Ranjan](https://github.com/ShalabhRanjan19)- Hello ! This is my first open source contribution!
