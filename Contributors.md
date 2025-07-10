@@ -4738,4 +4738,5 @@ asd
 - [Ganesh Kurapati](https://github.com/ganesh-codes404) - Hello everyone, nice to meet you :>
 - [Charles Santana](https://github.com/selrahcsan) - 🐧 Hello from Brazil 🇧🇷! - 09/07/2025
 - [Pedro Pierri](https://github.com/pedropierri) - hi! pierri was here in 09/07/2025 :3
+- [Jisoo Lee](https://github.com/easywater4528) - Hello It's so funny!
 - [dasmat] - (https://github.com/Dasmat13) - hi ! myself dasmat
