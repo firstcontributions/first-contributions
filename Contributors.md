@@ -19,6 +19,7 @@
 - This is my first contribution.... Excited!!!!!
 Hello world.I'm Rohith and this is my first open source contribution on (7/8/2025). Code for good!!. Peace ppl.
 -[Shalabh Ranjan](https://github.com/ShalabhRanjan19)- Hello ! This is my first open source contribution!
+-[Mansoor Satti](https://github.com/Satti201) - Hello This is my first open source contribution (July 07, 2025)
 -[Yaswanth Kumar Mallela](https://github.com/Yash864512)- Hello to one seeing this! This is the first step for more contributions comming up from me
 -[Todd Chase](https://github.com/Tchase2472) - Hello This is my first open source contribution
 - [Omotayo Emmanuel](https://github.com/ecodes-max) - Hey guys this is my first contribution to an opensource work on 7/6/2025
