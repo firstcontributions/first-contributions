@@ -4745,3 +4745,4 @@ asd
 - [Jisoo Lee](https://github.com/easywater4528) - Hello It's so funny!
 - [dasmat] - (https://github.com/Dasmat13) - hi ! myself dasmat
 - [Sheikh Hassaan Saeed] - Open Source Learner 7/10/2025
+- [Pranjali Randive](https://github.com/PranjaliRandive)
