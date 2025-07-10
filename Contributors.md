@@ -1,6 +1,7 @@
 
 # Contributors
 - [Balraj Choure](https://github.com/balraj009) – 🌟 First PR!
+- [Rzayev Abbasqulu](https://github.com/Rzayevv0) – Hello it's my first contribution!!
 - [Abhinav Dwivedi](https://github.com/Abhinavv-933) Namaste world , my first open source contributions !!
 - [Dhruv Karthik] (https://github.com/EmptyJug09) This is my first contribution on GitHub!
 - [Boyu Yang] (https://github.com/Severus-Yang0) - Hello! This is my first contribution!
