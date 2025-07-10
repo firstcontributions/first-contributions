@@ -4742,3 +4742,4 @@ asd
 - [Pedro Pierri](https://github.com/pedropierri) - hi! pierri was here in 09/07/2025 :3
 - [Jisoo Lee](https://github.com/easywater4528) - Hello It's so funny!
 - [dasmat] - (https://github.com/Dasmat13) - hi ! myself dasmat
+- [Sheikh Hassaan Saeed] - Open Source Learner 7/10/2025
