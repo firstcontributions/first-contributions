@@ -4462,6 +4462,7 @@ Jyothish
 -[Tames] (https://github.com/tameszaza)
 - [Ming Xiro]  (https://github.com/dinhminh0307)
 - [RedHeadFred923] (https://github.com/RedHeadFred923)
+- [CedricGeng] (https://github.com/Code-gengzhicheng)
 - [Caleb Johnson] (https://github.com/CalebJohnson1)
 - [Gleidson Guilhem] (https://github.com/gleidsonguilhem)
 - [Angelina Tsygan](https://github.com/angelinatsygan)
@@ -4662,7 +4663,7 @@ Artem Ryabtcev
 - [Hemant Acharya](https://github.com/hemantacharya1) - Hey guys, this is my firsst open-source contribution, many more to go. 🚀
 - [sYanXO] (https://github.com/sYanXO) - Hey! This is my first contribution. <3
 - [dinhdev-nu](https://github.com/dinhdev-nu) - Hi! This is my first contribution.
--[Poornima Tewatia] ([https://github.com/poornima200631](https://github.com/poornima200631))-Hello!This is my first contribution
+- [Poornima Tewatia] ([https://github.com/poornima200631](https://github.com/poornima200631))-Hello!This is my first contribution
 - [James Smith](https://github.com/Matte1196) - Love and unity to us all!
 - [JBetz-Dev](https://github.com/JBetz-Dev)
 - Garvit A [@Garvit09A](https://github.com/Garvit09A)
@@ -4693,7 +4694,7 @@ Jin
 - [RyuzuTakalov](https://github.com/RyuzuTakalov) - There so many of us!
 - [Pritiranjan Patra](https://github.com/PritiranjanPatra2) - Never Give Up
 - [Jueda Sherifi] (https://github.com/juedash)
--[Naveena](https://github.com/Nav99-git)- It's never too late to begin !!
+- [Naveena](https://github.com/Nav99-git)- It's never too late to begin !!
 - [Zack Bou](https://github.com/brainchemist)- Trust no man, Fear no b!tch !
 - [Makhdum Hossain](https://github.com/Makhdum412)- We are not behind. We are where we need to be!! 
 - [Jada Thibodeaux](https://github.com/jadathib) - Hi there, I'm Jada 
