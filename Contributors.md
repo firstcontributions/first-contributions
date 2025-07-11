@@ -4544,6 +4544,7 @@ Hi i am Utsav Goyal
 - atendeiro91
 - rrr514
 - [Squirrelcoding](https://github.com/Squirrelcoding)
+- [Abdulkadir Gobena DENBOBA](https://github.com/denboba)
 - [Bhavya Sonigra](https://github.com/Bhavya-Sonigra)
 - [Inshal 0x03a](https://github.com/0x03a)
 - [Shruti Gupta](https://github.com/ShrutiGupta37)
@@ -4569,7 +4570,6 @@ Hi i am Utsav Goyal
 - Peggy Zhu
 - [koki-desuyo](https://github.com/koki-desuyo) [なめこ栽培キット](https://namepara.com/)やろーぜ
 - [Saad Momin](https://github.com/sdmoman)
-- [Abdulkadir Gobena DENBOBA](https://github.com/denboba)
 - [Diksha Rani](https://github.com/diksha-0420)
 - [Suresh Jagannadham](https://github.com/sureshjagannadham)
 - [Brandon Song] (https://github.com/defkorean)
@@ -4780,4 +4780,3 @@ asd
 - [Rodrigo Bravo](https://github.com/bravorod)
 -[FELIX]https://github.com/FELIX
 - [ROCHDI MOHAMMED AMINE](https://github.com/aminerochdi1)
-- 
