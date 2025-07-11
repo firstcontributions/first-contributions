@@ -14,6 +14,7 @@
 - [Jérôme Bouteveille](https://github.com/Jerome-CM) Hi everyone, my third contribution projet ! 07/11/2025 from France
 - This is Mihri's first contribution :)
 - [Krishna Moghe] (https://github.com/KrishnaMoghe)
+- [Samarth Keshari](https://github.com/Samarth-3910) - Hello World! This is my first open source contribution. Excited to be a part of the open source community!
 - [Maya Kanani] (https://github.com/M4y4Ti4)
 - [Jinkai Liu](https://github.com/Kai-qvq)Hey,I was here.That’s so cool!Greetings from Hainan,China -07/09/2025
 - [Aayushi raj] (https://github.com/aayushi404) Hello World!!
