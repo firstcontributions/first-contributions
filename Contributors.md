@@ -1,6 +1,6 @@
 
 # Contributors
-- [Matheg](https://github.com/30November) - Hi guys ! Whatsapp
+- [Matheg](https://github.com/30November) - Hi guys ! Whatsapp . From India
 - [Omar Eddari](https://github.com/omar-eddari) – Hi
 - [Balraj Choure](https://github.com/balraj009) – 🌟 First PR!
 - [Yeshwanth Krishna](https://github.com/yeshwanth-kr) – Hello everyone, this is my first open source contribution!!
