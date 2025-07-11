@@ -13,7 +13,6 @@
 - [Xay Han] (https://github.com/XayHanmonty) Xay's here (first contributor)
 - [Craig Gray] (https://github.com/Craig-Scarn/) Hello from the vale South Africa 
 - [Adewale Afolabi](https://github.com/adewale-devflow) - My first open source contibution!!!
-- [Javier Madrigal](https://github.com/JavierMadrigalC) - Hola mundo.
 - [Siddharth Gandhi](https://github.com/sid1275) - My first open source contibution!!!
 - This is Aryan's first contribution. Looking for more! [Discord](https://discordapp.com/users/r._.yann), [Github](https://github.com/aryanriyahi)
 - [Jérôme Bouteveille](https://github.com/Jerome-CM) Hi everyone, my third contribution projet ! 07/11/2025 from France
