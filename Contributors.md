@@ -49,6 +49,7 @@ Hello world.I'm Rohith and this is my first open source contribution on (7/8/202
 - [jw-MY] (https://github.com/Yeoh-JinWei) - Hello World! 你好世界！
 - [whiteDevil] (https://github.com/prasad-bigdp) - I did 05/07/2025
 - [NSGneha] (https://github.com/NSGneha) - First step into Open Source
+- [Ankit-Singh] (https://github.com/Ankit300302) - First step into Open Source
 [octane001] (https://github.com/octane001) - My first open source contibution.
 - [Minh K] (https://github.com/minh-khuc) - It's 7/8/2025 now
 - [Minh VS] (https://github.com/Khucs)
