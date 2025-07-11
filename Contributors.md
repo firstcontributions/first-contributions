@@ -312,6 +312,7 @@ Achal Agrawal
 - [Danyal Ansari](https://github.com/DanyalAnsari) 18-06-2025::21:02 IST.
 - [Aleena Ali Azeem](https://github.com/aleenaazeem) Heya, Welcome to first of many contributions. Good luck :D.
 - [Dadir Awad](https://github.com/dadirawad) Hello World, this is my first time contributing to open source! 
+- [EyeCon](https://github.com/EyeCon) Hiya
 - [Felipe Sanz](https://github.com/Multydelivery) Hola Everyone!!!
 - [Mathues Justin Hasda](https://github.com/hasdajustin) Hello World! This is my first contribution to open source!
 - [Mahantesh Gurav](https://github.com/mahanteshbg) Hello Everyone! My first open source contribution.
