@@ -1955,6 +1955,7 @@ Matthew Burgos
 - [Hamed Haghani](https://github.com/HamedHaghani)
 - [KingTroy125](https://github.com/KingTroy125)
 - [Victor Alexander](https://github.com/ViitorA)
+- [Andrew Souza](https://github.com/andrewSouza-dev) **Open to Jobs**
 - [Yoshitaro Miyoshi]
 - [Sigma](https://github.com/sigma7863)
 - [Karan Maheshwari](https://github.com/krnmaheshwari09)
