@@ -2022,6 +2022,7 @@ Matthew Burgos
 - [Dhayanithi](https://github.com/Dhayanithi-545)
 - [Vishnu Vardhan N](https://github.com/VishnuVardhanNk)
 - [Sharan Robinson](https://github.com/Sharan-Robinson)
+- [Joshua Dike](https://github.com/Joshdike)
 - [Abhishek Negi](https://github.com/abhi-negii7)
 - [Priydev Mishra](https://github.com/priydevmishra)
 - [Tristan Henning] (https://github.com/tristanh-code)
