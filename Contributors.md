@@ -1,6 +1,7 @@
 
 # Contributors
 - [Balraj Choure](https://github.com/balraj009) – 🌟 First PR!
+- [Jana Krisna]- my first pr
 - [Yeshwanth Krishna](https://github.com/yeshwanth-kr) – Hello everyone, this is my first open source contribution!!
 - [Rzayev Abbasqulu](https://github.com/Rzayevv0) – Hello it's my first contribution!!
 - [Abhinav Dwivedi](https://github.com/Abhinavv-933) Namaste world , my first open source contributions !!
@@ -16,6 +17,7 @@
 - This is Mihri's first contribution :)
 - [Krishna Moghe] (https://github.com/KrishnaMoghe)
 - [Samarth Keshari](https://github.com/Samarth-3910) - Hello World! This is my first open source contribution. Excited to be a part of the open source community!
+- [Jana Krisna]- my first fork and change
 - [Maya Kanani] (https://github.com/M4y4Ti4)
 - [Jinkai Liu](https://github.com/Kai-qvq)Hey,I was here.That’s so cool!Greetings from Hainan,China -07/09/2025
 - [Aayushi raj] (https://github.com/aayushi404) Hello World!!
