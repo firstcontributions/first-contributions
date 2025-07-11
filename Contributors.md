@@ -4775,3 +4775,4 @@ asd
 - [Rodrigo Bravo](https://github.com/bravorod)
 -[FELIX]https://github.com/FELIX
 - [ROCHDI MOHAMMED AMINE](https://github.com/aminerochdi1)
+- [Ravi Katharotiya](https://github.com/Ravikathrotiya18) – I’m interested in web development and open-source. Always looking to learn new things and improve by contributing to real projects.
