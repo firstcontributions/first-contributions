@@ -207,6 +207,7 @@ vanakkam da Mapala...
 - [leokkyhh](https://github.com/leokkyhh) hi there
 - [Habel] (https://github.com/Habel2005) Buhaha! My evil plan begins with this commit... world domination via pull requests 🌍🐍 , Touched the repo. It is forever changed. You're welcome. 🧙‍♂️
 - [Muideen](https://github.com/Muideen27/)
+- [Akshat Rauthan](https://github.com/AkshatRauthan) - Hello Everyone! I am Akshat aka Lightning McAlan. Follow me to witness the rise of a Programming Legend...... ;)
 - [Vimal](https://github.com/Vimal-79) - My First contribution in Open Source Project, i like to connect with new people and like to experience new culture.
 - [Ziyue Zhou] (https://github.com/Oatsinthepine/) Hello, this is the practice of contributing to a open source project.
 - [Lianne Liu] (https://github.com/Zhizhen-Lianne-Liu) Want to try contributing to open source to learn new skills
