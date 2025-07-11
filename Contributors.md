@@ -3302,6 +3302,7 @@ Jyothish
 - [Gaaglab](https://github.com/gaaglab)
 - [satyam1024](https://github.com/satyam1024)
 - [Harishraj Selvakumar](https://github.com/ByteBender24)
+- Carina - my first contribution to an open-source project!
 - [Kyota Watanabe](https://github.com/axykot)
 - [stjepanDeveloper](https://github.com/stjepanDeveloper)
 - [romvcarlos](https://github.com/romvcarlos)
