@@ -4774,3 +4774,4 @@ asd
 - 🚀 [Chanchal Chaudhary](https://github.com/Chanchal2004) - Passionate about Full Stack Development | First-time OSS Contributor via OSCI 🚀
 - [Rodrigo Bravo](https://github.com/bravorod)
 -[FELIX]https://github.com/FELIX
+- [ROCHDI MOHAMMED AMINE](https://github.com/aminerochdi1)
