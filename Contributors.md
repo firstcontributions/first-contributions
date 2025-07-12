@@ -1,4 +1,3 @@
-
 # Contributors
 - [Kumar Nishant](https://github.com/K-Nishant-18) - First step toward open source contribution.
 - [Wang Chao](https://github.com/Alleys31) - Hello world.
