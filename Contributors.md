@@ -4798,3 +4798,4 @@ asd
 - [ROCHDI MOHAMMED AMINE](https://github.com/aminerochdi1)
 - [Monish Dasari](https://github.com/MDASARI2028) First contribution on 12-7-2025!
 -[Apurva Harsh](https://github.com/Apurvaharsh) First contribution
+- [Amran](https://github.com/amran) – Hello world! This is my first open source contribution on 12-7-2025🎉
