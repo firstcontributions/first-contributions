@@ -5,6 +5,7 @@
 - [Omar Eddari](https://github.com/omar-eddari) – Hi
 - [Balraj Choure](https://github.com/balraj009) – 🌟 First PR!
 - #comment line
+  [Ayush Chaudhary](https://github.com/Ayush-Chaudhary13)
 - [Hussien Ghaddar](https://github.com/Hsenghaddar) - Hello everyone, this is my first open source contribution
 - [Jana Krisna]- my first pr
 - [Yeshwanth Krishna](https://github.com/yeshwanth-kr) – Hello everyone, this is my first open source contribution!!
