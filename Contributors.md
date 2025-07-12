@@ -9,7 +9,8 @@
 - [Rzayev Abbasqulu](https://github.com/Rzayevv0) – Hello it's my first contribution!!
 - [Abhinav Dwivedi](https://github.com/Abhinavv-933) Namaste world , my first open source contributions !!
 - [Dhruv Karthik] (https://github.com/EmptyJug09) This is my first contribution on GitHub!
-- [Boyu Yang] (https://github.com/Severus-Yang0) - Hello! This is my first contribution!
+- [Gowshik] (https://github.com/gowshi11) Lets Dive into the World OF OpenSource,BAM!! 
+[Boyu Yang] (https://github.com/Severus-Yang0) - Hello! This is my first contribution!
 - [Jihyeon Jeon] (https://github.com/fujiena04) Hello World
 - [Xay Han] (https://github.com/XayHanmonty) Xay's here (first contributor)
 - [Craig Gray] (https://github.com/Craig-Scarn/) Hello from the vale South Africa 
