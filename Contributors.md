@@ -180,6 +180,7 @@ vanakkam da Mapala...
 - [Parth Kikani](https://github.com/kikani-parth) - Namaste from India! This is my first open-source contribution.
 - [Riddhi J](http://github.com/riddhij-7) - This is my first open-source contribution yay!
 - [Leah Boyd] (https://github.com/boydlm) - Excited to start a career in technical writing!
+- [Utkarsh Singh] (https://github.com/utkarsh884) - I have created PRs and merged them in my own repos as a learning step, this is my first contribution in a public repo of another user lol.
 - [Gustavo Mendes] (https://github.com/ghmmendes) - Hello everybody, this is my first contribution.
 - [Kian] (https://github.com/kiaann1/) - Hey :O
 - [breadlol64](https://github.com/breadlol64)
