@@ -83,7 +83,7 @@ Ahora haz un *commit* sobre estos cambios ejecutando el comando `git commit`:
 ```
 git commit -m "Add <tu-nombre> to Contributors list"
 ```
-cambiando `<tu-nombre>` por tu nombre.
+Cambiando `<tu-nombre>` por tu nombre.
 
 ## Sube (*Push*) tus cambios a GitHub
 
