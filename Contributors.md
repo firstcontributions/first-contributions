@@ -4753,6 +4753,7 @@ asd
 - [https://github.com/PrajwaL-N-TECHIE] - Hi There , I'm prajwal here !!!
 - [BAIM](https://github.com/BAIMOoo) - hello
 - [mulingHT](https://github.com/mulingHT) - 小猫老弟 coke
+- [Betel Yohannes](https://github.com/Benareyo) – Hellooo
 - [Rohit] - https://github.com/RohitKale1983
 - [Yash](https://github.com/Yashxp1) - Hello world!
 - [Ammar Hashmi](https://github.com/ammarhashmi113) - 🇵🇰 Hi from Pakistan, First open source contribution – 08/07/2025
