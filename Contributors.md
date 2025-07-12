@@ -1054,7 +1054,7 @@ Mohamed Farah
 - [Jony Kapash](https://github.com/JonyKapash) **Hello Everyone! Happy To Start My Open Source Journey!🎉👨‍💻**
  - [Mohan Singh](https://github.com/MohanSG)
  - [Mukund](https://github.com/mukundgupta)
-
+ -[Vincenzo Pugliese https://github.com/nokiotto80)
  - [HashimZ](https://github.com/HASHIM0312)
  - [OmarKHDR](https://github.com/OmarKHDR)
  - [Clement Ogol](https://github.com/Clem-Tee)
