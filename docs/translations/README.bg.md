@@ -114,7 +114,7 @@ git push origin <add-your-branch-name>
 Време да започнете да допринасяте и към други приекти. Ние сме съставили списък с проекти съдържащи лесни проблеми, които са лесни за начало. Проверете  [списъка от приекти в уеб приложението](https://firstcontributions.github.io/#project-list).
 
 ### [Допълнителни материали](../additional-material/git_workflow_scenarios/additional-material.md)
-
+### [https://github.com/roshanjossey/code-contributions]
 
 ## Уроци за иползването на други приложения
 
