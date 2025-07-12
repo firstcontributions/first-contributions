@@ -192,7 +192,7 @@ vanakkam da Mapala...
 - [Kian] (https://github.com/kiaann1/) - Hey :O
 - [breadlol64](https://github.com/breadlol64)
 - [VladimirGutuev](https://github.com/VladimirGutuev) Hi everyone my name is Vladimir, i'm Passionate about Machine Learning | BS Data Science Student
-- [Michael_Ramirez](https://github.com/BattleTaco)
+-[Pranjul](https://github.com/pranjul-jangra) I have made changes to the README.hi.md. Add table of contents and prerequisites section,Include comprehensive troubleshooting for common Git errors,Improve section organization and fix translation issues,Better organize tools section with descriptive tables
 - [Vivek Chowgule](https://github.com/ChowguleVivek)
 - [Roshan Kulal](https://github.com/roshan-29)
 - [Reshard Turner](https://github.com/GhostShepherd31) - Excited to make my first contribution
