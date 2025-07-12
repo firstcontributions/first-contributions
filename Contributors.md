@@ -184,6 +184,7 @@ vanakkam da Mapala...
 - [Adarsh Rangare](https://github.com/adarshrangare) - Software Developer
 - [James Kiongo Njihia](https://github.com/jameskiongo) - Software Developer
 - [Miro Kakkonen](https://github.com/MJKagone) - o/
+- [Saikat Hazra](https://github.com/saikat7890) - Software Developer
 - [ww34sel](https://github.com/w34sel) - Ahoi!
 - [Collins](https://github.com/xperia3110) - this is the first of my many opensource contribution, June 30th 2025.
 - [SunkeSruthi603](https://github.com/SunkeSruthi603/) - Hello! Thank you for this Project.
