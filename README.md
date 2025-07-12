@@ -214,6 +214,10 @@ replacing `your-branch-name` with the name of the branch you created earlier.
 
 ## Submit your changes for review
 
+## Introduction
+
++ This is a beginner-friendly open source project where contributors can learn and practice using Git and GitHub.
+
 If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
@@ -248,3 +252,7 @@ Now let's get you started with contributing to other projects. We've compiled a 
     <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_horizontal_blue.svg" width="201px">
   </a>
 </p>
+## Thanks
+
+Thanks to everyone contributing to this project!
+
