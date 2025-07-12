@@ -2078,6 +2078,7 @@
 - [Sabittwa Banerjee](https://github.com/strangely-true)
 - [krushnaapatil](https://github.com/Krushnaapatil)
 - [Ashmita120](https://github.com/Ashmita120)
+  [Harshil](https://github.com/HKB-code)
 - [Raunit Arya](https://github.com/RaunitArya)
 - [Christopher Faris](https://github.com/chrisF943)
 - [dev-knb](https://github.com/kimnambin)
