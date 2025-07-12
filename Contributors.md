@@ -4711,6 +4711,8 @@ Artem Ryabtcev
 - [Dhanika Botejue](https://github.com/Dhanika-Botejue) - Hey, this is my first open-source contribution. I attend Cameron Heights.
 - [yanj428](https://github.com/yanj428) - hello!!! im new here
 - [Jeremy](https://github.com/jefische) - Hi all, this is my first open source contribution.
+- [Aniruth](https://github.com/AniruthKarthik) - Yooo Yoo
+- [Vedant Gore](https://github.com/VedantGore07) - hello, this is my first open source contribution.
 - [aniruth] (https://github.com/AniruthKarthik) - Yooo Yoo
 - [lsy1973] (https://github.com/lsy1973) -  🚀 🚀 🚀!!!
 - [kpCoder](https://github.com/kpCoder2801) - Hi there, I'm a software developer from Vietnam. This is my first open-source contribution. 🚀   
