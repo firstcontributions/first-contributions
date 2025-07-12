@@ -81,6 +81,7 @@ Hello world.I'm Rohith and this is my first open source contribution on (7/8/202
 -[Clyde-Chen-JJ] (https://github.com/Clyde-Chen-JJ) - Officially entering the community 6/7/2025
 -[ArshiaAA9] (https://github.com/ArshiaAA9/first-contributions) - if you are reading this, i hope you have a great carrier ahead of you. 3/7/2025
 -[Mayank1105] (https://github.com/mayankagg1105) - Hello World . 6/7/2025
+-[Shushmitha A V R](https://github.com/shushmitha-29) - That's One small Step for me, My first step into opensource.
 -[Yangcancan0211] (https://github.com/Yangcancan0211) - Hello everyone！ 6/7/2025
 - [Anaymehra] (https://github.com/anaymehra/first-contributions) - I will be doing better, JSR 4/7/2025
 - [JavierMadrigalC] (https://github.com/JavierMadrigalC) Hola Mundo
