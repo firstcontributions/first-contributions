@@ -5,7 +5,6 @@
 - [Almish Hoda](https://github.com/almishhoda04) - Hi! This is Almish and this is my attempt to enter open source contributions!!
 - [Mohammed Omair Mohiuddin](https://github.com/Mohammed-Omair) - Hey everyone!, This is my very first open-source contribution - 5th July 2025
 - [tempo] (https://github.com/Saivamshi-git) - Hi
-- [Shushmitha AVR](https://https://github.com/shushmitha-29) - Hey, everyone this is my first ever GitHub contribution to open source - 6th July.
 - [F10T3D] (https:/github.com/F104T3D) - First contribution to open source! 6th july
 - [jw-MY] (https://github.com/Yeoh-JinWei) - Hello World! 你好世界！
 - [whiteDevil] (https://github.com/prasad-bigdp) - I did 05/07/2025
@@ -19,6 +18,7 @@
 -[Clyde-Chen-JJ] (https://github.com/Clyde-Chen-JJ) - Officially entering the community 6/7/2025
 -[ArshiaAA9] (https://github.com/ArshiaAA9/first-contributions) - if you are reading this, i hope you have a great carrier ahead of you. 3/7/2025
 -[Mayank1105] (https://github.com/mayankagg1105) - Hello World . 6/7/2025
+-[Shushmitha A V R](https://github.com/shushmitha-29) - That's One small Step for me, My first step into opensource.
 - [Anaymehra] (https://github.com/anaymehra/first-contributions) - I will be doing better, JSR 4/7/2025
 -[Vishal] (https://github.com/thevishaal26) Hello , this is my first contribution to the open soure - 03/07/2025
 -[Parv] (https://github.com/Parv1404) Hello, this is my first step in the open source world - 05/07/2025
