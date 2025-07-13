@@ -1087,6 +1087,7 @@ Mohamed Farah
 
 - [Jony Kapash](https://github.com/JonyKapash) **Hello Everyone! Happy To Start My Open Source Journey!🎉👨‍💻**
  - [Mohan Singh](https://github.com/MohanSG)
+  
  - [Mukund](https://github.com/mukundgupta)
  -[Vincenzo Pugliese https://github.com/nokiotto80)
  - [HashimZ](https://github.com/HASHIM0312)
@@ -1140,6 +1141,7 @@ Mohamed Farah
   - [Saba Siddique](https://github.com/sabasiddique1)
 -[Lakshay](https://github.com/lakshay-lg) 
 - [Sury Delgado](https://github.com/surydelgado)
+- [Shahnawaz Hussain](https://github.com/shahnawaz-hussaink) Hi, this is my first contribution to an open source
   [charudutt pachori] (https://github.com/charudutt358)
  - [Mateusz Sopyla](https://github.com/Sakii470)
  - [Ifeoluwa Adebisi](https://github.com/SEIfeoluwa) 
