@@ -552,6 +552,7 @@ Achal Agrawal
 - [Masayoshi]
 - [Amélie Avery](https://github.com/amelieav)
 - [Maulik Beladiya](https://github.com/maulikb). Let's build tomorrow now.
+- [Holly Grimes](https://github.com/hollygms) My first contribution! Happy to give it a shot!
 - [Courtney Daniels](https://github.com/cdjdaniels)
 - Hi! I'm [Ham Seoyeon](https://github.com/makee-ham). Just to clarify — I'm not that kind of *ham*🐷😉
 - [Priyanshu Bhatt] First contribution, will do more and more in future and present.
