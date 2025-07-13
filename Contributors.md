@@ -3088,6 +3088,7 @@ Jyothish
 - [J-Kosm](https://github.com/J-Kosm)
 - [Yunus Adiyaman](https://github.com/yervaa)
 - [Areeb Ahmad](https://github.com/AreebAhmad-02)
+- [Wojtek Szymilowski](https://github.com/wszymilo)
 - [BOUKARI Marfourz](https://github.com/Marfourz)
 - [Hillary Nyakundi](https://github.com/HillaryNyakundi)
 - [Claudio Jara](https://github.com/claudiojara)
