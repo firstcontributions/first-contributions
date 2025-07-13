@@ -900,8 +900,8 @@ Solomon
 - [Rayid](https://github.com/rayidali)
 - [Raja Mohammed](https://gitbuh.com/RajamdGamer)
   [Douglas souza dos santos](https://github.com/Fera-programador)
--[Arun Kumar](https://github.com/Arun-AK-27/)
--[Praneet Biswal](https://github.com/Praneetb2929)
+  -[Arun Kumar](https://github.com/Arun-AK-27/)
+  -[Praneet Biswal](https://github.com/Praneetb2929)
 - [Shubhankar Chauhan](https://github.com/Shubhankar1211)
   -  [Sayon Coulibaly](https://github.com/chococoul)
 - [Austin Cook](https://github.com/austin-cook)
@@ -1037,8 +1037,8 @@ Mohamed Farah
  - [Syang] (https://github.com/Syang111)
  - [Kovi_The_Handsome] (https://github.com/KoviSingh)
  -[KobeVLM](https://github.com/KobeVLM)
- -[KobyBuchanan](https://github.com/KobyBuchanan)
--[quiquemonroy](https://github.com/quiquemonroy) Thanks! 
+  -[KobyBuchanan](https://github.com/KobyBuchanan)
+ -[quiquemonroy](https://github.com/quiquemonroy) Thanks! 
 - [sfreagin](https://github.com/sfreagin)
  - [VivekDahiya](https://github.com/VivekDahiya06)
  - [Saikatur Rahman Kaium](https://github.com/S-rahmanKaium)
@@ -1054,7 +1054,7 @@ Mohamed Farah
  - [Sudharsan] (https://github.com/Sudharsan25)
  - [Anjayy Mabar](https://github.com/yoksipmksi)
  -[Mohammad Ahmad](https://github.com/MohammadAh2002)
- -[Rahul Shah](https://github.com/NeuralSnax)
+  -[Rahul Shah](https://github.com/NeuralSnax)
  - [Allan Alton](https://github.com/alton47)
  - [chibuezeonejeme](https://github.com/ChibuezeOnejeme)
  -[Pathan Lakir khan](https://github.com/Lakirkhan)
@@ -1072,7 +1072,7 @@ Mohamed Farah
  - [IamJayPrakash](https://github.com/IamJayPrakash)
  - [Lawan Mai](https://github.com/zlKxrsan)
  - Wex47
- 
+
 - [Khang Pham](https://github.com/Khang080704) Hi, this is my first contribution to an open source
 
 - [Jony Kapash](https://github.com/JonyKapash) **Hello Everyone! Happy To Start My Open Source Journey!🎉👨‍💻**
@@ -1248,7 +1248,7 @@ Mohamed Farah
  - [Priyadarshini Nadar](https://github.com/walkrantrolls)
  - [Mohrip] (https://github.com/Mohrip)
  - [Sasank Reddy](https://github.com/sasankreddy19)
-  -[Milan Rajanih](https://github.com/milanrajani)
+    -[Milan Rajanih](https://github.com/milanrajani)
  - [Kewoda Joanitah](https://github.com/KewodaJoanitah)
  - [Amrutha Varshini](https://github.com/Varshini1905)
  - [Sathishkumar Thirumalai](https://github.com/sathishkumartheta)
@@ -1301,49 +1301,49 @@ Mohamed Farah
  -[Alejandra_Salcedo] (https://github.com/asalcedo07/first-contributions.git)
  - [Alaoui El Mrani Youssef] (https://github.com/Yousseflamrani)
  -[Hamisi Bakari](https://github.com/hamisiibunbeka)
- -[Anting Deng](https://github.com/Twilight521)
- -[Baldur Logi](https://github.com/baldurlogi)
- -[Aditya Pawar](https://github.com/AdityaByte)
- -[W Hansen](https://github.com/BigBrothersen)
- -[Abhijit Tupe](https://github.com/abhijittupe)
- -[Omprakash Kadur](https://github.com/OmprakashKadur)
- -[Atsu-Taiyo] (https://github.com/Atsu-Taiyo)
- -[sjgithubber](https://github.com/sjgithubber)
- -[Xiaojian Zhuang](https://github.com/pandalow)
- -[Stefan Nadler](https://github.com/ststnadle)
- -[João Gabriel Loiola Lima] (https://github.com/jg323/first-contributions)
- -[daitougoose](why not see me )
- -[Ben Samy] (https://github.com/b33ni3)
- -[Yin Heaven](https://github.com/YinHeaven)
-Anshi
--[Dhriti Roy]
--[Pranjal kusnake]
+  -[Anting Deng](https://github.com/Twilight521)
+  -[Baldur Logi](https://github.com/baldurlogi)
+  -[Aditya Pawar](https://github.com/AdityaByte)
+  -[W Hansen](https://github.com/BigBrothersen)
+  -[Abhijit Tupe](https://github.com/abhijittupe)
+  -[Omprakash Kadur](https://github.com/OmprakashKadur)
+  -[Atsu-Taiyo] (https://github.com/Atsu-Taiyo)
+  -[sjgithubber](https://github.com/sjgithubber)
+  -[Xiaojian Zhuang](https://github.com/pandalow)
+  -[Stefan Nadler](https://github.com/ststnadle)
+  -[João Gabriel Loiola Lima] (https://github.com/jg323/first-contributions)
+  -[daitougoose](why not see me )
+  -[Ben Samy] (https://github.com/b33ni3)
+  -[Yin Heaven](https://github.com/YinHeaven)
+ Anshi
+ -[Dhriti Roy]
+ -[Pranjal kusnake]
 - [Bryan Joy] (https://github.com/BlitzelR)
 - [Balaji Jayakumar](https://github.com/Balaji93bobby)
  -[George Tannous](https://github.com/GeorgeTannous98) 
- -[Deepak Sharma](https://github.com/DeepakSharma46)
+  -[Deepak Sharma](https://github.com/DeepakSharma46)
  - [regiiik]
-  sowmya gandhamaneni
+    sowmya gandhamaneni
 - [Justin Monubi] (https://github.com/MonubiJustin)
 - [Baisnabi Rout](https://github.com/Reileen00)
 - [Rachit Singh](https://github.com/RachitSinghh)
 - [Mahesh Badampudi](https://github.com/badampudimahesh2005)
  -[Phanindra Naralasetty] (https://github.com/naralasetty99)
- -[Anne-Okingo](https://github.com/Anne-Okingo)
- -[moppdev](https://github.com/moppdev)
+  -[Anne-Okingo](https://github.com/Anne-Okingo)
+  -[moppdev](https://github.com/moppdev)
 - [Resu19680](https://github.com/Resu19680)
 - [Abdul-AMA](https://github.com/Abdul-AMA)
 - [Manju Vasanth](https://github.com/ManjuVasanth)
  -[VincentChiang621](https://github.com/VincentChiang621)
   -[Kashyap K R](https://github.com/Kashyap888)
- -[Diyacoder-123](https://github.com/Diyacoder-123)
- -[Rohan]
- -[Puneet NJ](https://github.com/puneet-nj)
- -[Mohammad Hashim](https://github.com/mohammadhashim135)
- -[Paulina Udeh](https://github.com/paulina351)
- -[Harsh Mawalkar](https://github.com/Harsh-Mawalkar)
- -[Sergio A B Madrigal](https://github.com/SergioABMadrigal)
- -[geoffreyFernando](https://github.com/geoffreyFernando)
+  -[Diyacoder-123](https://github.com/Diyacoder-123)
+  -[Rohan]
+  -[Puneet NJ](https://github.com/puneet-nj)
+  -[Mohammad Hashim](https://github.com/mohammadhashim135)
+  -[Paulina Udeh](https://github.com/paulina351)
+  -[Harsh Mawalkar](https://github.com/Harsh-Mawalkar)
+  -[Sergio A B Madrigal](https://github.com/SergioABMadrigal)
+  -[geoffreyFernando](https://github.com/geoffreyFernando)
  - [Ludmi Lopez](https://github.com/DamperDoor56)
  - [LaMinYou](https://github.com/LaMinYou)
  - [Sandeep Narahari](https://github.com/Sandeep-Narahari)
@@ -4830,3 +4830,4 @@ asd
 - Dheeraj Mishra – First step in openSource, Excited and ready to learn.
 - [SIva Saketh](https://github.com/sivasaketh)
 - [Bridget Meabh](github.com/tulipcrash) - :3
+- [YQX0 (YQX)](https://github.com/YQX0) – First step in openSource, Really Excited.
