@@ -1026,6 +1026,7 @@ Mohamed Farah
 - [sjh](https://github.com/JongHyeonSong) 응애, 난 아기 개발자
 - [J-Ezra](https://github.com/j-ezra)
  -[KhanBuilds](https://github.com/KhanBuilds) I WAS HERE.
+ -[Kerzania Macalde](https://github.com/Erudite098) Because I am committed. Thanks G!
 - [Chirag Sehgal](https://github.com/chirAAG-sehgal) Just trying it out
 - [Elaine Ibanez](https://github.com/elaineibanez)
   [ReNothingg](https://github.com/ReNothingg)
