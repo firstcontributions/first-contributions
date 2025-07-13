@@ -4143,6 +4143,7 @@ Jyothish
 - Derrick Wijaya
 -[Muhammad Zidan Fatonie](https://github.com/mzf11125)
 -[Nicholas Franshel Kurniawan](https://github.com/franshel)
+-[Sanskar shinde](https://github.com/sanskarthecreator)
 -[Javier Almer](https://github.com/merzxyz)
 - [Matthew Oliver](https://github.com/IVsaw)
 - [cpcap](https://github.com/cpcap1214)
