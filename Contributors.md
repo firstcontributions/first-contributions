@@ -899,6 +899,7 @@ Solomon
 - [Delete-Me](https://github.com/delete-me)
 - [Mate Mrse](https://github.com/senf-f)
 -  [Kayo rodrigues]
+- [Jose-Marie Laourou](https://github.com/angelinDev)
 - [Ananya](https://github.com/ItsMeAnanyaSrivastava)
 - [Saksham](https://github.com/Saksham67)
 - [Rayid](https://github.com/rayidali)
