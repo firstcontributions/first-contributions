@@ -155,6 +155,7 @@ vanakkam da Mapala...
 -[Harsha](https://github.com/HarshaTalatala)-This is my first open source contribution.
 -[Maya](https://github.com/UmayaJayasuriya)-This is my first open source contribution.
 -[Neel Sane](https://github.com/superdudeneel)-This is my first open source contribution.
+-[Faith](https://github.com/fch7ea)-First contribution; practice.
 -[Avital](https://github.com/Avital2025)- A beginner developer who loves solving problems and aims high. Aspiring to create solutions that make a lasting impact.
 -[Rayan] (https://github.com/Arbenz-007)- Beginning my journey as open source contribution. This is my first contribution.
 -[Jaiguru2992](https://github.com/jai2992) - hi all started with my first contribution i guess doesn't know what is going to happen in the future.
