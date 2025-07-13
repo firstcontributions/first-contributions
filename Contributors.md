@@ -7,6 +7,7 @@
 - [Shree-444](https://github.com/Shree-444) - hola amigo, kaise ho theek ho? (13 july 2025)
 - [Omar Eddari](https://github.com/omar-eddari) – Hi
 - [Balraj Choure](https://github.com/balraj009) – 🌟 First PR!
+- [Fernando Navas](https://github.com/fnavas) - Hello, this is my first contribution
 - #comment line
   [Ayush Chaudhary](https://github.com/Ayush-Chaudhary13)
 - [Hussien Ghaddar](https://github.com/Hsenghaddar) - Hello everyone, this is my first open source contribution
