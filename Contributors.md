@@ -76,6 +76,7 @@ Hello world.I'm Rohith and this is my first open source contribution on (7/8/202
 [octane001] (https://github.com/octane001) - My first open source contibution.
 - [Mafnor] - I'm just learning here
 - [Minh K] (https://github.com/minh-khuc) - It's 7/8/2025 now
+- [Jis Joe](https://github.com/jisjoe22) - my first contribution
 - [Minh VS] (https://github.com/Khucs)
 - [Kiran](https://github.com/Kiran-Qlik) - My First Git commit 07/06/2025
 - [Anastasia](https://github.com/anastasia-lobareva) My first contribution!
