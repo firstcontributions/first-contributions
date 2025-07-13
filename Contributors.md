@@ -2022,6 +2022,7 @@ Matthew Burgos
 - [Yoshitaro Miyoshi]
 - [Sigma](https://github.com/sigma7863)
 - [Karan Maheshwari](https://github.com/krnmaheshwari09)
+- [Pinku Kumar](https://github.com/kumar-pinku)
 - [Ivo-velev](https://github.com/Ivo-velev)
 - [INPATHTAMILAN](https://github.com/tamilan3)
 - [Santiago Alcala] (https://github.com/santiagoyeal)
