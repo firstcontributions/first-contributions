@@ -484,6 +484,7 @@ Achal Agrawal
 - [Vishwam](https://github.com/vishwamz)
 - [Chandima Maduwantha](https://github.com/chandima2000)
 - [manhtruong03.it](https://github.com/manhtruong03) First contribution on GitHub 14/06/2025
+- [ZiPPO](https://github.com/ZiPPO7777) First contribution on GitHub 14/07/2025
 - [Bill](https://github.com/Bill-Pu/first-contributions) First contribution on GitHub 14/06/2025
 - [Caz](https://github.com/Caz1609)
 - [Otto Lukacs](https://github.com/ottolukacs)
