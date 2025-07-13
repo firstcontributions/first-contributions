@@ -696,6 +696,7 @@ Achal Agrawal
 - [Lina Kolte](https://github.com/Lina Kolte)
 - [CoffeePuma55644](https://github.com/CoffeePuma55644)
 - [Jimmy Navarro](https://github.com/Navarriux)
+- [Patrick Chibale](https://github.com/Par9890)
   Mohamed Farah
   Essa Faisal Isa Ali Aden
   Bukhaari Issa
