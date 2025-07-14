@@ -4889,3 +4889,4 @@ asd
 - [fasullo](https://github.com/fasullo90) - My first Contribution
 - [nicolle](https://github.com/nicllebrivio) Contributions lead to progress!
 - [mamma]([https://github.com/omar-eddari](https://github.com/annafabi64)) – Hi
+- [lore](https://github.com/lazialore) – Hi
