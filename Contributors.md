@@ -1,5 +1,6 @@
 # Contributors
 - [Tushar Pardhe](https://github.com/tusharpardhe18) - My First Contribution
+- [Jasdeep Chahal](https://github.com/JasdeepChahal6) - My first Contribution 
 - [Yuvraj Singh](https://github.com/Yuvraj-777) - My First Contributing Looking Forward for More From India.
 - [Giuseppe Lomasto](https://github.com/Giuppx) - Hi everyone, this is my first contribution from Italy!
 - [Ahmad Shatnawi](https://github.com/ahmadsh2007) - Hello World! This is my first contribution from Jordan!!
