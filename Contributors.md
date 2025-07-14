@@ -4859,4 +4859,4 @@ asd
 - [Muhammad Mubashar](https://github.com/Muhammad-Mubashar516)
 - [Emirhan](https://github.com/emirhan854) - Hi there, I'm Emirhan
 - [Phomahdo](https://github.com/Phomhado) - Hello World from Brazil! My first open-source contribution
-- [AmitGhosh](https://www.youtube.com/watch?v=2do4WZ0e8UU&t=1172s) - Today is 14th of July 2025
+- [AmitGhosh] - Today is 14th of July 2025
