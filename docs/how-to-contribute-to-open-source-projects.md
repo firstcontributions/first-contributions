@@ -1,4 +1,4 @@
-# How to Contribute to Open Source: A Comprehensive Guide for Beginners
+# How to Contribute to Open Source: A Comprehensive Guide for Beginners.
 
 TL;DR If you're eager to do your first pull request to an open source project, follow the instructions in [Readme](https://github.com/firstcontributions/first-contributions)
 
