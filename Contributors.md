@@ -80,6 +80,7 @@ Hello world.I'm Rohith and this is my first open source contribution on (7/8/202
 - [Ankit-Singh] (https://github.com/Ankit300302) - First step into Open Source
 [octane001] (https://github.com/octane001) - My first open source contibution.
 - [Mafnor] - I'm just learning here
+- [Devadhathan Chandran] ((https://github.com/devadhathanc) - I'm nowhere near.
 - [Minh K] (https://github.com/minh-khuc) - It's 7/8/2025 now
 - [Jis Joe](https://github.com/jisjoe22) - my first contribution
 - [Minh VS] (https://github.com/Khucs)
