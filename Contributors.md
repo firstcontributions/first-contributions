@@ -4878,3 +4878,4 @@ asd
 - [Subramanian Ramanathan](https://github.com/subburamanathan-7) Software Engineer - Bangalorex
 [Sushil kumar](https://github.com/SUSHIL0303) My first contribution
 - [Isabel](https://github.com/isabelbri) just getting started
+- [Vanja Vizi]  (https://vanjavizi.com/) Software Engineer - Belgrade 🚀🚀🚀
