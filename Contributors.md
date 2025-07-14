@@ -1748,6 +1748,7 @@ Matthew Burgos
 - [Sabona Waktole](https://github.com/SabonaWaktole)
 - [Anna Revutsky](https://github.com/AnnaRevutsky)
 - [Franco Castro](https://github.com/francocastro11)
+- [Sonny Mandakhnaran](https://github.com/leregdos)
 - [Satyam Mishra](https://github.com/satyPunk)
 - [Saurav Singh](https://github.com/sauravsingh3021)
 - [Peyman Valikhanli](https://github.com/peymanvalikhanli)
