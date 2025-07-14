@@ -4866,3 +4866,5 @@ asd
 - [GPlemon](https://github.com/GPlemon) - Hello, world!
 - [Sai Dhakshin](https://github.com/SaiDhakshin) - Hi There, I'm sai. Love to start contributing to FOSS
 - [Aryan Tiwari](https://github.com/Code-Builder-io)- 🚀 GSoC in progress!
+- [Krishi Miyani](https://github.com/KrishMiyani13)
+- [Krishi Miyani](https://github.com/KrishMiyani13)
