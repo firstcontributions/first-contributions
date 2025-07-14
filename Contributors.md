@@ -4881,3 +4881,4 @@ asd
 - [Vanja Vizi]  (https://vanjavizi.com/) Software Engineer - Belgrade 🚀🚀🚀
 - [andy](https://github.com/andygittt) just getting started
 - [ilich](https://github.com/ilichsfo) just getting started
+- [lozio](https://github.com/loziofra) just getting started
