@@ -13,6 +13,7 @@
 - [Fernando Navas](https://github.com/fnavas) - Hello, this is my first contribution
 - #comment line
   [Ayush Chaudhary](https://github.com/Ayush-Chaudhary13)
+- [Shubham Kumar](https://github.com/sk244194) - Starting my Open Source Journey
 - [Hussien Ghaddar](https://github.com/Hsenghaddar) - Hello everyone, this is my first open source contribution
 - [Jana Krisna]- my first pr
 - [Yeshwanth Krishna](https://github.com/yeshwanth-kr) – Hello everyone, this is my first open source contribution!!
