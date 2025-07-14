@@ -1452,6 +1452,7 @@ Anshi
 - [Adão Araujo](https://github.com/adao-araujo)
 - [Filippo Iori](https://github.com/Girolamone)
 - [Muhammad Anas](https://github.com/AnasJadoon31)
+- [Sereinne](https://github.com/sereinne)
 - [Aditya joshi](https://github.com/Aditya44234)
 - [Dalbeer Singh Toor](https://github.com/dalbeersinghtoor)
 - [Giselle]
