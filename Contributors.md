@@ -1,6 +1,7 @@
 # Contributors
 - [Tushar Pardhe](https://github.com/tusharpardhe18) - My First Contribution
 - [Yuvraj Singh](https://github.com/Yuvraj-777) - My First Contributing Looking Forward for More From India.
+- [Argha Saha](https://github.com/Argha782) - Hello everyone, this marks the start of my open source journey...🌟🌟🌟
 - [Giuseppe Lomasto](https://github.com/Giuppx) - Hi everyone, this is my first contribution from Italy!
 - [Ahmad Shatnawi](https://github.com/ahmadsh2007) - Hello World! This is my first contribution from Jordan!!
 - [Kumar Nishant](https://github.com/K-Nishant-18) - First step toward open source contribution.
