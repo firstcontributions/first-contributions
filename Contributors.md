@@ -4864,6 +4864,7 @@ asd
 - [Phomahdo](https://github.com/Phomhado) - Hello World from Brazil! My first open-source contribution
 - [Anirudh Sharma](https://github.com/anirudhqwerty) - Hello from India!! , My first PR
 - [GPlemon](https://github.com/GPlemon) - Hello, world!
+- [ArunDharani](https://github.com/ArunDharani) - Just Getting Started !
 - [Sai Dhakshin](https://github.com/SaiDhakshin) - Hi There, I'm sai. Love to start contributing to FOSS
-- [Aryan Tiwari](https://github.com/Code-Builder-io)- 🚀 GSoC in progress!
+- [Aryan Tiwari](https://github.com/Code-Builder-io) - 🚀 GSoC in progress!
 - [Gayathri K Binoy](https://github.com/Gayathri-K-Binoy) Contributions lead to progress! 
