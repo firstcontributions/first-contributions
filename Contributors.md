@@ -346,6 +346,7 @@ I'm doing some minor changes for practice.
 - [Lavkush] (https://github.com/Lavkush24) Frist dive in the world of Open source on 19/06/2025!
 Achal Agrawal
 - [Julian Müller] (https://github.com/julianmllr) für fortnite
+- [Stephen C] (https://github.com/SCor87) Finally fixed my SSH key issue and making this a first contribution. First of many, I hope!
 - [Beatriz Gonçalves](https://github.com/beatrizvsgoncalves)
 - [Sanket Khambal](https://github.com/Sanket-Khambal) My first open source contribution!!! 
 - [Anurag Pandey](https://github.com/anurag99x) My first contribution to open source on 19/06/2025!
