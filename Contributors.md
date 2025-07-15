@@ -101,7 +101,9 @@
 - [Kiran](https://github.com/Kiran-Qlik) - My First Git commit 07/06/2025
 - [Kiran Manoj](https://github.com/KiranManoj) - My first ever open source contribution - 15/07/2025
 - [Anastasia](https://github.com/anastasia-lobareva) My first contribution!
+- # [Aparna](https://github.com/Aps136) - My First contribution! :)
 - [Aparna](https://github.com/Aps136) - My First contribution! :)
+- [Hadiqa](https://github.com/Hadiquaa) - First open source!
 - [BChaput] (https://github.com/BrianChaput) -Howdy World! 7/3/2025
 - [OsirisNexus] (https://github.com/osirisNexus) - First Open Src Contribution on the 4th of July!!! 07/04/2025
 - [Aon] (https://github.com/attavon) - My first contribution! -[thebinarycoder] (https://github.com/BhavanaNannuru) - Thanks for the repo! Learning to contribute!!
