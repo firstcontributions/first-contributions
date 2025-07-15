@@ -140,6 +140,7 @@ Hello world.I'm Rohith and this is my first open source contribution on (7/8/202
 -[Ali] (https://github.com/ali8646) - 
   Hemank 
 -[myunghun](https://github.com/Dinosea-team) - Hello World. 
+-[Sanjusri-Dugyala](https://github.com/Sanjusr1) - Here's my first step for upcoming journey!
 -[reza] (https://github.com/rez-w-laban) - hi very excited to start my journey!! 
 -[Aditya] (https://github.com/Aditya-githubbb) - Hey guys, this is my first contribution to open source made on - 02/07/2025 
 Hello guys, My name is Milad Kheradmand.
