@@ -53,6 +53,7 @@ Hello world.I'm Rohith and this is my first open source contribution on (7/8/202
 - [Minh K] (https://github.com/minh-khuc) - It's 7/8/2025 now
 - [Minh VS] (https://github.com/Khucs)
 - [Kiran](https://github.com/Kiran-Qlik) - My First Git commit 07/06/2025
+- [Kiran Manoj](https://github.com/KiranManoj) - My first ever open source contribution - 15/07/2025
 - [Anastasia](https://github.com/anastasia-lobareva) My first contribution!
 -[BChaput] (https://github.com/BrianChaput) -Howdy World! 7/3/2025
 -[OsirisNexus] (https://github.com/osirisNexus) - First Open Src Contribution on the 4th of July!!! 07/04/2025  
