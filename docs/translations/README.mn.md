@@ -126,15 +126,15 @@ git push -u origin your-branch-name
 
 ## Submit your changes for review
 
-If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
+Гитхаб дээрх рэпо руу очмогц `Compare & pull request` товчлуур харагдах болно. Уг товчлуур дээр дарснаар шинэ нэгтгэх хүсэлт (pull request) үүсгэх хуудас гарч ирнэ.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
-Дараа нь, нэгтгэх хүсэлтээ илгээнэ.
+Дараа нь нэгтгэх хүсэлтээ илгээнэ.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-Таны хүсэлтийг бид хүлээн аваад автоматаар код бааздаа нэгтгэсэн байх болно. Энэ талаар танд бүртгэлтэй и-мейл хаяг дээр чинь мэдэгдэл ирнэ.
+Таны хүсэлтийг бид хүлээн аваад автоматаар код бааздаа нэгтгэсэн байх болно. Энэ талаар бүртгэлтэй и-мейл хаяг дээр чинь мэдэгдэл ирнэ.
 
 ## Одоо яг яах билээ?
 
