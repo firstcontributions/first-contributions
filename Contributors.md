@@ -93,6 +93,7 @@ Hello world.I'm Rohith and this is my first open source contribution on (7/8/202
 - [Jis Joe](https://github.com/jisjoe22) - my first contribution
 - [Minh VS] (https://github.com/Khucs)
 - [Kiran](https://github.com/Kiran-Qlik) - My First Git commit 07/06/2025
+- [Kiran Manoj](https://github.com/KiranManoj) - My first ever open source contribution - 15/07/2025
 - [Anastasia](https://github.com/anastasia-lobareva) My first contribution!
 - [Aparna](https://github.com/Aps136) - My First contribution! :) 
 - [BChaput] (https://github.com/BrianChaput) -Howdy World! 7/3/2025
