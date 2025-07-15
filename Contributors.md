@@ -10,6 +10,7 @@
 - [Giuseppe Lomasto](https://github.com/Giuppx) - Hi everyone, this is my first contribution from Italy!
 - [Piyush Pratap](https://github.com/PiyushPratap10) - I am starting from here and will go in Google someday for sure.
 - [Tabassum Shaikh](https://github.com/TabassumSK) - Hello, I am Starting my Contribution journey to make impact on Real World.
+- [Kathan Soni](https://github.com/kathan219) - Hii, I am learning how to contribute to open source projects.
 - [Ahmad Shatnawi](https://github.com/ahmadsh2007) - Hello World! This is my first contribution from Jordan!!
 - [Kumar Nishant](https://github.com/K-Nishant-18) - First step toward open source contribution.
 - [Alokik Garg](https://github.com/alokikgarg)
