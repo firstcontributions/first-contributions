@@ -34,6 +34,7 @@
 - [Pawan Kumar](https://github.com/pawan2088)
 - [Ravi Shastri](https://github.com/arnavtumbde)
 - [Ahmed Nosir](https://github.com/egycondor)
+- [MhmdSiraj]
 - [Yanick De la Torre](https://github.com/Yank2901)
 - [MumbaiIndians]
 - [Nirajan Dhungel](https://github.com/nirajandhungel)
