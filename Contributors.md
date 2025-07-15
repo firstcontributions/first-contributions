@@ -1,6 +1,7 @@
 # Contributors
 - [Sean.K](https://github.com/itsmrseantoo) - Hello World from Taiwan. My first Contribution
 - [Tushar Pardhe](https://github.com/tusharpardhe18) - My First Contribution
+- [Shivam Mishra](https://github.com/shivgithub1234) - Feeling happy for my first contribution
 - [Rajeev Krishna](https://github.com/rajeevkm68) - My First Contribution
 - [Jasdeep Chahal](https://github.com/JasdeepChahal6) - My first Contribution 
 - [Rinsha Mol K S](https://github.com/rinshamol) - Exploring the world of open source with curiosity and code ✨
