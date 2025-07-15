@@ -2920,6 +2920,7 @@ Jyothish
 - [midhun](https://github.com/3idhun)
 - [Bonga M](https://github.com/BongaManzini)
 - [Yiitalp] (https://github.com/Yiitalpp)
+- [rwchu] (https://github.com/rwchu)
 - [Chuffed](https://github.com/Chuffed-Code)
 - [PangWithaPang](https://github.com/PangWithaPang)
 - [Anal joseph](https://github.com/anal96)
