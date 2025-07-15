@@ -1,7 +1,5 @@
 # Contributors
 
-<<<<<<< HEAD
-
 - [Tushar Pardhe](https://github.com/tusharpardhe18) - My First Contribution
 - # [Jasdeep Chahal](https://github.com/JasdeepChahal6) - My first Contribution
 - [Sean.K](https://github.com/itsmrseantoo) - Hello World from Taiwan. My first Contribution
@@ -9,7 +7,6 @@
 - [Rajeev Krishna](https://github.com/rajeevkm68) - My First Contribution
 - [Jasdeep Chahal](https://github.com/JasdeepChahal6) - My first Contribution
 - [Rinsha Mol K S](https://github.com/rinshamol) - Exploring the world of open source with curiosity and code ✨
-  > > > > > > > upstream/main
 - [Yuvraj Singh](https://github.com/Yuvraj-777) - My First Contributing Looking Forward for More From India.
   [Anandu Prasannan](https://github.com/AnanduPrasannan) -For the betterment of humanity
 - [Argha Saha](https://github.com/Argha782) - Hello everyone, this marks the start of my open source journey...🌟🌟🌟
@@ -51,7 +48,6 @@
   =======
   [Sravya](https://github.com/srisravyapsnv) - Hello! This is my first open source contribution.
   [Codingwithriha](https://github.com/codingwithriha) - Hello! This is my first open source contribution.
-  > > > > > > > upstream/main
 - This is Mihri's first contribution :)
 - [Krishna Moghe] (https://github.com/KrishnaMoghe)
 - [Nowres Al-Rubaie] (https://github.com/N-Al-Rubaie) Hi, check out my GitHub page.
@@ -324,7 +320,6 @@
 - # [Rahul Kumar](https://github.com/rahul-aws) This is my first commit, I want to go for more. Thank you.
 - [AKSHITHA] The Beginning! -[Aliya syed] Hey, y'all
 - [Rahul Kumar](https://github.com/rahul-aws) This is my first commit, I want to go for more. Thank you. -[Neehara Prajesh](https://github.com/neehubee) My First Commit!!
-  > > > > > > > upstream/main
 - [Anas Ansari] (https://github.com/moansari1234) Ee sala cup namdu!!!!
 - [glarerena](https://github.com/glarerena)
 - [Ayman Mouhcine] (https://github.com/aymane66)
