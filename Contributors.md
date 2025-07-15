@@ -4892,3 +4892,4 @@ asd
 - [lore](https://github.com/lazialore) – Hi
 - [hipo](https://github.com/hipokesrl) WE DID IT!!!
 - [iker](https://github.com/iker-sr) Hello, GitHub World!
+- [kenshirou](https://github.com/kenta2023) I am champion!
