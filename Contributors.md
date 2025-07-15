@@ -38,6 +38,7 @@
 - [Eduardo Madid](https://github.com/EduardoMadid) First contribution!
 - [Jérôme Bouteveille](https://github.com/Jerome-CM) Hi everyone, my third contribution projet ! 07/11/2025 from France
 [Sravya](https://github.com/srisravyapsnv) - Hello! This is my first open source contribution.
+[Codingwithriha](https://github.com/codingwithriha) - Hello! This is my first open source contribution.
 - This is Mihri's first contribution :)
 - [Krishna Moghe] (https://github.com/KrishnaMoghe)
 - [Nowres Al-Rubaie] (https://github.com/N-Al-Rubaie) Hi, check out my GitHub page.
