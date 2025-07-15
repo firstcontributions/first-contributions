@@ -8,6 +8,7 @@
   [Anandu Prasannan](https://github.com/AnanduPrasannan) -For the betterment of humanity
 - [Argha Saha](https://github.com/Argha782) - Hello everyone, this marks the start of my open source journey...🌟🌟🌟
 - [Giuseppe Lomasto](https://github.com/Giuppx) - Hi everyone, this is my first contribution from Italy!
+- [Piyush Pratap](https://github.com/PiyushPratap10) - I am starting from here and will go in Google someday for sure.
 - [Ahmad Shatnawi](https://github.com/ahmadsh2007) - Hello World! This is my first contribution from Jordan!!
 - [Kumar Nishant](https://github.com/K-Nishant-18) - First step toward open source contribution.
 - [Alokik Garg](https://github.com/alokikgarg)
@@ -44,6 +45,7 @@
 - This is Mihri's first contribution :)
 - [Krishna Moghe] (https://github.com/KrishnaMoghe)
 - [Nowres Al-Rubaie] (https://github.com/N-Al-Rubaie) Hi, check out my GitHub page.
+- [Mohammed Abdulwahab] (https://github.com/Mohammed-Abdulwahab22) Hi, this is my first contribution.
 - [Samarth Keshari](https://github.com/Samarth-3910) - Hello World! This is my first open source contribution. Excited to be a part of the open source community!
 - [Jana Krisna]- my first fork and change
 - [Maya Kanani] (https://github.com/M4y4Ti4)
@@ -4910,3 +4912,6 @@ asd
 - [Ragini Singh](https://github.com/raginisingh)-My first Contribution
 - [Larson](https://github.com/lixianphy)
 - [Aanchal Jha](https://github.com/aanchaljha7)-Hii!  my first contribution one commit closer to GirlScript Summer of Code 2025! 🚀✨
+- Aanchal Jha
+-[SAMYAKBORKAR](https://github.com/SamyakBorkar)
+
