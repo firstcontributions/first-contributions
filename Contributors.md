@@ -47,7 +47,6 @@
 - This is Aryan's first contribution. Looking for more! [Discord](https://discordapp.com/users/r._.yann), [Github](https://github.com/aryanriyahi)
 - [Eduardo Madid](https://github.com/EduardoMadid) First contribution!
 - [Jérôme Bouteveille](https://github.com/Jerome-CM) Hi everyone, my third contribution projet ! 07/11/2025 from France
-  <<<<<<< HEAD
   [Sravya](https://github.com/srisravyapsnv) - Hello! This is my first open source contribution.
   =======
   [Sravya](https://github.com/srisravyapsnv) - Hello! This is my first open source contribution.
@@ -329,7 +328,6 @@
 - [Devika S](https://github.com/devika200)
 - [Patrick Welch] I contributed! -[23Mandla](https://github.com/23Mandla) -[daniemprm](https://github.com/danielprm)
 - [Ken Li] Let's get started!
-  <<<<<<< HEAD
 - [AKSHITHA] The Beginning! -[Aliya syed] Hey, y'all
 - # [Rahul Kumar](https://github.com/rahul-aws) This is my first commit, I want to go for more. Thank you.
 - [AKSHITHA] The Beginning! -[Aliya syed] Hey, y'all
@@ -4599,7 +4597,6 @@ Jyothish
 - [ArunDharani](https://github.com/ArunDharani) - Just Getting Started !
 - [Sai Dhakshin](https://github.com/SaiDhakshin) - Hi There, I'm sai. Love to start contributing to FOSS
 - [Aryan Tiwari](https://github.com/Code-Builder-io) - 🚀 GSoC in progress!
-  <<<<<<< HEAD
 - [Gayathri K Binoy](https://github.com/Gayathri-K-Binoy) Contributions lead to progress!
 - # [Marcelo Yuba](https://github.com/marceloyuba) Devops Padawan
 - [Gayathri K Binoy](https://github.com/Gayathri-K-Binoy) Contributions lead to progress!
