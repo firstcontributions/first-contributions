@@ -8,6 +8,7 @@
   [Anandu Prasannan](https://github.com/AnanduPrasannan) -For the betterment of humanity
 - [Argha Saha](https://github.com/Argha782) - Hello everyone, this marks the start of my open source journey...🌟🌟🌟
 - [Giuseppe Lomasto](https://github.com/Giuppx) - Hi everyone, this is my first contribution from Italy!
+- [Piyush Pratap](https://github.com/PiyushPratap10) - I am starting from here and will go in Google someday for sure.
 - [Ahmad Shatnawi](https://github.com/ahmadsh2007) - Hello World! This is my first contribution from Jordan!!
 - [Kumar Nishant](https://github.com/K-Nishant-18) - First step toward open source contribution.
 - [Alokik Garg](https://github.com/alokikgarg)
@@ -44,6 +45,7 @@
 - This is Mihri's first contribution :)
 - [Krishna Moghe] (https://github.com/KrishnaMoghe)
 - [Nowres Al-Rubaie] (https://github.com/N-Al-Rubaie) Hi, check out my GitHub page.
+- [Mohammed Abdulwahab] (https://github.com/Mohammed-Abdulwahab22) Hi, this is my first contribution.
 - [Samarth Keshari](https://github.com/Samarth-3910) - Hello World! This is my first open source contribution. Excited to be a part of the open source community!
 - [Jana Krisna]- my first fork and change
 - [Maya Kanani] (https://github.com/M4y4Ti4)
@@ -93,6 +95,7 @@ Hello world.I'm Rohith and this is my first open source contribution on (7/8/202
 - [Jis Joe](https://github.com/jisjoe22) - my first contribution
 - [Minh VS] (https://github.com/Khucs)
 - [Kiran](https://github.com/Kiran-Qlik) - My First Git commit 07/06/2025
+- [Kiran Manoj](https://github.com/KiranManoj) - My first ever open source contribution - 15/07/2025
 - [Anastasia](https://github.com/anastasia-lobareva) My first contribution!
 - [Aparna](https://github.com/Aps136) - My First contribution! :) 
 - [BChaput] (https://github.com/BrianChaput) -Howdy World! 7/3/2025
@@ -4908,4 +4911,5 @@ asd
 [Sudhanshu konte](https://github.com/Sudhanshukonte)
 - [Ragini Singh](https://github.com/raginisingh)-My first Contribution
 - [Larson](https://github.com/lixianphy)
+- Aanchal Jha
 - [BobcZ-oss](https://github.com/Bobcz-oss)
