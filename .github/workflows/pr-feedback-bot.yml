@@ -1,0 +1,19 @@
+name: PR Feedback Bot
+on:
+  pull_request:
+    types: [opened, synchronize, edited]
+jobs:
+  pr-feedback:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20.x'
+      - name: Run PR Feedback Bot
+        run: |
+          cd .github/pr-feedback-bot
+          npm install || true
+          node index.js 
