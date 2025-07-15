@@ -1,4 +1,5 @@
 # Contributors
+- [Timur Medeuov](https://github.com/Timur8686) - Hello World from Karakalpakistan
 - [Sean.K](https://github.com/itsmrseantoo) - Hello World from Taiwan. My first Contribution
 - [Tushar Pardhe](https://github.com/tusharpardhe18) - My First Contribution
 - [Rajeev Krishna](https://github.com/rajeevkm68) - My First Contribution
@@ -4917,4 +4918,5 @@ asd
 - Aanchal Jha
 - OG TOX To da World
 -[SAMYAKBORKAR](https://github.com/SamyakBorkar)
- 
+
+- [Timur Medeuov](https://github.com/Timur8686) - Hello World from Karakalpakistan
