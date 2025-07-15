@@ -105,26 +105,26 @@ git push -u origin your-branch-name
 <details>
 <summary> <strong>Пушлэх үйлдэл дээр ямар нэгэн алдаа заавал энд дарж харах:</strong> </summary>
 
-- ### Authentication Error
+- ### Нэвтрэх эрхийн алдаа
      <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
   remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
   fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
-  Go to [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) on generating and configuring an SSH key to your account.
+  Хэрэв дээрх янзаар алдаа зааж байвал шинэ SSH түлхүүр үүсгэн хаягтайгаа холбох хэрэгтэй гэсэн үг бөгөөд хэрхэн холбохыг [энд дарж харна уу](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account).
 
-  Also, you might want to run 'git remote -v' to check your remote address.
+  Мөн, аль рэпотой холбогдсон байгаагаа 'git remote -v' үйлдлээр шалгачихад гэмгүй.
   
-  If it looks anything like this:
-  <pre>origin	https://github.com/your-username/your_repo.git (fetch)
-  origin	https://github.com/your-username/your_repo.git (push)</pre>
+  Хэрэв дээрх үйлдлийн хариу доорх маягаар байвал:
+  <pre>origin	https://github.com/таны-хэрэглэгчийн-нэр/таны-рэпо-нэр.git (fetch)
+  origin	https://github.com/таны-хэрэглэгчийн-нэр/таны-рэпо-нэр.git (push)</pre>
   
-  change it using this command:
+  дараах үйлдлээр өөрчлөх хэрэгтэй:
   ```bash
-  git remote set-url origin git@github.com:your-username/your_repo.git
+  git remote set-url origin git@github.com:таны-хэрэглэгчийн-нэр/таны-рэпо-нэр.git
   ```
-  Otherwise you'll still get prompted for username and password and get authentication error.
+  Ингэснээр та нууц үгээр биш хаягтай чинь холбогдсон SSH түлхүүрээр нэвтэрч эхэлнэ.
 </details>
 
-## Submit your changes for review
+## Нэгтгэх хүсэлт илгээх
 
 Гитхаб дээрх рэпо руу очмогц `Compare & pull request` товчлуур харагдах болно. Уг товчлуур дээр дарснаар шинэ нэгтгэх хүсэлт (pull request) үүсгэх хуудас гарч ирнэ.
 
