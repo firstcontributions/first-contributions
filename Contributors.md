@@ -17,6 +17,7 @@
 - [Matheg](https://github.com/30November) - Hi guys ! Whatsapp . From India
 - [Shree-444](https://github.com/Shree-444) - hola amigo, kaise ho theek ho? (13 july 2025)
 - [Omar Eddari](https://github.com/omar-eddari) – Hi
+- [Amiraly](https://github.com/amiralitaherkhany) - Hiiii
 - [Balraj Choure](https://github.com/balraj009) – 🌟 First PR!
 - [Fernando Navas](https://github.com/fnavas) - Hello, this is my first contribution
 - #comment line
