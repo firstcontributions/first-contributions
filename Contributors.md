@@ -11,6 +11,7 @@
 - [Giuseppe Lomasto](https://github.com/Giuppx) - Hi everyone, this is my first contribution from Italy!
 - [Piyush Pratap](https://github.com/PiyushPratap10) - I am starting from here and will go in Google someday for sure.
 - [Ahmad Shatnawi](https://github.com/ahmadsh2007) - Hello World! This is my first contribution from Jordan!!
+- [Ngawang Tenzin](https://github.com/cbms26) - Hello! Curious Coder from Bhutan. Keep Grinding y'all!
 - [Kumar Nishant](https://github.com/K-Nishant-18) - First step toward open source contribution.
 - [Alokik Garg](https://github.com/alokikgarg)
 - [Wang Chao](https://github.com/Alleys31) - Hello world.
