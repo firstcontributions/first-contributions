@@ -1408,8 +1408,9 @@ Anshi
 - [Joruji Tsuchiya](https://github.com/joruji-tsuchiya)
 - [siddy09re](https://github.com/siddy09re)
 - [Lovalakshmi](https://github.com/lovalakshmi080223)
-[Omonbek Xojamurodov](https://github.com/omonboyweb)
--[mohd faizan](https://github.com/faizan1250)
+- [Aiden A.C. Fox](https://github.com/aacfox) In the memory of Atlas the Fox, his tiny paws still sustain my universe 
+- [Omonbek Xojamurodov](https://github.com/omonboyweb)
+- [mohd faizan](https://github.com/faizan1250)
 - [rahmatanko](https://github.com/rahmatanko)
 - [Ajit Sargar](https://github.com/sargar-ajit)
 -[Aadarsh mishra]
