@@ -41,6 +41,7 @@
 - [Ishan Kishan](https://github.com/arnavtumbde)
 - [Mandeep Singh](https://github.com/Mandeep-Singh18)
 - [RCB]
+- [BS]
 - [Pranjal Kabra](https://github.com/PranjalKabra)
 - [Kavish Shah](https://github.com/thekavishshah)
 - [Muhammad Imaduddin](https://github.com/Muhasix)
