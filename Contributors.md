@@ -1,5 +1,6 @@
 # Contributors
 [Aman Rohilla](https://github.com/amanrohilla23)
+- [Aakash Mahajan](https://github.com/AakashMahajan25) - My First Open Source Contribution!
 - [Sean.K](https://github.com/itsmrseantoo) - Hello World from Taiwan. My first Contribution
 - [justakayy](https://github.com/justakayy) - My first Steps into the World of OSS!
 - [Tushar Pardhe](https://github.com/tusharpardhe18) - My First Contribution
