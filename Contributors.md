@@ -4911,6 +4911,7 @@ asd
 - [Berkay Çelebi](https://github.com/BerkayCelebi54)
 - Dheeraj Mishra – First step in openSource, Excited and ready to learn.
 - [SIva Saketh](https://github.com/sivasaketh)
+- [Maria Nelly Lopez](https://github.com/manelly67) First contribution on 16-7-2025
 - [Bridget Meabh](github.com/tulipcrash) - :3
 - [Silent_Tester](https://github.com/tomwomwen) - First contribution as a Test Developer! Ready to hunt bugs silently!
 - [Partha Das](https://github.com/parthodas23) - This is my first contribution, Oh finaly i did it
