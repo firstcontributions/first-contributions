@@ -4944,12 +4944,11 @@ asd
 - [Ragini Singh](https://github.com/raginisingh)-My first Contribution
 - [Larson](https://github.com/lixianphy)
 - [Vinod] (https://github.com/Vinod-Kumar-99)
-- Aanchal Jha
-- OG TOX To da World
-- FfFt100
--[SAMYAKBORKAR](https://github.com/SamyakBorkar)
-- [Tony](https://github.com/toninoming) -Forhumanity
- 
--[NawalShahid] (https://github.com/Nawal-Shahid) Let's connect
- [fabietto](https://github.com/drfabiogit) ciao
- [mingo](https://github.com/mingo86) ciao
+- Aanchal Jha- OG TOX To da World  
+- FfFt100  
+- [SAMYAKBORKAR](https://github.com/SamyakBorkar)  
+- [Tony](https://github.com/toninoming) - Forhumanity  
+- [NawalShahid](https://github.com/Nawal-Shahid) Let's connect  
+- [fabietto](https://github.com/drfabiogit) ciao  
+- [mingo](https://github.com/mingo86) ciao  
+- [Ali Jawad](https://github.com/alijawaad75)
