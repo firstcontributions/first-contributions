@@ -1108,6 +1108,7 @@ Mohamed Farah
  -[KobeVLM](https://github.com/KobeVLM)
  -[KobyBuchanan](https://github.com/KobyBuchanan)
 -[quiquemonroy](https://github.com/quiquemonroy) Thanks! 
+- [Aditya Anurag](https://github.com/adityaanurag0219) Okay!! So completed the first contributions.
 - [sfreagin](https://github.com/sfreagin)
  - [VivekDahiya](https://github.com/VivekDahiya06)
  - [Saikatur Rahman Kaium](https://github.com/S-rahmanKaium)
