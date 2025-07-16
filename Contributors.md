@@ -4931,9 +4931,7 @@ asd
 - [Ragini Singh](https://github.com/raginisingh)-My first Contribution
 - [Larson](https://github.com/lixianphy)
 - [Vinod] (https://github.com/Vinod-Kumar-99)
-- Aanchal Jha
-- OG TOX To da World
 -[SAMYAKBORKAR](https://github.com/SamyakBorkar)
 - [Tony](https://github.com/toninoming) -Forhumanity
- 
--[NawalShahid] (https://github.com/Nawal-Shahid) Let's connect
+- [NawalShahid](https://github.com/Nawal-Shahid) Let's connect
+- [Vipul Pandey](https://github.com/19vip)
