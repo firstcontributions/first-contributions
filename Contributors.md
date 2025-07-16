@@ -1,5 +1,6 @@
 # Contributors
 - [Mathias Hadji](https://github.com/Mathias-Hadji) - Hello World 🌍
+- [Devansh Gaur](https://github.com/Devaur03) - I am gonna be king of pirates.
 - [Aakash Mahajan](https://github.com/AakashMahajan25) - My First Open Source Contribution!
 - [Aman Rohilla](https://github.com/amanrohilla23)
 - [Kumar Sourav](https://github.com/kumarsourav12) - My First Open Source Contribution! Hah !
