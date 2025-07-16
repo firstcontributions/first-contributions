@@ -676,7 +676,7 @@
 - [gitty98]noice
 - [Ancil](https://github.com/iamancil)
 - [Om Borse](https://github.com/Om-Borse26) My first contribution to open source!
-- [androvonx95](https://github.com/androvonx95) – **** I use Arch btw 🗿🗿🗿🗿 ****
+- [androvonx95](https://github.com/androvonx95) – \***\* I use Arch btw 🗿🗿🗿🗿 \*\***
 - [Robyn](https://github.com/RBodde)
 - [Snowsita](https://github.com/Snowsita)
 - [smoglmy](https://github.com/smoglmy)
@@ -4624,4 +4624,6 @@ Jyothish
 - OG TOX To da World -[SAMYAKBORKAR](https://github.com/SamyakBorkar)
 - [Tony](https://github.com/toninoming) -Forhumanity
 
--[NawalShahid] (https://github.com/Nawal-Shahid) Let's connect -[HarshParmar] (https://github.com/harshparmar23) First time ever
+-[NawalShahid] (https://github.com/Nawal-Shahid) Let's connect
+
+-[HarshParmar] (https://github.com/harshparmar23) First time ever
