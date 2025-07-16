@@ -4,10 +4,10 @@
 - [Sean.K](https://github.com/itsmrseantoo) - Hello World from Taiwan. My first Contribution
 - [justakayy](https://github.com/justakayy) - My first Steps into the World of OSS!
 - [Tushar Pardhe](https://github.com/tusharpardhe18) - My First Contribution
-- [Ayush koli](https://github.com/ayushkoli) -my first contribution
+- [Ayush koli](https://github.com/ayushkoli) -my first contribution Exploring the world of open source 
 - [Arya K](https://github.com/aryakshirsagar) - My First Contribution
 - [Shivam Mishra](https://github.com/shivgithub1234) - Feeling happy for my first contribution
-- [Rajeev Krishna](https://github.com/rajeevkm68) - My First Contribution
+- [Rajeev Krishna](https://github.com/rajeevkm68) - My First Contribution 
 - [Jasdeep Chahal](https://github.com/JasdeepChahal6) - My first Contribution 
 - [Rinsha Mol K S](https://github.com/rinshamol) - Exploring the world of open source with curiosity and code ✨
 - [Yuvraj Singh](https://github.com/Yuvraj-777) - My First Contributing Looking Forward for More From India.
