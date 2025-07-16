@@ -1007,6 +1007,7 @@ Mohamed Farah
 - [Debpriyo-Ghosal] (https://github.com/DevDebpriyo)
 - [Levis-Nyagah] (https://github.com/umeskia-levi)
 - [Xuefeng Sun] (https://github.com/Artan1ss)
+- [Elian Antunes] (https://github.com/elianmagno) **Dropped my name here to see how far it travels 🚀**
 - [Johnpark](https://github.com/devjohnpark)
 - [Yunbo Zhang](https://github.com/yunbo-z)
 - [Aman Singh](https://github.com/Aman09Singh)
