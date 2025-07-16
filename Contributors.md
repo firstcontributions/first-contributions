@@ -3577,6 +3577,7 @@ Jyothish
 - [Jovillios](https://github.com/Jovillios)
 - [Tanvi Shetty](https://github.com/Shettytan99)
 - [R Kita](https://github.com/R-Kita)
+- [K Manley](https://github.com/fieryslid/)
 - [Manu Bharadwaj](https://github.com/Manu577228)
 - [Sai Tanishq Nannapaneni](https://github.com/saitanishq)
 - [Canyon Bryson](https://github.com/canyonbryson)
