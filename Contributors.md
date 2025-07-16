@@ -1,5 +1,6 @@
 # Contributors
 [Aman Rohilla](https://github.com/amanrohilla23)
+- [Natsuki Subaru](https://github.com/0Trunks0) - Natsuki Subaru was here. Remember.
 - [Sean.K](https://github.com/itsmrseantoo) - Hello World from Taiwan. My first Contribution
 - [justakayy](https://github.com/justakayy) - My first Steps into the World of OSS!
 - [Tushar Pardhe](https://github.com/tusharpardhe18) - My First Contribution
