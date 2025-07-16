@@ -91,6 +91,7 @@ Hello world.I'm Rohith and this is my first open source contribution on (7/8/202
 - [Alexandros Angourakis] - Hello :D
 - [Mahesh Bhandari](https://github.com/devmahesh-5) - Hey this is my start to the opensource contribution path - 7/7/2025
 - [Shushmitha AVR](https://https://github.com/shushmitha-29) - Hey, everyone this is my first ever GitHub contribution to open source - 6th July.
+-[Aastha Joshi](https://github.com/Aasthajoshay)-Looking forward to learn from this journey and grow as an engineer 16/7/25. 
 -[Kumar] (https://github.com/kumar-github1) - This is my contribution to the opersource project and its 8th July 2025
 - [F10T3D] (https:/github.com/F104T3D) - First contribution to open source! 6th july
 - [vtrgo] (https://github.com/vtrgo) - Hi from Canada on 2025-07-15!
