@@ -901,6 +901,7 @@ Solomon
 - [Anu]
 - [Miguel Sanchez]
 - [puralpha](https://github.com/puralpha)
+- [polarvector] (https://github.com/polarvector)
 - [hrushitha]
 - [Sumit Nayak](https://github.com/NotaScripptkiddie)
 - [Vimal Ganesh M](https://github.com/M-Vimal)
