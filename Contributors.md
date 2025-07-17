@@ -1044,6 +1044,7 @@ Mohamed Farah
 - [Johnpark](https://github.com/devjohnpark)
 - [Yunbo Zhang](https://github.com/yunbo-z)
 - [Aman Singh](https://github.com/Aman09Singh)
+- [Alex Moore](https://github.com/lightspd10)
 - [Rajit Abdillah] (https://github.com/devjohnpark)
 - [Nabil Al Masri](https://github.com/NabilMx99)
 - [Jakes_okindo] (https://github.com/Okindo-T)
