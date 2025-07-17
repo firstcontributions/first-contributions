@@ -97,6 +97,7 @@ Hello world.I'm Rohith and this is my first open source contribution on (7/8/202
 - [Almish Hoda](https://github.com/almishhoda04) - Hi! This is Almish and this is my attempt to enter open source contributions!!
 - [Mohammed Omair Mohiuddin](https://github.com/Mohammed-Omair) - Hey everyone!, This is my very first open-source contribution - 5th July 2025
 - [Onome Owah](https://github.com/Onome-Owah)- Hi contributors, Thanks for this, it's a good idea especially for people new to open source. Thanks, time to do more!!!! 6th July 2025
+- [Karthik Bagavathy](https://github.com/kb42) - Baby steps into the world of Open Source Contribution!
 - [tempo] (https://github.com/Saivamshi-git) - Hi
 - [Namish] (https://github.com/NamishM7) - Yello
 - [Alexandros Angourakis] - Hello :D
