@@ -14,7 +14,8 @@
 [Prachi Garg](https://github.com/prachi757) – Grateful for my first open source step.
 - [Sean.K](https://github.com/itsmrseantoo) - Hello World from Taiwan. My first Contribution
 - [Eric S](https://github.com/ericsawin) - My First Contribution
-- [M Han](https://github.com/matthewhanyd) - first contribution!
+- [M Han](https://github.com/matthewhanyd) - My First Contribution
+- [welington pires](https://github.com/welington101) - My First Contribution
 - [Yuriy Diachuk] (https://github.com/Yuriydiachuk12) - first!
 -[Abhi](https://github.com/Abhiskanda) - My First Contribution
 - [justakayy](https://github.com/justakayy) - My first Steps into the World of OSS!
@@ -45,6 +46,7 @@
 - [Sudhanshu Soni](https://github.com/sudhanshusoni45) - Pretty late for the party! But here I am thanks!
 - [Wang Chao](https://github.com/Alleys31) - Hello world.
 - [Matheg](https://github.com/30November) - Hi guys ! Whatsapp . From India
+Was here! 
 - [Shree-444](https://github.com/Shree-444) - hola amigo, kaise ho theek ho? (13 july 2025)
 - [Omar Eddari](https://github.com/omar-eddari) – Hi
 - [Priyanshu Singh](https://github.com/PriyanshuSingh44) - First contribution to open source!
@@ -5001,4 +5003,9 @@ asd
 - [Shubham Rana](https://github.com/Ranashubham19) Shubham from india
 - I love Anwar Ibrahim because he teaches me programming.
 - [Navaneeth N](https://github.com/Navth)getting started.
+
 - [Chanchal Teotia](https://github.com/cse22148)
+- [Amber Khan](https://github.com/InsideAmber) Resetting
+- [Praveen Rajak](https://github.com/praveenraj027) Namaste Duniya
+- [Spreeha D](https://github.com/Spreeha-79) My First Open Source Contribution!
+>>>>>>> 27e39d2056762d58f733b8fa7446da3a456b73da
