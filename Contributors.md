@@ -5001,4 +5001,5 @@ asd
 - [Shubham Rana](https://github.com/Ranashubham19) Shubham from india
 - I love Anwar Ibrahim because he teaches me programming.
 - [Navaneeth N](https://github.com/Navth)getting started.
+- [Amber Khan](https://github.com/InsideAmber) Resetting
 - [Praveen Rajak](https://github.com/praveenraj027) Namaste Duniya
