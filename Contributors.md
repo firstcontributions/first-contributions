@@ -3758,6 +3758,7 @@ Jyothish
 - [MLwoodi](https://github.com/MLwoodi)
 - [Travis Keefe](https://github.com/tkeefe)
 - [Lim Zhang](https://github.com/Limwalnut)
+- [Lochy](https://github.com/lochy)
 - [lucifer]
 - [tappe9](https://github.com/tappe9)Adding my contribution
 - [tappe9](https://github.com/tappe9)
