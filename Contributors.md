@@ -4991,4 +4991,5 @@ asd
 - [Aditya](https://github.com/AdityaGupta-debug) First open source contribution letss gooooo
 - [verticraze](https://github.com/verticraze) Greatness from small beginnings.
 - [Shubham Rana](https://github.com/Ranashubham19) Shubham from india
-- [Navaneeth N](https://github.com/Navth)getting started.
+- [Navaneeth N](https://github.com/Navth)getting started.git
+- [Sid  Patil](https://github.com/sidpatil77)
