@@ -19,6 +19,7 @@
 - [Rinsha Mol K S](https://github.com/rinshamol) - Exploring the world of open source with curiosity and code ✨
 - [Yuvraj Singh](https://github.com/Yuvraj-777) - My First Contributing Looking Forward for More From India.
 - [Elvis Yu](https://github.com/elvis-qq)
+  [Ruben Da Silva](https://github.com/rubendasilva) - My First Contributing, and this is just the start of my journey!
   [Anandu Prasannan](https://github.com/AnanduPrasannan) -For the betterment of humanity
 - [Argha Saha](https://github.com/Argha782) - Hello everyone, this marks the start of my open source journey...🌟🌟🌟
 - [Giuseppe Lomasto](https://github.com/Giuppx) - Hi everyone, this is my first contribution from Italy!
