@@ -10,6 +10,7 @@
 [Prachi Garg](https://github.com/prachi757) – Grateful for my first open source step.
 - [Sean.K](https://github.com/itsmrseantoo) - Hello World from Taiwan. My first Contribution
 - [Eric S](https://github.com/ericsawin) - My First Contribution
+-[Abhi](https://github.com/Abhiskanda) - My First Contribution
 - [justakayy](https://github.com/justakayy) - My first Steps into the World of OSS!
 - [Tushar Pardhe](https://github.com/tusharpardhe18) - My First Contribution
 - [Arya K](https://github.com/aryakshirsagar) - My First Contribution
