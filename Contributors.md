@@ -34,7 +34,7 @@
   [Anandu Prasannan](https://github.com/AnanduPrasannan) -For the betterment of humanity
 - [Argha Saha](https://github.com/Argha782) - Hello everyone, this marks the start of my open source journey...🌟🌟🌟
 - [Giuseppe Lomasto](https://github.com/Giuppx) - Hi everyone, this is my first contribution from Italy!
--[Saral Dwivedi](https://github.com/SaralDwivedi21) -First Open Source Contribution!
+-[Saral Dwivedi](https://github.com/SaralDwivedi21) -First Open Source Contribution.
 - [Piyush Pratap](https://github.com/PiyushPratap10) - I am starting from here and will go in Google someday for sure.
 - [Tabassum Shaikh](https://github.com/TabassumSK) - Hello, I am Starting my Contribution journey to make impact on Real World.
 - [Kathan Soni](https://github.com/kathan219) - Hii, I am learning how to contribute to open source projects.
