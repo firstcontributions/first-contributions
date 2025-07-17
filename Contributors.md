@@ -4354,6 +4354,7 @@ Jyothish
 - [Jingyi Ding](https://github.com/dingfwrvhfhb)
 - [Tristan Aragon](https://github.com/Nobitwhat)
 - [Helen Wong](https://github.com/helen-m-wong)
+- [Bucky Wong](https://github.com/buckcode16)
 - [zep](https://github.com/zepredos)
 - [Vadim N](https://github.com/vadim8702)
 - [Rahul Chauhan](https://github.com/Rahul0-01)
