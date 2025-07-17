@@ -21,6 +21,7 @@
 - [Yuvan Raj](https://github.com/YuvanRajMathan)- Happy to start my First Contribution.
 - [Rajeev Krishna](https://github.com/rajeevkm68) - My First Contribution
 - [Victor Costantini](https://github.com/vittoriocostantini) - My First Contribution
+- [Bluefox192](https://github.com/Bluefox192) - My First Contribution and this is just the start of my journey!!!
 - [Jasdeep Chahal](https://github.com/JasdeepChahal6) - My first Contribution 
 - [Rinsha Mol K S](https://github.com/rinshamol) - Exploring the world of open source with curiosity and code ✨
 - [Yuvraj Singh](https://github.com/Yuvraj-777) - My First Contributing Looking Forward for More From India.
