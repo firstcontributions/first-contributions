@@ -1,5 +1,6 @@
 # Contributors
-[Aman Rohilla](https://github.com/amanrohilla23)
+-[Shivraj Chaudar](https://github.com/rajchaudar) - My first Github Contribution, Connect For More On https://shivrajchaudar.me
+- [Aman Rohilla](https://github.com/amanrohilla23)
 - [Sean.K](https://github.com/itsmrseantoo) - Hello World from Taiwan. My first Contribution
 - [justakayy](https://github.com/justakayy) - My first Steps into the World of OSS!
 - [Tushar Pardhe](https://github.com/tusharpardhe18) - My First Contribution
