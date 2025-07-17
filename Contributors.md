@@ -1264,6 +1264,7 @@ Mohamed Farah
  - [Nabina Mallik](https://thenabinamallik.vercel.app)
  - [Shubham Garh](https://github.com/devac123)
  - [Tyler Taylor](https://github.com/UnstablePayload)
+ - [Mostafa Faheem](https://github.com/mostafafaheem/)
  - [Anurag Bhardwaj](https://github.com/theanuraaag)
  - [Akshaya R] (https://github.com/akshaya-rrn)
  - [Nikhil Kumar](https://github.com/Nick1200000)
