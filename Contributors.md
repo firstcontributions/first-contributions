@@ -4966,3 +4966,4 @@ asd
  [fabietto](https://github.com/drfabiogit) ciao
  [KOUSHIK](https://github.com/KOUSHIK08026) Just started todayyyyyyyyyyy
  [mingo](https://github.com/mingo86) ciao
+ [bearjcc](https://github.com/bearjcc) Kia Ora from New Zealand!
