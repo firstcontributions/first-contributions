@@ -21,6 +21,7 @@
 -[Abhi](https://github.com/Abhiskanda) - My First Contribution
 - [justakayy](https://github.com/justakayy) - My first Steps into the World of OSS!
 - [Tushar Pardhe](https://github.com/tusharpardhe18) - My First Contribution
+- [Will K] (https://github.com/WiLLKMadeIt) - hope I make some cool stuff later
 - [Arya K](https://github.com/aryakshirsagar) - My First Contribution
 - [Shivam Mishra](https://github.com/shivgithub1234) - Feeling happy for my first contribution
 - [Yuvan Raj](https://github.com/YuvanRajMathan)- Happy to start my First Contribution.
