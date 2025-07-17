@@ -2,6 +2,7 @@
 - [chaitanya varma](https://github.com/pc099) - Alright ! Alright ! Alright ! Frist Contribution
 - [Mathias Hadji](https://github.com/Mathias-Hadji) - Hello World 🌍
 - [Shivraj Chaudar](https://github.com/rajchaudar) - My first Github Contribution, Connect For More On https://shivrajchaudar.me
+- [Owen Erhabor](https://github.com/owen-6936) - Owen was here! Lets connect, build and learn together.
 - [chenpan](https://github.com/giter-chenpan) - hi, my first contribution
 - [Devansh Gaur](https://github.com/Devaur03) - I am gonna be king of pirates. 🏴‍☠️
 - [David Wilson](https://github.com/CaptainDavidA) - I am gonna be the pirate ship 🏴‍☠️
