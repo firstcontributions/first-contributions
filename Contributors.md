@@ -41,6 +41,7 @@
 - [Kumar Nishant](https://github.com/K-Nishant-18) - First step toward open source contribution.
 - [Hayden](https://github.com/hayden233) - Hello World! This is my first contribution from China.
 - [Alokik Garg](https://github.com/alokikgarg)
+- [Divya Vijaykumar](https://github.com/DivyaVijaykumar927) - Created the [SOLDIER TRACKING AND HEALTH MONITORING SYSTEM](https://github.com/DivyaVijaykumar927/SOLDIER-TRACKING-AND-HEALTH-MONITORING-SYSTEM) IoT project.
 - [Aishwarya_Pandey](https://github.com/Aishwarya-create) - First contribution to open source, many more to go!
 - [Sudhanshu Soni](https://github.com/sudhanshusoni45) - Pretty late for the party! But here I am thanks!
 - [Wang Chao](https://github.com/Alleys31) - Hello world.
@@ -235,6 +236,7 @@ vanakkam da Mapala...
 -[Maya](https://github.com/UmayaJayasuriya)-This is my first open source contribution.
 -[Neel Sane](https://github.com/superdudeneel)-This is my first open source contribution.
 -[Faith](https://github.com/fch7ea)-First contribution; practice.
+- [Divya Vijaykumar](https://github.com/DivyaVijaykumar927) - Created the [SOLDIER TRACKING AND HEALTH MONITORING SYSTEM](https://github.com/DivyaVijaykumar927/SOLDIER-TRACKING-AND-HEALTH-MONITORING-SYSTEM) IoT project.
 -[Avital](https://github.com/Avital2025)- A beginner developer who loves solving problems and aims high. Aspiring to create solutions that make a lasting impact.
 -[Rayan] (https://github.com/Arbenz-007)- Beginning my journey as open source contribution. This is my first contribution.
 -[Jaiguru2992](https://github.com/jai2992) - hi all started with my first contribution i guess doesn't know what is going to happen in the future.
