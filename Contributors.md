@@ -140,6 +140,7 @@ Hello world.I'm Rohith and this is my first open source contribution on (7/8/202
 - [PotatoPea](https://github.com/PotatoPea) - First ever contribution
 -[Karan-312] (https://github.com/Karan-312) - just a test how to raise a PR . 
 - [RykerWilder](https://github.com/RykerWilder) - Thanks to create a repo for my first contribution! 
+-[Rajat-BR] (https://github.com/Rajat-BR) - Hello There !
 -[PraMaratha] (https://github.com/PraMaratha) - Hello, Everyone!
 - [pratibhanaikk] (https://github.com/pratibhanaikk) - Hello World from Pratibha Naik.
 - [AyelotanTee] (https://github.com/AyelotanTee) - My first contribution to open source on GitHub
