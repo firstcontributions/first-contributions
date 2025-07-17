@@ -1,6 +1,7 @@
 # Contributors
 - [Mathias Hadji](https://github.com/Mathias-Hadji) - Hello World 🌍
 - [Shivraj Chaudar](https://github.com/rajchaudar) - My first Github Contribution, Connect For More On https://shivrajchaudar.me
+- [chenpan](https://github.com/giter-chenpan) - hi, my first contribution
 - [Devansh Gaur](https://github.com/Devaur03) - I am gonna be king of pirates. 🏴‍☠️
 - [David Wilson](https://github.com/CaptainDavidA) - I am gonna be the pirate ship 🏴‍☠️
 - [Aakash Mahajan](https://github.com/AakashMahajan25) - My First Open Source Contribution!
