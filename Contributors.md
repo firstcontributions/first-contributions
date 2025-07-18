@@ -5034,6 +5034,8 @@ asd
 - [Shubham Rana](https://github.com/Ranashubham19) Shubham from india
 - I love Anwar Ibrahim because he teaches me programming.
 - [Navaneeth N](https://github.com/Navth)getting started.
+- [Sayman Lal](https://github.com/worksofsayman) CodeChemist & Hackathon Winner x1 | CA - GSSoC’25, PR - HWI GGITS | Developer, Author, Entrepreneur | Always exploring, 
+- always creating | Founder: AIALCHEMIST | Gyan Ganga Institute of Technology Sciences, Jabalpur, Madhya Pradesh, India - 482001 | Built the documentation web page.
 - [Amber Khan](https://github.com/InsideAmber) Resetting
 - [Praveen Rajak](https://github.com/praveenraj027) Namaste Duniya
 - [Spreeha D](https://github.com/Spreeha-79) My First Open Source Contribution!
