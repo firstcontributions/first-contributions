@@ -5055,3 +5055,4 @@ asd
 - [Sayman Lal](https://github.com/worksofsayman) Beginning my journey in open source from July, 2025
 - [Aniket](https://github.com/gitforaniket) - Embarking on my open source journey! Happy to connect and collaborate.
 - [Hrushikesh Kale](https://github.com/Hrushikesh2089) - Starting my journy with open source contribution
+- [Zeyu Xie](https://github.com/Zeyu-Xie) - Hello world. 👋
