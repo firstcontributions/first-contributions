@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Documentation | First Contribution</title>
+  <style>
+    :root {
+      --primary: #6e8efb;
+      --secondary: #a777e3;
+      --accent: #ffe082;
+      --dark: #1a1a1a;
+      --bg: #f9fafb;
+      --radius: 12px;
+    }
+
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, sans-serif;
+      background: var(--bg);
+      color: #333;
+      scroll-behavior: smooth;
+    }
+
+    header {
+      background: linear-gradient(to right, var(--primary), var(--secondary));
+      color: white;
+      padding: 60px 20px;
+      text-align: center;
+    }
+
+    header h1 {
+      font-size: 2.8rem;
+      margin-bottom: 10px;
+    }
+
+    header p {
+      font-size: 1.1rem;
+      opacity: 0.95;
+    }
+
+    nav {
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      background: white;
+      padding: 10px;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+      position: sticky;
+      top: 0;
+      z-index: 10;
+    }
+
+    nav a {
+      color: var(--primary);
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    nav a:hover {
+      text-decoration: underline;
+    }
+
+    section {
+      padding: 50px 20px;
+      max-width: 800px;
+      margin: auto;
+    }
+
+    section h2 {
+      color: var(--primary);
+      margin-bottom: 15px;
+    }
+
+    .code {
+      background: #272822;
+      color: #f8f8f2;
+      padding: 15px;
+      border-radius: var(--radius);
+      font-family: monospace;
+      font-size: 0.95rem;
+      overflow-x: auto;
+    }
+
+    footer {
+      text-align: center;
+      padding: 30px;
+      background: var(--dark);
+      color: #ccc;
+      margin-top: 50px;
+    }
+
+    .btn-top {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      background: var(--primary);
+      color: white;
+      border: none;
+      border-radius: 50%;
+      width: 45px;
+      height: 45px;
+      font-size: 18px;
+      cursor: pointer;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>📘 First Contribution Docs</h1>
+    <p>A modern guide for your first open-source journey.</p>
+  </header>
+
+  <nav>
+    <a href="#setup">Setup</a>
+    <a href="#contribute">Contribute</a>
+    <a href="#faq">FAQ</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="setup">
+    <h2>🚀 Getting Started</h2>
+    <p>Follow these steps to clone and set up the project:</p>
+    <div class="code">
+      git clone git@github.com:githubusername/first-contributions.git<br>
+      cd first-contributions<br>
+      open index.html
+    </div>
+    <p>Make sure your SSH key is set up with GitHub. Need help? Check out <a href="https://docs.github.com/en/authentication/connecting-to-github-with-ssh" target="_blank">GitHub SSH Guide</a>.</p>
+  </section>
+
+  <section id="contribute">
+    <h2>🛠️ How to Contribute</h2>
+    <ol>
+      <li>Fork this repository</li>
+      <li>Clone your fork</li>
+      <li>Create a new branch</li>
+      <li>Add your name to <code>contributors.md</code></li>
+      <li>Push and open a pull request</li>
+    </ol>
+  </section>
+
+  <section id="faq">
+    <h2>❓ FAQ</h2>
+    <p><strong>Q:</strong> Do I need to be a developer?</p>
+    <p><strong>A:</strong> Nope! Designers, writers, and everyone are welcome.</p>
+
+    <p><strong>Q:</strong> What happens after I make a pull request?</p>
+    <p><strong>A:</strong> A maintainer will review and merge it if all looks good!</p>
+  </section>
+
+  <section id="contact">
+    <h2>📬 Contact Us</h2>
+    <p>Have questions? Reach out via email:</p>
+    <p><a href="mailto:firstcontributions@gmail.com">firstcontributions@gmail.com</a></p>
+  </section>
+
+  <footer>
+    <p>Made with 💖 by <a href="https://linktr.ee/worksofsayman" target="_blank">Sayman Lal</a> - INDIA. &copy; 2025</p>
+  </footer>
+
+  <button class="btn-top" onclick="window.scrollTo({top: 0, behavior: 'smooth'})">↑</button>
+
+</body>
+</html>
