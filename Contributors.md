@@ -5054,3 +5054,4 @@ asd
 - [Nikhil] (https://github.com/Nikhil19904) - My first contribution in open World !
 - [Sayman Lal](https://github.com/worksofsayman) Beginning my journey in open source from July, 2025
 - [Aniket](https://github.com/gitforaniket) - Embarking on my open source journey! Happy to connect and collaborate.
+- [Hrushikesh Kale](https://github.com/Hrushikesh2089) - Starting my journy with open source contribution
