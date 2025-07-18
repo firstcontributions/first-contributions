@@ -16,16 +16,19 @@
 -[Manali Sengupta](https://github.com/manali15-hub)- My First Open Source Contribution!
 - [Aakash Mahajan](https://github.com/AakashMahajan25) - My First Open Source Contribution!
 - [Aman Rohilla](https://github.com/amanrohilla23)
+- [Emanuel Rivera](https://github.com/emanuelRiveraA)
 - [Vaishnavi Pawar](https://github.com/vaishnavipawar123)
 - [Kumar Sourav](https://github.com/kumarsourav12) - My First Open Source Contribution! Hah !
 - [Shankarjatin](https://github.com/shankarjatin) - My First Open Source Contribution in 2025!
 - [Natsuki Subaru](https://github.com/0Trunks0) - Natsuki Subaru was here. Remember.
 -[Harini Priyanka](https://github.com/Prxyankaz) - Priyanka's First Contribution 
 [Prachi Garg](https://github.com/prachi757) – Grateful for my first open source step.
+- [Matthieu Vinet](https://github.com/Mattcadam) – Will The World Remember My First Contribution?
 - [Sean.K](https://github.com/itsmrseantoo) - Hello World from Taiwan. My first Contribution
 - [Eric S](https://github.com/ericsawin) - My First Contribution
 - [M Han](https://github.com/matthewhanyd) - My First Contribution
 - [welington pires](https://github.com/welington101) - My First Contribution
+-[divyani singh](https://github.com/Divvyanii)-My  first contributuion
 - [Yuriy Diachuk] (https://github.com/Yuriydiachuk12) - first!
 -[Abhi](https://github.com/Abhiskanda) - My First Contribution
 - [justakayy](https://github.com/justakayy) - My first Steps into the World of OSS!
@@ -204,6 +207,7 @@ Hello guys, My name is Milad Kheradmand.
 vanakkam da Mapala...
 -[Pietro Franca] (https://github.com/pietro-franca)
 - [DorsalCashew] (https://github.com/DorsalCashew) - hiii :) - 7/18/2025
+- [WinNoble] (https://github.com/WinNoble) - hi head to (https://winstonnoble.com)  :) - 7/18/2025
 -[Ziad Essam]  (https://github.com/Ziaad03)
 -[Rushay] (https://github.com/007Reaper) - Hello World!, Journey reboot!
 -[Jamir Nascimento] (https://github.com/jamirnasci) - God Bless You 
@@ -2997,6 +3001,7 @@ Jyothish
 - [jokalu-it](Grüße :D)
 - [Asif Iqbal](https://github.com/rvasif)
 - [YudisSutisna](https://github.com/Hanep77)
+- [snopstor](https://github.com/snopstor)
 - [STA](https://github.com/sithuaung246810)
 - [Ernest Muli](https://github.com/kunmuli)
 - [Cole Oliva](https://github.com/ColeOliva)
@@ -5038,4 +5043,7 @@ asd
 - [Chandini Sri Mounika](https://github.com/chandinisrimounika) 
 -- [ROHIT SINGH](https://github.com/Row-heat) - first step to open world
 - [Aman Dwivedi](https://github.com/amandwivedi45)
+<<<<<<< HEAD
 - [Navneet Singh Yadav](https://github.com/Navneet225)
+- [Rupesh Sahu](https://github.com/Rynox1612) - journey will begin now.
+>>>>>>> upstream/main
