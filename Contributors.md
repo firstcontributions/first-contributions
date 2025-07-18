@@ -16,6 +16,7 @@
 -[Manali Sengupta](https://github.com/manali15-hub)- My First Open Source Contribution!
 - [Aakash Mahajan](https://github.com/AakashMahajan25) - My First Open Source Contribution!
 - [Aman Rohilla](https://github.com/amanrohilla23)
+- [Cyril Pius](https://github.com/cyrilpiusch)- I remember Matthieu Vinet's first contribution
 - [Emanuel Rivera](https://github.com/emanuelRiveraA)
 - [Vaishnavi Pawar](https://github.com/vaishnavipawar123)
 - [Kumar Sourav](https://github.com/kumarsourav12) - My First Open Source Contribution! Hah !
