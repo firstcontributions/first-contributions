@@ -224,6 +224,8 @@ vanakkam da Mapala...
 -[Vu Hoang] (https://github.com/hondeorua) - Hi, first contribution is really exciting huh :>>
 -[tetsuo-jp] (https://github.com/tetsuo-jp) - Hello, World! こんにちは世界
 -[Rushikesh Borkar] (https://github.com/Rushi-04) - Hey, Namaskar! this is my first contribution to open source - 02/07/2025
+- [Dipak Bhondave](https://github.com/dipakbhondave) - Hello Bhailog this is my first contribution to open source
+
 -[Anish] (https://github.com/anish41338)-HEY! First Contribution to open source excited to learn!
 -[Truong Nguyen](https://github.com/trnguyen34) - First time contribution to open source - 07/02/25
 -[Zac Kracht](https://github.com/Zac-Kracht) - First open source contribution - 07/06/2025
