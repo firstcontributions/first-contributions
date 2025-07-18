@@ -5005,7 +5005,7 @@ asd
 - FfFt100
 -[SAMYAKBORKAR](https://github.com/SamyakBorkar)
 - [Tony](https://github.com/toninoming) -Forhumanity
- 
+- [Alex] (https://github.com/alexgit55) - first contribution
 -[NawalShahid] (https://github.com/Nawal-Shahid) Let's connect
  [fabietto](https://github.com/drfabiogit) ciao
  [KOUSHIK](https://github.com/KOUSHIK08026) Just started todayyyyyyyyyyy
