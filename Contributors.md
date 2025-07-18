@@ -29,6 +29,7 @@
 - [Sean.K](https://github.com/itsmrseantoo) - Hello World from Taiwan. My first Contribution
 - [Eric S](https://github.com/ericsawin) - My First Contribution
 - [M Han](https://github.com/matthewhanyd) - My First Contribution
+-[Omorinsola Makinde](https://github.com/Omo-Rinsola) - first contribution
 - [welington pires](https://github.com/welington101) - My First Contribution
 -[divyani singh](https://github.com/Divvyanii)-My  first contributuion
 - [Yuriy Diachuk] (https://github.com/Yuriydiachuk12) - first!
