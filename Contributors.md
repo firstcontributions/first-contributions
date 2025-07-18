@@ -5035,4 +5035,8 @@ asd
 - [Govind Chauhan](https://github.com/gov5033) hellooooo, wassssup
 - [Chandini Sri Mounika](https://github.com/chandinisrimounika) 
 -- [ROHIT SINGH](https://github.com/Row-heat) - first step to open world
+
 - [Aman Dwivedi](https://github.com/amandwivedi45)
+
+
+-[Kamil Brzezinski](https://github.com/git-od-podstaw-piotr)
