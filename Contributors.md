@@ -160,7 +160,8 @@ Hello world.I'm Rohith and this is my first open source contribution on (7/8/202
 -[PraMaratha] (https://github.com/PraMaratha) - Hello, Everyone!
 - [pratibhanaikk] (https://github.com/pratibhanaikk) - Hello World from Pratibha Naik.
 - [AyelotanTee] (https://github.com/AyelotanTee) - My first contribution to open source on GitHub
-- [Anuroop ] - My first contribution to open source file 
+- [Anuroop ] - My first contribution to open source file
+-[applixx] - My very first contribution!
 -[Salvador Medina] (https://github.com/Sumedina) - Hello to everybody, this is a great opportunity to learn how to contribute 08/07/2025
 -[Mirang Bhandari](https://github.com/Bloodwingv2) - That's One small Step for me, a giant leap for the open source community
 -[Clyde-Chen-JJ] (https://github.com/Clyde-Chen-JJ) - Officially entering the community 6/7/2025
