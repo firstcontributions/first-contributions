@@ -23,6 +23,7 @@
 - [Yuriy Diachuk] (https://github.com/Yuriydiachuk12) - first!
 -[Abhi](https://github.com/Abhiskanda) - My First Contribution
 - [justakayy](https://github.com/justakayy) - My first Steps into the World of OSS!
+- [Arvind singh panwar](https://github.com/newdevatgit) - I am in.
 - [Tushar Pardhe](https://github.com/tusharpardhe18) - My First Contribution
 - [Will K] (https://github.com/WiLLKMadeIt) - hope I make some cool stuff later
 - [Arya K](https://github.com/aryakshirsagar) - My First Contribution
