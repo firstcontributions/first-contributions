@@ -53,6 +53,7 @@
 - [Kathan Soni](https://github.com/kathan219) - Hii, I am learning how to contribute to open source projects.
 - [Ahmad Shatnawi](https://github.com/ahmadsh2007) - Hello World! This is my first contribution from Jordan!!
 - [Abdallah Sarayrah](https://github.com/AbdallahDev) - مرحبا : I'm Abdallah from Jordan, and I'm aspiring to work as a Full Stack Developer.
+- [Kandarp Dubey](https://github.com/kandarp-01) - First Contribution to open source repo.
 - [Kumar Nishant](https://github.com/K-Nishant-18) - First step toward open source contribution.
 - [Hayden](https://github.com/hayden233) - Hello World! This is my first contribution from China.
 - [Alokik Garg](https://github.com/alokikgarg)
