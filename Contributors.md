@@ -41,12 +41,18 @@
 - [Krishnan](https://github.com/Krishnan612) - Hello Brothers and Sisters, I am learning how to contribute to open source projects from India, Tamil Nadu
   [Anandu Prasannan](https://github.com/AnanduPrasannan) -For the betterment of humanity
 - [Argha Saha](https://github.com/Argha782) - Hello everyone, this marks the start of my open source journey...🌟🌟🌟
-- [Giuseppe Lomasto](https://github.com/Giuppx) - Hi everyone, this is my first contribution from Italy! -[Saral Dwivedi](https://github.com/SaralDwivedi21) -First Open Source Contribution.
+
+- [Giuseppe Lomasto](https://github.com/Giuppx) - Hi everyone, this is my first contribution from Italy!
+- [Saral Dwivedi](https://github.com/SaralDwivedi21) -First Open Source Contribution.
+
+- [Gabriel Frerot](https://github.com/ZarathustraSama) -Done.
+
 - [Piyush Pratap](https://github.com/PiyushPratap10) - I am starting from here and will go in Google someday for sure.
 - [Tabassum Shaikh](https://github.com/TabassumSK) - Hello, I am Starting my Contribution journey to make impact on Real World.
 - [Kathan Soni](https://github.com/kathan219) - Hii, I am learning how to contribute to open source projects.
 - [Ahmad Shatnawi](https://github.com/ahmadsh2007) - Hello World! This is my first contribution from Jordan!!
 - [Abdallah Sarayrah](https://github.com/AbdallahDev) - مرحبا : I'm Abdallah from Jordan, and I'm aspiring to work as a Full Stack Developer.
+- [Kandarp Dubey](https://github.com/kandarp-01) - First Contribution to open source repo.
 - [Kumar Nishant](https://github.com/K-Nishant-18) - First step toward open source contribution.
 - [Hayden](https://github.com/hayden233) - Hello World! This is my first contribution from China.
 - [Alokik Garg](https://github.com/alokikgarg)
