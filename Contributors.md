@@ -28,6 +28,7 @@
 - [Eric S](https://github.com/ericsawin) - My First Contribution
 - [M Han](https://github.com/matthewhanyd) - My First Contribution
 - [welington pires](https://github.com/welington101) - My First Contribution
+-[divyani singh](https://github.com/Divvyanii)-My  first contributuion
 - [Yuriy Diachuk] (https://github.com/Yuriydiachuk12) - first!
 -[Abhi](https://github.com/Abhiskanda) - My First Contribution
 - [justakayy](https://github.com/justakayy) - My first Steps into the World of OSS!
