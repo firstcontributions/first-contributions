@@ -1,5 +1,5 @@
 # Contributors
-
+-[Dishant Rajut] (https://github.com/descent0)-starting my journey to os.
 - [Ricardo Reis] (https://github.com/RBNasciment) - First Mission Completed!
 - [chaitanya varma](https://github.com/pc099) - Alright ! Alright ! Alright ! Frist Contribution
 - Roshan(@roshan74323)
