@@ -5041,7 +5041,7 @@ asd
 - [Raviteja M](https://github.com/Raviteja-021) hello...
 - [Govind Chauhan](https://github.com/gov5033) hellooooo, wassssup
 - [Chandini Sri Mounika](https://github.com/chandinisrimounika) 
--- [ROHIT SINGH](https://github.com/Row-heat) - first step to open world
+- [ROHIT SINGH](https://github.com/Row-heat) - first step to open world
 - [Aman Dwivedi](https://github.com/amandwivedi45)
 - [Rupesh Sahu](https://github.com/Rynox1612) - journey will begin now.
 - [Nikhil] (https://github.com/Nikhil19904) - My first contribution in open World !
