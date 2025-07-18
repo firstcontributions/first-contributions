@@ -4,6 +4,7 @@
 - [Mathias Hadji](https://github.com/Mathias-Hadji) - Hello World 🌍
 - [Shivraj Chaudar](https://github.com/rajchaudar) - My first Github Contribution, Connect For More On https://shivrajchaudar.me
 - [Sushmita Musunuri] - first contribution woowow!
+-[Sumeet Ramdas Jadhav](https://github.com/jadhavsumeet24)- My First Open Source Contribution!
 - [Owen Erhabor](https://github.com/owen-6936) - Owen was here! Lets connect, build and learn together.
 - [chenpan](https://github.com/giter-chenpan) - hi, my first contribution
 - [Devansh Gaur](https://github.com/Devaur03) - I am gonna be king of pirates. 🏴‍☠️
