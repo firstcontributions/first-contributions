@@ -1,4 +1,5 @@
 # Contributors
+- [Ayush Kalakoti](https://github.com/ashuifh) - My First Contribution
 - [chaitanya varma](https://github.com/pc099) - Alright ! Alright ! Alright ! Frist Contribution
 - [Mathias Hadji](https://github.com/Mathias-Hadji) - Hello World 🌍
 - [Shivraj Chaudar](https://github.com/rajchaudar) - My first Github Contribution, Connect For More On https://shivrajchaudar.me
@@ -5016,4 +5017,8 @@ asd
 - [Spreeha D](https://github.com/Spreeha-79) My First Open Source Contribution!
 - [Manish Kumar](https://github.com/Madipadige-ManishKumar) Thank you
 - [Nilesh Kumar](https://github.com/nileshkumaryadav1) Hello, open Source.
+<<<<<<< HEAD
 - [Sufiyan Waseem](https://github.com/your-github-username) My First Open Source Contribution!
+=======
+- [Raviteja M](https://github.com/Raviteja-021) hello...
+>>>>>>> upstream/main
