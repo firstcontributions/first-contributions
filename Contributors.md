@@ -5043,5 +5043,6 @@ asd
 - [Chandini Sri Mounika](https://github.com/chandinisrimounika) 
 -- [ROHIT SINGH](https://github.com/Row-heat) - first step to open world
 - [Aman Dwivedi](https://github.com/amandwivedi45)
+- [Navneet Singh Yadav](https://github.com/Navneet225)
 - [Rupesh Sahu](https://github.com/Rynox1612) - journey will begin now.
 - [Nikhil] (https://github.com/Nikhil19904) - My first contribution in open World !
