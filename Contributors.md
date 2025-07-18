@@ -33,6 +33,7 @@
 - [Shivam Mishra](https://github.com/shivgithub1234) - Feeling happy for my first contribution
 - [Yuvan Raj](https://github.com/YuvanRajMathan)- Happy to start my First Contribution.
 - [Rajeev Krishna](https://github.com/rajeevkm68) - My First Contribution
+- [Tejasri Masina](https://github.com/TejasriMasina) -My First Contribution
 - [Victor Costantini](https://github.com/vittoriocostantini) - My First Contribution
 - [Jasdeep Chahal](https://github.com/JasdeepChahal6) - My first Contribution 
 - [Rinsha Mol K S](https://github.com/rinshamol) - Exploring the world of open source with curiosity and code ✨
