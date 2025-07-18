@@ -2998,6 +2998,7 @@ Jyothish
 - [jokalu-it](Grüße :D)
 - [Asif Iqbal](https://github.com/rvasif)
 - [YudisSutisna](https://github.com/Hanep77)
+- [snopstor](https://github.com/snopstor)
 - [STA](https://github.com/sithuaung246810)
 - [Ernest Muli](https://github.com/kunmuli)
 - [Cole Oliva](https://github.com/ColeOliva)
