@@ -5062,3 +5062,5 @@ asd
 - [Hrushikesh Kale](https://github.com/Hrushikesh2089) - Starting my journy with open source contribution
 - [Zeyu Xie](https://github.com/Zeyu-Xie) - Hello world. 👋
 - [Michael leo](https://github.com/micheal-leo) - Hello ,my first step to future
+- [Vedant Dhebe](https://github.com/vedant10304) - My first contributon in open source.
+
