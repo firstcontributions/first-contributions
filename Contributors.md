@@ -4841,6 +4841,7 @@ John Morgan Hello!
 -[Nitish Kumar Patel](https://github.com/anavarin68) - Thisis my first conttribution!!
 - [Kangsub Han](https://github.com/hks0827) hello! OpenSource
 - [Edward Summitt](https://github.com/EdwardSummitt) hello
+- [Syed Sajjad Ali](https://github.com/syedsajjadali258) This is Sajjad, working as an AI Engineer and looking forward to making contributions in lots of projects.
 - [lalashark](https://github.com/lalashark) hi this is lalashark~
 - [Mohit Rathi](https://github.com/rathi-mohit) Hey, I'm Mohit!
 - [Diego Vela](https://github.com/Diego-Vela) Hi! I'm Diego.
