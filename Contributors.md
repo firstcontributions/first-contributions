@@ -5079,3 +5079,5 @@ asd
 - [Dwight Gagni](https://github.com/gagni555)- start of my github journey!! good day!!
 - [Eleonora Cavone](https://github.com/cavoneleonora) - Primo contributo
 - [Satvik Pandey](https://github.com/satvikpandey)- Hello, Here it begins.
+- [Zugrăvel Teodor](https://zugravel-teodor.github.io/) - Just pretend that this is something really cool.
+
