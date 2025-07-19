@@ -2784,11 +2784,11 @@ Darien Edwards
 - [Nimisha](https://github.com/codehusler14)
 - [Bhavishay Bharti](https://github.com/bhavi-b)
 - [Shrushti Jadhav](https://github.com/shrushtijadhavv)
-- [Def1] (https://github.com/Def1s1)
+- [Def1](https://github.com/Def1s1)
 - [Dr4kfire](https://github.com/dr4kfire)
 - [Shaswat Raj](https://github.com/sh20raj)
 - [Ajay Dongare](https://github.com/GluconicAcid)
--[Nima Abed](https://github.com/nimabed)
+- [Nima Abed](https://github.com/nimabed)
 - [Manisha1679](https://github.com/Manisha1679)
 - [Lachlan Robinson](https://github.com/lachlan-robinson)
 - [Dascalu Dumitru](https://github.com/IronMemo)
@@ -2891,9 +2891,8 @@ Darien Edwards
 - [wystmk](https://github.com/wystmk)
 - [Emiakpor](https://github.com/Emiakpor)
 - [hyenee99](https://github.com/hyenee99)
-random guy
-
-Jyothish
+- random guy
+- Jyothish
 - [Pranav](https://github.com/Pranav0102)
 - [Mzwandilemkhokha](https://github.com/mzwandilemkhokha)
 - [Janvi Chetan Patel](https://github.com/JanviChetanPatel)
@@ -2935,7 +2934,7 @@ Jyothish
 - [Floyd Carlo](https://github.com/floo69)
 - [Omkar Guha](https://github.com/omkarguha)
 - [Josmer Rodriguez](https://github.com/Josmerr)
-  [Shiva Prasad Reddy](https://github.com/Shiva-Prasad-Reddy-K)
+- [Shiva Prasad Reddy](https://github.com/Shiva-Prasad-Reddy-K)
 - [Max Rauber](https://github.com/maxrbr)
 - [TsvetislavRangelov](https://github.com/TsvetislavRangelov)
 - [SHP](https://github.com/Su-Hnin)
@@ -5020,22 +5019,22 @@ asd
 [Sudhanshu konte](https://github.com/Sudhanshukonte)
 - [Ragini Singh](https://github.com/raginisingh)-My first Contribution
 - [Larson](https://github.com/lixianphy)
-- [Vinod] (https://github.com/Vinod-Kumar-99)
+- [Vinod](https://github.com/Vinod-Kumar-99)
+- [Wal](https://github.com/walter1705) :)
 - Aanchal Jha
 - OG TOX To da World
 - FfFt100
--[SAMYAKBORKAR](https://github.com/SamyakBorkar)
+- [SAMYAKBORKAR](https://github.com/SamyakBorkar)
 - [Tony](https://github.com/toninoming) -Forhumanity
- 
--[NawalShahid] (https://github.com/Nawal-Shahid) Let's connect
- [fabietto](https://github.com/drfabiogit) ciao
- [KOUSHIK](https://github.com/KOUSHIK08026) Just started todayyyyyyyyyyy
- [mingo](https://github.com/mingo86) ciao
- [bearjcc](https://github.com/bearjcc) Kia Ora from New Zealand!
- [Rashmi](https://github.com/lopalopa) Rashmi  from India!
-[Amogh](https://github.com/deathstr0ke21) LESSGO  OPEN SOURCE
-[vidhi](https://github.com/vidbha) just started
--[Sagarika](https://github.com/SagarikaWankhede) First step in open source ! Excited for more !
+- [NawalShahid] (https://github.com/Nawal-Shahid) Let's connect
+- [fabietto](https://github.com/drfabiogit) ciao
+- [KOUSHIK](https://github.com/KOUSHIK08026) Just started todayyyyyyyyyyy
+- [mingo](https://github.com/mingo86) ciao
+- [bearjcc](https://github.com/bearjcc) Kia Ora from New Zealand!
+- [Rashmi](https://github.com/lopalopa) Rashmi  from India!
+- [Amogh](https://github.com/deathstr0ke21) LESSGO  OPEN SOURCE
+- [vidhi](https://github.com/vidbha) just started
+- [Sagarika](https://github.com/SagarikaWankhede) First step in open source ! Excited for more !
 - [Aditya](https://github.com/AdityaGupta-debug) First open source contribution letss gooooo
 - [verticraze](https://github.com/verticraze) Greatness from small beginnings.
 - [Shubham Rana](https://github.com/Ranashubham19) Shubham from india
@@ -5049,7 +5048,7 @@ asd
 - [Raviteja M](https://github.com/Raviteja-021) hello...
 - [Govind Chauhan](https://github.com/gov5033) hellooooo, wassssup
 - [Chandini Sri Mounika](https://github.com/chandinisrimounika) 
--- [ROHIT SINGH](https://github.com/Row-heat) - first step to open world
+- [ROHIT SINGH](https://github.com/Row-heat) - first step to open world
 - [Aman Dwivedi](https://github.com/amandwivedi45)
 - [Navneet Singh Yadav](https://github.com/Navneet225)
 - [Rupesh Sahu](https://github.com/Rynox1612) - journey will begin now.
