@@ -23,6 +23,7 @@
 - [0v3nb1rd](https://github.com/0v3nb1rd)
 - [Loic CHECK](https://github.com/NDZIE444)
 - [Muhammed Serim](https://github.com/mahitox38)
+- [Deepak](https://github.com/Deepak2502kumar/)
 - [Otavio Gomes](https://github.com/otgomes) 👈(ﾟヮﾟ 👈)
 - [Aatif Khan](https://github.com/Aatif-K47)
 - [Shashank Dahake](https://github.com/ShashankDahake7)
