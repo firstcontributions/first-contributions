@@ -23,6 +23,7 @@
 - [Emanuel Rivera](https://github.com/emanuelRiveraA)
 - [Dhawal Shukla](https://github.com/DhawalShankar) - Walking slow but walking right 🇮🇳
 - [REIMOND](https://github.com/Reimond-aint-Playing)
+- [Jatin Mehta](https://github.com/JatinMehta007) - My First Open Source Contribution!
 - [Vaishnavi Pawar](https://github.com/vaishnavipawar123)
 - [Kumar Sourav](https://github.com/kumarsourav12) - My First Open Source Contribution! Hah !
 - [Shankarjatin](https://github.com/shankarjatin) - My First Open Source Contribution in 2025!
