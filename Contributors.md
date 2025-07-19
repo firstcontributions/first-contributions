@@ -457,6 +457,7 @@ Achal Agrawal
 - [feb](https://github.com/Feb487) Hello World ! My first contribution to Open Source World from Italy 17/07/2025
 - [Sonia RM Karungi](https://github.com/SoniaRMK): 
 - [sourav](https://github.com/souravdpal)
+- [candleconch](https://github.com/candleconch)
 - [Abhishek Kumar Paswan](https://github.com/Abhishekkumarpaswan) My first open source contribution on 18/06/2025! 12:40 AM
  Hello my name is namexy and here is my first of many open source contribution
 - [Matheus Knaul] (https://github.com/matheusknaul) My First
