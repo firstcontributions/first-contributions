@@ -2205,6 +2205,7 @@ Matthew Burgos
 - [Manuel Fernández](https://github.com/manuelito18)
 - [Gustavo William](https://github.com/alt-gusta)
 - [Chioma Igbe](https://github.com/Dagem17)
+- [Naruto Uzumaki](https://github.com/snikmas)
 - [Aryan Srivastava] (https://github.com/AryanSrivastava15)
 - [Tinotenda Mhedziso](https://github.com/Passion-Over-Pain)
 - [Olyviero](https://github.com/olyviero)
@@ -2275,7 +2276,7 @@ Matthew Burgos
 
 - [Rajinisoumya](https://github.com/Rajinisoumya)
 - [Abhinav Singh](https://github.com/Abhinav-kodes)
-- [Janardhan Polle](https://github.com/Jpisnice)
+- [Janardhan Polle](https://github.com/Jce)
 - [John Wilkinson](https://github.com/dnCRevelation)
 - [Yeshu](https://www.youtube.com/watch?v=hB7CDrVnNCs)
 - [Priyanshu Agarwal](https://github.com/23f2003488)
