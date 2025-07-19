@@ -64,6 +64,7 @@
 - [Gabriel Frerot](https://github.com/ZarathustraSama) -Done.
 - [Piyush Pratap](https://github.com/PiyushPratap10) - I am starting from here and will go in Google someday for sure.
 - [Tabassum Shaikh](https://github.com/TabassumSK) - Hello, I am Starting my Contribution journey to make impact on Real World.
+
 - [Kathan Soni](https://github.com/kathan219) - Hii, I am learning how to contribute to open source projects.
 - [Ahmad Shatnawi](https://github.com/ahmadsh2007) - Hello World! This is my first contribution from Jordan!!
 - [Abdallah Sarayrah](https://github.com/AbdallahDev) - مرحبا : I'm Abdallah from Jordan, and I'm aspiring to work as a Full Stack Developer.
@@ -693,6 +694,7 @@ Achal Agrawal
 - [Imalka Sewwandi](https://github.com/imalkasewwandi24) Excited to contribute!
 - [Sweta goswami] This is my first contribution hope to do more on real world projects ....
 -[Rohan Pawar](https://github.com/Rohanpawar9921) **Trying best to be a contributer ❤️
+- [maddikasirireddy](https://github.com/maddikasirireddy)My first contribution in github. Really excited!
 - [Deeraj P Menon](https://github.com/Deratheone) 
 - [Yourself] First contribution ...
 - [Wyn Mars] (https://github.com/WynMars/) Cheer up, don't give in
