@@ -11,6 +11,7 @@
 - [Mathias Hadji](https://github.com/Mathias-Hadji) - Hello World 🌍
 - [Shivraj Chaudar](https://github.com/rajchaudar) - My first Github Contribution, Connect For More On https://shivrajchaudar.me
 - [Sushmita Musunuri] - first contribution woowow!
+- [Lakshmihollat](https://github.com/Lakshmihollat) -Namaste!! This is my first open source contribution!
 -[Sumeet Ramdas Jadhav](https://github.com/jadhavsumeet24)- My First Open Source Contribution!
 -[Aaditya-N](https://github.com/Aaditya-N)- My First Open Source Contribution, Excited for this journey!
 -[Mohit Reddy] (https://github.com/mohit-epic) - First Open Source Contribution, let's start this wonderful journey!!
