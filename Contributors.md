@@ -5065,5 +5065,6 @@ asd
 - [Hrushikesh Kale](https://github.com/Hrushikesh2089) - Starting my journy with open source contribution
 - [Zeyu Xie](https://github.com/Zeyu-Xie) - Hello world. 👋
 - [Michael leo](https://github.com/micheal-leo) - Hello ,my first step to future
-- [Akshita Nigam](https://github.com/yinakshita) – Hello everyone, this is my first open source contribution!
-- [Arthur Xu](https://github.com/XH323) – Hello,GitHub connects us all over the world!
+- [Akshita Nigam](https://github.com/yinakshita) - Hello everyone, this is my first open source contribution!
+- [Kasula Danushya Reddy](https://github.com/Dhanushya2003-eng) - Excited to start my open source journey!
+- [Aniket](https://github.com/gitforaniket) - Embarking on my open source journey! Happy to connect and collaborate.
