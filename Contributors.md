@@ -5077,12 +5077,14 @@ asd
 - [Utkarsh Kushwaha](https://github.com/utkarshwrks) - First step into Open Source,btw Helloo World!!!
 - [Zeyu Xie](https://github.com/Zeyu-Xie) - Hello world. 👋
 - [Michael leo](https://github.com/micheal-leo) - Hello ,my first step to future
-- [Akshita Nigam](https://github.com/yinakshita) – Hello everyone, this is my first open source contribution!
-- [Arthur Xu](https://github.com/XH323) – Hello,GitHub connects us all over the world!
-- [Avinash415](https://github.com/Avinash415) – Hii, this is my first-open source contribution for any public project.
-- [Akriti Gupta](https://github.com/akriti04gupta) - Hii, my first open source contribution is a step towards my new tech journey!! 🌍
-- [Dwight Gagni](https://github.com/gagni555)- start of my github journey!! good day!!
-- [Eleonora Cavone](https://github.com/cavoneleonora) - Primo contributo
-- [Satvik Pandey](https://github.com/satvikpandey)- Hello, Here it begins.
-- I'm chino and this is my first contibtion lezzzgooooooo !!!!!!!!!!
-- [Akash Shinde](https://github.com/Mr-akashshinde26)- Hello, this is my first contribuion 
+-[Akshita Nigam](https://github.com/yinakshita) - Hello everyone, this is my first open source contribution!
+-[Kasula Danushya Reddy](https://github.com/Dhanushya2003-eng) - Excited to start my open source journey!
+-[Aniket](https://github.com/gitforaniket) - Embarking on my open source journey! Happy to connect and collaborate.
+-[Arthur Xu](https://github.com/XH233) - Hello, GitHub connects us all over the world!
+-[Avinash415](https://github.com/Avinash415) - Hi, this is my first-open source contribution for any public project.
+-[Akriti Gupta](https://github.com/akriti8840) - Hi, my first open source contribution is a step towards my new tech journey!! 🌐
+-[Dwight Gagni](https://github.com/gagni555) - Start of my github journey!! good day!!
+-[Eleonora Cavone](https://github.com/cavoneleonora) - Primo contributo
+-[Satvik Pandey](https://github.com/satvikpandey) - Hello, Here it begins.
+I'm chino and this is my first contribution lezzgoooooo !!!!!!!!!!!!
+-[Akash Shinde](https://github.com/Mr-akashshinde26) - Hello, this is my first contributuion
