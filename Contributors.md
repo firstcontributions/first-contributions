@@ -2896,6 +2896,8 @@ Darien Edwards
 - [Lemar Tokham](https://github.com/LemarTokham)
 - [Bird Dog](https://github.com/acuhlian)
 - [Gil Anavi](https://github.com/thisguygil)
+
+- [Chad Kovac](https://github.com/wrek)
 - [Michael B.](https://github.com/mbyrd3)
 - [ Supraja Gaonkar ](https://github.com/Supraja-Gao)
 - [Oscar A. Virguez](https://github.com/oscar243)
