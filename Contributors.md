@@ -5047,7 +5047,7 @@ asd
 -[SAMYAKBORKAR](https://github.com/SamyakBorkar)
 - [Tony](https://github.com/toninoming) -Forhumanity
  
--[NawalShahid] (https://github.com/Nawal-Shahid) Let's connect
+- [NawalShahid] (https://github.com/Nawal-Shahid) Let's connect
  [fabietto](https://github.com/drfabiogit) ciao
  [KOUSHIK](https://github.com/KOUSHIK08026) Just started todayyyyyyyyyyy
  [mingo](https://github.com/mingo86) ciao
