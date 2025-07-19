@@ -1,0 +1,12 @@
+{
+  "name": "pr-feedback-bot",
+  "version": "1.0.0",
+  "description": "Automated PR feedback bot for first-contributions-1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@octokit/rest": "^20.0.0"
+  }
+} 
