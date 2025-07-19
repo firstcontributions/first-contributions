@@ -5073,4 +5073,5 @@ asd
 - [Arthur Xu](https://github.com/XH323) – Hello,GitHub connects us all over the world!
 - [Avinash415](https://github.com/Avinash415) – Hii, this is my first-open source contribution for any public project.
 - [Akriti Gupta](https://github.com/akriti04gupta) - Hii, my first open source contribution is a step towards my new tech journey!! 🌍
+- [Eleonora Cavone](https://github.com/cavoneleonora) - Primo contributo
 - [Satvik Pandey](https://github.com/satvikpandey)- Hello, Here it begins.
