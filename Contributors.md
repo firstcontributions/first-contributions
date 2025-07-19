@@ -956,6 +956,7 @@ abu sulaymaan
 - Sibi Elwin
 Solomon
 - [Oscar](https://github.com/oscarmiguel1)
+- [Nandha](https://github.com/nandhaakihore)
 - [Paul](https:/github.com/neverleaveualong)
 - [0xHuzaifa](https://github.com/0xHuzaifa)
 - [Téo Zwiebel](https://github.com/TeoZWIEBEL)
