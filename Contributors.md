@@ -2076,6 +2076,7 @@ Matthew Burgos
 - [gitcerts](https://github.com/gitcerts)
 - [Daniel Jamison](https://github.com/djamison2903)
 - [Ram Charan](https://github.com/ramCharan2405)
+- [Rohan Gupta](https://github.com/rohan20113)
 - [Darshil Shah](https://github.com/nameisdarshil)
 - [Fatih Portakal](https://github.com/GoStKoRx)
 - [Rushikesh](https://github.com/RushikeshGanachari)
