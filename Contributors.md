@@ -5107,3 +5107,4 @@ asd
 - [Aakriti Kushwaha][@aakritixyz](https://github.com/aakritixyz) - First contribution, Hello world!
 - [Sneha Yadav](https://github.com/Sneha764) - This is my first contribution!
 - [Evaristo Pinto](https://github.com/Evaristopinto16) - This is my first contribution!
+- [Xin Fang](https://github.com/SquareHappy-Xin) - This is my first open source contribution!
