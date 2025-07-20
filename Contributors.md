@@ -12,6 +12,7 @@
 - [Benjamin Richter] (https://github.com/BenjaminRichter-pyjar) - I think I've done it
 - [Nikhil Goswami](https://github.com/MileWhile) - Hello Contributors....
 - [Rupinder][https://github.com/rupinder-bhatty/first-contributions.git] - Hello World...
+- [Oruaro Udogri](https://github.com/udogri) - Hiii, I'm excited for my first open source contribution
 - [Aditya Jaiswal](https://github.com/AdityaCJaiswal) - Adi was here! Lets connect, build and learn together.
 - [Heiliger Paul] (https://github.com/Heiliger4) – From Addis Ababa to the world—this is my first open source footprint. More to come.
 - [Abhilasha Kiran] (https://github.com/abheelasha) - Abhilasha's first Github Contribution
