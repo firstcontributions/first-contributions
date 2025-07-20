@@ -4540,4 +4540,4 @@ Artem Ryabtcev
 - [Alberto Jiménez] (https://github.com/alberyxulo)
 - [Biswarup Das](https://github.com/biswarupdas445)
 Jin
-- [Anushka Dey](https://github.com/Anushka-Dey-dotcom)-Hello everyone! happy to be there!
+- [Anushka Dey](https://github.com/Anushka-Dey-dotcom) - Hello everyone! Happy to be there!
