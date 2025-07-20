@@ -1,5 +1,6 @@
 # Contributors
 
+- [Stephen James Ada](https://github.com/stephenjamesada) - My name is Stephen and this is my first contribution!
 - [Oluwafunmilayo Oluwatobiloba](https://github.com/Oluwateezzy) - The journey of open source start with this contribution (20th July 2025)
 - [Ricardo Reis] (https://github.com/RBNasciment) - First Mission Completed!
 - [Rishiraj S](https://github.com/rishiraj-58)- My First Open Source Contribution!
