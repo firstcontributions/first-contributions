@@ -752,7 +752,7 @@
 - [gitty98]noice
 - [Ancil](https://github.com/iamancil)
 - [Om Borse](https://github.com/Om-Borse26) My first contribution to open source!
-- [androvonx95](https://github.com/androvonx95) – **** I use Arch btw 🗿🗿🗿🗿 ****
+- [androvonx95](https://github.com/androvonx95) – \***\* I use Arch btw 🗿🗿🗿🗿 \*\***
 - [Robyn](https://github.com/RBodde)
 - [Snowsita](https://github.com/Snowsita)
 - [smoglmy](https://github.com/smoglmy)
@@ -1073,7 +1073,7 @@
 - [Mohan Singh](https://github.com/MohanSG)
 
 - [Mukund](https://github.com/mukundgupta)
-  -[Vincenzo Pugliese https://github.com/nokiotto80)
+- [Vincenzo Pugliese] (https://github.com/nokiotto80)
 - [HashimZ](https://github.com/HASHIM0312)
 - [OmarKHDR](https://github.com/OmarKHDR)
 - [Clement Ogol](https://github.com/Clem-Tee)
