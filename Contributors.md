@@ -42,6 +42,7 @@
 [Prachi Garg](https://github.com/prachi757) – Grateful for my first open source step.
 - [Matthieu Vinet](https://github.com/Mattcadam) – Will The World Remember My First Contribution?
 - [Sean.K](https://github.com/itsmrseantoo) - Hello World from Taiwan. My first Contribution
+- [An Axolotl](https://github.com/axolotl-gits) - Hello and grateful to the Open Source Software community.
 - [Eric S](https://github.com/ericsawin) - My First Contribution
 - [M Han](https://github.com/matthewhanyd) - My First Contribution
 -[Omorinsola Makinde](https://github.com/Omo-Rinsola) - first contribution
@@ -175,6 +176,7 @@ Hello world.I'm Rohith and this is my first open source contribution on (7/8/202
 - [vtrgo] (https://github.com/vtrgo) - Hi from Canada on 2025-07-15!
 - [krazyness] (https://github.com/krazyness) - this is fun 2025-7-16
 - [jw-MY] (https://github.com/Yeoh-JinWei) - Hello World! 你好世界！
+- [Dheeraj](https://github.com/Dheeraj-Chintala) - Getting first badge
 - [whiteDevil] (https://github.com/prasad-bigdp) - I did 05/07/2025
 - [NSGneha] (https://github.com/NSGneha) - First step into Open Source
 - [Ankit-Singh] (https://github.com/Ankit300302) - First step into Open Source
@@ -273,6 +275,7 @@ vanakkam da Mapala...
 -[Anthony Ostia](https://github.com/maroonedace) - Hi, this will be my first contribution to open source.
 -[Moosa Ali](https://github.com/Moosa-Aly) - Hi, guys how are you?
 -[Bikram](https://github.com/bikramroyutsa/) - Hi, commiting to os for the first time
+-[Khabab Akhtar](https://github.com/Khababakhtar20)
 -[Miska Braun](https://github.com/MiskaB) - Never follow the beaten path, make your own instead, they said...
 -[Ajith Binny](https://github.com/AjithBinnyK) - Pooram kodi keri makkale....
 -[Insaf](https://github.com/itsmefminsaf) - Remember my name. I am the one who is going to invent the quantum computer
@@ -5108,3 +5111,5 @@ asd
 - [Sneha Yadav](https://github.com/Sneha764) - This is my first contribution!
 - [Evaristo Pinto](https://github.com/Evaristopinto16) - This is my first contribution!
 - [Tatevik Harutyunyan](https://github.com/tatevik-h) 
+- [Xin Fang](https://github.com/SquareHappy-Xin) - This is my first open source contribution!
+- [Gurbani Kaur](https://github.com/KaurGurbani) - This is my first open source contribution!
