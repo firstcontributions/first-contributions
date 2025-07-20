@@ -1917,6 +1917,7 @@ Matthew Burgos
 - [kalkrijk](https://github.com/kalkrijk)
 - [Autumn Willard] (https://github.com/autumnwillard)
 - [Coolgamer]
+- [Jahanvi Rajpurohit](https://github.com/Jhamko)
 - [Shubham Bankar] (https://github.com/shubhsbankar)
 - [Kim Minseok] (https://github.com/semteul)
 - [dzwee]
