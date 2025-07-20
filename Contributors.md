@@ -354,6 +354,7 @@ vanakkam da Mapala...
 -[Augusta](https://github.com/AbundanceChommy) This is my first contribution.I'm excited to contribute to open source.
 - [Olivier] this is my first contribution ever ! I'm happy to try this new feature. Salutations to everyone !
 - [M.Kabileshwaran](https://github.com/Kabileshwarankabil) - Hello 👋 This is my first open-source contribution Thanks you .
+- [Rune](https://github.com/newbie000652) - Starting my open source journey with the First Contributions tutorial
 - [Farhan Hajid](https://github.com/FHajid) - Hello My First contribution Good luck
 - [Artūrs Kiseļevskis](https://github.com/akiselevskis) - Hey! Thank you for this guide :)
 - [Khushi Gupta](https://github.com/Khushi0389) – Happy to be part of the open-source world! 🚀
