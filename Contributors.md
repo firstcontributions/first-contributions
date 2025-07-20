@@ -1416,6 +1416,7 @@
 - [Marcela Obeso](https://github.com/marcelaobeso)
 - [Gabriel Lima](https://github.com/gabriel-lima258)
 - [Pavithra Nelluri](https://github.com/PavithraNelluri)
+- [Abdullah Jameel](https://github.com/abdullahxyz85)
 - [Samuel Calixto](https://github.com/samuelcalixtodev)
 - [Samuel Oommen](https://github.com/fullstacksam23) hello world and happy coding :>
 - [Kaori Athaya Hazza] (https://github.com/Hazko-stack)
