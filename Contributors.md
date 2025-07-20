@@ -7,6 +7,7 @@
 - [chaitanya varma](https://github.com/pc099) - Alright ! Alright ! Alright ! Frist Contribution
 - Roshan(@roshan74323)
 - [Omar Ebead](https://github.com/OmarE20) - Hello, here's to many more contributions!
+- [Benjamin Richter] (https://github.com/BenjaminRichter-pyjar) - I think I've done it
 - [Nikhil Goswami](https://github.com/MileWhile) - Hello Contributors....
 - [Rupinder][https://github.com/rupinder-bhatty/first-contributions.git] - Hello World...
 - [Aditya Jaiswal](https://github.com/AdityaCJaiswal) - Adi was here! Lets connect, build and learn together.
