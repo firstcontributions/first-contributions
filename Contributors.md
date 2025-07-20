@@ -18,6 +18,8 @@
 -[Aaditya-N](https://github.com/Aaditya-N)- My First Open Source Contribution, Excited for this journey!
 -[Mohit Reddy] (https://github.com/mohit-epic) - First Open Source Contribution, let's start this wonderful journey!!
 - [Owen Erhabor](https://github.com/owen-6936) - Owen was here! Lets connect, build and learn together.
+
+- [Faizan Hameed Tantray](https://github.com/faizcasm) - Faizan was here! Lets connect, build and learn together.
 - [chenpan](https://github.com/giter-chenpan) - hi, my first contribution
 -[Sai Ram Reddy](https://github.com/sairamarava) - Namaste, This is my first contribution.
 - [Mohan Sai](https://github.com/Mohansai-M) – React/Next.js Developer • [Portfolio](https://mohansaim.vercel.app/)
