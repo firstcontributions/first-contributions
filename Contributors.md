@@ -2838,6 +2838,7 @@ Darien Edwards
 - [Anthony Okechukwu Ubah](https://github.com/okeysbytes)
 - [ARPITHA](https://github.com/Arpitha189)
 - [Sidhant Naik](https://github.com/Sidnaik04)
+- [Ethan Davey](https://github.com/halioti2)
 - [rockxxjin](https://github.com/rockxxjin)
 - [WeAreBorg20](https://github.com/WeAreBorg20)
 - [idrees](https://github.com/idrees2k22)
