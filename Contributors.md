@@ -35,7 +35,7 @@
 - [Vishwanath Pradeep](https://github.com/vishwanath4002) - My first contribution, will this help me not be unemployed and homeless?
   [Prachi Garg](https://github.com/prachi757) – Grateful for my first open source step.
 - [Matthieu Vinet](https://github.com/Mattcadam) – Will The World Remember My First Contribution?
-- [imtiaz ali](https://github.com/imtiaza1) – Things we do for love omg My First Contribution?
+- [imtiaz ali](https://github.com/imtiaza1) – My First Contribution?
 - [Sean.K](https://github.com/itsmrseantoo) - Hello World from Taiwan. My first Contribution
 - [Eric S](https://github.com/ericsawin) - My First Contribution
 - [M Han](https://github.com/matthewhanyd) - My First Contribution -[Omorinsola Makinde](https://github.com/Omo-Rinsola) - first contribution
