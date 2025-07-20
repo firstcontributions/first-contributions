@@ -175,6 +175,7 @@ Hello world.I'm Rohith and this is my first open source contribution on (7/8/202
 - [vtrgo] (https://github.com/vtrgo) - Hi from Canada on 2025-07-15!
 - [krazyness] (https://github.com/krazyness) - this is fun 2025-7-16
 - [jw-MY] (https://github.com/Yeoh-JinWei) - Hello World! 你好世界！
+- [Dheeraj](https://github.com/Dheeraj-Chintala) - Getting first badge
 - [whiteDevil] (https://github.com/prasad-bigdp) - I did 05/07/2025
 - [NSGneha] (https://github.com/NSGneha) - First step into Open Source
 - [Ankit-Singh] (https://github.com/Ankit300302) - First step into Open Source
