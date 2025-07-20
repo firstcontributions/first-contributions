@@ -318,6 +318,7 @@ vanakkam da Mapala...
 - [Kyle Santos] - Nice to meet you!
 - [Kashyap Hegde Kota](https://github.com/KashyapHegdeKota) - Hey everyone! My name is Kashyap and I am excited to contribute to open source projects on Github! July 9th 2025
 - [Adarsh Rangare](https://github.com/adarshrangare) - Software Developer
+- [Leah](https://github.com/leahglang) - My First Contribution
 - [James Kiongo Njihia](https://github.com/jameskiongo) - Software Developer
 - [Miro Kakkonen](https://github.com/MJKagone) - o/
 - [Saikat Hazra](https://github.com/saikat7890) - Software Developer
