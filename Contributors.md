@@ -35,6 +35,7 @@
 -[Manali Sengupta](https://github.com/manali15-hub)- My First Open Source Contribution!
 - [Aakash Mahajan](https://github.com/AakashMahajan25) - My First Open Source Contribution!
 - [Aman Rohilla](https://github.com/amanrohilla23)
+- [Theo J] - First Contribution
 - [Cyril Pius](https://github.com/cyrilpiusch)- I remember Matthieu Vinet's first contribution
 - [Emanuel Rivera](https://github.com/emanuelRiveraA)
 - [Dhawal Shukla](https://github.com/DhawalShankar) - Walking slow but walking right 🇮🇳
