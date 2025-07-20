@@ -584,7 +584,8 @@ Achal Agrawal
 - [HaiJeng](https://github.com/HaiJeng) Making this commit on 2025-06-12 16:22:49
 - [Raunak](https://github.com/Raunakkumarsingh2005) Making this commit on 12.06.2025 If you are new to open source like me let's get in touch. Connect with me on X(https://x.com/RaunakKumar_27). Dm and we are good to go.
 - [Ny Aina] Trying to be social ;P
-- [Piyush Banka] Hello Everyone :) 
+- [Piyush Banka] Hello Everyone :)
+- [Jahanvi Rajpurohit](https://github.com/Jhamko) 
 - [Achal](https://github.com/vx6Fid)
 - [Srilekha]
 - [Ben Huynh] (https://github.com/benhyh) - Xin chào 💛
@@ -1949,6 +1950,7 @@ Matthew Burgos
 - [kalkrijk](https://github.com/kalkrijk)
 - [Autumn Willard] (https://github.com/autumnwillard)
 - [Coolgamer]
+- [Jahanvi Rajpurohit](https://github.com/Jhamko)
 - [Shubham Bankar] (https://github.com/shubhsbankar)
 - [Kim Minseok] (https://github.com/semteul)
 - [dzwee]
