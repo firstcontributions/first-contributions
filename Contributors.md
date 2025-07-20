@@ -76,6 +76,7 @@
 - [Krishnan](https://github.com/Krishnan612) - Hello Brothers and Sisters, I am learning how to contribute to open source projects from India, Tamil Nadu
   [Anandu Prasannan](https://github.com/AnanduPrasannan) -For the betterment of humanity
 - [Argha Saha](https://github.com/Argha782) - Hello everyone, this marks the start of my open source journey...🌟🌟🌟
+- [MironBerch](https://github.com/MironBerch) - Hi, this is my first contribution. Thanks and good luck for everyone
 - [Giuseppe Lomasto](https://github.com/Giuppx) - Hi everyone, this is my first contribution from Italy!
 -[Saral Dwivedi](https://github.com/SaralDwivedi21) -First Open Source Contribution.
 - [Gabriel Frerot](https://github.com/ZarathustraSama) -Done.
