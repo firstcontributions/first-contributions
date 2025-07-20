@@ -102,6 +102,7 @@ Was here!
 - [Amiraly](https://github.com/amiralitaherkhany) - Hiiii
 - [Balraj Choure](https://github.com/balraj009) – 🌟 First PR!
 - [Fernando Navas](https://github.com/fnavas) - Hello, this is my first contribution
+- [Hamsika](https://github.com/Hamsika7) - Hi,I am very happy to contribute.
 - #comment line
   [Ayush Chaudhary](https://github.com/Ayush-Chaudhary13)
 - [Shubham Kumar](https://github.com/sk244194) - Starting my Open Source Journey
