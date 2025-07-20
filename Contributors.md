@@ -158,7 +158,7 @@ Angana S
 [HarshSharma](https://github.com/BeastHarsh047) So heres my First time contri lets see where this goes ....
 Hello world.I'm Rohith and this is my first open source contribution on (7/8/2025). Code for good!!. Peace ppl.
 -[Shalabh Ranjan](https://github.com/ShalabhRanjan19)- Hello ! This is my first open source contribution!
--[Mansoor Satti](https://github.com/Satti201) - Hello This is my first open source contribution (July 07, 2025)
+-[Mansoor Satti](https://github.com/Satti201) - Hello This is my first open source contribution (July 07, 2025)<br>
 -[Yaswanth Kumar Mallela](https://github.com/Yash864512)- Hello to one seeing this! This is the first step for more contributions comming up from me
 - [Aditya Ranjan](https://github.com/adityaranjan08) - Hello This is my first open source contribution
 -[Todd Chase](https://github.com/Tchase2472) - Hello This is my first open source contribution
