@@ -6,6 +6,7 @@
 - [calvintaw](https://github.com/calvintaw) - Bonjour! I'm Calvin Taw. Excited to be part of this journey!
 - [chaitanya varma](https://github.com/pc099) - Alright ! Alright ! Alright ! Frist Contribution
 - Roshan(@roshan74323)
+- [Jens_M](https://github.com/vox288)- One does not simply walk into GitHub and contribute! (20th July 2025)
 - [Omar Ebead](https://github.com/OmarE20) - Hello, here's to many more contributions!
 - [Benjamin Richter] (https://github.com/BenjaminRichter-pyjar) - I think I've done it
 - [Nikhil Goswami](https://github.com/MileWhile) - Hello Contributors....
