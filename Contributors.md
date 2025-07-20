@@ -931,6 +931,8 @@ Mubarak Qorane
 - [Siddharth](https://github.com/siddharth2835)
 - [arnavtumbde](https://github.com/arnavtumbde)
 - [avoysasmal](https://github.com/Avoy-Sasmal)
+- [KRISHNA] "Hello people of this great new era let's become better and stronger together and everyday . I hope you have a       
+               wonderful evening, night or a day."
 - [SethMSC](https://github.com/SethMSC)
 - [Sarthak](https://github.com/SarthakMiglani)
 - [NidaSiddiquee](https://github.com/Nida-siddiquee)
