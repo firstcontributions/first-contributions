@@ -835,6 +835,7 @@ Achal Agrawal
 **Lessgoooo!!!**
 - [Kashmala Ahmad](https://github.com/kashmalaahmad)
 - [Benita Magdalene Kingsley Prince](https://github.com/BenitaMags)
+- [Jeremy Alexandre](https://github.com/J-A16)
 - [Sujal Maharjan](https://github.com/SUJAL390)
 - [Tharun Prasad K](https://github.com/tharun10x)
 - [Rodoshi Mondal](https://github.com/rodoshi16)
