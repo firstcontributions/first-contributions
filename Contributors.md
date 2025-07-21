@@ -7,6 +7,7 @@ Hi!!!My first contribution!
 - [Rishiraj S](https://github.com/rishiraj-58)- My First Open Source Contribution!
 - [DrxcoDev](https://github.com/drxcodev2) - Hola!!! My first contribution !
 - [calvintaw](https://github.com/calvintaw) - Bonjour! I'm Calvin Taw. Excited to be part of this journey!
+- []
 - [chaitanya varma](https://github.com/pc099) - Alright ! Alright ! Alright ! Frist Contribution
 - Roshan(@roshan74323)
 - [maiconsvr](https://github.com/maiconsvr) - Opaaaa meus friends! Primeira contribuição com sucesso! Hello from BRAZIL!
@@ -360,6 +361,7 @@ vanakkam da Mapala...
 - [James Kiongo Njihia](https://github.com/jameskiongo) - Software Developer
 - [Miro Kakkonen](https://github.com/MJKagone) - o/
 - [Saikat Hazra](https://github.com/saikat7890) - Software Developer
+- [Aryan Singh](https://github.com/aryansingh) - Namaste! This is my first open source contribution.
 - [ww34sel](https://github.com/w34sel) - Ahoi!
 - [Collins](https://github.com/xperia3110) - this is the first of my many opensource contribution, June 30th 2025.
 - [SunkeSruthi603](https://github.com/SunkeSruthi603/) - Hello! Thank you for this Project.
