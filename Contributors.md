@@ -5,6 +5,7 @@ Hi!!!My first contribution!
 - [Oluwafunmilayo Oluwatobiloba](https://github.com/Oluwateezzy) - The journey of open source start with this contribution (20th July 2025)
 - [Arnold Midalla](https://github.com/arnoldmidalla) - Yay! First actual contribution (21st of July; 2025)
 - [Sumedha Verma](https://github.com/sumve) - My first contribution! Yay! :D 
+- [Bryan Christy](https://github.com/bryanC29) - The open source journey beigns!
 - [Ricardo Reis] (https://github.com/RBNasciment) - First Mission Completed!
 - [Rishiraj S](https://github.com/rishiraj-58)- My First Open Source Contribution!
 - [DrxcoDev](https://github.com/drxcodev2) - Hola!!! My first contribution !
