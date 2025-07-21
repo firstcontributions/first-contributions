@@ -129,7 +129,7 @@ Was here!
 - [Balraj Choure](https://github.com/balraj009) – 🌟 First PR!
 
 - [Manmohan Singh](https://github.com/Manmohan1633) - Hello!!, Broke the ice with my first open-source PR. Many more to go.
-- 
+- [vijaya lakshmi](https://github.com/vijayareddy2002)- hey! happy first contribution.
 - [Fernando Navas](https://github.com/fnavas) - Hello, this is my first contribution
 - [Hamsika](https://github.com/Hamsika7) - Hi,I am very happy to contribute.
 - #comment line
