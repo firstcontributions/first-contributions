@@ -1028,6 +1028,7 @@ Solomon
 - [Oscar](https://github.com/oscarmiguel1)
 - [Nandha](https://github.com/nandhaakihore)
 - [Paul](https:/github.com/neverleaveualong)
+- [CarlosEduts](https://github.com/CarlosEduts)
 - [0xHuzaifa](https://github.com/0xHuzaifa)
 - [Téo Zwiebel](https://github.com/TeoZWIEBEL)
 - WLO (https://github.com/WLO)
