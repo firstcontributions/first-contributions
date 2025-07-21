@@ -47,6 +47,7 @@ namaskaram!!this is my first contribution.
 - [Aman Rohilla](https://github.com/amanrohilla23)
 - [Theo J] - First Contribution
 - [Cyril Pius](https://github.com/cyrilpiusch)- I remember Matthieu Vinet's first contribution
+- [Aditya Parmar](https://github.com/Aditya18mew)- luffy
 - [Emanuel Rivera](https://github.com/emanuelRiveraA)
 - [Dhawal Shukla](https://github.com/DhawalShankar) - Walking slow but walking right 🇮🇳
 - [REIMOND](https://github.com/Reimond-aint-Playing)
