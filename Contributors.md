@@ -52,6 +52,7 @@ namaskaram!!this is my first contribution.
 - [REIMOND](https://github.com/Reimond-aint-Playing)
 - [Jatin Mehta](https://github.com/JatinMehta007) - My First Open Source Contribution!
 - [SahilShammerDev](https://github.com/SahilShameerDev) - Hope I can get more involved with open source
+- [Balusu Sri Koushik Chowdhary](https://github.com/Koushikbalusu) - My First Contribution
 - [Vaishnavi Pawar](https://github.com/vaishnavipawar123)
 - [Kumar Sourav](https://github.com/kumarsourav12) - My First Open Source Contribution! Hah !
 - [Shankarjatin](https://github.com/shankarjatin) - My First Open Source Contribution in 2025!
