@@ -1275,7 +1275,7 @@ Mohamed Farah
  - [IamJayPrakash](https://github.com/IamJayPrakash)
  - [Lawan Mai](https://github.com/zlKxrsan)
  - Wex47
- 
+
 - [Khang Pham](https://github.com/Khang080704) Hi, this is my first contribution to an open source
 
 - [Jony Kapash](https://github.com/JonyKapash) **Hello Everyone! Happy To Start My Open Source Journey!🎉👨‍💻**
@@ -1454,7 +1454,7 @@ Mohamed Farah
  - [Priyadarshini Nadar](https://github.com/walkrantrolls)
  - [Mohrip] (https://github.com/Mohrip)
  - [Sasank Reddy](https://github.com/sasankreddy19)
-  -[Milan Rajanih](https://github.com/milanrajani)
+    -[Milan Rajanih](https://github.com/milanrajani)
  - [Kewoda Joanitah](https://github.com/KewodaJoanitah)
  - [Amrutha Varshini](https://github.com/Varshini1905)
  - [Sathishkumar Thirumalai](https://github.com/sathishkumartheta)
@@ -1529,7 +1529,7 @@ Anshi
  -[George Tannous](https://github.com/GeorgeTannous98) 
  -[Deepak Sharma](https://github.com/DeepakSharma46)
  - [regiiik]
-  sowmya gandhamaneni
+    sowmya gandhamaneni
 - [Justin Monubi] (https://github.com/MonubiJustin)
 - [Baisnabi Rout](https://github.com/Reileen00)
 - [Rachit Singh](https://github.com/RachitSinghh)
@@ -5126,7 +5126,6 @@ asd
 - [Shubham Rana](https://github.com/Ranashubham19) Shubham from india
 - I love Anwar Ibrahim because he teaches me programming.
 - [Navaneeth N](https://github.com/Navth)getting started.
-
 - [Chanchal Teotia](https://github.com/cse22148)
 - [Amber Khan](https://github.com/InsideAmber) Resetting
 - [Praveen Rajak](https://github.com/praveenraj027) Namaste Duniya
@@ -5178,3 +5177,4 @@ asd
 -[Sunny Rishy](https://github.com/sunnyrishy) - This is my very first open source contribution !
 - [Ritank Jaikar](https://github.com/RitankJaikar) - This is my very first open source contribution!
 - [Xiao Zhang](https://github.com/Xiaozhang22) - This is my first open source contribution!
+- [AfanSkr](https://github.com/AfanSkr) - This is my first open source contribution!
