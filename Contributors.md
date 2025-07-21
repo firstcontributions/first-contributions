@@ -3991,6 +3991,7 @@ Jyothish
 - [Newerton] (https://github.com/newerton)
 - [Talanti Arun](https://github.com/talantiarun)
 - [Rohan Upadhyay](https://github.com/RyanX5)
+- [Garrick15](https://github.com/Garrick15)
 - [Liam Horton](https://github.com/Liam-Horton)
 - [Camila Melo Machado](https://github.com/camilamachado)
 - [Kalmykov Nikita](https://github.com/nknk39)
