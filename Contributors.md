@@ -34,6 +34,7 @@ namaskaram!!this is my first contribution.
 - [Sushmita Musunuri] - first contribution woowow!
 - [Paramasivam J]-(https://github.com/ParamasivamJ) -My First Contribution
 - [Raj Singh] - first contibution
+  [Ziad Ibrahim] - first contribution to open source
 - [Lakshmihollat](https://github.com/Lakshmihollat) -Namaste!! This is my first open source contribution!
 -[Sepehr21ar](https://github.com/sepehr21ar) - Make a difference and Be among the best in your field
 -[Sumeet Ramdas Jadhav](https://github.com/jadhavsumeet24)- My First Open Source Contribution!
