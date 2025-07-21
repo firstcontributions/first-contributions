@@ -1,4 +1,5 @@
 # Contributors
+- [Arda Düz](https://github.com/ArdaDuzz) - Arda was here :)
 - [Sukeyna Söğütçü](https://github.com/sukeynasogutcu)
 Hi!!!My first contribution!
 
