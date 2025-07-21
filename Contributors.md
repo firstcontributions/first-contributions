@@ -205,6 +205,7 @@ Hello world.I'm Rohith and this is my first open source contribution on (7/8/202
 - [Namish] (https://github.com/NamishM7) - Yello
 - [Alexandros Angourakis] - Hello :D
 - [Mahesh Bhandari](https://github.com/devmahesh-5) - Hey this is my start to the opensource contribution path - 7/7/2025
+- [Zinedin Saleh](https://github.com/zinedln) - Ein kleiner Schritt für die Menschheit, aber ein großer für die Zukunft!
 - [Shushmitha AVR](https://https://github.com/shushmitha-29) - Hey, everyone this is my first ever GitHub contribution to open source - 6th July.
 -[Aastha Joshi](https://github.com/Aasthajoshay)-Looking forward to learn from this journey and grow as an engineer 16/7/25. 
 -[Kumar] (https://github.com/kumar-github1) - This is my contribution to the opersource project and its 8th July 2025
