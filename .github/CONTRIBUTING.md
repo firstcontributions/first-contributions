@@ -6,6 +6,16 @@ If you'd like to suggest a change in the tutorials or the workflow, please [rais
 
 If you're making changes to a translation, please request a review from our previous contributors who has translated to the respective translation. Our goal is for all translations to have the same content as the English one (`Readme.md`) (Except for links to other translations. We realised that it doesn't add much value)
 
+---
+
+## Before You Submit a Pull Request
+- **Check for duplicates:** Please search existing issues and pull requests to avoid submitting duplicates.
+- **Write a clear PR description:** Summarize what your pull request does and why. This helps reviewers understand your contribution quickly.
+- **Reference related issues:** If your PR addresses an issue, mention it in the description (e.g., `Closes #123`).
+- **Update documentation/tests:** If your change requires documentation or tests, please update them as part of your PR.
+
+---
+
 ### Our reviewers :sparkles:
 
 | Language Name | Name in English | Reviewers|
