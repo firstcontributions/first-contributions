@@ -4422,6 +4422,7 @@ Jyothish
 - [Cole St John] (https://github.com/cole-st-john)
 - [Muneer Hashmat](https://github.com/MuneerHashmat)
 - [Kotaro Fujii](https://github.com/kotarofu)
+- [komihori](https://github.com/komihori)
 - [Mario Ivan Wijaya Tanata] (https://github.com/Mario-Ivan)
 - [HitTheRhythm](https://github.com/HitTheRhythm)
 - [Mykonon](https://github.com/mykonon)
