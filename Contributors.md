@@ -28,6 +28,7 @@ This is my first Open Source Contribution.
 - [Mathias Hadji](https://github.com/Mathias-Hadji) - Hello World 🌍
 namaskaram!!this is my first contribution.
 - [Shivraj Chaudar](https://github.com/rajchaudar) - My first Github Contribution, Connect For More On https://shivrajchaudar.me
+- [Kwame Owusu](https://github.com/kwame-Owusu) - First contribution to open source, going to get better from here on! 
 - [Sushmita Musunuri] - first contribution woowow!
 - [Paramasivam J]-(https://github.com/ParamasivamJ) -My First Contribution
 - [Raj Singh] - first contibution
