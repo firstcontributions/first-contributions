@@ -3,6 +3,7 @@
 Hi!!!My first contribution!
 
 - [Oluwafunmilayo Oluwatobiloba](https://github.com/Oluwateezzy) - The journey of open source start with this contribution (20th July 2025)
+- [Arnold Midalla](https://github.com/arnoldmidalla) - Yay! First actual contribution (21st of July; 2025)
 - [Sumedha Verma](https://github.com/sumve) - My first contribution! Yay! :D 
 - [Ricardo Reis] (https://github.com/RBNasciment) - First Mission Completed!
 - [Rishiraj S](https://github.com/rishiraj-58)- My First Open Source Contribution!
@@ -5187,6 +5188,6 @@ asd
 - [Xiao Zhang](https://github.com/Xiaozhang22) - This is my first open source contribution!
 - [Vishwa Jayawickrama](https://github.com/vishwajayawickrama) - My first open source contribution !!!!
 - [V01D0](https://github.com/V01D0) - This is not my first open source contribution!
-- [Anushka Kanojia](https://github.com/anushkaakanojia) - Hello!!!
 
 - [Anushka Kanojia](https://github.com/anushkaakanojia) - This is my first open source contribution!
+              
