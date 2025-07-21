@@ -43,6 +43,7 @@ namaskaram!!this is my first contribution.
 -[Aaditya-N](https://github.com/Aaditya-N)- My First Open Source Contribution, Excited for this journey!
 -[Mohit Reddy] (https://github.com/mohit-epic) - First Open Source Contribution, let's start this wonderful journey!!
 -[Anjali](https://github.com/walkingacorn) _ I'm excited for this omg!
+-[Harsh Gharat](https://github.com/harsh16coder) _ Let's see where I go !!!!
 - [Owen Erhabor](https://github.com/owen-6936) - Owen was here! Lets connect, build and learn together.
 
 - [Faizan Hameed Tantray](https://github.com/faizcasm) - Faizan was here! Lets connect, build and learn together.
@@ -97,6 +98,7 @@ namaskaram!!this is my first contribution.
 - [Yuvraj Singh](https://github.com/Yuvraj-777) - My First Contributing Looking Forward for More From India.
 - [Elvis Yu](https://github.com/elvis-qq)
   [Ruben Da Silva](https://github.com/rubendasilva) - My First Contributing, and this is just the start of my journey!
+- [Mark O](https://github.com/MforMko) - First one, Done.
 - [Krishnan](https://github.com/Krishnan612) - Hello Brothers and Sisters, I am learning how to contribute to open source projects from India, Tamil Nadu
   [Anandu Prasannan](https://github.com/AnanduPrasannan) -For the betterment of humanity
 - [Argha Saha](https://github.com/Argha782) - Hello everyone, this marks the start of my open source journey...🌟🌟🌟
