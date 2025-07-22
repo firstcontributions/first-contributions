@@ -5212,4 +5212,5 @@ asd
 - [Prajwal Mahalle](https://github.com/Prajwal04M) - This is my first open source contribution!
 - [Audrey Wang](https://github.com/sdytwrj) My first contribution!
 - [Connor Coop] (https://github.com/connorcoop0)
-- Lahari Vanja
+- Lahari Vanja – India (This is my first open source contribution!)
+
