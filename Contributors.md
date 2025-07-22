@@ -6,7 +6,7 @@
 - [Arda Düz](https://github.com/ArdaDuzz) - Arda was here :)
 - [Sukeyna Söğütçü](https://github.com/sukeynasogutcu)
 Hi!!!My first contribution!
-
+- [LuisGutierrez15](https://github.com/LuisGutierrez15) - With great power comes great responsibility 🕷️
 - [Md Sameer](https://github.com/raZer99) - My open source journey begins from this contribution ! (22nd July 2025)
 - [Oluwafunmilayo Oluwatobiloba](https://github.com/Oluwateezzy) - The journey of open source start with this contribution (20th July 2025)
 - [Arnold Midalla](https://github.com/arnoldmidalla) - Yay! First actual contribution (21st of July; 2025)
