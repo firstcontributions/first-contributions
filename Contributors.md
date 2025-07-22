@@ -1,4 +1,5 @@
 # Contributors
+- [XXXZTY](https://github.com/Yezyizhere01) - Hi! My first contribution! It will be more! (22nd of July; 2025)
 - [Zero](https://github.com/CEO-netizen) – My first successful pull request.
 - [Arda Düz](https://github.com/ArdaDuzz) - Arda was here :)
 - [Sukeyna Söğütçü](https://github.com/sukeynasogutcu)
