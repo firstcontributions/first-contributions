@@ -663,6 +663,7 @@ Achal Agrawal
 - [bochard](https://github.com/b0chard)
 - [Axel Munoz](https://github.com/spunito)
 - [Mohamed_amine](https://github.com/AmineDELTA)
+- [Kevin27j](https://github.com/Kevin27j) - 01001000 01101001
 - [Shailesh_Kumar_Shukla](https://github.com/Shaileshukla529) --> Thrilled to announce my first open-source contribution – a huge step in my coding journey!
 - [Akanksha] (https://github.com/Akanksha928) Let's go! 
 - [Aarohi Mathur] lessgoo
