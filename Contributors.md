@@ -5152,6 +5152,7 @@ asd
 - OG TOX To da World
 - FfFt100
 -[SAMYAKBORKAR](https://github.com/SamyakBorkar)
+- [Irtaza Shahzad](https://github.com/irtaza-shahzad) - First contribution lessgo
 - [Tony](https://github.com/toninoming) -Forhumanity
 - [Alex] (https://github.com/alexgit55) - first contribution
 -[NawalShahid] (https://github.com/Nawal-Shahid) Let's connect
