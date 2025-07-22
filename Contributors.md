@@ -1,5 +1,7 @@
 []# Contributors
+- [Riddhi Singh](https://github.com/hi-riddhi) - Hey Myself Riddhi Singh, From Delhi, India. Starting my Open-source learning.(22nd of July; 2025)
 - [XXXZTY](https://github.com/Yezyizhere01) - Hi! My first contribution! It will be more! (22nd of July; 2025)
+
 - [Siddhi Kshirsagar](https://github.com/SiddhiK13) - Open Source Contribution!!!
 - [Zero](https://github.com/CEO-netizen) – My first successful pull request.
 - [Arda Düz](https://github.com/ArdaDuzz) - Arda was here :)
