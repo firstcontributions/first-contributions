@@ -6,7 +6,7 @@
 - [Arda Düz](https://github.com/ArdaDuzz) - Arda was here :)
 - [Sukeyna Söğütçü](https://github.com/sukeynasogutcu)
   Hi!!!My first contribution!
-- [Agustin Bermeo] (https://github.com/AgusBermeo) - Dios les bendiga en este camino (22 07 2025)
+- [Agustin Bermeo](https://github.com/AgusBermeo) - My first step in this dev journey | 22 07 2025
 - [Md Sameer](https://github.com/raZer99) - My open source journey begins from this contribution ! (22nd July 2025)
 - [Eva Aggarwal] () - Hi! First contribution!! (22 July; 2025)
 - [Oluwafunmilayo Oluwatobiloba](https://github.com/Oluwateezzy) - The journey of open source start with this contribution (20th July 2025)
@@ -827,7 +827,7 @@
 - [gitty98]noice
 - [Ancil](https://github.com/iamancil)
 - [Om Borse](https://github.com/Om-Borse26) My first contribution to open source!
-- [androvonx95](https://github.com/androvonx95) – \***\* I use Arch btw 🗿🗿🗿🗿 \*\***
+- [androvonx95](https://github.com/androvonx95) – **** I use Arch btw 🗿🗿🗿🗿 ****
 - [Robyn](https://github.com/RBodde)
 - [Snowsita](https://github.com/Snowsita)
 - [smoglmy](https://github.com/smoglmy)
@@ -4895,4 +4895,4 @@ Jyothish
   -Vinodhini-Kotha
   -Great Content -[siddhartha thapa](https://github.com/Siddhartha-Thapa)- this is my first contribution
 - [Priya Darshini Manda](https://github.com/mandaujjwalapriyadarshini)
-- [Rabeeha Kamran] (https://github.com/rabeehakamran) Hello to the open source world! This is my first contribution
+- [Rabeeha Kamran] (https://github.com/rabeehakamran) Hello to the open source world! This is my first contribution.
