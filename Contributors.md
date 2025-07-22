@@ -1,9 +1,9 @@
 # Contributors
+- [Yeji Jeong] (https://github.com/yjeongdev) The web is for all humanity.
 - [Zero](https://github.com/CEO-netizen) – My first successful pull request.
 - [Arda Düz](https://github.com/ArdaDuzz) - Arda was here :)
 - [Sukeyna Söğütçü](https://github.com/sukeynasogutcu)
 Hi!!!My first contribution!
-
 - [Oluwafunmilayo Oluwatobiloba](https://github.com/Oluwateezzy) - The journey of open source start with this contribution (20th July 2025)
 - [Arnold Midalla](https://github.com/arnoldmidalla) - Yay! First actual contribution (21st of July; 2025)
 - [Sumedha Verma](https://github.com/sumve) - My first contribution! Yay! :D 
@@ -2271,7 +2271,6 @@ Matthew Burgos
 - [Harsha0603](https://github.com/harsha0603)
 - Javier Borja
 - Regina Niu
-- Yeji Jeong
 - [Davide Franchi](https://github.com/DAVIDE004)
 - [Zubair Hassan](https://github.com/zubairhassan652)
 - Jeffrey Cole
