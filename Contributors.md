@@ -5205,3 +5205,4 @@ asd
 - [Jash](https://github.com/jash2110) - Thrilled to take my first open source step with you all.
 - [Prajwal Mahalle](https://github.com/Prajwal04M) - This is my first open source contribution!
 - [Audrey Wang](https://github.com/sdytwrj) My first contribution!
+- [Connor Coop] (https://github.com/connorcoop0)
