@@ -5219,6 +5219,5 @@ asd
 - [Audrey Wang](https://github.com/sdytwrj) My first contribution!
 - [Connor Coop] (https://github.com/connorcoop0)
 - Lahari Vanja
-- Shubham Singh
--Vinodhini-Kotha
--Great Content
+
+- [Ansh Raj Singh](https://github.com/anshraj-singh) --> This is my first open source contribution! -> Java Backend Developer 🚀🚀🚀
