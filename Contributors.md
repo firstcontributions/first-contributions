@@ -5191,6 +5191,7 @@ asd
 - [Sanket Girdhar](https://github.com/SanketGirdhar1) - This is my First Contribution. I will try my best to become a successful Android developer
 - [Aakriti Kushwaha][@aakritixyz](https://github.com/aakritixyz) - First contribution, Hello world!
 - [Sneha Yadav](https://github.com/Sneha764) - This is my first contribution!
+- [Hritvik Gawhane](https://github.com/ColdLimeJuice) - This is my first contribution!
 - [Evaristo Pinto](https://github.com/Evaristopinto16) - This is my first contribution!
 - [Tatevik Harutyunyan](https://github.com/tatevik-h) 
 - [Xin Fang](https://github.com/SquareHappy-Xin) - This is my first open source contribution!
