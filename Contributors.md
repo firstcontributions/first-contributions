@@ -47,6 +47,7 @@ namaskaram!!this is my first contribution.
 - [Raj Singh] - first contibution
   [Ziad Ibrahim] - first contribution to open source
 - [Lakshmihollat](https://github.com/Lakshmihollat) -Namaste!! This is my first open source contribution!
+- [Prakash Mani Pandey](https://github.com/prakashMpandey)- done my first open source contribution wooooow
 -[Sepehr21ar](https://github.com/sepehr21ar) - Make a difference and Be among the best in your field
 -[Sumeet Ramdas Jadhav](https://github.com/jadhavsumeet24)- My First Open Source Contribution!
 -[Aaditya-N](https://github.com/Aaditya-N)- My First Open Source Contribution, Excited for this journey!
