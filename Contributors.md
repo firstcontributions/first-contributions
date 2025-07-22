@@ -3528,6 +3528,7 @@ Jyothish
 - [Jay Paun](https://github.com/Jay2704)
 - [Cameron Johnson](https://github.com/will-fork-for-food)
 - [Ignacio Elìas Rosner](https://github.com/roznerx)
+  [Ignacio Rognoni Puppo](https://github.com/rognoni-ignacio/)
 - [annieyii](https://github.com/annieyii/first-contributions)
 - [Divyansh Chauhan](https://github.com/kami123kaze)
 - [MTHS](https://github.com/MTHS)
