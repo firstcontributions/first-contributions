@@ -311,6 +311,7 @@ vanakkam da Mapala...
 
 -[Anish] (https://github.com/anish41338)-HEY! First Contribution to open source excited to learn!
 -[Truong Nguyen](https://github.com/trnguyen34) - First time contribution to open source - 07/02/25
+-[Taemin Park](https://github.com/taemincode) - Open source! - 07/18/25
 -[Zac Kracht](https://github.com/Zac-Kracht) - First open source contribution - 07/06/2025
 -[Sourav Sahoo] (https://github.com/SouravSahoo-D) - Hellow all, this my first ever GIT open source contribution.
 - Omri Melcer, thank you all.
