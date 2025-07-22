@@ -1,4 +1,6 @@
 # Contributors
+- Radhika [https://github.com/Radhika19t] -HI ! It's my first contribution , Many more to come !
+
 - [XXXZTY](https://github.com/Yezyizhere01) - Hi! My first contribution! It will be more! (22nd of July; 2025)
 - [Siddhi Kshirsagar](https://github.com/SiddhiK13) - Open Source Contribution!!!
 - [Zero](https://github.com/CEO-netizen) – My first successful pull request.
