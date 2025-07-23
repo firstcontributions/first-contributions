@@ -435,6 +435,7 @@ vanakkam da Mapala...
 - [Rune](https://github.com/newbie000652) - Starting my open source journey with the First Contributions tutorial
 - [Farhan Hajid](https://github.com/FHajid) - Hello My First contribution Good luck
 - [Artūrs Kiseļevskis](https://github.com/akiselevskis) - Hey! Thank you for this guide :)
+- [Mamta S.](https://github.com/mamta-shanware) - Hi, happy to be part of open source community!
 - [Khushi Gupta](https://github.com/Khushi0389) – Happy to be part of the open-source world! 🚀
 - [thenetaji](https://github.com/thenetaji) - Love you open source!!
 - [Anmol Sah](https://github.com/anmolsah) - Kicking off my open-source journey with my first contribution! 🚀
