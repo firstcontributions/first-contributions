@@ -22,6 +22,7 @@ Hi!!!My first contribution!
 - [Tomás Perona](https://github.com/tomasperona) - Buenos Aires, Argentina (22/07/25)
 - [Jayant Patel](https://github.com/jayantpatel06) - Say My name!
 - [Nav Gill](https://github.com/buildwithnav) - I took the Red Pill 
+- [Om Mahalle](https://github.com/om07github) - My open source journey begins from this contribution
 - [Sumedha Verma](https://github.com/sumve) - My first contribution! Yay! :D
 - [Gireesh Sathyavedu](https://github.com/gireeshs02) - My First Contribution!
 - [Vansh Chouhan](https://github.com/vxnsh1) - Vansh was here 🖤
