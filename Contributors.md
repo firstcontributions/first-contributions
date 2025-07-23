@@ -13,7 +13,8 @@
 - [Sukeyna Söğütçü](https://github.com/sukeynasogutcu)
 Hi!!!My first contribution!
 - [Kenneth Jezreel](https://github.com/cracken23) - Hello World!
-- [Halo](https://github.com/HaloMaster315] - Wait, i'm not the first one?
+- [Jaromir J](https://github.com/Jaromirjjur) - I've seen easier tutorials in Ikea. But I managed it, with help of my dear Jessica
+- [Halo](https://github.com/HaloMaster315] - My name is Jessica and I had to help a guy that was pretty lost with this tutorial. He was kinda cute tho.
 - [Md Sameer](https://github.com/raZer99) - My open source journey begins from this contribution ! (22nd July 2025)
 - [Eva Aggarwal] () - Hi! First contribution!! (22 July; 2025)
 - [Oluwafunmilayo Oluwatobiloba](https://github.com/Oluwateezzy) - The journey of open source start with this contribution (20th July 2025)
@@ -5277,3 +5278,4 @@ asd
 - [Fahad Mustjab] (https://github.com/fahadmustjab) Hello to the open source world! This is my first contribution, many more to come.
 [Ramprajit Vijay] (https://github.com/Pyman11)
 -[Krithika Naidu](https://github.com/krithikanaidu) - This is my first contribution.
+-[Zulfqar Asif] (https://github.com/ZulfqarAsif)- Hello Mam here is my first contribution.
