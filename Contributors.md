@@ -5277,6 +5277,7 @@ asd
 - [Melika Dadashi](https://github.com/melikaDaa)
 - [Pournima Madankar] (https://github.com/POURNIMAMADANKAR) - This is my open source contribution.
 - [R. Dinesh Kumar](https://github.com/Dineshkumarr54)
+- [Victor Reial](https://github.com/VictorLemosR) - Interested in python and rust. Love neovim
 - [Fahad Mustjab] (https://github.com/fahadmustjab) Hello to the open source world! This is my first contribution, many more to come.
 [Ramprajit Vijay] (https://github.com/Pyman11)
 -[Krithika Naidu](https://github.com/krithikanaidu) - This is my first contribution.
