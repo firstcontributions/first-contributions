@@ -411,6 +411,7 @@ vanakkam da Mapala...
 - [Gustavo Mendes] (https://github.com/ghmmendes) - Hello everybody, this is my first contribution.
 - [Kian] (https://github.com/kiaann1/) - Hey :O
 - [breadlol64](https://github.com/breadlol64)
+- [charumi] (https://github.com/charumi) - Hi everybody, this is my first contribution.
 - [Jaren Quegan](https://github.com/jarenquegan) - I just want my badge
 - [VladimirGutuev](https://github.com/VladimirGutuev) Hi everyone my name is Vladimir, i'm Passionate about Machine Learning | BS Data Science Student
 - [ExiticBalak](https://github.com/ExoticBalak) - My first open source contibution
