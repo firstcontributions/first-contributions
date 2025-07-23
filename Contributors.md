@@ -21,8 +21,8 @@ Hi!!!My first contribution!
 - [Nav Gill](https://github.com/buildwithnav) - I took the Red Pill 
 - [Sumedha Verma](https://github.com/sumve) - My first contribution! Yay! :D
 - [Gireesh Sathyavedu](https://github.com/gireeshs02) - My First Contribution!
-[Vansh Chouhan](https://github.com/vxnsh1) - Vansh was here 🖤
-  [Nived C k](https://github.com/Nivedck)- Hey Myself Nived C K , From Kerala, India . (22 july 2025) 
+- [Vansh Chouhan](https://github.com/vxnsh1) - Vansh was here 🖤
+- [Nived C k](https://github.com/Nivedck)- Hey Myself Nived C K , From Kerala, India . (22 july 2025) 
 - [Bryan Christy](https://github.com/bryanC29) - The open source journey beigns!
 - [Ricardo Reis] (https://github.com/RBNasciment) - First Mission Completed!
 - [AlexEsc302](https://github.com/AlexEsc302) - This is just the beginning!
