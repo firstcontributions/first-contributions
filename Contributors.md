@@ -12,6 +12,7 @@ Hi!!!My first contribution!
 - [Oluwafunmilayo Oluwatobiloba](https://github.com/Oluwateezzy) - The journey of open source start with this contribution (20th July 2025)
 - [huangguang ](https://github.com/hhg-coder) - hello myself!you'll be a super coder!(23/07/25)
 - [Arnold Midalla](https://github.com/arnoldmidalla) - Yay! First actual contribution (21st of July; 2025)
+- [Anuj Katre](https://github.com/anujkatre111)
 - [Tomás Perona](https://github.com/tomasperona) - Buenos Aires, Argentina (22/07/25)
 - [Jayant Patel](https://github.com/jayantpatel06) - Say My name!
 - [Nav Gill](https://github.com/buildwithnav) - I took the Red Pill 
