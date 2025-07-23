@@ -13,7 +13,7 @@
 - [Sukeyna Söğütçü](https://github.com/sukeynasogutcu)
 Hi!!!My first contribution!
 - [Kenneth Jezreel](https://github.com/cracken23) - Hello World!
-
+- [Halo](https://github.com/HaloMaster315] - Wait, i'm not the first one?
 - [Md Sameer](https://github.com/raZer99) - My open source journey begins from this contribution ! (22nd July 2025)
 - [Eva Aggarwal] () - Hi! First contribution!! (22 July; 2025)
 - [Oluwafunmilayo Oluwatobiloba](https://github.com/Oluwateezzy) - The journey of open source start with this contribution (20th July 2025)
