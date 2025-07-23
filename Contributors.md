@@ -642,6 +642,7 @@ Achal Agrawal
 - [Per Cedersund](https://github.com/perceder)
 - [LKA](https://github.com/LK-stack399)
 - [Zhonghe-zhao](https://github.com/Zhonghe-zhao)第一个开源贡献·
+- [windyeasy](https://github.com/windyeasy)
 - [CHAN](https://github.com/LEECHANHYUNG)
 -  [Passarini](https://github.com/m12Passarini)
 - [Rudraksh Jurel](https://github.com/Rudraksh1510)
