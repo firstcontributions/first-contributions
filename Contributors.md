@@ -3000,6 +3000,7 @@ Darien Edwards
 - [Nuhu El Adj Souleymane](https://github.com/elsouleymane)
 - [Blacklotus89898](https://github.com/Blacklotus89898)
 - [Vivek Deshmukh](https://github.com/vivekd16)
+- [Sathvik](https://github.com/Satthvik1026)
 - [Aditya Singh](https://github.com/devxaditya)
 - [Rohan](https://github.com/Christopher-91)
 - [Shangcheng Li](https://github.com/shangchengg)
