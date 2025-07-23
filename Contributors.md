@@ -3166,6 +3166,7 @@ Jyothish
 - [damsoon](https://github.com/damhyeong)
 - [Mounish Nanu](https://github.com/mounish123)
 - James Harpe
+- [scottdevie] Hi all!
 - [KingKongNi](https://github.com/KingKongNi) 
 - [Juan Sarmiento](https://github.com/JuanEnriqueSF)
 - [Fady Zaky](https://github.com/0ddAuto00)
