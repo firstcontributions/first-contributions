@@ -1,4 +1,10 @@
+- Abdugofurov Behruzbek
 []# Contributors
+- [Volodymyr Polishchuk](https://github.com/volodymyr-polishchuk) – Hello! This is my first open source contribution. (July 23, 2025)
+- Wow! I'm the new one here! You can call me mama! LeeX41
+- [Aly Mostafa](https://github.com/AliMostafaa) – Halloo, very happy to contribute, this is my first open source contribution! (July 23, 2025)
+-Sanvi- my first open source contribution!
+- [Jahnavi Guntuboina](https://github.com/Jahnavi-2723) - Warm Greetings!! This is my first contribution!! (23rd July, 2025)
 - [XXXZTY](https://github.com/Yezyizhere01) - Hi! My first contribution! It will be more! (22nd of July; 2025)
 -[Jashwitha Bhandary](https://github.com/Jashwitha-twinkle)- yo! Hello there.
 - [Siddhi Kshirsagar](https://github.com/SiddhiK13) - Open Source Contribution!!!
@@ -17,7 +23,9 @@ Hi!!!My first contribution!
 - [Jayant Patel](https://github.com/jayantpatel06) - Say My name!
 - [Nav Gill](https://github.com/buildwithnav) - I took the Red Pill 
 - [Sumedha Verma](https://github.com/sumve) - My first contribution! Yay! :D
-  [Nived C k](https://github.com/Nivedck)- Hey Myself Nived C K , From Kerala, India . (22 july 2025) 
+- [Gireesh Sathyavedu](https://github.com/gireeshs02) - My First Contribution!
+- [Vansh Chouhan](https://github.com/vxnsh1) - Vansh was here 🖤
+- [Nived C k](https://github.com/Nivedck)- Hey Myself Nived C K , From Kerala, India . (22 july 2025) 
 - [Bryan Christy](https://github.com/bryanC29) - The open source journey beigns!
 - [Ricardo Reis] (https://github.com/RBNasciment) - First Mission Completed!
 - [AlexEsc302](https://github.com/AlexEsc302) - This is just the beginning!
@@ -3371,6 +3379,7 @@ Jyothish
 - [Subin Mariyadas](https://github.com/subin170)
 - [hridyam04](https://github.com/hridyam04)
 - [Capri Caviedes](https://github.com/caprivm)
+- [MayLeaf](https://github.com/may-leaf)
 - [ccie5013](https://github.com/ccie5013)
 - [Görkem](https://github.com/gorkemozsari)
 - [Leticia suzuki](https://github.com/Leticia567568)
@@ -4468,6 +4477,7 @@ Jyothish
 - [Andrew Harris] (https://github.com/ajharris)
 - [Maksim] (https://github.com/AndreevMakc)
 - [shakutori] (https://github.com/shakutori)
+- [Rekkajukka] (https://github.com/Rekkajukka)
 - kira134679
 - [U-GOD Fred] (https://github.com/U-GOD)
 - [Omid Hashemzadeh](https://github.com/omidcodes)
@@ -4713,6 +4723,7 @@ Jyothish
 -[Chandra Mouli](https://github.com/chandramouli35)
 -[Bhone-S](https://github.com/Bhone-S)
 -[JaesungGo]
+-[hong539](https://github.com/hong539) Hello World!
 -[Just625](https://github.com/Just625)
 -[Ravi verma](https://github.com/raviverma199)
 -[kayvour](https://github.com/kayvour)
@@ -5252,3 +5263,7 @@ asd
 - [Rabeeha Kamran] (https://github.com/rabeehakamran) Hello to the open source world! This is my first contribution.
 - [Ansh Raj Singh] (https://github.com/anshraj-singh) Hello! Everyone, this is my first contribution.
 - [Rohit Khatik](https://github.com/rohitkhatik09)
+- [Melika Dadashi](https://github.com/melikaDaa)
+- [Pournima Madankar] (https://github.com/POURNIMAMADANKAR) - This is my open source contribution.
+- [R. Dinesh Kumar](https://github.com/Dineshkumarr54)
+- [Fahad Mustjab] (https://github.com/fahadmustjab) Hello to the open source world! This is my first contribution, many more to come.
