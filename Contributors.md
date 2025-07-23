@@ -1,3 +1,4 @@
+- Abdugofurov Behruzbek
 []# Contributors
 - [Volodymyr Polishchuk](https://github.com/volodymyr-polishchuk) – Hello! This is my first open source contribution. (July 23, 2025)
 -Sanvi- my first open source contribution!
