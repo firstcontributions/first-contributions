@@ -821,6 +821,7 @@ Achal Agrawal
 - team edith is here
 - [Jaiveer Tiwana]
 - [Dimitris Tsitsimis](https://github.com/adiropos)
+- [Santhosh Reddy](https://github.com/santhoshreddy824) - This is my first open source contribution! and exicted to do more open-source contributions in future.
 - [Shivani] (https://github.com/shivt-F5) - my first ever commit!! yay!!!
 - [Nobita ](https://faris12333-cloud) - I will contribute to opensource projects until my death
 - [DWNewton](https://github.com/DWNewton) Serenity Now!
@@ -5250,4 +5251,4 @@ asd
 - [Priya Darshini Manda](https://github.com/mandaujjwalapriyadarshini)
 - [Rabeeha Kamran] (https://github.com/rabeehakamran) Hello to the open source world! This is my first contribution.
 - [Ansh Raj Singh] (https://github.com/anshraj-singh) Hello! Everyone, this is my first contribution.
-- [Rohit Khatik](https://github.com/rohitkhatik09) 
+- [Rohit Khatik](https://github.com/rohitkhatik09)
