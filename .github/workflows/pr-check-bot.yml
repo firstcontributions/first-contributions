@@ -3,7 +3,7 @@ name: PR File Check Bot
 on:
   pull_request:
     types: [opened, synchronize]
-    paths:    # ✅ Correct indentation and no invalid quote
+    paths:
       - "Contributors.md"
 
 jobs:
@@ -22,7 +22,8 @@ jobs:
           git diff --name-only origin/main...HEAD > files.txt
           cat files.txt
           echo "::endgroup::"
-          echo "files=$(cat files.txt | paste -sd ',' -)" >> $GITHUB_OUTPUT
+          files=$(cat files.txt | paste -sd ',' -)
+          echo "files=$files" >> "$GITHUB_OUTPUT"
 
       - name: Comment on PR if needed
         uses: actions/github-script@v7
