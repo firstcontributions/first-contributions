@@ -1,5 +1,6 @@
 - Abdugofurov Behruzbek
 []# Contributors
+- qzx
 - [Volodymyr Polishchuk](https://github.com/volodymyr-polishchuk) – Hello! This is my first open source contribution. (July 23, 2025)
 - Wow! I'm the new one here! You can call me mama! LeeX41
 - [Kevin Richardson](https://github.com/NiveskZ) - Olá Mundo!! My first open source contribution! (July 23, 2025)
