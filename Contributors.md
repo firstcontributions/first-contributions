@@ -1,5 +1,6 @@
 - Abdugofurov Behruzbek
 []# Contributors
+- [Dly](https://github.com/Dly27) - i was here (24/07/25)
 - [Daniel](https://github.com/danielrasheedi) - Hi! (24 July 2025)
 - [Coran Chunilall](https://github.com/GalaxyMatrix) - Hello! This is my first open source contribution! (July 24, 2025)
 - qzx
