@@ -5290,5 +5290,6 @@ asd
 - [Rupesh Kumar](https://github.com/Rupesh3170)-Hello to open source.
 - [Seagullathoth](https://github.com/Seagullathoth) - My first time.
 - [Genki](https://github.com/GenkiSugisaki) - This is my first open source contribution!
-- [Jana23jk](https://github.com/Jana23jk) - This is my first open source contribution! and i am excited to be here.
+- [Neeraj Yadav](https://github.com/NeerajYadav-coder) – Let's start a new journey
+- [Jana23jk](https://github.com/Jana23jk) - This is my first open source contribution! and I am excited to be here.
 - [Meghana](https://github.com/meghana639) - This is my first contribution. *Hello world*
