@@ -32,6 +32,7 @@ Hi!!!My first contribution!
 - [Tomás Perona](https://github.com/tomasperona) - Buenos Aires, Argentina (22/07/25)
 - [Jayant Patel](https://github.com/jayantpatel06) - Say My name!
 - [Nav Gill](https://github.com/buildwithnav) - I took the Red Pill 
+- [Fernando](https://github.com/Nando-suka) - Hello Everyone, so excited for my first contributions.
 - [Om Mahalle](https://github.com/om07github) - My open source journey begins from this contribution
 - [Miranda Alldritt](https://github.com/miranda-cypress) - Hello world!
 - [Sumedha Verma](https://github.com/sumve) - My first contribution! Yay! :D
@@ -124,6 +125,7 @@ namaskaram!!this is my first contribution.
 - [Yuriy Diachuk] (https://github.com/Yuriydiachuk12) - first!
 -[Abhi](https://github.com/Abhiskanda) - My First Contribution
 - [justakayy](https://github.com/justakayy) - My first Steps into the World of OSS!
+- [Ankit Songara](https://github.com/ankitsongara) - My first open source contribution!
 - [Arvind singh panwar](https://github.com/newdevatgit) - I am in.
 - [Tushar Pardhe](https://github.com/tusharpardhe18) - My First Contribution
 - [Will K] (https://github.com/WiLLKMadeIt) - hope I make some cool stuff later
