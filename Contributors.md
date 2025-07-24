@@ -66,6 +66,7 @@ Hi!!!My first contribution!
 - [sonika chowdary](https://github.com/sonika1206) - My First Contributing, and this is just the start of my journey!
 - [Theo Cowen](https://github.com/TheoC04) - Hello World!!! I was here
 - [Benjamin Richter](https://github.com/BenjaminRichter-pyjar) - I think I've done it
+- [Larisa](https://github.com/elarika) - Here we go!!!
 - [Nikhil Goswami](https://github.com/MileWhile) - Hello Contributors....
 - [Rupinder][https://github.com/rupinder-bhatty/first-contributions.git] - Hello World...
 - [Shray Jibesh Panicker][https://github.com/ShrayJP] - Hello, This is my first contribution. Excited !!!
