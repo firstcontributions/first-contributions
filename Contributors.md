@@ -16,6 +16,7 @@
 - [Sukeyna Söğütçü](https://github.com/sukeynasogutcu)
 Hi!!!My first contribution!
 - [Kenneth Jezreel](https://github.com/cracken23) - Hello World!
+- [Chandrashekar M(https://github.com/chandrashekaryadav124) I'm Exicted to do my first contribution to open source ]
 - [Jaromir J](https://github.com/Jaromirjjur) - I've seen easier tutorials in Ikea. But I managed it, with help of my dear Jessica.
 
 - [Md Sameer](https://github.com/raZer99) - My open source journey begins from this contribution ! (22nd July 2025)
