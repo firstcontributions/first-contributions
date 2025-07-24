@@ -4,6 +4,7 @@
 - [Volodymyr Polishchuk](https://github.com/volodymyr-polishchuk) – Hello! This is my first open source contribution. (July 23, 2025)
 - Wow! I'm the new one here! You can call me mama! LeeX41
 - [Kevin Richardson](https://github.com/NiveskZ) - Olá Mundo!! My first open source contribution! (July 23, 2025)
+- [Nnange Awong](https://github.com/Nnange) - This is my first open source contribution! Very excited (July 24th 2025)
 - [Aly Mostafa](https://github.com/AliMostafaa) – Halloo, very happy to contribute, this is my first open source contribution! (July 23, 2025)
 -Sanvi- my first open source contribution!
 -Fyobei (https://github.com/Waku-a11y)
