@@ -1,5 +1,6 @@
 - Abdugofurov Behruzbek
 []# Contributors
+- [Daniel](https://github.com/danielrasheedi) - Hi! (24 July 2025)
 - qzx
 - [Volodymyr Polishchuk](https://github.com/volodymyr-polishchuk) – Hello! This is my first open source contribution. (July 23, 2025)
 - [Ujjwal Gupta](https://github.com/guptaujjwal1128) - Namaste Folks! This is my first open source contribution. I am a senior engineer and recently started exploring open source world. (July 23, 2025)
