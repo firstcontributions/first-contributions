@@ -1,14 +1,13 @@
+# Mchango wa Kwanza
+
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
-
-# Mchango wa Kwanza
-
 Ni vigumu. Mara zote ni vigumu kufanya kitu kwa mara ya kwanza. Hasa kama unashirikiana na wengine, kufanya makosa sio jambo la kushangaza. Tulitaka kurahisisha namna ambavyo wachangiaji wapya wa mifumo ya wazi wanavyojifunza na kuchangia kwa mara ya kwanza.
 
-Kusoma makala na kuangalia mafunzo ya video yaweza kusaidia, lakini ni jambo lipi bora zaidi kuliko kufanya kwa vitendo katika mazingira ya kujifunzia? Mradi huu unalenga kutoa mwongozo na kurahisisha namna ambavyo wachangiaji wapya wanavyoweza kuchangia kwa mara ya kwanza. Ikiwa unataka kuchangia kwa mara ya kwanza , fuata hatua zifuatazo.
+Kusoma makala na kuangalia mafunzo ya video yaweza kusaidia, lakini ni jambo lipi bora zaidi kuliko kufanya kwa vitendo katika mazingira ya kujifunzia? Mradi huu unalenga kutoa mwongozo na kurahisisha namna ambavyo wachangiaji wapya wanavyoweza kuchangia kwa mara ya kwanza. Ikiwa unataka kuchangia kwa mara ya kwanza, fuata hatua zifuatazo.
 
 #### *Kama haujazoea kutumia 'command line', [waweza kutumia GUI.](#Makala ya namna ya kutumia nyenzo nyingine)*
 
@@ -16,34 +15,33 @@ Kusoma makala na kuangalia mafunzo ya video yaweza kusaidia, lakini ni jambo lip
 
 Kama hauna git kwenye kompyuta yako, [pakua](https://help.github.com/articles/set-up-git/).
 
-## Tengeneza nakala ya repository kwenye akaunti yako ya Github
+## Tengeneza nakala ya repository kwenye akaunti yako ya GitHub
 
-'Fork' repository hii kwa kubonyeza kitufe kilichopo juu ya ukurasa huu
-Kwa kufanya hivyo nakala ya repository hii itatengenezwa kwenye akaunti yako ya Github.
+'Fork' repository hii kwa kubonyeza kitufe kilichopo juu ya ukurasa huu. Kwa kufanya hivyo nakala ya repository hii itatengenezwa kwenye akaunti yako ya GitHub.
 
 ## Tengeneza nakala ya repository kwenye kompyuta yako
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Sasa clone repository kwenye kompyuta yako. Nenda kwenye akaunti yako ya Github bonyeza kitufe kilichoandikwa clone na baada ya hapo bonyeza kitufe kilichoandikwa *copy to clipboard* icon.
+Sasa clone repository kwenye kompyuta yako. Nenda kwenye akaunti yako ya GitHub bonyeza kitufe kilichoandikwa clone na baada ya hapo bonyeza kitufe kilichoandikwa *copy to clipboard* icon.
 
 Fungua terminal >_ kwenye kompyuta yako kisha command ifuatayo:
 
 ```
-git clone "URL-uliyonakili-kutoka-GitHub"
+git clone "URL uliyonakili kutoka GitHub"
 ```
 
-url hiyo inapatikana kwenye hatua ya ku clone, hakikisha unaondoa fungua semi na funga semi.
+URL hiyo inapatikana kwenye hatua ya ku-clone, hakikisha unaondoa fungua semi na funga semi.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 Kwa mfano:
 
 ```
-git clone https://github.com/jina-lako-unalotumia-Github/first-contributions.git
+git clone https://github.com/jina-lako-unalotumia-GitHub/first-contributions.git
 ```
 
-Kwa kufanya hivyo utakuwa umenakili first-contributions repository kutoka Github kwenda kwenye kompyuta yako.
+Kwa kufanya hivyo utakuwa umenakili first-contributions repository kutoka GitHub kwenda kwenye kompyuta yako.
 
 ## Tengeneza branch:
 
@@ -56,7 +54,7 @@ cd first-contributions
 Sasa tengeneza branch kwa kutumia command ifuatayo `git checkout` command:
 
 ```
-git checkout -b <add-your-new-branch-name>
+git checkout -b <jina-la-branch-yako-mpya>
 ```
 
 Kwa mfano:
@@ -71,6 +69,19 @@ git checkout -b add-luke-oliff
 
 Sasa fungua faili linaloitwa `Contributors.md`, Andika jina lako. Usiweke jina lako mwanzoni au mwishoni mwa faili. Weka sehemu yoyote katikati. Baada ya hapo save faili.
 
+### Mfano wa Kuongeza Jina kwenye Contributors.md
+
+Ili kukusaidia kuelewa jinsi ya kuongeza jina lako, hapa kuna mfano wa jinsi faili la `Contributors.md` linaweza kuonekana baada ya kuongeza jina lako:
+
+```
+- Halima Suleiman
+- Fred Mwakyusa
+- Jina Lako
+- Faustus Paul
+```
+
+Hakikisha umeongeza jina lako kwenye mstari mpya kwa kutumia alama ya `-` na kuacha nafasi moja kabla ya jina lako. Hii husaidia kuweka faili safi na rahisi kusoma.
+
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
 Ukiwa ndani ya directory hii kwenye terminal command ya `git status` itakuonesha mabadiliko yote uliyoyafanya.
@@ -84,12 +95,12 @@ git add Contributors.md
 Sasa commit mabadiliko uliyoyafanya kwa kutumia command ya `git commit`:
 
 ```
-git commit -m "Add <jina> to Contributor list"
+git commit -m "Add <jina lako> to Contributor list"
 ```
 
-Badilisha neno `<jina>` na jina lako.
+Badilisha neno `<jina lako>` na jina lako.
 
-## Tuma mabadiliko uliyoyafanya kwenda Github
+## Tuma mabadiliko uliyoyafanya kwenda GitHub
 
 Tuma mabadiliko uliyoyafanya kwa kutumia command ya `git push`:
 
@@ -101,7 +112,7 @@ Badilisha `<jina-la-branch>` na jina la branch ulilotengeneza hapo awali.
 
 ## Kusanya mabadiliko uliyoyafanya kwa ajili ya uhakiki
 
-Ukiwa Github kwenye repository hii utaona kitufe kilichoandikwa `Compare & pull request`. Bonyeza kitufe hicho.
+Ukiwa GitHub kwenye repository hii utaona kitufe kilichoandikwa `Compare & pull request`. Bonyeza kitufe hicho.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
@@ -111,13 +122,19 @@ Sasa tuma pull request.
 
 Haitochukua muda mrefu nitaanza kuchukua mabadiliko yaliyofanyika na kuyapeleka kwenye master branch ya mradi huu. Utapokea email kukujulisha mara tu hatua hii itakapokamilika.
 
+## Jiunge na Jamii Yetu
+
+Ili kuendelea kujifunza na kushirikiana na wengine, jiunge na jamii yetu ya wachangiaji! Unaweza:
+- **Jiunge na Slack**: Tumia [kiungo hiki](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA) kujiunga na kundi letu la Slack ili kuuliza maswali, kushiriki maendeleo yako, au kusaidia wapya.
+- **Shiriki Uzoefu Wako**: Andika chapisho la blogu au chapisha kwenye mitandao ya kijamii kuhusu jinsi ulivyochangia mradi huu. Hii inasaidia kuhamasisha wengine na kuimarisha jamii. Tumia hashtag `#FirstContributions` ili wengine wapate machapisho yako!
+
 ## Nini cha kufanya baada ya hapa?
 
 Hongera! Umeweza kumaliza hatua za msingi ambazo ni _fork -> clone -> edit -> PR_ ambazo utakutana nazo mara nyingi ukiwa kama mchangiaji!
 
 Sherehekea hatua uliyofikia na wajulishe wengine kwa kwenda kwenye [wavuti](https://roshanjossey.github.io/first-contributions/#social-share).
 
-Waweza kujiunga na kundi letu la slack endapo utakuwa unahitaji msaada wowote. [Jiunge na kundi letu la slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
+Waweza kujiunga na kundi letu la Slack endapo utakuwa unahitaji msaada wowote. [Jiunge na kundi letu la Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
 Sasa tuanze kuchangia kwenye miradi mingine. Tumekusanya orodha ya miradi ambayo ina mambo mepesi unayoweza kuanza kushughulika nayo. Angalia [Orodha ya miradi](https://roshanjossey.github.io/first-contributions/#project-list).
 
