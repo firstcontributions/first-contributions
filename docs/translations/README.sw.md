@@ -30,7 +30,7 @@ Sasa clone repository kwenye kompyuta yako. Nenda kwenye akaunti yako ya Github 
 Fungua terminal >_ kwenye kompyuta yako kisha command ifuatayo:
 
 ```
-git clone "url-uliyo-nakili-github"
+git clone "URL-uliyonakili-kutoka-GitHub"
 ```
 
 url hiyo inapatikana kwenye hatua ya ku clone, hakikisha unaondoa fungua semi na funga semi.
