@@ -26,9 +26,10 @@
 - [Arda Düz](https://github.com/ArdaDuzz) - Arda was here :)
 - [Sukeyna Söğütçü](https://github.com/sukeynasogutcu)
 Hi!!!My first contribution!
-- [Kenneth Jezreel](https://github.com/cracken23) - Hello World!
-- [Jaromir J](https://github.com/Jaromirjjur) - I've seen easier tutorials in Ikea. But I managed it, with help of my dear Jessica.
+- [Kenneth Jezreel](https://github.com/dangle2403) - Hello World!
 
+- [Jaromir J](https://github.com/Jaromirjjur) - I've seen easier tutorials in Ikea. But I managed it, with help of my dear Jessica.
+- [Dang Le](https://github.com/raZer99) 
 - [Md Sameer](https://github.com/raZer99) - My open source journey begins from this contribution ! (22nd July 2025)
 - [Eva Aggarwal] () - Hi! First contribution!! (22 July; 2025)
 - [Oluwafunmilayo Oluwatobiloba](https://github.com/Oluwateezzy) - The journey of open source start with this contribution (20th July 2025)
