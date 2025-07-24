@@ -1,5 +1,6 @@
 - Abdugofurov Behruzbek
 []# Contributors
+- qzx
 - [Volodymyr Polishchuk](https://github.com/volodymyr-polishchuk) – Hello! This is my first open source contribution. (July 23, 2025)
 - Wow! I'm the new one here! You can call me mama! LeeX41
 - [Kevin Richardson](https://github.com/NiveskZ) - Olá Mundo!! My first open source contribution! (July 23, 2025)
@@ -5289,4 +5290,6 @@ asd
 - [Rupesh Kumar](https://github.com/Rupesh3170)-Hello to open source.
 - [Seagullathoth](https://github.com/Seagullathoth) - My first time.
 - [Genki](https://github.com/GenkiSugisaki) - This is my first open source contribution!
-- [Neeraj Yadav](https://github.com/NeerajYadav-coder) let's start a new journey
+- [Neeraj Yadav](https://github.com/NeerajYadav-coder) – Let's start a new journey
+- [Jana23jk](https://github.com/Jana23jk) - This is my first open source contribution! and I am excited to be here.
+- [Meghana](https://github.com/meghana639) - This is my first contribution. *Hello world*
