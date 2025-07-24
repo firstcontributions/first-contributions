@@ -36,6 +36,7 @@ Hi!!!My first contribution!
 - [Nived C k](https://github.com/Nivedck)- Hey Myself Nived C K , From Kerala, India . (22 july 2025) 
 - [Bryan Christy](https://github.com/bryanC29) - The open source journey beigns!
 - [Ricardo Reis] (https://github.com/RBNasciment) - First Mission Completed!
+- [Camilo Pardo] (https://github.com/kolobits) - Hello there, this is my first open source contribution!
 - [AlexEsc302](https://github.com/AlexEsc302) - This is just the beginning!
 - [Rishiraj S](https://github.com/rishiraj-58)- My First Open Source Contribution!
 - [Ian Howard](https://github.com/imhoward)- Woot, first contribution!
