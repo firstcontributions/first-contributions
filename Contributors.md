@@ -140,6 +140,7 @@ namaskaram!!this is my first contribution.
 - [Argha Saha](https://github.com/Argha782) - Hello everyone, this marks the start of my open source journey...🌟🌟🌟
 - [MironBerch](https://github.com/MironBerch) - Hi, this is my first contribution. Thanks and good luck for everyone
 - [Giuseppe Lomasto](https://github.com/Giuppx) - Hi everyone, this is my first contribution from Italy!
+- Tirthesh Mahajan - Staring string!!
 -[Saral Dwivedi](https://github.com/SaralDwivedi21) -First Open Source Contribution.
 - [Gabriel Frerot](https://github.com/ZarathustraSama) -Done.
 - [Piyush Pratap](https://github.com/PiyushPratap10) - I am starting from here and will go in Google someday for sure.
