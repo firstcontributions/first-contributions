@@ -146,6 +146,7 @@ namaskaram!!this is my first contribution.
 - [Rinsha Mol K S](https://github.com/rinshamol) - Exploring the world of open source with curiosity and code ✨
 - [Yuvraj Singh](https://github.com/Yuvraj-777) - My First Contributing Looking Forward for More From India.
 - [Elvis Yu](https://github.com/elvis-qq)
+- [Atertus](https://github.com/atertus)
   [Ruben Da Silva](https://github.com/rubendasilva) - My First Contributing, and this is just the start of my journey!
 - [Mark O](https://github.com/MforMko) - First one, Done.
 - [Krishnan](https://github.com/Krishnan612) - Hello Brothers and Sisters, I am learning how to contribute to open source projects from India, Tamil Nadu
