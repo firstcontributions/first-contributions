@@ -1,7 +1,7 @@
 - Abdugofurov Behruzbek
 []# Contributors
-
 - [Kevin Müller](https://github.com/kevinmuellerdev) – Hey Folks! Let's start the open source contribution journey !. (July 23, 2025)
+- qzx
 - [Volodymyr Polishchuk](https://github.com/volodymyr-polishchuk) – Hello! This is my first open source contribution. (July 23, 2025)
 - Wow! I'm the new one here! You can call me mama! LeeX41
 - [Kevin Richardson](https://github.com/NiveskZ) - Olá Mundo!! My first open source contribution! (July 23, 2025)
@@ -127,7 +127,9 @@ Hi!!!My first contribution!
   [Anandu Prasannan](https://github.com/AnanduPrasannan) -For the betterment of humanity
 - [Argha Saha](https://github.com/Argha782) - Hello everyone, this marks the start of my open source journey...🌟🌟🌟
 - [MironBerch](https://github.com/MironBerch) - Hi, this is my first contribution. Thanks and good luck for everyone
-- [Giuseppe Lomasto](https://github.com/Giuppx) - Hi everyone, this is my first contribution from Italy! -[Saral Dwivedi](https://github.com/SaralDwivedi21) -First Open Source Contribution.
+- [Giuseppe Lomasto](https://github.com/Giuppx) - Hi everyone, this is my first contribution from Italy!
+- Tirthesh Mahajan - Staring string!!
+-[Saral Dwivedi](https://github.com/SaralDwivedi21) -First Open Source Contribution.
 - [Gabriel Frerot](https://github.com/ZarathustraSama) -Done.
 - [Piyush Pratap](https://github.com/PiyushPratap10) - I am starting from here and will go in Google someday for sure.
 - [Tabassum Shaikh](https://github.com/TabassumSK) - Hello, I am Starting my Contribution journey to make impact on Real World.
@@ -4968,3 +4970,6 @@ Jyothish
 - [Rupesh Kumar](https://github.com/Rupesh3170)-Hello to open source.
 - [Seagullathoth](https://github.com/Seagullathoth) - My first time.
 - [Genki](https://github.com/GenkiSugisaki) - This is my first open source contribution!
+- [Neeraj Yadav](https://github.com/NeerajYadav-coder) – Let's start a new journey
+- [Jana23jk](https://github.com/Jana23jk) - This is my first open source contribution! and I am excited to be here.
+- [Meghana](https://github.com/meghana639) - This is my first contribution. *Hello world*
