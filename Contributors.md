@@ -3,6 +3,7 @@
 - [Coran Chunilall](https://github.com/GalaxyMatrix) - Hello! This is my first open source contribution! (July 24, 2025)
 - qzx
 - [Shabbir Tankiwala](https://github.com/shabb-ir) - Hello Github! It's my first time contributing to open-source. I love contributing as I get to solve challenging problems, it's nice to meet a community of developers with the same mindset. (July 24, 2025)
+-[Chandana Musunuru](https://github.com/chandana-musunuru) -Just planted the seed of open source—can’t wait to see it grow into something awesome! (July 24, 2025)
 - [Asim Ramdurg](https://github.com/AsimRamdurg12) - Hello Github Family! This is my first open-source contribution. I am currently diving into the world of open-source contrbutions where I make meaningful contributions and to learn new technologies. (July 24, 2025)
 - [Volodymyr Polishchuk](https://github.com/volodymyr-polishchuk) – Hello! This is my first open source contribution. (July 23, 2025)
 - [Ujjwal Gupta](https://github.com/guptaujjwal1128) - Namaste Folks! This is my first open source contribution. I am a senior engineer and recently started exploring open source world. (July 23, 2025)
