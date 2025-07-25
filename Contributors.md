@@ -71,6 +71,7 @@ Hi!!!My first contribution!
 - [calvintaw](https://github.com/calvintaw) - Bonjour! I'm Calvin Taw. Excited to be part of this journey!
 - [DuongPham](https://github.com/gnoudap) - My first GitHub Contribution, future CEO of Google (7/21/2025) 
 - [chaitanya varma](https://github.com/pc099) - Alright ! Alright ! Alright ! Frist Contribution
+- [Ushan Malintha](https://github.com/Anagipura) - Test my first contribution.
 - Roshan(@roshan74323)
 - [paulclrt](https://github.com/paulclrt) - Had to commit twice because i messed up my url :|
 - [aditya211657](https://github.com/aditya211657) - Lamamamaa
