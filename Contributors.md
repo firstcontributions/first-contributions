@@ -702,6 +702,7 @@ Achal Agrawal
 - [Andrea](https://github.com/AndreaBrocal) First contribution on GitHub 13/06/2025
 - [Gab](https://github.com/gabrielalibero)
 - [ptrcmahinay](https://github.com/ptrcmahinay) First open source contribution (06.13.25) I WILL BE GOOD AT THIS!
+- [bradley](https://github.com/bradleyp0) i love open source
 - [Lahcene Nouali](https://github.com/LahceneNouali)
 - [Per Cedersund](https://github.com/perceder)
 - [LKA](https://github.com/LK-stack399)
