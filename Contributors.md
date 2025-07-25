@@ -100,7 +100,6 @@ namaskaram!!this is my first contribution.
 -[Harsh Gharat](https://github.com/harsh16coder) _ Let's see where I go !!!!
 - [Owen Erhabor](https://github.com/owen-6936) - Owen was here! Lets connect, build and learn together.
 - [Tamoghna Kumar](https://github.com/tamoghna17) - Lets build and learn together.
-
 - [Faizan Hameed Tantray](https://github.com/faizcasm) - Faizan was here! Lets connect, build and learn together.
 - [chenpan](https://github.com/giter-chenpan) - hi, my first contribution
 -[Sai Ram Reddy](https://github.com/sairamarava) - Namaste, This is my first contribution.
@@ -133,6 +132,7 @@ namaskaram!!this is my first contribution.
 - [M Han](https://github.com/matthewhanyd) - My First Contribution
 -[Omorinsola Makinde](https://github.com/Omo-Rinsola) - first contribution
 - [NarenRawat](https://github.com/NarenRawat) - Glad to be part of the open source community. Taking my first step into open source and excited for the journey ahead!
+- [Dark-Coders995](https://github.com/Dark-Coders995) - First Contributions
 - [welington pires](https://github.com/welington101) - My First Contribution
 -[divyani singh](https://github.com/Divvyanii)-My  first contributuion
 - [Yuriy Diachuk] (https://github.com/Yuriydiachuk12) - first!
