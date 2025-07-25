@@ -22,6 +22,7 @@
 - [Kevin Richardson](https://github.com/NiveskZ) - Olá Mundo!! My first open source contribution! (July 23, 2025)
 - [Nnange Awong](https://github.com/Nnange) - This is my first open source contribution! Very excited (July 24th 2025)
 - [Aly Mostafa](https://github.com/AliMostafaa) – Halloo, very happy to contribute, this is my first open source contribution! (July 23, 2025)
+- [Elena Dobre](https://github.com/Elena-ID) - Hello! This is my first open source contribution! To many many many more! (July 25, 2025)
 -Sanvi- my first open source contribution!
 - [Victor Reial](https://github.com/VictorLemosR) - Interested in python and rust. Love neovim
 - [Anish Nagubandi](https://github.com/anishnagubandi)-MY WEIRDLY WIBBITY WOBBITY START.
