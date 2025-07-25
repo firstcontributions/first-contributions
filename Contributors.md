@@ -27,6 +27,7 @@
 -[Jashwitha Bhandary](https://github.com/Jashwitha-twinkle)- yo! Hello there.
 -[Shruti] (https://github.com/shrutipandya3) - Hey all !! This is my first contribution ! ( 25th July, 2025)
 - [Siddhi Kshirsagar](https://github.com/SiddhiK13) - Open Source Contribution!!!
+-[Patrick Nwakeze] (https://github.com/buildwithricky/first-contributions)
 - A.S.
 - [Tushar CEDS](https://github.com/TusharCEDS) - First Open Source Contribution.!!
 - [Zero](https://github.com/CEO-netizen) – My first successful pull request.
