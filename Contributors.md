@@ -2666,6 +2666,7 @@ Matthew Burgos
 - [Anaïs Gatard](https://github.com/AnaisG14)
 - [Tharun Rajeev](https://github.com/TharunRajeev/)
 - [Abed Ouda (asqalani)](https://github.com/Asqalani112)
+- [Handell Desulme](https://github.com/hjdesulme)
 - [Kunga Derick Abongho](https://github.com/Dericko681)
 - [Stefano Fratello](https://github.com/sterik000)
 - [rasmuskn44](https://github.com/rasmuskn44)
