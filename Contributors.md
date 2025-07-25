@@ -1,7 +1,8 @@
 -[Polash MSH](https://github.com/polashds)- My first open source contributions, Hello world! nano!
 -[Ashar-Khalid](https://github.com/Ashar-Khalid) - This is my first contribution but its not going to be my last. My contributions will make an impact one day (July 25, 2025).
 - Abdugofurov Behruzbek
-[]# Contributors
+# Contributors
+- [William Chen](https://github.com/wwchen1110) - Is this the right format? I've never interacted with an md file before. Are these contributors supposed to be above the "# Contributors" line? (July 25, 2025)
 - [Dly](https://github.com/Dly27) - i was here (24/07/25)
 - [Daniel](https://github.com/danielrasheedi) - Hi! (24 July 2025)
 - [Coran Chunilall](https://github.com/GalaxyMatrix) - Hello! This is my first open source contribution! (July 24, 2025)
