@@ -226,7 +226,8 @@ Was here!
 - [Siddharth Gandhi](https://github.com/sid1275) - My first open source contibution!!!
 - This is Aryan's first contribution. Looking for more! [Discord](https://discordapp.com/users/r._.yann), [Github](https://github.com/aryanriyahi)
 - [Eduardo Madid](https://github.com/EduardoMadid) First contribution!
-- [Jérôme Bouteveille](https://github.com/Jerome-CM) Hi everyone, my third contribution projet ! 07/11/2025 from France
+- [ MSYKG franzonia](my first contributionnnn)!!
+[Jérôme Bouteveille](https://github.com/Jerome-CM) Hi everyone, my third contribution projet ! 07/11/2025 from France
 [Sravya](https://github.com/srisravyapsnv) - Hello! This is my first open source contribution.
 Angana S
 [Codingwithriha](https://github.com/codingwithriha) - Hello! This is my first open source contribution.
