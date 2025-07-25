@@ -24,8 +24,10 @@
 -[siddu]-This is my first contribution!!!!!!!!!!!!(24 july 2025)
 - [XXXZTY](https://github.com/Yezyizhere01) - Hi! My first contribution! It will be more! (22nd of July; 2025)
 -[Jashwitha Bhandary](https://github.com/Jashwitha-twinkle)- yo! Hello there.
+-[Shruti] (https://github.com/shrutipandya3) - Hey all !! This is my first contribution ! ( 25th July, 2025)
 - [Siddhi Kshirsagar](https://github.com/SiddhiK13) - Open Source Contribution!!!
 - A.S.
+- [Tushar CEDS](https://github.com/TusharCEDS) - First Open Source Contribution.!!
 - [Zero](https://github.com/CEO-netizen) – My first successful pull request.
 - [Arda Düz](https://github.com/ArdaDuzz) - Arda was here :)
 - [Sukeyna Söğütçü](https://github.com/sukeynasogutcu)
@@ -5318,4 +5320,5 @@ asd
 - [Matthew Adcock](https://github.com/astroactual) - This is my first contribution to something outside of school! Hello!
 - [ SNDESH DADIBUDE ] - [ LinkedIn Profile : https://www.linkedin.com/in/sandesh-dadibude-2b57ba250/ ]    [ This is my second contribution ]
 - [lilith887](https://github.com/lilith887)-This is my first contribution.
--[Bharath](https://github.com/bharath2005-bv) - This is My first contribution
+  -[Bharath](https://github.com/bharath2005-bv) - This is My first contribution
+  - [Mounika E](https://github.com/Mounika-pace)-This is my first contribution.Yayyyy i'm soo excited!.
