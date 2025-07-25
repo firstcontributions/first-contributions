@@ -5,8 +5,11 @@
 - [Dly](https://github.com/Dly27) - i was here (24/07/25)
 - [Daniel](https://github.com/danielrasheedi) - Hi! (24 July 2025)
 - [Coran Chunilall](https://github.com/GalaxyMatrix) - Hello! This is my first open source contribution! (July 24, 2025)
-- qzx
+- qzx.
+
 - [Shabbir Tankiwala](https://github.com/shabb-ir) - Hello Github! It's my first time contributing to open-source. I love contributing as I get to solve challenging problems, it's nice to meet a community of developers with the same mindset. (July 24, 2025)
+
+
 -[Chandana Musunuru](https://github.com/chandana-musunuru) -Just planted the seed of open source—can’t wait to see it grow into something awesome! (July 24, 2025)
 - [Asim Ramdurg](https://github.com/AsimRamdurg12) - Hello Github Family! This is my first open-source contribution. I am currently diving into the world of open-source contrbutions where I make meaningful contributions and to learn new technologies. (July 24, 2025)
 - [Volodymyr Polishchuk](https://github.com/volodymyr-polishchuk) – Hello! This is my first open source contribution. (July 23, 2025)
@@ -1297,6 +1300,9 @@ Mohamed Farah
 - [Justicide381](https://gothub.com/justicide381) 
 - [Shivam](https://github.com/brainDensed)
 - [rosenkr](https://github.com/rosenkr)
+
+-[Sameer Pandey](https://github.com/zenigm)-Hello its Sameer here ,You can call be "Ansh" actually i am much interested in open source .I would like to work with you .If you want then you can Contribute in my repositary "Project Legacy" thats my dream Project....till then bye..(25 July 2025).
+
 -[Vaishnavi][https://github.com/lekkalaVaishnavi955/]
 - [Ray Silva](https://github.com/RSM23191)
 - [DonQuaya] (https://github.com/DQuaya/) TechnoQuaya
