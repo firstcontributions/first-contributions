@@ -2554,6 +2554,7 @@ Matthew Burgos
 - [Rishabh Kumar Das](https://github.com/rishabhd-cognavi)
 - [Shinbatsu F](https://github.com/Shinbatsu)
 - [EarendelH](https://github.com/Earendelh)
+- [Kenny Barron](https://github.com/kbarron525) - My first contribution
 - [mohitpuri-codes](https://github.com/mohitpuri-codes)
 - [Vanlal Peka](https://github.com/vanlalpeka)
 - [Christian-Code](https://github.com/ncgiron)
