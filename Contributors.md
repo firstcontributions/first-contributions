@@ -1,6 +1,7 @@
 - Abdugofurov Behruzbek
 []# Contributors
 - qzx
+- [Akash Venkatesh](https://github.com/Akashvenkatesh-347) - This is my first Open Source Contributions ( 26th July 2025 )
 - [Asim Ramdurg](https://github.com/AsimRamdurg12) - Hello Github Family! This is my first open-source contribution. I am currently diving into the world of open-source contrbutions where I make meaningful contributions and to learn new technologies. (July 24, 2025)
 - [Volodymyr Polishchuk](https://github.com/volodymyr-polishchuk) – Hello! This is my first open source contribution. (July 23, 2025)
 - [Ujjwal Gupta](https://github.com/guptaujjwal1128) - Namaste Folks! This is my first open source contribution. I am a senior engineer and recently started exploring open source world. (July 23, 2025)
