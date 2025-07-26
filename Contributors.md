@@ -49,6 +49,9 @@ Hi!!!My first contribution!
 - [Jaromir J](https://github.com/Jaromirjjur) - I've seen easier tutorials in Ikea. But I managed it, with help of my dear Jessica.
 - [Md Sameer](https://github.com/raZer99) - My open source journey begins from this contribution ! (22nd July 2025)
 - [Eva Aggarwal] () - Hi! First contribution!! (22 July; 2025)
+
+- [Cleven](https://github.com/Khliff-zt) – My first contribution to this project! (July 24, 2025)
+
 - [Oluwafunmilayo Oluwatobiloba](https://github.com/Oluwateezzy) - The journey of open source start with this contribution (20th July 2025)
 - [huangguang ](https://github.com/hhg-coder) - hello myself!you'll be a super coder!(23/07/25)
 - [Arnold Midalla](https://github.com/arnoldmidalla) - Yay! First actual contribution (21st of July; 2025)
