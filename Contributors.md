@@ -5377,3 +5377,4 @@ asd
 - [Ashna Parveen](https://github.com/AshnaParveen)
 EricHe
 - [Harshit Malik](https://github.com/HarshitMalik) - Harshit Malik was here
+- [Seonghyeon Kim](https://github.com/seonghyeonkimm) - Hello World 😁
