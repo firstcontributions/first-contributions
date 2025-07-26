@@ -478,6 +478,7 @@ vanakkam da Mapala...
 - [charumi] (https://github.com/charumi) - Hi everybody, this is my first contribution.
 - [Jaren Quegan](https://github.com/jarenquegan) - I just want my badge
 - [VladimirGutuev](https://github.com/VladimirGutuev) Hi everyone my name is Vladimir, i'm Passionate about Machine Learning | BS Data Science Student
+-[Pranjul](https://github.com/pranjul-jangra) I have made changes to the README.hi.md. Add table of contents and prerequisites section,Include comprehensive troubleshooting for common Git errors,Improve section organization and fix translation issues,Better organize tools section with descriptive tables
 - [ExiticBalak](https://github.com/ExoticBalak) - My first open source contibution
 - [Michael_Ramirez](https://github.com/BattleTaco)
 - [Vivek Chowgule](https://github.com/ChowguleVivek)
