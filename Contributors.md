@@ -165,6 +165,7 @@ namaskaram!!this is my first contribution.
 - [Swarup Pingale](https://github.com/swaruppingale/)- Enjoying OSS!
 - [Tejasri Masina](https://github.com/TejasriMasina) -My First Contribution
 - [Victor Costantini](https://github.com/vittoriocostantini) - My First Contribution
+- [Bluefox192](https://github.com/Bluefox192) - My First Contribution and this is just the start of my journey!!!
 - [Jasdeep Chahal](https://github.com/JasdeepChahal6) - My first Contribution 
 - [Nandini Gupta](https://github.com/nandinigupta015)-My first contribution,yayy!
 - [Rinsha Mol K S](https://github.com/rinshamol) - Exploring the world of open source with curiosity and code ✨
