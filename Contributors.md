@@ -1282,6 +1282,7 @@ Mohamed Farah
 - [phani570](https://github.com/phani570)
 - [nastenka_777](https://github.com/nastenka777)
 - [HarshitaKhare28](https://github.com/HarshitaKhare28)
+- [Harshit Mourya](https://github.com/Harshit-Mourya)
 - [jiji](https://github.com/chelchel29)
 - [DevPereira](https://github.com/Daviidvl)**LIFE IS GOOD**
 - [edgroc](https://github.com/edgroc)
