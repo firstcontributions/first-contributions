@@ -19,6 +19,7 @@
 - [Volodymyr Polishchuk](https://github.com/volodymyr-polishchuk) – Hello! This is my first open source contribution. (July 23, 2025)
 - [Theekshana Nuwan](https://github.com/nuwandev) - Hello This is my first open source contribution! (2025-07-25)
 - [Ujjwal Gupta](https://github.com/guptaujjwal1128) - Namaste Folks! This is my first open source contribution. I am a senior engineer and recently started exploring open source world. (July 23, 2025)
+- Hello! My name is Abhi
 - Wow! I'm the new one here! You can call me mama! LeeX41
 - [Iren Fujiharu](https://github.com/IrenOknel) - Hey! I made my first open source contribution on July 25, 2025, beyond excited to start this journey! 🚀
 - [Kevin Richardson](https://github.com/NiveskZ) - Olá Mundo!! My first open source contribution! (July 23, 2025)
