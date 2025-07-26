@@ -14,7 +14,7 @@
   "projects": [
     {
       "guid": "first-contributions",
-      "name": "First contributions",
+      "name": "First contributions by anish",
       "description": "Help beginners learn how to contribute to open-source projects. It provides a simple and beginner-friendly way for users to understand the contribution workflow using Git and GitHub. We've had over 90,000 users since we started in 2016",
       "webpageUrl": {
         "url": "https://github.com/firstcontributions/first-contributions"
