@@ -17,6 +17,8 @@
 - [Nsengimana François](https://github.com/IMANA47) - Hello GitHub! I'm making my very first open-source contribution. As a junior web and mobile developer, I'm excited to join a community of passionate developers who enjoy solving real-world problems and learning together. Looking forward to growing, sharing, and building with you all! (July 25, 2025).
 -[Kushagra Tewari](https://github.com/alwaysupk)- testing how contributions works!
 -[Manideep Jakkula](https://github.com/JakkulaManideep)-Excited to make my first contribution. Hope to make more contributions in the future. (July 25, 2025)
+- [Dhruv Chouksey](https://github.com/DhruvChouksey14) – Excited to make my first contribution. Hope to make more contributions in the future. (July 26, 2025)
+
 -[Chandana Musunuru](https://github.com/chandana-musunuru) -Just planted the seed of open source—can’t wait to see it grow into something awesome! (July 24, 2025)
 - [Asim Ramdurg](https://github.com/AsimRamdurg12) - Hello Github Family! This is my first open-source contribution. I am currently diving into the world of open-source contrbutions where I make meaningful contributions and to learn new technologies. (July 24, 2025)
 - [Volodymyr Polishchuk](https://github.com/volodymyr-polishchuk) – Hello! This is my first open source contribution. (July 23, 2025)
