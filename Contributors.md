@@ -27,6 +27,7 @@
 - Wow! I'm the new one here! You can call me mama! LeeX41
 - [Iren Fujiharu](https://github.com/IrenOknel) - Hey! I made my first open source contribution on July 25, 2025, beyond excited to start this journey! 🚀
 - ujjwal gupta made my first contribution
+- Aayush Jha - made my first open-source cotribution. will be a great time ahead
 - [Kevin Richardson](https://github.com/NiveskZ) - Olá Mundo!! My first open source contribution! (July 23, 2025)
 - [Nnange Awong](https://github.com/Nnange) - This is my first open source contribution! Very excited (July 24th 2025)
 - [Aly Mostafa](https://github.com/AliMostafaa) – Halloo, very happy to contribute, this is my first open source contribution! (July 23, 2025)
