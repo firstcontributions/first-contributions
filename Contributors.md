@@ -292,6 +292,7 @@ Hello world.I'm Rohith and this is my first open source contribution on (7/8/202
 - [Mohit Suthar](https://github.com/MohitSutharOfficial) - Hello, World! This is my first contribution to open source on 06/07/2025!
 - [wlmrh](https://github.com/wlmrh) - Hello!
 - [vidusha] - Hello everyone. this is mt fist contribuion
+- [glorpToro](https://github.com/glorpToro) - Hi! This is my first open source contribution.
 - [Talha](https://github.com/talha-0) - Hello GitHub! My first open source contribution.
 - [Gert Jan](https://github.com/gjtimmerman) - Hello contributors! This is my first open source contribution.
 - [Yashasvi Choudhary] (https://github.com/yashasviCodes) Namaste World! This is my first open source contribution. Remember you are not what happens to you, you are how you respond to it. (￣y▽,￣)╭ 
