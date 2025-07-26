@@ -8,6 +8,12 @@
 - [Phue Pwint Kyi Phyu](https://github.com/PPKPIsTrying112) - Hello, dudes and dudettes! (July 26, 2025)
 - [Muhammad Ali Ansari](https://github.com/m-aliansari) - Hello Github Family! This is my first open-source contribution. Kicking off my open-source journey with this first contribution! 🔥
 - [Daniel](https://github.com/danielrasheedi) - Hi! (24 July 2025)
+[Prince Trigun](https://github.com/trigunprince006)-Once upon a time, I knew nothing about Git and GitHub...
+But today, I'm proud to say — I made my first contribution! 🎉
+From confusion to contribution, it’s been a journey of learning, trying, and growing.
+I’m truly proud of myself for taking this step into the world of open source.
+Here’s to many more pull requests ahead! 🚀💻
+
 - [Coran Chunilall](https://github.com/GalaxyMatrix) - Hello! This is my first open source contribution! (July 24, 2025)
 - qzx
 - [Shabbir Tankiwala](https://github.com/shabb-ir) - Hello Github! It's my first time contributing to open-source. I love contributing as I get to solve challenging problems, it's nice to meet a community of developers with the same mindset. (July 24, 2025)
