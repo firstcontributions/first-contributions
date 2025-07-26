@@ -1,35 +1,49 @@
 -[Polash MSH](https://github.com/polashds)- My first open source contributions, Hello world! nano!
+-[El-leandr0] - hi from portugal
 -[Ashar-Khalid](https://github.com/Ashar-Khalid) - This is my first contribution but its not going to be my last. My contributions will make an impact one day (July 25, 2025).
 - Abdugofurov Behruzbek
 []# Contributors
+- Sathwik - Hello!, 10 years later me, this is your first open source contribution. (July 25, 2025)
 - [Dly](https://github.com/Dly27) - i was here (24/07/25)
+- [Muhammad Ali Ansari](https://github.com/m-aliansari) - Hello Github Family! This is my first open-source contribution. Kicking off my open-source journey with this first contribution! 🔥
 - [Daniel](https://github.com/danielrasheedi) - Hi! (24 July 2025)
 - [Coran Chunilall](https://github.com/GalaxyMatrix) - Hello! This is my first open source contribution! (July 24, 2025)
 - qzx
 - [Shabbir Tankiwala](https://github.com/shabb-ir) - Hello Github! It's my first time contributing to open-source. I love contributing as I get to solve challenging problems, it's nice to meet a community of developers with the same mindset. (July 24, 2025)
+- [Nsengimana François](https://github.com/IMANA47) - Hello GitHub! I'm making my very first open-source contribution. As a junior web and mobile developer, I'm excited to join a community of passionate developers who enjoy solving real-world problems and learning together. Looking forward to growing, sharing, and building with you all! (July 25, 2025).
+-[Kushagra Tewari](https://github.com/alwaysupk)- testing how contributions works!
+-[Manideep Jakkula](https://github.com/JakkulaManideep)-Excited to make my first contribution. Hope to make more contributions in the future. (July 25, 2025)
 -[Chandana Musunuru](https://github.com/chandana-musunuru) -Just planted the seed of open source—can’t wait to see it grow into something awesome! (July 24, 2025)
 - [Asim Ramdurg](https://github.com/AsimRamdurg12) - Hello Github Family! This is my first open-source contribution. I am currently diving into the world of open-source contrbutions where I make meaningful contributions and to learn new technologies. (July 24, 2025)
 - [Volodymyr Polishchuk](https://github.com/volodymyr-polishchuk) – Hello! This is my first open source contribution. (July 23, 2025)
+- [Theekshana Nuwan](https://github.com/nuwandev) - Hello This is my first open source contribution! (2025-07-25)
 - [Ujjwal Gupta](https://github.com/guptaujjwal1128) - Namaste Folks! This is my first open source contribution. I am a senior engineer and recently started exploring open source world. (July 23, 2025)
 - Wow! I'm the new one here! You can call me mama! LeeX41
+- [Iren Fujiharu](https://github.com/IrenOknel) - Hey! I made my first open source contribution on July 25, 2025, beyond excited to start this journey! 🚀
 - [Kevin Richardson](https://github.com/NiveskZ) - Olá Mundo!! My first open source contribution! (July 23, 2025)
 - [Nnange Awong](https://github.com/Nnange) - This is my first open source contribution! Very excited (July 24th 2025)
 - [Aly Mostafa](https://github.com/AliMostafaa) – Halloo, very happy to contribute, this is my first open source contribution! (July 23, 2025)
+- [Elena Dobre](https://github.com/Elena-ID) - Hello! This is my first open source contribution! To many many many more! (July 25, 2025)
 -Sanvi- my first open source contribution!
 - [Victor Reial](https://github.com/VictorLemosR) - Interested in python and rust. Love neovim
 - [Anish Nagubandi](https://github.com/anishnagubandi)-MY WEIRDLY WIBBITY WOBBITY START.
 -Fyobei (https://github.com/Waku-a11y)
 -David Chuks - my first open source contribution!!!!!!
+-[Ankur sonavane](https://github.com/ankur0704) - hey all !! (25-07-2025)
 - [Jahnavi Guntuboina](https://github.com/Jahnavi-2723) - Warm Greetings!! This is my first contribution!! (23rd July, 2025)
 -[siddu]-This is my first contribution!!!!!!!!!!!!(24 july 2025)
 - [XXXZTY](https://github.com/Yezyizhere01) - Hi! My first contribution! It will be more! (22nd of July; 2025)
 -[Jashwitha Bhandary](https://github.com/Jashwitha-twinkle)- yo! Hello there.
+-[Shruti] (https://github.com/shrutipandya3) - Hey all !! This is my first contribution ! ( 25th July, 2025)
 - [Siddhi Kshirsagar](https://github.com/SiddhiK13) - Open Source Contribution!!!
+-[Patrick Nwakeze] (https://github.com/buildwithricky/first-contributions)
 - A.S.
+- [Tushar CEDS](https://github.com/TusharCEDS) - First Open Source Contribution.!!
 - [Zero](https://github.com/CEO-netizen) – My first successful pull request.
 - [Arda Düz](https://github.com/ArdaDuzz) - Arda was here :)
 - [Sukeyna Söğütçü](https://github.com/sukeynasogutcu)
 Hi!!!My first contribution!
+- [Josiah Eveland](https://github.com/zetta-bot) - this is my first commit but i will continue doing more. thx linus 
 - [Kenneth Jezreel](https://github.com/cracken23) - Hello World!
 - [Jaromir J](https://github.com/Jaromirjjur) - I've seen easier tutorials in Ikea. But I managed it, with help of my dear Jessica.
 
@@ -49,6 +63,7 @@ Hi!!!My first contribution!
 - [Sumedha Verma](https://github.com/sumve) - My first contribution! Yay! :D
 - [Gireesh Sathyavedu](https://github.com/gireeshs02) - My First Contribution!
 - [Vansh Chouhan](https://github.com/vxnsh1) - Vansh was here 🖤
+- [Epiz00n](https://www.github.com/Epiz00n) - Burdened by Glorious Purpose. 
 - [Nived C k](https://github.com/Nivedck)- Hey Myself Nived C K , From Kerala, India . (22 july 2025) 
 - [Bryan Christy](https://github.com/bryanC29) - The open source journey beigns!
 - [Ricardo Reis] (https://github.com/RBNasciment) - First Mission Completed!
@@ -60,10 +75,12 @@ Hi!!!My first contribution!
 - [calvintaw](https://github.com/calvintaw) - Bonjour! I'm Calvin Taw. Excited to be part of this journey!
 - [DuongPham](https://github.com/gnoudap) - My first GitHub Contribution, future CEO of Google (7/21/2025) 
 - [chaitanya varma](https://github.com/pc099) - Alright ! Alright ! Alright ! Frist Contribution
+- [Ushan Malintha](https://github.com/Anagipura) - Test my first contribution.
 - Roshan(@roshan74323)
 - [paulclrt](https://github.com/paulclrt) - Had to commit twice because i messed up my url :|
 - [aditya211657](https://github.com/aditya211657) - Lamamamaa
 - [maiconsvr](https://github.com/maiconsvr) - Opaaaa meus friends! Primeira contribuição com sucesso! Hello from BRAZIL!
+- [Shubham_Bhandari](https://github.com/Shubham277353) - Aye kya bolti public it's your boi shubham ,and this is my first contribution , but not the last there are many more to come XD!
 - [kevin_Rol!!!](https://github.com/Kevinrol)- yesssss this is my first contribution 🦍
 - [Jens_M](https://github.com/vox288)- One does not simply walk into GitHub and contribute! (20th July 2025)
 - [Omar Ebead](https://github.com/OmarE20) - Hello, here's to many more contributions!
@@ -114,6 +131,7 @@ namaskaram!!this is my first contribution.
 - [Emanuel Rivera](https://github.com/emanuelRiveraA)
 - [Dhawal Shukla](https://github.com/DhawalShankar) - Walking slow but walking right 🇮🇳
 - [REIMOND](https://github.com/Reimond-aint-Playing)
+- [Massad Raza] - my first contribution in open source
 - [Jatin Mehta](https://github.com/JatinMehta007) - My First Open Source Contribution!
 - [SahilShammerDev](https://github.com/SahilShameerDev) - Hope I can get more involved with open source
 - [Balusu Sri Koushik Chowdhary](https://github.com/Koushikbalusu) - My First Contribution
@@ -148,6 +166,7 @@ namaskaram!!this is my first contribution.
 - [Tejasri Masina](https://github.com/TejasriMasina) -My First Contribution
 - [Victor Costantini](https://github.com/vittoriocostantini) - My First Contribution
 - [Jasdeep Chahal](https://github.com/JasdeepChahal6) - My first Contribution 
+- [Nandini Gupta](https://github.com/nandinigupta015)-My first contribution,yayy!
 - [Rinsha Mol K S](https://github.com/rinshamol) - Exploring the world of open source with curiosity and code ✨
 - [Yuvraj Singh](https://github.com/Yuvraj-777) - My First Contributing Looking Forward for More From India.
 - [Elvis Yu](https://github.com/elvis-qq)
@@ -217,7 +236,8 @@ Was here!
 - [Siddharth Gandhi](https://github.com/sid1275) - My first open source contibution!!!
 - This is Aryan's first contribution. Looking for more! [Discord](https://discordapp.com/users/r._.yann), [Github](https://github.com/aryanriyahi)
 - [Eduardo Madid](https://github.com/EduardoMadid) First contribution!
-- [Jérôme Bouteveille](https://github.com/Jerome-CM) Hi everyone, my third contribution projet ! 07/11/2025 from France
+- [ MSYKG franzonia](my first contributionnnn)!!
+[Jérôme Bouteveille](https://github.com/Jerome-CM) Hi everyone, my third contribution projet ! 07/11/2025 from France
 [Sravya](https://github.com/srisravyapsnv) - Hello! This is my first open source contribution.
 Angana S
 [Codingwithriha](https://github.com/codingwithriha) - Hello! This is my first open source contribution.
@@ -437,6 +457,7 @@ vanakkam da Mapala...
 - [James Kiongo Njihia](https://github.com/jameskiongo) - Software Developer
 - [Miro Kakkonen](https://github.com/MJKagone) - o/
 - [Saikat Hazra](https://github.com/saikat7890) - Software Developer
+- [Aryan Singh](https://github.com/aryansingh) - Namaste! This is my first open source contribution.
 - [ww34sel](https://github.com/w34sel) - Ahoi!
 - [Collins](https://github.com/xperia3110) - this is the first of my many opensource contribution, June 30th 2025.
 - [SunkeSruthi603](https://github.com/SunkeSruthi603/) - Hello! Thank you for this Project.
@@ -685,6 +706,7 @@ Achal Agrawal
 - [Andrea](https://github.com/AndreaBrocal) First contribution on GitHub 13/06/2025
 - [Gab](https://github.com/gabrielalibero)
 - [ptrcmahinay](https://github.com/ptrcmahinay) First open source contribution (06.13.25) I WILL BE GOOD AT THIS!
+- [bradley](https://github.com/bradleyp0) i love open source
 - [Lahcene Nouali](https://github.com/LahceneNouali)
 - [Per Cedersund](https://github.com/perceder)
 - [LKA](https://github.com/LK-stack399)
@@ -993,6 +1015,7 @@ Achal Agrawal
 - [Aisssky]
 - [Sanjana Shivanand](https://github.com/sanjanaashivanand)
 - [Athul Sabu](https://github.com/AthulSabu2002)
+- [Aditya Raj](https://github.com/aditya6105)
 - [leocampos81](https://github.com/leocampos81)
 - [Wilmar Florez](https://github.com/wilmarFlorez)
 - [jay](https://github.com/jaykos) 
@@ -1985,6 +2008,7 @@ Matthew Burgos
 - [Wing Sun Au](https://github.com/WingSunAu)
 - [Angelo Camargo](https://github.com/anglobox)
 - [Deron Hutchinson](https://github.com/Gitty-3ps)
+- [Julian Villanueva](https://github.com/Villanueva-dev)
 - [Youzi2233](https://github.com/Youzi2233)
 - [ryuki41](https://github.com/ryuki41)
 - [Tamilarasan](https://github.com/tamizhasn)
@@ -2305,6 +2329,7 @@ Matthew Burgos
 - [Justin Klava](https://github.com/JustinKlava)
 - [Silvia-Zh](https://github.com/Silvia-Zh)
 - [newtau] (https://github.com/newtau)
+- [Hana123]
 - [Khyxer](https://github.com/Khyxer)
 - [Kenny92dev](https://github.com/Kenny92dev)
 - [Suneel Reddy]
@@ -2651,6 +2676,7 @@ Matthew Burgos
 - [Anaïs Gatard](https://github.com/AnaisG14)
 - [Tharun Rajeev](https://github.com/TharunRajeev/)
 - [Abed Ouda (asqalani)](https://github.com/Asqalani112)
+- [Handell Desulme](https://github.com/hjdesulme)
 - [Kunga Derick Abongho](https://github.com/Dericko681)
 - [Stefano Fratello](https://github.com/sterik000)
 - [rasmuskn44](https://github.com/rasmuskn44)
@@ -5318,5 +5344,14 @@ asd
 - [Matthew Adcock](https://github.com/astroactual) - This is my first contribution to something outside of school! Hello!
 - [ SNDESH DADIBUDE ] - [ LinkedIn Profile : https://www.linkedin.com/in/sandesh-dadibude-2b57ba250/ ]    [ This is my second contribution ]
 - [lilith887](https://github.com/lilith887)-This is my first contribution.
--[Bharath](https://github.com/bharath2005-bv) - This is My first contribution
+- - [Mounika E](https://github.com/Mounika-pace)-This is my first contribution.Yayyyy i'm soo excited!.
+- [FrankGlory](https://github.com/frankglory)-Hello Github!.
+- [Dhuliana Dantas](https://github.com/Dhuliana)
+- [Diego Escalante] (https://github.com/na0kk0) <3
+- [Nawal Mohamed](https://github.com/Nawalm0) - Hello GitHub
+- [Hafsa Ahmad](https://github.com/Hafsah-Ahmad) - why is everyone saying hello mam/sir? ;D
+- [Anshika Yadav](https://github.com/anshikayadav29) - This is my first contribution.
+-  [Jayesh Chaudhary](https://github.com/jaych415) - Working on open source contributions!
+- [Yash Tobre](https://github.com/Yash-Tobre) - Only if they told me to use my brains in making contributions I would have my own library by now!
+- [Madhan](https://github.com/madhanraj20060409) -This is my first contribution
 -[Bharath](https://github.com/bharath2005-bv) - This is My first contribution
