@@ -160,7 +160,13 @@ git checkout -b your-new-branch-name
 
 ## Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+Now open `Contributors.md` file in a text editor, add your name to it. 
+> [!CAUTION]
+> - **DO NOT** edit, replace, or modify existing lines in this file. </br>
+> - **Only** add your name as a new line at the end of the document.</br>
+> - This practice prevents merge conflicts and makes it easier to merge your pull request.
+
+Now, save the file.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
