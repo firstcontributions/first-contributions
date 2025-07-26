@@ -900,7 +900,7 @@
 - [gitty98]noice
 - [Ancil](https://github.com/iamancil)
 - [Om Borse](https://github.com/Om-Borse26) My first contribution to open source!
-- [androvonx95](https://github.com/androvonx95) – **** I use Arch btw 🗿🗿🗿🗿 ****
+- [androvonx95](https://github.com/androvonx95) – \***\* I use Arch btw 🗿🗿🗿🗿 \*\***
 - [Robyn](https://github.com/RBodde)
 - [Snowsita](https://github.com/Snowsita)
 - [smoglmy](https://github.com/smoglmy)
@@ -5008,6 +5008,5 @@ Jyothish
 - [Jayesh Chaudhary](https://github.com/jaych415) - Working on open source contributions!
 - [Yash Tobre](https://github.com/Yash-Tobre) - Only if they told me to use my brains in making contributions I would have my own library by now!
 - [Madhan](https://github.com/madhanraj20060409) -This is my first contribution -[Bharath](https://github.com/bharath2005-bv) - This is My first contribution -[Bharathvengadesh](https://github.com/bharath2005-bv) - This is My first contribution
-- [Ashna Parveen](https://github.com/AshnaParveen)
-  EricHe
-- [Cristian Paul Castañeda](https://github.com/crispaulcastaneda)
+- [Ashna Parveen](https://github.com/AshnaParveen) EricHe
+- [Cristian Paul Castañeda](https://github.com/crispaulcastaneda) - This is my first contribution in open-source.
