@@ -98,7 +98,7 @@ _If you're not comfortable with command line, [here are tutorials using GUI tool
 
 ## Fork this repository
 
-Fork this repository by clicking on the fork button on the top of this page.
+Fork this repository by clicking on the fork button on the top of this page,above the green button code in your right side , it is 3rd from pin,watch and in last star option.
 This will create a copy of this repository in your account.
 
 ## Clone the repository
