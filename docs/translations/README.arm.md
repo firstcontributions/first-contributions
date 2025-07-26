@@ -1,7 +1,8 @@
-[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
+
 
 # Առաջին ներդրումները
 
@@ -123,7 +124,7 @@ git push -u origin your-branch-name
 
 Նշեք ձեր ներդրումը և կիսվեք այն ձեր ընկերների և հետևորդների հետ՝ գնալով [վեբ հավելված](https://firstcontributions.github.io/#social-share).
 
-Եթե ցանկանում եք ավելի շատ փորձ ձեռք բերել, տեսեք [ծածկագրի ներդրումները](https://github.com/roshanjossey/code-contributions)։
+Եթե ցանկանում եք ավելի շատ փորձ ձեռք բերել, տեսեք [ծածկագրի ներդրումները](https://github.com/firstcontributions/first-contributions#how-to-contribute)։
 
 
 Հիմա եկեք սկսենք ձեր ներդրումն ունենալ այլ նախագծերում: Մենք կազմել ենք հեշտ խնդիրներ ունեցող նախագծերի ցանկ, որոնցից կարող եք սկսել: Ստուգեք [վեբ հավելվածի նախագծերի ցանկը](https://firstcontributions.github.io/#project-list).
