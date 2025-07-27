@@ -1,6 +1,6 @@
 -[saumyashxrma](https://github.com/saumyashxrma)-My first contribution, and i am looking forward to many more.
 - [arnabb-codes](https://github.com/arnabb-codes) - Hi! I am Arnab Biswas from INDIA! I just did it for fun and also this is my maybe 2nd pull request, excited to do more! (26th July "2025)
-  ✅Ganesh Malo -26th-July-2025 -> https://github.com/gmalo1998/first-contributions#
+  ✅Ganesh Malo-26th-July-2025 -> https://github.com/gmalo1998/first-contributions# [lts do it ....]
 - [Polash MSH](https://github.com/polashds)- My first open source contributions, Hello world! nano! -[El-leandr0] - hi from portugal -[Maha‑Moni123](https://github.com/maha-moni123) — making my first open-source contribution 🎓 (2025‑07‑26) -[Ashar-Khalid](https://github.com/Ashar-Khalid) - This is my first contribution but its not going to be my last. My contributions will make an impact one day (July 25, 2025).
 - Abdugofurov Behruzbek
   []# Contributors
@@ -937,7 +937,7 @@
 - [gitty98]noice
 - [Ancil](https://github.com/iamancil)
 - [Om Borse](https://github.com/Om-Borse26) My first contribution to open source!
-- [androvonx95](https://github.com/androvonx95) – **** I use Arch btw 🗿🗿🗿🗿 ****
+- [androvonx95](https://github.com/androvonx95) – \***\* I use Arch btw 🗿🗿🗿🗿 \*\***
 - [Robyn](https://github.com/RBodde)
 - [Snowsita](https://github.com/Snowsita)
 - [smoglmy](https://github.com/smoglmy)
