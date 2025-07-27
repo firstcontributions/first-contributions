@@ -4324,6 +4324,7 @@ Jyothish
 - [mundurs](https://github.com/Sin-cy)
 - [Adarsh](https://github.com/adarsh-0024)
 - [Umer Amin](https://github.com/umer-amin)
+- [Kevin Covney] (https://github.com/kcovney)
 - [Rodrigo Avino](https://github.com/rodrigoavino)
   [Harsh](https://github.com/Harsh5225)
 - [ESSEDD](https://github.com/ESSEDD)
