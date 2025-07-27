@@ -33,6 +33,7 @@
 - [Ujjwal Gupta](https://github.com/guptaujjwal1128) - Namaste Folks! This is my first open source contribution. I am a senior engineer and recently started exploring open source world. (July 23, 2025)
 - Hello! My name is Abhi
 - [Piyush Jha](https://github.com/PiyushJ1) - Monday, 28th July 2025. Start of something new. Revisit this line 10 years in the future when I'm a successful startup founder.
+- Priyavardhan Reddy
 - Wow! I'm the new one here! You can call me mama! LeeX41
 - [Iren Fujiharu](https://github.com/IrenOknel) - Hey! I made my first open source contribution on July 25, 2025, beyond excited to start this journey! 🚀
 - ujjwal gupta made my first contribution
@@ -5045,6 +5046,7 @@ John Morgan Hello!
 - [Syed Muhammad Qasim](https://github.com/qasim032) - Happy to contribute!
 - [deehyeon](https://github.com/deehyeon) - Hello!!
 - Akmal
+- [chalcinxx](https://github.com/chalcinxx) - Forgot my message, might or might not contribute again here
 - [olatzgoti](https://github.com/olatzgoti) - Hi all, hello from Basque Country :-)
 - [kavyaMajeti](https://github.com/KavyadeviMajeti) -Hi all,starting my contribution journey 
 - [Janvi Chaturvedi](https://github.com/JANVI-CHATURVEDI) First step into open source ✨
