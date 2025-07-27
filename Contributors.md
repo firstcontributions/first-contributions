@@ -708,6 +708,7 @@ Achal Agrawal
 - [Vikas Gari](https://github.com/VikasGari) First Contribution (●'◡'●)
 - [Rama Samsara](https://github.com/RamaSamsara) This one of my learning stage into GitHub
 - [Akshada Mane](https://github.com/AkshadaMane26) Starting my open source contribution journey.
+- [BjornSno](https://github.com/BjornSno) - Lets go!!
 - [Thinzar](https://github.com/Thinzar-Shun-Lei)
 - [chaeyoung](https://github.com/thdcodud01) - Hello guys!
 - [Tarman](https://github.com/Tarmanjeet) Adding my name to contributors list.
