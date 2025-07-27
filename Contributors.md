@@ -5046,6 +5046,7 @@ John Morgan Hello!
 - [Syed Muhammad Qasim](https://github.com/qasim032) - Happy to contribute!
 - [deehyeon](https://github.com/deehyeon) - Hello!!
 - Akmal
+- [chalcinxx](https://github.com/chalcinxx) - Forgot my message, might or might not contribute again here
 - [olatzgoti](https://github.com/olatzgoti) - Hi all, hello from Basque Country :-)
 - [kavyaMajeti](https://github.com/KavyadeviMajeti) -Hi all,starting my contribution journey 
 - [Janvi Chaturvedi](https://github.com/JANVI-CHATURVEDI) First step into open source ✨
