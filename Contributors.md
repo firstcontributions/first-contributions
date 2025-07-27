@@ -1,4 +1,6 @@
+
 -[saumyashxrma](https://github.com/saumyashxrma)-My first contribution, and i am looking forward to many more.
+-[Jayant Puri](https://github.com/archd3mon) - First contribution (July 2025)
 - [arnabb-codes](https://github.com/arnabb-codes) - Hi! I am Arnab Biswas from INDIA! I just did it for fun and also this is my maybe 2nd pull request, excited to do more! (26th July "2025)
 - [Polash MSH](https://github.com/polashds)- My first open source contributions, Hello world! nano!
 -[El-leandr0] - hi from portugal
