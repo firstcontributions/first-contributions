@@ -2142,7 +2142,7 @@ Matthew Burgos
 - [Ansh Pachauri](https://github.com/ansh-pachauri/)
 - [Adrian Rosales](https://github.com/adrianhrosales365)
 - [Thrisha Kopula](https://github.com/ThrishaKopula)
-- [Avinash Alapati] (https://github.com/Avinash-Alapati) - Meet You in GSoC !!!
+- [Avinash Alapati](https://github.com/Avinash-Alapati) - Meet You in GSoC !!!
 - [Kritesh Bhattarai](https://github.com/kritesh00/)
 - [Eduardo Cruz](https://github.com/eduardocruz777)👨👍
 - [Abasiono Mbat] (https://github.com/AJ-505)
