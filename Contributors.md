@@ -8,6 +8,7 @@
 []# Contributors
 - Sathwik - Hello!, 10 years later me, this is your first open source contribution. (July 25, 2025)
 - [Kiran S](https://github.com/6carbon12) - Journey beigns... (July 26, 2025)
+- [Tareq-Sefati] (https://github.com/TareqSefati) Hi! I am Tareq Sefati from Bangladesh. My first open source contribution! (July 27, 2025)
 - [Dly](https://github.com/Dly27) - i was here (24/07/25)
 - [K](https://github.com/Lightningxyz) - First step into open source! (July 27th, 2025)
 - [Krishna](https://github.com/git-krishnabisht) - i was here (July 27, 2025)
