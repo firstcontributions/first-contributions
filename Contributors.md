@@ -32,6 +32,7 @@
 - [Theekshana Nuwan](https://github.com/nuwandev) - Hello This is my first open source contribution! (2025-07-25)
 - [Ujjwal Gupta](https://github.com/guptaujjwal1128) - Namaste Folks! This is my first open source contribution. I am a senior engineer and recently started exploring open source world. (July 23, 2025)
 - Hello! My name is Abhi
+- Jayant was here.
 - [Piyush Jha](https://github.com/PiyushJ1) - Monday, 28th July 2025. Start of something new. Revisit this line 10 years in the future when I'm a successful startup founder.
 - Priyavardhan Reddy
 - Wow! I'm the new one here! You can call me mama! LeeX41
