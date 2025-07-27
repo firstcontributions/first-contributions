@@ -5223,6 +5223,7 @@ asd
 - [Partha Das](https://github.com/parthodas23) - This is my first contribution, Oh finaly i did it
 - [Muhammad Mubashar](https://github.com/Muhammad-Mubashar516)
 - [Emirhan](https://github.com/emirhan854) - Hi there, I'm Emirhan
+- [Jimmy Tu](https://github.com/jianmingtu) - Hi there, I'm jianmingtu
 - [Phomahdo](https://github.com/Phomhado) - Hello World from Brazil! My first open-source contribution
 - [Anirudh Sharma](https://github.com/anirudhqwerty) - Hello from India!! , My first PR
 - [GPlemon](https://github.com/GPlemon) - Hello, world!
@@ -5391,3 +5392,4 @@ EricHe
 - [Vishakha Pawar](https://github.com/account) - Hello there, this is my first contribution. 
 - [Md Noorullah Raza](https://github.com/mnraza-dev) - *Hello world* I'm Md Noorullah Raza from Jharkhand, India. This is my first contribution. 
 - [Sam SS] (https://github.com/Samnak007) - Hello world! I am sam from England this is my first contribution
+
