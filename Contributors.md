@@ -1498,7 +1498,7 @@ Mohamed Farah
 - [Lakshmi Prasanna K](https://github.com/lakshmiprasannak0203)
  - Aaditya Chauhan (https://github.com/Aadityachauhan463)
  -[Lonedev](https://github.com/ishwarthecodddr)
- - [hanyudeye](https://github.com/hanyudeye)
+ - [hanyudeye](https://github.com/hanyudeye) - Hi, world!
  - [Rajdeep Keshri](https://github.com/Rajdeep4586)
  - [Shubhanga R Beeragere](https://github.com/beeragere)
  - [Ryusuke Akane](https://github.com/ryusuke0215)
