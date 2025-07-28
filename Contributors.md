@@ -2392,7 +2392,7 @@ Matthew Burgos
 - [Harlan Enciso](https://github.com/harlanenciso112)
 - [JorgeGallegos](https://github.com/JorgeGallegos8)
 - [apple]
-- [Brayan Arce Gómez] (https://github.com/brydev1990) - This is my first open source contribution!
+- [Brayan Arce Gómez](https://github.com/brydev1990) - This is my first open source contribution!
 - [Vijay Vishwakarma](https://github.com/GoldenFish23)
 - [SamTheTechi](https://github.com/SamTheTechi/)
 - [Shannon Rose Hill](https://github.com/ShannonRoseHill)
