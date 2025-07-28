@@ -976,6 +976,7 @@
 - [Jessica Agarwal](https://github.com/jessicaagarwal)
 - [Samridhi Prakash](https://github.com/Samridhi-2007)
 - [Angelina Tsygan](https://github.com/angelinatsygan)
+- [Vinit Rana](https://github.com/RanaVinit)
 - [Angelo Fontoura](https://github.com/angelofontoura)
 - [Daniel Larrusso](https://github.com/daniellarrusso)
 - [Saniya Guguloth](https://github.com/Saniyaguguloth)
