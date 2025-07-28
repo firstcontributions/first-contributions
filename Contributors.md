@@ -682,6 +682,7 @@ Achal Agrawal
  Hello my name is namexy and here is my first of many open source contribution
 - [Matheus Knaul] (https://github.com/matheusknaul) My First
 - [Adarsh](https://github.com/Fire-furo) My first contribution to open source on 17/06/2025!
+- [Meher Gupta](https://github.com/meher745) 17 June, 2025
 - [Prashan Kulathunga](https://github.com/prashankulathunga) I am starting my contribution journey today - 2025-06-26 : Happy Coding All!
 - [Danyal Ansari](https://github.com/DanyalAnsari) 18-06-2025::21:02 IST.
 - [Aleena Ali Azeem](https://github.com/aleenaazeem) Heya, Welcome to first of many contributions. Good luck :D.
