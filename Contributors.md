@@ -5355,6 +5355,7 @@ Thank you for the opportunity!
 - [Eleonora](https://github.com/cavoneleonora) Prima contribuzione 
 - [Govind Chauhan](https://github.com/gov5033) hellooooo, wassssup
 - [Chandini Sri Mounika](https://github.com/chandinisrimounika) 
+- [Kamil Brzezinski](https://github.com/git-od-podstaw-piotr)
 - [Abhishek Kumar - https://github.com/abhish1227] Learning fundamentals of Git. This is a good tutorial for beginners.
 - [Aman Dwivedi](https://github.com/amandwivedi45)
 - [Navneet Singh Yadav](https://github.com/Navneet225)
