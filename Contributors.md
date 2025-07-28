@@ -25,7 +25,7 @@
 - [Arda Düz](https://github.com/ArdaDuzz) - Arda was here :)
 - [Myat Min Htwe](https://github.com/myatmh) - Yo! I'm coming..🇲🇲🇲🇲🇲🇲
 - [Sukeyna Söğütçü](https://github.com/sukeynasogutcu)
-  <<<<<<<<< Temporary merge branch 1
+
   Hi!!!My first contribution!
 
   Hi!!!My first contribution!
