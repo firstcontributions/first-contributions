@@ -1761,6 +1761,7 @@ Anshi
 - [Aman](https://github.com/Amanthisside)
 - [Toni Thomas](https://github.com/DiyBookOfLife)
 - [Vyshnavi Jammi](https://github.com/vyshnaviJammi)
+-[Sauhard](https://github.com/samsauhard)-Hi, this is Sauhard from Canada, making my first contribution to an Open Source Project. Hoping to contribute more on various projects in future.
 
 - [Miging](https://github.com/Miging)
 - [Pallav Sharma](https://github.com/pallavsharma505/)
