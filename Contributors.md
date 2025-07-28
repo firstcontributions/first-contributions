@@ -7,6 +7,7 @@
 - [psp0](https://github.com/psp0)
 - [Bam](https://github.com/QBJ08)
 - [NMV](https://github.com/nmv02)
+- [nnn](https://github.com/nnn)
 - [zzb](https://github.com/zbrun)
 - [tr33k](https://github.com/tr33k)
 - [JWD](https://github.com/JWD-101)
