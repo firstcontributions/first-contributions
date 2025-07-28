@@ -3725,11 +3725,8 @@ random guy
 - [Tech] (https://github.com/techplayz32)
 - [Rennan Reis](https://github.com/rennanreis)
 - [Maitreyee Singh](https://github.com/maitreyee-s)
-<<<<<<< HEAD
--[Rachana Rajiwade](https://github.com/Rrachana14)
-=======
+- [Rachana Rajiwade](https://github.com/Rrachana14)
 [Pouria Tofighi](https://github.com/Pouria-Tofighi)
 -[Marouane Tabaa](https://github.com/Marouane666)
 - [Sidharth P](https://github.com/Sid-CodeX)
 - [Raghuveer Adari] (https://github.com/raghuadari)
->>>>>>> upstream/main
