@@ -557,6 +557,7 @@ implementing relational databases.
 - [Rohan H](https://github.com/rhelwatkar) - Excited to start my open source journey !
 - [Areeb Khan](https://github.com/curiousbud) - Hey everyone I'm Areeb Khan nice to meet you.
 - [KingCode](https://github.com/King-Code-938) - Hello, this is my first contribution
+- [Roshan](https://github.com/Roshan-Metrix) - Namaste ! This is my first contribution and I translated it into my native language i.e Bhojpuri 😉
 - [AhmedShaikh0](https://github.com/AhmedShaikh0) – Hi, I'm Ahmed M Shaikh, a passionate Web/Python developer and AI learner, contributing in the world of open source.
  
 -[Augusta](https://github.com/AbundanceChommy) This is my first contribution.I'm excited to contribute to open source.
