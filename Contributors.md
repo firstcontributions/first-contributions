@@ -254,6 +254,7 @@ namaskaram!!this is my first contribution.
 - [Kumar Nishant](https://github.com/K-Nishant-18) - First step toward open source contribution.
 - [Hayden](https://github.com/hayden233) - Hello World! This is my first contribution from China.
 - [Alokik Garg](https://github.com/alokikgarg)
+- [Divya Vijaykumar](https://github.com/DivyaVijaykumar927) - Created the [SOLDIER TRACKING AND HEALTH MONITORING SYSTEM](https://github.com/DivyaVijaykumar927/SOLDIER-TRACKING-AND-HEALTH-MONITORING-SYSTEM) IoT project.
 - [Aishwarya_Pandey](https://github.com/Aishwarya-create) - First contribution to open source, many more to go!
 - [Sudhanshu Soni](https://github.com/sudhanshusoni45) - Pretty late for the party! But here I am thanks!
 - [Wang Chao](https://github.com/Alleys31) - Hello world.
@@ -5303,6 +5304,8 @@ Thank you for the opportunity!
 - [lozio](https://github.com/loziofra) just getting started
 - [mingo](https://github.com/magicbox86) my first time
 - [jago](https://github.com/jaghito) my first
+- [DivyaVijaykumar927](https://github.com/DivyaVijaykumar927)  V Divya's first contribution
+
 - [thierry](https://github.com/thieazan) wowowo
 - [fasullo](https://github.com/fasullo90) - My first Contribution
 - [nicolle](https://github.com/nicllebrivio) Contributions lead to progress!
