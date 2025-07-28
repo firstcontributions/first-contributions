@@ -40,6 +40,7 @@
 - [Arnold Midalla](https://github.com/arnoldmidalla) - Yay! First actual contribution (21st of July; 2025)
 - [Anuj Katre](https://github.com/anujkatre111)
 - [Nitish M]
+- [Harsh Kumar Singh](https://github.com/Mickey3970) - Hello, This is my first contribution. Thank you (28th July,2025)
 - [Pradipta Kumar Rout](https://github.com/pradipta-rt) - Hello, my first Open source contribution. Thank you. (28 July 2025-02:11AM)
 - [Aman Yadav](https://github.com/aman4846y) - Hello Open Source contribution on(23/07/25)
 - [Tomás Perona](https://github.com/tomasperona) - Buenos Aires, Argentina (22/07/25)
