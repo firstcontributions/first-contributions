@@ -5115,6 +5115,7 @@ John Morgan Hello!
 - [Stevemichael](https://github.com/stevemichael15) - Hello, World!
 - [Taran Shetty](https://github.com/TaranShetty)
 - [ronaldrnd](https://github.com/ronaldrnd) - Hello from Madagascar!
+- [Riddhi Sekhri](https://github.com/riddhi-613) -hi all
 -[Zaky](https://github.com/zeciati) - Just coming through
 - [Romit Sharma] - My First Ever Contribution
 - [Roshan Koirala] (https://github.com/RoshannCodes) - Hello guys, Myself Roshan Koirala from Nepal!
