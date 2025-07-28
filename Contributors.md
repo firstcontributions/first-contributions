@@ -1457,6 +1457,7 @@ Mohamed Farah
  - Radhika [https://github.com/Radhika19t] -HI ! It's my first contribution , Many more to come !
 - [Lavkush](https://github.com/Lavkush24) Frist dive in the world of Open source on 19/06/2025!
 - [Yusuf Abdulmuiz (Abu Ridwān)](https://github.com/Yusufabdulmuiz) This is my first open source contribution but its not going to be my last. My contributions will make an impact one day (July 25, 2025).
+- [Rohit_nayak](https://github.com/rohitnayak19)  
 
 - [Khang Pham](https://github.com/Khang080704) Hi, this is my first contribution to an open source
 
