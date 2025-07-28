@@ -90,6 +90,7 @@ Hi!!!My first contribution!
 -[Imtiaz Ali](https://github.com/imtiaza1)- Hello World :) First Open Source Contribution! 
 - [Chandrashekar Myadaraveni (https://github.com/chandrashekaryadav124) I'm Exicted to do my first contribution to open source ]
 - [Jaromir J](https://github.com/Jaromirjjur) - I've seen easier tutorials in Ikea. But I managed it, with help of my dear Jessica.
+- [Sankalp Rai](https://github.com/sankalpr07) - I'm Batman
 - [Alexander Martínez](https://github.com/ZLostTK) - My first open source contribution!
 - [Md Sameer](https://github.com/raZer99) - My open source journey begins from this contribution ! (22nd July 2025)
 - [Eva Aggarwal] () - Hi! First contribution!! (22 July; 2025)
