@@ -121,7 +121,7 @@
 -[Shriya S R](https://github.com/Shriya-sr)- Hello! Spent 2 hours chasing a 403, turns out I was working with the wrong URL :)
 
 - [Theo Cowen](https://github.com/TheoC04) - Hello World!!! I was here
-- [Devorah Nina Aberman](https://github.com/DevorahNinaAberman) - Excited to make my first contribution!
+- [Devorah Nina Aberman](https://github.com/DevorahNinaAberman) - Excited to make my first contribution! XD
 - [Benjamin Richter](https://github.com/BenjaminRichter-pyjar) - I think I've done it
 - [Larisa](https://github.com/elarika) - Here we go!!!
 - [Nikhil Goswami](https://github.com/MileWhile) - Hello Contributors....
@@ -953,7 +953,7 @@
 - [gitty98]noice
 - [Ancil](https://github.com/iamancil)
 - [Om Borse](https://github.com/Om-Borse26) My first contribution to open source!
-- [androvonx95](https://github.com/androvonx95) – **** I use Arch btw 🗿🗿🗿🗿 ****
+- [androvonx95](https://github.com/androvonx95) – \***\* I use Arch btw 🗿🗿🗿🗿 \*\***
 - [Robyn](https://github.com/RBodde)
 - [Snowsita](https://github.com/Snowsita)
 - [smoglmy](https://github.com/smoglmy)
