@@ -7,6 +7,7 @@
 - [arnabb-codes](https://github.com/arnabb-codes) - Hi! I am Arnab Biswas from INDIA! I just did it for fun and also this is my maybe 2nd pull request, excited to do more! (26th July "2025)
 - [Polash MSH](https://github.com/polashds)- My first open source contributions, Hello world! nano!
 -[El-leandr0] - hi from portugal
+- [Jatoth Adithya Naik](https://github.com/adithya-naik) 🛠️ Contributed to Telugu Translation Guide Cleanup (27/07/25)
 -[Maha‑Moni123](https://github.com/maha-moni123) — making my first open-source contribution 🎓 (2025‑07‑26)
 -[Ashar-Khalid](https://github.com/Ashar-Khalid) - This is my first contribution but its not going to be my last. My contributions will make an impact one day (July 25, 2025).
 - Abdugofurov Behruzbek

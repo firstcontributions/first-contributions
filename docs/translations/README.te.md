@@ -6,131 +6,135 @@
 
 # ఓపెన్‌సోర్స్‌కు మీ మొదటి సహకారం
 
-వ్యాసాలు చదవడం & చూడటం ట్యుటోరియల్స్ సహాయపడతాయి, కానీ వాస్తవంగా ఆచరణాత్మక వాతావరణంలో నేర్పిస్తున్నదాని కంటే మెరుగైనది ఏమిటి?
+వ్యాసాలు చదవడం మరియు ట్యుటోరియల్స్ చూసే ప్రతిదీ సహాయపడుతాయి, కానీ వాస్తవ ఆచరణలో నేర్చుకోవడం మించి మెరుగైనది ఏమిటి?
 
-మార్గదర్శిని అందించడం మరియు ఈ ప్రాజెక్ట్ ప్రారంభకులకు వారి మొదటి ఓపెన్ సోర్స్ సహకారం అందించే విధానాన్ని సరళీకరించడం మరియు మార్గనిర్దేశం చేయడం లక్ష్యంగా పెట్టుకుంది. మీరు మీ మొదటి ఓపెన్ సోర్స్స హకారం అందించాలని చూస్తున్నట్లయితే, దిగువ దశలను అనుసరించండి.
+ఈ ప్రాజెక్ట్ ముఖ్య ఉద్దేశ్యం: ప్రారంభకులకు ఓపెన్ సోర్స్ ప్రాజెక్టులలో మొదటి సహకారం అందించే పద్ధతులను సులభతరం చేసి, మార్గదర్శకత్వం ఇవ్వడం.
 
+మీరు మొదటి సారి ఓపెన్ సోర్స్ లో సహకరించాలని భావిస్తున్నట్లయితే, దిగువ సూచనలను అనుసరించండి.
 
-#### *మీకు ఆదేశ పంక్తితో సౌకర్యంగా లేకపోతే, [ఇక్కడ GUI సాధనాలను ఉపయోగించి ట్యుటోరియల్స్ ఉన్నాయి.](#ఇతర-సాధనాలను-ఉపయోగించి-ట్యుటోరియల్స్)*
+#### *మీకు కమాండ్ లైన్ సౌకర్యం లేకపోతే,  [ఇక్కడ GUI సాధనాలను ఉపయోగించి ట్యుటోరియల్స్ ఉన్నాయి.](#ఇతర-సాధనాలను-ఉపయోగించి-ట్యుటోరియల్స్)*
+---
 
+మీరు `గిట్ (git)` వర్షన్ కంట్రోల్ సిస్టమ్‌తో సౌకర్యవంతంగా లేకపోతే, ట్యుటోరియల్స్ కోసం పై లింక్‌ను చూడండి.
 
-
-
-
-మొదటిసారి ఓపెన్ సోర్స్ కొరకు సహకరించాలి అనుకునే ప్రారంభకులకు పద్దతులను సులభతరం చేయడం ఈ ప్రాజెక్ట్ **ముఖ్య ఉద్దేశం**
-
- మీరు మొదటిసారి ఒపెన్ సోర్స్ ప్రాజెక్ట్ లకొరకు కాంట్రిబ్యూట్ చేయాలి అనుకుంటే కింది సూచనలు పాటించండి.
-
-మీరు `గిట్(git)`వర్షన్ కట్రోల్ సిస్టమ్ తో సౌకర్యవంతంగా లేకపోతే [ఇక్కడ GUI సాధనాలను ఉపయోగించి ట్యుటోరియల్స్ ఉన్నాయి.](#ఇతర-సాధనాలను-ఉపయోగించి-ట్యుటోరియల్స్)*
+---
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-మీ కంప్యూటర్ లో `GIT` లేకపోతే, [గిట్ వర్షన్ కంట్రోల్ సిస్టమ్ ను ఇన్స్టాల్ చేయండి](https://help.github.com/articles/set-up-git/).
+మీ కంప్యూటర్లో Git లేనట్లయితే, [ఇక్కడ Git ఇన్‌స్టాల్ చేయండి](https://help.github.com/articles/set-up-git/).
+
+---
 
 ## ఈ రిపోజిటరీని  ఫోర్క్ చెయ్యండి
 
-ఈ రిపోజిటరీని  ఫోర్క్ చెయ్యండి ఈ పేజీ ఎగువ భాగంలో ఫోర్క్ బటన్ పై క్లిక్ చేయడం ద్వారా క్లిక్ చేయండి.
-ఇది మీ ఖాతాలో ఈ రిపోజిటరీ కాపీని సృష్టిస్తుంది.
+ఈ పేజీపై ఎగువ భాగంలో ఉన్న **Fork** బటనుపై క్లిక్ చేయండి.  
+ఇది మీ ఖాతాలో ఈ రిపోజిటరీ కాపీని (Fork) సృష్టిస్తుంది.
 
-## ఈ రిపోజిటరీని  క్లోన్ చెయ్యండి
+---
+
+## ఈ రిపోజిటరీని క్లోన్ చేయండి
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-ఇప్పుడు మీ కంప్యూటరులో ఫోర్క్ రిపోను క్లోన్ చేయండి. మీ GitHub ఖాతాకు వెళ్లండి, ఫోర్క్డ్ రెపోని తెరిచి, క్లోన్ బటన్పై క్లిక్ చేసి, ఆపై * కాపీ * క్లిప్బోర్డ్కు క్లిక్ చేయండి.
-
-టెర్మినల్ తెరిచి కింది git ఆదేశాన్ని అమలు చేయండి:
-```
-git clone "మీరు ఇప్పుడే కాపీ చేసిన url"
-```
-ఇక్కడ "మీరు ఇప్పుడే కాపీ చేసిన url" (కోట్ మార్కులు లేకుండా) ఈ రిపోజిటరీకి URL (ఈ ప్రాజెక్టు మీ ఫోర్క్). Url ను పొందడానికి మునుపటి దశలను చూడండి.
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+మీ GitHub ఖాతాలో Fork చేసిన ప్రాజెక్ట్‌కి వెళ్లి, **Code** బటన్ పై క్లిక్ చేసి URL కాపీ చేయండి.  
+కంప్యూటర్లో టెర్మినల్ తెరవండి మరియు క్రింది ఆదేశం ఇవ్వండి:
 
-ఉదాహరణకి:
-```bash
-git clone https://github.com/this-is-you/first-contributions.git
-```
-ఇక్కడ 'this-is-you' మీ GitHub ప్రొఫైల్ నేమ్. ఇక్కడ మీరు `first-contribution` రిపోజిటరీ  యొక్క కంటెంట్లను మీ GitHub అకౌంట్ లో మీ కంప్యూటర్కు కాపీ చేస్తున్నారు.
+git clone <మీరు కాపీ చేసిన URL>
 
-## నూతన బ్రాంచ్ ను సృష్టించండి
+ఉదాహరణ:
 
-మీ కంప్యూటర్‌లోని రిపోజిటరీ డైరెక్టరీకి మార్చండి (మీరు ఇప్పటికే అక్కడ లేకపోతే):
+git clone https://github.com/your-username/first-contributions.git
 
-```bash
+---
+
+## కొత్త బ్రాంచ్‌ను సృష్టించండి
+
+మీ ప్రాజెక్ట్ ఫోల్డర్‌లోకి వెళ్లండి:
+
 cd first-contributions
-```
-ఇప్పుడు 'git checkout' కమాండ్ ను  ఉపయోగించి ఒక బ్రాంచ్ ను సృష్టించండి:
 
+కొత్త బ్రాంచ్ సృష్టించి ఆ బ్రాంచ్‌లోకి మార్చండి:
 
-ఉదాహరణకి:
-```bash
-git checkout -b add-alonzo-church
-```
-(బ్రాంచ్ యొక్క పేరు దానిలో పదం * add * ను కలిగి ఉండవలసిన అవసరం లేదు.
+git checkout -b add-your-name
 
-## అవసరమైన మార్పులు - చేర్పులు చేసి, ఆ మార్పులను నిరూపించండి.
+బ్రాంచ్ పేరును మీకు అనుకూలంగా ఎంచుకోవచ్చు.
 
-టెక్స్ట్ ఎడిటర్లో ఇప్పుడు ఓపెన్ `Contributors.md` ఫైల్లో, **మీ పేరుని జోడించండి. ఫైల్ ప్రారంభంలో లేదా ముగింపులో జోడించవద్దు. మధ్యలో ఎక్కడైనా ఉంచండి. ఇప్పుడు, ఫైల్ను సేవ్ చేయండి.**
+---
+
+## అవసరమైన మార్పులు చేయండి
+
+`Contributors.md` ఫైల్‌ను ఎడిట్ చేసి, మీ పేరును ఫైల్ మధ్యలో ఎక్కడైనా జోడించండి.  
+ఫైల్ సేవ్ చేయడం మర్చిపోకండి.
+
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
+---
 
-మీరు ప్రాజెక్ట్ డైరెక్టరీకి వెళ్లి `git status` కమాండ్ ని ఆదేశిస్తే, **మార్పులు-చేర్పులు ఉన్నాయి** అని మీరు చూస్తారు.
+## మార్పులను Git లో Stage చేసి Commit చేయండి
 
-`Git add ` కమాండ్ ను ఉపయోగించి మీరు సృష్టించిన బ్రాంచ్లో ఈ మార్పులను జోడించండి.
-
-`Git add` కమాండ్ను ఉపయోగించి మీరు సృష్టించిన బ్రాంచ్లో ఈ మార్పులను జోడించండి:
-```bash
 git add Contributors.md
-```
-
-ఇప్పుడు ఆ మార్పులను 'git commit' ఆదేశం ఉపయోగించి కట్టుకోండి:
-```bash
 git commit -m "Add <your-name> to Contributors list"
-```
-`<your-name>` ని తొలగించి  మీ పేరును కలపండి.
 
-## GitHubకి మార్పులను పుష్ చేయండి
+`<your-name>` స్థానంలో మీ పేరు జతచేయండి.
 
-కమాండ్ ఉపయోగించి మీ మార్పులను పంపండి `git push`:
-```bash
-git push origin <add-your-branch-name>
-```
-మీరు ముందుగా సృష్టించిన బ్రాంచీ పేరుతో `<add-your-branch-name>` ను జోడించుము.
+---
+
+## GitHubకి మార్చిన మార్పులను Push చేయండి
+
+git push origin <your-branch-name>
+
+`<your-branch-name>` స్థానంలో మీరు సృష్టించిన బ్రాంచ్ పేరు ఇవ్వండి.
+
 <details>
-<summary> <strong>GitHubలోకి  నెట్టేటప్పుడు మీకు ఏవైనా లోపాలు వస్తే, ఇక్కడ క్లిక్ చేయండి:</strong> </summary>
+<summary><strong>GitHubకి Push చేసే సమయంలో లోపాలు వచ్చినప్పుడల్లా ఇక్కడ క్లిక్ చేయండి:</strong></summary>
 
-- ### ప్రమాణీకరణ లోపం
-     <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
-  remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
-  fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
-  మీ ఖాతాకు SSH కీని రూపొందించడం మరియు కాన్ఫిగర్ చేయడంపై [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) వెళ్లండి.
+### ప్రమాణీకరణ లోపం (Authentication Error)
+
+remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+fatal: Authentication failed for `https://github.com/<your-username>/first-contributions.git/`
+
+దయచేసి [GitHub Personal Access Token](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/) ను ఉపయోగించండి లేదా  
+[SSH కీ ఎలా సృష్టించాలో మరియు GitHubకి ఎలా జతచేయాలో](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) తెలియుకోండి.
 
 </details>
 
-## సమీక్ష కోసం మీ మార్పులను సమర్పించండి
+---
 
-మీరు GitHub లో మీ రిపోజిటరీకి వెళ్లినట్లయితే, మీరు 'Compare & pull request' బటన్ను చూస్తారు. ఆ బటన్పై క్లిక్ చేయండి.
+## Pull Request (PR) సృష్టించండి
+
+మీ GitHub అకౌంట్‌లో Fork చేసిన రిపోజిటరీ పేజీకి వెళ్లండి.  
+మీ తాజా బ్రాంచ్ పట్ల **Compare & pull request** బటన్ కనిపిస్తుంది. దానిపై క్లిక్ చేయండి.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
-ఇప్పుడు పుల్ అభ్యర్థనను సమర్పించండి.
+తదుపరి పేజీలో అన్ని వివరాలు సరిచూసి **Create pull request** పై క్లిక్ చేయండి.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-  నేను  మీ అన్ని మర్పులను ఈ ప్రాజెక్ట్ యొక్క ప్రధాన విభాగానికి విలీనం`merge to main branch` చేస్తాను.
-మార్పులు విలీనం`merge` అయిన తర్వాత మీరు ఒక నోటిఫికేషన్ ఈమెయిల్ పొందుతారు.
+---
 
-## ఇక్కడ నుండి ఎక్కడికి వెళ్లాలి?
+## మార్పులు విలీనం (Merge) అయినపుడు
 
-అభినందనలు! మీరు స్టాండర్డ్ _fork -> clone -> edit -> PR_  వర్క్ ఫ్లో ను పూర్తి చేసారు.
+మీ పుల్ అభ్యర్థన (PR) యజమాని సమీక్షించి, సరి అయినా అనుకుంటే ప్రధాన బ్రాంచ్‌కు విలీనం చేస్తారు.  
+మార్పులు విలీనం అయినప్పుడు మీకు నోటిఫికేషన్ ఇమెయిల్ వస్తుంది.
 
-[వెబ్ యాప్‌కి](https://firstcontributions.github.io/#social-share) వెళ్లడం ద్వారా మీ సహకారాన్ని జరుపుకోండి మరియు మీ స్నేహితులు మరియు అనుచరులతో భాగస్వామ్యం చేయండి.
+---
 
-మీకు ఏదైనా సహాయం అవసరమైతే లేదా ఏవైనా ప్రశ్నలు ఉంటే మీరు మా స్లాక్ టీమ్‌లో చేరవచ్చు.[స్లాక్ జట్టులో చేరండి](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
+## శుభాకాంక్షలు!
 
-ఇక, ఇప్పుడు మీరు ఇతర ప్రాజెక్టులకు తోడ్పడటం ప్రారంభించండి. మీరు ప్రారంభించగల సులభమైన సమస్యలతో ప్రాజెక్టుల జాబితాను మేము రెడీ చేసాము. [వెబ్ ప్రాజెక్టుల జాబితాలు](https://firstcontributions.github.io/#project-list) ను చూడండి.
+మీరు ఫోర్క్ → క్లోన్ → ఎడిట్ → పుల్ రిక్వెస్ట్ వర్క్‌ఫ్లోను విజయవంతంగా పూర్తిచేశారు.
+
+మీ సహకారాన్ని ఈ [వెబ్ యాప్ ద్వారా](https://firstcontributions.github.io/#social-share) షేర్ చేయండి.  
+ఏవైనా ప్రశ్నలు లేదా సహాయం కావాలంటే, దయచేస్తూ మా స్లాక్ జట్టులో చేరండి:  
+[స్లాక్ జట్టులో చేరండి](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
+
+ఇప్పుడు మీరు ఇతర సులభమైన సమస్యలపై సహకరిస్తూ ప్రారంభించవచ్చు:  
+[ప్రాజెక్టుల జాబితా](https://firstcontributions.github.io/#project-list)
+
+---
 
 ### [అదనపు విషయం](../additional-material/git_workflow_scenarios/additional-material.md)
-
 
 ## ఇతర సాధనాలను ఉపయోగించి ట్యుటోరియల్స్
 
