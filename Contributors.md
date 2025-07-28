@@ -1439,6 +1439,7 @@ Mohamed Farah
  - [Lawan Mai](https://github.com/zlKxrsan)
  - Wex47
  - Radhika [https://github.com/Radhika19t] -HI ! It's my first contribution , Many more to come !
+- [Lavkush](https://github.com/Lavkush24) Frist dive in the world of Open source on 19/06/2025!
 
 - [Khang Pham](https://github.com/Khang080704) Hi, this is my first contribution to an open source
 
