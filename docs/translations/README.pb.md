@@ -104,7 +104,7 @@ git push origin <add-your-branch-name>
 
 ਆਪਣੇ ਯੋਗਦਾਨ ਦਾ ਜਸ਼ਨ ਮਨਾਓ ਅਤੇ ਜਾ ਕੇ ਇਸ ਨੂੰ ਆਪਣੇ ਦੋਸਤਾਂ ਅਤੇ ਪੈਰੋਕਾਰਾਂ ਨਾਲ ਸਾਂਝਾ ਕਰੋ। [ਵੈੱਬ ਐਪ](https://firstcontributions.github.io/#social-share).
 
-ਤੁਹਾਨੂੰ ਸਾਡੀ ਸਲੈਕ ਟੀਮ ਵਿਚ ਸ਼ਾਮਲ ਹੋ ਸਕਦਾ ਹੈ ਜੇ ਤੁਹਾਨੂੰ ਕਿਸੇ ਮਦਦ ਦੀ ਜ਼ਰੂਰਤ ਹੈ ਜਾਂ ਕੋਈ ਪ੍ਰਸ਼ਨ ਹੈ। [ਟੀਮ ਵਿਚ ਸ਼ਾਮਲ ਹੋ](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
+ਜੇਕਰ ਤੁਸੀਂ ਹੋਰ ਅਭਿਆਸ ਚਾਹੁੰਦੇ ਹੋ, ਤਾਂ [ਕੋਡ ਯੋਗਦਾਨਾਂ](https://github.com/roshanjossey/code-contributions) ਨੂੰ ਚੈੱਕਆਉਟ ਕਰੋ।
 
 ਆਓ ਹੁਣ ਤੁਹਾਨੂੰ ਹੋਰ ਪ੍ਰੋਜੈਕਟਾਂ ਵਿੱਚ ਯੋਗਦਾਨ ਪਾਉਣ ਲਈ ਸ਼ੁਰੂਆਤ ਕਰੀਏ. ਅਸੀਂ ਪ੍ਰੋਜੈਕਟਾਂ ਦੀ ਇੱਕ ਸੂਚੀ ਤਿਆਰ ਕੀਤੀ ਹੈ ਜਿਸ ਨਾਲ ਤੁਸੀਂ ਅਸਾਨ ਮੁੱਦਿਆਂ ਨੂੰ ਸ਼ੁਰੂ ਕਰ ਸਕਦੇ ਹੋ। [ਪ੍ਰੋਜੈਕਟਾਂ ਦੀ ਸੂਚੀ](https://firstcontributions.github.io/#project-list).
 
