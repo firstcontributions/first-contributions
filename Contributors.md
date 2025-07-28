@@ -10,6 +10,7 @@
 - Abdugofurov Behruzbek
 []# Contributors
 - Sathwik - Hello!, 10 years later me, this is your first open source contribution. (July 25, 2025)
+- Mike ADEYEMI,Nigeria fullstack web developer
 - Niharika - Heyy! This is my first contribution!! hoping to do many more... (July 27, 2025)
 - [Kiran S](https://github.com/6carbon12) - Journey beigns... (July 26, 2025)
 - [Tareq-Sefati] (https://github.com/TareqSefati) Hi! I am Tareq Sefati from Bangladesh. My first open source contribution! (July 27, 2025)
