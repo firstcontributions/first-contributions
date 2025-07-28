@@ -5233,6 +5233,7 @@ Jin
 - [Thulile Masuku](https://github.com/ThulileMasuku)
 - [Sai Mohaneesh](https://github.com/23241a6749)
 - [Kodenith](https://github.com/Kodenith) - beep boop
+- [Rupesh Sahu](https://github.com/Rynox1612)- Newbie Rupesh
 asd
 - [Fajar Cheema](https://github.com/fajarCheema) - Hi there, I'm Fajar
 - [Sankalp J](https://github.com/sankalp120) - lesgo
