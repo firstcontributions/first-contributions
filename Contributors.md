@@ -157,6 +157,7 @@ namaskaram!!this is my first contribution.
 -[Anjali](https://github.com/walkingacorn) _ I'm excited for this omg!
 -[Harsh Gharat](https://github.com/harsh16coder) _ Let's see where I go !!!!
 - [Owen Erhabor](https://github.com/owen-6936) - Owen was here! Lets connect, build and learn together.
+- [frangar98] - Hello World! First Contribution
 - [Tamoghna Kumar](https://github.com/tamoghna17) - Lets build and learn together.
 - [William Chen](https://github.com/wwchen1110) - I moved some of the previous contributors to be under the "# Contributors" header and reformatted their lines, if that's ok (July 25, 2025)
 - [Riddhi Singh](https://github.com/hi-riddhi) - Hey Myself Riddhi Singh, From Delhi, India. Starting my Open-source learning.(22nd of July; 2025)
