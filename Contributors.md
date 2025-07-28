@@ -452,6 +452,7 @@ vanakkam da Mapala...
 -[Yango27] (https://github.com/Yango27) - First of many contributions!! :)
 -[Shubham Gavand] (https://github.com/ShubhamGavand1234) - Hi Friends
 -[Pruthviraj Patil] (https://github.com/pruthvirajpatil2024) - Hello i am doing this contribution in intent of learning open source contribution.  
+-[Dinesh Priyantha](https://github.com/DineshPriyanthaGH)Dinesh Priyantha – Hi everyone, I’m Dinesh Priyantha, a passionate Full-Stack Software Developer and DevOps enthusiast, currently a second-year BSc (Hons) Computing & Information Systems student at SUSL. 🎉 This is my First open-source contribution!
 -[Jyoti Lalwani](https://github.com/Jyoti520) - first time contribution to open source
 -[WangZhenYU](https://github.com/wausdjaks) -Ciallo~  
 -[Nelson Privette](https://github.com/NPrivette) - Hey, I've been self taught for going on three years. Here's my first official open source contribution
@@ -488,6 +489,7 @@ vanakkam da Mapala...
 -[Rayan] (https://github.com/Arbenz-007)- Beginning my journey as open source contribution. This is my first contribution.
 -[Jaiguru2992](https://github.com/jai2992) - hi all started with my first contribution i guess doesn't know what is going to happen in the future.
 -[Faizan Sheikh](https://github.com/faizan929) - Hello everyone, this is my first time contributing to an open source, happy learning, All the best
+
 -[madasamy](https://github.com/madasamydfan) - 18 year old , student started contributing to learn.
 -[harryfotso](https://github.com/harryfotso) - This is my first open source contribution.
 -[MiaDeCataldo](https://github.com/MiaDeCataldo) - HI :). 
@@ -556,7 +558,7 @@ implementing relational databases.
 - [Areeb Khan](https://github.com/curiousbud) - Hey everyone I'm Areeb Khan nice to meet you.
 - [KingCode](https://github.com/King-Code-938) - Hello, this is my first contribution
 - [AhmedShaikh0](https://github.com/AhmedShaikh0) – Hi, I'm Ahmed M Shaikh, a passionate Web/Python developer and AI learner, contributing in the world of open source.
-- [Chandra Sekhar Chintalapudi](https://github.com/CHchandu2005) - Hi, everyone Myself Chandra Sekhar Chintalapudi, a passionate full stack developer with MERN stack and java full stack and software engineering student.
+ 
 -[Augusta](https://github.com/AbundanceChommy) This is my first contribution.I'm excited to contribute to open source.
 - [Olivier] this is my first contribution ever ! I'm happy to try this new feature. Salutations to everyone !
 - [M.Kabileshwaran](https://github.com/Kabileshwarankabil) - Hello 👋 This is my first open-source contribution Thanks you .
