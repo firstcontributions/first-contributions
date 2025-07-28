@@ -23,6 +23,7 @@
 - [Daniel](https://github.com/danielrasheedi) - Hi! (24 July 2025)
 - [Coran Chunilall](https://github.com/GalaxyMatrix) - Hello! This is my first open source contribution! (July 24, 2025)
 - qzx
+- [Akash Venkatesh](https://github.com/Akashvenkatesh-347) - This is my first Open Source Contributions ( 26th July 2025 )
 -Gauri Kokate-this is my first ever Contribution
 -[Awesome - SSP](https://github.com/Awesome-SSP) -  Hello Github! It's my first time contributing to open-source. I love contributing as I get to solve challenging problems, it's nice to meet a community of developers with the same mindset. (July 27, 2025)
 - [Shabbir Tankiwala](https://github.com/shabb-ir) - Hello Github! It's my first time contributing to open-source. I love contributing as I get to solve challenging problems, it's nice to meet a community of developers with the same mindset. (July 24, 2025)
