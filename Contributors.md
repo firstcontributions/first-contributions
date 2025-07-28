@@ -5162,6 +5162,7 @@ John Morgan Hello!
 - [Kelvin Ifeanyi] (https://github.com/rootikigai) - Yo! Wagwan great mindz! This is a good one for beginners contributing to open source. Nice work. Also, if you're coming underneath me, do give a follow on github...I follow back.
 - [Emmanuel Mingala](https://github.com/emmanyouwell) - Connect with me 🤝
 -[Ronit Thakur](https://github.com/RonitThakur2003)-Connect with me 🤝
+- rivkamen
 - [MrGunkin](https://github.com/mrgunkin) - Hello everyone!
 - [Astha](https://github.com/Astha-codes16)- Starting my journey of open source contribution! All the best to everyone out there
 - [Krishna Awasthi](https://github.com/krishnaawasthi-26)- from krishna, for Krishna, to Krishna
