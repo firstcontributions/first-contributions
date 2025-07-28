@@ -265,7 +265,7 @@ Was here!
 - [Priyanshu Singh](https://github.com/PriyanshuSingh44) - First contribution to open source!
 - [Amiraly](https://github.com/amiralitaherkhany) - Hiiii
 - [Balraj Choure](https://github.com/balraj009) – 🌟 First PR!
-
+- [A B Shravan Krishna](https://github.com/abshravan/) - I use Arch BTW.
 - [Manmohan Singh](https://github.com/Manmohan1633) - Hello!!, Broke the ice with my first open-source PR. Many more to go.
 - [vijaya lakshmi](https://github.com/vijayareddy2002)- hey! happy first contribution.
 - [Fernando Navas](https://github.com/fnavas) - Hello, this is my first contribution
