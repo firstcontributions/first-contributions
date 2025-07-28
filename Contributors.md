@@ -564,7 +564,8 @@ implementing relational databases.
 - [Mathiled Billard Marceau] (https://github.com/MathildeBillardMarceau) first of a long list i hope!
 - [nguyenhoanghai1605](https://github.com/nguyenhoanghai1605) Hello everyone, my name is Mr.Hai, I am passionate about Website, Mobile App and Full-Stack development | Software engineering student.
 - [Kishan Rana Ghosh](https://github.com/kishanghosh090) - Hi everyone my name is Kishan, i'm Passionate about Android & Full-Stack Development | BS Data Science Student 📚
-- [Senghak Choeun](https://github.com/Senghak-Choeun) - My first contribution to Open Source!
+-[Jeffrichie](https://github.com/jeffrichiee) - This is my first ever contribution on git
+- Senghak Choeun](https://github.com/Senghak-Choeun) - My first contribution to Open Source!
 - [leokkyhh](https://github.com/leokkyhh) hi there
 - [Habel] (https://github.com/Habel2005) Buhaha! My evil plan begins with this commit... world domination via pull requests 🌍🐍 , Touched the repo. It is forever changed. You're welcome. 🧙‍♂️
 - [Muideen](https://github.com/Muideen27/)
