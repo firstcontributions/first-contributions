@@ -39,6 +39,7 @@
 - [Piyush Jha](https://github.com/PiyushJ1) - Monday, 28th July 2025. Start of something new. Revisit this line 10 years in the future when I'm a successful startup founder.
 - Priyavardhan Reddy
 - Wow! I'm the new one here! You can call me mama! LeeX41
+- Hey! I'm learning git and github
 - [Iren Fujiharu](https://github.com/IrenOknel) - Hey! I made my first open source contribution on July 25, 2025, beyond excited to start this journey! 🚀
 - ujjwal gupta made my first contribution
 - Aayush Jha - made my first open-source cotribution. will be a great time ahead
