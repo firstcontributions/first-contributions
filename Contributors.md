@@ -10,6 +10,7 @@
 -[Ashar-Khalid](https://github.com/Ashar-Khalid) - This is my first contribution but its not going to be my last. My contributions will make an impact one day (July 25, 2025).
 - Abdugofurov Behruzbek
 []# Contributors
+- [Ryan Kafka](https://github.com/rkafka) - Howdy! Gearing up to get involved in open source :D
 - Sathwik - Hello!, 10 years later me, this is your first open source contribution. (July 25, 2025)
 - Mike ADEYEMI,Nigeria fullstack web developer
 - Niharika - Heyy! This is my first contribution!! hoping to do many more... (July 27, 2025)
