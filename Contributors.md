@@ -1,5 +1,4 @@
 # Contributors
-
 - [jokalu-it](Grüße :D)
 - [ATUL-SHARMA](https://github.com/Atul-Clg-Id)
 - [Pinion](https://pinion.kr)
@@ -12,7 +11,8 @@
 - [NMV](https://github.com/nmv02)
 - [nnn](https://github.com/nnn)
 - [zzb](https://github.com/zbrun)
-- [tr33k](https://github.com/tr33k) -[febDylan](https://github.com/feb-dylan)
+- [tr33k](https://github.com/tr33k)
+- [febDylan](https://github.com/feb-dylan)
 - [JWD](https://github.com/JWD-101)
 - [sls-1](https://github.com/sls-1)
 - [yugo](https://github.com/yugook)
@@ -55,7 +55,7 @@
 - [lukgav](https://github.com/lukgav)
 - [AlexKos](https://github.com/lukgav)
 - [Imam](https://github.com/Shaik-36)
-- [Harsh Kumar Singh](https://github.com/Mickey3970) This is my first contribution. Will do more soon. (29th July, 2025)
+- [Harsh Kumar Singh](https://github.com/Mickey3970)
 - [Anu](https://github.com/anurag998)
 - [0scrxk](https://github.com/oscrxk)
 - [deep9x](https://github.com/deep9x)
