@@ -117,6 +117,7 @@ Ukashatu Abdullahi
 - [LateGit](https://github.com/LateGit)
 - [hide361](https://github.com/hide361)
 - [Bee Tee](https://github.com/bennytp)
+- [JK Nithin Kumar](https://github.com/jknithin36)
 - [reihori](https://github.com/reihori)
 - [bereamk](https://github.com/bereamk)
 - [Andyple](https://github.com/andyple)
