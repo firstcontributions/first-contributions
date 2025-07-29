@@ -15,6 +15,7 @@
 Ukashatu Abdullahi
 - [NMV](https://github.com/nmv02)
 - [nnn](https://github.com/nnn)
+- [Chaimae](https://github.com/GRICHChaimae)
 - [zzb](https://github.com/zbrun)
 - [tr33k](https://github.com/tr33k)
 - [febDylan](https://github.com/feb-dylan)
