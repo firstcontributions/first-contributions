@@ -1002,6 +1002,7 @@ Ukashatu Abdullahi
 - [Samridhi Prakash](https://github.com/Samridhi-2007)
 - [Angelina Tsygan](https://github.com/angelinatsygan)
 - [Vinit Rana](https://github.com/RanaVinit)
+- [Joseph O'Neill](https://github.com/L00188381)
 - [Angelo Fontoura](https://github.com/angelofontoura)
 - [Daniel Larrusso](https://github.com/daniellarrusso)
 - [Saniya Guguloth](https://github.com/Saniyaguguloth)
