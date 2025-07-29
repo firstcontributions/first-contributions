@@ -212,6 +212,7 @@ Ukashatu Abdullahi
 - [Emiakpor](https://github.com/Emiakpor)
 - [hyenee99](https://github.com/hyenee99)
 - [Pranav](https://github.com/Pranav0102)
+- [rasushi](https://github.com/rasushi)
 - [MC_CLINT](https://github.com/MC-CLINT)
 - [am1n1602](https://github.com/Am1n1602)
 - [Max Rauber](https://github.com/maxrbr)
