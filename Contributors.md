@@ -3,6 +3,7 @@
 - [ATUL-SHARMA](https://github.com/Atul-Clg-Id)
 - [Pinion](https://pinion.kr)
 - [Damian](https://google.com)
+- [hamadsedrati](https://github.com/hamadsedrati)
 - [njn](https://github.com/Njn03)
 - [aoe3](https://github.com/aoe3)
 - [psp0](https://github.com/psp0)
