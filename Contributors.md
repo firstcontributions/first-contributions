@@ -2569,7 +2569,7 @@ Matthew Burgos
 - [Abhay](https://github.com/abhayiscoding)
 - [Jenny Martin](https://github.com/jmartinDS14)
 - [Vedant Manohar Patil](https://github.com/vedantmpatil)
-- [Yash Siddharth Jaiswar](https://github.com/yashjaiswar88)
+- [Yash Jaiswar](https://github.com/yashjaiswar88)
 - [kevinmj12](https://github.com/kevinmj12)
 - [Ametoj Singh](https://github.com/singamet)
 - [CynthiaWahome](https://github.com/CynthiaWahome)
