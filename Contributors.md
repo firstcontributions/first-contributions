@@ -160,6 +160,7 @@ Ukashatu Abdullahi
 - [Vitvin](https://github.com/vitvinvaz)
 - [Enzo](https://github.com/FRAIOLIenzo)
 - [Walter](https:://github.com/walter1705)
+- [Sakshi Singh](https://github.com/236sakshi)
 - [Elijah](https://github.com/Elijah647)
 - [WHA](https://github.com/wynehtetaung)
 - [dinesh](https://github.com/dineshv97)
