@@ -124,6 +124,7 @@
 - [eszanon](https://github.com/eszanon)
 - [Rey Jao](https://github.com/jao-rey)
 - [Eiheir](https://github.com/ebininin)
+- [brian](https://sl.bing.net/eOe8cTCKjEy)
 - [Intedai](https://github.com/Intedai)
 - [Noflare](https://github.com/Noflare)
 - [yohaku7](https://github.com/yohaku7)
