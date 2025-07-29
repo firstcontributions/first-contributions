@@ -20,6 +20,7 @@
 - [tuysh](https://github.com/Tuysh)
 - [addpd](https://github.com/addpd)
 - [oompf](https://github.com/oompf)
+  [Louis Lu](https://github.com/yanlu778)
 - [SHP](https://github.com/Su-Hnin)
 - [Ben](https://github.com/ben3211)
 - [emrlk](https://github.com/emrlk)
