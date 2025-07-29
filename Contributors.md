@@ -20,6 +20,7 @@ Ukashatu Abdullahi
 - [yugo](https://github.com/yugook)
 - [Alan](https://github.com/yhc000)
 - [tuysh](https://github.com/Tuysh)
+- [jpbellizia](https://github.com/jpbellizia)
 - [addpd](https://github.com/addpd)
 - [oompf](https://github.com/oompf)
 - [SHP](https://github.com/Su-Hnin)
