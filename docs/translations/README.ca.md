@@ -1,5 +1,4 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -108,6 +107,7 @@ Enhorabona! Acabes de completar el procés de treball principal que et trobaràs
 
 Ara, celebra la teva contribució i comparteix-la amb els teus amics i seguidors anant a [la web](https://firstcontributions.github.io/#social-share).
 
+Si vols contribuir al projecte, pots començar amb aquesta [guia per contribuir al codi](https://github.com/roshanjossey/code-contributions).
 
 A continuació, et pots preparar per contribuir a altres projectes. Hem reunit una llista de projectes amb tasques (*issues*) pendents fàcils per tal de poder començar. Fes un cop d'ull a [la llista de projectes aquí](https://firstcontributions.github.io/#project-list).
 
