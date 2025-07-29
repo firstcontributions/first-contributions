@@ -1,4 +1,5 @@
 # Contributors
+
 - [jokalu-it](Grüße :D)
 - [ATUL-SHARMA](https://github.com/Atul-Clg-Id)
 - [Pinion](https://pinion.kr)
@@ -9,12 +10,11 @@
 - [psp0](https://github.com/psp0)
 - [Bam](https://github.com/QBJ08)
 - [Jerry](https://github.com/SniperRaccoon)
-Ukashatu Abdullahi
+  Ukashatu Abdullahi
 - [NMV](https://github.com/nmv02)
 - [nnn](https://github.com/nnn)
 - [zzb](https://github.com/zbrun)
-- [tr33k](https://github.com/tr33k)
--[febDylan](https://github.com/feb-dylan)
+- [tr33k](https://github.com/tr33k) -[febDylan](https://github.com/feb-dylan)
 - [JWD](https://github.com/JWD-101)
 - [sls-1](https://github.com/sls-1)
 - [yugo](https://github.com/yugook)
@@ -72,7 +72,7 @@ Ukashatu Abdullahi
 - [Janani](https://github.com/cjanani)
 - [Yaoke](https://github.com/geeksKK8)
 - [demhak](https://github.com/dem-hak)
-- [Akshey](https://github.com/aksheyd)
+- [Akshey](https://github.com/aksheyd) -[MinThuH](https://github.com/minthuhlaing16)
 - [Gargi](https://github.com/gargig02)
 - [Durva](https://github.com/durva7px)
 - [Mamduh](https://github.com/Mamduh5)
@@ -967,7 +967,7 @@ Ukashatu Abdullahi
 - [Rathin Subramaniam](https://github.com/rathinsubra)
 - [Janice Fernandes](https://github.com/janiceferns02)
 - [EstherCamela](https://github.com/Esther-Assena-pro)
-- [Deepak Ondimuthu**](https://github.com/MeteorBlitz)
+- [Deepak Ondimuthu\*\*](https://github.com/MeteorBlitz)
 - [Arsalan Mohseni](https://github.com/arsalanmohseni)
 - [Pankaj Nautiyal](https://github.com/PankajNautiyal)
 - [Sidharth Manikandan](https://github.com/salazangar)
@@ -1078,7 +1078,7 @@ Ukashatu Abdullahi
 - [Rishabh Kumar Das](https://github.com/rishabhd-cognavi)
 - [Sarthak Bhardwaj](https://github.com/sarthakbhardwaj27)
 - [Vittorio Garretto](https://github.com/VittorioGarretto)
-- [Clarence _webmast3R](https://github.com/specialbrocoli)
+- [Clarence \_webmast3R](https://github.com/specialbrocoli)
 - [Harsh Gharsandiya](https://github.com/harshgharsandiya)
 - [AjaySinghKunwar](https://github.com/AjaySinghKunwar007)
 - [Vasupriya Patnaik](https://github.com/VasupriyaPatnaik)
