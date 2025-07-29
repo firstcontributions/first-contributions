@@ -1,5 +1,4 @@
 # Contributors
-
 - [jokalu-it](Grüße :D)
 - [Pinion](https://pinion.kr)
 - [Damian](https://google.com)
@@ -11,7 +10,7 @@
 - [nnn](https://github.com/nnn)
 - [zzb](https://github.com/zbrun)
 - [tr33k](https://github.com/tr33k)
-- [febDylan](https://github.com/feb-dylan)
+--[febDylan](https://github.com/feb-dylan)
 - [JWD](https://github.com/JWD-101)
 - [sls-1](https://github.com/sls-1)
 - [yugo](https://github.com/yugook)
