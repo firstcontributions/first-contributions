@@ -1,4 +1,5 @@
 # Contributors
+
 - [jokalu-it](Grüße :D)
 - [Pinion](https://pinion.kr)
 - [Damian](https://google.com)
@@ -9,8 +10,7 @@
 - [NMV](https://github.com/nmv02)
 - [nnn](https://github.com/nnn)
 - [zzb](https://github.com/zbrun)
-- [tr33k](https://github.com/tr33k)
--[febDylan](https://github.com/feb-dylan)
+- [tr33k](https://github.com/tr33k) -[febDylan](https://github.com/feb-dylan)
 - [JWD](https://github.com/JWD-101)
 - [sls-1](https://github.com/sls-1)
 - [yugo](https://github.com/yugook)
@@ -958,7 +958,7 @@
 - [Rathin Subramaniam](https://github.com/rathinsubra)
 - [Janice Fernandes](https://github.com/janiceferns02)
 - [EstherCamela](https://github.com/Esther-Assena-pro)
-- [Deepak Ondimuthu**](https://github.com/MeteorBlitz)
+- [Deepak Ondimuthu\*\*](https://github.com/MeteorBlitz)
 - [Arsalan Mohseni](https://github.com/arsalanmohseni)
 - [Pankaj Nautiyal](https://github.com/PankajNautiyal)
 - [Sidharth Manikandan](https://github.com/salazangar)
@@ -1069,7 +1069,7 @@
 - [Rishabh Kumar Das](https://github.com/rishabhd-cognavi)
 - [Sarthak Bhardwaj](https://github.com/sarthakbhardwaj27)
 - [Vittorio Garretto](https://github.com/VittorioGarretto)
-- [Clarence _webmast3R](https://github.com/specialbrocoli)
+- [Clarence \_webmast3R](https://github.com/specialbrocoli)
 - [Harsh Gharsandiya](https://github.com/harshgharsandiya)
 - [AjaySinghKunwar](https://github.com/AjaySinghKunwar007)
 - [Vasupriya Patnaik](https://github.com/VasupriyaPatnaik)
@@ -1135,3 +1135,4 @@
 - [Yogesh Joga యోగేష్ జోగ](https://github.com/yogeshjoga)
 - [Santhosh Kumar Karthikeyan](https://github.com/santhosh-kumar-karthikeyan)
 - [Nandana Radhakrishnan](https://github.com/NandanaRadhakrishnan)
+- [Cristian Paul Castañeda](https://github.com/crispaulcastaneda)
