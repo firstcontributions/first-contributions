@@ -1,5 +1,6 @@
 # Contributors
 - [jokalu-it](Grüße :D)
+- [ATUL-SHARMA](https://github.com/Atul-Clg-Id)
 - [Pinion](https://pinion.kr)
 - [Damian](https://google.com)
 - [njn](https://github.com/Njn03)
@@ -1137,3 +1138,4 @@
 - [Nandana Radhakrishnan](https://github.com/NandanaRadhakrishnan)
 - [Cristian Paul Castañeda](https://github.com/crispaulcastaneda)
 - [Muny Phalla](https://github.com/lalaphalla)
+- [Makwana Chirag](https://github.com/makwana-chirag)
