@@ -890,6 +890,7 @@ Ukashatu Abdullahi
 - [Saif Mohammed](https://github.com/SaifMohammed22)
 - [Anusha Jamsandekar](https://github.com/anushaj79)
 - [Thien Nguyen](https://github.com/thiennh-dev)
+- [Ravin Kuamr Jangir](https://github.com/ravin1100)
 - [Ch-Umar-Aslam](https://github.com/CH-Umar-Aslam/)
 - [antoineDELEBECQUE](https://github.com/AntoineDlb)
 - [Vaibhav Rawat](https://github.com/VaibhavRawat27)
