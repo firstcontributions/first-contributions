@@ -141,6 +141,7 @@
 - [JCoder](https://github.com/jcoder-12)
 - [Krishiv](https://github.com/Krizzhiv)
 - [tay24or](https://github.com/tay24lor)
+- [RabbitAlbatross](https://github.com/RabbitAlbatross)
 - [Evan Rhea](https://github.com/MegaSF)
 - [Vitvin](https://github.com/vitvinvaz)
 - [Enzo](https://github.com/FRAIOLIenzo)
