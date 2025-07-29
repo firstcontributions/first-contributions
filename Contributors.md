@@ -5,6 +5,7 @@
 - [Damian](https://google.com)
 - [hamadsedrati](https://github.com/hamadsedrati)
 - [njn](https://github.com/Njn03)
+- [Sachin](https://github.com/sachinkashi21)
 - [aoe3](https://github.com/aoe3)
 - [psp0](https://github.com/psp0)
 - [Bam](https://github.com/QBJ08)
