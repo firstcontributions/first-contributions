@@ -55,6 +55,7 @@
 - [lukgav](https://github.com/lukgav)
 - [AlexKos](https://github.com/lukgav)
 - [Imam](https://github.com/Shaik-36)
+- [Harsh Kumar Singh](https://github.com/Mickey3970) This is my first contribution. Will do more soon. (29th July, 2025)
 - [Anu](https://github.com/anurag998)
 - [0scrxk](https://github.com/oscrxk)
 - [deep9x](https://github.com/deep9x)
