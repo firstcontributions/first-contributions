@@ -879,6 +879,7 @@
 - [Tawheed Ahmed](https://github.com/TawheedAhmed28)
 - [Saif Mohammed](https://github.com/SaifMohammed22)
 - [Anusha Jamsandekar](https://github.com/anushaj79)
+- [Thien Nguyen](https://github.com/thiennh-dev)
 - [Ch-Umar-Aslam](https://github.com/CH-Umar-Aslam/)
 - [antoineDELEBECQUE](https://github.com/AntoineDlb)
 - [Vaibhav Rawat](https://github.com/VaibhavRawat27)
