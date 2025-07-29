@@ -7,6 +7,7 @@
 - [aoe3](https://github.com/aoe3)
 - [psp0](https://github.com/psp0)
 - [Bam](https://github.com/QBJ08)
+- [Jerry](https://github.com/SniperRaccoon)
 - [NMV](https://github.com/nmv02)
 - [nnn](https://github.com/nnn)
 - [zzb](https://github.com/zbrun)
