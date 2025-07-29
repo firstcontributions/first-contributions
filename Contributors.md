@@ -27,6 +27,7 @@ Ukashatu Abdullahi
 - [oompf](https://github.com/oompf)
 - [SHP](https://github.com/Su-Hnin)
 - [Ben](https://github.com/ben3211)
+- [Luke Eades](https://github.com/LukeEades)
 - [emrlk](https://github.com/emrlk)
 - [urkwr](https://github.com/urkwr)
 - [TOK7O](https://github.com/TOK7O)
