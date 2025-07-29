@@ -2,6 +2,7 @@
 - [jokalu-it](Grüße :D)
 - [ATUL-SHARMA](https://github.com/Atul-Clg-Id)
 - [Pinion](https://pinion.kr)
+- [Edson Petry](https://github.com/edsonpetry)
 - [Damian](https://google.com)
 - [hamadsedrati](https://github.com/hamadsedrati)
 - [njn](https://github.com/Njn03)
