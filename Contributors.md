@@ -992,6 +992,7 @@ Ukashatu Abdullahi
 - [Christopher Taljaard](https://github.com/ctaljaard)
 - [Brandon Munisur](https://github.com/Brandonmunisur)
 - [Haj Mohamed👨‍💻](https://github.com/haj8110)
+- [Lokeek Lokhande](https://github.com/lokhandelokeek11)
 - [Andrew Tillman](https://github.com/Th1Exterminator)
 - [PatríciaRamosS](https://github.com/PatriciaRamosS)
 - [Ricardo Guimaraes](https://github.com/Ricardoguima)
