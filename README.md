@@ -3,7 +3,6 @@
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 #### _Read this in [other languages](docs/translations/Translations.md)._
-
 <kbd>[<img title="Shqip" alt="Shqip" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/al.svg" width="22">](docs/translations/README.al.md)</kbd>
 <kbd>[<img title="Armenian" alt="Armenian" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/am.svg" width="22">](docs/translations/README.arm.md)</kbd>
 <kbd>[<img title="Uzbek" alt="Uzbek language" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/uz.svg" width="22">](docs/translations/README.uz.md)</kbd>
@@ -16,7 +15,7 @@
 <kbd>[<img title="Czech" alt="Czech" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/cz.svg" width="22">](docs/translations/README.cs.md)</kbd>
 <kbd>[<img title="Deutsch" alt="Deutsch" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/de.svg" width="22">](docs/translations/README.de.md)</kbd>
 <kbd>[<img title="Dansk" alt="Dansk" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/dk.svg" width="22">](docs/translations/README.da.md)</kbd>
-<kbd>[<img title="العربية" alt="العربية" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/eg.svg" width="22">](docs/translations/README.eg.md)</kbd>
+<kbd>[<img title="المصرية" alt="المصرية" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/eg.svg" width="22">](docs/translations/README.eg.md)</kbd>
 <kbd>[<img title="Dezéiriya" alt="Dezéiriya" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/dz.svg" width="22">](docs/translations/README.dz.md)</kbd>
 <kbd>[<img title="Español de España" alt="Español de España" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](docs/translations/README.es.md)</kbd>
 <kbd>[<img title="Française" alt="Française" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">](docs/translations/README.fr.md)</kbd>
@@ -30,7 +29,6 @@
 <kbd>[<img title="हिंदी/ગુજરાતી/मराठी/മലയാളം/ಕನ್ನಡ/తెలుగు/छत्तीसगढ़ी/বাংলা/தமிழ்" alt="हिंदी/ગુજરાતી/मराठी/മലയാളം/ಕನ್ನಡ/తెలుగు/छत्तीसगढ़ी/বাংলা/தமிழ்" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/in.svg" width="22">](docs/translations/Translations.md)</kbd>
 <kbd>[<img title="தமிழ்" alt="தமிழ்" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/lk.svg" width="22">](docs/translations/README.ta.md)</kbd>
 <kbd>[<img title="فارسی" alt="فارسی" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ir.svg" width="22">](docs/translations/README.fa.md)</kbd>
-<kbd>[<img title="پښتو" alt="پښتو" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/af.svg" width="22">](docs/translations/README.pus.md)</kbd>
 <kbd>[<img title="Italiano" alt="Italiano" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/it.svg" width="22">](docs/translations/README.it.md)</kbd>
 <kbd>[<img title="日本語" alt="日本語" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/jp.svg" width="22">](docs/translations/README.ja.md)</kbd>
 <kbd>[<img title="සිංහල" alt="සිංහල" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/lk.svg" width="22">](docs/translations/README.si.md)</kbd>
@@ -52,7 +50,7 @@
 <kbd>[<img title="Polski" alt="Polski" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/pl.svg" width="22">](docs/translations/README.pl.md)</kbd>
 <kbd>[<img title="Português (Portugal)" alt="Português (Portugal)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/pt.svg" width="22">](docs/translations/README.pt-pt.md)</kbd>
 <kbd>[<img title="Русский язык" alt="Русский язык" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ru.svg" width="22">](docs/translations/README.ru.md)</kbd>
-<kbd>[<img title="عربى" alt="عربى" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/sa.svg" width="22">](docs/translations/README.ar.md)</kbd>
+<kbd>[<img title="العربية" alt="العربية" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/sa.svg" width="22">](docs/translations/README.ar.md)</kbd>
 <kbd>[<img title="Svenska" alt="Svenska" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/se.svg" width="22">](docs/translations/README.se.md)</kbd>
 <kbd>[<img title="Slovenčina" alt="Slovenčina" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/sk.svg" width="22">](docs/translations/README.slk.md)</kbd>
 <kbd>[<img title="Slovenščina" alt="Slovenščina" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/si.svg" width="22">](docs/translations/README.sl.md)</kbd>
@@ -107,7 +105,7 @@ This will create a copy of this repository in your account.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button, then on SSH tab and then click the _copy to clipboard_ icon.
+Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button, then on SSH tab and then click the _copy url to clipboard_ icon.
 
 Open a terminal and run the following git command:
 
