@@ -9,6 +9,7 @@
 - [psp0](https://github.com/psp0)
 - [Bam](https://github.com/QBJ08)
 - [Jerry](https://github.com/SniperRaccoon)
+Ukashatu Abdullahi
 - [NMV](https://github.com/nmv02)
 - [nnn](https://github.com/nnn)
 - [zzb](https://github.com/zbrun)
