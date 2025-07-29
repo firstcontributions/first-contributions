@@ -13,6 +13,7 @@
 - [Bam](https://github.com/QBJ08)
 - [Jerry](https://github.com/SniperRaccoon)
 Ukashatu Abdullahi
+- [Josh](https://github.com/josh902)
 - [NMV](https://github.com/nmv02)
 - [nnn](https://github.com/nnn)
 - [zzb](https://github.com/zbrun)
