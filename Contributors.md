@@ -321,6 +321,7 @@ Ukashatu Abdullahi
 - [Xinsheng Ooi](https://github.com/xs1128)
 - [Maruthi S](https://github.com/JSMaruthi)
 - [ITSMijaiL](https://github.com/ITSMijaiL)
+- [devduck](https://github.com/fred-kr)
 - [Kjohnbaba](https://github.com/kjohnbaba)
 - [STA](https://github.com/sithuaung246810)
 - [Ernest Muli](https://github.com/kunmuli)
