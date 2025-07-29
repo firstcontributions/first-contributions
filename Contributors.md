@@ -552,6 +552,7 @@
 - [Victor Muthii](https://github.com/muthii-10)
 - [AkramMohammad](https://github.com/Akram1806)
 - [Edgar Flores](https://github.com/efloresCSE)
+- [Jaime Garcia](https://github.com/Jaimegcaam)
 - [Manisha1679](https://github.com/Manisha1679)
 - [WeAreBorg20](https://github.com/WeAreBorg20)
 - [Alejandr0x](https://github.com/Alejandr0xxx)
