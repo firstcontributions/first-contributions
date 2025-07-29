@@ -1110,6 +1110,7 @@
 - [gpalacios26](https://github.com/gpalacios26/curso-git-fork)
 - [Steve Armstrong](https://github.com/W0474997SteveArmstrong)
 - [Debapriya sengupta](https://github.com/DebapriyaSengupta28)
+- [Boru Isako](https://github.com/BoruIsakoJ)
 - [Muhammad Mubashar](https://github.com/Muhammad-Mubashar516)
 - [JAHNAVI-YERRAMSETTI](https://github.com/JAHNAVI-YERRAMSETTI)
 - [Keshav Raj Chaudhary](https://github.com/chaudharykeshavraj)
