@@ -34,6 +34,7 @@ Ukashatu Abdullahi
 - [emrlk](https://github.com/emrlk)
 - [urkwr](https://github.com/urkwr)
 - [TOK7O](https://github.com/TOK7O)
+- [Pedro Silva](https://github.com/pcconraria)
 - [qrywo](https://github.com/qrywo)
 - [ma3ti](https://github.com/ma3ti)
 - [.kim](https//github.com/kim8584)
