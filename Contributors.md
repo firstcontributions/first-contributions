@@ -18,6 +18,7 @@
 - [dfdavila2](https://github.com/dfdavila2)
 - [Jerry](https://github.com/SniperRaccoon)
 - [Ukashatu Abdullahi](https://github.com/Ukashatu40)
+- [Sachin Kumar](https://github.com/Itsmesachin98)
 Ukashatu Abdullahi
 - [Josh](https://github.com/josh902)
 - [NMV](https://github.com/nmv02)
