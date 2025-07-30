@@ -24,6 +24,7 @@
 - [Sachin Kumar](https://github.com/Itsmesachin98)
 Ukashatu Abdullahi
 - [Josh](https://github.com/josh902)
+- [Aditya Mazumdar](https://github.com/aditya95-pixel)
 - [Shashank Shekhar](https://github.com/Shekhar0109)
 - [NMV](https://github.com/nmv02)
 - [nnn](https://github.com/nnn)
