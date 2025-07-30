@@ -98,6 +98,7 @@ Hi!!!My first contribution!
 - [maiconsvr](https://github.com/maiconsvr) - Opaaaa meus friends! Primeira contribuição com sucesso! Hello from BRAZIL!
 - [Shubham_Bhandari](https://github.com/Shubham277353) - Aye kya bolti public it's your boi shubham ,and this is my first contribution , but not the last there are many more to come XD!
 - [kevin_Rol!!!](https://github.com/Kevinrol)- yesssss this is my first contribution 🦍
+- [Avinash-Alapati](https://github.com/Avinash-Alapati) - First Contribution
 - [Jens_M](https://github.com/vox288)- One does not simply walk into GitHub and contribute! (20th July 2025)
 - [Omar Ebead](https://github.com/OmarE20) - Hello, here's to many more contributions!
 - [sonika chowdary](https://github.com/sonika1206) - My First Contributing, and this is just the start of my journey!
