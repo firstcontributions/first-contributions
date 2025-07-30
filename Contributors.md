@@ -399,6 +399,7 @@ Hager
 - [Captain](https://github.com/CaptainPatel)
 - [Pankaj Monga](https://github.com/p-monga)
 - [Tyler Daw](https://github.com/TylerD1105)
+- [Anu Priya Pulagam](https://github.com/AnuPriyaPulagam)
 - [Varsha Gitty](https://github.com/vgg1459)
 - [Görkem](https://github.com/gorkemozsari)
 - [Ian McManus](https://github.com/ianmcman)
