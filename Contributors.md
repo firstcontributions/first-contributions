@@ -143,6 +143,7 @@ Hager
 - [hide361](https://github.com/hide361)
 - [Bee Tee](https://github.com/bennytp)
 - [JK Nithin Kumar](https://github.com/jknithin36)
+- [swev10swev](https://github.com/swev10swev)
 - [reihori](https://github.com/reihori)
 - [bereamk](https://github.com/bereamk)
 - [Andyple](https://github.com/andyple)
