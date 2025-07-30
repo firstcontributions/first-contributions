@@ -105,7 +105,7 @@ This will create a copy of this repository in your account.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button, then on SSH tab and then click the _copy url to clipboard_ icon.
+Now clone the forked repository to your machine. **Important: You must clone YOUR fork, not the original repository.** Go to your GitHub account, open the forked repository (it should show `your-username/first-contributions`), click on the code button, then on SSH tab and then click the _copy url to clipboard_ icon.
 
 Open a terminal and run the following git command:
 
@@ -113,7 +113,7 @@ Open a terminal and run the following git command:
 git clone "url you just copied"
 ```
 
-where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
+where "url you just copied" (without the quotation marks) is the url to **your fork** of this project. Make sure the URL contains your username, not `firstcontributions`.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
@@ -123,7 +123,7 @@ For example:
 git clone git@github.com:this-is-you/first-contributions.git
 ```
 
-where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
+where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository from **your fork** on GitHub to your computer.
 
 ## Create a branch
 
@@ -190,8 +190,20 @@ git push -u origin your-branch-name
 
 replacing `your-branch-name` with the name of the branch you created earlier.
 
+**Note:** This pushes your changes to your fork (your copy of the repository), not the original repository. This is the correct behavior - you don't have permission to push directly to the original repository.
+
 <details>
 <summary> <strong>If you get any errors while pushing, click here:</strong> </summary>
+
+- ### Permission Denied Error
+     <pre>remote: Permission to firstcontributions/first-contributions.git denied to your-username.
+  fatal: unable to access 'https://github.com/firstcontributions/first-contributions.git/': The requested URL returned error: 403</pre>
+  **This error means you're trying to push to the original repository instead of your fork.** Make sure you:
+  1. Forked the repository first
+  2. Cloned **your fork** (the URL should contain your username, not `firstcontributions`)
+  3. Are pushing to your fork, not the original repository
+  
+  Check your remote URL with: `git remote -v`. It should show your username, not `firstcontributions`.
 
 - ### Authentication Error
      <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
