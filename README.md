@@ -88,7 +88,7 @@
 
 # First Contributions
 
-This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
+This project aims to simplify and guide beginners through making their first contribution. If you are looking to make your first contribution, follow the steps below.
 
 _If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
 
@@ -232,7 +232,8 @@ Celebrate your contribution and share it with your friends and followers by goin
 
 If you'd like more practice, checkout [code contributions](https://github.com/roshanjossey/code-contributions).
 
-Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
+Now that you've made your first contribution, let's explore other beginner-friendly projects you can contribute to.
+ We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
 
 ### [Additional material](docs/additional-material/git_workflow_scenarios/additional-material.md)
 
