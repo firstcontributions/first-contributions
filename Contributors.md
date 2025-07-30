@@ -12,6 +12,7 @@
  =[Bjoseph23](https://github.com/Bjoseph23)
 - [psp0](https://github.com/psp0)
 - [Bam](https://github.com/QBJ08)
+- [dfdavila2](https://github.com/dfdavila2)
 - [Jerry](https://github.com/SniperRaccoon)
 Ukashatu Abdullahi
 - [Josh](https://github.com/josh902)
