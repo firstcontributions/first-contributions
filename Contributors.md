@@ -1,6 +1,7 @@
 # Contributors
 - [Harry-GNS](https://github.com/Harry-GNS)
 - [jokalu-it](Grüße :D)
+- [Hemant-Dua](https://github.com/Hemant-Dua)
 - [ATUL-SHARMA](https://github.com/Atul-Clg-Id)
 - [Pinion](https://pinion.kr)
 - [Edson Petry](https://github.com/edsonpetry)
