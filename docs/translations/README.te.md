@@ -13,9 +13,7 @@
 మీరు మొదటి సారి ఓపెన్ సోర్స్ లో సహకరించాలని భావిస్తున్నట్లయితే, దిగువ సూచనలను అనుసరించండి.
 
 #### *మీకు కమాండ్ లైన్ సౌకర్యం లేకపోతే,  [ఇక్కడ GUI సాధనాలను ఉపయోగించి ట్యుటోరియల్స్ ఉన్నాయి.](#ఇతర-సాధనాలను-ఉపయోగించి-ట్యుటోరియల్స్)*
----
 
-మీరు `గిట్ (git)` వర్షన్ కంట్రోల్ సిస్టమ్‌తో సౌకర్యవంతంగా లేకపోతే, ట్యుటోరియల్స్ కోసం పై లింక్‌ను చూడండి.
 
 ---
 
@@ -40,11 +38,11 @@
 మీ GitHub ఖాతాలో Fork చేసిన ప్రాజెక్ట్‌కి వెళ్లి, **Code** బటన్ పై క్లిక్ చేసి URL కాపీ చేయండి.  
 కంప్యూటర్లో టెర్మినల్ తెరవండి మరియు క్రింది ఆదేశం ఇవ్వండి:
 
-git clone <మీరు కాపీ చేసిన URL>
+`git clone <మీరు కాపీ చేసిన URL>`
 
 ఉదాహరణ:
 
-git clone https://github.com/your-username/first-contributions.git
+`git clone https://github.com/your-username/first-contributions.git` 
 
 ---
 
@@ -52,11 +50,11 @@ git clone https://github.com/your-username/first-contributions.git
 
 మీ ప్రాజెక్ట్ ఫోల్డర్‌లోకి వెళ్లండి:
 
-cd first-contributions
+`cd first-contributions`
 
 కొత్త బ్రాంచ్ సృష్టించి ఆ బ్రాంచ్‌లోకి మార్చండి:
 
-git checkout -b add-your-name
+`git checkout -b add-your-name` 
 
 బ్రాంచ్ పేరును మీకు అనుకూలంగా ఎంచుకోవచ్చు.
 
@@ -72,9 +70,10 @@ git checkout -b add-your-name
 ---
 
 ## మార్పులను Git లో Stage చేసి Commit చేయండి
-
+```
 git add Contributors.md
 git commit -m "Add <your-name> to Contributors list"
+```
 
 `<your-name>` స్థానంలో మీ పేరు జతచేయండి.
 
@@ -82,7 +81,7 @@ git commit -m "Add <your-name> to Contributors list"
 
 ## GitHubకి మార్చిన మార్పులను Push చేయండి
 
-git push origin <your-branch-name>
+`git push origin <your-branch-name>`
 
 `<your-branch-name>` స్థానంలో మీరు సృష్టించిన బ్రాంచ్ పేరు ఇవ్వండి.
 
