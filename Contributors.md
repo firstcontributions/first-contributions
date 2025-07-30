@@ -1,6 +1,6 @@
 # Contributors
 - [Harry-GNS](https://github.com/Harry-GNS)
-- [jokalu-it](Grüße :D)
+- [jokalu-it](https://github.com/jokalu-it)
 - [Hemant-Dua](https://github.com/Hemant-Dua)
 - [ATUL-SHARMA](https://github.com/Atul-Clg-Id)
 - [Pinion](https://pinion.kr)
@@ -16,7 +16,7 @@
 - [Bam](https://github.com/QBJ08)
 - [dfdavila2](https://github.com/dfdavila2)
 - [Jerry](https://github.com/SniperRaccoon)
-Ukashatu Abdullahi
+- [Ukashatu Abdullahi](https://github.com/Ukashatu)
 - [Josh](https://github.com/josh902)
 - [NMV](https://github.com/nmv02)
 - [nnn](https://github.com/nnn)
@@ -27,7 +27,7 @@ Ukashatu Abdullahi
 - [JWD](https://github.com/JWD-101)
 - [sls-1](https://github.com/sls-1)
 - [yugo](https://github.com/yugook)
-Hager
+- [Hager](https://github.com/Hager)
 - [Prince Yadav](https://github.com/princeyadav0136)
 - [Alan](https://github.com/yhc000)
 - [tuysh](https://github.com/Tuysh)
@@ -121,7 +121,7 @@ Hager
 - [AvAdiii](https://github.com/AvAdiii)
 - [OmkarS](https://github.com/omkar402)
 - [Hisham](https://github.com/sikehish)
-- [BinhTran2307](my first contribution)
+- BihTran23n07
 - [ricor07](https://github.com/ricor07)
 - [ekadet](https://github.com/ekadetov)
 - [andev77](https://github.com/AnDev77)
