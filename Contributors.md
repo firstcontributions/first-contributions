@@ -1190,4 +1190,5 @@ Hager
 - [Vlad](https://github.com/aptikum)
 - [anuradhapatil](https://github.com/anuradhapatil-dev)
 - [Bhavesh Badani](https://github.com/BhaveshBadani)
+- [Alexander](https://github.com/azuaje1982)
 - [RunarokHrafn](https://github.com/Runarok)
