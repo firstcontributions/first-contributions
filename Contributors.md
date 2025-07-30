@@ -6,6 +6,7 @@
 - [Edson Petry](https://github.com/edsonpetry)
 - [Damian](https://google.com)
 - [hamadsedrati](https://github.com/hamadsedrati)
+-[bzms](https://github.com/lizzalpha)
 - [njn](https://github.com/Njn03)
 - [Sachin](https://github.com/sachinkashi21)
 - [aoe3](https://github.com/aoe3)
