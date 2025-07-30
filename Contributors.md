@@ -1,8 +1,9 @@
 # Contributors
 - [Harry-GNS](https://github.com/Harry-GNS)
 - [jokalu-it](Grüße :D)
-- [FinalGrabacr](https://https://github.com/FinalGrabacr)
-- [whiteaxesing](https://https://github.com/whiteaxesing)
+- [Quick-Genius](https://github.com/Quick-Genius)
+- [FinalGrabacr](https://github.com/FinalGrabacr)
+- [whiteaxesing](https://github.com/whiteaxesing)
 - [Hemant-Dua](https://github.com/Hemant-Dua)
 - [ATUL-SHARMA](https://github.com/Atul-Clg-Id)
 - [Pinion](https://pinion.kr)
