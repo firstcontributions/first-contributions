@@ -1209,6 +1209,7 @@ Hager
 - [RunarokHrafn](https://github.com/Runarok)
 - [dfrttkj](https://github.com/dfrttkj)
 - [Hamdullah Andar](https://github.com/Hamdullah-Andar)
+- [Nirupam Paul](https://github.com/101paul)
 - [VenkateshSama](https://github.com/S-Venky-06)
 - [Sangeeta](https://github.com/sangeeta-nayak)
 - [Wimbo] (https://github.com/wimbodwi26)
