@@ -237,6 +237,7 @@ Hager
 - [rasushi](https://github.com/rasushi)
 - [MC_CLINT](https://github.com/MC-CLINT)
 - [am1n1602](https://github.com/Am1n1602)
+- [Erik-Heinzle00](https://github.com/Erik-Heinzle00)
 - [Max Rauber](https://github.com/maxrbr)
 - [Mark](https://github.com/markferritto)
 - [bivekk51](https://github.com/bivekk51)
