@@ -70,6 +70,7 @@ Hager
 - [soulpm](https://github.com/soulpm)
 - [soulpm](https://github.com/soulpm)
 - [0xjeji](https://github.com/0xjeji)
+- [c-lombardi23](https://github.com/c-lombardi23)
 - [as6200](https://github.com/as6200)
 - [AjiHsu](https://github.com/AjiHsu)
 - [Ryen-K](https://github.com/Ryen-K)
