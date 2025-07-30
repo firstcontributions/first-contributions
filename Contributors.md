@@ -25,6 +25,7 @@ Ukashatu Abdullahi
 - [JWD](https://github.com/JWD-101)
 - [sls-1](https://github.com/sls-1)
 - [yugo](https://github.com/yugook)
+Hager
 - [Prince Yadav](https://github.com/princeyadav0136)
 - [Alan](https://github.com/yhc000)
 - [tuysh](https://github.com/Tuysh)
@@ -64,6 +65,7 @@ Ukashatu Abdullahi
 - [Ryen-K](https://github.com/Ryen-K)
 - [Ahorts](https://github.com/Ahorts)
 - [Hushh](https://github.com/hushh-h)
+- [Aman Bangera](https://github.com/amanbangeraa)
 - [jorsyk](https://github.com/jorsyk)
 - [lukgav](https://github.com/lukgav)
 - [AlexKos](https://github.com/lukgav)
@@ -1180,4 +1182,8 @@ Ukashatu Abdullahi
 - [Chandana](https://github.com/Chandana2829)
 - [Sara Rauf](https://github.com/srauf456)
 - [Vlad](https://github.com/aptikum)
+<<<<<<< HEAD
 - [swev10swev](https://github.com/swev10swev)
+=======
+- [anuradhapatil](https://github.com/anuradhapatil-dev)
+>>>>>>> 4b9114b9c9699cb03b00609905925b28ff50180e
