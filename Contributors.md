@@ -1,6 +1,7 @@
 # Contributors
 - [Harry-GNS](https://github.com/Harry-GNS)
 - [jokalu-it](Grüße :D)
+- [Sakshi Patade](https://github.com/Sakshipatade)
 - [FinalGrabacr](https://https://github.com/FinalGrabacr)
 - [whiteaxesing](https://https://github.com/whiteaxesing)
 - [Hemant-Dua](https://github.com/Hemant-Dua)
