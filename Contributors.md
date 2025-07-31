@@ -1,5 +1,6 @@
 # Contributors
 - [Harry-GNS](https://github.com/Harry-GNS)
+- [Ritesh Murmu](https://github.com/Ritesh-cloud)
 - [jokalu-it](Grüße :D)
 - [Sakshi Patade](https://github.com/Sakshipatade)
 - [FinalGrabacr](https://https://github.com/FinalGrabacr)
