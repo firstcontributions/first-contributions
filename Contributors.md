@@ -1249,3 +1249,4 @@ Hager
 - [Aaron Rafael Thamin](https://github.com/aaronraf)
 - [Ranjan 😎]
 - [Said Berk](https://github.com/saidberk27)
+- [_𝓟𝓸𝔀𝓮𝓻 𝓛𝓮𝓮_](https://github.dev/0xiPower)
