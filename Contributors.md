@@ -1230,5 +1230,6 @@ Hager
 - [Heena](https://github.com/heenaf)
 - [Prasannjit Panda](https://github.com/prasannjitpanda)
 - [Popie 52](https://github.com/Popie52)
+- [bzhaaa](https://github.com/bzhaaa)
 - [Hrishikesh](https://github.com/Hrishikesh-2712)
 - [noodlexe](https://github.com/noodlexe)
