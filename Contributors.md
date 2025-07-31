@@ -1213,6 +1213,4 @@
 - [Sangeeta](https://github.com/sangeeta-nayak)
 - [Wimbo] (https://github.com/wimbodwi26)
 - [Swaeba Bilal](https://github.com/Swaeba-Bilal)
-- I am MJV(jagan venkat) 
--[Heena](https://github.com/heenaf) 
--[Eddie](https://https://github.com/Eddie000321)
+- I am MJV(jagan venkat) -[Heena](https://github.com/heenaf) -[Eddie](https://https://github.com/Eddie000321)
