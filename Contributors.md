@@ -561,6 +561,7 @@ Hager
 - [Stelios Gee](https://github.com/SteliosGee)
 - [Sabrina Ira](https://github.com/sabrinaira)
 - [Jon Compton](https://github.com/joncompton)
+-[Blaine Weiss](https://github.com/BlaineWeiss)
 - [ColorCode](https://github.com/benjaAguilar)
 - [Rennan Reis](https://github.com/rennanreis)
 - [Nilesh Kumar](https://github.com/nilesh646)
