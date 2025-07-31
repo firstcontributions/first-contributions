@@ -1235,3 +1235,4 @@ Hager
 - [noodlexe](https://github.com/noodlexe)
 - [Badr INOUSS](https://github.com/SharpBI)
 - [Rkuwahara](https://github.com/Rkuwahara)
+- [Crofean](https://github.com/crofean)
