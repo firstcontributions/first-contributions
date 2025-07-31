@@ -1,4 +1,5 @@
 # Contributors
+- [nikolaikoenig] (https://github.com/nikolai-koenig)
 - [Harry-GNS](https://github.com/Harry-GNS)
 - [Ritesh Murmu](https://github.com/Ritesh-cloud)
 - [jokalu-it](Grüße :D)
