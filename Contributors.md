@@ -181,6 +181,7 @@ Hager
 - [Vitvin](https://github.com/vitvinvaz)
 - [Enzo](https://github.com/FRAIOLIenzo)
 - [Walter](https:://github.com/walter1705)
+- [Nitish](https://github.com/NK2552003)
 - [Sakshi Singh](https://github.com/236sakshi)
 - [Elijah](https://github.com/Elijah647)
 - [WHA](https://github.com/wynehtetaung)
