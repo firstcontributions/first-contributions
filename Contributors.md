@@ -1,4 +1,5 @@
 # Contributors
+
 - [Harry-GNS](https://github.com/Harry-GNS)
 - [Ritesh Murmu](https://github.com/Ritesh-cloud)
 - [jokalu-it](Grüße :D)
@@ -14,12 +15,11 @@
 - [Damian](https://google.com)
 - [Muskan Agarwal](https://github.com/MuskanAgarwal7)
 - [Chris Q](https://github.com/Q-X-F)
-- [hamadsedrati](https://github.com/hamadsedrati)
--[bzms](https://github.com/lizzalpha)
+- [hamadsedrati](https://github.com/hamadsedrati) -[bzms](https://github.com/lizzalpha)
 - [njn](https://github.com/Njn03)
 - [Sachin](https://github.com/sachinkashi21)
 - [aoe3](https://github.com/aoe3)
- =[Bjoseph23](https://github.com/Bjoseph23)
+  =[Bjoseph23](https://github.com/Bjoseph23)
 - [psp0](https://github.com/psp0)
 - [Bam](https://github.com/QBJ08)
 - [dfdavila2](https://github.com/dfdavila2)
@@ -28,7 +28,7 @@
 - [Gabe Dorval](https://github.com/gabedorval589)
 - [Ukashatu Abdullahi](https://github.com/Ukashatu40)
 - [Sachin Kumar](https://github.com/Itsmesachin98)
-Ukashatu Abdullahi
+  Ukashatu Abdullahi
 - [Josh](https://github.com/josh902)
 - [Aditya Mazumdar](https://github.com/aditya95-pixel)
 - [Shashank Shekhar](https://github.com/Shekhar0109)
@@ -41,7 +41,7 @@ Ukashatu Abdullahi
 - [JWD](https://github.com/JWD-101)
 - [sls-1](https://github.com/sls-1)
 - [yugo](https://github.com/yugook)
-Hager
+  Hager
 - [Pedada Tirumala Devi](https://github.com/pedadatirumaladevi21)
 - [Prince Yadav](https://github.com/princeyadav0136)
 - [Alan](https://github.com/yhc000)
@@ -170,8 +170,7 @@ Hager
 - [Intedai](https://github.com/Intedai)
 - [Noflare](https://github.com/Noflare)
 - [yohaku7](https://github.com/yohaku7)
-- [mukyoko](https://github.com/mukyoko)
--[udhav vinaik](https://github.com/udhavvinaik)
+- [mukyoko](https://github.com/mukyoko) -[udhav vinaik](https://github.com/udhavvinaik) -[Navneet Singh](https://github.com/beasTy2411)
 - [Raushan](https://github.com/oisitme)
 - [Tan Loc](https://github.com/htloc98)
 - [AvatarG](https://github.com/AvatarG)
@@ -566,8 +565,7 @@ Hager
 - [Letícia Reche](https://github.com/lereche)
 - [Stelios Gee](https://github.com/SteliosGee)
 - [Sabrina Ira](https://github.com/sabrinaira)
-- [Jon Compton](https://github.com/joncompton)
--[Blaine Weiss](https://github.com/BlaineWeiss)
+- [Jon Compton](https://github.com/joncompton) -[Blaine Weiss](https://github.com/BlaineWeiss)
 - [ColorCode](https://github.com/benjaAguilar)
 - [Rennan Reis](https://github.com/rennanreis)
 - [Nilesh Kumar](https://github.com/nilesh646)
