@@ -1254,3 +1254,5 @@ Hager
 - [Said Berk](https://github.com/saidberk27)
 - [_𝓟𝓸𝔀𝓮𝓻 𝓛𝓮𝓮_](https://github.dev/0xiPower)
 - [Poojan Jariwala](https://github.com/poojanjariwala)
+- Nutan Arjun Shinde
+
