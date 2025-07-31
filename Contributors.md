@@ -99,6 +99,7 @@ Hager
 - [Anu](https://github.com/anurag998)
 - [VizzScript](https://github.com/vizzscript)
 - [0scrxk](https://github.com/oscrxk)
+- [mheavey](https://github.com/mheavey2)
 - [deep9x](https://github.com/deep9x)
 - [devoceon](https://github.com/emy3)
 - [wystmk](https://github.com/wystmk)
