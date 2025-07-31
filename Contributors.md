@@ -1244,3 +1244,4 @@ Hager
 - [Crofean](https://github.com/crofean)
 - [Aaron Rafael Thamin](https://github.com/aaronraf)
 - [Ranjan 😎]
+- [Said Berk](https://github.com/saidberk27)
