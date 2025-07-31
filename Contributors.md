@@ -66,6 +66,7 @@ Hager
 - [levo](https://github.com/LeVo011)
 - [kazuma](https://github.com/Mio-3)
 - [Tournoy Noa](https://github.com/)
+-[Fyobei] (https://github.com/Waku-a11y)
 - [Nasrul](https://github.com/nnayz)
 - [Seul](https://github.com/seulahn)
 - [KG](https://github.com/kgoel9899)
