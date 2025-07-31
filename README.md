@@ -228,6 +228,8 @@ Soon I'll be merging all your changes into the main branch of this project. You 
 
 Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll often encounter as a contributor!
 
+This is a great first step toward becoming an open source contributor. Keep exploring and keep building!
+
 Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io/#social-share).
 
 If you'd like more practice, checkout [code contributions](https://github.com/roshanjossey/code-contributions).
