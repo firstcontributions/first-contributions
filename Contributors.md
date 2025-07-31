@@ -205,6 +205,7 @@ Hager
 - [dinesh](https://github.com/dineshv97)
 - [dev-sik](https://github.com/YouD0313)
 - [AFRA A](https://github.com/Afrah4331)
+- [adrianescalona228](https://github.com/adrianescalona228)
 - [Drax-dr](https://github.com/Drax-dr/)
 - [Stephen Ng](https://github.com/snust)
 - [MayLeaf](https://github.com/may-leaf)
