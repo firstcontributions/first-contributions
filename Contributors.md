@@ -97,6 +97,7 @@ Hager
 - [Imam](https://github.com/Shaik-36)
 - [Harsh Kumar Singh](https://github.com/Mickey3970)
 - [Anu](https://github.com/anurag998)
+- [VizzScript](https://github.com/vizzscript)
 - [0scrxk](https://github.com/oscrxk)
 - [deep9x](https://github.com/deep9x)
 - [devoceon](https://github.com/emy3)
