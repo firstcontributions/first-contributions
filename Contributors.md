@@ -7,6 +7,7 @@
 - [ATUL-SHARMA](https://github.com/Atul-Clg-Id)
 - [Pinion](https://pinion.kr)
 - [Edson Petry](https://github.com/edsonpetry)
+- [Rohan-Lalchandani](https://github.com/Rohan-Lalchandani08)
 - [Damian](https://google.com)
 - [Muskan Agarwal](https://github.com/MuskanAgarwal7)
 - [Chris Q](https://github.com/Q-X-F)
