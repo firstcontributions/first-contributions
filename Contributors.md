@@ -481,6 +481,7 @@ Hager
 - [KristinnTh](https://github.com/KristinnTh)
 - [lordzerato](https://github.com/lordzerato)
 - [Rikemannen](https://github.com/rikemannen)
+- [Sujitha](https://github.com/Suji-droid)
 - [SaginalaAzeez](https://github.com/asheedh)
 - [Eric-DaRosa](https://github.com/EricDar12)
 - [Vernwalker](https://github.com/Vernwalker)
