@@ -104,6 +104,7 @@ Hager
 - [deep9x](https://github.com/deep9x)
 - [Yash aka Light](https://github.com/y8done)
 - [devoceon](https://github.com/emy3)
+- [Avadhoot Kulkarni] (https://github.com/Avadhoot-Kulkarni)
 - [wystmk](https://github.com/wystmk)
 - [Shab00](https://github.com/Shab00)
 - [OWillp](https://github.com/0Willp)
