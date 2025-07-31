@@ -1234,3 +1234,4 @@ Hager
 - [Hrishikesh](https://github.com/Hrishikesh-2712)
 - [noodlexe](https://github.com/noodlexe)
 - [Badr INOUSS](https://github.com/SharpBI)
+- [Rkuwahara](https://github.com/Rkuwahara)
