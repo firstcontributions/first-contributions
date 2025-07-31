@@ -1242,4 +1242,4 @@ Hager
 - [Rkuwahara](https://github.com/Rkuwahara)
 - [Crofean](https://github.com/crofean)
 - [Aaron Rafael Thamin](https://github.com/aaronraf)
-- [Enes Melih Eroğlu](https://github.com/Enes0668)
+- [Enes Melih Eroglu](https://github.com/Enes0668)
