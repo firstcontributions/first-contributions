@@ -102,6 +102,7 @@ Hager
 - [0scrxk](https://github.com/oscrxk)
 - [mheavey](https://github.com/mheavey2)
 - [deep9x](https://github.com/deep9x)
+- [Yash aka Light](https://github.com/y8done)
 - [devoceon](https://github.com/emy3)
 - [wystmk](https://github.com/wystmk)
 - [Shab00](https://github.com/Shab00)
