@@ -1,6 +1,7 @@
 # Contributors
-- [nikolaikoenig] (https://github.com/nikolai-koenig)
+- [nikolaikoenig](https://github.com/nikolai-koenig)
 - [Harry-GNS](https://github.com/Harry-GNS)
+- [Dimitri Voncleph](https://github.com/D-Voncleph)
 - [Ritesh Murmu](https://github.com/Ritesh-cloud)
 - [jokalu-it](Grüße :D)
 - [Sakshi Patade](https://github.com/Sakshipatade)
