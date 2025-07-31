@@ -11,6 +11,7 @@
 - [Shamir Ali](https://github.com/ShamirAli55)
 - [ATUL-SHARMA](https://github.com/Atul-Clg-Id)
 - [Pinion](https://pinion.kr)
+- [jürgen vanzeir]
 - [Edson Petry](https://github.com/edsonpetry)
 - [Rohan-Lalchandani](https://github.com/Rohan-Lalchandani08)
 - [Damian](https://google.com)
