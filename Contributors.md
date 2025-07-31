@@ -4,6 +4,7 @@
 - [Ritesh Murmu](https://github.com/Ritesh-cloud)
 - [jokalu-it](Grüße :D)
 - [Sakshi Patade](https://github.com/Sakshipatade)
+- Gurukiran Reddy AKA AstaReddy
 - [FinalGrabacr](https://https://github.com/FinalGrabacr)
 - [whiteaxesing](https://https://github.com/whiteaxesing)
 - [Hemant-Dua](https://github.com/Hemant-Dua)
