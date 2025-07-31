@@ -769,6 +769,7 @@ Hager
 - [Maria Carrera](https://github.com/MarieCourse)
 - [Samaksh Sethiya](https://github.com/Samaksh22)
 - [Anirudh Pandey](https://github.com/anirudh241)
+- [Alan Tai](https://github.com/at350)
 - [Tristan Orpilla](https://github.com/13tristan)
 - [Abhishek Sharma](https://github.com/abhi-up79)
 - [Ife Osifalujo](https://github.com/osifalujoi1)
