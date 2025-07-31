@@ -9,6 +9,7 @@
 - [Edson Petry](https://github.com/edsonpetry)
 - [Damian](https://google.com)
 - [Muskan Agarwal](https://github.com/MuskanAgarwal7)
+- [Chris Q](https://github.com/Q-X-F)
 - [hamadsedrati](https://github.com/hamadsedrati)
 -[bzms](https://github.com/lizzalpha)
 - [njn](https://github.com/Njn03)
