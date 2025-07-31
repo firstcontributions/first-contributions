@@ -1211,6 +1211,7 @@ Hager
 - [Ya_Suo](https://github.com/liouliuliu)
 - [Neha Behare](https://github.com/neha-behare)
 - [Anju Yadav](https://github.com/Anjuyada123)
+- [Eddie](https://github.com/eddie0101)
 - [Louis Lu](https://github.com/yanlu788)
 - [Jj Anto](https://github.com/jjanto2k5)
 - [Allwin Edilbert](https://github.com/edilbert-dnd)
