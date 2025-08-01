@@ -1267,5 +1267,6 @@ Hager
 - [_𝓟𝓸𝔀𝓮𝓻 𝓛𝓮𝓮_](https://github.dev/0xiPower)
 - [Poojan Jariwala](https://github.com/poojanjariwala)
 - [nyinyi zin](https://github.com/nyinyizin-dev)
+- [James-826](https://github.com/James-826)
 - [SusalSandeepa](https://github.com/SusalSandeepa)
 - [Eldar Guseynov 🐦‍🔥](https://github.com/username-i386)
