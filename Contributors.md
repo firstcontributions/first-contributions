@@ -1267,3 +1267,4 @@ Hager
 - [Poojan Jariwala](https://github.com/poojanjariwala)
 - [nyinyi zin](https://github.com/nyinyizin-dev)
 - [SusalSandeepa](https://github.com/SusalSandeepa)
+- [Eldar Guseynov 🐦‍🔥](https://github.com/username-i386)
