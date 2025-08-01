@@ -648,6 +648,7 @@ Hager
 - [Varun Sharma](https://github.com/varunsh20/)
 - [Mounish Nanu](https://github.com/mounish123)
 - [VortexEdge](https://github.com/VortexEdge69)
+- [TheRunnas](https://github.com/therunnas)
 - [Simons Arhin](https://github.com/simonskayi)
 - [StraitGhost](https://github.com/StraitGhost)
 - [isaacbelles](https://github.com/isaacbelles)
@@ -1275,3 +1276,4 @@ Hager
 - [Eldar Guseynov 🐦‍🔥](https://github.com/username-i386)
 - [Jahnavi-avi](https://github.com/jahnavi-9741)
 - [Jeyanth-S](https://github.com/Jeyanth-S)
+
