@@ -1285,4 +1285,5 @@ Hager
 - [Ishpriya Sharma](https://github.com/Ishpriya-Sharma)
 - [Idris](https://github.com/idreesjanib1)
 - [Vaishnvai gokhale](https://github.com/Vaishnavimgokhale)
-- Mariya Anjum 💫 First open source contribution!
+- [Mariya Anjum](https://github.com/MariyaAnjum937) 💫 First open source contribution!
+
