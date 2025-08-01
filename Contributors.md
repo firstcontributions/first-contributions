@@ -43,6 +43,7 @@
 - [Jerry](https://github.com/SniperRaccoon)
 - [richarddalves](https://github.com/richarddalves)
 - [Gabe Dorval](https://github.com/gabedorval589)
+- [Brendan Murphy](https://github.com/brendanM5216)
 - [Ukashatu Abdullahi](https://github.com/Ukashatu40)
 - [Sachin Kumar](https://github.com/Itsmesachin98)
 Ukashatu Abdullahi
