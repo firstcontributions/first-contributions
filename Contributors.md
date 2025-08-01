@@ -16,6 +16,7 @@
 - [ATUL-SHARMA](https://github.com/Atul-Clg-Id)
 - [Pinion](https://pinion.kr)
 - [jürgen vanzeir]
+- [Malak Ibrahim](https://github.com/mmibrahi)
 - [Edson Petry](https://github.com/edsonpetry)
 - [Rohan-Lalchandani](https://github.com/Rohan-Lalchandani08)
 - [Damian](https://google.com)
@@ -25,6 +26,7 @@
 - [All the World's a Stage](https://github.com/Oolazile)
 - [RunningEscaping](https://github.com/turhantolgaunal)
 - [hamadsedrati](https://github.com/hamadsedrati)
+- [Abhay Kumar](https://github.com/abhykmr)
 -[bzms](https://github.com/lizzalpha)
 - [njn](https://github.com/Njn03)
 - [Sachin](https://github.com/sachinkashi21)
@@ -74,6 +76,7 @@ Hager
 - [.kim](https//github.com/kim8584)
 - [Aiman](https://github.com/PX201)
 - [I-Bex](https://github.com/i-Bex)
+- [Dylan Wadsworth](https://github.com/DiskoTecha)
 - [levo](https://github.com/LeVo011)
 - [kazuma](https://github.com/Mio-3)
 - [Tournoy Noa](https://github.com/)
@@ -214,6 +217,7 @@ Hager
 - [AFRA A](https://github.com/Afrah4331)
 - [adrianescalona228](https://github.com/adrianescalona228)
 - [Drax-dr](https://github.com/Drax-dr/)
+-[pouriya](https://github.com/thepouriyahmn)
 - [Stephen Ng](https://github.com/snust)
 - [MayLeaf](https://github.com/may-leaf)
 - [foxdefalt](https://github.com/D-f4lt)
@@ -870,9 +874,7 @@ Hager
 - [Aman Dwivedi](https://github.com/amandwivedi45)
 - [Rohit Khatik](https://github.com/rohitkhatik09)
 - [Ashna Parveen](https://github.com/AshnaParveen)
-HEAD
-EricHe
--[ALOK YADAV]
+-[ALOK YADAV](https://github.com/CODEBRAKERBOYY)
 - [Dhruv Songara](https://github.com/Dhruvsongara)
 - [Abhinav Singh](https://github.com/Abhinav-kodes)
 - [devtechsector](https://github.com/devtechsector)
@@ -1199,6 +1201,7 @@ EricHe
 - [Keshav Raj Chaudhary](https://github.com/chaudharykeshavraj)
 - [Robert Szlufik](https://github.com/Robert-Szlufik-L00188394)
 - [Juan Carlos Alfonso Vina](https://github.com/call-me-trOmpY)
+- [Sudhir Jadhav](https://github.com/sudhirjadhav18)
 - [Kristoffer Paulsson](https://github.com/kristoffer-paulsson)
 - [Александр Мосин](https://github.com/mosinisom)
 - [André Herreira Oliveira](https://github.com/andrehherreira)
@@ -1248,6 +1251,7 @@ EricHe
 - [Nirupam Paul](https://github.com/101paul)
 - [VenkateshSama](https://github.com/S-Venky-06)
 - [Sangeeta](https://github.com/sangeeta-nayak)
+- [pleego1618](https://github.com/pleebs1618)
 - [Fortise]
 - [Wimbo] (https://github.com/wimbodwi26)
 - [Swaeba Bilal](https://github.com/Swaeba-Bilal)
@@ -1268,4 +1272,10 @@ EricHe
 - [_𝓟𝓸𝔀𝓮𝓻 𝓛𝓮𝓮_](https://github.dev/0xiPower)
 - [Poojan Jariwala](https://github.com/poojanjariwala)
 - [nyinyi zin](https://github.com/nyinyizin-dev)
->>>>>>> main
+- [James-826](https://github.com/James-826)
+- [SusalSandeepa](https://github.com/SusalSandeepa)
+- [Eldar Guseynov 🐦‍🔥](https://github.com/username-i386)
+- [Jahnavi-avi](https://github.com/jahnavi-9741)
+- [Jeyanth-S](https://github.com/Jeyanth-S)
+- [Idris](https://github.com/idreesjanib1)
+
