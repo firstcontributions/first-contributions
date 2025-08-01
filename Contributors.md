@@ -1,4 +1,5 @@
 # Contributors
+- [imsang27](https://github.com/imsang27)
 - [James Kim](https://github.com/jykim11)
 - [Jeevan H R](https://github.com/jeevanchiru17)
 -[nikolaikoenig] (https://github.com/nikolai-koenig)
@@ -16,6 +17,7 @@
 - [ATUL-SHARMA](https://github.com/Atul-Clg-Id)
 - [Pinion](https://pinion.kr)
 - [jürgen vanzeir]
+- [Malak Ibrahim](https://github.com/mmibrahi)
 - [Edson Petry](https://github.com/edsonpetry)
 - [Rohan-Lalchandani](https://github.com/Rohan-Lalchandani08)
 - [Damian](https://google.com)
@@ -1277,3 +1279,4 @@ Hager
 - [Jahnavi-avi](https://github.com/jahnavi-9741)
 - [Jeyanth-S](https://github.com/Jeyanth-S)
 
+- [Idris](https://github.com/idreesjanib1)
