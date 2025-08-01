@@ -74,6 +74,7 @@ Hager
 - [.kim](https//github.com/kim8584)
 - [Aiman](https://github.com/PX201)
 - [I-Bex](https://github.com/i-Bex)
+- [Dylan Wadsworth](https://github.com/DiskoTecha)
 - [levo](https://github.com/LeVo011)
 - [kazuma](https://github.com/Mio-3)
 - [Tournoy Noa](https://github.com/)
