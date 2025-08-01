@@ -1,4 +1,5 @@
 # Contributors
+- [imsang27](https://github.com/imsang27)
 - [James Kim](https://github.com/jykim11)
 - [Jeevan H R](https://github.com/jeevanchiru17)
 -[nikolaikoenig] (https://github.com/nikolai-koenig)
@@ -1216,6 +1217,7 @@ Hager
 - [Gabriel Vieira](https://www.linkedin.com/in/gabrielvieirasantos/)
 - [Mohammad Sarfaraz Afzal](https://github.com/mohammadsarfarazafzal)
 - [benoitmonchaninsupinfo](https://github.com/benoitmonchaninsupinfo)
+- [harsh pachouri](https://github.com/Harsh-Pachouri)
 - [NullifiedSec Aka. Mashrur Rahman](https://github.com/NullifiedSec)
 - [Nathaly Fairlie Pearson Freitas](https://github.com/NathalyFairlie)
 - [Priya Darshini Manda](https://github.com/mandaujjwalapriyadarshini)
@@ -1277,3 +1279,5 @@ Hager
 - [Jahnavi-avi](https://github.com/jahnavi-9741)
 - [Jeyanth-S](https://github.com/Jeyanth-S)
 - [Ishpriya Sharma](https://github.com/Ishpriya-Sharma)
+- [Idris](https://github.com/idreesjanib1)
+- [Vaishnvai gokhale](https://github.com/Vaishnavimgokhale)
