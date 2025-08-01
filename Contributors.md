@@ -1,6 +1,7 @@
 # Contributors
 - [Cyril Nishanth](https://github.com/CyrilNishanth)
 - [imsang27](https://github.com/imsang27)
+- [raghav](https://github.com/raghavvag)
 - [James Kim](https://github.com/jykim11)
 - [Jeevan H R](https://github.com/jeevanchiru17)
 -[nikolaikoenig] (https://github.com/nikolai-koenig)
@@ -24,6 +25,7 @@
 - [Rohan-Lalchandani](https://github.com/Rohan-Lalchandani08)
 - [Damian](https://google.com)
 - [Muskan Agarwal](https://github.com/MuskanAgarwal7)
+- [Vinay M S](https://github.com/VinaymsGowda)
 - [Chris Q](https://github.com/Q-X-F)
 - [Ashwath nakate](https://github.com/ashwathnakate)
 - [All the World's a Stage](https://github.com/Oolazile)
