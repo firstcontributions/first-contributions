@@ -1263,8 +1263,6 @@ Hager
 - [Hrishikesh](https://github.com/Hrishikesh-2712)
 - [noodlexe](https://github.com/noodlexe)
 - [Badr INOUSS](https://github.com/SharpBI)
-- [Rkuwahara](https://github.com/Rkuwahara)
-- [Crofean](https://github.com/crofean)
 - [Aaron Rafael Thamin](https://github.com/aaronraf)
 - [Ranjan 😎]
 - [Said Berk](https://github.com/saidberk27)
@@ -1276,4 +1274,5 @@ Hager
 - [Eldar Guseynov 🐦‍🔥](https://github.com/username-i386)
 - [Jahnavi-avi](https://github.com/jahnavi-9741)
 - [Jeyanth-S](https://github.com/Jeyanth-S)
-- [Idris](https://github.com/idreesjanib1)
+- [Idris](https://github.com/idreesjanib1_)
+-[Himanshu Ravindra Iwanati](https://github.com/hihry)
