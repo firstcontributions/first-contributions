@@ -1288,3 +1288,4 @@ Hager
 - [Idris](https://github.com/idreesjanib1)
 - [Vaishnvai gokhale](https://github.com/Vaishnavimgokhale)
 - Mariya Anjum 💫 First open source contribution!
+- [Favour Isioma Dumkwu](https://github.com/dumkwufavour)
