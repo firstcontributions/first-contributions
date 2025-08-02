@@ -1299,3 +1299,4 @@ Hager
 - Mariya Anjum 💫 First open source contribution!
 - [Favour Isioma Dumkwu](https://github.com/dumkwufavour)
 -Gaurav Sinha (https://github.com/g8987/first-contributions )
+Alok kumar singh (https://github.com/almostalok)
