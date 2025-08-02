@@ -1,5 +1,6 @@
 # Contributors
-- [Daniyal Subhani](https://github.com/https://github.com/daniyal-subhani)
+- [Viraj Sharma The greatest programmer in the world](https://github.com/virajsharma2000)
+- [Daniyal duddu Subhani](https://github.com/https://github.com/daniyal-subhani)
 - [square-story](https://github.com/square-story)
 - [darkiss7](https://github.com/darkiss7)
 - [FAI8h](https://github.com/FAI8h)
@@ -1299,4 +1300,7 @@ Hager
 - Mariya Anjum 💫 First open source contribution!
 - [Favour Isioma Dumkwu](https://github.com/dumkwufavour)
 -Gaurav Sinha (https://github.com/g8987/first-contributions )
-- Aditya Singh (https://github.com/Adityasingh552/first-contributions.git)
+
+- [Aditya Singh] (https://github.com/Adityasingh552/first-contributions)
+
+-Aviral Mittal(https://github.com/aviralmittal8)
