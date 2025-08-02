@@ -10,6 +10,7 @@
 - [jokalu-it](Grüße :D)
 - [Sakshi Patade](https://github.com/Sakshipatade)
 - [Refenal ellisa]
+- [Jared Krandel]
 - Gurukiran Reddy AKA AstaReddy
 - [FinalGrabacr](https://https://github.com/FinalGrabacr)
 - [whiteaxesing](https://https://github.com/whiteaxesing)
