@@ -1,4 +1,5 @@
 # Contributors
+- [Daniyal Subhani](https://github.com/https://github.com/daniyal-subhani)
 - [square-story](https://github.com/square-story)
 - [darkiss7](https://github.com/darkiss7)
 - [FAI8h](https://github.com/FAI8h)
