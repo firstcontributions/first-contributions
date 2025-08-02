@@ -50,6 +50,7 @@
 - [Brendan Murphy](https://github.com/brendanM5216)
 - [Ukashatu Abdullahi](https://github.com/Ukashatu40)
 - [Sachin Kumar](https://github.com/Itsmesachin98)
+- [Tejas Raj](https://https://github.com/DRAKKKkk)
 Ukashatu Abdullahi
 - [Josh](https://github.com/josh902)
 - [Aditya Mazumdar](https://github.com/aditya95-pixel)
