@@ -11,6 +11,7 @@
 - [Ritesh Murmu](https://github.com/Ritesh-cloud)
 - [jokalu-it](Grüße :D)
 - [Sakshi Patade](https://github.com/Sakshipatade)
+- [Sarthak Sharma](https://github.com/Srthk-Shrm)
 - [Refenal ellisa]
 - [Jared Krandel]
 - Gurukiran Reddy AKA AstaReddy
