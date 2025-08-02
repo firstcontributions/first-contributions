@@ -895,7 +895,7 @@ Hager
 - [Aman Dwivedi](https://github.com/amandwivedi45)
 - [Rohit Khatik](https://github.com/rohitkhatik09)
 - [Ashna Parveen](https://github.com/AshnaParveen)
--[ALOK YADAV](https://github.com/CODEBRAKERBOYY)
+- [ALOK YADAV](https://github.com/CODEBRAKERBOYY)
 - [Dhruv Songara](https://github.com/Dhruvsongara)
 - [Abhinav Singh](https://github.com/Abhinav-kodes)
 - [devtechsector](https://github.com/devtechsector)
@@ -1299,8 +1299,6 @@ Hager
 - [Eldar Guseynov 🐦‍🔥](https://github.com/username-i386)
 - [Jahnavi-avi](https://github.com/jahnavi-9741)
 - [Jeyanth-S](https://github.com/Jeyanth-S)
- feature/my-first-contribution
-- [Idris](https://github.com/idreesjanib1)
 - [Ishpriya Sharma](https://github.com/Ishpriya-Sharma)
 - [Idris](https://github.com/idreesjanib1)
 - [Vaishnvai gokhale](https://github.com/Vaishnavimgokhale)
@@ -1308,4 +1306,3 @@ Hager
 - [Favour Isioma Dumkwu](https://github.com/dumkwufavour)
 -Gaurav Sinha (https://github.com/g8987/first-contributions )
 -Aviral Mittal(https://github.com/aviralmittal8)
-main
