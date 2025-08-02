@@ -6,6 +6,7 @@
 - [FAI8h](https://github.com/FAI8h)
 - [Cyril Nishanth](https://github.com/CyrilNishanth)
 - [imsang27](https://github.com/imsang27)
+- [ismail2ov](https://github.com/ismail2ov)
 - [raghav](https://github.com/raghavvag)
 - [James Kim](https://github.com/jykim11)
 - [Jeevan H R](https://github.com/jeevanchiru17)
