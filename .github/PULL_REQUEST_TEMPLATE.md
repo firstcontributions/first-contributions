@@ -9,4 +9,4 @@ If you're doing something in the checklist below, put an `x` inside `[ ]` so tha
 Some things that should be improved are as follows:
 There should be more info about the structure of this repositories and all the folders so that we know what is what and why the folders are nested as they are.
 - [x] There were steps where I had errors while following this tutorial. I have written them below.
-An error I had is understanding the folder structure of this repository and also the git switch not being avaiable on older versions of git (btu this has been addressed by the dropdown explanation)
+An error I had is understanding the folder structure of this repository and also the git switch not being avaiable on older versions of git (but this has been addressed by the dropdown explanation)
