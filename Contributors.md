@@ -1289,8 +1289,6 @@ Hager
 - [Hrishikesh](https://github.com/Hrishikesh-2712)
 - [noodlexe](https://github.com/noodlexe)
 - [Badr INOUSS](https://github.com/SharpBI)
-- [Rkuwahara](https://github.com/Rkuwahara)
-- [Crofean](https://github.com/crofean)
 - [Aaron Rafael Thamin](https://github.com/aaronraf)
 - [Sunil Reddy](https://github.com/Sunilreddyj)
 - [Ranjan 😎]
