@@ -1,4 +1,5 @@
 # Contributors
+- [square-story](https://github.com/square-story)
 - [darkiss7](https://github.com/darkiss7)
 - [Cyril Nishanth](https://github.com/CyrilNishanth)
 - [imsang27](https://github.com/imsang27)
