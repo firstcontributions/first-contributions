@@ -30,6 +30,7 @@
 - [Manan_Kapoor](https://github.com/manankapoor23)
 - [whiteaxesing](https://https://github.com/whiteaxesing)
 - [Hemant-Dua](https://github.com/Hemant-Dua)
+- [Krishna Sharma](https://github.com/KrishnaSharma206)
 - [Audrey W ](https://github.com/awhitneymiller)
 - [Hafiz Muhammad Talal](https://github.com/talalhafizmuhammad)
 - [Shamir Ali](https://github.com/ShamirAli55)
