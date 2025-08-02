@@ -19,6 +19,7 @@
 - [Jared Krandel]
 - Gurukiran Reddy AKA AstaReddy
 - [FinalGrabacr](https://https://github.com/FinalGrabacr)
+- [Manan_Kapoor](https://github.com/manankapoor23)
 - [whiteaxesing](https://https://github.com/whiteaxesing)
 - [Hemant-Dua](https://github.com/Hemant-Dua)
 - [Audrey W ](https://github.com/awhitneymiller)
