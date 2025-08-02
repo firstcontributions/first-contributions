@@ -8,6 +8,7 @@
 - [imsang27](https://github.com/imsang27)
 - [raghav](https://github.com/raghavvag)
 - [James Kim](https://github.com/jykim11)
+-[Parthav Nair](https://github.com/Parthav-Nair)
 - [Jeevan H R](https://github.com/jeevanchiru17)
 -[nikolaikoenig] (https://github.com/nikolai-koenig)
 - [Harry-GNS](https://github.com/Harry-GNS)
@@ -97,6 +98,7 @@ Hager
 - [Dylan Wadsworth](https://github.com/DiskoTecha)
 - [levo](https://github.com/LeVo011)
 - [kazuma](https://github.com/Mio-3)
+
 - [Tournoy Noa](https://github.com/)
 -[MohamedSayed](https://github.com/mohammedsayed30)
 -[Fyobei] (https://github.com/Waku-a11y)
