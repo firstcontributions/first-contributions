@@ -15,6 +15,7 @@
 - [jokalu-it](Grüße :D)
 - [Sakshi Patade](https://github.com/Sakshipatade)
 - [Sarthak Sharma](https://github.com/Srthk-Shrm)
+- [Medrine Mulindi](https://github.com/Mulindi123)
 - [Refenal ellisa]
 - [Jared Krandel]
 - Gurukiran Reddy AKA AstaReddy
