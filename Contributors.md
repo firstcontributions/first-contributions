@@ -33,6 +33,7 @@
 - [Rohan-Lalchandani](https://github.com/Rohan-Lalchandani08)
 - [Damian](https://google.com)
 - [Muskan Agarwal](https://github.com/MuskanAgarwal7)
+- [David Stark](https://github.com/GamingPions)
 - [Vinay M S](https://github.com/VinaymsGowda)
 - [Chris Q](https://github.com/Q-X-F)
 - [Ashwath nakate](https://github.com/ashwathnakate)
