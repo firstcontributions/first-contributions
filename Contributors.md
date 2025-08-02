@@ -4,6 +4,7 @@
 - [square-story](https://github.com/square-story)
 - [darkiss7](https://github.com/darkiss7)
 - [FAI8h](https://github.com/FAI8h)
+- [Krrish](https://github.com/venom827).
 - [Cyril Nishanth](https://github.com/CyrilNishanth)
 - [imsang27](https://github.com/imsang27)
 - [ismail2ov](https://github.com/ismail2ov)
