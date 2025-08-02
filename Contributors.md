@@ -11,9 +11,9 @@
 - [ismail2ov](https://github.com/ismail2ov)
 - [raghav](https://github.com/raghavvag)
 - [James Kim](https://github.com/jykim11)
--[Parthav Nair](https://github.com/Parthav-Nair)
+- [Parthav Nair](https://github.com/Parthav-Nair)
 - [Jeevan H R](https://github.com/jeevanchiru17)
--[nikolaikoenig] (https://github.com/nikolai-koenig)
+- [nikolaikoenig] (https://github.com/nikolai-koenig)
 - [Harry-GNS](https://github.com/Harry-GNS)
 - [Dimitri Voncleph](https://github.com/D-Voncleph)
 - [Ritesh Murmu](https://github.com/Ritesh-cloud)
@@ -48,7 +48,7 @@
 - [hamadsedrati](https://github.com/hamadsedrati)
 - [Abhay Kumar](https://github.com/abhykmr)
 - [Cole Fleming] (https://github.com/Cole-Fleming)
--[bzms](https://github.com/lizzalpha)
+- [bzms](https://github.com/lizzalpha)
 - [njn](https://github.com/Njn03)
 - [Sachin](https://github.com/sachinkashi21)
 - [aoe3](https://github.com/aoe3)
@@ -63,7 +63,7 @@
 - [Ukashatu Abdullahi](https://github.com/Ukashatu40)
 - [Sachin Kumar](https://github.com/Itsmesachin98)
 - [Tejas Raj](https://https://github.com/DRAKKKkk)
-Ukashatu Abdullahi
+   Ukashatu Abdullahi
 - [Josh](https://github.com/josh902)
 - [Aditya Mazumdar](https://github.com/aditya95-pixel)
 - [Shashank Shekhar](https://github.com/Shekhar0109)
@@ -77,7 +77,7 @@ Ukashatu Abdullahi
 - [JWD](https://github.com/JWD-101)
 - [sls-1](https://github.com/sls-1)
 - [yugo](https://github.com/yugook)
-Hager
+  Hager
 - [Pedada Tirumala Devi](https://github.com/pedadatirumaladevi21)
 - [Prince Yadav](https://github.com/princeyadav0136)
 - [Alan](https://github.com/yhc000)
@@ -263,6 +263,7 @@ Hager
 - [amoorali](https://github.com/amoorali)
 - [dev-knb](https://github.com/kimnambin)
 - [Disha520](https://github.com/Disha520)
+- [kritCP]()
 - [Daniel Guo](https://github.com/DiiGii)
 - [Ahmad-HB](https://github.com/Ahmad-HB)
 - [Bob Mumrmu](https://github.com/bobo-m)
