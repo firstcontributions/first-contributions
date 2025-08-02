@@ -1296,6 +1296,7 @@ Hager
 - [noodlexe](https://github.com/noodlexe)
 - [Badr INOUSS](https://github.com/SharpBI)
 - [Aaron Rafael Thamin](https://github.com/aaronraf)
+- [Milan J](https://github.com/Milanjiji)
 - [Sunil Reddy](https://github.com/Sunilreddyj)
 - [Ranjan 😎]
 - [Said Berk](https://github.com/saidberk27)
