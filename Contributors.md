@@ -96,6 +96,7 @@ Hager
 - [Seul](https://github.com/seulahn)
 - [KG](https://github.com/kgoel9899)
 - [lzc](https://github.com/lzcooker)
+- [Parth](https://github.com/partth-code)
 - [P M Rajeshwari]()
 - [AMG-AA](https://github.com/AMG-AA)
 - [Kmogun](https://github.com/kmogun)
