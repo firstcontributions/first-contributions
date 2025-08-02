@@ -1298,4 +1298,5 @@ Hager
 - [Vaishnvai gokhale](https://github.com/Vaishnavimgokhale)
 - Mariya Anjum 💫 First open source contribution!
 - [Favour Isioma Dumkwu](https://github.com/dumkwufavour)
--Gaurav Sinha (https://github.com/g8987/first-contributions )
+- Gaurav Sinha (https://github.com/g8987/first-contributions )
+- [Sharique Hussain]  (https://github.com/IronxDevil), "you are not the only one cursed with knowledge"
