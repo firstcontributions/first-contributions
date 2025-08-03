@@ -1331,3 +1331,4 @@ Hager
 - [Shubham Kalashetty](https://github.com/shubh-07-lk)
 -MAHEK GUPTA!!!!!
 - Mubarak
+- [Isaac F](https://github.com/YellowFlello)
