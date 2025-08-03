@@ -1,5 +1,6 @@
 # Contributors
 - [leoweo1](https://github.com/leoweo1)
+- [Dhanjit Nath](https://github.com/developerDhanjit)
 - donman420🍃
 - Mrunali
 - [Viraj Sharma The greatest programmer in the world](https://github.com/virajsharma2000)
