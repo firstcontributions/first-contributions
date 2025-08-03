@@ -90,6 +90,7 @@ Ukashatu Abdullahi
 - [nnn](https://github.com/nnn)
 - [ArrMat](https://github.com/ArrMat)
 - [Chaimae](https://github.com/GRICHChaimae)
+- [Dwaine](https://github.com/DwaineBrannon)
 - [zzb](https://github.com/zbrun)
 - [tr33k](https://github.com/tr33k)
 - [febDylan](https://github.com/feb-dylan)
