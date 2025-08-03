@@ -813,6 +813,7 @@ Hager
 - [Miguel Mateo](https://github.com/Mike-2002-mx)
 - [Sahil Gulunjkar](https://github.com/Sahil4757)
 - [AdityaRaj212](https://github.com/AdityaRaj212)
+- [JohnZhouCoder](https://github.com/JohnZhouCoder)
 - [Jonah Raiford](https://github.com/JonahXiaFei)
 - [Ajay Dongare](https://github.com/GluconicAcid)
 - [Mohammed Ismail](https://github.com/mdaleardc)
