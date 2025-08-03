@@ -13,6 +13,7 @@
 - [imsang27](https://github.com/imsang27)
 - [ismail2ov](https://github.com/ismail2ov)
 - [WobL256](https://github.com/WobL256)
+- [S1ngularty](https://github.com/S1ngularty)
 - [codemikemike](https://github.com/codemikemike)
 - [raghav](https://github.com/raghavvag)
 - [James Kim](https://github.com/jykim11)
@@ -26,6 +27,7 @@
 - [Ritesh Murmu](https://github.com/Ritesh-cloud)
 - [jokalu-it](Grüße :D)
 - [Sakshi Patade](https://github.com/Sakshipatade)
+- [Krishna Manohar Reddy]
 - [Sarthak Sharma](https://github.com/Srthk-Shrm)
 - [Medrine Mulindi](https://github.com/Mulindi123)
 - [Refenal ellisa]
@@ -815,6 +817,7 @@
 - [Miguel Mateo](https://github.com/Mike-2002-mx)
 - [Sahil Gulunjkar](https://github.com/Sahil4757)
 - [AdityaRaj212](https://github.com/AdityaRaj212)
+- [JohnZhouCoder](https://github.com/JohnZhouCoder)
 - [Jonah Raiford](https://github.com/JonahXiaFei)
 - [Ajay Dongare](https://github.com/GluconicAcid)
 - [Mohammed Ismail](https://github.com/mdaleardc)
@@ -1336,3 +1339,7 @@
 - Mubarak
 - [Isaac F](https://github.com/YellowFlello)
 -[Bandaru Vighneshwar Rao](https://github.com/)
+- [yzh](https://github.com/yang-zihua)
+-[kes-H-av](https://github.com/kes-H-av)
+-[openabir] (https://github.com/openabir)
+-[Paras Jagdale](https://github.com/parasjagdale)
