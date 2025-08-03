@@ -1128,6 +1128,7 @@ Hager
 - [cloud-whisperer](https://github.com/cloud-whisperer)
 - [Aarush-Parashar](https://github.com/Aarush-Parashar)
 - [Mohammad Nikvarz](https://github.com/Mohammad79-nkv)
+- [ziadalazwak](https://github.com/ziadalazwak)
 - [Charulekha P](https://github.com/charulekha-pandian)
 - [RomaniukNatalia](https://github.com/RomaniukNatalia)
 - [Wendell Oliveira](https://github.com/wendelloliiver)
