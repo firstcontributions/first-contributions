@@ -17,7 +17,7 @@
 - [codemikemike](https://github.com/codemikemike)
 - [raghav](https://github.com/raghavvag)
 - [James Kim](https://github.com/jykim11)
--[Parthav Nair](https://github.com/Parthav-Nair)
+- [Parthav Nair](https://github.com/Parthav-Nair)
 - [Jeevan H R](https://github.com/jeevanchiru17)
 -[nikolaikoenig] (https://github.com/nikolai-koenig)
 -[farukh patel](https://github.com/Farukh-patel)
