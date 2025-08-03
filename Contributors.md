@@ -691,6 +691,7 @@ Hager
 - [isaacbelles](https://github.com/isaacbelles)
 - [brunoblaise](https://github.com/brunoblaise)
 - [Derek Hall](https://github.com/derekhall483)
+- [Júlio Henrique](https://github.com/juliohgarcia/)
 - [Neethu Hari](https://github.com/Neethuharii)
 - [Alwin Sajan](https://github.com/Alwin-Sajan)
 - [Antonio Fábio](https://github.com/zodiecko)
