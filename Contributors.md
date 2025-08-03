@@ -13,6 +13,7 @@
 - [imsang27](https://github.com/imsang27)
 - [ismail2ov](https://github.com/ismail2ov)
 - [WobL256](https://github.com/WobL256)
+- [S1ngularty](https://github.com/S1ngularty)
 - [codemikemike](https://github.com/codemikemike)
 - [raghav](https://github.com/raghavvag)
 - [James Kim](https://github.com/jykim11)
