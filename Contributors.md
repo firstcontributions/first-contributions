@@ -92,6 +92,7 @@ Ukashatu Abdullahi
 - [yugo](https://github.com/yugook)
 Hager
 - [Pedada Tirumala Devi](https://github.com/pedadatirumaladevi21)
+- [Deepanshu Batra](https://github.com/deepanshu979)
 - [Prince Yadav](https://github.com/princeyadav0136)
 - [Alan](https://github.com/yhc000)
 - [tuysh](https://github.com/Tuysh)
