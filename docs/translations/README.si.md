@@ -22,7 +22,7 @@
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="මෙම ගබඩාව clone කරන්න" />
 
-දැන් ඔබේ පරිගණකට fork කරපු repository ය ක්ලෝන කරන්න. ඔබට ඔබගේ GitHub ගිණුමට ගොස් fork කරපු repository විවෘත කර clone බොත්තම ක්ලික් කර එය පසුරු පුවරුවට (clipboard) පිටපත් කිරීමෙන් මෙය කළ හැක.
+දැන් ඔබේ පරිගණකට fork කරපු repository ය ක්ලෝන කරන්න. ඔබට ඔබගේ GitHub ගිණුමට ගොස් fork කරපු repository විවෘත කර code බොත්තම ක්ලික් කර,පසුව SSH ටැබය මත ක්ලික් කිරීමෙන් ලැබෙන url එක පසුරු පුවරුවට (clipboard) පිටපත් කිරීමෙන් මෙය කළ හැක.
 
 *terminal* හෝ *command prompt* විවෘත කර පහත git විධානය ක්‍රියාත්මක කරන්න:
 
