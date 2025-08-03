@@ -1327,5 +1327,6 @@ Hager
 -Gaurav Sinha (https://github.com/g8987/first-contributions )
 -Aviral Mittal(https://github.com/aviralmittal8)
 -Aachal Yadav(https://github.com/aachalyadav)
+- [Shubham Kalashetty](https://github.com/shubh-07-lk)
 -MAHEK GUPTA!!!!!
 - Mubarak
