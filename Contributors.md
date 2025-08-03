@@ -122,6 +122,7 @@ Hager
 - [I-Bex](https://github.com/i-Bex)
 - [Dylan Wadsworth](https://github.com/DiskoTecha)
 - [levo](https://github.com/LeVo011)
+- [Mr0Miner](https://github.com/Mr0Miner)
 - [kazuma](https://github.com/Mio-3)
 
 - [Tournoy Noa](https://github.com/)
