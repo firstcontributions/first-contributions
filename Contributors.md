@@ -1331,5 +1331,10 @@
 - [Shubham Kalashetty](https://github.com/shubh-07-lk)
   -MAHEK GUPTA!!!!!
 - Mubarak
-- [Isaac F](https://github.com/YellowFlello) -[Bandaru Vighneshwar Rao](https://github.com/)
-- [yzh](https://github.com/yang-zihua) -[kes-H-av](https://github.com/kes-H-av) -[openabir] (https://github.com/openabir) -[Paras Jagdale](https://github.com/parasjagdale)
+- [Isaac F](https://github.com/YellowFlello)
+- [Bandaru Vighneshwar Rao](https://github.com/)
+- [yzh](https://github.com/yang-zihua)
+- [kes-H-av](https://github.com/kes-H-av)
+- [openabir] (https://github.com/openabir)
+- [Paras Jagdale](https://github.com/parasjagdale)
+- [Ashmit Kumar](https://github.com/Ashmit-Kumar)
