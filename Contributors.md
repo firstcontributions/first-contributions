@@ -997,6 +997,7 @@ Hager
 - [Bosco Tsin 2](https://github.com/boscomanilow128)
 - [Kristin Dailey](https://github.com/kristindailey)
 - [Z-to-the-hp69](https://github.com/Z-to-the-hp69/)
+- [Hiruna Panditha](https://github.com/Hiruna-SP)
 - [Linda Jennings](https://github.com/lindaJennings)
 - [Jan Topolewski](https://github.com/JanTopolewski)
 - [Mohit-Goswami](https://github.com/Mohitgoswami18)
