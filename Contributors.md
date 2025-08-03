@@ -40,6 +40,7 @@
 - [ATUL-SHARMA](https://github.com/Atul-Clg-Id)
 - [Pinion](https://pinion.kr)
 - [jürgen vanzeir]
+- [Atharva Pandkar](https://github.com/Atharva-Pandkar)
 - [Malak Ibrahim](https://github.com/mmibrahi)
 - [Edson Petry](https://github.com/edsonpetry)
 - [Rohan-Lalchandani](https://github.com/Rohan-Lalchandani08)
