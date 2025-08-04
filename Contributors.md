@@ -401,6 +401,7 @@ Hager
 - [Smit Joshi](https://github.com/smit-1z)
 - [Phillip](gttps://github.com/PhillipSom)
 - [Vinay Joshi](https://github.com/Anigrl)
+- [nisarg404](https://github.com/nisarg404)
 - [Sneha Jain](https://github.com/sj11105)
 - [Harsh Verma](https://github.com/hv0911)
 - [Joaquin D](https://github.com/Joaco273)
