@@ -1315,6 +1315,7 @@ Hager
 - [pleego1618](https://github.com/pleebs1618)
 - [Fortise]
 - [Wimbo] (https://github.com/wimbodwi26)
+- [Amogh] (https://github.com/Amogh-Banerjee/)
 - [Swaeba Bilal](https://github.com/Swaeba-Bilal)
 - I am MJV(jagan venkat)
 - [Heena](https://github.com/heenaf)
@@ -1364,3 +1365,4 @@ Hager
 - Aditya Borhade
 - [Samarth Galhe](https://github.com/samarthgalhe89)
 - [Code-Explore-Dev](https://github.com/Code-Explorer-Dev)
+- [Anis Mandal](https://github.com/AgentPhoenix7)
