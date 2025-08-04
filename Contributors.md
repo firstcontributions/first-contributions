@@ -68,7 +68,9 @@
 - [RunningEscaping](https://github.com/turhantolgaunal)
 - [hamadsedrati](https://github.com/hamadsedrati)
 - [Abhay Kumar](https://github.com/abhykmr)
-- [Cole Fleming] (https://github.com/Cole-Fleming) -[bzms](https://github.com/lizzalpha)
+- [UncleObinna](https://github.com/UncleObinna)
+- [Cole Fleming] (https://github.com/Cole-Fleming)
+- [bzms](https://github.com/lizzalpha)
 - [njn](https://github.com/Njn03)
 - [Sachin](https://github.com/sachinkashi21)
 - [aoe3](https://github.com/aoe3)
@@ -1352,10 +1354,17 @@
   -MAHEK GUPTA!!!!!
 - Martin
 - Mubarak
-- [Isaac F](https://github.com/YellowFlello) -[Bandaru Vighneshwar Rao](https://github.com/)
-- [yzh](https://github.com/yang-zihua) -[kes-H-av](https://github.com/kes-H-av) -[openabir] (https://github.com/openabir) -[Paras Jagdale](https://github.com/parasjagdale) -[Ashmit Kumar](https://github.com/Ashmit-Kumar) -[Khushbu Saifi](https://github.com/Khushbusaifi012)
+- [Isaac F](https://github.com/YellowFlello) 
+- [Bandaru Vighneshwar Rao](https://github.com/)
+- [yzh](https://github.com/yang-zihua) 
+- [kes-H-av](https://github.com/kes-H-av) 
+- [openabir] (https://github.com/openabir) 
+- [Paras Jagdale](https://github.com/parasjagdale) 
+- [Ashmit Kumar](https://github.com/Ashmit-Kumar) 
+- [Khushbu Saifi](https://github.com/Khushbusaifi012)
 - Aditya Borhade
 - [Samarth Galhe](https://github.com/samarthgalhe89)
 - [Code-Explore-Dev](https://github.com/Code-Explorer-Dev)
 - [Himanshu Gohil](https://github.com/tghimanshu)
 - [Anis Mandal](https://github.com/AgentPhoenix7)
+- [Alok Srivastava](https://github.com/alok-srivastava)
