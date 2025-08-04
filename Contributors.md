@@ -1383,3 +1383,4 @@ Hager
 - [Anis Mandal](https://github.com/AgentPhoenix7)
 - E
 - [Alok Srivastava](https://github.com/alok-srivastava)
+- [Siddhant Gadekar](https://github.com/Siddhantdotddev)
