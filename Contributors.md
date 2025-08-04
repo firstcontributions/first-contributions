@@ -1389,4 +1389,4 @@ Hager
 - [Ruchira Chaubey](https://github.com/ruchirachaubey)
 <!-- minor change to trigger PR -->
 - [Siddhant Gadekar](https://github.com/Siddhantdotddev)
-
+- [Chikezie Onuoha](https://github.com/Chixide1)
