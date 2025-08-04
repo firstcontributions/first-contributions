@@ -88,6 +88,7 @@
 <kbd>[<img title="Morocco" alt="Moroccan Darija" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ma.svg" width="22">](docs/translations/README.ma.md)</kbd>
 
 # First Contributions
+# Shyam Pandey #
 
 This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 
