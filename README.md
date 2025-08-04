@@ -96,6 +96,16 @@ _If you're not comfortable with command line, [here are tutorials using GUI tool
 
 #### If you don't have git on your machine, [install it](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
+## Viewing in Dark Mode
+
+If you prefer to read these instructions in dark mode, you can enable GitHub's built-in dark theme:
+
+1. Click your profile picture in the top-right corner of GitHub.
+2. Select **Appearance**.
+3. Choose **Dark** or **Dark dimmed**.
+
+This will make all GitHub content, including this documentation, appear in dark mode.
+
 ## Fork this repository
 
 Fork this repository by clicking on the fork button on the top of this page.
