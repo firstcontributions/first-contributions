@@ -45,6 +45,7 @@ Shruti Tiwari
 - [Sakshi Patade](https://github.com/Sakshipatade)
 - [Krishna Manohar Reddy]
 - [Sarthak Sharma](https://github.com/Srthk-Shrm)
+  [Chandana shetty]
 - [Medrine Mulindi](https://github.com/Mulindi123)
 - [Refenal ellisa]
 - [Jared Krandel]
