@@ -398,7 +398,7 @@ Hager
 - [White](https://github.com/Baibajiujing)
 - [Kassahun F](https://github.com/Kas1398)
 - [Inshal 0x03a](https://github.com/0x03a)
-- [Saad Momin](https://github.com/sdmoman)
+- [Saad Momin](https://github.m/sdmoman)
 - [Vipul Pandey](https://github.com/19vip)
 - [ Anand S](https://github.com/anand1946s)
 - [Janardhan Polle](https://github.com/Jce)
@@ -1283,7 +1283,7 @@ Hager
 - [benoitmonchaninsupinfo](https://github.com/benoitmonchaninsupinfo)
 - [harsh pachouri](https://github.com/Harsh-Pachouri)
 - [NullifiedSec Aka. Mashrur Rahman](https://github.com/NullifiedSec)
-- [Nathaly Fairlie Pearson Freitas](https://github.com/NathalyFairlie)
+- [Nathaly Fairlie Pearson Freitas](https://github.m/NathalyFairlie)
 - [Priya Darshini Manda](https://github.com/mandaujjwalapriyadarshini)
 - [Antonio Thoamaz Oliveira Reis](https://github.com/antonioThomaz1903)
 - [YahiaAbdeldjalilBenyahia](https://github.com/YahiaAbdeldjalilBenyahia)
@@ -1374,3 +1374,5 @@ Hager
 - [Anis Mandal](https://github.com/AgentPhoenix7)
 - E
 - [Alok Srivastava](https://github.com/alok-srivastava)
+- [Invalid Link](invalid-url)
+- This is a malformed line
