@@ -740,6 +740,7 @@ Hager
 - [jackojacko](https://github.com/jackojacko05)
 - [Diparna Adhikary](https://github.com/Diparna)
 - [Nicolas Alves](https://github.com/NickeAlves)
+- [Max](https://github.com/mkosenina)
 - [Cedrick](https://github.com/Cedrick-Deguzman)
 - [Aritra Mukherjee](https://github.com/maritra)
 - [Mercy-Mbao ✨](https://github.com/mercie-ux)
