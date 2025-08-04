@@ -1042,7 +1042,7 @@ Hager
 - [Chandra Mouli](https://github.com/Chandramouliva)
 - [Hasindu Thirasara](https://github.com/Hasindu071)
 - [Swetha Kannan](https://github.com/swethakannan12)
-- [Juan Sarmiento](https://github.com/JuanEnriqueSF)
+- [Juan Sarmiengo](https://github.com/JuanEnriqueSF)
 - [Kannan Ravindran](https://github.com/kannan-ravi)
 - [Aakash Pandey](https://github.com/gitaakashstack)
 - [Thales Winther](https://github.com/thaleswinther)
