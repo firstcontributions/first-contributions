@@ -1,4 +1,5 @@
 # Contributors
+- [Satrap18](https://github.com/Satrap18)
 - [leoweo1](https://github.com/leoweo1)
 - [Oyeyemi Obaloluwa](https://github.com/sudo-init-do)
 - [Dhanjit Nath](https://github.com/developerDhanjit)
