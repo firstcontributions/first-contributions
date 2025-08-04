@@ -1,3 +1,5 @@
+[AYUSH BAVALEKAR](https://github.com/ayush-bavalekar) 
+- Hi! this is my first open source contribution Thank you !(04 august 2025)
 - Abdugofurov Behruzbek
 []# Contributors
 - [Daniel](https://github.com/danielrasheedi) - Hi! (24 July 2025)
