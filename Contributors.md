@@ -23,12 +23,15 @@
 - [WobL256](https://github.com/WobL256)
 - [S1ngularty](https://github.com/S1ngularty)
 - [Sai Oan Hseng Hurk](https://github.com/Senghurk)
-  Shruti Tiwari
+- Shruti Tiwari
 - Abdullah Zulfiqar(https://github.com/AbdullahZulfiqar2005)
 - [codemikemike](https://github.com/codemikemike)
 - [raghav](https://github.com/raghavvag)
-- [James Kim](https://github.com/jykim11) -[Parthav Nair](https://github.com/Parthav-Nair)
-- [Jeevan H R](https://github.com/jeevanchiru17) -[nikolaikoenig] (https://github.com/nikolai-koenig) -[farukh patel](https://github.com/Farukh-patel)
+- [James Kim](https://github.com/jykim11)
+- [Parthav Nair](https://github.com/Parthav-Nair)
+- [Jeevan H R](https://github.com/jeevanchiru17)
+- [nikolaikoenig] (https://github.com/nikolai-koenig)
+- [farukh patel](https://github.com/Farukh-patel)
 - [Harry-GNS](https://github.com/Harry-GNS)
 - [Dimitri Voncleph](https://github.com/D-Voncleph)
 - [Ritesh Murmu](https://github.com/Ritesh-cloud)
