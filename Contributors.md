@@ -1214,6 +1214,7 @@ Hager
 - [Erick Wilfred Daniel](https://github.com/ErickWDaniel)
 - [Luís Oliveira](https://github.com/LuisCarlosOliveira)
 - [Seif Eddine Gadi](https://github.com/Seif-Eddine-Gadi)
+- [ahmed Shawky](https://github.com/AhmedShawky1507)
 - [bear-i](https://github.com/bear-i/first-contributions)
 - [Lachlan Robinson](https://github.com/lachlan-robinson)
 - [Anthony Okechukwu Ubah](https://github.com/okeysbytes)
