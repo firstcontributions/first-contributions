@@ -7,6 +7,7 @@
 - Bhoomish
 - [Bharathkumar](https://github.com/bharathkumar-creator)
 - [ajs](https://github.com/aboodJS)
+- [Min Ko Oo](https://github.com/mrminko)
 - [Piyush Singh Thakur](https://github.com/piyushht2003)
 - [Bichu Devnarayan](https://github.com/Bichu0077)
 - [Viraj Sharma The greatest programmer in the world](https://github.com/virajsharma2000)
