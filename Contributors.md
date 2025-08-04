@@ -6,6 +6,7 @@
 - [Dhanjit Nath](https://github.com/developerDhanjit)
 - donman420🍃
 - Mrunali
+- [JacobLeeDavis](https://github.com/jacobleedavis)
 - Bhoomish
 - [Bharathkumar](https://github.com/bharathkumar-creator)
 - [ajs](https://github.com/aboodJS)
