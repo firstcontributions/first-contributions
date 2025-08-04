@@ -276,6 +276,7 @@ Hager
 - [dev-sik](https://github.com/YouD0313)
 - [AFRA A](https://github.com/Afrah4331)
 - [adrianescalona228](https://github.com/adrianescalona228)
+- [amelia](https://github.com/amy-jd)
 - [Drax-dr](https://github.com/Drax-dr/)
 -[pouriya](https://github.com/thepouriyahmn)
 - [Stephen Ng](https://github.com/snust)
