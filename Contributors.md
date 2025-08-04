@@ -1,5 +1,5 @@
 # Contributors
--[ghaith khalfallah](https://github.com/Ghaithkhal27)
+- [ghaith](https://github.com/Ghaithkhal27)
 - [leoweo1](https://github.com/leoweo1)
 - [Oyeyemi Obaloluwa](https://github.com/sudo-init-do)
 - [Dhanjit Nath](https://github.com/developerDhanjit)
