@@ -35,6 +35,7 @@ Shruti Tiwari
 - [Dimitri Voncleph](https://github.com/D-Voncleph)
 - [Ritesh Murmu](https://github.com/Ritesh-cloud)
 - [Vinh D Tran](https://github.com/s3500659)
+- [Tejasvi Ravikumar](https://github.com/tejasviravikumar)
 - [jokalu-it](Grüße :D)
 - [Sakshi Patade](https://github.com/Sakshipatade)
 - [Krishna Manohar Reddy]
