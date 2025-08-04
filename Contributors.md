@@ -32,6 +32,7 @@ Shruti Tiwari
 - [Harry-GNS](https://github.com/Harry-GNS)
 - [Dimitri Voncleph](https://github.com/D-Voncleph)
 - [Ritesh Murmu](https://github.com/Ritesh-cloud)
+- [Vinh D Tran](https://github.com/s3500659)
 - [jokalu-it](Grüße :D)
 - [Sakshi Patade](https://github.com/Sakshipatade)
 - [Krishna Manohar Reddy]
@@ -39,6 +40,7 @@ Shruti Tiwari
 - [Medrine Mulindi](https://github.com/Mulindi123)
 - [Refenal ellisa]
 - [Jared Krandel]
+- [Rohin Garg](https://github.com/rohingarg12)
 - Gurukiran Reddy AKA AstaReddy
 - [FinalGrabacr](https://https://github.com/FinalGrabacr)
 - [Manan_Kapoor](https://github.com/manankapoor23)
@@ -693,6 +695,7 @@ Hager
 - [Aditya Singh](https://github.com/devxaditya)
 - [veekshitha](https://github.com/Veekshitha21)
 - [TejasK](https://github.com/TejasKoravanavar)
+- [Runnas](https://github.com/therunnas)
 - [ahmad777x86](https://github.com/ahmad777x86)
 - [Nicholas C.](https://github.com/ncolvin-dev)
 - [SaboorNisha](https://github.com/SaboorNisha)
@@ -1367,4 +1370,5 @@ Hager
 - [Samarth Galhe](https://github.com/samarthgalhe89)
 - [Code-Explore-Dev](https://github.com/Code-Explorer-Dev)
 - [Anis Mandal](https://github.com/AgentPhoenix7)
-Oleg
+- Oleg
+- E
