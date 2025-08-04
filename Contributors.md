@@ -1,9 +1,11 @@
 # Contributors
 
 - [leoweo1](https://github.com/leoweo1)
+- [Oyeyemi Obaloluwa](https://github.com/sudo-init-do)
 - [Dhanjit Nath](https://github.com/developerDhanjit)
 - donman420🍃
 - Mrunali
+- Bhoomish
 - [ajs](https://github.com/aboodJS)
 - [Piyush Singh Thakur](https://github.com/piyushht2003)
 - [Bichu Devnarayan](https://github.com/Bichu0077)
@@ -17,6 +19,7 @@
 - [Cyril Nishanth](https://github.com/CyrilNishanth)
 - [imsang27](https://github.com/imsang27)
 - [ismail2ov](https://github.com/ismail2ov)
+- [forrest](https://github.com/frrst-ian)
 - [WobL256](https://github.com/WobL256)
 - [S1ngularty](https://github.com/S1ngularty)
 - [Sai Oan Hseng Hurk](https://github.com/Senghurk)
@@ -29,6 +32,7 @@
 - [Harry-GNS](https://github.com/Harry-GNS)
 - [Dimitri Voncleph](https://github.com/D-Voncleph)
 - [Ritesh Murmu](https://github.com/Ritesh-cloud)
+- [Vinh D Tran](https://github.com/s3500659)
 - [jokalu-it](Grüße :D)
 - [Sakshi Patade](https://github.com/Sakshipatade)
 - [Krishna Manohar Reddy]
@@ -36,6 +40,7 @@
 - [Medrine Mulindi](https://github.com/Mulindi123)
 - [Refenal ellisa]
 - [Jared Krandel]
+- [Rohin Garg](https://github.com/rohingarg12)
 - Gurukiran Reddy AKA AstaReddy
 - [FinalGrabacr](https://https://github.com/FinalGrabacr)
 - [Manan_Kapoor](https://github.com/manankapoor23)
@@ -684,6 +689,7 @@
 - [Aditya Singh](https://github.com/devxaditya)
 - [veekshitha](https://github.com/Veekshitha21)
 - [TejasK](https://github.com/TejasKoravanavar)
+- [Runnas](https://github.com/therunnas)
 - [ahmad777x86](https://github.com/ahmad777x86)
 - [Nicholas C.](https://github.com/ncolvin-dev)
 - [SaboorNisha](https://github.com/SaboorNisha)
@@ -1352,3 +1358,4 @@
 - [Samarth Galhe](https://github.com/samarthgalhe89)
 - [Code-Explore-Dev](https://github.com/Code-Explorer-Dev)
 - [Himanshu Gohil](https://github.com/tghimanshu)
+- [Anis Mandal](https://github.com/AgentPhoenix7)
