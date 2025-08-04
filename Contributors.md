@@ -7,6 +7,7 @@
 - [Dhanjit Nath](https://github.com/developerDhanjit)
 - donman420🍃
 - Mrunali
+- [JacobLeeDavis](https://github.com/jacobleedavis)
 - Bhoomish
 - [Bharathkumar](https://github.com/bharathkumar-creator)
 - [ajs](https://github.com/aboodJS)
@@ -31,8 +32,16 @@
 - Abdullah Zulfiqar(https://github.com/AbdullahZulfiqar2005)
 - [codemikemike](https://github.com/codemikemike)
 - [raghav](https://github.com/raghavvag)
+
 - [James Kim](https://github.com/jykim11) -[Parthav Nair](https://github.com/Parthav-Nair)
 - [Jeevan H R](https://github.com/jeevanchiru17) -[nikolaikoenig] (https://github.com/nikolai-koenig) -[farukh patel](https://github.com/Farukh-patel)
+=======
+- [James Kim](https://github.com/jykim11)
+- [Parthav Nair](https://github.com/Parthav-Nair)
+- [Jeevan H R](https://github.com/jeevanchiru17)
+-[nikolaikoenig] (https://github.com/nikolai-koenig)
+-[farukh patel](https://github.com/Farukh-patel)
+
 - [Harry-GNS](https://github.com/Harry-GNS)
 - [Dimitri Voncleph](https://github.com/D-Voncleph)
 - [Ritesh Murmu](https://github.com/Ritesh-cloud)
@@ -42,6 +51,7 @@
 - [Sakshi Patade](https://github.com/Sakshipatade)
 - [Krishna Manohar Reddy]
 - [Sarthak Sharma](https://github.com/Srthk-Shrm)
+  [Chandana shetty]
 - [Medrine Mulindi](https://github.com/Mulindi123)
 - [Refenal ellisa]
 - [Jared Krandel]
@@ -135,7 +145,14 @@
 - [Mr0Miner](https://github.com/Mr0Miner)
 - [kazuma](https://github.com/Mio-3)
 
+
 - [Tournoy Noa](https://github.com/) -[MohamedSayed](https://github.com/mohammedsayed30) -[Fyobei] (https://github.com/Waku-a11y)
+=======
+. [Luiki17] (https://github.com/Luiki17)
+- [Tournoy Noa](https://github.com/)
+-[MohamedSayed](https://github.com/mohammedsayed30)
+-[Fyobei] (https://github.com/Waku-a11y)
+
 - [Nasrul](https://github.com/nnayz)
 - [Seul](https://github.com/seulahn)
 - [KG](https://github.com/kgoel9899)
@@ -1033,7 +1050,7 @@
 - [Chandra Mouli](https://github.com/Chandramouliva)
 - [Hasindu Thirasara](https://github.com/Hasindu071)
 - [Swetha Kannan](https://github.com/swethakannan12)
-- [Juan Sarmiento](https://github.com/JuanEnriqueSF)
+- [Juan Sarmiengo](https://github.com/JuanEnriqueSF)
 - [Kannan Ravindran](https://github.com/kannan-ravi)
 - [Aakash Pandey](https://github.com/gitaakashstack)
 - [Thales Winther](https://github.com/thaleswinther)
@@ -1370,3 +1387,7 @@
 - [Anis Mandal](https://github.com/AgentPhoenix7)
 - E
 - [Alok Srivastava](https://github.com/alok-srivastava)
+- [Ruchira Chaubey](https://github.com/ruchirachaubey)
+<!-- minor change to trigger PR -->
+- [Siddhant Gadekar](https://github.com/Siddhantdotddev)
+
