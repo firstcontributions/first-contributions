@@ -105,11 +105,13 @@ git push origin <add-your-branch-name>
 
 ## От тук накъде?
 
+## От тук накъде?
+
 Поздравления!  Вие току що изпълнихте стандарните _fork -> clone -> edit -> PR_ операции, които ще срещнете като сътрудник!
 
 Отпразнувайте вашия принос и го споделете с приятели и последователи като посетите [уеб приложението](https://firstcontributions.github.io/#social-share).
 
-Ако бихте искали повече практика, разгледайте [код приноси](https://github.com/roshanjossey/code-contributions).
+Ако бихте искали повече практика, разгледайте [code contributions](https://github.com/firstcontributions/first-contributions#how-to-contribute).
 
 Време да започнете да допринасяте и към други приекти. Ние сме съставили списък с проекти съдържащи лесни проблеми, които са лесни за начало. Проверете  [списъка от приекти в уеб приложението](https://firstcontributions.github.io/#project-list).
 
