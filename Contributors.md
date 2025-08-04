@@ -6,6 +6,7 @@
 - [Dhanjit Nath](https://github.com/developerDhanjit)
 - donman420🍃
 - Mrunali
+- [JacobLeeDavis](https://github.com/jacobleedavis)
 - Bhoomish
 - [Bharathkumar](https://github.com/bharathkumar-creator)
 - [ajs](https://github.com/aboodJS)
@@ -1385,3 +1386,5 @@ Hager
 - [Alok Srivastava](https://github.com/alok-srivastava)
 - [Ruchira Chaubey](https://github.com/ruchirachaubey)
 <!-- minor change to trigger PR -->
+- [Siddhant Gadekar](https://github.com/Siddhantdotddev)
+
