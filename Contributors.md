@@ -695,6 +695,7 @@ Hager
 - [Aditya Singh](https://github.com/devxaditya)
 - [veekshitha](https://github.com/Veekshitha21)
 - [TejasK](https://github.com/TejasKoravanavar)
+- [Runnas](https://github.com/therunnas)
 - [ahmad777x86](https://github.com/ahmad777x86)
 - [Nicholas C.](https://github.com/ncolvin-dev)
 - [SaboorNisha](https://github.com/SaboorNisha)
