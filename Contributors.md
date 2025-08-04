@@ -597,6 +597,7 @@ Hager
 - [Navreet Kaur](https://github.com/NavreetKB)
 - [Ammar Adnew](https://github.com/AmmarAdnew)
 - [Raghav Dwivedi](https://github.com/dwi4122)
+- [Lucas Smith] (https://github.com/lucaswsg123)
 - [Eugene Chia](https://github.com/eugenechia)
 - [Joshua Luca](https://github.com/joshluca98)
 - [Sean Calderon](https://github.com/rimorgin)
