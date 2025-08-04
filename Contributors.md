@@ -8,6 +8,7 @@
 - Mrunali
 - [JacobLeeDavis](https://github.com/jacobleedavis)
 - Bhoomish
+- [JacobLeeDavis-vscode-example](https://github.com/JacobLeeDavis)
 - [Bharathkumar](https://github.com/bharathkumar-creator)
 - [ajs](https://github.com/aboodJS)
 - [Min Ko Oo](https://github.com/mrminko)
