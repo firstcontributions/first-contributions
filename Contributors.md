@@ -17,6 +17,7 @@
 - [Cyril Nishanth](https://github.com/CyrilNishanth)
 - [imsang27](https://github.com/imsang27)
 - [ismail2ov](https://github.com/ismail2ov)
+- [forrest](https://github.com/frrst-ian)
 - [WobL256](https://github.com/WobL256)
 - [S1ngularty](https://github.com/S1ngularty)
 - [Sai Oan Hseng Hurk](https://github.com/Senghurk)
