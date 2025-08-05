@@ -35,6 +35,7 @@ Shruti Tiwari
 - Abdullah Zulfiqar(https://github.com/AbdullahZulfiqar2005)
 - [codemikemike](https://github.com/codemikemike)
 - [raghav](https://github.com/raghavvag)
+- AdaltoGunther
 - [James Kim](https://github.com/jykim11)
 - [il873](https://github.com/il873)
 - [JodAn007](https://github.com/JodAn007)
