@@ -1080,6 +1080,7 @@ Hager
 - [Giulio Arantes](https://github.com/GiulioArantes)
 - [Shubham kumar](https://github.com/Shubham9384235)
 - [Kiranmai Kalla](https://github.com/KiranmaiKalla)
+- [fedxemilio](https://github.com/fedxemilio)
 - [Elina Zoldnere](https://github.com/ElinaZoldnere)
 - [Godswill Udida](https://github.com/GodswillUdida)
 - [Nandani Gupta](https://github.com/Nandani-Guptaa)
