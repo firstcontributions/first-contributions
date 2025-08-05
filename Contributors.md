@@ -11,6 +11,7 @@
 - Farsat
 - [Farman Ali](https://github.com/farman-cloud)
 - [JacobLeeDavis](https://github.com/jacobleedavis)
+- [Gloria Barboza] (https://github.com/labarboza14)
 - Bhoomish
 - [JacobLeeDavis-vscode-example](https://github.com/JacobLeeDavis)
 - [Bharathkumar](https://github.com/bharathkumar-creator)
