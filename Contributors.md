@@ -304,6 +304,7 @@ Hager
 - [Nayan](https://github.com/NayanUnni95)
 - [RunByKim](https://github.com/runbykim)
 - [Argha Saha](https://github.com/arg387)
+- [v1ct0r-ops](https://github.com/v1ct0r-ops)
 - [Carburio](https://github.com/Carburio)
 - [kamil](https://github.com/Kamil115853)
 - [APK]
