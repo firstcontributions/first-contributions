@@ -313,6 +313,7 @@ Hager
 - [uzuraDev](https://github.com/uzuraDev)
 - [lepickel](https://github.com/lepickel)
 - [Kent0011](https://github.com/Kent0011)
+- [brainkoko](https://github.com/thanatoast03)
 - [rinujohn](https://github.com/rinujohn)
 - [Ayananth](https://github.com/Ayananth)
 - [ikimathi](https://github.com/ikimathi)
