@@ -1299,6 +1299,7 @@ Hager
 - [Keshav Raj Chaudhary](https://github.com/chaudharykeshavraj)
 - [Robert Szlufik](https://github.com/Robert-Szlufik-L00188394)
 - [Juan Carlos Alfonso Vina](https://github.com/call-me-trOmpY)
+- [David Oh](https://github.com/DavidOh1606)
 - [Sudhir Jadhav](https://github.com/sudhirjadhav18)
 - [Kristoffer Paulsson](https://github.com/kristoffer-paulsson)
 - [Александр Мосин](https://github.com/mosinisom)
