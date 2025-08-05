@@ -1067,6 +1067,7 @@ Hager
 - [Hardik Khandal](https://github.com/hardikkhandal)
 - [George Udonkwo](https://github.com/Georgeudonkwo)
 - [Leticia suzuki](https://github.com/Leticia567568)
+- [krzysztofkucmierz](https://github.com/krzysztofkucmierz)
 - [Rishan Thangaraj](https://github.com/rishant3441)
 - [Reuel Terezakis](https://github.com/SeventhDream)
 - [Bektur Duishembekov](https://github.com/Bektur13)
