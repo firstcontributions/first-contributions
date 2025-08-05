@@ -8,6 +8,7 @@
 - [Aryan Gusain](https://github.com/aryangusain)
 - donman420🍃
 - Mrunali
+- [Farman Ali](https://github.com/farman-cloud)
 - [JacobLeeDavis](https://github.com/jacobleedavis)
 - Bhoomish
 - [JacobLeeDavis-vscode-example](https://github.com/JacobLeeDavis)
