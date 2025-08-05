@@ -1,5 +1,4 @@
 # Contributors
-- [Abhay Singh](https://github.com/Abhay-0103)
 - [Satrap18](https://github.com/Satrap18)
 - [Pranit Gore](https://github.com/PRANIT0605)
 - [leoweo1](https://github.com/leoweo1)
@@ -115,6 +114,7 @@ Ukashatu Abdullahi
 - [febDylan](https://github.com/feb-dylan)
 - [JWD](https://github.com/JWD-101)
 - [sls-1](https://github.com/sls-1)
+- [Jaimie Chong](https://github.com/jaimiechong)
 - [yugo](https://github.com/yugook)
 Hager
 - [Pedada Tirumala Devi](https://github.com/pedadatirumaladevi21)
