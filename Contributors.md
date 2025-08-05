@@ -1307,6 +1307,7 @@ Hager
 - [Sivasankaran Chandrasekaran](https://github.com/sivasankarnc65)
 - [Vinothini Thangamani](https://github.com/VinothiniSaravankumar)
 - [Sai Manogyana Tokachichu](https://github.com/scrapperDubiBear/)
+- [Eric Brown](https://github.com/EricBrown589)
 - [Gabriel Vieira](https://www.linkedin.com/in/gabrielvieirasantos/)
 - [Mohammad Sarfaraz Afzal](https://github.com/mohammadsarfarazafzal)
 - [benoitmonchaninsupinfo](https://github.com/benoitmonchaninsupinfo)
