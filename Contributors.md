@@ -37,6 +37,7 @@ Shruti Tiwari
 - [raghav](https://github.com/raghavvag)
 - [James Kim](https://github.com/jykim11)
 - [il873](https://github.com/il873)
+- [JodAn007](https://github.com/JodAn007)
 - [Parthav Nair](https://github.com/Parthav-Nair)
 - [Jeevan H R](https://github.com/jeevanchiru17)
 -[nikolaikoenig] (https://github.com/nikolai-koenig)
