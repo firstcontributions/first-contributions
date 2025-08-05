@@ -779,6 +779,7 @@ Hager
 - [Matheus Deus](https://github.com/deusMatheus)
 - [Roshawn Brooks](https://github.com/rbrooks95)
 - [Omer Cohen](https://github.com/OmerCohen7530)
+- [Florian Franco](https://github.com/ffr27)
 - [KevinThomas](https://github.com/HELL-KERBECS)
 - [JVent-WSU](https://github.com/JVentulett-WSU)
 - [Caroline](https://github.com/perrywinkle2004)
