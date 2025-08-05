@@ -1231,6 +1231,7 @@ Hager
 - [Länzlinger Jonas](https://github.com/jonaslanzlinger)
 - [Hardik Agnihotri](https://github.com/hardik-agnihotri)
 - [Abdulkadir Gobena DENBOBA](https://github.com/denboba)
+- [Fajar Abdul Hafiz](https://github.com/sathyrvictim)
 - [mighty-baseplate](https://github.com/mighty-baseplate)
 - [Rishabh Kumar Das](https://github.com/rishabhd-cognavi)
 - [Sarthak Bhardwaj](https://github.com/sarthakbhardwaj27)
