@@ -1,4 +1,5 @@
 # Contributors
+- [Abhay Singh](https://github.com/Abhay-0103)
 - [Satrap18](https://github.com/Satrap18)
 - [Pranit Gore](https://github.com/PRANIT0605)
 - [leoweo1](https://github.com/leoweo1)
