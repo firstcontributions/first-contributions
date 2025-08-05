@@ -1410,5 +1410,6 @@ Hager
 - [Deepith N](https://github.com/deepith-18)
 - [Bharat Ruidas](https://github.com/brd2002)
 - [Mounika Abburi](https://github.com/mounika1000)
-- [Vamshi Krishna G](https://github.com/Krishna-721)
+- - [Vamshi Krishna G](https://github.com/Krishna-721)
 - [Anand Basil](https://github.com/Anand-Basil)
+- [Elielton Bueno](https://github.com/ElieltonBueno)
