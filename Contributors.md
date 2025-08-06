@@ -12,6 +12,7 @@ Hey Hi everyone
 - [Dhanjit Nath](https://github.com/developerDhanjit)
 - [Aryan Gusain](https://github.com/aryangusain)
 - [Joshua❤️Prashanth](https://github.com/JoshuaPrashanth)
+-[Karthika Suresh](https://github.com/Karthika125)
 - donman420🍃
 - Mrunali
 doraemon-nobi
