@@ -181,6 +181,7 @@ Hager
 - [Ryen-K](https://github.com/Ryen-K)
 - [Ahorts](https://github.com/Ahorts)
 - [Hushh](https://github.com/hushh-h)
+- [MACantara](https://github.com/MACantara)
 - [Aman Bangera](https://github.com/amanbangeraa)
 - [jorsyk](https://github.com/jorsyk)
 - [lukgav](https://github.com/lukgav)
