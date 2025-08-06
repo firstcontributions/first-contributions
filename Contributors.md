@@ -20,6 +20,7 @@ doraemon-nobi
 - ayfayfayf
 - Farsat
 - [Farman Ali](https://github.com/farman-cloud)
+- [Sam Ruiz](https://github.com/LiebesleidSam)
 - [Aditya Semalti](https://github.com/adityasemalti)
 - [Aniketan Vijapur](https://github.com/Aniketan01)
 - [JacobLeeDavis](https://github.com/jacobleedavis)
