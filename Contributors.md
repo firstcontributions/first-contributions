@@ -19,6 +19,7 @@ doraemon-nobi
 - ayfayfayf
 - Farsat
 - [Farman Ali](https://github.com/farman-cloud)
+- [Aditya Semalti](https://github.com/adityasemalti)
 - [Aniketan Vijapur](https://github.com/Aniketan01)
 - [JacobLeeDavis](https://github.com/jacobleedavis)
 - [Gloria Barboza] (https://github.com/labarboza14)
