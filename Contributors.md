@@ -64,6 +64,7 @@ Shruti Tiwari
 -[nikolaikoenig] (https://github.com/nikolai-koenig)
 -[farukh patel](https://github.com/Farukh-patel)
 - [Harry-GNS](https://github.com/Harry-GNS)
+- zhan7236
 - [Dimitri Voncleph](https://github.com/D-Voncleph)
 - [Pro Kumar](https://github.com/pkumar2143)
 - [Ritesh Murmu](https://github.com/Ritesh-cloud)
@@ -1444,7 +1445,6 @@ Hager
 - [Ruchira Chaubey](https://github.com/ruchirachaubey)
 <!-- minor change to trigger PR -->
 - [Siddhant Gadekar](https://github.com/Siddhantdotddev)
-
 - [Deepith N](https://github.com/deepith-18)
 - [Bharat Ruidas](https://github.com/brd2002)
 - [Mounika Abburi](https://github.com/mounika1000)
