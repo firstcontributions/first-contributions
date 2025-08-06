@@ -7,6 +7,7 @@
 - [Oyeyemi Obaloluwa](https://github.com/sudo-init-do)
 - [Dhanjit Nath](https://github.com/developerDhanjit)
 - [Aryan Gusain](https://github.com/aryangusain)
+- [Joshua❤️Prashanth](https://github.com/JoshuaPrashanth)
 - donman420🍃
 - Mrunali
 - ayfayfayf
