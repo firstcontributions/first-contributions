@@ -55,6 +55,7 @@ Shruti Tiwari
 - [raghav](https://github.com/raghavvag)
 - AdaltoGunther
 - [James Kim](https://github.com/jykim11)
+- [Rodrigo Furtado](https://github.com/roodrigofurtado)
 - [il873](https://github.com/il873)
 - [Shoaib Islam](https://github.com/Shoaib3375)
 - [JodAn007](https://github.com/JodAn007)
