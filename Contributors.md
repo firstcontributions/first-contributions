@@ -885,6 +885,7 @@ Hager
 - [Kanishk Shukla](https://github.com/Kanishk819)
 - [Oscar A. Virguez](https://github.com/oscar243)
 - [Animesh Yadav](https://github.com/Aanimesh003)
+- [Jin-Ho Lee](https://github.com/Jin-HoMLee)
 - [Adhish Goswami](https://github.com/Adhishg704)
 - [Sneha Singh](https://github.com/snehasingh-25)
 - [Guilherme Andrade](https://github.com/ZeroRBK)
