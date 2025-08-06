@@ -1134,6 +1134,7 @@ Hager
 - [Pouyan Iranpour](https://github.com/pouyaniranpour)
 - [Manas Mahajan](https://github.com/ManasMahajan2003)
 - [Aditya Radadiya](https://github.com/RadadiyaAditya)
+- [Bryan Johns](https://github.com/johbry17)
 - [Priyanshu Walia](https://github.com/priyanshuwalia)
 - [Hari Krishan](https://github.com/Hari-krishna-tech)
 - [Hamza Zahid Butt](https://github.com/HamzaZahid172)
