@@ -1,6 +1,7 @@
 # Contributors
 - [Ritesh Singh](https://github.com/ritesh355)
 - [Satrap18](https://github.com/Satrap18)
+- [Pushpesh](https://github.com/impushpesh)
 - [Pranit Gore](https://github.com/PRANIT0605)
 - [leoweo1](https://github.com/leoweo1)
 - [Oyeyemi Obaloluwa](https://github.com/sudo-init-do)
