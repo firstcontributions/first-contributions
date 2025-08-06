@@ -1,6 +1,6 @@
 # Contributors
 Hey Hi everyone
-
+- [zdp1](https://github.com/dongpeng6)
 - [Vrund Patel](https://github.com/Vrund09)
 - [Ritesh Singh](https://github.com/ritesh355)
 - [Satrap18](https://github.com/Satrap18)
@@ -23,6 +23,7 @@ doraemon-nobi
 - [JacobLeeDavis](https://github.com/jacobleedavis)
 - [Gloria Barboza] (https://github.com/labarboza14)
 - Bhoomish
+- [Danish Abbas] (https://github.com/12Danish)
 - [JacobLeeDavis-vscode-example](https://github.com/JacobLeeDavis)
 - [Bharathkumar](https://github.com/bharathkumar-creator)
 - [ajs](https://github.com/aboodJS)
