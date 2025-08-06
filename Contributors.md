@@ -12,6 +12,7 @@
 - [Joshua❤️Prashanth](https://github.com/JoshuaPrashanth)
 - donman420🍃
 - Mrunali
+doraemon-nobi
 - Matt
 - ayfayfayf
 - Farsat
