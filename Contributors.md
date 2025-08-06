@@ -16,6 +16,7 @@
 - ayfayfayf
 - Farsat
 - [Farman Ali](https://github.com/farman-cloud)
+- [Aniketan Vijapur](https://github.com/Aniketan01)
 - [JacobLeeDavis](https://github.com/jacobleedavis)
 - [Gloria Barboza] (https://github.com/labarboza14)
 - Bhoomish
