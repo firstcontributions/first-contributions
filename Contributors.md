@@ -6,7 +6,7 @@
 - [FinalGrabacr](https://https://github.com/FinalGrabacr)
 - [whiteaxesing](https://https://github.com/whiteaxesing)
 - [Hemant-Dua](https://github.com/Hemant-Dua)
-- [Shamir Ali](https://github.com/ShamirAli55)
+- [Shamir Ali](https://github.com/ShamirAli555)
 - [ATUL-SHARMA](https://github.com/Atul-Clg-Id)
 - [Pinion](https://pinion.kr)
 - [Edson Petry](https://github.com/edsonpetry)
