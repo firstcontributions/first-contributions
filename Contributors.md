@@ -1,20 +1,29 @@
 # Contributors
+- [Vrund Patel](https://github.com/Vrund09)
 - [Ritesh Singh](https://github.com/ritesh355)
 - [Satrap18](https://github.com/Satrap18)
+- [Muhammad Rafay Asif](https://github.com/muhammadrafayasif)
+- [Pushpesh](https://github.com/impushpesh)
 - [Pranit Gore](https://github.com/PRANIT0605)
 - [leoweo1](https://github.com/leoweo1)
 - [Oyeyemi Obaloluwa](https://github.com/sudo-init-do)
 - [Dhanjit Nath](https://github.com/developerDhanjit)
 - [Aryan Gusain](https://github.com/aryangusain)
+- [Joshua❤️Prashanth](https://github.com/JoshuaPrashanth)
 - donman420🍃
 - Mrunali
+- Matt
+- ayfayfayf
+- Farsat
 - [Farman Ali](https://github.com/farman-cloud)
 - [JacobLeeDavis](https://github.com/jacobleedavis)
+- [Gloria Barboza] (https://github.com/labarboza14)
 - Bhoomish
 - [JacobLeeDavis-vscode-example](https://github.com/JacobLeeDavis)
 - [Bharathkumar](https://github.com/bharathkumar-creator)
 - [ajs](https://github.com/aboodJS)
 - [Min Ko Oo](https://github.com/mrminko)
+- [AdilZhetigenov](https://github.com/adilzhetigenov/)
 - [Piyush Singh Thakur](https://github.com/piyushht2003)
 - [Bichu Devnarayan](https://github.com/Bichu0077)
 - [Viraj Sharma The greatest programmer in the world](https://github.com/virajsharma2000)
@@ -38,6 +47,7 @@ Shruti Tiwari
 - AdaltoGunther
 - [James Kim](https://github.com/jykim11)
 - [il873](https://github.com/il873)
+- [Shoaib Islam](https://github.com/Shoaib3375)
 - [JodAn007](https://github.com/JodAn007)
 - [Parthav Nair](https://github.com/Parthav-Nair)
 - [Jeevan H R](https://github.com/jeevanchiru17)
@@ -67,7 +77,9 @@ Shruti Tiwari
 - [Audrey W ](https://github.com/awhitneymiller)
 - [Hafiz Muhammad Talal](https://github.com/talalhafizmuhammad)
 - [Shamir Ali](https://github.com/ShamirAli55)
+- [biroukYass] https://github.com/biroukYass/
 - [ATUL-SHARMA](https://github.com/Atul-Clg-Id)
+- [Mokshith]
 - [Pinion](https://pinion.kr)
 - [jürgen vanzeir]
 - [Atharva Pandkar](https://github.com/Atharva-Pandkar)
@@ -92,6 +104,7 @@ Shruti Tiwari
 - [njn](https://github.com/Njn03)
 - [Sachin](https://github.com/sachinkashi21)
 - [aoe3](https://github.com/aoe3)
+- [minzunim](https://github.com/minzunim)
  =[Bjoseph23](https://github.com/Bjoseph23)
 - [psp0](https://github.com/psp0)
 - [Bam](https://github.com/QBJ08)
@@ -174,6 +187,7 @@ Hager
 - [Ryen-K](https://github.com/Ryen-K)
 - [Ahorts](https://github.com/Ahorts)
 - [Hushh](https://github.com/hushh-h)
+- [MACantara](https://github.com/MACantara)
 - [Aman Bangera](https://github.com/amanbangeraa)
 - [jorsyk](https://github.com/jorsyk)
 - [lukgav](https://github.com/lukgav)
@@ -304,6 +318,7 @@ Hager
 - [Nayan](https://github.com/NayanUnni95)
 - [RunByKim](https://github.com/runbykim)
 - [Argha Saha](https://github.com/arg387)
+- [v1ct0r-ops](https://github.com/v1ct0r-ops)
 - [Carburio](https://github.com/Carburio)
 - [kamil](https://github.com/Kamil115853)
 - [APK]
@@ -690,6 +705,7 @@ Hager
 - [MFigueroa](https://github.com/MiguelFOlivar)
 - [Jefferson Huisa](https://github.com/j3ffh95)
 - [dylan-sacco](https://github.com/dylan-sacco)
+- [Tom C](https://github.com/Alpha-W0lf)
 - [Dipankaj](https://github.com/DipankajSingh/)
 - [harshit](https://github.com/harshitpatel862)
 - [Giusnovetti](https://github.com/Giusnovetti)
@@ -1074,6 +1090,7 @@ Hager
 - [Giulio Arantes](https://github.com/GiulioArantes)
 - [Shubham kumar](https://github.com/Shubham9384235)
 - [Kiranmai Kalla](https://github.com/KiranmaiKalla)
+- [fedxemilio](https://github.com/fedxemilio)
 - [Elina Zoldnere](https://github.com/ElinaZoldnere)
 - [Godswill Udida](https://github.com/GodswillUdida)
 - [Nandani Gupta](https://github.com/Nandani-Guptaa)
@@ -1124,6 +1141,7 @@ Hager
 - [Pouyan Iranpour](https://github.com/pouyaniranpour)
 - [Manas Mahajan](https://github.com/ManasMahajan2003)
 - [Aditya Radadiya](https://github.com/RadadiyaAditya)
+- [Bryan Johns](https://github.com/johbry17)
 - [Priyanshu Walia](https://github.com/priyanshuwalia)
 - [Hari Krishan](https://github.com/Hari-krishna-tech)
 - [Hamza Zahid Butt](https://github.com/HamzaZahid172)
@@ -1293,6 +1311,7 @@ Hager
 - [Keshav Raj Chaudhary](https://github.com/chaudharykeshavraj)
 - [Robert Szlufik](https://github.com/Robert-Szlufik-L00188394)
 - [Juan Carlos Alfonso Vina](https://github.com/call-me-trOmpY)
+- [David Oh](https://github.com/DavidOh1606)
 - [Sudhir Jadhav](https://github.com/sudhirjadhav18)
 - [Kristoffer Paulsson](https://github.com/kristoffer-paulsson)
 - [Александр Мосин](https://github.com/mosinisom)
@@ -1306,6 +1325,7 @@ Hager
 - [Sivasankaran Chandrasekaran](https://github.com/sivasankarnc65)
 - [Vinothini Thangamani](https://github.com/VinothiniSaravankumar)
 - [Sai Manogyana Tokachichu](https://github.com/scrapperDubiBear/)
+- [Eric Brown](https://github.com/EricBrown589)
 - [Gabriel Vieira](https://www.linkedin.com/in/gabrielvieirasantos/)
 - [Mohammad Sarfaraz Afzal](https://github.com/mohammadsarfarazafzal)
 - [benoitmonchaninsupinfo](https://github.com/benoitmonchaninsupinfo)
@@ -1341,6 +1361,7 @@ Hager
 - [Alexander](https://github.com/azuaje1982)
 - [actiononme](https://github.com/actiononme)
 - [RunarokHrafn](https://github.com/Runarok)
+- [Ranjan Shrestha](https://github.com/ranjan0369)
 - [dfrttkj](https://github.com/dfrttkj)
 - [Hamdullah Andar](https://github.com/Hamdullah-Andar)
 - [Nirupam Paul](https://github.com/101paul)
@@ -1390,6 +1411,7 @@ Hager
 - Martin
 - Mubarak
 - [Isaac F](https://github.com/YellowFlello)
+- [SoullesKev](https://github.com/Sadirock)
 -[Bandaru Vighneshwar Rao](https://github.com/)
 - [yzh](https://github.com/yang-zihua)
 -[kes-H-av](https://github.com/kes-H-av)
@@ -1413,3 +1435,11 @@ Hager
 - [Vamshi Krishna G](https://github.com/Krishna-721)
 - [Elielton Bueno](https://github.com/ElieltonBueno)
 - [Keerthi Geddi](https://github.com/GeddiKeerthi8737)
+- [Chinmay Pani](https://github.com/chinmay8bit)
+- [OpenSeeker](https://github.com/OpenSeeker)
+-[Richa Chaudhary](https://github.com/RICHA-CHAUDHARY)
+-[Warren MTT](https://github.com/warching)
+- [Sos Judge]
+- [Sreya Bhattacharjee](https://github.com/bsreya0906)
+- [Priya Kumari](https://github.com/priyayayayayaaa)
+-[Prakriti Dwivedi](https://github.com/hiiamkarati)
