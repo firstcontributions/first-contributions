@@ -1,6 +1,8 @@
 # Contributors
+- [Vrund Patel](https://github.com/Vrund09)
 - [Ritesh Singh](https://github.com/ritesh355)
 - [Satrap18](https://github.com/Satrap18)
+- [Muhammad Rafay Asif](https://github.com/muhammadrafayasif)
 - [Pushpesh](https://github.com/impushpesh)
 - [Pranit Gore](https://github.com/PRANIT0605)
 - [leoweo1](https://github.com/leoweo1)
@@ -10,6 +12,7 @@
 - [Joshua❤️Prashanth](https://github.com/JoshuaPrashanth)
 - donman420🍃
 - Mrunali
+- Matt
 - ayfayfayf
 - Farsat
 - [Farman Ali](https://github.com/farman-cloud)
@@ -1438,4 +1441,4 @@ Hager
 - [Sos Judge]
 - [Sreya Bhattacharjee](https://github.com/bsreya0906)
 - [Priya Kumari](https://github.com/priyayayayayaaa)
-- [Prakriti Dwivedi](https://github.com/hiiamkarati)
+-[Prakriti Dwivedi](https://github.com/hiiamkarati)
