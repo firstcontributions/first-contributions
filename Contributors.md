@@ -1303,6 +1303,7 @@ Hager
 - [Sheikh Mujtaba](https://github.com/Sheikh-Muhammad-Mujtaba)
 - [gpalacios26](https://github.com/gpalacios26/curso-git-fork)
 - [Steve Armstrong](https://github.com/W0474997SteveArmstrong)
+- [Ben Tootill](https://github.com/TriedDevotee)
 - [Debapriya sengupta](https://github.com/DebapriyaSengupta28)
 - [Boru Isako](https://github.com/BoruIsakoJ)
 - [Muhammad Mubashar](https://github.com/Muhammad-Mubashar516)
