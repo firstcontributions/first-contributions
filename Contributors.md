@@ -104,6 +104,7 @@ Shruti Tiwari
 - [Vinay M S](https://github.com/VinaymsGowda)
   [petimov](https://github.com/petimov)
 - [Chris Q](https://github.com/Q-X-F)
+- [Ramu Deyyam](https://github.com/Ramu-Deyyam)
 - [Ashwath nakate](https://github.com/ashwathnakate)
 - [All the World's a Stage](https://github.com/Oolazile)
 - [Andreamp0](https://github.com/Andreamp0)
