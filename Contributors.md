@@ -1495,3 +1495,4 @@ Eoin O'B
 - [Rumesha Ansari](https://github.com/Rumesha400)
 - [Rudraraj Pandey](https://github.com/heelR3)
 - [Maxi Rebolo](https://github.com/MaxiR23)
+- [Georgios Karampelos](https://github.com/gkarabelos)
