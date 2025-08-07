@@ -774,6 +774,7 @@ Hager
 - [Aniket Singh](https://github.com/darksoul-7)
 - [Vicente Guzmán](https://vicenteguzman.com/)
 - [Amar Yasser](https://github.com/AmarYasser1)
+- [Mafedev](https://github.com/mafedev)
 - [Peter Hilbert](https://github.com/pehilbert)
 - [Kores Nkoidila](https://github.com/Nkoidila)
 - [Aditya Mitra](https://github.com/mitras-git)
