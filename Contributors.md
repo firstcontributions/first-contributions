@@ -1467,9 +1467,8 @@ Eoin O'B
 - E
 - [Alok Srivastava](https://github.com/alok-srivastava)
 - [Ruchira Chaubey](https://github.com/ruchirachaubey)
-<!-- minor change to trigger PR -->
+- [Jonuar](https://github.com/jonuar)
 - [Siddhant Gadekar](https://github.com/Siddhantdotddev)
-
 - [Deepith N](https://github.com/deepith-18)
 - [Bharat Ruidas](https://github.com/brd2002)
 - [Mounika Abburi](https://github.com/mounika1000)
