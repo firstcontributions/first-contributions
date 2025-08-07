@@ -1321,6 +1321,7 @@ Eoin O'B
 - [X3R074](My first contribution: https://github.com/X3R074)
 - [Silviya Kolchakova](https://github.com/SilviyaKolchakova)
 - [Suresh Jagannadham](https://github.com/sureshjagannadham)
+- gadalova
 - [Yeaabsra Ashebir (tech nerd)](https://github.com/yeabnoah)
 - [gabecodessometimes](https://github.com/gabecodessometimes)
 - [TsvetislavRangelov](https://github.com/TsvetislavRangelov)
@@ -1483,4 +1484,3 @@ Eoin O'B
 - [Rohit Mahajan](https://github.com/Rohit273848)
 - [Ajay Anand](https://https://github.com/AJrelapse)
 - [corrix0](https://github.com/corrix0)
-- gadalova
