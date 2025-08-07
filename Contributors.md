@@ -356,6 +356,7 @@ Hager
 - [Federico](https://github.com/Fede2717)
 - [Liquuid1](https://github.com/Liquuid1)
 - [Dr4kfire](https://github.com/dr4kfire)
+- [cpescato](https://github.com/cpescato)
 - [idrees](https://github.com/idrees2k22)
 - [JaeHye0k](https://github.com/JaeHye0k)
 - [xwilliam0](https://github.com/xwilliam0)
