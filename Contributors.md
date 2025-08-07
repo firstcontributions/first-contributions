@@ -928,6 +928,7 @@ Eoin O'B
 - [BOUKARI Marfourz](https://github.com/Marfourz)
 - [Lakshya Mishra](https://github.com/mishrlaksh)
 - [Noah Petzinger](https://github.com/Jimegroxak)
+- [Paul Czerniak](https://github.com/ptczerni)
 - [Samuel Rudqvist](https://github.com/srudqvist)
 - [Mohiuddin Hasan](https://github.com/mmhasan07)
 - [Irksomehails](https://github.com/irksomehails)
