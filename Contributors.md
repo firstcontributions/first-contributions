@@ -80,6 +80,7 @@ Shruti Tiwari
 - [Medrine Mulindi](https://github.com/Mulindi123)
 - [Refenal ellisa]
 - [Jared Krandel]
+- Swastik
 - [Rohin Garg](https://github.com/rohingarg12)
 - Gurukiran Reddy AKA AstaReddy
 - [FinalGrabacr](https://https://github.com/FinalGrabacr)
