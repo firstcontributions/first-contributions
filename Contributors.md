@@ -1392,6 +1392,7 @@ Eoin O'B
 - [Alexander](https://github.com/azuaje1982)
 - [actiononme](https://github.com/actiononme)
 - [RunarokHrafn](https://github.com/Runarok)
+- [Tristan Collier](https://github.com/CollierTR)
 - [Ranjan Shrestha](https://github.com/ranjan0369)
 - [dfrttkj](https://github.com/dfrttkj)
 - [Hamdullah Andar](https://github.com/Hamdullah-Andar)
