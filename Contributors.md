@@ -1493,3 +1493,4 @@ Eoin O'B
 - [corrix0](https://github.com/corrix0)
 - [Rumesha Ansari](https://github.com/Rumesha400)
 - [Rudraraj Pandey](https://github.com/heelR3)
+- [Maxi Rebolo](https://github.com/MaxiR23)
