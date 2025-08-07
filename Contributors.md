@@ -54,6 +54,7 @@ Shruti Tiwari
 - [codemikemike](https://github.com/codemikemike)
 - [raghav](https://github.com/raghavvag)
 - AdaltoGunther
+- [etsu] (https://github.com/etssu)
 - [James Kim](https://github.com/jykim11)
 - [Rodrigo Furtado](https://github.com/roodrigofurtado)
 - [il873](https://github.com/il873)
