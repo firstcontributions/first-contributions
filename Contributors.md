@@ -1,6 +1,7 @@
 # Contributors
 Hey Hi everyone
 - [zdp1](https://github.com/dongpeng6)
+- [Govinda Kandel](https://github.com/Govindakandel)
 - [Vrund Patel](https://github.com/Vrund09)
 - [Pierre](https://github.com/wiizzl)
 - [Ritesh Singh](https://github.com/ritesh355)
