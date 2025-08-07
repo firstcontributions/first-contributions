@@ -1147,6 +1147,7 @@ Eoin O'B
 - [mohammadanas51](https://github.com/mohammadanas51)
 - [Nik Zulfauzaan](https://github.com/nickzulfauzaan)
 - [Saptarshi Mitra](https://github.com/Saptarshi1010)
+- [Samuelson Dsouza](https://github.com/TryN-Unlock)
 - [Dave Friedman](https://github.com/heracliteanflux)
 - [Mohamed Abdulghany](https://github.com/MohamedMG7)
 - [Shubham Dhama](https://github.com/shubhamdhama108)
