@@ -159,6 +159,7 @@ Hager
 - [Alan](https://github.com/yhc000)
 - [tuysh](https://github.com/Tuysh)
 - [jpbellizia](https://github.com/jpbellizia)
+The-Yash-is-Joined
 - [addpd](https://github.com/addpd)
 - [oompf](https://github.com/oompf)
   [Louis Lu](https://github.com/yanlu778)
