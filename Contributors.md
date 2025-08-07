@@ -1331,6 +1331,7 @@ Hager
 - [Sudhir Jadhav](https://github.com/sudhirjadhav18)
 - [Kristoffer Paulsson](https://github.com/kristoffer-paulsson)
 - [Александр Мосин](https://github.com/mosinisom)
+- [Togan Razvan-Dumitru] (https://github.com/xRazvan78)
 - [André Herreira Oliveira](https://github.com/andrehherreira)
 - [Axel Valerio Ertamto](https://github.com/AxelValerioErtamto)
 - [Shadab Ahmed Qureshi](https://github.com/Shadab786-developer)
