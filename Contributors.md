@@ -830,6 +830,7 @@ Eoin O'B
 - [Suresh Deora](https://github.com/SureshDeora)
 - [Mohanshi Jain](https://github.com/Mohanshi04)
 - [Mitchell Smith](https://github.com/msmit4095)
+- [Fabrizio Bellisai](https://github.com/bellisaidev)
 - [Abie Anders R](https://github.com/AbieAnders)
 - [Lemar Tokham](https://github.com/LemarTokham)
 - [Daniel Molina](https://github.com/molinafm30)
