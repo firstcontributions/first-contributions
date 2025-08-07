@@ -1498,3 +1498,4 @@ Eoin O'B
 - [Rudraraj Pandey](https://github.com/heelR3)
 - [Maxi Rebolo](https://github.com/MaxiR23)
 - [Georgios Karampelos](https://github.com/gkarabelos)
+- [Cristian Nustes](https://github.com/cristiaaann27)
