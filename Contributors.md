@@ -2,6 +2,7 @@
 Hey Hi everyone
 - [zdp1](https://github.com/dongpeng6)
 - [Vrund Patel](https://github.com/Vrund09)
+- [Pierre](https://github.com/wiizzl)
 - [Ritesh Singh](https://github.com/ritesh355)
 - [Satrap18](https://github.com/Satrap18)
 - [Muhammad Rafay Asif](https://github.com/muhammadrafayasif)
@@ -1470,6 +1471,6 @@ Eoin O'B
 [Prateek k](https://github.com/PRATEEKK9223)
 - [PureDimension](https://github.com/PureDimension)
 -[Bartosz Marcinkowski](https://github.com/Bartosz-Marcinkowski)
-- [Ganpati Nath](https://github.com/Ganpati-Nath)  
+- [Ganpati Nath](https://github.com/Ganpati-Nath)
 - [Brandyn Coverdill](https://github.com/BrandynCoverdill)
 - [Rohit Mahajan](https://github.com/Rohit273848)
