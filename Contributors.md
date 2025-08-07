@@ -481,6 +481,7 @@ Hager
 - [hectoru10](https://github.com/Hectoru10)
 - [mayurk224](https://github.com/mayurk224)
 - [Joncineus](https://github.com/joncineus)
+- [krishmav](https://github.com/krishmav)
 - [JoachimC](https://github.com/Joachim280)
 - [sadiqhero](https://github.com/sadiqhero)
 - [Itay Levi](https://github.com/ItayLHdev)
