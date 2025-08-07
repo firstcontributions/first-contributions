@@ -16,6 +16,7 @@ Hey Hi everyone
 - [Joshua❤️Prashanth](https://github.com/JoshuaPrashanth)
 -[Karthika Suresh](https://github.com/Karthika125)
 - donman420🍃
+- [Nate](https://github.com/ipdor)
 - Mrunali
 -[AnantAgarwal07](https://github.com/AnantAgarwal07)
 doraemon-nobi
