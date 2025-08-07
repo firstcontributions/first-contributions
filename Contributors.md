@@ -14,6 +14,7 @@ Hey Hi everyone
 - [Oyeyemi Obaloluwa](https://github.com/sudo-init-do)
 - [Dhanjit Nath](https://github.com/developerDhanjit)
 - [Aryan Gusain](https://github.com/aryangusain)
+- [zhan7236](https://github.com/zhan7236)
 - [Joshua❤️Prashanth](https://github.com/JoshuaPrashanth)
 -[Karthika Suresh](https://github.com/Karthika125)
 - donman420🍃
@@ -1469,7 +1470,6 @@ Eoin O'B
 - [Ruchira Chaubey](https://github.com/ruchirachaubey)
 <!-- minor change to trigger PR -->
 - [Siddhant Gadekar](https://github.com/Siddhantdotddev)
-
 - [Deepith N](https://github.com/deepith-18)
 - [Bharat Ruidas](https://github.com/brd2002)
 - [Mounika Abburi](https://github.com/mounika1000)
