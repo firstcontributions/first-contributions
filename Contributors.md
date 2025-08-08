@@ -65,6 +65,7 @@ Shruti Tiwari
 - [sRs] (https://github.com/SRS30)
 - AdaltoGunther
 - [etsu] (https://github.com/etssu)
+- [Hafiz Umer Farooq](https://github.com/UmerFarooq9076)
 - [James Kim](https://github.com/jykim11)
 - [Rodrigo Furtado](https://github.com/roodrigofurtado)
 - [il873](https://github.com/il873)
