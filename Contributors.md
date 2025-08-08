@@ -143,6 +143,7 @@ Shruti Tiwari
 - [Tejas Raj](https://https://github.com/DRAKKKkk)
 Ukashatu Abdullahi
 - [Josh](https://github.com/josh902)
+- [fa](https://github.com/fa-personal)
 - [Aditya Mazumdar](https://github.com/aditya95-pixel)
 - [Shashank Shekhar](https://github.com/Shekhar0109)
 - [NMV](https://github.com/nmv02)
