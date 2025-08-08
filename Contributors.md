@@ -455,6 +455,7 @@ The-Yash-is-Joined
 - [Whrisper](https://github.com/SChrisper)
 - [Smit Joshi](https://github.com/smit-1z)
 - [Phillip](gttps://github.com/PhillipSom)
+- [Chirag Bimali](https://github.com/chirag-bimali)
 - [Vinay Joshi](https://github.com/Anigrl)
 - [nisarg404](https://github.com/nisarg404)
 - [Sneha Jain](https://github.com/sj11105)
