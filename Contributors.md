@@ -79,8 +79,11 @@ Shruti Tiwari
 - [Dimitri Voncleph](https://github.com/D-Voncleph)
 - [Pro Kumar](https://github.com/pkumar2143)
 - [Ritesh Murmu](https://github.com/Ritesh-cloud)
+
+- [Samia-sh](https://github.com/samia-code0)
 - [Vinh D Tran](https://github.com/s3500659)
 - [Tejasvi Ravikumar](https://github.com/tejasviravikumar)
+
 - [jokalu-it](Grüße :D)
 - [Sakshi Patade](https://github.com/Sakshipatade)
 - [Krishna Manohar Reddy]
@@ -1444,6 +1447,9 @@ Eoin O'B
 - [Eldar Guseynov 🐦‍🔥](https://github.com/username-i386)
 - [Jahnavi-avi](https://github.com/jahnavi-9741)
 - [Jeyanth-S](https://github.com/Jeyanth-S)
+
+- [Idris](https://github.com/idreesjanib1)
+
 - [Ishpriya Sharma](https://github.com/Ishpriya-Sharma)
 - [Idris](https://github.com/idreesjanib1)
 - [Husnain Khaliq](https://github.com/huscse)
@@ -1509,3 +1515,4 @@ Eoin O'B
 - [Cristian Nustes](https://github.com/cristiaaann27)
 - [Dev Chagas](https://github.com/devchagas)
 - [Shreya Kumari](https://github.com/shreya-create-glitch)
+
