@@ -20,6 +20,7 @@ Hey Hi everyone
 - donman420🍃
 - [Nate](https://github.com/ipdor)
 - Mrunali
+-[Moresh](https://github.com/Moresh-Mishra)
 -[AnantAgarwal07](https://github.com/AnantAgarwal07)
 doraemon-nobi
 - Matt
