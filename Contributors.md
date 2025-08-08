@@ -5,6 +5,7 @@
 -[nikolaikoenig] (https://github.com/nikolai-koenig)
 - [Harry-GNS](https://github.com/Harry-GNS)
 - [Ritesh Murmu](https://github.com/Ritesh-cloud)
+- [Samia-sh](https://github.com/samia-code0)
 - [jokalu-it](Grüße :D)
 - [Sakshi Patade](https://github.com/Sakshipatade)
 - Gurukiran Reddy AKA AstaReddy
