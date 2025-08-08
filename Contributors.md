@@ -289,6 +289,7 @@ The-Yash-is-Joined
 - [LateGit](https://github.com/LateGit)
 - [hide361](https://github.com/hide361)
 - [Bee Tee](https://github.com/bennytp)
+- [Sunghee Yoon](https://github.com/tnosh7)
 - [JK Nithin Kumar](https://github.com/jknithin36)
 - [swev10swev](https://github.com/swev10swev)
 - [reihori](https://github.com/reihori)
