@@ -185,6 +185,7 @@ The-Yash-is-Joined
 - [Pedro Silva](https://github.com/pcconraria)
 - [qrywo](https://github.com/qrywo)
 - [ma3ti](https://github.com/ma3ti)
+- [Peremil-Söderström] (myinnerscope.com)
 - [.kim](https//github.com/kim8584)
 - [Aiman](https://github.com/PX201)
 - [I-Bex](https://github.com/i-Bex)
