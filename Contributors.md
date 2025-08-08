@@ -25,6 +25,7 @@ Hey Hi everyone
 -[Moresh](https://github.com/Moresh-Mishra)
 -[AnantAgarwal07](https://github.com/AnantAgarwal07)
 doraemon-nobi
+- Lanky_
 - Matt
 - ayfayfayf
 - Farsat
