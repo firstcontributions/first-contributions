@@ -1514,3 +1514,4 @@ Eoin O'B
 - [Shreya Kumari](https://github.com/shreya-create-glitch)
 - [Mohamed Laraiche](https://github.com/molaraiche)
 - [Akshit Garg](https://github.com/AkshitGarg054) 
+- [Enrique Pastene Aceituno] (https://github.com/EnriquePasteneAceituno)
