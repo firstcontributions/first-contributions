@@ -1333,6 +1333,7 @@ Eoin O'B
 - [Anurag Chaturvedi](https://github.com/anuragjcchaturvedi)
 - [X3R074](My first contribution: https://github.com/X3R074)
 - [Silviya Kolchakova](https://github.com/SilviyaKolchakova)
+- [Gorkem Kaygisiz](https://github.com/GorkemKaygisiz)
 - [Suresh Jagannadham](https://github.com/sureshjagannadham)
 - gadalova
 - [Yeaabsra Ashebir (tech nerd)](https://github.com/yeabnoah)
@@ -1441,17 +1442,7 @@ Eoin O'B
 - [Jahnavi-avi](https://github.com/jahnavi-9741)
 - [Jeyanth-S](https://github.com/Jeyanth-S)
 - [Ishpriya Sharma](https://github.com/Ishpriya-Sharma)
-- [Idris](https://github.com/idreesjanib1)
-- [Husnain Khaliq](https://github.com/huscse)
-- [Vaishnvai gokhale](https://github.com/Vaishnavimgokhale)
-- Mariya Anjum 💫 First open source contribution!
-- [Favour Isioma Dumkwu](https://github.com/dumkwufavour)
-- Jacob !
-- [Gaurav Sinha] (https://github.com/g8987/first-contributions )
-- [Vagish Gupta](https://github.com/VagishG)
--Gaurav Sinha (https://github.com/g8987/first-contributions )
--Aviral Mittal(https://github.com/aviralmittal8)
--Aachal Yadav(https://github.com/aachalyadav)
+✅
 - [Shubham Kalashetty](https://github.com/shubh-07-lk)
 -MAHEK GUPTA!!!!!
 - Martin
