@@ -1512,3 +1512,4 @@ Eoin O'B
 - [Dev Chagas](https://github.com/devchagas)
 - [Shreya Kumari](https://github.com/shreya-create-glitch)
 - [Mohamed Laraiche](https://github.com/molaraiche)
+- [Akshit Garg](https://github.com/AkshitGarg054) 
