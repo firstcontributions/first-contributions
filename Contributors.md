@@ -1500,4 +1500,6 @@ Eoin O'B
 - [Maxi Rebolo](https://github.com/MaxiR23)
 - [Georgios Karampelos](https://github.com/gkarabelos)
 - [Cristian Nustes](https://github.com/cristiaaann27)
-- [Mohamed Laraiche](https://github.com/molaraiche)
+- [Dev Chagas](https://github.com/devchagas)
+- - [Mohamed Laraiche](https://github.com/molaraiche)
+
