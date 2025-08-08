@@ -1511,3 +1511,4 @@ Eoin O'B
 - [Cristian Nustes](https://github.com/cristiaaann27)
 - [Dev Chagas](https://github.com/devchagas)
 - [Shreya Kumari](https://github.com/shreya-create-glitch)
+- [Mohamed Laraiche](https://github.com/molaraiche)
