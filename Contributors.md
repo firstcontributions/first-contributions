@@ -1501,5 +1501,5 @@ Eoin O'B
 - [Georgios Karampelos](https://github.com/gkarabelos)
 - [Cristian Nustes](https://github.com/cristiaaann27)
 - [Dev Chagas](https://github.com/devchagas)
-- - [Mohamed Laraiche](https://github.com/molaraiche)
+- [Mohamed Laraiche](https://github.com/molaraiche)
 
