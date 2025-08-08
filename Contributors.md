@@ -20,6 +20,7 @@ Hey Hi everyone
 -[Karthika Suresh](https://github.com/Karthika125)
 - donman420🍃
 - [Nate](https://github.com/ipdor)
+- [Arthur Döhler](https://github.com/herrdohler)
 - Mrunali
 -[Moresh](https://github.com/Moresh-Mishra)
 -[AnantAgarwal07](https://github.com/AnantAgarwal07)
