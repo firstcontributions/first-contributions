@@ -457,6 +457,7 @@ The-Yash-is-Joined
 - [Phillip](gttps://github.com/PhillipSom)
 - [Chirag Bimali](https://github.com/chirag-bimali)
 - [Vinay Joshi](https://github.com/Anigrl)
+- [Manjunatha H](https://github.com/Manjunatha-h)
 - [nisarg404](https://github.com/nisarg404)
 - [Sneha Jain](https://github.com/sj11105)
 - [Harsh Verma](https://github.com/hv0911)
