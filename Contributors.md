@@ -1,6 +1,7 @@
 # Contributors
 Hey Hi everyone
 - [WebX Beyond](https://github.com/webxbeyond)
+- [Mantarey.dev](https://mantarey.dev)
 - [Thabeswar](https://github.com/Thabeswar)
 - [Abdul-Jaleel Asani] (https://github.com/Asani-A)
 - [Abhas-Gawali] (https://github.com/abhasgawali)
