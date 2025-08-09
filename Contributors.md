@@ -1520,8 +1520,10 @@ Eoin O'B
 - [Dev Chagas](https://github.com/devchagas)
 - [Shreya Kumari](https://github.com/shreya-create-glitch)
 - [Mohamed Laraiche](https://github.com/molaraiche)
-- [Akshit Garg](https://github.com/AkshitGarg054) 
+- [Akshit Garg](https://github.com/AkshitGarg054)
+- [BhuvaneshAdithya](https://github.com/bhuvaneshadithya45) 
 - [Enrique Pastene Aceituno] (https://github.com/EnriquePasteneAceituno)
 - [Blhassen Sehli](https://github.com/Blhasn-Sehli)
--[sammydonovan](https://github.com/sammydono)
-- [BhuvaneshAdithya](https://github.com/bhuvaneshadithya45)
+- [spacescribe](https://github.com/spacescribe
+- [sammydonovan](https://github.com/sammydono)
+
