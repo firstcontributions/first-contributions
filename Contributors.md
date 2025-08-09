@@ -11,6 +11,7 @@ Hey Hi everyone
 - [Govinda Kandel](https://github.com/Govindakandel)
 - [Vrund Patel](https://github.com/Vrund09)
 - [Pierre](https://github.com/wiizzl)
+- [Jose Nieto](https://github.com/nietojose10)
 - [Ritesh Singh](https://github.com/ritesh355)
 - [Satrap18](https://github.com/Satrap18)
 - [Muhammad Rafay Asif](https://github.com/muhammadrafayasif)
