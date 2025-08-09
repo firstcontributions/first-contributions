@@ -707,6 +707,7 @@ Eoin O'B
 - [Laurian Iacob](https://github.com/iLaurian)
 - [Fikre Tesfay](https://github.com/fikre4444)
 - [LukaGakhokidze](https://github.com/Luka288)
+- [Rahul Parihar](https://github.com/Parihar-Dev)
 - [Taha Tariq](https://github.com/tahatariq19)
 - [Tzipi W](https://github.com/Tzipi-Winefeld)
 - [Iris Christa](https://github.com/I-christa)
