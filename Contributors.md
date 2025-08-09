@@ -1,6 +1,8 @@
 # Contributors
 Hey Hi everyone
 - [WebX Beyond](https://github.com/webxbeyond)
+- [Mantarey.dev](https://mantarey.dev)
+- [Thabeswar](https://github.com/Thabeswar)
 - [Abdul-Jaleel Asani] (https://github.com/Asani-A)
 - [Abhas-Gawali] (https://github.com/abhasgawali)
 - [zdp1](https://github.com/dongpeng6)
@@ -95,6 +97,7 @@ Shruti Tiwari
 - [Rohin Garg](https://github.com/rohingarg12)
 - Gurukiran Reddy AKA AstaReddy
 - [FinalGrabacr](https://https://github.com/FinalGrabacr)
+- [SdkEtci](https://github.com/SdkEtci)
 - [Manan_Kapoor](https://github.com/manankapoor23)
 - [whiteaxesing](https://https://github.com/whiteaxesing)
 - [Hemant-Dua](https://github.com/Hemant-Dua)
@@ -183,6 +186,7 @@ The-Yash-is-Joined
 - [Pedro Silva](https://github.com/pcconraria)
 - [qrywo](https://github.com/qrywo)
 - [ma3ti](https://github.com/ma3ti)
+- [Peremil-Söderström] (myinnerscope.com)
 - [.kim](https//github.com/kim8584)
 - [Aiman](https://github.com/PX201)
 - [I-Bex](https://github.com/i-Bex)
@@ -514,6 +518,7 @@ The-Yash-is-Joined
 - [killjoybr](https://github.com/killjoybr)
 - [Abhishek](https://github.com/i411229891)
 - [Xinsheng Ooi](https://github.com/xs1128)
+- [Noor Abid](https://github.com/NoorAbid95)
 - [Maruthi S](https://github.com/JSMaruthi)
 - [ITSMijaiL](https://github.com/ITSMijaiL)
 - [devduck](https://github.com/fred-kr)
@@ -726,6 +731,7 @@ Eoin O'B
 - [Capri Caviedes](https://github.com/caprivm)
 - [Letícia Reche](https://github.com/lereche)
 - [Stelios Gee](https://github.com/SteliosGee)
+- [Charalampos M.](https://github.com/CharioMich)
 - [Sabrina Ira](https://github.com/sabrinaira)
 - [Jon Compton](https://github.com/joncompton)
 -[Blaine Weiss](https://github.com/BlaineWeiss)
@@ -1421,6 +1427,7 @@ Eoin O'B
 - [Sangeeta](https://github.com/sangeeta-nayak)
 - [pleego1618](https://github.com/pleebs1618)
 - [Fortise]
+- [RobotGecko239](https://github.com/robotGecko239)
 - [Wimbo] (https://github.com/wimbodwi26)
 - [Amogh] (https://github.com/Amogh-Banerjee/)
 - [Swaeba Bilal](https://github.com/Swaeba-Bilal)
@@ -1483,6 +1490,7 @@ Eoin O'B
 <!-- minor change to trigger PR -->
 - [Siddhant Gadekar](https://github.com/Siddhantdotddev)
 
+- [Srivathsav](https://github.com/SRIVATHSAV-IITM)
 - [Deepith N](https://github.com/deepith-18)
 - [Bharat Ruidas](https://github.com/brd2002)
 - [Mounika Abburi](https://github.com/mounika1000)
@@ -1491,6 +1499,7 @@ Eoin O'B
 - [Keerthi Geddi](https://github.com/GeddiKeerthi8737)
 - [Chinmay Pani](https://github.com/chinmay8bit)
 - [OpenSeeker](https://github.com/OpenSeeker)
+- [Adith K V](https://github.com/ZENZEPHY)
 -[Richa Chaudhary](https://github.com/RICHA-CHAUDHARY)
 -[Warren MTT](https://github.com/warching)
 - [Sos Judge]
@@ -1509,6 +1518,8 @@ Eoin O'B
 - [Rumesha Ansari](https://github.com/Rumesha400)
 - [Rudraraj Pandey](https://github.com/heelR3)
 - [Maxi Rebolo](https://github.com/MaxiR23)
+- [Arjun Sunil](https://github.com/arjunsunil-boop)
+- [Angel Sara](https://github.com/Angelishere)
 - [Georgios Karampelos](https://github.com/gkarabelos)
 - [Cristian Nustes](https://github.com/cristiaaann27)
 - [Dev Chagas](https://github.com/devchagas)
@@ -1516,3 +1527,9 @@ Eoin O'B
 - [Mohamed Laraiche](https://github.com/molaraiche)
 - [Akshit Garg](https://github.com/AkshitGarg054) 
 - [Enrique Pastene Aceituno] (https://github.com/EnriquePasteneAceituno)
+- [Blhassen Sehli](https://github.com/Blhasn-Sehli)
+- [spacescribe](https://github.com/spacescribe)  
+-[sammydonovan](https://github.com/sammydono)
+-[luisdiaz327](https://github.com/luisdiaz327)
+-[mattmoodie](https://github.com/mattmoodie)
+- [Likhitha Shree L C](https://github.com/Likhitha-talent)
