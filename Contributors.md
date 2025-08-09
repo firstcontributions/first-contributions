@@ -1488,6 +1488,7 @@ Eoin O'B
 <!-- minor change to trigger PR -->
 - [Siddhant Gadekar](https://github.com/Siddhantdotddev)
 
+- [Srivathsav](https://github.com/SRIVATHSAV-IITM)
 - [Deepith N](https://github.com/deepith-18)
 - [Bharat Ruidas](https://github.com/brd2002)
 - [Mounika Abburi](https://github.com/mounika1000)
