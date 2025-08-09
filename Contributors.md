@@ -128,6 +128,7 @@ Shruti Tiwari
 - [Ramu Deyyam](https://github.com/Ramu-Deyyam)
 - [Ashwath nakate](https://github.com/ashwathnakate)
 - [All the World's a Stage](https://github.com/Oolazile)
+- [Torben Kahnert](https://github.com/tmak2002)
 - [Andreamp0](https://github.com/Andreamp0)
 - [RunningEscaping](https://github.com/turhantolgaunal)
 - [hamadsedrati](https://github.com/hamadsedrati)
