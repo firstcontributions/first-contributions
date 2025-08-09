@@ -179,6 +179,7 @@ Hager
 - [jpbellizia](https://github.com/jpbellizia)
 The-Yash-is-Joined
 - [addpd](https://github.com/addpd)
+- [Pritha Maity](https://github.com/PrithaMaity)
 - [oompf](https://github.com/oompf)
   [Louis Lu](https://github.com/yanlu778)
 - [SHP](https://github.com/Su-Hnin)
