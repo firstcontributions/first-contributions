@@ -1498,6 +1498,7 @@ Eoin O'B
 - [Keerthi Geddi](https://github.com/GeddiKeerthi8737)
 - [Chinmay Pani](https://github.com/chinmay8bit)
 - [OpenSeeker](https://github.com/OpenSeeker)
+- [Adith K V](https://github.com/ZENZEPHY)
 -[Richa Chaudhary](https://github.com/RICHA-CHAUDHARY)
 -[Warren MTT](https://github.com/warching)
 - [Sos Judge]
