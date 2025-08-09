@@ -664,6 +664,7 @@ Eoin O'B
 - [kyiroywops](https://github.com/kyiroywops)
 - [Rakshak R B](https://github.com/rakshakrb)
 - [Umer Aslam](https://github.com/umeraslam00)
+- [Rishabh Sharma](https://github.com/rio-rishabh)
 - [Steve Yadav](https://github.com/lucifer47C)
 - [HVentura 👋](https://github.com/hventura)
 - [Amit Patil](https://github.com/meAmitPatil)
