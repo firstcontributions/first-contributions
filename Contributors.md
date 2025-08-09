@@ -1526,3 +1526,4 @@ Eoin O'B
 - [Blhassen Sehli](https://github.com/Blhasn-Sehli)
 - [spacescribe](https://github.com/spacescribe)  
 -[sammydonovan](https://github.com/sammydono)
+-[luisdiaz327](https://github.com/luisdiaz327)
