@@ -1530,4 +1530,6 @@ Eoin O'B
 - [spacescribe](https://github.com/spacescribe)  
 -[sammydonovan](https://github.com/sammydono)
 -[luisdiaz327](https://github.com/luisdiaz327)
+-[Joseph Ndungu](https://github.com/Kabzjose)
 -[mattmoodie](https://github.com/mattmoodie)
+    
