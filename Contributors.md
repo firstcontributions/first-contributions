@@ -517,6 +517,7 @@ The-Yash-is-Joined
 - [killjoybr](https://github.com/killjoybr)
 - [Abhishek](https://github.com/i411229891)
 - [Xinsheng Ooi](https://github.com/xs1128)
+- [Noor Abid](https://github.com/NoorAbid95)
 - [Maruthi S](https://github.com/JSMaruthi)
 - [ITSMijaiL](https://github.com/ITSMijaiL)
 - [devduck](https://github.com/fred-kr)
