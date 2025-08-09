@@ -97,6 +97,7 @@ Shruti Tiwari
 - [Rohin Garg](https://github.com/rohingarg12)
 - Gurukiran Reddy AKA AstaReddy
 - [FinalGrabacr](https://https://github.com/FinalGrabacr)
+- [SdkEtci](https://github.com/SdkEtci)
 - [Manan_Kapoor](https://github.com/manankapoor23)
 - [whiteaxesing](https://https://github.com/whiteaxesing)
 - [Hemant-Dua](https://github.com/Hemant-Dua)
