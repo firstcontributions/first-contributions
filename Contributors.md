@@ -1,5 +1,6 @@
 # Contributors
 Hey Hi everyone
+-[Irene Rose Joffy(https://github.com/iruzie)
 - [WebX Beyond](https://github.com/webxbeyond)
 - [Mantarey.dev](https://mantarey.dev)
 - [Thabeswar](https://github.com/Thabeswar)
