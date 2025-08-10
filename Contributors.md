@@ -6,6 +6,7 @@
 - [WebX Beyond](https://github.com/webxbeyond)
 - [Mantarey.dev](https://mantarey.dev)
 - [Thabeswar](https://github.com/Thabeswar)
+- [Samia-sh](https://github.com/samia-code0)
 - [Abdul-Jaleel Asani](https://github.com/Asani-A)
 - [Abhas-Gawali](https://github.com/abhasgawali)
 - [saiki kohei](https://github.com/saisai-web)
@@ -1531,6 +1532,13 @@
   -[sammydonovan](https://github.com/sammydono) -[luisdiaz327](https://github.com/luisdiaz327) -[mattmoodie](https://github.com/mattmoodie)
 - [Likhitha Shree L C](https://github.com/Likhitha-talent)
 - [Vaibhav Patidar](https://github.com/VaibhavPatidar26)
+
   [Muhammad Hamza Khan](https://github.com/orion-pax09)
 - [Pradeep Raj Savarapu] (https://github.com/Zanara) -[Devesh Patil](https://github.com/DeveshPatill)
 - [Adrian PC M](https://github.com/AdrianPCM)
+[Muhammad Hamza Khan](https://github.com/orion-pax09)
+- [Pradeep Raj Savarapu] (https://github.com/Zanara)
+-[Devesh Patil](https://github.com/DeveshPatill)
+- [Adrian PC M](https://github.com/AdrianPCM)
+- [Jenkkss]
+
