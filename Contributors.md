@@ -66,6 +66,7 @@ doraemon-nobi
 - [WobL256](https://github.com/WobL256)
 - [S1ngularty](https://github.com/S1ngularty)
 - [Sai Oan Hseng Hurk](https://github.com/Senghurk)
+- [Madhav Sreejith](http://github.com/madhav-sreejith)
 - Caroline Hall
 Shruti Tiwari
 - Himansu Mallik
