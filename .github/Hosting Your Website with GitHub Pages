@@ -1,0 +1,65 @@
+🌐 Hosting Your Website with GitHub Pages
+GitHub Pages allows you to host a static website directly from a GitHub repository. It's a great way to showcase your projects, portfolios, or documentation.
+
+✅ Steps to Host Your Website
+1. Create a New Repository
+
+2. Navigate to GitHub and log in.
+
+3. Click on the + icon in the top-right corner and select New repository.
+
+4. Name your repository as username.github.io, replacing username with your GitHub username.
+
+Optionally, initialize the repository with a README file.
+
+5. Add Your Website Files
+
+6. Clone the repository to your local machine:
+Run this command: git clone https://github.com/username/username.github.io
+
+7. Navigate into your repository directory:
+Run this command: cd username.github.io
+
+8. Create an index.html file:
+Run this command: touch index.html
+
+9. Open index.html in a text editor and add your HTML content.
+Push Your Changes
+
+10. Stage the changes:
+Run this command: git add index.html
+
+11. Commit the changes:
+Run this command: git commit -m "Add initial website content"
+
+12. Push the changes to GitHub:
+Run this command: git push origin main
+
+> Enable GitHub Pages
+
+1. Go to your repository on GitHub.
+
+2. Click on the Settings tab.
+
+3. Scroll down to the GitHub Pages section.
+
+4. Under Source, select the main branch and click Save.
+
+> Access Your Website
+
+After a few minutes, your website will be live at:  https://username.github.io
+
+💡 Tips for Enhancing Your Website
+Themes: GitHub Pages offers built-in themes. To use one, create a _config.yml file in your repository with the following content:
+
+theme: jekyll-theme-cayman
+Replace jekyll-theme-cayman with your preferred theme.
+
+Custom Domain: To use a custom domain, create a CNAME file in your repository containing your domain name (e.g., www.yourdomain.com).
+
+Jekyll: GitHub Pages supports Jekyll, a static site generator. Learn more about Jekyll to enhance your website's functionality.
+
+📚 Additional Resources
+1. https://docs.github.com/en/pages
+2. https://jekyllrb.com/docs/
+3. https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Hosting_a_single-page_app_using_GitHub_Pages
