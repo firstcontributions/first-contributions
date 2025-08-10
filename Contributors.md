@@ -926,6 +926,7 @@ Eoin O'B
 - [Handell Desulme](https://github.com/hjdesulme)
 - [Esther Kalsmith](https://github.com/EstherKal)
 - [GabboRocchia](https://github.com/GabboRocchia)
+- [rice-mountain](https://github.com/rice-mountain)
 - [Ronahi Bağcı](https://github.com/RonayBagci)
 - [RiteshSirohi](https://github.com/riteshsirohi)
 - [SANJAY KUMAR](https://github.com/sanjaydeepak)
