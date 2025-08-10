@@ -1549,3 +1549,4 @@ Eoin O'B
 - [Vaibhav Patidar](https://github.com/VaibhavPatidar26)
 [Muhammad Hamza Khan](https://github.com/orion-pax09)
 - [Pradeep Raj Savarapu] (https://github.com/Zanara)
+-[Devesh Patil](https://github.com/DeveshPatill)
