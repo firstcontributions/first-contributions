@@ -16,6 +16,7 @@ Hey Hi everyone
 - [Satrap18](https://github.com/Satrap18)
 - [Muhammad Rafay Asif](https://github.com/muhammadrafayasif)
 - [Pushpesh](https://github.com/impushpesh)
+- [fireghostman](https://github.com/frameghostman)
 - [Pranit Gore](https://github.com/PRANIT0605)
 - [leoweo1](https://github.com/leoweo1)
 - [Oyeyemi Obaloluwa](https://github.com/sudo-init-do)
