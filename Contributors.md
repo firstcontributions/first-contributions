@@ -28,6 +28,7 @@
 - [Joshua❤️Prashanth](https://github.com/JoshuaPrashanth)
 - [Karthika Suresh](https://github.com/Karthika125)
 - donman420🍃
+- [faithful](https://github.com/f4ithful)
 - [Nate](https://github.com/ipdor)
 - [Chirg Veerwani](https://github.com/chiragveerwani)
 - [Arthur Döhler](https://github.com/herrdohler)
@@ -41,6 +42,7 @@
 - Farsat
 - [Farman Ali](https://github.com/farman-cloud)
 - [Sam Ruiz](https://github.com/LiebesleidSam)
+- Mattias Thomasson (https://github.com/MattiasThomasson)
 - [Aditya Semalti](https://github.com/adityasemalti)
 - [Aniketan Vijapur](https://github.com/Aniketan01)
 - [JacobLeeDavis](https://github.com/jacobleedavis)
@@ -1562,4 +1564,6 @@ Eoin O'B
 -[Devesh Patil](https://github.com/DeveshPatill)
 - [Adrian PC M](https://github.com/AdrianPCM)
 - [Jenkkss]
- - ElkaFi
+- [Hariharasudhan M](https://github.com/Harimhs)
+- [Kori Kosmos](https://github.com/KoriKosmos)
+- ElkaFi
