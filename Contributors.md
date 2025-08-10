@@ -4,6 +4,7 @@
 - [WebX Beyond](https://github.com/webxbeyond)
 - [Mantarey.dev](https://mantarey.dev)
 - [Thabeswar](https://github.com/Thabeswar)
+- [Samia-sh](https://github.com/samia-code0)
 - [Abdul-Jaleel Asani](https://github.com/Asani-A)
 - [Abhas-Gawali](https://github.com/abhasgawali)
 - [saiki kohei](https://github.com/saisai-web)
