@@ -22,6 +22,7 @@
 - [Oyeyemi Obaloluwa](https://github.com/sudo-init-do)
 - [Dhanjit Nath](https://github.com/developerDhanjit)
 - [Aryan Gusain](https://github.com/aryangusain)
+- [zhan7236](https://github.com/zhan7236)
 - [Joshua❤️Prashanth](https://github.com/JoshuaPrashanth)
 - [Karthika Suresh](https://github.com/Karthika125)
 - donman420🍃
