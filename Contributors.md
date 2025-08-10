@@ -709,6 +709,7 @@ Eoin O'B
 - [Ravi singh](https://github.com/ravir0ushan)
 - [Laurian Iacob](https://github.com/iLaurian)
 - [Fikre Tesfay](https://github.com/fikre4444)
+- [Shardul Hirolikar](https://github.com/shiro1307)
 - [LukaGakhokidze](https://github.com/Luka288)
 - [Rahul Parihar](https://github.com/Parihar-Dev)
 - [Taha Tariq](https://github.com/tahatariq19)
