@@ -1483,4 +1483,4 @@ Eoin O'B
 - [Rohit Mahajan](https://github.com/Rohit273848)
 - [Ajay Anand](https://https://github.com/AJrelapse)
 - [corrix0](https://github.com/corrix0)
-- [Rumesha Ansari](https://github.com/Rumesha400)
+- [Rumesha I. Ansari](https://github.com/Rumesha400)
