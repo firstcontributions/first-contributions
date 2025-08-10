@@ -1,4 +1,4 @@
-git# Contributors
+# Contributors
 - [Rohith Macharla](https://github.com/RohithMacharla11)
 - [Akhilanandateja Sanga](https://github.com/Akhilanandateja)
 - [Asabul Hossain Mondal](https://github.com/asabulmondal)
