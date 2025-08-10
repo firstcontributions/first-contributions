@@ -1501,7 +1501,7 @@ Eoin O'B
 - [Alok Srivastava](https://github.com/alok-srivastava)
 - [Vani Narwani](https://github.com/VaniNarwani23)
 - [Ruchira Chaubey](https://github.com/ruchirachaubey)
-<!-- minor change to trigger PR -->
+- [Jonuar](https://github.com/jonuar)
 - [Siddhant Gadekar](https://github.com/Siddhantdotddev)
 
 - [Srivathsav](https://github.com/SRIVATHSAV-IITM)
