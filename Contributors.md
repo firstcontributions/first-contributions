@@ -1563,3 +1563,4 @@ Eoin O'B
 - [Adrian PC M](https://github.com/AdrianPCM)
 - [Jenkkss]
 - [Hariharasudhan M](https://github.com/Harimhs)
+- [Kori Kosmos](https://github.com/KoriKosmos)
