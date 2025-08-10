@@ -1,12 +1,11 @@
 # Contributors
-Hey Hi everyone
 - [Rohith Macharla](https://github.com/RohithMacharla11)
 - [Asabul Hossain Mondal](https://github.com/asabulmondal)
 - [WebX Beyond](https://github.com/webxbeyond)
 - [Mantarey.dev](https://mantarey.dev)
 - [Thabeswar](https://github.com/Thabeswar)
-- [Abdul-Jaleel Asani] (https://github.com/Asani-A)
-- [Abhas-Gawali] (https://github.com/abhasgawali)
+- [Abdul-Jaleel Asani](https://github.com/Asani-A)
+- [Abhas-Gawali](https://github.com/abhasgawali)
 - [zdp1](https://github.com/dongpeng6)
 - [Govinda Kandel](https://github.com/Govindakandel)
 - [Vrund Patel](https://github.com/Vrund09)
@@ -23,15 +22,15 @@ Hey Hi everyone
 - [Dhanjit Nath](https://github.com/developerDhanjit)
 - [Aryan Gusain](https://github.com/aryangusain)
 - [Joshua❤️Prashanth](https://github.com/JoshuaPrashanth)
--[Karthika Suresh](https://github.com/Karthika125)
+- [Karthika Suresh](https://github.com/Karthika125)
 - donman420🍃
 - [Nate](https://github.com/ipdor)
 - [Chirg Veerwani](https://github.com/chiragveerwani)
 - [Arthur Döhler](https://github.com/herrdohler)
 - Mrunali
--[Moresh](https://github.com/Moresh-Mishra)
--[AnantAgarwal07](https://github.com/AnantAgarwal07)
-doraemon-nobi
+- [Moresh](https://github.com/Moresh-Mishra)
+- [AnantAgarwal07](https://github.com/AnantAgarwal07)
+- doraemon-nobi
 - Lanky_
 - Matt
 - ayfayfayf
