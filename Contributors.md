@@ -1,4 +1,5 @@
 # Contributors
+- [Demetris B.](https://github.com/deyil)
 - [0xAnamul](https://github.com/0xAnamul)
 - [seon99il](https://github.com/seon99il)
 - [sajad thapa](https://github.com/sajadthapa04)
