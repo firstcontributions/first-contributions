@@ -5,6 +5,7 @@
 - [Akhilanandateja Sanga](https://github.com/Akhilanandateja)
 - [Asabul Hossain Mondal](https://github.com/asabulmondal)
 - [WebX Beyond](https://github.com/webxbeyond)
+- [Saptarsi Debnath](https://github.com/saptarsidebnath98)
 - [Mantarey.dev](https://mantarey.dev)
 - [Thabeswar](https://github.com/Thabeswar)
 - [Samia-sh](https://github.com/samia-code0)
