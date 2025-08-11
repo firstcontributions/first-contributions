@@ -1,4 +1,5 @@
 # Contributors
+- [sajad thapa](https://github.com/sajadthapa04)
 - [Dev Gaonkar](https://github.com/DevGaonkar)
 - [Rohith Macharla](https://github.com/RohithMacharla11)
 - [Advik Hegde](https://github.com/AdvikHegde)
