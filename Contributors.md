@@ -46,8 +46,8 @@
 - [Nate](https://github.com/ipdor)
 - [Chirg Veerwani](https://github.com/chiragveerwani)
 - [Arthur Döhler](https://github.com/herrdohler)
-- [tka][https://github.com/theinkhaaung007]
-- [Final Year Group 9][https://github.com/finalyeargroup9]
+- [tka](https://github.com/theinkhaaung007)
+- [Final Year Group 9](https://github.com/finalyeargroup9)
 - Mrunali
 - [Moresh](https://github.com/Moresh-Mishra)
 - [AnantAgarwal07](https://github.com/AnantAgarwal07)
