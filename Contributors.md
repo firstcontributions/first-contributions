@@ -1,6 +1,8 @@
- Contributors
+# Contributors
+- [Dev Gaonkar](https://github.com/DevGaonkar)
 - [Andrés M](https://github.com/Miuns1)
 - [Rohith Macharla](https://github.com/RohithMacharla11)
+- [Advik Hegde](https://github.com/AdvikHegde)
 - [Akhilanandateja Sanga](https://github.com/Akhilanandateja)
 - [Asabul Hossain Mondal](https://github.com/asabulmondal)
 - [WebX Beyond](https://github.com/webxbeyond)
@@ -33,6 +35,7 @@
 - [Nate](https://github.com/ipdor)
 - [Chirg Veerwani](https://github.com/chiragveerwani)
 - [Arthur Döhler](https://github.com/herrdohler)
+-[tka][https://github.com/theinkhaaung007]
 - Mrunali
 - [Moresh](https://github.com/Moresh-Mishra)
 - [AnantAgarwal07](https://github.com/AnantAgarwal07)
@@ -157,6 +160,7 @@ Shruti Tiwari
 - [Bam](https://github.com/QBJ08)
 - [Kavya Vadla](https://github.com/kvadla06)
 - [dfdavila2](https://github.com/dfdavila2)
+- [tomasbennett](https://github.com/tomasbennett)
 - [Jerry](https://github.com/SniperRaccoon)
 - [richarddalves](https://github.com/richarddalves)
 - [Gabe Dorval](https://github.com/gabedorval589)
@@ -1469,6 +1473,7 @@ Eoin O'B
 - [Milan J](https://github.com/Milanjiji)
 - [Sunil Reddy](https://github.com/Sunilreddyj)
 - [Ranjan 😎]
+-
 - [Said Berk](https://github.com/saidberk27)
 - [Wade Rees](https://github.com/wade-rees-me)
 - [_𝓟𝓸𝔀𝓮𝓻 𝓛𝓮𝓮_](https://github.dev/0xiPower)
@@ -1566,5 +1571,6 @@ Eoin O'B
 - [Adrian PC M](https://github.com/AdrianPCM)
 - [Jenkkss]
 - [Hariharasudhan M](https://github.com/Harimhs)
-- [Kori Kosmos](https://github.com/KoriKosmos)
+- [Kori Kosmos](https://github.com/KoriKosmos).
 ElkaFi - first contribution practice
+
