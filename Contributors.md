@@ -1388,6 +1388,7 @@ Eoin O'B
 - [ROCHDI MOHAMMED AMINE](https://github.com/aminerochdi1)
 - [Raul Alejandro Ledea Cruz](https://github.com/Raulledea)
 - [Vivek Chudasama](https://github.com/vivekchudasama-2004)
+- [nathanw3456](https://github.com/nathanw3456)
 - [Mostapha EL ANSARI](https://github.com/mostaphaelansari)
 - [Manoj Thilakarathna](https://github.com/manojtharindu11)
 - [Amelia (amyfisticuffs)](https://amyfisticuffs.github.io)
