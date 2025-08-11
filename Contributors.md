@@ -67,6 +67,7 @@
 - [darkiss7](https://github.com/darkiss7)
 - [FAI8h](https://github.com/FAI8h)
 - [Chamesh Dinuka](https://github.com/chamesh2019)
+- [Ales Urankar](https://github.com/alesurankar)
 - [Krrish](https://github.com/venom827).
 - [Cyril Nishanth](https://github.com/CyrilNishanth)
 - [imsang27](https://github.com/imsang27)
