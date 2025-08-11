@@ -45,6 +45,7 @@
 - [Karthika Suresh](https://github.com/Karthika125)
 - donman420🍃
 - [faithful](https://github.com/f4ithful)
+- [Ginny](https://github.com/ginnysingh789)
 - [Nate](https://github.com/ipdor)
 - [Chirg Veerwani](https://github.com/chiragveerwani)
 - [Arthur Döhler](https://github.com/herrdohler)
