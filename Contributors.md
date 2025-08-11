@@ -99,6 +99,7 @@
 - [S1ngularty](https://github.com/S1ngularty)
 - [Sai Oan Hseng Hurk](https://github.com/Senghurk)
 - [Madhav Sreejith](http://github.com/madhav-sreejith)
+- [C.K.Chiu](https://github.com/and86802)
 - Caroline Hall
 Shruti Tiwari
 - Himansu Mallik
