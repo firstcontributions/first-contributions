@@ -65,7 +65,7 @@
 - [Daniyal duddu Subhani](https://github.com/https://github.com/daniyal-subhani)
 - [Sheikh Abdullah Bin Zahid](https://github.com/Abdullah2240)
 - [square-story](https://github.com/square-story)
-- Prem Kumar T G 
+- [Prem Kumar T G](https://github.com/prem7129) 
 - [darkiss7](https://github.com/darkiss7)
 - [FAI8h](https://github.com/FAI8h)
 - [Chamesh Dinuka](https://github.com/chamesh2019)
