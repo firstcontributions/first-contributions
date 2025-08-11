@@ -1469,6 +1469,7 @@ Eoin O'B
 - [Milan J](https://github.com/Milanjiji)
 - [Sunil Reddy](https://github.com/Sunilreddyj)
 - [Ranjan 😎]
+-
 - [Said Berk](https://github.com/saidberk27)
 - [Wade Rees](https://github.com/wade-rees-me)
 - [_𝓟𝓸𝔀𝓮𝓻 𝓛𝓮𝓮_](https://github.dev/0xiPower)
@@ -1566,5 +1567,5 @@ Eoin O'B
 - [Adrian PC M](https://github.com/AdrianPCM)
 - [Jenkkss]
 - [Hariharasudhan M](https://github.com/Harimhs)
-- [Kori Kosmos](https://github.com/KoriKosmos)
+- [Kori Kosmos](https://github.com/KoriKosmos).
 ElkaFi - first contribution practice
