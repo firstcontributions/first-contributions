@@ -1,5 +1,7 @@
 # Contributors
 - [sajad thapa](https://github.com/sajadthapa04)
+- [cashtanowiec](https://github.com/cashtanowiec)
+- [Mattia Cocco](https://github.com/Matti02co)
 - [KamalKant](https://github.com/kamal2730)
 - [Dev Gaonkar](https://github.com/DevGaonkar)
 - [Rohith Macharla](https://github.com/RohithMacharla11)
@@ -998,6 +1000,7 @@ Eoin O'B
 - [Samuel Rudqvist](https://github.com/srudqvist)
 - [Mohiuddin Hasan](https://github.com/mmhasan07)
 - [Irksomehails](https://github.com/irksomehails)
+- Amine
 - [Wessel Steenkamp](https://github.com/wesse206)
 - [Maria Carrera](https://github.com/MarieCourse)
 - [Samaksh Sethiya](https://github.com/Samaksh22)
