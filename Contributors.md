@@ -134,7 +134,7 @@ Shruti Tiwari
 - [ATUL-SHARMA](https://github.com/Atul-Clg-Id)
 - [Mokshith]
 - [Pinion](https://pinion.kr)
-- [jürgen vanzeir]
+- [Prateek-Kumar](https://github.com/Prateek-ind)
 - [Akshat Jain](https://github.com/akshat2604)
 - [Atharva Pandkar](https://github.com/Atharva-Pandkar)
 - [Malak Ibrahim](https://github.com/mmibrahi)
