@@ -1137,6 +1137,7 @@ Eoin O'B
 - [Emmanuel Leu Tecson](https://github.com/TEKKSUNN)
 - [Mohammad Ali Akmal](https://github.com/maliakmal)
 - [hannah0wang 🍍](https://github.com/hannah0wang)
+- [Angad Bhalla](https://github.com/Anga205)
 - [Abhishek Soni](https://github.com/abhisheksoni27)
 - [Antonio Santos](https://github.com/Antonio413100)
 - [Yodahe Wondimu](https://github.com/YodaheWondimu)
