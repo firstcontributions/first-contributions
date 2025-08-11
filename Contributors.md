@@ -5,6 +5,7 @@
 - [sajad thapa](https://github.com/sajadthapa04)
 - [cashtanowiec](https://github.com/cashtanowiec)
 - [Mattia Cocco](https://github.com/Matti02co)
+- [Isaac Lopez](https://github.com/IsaacLC1104)
 - [KamalKant](https://github.com/kamal2730)
 - [Dev Gaonkar](https://github.com/DevGaonkar)
 - [Rohith Macharla](https://github.com/RohithMacharla11)
