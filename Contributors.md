@@ -106,6 +106,7 @@ Shruti Tiwari
 - [Vinh D Tran](https://github.com/s3500659)
 - [Tejasvi Ravikumar](https://github.com/tejasviravikumar)
 - [jokalu-it](Grüße :D)
+-[Aabid Ali](https://github.com/aabidali641)
 - [Sakshi Patade](https://github.com/Sakshipatade)
 - [Krishna Manohar Reddy]
 - [Prasad Sapkal](https://github.com/prasadsapkal55)
