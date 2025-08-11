@@ -16,6 +16,7 @@
 - [Samia-sh](https://github.com/samia-code0)
 - [Abdul-Jaleel Asani](https://github.com/Asani-A)
 - [Abhas-Gawali](https://github.com/abhasgawali)
+- [Kanak](https://github.com/Kcode727)
 - [zwy98](https://github.com/zwy98)
 - [pa4uslf](https://github.com/pa4uslf)
 - [saiki kohei](https://github.com/saisai-web)
