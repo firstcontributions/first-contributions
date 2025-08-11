@@ -709,6 +709,7 @@ Eoin O'B
 - [kyiroywops](https://github.com/kyiroywops)
 - [Rakshak R B](https://github.com/rakshakrb)
 - [Umer Aslam](https://github.com/umeraslam00)
+- [Rishabh Sharma](https://github.com/rio-rishabh)
 - [Steve Yadav](https://github.com/lucifer47C)
 - [HVentura 👋](https://github.com/hventura)
 - [Amit Patil](https://github.com/meAmitPatil)
@@ -1577,6 +1578,7 @@ Eoin O'B
 - [Mohamed Laraiche](https://github.com/molaraiche)
 - [Akshit Garg](https://github.com/AkshitGarg054) 
 - [Enrique Pastene Aceituno] (https://github.com/EnriquePasteneAceituno)
+- [Enrique Pastene Aceituno] (https://github.com/EnriquePasteneAceituno)
 - [Blhassen Sehli](https://github.com/Blhasn-Sehli)
 - [spacescribe](https://github.com/spacescribe)  
 -[sammydonovan](https://github.com/sammydono)
@@ -1594,3 +1596,4 @@ Eoin O'B
 ElkaFi - first contribution practice
 jack - first contribution practice
 [Shristhi Singh](https://github.com/shristhi-2908).
+
