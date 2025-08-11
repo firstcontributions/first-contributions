@@ -10,6 +10,7 @@
 - [Saptarsi Debnath](https://github.com/saptarsidebnath98)
 - [Mantarey.dev](https://mantarey.dev)
 - [Thabeswar](https://github.com/Thabeswar)
+- [Abhi][https://github.com/Abhi-AIX]
 - [Rizal][https://github.com/rizalilhamm]
 - [Samia-sh](https://github.com/samia-code0)
 - [Abdul-Jaleel Asani](https://github.com/Asani-A)
