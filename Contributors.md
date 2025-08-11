@@ -2,6 +2,7 @@
 - [Dev Gaonkar](https://github.com/DevGaonkar)
 - [Rohith Macharla](https://github.com/RohithMacharla11)
 - [Advik Hegde](https://github.com/AdvikHegde)
+- [Siddharth Singh](https://github.com/babuasingh)
 - [Akhilanandateja Sanga](https://github.com/Akhilanandateja)
 - [Asabul Hossain Mondal](https://github.com/asabulmondal)
 - [WebX Beyond](https://github.com/webxbeyond)
