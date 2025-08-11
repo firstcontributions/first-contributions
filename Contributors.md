@@ -61,6 +61,7 @@
 - [Gloria Barboza] (https://github.com/labarboza14)
 - Bhoomish
 - [Danish Abbas] (https://github.com/12Danish)
+- [Prabhjit singh](https://github.com/PrabhBhangu-1)
 - [JacobLeeDavis-vscode-example](https://github.com/JacobLeeDavis)
 - [Bharathkumar](https://github.com/bharathkumar-creator)
 - [ajs](https://github.com/aboodJS)
