@@ -141,6 +141,7 @@ Shruti Tiwari
 - [Muskan Agarwal](https://github.com/MuskanAgarwal7)
 - [David Stark](https://github.com/GamingPions)
 - [Vinay M S](https://github.com/VinaymsGowda)
+- [malyukd](https://github.com/malyukd)
   [petimov](https://github.com/petimov)
 - [Chris Q](https://github.com/Q-X-F)
 - [Ramu Deyyam](https://github.com/Ramu-Deyyam)
