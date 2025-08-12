@@ -26,6 +26,7 @@
 - [Asabul Hossain Mondal](https://github.com/asabulmondal)
 - [WebX Beyond](https://github.com/webxbeyond)
 - [Saptarsi Debnath](https://github.com/saptarsidebnath98)
+- [AmartyaPrakash](https://github.com/amartya69)
 - [Mantarey.dev](https://mantarey.dev)
 - [Thabeswar](https://github.com/Thabeswar)
 - [Yash](https://github.com/yuishigam1)
