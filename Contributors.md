@@ -36,6 +36,7 @@
 - [Satrap18](https://github.com/Satrap18)
 - [Muhammad Rafay Asif](https://github.com/muhammadrafayasif)
 - [Natnael Asnake](https://github.com/Nati-Man-code)
+- [Smith514] (https://github.com/Smith514)
 - [Pushpesh](https://github.com/impushpesh)
 - [fireghostman](https://github.com/frameghostman)
 - [Pranit Gore](https://github.com/PRANIT0605)
