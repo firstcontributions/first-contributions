@@ -14,6 +14,7 @@
 - [Gods-ghost](https://github.com/dist34)
 - [Dev Gaonkar](https://github.com/DevGaonkar)
 - [Rohith Macharla](https://github.com/RohithMacharla11)
+- [Arseniy-Dubovkin](https://github.com/AzartX47)
 - [Advik Hegde](https://github.com/AdvikHegde)
 - [Siddharth Singh](https://github.com/babuasingh)
 - [Akhilanandateja Sanga](https://github.com/Akhilanandateja)
