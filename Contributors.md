@@ -2,6 +2,7 @@
 - [Sunday](https://github.com/Hao-tian)
 - [Demetris B.](https://github.com/deyil)
 - [0xAnamul](https://github.com/0xAnamul)
+- [João Scarlateli](https://github.com/Scarlateli)
 - [seon99il](https://github.com/seon99il)
 - [sajad thapa](https://github.com/sajadthapa04)
 - [cashtanowiec](https://github.com/cashtanowiec)
