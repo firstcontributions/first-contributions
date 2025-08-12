@@ -1,4 +1,5 @@
 # Contributors
+- [Anirudh](https://github.com/anirudh240)
 - [Sunday](https://github.com/Hao-tian)
 - [Demetris B.](https://github.com/deyil)
 - [0xAnamul](https://github.com/0xAnamul)
