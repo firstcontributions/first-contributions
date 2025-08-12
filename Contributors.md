@@ -1603,6 +1603,7 @@ Eoin O'B
 - [Blhassen Sehli](https://github.com/Blhasn-Sehli)
 - [spacescribe](https://github.com/spacescribe)  
 -[sammydonovan](https://github.com/sammydono)
+- [Sean Tilson](hhtps://github.com/smtilson)
 - [Firewooood](https://github.com/Firewooood)
 -[luisdiaz327](https://github.com/luisdiaz327)
 -[mattmoodie](https://github.com/mattmoodie)
@@ -1623,3 +1624,4 @@ jack - first contribution practice
 [Rahman Karim](https://github.com/Rahmankarim)
 - [Elijah Weiss](https://github.com/eweiss4)
 - [Sanchi Tiwade](https://github.com/Sanchi-0804)
+
