@@ -11,6 +11,7 @@
 - [Isaac Lopez](https://github.com/IsaacLC1104)
 - [Nathan Hall](https://github.com/Zero4793)
 - [KamalKant](https://github.com/kamal2730)
+- [Gods-ghost](https://github.com/dist34)
 - [Dev Gaonkar](https://github.com/DevGaonkar)
 - [Rohith Macharla](https://github.com/RohithMacharla11)
 - [Advik Hegde](https://github.com/AdvikHegde)
