@@ -19,6 +19,7 @@
 - [Arseniy-Dubovkin](https://github.com/AzartX47)
 - [Advik Hegde](https://github.com/AdvikHegde)
 - [Siddharth Singh](https://github.com/babuasingh)
+- [Romesha Afzaal](https://github.com/Romeshaafzaal)
 - [Akhilanandateja Sanga](https://github.com/Akhilanandateja)
 - [andyyou7549](https://github.com/andyyou7549)
 - [Asabul Hossain Mondal](https://github.com/asabulmondal)
