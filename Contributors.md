@@ -467,6 +467,7 @@ Ben
 - [eesoyeon](https://github.com/eesoyeon)
 - [Olympus5](https://github.com/Olympus5)
 - [risavctt](https://github.com/risavctt)
+- [emezu](https://github.com/emezu)
 - [eesoyeon](https://github.com/eesoyeon)
 - [Gitrhyme](https://github.com/gitrhyme)
 - [Isaachbt](https://github.com/Isaachbt)

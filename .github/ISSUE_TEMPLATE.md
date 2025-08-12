@@ -1,15 +1,13 @@
-<!--- Provide a general summary of the issue in the Title above -->
+Common Challenges and How to Overcome Them
 
 🐞 **Problem**
-<!--- Provide a detailed description of the change or addition you are proposing -->
-<!--- If it is a feature or a bug, what problem is it solving-->
+This section does not encompass core challenges we might be facing as first time contributors and I would like to add more for people to connect better.
 
 🎯 **Goal**
-<!--- Why is this change important to you? How would you use it? -->
-<!--- How can it benefit other users? -->
+My goal is to make this great guide as relatable as possible in a way I can.
 
 💡 **Possible solutions**
-<!--- Not obligatory, but suggest an idea for implementing addition or change -->
+Not knowing what to do, How to get started or navigate github.
 
 📋  **Steps to solve the problem**
 
