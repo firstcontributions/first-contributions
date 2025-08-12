@@ -146,6 +146,7 @@ Shruti Tiwari
 - [Pro Kumar](https://github.com/pkumar2143)
 - [Ritesh Murmu](https://github.com/Ritesh-cloud)
 - [Vinh D Tran](https://github.com/s3500659)
+- [Harsh Rakholiya](https://github.com/arsh3396)
 - [Tejasvi Ravikumar](https://github.com/tejasviravikumar)
 - [jokalu-it](Grüße :D)
 -[Aabid Ali](https://github.com/aabidali641)
