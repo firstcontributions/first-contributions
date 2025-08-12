@@ -9,6 +9,7 @@
 - [cashtanowiec](https://github.com/cashtanowiec)
 - [Mattia Cocco](https://github.com/Matti02co)
 - [Isaac Lopez](https://github.com/IsaacLC1104)
+- [Nathan Hall](https://github.com/Zero4793)
 - [KamalKant](https://github.com/kamal2730)
 - [Dev Gaonkar](https://github.com/DevGaonkar)
 - [Rohith Macharla](https://github.com/RohithMacharla11)
