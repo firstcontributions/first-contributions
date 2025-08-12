@@ -65,6 +65,7 @@
 -[tka][https://github.com/theinkhaaung007]
 -[Final Year Group 9][https://github.com/finalyeargroup9]
 - Mrunali
+- Anshuman Semwal
 - [Moresh](https://github.com/Moresh-Mishra)
 - [AnantAgarwal07](https://github.com/AnantAgarwal07)
 - doraemon-nobi
