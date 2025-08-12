@@ -1610,3 +1610,4 @@ jack - first contribution practice
 [Shristhi Singh](https://github.com/shristhi-2908).
 - [Viktor Kozlovskyi](https://github.com/Vitia10)
 [Rahman Karim](https://github.com/Rahmankarim)
+- [Elijah Weiss](https://github.com/eweiss4)
