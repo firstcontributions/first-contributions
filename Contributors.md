@@ -940,6 +940,7 @@ Eoin O'B
 - [Sayyid Sajad](https://github.com/sayyidsajad)
 - [Vicente Pinochet ](https://github.com/Qajirr)
 - [Minjae Kwon](https://github.com/minjaekwon97)
+- [Sayan Maji](https://github.com/Sayanmaji0506)
 - [Varun Patel](https://github.com/varunpatel07)
 - [Rahul Gurav](https://github.com/RahulGurav82)
 - [Claudio Jara](https://github.com/claudiojara)
