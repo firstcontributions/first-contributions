@@ -55,6 +55,7 @@
 - [jonas461](https://github.com/jonas461)
 - [Pranit Gore](https://github.com/PRANIT0605)
 - [leoweo1](https://github.com/leoweo1)
+- [Alejandro](https://github.com/Jano2402)
 - [BorisovCloud](https://github.com/BorisovCloud)
 - [Tarun207](https://github.com/Tarun207)
 - [Oyeyemi Obaloluwa](https://github.com/sudo-init-do)
