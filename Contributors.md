@@ -5,6 +5,7 @@
 - [0xAnamul](https://github.com/0xAnamul)
 - [João Scarlateli](https://github.com/Scarlateli)
 - [seon99il](https://github.com/seon99il)
+- [Ms_Njuguna](https://github.com/Ms-Njuguna)
 - [sajad thapa](https://github.com/sajadthapa04)
 - [cashtanowiec](https://github.com/cashtanowiec)
 - [Mattia Cocco](https://github.com/Matti02co)
