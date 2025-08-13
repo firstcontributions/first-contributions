@@ -63,6 +63,7 @@
 - [leoweo1](https://github.com/leoweo1)
 - [Alejandro](https://github.com/Jano2402)
 - [BorisovCloud](https://github.com/BorisovCloud)
+- [Kamdoum Loich](https://github.com/kamdoumloich)
 - [Tarun207](https://github.com/Tarun207)
 - [Oyeyemi Obaloluwa](https://github.com/sudo-init-do)
 - [Dhanjit Nath](https://github.com/developerDhanjit)
