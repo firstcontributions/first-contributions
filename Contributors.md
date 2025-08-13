@@ -843,6 +843,7 @@ Eoin O'B
 - [git-gud-jim](https://github.com/git-gud-jim)
 - [Chip Kelsey](https://github.com/chipncharge)
 - [artistique1](https://github.com/artistique1)
+- [aarohCodes] (https://github.com/aarohCodes)
 - [MFigueroa](https://github.com/MiguelFOlivar)
 - [Jefferson Huisa](https://github.com/j3ffh95)
 - [dylan-sacco](https://github.com/dylan-sacco)
