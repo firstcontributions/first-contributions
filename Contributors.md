@@ -1,5 +1,6 @@
 # Contributors
 - [Anirudh](https://github.com/anirudh240)
+- [Chathura](https://github.com/PrabashanaDev)
 - [Likhitha](https://github.com/likhitha07)
 - [Choudary Hussain Ali](https://github.com/choudaryhussainali)
 - [Sunday](https://github.com/Hao-tian)
