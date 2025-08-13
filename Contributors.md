@@ -53,6 +53,7 @@
 - [Natnael Asnake](https://github.com/Nati-Man-code)
 - [Pushpesh](https://github.com/impushpesh)
 - [fireghostman](https://github.com/frameghostman)
+- [Harshdeep Singh](https://github.com/HarshdeepS1)
 - [jonas461](https://github.com/jonas461)
 - [Pranit Gore](https://github.com/PRANIT0605)
 - [leoweo1](https://github.com/leoweo1)
