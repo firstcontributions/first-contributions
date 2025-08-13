@@ -1,5 +1,6 @@
 # Contributors
 - [Anirudh](https://github.com/anirudh240)
+- [AshuRohom](https://github.com/ashurohom)
 - [Chathura](https://github.com/PrabashanaDev)
 - [Likhitha](https://github.com/likhitha07)
 - [David Chamling Rai](https://github.com/Wadangkaa)
