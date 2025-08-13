@@ -39,6 +39,7 @@
 - [Kanak](https://github.com/Kcode727)
 - [zwy98](https://github.com/zwy98)
 - [pa4uslf](https://github.com/pa4uslf)
+- [Arafath](https://github.com/Arafath-MSM)
 - [saiki kohei](https://github.com/saisai-web)
 - [bithunter](https://github.com/bithunter744)
 - [zdp1](https://github.com/dongpeng6)
@@ -678,6 +679,7 @@ Eoin O'B
 - [Mariusz Sobczak](https://github.com/SmoQ)
 - [Umair Amir](https://github.com/UmairAmir)
 - [Sandhya R](https://github.com/sandhya13r)
+- [Sunit] (https://github.com/sunit25)
 - [Salar Amir](https://github.com/SalarAmir)
 - [Leila (Radi Adil)](https://github.com/l3331l4)
 - [Shudan Luo](https://github.com/shudanluo)
@@ -1657,3 +1659,6 @@ jack - first contribution practice
 - [Rishabh Pathak](https://github.com/RishabhPathak93)
 - [Shivang](https://github.com/shivang-jnv)
 - [mizuki](https://github.com/mizuresort)
+- [playerblair](https://github.com/playerblair)
+
+
