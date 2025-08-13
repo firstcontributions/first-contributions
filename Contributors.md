@@ -254,6 +254,7 @@ CoolSoulz
 - [tuysh](https://github.com/Tuysh)
 - [jpbellizia](https://github.com/jpbellizia)
 The-Yash-is-Joined
+- [skg2k05](https://github.com/skg2k05)
 - [addpd](https://github.com/addpd)
 - [Pritha Maity](https://github.com/PrithaMaity)
 - [oompf](https://github.com/oompf)
