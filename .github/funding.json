@@ -92,6 +92,14 @@
         "taxes": 0,
         "currency": "USD",
         "description": ""
+      },
+      {
+        "year": 2022,
+        "income": 7,
+        "expenses": 0,
+        "taxes": 0,
+        "currency": "USD",
+        "description": ""
       }
     ]
   }
