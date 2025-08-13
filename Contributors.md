@@ -40,6 +40,7 @@
 - [zwy98](https://github.com/zwy98)
 - [pa4uslf](https://github.com/pa4uslf)
 - [saiki kohei](https://github.com/saisai-web)
+- [bithunter](https://github.com/bithunter744)
 - [zdp1](https://github.com/dongpeng6)
 - [Govinda Kandel](https://github.com/Govindakandel)
 - [Vrund Patel](https://github.com/Vrund09)
