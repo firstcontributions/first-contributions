@@ -30,6 +30,7 @@
 - [Asabul Hossain Mondal](https://github.com/asabulmondal)
 - [ananya](https://github.com/ankashyap)
 - [WebX Beyond](https://github.com/webxbeyond)
+- [Brian Gonzalez Manresa](https://github.com/briangm98nevermore)
 - [Saptarsi Debnath](https://github.com/saptarsidebnath98)
 - [AmartyaPrakash](https://github.com/amartya69)
 - [Mantarey.dev](https://mantarey.dev)
