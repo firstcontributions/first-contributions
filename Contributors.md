@@ -2,6 +2,7 @@
 - [Anirudh](https://github.com/anirudh240)
 - [Chathura](https://github.com/PrabashanaDev)
 - [Likhitha](https://github.com/likhitha07)
+- [David Chamling Rai](https://github.com/Wadangkaa)
 - [Choudary Hussain Ali](https://github.com/choudaryhussainali)
 - [Sunday](https://github.com/Hao-tian)
 - [Demetris B.](https://github.com/deyil)
