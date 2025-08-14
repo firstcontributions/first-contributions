@@ -210,6 +210,7 @@ Shruti Tiwari
 - [Pinion](https://pinion.kr)
 - [jürgen vanzeir]
 - [ZMM-zhangmanman]
+- [Andrea Moguel](https://github.com/amoguelk)
 - [Akshat Jain](https://github.com/akshat2604)
 - [Atharva Pandkar](https://github.com/Atharva-Pandkar)
 - [Joshua McNeel](https://github.com/tech-gubbins)
