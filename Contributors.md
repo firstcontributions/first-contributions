@@ -1,4 +1,5 @@
 # Contributors
+- [Sanajit Jana](https://github.com/sanajitjana)
 - [Harsh Thakare](https://github.com/harsh21234i)
 - [Rohit Rajvaidya](https://github.com/RohitRajvaidya5)
 - [Anirudh](https://github.com/anirudh240)
