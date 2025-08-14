@@ -78,6 +78,7 @@
 - [jonas461](https://github.com/jonas461)
 - [Pranit Gore](https://github.com/PRANIT0605)
 - [leoweo1](https://github.com/leoweo1)
+- [Asianzu Henry](https://github.com/asianzuhenry)
 - [Alejandro](https://github.com/Jano2402)
 - [BorisovCloud](https://github.com/BorisovCloud)
 - [Kamdoum Loich](https://github.com/kamdoumloich)
