@@ -18,6 +18,7 @@
 - [Demetris B.](https://github.com/deyil)
 - [0xAnamul](https://github.com/0xAnamul)
 - [João Scarlateli](https://github.com/Scarlateli)
+- [Devna jiya R](https://github.com/jiya22r)
 - [Vishwambar Manchewar](https://github.com/vishmanchewar)
 - [seon99il](https://github.com/seon99il)
 - [Ms_Njuguna](https://github.com/Ms-Njuguna)
