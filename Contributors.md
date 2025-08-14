@@ -1,5 +1,6 @@
 # Contributors
 - [Zohaib Khan](https://github.com/zohaibkhan745)
+- [Raj Soni](https://github.com/rajsonnii)
 - [Srinivas Batthula](https://github.com/srinivas-batthula)
 - [Sanajit Jana](https://github.com/sanajitjana)
 - [Harsh Thakare](https://github.com/harsh21234i)
