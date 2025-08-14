@@ -782,6 +782,7 @@ Eoin O'B
 - [Rakshak R B](https://github.com/rakshakrb)
 - [Umer Aslam](https://github.com/umeraslam00)
 - [Steve Yadav](https://github.com/lucifer47C)
+- [Luciano Campos Kriegl](https://github.com/lucianock)
 - [HVentura 👋](https://github.com/hventura)
 - [Amit Patil](https://github.com/meAmitPatil)
 - [Vanlal Peka](https://github.com/vanlalpeka)
