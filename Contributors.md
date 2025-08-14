@@ -1,7 +1,7 @@
 # Contributors
 - [Anirudh](https://github.com/anirudh240)
 - [Chathura](https://github.com/PrabashanaDev)
-- [Commitaptian-A](https://github.com/CommitCaptain-A)
+- [CommitaCptian-A](https://github.com/CommitCaptain-A)
 - [Likhitha](https://github.com/likhitha07)
 - [David Chamling Rai](https://github.com/Wadangkaa)
 - [Choudary Hussain Ali](https://github.com/choudaryhussainali)
