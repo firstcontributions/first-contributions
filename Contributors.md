@@ -1,4 +1,5 @@
 # Contributors
+- [Rohit Rajvaidya](https://github.com/RohitRajvaidya5)
 - [Anirudh](https://github.com/anirudh240)
 - [Chathura](https://github.com/PrabashanaDev)
 - [Commitaptian-A](https://github.com/CommitCaptain-A)
