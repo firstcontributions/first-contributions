@@ -1192,6 +1192,7 @@ Eoin O'B
 - [Codemanticism](https://github.com/codemanticism)
 - [Guru Balamurugan](https://github.com/guru-apr21)
 - [Isabela Magalhães](https://github.com/isarbela)
+- [Aloof Apple](https://github.com/AloofApple)
 - [John Caleb ⚡](https://github.com/thejohncaleb)
 - [Nahuel Franco](https://github.com/NahuelNubiral)
 - [Dante Alegria](https://github.com/dantealegria1)
