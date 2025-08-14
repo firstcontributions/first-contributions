@@ -1678,6 +1678,7 @@ jack - first contribution practice
 - [Shivang](https://github.com/shivang-jnv)
 - [playerblair](https://github.com/playerblair)
 - [Shahrukh Khan](https://github.com/srk384)
+- [Arul](https://github.com/arul3011)
 - [Lusmaysh](https://github.com/lusmaysh)
 - [Sachin](https://github.com/Sachiiinnn)
 - [Anton Lysenko](https://github.com/AntonyCoder)
