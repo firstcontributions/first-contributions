@@ -207,6 +207,7 @@ Shruti Tiwari
 - [Torben Kahnert](https://github.com/tmak2002)
 - [Andreamp0](https://github.com/Andreamp0)
 - [RunningEscaping](https://github.com/turhantolgaunal)
+- [AshuRohom](https://github.com/ashurohom)
 - [hamadsedrati](https://github.com/hamadsedrati)
 - [Abhay Kumar](https://github.com/abhykmr)
 - [UncleObinna](https://github.com/UncleObinna)
