@@ -854,6 +854,7 @@ Eoin O'B
 - [ColorCode](https://github.com/benjaAguilar)
 - [Rennan Reis](https://github.com/rennanreis)
 - [Nilesh Kumar](https://github.com/nilesh646)
+- [Alejandro Aguilar] (https://github.com/seneka-DSNA)
 - [Basma BT](https://github.com/Boutaib-Basma)
 - [Rodrigo Bravo](https://github.com/bravorod)
 - [SIva Saketh](https://github.com/sivasaketh)
