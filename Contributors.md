@@ -783,6 +783,7 @@ Eoin O'B
 - [Raunit Arya](https://github.com/RaunitArya)
 - [Siddhant Y](https://github.com/megastore21)
 - [Navreet Kaur](https://github.com/NavreetKB)
+- [Abhiraj Gautam](https://github.com/Abhirajgautam28)
 - [Ammar Adnew](https://github.com/AmmarAdnew)
 - [Raghav Dwivedi](https://github.com/dwi4122)
 - [Lucas Smith] (https://github.com/lucaswsg123)
