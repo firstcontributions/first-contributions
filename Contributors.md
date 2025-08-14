@@ -56,6 +56,7 @@
 - [Govinda Kandel](https://github.com/Govindakandel)
 - [Vrund Patel](https://github.com/Vrund09)
 - [Pierre](https://github.com/wiizzl)
+- [Jo](https://github.com/BeanboxNZ)
 - [Jainil Desai](https://github.com/jainilDesai)
 - [Jose Nieto](https://github.com/nietojose10)
 - [Ritesh Singh](https://github.com/ritesh355)
