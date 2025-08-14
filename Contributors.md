@@ -47,6 +47,7 @@
 - [pa4uslf](https://github.com/pa4uslf)
 - [Arafath](https://github.com/Arafath-MSM)
 - [saiki kohei](https://github.com/saisai-web)
+- [Don Doricent](https://github.com/Don-Doricent)
 - [bithunter](https://github.com/bithunter744)
 - [zdp1](https://github.com/dongpeng6)
 - [Govinda Kandel](https://github.com/Govindakandel)
