@@ -1,4 +1,5 @@
 # Contributors
+- [Wycliffe Musau](https://github.com/Excellent58)
 - [Zohaib Khan](https://github.com/zohaibkhan745)
 - [Raj Soni](https://github.com/rajsonnii)
 - [Srinivas Batthula](https://github.com/srinivas-batthula)
