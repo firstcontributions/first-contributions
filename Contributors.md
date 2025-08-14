@@ -77,6 +77,7 @@
 - [Aryan Gusain](https://github.com/aryangusain)
 - [zhan7236](https://github.com/zhan7236)
 - [suyash nepal](https://github.com/suynep)
+- [Rosellines](https://github.com/Rosellines)
 - [Joshua❤️Prashanth](https://github.com/JoshuaPrashanth)
 - [Ali Linares 🤴🏻](https://github.com/alilinares)
 - [Karthika Suresh](https://github.com/Karthika125)
