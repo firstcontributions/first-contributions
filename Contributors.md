@@ -208,6 +208,7 @@ Shruti Tiwari
 - [Mokshith]
 - [Pinion](https://pinion.kr)
 - [jürgen vanzeir]
+- [yeisondev001 💎](https://github.com/yeisondev001)
 - [ZMM-zhangmanman]
 - [Akshat Jain](https://github.com/akshat2604)
 - [Atharva Pandkar](https://github.com/Atharva-Pandkar)
