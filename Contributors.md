@@ -209,6 +209,7 @@ Shruti Tiwari
 - [ZMM-zhangmanman]
 - [Akshat Jain](https://github.com/akshat2604)
 - [Atharva Pandkar](https://github.com/Atharva-Pandkar)
+- [Joshua McNeel](https://github.com/tech-gubbins)
 - [Malak Ibrahim](https://github.com/mmibrahi)
 - [Edson Petry](https://github.com/edsonpetry)
 - [Rohan-Lalchandani](https://github.com/Rohan-Lalchandani08)
