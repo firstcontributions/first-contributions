@@ -21,6 +21,7 @@
 - [Nirbhay Sharma](https://github.com/NirbhaySharma504)
 - [Chathura](https://github.com/PrabashanaDev)
 - [Commitaptian-A](https://github.com/CommitCaptain-A)
+- [Kavya Gupta](https://github.com/kavyagupta3011)
 - [Likhitha](https://github.com/likhitha07)
 - [David Chamling Rai](https://github.com/Wadangkaa)
 - [Choudary Hussain Ali](https://github.com/choudaryhussainali)
