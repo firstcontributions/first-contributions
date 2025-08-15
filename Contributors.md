@@ -1,5 +1,6 @@
 # Contributors
 - [Shivek Ranjan](https://github.com/ShivekRanjan)
+- [Harjot Singh](https://github.com/harjotsingh-debug)
 - [Akul Anhith](https://github.com/aam2k6)
 - [Wycliffe Musau](https://github.com/Excellent58)
 -[Pragya Rai]
