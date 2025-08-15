@@ -33,7 +33,7 @@
 - [Mattia Cocco](https://github.com/Matti02co)
 - [Isaac Lopez](https://github.com/IsaacLC1104)
 - [Nathan Hall](https://github.com/Zero4793)
-- [Praneeth](https://github.com/praneethem8)
+
 - [KamalKant](https://github.com/kamal2730)
 - [Gods-ghost](https://github.com/dist34)
 - [Dev Gaonkar](https://github.com/DevGaonkar)
