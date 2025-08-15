@@ -90,6 +90,7 @@
 - [Piyush Singh Thakur](https://github.com/piyushht2003)
 - [Bichu Devnarayan](https://github.com/Bichu0077)
 - [Viraj Sharma The greatest programmer in the world](https://github.com/virajsharma2000)
+- [Abhirath Adamane](https://github.com/AbhirathA)
 - [Daniyal duddu Subhani](https://github.com/https://github.com/daniyal-subhani)
 - [Sheikh Abdullah Bin Zahid](https://github.com/Abdullah2240)
 - [square-story](https://github.com/square-story)
