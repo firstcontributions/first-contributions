@@ -1,4 +1,5 @@
 # Contributors
+- [Sathish Adithiyaa SV](https://github.com/SathishAdithiyaaSV)
 - [Wycliffe Musau](https://github.com/Excellent58)
 - [Zohaib Khan](https://github.com/zohaibkhan745)
 - [Ronak Singh](https://github.com/RonakSingh2006)
