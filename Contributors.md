@@ -100,6 +100,7 @@
 - [Karthika Suresh](https://github.com/Karthika125)
 - donman420🍃
 - [faithful](https://github.com/f4ithful)
+- [Parv](https://github.com/parv1601)
 - [Ginny](https://github.com/ginnysingh789)
 - [Nate](https://github.com/ipdor)
 - [Chirg Veerwani](https://github.com/chiragveerwani)
