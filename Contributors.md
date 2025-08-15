@@ -72,6 +72,7 @@
 - [Jainil Desai](https://github.com/jainilDesai)
 - [Jose Nieto](https://github.com/nietojose10)
 - [Ritesh Singh](https://github.com/ritesh355)
+- [Aryan Bansal](https://github.com/AryanAAB)
 - [Satrap18](https://github.com/Satrap18)
 - [alluriakhil18](https://github.com/alluriakhil18)
 - [Muhammad Rafay Asif](https://github.com/muhammadrafayasif)
