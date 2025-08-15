@@ -124,6 +124,7 @@
 - [Gloria Barboza] (https://github.com/labarboza14)
 - Bhoomish
 - [Danish Abbas] (https://github.com/12Danish)
+- [Harsh Mohta] (https://github.com/Harsh-Mohta9163)
 - [Prabhjit singh](https://github.com/PrabhBhangu-1)
 - [JacobLeeDavis-vscode-example](https://github.com/JacobLeeDavis)
 - [Bharathkumar](https://github.com/bharathkumar-creator)
