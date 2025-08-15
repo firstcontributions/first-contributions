@@ -75,6 +75,7 @@
 - [Yash](https://github.com/yuishigam1)
 - [Abhi][https://github.com/Abhi-AIX]
 - [Chandru][https://github.com/P-Chandru]
+- [Arr0ws].[https://github.com/Arr0ws]
 - [Rizal][https://github.com/rizalilhamm]
 - [Samia-sh](https://github.com/samia-code0)
 - [Abdul-Jaleel Asani](https://github.com/Asani-A)
@@ -1769,9 +1770,9 @@ jack - first contribution practice
 -[Stephen Ebichondo](https://github.com/sebichondo)
 - [xraisik](https://github.com/xraisik)
 -[Jadon](https://github.com/JadonDn)
+- [Sample] 
 -[Sarthak Maheshwari](https://github.com/SartMa)
 -[Gathik Jindal](https://github.com/gathik-jindal)
 -[Suryans Dash](https://github.com/suryans77)
 -[Bhavya Jain](https://github.com/Bhavzzzzzz)
-- [Sample]
 - [Abhirath Adamane](https://github.com/AbhirathA)
