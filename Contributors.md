@@ -218,6 +218,7 @@ Ukashatu Abdullahi
 - [Chaimae](https://github.com/GRICHChaimae)
 - [Dwaine](https://github.com/DwaineBrannon)
 - [zzb](https://github.com/zbrun)
+- [Abhijit](https://github.com/erakin027)
 - [tr33k](https://github.com/tr33k)
 - [febDylan](https://github.com/feb-dylan)
 - [JWD](https://github.com/JWD-101)
