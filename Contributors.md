@@ -1398,6 +1398,7 @@ Eoin O'B
 - [Sivasubramanian](https://github.com/siva1160github)
 - [R. Dinesh Kumar](https://github.com/Dineshkumarr54)
 - [Nikhil Rajbhar](https://github.com/NikhilRajbhar111)
+- [Siddharth Anil](https://github.com/sidnovates)
 - [Yadunand Kamath](https://github.com/yadunand-kamath)
 - [mohitpuri-codes](https://github.com/mohitpuri-codes)
 - [Zohaer Al Mahatab](https://github.com/priom-mahatab)
