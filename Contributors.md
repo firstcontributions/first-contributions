@@ -1791,3 +1791,4 @@ jack - first contribution practice
 - [Abhirath Adamane](https://github.com/AbhirathA)
 -[Murilo Cardoso](https://github.com/murilobarbosaa)
 - [Yuvraj Sanap](https://github.com/YuvrajS99)
+- [Thrilochan](https://github.com/thrilochan7)
