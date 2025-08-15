@@ -37,6 +37,7 @@
 - [Rohith Macharla](https://github.com/RohithMacharla11)
 - [Arseniy-Dubovkin](https://github.com/AzartX47)
 - [Advik Hegde](https://github.com/AdvikHegde)
+- [Ayush Tiwari] (http://github.com/ayushtiwari1405)
 - [Siddharth Singh](https://github.com/babuasingh)
 - [Romesha Afzaal](https://github.com/Romeshaafzaal)
 - [Akhilanandateja Sanga](https://github.com/Akhilanandateja)
