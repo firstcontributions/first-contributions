@@ -442,6 +442,7 @@ Ben
 - [swev10swev](https://github.com/swev10swev)
 - [reihori](https://github.com/reihori)
 - [bereamk](https://github.com/bereamk)
+- [Chaitya Shah] (https://github.com/CShah44)
 - [Andyple](https://github.com/andyple)
 - [eulerBM](https://github.com/eulerBM)
 - [Jordy19](https://github.com/Jordy19)
