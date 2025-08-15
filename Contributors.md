@@ -1727,4 +1727,5 @@ jack - first contribution practice
 - [xraisik](https://github.com/xraisik)
 -[Jadon](https://github.com/JadonDn)
 -[Sarthak Maheshwari](https://github.com/SartMa)
+-[Gathik Jindal](https://github.com/gathik-jindal)
 - [Sample] 
