@@ -1,4 +1,5 @@
 # Contributors
+- [Shivek Ranjan](https://github.com/ShivekRanjan)
 - [Akul Anhith](https://github.com/aam2k6)
 - [Wycliffe Musau](https://github.com/Excellent58)
 -[Pragya Rai]
@@ -76,6 +77,7 @@
 - [Yash](https://github.com/yuishigam1)
 - [Abhi][https://github.com/Abhi-AIX]
 - [Chandru][https://github.com/P-Chandru]
+- [Arr0ws].[https://github.com/Arr0ws]
 - [Rizal][https://github.com/rizalilhamm]
 - [Samia-sh](https://github.com/samia-code0)
 - [Abdul-Jaleel Asani](https://github.com/Asani-A)
@@ -83,6 +85,7 @@
 - [Kanak](https://github.com/Kcode727)
 - [zwy98](https://github.com/zwy98)
 - [pa4uslf](https://github.com/pa4uslf)
+- Vriddhi
 - [Mudit Jain](https://github.com/muditjain1411)
 - [Arafath](https://github.com/Arafath-MSM)
 - [saiki kohei](https://github.com/saisai-web)
@@ -96,6 +99,7 @@
 - [Pierre](https://github.com/wiizzl)
 - [Jo](https://github.com/BeanboxNZ)
 - [Jainil Desai](https://github.com/jainilDesai)
+- [axby1](https://github.com/axby1)
 - [Jose Nieto](https://github.com/nietojose10)
 - [Ritesh Singh](https://github.com/ritesh355)
 - [Satrap18](https://github.com/Satrap18)
@@ -345,6 +349,7 @@ The-Yash-is-Joined
 - [levo](https://github.com/LeVo011)
 - [Mr0Miner](https://github.com/Mr0Miner)
 - [kazuma](https://github.com/Mio-3)
+- [Navish](https://github.com/Nishu1508)
 . [Luiki17] (https://github.com/Luiki17)
 - [Tournoy Noa](https://github.com/)
 -[MohamedSayed](https://github.com/mohammedsayed30)
@@ -1692,6 +1697,7 @@ Eoin O'B
 - [Sos Judge]
 - [Sreya Bhattacharjee](https://github.com/bsreya0906)
 - [Priya Kumari](https://github.com/priyayayayayaaa)
+- [Digvijaysinh Pawar](https://github.com/ImNotFound7)
 -[Prakriti Dwivedi](https://github.com/hiiamkarati)
 - [Himanshu Gohil](https://github.com/tghimanshu)
 [Prateek k](https://github.com/PRATEEKK9223)
@@ -1769,9 +1775,9 @@ jack - first contribution practice
 -[Stephen Ebichondo](https://github.com/sebichondo)
 - [xraisik](https://github.com/xraisik)
 -[Jadon](https://github.com/JadonDn)
+- [Sample] 
 -[Sarthak Maheshwari](https://github.com/SartMa)
 -[Gathik Jindal](https://github.com/gathik-jindal)
 -[Suryans Dash](https://github.com/suryans77)
 -[Bhavya Jain](https://github.com/Bhavzzzzzz)
-- [Sample]
 - [Abhirath Adamane](https://github.com/AbhirathA)
