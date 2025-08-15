@@ -10,6 +10,7 @@
 - [Jem Koeleman]
 - [Kaushalraj Puwar](https://github.com/kaushalrajpuwar)
 - [Ashok Reddy](https://github.com/ashokCh-dev)
+- [SVN Sai Sathvik](https://github.com/svnsaisathvik)
 - [Ramya Parsania](https://github.com/RAMYA-PARSANIA)
 - [Ronak Singh](https://github.com/RonakSingh2006)
 - [Ansh Gupta] (https://github.com/Ansh-Gupta0310)
