@@ -1809,3 +1809,4 @@ jack - first contribution practice
 -[Emir Kaan Ertuğrul](https://github.com/emirkddn)
 -[Sayyed Aaman](https://github.com/sayyedaaman2)
 -[Piyush Annigeri](https://github.com/piyushannigeri)
+-[Daniel Cook](https://github.com/randolchance)
