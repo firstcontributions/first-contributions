@@ -349,6 +349,7 @@ The-Yash-is-Joined
 -[Fyobei] (https://github.com/Waku-a11y)
 - [Nasrul](https://github.com/nnayz)
 - [Seul](https://github.com/seulahn)
+- [Aditya reddy](https://github.com/Adityareddy106)
 - [KG](https://github.com/kgoel9899)
 - [lzc](https://github.com/lzcooker)
 - [Parth](https://github.com/partth-code)
