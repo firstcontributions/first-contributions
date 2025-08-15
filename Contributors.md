@@ -21,6 +21,7 @@
 - [Sunday](https://github.com/Hao-tian)
 - [Demetris B.](https://github.com/deyil)
 - [Priyanshu Tiwari](https://github.com/d3monviking)
+- [Kartikeya Dimri](https://github.com/kartikeya-dimri)
 - [0xAnamul](https://github.com/0xAnamul)
 - [João Scarlateli](https://github.com/Scarlateli)
 - [Chandrahas](https://github.com/chandrahas121)
