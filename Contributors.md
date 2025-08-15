@@ -21,6 +21,7 @@
 - [Priyanshu Tiwari](https://github.com/d3monviking)
 - [0xAnamul](https://github.com/0xAnamul)
 - [João Scarlateli](https://github.com/Scarlateli)
+- [Chandrahas](https://github.com/chandrahas121)
 - [Devna jiya R](https://github.com/jiya22r)
 - [Vishwambar Manchewar](https://github.com/vishmanchewar)
 - [seon99il](https://github.com/seon99il)
