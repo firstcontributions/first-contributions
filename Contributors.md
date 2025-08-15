@@ -1694,6 +1694,7 @@ Eoin O'B
 - [Sos Judge]
 - [Sreya Bhattacharjee](https://github.com/bsreya0906)
 - [Priya Kumari](https://github.com/priyayayayayaaa)
+- [Digvijaysinh Pawar](https://github.com/ImNotFound7)
 -[Prakriti Dwivedi](https://github.com/hiiamkarati)
 - [Himanshu Gohil](https://github.com/tghimanshu)
 [Prateek k](https://github.com/PRATEEKK9223)
