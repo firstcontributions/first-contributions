@@ -10,6 +10,7 @@
 - [Jem Koeleman]
 - [rubik](https://github.com/rubiksfood)
 - [Benjamin Seddon](https://github.com/Seddo151)
+- [Ruben Legend](https://github.com/Ruben-legend)
 - [Kaushalraj Puwar](https://github.com/kaushalrajpuwar)
 - [Supreet Kaur](https://github.com/Supreetkaur1)
 - [Ashok Reddy](https://github.com/ashokCh-dev)
