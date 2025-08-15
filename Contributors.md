@@ -1769,9 +1769,13 @@ jack - first contribution practice
 -[Stephen Ebichondo](https://github.com/sebichondo)
 - [xraisik](https://github.com/xraisik)
 -[Jadon](https://github.com/JadonDn)
+<<<<<<< HEAD
 -[Sarthak Maheshwari](https://github.com/SartMa)
 -[Gathik Jindal](https://github.com/gathik-jindal)
 -[Suryans Dash](https://github.com/suryans77)
 -[Bhavya Jain](https://github.com/Bhavzzzzzz)
 - [Sample]
 - [Abhirath Adamane](https://github.com/AbhirathA)
+=======
+- [Santhosh Kiran](https://github.com/SanthoshKiran13)
+
