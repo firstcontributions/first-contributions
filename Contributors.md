@@ -48,6 +48,7 @@
 - [Kunal_Mittal](https://github.com/freakun0025)
 - [Rohith Macharla](https://github.com/RohithMacharla11)
 - [Arseniy-Dubovkin](https://github.com/AzartX47)
+- [Harsh Gupta](https://github.com/Reverent2005) 
 - [Advik Hegde](https://github.com/AdvikHegde)
 - [Siddharth Singh](https://github.com/babuasingh)
 - [Aishwarya Sharma](https://github.com/Aishrma)
