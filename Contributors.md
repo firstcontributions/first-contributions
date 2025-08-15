@@ -254,6 +254,7 @@ Shruti Tiwari
 - [Chris Q](https://github.com/Q-X-F)
 - [Harsh Sinha](https://github.com/iHarshSinha)
 - [Ramu Deyyam](https://github.com/Ramu-Deyyam)
+- [Vishnu](https://github.com/BVishnu9)
 - [Ashwath nakate](https://github.com/ashwathnakate)
 - [All the World's a Stage](https://github.com/Oolazile)
 - [Torben Kahnert](https://github.com/tmak2002)
