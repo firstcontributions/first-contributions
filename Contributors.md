@@ -1,4 +1,5 @@
 # Contributors
+- [Shashidhar](https://github.com/shashidharsai)
 - [Wycliffe Musau](https://github.com/Excellent58)
 - [Zohaib Khan](https://github.com/zohaibkhan745)
 - [Ronak Singh](https://github.com/RonakSingh2006)
@@ -9,7 +10,6 @@
 - [Sanajit Jana](https://github.com/sanajitjana)
 - [Harsh Thakare](https://github.com/harsh21234i)
 - [Rohit Rajvaidya](https://github.com/RohitRajvaidya5)
-- [Shashidhar](https://github.com/shashidharsai)
 - [Sachin vk](https://github.com/sachindasvk)
 - [Anirudh](https://github.com/anirudh240)
 - [Chathura](https://github.com/PrabashanaDev)
