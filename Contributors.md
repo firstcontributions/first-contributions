@@ -48,6 +48,7 @@
 - [Saptarsi Debnath](https://github.com/saptarsidebnath98)
 - [AmartyaPrakash](https://github.com/amartya69)
 - [Mantarey.dev](https://mantarey.dev)
+- [Manav Jindal_IMT2023535](https://github.com/Manav9547)
 - [Thabeswar](https://github.com/Thabeswar)
 - [Yash](https://github.com/yuishigam1)
 - [Abhi][https://github.com/Abhi-AIX]
@@ -66,6 +67,7 @@
 - [bithunter](https://github.com/bithunter744)
 - [zdp1](https://github.com/dongpeng6)
 - [Govinda Kandel](https://github.com/Govindakandel)
+- [Manav_IMT2023535](https://github.com/Manav9547)
 - [Vrund Patel](https://github.com/Vrund09)
 - [Pierre](https://github.com/wiizzl)
 - [Jo](https://github.com/BeanboxNZ)
