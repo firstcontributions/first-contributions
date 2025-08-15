@@ -206,6 +206,7 @@ Shruti Tiwari
 - [Hemant-Dua](https://github.com/Hemant-Dua)
 - [Krishna Sharma](https://github.com/KrishnaSharma206)
 - [Audrey W ](https://github.com/awhitneymiller)
+- Saheem Reshi
 - [Hafiz Muhammad Talal](https://github.com/talalhafizmuhammad)
 - [Shamir Ali](https://github.com/ShamirAli55)
 - [biroukYass] https://github.com/biroukYass/
