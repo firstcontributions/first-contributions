@@ -38,6 +38,7 @@
 - [KamalKant](https://github.com/kamal2730)
 - [Gods-ghost](https://github.com/dist34)
 - [Dev Gaonkar](https://github.com/DevGaonkar)
+- [Kunal_Mittal](https://github.com/freakun0025)
 - [Rohith Macharla](https://github.com/RohithMacharla11)
 - [Arseniy-Dubovkin](https://github.com/AzartX47)
 - [Advik Hegde](https://github.com/AdvikHegde)
