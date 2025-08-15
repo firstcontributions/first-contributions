@@ -20,6 +20,7 @@
 - [Likhitha](https://github.com/likhitha07)
 - [David Chamling Rai](https://github.com/Wadangkaa)
 - [Choudary Hussain Ali](https://github.com/choudaryhussainali)
+- [Areen Patil](https://github.com/areen-patil)
 - [Sunday](https://github.com/Hao-tian)
 - [Demetris B.](https://github.com/deyil)
 - [Priyanshu Tiwari](https://github.com/d3monviking)
