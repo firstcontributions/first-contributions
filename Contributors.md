@@ -87,6 +87,7 @@
 - [BorisovCloud](https://github.com/BorisovCloud)
 - [Kamdoum Loich](https://github.com/kamdoumloich)
 - [Tarun207](https://github.com/Tarun207)
+- [Navaneeth D](https://github.com/ar3s-nd)
 - [Oyeyemi Obaloluwa](https://github.com/sudo-init-do)
 - [Dhanjit Nath](https://github.com/developerDhanjit)
 - [Aryan Gusain](https://github.com/aryangusain)
