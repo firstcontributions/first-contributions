@@ -32,6 +32,7 @@
 - [cashtanowiec](https://github.com/cashtanowiec)
 - [Mattia Cocco](https://github.com/Matti02co)
 - [Isaac Lopez](https://github.com/IsaacLC1104)
+  [Yash Gupta](https://github.com/YashGupta2106)
 - [Nathan Hall](https://github.com/Zero4793)
 - [KamalKant](https://github.com/kamal2730)
 - [Gods-ghost](https://github.com/dist34)
