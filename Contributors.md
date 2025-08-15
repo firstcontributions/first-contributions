@@ -113,6 +113,7 @@
 - [Ritesh Singh](https://github.com/ritesh355)
 - [Satrap18](https://github.com/Satrap18)
 - [alluriakhil18](https://github.com/alluriakhil18)
+- [Aditya Rao]
 - [Muhammad Rafay Asif](https://github.com/muhammadrafayasif)
 - [Natnael Asnake](https://github.com/Nati-Man-code)
 - [Pushpesh](https://github.com/impushpesh)
