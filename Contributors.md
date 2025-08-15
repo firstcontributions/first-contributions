@@ -179,6 +179,7 @@ Shruti Tiwari
 - [Dimitri Voncleph](https://github.com/D-Voncleph)
 - [Davis Jr 🐱‍👤](https://github.com/dav15jr)
 - [Pro Kumar](https://github.com/pkumar2143)
+  [Pranay Kelotra](https://github.com/pkelotra)
 - [Ritesh Murmu](https://github.com/Ritesh-cloud)
 - [Vinh D Tran](https://github.com/s3500659)
 - [Harsh Rakholiya](https://github.com/arsh3396)
