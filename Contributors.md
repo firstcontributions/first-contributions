@@ -97,6 +97,7 @@
 - [Pierre](https://github.com/wiizzl)
 - [Jo](https://github.com/BeanboxNZ)
 - [Jainil Desai](https://github.com/jainilDesai)
+- [axby1](https://github.com/axby1)
 - [Jose Nieto](https://github.com/nietojose10)
 - [Ritesh Singh](https://github.com/ritesh355)
 - [Satrap18](https://github.com/Satrap18)
