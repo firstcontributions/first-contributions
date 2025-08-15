@@ -81,6 +81,7 @@
 - [bithunter](https://github.com/bithunter744)
 - [zdp1](https://github.com/dongpeng6)
 - [Govinda Kandel](https://github.com/Govindakandel)
+- [Trivedh Undi](https://github.com/maxinh00000)
 - [Vrund Patel](https://github.com/Vrund09)
 - [Krish Patel](https://github.com/kodercrish)
 - [Pierre](https://github.com/wiizzl)
