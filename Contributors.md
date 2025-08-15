@@ -9,6 +9,7 @@
 - [Aaryan Antala]
 - [Jem Koeleman]
 - [rubik](https://github.com/rubiksfood)
+- [Benjamin Seddon](https://github.com/Seddo151)
 - [Kaushalraj Puwar](https://github.com/kaushalrajpuwar)
 - [Ashok Reddy](https://github.com/ashokCh-dev)
 - [SVN Sai Sathvik](https://github.com/svnsaisathvik)
