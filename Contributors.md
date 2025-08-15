@@ -1,4 +1,5 @@
 # Contributors
+- [Akul Anhith](https://github.com/aam2k6)
 - [Wycliffe Musau](https://github.com/Excellent58)
 - [Zohaib Khan](https://github.com/zohaibkhan745)
 - [Ronak Singh](https://github.com/RonakSingh2006)
