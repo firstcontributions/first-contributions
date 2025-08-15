@@ -2,12 +2,13 @@
 - [Shashidhar](https://github.com/shashidharsai)
 - [Mathew Joseph](https://github.com/MJTheGreat3)
 - [Shivek Ranjan](https://github.com/ShivekRanjan)
-- [Akul Anhith](https://github.com/a
+- [Akul Anhith](https://github.com/akul)
 - [Wycliffe Musau](https://github.com/Excellent58)
--[Pragya Rai]
+- [Pragya Rai]()
 - [Zohaib Khan](https://github.com/zohaibkhan745)
-- [Aaryan Antala]
-- [Jem Koeleman]
+- [Aaryan Antala]()
+- [Jem Koeleman]()
+- [Jenna Hall](https://github.com/swejenna)
 - [rubik](https://github.com/rubiksfood)
 - [Benjamin Seddon](https://github.com/Seddo151)
 - [Ruben Legend](https://github.com/Ruben-legend)
@@ -18,9 +19,9 @@
 - [Ramya Parsania](https://github.com/RAMYA-PARSANIA)
 - [Mohammed Ibrahim](https://github.com/IbrahimMI124)
 - [Ronak Singh](https://github.com/RonakSingh2006)
-- [Ansh Gupta] (https://github.com/Ansh-Gupta0310)
-- [Kunal Jindal] (https://github.com/KunalJindal19)
-- [Vaishak Prasad Bhat] (https://github.com/vaishak-iiitb)
+- [Ansh Gupta](https://github.com/Ansh-Gupta0310)
+- [Kunal Jindal](https://github.com/KunalJindal19)
+- [Vaishak Prasad Bhat](https://github.com/vaishak-iiitb)
 - [Raj Soni](https://github.com/rajsonnii)
 - [Karan Dhiman](https://github.com/karandhiman12)
 - [Gurparsad Singh](https://github.com/gprathour)
