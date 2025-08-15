@@ -441,6 +441,7 @@ Ben
 - [Rey Jao](https://github.com/jao-rey)
 - [Eiheir](https://github.com/ebininin)
 - [brian](https://sl.bing.net/eOe8cTCKjEy)
+- [Chaitya Shah](https://github.com/CShah44)
 - [Intedai](https://github.com/Intedai)
 - [Noflare](https://github.com/Noflare)
 - [yohaku7](https://github.com/yohaku7)
