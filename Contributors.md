@@ -1346,7 +1346,7 @@ Eoin O'B
 - [mateus barauna](https://github.com/mateusbarauna97)
 - [Arjit shandilya](https://github.com/arjitshandilya)
 - [Shagun Sharma](https://github.com/shagunsharma6677)
-- [Garv_IMT2023505](https://github.com/GarvRajput17)
+- [Garv__IMT2023505](https://github.com/GarvRajput17)
 - [Sushanth hebri](https://github.com/Sushanth-Hebri/)
 - [Irakli Petriashvili](https://github.com/CortaSaire)
 - [JakeJeongAiden](https://github.com/JakeJeongAiden/)
