@@ -1,4 +1,4 @@
-# Contributors
+-[Rakshith Srinivasan] (https://github.com/rakhith)
 - [Shashidhar](https://github.com/shashidharsai)
 - [Mathew Joseph](https://github.com/MJTheGreat3)
 - [Shivek Ranjan](https://github.com/ShivekRanjan)
