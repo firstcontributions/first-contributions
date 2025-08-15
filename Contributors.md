@@ -7,6 +7,7 @@
 - [Srinivas Batthula](https://github.com/srinivas-batthula)
 - [Evan](https://github.com/ICreateStuff5)
 - [Sanajit Jana](https://github.com/sanajitjana)
+- [Manav_IMT535](https://github.com/Manav9547)
 - [Harsh Thakare](https://github.com/harsh21234i)
 - [Rohit Rajvaidya](https://github.com/RohitRajvaidya5)
 - [Sachin vk](https://github.com/sachindasvk)
