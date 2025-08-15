@@ -1,6 +1,6 @@
 # Contributors
-
 - [M S Dheeraj Murphy](https://github.com/Dheeraj-Murthy)
+- [Mathew Joseph](https://github.com/MJTheGreat3)
 - [Shivek Ranjan](https://github.com/ShivekRanjan)
 - [Akul Anhith](https://github.com/aam2k6)
 - [Wycliffe Musau](https://github.com/Excellent58) -[Pragya Rai]
@@ -48,6 +48,7 @@
 - [sajad thapa](https://github.com/sajadthapa04)
 - [mizuki](https://github.com/mizuresort)
 - [Priyanshu Tiwari](https://github.com/d3monviking)
+- [K.Jitin](https://github.com/jitin2508)
 - [cashtanowiec](https://github.com/cashtanowiec)
 - [Mattia Cocco](https://github.com/Matti02co)
 - [Isaac Lopez](https://github.com/IsaacLC1104)
@@ -352,6 +353,7 @@
 - [Tournoy Noa](https://github.com/) -[MohamedSayed](https://github.com/mohammedsayed30) -[Fyobei] (https://github.com/Waku-a11y)
 - [Nasrul](https://github.com/nnayz)
 - [Seul](https://github.com/seulahn)
+- [Aditya reddy](https://github.com/Adityareddy106)
 - [KG](https://github.com/kgoel9899)
 - [lzc](https://github.com/lzcooker)
 - [Parth](https://github.com/partth-code)
@@ -1016,6 +1018,7 @@
 - [Bhavishay Bharti](https://github.com/bhavi-b)
 - [Dascalu Dumitru](https://github.com/IronMemo)
 - [Keval Deepak](https://github.com/kevaldeepak)
+- [R Ricky Roger](htttps://github.com/RickRo77)
 - [JasonSA1993](https://github.com/JasonSa1993/)
 - [Suresh Deora](https://github.com/SureshDeora)
 - [Mohanshi Jain](https://github.com/Mohanshi04)
@@ -1751,3 +1754,16 @@
 - [xraisik](https://github.com/xraisik) -[Jadon](https://github.com/JadonDn)
 - [Sample] -[Sarthak Maheshwari](https://github.com/SartMa) -[Gathik Jindal](https://github.com/gathik-jindal) -[Suryans Dash](https://github.com/suryans77) -[Bhavya Jain](https://github.com/Bhavzzzzzz)
 - [Abhirath Adamane](https://github.com/AbhirathA) -[Murilo Cardoso](https://github.com/murilobarbosaa)
+- [Muhammed safvan p](https://github.com/M-Safvan-p)
+-[Priscila Fry](https://github.com/prifry)
+-[Stephen Ebichondo](https://github.com/sebichondo)
+- [xraisik](https://github.com/xraisik)
+-[Jadon](https://github.com/JadonDn)
+- [Sample] 
+-[Sarthak Maheshwari](https://github.com/SartMa)
+-[Gathik Jindal](https://github.com/gathik-jindal)
+-[Suryans Dash](https://github.com/suryans77)
+-[Bhavya Jain](https://github.com/Bhavzzzzzz)
+- [Abhirath Adamane](https://github.com/AbhirathA)
+-[Murilo Cardoso](https://github.com/murilobarbosaa)
+- [Yuvraj Sanap](https://github.com/YuvrajS99)
