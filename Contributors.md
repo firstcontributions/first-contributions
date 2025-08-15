@@ -3,6 +3,7 @@
 - [Zohaib Khan](https://github.com/zohaibkhan745)
 - [Ronak Singh](https://github.com/RonakSingh2006)
 - [Raj Soni](https://github.com/rajsonnii)
+- [GouravAnirudh](https://github.com/gouravanirudh05)
 - [Gurparsad Singh](https://github.com/gprathour)
 - [Srinivas Batthula](https://github.com/srinivas-batthula)
 - [Evan](https://github.com/ICreateStuff5)
