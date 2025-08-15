@@ -1399,6 +1399,7 @@ Eoin O'B
 - [Kit-Kat31415926](https://github.com/Kit-Kat31415926)
 - [Mukesh Kalikaya](https://github.com/Mukesh-Kalikaya)
 - [Vinicius Alves Amorim](https://github.com/am0rimdev)
+- [Siddharth Anil](https://github.com/sidnovates)
 - [Ashutosh Bhagat](https://github.com/ashutosh-bhagat)
 - [Isabella Mclean](https://github.com/Isabella-Mclean)
 - [Gautam Grover](https://github.com/Themistokles-2137)
