@@ -1467,6 +1467,7 @@ Eoin O'B
 - [Manoj Thilakarathna](https://github.com/manojtharindu11)
 - [Amelia (amyfisticuffs)](https://amyfisticuffs.github.io)
 - [Nuhu El Adj Souleymane](https://github.com/elsouleymane)
+- [schradz](https://github.com/schradz)
 - [Janvi Chetan Patel](https://github.com/JanviChetanPatel)
 - [pateldevashish001](https://github.com/PatelDevashish001)
 - [Cristian Leiton Valencia](https://github.com/crileiton/)
