@@ -1030,6 +1030,7 @@ Eoin O'B
 - [Bhavishay Bharti](https://github.com/bhavi-b)
 - [Dascalu Dumitru](https://github.com/IronMemo)
 - [Keval Deepak](https://github.com/kevaldeepak)
+- [R Ricky Roger](htttps://github.com/RickRo77)
 - [JasonSA1993](https://github.com/JasonSa1993/)
 - [Suresh Deora](https://github.com/SureshDeora)
 - [Mohanshi Jain](https://github.com/Mohanshi04)
