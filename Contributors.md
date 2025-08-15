@@ -42,6 +42,7 @@
 - [Arseniy-Dubovkin](https://github.com/AzartX47)
 - [Advik Hegde](https://github.com/AdvikHegde)
 - [Siddharth Singh](https://github.com/babuasingh)
+- [Aishwarya Sharma](https://github.com/Aishrma)
 - [Romesha Afzaal](https://github.com/Romeshaafzaal)
 - [Velidanda Krishna Sai](https://github.com/melohub-xbit)
 - [Akhilanandateja Sanga](https://github.com/Akhilanandateja)
