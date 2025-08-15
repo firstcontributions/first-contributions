@@ -100,6 +100,7 @@
 - [Kamdoum Loich](https://github.com/kamdoumloich)
 - [Tarun207](https://github.com/Tarun207)
 - [Oyeyemi Obaloluwa](https://github.com/sudo-init-do)
+- [Sunhith_Reddy](https://github.com/codetuscan)
 - [Dhanjit Nath](https://github.com/developerDhanjit)
 - [Aryan Gusain](https://github.com/aryangusain)
 - [zhan7236](https://github.com/zhan7236)
