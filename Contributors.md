@@ -1,7 +1,8 @@
 # Contributors
+- [Shashidhar](https://github.com/shashidharsai)
 - [Mathew Joseph](https://github.com/MJTheGreat3)
 - [Shivek Ranjan](https://github.com/ShivekRanjan)
-- [Akul Anhith](https://github.com/aam2k6)
+- [Akul Anhith](https://github.com/a
 - [Wycliffe Musau](https://github.com/Excellent58)
 -[Pragya Rai]
 - [Zohaib Khan](https://github.com/zohaibkhan745)
