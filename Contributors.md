@@ -7,6 +7,7 @@
 - [Zohaib Khan](https://github.com/zohaibkhan745)
 - [Aaryan Antala]
 - [Jem Koeleman]
+- [Kaushalraj Puwar](https://github.com/kaushalrajpuwar)
 - [Ashok Reddy](https://github.com/ashokCh-dev)
 - [Ramya Parsania](https://github.com/RAMYA-PARSANIA)
 - [Ronak Singh](https://github.com/RonakSingh2006)
