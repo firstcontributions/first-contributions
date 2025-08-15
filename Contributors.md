@@ -480,6 +480,7 @@ Ben
 - [APK]
 - [ZNezirov](https://github.com/ZNezirov)
 - [Sravanthi]
+- [Nishant khatri](https://github.com/nishant-khatri17)
 - [amoorali](https://github.com/amoorali)
 - [dev-knb](https://github.com/kimnambin)
 - [Disha520](https://github.com/Disha520)
