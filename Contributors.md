@@ -1709,6 +1709,7 @@ jack - first contribution practice
 - [Lusmaysh](https://github.com/lusmaysh)
 - [Sachin](https://github.com/Sachiiinnn)
 - [Anton Lysenko](https://github.com/AntonyCoder)
+- [Satyam Dewangan](https://github.com/Satyamashu05)
 - [Chirag Sharma](https://github.com/chirraaggggg)
 - [Gustavo Aguilar](https://github.com/gangeagui)
 - [magician10001](https://github.com/magician10001)
