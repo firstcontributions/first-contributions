@@ -12,6 +12,7 @@
 - [Rohit Rajvaidya](https://github.com/RohitRajvaidya5)
 - [Sachin vk](https://github.com/sachindasvk)
 - [Anirudh](https://github.com/anirudh240)
+- [Nirbhay Sharma](https://github.com/NirbhaySharma504)
 - [Chathura](https://github.com/PrabashanaDev)
 - [Commitaptian-A](https://github.com/CommitCaptain-A)
 - [Likhitha](https://github.com/likhitha07)
