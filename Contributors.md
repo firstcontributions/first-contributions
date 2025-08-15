@@ -1486,6 +1486,7 @@ Eoin O'B
 - [Michelle Mullane](https://github.com/MichelleMullane)
 - [Leonardo Lopes](https://github.com/leonardo-lopes-br)
 - [Sandeep Nalamaru](https://github.com/SandeepNalamaru)
+- [Marcus "MajorLinux" Summers](https://github.com/majorlinux)
 - [Oubai Bendjedidi](https://github.com/oubaibendjedidi)
 - [Ahmet Mert Şengöl](https://github.com/ahmertsengol)
 - [Ipshita Bhardwaj](https://github.com/ipshitabhardwaj)
