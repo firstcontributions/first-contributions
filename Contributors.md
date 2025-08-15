@@ -1686,6 +1686,7 @@ Eoin O'B
 [Muhammad Hamza Khan](https://github.com/orion-pax09)
 - [Pradeep Raj Savarapu] (https://github.com/Zanara)
 -[Devesh Patil](https://github.com/DeveshPatill)
+- [Lakshya](https://github.com/Lakshya-Kapoor)
 - [Adrian PC M](https://github.com/AdrianPCM)
 - [Jenkkss]
 - [Hariharasudhan M](https://github.com/Harimhs)
