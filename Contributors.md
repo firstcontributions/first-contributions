@@ -50,6 +50,7 @@
 - [Arseniy-Dubovkin](https://github.com/AzartX47)
 - [Harsh Gupta](https://github.com/Reverent2005) 
 - [Advik Hegde](https://github.com/AdvikHegde)
+- [Ayush Tiwari] (http://github.com/ayushtiwari1405)
 - [Siddharth Singh](https://github.com/babuasingh)
 - [Aishwarya Sharma](https://github.com/Aishrma)
 - [Romesha Afzaal](https://github.com/Romeshaafzaal)
