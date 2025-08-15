@@ -19,7 +19,7 @@
 - [Sunday](https://github.com/Hao-tian)
 - [Demetris B.](https://github.com/deyil)
 - [Priyanshu Tiwari](https://github.com/d3monviking)
-- [Harsh Sinha](https://github.com/harshsinha)
+- [Harsh Sinha](https://github.com/iHarshSinha)
 - [0xAnamul](https://github.com/0xAnamul)
 - [João Scarlateli](https://github.com/Scarlateli)
 - [Devna jiya R](https://github.com/jiya22r)
