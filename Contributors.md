@@ -247,6 +247,7 @@ Shruti Tiwari
 - [Mohamed Hossam](https://github.com/mo-hossam-stack)
 - [Jared Krandel]
 - Swastik
+- [Faust Levity](https://github.com/Faust-Levity)
 - [Revati Keskar](https://gihub.som/RevatiKeskar)
 - [Rohin Garg](https://github.com/rohingarg12)
 - Gurukiran Reddy AKA AstaReddy
