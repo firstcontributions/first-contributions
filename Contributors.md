@@ -43,6 +43,7 @@
 - [Advik Hegde](https://github.com/AdvikHegde)
 - [Siddharth Singh](https://github.com/babuasingh)
 - [Romesha Afzaal](https://github.com/Romeshaafzaal)
+- [Velidanda Krishna Sai](https://github.com/melohub-xbit)
 - [Akhilanandateja Sanga](https://github.com/Akhilanandateja)
 - [andyyou7549](https://github.com/andyyou7549)
 - [Asabul Hossain Mondal](https://github.com/asabulmondal)
