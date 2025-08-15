@@ -3,6 +3,7 @@
 - [Wycliffe Musau](https://github.com/Excellent58)
 - [Zohaib Khan](https://github.com/zohaibkhan745)
 - [Aaryan Antala]
+- [Ashok Reddy](https://github.com/ashokCh-dev)
 - [Ramya Parsania](https://github.com/RAMYA-PARSANIA)
 - [Ronak Singh](https://github.com/RonakSingh2006)
 - [Ansh Gupta] (https://github.com/Ansh-Gupta0310)
