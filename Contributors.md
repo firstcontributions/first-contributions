@@ -10,6 +10,7 @@
 - [Harsh Thakare](https://github.com/harsh21234i)
 - [Rohit Rajvaidya](https://github.com/RohitRajvaidya5)
 - [Sachin vk](https://github.com/sachindasvk)
+- [Nishant khatrii](https://github.com/nishant-khatri17)
 - [Anirudh](https://github.com/anirudh240)
 - [Chathura](https://github.com/PrabashanaDev)
 - [Commitaptian-A](https://github.com/CommitCaptain-A)
@@ -1723,5 +1724,6 @@ jack - first contribution practice
 -[Priscila Fry](https://github.com/prifry)
 -[Stephen Ebichondo](https://github.com/sebichondo)
 - [xraisik](https://github.com/xraisik)
+- [Nishant](https://github.com/nishant-khatri17)
 -[Jadon](https://github.com/JadonDn)
 - [Sample] 
