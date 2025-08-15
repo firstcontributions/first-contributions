@@ -146,6 +146,7 @@
 - [imsang27](https://github.com/imsang27)
 - [ismail2ov](https://github.com/ismail2ov)
 - [hzs](https://github.com/01312)
+- [Pvenkataramireddy](https://github.com/Venkat96r)
 - [forrest](https://github.com/frrst-ian)
 - [WobL256](https://github.com/WobL256)
 - [S1ngularty](https://github.com/S1ngularty)
