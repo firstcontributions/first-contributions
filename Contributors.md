@@ -1733,7 +1733,7 @@ Eoin O'B
 - [Vaibhav Patidar](https://github.com/VaibhavPatidar26)
 - [Ayush dabas](https://github.com/Ayush-Dabas)
 - [Ralph Merhi](https://github.com/ralph1233)
-[Muhammad Hamza Khan](https://github.com/orion-pax09)
+-[Muhammad Hamza Khan](https://github.com/orion-pax09)
 - [Pradeep Raj Savarapu] (https://github.com/Zanara)
 -[Devesh Patil](https://github.com/DeveshPatill)
 - [Lakshya](https://github.com/Lakshya-Kapoor)
@@ -1743,9 +1743,9 @@ Eoin O'B
 - [Kori Kosmos](https://github.com/KoriKosmos).
 ElkaFi - first contribution practice
 jack - first contribution practice
-[Shristhi Singh](https://github.com/shristhi-2908).
+=[Shristhi Singh](https://github.com/shristhi-2908).
 - [Viktor Kozlovskyi](https://github.com/Vitia10)
-[Rahman Karim](https://github.com/Rahmankarim)
+-[Rahman Karim](https://github.com/Rahmankarim)
 - [Elijah Weiss](https://github.com/eweiss4)
 - [Sanchi Tiwade](https://github.com/Sanchi-0804)
 - [ritik tyagi] (https://github.com/ritiktyagi979-droid)
@@ -1775,7 +1775,6 @@ jack - first contribution practice
 -[Stephen Ebichondo](https://github.com/sebichondo)
 - [xraisik](https://github.com/xraisik)
 -[Jadon](https://github.com/JadonDn)
-- [Sample] 
 -[Sarthak Maheshwari](https://github.com/SartMa)
 -[Gathik Jindal](https://github.com/gathik-jindal)
 -[Suryans Dash](https://github.com/suryans77)
