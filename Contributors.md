@@ -32,6 +32,7 @@
 - [Isaac Lopez](https://github.com/IsaacLC1104)
 - [Nathan Hall](https://github.com/Zero4793)
 - [KamalKant](https://github.com/kamal2730)
+- [Paritosh Tiwari]
 - [Gods-ghost](https://github.com/dist34)
 - [Dev Gaonkar](https://github.com/DevGaonkar)
 - [Rohith Macharla](https://github.com/RohithMacharla11)
