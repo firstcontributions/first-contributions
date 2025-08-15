@@ -1019,6 +1019,7 @@ Eoin O'B
 - [Mitchell Smith](https://github.com/msmit4095)
 - [Fabrizio Bellisai](https://github.com/bellisaidev)
 - [Abie Anders R](https://github.com/AbieAnders)
+- [Aryan Bansal](https://github.com/AryanAAB)
 - [Lemar Tokham](https://github.com/LemarTokham)
 - [Daniel Molina](https://github.com/molinafm30)
 - [Josmer Rodriguez](https://github.com/Josmerr)
