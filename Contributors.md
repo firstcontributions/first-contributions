@@ -138,6 +138,7 @@
 - [darkiss7](https://github.com/darkiss7)
 - [FAI8h](https://github.com/FAI8h)
 - [Chamesh Dinuka](https://github.com/chamesh2019)
+- [Shivam Pandya] 
 - [Ales Urankar](https://github.com/alesurankar)
 - [Krrish](https://github.com/venom827).
 - [Arjun](https://github.com/Silwal103)
