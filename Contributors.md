@@ -177,6 +177,7 @@ Shruti Tiwari
 -[farukh patel](https://github.com/Farukh-patel)
 - [Harry-GNS](https://github.com/Harry-GNS)
 - [Dimitri Voncleph](https://github.com/D-Voncleph)
+- [Krishna Chaitanya](https://github.com/KrishnaChaitanya16)
 - [Davis Jr 🐱‍👤](https://github.com/dav15jr)
 - [Pro Kumar](https://github.com/pkumar2143)
 - [Ritesh Murmu](https://github.com/Ritesh-cloud)
