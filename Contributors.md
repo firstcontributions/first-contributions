@@ -11,6 +11,7 @@
 - [rubik](https://github.com/rubiksfood)
 - [Benjamin Seddon](https://github.com/Seddo151)
 - [Kaushalraj Puwar](https://github.com/kaushalrajpuwar)
+- [Supreet Kaur](https://github.com/Supreetkaur1)
 - [Ashok Reddy](https://github.com/ashokCh-dev)
 - [SVN Sai Sathvik](https://github.com/svnsaisathvik)
 - [Ramya Parsania](https://github.com/RAMYA-PARSANIA)
