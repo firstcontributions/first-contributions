@@ -1,6 +1,7 @@
 # Contributors
 - [Wycliffe Musau](https://github.com/Excellent58)
 - [Zohaib Khan](https://github.com/zohaibkhan745)
+- [Aaryan Antala]
 - [Ronak Singh](https://github.com/RonakSingh2006)
 - [Ansh Gupta] (https://github.com/Ansh-Gupta0310)
 - [Raj Soni](https://github.com/rajsonnii)
