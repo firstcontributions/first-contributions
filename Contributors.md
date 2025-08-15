@@ -118,6 +118,7 @@
 - ayfayfayf
 - Farsat
 - [Farman Ali](https://github.com/farman-cloud)
+- [Praneeth](https://github.com/praneethem)
 - [Sam Ruiz](https://github.com/LiebesleidSam)
 - Mattias Thomasson (https://github.com/MattiasThomasson)
 - [Aditya Semalti](https://github.com/adityasemalti)
