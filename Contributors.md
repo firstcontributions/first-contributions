@@ -29,6 +29,7 @@
 - [sajad thapa](https://github.com/sajadthapa04)
 - [mizuki](https://github.com/mizuresort)
 - [Priyanshu Tiwari](https://github.com/d3monviking)
+- [Sriram Srikanth](https://github.com/Humanoid2005)
 - [cashtanowiec](https://github.com/cashtanowiec)
 - [Mattia Cocco](https://github.com/Matti02co)
 - [Isaac Lopez](https://github.com/IsaacLC1104)
