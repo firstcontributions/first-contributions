@@ -28,6 +28,7 @@
 - [Ms_Njuguna](https://github.com/Ms-Njuguna)
 - [sajad thapa](https://github.com/sajadthapa04)
 - [mizuki](https://github.com/mizuresort)
+- [Priyanshu Tiwari](https://github.com/d3monviking)
 - [cashtanowiec](https://github.com/cashtanowiec)
 - [Mattia Cocco](https://github.com/Matti02co)
 - [Isaac Lopez](https://github.com/IsaacLC1104)
