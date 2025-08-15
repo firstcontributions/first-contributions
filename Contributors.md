@@ -81,7 +81,6 @@
 - [Harshdeep Singh](https://github.com/HarshdeepS1)
 - [jonas461](https://github.com/jonas461)
 - [Pranit Gore](https://github.com/PRANIT0605)
-- [BookwormBoy](https://github.com/BookwormBoy)
 - [leoweo1](https://github.com/leoweo1)
 - [Asianzu Henry](https://github.com/asianzuhenry)
 - [Alejandro](https://github.com/Jano2402)
@@ -138,6 +137,7 @@
 - [Prem Kumar T G](https://github.com/prem7129) 
 - [darkiss7](https://github.com/darkiss7)
 - [FAI8h](https://github.com/FAI8h)
+- [BookwormBoy](https://github.com/BookwormBoy)
 - [Chamesh Dinuka](https://github.com/chamesh2019)
 - [Ales Urankar](https://github.com/alesurankar)
 - [Krrish](https://github.com/venom827).
