@@ -12,7 +12,7 @@
 - [Rohit Rajvaidya](https://github.com/RohitRajvaidya5)
 - [Sachin vk](https://github.com/sachindasvk)
 - [Anirudh](https://github.com/anirudh240)
-- [vijay vignesh_imt2023031](https://github.com/phantomxd960)
+- [vijay vignesh](https://github.com/phantomxd960)
 - [Chathura](https://github.com/PrabashanaDev)
 - [Commitaptian-A](https://github.com/CommitCaptain-A)
 - [Likhitha](https://github.com/likhitha07)
