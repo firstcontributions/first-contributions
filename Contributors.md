@@ -40,6 +40,7 @@
 - [Arseniy-Dubovkin](https://github.com/AzartX47)
 - [Advik Hegde](https://github.com/AdvikHegde)
 - [Siddharth Singh](https://github.com/babuasingh)
+- [Aishwarya Sharma](https://github.com/Aishrma)
 - [Romesha Afzaal](https://github.com/Romeshaafzaal)
 - [Akhilanandateja Sanga](https://github.com/Akhilanandateja)
 - [andyyou7549](https://github.com/andyyou7549)
