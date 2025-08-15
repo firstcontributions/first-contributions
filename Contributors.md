@@ -1798,3 +1798,4 @@ jack - first contribution practice
 - [Thrilochan](https://github.com/thrilochan7)
 -[Atharva Joshi] (https://github.com/Atharva-Joshi8999)
 -[Lakshya Sachan](https://github.com/anonym1o)
+-[Emir Kaan Ertuğrul](https://github.com/emirkddn)
