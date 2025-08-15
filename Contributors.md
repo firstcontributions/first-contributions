@@ -181,6 +181,7 @@ Shruti Tiwari
 - Abdullah Zulfiqar(https://github.com/AbdullahZulfiqar2005)
 - [codemikemike](https://github.com/codemikemike)
 - [raghav](https://github.com/raghavvag)
+- [Aryan Bansal](https://github.com/AryanAAB)
 - [Raphael-W](https://github.com/Raphael-W)
 - [sRs] (https://github.com/SRS30)
 - AdaltoGunther
