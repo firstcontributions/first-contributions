@@ -27,6 +27,7 @@
 - [Evan](https://github.com/ICreateStuff5)
 - [Pranav Sandeep](https://github.com/Pranavv0307)
 - [Sanajit Jana](https://github.com/sanajitjana)
+- [Mark Finerty](https://github.com/Mork7)
 - [Harsh Thakare](https://github.com/harsh21234i)
 - [Rohit Rajvaidya](https://github.com/RohitRajvaidya5)
 - [Sachin vk](https://github.com/sachindasvk)
