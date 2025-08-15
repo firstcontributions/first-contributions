@@ -9,7 +9,10 @@
 - [Zohaib Khan](https://github.com/zohaibkhan745)
 - [Aaryan Antala]
 - [Jem Koeleman]
+- [rubik](https://github.com/rubiksfood)
+- [Benjamin Seddon](https://github.com/Seddo151)
 - [Kaushalraj Puwar](https://github.com/kaushalrajpuwar)
+- [Supreet Kaur](https://github.com/Supreetkaur1)
 - [Ashok Reddy](https://github.com/ashokCh-dev)
 - [SVN Sai Sathvik](https://github.com/svnsaisathvik)
 - [Ramya Parsania](https://github.com/RAMYA-PARSANIA)
@@ -25,6 +28,7 @@
 - [Evan](https://github.com/ICreateStuff5)
 - [Pranav Sandeep](https://github.com/Pranavv0307)
 - [Sanajit Jana](https://github.com/sanajitjana)
+- [Mark Finerty](https://github.com/Mork7)
 - [Harsh Thakare](https://github.com/harsh21234i)
 - [Rohit Rajvaidya](https://github.com/RohitRajvaidya5)
 - [Sachin vk](https://github.com/sachindasvk)
@@ -1474,6 +1478,7 @@
 - [Michelle Mullane](https://github.com/MichelleMullane)
 - [Leonardo Lopes](https://github.com/leonardo-lopes-br)
 - [Sandeep Nalamaru](https://github.com/SandeepNalamaru)
+- [Marcus "MajorLinux" Summers](https://github.com/majorlinux)
 - [Oubai Bendjedidi](https://github.com/oubaibendjedidi)
 - [Ahmet Mert Şengöl](https://github.com/ahmertsengol)
 - [Ipshita Bhardwaj](https://github.com/ipshitabhardwaj)
@@ -1762,4 +1767,3 @@
 - [Sample] -[Sarthak Maheshwari](https://github.com/SartMa) -[Gathik Jindal](https://github.com/gathik-jindal) -[Suryans Dash](https://github.com/suryans77) -[Bhavya Jain](https://github.com/Bhavzzzzzz)
 - [Abhirath Adamane](https://github.com/AbhirathA) -[Murilo Cardoso](https://github.com/murilobarbosaa)
 - [Yuvraj Sanap](https://github.com/YuvrajS99)
-- [Thrilochan](https://github.com/thrilochan7) -[Atharva Joshi] (https://github.com/Atharva-Joshi8999) -[Lakshya Sachan](https://github.com/anonym1o) -[Emir Kaan Ertuğrul](https://github.com/emirkddn)
