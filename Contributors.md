@@ -1,4 +1,5 @@
 # Contributors
+- [Shivek Ranjan](https://github.com/ShivekRanjan)
 - [Akul Anhith](https://github.com/aam2k6)
 - [Wycliffe Musau](https://github.com/Excellent58)
 -[Pragya Rai]
