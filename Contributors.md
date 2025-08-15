@@ -1,6 +1,7 @@
 # Contributors
 - [Akul Anhith](https://github.com/aam2k6)
 - [Wycliffe Musau](https://github.com/Excellent58)
+-[Pragya Rai]
 - [Zohaib Khan](https://github.com/zohaibkhan745)
 - [Aaryan Antala]
 - [Ramya Parsania](https://github.com/RAMYA-PARSANIA)
