@@ -763,6 +763,7 @@ Eoin O'B
 - [SaginalaAzeez](https://github.com/asheedh)
 - [Eric-DaRosa](https://github.com/EricDar12)
 - [Vernwalker](https://github.com/Vernwalker)
+- Arnav Oruganty
 - [RahulRawat](https://github.com/RHL-RWT-01)
 - [Sal Adrian](https://github.com/Sal-Adrian)
 - [xnm-sdksdk](https://github.com/xnm-sdksdk)
