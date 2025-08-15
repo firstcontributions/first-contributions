@@ -1748,4 +1748,5 @@ jack - first contribution practice
 -[Jadon](https://github.com/JadonDn)
 -[Sarthak Maheshwari](https://github.com/SartMa)
 -[Gathik Jindal](https://github.com/gathik-jindal)
+-[Suryans Dash](https://github.com/suryans77)
 - [Sample] 
