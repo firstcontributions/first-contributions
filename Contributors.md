@@ -6,6 +6,7 @@
 - [Ramya Parsania](https://github.com/RAMYA-PARSANIA)
 - [Ronak Singh](https://github.com/RonakSingh2006)
 - [Ansh Gupta] (https://github.com/Ansh-Gupta0310)
+- [Kunal Jindal] (https://github.com/KunalJindal19)
 - [Raj Soni](https://github.com/rajsonnii)
 - [Karan Dhiman](https://github.com/karandhiman12)
 - [Gurparsad Singh](https://github.com/gprathour)
@@ -60,6 +61,7 @@
 - [andyyou7549](https://github.com/andyyou7549)
 - [Asabul Hossain Mondal](https://github.com/asabulmondal)
 - [ananya](https://github.com/ankashyap)
+- [Nainika Agrawal](https://github.com/nainika0305)
 - [Sahil Kolte](https://github.com/sahilakolte)
 - [WebX Beyond](https://github.com/webxbeyond)
 - [Brian Gonzalez Manresa](https://github.com/briangm98nevermore)
@@ -119,6 +121,7 @@
 - [Karthika Suresh](https://github.com/Karthika125)
 - donman420🍃
 - [faithful](https://github.com/f4ithful)
+- [Parv](https://github.com/parv1601)
 - [Ginny](https://github.com/ginnysingh789)
 - [Nate](https://github.com/ipdor)
 - [Chirg Veerwani](https://github.com/chiragveerwani)
@@ -1764,4 +1767,5 @@ jack - first contribution practice
 -[Gathik Jindal](https://github.com/gathik-jindal)
 -[Suryans Dash](https://github.com/suryans77)
 -[Bhavya Jain](https://github.com/Bhavzzzzzz)
-- [Sample] 
+- [Sample]
+- [Abhirath Adamane](https://github.com/AbhirathA)
