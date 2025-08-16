@@ -10,6 +10,7 @@
 - [Aaryan Antala]()
 - [Mopuri Abhiram]()
 - [Jem Koeleman]()
+- [Madhu Dora]()
 - [Jenna Hall](https://github.com/swejenna)
 - [Ankit Aggarwal](https://curious.pm)
 - [rubik](https://github.com/rubiksfood)
