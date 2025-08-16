@@ -1,4 +1,5 @@
 # Contributors
+-[Zainab Travadi](https://github.com/ZainabTravadi)
 - [Rakshith Srinivasan](https://github.com/rakhith)
 - [Archit Jaju](https://github.com/ayhm23)
 - [Shashidhar](https://github.com/shashidharsai)
