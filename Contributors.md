@@ -35,6 +35,7 @@
 - [Harsh Thakare](https://github.com/harsh21234i)
 - [Rohit Rajvaidya](https://github.com/RohitRajvaidya5)
 - [Sachin vk](https://github.com/sachindasvk)
+- [Nishant khatrii](https://github.com/nishant-khatri17)
 - [Ayush Mishra](https://github.com/Ayush-Mishra-0018)
 - [Anirudh](https://github.com/anirudh240)
 - []
@@ -565,6 +566,7 @@ Ben
 - [APK]
 - [ZNezirov](https://github.com/ZNezirov)
 - [Sravanthi]
+- [Nishant khatri](https://github.com/nishant-khatri17)
 - [amoorali](https://github.com/amoorali)
 - [dev-knb](https://github.com/kimnambin)
 - [Disha520](https://github.com/Disha520)
@@ -1823,6 +1825,7 @@ jack - first contribution practice
 -[Stephen Ebichondo](https://github.com/sebichondo)
 - [Inês Lemos Ribeiro](https://github.com/InesssRibeiro)
 - [xraisik](https://github.com/xraisik)
+- [Nishant](https://github.com/nishant-khatri17)
 -[Jadon](https://github.com/JadonDn)
 - [GouravAnirudh](https://github.com/gouravanirudh05)
 -[Sarthak Maheshwari](https://github.com/SartMa)
