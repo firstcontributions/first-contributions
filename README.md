@@ -1,3 +1,11 @@
+## ⚠️ Important Guidelines for Editing Contributors.md
+
+- Please **do NOT edit or delete existing lines** in Contributors.md.
+- Only **add your name as a new line at the end** of the file.
+- Use the following format for your entry:
+
+
+
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
