@@ -8,6 +8,7 @@
 - [Zohaib Khan](https://github.com/zohaibkhan745)
 - [Aaryan Antala]
 - [Jem Koeleman]
+- [Ankit Aggarwal](https://curious.pm)
 - [rubik](https://github.com/rubiksfood)
 - [Benjamin Seddon](https://github.com/Seddo151)
 - [Ruben Legend](https://github.com/Ruben-legend)
