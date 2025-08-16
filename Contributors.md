@@ -10,6 +10,7 @@
 - [Zohaib Khan](https://github.com/zohaibkhan745)
 - [Aaryan Antala]()
 - [Mopuri Abhiram]()
+- [Prashanth-000](https://github.com/Prashanth-000)
 - [Jem Koeleman]()
 - [Madhu Dora]()
 - [Jenna Hall](https://github.com/swejenna)
