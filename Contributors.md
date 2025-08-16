@@ -1851,10 +1851,9 @@ jack - first contribution practice
 -[Atharva Joshi] (https://github.com/Atharva-Joshi8999)
 -[Lakshya Sachan](https://github.com/anonym1o)
 -[Emir Kaan Ertuğrul](https://github.com/emirkddn)
-
 -[Sayyed Aaman](https://github.com/sayyedaaman2)
 -[Piyush Annigeri](https://github.com/piyushannigeri)
 -[Daniel Cook](https://github.com/randolchance)
 -[Christian Roed Boyles](https://github.com/rockyroed)
 -[Ryan-hub-404](https://github.com/Ryan-hub-404)
-[jeterrrrrrr](https://github.com/jeterrrrrrr)
+-[jeterrrrrrr](https://github.com/jeterrrrrrr)
