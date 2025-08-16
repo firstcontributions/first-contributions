@@ -30,6 +30,7 @@
 - [Evan](https://github.com/ICreateStuff5)
 - [Pranav Sandeep](https://github.com/Pranavv0307)
 - [Sanajit Jana](https://github.com/sanajitjana)
+- [Manav_IMT535](https://github.com/Manav9547)
 - [Mark Finerty](https://github.com/Mork7)
 - [Harsh Thakare](https://github.com/harsh21234i)
 - [Rohit Rajvaidya](https://github.com/RohitRajvaidya5)
@@ -93,6 +94,7 @@
 - [Saptarsi Debnath](https://github.com/saptarsidebnath98)
 - [AmartyaPrakash](https://github.com/amartya69)
 - [Mantarey.dev](https://mantarey.dev)
+- [Manav Jindal_IMT2023535](https://github.com/Manav9547)
 - [Thabeswar](https://github.com/Thabeswar)
 - [Yash](https://github.com/yuishigam1)
 - [Abhi][https://github.com/Abhi-AIX]
