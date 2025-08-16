@@ -1594,6 +1594,7 @@ Eoin O'B
 - gadalova
 - [Yeaabsra Ashebir (tech nerd)](https://github.com/yeabnoah)
 - [gabecodessometimes](https://github.com/gabecodessometimes)
+- [Yonas Girma](https://github.com/J0na555)
 - [TsvetislavRangelov](https://github.com/TsvetislavRangelov)
 - [Tornike Tsulukidze](https://github.com/TheMechanicalBeing)
 - [Benjamin Tsoumagas](https://github.com/tsoumagas-benjamin)
