@@ -1680,6 +1680,7 @@ Eoin O'B
 -MAHEK GUPTA!!!!!
 - Martin
 - Mubarak
+- Jonathan (https://github.com/jonathan-200)
 - [Isaac F](https://github.com/YellowFlello)
 - [SoullesKev](https://github.com/Sadirock)
 -[Bandaru Vighneshwar Rao](https://github.com/)
