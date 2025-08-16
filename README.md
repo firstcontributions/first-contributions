@@ -92,6 +92,15 @@ This project aims to simplify and guide the way beginners make their first contr
 
 _If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
 
+> [!TIP]
+> **Prefer Dark Mode?** 🌙
+> For a better coding experience, you can enable GitHub's dark mode:
+> 1. Click your profile picture in the top right corner
+> 2. Go to **Settings** → **Appearance**  
+> 3. Select **Dark** or **Dark dimmed** theme
+> 
+> This will make the GitHub interface easier on your eyes while following this tutorial!
+
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 #### If you don't have git on your machine, [install it](https://docs.github.com/en/get-started/quickstart/set-up-git).
