@@ -867,6 +867,7 @@ Eoin O'B
 - [Vernwalker](https://github.com/Vernwalker)
 - Arnav Oruganty
 - [RahulRawat](https://github.com/RHL-RWT-01)
+- [James](https://github.com/jwunet)
 - [Sal Adrian](https://github.com/Sal-Adrian)
 - [xnm-sdksdk](https://github.com/xnm-sdksdk)
 - [Luís Simas](https://github.com/luissimas)
