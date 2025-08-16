@@ -151,6 +151,7 @@
 - [Pranit Gore](https://github.com/PRANIT0605)
 - [leoweo1](https://github.com/leoweo1)
 - [Asianzu Henry](https://github.com/asianzuhenry)
+- [Ayush Gupta](https://github.com/AyushGupta11442)
 - [Alejandro](https://github.com/Jano2402)
 - [BorisovCloud](https://github.com/BorisovCloud)
 - [Kamdoum Loich](https://github.com/kamdoumloich)
