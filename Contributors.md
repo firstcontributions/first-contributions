@@ -1814,6 +1814,7 @@ jack - first contribution practice
 - [Muhammed safvan p](https://github.com/M-Safvan-p)
 -[Priscila Fry](https://github.com/prifry)
 -[Stephen Ebichondo](https://github.com/sebichondo)
+- [Inês Lemos Ribeiro](https://github.com/InesssRibeiro)
 - [xraisik](https://github.com/xraisik)
 -[Jadon](https://github.com/JadonDn)
 - [GouravAnirudh](https://github.com/gouravanirudh05)
