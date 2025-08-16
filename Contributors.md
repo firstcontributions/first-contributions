@@ -148,9 +148,9 @@
 - [Ginny](https://github.com/ginnysingh789)
 - [Nate](https://github.com/ipdor)
 - [Chirg Veerwani](https://github.com/chiragveerwani)
+- [Final Year Group 9](https://github.com/finalyeargroup9)
 - [Arthur Döhler](https://github.com/herrdohler)
--[tka][https://github.com/theinkhaaung007]
--[Final Year Group 9][https://github.com/finalyeargroup9]
+- [tka](https://github.com/theinkhaaung007)
 - Mrunali
 - Anshuman Semwal
 - [Moresh](https://github.com/Moresh-Mishra)
