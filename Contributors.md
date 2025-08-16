@@ -8,6 +8,7 @@
 - [Pragya Rai]()
 - [Zohaib Khan](https://github.com/zohaibkhan745)
 - [Aaryan Antala]()
+- [Mopuri Abhiram]()
 - [Jem Koeleman]()
 - [Jenna Hall](https://github.com/swejenna)
 - [Ankit Aggarwal](https://curious.pm)
