@@ -840,6 +840,7 @@ Eoin O'B
 - [Zach Warmoth](https://github.com/ZWarmoth)
 - [Navneet Yadav](https://github.com/navnt00)
 - [Arun G Jose](https://github.com/arungjose)
+- [Jon Ayre](https://github.com/Jonalanayre)
 - [oluwasegun](https://github.com/Optimist19)
 - [oogway-x3t](https://github.com/oogway-x3t)
 - [davidw1281](https://github.com/davidw1281)
