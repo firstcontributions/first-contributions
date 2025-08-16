@@ -1,13 +1,14 @@
--[Rakshith Srinivasan] (https://github.com/rakhith)
+# Contributors
+- [Rakshith Srinivasan](https://github.com/rakhith)
 - [Shashidhar](https://github.com/shashidharsai)
 - [Mathew Joseph](https://github.com/MJTheGreat3)
 - [Shivek Ranjan](https://github.com/ShivekRanjan)
 - [Akul Anhith](https://github.com/a
 - [Wycliffe Musau](https://github.com/Excellent58)
--[Pragya Rai]
+- [Pragya Rai]()
 - [Zohaib Khan](https://github.com/zohaibkhan745)
-- [Aaryan Antala]
-- [Jem Koeleman]
+- [Aaryan Antala]()
+- [Jem Koeleman]()
 - [Ankit Aggarwal](https://curious.pm)
 - [rubik](https://github.com/rubiksfood)
 - [Benjamin Seddon](https://github.com/Seddo151)
@@ -19,9 +20,9 @@
 - [Ramya Parsania](https://github.com/RAMYA-PARSANIA)
 - [Mohammed Ibrahim](https://github.com/IbrahimMI124)
 - [Ronak Singh](https://github.com/RonakSingh2006)
-- [Ansh Gupta] (https://github.com/Ansh-Gupta0310)
-- [Kunal Jindal] (https://github.com/KunalJindal19)
-- [Vaishak Prasad Bhat] (https://github.com/vaishak-iiitb)
+- [Ansh Gupta](https://github.com/Ansh-Gupta0310)
+- [Kunal Jindal](https://github.com/KunalJindal19)
+- [Vaishak Prasad Bhat](https://github.com/vaishak-iiitb)
 - [Raj Soni](https://github.com/rajsonnii)
 - [Karan Dhiman](https://github.com/karandhiman12)
 - [Gurparsad Singh](https://github.com/gprathour)
@@ -43,7 +44,7 @@
 - [Likhitha](https://github.com/likhitha07)
 - [Nikunj](https://github.com/nikunj69)
 - [David Chamling Rai](https://github.com/Wadangkaa)
--Sasank
+- Sasank
 - [Choudary Hussain Ali](https://github.com/choudaryhussainali)
 - [Areen Patil](https://github.com/areen-patil)
 - [Sunday](https://github.com/Hao-tian)
@@ -65,7 +66,7 @@
 - [cashtanowiec](https://github.com/cashtanowiec)
 - [Mattia Cocco](https://github.com/Matti02co)
 - [Isaac Lopez](https://github.com/IsaacLC1104)
-  [Yash Gupta](https://github.com/YashGupta2106)
+- [Yash Gupta](https://github.com/YashGupta2106)
 - [Nathan Hall](https://github.com/Zero4793)
 
 - [KamalKant](https://github.com/kamal2730)
