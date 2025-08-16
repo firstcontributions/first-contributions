@@ -1,4 +1,6 @@
 # Contributors
+- [Noor Jellani](https://github.com/nurulain0)
+- [Rakshith Srinivasan](https://github.com/rakhith)
 - [Rakshith Srinivasan](https://github.com/rakhith)
 - [Archit Jaju](https://github.com/ayhm23)
 - [Shashidhar](https://github.com/shashidharsai)
