@@ -282,6 +282,7 @@ P Venkata Rami Reddy
 - [Mokshith]
 - [Pinion](https://pinion.kr)
 - [jürgen vanzeir]
+- [yeisondev001 💎](https://github.com/yeisondev001)
 - [ZMM-zhangmanman]
 - [Andrea Moguel](https://github.com/amoguelk)
 - [Akshat Jain](https://github.com/akshat2604)
