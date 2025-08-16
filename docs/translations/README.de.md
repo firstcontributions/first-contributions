@@ -60,7 +60,7 @@ Beispiel:
 git checkout -b add-max-mustermann
 ```
 
-(Der Name des Branches muss nicht unbedingt das Wort *add* beinhalten, aber hier ist es sinnvoll, denn der Zweck deines Branches ist es ja, deinen Namen zur Liste hinzuzufügen.)
+(Der Name des Branches muss nicht unbedingt das Wort _add_ beinhalten, aber hier ist es sinnvoll, denn der Zweck deines Branches ist es ja, deinen Namen zur Liste hinzuzufügen.)
 
 ## Mache die nötigen Änderungen und committe sie
 
@@ -106,7 +106,7 @@ Roshan Jossey wird nun deine Änderungen in den Master-Branch dieses Projekts me
 
 ## Wie geht es weiter?
 
-Glückwunsch! Du hast soeben den Standard-Workflow *Fork -> Clone -> Edit -> Pull Request* beendet, der dir als Mitwirkender häufig begegnen wird.
+Glückwunsch! Du hast soeben den Standard-Workflow _Fork -> Clone -> Edit -> Pull Request_ beendet, der dir als Mitwirkender häufig begegnen wird.
 
 Feiere deinen Beitrag zum Projekt und teile ihn mit deinen Freunden und Followern über unsere [Web-App](https://firstcontributions.github.io/#social-share).
 
