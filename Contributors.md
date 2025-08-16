@@ -135,6 +135,7 @@
 - [Aditya Rao]
 - [Muhammad Rafay Asif](https://github.com/muhammadrafayasif)
 - [Natnael Asnake](https://github.com/Nati-Man-code)
+- [Smith514] (https://github.com/Smith514)
 - [Pushpesh](https://github.com/impushpesh)
 - [fireghostman](https://github.com/frameghostman)
 - [Harshdeep Singh](https://github.com/HarshdeepS1)
