@@ -66,6 +66,7 @@
 - [Isaac Lopez](https://github.com/IsaacLC1104)
   [Yash Gupta](https://github.com/YashGupta2106)
 - [Nathan Hall](https://github.com/Zero4793)
+
 - [KamalKant](https://github.com/kamal2730)
 - [Gods-ghost](https://github.com/dist34)
 - [Dev Gaonkar](https://github.com/DevGaonkar)
@@ -168,6 +169,7 @@
 - ayfayfayf
 - Farsat
 - [Farman Ali](https://github.com/farman-cloud)
+- [Praneeth](https://github.com/praneethem)
 - [Sam Ruiz](https://github.com/LiebesleidSam)
 - Mattias Thomasson (https://github.com/MattiasThomasson)
 - [Aditya Semalti](https://github.com/adityasemalti)
