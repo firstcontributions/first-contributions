@@ -114,6 +114,7 @@
 - [axby1](https://github.com/axby1)
 - [Jose Nieto](https://github.com/nietojose10)
 - [Ritesh Singh](https://github.com/ritesh355)
+- [Pulindu pasanjith](https://github.com/pulindu117)
 - [Satrap18](https://github.com/Satrap18)
 - [alluriakhil18](https://github.com/alluriakhil18)
 - [Aditya Rao]
