@@ -81,6 +81,7 @@
 - [KamalKant](https://github.com/kamal2730)
 - [Paritosh Tiwari]
 - [Gods-ghost](https://github.com/dist34)
+  [Eritrix](https://github.com/Eritrix)
 - [Dev Gaonkar](https://github.com/DevGaonkar)
 - [Kunal_Mittal](https://github.com/freakun0025)
 - [Rohith Macharla](https://github.com/RohithMacharla11)
