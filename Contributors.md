@@ -77,7 +77,7 @@
 - [Isaac Lopez](https://github.com/IsaacLC1104)
 - [Yash Gupta](https://github.com/YashGupta2106)
 - [Nathan Hall](https://github.com/Zero4793)
-
+- [Rakesh Vanam](https://github.com/rakeshvanam6868)
 - [KamalKant](https://github.com/kamal2730)
 - [Paritosh Tiwari]
 - [Gods-ghost](https://github.com/dist34)
