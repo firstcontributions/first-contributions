@@ -1770,6 +1770,7 @@ Eoin O'B
 - [Rumesha Ansari](https://github.com/Rumesha400)
 - [Rudraraj Pandey](https://github.com/heelR3)
 - [Maxi Rebolo](https://github.com/MaxiR23)
+- [Muhammed Fahis](https://github.com/Muhammed-Fahis)
 - [Arjun Sunil](https://github.com/arjunsunil-boop)
 - [Angel Sara](https://github.com/Angelishere)
 - [Georgios Karampelos](https://github.com/gkarabelos)
