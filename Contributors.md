@@ -93,6 +93,7 @@
 - [Ayush Tiwari] (http://github.com/ayushtiwari1405)
 - [Siddharth Singh](https://github.com/babuasingh)
 - [Aishwarya Sharma](https://github.com/Aishrma)
+- [Prajwal Chopade](https://github.com/PrajwalChopade)
 - [Romesha Afzaal](https://github.com/Romeshaafzaal)
 - [Velidanda Krishna Sai](https://github.com/melohub-xbit)
 - [Akhilanandateja Sanga](https://github.com/Akhilanandateja)
