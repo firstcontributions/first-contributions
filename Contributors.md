@@ -1898,3 +1898,4 @@ jack - first contribution practice
 -[Anurath](https://github.com/ImAnurath)
 - [Prasanna Nage](https://github.com/Prasanna-iitb)
 - [Manya Goel](https://github.com/MANYAGOEL123)
+- [Raghul Palanikumar](https://github.com/raghulpalanikumar)
