@@ -1,22 +1,28 @@
 # Contributors
+- [Veysel Yatkın](https://github.com/veysel2020)
+- [Noor Jellani](https://github.com/nurulain0)
 -[Zainab Travadi](https://github.com/ZainabTravadi)
 - [Rakshith Srinivasan](https://github.com/rakhith)
 - [Archit Jaju](https://github.com/ayhm23)
 - [Shashidhar](https://github.com/shashidharsai)
+- [gazoline keton](https://github.com/gazolineketon)
 - [Mathew Joseph](https://github.com/MJTheGreat3)
 - [Shivek Ranjan](https://github.com/ShivekRanjan)
 - [Srinath Akkem](https://github.com/bd-SrinathAkkem)
 - [Koushik Pyarasani](https://github.com/pyaarasanikoushik)
 - [Parth Sivakumar](https://github.com/Parth-sk)
 - [Akul Anhith](https://github.com/akul)
+- [Shabir Ahmad Sediqi](https://github.com/Shabir-Ahmad-Sediqi)
 - [Wycliffe Musau](https://github.com/Excellent58)
 - [Pragya Rai]()
+- [Saparmyrat Saparmyradov](https://github.com/Sapar-hub)
 - [Zohaib Khan](https://github.com/zohaibkhan745)
 - [Aaryan Antala]()
 - [Mopuri Abhiram]()
 - [Prashanth-000](https://github.com/Prashanth-000)
 - [Jem Koeleman]()
 - [Madhu Dora]()
+- [Nishal Ahmed](https://github.com/nishalahmedpk)
 - [Jenna Hall](https://github.com/swejenna)
 - [Ankit Aggarwal](https://curious.pm)
 - [rubik](https://github.com/rubiksfood)
@@ -48,6 +54,8 @@
 - [Nishant khatrii](https://github.com/nishant-khatri17)
 - [Ayush Mishra](https://github.com/Ayush-Mishra-0018)
 - [Anirudh](https://github.com/anirudh240)
+- [Rajashekar Mudigonda](https://github.com/rajshekarm)
+- [Ivan Kurniawan](https://github.com/Ivan-Kurniawan)
 - [Chathura](https://github.com/PrabashanaDev)
 - [Commitaptian-A](https://github.com/CommitCaptain-A)
 - [Kavya Gupta](https://github.com/kavyagupta3011)
@@ -80,7 +88,7 @@
 - [Isaac Lopez](https://github.com/IsaacLC1104)
 - [Yash Gupta](https://github.com/YashGupta2106)
 - [Nathan Hall](https://github.com/Zero4793)
-
+- [Rakesh Vanam](https://github.com/rakeshvanam6868)
 - [KamalKant](https://github.com/kamal2730)
 - [Paritosh Tiwari]
 - [Gods-ghost](https://github.com/dist34)
@@ -183,6 +191,7 @@
 - Anshuman Semwal
 - [Moresh](https://github.com/Moresh-Mishra)
 - [AnantAgarwal07](https://github.com/AnantAgarwal07)
+- [Suraj Pandey](https://github.com/Suraj-360)
 
 - Subikshaa_Sakthivel_IMT2023020 (https://github.com/Subikshaa22)
 
@@ -277,6 +286,7 @@ P Venkata Rami Reddy
 -[Aabid Ali](https://github.com/aabidali641)
 - [Sakshi Patade](https://github.com/Sakshipatade)
 - [Krishna Manohar Reddy]
+- [Vedang Wajge](https://github.com/VedangWajge)
 - [Prasad Sapkal](https://github.com/prasadsapkal55)
 - [Sarthak Sharma](https://github.com/Srthk-Shrm)
   [Chandana shetty]
@@ -284,6 +294,7 @@ P Venkata Rami Reddy
 - [Refenal ellisa]
 - [Mohamed Hossam](https://github.com/mo-hossam-stack)
 - [Jared Krandel]
+- [haru0707](https://github.com/haru0707)
 - Swastik
 - [Faust Levity](https://github.com/Faust-Levity)
 - [Revati Keskar](https://gihub.som/RevatiKeskar)
@@ -311,6 +322,7 @@ P Venkata Rami Reddy
 - [Atharva Pandkar](https://github.com/Atharva-Pandkar)
 - [Joshua McNeel](https://github.com/tech-gubbins)
 - [Malak Ibrahim](https://github.com/mmibrahi)
+- [Chanda Karamchandani](https://github.com/ChandaKaramchandani)
 - [Edson Petry](https://github.com/edsonpetry)
 - [Rohan-Lalchandani](https://github.com/Rohan-Lalchandani08)
 - [Damian](https://google.com)
@@ -320,7 +332,7 @@ P Venkata Rami Reddy
 - [AshuROhom](https://github.com/ashurohom)
 - [malyukd](https://github.com/malyukd)
 -Harshita_IMT2023035
-
+- [Harsh Kaushik](https://github.com/hrk022)
   [petimov](https://github.com/petimov)
 - [Chris Q](https://github.com/Q-X-F)
 - [Harsh Sinha](https://github.com/iHarshSinha)
@@ -827,6 +839,7 @@ Eoin O'B
 - [Shudan Luo](https://github.com/shudanluo)
 - [Yux](https://github.com/rahumers321POPPy)
 - [Alif Akbar](https://github.com/alifakbxr)
+- [zyf-de-github](https://github.com/Zyf-de-github)
 - [Sidharth P](https://github.com/Sid-CodeX)
 - [Prasad J B](https://github.com/Prasad-JB)
 - [Arpit Dubey](https://github.com/Arpit1033)
@@ -897,6 +910,7 @@ Eoin O'B
 - [kyiroywops](https://github.com/kyiroywops)
 - [Rakshak R B](https://github.com/rakshakrb)
 - [Umer Aslam](https://github.com/umeraslam00)
+- [Rishabh Sharma](https://github.com/rio-rishabh)
 - [Steve Yadav](https://github.com/lucifer47C)
 - [Luciano Campos Kriegl](https://github.com/lucianock)
 - [HVentura 👋](https://github.com/hventura)
@@ -988,6 +1002,7 @@ Eoin O'B
 - [MFigueroa](https://github.com/MiguelFOlivar)
 - [Jefferson Huisa](https://github.com/j3ffh95)
 - [dylan-sacco](https://github.com/dylan-sacco)
+- [Koichi-Kodama](https://github.com/Kytoshi)
 - [Tom C](https://github.com/Alpha-W0lf)
 - [Dipankaj](https://github.com/DipankajSingh/)
 - [harshit](https://github.com/harshitpatel862)
@@ -1609,6 +1624,7 @@ Eoin O'B
 - [Tornike Tsulukidze](https://github.com/TheMechanicalBeing)
 - [Benjamin Tsoumagas](https://github.com/tsoumagas-benjamin)
 - [Kuldeep Sahoo](https://github.com/Kuldeep-Sahoo-7257-1922)
+- [Varsha Ghodase](https://github.com/Varsha1202)
 - [Kamil Brzezinski](https://github.com/git-od-podstaw-piotr)
 - [Punnapareddy Bhaskar Rao](https://github.com/P-Bhaskar-Rao)
 - [Sheikh Mujtaba](https://github.com/Sheikh-Muhammad-Mujtaba)
@@ -1702,7 +1718,7 @@ Eoin O'B
 - [Milan J](https://github.com/Milanjiji)
 - [Sunil Reddy](https://github.com/Sunilreddyj)
 - [Ranjan 😎]
--
+-[Lazarus A.](https://github.com/Plannr36)
 - [Said Berk](https://github.com/saidberk27)
 - [Wade Rees](https://github.com/wade-rees-me)
 - [_𝓟𝓸𝔀𝓮𝓻 𝓛𝓮𝓮_](https://github.dev/0xiPower)
@@ -1755,6 +1771,7 @@ Eoin O'B
 - [Bharat Ruidas](https://github.com/brd2002)
 - [Ivan Bhargava] (https://github.com/Ivan825)
 - [Mounika Abburi](https://github.com/mounika1000)
+- [Umesh Raju](https://github.com/UmeshRaju)
 - [Ganesh R](https://github.com/ganesh-techs)
 - [Vamshi Krishna G](https://github.com/Krishna-721)
 - [Elielton Bueno](https://github.com/ElieltonBueno)
@@ -1792,6 +1809,7 @@ Eoin O'B
 - [Shreya Kumari](https://github.com/shreya-create-glitch)
 - [Mohamed Laraiche](https://github.com/molaraiche)
 - [Akshit Garg](https://github.com/AkshitGarg054) 
+- [Enrique Pastene Aceituno] (https://github.com/EnriquePasteneAceituno)
 - [Enrique Pastene Aceituno] (https://github.com/EnriquePasteneAceituno)
 - [Blhassen Sehli](https://github.com/Blhasn-Sehli)
 - [Saiprasad Rao] (https://github.com/thesaiprasadrao)
@@ -1877,3 +1895,5 @@ jack - first contribution practice
 -[Amritendu Bhattacharjee](https://github.com/xeonray-origin)
 -[Rahul Trivedi](https://github.com/rahulgihub8279/recusion_backtracking/tree/main) 
 - [Jafar Hussein](https://github.com/Jafar-Hussein)
+-[Arjun V S](https://github.com/Arjunvs7)
+- [Prasanna Nage](https://github.com/Prasanna-iitb)
