@@ -1603,3 +1603,4 @@ Eoin O'B
 ElkaFi - first contribution practice
 jack - first contribution practice
 [Shristhi Singh](https://github.com/shristhi-2908).
+- Kurva Pravalika
