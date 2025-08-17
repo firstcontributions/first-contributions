@@ -282,6 +282,7 @@ P Venkata Rami Reddy
 -[Aabid Ali](https://github.com/aabidali641)
 - [Sakshi Patade](https://github.com/Sakshipatade)
 - [Krishna Manohar Reddy]
+- [Vedang Wajge](https://github.com/VedangWajge)
 - [Prasad Sapkal](https://github.com/prasadsapkal55)
 - [Sarthak Sharma](https://github.com/Srthk-Shrm)
   [Chandana shetty]
