@@ -48,7 +48,7 @@
 - [Nishant khatrii](https://github.com/nishant-khatri17)
 - [Ayush Mishra](https://github.com/Ayush-Mishra-0018)
 - [Anirudh](https://github.com/anirudh240)
-- []
+- [Ivan Kurniawan](https://github.com/Ivan-Kurniawan)
 - [Chathura](https://github.com/PrabashanaDev)
 - [Commitaptian-A](https://github.com/CommitCaptain-A)
 - [Kavya Gupta](https://github.com/kavyagupta3011)
