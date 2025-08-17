@@ -990,6 +990,7 @@ Eoin O'B
 - [MFigueroa](https://github.com/MiguelFOlivar)
 - [Jefferson Huisa](https://github.com/j3ffh95)
 - [dylan-sacco](https://github.com/dylan-sacco)
+- [Koichi-Kodama](https://github.com/Kytoshi)
 - [Tom C](https://github.com/Alpha-W0lf)
 - [Dipankaj](https://github.com/DipankajSingh/)
 - [harshit](https://github.com/harshitpatel862)
