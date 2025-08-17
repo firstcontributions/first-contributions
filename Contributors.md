@@ -1888,3 +1888,5 @@ jack - first contribution practice
 -[Rahul Trivedi](https://github.com/rahulgihub8279/recusion_backtracking/tree/main) 
 - [Jafar Hussein](https://github.com/Jafar-Hussein)
 -[Arjun V S](https://github.com/Arjunvs7)
+-- [Nadeem Sheikh](https://github.com/DevxNadeem)
+
