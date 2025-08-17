@@ -321,7 +321,7 @@ P Venkata Rami Reddy
 - [AshuROhom](https://github.com/ashurohom)
 - [malyukd](https://github.com/malyukd)
 -Harshita_IMT2023035
-
+- [Harsh Kaushik](https://github.com/hrk022)
   [petimov](https://github.com/petimov)
 - [Chris Q](https://github.com/Q-X-F)
 - [Harsh Sinha](https://github.com/iHarshSinha)
