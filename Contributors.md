@@ -48,7 +48,6 @@
 - [Nishant khatrii](https://github.com/nishant-khatri17)
 - [Ayush Mishra](https://github.com/Ayush-Mishra-0018)
 - [Anirudh](https://github.com/anirudh240)
-- []
 - [Chathura](https://github.com/PrabashanaDev)
 - [Commitaptian-A](https://github.com/CommitCaptain-A)
 - [Kavya Gupta](https://github.com/kavyagupta3011)
@@ -156,6 +155,7 @@
 - [Asianzu Henry](https://github.com/asianzuhenry)
 - [Ayush Gupta](https://github.com/AyushGupta11442)
 - [Alejandro](https://github.com/Jano2402)
+- [Rajashekar+Mudigonda] (https://github.com/RajshekarM/)
 - [BorisovCloud](https://github.com/BorisovCloud)
 - [Kamdoum Loich](https://github.com/kamdoumloich)
 - [Tarun207](https://github.com/Tarun207)
