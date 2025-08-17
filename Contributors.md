@@ -1773,6 +1773,7 @@ Eoin O'B
 - [Ganesh R](https://github.com/ganesh-techs)
 - [Vamshi Krishna G](https://github.com/Krishna-721)
 - [Elielton Bueno](https://github.com/ElieltonBueno)
+- [Sina Soltani](https://github.com/sinaxzi)
 - [Keerthi Geddi](https://github.com/GeddiKeerthi8737)
 - [Chinmay Pani](https://github.com/chinmay8bit)
 - [OpenSeeker](https://github.com/OpenSeeker)
