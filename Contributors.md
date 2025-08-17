@@ -12,6 +12,7 @@
 - [Akul Anhith](https://github.com/akul)
 - [Wycliffe Musau](https://github.com/Excellent58)
 - [Pragya Rai]()
+- [Saparmyrat Saparmyradov](https://github.com/Sapar-hub)
 - [Zohaib Khan](https://github.com/zohaibkhan745)
 - [Aaryan Antala]()
 - [Mopuri Abhiram]()
