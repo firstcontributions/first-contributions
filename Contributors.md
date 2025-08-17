@@ -10,6 +10,7 @@
 - [Koushik Pyarasani](https://github.com/pyaarasanikoushik)
 - [Parth Sivakumar](https://github.com/Parth-sk)
 - [Akul Anhith](https://github.com/akul)
+- [Shabir Ahmad Sediqi](https://github.com/Shabir-Ahmad-Sediqi)
 - [Wycliffe Musau](https://github.com/Excellent58)
 - [Pragya Rai]()
 - [Saparmyrat Saparmyradov](https://github.com/Sapar-hub)
