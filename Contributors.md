@@ -1,4 +1,5 @@
 # Contributors
+- [Noor Jellani](https://github.com/nurulain0)
 -[Zainab Travadi](https://github.com/ZainabTravadi)
 - [Rakshith Srinivasan](https://github.com/rakhith)
 - [Archit Jaju](https://github.com/ayhm23)
