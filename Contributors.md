@@ -18,6 +18,7 @@
 - [Prashanth-000](https://github.com/Prashanth-000)
 - [Jem Koeleman]()
 - [Madhu Dora]()
+- [Nishal Ahmed](https://github.com/nishalahmedpk)
 - [Jenna Hall](https://github.com/swejenna)
 - [Ankit Aggarwal](https://curious.pm)
 - [rubik](https://github.com/rubiksfood)
