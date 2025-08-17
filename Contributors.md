@@ -1881,3 +1881,4 @@ jack - first contribution practice
 -[Amritendu Bhattacharjee](https://github.com/xeonray-origin)
 -[Rahul Trivedi](https://github.com/rahulgihub8279/recusion_backtracking/tree/main) 
 - [Jafar Hussein](https://github.com/Jafar-Hussein)
+-[Arjun V S](https://github.com/Arjunvs7)
