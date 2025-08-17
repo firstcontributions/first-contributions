@@ -1339,7 +1339,7 @@ Eoin O'B
 - [Dante Alegria](https://github.com/dantealegria1)
 - [Keerthi V Nair](https://github.com/keerthivnair)
 - [Maitreyee Singh](https://github.com/maitreyee-s)
-- [Nivetha Malli Visveswaran](https://github.com/NivethaVisveswaran)
+- [Nivetha  Visveswaran](https://github.com/NivethaVisveswaran)
 - [Rachana Rajiwade](https://github.com/Rrachana14)
 - [Loïc Burnotte](https://github.com/LoicBurnotte)
 - [Biswarup Das](https://github.com/biswarupdas445)
