@@ -319,6 +319,7 @@ P Venkata Rami Reddy
 - [Atharva Pandkar](https://github.com/Atharva-Pandkar)
 - [Joshua McNeel](https://github.com/tech-gubbins)
 - [Malak Ibrahim](https://github.com/mmibrahi)
+- [Chanda Karamchandani](https://github.com/ChandaKaramchandani)
 - [Edson Petry](https://github.com/edsonpetry)
 - [Rohan-Lalchandani](https://github.com/Rohan-Lalchandani08)
 - [Damian](https://google.com)
