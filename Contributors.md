@@ -190,6 +190,7 @@ Shruti Tiwari
 - [Akshat Jain](https://github.com/akshat2604)
 - [Atharva Pandkar](https://github.com/Atharva-Pandkar)
 - [Malak Ibrahim](https://github.com/mmibrahi)
+- [Chanda Karamchandani](https://github.com/ChandaKaramchandani)
 - [Edson Petry](https://github.com/edsonpetry)
 - [Rohan-Lalchandani](https://github.com/Rohan-Lalchandani08)
 - [Damian](https://google.com)
