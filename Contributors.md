@@ -5,6 +5,7 @@
 - [Shashidhar](https://github.com/shashidharsai)
 - [Mathew Joseph](https://github.com/MJTheGreat3)
 - [Shivek Ranjan](https://github.com/ShivekRanjan)
+- [Koushik Pyarasani](https://github.com/pyaarasanikoushik)
 - [Parth Sivakumar](https://github.com/Parth-sk)
 - [Akul Anhith](https://github.com/akul)
 - [Wycliffe Musau](https://github.com/Excellent58)
