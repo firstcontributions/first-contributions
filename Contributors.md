@@ -3,6 +3,7 @@
 - [Rakshith Srinivasan](https://github.com/rakhith)
 - [Archit Jaju](https://github.com/ayhm23)
 - [Shashidhar](https://github.com/shashidharsai)
+- [gazoline keton](https://github.com/gazolineketon)
 - [Mathew Joseph](https://github.com/MJTheGreat3)
 - [Shivek Ranjan](https://github.com/ShivekRanjan)
 - [Parth Sivakumar](https://github.com/Parth-sk)
