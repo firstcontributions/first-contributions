@@ -1,4 +1,5 @@
 # Contributors
+- [Veysel Yatkın](https://github.com/veysel2020)
 - [Noor Jellani](https://github.com/nurulain0)
 -[Zainab Travadi](https://github.com/ZainabTravadi)
 - [Rakshith Srinivasan](https://github.com/rakhith)
@@ -1894,3 +1895,4 @@ jack - first contribution practice
 - [Jafar Hussein](https://github.com/Jafar-Hussein)
 -[Arjun V S](https://github.com/Arjunvs7)
 -[55amin](https://github.com/55amin)
+- [Prasanna Nage](https://github.com/Prasanna-iitb)
