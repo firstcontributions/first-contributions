@@ -83,6 +83,7 @@
 - [sajad thapa](https://github.com/sajadthapa04)
 - [mizuki](https://github.com/mizuresort)
 - [Priyanshu Tiwari](https://github.com/d3monviking)
+- [Gurudayal Singh](https://github.com/23f-1000003)
 - [K.Jitin](https://github.com/jitin2508)
 - [cashtanowiec](https://github.com/cashtanowiec)
 - [Mattia Cocco](https://github.com/Matti02co)
