@@ -7,6 +7,7 @@
 - [Sunday](https://github.com/Hao-tian)
 - [Demetris B.](https://github.com/deyil)
 - [0xAnamul](https://github.com/0xAnamul)
+- [AshuRohom](https://github.com/ashurohom)
 - [João Scarlateli](https://github.com/Scarlateli)
 - [seon99il](https://github.com/seon99il)
 - [Ms_Njuguna](https://github.com/Ms-Njuguna)
