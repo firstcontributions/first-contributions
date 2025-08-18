@@ -262,6 +262,7 @@ main
 - [Pvenkataramireddy](https://github.com/Venkat96r)
 - [forrest](https://github.com/frrst-ian)
 - [WobL256](https://github.com/WobL256)
+- [SamK] (https://github.com/Samk104)
 - [S1ngularty](https://github.com/S1ngularty)
 - [Sai Oan Hseng Hurk](https://github.com/Senghurk)
 - [Madhav Sreejith](http://github.com/madhav-sreejith)
