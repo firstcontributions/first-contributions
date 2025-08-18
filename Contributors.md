@@ -1005,6 +1005,7 @@ Eoin O'B
 - [SIva Saketh](https://github.com/sivasaketh)
 - [Dev Goyal](https://github.com/DevGoyal9238)
 - [KigulaJesse](https://github.com/KigulaJesse)
+- [Joery van Santen](https://github.com/joeryvs)
 - [Sitanshu Nandan](https://github.com/stansho)
 - [Fatih Portakal](https://github.com/GoStKoRx)
 - [Ctrshift-Pm](https://github.com/Ctrshift-Pm)
