@@ -1,7 +1,10 @@
 # Contributors
   - [Vicky S](https://github.com/VickySource)
  [Nakshathra](https://github.com/Nakshathra-17S)
+ naveen-branch-first-contribution
+- [Naveen Kumar](https://github.com/RowthuNaveenKumar)
 - [Brandon McHugh](https://github.com/brandmch)
+main
 - [Veysel Yatkın](https://github.com/veysel2020)
 - [rainhuang0220](https://github.com/rainhuang0220)
 - [SSA](https://github.com/sshnag)
