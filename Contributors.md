@@ -19,6 +19,7 @@
 - [Koushik Pyarasani](https://github.com/pyaarasanikoushik)
 - [Parth Sivakumar](https://github.com/Parth-sk)
 - [Akul Anhith](https://github.com/akul)
+- [Ajay Brightson](https://github.com/AjayJ1711)
 - [Shabir Ahmad Sediqi](https://github.com/Shabir-Ahmad-Sediqi)
 - [Wycliffe Musau](https://github.com/Excellent58)
 - [Pragya Rai]()
