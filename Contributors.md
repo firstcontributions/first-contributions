@@ -1,7 +1,6 @@
 # Contributors
-
-[Nakshathra](https://github.com/Nakshathra-17S)
-
+- [Nakshathra](https://github.com/Nakshathra-17S)
+- [Brandon McHugh](https://github.com/brandmch)
 - [Veysel Yatkın](https://github.com/veysel2020)
 - [rainhuang0220](https://github.com/rainhuang0220)
 - [SSA](https://github.com/sshnag)
@@ -1869,6 +1868,7 @@
 - [Sarbojit Rana](https://github.com/sarbojitrana)
 - [John Mixon](https://github.com/mixdev2112)
 - [goldenbough0](https://github.com/goldenbough0)
+- OK
 - Chara
 - [Amos Babu](https://github.com/amos-babu)
 - [Amos Babu](https://github.com/amos-babu)
