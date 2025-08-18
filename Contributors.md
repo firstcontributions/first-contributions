@@ -8,6 +8,7 @@
 - [Noor Jellani](https://github.com/nurulain0)
 -[Zainab Travadi](https://github.com/ZainabTravadi)
 - [Rakshith Srinivasan](https://github.com/rakhith)
+- [Darshon](https://github.com/darshons)
 - [Archit Jaju](https://github.com/ayhm23)
 - [Shashidhar](https://github.com/shashidharsai)
 - [gazoline keton](https://github.com/gazolineketon)
