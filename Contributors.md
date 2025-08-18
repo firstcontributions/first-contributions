@@ -6,6 +6,7 @@
 - [Brandon McHugh](https://github.com/brandmch)
 main
 - [Veysel Yatkın](https://github.com/veysel2020)
+- [Naveen C](https://github.com/naveench98)
 - [rainhuang0220](https://github.com/rainhuang0220)
 - [SSA](https://github.com/sshnag)
 - [eieilin](https://github.com/eieilin)
