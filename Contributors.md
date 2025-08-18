@@ -84,6 +84,7 @@ main
 - [Priyanshu Tiwari](https://github.com/d3monviking)
 - [Kartikeya Dimri](https://github.com/kartikeya-dimri)
 - [0xAnamul](https://github.com/0xAnamul)
+- [AshuRohom](https://github.com/ashurohom)
 - [João Scarlateli](https://github.com/Scarlateli)
 - [Nikunj](https://github.com/nikunj169)
 - [Paulson Mathew](https://github.com/ajoyscorpion)
