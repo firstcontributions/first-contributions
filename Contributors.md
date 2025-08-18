@@ -997,6 +997,7 @@ Eoin O'B
 - [Jon Compton](https://github.com/joncompton)
 -[Blaine Weiss](https://github.com/BlaineWeiss)
 - [ColorCode](https://github.com/benjaAguilar)
+- [Sai Harika](https://github.com/SaiHarika16)
 - [Rennan Reis](https://github.com/rennanreis)
 - [Nilesh Kumar](https://github.com/nilesh646)
 - [Alejandro Aguilar] (https://github.com/seneka-DSNA)
