@@ -1885,6 +1885,7 @@ jack - first contribution practice
 -[Jadon](https://github.com/JadonDn)
 - [GouravAnirudh](https://github.com/gouravanirudh05)
 -[Sarthak Maheshwari](https://github.com/SartMa)
+- [Sinchana](https://github.com/Sinchanar09)
 -[Gathik Jindal](https://github.com/gathik-jindal)
 -[Suryans Dash](https://github.com/suryans77)
 - [Akshat Betala](https://github.com/Akshat089)
