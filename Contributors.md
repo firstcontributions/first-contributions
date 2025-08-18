@@ -1874,3 +1874,4 @@
 - [Amos Babu](https://github.com/amos-babu)
 - [Bonumaddi Amardeep](https://github.com/Amardeepp2)
 - [Niyati](https://github.com/niyati34)
+- [Muhammad Ali Khan](https://github.com/Muhammad-Ali-Khan9)
