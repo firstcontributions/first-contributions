@@ -229,6 +229,7 @@
 - [Prem Kumar T G](https://github.com/prem7129) 
 - [darkiss7](https://github.com/darkiss7)
 - [FAI8h](https://github.com/FAI8h)
+- [Zaid Rasul](https://github.com/ZaidRasul)
 - [Ankith Kini](https://github.com/ANKITH33)
 - [Chamesh Dinuka](https://github.com/chamesh2019)
 - [Shivam Pandya] 
