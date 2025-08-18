@@ -19,6 +19,7 @@ main
 - [Archit Jaju](https://github.com/ayhm23)
 - [Shashidhar](https://github.com/shashidharsai)
 - [gazoline keton](https://github.com/gazolineketon)
+- [Kyusan Kim](https://github.com/5tarlight)
 - [Mathew Joseph](https://github.com/MJTheGreat3)
 - [Shivek Ranjan](https://github.com/ShivekRanjan)
 - [Srinath Akkem](https://github.com/bd-SrinathAkkem)
