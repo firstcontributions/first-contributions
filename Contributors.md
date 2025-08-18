@@ -1,7 +1,10 @@
 # Contributors
   - [Vicky S](https://github.com/VickySource)
  [Nakshathra](https://github.com/Nakshathra-17S)
+ naveen-branch-first-contribution
+- [Naveen Kumar](https://github.com/RowthuNaveenKumar)
 - [Brandon McHugh](https://github.com/brandmch)
+main
 - [Veysel Yatkın](https://github.com/veysel2020)
 - [rainhuang0220](https://github.com/rainhuang0220)
 - [SSA](https://github.com/sshnag)
@@ -81,6 +84,7 @@
 - [Priyanshu Tiwari](https://github.com/d3monviking)
 - [Kartikeya Dimri](https://github.com/kartikeya-dimri)
 - [0xAnamul](https://github.com/0xAnamul)
+- [AshuRohom](https://github.com/ashurohom)
 - [João Scarlateli](https://github.com/Scarlateli)
 - [Nikunj](https://github.com/nikunj169)
 - [Paulson Mathew](https://github.com/ajoyscorpion)
@@ -175,6 +179,7 @@
 - [Asianzu Henry](https://github.com/asianzuhenry)
 - [Ayush Gupta](https://github.com/AyushGupta11442)
 - [Alejandro](https://github.com/Jano2402)
+- [Rajashekar+Mudigonda] (https://github.com/RajshekarM/)
 - [BorisovCloud](https://github.com/BorisovCloud)
 - [Kamdoum Loich](https://github.com/kamdoumloich)
 - [Tarun207](https://github.com/Tarun207)
@@ -437,7 +442,7 @@ The-Yash-is-Joined
 - [Navish](https://github.com/Nishu1508)
 . [Luiki17] (https://github.com/Luiki17)
 - [Tournoy Noa](https://github.com/)
-- [NYAMNYAM]
+- [NYAMNYAM](https://github.com/nyammmmm)
 -[MohamedSayed](https://github.com/mohammedsayed30)
 -[Fyobei] (https://github.com/Waku-a11y)
 - [Nasrul](https://github.com/nnayz)
@@ -1906,7 +1911,7 @@ jack - first contribution practice
 -[Murilo Cardoso](https://github.com/murilobarbosaa)
 - [Yuvraj Sanap](https://github.com/YuvrajS99)
 - [Thrilochan](https://github.com/thrilochan7)
--[Phil](https://github.com/maxphil058))
+-[Phil](https://github.com/maxphil058)
 -[Atharva Joshi] (https://github.com/Atharva-Joshi8999)
 -[Lakshya Sachan](https://github.com/anonym1o)
 -[Emir Kaan Ertuğrul](https://github.com/emirkddn)
@@ -1932,8 +1937,14 @@ jack - first contribution practice
 - [Millicent Convento](https://github.com/mjmconvento)
 - OK
 - Chara
+- [Krish Yadav] (https://github.com/Ky-1106)
+- [Krish Yadav](https://github.com/Ky-1106)
 - [Amos Babu](https://github.com/amos-babu)
 - [Amos Babu](https://github.com/amos-babu)
 - [Bonumaddi Amardeep](https://github.com/Amardeepp2)
 - [Muhammad Ali Khan](https://github.com/Muhammad-Ali-Khan9)
+<<<<<<< HEAD
 - [Rutik Yadav](https://github.com/rutikyadav71)
+=======
+- 
+>>>>>>> main
