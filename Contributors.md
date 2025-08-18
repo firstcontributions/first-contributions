@@ -21,6 +21,7 @@
 - [Saparmyrat Saparmyradov](https://github.com/Sapar-hub)
 - [Zohaib Khan](https://github.com/zohaibkhan745)
 - [Aaryan Antala]()
+- [Muhammed Hidash](https://github.com/Hidash-broto)
 - [Mopuri Abhiram]()
 - [Prashanth-000](https://github.com/Prashanth-000)
 - [Jem Koeleman]()
