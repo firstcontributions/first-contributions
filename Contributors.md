@@ -1912,6 +1912,7 @@ jack - first contribution practice
 - [Neil Irungu](https://github.com/algorithmine)
 - [Sarbojit Rana](https://github.com/sarbojitrana)
 - [John Mixon](https://github.com/mixdev2112)
+- [goldenbough0](https://github.com/goldenbough0)
 - Chara
 - [Amos Babu](https://github.com/amos-babu)
 - [Amos Babu](https://github.com/amos-babu)
