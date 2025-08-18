@@ -26,7 +26,7 @@
 - [Srinath Akkem](https://github.com/bd-SrinathAkkem)
 - [Koushik Pyarasani](https://github.com/pyaarasanikoushik)
 - [Parth Sivakumar](https://github.com/Parth-sk)
-- [Trần Phương hùng ](https://github.com/blueqing2026)
+- [Trần Phương Hùng & Đỗ Nhật Thanh ❤️](https://github.com/blueqing2026)
 - [Akul Anhith](https://github.com/akul)
 - [Ajay Brightson](https://github.com/AjayJ1711)
 - [Shabir Ahmad Sediqi](https://github.com/Shabir-Ahmad-Sediqi)
