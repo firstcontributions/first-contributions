@@ -267,6 +267,7 @@ Shruti Tiwari
 - [il873](https://github.com/il873)
 P Venkata Rami Reddy
 - [Darin Thompson](https://github.com/thewizof6)
+- Anagha Hebbar
 - [Shoaib Islam](https://github.com/Shoaib3375)
 - [JodAn007](https://github.com/JodAn007)
 - [Parthav Nair](https://github.com/Parthav-Nair)
