@@ -2,6 +2,7 @@
   - [Vicky S](https://github.com/VickySource)
  [Nakshathra](https://github.com/Nakshathra-17S)
 - [Brandon McHugh](https://github.com/brandmch)
+- [Vittorino Favaro](https://github.com/vittorino-favaro)
 - [Veysel Yatkın](https://github.com/veysel2020)
 - [rainhuang0220](https://github.com/rainhuang0220)
 - [SSA](https://github.com/sshnag)
