@@ -1949,5 +1949,6 @@ jack - first contribution practice
 - [Amos Babu](https://github.com/amos-babu)
 - [Bonumaddi Amardeep](https://github.com/Amardeepp2)
 - [Muhammad Ali Khan](https://github.com/Muhammad-Ali-Khan9)
+- [Deekshitha S](https://github.com/CodeWithDeeksh)
 - [Keshav](https://github.com/MrKeshav0X7) 
 - [Rutik Yadav](https://github.com/rutikyadav71)
