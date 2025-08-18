@@ -1928,7 +1928,10 @@ jack - first contribution practice
 - [Millicent Convento](https://github.com/mjmconvento)
 - OK
 - Chara
+- [Krish Yadav] (https://github.com/Ky-1106)
+- [Krish Yadav](https://github.com/Ky-1106)
 - [Amos Babu](https://github.com/amos-babu)
 - [Amos Babu](https://github.com/amos-babu)
 - [Bonumaddi Amardeep](https://github.com/Amardeepp2)
 - [Muhammad Ali Khan](https://github.com/Muhammad-Ali-Khan9)
+- 
