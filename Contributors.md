@@ -1,6 +1,9 @@
 # Contributors
  [Nakshathra](https://github.com/Nakshathra-17S)
+ naveen-branch-first-contribution
 - [Naveen Kumar](https://github.com/RowthuNaveenKumar)
+- [Brandon McHugh](https://github.com/brandmch)
+main
 - [Veysel Yatkın](https://github.com/veysel2020)
 - [rainhuang0220](https://github.com/rainhuang0220)
 - [SSA](https://github.com/sshnag)
@@ -8,6 +11,7 @@
 - [Noor Jellani](https://github.com/nurulain0)
 -[Zainab Travadi](https://github.com/ZainabTravadi)
 - [Rakshith Srinivasan](https://github.com/rakhith)
+- [Darshon](https://github.com/darshons)
 - [Archit Jaju](https://github.com/ayhm23)
 - [Shashidhar](https://github.com/shashidharsai)
 - [gazoline keton](https://github.com/gazolineketon)
@@ -1919,6 +1923,7 @@ jack - first contribution practice
 - [Sarbojit Rana](https://github.com/sarbojitrana)
 - [John Mixon](https://github.com/mixdev2112)
 - [goldenbough0](https://github.com/goldenbough0)
+- OK
 - Chara
 - [Amos Babu](https://github.com/amos-babu)
 - [Amos Babu](https://github.com/amos-babu)
