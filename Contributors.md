@@ -1904,3 +1904,4 @@ jack - first contribution practice
 - [Neil Irungu](https://github.com/algorithmine)
 - [Sarbojit Rana](https://github.com/sarbojitrana)
 - [John Mixon](https://github.com/mixdev2112)
+- Chara
