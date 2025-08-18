@@ -1,5 +1,5 @@
 # Contributors
-  - [Vicky S](https://github.com/VickySource)
+
  [Nakshathra](https://github.com/Nakshathra-17S)
  naveen-branch-first-contribution
 - [Naveen Kumar](https://github.com/RowthuNaveenKumar)
