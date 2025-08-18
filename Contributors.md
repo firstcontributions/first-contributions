@@ -29,6 +29,7 @@ main
 - [Ajay Brightson](https://github.com/AjayJ1711)
 - [Shabir Ahmad Sediqi](https://github.com/Shabir-Ahmad-Sediqi)
 - [Wycliffe Musau](https://github.com/Excellent58)
+- [Tusa Rivera-Larkowski](https://github.com/tlarkowski)
 - [Pragya Rai]()
 - [Saparmyrat Saparmyradov](https://github.com/Sapar-hub)
 - [Zohaib Khan](https://github.com/zohaibkhan745)
