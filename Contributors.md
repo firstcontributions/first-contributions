@@ -1,4 +1,4 @@
-# Contributors
+git # Contributors
 
  [Nakshathra](https://github.com/Nakshathra-17S)
  naveen-branch-first-contribution
@@ -1632,6 +1632,7 @@ Eoin O'B
 - [Vasupriya Patnaik](https://github.com/VasupriyaPatnaik)
 - [Flavio Emanuele Cannavò](https://github.com/flaviocnn)
 - [Alessio Galluccio](https://github.com/AlessioGalluccio)
+- [Satvik Mittal](https://github.com/Satvik24511)
 - [Fat Cat Likes Beer](https://github.com/FatCatLikesBeer)
 - [Vyankatesh Potdar](https://github.com/vyankateshpotdar)
 - [ROCHDI MOHAMMED AMINE](https://github.com/aminerochdi1)
