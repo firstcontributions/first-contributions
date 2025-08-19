@@ -47,6 +47,7 @@ git # Contributors
 - [Muhammed Hidash](https://github.com/Hidash-broto)
 - [Mopuri Abhiram]()
 - [Prashanth-000](https://github.com/Prashanth-000)
+- [Aaaappplle](https://github.com/aaaappplle)
 - vituwc
 - [Jem Koeleman]()
 - [Madhu Dora]()
