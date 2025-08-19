@@ -105,7 +105,7 @@ Dies wird eine Kopie dieses Repository's in deinem Account erstellen.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Klone jetzt das geforkte Repository auf deinen Computer. Gehe zu dienem Github Account, öffne das geforkte Repository, klicke auf den Code Button, dann auf den HTTPS Tab und dann klicke das _copy url to clipboard_ icon.
+Klone jetzt das geforkte Repository auf deinen Computer. Gehe zu dienem Github Account, öffne das geforkte Repository, drücke auf den Code Button, dann auf den HTTPS Tab und dann drücke auf das _copy url to clipboard_ icon.
 
 Open a terminal and run the following git command:
 
