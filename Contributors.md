@@ -1968,6 +1968,7 @@ jack - first contribution practice
 - [Neil Irungu](https://github.com/algorithmine)
 - [Sarbojit Rana](https://github.com/sarbojitrana)
 - [John Mixon](https://github.com/mixdev2112)
+- [Aadvika Pandey](https://github.com/Addvika)
 - [goldenbough0](https://github.com/goldenbough0)
 - [Millicent Convento](https://github.com/mjmconvento)
 - OK
