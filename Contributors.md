@@ -8,6 +8,7 @@ git # Contributors
 - [Nishant Naravarajula](https://github.com/nish-naravarajula)
 - [Vittorino  Favaro](https://github.com/vittorino-favaro)
 - [Alex Hann](https://github.com/lurch9)
+- [Sanjeev Kumar Sharma](https://github.com/SanjeevKrSharma)
 - [Veysel Yatkın](https://github.com/veysel2020)
 - [Naveen C](https://github.com/naveench98)
 - [rainhuang0220](https://github.com/rainhuang0220)
