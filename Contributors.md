@@ -1,5 +1,6 @@
 git # Contributors
 
+- [Ankit Kumar Yadav](https://github.com/AnkitKrYadav)
 - [Dhairya Dev](https://github.com/dhairyadev26)
 - [Martin-Perfumo] (https://github.com/MartinPerfumo) 
  [Nakshathra](https://github.com/Nakshathra-17S)
@@ -17,6 +18,7 @@ git # Contributors
 - [rainhuang0220](https://github.com/rainhuang0220)
 - [SSA](https://github.com/sshnag)
 - [eieilin](https://github.com/eieilin)
+- [Devesh Paryani](https://github.com/Devesh102030)
 - [Noor Jellani](https://github.com/nurulain0)
 -[Zainab Travadi](https://github.com/ZainabTravadi)
 - [Rakshith Srinivasan](https://github.com/rakhith)
@@ -71,6 +73,7 @@ git # Contributors
 - [Karan Dhiman](https://github.com/karandhiman12)
 - [Gurparsad Singh](https://github.com/gprathour)
 - [Srinivas Batthula](https://github.com/srinivas-batthula)
+- [Shun Khaing](https://github.com/shunkhaing)
 - [Pavishni](https://github.com/Pavishni)
 - [Evan](https://github.com/ICreateStuff5)
 - [Pranav Sandeep](https://github.com/Pranavv0307)
@@ -332,6 +335,7 @@ P Venkata Rami Reddy
 - [Refenal ellisa]
 - [Mohamed Hossam](https://github.com/mo-hossam-stack)
 - [Jared Krandel]
+- Preenu
 - [haru0707](https://github.com/haru0707)
 - Swastik
 - [Faust Levity](https://github.com/Faust-Levity)
@@ -1257,6 +1261,7 @@ Eoin O'B
 - [Areeb Ahmad](https://github.com/AreebAhmad-02)
 - [BOUKARI Marfourz](https://github.com/Marfourz)
 - [Lakshya Mishra](https://github.com/mishrlaksh)
+- [VirtualDavide](https://github.com/VirtualDavide)
 - [Noah Petzinger](https://github.com/Jimegroxak)
 - [Paul Czerniak](https://github.com/ptczerni)
 - [Samuel Rudqvist](https://github.com/srudqvist)
@@ -1979,3 +1984,5 @@ jack - first contribution practice
 - [Rutik Yadav](https://github.com/rutikyadav71)
 - [Chxuo](https://github.com/chxuo)
 - [polygon00-dev](https://github.com/polygon00-dev)
+- Grant
+- [Zach Gallman](https://github.com/zdotg)
