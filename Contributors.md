@@ -1986,3 +1986,4 @@ jack - first contribution practice
 - [polygon00-dev](https://github.com/polygon00-dev)
 - Grant
 - [Zach Gallman](https://github.com/zdotg)
+- [Thabang Alfred Motsoahae](https://github.com/Axulo-Inc)
