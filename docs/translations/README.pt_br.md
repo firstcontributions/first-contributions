@@ -1,4 +1,4 @@
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -20,7 +20,7 @@ Faça um _Fork_ clicando no botão "_Fork_" no topo desta página, uma cópia de
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clonar este repositório" />
 
-Agora clone este repositório para a sua máquina. Clique no botão "_Code_" e, em seguida, clique no ícone "_Copy to clipboard_" para copiar a URL.
+Agora clone este repositório para a sua máquina. Clique no botão "_Code_" e, em seguida, clique na aba SSH e clique no ícone "_copy url to clipboard_" para copiar a URL.
 
 Abra um terminal e execute o seguinte comando do git:
 
@@ -35,7 +35,7 @@ onde "url que copiou" (sem as aspas) é a URL deste repositório (seu fork deste
 Por exemplo:
 
 ```
-git clone https://github.com/seu-usuario/first-contributions.git
+git clone git@github.com:seu-usuario/first-contributions.git
 ```
 
 onde "seu-usuário" é o seu usuário do _GitHub_. Aqui você estará copiando o conteúdo do repositório _first-contributions_ para o seu computador.
@@ -59,6 +59,19 @@ Por exemplo:
 ```
 git switch -c add-andre-oliveira
 ```
+
+<details>
+<summary> <strong>Se você receber algum erro usando git switch, clique aqui:</strong> </summary>
+
+Se o erro "Git: `switch` não é um comando git. Veja `git –help`" aparecer, é provável que você esteja usando uma versão mais antiga do git.
+
+Nesse caso, tente usar o comando `git checkout`:
+
+```
+git checkout -b <nome-da-sua-nova-branch>
+```
+
+</details>
 
 Obs.: O nome do _Branch_ não precisa ter a sigla "add", mas nesse caso é recomendável, porque a finalidade deste _Branch_ é a de adicionar o seu nome à uma lista.
 
@@ -87,10 +100,32 @@ substituindo `<seu-nome>` pelo seu nome.
 Envie suas alterações usando o comando `git push`:
 
 ```
-git push origin <nome-da-sua-branch>
+git push -u origin <nome-da-sua-branch>
 ```
 
 substituindo `<nome-da-sua-branch>` pelo nome do _Branch_ que você criou anteriormente.
+
+<details>
+<summary> <strong>Se você receber algum erro ao fazer push, clique aqui:</strong> </summary>
+
+- ### Erro de Autenticação
+     <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+  remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+  fatal: Authentication failed for 'https://github.com/<seu-usuario>/first-contributions.git/'</pre>
+  Acesse o [tutorial do GitHub](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) sobre como gerar e configurar uma chave SSH para sua conta.
+
+  Além disso, você pode executar 'git remote -v' para verificar seu endereço remoto.
+  
+  Se ele for parecido com isto:
+  <pre>origin	https://github.com/seu-usuario/seu_repo.git (fetch)
+  origin	https://github.com/seu-usuario/seu_repo.git (push)</pre>
+  
+  altere-o usando este comando:
+  ```
+  git remote set-url origin git@github.com:seu-usuario/seu_repo.git
+  ```
+  Caso contrário, você ainda será solicitado a informar nome de usuário e senha e receberá erro de autenticação.
+</details>
 
 ## Envie suas alterações para serem revisadas
 
@@ -106,7 +141,7 @@ Logo estará mesclando ('mergeando') as suas mudanças no _Branch_ principal (ma
 
 ## Para onde ir a partir daqui?
 
-Parabéns! Você completou o fluxo de trabalho básico _fork -> clone -> edit -> PR_ que você encontrará frequentemente como contribuidor!
+Parabéns! Você completou o fluxo de trabalho básico _fork -> clone -> edit -> pull request_ que você encontrará frequentemente como contribuidor!
 
 Celebre sua contribuição e compartilhe com seus amigos e seguidores no [app web](https://firstcontributions.github.io/#social-share).
 
@@ -118,6 +153,13 @@ Agora você pode colaborar com outros projetos. Nós compilamos uma lista de pro
 
 ## Tutoriais usando outras ferramentas
 
-| <a href="../gui-tool-tutorials/translations/github-desktop-tutorial.pt_br.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/translations/github-windows-intellij-tutorial.pt_br.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [GitHub Desktop](../gui-tool-tutorials/translations/github-desktop-tutorial.pt_br.md)                                                                                             | [Visual Studio 2017](../gui-tool-tutorials/translations/github-windows-vs2017-tutorial.pt_br.md)                                                                                                       | [IntelliJ IDEA](../gui-tool-tutorials/translations/github-windows-intellij-tutorial.pt_br.md)                                                                                                                                                          |
+| <a href="../gui-tool-tutorials/translations/github-desktop-tutorial.pt_br.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/translations/github-windows-vs2017-tutorial.pt_br.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/translations/github-windows-intellij-tutorial.pt_br.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [GitHub Desktop](../gui-tool-tutorials/translations/github-desktop-tutorial.pt_br.md)                                                                                             | [Visual Studio 2017](../gui-tool-tutorials/translations/github-windows-vs2017-tutorial.pt_br.md)                                                                                                   | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md)                                                                                                                               | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                                                  | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                               | [IntelliJ IDEA](../gui-tool-tutorials/translations/github-windows-intellij-tutorial.pt_br.md)                                                                                                                |
+
+<p>Este projeto é apoiado por:</p>
+<p>
+  <a href="https://www.digitalocean.com/">
+    <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_horizontal_blue.svg" width="201px">
+  </a>
+</p>
