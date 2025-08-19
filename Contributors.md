@@ -866,6 +866,7 @@ Ben
 - [Görkem](https://github.com/gorkemozsari)
 - [Ian McManus](https://github.com/ianmcman)
 - [Patrick Yeung](https://github.com/eampat)
+- [Kyle Boo](https://github.com/bookang869)
 - [Leon Deppe](https://github.com/leondeppe)
 - [Owen Roukey](https://github.com/rouk5555)
 - [Aminat A](https://github.com/pejuameenat)
