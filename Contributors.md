@@ -43,8 +43,8 @@ namaskaram!!this is my first contribution.
 - [Devansh Gaur](https://github.com/Devaur03) - I am gonna be king of pirates. 🏴‍☠️
 - [David Wilson](https://github.com/CaptainDavidA) - I am gonna be the pirate ship 🏴‍☠️
 -[Manali Sengupta](https://github.com/manali15-hub)- My First Open Source Contribution!
-- [Diya Pandey] https://github.com/diyapandey - hi! here to get started with open source project contribution
 - [Aakash Mahajan](https://github.com/AakashMahajan25) - My First Open Source Contribution!
+- - [Diya Pandey] https://github.com/diyapandey - hi! here to get started with open source project contribution
 - [Aman Rohilla](https://github.com/amanrohilla23)
 - [Theo J] - First Contribution
 - [Cyril Pius](https://github.com/cyrilpiusch)- I remember Matthieu Vinet's first contribution
