@@ -5,6 +5,7 @@
 - [Naveen Kumar](https://github.com/RowthuNaveenKumar)
 - [Brandon McHugh](https://github.com/brandmch)
 - [Muhammad Nouman](https://github.com/coder595)
+- [Nishant Naravarajula](https://github.com/nish-naravarajula)
 - [Vittorino  Favaro](https://github.com/vittorino-favaro)
 - [Alex Hann](https://github.com/lurch9)
 - [Veysel Yatkın](https://github.com/veysel2020)
