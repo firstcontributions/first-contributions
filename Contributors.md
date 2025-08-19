@@ -33,6 +33,7 @@ git # Contributors
 - [Parth Sivakumar](https://github.com/Parth-sk)
 - [Trần Phương hùng ](https://github.com/blueqing2026)
 - [Akul Anhith](https://github.com/akul)
+- [Ahmed Fikri](https://github.com/Fikri-20)
 - [Ajay Brightson](https://github.com/AjayJ1711)
 - [Shabir Ahmad Sediqi](https://github.com/Shabir-Ahmad-Sediqi)
 - [Wycliffe Musau](https://github.com/Excellent58)
