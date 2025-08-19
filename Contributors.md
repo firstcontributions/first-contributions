@@ -4,6 +4,7 @@ git # Contributors
  [Nakshathra](https://github.com/Nakshathra-17S)
  naveen-branch-first-contribution
 - [Naveen Kumar](https://github.com/RowthuNaveenKumar)
+- [Preksha Joshi](https://github.com/itspreksha)
 - [Brandon McHugh](https://github.com/brandmch)
 - [Tonny Nyauke]
 - [Muhammad Nouman](https://github.com/coder595)
