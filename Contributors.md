@@ -86,6 +86,7 @@
 - [David Chamling Rai](https://github.com/Wadangkaa)
 - Sasank
 - [Choudary Hussain Ali](https://github.com/choudaryhussainali)
+- [Sruthi BJ](https://github.com/Bjsruthi)
 - [Areen Patil](https://github.com/areen-patil)
 - [Sunday](https://github.com/Hao-tian)
 - [Demetris B.](https://github.com/deyil)
