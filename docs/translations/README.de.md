@@ -105,55 +105,55 @@ Dies wird eine Kopie dieses Repository's in deinem Account erstellen.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Klone jetzt das geforkte Repository auf deinen Computer. Gehe zu dienem Github Account, öffne das geforkte Repository, drücke auf den Code Button, dann auf den HTTPS Tab und dann drücke auf das _copy url to clipboard_ icon.
+Klone jetzt das geforkte Repository auf deinen Computer. Gehe zu dienem Github Account, öffne das geforkte Repository, drücke auf den Code Button, dann auf den SSH Tab und dann drücke auf das _copy url to clipboard_ icon.
 
-Open a terminal and run the following git command:
+Öffne ein Terminal Fenster und führe den folgenden Git Befehl aus:
 
 ```bash
-git clone "url you just copied"
+git clone "kopierte url"
 ```
 
-where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
+wobei "kopierte url" (ohne die Anführungszeichen) die url zu diesem Repository ist (deine Fork von diesem Projekt). Im vorherigen Schritt siehst du wie du diese erhälst .
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
-For example:
+Zum Beispiel:
 
 ```bash
-git clone git@github.com:this-is-you/first-contributions.git
+git clone git@github.com:das-bist-du/erster-Beitrag.git
 ```
 
-where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
+wobei `das-bist-du` dein Github Nutzername ist. Hier kopierst du den Inhalt des first-contributions Repository's auf Github auf deinen Computer.
 
-## Create a branch
+## Erstelle einen Zweig
 
-Change to the repository directory on your computer (if you are not already there):
+Wechsle zum Repository Ordner (wenn du nicht bereits dort bist):
 
 ```bash
 cd first-contributions
 ```
 
-Now create a branch using the `git switch` command:
+Erstelle nun einen Zweig, indem du den `git switch` Befehl benutzst:
 
 ```bash
-git switch -c your-new-branch-name
+git switch -c dein-neuer-zweig-name
 ```
 
-For example:
+Zum Beispiel:
 
 ```bash
 git switch -c add-alonzo-church
 ```
 
 <details>
-<summary> <strong>If you get any errors using git switch, click here:</strong> </summary>
+<summary> <strong>Wenn du auf irgendeinen Fehler bei der Nutzung von `git switch` stößt, drücke hier:</strong> </summary>
 
-If the error message "Git: `switch` is not a git command. See `git –help`" appears, it's likely because you're using an older version of git.
+Wenn die Fehlermeldung "Git: `switch` is not a git command. See `git –help`" auftaucht, liegt dies wahrscheinlich daran das du eine veraltete Version von Git nutzt.
 
-In this case, try to use `git checkout` instead:
+In diesem Fall versuche stattdessen `git checkout` zu nutzen:
 
 ```bash
-git checkout -b your-new-branch-name
+git checkout -b dein-neuer-zweig-name
 ```
 
 </details>
@@ -234,15 +234,15 @@ If you'd like more practice, checkout [code contributions](https://github.com/ro
 
 Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
 
-### [Additional material](docs/additional-material/git_workflow_scenarios/additional-material.md)
+### [Zusätzliches Material](docs/additional-material/git_workflow_scenarios/additional-material.md)
 
-## Tutorials Using Other Tools
+## Tutorials mit anderen Tools
 
 | <a href="docs/gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="docs/gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="docs/gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="docs/gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="docs/gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="docs/gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [GitHub Desktop](docs/gui-tool-tutorials/github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](docs/gui-tool-tutorials/github-windows-vs2017-tutorial.md)                                                                                                                          | [GitKraken](docs/gui-tool-tutorials/gitkraken-tutorial.md)                                                                                                                                        | [Visual Studio Code](docs/gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                                                  | [Atlassian Sourcetree](docs/gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                                      | [IntelliJ IDEA](docs/gui-tool-tutorials/github-windows-intellij-tutorial.md)                                                                                                                                                          |
 
-<p>This project is supported by:</p>
+<p>Dieses Projekt wird unterstützt von:</p>
 <p>
   <a href="https://www.digitalocean.com/">
     <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_horizontal_blue.svg" width="201px">
