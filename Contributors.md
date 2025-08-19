@@ -1971,4 +1971,5 @@ jack - first contribution practice
 - [Keshav](https://github.com/MrKeshav0X7) 
 - [Vincent O](https://github.com/Vinads)
 - [Rutik Yadav](https://github.com/rutikyadav71)
-- [polygon](https://github.com/polygon00-dev)
+- [Chxuo](https://github.com/chxuo)
+- [polygon00-dev](https://github.com/polygon00-dev)
