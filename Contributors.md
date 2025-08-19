@@ -1260,6 +1260,7 @@ Eoin O'B
 - [Areeb Ahmad](https://github.com/AreebAhmad-02)
 - [BOUKARI Marfourz](https://github.com/Marfourz)
 - [Lakshya Mishra](https://github.com/mishrlaksh)
+- [VirtualDavide](https://github.com/VirtualDavide)
 - [Noah Petzinger](https://github.com/Jimegroxak)
 - [Paul Czerniak](https://github.com/ptczerni)
 - [Samuel Rudqvist](https://github.com/srudqvist)
