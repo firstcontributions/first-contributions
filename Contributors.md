@@ -97,6 +97,7 @@ git # Contributors
 - [Areen Patil](https://github.com/areen-patil)
 - [Sunday](https://github.com/Hao-tian)
 - [Demetris B.](https://github.com/deyil)
+- Ayush
 - [Priyanshu Tiwari](https://github.com/d3monviking)
 - [Kartikeya Dimri](https://github.com/kartikeya-dimri)
 - [0xAnamul](https://github.com/0xAnamul)
