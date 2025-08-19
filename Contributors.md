@@ -1982,3 +1982,4 @@ jack - first contribution practice
 - [Chxuo](https://github.com/chxuo)
 - [polygon00-dev](https://github.com/polygon00-dev)
 - Grant
+- [Zach Gallman](https://github.com/zdotg)
