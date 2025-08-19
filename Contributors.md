@@ -1814,6 +1814,7 @@ Eoin O'B
 - [Umesh Raju](https://github.com/UmeshRaju)
 - [Ganesh R](https://github.com/ganesh-techs)
 - [Vamshi Krishna G](https://github.com/Krishna-721)
+- [Priyanka Singh](https://github.com/Priyanka-Singh3)
 - [Elielton Bueno](https://github.com/ElieltonBueno)
 - [Sina Soltani](https://github.com/sinaxzi)
 - [Keerthi Geddi](https://github.com/GeddiKeerthi8737)
