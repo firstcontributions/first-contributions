@@ -1,5 +1,5 @@
 # Contributors
-- [Sai Sruthi Kunduru](https://github.com/saisruthikunduru)
+
  [Nakshathra](https://github.com/Nakshathra-17S)
  naveen-branch-first-contribution
 - [Naveen Kumar](https://github.com/RowthuNaveenKumar)
