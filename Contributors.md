@@ -507,6 +507,7 @@ The-Yash-is-Joined
 - [deep9x](https://github.com/deep9x)
 - [Yash aka Light](https://github.com/y8done)
 - [devoceon](https://github.com/emy3)
+- [Bobby Wells](https://github.com/bobbywells52)
 - [Avadhoot Kulkarni] (https://github.com/Avadhoot-Kulkarni)
 - [wystmk](https://github.com/wystmk)
 - [Shab00](https://github.com/Shab00)
