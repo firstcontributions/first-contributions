@@ -215,6 +215,7 @@ Shruti Tiwari
 - [Bam](https://github.com/QBJ08)
 - [Kavya Vadla](https://github.com/kvadla06)
 - [dfdavila2](https://github.com/dfdavila2)
+- [halzq](https://github.com/halzq)
 - [tomasbennett](https://github.com/tomasbennett)
 - [Jerry](https://github.com/SniperRaccoon)
 - [richarddalves](https://github.com/richarddalves)
