@@ -90,9 +90,9 @@
 
 Dieses Projekt zielt darauf ab, Anfängern den Einstieg zu erleichtern und sie bei ihrem ersten Beitrag zu unterstützen. Wenn du deinen ersten Beitrag leisten möchten, befolge die folgenden Schritte.
 
-_Wenn du nicht weißt wie man das Terminal/CMD bedient, [hier sind tutorials für GUI Tools.](#tutorials-using-other-tools)_
+_Wenn du nicht weißt wie man das Terminal/CMD bedient, [hier findest du Anleitungen für GUI Tools.](#Anleitungen-für-andere-Tools)_
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="Forke dieses Repository" />
 
 #### Wenn du Git nicht auf deinem System installiert hast, [installiere es](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
@@ -103,9 +103,9 @@ Dies wird eine Kopie dieses Repository's in deinem Account erstellen.
 
 ## Klone das Repository
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="Klone dieses Repository" />
 
-Klone jetzt das geforkte Repository auf deinen Computer. Gehe zu dienem Github Account, öffne das geforkte Repository, drücke auf den Code Button, dann auf den SSH Tab und dann drücke auf das _copy url to clipboard_ icon.
+Klone jetzt das geforkte Repository auf deinen Computer. Gehe zu deinem Github Account, öffne das geforkte Repository, drücke auf den Code Button, dann auf den SSH Tab und dann drücke auf das _copy url to clipboard_ icon.
 
 Öffne ein Terminal Fenster und führe den folgenden Git Befehl aus:
 
@@ -115,7 +115,7 @@ git clone "kopierte url"
 
 wobei "kopierte url" (ohne die Anführungszeichen) die url zu diesem Repository ist (deine Fork von diesem Projekt). Im vorherigen Schritt siehst du wie du diese erhälst .
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="URL in die Zwischenablage kopieren" />
 
 Zum Beispiel:
 
@@ -146,9 +146,9 @@ git switch -c add-alonzo-church
 ```
 
 <details>
-<summary> <strong>Wenn du auf irgendeinen Fehler bei der Nutzung von `git switch` stößt, drücke hier:</strong> </summary>
+<summary> <strong>Wenn du auf irgendeinen Fehler bei der Nutzung von git switch stößt, drücke hier:</strong> </summary>
 
-Wenn die Fehlermeldung "Git: `switch` is not a git command. See `git –help`" auftaucht, liegt dies wahrscheinlich daran das du eine veraltete Version von Git nutzt.
+Wenn die Fehlermeldung "Git: `switch` is not a git command. See `git –help`" erscheint, liegt dies wahrscheinlich daran das du eine veraltete Version von Git nutzt.
 
 In diesem Fall versuche stattdessen `git checkout` zu nutzen:
 
@@ -160,25 +160,25 @@ git checkout -b dein-neuer-zweig-name
 
 ## Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+Öffne nun die Datei `Contributors.md` in einem Texteditor und füge deinen Namen hinzu. Füge ihn nicht ganz am Anfang oder am Ende hinzu, sondern irgendwo dazwischen, mittendrin. Speichere jetzt die Datei.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
-If you go to the project directory and execute the command `git status`, you'll see there are changes.
+Wenn du in den Projektordner gehst und den Befehl `git status`, ausführst werden dir die Änderungen angezeigt.
 
-Add those changes to the branch you just created using the `git add` command:
+Füge diese Änderungen nun zu dem Zweig hinzu den du gerade erstellt hast, indem du den Befehl `git add` ausführst.
 
 ```bash
 git add Contributors.md
 ```
 
-Now commit those changes using the `git commit` command:
+Jetzt commite diese Änderungen mit dem `git commit` Befehl:
 
 ```bash
 git commit -m "Add your-name to Contributors list"
 ```
 
-replacing `your-name` with your name.
+ersetze `your-name` mit deinem Namen.
 
 ## Push changes to GitHub
 
@@ -236,7 +236,7 @@ Now let's get you started with contributing to other projects. We've compiled a 
 
 ### [Zusätzliches Material](docs/additional-material/git_workflow_scenarios/additional-material.md)
 
-## Tutorials mit anderen Tools
+## Anleitungen für andere Tools
 
 | <a href="docs/gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="docs/gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="docs/gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="docs/gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="docs/gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="docs/gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
