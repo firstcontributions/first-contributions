@@ -1332,6 +1332,7 @@ Eoin O'B
 - [Nejma Latheef](https://github.com/Nejma-Latheef)
 - [Davide Rubinetti](https://github.com/davideruby)
 - [FabioCamerota](https://github.com/FabioCamerota)
+- [Renã Biaobock](https://github.com/rena-biaobock)
 - [Tharun Rajeev](https://github.com/TharunRajeev/)
 - [krushnaapatil](https://github.com/Krushnaapatil)
 - [Christopher Faris](https://github.com/chrisF943)
