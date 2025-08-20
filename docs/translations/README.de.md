@@ -233,7 +233,7 @@ Wenn du gerne mehr Übung hättest, schau dir [code contributions](https://githu
 
 Jetzt los gehts, mit Beiträgen zu anderen Projekten. Wir haben eine Liste von Projekten mit leichten Fehlern für Einsteiger bereitgestellt. Schau dir [die Liste der Projekte in der Web-App an](https://firstcontributions.github.io/#project-list) an.
 
-### [Zusätzliches Material](docs/additional-material/git_workflow_scenarios/additional-material.md)
+### [Zusätzliches Material](docs/additional-material/additional-material.md)
 
 ## Anleitungen für andere Tools
 
