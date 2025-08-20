@@ -2000,4 +2000,5 @@ jack - first contribution practice
 - [Muhammad Talha](https://github.com/TALHAdevelops) #Last Contributor of 1 Thousands
 - [Kaushal Galav](https://github.com/kaushalcracks)
 - [Durnea Maxim](https://github.com/max-durnea)
-[Vartika Lohiya](https://github.com/vartekalohiya13)
+- [Oleg] (https://github.com/vapvaparpva-dotcom)
+- [Vartika Lohiya](https://github.com/vartekalohiya13)
