@@ -356,6 +356,7 @@ P Venkata Rami Reddy
 - [ATUL-SHARMA](https://github.com/Atul-Clg-Id)
 - [Mokshith]
 - [Pinion](https://pinion.kr)
+- [Zubair]
 - [jürgen vanzeir]
 - [yeisondev001 💎](https://github.com/yeisondev001)
 - [ZMM-zhangmanman]
