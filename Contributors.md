@@ -1999,3 +1999,4 @@ jack - first contribution practice
 - [Renato Ferreira](https://github.com/tatovisk85)
 - [Muhammad Talha](https://github.com/TALHAdevelops) #Last Contributor of 1 Thousands
 - [Kaushal Galav](https://github.com/kaushalcracks)
+- [Durnea Maxim](https://github.com/max-durnea)
