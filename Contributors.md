@@ -2012,5 +2012,5 @@ jack - first contribution practice
 - [Durnea Maxim](https://github.com/max-durnea)
 - [Oleg] (https://github.com/vapvaparpva-dotcom)
 - [Vartika Lohiya](https://github.com/vartekalohiya13)
-- [BugWithJayesh](https://github.com/BugWithJayesh) 🎮
+- [BugWithJayesh](https://github.com/BugWithJayesh) JayZenX_3
 - 
