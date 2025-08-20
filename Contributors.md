@@ -11,6 +11,7 @@ git # Contributors
 - [Tonny Nyauke]
 - [Muhammad Nouman](https://github.com/coder595)
 - [Nishant Naravarajula](https://github.com/nish-naravarajula)
+- [Vishal Manik](https://github.com/vmanik2k)
 - [Vittorino  Favaro](https://github.com/vittorino-favaro)
 - [Alex Hann](https://github.com/lurch9)
 - [Sanjeev Kumar Sharma](https://github.com/SanjeevKrSharma)
