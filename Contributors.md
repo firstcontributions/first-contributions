@@ -1,6 +1,7 @@
 # Contributors
 - [Rakshith Srinivasan](https://github.com/rakhith)
 - [Shashidhar](https://github.com/shashidharsai)
+- [Tum Teeradach](https://github.com/Tum-404)
 - [Mathew Joseph](https://github.com/MJTheGreat3)
 - [Shivek Ranjan](https://github.com/ShivekRanjan)
 - [Akul Anhith](https://github.com/akul)
@@ -131,7 +132,6 @@
 - [Jose Nieto](https://github.com/nietojose10)
 - [sunshineflymeat](https://github.com/sunshineflymeat)
 - [Ritesh Singh](https://github.com/ritesh355)
-- [Pulindu pasanjith](https://github.com/pulindu117)
 - [Satrap18](https://github.com/Satrap18)
 - [alluriakhil18](https://github.com/alluriakhil18)
 - [Aditya Rao]
