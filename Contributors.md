@@ -1234,6 +1234,7 @@ Eoin O'B
 - [rice-mountain](https://github.com/rice-mountain)
 - [Ronahi Bağcı](https://github.com/RonayBagci)
 - [RiteshSirohi](https://github.com/riteshsirohi)
+- [JagathKriishna](https://github.com/Jagathkrish)
 - [SANJAY KUMAR](https://github.com/sanjaydeepak)
 - [Algorytmouse](https://github.com/algorytmouse)
 - [shubham goyal](https://github.com/shubgoyal23)
