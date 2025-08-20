@@ -4,6 +4,7 @@
 - [Likhitha](https://github.com/likhitha07)
 - [Choudary Hussain Ali](https://github.com/choudaryhussainali)
 - [Sunday](https://github.com/Hao-tian)
+- [Inigo](https://github.com/inigostibbe)
 - [Demetris B.](https://github.com/deyil)
 - [0xAnamul](https://github.com/0xAnamul)
 - [João Scarlateli](https://github.com/Scarlateli)
