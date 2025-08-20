@@ -47,6 +47,7 @@ git # Contributors
 - [Ajay Brightson](https://github.com/AjayJ1711)
 - [Shabir Ahmad Sediqi](https://github.com/Shabir-Ahmad-Sediqi)
 - [Wycliffe Musau](https://github.com/Excellent58)
+- [Abdeljalil Ounaceur](https://github.com/Abdeljalil-Ounaceur)
 - [Tusa Rivera-Larkowski](https://github.com/tlarkowski)
 - [Pragya Rai]()
 - [Saparmyrat Saparmyradov](https://github.com/Sapar-hub)
