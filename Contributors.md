@@ -114,6 +114,7 @@ git # Contributors
 - [Vishwambar Manchewar](https://github.com/vishmanchewar)
 - [seon99il](https://github.com/seon99il)
 - [Ms_Njuguna](https://github.com/Ms-Njuguna)
+- [David Gralla](https://github.com/dgralla)
 - [sajad thapa](https://github.com/sajadthapa04)
 - [mizuki](https://github.com/mizuresort)
 - [Priyanshu Tiwari](https://github.com/d3monviking)
