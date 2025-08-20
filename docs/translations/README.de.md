@@ -180,59 +180,58 @@ git commit -m "Add your-name to Contributors list"
 
 ersetze `your-name` mit deinem Namen.
 
-## Push changes to GitHub
+## Änderungen auf Github pushen
 
-Push your changes using the command `git push`:
+Übertrage deine Änderungen mit `git push`:
 
 ```bash
-git push -u origin your-branch-name
+git push -u origin dein-zweig-name
 ```
 
-replacing `your-branch-name` with the name of the branch you created earlier.
+ersetze `dein-zweig-name` mit dem Namen des Zweiges den du vorhin erstellt hast.
 
 <details>
-<summary> <strong>If you get any errors while pushing, click here:</strong> </summary>
+<summary> <strong>Solltest du auf irgendwelche Fehler beim Pushen stoßen, drücke hier:</strong> </summary>
 
-- ### Authentication Error
+- ### Authentifizierungs Fehler
      <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
   remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
   fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
-  Go to [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) on generating and configuring an SSH key to your account.
-
-  Also, you might want to run 'git remote -v' to check your remote address.
+  Gehe zu [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) wie du einen ssh Key zu deinem Account hinzufügst und konfigurierst.
+  Außerdem, kannst du 'git remote -v' ausführen um deine Remote Addresse anzuzeigen.
   
-  If it looks anything like this:
+  Wenn es so aussieht:
   <pre>origin	https://github.com/your-username/your_repo.git (fetch)
   origin	https://github.com/your-username/your_repo.git (push)</pre>
   
-  change it using this command:
+  ändere es mit diesem Befehl:
   ```bash
-  git remote set-url origin git@github.com:your-username/your_repo.git
+  git remote set-url origin git@github.com:dein-nutzername/dein_repo.git
   ```
-  Otherwise you'll still get prompted for username and password and get authentication error.
+  Ansonsten wirst du noch immer aufgefordert Passwort und Benutzername einzugeben und bekommst einen Authentifizierungs Fehler.
 </details>
 
-## Submit your changes for review
+## Reiche deine Änderungen für ein Review ein
 
-If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
+Wenn du jetzt zu deinem Repository auf Github gehts, wirst du einen `Compare & pull request` Knopf sehen. Drücke diesen Knopf.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="erstelle eine Pull-Request" />
 
-Now submit the pull request.
+Jetzt, reiche deine Pull-Request ein.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="Reiche deine Pull-Request ein" />
 
-Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
+Bald werde ich alle deine Änderungen in den Haupt-Zweig dieses Projektes mergen. Du wirst eine Benachrichtigungs Email bekommen sobald die Änderungen gemerged wurden.
 
-## Where to go from here?
+## Was nun?
 
-Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll often encounter as a contributor!
+Gratulation! Du hast gerade den Standard _Forken -> Klonen -> Bearbeiten -> Pull-Request_ Workflow durchgeführt, dem du als Beitragender oft begegnen wirst!
 
-Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io/#social-share).
+Feier deinen Beitrag und teile in mit deinen Freunden und Followern indem du hier drückst [web app](https://firstcontributions.github.io/#social-share).
 
-If you'd like more practice, checkout [code contributions](https://github.com/roshanjossey/code-contributions).
+Wenn du gerne mehr Übung hättest, schau dir [code contributions](https://github.com/roshanjossey/code-contributions) an.
 
-Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
+Jetzt los gehts, mit Beiträgen zu anderen Projekten. Wir haben eine Liste von Projekten mit leichten Fehlern für Einsteiger bereitgestellt. Schau dir [die Liste der Projekte in der Web-App an](https://firstcontributions.github.io/#project-list) an.
 
 ### [Zusätzliches Material](docs/additional-material/git_workflow_scenarios/additional-material.md)
 
