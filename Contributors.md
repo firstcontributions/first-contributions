@@ -79,6 +79,7 @@ git # Contributors
 - [Raj Soni](https://github.com/rajsonnii)
 - [Karan Dhiman](https://github.com/karandhiman12)
 - [Gurparsad Singh](https://github.com/gprathour)
+- [Ranjith] (https://github.com/Ranjithjm123)
 - [Srinivas Batthula](https://github.com/srinivas-batthula)
 - [Shun Khaing](https://github.com/shunkhaing)
 - [Pavishni](https://github.com/Pavishni)
