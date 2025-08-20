@@ -1,5 +1,5 @@
 git # Contributors
-
+- [Pinintti Sunil](https://github.com/Pininttisunil)
 - [Ankit Kumar Yadav](https://github.com/AnkitKrYadav)
 - [Ravi Kumar Jha](https://github.com/ravijha9546)
 - [Dhairya Dev](https://github.com/dhairyadev26)
