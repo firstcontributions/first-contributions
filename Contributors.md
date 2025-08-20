@@ -22,6 +22,7 @@ git # Contributors
 - [rainhuang0220](https://github.com/rainhuang0220)
 - [SSA](https://github.com/sshnag)
 - [eieilin](https://github.com/eieilin)
+- [Vishal](https://github.com/Nvishal2006)
 - [Devesh Paryani](https://github.com/Devesh102030)
 - [Noor Jellani](https://github.com/nurulain0)
 -[Zainab Travadi](https://github.com/ZainabTravadi)
