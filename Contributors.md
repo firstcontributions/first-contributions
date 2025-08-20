@@ -1643,6 +1643,7 @@ Eoin O'B
 - [Daniel Barbosa Martins](https://github.com/dmatrixxBR)
 - [TheJaydenProject](https://github.com/TheJaydenProject)
 - [notamudkipiguess](https://github.com/notamudkipiguess)
+- [nal888](https://github.com/nal888)
 - [rujeetjahagirdar](https://github.com/rujeetjahagirdar)
 - [sema-altinkaynak](https://github.com/sema-altinkaynak)
 - [Gnanendra Naidu N](https://github.com/gnanendranaidun)
