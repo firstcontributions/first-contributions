@@ -1997,3 +1997,4 @@ jack - first contribution practice
 - [Thabang Alfred Motsoahae](https://github.com/Axulo-Inc)
 - [Renato Ferreira](https://github.com/tatovisk85)
 - [Muhammad Talha](https://github.com/TALHAdevelops) #Last Contributor of 1 Thousands
+- [Kaushal Galav](https://github.com/kaushalcracks)
