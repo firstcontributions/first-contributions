@@ -624,6 +624,7 @@ Ben
 - [dinesh](https://github.com/dineshv97)
 - [dev-sik](https://github.com/YouD0313)
 - [AFRA A](https://github.com/Afrah4331)
+  [Chandrachud Siddharth](https://github.com/c-sidd);
 - [adrianescalona228](https://github.com/adrianescalona228)
 - [amelia](https://github.com/amy-jd)
 - [Drax-dr](https://github.com/Drax-dr/)
