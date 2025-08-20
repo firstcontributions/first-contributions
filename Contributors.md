@@ -1,6 +1,7 @@
 git # Contributors
 
 - [Ankit Kumar Yadav](https://github.com/AnkitKrYadav)
+- [Ravi Kumar Jha](https://github.com/ravijha9546)
 - [Dhairya Dev](https://github.com/dhairyadev26)
 - [Martin-Perfumo] (https://github.com/MartinPerfumo) 
  [Nakshathra](https://github.com/Nakshathra-17S)
@@ -10,6 +11,7 @@ git # Contributors
 - [Tonny Nyauke]
 - [Muhammad Nouman](https://github.com/coder595)
 - [Nishant Naravarajula](https://github.com/nish-naravarajula)
+- [Vishal Manik](https://github.com/vmanik2k)
 - [Vittorino  Favaro](https://github.com/vittorino-favaro)
 - [Alex Hann](https://github.com/lurch9)
 - [Sanjeev Kumar Sharma](https://github.com/SanjeevKrSharma)
@@ -54,6 +56,7 @@ git # Contributors
 - [Jem Koeleman]()
 - [Madhu Dora]()
 - [Nishal Ahmed](https://github.com/nishalahmedpk)
+- [Rudrabikram Roy](https://github.com/codedbyrudra)
 - [Jenna Hall](https://github.com/swejenna)
 - [Ankit Aggarwal](https://curious.pm)
 - [rubik](https://github.com/rubiksfood)
@@ -114,6 +117,7 @@ git # Contributors
 - [Vishwambar Manchewar](https://github.com/vishmanchewar)
 - [seon99il](https://github.com/seon99il)
 - [Ms_Njuguna](https://github.com/Ms-Njuguna)
+- [David Gralla](https://github.com/dgralla)
 - [sajad thapa](https://github.com/sajadthapa04)
 - [mizuki](https://github.com/mizuresort)
 - [Priyanshu Tiwari](https://github.com/d3monviking)
@@ -356,6 +360,7 @@ P Venkata Rami Reddy
 - [ATUL-SHARMA](https://github.com/Atul-Clg-Id)
 - [Mokshith]
 - [Pinion](https://pinion.kr)
+- [Zubair]
 - [jürgen vanzeir]
 - [yeisondev001 💎](https://github.com/yeisondev001)
 - [ZMM-zhangmanman]
@@ -387,6 +392,7 @@ P Venkata Rami Reddy
 - [RunningEscaping](https://github.com/turhantolgaunal)
 - [hamadsedrati](https://github.com/hamadsedrati)
 - [Abhay Kumar](https://github.com/abhykmr)
+- [Durgesh Dhurve](https://github.com/bittu9975)
 - [UncleObinna](https://github.com/UncleObinna)
 - [Cole Fleming] (https://github.com/Cole-Fleming)
 -[bzms](https://github.com/lizzalpha)
@@ -619,6 +625,7 @@ Ben
 - [dinesh](https://github.com/dineshv97)
 - [dev-sik](https://github.com/YouD0313)
 - [AFRA A](https://github.com/Afrah4331)
+  [Chandrachud Siddharth](https://github.com/c-sidd);
 - [adrianescalona228](https://github.com/adrianescalona228)
 - [amelia](https://github.com/amy-jd)
 - [Drax-dr](https://github.com/Drax-dr/)
@@ -1216,6 +1223,7 @@ Eoin O'B
 - [Zafran Ullah](https://github.com/zafran-ullah)
 - [Sreekutty K](https://github.com/sreekutty-434)
 - [Arman Yadav](https://github.com/armaaan-yadav)
+- [Devansh Baghla](https://github.com/Devansh-b)
 - [candycane124](https://github.com/candycane124)
 - [Rushikesh Jadhav](https://github.com/Rushi543)
 - [Arindam Dinda](https://github.com/Arindam2003)
@@ -1226,6 +1234,7 @@ Eoin O'B
 - [rice-mountain](https://github.com/rice-mountain)
 - [Ronahi Bağcı](https://github.com/RonayBagci)
 - [RiteshSirohi](https://github.com/riteshsirohi)
+- [JagathKriishna](https://github.com/Jagathkrish)
 - [SANJAY KUMAR](https://github.com/sanjaydeepak)
 - [Algorytmouse](https://github.com/algorytmouse)
 - [shubham goyal](https://github.com/shubgoyal23)
@@ -1920,6 +1929,7 @@ jack - first contribution practice
 - [Satyam Dewangan](https://github.com/Satyamashu05)
 - [Chirag Sharma](https://github.com/chirraaggggg)
 - [Gustavo Aguilar](https://github.com/gangeagui)
+- [AltDarkcurl]what a great thing!
 - [magician10001](https://github.com/magician10001)
 - [AnnaFromChangsha](https://github.com/aboutanna)
 -[abhidaveT](https://github.com/ItzmeFurina)
@@ -1968,6 +1978,7 @@ jack - first contribution practice
 - [Neil Irungu](https://github.com/algorithmine)
 - [Sarbojit Rana](https://github.com/sarbojitrana)
 - [John Mixon](https://github.com/mixdev2112)
+- [Aadvika Pandey](https://github.com/Addvika)
 - [goldenbough0](https://github.com/goldenbough0)
 - [Millicent Convento](https://github.com/mjmconvento)
 - OK
@@ -1986,3 +1997,10 @@ jack - first contribution practice
 - [polygon00-dev](https://github.com/polygon00-dev)
 - Grant
 - [Zach Gallman](https://github.com/zdotg)
+- [Thabang Alfred Motsoahae](https://github.com/Axulo-Inc)
+- [Renato Ferreira](https://github.com/tatovisk85)
+- [Muhammad Talha](https://github.com/TALHAdevelops) #Last Contributor of 1 Thousands
+- [Kaushal Galav](https://github.com/kaushalcracks)
+- [Durnea Maxim](https://github.com/max-durnea)
+- [Oleg] (https://github.com/vapvaparpva-dotcom)
+- [Vartika Lohiya](https://github.com/vartekalohiya13)
