@@ -1221,6 +1221,7 @@ Eoin O'B
 - [Zafran Ullah](https://github.com/zafran-ullah)
 - [Sreekutty K](https://github.com/sreekutty-434)
 - [Arman Yadav](https://github.com/armaaan-yadav)
+- [Devansh Baghla](https://github.com/Devansh-b)
 - [candycane124](https://github.com/candycane124)
 - [Rushikesh Jadhav](https://github.com/Rushi543)
 - [Arindam Dinda](https://github.com/Arindam2003)
