@@ -7,11 +7,13 @@ git # Contributors
  [Nakshathra](https://github.com/Nakshathra-17S)
  naveen-branch-first-contribution
 - [Naveen Kumar](https://github.com/RowthuNaveenKumar)
+- [Chijioke Madu](https://github.com/SaltCJ)
 - [Brandon McHugh](https://github.com/brandmch)
 - [Tonny Nyauke]
 - [Muhammad Nouman](https://github.com/coder595)
 - [Nishant Naravarajula](https://github.com/nish-naravarajula)
 - [Vishal Manik](https://github.com/vmanik2k)
+- [Esraa Hassan] (https://github.com/Esraa-Hassan0)
 - [Vittorino  Favaro](https://github.com/vittorino-favaro)
 - [Alex Hann](https://github.com/lurch9)
 - [Sanjeev Kumar Sharma](https://github.com/SanjeevKrSharma)
@@ -112,6 +114,7 @@ git # Contributors
 - [AshuRohom](https://github.com/ashurohom)
 - [João Scarlateli](https://github.com/Scarlateli)
 - [Nikunj](https://github.com/nikunj169)
+- [Hernan Pezoa](https://github.com/hernanUpezoa/)
 - [Paulson Mathew](https://github.com/ajoyscorpion)
 - [Chandrahas](https://github.com/chandrahas121)
 - [Devna jiya R](https://github.com/jiya22r)
@@ -146,6 +149,7 @@ git # Contributors
 - [Prajwal Chopade](https://github.com/PrajwalChopade)
 - [Romesha Afzaal](https://github.com/Romeshaafzaal)
 - [Velidanda Krishna Sai](https://github.com/melohub-xbit)
+- [Gaurav Kumar](https://github.com/ARtoRiAs10)
 - [Akhilanandateja Sanga](https://github.com/Akhilanandateja)
 - [andyyou7549](https://github.com/andyyou7549)
 - [Asabul Hossain Mondal](https://github.com/asabulmondal)
@@ -1642,6 +1646,7 @@ Eoin O'B
 - [Daniel Barbosa Martins](https://github.com/dmatrixxBR)
 - [TheJaydenProject](https://github.com/TheJaydenProject)
 - [notamudkipiguess](https://github.com/notamudkipiguess)
+- [nal888](https://github.com/nal888)
 - [rujeetjahagirdar](https://github.com/rujeetjahagirdar)
 - [sema-altinkaynak](https://github.com/sema-altinkaynak)
 - [Gnanendra Naidu N](https://github.com/gnanendranaidun)
@@ -1855,6 +1860,7 @@ Eoin O'B
 -[Richa Chaudhary](https://github.com/RICHA-CHAUDHARY)
 -[Warren MTT](https://github.com/warching)
 - [Sos Judge]
+- [Helen Fu](https://github.com/helenjfu)
 - [Sreya Bhattacharjee](https://github.com/bsreya0906)
 - [Priya Kumari](https://github.com/priyayayayayaaa)
 - [Digvijaysinh Pawar](https://github.com/ImNotFound7)
@@ -1920,6 +1926,7 @@ jack - first contribution practice
 - [Rishabh Pathak](https://github.com/RishabhPathak93)
 - [Yashub Goel]
 - [aaaa]
+- [imdo]
 - [Shivang](https://github.com/shivang-jnv)
 - [playerblair](https://github.com/playerblair)
 - [Shahrukh Khan](https://github.com/srk384)
