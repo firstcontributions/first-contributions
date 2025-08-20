@@ -2021,3 +2021,4 @@ jack - first contribution practice
 - [Vartika Lohiya](https://github.com/vartekalohiya13)
 - [BugWithJayesh](https://github.com/BugWithJayesh)
 - [Prabhnoor Kaur](https://github.com/Prabhnoor186)
+- [Jingyi Lu](https://github.com/lulu61000)
