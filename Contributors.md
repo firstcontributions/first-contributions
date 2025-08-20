@@ -41,7 +41,7 @@ git # Contributors
 - [Srinath Akkem](https://github.com/bd-SrinathAkkem)
 - [Koushik Pyarasani](https://github.com/pyaarasanikoushik)
 - [Parth Sivakumar](https://github.com/Parth-sk)
-- [Trần Phương hùng ](https://github.com/blueqing2026)
+- [Trần Phương Hùng & Đỗ Nhật Thanh ❤️](https://github.com/blueqing2026)
 - [Akul Anhith](https://github.com/akul)
 - [Ahmed Fikri](https://github.com/Fikri-20)
 - [Ajay Brightson](https://github.com/AjayJ1711)
