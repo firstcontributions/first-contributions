@@ -1994,8 +1994,8 @@ jack - first contribution practice
 - [John Mixon](https://github.com/mixdev2112)
 - [Aadvika Pandey](https://github.com/Addvika)
 - [goldenbough0](https://github.com/goldenbough0)
+- [vivek i s](https://https://github.com/vivek-i-s)
 - [Millicent Convento](https://github.com/mjmconvento)
-- OK
 - Chara
 - [Krish Yadav] (https://github.com/Ky-1106)
 - [Krish Yadav](https://github.com/Ky-1106)
