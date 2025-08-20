@@ -778,7 +778,6 @@ Ben
 - [AdiSaikat](https://github.com/adisaikat)
 - [jsutCodes](https://github.com/jsutCodes)
 - [Somto Ogbe](https://github.com/somtoval)
-- [Abhay](https://github.com/abhayiscoding)
 - [kevinmj12](https://github.com/kevinmj12)
 - [ninet33n](https://github.com/meetVaidya)
 - [Vasu Singh](https://github.com/Vasu1303)
