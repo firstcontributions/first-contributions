@@ -114,6 +114,7 @@ git # Contributors
 - [AshuRohom](https://github.com/ashurohom)
 - [João Scarlateli](https://github.com/Scarlateli)
 - [Nikunj](https://github.com/nikunj169)
+- [Hernan Pezoa](https://github.com/hernanUpezoa/)
 - [Paulson Mathew](https://github.com/ajoyscorpion)
 - [Chandrahas](https://github.com/chandrahas121)
 - [Devna jiya R](https://github.com/jiya22r)
