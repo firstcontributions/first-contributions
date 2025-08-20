@@ -7,6 +7,7 @@ git # Contributors
  [Nakshathra](https://github.com/Nakshathra-17S)
  naveen-branch-first-contribution
 - [Naveen Kumar](https://github.com/RowthuNaveenKumar)
+- [Chijioke Madu](https://github.com/SaltCJ)
 - [Brandon McHugh](https://github.com/brandmch)
 - [Tonny Nyauke]
 - [Muhammad Nouman](https://github.com/coder595)
