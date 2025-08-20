@@ -103,6 +103,7 @@ git # Contributors
 - [Sruthi BJ](https://github.com/Bjsruthi)
 - [Areen Patil](https://github.com/areen-patil)
 - [Sunday](https://github.com/Hao-tian)
+- [Inigo](https://github.com/inigostibbe)
 - [Demetris B.](https://github.com/deyil)
 - Ayush
 - [Priyanshu Tiwari](https://github.com/d3monviking)
