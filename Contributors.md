@@ -1858,6 +1858,7 @@ Eoin O'B
 -[Richa Chaudhary](https://github.com/RICHA-CHAUDHARY)
 -[Warren MTT](https://github.com/warching)
 - [Sos Judge]
+- [Helen Fu](https://github.com/helenjfu)
 - [Sreya Bhattacharjee](https://github.com/bsreya0906)
 - [Priya Kumari](https://github.com/priyayayayayaaa)
 - [Digvijaysinh Pawar](https://github.com/ImNotFound7)
