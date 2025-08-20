@@ -1996,3 +1996,4 @@ jack - first contribution practice
 - [Zach Gallman](https://github.com/zdotg)
 - [Thabang Alfred Motsoahae](https://github.com/Axulo-Inc)
 - [Renato Ferreira](https://github.com/tatovisk85)
+- [Muhammad Talha](https://github.com/TALHAdevelops) #Last Contributor of 1 Thousands
