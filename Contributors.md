@@ -13,12 +13,14 @@ git # Contributors
 - [Mohamed Ismail Gasmi]()
 - [Brandon McHugh](https://github.com/brandmch)
 - [Tonny Nyauke]
+-[Shaswata Panda]
 - [Muhammad Nouman](https://github.com/coder595)
 - [Nishant Naravarajula](https://github.com/nish-naravarajula)
 - [Vishal Manik](https://github.com/vmanik2k)
 - [Esraa Hassan] (https://github.com/Esraa-Hassan0)
 - [Vittorino  Favaro](https://github.com/vittorino-favaro)
 - [Alex Hann](https://github.com/lurch9)
+- [WWH](https://github.com/Wint02)
 - [Sanjeev Kumar Sharma](https://github.com/SanjeevKrSharma)
 - [Veysel Yatkın](https://github.com/veysel2020)
 - [Naveen C](https://github.com/naveench98)
@@ -374,6 +376,7 @@ P Venkata Rami Reddy
 - [Pinion](https://pinion.kr)
 - [Zubair]
 - [jürgen vanzeir]
+- [Keya Shah] (https://github.com/keysh123)
 - [yeisondev001 💎](https://github.com/yeisondev001)
 - [ZMM-zhangmanman]
 - [Andrea Moguel](https://github.com/amoguelk)
@@ -2024,3 +2027,4 @@ jack - first contribution practice
 - [Prabhnoor Kaur](https://github.com/Prabhnoor186)
 - [Jingyi Lu](https://github.com/lulu61000)
 - [Vivek Gupta](https://github.com/Vivekg1033)
+- [Paramjit Singh](https://github.com/param20h)
