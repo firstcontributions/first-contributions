@@ -1,31 +1,37 @@
 // give me a student class with getter setter and ctor
-public class Student {
-    private String name;
-    private int age;
+#include <string>
+#include <iostream>
+using namespace std;
 
+class Student {
+private:
+    std::string name;
+    int age;
+
+public:
     // Constructor
-    public Student(String name, int age) {
-        this.name = name;
-        this.age = age;
+    Student(std::string name, int age) {
+        this->name = name;
+        this->age = age;
     }
 
     // Getter for Name
-    public String getName() {
+    std::string getName() const {
         return name;
     }
 
     // Setter for Name
-    public void setName(String name) {
-        this.name = name;
+    void setName(std::string name) {
+        this->name = name;
     }
 
     // Getter for Age
-    public int getAge() {
+    int getAge() const {
         return age;
     }
 
     // Setter for Age
-    public void setAge(int age) {
-        this.age = age;
+    void setAge(int age) {
+        this->age = age;
     }
-}
+};
