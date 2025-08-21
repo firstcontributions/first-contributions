@@ -1,0 +1,13 @@
+name: Check Contributor Name
+
+on: [push]
+
+jobs:
+  check-name-in-file:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Check for "Oleg" in Contributors.md
+        run: grep -q "Oleg" Contributors.md
