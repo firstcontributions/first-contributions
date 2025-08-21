@@ -149,6 +149,7 @@ git # Contributors
 - [Nathan Hall](https://github.com/Zero4793)
 - [Rakesh Vanam](https://github.com/rakeshvanam6868)
 - [KamalKant](https://github.com/kamal2730)
+- [HarshYadav152](https://github.com/HarshYadav152)
 - [Paritosh Tiwari]
 - [Gods-ghost](https://github.com/dist34)
   [Eritrix](https://github.com/Eritrix)
