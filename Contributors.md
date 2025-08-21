@@ -2,6 +2,7 @@ git # Contributors
 - [Pinintti Sunil](https://github.com/Pininttisunil)
 - [Vinicius]
 - [fatimah](https://github.com/grindstack)
+- [Laveena Gupta](https://github.com/laveena29)
 - [Ankit Kumar Yadav](https://github.com/AnkitKrYadav)
 - [David Anane](https://github.com/plaestore)
 - [Giacomo Folli](https://github.com/giacomo-folli)
@@ -53,6 +54,7 @@ git # Contributors
 - [Trần Phương Hùng & Đỗ Nhật Thanh ❤️](https://github.com/blueqing2026)
 - [Akul Anhith](https://github.com/akul)
 - [Ahmed Fikri](https://github.com/Fikri-20)
+
 - [Ajay Brightson](https://github.com/AjayJ1711)
 - [Shabir Ahmad Sediqi](https://github.com/Shabir-Ahmad-Sediqi)
 - [Wycliffe Musau](https://github.com/Excellent58)
