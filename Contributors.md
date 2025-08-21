@@ -1,5 +1,6 @@
 git # Contributors
 - [Pinintti Sunil](https://github.com/Pininttisunil)
+- [Vinicius]
 - [Ankit Kumar Yadav](https://github.com/AnkitKrYadav)
 - [David Anane](https://github.com/plaestore)
 - [Ravi Kumar Jha](https://github.com/ravijha9546)
