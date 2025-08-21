@@ -179,6 +179,7 @@ git # Contributors
 - [Saptarsi Debnath](https://github.com/saptarsidebnath98)
 - [AmartyaPrakash](https://github.com/amartya69)
 - [Mantarey.dev](https://mantarey.dev)
+  [Anansh]
 - [Manav Jindal_IMT2023535](https://github.com/Manav9547)
 - [Thabeswar](https://github.com/Thabeswar)
 - [Mithielesh N](https://github.com/mithielesh)
