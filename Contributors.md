@@ -213,6 +213,7 @@ git # Contributors
 - [Jainil Desai](https://github.com/jainilDesai)
 - [jkm31459](https://github.com/jkm31459)
 - [axby1](https://github.com/axby1)
+- [Aryo Thursandi](https://github.com/thursandi)
 - [Jose Nieto](https://github.com/nietojose10)
 - [sunshineflymeat](https://github.com/sunshineflymeat)
 - [Ritesh Singh](https://github.com/ritesh355)
