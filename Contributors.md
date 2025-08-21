@@ -48,6 +48,7 @@ git # Contributors
 - [gazoline keton](https://github.com/gazolineketon)
 - [Kyusan Kim](https://github.com/5tarlight)
 - [Mathew Joseph](https://github.com/MJTheGreat3)
+- [Adam Barnett](https://github.com/adam-lev-barnett)
 - [Shivek Ranjan](https://github.com/ShivekRanjan)
 - [Srinath Akkem](https://github.com/bd-SrinathAkkem)
 - [Koushik Pyarasani](https://github.com/pyaarasanikoushik)
