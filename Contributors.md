@@ -11,6 +11,7 @@ git # Contributors
  [Nakshathra](https://github.com/Nakshathra-17S)
  naveen-branch-first-contribution
 - [Naveen Kumar](https://github.com/RowthuNaveenKumar)
+-[Goutham Krishna](https://github.com/gouthamkrishnae)
 - [Chijioke Madu](https://github.com/SaltCJ)
 - [Mohamed Ismail Gasmi]()
 - [Brandon McHugh](https://github.com/brandmch)
