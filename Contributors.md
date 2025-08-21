@@ -798,6 +798,7 @@ Ben
 - [EarendelH](https://github.com/Earendelh)
 - [dahynills](https://github.com/dahynills)
 - [wonathan](https://github.com/threestuff)
+- [Akshay Kale](https://github.com/Dev-axay18)
 - [AdiSaikat](https://github.com/adisaikat)
 - [jsutCodes](https://github.com/jsutCodes)
 - [Somto Ogbe](https://github.com/somtoval)
