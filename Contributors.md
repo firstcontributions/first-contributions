@@ -1,6 +1,7 @@
 git # Contributors
 - [Pinintti Sunil](https://github.com/Pininttisunil)
 - [Vinicius]
+- [fatimah](https://github.com/grindstack)
 - [Ankit Kumar Yadav](https://github.com/AnkitKrYadav)
 - [David Anane](https://github.com/plaestore)
 - [Giacomo Folli](https://github.com/giacomo-folli)
