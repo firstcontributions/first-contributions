@@ -1,5 +1,6 @@
 git # Contributors
-
+- [Pinintti Sunil](https://github.com/Pininttisunil)
+- [Vinicius]
 - [Ankit Kumar Yadav](https://github.com/AnkitKrYadav)
 - [David Anane](https://github.com/plaestore)
 - [Ravi Kumar Jha](https://github.com/ravijha9546)
@@ -9,14 +10,17 @@ git # Contributors
   naveen-branch-first-contribution
 - [Naveen Kumar](https://github.com/RowthuNaveenKumar)
 - [Chijioke Madu](https://github.com/SaltCJ)
+- [Mohamed Ismail Gasmi]()
 - [Brandon McHugh](https://github.com/brandmch)
 - [Tonny Nyauke]
+-[Shaswata Panda]
 - [Muhammad Nouman](https://github.com/coder595)
 - [Nishant Naravarajula](https://github.com/nish-naravarajula)
 - [Vishal Manik](https://github.com/vmanik2k)
 - [Esraa Hassan] (https://github.com/Esraa-Hassan0)
 - [Vittorino Favaro](https://github.com/vittorino-favaro)
 - [Alex Hann](https://github.com/lurch9)
+- [WWH](https://github.com/Wint02)
 - [Sanjeev Kumar Sharma](https://github.com/SanjeevKrSharma)
 - [Veysel Yatkın](https://github.com/veysel2020)
 - [Naveen C](https://github.com/naveench98)
@@ -34,6 +38,7 @@ git # Contributors
 - [Kerolos Nesim](https://github.com/kerolosnesim1)
 - [Shashidhar](https://github.com/shashidharsai)
 - [Nishant Raj](https://github.com/nishantraj278)
+- [Tum Teeradach](https://github.com/Tum-404)
 - [gazoline keton](https://github.com/gazolineketon)
 - [Kyusan Kim](https://github.com/5tarlight)
 - [Mathew Joseph](https://github.com/MJTheGreat3)
@@ -41,12 +46,13 @@ git # Contributors
 - [Srinath Akkem](https://github.com/bd-SrinathAkkem)
 - [Koushik Pyarasani](https://github.com/pyaarasanikoushik)
 - [Parth Sivakumar](https://github.com/Parth-sk)
-- [Trần Phương hùng ](https://github.com/blueqing2026)
+- [Trần Phương Hùng & Đỗ Nhật Thanh ❤️](https://github.com/blueqing2026)
 - [Akul Anhith](https://github.com/akul)
 - [Ahmed Fikri](https://github.com/Fikri-20)
 - [Ajay Brightson](https://github.com/AjayJ1711)
 - [Shabir Ahmad Sediqi](https://github.com/Shabir-Ahmad-Sediqi)
 - [Wycliffe Musau](https://github.com/Excellent58)
+- [Abdeljalil Ounaceur](https://github.com/Abdeljalil-Ounaceur)
 - [Tusa Rivera-Larkowski](https://github.com/tlarkowski)
 - [Pragya Rai]()
 - [Saparmyrat Saparmyradov](https://github.com/Sapar-hub)
@@ -198,7 +204,6 @@ git # Contributors
 - [Jose Nieto](https://github.com/nietojose10)
 - [sunshineflymeat](https://github.com/sunshineflymeat)
 - [Ritesh Singh](https://github.com/ritesh355)
-- [Pulindu pasanjith](https://github.com/pulindu117)
 - [Satrap18](https://github.com/Satrap18)
 - [alluriakhil18](https://github.com/alluriakhil18)
 - [Aditya Rao]
@@ -675,6 +680,7 @@ git # Contributors
 - [cpescato](https://github.com/cpescato)
 - [idrees](https://github.com/idrees2k22)
 - [JaeHye0k](https://github.com/JaeHye0k)
+ -[vanixyz](https://github.com/vanixyz)
 - [eesoyeon](https://github.com/eesoyeon)
 - [Olympus5](https://github.com/Olympus5)
 - [risavctt](https://github.com/risavctt)
@@ -775,11 +781,11 @@ git # Contributors
 - [Janardhan Polle](https://github.com/Jce)
 - [Anay](https://github.com/SiddharthaWork)
 - [EarendelH](https://github.com/Earendelh)
+- [dahynills](https://github.com/dahynills)
 - [wonathan](https://github.com/threestuff)
 - [AdiSaikat](https://github.com/adisaikat)
 - [jsutCodes](https://github.com/jsutCodes)
 - [Somto Ogbe](https://github.com/somtoval)
-- [Abhay](https://github.com/abhayiscoding)
 - [kevinmj12](https://github.com/kevinmj12)
 - [ninet33n](https://github.com/meetVaidya)
 - [Vasu Singh](https://github.com/Vasu1303)
@@ -1943,8 +1949,8 @@ git # Contributors
 - [John Mixon](https://github.com/mixdev2112)
 - [Aadvika Pandey](https://github.com/Addvika)
 - [goldenbough0](https://github.com/goldenbough0)
+- [vivek i s](https://https://github.com/vivek-i-s)
 - [Millicent Convento](https://github.com/mjmconvento)
-- OK
 - Chara
 - [Krish Yadav] (https://github.com/Ky-1106)
 - [Krish Yadav](https://github.com/Ky-1106)
@@ -1969,3 +1975,5 @@ git # Contributors
 - [Vartika Lohiya](https://github.com/vartekalohiya13)
 - [BugWithJayesh](https://github.com/BugWithJayesh)
 - [Prabhnoor Kaur](https://github.com/Prabhnoor186)
+- [Jingyi Lu](https://github.com/lulu61000)
+- [Paramjit Singh](https://github.com/param20h)
