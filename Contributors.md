@@ -2034,3 +2034,4 @@ jack - first contribution practice
 - [Jingyi Lu](https://github.com/lulu61000)
 - [Vivek Gupta](https://github.com/Vivekg1033)
 - [Paramjit Singh](https://github.com/param20h)
+- [Darshil Vasoya](https://github.com/darshilvasoya)
