@@ -75,6 +75,7 @@ git # Contributors
 - [Nishal Ahmed](https://github.com/nishalahmedpk)
 - [Rudrabikram Roy](https://github.com/codedbyrudra)
 - [Jenna Hall](https://github.com/swejenna)
+- [Yi Liu](https://github.com/gordenfl)
 - [Ankit Aggarwal](https://curious.pm)
 - [rubik](https://github.com/rubiksfood)
 - [Benjamin Seddon](https://github.com/Seddo151)
