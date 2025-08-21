@@ -1196,6 +1196,7 @@ Eoin O'B
 - [Josmer Rodriguez](https://github.com/Josmerr)
 - [Felix Morara](https://github.com/felixmorara)
 - [Shashwat Anand](https://github.com/Sushiii07)
+- [Guru Krithick](https://github.com/guru-krithick)
 - [Parker Crook](https://github.com/parkercrook)
 - [Keshav Kant](https://github.com/Keshav-Kant/)
 - [rishabh1024](https://github.com/rishabh1024/)
