@@ -1,6 +1,7 @@
 git # Contributors
 - [Pinintti Sunil](https://github.com/Pininttisunil)
 - [Vinicius]
+- [Alaqmar Electricwala](https://github.com/AlaqmarElectricwala)
 - [fatimah](https://github.com/grindstack)
 - [Ankit Kumar Yadav](https://github.com/AnkitKrYadav)
 - [David Anane](https://github.com/plaestore)
@@ -148,6 +149,7 @@ git # Contributors
 - [Nathan Hall](https://github.com/Zero4793)
 - [Rakesh Vanam](https://github.com/rakeshvanam6868)
 - [KamalKant](https://github.com/kamal2730)
+- [HarshYadav152](https://github.com/HarshYadav152)
 - [Paritosh Tiwari]
 - [Gods-ghost](https://github.com/dist34)
   [Eritrix](https://github.com/Eritrix)
@@ -797,6 +799,7 @@ Ben
 - [EarendelH](https://github.com/Earendelh)
 - [dahynills](https://github.com/dahynills)
 - [wonathan](https://github.com/threestuff)
+- [Akshay Kale](https://github.com/Dev-axay18)
 - [AdiSaikat](https://github.com/adisaikat)
 - [jsutCodes](https://github.com/jsutCodes)
 - [Somto Ogbe](https://github.com/somtoval)
@@ -2035,4 +2038,6 @@ jack - first contribution practice
 - [Jingyi Lu](https://github.com/lulu61000)
 - [Vivek Gupta](https://github.com/Vivekg1033)
 - [Paramjit Singh](https://github.com/param20h)
-- [Darshil Vasoya](https://github.com/darshilvasoy>>>>>>> main
+- [Darshil Vasoya](https://github.com/darshilvasoya)
+- [Paofan25](https://github.com/paofan25)
+- [Dheeraj](https://github.com/Dheeraj1333) 
