@@ -1,20 +1,24 @@
 git # Contributors
 - [Pinintti Sunil](https://github.com/Pininttisunil)
 - [Vinicius]
+- [fatimah](https://github.com/grindstack)
 - [Ankit Kumar Yadav](https://github.com/AnkitKrYadav)
 - [David Anane](https://github.com/plaestore)
+- [Giacomo Folli](https://github.com/giacomo-folli)
 - [Ravi Kumar Jha](https://github.com/ravijha9546)
 - [Dhairya Dev](https://github.com/dhairyadev26)
 - [Martin-Perfumo] (https://github.com/MartinPerfumo) 
  [Nakshathra](https://github.com/Nakshathra-17S)
  naveen-branch-first-contribution
 - [Naveen Kumar](https://github.com/RowthuNaveenKumar)
+-[Goutham Krishna](https://github.com/gouthamkrishnae)
 - [Chijioke Madu](https://github.com/SaltCJ)
 - [Mohamed Ismail Gasmi]()
 - [Brandon McHugh](https://github.com/brandmch)
 - [Tonny Nyauke]
 -[Shaswata Panda]
 - [Muhammad Nouman](https://github.com/coder595)
+- [Anastasia Bobere](https://github.com/anastasiabobere)
 - [Nishant Naravarajula](https://github.com/nish-naravarajula)
 - [Vishal Manik](https://github.com/vmanik2k)
 - [Esraa Hassan] (https://github.com/Esraa-Hassan0)
@@ -1014,6 +1018,7 @@ Eoin O'B
 - [widespectrum](https://github.com/widespctr)
 - [Jonas Mikosch](https://github.com/jomik101)
 - [Ver Argulla](https://github.com/verargulla)
+- [Ankith](https://github.com/ankithtn)
 - [cacawate](https://github.com/MoyyyL)
 - [Mr. Jakkula](https://github.com/Mr.Jakkula)
 - [Ravi singh](https://github.com/ravir0ushan)
@@ -1194,6 +1199,7 @@ Eoin O'B
 - [Josmer Rodriguez](https://github.com/Josmerr)
 - [Felix Morara](https://github.com/felixmorara)
 - [Shashwat Anand](https://github.com/Sushiii07)
+- [Guru Krithick](https://github.com/guru-krithick)
 - [Parker Crook](https://github.com/parkercrook)
 - [Keshav Kant](https://github.com/Keshav-Kant/)
 - [rishabh1024](https://github.com/rishabh1024/)
@@ -2029,3 +2035,4 @@ jack - first contribution practice
 - [Jingyi Lu](https://github.com/lulu61000)
 - [Vivek Gupta](https://github.com/Vivekg1033)
 - [Paramjit Singh](https://github.com/param20h)
+- [Darshil Vasoya](https://github.com/darshilvasoya)
