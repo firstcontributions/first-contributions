@@ -13,6 +13,7 @@ git # Contributors
 - [Mohamed Ismail Gasmi]()
 - [Brandon McHugh](https://github.com/brandmch)
 - [Tonny Nyauke]
+-[Shaswata Panda]
 - [Muhammad Nouman](https://github.com/coder595)
 - [Nishant Naravarajula](https://github.com/nish-naravarajula)
 - [Vishal Manik](https://github.com/vmanik2k)
