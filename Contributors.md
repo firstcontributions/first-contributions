@@ -783,6 +783,7 @@ Ben
 - [Chirag Bimali](https://github.com/chirag-bimali)
 - [Vinay Joshi](https://github.com/Anigrl)
 - [Manjunatha H](https://github.com/Manjunatha-h)
+- [Rehan Halai](https://github.com/01-Rehan)
 - [nisarg404](https://github.com/nisarg404)
 - [Sneha Jain](https://github.com/sj11105)
 - [Harsh Verma](https://github.com/hv0911)
