@@ -16,6 +16,7 @@ git # Contributors
 - [Tonny Nyauke]
 -[Shaswata Panda]
 - [Muhammad Nouman](https://github.com/coder595)
+- [Anastasia Bobere](https://github.com/anastasiabobere)
 - [Nishant Naravarajula](https://github.com/nish-naravarajula)
 - [Vishal Manik](https://github.com/vmanik2k)
 - [Esraa Hassan] (https://github.com/Esraa-Hassan0)
