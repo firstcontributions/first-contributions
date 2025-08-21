@@ -3,6 +3,7 @@ git # Contributors
 - [Vinicius]
 - [Ankit Kumar Yadav](https://github.com/AnkitKrYadav)
 - [David Anane](https://github.com/plaestore)
+- [Giacomo Folli](https://github.com/giacomo-folli)
 - [Ravi Kumar Jha](https://github.com/ravijha9546)
 - [Dhairya Dev](https://github.com/dhairyadev26)
 - [Martin-Perfumo] (https://github.com/MartinPerfumo) 
