@@ -93,6 +93,7 @@ git # Contributors
 - [Ashok Reddy](https://github.com/ashokCh-dev)
 - [SVN Sai Sathvik](https://github.com/svnsaisathvik)
 - [Ramya Parsania](https://github.com/RAMYA-PARSANIA)
+- [Angad Singh](https://github.com/AngadSingh04)
 - [Mohammed Ibrahim](https://github.com/IbrahimMI124)
 - [Ronak Singh](https://github.com/RonakSingh2006)
 - [Gabriel Gustavo Silva](https://github.com/GabrielSilvaxD)
