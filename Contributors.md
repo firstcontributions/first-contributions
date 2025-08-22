@@ -1,5 +1,5 @@
 git # Contributors
-- [Kailash](https://github.com/KailashSatkuri-warangal)
+- [SATKURI KAILASH](https://github.com/KailashSatkuri-warangal)
 - [Pinintti Sunil](https://github.com/Pininttisunil)
 - [Dimirrius Farida](https://github.com/CodeBotD)
 - [Vinicius]
@@ -603,6 +603,7 @@ The-Yash-is-Joined
 - [AvAdiii](https://github.com/AvAdiii)
 - [OmkarS](https://github.com/omkar402)
 - [Hisham](https://github.com/sikehish)
+- [Gerald](https://github.com/Gerose316)
 - [BinhTran2307](my first contribution)
 Ben
 - [ricor07](https://github.com/ricor07)
