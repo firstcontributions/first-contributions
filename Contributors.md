@@ -497,6 +497,7 @@ The-Yash-is-Joined
 - [skg2k05](https://github.com/skg2k05)
 - [addpd](https://github.com/addpd)
 - [Pritha Maity](https://github.com/PrithaMaity)
+- [Jonas Francisco](https://github.com/Jonasbomfim)
 - [oompf](https://github.com/oompf)
   [Louis Lu](https://github.com/yanlu778)
 - [SHP](https://github.com/Su-Hnin)
