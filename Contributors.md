@@ -2022,6 +2022,7 @@ jack - first contribution practice
 -[Anurath](https://github.com/ImAnurath)
 - [Prasanna Nage](https://github.com/Prasanna-iitb)
 - [Manya Goel](https://github.com/MANYAGOEL123)
+- [lelemita](https://github.com/lelemita)
 - [Neil Irungu](https://github.com/algorithmine)
 - [Sarbojit Rana](https://github.com/sarbojitrana)
 - [John Mixon](https://github.com/mixdev2112)
