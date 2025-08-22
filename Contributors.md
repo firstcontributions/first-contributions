@@ -10,6 +10,7 @@ git # Contributors
 - [Jason](https://github.com/dev-jason-lu)
 - [David Anane](https://github.com/plaestore)
 - [Karan Dhiman](https://github.com/karandhiman12)
+- [Harsh Sachdeva](https://github.com/HarshSachdeva01)
 - [Giacomo Folli](https://github.com/giacomo-folli)
 - [Ravi Kumar Jha](https://github.com/ravijha9546)
 - [Dhairya Dev](https://github.com/dhairyadev26)
