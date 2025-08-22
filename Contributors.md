@@ -22,6 +22,7 @@ git # Contributors
 [TML](https://github.com/TinMoeLwin007)
 - [Tonny Nyauke]
 -[Shaswata Panda]
+-[Ayush23-art](https://github.com/Ayush23-art)
 - [Muhammad Nouman](https://github.com/coder595)
 - [Anastasia Bobere](https://github.com/anastasiabobere)
 - [Nishant Naravarajula](https://github.com/nish-naravarajula)
@@ -1170,6 +1171,7 @@ Eoin O'B
 - [Gafoor Shaik](https://github.com/gafoor-bot)
 - [Kimaya Chavan](https://github.com/kimiko-11)
 - [Alejandro Flores](https://github.com/afr-dt)
+- [MatyasZERO](https://github.com/MatyasZERO)
 - [Nemida](https://github.com/Nemida)
 - [Diksha Rani](https://github.com/diksha-0420)
 - [Vaibhav](https://github.com/vaibhavsanap112)
@@ -2062,4 +2064,3 @@ jack - first contribution practice
 -[Rodrigo Lima][https://github.com/Kosm9]
 -[Jefferson Ruiz][https://github.com/jeffersonruiz]
 sh0uka
--[Sharvari More][https://github.com/Sharvari-21]
