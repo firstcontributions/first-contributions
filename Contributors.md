@@ -25,6 +25,7 @@ git # Contributors
 - [Tonny Nyauke]
 -[Shaswata Panda]
 -[Ayush23-art](https://github.com/Ayush23-art)
+- [Victor Kweka](https://github.com/victorjudysen)
 - [Muhammad Nouman](https://github.com/coder595)
 - [Anastasia Bobere](https://github.com/anastasiabobere)
 - [Nishant Naravarajula](https://github.com/nish-naravarajula)
