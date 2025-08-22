@@ -210,6 +210,7 @@ git # Contributors
 - [Arr0ws].[https://github.com/Arr0ws]
 - [Rizal][https://github.com/rizalilhamm]
 - [Samia-sh](https://github.com/samia-code0)
+- [Samiya-lateef](https://github.com/Samiyalatif)
 - [Abdul-Jaleel Asani](https://github.com/Asani-A)
 - [Abhas-Gawali](https://github.com/abhasgawali)
 - [Kanak](https://github.com/Kcode727)
