@@ -226,6 +226,7 @@ git # Contributors
 - [Vrund Patel](https://github.com/Vrund09)
 - [Krish Patel](https://github.com/kodercrish)
 - [Pierre](https://github.com/wiizzl)
+- [Joao Victor B C 🥶](https://github.com/dev-joaovb)
 - [Jo](https://github.com/BeanboxNZ)
 - [Jainil Desai](https://github.com/jainilDesai)
 - [jkm31459](https://github.com/jkm31459)
