@@ -71,6 +71,7 @@ git # Contributors
 - [Saparmyrat Saparmyradov](https://github.com/Sapar-hub)
 - [Zohaib Khan](https://github.com/zohaibkhan745)
 - [Aaryan Antala]()
+- [Adithya kukkapalli](https://github.com/adithyagurusai)
 - [Muhammed Hidash](https://github.com/Hidash-broto)
 - [Mopuri Abhiram]()
 - [Prashanth-000](https://github.com/Prashanth-000)
