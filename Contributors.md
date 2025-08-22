@@ -1942,6 +1942,7 @@ Eoin O'B
 - [Dev Chagas](https://github.com/devchagas)
 - [Shreya Kumari](https://github.com/shreya-create-glitch)
 - [Mohamed Laraiche](https://github.com/molaraiche)
+- [Janaki Ram K](https://github.com/JKR0805)
 - [Akshit Garg](https://github.com/AkshitGarg054) 
 - [Enrique Pastene Aceituno] (https://github.com/EnriquePasteneAceituno)
 - [Enrique Pastene Aceituno] (https://github.com/EnriquePasteneAceituno)
