@@ -1246,6 +1246,7 @@ Eoin O'B
 - [OBLI B VIKRAM](https://github.com/Vikramobli)
 - [Nisha Verma](https://github.com/xnisha-verma)
 - [Jerold De Pedro](https://github.com/xherby07)
+- [Semen Byndiu](https://github.com/bynd1u)
 - [Jason Ang](https://github.com/jasonavatarang)
 - [Matthieu Bonnot](https://github.com/MrMattam)
 - [Mahmudul Hasan](https://github.com/hmahmudul852)
