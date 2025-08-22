@@ -186,6 +186,7 @@ git # Contributors
 - [Mantarey.dev](https://mantarey.dev)
   [Anansh]
 - [Manav Jindal_IMT2023535](https://github.com/Manav9547)
+- [Lucas](https://github.com/LucasCSIT)
 - [Thabeswar](https://github.com/Thabeswar)
 - [Mithielesh N](https://github.com/mithielesh)
 - [Yash](https://github.com/yuishigam1)
