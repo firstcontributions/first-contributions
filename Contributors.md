@@ -2,6 +2,7 @@ git # Contributors
 - [Pinintti Sunil](https://github.com/Pininttisunil)
 - [Dimirrius Farida](https://github.com/CodeBotD)
 - [Vinicius]
+- [Plexton](https://github.com/ZaibLComrade)
 - [Alaqmar Electricwala](https://github.com/AlaqmarElectricwala)
 - [fatimah](https://github.com/grindstack)
 - [Ankit Kumar Yadav](https://github.com/AnkitKrYadav)
