@@ -89,6 +89,7 @@ git # Contributors
 - [Ramya Parsania](https://github.com/RAMYA-PARSANIA)
 - [Mohammed Ibrahim](https://github.com/IbrahimMI124)
 - [Ronak Singh](https://github.com/RonakSingh2006)
+- [Gabriel Gustavo Silva](https://github.com/GabrielSilvaxD)
 - [Ansh Gupta](https://github.com/Ansh-Gupta0310)
 - [Kunal Jindal](https://github.com/KunalJindal19)
 - [Alihan Baysal](https://github.com/alihanbays)
