@@ -60,6 +60,7 @@ git # Contributors
 - [Koushik Pyarasani](https://github.com/pyaarasanikoushik)
 - [Parth Sivakumar](https://github.com/Parth-sk)
 - [Trần Phương Hùng & Đỗ Nhật Thanh ❤️](https://github.com/blueqing2026)
+- [Archico Darius Simpar Sembiring 🇮🇩](https://github.com/archicos)
 - [Akul Anhith](https://github.com/akul)
 - [Ahmed Fikri](https://github.com/Fikri-20)
 - [Ajay Brightson](https://github.com/AjayJ1711)
@@ -2070,4 +2071,5 @@ jack - first contribution practice
 -[Rodrigo Lima][https://github.com/Kosm9]
 -[Jefferson Ruiz][https://github.com/jeffersonruiz]
 sh0uka
+-[Sharvari More][https://gtihub.com/Sharvari-21]
 -[Sharvari More][https://gtihub.com/Sharvari-21]
