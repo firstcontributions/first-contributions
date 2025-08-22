@@ -7,6 +7,7 @@ git # Contributors
 - [Alaqmar Electricwala](https://github.com/AlaqmarElectricwala)
 - [fatimah](https://github.com/grindstack)
 - [Ankit Kumar Yadav](https://github.com/AnkitKrYadav)
+- [Jason](https://github.com/dev-jason-lu)
 - [David Anane](https://github.com/plaestore)
 - [Karan Dhiman](https://github.com/karandhiman12)
 - [Giacomo Folli](https://github.com/giacomo-folli)
