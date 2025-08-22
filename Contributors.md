@@ -1,8 +1,5 @@
 git # Contributors
-<<<<<<< HEAD
 - [SATKURI KAILASH](https://github.com/KailashSatkuri-warangal)
-=======
->>>>>>> upstream/main
 - [Pinintti Sunil](https://github.com/Pininttisunil)
 - [Dimirrius Farida](https://github.com/CodeBotD)
 - [Vinicius]
