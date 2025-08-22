@@ -23,6 +23,7 @@ git # Contributors
 - [Chijioke Madu](https://github.com/SaltCJ)
 - [Mohamed Ismail Gasmi]()
 - [Brandon McHugh](https://github.com/brandmch)
+- [Aaditya Srivastava](https://github.com/frozenxnx)
 [TML](https://github.com/TinMoeLwin007)
 - [Tonny Nyauke]
 -[Shaswata Panda]
