@@ -1925,6 +1925,7 @@ Eoin O'B
 - [Ganpati Nath](https://github.com/Ganpati-Nath)
 - [Brandyn Coverdill](https://github.com/BrandynCoverdill)
 - [Rohit Mahajan](https://github.com/Rohit273848)
+- [Nikhil Barve](https://github.com/nikhil-barve1)
 - [Ajay Anand](https://https://github.com/AJrelapse)
 - [standoffEthan]
 - [corrix0](https://github.com/corrix0)
