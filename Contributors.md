@@ -1171,6 +1171,7 @@ Eoin O'B
 - [Gafoor Shaik](https://github.com/gafoor-bot)
 - [Kimaya Chavan](https://github.com/kimiko-11)
 - [Alejandro Flores](https://github.com/afr-dt)
+- [MatyasZERO](https://github.com/MatyasZERO)
 - [Nemida](https://github.com/Nemida)
 - [Diksha Rani](https://github.com/diksha-0420)
 - [Vaibhav](https://github.com/vaibhavsanap112)
