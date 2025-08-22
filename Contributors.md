@@ -253,6 +253,7 @@ git # Contributors
 - [Aryan Gusain](https://github.com/aryangusain)
 - [Arr0ws](https://github.com/Arr0ws)
 - [zhan7236](https://github.com/zhan7236)
+- [Zairan Mir](https://github.com/Mir-Zairan)
 - [suyash nepal](https://github.com/suynep)
 - [Rosellines](https://github.com/Rosellines)
 - [Joshua❤️Prashanth](https://github.com/JoshuaPrashanth)
