@@ -1,5 +1,6 @@
 git # Contributors
 - [Pinintti Sunil](https://github.com/Pininttisunil)
+- [Dimirrius Farida](https://github.com/CodeBotD)
 - [Vinicius]
 - [Alaqmar Electricwala](https://github.com/AlaqmarElectricwala)
 - [fatimah](https://github.com/grindstack)
