@@ -1076,6 +1076,7 @@ Eoin O'B
 - [Hector-Ventura](https://github.com/0Label0)
 - [Afham Irfan](https://github.com/auth-Afham)
 - [Khushi Ray](https://github.com/khushiray07)
+- [William Ince](https://github.com/incey-spider)
 - [Fahad Shoaib](https://github.com/Fahad-S94)
 - [Cristian Rios](https://github.com/rioscris)
 - [Sashin Trout](https://github.com/sashin123)
