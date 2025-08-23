@@ -7,6 +7,7 @@ git # Contributors
 - [Vinicius]
 - [Plexton](https://github.com/ZaibLComrade)
 - [Alaqmar Electricwala](https://github.com/AlaqmarElectricwala)
+- [Sanjeev](Grabbing oppurtunities flawlessly)
 - [fatimah](https://github.com/grindstack)
 - [Ankit Kumar Yadav](https://github.com/AnkitKrYadav)
 - [Jason](https://github.com/dev-jason-lu)
