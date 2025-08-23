@@ -19,8 +19,9 @@ git # Contributors
 - [Karan Dhiman](https://github.com/karandhiman12)
 - [Harsh Sachdeva](https://github.com/HarshSachdeva01)
 - [Giacomo Folli](https://github.com/giacomo-folli)
+- [Hamza Khan](https://github.com/giacomo-folli)
 - [Ravi Kumar Jha](https://github.com/ravijha9546)
-- [Dhairya Dev](https://github.com/dhairyadev26)
+- [Dhairya Dev](https://github.com/hamzak51)
 - [Martin-Perfumo] (https://github.com/MartinPerfumo) 
  [Nakshathra](https://github.com/Nakshathra-17S)
  naveen-branch-first-contribution
