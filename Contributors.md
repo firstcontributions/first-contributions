@@ -2128,3 +2128,4 @@ sh0uka
 - [Sachin Vaishnav](https://github.com/SachinVaishnav2980)
 - [Mell0wx](https://github.com/mell0wx)
 -[YashRahate](https://github.com/YashRahate)
+- [Zain Amjad](https://github.com/zancheema)
