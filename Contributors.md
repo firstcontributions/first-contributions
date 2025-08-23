@@ -2018,6 +2018,7 @@ jack - first contribution practice
 -[abhidaveT](https://github.com/ItzmeFurina)
 - [Kamesh](https://github.com/kameshp1815)
 - [Clilja](https://github.com/christianlilja)
+- [Balaji Uggina](https://github.com/Balaji-1805)
 - [Varsha Ghodase](https://github.com/Varsha1202)
 - [Tiago Castilho](https://github.com/tcastilho10)
 - [Muhammed safvan p](https://github.com/M-Safvan-p)
