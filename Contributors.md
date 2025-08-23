@@ -2122,5 +2122,7 @@ sh0uka
 -[Tanisha Dash](https://github.com/Dtanisha)
 -[Vincenzo Ragone](https://github.com/vincenzo113)
 -[Ankur] (hhtps://github.com/abhian)
--[Mell0wx] (https://github.com/mell0wx)
--[Advait] (https://github.com/advait2711)
+- [Sachin Vaishnav](https://github.com/SachinVaishnav2980)
+- [Mell0wx](https://github.com/mell0wx)
+- [Advait Alinkil](https://github.com/advait2711)
+
