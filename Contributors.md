@@ -48,7 +48,7 @@ git # Contributors
 - [Naveen C](https://github.com/naveench98)
 - [rainhuang0220](https://github.com/rainhuang0220)
 - [SSA](https://github.com/sshnag)
-- [nisan] (https://github.com/eater-of-lemons)
+- [nisan](https://github.com/eater-of-lemons)
 - [eieilin](https://github.com/eieilin)
 - [Vishal](https://github.com/Nvishal2006)
 - [Devesh Paryani](https://github.com/Devesh102030)
