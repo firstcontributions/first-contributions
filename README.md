@@ -218,9 +218,9 @@ If you go to your repository on GitHub, you'll see a `Create Pull Request` butto
 
 <img style="float: right;" src="https://github.com/user-attachments/assets/1a845536-51aa-4bb9-adc7-d4ec49f28805" alt="create a pull request" />
 
-Now submit the pull request.
+Now submit the pull request by clicking "Create Pull Request" once again.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://github.com/user-attachments/assets/c9e171fc-9114-4f41-a98b-feca066798ac" alt="submit pull request" />
 
 Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
 
