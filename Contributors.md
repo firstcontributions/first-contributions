@@ -4,6 +4,7 @@ git # Contributors
 - [Amanuel G](https://github.com/amanuel-gebresilasie)
 - [Pinintti Sunil](https://github.com/Pininttisunil)
 - [Dimirrius Farida](https://github.com/CodeBotD)
+- [Hruthik Chauan](https://github.com/hruthikchauhan07)
 - [Vinicius]
 - [Plexton](https://github.com/ZaibLComrade)
 - [Alaqmar Electricwala](https://github.com/AlaqmarElectricwala)
