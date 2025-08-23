@@ -2123,4 +2123,4 @@ sh0uka
 -[Vincenzo Ragone](https://github.com/vincenzo113)
 -[Ankur] (hhtps://github.com/abhian)
 -[Mell0wx] (https://github.com/mell0wx)
--[Advait Alinkil] (https://github.com/advait2711)
+-[Advait] (https://github.com/advait2711)
