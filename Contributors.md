@@ -10,6 +10,7 @@ Hey Hi everyone
 - [Pushpesh](https://github.com/impushpesh)
 - [Pranit Gore](https://github.com/PRANIT0605)
 - [leoweo1](https://github.com/leoweo1)
+- [me-tylerdurden](https://github.com/me-tylerdurden)
 - [Oyeyemi Obaloluwa](https://github.com/sudo-init-do)
 - [Dhanjit Nath](https://github.com/developerDhanjit)
 - [Aryan Gusain](https://github.com/aryangusain)
