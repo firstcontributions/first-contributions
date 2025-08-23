@@ -1,4 +1,5 @@
 git # Contributors
+- [Endlia](https://github.com/Endlia)
 - [Meet Shah](https://github.com/Meet6338-X)
 - [Pranay Chauhan](https://github.com/Pranay-Chauhn)
 - [Ehsan Shadmehri](https://github.com/ehsansh)
