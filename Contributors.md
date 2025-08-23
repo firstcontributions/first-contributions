@@ -1,5 +1,6 @@
 git # Contributors
 - [SATKURI KAILASH](https://github.com/KailashSatkuri-warangal)
+- [Pranay Chauhan](https://github.com/Pranay-Chauhn)
 - [Ehsan Shadmehri](https://github.com/ehsansh)
 - [Amanuel G](https://github.com/amanuel-gebresilasie)
 - [Pinintti Sunil](https://github.com/Pininttisunil)
@@ -25,6 +26,7 @@ git # Contributors
 - [Chijioke Madu](https://github.com/SaltCJ)
 - [Mohamed Ismail Gasmi]()
 - [Brandon McHugh](https://github.com/brandmch)
+- [Holmes M](https://github.com/Sher69-mycroft)
 - [Aaditya Srivastava](https://github.com/frozenxnx)
 - [Sumit Sourav](https://github.com/souravsumit07)
 [TML](https://github.com/TinMoeLwin007)
@@ -122,6 +124,7 @@ git # Contributors
 - [Shun Khaing](https://github.com/shunkhaing)
 - [Pavishni](https://github.com/Pavishni)
 - [Evan](https://github.com/ICreateStuff5)
+- [Abdelhadi Teeki] (https://github.com/Abdelhadi09)
 - [Pranav Sandeep](https://github.com/Pranavv0307)
 - [Sanajit Jana](https://github.com/sanajitjana)
 - [Manav_IMT535](https://github.com/Manav9547)
@@ -2099,9 +2102,12 @@ jack - first contribution practice
 -[Jefferson Ruiz][https://github.com/jeffersonruiz]
 sh0uka
 -[Sharvari More][https://gtihub.com/Sharvari-21]
+-[Ashwin Mali][https://github.com/ashwinmali2004]
 -[Arjun][https://github.com/ArjunSaluja]
 -[Sushilkumar Utkekar][https://github.com/Sushilkumar5572]
 -[Sourav Verma](https://github.com/SouravVerma-art)
 -[Julian Londono](https://github.com/JULI1926)
 - [Ronaldo Cheruiyot](https://github.com/ronaldocheruiyot)
 -[John Martin](https://github.com/JohnMartin0301)
+-[Ryan Sumithra](https://github.com/RyanSumithra)
+-[Samhit Prakash Nayak](https://github.com/samhit24)
