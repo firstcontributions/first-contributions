@@ -24,6 +24,7 @@ git # Contributors
 - [Chijioke Madu](https://github.com/SaltCJ)
 - [Mohamed Ismail Gasmi]()
 - [Brandon McHugh](https://github.com/brandmch)
+- [Holmes M](https://github.com/Sher69-mycroft)
 - [Aaditya Srivastava](https://github.com/frozenxnx)
 - [Sumit Sourav](https://github.com/souravsumit07)
 [TML](https://github.com/TinMoeLwin007)
