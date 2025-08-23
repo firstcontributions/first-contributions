@@ -112,6 +112,7 @@ git # Contributors
 - [Supreet Kaur](https://github.com/Supreetkaur1)
 - [Ashok Reddy](https://github.com/ashokCh-dev)
 - [SVN Sai Sathvik](https://github.com/svnsaisathvik)
+- [Emmanuel Appiagyei](https://github.com/WDVerse)
 - [Ramya Parsania](https://github.com/RAMYA-PARSANIA)
 - [Angad Singh](https://github.com/AngadSingh04)
 - [Mohammed Ibrahim](https://github.com/IbrahimMI124)
