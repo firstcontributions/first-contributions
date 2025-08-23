@@ -1841,7 +1841,9 @@ git # Contributors
 - [Aaron Rafael Thamin](https://github.com/aaronraf)
 - [Milan J](https://github.com/Milanjiji)
 - [Sunil Reddy](https://github.com/Sunilreddyj)
-- [Ranjan 😎] -[Lazarus A.](https://github.com/Plannr36)
+- [Ranjan 😎]
+-[Lazarus A.](https://github.com/Plannr36)
+-[Utkarsh Singh](https://github.com/UtkarshxDD)
 - [Said Berk](https://github.com/saidberk27)
 - [Wade Rees](https://github.com/wade-rees-me)
 - [_𝓟𝓸𝔀𝓮𝓻 𝓛𝓮𝓮_](https://github.dev/0xiPower)
