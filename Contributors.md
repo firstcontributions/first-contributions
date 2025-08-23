@@ -66,6 +66,7 @@ git # Contributors
 - [Shivek Ranjan](https://github.com/ShivekRanjan)
 - [Srinath Akkem](https://github.com/bd-SrinathAkkem)
 - [Koushik Pyarasani](https://github.com/pyaarasanikoushik)
+- [RupenderSinghRathore](https://github.com/RupenderSinghRathore)
 - [Parth Sivakumar](https://github.com/Parth-sk)
 - [Trần Phương Hùng & Đỗ Nhật Thanh ❤️](https://github.com/blueqing2026)
 - [Akul Anhith](https://github.com/akul)
