@@ -214,9 +214,9 @@ replacing `your-branch-name` with the name of the branch you created earlier.
 
 ## Submit your changes for review
 
-If you go to your repository on GitHub, you'll see a `Start Pull Request` button. Click on that button.
+If you go to your repository on GitHub, you'll see a `Create Pull Request` button. Click on that button.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/start-pull-request.png" alt="start a pull request" />
+<img style="float: right;" src="https://github.com/user-attachments/assets/1a845536-51aa-4bb9-adc7-d4ec49f28805" alt="create a pull request" />
 
 Now submit the pull request.
 
