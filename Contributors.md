@@ -2117,4 +2117,5 @@ sh0uka
 -[Ryan Sumithra](https://github.com/RyanSumithra)
 -[Samhit Prakash Nayak](https://github.com/samhit24)
 -[Tanisha Dash](https://github.com/Dtanisha)
+-[Vincenzo Ragone](https://github.com/vincenzo113)
 -[Ankur] (hhtps://github.com/abhian)
