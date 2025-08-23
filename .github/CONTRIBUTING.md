@@ -70,7 +70,7 @@ If you're making changes to a translation, please request a review from our prev
 | Slovenčina | [Slovak](../translations/README.sk.md) | [<img width="100" src="https://avatars3.githubusercontent.com/u/16558136?s=460&v=4" alt="@CoderKlemen" />](https://github.com/CoderKlemen) |
 | Slovenščina | [Slovenian](../translations/README.slk.md) | [<img width="100" src="https://avatars0.githubusercontent.com/u/11976353?s=460&v=4" alt="@hercegtomas" />](https://github.com/hercegtomas) |
 | Serbian (Cyrillic) | [Serbian (Cyrillic)](../translations/README.sr-Cyrl.md) | [<img width="100" src="https://avatars.githubusercontent.com/u/40705899?v=4" alt="@rammba" />](https://github.com/rammba) |
-| Serbian (Latin) | [Serbian (Latin)](../translations/README.sr-Latn.md) | [<img width="100" src="https://avatars.githubusercontent.com/u/35745051?v=4" alt="@Mateja3m" />](https://github.com/Mateja3m) |
+| Serbian (Latin) | [Serbian (Latin)](../translations/README.sr-Latn.md) | [<img width="100" src="https://avatars.githubusercontent.com/u/35745051?v=4" alt="@Mateja3m" />](https://github.com/Mateja3m) [<img width="100" src="https://avatars.githubusercontent.com/u/40705899?v=4" alt="@rammba" />](https://github.com/rammba) |
 | தமிழ் | [Tamil](../translations/README.ta.md) | [<img width="100" src="https://avatars.githubusercontent.com/u/7114806?v=4" alt="@sathishkumar-manogaran" />](https://github.com/sathishkumar-manogaran) |
 | తెలుగు | [Telugu](../translations/README.te.md) | []() |
 | ไทย | [Thai](../translations/README.th.md) | [<img width="100" src="https://avatars0.githubusercontent.com/u/5433758?s=460&v=4" alt="@AimeTPGM" />](https://github.com/AimeTPGM) |
