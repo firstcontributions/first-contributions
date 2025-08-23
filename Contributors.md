@@ -1624,6 +1624,7 @@ Eoin O'B
 - [Ricardo Guimaraes](https://github.com/Ricardoguima)
 - [Matheus Bortolo](https://github.com/Matheusbortolo)
 - [Jessica Agarwal](https://github.com/jessicaagarwal)
+- [Soroush Karami](https://github.com/soroushkarami)
 - [Samridhi Prakash](https://github.com/Samridhi-2007)
 - [Angelina Tsygan](https://github.com/angelinatsygan)
 - [Vinit Rana](https://github.com/RanaVinit)
