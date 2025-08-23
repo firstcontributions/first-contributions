@@ -1,5 +1,4 @@
 git # Contributors
-- [Mycroft](https://github.com/Sher69-mycroft)
 - [Amanuel G](https://github.com/amanuel-gebresilasie)
 - [Pinintti Sunil](https://github.com/Pininttisunil)
 - [Dimirrius Farida](https://github.com/CodeBotD)
@@ -24,6 +23,7 @@ git # Contributors
 - [Chijioke Madu](https://github.com/SaltCJ)
 - [Mohamed Ismail Gasmi]()
 - [Brandon McHugh](https://github.com/brandmch)
+- [Holmes M](https://github.com/Sher69-mycroft)
 - [Aaditya Srivastava](https://github.com/frozenxnx)
 [TML](https://github.com/TinMoeLwin007)
 - [Tonny Nyauke]
