@@ -1,11 +1,8 @@
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-2vqegkew0-ZuzGM1LO33C6Ts4nZyat1Q)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
-
-#### _קרא [בשפות אחרות](Translations.md)._
-
+#### _Прочитај ово на [другим језицима](Translations.md)._
 <kbd>[<img title="Shqip" alt="Shqip" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/al.svg" width="22">](README.al.md)</kbd>
 <kbd>[<img title="Armenian" alt="Armenian" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/am.svg" width="22">](README.arm.md)</kbd>
 <kbd>[<img title="Uzbek" alt="Uzbek language" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/uz.svg" width="22">](README.uz.md)</kbd>
@@ -18,9 +15,9 @@
 <kbd>[<img title="Czech" alt="Czech" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/cz.svg" width="22">](README.cs.md)</kbd>
 <kbd>[<img title="Deutsch" alt="Deutsch" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/de.svg" width="22">](README.de.md)</kbd>
 <kbd>[<img title="Dansk" alt="Dansk" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/dk.svg" width="22">](README.da.md)</kbd>
-<kbd>[<img title="العربية" alt="العربية" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/eg.svg" width="22">](README.eg.md)</kbd>
+<kbd>[<img title="المصرية" alt="المصرية" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/eg.svg" width="22">](README.eg.md)</kbd>
 <kbd>[<img title="Dezéiriya" alt="Dezéiriya" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/dz.svg" width="22">](README.dz.md)</kbd>
-<kbd>[<img title="Española" alt="Española" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](README.es.md)</kbd>
+<kbd>[<img title="Español de España" alt="Español de España" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](README.es.md)</kbd>
 <kbd>[<img title="Française" alt="Française" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">](README.fr.md)</kbd>
 <kbd>[<img title="Gaeilge" alt="Gaeilge" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ie.svg" width="22">](README.ga.md)</kbd>
 <kbd>[<img title="Galego" alt="Galego" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Galicia.svg/1200px-Flag_of_Galicia.svg.png" width="22">](README.gl.md)</kbd>
@@ -28,10 +25,10 @@
 <kbd>[<img title="ქართული" alt="ქართული" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ge.svg" width="22">](README.ge.md)</kbd>
 <kbd>[<img title="Magyar" alt="Magyar" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/hu.svg" width="22">](README.hu.md)</kbd>
 <kbd>[<img title="Bahasa Indonesia" alt="Bahasa Indonesia" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/id.svg" width="22">](README.id.md)</kbd>
-<kbd>[<img title="हिंदी/ગુજરાતી/मराठी/മലയാളം/ಕನ್ನಡ/తెలుగు/छत्तीसगढ़ी/বাংলা/தமிழ்" alt="हिंदी/ગુજરાતી/मराठी/മലയാളം/ಕನ್ನಡ/తెలుగు/छत्तीसगढ़ी/বাংলা/தமிழ்" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/in.svg" width="22">](Translations.md)</kbd>
+<kbd>[<img title="עִברִית" alt="עִברִית" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/il.svg" width="22">](README.hb.md)</kbd>
+<kbd>[<img title="हिंदी/ગુજરાતી/मराठी/മലയാളം/ಕನ್ನಡ/తెలుగు/छत्तीसगढ़ी/বাংলা/தமிழ்" alt="हिंदी/ગુજરાતી/मराठी/മലയാളം/ಕನ್ನಡ/తెలుగు/छत्तीसगढ़ी/বাংলা/தமிழ்" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/in.svg" width="22">](docs/translations/Translations.md)</kbd>
 <kbd>[<img title="தமிழ்" alt="தமிழ்" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/lk.svg" width="22">](README.ta.md)</kbd>
 <kbd>[<img title="فارسی" alt="فارسی" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ir.svg" width="22">](README.fa.md)</kbd>
-<kbd>[<img title="پښتو" alt="پښتو" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/af.svg" width="22">](README.pus.md)</kbd>
 <kbd>[<img title="Italiano" alt="Italiano" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/it.svg" width="22">](README.it.md)</kbd>
 <kbd>[<img title="日本語" alt="日本語" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/jp.svg" width="22">](README.ja.md)</kbd>
 <kbd>[<img title="සිංහල" alt="සිංහල" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/lk.svg" width="22">](README.si.md)</kbd>
@@ -53,7 +50,7 @@
 <kbd>[<img title="Polski" alt="Polski" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/pl.svg" width="22">](README.pl.md)</kbd>
 <kbd>[<img title="Português (Portugal)" alt="Português (Portugal)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/pt.svg" width="22">](README.pt-pt.md)</kbd>
 <kbd>[<img title="Русский язык" alt="Русский язык" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ru.svg" width="22">](README.ru.md)</kbd>
-<kbd>[<img title="عربى" alt="عربى" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/sa.svg" width="22">](README.ar.md)</kbd>
+<kbd>[<img title="العربية" alt="العربية" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/sa.svg" width="22">](README.ar.md)</kbd>
 <kbd>[<img title="Svenska" alt="Svenska" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/se.svg" width="22">](README.se.md)</kbd>
 <kbd>[<img title="Slovenčina" alt="Slovenčina" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/sk.svg" width="22">](README.slk.md)</kbd>
 <kbd>[<img title="Slovenščina" alt="Slovenščina" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/si.svg" width="22">](README.sl.md)</kbd>
@@ -90,186 +87,163 @@
 <kbd>[<img title="ភាសាខ្មែរ" alt="ភាសាខ្មែរ" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/kh.svg" width="22">](README.kh.md)</kbd>
 <kbd>[<img title="Morocco" alt="Moroccan Darija" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ma.svg" width="22">](README.ma.md)</kbd>
 
-# תרומות ראשונות
+# Први допринос (енг. _contribution_)
 
-מטרת פרויקט זה היא לפשט ולהדריך מתחילים בדרכם אל תרומתם הראשונה לקוד פתוח. אם אתם מחפשים דרך לבצע תרומה ראשונית, עקבו אחר ההוראות הבאות.
+Овај пројекат има за циљ да упути почетнике како да једноставно направе свој први допринос. Ако тражите како да направите свој први допринос, пратите кораке испод.
 
-_אם אינכם חשים בנוח להשתמש בשורת פקודה, [כאן תוכלו למצוא מדריכים לשימוש בכלים גרפיים](#הדרכות-בשימוש-כלים-אחרים)._
+_Ако вам је незгодно да користите командну линију, [ево упутства за GUI алате](#tutorials-using-other-tools)._
 
-<img align="left" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="ביצוע Fork למאגר" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork-уј овај репозиторијум" />
 
-#### אם עוד לא התקנתם GIT, [התקינו כעת](https://help.github.com/articles/set-up-git).
+#### Уколико немате git на вашој машини, [инсталирајте га](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
-## בצעו FORK למאגר זה
+## Направити fork овог репозиторијума
 
-כדי לבצע FORK למאגר זה, ניתן ללחוץ על כפתור ה – FORK בתחילת העמוד.
-פעולה זה תיצור עותק של מאגר זה בחשבון שלכם.
+Направите fork овог репозиторијума кликом на fork дугме на врху ове странице.
+То ће направити копију овог репозиторијума на Вашем налогу.
 
-## שכפול המאגר
+## Клонирати репозиторијум
 
-<img align="left" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="שכפול מאגר" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="клонирај овај репозиторијум" />
 
-כעת, שכפלו את המאגר הזה למחשב שלכם. לכו לדף ה-GitHub שלכם, לחצו על כפתור השכפול ואז לחצו על הצלמית `copy to clipboard`.
+Сада клонирајте fork-овани репозиторијум на вашу машину. Отворите свој GitHub профил, отворите репозиторијум који сте fork-овали, кликните на дугме code, онда на SSH tab, а онда кликните _copy url to clipboard_ иконицу.
 
-פתחו טרמינל והריצו את הפקודה הבאה:
+Отворите терминал и покрените следећу git команду:
 
 ```bash
 git clone "url you just copied"
 ```
 
-  
-כאשר הביטוי `"url you just copied"` (ללא סימני הגרשיים) הוא הקישור למאגר זה שביצעתם עליו FORK קודם לכן. ראו את הצעדים הקודמים כדי להשיג את הקישור.
+Уместо "url you just copied" (без наводника) упишите url овог репозиторијума (вашег fork-а овог пројекта). Погледајте претходне кораке да бисте добавили url.
 
-<img align="left" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="копирај URL у clipboard" />
 
-לדוגמא:
+На пример:
 
 ```bash
 git clone git@github.com:this-is-you/first-contributions.git
 ```
 
-  
-כאשר `this-is-you` הוא שם המשתמש שלכם ב-GitHub. לכאן אתם מעתיקים את התוכן של מאגר first-contributions ב-GitHub לתוך המחשב שלכם.
+где `this-is-you` представља ваше GitHub корисничко име. Овим копирате садржај first-contributions репозиторијума на GitHub-у на ваш рачунар.
 
-## יצירת ענף
+## Направити грану
 
-החליפו לתיקיית המאגר בתוך המחשב שלכם (באם טרם נכנסתם לתיקייה זו):
+Позиционирајте се у директоријум репозиторијума на Вашем рачунару (ако већ нисте тамо):
 
 ```bash
 cd first-contributions
 ```
 
-  
-כעת, צרו ענף (branch) בשימוש הפעולה `git switch`:
+Направите грану употребом `git switch` команде:
 
 ```bash
 git switch -c your-new-branch-name
 ```
 
-  לדוגמא:
+На пример:
 
 ```bash
 git switch -c add-alonzo-church
 ```
 
-<div dir="rtl">
 <details>
-<summary><strong>אם אתה מקבל שגיאות בעת השימוש ב-git switch, לחץ כאן:</strong></summary>
-<p dir="rtl">אם מופיעה הודעת השגיאה <strong>"Git: <code>switch</code> is not a git command. See <code>git –help</code>"</strong>,  
-זה כנראה בגלל שאתה משתמש בגרסה ישנה של Git.</p>
+<summary> <strong>Ако добијате грешке приликом употребе git switch, кликните овде:</strong> </summary>
 
-<p>במקרה כזה, נסה להשתמש במקום זאת בפקודה <code>git checkout</code>:</p>
+Ако порука грешке гласи "Git: `switch` is not a git command. See `git –help`", вероватно користите старију верзију git-а.
+
+У овом случају, пробајте да користите `git checkout`:
 
 ```bash
 git checkout -b your-new-branch-name
 ```
 
 </details>
-</div>
 
-## ערכו שינויים הכרחיים ובצעו להם commit
+## Направите потребне измене и commit-ујте их
 
-  
-כעת פתחו את הקובץ `Contributors.md` בתוכנת עריכת טקסט והוסיפו את השם שלכם אליו. אל תוסיפו את השם בתחילת הקובץ או בסופו. הוסיפו אותו באמצע. לאחר שסיימתם, שמרו את הקובץ.
+Отворите `Contributors.md` фајл у текстуалном едитору и додајте своје име. Немојте додавати име на сам почетак или крај. Додајте га негде у средину. Потом сачувајте фајл.
 
-<img align="left" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
-אם תנווטו לתיקיית הפרויקט ותבצעו את הפעולה `git status`, תוכלו לראות את השינויים שביצעתם שם.
+Уколико одете у директоријум пројекта и извршите команду `git status`, приметићете да постоје измене.
 
-הוסיפו את השינויים האלו לענף שיצרתם תוך שימוש בפקודה `git add`:
+Додајте ове измене на грану коју сте управо направили употребом `git add` команде:
 
 ```bash
 git add Contributors.md
 ```
 
-  
-עכשיו, בצעו commit לשינויים הללו תוך שימוש בפקודת `git commit`:
+Сада commit-ујте те измене помоћу `git commit` команде:
 
 ```bash
 git commit -m "Add your-name to Contributors list"
 ```
 
-  
-החליפו את הביטוי `your-name` עם השם שלכם.
+замењујући `your-name` са Вашим именом.
 
-## לדחוף את השינויים ל-GitHub
+## Push-овање измена на GitHub
 
-  
-דחפו את השינויים תוך שימוש בפקודה `git push`:
+Push-ујте своје измене употребом команде `git push`:
 
 ```bash
-git push origin add-your-branch-name
+git push -u origin your-branch-name
 ```
 
-  
-החליפו את `add-your-branch-name` עם השם של הענף שיצרתם מוקדם יותר.
+замењујући `your-branch-name` са именом гране коју сте раније направили.
 
-<div dir="rtl">
 <details>
-<summary><strong>במידה ומתקבלות שגיאות במהלך הדחיפה, לחץ כאן</strong></summary>
+<summary> <strong>Ако добијате грешке приликом push-овања, кликните овде:</strong> </summary>
 
-<ul dir="rtl">
-  <li>
-    <h3>שגיאת אימות</h3>
-  </li>
-</ul>
+- ### Грешка приликом аутентификације
+     <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+  remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+  fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
+  Погледајте [GitHub-ов туторијал](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) за генерисање и конфигурацију SSH кључа за Ваш налог.
 
-```bash
-remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
-remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
-fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'
-```
-
-עברו אל [המדריך של GitHub](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) על יצירה והגדרה של מפתח SSH לחשבון שלך.
-
-כמו כן, ייתכן שתרצה להריץ את הפקודה 'git remote -v' כדי לבדוק את הכתובת המרוחקת שלך.
-
-אם זה דומה לזה:
-```bash
-origin	https://github.com/your-username/your_repo.git (fetch)
-origin https://github.com/your-username/your_repo.git (push)
-```
-
-תחליף את זה בעזרת הפקודה:
-```bash
-git remote set-url origin git@github.com:your-username/your_repo.git
-```
-אחרת, עדיין תתבקש לספק שם משתמש וסיסמה ותקבל שגיאת אימות.
-</details>
-</div>
-
-## הגישו את השינויים שלכם לסקירה
-
+  Такође, можда ћете желети да извршите 'git remote -v' да бисте проверили Вашу удаљену адресу.
   
-אם תלכו למאגר שלכם ב-GitHub, תוכלו לראות כפתור עם הכיתוב `Compare & pull request`. לחצו על כפתור זה.
+  Ако личи на ово:
+  <pre>origin	https://github.com/your-username/your_repo.git (fetch)
+  origin	https://github.com/your-username/your_repo.git (push)</pre>
+  
+  извршите ову команду:
+  ```bash
+  git remote set-url origin git@github.com:your-username/your_repo.git
+  ```
+  У супротном ће Вам се тражити корисничко име и лозинка и добијаћете грешку приликом аутентификације.
+</details>
 
-<img style="float: left;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+## Пошаљите измене на ревизију (енг. _review_)
 
-כעת, הגישו את בקשת הדחיפה (pull request):
+Ако одете на Ваш репозиторијум на GitHub-у, приметићете `Compare & pull request` дугме. Кликните на њега.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="креирај pull request" />
 
-בקרוב, אצרף את כל השינויים לתוך הענף הראשי של פרויקט זה. אתם תקבלו עדכון במייל ברגע שהשינויים ימוזגו.
+Сада пошаљите pull request.
 
-## מה לעשות מכאן?
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="пошаљи pull request" />
 
-כל הכבוד! כרגע סיימתם את מעגל הזרימה הסטנדרטי של _fork -> clone -> edit -> pull request_ שאתם תפגשו באופן שכיח כתורמים!
+Недуго након тога ћу ја спојити (енг. _merge_) измене које Сте направили са master граном ovog пројекта. Добићете обавештење на email када измене буду спојене.
 
-תחגגו את התרומתכם ושתפו אותה עם החברים והעוקבים שלכם בכך שתלכו ל-[web app](https://firstcontributions.github.io/#social-share).
+## Шта даље?
 
-אתם יכולים להצטרף לצוות הסלאק שלנו אם אתם צריכים עזרה או אם יש לכם שאלות. [הצטרפות לצוות בסלאק](https://join.slack.com/t/firstcontributors/shared_invite/zt-2vqegkew0-ZuzGM1LO33C6Ts4nZyat1Q).
+Честитамо! Завршили сте стандардни _fork -> clone -> edit -> pull request_ ток развоја (енг. _workflow_) са којим ћете се често сусретати као сарадник!
 
-עכשיו אפשר להתחיל לתרום לפרוייקטים אחרים. הכנו רשימה של פרוייקטים על נושאים קלים שאתם יכולים להתחיל לעבוד עליהם. [רשימה של פרוייקטים ב- web app](https://firstcontributions.github.io/#project-list).
+Прославите свој допринос са пријатељима и пратиоцима тако што ћете отићи на овај [сајт](https://firstcontributions.github.io/#social-share).
 
-### [חומר נוסף](../additional-material/git_workflow_scenarios/additional-material.md)
+Ако желите још вежбе, погледајте [code contributions](https://github.com/roshanjossey/code-contributions).
 
-## הדרכות בשימוש כלים אחרים
+А сада, хајде да почнете са доприносом на другим пројектима. Направили смо списак пројеката са једноставним проблемима на којима можете почети да радите. Погледајте [списак пројеката на сајту](https://firstcontributions.github.io/#project-list).
 
-| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
+### [Додатни материјали](../additional-material/git_workflow_scenarios/additional-material.md)
+
+## Упутства за друге алате <a id="tutorials-using-other-tools"></a>
+
+| <a href="../../docs/gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../../docs/gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../../docs/gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../../docs/gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="../../docs/gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../../docs/gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md)                                                                                                                          | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md)                                                                                                                                        | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                                                  | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                                      | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md)                                                                                                                                                          |
+| [GitHub Desktop](../../docs/gui-tool-tutorials/github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](../../docs/gui-tool-tutorials/github-windows-vs2017-tutorial.md)                                                                                                                          | [GitKraken](../../docs/gui-tool-tutorials/gitkraken-tutorial.md)                                                                                                                                        | [Visual Studio Code](../../docs/gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                                                  | [Atlassian Sourcetree](../../docs/gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                                      | [IntelliJ IDEA](../../docs/gui-tool-tutorials/github-windows-intellij-tutorial.md)                                                                                                                                                          |
 
-<p>פרוייקט זה נתמך על ידי:</p>
+<p>Овај пројекат је подржан од стране:</p>
 <p>
   <a href="https://www.digitalocean.com/">
     <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_horizontal_blue.svg" width="201px">
