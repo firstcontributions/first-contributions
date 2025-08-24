@@ -1,6 +1,7 @@
 git # Contributors
 - [SATKURI KAILASH] (https://github.com/KailashSatkuri-warangal)
 - [Endlia](https://github.com/Endlia)
+- [Ishan Kanishka](https://github.com/Ishan-Kanishka)
 - [Meet Shah](https://github.com/Meet6338-X)
 - [Pranay Chauhan](https://github.com/Pranay-Chauhn)
 - [Ehsan Shadmehri](https://github.com/ehsansh)
