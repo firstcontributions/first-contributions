@@ -2171,3 +2171,4 @@ sh0uka
 - [Sahasra Kondapalli](https://github.com/Neural-keeper)
 - [Madiha Fatima](https://github.com/madihamalghani)
 - [Hashim Iqbal](https://github.com/Haz-ctrl)
+- [Thoriq Nurathif Fadhlullah Wajo](https://github.com/thorixrover)
