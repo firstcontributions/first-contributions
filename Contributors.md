@@ -2110,6 +2110,7 @@ jack - first contribution practice
 - [Vartika Lohiya](https://github.com/vartekalohiya13)
 - [BugWithJayesh](https://github.com/BugWithJayesh)
 - [Prabhnoor Kaur](https://github.com/Prabhnoor186)
+- [Rakshith](https://github.com/manrakshithqt)
 - [Jingyi Lu](https://github.com/lulu61000)
 - [Vivek Gupta](https://github.com/Vivekg1033)
 - [Paramjit Singh](https://github.com/param20h)
