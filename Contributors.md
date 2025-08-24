@@ -91,6 +91,7 @@
 - [Ahmed Fikri](https://github.com/Fikri-20)
 - [Dillikumar N](https://github.com/Dillikumarnl)
 - [Ajay Brightson](https://github.com/AjayJ1711)
+- [Marius Ilie Smalii](https://github.com/smaliimariusilie)
 - [Shabir Ahmad Sediqi](https://github.com/Shabir-Ahmad-Sediqi)
 - [Wycliffe Musau](https://github.com/Excellent58)
 - [Abdeljalil Ounaceur](https://github.com/Abdeljalil-Ounaceur)
