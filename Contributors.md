@@ -9,6 +9,7 @@ git # Contributors
 - [Hruthik Chauan](https://github.com/hruthikchauhan07)
 - [Vinicius]
 - [Plexton](https://github.com/ZaibLComrade)
+- [Yarno Grenier](https://github.com/yarno97x)
 - [Alaqmar Electricwala](https://github.com/AlaqmarElectricwala)
 - [Sanjeev](Grabbing oppurtunities flawlessly)
 - [fatimah](https://github.com/grindstack)
