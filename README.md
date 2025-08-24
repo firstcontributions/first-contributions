@@ -250,5 +250,5 @@ Now let's get you started with contributing to other projects. We've compiled a 
 </p>
 
 
-hi my name is subhash and i came here just for my first open source commit  
+
 https://github.com/subhashbairwa
