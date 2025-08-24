@@ -1908,6 +1908,7 @@ Eoin O'B
 - Martin
 - Mubarak
 - Luis Rodriguez
+- [akane](https://github.com/copicomi)
 - Jonathan (https://github.com/jonathan-200)
 - [Isaac F](https://github.com/YellowFlello)
 - [SoullesKev](https://github.com/Sadirock)
