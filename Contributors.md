@@ -978,6 +978,7 @@ Ben
 - [Aminat A](https://github.com/pejuameenat)
 -[krit22](https://github.com/krit22)
 Eoin O'B
+- [Adnan Zaib](https://github.com/AadiZee)
 - [Mariusz Sobczak](https://github.com/SmoQ)
 - [Umair Amir](https://github.com/UmairAmir)
 - [Sandhya R](https://github.com/sandhya13r)
