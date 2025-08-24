@@ -2141,3 +2141,5 @@ sh0uka
 - [Duoduo](https://github.com/NamingRacksMyBrain)
 - [Subhajit Datta](https://github.com/subhajit2205)
 - [Mate Kopaliani](https://github.com/Ka10ken1)
+- [Kanishka](https://github.com/kanishkaidk)
+
