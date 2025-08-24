@@ -24,6 +24,7 @@ git # Contributors
 - [Hamza Khan](https://github.com/giacomo-folli)
 - [Ravi Kumar Jha](https://github.com/ravijha9546)
 - [Dhairya Dev](https://github.com/hamzak51)
+-[lavi](https://github.com/lavihere1)
 - [Martin-Perfumo] (https://github.com/MartinPerfumo) 
  [Nakshathra](https://github.com/Nakshathra-17S)
  naveen-branch-first-contribution
