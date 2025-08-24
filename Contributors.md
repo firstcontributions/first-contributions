@@ -394,6 +394,8 @@ P Venkata Rami Reddy
 - [Parthav Nair](https://github.com/Parthav-Nair)
 - [Jeevan H R](https://github.com/jeevanchiru17)
 -[nikolaikoenig] (https://github.com/nikolai-koenig)
+-[pratham-asthana](https://github.com/pratham-asthana)
+-[disha-gupta](https://github.com/disha-arch)
 -[farukh patel](https://github.com/Farukh-patel)
 - [Harry-GNS](https://github.com/Harry-GNS)
 - [Dimitri Voncleph](https://github.com/D-Voncleph)
