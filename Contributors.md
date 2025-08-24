@@ -16,6 +16,7 @@
 - [Alaqmar Electricwala](https://github.com/AlaqmarElectricwala)
 - [Sanjeev](Grabbing oppurtunities flawlessly)
 - [fatimah](https://github.com/grindstack)
+- [Jithin](https://github.com/jithin-dotcom)
 - [Milan Bhanushali] (https://github.com/milanbhanushali)
 - [ajit](https://github.com/ajitprachande)
 - [Ankit Kumar Yadav](https://github.com/AnkitKrYadav)
