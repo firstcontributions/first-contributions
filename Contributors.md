@@ -1497,6 +1497,7 @@ Eoin O'B
 - [Loïc Burnotte](https://github.com/LoicBurnotte)
 - [Biswarup Das](https://github.com/biswarupdas445)
 - [Nisha Potkule](https://github.com/NishaSPotkule)
+- [Omar Atakishiyev](https://github.com/NeonWest)
 - [Asghar Kazmi](https://github.com/AsgharKazmi2005)
 - [Samarth Bedare](https://github.com/samarthbedare)
 - [John Wilkinson](https://github.com/dnCRevelation)
