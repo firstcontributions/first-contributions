@@ -12,6 +12,7 @@ git # Contributors
 - [Alaqmar Electricwala](https://github.com/AlaqmarElectricwala)
 - [Sanjeev](Grabbing oppurtunities flawlessly)
 - [fatimah](https://github.com/grindstack)
+- [Jithin](https://github.com/jithin-dotcom)
 - [Ankit Kumar Yadav](https://github.com/AnkitKrYadav)
 - [Jason](https://github.com/dev-jason-lu)
 - [David Anane](https://github.com/plaestore)
