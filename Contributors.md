@@ -36,6 +36,7 @@
 - [Aakash Mahajan](https://github.com/AakashMahajan25) - My First Open Source Contribution!
 - [Aman Rohilla](https://github.com/amanrohilla23)
 - [Theo J] - First Contribution
+- [Darryl](https://github.com/dwy310)- Hoping to not cause another Crowd Strike incident!
 - [Cyril Pius](https://github.com/cyrilpiusch)- I remember Matthieu Vinet's first contribution
 - [Emanuel Rivera](https://github.com/emanuelRiveraA)
 - [Dhawal Shukla](https://github.com/DhawalShankar) - Walking slow but walking right 🇮🇳
