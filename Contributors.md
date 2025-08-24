@@ -49,6 +49,7 @@
 -[Ayush23-art](https://github.com/Ayush23-art)
 -[Amos-Aliko] (https://github.com/Aliko2020)
 - [Victor Kweka](https://github.com/victorjudysen)
+- [Krishna Khandelwal] (https://github.com/krish8955)
 - [Muhammad Nouman](https://github.com/coder595)
 - [Anastasia Bobere](https://github.com/anastasiabobere)
 - [Nishant Naravarajula](https://github.com/nish-naravarajula)
