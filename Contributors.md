@@ -114,6 +114,7 @@
 - [Jem Koeleman]()
 - [Madhu Dora]()
 - [Nishal Ahmed](https://github.com/nishalahmedpk)
+- [Lokesh Kumar]()
 - [Rudrabikram Roy](https://github.com/codedbyrudra)
 - [Jenna Hall](https://github.com/swejenna)
 - [Ankit Aggarwal](https://curious.pm)
