@@ -333,6 +333,7 @@
 - Matt
 - ayfayfayf
 - Farsat
+- [Piyush](https://github.com/sloppysaint)
 - [Farman Ali](https://github.com/farman-cloud)
 - [Praneeth](https://github.com/praneethem)
 - [Sam Ruiz](https://github.com/LiebesleidSam)
