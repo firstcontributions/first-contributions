@@ -2096,6 +2096,7 @@ jack - first contribution practice
 -[55amin](https://github.com/55amin)
 -[Anurath](https://github.com/ImAnurath)
 - [Prasanna Nage](https://github.com/Prasanna-iitb)
+- [Beck](https://github.com/beckarama)
 - [Manya Goel](https://github.com/MANYAGOEL123)
 - [Neil Irungu](https://github.com/algorithmine)
 - [Sarbojit Rana](https://github.com/sarbojitrana)
