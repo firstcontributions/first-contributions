@@ -284,6 +284,7 @@
 - [alluriakhil18](https://github.com/alluriakhil18)
 - [Aditya Rao]
 - [Muhammad Rafay Asif](https://github.com/muhammadrafayasif)
+- [A.Rakshitha](https://github.com/A-RAKSHITHA)
 - [Natnael Asnake](https://github.com/Nati-Man-code)
 - [Pushpesh](https://github.com/impushpesh)
 - [fireghostman](https://github.com/frameghostman)
