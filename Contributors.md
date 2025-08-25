@@ -4,6 +4,7 @@
 - [Jithin Mukundan](https://github.com/jithinmukundan)
 - [Lalitha N](https://github.com/lalitha-n546)
 - [Endlia](https://github.com/Endlia)
+- [Shiva Kumar](https://github.com/shivakumar04)
 - [Ishan Kanishka](https://github.com/Ishan-Kanishka)
 - [Meet Shah](https://github.com/Meet6338-X)
 - [Pranay Chauhan](https://github.com/Pranay-Chauhn)
