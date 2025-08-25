@@ -63,7 +63,6 @@
 - [Esraa Hassan] (https://github.com/Esraa-Hassan0)
 - [Vittorino  Favaro](https://github.com/vittorino-favaro)
 - [Dipak Halkude](https://github.com/DipakHalkude)
-- [Isaiah Ng](https://github.com/ngisaiah)
 - [Alex Hann](https://github.com/lurch9)
 - [NANDANI AGRAWAL](hhttps://github.com/Nandani9443)
 - [rkb121541](https://github.com/rkb121541)
@@ -2186,5 +2185,3 @@ sh0uka
 - [Chandrabali Biswas](https://github.com/cb-04)
 - [Emaan Fatima](https://github.com/emaan123dev)
 - [Gaurav patil](https://github.com/Gauravpatil1)
-- [Sandhana Krishnan](https://github.com/Sandhana-Krishnan-S)
-- [Hyokyung Seo](https://github.com/seohg)
