@@ -1921,6 +1921,9 @@ Eoin O'B
 - [Jeyanth-S](https://github.com/Jeyanth-S)
 - [Ishpriya Sharma](https://github.com/Ishpriya-Sharma)
 - [Idris](https://github.com/idreesjanib1)
+- [Vaishnvai gokhale](https://github.com/Vaishnavimgokhale)
+- [Prithi2004](https://github.com/prithi2004)
+=======
 - [Husnain Khaliq](https://github.com/huscse)
 - [Vaishnvai gokhale](https://github.com/Vaishnavimgokhale)
 - Mariya Anjum 💫 First open source contribution!
@@ -2190,3 +2193,4 @@ sh0uka
 - [Sandhana Krishnan](https://github.com/Sandhana-Krishnan-S)
 - [Hyokyung Seo](https://github.com/seohg)
 - [Aaron Lee](https://github.com/acelee0621)
+-[prithi](https://github.com/prithi2004)
