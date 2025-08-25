@@ -2180,3 +2180,4 @@ sh0uka
 - [Thoriq Nurathif Fadhlullah Wajo](https://github.com/thorixrover)
 - [Peter Li](https://github.com/kalokli8)
 - [Tejas T M] (https://github.com/tejastm75job-web)
+- [Tejas T.M 🎉](https://github.com/tejastm75job-web)
