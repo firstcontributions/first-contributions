@@ -2179,6 +2179,7 @@ sh0uka
 - [Mate Kopaliani](https://github.com/Ka10ken1)
 - [Swati Pandey](https://github.com/gr8swati)
 - [Lucas Mattoso](https://github.com/lucasmattoso-dev)
+- [Joao Carlos Lima](https://github.com/jocatoa)
 - [jbyunA](https://github.com/jbyunA)
 - [isaac sun](https://github.com/isaac-sun)
 - [michael tjuni](https://github.com/michael-tjuni)
