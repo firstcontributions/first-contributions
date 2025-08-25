@@ -50,6 +50,7 @@
 [TML](https://github.com/TinMoeLwin007)
 - [Tonny Nyauke]
 -[Shaswata Panda]
+-[Syaiful Yudha Platoteles](https://github.com/Platotel3s)
 -[hizs12-tpysh](https://github.com/HizS12)
 -[Ayush23-art](https://github.com/Ayush23-art)
 -[Amos-Aliko] (https://github.com/Aliko2020)
@@ -72,6 +73,7 @@
 - [Naveen C](https://github.com/naveench98)
 - [rainhuang0220](https://github.com/rainhuang0220)
 - [SSA](https://github.com/sshnag)
+- Zhuocheng Li
 - [eieilin](https://github.com/eieilin)
 - [Vishal](https://github.com/Nvishal2006)
 - [Devesh Paryani](https://github.com/Devesh102030)
@@ -2179,3 +2181,7 @@ sh0uka
 - [Hashim Iqbal](https://github.com/Haz-ctrl)
 - [Thoriq Nurathif Fadhlullah Wajo](https://github.com/thorixrover)
 - [Peter Li](https://github.com/kalokli8)
+- [Joel varghese](https://github.com/joelvarghese6)
+- [Chandrabali Biswas](https://github.com/cb-04)
+- [Emaan Fatima](https://github.com/emaan123dev)
+- [Gaurav patil](https://github.com/Gauravpatil1)
