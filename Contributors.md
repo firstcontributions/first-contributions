@@ -121,6 +121,7 @@
 - [Aaaappplle](https://github.com/aaaappplle)
 - vituwc
 - [Abhishek Pandey]
+- [Francis Wanyoike Ng'ang'a](https://github.com/Ranci-18)
 - [Jem Koeleman]()
 - [Madhu Dora]()
 - [Nishal Ahmed](https://github.com/nishalahmedpk)
