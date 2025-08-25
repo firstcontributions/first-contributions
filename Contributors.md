@@ -26,6 +26,7 @@
 - [Ankit Kumar Yadav](https://github.com/AnkitKrYadav)
 - [Jason](https://github.com/dev-jason-lu)
 - [David Anane](https://github.com/plaestore)
+- [Guganraj Rengaraju](https://github.com/george1518)
 - [Karan Dhiman](https://github.com/karandhiman12)
 - [Harsh Sachdeva](https://github.com/HarshSachdeva01)
 - [Giacomo Folli](https://github.com/giacomo-folli)
