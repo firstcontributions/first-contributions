@@ -865,6 +865,7 @@ Matthew Burgos
 - [Harsh Gharsandiya](https://github.com/harshgharsandiya)
 - [Ayananth](https://github.com/Ayananth)
 - [jorsyk](https://github.com/jorsyk)
+- [Rishu kuamr](https://github.com/1724)
 - [rajeshwar](https://github.com/snehasuresh2005)
 - [mayurk224](https://github.com/mayurk224)
 - [Gurvansh](https://github.com/Obsidian-Ninja)
