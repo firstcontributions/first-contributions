@@ -1,5 +1,6 @@
 # Contributors
 - [Sneha Bichkunde] (https://github.com/snehabichkunde)
+- [Saloni Zade](https://github.com/Saloni0111-cpu)
 - [Nithwin V M](https://github.com/Nithwin)
 - [SATKURI KAILASH](https://github.com/KailashSatkuri-warangal)
 - [Jithin Mukundan](https://github.com/jithinmukundan)
@@ -130,6 +131,7 @@
 - [Prashanth-000](https://github.com/Prashanth-000)
 - [Aaaappplle](https://github.com/aaaappplle)
 - vituwc
+- [thirtyone-ntotal](https://github.com/thirtyone-ntotal)
 - [Abhishek Pandey]
 - [Francis Wanyoike Ng'ang'a](https://github.com/Ranci-18)
 - [Jem Koeleman]()
@@ -1078,6 +1080,7 @@ Eoin O'B
 - [Sylvain L](https://github.com/sylvain-lec)
 - [João Inacio](https://github.com/J-Inacio)
 - [Yunus Adiyaman](https://github.com/yervaa)
+- [Mohammadreza Shams](https://github.com/ashkezary)
 - [Assaf Lewin](https://github.com/Assaf1713)
 - [Akash Dhamane](https://github.com/explore)
 - [Ahlal Izzatul](https://github.com/alaliz4)
@@ -1987,6 +1990,7 @@ Eoin O'B
 - [Keerthi Geddi](https://github.com/GeddiKeerthi8737)
 - [Chinmay Pani](https://github.com/chinmay8bit)
 - [OpenSeeker](https://github.com/OpenSeeker)
+- [James Harrison](https://github.com/JamesHarrisonDev)
 - [404-Page-Found](https://github.com/404-Page-Found)
 - [Adith K V](https://github.com/ZENZEPHY)
 -[Richa Chaudhary](https://github.com/RICHA-CHAUDHARY)
@@ -2210,4 +2214,5 @@ sh0uka
 - [Aaron Lee](https://github.com/acelee0621)
 - [Akshad](https://github.com/Akshad04)
 - [Calvin John Machado](https://github.com/calvinmachado20)
+- [Muhammad Qasim](https://github.com/muhammadqasim-10xe)
 
