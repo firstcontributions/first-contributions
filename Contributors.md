@@ -1945,9 +1945,7 @@ Eoin O'B
 - [Eldar Guseynov 🐦‍🔥](https://github.com/username-i386)
 - [Jahnavi-avi](https://github.com/jahnavi-9741)
 - [Jeyanth-S](https://github.com/Jeyanth-S)
-<<<<<<< HEAD
 - [V-Sharanya](https://github.com/V-Sharanya)
-=======
 - [Ishpriya Sharma](https://github.com/Ishpriya-Sharma)
 - [Idris](https://github.com/idreesjanib1)
 - [Husnain Khaliq](https://github.com/huscse)
@@ -2228,4 +2226,3 @@ sh0uka
 - [AlphaCode](https://github.com/alphacode-2325)
 - [Amer](https://github.com/iamAmer)
 - [Mukeshwaran K](https://github.com/mukesh-m01)
->>>>>>> upstream/main
