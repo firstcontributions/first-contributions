@@ -2,6 +2,7 @@
 - [Sneha Bichkunde] (https://github.com/snehabichkunde)
 - [SATKURI KAILASH](https://github.com/KailashSatkuri-warangal)
 - [Jithin Mukundan](https://github.com/jithinmukundan)
+- [Akshar K H](https://github.com/aksharkh)
 - [Lalitha N](https://github.com/lalitha-n546)
 - [Endlia](https://github.com/Endlia)
 - [Shiva Kumar](https://github.com/shivakumar04)
