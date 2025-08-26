@@ -26,6 +26,7 @@
 - [Milan Bhanushali] (https://github.com/milanbhanushali)
 - [ajit](https://github.com/ajitprachande)
 - [Ankit Kumar Yadav](https://github.com/AnkitKrYadav)
+- [Ashish Bairwa](https://github.com/ashishb20)
 - [Jason](https://github.com/dev-jason-lu)
 - [David Anane](https://github.com/plaestore)
 - [Karan Dhiman](https://github.com/karandhiman12)
