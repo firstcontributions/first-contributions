@@ -11,6 +11,7 @@
 - [Endlia](https://github.com/Endlia)
 - [Shiva Kumar](https://github.com/shivakumar04)
 - [Ishan Kanishka](https://github.com/Ishan-Kanishka)
+- [Pranay Gurav](https://github.com/cwpranay)
 - [Meet Shah](https://github.com/Meet6338-X)
 - [Sushmitha](https://github.com/Sushmigit)
 - [Pranay Chauhan](https://github.com/Pranay-Chauhn)
