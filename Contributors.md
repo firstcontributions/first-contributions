@@ -2221,3 +2221,4 @@ sh0uka
 - [Calvin John Machado](https://github.com/calvinmachado20)
 - [Muhammad Qasim](https://github.com/muhammadqasim-10xe)
 - [AlphaCode](https://github.com/alphacode-2325)
+- [Amer](https://github.com/iamAmer)
