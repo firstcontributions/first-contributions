@@ -64,6 +64,7 @@
 -[Syaiful Yudha Platoteles](https://github.com/Platotel3s)
 -[hizs12-tpysh](https://github.com/HizS12)
 -[Ayush23-art](https://github.com/Ayush23-art)
+-[Shirshak-singh-dugtal](https://github.com/Shirshak-dugtal)
 -[Amos-Aliko] (https://github.com/Aliko2020)
 - [Victor Kweka](https://github.com/victorjudysen)
 - [Krishna Khandelwal] (https://github.com/krish8955)
