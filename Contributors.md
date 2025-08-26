@@ -9,6 +9,7 @@
 - [Meet Shah](https://github.com/Meet6338-X)
 - [Pranay Chauhan](https://github.com/Pranay-Chauhn)
 - [Ehsan Shadmehri](https://github.com/ehsansh)
+- [Devin Rand](https://github.com/devinrand)
 - [Abbas Elsayed](https://github.com/MoAbbasid)
 - [Amanuel G](https://github.com/amanuel-gebresilasie)
 - [Pinintti Sunil](https://github.com/Pininttisunil)
@@ -166,6 +167,7 @@
 - [Manav_IMT535](https://github.com/Manav9547)
 - [Mark Finerty](https://github.com/Mork7)
 - [Harsh Thakare](https://github.com/harsh21234i)
+- [Sanal Nayyar](https://github.com/sanalnayyar2006)
 - [Rohit Rajvaidya](https://github.com/RohitRajvaidya5)
 - [Sachin vk](https://github.com/sachindasvk)
 - [Nishant khatrii](https://github.com/nishant-khatri17)
@@ -2200,3 +2202,5 @@ sh0uka
 - [Aaron Lee](https://github.com/acelee0621)
 - [Akshad](https://github.com/Akshad04)
 - [Platino](https://github.com/platino999)
+- [Calvin John Machado](https://github.com/calvinmachado20)
+
