@@ -9,6 +9,7 @@
 - [Prathmesh Sananse](https://github.com/prathmesh-sananse)
 - [Lalitha N](https://github.com/lalitha-n546)
 - [Pranesh](https://github.com/Pranesh2288)
+- [JuanRZ](https://github.com/JuanRZ)
 - [Endlia](https://github.com/Endlia)
 - [Shiva Kumar](https://github.com/shivakumar04)
 - [Ishan Kanishka](https://github.com/Ishan-Kanishka)
