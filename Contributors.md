@@ -3,6 +3,7 @@
 - [SATKURI KAILASH](https://github.com/KailashSatkuri-warangal)
 - [Jithin Mukundan](https://github.com/jithinmukundan)
 - [Akshar K H](https://github.com/aksharkh)
+- [Prathmesh Sananse](https://github.com/prathmesh-sananse)
 - [Lalitha N](https://github.com/lalitha-n546)
 - [Endlia](https://github.com/Endlia)
 - [Shiva Kumar](https://github.com/shivakumar04)
