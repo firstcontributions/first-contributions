@@ -2237,7 +2237,6 @@ sh0uka
 - [Hyokyung Seo](https://github.com/seohg)
 - [Aaron Lee](https://github.com/acelee0621)
 - [Akshad](https://github.com/Akshad04)
-- [Platino](https://github.com/platino999)
 - [Calvin John Machado](https://github.com/calvinmachado20)
 - [Muhammad Qasim](https://github.com/muhammadqasim-10xe)
 - [AlphaCode](https://github.com/alphacode-2325)
@@ -2246,4 +2245,3 @@ sh0uka
 - [Mukeshwaran K](https://github.com/mukesh-m01)
 - [Anastasia Tumanov](https://github.com/anastasiatumanov)
 - [SHREYANSH SINGH](https://github.com/Shreyansh-singh-6856)
-
