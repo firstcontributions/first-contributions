@@ -28,6 +28,7 @@
 - [Vinicius]
 - [Plexton](https://github.com/ZaibLComrade)
 - [knlklabacka]
+- [mfg5160]
 - [Tony J.](https://github.com/t0nebone)
 - [Yarno Grenier](https://github.com/yarno97x)
 - [Alaqmar Electricwala](https://github.com/AlaqmarElectricwala)
