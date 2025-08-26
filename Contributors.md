@@ -26,6 +26,7 @@
 - [Hruthik Chauan](https://github.com/hruthikchauhan07)
 - [Vinicius]
 - [Plexton](https://github.com/ZaibLComrade)
+- [knlklabacka]
 - [Tony J.](https://github.com/t0nebone)
 - [Yarno Grenier](https://github.com/yarno97x)
 - [Alaqmar Electricwala](https://github.com/AlaqmarElectricwala)
@@ -1021,6 +1022,7 @@ Eoin O'B
 - [Mariusz Sobczak](https://github.com/SmoQ)
 - [Umair Amir](https://github.com/UmairAmir)
 - [Sandhya R](https://github.com/sandhya13r)
+- [Yifan Rigny](https://github.com/yrigny)
 - [Sunit] (https://github.com/sunit25)
 - [Salar Amir](https://github.com/SalarAmir)
 - [Leila (Radi Adil)](https://github.com/l3331l4)
@@ -1139,6 +1141,7 @@ Eoin O'B
 - [Shardul Hirolikar](https://github.com/shiro1307)
 - [Sasindu Manamperi](https://github.com/sasindubm)
 - [LukaGakhokidze](https://github.com/Luka288)
+- [Mario Letepichia](https://github.com/MarioLetepichia)
 - [Rahul Parihar](https://github.com/Parihar-Dev)
 - [Taha Tariq](https://github.com/tahatariq19)
 - [Tzipi W](https://github.com/Tzipi-Winefeld)
@@ -1943,6 +1946,7 @@ Eoin O'B
 - [Eldar Guseynov 🐦‍🔥](https://github.com/username-i386)
 - [Jahnavi-avi](https://github.com/jahnavi-9741)
 - [Jeyanth-S](https://github.com/Jeyanth-S)
+- [V-Sharanya](https://github.com/V-Sharanya)
 - [Ishpriya Sharma](https://github.com/Ishpriya-Sharma)
 - [Idris](https://github.com/idreesjanib1)
 - [Husnain Khaliq](https://github.com/huscse)
@@ -2223,3 +2227,4 @@ sh0uka
 - [AlphaCode](https://github.com/alphacode-2325)
 - [Amer](https://github.com/iamAmer)
 - [Rachel Stern](https://github.com/RachelStern20)
+- [Mukeshwaran K](https://github.com/mukesh-m01)
