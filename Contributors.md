@@ -12,6 +12,7 @@
 - [Shiva Kumar](https://github.com/shivakumar04)
 - [Ishan Kanishka](https://github.com/Ishan-Kanishka)
 - [Meet Shah](https://github.com/Meet6338-X)
+- [Sushmitha](https://github.com/Sushmigit)
 - [Pranay Chauhan](https://github.com/Pranay-Chauhn)
 - [Ehsan Shadmehri](https://github.com/ehsansh)
 - [Devin Rand](https://github.com/devinrand)
