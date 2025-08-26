@@ -2194,5 +2194,4 @@ sh0uka
 - [Hyokyung Seo](https://github.com/seohg)
 - [Aaron Lee](https://github.com/acelee0621)
 - [Akshad](https://github.com/Akshad04)
-- [Calvin John Machado]
-(https://github.com/calvinmachado20)
+- [Calvin John Machado](https://github.com/calvinmachado20)
