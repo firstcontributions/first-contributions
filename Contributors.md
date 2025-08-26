@@ -1,5 +1,6 @@
 # Contributors
 - [Sneha Bichkunde] (https://github.com/snehabichkunde)
+- [Saloni Zade](https://github.com/Saloni0111-cpu)
 - [Nithwin V M](https://github.com/Nithwin)
 - [SATKURI KAILASH](https://github.com/KailashSatkuri-warangal)
 - [Jithin Mukundan](https://github.com/jithinmukundan)
