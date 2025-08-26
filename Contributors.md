@@ -2017,6 +2017,7 @@ Eoin O'B
 - [Cristian Nustes](https://github.com/cristiaaann27)
 - [Dev Chagas](https://github.com/devchagas)
 - [Shreya Kumari](https://github.com/shreya-create-glitch)
+- [Rahul Dutta](https://github.com/RahulDutta7)
 - [Mohamed Laraiche](https://github.com/molaraiche)
 - [Janaki Ram K](https://github.com/JKR0805)
 - [Akshit Garg](https://github.com/AkshitGarg054) 
