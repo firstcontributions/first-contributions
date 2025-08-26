@@ -2110,6 +2110,7 @@
 - [Sachin Vaishnav](https://github.com/SachinVaishnav2980)
 - [Mell0wx](https://github.com/mell0wx) -[YashRahate](https://github.com/YashRahate)
 - [Zain Amjad](https://github.com/zancheema)
+- [Ansh Soni](https://github.com/ansh307)
 - [Duoduo](https://github.com/NamingRacksMyBrain)
 - [Subhajit Datta](https://github.com/subhajit2205)
 - [Mate Kopaliani](https://github.com/Ka10ken1)
