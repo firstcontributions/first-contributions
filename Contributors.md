@@ -1202,6 +1202,7 @@ Eoin O'B
 - [paddygriff](https://github.com/paddygriffin)
 - [sgunner2014](https://github.com/SGunner2014)
 - [ShatnauTSA](https://github.com/shantanuTSA)
+- [Akshat Kumar Gupta] (https://github.com/AKSHAT-KUMAR-GUPTA07)
 - [Gurvansh](https://github.com/Obsidian-Ninja)
 - [Dhruv Pandey](https://github.com/Dhrupandey)
 - [BlueGeckoJP](https://github.com/BlueGeckoJP)
