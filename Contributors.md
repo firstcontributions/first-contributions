@@ -167,6 +167,7 @@
 - [Manav_IMT535](https://github.com/Manav9547)
 - [Mark Finerty](https://github.com/Mork7)
 - [Harsh Thakare](https://github.com/harsh21234i)
+- [Sanal Nayyar](https://github.com/sanalnayyar2006)
 - [Rohit Rajvaidya](https://github.com/RohitRajvaidya5)
 - [Sachin vk](https://github.com/sachindasvk)
 - [Nishant khatrii](https://github.com/nishant-khatri17)
