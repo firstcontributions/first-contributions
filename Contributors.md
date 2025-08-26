@@ -1079,6 +1079,7 @@ Eoin O'B
 - [Sylvain L](https://github.com/sylvain-lec)
 - [João Inacio](https://github.com/J-Inacio)
 - [Yunus Adiyaman](https://github.com/yervaa)
+- [Mohammadreza Shams](https://github.com/ashkezary)
 - [Assaf Lewin](https://github.com/Assaf1713)
 - [Akash Dhamane](https://github.com/explore)
 - [Ahlal Izzatul](https://github.com/alaliz4)
