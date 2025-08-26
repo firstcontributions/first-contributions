@@ -1687,6 +1687,7 @@ Eoin O'B
 - [Jessica Agarwal](https://github.com/jessicaagarwal)
 - [Soroush Karami](https://github.com/soroushkarami)
 - [Samridhi Prakash](https://github.com/Samridhi-2007)
+- [Akshar K H](https://github.com/aksharkh)
 - [Angelina Tsygan](https://github.com/angelinatsygan)
 - [Vinit Rana](https://github.com/RanaVinit)
 - [Joseph O'Neill](https://github.com/L00188381)
