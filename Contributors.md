@@ -1139,6 +1139,7 @@ Eoin O'B
 - [Shardul Hirolikar](https://github.com/shiro1307)
 - [Sasindu Manamperi](https://github.com/sasindubm)
 - [LukaGakhokidze](https://github.com/Luka288)
+- [Mario Letepichia](https://github.com/MarioLetepichia)
 - [Rahul Parihar](https://github.com/Parihar-Dev)
 - [Taha Tariq](https://github.com/tahatariq19)
 - [Tzipi W](https://github.com/Tzipi-Winefeld)
