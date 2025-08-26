@@ -78,6 +78,7 @@
 - [Vittorino  Favaro](https://github.com/vittorino-favaro)
 - [Dipak Halkude](https://github.com/DipakHalkude)
 - [Isaiah Ng](https://github.com/ngisaiah)
+- [Bibek Parajuli] (https://github.com/bibekparajuli123)
 - [Alex Hann](https://github.com/lurch9)
 - [NANDANI AGRAWAL](hhttps://github.com/Nandani9443)
 - [rkb121541](https://github.com/rkb121541)
