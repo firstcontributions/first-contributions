@@ -9,6 +9,7 @@
 - [Meet Shah](https://github.com/Meet6338-X)
 - [Pranay Chauhan](https://github.com/Pranay-Chauhn)
 - [Ehsan Shadmehri](https://github.com/ehsansh)
+- [Devin Rand](https://github.com/devinrand)
 - [Abbas Elsayed](https://github.com/MoAbbasid)
 - [Amanuel G](https://github.com/amanuel-gebresilasie)
 - [Pinintti Sunil](https://github.com/Pininttisunil)
