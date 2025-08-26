@@ -1,5 +1,6 @@
 # Contributors
 - [Sneha Bichkunde] (https://github.com/snehabichkunde)
+- [William W.] (https://github.com/ParadigmPacket)
 - [Saloni Zade](https://github.com/Saloni0111-cpu)
 - [Nithwin V M](https://github.com/Nithwin)
 - [SATKURI KAILASH](https://github.com/KailashSatkuri-warangal)
