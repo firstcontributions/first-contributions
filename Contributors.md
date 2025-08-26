@@ -1995,6 +1995,8 @@ Eoin O'B
 - [Helen Fu](https://github.com/helenjfu)
 - [Sreya Bhattacharjee](https://github.com/bsreya0906)
 - [Priya Kumari](https://github.com/priyayayayayaaa)
+-[Prakriti Dwivedi](https://github.com/hiiamkarati)
+
 - [Digvijaysinh Pawar](https://github.com/ImNotFound7)
 -[Prakriti Dwivedi](https://github.com/hiiamkarati)
 - [Himanshu Gohil](https://github.com/tghimanshu)
@@ -2210,3 +2212,4 @@ sh0uka
 - [Aaron Lee](https://github.com/acelee0621)
 - [Akshad](https://github.com/Akshad04)
 - [Calvin John Machado](https://github.com/calvinmachado20)
+
