@@ -8,7 +8,7 @@
 - [Nithwin V M](https://github.com/Nithwin)
 - [SATKURI KAILASH](https://github.com/KailashSatkuri-warangal)
 - [phyo thiri zaw](https://github.com/phyothirizaw)
-- [Akshar K H](https://github.com/aksharkh)
+- [HHZ](https://github.com/phyothirizaw)
 - [Prathmesh Sananse](https://github.com/prathmesh-sananse)
 - [Lalitha N](https://github.com/lalitha-n546)
 - [Pranesh](https://github.com/Pranesh2288)
