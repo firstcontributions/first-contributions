@@ -13,6 +13,7 @@ sardor Uchqunov
 - [Ajay C](https://github.com/Ajaynirm)
 - [Nithwin V M](https://github.com/Nithwin)
 - [SATKURI KAILASH](https://github.com/KailashSatkuri-warangal)
+- [RAYYAN KHAN](https://github.com/rayyan4t4)
 - [Jithin Mukundan](https://github.com/jithinmukundan)
 - [Akshar K H](https://github.com/aksharkh)
 - [Prathmesh Sananse](https://github.com/prathmesh-sananse)
