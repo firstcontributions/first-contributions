@@ -4,6 +4,7 @@
 - [Siddharth Sahu] (https://github.com/sidhacks) 
 - [Shivam Verma] (https://github.com/shivamxverma)
 - [one small step for humanity]
+- [Nikita Maurya](https://github.com/sun-andsky)
 - [William W.] (https://github.com/ParadigmPacket)
 - [Shalini V] (https://github.com/shalini515)
 - [Saloni Zade](https://github.com/Saloni0111-cpu)
@@ -134,6 +135,7 @@
 - [Trần Phương Hùng & Đỗ Nhật Thanh ❤️](https://github.com/blueqing2026)
 - [Archico Darius Simpar Sembiring 🇮🇩](https://github.com/archicos)
 - [Akul Anhith](https://github.com/akul)
+- [Magali Gonzalez](https://github.com/anbbel09)
 - [Ahmed Fikri](https://github.com/Fikri-20)
 - [Dillikumar N](https://github.com/Dillikumarnl)
 - [Ajay Brightson](https://github.com/AjayJ1711)
@@ -2264,4 +2266,4 @@ sh0uka
 - [Manvitha shetty](https://github.com/Manvitha13964)
 - [SHREYANSH SINGH](https://github.com/Shreyansh-singh-6856)
 - [RIVER]
-
+- [Nikhil Garg](https://github.com/Nikhilgarg-123)
