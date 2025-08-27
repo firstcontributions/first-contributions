@@ -1,5 +1,7 @@
 # Contributors
+- [Yogendra K Narmada] (https://github.com/lazydeveloper9)
 - [Sneha Bichkunde] (https://github.com/snehabichkunde)
+- [Siddharth Sahu] (https://github.com/sidhacks) 
 - [William W.] (https://github.com/ParadigmPacket)
 - [Saloni Zade](https://github.com/Saloni0111-cpu)
 - [Nithwin V M](https://github.com/Nithwin)
@@ -12,6 +14,7 @@
 - [JuanRZ](https://github.com/JuanRZ)
 - [Endlia](https://github.com/Endlia)
 - [Shiva Kumar](https://github.com/shivakumar04)
+- [Meg Hiatt](https://github.com/hiatt8649)
 - [Ishan Kanishka](https://github.com/Ishan-Kanishka)
 - [Pranay Gurav](https://github.com/cwpranay)
 - [Meet Shah](https://github.com/Meet6338-X)
@@ -26,6 +29,7 @@
 - [Dimirrius Farida](https://github.com/CodeBotD)
 - [Hruthik Chauan](https://github.com/hruthikchauhan07)
 - [Vinicius]
+- [원세영](https://github.com/seyoung5744)
 - [Plexton](https://github.com/ZaibLComrade)
 - [knlklabacka]
 - [mfg5160]
@@ -2241,3 +2245,4 @@ sh0uka
 - [Mukeshwaran K](https://github.com/mukesh-m01)
 - [Anastasia Tumanov](https://github.com/anastasiatumanov)
 - [Manvitha shetty](https://github.com/Manvitha13964)
+- [SHREYANSH SINGH](https://github.com/Shreyansh-singh-6856)
