@@ -16,6 +16,7 @@ sardor Uchqunov
 - [Jithin Mukundan](https://github.com/jithinmukundan)
 - [Akshar K H](https://github.com/aksharkh)
 - [Prathmesh Sananse](https://github.com/prathmesh-sananse)
+- [RAYYAN KHAN](https://github.com/rayyan4t4)
 - [Lalitha N](https://github.com/lalitha-n546)
 - [Pranesh](https://github.com/Pranesh2288)
 - [JuanRZ](https://github.com/JuanRZ)
