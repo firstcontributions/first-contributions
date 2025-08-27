@@ -21,6 +21,7 @@
 - [Meg Hiatt](https://github.com/hiatt8649)
 - [Ishan Kanishka](https://github.com/Ishan-Kanishka)
 - [Pranay Gurav](https://github.com/cwpranay)
+- [Hoang Viet Nguyen](https://github.com/hoangviet-nguyen)
 - [Meet Shah](https://github.com/Meet6338-X)
 - [Sushmitha](https://github.com/Sushmigit)
 - [Pranay Chauhan](https://github.com/Pranay-Chauhn)
