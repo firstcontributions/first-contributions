@@ -1536,6 +1536,7 @@ Eoin O'B
 - [Yisel Cintora Vega](https://github.com/yisel260)
 - [Karthik Madhusudhanan](https://github.com/kmadz)
 - [jasurgraduate](https://github.com/jasurgraduate)
+- [Bkr4wczynski](https://github.com/Bkr4wczynski)
 - [Giuseppe Di Sanza](https://github.com/peppe0709)
 - [meenakshiruia](https://github.com/meenakshiruia)
 - [Darllyson Santos](https://github.com/DarllysonS)
