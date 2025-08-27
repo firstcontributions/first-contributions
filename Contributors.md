@@ -26,6 +26,7 @@
 - [Hoang Viet Nguyen](https://github.com/hoangviet-nguyen)
 - [Meet Shah](https://github.com/Meet6338-X)
 - [Sushmitha](https://github.com/Sushmigit)
+- [Okatakyieba Boadu](https://github.com/oke06)
 - [Pranay Chauhan](https://github.com/Pranay-Chauhn)
 - [Ehsan Shadmehri](https://github.com/ehsansh)
 - [Devin Rand](https://github.com/devinrand)
