@@ -1462,6 +1462,7 @@ Eoin O'B
 - [Kutlu Çağan Akın](https://github.com/kCagan)
 - [Inifome Eleluwor](https://github.com/Inifomeeo)
 - [Kanishk Singh](https://github.com/kanishkIIITD)
+- [Ivan Hernandez](https://github.com/IvanHHdz)
 - [Thisaga Jayaratna](https://github.com/thisagaa)
 - [Lucas Emanuel](https://github.com/lucasdev-err)
 - [Mark Sverdlov](https://github.com/MarkSverdlov)
