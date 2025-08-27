@@ -4,6 +4,7 @@
 - [Siddharth Sahu] (https://github.com/sidhacks) 
 - [Shivam Verma] (https://github.com/shivamxverma)
 - [one small step for humanity]
+- [Nikita Maurya](https://github.com/sun-andsky)
 - [William W.] (https://github.com/ParadigmPacket)
 - [Shalini V] (https://github.com/shalini515)
 - [Saloni Zade](https://github.com/Saloni0111-cpu)
