@@ -7,7 +7,7 @@
 - [Saloni Zade](https://github.com/Saloni0111-cpu)
 - [Nithwin V M](https://github.com/Nithwin)
 - [SATKURI KAILASH](https://github.com/KailashSatkuri-warangal)
-- [phyo Thiri zaw](https://github.com/phyothirizaw)
+- [phyo thiri zaw](https://github.com/phyothirizaw)
 - [Akshar K H](https://github.com/aksharkh)
 - [Prathmesh Sananse](https://github.com/prathmesh-sananse)
 - [Lalitha N](https://github.com/lalitha-n546)
