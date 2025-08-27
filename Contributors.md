@@ -118,6 +118,7 @@
 - [Koushik Pyarasani](https://github.com/pyaarasanikoushik)
 - [RupenderSinghRathore](https://github.com/RupenderSinghRathore)
 - [Parth Sivakumar](https://github.com/Parth-sk)
+- [Robert Alfredson](https://github.com/rcalfredson)
 - [Trần Phương Hùng & Đỗ Nhật Thanh ❤️](https://github.com/blueqing2026)
 - [Archico Darius Simpar Sembiring 🇮🇩](https://github.com/archicos)
 - [Akul Anhith](https://github.com/akul)
