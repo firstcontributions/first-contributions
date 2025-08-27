@@ -135,6 +135,7 @@
 - [Trần Phương Hùng & Đỗ Nhật Thanh ❤️](https://github.com/blueqing2026)
 - [Archico Darius Simpar Sembiring 🇮🇩](https://github.com/archicos)
 - [Akul Anhith](https://github.com/akul)
+- [Magali Gonzalez](https://github.com/anbbel09)
 - [Ahmed Fikri](https://github.com/Fikri-20)
 - [Dillikumar N](https://github.com/Dillikumarnl)
 - [Ajay Brightson](https://github.com/AjayJ1711)
