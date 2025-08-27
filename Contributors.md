@@ -16,6 +16,7 @@ sardor Uchqunov
 - [Jithin Mukundan](https://github.com/jithinmukundan)
 - [Akshar K H](https://github.com/aksharkh)
 - [Prathmesh Sananse](https://github.com/prathmesh-sananse)
+- [RAYYAN KHAN](https://github.com/rayyan4t4)
 - [Lalitha N](https://github.com/lalitha-n546)
 - [Pranesh](https://github.com/Pranesh2288)
 - [JuanRZ](https://github.com/JuanRZ)
@@ -2016,6 +2017,7 @@ Eoin O'B
 - [Code-Explore-Dev](https://github.com/Code-Explorer-Dev)
 - [Anis Mandal](https://github.com/AgentPhoenix7)
 - E
+- [Daniel Oviedo](https://github.com/damo0615)
 - [Alok Srivastava](https://github.com/alok-srivastava)
 - [Vani Narwani](https://github.com/VaniNarwani23)
 - [Ruchira Chaubey](https://github.com/ruchirachaubey)
