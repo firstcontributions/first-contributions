@@ -2095,6 +2095,7 @@ jack - first contribution practice
 - [Aadil Reyaz Wani](https://aadil-reyaz-wani.vercel.app/)
 - [Alokananda Y](https://github.com/alok-38)
 - [Rishabh Pathak](https://github.com/RishabhPathak93)
+- [Chandu Reddy Komireddy](https://github.com/komireddychandureddy)
 - [Yashub Goel]
 - [aaaa]
 - [imdo]
