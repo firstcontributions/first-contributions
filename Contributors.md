@@ -2252,6 +2252,7 @@ sh0uka
 - [Muhammad Qasim](https://github.com/muhammadqasim-10xe)
 - [AlphaCode](https://github.com/alphacode-2325)
 - [Amer](https://github.com/iamAmer)
+- [Khadija](https://github.com/khzouhair)
 - [Rachel Stern](https://github.com/RachelStern20)
 - [Mukeshwaran K](https://github.com/mukesh-m01)
 - [Anastasia Tumanov](https://github.com/anastasiatumanov)
