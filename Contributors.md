@@ -1671,6 +1671,7 @@ Eoin O'B
 - [aayamrajshakya](https://github.com/aayamrajshakya)
 - [gleisomSilva](https://github.com/Gleison-Silva-02)
 - [Ritesh Raj Dwivedi](https://github.com/riteshrajd)
+- [Alex Ficachi](https://github.com/AlexFicachi)
 - [Giovanni Massiot](https://github.com/Giovanni-jpg)
 - [Umang Agarwal](https://github.com/UmangAgarwal257)
 - [ Supraja Gaonkar ](https://github.com/Supraja-Gao)
