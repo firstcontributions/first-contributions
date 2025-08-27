@@ -1342,6 +1342,7 @@ Eoin O'B
 - [Daniel Cursi](https://github.com/danielcursi)
 - [Ashish Jadhav](https://github.com/Ashish1022)
 - [Vaishnavi](https://github.com/vaishnavi20git)
+- [Carlos Zukov](https://github.com/zukovCarlos)
 - [Sayyid Sajad](https://github.com/sayyidsajad)
 - [Vicente Pinochet ](https://github.com/Qajirr)
 - [Minjae Kwon](https://github.com/minjaekwon97)
