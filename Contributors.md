@@ -3,6 +3,7 @@
 - [Sneha Bichkunde] (https://github.com/snehabichkunde)
 - [Siddharth Sahu] (https://github.com/sidhacks) 
 - [Shivam Verma] (https://github.com/shivamxverma)
+- [one small step for humanity]
 - [William W.] (https://github.com/ParadigmPacket)
 - [Saloni Zade](https://github.com/Saloni0111-cpu)
 - [Nithwin V M](https://github.com/Nithwin)
