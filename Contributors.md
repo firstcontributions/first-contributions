@@ -8,6 +8,7 @@
 - [William W.] (https://github.com/ParadigmPacket)
 - [Shalini V] (https://github.com/shalini515)
 - [Saloni Zade](https://github.com/Saloni0111-cpu)
+- [Chetan Atram](https://github.com/RabbitBoii)
 - [Ajay C](https://github.com/Ajaynirm)
 - [Nithwin V M](https://github.com/Nithwin)
 - [SATKURI KAILASH](https://github.com/KailashSatkuri-warangal)
