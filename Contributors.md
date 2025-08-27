@@ -5,6 +5,7 @@
 - [Shivam Verma] (https://github.com/shivamxverma)
 - [William W.] (https://github.com/ParadigmPacket)
 - [Saloni Zade](https://github.com/Saloni0111-cpu)
+- [Ajay C](https://github.com/Ajaynirm)
 - [Nithwin V M](https://github.com/Nithwin)
 - [SATKURI KAILASH](https://github.com/KailashSatkuri-warangal)
 - [Jithin Mukundan](https://github.com/jithinmukundan)
