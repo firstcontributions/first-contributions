@@ -28,6 +28,7 @@
 - [Dimirrius Farida](https://github.com/CodeBotD)
 - [Hruthik Chauan](https://github.com/hruthikchauhan07)
 - [Vinicius]
+- [원세영](https://github.com/seyoung5744)
 - [Plexton](https://github.com/ZaibLComrade)
 - [knlklabacka]
 - [mfg5160]
