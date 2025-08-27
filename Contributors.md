@@ -12,6 +12,7 @@
 - [JuanRZ](https://github.com/JuanRZ)
 - [Endlia](https://github.com/Endlia)
 - [Shiva Kumar](https://github.com/shivakumar04)
+- [Meg Hiatt](https://github.com/hiatt8649)
 - [Ishan Kanishka](https://github.com/Ishan-Kanishka)
 - [Pranay Gurav](https://github.com/cwpranay)
 - [Meet Shah](https://github.com/Meet6338-X)
