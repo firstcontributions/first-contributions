@@ -14,6 +14,7 @@
 - [Pranesh](https://github.com/Pranesh2288)
 - [JuanRZ](https://github.com/JuanRZ)
 - [Endlia](https://github.com/Endlia)
+- [Farmata Kane](https://github.com/miiswom)
 - [Shiva Kumar](https://github.com/shivakumar04)
 - [Meg Hiatt](https://github.com/hiatt8649)
 - [Ishan Kanishka](https://github.com/Ishan-Kanishka)
