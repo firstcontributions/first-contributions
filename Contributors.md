@@ -1306,6 +1306,7 @@ Eoin O'B
 - [Fabrice Pecot](https://github.com/FabriceAB1)
 - [Pujan Bohora](https://github.com/pujanbohora)
 - [Peleg Ben Barak](https://github.com/peleg-bb)
+- [Khoa Tran](https://github.com/kchan139)
 - [Greem Fox](https://github.com/vulpes-viridis)
 - [Fabrice Pecot](https://github.com/FabriceAB1)
 - [Patel Smitkumar](https://github.com/smitRoot)
