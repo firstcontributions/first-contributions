@@ -2190,6 +2190,7 @@ jack - first contribution practice
 - [Gaurav chudhari](https://github.com/Chaudharigaur/first-contributions)
 - [Chxuo](https://github.com/chxuo)
 - [y pavan reddy](https://github.com/ypavanr)
+- [Elena Krunic](https://github.com/ElenaKrunic)
 - [polygon00-dev](https://github.com/polygon00-dev)
 - Grant
 - [Zach Gallman](https://github.com/zdotg)
