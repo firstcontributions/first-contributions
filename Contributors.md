@@ -2017,6 +2017,7 @@ Eoin O'B
 - [Code-Explore-Dev](https://github.com/Code-Explorer-Dev)
 - [Anis Mandal](https://github.com/AgentPhoenix7)
 - E
+- [Daniel Oviedo](https://github.com/damo0615)
 - [Alok Srivastava](https://github.com/alok-srivastava)
 - [Vani Narwani](https://github.com/VaniNarwani23)
 - [Ruchira Chaubey](https://github.com/ruchirachaubey)
