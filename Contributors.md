@@ -2032,7 +2032,12 @@
 - [spacescribe](https://github.com/spacescribe)  
   -[sammydonovan](https://github.com/sammydono)
 - [Sean Tilson](hhtps://github.com/smtilson)
-- [Firewooood](https://github.com/Firewooood) -[luisdiaz327](https://github.com/luisdiaz327) -[mattmoodie](https://github.com/mattmoodie) -[Aswanth Manoharan](https://github.com/AswanthAnu)
+- [Firewooood](https://github.com/Firewooood) -[luisdiaz327](https://github.com/luisdiaz327) -[mattmoodie](https://github.com/mattmoodie) -[Aswanth Manoharan](https://github.com/AswanthAnu
+- [Firewooood](https://github.com/Firewooood)
+-[luisdiaz327](https://github.com/luisdiaz327)
+-[Liso Mhlana](https://github.com/Nateliso)
+-[mattmoodie](https://github.com/mattmoodie)
+-[Aswanth Manoharan](https://github.com/AswanthAnu)
 - [Likhitha Shree L C](https://github.com/Likhitha-talent)
 - [Vaibhav Patidar](https://github.com/VaibhavPatidar26)
 - [Ayush dabas](https://github.com/Ayush-Dabas)
