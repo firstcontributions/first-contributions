@@ -2254,6 +2254,7 @@ sh0uka
 - [Sandhana Krishnan](https://github.com/Sandhana-Krishnan-S)
 - [Hyokyung Seo](https://github.com/seohg)
 - [Aaron Lee](https://github.com/acelee0621)
+- [Deer.Darkness](https://github.com/matinebadi)
 - [Akshad](https://github.com/Akshad04)
 - [Calvin John Machado](https://github.com/calvinmachado20)
 - [Muhammad Qasim](https://github.com/muhammadqasim-10xe)
