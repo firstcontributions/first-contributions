@@ -2279,11 +2279,10 @@ sh0uka
 - [Amer](https://github.com/iamAmer)
 - [Rachel Stern](https://github.com/RachelStern20)
 - [Mukeshwaran K](https://github.com/mukesh-m01)
+- [Dede Sangmortey](https://github.com/Ladydede) 
 - [Anastasia Tumanov](https://github.com/anastasiatumanov)
 - [Manvitha shetty](https://github.com/Manvitha13964)
 - [SHREYANSH SINGH](https://github.com/Shreyansh-singh-6856)
 - [RIVER]
 - [Nikhil Garg](https://github.com/Nikhilgarg-123)
 - [Dhanraj Bidare](https://github.com/Dhanraj4102)
-- [Haroon Majeed](https://github.com/HaroonBsf)
-- [Arvind Yadav](https://github.com/aarvjs)
