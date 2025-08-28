@@ -1483,6 +1483,7 @@ Eoin O'B
 - [Abdullah Asim](https://github.com/Abdulla-asim)
 - [Arjun Manjunath](https://github.com/arjunmnath)
 - [Samson Ajakaye](https://github.com/nacosseruib)
+- [Mason Breece](https://github.com/MBreece89)
 - [Matheus Azevedo](https://github.com/Matheusada)
 - [Shamsheed Ali](https://github.com/shamsheedali)
 - [Lalit Khokhar](https://github.com/lalitkhokhar)
