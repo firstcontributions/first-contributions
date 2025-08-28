@@ -12,6 +12,7 @@
 - [Vishnu Vardhan N](https://github.com/VishnuVardhanNk)
 - [Abhishek Negi](https://github.com/abhi-negii7)
 - [Timothy Phan](https://github.com/TimothyPhan2)
+- [Kin Yip](https://github.com/Kinyipd)
 - [Ahmed Reyyan](https://github.com/AhmedReyyan)
 - [Ahmed Elskh](https://github.com/ahmedelshkh)
 - [Shailesh Sharma](https://github.com/Chinipanda)
