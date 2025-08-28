@@ -2,6 +2,7 @@
 # Contributors
 sardor Uchqunov
 - [Yogendra K Narmada] (https://github.com/lazydeveloper9)
+- [Junya Katouda] (https://github.com/katoudaj)
 - [Sneha Bichkunde] (https://github.com/snehabichkunde)
 - [Siddharth Sahu] (https://github.com/sidhacks) 
 - [Shivam Verma] (https://github.com/shivamxverma)
