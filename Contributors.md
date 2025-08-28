@@ -6,6 +6,7 @@ sardor Uchqunov
 - [Junya Katouda] (https://github.com/katoudaj)
 - [Sneha Bichkunde] (https://github.com/snehabichkunde)
 - [Siddharth Sahu] (https://github.com/sidhacks) 
+- [Priyanka Singh] (https://github.com/Priyanka-2725)
 - [Shivam Verma] (https://github.com/shivamxverma)
 - [one small step for humanity]
 - [Nikita Maurya](https://github.com/sun-andsky)
@@ -25,6 +26,7 @@ sardor Uchqunov
 - [RAYYAN KHAN](https://github.com/rayyan4t4)
 - [Lalitha N](https://github.com/lalitha-n546)
 - [Pranesh](https://github.com/Pranesh2288)
+
 - [JuanRZ](https://github.com/JuanRZ)
 - [Endlia](https://github.com/Endlia)
 - [casa-code](https://github.com/casa-code)
