@@ -2217,6 +2217,4 @@ sh0uka
 - [Akshad](https://github.com/Akshad04)
 - [Calvin John Machado](https://github.com/calvinmachado20)
 - [Muhammad Qasim](https://github.com/muhammadqasim-10xe)
-#### Name: Juan Dela Cruz
-- Place: Philippines
-- Bio: I am a placeholder.
+- Juan Dela Cruz
