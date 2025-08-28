@@ -2283,3 +2283,4 @@ sh0uka
 - [Dhanraj Bidare](https://github.com/Dhanraj4102)
 - [Haroon Majeed](https://github.com/HaroonBsf)
 - [Arvind Yadav](https://github.com/aarvjs)
+- [Rita Chi](https://github.com/ritachi)
