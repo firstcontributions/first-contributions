@@ -2226,6 +2226,7 @@ jack - first contribution practice
 - [Durnea Maxim](https://github.com/max-durnea)
 - [Oleg] (https://github.com/vapvaparpva-dotcom)
 - [Vartika Lohiya](https://github.com/vartekalohiya13)
+- [Joao Garcia](https://github.com/jmfptgarcia)
 - [BugWithJayesh](https://github.com/BugWithJayesh)
 - [Prabhnoor Kaur](https://github.com/Prabhnoor186)
 - [Rakshith](https://github.com/manrakshithqt)
