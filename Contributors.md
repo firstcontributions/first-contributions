@@ -23,6 +23,7 @@ sardor Uchqunov
 - [RAYYAN KHAN](https://github.com/rayyan4t4)
 - [Lalitha N](https://github.com/lalitha-n546)
 - [Pranesh](https://github.com/Pranesh2288)
+- [Priyanka Singh] (https://github.com/Priyanka-2725)
 - [JuanRZ](https://github.com/JuanRZ)
 - [Endlia](https://github.com/Endlia)
 - [casa-code](https://github.com/casa-code)
