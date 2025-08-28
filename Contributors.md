@@ -1592,6 +1592,7 @@ Eoin O'B
 - [Psalmuel Carvajal](https://github.com/ThisRiven)
 - [Codemanticism](https://github.com/codemanticism)
 - [Guru Balamurugan](https://github.com/guru-apr21)
+- [Calvin Shio](https://github.com/shiocalvin)
 - [Isabela Magalhães](https://github.com/isarbela)
 - [Aloof Apple](https://github.com/AloofApple)
 - [John Caleb ⚡](https://github.com/thejohncaleb)
