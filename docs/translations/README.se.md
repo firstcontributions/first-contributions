@@ -31,7 +31,7 @@ Klona repot till din dator. Gå till ditt GitHub-konto och klicka på clone-knap
 
 Öppna en terminal och kör följande kommando:
 
-```
+```bash
 git clone "url you just copied"
 ```
 där "url you just copied" (utan citat-tecken) är URL:en för detta repo (din fork för detta projekt). Se föregående steg för att hitta URL:en.
@@ -39,7 +39,7 @@ där "url you just copied" (utan citat-tecken) är URL:en för detta repo (din f
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 Till exempel:
-```
+```bash
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 där `this-is-you` är ditt användarnamn på GitHub. På detta sätt kopierar du innehållet i repot till din dator.
@@ -48,17 +48,17 @@ där `this-is-you` är ditt användarnamn på GitHub. På detta sätt kopierar d
 
 Gå till repo-katalogen på din dator (om du inte redan står i den katalogen):
 
-```
+```bash
 cd first-contributions
 ```
 
-Nu skapar du en branch genom att använda `git checkout`-kommandot:
-```
+Nu skapar du en branch genom att använda kommandot `git checkout`:
+```bash
 git checkout -b <lägg till ditt branch-namn>
 ```
 
 Till exempel:
-```
+```bash
 git checkout -b mitt-tillag
 ```
 
@@ -68,17 +68,17 @@ Nu öppnar du `Contributors.md` i en text-editor och lägger till ditt namn. Lä
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
-Ge kommando `git status` i projektkatalogen för att se de ändringar du gjort.
+Mata in kommandot `git status` i projektkatalogen för att se de ändringar du gjort.
 
 
-Lägg till dina ändringar genom att använda kommando `git add -A`:
+Lägg till dina ändringar genom att använda kommando `git add`:
 
-```
+```bash
 git add Contributors.md
 ```
 
 Commita dina ändringar genom att använda `git commit`:
-```
+```bash
 git commit -m "Add <your-name> to Contributors list"
 ```
 ersätt `<your-name>` med ditt namn.
@@ -86,7 +86,7 @@ ersätt `<your-name>` med ditt namn.
 ## Pusha ändringar till GitHub
 
 Pusha dina ändringar genom att använda kommando `git push`:
-```
+```bash
 git push origin <add-your-branch-name>
 ```
 ersätt `<add-your-branch-name>` med det branch-namn du använt tidigare.
