@@ -9,6 +9,7 @@ sardor Uchqunov
 - [Nikita Maurya](https://github.com/sun-andsky)
 - [William W.] (https://github.com/ParadigmPacket)
 - [Shalini V] (https://github.com/shalini515)
+- [Mohith Butta] (https:/github.com/mohithnovoct)
 - [Saloni Zade](https://github.com/Saloni0111-cpu)
 - [Chetan Atram](https://github.com/RabbitBoii)
 - [Ewan Black](https://github.com/ebl138)
