@@ -2279,6 +2279,7 @@ sh0uka
 - [Akshad](https://github.com/Akshad04)
 - [Calvin John Machado](https://github.com/calvinmachado20)
 - [Muhammad Qasim](https://github.com/muhammadqasim-10xe)
+- Juan Dela Cruz
 - [AlphaCode](https://github.com/alphacode-2325)
 - [Amer](https://github.com/iamAmer)
 - [Rachel Stern](https://github.com/RachelStern20)
