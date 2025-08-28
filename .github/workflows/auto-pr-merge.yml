@@ -33,13 +33,14 @@ jobs:
           echo "files_changed=$FILES_CHANGED" >> $GITHUB_ENV
           
           if [[ "${FILES_CHANGED// /}" == "Contributors.md" ]]; then
-
             echo "only_contributors=true" >> $GITHUB_ENV
+            echo "::set-output name=only_contributors::true"
           else
             echo "only_contributors=false" >> $GITHUB_ENV
+            echo "::set-output name=only_contributors::false"
           fi
-
       - name: Check if PR has only one line change
+        id: check_one_line_change
         run: |
           ADDITIONS=${{ github.event.pull_request.additions }}
           DELETIONS=${{ github.event.pull_request.deletions }}
@@ -49,16 +50,20 @@ jobs:
 
           if [[ $ADDITIONS == 1 && $DELETIONS == 0 ]]; then
             echo "one_line_change=true" >> $GITHUB_ENV
+            echo "::set-output name=one_line_change::true"
           elif [[ $ADDITIONS == 2 && $DELETIONS == 1 ]]; then
             echo "one_line_change=true" >> $GITHUB_ENV
+            echo "::set-output name=one_line_change::true"
           else
             echo "one_line_change=false" >> $GITHUB_ENV
+            echo "::set-output name=one_line_change::false"
           fi
+        # Removed invalid 'if' condition; always run this step and use outputs in later steps
 
       # Merge the pull request if it only modifies the Contributors.md file or if it fail to do then drop failure message as post 
       - name: Merge PR
         id: merge_pr
-        if: env.only_contributors == 'true' && env.one_line_change == 'true'
+        if: steps.is_only_contributors_file_changed.outputs.only_contributors == 'true' && steps.check_one_line_change.outputs.one_line_change == 'true'
         uses: actions/github-script@v6
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
@@ -180,7 +185,7 @@ jobs:
       # Post a comment on the pull request if it was not merged automatically
       - name: Post comment on PR if not merged automatically
         # Check if the pull request only modifies the CONTRIBUTORS.md file
-        if: env.only_contributors != 'true'
+        if: steps.is_only_contributors_file_changed.outputs.only_contributors != 'true'
         uses: actions/github-script@v6
         with:
           script: |
