@@ -77,6 +77,7 @@ sardor Uchqunov
 - [Ravi Kumar Jha](https://github.com/ravijha9546)
 - [Dhairya Dev](https://github.com/hamzak51)
 - [Ayomide Saheed](https://github.com/luc-ay)
+- [Muhammad Bilal Saleem](https://github.com/Muhammad-Bilal-Saleem)
 -[lavi](https://github.com/lavihere1)
 -[Daniel Velez](https://github.com/Daniel1000c)
 - [Martin-Perfumo] (https://github.com/MartinPerfumo) 
