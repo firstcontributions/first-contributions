@@ -29,6 +29,7 @@ sardor Uchqunov
 - [Shiva Kumar](https://github.com/shivakumar04)
 - [Meg Hiatt](https://github.com/hiatt8649)
 - [Ishan Kanishka](https://github.com/Ishan-Kanishka)
+- [Jordan James](https://github.com/JordanJamesJA)
 - [Pranay Gurav](https://github.com/cwpranay)
 - [Hoang Viet Nguyen](https://github.com/hoangviet-nguyen)
 - [Meet Shah](https://github.com/Meet6338-X)
