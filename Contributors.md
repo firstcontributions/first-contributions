@@ -229,6 +229,7 @@ LIUYY到此一游
 - [Amrit Amber](https://github.com/ArkhamKnight25)
 - Sasank
 - [Choudary Hussain Ali](https://github.com/choudaryhussainali)
+- [atlas-ian](https://github.com/atlas-ian)
 - [Sruthi BJ](https://github.com/Bjsruthi)
 - [Areen Patil](https://github.com/areen-patil)
 - [Sunday](https://github.com/Hao-tian)
