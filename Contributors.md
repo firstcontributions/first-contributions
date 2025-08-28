@@ -1225,6 +1225,7 @@ Eoin O'B
 - [Basma BT](https://github.com/Boutaib-Basma)
 - [Rodrigo Bravo](https://github.com/bravorod)
 - [SIva Saketh](https://github.com/sivasaketh)
+- Anya Satoru
 - [Dev Goyal](https://github.com/DevGoyal9238)
 - [KigulaJesse](https://github.com/KigulaJesse)
 - [Taha Reeh] (https://github.com/TahaReeh)
