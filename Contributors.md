@@ -57,6 +57,7 @@ sardor Uchqunov
 - [Vinicius]
 - [Arezoo]
 - [원세영](https://github.com/seyoung5744)
+- [Jacques Antoine]
 - [Plexton](https://github.com/ZaibLComrade)
 - [knlklabacka]
 - [Vitor Gabriel](https://github.com/VituuDias)
