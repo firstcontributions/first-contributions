@@ -3,6 +3,7 @@
 sardor Uchqunov
 - [Kanishka Raisania] (https://github.com/kanishka-raisania)
 - [Yogendra K Narmada] (https://github.com/lazydeveloper9)
+- [YG-paaleee] (https://github.com/YG-paaleee)
 - [Junya Katouda] (https://github.com/katoudaj)
 - [Sneha Bichkunde] (https://github.com/snehabichkunde)
 - [Siddharth Sahu] (https://github.com/sidhacks) 
