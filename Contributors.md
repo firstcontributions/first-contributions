@@ -10,6 +10,7 @@ sardor Uchqunov
 - [Shivam Verma] (https://github.com/shivamxverma)
 - [one small step for humanity]
 - [Amelia Ali] 
+- [Akinori Sugimura](https://github.com/sugisaku37)
 - [Nikita Maurya](https://github.com/sun-andsky)
 - [William W.] (https://github.com/ParadigmPacket)
 - [Shalini V] (https://github.com/shalini515)
