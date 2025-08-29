@@ -1,6 +1,7 @@
 
 # Contributors
 sardor Uchqunov
+- [Justslugard] (https://github.com/Justslugard)
 - [Kanishka Raisania] (https://github.com/kanishka-raisania)
 - [Yogendra K Narmada] (https://github.com/lazydeveloper9)
 - [YG-paaleee] (https://github.com/YG-paaleee)
