@@ -61,6 +61,7 @@ sardor Uchqunov
 - [Hruthik Chauan](https://github.com/hruthikchauhan07)
 - [Vinicius]
 - [Arezoo]
+- [1983730774]
 - [원세영](https://github.com/seyoung5744)
 - [Jacques Antoine]
 - [Plexton](https://github.com/ZaibLComrade)
