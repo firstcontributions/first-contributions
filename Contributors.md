@@ -1,6 +1,7 @@
 
 # Contributors
 sardor Uchqunov
+- [Mohd Suhaib Siddiqui] (https://github.com/Suhaib-Sid)
 - [Justslugard] (https://github.com/Justslugard)
 - [Kanishka Raisania] (https://github.com/kanishka-raisania)
 - [Yogendra K Narmada] (https://github.com/lazydeveloper9)
