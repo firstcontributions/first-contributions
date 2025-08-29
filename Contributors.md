@@ -2060,6 +2060,7 @@ Eoin O'B
 - [Vani Narwani](https://github.com/VaniNarwani23)
 - [Ruchira Chaubey](https://github.com/ruchirachaubey)
 - [Jonuar](https://github.com/jonuar)
+- [Naman Gupta](https://github.com/namanguptaa24)
 - [Siddhant Gadekar](https://github.com/Siddhantdotddev)
 - [Srivathsav](https://github.com/SRIVATHSAV-IITM)
 - [Deepith N](https://github.com/deepith-18)
