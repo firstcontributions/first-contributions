@@ -2282,6 +2282,7 @@ sh0uka
 -[John Martin](https://github.com/JohnMartin0301)
 -[Shakil Ahmed](https://github.com/paharivalu)
 -[Ryan Sumithra](https://github.com/RyanSumithra)
+-[Nabin Bista](https://github.com/Nabinbista12)
 -[Samhit Prakash Nayak](https://github.com/samhit24)
 -[Tanisha Dash](https://github.com/Dtanisha)
 -[Vincenzo Ragone](https://github.com/vincenzo113)
