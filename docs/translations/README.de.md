@@ -6,9 +6,9 @@
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="Repository forken" />
 
-Aller Anfang ist schwer. Gerade dann, wenn wir gemeinsam an etwas arbeiten, will niemand etwas Falsches tun. Aber Open Source dreht sich um Kooperation und lebt von den Beiträgen vieler Freiwilliger. Deshalb haben wir es uns zur Aufgabe gemacht, neuen Mitgliedern in der Open-Source-Gemeinde ihre ersten Schritte so einfach wie möglich zu machen.
+Aller Anfang ist schwer. Gerade dann, wenn wir gemeinsam an etwas arbeiten, möchte niemand etwas falsch machen. Aber Open Source dreht sich um Kooperation und lebt durch die Beiträge vieler Freiwilliger. Deshalb haben wir es uns zur Aufgabe gemacht, neuen Mitgliedern in der Open-Source-Gemeinde ihre ersten Schritte so einfach wie möglich zu machen.
 
-Natürlich helfen die vorhandenen Artikel und Videoanleitungen. Aber was kann besser sein, als es einfach einmal auszuprobieren mit dem Wissen, dass man nichts kaputt machen kann? Dieses Projekt will Anfängern zeigen, wie sie möglichst einfach ihren ersten Beitrag leisten. Bedenke: Je entspannter du bist, desto besser lernst du. Wenn du deinen ersten Beitrag leisten möchtest, folge diesen einfachen Schritten. Wir versprechen dir, es wird Spaß machen.
+Natürlich helfen die vorhandenen Artikel und Videoanleitungen. Aber was kann besser sein, als es einfach einmal auszuprobieren – mit dem Wissen, dass man nichts kaputt machen kann? Dieses Projekt will Anfängern zeigen, wie sie möglichst einfach ihren ersten Beitrag leisten. Bedenke: Je entspannter du bist, desto besser lernst du. Wenn du deinen ersten Beitrag leisten möchtest, folge diesen einfachen Schritten. Wir versprechen dir, es wird Spaß machen.
 
 Wenn du Git noch nicht installiert hast, [installiere es](https://help.github.com/articles/set-up-git/)
 
@@ -60,7 +60,7 @@ Beispiel:
 git checkout -b add-max-mustermann
 ```
 
-(Der Name des Branches muss nicht unbedingt das Wort _add_ beinhalten aber hier ist es sinnvoll, denn der Zweck deines Branches ist es ja, deinen Namen zur Liste hinzuzufügen.)
+(Der Name des Branches muss nicht unbedingt das Wort _add_ beinhalten, aber hier ist es sinnvoll, denn der Zweck deines Branches ist es ja, deinen Namen zur Liste hinzuzufügen.)
 
 ## Mache die nötigen Änderungen und committe sie
 
@@ -102,11 +102,11 @@ Erstelle einen Pull Request indem du auf die Schaltfläche `Create pull request`
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="Pull Request senden" />
 
-Roshan Jossey wird nun deine Änderungen in den Master Branch dieses Projekts mergen. Du erhältst eine E-Mail, sobald dies geschehen ist.
+Roshan Jossey wird nun deine Änderungen in den Master-Branch dieses Projekts mergen. Du erhältst eine E-Mail, sobald dies geschehen ist.
 
 ## Wie geht es weiter?
 
-Glückwunsch! Du hast so eben den Standard-Workflow _Fork -> Clone -> Edit -> Pull Request_ beendet, der dir als Mitwirkender häufig begegnen wird.
+Glückwunsch! Du hast soeben den Standard-Workflow _Fork -> Clone -> Edit -> Pull Request_ beendet, der dir als Mitwirkender häufig begegnen wird.
 
 Feiere deinen Beitrag zum Projekt und teile ihn mit deinen Freunden und Followern über unsere [Web-App](https://firstcontributions.github.io/#social-share).
 
