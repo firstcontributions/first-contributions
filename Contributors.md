@@ -28,6 +28,7 @@ sardor Uchqunov
 - [Pranesh](https://github.com/Pranesh2288)
 
 - [JuanRZ](https://github.com/JuanRZ)
+- [turingAround](https://github.com/turingAround)
 - [Endlia](https://github.com/Endlia)
 - [casa-code](https://github.com/casa-code)
 - [Zuzanna Pilat](https://github.com/Pilat11)
