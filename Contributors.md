@@ -301,6 +301,7 @@ LIUYY到此一游
 - [Rakesh Vanam](https://github.com/rakeshvanam6868)
 - [KamalKant](https://github.com/kamal2730)
 - [HarshYadav152](https://github.com/HarshYadav152)
+- [gg_dever] (https://github.com/gg-dever) 
 - [Paritosh Tiwari]
 - [Arsh Kumar Mandal](https://github.com/arshmandal0725)
 - [Gods-ghost](https://github.com/dist34)
@@ -2053,6 +2054,7 @@ Eoin O'B
 - Luis Rodriguez
 - [akane](https://github.com/copicomi)
 - Jonathan (https://github.com/jonathan-200)
+- [gg-dever](https://github.com/gg-dever)
 - [Isaac F](https://github.com/YellowFlello)
 - [SoullesKev](https://github.com/Sadirock)
 -[Bandaru Vighneshwar Rao](https://github.com/)
