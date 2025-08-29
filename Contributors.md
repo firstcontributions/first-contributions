@@ -19,6 +19,7 @@ sardor Uchqunov
 - [Chetan Atram](https://github.com/RabbitBoii)
 - [Mauricio Pereira] (https://github.com/gitreece) 
 - [Ewan Black](https://github.com/ebl138)
+- [Rushikesh Deshmukh](https://github.com/Mrx207)
 - [Ajay C](https://github.com/Ajaynirm)
 - [Nithwin V M](https://github.com/Nithwin)
 - [SATKURI KAILASH](https://github.com/KailashSatkuri-warangal)
