@@ -34,7 +34,7 @@ sardor Uchqunov
 - [RAYYAN KHAN](https://github.com/rayyan4t4)
 - [Lalitha N](https://github.com/lalitha-n546)
 - [Pranesh](https://github.com/Pranesh2288)
-
+- [Osenoye Aghaulor](https://github.com/erickvenom99)
 - [JuanRZ](https://github.com/JuanRZ)
 - [turingAround](https://github.com/turingAround)
 - [Endlia](https://github.com/Endlia)
