@@ -133,6 +133,7 @@ sardor Uchqunov
 - [SSA](https://github.com/sshnag)
 - Zhuocheng Li
 - Shiv
+-huzaifa(https://github.com/huzaifaashraf-code)
 - [Ibrahim]
 - [eieilin](https://github.com/eieilin)
 - [Jhanvi](https://github.com/JhanviN)
