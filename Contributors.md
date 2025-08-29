@@ -1,6 +1,7 @@
 
 # Contributors
 sardor Uchqunov
+
 - [Erfan Ahmadi](https://github.com/erfan-web)
 - [Mohd Suhaib Siddiqui] (https://github.com/Suhaib-Sid)
 - [Justslugard] (https://github.com/Justslugard)
@@ -20,7 +21,7 @@ sardor Uchqunov
 - [Padmanabha Das](https://github.com/chayan-1906)
 - [William W.] (https://github.com/ParadigmPacket)
 - [Shalini V] (https://github.com/shalini515)
-- [Mohith Butta] (https:/github.com/mohithnovoct)
+- [Mohith Butta] (https:/github.com/loicmohithnovoct)
 - [Saloni Zade](https://github.com/Saloni0111-cpu)
 - [Chetan Atram](https://github.com/RabbitBoii)
 - [Mauricio Pereira] (https://github.com/gitreece) 
@@ -180,6 +181,7 @@ sardor Uchqunov
 - [Ahmed Fikri](https://github.com/Fikri-20)
 - [Dillikumar N](https://github.com/Dillikumarnl)
 - [Ajay Brightson](https://github.com/AjayJ1711)
+- [Loic Hounyovi](https://github.com/mechakc)
 - [Marius Ilie Smalii](https://github.com/smaliimariusilie)
 - [Shabir Ahmad Sediqi](https://github.com/Shabir-Ahmad-Sediqi)
 - [Wycliffe Musau](https://github.com/Excellent58)
