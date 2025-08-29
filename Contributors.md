@@ -9,6 +9,7 @@ sardor Uchqunov
 - [Priyanka Singh] (https://github.com/Priyanka-2725)
 - [Shivam Verma] (https://github.com/shivamxverma)
 - [one small step for humanity]
+- [Amelia Ali] 
 - [Nikita Maurya](https://github.com/sun-andsky)
 - [William W.] (https://github.com/ParadigmPacket)
 - [Shalini V] (https://github.com/shalini515)
