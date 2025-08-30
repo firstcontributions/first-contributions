@@ -16,6 +16,7 @@ sardor Uchqunov
 - [Shivam Verma] (https://github.com/shivamxverma)
 - [one small step for humanity]
 - [Amelia Ali] 
+- [Hassan Shahid] (https://github.com/hassan-software-dev)
 - [Akinori Sugimura](https://github.com/sugisaku37)
 - [Nikita Maurya](https://github.com/sun-andsky)
 - [Padmanabha Das](https://github.com/chayan-1906)
