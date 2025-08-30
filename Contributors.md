@@ -67,6 +67,7 @@ sardor Uchqunov
 - [Hruthik Chauan](https://github.com/hruthikchauhan07)
 - [Ahmad Rafiq](https://github.com/AhmadRafiq90)
 - [Vinicius]
+- [jasbuildaweb] (https://github.com/jasbuildaweb)
 - [Arezoo]
 - [1983730774]
 - [원세영](https://github.com/seyoung5744)
