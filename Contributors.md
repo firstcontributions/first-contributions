@@ -19,7 +19,8 @@ sardor Uchqunov
 - [Priyanka Singh] (https://github.com/Priyanka-2725)
 - [Shivam Verma] (https://github.com/shivamxverma)
 - [one small step for humanity]
-- [Amelia Ali] 
+- [Amelia Ali]
+- [Harsh Kumbhani] (https://github.com/harshkumbhani)
 - [Hassan Shahid] (https://github.com/hassan-software-dev)
 - [Akinori Sugimura](https://github.com/sugisaku37)
 - [Swapnil] (https://github.com/swapnil282K)
