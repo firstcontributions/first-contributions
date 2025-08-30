@@ -1662,6 +1662,7 @@ Eoin O'B
 - [Angad Bhalla](https://github.com/Anga205)
 - [Abhishek Soni](https://github.com/abhisheksoni27)
 - [Antonio Santos](https://github.com/Antonio413100)
+- [Harsh Ratnaparkhi] (https://github.com/Harsh134-R)
 - [Yodahe Wondimu](https://github.com/YodaheWondimu)
 - [Gorkem Kaygisiz](https://github.com/GorkemKaygisiz)
 - [Prasad Ingale](https://github.com/PrasadIngale40)
