@@ -12,6 +12,7 @@ sardor Uchqunov
 - [YG-paaleee] (https://github.com/YG-paaleee)
 - [Hiamnshu Pandey] (https://github.com/Himanshu817324)
 - [Junya Katouda] (https://github.com/katoudaj)
+- [CJ Nwogu] (https://github.com/cjnw)
 - [Sneha Bichkunde] (https://github.com/snehabichkunde)
 - [Siddharth Sahu] (https://github.com/sidhacks) 
 - [Priyanka Singh] (https://github.com/Priyanka-2725)
