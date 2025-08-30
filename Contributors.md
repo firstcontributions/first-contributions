@@ -2355,3 +2355,5 @@ sh0uka
 - [Ramaharisoa Tokiniaina](https://github.com/Toky20)
 - [paprotox]
 - [RohanKommathoti](https://github.com/RohanK-coder)
+- [Kentaro Takahashi](https://github.com/kentat)
+  
