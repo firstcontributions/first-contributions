@@ -44,7 +44,7 @@ sardor Uchqunov
 - [RAYYAN KHAN](https://github.com/rayyan4t4)
 - [Lalitha N](https://github.com/lalitha-n546)
 - [Pranesh](https://github.com/Pranesh2288)
-
+- [Shraddha G Reddy](https://github.com/shraddhagreddy)
 - [JuanRZ](https://github.com/JuanRZ)
 - [RSM Harsha](https://github.com/rsmharsha)
 - [turingAround](https://github.com/turingAround)
