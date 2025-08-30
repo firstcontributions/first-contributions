@@ -1118,6 +1118,7 @@ Eoin O'B
 - [Prasad J B](https://github.com/Prasad-JB)
 - [Samuel Lee](https://github.com/Gegulee)
 - [Arpit Dubey](https://github.com/Arpit1033)
+- [Voicu Bogdan](https://github.com/zvoicu000)
 - [Gopal](https://github.com/gopallchoudhary)
 - [Shinbatsu F](https://github.com/Shinbatsu)
 - [Borzoi Lover](https://github.com/mmitros1)
