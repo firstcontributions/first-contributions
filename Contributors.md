@@ -21,6 +21,7 @@ sardor Uchqunov
 - [Akinori Sugimura](https://github.com/sugisaku37)
 - [Vaibhav Jadhav] (https://github.com/vaibhav2141) 
 - [Nikita Maurya](https://github.com/sun-andsky)
+- [Boruotez](https://github.com/borutoez)
 - [Padmanabha Das](https://github.com/chayan-1906)
 - [William W.] (https://github.com/ParadigmPacket)
 - [Shalini V] (https://github.com/shalini515)
