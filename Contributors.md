@@ -2359,3 +2359,5 @@ sh0uka
 - [Ramaharisoa Tokiniaina](https://github.com/Toky20)
 - [paprotox]
 - [RohanKommathoti](https://github.com/RohanK-coder)
+- [Aarav Mithrani](https://github.com/aarav-12)
+
