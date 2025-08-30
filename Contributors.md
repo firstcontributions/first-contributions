@@ -68,6 +68,7 @@ sardor Uchqunov
 - [Ahmad Rafiq](https://github.com/AhmadRafiq90)
 - [Vinicius]
 - [jasbuildaweb] (https://github.com/jasbuildaweb)
+- [TheHolderCollective] (https://github.com/TheHolderCollective)
 - [Arezoo]
 - [1983730774]
 - [원세영](https://github.com/seyoung5744)
