@@ -63,6 +63,7 @@ sardor Uchqunov
 - [Ehsan Shadmehri](https://github.com/ehsansh)
 - [Devin Rand](https://github.com/devinrand)
 - [Brian Yim] (https://github.com/brianyimjh)
+- [Ammar Adil] (https://github.com/AmmarAtNITJSR)
 - [Abbas Elsayed](https://github.com/MoAbbasid)
 - [Amanuel G](https://github.com/amanuel-gebresilasie)
 - [Dony Castro](https://github.com/Dony-Castro)
