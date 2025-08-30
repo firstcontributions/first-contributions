@@ -18,6 +18,7 @@ sardor Uchqunov
 - [Amelia Ali] 
 - [Hassan Shahid] (https://github.com/hassan-software-dev)
 - [Akinori Sugimura](https://github.com/sugisaku37)
+- [Vaibhav Jadhav] (https://github.com/vaibhav2141) 
 - [Nikita Maurya](https://github.com/sun-andsky)
 - [Padmanabha Das](https://github.com/chayan-1906)
 - [William W.] (https://github.com/ParadigmPacket)
