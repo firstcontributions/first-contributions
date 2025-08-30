@@ -1,5 +1,6 @@
 
 # Contributors
+- [marmiju](https://github.com/marmiju)
 sardor Uchqunov
 - [Chris Emmah](https://github.com/christhestormborn/first-contributions.git)
 - [Erfan Ahmadi](https://github.com/erfan-web)
