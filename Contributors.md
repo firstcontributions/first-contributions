@@ -159,6 +159,7 @@ sardor Uchqunov
 - Shiv
 -huzaifa(https://github.com/huzaifaashraf-code)
 - [Ibrahim]
+- shreyash patil [https://github.com/Sudeshpatil07]
 - [eieilin](https://github.com/eieilin)
 - [Jhanvi](https://github.com/JhanviN)
 - [Vishal](https://github.com/Nvishal2006)
