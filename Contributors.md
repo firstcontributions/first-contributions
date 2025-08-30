@@ -3,6 +3,7 @@
 - [marmiju](https://github.com/marmiju)
 sardor Uchqunov
 - [Xephyronix](https://github.com/Xephyronix)
+- [Anurag]<--
 - [Chris Emmah](https://github.com/christhestormborn/first-contributions.git)
 - [Erfan Ahmadi](https://github.com/erfan-web)
 - [Mohd Suhaib Siddiqui] (https://github.com/Suhaib-Sid)
