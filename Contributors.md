@@ -5,6 +5,7 @@ sardor Uchqunov
 - [Xephyronix](https://github.com/Xephyronix)
 - [Anurag]<--
 - [Chris Emmah](https://github.com/christhestormborn/first-contributions.git)
+- [Ekak Basu](https://github.com/ebro125)
 - [Erfan Ahmadi](https://github.com/erfan-web)
 - [Aaliyah Raheem](https://github.com/aaliot)
 - [Mohd Suhaib Siddiqui] (https://github.com/Suhaib-Sid)
