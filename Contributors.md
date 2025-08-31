@@ -97,6 +97,7 @@ sardor Uchqunov
 - [Sanjeev](Grabbing oppurtunities flawlessly)
 - [fatimah](https://github.com/grindstack)
 - [Jithin](https://github.com/jithin-dotcom)
+- [Devansh Singh](https://github.com/Devansh-04)
 - [Mandrukamal](https://github.com/Mandrukamal)
 - [Gokul](https://github.com/Gokul-S-dev)
 - [Bhavya](https://github.com/bhavya-l)
