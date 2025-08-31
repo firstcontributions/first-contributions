@@ -28,6 +28,7 @@ sardor Uchqunov
 - [Swapnil] (https://github.com/swapnil282K)
 - [Vaibhav Jadhav] (https://github.com/vaibhav2141) 
 - [Nikita Maurya](https://github.com/sun-andsky)
+- [Shreyas](https://github.com/skdoosh)
 - [Maroof Khan](https://github.com/khanmaroof)
 - [Boruotez](https://github.com/borutoez)
 - [Padmanabha Das](https://github.com/chayan-1906)
