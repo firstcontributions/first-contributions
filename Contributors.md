@@ -149,6 +149,7 @@ sardor Uchqunov
 - [Krishna Khandelwal] (https://github.com/krish8955)
 - [EZ]
 - [Muhammad Nouman](https://github.com/coder595)
+- [Allan Zanella](https://github.com/Autodotnet)
 - [Anastasia Bobere](https://github.com/anastasiabobere)
 - [Nishant Naravarajula](https://github.com/nish-naravarajula)
 - [Vishal Manik](https://github.com/vmanik2k)
