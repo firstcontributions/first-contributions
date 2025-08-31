@@ -298,6 +298,7 @@ LIUYY到此一游
 - Ayush
 - [Priyanshu Tiwari](https://github.com/d3monviking)
 - [Jeffrey Girard] (https://github.com/jeffrey3224)
+- Ashutosh Ranjan (https://github.com/AuthRan)
 - [Kartikeya Dimri](https://github.com/kartikeya-dimri)
 - [0xAnamul](https://github.com/0xAnamul)
 - [Prakhar Sharma](https://github.com/prakkon)
