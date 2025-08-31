@@ -979,6 +979,7 @@ Ben
 - [Neeraj M](https://github.com/NERUZ-XOD)
 - [Whrisper](https://github.com/SChrisper)
 - [Smit Joshi](https://github.com/smit-1z)
+- [Ambar Singh](https://github.com/ambar-singh)
 - [Phillip](gttps://github.com/PhillipSom)
 - [Chirag Bimali](https://github.com/chirag-bimali)
 - [Vinay Joshi](https://github.com/Anigrl)
