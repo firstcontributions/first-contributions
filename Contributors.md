@@ -18,6 +18,7 @@ sardor Uchqunov
 - [Sneha Bichkunde] (https://github.com/snehabichkunde)
 - [Siddharth Sahu] (https://github.com/sidhacks) 
 - [Priyanka Singh] (https://github.com/Priyanka-2725)
+- [Samidu Kaushalaya] (https://github.com/samidukushalaya)
 - [Shivam Verma] (https://github.com/shivamxverma)
 - [one small step for humanity]
 - [Amelia Ali]
@@ -979,6 +980,7 @@ Ben
 - [Neeraj M](https://github.com/NERUZ-XOD)
 - [Whrisper](https://github.com/SChrisper)
 - [Smit Joshi](https://github.com/smit-1z)
+- [Ambar Singh](https://github.com/ambar-singh)
 - [Phillip](gttps://github.com/PhillipSom)
 - [Chirag Bimali](https://github.com/chirag-bimali)
 - [Vinay Joshi](https://github.com/Anigrl)
