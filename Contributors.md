@@ -13,6 +13,7 @@ sardor Uchqunov
 - [Sneha Bichkunde] (https://github.com/snehabichkunde)
 - [Siddharth Sahu] (https://github.com/sidhacks) 
 - [Priyanka Singh] (https://github.com/Priyanka-2725)
+- [Samidu Kaushalaya] (https://github.com/samidukushalaya)
 - [Shivam Verma] (https://github.com/shivamxverma)
 - [one small step for humanity]
 - [Amelia Ali] 
