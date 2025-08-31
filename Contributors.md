@@ -1,12 +1,19 @@
 # Contributors
 
 - [marmiju](https://github.com/marmiju)
+ feat/aashikofsach
   sardor Uchqunov
+
+
+- [Ernesto Donado](https://github.com/edonado2)
+
 - [Xephyronix](https://github.com/Xephyronix)
 - [Anurag]<--
 - [Chris Emmah](https://github.com/christhestormborn/first-contributions.git)
+- [Ekak Basu](https://github.com/ebro125)
 - [Erfan Ahmadi](https://github.com/erfan-web)
 - [Aaliyah Raheem](https://github.com/aaliot)
+- Bhuvana Madiraju
 - [Mohd Suhaib Siddiqui] (https://github.com/Suhaib-Sid)
 - [Justslugard] (https://github.com/Justslugard)
 - [Kanishka Raisania] (https://github.com/kanishka-raisania)
@@ -18,15 +25,18 @@
 - [Sneha Bichkunde] (https://github.com/snehabichkunde)
 - [Siddharth Sahu] (https://github.com/sidhacks)
 - [Priyanka Singh] (https://github.com/Priyanka-2725)
+- [Samidu Kaushalaya] (https://github.com/samidukushalaya)
 - [Shivam Verma] (https://github.com/shivamxverma)
 - [one small step for humanity]
 - [Amelia Ali]
+- [Ahmed Sabbak]
 - [Harsh Kumbhani] (https://github.com/harshkumbhani)
 - [Hassan Shahid] (https://github.com/hassan-software-dev)
 - [Akinori Sugimura](https://github.com/sugisaku37)
 - [Swapnil] (https://github.com/swapnil282K)
 - [Vaibhav Jadhav] (https://github.com/vaibhav2141)
 - [Nikita Maurya](https://github.com/sun-andsky)
+- [Shreyas](https://github.com/skdoosh)
 - [Maroof Khan](https://github.com/khanmaroof)
 - [Boruotez](https://github.com/borutoez)
 - [Padmanabha Das](https://github.com/chayan-1906)
@@ -97,6 +107,7 @@
 - [Sanjeev](Grabbing oppurtunities flawlessly)
 - [fatimah](https://github.com/grindstack)
 - [Jithin](https://github.com/jithin-dotcom)
+- [Devansh Singh](https://github.com/Devansh-04)
 - [Mandrukamal](https://github.com/Mandrukamal)
 - [Gokul](https://github.com/Gokul-S-dev)
 - [Bhavya](https://github.com/bhavya-l)
@@ -104,13 +115,14 @@
 - [ajit](https://github.com/ajitprachande)
 - [Pankaj] (https://github.com/ppankaj321)
 - [Ankit Kumar Yadav](https://github.com/AnkitKrYadav)
-- [Ashish Bairwa](https://github.com/ashishb20)
+- [Ashish Bairwa](https://github.com/ashishb20) 
 - [Jason](https://github.com/dev-jason-lu)
 - [David Anane](https://github.com/plaestore)
 - [Karan Dhiman](https://github.com/karandhiman12)
 - [Harsh Sachdeva](https://github.com/HarshSachdeva01)
 - [Giacomo Folli](https://github.com/giacomo-folli)
 - [Hamza Khan](https://github.com/giacomo-folli)
+- [Ananya G Bharadwaj]
 - [Ravi Kumar Jha](https://github.com/ravijha9546)
 - [Dhairya Dev](https://github.com/hamzak51)
 - [Ayomide Saheed](https://github.com/luc-ay)
@@ -134,6 +146,7 @@
 - [Krishna Khandelwal] (https://github.com/krish8955)
 - [EZ]
 - [Muhammad Nouman](https://github.com/coder595)
+- [Allan Zanella](https://github.com/Autodotnet)
 - [Anastasia Bobere](https://github.com/anastasiabobere)
 - [Nishant Naravarajula](https://github.com/nish-naravarajula)
 - [Vishal Manik](https://github.com/vmanik2k)
@@ -281,6 +294,7 @@
 - Ayush
 - [Priyanshu Tiwari](https://github.com/d3monviking)
 - [Jeffrey Girard] (https://github.com/jeffrey3224)
+- Ashutosh Ranjan (https://github.com/AuthRan)
 - [Kartikeya Dimri](https://github.com/kartikeya-dimri)
 - [0xAnamul](https://github.com/0xAnamul)
 - [Prakhar Sharma](https://github.com/prakkon)
@@ -863,6 +877,7 @@
 - [brainkoko](https://github.com/thanatoast03)
 - [rinujohn](https://github.com/rinujohn)
 - [Ayananth](https://github.com/Ayananth)
+- [Emrah Isović](https://github.com/EmrahIso)
 - [ikimathi](https://github.com/ikimathi)
 - [John J](https://github.com/john310897)
 - [Mangelib](https://github.com/mangelib)
@@ -956,6 +971,7 @@
 - [Neeraj M](https://github.com/NERUZ-XOD)
 - [Whrisper](https://github.com/SChrisper)
 - [Smit Joshi](https://github.com/smit-1z)
+- [Ambar Singh](https://github.com/ambar-singh)
 - [Phillip](gttps://github.com/PhillipSom)
 - [Chirag Bimali](https://github.com/chirag-bimali)
 - [Vinay Joshi](https://github.com/Anigrl)
@@ -2292,3 +2308,12 @@
 - [flemin]
 - [Purolinho](https://github.com/Purolinho)
 - [North](https://github.com/North-M)
+
+- [iason-019](https://github.com/iason-019)
+- [treeleaves30760](https://github.com/treeleaves30760)
+- [Carsoneee](https://github.com/Carsoneee)
+- [romeopopescu](https://github.com/romeopopescu)
+- [haryiank](https://github.com/HaryiankKumra)
+- [Ansh-699](https://github.com/Ansh-699)
+- [Shirinpandey](https://github.com/Shirinpandey)
+
