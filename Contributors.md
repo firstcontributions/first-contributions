@@ -113,6 +113,7 @@ sardor Uchqunov
 - [Harsh Sachdeva](https://github.com/HarshSachdeva01)
 - [Giacomo Folli](https://github.com/giacomo-folli)
 - [Hamza Khan](https://github.com/giacomo-folli)
+- [Ananya G Bharadwaj]
 - [Ravi Kumar Jha](https://github.com/ravijha9546)
 - [Dhairya Dev](https://github.com/hamzak51)
 - [Ayomide Saheed](https://github.com/luc-ay)
