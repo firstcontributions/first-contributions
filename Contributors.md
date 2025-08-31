@@ -192,6 +192,7 @@ sardor Uchqunov
 - [Srinath Akkem](https://github.com/bd-SrinathAkkem)
 - [Koushik Pyarasani](https://github.com/pyaarasanikoushik)
 - [RupenderSinghRathore](https://github.com/RupenderSinghRathore)
+- [guywithzeromotive](https://github.com/guywithzeromotive)
 - [Parth Sivakumar](https://github.com/Parth-sk)
 - [Robert Alfredson](https://github.com/rcalfredson)
 - [Trần Phương Hùng & Đỗ Nhật Thanh ❤️](https://github.com/blueqing2026)
