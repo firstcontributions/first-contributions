@@ -28,6 +28,7 @@ sardor Uchqunov
 - [Swapnil] (https://github.com/swapnil282K)
 - [Vaibhav Jadhav] (https://github.com/vaibhav2141) 
 - [Nikita Maurya](https://github.com/sun-andsky)
+- [Shreyas](https://github.com/skdoosh)
 - [Maroof Khan](https://github.com/khanmaroof)
 - [Boruotez](https://github.com/borutoez)
 - [Padmanabha Das](https://github.com/chayan-1906)
@@ -113,6 +114,7 @@ sardor Uchqunov
 - [Harsh Sachdeva](https://github.com/HarshSachdeva01)
 - [Giacomo Folli](https://github.com/giacomo-folli)
 - [Hamza Khan](https://github.com/giacomo-folli)
+- [Ananya G Bharadwaj]
 - [Ravi Kumar Jha](https://github.com/ravijha9546)
 - [Dhairya Dev](https://github.com/hamzak51)
 - [Ayomide Saheed](https://github.com/luc-ay)
@@ -2390,3 +2392,4 @@ sh0uka
 - [haryiank](https://github.com/HaryiankKumra)
 - [Ansh-699](https://github.com/Ansh-699)
 - [hussainkhan3322332](https://github.com/hussainkhan3322332)
+- [Shirinpandey](https://github.com/Shirinpandey)
