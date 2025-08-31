@@ -985,6 +985,7 @@ Ben
 - [Rehan Halai](https://github.com/01-Rehan)
 - [nisarg404](https://github.com/nisarg404)
 - [Sneha Jain](https://github.com/sj11105)
+- [Dakota Feist](https://github.com/DankYoda)
 - [Harsh Verma](https://github.com/hv0911)
 - [Joaquin D](https://github.com/Joaco273)
 - [Loyd Ngei](https://github.com/LoydNgei)
