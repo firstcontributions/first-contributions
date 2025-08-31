@@ -890,6 +890,7 @@ Ben
 - [brainkoko](https://github.com/thanatoast03)
 - [rinujohn](https://github.com/rinujohn)
 - [Ayananth](https://github.com/Ayananth)
+- [Emrah Isović](https://github.com/EmrahIso)
 - [ikimathi](https://github.com/ikimathi)
 - [John J](https://github.com/john310897)
 - [Mangelib](https://github.com/mangelib)
