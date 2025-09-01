@@ -516,7 +516,8 @@ LIUYY到此一游
 - [Alexander Sivrikov](https://github.com/FrenkyFix1987)
 - [Cyril Nishanth](https://github.com/CyrilNishanth)
 - [imsang27](https://github.com/imsang27)
-- [ismail2ov](https://github.com/ismail2ov)
+- [Ochuko Favour](https://github.com/favourochuko1)-
+ [ismail2ov](https://github.com/ismail2ov)
 - [hzs](https://github.com/01312)
 - [Pvenkataramireddy](https://github.com/Venkat96r)
 - [forrest](https://github.com/frrst-ian)
