@@ -14,6 +14,7 @@ sardor Uchqunov
 - [Ekak Basu](https://github.com/ebro125)
 - [Erfan Ahmadi](https://github.com/erfan-web)
 - [Aaliyah Raheem](https://github.com/aaliot)
+- [mgalore](https://github.com/mgalore)
 - Bhuvana Madiraju
 - [Mohd Suhaib Siddiqui] (https://github.com/Suhaib-Sid)
 - [Justslugard] (https://github.com/Justslugard)
