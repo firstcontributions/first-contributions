@@ -158,6 +158,7 @@ sardor Uchqunov
 -[Shaswata Panda]
 -[Michael Rockefeller](https://github.com/rockefelm)
 -[Syaiful Yudha Platoteles](https://github.com/Platotel3s)
+-[Karol Budzko](https://github.com/krlkarol)
 -[hizs12-tpysh](https://github.com/HizS12)
 -[Ayush23-art](https://github.com/Ayush23-art)
 -[Shirshak-singh-dugtal](https://github.com/Shirshak-dugtal)
