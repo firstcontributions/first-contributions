@@ -75,6 +75,7 @@ sardor Uchqunov
 - [Endlia](https://github.com/Endlia)
 - [casa-code](https://github.com/casa-code)
 - [Zuzanna Pilat](https://github.com/Pilat11)
+- [Dibyajeet](https://github.com/djisgoat)
 - [Farmata Kane](https://github.com/miiswom)
 - [Elvis Adames](https://github.com/Layomx)
 - [Shiva Kumar](https://github.com/shivakumar04)
