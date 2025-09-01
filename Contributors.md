@@ -2141,6 +2141,7 @@ Eoin O'B
 - [Helen Fu](https://github.com/helenjfu)
 - [Sreya Bhattacharjee](https://github.com/bsreya0906)
 - [Priya Kumari](https://github.com/priyayayayayaaa)
+- [Vaibhav Pathak](https://github.com/Vaibhav007-code)
 - [Digvijaysinh Pawar](https://github.com/ImNotFound7)
 -[Prakriti Dwivedi](https://github.com/hiiamkarati)
 - [Himanshu Gohil](https://github.com/tghimanshu)
