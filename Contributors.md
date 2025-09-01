@@ -35,6 +35,7 @@ sardor Uchqunov
 - [Vaibhav Jadhav] (https://github.com/vaibhav2141) 
 - [Nikita Maurya](https://github.com/sun-andsky)
 - [Shreyas](https://github.com/skdoosh)
+  [Tejas fulumbarkar]
 - [Maroof Khan](https://github.com/khanmaroof)
 - [Boruotez](https://github.com/borutoez)
 - [Sharjeel Ahmed Siddiqui]
