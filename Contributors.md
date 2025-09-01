@@ -34,6 +34,7 @@ sardor Uchqunov
 - [Akinori Sugimura](https://github.com/sugisaku37)
 - [Swapnil] (https://github.com/swapnil282K)
 - [Vaibhav Jadhav] (https://github.com/vaibhav2141) 
+- [Sandy052005](https://github.com/sandy052005)
 - [Nikita Maurya](https://github.com/sun-andsky)
 - [Shreyas](https://github.com/skdoosh)
 - [Maroof Khan](https://github.com/khanmaroof)
