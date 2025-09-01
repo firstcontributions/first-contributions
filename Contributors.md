@@ -28,7 +28,6 @@ sardor Uchqunov
 - [one small step for humanity]
 - [Amelia Ali]
 - [Ahmed Sabbak]
-- [Sharjeel Ahmed Siddiqui]
 - [Harsh Kumbhani] (https://github.com/harshkumbhani)
 - [Hassan Shahid] (https://github.com/hassan-software-dev)
 - [Akinori Sugimura](https://github.com/sugisaku37)
@@ -38,6 +37,7 @@ sardor Uchqunov
 - [Shreyas](https://github.com/skdoosh)
 - [Maroof Khan](https://github.com/khanmaroof)
 - [Boruotez](https://github.com/borutoez)
+- [Sharjeel Ahmed Siddiqui]
 - [Padmanabha Das](https://github.com/chayan-1906)
 - [William W.] (https://github.com/ParadigmPacket)
 - [Shalini V] (https://github.com/shalini515)
