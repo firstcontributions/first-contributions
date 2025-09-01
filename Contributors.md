@@ -1,6 +1,7 @@
 
 # Contributors
 - [EtharAlashri](https://github.com/etharalashri)
+-Merala Archana
 - [Chowdhury Tafsir Ahmed Siddiki](https://github.com/ctafsiras)
 - [marmiju](https://github.com/marmiju)
 sardor Uchqunov
