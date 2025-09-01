@@ -398,6 +398,7 @@ LIUYY到此一游
 - [bithunter](https://github.com/bithunter744)
 - [zdp1](https://github.com/dongpeng6)
 - [Govinda Kandel](https://github.com/Govindakandel)
+- [bingu7](https://github.com/bingu7)
 - [Trivedh Undi](https://github.com/maxinh00000)
 - [Aaditya Tripathi](https://github.com/Aaditya-Tripathi)
 - [Vrund Patel](https://github.com/Vrund09)
