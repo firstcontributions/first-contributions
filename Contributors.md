@@ -302,6 +302,7 @@ LIUYY到此一游
 - [Chathura](https://github.com/PrabashanaDev)
 - [Commitaptian-A](https://github.com/CommitCaptain-A)
 - [Kavya Gupta](https://github.com/kavyagupta3011)
+- [Aryan Baid](https://github.com/aryanbaid)
 - [Kapil Aditya Reddy](https://github.com/kapiladitya024-source)
 - [Likhitha](https://github.com/likhitha07)
 - [Nikunj](https://github.com/nikunj69)
