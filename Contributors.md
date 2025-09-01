@@ -1189,6 +1189,7 @@ Eoin O'B
 - [Kimjunseoo](https://github.com/kimjunseoo)
 - [smandadhi9](https://github.com/smandadhi9)
 - [Starkcover](https://github.com/Starkcover)
+- [Musbi8788](https://github.com/Musbi8788)
 - [Goyomix325](https://github.com/Goyomix325)
 - [KristinnTh](https://github.com/KristinnTh)
 - [lordzerato](https://github.com/lordzerato)
