@@ -2373,6 +2373,8 @@ sh0uka
 - [Hashim Iqbal](https://github.com/Haz-ctrl)
 - [Thoriq Nurathif Fadhlullah Wajo](https://github.com/thorixrover)
 - [Peter Li](https://github.com/kalokli8)
+- [Tejas T M] (https://github.com/tejastm75job-web)
+- [Tejas T.M 🎉](https://github.com/tejastm75job-web)
 - [Joel varghese](https://github.com/joelvarghese6)
 - [Chandrabali Biswas](https://github.com/cb-04)
 - [Emaan Fatima](https://github.com/emaan123dev)
