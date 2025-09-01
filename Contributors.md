@@ -2088,6 +2088,7 @@ Eoin O'B
 - [V-Sharanya](https://github.com/V-Sharanya)
 - [Ishpriya Sharma](https://github.com/Ishpriya-Sharma)
 - [Idris](https://github.com/idreesjanib1)
+- [Prithi](https://github.com/prithi2004)
 - [Husnain Khaliq](https://github.com/huscse)
 - [Vaishnvai gokhale](https://github.com/Vaishnavimgokhale)
 - Mariya Anjum 💫 First open source contribution!
