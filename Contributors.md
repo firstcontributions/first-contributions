@@ -30,6 +30,9 @@ sardor Uchqunov
 - [one small step for humanity]
 - [Amelia Ali]
 - [Ahmed Sabbak]
+
+-[Shivanna] (https://github.com/shivannadm)
+
 - [Harsh Kumbhani] (https://github.com/harshkumbhani)
 - [Hassan Shahid] (https://github.com/hassan-software-dev)
 - [Akinori Sugimura](https://github.com/sugisaku37)
