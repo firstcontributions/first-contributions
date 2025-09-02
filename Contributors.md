@@ -708,6 +708,7 @@ CoolSoulz
 - [jpbellizia](https://github.com/jpbellizia)
 The-Yash-is-Joined
 - [skg2k05](https://github.com/skg2k05)
+- [indigo0445](https://github.com/indigo0445)
 - [addpd](https://github.com/addpd)
 - [Pritha Maity](https://github.com/PrithaMaity)
 - [Jonas Francisco](https://github.com/Jonasbomfim)
