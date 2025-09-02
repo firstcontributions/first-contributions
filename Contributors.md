@@ -1,5 +1,6 @@
 
 # Contributors
+-[Akash](https://github.com/Akash-code-0-1)
 -[shatha](https://github.com/shathaalrshoudi)
 - [EtharAlashri](https://github.com/etharalashri)
 -Merala Archana
