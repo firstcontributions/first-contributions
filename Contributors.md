@@ -2429,6 +2429,7 @@ sh0uka
 - [Student00](https://github.com/keik0t92127)
 - [Ramaharisoa Tokiniaina](https://github.com/Toky20)
 - [paprotox]
+- [takeers](https://github.com/Takeers)
 - [RohanKommathoti](https://github.com/RohanK-coder)
 - [flemin]
 - [Purolinho](https://github.com/Purolinho)
