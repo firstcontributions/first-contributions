@@ -2439,3 +2439,4 @@ sh0uka
 - [Krishna-Sharma3171](https://github.com/Krishna-Sharma3171)
 - [Nesrine](https://github.com/nsrn-chbn)
 - [Gabriela-Mozer](https://github.com/nsrn-chbn)
+- [Ricky Segura](https://github.com/rickysegura)
