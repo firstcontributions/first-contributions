@@ -326,6 +326,7 @@ LIUYY到此一游
 - [David Chamling Rai](https://github.com/Wadangkaa)
 - [Amrit Amber](https://github.com/ArkhamKnight25)
 - Sasank
+- [Ritukar Pandey](https://github.com/Ritukar-Pandey)
 - [Choudary Hussain Ali](https://github.com/choudaryhussainali)
 - [atlas-ian](https://github.com/atlas-ian)
 - [Sruthi BJ](https://github.com/Bjsruthi)
