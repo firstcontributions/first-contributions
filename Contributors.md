@@ -17,7 +17,7 @@
 - [Xephyronix](https://github.com/Xephyronix)
 - [Anurag]<--
 - [Chris Emmah](https://github.com/christhestormborn/first-contributions.git)
-- [Abhik Das](https://github.com/AO811)
+- [Abhik](https://github.com/AO811)
 - [Ekak Basu](https://github.com/ebro125)
 - [Erfan Ahmadi](https://github.com/erfan-web)
 - [Aaliyah Raheem](https://github.com/aaliot)
