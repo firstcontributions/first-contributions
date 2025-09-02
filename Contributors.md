@@ -9,6 +9,7 @@
 - [marmiju](https://github.com/marmiju)
 - sardor Uchqunov
 - Ahmed Abouelnaga
+- bimo105108
 - [Ernesto Donado](https://github.com/edonado2)
 - [lucas](https://github.com/Luc-as)
 - [Xephyronix](https://github.com/Xephyronix)
