@@ -27,6 +27,7 @@ sardor Uchqunov
 - [CJ Nwogu] (https://github.com/cjnw)
 - [Sneha Bichkunde] (https://github.com/snehabichkunde)
 - [Siddharth Sahu] (https://github.com/sidhacks) 
+- [DEVANSH SHUKLA] (https://github.com/devansh391k)
 - [Kunal Sable] (https://github.com/Kunals990)
 - [Priyanka Singh] (https://github.com/Priyanka-2725)
 - [Samidu Kaushalaya] (https://github.com/samidukushalaya)
@@ -198,7 +199,7 @@ sardor Uchqunov
 - [Jhanvi](https://github.com/JhanviN)
 - [Vishal](https://github.com/Nvishal2006)
 - [Devesh Paryani](https://github.com/Devesh102030)
-- [Noor Jellani](https://github.com/nurulain0)
+- [Noor Jellani](https://github.com/nurulain0)  
 -[Zainab Travadi](https://github.cBreakerom/ZainabTravadi)
 - [Rakshith Srinivasan](https://github.com/rakhith)
 - [Ravishankar saini](https://github.com/Cyrus253)
@@ -208,6 +209,7 @@ sardor Uchqunov
 - [Johnathan Roehsner](https://github.com/johnathan22966)
 - [Kerolos Nesim](https://github.com/kerolosnesim1)
 - [Shashidhar](https://github.com/shashidharsai)
+- [Mowlick Armstrong](https://github.com/Mowlick)
 - [Tum Teeradach](https://github.com/Tum-404)
 - [gazoline keton](https://github.com/gazolineketon)
 - [Kyusan Kim](https://github.com/5tarlight)
@@ -249,6 +251,7 @@ LIUYY到此一游
 - [thirtyone-ntotal](https://github.com/thirtyone-ntotal)
 - [Abhishek Pandey]
 - [Francis Wanyoike Ng'ang'a](https://github.com/Ranci-18)
+- [Colonialbiker](https://github.com/colonialbiker123)
 - [Jem Koeleman]()
 - [Madhu Dora]()
 - [Nishal Ahmed](https://github.com/nishalahmedpk)
@@ -2022,6 +2025,7 @@ Eoin O'B
 - [benoitmonchaninsupinfo](https://github.com/benoitmonchaninsupinfo)
 - [harsh pachouri](https://github.com/Harsh-Pachouri)
 - [NullifiedSec Aka. Mashrur Rahman](https://github.com/NullifiedSec)
+- [Craig Jantzen](https://github.com/jantzenc)
 - [Nathaly Fairlie Pearson Freitas](https://github.com/NathalyFairlie)
 - [Priya Darshini Manda](https://github.com/mandaujjwalapriyadarshini)
 - [Antonio Thoamaz Oliveira Reis](https://github.com/antonioThomaz1903)
@@ -2437,5 +2441,10 @@ sh0uka
 - [Kamalpannu](https://github.com/Kamalpannu/first-contributions)
 - [Krishna-Sharma3171](https://github.com/Krishna-Sharma3171)
 - [lina](https://github.com/linadouaaas)
-lina
-
+- [Nesrine](https://github.com/nsrn-chbn)
+- [Gabriela-Mozer](https://github.com/nsrn-chbn)
+- [Ricky Segura](https://github.com/rickysegura)
+- [Rishav Dewan](https://github.com/rish106-hub)
+DanyLeeCS
+- [Syed Khizar](https://github.com/SYEDKHIZARX)
+- [Bhawna](https://github.com/bhawnaa05)
