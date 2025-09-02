@@ -265,6 +265,7 @@ LIUYY到此一游
 - [Lokesh Kumar]()
 - [Rudrabikram Roy](https://github.com/codedbyrudra)
 - [Jenna Hall](https://github.com/swejenna)
+- [Juan Lopez](https://github.com/crigrii) 
 - [Ankit Aggarwal](https://curious.pm)
 - [rubik](https://github.com/rubiksfood)
 - [Arjun](https://github.com/arjundevensharma)
