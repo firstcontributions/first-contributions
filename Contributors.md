@@ -1140,6 +1140,7 @@ Ben
 - [Bonga M](https://github.com/BongaManzini)
 - [Chuffed](https://github.com/Chuffed-Code)
 - [Luan Lessa](https://github.com/LuanLessa)
+- [Hosein Tajali](https://github.com/Kasra36)
 - [Captain](https://github.com/CaptainPatel)
 - [Pankaj Monga](https://github.com/p-monga)
 - [Tyler Daw](https://github.com/TylerD1105)
