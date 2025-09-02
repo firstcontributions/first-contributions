@@ -2022,6 +2022,7 @@ Eoin O'B
 - [benoitmonchaninsupinfo](https://github.com/benoitmonchaninsupinfo)
 - [harsh pachouri](https://github.com/Harsh-Pachouri)
 - [NullifiedSec Aka. Mashrur Rahman](https://github.com/NullifiedSec)
+- [Craig Jantzen](https://github.com/jantzen)
 - [Nathaly Fairlie Pearson Freitas](https://github.com/NathalyFairlie)
 - [Priya Darshini Manda](https://github.com/mandaujjwalapriyadarshini)
 - [Antonio Thoamaz Oliveira Reis](https://github.com/antonioThomaz1903)
