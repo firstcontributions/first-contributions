@@ -2440,6 +2440,7 @@ sh0uka
 - [paprotox]
 - [takeers](https://github.com/Takeers)
 - [RohanKommathoti](https://github.com/RohanK-coder)
+- [RRG1312](https://github.com/RRG1312)
 - [flemin]
 - [Purolinho](https://github.com/Purolinho)
 - [North](https://github.com/North-M)
