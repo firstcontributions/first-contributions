@@ -35,6 +35,8 @@ sardor Uchqunov
 - [Shivam Verma] (https://github.com/shivamxverma)
 - [one small step for humanity]
 - [Amelia Ali]
+- [Franklyn Omoregie]
+
 - [Ahmed Sabbak]
 
 -[Shivanna] (https://github.com/shivannadm)
