@@ -2093,6 +2093,7 @@ Eoin O'B
 -[Lazarus A.](https://github.com/Plannr36)
 -[Utkarsh Singh](https://github.com/UtkarshxDD)
 - [Said Berk](https://github.com/saidberk27)
+- [Sotiris Meletiou](https://github.com/smeletiou)
 - [Wade Rees](https://github.com/wade-rees-me)
 - [_𝓟𝓸𝔀𝓮𝓻 𝓛𝓮𝓮_](https://github.dev/0xiPower)
 - [Poojan Jariwala](https://github.com/poojanjariwala)
