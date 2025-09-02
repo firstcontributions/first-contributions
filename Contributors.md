@@ -2440,3 +2440,4 @@ sh0uka
 - [Nesrine](https://github.com/nsrn-chbn)
 - [Gabriela-Mozer](https://github.com/nsrn-chbn)
 - [Ricky Segura](https://github.com/rickysegura)
+- [Rishav Dewan](https://github.com/rish106-hub)
