@@ -22,6 +22,7 @@
 - [Aaliyah Raheem](https://github.com/aaliot)
 - [mgalore](https://github.com/mgalore)
 - Bhuvana Madiraju
+- [Kat R.](https://github.com/KxttyKxt)
 - santiago robles
 - [Mohd Suhaib Siddiqui] (https://github.com/Suhaib-Sid)
 - [Justslugard] (https://github.com/Justslugard)
