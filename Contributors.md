@@ -866,6 +866,7 @@ Ben
 - [Elif Ş.](https://github.com/elifsz)
 - [eszanon](https://github.com/eszanon)
 - [Rey Jao](https://github.com/jao-rey)
+- [Diego Gutierrez](https://github.com/DiegoGutierrezP)
 - [Eiheir](https://github.com/ebininin)
 - [brian](https://sl.bing.net/eOe8cTCKjEy)
 - [Intedai](https://github.com/Intedai)
