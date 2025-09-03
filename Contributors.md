@@ -112,6 +112,7 @@ vanakkam da Mapala...
 - [Ikedalab-Daniel](https://github.com/IkedaLab-Daniel) - Preparing for GitHub Foundations Exam
 - [Kyle Santos] - Nice to meet you!
 - [Adarsh Rangare](https://github.com/adarshrangare) - Software Developer
+- [Palak Sharma](https://github.com/Palak09sh)-Aspiring Engineer
 - [James Kiongo Njihia](https://github.com/jameskiongo) - Software Developer
 - [Miro Kakkonen](https://github.com/MJKagone) - o/
 - [ww34sel](https://github.com/w34sel) - Ahoi!
