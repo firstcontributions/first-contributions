@@ -2487,4 +2487,5 @@ DanyLeeCS
 - [Abdelali](https://github.com/abdosanad2001)
 - [happypepii](https://github.com/happypepii)
 - [rkmsh](https://github.com/rkmsh)
+- [Nguyễn Trọng Quí](https://github.com/Ryan030904)
 # first-contributions
