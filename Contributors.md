@@ -13,6 +13,7 @@
 - [marmiju](https://github.com/marmiju)
 - sardor Uchqunov
 - Ahmed Abouelnaga
+- Patty
 - bimo105108
 - [Ernesto Donado](https://github.com/edonado2)
 - [Dhruv sawant]
