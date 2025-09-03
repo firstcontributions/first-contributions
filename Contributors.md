@@ -40,6 +40,7 @@
 - [Junya Katouda] (https://github.com/katoudaj)
 - [CJ Nwogu] (https://github.com/cjnw)
 - [Sneha Bichkunde] (https://github.com/snehabichkunde)
+sdumini
 - [Siddharth Sahu] (https://github.com/sidhacks) 
 - [DEVANSH SHUKLA] (https://github.com/devansh391k)
 - [Kunal Sable] (https://github.com/Kunals990)
