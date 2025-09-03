@@ -66,6 +66,7 @@ sdumini
 - [Maroof Khan](https://github.com/khanmaroof)
 - [Boruotez](https://github.com/borutoez)
 - [Sharjeel Ahmed Siddiqui]
+- [Sinbad Adjuik](https://github.com/synnbad)
 - [Padmanabha Das](https://github.com/chayan-1906)
 - [William W.] (https://github.com/ParadigmPacket)
 - [Shalini V] (https://github.com/shalini515)
