@@ -7,6 +7,7 @@
 - [EtharAlashri](https://github.com/etharalashri)
 -Merala Archana
 - [Sumit Pandey](https://github.com/5umitpandey)
+- [Sim Hyeonmin](https://github.com/simhyunmin)
 - [Gbede Daniel] (https://github.com/dani12e)
 - [Supilath](https://github.com/Supilath)
 - [Chowdhury Tafsir Ahmed Siddiki](https://github.com/ctafsiras)
@@ -40,6 +41,7 @@
 - [Junya Katouda] (https://github.com/katoudaj)
 - [CJ Nwogu] (https://github.com/cjnw)
 - [Sneha Bichkunde] (https://github.com/snehabichkunde)
+sdumini
 - [Siddharth Sahu] (https://github.com/sidhacks) 
 - [DEVANSH SHUKLA] (https://github.com/devansh391k)
 - [Kunal Sable] (https://github.com/Kunals990)
@@ -332,6 +334,7 @@ LIUYY到此一游
 - [Nikunj](https://github.com/nikunj69)
 - [David Chamling Rai](https://github.com/Wadangkaa)
 - [Amrit Amber](https://github.com/ArkhamKnight25)
+- [Ushio-Hayase](https://github.com/Ushio-Hayase)
 - Sasank
 - [Ritukar Pandey](https://github.com/Ritukar-Pandey)
 - [Choudary Hussain Ali](https://github.com/choudaryhussainali)
@@ -2287,6 +2290,7 @@ jack - first contribution practice
 - [Clilja](https://github.com/christianlilja)
 - [Balaji Uggina](https://github.com/Balaji-1805)
 - [Varsha Ghodase](https://github.com/Varsha1202)
+- [Sepi](https://github.com/IsepantaI)
 - [Tiago Castilho](https://github.com/tcastilho10)
 - [Muhammed safvan p](https://github.com/M-Safvan-p)
 -[Priscila Fry](https://github.com/prifry)
@@ -2487,12 +2491,9 @@ DanyLeeCS
 - [Abdelali](https://github.com/abdosanad2001)
 - [happypepii](https://github.com/happypepii)
 - [rkmsh](https://github.com/rkmsh)
- HEAD
-HEAD
 - [Devi Patil](https://github.com/Devipatil)
-
-
 - [Nguyễn Trọng Quí](https://github.com/Ryan030904)
-upstream/main
-# first-contributions
- upstream/main
+- [Casildo Caparros] (https://github.com/ccaparros)
+- [Abhay Mishra](https://github.com/abhay7865)
+- [msun726](https://github.com/msun726)
+
