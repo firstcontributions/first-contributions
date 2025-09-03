@@ -2289,6 +2289,7 @@ jack - first contribution practice
 - [Clilja](https://github.com/christianlilja)
 - [Balaji Uggina](https://github.com/Balaji-1805)
 - [Varsha Ghodase](https://github.com/Varsha1202)
+- [Sepi](https://github.com/IsepantaI)
 - [Tiago Castilho](https://github.com/tcastilho10)
 - [Muhammed safvan p](https://github.com/M-Safvan-p)
 -[Priscila Fry](https://github.com/prifry)
