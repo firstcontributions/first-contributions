@@ -1550,6 +1550,7 @@ Eoin O'B
 - [Ronahi Bağcı](https://github.com/RonayBagci)
 - [RiteshSirohi](https://github.com/riteshsirohi)
 - [JagathKriishna](https://github.com/Jagathkrish)
+- [Amarnath Kakkar](https://github.com/amarnathkakkar/)
 - [SANJAY KUMAR](https://github.com/sanjaydeepak)
 - [Algorytmouse](https://github.com/algorytmouse)
 - [shubham goyal](https://github.com/shubgoyal23)
