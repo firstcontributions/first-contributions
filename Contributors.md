@@ -1,11 +1,12 @@
 
 # Contributors
--[Vishal Perla](https://github.com/Vishal-Perla)
--Isabella Ramirez E.
--[Akash](https://github.com/Akash-code-0-1)
--[shatha](https://github.com/shathaalrshoudi)
+- [Sridhar](https://github.com/Purist6)
+- [Vishal Perla](https://github.com/Vishal-Perla)
+- Isabella Ramirez E.
+- [Akash](https://github.com/Akash-code-0-1)
+- [shatha](https://github.com/shathaalrshoudi)
 - [EtharAlashri](https://github.com/etharalashri)
--Merala Archana
+- Merala Archana
 - [Sumit Pandey](https://github.com/5umitpandey)
 - [Supilath](https://github.com/Supilath)
 - [Chowdhury Tafsir Ahmed Siddiki](https://github.com/ctafsiras)
@@ -46,9 +47,7 @@
 - [one small step for humanity]
 - [Amelia Ali]
 - [Ahmed Sabbak]
-
--[Shivanna] (https://github.com/shivannadm)
-
+- [Shivanna] (https://github.com/shivannadm)
 - [Harsh Kumbhani] (https://github.com/harshkumbhani)
 - [Hassan Shahid] (https://github.com/hassan-software-dev)
 - [Akinori Sugimura](https://github.com/sugisaku37)
@@ -57,7 +56,7 @@
 - [Sandy052005](https://github.com/sandy052005)
 - [Nikita Maurya](https://github.com/sun-andsky)
 - [Shreyas](https://github.com/skdoosh)
-  [Tejas fulumbarkar]
+- [Tejas fulumbarkar]
 - [Maroof Khan](https://github.com/khanmaroof)
 - [Boruotez](https://github.com/borutoez)
 - [Sharjeel Ahmed Siddiqui]
