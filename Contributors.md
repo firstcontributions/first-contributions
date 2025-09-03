@@ -145,6 +145,7 @@
 - [David Anane](https://github.com/plaestore)
 - [Karan Dhiman](https://github.com/karandhiman12)
 - [Harsh Sachdeva](https://github.com/HarshSachdeva01)
+- [Artem Kiryukhin](https://github.com/Feugon)
 - [Giacomo Folli](https://github.com/giacomo-folli)
 - [Hamza Khan](https://github.com/giacomo-folli)
 - [Ananya G Bharadwaj]
