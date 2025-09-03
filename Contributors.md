@@ -28,6 +28,7 @@
 - [Aaliyah Raheem](https://github.com/aaliot)
 - [mgalore](https://github.com/mgalore)
 - Bhuvana Madiraju
+- [Bhaskar Mitra] (https://github.com/sentientsonograph)
 - [Kat R.](https://github.com/KxttyKxt)
 - santiago robles
 - [Mohd Suhaib Siddiqui] (https://github.com/Suhaib-Sid)
