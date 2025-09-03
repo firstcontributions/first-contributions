@@ -30,6 +30,7 @@
 - Bhuvana Madiraju
 - [Kat R.](https://github.com/KxttyKxt)
 - santiago robles
+- ADARSH YADAV
 - [Mohd Suhaib Siddiqui] (https://github.com/Suhaib-Sid)
 - [Justslugard] (https://github.com/Justslugard)
 - [Kanishka Raisania] (https://github.com/kanishka-raisania)
