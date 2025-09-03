@@ -332,6 +332,7 @@ LIUYY到此一游
 - [Nikunj](https://github.com/nikunj69)
 - [David Chamling Rai](https://github.com/Wadangkaa)
 - [Amrit Amber](https://github.com/ArkhamKnight25)
+- [Ushio-Hayase](https://github.com/Ushio-Hayase)
 - Sasank
 - [Ritukar Pandey](https://github.com/Ritukar-Pandey)
 - [Choudary Hussain Ali](https://github.com/choudaryhussainali)
