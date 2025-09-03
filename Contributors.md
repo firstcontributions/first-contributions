@@ -81,7 +81,10 @@ sdumini
 - [SATKURI KAILASH](https://github.com/KailashSatkuri-warangal)
 - [phyo thiri zaw](https://github.com/phyothirizaw)
 - [HHZ](https://github.com/phyothirizaw)
-- [Prathmesh Sananse](https://github.com/prathmesh-sananse)
+- [Ricky-0104](https://github.com/Ricky-0104)
+- [Prathmesh Sana 
+
+   [nse](https://github.com/prathmesh-sananse)
 - [RAYYAN KHAN](https://github.com/rayyan4t4)
 - [Lalitha N](https://github.com/lalitha-n546)
 - [Pranesh](https://github.com/Pranesh2288)
@@ -163,7 +166,7 @@ sdumini
 -[Daniel Velez](https://github.com/Daniel1000c)
 - [Martin-Perfumo] (https://github.com/MartinPerfumo) 
  [Nakshathra](https://github.com/Nakshathra-17S)
- naveen-branch-first-contribution
+  naveen-branch-first-contribution
 - [Naveen Kumar](https://github.com/RowthuNaveenKumar)
 [Devansh Kapoor](https://github.com/Devansh2208)
 - [Kashif Kawsar Qadri](https://github.com/KashifQadri90)
