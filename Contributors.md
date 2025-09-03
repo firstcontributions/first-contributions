@@ -2487,8 +2487,12 @@ DanyLeeCS
 - [Abdelali](https://github.com/abdosanad2001)
 - [happypepii](https://github.com/happypepii)
 - [rkmsh](https://github.com/rkmsh)
+ HEAD
 HEAD
 - [Devi Patil](https://github.com/Devipatil)
 
+
+- [Nguyễn Trọng Quí](https://github.com/Ryan030904)
+upstream/main
 # first-contributions
  upstream/main
