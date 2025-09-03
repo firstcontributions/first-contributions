@@ -3,7 +3,7 @@
 -[Vishal Perla](https://github.com/Vishal-Perla)
 -Isabella Ramirez E.
 
--[Ayushi](https://github.com/Skiee9/Streamify)
+-[Ayushii](https://github.com/Skiee9/Streamify)
 
 -[Akash](https://github.com/Akash-code-0-1)
 -[shatha](https://github.com/shathaalrshoudi)
