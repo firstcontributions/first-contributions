@@ -2489,3 +2489,4 @@ DanyLeeCS
 - [rkmsh](https://github.com/rkmsh)
 - [Nguyễn Trọng Quí](https://github.com/Ryan030904)
 # first-contributions
+- [Abhay Mishra](https://github.com/abhay7865)
