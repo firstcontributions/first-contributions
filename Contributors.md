@@ -2491,8 +2491,9 @@ DanyLeeCS
 - [Abdelali](https://github.com/abdosanad2001)
 - [happypepii](https://github.com/happypepii)
 - [rkmsh](https://github.com/rkmsh)
+- [Devi Patil](https://github.com/Devipatil)
 - [Nguyễn Trọng Quí](https://github.com/Ryan030904)
 - [Casildo Caparros] (https://github.com/ccaparros)
-# first-contributions
 - [Abhay Mishra](https://github.com/abhay7865)
 - [msun726](https://github.com/msun726)
+
