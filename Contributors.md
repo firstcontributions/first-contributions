@@ -1,9 +1,10 @@
 
 # Contributors
--[Vishal Perla](https://github.com/Vishal-Perla)
+- [Vishal Perla](https://github.com/Vishal-Perla)
+- [LayorX](https://github.com/LayorX)
 -Isabella Ramirez E.
--[Akash](https://github.com/Akash-code-0-1)
--[shatha](https://github.com/shathaalrshoudi)
+- [Akash](https://github.com/Akash-code-0-1)
+- [shatha](https://github.com/shathaalrshoudi)
 - [EtharAlashri](https://github.com/etharalashri)
 -Merala Archana
 - [Sumit Pandey](https://github.com/5umitpandey)
@@ -2483,3 +2484,4 @@ DanyLeeCS
 - [Zhen Tao Pan](https://github.com/MorningZephyr)
 - [Abdelali](https://github.com/abdosanad2001)
 - [rkmsh](https://github.com/rkmsh)
+
