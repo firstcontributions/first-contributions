@@ -13,6 +13,7 @@
 - [marmiju](https://github.com/marmiju)
 - sardor Uchqunov
 - Ahmed Abouelnaga
+- Patty
 - bimo105108
 - [Ernesto Donado](https://github.com/edonado2)
 - [Dhruv sawant]
@@ -97,6 +98,7 @@
 - [Meg Hiatt](https://github.com/hiatt8649)
 - [Ishan Kanishka](https://github.com/Ishan-Kanishka)
 - [Jordan James](https://github.com/JordanJamesJA)
+- [Mohammad A](https://github.com/c000005)
 - [Pranay Gurav](https://github.com/cwpranay)
 - [Martin Estrada Agudelo]
 - [Hoang Viet Nguyen](https://github.com/hoangviet-nguyen)
@@ -697,6 +699,7 @@ Ukashatu Abdullahi
 - [Mitihlesh](https://github.com/Meth2303):wq
 - [Dwaine](https://github.com/DwaineBrannon)
 - [zzb](https://github.com/zbrun)
+- [Farzaneh Shams](https://github.com/trajectory100)
 - [Abhijit](https://github.com/erakin027)
 - [tr33k](https://github.com/tr33k)
 - [febDylan](https://github.com/feb-dylan)
@@ -2482,5 +2485,10 @@ DanyLeeCS
 - [Yura_Hernandez](https://github.com/yuracoff18)
 - [Zhen Tao Pan](https://github.com/MorningZephyr)
 - [Abdelali](https://github.com/abdosanad2001)
+- [happypepii](https://github.com/happypepii)
 - [rkmsh](https://github.com/rkmsh)
+HEAD
 - [Devi Patil](https://github.com/Devipatil)
+
+# first-contributions
+ upstream/main
