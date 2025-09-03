@@ -2488,5 +2488,6 @@ DanyLeeCS
 - [happypepii](https://github.com/happypepii)
 - [rkmsh](https://github.com/rkmsh)
 - [Nguyễn Trọng Quí](https://github.com/Ryan030904)
+- [Casildo Caparros] (https://github.com/ccaparros)
 # first-contributions
 - [Abhay Mishra](https://github.com/abhay7865)
