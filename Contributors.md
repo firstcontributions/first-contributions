@@ -51,7 +51,7 @@ sdumini
 - [one small step for humanity]
 - [Amelia Ali]
 - [Ahmed Sabbak]
-
+- [Parvez Shaik] (https://github.com/Parvez-shaik)
 -[Shivanna] (https://github.com/shivannadm)
 
 - [Harsh Kumbhani] (https://github.com/harshkumbhani)
