@@ -19,6 +19,7 @@
 - [Aaliyah Raheem](https://github.com/aaliot)
 - [mgalore](https://github.com/mgalore)
 - Bhuvana Madiraju
+- [Bhaskar Mitra] (https://github.com/sentientsonograph)
 - [Mohd Suhaib Siddiqui] (https://github.com/Suhaib-Sid)
 - [Justslugard] (https://github.com/Justslugard)
 - [Kanishka Raisania] (https://github.com/kanishka-raisania)
