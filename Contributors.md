@@ -7,6 +7,7 @@
 - [EtharAlashri](https://github.com/etharalashri)
 -Merala Archana
 - [Sumit Pandey](https://github.com/5umitpandey)
+- [Gbede Daniel] (https://github.com/dani12e)
 - [Supilath](https://github.com/Supilath)
 - [Chowdhury Tafsir Ahmed Siddiki](https://github.com/ctafsiras)
 - [marmiju](https://github.com/marmiju)
