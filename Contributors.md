@@ -2483,4 +2483,4 @@ DanyLeeCS
 - [Zhen Tao Pan](https://github.com/MorningZephyr)
 - [Abdelali](https://github.com/abdosanad2001)
 - [rkmsh](https://github.com/rkmsh)
-- [maviqus](https://github.com/maviqus)
+- [Nguyen Xuan Bach](https://github.com/user-xuanbach)
