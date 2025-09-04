@@ -1,5 +1,6 @@
 
 # Contributors
+-[Wolf-Root](https://github.com/Wolf-Root)
 -[Nguyễn Quốc Vỹ - 226148 - 57]
 -[Krish Savaliya](https://github.com/Krishsavaliya)
 -[Tran Minh Khang](https://github.com/khang220495-rgb)
