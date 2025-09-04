@@ -1,6 +1,7 @@
 
 # Contributors
 -[Nguyễn Quốc Vỹ - 226148 - 57]
+-[Tran Minh Khang](https://github.com/khang220495-rgb)
 -[Nguyen Quoc Tinh]
 -[Le Truong Hai]
 -[Huynh Phuoc Hien](https://github.com/Phuochien121)
@@ -65,6 +66,7 @@ sdumini
 - [one small step for humanity]
 - [Amelia Ali]
 - [Ahmed Sabbak]
+- [Blipie]
 
 -[Shivanna] (https://github.com/shivannadm)
 
@@ -2537,3 +2539,4 @@ abc
 - [Nguyen Doan Trang](https://github.com/Trang-22-NDT)
 - [Nguyễn Thành Nguyên](https://github.com/Nguyen-ThanhNguyen)
 - [hotranquangvinh](https://github.com/hotranquangvinh)
+- [Huỳnh Trọng Ngữ](https://github.com/huynhtrongngu)
