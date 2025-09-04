@@ -1,3 +1,4 @@
+Update from feature-update-A
 Đây là README được chỉnh sửa từ nhánh main và conflict-demo.
 
 <<<<<<< HEAD
