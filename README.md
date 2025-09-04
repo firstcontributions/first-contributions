@@ -1,4 +1,4 @@
-Đây là README được chỉnh sửa từ nhánh conflict-demo.
+Đây là README được chỉnh sửa từ nhánh main.
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
