@@ -1,8 +1,20 @@
 # Contributors
 
+<<<<<<< HEAD
+
 -[Leandro Reis](https://github.com/leandro-01) -[Vishal Perla](https://github.com/Vishal-Perla)
 -Isabella Ramirez E. -[Akash](https://github.com/Akash-code-0-1) -[shatha](https://github.com/shathaalrshoudi)
 
+=======
+
+- [Leandro Reis](https://github.com/leandro-01)
+- [Vishal Perla](https://github.com/Vishal-Perla)
+- Isabella Ramírez E.
+- [Akash](https://github.com/Akash-code-0-1)
+- [Ryu](https://github.com/wrryu528-wq)
+- [shatha](https://github.com/shathaalrshoudi)
+- [giang220239-cmd](https://github.com/giang220239-cmd)
+  > > > > > > > 5f77a915f85c15b6b0ed1f3fccbea7fa80283a85
 - [EtharAlashri](https://github.com/etharalashri)
   -Merala Archana
 - [Sumit Pandey](https://github.com/5umitpandey)
