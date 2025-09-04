@@ -663,6 +663,7 @@ P Venkata Rami Reddy
 - [Damian](https://google.com)
 - [Muskan Agarwal](https://github.com/MuskanAgarwal7)
 - [David Stark](https://github.com/GamingPions)
+- [Tadeas Bucha](https://github.com/tadeasbucha)
 - [Vinay M S](https://github.com/VinaymsGowda)
 - [AshuROhom](https://github.com/ashurohom)
 - [malyukd](https://github.com/malyukd)
@@ -2530,8 +2531,7 @@ abc
 - [Avi Ranjan Prasad](https://github.com/thunderavi)
 - [Đặng Văn Nhựt](https://github.com/vannhutdangtp-rgb)
 - [Nguyễn Ngọc Tân](https://github.com/nnguyenngoctann-glitch)
-<<<<<<< HEAD
+
 Mai Chi Hoai Em
-=======
 HOAI EM
->>>>>>> origin/main
+- [Nguyen Doan Trang](https://github.com/Trang-22-NDT)
