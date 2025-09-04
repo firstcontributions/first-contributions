@@ -2510,7 +2510,7 @@ DanyLeeCS
 - [rkmsh](https://github.com/rkmsh)
 - [Devi Patil](https://github.com/Devipatil)
 - [Nguyễn Trọng Quí](https://github.com/Ryan030904)
-- [Casildo Caparros] (https://github.com/ccaparros)
+- [Casildo Caparros](https://github.com/ccaparros)
 - [Abhay Mishra](https://github.com/abhay7865)
 - [msun726](https://github.com/msun726)
 - [bi3mer](https://github.com/bi3mer)
@@ -2519,8 +2519,6 @@ DanyLeeCS
 - [audrbsdl](https://github.com/audrbsdl)
 - [Lê Nhật Duy](https://github.com/LeNhatDuy-hehe)
 - [Nguyen Thanh Toan](https://github.com/NguyenToanThanh)
-
-abc
 - Nguyen Ha Phuong Tan
 - [Đặng Văn Nhựt](https://github.com/vannhutdangtp-rgb)
 - [HoPhuocLoi](https://github.com/HoLoi04)
