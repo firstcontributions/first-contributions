@@ -22,6 +22,7 @@
 - Patty
 - Vivek Gupta
 - bimo105108
+-[Hakimo abdikadir](https://github.com/hikmaladan)
 - [Ernesto Donado](https://github.com/edonado2)
 - [Dhruv sawant]
 - [lucas](https://github.com/Luc-as)
