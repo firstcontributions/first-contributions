@@ -2183,7 +2183,7 @@
 - [KM5075](https://github.com/KM5075)
 - [Muhammed Fahis](https://github.com/Muhammed-Fahis)
 - [Arjun Sunil](https://github.com/arjunsunil-boop)
-- [Aditya Gupta]
+- [ Aditya Gupta ]
 - [Angel Sara](https://github.com/Angelishere)
 - [Georgios Karampelos](https://github.com/gkarabelos)
 - [Cristian Nustes](https://github.com/cristiaaann27)
