@@ -1,20 +1,14 @@
 # Contributors
--[Nguyễn Quốc Vỹ - 226148 - 57]
--[Tran Minh Khang](https://github.com/khang220495-rgb)
--[Nguyen Quoc Tinh]
--[Le Truong Hai]
--[Huynh Phuoc Hien](https://github.com/Phuochien121)
--[sriram rasamala](https://github.com/sriram-rasamala7)
--[Leandro Reis](https://github.com/leandro-01)
+
+-[Nguyễn Quốc Vỹ - 226148 - 57] -[Tran Minh Khang](https://github.com/khang220495-rgb) -[Nguyen Quoc Tinh] -[Le Truong Hai] -[Huynh Phuoc Hien](https://github.com/Phuochien121) -[sriram rasamala](https://github.com/sriram-rasamala7) -[Leandro Reis](https://github.com/leandro-01)
 
 -[Vishal Perla](https://github.com/Vishal-Perla)
--Isabella Ramirez E. -[Akash](https://github.com/Akash-code-0-1) -[Ryu](https://github.com/wrryu528-wq)
--[shatha](https://github.com/shathaalrshoudi)
+-Isabella Ramirez E. -[Akash](https://github.com/Akash-code-0-1) -[Ryu](https://github.com/wrryu528-wq) -[shatha](https://github.com/shathaalrshoudi)
 
 - [EtharAlashri](https://github.com/etharalashri)
   -Merala Archana
 - [Sumit Pandey](https://github.com/5umitpandey)
-- [Pavan  Mhaisne](https://github.com/piyushm4)
+- [Pavan Mhaisne](https://github.com/piyushm4)
 - [Sim Hyeonmin](https://github.com/simhyunmin)
 - [Gbede Daniel] (https://github.com/dani12e)
 - [Supilath](https://github.com/Supilath)
@@ -25,8 +19,7 @@
 - Patty
 - Vivek Gupta
 - bimo105108
-- DKshetry
--[Hakimo abdikadir](https://github.com/hikmaladan)
+- DKshetry -[Hakimo abdikadir](https://github.com/hikmaladan)
 - [Ernesto Donado](https://github.com/edonado2)
 - [Dhruv sawant]
 - [lucas](https://github.com/Luc-as)
@@ -2205,7 +2198,6 @@
 - [KM5075](https://github.com/KM5075)
 - [Muhammed Fahis](https://github.com/Muhammed-Fahis)
 - [Arjun Sunil](https://github.com/arjunsunil-boop)
-- [ Aditya Gupta ]
 - [Angel Sara](https://github.com/Angelishere)
 - [Georgios Karampelos](https://github.com/gkarabelos)
 - [Cristian Nustes](https://github.com/cristiaaann27)
@@ -2441,8 +2433,9 @@
 - [Mai Chí Hoài Em](https://github.com/hoaiemmaichi)
 
 abc
+
 - Nguyen Ha Phuong Tan
-- 
+-
 - [Sanal Kumar](https://github.com/sanalkr)
 - [Avi Ranjan Prasad](https://github.com/thunderavi)
 - [Đặng Văn Nhựt](https://github.com/vannhutdangtp-rgb)
@@ -2450,6 +2443,5 @@ abc
 - [Nguyen Doan Trang](https://github.com/Trang-22-NDT)
 - [Nguyễn Thành Nguyên](https://github.com/Nguyen-ThanhNguyen)
 - [hotranquangvinh](https://github.com/hotranquangvinh)
-- [Huỳnh Trọng Ngữ](https://github.com/huynhtrongngu)
--[phamtrungtinhh](https://github.com/phamtrungtinhh)
+- [Huỳnh Trọng Ngữ](https://github.com/huynhtrongngu) -[phamtrungtinhh](https://github.com/phamtrungtinhh)
 - [Nguyen Thanh Nguyen](https://github.com/Nguyen-ThanhNguyen)
