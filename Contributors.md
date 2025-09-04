@@ -1,5 +1,6 @@
 
 # Contributors
+-[Nguyễn Quốc Vỹ - 226148 - 57]
 -[Tran Minh Khang](https://github.com/khang220495-rgb)
 -[Nguyen Quoc Tinh]
 -[Le Truong Hai]
