@@ -2511,6 +2511,4 @@ DanyLeeCS
 - [bi3mer](https://github.com/bi3mer)
 - [Nguyễn Hữu Trọng](https://github.com/huutrongk24)
 - [audrbsdl](https://github.com/audrbsdl)
-
-abc
 - [Huynh Van Nhan](https://github.com/huynhvannhan2k4)
