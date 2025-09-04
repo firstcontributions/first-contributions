@@ -2526,3 +2526,4 @@ abc
 - [Đặng Văn Nhựt](https://github.com/vannhutdangtp-rgb)
 - [Sanal Kumar](https://github.com/sanalkr)
 - [Avi Ranjan Prasad](https://github.com/thunderavi)
+- [Le Quoc Khanh](https://github.com/lequockhanhh)
