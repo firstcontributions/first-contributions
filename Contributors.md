@@ -350,6 +350,7 @@ LIUYY到此一游
 - [Inigo](https://github.com/inigostibbe)
 - [Demetris B.](https://github.com/deyil)
 - Ayush
+- [Archie L.](https://github.com/ArchawinL)
 - [Priyanshu Tiwari](https://github.com/d3monviking)
 - [Jeffrey Girard] (https://github.com/jeffrey3224)
 - Ashutosh Ranjan (https://github.com/AuthRan)
