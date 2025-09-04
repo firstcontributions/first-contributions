@@ -19,6 +19,7 @@
 - sardor Uchqunov
 - Ahmed Abouelnaga
 - Patty
+- Vivek Gupta
 - bimo105108
 - [Ernesto Donado](https://github.com/edonado2)
 - [Dhruv sawant]
