@@ -2513,3 +2513,5 @@ DanyLeeCS
 - [audrbsdl](https://github.com/audrbsdl)
 
 abc
+Hoang Nguyen Huu Loc
+[Hoang Nguyen Huu Loc] https://github.com/HoangNguyenHuuLoc
