@@ -2523,4 +2523,4 @@ DanyLeeCS
 abc
 - Nguyen Ha Phuong Tan
 - [Đặng Văn Nhựt](https://github.com/vannhutdangtp-rgb)
-- [Ho Phuoc Loi](https://github.com/HoLoi04)
+- [HoPhuocLoi](https://github.com/HoLoi04)
