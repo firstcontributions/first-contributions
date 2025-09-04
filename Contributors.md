@@ -2507,4 +2507,5 @@ DanyLeeCS
 - [msun726](https://github.com/msun726)
 - [bi3mer](https://github.com/bi3mer)
 - [HoPhuocLoi](https://github.com/HoLoi04)
+- [Nguyễn Hữu Trọng](https://github.com/huutrongk24)
 
