@@ -40,6 +40,7 @@
 - [Kat R.](https://github.com/KxttyKxt)
 - santiago robles
 - adasrh yadav
+- Debanjan Kshetry
 - [Mohd Suhaib Siddiqui] (https://github.com/Suhaib-Sid)
 - [Justslugard] (https://github.com/Justslugard)
 - [Kanishka Raisania] (https://github.com/kanishka-raisania)
