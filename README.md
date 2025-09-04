@@ -1,8 +1,8 @@
-Đây là nội dung từ PR A
+Dòng này được sửa từ nhánh main (PR A).
 <<<<<<< HEAD
-Dđây là READMEdđược chỉnh sửa từ main
+đây là README được chỉnh sửa từ main
 =======
-Dđây là READMEdđược chỉnh sửa từ nhánh conflict-demo
+đây là README được chỉnh sửa từ nhánh conflict-demo
 >>>>>>> conflict-demo
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
