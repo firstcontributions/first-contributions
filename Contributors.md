@@ -1,6 +1,6 @@
 
 # Contributors
--[Nguyễn Quốc Vỹ - 226148 - 57]
+-[Nguyễn Quốc Vỹ](https://github.com/vy2004)
 -[Nguyen Quoc Tinh]
 -[Le Truong Hai]
 -[Huynh Phuoc Hien](https://github.com/Phuochien121)
