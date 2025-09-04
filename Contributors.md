@@ -2523,6 +2523,7 @@ DanyLeeCS
 - [audrbsdl](https://github.com/audrbsdl)
 - [Lê Nhật Duy](https://github.com/LeNhatDuy-hehe)
 - [Nguyen Thanh Toan](https://github.com/NguyenToanThanh)
+- [Mido](https://github.com/mido2262007-sys112)
 - [Mai Chí Hoài Em](https://github.com/hoaiemmaichi)
 
 abc
