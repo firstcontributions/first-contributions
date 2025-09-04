@@ -1,5 +1,10 @@
 
 # Contributors
+-[Nguyễn Quốc Vỹ - 226148 - 57]
+-[Krish Savaliya](https://github.com/Krishsavaliya)
+-[Tran Minh Khang](https://github.com/khang220495-rgb)
+-[Nguyen Quoc Tinh]
+-[Le Truong Hai]
 -[Huynh Phuoc Hien](https://github.com/Phuochien121)
 -[sriram rasamala](https://github.com/sriram-rasamala7)
 -[Leandro Reis](https://github.com/leandro-01)
@@ -39,6 +44,7 @@
 - [Kat R.](https://github.com/KxttyKxt)
 - santiago robles
 - adasrh yadav
+- Debanjan Kshetry
 - [Mohd Suhaib Siddiqui] (https://github.com/Suhaib-Sid)
 - [Justslugard] (https://github.com/Justslugard)
 - [Kanishka Raisania] (https://github.com/kanishka-raisania)
@@ -61,6 +67,7 @@ sdumini
 - [one small step for humanity]
 - [Amelia Ali]
 - [Ahmed Sabbak]
+- [Blipie]
 
 -[Shivanna] (https://github.com/shivannadm)
 
@@ -661,6 +668,7 @@ P Venkata Rami Reddy
 - [Damian](https://google.com)
 - [Muskan Agarwal](https://github.com/MuskanAgarwal7)
 - [David Stark](https://github.com/GamingPions)
+- [Tadeas Bucha](https://github.com/tadeasbucha)
 - [Vinay M S](https://github.com/VinaymsGowda)
 - [AshuROhom](https://github.com/ashurohom)
 - [malyukd](https://github.com/malyukd)
@@ -2519,9 +2527,20 @@ DanyLeeCS
 - [audrbsdl](https://github.com/audrbsdl)
 - [Lê Nhật Duy](https://github.com/LeNhatDuy-hehe)
 - [Nguyen Thanh Toan](https://github.com/NguyenToanThanh)
+- [Mido](https://github.com/mido2262007-sys112)
+- [Mai Chí Hoài Em](https://github.com/hoaiemmaichi)
 
 abc
 - Nguyen Ha Phuong Tan
-- [Đặng Văn Nhựt](https://github.com/vannhutdangtp-rgb)
+- 
 - [Sanal Kumar](https://github.com/sanalkr)
 - [Trịnh Minh Dũng](https://github.com/DungTrinhMinh)
+- [Avi Ranjan Prasad](https://github.com/thunderavi)
+- [Đặng Văn Nhựt](https://github.com/vannhutdangtp-rgb)
+- [Nguyễn Ngọc Tân](https://github.com/nnguyenngoctann-glitch)
+- [Nguyen Doan Trang](https://github.com/Trang-22-NDT)
+- [Nguyễn Thành Nguyên](https://github.com/Nguyen-ThanhNguyen)
+- [hotranquangvinh](https://github.com/hotranquangvinh)
+- [Huỳnh Trọng Ngữ](https://github.com/huynhtrongngu)
+-[phamtrungtinhh](https://github.com/phamtrungtinhh)
+- [Nguyen Thanh Nguyen](https://github.com/Nguyen-ThanhNguyen)
