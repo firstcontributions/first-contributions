@@ -1,4 +1,4 @@
-Đây là README được chỉnh sửa từ nhánh A
+Cập nhật từ A và B (đã resolve conflict).
 
 Đây là README được chỉnh sửa từ nhánh main.
 
