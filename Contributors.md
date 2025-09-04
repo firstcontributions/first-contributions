@@ -1,5 +1,7 @@
 
 # Contributors
+-[Huynh Phuoc Hien](https://github.com/Phuochien121)
+-[sriram rasamala](https://github.com/sriram-rasamala7)
 -[Leandro Reis](https://github.com/leandro-01)
 -[Vishal Perla](https://github.com/Vishal-Perla)
 -Isabella Ramirez E.
@@ -9,6 +11,7 @@
 - [EtharAlashri](https://github.com/etharalashri)
 -Merala Archana
 - [Sumit Pandey](https://github.com/5umitpandey)
+- [Pavan  Mhaisne](https://github.com/piyushm4)
 - [Sim Hyeonmin](https://github.com/simhyunmin)
 - [Gbede Daniel] (https://github.com/dani12e)
 - [Supilath](https://github.com/Supilath)
@@ -17,7 +20,9 @@
 - sardor Uchqunov
 - Ahmed Abouelnaga
 - Patty
+- Vivek Gupta
 - bimo105108
+-[Hakimo abdikadir](https://github.com/hikmaladan)
 - [Ernesto Donado](https://github.com/edonado2)
 - [Dhruv sawant]
 - [lucas](https://github.com/Luc-as)
@@ -2512,7 +2517,9 @@ DanyLeeCS
 - [Nguyễn Hữu Trọng](https://github.com/huutrongk24)
 - [audrbsdl](https://github.com/audrbsdl)
 - [Phạm Huỳnh Như](https://github.com/PhamHuynhNhu-hihi)
-
-
+- [Lê Nhật Duy](https://github.com/LeNhatDuy-hehe)
+- [Nguyen Thanh Toan](https://github.com/NguyenToanThanh)
 
 abc
+- Nguyen Ha Phuong Tan
+- [Đặng Văn Nhựt](https://github.com/vannhutdangtp-rgb)
