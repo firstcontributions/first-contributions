@@ -2524,3 +2524,4 @@ abc
 - Nguyen Ha Phuong Tan
 - [Đặng Văn Nhựt](https://github.com/vannhutdangtp-rgb)
 - [Sanal Kumar](https://github.com/sanalkr)
+- [Trịnh Minh Dũng](https://github.com/DungTrinhMinh)
