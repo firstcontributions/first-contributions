@@ -1,5 +1,6 @@
 
 # Contributors
+-[Ahmed Faraj](https://github.com/Ahmad-Faraj)
 -[Wolf-Root](https://github.com/Wolf-Root)
 -[Nguyễn Quốc Vỹ - 226148 - 57]
 -[Krish Savaliya](https://github.com/Krishsavaliya)
