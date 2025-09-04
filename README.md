@@ -1,6 +1,6 @@
-"Đây là README được chỉnh sửa từ nhánh main." 
+"Đây là README được chỉnh sửa từ nhánh B." 
 
-"Đây là README được chỉnh sửa từ nhánh conflict-demo." 
+"Đây là README được chỉnh sửa từ nhánh B." 
 
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
