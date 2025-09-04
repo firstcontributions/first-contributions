@@ -2534,6 +2534,7 @@ abc
 - Nguyen Ha Phuong Tan
 - 
 - [Sanal Kumar](https://github.com/sanalkr)
+- [Trịnh Minh Dũng](https://github.com/DungTrinhMinh)
 - [Avi Ranjan Prasad](https://github.com/thunderavi)
 - [Đặng Văn Nhựt](https://github.com/vannhutdangtp-rgb)
 - [Nguyễn Ngọc Tân](https://github.com/nnguyenngoctann-glitch)
