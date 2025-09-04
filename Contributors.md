@@ -2522,6 +2522,7 @@ DanyLeeCS
 - [audrbsdl](https://github.com/audrbsdl)
 - [Lê Nhật Duy](https://github.com/LeNhatDuy-hehe)
 - [Nguyen Thanh Toan](https://github.com/NguyenToanThanh)
+- [Mai Chí Hoài Em](https://github.com/hoaiemmaichi)
 
 abc
 - Nguyen Ha Phuong Tan
