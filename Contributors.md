@@ -1,5 +1,6 @@
 
 # Contributors
+-[Nguyen Quoc Tinh]
 -[Le Truong Hai]
 -[Huynh Phuoc Hien](https://github.com/Phuochien121)
 -[sriram rasamala](https://github.com/sriram-rasamala7)
@@ -663,6 +664,7 @@ P Venkata Rami Reddy
 - [Damian](https://google.com)
 - [Muskan Agarwal](https://github.com/MuskanAgarwal7)
 - [David Stark](https://github.com/GamingPions)
+- [Tadeas Bucha](https://github.com/tadeasbucha)
 - [Vinay M S](https://github.com/VinaymsGowda)
 - [AshuROhom](https://github.com/ashurohom)
 - [malyukd](https://github.com/malyukd)
@@ -2522,6 +2524,7 @@ DanyLeeCS
 - [Lê Nhật Duy](https://github.com/LeNhatDuy-hehe)
 - [Nguyen Thanh Toan](https://github.com/NguyenToanThanh)
 - [Mido](https://github.com/mido2262007-sys112)
+- [Mai Chí Hoài Em](https://github.com/hoaiemmaichi)
 
 abc
 - Nguyen Ha Phuong Tan
@@ -2531,3 +2534,4 @@ abc
 - [Đặng Văn Nhựt](https://github.com/vannhutdangtp-rgb)
 - [Nguyễn Ngọc Tân](https://github.com/nnguyenngoctann-glitch)
 - [Nguyen Doan Trang](https://github.com/Trang-22-NDT)
+- [Nguyễn Thành Nguyên](https://github.com/Nguyen-ThanhNguyen)
