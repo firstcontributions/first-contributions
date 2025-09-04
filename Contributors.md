@@ -2325,7 +2325,6 @@
 - [Josh](https://github.com/joshrtust) -[CHHAVI GAUTAM](https://github.com/Chhavi001) -[Rodrigo Lima][https://github.com/Kosm9] -[Jefferson Ruiz][https://github.com/jeffersonruiz]
   sh0uka -[Sharvari More][https://gtihub.com/Sharvari-21] -[Ashwin Mali][https://github.com/ashwinmali2004] -[Arjun][https://github.com/ArjunSaluja] -[Sushilkumar Utkekar][https://github.com/Sushilkumar5572] -[Carsten] [https://github.com/ForbaV2]
 - [Nishant Borude](https://github.com/Nsanjayboruds)
-
 - [Keerthika](https://github.com/keerthikadevi-s) -[Sourav Verma](https://github.com/SouravVerma-art) -[heisenberg] -[Sumanth Damma](https://github.com/sumanth-reddy13) -[Julian Londono](https://github.com/JULI1926)
 - [Ronaldo Cheruiyot](https://github.com/ronaldocheruiyot) -[John Martin](https://github.com/JohnMartin0301) -[Shakil Ahmed](https://github.com/paharivalu) -[Ryan Sumithra](https://github.com/RyanSumithra) -[Nabin Bista](https://github.com/Nabinbista12) -[Samhit Prakash Nayak](https://github.com/samhit24) -[Tanisha Dash](https://github.com/Dtanisha) -[Tanmoy Das](https://github.com/Tanmoy24) -[Vincenzo Ragone](https://github.com/vincenzo113) -[Ankur] (hhtps://github.com/abhian)
 - [Sachin Vaishnav](https://github.com/SachinVaishnav2980)
@@ -2407,7 +2406,7 @@
 - [Gabriela-Mozer](https://github.com/nsrn-chbn)
 - [Ricky Segura](https://github.com/rickysegura)
 - [Rishav Dewan](https://github.com/rish106-hub)
-  DanyLeeCS
+- DanyLeeCS
 - [Syed Khizar](https://github.com/SYEDKHIZARX)
 - [Ryan] (https://github.com/RyanBarnwell)
 - [Bhawna](https://github.com/bhawnaa05)
@@ -2429,11 +2428,7 @@
 - [Nguyen Thanh Toan](https://github.com/NguyenToanThanh)
 - [Mido](https://github.com/mido2262007-sys112)
 - [Mai Chí Hoài Em](https://github.com/hoaiemmaichi)
-
-abc
-
 - Nguyen Ha Phuong Tan
--
 - [Sanal Kumar](https://github.com/sanalkr)
 - [Avi Ranjan Prasad](https://github.com/thunderavi)
 - [Đặng Văn Nhựt](https://github.com/vannhutdangtp-rgb)
@@ -2442,3 +2437,6 @@ abc
 - [Nguyễn Thành Nguyên](https://github.com/Nguyen-ThanhNguyen)
 - [hotranquangvinh](https://github.com/hotranquangvinh)
 - [Huỳnh Trọng Ngữ](https://github.com/huynhtrongngu) -[phamtrungtinhh](https://github.com/phamtrungtinhh)
+- [Huỳnh Trọng Ngữ](https://github.com/huynhtrongngu)
+- [phamtrungtinhh](https://github.com/phamtrungtinhh)
+- [Nguyen Thanh Nguyen](https://github.com/Nguyen-ThanhNguyen)
