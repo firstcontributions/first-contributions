@@ -2511,7 +2511,4 @@ DanyLeeCS
 - [bi3mer](https://github.com/bi3mer)
 - [Nguyễn Hữu Trọng](https://github.com/huutrongk24)
 - [audrbsdl](https://github.com/audrbsdl)
-
-abc
-Hoang Nguyen Huu Loc
-[Hoang Nguyen Huu Loc] https://github.com/HoangNguyenHuuLoc
+- [Hoang Nguyen Huu Loc](https://github.com/HoangNguyenHuuLoc)
