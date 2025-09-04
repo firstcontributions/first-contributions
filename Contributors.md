@@ -4,6 +4,7 @@
 -[Vishal Perla](https://github.com/Vishal-Perla)
 -Isabella Ramirez E.
 -[Akash](https://github.com/Akash-code-0-1)
+-[Ryu](https://github.com/wrryu528-wq)
 -[shatha](https://github.com/shathaalrshoudi)
 - [EtharAlashri](https://github.com/etharalashri)
 -Merala Archana
