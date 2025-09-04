@@ -2506,4 +2506,4 @@ DanyLeeCS
 - [Abhay Mishra](https://github.com/abhay7865)
 - [msun726](https://github.com/msun726)
 - [bi3mer](https://github.com/bi3mer)
-
+- [Hồ Tấn Tài](https://github.com/htt7604)
