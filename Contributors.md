@@ -1,5 +1,6 @@
 
 # Contributors
+-[Tran Minh Khang](https://github.com/khang220495-rgb)
 -[Nguyen Quoc Tinh]
 -[Le Truong Hai]
 -[Huynh Phuoc Hien](https://github.com/Phuochien121)
