@@ -64,6 +64,7 @@ sdumini
 - [one small step for humanity]
 - [Amelia Ali]
 - [Ahmed Sabbak]
+- [Blipie]
 
 -[Shivanna] (https://github.com/shivannadm)
 
