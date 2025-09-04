@@ -1,3 +1,4 @@
+Đây là nội dung từ PR A
 <<<<<<< HEAD
 Dđây là READMEdđược chỉnh sửa từ main
 =======
