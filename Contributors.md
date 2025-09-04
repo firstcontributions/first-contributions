@@ -2527,3 +2527,4 @@ abc
 - [Sanal Kumar](https://github.com/sanalkr)
 - [Avi Ranjan Prasad](https://github.com/thunderavi)
 - [Đặng Văn Nhựt](https://github.com/vannhutdangtp-rgb)
+- [Nguyễn Ngọc Tân](https://github.com/nnguyenngoctann-glitch)
