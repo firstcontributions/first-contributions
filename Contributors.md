@@ -36,6 +36,7 @@
 - [Anurag]<--
 - [Chris Emmah](https://github.com/christhestormborn/first-contributions.git)
 - [Abhik](https://github.com/AO811)
+- [Umut Hasanoglu](https://github.com/UmutHasanoglu)
 - [Ekak Basu](https://github.com/ebro125)
 - [Erfan Ahmadi](https://github.com/erfan-web)
 - [Aaliyah Raheem](https://github.com/aaliot)
