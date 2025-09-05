@@ -2320,6 +2320,7 @@ jack - first contribution practice
 - [Shahrukh Khan](https://github.com/srk384)
 - [Arul](https://github.com/arul3011)
 - [Lusmaysh](https://github.com/lusmaysh)
+- [Gerdzhikov23](https://github.com/Gerdzhikov23)
 - [Sachin](https://github.com/Sachiiinnn)
 - [Anton Lysenko](https://github.com/AntonyCoder)
 - [Satyam Dewangan](https://github.com/Satyamashu05)
