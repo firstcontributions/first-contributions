@@ -1497,7 +1497,7 @@ Eoin O'B
 - [Jenny Martin](https://github.com/jmartinDS14)
 - [Wiktor Kycia](https://github.com/wiktorKycia)
 - [Komathi](https://github.com/komathi-pandiyan)
-- [Agoit-Dev](https://github.com/Agoit-Dev)
+- [Tiago Pereira](https://github.com/Agoit-Dev)
 - [Farhan Ilyas](https://github.com/Farhan2001M)
 - [Samuel Spina](https://github.com/SamuelSpina)
 - [AhmedRediwan](https://github.com/ahmed12-dev)
