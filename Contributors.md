@@ -1731,6 +1731,7 @@ Eoin O'B
 - [meenakshiruia](https://github.com/meenakshiruia)
 - [Darllyson Santos](https://github.com/DarllysonS)
 - [Shubhranka Varma](https://github.com/shubhranka)
+- [Anthony Brock Tharpe](https://github.com/abtharpe)
 - [Loubna Lekouaghet](https://github.com/loubna213)
 - [Nicolas Schirosi](https://github.com/Nicolas04u)
 - [souravsumit07](https://github.com/souravsumit07)
