@@ -216,7 +216,7 @@ sdumini
 - [Allan Zanella](https://github.com/Autodotnet)
 - [Anastasia Bobere](https://github.com/anastasiabobere)
 - [Nishant Naravarajula](https://github.com/nish-naravarajula)
-- [Thomas(Jiashuo Liang)]
+- [Thomas.(Jiashuo Liang)]
 - [Vishal Manik](https://github.com/vmanik2k)
 - [Esraa Hassan] (https://github.com/Esraa-Hassan0)
 - [Vittorino  Favaro](https://github.com/vittorino-favaro)
