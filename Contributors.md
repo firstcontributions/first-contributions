@@ -159,6 +159,7 @@ sdumini
 - [knlklabacka]
 - [Vitor Gabriel](https://github.com/VituuDias)
 - [mfg5160]
+- [Hayato Katagiri](https://github.com/hayatokatagiri)
 - [PandaDev0069](https://github.com/PandaDev0069)
 - [Tony J.](https://github.com/t0nebone)
 - [Yarno Grenier](https://github.com/yarno97x)
