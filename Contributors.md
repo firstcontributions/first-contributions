@@ -24,6 +24,7 @@
 - [Supilath](https://github.com/Supilath)
 - [Chowdhury Tafsir Ahmed Siddiki](https://github.com/ctafsiras)
 - [marmiju](https://github.com/marmiju)
+- [Gokoku](https://github.com/gokoku)
 - sardor Uchqunov
 - Ahmed Abouelnaga
 - Patty
