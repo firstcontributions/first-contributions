@@ -2529,3 +2529,4 @@ abc
 - [Avi Ranjan Prasad](https://github.com/thunderavi)
 - [Đặng Văn Nhựt](https://github.com/vannhutdangtp-rgb)
 - [Nguyễn Ngọc Tân](https://github.com/nnguyenngoctann-glitch)
+- [Mai Văn Vàng](https://github.com/maivanvangf-lang)
