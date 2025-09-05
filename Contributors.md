@@ -1,25 +1,25 @@
 
 # Contributors
--[Charles Wang](https://github.com/CharlesWangSA)
--[Ahmed Faraj](https://github.com/Ahmad-Faraj)
--[Amrita Shrivastava](https://github.com/Astro-naut)
--[Gangadevi]
--[Wolf-Root](https://github.com/Wolf-Root)
--[Nguyễn Quốc Vỹ - 226148 - 57]
--[Krish Savaliya](https://github.com/Krishsavaliya)
--[Tran Minh Khang](https://github.com/khang220495-rgb)
--[Nguyen Quoc Tinh]
--[Le Truong Hai]
--[Huynh Phuoc Hien](https://github.com/Phuochien121)
--[sriram rasamala](https://github.com/sriram-rasamala7)
--[Leandro Reis](https://github.com/leandro-01)
--[Vishal Perla](https://github.com/Vishal-Perla)
--Isabella Ramirez E.
--[Akash](https://github.com/Akash-code-0-1)
--[Ryu](https://github.com/wrryu528-wq)
--[shatha](https://github.com/shathaalrshoudi)
+- [Charles Wang](https://github.com/CharlesWangSA)
+- [Ahmed Faraj](https://github.com/Ahmad-Faraj)
+- [Amrita Shrivastava](https://github.com/Astro-naut)
+- [Gangadevi]
+- [Wolf-Root](https://github.com/Wolf-Root)
+- [Nguyễn Quốc Vỹ - 226148 - 57]
+- [Krish Savaliya](https://github.com/Krishsavaliya)
+- [Tran Minh Khang](https://github.com/khang220495-rgb)
+- [Nguyen Quoc Tinh]
+- [Le Truong Hai]
+- [Huynh Phuoc Hien](https://github.com/Phuochien121)
+- [sriram rasamala](https://github.com/sriram-rasamala7)
+- [Leandro Reis](https://github.com/leandro-01)
+- [Vishal Perla](https://github.com/Vishal-Perla)
+- Isabella Ramirez E.
+- [Akash](https://github.com/Akash-code-0-1)
+- [Ryu](https://github.com/wrryu528-wq)
+- [shatha](https://github.com/shathaalrshoudi)
 - [EtharAlashri](https://github.com/etharalashri)
--Merala Archana
+- Merala Archana
 - [Sumit Pandey](https://github.com/5umitpandey)
 - [Pavan  Mhaisne](https://github.com/piyushm4)
 - [Sim Hyeonmin](https://github.com/simhyunmin)
@@ -35,7 +35,7 @@
 - Vivek Gupta
 - bimo105108
 - DKshetry
--[Hakimo abdikadir](https://github.com/hikmaladan)
+- [Hakimo abdikadir](https://github.com/hikmaladan)
 - [Ernesto Donado](https://github.com/edonado2)
 - [Dhruv sawant]
 - [lucas](https://github.com/Luc-as)
@@ -66,7 +66,7 @@
 - [Junya Katouda] (https://github.com/katoudaj)
 - [CJ Nwogu] (https://github.com/cjnw)
 - [Sneha Bichkunde] (https://github.com/snehabichkunde)
-sdumini
+- sdumini
 - [Siddharth Sahu] (https://github.com/sidhacks) 
 - [DEVANSH SHUKLA] (https://github.com/devansh391k)
 - [Kartik Mishra] (https://github.com/kartikmishra210)
@@ -78,9 +78,7 @@ sdumini
 - [Amelia Ali]
 - [Ahmed Sabbak]
 - [Blipie]
-
--[Shivanna] (https://github.com/shivannadm)
-
+- [Shivanna] (https://github.com/shivannadm)
 - [Harsh Kumbhani] (https://github.com/harshkumbhani)
 - [Hassan Shahid] (https://github.com/hassan-software-dev)
 - [Akinori Sugimura](https://github.com/sugisaku37)
@@ -89,7 +87,7 @@ sdumini
 - [Sandy052005](https://github.com/sandy052005)
 - [Nikita Maurya](https://github.com/sun-andsky)
 - [Shreyas](https://github.com/skdoosh)
-  [Tejas fulumbarkar]
+- [Tejas fulumbarkar]
 - [Maroof Khan](https://github.com/khanmaroof)
 - [Boruotez](https://github.com/borutoez)
 - [Sharjeel Ahmed Siddiqui]
@@ -193,17 +191,17 @@ sdumini
 - [Dhairya Dev](https://github.com/hamzak51)
 - [Ayomide Saheed](https://github.com/luc-ay)
 - [Muhammad Bilal Saleem](https://github.com/Muhammad-Bilal-Saleem)
--[lavi](https://github.com/lavihere1)
--[Daniel Velez](https://github.com/Daniel1000c)
+- [lavi](https://github.com/lavihere1)
+- [Daniel Velez](https://github.com/Daniel1000c)
 - [Martin-Perfumo] (https://github.com/MartinPerfumo) 
- [Nakshathra](https://github.com/Nakshathra-17S)
- naveen-branch-first-contribution
- NMAKHIJA- Test Contribution
+- [Nakshathra](https://github.com/Nakshathra-17S)
+- naveen-branch-first-contribution
+- NMAKHIJA- Test Contribution
 - [Naveen Kumar](https://github.com/RowthuNaveenKumar)
-[Devansh Kapoor](https://github.com/Devansh2208)
+- [Devansh Kapoor](https://github.com/Devansh2208)
 - [Kashif Kawsar Qadri](https://github.com/KashifQadri90)
--[Kavya Krishna](https://github.com/Cx-rrupt)
--[Goutham Krishna](https://github.com/gouthamkrishnae)
+- [Kavya Krishna](https://github.com/Cx-rrupt)
+- [Goutham Krishna](https://github.com/gouthamkrishnae)
 - [Chijioke Madu](https://github.com/SaltCJ)
 - [Mohamed Ismail Gasmi]()
 - [Brandon McHugh](https://github.com/brandmch)
