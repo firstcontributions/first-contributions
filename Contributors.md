@@ -78,7 +78,7 @@ sdumini
 - [Blipie]
 
 -[Shivanna] (https://github.com/shivannadm)
-
+- [yanas-logs]
 - [Harsh Kumbhani] (https://github.com/harshkumbhani)
 - [Hassan Shahid] (https://github.com/hassan-software-dev)
 - [Akinori Sugimura](https://github.com/sugisaku37)
