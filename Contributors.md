@@ -97,6 +97,7 @@ sdumini
 - [Mauricio Pereira] (https://github.com/gitreece) 
 - [Ewan Black](https://github.com/ebl138)
 - [Rushikesh Deshmukh](https://github.com/Mrx207)
+- [Kunal Jindal](https://github.com/imkunaljindal)
 - [K Sri Latha] (https://github.com/KSriLatha18)
 - [Sarthak Katiyar] (https://github.com/SarthakKatiyar2004)
 - [Ajay C](https://github.com/Ajaynirm)
