@@ -25,6 +25,7 @@
 - [Rohan Shukla] (https://github.com/RohanShukla23)
 - [Chowdhury Tafsir Ahmed Siddiki](https://github.com/ctafsiras)
 - [marmiju](https://github.com/marmiju)
+- [Gokoku](https://github.com/gokoku)
 - sardor Uchqunov
 - Ahmed Abouelnaga
 - Patty
