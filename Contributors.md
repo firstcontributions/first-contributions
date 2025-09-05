@@ -9,6 +9,7 @@
 -[Krish Savaliya](https://github.com/Krishsavaliya)
 -[Tran Minh Khang](https://github.com/khang220495-rgb)
 -[Nguyen Quoc Tinh]
+-[Boyloytt]
 -[Le Truong Hai]
 -[Huynh Phuoc Hien](https://github.com/Phuochien121)
 -[sriram rasamala](https://github.com/sriram-rasamala7)
