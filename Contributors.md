@@ -161,6 +161,7 @@ sdumini
 - [Plexton](https://github.com/ZaibLComrade)
 - [knlklabacka]
 - [Vitor Gabriel](https://github.com/VituuDias)
+- [yanas logs]
 - [mfg5160]
 - [Hayato Katagiri](https://github.com/hayatokatagiri)
 - [PandaDev0069](https://github.com/PandaDev0069)
