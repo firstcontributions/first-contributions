@@ -38,6 +38,7 @@
 - bimo105108
 - DKshetry
 -[Hakimo abdikadir](https://github.com/hikmaladan)
+- [Jason Wiggs](https://github.com/wiggs30)
 - [Ernesto Donado](https://github.com/edonado2)
 - [Dhruv sawant]
 - [lucas](https://github.com/Luc-as)
