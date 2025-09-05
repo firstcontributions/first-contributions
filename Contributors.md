@@ -95,6 +95,7 @@ sdumini
 - [Padmanabha Das](https://github.com/chayan-1906)
 - [William W.] (https://github.com/ParadigmPacket)
 - [Shalini V] (https://github.com/shalini515)
+- [Vedhashree Sampath] (https://github.com/vedhashrees)
 - [Mohith Butta] (https:/github.com/loicmohithnovoct)
 - [Saloni Zade](https://github.com/Saloni0111-cpu)
 - [Chetan Atram](https://github.com/RabbitBoii)
