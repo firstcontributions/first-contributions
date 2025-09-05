@@ -3,6 +3,7 @@
 -[Charles Wang](https://github.com/CharlesWangSA)
 -[Ahmed Faraj](https://github.com/Ahmad-Faraj)
 -[Amrita Shrivastava](https://github.com/Astro-naut)
+-[Gangadevi]
 -[Wolf-Root](https://github.com/Wolf-Root)
 -[Nguyễn Quốc Vỹ - 226148 - 57]
 -[Krish Savaliya](https://github.com/Krishsavaliya)
