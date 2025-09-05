@@ -37,6 +37,7 @@
 - Vivek Gupta
 - bimo105108
 - DKshetry
+- [Diogo Ferreira](https://github.com/fdiogo1)
 -[Hakimo abdikadir](https://github.com/hikmaladan)
 - [Jason Wiggs](https://github.com/wiggs30)
 - [Ernesto Donado](https://github.com/edonado2)
