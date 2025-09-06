@@ -181,6 +181,7 @@ sdumini
 - [Devansh Singh](https://github.com/Devansh-04)
 - [Mandrukamal](https://github.com/Mandrukamal)
 - [Gokul](https://github.com/Gokul-S-dev)
+- [Cole Schnell](https://github.com/coleschnell)
 - [Bhavya](https://github.com/bhavya-l)
 - [Milan Bhanushali] (https://github.com/milanbhanushali)
 - [Nicholas Calvert](https://github.com/nicholascalvert85)
