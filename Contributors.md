@@ -2593,3 +2593,4 @@ abc
 - [Apoorv Bedmutha](https://github.com/bedmuthaapoorv)
 - [Satyam Aengandul](https://github.com/satyamit)
 - [Candice](https://github.com/c-candice)
+- [Ridhi Puri](https://github.com/ridhii17/first-contributions.git)
