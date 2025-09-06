@@ -1426,6 +1426,7 @@ Eoin O'B
 - [Dipankaj](https://github.com/DipankajSingh/)
 - [harshit](https://github.com/harshitpatel862)
 - [Giusnovetti](https://github.com/Giusnovetti)
+- [Tavi Ungerleider](https://github.com/tungerle)
 - [Vaibhav0725](https://github.com/vaibhav0725)
 - [Yhlas Yazmyrad](https://github.com/yazmyrad)
 - [Kelvin Yeboah](https://github.com/KelvCodes)
