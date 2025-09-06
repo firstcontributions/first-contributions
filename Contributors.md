@@ -1,6 +1,7 @@
 
 # Contributors
 -[Mahdi masoumi](https://github.com/Mahdi-masoumi)
+-[Nisha S](https://github.com/Nisha789)
 -[Minerva Shen](https://github.com/mshen05)
 -[Mohammed Salem](https://github.com/mohamedsalem21v)
 -[Charles Wang](https://github.com/CharlesWangSA)
