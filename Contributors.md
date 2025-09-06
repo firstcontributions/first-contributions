@@ -18,7 +18,7 @@
 - [sriram rasamala](https://github.com/sriram-rasamala7)
 - [Leandro Reis](https://github.com/leandro-01)
 - [Vishal Perla](https://github.com/Vishal-Perla)
-- -Isabella Ramirez E.
+- Isabella Ramirez E.
 - [Akash](https://github.com/Akash-code-0-1)
 - [Ryu](https://github.com/wrryu528-wq)
 - [shatha](https://github.com/shathaalrshoudi)
@@ -2595,3 +2595,4 @@
 - [Ridhi Puri](https://github.com/ridhii17/first-contributions.git)
 - [vasanth](https://github.com/vasanth642)
 - [Kaushik Kumar](https://github.com/KAUSHIK-KUMAR-RM)
+- [Yashwanth G](https://github.com/yashwanthg13)
