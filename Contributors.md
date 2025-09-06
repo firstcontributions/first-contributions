@@ -1,8 +1,8 @@
 # Contributors
-
-- [Samiul Alim](https://github.com/samiulalim-dev) 
+ 
 -[Minerva Shen](https://github.com/mshen05) 
 -[Mohammed Salem](https://github.com/mohamedsalem21v) 
+-[Samiul Alim](https://github.com/samiulalim-dev)
 -[Charles Wang](https://github.com/CharlesWangSA) 
 -[Ahmed Faraj](https://github.com/Ahmad-Faraj) 
 -[Amrita Shrivastava](https://github.com/Astro-naut) 
@@ -20,11 +20,11 @@
 -[Ryu](https://github.com/wrryu528-wq) 
 -[shatha](https://github.com/shathaalrshoudi)
 - [EtharAlashri](https://github.com/etharalashri)
--Merala Archana 
+-Merala Archana
 -[EmmaCahu]
 - [Sumit Pandey](https://github.com/5umitpandey)
 - [Sneha Gadekarla] (https://github.com/SnehaG100)
-- [Pavan Mhaisne](https://github.com/piyushm4)
+- [Pavan  Mhaisne](https://github.com/piyushm4)
 - [Sim Hyeonmin](https://github.com/simhyunmin)
 - [Gbede Daniel] (https://github.com/dani12e)
 - [Supilath](https://github.com/Supilath)
