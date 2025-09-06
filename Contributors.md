@@ -1,19 +1,21 @@
 # Contributors
- 
--[Minerva Shen](https://github.com/mshen05) 
--[Mohammed Salem](https://github.com/mohamedsalem21v) 
+-[Minerva Shen](https://github.com/mshen05)
 -[Samiul Alim](https://github.com/samiulalim-dev)
--[Charles Wang](https://github.com/CharlesWangSA) 
--[Ahmed Faraj](https://github.com/Ahmad-Faraj) 
--[Amrita Shrivastava](https://github.com/Astro-naut) 
--[Gangadevi] -[Wolf-Root](https://github.com/Wolf-Root) 
--[Nguyễn Quốc Vỹ - 226148 - 57] 
--[Krish Savaliya](https://github.com/Krishsavaliya) 
--[Tran Minh Khang](https://github.com/khang220495-rgb) 
--[Nguyen Quoc Tinh] -[Boyloytt] -[Le Truong Hai] 
--[Huynh Phuoc Hien](https://github.com/Phuochien121) 
--[sriram rasamala](https://github.com/sriram-rasamala7) 
--[Leandro Reis](https://github.com/leandro-01) 
+-[Mohammed Salem](https://github.com/mohamedsalem21v)
+-[Charles Wang](https://github.com/CharlesWangSA)
+-[Ahmed Faraj](https://github.com/Ahmad-Faraj)
+-[Amrita Shrivastava](https://github.com/Astro-naut)
+-[Gangadevi]
+-[Wolf-Root](https://github.com/Wolf-Root)
+-[Nguyễn Quốc Vỹ - 226148 - 57]
+-[Krish Savaliya](https://github.com/Krishsavaliya)
+-[Tran Minh Khang](https://github.com/khang220495-rgb)
+-[Nguyen Quoc Tinh]
+-[Boyloytt]
+-[Le Truong Hai]
+-[Huynh Phuoc Hien](https://github.com/Phuochien121)
+-[sriram rasamala](https://github.com/sriram-rasamala7)
+-[Leandro Reis](https://github.com/leandro-01)
 -[Vishal Perla](https://github.com/Vishal-Perla)
 -Isabella Ramirez E. 
 -[Akash](https://github.com/Akash-code-0-1) 
