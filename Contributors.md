@@ -23,6 +23,7 @@
 - [EtharAlashri](https://github.com/etharalashri)
 -Merala Archana
 - [Sumit Pandey](https://github.com/5umitpandey)
+- [Sneha Gadekarla] (https://github.com/SnehaG100)
 - [Pavan  Mhaisne](https://github.com/piyushm4)
 - [Sim Hyeonmin](https://github.com/simhyunmin)
 - [Gbede Daniel] (https://github.com/dani12e)
