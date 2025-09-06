@@ -318,6 +318,7 @@ sdumini
 - [Adithya kukkapalli](https://github.com/adithyagurusai)
 - [Muhammed Hidash](https://github.com/Hidash-broto)
 - [Mopuri Abhiram]()
+- [Dimitrios Nicolay](https://github.com/DimitriosNicolay
 - [Prashanth-000](https://github.com/Prashanth-000)
 - [Aaaappplle](https://github.com/aaaappplle)
 - vituwc
