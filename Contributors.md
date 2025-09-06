@@ -36,6 +36,7 @@
 - [Gokoku](https://github.com/gokoku)
 - sardor Uchqunov
 - Ahmed Abouelnaga
+- [Alex Ivaschenko] (https://github.com/ivaschenkoalex)
 - Patty
 - Vivek Gupta
 - bimo105108
@@ -102,6 +103,7 @@
 - [Sharjeel Ahmed Siddiqui]
 - [Sinbad Adjuik](https://github.com/synnbad)
 - [Padmanabha Das](https://github.com/chayan-1906)
+- [Shivam Gupta](https://github.com/shivam543210)
 - [William W.] (https://github.com/ParadigmPacket)
 - [Shalini V] (https://github.com/shalini515)
 - [Vedhashree Sampath] (https://github.com/vedhashrees)
@@ -141,6 +143,7 @@
 - [Mohammad A](https://github.com/c000005)
 - [Pranay Gurav](https://github.com/cwpranay)
 - [Martin Estrada Agudelo]
+- [Shivam Shandilya](https://github.com/shivamshandilya2100)
 - [Hoang Viet Nguyen](https://github.com/hoangviet-nguyen)
 - [Meet Shah](https://github.com/Meet6338-X)
 - [Sushmitha](https://github.com/Sushmigit)
@@ -181,6 +184,7 @@
 - [Devansh Singh](https://github.com/Devansh-04)
 - [Mandrukamal](https://github.com/Mandrukamal)
 - [Gokul](https://github.com/Gokul-S-dev)
+- [Cole Schnell](https://github.com/coleschnell)
 - [Bhavya](https://github.com/bhavya-l)
 - [Milan Bhanushali] (https://github.com/milanbhanushali)
 - [Nicholas Calvert](https://github.com/nicholascalvert85)
@@ -360,6 +364,7 @@
 - [Commitaptian-A](https://github.com/CommitCaptain-A)
 - [Kavya Gupta](https://github.com/kavyagupta3011)
 - [Aryan Baid](https://github.com/aryanbaid)
+- [Yulhui Kim](https://github.com/dbfgml2000)
 - [Kapil Aditya Reddy](https://github.com/kapiladitya024-source)
 - [Likhitha](https://github.com/likhitha07)
 - [Nikunj](https://github.com/nikunj69)
@@ -1397,6 +1402,7 @@
 - [Dipankaj](https://github.com/DipankajSingh/)
 - [harshit](https://github.com/harshitpatel862)
 - [Giusnovetti](https://github.com/Giusnovetti)
+- [Tavi Ungerleider](https://github.com/tungerle)
 - [Vaibhav0725](https://github.com/vaibhav0725)
 - [Yhlas Yazmyrad](https://github.com/yazmyrad)
 - [Kelvin Yeboah](https://github.com/KelvCodes)
@@ -1475,6 +1481,7 @@
 - [Jenny Martin](https://github.com/jmartinDS14)
 - [Wiktor Kycia](https://github.com/wiktorKycia)
 - [Komathi](https://github.com/komathi-pandiyan)
+- [Tiago Pereira](https://github.com/Agoit-Dev)
 - [Farhan Ilyas](https://github.com/Farhan2001M)
 - [Samuel Spina](https://github.com/SamuelSpina)
 - [AhmedRediwan](https://github.com/ahmed12-dev)
@@ -2495,3 +2502,4 @@ abc
 - [Apoorv Bedmutha](https://github.com/bedmuthaapoorv)
 - [Satyam Aengandul](https://github.com/satyamit)
 - [Candice](https://github.com/c-candice)
+- [Ridhi Puri](https://github.com/ridhii17/first-contributions.git)
