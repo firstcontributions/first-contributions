@@ -108,6 +108,7 @@
 - [Shalini V](https://github.com/shalini515)
 - [Vedhashree Sampath](https://github.com/vedhashrees)
 - [Mohith Butta](https:/github.com/loicmohithnovoct)
+- [Shivam Gupta](https://github.com/shivam543210)
 - [Saloni Zade](https://github.com/Saloni0111-cpu)
 - [Chetan Atram](https://github.com/RabbitBoii)
 - [Mauricio Pereira](https://github.com/gitreece) 
@@ -2590,3 +2591,4 @@ Eoin O'B
 - [Apoorv Bedmutha](https://github.com/bedmuthaapoorv)
 - [Satyam Aengandul](https://github.com/satyamit)
 - [Candice](https://github.com/c-candice)
+- [Ridhi Puri](https://github.com/ridhii17/first-contributions.git)
