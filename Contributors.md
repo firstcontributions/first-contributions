@@ -553,6 +553,7 @@ LIUYY到此一游
 - Mrunali
 - Anshuman Semwal
 - [Moresh](https://github.com/Moresh-Mishra)
+-[Shona]()
 - [AnantAgarwal07](https://github.com/AnantAgarwal07)
 - [Diya Pandey](https://github.com/diyapandey)
 - Subikshaa_Sakthivel_IMT2023020 (https://github.com/Subikshaa22)
@@ -1532,7 +1533,7 @@ Eoin O'B
 - [Caroline](https://github.com/perrywinkle2004)
 - [Bhavishay Bharti](https://github.com/bhavi-b)
 - [Dascalu Dumitru](https://github.com/IronMemo)
-- [Keval Deepak](https://github.com/kevaldeepak)
+- [Keval Deepak](https://github.com/kevaldeepaka`)
 - [R Ricky Roger](https://github.com/RickRo77)
 - [JasonSA1993](https://github.com/JasonSa1993/)
 - [Suresh Deora](https://github.com/SureshDeora)
@@ -2574,8 +2575,7 @@ DanyLeeCS
 abc
 - Nguyen Ha Phuong Tan
 - 
-- [Sanal Kumar](https://github.com/sanalkr)
-- [Trịnh Minh Dũng](https://github.com/DungTrinhMinh)
+- [Sanal Kumar](https://github.com/sanaMinh Dũng](https://github.com/DungTrinhMinh)
 - [Avi Ranjan Prasad](https://github.com/thunderavi)
 - [Đặng Văn Nhựt](https://github.com/vannhutdangtp-rgb)
 - [Nguyễn Ngọc Tân](https://github.com/nnguyenngoctann-glitch)
@@ -2599,6 +2599,7 @@ abc
 - [Candice](https://github.com/c-candice)
 - [Ridhi Puri](https://github.com/ridhii17/first-contributions.git)
 - [vasanth](https://github.com/vasanth642)
+-[Shona](https://github.com/itshohanfernando-hue)
 -[Kaushik Kumar](https://github.com/KAUSHIK-KUMAR-RM)
 -[Yashwanth G](https://github.com/yashwanthg13)
 -[M3MONs](https://github.com/M3MONs)
