@@ -1,6 +1,6 @@
 # Contributors
--[Minerva Shen](https://github.com/mshen05)
 -[Samiul Alim](https://github.com/samiulalim-dev)
+-[Minerva Shen](https://github.com/mshen05)
 -[Mohammed Salem](https://github.com/mohamedsalem21v)
 -[Charles Wang](https://github.com/CharlesWangSA)
 -[Ahmed Faraj](https://github.com/Ahmad-Faraj)
