@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>First Contributions</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; background: #0b0b0b; }
+        .container { max-width: 600px; margin: auto; background: #fff; padding: 32px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);}
+        h1 { color: #333; }
+        p { color: #555; }
+        a.button {
+            display: inline-block;
+            padding: 10px 20px;
+            background: #007bfc;
+            color: #fff;
+            border-radius: 4px;
+            text-decoration: none;
+            margin-top: 20px;
+        }
+        a.button:hover { background: #005bb5; }
+        a{
+            text-decoration: none;
+            color: white;
+            font-size: 20px;
+            text-decoration: none;
+            
+        }
+
+    </style>
+</head>
+<body>
+
+    <header style="display: flex; align-items: center; gap: 12px;">
+        <img class="avatar mr-2 d-none d-md-block" alt="Owner avatar" src="https://avatars.githubusercontent.com/u/37713493?s=48&amp;v=4" width="24" height="24">
+        <a href="{{url_for('contributors')}}" class="button" style="margin-left:auto; font-size: 20px; background: #28a745; color: #fff; align-self: flex-end;">Contributors List</a>
+    </header>
+        
+   
+    <div class="container">
+        <h1>Welcome to First Contributions</h1>
+        <p>
+            This project helps you make your first open source contribution. Follow the instructions to get started!
+        </p>
+        <a href="https://github.com/firstcontributions/first-contributions" class="button" target="_blank">View on GitHub</a>
+    </div>
+      <div class="container" style="margin-top: 20px; text-align: center;">
+        <h1>Make First Git Contributions</h1>
+        <a href="https://github.com/oponefrank44/first-contributions/blob/main/README.md" class="button" target="_blank">make first commit</a>
+    </div>
+    <div class="container" style="margin-top: 20px; text-align: center;">
+        <h1>Contributions To Other Real Project</h1>
+        <a href="https://firstcontributions.github.io" class="button" target="_blank">Find open source project</a>
+    </div>
+    {% include 'footer.html' %}
+  
+</body>
+</html>

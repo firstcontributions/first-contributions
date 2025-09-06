@@ -1,0 +1,8 @@
+
+Flask==2.3.3
+
+Jinja2==3.1.4
+
+selenium==4.34.2
+
+waitress==3.0.2
