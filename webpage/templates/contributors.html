@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Contributors</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);
+            color: #c9d1d9;
+            min-height: 100vh;
+            padding: 20px;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+            padding: 20px;
+        }
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            color: #58a6ff;
+            text-shadow: 0 0 10px rgba(88, 166, 255, 0.3);
+        }
+        .subtitle {
+            font-size: 1.2rem;
+            color: #8b949e;
+            margin-bottom: 20px;
+        }
+        .contributors-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 20px;
+            margin-bottom: 40px;
+        }
+        .contributor-card {
+            background: linear-gradient(145deg, #21262d 0%, #161b22 100%);
+            border-radius: 10px;
+            padding: 20px;
+            display: flex;
+            align-items: center;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            border: 1px solid #30363d;
+        }
+        .contributor-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
+            border-color: #58a6ff;
+        }
+        .avatar {
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            background: linear-gradient(45deg, #58a6ff, #8b949e);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-right: 15px;
+            font-size: 1.5rem;
+            color: white;
+            font-weight: bold;
+        }
+        .contributor-info {
+            flex: 1;
+        }
+        .contributor-name {
+            font-size: 1.2rem;
+            font-weight: 600;
+            margin-bottom: 5px;
+            color: #f0f6fc;
+        }
+        .contributor-username {
+            font-size: 0.9rem;
+            color: #8b949e;
+            margin-bottom: 10px;
+        }
+        .github-link {
+            display: inline-flex;
+            align-items: center;
+            color: #58a6ff;
+            text-decoration: none;
+            font-size: 0.9rem;
+            transition: color 0.2s;
+        }
+        .github-link:hover {
+            color: #79c0ff;
+            text-decoration: underline;
+        }
+        .github-icon {
+            margin-right: 5px;
+        }
+        .no-contributors {
+            text-align: center;
+            padding: 40px;
+            background: #21262d;
+            border-radius: 10px;
+            grid-column: 1 / -1;
+        }
+        .file-format {
+            background: #21262d;
+            border-radius: 10px;
+            padding: 20px;
+            margin-top: 30px;
+            border: 1px solid #30363d;
+        }
+        .file-format h3 {
+            color: #58a6ff;
+            margin-bottom: 15px;
+        }
+        pre {
+            background: #0d1117;
+            padding: 15px;
+            border-radius: 6px;
+            overflow-x: auto;
+            color: #c9d1d9;
+            border: 1px solid #30363d;
+        }
+        code {
+            font-family: 'Courier New', monospace;
+        }
+        .highlight {
+            color: #58a6ff;
+        }
+        a.button {
+            display: inline-block;
+            padding: 10px 20px;
+            background: #007bfc;
+            color: #fff;
+            border-radius: 4px;
+            text-decoration: none;
+            margin-top: 20px;
+        }
+        a.button:hover { background: #005bb5; }
+        footer {
+            text-align: center;
+            margin-top: 40px;
+            padding: 20px;
+            color: #8b949e;
+            font-size: 0.9rem;
+        }
+        @media (max-width: 768px) {
+            .contributors-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>GitHub Contributors</h1>
+            <p class="subtitle">A list of our amazing project contributors</p>
+        </header>
+        
+        {% if contributors %}
+        <div class="contributors-grid">
+            {% for contributor in contributors %}
+            <div class="contributor-card">
+                <div class="avatar">
+        <!-- Display initials as avatar -->
+         
+                    <img src="" alt="{{ contributor }}" style="width:100%; height:100%; border-radius:50%;">
+                </div>
+               
+                <div class="contributor-info">
+                   
+                    <div class="contributor-name">{{ contributor.split() }}</div>
+                    
+                   
+                    <!-- {% if contributor.github_url %}
+                    <a href="{{ contributor.github_url }}" target="_blank" class="github-link">
+                        <i class="fab fa-github github-icon"></i> GitHub Profile
+                    </a>
+                    {% endif %} -->
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        
+        {% endif %}
+        
+        <div class="file-format" style="background: transparent; border: none; box-shadow: none; padding: 0; margin-top: 30px;">
+            <a href="https://github.com/oponefrank44/first-contributions/blob/main/Contributors.md" 
+               class="button" target="_blank" 
+               style="background: transparent; color: #58a6ff; border: 2px solid #58a6ff; font-weight: bold; box-shadow: 0 0 10px #58a6ff44; transition: background 0.2s, color 0.2s;">
+                Contributor list continue <i class="fas fa-arrow-right" style="margin-left:8px;"></i>
+            </a>
+        </div>
+    </div>
+    
+    {% include 'footer.html' %}
+</body>
+</html>
