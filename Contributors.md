@@ -10,6 +10,7 @@
 -[Wolf-Root](https://github.com/Wolf-Root)
 -[Nguyễn Quốc Vỹ - 226148 - 57]
 -[Krish Savaliya](https://github.com/Krishsavaliya)
+-[Poorvinfi]
 -[Tran Minh Khang](https://github.com/khang220495-rgb)
 -[Nguyen Quoc Tinh]
 -[Boyloytt]
