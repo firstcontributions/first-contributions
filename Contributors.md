@@ -142,7 +142,7 @@
 - [Hruthik Chauan](https://github.com/hruthikchauhan07)
 - [Ahmad Rafiq](https://github.com/AhmadRafiq90)
 - [Vinicius]
-- [Aswakth Balaji]
+- [Aswakth Balaji]()
 - [jasbuildaweb] (https://github.com/jasbuildaweb)
 - [TheHolderCollective] (https://github.com/TheHolderCollective)
 - [Arezoo]
