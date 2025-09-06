@@ -2608,3 +2608,4 @@ abc
 -[Yashwanth G](https://github.com/yashwanthg13)
 -[M3MONs](https://github.com/M3MONs)
 - [Sarthak Chafle](https://github.com/sarthakchafle)
+- [Maksat Annageldiyev](https://github.com/M4x4T)
