@@ -103,6 +103,7 @@ sdumini
 - [Sharjeel Ahmed Siddiqui]
 - [Sinbad Adjuik](https://github.com/synnbad)
 - [Padmanabha Das](https://github.com/chayan-1906)
+- [Shivam Gupta](https://github.com/shivam543210)
 - [William W.] (https://github.com/ParadigmPacket)
 - [Shalini V] (https://github.com/shalini515)
 - [Vedhashree Sampath] (https://github.com/vedhashrees)
