@@ -22,6 +22,7 @@
 - [Akash](https://github.com/Akash-code-0-1)
 - [Ryu](https://github.com/wrryu528-wq)
 - [shatha](https://github.com/shathaalrshoudi)
+- [Pradhyumn](https://github.com/Pradhyumn-24)
 - [EtharAlashri](https://github.com/etharalashri)
 - Merala Archana
 - [EmmaCahu]
@@ -2270,6 +2271,7 @@ Eoin O'B
 - [Brandyn Coverdill](https://github.com/BrandynCoverdill)
 - [Rohit Mahajan](https://github.com/Rohit273848)
 - [Nikhil Barve](https://github.com/nikhil-barve1)
+- [Moondip Konwar](https://github.com/Moondip-Konwar/)
 - [Ajay Anand](https://https://github.com/AJrelapse)
 - [standoffEthan]
 - [corrix0](https://github.com/corrix0)
@@ -2592,3 +2594,5 @@ Eoin O'B
 - [Satyam Aengandul](https://github.com/satyamit)
 - [Candice](https://github.com/c-candice)
 - [Ridhi Puri](https://github.com/ridhii17/first-contributions.git)
+- [vasanth](https://github.com/vasanth642)
+-[Kaushik Kumar](https://github.com/KAUSHIK-KUMAR-RM)
