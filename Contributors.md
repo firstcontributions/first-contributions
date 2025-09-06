@@ -63,6 +63,7 @@
 - [Md. Apu](https://github.com/Apu-mirza)
 - [mgalore](https://github.com/mgalore)
 - Bhuvana Madiraju
+- Aditya Singh Kushwah
 - [Kat R.](https://github.com/KxttyKxt)
 - santiago robles
 - adasrh yadav
