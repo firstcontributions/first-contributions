@@ -12,6 +12,7 @@ BinhTran2k4
 -[Wolf-Root](https://github.com/Wolf-Root)
 -[Nguyễn Quốc Vỹ - 226148 - 57]
 -[Krish Savaliya](https://github.com/Krishsavaliya)
+-[Majora94]
 -[Poorvinfi]
 -[Tran Minh Khang](https://github.com/khang220495-rgb)
 -[Nguyen Quoc Tinh]
