@@ -95,6 +95,8 @@ sdumini
 - [Shivam Verma] (https://github.com/shivamxverma)
 - [one small step for humanity]
 - [Amelia Ali]
+- [Franklyn Omoregie]
+
 - [Ahmed Sabbak]
 - [Blipie]
 
