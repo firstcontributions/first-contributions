@@ -1,7 +1,6 @@
-
+BinhTran2k4
 # Contributors
 -[Mahdi masoumi](https://github.com/Mahdi-masoumi)
--[Nisha S](https://github.com/Nisha789)
 -[Rehan Ahmed](https://github.com/rehan6025)
 -[Minerva Shen](https://github.com/mshen05)
 -[Mohammed Salem](https://github.com/mohamedsalem21v)
@@ -24,6 +23,9 @@
 -[Leandro Reis](https://github.com/leandro-01)
 -[Vishal Perla](https://github.com/Vishal-Perla)
 -Isabella Ramirez E.
+
+-[Ayushii](https://github.com/Skiee9/Streamify)
+
 -[Akash](https://github.com/Akash-code-0-1)
 -[Ryu](https://github.com/wrryu528-wq)
 -[shatha](https://github.com/shathaalrshoudi)
@@ -53,6 +55,7 @@
 -[Hakimo abdikadir](https://github.com/hikmaladan)
 - [Jason Wiggs](https://github.com/wiggs30)
 - [Ernesto Donado](https://github.com/edonado2)
+- [Jack Crampton] (https://github.com/Gamesscow)
 - [Dhruv sawant]
 - [SungHo.You]
 - [lucas](https://github.com/Luc-as)
@@ -72,6 +75,7 @@
 - santiago robles
 - adasrh yadav
 - Debanjan Kshetry
+- Lokesh Malik (https://github.com/Lucky-Malik)
 - [Mohd Suhaib Siddiqui] (https://github.com/Suhaib-Sid)
 - [Justslugard] (https://github.com/Justslugard)
 - [Kanishka Raisania] (https://github.com/kanishka-raisania)
@@ -94,9 +98,11 @@ sdumini
 - [Shivam Verma] (https://github.com/shivamxverma)
 - [one small step for humanity]
 - [Amelia Ali]
+- [Franklyn Omoregie]
+
 - [Ahmed Sabbak]
 - [Blipie]
-
+- [bugOpsX] (https://github.com/bugOpsX)
 -[Shivanna] (https://github.com/shivannadm)
 
 - [Harsh Kumbhani] (https://github.com/harshkumbhani)
@@ -136,7 +142,7 @@ sdumini
 - [Lalitha N](https://github.com/lalitha-n546)
 - [Pranesh](https://github.com/Pranesh2288)
 - [Eduard Requena](https://github.com/erequena81)
-- [JuanRZ](https://github.com/JuanRZ)
+- [JuanRZ](https://github.com/JuanRZ) # Anderson
 - [RSM Harsha](https://github.com/rsmharsha)
 - [turingAround](https://github.com/turingAround)
 - [Ahmed Shabab Noor](https://github.com/ashababnoor)
@@ -2489,6 +2495,8 @@ sh0uka
 - [Joao Carlos Lima](https://github.com/jocatoa)
 - [jbyunA](https://github.com/jbyunA)
 - [isaac sun](https://github.com/isaac-sun)
+- [Nasir Ismail](https://github.com/NasirIsmail341)
+- [Sa'adatu Usman](https://github.com/Saadatu1)
 - [michael tjuni](https://github.com/michael-tjuni)
 - [Sahasra Kondapalli](https://github.com/Neural-keeper)
 - [Madiha Fatima](https://github.com/madihamalghani)
@@ -2534,6 +2542,7 @@ sh0uka
 - [Student00](https://github.com/keik0t92127)
 - [Ramaharisoa Tokiniaina](https://github.com/Toky20)
 - [paprotox]
+[DY_yankee](https://github.com/ecjbg)
 - [takeers](https://github.com/Takeers)
 - [RohanKommathoti](https://github.com/RohanK-coder)
 - [RRG1312](https://github.com/RRG1312)
@@ -2579,10 +2588,8 @@ DanyLeeCS
 - [Nguyen Thanh Toan](https://github.com/NguyenToanThanh)
 - [Mido](https://github.com/mido2262007-sys112)
 - [Mai Chí Hoài Em](https://github.com/hoaiemmaichi)
-
-abc
 - Nguyen Ha Phuong Tan
-- 
+- [Lưu An Thuận](https://github.com/thuanluuan)
 - [Sanal Kumar](https://github.com/sanalkr)
 - [Trịnh Minh Dũng](https://github.com/DungTrinhMinh)
 - [Avi Ranjan Prasad](https://github.com/thunderavi)
@@ -2594,6 +2601,8 @@ abc
 - [Huỳnh Trọng Ngữ](https://github.com/huynhtrongngu)
 -[phamtrungtinhh](https://github.com/phamtrungtinhh)
 - [Nguyen Thanh Nguyen](https://github.com/Nguyen-ThanhNguyen)
+- [dongtak](https://github.com/dongtakgun)
+- [swjjeong](https://github.com/swjjeong)
 - [qwerty55558](https://github.com/qwerty55558)
 - [srinath g](https://github.com/srinath176)
 - [sso](https://github.com/ingsso)
@@ -2608,12 +2617,14 @@ abc
 - [Candice](https://github.com/c-candice)
 - [Ridhi Puri](https://github.com/ridhii17/first-contributions.git)
 - [vasanth](https://github.com/vasanth642)
--[Kaushik Kumar](https://github.com/KAUSHIK-KUMAR-RM)
--[Yashwanth G](https://github.com/yashwanthg13)
--[M3MONs](https://github.com/M3MONs)
+- [Kaushik Kumar](https://github.com/KAUSHIK-KUMAR-RM)
+- [Yashwanth G](https://github.com/yashwanthg13)
+- [M3MONs](https://github.com/M3MONs)
 - [Sarthak Chafle](https://github.com/sarthakchafle)
+- [Loray](https://github.com/loray61)
 - [Amit Yadav](https://github.com/AYadav06)
-- [Ivan Lee]
-
-
+- [Ivan Lee]()
 - [Lyra](https://github.com/why)
+- [Maksat Annageldiyev](https://github.com/M4x4T)
+
+
