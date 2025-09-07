@@ -2588,8 +2588,6 @@ DanyLeeCS
 - [Nguyen Thanh Toan](https://github.com/NguyenToanThanh)
 - [Mido](https://github.com/mido2262007-sys112)
 - [Mai Chí Hoài Em](https://github.com/hoaiemmaichi)
-
-abc
 - Nguyen Ha Phuong Tan
 - [Lưu An Thuận](https://github.com/thuanluuan)
 - [Sanal Kumar](https://github.com/sanalkr)
@@ -2619,14 +2617,14 @@ abc
 - [Candice](https://github.com/c-candice)
 - [Ridhi Puri](https://github.com/ridhii17/first-contributions.git)
 - [vasanth](https://github.com/vasanth642)
--[Kaushik Kumar](https://github.com/KAUSHIK-KUMAR-RM)
--[Yashwanth G](https://github.com/yashwanthg13)
--[M3MONs](https://github.com/M3MONs)
+- [Kaushik Kumar](https://github.com/KAUSHIK-KUMAR-RM)
+- [Yashwanth G](https://github.com/yashwanthg13)
+- [M3MONs](https://github.com/M3MONs)
 - [Sarthak Chafle](https://github.com/sarthakchafle)
-
 - [Loray](https://github.com/loray61)
 - [Amit Yadav](https://github.com/AYadav06)
+- [Ivan Lee]()
+- [Lyra](https://github.com/why)
 - [Maksat Annageldiyev](https://github.com/M4x4T)
-- [Ivan Lee]
 
 
