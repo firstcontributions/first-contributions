@@ -2596,6 +2596,7 @@ DanyLeeCS
 - [Abhay Mishra](https://github.com/abhay7865)
 - [msun726](https://github.com/msun726)
 - [bi3mer](https://github.com/bi3mer)
+- [VINTACK](https://github.com/VINTACK)
 - [Nguyễn Hữu Trọng](https://github.com/huutrongk24)
 - [audrbsdl](https://github.com/audrbsdl)
 - [Lê Nhật Duy](https://github.com/LeNhatDuy-hehe)
