@@ -1136,6 +1136,7 @@ Ben
 - [Kassahun F](https://github.com/Kas1398)
 - [Inshal 0x03a](https://github.com/0x03a)
 - [Saad Momin](https://github.com/sdmoman)
+- [Majid Farooq Qureshi] (https://github.com/Majid-Farooq-Qureshi)
 - [Vipul Pandey](https://github.com/19vip)
 - [ Anand S](https://github.com/anand1946s)
 - [Janardhan Polle](https://github.com/Jce)
