@@ -24,6 +24,9 @@
 -[Leandro Reis](https://github.com/leandro-01)
 -[Vishal Perla](https://github.com/Vishal-Perla)
 -Isabella Ramirez E.
+
+-[Ayushii](https://github.com/Skiee9/Streamify)
+
 -[Akash](https://github.com/Akash-code-0-1)
 -[Ryu](https://github.com/wrryu528-wq)
 -[shatha](https://github.com/shathaalrshoudi)
