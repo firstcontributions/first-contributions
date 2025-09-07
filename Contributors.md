@@ -2288,6 +2288,7 @@ Cloudman
 - [Helen Fu](https://github.com/helenjfu)
 - [Sreya Bhattacharjee](https://github.com/bsreya0906)
 - [Priya Kumari](https://github.com/priyayayayayaaa)
+- [Prakriti Dwivedi](https://github.com/hiiamkarati)
 - [Vaibhav Pathak](https://github.com/Vaibhav007-code)
 - [Digvijaysinh Pawar](https://github.com/ImNotFound7)
 -[Prakriti Dwivedi](https://github.com/hiiamkarati)
