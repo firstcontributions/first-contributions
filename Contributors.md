@@ -185,6 +185,7 @@ sdumini
 - [Hayato Katagiri](https://github.com/hayatokatagiri)
 - [PandaDev0069](https://github.com/PandaDev0069)
 - [Tony J.](https://github.com/t0nebone)
+- [Resham]
 - [Yarno Grenier](https://github.com/yarno97x)
 - [Alaqmar Electricwala](https://github.com/AlaqmarElectricwala)
 - [Sanjeev](Grabbing oppurtunities flawlessly)
