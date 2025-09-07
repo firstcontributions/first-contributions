@@ -103,7 +103,7 @@ sdumini
 
 - [Ahmed Sabbak]
 - [Blipie]
-
+- [bugOpsX] (https://github.com/bugOpsX)
 -[Shivanna] (https://github.com/shivannadm)
 
 - [Harsh Kumbhani] (https://github.com/harshkumbhani)
