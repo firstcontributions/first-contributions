@@ -2497,6 +2497,8 @@ sh0uka
 - [Joao Carlos Lima](https://github.com/jocatoa)
 - [jbyunA](https://github.com/jbyunA)
 - [isaac sun](https://github.com/isaac-sun)
+- [Nasir Ismail](https://github.com/NasirIsmail341)
+- [Sa'adatu Usman](https://github.com/Saadatu1)
 - [michael tjuni](https://github.com/michael-tjuni)
 - [Sahasra Kondapalli](https://github.com/Neural-keeper)
 - [Madiha Fatima](https://github.com/madihamalghani)
