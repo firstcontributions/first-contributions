@@ -53,6 +53,7 @@
 -[Hakimo abdikadir](https://github.com/hikmaladan)
 - [Jason Wiggs](https://github.com/wiggs30)
 - [Ernesto Donado](https://github.com/edonado2)
+- [Jack Crampton] (https://github.com/Gamesscow)
 - [Dhruv sawant]
 - [SungHo.You]
 - [lucas](https://github.com/Luc-as)
