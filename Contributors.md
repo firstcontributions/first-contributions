@@ -25,6 +25,7 @@ git # Contributors
 -[Goutham Krishna](https://github.com/gouthamkrishnae)
 - [Chijioke Madu](https://github.com/SaltCJ)
 - [Mohamed Ismail Gasmi]()
+- [Varshith Adithya](https://github.com/kv-adithya) 
 - [Brandon McHugh](https://github.com/brandmch)
 - [Holmes M](https://github.com/Sher69-mycroft)
 - [Aaditya Srivastava](https://github.com/frozenxnx)
