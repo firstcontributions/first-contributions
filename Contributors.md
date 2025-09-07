@@ -122,6 +122,7 @@ sdumini
   [Tejas fulumbarkar]
 - [Maroof Khan](https://github.com/khanmaroof)
 - [Boruotez](https://github.com/borutoez)
+- [Revathi V](https://github.com/DragonFruitCookie)
 - [Sharjeel Ahmed Siddiqui]
 - [Sinbad Adjuik](https://github.com/synnbad)
 - [Padmanabha Das](https://github.com/chayan-1906)
