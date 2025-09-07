@@ -2,6 +2,7 @@
 # Contributors
 -[Mahdi masoumi](https://github.com/Mahdi-masoumi)
 -[Nisha S](https://github.com/Nisha789)
+-[Rehan Ahmed](https://github.com/rehan6025)
 -[Minerva Shen](https://github.com/mshen05)
 -[Mohammed Salem](https://github.com/mohamedsalem21v)
 -[Charles Wang](https://github.com/CharlesWangSA)
@@ -47,10 +48,12 @@
 - Vivek Gupta
 - bimo105108
 - DKshetry
+- [Vedanth](https://github.com/Vedanth81106)
 - [Diogo Ferreira](https://github.com/fdiogo1)
 -[Hakimo abdikadir](https://github.com/hikmaladan)
 - [Jason Wiggs](https://github.com/wiggs30)
 - [Ernesto Donado](https://github.com/edonado2)
+- [Jack Crampton] (https://github.com/Gamesscow)
 - [Dhruv sawant]
 - [SungHo.You]
 - [lucas](https://github.com/Luc-as)
@@ -184,6 +187,7 @@ sdumini
 - [Hayato Katagiri](https://github.com/hayatokatagiri)
 - [PandaDev0069](https://github.com/PandaDev0069)
 - [Tony J.](https://github.com/t0nebone)
+- [Resham]
 - [Yarno Grenier](https://github.com/yarno97x)
 - [Alaqmar Electricwala](https://github.com/AlaqmarElectricwala)
 - [Sanjeev](Grabbing oppurtunities flawlessly)
@@ -600,6 +604,7 @@ LIUYY到此一游
 - [Ankith Kini](https://github.com/ANKITH33)
 - [Chamesh Dinuka](https://github.com/chamesh2019)
 - [Shivam Pandya] 
+" DEBBIE !)" 
 - [Syed Naveeed Mohammed](https://github.com/SyedNaveedM)
 - [Ales Urankar](https://github.com/alesurankar)
 - [Krrish](https://github.com/venom827).
@@ -2609,3 +2614,5 @@ abc
 -[M3MONs](https://github.com/M3MONs)
 - [Sarthak Chafle](https://github.com/sarthakchafle)
 - [Maksat Annageldiyev](https://github.com/M4x4T)
+- [Amit Yadav](https://github.com/AYadav06)
+- [Ivan Lee]
