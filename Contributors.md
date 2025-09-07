@@ -76,6 +76,7 @@
 - santiago robles
 - adasrh yadav
 - Debanjan Kshetry
+- Lokesh Malik (https://github.com/Lucky-Malik)
 - [Mohd Suhaib Siddiqui] (https://github.com/Suhaib-Sid)
 - [Justslugard] (https://github.com/Justslugard)
 - [Kanishka Raisania] (https://github.com/kanishka-raisania)
