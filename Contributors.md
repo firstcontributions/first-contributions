@@ -3,6 +3,7 @@ BinhTran2k4
 -[Mahdi masoumi](https://github.com/Mahdi-masoumi)
 -[Rehan Ahmed](https://github.com/rehan6025)
 -[Akhil Balthi](https://github.com/akhilrocz)
+-[Mufti Bin Habib](https://github.com/MuftiBinHabib)
 -[Minerva Shen](https://github.com/mshen05)
 -[Mohammed Salem](https://github.com/mohamedsalem21v)
 -[Charles Wang](https://github.com/CharlesWangSA)
