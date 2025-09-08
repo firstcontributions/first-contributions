@@ -23,6 +23,7 @@ BinhTran2k4
 -[Vignesh Ambaykar](https://github.com/Vignesh0408)
 -[Amrita Shrivastava](https://github.com/Astro-naut)
 -[Gangadevi]
+-[Rishi](https://github.com/Rishi-Repos)
 -[Wolf-Root](https://github.com/Wolf-Root)
 -[Nguyễn Quốc Vỹ - 226148 - 57]
 -[Krish Savaliya](https://github.com/Krishsavaliya)
