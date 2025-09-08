@@ -2523,7 +2523,7 @@ sh0uka
 - [Hashim Iqbal](https://github.com/Haz-ctrl)
 - [Thoriq Nurathif Fadhlullah Wajo](https://github.com/thorixrover)
 - [Peter Li](https://github.com/kalokli8)
-- [Tejas T M] (https://github.com/tejastm75job-web)
+- [Tejas T M](https://github.com/tejastm75job-web)
 - [Tejas T.M 🎉](https://github.com/tejastm75job-web)
 - [Joel varghese](https://github.com/joelvarghese6)
 - [Chandrabali Biswas](https://github.com/cb-04)
@@ -2652,6 +2652,7 @@ DanyLeeCS
 - [Radhakrishan](https://github.com/rkdevx)
 - [Benjamin Robert](https://github.com/BenjaminRobert0702)
 - [Mohamad Soleh](https://github.com/leimportant)
-- [Arsh Vhora] (https://github.com/ARSH871-bot)
-- [Shin Yunsu] (https://github.com/shin-yunsu)
+- [Arsh Vhora](https://github.com/ARSH871-bot)
+- [Shin Yunsu](https://github.com/shin-yunsu)
 - [Mladen]
+- [Thiago Fazollo](https://github.com/th1gaz)
