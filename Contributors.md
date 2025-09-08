@@ -2650,4 +2650,5 @@ DanyLeeCS
 - [Benjamin Robert](https://github.com/BenjaminRobert0702)
 - [Mohamad Soleh](https://github.com/leimportant)
 - [Arsh Vhora] (https://github.com/ARSH871-bot)
+- [Shin Yunsu] (https://github.com/shin-yunsu)
 - [Mladen]
