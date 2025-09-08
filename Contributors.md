@@ -2667,3 +2667,4 @@ DanyLeeCS
 - [Shin Yunsu] (https://github.com/shin-yunsu)
 - [Mladen]
 - [denverdelamasa](https://github.com/denverdelamasa)
+- [Briget](https://github.com/b-ts-o)
