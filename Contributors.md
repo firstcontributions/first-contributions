@@ -193,6 +193,7 @@ sdumini
 - [1983730774]
 - [원세영](https://github.com/seyoung5744)
 - [Jacques Antoine]
+- [SQDEL]
 - [Plexton](https://github.com/ZaibLComrade)
 - [knlklabacka]
 - [Vitor Gabriel](https://github.com/VituuDias)
@@ -234,8 +235,8 @@ sdumini
 -[Daniel Velez](https://github.com/Daniel1000c)
 - [Martin-Perfumo] (https://github.com/MartinPerfumo) 
  [Nakshathra](https://github.com/Nakshathra-17S)
- naveen-branch-first-contribution
- NMAKHIJA- Test Contribution
+  naveen-branch-first-contribution
+  NMAKHIJA- Test Contribution
 - [Naveen Kumar](https://github.com/RowthuNaveenKumar)
 [Devansh Kapoor](https://github.com/Devansh2208)
 - [Kashif Kawsar Qadri](https://github.com/KashifQadri90)
