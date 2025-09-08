@@ -2362,6 +2362,7 @@ Cloudman
 - [Kori Kosmos](https://github.com/KoriKosmos).
 ElkaFi - first contribution practice
 jack - first contribution practice
+- [Philip Price](https://github.com/philipjprice')
 [Shristhi Singh](https://github.com/shristhi-2908).
 - [Viktor Kozlovskyi](https://github.com/Vitia10)
 [Rahman Karim](https://github.com/Rahmankarim)
