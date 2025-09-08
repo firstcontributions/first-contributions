@@ -2,6 +2,7 @@
 -[Layla (https://github.com/laylaSwift) 
 BinhTran2k4
 # Contributors
+-[Abhiraj Aryan (https://github.com/Abhiraj36)]
 -[Tharunchary Kashivajjala](https://github.com/Tharunchary05)
 -[MD. Nayeem Islam](https://github.com/me-nayeem)
 -[Dhrumil Bhut](https://github.com/dhrumilbhut)
