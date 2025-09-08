@@ -293,6 +293,7 @@ sdumini
 - [Veysel Yatkın](https://github.com/veysel2020)
 - [LionEY] (https://github.com/LionEYm)
 - [Naveen C](https://github.com/naveench98)
+- [Siyabonga Dlikilili](https://github.com/Multimabo)
 - [rainhuang0220](https://github.com/rainhuang0220)
 - [SSA](https://github.com/sshnag)
 - [GiantPrince](https://github.com/GiantPrince)
