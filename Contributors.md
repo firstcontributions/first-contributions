@@ -2,6 +2,7 @@
 -[Layla (https://github.com/laylaSwift) 
 BinhTran2k4
 # Contributors
+-[AMol (https://github.com/Abhiraj36)]
 -[Abhiraj Aryan (https://github.com/Abhiraj36)]
 -[Krittika Biswas](https://github.com/krittikabiswas)
 -[Tharunchary Kashivajjala](https://github.com/Tharunchary05)
