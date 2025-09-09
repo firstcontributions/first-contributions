@@ -2573,6 +2573,7 @@ sh0uka
 - [Antonio Souza](https://github.com/arferreira)
 - [Prashant Chavan](https://github.com/prashant-chava)
 - [Takahashi Keiko](https://github.com/keik0t92127)
+- [Edwin Cruz Villalba](https://github.com/edwbcruzv)
 - [Student00](https://github.com/keik0t92127)
 - [Ramaharisoa Tokiniaina](https://github.com/Toky20)
 - [paprotox]
