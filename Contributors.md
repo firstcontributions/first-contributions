@@ -2689,6 +2689,7 @@ DanyLeeCS
 - [denverdelamasa](https://github.com/denverdelamasa)
 - [Briget](https://github.com/b-ts-o)
 - [Bitblossom2]
+- [simnio]
 - [RaymundoZa] https://github.com/RaymundoZa
 - [Shivam Gujar](https://github.com/CodebyShiv)
 -[Aarpeet Chandrasekhar](https://github.com/Aarpeet)
