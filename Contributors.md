@@ -16,6 +16,7 @@ BinhTran2k4
 -[Mahdi masoumi](https://github.com/Mahdi-masoumi)
 -[Alexa Aguilar](https://github.com/alexaaguilar10)
 -[Jeff Kamau](https://github.com/JEFFHONTEZ)
+ [Olusegun Feyisetan](https://github.com/segun4alx)
 -[Arun koshika](https://github.com/koshikaVarun)
 -[Rehan Ahmed](https://github.com/rehan6025)
 -[Akhil Balthi](https://github.com/akhilrocz)
