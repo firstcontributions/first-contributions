@@ -3,10 +3,12 @@
 BinhTran2k4
 # Contributors
 -[AMol (https://github.com/Abhiraj36)]
+-[Harish Nemade (https://github.com/harishnemade100)]
 -[Abhiraj Aryan (https://github.com/Abhiraj36)]
 -[Krittika Biswas](https://github.com/krittikabiswas)
 -[Tharunchary Kashivajjala](https://github.com/Tharunchary05)
 -[MD. Nayeem Islam](https://github.com/me-nayeem)
+- [qlsl1198](https://github.com/qlsl1198)
 -[Dhrumil Bhut](https://github.com/dhrumilbhut)
 -[Akhilesh Kotwal](https://github.com/AkhileshKotwal7)
 -[Aashu](https://github.com/ashu273k)
@@ -14,6 +16,7 @@ BinhTran2k4
 -[Mahdi masoumi](https://github.com/Mahdi-masoumi)
 -[Alexa Aguilar](https://github.com/alexaaguilar10)
 -[Jeff Kamau](https://github.com/JEFFHONTEZ)
+ [Olusegun Feyisetan](https://github.com/segun4alx)
 -[Arun koshika](https://github.com/koshikaVarun)
 -[Rehan Ahmed](https://github.com/rehan6025)
 -[Akhil Balthi](https://github.com/akhilrocz)
@@ -41,12 +44,14 @@ BinhTran2k4
 -[Le Truong Hai]
 -[Gurleen Kaur Bali](https://github.com/gurleenkaurbali19)
 -[Huynh Phuoc Hien](https://github.com/Phuochien121)
+-[Swarna](https://github.com/Swarna-N-T)
 -[sriram rasamala](https://github.com/sriram-rasamala7)
 -[Leandro Reis](https://github.com/leandro-01)
 -[Vishal Perla](https://github.com/Vishal-Perla)
 -Isabella Ramirez E.
 
 -[Ayushii](https://github.com/Skiee9/Streamify)
+-[Karthik Balasubramanian](https://github.com/karthik-bsubramanian)
 
 -[Akash](https://github.com/Akash-code-0-1)
 -[Ryu](https://github.com/wrryu528-wq)
@@ -85,6 +90,7 @@ BinhTran2k4
 - [Xephyronix](https://github.com/Xephyronix)
 - [Anurag]<--
 - [Chris Emmah](https://github.com/christhestormborn/first-contributions.git)
+- [Amith B V](https://github.com/AmithBV0606)
 - [Abhik](https://github.com/AO811)
 - [Umut Hasanoglu](https://github.com/UmutHasanoglu)
 - [Ekak Basu](https://github.com/ebro125)
@@ -177,6 +183,7 @@ sdumini
 - [Zuzanna Pilat](https://github.com/Pilat11)
 - [Dibyajeet](https://github.com/djisgoat)
 - [Farmata Kane](https://github.com/miiswom)
+- [Zachary Collins](https://github.com/zacharym-collins)
 - [Elvis Adames](https://github.com/Layomx)
 - [Shiva Kumar](https://github.com/shivakumar04)
 - [Meg Hiatt](https://github.com/hiatt8649)
@@ -217,6 +224,7 @@ sdumini
 - [mfg5160]
 - [Hayato Katagiri](https://github.com/hayatokatagiri)
 - [PandaDev0069](https://github.com/PandaDev0069)
+- [Carlota Castelltort Pinto](https://github.com/CCastelltort)
 - [Tony J.](https://github.com/t0nebone)
 - [Resham]
 - [Yarno Grenier](https://github.com/yarno97x)
@@ -229,6 +237,7 @@ sdumini
 - [Gokul](https://github.com/Gokul-S-dev)
 - [Cole Schnell](https://github.com/coleschnell)
 - [Bhavya](https://github.com/bhavya-l)
+- [Fabio Mingione](https://github.com/FabMin94)
 - [Milan Bhanushali] (https://github.com/milanbhanushali)
 - [Nicholas Calvert](https://github.com/nicholascalvert85)
 - [ajit](https://github.com/ajitprachande)
@@ -606,6 +615,7 @@ LIUYY到此一游
 - ayfayfayf
 - Farsat
 - yiw1213
+- FunkyClonk
 - [Piyush](https://github.com/sloppysaint)
 - [Farman Ali](https://github.com/farman-cloud)
 - [Praneeth](https://github.com/praneethem)
@@ -1337,6 +1347,7 @@ Eoin O'B
 - [joelinux60](https://github.com/joelinux60)
 - [Zemenu Mekuria](https://github.com/Teklez)
 - [Kimjunseoo](https://github.com/kimjunseoo)
+- [utkarsh007007](https://github.com/utkarsh007007)
 - [smandadhi9](https://github.com/smandadhi9)
 - [Starkcover](https://github.com/Starkcover)
 - [Musbi8788](https://github.com/Musbi8788)
@@ -2652,6 +2663,7 @@ DanyLeeCS
 - [swjjeong](https://github.com/swjjeong)
 - [vietan0](https://github.com/vietan0)
 - [RockStar]
+- [Tjark Wichmann](https://github.com/tjarkwichmann)
 - [Lucy]
 - [Tejas Chopade](https://github.com/Tejas9777)
 - [Apoorv Bedmutha](https://github.com/bedmuthaapoorv)
@@ -2678,3 +2690,8 @@ DanyLeeCS
 - [Briget](https://github.com/b-ts-o)
 - [Bitblossom2]
 - [simnio]
+- [RaymundoZa] https://github.com/RaymundoZa
+- [Shivam Gujar](https://github.com/CodebyShiv)
+-[Aarpeet Chandrasekhar](https://github.com/Aarpeet)
+- [Venkatesan M](https://github.com/venkyslm)
+- [George Souriadakis](https://github.com/gsouriadakis)
