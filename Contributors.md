@@ -44,6 +44,7 @@ BinhTran2k4
 -[Le Truong Hai]
 -[Gurleen Kaur Bali](https://github.com/gurleenkaurbali19)
 -[Huynh Phuoc Hien](https://github.com/Phuochien121)
+-[Swarna](https://github.com/Swarna-N-T)
 -[sriram rasamala](https://github.com/sriram-rasamala7)
 -[Leandro Reis](https://github.com/leandro-01)
 -[Vishal Perla](https://github.com/Vishal-Perla)
@@ -223,6 +224,7 @@ sdumini
 - [mfg5160]
 - [Hayato Katagiri](https://github.com/hayatokatagiri)
 - [PandaDev0069](https://github.com/PandaDev0069)
+- [Carlota Castelltort Pinto](https://github.com/CCastelltort)
 - [Tony J.](https://github.com/t0nebone)
 - [Resham]
 - [Yarno Grenier](https://github.com/yarno97x)
@@ -2687,8 +2689,10 @@ DanyLeeCS
 - [denverdelamasa](https://github.com/denverdelamasa)
 - [Briget](https://github.com/b-ts-o)
 - [Bitblossom2]
+- [simnio]
 - [RaymundoZa] https://github.com/RaymundoZa
 - [Shivam Gujar](https://github.com/CodebyShiv)
 -[Aarpeet Chandrasekhar](https://github.com/Aarpeet)
 - [Venkatesan M](https://github.com/venkyslm)
 - [Jackai](https://github.com/sdkai0513)
+- [George Souriadakis](https://github.com/gsouriadakis)
