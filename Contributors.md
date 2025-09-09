@@ -178,6 +178,7 @@ sdumini
 - [Zuzanna Pilat](https://github.com/Pilat11)
 - [Dibyajeet](https://github.com/djisgoat)
 - [Farmata Kane](https://github.com/miiswom)
+- [Zachary Collins](https://github.com/zacharym-collins)
 - [Elvis Adames](https://github.com/Layomx)
 - [Shiva Kumar](https://github.com/shivakumar04)
 - [Meg Hiatt](https://github.com/hiatt8649)
