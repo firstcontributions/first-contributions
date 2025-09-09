@@ -85,6 +85,7 @@ BinhTran2k4
 - [Xephyronix](https://github.com/Xephyronix)
 - [Anurag]<--
 - [Chris Emmah](https://github.com/christhestormborn/first-contributions.git)
+- [Amith B V](https://github.com/AmithBV0606)
 - [Abhik](https://github.com/AO811)
 - [Umut Hasanoglu](https://github.com/UmutHasanoglu)
 - [Ekak Basu](https://github.com/ebro125)
