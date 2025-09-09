@@ -10,6 +10,7 @@ BinhTran2k4
 -[Akhilesh Kotwal](https://github.com/AkhileshKotwal7)
 -[Aashu](https://github.com/ashu273k)
 -[Mahdi masoumi](https://github.com/Mahdi-masoumi)
+-[Alexa Aguilar](https://github.com/alexaaguilar10)
 -[Jeff Kamau](https://github.com/JEFFHONTEZ)
 -[Arun koshika](https://github.com/koshikaVarun)
 -[Rehan Ahmed](https://github.com/rehan6025)
