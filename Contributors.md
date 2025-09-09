@@ -234,6 +234,7 @@ sdumini
 - [Gokul](https://github.com/Gokul-S-dev)
 - [Cole Schnell](https://github.com/coleschnell)
 - [Bhavya](https://github.com/bhavya-l)
+- [Fabio Mingione](https://github.com/FabMin94)
 - [Milan Bhanushali] (https://github.com/milanbhanushali)
 - [Nicholas Calvert](https://github.com/nicholascalvert85)
 - [ajit](https://github.com/ajitprachande)
