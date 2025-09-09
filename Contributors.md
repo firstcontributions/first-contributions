@@ -30,6 +30,7 @@ BinhTran2k4
 -[Ahmed Faraj](https://github.com/Ahmad-Faraj)
 -[Vignesh Ambaykar](https://github.com/Vignesh0408)
 -[Amrita Shrivastava](https://github.com/Astro-naut)
+-[Alex Bogden](https://github.com/AlexBogden)
 -[Gangadevi]
 -[Rishi](https://github.com/Rishi-Repos)
 -[Wolf-Root](https://github.com/Wolf-Root)
