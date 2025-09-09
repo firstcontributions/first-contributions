@@ -47,6 +47,7 @@ BinhTran2k4
 -Isabella Ramirez E.
 
 -[Ayushii](https://github.com/Skiee9/Streamify)
+-[Karthik Balasubramanian](https://github.com/karthik-bsubramanian)
 
 -[Akash](https://github.com/Akash-code-0-1)
 -[Ryu](https://github.com/wrryu528-wq)
