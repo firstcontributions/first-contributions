@@ -4,7 +4,6 @@
 -[Ashar-Khalid](https://github.com/Ashar-Khalid) - This is my first contribution but its not going to be my last. My contributions will make an impact one day (July 25, 2025).
 - Abdugofurov Behruzbek
 []# Contributors
-- [jeeracd] (https://github.com/jeeracd) - Hello, this is my first github contribution. (September 09, 2025)
 - Sathwik - Hello!, 10 years later me, this is your first open source contribution. (July 25, 2025)
 - [Kiran S](https://github.com/6carbon12) - Journey beigns... (July 26, 2025)
 - [Dly](https://github.com/Dly27) - i was here (24/07/25)
@@ -593,6 +592,7 @@ I'm doing some minor changes for practice.
 - Hii Everyone, My name is Hariom Pandey 
 - [Lavkush] (https://github.com/Lavkush24) Frist dive in the world of Open source on 19/06/2025!
 Achal Agrawal
+- [jeeracd] (https://github.com/jeeracd) First Github contribution - September 09, 2025
 - [Julian Müller] (https://github.com/julianmllr) für fortnite
 - [Stephen C] (https://github.com/SCor87) Finally fixed my SSH key issue and making this a first contribution. First of many, I hope!
 - [Beatriz Gonçalves](https://github.com/beatrizvsgoncalves)
