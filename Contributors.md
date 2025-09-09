@@ -43,6 +43,7 @@ BinhTran2k4
 -[Rami Walid]
 -[Boyloytt]
 -[Le Truong Hai]
+-[Bhaskar Joyti Mitra](https://github.com/sentientsonograph)
 -[Gurleen Kaur Bali](https://github.com/gurleenkaurbali19)
 -[Huynh Phuoc Hien](https://github.com/Phuochien121)
 -[Swarna](https://github.com/Swarna-N-T)
