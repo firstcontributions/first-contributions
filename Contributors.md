@@ -997,6 +997,7 @@ Ben
 - [Evan Rhea](https://github.com/MegaSF)
 - [Vitvin](https://github.com/vitvinvaz)
 - [Enzo](https://github.com/FRAIOLIenzo)
+- [Qorvil](https://github.com/Qorvil)
 - [JosephAlexander](https://github.com/Josephalexander06)
 - [Walter](https:://github.com/walter1705)
 - [Nitish](https://github.com/NK2552003)
