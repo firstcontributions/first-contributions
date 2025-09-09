@@ -607,6 +607,7 @@ LIUYY到此一游
 - ayfayfayf
 - Farsat
 - yiw1213
+- FunkyClonk
 - [Piyush](https://github.com/sloppysaint)
 - [Farman Ali](https://github.com/farman-cloud)
 - [Praneeth](https://github.com/praneethem)
