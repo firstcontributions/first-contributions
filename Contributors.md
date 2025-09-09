@@ -2677,3 +2677,4 @@ DanyLeeCS
 - [denverdelamasa](https://github.com/denverdelamasa)
 - [Briget](https://github.com/b-ts-o)
 - [Bitblossom2]
+- [simnio]
