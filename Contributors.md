@@ -2,6 +2,8 @@
 -[Layla (https://github.com/laylaSwift) 
 BinhTran2k4
 # Contributors
+-[Madhav Sharma](https://github.com/Madhav-Pro)
+-[Himanshu Bhardwaj](https://github.com/bprince203)
 -[AMol (https://github.com/Abhiraj36)]
 -[Harish Nemade (https://github.com/harishnemade100)]
 -[Abhiraj Aryan (https://github.com/Abhiraj36)]
@@ -16,6 +18,7 @@ BinhTran2k4
 -[Mahdi masoumi](https://github.com/Mahdi-masoumi)
 -[Alexa Aguilar](https://github.com/alexaaguilar10)
 -[Jeff Kamau](https://github.com/JEFFHONTEZ)
+-[Kasper Veliz](https://github.com/KasperVeliz)
  [Olusegun Feyisetan](https://github.com/segun4alx)
 -[Arun koshika](https://github.com/koshikaVarun)
 -[Rehan Ahmed](https://github.com/rehan6025)
@@ -30,7 +33,9 @@ BinhTran2k4
 -[Ahmed Faraj](https://github.com/Ahmad-Faraj)
 -[Vignesh Ambaykar](https://github.com/Vignesh0408)
 -[Amrita Shrivastava](https://github.com/Astro-naut)
+-[Alex Bogden](https://github.com/AlexBogden)
 -[Gangadevi]
+-[Akshat Baranwal](https://github.com/Akshat1931)
 -[Rishi](https://github.com/Rishi-Repos)
 -[Wolf-Root](https://github.com/Wolf-Root)
 -[Nguyễn Quốc Vỹ - 226148 - 57]
@@ -42,6 +47,7 @@ BinhTran2k4
 -[Rami Walid]
 -[Boyloytt]
 -[Le Truong Hai]
+-[Bhaskar Joyti Mitra](https://github.com/sentientsonograph)
 -[Gurleen Kaur Bali](https://github.com/gurleenkaurbali19)
 -[Huynh Phuoc Hien](https://github.com/Phuochien121)
 -[Swarna](https://github.com/Swarna-N-T)
@@ -59,6 +65,7 @@ BinhTran2k4
 - [Pradhyumn](https://github.com/Pradhyumn-24)
 - [EtharAlashri](https://github.com/etharalashri)
 -Merala Archana
+-Karthik H
 -[EmmaCahu]
 - [Sumit Pandey](https://github.com/5umitpandey)
 - [Sneha Gadekarla] (https://github.com/SnehaG100)
@@ -192,6 +199,7 @@ sdumini
 - [Mohammad A](https://github.com/c000005)
 - [Pranay Gurav](https://github.com/cwpranay)
 - [Martin Estrada Agudelo]
+- [Nolan Carlisle](https://github.com/NCarlisle24)
 - [Shivam Shandilya](https://github.com/shivamshandilya2100)
 - [Hoang Viet Nguyen](https://github.com/hoangviet-nguyen)
 - [Meet Shah](https://github.com/Meet6338-X)
@@ -224,6 +232,7 @@ sdumini
 - [mfg5160]
 - [Hayato Katagiri](https://github.com/hayatokatagiri)
 - [PandaDev0069](https://github.com/PandaDev0069)
+- [Jayasree G Kalkura](https://github.com/jayasree1805)
 - [Carlota Castelltort Pinto](https://github.com/CCastelltort)
 - [Tony J.](https://github.com/t0nebone)
 - [Resham]
@@ -277,6 +286,7 @@ sdumini
 - [Sumit Sourav](https://github.com/souravsumit07)
 [TML](https://github.com/TinMoeLwin007)
 - [Tonny Nyauke]
+- [gcgc]
 -[Shaswata Panda]
 -[Michael Rockefeller](https://github.com/rockefelm)
 -[Syaiful Yudha Platoteles](https://github.com/Platotel3s)
@@ -1014,6 +1024,7 @@ Ben
 - [Evan Rhea](https://github.com/MegaSF)
 - [Vitvin](https://github.com/vitvinvaz)
 - [Enzo](https://github.com/FRAIOLIenzo)
+- [Qorvil](https://github.com/Qorvil)
 - [JosephAlexander](https://github.com/Josephalexander06)
 - [Walter](https:://github.com/walter1705)
 - [Nitish](https://github.com/NK2552003)
@@ -1098,6 +1109,7 @@ Ben
 - [bivekk51](https://github.com/bivekk51)
 - [barkinke](https://github.com/barkinke)
 - [DarKouto](https://github.com/DarKouto)
+-Josselin
 - [Laura Clarisa A] (https://github.com/clarilaur)
 - [hey bro](https://github.com/heybro123)
 - [Asif Iqbal](https://github.com/rvasif)
@@ -2666,6 +2678,7 @@ DanyLeeCS
 - [Tjark Wichmann](https://github.com/tjarkwichmann)
 - [Lucy]
 - [Tejas Chopade](https://github.com/Tejas9777)
+- [Anushka Wable](https://github.com/anushka-sys)
 - [Apoorv Bedmutha](https://github.com/bedmuthaapoorv)
 - [Satyam Aengandul](https://github.com/satyamit)
 - [Candice](https://github.com/c-candice)
@@ -2697,3 +2710,5 @@ DanyLeeCS
 - [Jackai](https://github.com/sdkai0513)
 - [George Souriadakis](https://github.com/gsouriadakis)
 - [Demagalawrence](https://github.com/Demagalawrence)
+- [Miguel Angel](https://github.com/first-contributions)
+
