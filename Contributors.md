@@ -137,7 +137,7 @@ sdumini
 - [one small step for humanity]
 - [Amelia Ali]
 - [Franklyn Omoregie]
-
+- [Acanthus]
 - [Ahmed Sabbak]
 - [Blipie]
 - [bugOpsX] (https://github.com/bugOpsX)
