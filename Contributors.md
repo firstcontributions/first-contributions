@@ -2148,6 +2148,7 @@ Cloudman
 - [X3R074](My first contribution: https://github.com/X3R074)
 - [Silviya Kolchakova](https://github.com/SilviyaKolchakova)
 - [Suresh Jagannadham](https://github.com/sureshjagannadham)
+- [Gal Levin](https://github.com/GalLevin239)
 - gadalova
 - [Yeaabsra Ashebir (tech nerd)](https://github.com/yeabnoah)
 - [gabecodessometimes](https://github.com/gabecodessometimes)
