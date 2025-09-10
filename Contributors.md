@@ -215,6 +215,7 @@ sdumini
 - [Jordan James](https://github.com/JordanJamesJA)
 - [Mohammad A](https://github.com/c000005)
 - [Pranay Gurav](https://github.com/cwpranay)
+- [Naveen Tadaka](https://github.com/Naein19)
 - [Martin Estrada Agudelo]
 - [Nolan Carlisle](https://github.com/NCarlisle24)
 - [Shivam Shandilya](https://github.com/shivamshandilya2100)
