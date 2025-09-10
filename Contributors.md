@@ -571,6 +571,7 @@ LIUYY到此一游
 - [Pierre](https://github.com/wiizzl)
 - [Joao Victor B C 🥶](https://github.com/dev-joaovb)
 - [Jo](https://github.com/BeanboxNZ)
+- [Piotr "Peanut Bielański](https://github.com/BigPeanutFromStudio)
 - [Jainil Desai](https://github.com/jainilDesai)
 - [jkm31459](https://github.com/jkm31459)
 - [axby1](https://github.com/axby1)
