@@ -1631,6 +1631,7 @@ Eoin O'B
 - [Daniel Molina](https://github.com/molinafm30)
 - [Josmer Rodriguez](https://github.com/Josmerr)
 - [Felix Morara](https://github.com/felixmorara)
+- [Felix Lee](https://github.com/XilefEel)
 - [Shashwat Anand](https://github.com/Sushiii07)
 - [Guru Krithick](https://github.com/guru-krithick)
 - [Parker Crook](https://github.com/parkercrook)
