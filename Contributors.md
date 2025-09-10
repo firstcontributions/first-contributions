@@ -287,6 +287,7 @@ sdumini
 -[Goutham Krishna](https://github.com/gouthamkrishnae)
 - [Chijioke Madu](https://github.com/SaltCJ)
 - [Mohamed Ismail Gasmi]()
+-[Bikash Barua](https://github.com/bikashbarua)
 - [Varshith Adithya](https://github.com/kv-adithya) 
 - [Brandon McHugh](https://github.com/brandmch)
 - [Carlos FH](https://github.com/carlosfhz13)
