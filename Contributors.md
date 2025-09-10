@@ -2693,6 +2693,7 @@ DanyLeeCS
 - [RockStar]
 - [Tjark Wichmann](https://github.com/tjarkwichmann)
 - [Lucy]
+- [saideep](https://github.com/saideep-21)
 - [Tejas Chopade](https://github.com/Tejas9777)
 - [Anushka Wable](https://github.com/anushka-sys)
 - [Apoorv Bedmutha](https://github.com/bedmuthaapoorv)
