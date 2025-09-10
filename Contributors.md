@@ -31,6 +31,7 @@ BinhTran2k4
 -[Return Coder](https://github.com/nankam123)
 -[Akhil Balthi](https://github.com/akhilrocz)
 -[Apheksha B](https://github.com/apheksha)
+-[Ajay Kumar Dhakar](https://github.com/ajaydhaked)
 -[Mufti Bin Habib](https://github.com/MuftiBinHabib)
 -[Minerva Shen](https://github.com/mshen05)
 -[Mohammed Salem](https://github.com/mohamedsalem21v)
@@ -215,6 +216,7 @@ sdumini
 - [Jordan James](https://github.com/JordanJamesJA)
 - [Mohammad A](https://github.com/c000005)
 - [Pranay Gurav](https://github.com/cwpranay)
+- [Naveen Tadaka](https://github.com/Naein19)
 - [Martin Estrada Agudelo]
 - [Nolan Carlisle](https://github.com/NCarlisle24)
 - [Shivam Shandilya](https://github.com/shivamshandilya2100)
