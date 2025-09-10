@@ -2614,6 +2614,7 @@ sh0uka
 - [Purolinho](https://github.com/Purolinho)
 - [North](https://github.com/North-M)
 - [iason-019](https://github.com/iason-019)
+- [Jason Joannou](https://github.com/Jason-Joannou)
 - [treeleaves30760](https://github.com/treeleaves30760)
 - [Carsoneee](https://github.com/Carsoneee)
 - [romeopopescu](https://github.com/romeopopescu)
