@@ -97,6 +97,7 @@ BinhTran2k4
 - [Jason Wiggs](https://github.com/wiggs30)
 - [Ernesto Donado](https://github.com/edonado2)
 - [Preetham Noel P]
+- [Leonardo Queirolo](https://github.com/queiroll)
 - [Jack Crampton] (https://github.com/Gamesscow)
 - [Dhruv sawant]
 - [SungHo.You]
