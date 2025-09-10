@@ -2588,4 +2588,4 @@ BinhTran2k4
 - [mikuros](https://github.com/mikuros)
 - [Math1029](https://github.com/Math1029)
 - [Rahul Bhargava](https://github.com/rahul0299)
-- [Adithya](https://github.com/Adithya0010)
+- [Adithya Adi](https://github.com/Adithya0010)
