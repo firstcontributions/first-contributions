@@ -46,6 +46,7 @@ BinhTran2k4
 -[Majora94]
 -[Poorvinfi]
 -[Tran Minh Khang](https://github.com/khang220495-rgb)
+-[Nguyen Thanh](https://github.com/Whotao89)
 -[Nguyen Quoc Tinh]
 -[Rami Walid]
 -[Boyloytt]
