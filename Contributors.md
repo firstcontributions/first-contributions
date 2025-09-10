@@ -2,6 +2,7 @@
 -[Layla (https://github.com/laylaSwift) 
 BinhTran2k4
 # Contributors
+-[David devmanki](https://github.com/davamanki)
 -[Akhilesh Kotwal](https://github.com/AkhileshKotwal7)
 -[Mahdi masoumi](https://github.com/Mahdi-masoumi)
 -[Jeff Kamau](https://github.com/JEFFHONTEZ)
