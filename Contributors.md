@@ -2,6 +2,7 @@
 -[Layla (https://github.com/laylaSwift) 
 BinhTran2k4
 # Contributors
+-[David devmanki](https://github.com/davamanki)
 -[Mevin JR] (https://github.com/Mevin-JR)
 -[Amol](https://github.com/03amol)
 -[Hyunhee Jo](https://github.com/hnc-hyunheejo)
