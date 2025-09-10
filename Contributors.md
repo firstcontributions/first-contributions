@@ -34,6 +34,7 @@ BinhTran2k4
 -[Alan Duff](https://github.com/alankduff)
 -[Jeevanandham D](github.com/jeevanandhamd23)
 -[Ahmed Faraj](https://github.com/Ahmad-Faraj)
+-[Daksh Amalseda](https://github.com/HITMAN5050)
 -[Vignesh Ambaykar](https://github.com/Vignesh0408)
 -[Amrita Shrivastava](https://github.com/Astro-naut)
 -[Alex Bogden](https://github.com/AlexBogden)
