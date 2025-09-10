@@ -42,6 +42,7 @@ BinhTran2k4
 -[Amrita Shrivastava](https://github.com/Astro-naut)
 -[Alex Bogden](https://github.com/AlexBogden)
 -[Gangadevi]
+- [James_Harris](https://github.com/jamesharris1307)
 -[Akshat Baranwal](https://github.com/Akshat1931)
 -[Rishi](https://github.com/Rishi-Repos)
 -[Wolf-Root](https://github.com/Wolf-Root)
