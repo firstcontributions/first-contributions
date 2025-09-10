@@ -31,6 +31,7 @@ BinhTran2k4
 -[Return Coder](https://github.com/nankam123)
 -[Akhil Balthi](https://github.com/akhilrocz)
 -[Apheksha B](https://github.com/apheksha)
+-[Ajay Kumar Dhakar](https://github.com/ajaydhaked)
 -[Mufti Bin Habib](https://github.com/MuftiBinHabib)
 -[Minerva Shen](https://github.com/mshen05)
 -[Mohammed Salem](https://github.com/mohamedsalem21v)
@@ -2743,5 +2744,8 @@ DanyLeeCS
 - [Notam456](https://github.com/Notam456)
 [Jhoan Montes](https://github.com/JhoanMontes)
 - [Rey-2525](https://github.com/Rey-2525)
+- [mikuros](https://github.com/mikuros)
 - [Math1029](https://github.com/Math1029)
 - [Bryan Trujillo](https://github.com/btruj)
+- [Rahul Bhargava](https://github.com/rahul0299)
+
