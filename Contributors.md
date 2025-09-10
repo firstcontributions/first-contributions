@@ -9,6 +9,7 @@ BinhTran2k4
 -[Himanshu Bhardwaj](https://github.com/bprince203)
 -[Luke Flaker](https://github.com/lgf33)
 -[AMol (https://github.com/Abhiraj36)]
+-[Mihika (https://github.com/mihika632)]
 -[Harish Nemade (https://github.com/harishnemade100)]
 -[Abhiraj Aryan (https://github.com/Abhiraj36)]
 -[Krittika Biswas](https://github.com/krittikabiswas)
