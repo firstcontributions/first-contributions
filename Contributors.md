@@ -154,7 +154,7 @@ sdumini
 - [one small step for humanity]
 - [Amelia Ali]
 - [Franklyn Omoregie]
-
+- [Preetham U](https://github.com/preetham029/)
 - [Ahmed Sabbak]
 - [Blipie]
 - [bugOpsX] (https://github.com/bugOpsX)
