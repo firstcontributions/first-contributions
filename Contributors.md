@@ -65,6 +65,7 @@ BinhTran2k4
 -[Akash](https://github.com/Akash-code-0-1)
 -[Ryu](https://github.com/wrryu528-wq)
 -[shatha](https://github.com/shathaalrshoudi)
+- [Agwave](https://github.com/agwave)
 - [Pradhyumn](https://github.com/Pradhyumn-24)
 - [EtharAlashri](https://github.com/etharalashri)
 -Merala Archana
