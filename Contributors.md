@@ -66,6 +66,7 @@ BinhTran2k4
 -[Karthik Balasubramanian](https://github.com/karthik-bsubramanian)
 
 -[Akash](https://github.com/Akash-code-0-1)
+-[Soumyajit Paramanick](https://github.com/Soumyajit-Paramanick)
 -[Ryu](https://github.com/wrryu528-wq)
 -[shatha](https://github.com/shathaalrshoudi)
 - [Agwave](https://github.com/agwave)
