@@ -197,6 +197,7 @@ sdumini
 - [turingAround](https://github.com/turingAround)
 - [Ahmed Shabab Noor](https://github.com/ashababnoor)
 - [Endlia](https://github.com/Endlia)
+- [Mun Noor](https://github.com/mun-stack)
 - [casa-code](https://github.com/casa-code)
 - [Zuzanna Pilat](https://github.com/Pilat11)
 - [Dibyajeet](https://github.com/djisgoat)
