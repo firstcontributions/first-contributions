@@ -1649,6 +1649,7 @@ Eoin O'B
 - [Matthieu Bonnot](https://github.com/MrMattam)
 - [Mahmudul Hasan](https://github.com/hmahmudul852)
 - [Gabriel Ripper](https://github.com/gabripper)
+- Daniel
 - [Shivam Mishra](https://github.com/29shivam99)
 - [Alex Thompson](https://github.com/Alex-Inems)
 - [Anand Shende](https://github.com/anandshende)
