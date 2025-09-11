@@ -238,6 +238,7 @@ sdumini
 - [Pranay Gurav](https://github.com/cwpranay)
 - [Naveen Tadaka](https://github.com/Naein19)
 - [Martin Estrada Agudelo]
+- [Sagardeep Das](https://github.com/SDpDas)
 - [Nolan Carlisle](https://github.com/NCarlisle24)
 - [Shivam Shandilya](https://github.com/shivamshandilya2100)
 - [Hoang Viet Nguyen](https://github.com/hoangviet-nguyen)
