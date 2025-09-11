@@ -4,6 +4,7 @@ BinhTran2k4
 # Contributors
 -[David devmanki](https://github.com/davamanki)
 -[Mevin JR] (https://github.com/Mevin-JR)
+-[nick](https://github.com/nickwhill12)
 -[Amol](https://github.com/03amol)
 -[Hyunhee Jo](https://github.com/hnc-hyunheejo)
 -[Madhav Sharma](https://github.com/Madhav-Pro)
