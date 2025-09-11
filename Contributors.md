@@ -168,7 +168,7 @@ sdumini
 - [one small step for humanity]
 - [Amelia Ali]
 - [Franklyn Omoregie]
-
+- [Rebecca Somerville]
 - [Ahmed Sabbak]
 - [Blipie]
 - [bugOpsX] (https://github.com/bugOpsX)
