@@ -66,6 +66,7 @@ samuel KC (https://github.com/samuelkcherian)
 -[Krish Savaliya](https://github.com/Krishsavaliya)
 -[Majora94]
 -[Poorvinfi]
+-[Ram Gupta](https://github.com/RamG222)
 -[Tran Minh Khang](https://github.com/khang220495-rgb)
 -[Nguyen Thanh](https://github.com/Whotao89)
 -[Nguyen Quoc Tinh]
