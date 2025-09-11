@@ -1,8 +1,9 @@
-
--[Layla (https://github.com/laylaSwift) 
-BinhTran2k4
 # Contributors
+
+-[RUDRA TAILOR](https://github.com/RudraTailor)
 -[David devmanki](https://github.com/davamanki)
+-[Layla] (https://github.com/laylaSwift) 
+-BinhTran2k4
 -[Mevin JR] (https://github.com/Mevin-JR)
 -[Amol](https://github.com/03amol)
 -[Hyunhee Jo](https://github.com/hnc-hyunheejo)
