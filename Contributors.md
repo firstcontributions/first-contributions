@@ -270,6 +270,7 @@ sdumini
 - [mfg5160]
 - [Hayato Katagiri](https://github.com/hayatokatagiri)
 - [PandaDev0069](https://github.com/PandaDev0069)
+- [snowmandidi](https://github.com/snowmandidi) 
 - [Jayasree G Kalkura](https://github.com/jayasree1805)
 - [Carlota Castelltort Pinto](https://github.com/CCastelltort)
 - [Tony J.](https://github.com/t0nebone)
