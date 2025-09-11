@@ -2525,6 +2525,7 @@ jack - first contribution practice
 - [John Mixon](https://github.com/mixdev2112)
 - [Aadvika Pandey](https://github.com/Addvika)
 - [goldenbough0](https://github.com/goldenbough0)
+- [samikcay](https://github.com/samikcay)
 - [vivek i s](https://https://github.com/vivek-i-s)
 - [Millicent Convento](https://github.com/mjmconvento)
 - [Mizaan Ur Rehman](https://github.com/miz2)
