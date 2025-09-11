@@ -249,3 +249,18 @@ Now let's get you started with contributing to other projects. We've compiled a 
     <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_horizontal_blue.svg" width="201px">
   </a>
 </p>
+## Demo
+
+Here’s a quick look at how First Contributions works:
+
+### 1. Forking the repository
+![Forking Example](docs/assets/fork.png)
+
+### 2. Cloning to local machine
+![Clone Example](docs/assets/clone.png)
+
+### 3. Making your first contribution
+![Contribution Example](docs/assets/contribute.png)
+
+### 4. Seeing your name in Contributors list 🎉
+![Contributors Example](docs/assets/contributors.png)
