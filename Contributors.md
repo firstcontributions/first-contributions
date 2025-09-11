@@ -2761,3 +2761,5 @@ DanyLeeCS
 - [Rahul Bhargava](https://github.com/rahul0299)
 - [Ethan Senger](https://github.com/E-bosss)
 - [Samuel Cuerrier](https://github.com/SamuelCuerrier01)
+- [Adolfo Lopez Villanueva](https://github.com/LatestStream)
+
