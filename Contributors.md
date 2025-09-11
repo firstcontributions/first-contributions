@@ -1519,6 +1519,7 @@ Eoin O'B
 - [Danyal Ejaz](https://github.com/danyalejaz)
 - [aseel matta](https://github.com/aseelmatta)
 - [Lulu Harvey](https://github.com/luluharvey)
+- [Luiz Augusto](https://github.com/Luizxdas)
 - [Capri Caviedes](https://github.com/caprivm)
 - [Letícia Reche](https://github.com/lereche)
 - [Stelios Gee](https://github.com/SteliosGee)
