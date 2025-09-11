@@ -1108,6 +1108,7 @@ Ben
 - [Ro Shocks](https://github.com/Rshocks)
 - [uzuraDev](https://github.com/uzuraDev)
 - [lepickel](https://github.com/lepickel)
+- [Eric Ijeoma](https://github.com/ericijeoma)
 - [Kent0011](https://github.com/Kent0011)
 - [brainkoko](https://github.com/thanatoast03)
 - [rinujohn](https://github.com/rinujohn)
