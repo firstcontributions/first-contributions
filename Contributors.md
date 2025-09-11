@@ -68,6 +68,7 @@ samuel KC (https://github.com/samuelkcherian)
 -[Rami Walid]
 -[Boyloytt]
 -[Le Truong Hai]
+-[Anna Cheatham]
 -[Bhaskar Joyti Mitra](https://github.com/sentientsonograph)
 -[Gurleen Kaur Bali](https://github.com/gurleenkaurbali19)
 -[Huynh Phuoc Hien](https://github.com/Phuochien121)
