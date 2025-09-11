@@ -249,6 +249,7 @@ sdumini
 - [Pranay Chauhan](https://github.com/Pranay-Chauhn)
 - [Ehsan Shadmehri](https://github.com/ehsansh)
 - [Devin Rand](https://github.com/devinrand)
+- [Jalina Hirushan](https://github.com/jalinah)
 - [Kusuma Narayanaswamy](https://github.com/kusumasuma136-beep)
 - [Brian Yim] (https://github.com/brianyimjh)
 - [Ammar Adil] (https://github.com/AmmarAtNITJSR)
