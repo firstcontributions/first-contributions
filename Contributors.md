@@ -75,7 +75,7 @@ samuel KC (https://github.com/samuelkcherian)
 -[Leandro Reis](https://github.com/leandro-01)
 -[Vishal Perla](https://github.com/Vishal-Perla)
 -Isabella Ramirez E.
-
+-Kaylee Cromwell
 -[Ayushii](https://github.com/Skiee9/Streamify)
 -[Karthik Balasubramanian](https://github.com/karthik-bsubramanian)
 
