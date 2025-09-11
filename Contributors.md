@@ -2764,5 +2764,4 @@ DanyLeeCS
 - [Rahul Bhargava](https://github.com/rahul0299)
 - [Ethan Senger](https://github.com/E-bosss)
 - [Samuel Cuerrier](https://github.com/SamuelCuerrier01)
-- Isidro Marquez
 - [Aryan SHarma](https://github.com/Aryan9832)
