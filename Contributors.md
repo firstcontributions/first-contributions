@@ -25,6 +25,7 @@ samuel KC (https://github.com/samuelkcherian)
 -[Abhiraj Aryan (https://github.com/Abhiraj36)]
 -[Krittika Biswas](https://github.com/krittikabiswas)
 -[Tharunchary Kashivajjala](https://github.com/Tharunchary05)
+- [Sandeep Singh](https://github.com/SANDEEPNEGI07)
 -[MD. Nayeem Islam](https://github.com/me-nayeem)
 - [qlsl1198](https://github.com/qlsl1198)
 -[Zazel Turner(https://gihub.com/zpt4)]
