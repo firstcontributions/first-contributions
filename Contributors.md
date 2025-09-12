@@ -1263,7 +1263,7 @@
 - [PraveenX812](https://github.com/PraveenX812)
 - [Priyanshu](https://github.com/priyanshu5259)
 - [Gafoor Shaik](https://github.com/gafoor-bot)
-- [Kimaya Chavan](https://github.com/kimiko-11) -[shaik arsalan](https://github.com/ShaikArsalan347)
+- [Kimaya Chavan](https://github.com/kimiko-11)
 - [Alejandro Flores](https://github.com/afr-dt)
 - [MatyasZERO](https://github.com/MatyasZERO)
 - [Nemida](https://github.com/Nemida)
