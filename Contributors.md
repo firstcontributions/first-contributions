@@ -2800,6 +2800,7 @@ DanyLeeCS
 - Isidro Marquez
 -[Dinelka Thilina] (https://github.com/dinelkathilina)
 - [Sush Mullur](https://github.com/sushmullur)
+- [Konrad Ciesielski](https://github.com/Konrad-C-Dev)
 - Benjamin Jones
 - Munendra Choudhary 
 -[Vedant Raj Singh Parmar](github.com/VVR6)
