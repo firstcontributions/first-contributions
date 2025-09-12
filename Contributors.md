@@ -2,6 +2,7 @@
 -[Layla](httplaylaSwifts://github.com/) 
 BinhTran2k4
 # Contributors
+- [b1tranger](https://github.com/b1tranger)
 -[Shalini Gupta](https://github.com/shalinigupta2501)
 -[David devmanki](https://github.com/davamanki)
 -[Mevin JR] (https://github.com/Mevin-JR)
