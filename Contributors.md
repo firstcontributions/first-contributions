@@ -2764,6 +2764,7 @@ DanyLeeCS
 - [Loray](https://github.com/loray61)
 - [Amit Yadav](https://github.com/AYadav06)
 - [Ivan Lee]()
+- [kasap]
 - [Lyra](https://github.com/why)
 - [Maksat Annageldiyev](https://github.com/M4x4T)
 - [Radhakrishan](https://github.com/rkdevx)
