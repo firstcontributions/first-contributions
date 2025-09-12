@@ -102,6 +102,7 @@ samuel KC (https://github.com/samuelkcherian)
 - [Agwave](https://github.com/agwave)
 - [Pradhyumn](https://github.com/Pradhyumn-24)
 - [EtharAlashri](https://github.com/etharalashri)
+-[laleyou](https://github.com/laleyou)
 -Merala Archana
 -Karthik H
 -[EmmaCahu]
