@@ -2613,6 +2613,7 @@ sh0uka
 - [Joao Carlos Lima](https://github.com/jocatoa)
 - [jbyunA](https://github.com/jbyunA)
 - [isaac sun](https://github.com/isaac-sun)
+- [Kendal JV](https://github.com/kendaljimenezvega)
 - [Nasir Ismail](https://github.com/NasirIsmail341)
 - [Sa'adatu Usman](https://github.com/Saadatu1)
 - [michael tjuni](https://github.com/michael-tjuni)
