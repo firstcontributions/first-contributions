@@ -1,0 +1,23 @@
+### 🎥 Recommended YouTube Tutorials
+
+1. **“Git and GitHUB For Beginners In One Video 2025 \[HINDI] | MPrashant”**
+   A one-video tutorial covering Git and GitHub basics in Hindi. Great to start. ([YouTube][1])
+
+2. **“How to contribute to Open Source projects | Step-by-step guide on Open source contribution | Hindi”**
+   Explains *why* and *how* to start contributing to open source. ([YouTube][2])
+
+3. **“Git & GitHub Tutorial For Beginners In Hindi - हिंदी में”**
+   A beginner-friendly video covering basic Git setup, commands, workflow etc. ([YouTube][3])
+
+4. **“Complete Git Tutorials For Beginners In Hindi” (YouTube Playlist)**
+   A playlist broken into multiple parts, good for learning gradually. ([YouTube][4])
+
+5. **“How to Contribute in an Open Source Framework: A Guide for Beginning Coders | Contribute to Atri Framework | Anuj Singla Hindi”**
+   More practitioner-oriented, shows how to actually make contributions in a framework. ([YouTube][5])
+
+
+[1]: https://www.youtube.com/watch?v=uwyP5SNlQAU&utm_source=chatgpt.com "Git and GitHUB For Beginners In One Video 2025 [HINDI ..."
+[2]: https://www.youtube.com/watch?v=fFNXCve39nI&utm_source=chatgpt.com "How to contribute to Open Source projects | Step-by-step ..."
+[3]: https://www.youtube.com/watch?v=gwWKnnCMQ5c&utm_source=chatgpt.com "Git & GitHub Tutorial For Beginners In Hindi - हिंदी में"
+[4]: https://www.youtube.com/playlist?list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi&utm_source=chatgpt.com "Complete Git Tutorials For Beginners In Hindi"
+[5]: https://www.youtube.com/watch?v=v3eCIPnn9Uo&utm_source=chatgpt.com "How to Contribute in an Open Source Framework: A Guide for ..."
