@@ -2465,6 +2465,7 @@ jack - first contribution practice
 - [Elijah Weiss](https://github.com/eweiss4)
 - [Sanchi Tiwade](https://github.com/Sanchi-0804)
 - [ritik tyagi] (https://github.com/ritiktyagi979-droid)
+- [Chinmayee M](https://github.com/chinmayee-madha)
 - [Lavisha](https://github.com/lavisha25)
 - [Aadil Reyaz Wani](https://aadil-reyaz-wani.vercel.app/)
 - [Alokananda Y](https://github.com/alok-38)
