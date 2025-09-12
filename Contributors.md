@@ -2726,6 +2726,7 @@ DanyLeeCS
 - [Mai Chí Hoài Em](https://github.com/hoaiemmaichi)
 - [Dương Mạnh Khương](https://github.com/Khuong12345-afk)
 - Nguyen Ha Phuong Tan
+- [Juan Monta](https://github.com/JuanMonta)
 - [Lưu An Thuận](https://github.com/thuanluuan)
 - [Sanal Kumar](https://github.com/sanalkr)
 - [Trịnh Minh Dũng](https://github.com/DungTrinhMinh)
