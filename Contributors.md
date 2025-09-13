@@ -3,8 +3,9 @@
 -[Layla](httplaylaSwifts://github.com/) 
 BinhTran2k4
 # Contributors
-- [Jessica Thomas](https://github.com/jmt713) - Hello, I hope everyone is doing well. I'm learning about pull requests and open source projects. 
--[Tyler Pearson](https://github.com/tylerapear)
+- [Jessica Thomas](https://github.com/jmt713) - Hello, I hope everyone is doing well. I'm learning about pull requests and open source projects.
+- [Tyler Pearson](https://github.com/tylerapear) - Thanks for the opportunity to make my first contribution!
+
 - [b1tranger](https://github.com/b1tranger)
 -[Shalini Gupta](https://github.com/shalinigupta2501)
 -[David devmanki](https://github.com/davamanki)
