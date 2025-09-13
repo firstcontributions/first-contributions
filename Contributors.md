@@ -23,6 +23,7 @@
 - sardor Uchqunov
 - Ahmed Abouelnaga
 - [Alex Ivaschenko] (https://github.com/ivaschenkoalex)
+- [Cameron Scott](https://github.com/cdscott37)
 - Patty
 - Vivek Gupta
 - bimo105108
