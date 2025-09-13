@@ -2815,5 +2815,6 @@ DanyLeeCS
 - [peng qin](https://github.com/pengqinppp)
 - [Ruslan Muftiev](https://github.com/IWantToWorkInGoogle)
 - [Babrah Ekele](https://github.com/bclaire92)
+- [Rohan Shinde](https://github.com/kalki-19RS)
 - [Keshav](https://github.com/keshav-develops)
 - [Nikita kar](https://github.com/nikitakar9862)
