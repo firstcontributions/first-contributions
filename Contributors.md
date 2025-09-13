@@ -1866,6 +1866,7 @@ Eoin O'B
 - [Jazmynn Banks](https://github.com/jazmynnbanks)
 - [Yusuf Ahmad Jalil](https://github.com/YusufDW1)
 - [Yunus Aydogdu](https://github.com/aydogduyunus)
+- [Egor Mikhailov](https://github.com/mikhailofficial)
 - [Shruti Gupta](https://github.com/ShrutiGupta37)
 - [Aman Dwivedi](https://github.com/amandwivedi45)
 - [Rohit Khatik](https://github.com/rohitkhatik09)
