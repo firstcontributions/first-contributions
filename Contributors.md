@@ -2801,6 +2801,7 @@ DanyLeeCS
 - [Rey-2525](https://github.com/Rey-2525)
 - [mikuros](https://github.com/mikuros)
 - [Math1029](https://github.com/Math1029)
+- [Bryan Trujillo](https://github.com/btruj)
 - [Rahul Bhargava](https://github.com/rahul0299)
 - [Ethan Senger](https://github.com/E-bosss)
 - [Samuel Cuerrier](https://github.com/SamuelCuerrier01)
