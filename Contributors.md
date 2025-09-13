@@ -31,6 +31,7 @@ samuel KC (https://github.com/samuelkcherian)
 -[Luke Flaker](https://github.com/lgf33)
 -[AMol (https://github.com/Abhiraj36)]
 -[Mihika (https://github.com/mihika632)]
+-[Manajigari Harshitha](https://github.com/manajigari-harshitha)
 -[Harish Nemade (https://github.com/harishnemade100)]
 -[Abhiraj Aryan (https://github.com/Abhiraj36)]
 -[Krittika Biswas](https://github.com/krittikabiswas)
