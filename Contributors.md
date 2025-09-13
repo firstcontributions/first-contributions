@@ -29,6 +29,7 @@
 - bimo105108
 - DKshetry
 - [Vedanth](https://github.com/Vedanth81106)
+- [Agus](https://github.com/agusfdzm)
 - [Diogo Ferreira](https://github.com/fdiogo1)
 - [Hakimo abdikadir](https://github.com/hikmaladan)
 - [Jason Wiggs](https://github.com/wiggs30)
