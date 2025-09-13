@@ -51,6 +51,7 @@
 - Bhuvana Madiraju
 - Aditya Singh Kushwah
 - [Kat R.](https://github.com/KxttyKxt)
+- [RUDRA TAILOR](https://github.com/RudraTailor)
 - santiago robles
 - adasrh yadav
 - Debanjan Kshetry
