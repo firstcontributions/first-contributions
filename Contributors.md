@@ -1,5 +1,6 @@
 # Contributors
 - [Abdul Rafique](https://github.com/abdul-rafique)
+- Shankha Suvro Mullick (GitHub: @ShankhaSuvroMullick)
 - [Priyanshujindal](https://github.com/Priyanshujindal)
 - [Krrishray](https://github.com/krrishray)
 - [rryyqn](https://github.com/rryyqn)
