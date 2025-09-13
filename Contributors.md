@@ -717,6 +717,7 @@ LIUYY到此一游
 - [Sheikh Abdullah Bin Zahid](https://github.com/Abdullah2240)
 - [square-story](https://github.com/square-story)
 - [Prem Kumar T G](https://github.com/prem7129) 
+- [Artur Chagas](https://github.com/Artur-chagas-shu)
 - [darkiss7](https://github.com/darkiss7)
 - [FAI8h](https://github.com/FAI8h)
 - [Zaid Rasul](https://github.com/ZaidRasul)
