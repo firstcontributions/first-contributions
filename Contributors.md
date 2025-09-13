@@ -892,6 +892,7 @@ The-Yash-is-Joined
 - [Bobby Wells](https://github.com/bobbywells52)
 - [Avadhoot Kulkarni] (https://github.com/Avadhoot-Kulkarni)
 - [wystmk](https://github.com/wystmk)
+- [Samuel Shih](https://github.com/afashih-samuel)
 - [Frederick2313072](https://github.com/Frederick2313072)
 - [Shab00](https://github.com/Shab00)
 - [OWillp](https://github.com/0Willp)
