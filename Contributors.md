@@ -1,4 +1,5 @@
 # Contributors
+- [Priyanshujindal][https://github.com/Priyanshujindal]
 - [Krrishray](https://github.com/krrishray)
 - [rryyqn](https://github.com/rryyqn)
 - [Jessica Thomas](https://github.com/jmt713)
