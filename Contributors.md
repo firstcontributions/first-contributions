@@ -2732,3 +2732,4 @@ DanyLeeCS
 -[Miguel Angel](https://github.com/first-contributions)
 - [Demagalawrence](https://github.com/Demagalawrence)
 [Jhoan Montes](https://github.com/JhoanMontes)
+- [Eldred16](https://github.com/Eldred16)
