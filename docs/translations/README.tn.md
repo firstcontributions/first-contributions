@@ -93,7 +93,7 @@ Badel `your-name` bismek.
 
 ## Pushi les changements 3al GitHub
 
-A3mel push lil les changements bi ista3mel le command `git push`:
+A3mel push lil les changements bi ista3mel el command `git push`:
 
 ```bash
 git push -u origin your-branch-name
