@@ -37,9 +37,10 @@ samuel KC (https://github.com/samuelkcherian)
 -[Tharunchary Kashivajjala](https://github.com/Tharunchary05)
 - [Sandeep Singh](https://github.com/SANDEEPNEGI07)
 -[MD. Nayeem Islam](https://github.com/me-nayeem)
-- [qlsl1198](https://github.com/qlsl1198)
--[Zazel Turner(https://gihub.com/zpt4)]
+-[qlsl1198](https://github.com/qlsl1198)
+-[Zazel Turner](https://gihub.com/zpt4)]
 -[Dhrumil Bhut](https://github.com/dhrumilbhut)
+-[Dérick Campos](https://github.com/Derickcsantos)
 -[Akhilesh Kotwal](https://github.com/AkhileshKotwal7)
 -[Aashu](https://github.com/ashu273k)
 -[BlkMambaGod](https://github.com/BlkMambaGod)
