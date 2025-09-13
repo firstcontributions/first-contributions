@@ -62,6 +62,7 @@
 - Manthan Maidawat
 - Arnim Kuchhal
 - Niv Aravindmali
+- Vasilis Kokotakis (https://github.com/VasilisKokotakis)
 - Lokesh Malik (https://github.com/Lucky-Malik)
 - [Mohd Suhaib Siddiqui] (https://github.com/Suhaib-Sid)
 - [Justslugard] (https://github.com/Justslugard)
@@ -2726,3 +2727,5 @@ DanyLeeCS
 - [zhoushuo](https://github.com/zshs000)
 - [Suriti Joshi] (https://github.com/srj-145)
 - [Syink](https://github.com/syinkboy)
+- [Sahil Sharma](https://github.com/sahil-me)
+- [MatteoRigoni](https://github.com/MatteoRigoni)
