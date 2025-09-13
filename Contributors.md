@@ -1,4 +1,5 @@
 # Contributors
+- [Krrishray](https://github.com/krrishray)
 - [rryyqn](https://github.com/rryyqn)
 - [Jessica Thomas](https://github.com/jmt713)
 - [b1tranger](https://github.com/b1tranger)
