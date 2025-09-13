@@ -2191,6 +2191,7 @@ Cloudman
 - [Raul Alejandro Ledea Cruz](https://github.com/Raulledea)
 - [Vivek Chudasama](https://github.com/vivekchudasama-2004)
 - [nathanw3456](https://github.com/nathanw3456)
+- [Adam Derbel](https://github.com/Adamderbel)
 - [Kritagya Jha](https://github.com/Kritagya123611)
 - [Mostapha EL ANSARI](https://github.com/mostaphaelansari)
 - [Manoj Thilakarathna](https://github.com/manojtharindu11)
