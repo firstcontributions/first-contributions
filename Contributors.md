@@ -164,6 +164,7 @@ samuel KC (https://github.com/samuelkcherian)
 - santiago robles
 - adasrh yadav
 - Debanjan Kshetry
+- Manthan Maidawat
 - Arnim Kuchhal
 - Niv Aravindmali
 - Lokesh Malik (https://github.com/Lucky-Malik)
@@ -434,7 +435,7 @@ sdumini
 - [Tusa Rivera-Larkowski](https://github.com/tlarkowski)
 - [Masalt0](https://github.com/Masalto5835)
 - [SteveTawali](https://github.com/SteveTawali)
-- [Pragya Rai]()
+- [Pragya Rai]
 - [Saparmyrat Saparmyradov](https://github.com/Sapar-hub)
 - [Zohaib Khan](https://github.com/zohaibkhan745)
 - [Aaryan Antala]()
