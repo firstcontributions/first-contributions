@@ -2731,3 +2731,4 @@ DanyLeeCS
 - [Syink](https://github.com/syinkboy)
 - [Sahil Sharma](https://github.com/sahil-me)
 - [MatteoRigoni](https://github.com/MatteoRigoni)
+- [Hassan Zidan](https://github.com/Hassannzidan)
