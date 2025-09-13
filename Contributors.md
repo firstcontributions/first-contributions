@@ -2548,6 +2548,7 @@ jack - first contribution practice
 - [Prasanna Nage](https://github.com/Prasanna-iitb)
 - [Beck](https://github.com/beckarama)
 - [Manya Goel](https://github.com/MANYAGOEL123)
+- [lelemita](https://github.com/lelemita)
 - [Neil Irungu](https://github.com/algorithmine)
 - [Sarbojit Rana](https://github.com/sarbojitrana)
 - [John Mixon](https://github.com/mixdev2112)
