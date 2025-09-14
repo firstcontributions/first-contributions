@@ -1,5 +1,6 @@
 # Contributors
 
+- [Amit Mavinakatti] (https://github.com/Amit-Mavinakatti)
 - [Abdul Rafique](https://github.com/abdul-rafique)
 - [Priyanshujindal](https://github.com/Priyanshujindal)
 - [Krrishray](https://github.com/krrishray)
@@ -25,6 +26,7 @@
 - Ahmed Abouelnaga
 - [Alex Ivaschenko] (https://github.com/ivaschenkoalex)
 - [Cameron Scott](https://github.com/cdscott37)
+- [Dayangku Fatin Masyitah] (https://github.com/aktnlxk)
 - Patty
 - Vivek Gupta
 - bimo105108
@@ -65,6 +67,7 @@
 - adasrh yadav
 - Debanjan Kshetry
 - Manthan Maidawat
+- A Bhargavi (https://github.com/bunnybhargavi)
 - Arnim Kuchhal
 - Niv Aravindmali
 - Vasilis Kokotakis (https://github.com/VasilisKokotakis)
@@ -2639,3 +2642,4 @@
 - [Indu]
 - [MatteoRigoni](https://github.com/MatteoRigoni)
 - [Hassan Zidan](https://github.com/Hassannzidan)
+- [Nithyakala Rajendran](https://github.com/nithya-kala)
