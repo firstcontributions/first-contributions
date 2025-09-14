@@ -24,6 +24,7 @@
 - [Mahmoud Mohsen](https://github.com/Mahmoud12344)
 - [Gokoku](https://github.com/gokoku)
 - sardor Uchqunov
+- [Nagy Csomor István] (https://github.com/Csomorka)
 - Jannatul Ferdous
 - Ahmed Abouelnaga
 - [Alex Ivaschenko] (https://github.com/ivaschenkoalex)
