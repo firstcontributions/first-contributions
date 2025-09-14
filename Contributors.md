@@ -24,6 +24,7 @@
 - Ahmed Abouelnaga
 - [Alex Ivaschenko] (https://github.com/ivaschenkoalex)
 - [Cameron Scott](https://github.com/cdscott37)
+- [Dayangku Fatin Masyitah] (https://github.com/aktnlxk)
 - Patty
 - Vivek Gupta
 - bimo105108
