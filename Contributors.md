@@ -15,6 +15,7 @@
 - [Pavan  Mhaisne](https://github.com/piyushm4)
 - [Sim Hyeonmin](https://github.com/simhyunmin)
 - [KaliDeveIoper](https://github.com/KaliDeveIoper)
+- [Tirth Prajapati](https://github.com/TirthCric)
 - [Gbede Daniel] (https://github.com/dani12e)
 - [Supilath](https://github.com/Supilath)
 - [Divyansh Shrivastav](https://github.com/DIVYANSH-SHRIVASTAV)
