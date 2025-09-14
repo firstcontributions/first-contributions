@@ -2518,7 +2518,6 @@ sh0uka
 -[Sushilkumar Utkekar][https://github.com/Sushilkumar5572]
 -[Carsten] [https://github.com/ForbaV2]
 - [Nishant Borude](https://github.com/Nsanjayboruds)
-
 - [Keerthika](https://github.com/keerthikadevi-s)
 -[Sourav Verma](https://github.com/SouravVerma-art)
 -[heisenberg]
@@ -2741,6 +2740,7 @@ DanyLeeCS
 - [Palak Pimpalkar](https://github.com/Palak0705)
 - [zhoushuo](https://github.com/zshs000)
 - [Suriti Joshi] (https://github.com/srj-145)
+- CyberJoke
 - [Dudley Orestil] (https://github.com/dee276)
 - [Syink](https://github.com/syinkboy)
 - [Cesar Rice](https://github.com/checharito14)
