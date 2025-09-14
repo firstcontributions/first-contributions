@@ -24,6 +24,7 @@
 - [Mahmoud Mohsen](https://github.com/Mahmoud12344)
 - [Gokoku](https://github.com/gokoku)
 - sardor Uchqunov
+- [Nagy Csomor István] (https://github.com/Csomorka)
 - Jannatul Ferdous
 - Ahmed Abouelnaga
 - [Alex Ivaschenko] (https://github.com/ivaschenkoalex)
@@ -900,6 +901,7 @@ The-Yash-is-Joined
 - [devoceon](https://github.com/emy3)
 - [Bobby Wells](https://github.com/bobbywells52)
 - [Avadhoot Kulkarni] (https://github.com/Avadhoot-Kulkarni)
+- [Tejas Jogdand](https://github.com/Tejas-Jogdand)
 - [wystmk](https://github.com/wystmk)
 - [Samuel Shih](https://github.com/afashih-samuel)
 - [Frederick2313072](https://github.com/Frederick2313072)
@@ -1289,8 +1291,9 @@ Ben
 - [Leon Deppe](https://github.com/leondeppe)
 - [Owen Roukey](https://github.com/rouk5555)
 - [Aminat A](https://github.com/pejuameenat)
--[krit22](https://github.com/krit22)
+- [krit22](https://github.com/krit22)
 Eoin O'B
+- [Halil İbrahim Kutmur](https://github.com/kutmur)
 - [Adnan Zaib](https://github.com/AadiZee)
 - [Mariusz Sobczak](https://github.com/SmoQ)
 - [Umair Amir](https://github.com/UmairAmir)
@@ -1511,6 +1514,7 @@ Eoin O'B
 - [Alejandr0x](https://github.com/Alejandr0xxx)
 - [Mateus Cruz](https://github.com/Mdacruzrego)
 - [karim1safan](https://github.com/karim1safan)
+- [ejoopasco](https://github.com/ejoopasco)
 - [Kevin Hu](https://github.com/sijun-kevin-hu)
 - [Vivek Deshmukh](https://github.com/vivekd16)
 - [Aditya Singh](https://github.com/devxaditya)
@@ -2003,6 +2007,7 @@ Cloudman
 - [Akshar K H](https://github.com/aksharkh)
 - [Angelina Tsygan](https://github.com/angelinatsygan)
 - [Vinit Rana](https://github.com/RanaVinit)
+- [Fahim_Al_Rashid](https://github.com/fahimar)
 - [Joseph O'Neill](https://github.com/L00188381)
 - [Angelo Fontoura](https://github.com/angelofontoura)
 - [Daniel Larrusso](https://github.com/daniellarrusso)
@@ -2720,14 +2725,14 @@ DanyLeeCS
 - [Ethan Senger](https://github.com/E-bosss)
 - [Samuel Cuerrier](https://github.com/SamuelCuerrier01)
 - Isidro Marquez
--[Dinelka Thilina] (https://github.com/dinelkathilina)
+- [Dinelka Thilina](https://github.com/dinelkathilina)
 - [Sush Mullur](https://github.com/sushmullur)
 - [Konrad Ciesielski](https://github.com/Konrad-C-Dev)
 - Benjamin Jones
 - Munendra Choudhary
-- 
--[Vedant Raj Singh Parmar](github.com/VVR6)
--[Usama Ayoub](github.com/sam3690)
+- [Olapu Ajay](https://github.com/olapuajay)
+- [Vedant Raj Singh Parmar](github.com/VVR6)
+- [Usama Ayoub](github.com/sam3690)
 - [Morteza Rahmani](https://github.com/morteza-rhmn)
 - [Kislay Kumar](https://github.com/kislayykumar)
 - [Kai Feng](https://github.com/kaifeng-cmd)
@@ -2750,3 +2755,5 @@ DanyLeeCS
 - [Nithyakala Rajendran](https://github.com/nithya-kala)
 - [Kresol Ghosh](https://github.com/KresolGhosh)
 - [monika yadav](https://www.linkedin.com/in/monika-y-529713350/)
+- [Ali Mohamed](https://github.com/alimo88)
+- [Krithika V] (https://github.com/Krithika1627)
