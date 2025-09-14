@@ -2759,6 +2759,7 @@ DanyLeeCS
 - [MatteoRigoni](https://github.com/MatteoRigoni)
 - [Hassan Zidan](https://github.com/Hassannzidan)
 - [Nithyakala Rajendran](https://github.com/nithya-kala)
+- [Oriana Galindez](https://github.com/malibu54)
 - [Kresol Ghosh](https://github.com/KresolGhosh)
 - [monika yadav](https://www.linkedin.com/in/monika-y-529713350/)
 - [Ali Mohamed](https://github.com/alimo88)
