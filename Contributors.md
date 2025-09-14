@@ -1290,8 +1290,9 @@ Ben
 - [Leon Deppe](https://github.com/leondeppe)
 - [Owen Roukey](https://github.com/rouk5555)
 - [Aminat A](https://github.com/pejuameenat)
--[krit22](https://github.com/krit22)
+- [krit22](https://github.com/krit22)
 Eoin O'B
+- [Halil İbrahim Kutmur](https://github.com/kutmur)
 - [Adnan Zaib](https://github.com/AadiZee)
 - [Mariusz Sobczak](https://github.com/SmoQ)
 - [Umair Amir](https://github.com/UmairAmir)
