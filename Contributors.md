@@ -2004,6 +2004,7 @@ Cloudman
 - [Akshar K H](https://github.com/aksharkh)
 - [Angelina Tsygan](https://github.com/angelinatsygan)
 - [Vinit Rana](https://github.com/RanaVinit)
+- [Fahim_Al_Rashid](https://github.com/fahimar)
 - [Joseph O'Neill](https://github.com/L00188381)
 - [Angelo Fontoura](https://github.com/angelofontoura)
 - [Daniel Larrusso](https://github.com/daniellarrusso)
