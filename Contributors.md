@@ -1514,6 +1514,7 @@ Eoin O'B
 - [Alejandr0x](https://github.com/Alejandr0xxx)
 - [Mateus Cruz](https://github.com/Mdacruzrego)
 - [karim1safan](https://github.com/karim1safan)
+- [ejoopasco](https://github.com/ejoopasco)
 - [Kevin Hu](https://github.com/sijun-kevin-hu)
 - [Vivek Deshmukh](https://github.com/vivekd16)
 - [Aditya Singh](https://github.com/devxaditya)
