@@ -550,6 +550,7 @@ LIUYY到此一游
 - [Harshdeep Singh](https://github.com/HarshdeepS1)
 - [jonas461](https://github.com/jonas461)
 - [Pranit Gore](https://github.com/PRANIT0605)
+- [Pratyush Kumar](https://github.com/pratyushkumar211)
 - [leoweo1](https://github.com/leoweo1)
 - [me-tylerdurden](https://github.com/me-tylerdurden)
 - [Asianzu Henry](https://github.com/asianzuhenry)
