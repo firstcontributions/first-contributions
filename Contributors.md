@@ -436,6 +436,7 @@ LIUYY到此一游
 - [Inigo](https://github.com/inigostibbe)
 - [Demetris B.](https://github.com/deyil)
 - Ayush
+- [Manas walia](https://github.com/manaswalia13)
 - [Archie L.](https://github.com/ArchawinL)
 - [Priyanshu Tiwari](https://github.com/d3monviking)
 - [Jeffrey Girard] (https://github.com/jeffrey3224)
