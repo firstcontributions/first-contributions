@@ -2722,14 +2722,14 @@ DanyLeeCS
 - [Ethan Senger](https://github.com/E-bosss)
 - [Samuel Cuerrier](https://github.com/SamuelCuerrier01)
 - Isidro Marquez
--[Dinelka Thilina] (https://github.com/dinelkathilina)
+- [Dinelka Thilina](https://github.com/dinelkathilina)
 - [Sush Mullur](https://github.com/sushmullur)
 - [Konrad Ciesielski](https://github.com/Konrad-C-Dev)
 - Benjamin Jones
 - Munendra Choudhary
-- 
--[Vedant Raj Singh Parmar](github.com/VVR6)
--[Usama Ayoub](github.com/sam3690)
+- [Olapu Ajay](https://github.com/olapuajay)
+- [Vedant Raj Singh Parmar](github.com/VVR6)
+- [Usama Ayoub](github.com/sam3690)
 - [Morteza Rahmani](https://github.com/morteza-rhmn)
 - [Kislay Kumar](https://github.com/kislayykumar)
 - [Kai Feng](https://github.com/kaifeng-cmd)
