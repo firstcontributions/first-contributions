@@ -14,6 +14,7 @@
 - [Sneha Gadekarla] (https://github.com/SnehaG100)
 - [Pavan  Mhaisne](https://github.com/piyushm4)
 - [Sim Hyeonmin](https://github.com/simhyunmin)
+- [KaliDeveIoper](https://github.com/KaliDeveIoper)
 - [Gbede Daniel] (https://github.com/dani12e)
 - [Supilath](https://github.com/Supilath)
 - [Divyansh Shrivastav](https://github.com/DIVYANSH-SHRIVASTAV)
