@@ -123,8 +123,6 @@ Most of all, listen to what people around you discuss. See if you can recognize 
 The best way to learn more about a topic is to try to teach it.
 The best teacher is the one who can explain complex stuff with simple examples. So you need to try to be the best teacher to be the best learner and the best in your programming world. Teaching others will make you feel better about yourself and it will help you get better skills and knowledge in your profession. When you get help from someone don't keep it to yourself share it with others. Make the world a better place to live.
 
-## Additional Non-Programmer Contributions  
-
 17. **Improve Accessibility** 
 - Audit project documentation/websites for:  
   - Alt text for images.  
