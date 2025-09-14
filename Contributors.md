@@ -2,6 +2,7 @@
 - [Amit Mavinakatti] (https://github.com/Amit-Mavinakatti)
 - [Abdul Rafique](https://github.com/abdul-rafique)
 - [Priyanshujindal](https://github.com/Priyanshujindal)
+- [Watson](https://github.com/tanso0126)
 - [Krrishray](https://github.com/krrishray)
 - [rryyqn](https://github.com/rryyqn)
 - [Jessica Thomas](https://github.com/jmt713)
@@ -15,6 +16,7 @@
 - [Sim Hyeonmin](https://github.com/simhyunmin)
 - [Gbede Daniel] (https://github.com/dani12e)
 - [Supilath](https://github.com/Supilath)
+- [Divyansh Shrivastav](https://github.com/DIVYANSH-SHRIVASTAV)
 - [CasManny](https://github.com/CasManny)
 - [Rohan Shukla] (https://github.com/RohanShukla23)
 - [Chowdhury Tafsir Ahmed Siddiki](https://github.com/ctafsiras)
@@ -22,6 +24,7 @@
 - [Mahmoud Mohsen](https://github.com/Mahmoud12344)
 - [Gokoku](https://github.com/gokoku)
 - sardor Uchqunov
+- Jannatul Ferdous
 - Ahmed Abouelnaga
 - [Alex Ivaschenko] (https://github.com/ivaschenkoalex)
 - [Cameron Scott](https://github.com/cdscott37)
@@ -1415,6 +1418,7 @@ Eoin O'B
 - [Shardul Hirolikar](https://github.com/shiro1307)
 - [Sasindu Manamperi](https://github.com/sasindubm)
 - [LukaGakhokidze](https://github.com/Luka288)
+- [David-L12](https://github.com/David-L12)
 - [Mario Letepichia](https://github.com/MarioLetepichia)
 - [Rahul Parihar](https://github.com/Parihar-Dev)
 - [Taha Tariq](https://github.com/tahatariq19)
@@ -2514,7 +2518,6 @@ sh0uka
 -[Sushilkumar Utkekar][https://github.com/Sushilkumar5572]
 -[Carsten] [https://github.com/ForbaV2]
 - [Nishant Borude](https://github.com/Nsanjayboruds)
-
 - [Keerthika](https://github.com/keerthikadevi-s)
 -[Sourav Verma](https://github.com/SouravVerma-art)
 -[heisenberg]
@@ -2708,6 +2711,7 @@ DanyLeeCS
 - [Demagalawrence](https://github.com/Demagalawrence)
 - [Notam456](https://github.com/Notam456)
 [Jhoan Montes](https://github.com/JhoanMontes)
+- [Eldred16](https://github.com/Eldred16)
 - [Rey-2525](https://github.com/Rey-2525)
 - [mikuros](https://github.com/mikuros)
 - [Math1029](https://github.com/Math1029)
@@ -2720,7 +2724,8 @@ DanyLeeCS
 - [Sush Mullur](https://github.com/sushmullur)
 - [Konrad Ciesielski](https://github.com/Konrad-C-Dev)
 - Benjamin Jones
-- Munendra Choudhary 
+- Munendra Choudhary
+- 
 -[Vedant Raj Singh Parmar](github.com/VVR6)
 -[Usama Ayoub](github.com/sam3690)
 - [Morteza Rahmani](https://github.com/morteza-rhmn)
@@ -2735,10 +2740,15 @@ DanyLeeCS
 - [Palak Pimpalkar](https://github.com/Palak0705)
 - [zhoushuo](https://github.com/zshs000)
 - [Suriti Joshi] (https://github.com/srj-145)
+- CyberJoke
 - [Dudley Orestil] (https://github.com/dee276)
 - [Syink](https://github.com/syinkboy)
 - [Cesar Rice](https://github.com/checharito14)
 - [Sahil Sharma](https://github.com/sahil-me)
 - [MatteoRigoni](https://github.com/MatteoRigoni)
 - [Hassan Zidan](https://github.com/Hassannzidan)
+
 - [mansi ruhil](https://github.com/mansiruhil)
+
+- [Nithyakala Rajendran](https://github.com/nithya-kala)
+- [Kresol Ghosh](https://github.com/KresolGhosh)
