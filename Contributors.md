@@ -1,4 +1,5 @@
 # Contributors
+- [Amit Mavinakatti] (https://github.com/Amit-Mavinakatti)
 - [Abdul Rafique](https://github.com/abdul-rafique)
 - [Priyanshujindal](https://github.com/Priyanshujindal)
 - [Krrishray](https://github.com/krrishray)
