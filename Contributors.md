@@ -41,6 +41,7 @@
 - [Jack Crampton] (https://github.com/Gamesscow)
 - [Dhruv sawant]
 - [SungHo.You]
+- [Miles Morales] 
 - [lucas](https://github.com/Luc-as)
 - [Xephyronix](https://github.com/Xephyronix)
 - [Anurag]<--
