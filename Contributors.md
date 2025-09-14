@@ -2730,6 +2730,7 @@ DanyLeeCS
 - [zhoushuo](https://github.com/zshs000)
 - [Suriti Joshi] (https://github.com/srj-145)
 - [Syink](https://github.com/syinkboy)
+- [Cesar Rice](https://github.com/checharito14)
 - [Sahil Sharma](https://github.com/sahil-me)
 - [MatteoRigoni](https://github.com/MatteoRigoni)
 - [Hassan Zidan](https://github.com/Hassannzidan)
