@@ -2625,6 +2625,7 @@ sh0uka
 - [BredyNilsen](https://github.com/bredynilsen)
 - [Javier Rodríguez](https://github.com/jaavierdz)
 - [Kamalpannu](https://github.com/Kamalpannu/first-contributions)
+- [Eduardo Larios](https://github.com/EduardoLariosEspinoza)
 - [Krishna-Sharma3171](https://github.com/Krishna-Sharma3171)
 - [lina](https://github.com/linadouaaas)
 - [Nesrine](https://github.com/nsrn-chbn)
