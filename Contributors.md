@@ -901,6 +901,7 @@ The-Yash-is-Joined
 - [devoceon](https://github.com/emy3)
 - [Bobby Wells](https://github.com/bobbywells52)
 - [Avadhoot Kulkarni] (https://github.com/Avadhoot-Kulkarni)
+- [Tejas Jogdand](https://github.com/Tejas-Jogdand)
 - [wystmk](https://github.com/wystmk)
 - [Samuel Shih](https://github.com/afashih-samuel)
 - [Frederick2313072](https://github.com/Frederick2313072)
