@@ -65,6 +65,7 @@
 - adasrh yadav
 - Debanjan Kshetry
 - Manthan Maidawat
+- A Bhargavi (https://github.com/bunnybhargavi)
 - Arnim Kuchhal
 - Niv Aravindmali
 - Vasilis Kokotakis (https://github.com/VasilisKokotakis)
