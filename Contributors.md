@@ -2187,6 +2187,7 @@ Cloudman
 - [Nathaly Fairlie Pearson Freitas](https://github.com/NathalyFairlie)
 - [Priya Darshini Manda](https://github.com/mandaujjwalapriyadarshini)
 - [jeeracd](https://github.com/jeeracd)
+- [Mohamed Makaty](https://github.com/makaty95)
 - [Antonio Thoamaz Oliveira Reis](https://github.com/antonioThomaz1903)
 - [YahiaAbdeldjalilBenyahia](https://github.com/YahiaAbdeldjalilBenyahia)
 - [Yogesh Joga యోగేష్ జోగ](https://github.com/yogeshjoga)
