@@ -34,6 +34,7 @@
 - Vivek Gupta
 - bimo105108
 - DKshetry
+- Signal Bean
 - [Vedanth](https://github.com/Vedanth81106)
 - [Agus](https://github.com/agusfdzm)
 - [Diogo Ferreira](https://github.com/fdiogo1)
