@@ -1603,6 +1603,7 @@ Eoin O'B
 - [Bhavishay Bharti](https://github.com/bhavi-b)
 - [Dascalu Dumitru](https://github.com/IronMemo)
 - [Keval Deepak](https://github.com/kevaldeepak)
+- [Kushala Udayagiri](https://github.com/kushalaudayagiri)
 - [R Ricky Roger](https://github.com/RickRo77)
 - [JasonSA1993](https://github.com/JasonSa1993/)
 - [Suresh Deora](https://github.com/SureshDeora)
