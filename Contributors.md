@@ -2175,6 +2175,7 @@ Cloudman
 - [Александр Мосин](https://github.com/mosinisom)
 - [Togan Razvan-Dumitru] (https://github.com/xRazvan78)
 - [André Herreira Oliveira](https://github.com/andrehherreira)
+- [Angel Wanjiru Nyaga](https://github.com/anyaga)
 - [Axel Valerio Ertamto](https://github.com/AxelValerioErtamto)
 - [Shadab Ahmed Qureshi](https://github.com/Shadab786-developer)
 - [Karnam Veerendra Prasad](https://github.com/Veerendra-Prasad)
