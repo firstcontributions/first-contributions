@@ -2160,6 +2160,7 @@ Cloudman
 - [Yonas Girma](https://github.com/J0na555)
 - [TsvetislavRangelov](https://github.com/TsvetislavRangelov)
 - [Tornike Tsulukidze](https://github.com/TheMechanicalBeing)
+- [Eric Feuerstein](https://github.com/EricF6975/)
 - [Benjamin Tsoumagas](https://github.com/tsoumagas-benjamin)
 - [Kuldeep Sahoo](https://github.com/Kuldeep-Sahoo-7257-1922)
 - [Varsha Ghodase](https://github.com/Varsha1202)
