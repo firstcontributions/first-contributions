@@ -8,7 +8,6 @@
 - [Krrishray](https://github.com/krrishray)
 - [rryyqn](https://github.com/rryyqn)
 - [Jessica Thomas](https://github.com/jmt713)
-- [tejesh balam](https://github.com/tejeshbalam)
 - [b1tranger](https://github.com/b1tranger)
 - [Nurudeen Abdulsalaam](https://github.com/ndabdulsalaam)
 - [Shalini Gupta](https://github.com/shalinigupta2501)
@@ -29,6 +28,7 @@
 - [marmiju](https://github.com/marmiju)
 - [Mahmoud Mohsen](https://github.com/Mahmoud12344)
 - [Gokoku](https://github.com/gokoku)
+- [tejesh balam](https://github.com/tejeshbalam)
 - sardor Uchqunov
 - [Nagy Csomor István] (https://github.com/Csomorka)
 - Jannatul Ferdous
