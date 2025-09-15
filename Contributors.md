@@ -97,6 +97,7 @@ sdumini
 - [Priyanka Singh] (https://github.com/Priyanka-2725)
 - [Samidu Kaushalaya] (https://github.com/samidukushalaya)
 - [Shivam Verma] (https://github.com/shivamxverma)
+- [LissandroDev](git@github.com:LuisD3vv/Pull-Request-practica.git)
 - [one small step for humanity]
 - [Amelia Ali]
 - [Franklyn Omoregie]
