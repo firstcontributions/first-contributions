@@ -11,6 +11,7 @@
 - [Nurudeen Abdulsalaam](https://github.com/ndabdulsalaam)
 - [Shalini Gupta](https://github.com/shalinigupta2501)
 -[Godugu Veena](https://github.com/GoduguVeena)
+-[Shahid Afrid](https://github.com/shahid-afrid)
 - [David devmanki](https://github.com/davamanki)
 - [Priyanshu Saxena] (https://github.com/Priyanshuxddd)
 - [Sumit Pandey](https://github.com/5umitpandey)
