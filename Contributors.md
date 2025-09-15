@@ -43,6 +43,7 @@
 - [Nagy Csomor István] (https://github.com/Csomorka)
 - Jannatul Ferdous
 - Ahmed Abouelnaga
+- [Ahmed Abdellatif](https://github.com/abdellatif72)
 - [Alex Ivaschenko] (https://github.com/ivaschenkoalex)
 - [Cameron Scott](https://github.com/cdscott37)
 - [Dayangku Fatin Masyitah] (https://github.com/aktnlxk)
