@@ -227,6 +227,7 @@ sdumini
 - [Devansh Singh](https://github.com/Devansh-04)
 - [Mandrukamal](https://github.com/Mandrukamal)
 - [Gokul](https://github.com/Gokul-S-dev)
+- [Gautam Bhatt](https://github.com/Er-GautamBhatt)
 - [Cole Schnell](https://github.com/coleschnell)
 - [Bhavya](https://github.com/bhavya-l)
 - [Fabio Mingione](https://github.com/FabMin94)
