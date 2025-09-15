@@ -1793,6 +1793,7 @@ Eoin O'B
 - [Jaytee Majoni](https://github.com/jayteemajoni)
 - [Rashmi Pai](https://github.com/RashmiRamdasPai)
 - [Cédric Madianga](https://github.com/cmadianga)
+- [Gabriele Martire](https://github.com/gabrielemartire)
 - [Anthony Ladon](https://github.com/AnthonyLadon)
 - [Rahul Choudhary](https://github.com/RahulCh010)
 - [Yash Goyal](https://github.com/yash-goyal-0910)
