@@ -56,6 +56,7 @@
 - [Hakimo abdikadir](https://github.com/hikmaladan)
 - Anushka
 - [Jason Wiggs](https://github.com/wiggs30)
+- [Artuh](https://github.com/lArtuh)
 - [DMS Menula](https://github.com/DMS-Menula/)
 - [Ernesto Donado](https://github.com/edonado2)
 - [Preetham Noel P]
