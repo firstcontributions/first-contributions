@@ -97,6 +97,7 @@ sdumini
 - [Priyanka Singh] (https://github.com/Priyanka-2725)
 - [Samidu Kaushalaya] (https://github.com/samidukushalaya)
 - [Shivam Verma] (https://github.com/shivamxverma)
+- [sithananthan](https://github.com/sithananthan)
 - [LissandroDev](git@github.com:LuisD3vv/Pull-Request-practica.git)
 - [one small step for humanity]
 - [Amelia Ali]
@@ -105,8 +106,7 @@ sdumini
 - [Ahmed Sabbak]
 - [Blipie]
 - [bugOpsX] (https://github.com/bugOpsX)
-- [sithananthan](https://github.com/sithananthan)
--[Shivanna] (https://github.com/shivannadm)
+- [Shivanna] (https://github.com/shivannadm)
 - [Stephanie] (https://github.com/stevwya77)
 - [Harsh Kumbhani] (https://github.com/harshkumbhani)
 - [Hassan Shahid] (https://github.com/hassan-software-dev)
