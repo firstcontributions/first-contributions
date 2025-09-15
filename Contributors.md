@@ -330,6 +330,7 @@ sdumini
 - [RupenderSinghRathore](https://github.com/RupenderSinghRathore)
 - [guywithzeromotive](https://github.com/guywithzeromotive)
 - [Parth Sivakumar](https://github.com/Parth-sk)
+- [dtakahashi333](https://github.com/dtakahashi333)
 - [Robert Alfredson](https://github.com/rcalfredson)
 - [Trần Phương Hùng & Đỗ Nhật Thanh ❤️](https://github.com/blueqing2026)
 - [Archico Darius Simpar Sembiring 🇮🇩](https://github.com/archicos)
