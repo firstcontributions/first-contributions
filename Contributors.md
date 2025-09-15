@@ -6,6 +6,7 @@
 - [Watson](https://github.com/tanso0126)
 - [Krrishray](https://github.com/krrishray)
 - [Abhishek Rawat][https://github.com/Abhishek2rawat]
+- [Surya Prakash Sharma][https://github.com/suryaprkash778-dot]
 - [rryyqn](https://github.com/rryyqn)
 - [Jessica Thomas](https://github.com/jmt713)
 - [b1tranger](https://github.com/b1tranger)
