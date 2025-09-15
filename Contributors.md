@@ -35,6 +35,7 @@
 - [marmiju](https://github.com/marmiju)
 - [Mahmoud Mohsen](https://github.com/Mahmoud12344)
 - [Gokoku](https://github.com/gokoku)
+- [Nishant Singh](https://github.com/vasu101)
 - sardor Uchqunov
 - [Nagy Csomor István] (https://github.com/Csomorka)
 - Jannatul Ferdous
