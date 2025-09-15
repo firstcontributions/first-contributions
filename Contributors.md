@@ -1915,6 +1915,7 @@ Cloudman
 - [Lawrence Garcia](https://github.com/lawrenceee04)
 - [HiroseTakuya](https://github.com/hiro-tech-taku/)
 - [Ariyan Pandian](https://github.com/AriyanPandian)
+- [nishida675](https://github.com/nishida675)
 - [Anil Vhatkar](https://github.com/AnilVhatkar1130)
 - [Chandra Mouli](https://github.com/Chandramouliva)
 - [Hasindu Thirasara](https://github.com/Hasindu071)
