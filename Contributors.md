@@ -234,6 +234,7 @@ sdumini
 - [Arezoo]
 - [1983730774]
 - [원세영](https://github.com/seyoung5744)
+- [Akash Goyal](https://github.com/1223akash)
 - [Jacques Antoine]
 - [SQDEL]
 - [Plexton](https://github.com/ZaibLComrade)
