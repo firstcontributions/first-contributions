@@ -7,6 +7,7 @@
 - [Pedro Bizachi](https://github.com/PedroBizachi) - Greetings from Brazil!
 - [Raj Gajjar](https://github.com/RajGajjar-01)
 - [TJ Lucht](https://github.com/GoldenEntertainment) - I Like Watching Youtube Videos, I also Like making Games And apps
+- [PrimEverDream](https://github.com/PrimEverDream) - Same as TJ Lucht
 - [Amit Mavinakatti] (https://github.com/Amit-Mavinakatti)
 - [Abdul Rafique](https://github.com/abdul-rafique)
 - [Priyanshujindal](https://github.com/Priyanshujindal)
