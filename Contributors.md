@@ -1900,6 +1900,7 @@ Eoin O'B
 - [Aloof Apple](https://github.com/AloofApple)
 - [John Caleb ⚡](https://github.com/thejohncaleb)
 - [Nahuel Franco](https://github.com/NahuelNubiral)
+- [Arlie Rivas](https://github.com/adra642)
 - [Dante Alegria](https://github.com/dantealegria1)
 - [Keerthi V Nair](https://github.com/keerthivnair)
 - [Maitreyee Singh](https://github.com/maitreyee-s)
