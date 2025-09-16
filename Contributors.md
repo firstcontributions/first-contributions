@@ -2814,6 +2814,7 @@ DanyLeeCS
 - [zhoushuo](https://github.com/zshs000)
 - [Suriti Joshi] (https://github.com/srj-145)
 - CyberJoke
+- [James Whatcott](https://github.com/jameswhatcott)
 - [Dudley Orestil] (https://github.com/dee276)
 - [Syink](https://github.com/syinkboy)
 - [Cesar Rice](https://github.com/checharito14)
