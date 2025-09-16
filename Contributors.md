@@ -1,5 +1,6 @@
 # Contributors
 - [GENJI J](https://github.com/anya-minamoto)
+- [HighPoly](https://github.com/HighPolygon)
 - [Mahanthesh S](https://github.com/Mahi2708)
 - [Bug9519](https://github.com/Bug9519)
 - [Marni Pawan Veer Sai](https://github.com/Pawan82003)
