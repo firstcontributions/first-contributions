@@ -19,6 +19,7 @@
 - [Shalini Gupta](https://github.com/shalinigupta2501)
 -[Godugu Veena](https://github.com/GoduguVeena)
 -[Shahid Afrid](https://github.com/shahid-afrid)
+- Vo Huy
 - [David devmanki](https://github.com/davamanki)
 - [Priyanshu Saxena] (https://github.com/Priyanshuxddd)
 - [Sumit Pandey](https://github.com/5umitpandey)
