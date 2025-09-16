@@ -32,6 +32,7 @@
 -[Shahid Afrid](https://github.com/shahid-afrid)
 - [Dennis van Oort] (https://github.com/dvanoort)
 - Vo Huy
+- Swedel Lasrado
 - [Muhammad Farras Majid](https://github.com/mfarrasmajid)
 - [David devmanki](https://github.com/davamanki)
 - [Kailash](https://github.com/TSKailash)
@@ -42,6 +43,7 @@
 - [Pavan  Mhaisne](https://github.com/piyushm4)
 -[Sailaja](https://github.com/Sailu5)
 - [Sim Hyeonmin](https://github.com/simhyunmin)
+- [Filippos Angelakos](https://github.com/filipp-os) - Love from Greece!!!!
 - [Sanjay Senthilkumar](https://github.com/Sanj84-co)
 - [KaliDeveIoper](https://github.com/KaliDeveIoper)
 - [Tirth Prajapati](https://github.com/TirthCric)
@@ -2291,6 +2293,7 @@ Cloudman
 - [Heena](https://github.com/heenaf)
 - [Prasannjit Panda](https://github.com/prasannjitpanda)
 - [Dhruv Kalra](https://github.com/KalraDhruv)
+- [Rahul Kumar](https://github.com/imrahul05)
 - [Pratyush Gupta](https://github.com/MrPratsJi)
 - [Popie 52](https://github.com/Popie52)
 - [bzhaaa](https://github.com/bzhaaa)
@@ -2835,3 +2838,4 @@ DanyLeeCS
 -[N. Sambit Suman](https://github.com/sumannsambit6)
 -[Wiktor Kostecki](https://github.com/JohnnyCage1337)
 -[Chitra Dongare](https://github.com/chitra-dongare)
+- [Colin Reichl](https://github.com/COReichl) - This is so cool!
