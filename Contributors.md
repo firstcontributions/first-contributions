@@ -1,4 +1,5 @@
 # Contributors
+-[Krish] (Hello i am from India , I started learning Open source contribution )
 - [Mayen Akech](https://github.com/Mayen007)
 - [Rafael Severo](https://github.com/rafaeumesmo) 
 - [LayorX](https://github.com/LayorX)
