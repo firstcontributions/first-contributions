@@ -75,6 +75,7 @@
 - [Dhruv sawant]
 - [SungHo.You]
 - [Miles Morales] 
+- [DevElevate19](https://github.com/DevElevate19)
 - [lucas](https://github.com/Luc-as)
 - [Xephyronix](https://github.com/Xephyronix)
 - [Anurag]<--
