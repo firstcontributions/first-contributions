@@ -1,5 +1,6 @@
 # Contributors
 - [Rafael Severo](https://github.com/rafaeumesmo) 
+- [Pedro Bizachi](https://github.com/PedroBizachi) - Greetings from Brazil!
 - [Raj Gajjar](https://github.com/RajGajjar-01)
 - [TJ Lucht](https://github.com/GoldenEntertainment) - I Like Watching Youtube Videos, I also Like making Games And apps
 - [Amit Mavinakatti] (https://github.com/Amit-Mavinakatti)
