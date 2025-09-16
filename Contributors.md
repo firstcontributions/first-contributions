@@ -1043,6 +1043,7 @@ Ben
 - [djyun](https://github.com/dongjooyun)
 - [Noflare](https://github.com/Noflare)
 - [yohaku7](https://github.com/yohaku7)
+- [Samuel Maxey](https://github.com/SMAX-byte)
 - [mukyoko](https://github.com/mukyoko)
 -[udhav vinaik](https://github.com/udhavvinaik)
 - [Raushan](https://github.com/oisitme)
