@@ -1,5 +1,6 @@
-# Contributors
--[Krish] (Hello i am from India , I started learning Open source contribution )
+# Contributor
+-[Krish] (https://github.com/codeWithkrish123)
+- [Marni Pawan Veer Sai](https://github.com/Pawan82003
 - [Mayen Akech](https://github.com/Mayen007)
 - [Rafael Severo](https://github.com/rafaeumesmo) 
 - [LayorX](https://github.com/LayorX)
@@ -44,6 +45,7 @@
 - [Rohan Shukla] (https://github.com/RohanShukla23)
 - [Chowdhury Tafsir Ahmed Siddiki](https://github.com/ctafsiras)
 - [marmiju](https://github.com/marmiju)
+- [meisam](https://github.com/bymeisam)
 - [Mahmoud Mohsen](https://github.com/Mahmoud12344)
 - [Gokoku](https://github.com/gokoku)
 - [Nishant Singh](https://github.com/vasu101)
