@@ -1717,6 +1717,7 @@ Eoin O'B
 - [Romuald Oluwatobi](https://github.com/Romulad)
 - [Miguel Mateo](https://github.com/Mike-2002-mx)
 - [Sahil Gulunjkar](https://github.com/Sahil4757)
+- [Lakshya Agrawal](https://github.com/Lakshya182005)
 - [AdityaRaj212](https://github.com/AdityaRaj212)
 - [JohnZhouCoder](https://github.com/JohnZhouCoder)
 - [Jonah Raiford](https://github.com/JonahXiaFei)
