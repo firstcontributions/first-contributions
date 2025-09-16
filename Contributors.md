@@ -816,6 +816,7 @@ P Venkata Rami Reddy
 - [richarddalves](https://github.com/richarddalves)
 - [Gabe Dorval](https://github.com/gabedorval589)
 - [Brendan Murphy](https://github.com/brendanM5216)
+- [Valentin Tissera](https://github.com/ValenTiss)
 - [Ukashatu Abdullahi](https://github.com/Ukashatu40)
 - [Sachin Kumar](https://github.com/Itsmesachin98)
 - [Tejas Raj](https://https://github.com/DRAKKKkk)
