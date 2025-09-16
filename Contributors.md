@@ -1,5 +1,6 @@
 # Contributors
 - [Mahanthesh S](https://github.com/Mahi2708)
+- [Bug9519](https://github.com/Bug9519)
 - [Marni Pawan Veer Sai](https://github.com/Pawan82003)
 - [Mayen Akech](https://github.com/Mayen007)
 - [Rafael Severo](https://github.com/rafaeumesmo) 
