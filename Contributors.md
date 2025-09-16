@@ -1,5 +1,6 @@
 # Contributors
 - [GENJI J](https://github.com/anya-minamoto)
+- [HighPoly](https://github.com/HighPolygon)
 - [Mahanthesh S](https://github.com/Mahi2708)
 - [Bug9519](https://github.com/Bug9519)
 - [Marni Pawan Veer Sai](https://github.com/Pawan82003)
@@ -88,6 +89,7 @@
 - [Dhruv sawant]
 - [SungHo.You]
 - [Caíque Oliveira](https://github.com/os-caique)
+- [Gabriel Eyo] (https://github.com/eyogabriel529-sen)
 - [Sundram Rai](https://github.com/Sundramrai3691)
 - [Miles Morales] 
 - [DevElevate19](https://github.com/DevElevate19)
@@ -2740,6 +2742,7 @@ DanyLeeCS
 - [RockStar]
 - [Tjark Wichmann](https://github.com/tjarkwichmann)
 - [Lucy]
+- [enguy-hub](https://github.com/enguy-hub)
 - [saideep](https://github.com/saideep-21)
 - [Tejas Chopade](https://github.com/Tejas9777)
 - [Anushka Wable](https://github.com/anushka-sys)
@@ -2839,3 +2842,4 @@ DanyLeeCS
 -[N. Sambit Suman](https://github.com/sumannsambit6)
 -[Wiktor Kostecki](https://github.com/JohnnyCage1337)
 -[Chitra Dongare](https://github.com/chitra-dongare)
+- [Colin Reichl](https://github.com/COReichl) - This is so cool!
