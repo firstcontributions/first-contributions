@@ -1,4 +1,5 @@
 # Contributors
+- [KANISH](hello)
 - [Rafael Severo](https://github.com/rafaeumesmo) 
 - [LayorX](https://github.com/LayorX)
 - [Pedro Bizachi](https://github.com/PedroBizachi) - Greetings from Brazil!
@@ -30,7 +31,7 @@
 -[Sailaja](https://github.com/Sailu5)
 - [Sim Hyeonmin](https://github.com/simhyunmin)
 - [Sanjay Senthilkumar](https://github.com/Sanj84-co)
--[KANISH](hello)
+- [KANISH](hello)
 - [KaliDeveIoper](https://github.com/KaliDeveIoper)
 - [Tirth Prajapati](https://github.com/TirthCric)
 - [Gbede Daniel] (https://github.com/dani12e)
