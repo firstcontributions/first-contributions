@@ -1,14 +1,10 @@
 # Contributors
-<<<<<<< HEAD
 - [Mahanthesh S](https://github.com/Mahi2708)
 - [Marni Pawan Veer Sai](https://github.com/Pawan82003)
 - [Mayen Akech](https://github.com/Mayen007)
 - [Rafael Severo](https://github.com/rafaeumesmo)
 - [LayorX](https://github.com/LayorX)
 - [Pedro Bizachi](https://github.com/PedroBizachi) - Greetings from Brazil!
-=======
-- [Rafael Severo](https://github.com/rafaeumesmo) 
->>>>>>> 86ab7148 (Resolve merge conflict in Contributors.md)
 - [Raj Gajjar](https://github.com/RajGajjar-01)
 - [TJ Lucht](https://github.com/GoldenEntertainment) - I Like Watching Youtube Videos, I also Like making Games And apps
 - [PrimEverDream](https://github.com/PrimEverDream) - Same as TJ Lucht
