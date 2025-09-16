@@ -7,6 +7,7 @@
 - [Amit Mavinakatti] (https://github.com/Amit-Mavinakatti)
 - [Abdul Rafique](https://github.com/abdul-rafique)
 - [Priyanshujindal](https://github.com/Priyanshujindal)
+- [Jack Bates](https://github.com/JackBates2007) - Hello Everyone!
 - [Watson](https://github.com/tanso0126)
 - [Krrishray](https://github.com/krrishray)
 - [Abhishek Rawat][https://github.com/Abhishek2rawat]
