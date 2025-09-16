@@ -2126,6 +2126,7 @@ Cloudman
 - [Oubai Bendjedidi](https://github.com/oubaibendjedidi)
 - [Ahmet Mert Şengöl](https://github.com/ahmertsengol)
 - [Ipshita Bhardwaj](https://github.com/ipshitabhardwaj)
+- [Amelia Chan](https://github.com/the-grind-begins)
 - [Sumaiyah Ibrahim](https://github.com/sumaiyahibrahim)
 - [Lucas Young](https://github.com/LucasYoung35)
 - [Pranjali Randive](https://github.com/PranjaliRandive)
