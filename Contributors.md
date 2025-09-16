@@ -30,6 +30,7 @@
 -[Sailaja](https://github.com/Sailu5)
 - [Sim Hyeonmin](https://github.com/simhyunmin)
 - [Sanjay Senthilkumar](https://github.com/Sanj84-co)
+-[KANISH](hello)
 - [KaliDeveIoper](https://github.com/KaliDeveIoper)
 - [Tirth Prajapati](https://github.com/TirthCric)
 - [Gbede Daniel] (https://github.com/dani12e)
