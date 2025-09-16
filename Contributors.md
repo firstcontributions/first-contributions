@@ -2478,6 +2478,7 @@ jack - first contribution practice
 - [Sepi](https://github.com/IsepantaI)
 - [Tiago Castilho](https://github.com/tcastilho10)
 - [Muhammed safvan p](https://github.com/M-Safvan-p)
+- [Mohammed Maaz M](https://github.com/MaazMohammedM)
 -[Priscila Fry](https://github.com/prifry)
 -[Stephen Ebichondo](https://github.com/sebichondo)
 - [Inês Lemos Ribeiro](https://github.com/InesssRibeiro)
