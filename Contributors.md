@@ -88,6 +88,7 @@
 - [Jack Crampton] (https://github.com/Gamesscow)
 - [Dhruv sawant]
 - [SungHo.You]
+- [Caíque Oliveira](https://github.com/os-caique)
 - [Gabriel Eyo] (https://github.com/eyogabriel529-sen)
 - [Sundram Rai](https://github.com/Sundramrai3691)
 - [Miles Morales] 
