@@ -55,6 +55,7 @@
 - bimo105108
 - DKshetry
 - Signal Bean
+- [Mark](https://github.com/Mark-fr-dev)
 - [Vedanth](https://github.com/Vedanth81106)
 - [Agus](https://github.com/agusfdzm)
 - [Diogo Ferreira](https://github.com/fdiogo1)
