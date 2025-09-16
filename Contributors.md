@@ -72,6 +72,7 @@
 - Vivek Gupta
 - bimo105108
 - DKshetry
+- Luan
 - Signal Bean
 - [Mark](https://github.com/Mark-fr-dev)
 - [Vedanth](https://github.com/Vedanth81106)
