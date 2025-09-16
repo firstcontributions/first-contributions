@@ -18,6 +18,7 @@
 - [Jessica Thomas](https://github.com/jmt713)
 - [b1tranger](https://github.com/b1tranger)
 - [NANAN](#####)
+- [Josh Mossman]
 - [Nurudeen Abdulsalaam](https://github.com/ndabdulsalaam)
 -[Rajeev Shivah](https://github.com/rajeevshivah)
 - [Siddharth Shravan Jha] (https://github.com/Siddharth18-dev)
