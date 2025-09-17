@@ -1552,6 +1552,7 @@ Eoin O'B
 - [SIva Saketh](https://github.com/sivasaketh)
 - Anya Satoru
 - [Dev Goyal](https://github.com/DevGoyal9238)
+- [Ujwal Suresh Vanjare](https://github.com/usv240)
 - [KigulaJesse](https://github.com/KigulaJesse)
 - [Taha Reeh] (https://github.com/TahaReeh)
 - [Joery van Santen](https://github.com/joeryvs)
