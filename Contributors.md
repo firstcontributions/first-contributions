@@ -43,6 +43,7 @@
 - [Monjurul Haque](https://github.com/MonjurulHaq)
 - [Sneha Gadekarla] (https://github.com/SnehaG100)
 - [Pavan  Mhaisne](https://github.com/piyushm4)
+- [laurent humeau](https://github.com/Laurent-Humeau)
 -[Sailaja](https://github.com/Sailu5)
 - [Sim Hyeonmin](https://github.com/simhyunmin)
 - [Filippos Angelakos](https://github.com/filipp-os) - Love from Greece!!!!
