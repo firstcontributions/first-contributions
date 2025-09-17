@@ -124,7 +124,7 @@
 - Debanjan Kshetry
 - Manthan Maidawat
 - A Bhargavi (https://github.com/bunnybhargavi)
-- Arnim Kuchhal
+- Arnim KuchhalNow open Contributors.md file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
 - Niv Aravindmali
 - Vasilis Kokotakis (https://github.com/VasilisKokotakis)
 - Lokesh Malik (https://github.com/Lucky-Malik)
@@ -183,6 +183,7 @@ sdumini
 - [Chetan Atram](https://github.com/RabbitBoii)
 - [Mauricio Pereira] (https://github.com/gitreece) 
 - [Ewan Black](https://github.com/ebl138)
+- [Christian Petrucci] 
 - [Rushikesh Deshmukh](https://github.com/Mrx207)
 - [Kunal Jindal](https://github.com/imkunaljindal)
 - [K Sri Latha] (https://github.com/KSriLatha18)
