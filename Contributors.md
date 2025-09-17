@@ -2865,3 +2865,4 @@ DanyLeeCS
 - [Jed Engel](https://github.com/Jed-From-Wisconsin) WHAT'S GOOD GITHUB NATION
 - [JAFitch](https://github.com/jafitch) glad to be here!
 - [otocolobus12](https://github.com/otocolobus12)
+- [ritik](https://github.com/ritik-python)
