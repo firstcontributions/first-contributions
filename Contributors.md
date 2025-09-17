@@ -1329,6 +1329,7 @@ Ben
 - [Arnav Joshi](https://github.com/Arnav020)
 - [Akash Dahal](https://github.com/DARKAD10)
 - [Andrew D](https://github.com/myMEDIA1578)
+- [Alan Bao Nguyen](https://github.com/alanbaonguyen)
 - [Leola](https://github.com/leolalopeslobo)
 - [Ravi](https://github.com/raviprakash7367)
 - [Druva Kumar](https://github.com/Dru-blip)
