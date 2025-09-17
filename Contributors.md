@@ -35,6 +35,7 @@
 - [Dennis van Oort] (https://github.com/dvanoort)
 - Vo Huy
 - Swedel Lasrado
+- [Janindu Nanayakkara](https://github.com/Janindu-n)
 - [Muhammad Farras Majid](https://github.com/mfarrasmajid)
 - [David devmanki](https://github.com/davamanki)
 - [Kailash](https://github.com/TSKailash)
