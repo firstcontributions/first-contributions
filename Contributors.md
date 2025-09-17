@@ -1,63 +1,33 @@
 # Contributors
-- [Omveer](https://github.com/narukaz/)
-- [GENJI J](https://github.com/anya-minamoto)
-- [smdekate-cs](https://github.com/smdekate-cs)
-- [HighPoly](https://github.com/HighPolygon)
-- [Mahanthesh S](https://github.com/Mahi2708)
-- [Sudhanshu Raj](https://github.com/SudhanshuRaj0309)
-- [Ali Nasser](https://github.com/AliNasser05)
-- [Bug9519](https://github.com/Bug9519)
-- [Marni Pawan Veer Sai](https://github.com/Pawan82003)
-- [Mayen Akech](https://github.com/Mayen007)
-- [Rafael Severo](https://github.com/rafaeumesmo) 
-- [LayorX](https://github.com/LayorX)
-- [Pedro Bizachi](https://github.com/PedroBizachi) - Greetings from Brazil!
-- [Raj Gajjar](https://github.com/RajGajjar-01)
-- [Jacopo Belli](https://github.com/Jacopobelli5)
-- [TJ Lucht](https://github.com/GoldenEntertainment) - I Like Watching Youtube Videos, I also Like making Games And apps
-- [PrimEverDream](https://github.com/PrimEverDream) - Same as TJ Lucht
 - [Amit Mavinakatti] (https://github.com/Amit-Mavinakatti)
-- [Abdul Rafique](https://github.com/abdul-rafique)
-- [Priyanshujindal](https://github.com/Priyanshujindal)
-- [Jack Bates](https://github.com/JackBates2007) - Hello Everyone!
-- [Watson](https://github.com/tanso0126)
-- [Krrishray](https://github.com/krrishray)
-- [Jacob](https://github.com/mj4863) - Jesus Christ!
-- [Abhishek Rawat][https://github.com/Abhishek2rawat]
-- [Surya Prakash Sharma][https://github.com/suryaprkash778-dot]
-- [Siddharth Chaudhary][https://github.com/SidChaudhary7]
-- [rryyqn](https://github.com/rryyqn)
-- [Jessica Thomas](https://github.com/jmt713)
-- [b1tranger](https://github.com/b1tranger)
-- [NANAN](#####)
-- [Josh Mossman]
-- [Nurudeen Abdulsalaam](https://github.com/ndabdulsalaam)
-- [Tanishk Singhal](https://github.com/Tanishkcodes)
++ [Amit Mavinakatti](https://github.com/Amit-Mavinakatti)
+
 -[Rajeev Shivah](https://github.com/rajeevshivah)
++ [Rajeev Shivah](https://github.com/rajeevshivah)
+
 - [Siddharth Shravan Jha] (https://github.com/Siddharth18-dev)
-- [Shalini Gupta](https://github.com/shalinigupta2501)
++ [Siddharth Shravan Jha](https://github.com/Siddharth18-dev)
+
 -[Godugu Veena](https://github.com/GoduguVeena)
++ [Godugu Veena](https://github.com/GoduguVeena)
+
 -[Shahid Afrid](https://github.com/shahid-afrid)
++ [Shahid Afrid](https://github.com/shahid-afrid)
+
 - [Dennis van Oort] (https://github.com/dvanoort)
++ [Dennis van Oort](https://github.com/dvanoort)
+
 - Vo Huy
++ [Vo Huy]
+
 - Shreyaa
++ [Shreyaa]
+
 - Swedel Lasrado
-- [Sergio Frastalis](https://github.com/SergioFrastalis)
-- [Janindu Nanayakkara](https://github.com/Janindu-n)
-- [Muhammad Farras Majid](https://github.com/mfarrasmajid)
-- [David devmanki](https://github.com/davamanki)
-- [Kailash](https://github.com/TSKailash)
-- [Priyanshu Saxena] (https://github.com/Priyanshuxddd)
-- [Sumit Pandey](https://github.com/5umitpandey)
-- [Monjurul Haque](https://github.com/MonjurulHaq)
-- [Sneha Gadekarla] (https://github.com/SnehaG100)
-- [Pavan  Mhaisne](https://github.com/piyushm4)
-- [laurent humeau](https://github.com/Laurent-Humeau)
++ [Swedel Lasrado]
+
 -[Sailaja](https://github.com/Sailu5)
-- [Sim Hyeonmin](https://github.com/simhyunmin)
-- [Filippos Angelakos](https://github.com/filipp-os) - Love from Greece!!!!
-- [Sanjay Senthilkumar](https://github.com/Sanj84-co)
-- [KaliDeveIoper](https://github.com/KaliDeveIoper)
++ [Sailaja](https://github.com/Sailu5)
 - [Tirth Prajapati](https://github.com/TirthCric)
 - [Gbede Daniel] (https://github.com/dani12e)
 - [Supilath](https://github.com/Supilath)
