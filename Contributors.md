@@ -75,6 +75,7 @@
 - [Ahmed Abdellatif](https://github.com/abdellatif72)
 - [Alex Ivaschenko] (https://github.com/ivaschenkoalex)
 - [Cameron Scott](https://github.com/cdscott37)
+- [Harsh Sahu](https://github.com/harshsahu383)
 - [Dayangku Fatin Masyitah] (https://github.com/aktnlxk)
 - Patty
 - Vivek Gupta
