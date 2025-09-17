@@ -41,6 +41,7 @@
 - Vo Huy
 - Shreyaa
 - Swedel Lasrado
+- [Sergio Frastalis](https://github.com/SergioFrastalis)
 - [Janindu Nanayakkara](https://github.com/Janindu-n)
 - [Muhammad Farras Majid](https://github.com/mfarrasmajid)
 - [David devmanki](https://github.com/davamanki)
