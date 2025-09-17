@@ -2813,6 +2813,7 @@ DanyLeeCS
 - [Bryan Trujillo](https://github.com/btruj)
 - [Rahul Bhargava](https://github.com/rahul0299)
 - [Ethan Senger](https://github.com/E-bosss)
+- [Victor Afolabi](https://github.com/folabi00)
 - [Samuel Cuerrier](https://github.com/SamuelCuerrier01)
 - Isidro Marquez
 - [Dinelka Thilina](https://github.com/dinelkathilina)
