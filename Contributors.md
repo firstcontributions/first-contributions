@@ -63,6 +63,7 @@
 - [meisam](https://github.com/bymeisam)
 - [Mahmoud Mohsen](https://github.com/Mahmoud12344)
 - [Gokoku](https://github.com/gokoku)
+- [Kamakijr](https://github.com/kamakijr)
 - [Nishant Singh](https://github.com/vasu101)
 - sardor Uchqunov
 - [Nagy Csomor István] (https://github.com/Csomorka)
