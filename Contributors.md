@@ -247,6 +247,7 @@ sdumini
 - [원세영](https://github.com/seyoung5744)
 - [Akash Goyal](https://github.com/1223akash)
 - [Jacques Antoine]
+- [Mohd Ayan](https://github.com/codistan-commit)
 - [SQDEL]
 - [Plexton](https://github.com/ZaibLComrade)
 - [knlklabacka]
