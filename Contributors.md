@@ -1,6 +1,7 @@
 # Contributors
 - [Omveer](https://github.com/narukaz/)
 - [GENJI J](https://github.com/anya-minamoto)
+- [smdekate-cs](https://github.com/smdekate-cs)
 - [HighPoly](https://github.com/HighPolygon)
 - [Mahanthesh S](https://github.com/Mahi2708)
 - [Bug9519](https://github.com/Bug9519)
