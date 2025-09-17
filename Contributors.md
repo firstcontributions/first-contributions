@@ -34,6 +34,7 @@
 -[Shahid Afrid](https://github.com/shahid-afrid)
 - [Dennis van Oort] (https://github.com/dvanoort)
 - Vo Huy
+- Shreyaa
 - Swedel Lasrado
 - [Janindu Nanayakkara](https://github.com/Janindu-n)
 - [Muhammad Farras Majid](https://github.com/mfarrasmajid)
