@@ -22,6 +22,7 @@
 - [Priyanshujindal](https://github.com/Priyanshujindal)
 - [Jack Bates](https://github.com/JackBates2007) - Hello Everyone!
 - [Watson](https://github.com/tanso0126)
+- [Eric G Butler Jr](https://github.com/ericbutler1209)
 - [Krrishray](https://github.com/krrishray)
 - [Jacob](https://github.com/mj4863) - Jesus Christ!
 - [Abhishek Rawat][https://github.com/Abhishek2rawat]
