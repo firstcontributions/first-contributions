@@ -2784,3 +2784,5 @@ DanyLeeCS
 - Munendra Choudhary 
 -[Vedant Raj Singh Parmar](github.com/VVR6)
 -[Usama Ayoub](github.com/sam3690)
+-[Mory Koulibaly] (https://github.com/morysk) 
+
