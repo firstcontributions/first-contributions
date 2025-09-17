@@ -2883,3 +2883,4 @@ DanyLeeCS
 - [Kong Lor](https://github.com/kjl-89) hello!
  - [Ella](https://github.com/Ellasimms1) hey!
  - [Leon](https://github.com/Lvang05) Hello.
+ [ARendall](https://github.com/18arendall) Hi everyone!
