@@ -218,6 +218,7 @@ sdumini
 - [Nolan Carlisle](https://github.com/NCarlisle24)
 - [Shivam Shandilya](https://github.com/shivamshandilya2100)
 - [Hoang Viet Nguyen](https://github.com/hoangviet-nguyen)
+- [Siddharth Mishra](https://github.com/SIDDHARTH7729)
 - [Meet Shah](https://github.com/Meet6338-X)
 - [Sushmitha](https://github.com/Sushmigit)
 - [Okatakyieba Boadu](https://github.com/oke06)
