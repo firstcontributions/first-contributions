@@ -29,6 +29,7 @@
 - [NANAN](#####)
 - [Josh Mossman]
 - [Nurudeen Abdulsalaam](https://github.com/ndabdulsalaam)
+- [Tanishk Singhal](https://github.com/Tanishkcodes)
 -[Rajeev Shivah](https://github.com/rajeevshivah)
 - [Siddharth Shravan Jha] (https://github.com/Siddharth18-dev)
 - [Shalini Gupta](https://github.com/shalinigupta2501)
