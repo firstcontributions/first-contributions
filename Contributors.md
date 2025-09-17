@@ -1537,6 +1537,7 @@ Eoin O'B
 - [KigulaJesse](https://github.com/KigulaJesse)
 - [Taha Reeh] (https://github.com/TahaReeh)
 - [Joery van Santen](https://github.com/joeryvs)
+- [Ahmad Raza](https://github.com/Ahmad-Raza810)
 - [Sitanshu Nandan](https://github.com/stansho)
 - [Fatih Portakal](https://github.com/GoStKoRx)
 - [Ctrshift-Pm](https://github.com/Ctrshift-Pm)
