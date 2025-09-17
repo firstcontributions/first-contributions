@@ -61,6 +61,7 @@
 - [Rohan Shukla] (https://github.com/RohanShukla23)
 - [Chowdhury Tafsir Ahmed Siddiki](https://github.com/ctafsiras)
 - [marmiju](https://github.com/marmiju)
+- [Jose David Elizondo] (https://github.com/jose-elizondo-dev)
 - [meisam](https://github.com/bymeisam)
 - [Mahmoud Mohsen](https://github.com/Mahmoud12344)
 - [Gokoku](https://github.com/gokoku)
