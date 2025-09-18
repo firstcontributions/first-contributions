@@ -1377,6 +1377,7 @@ Ben
 - [Atit](https://github.com/0xAtit)
 - [Ameluc Ahognidje](https://github.com/ameluc-ahognidje)
 - [Anu Priya Pulagam](https://github.com/AnuPriyaPulagam)
+- [Nihal Gupta] (https://github.com/Nihal0690)
 - [Varsha Gitty](https://github.com/vgg1459)
 - [Görkem](https://github.com/gorkemozsari)
 - [Ian McManus](https://github.com/ianmcman)
