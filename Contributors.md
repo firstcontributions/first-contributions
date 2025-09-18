@@ -40,6 +40,7 @@
 - [NANAN](#####)
 - [Josh Mossman]
 - [John JAcob]
+- [Debanjan Floydee]
 - [Nurudeen Abdulsalaam](https://github.com/ndabdulsalaam)
 - [Tanishk Singhal](https://github.com/Tanishkcodes)
 -[Rajeev Shivah](https://github.com/rajeevshivah)
@@ -198,6 +199,7 @@ sdumini
 - [William W.] (https://github.com/ParadigmPacket)
 - [Shalini V] (https://github.com/shalini515)
 - [Vedhashree Sampath] (https://github.com/vedhashrees)
+- [Vrusha] (https://github.com/vrushaaa)
 - [Mohith Butta] (https:/github.com/loicmohithnovoct)
 - [Saloni Zade](https://github.com/Saloni0111-cpu)
 - [Chetan Atram](https://github.com/RabbitBoii)
