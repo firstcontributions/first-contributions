@@ -1808,6 +1808,7 @@ Eoin O'B
 - [Aryan Suvarna](https://github.com/AryanSuvarna)
 - [Tunde Suleiman](https://github.com/tsuleiman03)
 - [Aung Kyaw Wai Htun](https://github.com/akwhtun)
+- [Adewale Opeloyeru](https://github.com/AdewaleOpeloyeru)
 - [Jazmynn Banks](https://github.com/jazmynnbanks)
 - [Yusuf Ahmad Jalil](https://github.com/YusufDW1)
 - [Yunus Aydogdu](https://github.com/aydogduyunus)
