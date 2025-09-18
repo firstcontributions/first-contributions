@@ -1064,6 +1064,7 @@ Ben
 - [Chad Kovac](https://github.com/wrek)
 - [GCabane](https://github.com/GCabane)
 - [hide361](https://github.com/hide361)
+- [Kaiden](http://github.com/herkaiden)
 - [Lily](https://github.com/lilypandey)
 - [wxh1018](https://github.com/wxh1018)
 - [LateGit](https://github.com/LateGit)
