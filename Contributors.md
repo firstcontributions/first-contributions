@@ -1,7 +1,7 @@
 # Contributors
 
 - [Omveer](https://github.com/narukaz/)
-- [Davvv] (https://github.com/david-reyes-18) - How could I change the color white to red? :O
+- [Davvv] (https://github.com/david-reyes-18) - How could I change the color white to red? :3
 - [GENJI J](https://github.com/anya-minamoto)
 - [smdekate-cs](https://github.com/smdekate-cs)
 - [HighPoly](https://github.com/HighPolygon)
