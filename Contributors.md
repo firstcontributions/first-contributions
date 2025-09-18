@@ -1394,6 +1394,7 @@ Eoin O'B
 - [Umair Amir](https://github.com/UmairAmir)
 - [Sandhya R](https://github.com/sandhya13r)
 - [Yifan Rigny](https://github.com/yrigny)
+- [Nishant Mahadik](https://github.com/Nishantt81)
 - [Sunit] (https://github.com/sunit25)
 - [Salar Amir](https://github.com/SalarAmir)
 - [Leila (Radi Adil)](https://github.com/l3331l4)
