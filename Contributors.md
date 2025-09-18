@@ -26,6 +26,7 @@
 - sai
    [Itika Goel][https://github.com/itikaa]
 - [Jack Bates](https://github.com/JackBates2007) - Hello Everyone!
+- [Lane Henslee](https://github.com/huncholane) - Go Vols
 - [Watson](https://github.com/tanso0126)
 - [Eric G Butler Jr](https://github.com/ericbutler1209)
 - [Krrishray](https://github.com/krrishray)
