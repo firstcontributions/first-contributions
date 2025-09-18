@@ -40,6 +40,7 @@
 - [NANAN](#####)
 - [Josh Mossman]
 - [John JAcob]
+- [Debanjan Floydee]
 - [Nurudeen Abdulsalaam](https://github.com/ndabdulsalaam)
 - [Tanishk Singhal](https://github.com/Tanishkcodes)
 -[Rajeev Shivah](https://github.com/rajeevshivah)
