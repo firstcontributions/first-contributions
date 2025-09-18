@@ -2,6 +2,7 @@
 - [Omveer](https://github.com/narukaz/)
 - [Mir-Asim-Ali](https://mirasim.netlify.app/)
 - [GENJI J](https://github.com/anya-minamoto)
+- [Mihir M](https://github.com/mihirm3hub)
 - [smdekate-cs](https://github.com/smdekate-cs)
 - [HighPoly](https://github.com/HighPolygon)
 - [Mahanthesh S](https://github.com/Mahi2708)
