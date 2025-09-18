@@ -1279,6 +1279,7 @@ Ben
 - [Matt Bellardi](https://github.com/met97)
 - [Pramatha](https://github.com/p-r-a-o)
 - [Cristina S](https://github.com/AhsokaTa)
+- [MiadosC1](https://github.com/MiadosC1)
 - [Furanimus](https://github.com/Furanimus)
 - [hectoru10](https://github.com/Hectoru10)
 - [mayurk224](https://github.com/mayurk224)
