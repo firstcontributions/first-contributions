@@ -53,6 +53,7 @@
 - [Janindu Nanayakkara](https://github.com/Janindu-n)
 - [Muhammad Farras Majid](https://github.com/mfarrasmajid)
 - [David devmanki](https://github.com/davamanki)
+- [Ajay]
 - [Kailash](https://github.com/TSKailash)
 - [Priyanshu Saxena] (https://github.com/Priyanshuxddd)
 - [Sumit Pandey](https://github.com/5umitpandey)
