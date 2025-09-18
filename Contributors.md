@@ -177,7 +177,7 @@ sdumini
 - [Sandy052005](https://github.com/sandy052005)
 - [Nikita Maurya](https://github.com/sun-andsky)
 - [Shreyas](https://github.com/skdoosh)
-- [Dobbs024](https://github.com/dobbs024)
+- [Dobbs024](https://github.com/dobbs024) My first open source contribution.
   [Tejas fulumbarkar]
 - [Maroof Khan](https://github.com/khanmaroof)
 - [Boruotez](https://github.com/borutoez)
