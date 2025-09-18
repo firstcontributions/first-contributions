@@ -19,6 +19,7 @@
 - [LayorX](https://github.com/LayorX)
 - [Benja] - Hello!
 - [Bhavana]
+- [stijee] - This is my first github commit. 
 - [freshmess](https://github.com/freshmess)
 - [Pedro Bizachi](https://github.com/PedroBizachi) - Greetings from Brazil!
 - [Raj Gajjar](https://github.com/RajGajjar-01)
