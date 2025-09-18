@@ -813,6 +813,7 @@ P Venkata Rami Reddy
 - Preenu
 - [haru0707](https://github.com/haru0707)
 - Swastik
+- [Benjamin Boateng](https://github.com/Bensolve)
 - [Faust Levity](https://github.com/Faust-Levity)
 - [Revati Keskar](https://gihub.som/RevatiKeskar)
 - [Rohin Garg](https://github.com/rohingarg12)
