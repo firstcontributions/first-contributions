@@ -60,6 +60,7 @@
 - Swedel Lasrado
 - Debanjan Kshetry
 - Kungfoo Panda
+- Shyynek
 - [Sergio Frastalis](https://github.com/SergioFrastalis)
 - [Janindu Nanayakkara](https://github.com/Janindu-n)
 - [Muhammad Farras Majid](https://github.com/mfarrasmajid)
