@@ -262,6 +262,7 @@ sdumini
 - [Dimirrius Farida](https://github.com/CodeBotD)
 - [Hruthik Chauan](https://github.com/hruthikchauhan07)
 - [Ahmad Rafiq](https://github.com/AhmadRafiq90)
+- [corvac] (https://github.com/corvac) hello world!
 - [Vinicius]
 - [jasbuildaweb] (https://github.com/jasbuildaweb)
 - [TheHolderCollective] (https://github.com/TheHolderCollective)
@@ -2291,6 +2292,7 @@ Cloudman
 - [harsh pachouri](https://github.com/Harsh-Pachouri)
 - [NullifiedSec Aka. Mashrur Rahman](https://github.com/NullifiedSec)
 - [Craig Jantzen](https://github.com/jantzenc)
+- [Cristo][https://github.com/crist-0]
 - [Nathaly Fairlie Pearson Freitas](https://github.com/NathalyFairlie)
 - [Priya Darshini Manda](https://github.com/mandaujjwalapriyadarshini)
 - [jeeracd](https://github.com/jeeracd)
@@ -2893,7 +2895,7 @@ DanyLeeCS
 - [Colin Reichl](https://github.com/COReichl) - This is so cool!
 -[Kolawole Yusuf](https://github.com/CodeWithKola)
 - [Nayoung Kim](https://github.com/nayoung16)
-- [Jed Engel](https://github.com/Jed-From-Wisconsin) WHAT'S GOOD GITHUB NATION
+- [Jed Engel](https://github.com/Jed-From-Wisconsin) HAT'S GOOD GITHUB NATION
 - [JAFitch](https://github.com/jafitch) glad to be here!
 - [otocolobus12](https://github.com/otocolobus12)
 - [ritik](https://github.com/ritik-python)
@@ -2906,3 +2908,4 @@ DanyLeeCS
  [kmj8843](https://github.com/kmj8843)
  [Eluri Pavan Kumar] (https://github.com/Pavan-000) Hello thanks for the Guidance
 - [Abdurrab Khan](https://github.com/AbdurrabKhan198) hello!
+-[Lakshay Singh Rathore](https://github.com/L-S-R). Hello!
