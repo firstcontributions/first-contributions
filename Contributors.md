@@ -26,6 +26,7 @@
 - sai
    [Itika Goel][https://github.com/itikaa]
 - [Jack Bates](https://github.com/JackBates2007) - Hello Everyone!
+- [Lane Henslee](https://github.com/huncholane) - Go Vols
 - [Watson](https://github.com/tanso0126)
 - [Eric G Butler Jr](https://github.com/ericbutler1209)
 - [Krrishray](https://github.com/krrishray)
@@ -50,6 +51,7 @@
 - Vo Huy
 - Shreyaa
 - Swedel Lasrado
+- Debanjan Kshetry
 - [Sergio Frastalis](https://github.com/SergioFrastalis)
 - [Janindu Nanayakkara](https://github.com/Janindu-n)
 - [Muhammad Farras Majid](https://github.com/mfarrasmajid)
@@ -138,7 +140,7 @@
 - [RUDRA TAILOR](https://github.com/RudraTailor)
 - santiago robles
 - adasrh yadav
-- Debanjan Kshetry
+- Debanjan Kshetry2
 - Manthan Maidawat
 - A Bhargavi (https://github.com/bunnybhargavi)
 - Arnim KuchhalNow open Contributors.md file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
