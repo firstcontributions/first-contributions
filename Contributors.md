@@ -3,6 +3,7 @@
 - [Mir-Asim-Ali](https://mirasim.netlify.app/)
 - [GENJI J](https://github.com/anya-minamoto)
 - [Mihir M](https://github.com/mihirm3hub)
+- [Algacyr Melo](https://github.com/algacyr-melo)
 - [smdekate-cs](https://github.com/smdekate-cs)
 - [HighPoly](https://github.com/HighPolygon)
 - [Mahanthesh S](https://github.com/Mahi2708)
@@ -2913,3 +2914,5 @@ DanyLeeCS
  [Eluri Pavan Kumar] (https://github.com/Pavan-000) Hello thanks for the Guidance
 - [Abdurrab Khan](https://github.com/AbdurrabKhan198) hello!
 -[Lakshay Singh Rathore](https://github.com/L-S-R). Hello!
+- [Geetr](https://github.com/Geetr695) Hi!! This is soo cool!
+- [adityay72](https://github.com/adityay72) This is a very good initiative!
