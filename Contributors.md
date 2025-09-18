@@ -98,6 +98,7 @@
 - [Agus](https://github.com/agusfdzm)
 - [Diogo Ferreira](https://github.com/fdiogo1)
 - [Hakimo abdikadir](https://github.com/hikmaladan)
+- [voiceinthedark](https://github.com/voiceinthedark)
 - Anushka
 - [Mohammed Ibrahim]
 - [Jason Wiggs](https://github.com/wiggs30)
