@@ -12,6 +12,7 @@
 - [Rafael Severo](https://github.com/rafaeumesmo) 
 - [LayorX](https://github.com/LayorX)
 - [Benja] - Hello!
+- [freshmess](https://github.com/freshmess)
 - [Pedro Bizachi](https://github.com/PedroBizachi) - Greetings from Brazil!
 - [Raj Gajjar](https://github.com/RajGajjar-01)
 - [Jacopo Belli](https://github.com/Jacopobelli5)
