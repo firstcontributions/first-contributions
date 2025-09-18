@@ -2291,6 +2291,7 @@ Cloudman
 - [harsh pachouri](https://github.com/Harsh-Pachouri)
 - [NullifiedSec Aka. Mashrur Rahman](https://github.com/NullifiedSec)
 - [Craig Jantzen](https://github.com/jantzenc)
+- [Cristo][https://github.com/crist-0]
 - [Nathaly Fairlie Pearson Freitas](https://github.com/NathalyFairlie)
 - [Priya Darshini Manda](https://github.com/mandaujjwalapriyadarshini)
 - [jeeracd](https://github.com/jeeracd)
