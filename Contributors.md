@@ -144,6 +144,7 @@
 - Aditya Singh Kushwah
 - [Kerem Balci](https://github.com/kerembalci90)
 - [Kat R.](https://github.com/KxttyKxt)
+- [Daniel Arrieta](https://github.com/Darrieta05)
 - [RUDRA TAILOR](https://github.com/RudraTailor)
 - santiago robles
 - adasrh yadav
