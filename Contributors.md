@@ -2895,7 +2895,7 @@ DanyLeeCS
 - [Colin Reichl](https://github.com/COReichl) - This is so cool!
 -[Kolawole Yusuf](https://github.com/CodeWithKola)
 - [Nayoung Kim](https://github.com/nayoung16)
-- [Jed Engel](https://github.com/Jed-From-Wisconsin) WHAT'S GOOD GITHUB NATION
+- [Jed Engel](https://github.com/Jed-From-Wisconsin) HAT'S GOOD GITHUB NATION
 - [JAFitch](https://github.com/jafitch) glad to be here!
 - [otocolobus12](https://github.com/otocolobus12)
 - [ritik](https://github.com/ritik-python)
@@ -2907,3 +2907,4 @@ DanyLeeCS
  [ARendall](https://github.com/18arendall) Hi everyone!
  [kmj8843](https://github.com/kmj8843)
 - [Abdurrab Khan](https://github.com/AbdurrabKhan198) hello!
+-[Lakshay Singh Rathore](https://github.com/L-S-R). Hello!
