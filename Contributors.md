@@ -34,6 +34,7 @@
 - [b1tranger](https://github.com/b1tranger)
 - [NANAN](#####)
 - [Josh Mossman]
+- [John JAcob]
 - [Nurudeen Abdulsalaam](https://github.com/ndabdulsalaam)
 - [Tanishk Singhal](https://github.com/Tanishkcodes)
 -[Rajeev Shivah](https://github.com/rajeevshivah)
