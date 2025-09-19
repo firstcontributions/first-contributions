@@ -47,6 +47,7 @@
 - [b1tranger](https://github.com/b1tranger)
 - [karan](https://github.com/karanhb-pixel)
 - [NANAN](#####)
+- [Digvijay Chauhan](https://github.com/chauhandigvijay1)
 - [Josh Mossman]
 - [John JAcob]
 - [Debanjan Floydee]
