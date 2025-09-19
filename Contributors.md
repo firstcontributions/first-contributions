@@ -21,6 +21,7 @@
 - [Rafael Severo](https://github.com/rafaeumesmo) 
 - [LayorX](https://github.com/LayorX)
 - [Benja] - Hello!
+- [Darion]
 - [Suhaib] - (https://github.com/Suhaib536)
 - [Bhavana]
 - [stijee] - This is my first github commit. 
