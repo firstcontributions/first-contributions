@@ -2970,3 +2970,4 @@ DanyLeeCS
 [Robert Blank](https://github.com/Blorbertfox42) Hello people
 [Cherry]
 - [Ash N.](https://github.com/7inhex/first-contributions) hiya >_o
+[Richard](https://github.com/Greate212) Software Development student. First contribution to an open source project for Version Control Essentials class.
