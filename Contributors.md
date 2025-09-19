@@ -2969,3 +2969,4 @@ DanyLeeCS
 [Jorge Sierra](https://github.com/jorge-maikel-sierra) Hello Welcome to my new life.
 [Robert Blank](https://github.com/Blorbertfox42) Hello people
 [Cherry]
+- [Ash N.](https://github.com/7inhex/first-contributions) hiya >_o
