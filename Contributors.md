@@ -150,6 +150,7 @@
 - [RUDRA TAILOR](https://github.com/RudraTailor)
 - santiago robles
 - adasrh yadav
+- [Taylor McDile]
 - Debanjan Kshetry2
 - Manthan Maidawat
 - A Bhargavi (https://github.com/bunnybhargavi)
