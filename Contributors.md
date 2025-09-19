@@ -16,6 +16,7 @@
 - [Bug9519](https://github.com/Bug9519)
 - [Marni Pawan Veer Sai](https://github.com/Pawan82003)
 - [Mayen Akech](https://github.com/Mayen007)
+- [Amit Kumar](https://github.com/AK-Amit-Kumar)
 - [Rafael Severo](https://github.com/rafaeumesmo) 
 - [LayorX](https://github.com/LayorX)
 - [Benja] - Hello!
