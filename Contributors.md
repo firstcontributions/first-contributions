@@ -104,6 +104,7 @@
 - sardor Uchqunov
 - [Nagy Csomor István] (https://github.com/Csomorka)
 - Jannatul Ferdous
+- Kylan Smith
 - Ahmed Abouelnaga
 - [Ahmed Abdellatif](https://github.com/abdellatif72)
 - [Alex Ivaschenko] (https://github.com/ivaschenkoalex)
