@@ -2969,3 +2969,4 @@ DanyLeeCS
 [Jorge Sierra](https://github.com/jorge-maikel-sierra) Hello Welcome to my new life.
 [Robert Blank](https://github.com/Blorbertfox42) Hello people
 [Cherry]
+[Richard](https://github.com/Greate212) Software Development student. First contribution to an open source project for Version Control Essentials class.
