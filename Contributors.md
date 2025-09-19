@@ -774,6 +774,7 @@ Shruti Tiwari
 - AdaltoGunther
 - [etsu] (https://github.com/etssu)
 - [realrkrathore] (https://github.com/realrkrathore)
+- [Sam Olson](https://github.com/SJOlson7) Hello everyone!
 - [Hafiz Umer Farooq](https://github.com/UmerFarooq9076)
 - [James Kim](https://github.com/jykim11)
 - [Rodrigo Furtado](https://github.com/roodrigofurtado)
