@@ -1,5 +1,6 @@
 # Contributors
 - [Omveer](https://github.com/narukaz/)
+- [Emilio](https://github.com/epeguero8311)
 - [ARYAN BHATT](https://github.com/aryanbhatt767)
 - [Bob Qin](https://github.com/Bob200409)
 - [Mir-Asim-Ali](https://mirasim.netlify.app/)
