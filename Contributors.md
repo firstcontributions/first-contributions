@@ -2111,6 +2111,7 @@ Cloudman
 - [AbubakerKhilji](https://github.com/Abubaker-khilji)
 - [Rathin Subramaniam](https://github.com/rathinsubra)
 - [Janice Fernandes](https://github.com/janiceferns02)
+- [Maksim Gordin](https://github.com/madmax5490)
 - [EstherCamela](https://github.com/Esther-Assena-pro)
 - [Deepak Ondimuthu\*\*](https://github.com/MeteorBlitz)
 - [Arsalan Mohseni](https://github.com/arsalanmohseni)
