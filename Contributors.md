@@ -26,7 +26,7 @@
 - [Jacopo Belli](https://github.com/Jacopobelli5)
 - [TJ Lucht](https://github.com/GoldenEntertainment) - I Like Watching Youtube Videos, I also Like making Games And apps
 - [Jon Johnson]
--[PrimEverDream](https://github.com/PrimEverDream) - Same as TJ Lucht
+- [PrimEverDream](https://github.com/PrimEverDream) - Same as TJ Lucht
 - [Amit Mavinakatti] (https://github.com/Amit-Mavinakatti)
 - [Abdul Rafique](https://github.com/abdul-rafique)
 - [Priyanshujindal](https://github.com/Priyanshujindal)
