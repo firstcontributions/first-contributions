@@ -2873,6 +2873,7 @@ DanyLeeCS
 - [Konrad Ciesielski](https://github.com/Konrad-C-Dev)
 - Benjamin Jones
 - Munendra Choudhary
+-[Tharun Reddy](https://github.com/Tharun-0408) Hoping to learn new stuff!
 - [Olapu Ajay](https://github.com/olapuajay)
 - [Vedant Raj Singh Parmar](github.com/VVR6)
 - [Usama Ayoub](github.com/sam3690)
