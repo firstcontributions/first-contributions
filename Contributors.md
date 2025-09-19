@@ -2259,6 +2259,7 @@ Cloudman
 - [CristhianBravo865](https://github.com/CristhianBravo865)
 - [Anastazja Glowska](https://github.com/anastazja-glowska)
 - [Jenny Khanh Nguyen](https://github.com/jennykhanhnguyen)
+- [Quan Dinh](https://github.com/Vanquan99)
 - [Ngoc Phuong Vi Nguyen](https://github.com/phuongvinguyen)
 - [Anurag Chaturvedi](https://github.com/anuragjcchaturvedi)
 - [X3R074](My first contribution: https://github.com/X3R074)
