@@ -24,6 +24,7 @@
 - [Bhavana]
 - [stijee] - This is my first github commit. 
 - [freshmess](https://github.com/freshmess)
+- [wasiq345](https://github.com/wasiq345) -Greetings from Pakistan
 - [Pedro Bizachi](https://github.com/PedroBizachi) - Greetings from Brazil!
 - [Raj Gajjar](https://github.com/RajGajjar-01)
 - [Jacopo Belli](https://github.com/Jacopobelli5)
