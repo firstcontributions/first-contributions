@@ -290,6 +290,7 @@ sdumini
 - [원세영](https://github.com/seyoung5744)
 - [संकेत](https://github.com/Hercules-078)
 - [Akash Goyal](https://github.com/1223akash)
+- [Amaan214](https://github.com/Amaan214)
 - [Jacques Antoine]
 - [Mohd Ayan](https://github.com/codistan-commit)
 - [SQDEL]
