@@ -14,6 +14,7 @@
 - [Algacyr Melo](https://github.com/algacyr-melo)
 - [smdekate-cs](https://github.com/smdekate-cs)
 - [HighPoly](https://github.com/HighPolygon)
+- [Himanshi Rao Yenugupalli](https://github.com/himanshiyenugupalli)
 - [Kamal Agrahari](https://github.com/ikamalagrahari/)
 - [Mahanthesh S](https://github.com/Mahi2708)
 - [Saimanikanta](https://github.com/saimanikanta1012) - Hello Everyone!
