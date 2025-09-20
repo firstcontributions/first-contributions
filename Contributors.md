@@ -1051,6 +1051,7 @@ The-Yash-is-Joined
 - [sony](https://github.com/sony77697)
 - [Juho Lee](https://github.com/jxuho)
 - [Helen C](https://github.com/hmczap)
+- [Sham Kota](https://github.com/sk-tech)
 - [Katsu](https://github.com/kakko341)
 - [Anay](https://github.com/Anay-Patil)
 - [Sabahat](https://github.com/Saba633)
