@@ -2,6 +2,7 @@
 - [Prod_Ayesian](https://github.com/ProdAyesian) Make Happy Meek playable cygames :(
 - [Ifham-Hashir](https://github.com/Ifham-Hashir)
 - [Omveer](https://github.com/narukaz/)
+- [Oluwaseyi Popoola](https://github.com/OluwaseyiPopoola)
 - [ARYAN BHATT](https://github.com/aryanbhatt767)
 - [Jon Goodwin](https://github.com/Jon-Goodwin)
 - [Bob Qin](https://github.com/Bob200409)
