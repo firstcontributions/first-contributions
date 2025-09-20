@@ -2,10 +2,10 @@ package first_contributions;
 
 public class Calculator {
 
-    // Add method
-    public double add(double a, double b) {
-        return a + b;
-    }
+   public double add(double a, double b) {
+    return a + b + 2; // different modification to cause conflict
+}
+
 
     // Subtract method
     public double subtract(double a, double b) {
