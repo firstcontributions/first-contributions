@@ -865,6 +865,7 @@ P Venkata Rami Reddy
 - [Mokshith]
 - [Pinion](https://pinion.kr)
 - [Zubair]
+- [mishafisha](https://github.com/mishafisha)
 - [jürgen vanzeir]
 - [Keya Shah] (https://github.com/keysh123)
 - [yeisondev001 💎](https://github.com/yeisondev001)
