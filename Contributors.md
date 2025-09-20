@@ -44,7 +44,7 @@
 - [Priyanshujindal](https://github.com/Priyanshujindal)
 - sai
 - hello
-   [Itika Goel][https://github.com/itikaa]
+- [Itika Goel][https://github.com/itikaa]
 - [Jack Bates](https://github.com/JackBates2007) - Hello Everyone!
 - [thePrnvBot](https://github.com/thePrnvBot) - Sup Doods!
 - [Lane Henslee](https://github.com/huncholane) - Go Vols
