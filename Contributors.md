@@ -366,6 +366,7 @@ sdumini
   naveen-branch-first-contribution
   NMAKHIJA- Test Contribution
 - [Naveen Kumar](https://github.com/RowthuNaveenKumar)
+- Ja'Nya Ward 
 [Devansh Kapoor](https://github.com/Devansh2208)
 - [Kashif Kawsar Qadri](https://github.com/KashifQadri90)
 -[Kavya Krishna](https://github.com/Cx-rrupt)
