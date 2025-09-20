@@ -310,6 +310,7 @@ sdumini
 - [संकेत](https://github.com/Hercules-078)
 - [Akash Goyal](https://github.com/1223akash)
 - [Amaan214](https://github.com/Amaan214)
+- [jaop321](https://github.com/jaop321)
 - [Jacques Antoine]
 - [Mohd Ayan](https://github.com/codistan-commit)
 - [SQDEL]
