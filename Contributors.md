@@ -238,6 +238,7 @@ sdumini
 - [K Sri Latha] (https://github.com/KSriLatha18)
 - [Sarthak Katiyar] (https://github.com/SarthakKatiyar2004)
 - [Ajay C](https://github.com/Ajaynirm)
+- [Madan A](https://github.com/maddy-aleti)
 - [Nithwin V M](https://github.com/Nithwin)
 - [SATKURI KAILASH](https://github.com/KailashSatkuri-warangal)
 - [phyo thiri zaw](https://github.com/phyothirizaw)
