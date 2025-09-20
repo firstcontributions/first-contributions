@@ -59,6 +59,7 @@
 - [Jessica Thomas](https://github.com/jmt713)
 - [b1tranger](https://github.com/b1tranger)
 - [karan](https://github.com/karanhb-pixel)
+- [azhank391](https://github.com.azhank391)
 - [NANAN](#####)
 - [Digvijay Chauhan](https://github.com/chauhandigvijay1)
 - [Josh Mossman]
@@ -2702,6 +2703,7 @@ sh0uka
 -[Julian Londono](https://github.com/JULI1926)
 - [Ronaldo Cheruiyot](https://github.com/ronaldocheruiyot)
 -[John Martin](https://github.com/JohnMartin0301)
+-[Alex Riley] (https://github.com/alexjriley)
 -[Shakil Ahmed](https://github.com/paharivalu)
 -[Ryan Sumithra](https://github.com/RyanSumithra)
 -[Nabin Bista](https://github.com/Nabinbista12)
@@ -2997,3 +2999,4 @@ DanyLeeCS
 - [Yohann Moraes](https://github.com/YMoraes092004) Hoping this is the first of many contributions!
 [Bryan](https://github.com/BryAllison)Spread love not hate! Hello from the USA!
 [Yidnekachew Sitotaw](https://github.com/Yidnekachew-SK)
+[Paul Bushen](https://github.com/ItzPlasmaYT) Hello fellow gits.  Hope you have a nice day :)
