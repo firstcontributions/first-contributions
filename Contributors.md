@@ -1380,6 +1380,7 @@ Ben
 - [Andrew D](https://github.com/myMEDIA1578)
 - [Alan Bao Nguyen](https://github.com/alanbaonguyen)
 - [Leola](https://github.com/leolalopeslobo)
+- [Minh Nguyen](https://github.com/yulw22) From Việt Nam with love
 - [Ravi](https://github.com/raviprakash7367)
 - [Druva Kumar](https://github.com/Dru-blip)
 - [Adam Moria](https://github.com/aabro1325)
