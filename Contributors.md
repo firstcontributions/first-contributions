@@ -685,6 +685,7 @@ LIUYY到此一游
 - [Asianzu Henry](https://github.com/asianzuhenry)
 - [Ayush Gupta](https://github.com/AyushGupta11442)
 - [Alejandro](https://github.com/Jano2402)
+- [Chanchal patel]
 - [Rajashekar+Mudigonda] (https://github.com/RajshekarM/)
 - [BorisovCloud](https://github.com/BorisovCloud)
 - [Kamdoum Loich](https://github.com/kamdoumloich)
