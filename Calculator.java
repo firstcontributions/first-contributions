@@ -4,7 +4,7 @@ public class Calculator {
 
    // Original add method
 public double add(double a, double b) {
-    return a + b + 1; // intentionally modified to cause conflict
+    return a + b; // intentionally modified to cause conflict
 }
 
 
