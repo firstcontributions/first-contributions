@@ -3001,4 +3001,5 @@ DanyLeeCS
 [Bryan](https://github.com/BryAllison)Spread love not hate! Hello from the USA!
 [Yidnekachew Sitotaw](https://github.com/Yidnekachew-SK)
 [Paul Bushen](https://github.com/ItzPlasmaYT) Hello fellow gits.  Hope you have a nice day :)
+- [Riley Temme](https://github.com/RileyTemme) Hello, I am a Web Development Student!
 [Swap Ranadive](https://github.com/grilled-swampert) etching my starting point here
