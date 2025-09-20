@@ -774,6 +774,7 @@ LIUYY到此一游
 - [Ales Urankar](https://github.com/alesurankar)
 - [Krrish](https://github.com/venom827).
 - [Arjun](https://github.com/Silwal103)
+- [Aditya Alok](https://github.com/Alok-devlops)
 - [Alexander Sivrikov](https://github.com/FrenkyFix1987)
 - [Cyril Nishanth](https://github.com/CyrilNishanth)
 - [imsang27](https://github.com/imsang27)
