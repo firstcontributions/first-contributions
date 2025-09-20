@@ -3005,3 +3005,4 @@ DanyLeeCS
 [Paul Bushen](https://github.com/ItzPlasmaYT) Hello fellow gits.  Hope you have a nice day :)
 - [Riley Temme](https://github.com/RileyTemme) Hello, I am a Web Development Student!
 [Swap Ranadive](https://github.com/grilled-swampert) etching my starting point here
+[Cole Starry](https://github.com/Cole-Starry) Catching up on College work.
