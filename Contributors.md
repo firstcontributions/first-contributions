@@ -834,6 +834,7 @@ P Venkata Rami Reddy
 - [Vedang Wajge](https://github.com/VedangWajge)
 - [Prasad Sapkal](https://github.com/prasadsapkal55)
 - [Eduardo Luís](https://github.com/snt94)
+- [Jatin Mehta](https://github.com/JatinMehta007)
 - [Sarthak Sharma](https://github.com/Srthk-Shrm)
   [Chandana shetty]
 - [Medrine Mulindi](https://github.com/Mulindi123)
