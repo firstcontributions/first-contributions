@@ -30,6 +30,7 @@
 - [Amit Kumar](https://github.com/AK-Amit-Kumar)
 - [Rafael Severo](https://github.com/rafaeumesmo) 
 - [LayorX](https://github.com/LayorX)
+- [Omar Emara](https://github.com/omarf2000)
 - [Benja] - Hello!
 - [Darion]
 - [Suhaib] - (https://github.com/Suhaib536)
