@@ -1,4 +1,5 @@
 # Contributors
+[Vikas Saini](https://github.com/vikas-saini-7) - Big Things Coming Up :)
 [lalith](https://github.com/LalithSiramdasu) - this is my first open source contribution
   [Diya](https://github.com/123diya-coder)
 -  [OSZDAO](https://github.com/oszdao) Happy to see you Here.
@@ -1078,6 +1079,7 @@ The-Yash-is-Joined
 - [Janani](https://github.com/cjanani)
 - [Yaoke](https://github.com/geeksKK8)
 - [demhak](https://github.com/dem-hak)
+chloe
 - [Akshey](https://github.com/aksheyd)
 - [Gargi](https://github.com/gargig02)
 - [Durva](https://github.com/durva7px)
@@ -3041,3 +3043,5 @@ DanyLeeCS
 - [Logan Schmunck](https://github.com/lSchmunck) - A little behind on college work but I'm figuring it out.
 - [Periyasamy R](https://github.com/PERI14/) - My first Contributuon game on
 -[Gaurav Kumar](https://github.com/gkbdc01/) - I just make a change to a clone repo
+[Anna Woodlief](https://github.com/AnnaWoodlief) - Hi! Hope everyone has a good day!!
+- [Sp1cyK1w1](https://github.com/Sp1cyK1w1) - Hope my efforts will pay off this year!!!
