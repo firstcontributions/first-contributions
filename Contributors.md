@@ -3025,3 +3025,4 @@ DanyLeeCS
 - [Kriti D](https://github.com/Kderasadi)
 - [tyler kamrowski](https://github.com/sparkyboom28) - i like to game and code
 - [Malak Atitallah](https://github.com/malakatit) - My first contrubition
+- [yuktha](https://github.com/yuktha0505) - My first contrubition
