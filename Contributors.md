@@ -1514,6 +1514,7 @@ Eoin O'B
 - [SaginalaAzeez](https://github.com/asheedh)
 - [Eric-DaRosa](https://github.com/EricDar12)
 - [Vernwalker](https://github.com/Vernwalker)
+- [Shota Hayashi](https://github.com/SH.CodeLv)
 - Arnav Oruganty
 - [RahulRawat](https://github.com/RHL-RWT-01)
 - [James](https://github.com/jwunet)
