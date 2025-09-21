@@ -2985,13 +2985,15 @@ DanyLeeCS
 [kzvang](https://github.com/kzvang) My first contribution!
 - Aarush Sanghi
 
-Hello guysss..
-I am Lakshya Sharma and making my first open source contribution
+
 [Enes Demir](https://github.com/GadgetXl)
 [Sushean Sharma](https://github.com/sushean)
 [Jorge Sierra](https://github.com/jorge-maikel-sierra) Hello Welcome to my new life.
 [Robert Blank](https://github.com/Blorbertfox42) Hello people
 [Cherry]
+
+Hello guysss..
+I am Lakshya Sharma and making my first open source contribution
 - [Ash N.](https://github.com/7inhex/first-contributions) hiya >_o
 [Richard](https://github.com/Greate212) Software Development student. First contribution to an open source project for Version Control Essentials class.
 - [Yohann Moraes](https://github.com/YMoraes092004) Hoping this is the first of many contributions!
