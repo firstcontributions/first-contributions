@@ -2508,6 +2508,7 @@
 - [AlphaCode](https://github.com/alphacode-2325)
 - [Amer](https://github.com/iamAmer)
 - [Rachel Stern](https://github.com/RachelStern20)
+- [Mahir Jeet](https://github.com/mahir21)
 - [Mukeshwaran K](https://github.com/mukesh-m01)
 - [Dede Sangmortey](https://github.com/Ladydede)
 - [Anastasia Tumanov](https://github.com/anastasiatumanov)
@@ -2688,4 +2689,3 @@
 - [Jy](https://github.com/jy1534)
 - [ompug](https://github.com/ompug) -[Ajeet Prasad](www.linkedin.com/in/ajeet-prasad-223951326) -[Monu Kumari](https://github.com/monukri4548)
 - [Shashank Padmasali](https://github.com/shashank3115)
-- [Mahir Jeet](https://github.com/mahir21)
