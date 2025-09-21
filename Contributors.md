@@ -9,6 +9,7 @@
 - [Bjorn Stephany](https://github.com/bjornstephany)
 - [Omveer](https://github.com/narukaz/)
 - [Basit Channa](https://github.com/basitbc)
+- [Shashank Kempasagara](https://github.com/sha5114nk)
 - [Oluwaseyi Popoola](https://github.com/OluwaseyiPopoola)
 - [ARYAN BHATT](https://github.com/aryanbhatt767)
 - [Jon Goodwin](https://github.com/Jon-Goodwin)
