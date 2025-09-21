@@ -15,6 +15,7 @@
 - [Shaan Edroos](https://github.com/sh66n)
 - [Jayce Stephens]
 - [Bob Qin](https://github.com/Bob200409)
+- [Mohit Sharma](https://github.com/TheWizardKingg)
 - [Mir-Asim-Ali](https://mirasim.netlify.app/)
 - [GENJI J](https://github.com/anya-minamoto)
 - [Mihir M](https://github.com/mihirm3hub)
