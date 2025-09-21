@@ -130,6 +130,7 @@
 - [Harsh Sahu](https://github.com/harshsahu383) 
 - [Dayangku Fatin Masyitah] (https://github.com/aktnlxk)
 - Patty
+  [Nick](https://github.com/nick-noble) First open source contribution
 - Vivek Gupta
 - bimo105108
 - DKshetry
