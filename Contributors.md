@@ -2713,6 +2713,7 @@ jack - first contribution practice
 - [Josh](https://github.com/joshrtust)
 -[CHHAVI GAUTAM](https://github.com/Chhavi001)
 -[Rodrigo Lima][https://github.com/Kosm9]
+- [Aditya Kumar](https://github.com/aditya-23140)
 -[Jefferson Ruiz][https://github.com/jeffersonruiz]
 sh0uka
 -[Sharvari More][https://gtihub.com/Sharvari-21]
