@@ -77,6 +77,7 @@
 - [NANAN](#####)
 - [Digvijay Chauhan](https://github.com/chauhandigvijay1)
 - [Josh Mossman]
+- [Sebastian Serban](https://github.com/Sebastianserban)
 - [John JAcob]
 - [Debanjan Floydee]
 - [Nurudeen Abdulsalaam](https://github.com/ndabdulsalaam)
