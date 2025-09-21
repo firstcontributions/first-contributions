@@ -1908,6 +1908,7 @@ Eoin O'B
 - [Chibuzor Israel](https://github.com/pseudoeazy)
 - [Sumit Pandey](https://github.com/SumitPandey08)
 - [Stefano Fratello](https://github.com/sterik000)
+- [Stefano Mazziotta](https://github.com/stefano-mazziotta)
 - [Ragini Tiwar](https://github.com/Ragini-Tiwari)
 - [Nidhin Sankar](https://github.com/nidhinsankar)
 - [Pardhu Mattupalli](https://github.com/Parlynx1)
