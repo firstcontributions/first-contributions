@@ -502,6 +502,7 @@ LIUYY到此一游
 - [Juan Lopez](https://github.com/crigrii)
 - [Dhananjay Mohan](https://github.com/djvu2k6)
 - [Ankit Aggarwal](https://curious.pm)
+- [Vishal Singh](https://github.com/vishussingh24)
 - [rubik](https://github.com/rubiksfood)
 - [Marek Mudron](https://github.com/MarekMudron)
 - [Arjun](https://github.com/arjundevensharma)
