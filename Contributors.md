@@ -1008,6 +1008,7 @@ The-Yash-is-Joined
 - [Seul](https://github.com/seulahn)
 - [Mika](https://github.com/mihirK5)
 - [Aditya reddy](https://github.com/Adityareddy106)
+- [Chandrakant Koneti](https://github.com/konetichandrakant)
 - [KG](https://github.com/kgoel9899)
 - [lzc](https://github.com/lzcooker)
 - [Parth](https://github.com/partth-code)
