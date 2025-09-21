@@ -2691,4 +2691,4 @@
 - [Ajeet Prasad](www.linkedin.com/in/ajeet-prasad-223951326)
 - [Monu Kumari](https://github.com/monukri4548)
 - [Shashank Padmasali](https://github.com/shashank3115)
-- [Mahir Ayaan](https://github.com/mahirayaan)
+- [Mahir Ayan](https://github.com/mahirayaan)
