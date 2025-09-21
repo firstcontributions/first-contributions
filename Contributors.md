@@ -141,6 +141,7 @@
 - DKshetry
 - Luan
 - Signal Bean
+- [Sandip Maurya] (https://github.com/sandipmaurya2611)
 - [Mark](https://github.com/Mark-fr-dev)
 - [Vedanth](https://github.com/Vedanth81106)
 - [Agus](https://github.com/agusfdzm)
