@@ -1,4 +1,5 @@
 # Contributors
+[lalith](https://github.com/LalithSiramdasu) - this is my first open source contribution
   [Diya](https://github.com/123diya-coder)
 -  [OSZDAO](https://github.com/oszdao) Happy to see you Here.
 - [DeAnna_Nichols]
