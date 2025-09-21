@@ -9,6 +9,7 @@
 - [Oluwaseyi Popoola](https://github.com/OluwaseyiPopoola)
 - [ARYAN BHATT](https://github.com/aryanbhatt767)
 - [Jon Goodwin](https://github.com/Jon-Goodwin)
+- [Jayce Stephens]
 - [Bob Qin](https://github.com/Bob200409)
 - [Mir-Asim-Ali](https://mirasim.netlify.app/)
 - [GENJI J](https://github.com/anya-minamoto)
