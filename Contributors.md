@@ -65,6 +65,7 @@
 - [rryyqn](https://github.com/rryyqn)
 - [Jessica Thomas](https://github.com/jmt713)
 - [b1tranger](https://github.com/b1tranger)
+- [Harsha Vardhan N][https://github.com/N-Harsha-Vardhan-Dev/] - Hey What's up bingos !
 - [karan](https://github.com/karanhb-pixel)
 - [azhank391](https://github.com.azhank391)
 - [NANAN](#####)
