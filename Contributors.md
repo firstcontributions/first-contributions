@@ -1535,6 +1535,7 @@ Eoin O'B
 - [joelinux60](https://github.com/joelinux60)
 - [Zemenu Mekuria](https://github.com/Teklez)
 - [Kimjunseoo](https://github.com/kimjunseoo)
+- [Matteo Ricci](https://github.com/PyZenMatt)
 - [utkarsh007007](https://github.com/utkarsh007007)
 - [soybean501](https://github.com/soybean501)
 - [smandadhi9](https://github.com/smandadhi9)
