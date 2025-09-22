@@ -52,6 +52,7 @@
 - [Omar Emara](https://github.com/omarf2000)
 - [Benja] - Hello!
 - [ilomarsk](https://github.com/ilomarsk/)
+- [amethyst](https://github.com/krishshaw418)
 - [Darion]
 - [Suhaib] - (https://github.com/Suhaib536)
 - [Cody] - (https://github.com/CodeToCody)
