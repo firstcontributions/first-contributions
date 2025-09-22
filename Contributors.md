@@ -370,6 +370,7 @@ sdumini
 - [Joseph Halloran] (https://github.com/josephfhalloran)
 - [fatimah](https://github.com/grindstack)
 - [Jithin](https://github.com/jithin-dotcom)
+- Adithya Nanuvala
 - [Devansh Singh](https://github.com/Devansh-04)
 - [Mandrukamal](https://github.com/Mandrukamal)
 - [Gokul](https://github.com/Gokul-S-dev)
