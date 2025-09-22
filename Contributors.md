@@ -47,6 +47,7 @@
 - [ilomarsk](https://github.com/ilomarsk/)
 - [Darion]
 - [Suhaib] - (https://github.com/Suhaib536)
+- [Cody] - (https://github.com/CodeToCody)
 - [Bhavana]
 - [stijee] - This is my first github commit. 
 - [freshmess](https://github.com/freshmess)
