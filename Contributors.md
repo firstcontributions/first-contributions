@@ -151,7 +151,7 @@ ranjith_dhanasekaran
 - [Kamakijr](https://github.com/kamakijr)
 - [Nishant Singh](https://github.com/vasu101)
 - sardor Uchqunov
-- [Nagy Csomor István] (https://github.com/Csomorka)
+- [Nagy Csomor István] (https://github.com/Csomorka)surferjreb
 - Jannatul Ferdous
 - Kylan Smith
 - Ahmed Abouelnaga
@@ -174,7 +174,7 @@ ranjith_dhanasekaran
 - [Diogo Ferreira](https://github.com/fdiogo1)
 - [Hakimo abdikadir](https://github.com/hikmaladan)
 - [voiceinthedark](https://github.com/voiceinthedark)
-- Anushka
+- Anushkasurferjreb
 - [Mohammed Ibrahim]
 - [Jason Wiggs](https://github.com/wiggs30)
 - [Artuh](https://github.com/lArtuh)
@@ -345,7 +345,7 @@ sdumini
 - [jasbuildaweb] (https://github.com/jasbuildaweb)
 - [TheHolderCollective] (https://github.com/TheHolderCollective)
 - [Arezoo]
-- [1983730774]
+- [1983730774]surferjreb
 - [원세영](https://github.com/seyoung5744)
 - [संकेत](https://github.com/Hercules-078)
 - [Akash Goyal](https://github.com/1223akash)
@@ -371,7 +371,7 @@ sdumini
 - [Alaqmar Electricwala](https://github.com/AlaqmarElectricwala)
 - [Sanjeev](Grabbing oppurtunities flawlessly)
 - [Joseph Halloran] (https://github.com/josephfhalloran)
-- [fatimah](https://github.com/grindstack)
+- [fatimah](https://github.com/grindstack)surferjreb
 - [Jithin](https://github.com/jithin-dotcom)
 - Adithya Nanuvala
 - [Devansh Singh](https://github.com/Devansh-04)
@@ -442,7 +442,7 @@ sdumini
 - [Anastasia Bobere](https://github.com/anastasiabobere)
 - [Nishant Naravarajula](https://github.com/nish-naravarajula)
 - [Thomas.(Jiashuo Liang)]
-- [Vishal Manik](https://github.com/vmanik2k)
+- [Vishal Manik](https://github.com/vmanik2ksurferjreb)
 - [Esraa Hassan] (https://github.com/Esraa-Hassan0)
 - [Vittorino  Favaro](https://github.com/vittorino-favaro)
 - [Dipak Halkude](https://github.com/DipakHalkude)
@@ -463,7 +463,7 @@ sdumini
 - [GiantPrince](https://github.com/GiantPrince)
 - Zhuocheng Li
 - Shiv
--huzaifa(https://github.com/huzaifaashraf-code)
+-huzaifa(https://github.com/huzaifaashraf-cosurferjrebde)
 - [Ibrahim]
  -[Pavan kumar Bhedam](https://github.com/Pavankumarbhedam)
 - shreyash patil [https://github.com/Sudeshpatil07]
@@ -531,7 +531,7 @@ LIUYY到此一游
 - [Madhu Dora]()
 - [Nishal Ahmed](https://github.com/nishalahmedpk)
 - [Lokesh Kumar]()
-- [Rudrabikram Roy](https://github.com/codedbyrudra)
+- [Rudrabikram Roy](https://github.com/codedbyrusurferjrebdra)
 - [Jenna Hall](https://github.com/swejenna)
 - [Juan Lopez](https://github.com/crigrii)
 - [Dhananjay Mohan](https://github.com/djvu2k6)
@@ -2910,6 +2910,7 @@ DanyLeeCS
 - [RockStar]
 - [Tjark Wichmann](https://github.com/tjarkwichmann)
 - [Lucy]
+- [surferjreb](https://github.com/surferjreb)
 - [enguy-hub](https://github.com/enguy-hub)
 - [saideep](https://github.com/saideep-21)
 - [Tejas Chopade](https://github.com/Tejas9777)
