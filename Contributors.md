@@ -97,11 +97,7 @@
 -[Shahid Afrid](https://github.com/shahid-afrid)
 ranjith_dhanasekaran
 - [Dennis van Oort] (https://github.com/dvanoort)
-- Vo Huy
-- Shreyaa
-- Swedel Lasrado
-- Debanjan Kshetry
-- Kungfoo Panda
+- dlash allen
 
 - Shyynek
 - [Sergio Frastalis](https://github.com/SergioFrastalis)
