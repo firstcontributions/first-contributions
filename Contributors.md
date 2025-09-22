@@ -3058,3 +3058,4 @@ DanyLeeCS
 - [Hiya Trehan](https://github.com/Heya28) - Thanks for the tutorial. Also catching up on college assignments.
 - [Whitewolfo64](https://github.com/Whitewolfo64) - This is how we do it.
 -[Alexis Huerta](https://github.com/alekamaster) - Am I should feel scared of AI? Now day i dont Know of this is worth it...
+- [Ajay Mudettula](https://github.com/AjaySmarc) - Lets Connect 😇 !
