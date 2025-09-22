@@ -3054,3 +3054,4 @@ DanyLeeCS
 - [Sp1cyK1w1](https://github.com/Sp1cyK1w1) - Hope my efforts will pay off this year!!!
 [Waleed Ahmed](https://github.com/Ahmed546) - This is the start of new era remember the name!!!
 - [Hiya Trehan](https://github.com/Heya28) - Thanks for the tutorial. Also catching up on college assignments.
+- [Whitewolfo64](https://github.com/Whitewolfo64) - This is how we do it.
