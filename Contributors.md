@@ -98,6 +98,7 @@
 ranjith_dhanasekaran
 - [Dennis van Oort] (https://github.com/dvanoort)
 - dlash allen
+- dchj chdh lchl
 
 - Shyynek
 - [Sergio Frastalis](https://github.com/SergioFrastalis)
