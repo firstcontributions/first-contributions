@@ -3055,3 +3055,4 @@ DanyLeeCS
 [Waleed Ahmed](https://github.com/Ahmed546) - This is the start of new era remember the name!!!
 - [Hiya Trehan](https://github.com/Heya28) - Thanks for the tutorial. Also catching up on college assignments.
 - [Whitewolfo64](https://github.com/Whitewolfo64) - This is how we do it.
+-[Alexis Huerta](https://github.com/alekamaster) - Am I should feel scared of AI? Now day i dont Know of this is worth it...
