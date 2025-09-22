@@ -72,6 +72,7 @@
 - [Siddharth Chaudhary][https://github.com/SidChaudhary7]
 - [rryyqn](https://github.com/rryyqn)
 - [Jessica Thomas](https://github.com/jmt713)
+- [Aaron]
 - [b1tranger](https://github.com/b1tranger)
 - [Harsha Vardhan N][https://github.com/N-Harsha-Vardhan-Dev/] - Hey What's up bingos !
 - [karan](https://github.com/karanhb-pixel)
