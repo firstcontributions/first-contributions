@@ -27,6 +27,7 @@
 - [Algacyr Melo](https://github.com/algacyr-melo)
 - [smdekate-cs](https://github.com/smdekate-cs)
 - [HighPoly](https://github.com/HighPolygon)
+- [Samruddhi Khade](https://github.com/khadesamrudhi)
 - [Himanshi Rao Yenugupalli](https://github.com/himanshiyenugupalli)
 - [Kamal Agrahari](https://github.com/ikamalagrahari/)
 - [Mahanthesh S](https://github.com/Mahi2708)
