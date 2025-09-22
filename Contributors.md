@@ -126,6 +126,7 @@ ranjith_dhanasekaran
 - [laurent humeau](https://github.com/Laurent-Humeau)
 -[Sailaja](https://github.com/Sailu5)
 - [Sim Hyeonmin](https://github.com/simhyunmin)
+-[Mahak Singh(https://github.com/Mahak-10)]
 - [Filippos Angelakos](https://github.com/filipp-os) - Love from Greece!!!!
 - [Sanjay Senthilkumar](https://github.com/Sanj84-co)
 - [KANISH](hello)
