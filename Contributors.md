@@ -1,4 +1,5 @@
 # Contributors
+- [Cypher](https://github.com/s1999-alt/) - Master the basics, and everything else becomes easier.
 - Saurebh Kokate - THis is my 1st contribution
 [Vikas Saini](https://github.com/vikas-saini-7) - Big Things Coming Up :)
 [lalith](https://github.com/LalithSiramdasu) - this is my first open source contribution
@@ -37,6 +38,7 @@
 - [Ali Nasser](https://github.com/AliNasser05)
 - [Aryan Jadhav](https://github.com/AryanJadhav15)
 - [Bug9519](https://github.com/Bug9519)
+- [Ashen Umeda](https://github.com/ashenumeda)
 - [Marni Pawan Veer Sai](https://github.com/Pawan82003)
 - [Mayen Akech](https://github.com/Mayen007)
 - [Amit Kumar](https://github.com/AK-Amit-Kumar)
@@ -3069,4 +3071,5 @@ DanyLeeCS
 -[Alexis Huerta](https://github.com/alekamaster) - Am I should feel scared of AI? Now day i dont Know of this is worth it...
 - [siminpool](https://github.com/siminpool)
 - [Huda Bikhoir](https://github.com/hudabikhoir)
+- [Cheonkyu](https://github.com/cheonkyu)
 - [Rapteon](https://github.com/Rapteon)
