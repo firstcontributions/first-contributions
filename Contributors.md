@@ -1,5 +1,4 @@
 # Contributors
-- Saurebh Kokate - THis is my 1st contribution
 [Vikas Saini](https://github.com/vikas-saini-7) - Big Things Coming Up :)
 [lalith](https://github.com/LalithSiramdasu) - this is my first open source contribution
   [Diya](https://github.com/123diya-coder)
@@ -3060,4 +3059,3 @@ DanyLeeCS
 - [Whitewolfo64](https://github.com/Whitewolfo64) - This is how we do it.
 -[Alexis Huerta](https://github.com/alekamaster) - Am I should feel scared of AI? Now day i dont Know of this is worth it...
 - [Ajay Mudettula](https://github.com/AjaySmarc) - Lets Connect 😇 !
-
