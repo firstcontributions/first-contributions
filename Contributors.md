@@ -23,6 +23,7 @@
 - [Shaan Edroos](https://github.com/sh66n)
 - [Jayce Stephens]
 - [Bob Qin](https://github.com/Bob200409)
+- [Maria Herrmann] (https://github.com/marherr-19)
 - [Mohit Sharma](https://github.com/TheWizardKingg)
 - [Mir-Asim-Ali](https://mirasim.netlify.app/)
 - [GENJI J](https://github.com/anya-minamoto)
