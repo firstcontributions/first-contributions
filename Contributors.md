@@ -1168,6 +1168,7 @@ Ben
 - [LunkadV](https://github.com/LunkadV)
 - [Elif Ş.](https://github.com/elifsz)
 - [eszanon](https://github.com/eszanon)
+- [joao-galindo](https://github.com/joaogabrielsouza-coder)
 - [Rey Jao](https://github.com/jao-rey)
 - [Diego Gutierrez](https://github.com/DiegoGutierrezP)
 - [Eiheir](https://github.com/ebininin)
