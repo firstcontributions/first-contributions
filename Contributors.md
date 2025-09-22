@@ -60,6 +60,7 @@
 - [Priyanshujindal](https://github.com/Priyanshujindal)
 - sai
 - hello
+- [Sharvesh S][https://github.com/Sharvesh3]- This is my First FOSS Contribution
    [Itika Goel][https://github.com/itikaa]
 - [Jack Bates](https://github.com/JackBates2007) - Hello Everyone!
 - [thePrnvBot](https://github.com/thePrnvBot) - Sup Doods!
