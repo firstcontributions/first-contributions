@@ -2162,6 +2162,7 @@ Cloudman
 - [TejoSaiSwaroop](https://github.com/tejosaiswaroop)
 - [Mayank Pratap Singh](https://github.com/04-mayank)
 - [AlicepetereoNa](https://github.com/AlicepetereoNa)
+- [HanzoK](https://github.com/HanzoK) Hope you have a good day!
 - [gurlalbhullarz](https://github.com/gurlalbhullarz)
 - [Siribhargavi](https://github.com/SIRIBHARGAVI1234)
 - [Squirrelcoding](https://github.com/Squirrelcoding)
