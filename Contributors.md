@@ -11,6 +11,8 @@
 - [Bjorn Stephany](https://github.com/bjornstephany)
 - [Omveer](https://github.com/narukaz/)
 - [Anashe Gaseller] 
+
+- [Anish Gupta](https://github.com/AnishKG19)
 - [Basit Channa](https://github.com/basitbc)
 - [Shashank Kempasagara](https://github.com/sha5114nk)
 - [Oluwaseyi Popoola](https://github.com/OluwaseyiPopoola)
