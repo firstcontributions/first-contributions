@@ -66,6 +66,7 @@
 - [Lane Henslee](https://github.com/huncholane) - Go Vols
 - [Watson](https://github.com/tanso0126)
 - [Eric G Butler Jr](https://github.com/ericbutler1209)
+- [Dhanush Kotrike] (https://github.com/dhanushkotrike) - Starting my open source journey
 - [Krrishray](https://github.com/krrishray)
 - [Jacob](https://github.com/mj4863) - Jesus Christ!
 - [Abhishek Rawat][https://github.com/Abhishek2rawat]
