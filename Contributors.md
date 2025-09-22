@@ -1548,6 +1548,7 @@ Eoin O'B
 - [Abid Shaikh](https://github.com/Abid-sh84)
 - [fikrirazor](https://github.com/fikrirazor)
 - [callme-kvj](https://github.com/kvj-harsha)
+- [Devashish Roy](https://github.com/roydevashish)
 - [Sylvain L](https://github.com/sylvain-lec)
 - [João Inacio](https://github.com/J-Inacio)
 - [Yunus Adiyaman](https://github.com/yervaa)
