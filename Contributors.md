@@ -1181,6 +1181,7 @@ Ben
 -[udhav vinaik](https://github.com/udhavvinaik)
 - [Raushan](https://github.com/oisitme)
 - [Tan Loc](https://github.com/htloc98)
+- [Marlon Dêivide](https://github.com/mayondavid)
 - [AvatarG](https://github.com/AvatarG)
 - [Morley lane](https://github.com/0ni4)
 - [OWilliams](https://github.com/O-Bots)
