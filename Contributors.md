@@ -13,6 +13,7 @@
 - [DeAnna_Nichols]
 - [FaFa-02]
 - [Khalid](https://github.com/khalidx3)
+- [Adnan](https://github.com/adnan-2504)
 - [Toton]
 -[Sridattu Reddy Piduru](https://github.com/Sri-dathu)It's my First Contribution as a learner  and Exicted to do moreee.
 -[hewin31](https://github.com/hewin31)
@@ -410,6 +411,7 @@ sdumini
 - [Hamza Khan](https://github.com/giacomo-folli)
 - [Ananya G Bharadwaj]
 - [Ravi Kumar Jha](https://github.com/ravijha9546)
+- [Shashwat suman](https://github.com/shashwatsuman28)
 - [Dhairya Dev](https://github.com/hamzak51)
 - [Ayomide Saheed](https://github.com/luc-ay)
 - [Muhammad Bilal Saleem](https://github.com/Muhammad-Bilal-Saleem)
@@ -3116,3 +3118,4 @@ DanyLeeCS
 - [Pooja B](https://github.com/PoojaB24)
 - [Edward Tan](https://github.com/EdwardJiazhenTan) - Hi everyone!
 - Parveen Rana
+- [Anushka] (https://github.com/Anushka8)
