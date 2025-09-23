@@ -1705,6 +1705,7 @@ Matthew Burgos
 - [toya33](https://github.com/toya33)
 - [Cez](https://github.com/Cezzzzzz)
 - [Oluwasemilore Omotade-Michaels](https://github.com/shemigam1)
+- [Kevin Ndolo](https://github.com/kevin-ndolo)
 - [Leonardo Schell](https://github.com/DevSchell)
 - [ycvy](https://github.com/ycvy)
 - [Fahim Muntasir](https://github.com/fahim-muntasir)
