@@ -56,7 +56,7 @@
 - [amethyst](https://github.com/krishshaw418)
 - [Darion]
 - [Suhaib] - (https://github.com/Suhaib536)
-- [Cody] - (https://github.com/CodeToCody)
+- [Kurisu] - (https://github.com/AliasCody)
 - [Kayode Babalola](https://github.com/kayode-dev) - Great to be here
 - [Bhavana]
 - [stijee] - This is my first github commit. 
