@@ -2,12 +2,12 @@
 - [051821](https://github.com/051821) - New contribution my first open source
 - [Cypher](https://github.com/s1999-alt/) - Master the basics, and everything else becomes easier.
 - Saurebh Kokate - THis is my 1st contribution
-[Vikas Saini](https://github.com/vikas-saini-7) - Big Things Coming Up :)
-[lalith](https://github.com/LalithSiramdasu) - this is my first open source contribution
-  [Diya](https://github.com/123diya-coder)
+- [Vikas Saini](https://github.com/vikas-saini-7) - Big Things Coming Up :)
+- [lalith](https://github.com/LalithSiramdasu) - this is my first open source contribution
+- [Diya](https://github.com/123diya-coder)
 - [Nitesh Kumar](https://github.com/kumarbaberwal)
--  [OSZDAO](https://github.com/oszdao) Happy to see you Here.
--  [BiNa Maxx](https://github.com/bina5461) My First Contribution as a learner.
+- [OSZDAO](https://github.com/oszdao) Happy to see you Here.
+- [BiNa Maxx](https://github.com/bina5461) My First Contribution as a learner.
 - [DeAnna_Nichols]
 - [Toton]
 - [Prod_Ayesian](https://github.com/ProdAyesian) Make Happy Meek playable cygames :(
