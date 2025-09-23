@@ -2668,6 +2668,7 @@ jack - first contribution practice
 - [Varsha Ghodase](https://github.com/Varsha1202)
 - [Sepi](https://github.com/IsepantaI)
 - [Tiago Castilho](https://github.com/tcastilho10)
+- [hudabikhoir](https://github.com/hudabikhoir)
 - [Muhammed safvan p](https://github.com/M-Safvan-p)
 - [Mohammed Maaz M](https://github.com/MaazMohammedM)
 -[Priscila Fry](https://github.com/prifry)
