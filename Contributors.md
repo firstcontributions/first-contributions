@@ -48,6 +48,7 @@
 - [Mayen Akech](https://github.com/Mayen007)
 - [Amit Kumar](https://github.com/AK-Amit-Kumar)
 - [Rafael Severo](https://github.com/rafaeumesmo) 
+- [Emanuel Orduña](https://github.com/emaordu)
 - [LayorX](https://github.com/LayorX)
 - [Omar Emara](https://github.com/omarf2000)
 - [Benja] - Hello!
