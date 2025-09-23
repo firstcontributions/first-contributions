@@ -3100,3 +3100,4 @@ DanyLeeCS
 - [vishnuVarthan](https://github.com/Vishnu-Varthan1)
 - [RISHI KUMAR](https://github.com/rishii1695) - im gonna lock tf in
 - [akashisang](https://github.com/Akashisang)
+- [Duo](https://github.com/NamingRacksMyBrain)
