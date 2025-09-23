@@ -1507,6 +1507,7 @@ Ben
 - [krit22](https://github.com/krit22)
 Eoin O'B
 - [Alexandru Paraschiv](https://github.com/alex-p-git)
+Lawrence Ahaneku
 - [Halil İbrahim Kutmur](https://github.com/kutmur)
 - [Adnan Zaib](https://github.com/AadiZee)
 - [Mariusz Sobczak](https://github.com/SmoQ)
