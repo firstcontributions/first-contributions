@@ -34,6 +34,7 @@
 - [Shaan Edroos](https://github.com/sh66n)
 - [Jayce Stephens]
 - [Shreya Nigam](https://github.com/shreya-328) Excited to try !
+- [Aakash Singh](https://github.com/aakashsingh04)
 - [Zahida Hussain]
 - [Bob Qin](https://github.com/Bob200409)
 - [Maria Herrmann] (https://github.com/marherr-19)
