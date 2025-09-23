@@ -52,7 +52,7 @@
 - [Amit Kumar](https://github.com/AK-Amit-Kumar)
 - [Rafael Severo](https://github.com/rafaeumesmo) 
 - [Emanuel Orduña](https://github.com/emaordu)
-- [Anuraag Akella](https://github.com/Anuraag03)
+- [Anuraag Akella](https://github.com/Anuraag03) - My First Contribution!!
 - [LayorX](https://github.com/LayorX)
 - [Omar Emara](https://github.com/omarf2000)
 - [Benja] - Hello!
