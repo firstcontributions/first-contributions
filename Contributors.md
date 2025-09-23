@@ -10,6 +10,7 @@
 - [Nitesh Kumar](https://github.com/kumarbaberwal)
 -  [OSZDAO](https://github.com/oszdao) Happy to see you Here.
 -  [BiNa Maxx](https://github.com/bina5461) My First Contribution as a learner.
+-  Afan Shaikh.
 - [DeAnna_Nichols]
 - [FaFa-02]
 - [Khalid](https://github.com/khalidx3)
