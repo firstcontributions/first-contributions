@@ -11,7 +11,6 @@
 -  [OSZDAO](https://github.com/oszdao) Happy to see you Here.
 -  [BiNa Maxx](https://github.com/bina5461) My First Contribution as a learner.
 - [DeAnna_Nichols]
-- [DeAnna_Nichols]
 - [FaFa-02]
 - [Toton]
 - [Prod_Ayesian](https://github.com/ProdAyesian) Make Happy Meek playable cygames :(
