@@ -60,6 +60,7 @@
 - [Amit Mavinakatti] (https://github.com/Amit-Mavinakatti)
 - [Abdul Rafique](https://github.com/abdul-rafique)
 - [Priyanshujindal](https://github.com/Priyanshujindal)
+- [Thien](https://github.com/Thien0912)
 - sai
 - hello
 - [Sharvesh S][https://github.com/Sharvesh3]- This is my First FOSS Contribution
