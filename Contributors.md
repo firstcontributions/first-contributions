@@ -39,6 +39,7 @@
 - [HighPoly](https://github.com/HighPolygon)
 - [Samruddhi Khade](https://github.com/khadesamrudhi)
 - [Himanshi Rao Yenugupalli](https://github.com/himanshiyenugupalli)
+- [Harshita Kode](https://github.com/2210030019)
 - [Kamal Agrahari](https://github.com/ikamalagrahari/)
 - [Mahanthesh S](https://github.com/Mahi2708)
 - [Saimanikanta](https://github.com/saimanikanta1012) - Hello Everyone!
@@ -52,6 +53,7 @@
 - [Amit Kumar](https://github.com/AK-Amit-Kumar)
 - [Rafael Severo](https://github.com/rafaeumesmo) 
 - [Emanuel Orduña](https://github.com/emaordu)
+- [Anuraag Akella](https://github.com/Anuraag03) - My First Contribution!!
 - [LayorX](https://github.com/LayorX)
 - [Omar Emara](https://github.com/omarf2000)
 - [Benja] - Hello!
@@ -3104,3 +3106,4 @@ DanyLeeCS
 - [akashisang](https://github.com/Akashisang)
 - [Duo](https://github.com/NamingRacksMyBrain)
 - [SindhuPriy](https://github.com/SindhuPriya1842007)
+- [Pooja B](https://github.com/PoojaB24)
