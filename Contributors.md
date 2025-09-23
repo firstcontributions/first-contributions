@@ -3104,6 +3104,7 @@ DanyLeeCS
 - [Thejas P Rao](https://github.com/thejasrao262003)
 - [vishnuVarthan](https://github.com/Vishnu-Varthan1)
 - [RISHI KUMAR](https://github.com/rishii1695) - im gonna lock tf in
+- [Jztchl](https://github.com/jztchl) - Here to learn, contribute, and leave some footprints in Git.
 - [akashisang](https://github.com/Akashisang)
 - [Duo](https://github.com/NamingRacksMyBrain)
 - [SindhuPriy](https://github.com/SindhuPriya1842007)
