@@ -1,12 +1,12 @@
 # Contributors
 - [InsaneAbhinav](https://github.com/InsaneAbhinav) - First Git Contribution GG boys & girls!!!
--[051821](https://github.com/051821) - This is my first open-source contribution
+- [051821](https://github.com/051821) - This is my first open-source contribution
 - [Cypher](https://github.com/s1999-alt/) - Master the basics, and everything else becomes easier.
 - Saurebh Kokate - THis is my 1st contribution
-[Vikas Saini](https://github.com/vikas-saini-7) - Big Things Coming Up :)
-[lalith](https://github.com/LalithSiramdasu) - this is my first open source contribution
-  [Diya](https://github.com/123diya-coder)
-[Krish](https://github.com/Krish-9-6)
+- [Vikas Saini](https://github.com/vikas-saini-7) - Big Things Coming Up :)
+- [lalith](https://github.com/LalithSiramdasu) - this is my first open source contribution
+- [Diya](https://github.com/123diya-coder)
+- [Krish](https://github.com/Krish-9-6)
 - [Nitesh Kumar](https://github.com/kumarbaberwal)
 -  [OSZDAO](https://github.com/oszdao) Happy to see you Here.
 -  [BiNa Maxx](https://github.com/bina5461) My First Contribution as a learner.
@@ -14,8 +14,8 @@
 - [FaFa-02]
 - [Khalid](https://github.com/khalidx3)
 - [Toton]
--[Sridattu Reddy Piduru](https://github.com/Sri-dathu)It's my First Contribution as a learner  and Exicted to do moreee.
--[hewin31](https://github.com/hewin31)
+- [Sridattu Reddy Piduru](https://github.com/Sri-dathu)It's my First Contribution as a learner  and Exicted to do moreee.
+- [hewin31](https://github.com/hewin31)
 - [Prod_Ayesian](https://github.com/ProdAyesian) Make Happy Meek playable cygames :(
 - [Ifham-Hashir](https://github.com/Ifham-Hashir)
 - [Bjorn Stephany](https://github.com/bjornstephany)
@@ -647,6 +647,15 @@ LIUYY到此一游
 - [Gurudayal Singh](https://github.com/23f-1000003)
 - [K.Jitin](https://github.com/jitin2508)
 - [cashtanowiec](https://github.com/cashtanowiec)
+- [Mattia Cocco](https://github.com/Matti02co)
+- [Isaac Lopez](https://github.com/IsaacLC1104)
+- [Yash Gupta](https://github.com/YashGupta2106)
+- [Nathan Hall](https://github.com/Zero4793)
+- [Paulo Izidoro](https://github.com/Cacotaku)
+- [Rakesh Vanam](https://github.com/rakeshvanam6868)
+- [KamalKant](https://github.com/kamal2730)
+- [HarshYadav152](https://github.com/HarshYadav152)
+- [gg_dever] (https://github.com/gg-dever) 
 - [Mattia Cocco](https://github.com/Matti02co)
 - [Isaac Lopez](https://github.com/IsaacLC1104)
 - [Yash Gupta](https://github.com/YashGupta2106)
