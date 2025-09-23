@@ -84,6 +84,7 @@
 - [Krrishray](https://github.com/krrishray)
 - [Jacob](https://github.com/mj4863) - Jesus Christ!
 - [Abhishek Rawat][https://github.com/Abhishek2rawat]
+- [Shreya Wani](https://github.com/shreya150804)
 - [Surya Prakash Sharma][https://github.com/suryaprkash778-dot]
 - [Siddharth Chaudhary][https://github.com/SidChaudhary7]
 - [rryyqn](https://github.com/rryyqn)
