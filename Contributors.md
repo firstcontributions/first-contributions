@@ -3105,4 +3105,5 @@ DanyLeeCS
 - [RISHI KUMAR](https://github.com/rishii1695) - im gonna lock tf in
 - [akashisang](https://github.com/Akashisang)
 - [Duo](https://github.com/NamingRacksMyBrain)
+- [SindhuPriy](https://github.com/SindhuPriya1842007)
 - [Pooja B](https://github.com/PoojaB24)
