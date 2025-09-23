@@ -6,11 +6,13 @@
 [Vikas Saini](https://github.com/vikas-saini-7) - Big Things Coming Up :)
 [lalith](https://github.com/LalithSiramdasu) - this is my first open source contribution
   [Diya](https://github.com/123diya-coder)
+[Krish](https://github.com/Krish-9-6)
 - [Nitesh Kumar](https://github.com/kumarbaberwal)
 -  [OSZDAO](https://github.com/oszdao) Happy to see you Here.
 -  [BiNa Maxx](https://github.com/bina5461) My First Contribution as a learner.
 - [DeAnna_Nichols]
 - [Toton]
+-[Sridattu Reddy Piduru](https://github.com/Sri-dathu)It's my First Contribution as a learner  and Exicted to do moreee.
 - [Prod_Ayesian](https://github.com/ProdAyesian) Make Happy Meek playable cygames :(
 - [Ifham-Hashir](https://github.com/Ifham-Hashir)
 - [Bjorn Stephany](https://github.com/bjornstephany)
@@ -25,6 +27,8 @@
 - [Jon Goodwin](https://github.com/Jon-Goodwin)
 - [Shaan Edroos](https://github.com/sh66n)
 - [Jayce Stephens]
+- [Shreya Nigam](https://github.com/shreya-328) Excited to try !
+- [Zahida Hussain]
 - [Bob Qin](https://github.com/Bob200409)
 - [Maria Herrmann] (https://github.com/marherr-19)
 - [Mohit Sharma](https://github.com/TheWizardKingg)
@@ -36,6 +40,7 @@
 - [HighPoly](https://github.com/HighPolygon)
 - [Samruddhi Khade](https://github.com/khadesamrudhi)
 - [Himanshi Rao Yenugupalli](https://github.com/himanshiyenugupalli)
+- [Harshita Kode](https://github.com/2210030019)
 - [Kamal Agrahari](https://github.com/ikamalagrahari/)
 - [Mahanthesh S](https://github.com/Mahi2708)
 - [Saimanikanta](https://github.com/saimanikanta1012) - Hello Everyone!
@@ -49,6 +54,7 @@
 - [Amit Kumar](https://github.com/AK-Amit-Kumar)
 - [Rafael Severo](https://github.com/rafaeumesmo) 
 - [Emanuel Orduña](https://github.com/emaordu)
+- [Anuraag Akella](https://github.com/Anuraag03) - My First Contribution!!
 - [LayorX](https://github.com/LayorX)
 - [Omar Emara](https://github.com/omarf2000)
 - [Benja] - Hello!
@@ -84,6 +90,7 @@
 - [Krrishray](https://github.com/krrishray)
 - [Jacob](https://github.com/mj4863) - Jesus Christ!
 - [Abhishek Rawat][https://github.com/Abhishek2rawat]
+- [Shreya Wani](https://github.com/shreya150804)
 - [Surya Prakash Sharma][https://github.com/suryaprkash778-dot]
 - [Siddharth Chaudhary][https://github.com/SidChaudhary7]
 - [rryyqn](https://github.com/rryyqn)
@@ -3098,3 +3105,7 @@ DanyLeeCS
 - [vishnuVarthan](https://github.com/Vishnu-Varthan1)
 - [RISHI KUMAR](https://github.com/rishii1695) - im gonna lock tf in
 - [Jztchl](https://github.com/jztchl) - Here to learn, contribute, and leave some footprints in Git.
+- [akashisang](https://github.com/Akashisang)
+- [Duo](https://github.com/NamingRacksMyBrain)
+- [SindhuPriy](https://github.com/SindhuPriya1842007)
+- [Pooja B](https://github.com/PoojaB24)
