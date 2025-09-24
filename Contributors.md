@@ -245,6 +245,7 @@ ranjith_dhanasekaran
 - [RUDRA TAILOR](https://github.com/RudraTailor)
 - [Aditya Dubey](https://github.com/Aditya149202) 
 - santiago robles
+- Faiz Modi
 - adasrh yadav
 - [Taylor McDile]
 - Debanjan Kshetry2
