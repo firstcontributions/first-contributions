@@ -2964,6 +2964,7 @@ DanyLeeCS
 - [swjjeong](https://github.com/swjjeong)
 - [vietan0](https://github.com/vietan0)
 - [RockStar]
+- [johaha](https://github.com/J-Huster)
 - [Tjark Wichmann](https://github.com/tjarkwichmann)
 - [Lucy]
 - [enguy-hub](https://github.com/enguy-hub)
