@@ -16,7 +16,7 @@
 - [FaFa-02]
 - [Khalid](https://github.com/khalidx3)
 - [Adnan](https://github.com/adnan-2504)
-- [Mohamed] (https://github.com/MohdMemar)
+- [Mohammed] (https://github.com/MohdMemar)
 - [Toton]
 -[Sridattu Reddy Piduru](https://github.com/Sri-dathu)It's my First Contribution as a learner  and Exicted to do moreee.
 -[hewin31](https://github.com/hewin31)
