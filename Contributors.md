@@ -43,6 +43,7 @@
 - [Jon Goodwin](https://github.com/Jon-Goodwin)
 - [Shaan Edroos](https://github.com/sh66n)
 - [Jayce Stephens]
+- [Zhou Xiaoqian]
 - [Shreya Nigam](https://github.com/shreya-328) Excited to try !
 - [Aakash Singh](https://github.com/aakashsingh04)
 - [Zahida Hussain]
