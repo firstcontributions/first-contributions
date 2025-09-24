@@ -45,6 +45,7 @@
 - [principalog](https://github.com/principalog)
 - [Jon Goodwin](https://github.com/Jon-Goodwin)
 - [Shaan Edroos](https://github.com/sh66n)
+- [Ripudaman Singh](https://github.com/rdsingh120) - First Git Contribution
 - [Jayce Stephens]
 - [Zhou Xiaoqian]
 - [Shreya Nigam](https://github.com/shreya-328) Excited to try !
