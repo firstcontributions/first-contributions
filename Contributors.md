@@ -27,6 +27,7 @@
 - [Omveer](https://github.com/narukaz/)
 - [Anashe Gaseller] 
 - [Jordan Pinto](https://github.com/KwakuYostOfficial)
+- [Abdul Basit](https://github.com/abdulawr)
 - [Isholl](https://github.com/isholl)
 - [Basit Channa](https://github.com/basitbc)
 - [Shashank Kempasagara](https://github.com/sha5114nk)
