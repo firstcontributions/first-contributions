@@ -29,6 +29,7 @@
 - [Bjorn Stephany](https://github.com/bjornstephany)
 - [Omveer](https://github.com/narukaz/)
 - [Anashe Gaseller] 
+- [Tojan Naiem](https://github.com/Tojan-Naiem)
 - [Jordan Pinto](https://github.com/KwakuYostOfficial)
 - [Abdul Basit](https://github.com/abdulawr)
 - [Isholl](https://github.com/isholl)
