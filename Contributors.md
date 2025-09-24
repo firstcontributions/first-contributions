@@ -16,6 +16,7 @@
 - [FaFa-02]
 - [Khalid](https://github.com/khalidx3)
 - [Adnan](https://github.com/adnan-2504)
+- [Nevil Krishna K](https://github.com/dracu-lah) - Greetings from Kerala,India
 - [Mohamed] (https://github.com/MohamedMemar)
 - [Toton]
 -[Sridattu Reddy Piduru](https://github.com/Sri-dathu)It's my First Contribution as a learner  and Exicted to do moreee.
@@ -3132,4 +3133,4 @@ DanyLeeCS
 - [Anushka] (https://github.com/Anushka8)
 - [Roberto RW] (https://github.com/roberto-rw)
 - [Jimmy So] this is 250924. I wanna free~
-
+- [tdx2] - a software developer
