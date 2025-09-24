@@ -110,6 +110,7 @@
 - [Dhanush Kotrike] (https://github.com/dhanushkotrike) - Starting my open source journey
 - [Krrishray](https://github.com/krrishray)
 - [Jacob](https://github.com/mj4863) - Jesus Christ!
+- [A Different Jacob]
 - [Abhishek Rawat][https://github.com/Abhishek2rawat]
 - [Shreya Wani](https://github.com/shreya150804)
 - [Surya Prakash Sharma][https://github.com/suryaprkash778-dot]
@@ -3151,3 +3152,5 @@ DanyLeeCS
 - [charles] - (https://github.com/charlestran2006) - first contribution!
 - [htyffn] - (https://github.com/htyffn)
 - [tnguruve] - (https://github.com/tnguruve/). - first contribution
+- [Shikhar Singh] -(https://github.com/shikhar3dev)
+
