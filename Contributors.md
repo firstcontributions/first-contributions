@@ -66,6 +66,7 @@
 - [Himanshi Rao Yenugupalli](https://github.com/himanshiyenugupalli)
 - [Harshita Kode](https://github.com/2210030019)
 - [Kamal Agrahari](https://github.com/ikamalagrahari/)
+- [Krish Sharma](https://github.com/krisharmaa)
 - [Mahanthesh S](https://github.com/Mahi2708)
 - [Saimanikanta](https://github.com/saimanikanta1012) - Hello Everyone!
 - [Sudhanshu Raj](https://github.com/SudhanshuRaj0309)
