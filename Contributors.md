@@ -20,7 +20,7 @@
 - [Khalid](https://github.com/khalidx3)
 - [AbhishekRouth](https://github.com/Abhishekrouth)
 - [Adnan](https://github.com/adnan-2504)
-- [Mohammed] (https://github.com/MohdMemar)
+- [Mohammed Hasan] (https://github.com/MohdMemar)
 - [Nevil Krishna K](https://github.com/dracu-lah) - Greetings from Kerala,India
 - [Toton]
 -[Sridattu Reddy Piduru](https://github.com/Sri-dathu)It's my First Contribution as a learner  and Exicted to do moreee.
