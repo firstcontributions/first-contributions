@@ -54,6 +54,7 @@
 - [Shreya Nigam](https://github.com/shreya-328) Excited to try !
 - [Aakash Singh](https://github.com/aakashsingh04)
 - [Zahida Hussain]
+- [Abu Fati](https://github.com/mamafati) My first open source commit!!!!
 - [Bob Qin](https://github.com/Bob200409)
 - [Maria Herrmann] (https://github.com/marherr-19)
 - [Mohit Sharma](https://github.com/TheWizardKingg)
