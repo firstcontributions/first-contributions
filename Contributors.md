@@ -116,6 +116,7 @@
 - [Jacob](https://github.com/mj4863) - Jesus Christ!
 - [A Different Jacob]
 - [Abhishek Rawat][https://github.com/Abhishek2rawat]
+- [Lucas de Assis][https://github.com/lucasmudo] - Getting some hands-on practice
 - [Shreya Wani](https://github.com/shreya150804)
 - [Surya Prakash Sharma][https://github.com/suryaprkash778-dot]
 - [Siddharth Chaudhary][https://github.com/SidChaudhary7]
