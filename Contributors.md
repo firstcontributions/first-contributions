@@ -1535,6 +1535,7 @@ Lawrence Ahaneku
 - [Gopal](https://github.com/gopallchoudhary)
 - [Shinbatsu F](https://github.com/Shinbatsu)
 - [Borzoi Lover](https://github.com/mmitros1)
+- [S.J.S.](https://github.com/sjsurace)
 - [eobrien673](https://github.com/eobrien673)
 - [Beetlesliu](https://github.com/Beetlesliu)
 - [Ametoj Singh](https://github.com/singamet)
