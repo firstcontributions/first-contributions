@@ -23,9 +23,9 @@
 - [Nevil Krishna K](https://github.com/dracu-lah) - Greetings from Kerala,India
 - [Mohamed] (https://github.com/MohamedMemar)
 - [Toton]
-- [FertileVerve](https://github.com/fertileverve)
--[Sridattu Reddy Piduru](https://github.com/Sri-dathu)It's my First Contribution as a learner  and Exicted to do moreee.
--[hewin31](https://github.com/hewin31)
+- [FertileVerve](https://github.com/fertileverve)FertileVerve first addition to a public project!
+- [Sridattu Reddy Piduru](https://github.com/Sri-dathu)It's my First Contribution as a learner  and Exicted to do moreee.
+- [hewin31](https://github.com/hewin31)
 - [Prod_Ayesian](https://github.com/ProdAyesian) Make Happy Meek playable cygames :(
 - [Ifham-Hashir](https://github.com/Ifham-Hashir)
 - [Bjorn Stephany](https://github.com/bjornstephany)
