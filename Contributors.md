@@ -3170,3 +3170,5 @@ DanyLeeCS
 - [Erjon Hashani] - (https://github.com/ErjonHashani) - Contributing like a pro… almost
 - [Asublime01] - (https://github.com/Asublime01) - is a cool guy -_<
 - [Aleena](https://github.com/aroset919/) - First Git Contribution!
+- [Allen](https://github.com/its-allen/) - Allen is here guys, relax <3
+
