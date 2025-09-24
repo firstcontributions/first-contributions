@@ -146,6 +146,7 @@ ranjith_dhanasekaran
 
 - Shyynek
 - [Sergio Frastalis](https://github.com/SergioFrastalis)
+- [Sergio Frastalis](https://github.com/zohai-ibb)
 - [shivanjali desai](https://github.com/shivanjali0108)
 - [Janindu Nanayakkara](https://github.com/Janindu-n)
 - [Muhammad Farras Majid](https://github.com/mfarrasmajid)
