@@ -244,8 +244,9 @@ ranjith_dhanasekaran
 - adasrh yadav
 - [Taylor McDile]
 - Debanjan Kshetry2
+- [Brijesh Sharma](https://github.com/CodeBrij)
 - Manthan Maidawat
-- A Bhargavi (https://github.com/bunnybhargavi)
+- [A Bhargavi](https://github.com/bunnybhargavi)
 - Arnim KuchhalNow open Contributors.md file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
 - Niv Aravindmali
 - Vasilis Kokotakis (https://github.com/VasilisKokotakis)
