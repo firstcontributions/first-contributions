@@ -1510,6 +1510,7 @@ Ben
 - [Omkar Guha](https://github.com/omkarguha)
 - [Joel Singh](https:/github.com/Joel-Singh)
 - [Sanika Nair](https://github.com/sanika-n)
+- [Mateus Lima](https://github.com/mts-ml)
 - [Zach Garza](https://github.com/ZachG1235)
 - [Eddgar Rojas](https://github.com/Eddgar0)
 - [YudisSutisna](https://github.com/Hanep77)
