@@ -2680,6 +2680,7 @@ jack - first contribution practice
 - [deadman]
 - [imdo]
 - [will007]
+- [John S]
 - [Mark Wilkening](https://github.com/markwilkening21)
 - [Shivang](https://github.com/shivang-jnv)
 - [playerblair](https://github.com/playerblair)
