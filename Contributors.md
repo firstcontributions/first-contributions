@@ -3123,3 +3123,4 @@ DanyLeeCS
 - [Edward Tan](https://github.com/EdwardJiazhenTan) - Hi everyone!
 - Parveen Rana
 - [Anushka] (https://github.com/Anushka8)
+- [Hugo David Cortinas González](https://github.com/Hcortinas)
