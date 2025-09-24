@@ -215,6 +215,7 @@ ranjith_dhanasekaran
 - [Vedanth](https://github.com/Vedanth81106)
 - [Agus](https://github.com/agusfdzm)
 - [Diogo Ferreira](https://github.com/fdiogo1)
+- [Kingsley]
 - [Hakimo abdikadir](https://github.com/hikmaladan)
 - [voiceinthedark](https://github.com/voiceinthedark)
 - Anushka
