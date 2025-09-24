@@ -1,9 +1,11 @@
 # Contributors
 - [Azhar](https://github.com/kkyufkrz) - First Git Contribution - Msg: Love u ananda!
 - [InsaneAbhinav](https://github.com/InsaneAbhinav) - First Git Contribution GG boys & girls!!!
+- [VarshaSahithi] (https://github.com/sahithi103) - yayy !!!
 -[051821](https://github.com/051821) - This is my first open-source contribution
 - [Cypher](https://github.com/s1999-alt/) - Master the basics, and everything else becomes easier.
 - [Abhishek Sharma](https://github.com/AbhishekSharma9161) - Master the basics, and everything else becomes easier.
+- [Pooja Vishwakarma](https://github.com/pv4782613)- Keep Grinding
 - Saurebh Kokate - THis is my 1st contribution
 [Vikas Saini](https://github.com/vikas-saini-7) - Big Things Coming Up :)
 [lalith](https://github.com/LalithSiramdasu) - this is my first open source contribution
@@ -13,10 +15,13 @@
 -  [OSZDAO](https://github.com/oszdao) Happy to see you Here.
 -  [BiNa Maxx](https://github.com/bina5461) My First Contribution as a learner.
 - [DeAnna_Nichols]
+- [Aung Kyaw Thet](https://github.com/aungkyawth3t) - first open source contribution
 - [FaFa-02]
 - [Khalid](https://github.com/khalidx3)
+- [AbhishekRouth](https://github.com/Abhishekrouth)
 - [Adnan](https://github.com/adnan-2504)
 - [Mohammed] (https://github.com/MohdMemar)
+- [Nevil Krishna K](https://github.com/dracu-lah) - Greetings from Kerala,India
 - [Toton]
 -[Sridattu Reddy Piduru](https://github.com/Sri-dathu)It's my First Contribution as a learner  and Exicted to do moreee.
 -[hewin31](https://github.com/hewin31)
@@ -25,7 +30,9 @@
 - [Bjorn Stephany](https://github.com/bjornstephany)
 - [Omveer](https://github.com/narukaz/)
 - [Anashe Gaseller] 
+- [Tojan Naiem](https://github.com/Tojan-Naiem)
 - [Jordan Pinto](https://github.com/KwakuYostOfficial)
+- [Abdul Basit](https://github.com/abdulawr)
 - [Isholl](https://github.com/isholl)
 - [Basit Channa](https://github.com/basitbc)
 - [Shashank Kempasagara](https://github.com/sha5114nk)
@@ -226,6 +233,7 @@ ranjith_dhanasekaran
 - [Aaliyah Raheem](https://github.com/aaliot)
 - [Md. Apu](https://github.com/Apu-mirza)
 - [mgalore](https://github.com/mgalore)
+- GOWTHAM
 - Bhuvana Madiraju
 - Aditya Singh Kushwah
 - [Kerem Balci](https://github.com/kerembalci90)
@@ -3130,3 +3138,8 @@ DanyLeeCS
 - [Edward Tan](https://github.com/EdwardJiazhenTan) - Hi everyone!
 - Parveen Rana
 - [Anushka] (https://github.com/Anushka8)
+- [Roberto RW] (https://github.com/roberto-rw)
+- [Jimmy So] this is 250924. I wanna free~
+- [tdx2] - a software developer
+- [axniks](https://github.com/axniks)
+- [charles] - (https://github.com/charlestran2006) - first contribution!
