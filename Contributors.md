@@ -13,6 +13,7 @@
 -  [OSZDAO](https://github.com/oszdao) Happy to see you Here.
 -  [BiNa Maxx](https://github.com/bina5461) My First Contribution as a learner.
 - [DeAnna_Nichols]
+- [Aung Kyaw Thet](https://github.com/aungkyawth3t) - first open source contribution
 - [FaFa-02]
 - [Khalid](https://github.com/khalidx3)
 - [Adnan](https://github.com/adnan-2504)
