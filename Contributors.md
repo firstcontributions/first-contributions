@@ -2976,6 +2976,7 @@ DanyLeeCS
 -[Miguel Angel](https://github.com/first-contributions)
 -[Afnan Tariq](https://github.com/SpitFiyah)
 - [Demagalawrence](https://github.com/Demagalawrence)
+- [Pankaj Manmode](https://github.com/pankajmanmode)
 - [Notam456](https://github.com/Notam456)
 [Jhoan Montes](https://github.com/JhoanMontes)
 - [Eldred16](https://github.com/Eldred16)
