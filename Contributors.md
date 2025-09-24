@@ -1,4 +1,5 @@
 # Contributors
+- [Joseph Fujimoto](https://github.com/jsfmu) - Locking in post-grad. Wish me luck as I'm wishing you all luck everyone!
 - [Azhar](https://github.com/kkyufkrz) - First Git Contribution - Msg: Love u ananda!
 - [InsaneAbhinav](https://github.com/InsaneAbhinav) - First Git Contribution GG boys & girls!!!
 - [VarshaSahithi] (https://github.com/sahithi103) - yayy !!!
