@@ -242,6 +242,7 @@ ranjith_dhanasekaran
 - [Kat R.](https://github.com/KxttyKxt)
 - [Daniel Arrieta](https://github.com/Darrieta05)
 - [RUDRA TAILOR](https://github.com/RudraTailor)
+- [Aditya Dubey](https://github.com/Aditya149202) 
 - santiago robles
 - adasrh yadav
 - [Taylor McDile]
