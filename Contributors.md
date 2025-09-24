@@ -327,6 +327,7 @@ sdumini
 - [Mauricio Pereira] (https://github.com/gitreece) 
 - [Ewan Black](https://github.com/ebl138)
 - [Christian Petrucci] 
+- [Eric Y.](https://github.com/aoy9) Hello World!
 - [Rushikesh Deshmukh](https://github.com/Mrx207)
 - [Kunal Jindal](https://github.com/imkunaljindal)
 - [numenk](https://github.com/numenk)
