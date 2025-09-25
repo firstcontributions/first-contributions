@@ -494,6 +494,7 @@ sdumini
 -[ledi1026](https://github.com/ledi1026)
 -[Michael Rockefeller](https://github.com/rockefelm)
 -[Syaiful Yudha Platoteles](https://github.com/Platotel3s)
+-[Lorena Albuquerque](https://github.com/Lorena2802)
 -[Karol Budzko](https://github.com/krlkarol)
 -[hizs12-tpysh](https://github.com/HizS12)
 -[Ayush23-art](https://github.com/Ayush23-art)
