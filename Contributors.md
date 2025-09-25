@@ -3192,6 +3192,7 @@ I am Lakshya Sharma and making my first open source contribution
 - [SindhuPriy](https://github.com/SindhuPriya1842007)
 - [Pooja B](https://github.com/PoojaB24)
 - [Edward Tan](https://github.com/EdwardJiazhenTan) - Hi everyone!
+- [Arachnesan]
 - Parveen Rana
 - [Anushka] (https://github.com/Anushka8)
 - [Hugo David Cortinas González](https://github.com/Hcortinas)
