@@ -120,6 +120,7 @@
    [Itika Goel][https://github.com/itikaa]
 - [Jack Bates](https://github.com/JackBates2007) - Hello Everyone!
 - [thePrnvBot](https://github.com/thePrnvBot) - Sup Doods!
+- [Muhammad Sheik Nauman](https://github.com/Muhammad-Sheik-Nauman)-wassssupppp!!
 - [Lane Henslee](https://github.com/huncholane) - Go Vols
 - [Watson](https://github.com/tanso0126)
 - [Eric G Butler Jr](https://github.com/ericbutler1209)
