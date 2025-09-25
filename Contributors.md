@@ -58,6 +58,7 @@
 - [Zhou Xiaoqian]
 - [Shreya Nigam](https://github.com/shreya-328) Excited to try !
 - [Aakash Singh](https://github.com/aakashsingh04)
+- [Anns Abbasi](https://github.com/annsabbasi) - first open source contribution
 - [Zahida Hussain]
 - [Abu Fati](https://github.com/mamafati) My first open source commit!!!!
 - [Bob Qin](https://github.com/Bob200409)
