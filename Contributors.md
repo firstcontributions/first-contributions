@@ -3191,6 +3191,7 @@ DanyLeeCS
 - [axniks](https://github.com/axniks)
 - [charles] - (https://github.com/charlestran2006) - first contribution!
 - [htyffn] - (https://github.com/htyffn)
+- [tnguruve] - (https://github.com/tnguruve/). - first contribution
 - [Shikhar Singh] -(https://github.com/shikhar3dev)
 - [Erjon Hashani] - (https://github.com/ErjonHashani) - Contributing like a pro… almost
 - [Asublime01] - (https://github.com/Asublime01) - is a cool guy -_<
