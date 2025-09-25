@@ -2995,6 +2995,7 @@ DanyLeeCS
 - [Ivan Lee]()
 - [kasap]
 - [Lyra](https://github.com/why)
+- [SZMOFEI](https://github.com/SZMOFEI)
 - [Maksat Annageldiyev](https://github.com/M4x4T)
 - [Radhakrishan](https://github.com/rkdevx)
 - [Benjamin Robert](https://github.com/BenjaminRobert0702)
