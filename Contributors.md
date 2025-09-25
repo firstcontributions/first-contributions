@@ -1687,7 +1687,7 @@ Lawrence Ahaneku
 - [Jonas Mikosch](https://github.com/jomik101)
 - [Ver Argulla](https://github.com/verargulla)
 - [Ankith](https://github.com/ankithtn)
-- [sakith](https://github.com/sakith1729)
+- [saketh](https://github.com/sakith1729)
 - [cacawate](https://github.com/MoyyyL)
 - [Mr. Jakkula](https://github.com/Mr.Jakkula)
 - [Ravi singh](https://github.com/ravir0ushan)
