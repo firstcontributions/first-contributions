@@ -22,6 +22,7 @@
 - [DeAnna_Nichols]
 - [Aung Kyaw Thet](https://github.com/aungkyawth3t) - first open source contribution
 - [FaFa-02]
+- [June](https://github.com/onjoon)
 - [Khalid](https://github.com/khalidx3)
 - [AbhishekRouth](https://github.com/Abhishekrouth)
 - [Adnan](https://github.com/adnan-2504)
