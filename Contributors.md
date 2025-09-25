@@ -3120,7 +3120,8 @@ DanyLeeCS
 - Aarush Sanghi
 [Enes Demir](https://github.com/GadgetXl)
 [Sushean Sharma](https://github.com/sushean)
-[Jorge Sierra](https://github.com/jorge-maikel-sierra) Hello Welcome to my new life.
+[Jorge Sierra](https://github.com/jorge-maikel-sierra) Hello Welcome to my new life.'
+[Jakub Rudowski](https://github.com/J4kubR) Open source here I come :) Happy to be a part of a big community.
 [Robert Blank](https://github.com/Blorbertfox42) Hello people
 [Cherry]
 - [Ash N.](https://github.com/7inhex/first-contributions) hiya >_o
