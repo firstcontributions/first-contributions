@@ -666,6 +666,7 @@ LIUYY到此一游
 - [Choudary Hussain Ali](https://github.com/choudaryhussainali)
 - [atlas-ian](https://github.com/atlas-ian)
 - [Sruthi BJ](https://github.com/Bjsruthi)
+- [Pedro Prietto](https://github.com/Pedro-Prietto)
 - [Areen Patil](https://github.com/areen-patil)
 - [Sunday](https://github.com/Hao-tian)
 - [Inigo](https://github.com/inigostibbe)
