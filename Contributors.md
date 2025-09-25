@@ -17,6 +17,7 @@
   [Diya](https://github.com/123diya-coder)
   [Jewel](https://github.com/programmerjewel)
 [Krish](https://github.com/Krish-9-6)
+- [Shivani samant] lets grind it also . what i learned is that it was never about reading or cramming it was always about fucking doing it or just execution part or it feels like fan capacitor you just need power to start at starting and then it will find someways to run. 
 - [Nitesh Kumar](https://github.com/kumarbaberwal)
 -  [OSZDAO](https://github.com/oszdao) Happy to see you Here.
 -  [BiNa Maxx](https://github.com/bina5461) My First Contribution as a learner.
