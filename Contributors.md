@@ -3177,4 +3177,4 @@ DanyLeeCS
 - [Asublime01] - (https://github.com/Asublime01) - is a cool guy -_<
 - [Aleena](https://github.com/aroset919/) - First Git Contribution!
 - [Allen](https://github.com/its-allen) -Allen Here...
-[Duc Tran](https://github.com/doitsu2014) - Hi everyone
+- [Duc Tran](https://github.com/doitsu2014) - Hi everyone
