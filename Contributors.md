@@ -66,6 +66,7 @@
 - [Umut Hasanoglu](https://github.com/UmutHasanoglu)
 - [Ekak Basu](https://github.com/ebro125)
 - [Erfan Ahmadi](https://github.com/erfan-web)
+- [Rachit Tanwar](https://github.com/rachit-tanwar)
 - [Aaliyah Raheem](https://github.com/aaliot)
 - [Md. Apu](https://github.com/Apu-mirza)
 - [mgalore](https://github.com/mgalore)
