@@ -4,7 +4,7 @@
 
 # Перший внесок
 
-Цей проект спрямований на те, щоб спростити та спрямувати шлях новачків, які роблять свій перший внесок. Якщо ви хочете зробити свій перший внесок, виконайте наведені нижче дії.
+Цей проєкт спрямований на те, щоб спростити та спрямувати шлях новачків, які роблять свій перший внесок. Якщо ви хочете зробити свій перший внесок, виконайте наведені нижче дії.
 
 _Якщо ви не вмієте працювати з командним рядком, [ось навчальні посібники з використанням інструментів GUI.](#tutorials-using-other-tools)_
 
@@ -117,7 +117,7 @@ git push -г origin <your-branch-name>
 
 Відзначте свій внесок і поділіться ним із друзями та читачами, перейшовши до [веб-програми](https://firstcontributions.github.io/#social-share).
 
-Тепер давайте почнемо робити внески в інші проекти. Ми склали список проектів із простими проблемами, з яких ви можете почати. Перегляньте [список проектів у веб-додатку](https://firstcontributions.github.io/#project-list).
+Тепер почнімо робити внески в інші проєкти. Ми склали список проєктів із простими проблемами, з яких ви можете почати. Перегляньте [список проєктів у веб-додатку](https://firstcontributions.github.io/#project-list).
 
 ### [Додаткові матеріали](additional-material/git_workflow_scenarios/additional-material.md)
 
@@ -127,7 +127,7 @@ git push -г origin <your-branch-name>
 | --- | --- | --- | --- | --- | --- |
 | [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md) | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md) | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md) | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md) | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md) | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md) |
 
-<p>Цей проект підтримується:</p>
+<p>Цей проєкт підтримується:</p>
 <p>
   <a href="https://www.digitalocean.com/">
     <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_horizontal_blue.svg" width="201px">
