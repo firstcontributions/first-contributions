@@ -24,7 +24,7 @@ Për të bërë fork këtë repozitor kliko butonin fork në majë të kësaj fa
 
 Tani klonoje në pajisjen tënde repozitorin që bëre fork. Shko te llogaria e GitHub, hap forked repository, kliko butonin Code dhe pastaj kliko ikonën _copy to clipboard_.
 
-Hap terminalin dhe bëje run git komandën në vazhdim:
+Hap terminalin dhe ekzekuto komandën Git më poshtë për të klonuar repozitorin në kompjuterin tënd:
 
 ```
 git clone "url që sapo ke kopjuar"
@@ -116,7 +116,7 @@ Festoje kontributin tënd dhe ndaje me shokët dhe ndjekësit duke shkuar te [we
 
 Nëse dëshiron më shumë praktikë, shiko [kontributet e kodit](https://github.com/roshanjossey/code-contributions)
 
-Tani të të ndihmojmë që të kontribuosh në projekte tjera. Ne kemi krijuar një listë projektesh me probleme të lehta tek të cilat mund të fillosh. Shiko [listën e projekteve në web apliacion](https://firstcontributions.github.io/#project-list).
+Tani të të ndihmojmë që të kontribuosh në projekte tjera. Ne kemi krijuar një listë projektesh me probleme të lehta tek të cilat mund të fillosh. Shiko [listën e projekteve në web aplikacion](https://firstcontributions.github.io/#project-list).
 
 ### [Materiale shtesë](additional-material/git_workflow_scenarios/additional-material.md)
 
