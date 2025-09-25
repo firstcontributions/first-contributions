@@ -13,6 +13,7 @@
 -  [BiNa Maxx](https://github.com/bina5461) My First Contribution as a learner.
 - [DeAnna_Nichols]
 - [FaFa-02]
+- [June](https://github.com/onjoon)
 - [Khalid](https://github.com/khalidx3)
 - [Adnan](https://github.com/adnan-2504)
 - [Toton]
