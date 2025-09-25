@@ -27,6 +27,7 @@
 - [FaFa-02]
 - [June](https://github.com/onjoon)
 - [Khalid](https://github.com/khalidx3)
+- [FertileVerve](https://github.com/fertileverve)
 - [Ayush](https://github.com/AyushMaurya3114)
 - [AbhishekRouth](https://github.com/Abhishekrouth)
 - [Adnan](https://github.com/adnan-2504)
