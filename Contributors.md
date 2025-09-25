@@ -3159,6 +3159,7 @@ I am Lakshya Sharma and making my first open source contribution
 [Anna Woodlief](https://github.com/AnnaWoodlief) - Hi! Hope everyone has a good day!!
 - [Sp1cyK1w1](https://github.com/Sp1cyK1w1) - Hope my efforts will pay off this year!!!
 [Waleed Ahmed](https://github.com/Ahmed546) - This is the start of new era remember the name!!!
+[Ali Moros](https://github.com/Ali-Moros) - Yeaaaaah body, let's code baby
 - [Hiya Trehan](https://github.com/Heya28) - Thanks for the tutorial. Also catching up on college assignments.
 - [Whitewolfo64](https://github.com/Whitewolfo64) - This is how we do it.
 -[Alexis Huerta](https://github.com/alekamaster) - Am I should feel scared of AI? Now day i dont Know of this is worth it...
