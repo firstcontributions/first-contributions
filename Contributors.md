@@ -3127,12 +3127,17 @@ DanyLeeCS
 [Brianna Durrant](https://github.com/BriN3r) Heyyy!
 [kzvang](https://github.com/kzvang) My first contribution!
 - Aarush Sanghi
+
+
 [Enes Demir](https://github.com/GadgetXl)
 [Sushean Sharma](https://github.com/sushean)
 [Jorge Sierra](https://github.com/jorge-maikel-sierra) Hello Welcome to my new life.'
 [Jakub Rudowski](https://github.com/J4kubR) Open source here I come :) Happy to be a part of a big community.
 [Robert Blank](https://github.com/Blorbertfox42) Hello people
 [Cherry]
+
+Hello guysss..
+I am Lakshya Sharma and making my first open source contribution
 - [Ash N.](https://github.com/7inhex/first-contributions) hiya >_o
 [Richard](https://github.com/Greate212) Software Development student. First contribution to an open source project for Version Control Essentials class.
 - [david](https://github.com/dasango) I hate coding
