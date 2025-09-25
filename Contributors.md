@@ -2450,6 +2450,7 @@ Cloudman
 - [Kamil Brzezinski](https://github.com/git-od-podstaw-piotr)
 - [Punnapareddy Bhaskar Rao](https://github.com/P-Bhaskar-Rao)
 - [Sheikh Mujtaba](https://github.com/Sheikh-Muhammad-Mujtaba)
+- [Jinhyo Huh](https://github.com/huhjinhyo) With a heart that sings of stars, love all things dying.
 - [gpalacios26](https://github.com/gpalacios26/curso-git-fork)
 - [Steve Armstrong](https://github.com/W0474997SteveArmstrong)
 - [Ben Tootill](https://github.com/TriedDevotee)
