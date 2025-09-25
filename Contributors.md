@@ -3162,6 +3162,7 @@ DanyLeeCS
 - [Edward Tan](https://github.com/EdwardJiazhenTan) - Hi everyone!
 - Parveen Rana
 - [Anushka] (https://github.com/Anushka8)
+- [Hugo David Cortinas González](https://github.com/Hcortinas)
 - [Roberto RW] (https://github.com/roberto-rw)
 - [Jimmy So] this is 250924. I wanna free~
 - [tdx2] - a software developer
