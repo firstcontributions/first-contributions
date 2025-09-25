@@ -25,6 +25,7 @@
 - [FaFa-02]
 - [June](https://github.com/onjoon)
 - [Khalid](https://github.com/khalidx3)
+- [Ayush](https://github.com/AyushMaurya3114)
 - [AbhishekRouth](https://github.com/Abhishekrouth)
 - [Adnan](https://github.com/adnan-2504)
 - [Nevil Krishna K](https://github.com/dracu-lah) - Greetings from Kerala,India
