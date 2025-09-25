@@ -3184,3 +3184,4 @@ DanyLeeCS
 - [Allen](https://github.com/its-allen) -Allen Here...
 [Duc Tran](https://github.com/doitsu2014) - Hi everyone
 - [Naumaan Ghafoor](https://github.com/nmnghaf) - Helloooo First open source!
+- [Chirag Solanki](https://github.com/chiragsdev) - Long Way to Go!
