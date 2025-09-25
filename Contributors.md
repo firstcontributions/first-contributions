@@ -60,6 +60,7 @@
 - [Maria Herrmann] (https://github.com/marherr-19)
 - [Mohit Sharma](https://github.com/TheWizardKingg)
 - [Mir-Asim-Ali](https://mirasim.netlify.app/)
+-[Masum Raza](https://github.com/khanmasumraza)
 - [GENJI J](https://github.com/anya-minamoto)
 - [Mihir M](https://github.com/mihirm3hub)
 - [Algacyr Melo](https://github.com/algacyr-melo)
