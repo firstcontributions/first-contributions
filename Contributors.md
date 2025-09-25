@@ -1,4 +1,5 @@
 # Contributors
+- [Joseph Fujimoto](https://github.com/jsfmu) - Locking in post-grad. Wish me luck as I'm wishing you all luck everyone!
 - [Azhar](https://github.com/kkyufkrz) - First Git Contribution - Msg: Love u ananda!
 - [InsaneAbhinav](https://github.com/InsaneAbhinav) - First Git Contribution GG boys & girls!!!
 - [VarshaSahithi] (https://github.com/sahithi103) - yayy !!!
@@ -216,6 +217,7 @@ ranjith_dhanasekaran
 - [Vedanth](https://github.com/Vedanth81106)
 - [Agus](https://github.com/agusfdzm)
 - [Diogo Ferreira](https://github.com/fdiogo1)
+- [Kingsley]
 - [Hakimo abdikadir](https://github.com/hikmaladan)
 - [voiceinthedark](https://github.com/voiceinthedark)
 - Anushka
@@ -3160,6 +3162,7 @@ DanyLeeCS
 - [Edward Tan](https://github.com/EdwardJiazhenTan) - Hi everyone!
 - Parveen Rana
 - [Anushka] (https://github.com/Anushka8)
+- [Hugo David Cortinas González](https://github.com/Hcortinas)
 - [Roberto RW] (https://github.com/roberto-rw)
 - [Jimmy So] this is 250924. I wanna free~
 - [tdx2] - a software developer
@@ -3170,5 +3173,4 @@ DanyLeeCS
 - [Erjon Hashani] - (https://github.com/ErjonHashani) - Contributing like a pro… almost
 - [Asublime01] - (https://github.com/Asublime01) - is a cool guy -_<
 - [Aleena](https://github.com/aroset919/) - First Git Contribution!
-- [Allen](https://github.com/its-allen/) - Allen is here guys, relax <3
-
+- [Allen](https://github.com/its-allen/) - Allen is here guys, relax <
