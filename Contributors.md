@@ -251,6 +251,7 @@ ranjith_dhanasekaran
 - [Sundram Rai](https://github.com/Sundramrai3691)
 - [Miles Morales] 
 - [DevElevate19](https://github.com/DevElevate19)
+- [Victor Brayner](https://github.com/victorbrayner)
 - [lucas](https://github.com/Luc-as)
 - [Xephyronix](https://github.com/Xephyronix)
 - [Anurag]<--
