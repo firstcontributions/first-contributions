@@ -3142,6 +3142,7 @@ DanyLeeCS
 [Jakub Rudowski](https://github.com/J4kubR) Open source here I come :) Happy to be a part of a big community.
 [Robert Blank](https://github.com/Blorbertfox42) Hello people
 [Cherry]
+Qadir Abdulahad
 I am Lakshya Sharma and making my first open source contribution
 - [Ash N.](https://github.com/7inhex/first-contributions) hiya >_o
 [Richard](https://github.com/Greate212) Software Development student. First contribution to an open source project for Version Control Essentials class.
