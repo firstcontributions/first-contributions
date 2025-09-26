@@ -34,6 +34,7 @@
 - [DeAnna_Nichols]
 - [Aung Kyaw Thet](https://github.com/aungkyawth3t) - first open source contribution
 - [FaFa-02]
+--sahith bunny new user
 - [Avinash Ganore](https://github.com/Xzy-Vron)
 - [June](https://github.com/onjoon)
 - [Khalid](https://github.com/khalidx3)
