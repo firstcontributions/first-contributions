@@ -533,6 +533,7 @@ sdumini
 - [Siyabonga Dlikilili](https://github.com/Multimabo)
 - [rainhuang0220](https://github.com/rainhuang0220)
 - [SSA](https://github.com/sshnag)
+- [Mario Rodríguez](https://github.com/mariorj11)
 - [GiantPrince](https://github.com/GiantPrince)
 - Zhuocheng Li
 - Shiv
@@ -2664,6 +2665,7 @@ Cloudman
 - [Georgios Karampelos](https://github.com/gkarabelos)
 - [Cristian Nustes](https://github.com/cristiaaann27)
 - [Dev Chagas](https://github.com/devchagas)
+- [Hypercat](https://github.com/Hypercat311) We out here
 - [Shreya Kumari](https://github.com/shreya-create-glitch)
 - [Rahul Dutta](https://github.com/RahulDutta7)
 - [Mohamed Laraiche](https://github.com/molaraiche)
@@ -3225,3 +3227,4 @@ I am Lakshya Sharma and making my first open source contribution
 - [Himanshu Firke](https://github.com/himanshu-firke/)
 - [Sohyeon412](https://github.com/sohyeon412)
 - [Shivanii30](https://github.com/Shivanii30)
+
