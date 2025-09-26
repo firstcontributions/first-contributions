@@ -3072,6 +3072,7 @@ DanyLeeCS
 - [zhoushuo](https://github.com/zshs000)
 - [Suriti Joshi] (https://github.com/srj-145)
 - CyberJoke
+- [Richie de la Rosa] (https://github.com/richiedlrsa)
 - [James Whatcott](https://github.com/jameswhatcott)
 - [Dudley Orestil] (https://github.com/dee276)
 - [Syink](https://github.com/syinkboy)
