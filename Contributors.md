@@ -533,6 +533,7 @@ sdumini
 - [Siyabonga Dlikilili](https://github.com/Multimabo)
 - [rainhuang0220](https://github.com/rainhuang0220)
 - [SSA](https://github.com/sshnag)
+- [Mario Rodríguez](https://github.com/mariorj11)
 - [GiantPrince](https://github.com/GiantPrince)
 - Zhuocheng Li
 - Shiv
