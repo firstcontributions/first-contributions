@@ -61,6 +61,7 @@
   [Mahdi](https://github.com/mahdi-re-dev) - thanks 
 - [Jordan Pinto](https://github.com/KwakuYostOfficial)
 - [Abdul Basit](https://github.com/abdulawr)
+- [Aleksandra Sieg](https://github.com/AleksandraSieg) Hi Everyone! I'm from Poland and this is my first contribution, I'm so happy. Wish you all the best!
 - [Isholl](https://github.com/isholl)
 - [Basit Channa](https://github.com/basitbc)
 - [Caroline Park](https://github.com/parkcarol/)
