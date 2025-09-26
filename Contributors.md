@@ -3199,6 +3199,7 @@ I am Lakshya Sharma and making my first open source contribution
 - [Edward Tan](https://github.com/EdwardJiazhenTan) - Hi everyone!
 - [Arachnesan]
 - Parveen Rana
+- [Rahul] (https://github.com/rahul15-manch)
 - [Anushka] (https://github.com/Anushka8)
 - [Hugo David Cortinas González](https://github.com/Hcortinas)
 - [Roberto RW] (https://github.com/roberto-rw)
