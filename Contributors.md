@@ -195,6 +195,7 @@ ranjith_dhanasekaran
 - [Filippos Angelakos](https://github.com/filipp-os) - Love from Greece!!!!
 - [Sanjay Senthilkumar](https://github.com/Sanj84-co)
 - [KANISH](hello)
+- [Deepak Baghel](https://github.com/Deepak-SBaghel) - after prostacinatng for 2 years finally starting contibution
 - [Kavita](https://github.com/kvi-20)
 - [KaliDeveIoper](https://github.com/KaliDeveIoper)
 - [Tirth Prajapati](https://github.com/TirthCric)
