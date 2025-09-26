@@ -2010,6 +2010,7 @@ Lawrence Ahaneku
 - Amine
 - [Wessel Steenkamp](https://github.com/wesse206)
 - [Maria Carrera](https://github.com/MarieCourse)
+- Priyanshu Bhati
 - [Samaksh Sethiya](https://github.com/Samaksh22)
 - [Anirudh Pandey](https://github.com/anirudh241)
 - [Alan Tai](https://github.com/at350)
