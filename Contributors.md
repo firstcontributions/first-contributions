@@ -3214,6 +3214,7 @@ I am Lakshya Sharma and making my first open source contribution
 - [Pooja B](https://github.com/PoojaB24)
 - [Edward Tan](https://github.com/EdwardJiazhenTan) - Hi everyone!
 - [Arachnesan]
+- [George Spesivtsev](https://github.com/gorop51-2)
 - Parveen Rana
 - [Rahul] (https://github.com/rahul15-manch)
 - [Anushka] (https://github.com/Anushka8)
