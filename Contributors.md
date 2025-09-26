@@ -1296,6 +1296,7 @@ Ben
 -[pouriya](https://github.com/thepouriyahmn)
 - [Stephen Ng](https://github.com/snust)
 - [MayLeaf](https://github.com/may-leaf)
+-[Arthur Lettermann](https://github.com/aletterm)
 - [Muhammad Ayyub](https://github.com/devmab24)
 - [foxdefalt](https://github.com/D-f4lt)
 - [mohana0304](https://github.com/mohana0304)
