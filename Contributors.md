@@ -10,6 +10,7 @@
 - [Yeerapaneni Anurag ](https://github.com/Yeerapanenianurag) - Leaping into open source contribution .
 - [Cypher](https://github.com/s1999-alt/) - Master the basics, and everything else becomes easier.
 - [Holly Dahlstrom] (https://github.com/HollyDahlstrom) - Yay! I did it!
+- [Dim Geo] (https://github.com/DimGeo5)
 - [Abhishek Sharma](https://github.com/AbhishekSharma9161) - Master the basics, and everything else becomes easier.
 - [Pooja Vishwakarma](https://github.com/pv4782613)- Keep Grinding
 - [Jhoe-Lab](https://github.com/Jhoe-lab)- Keep Coding, and keep calm
