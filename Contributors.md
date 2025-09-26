@@ -32,6 +32,7 @@
 -  [BiNa Maxx](https://github.com/bina5461) My First Contribution as a learner.
 - [Kian Zahrai](https://github.com/KianZahrai) - Excited to contribute to this open source project :ok_hand:
 - [DeAnna_Nichols]
+- Ilamaran Magesh - Cheers!
 - [Aung Kyaw Thet](https://github.com/aungkyawth3t) - first open source contribution
 - [FaFa-02]
 --sahith bunny new user
