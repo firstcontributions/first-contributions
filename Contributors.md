@@ -2664,6 +2664,7 @@ Cloudman
 - [Georgios Karampelos](https://github.com/gkarabelos)
 - [Cristian Nustes](https://github.com/cristiaaann27)
 - [Dev Chagas](https://github.com/devchagas)
+- [Hypercat](https://github.com/Hypercat311) We out here
 - [Shreya Kumari](https://github.com/shreya-create-glitch)
 - [Rahul Dutta](https://github.com/RahulDutta7)
 - [Mohamed Laraiche](https://github.com/molaraiche)
