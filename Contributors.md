@@ -51,7 +51,7 @@
 - [Ifham-Hashir](https://github.com/Ifham-Hashir)
 - [Bjorn Stephany](https://github.com/bjornstephany)
 - [Omveer](https://github.com/narukaz/)
-[Ashmit Prasad](https://github.com/ashmitprasad183-netizen)
+[Ashmit Prasad :)](https://github.com/ashmitprasad183-netizen)
 - [Anashe Gaseller] 
 - [Tojan Naiem](https://github.com/Tojan-Naiem)
   [Mahdi](https://github.com/mahdi-re-dev) - thanks 
