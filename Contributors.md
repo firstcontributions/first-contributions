@@ -3227,3 +3227,5 @@ I am Lakshya Sharma and making my first open source contribution
 - [Sohyeon412](https://github.com/sohyeon412)
 - [Shivanii30](https://github.com/Shivanii30)
 - [fant205](https://github.com/fant205) - Give me fuel, give me fire ...
+- [Krishna Yadav](https://github.com/yadav-krish) - Entering into the realm of Open Source :)
+  
