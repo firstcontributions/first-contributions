@@ -3241,3 +3241,4 @@ I am Lakshya Sharma and making my first open source contribution
 - [Ghaith Bouabda](https://github.com/ghaith-bouabda) - first open-source contribution 
 - [fant205](https://github.com/fant205) - Give me fuel, give me fire ...
 - [Lucas Cloes](https://github.com/cccLUCASccc) - Yo
+- [Jomari Tenorio](https://github.com/jtenorio-dev) - whoami
