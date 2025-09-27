@@ -8,7 +8,8 @@
 - [Vanessa C.](https://github.com/vscortez) - This will be my first contribution to open-source coding!!
 - [InsaneAbhinav](https://github.com/InsaneAbhinav) - First Git Contribution GG boys & girls!!!
 - [VarshaSahithi] (https://github.com/sahithi103) - yayy !!!
-- [Harshit Kumar] (https://github.com/harshitclub) - Full Stack Developer | Starting Open Source Contribution
+- [Harshit Kumar] (https://github.com/harshitclub) - Full Stack Developer | Starting Open Source 
+- [Vishwas Hibare] (https://github.com/vishwas-615) - Full Stack Developer | Crazy...!
 -[ismail_cem_tuzun]- this is something like a contribution :) THIS IS THE WAY
 - [Leoniex](https://github.com/Leoneix) - first contri:)
 -[051821](https://github.com/051821) - This is my first open-source contribution
