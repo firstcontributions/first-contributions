@@ -526,6 +526,7 @@ sdumini
 [TML](https://github.com/TinMoeLwin007)
 - [Tonny Nyauke]
 - [gcgc]
+- [Beau Bremer](https://github.com/KnowOneActual)
 -[Shaswata Panda]
 - [Michael Koo](https://github.com/Michael-Koo-21)
 - [Jay](https://github.com/ledi1026)
