@@ -88,6 +88,7 @@
 - [Sairam Konar](https://github.com/Sairam-Vk-sudo) - First Git Contribution 
 - [Adeib Arief](https://github.com/AdeibArief/) - First try
 - [Jayce Stephens]
+- [Jef P.](https://github.com/Peeters-Jef) Hello!
 - [Zhou Xiaoqian]
 - [Shreya Nigam](https://github.com/shreya-328) Excited to try !
 - [Aakash Singh](https://github.com/aakashsingh04)
