@@ -9,6 +9,7 @@
 - [Azhar](https://github.com/kkyufkrz) - First Git Contribution - Msg: Love u ananda!
 - [Vanessa C.](https://github.com/vscortez) - This will be my first contribution to open-source coding!!
 - [InsaneAbhinav](https://github.com/InsaneAbhinav) - First Git Contribution GG boys & girls!!!
+- [Rahul Krishna T](https://github.com/Itzzmerahul) - My first Open Source contribution Ikou!!!
 - [VarshaSahithi] (https://github.com/sahithi103) - yayy !!!
 - [Harshit Kumar] (https://github.com/harshitclub) - Full Stack Developer | Starting Open Source 
 - [Vishwas Hibare] (https://github.com/vishwas-615) - Full Stack Developer | Crazy...!
