@@ -1,5 +1,5 @@
 # Contributors
-- [Francis](francisvfx.carrd.co) (https://github.com/francisdav1d) - 
+- [Francis](francisvfx.carrd.co)(https://github.com/francisdav1d)
 - [Hani Gannam](https://github.com/HaniGannam) - My First Contribution to the open source world :0
 - [Kamel Rmada](https://github.com/Young-Xster) - A great start to a great career :)
 - [Kanishka Udayanga](https://github.com/Kanishkau4) - Hi, I'm from Sri Lanka and this is my first Contribution.
@@ -7,6 +7,7 @@
 - [Muhammet Alperen Sivgin](https://github.com/MuhammetSec-Exilex) - This is the start
 - [Joseph Fujimoto](https://github.com/jsfmu) - Locking in post-grad. Wish me luck as I'm wishing you all luck everyone!
 - [Azhar](https://github.com/kkyufkrz) - First Git Contribution - Msg: Love u ananda!
+- [Arnav Gautam](https://github.com/arnavgautam0209) - Let's Go!!!
 - [Vanessa C.](https://github.com/vscortez) - This will be my first contribution to open-source coding!!
 - [InsaneAbhinav](https://github.com/InsaneAbhinav) - First Git Contribution GG boys & girls!!!
 - [Rahul Krishna T](https://github.com/Itzzmerahul) - My first Open Source contribution Ikou!!!
