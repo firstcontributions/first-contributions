@@ -3270,3 +3270,4 @@ I am Lakshya Sharma and making my first open source contribution
 - [Mithun Gupta](https://github.com/Mithunmkks)
 - [Tung Nguyen](https://github.com/tungnguyen21012000-sys)
 - [William Ong](https://github.com/William9923) - Learning to be better. Thanks for the learning opportunity!
+- [Alex](https://github.com/rizespb) - Hi everyone! It's my first contribution. Congretes me!
