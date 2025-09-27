@@ -3292,3 +3292,5 @@ I am Lakshya Sharma and making my first open source contribution
 - [uec203](https://github.com/uec203)  -  My first contrubition
 - [Scott Lundgren](https://github.com/scottelundgren) - Not my first contribution, but fun to add
 - [KillianDlds](https://github.com/KillianDlds) -Yo everyone 
+- [vanya-36](https://github.com/vanya-36) - Starting my journey in open source!
+
