@@ -143,6 +143,7 @@
 - [Thien](https://github.com/Thien0912)
 - sai
 - hello
+- [Hari Nivedhan](https://github.com/hari7niv)
 - [Sharvesh S][https://github.com/Sharvesh3]- This is my First FOSS Contribution
    [Itika Goel][https://github.com/itikaa]
 - [Jack Bates](https://github.com/JackBates2007) - Hello Everyone!
