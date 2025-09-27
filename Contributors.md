@@ -39,6 +39,7 @@
 --sahith bunny new user
 - [Avinash Ganore](https://github.com/Xzy-Vron)
 - [June](https://github.com/onjoon)
+- [Maria Sebastian]
 - [Khalid](https://github.com/khalidx3)
 - [FertileVerve](https://github.com/fertileverve)
 - [Ayush](https://github.com/AyushMaurya3114)
