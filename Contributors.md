@@ -24,6 +24,7 @@
 - [Abhishek Sharma](https://github.com/AbhishekSharma9161) - Master the basics, and everything else becomes easier.
 - [Pooja Vishwakarma](https://github.com/pv4782613)- Keep Grinding
 - [Jhoe-Lab](https://github.com/Jhoe-lab)- Keep Coding, and keep calm
+- [Zackwan Hakimi](https://github.com/Zackwanhakimi) - Hey there boys, is this correct way to contribute?
 - Saurebh Kokate - THis is my 1st contribution
 - [Sourabh Mukherjee](https://github.com/sourabhO7) - This is my first open source contribution
 [Vikas Saini](https://github.com/vikas-saini-7) - Big Things Coming Up :)
