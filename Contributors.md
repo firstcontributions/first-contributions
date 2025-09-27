@@ -5,6 +5,7 @@
 - [Muhammet Alperen Sivgin](https://github.com/MuhammetSec-Exilex) - This is the start
 - [Joseph Fujimoto](https://github.com/jsfmu) - Locking in post-grad. Wish me luck as I'm wishing you all luck everyone!
 - [Azhar](https://github.com/kkyufkrz) - First Git Contribution - Msg: Love u ananda!
+- [Vanessa C.](https://github.com/vscortez) - This will be my first contribution to open-source coding!!
 - [InsaneAbhinav](https://github.com/InsaneAbhinav) - First Git Contribution GG boys & girls!!!
 - [VarshaSahithi] (https://github.com/sahithi103) - yayy !!!
 - [Harshit Kumar] (https://github.com/harshitclub) - Full Stack Developer | Starting Open Source Contribution
