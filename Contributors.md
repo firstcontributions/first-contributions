@@ -13,6 +13,7 @@
 - [Leoniex](https://github.com/Leoneix) - first contri:)
 -[051821](https://github.com/051821) - This is my first open-source contribution
 - [Yeerapaneni Anurag ](https://github.com/Yeerapanenianurag) - Leaping into open source contribution .
+- [JJ] (https://github.com/JacquesJ44) - Looking forward to create and collaborate!
 - [Cypher](https://github.com/s1999-alt/) - Master the basics, and everything else becomes easier.
 - [Holly Dahlstrom] (https://github.com/HollyDahlstrom) - Yay! I did it!
 - [Rupesh Saini] (https://github.com/theangryybeast) - My First Contribution that I did on Sep 26 2025.
