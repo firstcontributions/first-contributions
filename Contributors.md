@@ -1,5 +1,5 @@
 # Contributors
-- [Francis](francisvfx.carrd.co) (https://github.com/francisdav1d) - 
+- [Francis](francisvfx.carrd.co)(https://github.com/francisdav1d)
 - [Hani Gannam](https://github.com/HaniGannam) - My First Contribution to the open source world :0
 - [Kamel Rmada](https://github.com/Young-Xster) - A great start to a great career :)
 - [Kanishka Udayanga](https://github.com/Kanishkau4) - Hi, I'm from Sri Lanka and this is my first Contribution.
@@ -7,6 +7,7 @@
 - [Muhammet Alperen Sivgin](https://github.com/MuhammetSec-Exilex) - This is the start
 - [Joseph Fujimoto](https://github.com/jsfmu) - Locking in post-grad. Wish me luck as I'm wishing you all luck everyone!
 - [Azhar](https://github.com/kkyufkrz) - First Git Contribution - Msg: Love u ananda!
+- [Arnav Gautam](https://github.com/arnavgautam0209) - Let's Go!!!
 - [Vanessa C.](https://github.com/vscortez) - This will be my first contribution to open-source coding!!
 - [InsaneAbhinav](https://github.com/InsaneAbhinav) - First Git Contribution GG boys & girls!!!
 - [Rahul Krishna T](https://github.com/Itzzmerahul) - My first Open Source contribution Ikou!!!
@@ -44,6 +45,7 @@
 - [DeAnna_Nichols]
 - Ilamaran Magesh - Cheers!
 - [Aung Kyaw Thet](https://github.com/aungkyawth3t) - first open source contribution
+- [Ahmad] - hi all this is my first contribution :)
 - [FaFa-02]
 --sahith bunny new user
 - [Avinash Ganore](https://github.com/Xzy-Vron)
@@ -51,6 +53,7 @@
 - [Maria Sebastian]
 - [Khalid](https://github.com/khalidx3)
 - [FertileVerve](https://github.com/fertileverve)
+- [Rishabh Raj Pathak](https://github.com/Rishabh-Raj-Pathak) - This is my first open source contribution, huge thanks to the community for building such an awesome project. I'm keen to get involved in the open source space and hopefully make a meaningful impact!
 - [Ayush](https://github.com/AyushMaurya3114)
 - [AbhishekRouth](https://github.com/Abhishekrouth)
 - [Adnan](https://github.com/adnan-2504)
@@ -87,7 +90,9 @@
 - [Ripudaman Singh](https://github.com/rdsingh120) - First Git Contribution
 - [Sairam Konar](https://github.com/Sairam-Vk-sudo) - First Git Contribution 
 - [Adeib Arief](https://github.com/AdeibArief/) - First try
+- [Abhishek Raj](https://github.com/Abhi-4825) - I am starting my contribution from here 
 - [Jayce Stephens]
+- [Jef P.](https://github.com/Peeters-Jef) Hello!
 - [Zhou Xiaoqian]
 - [Shreya Nigam](https://github.com/shreya-328) Excited to try !
 - [Aakash Singh](https://github.com/aakashsingh04)
@@ -525,6 +530,7 @@ sdumini
 [TML](https://github.com/TinMoeLwin007)
 - [Tonny Nyauke]
 - [gcgc]
+- [Beau Bremer](https://github.com/KnowOneActual)
 -[Shaswata Panda]
 - [Michael Koo](https://github.com/Michael-Koo-21)
 - [Jay](https://github.com/ledi1026)
@@ -3284,5 +3290,8 @@ I am Lakshya Sharma and making my first open source contribution
 - [svector-anu](https://github.com/svector-anu) - Hi everyone! It's my first contribution. Looking forward to new opportunities always.
 - [Yamo406](https://github.com/Yamo406) -Yamo406 was here X_X, come say Hi, if you see this <3
 - [Aditya Telsinge](https://github.com/AdityaTel89) - Hi, My first contribution...
-
+- [uec203](https://github.com/uec203)  -  My first contrubition
+- [Scott Lundgren](https://github.com/scottelundgren) - Not my first contribution, but fun to add
+- [KillianDlds](https://github.com/KillianDlds) -Yo everyone 
+- [vanya-36](https://github.com/vanya-36) - Starting my journey in open source!
 
