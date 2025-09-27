@@ -51,6 +51,7 @@
 - [Maria Sebastian]
 - [Khalid](https://github.com/khalidx3)
 - [FertileVerve](https://github.com/fertileverve)
+- [Rishabh Raj Pathak](https://github.com/Rishabh-Raj-Pathak) - This is my first open source contribution, huge thanks to the community for building such an awesome project. I'm keen to get involved in the open source space and hopefully make a meaningful impact!
 - [Ayush](https://github.com/AyushMaurya3114)
 - [AbhishekRouth](https://github.com/Abhishekrouth)
 - [Adnan](https://github.com/adnan-2504)
