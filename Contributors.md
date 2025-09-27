@@ -44,6 +44,7 @@
 - [DeAnna_Nichols]
 - Ilamaran Magesh - Cheers!
 - [Aung Kyaw Thet](https://github.com/aungkyawth3t) - first open source contribution
+- [Ahmad] - hi all this is my first contribution :)
 - [FaFa-02]
 --sahith bunny new user
 - [Avinash Ganore](https://github.com/Xzy-Vron)
