@@ -3252,6 +3252,7 @@ I am Lakshya Sharma and making my first open source contribution
 - [Roberto RW] (https://github.com/roberto-rw)
 - [Jimmy So] this is 250924. I wanna free~
 - [tdx2] - a software developer
+- [lyricalcarpenter] - Here I am, here I remain!
 - [axniks](https://github.com/axniks)
 - [charles] - (https://github.com/charlestran2006) - first contribution!
 - [htyffn] - (https://github.com/htyffn)
