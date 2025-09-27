@@ -63,6 +63,7 @@
 - [Steeven972](https://github.com/steeven972) This is my first contribution to open source as part of my learning journey. I’m excited to keep learning, contributing, and growing in the open source community!
 - [hewin31](https://github.com/hewin31)
 - [Prod_Ayesian](https://github.com/ProdAyesian) Make Happy Meek playable cygames :(
+- [Jan Kristoffer Manes](https://github.com/KrisSelvarin) - My first contribution! Yey! This is just for hobbies but I want to explore both AI and Data Science and even just doing fun stuff (Day-52 in Learning Programming|Coding)
 - [Ifham-Hashir](https://github.com/Ifham-Hashir)
 - [Bjorn Stephany](https://github.com/bjornstephany)
 - [Omveer](https://github.com/narukaz/)
