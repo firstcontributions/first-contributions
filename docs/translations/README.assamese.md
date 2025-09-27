@@ -8,7 +8,7 @@
 
 এই প্ৰকল্পই আৰম্ভণকাৰীসকলৰ বাবে প্ৰথম অৱদানটো সহজ আৰু পোষকভাৱে কৰিবলৈ সহায় কৰে। যদি আপুনি আপোনাৰ প্রথম অৱদানটো কৰিবলৈ বিচাৰে, তলত দিয়া পদক্ষেপসমূহ অনুসৰণ কৰক।
 
-যদি আপুনি command lineৰ সৈতে আৰামদায়ক নোহোৱাঁ, GUI tools ব্যৱহাৰ কৰি ইয়াত tutorial আছে।
+যদি আপুনি command lineৰ সৈতে আৰামদায়ক নোহোৱাঁ, GUI tools ব্যৱহাৰ কৰি ইয়াত টিউট’ৰিয়েল আছে।
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
