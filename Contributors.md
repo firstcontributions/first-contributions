@@ -772,6 +772,7 @@ sdumini
 - [Yorke Nyakundi](https://github.com/yorkings)
 - [Lucas](https://github.com/LucasCSIT)
 - [Thabeswar](https://github.com/Thabeswar)
+- [Olowonyo Umar Ololade](https://github.com/Umarpython001)
 - [Mithielesh N](https://github.com/mithielesh)
 - [Yash](https://github.com/yuishigam1)
 - [Abhi][https://github.com/Abhi-AIX]
