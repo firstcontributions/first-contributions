@@ -1882,6 +1882,7 @@ Lawrence Ahaneku
 - [Amar Yasser](https://github.com/AmarYasser1)
 - [Mafedev](https://github.com/mafedev)
 - [Peter Hilbert](https://github.com/pehilbert)
+- [Shahzaib Ahmad](https://github.com/shahzaibahmad05)
 - [Kores Nkoidila](https://github.com/Nkoidila)
 - [Aditya Mitra](https://github.com/mitras-git)
 - [Shayne Geilman](https://github.com/ShayneJG)
