@@ -16,7 +16,7 @@
 - [VarshaSahithi] (https://github.com/sahithi103) - yayy !!!
 - [Harshit Kumar] (https://github.com/harshitclub) - Full Stack Developer | Starting Open Source 
 - [Vishwas Hibare] (https://github.com/vishwas-615) - Full Stack Developer | Crazy...!
--[ismail_cem_tuzun]- this is something like a contribution :) THIS IS THE WAY
+- [ismail_cem_tuzun]- this is something like a contribution :) THIS IS THE WAY
 - [Leoniex](https://github.com/Leoneix) - first contri:)
 -[051821](https://github.com/051821) - This is my first open-source contribution
 - [Jacky James] - My first contribution
@@ -347,6 +347,7 @@ sdumini
 - [Kartik Mishra] (https://github.com/kartikmishra210)
 - [Kunal Sable] (https://github.com/Kunals990)
 - [Kunal Mishra] (https://github.com/kunalmishraa)
+- [Yashwanth](https://github.com/Yashwanthvm06)
 - [Priyanka Singh] (https://github.com/Priyanka-2725)
 - [Samidu Kaushalaya] (https://github.com/samidukushalaya)
 - [Shivam Verma] (https://github.com/shivamxverma)
