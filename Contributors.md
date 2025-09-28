@@ -3268,6 +3268,7 @@ I am Lakshya Sharma and making my first open source contribution
 - [Mark Abdilla Mifsud](https://github.com/MarkAbdillaMifsud) - Finally my first contribution!
 - [Ranjuna](https://github.com/Ranjuna120) - My first Hacktoberfest contribution! 🎃
 - [Saikishor-Rasala](https://github.com/saikishorr)
+- [arunpusala7](https://github.com/arunpusala7) - Hello, This is my First Contribution ! Looking forward to new opportunities. Thank you !
 - [Praveen-Palanivel](https://github.com/Praveen-Palanivel) - Guess it's time to do something meaningful. Btw Thank you!!
 - [Shruti Kotgire](https://github.com/shrutikotgire0129) - Finally decided and did my "FIRST CONTRIBUTION". But more to learn & grow :-)
 - [ydrz3](https://github.com/yydrowz3) - hello world
@@ -3296,6 +3297,5 @@ I am Lakshya Sharma and making my first open source contribution
 - [KillianDlds](https://github.com/KillianDlds) -Yo everyone 
 - [Özgür Polat](https://github.com/ozzo666) - ✌️
 - [vanya-36](https://github.com/vanya-36) - Starting my journey in open source!
-- [Arun kumar Pusala](https://github.com/arunpusala7) - Hello, This is my First Contribution ! Looking forward to new opportunities. Thank you ! 
 
 
