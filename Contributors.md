@@ -3311,4 +3311,4 @@ I am Lakshya Sharma and making my first open source contribution
 - [Özgür Polat](https://github.com/ozzo666) - ✌️
 - [vanya-36](https://github.com/vanya-36) - Starting my journey in open source!
 - [ArjunO-008](https://github.com/ArjunO-008) - Yeaa! Open Source..
-
+- [Meidarow](https://github.com/Meidarow) - Let's see what the fuss is about!
