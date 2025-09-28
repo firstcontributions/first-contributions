@@ -1,4 +1,5 @@
 # Contributors
+
 - [Fady Zaky](https://github.com/0ddAuto00)
 - [Fangphire](https://github.com/fangphire)
 - [Furanimus](https://github.com/Furanimus)
@@ -65,6 +66,7 @@
 - [Somto Ogbe](https://github.com/somtoval)
 - [SoullesKev](https://github.com/Sadirock)
 - [Sunghee Yoon](https://github.com/tnosh7)
+- [Shivraj Yadav](https://github.com/shivraj-yadav)
 - [Sushmitha](https://github.com/Sushmigit)
 - [Thabeswar](https://github.com/Thabeswar)
 - [TheRunnas](https://github.com/therunnas)
@@ -630,7 +632,7 @@
 - [Nicholas C.](https://github.com/ncolvin-dev)
 - [Okatakyieba Boadu](https://github.com/oke06)
 - [Paramjit Singh](https://github.com/param20h)
-- [Pavan  Mhaisne](https://github.com/piyushm4)
+- [Pavan Mhaisne](https://github.com/piyushm4)
 - [Pavani](https://github.com/PavaniMuppalla29)
 - [Peter Hilbert](https://github.com/pehilbert)
 - [PraveenX812](https://github.com/PraveenX812)
