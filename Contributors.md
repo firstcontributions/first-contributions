@@ -1,6 +1,7 @@
 # Contributors
 - [Derbadunkadunk](https://github.com/DerBadunkadunk) - Hello github and here is my first contribution.
 - [Francis](francisvfx.carrd.co)(https://github.com/francisdav1d)
+- [Yanshi Sharma] (https://github.com/yanshiii) - My first open src contri! Lesgo!
 - [Hani Gannam](https://github.com/HaniGannam) - My First Contribution to the open source world :0
 - [Kamel Rmada](https://github.com/Young-Xster) - A great start to a great career :)
 - [Kanishka Udayanga](https://github.com/Kanishkau4) - Hi, I'm from Sri Lanka and this is my first Contribution.
