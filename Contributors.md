@@ -3295,4 +3295,5 @@ I am Lakshya Sharma and making my first open source contribution
 - [Scott Lundgren](https://github.com/scottelundgren) - Not my first contribution, but fun to add
 - [KillianDlds](https://github.com/KillianDlds) -Yo everyone 
 - [Özgür Polat](https://github.com/ozzo666) - ✌️
+- [arunpusala7](https://github.com/arunpusala7)- This is the time to do something meaningful in coding life by contributing in opensource projects
 - [vanya-36](https://github.com/vanya-36) - Starting my journey in open source!
