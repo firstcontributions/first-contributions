@@ -3320,4 +3320,5 @@ I am Lakshya Sharma and making my first open source contribution
 - [SunShine](https://github.com/SGYWN1)
 - [Ashik Syed Muhammad](https://github.com/Ashiksyedmuhammad) - Starting here... 🚀
 - [ArjunO-008](https://github.com/ArjunO-008) - Yeaa! Open Source..
+- [Adel](https://github.com/codemmaann) - If you are reading this, I hope you have a good day
 
