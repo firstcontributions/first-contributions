@@ -3223,6 +3223,7 @@ I am Lakshya Sharma and making my first open source contribution
 - [Tharindu Silva](https://github.com/TharinduSilva2019774) - It's time to give something back :)
 - [yuktha](https://github.com/yuktha0505) - My first contrubition
 - [Logan Schmunck](https://github.com/lSchmunck) - A little behind on college work but I'm figuring it out.
+- [Muhammad](https://github.com/saadthedeveloper/) - My first open source contribution
 - [Periyasamy R](https://github.com/PERI14/) - My first Contributuon game on
 -[Gaurav Kumar](https://github.com/gkbdc01/) - I just make a change to a clone repo
 [Anna Woodlief](https://github.com/AnnaWoodlief) - Hi! Hope everyone has a good day!!
