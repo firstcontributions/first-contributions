@@ -2948,6 +2948,7 @@ sh0uka
 - [Manvitha shetty](https://github.com/Manvitha13964)
 - [SHREYANSH SINGH](https://github.com/Shreyansh-singh-6856)
 - [RIVER]
+- [Junior Sezerotto](https://github.com/jrsezerotto)
 - [Nikhil Garg](https://github.com/Nikhilgarg-123)
 - [Dhanraj Bidare](https://github.com/Dhanraj4102)
 - [JstFrMs](https://github.com/JstFrMs)
