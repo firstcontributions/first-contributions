@@ -3177,8 +3177,8 @@ DanyLeeCS
  - [Ella](https://github.com/Ellasimms1) hey!
  - [Leon](https://github.com/Lvang05) Hello.
  [ARendall](https://github.com/18arendall) Hi everyone!
- [kmj8843](https://github.com/kmj8843)
- [Eluri Pavan Kumar] (https://github.com/Pavan-000) Hello thanks for the Guidance
+  [kmj8843](https://github.com/kmj8843)
+  [Eluri Pavan Kumar] (https://github.com/Pavan-000) Hello thanks for the Guidance
 - [Abdurrab Khan](https://github.com/AbdurrabKhan198) hello!
 [Ramesh Nair](https://github.com/ramesh-nair-dev) Hello !
 -[Lakshay Singh Rathore](https://github.com/L-S-R). Hello!
@@ -3305,4 +3305,5 @@ I am Lakshya Sharma and making my first open source contribution
 - [KillianDlds](https://github.com/KillianDlds) -Yo everyone 
 - [Özgür Polat](https://github.com/ozzo666) - ✌️
 - [vanya-36](https://github.com/vanya-36) - Starting my journey in open source!
+- [chunseyueguang](https://github.com/chunseyueguang) - My first contribution!
 
