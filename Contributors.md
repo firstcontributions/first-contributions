@@ -314,6 +314,7 @@ ranjith_dhanasekaran
 - GOWTHAM
 - Bhuvana Madiraju
 - Aditya Singh Kushwah
+- [Manuel Bishop Noriega](https://github.com/mbishopn) 
 - [Kerem Balci](https://github.com/kerembalci90)
 - [Kat R.](https://github.com/KxttyKxt)
 - [Daniel Arrieta](https://github.com/Darrieta05)
