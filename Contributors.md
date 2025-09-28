@@ -140,6 +140,7 @@
 - [Benja] - Hello!
 - [ilomarsk](https://github.com/ilomarsk/)
 - [amethyst](https://github.com/krishshaw418)
+- [rahulvarma.07](https://github.com/rahulvarmaviit)
 - [Darion]
 - [Suhaib] - (https://github.com/Suhaib536)
 - [Kurisu] - (https://github.com/AliasCody)
