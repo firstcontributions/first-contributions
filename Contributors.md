@@ -174,6 +174,7 @@
 - [YG-paaleee] (https://github.com/YG-paaleee)
 - [Hiamnshu Pandey] (https://github.com/Himanshu817324)
 - [Junya Katouda] (https://github.com/katoudaj)
+- [muix r](https://github.com/Webmuiz)
 - [CJ Nwogu] (https://github.com/cjnw)
 - [Sneha Bichkunde] (https://github.com/snehabichkunde)
 sdumini
