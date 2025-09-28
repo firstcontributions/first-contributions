@@ -868,6 +868,7 @@
 - [Wiktor Kycia](https://github.com/wiktorKycia)
 - [Yash Gupta](https://github.com/YashGupta2106)
 - [Yashwanth G](https://github.com/yashwanthg13)
+- [Yahya Fazeli](https://github.com/yahyafazeli)
 - [nyinyi zin](https://github.com/nyinyizin-dev)
 - [rishabh1024](https://github.com/rishabh1024/)
 - [sajad thapa](https://github.com/sajadthapa04)
