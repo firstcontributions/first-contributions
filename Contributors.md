@@ -595,6 +595,7 @@ sdumini
 - [Darshon](https://github.colets gom/darshons)
 - [Archit Jaju](https://github.com/ayhm23)
 - [Johnathan Roehsner](https://github.com/johnathan22966)
+- [joeliscoding](https://github.com/joeliscoding) - Hello world! ✨ - Sep 28 2025
 - [Kerolos Nesim](https://github.com/kerolosnesim1)
 - [Shashidhar](https://github.com/shashidharsai)
 - [Mowlick Armstrong](https://github.com/Mowlick)
