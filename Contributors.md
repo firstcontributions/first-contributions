@@ -1,5 +1,5 @@
 # Contributors
-- [HRITIK KUMAR](https://github.com/Hritik-Kumar-dev) -  hii  my name is hritik kumar .
+- [HRITIK KUMAR](https://github.com/Hritik-Kumar-dev) -  hii  my name is hritik kumar i am from india .
 - [Derbadunkadunk](https://github.com/DerBadunkadunk) - Hello github and here is my first contribution.
 - [Francis](francisvfx.carrd.co)(https://github.com/francisdav1d)
 - [Yanshi Sharma] (https://github.com/yanshiii) - My first open src contri! Lesgo!
