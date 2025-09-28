@@ -192,6 +192,7 @@
 - [Owen Roukey](https://github.com/rouk5555)
 - [Pankaj Monga](https://github.com/p-monga)
 - [Patrick Yeung](https://github.com/eampat)
+- [Daniel Gacha](https://github.com/JDanielGS)
 - [Plexton](https://github.com/ZaibLComrade)
 - [Prasad J B](https://github.com/Prasad-JB)
 - [Pro Kumar](https://github.com/pkumar2143)
