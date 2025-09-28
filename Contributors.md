@@ -3314,6 +3314,7 @@ I am Lakshya Sharma and making my first open source contribution
 - [KillianDlds](https://github.com/KillianDlds) -Yo everyone 
 - [Özgür Polat](https://github.com/ozzo666) - ✌️
 - [vanya-36](https://github.com/vanya-36) - Starting my journey in open source!
+- [oldschoolmoron](https://github.com/oldschoolmoron) - hi, i'm moron!
 - [SunShine](https://github.com/SGYWN1)
 - [Ashik Syed Muhammad](https://github.com/Ashiksyedmuhammad) - Starting here... 🚀
 - [ArjunO-008](https://github.com/ArjunO-008) - Yeaa! Open Source..
