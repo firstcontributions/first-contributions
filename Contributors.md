@@ -25,6 +25,7 @@
 - [Holly Dahlstrom] (https://github.com/HollyDahlstrom) - Yay! I did it!
 - [Mohamed Mahmoud] (https://github.com/mmohamedmmamdouh6) - It is just the beginning.
 - [Rupesh Saini] (https://github.com/theangryybeast) - My First Contribution that I did on Sep 26 2025.
+- [Santhosh] (https://github.com/notsanta20) - First Contribution.
 - [Dim Geo] (https://github.com/DimGeo5)
 - [Abhishek Sharma](https://github.com/AbhishekSharma9161) - Master the basics, and everything else becomes easier.
 - [Pooja Vishwakarma](https://github.com/pv4782613)- Keep Grinding
