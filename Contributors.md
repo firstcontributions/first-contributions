@@ -1597,6 +1597,7 @@ Ben
 - [Moulya.K](https://github.com/MoulyaK2005)
 - [Bonga M](https://github.com/BongaManzini)
 - [Chuffed](https://github.com/Chuffed-Code)
+- [Lendon Completado](https://github.com/ranier-lendon)
 - [Luan Lessa](https://github.com/LuanLessa)
 - [Hosein Tajali](https://github.com/Kasra36)
 - [Captain](https://github.com/CaptainPatel)
