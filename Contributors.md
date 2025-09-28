@@ -3282,6 +3282,7 @@ I am Lakshya Sharma and making my first open source contribution
 - [Krishna Yadav](https://github.com/yadav-krish) - Entering into the realm of Open Source :)
 - [Lucas Cloes](https://github.com/cccLUCASccc) - Yo
 - [Jomari Tenorio](https://github.com/jtenorio-dev) - whoami
+- [arunpusala7](https://github.com/arunpusala7)- This is the time to do something meaningful in coding life by contributing in opensource projects
 - [Ahmed Abass](https://github.com/AhmedAbass2004)
 - [Mithun Gupta](https://github.com/Mithunmkks)
 - [Tung Nguyen](https://github.com/tungnguyen21012000-sys)
