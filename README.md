@@ -163,8 +163,8 @@ git checkout -b your-new-branch-name
 Now open `Contributors.md` file in a text editor, add your name to it. 
 > [!CAUTION]
 > - **DO NOT** edit, replace, or modify existing lines in this file. </br>
-> - **Only** add your name as a new line at the end of the document.</br>
-> - This practice prevents merge conflicts and makes it easier to merge your pull request.
+> - **DO NOT** write your name at the beginning or at the end of the file.  
+> - Add your name on a new line between existing names.
 
 Now, save the file.
 
