@@ -53,6 +53,7 @@
 - [Quan Dinh](https://github.com/Vanquan99)
 - [Radhakrishan](https://github.com/rkdevx)
 - [Raphael-W](https://github.com/Raphael-W)
+- [Ezekiel Gabino](https://github.com/EzekielGabino)
 - [Rion Sato](https://github.com/Rion-Sato)
 - [Ryan Gapp](https://github.com/ryan-gapp)
 - [S.Yukiko](https://github.com/yuki-git-9)
