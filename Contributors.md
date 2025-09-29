@@ -130,6 +130,7 @@
 - [Alexander](https://github.com/azuaje1982)
 - [Alif Akbar](https://github.com/alifakbxr)
 - [Alokananda Y](https://github.com/alok-38)
+- Zak Slovak
 - [Aminat A](https://github.com/pejuameenat)
 - [Andrew D](https://github.com/myMEDIA1578)
 - [Angad Bhalla](https://github.com/Anga205)
