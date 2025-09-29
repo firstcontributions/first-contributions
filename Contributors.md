@@ -49,6 +49,7 @@
 - [Nithwin V M](https://github.com/Nithwin)
 - [Numan Khan](https://github.com/Nuu-maan)
 - [Paul Serise](https://github.com/pserise)
+- [Paulina Thrasher](https://github.com/paulinathrasher)
 - [Pramod560](https://github.com/Pramod560)
 - [Praneeth](https://github.com/praneethem)
 - [Pranesh](https://github.com/Pranesh2288)
