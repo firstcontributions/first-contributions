@@ -354,6 +354,7 @@
 - [ccppurcell](https://github.com/ccppurcell)
 - [davidw1281](https://github.com/davidw1281)
 - [eobrien673](https://github.com/eobrien673)
+- [Reydeuss](https://github.com/Reydeuss)
 - [fedxemilio](https://github.com/fedxemilio)
 - [fikrirazor](https://github.com/fikrirazor)
 - [happypepii](https://github.com/happypepii)
