@@ -989,6 +989,7 @@
 - [Rushikesh Deshmukh](https://github.com/Mrx207)
 - [Rushikesh Jadhav](https://github.com/Rushi543)
 - [SANJAY KUMAR](https://github.com/sanjaydeepak)
+- [Clay LaMothe](https://github.com/ClayLaMothe)
 - [Sagar Patel](https://github.com/sagarpatel279)
 - [Sahil Gulunjkar](https://github.com/Sahil4757)
 - [Sakshi Jaiswal](https://github.com/Sakshijazz)
