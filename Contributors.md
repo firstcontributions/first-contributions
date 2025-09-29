@@ -1060,6 +1060,7 @@
 - [saravanan](https://github.com/saravanan27-learner)
 - [aidenliu](https://github.com/aiden-liu)
 - [Ariyan Bhakat](https://github.com/arywk40-hue)
+- [Raine Z](https://github.com/You-know-who666)
 - [Sevenquarters](https://github.com/Sevenquarters)
 - [Viticooo](https://github.com/Viticooo)
 - [chandev123](https://github.com/chandev123)
