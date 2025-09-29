@@ -112,6 +112,8 @@ Blahopřejeme! Právě jste dokončili standardní _fork -> clone -> edit ->_ pr
 
 Oslavte svůj první příspěvek se svými přáteli a následovníky přes [webovou aplikaci](https://firstcontributions.github.io/#social-share).
 
+Pokud byste chtěli více praxe, můžete zkusit [code contributions](https://github.com/roshanjossey/code-contributions).
+
 Nyní vám už nic nebrání v příspívání do ostatních projektů. Připravili jsme pro vás seznam projektů, které mají jednoduché záležitosti k vyřešení/naprogramování, se kterými můžete začít. Podívejte se [zde](https://firstcontributions.github.io/#project-list).
 
 ### [Další materiály](../additional-material/git_workflow_scenarios/additional-material.md)
