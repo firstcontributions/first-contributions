@@ -1,4 +1,4 @@
-Before submitting this pull request, check the changes to see it's only the changes you made intentionallly
+Before submitting this pull request, check the changes to see it's only the changes you made intentionally
 If there are changes to other lines you didn't make deliberately, it's possible that your IDE made the changes with a utility like prettier.
 Next time, make sure that you only add your changes by using `git add -p` and rather than `git add Contributors.md`
 
