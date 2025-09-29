@@ -382,6 +382,7 @@
 - [xnm-sdksdk](https://github.com/xnm-sdksdk)
 - [y pavan reddy](https://github.com/ypavanr)
 - [원세영](https://github.com/seyoung5744)
+- [Bluefox192](https://github.com/Bluefox192)
 - [Aadvika Pandey](https://github.com/Addvika)
 - [Abdelali](https://github.com/abdosanad2001)
 - [Abhay Mishra](https://github.com/abhay7865)
