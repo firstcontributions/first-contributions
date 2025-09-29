@@ -74,6 +74,7 @@
 - [Vasu Singh](https://github.com/Vasu1303)
 - [Vrund Patel](https://github.com/Vrund09)
 - [Will Preece](https://github.com/wpreece)
+- [Sarmela Raja Sekaran](https://github.com/sarmelaraj)
 - [Xinsheng Ooi](https://github.com/xs1128)
 - [Yonas Girma](https://github.com/J0na555)
 - [Zoe Reed](https://github.com/zoereedviz)
