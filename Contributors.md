@@ -1,4 +1,5 @@
 # Contributors
+
 - [Fady Zaky](https://github.com/0ddAuto00)
 - [Fangphire](https://github.com/fangphire)
 - [Furanimus](https://github.com/Furanimus)
@@ -219,6 +220,7 @@
 - [Sean Tilson](hhtps://github.com/smtilson)
 - [Shahrukh Khan](https://github.com/srk384)
 - [ShaiQ Shah](https://github.com/shahshaiq)
+- [Shriram Gupta](https://github.com/theshriramgupta)
 - [Shudan Luo](https://github.com/shudanluo)
 - [Sidharth P](https://github.com/Sid-CodeX)
 - [Sina Soltani](https://github.com/sinaxzi)
@@ -643,7 +645,7 @@
 - [Nicholas C.](https://github.com/ncolvin-dev)
 - [Okatakyieba Boadu](https://github.com/oke06)
 - [Paramjit Singh](https://github.com/param20h)
-- [Pavan  Mhaisne](https://github.com/piyushm4)
+- [Pavan Mhaisne](https://github.com/piyushm4)
 - [Pavani](https://github.com/PavaniMuppalla29)
 - [Peter Hilbert](https://github.com/pehilbert)
 - [PraveenX812](https://github.com/PraveenX812)
