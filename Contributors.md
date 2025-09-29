@@ -755,6 +755,7 @@
 - [Dede Sangmortey](https://github.com/Ladydede)
 - [Deer.Darkness](https://github.com/matinebadi)
 - [Devansh Baghla](https://github.com/Devansh-b)
+- [davinzaki](https://github.com/davinzaki)
 - [Devansh Singh](https://github.com/Devansh-04)
 - [Dhuliana Dantas](https://github.com/Dhuliana)
 - [Diparna Adhikary](https://github.com/Diparna)
