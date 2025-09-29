@@ -169,6 +169,7 @@
 - [Harsh Kaushik](https://github.com/hrk022)
 - [HighPoly](https://github.com/HighPolygon)
 - [Ian McManus](https://github.com/ianmcman)
+- [Jose Soto] (https://github.com/jossotriv)
 - [Igor Balić](https://github.com/Iggy2399)
 - [Isaac F](https://github.com/YellowFlello)
 - [Janaki Ram K](https://github.com/JKR0805)
