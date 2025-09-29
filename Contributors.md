@@ -277,6 +277,7 @@
 - [Husnain Khaliq](https://github.com/huscse)
 - [Jason Pham](https://github.com/JeisonPham)
 - [Jay](https://github.com/Jayesh-Prajapati9)
+- [Diyashree Devadiga](https://github.com/DDiyash)
 - [Jessica Thomas](https://github.com/jmt713)
 - [Jin-Ho Lee](https://github.com/Jin-HoMLee)
 - [John Mixon](https://github.com/mixdev2112)
