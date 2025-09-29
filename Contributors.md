@@ -6,6 +6,7 @@
 - [Gopal Iyer](https://github.com/geekiyer)
 - [Harry-GNS](https://github.com/Harry-GNS)
 - [Helen Tsui](https://github.com/helentht)
+- [Sid-5137](https://github.com/Sid-5137)
 - [Hoin Shin](https://github.com/signalman)
 - [ITSMijaiL](https://github.com/ITSMijaiL)
 - [Itay Levi](https://github.com/ItayLHdev)
