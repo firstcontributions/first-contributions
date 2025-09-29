@@ -1071,3 +1071,4 @@
 - [chandev123](https://github.com/chandev123)
 - [Hannah V](https://github.com/hannahv71)
 - [dant1k](https://github.com/dant1k) – crypto/telegram/dev
+- [Ahmad Siddique](https://github.com/ahmadsiddique-dev) - [Portfolio](https://ahmadsiddique.vercel.app/)
