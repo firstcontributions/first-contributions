@@ -1061,3 +1061,4 @@
 - [Sevenquarters](https://github.com/Sevenquarters)
 - [Viticooo](https://github.com/Viticooo)
 - [chandev123](https://github.com/chandev123)
+- [dant1k](https://github.com/dant1k) – crypto/telegram/dev
