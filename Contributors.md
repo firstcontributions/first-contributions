@@ -1058,4 +1058,5 @@
 - [Ariyan Bhakat](https://github.com/arywk40-hue)
 - [Sevenquarters](https://github.com/Sevenquarters)
 - [Viticooo](https://github.com/Viticooo)
+- [Amanda Sternberg](https://github.com/AmandaSternberg-creator)
 - [chandev123](https://github.com/chandev123)
