@@ -33,6 +33,7 @@
 - [Madan A](https://github.com/maddy-aleti)
 - [Magonborn](https://github.com/MagonBorn)
 - [Maruthi S](https://github.com/JSMaruthi)
+- [SoongGuanLeong](https://github.com/SoongGuanLeong)
 - [Masalt0](https://github.com/Masalto5835)
 - [Matt Bellardi](https://github.com/met97)
 - [Maxi Rebolo](https://github.com/MaxiR23)
