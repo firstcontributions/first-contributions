@@ -7,6 +7,7 @@
 - [Gopal Iyer](https://github.com/geekiyer)
 - [Harry-GNS](https://github.com/Harry-GNS)
 - [Helen Tsui](https://github.com/helentht)
+- [Bruno Costa](https://github.com/brunocosta-devlab)
 - [Sid-5137](https://github.com/Sid-5137)
 - [Hoin Shin](https://github.com/signalman)
 - [ITSMijaiL](https://github.com/ITSMijaiL)
