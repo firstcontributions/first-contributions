@@ -1045,4 +1045,5 @@
 - [tomasbennett](https://github.com/tomasbennett)
 - [aidenliu](https://github.com/aiden-liu)
 - [Ariyan Bhakat](https://github.com/arywk40-hue)
+- [Raine Z](https://github.com/You-know-who666)
 - [Sevenquarters](https://github.com/Sevenquarters)
