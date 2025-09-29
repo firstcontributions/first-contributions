@@ -1075,3 +1075,4 @@
 - [Hannah V](https://github.com/hannahv71)
 - [dant1k](https://github.com/dant1k) – crypto/telegram/dev
 - [Ahmad Siddique](https://github.com/ahmadsiddique-dev) - [Portfolio](https://ahmadsiddique.vercel.app/)
+- [Júlia Cansado](https://github.com/julcansado)
