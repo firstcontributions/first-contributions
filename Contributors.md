@@ -1,4 +1,5 @@
 # Contributors
+
 - [Fady Zaky](https://github.com/0ddAuto00)
 - [Fangphire](https://github.com/fangphire)
 - [Furanimus](https://github.com/Furanimus)
@@ -12,6 +13,7 @@
 - [JBetz-Dev](https://github.com/JBetz-Dev)
 - [James-826](https://github.com/James-826)
 - [Janardhan Polle](https://github.com/Jce)
+- [Raghav Chanana] (https://github.com/sidrag3045)
 - [Jason Wiggs](https://github.com/wiggs30)
 - [Jenna Hall](https://github.com/swejenna)
 - [Jerry](https://github.com/SniperRaccoon)
@@ -639,7 +641,7 @@
 - [Nicholas C.](https://github.com/ncolvin-dev)
 - [Okatakyieba Boadu](https://github.com/oke06)
 - [Paramjit Singh](https://github.com/param20h)
-- [Pavan  Mhaisne](https://github.com/piyushm4)
+- [Pavan Mhaisne](https://github.com/piyushm4)
 - [Pavani](https://github.com/PavaniMuppalla29)
 - [Peter Hilbert](https://github.com/pehilbert)
 - [PraveenX812](https://github.com/PraveenX812)
