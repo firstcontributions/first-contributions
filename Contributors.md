@@ -118,6 +118,7 @@
 - [ninet33n](https://github.com/meetVaidya)
 - [nisarg404](https://github.com/nisarg404)
 - [Yaser-Sellami](https://github.com/Yaser-Sellami)
+- [Muntazir-Sayed](https://github.com/Muntazir-sd)
 - [lelemita](https://github.com/lelemita)
 - [omartrese](https://github.com/omartrese)
 - [p-a-brown](https://github.com/p-a-brown)
