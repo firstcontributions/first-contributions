@@ -1,4 +1,5 @@
 # Contributors
+- [Kazzpars](https://github.com/rid-acrh238)
 - [Joshua Norris](https://github.com/Noshie23)
 - [Yash Shirgaonkar](https://github.com/Yashs02-code)
 - [Malvin-sehmaluva-Machingura](https://github.com/sehmaluva)
