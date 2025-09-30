@@ -156,6 +156,7 @@
 - [Arnav Joshi](https://github.com/Arnav020)
 - [Aryan Baid](https://github.com/aryanbaid)
 - [Basit Channa](https://github.com/basitbc)
+- [Shreya Pandey](https://github.com/shreyapandey-23)
 - [Bonga M](https://github.com/BongaManzini)
 - [Bryan Johns](https://github.com/johbry17)
 - [Bryan Trujillo](https://github.com/btruj)
