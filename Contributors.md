@@ -1087,6 +1087,7 @@
 - [shubham goyal](https://github.com/shubgoyal23)
 - [sithananthan](https://github.com/sithananthan)
 - [square-story](https://github.com/square-story)
+- [Jack](https://github.com/jackliDev)
 - [tomasbennett](https://github.com/tomasbennett)
 - [Rahmatulloh Ibrohim](https://github.com/raxmatulloxswe/)
 - [Kostiantyn Semenenko](https://github.com/NureSemenenkoKostiantyn)
