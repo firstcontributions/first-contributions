@@ -90,7 +90,7 @@
 
 This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 
-_If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
+_If you're not comfortable with the command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
@@ -160,7 +160,7 @@ git checkout -b your-new-branch-name
 
 ## Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+Now open the `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
@@ -226,7 +226,7 @@ Soon I'll be merging all your changes into the main branch of this project. You 
 
 ## Where to go from here?
 
-Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll often encounter as a contributor!
+Congratulations! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll often encounter as a contributor!
 
 Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io/#social-share).
 
