@@ -28,6 +28,7 @@
 - [Jide Falaki](https://github.com/jidefal)
 - [Jingyi Lu](https://github.com/lulu61000)
 - [JoachimC](https://github.com/Joachim280)
+- [Sahil Sankhyan](https://github.com/Sahil12341)
 - [Joncineus](https://github.com/joncineus)
 - [Julius Jones](https://github.com/jlwj22)
 - [Priyanka Sharma](https://github.com/priyanka2sharma)
