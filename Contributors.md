@@ -78,6 +78,7 @@
 - [Raphael-W](https://github.com/Raphael-W)
 - [Ezekiel Gabino](https://github.com/EzekielGabino)
 - [Rion Sato](https://github.com/Rion-Sato)
+- [Vinit](https://github.com/Stardust2109)
 - [Ryan Gapp](https://github.com/ryan-gapp)
 - [S.Yukiko](https://github.com/yuki-git-9)
 - [STA](https://github.com/sithuaung246810)
