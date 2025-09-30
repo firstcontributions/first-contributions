@@ -16,6 +16,7 @@
 - [Rick C](https://github.com/rccoder22)
 - [Hoin Shin](https://github.com/signalman)
 - [Abhay Raj Agnihotri](https://github.com/abhayrajagnihotri)
+- [marcelo_iporre](https://github.com/CHELOIPO)
 - [ITSMijaiL](https://github.com/ITSMijaiL)
 - [Itay Levi](https://github.com/ItayLHdev)
 - [JBetz-Dev](https://github.com/JBetz-Dev)
