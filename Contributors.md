@@ -981,6 +981,7 @@
 - [Jatin Mehta](https://github.com/JatinMehta007)
 - [Jonah Raiford](https://github.com/JonahXiaFei)
 - [Kanishk Shukla](https://github.com/Kanishk819)
+- [Fabian Bran](https://github.com/Fabian-Bran)
 - [Kashish Choudhary](https://github.com/kashu06)
 - [Keerthika](https://github.com/keerthikadevi-s)
 - [Kislay Kumar](https://github.com/kislayykumar)
