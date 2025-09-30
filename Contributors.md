@@ -1,4 +1,5 @@
 # Contributors
+
 - [Joshua Norris](https://github.com/Noshie23)
 - [Fady Zaky](https://github.com/0ddAuto00)
 - [Aryan Vishwakarma](https://github.com/vishwakarma-31)
@@ -653,7 +654,7 @@
 - [Nicholas C.](https://github.com/ncolvin-dev)
 - [Okatakyieba Boadu](https://github.com/oke06)
 - [Paramjit Singh](https://github.com/param20h)
-- [Pavan  Mhaisne](https://github.com/piyushm4)
+- [Pavan Mhaisne](https://github.com/piyushm4)
 - [Pavani](https://github.com/PavaniMuppalla29)
 - [Peter Hilbert](https://github.com/pehilbert)
 - [PraveenX812](https://github.com/PraveenX812)
@@ -797,6 +798,7 @@
 - [Harshita Kode](https://github.com/2210030019)
 - [Huda Bikhoir](https://github.com/hudabikhoir)
 - [Ifeoma-Chidera](https://github.com/ifaycodes)
+- [Elvis Gutierrez](https://github.com/ElvisGutierrez)
 - [JVent-WSU](https://github.com/JVentulett-WSU)
 - [Jahnavi-avi](https://github.com/jahnavi-9741)
 - [Jaimie Chong](https://github.com/jaimiechong)
