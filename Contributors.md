@@ -62,7 +62,6 @@
 * [Paul Serise](https://github.com/pserise)
 * [Paulina Thrasher](https://github.com/paulinathrasher)
 * [Pramod560](https://github.com/Pramod560)
-* teja manasa
 * [Praneeth](https://github.com/praneethem)
 * [Pranesh](https://github.com/Pranesh2288)
 * [Purolinho](https://github.com/Purolinho)
