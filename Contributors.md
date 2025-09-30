@@ -1,4 +1,5 @@
 # Contributors
+
 - [Kazzpars](https://github.com/rid-acrh238)
 - [Joshua Norris](https://github.com/Noshie23)
 - [santhosh teja santhosh teja ](https://github.com/Yashs02-code)
@@ -16,6 +17,7 @@
 - [Harry-GNS](https://github.com/Harry-GNS)
 - [Helen Tsui](https://github.com/helentht)
 - [Bruno Costa](https://github.com/brunocosta-devlab)
+- [Max Kutepov](https://github.com/MaximKutepov)
 - [Sid-5137](https://github.com/Sid-5137)
 - [Rick C](https://github.com/rccoder22)
 - [Hoin Shin](https://github.com/signalman)
