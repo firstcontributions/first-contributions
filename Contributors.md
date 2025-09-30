@@ -27,6 +27,7 @@
 - [Jason Wiggs](https://github.com/wiggs30)
 - [Jenna Hall](https://github.com/swejenna)
 - [Jerry](https://github.com/SniperRaccoon)
+- [Rohit Madhu Ghadge](https://github.com/Rod7678)
 - [Jeyanth-S](https://github.com/Jeyanth-S)
 - [Jide Falaki](https://github.com/jidefal)
 - [Jingyi Lu](https://github.com/lulu61000)
