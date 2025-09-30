@@ -1,5 +1,6 @@
 # Contributors
 - [Kazzpars](https://github.com/rid-acrh238)
+- [Emmanuel Zelaya-Armenta](https://github.com/Emmanuel-ZA)
 - [Joshua Norris](https://github.com/Noshie23)
 - [santhosh teja santhosh teja ](https://github.com/Yashs02-code)
 - [Yash Shirgaonkar](https://github.com/Yashs02-code)
