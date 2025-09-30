@@ -1,4 +1,5 @@
 # Contributors
+
 - [Joshua Norris](https://github.com/Noshie23)
 - [Yash Shirgaonkar](https://github.com/Yashs02-code)
 - [Malvin-sehmaluva-Machingura](https://github.com/sehmaluva)
@@ -339,6 +340,7 @@
 - [Pranav K P](https://github.com/pranavkp71)
 - [Pranay Gurav](https://github.com/cwpranay)
 - [RAYYAN KHAN](https://github.com/rayyan4t4)
+- [Mariydi](https://github.com/mariydi)
 - [Rahul Kumar](https://github.com/imrahul05)
 - [RahulRawat](https://github.com/RHL-RWT-01)
 - [Rakshak R B](https://github.com/rakshakrb)
@@ -668,7 +670,7 @@
 - [Nicholas C.](https://github.com/ncolvin-dev)
 - [Okatakyieba Boadu](https://github.com/oke06)
 - [Paramjit Singh](https://github.com/param20h)
-- [Pavan  Mhaisne](https://github.com/piyushm4)
+- [Pavan Mhaisne](https://github.com/piyushm4)
 - [Pavani](https://github.com/PavaniMuppalla29)
 - [Peter Hilbert](https://github.com/pehilbert)
 - [PraveenX812](https://github.com/PraveenX812)
