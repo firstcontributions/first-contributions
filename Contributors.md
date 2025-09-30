@@ -90,6 +90,7 @@
 - [Sarmela Raja Sekaran](https://github.com/sarmelaraj)
 - [Xinsheng Ooi](https://github.com/xs1128)
 - [Yonas Girma](https://github.com/J0na555)
+- [Archit Anirudhan](https://github.com/4rch1tT)
 - [Zoe Reed](https://github.com/zoereedviz)
 - [abishekh](https://github.com/Abishekhob)
 - [atlas-ian](https://github.com/atlas-ian)
