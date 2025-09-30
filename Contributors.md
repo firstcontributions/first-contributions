@@ -656,6 +656,7 @@
 - [MFigueroa](https://github.com/MiguelFOlivar)
 - [Mandrukamal](https://github.com/Mandrukamal)
 - [Manisha1679](https://github.com/Manisha1679)
+- [Seung Min Park](https://github.com/seungminbluebox)
 - [Manya Goel](https://github.com/MANYAGOEL123)
 - [Martí Cabañas](https://github.com/cabah24)
 - [Mate Kopaliani](https://github.com/Ka10ken1)
