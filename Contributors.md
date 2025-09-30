@@ -94,6 +94,7 @@
 - [abishekh](https://github.com/Abishekhob)
 - [atlas-ian](https://github.com/atlas-ian)
 - [terror-akshat](https://github.com/terror-akshat)
+- [fusionAMAN](https://github.com/fusionAMAN)
 - [azhank391](https://github.com.azhank391)
 - [b1tranger](https://github.com/b1tranger)
 - [casa-code](https://github.com/casa-code)
