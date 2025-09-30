@@ -3,6 +3,7 @@
 - [Fady Zaky](https://github.com/0ddAuto00)
 - [Aryan Vishwakarma](https://github.com/vishwakarma-31)
 - [Fangphire](https://github.com/fangphire)
+- [Zohaib](https://github.com/Iamzohaibali)
 - [Furanimus](https://github.com/Furanimus)
 - [Ginny](https://github.com/ginnysingh789)
 - [Gopal Iyer](https://github.com/geekiyer)
