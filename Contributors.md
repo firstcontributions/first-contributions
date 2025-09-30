@@ -347,6 +347,7 @@
 - [Pranav K P](https://github.com/pranavkp71)
 - [Pranay Gurav](https://github.com/cwpranay)
 - [RAYYAN KHAN](https://github.com/rayyan4t4)
+- [Mariydi](https://github.com/mariydi)
 - [Rahul Kumar](https://github.com/imrahul05)
 - [RahulRawat](https://github.com/RHL-RWT-01)
 - [Rakshak R B](https://github.com/rakshakrb)
@@ -1107,7 +1108,8 @@
 - [chandev123](https://github.com/chandev123)
 - [Hannah V](https://github.com/hannahv71)
 - [dant1k](https://github.com/dant1k) – crypto/telegram/dev
-- [Ahmad Siddique](https://github.com/ahmadsiddique-dev) - [Portfolio](https://ahmadsiddique.vercel.app/)
+- [Ahmad Siddique](https://github.com/ahmadsiddique-dev)
+- [Portfolio](https://ahmadsiddique.vercel.app/)
 - [Júlia Cansado](https://github.com/julcansado)
 - [Evan Xu](https://github.com/ThisEVAN1)
 - [sowmiya](https://github.com/sowmiya880)
