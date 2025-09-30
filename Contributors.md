@@ -10,6 +10,7 @@
 - [Ginny](https://github.com/ginnysingh789)
 - [Gopal Iyer](https://github.com/geekiyer)
 - [Hamza Shaikh](https://github.com/Raynzler)
+- [santhosh teja](https://github.com/santhosh-7777)
 - [Harry-GNS](https://github.com/Harry-GNS)
 - [Helen Tsui](https://github.com/helentht)
 - [Bruno Costa](https://github.com/brunocosta-devlab)
