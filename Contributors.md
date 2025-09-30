@@ -381,6 +381,7 @@
 - [Zach Warmoth](https://github.com/ZWarmoth)
 - [Zairan Mir](https://github.com/Mir-Zairan)
 - [Zemenu Mekuria](https://github.com/Teklez)
+- [Purabjeet Singh Bagga](https://github.com/Purabjeet07)
 - [Zuzanna Pilat](https://github.com/Pilat11)
 - [actiononme](https://github.com/actiononme)
 - [akashisang](https://github.com/Akashisang)
