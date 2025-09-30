@@ -117,6 +117,7 @@
 - [dfdavila2](https://github.com/dfdavila2)
 - [ejoopasco](https://github.com/ejoopasco)
 - [elijah](https://github.com/elijahladdie)
+- [Gotchumon](https:github.com/Gotchumon)
 - [enguy-hub](https://github.com/enguy-hub)
 - [freshmess](https://github.com/freshmess)
 - [hectoru10](https://github.com/Hectoru10)
