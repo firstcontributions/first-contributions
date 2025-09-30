@@ -762,6 +762,7 @@
 - [Aryo Thursandi](https://github.com/thursandi)
 - [Ashish Jadhav](https://github.com/Ashish1022)
 - [Audrey W ](https://github.com/awhitneymiller)
+- [Jack Brewer](https://github.com/jackojacko05)
 - [Ben Tootill](https://github.com/TriedDevotee)
 - [Benjamin Seddon](https://github.com/Seddo151)
 - [Bhavishay Bharti](https://github.com/bhavi-b)
