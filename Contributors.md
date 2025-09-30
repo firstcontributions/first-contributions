@@ -9,6 +9,7 @@
 - [Furanimus](https://github.com/Furanimus)
 - [Ginny](https://github.com/ginnysingh789)
 - [Gopal Iyer](https://github.com/geekiyer)
+- [Hamza Shaikh](https://github.com/Raynzler)
 - [Harry-GNS](https://github.com/Harry-GNS)
 - [Helen Tsui](https://github.com/helentht)
 - [Bruno Costa](https://github.com/brunocosta-devlab)
