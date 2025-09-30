@@ -1,4 +1,5 @@
 # Contributors
+- [Kazzpars](https://github.com/rid-acrh238)
 - [Fady Zaky](https://github.com/0ddAuto00)
 - [Fangphire](https://github.com/fangphire)
 - [Furanimus](https://github.com/Furanimus)
