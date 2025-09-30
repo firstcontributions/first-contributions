@@ -412,7 +412,6 @@
 - [Abdelali](https://github.com/abdosanad2001)
 - [Abhay Mishra](https://github.com/abhay7865)
 - [Aditya Atreya](https://github.com/AdiAce4u)
-- [Aditya Atr](https://github.com/AdiAce4u)
 - [Advik Hegde](https://github.com/AdvikHegde)
 - [Afham Irfan](https://github.com/auth-Afham)
 - [AkaruiNeko](https://github.com/BrightCat14)
