@@ -10,6 +10,7 @@
 - [Helen Tsui](https://github.com/helentht)
 - [Bruno Costa](https://github.com/brunocosta-devlab)
 - [Sid-5137](https://github.com/Sid-5137)
+- [Rick C](https://github.com/rccoder22)
 - [Hoin Shin](https://github.com/signalman)
 - [ITSMijaiL](https://github.com/ITSMijaiL)
 - [Itay Levi](https://github.com/ItayLHdev)
