@@ -1,5 +1,6 @@
 # Contributors
 - [Joshua Norris](https://github.com/Noshie23)
+- [Yash Shirgaonkar](https://github.com/Yashs02-code)
 - [Malvin-sehmaluva-Machingura](https://github.com/sehmaluva)
 - [Fady Zaky](https://github.com/0ddAuto00)
 - [Aryan Vishwakarma](https://github.com/vishwakarma-31)
