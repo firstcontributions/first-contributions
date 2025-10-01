@@ -1,4 +1,5 @@
 # Contributors
+- [Nguyễn Hoài Phong](https://github.com/HoaiPhong-1509)
 - [Trần Huỳnh Đăng Khôi](https://github.com/KhoiTarn)
 - [Kazzpars](https://github.com/rid-acrh238)
 - [Emmanuel Zelaya-Armenta](https://github.com/Emmanuel-ZA)
