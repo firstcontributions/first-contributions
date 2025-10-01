@@ -67,6 +67,7 @@
 - [Matt Bellardi](https://github.com/met97)
 - [Maxi Rebolo](https://github.com/MaxiR23)
 - [Meg Hiatt](https://github.com/hiatt8649)
+- [Renith](https://github.com/Spaceboy-ren)
 - [Michael](https://github.com/LucidWinter)
 - [Musbi8788](https://github.com/Musbi8788)
 - [Navaneeth D](https://github.com/ar3s-nd)
