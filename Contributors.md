@@ -28,6 +28,7 @@
 - [JBetz-Dev](https://github.com/JBetz-Dev)
 - [James-826](https://github.com/James-826)
 - [Janardhan Polle](https://github.com/Jce)
+- [Rafael Guzman](https://github.com/Rafael-er-byte)
 - [Raghav Chanana] (https://github.com/sidrag3045)
 - [Jason Wiggs](https://github.com/wiggs30)
 - [Jenna Hall](https://github.com/swejenna)
