@@ -61,6 +61,7 @@
 - [Maruthi S](https://github.com/JSMaruthi)
 - [SoongGuanLeong](https://github.com/SoongGuanLeong)
 - [Masalt0](https://github.com/Masalto5835)
+- [RahulKrishna145](https://github.com/RahulKrishna145)
 - [Matt Bellardi](https://github.com/met97)
 - [Maxi Rebolo](https://github.com/MaxiR23)
 - [Meg Hiatt](https://github.com/hiatt8649)
