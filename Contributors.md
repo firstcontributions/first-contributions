@@ -87,6 +87,7 @@
 - [Yukesh D](https://github.com/Yukesh-30)
 - [Naveen C](https://github.com/naveench98)
 - [Nehsik](https://github.com/Kishen271828)
+- [ARES](https://github.com/phoenixcodeforces-blip)
 - [Nithwin V M](https://github.com/Nithwin)
 - [Numan Khan](https://github.com/Nuu-maan)
 - [Paul Serise](https://github.com/pserise)
