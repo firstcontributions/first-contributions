@@ -1134,4 +1134,4 @@
 - [DJG300](https://github.com/DJG300)
  Tran Thanh Tai
 - [Cuong224136](https://github.com/hchicuong3)
-  -[Nguyen Thanh Vu](https://github.com/vu221604-creator)
+- [Nguyen Thanh Vu](https://github.com/vu221604-creator)
