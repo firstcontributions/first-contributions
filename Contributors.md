@@ -1163,6 +1163,7 @@ Emily Navarro
 - [DJG300](https://github.com/DJG300)
 - [ Areesha Shehzad](https://github.com/Areesha48)
 - Tran Thanh Tai
+- [dex]
 - [Krishanu ](https://github.com/krishanu009)
 - [MikuOnTheEthernet](https://github.com/Imgei69)
 - [Cuong224136](https://github.com/hchicuong3)
