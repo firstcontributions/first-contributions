@@ -101,7 +101,7 @@ Menjawab pertanyaan, terutama dari seseorang yang baru saja memulai, sangat pent
 Waktu yang Anda luangkan untuk membantu seorang pemula, bahkan jika mereka mengajukan pertanyaan di mana Anda dapat dengan mudah menjawab “RTFM” dengan cepat, akan terbayar di kemudian hari dengan mendapatkan anggota aktif lainnya di dalam komunitas.
 Semua orang memulai dari suatu tempat, dan proyek membutuhkan arus masuk orang yang konstan jika ingin tetap hidup.
 
-13. **Tulislah sebuah postingan blog:
+13. **Tulislah sebuah postingan blog**:
 Jika Anda memiliki sebuah blog, tulislah tentang pengalaman Anda dengan proyek yang Anda gunakan.
 Ceritakan tentang masalah yang Anda hadapi dengan menggunakan perangkat lunak dan apa yang Anda lakukan untuk menyelesaikannya.
 Anda akan membantu dengan dua cara, yaitu dengan membantu menjaga proyek tetap berada di benak orang lain di sekitar Anda,
