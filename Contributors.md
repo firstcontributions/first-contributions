@@ -49,6 +49,7 @@
 - [Jingyi Lu](https://github.com/lulu61000)
 - [JoachimC](https://github.com/Joachim280)
 - [Sahil Sankhyan](https://github.com/Sahil12341)
+- [Kehinde sodiq] (https://github.com/Dev-Adejare)
 - [Joncineus](https://github.com/joncineus)
 - [Julius Jones](https://github.com/jlwj22)
 - [Priyanka Sharma](https://github.com/priyanka2sharma)
