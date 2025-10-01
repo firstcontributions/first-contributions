@@ -1,4 +1,6 @@
 # Contributors
+- [Huỳnh Quốc Đạt](https://github.com/HuynhQuocDat-04)
+- [Chien Minh](https://github.com/chien226674-afk)
 - [Trần Huỳnh Đăng Khôi](https://github.com/KhoiTarn)
 - [Kazzpars](https://github.com/rid-acrh238)
 - [Emmanuel Zelaya-Armenta](https://github.com/Emmanuel-ZA)
@@ -29,6 +31,7 @@
 - [JBetz-Dev](https://github.com/JBetz-Dev)
 - [James-826](https://github.com/James-826)
 - [Janardhan Polle](https://github.com/Jce)
+- [Rafael Guzman](https://github.com/Rafael-er-byte)
 - [Raghav Chanana] (https://github.com/sidrag3045)
 - [Jason Wiggs](https://github.com/wiggs30)
 - [Jenna Hall](https://github.com/swejenna)
@@ -1131,3 +1134,4 @@
 - [DJG300](https://github.com/DJG300)
  Tran Thanh Tai
 - [Cuong224136](https://github.com/hchicuong3)
+  -[Nguyen Thanh Vu](https://github.com/vu221604-creator)
