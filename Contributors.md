@@ -620,6 +620,7 @@
 - [Akshat Betala](https://github.com/Akshat089)
 - [Alejandr0x](https://github.com/Alejandr0xxx)
 - [Alejandro Flores](https://github.com/afr-dt)
+- [Alex Lee](https://github.com/alexlee94)
 - [Alper Halil](https://github.com/yethranayeh)
 - [Alwin Sajan](https://github.com/Alwin-Sajan)
 - [Amar Yasser](https://github.com/AmarYasser1)
