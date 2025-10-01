@@ -1051,6 +1051,7 @@ Emily Navarro
 - [Param Shah](https://github.com/Kommandant2005)
 - [Parthav Nair](https://github.com/Parthav-Nair)
 - [Pavitharan V](https://github.com/Pavitharan02)
+- [Nitesh Vasave](https://github.com/ni2-vsv11)
 - [Rafael Severo](https://github.com/rafaeumesmo)
 - [Rahul Parihar](https://github.com/Parihar-Dev)
 - [Rajinisoumya](https://github.com/Rajinisoumya)
