@@ -109,7 +109,7 @@ Apsveicam! Tu tikko pabeidzi standarta  _fork -> clone -> edit -> PR_  darbplūs
 
 Pastāsti par savu devumu saviem draugiem un sekotājiem, izmantojot [mūsu vietni](https://firstcontributions.github.io/#social-share).
 
-Tu vari pievienoties arī mūsu slack komandai, ja tev nepieciešama palīdzība vai ir kādi jautājumi. [Pievienojies slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
+
 
 Tagad tu vari līdzdarboties arī citos projektos. Mēs esam sastādījuši sarakstu ar projektiem, kuros ir vienkāršas problēmas, ar kurām tu varētu sākt. Izpēti [projektu sarakstu mūsu vietnē](https://firstcontributions.github.io/#project-list).
 
