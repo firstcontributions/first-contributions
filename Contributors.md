@@ -4,6 +4,7 @@
 - [Chien Minh](https://github.com/chien226674-afk)
 - [Trần Huỳnh Đăng Khôi](https://github.com/KhoiTarn)
 - [Kazzpars](https://github.com/rid-acrh238)
+- [Aman Gupta](https://github.com/Aman071106)
 - [Ndeye Sermy Mergane](https://github.com/Ndeye1000)
 - [Emmanuel Zelaya-Armenta](https://github.com/Emmanuel-ZA)
 - [Joshua Norris](https://github.com/Noshie23)
