@@ -1175,4 +1175,5 @@ Emily Navarro
 - [Shivansh Pathak](https://github.com/shivanshpathak01)
 - [Nitheesh Muthu Krishnanc](https://github.com/nitheeshmk41)
 - [AntoTheSol](https://github.com/AntoTheSol)
+- [AntoTheSol](https://github.com/AntoTheSol)
 - [Javier Napoles](https://github.com/Jnapfx)
