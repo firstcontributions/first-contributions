@@ -1130,3 +1130,4 @@
 - [psrdotcom](https://github.com/psrdotcom)
 - [DJG300](https://github.com/DJG300)
  Tran Thanh Tai
+- [Trần Minh Nghĩa](https://github.com/nghia223412)
