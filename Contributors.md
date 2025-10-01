@@ -1,4 +1,5 @@
 # Contributors
+- [Chien Minh](https://github.com/chien226674-afk)
 - [Kazzpars](https://github.com/rid-acrh238)
 - [Emmanuel Zelaya-Armenta](https://github.com/Emmanuel-ZA)
 - [Joshua Norris](https://github.com/Noshie23)
