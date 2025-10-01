@@ -1128,5 +1128,4 @@
 - [Ubaid](https://github.com/ubaid2917)
 - [psrdotcom](https://github.com/psrdotcom)
 - [DJG300](https://github.com/DJG300)
-- [Tai30092004](https://github.com/Tai30092004
-)
+- [Tai30092004](https://github.com/Tai30092004)
