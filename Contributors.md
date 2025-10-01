@@ -40,6 +40,7 @@
 - [Rafael Guzman](https://github.com/Rafael-er-byte)
 - [Raghav Chanana] (https://github.com/sidrag3045)
 - [Jason Wiggs](https://github.com/wiggs30)
+- [Vaibhav Katyal](https://github.com/vaibhav-katyal)
 - [Jenna Hall](https://github.com/swejenna)
 - [Jerry](https://github.com/SniperRaccoon)
 - [Jesse Prevete](https://github.com/jjpdotexe)
