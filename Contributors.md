@@ -1,4 +1,5 @@
 # Contributors
+- [Huỳnh Quốc Đạt](https://github.com/HuynhQuocDat-04)
 - [Chien Minh](https://github.com/chien226674-afk)
 - [Trần Huỳnh Đăng Khôi](https://github.com/KhoiTarn)
 - [Kazzpars](https://github.com/rid-acrh238)
