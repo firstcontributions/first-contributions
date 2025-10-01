@@ -48,6 +48,7 @@ sardor Uchqunov
 - [Nikita Maurya](https://github.com/sun-andsky)
 - [Shreyas](https://github.com/skdoosh)
   [Tejas fulumbarkar]
+  [JeonHyeokGeon] (https://github.com/Jeon-hyeok-geon)
 - [Maroof Khan](https://github.com/khanmaroof)
 - [Boruotez](https://github.com/borutoez)
 - [Sharjeel Ahmed Siddiqui]
