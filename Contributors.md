@@ -3137,7 +3137,9 @@ DanyLeeCS
 - [Riley Temme](https://github.com/RileyTemme) Hello, I am a Web Development Student!
 [Swap Ranadive](https://github.com/grilled-swampert) etching my starting point here
 [Cole Starry](https://github.com/Cole-Starry) Catching up on College work.
-- [Mahtab-Hossain](https://github.com/Mahtab-Hossain) I am coder from a small country named Bangladesh
+- [Mahtab-Hossain](https://github.com/Mahtab-Hossain) I am coder 
+from a small country named Bangladesh
+- [Anshika](https://github.com/firstcontributions/first-contributions) "First Contribution!"
 - [Sushean_Sharma] (https://github.com/sushean)
 - [Elaina](https://github.com/Elor02) — Interested in gaming and the color blue
 - [Kriti D](https://github.com/Kderasadi)
