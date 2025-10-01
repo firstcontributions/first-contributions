@@ -1155,3 +1155,4 @@ Emily Navarro
 - [Buhlooey (hello!!!)](https://github.com/Buhlooey)
 - [Mystique85 (Hello! 👋)](https://github.com/Mystique85)
 - [Rishabh](https://github.com/Rishabhsaini21)
+- [Shivansh Pathak](https://github.com/shivanshpathak01)
