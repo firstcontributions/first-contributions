@@ -1,1 +1,1 @@
-'print("Hello World from Aashu!")' 
+print("Hello World from Aashu!") 
