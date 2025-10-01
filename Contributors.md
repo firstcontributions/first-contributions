@@ -1,5 +1,6 @@
 # Contributors
 - [Chien Minh](https://github.com/chien226674-afk)
+- [Trần Huỳnh Đăng Khôi](https://github.com/KhoiTarn)
 - [Kazzpars](https://github.com/rid-acrh238)
 - [Emmanuel Zelaya-Armenta](https://github.com/Emmanuel-ZA)
 - [Joshua Norris](https://github.com/Noshie23)
@@ -1129,3 +1130,4 @@
 - [Ubaid](https://github.com/ubaid2917)
 - [psrdotcom](https://github.com/psrdotcom)
 - [DJG300](https://github.com/DJG300)
+ Tran Thanh Tai
