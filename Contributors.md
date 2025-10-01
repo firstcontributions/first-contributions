@@ -13,6 +13,7 @@
 - [Fangphire](https://github.com/fangphire)
 - [Zohaib](https://github.com/Iamzohaibali)
 - [Furanimus](https://github.com/Furanimus)
+- [Saugat Giri](https://github.com/saugat1070)
 - [Anurag Tiwari](https://github.com/boss2412)
 - [Ginny](https://github.com/ginnysingh789)
 - [Gopal Iyer](https://github.com/geekiyer)
