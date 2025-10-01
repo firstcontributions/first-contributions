@@ -1,4 +1,5 @@
 # Contributors
+- [Huỳnh Chí Cường](https://github.com/hchicuong3)
 - [Huỳnh Quốc Đạt](https://github.com/HuynhQuocDat-04)
 - [Chien Minh](https://github.com/chien226674-afk)
 - [Trần Huỳnh Đăng Khôi](https://github.com/KhoiTarn)
@@ -1133,5 +1134,4 @@
 - [psrdotcom](https://github.com/psrdotcom)
 - [DJG300](https://github.com/DJG300)
  Tran Thanh Tai
-- [Cuong224136](https://github.com/hchicuong3)
   -[Nguyen Thanh Vu](https://github.com/vu221604-creator)
