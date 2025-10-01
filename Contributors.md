@@ -1,4 +1,5 @@
 # Contributors
+- [Quang Linh](https://github.com/linh224642-ctrl)
 - [Kazzpars](https://github.com/rid-acrh238)
 - [Emmanuel Zelaya-Armenta](https://github.com/Emmanuel-ZA)
 - [Joshua Norris](https://github.com/Noshie23)
