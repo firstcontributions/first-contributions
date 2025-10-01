@@ -17,6 +17,7 @@
 - [Abhiram kondaguduru](https://github.com/k-abhiram21)
 - [Fangphire](https://github.com/fangphire)
 - [Zohaib](https://github.com/Iamzohaibali)
+- [Frank Anthony](https://github.com/FrankLayza)
 - [Furanimus](https://github.com/Furanimus)
 - [Saugat Giri](https://github.com/saugat1070)
 - [Anurag Tiwari](https://github.com/boss2412)
