@@ -1164,3 +1164,4 @@ Emily Navarro
 - [Rishabh](https://github.com/Rishabhsaini21)
 - [Shivansh Pathak](https://github.com/shivanshpathak01)
 - [Nitheesh Muthu Krishnanc](https://github.com/nitheeshmk41)
+- [Javier Napoles](https://github.com/Jnapfx)
