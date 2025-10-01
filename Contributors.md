@@ -529,6 +529,7 @@
 - [Manav_IMT535](https://github.com/Manav9547)
 - [Marc Larson](https://github.com/m-larson94)
 - [Maroof Khan](https://github.com/khanmaroof)
+- [João Costa] (https://github.com/joaoppscosta)
 - [Mason Breece](https://github.com/MBreece89)
 - [Matteo Ricci](https://github.com/PyZenMatt)
 - [Mattia Cocco](https://github.com/Matti02co)
