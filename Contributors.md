@@ -1,4 +1,5 @@
 # Contributors
+
 - [Huỳnh Quốc Đạt](https://github.com/HuynhQuocDat-04)
 - [Chien Minh](https://github.com/chien226674-afk)
 - [Trần Huỳnh Đăng Khôi](https://github.com/KhoiTarn)
@@ -1135,11 +1136,11 @@
 - [Ubaid](https://github.com/ubaid2917)
 - [psrdotcom](https://github.com/psrdotcom)
 - [DJG300](https://github.com/DJG300)
- Tran Thanh Tai
-- [Cuong224136](https://github.com/hchicuong3)
-  -[Nguyen Thanh Vu](https://github.com/vu221604-creator)
+  Tran Thanh Tai
+- [Cuong224136](https://github.com/hchicuong3) -[Nguyen Thanh Vu](https://github.com/vu221604-creator)
 - [Hoang Du](https://github.com/du220839-ux)
 - [Pranavg1203](https://github.com/PranavG1203)
 - [TANAY-BARGIR](https://github.com/TANAY-BARGIR)
 - [harshkaushik31](https://github.com/harshkaushik31)
 - [Gijun Moon](https://github.com/gijunmoon)
+- [Sumeet D Choudhary](https://github.com/sumeet156)
