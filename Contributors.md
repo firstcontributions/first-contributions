@@ -837,6 +837,7 @@
 - [Greem Fox](https://github.com/vulpes-viridis)
 - [Hamza Khan](https://github.com/giacomo-folli)
 - [Hariharasudhan M](https://github.com/Harimhs)
+Emily Navarro
 - [Harsh Gupta](https://github.com/Reverent2005)
 - [Harsh Rakholiya](https://github.com/arsh3396)
 - [Harshita Kode](https://github.com/2210030019)
