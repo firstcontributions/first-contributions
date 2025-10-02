@@ -280,6 +280,7 @@
 - [Ramin Adineh](https://github.com/ramiadi)
 - [Ravi](https://github.com/raviprakash7367)
 - [Rehan Halai](https://github.com/01-Rehan)
+- [bogge038](https://github.com/bogge038)
 - [Rohan](https://github.com/Christopher-91)
 
 - [RunarokHrafn](https://github.com/Runarok)
