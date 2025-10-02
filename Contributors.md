@@ -157,7 +157,7 @@
 - [headboot](https://github.com/headboot)
 - [freshmess](https://github.com/freshmess)
 - [hectoru10](https://github.com/Hectoru10)
-
+- [specksbacon](https://github.com/SpecksBacon)
 - [hridyam04](https://github.com/hridyam04)
 - [iason-019](https://github.com/iason-019)
 - [isaac sun](https://github.com/isaac-sun)
