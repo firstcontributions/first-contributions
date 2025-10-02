@@ -1,5 +1,6 @@
 # Contributors
 - [Kyra (kyrazzx)](https://github.com/kyrazzx)
+- [Wilmer Gulcochia](https://github.com/wigsdev)
 - [Amadou Kebe](https://github.com/AmadouLKebe)
 - [baldlow](https://github.com/baldlow)
 - [Huỳnh Quốc Đạt](https://github.com/HuynhQuocDat-04)
