@@ -498,6 +498,7 @@
 - [Ashen Umeda](https://github.com/ashenumeda)
 - [Babrah Ekele](https://github.com/bclaire92)
 - [Basma BT](https://github.com/Boutaib-Basma)
+- [Charlie Dobney](https://github.com/jyrdr)
 - [Caleb Rollf](https://github.com/lemonsloth)
 - [Calvin Shio](https://github.com/shiocalvin)
 - [Capri Caviedes](https://github.com/caprivm)
