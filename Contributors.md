@@ -23,6 +23,7 @@
 - [Furanimus](https://github.com/Furanimus)
 - [Saugat Giri](https://github.com/saugat1070)
 - [Anurag Tiwari](https://github.com/boss2412)
+- [Shreya Sethu](https://github.com/shreyasethu)
 - [Ginny](https://github.com/ginnysingh789)
 - [Sahitya](https://github.com/Paila-Sahitya)
 - [Gopal Iyer](https://github.com/geekiyer)
