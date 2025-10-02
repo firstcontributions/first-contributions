@@ -1,6 +1,7 @@
 # Contributors
 - [Kyra (kyrazzx)](https://github.com/kyrazzx)
 - [Amadou Kebe](https://github.com/AmadouLKebe)
+- [baldlow](https://github.com/baldlow)
 - [Huỳnh Quốc Đạt](https://github.com/HuynhQuocDat-04)
 - [Đặng Hoàng Phúc](https://github.com/phuc220793-cpu)
 - [Chien Minh](https://github.com/chien226674-afk)
