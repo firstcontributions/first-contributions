@@ -6,6 +6,7 @@
 - [Huỳnh Quốc Đạt](https://github.com/HuynhQuocDat-04)
 - [Đặng Hoàng Phúc](https://github.com/phuc220793-cpu)
 - [Chien Minh](https://github.com/chien226674-afk)
+- [Hrishikesh Rondla](https://github.com/Hrishikesh-Rondla)
 - [Trần Huỳnh Đăng Khôi](https://github.com/KhoiTarn)
 - [Kazzpars](https://github.com/rid-acrh238)
 - [Aman Gupta](https://github.com/Aman071106)
