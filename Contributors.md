@@ -51,6 +51,7 @@
 - [Vaibhav Katyal](https://github.com/vaibhav-katyal)
   [Elyas Shamal](https://github.com/ElyasShamal)
 - [Jenna Hall](https://github.com/swejenna)
+- [Rohit Mathur](https://github.com/Rohit0265)
 - [Jerry](https://github.com/SniperRaccoon)
 - [Jesse Prevete](https://github.com/jjpdotexe)
 - [Rohit Madhu Ghadge](https://github.com/Rod7678)
