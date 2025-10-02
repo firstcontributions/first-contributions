@@ -14,6 +14,7 @@
 - [Vaishnavi Parodkar](https://github.com/vaishnavi-parodkar)
 - [Joshua Norris](https://github.com/Noshie23)
 - [santhosh teja santhosh teja ](https://github.com/Yashs02-code)
+- [vismaya vishwas](https://github.com/Vis-2007)
 - [Yash Shirgaonkar](https://github.com/Yashs02-code)
 - [Malvin-sehmaluva-Machingura](https://github.com/sehmaluva)
 - [Fady Zaky](https://github.com/0ddAuto00)
