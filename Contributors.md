@@ -74,6 +74,7 @@
 - [Krrishray](https://github.com/krrishray)
 - [Kyle Boo](https://github.com/bookang869)
 - [Sanjeev Singh](https://github.com/sanjeev094)
+- [Daksh Gopani](https://github.com/dakshgopani)
 - [Adithya Bollu](https://github.com/AdithyaBollu)
 - [Brian Griffin](https://github.com/SolidUmbrella)
 - [LaraAcuna](https://github.com/LaraAcuna)
