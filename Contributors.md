@@ -441,6 +441,7 @@
 - [happypepii](https://github.com/happypepii)
 - [hmdaslam97](https://github.com/hmdaslam97)
 - [indigo0445](https://github.com/indigo0445)
+- [Aadarsh Pandey](https://github.com/beingadish)
 - [joelinux60](https://github.com/joelinux60)
 - [jpbellizia](https://github.com/jpbellizia)
 - [krshearman](https://github.com/krshearman)
