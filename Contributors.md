@@ -668,6 +668,7 @@
 - [David Stark](https://github.com/GamingPions)
 - [Derek Hall](https://github.com/derekhall483)
 - [Dhananjay Mohan](https://github.com/djvu2k6)
+- [Vedant Malkar](https://github.com/vedantmalkar)
 - [Dhruv Pandey](https://github.com/Dhrupandey)
 - [Diksha Rani](https://github.com/diksha-0420)
 - [Dipankaj](https://github.com/DipankajSingh/)
