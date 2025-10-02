@@ -1,0 +1,33 @@
+name: Link validation
+
+on:
+  pull_request:
+    paths:
+      - '**/*.md'
+      - 'scripts/**'
+      - '.github/workflows/**'
+  schedule:
+    - cron: '0 4 * * 1' # weekly on Monday at 04:00 UTC
+  workflow_dispatch:
+
+jobs:
+  check-links:
+    name: Check links in Markdown
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run link checker
+        run: |
+          python scripts/check_links.py
