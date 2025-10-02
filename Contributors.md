@@ -47,6 +47,7 @@
 - [Pratham Muley](https://github.com/Pratham19106)
 - [Jason Wiggs](https://github.com/wiggs30)
 - [Vaibhav Katyal](https://github.com/vaibhav-katyal)
+  [Elyas Shamal](https://github.com/ElyasShamal)
 - [Jenna Hall](https://github.com/swejenna)
 - [Jerry](https://github.com/SniperRaccoon)
 - [Jesse Prevete](https://github.com/jjpdotexe)
