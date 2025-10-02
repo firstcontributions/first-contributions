@@ -441,6 +441,7 @@
 - [happypepii](https://github.com/happypepii)
 - [hmdaslam97](https://github.com/hmdaslam97)
 - [indigo0445](https://github.com/indigo0445)
+- [Aadarsh Pandey](https://github.com/beingadish)
 - [joelinux60](https://github.com/joelinux60)
 - [jpbellizia](https://github.com/jpbellizia)
 - [krshearman](https://github.com/krshearman)
@@ -1199,3 +1200,4 @@ Emily Navarro
 - [Javier Napoles](https://github.com/Jnapfx)
 - [Suhail Abdi](https://github.com/suhailabdi2)
 - [Suhani Shah](https://github.com/B24CH1037)
+- [Harini R A J](https://github.com/Harini-RAJ)
