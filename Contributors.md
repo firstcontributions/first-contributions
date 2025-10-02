@@ -1207,6 +1207,7 @@ Emily Navarro
 - [Mystique85 (Hello! 👋)](https://github.com/Mystique85)
 - [Rishabh](https://github.com/Rishabhsaini21)
 - [Shivansh Pathak](https://github.com/shivanshpathak01)
+- [Karumanchi Siddhanth](https://github.com/Sid-ef)
 - [Nitheesh Muthu Krishnanc](https://github.com/nitheeshmk41)
 - [Craig Weinstein](https://github.com/craigsw86)
 - [AntoTheSol](https://github.com/AntoTheSol)
@@ -1216,3 +1217,4 @@ Emily Navarro
 - [Alireza Rostamnezhad](https://github.com/arnpacc)
 - [Harini R A J](https://github.com/Harini-RAJ)
 - [Purushottam-Singh](https://github.com/purakh)
+
