@@ -67,6 +67,7 @@
 - [Krish Yadav](https://github.com/Ky-1106)
 - [Krrishray](https://github.com/krrishray)
 - [Kyle Boo](https://github.com/bookang869)
+- [Adithya Bollu](https://github.com/AdithyaBollu)
 - [Brian Griffin](https://github.com/SolidUmbrella)
 - [LaraAcuna](https://github.com/LaraAcuna)
 - [Likhitha](https://github.com/likhitha07)
