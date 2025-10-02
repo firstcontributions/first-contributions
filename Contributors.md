@@ -1,4 +1,5 @@
 # Contributors
+
 - [Kyra (kyrazzx)](https://github.com/kyrazzx)
 - [Amadou Kebe](https://github.com/AmadouLKebe)
 - [baldlow](https://github.com/baldlow)
@@ -48,7 +49,8 @@
 - [Pratham Muley](https://github.com/Pratham19106)
 - [Jason Wiggs](https://github.com/wiggs30)
 - [Vaibhav Katyal](https://github.com/vaibhav-katyal)
-  [Elyas Shamal](https://github.com/ElyasShamal)
+- [Swarnavo Majumder](https://github.com/Swarnavo2003)
+- [Elyas Shamal](https://github.com/ElyasShamal)
 - [Jenna Hall](https://github.com/swejenna)
 - [Jerry](https://github.com/SniperRaccoon)
 - [Jesse Prevete](https://github.com/jjpdotexe)
@@ -863,7 +865,7 @@
 - [Greem Fox](https://github.com/vulpes-viridis)
 - [Hamza Khan](https://github.com/giacomo-folli)
 - [Hariharasudhan M](https://github.com/Harimhs)
-Emily Navarro
+  Emily Navarro
 - [Harsh Gupta](https://github.com/Reverent2005)
 - [Harsh Rakholiya](https://github.com/arsh3396)
 - [Harshita Kode](https://github.com/2210030019)
