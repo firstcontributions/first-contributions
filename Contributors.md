@@ -72,6 +72,7 @@
 - [MACantara](https://github.com/MACantara)
 - [Madan A](https://github.com/maddy-aleti)
 - [Magonborn](https://github.com/MagonBorn)
+- [Esraa Kandil](https://github.com/esraa-k)
 - [Maruthi S](https://github.com/JSMaruthi)
 - [Jeff Tunner](https://github.com/JeffTunner)
 - [SoongGuanLeong](https://github.com/SoongGuanLeong)
