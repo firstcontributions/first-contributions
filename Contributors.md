@@ -23,6 +23,8 @@
 - [Saugat Giri](https://github.com/saugat1070)
 - [Anurag Tiwari](https://github.com/boss2412)
 - [Shreya Sethu](https://github.com/shreyasethu)
+- [Shubhankar Pandey](https://github.com/shubxdoc)
+ Temporary merge branch 2
 - [Ginny](https://github.com/ginnysingh789)
 - [Sahitya](https://github.com/Paila-Sahitya)
 - [Gopal Iyer](https://github.com/geekiyer)
@@ -265,7 +267,11 @@
 - [Ramin Adineh](https://github.com/ramiadi)
 - [Ravi](https://github.com/raviprakash7367)
 - [Rehan Halai](https://github.com/01-Rehan)
+ Temporary merge branch 1
+
 - [bogge038](https://github.com/bogge038)
+- [Gokul P Jayan](https://github.com/GP8-Gokul)
+ Temporary merge branch 2
 - [Rohan](https://github.com/Christopher-91)
 - [RunarokHrafn](https://github.com/Runarok)
 - [Sachin](https://github.com/sachinkashi21)
@@ -1167,6 +1173,10 @@
 - [Rishabh](https://github.com/Rishabhsaini21)
 - [Shivansh Pathak](https://github.com/shivanshpathak01)
 - [Nitheesh Muthu Krishnanc](https://github.com/nitheeshmk41)
+Temporary merge branch 1
+- [Zahra Shefa](https://github.com/zahrashefa318)
+- [Zahra Shefa First](https://github.com/zahrashefa318)
+
 - [Craig Weinstein](https://github.com/craigsw86)
 - [AntoTheSol](https://github.com/AntoTheSol)
 - [AntoTheSol](https://github.com/AntoTheSol)
@@ -1175,3 +1185,5 @@
 - [Alireza Rostamnezhad](https://github.com/arnpacc)
 - [Harini R A J](https://github.com/Harini-RAJ)
 - [Purushottam-Singh](https://github.com/purakh)
+- [Karumanchi Siddhanth](https://github.com/Sid-ef)
+ Temporary merge branch 2
