@@ -1182,6 +1182,7 @@ Emily Navarro
 - [Ahmad Siddique](https://github.com/ahmadsiddique-dev)
 - [Portfolio](https://ahmadsiddique.vercel.app/)
 - [Júlia Cansado](https://github.com/julcansado)
+- [Kartik Dixit](https://github.com/kartikdixit2468)
 - [Evan Xu](https://github.com/ThisEVAN1)
 - [sowmiya](https://github.com/sowmiya880)
 - [syedsabbir-git](https://github.com/syedsabbir-git)
