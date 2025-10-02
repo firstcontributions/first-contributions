@@ -78,6 +78,7 @@
 - [Krish Yadav](https://github.com/Ky-1106)
 - [Krrishray](https://github.com/krrishray)
 - [Kyle Boo](https://github.com/bookang869)
+- [Chandan Bhirud](https://github.com/chandanb778)
 - [Sanjeev Singh](https://github.com/sanjeev094)
 - [Daksh Gopani](https://github.com/dakshgopani)
 - [Adithya Bollu](https://github.com/AdithyaBollu)
