@@ -13,7 +13,6 @@ _Ako nijeste navikli da koristite komandnu liniju, [evo tutorijala koji koristi 
 #### Ako nemate git na svojoj mašini, [instalirajte ga ovdje](https://help.github.com/articles/set-up-git/).
 
 ## Napravite kopiju repozitorijuma
-
 Napravite kopiju _(fork)_ ovog repozitorijuma tako što ćete kliknuti na dugme **fork** na vrhu stranice.
 
 Ovo će kreirati kopiju ovog repozitorijuma na vašem nalogu.
