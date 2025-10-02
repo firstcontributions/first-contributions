@@ -1,4 +1,5 @@
 # Contributors
+- [Prince Yadav](https://github.com/warrior-hub)
 - [Kyra (kyrazzx)](https://github.com/kyrazzx)
 - [Wilmer Gulcochia](https://github.com/wigsdev)
 - [Amadou Kebe](https://github.com/AmadouLKebe)
