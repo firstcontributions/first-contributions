@@ -278,6 +278,7 @@
 - [Said Berk](https://github.com/saidberk27)
 - [Salar Amir](https://github.com/SalarAmir)
 - [Samia-sh](https://github.com/samia-code0)
+- [Vattikuti Manideep Sitaram](https://github.com/Vattikuti-Manideep-Sitaram)
 - [Sandhya R](https://github.com/sandhya13r)
 - [Sanika Nair](https://github.com/sanika-n)
 - [Sathvik](https://github.com/Satthvik1026)
