@@ -384,6 +384,7 @@
 - [Pranay Gurav](https://github.com/cwpranay)
 - [RAYYAN KHAN](https://github.com/rayyan4t4)
 - [Mariydi](https://github.com/mariydi)
+- [Gregory Williams II](https://github.com/gwilli2)
 - [Rahul Kumar](https://github.com/imrahul05)
 - [RahulRawat](https://github.com/RHL-RWT-01)
 - [Rakshak R B](https://github.com/rakshakrb)
