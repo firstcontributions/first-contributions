@@ -283,6 +283,7 @@
 - [Ravi](https://github.com/raviprakash7367)
 - [Rehan Halai](https://github.com/01-Rehan)
 - [bogge038](https://github.com/bogge038)
+- [Gokul P Jayan](https://github.com/GP8-Gokul)
 - [Rohan](https://github.com/Christopher-91)
 
 - [RunarokHrafn](https://github.com/Runarok)
