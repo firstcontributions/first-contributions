@@ -11,6 +11,7 @@
 - [Aman Gupta](https://github.com/Aman071106)
 - [Ndeye Sermy Mergane](https://github.com/Ndeye1000)
 - [Emmanuel Zelaya-Armenta](https://github.com/Emmanuel-ZA)
+- [Vaishnavi Parodkar](https://github.com/vaishnavi-parodkar)
 - [Joshua Norris](https://github.com/Noshie23)
 - [santhosh teja santhosh teja ](https://github.com/Yashs02-code)
 - [Yash Shirgaonkar](https://github.com/Yashs02-code)
