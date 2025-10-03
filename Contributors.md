@@ -1264,4 +1264,4 @@
 * [Amir Yasaei](https://github.com/amiryasaei)
 * [Idris Rasaq Akande](https://github.com/gentlerhiz)
 * [John Ziska](https://github.com/kingcoco42)
-* Nitin Ramola
+* [Nitin Ramola](https://github.com/NitinRamola)
