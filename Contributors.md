@@ -1,5 +1,4 @@
 # Contributors
-
 - [Clement Zentz](https://github.com/clement-zentz)
 - [Sahil Gurjar][https://github.com/SG2407]
 - [Prince Yadav](https://github.com/warrior-hub)
@@ -8,6 +7,7 @@
 - [Test Perfil 1](https://github.com/test-git001)
 - [Amadou Kebe](https://github.com/AmadouLKebe)
 - [baldlow](https://github.com/baldlow)
+- [anshuman](https://github.com/sahayanshuman2005)
 - [Huỳnh Quốc Đạt](https://github.com/HuynhQuocDat-04)
 - [Đặng Hoàng Phúc](https://github.com/phuc220793-cpu)
 - [Chien Minh](https://github.com/chien226674-afk)
@@ -56,6 +56,7 @@
 - [JBetz-Dev](https://github.com/JBetz-Dev)
 - [James-826](https://github.com/James-826)
 - [Janardhan Polle](https://github.com/Jce)
+- [LostChyld](https://github.com/dragonsewist/)
 - [Rafael Guzman](https://github.com/Rafael-er-byte)
 - [Raghav Chanana](https://github.com/sidrag3045)
 - [Pratham Muley](https://github.com/Pratham19106)
@@ -1192,6 +1193,7 @@
 - [Kartik Dixit](https://github.com/kartikdixit2468)
 - [Evan Xu](https://github.com/ThisEVAN1)
 - [sowmiya](https://github.com/sowmiya880)
+- [syedsabbir-git](https://github.com/syedsabbir-git)
 - [syedsabbir-git](https://github.com/syedsabbir-git)
 - [Parshuram Singh](https://github.com/parshuramsingh)
 - [JIIL](https://github.com/JIIL07)
