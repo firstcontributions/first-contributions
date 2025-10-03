@@ -301,6 +301,7 @@
 - [Prasad J B](https://github.com/Prasad-JB)
 - [Pro Kumar](https://github.com/pkumar2143)
 - [Rajneesh](https://github.com/rajneesh-18)
+- [Wildmanty12](https://github.com/WildmanTy12)
 - [RSM Harsha](https://github.com/rsmharsha)
 - [Ramin Adineh](https://github.com/ramiadi)
 - [Ravi](https://github.com/raviprakash7367)
