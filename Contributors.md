@@ -59,6 +59,7 @@
 - [James-826](https://github.com/James-826)
 - [Janardhan Polle](https://github.com/Jce)
 - [LostChyld](https://github.com/dragonsewist/)
+- [Adhil Bathali](https://github.com/adhilbathali)
 - [Rafael Guzman](https://github.com/Rafael-er-byte)
 - [Raghav Chanana](https://github.com/sidrag3045)
 - [Pratham Muley](https://github.com/Pratham19106)
