@@ -1238,4 +1238,5 @@
 - [Purushottam-Singh](https://github.com/purakh)
 - [Karumanchi Siddhanth](https://github.com/Sid-ef)
 - [Chang Jia Jun](https://github.com/jiajunchang2002g)
+- [Samiksha Prathip](https://github.com/samikshaprathip)
 - [Aryan Vora](https://github.com/vora-aryan)
