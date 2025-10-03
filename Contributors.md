@@ -1,6 +1,4 @@
 # Contributors
-- [Clement Zentz](https://github.com/clement-zentz)
-- [Prince Yadav](https://github.com/warrior-hub)
 - [Kyra (kyrazzx)](https://github.com/kyrazzx)
 - [Wilmer Gulcochia](https://github.com/wigsdev)
 - [Test Perfil 1](https://github.com/test-git001)
@@ -58,7 +56,8 @@
 - [Pratham Muley](https://github.com/Pratham19106)
 - [Jason Wiggs](https://github.com/wiggs30)
 - [Vaibhav Katyal](https://github.com/vaibhav-katyal)
-  [Elyas Shamal](https://github.com/ElyasShamal)
+- [Swarnavo Majumder](https://github.com/Swarnavo2003)
+- [Elyas Shamal](https://github.com/ElyasShamal)
 - [Jenna Hall](https://github.com/swejenna)
 - [Rohit Mathur](https://github.com/Rohit0265)
 - [Jerry](https://github.com/SniperRaccoon)
@@ -886,7 +885,7 @@
 - [Greem Fox](https://github.com/vulpes-viridis)
 - [Hamza Khan](https://github.com/giacomo-folli)
 - [Hariharasudhan M](https://github.com/Harimhs)
-Emily Navarro
+  Emily Navarro
 - [Harsh Gupta](https://github.com/Reverent2005)
 - [Harsh Rakholiya](https://github.com/arsh3396)
 - [Harshita Kode](https://github.com/2210030019)
