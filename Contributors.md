@@ -1,4 +1,6 @@
 # Contributors
+- [Clement Zentz](https://github.com/clement-zentz)
+- [Prince Yadav](https://github.com/warrior-hub)
 - [Kyra (kyrazzx)](https://github.com/kyrazzx)
 - [Wilmer Gulcochia](https://github.com/wigsdev)
 - [Test Perfil 1](https://github.com/test-git001)
@@ -33,6 +35,7 @@
 - [Ginny](https://github.com/ginnysingh789)
 - [Sahitya](https://github.com/Paila-Sahitya)
 - [Gopal Iyer](https://github.com/geekiyer)
+- [Alejandro Aceituno](https://github.com/clement-zentz)
 - [Hamza Shaikh](https://github.com/Raynzler)
 - [santhosh teja](https://github.com/santhosh-7777)
 - [Harry-GNS](https://github.com/Harry-GNS)
