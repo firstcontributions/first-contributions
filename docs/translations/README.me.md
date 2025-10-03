@@ -114,8 +114,6 @@ Uskoro, ja ću spojiti promjene koje ste napravili sa master granom repozitoriju
 
 Proslavite vaš doprinos i podijelite ga sa prijateljima i pratiocima kroz [stranicu](https://firstcontributions.github.io/#social-share).
 
-Ukoliko vam je potrebna pomoć ili imate neka pitanja, možete da se priključite našem [Slack timu](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
-
 Sada možete početi da doprinosite i drugim projektima. Sastavili smo listu projekata sa jednostavim problemima na kojima možete početi da radite. Pogledajte [listu projekata na stranici](https://firstcontributions.github.io/#project-list).
 
 ### [Dodatni materijali](additional-material/git_workflow_scenarios/additional-material.md)
