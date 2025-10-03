@@ -334,6 +334,7 @@
 - [Elampel](https://github.com/eyallampel1/)
 - [traf nosleep](https://github.com/ayohsan)
 - [Aaaappplle](https://github.com/aaaappplle)
+- [Dat Nguyen](https://github.com/ngxuandat)
 - [Aaliyah Raheem](https://github.com/aaliot)
 - [Abid Shaikh](https://github.com/Abid-sh84)
 - [Adrian PC M](https://github.com/AdrianPCM)
