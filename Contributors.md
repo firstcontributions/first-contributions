@@ -597,6 +597,7 @@
 - [Rennan Reis](https://github.com/rennanreis)
 - [Ritesh Singh](https://github.com/ritesh355)
 - [Rodrigo Bravo](https://github.com/bravorod)
+- [Halisson Martins](https://github.com/halissonmartin)
 - [Rohin Garg](https://github.com/rohingarg12)
 - [Ruairi Anthony](https://github.com/Ruairia)
 - [Rudraraj Pandey](https://github.com/heelR3)
