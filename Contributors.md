@@ -148,6 +148,7 @@
 - [Thabeswar](https://github.com/Thabeswar)
 - [TheRunnas](https://github.com/therunnas)
 - [Tony Wong](https://github.com/tony31913)
+- [Mr Chintha]
 - [Vardararo](https://github.com/Vardararo)
 - [Vasu Singh](https://github.com/Vasu1303)
 - [Vrund Patel](https://github.com/Vrund09)
