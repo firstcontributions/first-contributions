@@ -1,5 +1,4 @@
 # Contributors
-- [Shubham Pawade](https://github.com/ShubhamSPawade)
 - [Clement Zentz](https://github.com/clement-zentz)
 - [Sahil Gurjar][https://github.com/SG2407]
 - [Prince Yadav](https://github.com/warrior-hub)
@@ -737,8 +736,7 @@
 - [Prem Suresh](https://github.com/Prem-Rajendran)
 - [Manisha1679](https://github.com/Manisha1679)
 - [Seung Min Park](https://github.com/seungminbluebox)
-- [Manya Goel](https://github.com/MANYAGOEL123)
--[Sudama bera](https://github.com/sudama-bera-3)
+- [Manya Goel](https://github.com/MANYAGOEL123) -[Sudama bera](https://github.com/sudama-bera-3)
 - [Martí Cabañas](https://github.com/cabah24)
 - [Mate Kopaliani](https://github.com/Ka10ken1)
 - [Mateus Cruz](https://github.com/Mdacruzrego)
@@ -1240,3 +1238,4 @@
 - [Purushottam-Singh](https://github.com/purakh)
 - [Karumanchi Siddhanth](https://github.com/Sid-ef)
 - [Chang Jia Jun](https://github.com/jiajunchang2002g)
+- [Aryan Vora](https://github.com/vora-aryan)
