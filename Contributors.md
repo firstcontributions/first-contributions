@@ -267,6 +267,7 @@
 - [Lendon Completado](https://github.com/ranier-lendon)
 - [Jon Ayre](https://github.com/Jonalanayre)
 - [Juan Monta](https://github.com/JuanMonta)
+- [Luis Benitez](https://github.com/luisbenitez96)
 - [Kai Feng](https://github.com/kaifeng-cmd)
 - [Kavya Vadla](https://github.com/kvadla06)
 - [Kyusan Kim](https://github.com/5tarlight)
