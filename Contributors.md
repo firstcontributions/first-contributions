@@ -366,6 +366,7 @@
 - [Ayomide Saheed](https://github.com/luc-ay)
 - [Ayush](https://github.com/AyushMaurya3114)
 - [Beetlesliu](https://github.com/Beetlesliu)
+- [blue-cubes] (https://github.com/blue-cubes)
 - [Bharat Ruidas](https://github.com/brd2002)
 - [Boru Isako](https://github.com/BoruIsakoJ)
 - [Borzoi Lover](https://github.com/mmitros1)
