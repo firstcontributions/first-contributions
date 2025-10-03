@@ -1180,6 +1180,7 @@
 - [sithananthan](https://github.com/sithananthan)
 - [square-story](https://github.com/square-story)
 - [Jack](https://github.com/jackliDev)
+- [puchan-s](https://github.com/puchan-s/first-contributions)
 - [Hiruna Panditha](https://github.com/Hiruna-SP)
 - [tomasbennett](https://github.com/tomasbennett)
 - [Rahmatulloh Ibrohim](https://github.com/raxmatulloxswe/)
