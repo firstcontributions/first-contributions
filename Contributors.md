@@ -15,6 +15,7 @@
 - [Đặng Hoàng Phúc](https://github.com/phuc220793-cpu)
 - [Chien Minh](https://github.com/chien226674-afk)
 - [Hrishikesh Rondla](https://github.com/Hrishikesh-Rondla)
+- [Rudra Pratap Singh Jadon](https://github.com/rudrajadon)
 - [Trần Huỳnh Đăng Khôi](https://github.com/KhoiTarn)
 - [Kazzpars](https://github.com/rid-acrh238)
 - [Aman Gupta](https://github.com/Aman071106)
