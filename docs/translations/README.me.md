@@ -1,5 +1,4 @@
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-[<img align="right" width="150" src="assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -14,7 +13,6 @@ _Ako nijeste navikli da koristite komandnu liniju, [evo tutorijala koji koristi 
 #### Ako nemate git na svojoj mašini, [instalirajte ga ovdje](https://help.github.com/articles/set-up-git/).
 
 ## Napravite kopiju repozitorijuma
-
 Napravite kopiju _(fork)_ ovog repozitorijuma tako što ćete kliknuti na dugme **fork** na vrhu stranice.
 
 Ovo će kreirati kopiju ovog repozitorijuma na vašem nalogu.
