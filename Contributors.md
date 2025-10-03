@@ -43,6 +43,7 @@
 - [Hamza Shaikh](https://github.com/Raynzler)
 - [santhosh teja](https://github.com/santhosh-7777)
 - [Harry-GNS](https://github.com/Harry-GNS)
+- [Jenish Dangol](https://github.com/Jenis980)
 - [Helen Tsui](https://github.com/helentht)
 - [Andy Ma](https://github.com/Everither)
 - [Bruno Costa](https://github.com/brunocosta-devlab)
