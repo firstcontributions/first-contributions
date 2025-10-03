@@ -256,6 +256,7 @@
 - [Jithin](https://github.com/jithin-dotcom)
 - [Jobin Jose](https://github.com/jobin8921)
 - [Joel Singh](https:/github.com/Joel-Singh)
+- [Lendon Completado](https://github.com/ranier-lendon)
 - [Jon Ayre](https://github.com/Jonalanayre)
 - [Juan Monta](https://github.com/JuanMonta)
 - [Kai Feng](https://github.com/kaifeng-cmd)
