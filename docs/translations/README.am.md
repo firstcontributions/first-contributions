@@ -110,7 +110,7 @@ git push origin <የእርስዎ-branch-name>
 
 አስተዋጾዎን ያክብሩ እና ለጓደኞችዎ እና ተከታዮችዎ ያካፍሉ ወደ [ዲህረ ገጾ በመሄድ](https://firstcontributions.github.io/#social-share).
 
-ማንኛውም እርዳታ ከፈለጉ ወይም ማንኛውም ጥያቄ ካለዎት የእኛን [Slack ቡድን](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY) መቀላቀል ይችላሉ.
+ተጨማሪ ልምምድ ከፈለጉ በዚህ ሊንክ [code contributions](https://github.com/roshanjossey/code-contributions) ይግቡ.
 
 አሁን ለሌሎች ፕሮጀክቶች በማበርከት እንጀምር. እርስዎ ሊጀምሩባቸው የሚችሉ ቀላል ጉዳዮች ያላቸውን የፕሮጀክቶች ዝርዝር አዘጋጅተናል።. [እኚህን ማስፈተሪያ ይከተሉ](https://firstcontributions.github.io/#project-list).
 
