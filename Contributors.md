@@ -896,6 +896,7 @@
 - [Harsh Rakholiya](https://github.com/arsh3396)
 - [Harshita Kode](https://github.com/2210030019)
 - [Huda Bikhoir](https://github.com/hudabikhoir)
+- [Brendan Nave](https://github.com/brendnav)
 - [Ifeoma-Chidera](https://github.com/ifaycodes)
 - [Elvis Gutierrez](https://github.com/ElvisGutierrez)
 - [JVent-WSU](https://github.com/JVentulett-WSU)
