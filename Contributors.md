@@ -1,5 +1,6 @@
 # Contributors
 - [Clement Zentz](https://github.com/clement-zentz)
+- [Sahil Gurjar][https://github.com/SG2407]
 - [Prince Yadav](https://github.com/warrior-hub)
 - [Kyra (kyrazzx)](https://github.com/kyrazzx)
 - [Wilmer Gulcochia](https://github.com/wigsdev)
