@@ -577,6 +577,7 @@
 - [Lalitha N](https://github.com/lalitha-n546)
 - [Laurian Iacob](https://github.com/iLaurian)
 - [Letícia Reche](https://github.com/lereche)
+- [LdeSalas](https://github.com/luisda2505)
 - [LukaGakhokidze](https://github.com/Luka288)
 - [Lulu Harvey](https://github.com/luluharvey)
 - [Malak Ibrahim](https://github.com/mmibrahi)
