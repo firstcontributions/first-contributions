@@ -1,4 +1,5 @@
 # Contributors
+
 - [Clement Zentz](https://github.com/clement-zentz)
 - [Fred](https://github.com/kipkemoifred)
 - [Sahil Gurjar][https://github.com/SG2407]
@@ -1244,3 +1245,4 @@
 - [Chang Jia Jun](https://github.com/jiajunchang2002g)
 - [Samiksha Prathip](https://github.com/samikshaprathip)
 - [Aryan Vora](https://github.com/vora-aryan)
+- [Tommaso Desiato](https://github.com/Tommaso-Desiato)
