@@ -1,10 +1,9 @@
-
 # Contributors
-
 - [Clement Zentz](https://github.com/clement-zentz)
 - [Prince Yadav](https://github.com/warrior-hub)
 - [Kyra (kyrazzx)](https://github.com/kyrazzx)
 - [Wilmer Gulcochia](https://github.com/wigsdev)
+- [Test Perfil 1](https://github.com/test-git001)
 - [Amadou Kebe](https://github.com/AmadouLKebe)
 - [baldlow](https://github.com/baldlow)
 - [Huỳnh Quốc Đạt](https://github.com/HuynhQuocDat-04)
@@ -60,7 +59,8 @@
 - [Pratham Muley](https://github.com/Pratham19106)
 - [Jason Wiggs](https://github.com/wiggs30)
 - [Vaibhav Katyal](https://github.com/vaibhav-katyal)
-  [Elyas Shamal](https://github.com/ElyasShamal)
+- [Swarnavo Majumder](https://github.com/Swarnavo2003)
+- [Elyas Shamal](https://github.com/ElyasShamal)
 - [Jenna Hall](https://github.com/swejenna)
 - [Rohit Mathur](https://github.com/Rohit0265)
 - [Jerry](https://github.com/SniperRaccoon)
@@ -295,7 +295,7 @@
 - [bogge038](https://github.com/bogge038)
 - [Gokul P Jayan](https://github.com/GP8-Gokul)
 - [Rohan](https://github.com/Christopher-91)
-
+- [swaraj reddy](https://github.com/swarajreddy10)
 - [RunarokHrafn](https://github.com/Runarok)
 - [Sachin](https://github.com/sachinkashi21)
 - [Sagardeep Das](https://github.com/SDpDas)
@@ -888,7 +888,7 @@
 - [Greem Fox](https://github.com/vulpes-viridis)
 - [Hamza Khan](https://github.com/giacomo-folli)
 - [Hariharasudhan M](https://github.com/Harimhs)
-Emily Navarro
+  Emily Navarro
 - [Harsh Gupta](https://github.com/Reverent2005)
 - [Harsh Rakholiya](https://github.com/arsh3396)
 - [Harshita Kode](https://github.com/2210030019)
@@ -1184,6 +1184,7 @@ Emily Navarro
 - [Ahmad Siddique](https://github.com/ahmadsiddique-dev)
 - [Portfolio](https://ahmadsiddique.vercel.app/)
 - [Júlia Cansado](https://github.com/julcansado)
+- [Kartik Dixit](https://github.com/kartikdixit2468)
 - [Evan Xu](https://github.com/ThisEVAN1)
 - [sowmiya](https://github.com/sowmiya880)
 - [syedsabbir-git](https://github.com/syedsabbir-git)
@@ -1222,8 +1223,11 @@ Emily Navarro
 - [AntoTheSol](https://github.com/AntoTheSol)
 - [Javier Napoles](https://github.com/Jnapfx)
 - [Suhail Abdi](https://github.com/suhailabdi2)
+- Arpit Kumar Jaiswal
+- [Suhani Shah](https://github.com/B24CH1037)
 - [Alireza Rostamnezhad](https://github.com/arnpacc)
 - [Harini R A J](https://github.com/Harini-RAJ)
 - [Zahra Shefa](https://github.com/zahrashefa318)
 - [Purushottam-Singh](https://github.com/purakh)
 - [Karumanchi Siddhanth](https://github.com/Sid-ef)
+- [Chang Jia Jun](https://github.com/jiajunchang2002g)
