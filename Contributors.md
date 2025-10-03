@@ -1178,6 +1178,7 @@
 - [tomasbennett](https://github.com/tomasbennett)
 - [Rahmatulloh Ibrohim](https://github.com/raxmatulloxswe/)
 - [Kostiantyn Semenenko](https://github.com/NureSemenenkoKostiantyn)
+- [Anshika](https://github.com/firstcontributions/first-contributions)
 - [saravanan](https://github.com/saravanan27-learner)
 - [aidenliu](https://github.com/aiden-liu)
 - [Ariyan Bhakat](https://github.com/arywk40-hue)
