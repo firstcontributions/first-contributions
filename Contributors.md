@@ -87,6 +87,7 @@
 - [Priyanka Sharma](https://github.com/priyanka2sharma)
 - [Akhilesh Saini](https://github.com/Akhilesh0085)
 - [Justin](https://github.com/JustinBifeld)
+- [Zion Ubeise](https://github.com/Zee34-dude)
 - [KamalKant](https://github.com/kamal2730)
 - [Kjohnbaba](https://github.com/kjohnbaba)
 - [Krish Yadav](https://github.com/Ky-1106)
