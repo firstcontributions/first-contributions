@@ -1256,3 +1256,4 @@
 - [Rhys Povey](https://github.com/Rpovey04)
 - [Purva Porwal](https://github.com/purvapr13)
 - [Amir Yasaei](https://github.com/amiryasaei)
+- [Idris Rasaq Akande](https://github.com/gentlerhiz)
