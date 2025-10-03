@@ -98,6 +98,7 @@
 - [Likhitha](https://github.com/likhitha07)
 - [MACantara](https://github.com/MACantara)
 - [Madan A](https://github.com/maddy-aleti)
+- [X S Minisha Alias Lincy](https://github.com/minishalincy)
 - [Magonborn](https://github.com/MagonBorn)
 - [Esraa Kandil](https://github.com/esraa-k)
 - [Maruthi S](https://github.com/JSMaruthi)
