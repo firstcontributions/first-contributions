@@ -1242,6 +1242,7 @@
 - [Zahra Shefa](https://github.com/zahrashefa318)
 - [Purushottam-Singh](https://github.com/purakh)
 - [Karumanchi Siddhanth](https://github.com/Sid-ef)
+- [Shreya](https://github.com/shreya0806-tech)
 - [Chang Jia Jun](https://github.com/jiajunchang2002g)
 - [Samiksha Prathip](https://github.com/samikshaprathip)
 - [Aryan Vora](https://github.com/vora-aryan)
