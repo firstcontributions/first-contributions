@@ -198,6 +198,7 @@
 - [jsutCodes](https://github.com/jsutCodes)
 - [karan](https://github.com/karanhb-pixel)
 - [kevinmj12](https://github.com/kevinmj12)
+- [Niraj](https://github.com/Niraj-Ramnani)
 - [killjoybr](https://github.com/killjoybr)
 - [magikcarp](https://github.com/magikcarp)
 - [mayurk224](https://github.com/mayurk224)
