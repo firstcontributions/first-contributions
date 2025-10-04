@@ -1300,6 +1300,7 @@
 - [Phạm Ngọc Hòa](https://github.com/teaplusottp)
 - [Jeevitha D S](https://github.com/JeevithaDS10)
 - [Fabian Banks](https://github.com/fbank68)
+Amirreza Salimzadeh
 - [Carraigh](https://github.com/Carraigh)
 - [toomboom](https://github.com/toomboom)
 - [Muthu Saravanan](https://github.com/MUTHUSARAVANAN5102)
