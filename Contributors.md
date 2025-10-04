@@ -66,6 +66,7 @@
 - [Hoin Shin](https://github.com/signalman)
 - [Olet Sharapolli](https://github.com/Olet-17)
 - [Abhay Raj Agnihotri](https://github.com/abhayrajagnihotri)
+- [Sai Darshan](https://github.com/saidarshan7)
 - [marcelo_iporre](https://github.com/CHELOIPO)
 - [ITSMijaiL](https://github.com/ITSMijaiL)
 - [Itay Levi](https://github.com/ItayLHdev)
