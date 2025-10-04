@@ -122,7 +122,6 @@ git push origin <add-your-name>
 
 Նշեք ձեր ներդրումը և կիսվեք այն ձեր ընկերների և հետևորդների հետ՝ այցելելով [web app](https://firstcontributions.github.io/#social-share).
 
-Դուք կարող եք միանալ մեր Slack թիմին, եթե որևէ հարց կամ օգնության կարիք ունեք։ [Միանալ slack թիմին](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
 Հիմա կարող եք ձեր ներդրումն ունենալ այլ նախագծերում։ Մենք կազմել ենք հեշտ խնդիրներ ունեցող նախագծերի ցանկ, որոնցից կարող եք սկսել: Համեցեք [վեբ հավելվածի նախագծերի ցանկը](https://firstcontributions.github.io/#project-list).
 
