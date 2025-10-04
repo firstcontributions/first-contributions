@@ -108,3 +108,4 @@ Axiña mesturarei os teus cambios (facendo *merge*) na master branch deste proxe
 
 ## Onde ir dende aquí?
 
+Se queres practicar máis e contribuír a código aberto, mira [Code Contributions](https://github.com/roshanjossey/code-contributions).
