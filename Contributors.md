@@ -689,6 +689,7 @@
 - [Antonio Fábio](https://github.com/zodiecko)
 - [Raihan Ahmed](https://github.com/Enmilo-dev)
 - [Areen Patil](https://github.com/areen-patil)
+- [Ganesh Mane](https://github.com/Ganesh-PC018)
 - [Ashish Bairwa](https://github.com/ashishb20)
 - [Ashok Reddy](https://github.com/ashokCh-dev)
 - [Avinash Ganore](https://github.com/Xzy-Vron)
