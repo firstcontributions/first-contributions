@@ -1270,4 +1270,5 @@
 - [Amir Yasaei](https://github.com/amiryasaei)
 - [Idris Rasaq Akande](https://github.com/gentlerhiz)
 - [John Ziska](https://github.com/kingcoco42)
+- [Sunday P. Afolabi](https://github.com/Lecon-a)
 - [Zulfiqar Silmy S](https://github.com/Fiqqar)
