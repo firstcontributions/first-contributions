@@ -1287,3 +1287,4 @@
 - [周](https://github.com/Laolvlamo)
 - [Phạm Ngọc Hòa](https://github.com/teaplusottp)
 - [Jeevitha D S](https://github.com/JeevithaDS10)
+- [Fabian Banks](https://github.com/fbank68)
