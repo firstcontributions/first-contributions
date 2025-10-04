@@ -13,6 +13,7 @@
 - [Test Perfil 1](https://github.com/test-git001)
 - [Amadou Kebe](https://github.com/AmadouLKebe)
 - [baldlow](https://github.com/baldlow)
+-[Mohit Kumar](https://github.com/MateeRixx)
 - [Pygame17](https://github.com/Pygame17)
 - [anshuman](https://github.com/sahayanshuman2005)
 - [Huỳnh Quốc Đạt](https://github.com/HuynhQuocDat-04)
