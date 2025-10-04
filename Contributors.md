@@ -22,6 +22,7 @@
 - [Huỳnh Quốc Đạt](https://github.com/HuynhQuocDat-04)
 - [Đặng Hoàng Phúc](https://github.com/phuc220793-cpu)
 - [Chien Minh](https://github.com/chien226674-afk)
+- [Tudor Caseru](https://github.com/theoriginaltudor)
 - [Hrishikesh Rondla](https://github.com/Hrishikesh-Rondla)
 - [Rudra Pratap Singh Jadon](https://github.com/rudrajadon)
 - [Ronaldo P](https://github.com/Ronaldo-001)
