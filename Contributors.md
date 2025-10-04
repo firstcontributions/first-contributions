@@ -1264,3 +1264,4 @@
 - [Amir Yasaei](https://github.com/amiryasaei)
 - [Idris Rasaq Akande](https://github.com/gentlerhiz)
 - [John Ziska](https://github.com/kingcoco42)
+- [Zulfiqar Silmy S](https://github.com/Fiqqar)
