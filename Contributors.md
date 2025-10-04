@@ -11,6 +11,7 @@
 - [Amadou Kebe](https://github.com/AmadouLKebe)
 - [baldlow](https://github.com/baldlow)
 - [Pygame17](https://github.com/Pygame17)
+- [Mohamednishar](https://github.com/nisharj)
 - [anshuman](https://github.com/sahayanshuman2005)
 - [Huỳnh Quốc Đạt](https://github.com/HuynhQuocDat-04)
 - [Đặng Hoàng Phúc](https://github.com/phuc220793-cpu)
