@@ -1,4 +1,5 @@
 # Contributors
+
 - [Raja Rathour](https://github.com/Raja-89)
 - [Nirbhay Bawankule](https://github.com/NirbhayBawankule)
 - [Shubhanshu](https://github.com/shbhansh66)
@@ -13,8 +14,7 @@
 - [Wilmer Gulcochia](https://github.com/wigsdev)
 - [Test Perfil 1](https://github.com/test-git001)
 - [Amadou Kebe](https://github.com/AmadouLKebe)
-- [baldlow](https://github.com/baldlow)
--[Mohit Kumar](https://github.com/MateeRixx)
+- [baldlow](https://github.com/baldlow) -[Mohit Kumar](https://github.com/MateeRixx)
 - [Pygame17](https://github.com/Pygame17)
 - [Mohamednishar J](https://github.com/nisharj)
 - [anshuman](https://github.com/sahayanshuman2005)
@@ -1133,6 +1133,7 @@
 - [Pavitharan V](https://github.com/Pavitharan02)
 - [Nitesh Vasave](https://github.com/ni2-vsv11)
 - [Rafael Severo](https://github.com/rafaeumesmo)
+- [Adarsh Raj](https://github.com/itsrajadarsh)
 - [Rahul Parihar](https://github.com/Parihar-Dev)
 - [Rajinisoumya](https://github.com/Rajinisoumya)
 - [Revati Keskar](https://gihub.som/RevatiKeskar)
