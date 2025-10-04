@@ -1,6 +1,7 @@
 # Contributors
 - [Raja Rathour](https://github.com/Raja-89)
 - [Nirbhay Bawankule](https://github.com/NirbhayBawankule)
+- [Shubhanshu](https://github.com/shbhansh66)
 - [Rudresh Suryawanshi](https://github.com/Rudresh-11)
 - [Clement Zentz](https://github.com/clement-zentz)
 - [Fred](https://github.com/kipkemoifred)
@@ -21,7 +22,6 @@
 - [Đặng Hoàng Phúc](https://github.com/phuc220793-cpu)
 - [Chien Minh](https://github.com/chien226674-afk)
 - [Hrishikesh Rondla](https://github.com/Hrishikesh-Rondla)
-- [Shubhanshu](https://github.com/shbhansh66)
 - [Rudra Pratap Singh Jadon](https://github.com/rudrajadon)
 - [Ronaldo P](https://github.com/Ronaldo-001)
 - [Trần Huỳnh Đăng Khôi](https://github.com/KhoiTarn)
