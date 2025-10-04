@@ -750,6 +750,7 @@
 - [Sim Hyeonmin](https://github.com/simhyunmin)
 - [Simons Arhin](https://github.com/simonskayi)
 - [Sitanshu Nandan](https://github.com/stansho)
+- [Stanley Setiawan](https://github.com/stanleystn)
 - [SteveTawali](https://github.com/SteveTawali)
 - [StraitGhost](https://github.com/StraitGhost)
 - [Sunil Reddy](https://github.com/Sunilreddyj)
