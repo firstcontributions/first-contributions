@@ -64,6 +64,7 @@
 - [Fangphire](https://github.com/fangphire)
 - [Zohaib](https://github.com/Iamzohaibali)
 - [Frank Anthony](https://github.com/FrankLayza)
+- [Rahpeal Lee](https://github.com/nativeengineer)
 Rajnish Kumar Dubey 
 - [Purbasha Mitra](https://github.com/PurbashaMitra)
 - [Furanimus](https://github.com/Furanimus)
