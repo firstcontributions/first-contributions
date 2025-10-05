@@ -1109,6 +1109,7 @@
 - [Hassan Zidan](https://github.com/Hassannzidan)
 - [Himanshu Gohil](https://github.com/tghimanshu)
 - [Hiruna Panditha](https://github.com/Hiruna-SP)
+- [Héctor Lara](https://github.com/hctrdubs24)
 - [Ife Osifalujo](https://github.com/osifalujoi1)
 - [Ifham-Hashir](https://github.com/Ifham-Hashir)
 - [Irksomehails](https://github.com/irksomehails)
