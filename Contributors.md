@@ -1,4 +1,5 @@
 # Contributors
+- [Satyam Kumar Jha] (https://github.com/satyam536)
 - [Utkarsh Upreti] (https://www.github.com/K4rsh)
 - [Raja Rathour](https://github.com/Raja-89)
 - [Viraj Hudlikar](https://github.com/vhudlikar)
