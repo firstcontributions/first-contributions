@@ -3,93 +3,91 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
+# First Contributions — हिंदी
 
-# पहली योगदान
-
-|<img alt="Sublime Merge" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/sublime-merge-tutorial/sublime-merge.png" width="200">| सब्लाइम मर्ज गिट क्लाइंट (Sublime Merge Git Client)|
+|<img alt="Sublime Merge" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/sublime-merge-tutorial/sublime-merge.png" width="200">|Sublime Merge Git क्लाइंट|
 |---|---|
 
-यह आसान नहीं है। जब आप पहली बार कुछ करते हैं तो यह हमेशा कठिन होता है। खासकर जब आप सहयोग कर रहे हों या कुछ नया आज़मा रहे हों, तो गलती करना सहज महसूस नहीं होता। लेकिन ओपन सोर्स का मतलब है सहयोग और साथ मिलकर काम करना। हम चाहते थे कि नए ओपन-सोर्स योगदानकर्ताओं के लिए सीखना और योगदान देना आसान हो।
+पहली बार कुछ करना हमेशा थोड़ा कठिन लगता है। खासकर जब आप सहयोग (collaboration) कर रहे हों या कुछ नया आज़मा रहे हों — गलतियाँ करना सहज नहीं लगता। लेकिन ओपन सोर्स का मूल ही सहयोग और मिलकर काम करना है। हम चाहते हैं कि नए ओपन-सोर्स योगदानकर्ता पहली बार योगदान देना आसानी से सीखें और कर पाएं।
 
-लेख पढ़ना और ट्यूटोरियल देखना मददगार हो सकता है, लेकिन असली फायदा तब होता है जब आप बिना कुछ गड़बड़ाए खुद काम करते हैं। यह प्रोजेक्ट यह सुनिश्चित करता है कि नौसिखिए आसानी से अपना पहला योगदान दे सकें। याद रखें, जितना आप आरामदायक होंगे, उतना बेहतर सीखेंगे। यदि आप अपना पहला योगदान देना चाहते हैं तो नीचे दिए सरल चरणों का पालन करें। हम वादा करते हैं, यह मज़ेदार होगा।
+लेख पढ़ना और ट्यूटोरियल देखना मदद करता है, लेकिन बिना कुछ बिगाड़े **खुद करके सीखना** सबसे अच्छा होता है। यह प्रोजेक्ट नए योगदानकर्ताओं को मार्गदर्शन देने और उनका पहला योगदान सरल बनाने के लिए बनाया गया है। याद रखें: जितना सहज महसूस करेंगे, उतना बेहतर सीखेंगे। अगर आप अपना पहला योगदान देना चाहते हैं, तो नीचे दिए गए आसान चरणों का पालन करें — यह मज़ेदार होगा!
 
+## Sublime Merge
 
-## सब्लाइम मर्ज (Sublime Merge)
+[Sublime Merge](https://www.sublimemerge.com/) डाउनलोड करें, इंस्टॉल करें और ओपन करें।
 
-[सब्लाइम मर्ज](https://www.sublimemerge.com/) डाउनलोड करें, इसे इंस्टॉल करें और खोलें।
+## इस रिपॉज़िटरी को फोर्क करें
 
-## इस रिपॉजिटरी को फोर्क करें
+इस पेज के ऊपर दिए गए **Fork** बटन पर क्लिक करके इस रिपॉज़िटरी को फोर्क करें।
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/sublime-merge-tutorial/fork.png" alt="fork this repository" />
+यह आपकी अकाउंट में इस रिपॉज़िटरी की एक कॉपी बना देगा।
 
-इस पेज के ऊपर फोर्क बटन पर क्लिक करके इस रिपॉजिटरी को फोर्क करें।  
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/sublime-merge-tutorial/fork.png" alt="fork this repository" />  
-यह आपके अकाउंट में इस रिपॉजिटरी की एक कॉपी बना देगा।
-
-<br>  
-<br>  
-<br>  
+<br>
+<br>
+<br>
 <br>
 
-## रिपॉजिटरी क्लोन करें
+## रिपॉज़िटरी को क्लोन करें
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/sublime-merge-tutorial/clone.png" alt="clone this repository" />
 
-सब्लाइम मर्ज में जाएं, File -> Clone Repository चुनें।
-
+Sublime Merge में **File -> Clone Repository** पर जाएँ।
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/sublime-merge-tutorial/sm-clone.png" alt="clone this repository" />
 
-अगला कदम है अपने रिपॉजिटरी को अपनी मशीन पर क्लोन करना ताकि आप बदलाव करना शुरू कर सकें। सब्लाइम मर्ज को आपके रिपॉजिटरी का URL चाहिए, तो "clone" बटन दबाएं और फिर "copy to clipboard" आइकन पर क्लिक करें।
+अगला चरण है अपनी रिपॉज़िटरी को अपनी मशीन पर क्लोन करना ताकि आप बदलाव करना शुरू कर सकें। Sublime Merge को आपकी रिपॉज़िटरी का URL चाहिए, इसलिए **“clone”** बटन दबाएँ और फिर **“copy to clipboard”** आइकन पर क्लिक करें।
 
-**सावधान:** नए योगदानकर्ताओं से अक्सर गलती होती है कि वे जिस रिपॉजिटरी को फोर्क किया है, उसकी जगह मूल रिपॉजिटरी को क्लोन कर लेते हैं। अपने ब्राउज़र के एड्रेस बार में चेक करें कि आप सही रिपॉजिटरी क्लोन कर रहे हैं।
+**सावधान:** नए योगदानकर्ता अक्सर गलती से उस रिपॉज़िटरी को क्लोन कर लेते हैं जिससे आपने फोर्क किया है, बजाय अपने फोर्क को क्लोन करने के। अपने ब्राउज़र की address bar देखकर सुनिश्चित करें कि आप **अपने फोर्क** को ही क्लोन कर रहे हैं।
 
-सब्लाइम मर्ज में रिपॉजिटरी का URL डालें, रिपॉजिटरी का नाम दें (या खाली छोड़ दें) और वह डायरेक्टरी चुनें जहाँ आप इसे सेव करना चाहते हैं।
+Sublime Merge में रिपॉज़िटरी का URL दर्ज करें, चाहें तो कोई नाम दें (या खाली छोड़ दें) और वह डायरेक्टरी चुनें जहाँ आप रिपॉज़िटरी सेव करना चाहते हैं।
 
-रास्ते से संतुष्ट होने पर "Clone" पर क्लिक करें।
+जब पथ सही लगे, **“Clone”** पर क्लिक करें।
 
-## एक शाखा बनाएं
+## एक ब्रांच बनाएँ
 
-Branches पर राइट-क्लिक करें -> Create Branch  
-या  
-Repository -> Create Branch पर जाएं।
+Right click **Branches -> Create Branch**
+या
+**Repository -> Create Branch** पर जाएँ।
 
-अपनी शाखा का नाम रखें "add-your-name", जैसे: "add-william-sutton"
+अपनी ब्रांच का नाम `"add-your-name"` जैसा रखें, उदाहरण: `"add-william-sutton"`।
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/sublime-merge-tutorial/sm-branch.png" alt="name your branch" />
 
-## आवश्यक बदलाव करें और बदलावों को कमिट करें
+## ज़रूरी बदलाव करें और उन्हें कमिट करें
 
-अब `Contributors.md` फ़ाइल किसी टेक्स्ट एडिटर में खोलें और अपना नाम इसमें जोड़ें, फिर फ़ाइल को सेव करें।
+अब `Contributors.md` फ़ाइल को किसी टेक्स्ट एडिटर में खोलें और अपना नाम जोड़ें, फिर फ़ाइल सेव करें।
 
-अगर आपकी रिपॉजिटरी सब्लाइम मर्ज में खुली है तो आपको बदलाव दिखाई देंगे।  
-सबसे ऊपर नया कमिट चुनें, जिसका नाम "x unstaged files" होगा।  
-बदले गए फ़ाइलों की समीक्षा करें और तय करें कि कौन से बदलाव को स्टेज करना है।  
-कमिट संदेश दें ("Add <your-name> to Contributors list" अच्छा और स्पष्ट लगता है)।  
-जब आप अपने बदलावों से संतुष्ट हों तो उन फ़ाइलों को स्टेज करें। आप एक-एक फाइल को स्टेज कर सकते हैं या "stage all" चुन सकते हैं। स्टेजिंग गिट को बताने के लिए ज़रूरी है कि किस फाइल के बदलाव कमिट में शामिल होने हैं।
+यदि रिपॉज़िटरी Sublime Merge में खुली है, तो आप बदलाव देख पाएँगे।
+ऊपर सबसे नए सेक्शन **"x unstaged files"** को चुनें।
+जिन फ़ाइलों में बदलाव हुआ है उन्हें देखें और तय करें कि क्या स्टेज करना है।
+कमिट संदेश दें (उदाहरण: `"Add <your-name> to Contributors list"` — यह स्पष्ट और अच्छा है)।
+जब आप बदलावों से संतुष्ट हों, तो फ़ाइल-दर-फ़ाइल स्टेज करें या **"stage all"** चुनें। स्टेज करना ज़रूरी है ताकि Git जान सके कि इस कमिट में कौन-से बदलाव शामिल करने हैं।
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/sublime-merge-tutorial/sm-stage.png" alt="stage your changes" />
 
-अगर आपने मन बदला तो आप स्टेजिंग हटा सकते हैं या सारे बदलावों को छोड़ भी सकते हैं।  
-चेतावनी: डिस्कार्ड करना एक विनाशकारी ऑपरेशन है। इसे तभी करें जब आप बदलाव नहीं रखना चाहते।
+यदि मन बदल जाए, तो बदलावों को **unstage** कर सकते हैं या पूरी तरह **discard** भी कर सकते हैं।  
+**चेतावनी:** Discard का मतलब बदलावों को स्थायी रूप से हटाना है। इसे तभी करें जब आपको वे बदलाव बिल्कुल नहीं चाहिएँ।
 
-कमिट करें, अपना यूजरनेम और ईमेल डालें और अपडेट पर क्लिक करें।  
-फिर से कमिट करें।
+**Commit** पर क्लिक करें, अपना यूज़रनेम और ईमेल दर्ज करें और **Update** दबाएँ।
 
-बधाई हो, आपने अपने लोकल कॉपी पर सारे बदलाव कमिट कर दिए हैं।
+फिर से **Commit** पर क्लिक करें।
 
-## गिटहब पर बदलाव पुश करें
+बधाई! आपने अपनी फोर्क की हुई रिपॉज़िटरी की अपनी ब्रांच पर स्थानीय रूप से सारे बदलाव कमिट कर दिए हैं। आगे बढ़ते हैं!
 
-Repository -> Push पर जाएं  
-या ऊपर दाईं तरफ की छोटी तीर पर क्लिक करें।
+## बदलाव GitHub पर पुश करें
+
+**Repository -> Push** पर जाएँ  
+या ऊपर दाएँ कोने में ऊपर की ओर तीर वाले छोटे आइकन पर क्लिक करें।
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/sublime-merge-tutorial/sm-login.png" alt="login" />
 
-गिटहब अकाउंट में यूजरनेम और पासवर्ड से लॉगिन करें।
+अपने GitHub अकाउंट में यूज़रनेम और पासवर्ड से लॉगिन करें।
 
-अगर आपने मास्टर ब्रांच में सीधे बदलाव करना है तो origin ब्रांच पर बदलाव सबमिट करें, या फिर अपनी शाखा चुन कर पुश करें।
+यदि आप चाहते हैं कि बदलाव सीधे master (या default) ब्रांच में दिखें, तो **origin** की वही ब्रांच चुनकर पुश करें; अन्यथा जिस उपयुक्त ब्रांच पर पुश करना है उसे चुनें।
 
-## बदलाव समीक्षा के लिए सबमिट करें
+## अपने बदलाव समीक्षा के लिए सबमिट करें
 
-गिटहब पे अपनी रिपॉजिटरी पर जाएं, आपको 'Compare & pull request' बटन दिखेगा। उस पर क्लिक करें।
+GitHub पर अपनी रिपॉज़िटरी में जाएँ — आपको **`Compare & pull request`** बटन दिखेगा। उस पर क्लिक करें।
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/sublime-merge-tutorial/compare-and-pull.png" alt="create a pull request" />
 
@@ -97,17 +95,17 @@ Repository -> Push पर जाएं
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/sublime-merge-tutorial/submit-pull-request.png" alt="submit pull request" />
 
-जल्द ही मैं सभी बदलावों को मास्टर ब्रांच में मर्ज कर दूंगा। मर्ज हो जाने के बाद आपको ईमेल नोटिफिकेशन मिलेगा।
+जल्द ही आपके बदलाव इस प्रोजेक्ट की master ब्रांच में मर्ज कर दिए जाएँगे। मर्ज होने पर आपको ईमेल नोटिफ़िकेशन मिल जाएगा।
 
-## अब आगे कहाँ जाएं?
+## आगे क्या?
 
-बधाई हो! आपने standard _fork -> clone -> edit -> PR_ वर्कफ़्लो पूरा कर लिया है, जिसे आप अक्सर योगदान के दौरान देखेंगे!
+शाबाश! आपने एक योगदानकर्ता के रूप में अक्सर मिलने वाले मानक वर्कफ़्लो — _fork -> clone -> edit -> PR_ — को पूरा कर लिया है!
 
-अपने योगदान का जश्न मनाएं और इसे अपने दोस्तों और फॉलोअर्स के साथ [वेब ऐप](https://firstcontributions.github.io#social-share) पर शेयर करें।
+अपने योगदान का जश्न मनाएँ और अपने दोस्तों व फ़ॉलोअर्स के साथ शेयर करें: [web app](https://firstcontributions.github.io#social-share)।
 
-अगर आपको मदद चाहिए या कोई सवाल है तो आप हमारे स्लैक टीम में शामिल हो सकते हैं। [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
+अगर आपको मदद चाहिए या कोई सवाल है, तो हमारे Slack टीम से जुड़ें: [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)।
 
 ### [अतिरिक्त सामग्री](../additional-material/git_workflow_senarios/additional-material.md)
 
-## अन्य टूल्स के साथ ट्यूटोरियल  
-[मुख पृष्ठ पर वापस जाएं](https://github.com/firstcontributions/first-contributions#tutorials-using-other-tools)
+## अन्य टूल्स के साथ ट्यूटोरियल्स
+[मुख्य पृष्ठ पर वापस जाएँ](https://github.com/firstcontributions/first-contributions#tutorials-using-other-tools)
