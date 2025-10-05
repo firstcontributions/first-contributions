@@ -48,6 +48,7 @@
 - [Shriya Mohanty](https://github.com/shriya5752)
 - [Kazzpars](https://github.com/rid-acrh238)
 - [Aman Gupta](https://github.com/Aman071106)
+- [Wagner Andrade](https://github.com/andradewagner)
 - [Ndeye Sermy Mergane](https://github.com/Ndeye1000)
 - [Emmanuel Zelaya-Armenta](https://github.com/Emmanuel-ZA)
 - [Vaishnavi Parodkar](https://github.com/vaishnavi-parodkar)
