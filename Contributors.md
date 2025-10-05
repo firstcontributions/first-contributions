@@ -677,6 +677,7 @@
 - [ShatnauTSA](https://github.com/shantanuTSA)
 - [Shun Khaing](https://github.com/shunkhaing)
 - [Siddhant Y](https://github.com/megastore21)
+- [Sai Sravya Thumati](https://github.com/Sai-Sravya-Thumati)
 - [Sidhant Naik](https://github.com/Sidnaik04)
 - [Stelios Gee](https://github.com/SteliosGee)
 - [Steve Yadav](https://github.com/lucifer47C)
