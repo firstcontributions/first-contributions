@@ -1324,3 +1324,4 @@ Amirreza Salimzadeh
 - [Sri Vaishnav Vutukuri](https://github.com/srithedesigner)
 - [Aryan Gupta](https://github.com/aryang2377)
 - [Ugesh Praavin D](https://github.com/Ugesh-Praavin)
+- [Akash Thakur](https://github.com/Akash9541)
