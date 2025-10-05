@@ -10,27 +10,27 @@ C'est toujours compliqué la première fois que l'on fait quelque chose. La peur
 
 Lire des articles et des tutoriels peut aider, mais qu'y a-t-il de mieux que d'essayer sans pouvoir faire d'erreurs ? Ce projet a pour ambition de fournir des conseils et simplifier la manière dont les apprentis font leur première contribution. Souvenez-vous : plus vous êtes serein, mieux vous apprenez. Si vous aspirez à faire votre première contribution, suivez tout simplement les étapes suivantes. Promis, ce sera amusant.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="embrancher ce repertoire" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="forker ce repertoire" />
 
-Si vous n'avez pas git sur votre ordinateur, [ installez-le ]( https://help.github.com/articles/set-up-git/ ).
+Si vous n'avez pas encore Git installé sur votre machine, [ installez-le ]( https://help.github.com/articles/set-up-git/ ).
 
-## Embranchez ce répertoire (aussi appelé un Fork)
+## Faire un fork de ce dépôt
 
-Embranchez ce répertoire en cliquant sur le bouton de fork en haut de la page.
-Cela va créer une copie du répertoire sur votre compte.
+Forkez ce dépôt en cliquant sur le bouton *fork* en haut de cette page.
+Cela créera une copie de ce dépôt dans votre propre compte GitHub
 
 ## Clonez ce répertoire
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clonez ce répertoire" />
 
-Maintenant, clonez ce répertoire sur votre ordinateur. Cliquez sur le bouton clone puis cliquez sur l'icône *copier dans le presse-papier*.
+Maintenant, clonez ce répertoire sur votre ordinateur. Allez sur votre compte GitHub, ouvrez le dépôt forké, cliquez sur le bouton *Code*, puis sur l’onglet *SSH* et enfin sur l’icône *copier dans le presse-papiers*.
 
-Ouvrez une invite de commande (si vous êtes sous Windows) ou un terminal (si vous êtes sous MacOS ou Linux) et exécutez les commandes git suivantes :
+Ouvrez une invite de commande (si vous êtes sous Windows) ou un terminal (si vous êtes sous MacOS ou Linux) et exécutez la commande git suivante :
 
 ```
 git clone "l'url que vous venez de copier"
 ```
-où "l'url que vous venez de copier" (sans les guillemets) est l'url du répertoire. Voir la section précédente afin d'obtenir l'url.
+où "l'url que vous venez de copier" (sans les guillemets) est l'url du dépôt forké. Revoir les étapes précédentes pour obtenir l’URL exacte.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copier l'URL dans le presse-papier" />
 
@@ -38,7 +38,7 @@ Par exemple :
 ```
 git clone https://github.com/votre-nom-d-utilisateur/first-contributions.git
 ```
-où `votre-nom-d-utilisateur` est votre nom d'utilisateur GitHub. Ici vous êtes en train de copier le contenu du répertoire `first-contributions` depuis GitHub sur votre ordinateur.
+où `votre-nom-d-utilisateur` est votre nom d'utilisateur GitHub. Ici vous êtes en train de copier le contenu du dépôt `first-contributions` depuis GitHub sur votre ordinateur.
 
 ## Créez une branche
 
@@ -56,42 +56,77 @@ Par exemple :
 ```
 git checkout -b add-koffi-sani
 ```
-(Le nom de la branche n'a pas besoin de contenir le terme *add*, mais c'est raisonnable de l'inclure parce que l'objectif de cette branche est d'ajouter votre nom à une liste.)
+(Le nom de la branche n'a pas besoin de contenir le terme *add*, mais il est mieux de l'inclure car l'objectif de cette branche est d'ajouter votre nom à une liste.)
 
-## Effectuez les modifications nécessaires et engagez-les
+<details> <summary> <strong>Si vous rencontrez une erreur avec git switch, cliquez ici :</strong> </summary>
+Si le message "Git: switch is not a git command. See git –help" s’affiche, c’est probablement parce que vous utilisez une ancienne version de Git.
 
-Maintenant, ouvrez le fichier `Contributors.md` dans un éditeur de texte, ajoutez-y votre nom, et enregistrez-le. Si vous ouvrez l'invite de commande et vous exécutez la commande  `git status`, vous verrez qu'il y a des modifications. Ajoutez ces modifications à la branche que vous venez de créer avec la commande  `git add` :
+Dans ce cas, essayez plutôt :
+
+```
+git checkout -b nom-de-ta-nouvelle-branche
+```
+</details>
+
+## Effectuez les modifications nécessaires et enregistrez-les
+
+Ouvrez le fichier `Contributors.md` dans un éditeur de texte, ajoutez-y votre nom, et enregistrez-le. Ne l’ajoutez pas au début ou à la fin du fichier, mais quelque part au milieu.
+
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+
+Si vous ouvrez l'invite de commande et que vous exécutez la commande  `git status`, vous verrez qu'il y a des modifications. Ajoutez ces modifications à la branche que vous venez de créer avec la commande  `git add` :
 ```
 git add Contributors.md
 ```
 
-Maintenant engagez ces modifications avec la commande `git commit`:
+Maintenant faites un commit de ces modifications avec la commande `git commit`:
 ```
 git commit -m "Add <votre-nom> to Contributors list"
 ```
 en remplaçant `<votre-nom>` par votre nom.
 
-## Poussez les modifications vers GitHub
+## Envoyez les modifications vers GitHub
 
 Poussez vos modifications avec la commande `git push` :
 ```
-git push origin <add-votre-nom>
+git push -u origin <nom-de-votre-branche>
 ```
-en remplaçant `<add-votre-nom>` avec le nom de la branche précédemment créée.
+en remplaçant `<nom-de-votre-branche>` avec le nom de la branche précédemment créée.
 
-## Soumettez vos changements pour révision
+<details> <summary> <strong>Si tu obtiens une erreur au moment de pousser, clique ici :</strong> </summary>
 
-Si vous visitez votre répertoire sur Github, vous verrez un bouton  `Compare & pull request`.  Cliquez sur ce bouton.
+- ### Erreur d’authentification
+<pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead. remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information. fatal: Authentication failed for 'https://github.com/<ton-nom-utilisateur>/first-contributions.git/'</pre>
+Suivez le tutoriel GitHub pour générer et configurer une clé SSH sur votre compte.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+Vous pouvez également exécuter git remote -v pour vérifier votre adresse distante.
 
-Maintenant soumettez la demande de tirage.
+Si elle ressemble à ceci :
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<pre>origin https://github.com/ton-nom-utilisateur/ton_repo.git (fetch) origin https://github.com/ton-nom-utilisateur/ton_repo.git (push)</pre>
+Modifiez-la avec cette commande :
 
-Sous peu j'aurai fusionné toutes vos modifications avec la branche main de ce projet. Vous recevrez un mail de notification dès que la fusion sera effectuée.
+```
+git remote set-url origin git@github.com:ton-nom-utilisateur/ton_repo.git
+```
+Sinon, vous continuerez de devoir entrer votre mot de passe et vous obtiendrez une erreur d’authentification.
 
-La branche main de votre embranchement ne subira pas de modification à cet instant. Pour que votre embranchement soit synchronisé avec le mien, suivez les étapes suivantes.
+</details>
+
+## Soumettez votre contribution pour révision
+
+Si vous vous rendez sur votre répertoire sur Github, vous verrez un bouton  `Compare & pull request`.  Cliquez dessus.
+
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="créer une pull request" />
+
+Soumettez ensuite la *pull request*.
+
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="soumettre une pull request" />
+
+Je fusionnerai bientôt vos modifications dans la branche principale du projet.
+Vous recevrez un e-mail de confirmation une fois que ce sera fait.
+
+La branche main de votre dépôt forké ne subira pas de modification. Pour que votre dépôt soit synchronisé avec le mien, suivez les étapes suivantes.
 
 ## Gardez votre embranchement synchronisé avec ce répertoire
 
@@ -113,13 +148,13 @@ Ici nous cherchons toutes les modifications dans mon embranchement (upstream rem
 ```
 git rebase upstream/main
 ```
-Ici nous appliquons toutes les modifications que vous avez cherché à la branche main. Si vous poussez la branche main maintenant, votre embranchement aussi aura les modifications :
+Ici nous appliquons toutes les modifications que vous avez récupéré à la branche main. Si vous poussez la branche main maintenant, votre embranchement aussi aura les modifications :
 ```
 git push origin main
 ```
-Avertissement: Cette fois, vous poussez au répertoire distant appelé origin.
+Avertissement: Cette fois, vous poussez les modifications au répertoire distant appelé origin.
 
-A ce niveau j'ai fusionné votre branche  `<add-votre-nom>` avec ma branche main, et vous avez fusionné ma branche main avec votre branche main. Votre branche `<add-votre-nom>` n'est plus utile, donc vous pouvez la supprimer :
+A cet instant j'ai fusionné votre branche  `<add-votre-nom>` avec ma branche main, et vous avez fusionné ma branche main avec votre branche main. Votre branche `<add-votre-nom>` n'est plus utile, donc vous pouvez la supprimer :
 ```
 git branch -d <add-votre-nom>
 ```

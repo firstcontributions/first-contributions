@@ -1,7 +1,6 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 
 # 第一次參與開源
 
@@ -86,7 +85,7 @@ git push origin <add-your-name>
 將 `<add-your-name>` 替換為之前新建的分支名稱。
 
 <details>
-<summary> <strong>如果在 push（發佈）过程中出 error（錯誤），點擊這裡</strong> </summary>
+<summary> <strong>如果在 push（發佈）過程中出 error（錯誤），點擊這裡</strong> </summary>
 
 - ### Authentication Error
      <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
