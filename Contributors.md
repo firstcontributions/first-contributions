@@ -5,6 +5,7 @@
 - [vyshnavi raj] (https://github.com/vyshnaviraj)
 - [Nirbhay Bawankule](https://github.com/NirbhayBawankule)
 - [Ashutosh] (https://github.com/Ashutosh9470)
+- [Leonardo Garzon] (https://github.com/Leonardo-Garzon-1995)
 - [Shubhanshu](https://github.com/shbhansh66)
 - [Rudresh Suryawanshi](https://github.com/Rudresh-11)
 - [Clement Zentz](https://github.com/clement-zentz)
