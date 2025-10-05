@@ -234,6 +234,30 @@ If you'd like more practice, checkout [code contributions](https://github.com/ro
 
 Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
 
+## 💡 First-Time Contributor Tips
+
+Feeling nervous about your first real contribution? That's completely normal! Here are some reassuring tips:
+
+### What to Expect After Your First PR
+- **Don't panic if changes are requested** - Maintainers are there to help you improve, not to criticize
+- **Response time varies** - Some projects respond in hours, others may take days or weeks
+- **Feedback is a good sign** - It means maintainers are engaged and want to help you succeed
+- **Multiple rounds of review are normal** - Even experienced developers rarely get PRs merged on the first try
+
+### Before You Contribute
+- **Read the project's CONTRIBUTING.md** - Every project has different guidelines
+- **Start small** - Look for issues labeled "good first issue" or "beginner-friendly"
+- **Test your changes locally** - Make sure everything works before submitting
+- **Write clear commit messages** - Help maintainers understand what you've changed
+
+### Communication Etiquette
+- **Be patient and respectful** - Maintainers are often volunteers with limited time
+- **Say thank you** - Show appreciation for the maintainer's time and guidance
+- **Ask questions if you're stuck** - The community wants to help you learn
+- **Follow up appropriately** - If there's no response after a week, a polite follow-up is okay
+
+Remember: Every expert was once a beginner. The open source community thrives on helping newcomers grow! 🌱
+
 ### [Additional material](docs/additional-material/git_workflow_scenarios/additional-material.md)
 
 ## Tutorials Using Other Tools
