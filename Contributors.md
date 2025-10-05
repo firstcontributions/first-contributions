@@ -1333,5 +1333,6 @@
 - [Ugesh Praavin D](https://github.com/Ugesh-Praavin)
 - [Sahil Motiramani](https://github.com/SahilMotiramani)
 - [Akash Thakur](https://github.com/Akash9541)
+- Dang Thien Chuong
 - [Rajat](https://github.com/Rajat-44)
 - [nemdull](https://github.com/nemdull)
