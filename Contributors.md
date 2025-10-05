@@ -11,6 +11,7 @@
 - [Clement Zentz](https://github.com/clement-zentz)
 - [Fred](https://github.com/kipkemoifred)
 - [Sahil Gurjar][https://github.com/SG2407]
+- [Vardhan](https://github.com/Chintha-vardhan)
 - [Prince Yadav](https://github.com/warrior-hub)
 - [Kyra (kyrazzx)](https://github.com/kyrazzx)
 -[sachinandan yadav](https://github.com/sachinandan-05)
