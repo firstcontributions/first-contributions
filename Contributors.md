@@ -1,5 +1,6 @@
 # Contributors
 - [Utkarsh Upreti] (https://www.github.com/K4rsh)
+- [Zaid Qtaish](https://github.com/ZaidQtaish)
 - [Raja Rathour](https://github.com/Raja-89)
 - [Viraj Hudlikar](https://github.com/vhudlikar)
 - [Muhammad Raza](https://github.com/RazaJavaid2004)
@@ -22,6 +23,10 @@
 - [Amadou Kebe](https://github.com/AmadouLKebe)
 - [baldlow](https://github.com/baldlow) -[Mohit Kumar](https://github.com/MateeRixx)
 - [Pygame17](https://github.com/Pygame17)
+- [Jonatan Rosali](https://github.com/JonatanRosali)
+- [Jason Herman](https://github.com/Everblade)
+- [Jason Ephraim Tjiunardi](https://github.com/jasontjiunardi)
+- [Thaiyal Bagam Sanjeev](https://github.com/SugarCrash2077)
 - [Mohamednishar J](https://github.com/nisharj)
 - [anshuman](https://github.com/sahayanshuman2005)
 - [Anubhav Saha](https://github.com/anubhavtogit)
@@ -1227,6 +1232,7 @@
 - [Jack](https://github.com/jackliDev)
 - [puchan-s](https://github.com/puchan-s/first-contributions)
 - [Hiruna Panditha](https://github.com/Hiruna-SP)
+- [nemdull](https://github.com/nemdull)
 - [tomasbennett](https://github.com/tomasbennett)
 - [Rahmatulloh Ibrohim](https://github.com/raxmatulloxswe/)
 - [Kostiantyn Semenenko](https://github.com/NureSemenenkoKostiantyn)
@@ -1325,6 +1331,8 @@
 - [Sri Vaishnav Vutukuri](https://github.com/srithedesigner)
 - [Aryan Gupta](https://github.com/aryang2377)
 - [Ugesh Praavin D](https://github.com/Ugesh-Praavin)
+- [Sahil Motiramani](https://github.com/SahilMotiramani)
 - [Akash Thakur](https://github.com/Akash9541)
--[Sahil Motiramani](https://github.com/SahilMotiramani)
--[Rajat](https://github.com/Rajat-44)- Dang Thien Chuong
+- Dang Thien Chuong
+- [Rajat](https://github.com/Rajat-44)
+- [nemdull](https://github.com/nemdull)
