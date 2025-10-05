@@ -1,7 +1,8 @@
 # Contributors
-
+- [Utkarsh Upreti] (https://www.github.com/K4rsh)
 - [Raja Rathour](https://github.com/Raja-89)
 - [Viraj Hudlikar](https://github.com/vhudlikar)
+- [Muhammad Raza](https://github.com/RazaJavaid2004)
 - [vyshnavi raj] (https://github.com/vyshnaviraj)
 - [Nirbhay Bawankule](https://github.com/NirbhayBawankule)
 - [Ashutosh] (https://github.com/Ashutosh9470)
@@ -13,8 +14,7 @@
 - [Sahil Gurjar][https://github.com/SG2407]
 - [Vardhan](https://github.com/Chintha-vardhan)
 - [Prince Yadav](https://github.com/warrior-hub)
-- [Kyra (kyrazzx)](https://github.com/kyrazzx)
--[sachinandan yadav](https://github.com/sachinandan-05)
+- [Kyra (kyrazzx)](https://github.com/kyrazzx) -[sachinandan yadav](https://github.com/sachinandan-05)
 - [Md Khalid Hasan Ansari]
 - [Ankit Singh] (https://github.com/ANKITsingh-git2)
 - [Wilmer Gulcochia](https://github.com/wigsdev)
@@ -26,6 +26,7 @@
 - [anshuman](https://github.com/sahayanshuman2005)
 - [Anubhav Saha](https://github.com/anubhavtogit)
 - [Huỳnh Quốc Đạt](https://github.com/HuynhQuocDat-04)
+- [Masanadurai](https://github.com/Masanadurai007)
 - [Đặng Hoàng Phúc](https://github.com/phuc220793-cpu)
 - [Chien Minh](https://github.com/chien226674-afk)
 - [Tudor Caseru](https://github.com/theoriginaltudor)
@@ -1311,7 +1312,7 @@
 - [Phạm Ngọc Hòa](https://github.com/teaplusottp)
 - [Jeevitha D S](https://github.com/JeevithaDS10)
 - [Fabian Banks](https://github.com/fbank68)
-Amirreza Salimzadeh
+  Amirreza Salimzadeh
 - [Carraigh](https://github.com/Carraigh)
 - [toomboom](https://github.com/toomboom)
 - [Muthu Saravanan](https://github.com/MUTHUSARAVANAN5102)
@@ -1324,4 +1325,6 @@ Amirreza Salimzadeh
 - [Sri Vaishnav Vutukuri](https://github.com/srithedesigner)
 - [Aryan Gupta](https://github.com/aryang2377)
 - [Ugesh Praavin D](https://github.com/Ugesh-Praavin)
--[Sahil Motiramani](https://github.com/SahilMotiramani)
+- [Sahil Motiramani](https://github.com/SahilMotiramani)
+- [Akash Thakur](https://github.com/Akash9541)
+- [Rajat](https://github.com/Rajat-44)
