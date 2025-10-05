@@ -1302,4 +1302,5 @@
 - [toomboom](https://github.com/toomboom)
 - [Muthu Saravanan](https://github.com/MUTHUSARAVANAN5102)
 - [Mayuresh Surve](https://github.com/amimayo)
+- [Mateus Zaparoli](https://github.com/mateuszaparoli)
 - [Akarsh Tiwari](https://github.com/HyperionAKKI)
