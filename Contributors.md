@@ -1230,6 +1230,7 @@
 - [sithananthan](https://github.com/sithananthan)
 - [square-story](https://github.com/square-story)
 - [Jack](https://github.com/jackliDev)
+- [Khadija](https://github.com/khzouhair)
 - [puchan-s](https://github.com/puchan-s/first-contributions)
 - [Hiruna Panditha](https://github.com/Hiruna-SP)
 - [nemdull](https://github.com/nemdull)
