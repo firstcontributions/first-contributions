@@ -453,6 +453,7 @@ Rajnish Kumar Dubey
 - [Kimjunseoo](https://github.com/kimjunseoo)
 - [Koichi-Kodama](https://github.com/Kytoshi)
 - [KristinnTh](https://github.com/KristinnTh)
+- [nellai-m](https://github.com/nellai-m)
 - [Loic Hounyovi](https://github.com/mechakc)
 - [Luiz Augusto](https://github.com/Luizxdas)
 - [Luís Simas](https://github.com/luissimas)
