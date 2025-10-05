@@ -1,5 +1,6 @@
 # Contributors
 - [Utkarsh Upreti] (https://www.github.com/K4rsh)
+- [Zaid Qtaish](https://github.com/ZaidQtaish)
 - [Raja Rathour](https://github.com/Raja-89)
 - [Viraj Hudlikar](https://github.com/vhudlikar)
 - [Muhammad Raza](https://github.com/RazaJavaid2004)
