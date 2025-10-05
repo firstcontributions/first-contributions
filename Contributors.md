@@ -2,6 +2,7 @@
 
 - [Raja Rathour](https://github.com/Raja-89)
 - [Viraj Hudlikar](https://github.com/vhudlikar)
+- [Muhammad Raza](https://github.com/RazaJavaid2004)
 - [vyshnavi raj] (https://github.com/vyshnaviraj)
 - [Nirbhay Bawankule](https://github.com/NirbhayBawankule)
 - [Ashutosh] (https://github.com/Ashutosh9470)
