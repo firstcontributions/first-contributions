@@ -294,6 +294,7 @@
 - [Görkem](https://github.com/gorkemozsari)
 - [Harrison Noe](https://github.com/harr-3d)
 - [Harsh Kaushik](https://github.com/hrk022)
+- [Harsh Singh](https://github.com/singhharsh29)
 - [HighPoly](https://github.com/HighPolygon)
 - [Ian McManus](https://github.com/ianmcman)
 - [Jose Soto] (https://github.com/jossotriv)
