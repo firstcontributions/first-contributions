@@ -9,8 +9,7 @@
 - [Fred](https://github.com/kipkemoifred)
 - [Sahil Gurjar][https://github.com/SG2407]
 - [Prince Yadav](https://github.com/warrior-hub)
-- [Kyra (kyrazzx)](https://github.com/kyrazzx)
--[sachinandan yadav](https://github.com/sachinandan-05)
+- [Kyra (kyrazzx)](https://github.com/kyrazzx) -[sachinandan yadav](https://github.com/sachinandan-05)
 - [Md Khalid Hasan Ansari]
 - [Ankit Singh] (https://github.com/ANKITsingh-git2)
 - [Wilmer Gulcochia](https://github.com/wigsdev)
@@ -22,6 +21,7 @@
 - [anshuman](https://github.com/sahayanshuman2005)
 - [Anubhav Saha](https://github.com/anubhavtogit)
 - [Huỳnh Quốc Đạt](https://github.com/HuynhQuocDat-04)
+- [Masanadurai](https://github.com/Masanadurai007)
 - [Đặng Hoàng Phúc](https://github.com/phuc220793-cpu)
 - [Chien Minh](https://github.com/chien226674-afk)
 - [Tudor Caseru](https://github.com/theoriginaltudor)
@@ -1306,7 +1306,7 @@
 - [Phạm Ngọc Hòa](https://github.com/teaplusottp)
 - [Jeevitha D S](https://github.com/JeevithaDS10)
 - [Fabian Banks](https://github.com/fbank68)
-Amirreza Salimzadeh
+  Amirreza Salimzadeh
 - [Carraigh](https://github.com/Carraigh)
 - [toomboom](https://github.com/toomboom)
 - [Muthu Saravanan](https://github.com/MUTHUSARAVANAN5102)
