@@ -998,6 +998,7 @@
 - [Nishant](https://github.com/nishant-khatri17)
 - [OBLI B VIKRAM](https://github.com/Vikramobli)
 - [Omer Cohen](https://github.com/OmerCohen7530)
+- [Luis Osena](https://github.com/luisosena)
 - [Oriana Galindez](https://github.com/malibu54)
 - [Parker Crook](https://github.com/parkercrook)
 - [Parth Sivakumar](https://github.com/Parth-sk)
