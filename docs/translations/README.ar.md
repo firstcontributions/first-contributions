@@ -28,7 +28,7 @@
 
 <img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 <div dir="rtl">
-أنشئ تفرّعًا من هذا المشروع بالضغط على زر Fork في أعلى الصفحة.
+أنشئ تفرّعًا من هذا المشروع بالضغط على زر Fork في أعلى هذه الصفحة.
 من خلال ذلك ستنشأ نسخة من هذا المشروع على حسابك الخاص.
 </div>
 
