@@ -121,7 +121,10 @@ git push origin <add-your-name>
 
 在[這個網站](https://firstcontributions.github.io/#social-share)慶祝妳/你的成就並跟朋友及追隨者分享。
 
-你可以瀏覽我們的 [Code Contributions Repository](https://github.com/firstcontributions/first-contributions) 來找尋更多可以參與的專案。
+現在讓我們一起為其他專案做出貢獻吧！
+
+我們整理了一份有簡單議題的專案清單來幫助你開始貢獻。  
+[前往 CodeTriage 網站，繼續你的開源之旅](https://www.codetriage.com/)
 
 
 現在就動手為其他專案貢獻你/妳的心力。我們整理了一個清單，裡面的專案都有簡單的議題可以著手。[去看看吧！](https://firstcontributions.github.io/#project-list)
