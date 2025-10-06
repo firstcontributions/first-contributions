@@ -726,6 +726,7 @@
 - [Syed Muqeet](https://github.com/muqeetsyed)
 - [Taha Tariq](https://github.com/tahatariq19)
 - [Thrilochan](https://github.com/thrilochan7)
+- [Gabriel Gomez](https://github.com/GabrielGomezGG)
 - [Tzipi W](https://github.com/Tzipi-Winefeld)
 - [Umer Aslam](https://github.com/umeraslam00)
 - [Uttej Dunga](https://github.com/uttejdunga)
