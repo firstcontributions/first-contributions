@@ -1371,6 +1371,7 @@ Rajnish Kumar Dubey
 - Dang Thien Chuong
 - [Rajat](https://github.com/Rajat-44)
 - [nemdull](https://github.com/nemdull)
+- [Srujan Gowda] (https://github.com/srujangowda14)
 - [morgen-code](https://github.com/morgen-code)
 - [Ikshwak](https://github.com/KingReapermax)
 - [Mahesh B A](https://github.com/maheshba898-maker)
