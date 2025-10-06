@@ -1180,6 +1180,7 @@ Rajnish Kumar Dubey
 - [Noah Petzinger](https://github.com/Jimegroxak)
 - [Omar Atakishiyev](https://github.com/NeonWest)
 - [Oscar A. Virguez](https://github.com/oscar243)
+- [Vedant Kapoor](https://github.com/vedkap26)
 - [Osman Aslan](https://github.com/osmanaslann01)
 - [Palak Pimpalkar](https://github.com/Palak0705)
 - [PandaDev0069](https://github.com/PandaDev0069)
