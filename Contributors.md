@@ -57,6 +57,7 @@
 - [mansoorahmad-47](https://github.com/mansoorahmad-47)
 - [anshuman](https://github.com/sahayanshuman2005)
 - [Anubhav Saha](https://github.com/anubhavtogit)
+- [Daniela Gallegos Dupuis](https://github.com/danigallegdup)
 - [Rohan Linga](http://github.com/R0hanL1nga)
 - [Huỳnh Quốc Đạt](https://github.com/HuynhQuocDat-04)
 - [Masanadurai](https://github.com/Masanadurai007)
