@@ -9,6 +9,7 @@
 - [Nithurshen Karthikeyan] (https://github.com/nithurshen)
 - [Utkarsh Upreti] (https://www.github.com/K4rsh)
 - [Zaid Qtaish](https://github.com/ZaidQtaish)
+- [Aman Bajpai](https://github.com/Aman-bajpai)
 - [deepak mishra(https://github.com/BEPAWSITIVE)]
 - [Dhayanithi s r](https://github.com/its-dhaya)
 - [Raja Rathour](https://github.com/Raja-89)
