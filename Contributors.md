@@ -297,6 +297,7 @@ Rajnish Kumar Dubey
 - [Deepith N](https://github.com/deepith-18)
 - [Dev Chagas](https://github.com/devchagas)
 - [Devi Patil](https://github.com/Devipatil)
+- [Ankitha Malle](https://github.com/Ankitha-M06).
 - [Devin Rand](https://github.com/devinrand)
 - [Devna jiya R](https://github.com/jiya22r)
 - [Dhairya Dev](https://github.com/hamzak51)
