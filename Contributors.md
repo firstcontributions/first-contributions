@@ -1,6 +1,7 @@
 # Contributors
 
 - [Smit Patel] (https://github.com/jayambe36)
+- [Kavindu Udara] (https://github.com/kavindu-udara)
 - [Nazeer Shaikh] (https://github.com/nash226)
 - [Mohit Bansal] (https://github.com/WorkMohit17)
 - [ِAhmed Elsherif] (https://github.com/ahmedelsherif-osama)
@@ -13,6 +14,7 @@
 - [deepak mishra(https://github.com/BEPAWSITIVE)]
 - [Dhayanithi s r](https://github.com/its-dhaya)
 - [Raja Rathour](https://github.com/Raja-89)
+- [Michael Wright](https://github.com/lumberjackwizard)
 - [Viraj Hudlikar](https://github.com/vhudlikar)
 - [Kishita Deotale](https://github.com/kishitadeotale24)
 - [Muhammad Raza](https://github.com/RazaJavaid2004)
@@ -884,6 +886,7 @@
 - [Torben Kahnert](https://github.com/tmak2002)
 - [UncleObinna](https://github.com/UncleObinna)
 - [Vaibhav0725](https://github.com/vaibhav0725)
+- [7Kruk7](https://github.com/7Kruk7)
 - [Vaibhav](https://github.com/vaibhavsanap112)
 - [Varun Sharma](https://github.com/varunsh20/)
 - [Vicente Guzmán](https://vicenteguzman.com/)
