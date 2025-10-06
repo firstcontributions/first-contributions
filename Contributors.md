@@ -1348,6 +1348,7 @@ Rajnish Kumar Dubey
 - [Amir Yasaei](https://github.com/amiryasaei)
 - [Idris Rasaq Akande](https://github.com/gentlerhiz)
 - [John Ziska](https://github.com/kingcoco42)
+- [Chihiro Takeuchi](https://github.com/HennesyChihiro)
 - [Sunday P. Afolabi](https://github.com/Lecon-a)
 - [Zulfiqar Silmy S](https://github.com/Fiqqar)
 - [Pobitro Bhattacharya](https://github.com/Pobitro-B)
