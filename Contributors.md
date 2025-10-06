@@ -1382,6 +1382,7 @@ Rajnish Kumar Dubey
 - [SantiagoBH](https://github.com/SantiagoBH/)
 - [Prashant jha](https://github.com/interstellarpi07)
 - [Tanya Thakur](https://github.com/23f2002932)
+- [Tanisha Prabhu](https://github.com/tanprabhu)
 - [Ken Kipchumba](https://github.com/kypchumba)
 - [Vedha](https://github.com/Vedha585)
 - [TODO](https://github.com/TDM712)
