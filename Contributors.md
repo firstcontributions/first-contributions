@@ -1,4 +1,5 @@
 # Contributors
+- [Smit Patel] (https://github.com/jayambe36)
 - [Manasvi Jain] (https://github.com/MJ-thunder)
 - [Satyam Kumar Jha] (https://github.com/satyam536)
 - [Nithurshen Karthikeyan] (https://github.com/nithurshen)
