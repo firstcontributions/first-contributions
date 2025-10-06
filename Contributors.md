@@ -1,5 +1,4 @@
 # Contributors
-
 - [Smit Patel] (https://github.com/jayambe36)
 - [Nazeer Shaikh] (https://github.com/nash226)
 - [Manasvi Jain] (https://github.com/MJ-thunder)
@@ -75,7 +74,7 @@
 - [Zohaib](https://github.com/Iamzohaibali)
 - [Frank Anthony](https://github.com/FrankLayza)
 - [Rahpeal Lee](https://github.com/nativeengineer)
-  Rajnish Kumar Dubey
+Rajnish Kumar Dubey
 - [Purbasha Mitra](https://github.com/PurbashaMitra)
 - [Furanimus](https://github.com/Furanimus)
 - [Saugat Giri](https://github.com/saugat1070)
@@ -1376,5 +1375,5 @@
 - [SantiagoBH](https://github.com/SantiagoBH/)
 - [Prashant jha](https://github.com/interstellarpi07)
 - [Tanya Thakur](https://github.com/23f2002932)
-- [Ken Kipchumba] (https://github.com/kypchumba)
-- [Vedha] (https://github.com/Vedha585)
+- [Ken Kipchumba](https://github.com/kypchumba)
+- [Vedha](https://github.com/Vedha585)
