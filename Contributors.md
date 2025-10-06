@@ -33,6 +33,7 @@
 - [Kyra (kyrazzx)](https://github.com/kyrazzx) -[sachinandan yadav](https://github.com/sachinandan-05)
 - [Md Khalid Hasan Ansari]
 - [Hassan Najam](https://github.com/Hassan5117)
+- [Abdelkader Charef Eddine Djellil (djacbi)](https://github.com/AbdelkaderCE/)
 - [Vaibhav Bakliwal](https://github.com/bakliwalvaibhav1)
 - [Lalith Krishna Vangara](https://github.com/VLK-123)
 - [Ankit Singh] (https://github.com/ANKITsingh-git2)
