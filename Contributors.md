@@ -47,6 +47,7 @@
 - [Jason Herman](https://github.com/Everblade)
 - [Pavan kuppili](https://github.com/PavanKuppili)
 - [Jason Ephraim Tjiunardi](https://github.com/jasontjiunardi)
+- [Eques72](https://github.com/Eques72)
 - [Thaiyal Bagam Sanjeev](https://github.com/SugarCrash2077)
 - [Mohamednishar J](https://github.com/nisharj)
 - [Yasir Khan](https://github.com/itsyasirkhandev)
