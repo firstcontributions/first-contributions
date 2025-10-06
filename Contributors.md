@@ -884,6 +884,7 @@
 - [Torben Kahnert](https://github.com/tmak2002)
 - [UncleObinna](https://github.com/UncleObinna)
 - [Vaibhav0725](https://github.com/vaibhav0725)
+- [7Kruk7](https://github.com/7Kruk7)
 - [Vaibhav](https://github.com/vaibhavsanap112)
 - [Varun Sharma](https://github.com/varunsh20/)
 - [Vicente Guzmán](https://vicenteguzman.com/)
