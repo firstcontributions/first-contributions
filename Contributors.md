@@ -1,6 +1,5 @@
 # Contributors
 - [Smit Patel] (https://github.com/jayambe36)
-- [Nazeer Shaikh] (https://github.com/nash226)
 - [Manasvi Jain] (https://github.com/MJ-thunder)
 - [Satyam Kumar Jha] (https://github.com/satyam536)
 - [Nithurshen Karthikeyan] (https://github.com/nithurshen)
@@ -1371,3 +1370,4 @@ Rajnish Kumar Dubey
 - [SantiagoBH](https://github.com/SantiagoBH/)
 - [Prashant jha](https://github.com/interstellarpi07)
 - [Tanya Thakur](https://github.com/23f2002932)
+- [Muhammad Fayaz] (https://github.com/firstcontributions/first-contributions/edit/main/Contributors.md)
