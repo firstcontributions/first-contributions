@@ -125,6 +125,7 @@
 - [Adhil Bathali](https://github.com/adhilbathali)
 - [Rafael Guzman](https://github.com/Rafael-er-byte)
 - [Raghav Chanana](https://github.com/sidrag3045)
+- [Suryansh Singh](https://github.com/Suryansh-008)
 - [Pratham Muley](https://github.com/Pratham19106)
 - [Jason Wiggs](https://github.com/wiggs30)
 - [Jayasree G Kalkura](https://github.com/jayasree1805)
