@@ -57,6 +57,7 @@
 - [Hrishikesh Rondla](https://github.com/Hrishikesh-Rondla)
 - [Amit Kumar](https://github.com/amitak985059)
 - [Rudra Pratap Singh Jadon](https://github.com/rudrajadon)
+- [Kishita Deotale](https://github.com/kishitadeotale24)
 - [Ronaldo P](https://github.com/Ronaldo-001)
 - [Trần Huỳnh Đăng Khôi](https://github.com/KhoiTarn)
 - [Shriya Mohanty](https://github.com/shriya5752)
@@ -66,6 +67,7 @@
 - [Ndeye Sermy Mergane](https://github.com/Ndeye1000)
 - [Emmanuel Zelaya-Armenta](https://github.com/Emmanuel-ZA)
 - [Vaishnavi Parodkar](https://github.com/vaishnavi-parodkar)
+
 - [Joshua Norris](https://github.com/Noshie23)
 - [santhosh teja santhosh teja ](https://github.com/Yashs02-code)
 - [vismaya vishwas](https://github.com/Vis-2007)
