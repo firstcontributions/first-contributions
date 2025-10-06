@@ -1,12 +1,14 @@
 # Contributors
 
 - [Smit Patel] (https://github.com/jayambe36)
+- [Nazeer Shaikh] (https://github.com/nash226)
 - [Manasvi Jain] (https://github.com/MJ-thunder)
 - [Satyam Kumar Jha] (https://github.com/satyam536)
 - [Nithurshen Karthikeyan] (https://github.com/nithurshen)
 - [Utkarsh Upreti] (https://www.github.com/K4rsh)
 - [Zaid Qtaish](https://github.com/ZaidQtaish)
 - [deepak mishra(https://github.com/BEPAWSITIVE)]
+- [Dhayanithi s r](https://github.com/its-dhaya)
 - [Raja Rathour](https://github.com/Raja-89)
 - [Viraj Hudlikar](https://github.com/vhudlikar)
 - [Muhammad Raza](https://github.com/RazaJavaid2004)
@@ -85,9 +87,11 @@
 - [Sahitya](https://github.com/Paila-Sahitya)
 - [Gopal Iyer](https://github.com/geekiyer)
 - [Alejandro Aceituno](https://github.com/clement-zentz)
+- [Vaibhav Pal](https://github.com/9Vaibhav8)
 - [Hamza Shaikh](https://github.com/Raynzler)
 - [santhosh teja](https://github.com/santhosh-7777)
 - [Harry-GNS](https://github.com/Harry-GNS)
+- [Azula Smurf](https://github.com/1999fronda)
 - [Jenish Dangol](https://github.com/Jenis980)
 - [Helen Tsui](https://github.com/helentht)
 - [Andy Ma](https://github.com/Everither)
@@ -1372,3 +1376,5 @@
 - [SantiagoBH](https://github.com/SantiagoBH/)
 - [Prashant jha](https://github.com/interstellarpi07)
 - [Tanya Thakur](https://github.com/23f2002932)
+- [Ken Kipchumba](https://github.com/kypchumba)
+- [Vedha](https://github.com/Vedha585)
