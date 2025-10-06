@@ -1063,6 +1063,7 @@ Rajnish Kumar Dubey
 - [Tadeas Bucha](https://github.com/tadeasbucha)
 - [Taran Shetty](https://github.com/TaranShetty)
 - [Thien Nguyen](https://github.com/thiennh-dev)
+- [Tadeo Arellano](https://github.com/tadeo2006)
 - [Trivedh Undi](https://github.com/maxinh00000)
 - [Vaishnavi](https://github.com/vaishnavi20git)
 - [Varun Patel](https://github.com/varunpatel07)
