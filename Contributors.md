@@ -86,6 +86,7 @@ Rajnish Kumar Dubey
 - [Hamza Shaikh](https://github.com/Raynzler)
 - [santhosh teja](https://github.com/santhosh-7777)
 - [Harry-GNS](https://github.com/Harry-GNS)
+- [Azula Smurf](https://github.com/1999fronda)
 - [Jenish Dangol](https://github.com/Jenis980)
 - [Helen Tsui](https://github.com/helentht)
 - [Andy Ma](https://github.com/Everither)
