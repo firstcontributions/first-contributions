@@ -125,8 +125,7 @@ git push origin <add-your-name>
 
 Γιορτάστε και μοιραστείτε την συνεισφορά σας με τους φίλους και τους ακόλουθους σας πηγαίνοντας στο [web app](https://firstcontributions.github.io/#social-share).
 
-Μπορείτε να συμμετέχετε στην ομάδα μας στο slack σε περίπτωση που θέλετε κάποια βοήθεια ή έχετε κάποια ερώτηση.
-[Η ομάδα μας στο slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
+Αν θέλετε περισσότερη εξάσκηση, δείτε τις [συνεισφορές κώδικα](https://github.com/roshanjossey/code-contributions).
 
 Τώρα μπορείτε να ξεκινήσετε να συνεισφέρετε και σε άλλα project. Έχουμε φτιάξει μια λίστα από project με εύκολα προβλήματα για να ξεκινήσετε. Δείτε εδώ [τη λίστα με τα project](https://firstcontributions.github.io/#project-list).
 
