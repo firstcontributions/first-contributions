@@ -997,6 +997,7 @@ Rajnish Kumar Dubey
 - [Jerold De Pedro](https://github.com/xherby07)
 - [Joao Carlos Lima](https://github.com/jocatoa)
 - [Joery van Santen](https://github.com/joeryvs)
+- [Shashwat Gauniyal](https://github.com/ShashwatGauniyal)
 - [Joseph O'Neill](https://github.com/L00188381)
 - [Josmer Rodriguez](https://github.com/Josmerr)
 - [Kerem Balci](https://github.com/kerembalci90)
