@@ -398,6 +398,7 @@
 - [ShaiQ Shah](https://github.com/shahshaiq)
 - [Shriram Gupta](https://github.com/theshriramgupta)
 - [Shudan Luo](https://github.com/shudanluo)
+ - [Mehedi Hasan Hridoy](https://github.com/mehedi-hridoy)
 - [Sidharth P](https://github.com/Sid-CodeX)
 - [Sina Soltani](https://github.com/sinaxzi)
 - [Sinchana](https://github.com/Sinchanar09)
