@@ -1,4 +1,5 @@
 # Contributors
+
 - [Smit Patel] (https://github.com/jayambe36)
 - [Nazeer Shaikh] (https://github.com/nash226)
 - [Mohit Bansal] (https://github.com/WorkMohit17)
@@ -25,6 +26,7 @@
 - [Fred](https://github.com/kipkemoifred)
 - [Sahil Gurjar][https://github.com/SG2407]
 - [Vardhan](https://github.com/Chintha-vardhan)
+- [Lakshmi Kamalanjali Mandalika][https://github.com/Kamalanjali]
 - [Abin Madathil](https://github.com/abinmadathil)
 - [Prince Yadav](https://github.com/warrior-hub)
 - [Kyra (kyrazzx)](https://github.com/kyrazzx) -[sachinandan yadav](https://github.com/sachinandan-05)
@@ -79,7 +81,7 @@
 - [Zohaib](https://github.com/Iamzohaibali)
 - [Frank Anthony](https://github.com/FrankLayza)
 - [Rahpeal Lee](https://github.com/nativeengineer)
-Rajnish Kumar Dubey
+  Rajnish Kumar Dubey
 - [Purbasha Mitra](https://github.com/PurbashaMitra)
 - [Furanimus](https://github.com/Furanimus)
 - [Saugat Giri](https://github.com/saugat1070)
