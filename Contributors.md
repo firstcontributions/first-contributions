@@ -342,6 +342,7 @@ Rajnish Kumar Dubey
 - [Omar Emara](https://github.com/omarf2000)
 - [Omkar Guha](https://github.com/omkarguha)
 - [Owen Roukey](https://github.com/rouk5555)
+- - Dinesh-yadav-21
 - [Sourav N](https://github.com/souravkashyap0)
 - [Luth Gallemaso](https://github.com/luthgllms)
 - [Pankaj Monga](https://github.com/p-monga)
