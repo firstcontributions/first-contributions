@@ -1,6 +1,7 @@
 # Contributors
 
 - [Smit Patel] (https://github.com/jayambe36)
+- [Kavindu Udara] (https://github.com/kavindu-udara)
 - [Nazeer Shaikh] (https://github.com/nash226)
 - [Mohit Bansal] (https://github.com/WorkMohit17)
 - [ِAhmed Elsherif] (https://github.com/ahmedelsherif-osama)
