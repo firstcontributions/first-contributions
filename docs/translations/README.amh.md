@@ -1,8 +1,13 @@
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
+
+
 ## የመጀመሪያ አስተዋፅኦዎች
 
 ይህ ፕሮጀክት ጀማሪዎች የመጀመሪያ አስተዋጾ የሚያደርጉበትን መንገድ ለማቅለል እና ለመምራት ያለመ ነው። የመጀመሪያዎን አስተዋፅዖ ለማድረግ ከፈለጉ ከታች ያሉትን ደረጃዎች ይከተሉ።
 
-***በcommand line(ተርሚናል) ካልተመቸዎት፣ [የGUI መሳሪያዎችን ለመጠቀም አጋዥ ስልጠናዎች እዚህ ያገኛሉ።](#tutorials-using-other-tools)***
+_በcommand line(ተርሚናል) ካልተመቸዎት፣ [የGUI መሳሪያዎችን ለመጠቀም አጋዥ ስልጠናዎች እዚህ ያገኛሉ።](#የሌሎች-መሳሪያዎች-አጠቃቀም-አጋዥ-ስልጠናዎች)_
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
@@ -11,15 +16,15 @@
 ## ይህንን ማከማቻ **fork** ያድርጉ
 
 በዚህ ገጽ ላይኛው ክፍል ላይ ያለውን የfork button ጠቅ በማድረግ ይህንን ማከማቻ fork ያድርጉት።
-ይህ በአንተ account ውስጥ የዚህን repository ቅጂ ይፈጥራል።
+ይህ በእርስዎ account ውስጥ የዚህን repository ቅጂ ይፈጥራል።
 
-## የማከማቻውን ተመሳሳይ ይፍጠሩ
+## የማከማቻውን ተመሳሳይ ይፍጠሩ (Clone)
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
 አሁን fork የተደረገውን ማከማቻ (repository) ቅጂ በማሽንዎ(በኮምፒውተርዎ) ይፍጥሩ። ወደ GitHub (account)መለያዎ ይሂዱ፤ fork የተደረገውን ማከማቻ ይክፈቱ፤ ኮድ የሚለውን button ጠቅ ያድርጉ እና  ከዚያ *ወደ clipboard ቅዳ* የሚለውን ጠቅ ያድርጉ::
 
-ተርሚናል ይክፈቱ እና የሚከተለውን የgit ትዕዛዝ run
+ተርሚናል ይክፈቱ እና የሚከተለውን የgit ትዕዛዝ run ያድርጉ:
 
 ```bash
 git clone "የቀዱትን url"
@@ -33,11 +38,11 @@ git clone "የቀዱትን url"
 ለምሳሌ:-
 
 ```bash
-git clone git@github.com:ይህ-አንተ-ነህ/first-contributions.git
+git clone git@github.com:ይህ-እርስዎ-ኖት/first-contributions.git
 
 ```
 
-'ይህ-አንተ-ነህ' የእርሶ GitHub ተጠቃሚ username ነው። አሁን በ GitHub ላይ ያለውን የመጀመሪያ አስተዋፅዖ(first-contributions) ማከማቻ ይዘቶችን ወደ ኮምፒውተርዎ እየገለበጡ ነው።
+'ይህ-እርስዎ-ኖት' የእርሶ GitHub ተጠቃሚ username ነው። አሁን በ GitHub ላይ ያለውን የመጀመሪያ አስተዋፅዖ(first-contributions) ማከማቻ ይዘቶችን ወደ ኮምፒውተርዎ እየገለበጡ ነው።
 
 ## ቅርንጫፍ ይፍጠሩ
 
@@ -62,7 +67,7 @@ git switch -c ይሁን-አለማየሁ
 
 ```
 
-## አስፈላጊ ለውጦችን ያድርጉ እና ለውጦችን ይፈጥሙ(commit)
+## አስፈላጊ ለውጦችን ያድርጉ እና ለውጦችን ይፈጥሙ (commit)
 
 አሁን የ‹[Contributors.md](http://contributors.md/)› ፋይልን በጽሑፍ አርታኢ ውስጥ ይክፈቱ እና ስምዎትን ይጨምሩበት። በፋይሉ መጀመሪያ ወይም መጨረሻ ላይ አይጨምሩት። በመካከል የትኛውም ቦታ ላይ ያስቀምጡት። አሁን, ፋይሉን save ያድርጉ።
 
@@ -86,7 +91,7 @@ git commit -m "የአስተዋጽዖ አበርካቾች ዝርዝር ውስጥ �
 
 'የእርስዎን-ስም' የሚለውን በስምዎ ይተኩ፡፡
 
-ለውጦችን ወደ GitHub ይግፉ
+## ለውጦችን ወደ GitHub ይግፉ
 
 ‹git push› የሚለውን ትዕዛዝ በመጠቀም ለውጦችዎን ይግፉ፡፡
 
@@ -108,7 +113,7 @@ Go to [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-t
 
 </details>
 
-## ለውጦችዎን ለግምገማ ያስገቡ
+## ለውጦችዎን ለግምገማ ያስገቡ (Pull request)
 
 በ GitHub ላይ ወደ ማከማቻዎ ከሄዱ፣ ‘compare & pull request' የሚለውን ቁልፍ ያያሉ። በዚያ ቁልፍ ላይ ጠቅ ያድርጉ።
 
@@ -118,29 +123,23 @@ Go to [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-t
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-በቅርቡ ሁሉንም ለውጦችዎን ወደ የዚህ ፕሮጀክት ዋና ቅርንጫፍ አዋህዳቸዋለሁ። ለውጦቹ ከተዋሃዱ በኋላ የማሳወቂያ ኢሜይል ይደርስዎታል።
+በቅርቡ ሁሉንም ለውጦችዎን ወደዚህ ፕሮጀክት ዋና ቅርንጫፍ አዋህዳቸዋለሁ። ለውጦቹ ከተዋሃዱ በኋላ የማሳወቂያ 'ኢይሜል' ይደርስዎታል።
 
 ## ከዚህስ ወዴት ልሂድ?
 
-እንኳን ደስ ያሎዎት! ልክ እንደ አስተዋጽዖ አበርካች የሚያጋጥሙትን መደበኛ _fork -> clone -> አርትዕ -> የመሳብ ጥያቄ_ የስራ ፍሰትን አጠናቀዋል!
+እንኳን ደስ ያሎዎት! ልክ እንደ አስተዋጽዖ አበርካች የሚያጋጥሙትን መደበኛ _fork -> clone -> edit -> pull request_ የስራ ፍሰትን አጠናቀዋል!
 
-አስተዋጾዎን  ያጣጣጥሙ እና ወደ ድር በመሄድ ለጓደኞችዎ እና ተከታዮችዎ ያካፍሉ።(https://firstcontributions.github.io/#social-share).
+አስተዋጾዎን ያጣጣጥሙ እና ወደ [ድህረ-ግፅ](https://firstcontributions.github.io/#social-share) በመሄድ ለጓደኞችዎ እና ተከታዮችዎ ያካፍሉ።
 
-ማንኛውም እርዳታ ከፈለጉ ወይም ማንኛውም ጥያቄ ካለዎት የእኛን 'slack' ቡድን መቀላቀል ይችላሉ::(https://join.slack.com/t/firstcontributors/shared_invite/zt-1n4y7xnk0-DnLVTaN6U9xLU79H5Hi62w).
+ተጨማሪ ልምምድ ከፈለጉ በዚህ ሊንክ [code contributions](https://github.com/roshanjossey/code-contributions) ይግቡ.
 
-አሁን ለሌሎች ፕሮጀክቶች በማበርከት እንጀምር። እርስዎ ሊጀምሩባቸው የሚችሉ ቀላል ጉዳዮች ያላቸውን የፕሮጀክቶች ዝርዝር አዘጋጅተናል። በድር መተግበሪያ ውስጥ ያሉትን የፕሮጀክቶች ዝርዝር ይመልከቱ(https://firstcontributions.github.io/#project-list).
+አሁን ለሌሎች ፕሮጀክቶች በማበርከት እንጀምር። እርስዎ ሊጀምሩባቸው የሚችሉ ቀላል ጉዳዮች ያላቸውን የፕሮጀክቶች ዝርዝር አዘጋጅተናል። [በዚህ ሊንክ በመግባት በድር መተግበሪያ ውስጥ ያሉትን የፕሮጀክቶች ዝርዝር ይመልከቱ።](https://firstcontributions.github.io/#project-list)
 
-## [ተጨማሪ ቁሳቁስ](https://www.notion.so/additional-material/git_workflow_scenarios/additional-material.md)
+## [ተጨማሪ ቁሳቁስ](docs/additional-material/git_workflow_scenarios/additional-material.md)
 
 ## የሌሎች መሳሪያዎች አጠቃቀም አጋዥ ስልጠናዎች
-
-| <a href="gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
+| <a href="https://github.com/firstcontributions/first-contributions/blob/main/docs/gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="https://github.com/firstcontributions/first-contributions/blob/main/docs/gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="https://github.com/firstcontributions/first-contributions/blob/main/docs/gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="https://github.com/firstcontributions/first-contributions/blob/main/docs/gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="https://github.com/firstcontributions/first-contributions/blob/main/docs/gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="https://github.com/firstcontributions/first-contributions/blob/main/docs/gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [GitHub Desktop](gui-tool-tutorials/github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](gui-tool-tutorials/github-windows-vs2017-tutorial.md)                                                                                                                          | [GitKraken](gui-tool-tutorials/gitkraken-tutorial.md)                                                                                                                                        | [Visual Studio Code](gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                                                  | [Atlassian Sourcetree](gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                                      | [IntelliJ IDEA](gui-tool-tutorials/github-windows-intellij-tutorial.md)                                                                                                                                                          |
+| [GitHub Desktop](https://github.com/firstcontributions/first-contributions/blob/main/docs/gui-tool-tutorials/github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](https://github.com/firstcontributions/first-contributions/blob/main/docs/gui-tool-tutorials/github-windows-vs2017-tutorial.md)                                                                                                                          | [GitKraken](https://github.com/firstcontributions/first-contributions/blob/main/docs/gui-tool-tutorials/gitkraken-tutorial.md)                                                                                                                                        | [Visual Studio Code](https://github.com/firstcontributions/first-contributions/blob/main/docs/gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                                                  | [Atlassian Sourcetree](https://github.com/firstcontributions/first-contributions/blob/main/docs/gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                                      | [IntelliJ IDEA](https://github.com/firstcontributions/first-contributions/blob/main/docs/gui-tool-tutorials/github-windows-intellij-tutorial.md)                                                                                                                                                          |
 
-<p>ይህ ፕሮጀክት የሚደገፈው በ:</p>
-<p>
-  <a href="https://www.digitalocean.com/">
-    <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_horizontal_blue.svg" width="201px">
-  </a>
 </p>
