@@ -24,7 +24,7 @@
 إذا لم يكن لديك git على الجهاز الخاص بك،<a href="https://help.github.com/articles/set-up-git/">قم بتثبيته من هنا</a>
 </div>
 
-## <div dir="rtl"> أنشئ تفرّعًا من هذاالمشروع - Fork this Repository </div>
+## <div dir="rtl"> أنشئ تفرّعًا من هذا المشروع - Fork this Repository </div>
 
 <img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 <div dir="rtl">
