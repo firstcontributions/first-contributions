@@ -117,13 +117,15 @@ git push origin <add-your-name>
 不久之後，如果妳/你更改的文件與原本沒有衝突，我們會把所有的變化合併到這個項目的主分支。
 變更合併後，妳/你會收到通知 email。
 
-## 下一步？
+## 接下來要做什麼？
 
-在[這個網站](https://firstcontributions.github.io/#social-share)慶祝妳/你的成就並跟朋友及追隨者分享。
+恭喜！您剛剛完成了作為貢獻者經常遇到的標準 fork -> clone -> edit -> pull request 工作流程！
 
-如果有任何疑問或想獲得更多協助，歡迎加入我們的 [Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
+前往[web app](https://firstcontributions.github.io/#social-share)，慶祝您的貢獻並與您的朋友和追蹤者分享
 
-現在就動手為其他專案貢獻你/妳的心力。我們整理了一個清單，裡面的專案都有簡單的議題可以著手。[去看看吧！](https://firstcontributions.github.io/#project-list)
+如果您想進行更多練習，請查看 [code contributions](https://github.com/roshanjossey/code-contributions)
+
+現在，讓我們開始為其他專案貢獻程式碼 我們整理了一份項目列表，其中包含一些您可以輕鬆上手的簡單問題 請查看 [web app 中的項目清單](https://firstcontributions.github.io/#project-list)
 
 ### [ 更多資料 ](../additional-material/git_workflow_scenarios/additional-material.md)
 
