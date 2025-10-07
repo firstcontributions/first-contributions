@@ -1004,6 +1004,7 @@
 - [Diparna Adhikary](https://github.com/Diparna)
 - [Durgesh Dhurve](https://github.com/bittu9975)
 - [Elena Krunic](https://github.com/ElenaKrunic)
+- [Nur Hakimi](https://github.com/n-hakimi)
 - [Emaan Fatima](https://github.com/emaan123dev)
 - [Evgeny Kozelskiy](https://github.com/Der12kl)
 - [Fabrice Pecot](https://github.com/FabriceAB1)
