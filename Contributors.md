@@ -1441,5 +1441,6 @@
 - [Thanh Trinh] (https://github.com/thanhtrinh-code)
 - [Ayush Upadhyay] (https://github.com/A-yushupadhyay/)
 - [Faith Archibong](https://github.com/faithArchibong555)
+- [IDBirth](https://github.com/IDBirth)
 - [Nihal Fairooz E S](https://github.com/5yruz)
 - [Karam Mannai](https://github.com/KvRae)
