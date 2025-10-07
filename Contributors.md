@@ -3,6 +3,7 @@
 - [Smit Patel] (https://github.com/jayambe36)
 - [Prisca Onwudebelu Ebubechukwu] (https://github.com/PriscaTonia)
 - [sulmanfarooqq] (https://github.com/sulmanfarooqq)
+- [Shashank Avvaru] (https://github.com/Shashankavvaru-hub)
 - [Mohamed Adhil] (https://github.com/adhil-cloud)
 - [Kavindu Udara] (https://github.com/kavindu-udara)
 - [Nazeer Shaikh] (https://github.com/nash226)
