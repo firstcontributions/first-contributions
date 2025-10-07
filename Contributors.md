@@ -456,6 +456,7 @@
 - [Bharat Ruidas](https://github.com/brd2002)
 - [Boru Isako](https://github.com/BoruIsakoJ)
 - [Borzoi Lover](https://github.com/mmitros1)
+- [Botnie Data](https://github.com/botniedata)
 - [Carlos FH](https://github.com/carlosfhz13)
 - [Chandana](https://github.com/Chandana2829)
 - [Clilja](https://github.com/christianlilja)
