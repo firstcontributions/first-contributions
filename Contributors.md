@@ -1435,3 +1435,4 @@
 - [Thanh Trinh] (https://github.com/thanhtrinh-code)
 - [Ayush Upadhyay] (https://github.com/A-yushupadhyay/)
 - [Faith Archibong](https://github.com/faithArchibong555)
+- [Nihal Fairooz E S](https://github.com/5yruz)
