@@ -103,8 +103,6 @@ Congrats! You have just completed the standard _fork -> clone -> edit -> PR_ wor
 
 Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io#social-share).
 
-You can join our slack team in case you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
-
 
 ### [Additional material](../additional-material/git_workflow_scenarios/additional-material.md)
 
