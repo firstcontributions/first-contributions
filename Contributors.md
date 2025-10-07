@@ -575,6 +575,7 @@
 - [simonpotel](https://github.com/simonpotel)
 - [sitthaveet](https://github.com/sitthaveet)
 - [smandadhi9](https://github.com/smandadhi9)
+- [Zahid-hussain19](https://github.com/Zahid-hussain19)
 - [soybean501](https://github.com/soybean501)
 - [swev10swev](https://github.com/swev10swev)
 - [tember8003](https://github.com/tember8003)
