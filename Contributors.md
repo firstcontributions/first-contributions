@@ -67,7 +67,7 @@
 - [Jason Ephraim Tjiunardi](https://github.com/jasontjiunardi)
 - [Eques72](https://github.com/Eques72)
 - [Thaiyal Bagam Sanjeev](https://github.com/SugarCrash2077)
-
+- [Supriya](https://github.com/Supriyasus)
 - [Mohamednishar J](https://github.com/nisharj)
 - [Yasir Khan](https://github.com/itsyasirkhandev)
 - [mansoorahmad-47](https://github.com/mansoorahmad-47)
