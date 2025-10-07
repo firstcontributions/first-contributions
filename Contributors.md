@@ -29,6 +29,7 @@
 - [Shubhanshu](https://github.com/shbhansh66)
 - [Oliyad Zelalem] (https://github.com/ozimmortal)
 - [Issa Issack] (https://github.com/essaissa)
+- [Mogal](https://github.com/)
 - [Afsheen Nadaf](https://github.com/afsheen-nadaf) 
 - [Andrew Park](https://github.com/AndePark)
 - [Rudresh Suryawanshi](https://github.com/Rudresh-11)
