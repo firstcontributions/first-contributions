@@ -133,9 +133,7 @@ Eden goşandyňyza begeniň we dostlaryňyz bilen paýlaşyň!
 
 [Bu baglanma](https://firstcontributions.github.io/#social-share) arkaly hem birnäçe gyzykly proýektlere öz goşandyňyzy goşup bilýäňiz.
 
-Eger-de islendik kömek gerek bolsa ýa-da soraglaryňyz bar bolsa [biziň Slack toparymyza](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA) goşulyp bilýaňiz.
-
-
+Has köp tejribe isleseňiz, töleg [kod goşantlary] (https://github.com/roshanjossey/code-contributions).
 
 ### [Goşmaça maglumat](additional-material/git_workflow_scenarios/additional-material.md)
 
