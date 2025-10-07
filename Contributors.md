@@ -997,6 +997,7 @@
 - [David devmanki](https://github.com/davamanki)
 - [Dede Sangmortey](https://github.com/Ladydede)
 - [Deer.Darkness](https://github.com/matinebadi)
+- [Shivu T J](https://github.com/shivutj)
 - [Devansh Baghla](https://github.com/Devansh-b)
 - [davinzaki](https://github.com/davinzaki)
 - [Devansh Singh](https://github.com/Devansh-04)
