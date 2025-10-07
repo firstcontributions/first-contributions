@@ -39,6 +39,7 @@
 - [Mogal](https://github.com/)
 - [Afsheen Nadaf](https://github.com/afsheen-nadaf)
 - [Andrew Park](https://github.com/AndePark)
+- [Mariana Rutter](https://github.com/marianaluu)
 - [Rudresh Suryawanshi](https://github.com/Rudresh-11)
 - [Clement Zentz](https://github.com/clement-zentz)
 - [S-Dedeepya](https://github.com/S-Dedeepya)
