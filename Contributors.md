@@ -1454,5 +1454,6 @@
 - [Nihal Fairooz E S](https://github.com/5yruz)
 - [Karam Mannai](https://github.com/KvRae)
 - [Phương Anh](https://github.com/TRANNGUYENPHUONGANH)
+- [Peristroff](https://github.com/Peristroff) - I wish for you to become the best version of yourself.
 - [Sahan Tharaka](https://github.com/HKSahanTharaka)
 - [Soumya Sinha] (https://github.com/Soumyasinha29)
