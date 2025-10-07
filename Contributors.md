@@ -1417,3 +1417,4 @@
 - [Wasif Rahman] (https://github.com/wasif-rahman)
 - [Raúl López](https://github.com/ralopezv)
 - [Thanh Trinh] (https://github.com/thanhtrinh-code)
+- [Ayush Upadhyay] (https://github.com/A-yushupadhyay/)
