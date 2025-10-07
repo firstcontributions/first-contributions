@@ -294,6 +294,7 @@
 - Coolgamer0181
 - [Lucas Couso Antunes](https://github.com/Rulyns)
 - [Aminat A](https://github.com/pejuameenat)
+- [Arumugam N](https://github.com/blackwolf2902)
 - [Andrew D](https://github.com/myMEDIA1578)
 - [Angad Bhalla](https://github.com/Anga205)
 - [Ankith Kini](https://github.com/ANKITH33)
