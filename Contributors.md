@@ -1432,3 +1432,4 @@
 - [Raúl López](https://github.com/ralopezv)
 - [Thanh Trinh] (https://github.com/thanhtrinh-code)
 - [Ayush Upadhyay] (https://github.com/A-yushupadhyay/)
+- [Faith Archibong](https://github.com/faithArchibong555)
