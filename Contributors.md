@@ -7,6 +7,7 @@
 - [Nazeer Shaikh] (https://github.com/nash226)
 - [Mohit Bansal] (https://github.com/WorkMohit17)
 - [Salmaan M] (https://github.com/Salmaan-M)
+- [Pathmesh G] (https://github.com/Pathmesh)
 - [ِAhmed Elsherif] (https://github.com/ahmedelsherif-osama)
 - [Manasvi Jain] (https://github.com/MJ-thunder)
 - [Satyam Kumar Jha] (https://github.com/satyam536)
@@ -61,6 +62,7 @@
 - [Jason Ephraim Tjiunardi](https://github.com/jasontjiunardi)
 - [Eques72](https://github.com/Eques72)
 - [Thaiyal Bagam Sanjeev](https://github.com/SugarCrash2077)
+
 - [Mohamednishar J](https://github.com/nisharj)
 - [Yasir Khan](https://github.com/itsyasirkhandev)
 - [mansoorahmad-47](https://github.com/mansoorahmad-47)
