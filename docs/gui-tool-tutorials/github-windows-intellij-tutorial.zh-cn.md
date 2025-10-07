@@ -116,8 +116,6 @@ IntelliJ IDEA 允许你检出（Git 中的 clone）一个已有的仓库，并�
 
 庆祝一下你的首次贡献，并通过 [web app](https://firstcontributions.github.io#social-share) 与好友分享你的成就吧！
 
-如果你有任何问题，欢迎加入我们的 Slack 团队：[加入 Slack 团队](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
-
 ---
 
 ### [附加资料](../additional-material/git_workflow_scenarios/additional-material.md)

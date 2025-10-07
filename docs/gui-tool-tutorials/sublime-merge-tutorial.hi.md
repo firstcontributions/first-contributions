@@ -103,8 +103,6 @@ GitHub पर अपनी रिपॉज़िटरी में जाएँ
 
 अपने योगदान का जश्न मनाएँ और अपने दोस्तों व फ़ॉलोअर्स के साथ शेयर करें: [web app](https://firstcontributions.github.io#social-share)।
 
-अगर आपको मदद चाहिए या कोई सवाल है, तो हमारे Slack टीम से जुड़ें: [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)।
-
 ### [अतिरिक्त सामग्री](../additional-material/git_workflow_senarios/additional-material.md)
 
 ## अन्य टूल्स के साथ ट्यूटोरियल्स
