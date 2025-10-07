@@ -1460,3 +1460,4 @@
 - [Peristroff](https://github.com/Peristroff) - I wish for you to become the best version of yourself.
 - [Sahan Tharaka](https://github.com/HKSahanTharaka)
 - [Soumya Sinha] (<https://github.com/Soumyasinha29>)
+- [Joshua Fernandes](https://github.com/joshjfernandes416) - Best of luck to you all <3
