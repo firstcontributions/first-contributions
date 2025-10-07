@@ -24,6 +24,7 @@
 - [Ashutosh] (https://github.com/Ashutosh9470)
 - [Leonardo Garzon] (https://github.com/Leonardo-Garzon-1995)
 - [Shubhanshu](https://github.com/shbhansh66)
+- [Oliyad Zelalem] (https://github.com/ozimmortal)
 - [Issa Issack] (https://github.com/essaissa)
 - [Andrew Park](https://github.com/AndePark)
 - [Rudresh Suryawanshi](https://github.com/Rudresh-11)
