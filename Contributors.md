@@ -1414,4 +1414,5 @@
 - [SpikeHunter](https://github.com/SpikeHunter)
 - [Maria Jesus Perez](https://github.com/mjperez)
 - [Wasif Rahman] (https://github.com/wasif-rahman)
+- [Raúl López](https://github.com/ralopezv)
 - [Thanh Trinh] (https://github.com/thanhtrinh-code)
