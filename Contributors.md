@@ -1,12 +1,14 @@
 # Contributors
 
 - [Smit Patel] (https://github.com/jayambe36)
+- [Prisca Onwudebelu Ebubechukwu] (https://github.com/PriscaTonia)
 - [sulmanfarooqq] (https://github.com/sulmanfarooqq)
 - [Mohamed Adhil] (https://github.com/adhil-cloud)
 - [Kavindu Udara] (https://github.com/kavindu-udara)
 - [Nazeer Shaikh] (https://github.com/nash226)
 - [Mohit Bansal] (https://github.com/WorkMohit17)
 - [Salmaan M] (https://github.com/Salmaan-M)
+- [Pathmesh G] (https://github.com/Pathmesh)
 - [ِAhmed Elsherif] (https://github.com/ahmedelsherif-osama)
 - [Manasvi Jain] (https://github.com/MJ-thunder)
 - [Satyam Kumar Jha] (https://github.com/satyam536)
@@ -29,7 +31,8 @@
 - [Shubhanshu](https://github.com/shbhansh66)
 - [Oliyad Zelalem] (https://github.com/ozimmortal)
 - [Issa Issack] (https://github.com/essaissa)
-- [Afsheen Nadaf](https://github.com/afsheen-nadaf)
+- [Mogal](https://github.com/)
+- [Afsheen Nadaf](https://github.com/afsheen-nadaf) 
 - [Andrew Park](https://github.com/AndePark)
 - [Rudresh Suryawanshi](https://github.com/Rudresh-11)
 - [Clement Zentz](https://github.com/clement-zentz)
@@ -42,6 +45,7 @@
 - [Prince Yadav](https://github.com/warrior-hub)
 - [Kyra (kyrazzx)](https://github.com/kyrazzx) -[sachinandan yadav](https://github.com/sachinandan-05)
 - [Md Khalid Hasan Ansari]
+- [Shahid Afrid](https://github.com/shahid-afrid)
 - [Shanmukh sai karnam][https://github.com/karnam16]
 - [Hassan Najam](https://github.com/Hassan5117)
 - [Abdelkader Charef Eddine Djellil (djacbi)](https://github.com/AbdelkaderCE/)
@@ -60,6 +64,7 @@
 - [Jason Ephraim Tjiunardi](https://github.com/jasontjiunardi)
 - [Eques72](https://github.com/Eques72)
 - [Thaiyal Bagam Sanjeev](https://github.com/SugarCrash2077)
+
 - [Mohamednishar J](https://github.com/nisharj)
 - [Yasir Khan](https://github.com/itsyasirkhandev)
 - [mansoorahmad-47](https://github.com/mansoorahmad-47)
@@ -1436,3 +1441,4 @@
 - [Ayush Upadhyay] (https://github.com/A-yushupadhyay/)
 - [Faith Archibong](https://github.com/faithArchibong555)
 - [Nihal Fairooz E S](https://github.com/5yruz)
+- [Karam Mannai](https://github.com/KvRae)
