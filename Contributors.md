@@ -10,6 +10,7 @@
 - [Mohit Bansal](https://github.com/WorkMohit17)
 - [Umasankar Varadati](https://github.com/umasankarvaradati)
 - [Salmaan M](https://github.com/Salmaan-M)
+- [Alan Titus](https://github.com/Alantitus)
 - [Pathmesh G](https://github.com/Pathmesh)
 - [ِAhmed Elsherif](https://github.com/ahmedelsherif-osama)
 - [Manasvi Jain](https://github.com/MJ-thunder)
