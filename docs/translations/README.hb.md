@@ -255,6 +255,8 @@ git remote set-url origin git@github.com:your-username/your_repo.git
 
 תחגגו את התרומתכם ושתפו אותה עם החברים והעוקבים שלכם בכך שתלכו ל-[web app](https://firstcontributions.github.io/#social-share).
 
+אם אתם רוצים עוד תרגול, בדקו את [תרומות הקוד](https://github.com/roshanjossey/code-contributions).
+
 עכשיו אפשר להתחיל לתרום לפרוייקטים אחרים. הכנו רשימה של פרוייקטים על נושאים קלים שאתם יכולים להתחיל לעבוד עליהם. [רשימה של פרוייקטים ב- web app](https://firstcontributions.github.io/#project-list).
 
 ### [חומר נוסף](../additional-material/git_workflow_scenarios/additional-material.md)
