@@ -1202,6 +1202,7 @@
 - [Leila (Radi Adil)](https://github.com/l3331l4)
 - [Lokitha Muni](https://github.com/lokitha-muni)
 - [Maksat Annageldiyev](https://github.com/M4x4T)
+- [Pratham Patil](https://github.com/patilll83) 
 - [Manjunatha H](https://github.com/Manjunatha-h)
 - [Maria Carrera](https://github.com/MarieCourse)
 - [Mathew Joseph](https://github.com/MJTheGreat3)
