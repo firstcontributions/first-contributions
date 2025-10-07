@@ -1,6 +1,7 @@
 # Contributors
 
 - [Smit Patel] (https://github.com/jayambe36)
+- [sulmanfarooqq] (https://github.com/sulmanfarooqq)
 - [Mohamed Adhil] (https://github.com/adhil-cloud)
 - [Kavindu Udara] (https://github.com/kavindu-udara)
 - [Nazeer Shaikh] (https://github.com/nash226)
