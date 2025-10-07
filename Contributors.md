@@ -332,6 +332,7 @@
 - [Harsh Kaushik](https://github.com/hrk022)
 - [Harsh Singh](https://github.com/singhharsh29)
 - [HighPoly](https://github.com/HighPolygon)
+- [VishnuPriyaSingamReddy](https://github.com/VishnuPriyaSingamReddy)
 - [Ian McManus](https://github.com/ianmcman)
 - [Jose Soto] (https://github.com/jossotriv)
 - [Iman Chandrasiri] (https://github.com/Iman0810)
