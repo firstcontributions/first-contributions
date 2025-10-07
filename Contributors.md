@@ -28,6 +28,7 @@
 - [Andrew Park](https://github.com/AndePark)
 - [Rudresh Suryawanshi](https://github.com/Rudresh-11)
 - [Clement Zentz](https://github.com/clement-zentz)
+- [S-Dedeepya](https://github.com/S-Dedeepya)
 - [Fred](https://github.com/kipkemoifred)
 - [Sahil Gurjar][https://github.com/SG2407]
 - [Vardhan](https://github.com/Chintha-vardhan)
