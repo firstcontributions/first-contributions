@@ -751,6 +751,7 @@
 - [Vivek Gupta](https://github.com/Vivekg1033)
 - [Voicu Bogdan](https://github.com/zvoicu000)
 - [Wade Rees](https://github.com/wade-rees-me)
+- [Wahengbam Nirvash Singh](https://github.com/vashprog)
 - [Wanling Fu](https://github.com/wanling0000)
 - [WebX Beyond](https://github.com/webxbeyond)
 - [Yarno Grenier](https://github.com/yarno97x)
