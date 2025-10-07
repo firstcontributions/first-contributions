@@ -45,6 +45,7 @@
 - [Prince Yadav](https://github.com/warrior-hub)
 - [Kyra (kyrazzx)](https://github.com/kyrazzx) -[sachinandan yadav](https://github.com/sachinandan-05)
 - [Md Khalid Hasan Ansari]
+- [Shahid Afrid](https://github.com/shahid-afrid)
 - [Shanmukh sai karnam][https://github.com/karnam16]
 - [Hassan Najam](https://github.com/Hassan5117)
 - [Abdelkader Charef Eddine Djellil (djacbi)](https://github.com/AbdelkaderCE/)
