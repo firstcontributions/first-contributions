@@ -1465,3 +1465,4 @@
 - [Joshua Fernandes](https://github.com/joshjfernandes416) - Best of luck to you all <3
 - [0xSoniC](https://github.com/sonictheblue)
 - [Rom2555](https://github.com/Rom2555)
+-[Kevin P](https://github.com/KPgittogether-sofdev)
