@@ -52,8 +52,7 @@
 - [Abin Madathil](https://github.com/abinmadathil)
 - [Prince Yadav](https://github.com/warrior-hub)
 - [Kyra (kyrazzx)](https://github.com/kyrazzx)
-- [premludhanii26-cell][https://github.com/premludhangiii26-cell]
--[sachinandan yadav](https://github.com/sachinandan-05)
+- [premludhanii26-cell][https://github.com/premludhangiii26-cell] -[sachinandan yadav](https://github.com/sachinandan-05)
 - [Md Khalid Hasan Ansari]
 - [Shahid Afrid](https://github.com/shahid-afrid)
 - [Shanmukh sai karnam][https://github.com/karnam16]
@@ -350,6 +349,7 @@
 - [Gil Anavi](https://github.com/thisguygil)
 - [Gustiana](https://github.com/Gustiana882)
 - [Görkem](https://github.com/gorkemozsari)
+- [Vinit Patel](https://github.com/Vinit3116)
 - [Harrison Noe](https://github.com/harr-3d)
 - [Harsh Kaushik](https://github.com/hrk022)
 - [Harsh Singh](https://github.com/singhharsh29)
@@ -1466,6 +1466,4 @@
 - [Soumya Sinha] (<https://github.com/Soumyasinha29>)
 - [Joshua Fernandes](https://github.com/joshjfernandes416) - Best of luck to you all <3
 - [0xSoniC](https://github.com/sonictheblue)
-- [Rom2555](https://github.com/Rom2555)
--[Kevin P](https://github.com/KPgittogether-sofdev)
--[Thanh Vũ](https://github.com/vu221604-creator)
+- [Rom2555](https://github.com/Rom2555) -[Kevin P](https://github.com/KPgittogether-sofdev) -[Thanh Vũ](https://github.com/vu221604-creator)
