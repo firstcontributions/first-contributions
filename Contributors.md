@@ -18,6 +18,7 @@
 - [deepak mishra(https://github.com/BEPAWSITIVE)]
 - [Dhayanithi s r](https://github.com/its-dhaya)
 - [Raja Rathour](https://github.com/Raja-89)
+- [Claire Haynes] (https://github.com/ClaireHaynes700)
 - [Michael Wright](https://github.com/lumberjackwizard)
 - [Viraj Hudlikar](https://github.com/vhudlikar)
 - [Kishita Deotale](https://github.com/kishitadeotale24)
