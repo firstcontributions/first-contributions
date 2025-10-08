@@ -12,6 +12,7 @@
 - [Umasankar Varadati](https://github.com/umasankarvaradati)
 - [Salmaan M](https://github.com/Salmaan-M)
 - [Alan Titus](https://github.com/Alantitus)
+- [Deekshitha3232](https://github.com/Deekshitha3232)
 - [Pathmesh G](https://github.com/Pathmesh)
 - [ِAhmed Elsherif](https://github.com/ahmedelsherif-osama)
 - [Manasvi Jain](https://github.com/MJ-thunder)
