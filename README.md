@@ -202,12 +202,12 @@ replacing `your-branch-name` with the name of the branch you created earlier.
   Also, you might want to run 'git remote -v' to check your remote address.
   
   If it looks anything like this:
-  <pre>origin	https://github.com/your-username/your_repo.git (fetch)
-  origin	https://github.com/your-username/your_repo.git (push)</pre>
+  <pre>origin	https://github.com/yakov007/first-contributions.git (fetch)
+  origin	https://github.com/yakov007/first-contributions.git (push)</pre>
   
   change it using this command:
   ```bash
-  git remote set-url origin git@github.com:your-username/your_repo.git
+  git remote set-url origin git@github.com:yakov007/first-contributions.git
   ```
   Otherwise you'll still get prompted for username and password and get authentication error.
 </details>
