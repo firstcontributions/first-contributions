@@ -1482,6 +1482,7 @@
 - [0xSoniC](https://github.com/sonictheblue)
 - [Rom2555](https://github.com/Rom2555)
 - [Kevin P](https://github.com/KPgittogether-sofdev)
+- [Isabelle H](https://github.com/ahhhhhhhhhhhhhhhhhhhh)
 - [Thanh Vũ](https://github.com/vu221604-creator)
 - [Dozerokz](https://github.com/dozerokz)
 - [ heyilingran](https://github.com/heyilingran)
