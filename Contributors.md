@@ -822,6 +822,7 @@
 - [Brandon McHugh](https://github.com/brandmch)
 - [BredyNilsen](https://github.com/bredynilsen)
 - [Cameron Scott](https://github.com/cdscott37)
+- [A Gupta](https://github.com/hi237271)
 - [Cesar Rice](https://github.com/checharito14)
 - [Chetan Atram](https://github.com/RabbitBoii)
 - [Chip Kelsey](https://github.com/chipncharge)
@@ -910,6 +911,7 @@
 - [Sahil Kolte](https://github.com/sahilakolte)
 - [Sandy052005](https://github.com/sandy052005)
 - [Sangeeta](https://github.com/sangeeta-nayak)
+- [Saul Goodman](https://github.com/NateBingChilling)
 - [Sujeeth Varma](https://github.com/Sujeeth-Varma)
 - [Shayne Geilman](https://github.com/ShayneJG)
 - [Shivam Gujar](https://github.com/CodebyShiv)
@@ -1483,6 +1485,7 @@
 - [0xSoniC](https://github.com/sonictheblue)
 - [Rom2555](https://github.com/Rom2555)
 - [Kevin P](https://github.com/KPgittogether-sofdev)
+- [Isabelle H](https://github.com/ahhhhhhhhhhhhhhhhhhhh)
 - [Thanh Vũ](https://github.com/vu221604-creator)
 - [Dozerokz](https://github.com/dozerokz)
 - [ heyilingran](https://github.com/heyilingran)
@@ -1492,4 +1495,5 @@
 - [Guaresu](https://github.com/guaresu) - all the best for you
 - [Onur Çelebi](https://github.com/onurcelebi)
 - [Dimitri Zimermann](https://github.com/zimer69)
+- [Sundaram S](https://github.com/SundaramS25) - Bazinga! My open source journey begins
 - [Poornima Baste](https://github.com/PoornimaBaste)
