@@ -130,6 +130,7 @@
 - [Anurag Tiwari](https://github.com/boss2412)
 - [Shreya Sethu](https://github.com/shreyasethu)
 - [Shubhankar Pandey](https://github.com/shubxdoc)
+- [Star](https://github.com/star-ges)
 - [Enstant](https://github.com/Enstant)
 - [Ginny](https://github.com/ginnysingh789)
 - [Sahitya](https://github.com/Paila-Sahitya)
