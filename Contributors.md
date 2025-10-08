@@ -1480,3 +1480,4 @@
 - [Alyna Liegl](https://github.com/alynaliegl) — Excited to contribute to open-source!
 - [Tangguh D Pramono](https://github.com/TangguhDP) - Yup back at it!
 - [Guaresu](https://github.com/guaresu) - all the best for you
+- [Onur Çelebi](https://github.com/onurcelebi)
