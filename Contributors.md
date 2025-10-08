@@ -1,4 +1,4 @@
-﻿ơ# Contributors
+﻿# Contributors
 
 - [Smit Patel](https://github.com/jayambe36)
 - [Prisca Onwudebelu Ebubechukwu](https://github.com/PriscaTonia)
@@ -39,6 +39,7 @@
 - [Ashutosh](https://github.com/Ashutosh9470)
 - [Leonardo Garzon](https://github.com/Leonardo-Garzon-1995)
 - [Shubhanshu](https://github.com/shbhansh66)
+- [Sarvs](https://github.com/randoduck)
 - [Oliyad Zelalem](https://github.com/ozimmortal)
 - [Issa Issack](https://github.com/essaissa)
 - [Mogal](https://github.com/)
