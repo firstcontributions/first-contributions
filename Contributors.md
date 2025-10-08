@@ -1,4 +1,6 @@
-﻿ơ# Contributors
+﻿ Contributors
+
+/usr/bin/bash: line 1: wq: command not found
 
 - [Smit Patel](https://github.com/jayambe36)
 - [Prisca Onwudebelu Ebubechukwu](https://github.com/PriscaTonia)
