@@ -1,4 +1,4 @@
-ơ# Contributors
+﻿ơ# Contributors
 
 - [Smit Patel](https://github.com/jayambe36)
 - [Prisca Onwudebelu Ebubechukwu](https://github.com/PriscaTonia)
@@ -1461,3 +1461,4 @@
 - [Sahan Tharaka](https://github.com/HKSahanTharaka)
 - [Soumya Sinha] (<https://github.com/Soumyasinha29>)
 - [Joshua Fernandes](https://github.com/joshjfernandes416) - Best of luck to you all <3
+- [0xSoniC](https://github.com/sonictheblue)
