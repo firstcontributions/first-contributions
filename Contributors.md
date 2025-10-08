@@ -822,6 +822,7 @@
 - [Brandon McHugh](https://github.com/brandmch)
 - [BredyNilsen](https://github.com/bredynilsen)
 - [Cameron Scott](https://github.com/cdscott37)
+- [A Gupta](https://github.com/hi237271)
 - [Cesar Rice](https://github.com/checharito14)
 - [Chetan Atram](https://github.com/RabbitBoii)
 - [Chip Kelsey](https://github.com/chipncharge)
