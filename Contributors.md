@@ -1268,6 +1268,7 @@
 - [Ritesh Murmu](https://github.com/Ritesh-cloud)
 - [RiteshSirohi](https://github.com/riteshsirohi)
 - [Rohan Raj P](https://github.com/rohandeadshot)
+- [Roman Stemp](https://github.com/ManilaAndVanilla)
 - [Rohit Mahajan](https://github.com/Rohit273848)
 - [Romuald Oluwatobi](https://github.com/Romulad)
 - [Ruben Legend](https://github.com/Ruben-legend)
