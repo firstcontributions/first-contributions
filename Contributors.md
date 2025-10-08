@@ -56,14 +56,14 @@
 - [Abin Madathil](https://github.com/abinmadathil)
 - [Prince Yadav](https://github.com/warrior-hub)
 - [Kyra (kyrazzx)](https://github.com/kyrazzx)
-- [premludhanii26-cell][https://github.com/premludhangiii26-cell]
--[sachinandan yadav](https://github.com/sachinandan-05)
+- [premludhanii26-cell][https://github.com/premludhangiii26-cell] -[sachinandan yadav](https://github.com/sachinandan-05)
 - [Md Khalid Hasan Ansari]
 - [Shahid Afrid](https://github.com/shahid-afrid)
 - [Shanmukh sai karnam][https://github.com/karnam16]
 - [Hassan Najam](https://github.com/Hassan5117)
 - [Abdelkader Charef Eddine Djellil (djacbi)](https://github.com/AbdelkaderCE/)
 - [Vaibhav Bakliwal](https://github.com/bakliwalvaibhav1)
+- [Jams The Great](https://www.youtube.com/watch?v=xvFZjo5PgG0)
 - [Lalith Krishna Vangara](https://github.com/VLK-123)
 - [Ankit Singh](https://github.com/ANKITsingh-git2)
 - [Wilmer Gulcochia](https://github.com/wigsdev)
@@ -1472,11 +1472,8 @@
 - [Soumya Sinha] (<https://github.com/Soumyasinha29>)
 - [Joshua Fernandes](https://github.com/joshjfernandes416) - Best of luck to you all <3
 - [0xSoniC](https://github.com/sonictheblue)
-- [Rom2555](https://github.com/Rom2555)
--[Kevin P](https://github.com/KPgittogether-sofdev)
--[Thanh Vũ](https://github.com/vu221604-creator)
-- [Dozerokz](https://github.com/dozerokz)
--[heyilingran](https://github.com/heyilingran)
+- [Rom2555](https://github.com/Rom2555) -[Kevin P](https://github.com/KPgittogether-sofdev) -[Thanh Vũ](https://github.com/vu221604-creator)
+- [Dozerokz](https://github.com/dozerokz) -[heyilingran](https://github.com/heyilingran)
 - [Alyna Liegl](https://github.com/alynaliegl) — Excited to contribute to open-source!
 - [Tangguh D Pramono](https://github.com/TangguhDP) - Yup back at it!
 - [Guaresu](https://github.com/guaresu) - all the best for you
