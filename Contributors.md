@@ -1487,5 +1487,6 @@
 - [Tangguh D Pramono](https://github.com/TangguhDP) - Yup back at it!
 - [Guaresu](https://github.com/guaresu) - all the best for you
 - [Onur Çelebi](https://github.com/onurcelebi)
+- [Dimitri Zimermann](https://github.com/zimer69)
 - [Poornima Baste](https://github.com/PoornimaBaste)
 
