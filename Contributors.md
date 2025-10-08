@@ -117,6 +117,7 @@
 - [Rahpeal Lee](https://github.com/nativeengineer)
   Rajnish Kumar Dubey
 - [Purbasha Mitra](https://github.com/PurbashaMitra)
+- [Naga Teja](https://github.com/invariantfields)
 - [Furanimus](https://github.com/Furanimus)
 - [Saugat Giri](https://github.com/saugat1070)
 - [Anurag Tiwari](https://github.com/boss2412)
