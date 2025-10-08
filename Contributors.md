@@ -1477,3 +1477,4 @@
 -[Thanh Vũ](https://github.com/vu221604-creator)
 - [Dozerokz](https://github.com/dozerokz)
 -[heyilingran](https://github.com/heyilingran)
+- [Alyna Liegl](https://github.com/alynaliegl) — Excited to contribute to open-source!
