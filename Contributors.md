@@ -1132,6 +1132,7 @@
 - [Shreya Wani](https://github.com/shreya150804)
 - [Subin Mariyadas](https://github.com/subin170)
 - [Sumit Pandey](https://github.com/5umitpandey)
+- [Julian Givens](https://github.com/jlngvns)
 - [Sunhith_Reddy](https://github.com/codetuscan)
 - [Suresh Deora](https://github.com/SureshDeora)
 - [Suved Ganduri](https://github.com/Sooowayydh)
