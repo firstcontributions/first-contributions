@@ -21,6 +21,7 @@
 - [Satyam Kumar Jha](https://github.com/satyam536)
 - [Nithurshen Karthikeyan](https://github.com/nithurshen)
 - [Utkarsh Upreti](https://www.github.com/K4rsh)
+- [Md. Shamim Ahmed](https://github.com/cseshamim47)
 - [Zaid Qtaish](https://github.com/ZaidQtaish)
 - [vader-coder](https://github.com/vader-coder)
 - [pujala_jayashankar](https://github.com/PujalaJayaSankar)
@@ -1477,14 +1478,14 @@
 - [Joshua Fernandes](https://github.com/joshjfernandes416) - Best of luck to you all <3
 - [0xSoniC](https://github.com/sonictheblue)
 - [Rom2555](https://github.com/Rom2555)
--[Kevin P](https://github.com/KPgittogether-sofdev)
--[Thanh Vũ](https://github.com/vu221604-creator)
+- [Kevin P](https://github.com/KPgittogether-sofdev)
+- [Thanh Vũ](https://github.com/vu221604-creator)
 - [Dozerokz](https://github.com/dozerokz)
--[heyilingran](https://github.com/heyilingran)
+- [ heyilingran](https://github.com/heyilingran)
 - [Alyna Liegl](https://github.com/alynaliegl) — Excited to contribute to open-source!
 - [MG-Edu](https://github.com/mg-edu)
 - [Tangguh D Pramono](https://github.com/TangguhDP) - Yup back at it!
 - [Guaresu](https://github.com/guaresu) - all the best for you
 - [Onur Çelebi](https://github.com/onurcelebi)
--[Poornima Baste](https://github.com/PoornimaBaste)
+- [Poornima Baste](https://github.com/PoornimaBaste)
 
