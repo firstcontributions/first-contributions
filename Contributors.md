@@ -1478,3 +1478,4 @@
 - [Dozerokz](https://github.com/dozerokz)
 -[heyilingran](https://github.com/heyilingran)
 - [Alyna Liegl](https://github.com/alynaliegl) — Excited to contribute to open-source!
+- [Guaresu](https://github.com/guaresu) - all the best for you
