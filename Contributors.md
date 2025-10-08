@@ -1478,3 +1478,4 @@
 - [Dozerokz](https://github.com/dozerokz)
 -[heyilingran](https://github.com/heyilingran)
 - [Alyna Liegl](https://github.com/alynaliegl) — Excited to contribute to open-source!
+- [Tangguh D Pramono](https://github.com/TangguhDP) - Yup back at it!
