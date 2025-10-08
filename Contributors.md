@@ -1062,6 +1062,7 @@
 - [Lemar Tokham](https://github.com/LemarTokham)
 - [Lucas Young](https://github.com/LucasYoung35)
 - [Magali Gonzalez](https://github.com/anbbel09)
+- [Raj Aryan](https://github.com/Rajaryan99)
 - [Maik Schoepe](https://github.com/MaikSchoepe)
 - [Maksim Gordin](https://github.com/madmax5490)
 - [Manas walia](https://github.com/manaswalia13)
