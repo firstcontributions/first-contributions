@@ -1466,6 +1466,7 @@
 - [Aditi Mishra](https://github.com/aditimishra17)
 - [SpikeHunter](https://github.com/SpikeHunter)
 - [Maria Jesus Perez](https://github.com/mjperez)
+- [Edem Setse](https://github.com/EdzmLeGoat) - trump 202777
 - [Wasif Rahman](https://github.com/wasif-rahman)
 - [Raúl López](https://github.com/ralopezv)
 - [Thanh Trinh](https://github.com/thanhtrinh-code)
@@ -1492,4 +1493,3 @@
 - [Onur Çelebi](https://github.com/onurcelebi)
 - [Dimitri Zimermann](https://github.com/zimer69)
 - [Poornima Baste](https://github.com/PoornimaBaste)
-
