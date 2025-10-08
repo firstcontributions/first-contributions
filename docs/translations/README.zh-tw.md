@@ -121,7 +121,8 @@ git push origin <add-your-name>
 
 在[這個網站](https://firstcontributions.github.io/#social-share)慶祝妳/你的成就並跟朋友及追隨者分享。
 
-如果你想要更多練習，請看 code contributions。
+如果你想要更多練習，請看 [code contributions](https://github.com/firstcontributions/first-contributions#code-contributions)。
+
 
 恭喜！妳/你剛剛完成了作為一個貢獻者會經常使用的標準工作流程：fork -> clone -> edit -> pull request！
 
