@@ -1279,6 +1279,7 @@
 - [Sahil Gulunjkar](https://github.com/Sahil4757)
 - [Sakshi Jaiswal](https://github.com/Sakshijazz)
 - [Samaksh Sethiya](https://github.com/Samaksh22)
+- [Atharva](https://github.com/Atharva-2041-code)
 - [Samiya-lateef](https://github.com/Samiyalatif)
 - [Samuel Rudqvist](https://github.com/srudqvist)
 - [Sanchi Tiwade](https://github.com/Sanchi-0804)
