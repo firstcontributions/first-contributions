@@ -15,11 +15,13 @@
 - [Alan Titus](https://github.com/Alantitus)
 - [Deekshitha3232](https://github.com/Deekshitha3232)
 - [Pathmesh G](https://github.com/Pathmesh)
+- [Vinayak Kamat](https://github.com/vinayakkamatcodes)
 - [ِAhmed Elsherif](https://github.com/ahmedelsherif-osama)
 - [Manasvi Jain](https://github.com/MJ-thunder)
 - [Satyam Kumar Jha](https://github.com/satyam536)
 - [Nithurshen Karthikeyan](https://github.com/nithurshen)
 - [Utkarsh Upreti](https://www.github.com/K4rsh)
+- [Md. Shamim Ahmed](https://github.com/cseshamim47)
 - [Zaid Qtaish](https://github.com/ZaidQtaish)
 - [vader-coder](https://github.com/vader-coder)
 - [pujala_jayashankar](https://github.com/PujalaJayaSankar)
@@ -56,8 +58,7 @@
 - [Abin Madathil](https://github.com/abinmadathil)
 - [Prince Yadav](https://github.com/warrior-hub)
 - [Kyra (kyrazzx)](https://github.com/kyrazzx)
-- [premludhanii26-cell][https://github.com/premludhangiii26-cell]
--[sachinandan yadav](https://github.com/sachinandan-05)
+- [premludhanii26-cell][https://github.com/premludhangiii26-cell] -[sachinandan yadav](https://github.com/sachinandan-05)
 - [Md Khalid Hasan Ansari]
 - [Shahid Afrid](https://github.com/shahid-afrid)
 - [Shanmukh sai karnam][https://github.com/karnam16]
@@ -94,6 +95,7 @@
 - [Andre Bimbatti](https://github.com/andrebimbatti)
 - [Hrishikesh Rondla](https://github.com/Hrishikesh-Rondla)
 - [Amit Kumar](https://github.com/amitak985059)
+- [Crisandresro012](https://github.com/Cristhian012)
 - [Rudra Pratap Singh Jadon](https://github.com/rudrajadon)
 - [Ronaldo P](https://github.com/Ronaldo-001)
 - [Trần Huỳnh Đăng Khôi](https://github.com/KhoiTarn)
@@ -551,6 +553,7 @@
 - [Sahil Sharma](https://github.com/sahil-me)
 - [Sal Adrian](https://github.com/Sal-Adrian)
 - [Shinbatsu F](https://github.com/Shinbatsu)
+- [Dilkhush](https://github.com/dilkhushsaini72)
 - [Shivanii30](https://github.com/Shivanii30)
 - [Sinbad Adjuik](https://github.com/synnbad)
 - [Sohyeon412](https://github.com/sohyeon412)
@@ -624,6 +627,7 @@
 - [Afham Irfan](https://github.com/auth-Afham)
 - [AkaruiNeko](https://github.com/BrightCat14)
 - [Akshat Jain](https://github.com/akshat2604)
+- [Roshan Kumar](https://github.com/roshan-zest)
 - [Akshay Kale](https://github.com/Dev-axay18)
 - [Alanto Manu](https://github.com/alantomanu)
 - [Ali Nasser](https://github.com/AliNasser05)
@@ -1474,13 +1478,15 @@
 - [Joshua Fernandes](https://github.com/joshjfernandes416) - Best of luck to you all <3
 - [0xSoniC](https://github.com/sonictheblue)
 - [Rom2555](https://github.com/Rom2555)
--[Kevin P](https://github.com/KPgittogether-sofdev)
--[Thanh Vũ](https://github.com/vu221604-creator)
+- [Kevin P](https://github.com/KPgittogether-sofdev)
+- [Thanh Vũ](https://github.com/vu221604-creator)
 - [Dozerokz](https://github.com/dozerokz)
--[heyilingran](https://github.com/heyilingran)
+- [ heyilingran](https://github.com/heyilingran)
 - [Alyna Liegl](https://github.com/alynaliegl) — Excited to contribute to open-source!
 - [MG-Edu](https://github.com/mg-edu)
 - [Tangguh D Pramono](https://github.com/TangguhDP) - Yup back at it!
 - [Guaresu](https://github.com/guaresu) - all the best for you
 - [Onur Çelebi](https://github.com/onurcelebi)
 - [Dimitri Zimermann](https://github.com/zimer69)
+- [Poornima Baste](https://github.com/PoornimaBaste)
+
