@@ -1499,5 +1499,6 @@
 - [Dimitri Zimermann](https://github.com/zimer69)
 - [Sundaram S](https://github.com/SundaramS25) - Bazinga! My open source journey begins
 - [Poornima Baste](https://github.com/PoornimaBaste)
+- [Hawie Abera](https://github.com/habera00)
 - [Jiya Amin](https://github.com/jiya1613)
 
