@@ -625,6 +625,7 @@
 - [Afham Irfan](https://github.com/auth-Afham)
 - [AkaruiNeko](https://github.com/BrightCat14)
 - [Akshat Jain](https://github.com/akshat2604)
+- [Roshan Kumar](https://github.com/roshan-zest)
 - [Akshay Kale](https://github.com/Dev-axay18)
 - [Alanto Manu](https://github.com/alantomanu)
 - [Ali Nasser](https://github.com/AliNasser05)
