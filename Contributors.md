@@ -12,6 +12,7 @@
 - [Mohit Bansal](https://github.com/WorkMohit17)
 - [jahnavi3221](https://github.com/jahnavi3221)
 - [Umasankar Varadati](https://github.com/umasankarvaradati)
+- [Ciara](https://github.com/ciahan)
 - [Salmaan M](https://github.com/Salmaan-M)
 - [Alan Titus](https://github.com/Alantitus)
 - [Deekshitha3232](https://github.com/Deekshitha3232)
