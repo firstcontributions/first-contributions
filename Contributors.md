@@ -9,6 +9,7 @@
 - [Kavindu Udara](https://github.com/kavindu-udara)
 - [Nazeer Shaikh](https://github.com/nash226)
 - [Mohit Bansal](https://github.com/WorkMohit17)
+- [jahnavi3221](https://github.com/jahnavi3221)
 - [Umasankar Varadati](https://github.com/umasankarvaradati)
 - [Salmaan M](https://github.com/Salmaan-M)
 - [Alan Titus](https://github.com/Alantitus)
