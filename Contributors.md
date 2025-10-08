@@ -15,6 +15,7 @@
 - [Alan Titus](https://github.com/Alantitus)
 - [Deekshitha3232](https://github.com/Deekshitha3232)
 - [Pathmesh G](https://github.com/Pathmesh)
+- [Vinayak Kamat](https://github.com/vinayakkamatcodes)
 - [ِAhmed Elsherif](https://github.com/ahmedelsherif-osama)
 - [Manasvi Jain](https://github.com/MJ-thunder)
 - [Satyam Kumar Jha](https://github.com/satyam536)
