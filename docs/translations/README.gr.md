@@ -1,5 +1,4 @@
 ﻿[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -49,7 +48,7 @@ git clone https://github.com/this-is-you/first-contributions.git
 cd first-contributions
 ```
 
-Τώρα δημιουργείστε ένα νέο παρακλάδι χρησιμοποιώντας την εντολή `git switch` :
+Τώρα δημιουργήστε ένα νέο παρακλάδι χρησιμοποιώντας την εντολή `git switch` :
 
 ```
 git switch -c your-new-branch-name
@@ -63,7 +62,7 @@ git switch -c add-alonzo-church
 
 (Το όνομα του παρακλαδιού δεν χρειάζεται να περιέχει την λέξη _add_ αλλά είναι λογικό να την συμπεριλάβουμε μιας και ο σκοπός του παρακλαδιού είναι να προσθέσουμε το όνομα μας σε μια λίστα.)
 
-## Πραγματοποιήστε τις αλλαγές και αποθηκεύστετες (add & commit)
+## Πραγματοποιήστε τις αλλαγές και αποθηκεύστε τες (add & commit)
 
 Τώρα ανοίξτε το αρχείο `Contributors.md` με έναν επεξεργαστή κειμένου. Χρειάζεται να είστε εξοικειωμένοι με την Markdown, μια ελαφριά γλώσσα σήμανσης. Δείτε στο [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) για το πως να χρησιμοποιήσετε την Markdown.
 
@@ -107,13 +106,13 @@ git push origin <add-your-name>
 
 όπου `<add-your-name>` αντικαταστήστε με το όνομα του παρακλαδιού(branch) που δημιουργήσατε προηγουμένως
 
-## Υποβάλλετε τις αλλαγές σας για έλεγχο
+## Υποβάλετε τις αλλαγές σας για έλεγχο
 
 Εάν πάτε στο αποθετήριο (repository) στο github θα δείτε ένα κουμπί με τίτλο `Compare & pull request`. Κάντε κλικ σε αυτό το κουμπί.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
-Τώρα υποβάλλετε το pull request.
+Τώρα υποβάλετε το pull request.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
@@ -124,9 +123,6 @@ git push origin <add-your-name>
 Συγχαρητήρια! Μόλις ολοκληρώσατε την τυπική ροή εργασιών _fork -> clone -> edit -> pull request_ που θα συναντήσετε συχνά ως συνεργάτης! 
 
 Γιορτάστε και μοιραστείτε την συνεισφορά σας με τους φίλους και τους ακόλουθους σας πηγαίνοντας στο [web app](https://firstcontributions.github.io/#social-share).
-
-Μπορείτε να συμμετέχετε στην ομάδα μας στο slack σε περίπτωση που θέλετε κάποια βοήθεια ή έχετε κάποια ερώτηση.
-[Η ομάδα μας στο slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
 Τώρα μπορείτε να ξεκινήσετε να συνεισφέρετε και σε άλλα project. Έχουμε φτιάξει μια λίστα από project με εύκολα προβλήματα για να ξεκινήσετε. Δείτε εδώ [τη λίστα με τα project](https://firstcontributions.github.io/#project-list).
 
