@@ -18,6 +18,7 @@
 - [Satyam Kumar Jha](https://github.com/satyam536)
 - [Nithurshen Karthikeyan](https://github.com/nithurshen)
 - [Utkarsh Upreti](https://www.github.com/K4rsh)
+- [Md. Shamim Ahmed](https://github.com/cseshamim47)
 - [Zaid Qtaish](https://github.com/ZaidQtaish)
 - [vader-coder](https://github.com/vader-coder)
 - [pujala_jayashankar](https://github.com/PujalaJayaSankar)
@@ -51,8 +52,7 @@
 - [Abin Madathil](https://github.com/abinmadathil)
 - [Prince Yadav](https://github.com/warrior-hub)
 - [Kyra (kyrazzx)](https://github.com/kyrazzx)
-- [premludhanii26-cell][https://github.com/premludhangiii26-cell]
--[sachinandan yadav](https://github.com/sachinandan-05)
+- [premludhanii26-cell][https://github.com/premludhangiii26-cell] -[sachinandan yadav](https://github.com/sachinandan-05)
 - [Md Khalid Hasan Ansari]
 - [Shahid Afrid](https://github.com/shahid-afrid)
 - [Shanmukh sai karnam][https://github.com/karnam16]
@@ -1464,5 +1464,4 @@
 - [Soumya Sinha] (<https://github.com/Soumyasinha29>)
 - [Joshua Fernandes](https://github.com/joshjfernandes416) - Best of luck to you all <3
 - [0xSoniC](https://github.com/sonictheblue)
-- [Rom2555](https://github.com/Rom2555)
--[Kevin P](https://github.com/KPgittogether-sofdev)
+- [Rom2555](https://github.com/Rom2555) -[Kevin P](https://github.com/KPgittogether-sofdev)
