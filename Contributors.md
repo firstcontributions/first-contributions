@@ -1284,6 +1284,7 @@
 - [Shangcheng Li](https://github.com/shangchengg)
 - [Shirinpandey](https://github.com/Shirinpandey)
 - [Shivam Gupta](https://github.com/shivam543210)
+- [Shivam Chaudhari](https://github.com/ShivamChaudhari19)
 - [Siddharth Anil](https://github.com/sidnovates)
 - [Sneha Singh](https://github.com/snehasingh-25)
 - [Sobin Maret](https://github.com/SireLancelott)
