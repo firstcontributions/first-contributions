@@ -1490,8 +1490,8 @@
 - [MG-Edu](https://github.com/mg-edu)
 - [Tangguh D Pramono](https://github.com/TangguhDP) - Yup back at it!
 - [Guaresu](https://github.com/guaresu) - all the best for you
-- [Onur Çelebi](https://github.com/onurcelebi)
+- [Onur Çelebi](https://github.com/onurcelebi)s
 - [Dimitri Zimermann](https://github.com/zimer69)
 - [Poornima Baste](https://github.com/PoornimaBaste)
 - [plopo22233](https://github.com/plopo22233)
-
+- [pikas3](https://github.com/Pikas3)
