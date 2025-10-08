@@ -19,6 +19,7 @@
 - [Vinayak Kamat](https://github.com/vinayakkamatcodes)
 - [ِAhmed Elsherif](https://github.com/ahmedelsherif-osama)
 - [Manasvi Jain](https://github.com/MJ-thunder)
+- [Scholarin](https://github.com/scholarin-cloud)
 - [Satyam Kumar Jha](https://github.com/satyam536)
 - [Nithurshen Karthikeyan](https://github.com/nithurshen)
 - [Utkarsh Upreti](https://www.github.com/K4rsh)
@@ -822,6 +823,7 @@
 - [Brandon McHugh](https://github.com/brandmch)
 - [BredyNilsen](https://github.com/bredynilsen)
 - [Cameron Scott](https://github.com/cdscott37)
+- [A Gupta](https://github.com/hi237271)
 - [Cesar Rice](https://github.com/checharito14)
 - [Chetan Atram](https://github.com/RabbitBoii)
 - [Chip Kelsey](https://github.com/chipncharge)
@@ -910,6 +912,7 @@
 - [Sahil Kolte](https://github.com/sahilakolte)
 - [Sandy052005](https://github.com/sandy052005)
 - [Sangeeta](https://github.com/sangeeta-nayak)
+- [Saul Goodman](https://github.com/NateBingChilling)
 - [Sujeeth Varma](https://github.com/Sujeeth-Varma)
 - [Shayne Geilman](https://github.com/ShayneJG)
 - [Shivam Gujar](https://github.com/CodebyShiv)
@@ -1268,6 +1271,7 @@
 - [Ritesh Murmu](https://github.com/Ritesh-cloud)
 - [RiteshSirohi](https://github.com/riteshsirohi)
 - [Rohan Raj P](https://github.com/rohandeadshot)
+- [Roman Stemp](https://github.com/ManilaAndVanilla)
 - [Rohit Mahajan](https://github.com/Rohit273848)
 - [Romuald Oluwatobi](https://github.com/Romulad)
 - [Ruben Legend](https://github.com/Ruben-legend)
@@ -1466,6 +1470,7 @@
 - [Aditi Mishra](https://github.com/aditimishra17)
 - [SpikeHunter](https://github.com/SpikeHunter)
 - [Maria Jesus Perez](https://github.com/mjperez)
+- [Edem Setse](https://github.com/EdzmLeGoat) - trump 202777
 - [Wasif Rahman](https://github.com/wasif-rahman)
 - [Raúl López](https://github.com/ralopezv)
 - [Thanh Trinh](https://github.com/thanhtrinh-code)
@@ -1482,6 +1487,7 @@
 - [0xSoniC](https://github.com/sonictheblue)
 - [Rom2555](https://github.com/Rom2555)
 - [Kevin P](https://github.com/KPgittogether-sofdev)
+- [Isabelle H](https://github.com/ahhhhhhhhhhhhhhhhhhhh)
 - [Thanh Vũ](https://github.com/vu221604-creator)
 - [Dozerokz](https://github.com/dozerokz)
 - [ heyilingran](https://github.com/heyilingran)
@@ -1489,7 +1495,10 @@
 - [MG-Edu](https://github.com/mg-edu)
 - [Tangguh D Pramono](https://github.com/TangguhDP) - Yup back at it!
 - [Guaresu](https://github.com/guaresu) - all the best for you
-- [Onur Çelebi](https://github.com/onurcelebi)
+- [Onur Çelebi](https://github.com/onurcelebi)s
 - [Dimitri Zimermann](https://github.com/zimer69)
+- [Sundaram S](https://github.com/SundaramS25) - Bazinga! My open source journey begins
 - [Poornima Baste](https://github.com/PoornimaBaste)
 - [Hawie Abera](https://github.com/habera00)
+- [Jiya Amin](https://github.com/jiya1613)
+
