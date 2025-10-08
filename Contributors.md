@@ -12,6 +12,7 @@
 - [Pratham Jaiswal](https://github.com/PrathamJaiswal9)
 - [Tejaswi Saraswathi](https://github.com/Tejaswi1305)
 - [Maxi Candia](https://github.com/MaxiCandiaJara)
+- [Atharva](https://github.com/Atharva-2041-code)
 - [Abhishek Maurya](https://github.com/abhishek-maurya576)
 - [Darshil Shah](https://github.com/nameisdarshil)
 - [Lovnish Verma](https://github.com/lovnishverma)
