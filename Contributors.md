@@ -1493,7 +1493,7 @@
 - [MG-Edu](https://github.com/mg-edu)
 - [Tangguh D Pramono](https://github.com/TangguhDP) - Yup back at it!
 - [Guaresu](https://github.com/guaresu) - all the best for you
-- [Onur Çelebi](https://github.com/onurcelebi)
+- [Onur Çelebi](https://github.com/onurcelebi)s
 - [Dimitri Zimermann](https://github.com/zimer69)
 - [Sundaram S](https://github.com/SundaramS25) - Bazinga! My open source journey begins
 - [Poornima Baste](https://github.com/PoornimaBaste)
