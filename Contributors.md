@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Smit Patel](https://github.com/jayambe36)
 - [Prisca Onwudebelu Ebubechukwu](https://github.com/PriscaTonia)
@@ -1475,3 +1475,4 @@
 - [Rom2555](https://github.com/Rom2555)
 -[Kevin P](https://github.com/KPgittogether-sofdev)
 -[Thanh Vũ](https://github.com/vu221604-creator)
+- [Dozerokz](https://github.com/dozerokz)
