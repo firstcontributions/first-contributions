@@ -19,6 +19,7 @@
 - [Vinayak Kamat](https://github.com/vinayakkamatcodes)
 - [ِAhmed Elsherif](https://github.com/ahmedelsherif-osama)
 - [Manasvi Jain](https://github.com/MJ-thunder)
+- [Scholarin](https://github.com/scholarin-cloud)
 - [Satyam Kumar Jha](https://github.com/satyam536)
 - [Nithurshen Karthikeyan](https://github.com/nithurshen)
 - [Utkarsh Upreti](https://www.github.com/K4rsh)
@@ -1270,6 +1271,7 @@
 - [Ritesh Murmu](https://github.com/Ritesh-cloud)
 - [RiteshSirohi](https://github.com/riteshsirohi)
 - [Rohan Raj P](https://github.com/rohandeadshot)
+- [Roman Stemp](https://github.com/ManilaAndVanilla)
 - [Rohit Mahajan](https://github.com/Rohit273848)
 - [Romuald Oluwatobi](https://github.com/Romulad)
 - [Ruben Legend](https://github.com/Ruben-legend)
@@ -1468,6 +1470,7 @@
 - [Aditi Mishra](https://github.com/aditimishra17)
 - [SpikeHunter](https://github.com/SpikeHunter)
 - [Maria Jesus Perez](https://github.com/mjperez)
+- [Edem Setse](https://github.com/EdzmLeGoat) - trump 202777
 - [Wasif Rahman](https://github.com/wasif-rahman)
 - [Raúl López](https://github.com/ralopezv)
 - [Thanh Trinh](https://github.com/thanhtrinh-code)
@@ -1492,11 +1495,12 @@
 - [MG-Edu](https://github.com/mg-edu)
 - [Tangguh D Pramono](https://github.com/TangguhDP) - Yup back at it!
 - [Guaresu](https://github.com/guaresu) - all the best for you
-- [Onur Çelebi](https://github.com/onurcelebi)
+- [Onur Çelebi](https://github.com/onurcelebi)s
 - [Dimitri Zimermann](https://github.com/zimer69)
 - [Sundaram S](https://github.com/SundaramS25) - Bazinga! My open source journey begins
 - [Poornima Baste](https://github.com/PoornimaBaste)
 - [LucasVbr](https://github.com/LucasVbr)
 - [plopo22233](https://github.com/plopo22233)
 - [AngelaXiang](https://github.com/mengtongxiang08)
+- [Jiya Amin](https://github.com/jiya1613)
 
