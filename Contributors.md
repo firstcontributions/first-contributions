@@ -196,6 +196,7 @@
 - [Rohit Madhu Ghadge](https://github.com/Rod7678)
 - [Jeyanth-S](https://github.com/Jeyanth-S)
 - [Jide Falaki](https://github.com/jidefal)
+- [Nihal Fairooz](https://github.com/5yruz)
 - [Jingyi Lu](https://github.com/lulu61000)
 - [JoachimC](https://github.com/Joachim280)
 - [Sahil Sankhyan](https://github.com/Sahil12341)
