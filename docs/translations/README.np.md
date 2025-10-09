@@ -1,5 +1,4 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -197,9 +196,10 @@ git push -u origin add-ram-regmi
 
 ## यहाँबाट कहाँ जाने?
 
-बधाई छ! तपाईले *Fork* -> *Clone*  -> *Edit*  -> *Pull Request*  कार्यप्रवाह(workflow) पूरा गर्नुभयो, जुन तपाई प्राय: एक योगदानकर्ता(contributor)को रूपमा गर्नुहुनेछ!
+बधाई छ!  
+तपाईले  `*Fork* -> *Clone*  -> *Edit*  -> *Pull Request*`  कार्यप्रवाह (workflow) पूरा गर्नुभयो, जुन तपाई प्राय: एक योगदानकर्ता(contributor)को रूपमा गर्नुहुनेछ!
 
-तपाईंले योगदान(contribution) दिनु भएकोमा खुशी मनाउनुहोस् र [web app](https://firstcontributions.github.io/#social-share) मा गएर आफ्नो friends and follower हरूमा पनि शेयर गर्नुहोस् ।
+तपाईंले योगदान(contribution) दिनु भएकोमा खुशी मनाउनुहोस् र  [ web app](https://firstcontributions.github.io/#social-share) मा गएर आफ्नो friends and follower हरूमा पनि शेयर गर्नुहोस् ।
 
 यदि तपाईंलाई थप अभ्यास चाहियो भने, [कोड योगदानहरू](https://github.com/roshanjossey/code-contributions) हेर्नुहोस्।
 
