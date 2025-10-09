@@ -1525,3 +1525,4 @@ Deepak Bhima Palli
 - [ShadowMist](https://github.com/shadowmist)
 - [Bibek Sharma](https://github.com/Bibek246)
 - [Ashish Singh](https://github.com/BoogeyyMann)
+- [Tasos Stefanidis](https://github.com/TasStef)
