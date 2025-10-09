@@ -1,5 +1,4 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -114,8 +113,6 @@ N'oge na-adịghị anya, m ga-emeri mgbanwe gị niile n'ime ngalaba alaka ụl
 Ekele! Naanị ị gụchara ihe nkesa -> mmepụta oyiri -> dezie -> Bọpụ ọrụ PR nke ị ga-ezute mgbe niile dị ka onye na-enye gị!
 
 Nalee onyinye gị ma soro ndị enyi gị na ụmụazụ gị kerịta ya site na ịga na [ngwa weebụ](https://firstcontributions.github.io/#social-share).
-
-Ị nwere ike isonyere ndị ọrụ anyị na-adịghị mma na ikpe ịchọrọ enyemaka ọ bụla ma ọ bụ nwee ajụjụ ọ bụla. [Jikọọ slack otu](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
 Ugbu a, ka anyị malite site na inye onyinye maka ọrụ ndị ọzọ. Anyị ejikọtawo ndepụta nke oru na okwu dị mfe ị nwere ike ịmalite. Lelee [ndepụta nke oru na ngwa weebụ ](https://firstcontributions.github.io/#project-list).
 
