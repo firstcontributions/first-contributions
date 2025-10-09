@@ -28,7 +28,7 @@ Now clone this repo to your machine.
 
 IMPORTANT: DO NOT CLONE THE ORIGINAL REPO. Go to your fork and clone it.
 
-To clone the repo, click on "Clone or Download" and then click on "Open in Desktop".
+To clone the repo, click on "Code" and then click on "Open in Github Desktop".
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-clonetodesktop.png" alt="clone this repository" />
 
