@@ -1534,6 +1534,7 @@
 - [Poornima Baste](https://github.com/PoornimaBaste)
 - [Hawie Abera](https://github.com/habera00)
 - [Jiya Amin](https://github.com/jiya1613)
+- [Juniper Brinegar](https://github.com/jClarinet) 
 - [Dinesh Kumar](https://github.com/dineshraj96)
 - [ShadowMist](https://github.com/shadowmist)
 - [Bibek Sharma](https://github.com/Bibek246)
