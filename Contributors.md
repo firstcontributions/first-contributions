@@ -826,6 +826,7 @@
 - [Ambar Singh](https://github.com/ambar-singh)
 - [Aniket Singh](https://github.com/darksoul-7)
 - [Antonio Fábio](https://github.com/zodiecko)
+- [Avigail B](https://github.com/avigail617)
 - [Raihan Ahmed](https://github.com/Enmilo-dev)
 - [Areen Patil](https://github.com/areen-patil)
 - [Ganesh Mane](https://github.com/Ganesh-PC018)
