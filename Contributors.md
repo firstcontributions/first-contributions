@@ -66,6 +66,7 @@
 - [Afsheen Nadaf](https://github.com/afsheen-nadaf)
 - [Daniel Li](https://github.com/FallingSky65)
 - [Andrew Park](https://github.com/AndePark)
+- [Mason Boucher](https://github.com/mcboucher10)
 - [Mariana Rutter](https://github.com/marianaluu)
 - [Rudresh Suryawanshi](https://github.com/Rudresh-11)
 - [Clement Zentz](https://github.com/clement-zentz)
