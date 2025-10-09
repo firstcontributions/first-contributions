@@ -1,6 +1,7 @@
 # Contributors
 
 - [Tetiana Tkachova](https://github.com/defur) git commit -m "Add <your-name> to Contributors list"
+- [Waqar Hasan](https://github.com/JohnWalkerHasan)
 - [Smit Patel](https://github.com/jayambe36)
 - [mtang624](https://github.com/mtang624)
 - [Prisca Onwudebelu Ebubechukwu](https://github.com/PriscaTonia)
