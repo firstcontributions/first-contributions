@@ -121,9 +121,16 @@ git push origin <add-your-name>
 
 在[這個網站](https://firstcontributions.github.io/#social-share)慶祝妳/你的成就並跟朋友及追隨者分享。
 
-如果有任何疑問或想獲得更多協助，歡迎加入我們的 [Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
+如果你想要更多練習，請看 [code contributions](https://github.com/roshanjossey/code-contributions)。
 
-現在就動手為其他專案貢獻你/妳的心力。我們整理了一個清單，裡面的專案都有簡單的議題可以著手。[去看看吧！](https://firstcontributions.github.io/#project-list)
+
+恭喜！妳/你剛剛完成了作為一個貢獻者會經常使用的標準工作流程：fork -> clone -> edit -> pull request！
+
+現在讓我們一起為其他專案做出貢獻吧！
+
+我們整理了一份有簡單議題的專案清單來幫助你開始貢獻。  
+[去看看吧！](https://firstcontributions.github.io/#project-list)
+
 
 ### [ 更多資料 ](../additional-material/git_workflow_scenarios/additional-material.md)
 
