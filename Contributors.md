@@ -14,6 +14,7 @@
 - [Nitin Singh Bisht](https://github.com/NitinNSB)
 - [Ciara](https://github.com/ciahan)
 - [Shashank Avvaru](https://github.com/Shashankavvaru-hub)
+- [Krishna Sahith Yandapalli] (https://github.com/krishnasahith)
 - [Mohamed Adhil](https://github.com/adhil-cloud)
 - [Aydan Butler](https://github.com/aydanpb)
 - [Kavindu Udara](https://github.com/kavindu-udara)
