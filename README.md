@@ -28,7 +28,7 @@
 <kbd>[<img title="עִברִית" alt="עִברִית" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/il.svg" width="22">](docs/translations/README.hb.md)</kbd>
 <kbd>[<img title="हिंदी/ગુજરાતી/मराठी/മലയാളം/ಕನ್ನಡ/తెలుగు/छत्तीसगढ़ी/বাংলা/தமிழ்" alt="हिंदी/ગુજરાતી/मराठी/മലയാളം/ಕನ್ನಡ/తెలుగు/छत्तीसगढ़ी/বাংলা/தமிழ்" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/in.svg" width="22">](docs/translations/Translations.md)</kbd>
 <kbd>[<img title="தமிழ்" alt="தமிழ்" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/lk.svg" width="22">](docs/translations/README.ta.md)</kbd>
-<kbd>[<img title="فارسی" alt="فارسی" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ir.svg" width="22">](docs/translations/README.fa.md)</kbd>
+<kbd>[<img title="فارسی" alt="فارسی" src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Iran_before_1979_Revolution.svg" width="22">](docs/translations/README.fa.md)</kbd>
 <kbd>[<img title="Italiano" alt="Italiano" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/it.svg" width="22">](docs/translations/README.it.md)</kbd>
 <kbd>[<img title="日本語" alt="日本語" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/jp.svg" width="22">](docs/translations/README.ja.md)</kbd>
 <kbd>[<img title="සිංහල" alt="සිංහල" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/lk.svg" width="22">](docs/translations/README.si.md)</kbd>
