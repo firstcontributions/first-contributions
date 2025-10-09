@@ -600,6 +600,7 @@
 - [Vishal Manik](https://github.com/vmanik2k)
 - [VizzScript](https://github.com/vizzscript)
 - [Weirdo-147](https://github.com/Weirdo-147)
+- [Jevon Parker](https://github.com/JDPX1998)
 - [Xephyronix](https://github.com/Xephyronix)
 - [Yash aka Light](https://github.com/y8done)
 - [Yulhui Kim](https://github.com/dbfgml2000)
