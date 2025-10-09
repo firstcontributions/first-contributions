@@ -64,6 +64,7 @@
 - [Issa Issack](https://github.com/essaissa)
 - [Mogal](https://github.com/)
 - [Afsheen Nadaf](https://github.com/afsheen-nadaf)
+- [Daniel Li](https://github.com/FallingSky65)
 - [Andrew Park](https://github.com/AndePark)
 - [Mariana Rutter](https://github.com/marianaluu)
 - [Rudresh Suryawanshi](https://github.com/Rudresh-11)
