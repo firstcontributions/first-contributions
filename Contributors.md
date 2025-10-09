@@ -1,7 +1,7 @@
 # Contributors
 
 - [Tetiana Tkachova](https://github.com/defur) git commit -m "Add <your-name> to Contributors list"
-- [Biswajit Rapidsoft] (https://github.com/biswajitRapidsoft)
+- [The Bug Hunter](https://github.com/biswajitRapidsoft)
 - [Waqar Hasan](https://github.com/JohnWalkerHasan)
 - [Smit Patel](https://github.com/jayambe36)
 - [mtang624](https://github.com/mtang624)
