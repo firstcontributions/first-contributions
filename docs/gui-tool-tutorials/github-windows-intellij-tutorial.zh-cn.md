@@ -1,5 +1,4 @@
 [![开源之爱](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![许可证: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -115,8 +114,6 @@ IntelliJ IDEA 允许你检出（Git 中的 clone）一个已有的仓库，并�
 恭喜！你刚刚完成了标准的 _fork -> clone -> 编辑 -> PR_ 流程，这将是你未来开源贡献中非常常见的工作流程！
 
 庆祝一下你的首次贡献，并通过 [web app](https://firstcontributions.github.io#social-share) 与好友分享你的成就吧！
-
-如果你有任何问题，欢迎加入我们的 Slack 团队：[加入 Slack 团队](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 
 ---
 
