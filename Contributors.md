@@ -758,6 +758,7 @@
 - [Rakshith](https://github.com/manrakshithqt)
 - [Ramis Humayun](https://github.com/Ramis102)
 - [Raunit Arya](https://github.com/RaunitArya)
+- [Arif Uz Zaman](https://github.com/Arif-Badhon)
 - [Ravi Prakash](https://github.com/devp-ravi)
 - [Ravi singh](https://github.com/ravir0ushan)
 - [Rennan Reis](https://github.com/rennanreis)
