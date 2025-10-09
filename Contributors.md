@@ -1526,3 +1526,4 @@ Deepak Bhima Palli
 - [Bibek Sharma](https://github.com/Bibek246)
 - [Ashish Singh](https://github.com/BoogeyyMann)
 - [bismuth-baller](https://github.com/bismuth-baller)
+- [bismuth](https://github.com/bismuth)
