@@ -469,6 +469,7 @@
 - [Vedanth](https://github.com/Vedanth81106)
 - [Vinh D Tran](https://github.com/s3500659)
 - [Vinit Rana](https://github.com/RanaVinit)
+- [Gagan Bhatti](https://github.com/Gagan512)
 - [Virabhadra Khobare](https://github.com/VirabhadraKhobare)
 - [YudisSutisna](https://github.com/Hanep77)
 - [Yux](https://github.com/rahumers321POPPy)
