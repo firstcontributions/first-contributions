@@ -1,5 +1,4 @@
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-2vqegkew0-ZuzGM1LO33C6Ts4nZyat1Q)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -8,7 +7,7 @@
 
 এই প্ৰকল্পই আৰম্ভণকাৰীসকলৰ বাবে প্ৰথম অৱদানটো সহজ আৰু পোষকভাৱে কৰিবলৈ সহায় কৰে। যদি আপুনি আপোনাৰ প্রথম অৱদানটো কৰিবলৈ বিচাৰে, তলত দিয়া পদক্ষেপসমূহ অনুসৰণ কৰক।
 
-যদি আপুনি command lineৰ সৈতে আৰামদায়ক নোহোৱাঁ, GUI tools ব্যৱহাৰ কৰি ইয়াত tutorial আছে।
+যদি আপুনি command lineৰ সৈতে আৰামদায়ক নোহোৱাঁ, GUI tools ব্যৱহাৰ কৰি ইয়াত টিউট’ৰিয়েল আছে।
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
