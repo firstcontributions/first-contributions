@@ -1543,6 +1543,7 @@
 - [Ashish Singh](https://github.com/BoogeyyMann)
 - [Tasos Stefanidis](https://github.com/TasStef)
 [fibonacci1123git](https://github.com/fibonacci1123git)
+- [bismuth-baller](https://github.com/bismuth-baller)
 - [Filipe Limao](https://github.com/fliplemon)
 - [Formulaeagle161](https://github.com/Formulaeagle161)
 - [testiz](https://github.com/TEST-iz)
