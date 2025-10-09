@@ -51,6 +51,7 @@
 - [vyshnavi raj](https://github.com/vyshnaviraj)
 - [Omm Satyakam](https://github.com/p-retrover)
 - [Nirbhay Bawankule](https://github.com/NirbhayBawankule)
+- [Ronik Kumbhar](https://github.com/ronik62)
 - [Ashutosh](https://github.com/Ashutosh9470)
 - [Leonardo Garzon](https://github.com/Leonardo-Garzon-1995)
 - [Shubhanshu](https://github.com/shbhansh66)
