@@ -7,6 +7,7 @@
 - [mtang624](https://github.com/mtang624)
 - [Prisca Onwudebelu Ebubechukwu](https://github.com/PriscaTonia)
 - [Aaromal A](https://github.com/aaromalonline)
+- [vipul]
 - [sulmanfarooqq](https://github.com/sulmanfarooqq)
 - [Montad-24](https://github.com/Montad-24)
 - [Towhidul Islam](https://github.com/towhidulbu08)
