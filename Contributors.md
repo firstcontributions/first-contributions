@@ -1556,3 +1556,4 @@
 - [app3000](https://github.com/app3000)
 - [Guiar-Oqba](https://github.com/okba14)
 - [Caleb Le Bouder](https://github.com/cylebouder) - "the purpose of nature is the advancement and development of life"
+- [Edward Zhu](https://github.com/okba14)
