@@ -1562,3 +1562,4 @@
 - [Caleb Le Bouder](https://github.com/cylebouder) - "the purpose of nature is the advancement and development of life"
 - [Edward Zhu](https://github.com/okba14)
 - [Ben Shaheen](https://github.com/splitpea89)
+- [Daphne Wen](https://github.com/gahpeach23)
