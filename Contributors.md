@@ -26,6 +26,7 @@
   [Sachin](https://github.com/Sachin-2003-hub)
 - [Alan Titus](https://github.com/Alantitus)
 - [Andrés Galvis P.](https://github.com/paleto30)
+- [Christian Dezha](https://github.com/kekedezha)
 - [Emmanuel Postigo](https://github.com/empostigo)
 - [Deekshitha3232](https://github.com/Deekshitha3232)
 - [Pathmesh G](https://github.com/Pathmesh)
@@ -1409,7 +1410,7 @@
 - [Pranavg1203](https://github.com/PranavG1203)
 - [TANAY-BARGIR](https://github.com/TANAY-BARGIR)
 - [harshkaushik31](https://github.com/harshkaushik31)
-Deepak Bhima Palli
+  Deepak Bhima Palli
 - [leenahunagund](https://github.com/leenahunagund)
 - [Gijun Moon](https://github.com/gijunmoon)
 - [Sumeet D Choudhary](https://github.com/sumeet156)
