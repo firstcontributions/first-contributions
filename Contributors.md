@@ -24,6 +24,7 @@
 - [Salmaan M](https://github.com/Salmaan-M)
 - [Alan Titus](https://github.com/Alantitus)
 - [Andrés Galvis P.](https://github.com/paleto30)
+- [Emmanuel Postigo](https://github.com/empostigo)
 - [Deekshitha3232](https://github.com/Deekshitha3232)
 - [Pathmesh G](https://github.com/Pathmesh)
 - [Vinayak Kamat](https://github.com/vinayakkamatcodes)
