@@ -1529,3 +1529,5 @@ Deepak Bhima Palli
 - [Bibek Sharma](https://github.com/Bibek246)
 - [Ashish Singh](https://github.com/BoogeyyMann)
 - [Tasos Stefanidis](https://github.com/TasStef)
+- [Yash Patil](https://github.com/yashumak)
+
