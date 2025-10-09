@@ -1536,6 +1536,8 @@
 - [Sundaram S](https://github.com/SundaramS25) - Bazinga! My open source journey begins
 - [Poornima Baste](https://github.com/PoornimaBaste)
 - [Hawie Abera](https://github.com/habera00)
+- [Torgyn](https://github.com/tz9158)
+- [Jessica](https://github.com/jxssicaz)
 - [Jiya Amin](https://github.com/jiya1613)
 - [Juniper Brinegar](https://github.com/jClarinet) 
 - [Dinesh Kumar](https://github.com/dineshraj96)
