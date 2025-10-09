@@ -1547,3 +1547,4 @@
 - [testiz](https://github.com/TEST-iz)
 - [Ella] (https://github.com/elpha_bet)
 - [Purple-Urchin](https://github.com/purple-urchin)
+- [Torgyn](https://github.com/tz9158)
