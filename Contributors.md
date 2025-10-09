@@ -18,6 +18,7 @@
 - [Kavindu Udara](https://github.com/kavindu-udara)
 - [Nazeer Shaikh](https://github.com/nash226)
 - [Mohit Bansal](https://github.com/WorkMohit17)
+- [Akanksha Shinde](https://github.com/AkankshaShinde23)
 - [jahnavi3221](https://github.com/jahnavi3221)
 - [Umasankar Varadati](https://github.com/umasankarvaradati)
 - [Ciara](https://github.com/ciahan)
