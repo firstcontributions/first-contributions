@@ -84,3 +84,4 @@
 | <img alt="Kurdî" title="Kurdî (Kurdish)" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Flag_of_Kurdistan.svg" width="22">                                                                                                                                                 | Kurdî
 | [Javanese](README.jv.md) |
 | <img alt="Javanese" title="Javanese" src="https://flagcdn.com/id.svg" width="22">                                                         |
+| <img title="Монгол хэл" alt="Монгол хэл" src="https://cdn.statically.io/flags/mn.svg" width="22">                                                                                                                                         | [Монгол хэл](README.mn.md)                           |
