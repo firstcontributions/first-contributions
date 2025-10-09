@@ -1,6 +1,7 @@
 # Contributors
 
 - [Tetiana Tkachova](https://github.com/defur) git commit -m "Add <your-name> to Contributors list"
+- [Biswajit Rapidsoft] (https://github.com/biswajitRapidsoft)
 - [Waqar Hasan](https://github.com/JohnWalkerHasan)
 - [Smit Patel](https://github.com/jayambe36)
 - [mtang624](https://github.com/mtang624)
@@ -69,7 +70,7 @@
 - [Abin Madathil](https://github.com/abinmadathil)
 - [Prince Yadav](https://github.com/warrior-hub)
 - [Kyra (kyrazzx)](https://github.com/kyrazzx)
-- [premludhanii26-cell](https://github.com/premludhangiii26-cell) 
+- [premludhanii26-cell](https://github.com/premludhangiii26-cell)
 - [sachinandan yadav](https://github.com/sachinandan-05)
 - [Md Khalid Hasan Ansari]
 - [Shahid Afrid](https://github.com/shahid-afrid)
