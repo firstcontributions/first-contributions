@@ -1,4 +1,5 @@
 # Contributors
+-[vineet pandey](https://github.com/vineetp6)
 - [Kyra (kyrazzx)](https://github.com/kyrazzx)
 - [Wilmer Gulcochia](https://github.com/wigsdev)
 - [Amadou Kebe](https://github.com/AmadouLKebe)
