@@ -1515,3 +1515,4 @@
 - [Dinesh Kumar](https://github.com/dineshraj96)
 - [ShadowMist](https://github.com/shadowmist)
 - [Bibek Sharma](https://github.com/Bibek246)
+- [Ashish Singh](https://github.com/BoogeyyMann)
