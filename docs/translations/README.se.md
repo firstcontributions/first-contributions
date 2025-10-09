@@ -109,7 +109,7 @@ Gratulerar! Du har just genomfört standardprocessen för _fork -> clone -> edit
 Fira genom att dela med dina vänner och följare genom att gå till [web app](https://firstcontributions.github.io/#social-share).
 
 Behöver du hjälp eller vill du bidra till projektet?  
-eller kolla in våra [Code Contributions](https://github.com/firstcontributions/first-contributions).
+eller kolla in våra [Code Contributions](https://github.com/roshanjossey/code-contributions).
 
 Nu kan du gå vidare genom att bidra i andra projekt. Vi har sammanställt en lista med enkla uppgifter som du kan starta med. Kolla in [projektlistan i webbapplikationen](https://firstcontributions.github.io/#project-list).
 
