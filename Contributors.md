@@ -4,6 +4,7 @@
 - [Smit Patel](https://github.com/jayambe36)
 - [Prisca Onwudebelu Ebubechukwu](https://github.com/PriscaTonia)
 - [sulmanfarooqq](https://github.com/sulmanfarooqq)
+- [Montad-24](https://github.com/Montad-24)
 - [Towhidul Islam](https://github.com/towhidulbu08)
 - [Ciara](https://github.com/ciahan)
 - [Shashank Avvaru](https://github.com/Shashankavvaru-hub)
