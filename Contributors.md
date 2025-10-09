@@ -1337,6 +1337,7 @@
 - [Tristan Collier](https://github.com/CollierTR)
 - [Tristan Orpilla](https://github.com/13tristan)
 - [Turab Usmani](https://github.com/turab-usmani)
+- [Adam Derbel](https://github.com/Adamderbel)
 - [Ushio-Hayase](https://github.com/Ushio-Hayase)
 - [Varsha Ghodase](https://github.com/Varsha1202)
 - [Varsha Ghodase](https://github.com/Varsha1202)
