@@ -1,7 +1,7 @@
 ---
 name: Suggest changes
 about: If you want to report a bug or suggest improvements, please open an issue.
-title: ''
+title: 'Mega Project'
 labels: discussion, question
 assignees: Roshanjossey
 
