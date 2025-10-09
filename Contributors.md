@@ -16,6 +16,7 @@
 - [Umasankar Varadati](https://github.com/umasankarvaradati)
 - [Ciara](https://github.com/ciahan)
 - [Salmaan M](https://github.com/Salmaan-M)
+  [Sachin](https://github.com/Sachin-2003-hub)
 - [Alan Titus](https://github.com/Alantitus)
 - [Andrés Galvis P.](https://github.com/paleto30)
 - [Deekshitha3232](https://github.com/Deekshitha3232)
