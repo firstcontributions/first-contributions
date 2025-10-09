@@ -19,7 +19,7 @@ If you're using a version of GitHub desktop before 1.0, [refer to this tutorial]
 
 ## Fork this repository
 
-Fork this repo by clicking on the fork button on the top right of this page.
+Fork this repo by clicking on the fork button on the [main](https://github.com/firstcontributions/firstcontributions) page of this repo. the top right of this page.
 This will create a copy of this repository in your account.
 
 ## Clone the repository
@@ -28,7 +28,7 @@ Now clone this repo to your machine.
 
 IMPORTANT: DO NOT CLONE THE ORIGINAL REPO. Go to your fork and clone it.
 
-To clone the repo, click on "Clone or Download" and then click on "Open in Desktop".
+To clone the repo, click on "Code" and then click on "Open in Github Desktop".
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-clonetodesktop.png" alt="clone this repository" />
 
