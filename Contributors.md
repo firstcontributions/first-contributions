@@ -8,6 +8,7 @@
 - [sulmanfarooqq](https://github.com/sulmanfarooqq)
 - [Montad-24](https://github.com/Montad-24)
 - [Towhidul Islam](https://github.com/towhidulbu08)
+- [Nitin Singh Bisht](https://github.com/NitinNSB)
 - [Ciara](https://github.com/ciahan)
 - [Shashank Avvaru](https://github.com/Shashankavvaru-hub)
 - [Mohamed Adhil](https://github.com/adhil-cloud)
