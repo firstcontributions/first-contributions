@@ -1520,4 +1520,3 @@
 - [ShadowMist](https://github.com/shadowmist)
 - [Bibek Sharma](https://github.com/Bibek246)
 - [Ashish Singh](https://github.com/BoogeyyMann)
-- [Mar'ah Rofidah](https://github.com/marahrofidah)
