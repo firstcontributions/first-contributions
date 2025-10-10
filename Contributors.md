@@ -1578,3 +1578,6 @@
 - [Kayra Demirkan](https://github.com/kayrademirkan)
 - [Nelan](https://github.com/NelanJoe)
 - [TheFooL](https://github.com/AmjustGettingStarted)
+- [Pulkit Rustagi](https://github.com/Pulkit1r)
+
+
