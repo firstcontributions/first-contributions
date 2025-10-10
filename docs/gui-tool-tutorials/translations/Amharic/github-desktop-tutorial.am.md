@@ -20,9 +20,9 @@
 ## ይህንን ማከማቻ **fork** ያድርጉ
 
 በዚህ ገጽ ላይኛው ክፍል ላይ ያለውን የfork button ጠቅ በማድረግ ይህንን ማከማቻ fork ያድርጉት።
-ይህ በእርስዎ account ውስጥ የዚህን repository ቅጂ ይፈጥራል።
+ይህ በእርስዎ አካውንት ውስጥ የዚህን "ሪፖዚተሪ" ቅጂ ይፈጥራል።
 
-## የማከማቻውን ተመሳሳይ(ቅጂ) ይፍጠሩ (Clone)
+## የማከማቻውን ተመሳሳይ (ቅጂ) ይፍጠሩ (Clone)
 
 አሁን የዚህን ማከማቻ ቅጂ በኮምፒተርዎ ላይ ይፍጠሩ። 
 
@@ -52,13 +52,69 @@
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-create-branch.png" alt="make a branch" />
 
-ቅርንጫፉን ‹add-your-name› በማለት ይሰይሙ። ለምሳሌ፣ "add-ይሁን-አለማየሁ"።
+ቅርንጫፉን ‹add-የእርስዎ-ስም› በማለት ይሰይሙ። ለምሳሌ፣ "add-ይሁን-አለማየሁ"።
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-create-branch-name.png" alt="name your branch" />
 
 `Create branch`  የሚለውን ጠቅ ያድርጉ። 
 
-## አስፈላጊ ለውጦችን ያድርጉ እና ለውጦችን ይፈጥሙ (commit)
+## አስፈላጊ ለውጦችን ያድርጉ እና ለውጦችን ይፈፅሙ (commit)
+
+አሁን ወደ `History` ታብ በመሄድ `Contributors.md` የሚለውን ፋይል 'ራይት ክሊክ' በማድረግ ባሎት ፅሑፍ አርታኢ(text editor) ይክፍቱት። ወደ ገፁ መጨረሻ በመሄድ ስምዎን ይጨምሩና ፋይሉን 'ሴቭ' ያድርጉት።
+
+ምሳሌ፡ ስምዎት ይሁን-አለማየሁ ከሆነ፣ ይህን መምሰል አለበት።
+
+\[ይሁን-አለማየሁ]( https://github.com/ ይሁን-አለማየሁ)
+
+`Contributors.md` ፋይል ላይ ለውጦች እንዳሉ እና ወደ "GitHub Desktop" እንደተጨመሩ ማየት ይችላሉ።
+
+<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-status.png" alt="check status" />
+
+አሁን እነዚህን ለውጦች ይፈፅሙ(commit)።
+
+"_summary_ field" በሚለው ክፍት ቦታ ላይ "Add `<የእርስዎ-ስም>` to Contributors list" ብለው ይፃፉ።
+
+`<የእርስዎ-ስም>` የሚለውን በትክክለኛ ስምዎ ይተኩት።
+
+`Commit to add-your-name` የሚለውን "በተን" ጠቅ ያድርጉት።
+
+<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-commit1.png" alt="commit your changes" />
+
+ከታች ለውጡ እንደተፈፀመ ማየት ይችላሉ።
+
+<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-commit2.png" alt="commit your changes" />
+
+## ለውጦችን ወደ GitHub ይግፉ 
+
+File->Options ከዛም sign-in to Github.com የሚሉትን ጠቅ ያድርጉ እና የ"GitHub" አካውንትዎን ስምና የይለፍ ቃል በማስገባት "sign-in" ያድርጉ።
+
+<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-sign-in.png" alt="log-in to Github" />
+
+በላይኛው ቀኝ ጠርዝ አካባቢ `Publish` የሚለውን "በተን" ጠቅ ያድርጉት።
+
+<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-publish1.png" alt="push your changes" />
+
+## ለውጦችዎን ለግምገማ ያስገቡ (Pull request)
+
+በ GitHub ላይ ወደ ማከማቻዎ ከሄዱ፣ ‘compare & pull request' የሚለውን ቁልፍ ያያሉ። በዚያ ቁልፍ ላይ ጠቅ ያድርጉ።
+
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+
+አሁን pull request ያስገቡ።
+
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+
+በቅርቡ ሁሉንም ለውጦችዎን ወደዚህ ፕሮጀክት ዋና ቅርንጫፍ አዋህዳቸዋለሁ። ለውጦቹ ከተዋሃዱ በኋላ የማሳወቂያ 'ኢይሜል' ይደርስዎታል።
+
+## ከዚህስ ወዴት ልሂድ?
+
+እንኳን ደስ ያሎዎት! ልክ እንደ አስተዋጽዖ አበርካች የሚያጋጥሙትን መደበኛ _fork -> clone -> edit -> pull request_ የስራ ፍሰትን አጠናቀዋል!
+
+አስተዋጾዎን ያጣጣጥሙ እና ወደ [ድህረ-ግፅ](https://firstcontributions.github.io/#social-share) በመሄድ ለጓደኞችዎ እና ተከታዮችዎ ያካፍሉ።
 
 
+## [ተጨማሪ ቁሳቁስ](docs/additional-material/git_workflow_scenarios/additional-material.md)
 
+## የሌሎች መሳሪያዎች አጠቃቀም አጋዥ ስልጠናዎች
+
+[ወደ ዋናው ገፅ ይመለሱ።](https://github.com/firstcontributions/first-contributions#tutorials-using-other-tools)
