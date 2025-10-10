@@ -3,6 +3,7 @@
 - [yakov007](https://github.com/yakov007 "Add to Contributors list"
 - [Tetiana Tkachova](https://github.com/defur) git commit -m "Add <your-name> to Contributors list"
 - [Cooper Li] (https://github.com/CooperLi1)
+- [Vasistha_yadav] (git switch -c your-new-branch-name)
 - [The Bug Hunter](https://github.com/biswajitRapidsoft)
 - [Waqar Hasan](https://github.com/JohnWalkerHasan)
 - [Smit Patel](https://github.com/jayambe36)
@@ -60,6 +61,7 @@
 - [Dhayanithi s r](https://github.com/its-dhaya)
 - [Raja Rathour](https://github.com/Raja-89)
 - [Claire Haynes](https://github.com/ClaireHaynes700)
+- [Vito Bondanese](https://github.com/VBVB99)
 - [charitha-369](https://github.com/charitha-369)
 - [Michael Wright](https://github.com/lumberjackwizard)
 - [Viraj Hudlikar](https://github.com/vhudlikar)
@@ -1463,6 +1465,7 @@
 - [Fahed Khan](https://github.com/12fahed)
 - [Suhani Shah](https://github.com/B24CH1037)
 - [Alireza Rostamnezhad](https://github.com/arnpacc)
+- [Srikant M K](https://github.com/srixmk)
 - [Harini R A J](https://github.com/Harini-RAJ)
 - [Zahra Shefa](https://github.com/zahrashefa318)
 - [Purushottam-Singh](https://github.com/purakh)
@@ -1589,3 +1592,4 @@
 - [Jabrail Shahbazov](https://github.com/JabrailShahbazov)
 - [Kagisho Makoti](https://github.com/k4g1sho)
 - [Ritika Sinha](https://github.com/RitikaSinhaa99)
+- [Ramya](https://github.com/ramyayashvi)
