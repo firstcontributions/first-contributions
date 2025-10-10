@@ -3,6 +3,7 @@
 - [yakov007](https://github.com/yakov007 "Add to Contributors list"
 - [Tetiana Tkachova](https://github.com/defur) git commit -m "Add <your-name> to Contributors list"
 - [Cooper Li] (https://github.com/CooperLi1)
+- [Vasistha_yadav] (git switch -c your-new-branch-name)
 - [The Bug Hunter](https://github.com/biswajitRapidsoft)
 - [Waqar Hasan](https://github.com/JohnWalkerHasan)
 - [Smit Patel](https://github.com/jayambe36)
