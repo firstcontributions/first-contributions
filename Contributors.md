@@ -5,6 +5,7 @@
 - [Tetiana Tkachova](https://github.com/defur) git commit -m "Add <your-name> to Contributors list"
 - [Cooper Li] (https://github.com/CooperLi1)
 - [Vasistha_yadav] (git switch -c your-new-branch-name)
+- [Manoj Pipare](https://github.com/manojvp16)
 - [The Bug Hunter](https://github.com/biswajitRapidsoft)
 - [Waqar Hasan](https://github.com/JohnWalkerHasan)
 - [Smit Patel](https://github.com/jayambe36)
@@ -775,7 +776,7 @@
 - [Pranit Gore](https://github.com/PRANIT0605)
 - [R Ricky Roger](https://github.com/RickRo77)
 - [Raghav Dwivedi](https://github.com/dwi4122)
- Zubary ismail
+  Zubary ismail
 - [Rakshith](https://github.com/manrakshithqt)
 - [Ramis Humayun](https://github.com/Ramis102)
 - [Raunit Arya](https://github.com/RaunitArya)
