@@ -1107,6 +1107,7 @@
 - [Keshav Kant](https://github.com/Keshav-Kant/)
 - [Keval Deepak](https://github.com/kevaldeepak)
 - [KevinThomas](https://github.com/HELL-KERBECS)
+- [Sumesh Majhi](https://github.com/MajhiRockzZ)
 - [Kirti Desale](https://github.com/kirtidesale)
 - [Kirti Mangate](https://github.com/kirti-ak47)
 - [Komathi](https://github.com/komathi-pandiyan)
