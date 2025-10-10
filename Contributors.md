@@ -9,6 +9,7 @@
 - [Prisca Onwudebelu Ebubechukwu](https://github.com/PriscaTonia)
 - [Aaromal A](https://github.com/aaromalonline)
 - [vipul]
+- [CheriBerry77](https://github.com/CheriBerry77)
 - [Jonathan Scott](https://github.com/Hatonjan)
 - [sulmanfarooqq](https://github.com/sulmanfarooqq)
 - [Montad-24](https://github.com/Montad-24)
