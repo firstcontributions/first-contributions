@@ -143,7 +143,7 @@ git switch -c your-new-branch-name
 For example:
 
 ```bash
-git switch -c add-alonzo-church
+git switch -c add-alonzo-temple
 ```
 
 <details>
