@@ -197,4 +197,4 @@ Ceci n'est pas nécessaire, mais le nom de la branche montre que son objectif es
 
 ## Où aller ensuite ?
 
-Si vous souhaitez contribuer au code, consultez notre [dépôt GitHub de contributions au code](https://github.com/roshanjossey/code-contributions).
+Contribuez à des projets open-source : [Contributions de code](https://github.com/firstcontributions/code-contributions).
