@@ -772,6 +772,7 @@
 - [Pranit Gore](https://github.com/PRANIT0605)
 - [R Ricky Roger](https://github.com/RickRo77)
 - [Raghav Dwivedi](https://github.com/dwi4122)
+ Zubary ismail
 - [Rakshith](https://github.com/manrakshithqt)
 - [Ramis Humayun](https://github.com/Ramis102)
 - [Raunit Arya](https://github.com/RaunitArya)
