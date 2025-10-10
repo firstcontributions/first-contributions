@@ -1,5 +1,5 @@
 # Contributors
-
+- [Kevin](https://github.com/M0nesy121)
 - [tsuki-year](https://github.com/tsuki-year)
 - [yakov007](https://github.com/yakov007 "Add to Contributors list"
 - [Tetiana Tkachova](https://github.com/defur) git commit -m "Add <your-name> to Contributors list"
@@ -839,6 +839,7 @@
 - [brainkoko](https://github.com/thanatoast03)
 - [haryiank](https://github.com/HaryiankKumra)
 - [rishi raj](https://github.com/rishiraj1209)
+- [Pankaj Kumar](https://github.com/pankajkr56070)
 - [saiki kohei](https://github.com/saisai-web)
 - [sakib maniyar](https://github.com/Saquib45)
 - [widespectrum](https://github.com/widespctr)
@@ -1189,6 +1190,7 @@
 - [Subin Mariyadas](https://github.com/subin170)
 - [Sumit Pandey](https://github.com/5umitpandey)
 - [Julian Givens](https://github.com/jlngvns)
+- [Christopher Wang](https://github.com/OrcaWhale2008)
 - [Sunhith_Reddy](https://github.com/codetuscan)
 - [Suresh Deora](https://github.com/SureshDeora)
 - [Suved Ganduri](https://github.com/Sooowayydh)
@@ -1590,7 +1592,9 @@
 - [TheFooL](https://github.com/AmjustGettingStarted)
 - [mlody1377](https://github.com/mlody1377)
 - [Neda Darbandsari](https://github.com/NeDarbandsari)
+- [Amrita Singh🌼](https://github.com/daisy-amrita)
 - [Jabrail Shahbazov](https://github.com/JabrailShahbazov)
 - [Kagisho Makoti](https://github.com/k4g1sho)
 - [Ritika Sinha](https://github.com/RitikaSinhaa99)
 - [Ramya](https://github.com/ramyayashvi)
+- [zhus-on-first](https://github.com/zhus-on-first)
