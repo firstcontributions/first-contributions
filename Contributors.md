@@ -9,6 +9,7 @@
 - [mtang624](https://github.com/mtang624)
 - [Prisca Onwudebelu Ebubechukwu](https://github.com/PriscaTonia)
 - [Aaromal A](https://github.com/aaromalonline)
+- [Sowo R] (https://github.com/sowo5)
 - [vipul]
 - [Pushkar Sabe](https://github.com/pushkarsabe)
 - [CheriBerry77](https://github.com/CheriBerry77)
@@ -815,6 +816,7 @@
 - [Uttej Dunga](https://github.com/uttejdunga)
 - [Vanlal Peka](https://github.com/vanlalpeka)
 - [Ver Argulla](https://github.com/verargulla)
+- [Lucas T](https://github.com/lucasvthomp)
 - [Vicky Besra](https://github.com/vickybesra)
 - [Vijay Ayyar](https://github.com/vijayayyar)
 - [Vinay M S](https://github.com/VinaymsGowda)
@@ -1582,3 +1584,5 @@
 - [mlody1377](https://github.com/mlody1377)
 - [Neda Darbandsari](https://github.com/NeDarbandsari)
 - [Jabrail Shahbazov](https://github.com/JabrailShahbazov)
+- [Kagisho Makoti](https://github.com/k4g1sho)
+- [Ritika Sinha](https://github.com/RitikaSinhaa99)
