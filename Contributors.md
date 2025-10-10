@@ -1,7 +1,7 @@
 # Contributors
 
-- [yakov007](https://github.com/yakov007 "Add to Contributors list"
-- [Tetiana Tkachova](https://github.com/defur) git commit -m "Add <your-name> to Contributors list"
+- [yakov007](https://github.com/yakov007)
+- [Tetiana Tkachova](https://github.com/defur)
 - [Cooper Li] (https://github.com/CooperLi1)
 - [The Bug Hunter](https://github.com/biswajitRapidsoft)
 - [Waqar Hasan](https://github.com/JohnWalkerHasan)
@@ -437,6 +437,7 @@
 - [Omkar Guha](https://github.com/omkarguha)
 - [Owen Roukey](https://github.com/rouk5555)
 - [Axel Goris](https://github.com/Axelgoris99) - We all have to start somehere!
+- Amen Brother Axel Goris!
 - [Dinesh-yadav-21]()
 - [Iweisc](https://github.com/Iweisc)
 - [Sourav N](https://github.com/souravkashyap0)
@@ -866,7 +867,7 @@
 - [Chetan Atram](https://github.com/RabbitBoii)
 - [Chip Kelsey](https://github.com/chipncharge)
 - [Ctrshift-Pm](https://github.com/Ctrshift-Pm)
-- [Darshon](<https://github.colets> gom/darshons)
+- [Darshon](https://github.com/lets-gom/darshons)
 - [David Stark](https://github.com/GamingPions)
 - [Derek Hall](https://github.com/derekhall483)
 - [Dhananjay Mohan](https://github.com/djvu2k6)
@@ -1439,6 +1440,7 @@
 - [Sumeet D Choudhary](https://github.com/sumeet156)
 - [Buhlooey (hello!!!)](https://github.com/Buhlooey)
 - [Mystique85 (Hello! 👋)](https://github.com/Mystique85)
+- Hello Mystique85 👋
 - [Rishabh](https://github.com/Rishabhsaini21)
 - [Shivansh Pathak](https://github.com/shivanshpathak01)
 - [Nitheesh Muthu Krishnanc](https://github.com/nitheeshmk41)
@@ -1528,9 +1530,11 @@
 - [Karam Mannai](https://github.com/KvRae)
 - [Phương Anh](https://github.com/TRANNGUYENPHUONGANH)
 - [Peristroff](https://github.com/Peristroff) - I wish for you to become the best version of yourself.
+- Amen Brother Peristoff
 - [Sahan Tharaka](https://github.com/HKSahanTharaka)
 - [Soumya Sinha](https://github.com/Soumyasinha29)
 - [Joshua Fernandes](https://github.com/joshjfernandes416) - Best of luck to you all <3
+- May you gain never reached before heights in your courier brother Joshua Fernandes
 - [0xSoniC](https://github.com/sonictheblue)
 - [Rom2555](https://github.com/Rom2555)
 - [Kevin P](https://github.com/KPgittogether-sofdev)
