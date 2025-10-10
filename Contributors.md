@@ -1565,6 +1565,7 @@
 - [Poornima Baste](https://github.com/PoornimaBaste)
 - [Hawie Abera](https://github.com/habera00)
 - [Torgyn](https://github.com/tz9158)
+- [Kelvin_Odamtten](https://github.com/odamttenkelvin)
 - [Jessica](https://github.com/jxssicaz)
 - [Jiya Amin](https://github.com/jiya1613)
 - [Juniper Brinegar](https://github.com/jClarinet)
