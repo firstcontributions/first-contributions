@@ -152,6 +152,7 @@
   [Rajnish Kumar Dubey](https://github.com/rajnish-dubey)
 - [Purbasha Mitra](https://github.com/PurbashaMitra)
 - [Naga Teja](https://github.com/invariantfields)
+- [Aayush Joshi](https://github.com/aayushjoshi1006)
 - [Furanimus](https://github.com/Furanimus)
 - [Saugat Giri](https://github.com/saugat1070)
 - [Anurag Tiwari](https://github.com/boss2412)
