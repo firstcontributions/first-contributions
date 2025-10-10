@@ -1575,3 +1575,4 @@
 - [Daphne Wen](https://github.com/gahpeach23)
 - [Kayra Demirkan](https://github.com/kayrademirkan)
 - [Nelan](https://github.com/NelanJoe)
+- [TheFooL](https://github.com/AmjustGettingStarted)
