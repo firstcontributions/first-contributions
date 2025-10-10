@@ -122,7 +122,8 @@ git push origin <add-your-name>
 
 Συγχαρητήρια! Μόλις ολοκληρώσατε την τυπική ροή εργασιών _fork -> clone -> edit -> pull request_ που θα συναντήσετε συχνά ως συνεργάτης! 
 
-Γιορτάστε και μοιραστείτε την συνεισφορά σας με τους φίλους και τους ακόλουθους σας πηγαίνοντας στο [web app](https://firstcontributions.github.io/#social-share).
+Δείτε εδώ [τη λίστα με τα project](https://github.com/firstcontributions/first-contributions)
+
 
 Τώρα μπορείτε να ξεκινήσετε να συνεισφέρετε και σε άλλα project. Έχουμε φτιάξει μια λίστα από project με εύκολα προβλήματα για να ξεκινήσετε. Δείτε εδώ [τη λίστα με τα project](https://firstcontributions.github.io/#project-list).
 
