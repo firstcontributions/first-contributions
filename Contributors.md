@@ -1,5 +1,5 @@
-﻿# Contributors
-
+# Contributors
+- [tsuki-year](https://github.com/tsuki-year)
 - [yakov007](https://github.com/yakov007 "Add to Contributors list"
 - [Tetiana Tkachova](https://github.com/defur) git commit -m "Add <your-name> to Contributors list"
 - [Cooper Li] (https://github.com/CooperLi1)
@@ -32,6 +32,7 @@
 - [Salmaan M](https://github.com/Salmaan-M)
   [Sachin](https://github.com/Sachin-2003-hub)
 - [Alan Titus](https://github.com/Alantitus)
+- [Silvano Borea](https://github.com/Bearialus)
 - [Equilibrium-1](https://github.com/Equilibrium-1)
 - [Andrés Galvis P.](https://github.com/paleto30)
 - [Christian Dezha](https://github.com/kekedezha)
@@ -53,6 +54,7 @@
 - [Aman Bajpai](https://github.com/Aman-bajpai)
 - [deepak mishra](https://github.com/BEPAWSITIVE)
 - [Caleb Fan](https://github.com/Gazfang)
+- [Christian Gongora](https://github.com/ChristianGongoraDeMoraes)
 - [Dhayanithi s r](https://github.com/its-dhaya)
 - [Raja Rathour](https://github.com/Raja-89)
 - [Claire Haynes](https://github.com/ClaireHaynes700)
@@ -182,6 +184,7 @@
 - [Olet Sharapolli](https://github.com/Olet-17)
 - [Abhay Raj Agnihotri](https://github.com/abhayrajagnihotri)
 - [Sai Darshan](https://github.com/saidarshan7)
+- [BrassoiCatalin](https://github.com/BrassoiCatalin)
 - [marcelo_iporre](https://github.com/CHELOIPO)
 - [ITSMijaiL](https://github.com/ITSMijaiL)
 - [Itay Levi](https://github.com/ItayLHdev)
@@ -1533,4 +1536,45 @@
 - [Soumya Sinha](https://github.com/Soumyasinha29)
 - [Joshua Fernandes](https://github.com/joshjfernandes416) - Best of luck to you all <3
 - [0xSoniC](https://github.com/sonictheblue)
-- [Rom2555](https://github.com/Rom2555) -[Kevin P](https://github.com/KPgittogether-sofdev) -[Thanh Vũ](https://github.com/vu221604-creator)
+- [Rom2555](https://github.com/Rom2555)
+- [Kevin P](https://github.com/KPgittogether-sofdev)
+- [Isabelle H](https://github.com/ahhhhhhhhhhhhhhhhhhhh)
+- [Zoe Gorbachev](https://github.com/hbghujnhunjj)
+- [Thanh Vũ](https://github.com/vu221604-creator)
+- [Dozerokz](https://github.com/dozerokz)
+- [ heyilingran](https://github.com/heyilingran)
+- [Alyna Liegl](https://github.com/alynaliegl) — Excited to contribute to open-source!
+- [Shaun Wang](https://github.com/Solarz4scratch/)
+- [MG-Edu](https://github.com/mg-edu)
+- [Tangguh D Pramono](https://github.com/TangguhDP) - Yup back at it!
+- [Guaresu](https://github.com/guaresu) - all the best for you
+- [Onur Çelebi](https://github.com/onurcelebi)s
+- [Dimitri Zimermann](https://github.com/zimer69)
+- [Sundaram S](https://github.com/SundaramS25) - Bazinga! My open source journey begins
+- [Poornima Baste](https://github.com/PoornimaBaste)
+- [Hawie Abera](https://github.com/habera00)
+- [Torgyn](https://github.com/tz9158)
+- [Jessica](https://github.com/jxssicaz)
+- [Jiya Amin](https://github.com/jiya1613)
+- [Juniper Brinegar](https://github.com/jClarinet)
+- [Dinesh Kumar](https://github.com/dineshraj96)
+- [ShadowMist](https://github.com/shadowmist)
+- [Bibek Sharma](https://github.com/Bibek246)
+- [Ashish Singh](https://github.com/BoogeyyMann)
+- [Tasos Stefanidis](https://github.com/TasStef)
+  [fibonacci1123git](https://github.com/fibonacci1123git)
+- [bismuth-baller](https://github.com/bismuth-baller)
+- [Filipe Limao](https://github.com/fliplemon)
+- [Formulaeagle161](https://github.com/Formulaeagle161)
+- [testiz](https://github.com/TEST-iz)
+- [Ella] (https://github.com/elpha_bet)
+- [Purple-Urchin](https://github.com/purple-urchin)
+- [app3000](https://github.com/app3000)
+- [Guiar-Oqba](https://github.com/okba14)
+- [Caleb Le Bouder](https://github.com/cylebouder) - "the purpose of nature is the advancement and development of life"
+- [Edward Zhu](https://github.com/okba14)
+- [Ben Shaheen](https://github.com/splitpea89)
+- [Daphne Wen](https://github.com/gahpeach23)
+- [Kayra Demirkan](https://github.com/kayrademirkan)
+- [Nelan](https://github.com/NelanJoe)
+- [TheFooL](https://github.com/AmjustGettingStarted)
