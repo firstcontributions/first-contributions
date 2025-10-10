@@ -9,6 +9,7 @@
 - [mtang624](https://github.com/mtang624)
 - [Prisca Onwudebelu Ebubechukwu](https://github.com/PriscaTonia)
 - [Aaromal A](https://github.com/aaromalonline)
+- [Sowo R] (https://github.com/sowo5)
 - [vipul]
 - [Pushkar Sabe](https://github.com/pushkarsabe)
 - [CheriBerry77](https://github.com/CheriBerry77)
