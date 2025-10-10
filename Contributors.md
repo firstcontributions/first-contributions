@@ -32,6 +32,7 @@
 - [Salmaan M](https://github.com/Salmaan-M)
   [Sachin](https://github.com/Sachin-2003-hub)
 - [Alan Titus](https://github.com/Alantitus)
+- [Silvano Borea](https://github.com/Bearialus)
 - [Equilibrium-1](https://github.com/Equilibrium-1)
 - [Andrés Galvis P.](https://github.com/paleto30)
 - [Christian Dezha](https://github.com/kekedezha)
