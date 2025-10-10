@@ -1,4 +1,5 @@
 # Contributors
+
 - [yakov007](https://github.com/yakov007 "Add to Contributors list"
 - [Tetiana Tkachova](https://github.com/defur) git commit -m "Add <your-name> to Contributors list"
 - [Cooper Li] (https://github.com/CooperLi1)
@@ -1525,7 +1526,7 @@
 - [Phương Anh](https://github.com/TRANNGUYENPHUONGANH)
 - [Peristroff](https://github.com/Peristroff) - I wish for you to become the best version of yourself.
 - [Sahan Tharaka](https://github.com/HKSahanTharaka)
-- [Soumya Sinha](<https://github.com/Soumyasinha29>)
+- [Soumya Sinha](https://github.com/Soumyasinha29)
 - [Joshua Fernandes](https://github.com/joshjfernandes416) - Best of luck to you all <3
 - [0xSoniC](https://github.com/sonictheblue)
 - [Rom2555](https://github.com/Rom2555)
@@ -1548,13 +1549,13 @@
 - [Torgyn](https://github.com/tz9158)
 - [Jessica](https://github.com/jxssicaz)
 - [Jiya Amin](https://github.com/jiya1613)
-- [Juniper Brinegar](https://github.com/jClarinet) 
+- [Juniper Brinegar](https://github.com/jClarinet)
 - [Dinesh Kumar](https://github.com/dineshraj96)
 - [ShadowMist](https://github.com/shadowmist)
 - [Bibek Sharma](https://github.com/Bibek246)
 - [Ashish Singh](https://github.com/BoogeyyMann)
 - [Tasos Stefanidis](https://github.com/TasStef)
-[fibonacci1123git](https://github.com/fibonacci1123git)
+  [fibonacci1123git](https://github.com/fibonacci1123git)
 - [bismuth-baller](https://github.com/bismuth-baller)
 - [Filipe Limao](https://github.com/fliplemon)
 - [Formulaeagle161](https://github.com/Formulaeagle161)
@@ -1568,3 +1569,4 @@
 - [Ben Shaheen](https://github.com/splitpea89)
 - [Daphne Wen](https://github.com/gahpeach23)
 - [Kayra Demirkan](https://github.com/kayrademirkan)
+- [Nelan](https://github.com/NelanJoe)
