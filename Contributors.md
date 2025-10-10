@@ -33,6 +33,7 @@
 - [Equilibrium-1](https://github.com/Equilibrium-1)
 - [Andrés Galvis P.](https://github.com/paleto30)
 - [Christian Dezha](https://github.com/kekedezha)
+- [Sulochan Mahajan](https://github.com/Sulochan36)
 - [Emmanuel Postigo](https://github.com/empostigo)
 - [Deekshitha3232](https://github.com/Deekshitha3232)
 - [Pathmesh G](https://github.com/Pathmesh)
