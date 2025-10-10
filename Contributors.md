@@ -816,6 +816,7 @@
 - [Uttej Dunga](https://github.com/uttejdunga)
 - [Vanlal Peka](https://github.com/vanlalpeka)
 - [Ver Argulla](https://github.com/verargulla)
+- [Lucas T](https://github.com/lucasvthomp)
 - [Vicky Besra](https://github.com/vickybesra)
 - [Vijay Ayyar](https://github.com/vijayayyar)
 - [Vinay M S](https://github.com/VinaymsGowda)
