@@ -1056,6 +1056,7 @@
 - [Jahnavi-avi](https://github.com/jahnavi-9741)
 - [Jaimie Chong](https://github.com/jaimiechong)
 - [Jainil Desai](https://github.com/jainilDesai)
+- [James Yi](https://github.com/jamesy482)
 - [Shamoil-Altamash](https://github.com/altamash47)
 - [Jason Ang](https://github.com/jasonavatarang)
 - [JasonSA1993](https://github.com/JasonSa1993/)
