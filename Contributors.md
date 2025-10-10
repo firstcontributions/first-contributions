@@ -1438,6 +1438,7 @@
 - [Fahed Khan](https://github.com/12fahed)
 - [Suhani Shah](https://github.com/B24CH1037)
 - [Alireza Rostamnezhad](https://github.com/arnpacc)
+- [Srikant M K](https://github.com/srixmk)
 - [Harini R A J](https://github.com/Harini-RAJ)
 - [Zahra Shefa](https://github.com/zahrashefa318)
 - [Purushottam-Singh](https://github.com/purakh)
