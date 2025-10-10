@@ -15,7 +15,7 @@
 
 ከ1.0 በፊት የ GitHub Desktop ስሪት እየተጠቀሙ ከሆነ ፣ [ይህን አጋዥ ስልጠና ይመልከቱ።](https://github.com/firstcontributions/first-contributions/blob/main/docs/gui-tool-tutorials/github-desktop-old-version-tutorial.md)
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/fork.png" alt="fork this repository" />
 
 ## ይህንን ማከማቻ **fork** ያድርጉ
 
@@ -116,5 +116,6 @@ File->Options ከዛም sign-in to Github.com የሚሉትን ጠቅ ያድር�
 ## [ተጨማሪ ቁሳቁስ](docs/additional-material/git_workflow_scenarios/additional-material.md)
 
 ## የሌሎች መሳሪያዎች አጠቃቀም አጋዥ ስልጠናዎች
+
 
 [ወደ ዋናው ገፅ ይመለሱ።](https://github.com/firstcontributions/first-contributions#tutorials-using-other-tools)
