@@ -4,11 +4,13 @@
 - [Ahtisham Shaikh](https://github.com/Ahtisham-1214)
 - [Faizan_Deshmukh](https://github.com/faizan1317)
 - [Jose](https://github.com/NaturalTC)
+- [Nikhil Yadav](https://github.com/Nikhil-Yadav-01)
 - [Kevin](https://github.com/M0nesy121)
 - [tsuki-year](https://github.com/tsuki-year)
 - [yakov007](https://github.com/yakov007) "Add to Contributors list"
 - [Tetiana Tkachova](https://github.com/defur) git commit -m "Add <your-name> to Contributors list"
-- [Cooper Li](https://github.com/CooperLi1)
+- [Cooper Li] (https://github.com/CooperLi1)
+- [Aditi Badkur](https://github.com/aditibadkur)
 - [Vasistha_yadav] (git switch -c your-new-branch-name)
 - [PHT] ((https://github.com/CodeByPyaeHan)
 - [Manoj Pipare](https://github.com/manojvp16)
@@ -18,6 +20,7 @@
 - [mtang624](https://github.com/mtang624)
 - [Prisca Onwudebelu Ebubechukwu](https://github.com/PriscaTonia)
 - [Aaromal A](https://github.com/aaromalonline)
+- [Aman Gupta](https://github.com/aman-devx)
 - [Sowo R](https://github.com/sowo5)
 - [vipul]
 - [Sangeetha Dhanasekar]
@@ -78,7 +81,7 @@
 - [vyshnavi raj](https://github.com/vyshnaviraj)
 - [Omm Satyakam](https://github.com/p-retrover)
 - [Vishakha Singh](https://github.com/Vishakha7-Kumari)
-
+- [Srajan Gupta](https://github.com/srajang1805)
 - [Nirbhay Bawankule](https://github.com/NirbhayBawankule)
 - [Ronik Kumbhar](https://github.com/ronik62)
 - [Saad Rouyass](https://github.com/saadRouyass/)
@@ -1619,3 +1622,4 @@
 - [Amit Shaw](https://github.com/Amit-dev-zone)
 - [Parth Mittal](https://github.com/afk-Parth)
 - [Kaushal Kadam](https://github.com/zack047)
+- [Manuel Maior](https://github.com/manuelmaior29)
