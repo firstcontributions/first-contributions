@@ -94,6 +94,7 @@
 - [premludhanii26-cell][https://github.com/premludhangiii26-cell] -[sachinandan yadav](https://github.com/sachinandan-05)
 - [Md Khalid Hasan Ansari]
 - [Shahid Afrid](https://github.com/shahid-afrid)
+- [Kanishka Vats](https://github.com/KanishkaV25)
 - [Shanmukh sai karnam](https://github.com/karnam16)
 - [Hassan Najam](https://github.com/Hassan5117)
 - [Abdelkader Charef Eddine Djellil (djacbi)](https://github.com/AbdelkaderCE/)
