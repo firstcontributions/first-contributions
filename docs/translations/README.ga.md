@@ -129,7 +129,7 @@ Comhghairdeas! Chríochnaigh tú an tslí ríthábhachtach  _fork -> clone -> ed
 
 Ceiliúraigh do chionta agus roinne é le do chairde agus le do leanúnaigh trí dul go dtí an aip ghréasáin. [web app](https://firstcontributions.github.io/#social-share).
 
-D'fhéadfá dul inár bhfoireann Slack má tá cabhair uait nó ceisteanna agat. [Ghabh le foireann code contributions](https://roshanjossey.github.io/code-contributions/).
+Más mian leat níos mó cleachtas, seiceáil. [code contributions](https://roshanjossey.github.io/code-contributions/).
 
 
 Anois, lig dúinn tú a thosú ag tacú le tionscadail eile. Tá liosta againn de thionscadail le faidhéideanna éasca a d'fhéadfá tosú orthu. Féach ar liosta na dtionscadal san aip ghréasáin.
