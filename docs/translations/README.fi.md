@@ -12,7 +12,7 @@ Artikkeleiden lukeminen sekä tutoriaalien katsominen voi auttaa, mutta mikä on
 
 #### *Jos et osaa käyttää komentoriviä sulavasti, [täältä löytyy tutoriaaleja GUI-työkalujen käyttöön.](#Muiden-työkalujen-tutoriaaleja)*
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="haarauta tämä tietovarasto" />
 
 Jos sinulla ei ole git asennettuna koneellesi, [asenna se](https://help.github.com/articles/set-up-git/).
 
@@ -22,7 +22,7 @@ Forkkaa tämä repositorio klikkaamalla yläkulmassa näkyvää painiketta "Fork
 
 ## Kloonaa repositorio
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="kloonaa tämä tietovarasto" />
 
 Seuraavaksi kloonaa juuri forkkaamasi repositorio koneellesi. Mene GitHub käyttäjäsivuillesi, avaa forkkaamasi repositorio sekä klikkaa "Clone or download"-painiketta jonka jälkeen kopioi osoite painamalla "Copy to clipboard"-ikonia.
 
@@ -34,7 +34,7 @@ git clone "Juuri kopioimasi URL"
 
 "Juuri kopioimasi URL"-tekstin sijasta (ilman lainausmerkkejä) pastea repositorion URL äskeisestä vaiheesta.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="kopioi URL leikepöydälle" />
 
 Esimerkiksi:
 
@@ -70,7 +70,7 @@ git checkout -b add-matti-meikalainen
 
 Seuraavaksi avaa `Contributors.md` tiedosto tekstieditorissa ja lisää nimesi tiedostoon. Älä lisää sitä tiedoston alkuun taikka loppuun vaan keskelle. Seuraaksi tallenna tiedosto.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git-tila" />
 
 Jos menet projektin kansioon ja syötät komennon `git status`, näet muutokset.
 
@@ -102,11 +102,11 @@ Korvaamalla `<lisaa-branchisi-nimi>` nimellä jonka annoit branchillesi aikaisem
 
 Jos menet repositorioosi GitHubissa, näet `Compare & pull request` painikkeen.  Paina tuota painiketta.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="luo vetopyyntö" />
 
 Seuraavaksi suorita pull request.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="lähetä vetopyyntö" />
 
 Seuraavaksi mergeän muutoksesi tämän projektin master-branchiin. Tulet saamaan ilmoituksen sähköpostiisi kun muutokset ovat mergetty.
 
