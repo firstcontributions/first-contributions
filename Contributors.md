@@ -11,6 +11,7 @@
 - [Waqar Hasan](https://github.com/JohnWalkerHasan)
 - [Smit Patel](https://github.com/jayambe36)
 - [mtang624](https://github.com/mtang624)
+- [renzo viale](https://github.com/Renzoviale)
 - [Prisca Onwudebelu Ebubechukwu](https://github.com/PriscaTonia)
 - [Aaromal A](https://github.com/aaromalonline)
 - [Sowo R] (https://github.com/sowo5)
