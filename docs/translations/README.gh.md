@@ -8,7 +8,7 @@ Bere a edi kan a wobɛyɛ biribi no yɛ nea ɛyɛ den bere nyinaa. Suro a wusuro
 
 Nsɛm ne nkyerɛkyerɛ akenkan betumi aboa, nanso dɛn na eye sen sɛ wobɛbɔ mmɔden a wunsuro sɛ wubedi mfomso? Saa dwumadie yi botaeɛ ne sɛ ɛbɛma akwankyerɛ na ama sɛdeɛ wɔn a wɔrefi aseɛ no de wɔn ntoboa a ɛdi kan de ma no ayɛ mmerɛ. Kae:dodow a wo ho adwo wo no, dodow no ara na wusua ade yiye.Sɛ wopɛ sɛ wode wo ntoboa a edi kan ma a, di anammɔn a ɛwɔ ase ha no akyi kɛkɛ.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fa saa repository yi" />
 
 Sɛ wo nni Git wɔ wo kɔmputa so a, . [fa hyɛ wo kɔmputa so](https://help.github.com/articles/set-up-git/).
 
@@ -19,7 +19,7 @@ Wei bɛma woanya akoraeɛ no bi wɔ wo akonta so.
 
 ## Clone Saa Adekorabea
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="to saa repository yi so" />
 
 Afei clone saa akoraeɛ yi kɔ wo kɔmputa so. Klik clone button no so na afei klik *kɔpi kɔ clipboard so* icon no so.
 
@@ -30,7 +30,7 @@ git clone "URL a woayɛ ho kɔpi nkyɛe no"
 ```
 baabi a "URL a woayɛ ho kɔpi seesei ara" (a nsɛm a wɔafa aka no nka ho) yɛ akoraeɛ URL.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="fa URL no kɔ clipboard" />
 
 Nhwɛsoɔ:
 ```
@@ -81,11 +81,11 @@ fa baa dwumadibea a woadi kan abɔ no din si `<fa-wo-din ka ho>` ananmu.
 
 Sɛ wokɔ wo akoraeɛ wɔ GitHub so a, wobɛhunu `Fa toto ho.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="bɔ pull request foforɔ" />
 
 Afei fa twetwe adesrɛ no kɔma.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="soma pull request no" />
 
 Mebɛka mo nsakraeɛ nyinaa abom ayɛ adwuma yi baa dwumadibea titiriw no nnansa yi ara. Wo nsa bɛka amanneɛbɔ email bere a wɔawie nkabom no.
 
