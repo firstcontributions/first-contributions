@@ -3,7 +3,6 @@
 When contributing to open-source projects, it’s important to understand how to integrate your changes cleanly.  
 Two common ways to bring updates from one branch into another are **merge** and **rebase**.
 
----
 
 ## What Is Rebase?
 
@@ -75,7 +74,6 @@ Always rebase your personal or feature branch **onto main**, not the other way a
 > If the branch is shared — use merge.
 > If the branch is personal — use rebase.
 
----
 
 ## Git Configuration Options
 You can tell Git whether to merge or rebase when pulling updates:
