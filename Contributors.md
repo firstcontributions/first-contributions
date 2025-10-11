@@ -20,6 +20,7 @@
 - [Waqar Hasan](https://github.com/JohnWalkerHasan)
 - [Smit Patel](https://github.com/jayambe36)
 - [mtang624](https://github.com/mtang624)
+- [renzo viale](https://github.com/Renzoviale)
 - [Prisca Onwudebelu Ebubechukwu](https://github.com/PriscaTonia)
 - [Sham Sunder](https://github.com/ShamSuther) - "for the sake of being!"
 - [Kaylin Yang] (https://github.com/kyangOrange)
