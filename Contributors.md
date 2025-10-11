@@ -1600,3 +1600,4 @@
 - [Ritika Sinha](https://github.com/RitikaSinhaa99)
 - [Ramya](https://github.com/ramyayashvi)
 - [zhus-on-first](https://github.com/zhus-on-first)
+- [vinicius zaparoli](https://github.com/zaparolidex)
