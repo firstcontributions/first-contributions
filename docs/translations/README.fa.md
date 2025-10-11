@@ -11,7 +11,7 @@
 
 _اگر با محیط کامندی (CLI) احساس راحتی نمی‌کنید، [راهنمای استفاده از ابزارهای گرافیکی (GUI) را مشاهده کنید](#آموزش-انجام-مشارکت-در-دیگر-ابزارها)._
 
-<img align="left" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="left" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="این مخزن را فورک کنید" />
 
 #### اگر نرم‌افزار git را آماده ندارید، [از اینجا نصب کنید](https://help.github.com/articles/set-up-git/).
 
@@ -21,7 +21,7 @@ _اگر با محیط کامندی (CLI) احساس راحتی نمی‌کنید
 
 ## مخزن را کلون (شبیه) کنید
 
-<img align="left" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="left" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="این مخزن را کلون کنید" />
 
 حال، از مخزن فورک شده، یک کلون روی سیستم کاربری خود ایجاد کنید. وارد حساب کاربری خود شده و مخزن فورک شده را باز کنید. دکمه Code را فشرده و نماد copy to clipboard را انتخاب کنید.
 
@@ -33,7 +33,7 @@ git clone "url you just copied"
 
 بطوری که در قسمت "url you just copied"، آدرس مخزن فورک شده بدون علامت‌های کوتیشن (نقل قول) قرار گیرد.
 
-<img align="left" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="left" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="URL را در کلیپ‌بورد کپی کنید" />
 
 بعنوان مثال:
 
@@ -69,7 +69,7 @@ git checkout -b add-alonzo-church
 
 در این قدم، ابتدا فایل `Contributors.md` را در یک محیط ویرایش متن باز کنید. نام خود را به این فایل اضافه کنید. توجه کنید که نام نه در ابتدا و نه در انتها قرار گیرد. نام را بین اسامی قرار دهید. فایل را ذخیره کنید.
 
-<img align="left" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="left" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="وضعیت گیت" />
 
 چنانچه وارد مسیر مخزن شوید و دستور `git status` را اجرا نمایید، مشاهده خواهید کرد که تغییراتی بر روی مخزن اعمال شده.
 
@@ -101,11 +101,11 @@ git push origin <add-your-branch-name>
 
 چنانچه وارد مخزن فورک شده در حساب کاربری خود شوید، گزینه‌ای تحت عنوان `Compare & pull request` مشاهده خواهید کرد. آن گزینه را انتخاب کنید.
 
-<img style="float: left;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: left;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="ایجاد یک درخواست Pull" />
 
 در این مرحله، درخواست (Pull request) خود را ثبت کنید.
 
-<img style="float: left;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: left;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="ارسال درخواست Pull" />
 
 نهایتا، من تغییرات شما را به برنچ master پروژه اضافه (merge) خواهم کرد. بلافاصله پس از مرج شدن درخواست شما، یک ایمیل مبنی بر همین موضوع برای شما ارسال خواهد شد.
 

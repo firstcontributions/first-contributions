@@ -9,7 +9,7 @@ Ovaj projekat ima za cilj da pruži konkretne korake i olakša način na koji po
 
 #### _Ukoliko niste bas sigurni u vas rad sa komandnom linijom/terminalom (terminal -> za macOs), [mozete koristit ovaj link kroz GUI alate.](#Uputstva-za-druge-alate)_
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="Napravite fork repozitorijuma" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="ई रिपॉजिटरी के फोर्क करीं" />
 
 Ukoliko nemate git instaliran na vašoj mašini, [instalirajte ga ovde](https://help.github.com/articles/set-up-git/).
 
@@ -19,7 +19,7 @@ Uradite račvanje (fork) tako što ćete kliknuti na dugme _fork_ na vrhu strani
 
 ## Klonirajte repozitorijum
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="ई रिपॉजिटरी के क्लोन करीं" />
 
 Slijedeće, klonirajte repozitorijum koji ste prethodno račvali (fork). Posjetite svoj GitHub profil, otvorite repozitorijum koji ste račvali, kliknite na _clone_ (kloniraj/kopiraj) dugme i kliknite na ikonicu _copy to clipboard_.
 
@@ -29,7 +29,7 @@ Otvorite terminal i upišite slijedece git komande:
 git clone "url koji ste prethodno kopirali sa vaseg github profila" (bez navodnika i razmaka)
 ```
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="URL क्लिपबोर्ड में कॉपी करीं" />
 
 Na primjer:
 
@@ -65,7 +65,7 @@ git checkout -b add-alonzo-church
 
 Otvorite `Contributors.md` fajl u tekst editoru i dodajte vaše ime. Nemojte dodavati ime na sam početak ili kraj. Stavite ga negdje u sredinu. Potom sačuvajte fajl.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="गिट के स्थिति देखीं" />
 
 Ukoliko odete u radni direktorijum i izvršite komandu `git status`, primjetit ce te da postoje promjene.
 
@@ -97,11 +97,11 @@ gdje umjesto `<dodaj-ime-svoje-grane>` stavljate ime vašeg grananja koje ste pr
 
 Ukoliko odete na repozitorijum na vašem GitHub profilu primetićete `Compare & pull request` Dugme. Kliknite na njega.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="पुल रिक्वेस्ट बनाई" />
 
 a potom pošaljite zahtjev klikom na dugme _Create pull request_.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="पुल रिक्वेस्ट सबमिट करीं" />
 
 Nakon toga, admin će spojiti promjene koje ste napravili sa master granom projekta. Dobićete mejl potvrde kada se grane spoje.
 
