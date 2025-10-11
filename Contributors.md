@@ -61,6 +61,7 @@
 - [Scholarin](https://github.com/scholarin-cloud)
 - [Satyam Kumar Jha](https://github.com/satyam536)
 - [Nithurshen Karthikeyan](https://github.com/nithurshen)
+- [Sadia Malik](https://github.com/sadiamalik1980)
 - [Utkarsh Upreti](https://www.github.com/K4rsh)
 - [Md. Shamim Ahmed](https://github.com/cseshamim47)
 - [Zaid Qtaish](https://github.com/ZaidQtaish)
