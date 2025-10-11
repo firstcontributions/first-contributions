@@ -77,6 +77,8 @@
 - [Muhammad Raza](https://github.com/RazaJavaid2004)
 - [vyshnavi raj](https://github.com/vyshnaviraj)
 - [Omm Satyakam](https://github.com/p-retrover)
+- [Vishakha Singh](https://github.com/Vishakha7-Kumari)
+
 - [Nirbhay Bawankule](https://github.com/NirbhayBawankule)
 - [Ronik Kumbhar](https://github.com/ronik62)
 - [Saad Rouyass](https://github.com/saadRouyass/)
