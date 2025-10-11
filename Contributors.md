@@ -97,6 +97,7 @@
 - [Oliyad Zelalem](https://github.com/ozimmortal)
 - [Issa Issack](https://github.com/essaissa)
 - [Mogal](https://github.com/)
+- [Kunal Goyal](https://github.com/Kunalgoyal02)
 - [Mehadi Hossain] (https://github.com/mehadi13)
 - [Afsheen Nadaf](https://github.com/afsheen-nadaf)
 - [Daniel Li](https://github.com/FallingSky65)
