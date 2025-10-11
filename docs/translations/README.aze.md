@@ -8,7 +8,7 @@ Bu layihə yeni başlayanların ilk töhfələrini vermə yollarını sadələş
 
 _Əgər komanda sətri ilə rahat deyilsinizsə, [burada GUI alətlərindən istifadə edən təlimatlar tapa bilərsiniz.](#Digər-alətlərin-istifadəsi-üçün-təlimlər)_
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="bu repozitoriyanı forklayın" />
 
 #### Maşınınızda (yəni, kompüterinizdə) GIT yoxdursa, [buradan quraşdıra bilərsiniz](https://help.github.com/articles/set-up-git/).
 
