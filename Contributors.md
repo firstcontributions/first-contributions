@@ -1643,3 +1643,4 @@
 - [Ayaan Shaikh](https://github.com/ayaantuts)
 - [varun](https://github.com/VARUN22695/first-contributions/projects?query=is%3Aopen)
 - [Aaryan](https://github.com/Aaryank1337)
+- [Ixlosbek Erkinov](https://github.com/ix1osbek)
