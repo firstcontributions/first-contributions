@@ -1,6 +1,7 @@
 # Contributors
+
 - [Faizan_Deshmukh](https://github.com/faizan1317)
-- [Jose](https://github.com/NaturalTC) 
+- [Jose](https://github.com/NaturalTC)
 - [Kevin](https://github.com/M0nesy121)
 - [tsuki-year](https://github.com/tsuki-year)
 - [yakov007](https://github.com/yakov007 "Add to Contributors list"
@@ -1610,3 +1611,4 @@
 - [Blake Gould] (github.com/bgould98)
 - [Amit Shaw] (https://github.com/Amit-dev-zone)
 - [Parth Mittal](https://github.com/afk-Parth)
+- [Zi Yang](https://github.com/yzy98)
