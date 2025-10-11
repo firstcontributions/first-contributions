@@ -1609,3 +1609,4 @@
 - [Mildred CC] (https://github.com/Mil-54)
 - [Blake Gould] (github.com/bgould98)
 - [Amit Shaw] (https://github.com/Amit-dev-zone)
+- [Parth Mittal](https://github.com/afk-Parth)
