@@ -1,4 +1,5 @@
 # Contributors
+- [Dharmendra Solanki](https://github.com/ProgrammingPirates)
 - [Faizan_Deshmukh](https://github.com/faizan1317)
 - [Jose](https://github.com/NaturalTC) 
 - [Kevin](https://github.com/M0nesy121)
