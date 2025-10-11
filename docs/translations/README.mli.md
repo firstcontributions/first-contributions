@@ -10,7 +10,7 @@ A ka gɛlɛn tuma bɛɛ ni i ye fɛn dɔ kɛ siɲɛ fɔlɔ min na. Siranya min b
 
 Barokunw ni kalansenw kalanni bɛ se ka dɛmɛ don, nka mun ka fisa ni k’a ɲini k’a sɔrɔ i ma se ka filiw kɛ? Nin porozɛ in kun ye ka bilasirali kɛ ani ka kalandenw ka dɛmɛ fɔlɔ kɛcogo nɔgɔya. Aw ye aw hakili to a la: ni aw hakili sigilen don, aw bɛ kalan kɛ ka ɲɛ. N’i ​​b’a fɛ k’i ka bolomafara fɔlɔ kɛ, i ka nin fɛɛrɛ ninnu labato dɔrɔn. N bɛ layidu ta ko a bɛna kɛ ɲɛnajɛ ye.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="embrancher ce repertoire" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="ഈ റിപ്പോസിറ്ററി ഫോർക്ക് ചെയ്യുക" />
 
 Ni git t i ka ɔridinatɛri kan, [ a sigi sen kan]( https://help.github.com/articles/set-up-git/ ).
 
@@ -21,7 +21,7 @@ O bɛna kɛ sababu ye ka kunnafonisɛbɛn kopi dɔ dilan i ka jatebɔsɛbɛn kan
 
 ## aw ka kan ka nin ɲɛbilasɛbɛn in Clone
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clonez ce répertoire" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="ഈ റിപ്പോസിറ്ററി ക്ലോൺ ചെയ്യുക" />
 
 Sisan, i ka nin ɲɛbilasɛbɛn in clone i ka ɔridinatɛri kɔnɔ. Clone button digi o kɔfɛ *copier dans le presse-papier* taamasiyɛn digi.
 
@@ -31,7 +31,7 @@ git clone "URL min ye i kopi kɛ sisan"
 ```
 wali "URL min ye i kopi kɛ sisan" (ni gillemants tɛ) ye url ye min bɛ kɛ ni ɲɛbilasɛbɛn ye. Aw ye tilayɔrɔ tɛmɛnen lajɛ walasa ka URL sɔrɔ.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copier l'URL dans le presse-papier" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="URL ക്ലിപ്പ്ബോർഡിലേക്ക് പകർത്തുക" />
 
 misale :
 ```
@@ -82,11 +82,11 @@ ni `<add-your-name>` bilali ye bolofara min dabɔra ka kɔrɔ, o tɔgɔ bila a n
 
 N’i ​​taara i ka marayɔrɔ la Github kan, i bɛna `Compare & pull request` butɔni ye.   Butɔn digi.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="പുൾ റിക്വസ്റ്റ് സൃഷ്ടിക്കുക" />
 
 Sisan, aw ka sama ɲinini sɛbɛn di
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="പുൾ റിക്വസ്റ്റ് സമർപ്പിക്കുക" />
 
 Sɔɔni n bɛna aw ka fɛn caman Changements bɛɛ fara ɲɔgɔn kan ka kɛ nin porozɛ in bolofara belebele ye. I bɛna kunnafoni imɛri sɔrɔ ni farali banna dɔrɔn.
 I ka tɔnbolofara belebeleba tɛna yɛlɛma nin waati in na. Walasa k’aw ka bolofara ni ne ta ka bɛn, aw bɛ nin fɛɛrɛ ninnu tigɛ.
