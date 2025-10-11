@@ -1610,3 +1610,4 @@
 - [Blake Gould] (github.com/bgould98)
 - [Amit Shaw] (https://github.com/Amit-dev-zone)
 - [Parth Mittal](https://github.com/afk-Parth)
+- [Kaushal Kadam](https://github.com/zack047)
