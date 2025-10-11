@@ -9,9 +9,6 @@
 <a href="https://www.codetriage.com/roshanjossey/first-contributions">
   <img src="https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg" alt="Open Source Helpers" />
 </a>
-<a href="https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA">
-  <img align="left" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png" alt="Join Slack Team" />
-</a>
 
 ---
 

@@ -122,6 +122,7 @@ git push origin <add-your-name>
 
 Նշեք ձեր ներդրումը և կիսվեք այն ձեր ընկերների և հետևորդների հետ՝ այցելելով [web app](https://firstcontributions.github.io/#social-share).
 
+Եթե ցանկանում եք ավելի շատ փորձ, դիտեք [code contributions](https://github.com/roshanjossey/code-contributions).
 
 Հիմա կարող եք ձեր ներդրումն ունենալ այլ նախագծերում։ Մենք կազմել ենք հեշտ խնդիրներ ունեցող նախագծերի ցանկ, որոնցից կարող եք սկսել: Համեցեք [վեբ հավելվածի նախագծերի ցանկը](https://firstcontributions.github.io/#project-list).
 
