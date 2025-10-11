@@ -1396,6 +1396,7 @@
 - [Veysel Yatkın](https://github.com/veysel2020)
 - [Viktor Kozlovskyi](https://github.com/Vitia10)
 - [Wessel Steenkamp](https://github.com/wesse206)
+- [Girish Pawar](https://github.com/Girish-GAP)
 - [William Ince](https://github.com/incey-spider)
 - [Yura_Hernandez](https://github.com/yuracoff18)
 - [Zafran Ullah](https://github.com/zafran-ullah)
