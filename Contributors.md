@@ -1,5 +1,5 @@
 # Contributors
-- [Jose](https://github.com/NaturalTC) 
+- [Swagatika](https://github.com/swagatika60) 
 - [Kevin](https://github.com/M0nesy121)
 - [tsuki-year](https://github.com/tsuki-year)
 - [yakov007](https://github.com/yakov007 "Add to Contributors list"
