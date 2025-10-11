@@ -4,6 +4,7 @@
 - [Ahtisham Shaikh](https://github.com/Ahtisham-1214)
 - [Faizan_Deshmukh](https://github.com/faizan1317)
 - [Jose](https://github.com/NaturalTC)
+- [Nikhil Yadav](https://github.com/Nikhil-Yadav-01)
 - [Kevin](https://github.com/M0nesy121)
 - [tsuki-year](https://github.com/tsuki-year)
 - [yakov007](https://github.com/yakov007) "Add to Contributors list"
