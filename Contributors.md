@@ -1,5 +1,6 @@
 # Contributors
 - [Nirbhay Bawankule](https://github.com/NirbhayBawankule)
+- [Nirbhay Bawankule](https://github.com/NirbhayBawankule)
 - [Clement Zentz](https://github.com/clement-zentz)
 - [Fred](https://github.com/kipkemoifred)
 - [Sahil Gurjar][https://github.com/SG2407]
