@@ -1,4 +1,6 @@
 # Contributors
+- [Nishita Kashyap](https://github.com/nishitakashyap)
+- [Viraj Dhamnaskar](https://github.com/Rootvikk)
 - [Bhuvanesh](https://github.com/bhw-git)
 - [Dharmendra Solanki](https://github.com/ProgrammingPirates)
 - [Ahtisham Shaikh](https://github.com/Ahtisham-1214)
@@ -10,6 +12,7 @@
 - [Sameer Shamshad](https://github.com/CodeLikeBA56)
 - [yakov007](https://github.com/yakov007) "Add to Contributors list"
 - [Tetiana Tkachova](https://github.com/defur) git commit -m "Add <your-name> to Contributors list"
+- [Mohammed Saqib Rehaman Namazi](https://github.com/Saqibdev-786)
 - [Cooper Li] (https://github.com/CooperLi1)
 - [Aditi Badkur](https://github.com/aditibadkur)
 - [Vasistha_yadav] (git switch -c your-new-branch-name)
@@ -19,6 +22,7 @@
 - [Waqar Hasan](https://github.com/JohnWalkerHasan)
 - [Smit Patel](https://github.com/jayambe36)
 - [mtang624](https://github.com/mtang624)
+- [renzo viale](https://github.com/Renzoviale)
 - [Prisca Onwudebelu Ebubechukwu](https://github.com/PriscaTonia)
 - [Sham Sunder](https://github.com/ShamSuther) - "for the sake of being!"
 - [Kaylin Yang] (https://github.com/kyangOrange)
@@ -37,6 +41,7 @@
 - [Ciara](https://github.com/ciahan)
 - [Shashank Avvaru](https://github.com/Shashankavvaru-hub)
 - [Krishna Sahith Yandapalli](https://github.com/krishnasahith)
+- [Syndhavi](https://github.com/Syndhavi)
 - [Mohamed Adhil](https://github.com/adhil-cloud)
 - [Aydan Butler](https://github.com/aydanpb)
 - [Kavindu Udara](https://github.com/kavindu-udara)
@@ -97,7 +102,6 @@
 - [Oliyad Zelalem](https://github.com/ozimmortal)
 - [Issa Issack](https://github.com/essaissa)
 - [Mogal](https://github.com/)
-- [Mehadi Hossain] (https://github.com/mehadi13)
 - [Afsheen Nadaf](https://github.com/afsheen-nadaf)
 - [Daniel Li](https://github.com/FallingSky65)
 - [Andrew Park](https://github.com/AndePark)
@@ -1211,6 +1215,7 @@
 - [Subin Mariyadas](https://github.com/subin170)
 - [Sumit Pandey](https://github.com/5umitpandey)
 - [Julian Givens](https://github.com/jlngvns)
+- [Nirbhay Bawankule](https://github.com/NirbhayBawankule)
 - [Christopher Wang](https://github.com/OrcaWhale2008)
 - [Sunhith_Reddy](https://github.com/codetuscan)
 - [Suresh Deora](https://github.com/SureshDeora)
