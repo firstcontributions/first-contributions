@@ -1617,3 +1617,4 @@
 - [Amit Shaw](https://github.com/Amit-dev-zone)
 - [Parth Mittal](https://github.com/afk-Parth)
 - [Kaushal Kadam](https://github.com/zack047)
+- [Manuel Maior](https://github.com/manuelmaior29)
