@@ -7,6 +7,7 @@
 - [Nikhil Yadav](https://github.com/Nikhil-Yadav-01)
 - [Kevin](https://github.com/M0nesy121)
 - [tsuki-year](https://github.com/tsuki-year)
+- [Sameer Shamshad](https://github.com/CodeLikeBA56)
 - [yakov007](https://github.com/yakov007) "Add to Contributors list"
 - [Tetiana Tkachova](https://github.com/defur) git commit -m "Add <your-name> to Contributors list"
 - [Cooper Li] (https://github.com/CooperLi1)
