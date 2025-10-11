@@ -1,4 +1,5 @@
 # Contributors
+
 - [Nishita Kashyap](https://github.com/nishitakashyap)
 - [Viraj Dhamnaskar](https://github.com/Rootvikk)
 - [Bhuvanesh](https://github.com/bhw-git)
@@ -11,7 +12,7 @@
 - [tsuki-year](https://github.com/tsuki-year)
 - [Sameer Shamshad](https://github.com/CodeLikeBA56)
 - [yakov007](https://github.com/yakov007) "Add to Contributors list"
-- [Tetiana Tkachova](https://github.com/defur) git commit -m "Add <your-name> to Contributors list"
+- [Tetiana Tkachova](https://github.com/defur) git commit -m "Add `<your-name>` to Contributors list"
 - [Mohammed Saqib Rehaman Namazi](https://github.com/Saqibdev-786)
 - [Cooper Li] (https://github.com/CooperLi1)
 - [Aditi Badkur](https://github.com/aditibadkur)
@@ -117,7 +118,7 @@
 - [Abin Madathil](https://github.com/abinmadathil)
 - [Prince Yadav](https://github.com/warrior-hub)
 - [Kyra (kyrazzx)](https://github.com/kyrazzx)
-- [premludhanii26-cell](https://github.com/premludhangiii26-cell) 
+- [premludhanii26-cell](https://github.com/premludhangiii26-cell)
 - [sachinandan yadav](https://github.com/sachinandan-05)
 - [Md Khalid Hasan Ansari]
 - [Shahid Afrid](https://github.com/shahid-afrid)
@@ -408,6 +409,7 @@
 - [David Oh](https://github.com/DavidOh1606)
 - [Deepith N](https://github.com/deepith-18)
 - [Dev Chagas](https://github.com/devchagas)
+- Thed Arthur
 - [Devi Patil](https://github.com/Devipatil)
 - [Ankitha Malle](https://github.com/Ankitha-M06).
 - [Devin Rand](https://github.com/devinrand)
@@ -982,7 +984,7 @@
 - [Raj Gajjar](https://github.com/RajGajjar-01)
 - [Ramu Deyyam](https://github.com/Ramu-Deyyam)
 - [Rohan Shinde](https://github.com/kalki-19RS)
-- [Sa'adatu Usman](https://github.com/Saadatu1)
+- [Sa&#39;adatu Usman](https://github.com/Saadatu1)
 - [SaboorNisha](https://github.com/SaboorNisha)
 - [Sahil Kolte](https://github.com/sahilakolte)
 - [Sandy052005](https://github.com/sandy052005)
@@ -1143,7 +1145,7 @@
 - [Joery van Santen](https://github.com/joeryvs)
 - [Shashwat Gauniyal](https://github.com/ShashwatGauniyal)
 - [Grace Chen Abudi](https://github.com/Chen-Abudi)
-- [Joseph O'Neill](https://github.com/L00188381)
+- [Joseph O&#39;Neill](https://github.com/L00188381)
 - [Josmer Rodriguez](https://github.com/Josmerr)
 - [Kerem Balci](https://github.com/kerembalci90)
 - [Keshav Kant](https://github.com/Keshav-Kant/)
