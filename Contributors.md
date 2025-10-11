@@ -1107,6 +1107,7 @@
 - [Elena Krunic](https://github.com/ElenaKrunic)
 - [Frank Lin](https://github.com/FANKYDOODLE)
 - [Nur Hakimi](https://github.com/n-hakimi)
+- [Kushagra Garg](https://github.com/Kushagra-Garg-kash)
 - [Emaan Fatima](https://github.com/emaan123dev)
 - [Evgeny Kozelskiy](https://github.com/Der12kl)
 - [Fabrice Pecot](https://github.com/FabriceAB1)
