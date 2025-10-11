@@ -19,6 +19,7 @@
 - [Smit Patel](https://github.com/jayambe36)
 - [mtang624](https://github.com/mtang624)
 - [Prisca Onwudebelu Ebubechukwu](https://github.com/PriscaTonia)
+- [Sham Sunder](https://github.com/ShamSuther) - "for the sake of being!"
 - [Aaromal A](https://github.com/aaromalonline)
 - [Aman Gupta](https://github.com/aman-devx)
 - [Sowo R](https://github.com/sowo5)
