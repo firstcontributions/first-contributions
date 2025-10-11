@@ -1606,6 +1606,7 @@
 - [Jabrail Shahbazov](https://github.com/JabrailShahbazov)
 - [Kagisho Makoti](https://github.com/k4g1sho)
 - [Ritika Sinha](https://github.com/RitikaSinhaa99)
+- [Jakub Mądry](https://github.com/Jakubowsky97)
 - [Ramya](https://github.com/ramyayashvi)
 - [zhus-on-first](https://github.com/zhus-on-first)
 - [vinicius zaparoli](https://github.com/zaparolidex)
