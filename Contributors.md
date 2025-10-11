@@ -813,7 +813,6 @@
 - [Sakshi Singh](https://github.com/236sakshi)
 - [Sam Ruiz](https://github.com/LiebesleidSam)
 - [Samuel Maxey](https://github.com/SMAX-byte)
-- [Sanjeev]() Grabbing oppurtunities flawlessly
 - [Sashin Trout](https://github.com/sashin123)
 - [Sean Calderon](https://github.com/rimorgin)
 - [Shamir Ali](https://github.com/ShamirAli55)
