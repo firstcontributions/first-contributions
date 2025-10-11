@@ -1604,3 +1604,4 @@
 - [vinicius zaparoli](https://github.com/zaparolidex)
 - [xpfxzxc](https://github.com/xpfxzxc)
 - [Mildred CC] (https://github.com/Mil-54)
+- [Blake Gould] (github.com/bgould98)
