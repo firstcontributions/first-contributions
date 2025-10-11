@@ -1,4 +1,5 @@
 # Contributors
+- [Arka Banerjee](https://github.com/thearkabanerjee)
 - [Bhuvanesh](https://github.com/bhw-git)
 - [Dharmendra Solanki](https://github.com/ProgrammingPirates)
 - [Ahtisham Shaikh](https://github.com/Ahtisham-1214)
