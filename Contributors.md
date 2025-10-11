@@ -1,12 +1,16 @@
 # Contributors
 - [Bhuvanesh](https://github.com/bhw-git)
-- [Jose](https://github.com/NaturalTC) 
+- [Dharmendra Solanki](https://github.com/ProgrammingPirates)
+- [Ahtisham Shaikh](https://github.com/Ahtisham-1214)
+- [Faizan_Deshmukh](https://github.com/faizan1317)
+- [Jose](https://github.com/NaturalTC)
 - [Kevin](https://github.com/M0nesy121)
 - [tsuki-year](https://github.com/tsuki-year)
 - [yakov007](https://github.com/yakov007 "Add to Contributors list"
 - [Tetiana Tkachova](https://github.com/defur) git commit -m "Add <your-name> to Contributors list"
 - [Cooper Li] (https://github.com/CooperLi1)
 - [Vasistha_yadav] (git switch -c your-new-branch-name)
+- [PHT] ((https://github.com/CodeByPyaeHan)
 - [Manoj Pipare](https://github.com/manojvp16)
 - [The Bug Hunter](https://github.com/biswajitRapidsoft)
 - [Waqar Hasan](https://github.com/JohnWalkerHasan)
@@ -101,6 +105,7 @@
 - [premludhanii26-cell][https://github.com/premludhangiii26-cell] -[sachinandan yadav](https://github.com/sachinandan-05)
 - [Md Khalid Hasan Ansari]
 - [Shahid Afrid](https://github.com/shahid-afrid)
+- [Kanishka Vats](https://github.com/KanishkaV25)
 - [Shanmukh sai karnam](https://github.com/karnam16)
 - [Hassan Najam](https://github.com/Hassan5117)
 - [Abdelkader Charef Eddine Djellil (djacbi)](https://github.com/AbdelkaderCE/)
@@ -1475,6 +1480,7 @@
 - [Harini R A J](https://github.com/Harini-RAJ)
 - [Zahra Shefa](https://github.com/zahrashefa318)
 - [Purushottam-Singh](https://github.com/purakh)
+- [ritik-dubey] (https://github.com/DubeyRitik)
 - [Karumanchi Siddhanth](https://github.com/Sid-ef)
 - [Shreya](https://github.com/shreya0806-tech)
 - [Chang Jia Jun](https://github.com/jiajunchang2002g)
@@ -1606,3 +1612,6 @@
 - [xpfxzxc](https://github.com/xpfxzxc)
 - [Mildred CC] (https://github.com/Mil-54)
 - [Blake Gould] (github.com/bgould98)
+- [Amit Shaw] (https://github.com/Amit-dev-zone)
+- [Parth Mittal](https://github.com/afk-Parth)
+- [Kaushal Kadam](https://github.com/zack047)
