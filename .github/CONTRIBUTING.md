@@ -34,7 +34,7 @@ If you're making changes to a translation, please request a review from our prev
 | ગુજરાતી | [Gujarati](../docs/translations/README.guj.md) | [<img width="100" src="https://avatars2.githubusercontent.com/u/38134283?s=460&v=4" alt="@smitgajjar" />](https://github.com/smitgajjar) [<img width="100" src="https://avatars.githubusercontent.com/u/16669911?v=4" alt="@kaushalgosaliya5" />](https://github.com/kaushalgosaliya5/) |
 | Hausa | [Hausa](../docs/translations/README.hau.md) | []() |
 | עברית | [Hebrew](../docs/translations/README.hb.md) | [<img width="100" src="https://avatars1.githubusercontent.com/u/23402988?s=460&v=4" alt="@TomerPacific" />](https://github.com/TomerPacific) |
-| हिन्दी | [Hindi](../docs/translations/README.hi.md) | [<img width="100" src="https://avatars2.githubusercontent.com/u/4654382?s=460&v=4" alt="@arshadkazmi42" />](https://github.com/arshadkazmi42) [<img width="100" src="https://avatars2.githubusercontent.com/u/7047079?s=460&v=4" alt="@sara-02" />](https://github.com/sara-02) [<img width="100" src="https://avatars.githubusercontent.com/u/20799404?v=4" alt="shrut1996" />](https://github.com/shrut1996) |
+| हिन्दी | [Hindi](../docs/translations/README.hi.md) | [<img width="100" src="https://avatars2.githubusercontent.com/u/4654382?s=460&v=4" alt="@arshadkazmi42" />](https://github.com/arshadkazmi42) [<img width="100" src="https://avatars2.githubusercontent.com/u/7047079?s=460&v=4" alt="@sara-02" />](https://github.com/sara-02) [<img width="100" src="https://avatars.githubusercontent.com/u/20799404?v=4" alt="shrut1996" />](https://github.com/shrut1996) [<img width="100" src="https://avatars.githubusercontent.com/u/115412560?v=4" alt="Nishant-Manocha" />](https://github.com/Nishant-Manocha) |
 | Chhattisgarhi | [Chhattisgarhi](../docs/translations/README.hne.md) | [<img width="100" src="https://avatars2.githubusercontent.com/u/54806739?s=400&v=4" alt="@pradyyadav" />](https://github.com/pradyyadav) |
 | Magyar | [Hungarian](../docs/translations/README.hu.md) | []() |
 | Armenian | [Armenian](../docs/translations/README.hy.md) | []() |
@@ -76,7 +76,7 @@ If you're making changes to a translation, please request a review from our prev
 | ไทย | [Thai](../docs/translations/README.th.md) | [<img width="100" src="https://avatars0.githubusercontent.com/u/5433758?s=460&v=4" alt="@AimeTPGM" />](https://github.com/AimeTPGM) |
 | Tagalog | [Tagalog](../docs/translations/README.tl.md) | []() |
 | Türkçe | [Turkish](../docs/translations/README.tr.md) | [<img width="100" src="https://avatars3.githubusercontent.com/u/32689837?s=460&v=4" alt="@yamac-kurtulus" />](https://github.com/yamac-kurtulus) |
-| Українська | [Ukrainia    n](../docs/translations/README.ua.md) | []() |
+| Українська | [Ukrainian](../docs/translations/README.ua.md) | [<img width="100" src="https://avatars.githubusercontent.com/u/20286171?v=4" alt="@yamac-kurtulus" />](https://github.com/666f78) |
 | Universal Alien | [Universal Alien](../docs/translations/README.un-aln.md) | [<img width="100" src="https://avatars.githubusercontent.com/u/68442560?v=4" alt="@debjit-bw" />]() |
 | اردو | [Urdu](../docs/translations/README.ur.md) | [<img width="100" src="https://avatars3.githubusercontent.com/u/4142795?s=460&v=4" alt="@Shhzdmrz" />](https://github.com/Shhzdmrz) |
 | Tiếng Việt | [Vietnamese](../docs/translations/README.vn.md) | [<img width="100" src="https://avatars3.githubusercontent.com/u/12371875?s=460&v=4" alt="@tranlyvu" />](https://github.com/tranlyvu) |
