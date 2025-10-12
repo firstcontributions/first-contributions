@@ -1668,3 +1668,4 @@
 - [Sakura Magic] (https://github.com/SakuraMagic225)
 - [anushka kandhway](https://github.com/kandhwayanushka-hue/first-contributions.git)
 - [Gadri Dev](https://github.com/Gadridev)
+- [Tanya Singh](https://github.com/tanyasingh2004)
