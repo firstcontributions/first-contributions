@@ -1652,6 +1652,7 @@
 - [Aaryan](https://github.com/Aaryank1337)
 - [Ixlosbek Erkinov](https://github.com/ix1osbek)
 - [Øystein Håberg](https://github.com/Islandstone89)
+- [Nataliia Kulieshova](https://github.com/Kulieshova)
 - [TranCongHung171](https://github.com/TranCongHung171/2321050068-01)
 - [Arsheet Kaur](https://github.com/ArsheetKaur)
 - [Rohith Reddy](https://github.com/rohithreddy)
