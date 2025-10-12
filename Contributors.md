@@ -752,6 +752,7 @@
 - [Diya Pandey](https://github.com/diyapandey)
 - [Dojeman1234](https://github.com/Dojeman123)
 - [Duo](https://github.com/NamingRacksMyBrain)
+- [Sumer] (https://github.com/SumerSabharwal)
 - [Edson Petry](https://github.com/edsonpetry)
 - [Emrah Isović](https://github.com/EmrahIso)
 - [Erfan Ahmadi](https://github.com/erfan-web)
