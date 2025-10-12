@@ -1,5 +1,6 @@
 # Contributors
 - [Arka Banerjee](https://github.com/thearkabanerjee)
+- [Rahul Soni](https://github.com/grksoni)
 - [Nishita Kashyap](https://github.com/nishitakashyap)
 - [Samarth](https://github.com/Samarth-sk)
 - [Viraj Dhamnaskar](https://github.com/Rootvikk)
@@ -778,6 +779,7 @@
 - [Lalitha N](https://github.com/lalitha-n546)
 - [Laurian Iacob](https://github.com/iLaurian)
 - [Letícia Reche](https://github.com/lereche)
+- [Fenton](https://github.com/FentonFrancis)
 - [LdeSalas](https://github.com/luisda2505)
 - [LukaGakhokidze](https://github.com/Luka288)
 - [Lulu Harvey](https://github.com/luluharvey)
@@ -1662,3 +1664,4 @@
 - [Mudiam Veera Rohith Reddy](https://github.com/rohithredddy)
 - [Navodhya Fernando](https://github.com/Navodhya-Fernando)
 - [Sakura Magic] (https://github.com/SakuraMagic225)
+- [anushka kandhway](https://github.com/kandhwayanushka-hue/first-contributions.git)
