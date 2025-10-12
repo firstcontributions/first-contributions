@@ -1679,3 +1679,4 @@
 - [Gadri Dev](https://github.com/Gadridev)
 - [Vijay Sarathy](https://github.com/vijmeister)
 - [Tanya Singh](https://github.com/tanyasingh2004)
+- [HAYTHAM KENNOUZ](https://github.com/Haytham-HK)
