@@ -1636,6 +1636,7 @@
 - [Mildred CC](https://github.com/Mil-54)
 - [Blake Gould](github.com/bgould98)
 - [Amit Shaw](https://github.com/Amit-dev-zone)
+- [zbin](https://github.com/zbin)
 - [Parth Mittal](https://github.com/afk-Parth)
 - [Kaushal Kadam](https://github.com/zack047)
 - [Ghanshyam Jha](https://github.com/GhanshyamJha05)
