@@ -1497,6 +1497,7 @@
 - [AntoTheSol](https://github.com/AntoTheSol)
 - [AntoTheSol](https://github.com/AntoTheSol)
 - [Javier Napoles](https://github.com/Jnapfx)
+- [Anshu Rajpoot](https://github.com/Anshu-Rajpoot)
 - [Suhail Abdi](https://github.com/suhailabdi2)
 - Arpit Kumar Jaiswal
 - [Camiloprog](https://github.com/juancamilo99-prog)
