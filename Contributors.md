@@ -1,5 +1,6 @@
 # Contributors
 - [Arka Banerjee](https://github.com/thearkabanerjee)
+- [Rahul Soni](https://github.com/grksoni)
 - [Nishita Kashyap](https://github.com/nishitakashyap)
 - [Samarth](https://github.com/Samarth-sk)
 - [Viraj Dhamnaskar](https://github.com/Rootvikk)
