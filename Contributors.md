@@ -1521,6 +1521,7 @@
 - [Purva Porwal](https://github.com/purvapr13)
 - [Amir Yasaei](https://github.com/amiryasaei)
 - [AW](https://github.com/AWintheiser-FVTC)
+- [Nimisha Uppunuthula](https://github.com/Nimisha2710)
 - [Idris Rasaq Akande](https://github.com/gentlerhiz)
 - [John Ziska](https://github.com/kingcoco42)
 - [Chihiro Takeuchi](https://github.com/HennesyChihiro)
