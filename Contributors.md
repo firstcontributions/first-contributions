@@ -680,6 +680,7 @@
 - [krshearman](https://github.com/krshearman)
 - [kyiroywops](https://github.com/kyiroywops)
 - [lennyhurni](https://github.com/lennyhurni)
+- [skyl3on](https://github.com/SkyL3on)
 - [lordzerato](https://github.com/lordzerato)
 - [marcuscs00](https://github.com/marcuscs00)
 - [mishafisha](https://github.com/mishafisha)
