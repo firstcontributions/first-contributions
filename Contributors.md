@@ -1655,5 +1655,5 @@
 - [Nataliia Kulieshova](https://github.com/Kulieshova)
 - [TranCongHung171](https://github.com/TranCongHung171/2321050068-01)
 - [Arsheet Kaur](https://github.com/ArsheetKaur)
-- [Rohith Reddy](https://github.com/rohithreddy)
+- [Mudiam Veera Rohith Reddy](https://github.com/rohithredddy)
 - [Navodhya Fernando](https://github.com/Navodhya-Fernando)
