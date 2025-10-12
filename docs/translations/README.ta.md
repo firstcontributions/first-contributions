@@ -125,11 +125,11 @@ git push origin <உங்கள்-கிளையின்-பெயர்>
 
 GitHub இல் உள்ள உங்கள் களஞ்சியத்திற்குச் சென்றால், `Compare & pull request` கோரிக்கை பொத்தானைக் காண்பீர்கள். அந்த பொத்தானைக் கிளிக் செய்க.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="புல் கோரிக்கையை உருவாக்கவும்" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="Pull கோரிக்கையை உருவாக்கவும்" />
 
 இப்போது இழுக்கும் கோரிக்கையை சமர்ப்பிக்கவும்.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="புள் கோரிக்கையை சமர்ப்பிக்கவும்" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="Pull கோரிக்கையை சமர்ப்பிக்கவும்" />
 
 விரைவில் உங்கள் எல்லா மாற்றங்களையும் இந்த திட்டத்தின் முதன்மை கிளையில் இணைக்கப்படும். மாற்றங்கள் ஒன்றிணைக்கப்பட்டவுடன் உங்களுக்கு அறிவிப்பு மின்னஞ்சல் கிடைக்கும்.
 
