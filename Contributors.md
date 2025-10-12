@@ -1,4 +1,5 @@
 # Contributors
+
 - [Arka Banerjee](https://github.com/thearkabanerjee)
 - [Rahul Soni](https://github.com/grksoni)
 - [Nishita Kashyap](https://github.com/nishitakashyap)
@@ -1663,6 +1664,7 @@
 - [Øystein Håberg](https://github.com/Islandstone89)
 - [ireneo sm](https://github.com/Ireneo23)
 - [Nataliia Kulieshova](https://github.com/Kulieshova)
+- [Omotosho David Ayomide](https://github.com/O-Midey)
 - [TranCongHung171](https://github.com/TranCongHung171/2321050068-01)
 - [Arsheet Kaur](https://github.com/ArsheetKaur)
 - [Mudiam Veera Rohith Reddy](https://github.com/rohithredddy)
