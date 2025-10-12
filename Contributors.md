@@ -68,6 +68,7 @@
 - [Manasvi Jain](https://github.com/MJ-thunder)
 - [Scholarin](https://github.com/scholarin-cloud)
 - [Satyam Kumar Jha](https://github.com/satyam536)
+- [Matheus Ribeiro da Fonseca](https://github.com/theusfonseca20)
 - [Nithurshen Karthikeyan](https://github.com/nithurshen)
 - [Sadia Malik](https://github.com/sadiamalik1980)
 - [Utkarsh Upreti](https://www.github.com/K4rsh)
