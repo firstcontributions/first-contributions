@@ -72,6 +72,7 @@
 - [Satyam Kumar Jha](https://github.com/satyam536)
 - [Matheus Ribeiro da Fonseca](https://github.com/theusfonseca20)
 - [Nithurshen Karthikeyan](https://github.com/nithurshen)
+- [Vijay Kumar](https://github.com/vijaytogra)
 - [Sadia Malik](https://github.com/sadiamalik1980)
 - [Utkarsh Upreti](https://www.github.com/K4rsh)
 - [Md. Shamim Ahmed](https://github.com/cseshamim47)
