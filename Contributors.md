@@ -1,5 +1,5 @@
 # Contributors
-
+- [Arka Banerjee](https://github.com/thearkabanerjee)
 - [Nishita Kashyap](https://github.com/nishitakashyap)
 - [Samarth](https://github.com/Samarth-sk)
 - [Viraj Dhamnaskar](https://github.com/Rootvikk)
