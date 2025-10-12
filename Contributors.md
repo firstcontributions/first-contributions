@@ -1552,6 +1552,7 @@
 - [Aryan Gupta](https://github.com/aryang2377)
 - [Ugesh Praavin D](https://github.com/Ugesh-Praavin)
 - [Sahil Motiramani](https://github.com/SahilMotiramani)
+- [Alex Dimmock] (https://github.com/alexdimmock95) - Best wishes on your journey x
 - [Akash Thakur](https://github.com/Akash9541)
 - Dang Thien Chuong
 - [Rajat](https://github.com/Rajat-44)
