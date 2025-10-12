@@ -436,6 +436,7 @@
 - [Jose Soto](https://github.com/jossotriv)
 - [Iman Chandrasiri](https://github.com/Iman0810)
 - [Igor Balić](https://github.com/Iggy2399)
+- [Jada McAfee](https://github.com/smac115)
 - [Isaac F](https://github.com/YellowFlello)
 - [Janaki Ram K](https://github.com/JKR0805)
 - [Jithin](https://github.com/jithin-dotcom)
