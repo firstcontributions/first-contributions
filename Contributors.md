@@ -1,5 +1,6 @@
 # Contributors
 
+- [namest504](https://github.com/namest504)
 - [Aravind Rao](https://github.com/rekcilyssup)
 - [Arka Banerjee](https://github.com/thearkabanerjee)
 - [Asmodeuos](https://github.com/Asmodeuos)
