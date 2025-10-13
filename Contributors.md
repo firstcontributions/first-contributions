@@ -526,6 +526,7 @@
 - [Sidharth P](https://github.com/Sid-CodeX)
 - [Sina Soltani](https://github.com/sinaxzi)
 - [Sinchana](https://github.com/Sinchanar09)
+- [İsaməddin Qurbanov](https://github.com/isameddin35)
 - [Tyler Daw](https://github.com/TylerD1105)
 - [Umair Amir](https://github.com/UmairAmir)
 - [Umesh Raju](https://github.com/UmeshRaju)
