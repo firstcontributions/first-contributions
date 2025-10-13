@@ -1,5 +1,6 @@
 # Contributors
 
+- [namest504](https://github.com/namest504)
 - [Arka Banerjee](https://github.com/thearkabanerjee)
 - [Rahul Soni](https://github.com/grksoni)
 - [Nishita Kashyap](https://github.com/nishitakashyap)
