@@ -1,5 +1,6 @@
 # Contributors
 
+- [Aravind Rao](https://github.com/rekcilyssup)
 - [Arka Banerjee](https://github.com/thearkabanerjee)
 - [Vaibhav Umbarkar](https://github.com//vaibhav-umbarkar)
 - [Rahul Soni](https://github.com/grksoni)
