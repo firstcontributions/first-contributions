@@ -1701,3 +1701,4 @@
 - [Vedant Patole](https://github.com/PatoleVedant)
 - [Md Shakib Hossain](https://github.com/mdshakibhossai)
 - [Holisterfort](https://github.com/Holisterfort)
+- [Izaiah](https://github.com/Astrogaming057) - "I like dragons <3"
