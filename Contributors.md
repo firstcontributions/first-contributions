@@ -20,6 +20,7 @@
 - [Faizan_Deshmukh](https://github.com/faizan1317)
 - [Saksham Singh](https://github.com/apexsaksham)
 - [Jose](https://github.com/NaturalTC)
+- [Alperen Söylen](https://github.com/Alperen012)
 - [Nikhil Yadav](https://github.com/Nikhil-Yadav-01)
 - [Kevin](https://github.com/M0nesy121)
 - [Ankita Gupta](https://github.com/Ankita562)
