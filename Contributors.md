@@ -112,6 +112,7 @@
 - [Sarvs](https://github.com/randoduck)
 - [Oliyad Zelalem](https://github.com/ozimmortal)
 - [Issa Issack](https://github.com/essaissa)
+- [Brayden Monthei](https://github.com/Brayden-Monthei)
 - [Mogal](https://github.com/)
 - [Afsheen Nadaf](https://github.com/afsheen-nadaf)
 - [Daniel Li](https://github.com/FallingSky65)
