@@ -9,6 +9,7 @@
 - [Viraj Dhamnaskar](https://github.com/Rootvikk)
 - [Luke Oliver] ()
 - [Elias Bemuehtsichwirklichsehr](why does everyone put their link here, ~EliasEki)
+- [Rezhan Fatah] (https://github.com/RezhanFatah)
 - [Bhuvanesh](https://github.com/bhw-git)
 - [Yash Pachauri](https://github.com/yashpachauri1)
 - [Dharmendra Solanki](https://github.com/ProgrammingPirates)
