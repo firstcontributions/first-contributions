@@ -3,6 +3,7 @@
 - [Arka Banerjee](https://github.com/thearkabanerjee)
 - [Vaibhav Umbarkar](https://github.com//vaibhav-umbarkar)
 - [Rahul Soni](https://github.com/grksoni)
+- [Priyeash Bala](https://github.com/priyeashbala)
 - [Nishita Kashyap](https://github.com/nishitakashyap)
 - [Samarth](https://github.com/Samarth-sk)
 - [Viraj Dhamnaskar](https://github.com/Rootvikk)
