@@ -76,7 +76,7 @@ If you're making changes to a translation, please request a review from our prev
 | ไทย | [Thai](../main/docs/translations/README.th.md) | [<img width="100" src="https://avatars0.githubusercontent.com/u/5433758?s=460&v=4" alt="@AimeTPGM" />](https://github.com/AimeTPGM) |
 | Tagalog | [Tagalog](../main/docs/translations/README.tl.md) | []() |
 | Türkçe | [Turkish](../main/docs/translations/README.tr.md) | [<img width="100" src="https://avatars3.githubusercontent.com/u/32689837?s=460&v=4" alt="@yamac-kurtulus" />](https://github.com/yamac-kurtulus) |
-| Українська | [Ukrainia    n](../main/docs/translations/README.ua.md) | []() |
+| Українська | [Ukrainian](../main/docs/translations/README.ua.md) |  [<img width="100" src="https://avatars.githubusercontent.com/u/20286171?v=4" alt="@yamac-kurtulus" />](https://github.com/666f78)  |
 | Universal Alien | [Universal Alien](../main/docs/translations/README.un-aln.md) | [<img width="100" src="https://avatars.githubusercontent.com/u/68442560?v=4" alt="@debjit-bw" />]() |
 | اردو | [Urdu](../main/docs/translations/README.ur.md) | [<img width="100" src="https://avatars3.githubusercontent.com/u/4142795?s=460&v=4" alt="@Shhzdmrz" />](https://github.com/Shhzdmrz) |
 | Tiếng Việt | [Vietnamese](../main/docs/translations/README.vn.md) | [<img width="100" src="https://avatars3.githubusercontent.com/u/12371875?s=460&v=4" alt="@tranlyvu" />](https://github.com/tranlyvu) |
