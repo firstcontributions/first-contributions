@@ -1,5 +1,6 @@
 # Contributors
 
+- [Aravind Rao](https://github.com/rekcilyssup)
 - [Arka Banerjee](https://github.com/thearkabanerjee)
 - [Vaibhav Umbarkar](https://github.com//vaibhav-umbarkar)
 - [Rahul Soni](https://github.com/grksoni)
@@ -9,6 +10,7 @@
 - [Viraj Dhamnaskar](https://github.com/Rootvikk)
 - [Luke Oliver] ()
 - [Elias Bemuehtsichwirklichsehr](why does everyone put their link here, ~EliasEki)
+- [Rezhan Fatah] (https://github.com/RezhanFatah)
 - [Bhuvanesh](https://github.com/bhw-git)
 - [Yash Pachauri](https://github.com/yashpachauri1)
 - [Dharmendra Solanki](https://github.com/ProgrammingPirates)
