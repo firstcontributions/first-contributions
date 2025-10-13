@@ -10,6 +10,7 @@
 - [Bhuvanesh](https://github.com/bhw-git)
 - [Dharmendra Solanki](https://github.com/ProgrammingPirates)
 - [Ahtisham Shaikh](https://github.com/Ahtisham-1214)
+- [Jayashankar R J](https://github.com/RJJayashankar)
 - [Faizan_Deshmukh](https://github.com/faizan1317)
 - [Saksham Singh](https://github.com/apexsaksham)
 - [Jose](https://github.com/NaturalTC)
