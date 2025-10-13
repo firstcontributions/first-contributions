@@ -46,6 +46,7 @@
 - [Shashank Avvaru](https://github.com/Shashankavvaru-hub)
 - [Krishna Sahith Yandapalli](https://github.com/krishnasahith)
 - [Syndhavi](https://github.com/Syndhavi)
+- [Shamas U Din](https://github.com/Shamss173/)
 - [Mohamed Adhil](https://github.com/adhil-cloud)
 - [Aydan Butler](https://github.com/aydanpb)
 - [Kavindu Udara](https://github.com/kavindu-udara)
