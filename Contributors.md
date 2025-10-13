@@ -247,6 +247,7 @@
 - [Jenna Hall](https://github.com/swejenna)
 - [Rohit Mathur](https://github.com/Rohit0265)
 - [Jerry](https://github.com/SniperRaccoon)
+- [Lester Liang](https://github.com/userMaoGuaXi)
 - [Jesse Prevete](https://github.com/jjpdotexe)
 - [Rohit Madhu Ghadge](https://github.com/Rod7678)
 - [Jeyanth-S](https://github.com/Jeyanth-S)
