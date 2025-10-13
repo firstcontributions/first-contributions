@@ -8,6 +8,7 @@
 - [Luke Oliver] ()
 - [Elias Bemuehtsichwirklichsehr](why does everyone put their link here, ~EliasEki)
 - [Bhuvanesh](https://github.com/bhw-git)
+- [Yash Pachauri](https://github.com/yashpachauri1)
 - [Dharmendra Solanki](https://github.com/ProgrammingPirates)
 - [Ahtisham Shaikh](https://github.com/Ahtisham-1214)
 - [Jayashankar R J](https://github.com/RJJayashankar)
