@@ -98,6 +98,7 @@
 - [Aman Bajpai](https://github.com/Aman-bajpai)
 - [deepak mishra](https://github.com/BEPAWSITIVE)
 - [Caleb Fan](https://github.com/Gazfang)
+- [Anandajith S](https://github.com/AnandajithS)
 - [Christian Gongora](https://github.com/ChristianGongoraDeMoraes)
 - [Dhayanithi s r](https://github.com/its-dhaya)
 - [Raja Rathour](https://github.com/Raja-89)
