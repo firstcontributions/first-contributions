@@ -16,6 +16,7 @@
 - [Nikhil Yadav](https://github.com/Nikhil-Yadav-01)
 - [Kevin](https://github.com/M0nesy121)
 - [Ankita Gupta](https://github.com/Ankita562)
+- [Neeraj Gupta](https://github.com/Neeraj0608)
 - [tsuki-year](https://github.com/tsuki-year)
 - [Sameer Shamshad](https://github.com/CodeLikeBA56)
 - [yakov007](https://github.com/yakov007) "Add to Contributors list"
