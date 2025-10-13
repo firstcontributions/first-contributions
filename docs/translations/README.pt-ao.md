@@ -11,7 +11,7 @@ Primeiramente, vamos começar por instalar o [Git](https://pt.wikipedia.org/wiki
 
 
 ## Faz Fork deste repositório
-<img align="right" width="350" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork deste repositorio" />
+<img align="right" width="350" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="bifurcar este repositório" />
 
 Faz Fork clicando no botão "Fork" no topo desta página e de seguida click na opção *Create a new Fork(Criar novo fork, em português)*
 <br></br><br></br>
@@ -71,11 +71,11 @@ substitui `<add-teu-nome>` pelo nome do Branch que criaste anteriormente.
 
 Se fores para o teu repositório no GitHub, verás um botão `Compare & pull request`. Clica nesse botão.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="Cria um Pull Request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="criar um pedido de pull" />
 
 Agora envia um Pull Request.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="Envia um pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submeter pedido de pull" />
 
 Quando puder incorporarei as tuas mudanças no Branch principal (master) deste projeto. Vais receber um e-mail de notificação quando as alterações forem incorporadas.
 
