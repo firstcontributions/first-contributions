@@ -145,6 +145,7 @@
 - [Clement Zentz](https://github.com/clement-zentz)
 - [S-Dedeepya](https://github.com/S-Dedeepya)
 - [Fred](https://github.com/kipkemoifred)
+- [D3rk1us](https://github.com/D3rk1us)
 - [Sahil Gurjar](https://github.com/SG2407)
 - [Vardhan](https://github.com/Chintha-vardhan)
 - [Lakshmi Kamalanjali Mandalika](https://github.com/Kamalanjali)
