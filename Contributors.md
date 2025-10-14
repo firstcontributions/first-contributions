@@ -9,6 +9,7 @@
 - [Asmodeuos](https://github.com/Asmodeuos)
 - [Vaibhav Umbarkar](https://github.com//vaibhav-umbarkar)
 - [Rahul Soni](https://github.com/grksoni)
+- [anjali-ojha17](https://github.com/anjali-ojha17)
 - [Priyeash Bala](https://github.com/priyeashbala)
 - [Nishita Kashyap](https://github.com/nishitakashyap)
 - [Samarth](https://github.com/Samarth-sk)
