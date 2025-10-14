@@ -623,6 +623,7 @@
 - [John Mixon](https://github.com/mixdev2112)
 - [Josh Gregory](https://github.com/joshtype)
 - [João Inacio](https://github.com/J-Inacio)
+- [Valdivino Ferreira Borges Neto](https://github.com/ValdivinoFerreira)
 - [Khushi Singh](https://github.com/mekhushi)
 - [Kimjunseoo](https://github.com/kimjunseoo)
 - [Koichi-Kodama](https://github.com/Kytoshi)
