@@ -4,6 +4,7 @@
 - [manasab805] (https://github.com/manasab805)
 - [Aravind Rao](https://github.com/rekcilyssup)
 - [amarmerada](https://github.com/amarmerada99)
+- [Vikas Mishra](https://github.com/vikasmishra1691)
 - [Arka Banerjee](https://github.com/thearkabanerjee)
 - [Asmodeuos](https://github.com/Asmodeuos)
 - [Vaibhav Umbarkar](https://github.com//vaibhav-umbarkar)
