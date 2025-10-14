@@ -9,6 +9,7 @@
 - [Asmodeuos](https://github.com/Asmodeuos)
 - [Vaibhav Umbarkar](https://github.com//vaibhav-umbarkar)
 - [Rahul Soni](https://github.com/grksoni)
+- [anjali-ojha17](https://github.com/anjali-ojha17)
 - [Priyeash Bala](https://github.com/priyeashbala)
 - [Nishita Kashyap](https://github.com/nishitakashyap)
 - [Samarth](https://github.com/Samarth-sk)
@@ -463,8 +464,7 @@
 - [Harsh Kaushik](https://github.com/hrk022)
 - [Harsh Singh](https://github.com/singhharsh29)
 - [HighPoly](https://github.com/HighPolygon)
-- [VishnuPriyaSingamReddy](https://github.com/VishnuPriyaSingamReddy)
--[Ritu Raj](https://github.com/Ritu14012004)
+- [VishnuPriyaSingamReddy](https://github.com/VishnuPriyaSingamReddy) -[Ritu Raj](https://github.com/Ritu14012004)
 - [Ian McManus](https://github.com/ianmcman)
 - [Jose Soto](https://github.com/jossotriv)
 - [Iman Chandrasiri](https://github.com/Iman0810)
@@ -1716,4 +1716,4 @@
 - [Himanshu ATtri](https://github.com/HimanshuAttri) - "think"
 - [Amir choudhary](https://github.com/Amirchoudhary09)
 - [Kevin Salgado](https://github.com/kevtico)
-|- [Saurav Kumar](https://github.com/Saurav02022)
+  |- [Saurav Kumar](https://github.com/Saurav02022)
