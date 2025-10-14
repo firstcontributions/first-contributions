@@ -35,7 +35,7 @@
 - [tsuki-year](https://github.com/tsuki-year)
 - [Sameer Shamshad](https://github.com/CodeLikeBA56)
 - [yakov007](https://github.com/yakov007) "Add to Contributors list"
-- [Tetiana Tkachova](https://github.com/defur) git commit -m "Add <your-name> to Contributors list"
+- [Tetiana Tkachova](https://github.com/defur) git commit -m "Add `<your-name>` to Contributors list"
 - [Mohammed Saqib Rehaman Namazi](https://github.com/Saqibdev-786)
 - [Cooper Li] (https://github.com/CooperLi1)
 - [Aditi Badkur](https://github.com/aditibadkur)
@@ -77,6 +77,7 @@
 - [Akanksha Shinde](https://github.com/AkankshaShinde23)
 - [jahnavi3221](https://github.com/jahnavi3221)
 - [Umasankar Varadati](https://github.com/umasankarvaradati)
+- [Amit pandey](https://github.com/tcetamitpandey)
 - [Ciara](https://github.com/ciahan)
 - [Salmaan M](https://github.com/Salmaan-M)
   [Sachin](https://github.com/Sachin-2003-hub)
@@ -1024,7 +1025,7 @@
 - [Raj Gajjar](https://github.com/RajGajjar-01)
 - [Ramu Deyyam](https://github.com/Ramu-Deyyam)
 - [Rohan Shinde](https://github.com/kalki-19RS)
-- [Sa'adatu Usman](https://github.com/Saadatu1)
+- [Sa&#39;adatu Usman](https://github.com/Saadatu1)
 - [SaboorNisha](https://github.com/SaboorNisha)
 - [Sahil Kolte](https://github.com/sahilakolte)
 - [Sandy052005](https://github.com/sandy052005)
@@ -1185,7 +1186,7 @@
 - [Joery van Santen](https://github.com/joeryvs)
 - [Shashwat Gauniyal](https://github.com/ShashwatGauniyal)
 - [Grace Chen Abudi](https://github.com/Chen-Abudi)
-- [Joseph O'Neill](https://github.com/L00188381)
+- [Joseph O&#39;Neill](https://github.com/L00188381)
 - [Josmer Rodriguez](https://github.com/Josmerr)
 - [Kerem Balci](https://github.com/kerembalci90)
 - [Keshav Kant](https://github.com/Keshav-Kant/)
