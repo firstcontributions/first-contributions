@@ -10,6 +10,7 @@
 - [Priyeash Bala](https://github.com/priyeashbala)
 - [Nishita Kashyap](https://github.com/nishitakashyap)
 - [Samarth](https://github.com/Samarth-sk)
+- [Ayaz Khira](https://github.com/AyazKhira-1)
 - [Viraj Dhamnaskar](https://github.com/Rootvikk)
 - [Luke Oliver] ()
 - [Elias Bemuehtsichwirklichsehr](why does everyone put their link here, ~EliasEki)
