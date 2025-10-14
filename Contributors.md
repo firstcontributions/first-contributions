@@ -23,6 +23,7 @@ chenhui
 - [Yash Kumar Rana](https://github.com/YashRana52)
 
 - [Bhuvanesh](https://github.com/bhw-git)
+- James
 - [Yash Pachauri](https://github.com/yashpachauri1)
 - [Dharmendra Solanki](https://github.com/ProgrammingPirates)
 - [Ahtisham Shaikh](https://github.com/Ahtisham-1214)
