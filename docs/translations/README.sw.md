@@ -12,7 +12,7 @@ Kusoma makala na kuangalia mafunzo ya video yaweza kusaidia, lakini ni jambo lip
 
 #### *Kama haujazoea kutumia 'command line', [waweza kutumia GUI.](#Makala ya namna ya kutumia nyenzo nyingine)*
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fanya fork ya hazina hii" />
 
 Kama hauna git kwenye kompyuta yako, [pakua](https://help.github.com/articles/set-up-git/).
 
@@ -23,7 +23,7 @@ Kwa kufanya hivyo nakala ya repository hii itatengenezwa kwenye akaunti yako ya 
 
 ## Tengeneza nakala ya repository kwenye kompyuta yako
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone hazina hii" />
 
 Sasa clone repository kwenye kompyuta yako. Nenda kwenye akaunti yako ya Github bonyeza kitufe kilichoandikwa clone na baada ya hapo bonyeza kitufe kilichoandikwa *copy to clipboard* icon.
 
@@ -35,7 +35,7 @@ git clone "url-uliyo-nakili-github"
 
 url hiyo inapatikana kwenye hatua ya ku clone, hakikisha unaondoa fungua semi na funga semi.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="nakili URL kwenda clipboard" />
 
 Kwa mfano:
 
@@ -103,11 +103,11 @@ Badilisha `<jina-la-branch>` na jina la branch ulilotengeneza hapo awali.
 
 Ukiwa Github kwenye repository hii utaona kitufe kilichoandikwa `Compare & pull request`. Bonyeza kitufe hicho.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="unda pull request" />
 
 Sasa tuma pull request.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="tuma pull request" />
 
 Haitochukua muda mrefu nitaanza kuchukua mabadiliko yaliyofanyika na kuyapeleka kwenye master branch ya mradi huu. Utapokea email kukujulisha mara tu hatua hii itakapokamilika.
 
