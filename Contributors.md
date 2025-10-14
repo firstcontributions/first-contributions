@@ -35,6 +35,7 @@
 - [Jose](https://github.com/NaturalTC)
 - [Alperen Söylen](https://github.com/Alperen012)
 - [Nikhil Yadav](https://github.com/Nikhil-Yadav-01)
+- [Armando Júnior](https://github.com/ArmandoDevJr258)
 - [Kevin](https://github.com/M0nesy121)
 - [Ankita Gupta](https://github.com/Ankita562)
 - [tsuki-year](https://github.com/tsuki-year)
