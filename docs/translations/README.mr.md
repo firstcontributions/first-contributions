@@ -1,12 +1,11 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
 # प्रथम योगदान
 
-सुरुवातीला कुठलीही गोष्ट करणे कठीण असते. विशेषत: आपण एकत्र काम करत असताना चुका होणे स्वाभाविक आहे. परंतु एकमेकांसोबत भेटणे आणि एकत्र कार्य करणे हेच तर मुक्त स्त्रोत (Open Source) चे गमक आहे. आम्ही आपले प्रथम मुक्त स्त्रोत योगदान (Contribution) सुलभ करण्यास मदत करू.
+सुरुवातीला कुठलीही गोष्ट करणे कठीण असते. विशेषत: आपण एकत्र काम करत असताना चुका होणे स्वाभाविकच आहे. परंतु एकमेकांसोबत भेटणे आणि एकत्र कार्य करणे हेच तर मुक्त स्त्रोत (Open Source) चे गमक आहे. आम्ही आपले प्रथम मुक्त स्त्रोत योगदान (Contribution) सुलभ करण्यास मदत करू.
 
 लेख वाचणे आणि ट्यूटोरियल पाहण्याने आपणास मदत होऊ शकते परंतु प्रत्यक्षात सराव करण्यापेक्षा काय चांगले आहे? या प्रकल्पाचा हेतू नवशिक्यांना आपले प्रथम योगदान देण्यासंदर्भात सोप्या स्वरुपात मार्गदर्शन प्रदान करण्याचा आहे. आपण आपले प्रथम योगदान देत असल्यास, खालील पायऱ्यांचे अनुसरण करा.
 
@@ -21,7 +20,7 @@
 
 ## रिपॉझिटरी (Repository) ला फोर्क (Fork) करणे
 
-फोर्क बटण क्लिक करून या रिपोला फोर्क करा.
+फोर्क (fork) बटण क्लिक करून या रिपोला (repository) फोर्क करा.
 हे आपल्या खात्यात या रिपॉझिटरीची प्रत (कॉपी) तयार करेल.
 
 ## रिपॉझिटरी (Repository) ला क्लोन (Clone) करणे

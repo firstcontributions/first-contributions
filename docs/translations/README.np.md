@@ -1,5 +1,4 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -66,7 +65,8 @@
 <kbd>[<img title="Latvia" alt="Latvia" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/lv.svg" width="22">](translations/README.lv.md)</kbd>
 <kbd>[<img title="Suomeksi" alt="Suomeksi" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/fi.svg" width="22">](translations/README.fi.md)</kbd>
 <kbd>[<img title="Беларуская мова" alt="Беларуская мова" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/by.svg" width="22">](translations/README.by.md)</kbd>
-<kbd>[<img title="Српски" alt="Српски" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/rs.svg" width="22">](translations/README.sr.md)</kbd>
+<kbd>[<img title="Српски" alt="Српски" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/rs.svg" width="22">](translations/README.sr-Cyrl.md)</kbd>
+<kbd>[<img title="Srpski" alt="Srpski" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/rs.svg" width="22">](translations/README.sr-Latn.md)</kbd>
 <kbd>[<img title="Қазақша" alt="Қазақша" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/kz.svg" width="22">](translations/README.kz.md)</kbd>
 <kbd>[<img title="Bosanski" alt="Bosanski" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ba.svg" width="22">](translations/README.bih.md)</kbd>
 <kbd>[<img title="Bosanski" alt="Bosanski" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/et.svg" width="22">](translations/README.bih.md)</kbd>
@@ -197,11 +197,13 @@ git push -u origin add-ram-regmi
 
 ## यहाँबाट कहाँ जाने?
 
-बधाई छ! तपाईले *Fork* -> *Clone*  -> *Edit*  -> *Pull Request*  कार्यप्रवाह(workflow) पूरा गर्नुभयो, जुन तपाई प्राय: एक योगदानकर्ता(contributor)को रूपमा गर्नुहुनेछ!
+बधाई छ!  
+तपाईले  `*Fork* -> *Clone*  -> *Edit*  -> *Pull Request*`  कार्यप्रवाह (workflow) पूरा गर्नुभयो, जुन तपाई प्राय: एक योगदानकर्ता(contributor)को रूपमा गर्नुहुनेछ!
 
-तपाईंले योगदान(contribution) दिनु भएकोमा खुशी मनाउनुहोस् र [web app](https://firstcontributions.github.io/#social-share) मा गएर आफ्नो friends and follower हरूमा पनि शेयर गर्नुहोस् ।
+तपाईंले योगदान(contribution) दिनु भएकोमा खुशी मनाउनुहोस् र  [ web app](https://firstcontributions.github.io/#social-share) मा गएर आफ्नो friends and follower हरूमा पनि शेयर गर्नुहोस् ।
 
-तपाइँलाई कुनै पनि मद्दत चाहिन्छ वा कुनै प्रश्न छ भने तपाइँ हाम्रो slack team मा सामेल हुन सक्नुहुनेछ। [join slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
+यदि तपाईंलाई थप अभ्यास चाहियो भने, [कोड योगदानहरू](https://github.com/roshanjossey/code-contributions) हेर्नुहोस्।
+
 
 अब तपाईले अन्य प्रोजेक्टहरूमा योगदान दिन सुरु गर्नुहोस्। हामीले तपाईंले गर्न सक्नुहुने सजिलो समस्याहरू(issues)को साथमा प्रोजेक्टहरूको सूची संकलन गरेका छौ हेर्नुहोस् ।. [list of projects in the web app](https://firstcontributions.github.io/#project-list)।
 

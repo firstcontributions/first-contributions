@@ -1,5 +1,4 @@
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-2vqegkew0-ZuzGM1LO33C6Ts4nZyat1Q)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -72,7 +71,8 @@
 <kbd>[<img title="Latvia" alt="Latvia" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/lv.svg" width="22">](README.lv.md)</kbd>
 <kbd>[<img title="Suomeksi" alt="Suomeksi" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/fi.svg" width="22">](README.fi.md)</kbd>
 <kbd>[<img title="Беларуская мова" alt="Беларуская мова" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/by.svg" width="22">](README.by.md)</kbd>
-<kbd>[<img title="Српски" alt="Српски" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/rs.svg" width="22">](README.sr.md)</kbd>
+<kbd>[<img title="Српски" alt="Српски" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/rs.svg" width="22">](README.sr-Cyrl.md)</kbd>
+<kbd>[<img title="Srpski" alt="Srpski" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/rs.svg" width="22">](README.sr-Latn.md)</kbd>
 <kbd>[<img title="Қазақша" alt="Қазақша" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/kz.svg" width="22">](README.kz.md)</kbd>
 <kbd>[<img title="Bosanski" alt="Bosanski" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ba.svg" width="22">](README.bih.md)</kbd>
 <kbd>[<img title="Bosanski" alt="Bosanski" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/et.svg" width="22">](README.bih.md)</kbd>
@@ -256,7 +256,7 @@ git remote set-url origin git@github.com:your-username/your_repo.git
 
 תחגגו את התרומתכם ושתפו אותה עם החברים והעוקבים שלכם בכך שתלכו ל-[web app](https://firstcontributions.github.io/#social-share).
 
-אתם יכולים להצטרף לצוות הסלאק שלנו אם אתם צריכים עזרה או אם יש לכם שאלות. [הצטרפות לצוות בסלאק](https://join.slack.com/t/firstcontributors/shared_invite/zt-2vqegkew0-ZuzGM1LO33C6Ts4nZyat1Q).
+אם אתם רוצים עוד תרגול, בדקו את [תרומות הקוד](https://github.com/roshanjossey/code-contributions).
 
 עכשיו אפשר להתחיל לתרום לפרוייקטים אחרים. הכנו רשימה של פרוייקטים על נושאים קלים שאתם יכולים להתחיל לעבוד עליהם. [רשימה של פרוייקטים ב- web app](https://firstcontributions.github.io/#project-list).
 
