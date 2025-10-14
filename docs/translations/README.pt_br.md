@@ -8,7 +8,7 @@ Este projeto visa facilitar o caminho e guiar os iniciantes em suas primeiras co
 
 #### _Se não se sente confortável com a linha de comando, [aqui estão alguns tutoriais de ferramentas gráficas.](#Tutoriais-usando-outras-ferramentas)_
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork deste repositório" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="faça um fork deste repositório" />
 
 Se não possui o git em sua máquina, [instale-o aqui](https://help.github.com/articles/set-up-git/).
 
@@ -18,7 +18,7 @@ Faça um _Fork_ clicando no botão "_Fork_" no topo desta página, uma cópia de
 
 ## Clone o repositório
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clonar este repositório" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone este repositório" />
 
 Agora clone este repositório para a sua máquina. Clique no botão "_Code_" e, em seguida, clique no ícone "_Copy to clipboard_" para copiar a URL.
 
@@ -30,7 +30,7 @@ git clone "url que copiou"
 
 onde "url que copiou" (sem as aspas) é a URL deste repositório (seu fork deste projeto). Consulte as etapas anteriores para obter a URL.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copiar URL" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copie o URL para a área de transferência" />
 
 Por exemplo:
 
