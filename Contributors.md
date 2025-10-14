@@ -670,6 +670,7 @@
 - [Rikemannen](https://github.com/rikemannen)
 - [Rosellines](https://github.com/Rosellines)
 - [S1ngularty](https://github.com/S1ngularty)
+- [Abhishek Mudit](https://github.com/Abhishek-Mudit)
 - [Vesmorian Xavier](https://github.com/vaibhavsss)
 - [Sabat Pierre](https://github.com/Tchouang)
 - [Sachin vk](https://github.com/sachindasvk)
