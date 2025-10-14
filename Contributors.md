@@ -49,6 +49,7 @@
 - [PHT] ((https://github.com/CodeByPyaeHan)
 - [Manoj Pipare](https://github.com/manojvp16)
 - [The Bug Hunter](https://github.com/biswajitRapidsoft)
+- [Damir Alexis Chapal](https://github.com/Damir-Alexis-Chapal)
 - [Waqar Hasan](https://github.com/JohnWalkerHasan)
 - [Smit Patel](https://github.com/jayambe36)
 - [mtang624](https://github.com/mtang624)
