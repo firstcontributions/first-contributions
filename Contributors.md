@@ -89,6 +89,7 @@
 - [Alan Titus](https://github.com/Alantitus)
 - [Srishti Soni](https://github.com/shimmer12)
 - [Silvano Borea](https://github.com/Bearialus)
+- [Anisha Account](https://github.com/AnishaF05)
 - [Equilibrium-1](https://github.com/Equilibrium-1)
 - [Andrés Galvis P.](https://github.com/paleto30)
 - [Christian Dezha](https://github.com/kekedezha)
