@@ -390,6 +390,7 @@ chenhui
 - [freshmess](https://github.com/freshmess)
 - [hectoru10](https://github.com/Hectoru10)
 - [specksbacon](https://github.com/SpecksBacon)
+- [Saood Ali](https://github.com/saood-ali)
 - [hridyam04](https://github.com/hridyam04)
 - [iason-019](https://github.com/iason-019)
 - [isaac sun](https://github.com/isaac-sun)
