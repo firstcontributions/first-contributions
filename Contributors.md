@@ -59,6 +59,7 @@ chenhui
 - [Aman Gupta](https://github.com/aman-devx)
 - [Sowo R](https://github.com/sowo5)
 - [vipul]
+- PB (https://github.com/PierreBatikh)
 - [Sangeetha Dhanasekar]
 - [Pushkar Sabe](https://github.com/pushkarsabe)
 - [CheriBerry77](https://github.com/CheriBerry77)
