@@ -1,7 +1,8 @@
 # Contributors
 
+- [AliMahmoudDev](https://github.com/AliMahmoudDev)
 - [namest504](https://github.com/namest504)
-- [manasab805] (https://github.com/manasab805)
+- [manasab805](https://github.com/manasab805)
 - [Aravind Rao](https://github.com/rekcilyssup)
 - [amarmerada](https://github.com/amarmerada99)
 - [Vikas Mishra](https://github.com/vikasmishra1691)
