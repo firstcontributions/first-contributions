@@ -18,6 +18,8 @@
 - [Luke Oliver] ()
 - [Elias Bemuehtsichwirklichsehr](why does everyone put their link here, ~EliasEki)
 - [Rezhan Fatah] (https://github.com/RezhanFatah)
+- [Yash Kumar Rana](https://github.com/YashRana52)
+
 - [Bhuvanesh](https://github.com/bhw-git)
 - [Yash Pachauri](https://github.com/yashpachauri1)
 - [Dharmendra Solanki](https://github.com/ProgrammingPirates)
@@ -1716,4 +1718,4 @@
 - [Himanshu ATtri](https://github.com/HimanshuAttri) - "think"
 - [Amir choudhary](https://github.com/Amirchoudhary09)
 - [Kevin Salgado](https://github.com/kevtico)
-|- [Saurav Kumar](https://github.com/Saurav02022)
+  |- [Saurav Kumar](https://github.com/Saurav02022)
