@@ -109,6 +109,7 @@ chenhui
 - [vader-coder](https://github.com/vader-coder)
 - [pujala_jayashankar](https://github.com/PujalaJayaSankar)
 - [Aman Bajpai](https://github.com/Aman-bajpai)
+- [Vaishnavi Suryawanshi](https://github.com/VaishnaviSW01)
 - [deepak mishra](https://github.com/BEPAWSITIVE)
 - [Caleb Fan](https://github.com/Gazfang)
 - [Anandajith S](https://github.com/AnandajithS)
