@@ -1116,6 +1116,7 @@
 - [Ahmad Raza](https://github.com/Ahmad-Raza810)
 - [AhmedRediwan](https://github.com/ahmed12-dev)
 - [Aishwarya Sharma](https://github.com/Aishrma)
+- [Sean Pun](https://github.com/shon6360)
 - [Ajay Brightson](https://github.com/AjayJ1711)
 - [Ales Urankar](https://github.com/alesurankar)
 - [Alex Ficachi](https://github.com/AlexFicachi)
