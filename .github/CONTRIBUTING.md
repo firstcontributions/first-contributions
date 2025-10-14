@@ -56,7 +56,7 @@ If you're making changes to a translation, please request a review from our prev
 | Español de México | [Spanish of Mexico](../docs/translations/README.mx.md) | []() |
 | Bahasa Melayu | [Malay](../docs/translations/README.my.md) | []() |
 | Nederlandse | [Dutch](../docs/translations/README.nl.md) | [<img width="100" src="https://avatars0.githubusercontent.com/u/3897815?s=460&v=4" alt="@MJMajoor" />](https://github.com/MJMajoor) |
-| Norsk | [Norwegian](../docs/translations/README.no.md) | []() |
+| Norsk | [Norwegian](../docs/translations/README.no.md) | [<img width="100" src="https://avatars.githubusercontent.com/u/75746434?s=400&u=0a0854f15eb1f7fd5169d108bb1f12f875c172c6&v=4" alt="@Islandstone89" />](https://github.com/Islandstone89) |
 | नेपाली | [Nepali](../docs/translations/README.np.md) | [<img width="100" src="https://avatars2.githubusercontent.com/u/2145263?s=460&v=4" alt="@milap-neupane" />](https://github.com/milap-neupane) |
 | ਪੰਜਾਬੀ | [Punjabi](../docs/translations/README.pb.md) | []() |
 | Polski | [Polish](../docs/translations/README.pl.md) | [<img width="100" src="https://avatars0.githubusercontent.com/u/3372341?s=460&v=4" alt="@P1X3L0V4" />](https://github.com/P1X3L0V4) [<img width="100" src="https://avatars2.githubusercontent.com/u/1311358?v=4" alt="@mikowhy" />](https://github.com/mikowhy) |
