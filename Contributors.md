@@ -274,6 +274,7 @@
 - [Devika Menon](https://github.com/DevikaaMenon)
 - [Nihal Fairooz](https://github.com/5yruz)
 - [Jingyi Lu](https://github.com/lulu61000)
+- [Domenico Vecchio] (https://github.com/domenico-vecchio)
 - [JoachimC](https://github.com/Joachim280)
 - [Sahil Sankhyan](https://github.com/Sahil12341)
 - [Kehinde sodiq](https://github.com/Dev-Adejare)
