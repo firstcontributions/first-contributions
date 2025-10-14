@@ -64,6 +64,7 @@
 - [Shamas U Din](https://github.com/Shamss173/)
 - [Mohamed Adhil](https://github.com/adhil-cloud)
 - [Aydan Butler](https://github.com/aydanpb)
+- [Avanthi Boopalan](https://github.com/aboopala)
 - [Kavindu Udara](https://github.com/kavindu-udara)
 - [Nazeer Shaikh](https://github.com/nash226)
 - [Mohit Bansal](https://github.com/WorkMohit17)
