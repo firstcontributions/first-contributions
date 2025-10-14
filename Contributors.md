@@ -92,6 +92,7 @@
 - [Aryan Jadhav](https://github.com/AryanJadhav15)
 - [Bug9519](https://github.com/Bug9519)
 - [Ashen Umeda](https://github.com/ashenumeda)
+- [Nikhil Kartha](https://github.com/NikhilKartha5)
 - [Santiago Gomez](https://github.com/Santiago13dev)
 - [Marni Pawan Veer Sai](https://github.com/Pawan82003)
 - [Mayen Akech](https://github.com/Mayen007)
