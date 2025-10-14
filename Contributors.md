@@ -15,6 +15,7 @@
 - [Samarth](https://github.com/Samarth-sk)
 - [Ayaz Khira](https://github.com/AyazKhira-1)
 - [Viraj Dhamnaskar](https://github.com/Rootvikk)
+- [marco rossi] (https://github.com/Willy00blu)
 - [Narendra Singh](https://github.com/niksbanna)
 - [Luke Oliver] ()
 - [Elias Bemuehtsichwirklichsehr](why does everyone put their link here, ~EliasEki)
