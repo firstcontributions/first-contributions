@@ -8,6 +8,7 @@
 - [Arka Banerjee](https://github.com/thearkabanerjee)
 - [Asmodeuos](https://github.com/Asmodeuos)
 - [Vaibhav Umbarkar](https://github.com//vaibhav-umbarkar)
+- [Vaishnavi](https://github.com/Vaishnavinayak08)
 - [Rahul Soni](https://github.com/grksoni)
 - [anjali-ojha17](https://github.com/anjali-ojha17)
 - [Priyeash Bala](https://github.com/priyeashbala)
