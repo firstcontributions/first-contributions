@@ -10,7 +10,7 @@ At læse artikler og se video guides hjælper, men hvad er bedre end at bruge de
 
 #### _Hvis du ikke er komfortabel med command line, [her er vejledninger til GUI værktøjer](#Guides-med-andre-værktøjer)_
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="lav en fork af dette repository" />
 
 Har du ikke Git på din maskine kan du [installere det](https://help.github.com/articles/set-up-git/).
 
@@ -21,7 +21,7 @@ Dette vil lave en kopi af projektet i din Github konto.
 
 ## Clone dette repository
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone dette repository" />
 
 Næste trin er at "clone" dit nye repository til din maskine. Naviger til din Github account og åbn dit nye repository, derefter find "clone" øverst oppe og tryk på knappen. Tryk _copy to clipboard_ ikonet.
 
@@ -33,7 +33,7 @@ git clone "din url"
 
 hvor "din url" skal erstattes med den URL du kopieret i forrige trin.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="kopier URL til udklipsholder" />
 
 Eksempel:
 
@@ -101,11 +101,11 @@ Erstat `<add-din-branch>` med navnet på den branch du oprettede tidligere.
 
 Hvis du går ind på dit repository på Github, så vil du se en `compare & pull request` knap. Klik på den.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="opret en pull request" />
 
 Indgiv nu din pull request.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="indsend pull request" />
 
 Snart vil jeg merge dine ændringer ind i master branch'en af projektet. Du vil modtage en notifikation per email når dine ændringer er blevet merget.
 
