@@ -84,6 +84,7 @@
 - [Akanksha Shinde](https://github.com/AkankshaShinde23)
 - [jahnavi3221](https://github.com/jahnavi3221)
 - [Umasankar Varadati](https://github.com/umasankarvaradati)
+- [Onell](https://github.com/aquinoonell)
 - [Amit pandey](https://github.com/tcetamitpandey)
 - [Ciara](https://github.com/ciahan)
 - [Salmaan M](https://github.com/Salmaan-M)
