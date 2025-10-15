@@ -285,6 +285,7 @@
 - [Elyas Shamal](https://github.com/ElyasShamal)
 - [Jenna Hall](https://github.com/swejenna)
 - [Rohit Mathur](https://github.com/Rohit0265)
+- [yuki](https://github.com/yukixxxx11)
 - [Jerry](https://github.com/SniperRaccoon)
 - [Lester Liang](https://github.com/userMaoGuaXi)
 - [Jesse Prevete](https://github.com/jjpdotexe)
