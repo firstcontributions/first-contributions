@@ -250,6 +250,7 @@
 - [Star](https://github.com/star-ges)
 - [Enstant](https://github.com/Enstant)
 - [Ginny](https://github.com/ginnysingh789)
+- [SuperNinja474](https://github.com/SuperNInja474)
 - [Sahitya](https://github.com/Paila-Sahitya)
 - [Gopal Iyer](https://github.com/geekiyer)
 - [Alejandro Aceituno](https://github.com/clement-zentz)
