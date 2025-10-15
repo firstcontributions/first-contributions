@@ -10,7 +10,7 @@
 
 _⟟⎎ ⊬⍜⎍'⍀⟒ ⋏⍜⏁ ☊⍜⋔⎎⍜⍀⏁⏃⏚⌰⟒ ⍙⟟⏁⊑ ☊⍜⋔⋔⏃⋏⎅ ⌰⟟⋏⟒, [⊑⟒⍀⟒ ⏃⍀⟒ ⏁⎍⏁⍜⍀⟟⏃⌰⌇ ⎍⌇⟟⋏☌ ☌⎍⟟ ⏁⍜⍜⌰⌇.](#tutorials-using-other-tools)_
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="bëj një fork të këtij depozitari" />
 
 #### ⟟⎎ ⊬⍜⎍ ⎅⍜⋏'⏁ ⊑⏃⎐⟒ ☌⟟⏁ ⍜⋏ ⊬⍜⎍⍀ ⋔⏃☊⊑⟟⋏⟒, [⟟⋏⌇⏁⏃⌰⌰ ⟟⏁](https://help.github.com/articles/set-up-git/).
 
@@ -21,7 +21,7 @@ _⟟⎎ ⊬⍜⎍'⍀⟒ ⋏⍜⏁ ☊⍜⋔⎎⍜⍀⏁⏃⏚⌰⟒ ⍙⟟⏁�
 
 ## ☊⌰⍜⋏⟒ ⏁⊑⟒ ⍀⟒⌿⍜⌇⟟⏁⍜⍀⊬
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="klono këtë depozitar" />
 
 ⋏⍜⍙ ☊⌰⍜⋏⟒ ⏁⊑⟒ ⎎⍜⍀☍⟒⎅ ⍀⟒⌿⍜⌇⟟⏁⍜⍀⊬ ⏁⍜ ⊬⍜⎍⍀ ⋔⏃☊⊑⟟⋏⟒. ☌⍜ ⏁⍜ ⊬⍜⎍⍀ ☌⟟⏁⊑⎍⏚ ⏃☊☊⍜⎍⋏⏁, ⍜⌿⟒⋏ ⏁⊑⟒ ⎎⍜⍀☍⟒⎅ ⍀⟒⌿⍜⌇⟟⏁⍜⍀⊬, ☊⌰⟟☊☍ ⍜⋏ ⏁⊑⟒ ☊⍜⎅⟒ ⏚⎍⏁⏁⍜⋏ ⏃⋏⎅ ⏁⊑⟒⋏ ☊⌰⟟☊☍ ⏁⊑⟒ _copy to clipboard_ ⟟☊⍜⋏.
 
@@ -33,7 +33,7 @@ git clone "url you just copied"
 
 ⍙⊑⟒⍀⟒ "url you just copied" (⍙⟟⏁⊑⍜⎍⏁ ⏁⊑⟒ ⍾⎍⍜⏁⏃⏁⟟⍜⋏ ⋔⏃⍀☍⌇) ⟟⌇ ⏁⊑⟒ ⎍⍀⌰ ⏁⍜ ⏁⊑⟟⌇ ⍀⟒⌿⍜⌇⟟⏁⍜⍀⊬ (⊬⍜⎍⍀ ⎎⍜⍀☍ ⍜⎎ ⏁⊑⟟⌇ ⌿⍀⍜⟊⟒☊⏁). ⌇⟒⟒ ⏁⊑⟒ ⌿⍀⟒⎐⟟⍜⎍⌇ ⌇⏁⟒⌿⌇ ⏁⍜ ⍜⏚⏁⏃⟟⋏ ⏁⊑⟒ ⎍⍀⌰.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="kopjo URL-në në clipboard" />
 
 ⎎⍜⍀ ⟒⌖⏃⋔⌿⌰⟒:
 
@@ -67,7 +67,7 @@ git checkout -b add-alonzo-church
 
 ⋏⍜⍙ ⍜⌿⟒⋏ `Contributors.md` ⎎⟟⌰⟒ ⟟⋏ ⏃ ⏁⟒⌖⏁ ⟒⎅⟟⏁⍜⍀, ⏃⎅⎅ ⊬⍜⎍⍀ ⋏⏃⋔⟒ ⏁⍜ ⟟⏁. ⎅⍜⋏'⏁ ⏃⎅⎅ ⟟⏁ ⏃⏁ ⏁⊑⟒ ⏚⟒☌⟟⋏⋏⟟⋏☌ ⍜⍀ ⟒⋏⎅ ⍜⎎ ⏁⊑⟒ ⎎⟟⌰⟒. ⌿⎍⏁ ⟟⏁ ⏃⋏⊬⍙⊑⟒⍀⟒ ⟟⋏ ⏚⟒⏁⍙⟒⟒⋏. ⋏⍜⍙, ⌇⏃⎐⟒ ⏁⊑⟒ ⎎⟟⌰⟒.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="statusi i git" />
 
 ⟟⎎ ⊬⍜⎍ ☌⍜ ⏁⍜ ⏁⊑⟒ ⌿⍀⍜⟊⟒☊⏁ ⎅⟟⍀⟒☊⏁⍜⍀⊬ ⏃⋏⎅ ⟒⌖⟒☊⎍⏁⟒ ⏁⊑⟒ ☊⍜⋔⋔⏃⋏⎅ `git status`, ⊬⍜⎍'⌰⌰ ⌇⟒⟒ ⏁⊑⟒⍀⟒ ⏃⍀⟒ ☊⊑⏃⋏☌⟒⌇.
 
@@ -110,11 +110,11 @@ git push origin -u <add-your-branch-name>
 
 ⟟⎎ ⊬⍜⎍ ☌⍜ ⏁⍜ ⊬⍜⎍⍀ ⍀⟒⌿⍜⌇⟟⏁⍜⍀⊬ ⍜⋏ ☌⟟⏁⊑⎍⏚, ⊬⍜⎍'⌰⌰ ⌇⟒⟒ ⏃ `Compare & pull request` ⏚⎍⏁⏁⍜⋏. ☊⌰⟟☊☍ ⍜⋏ ⏁⊑⏃⏁ ⏚⎍⏁⏁⍜⋏.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="krijo një kërkesë për tërheqje" />
 
 ⋏⍜⍙ ⌇⎍⏚⋔⟟⏁ ⏁⊑⟒ `pull request`.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="dërgo kërkesën për tërheqje" />
 
 ⌇⍜⍜⋏ ⟟'⌰⌰ ⏚⟒ ⋔⟒⍀☌⟟⋏☌ ⏃⌰⌰ ⊬⍜⎍⍀ ☊⊑⏃⋏☌⟒⌇ ⟟⋏⏁⍜ ⏁⊑⟒ ⋔⏃⌇⏁⟒⍀ ⏚⍀⏃⋏☊⊑ ⍜⎎ ⏁⊑⟟⌇ ⌿⍀⍜⟊⟒☊⏁. ⊬⍜⎍ ⍙⟟⌰⌰ ☌⟒⏁ ⏃ ⋏⍜⏁⟟⎎⟟☊⏃⏁⟟⍜⋏ ⟒⋔⏃⟟⌰ ⍜⋏☊⟒ ⏁⊑⟒ ☊⊑⏃⋏☌⟒⌇ ⊑⏃⎐⟒ ⏚⟒⟒⋏ ⋔⟒⍀☌⟒⎅.
 
