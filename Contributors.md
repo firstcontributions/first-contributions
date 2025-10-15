@@ -31,6 +31,7 @@
 - James
 - [Yash Pachauri](https://github.com/yashpachauri1)
 - [Dharmendra Solanki](https://github.com/ProgrammingPirates)
+- [Ryno de Beer](https://github.com/Rynoo1)
 - [Ahtisham Shaikh](https://github.com/Ahtisham-1214)
 - [Jayashankar R J](https://github.com/RJJayashankar)
 - [Faizan_Deshmukh](https://github.com/faizan1317)
