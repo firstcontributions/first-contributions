@@ -30,6 +30,7 @@
 - [Bhuvanesh](https://github.com/bhw-git)
 - James
 - [Yash Pachauri](https://github.com/yashpachauri1)
+- [Mark Connor] (https://github.com/markjconnor)
 - [Dharmendra Solanki](https://github.com/ProgrammingPirates)
 - [Ryno de Beer](https://github.com/Rynoo1)
 - [Ahtisham Shaikh](https://github.com/Ahtisham-1214)
