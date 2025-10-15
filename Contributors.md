@@ -1498,6 +1498,7 @@
 - [aidenliu](https://github.com/aiden-liu)
 - [Ariyan Bhakat](https://github.com/arywk40-hue)
 - [Renshin Shenshuro](https://github.com/dracok721)
+- [Pelumi Bodunwa](https://github.com/pelumini)
 - [Kirill Sirotkin](https://github.com/kiriyms)
 - [Raine Z](https://github.com/You-know-who666)
 - [Sevenquarters](https://github.com/Sevenquarters)
