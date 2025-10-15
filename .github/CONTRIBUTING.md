@@ -85,3 +85,4 @@ If you're making changes to a translation, please request a review from our prev
 | 中文 | [Chinese (Traditional)](../main/docs/translations/README.zh-tw.md) | [<img width="100" src="https://avatars2.githubusercontent.com/u/27748281?s=460&v=4" alt="@WeiChienHsu" />](https://github.com/WeiChienHsu) |
 | Zulu | [Zulu](../main/docs/translations/README.zul.md) | [<img width="100" src="https://avatars.githubusercontent.com/u/36197725?v=4" alt="@zecollokaris" />](https://github.com/zecollokaris) []() |
 
+|Ishita Sharma|(https://github.com/ishitasharma444)
