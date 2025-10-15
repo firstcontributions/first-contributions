@@ -1746,6 +1746,7 @@
 - [anushka kandhway](https://github.com/kandhwayanushka-hue/first-contributions.git)
 - [Gadri Dev](https://github.com/Gadridev)
 - [Vijay Sarathy](https://github.com/vijmeister)
+- [GodlyNugget](https://github.com/GodlyNugget)
 - [Tanya Singh](https://github.com/tanyasingh2004)
 - [Om Maurya](https://github.com/Ommaurya-2005)
 - [HAYTHAM KENNOUZ](https://github.com/Haytham-HK)
