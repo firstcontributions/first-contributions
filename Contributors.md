@@ -23,6 +23,7 @@
 - [Elias Bemuehtsichwirklichsehr](why does everyone put their link here, ~EliasEki)
 - [Rezhan Fatah] (https://github.com/RezhanFatah)
   chenhui
+  [Sheetal Lodhi](https://github.com/sheetalll28)
 - [Yash Kumar Rana](https://github.com/YashRana52)
 - [tmestery](https://github.com/tmestery)
 - [Bhuvanesh](https://github.com/bhw-git)
