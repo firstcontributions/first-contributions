@@ -1766,5 +1766,5 @@
 - Nabila Renno
 - [Sakshi Jha](https://github.com/SakshlJhAaaaaa)
 - [abdulsalam Abulwafa](https://github.com/abu-wafa)
-- [Randomints](https://github.com/randomints)
+- [Randomints](https://github.com/randomints) - why do all the little messages have "" around them? also i use nvim btw
 - [Mohamed Ibrahim](https://github.com/ibrahim307le)
