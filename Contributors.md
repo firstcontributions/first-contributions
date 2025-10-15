@@ -18,14 +18,9 @@
 - [Viraj Dhamnaskar](https://github.com/Rootvikk)
 - [marco rossi] (https://github.com/Willy00blu)
 - [Narendra Singh](https://github.com/niksbanna)
-- [Luke Oliver] ()
-- [Elias Bemuehtsichwirklichsehr](why does everyone put their link here, ~EliasEki)
-- [Rezhan Fatah] (https://github.com/RezhanFatah)
-chenhui
+- [Rezhan Fatah](https://github.com/RezhanFatah)
 - [Yash Kumar Rana](https://github.com/YashRana52)
-
 - [Bhuvanesh](https://github.com/bhw-git)
-- James
 - [Yash Pachauri](https://github.com/yashpachauri1)
 - [Dharmendra Solanki](https://github.com/ProgrammingPirates)
 - [Ahtisham Shaikh](https://github.com/Ahtisham-1214)
@@ -42,7 +37,7 @@ chenhui
 - [yakov007](https://github.com/yakov007) "Add to Contributors list"
 - [Tetiana Tkachova](https://github.com/defur) git commit -m "Add `<your-name>` to Contributors list"
 - [Mohammed Saqib Rehaman Namazi](https://github.com/Saqibdev-786)
-- [Cooper Li] (https://github.com/CooperLi1)
+- [Cooper Li](https://github.com/CooperLi1)
 - [Aditi Badkur](https://github.com/aditibadkur)
 - [Vasistha_yadav] (git switch -c your-new-branch-name)
 - [PHT] ((https://github.com/CodeByPyaeHan)
@@ -55,12 +50,10 @@ chenhui
 - [Fabio Calabrese](https://github.com/fabiocalabrese)
 - [Prisca Onwudebelu Ebubechukwu](https://github.com/PriscaTonia)
 - [Sham Sunder](https://github.com/ShamSuther) - "for the sake of being!"
-- [Kaylin Yang] (https://github.com/kyangOrange)
+- [Kaylin Yang](https://github.com/kyangOrange)
 - [Aaromal A](https://github.com/aaromalonline)
 - [Aman Gupta](https://github.com/aman-devx)
 - [Sowo R](https://github.com/sowo5)
-- [vipul]
-- [Sangeetha Dhanasekar]
 - [Pushkar Sabe](https://github.com/pushkarsabe)
 - [CheriBerry77](https://github.com/CheriBerry77)
 - [Jonathan Scott](https://github.com/Hatonjan)
@@ -158,7 +151,6 @@ chenhui
 - [Kyra (kyrazzx)](https://github.com/kyrazzx)
 - [premludhanii26-cell](https://github.com/premludhangiii26-cell)
 - [sachinandan yadav](https://github.com/sachinandan-05)
-- [Md Khalid Hasan Ansari]
 - [Shahid Afrid](https://github.com/shahid-afrid)
 - [Kanishka Vats](https://github.com/KanishkaV25)
 - [Shanmukh sai karnam](https://github.com/karnam16)
@@ -284,7 +276,7 @@ chenhui
 - [Devika Menon](https://github.com/DevikaaMenon)
 - [Nihal Fairooz](https://github.com/5yruz)
 - [Jingyi Lu](https://github.com/lulu61000)
-- [Domenico Vecchio] (https://github.com/domenico-vecchio)
+- [Domenico Vecchio](https://github.com/domenico-vecchio)
 - [JoachimC](https://github.com/Joachim280)
 - [Sahil Sankhyan](https://github.com/Sahil12341)
 - [Kehinde sodiq](https://github.com/Dev-Adejare)
@@ -474,7 +466,8 @@ chenhui
 - [Harsh Kaushik](https://github.com/hrk022)
 - [Harsh Singh](https://github.com/singhharsh29)
 - [HighPoly](https://github.com/HighPolygon)
-- [VishnuPriyaSingamReddy](https://github.com/VishnuPriyaSingamReddy) -[Ritu Raj](https://github.com/Ritu14012004)
+- [VishnuPriyaSingamReddy](https://github.com/VishnuPriyaSingamReddy) 
+- [Ritu Raj](https://github.com/Ritu14012004)
 - [Ian McManus](https://github.com/ianmcman)
 - [Jose Soto](https://github.com/jossotriv)
 - [Iman Chandrasiri](https://github.com/Iman0810)
@@ -1528,7 +1521,6 @@ chenhui
 - [Pranavg1203](https://github.com/PranavG1203)
 - [TANAY-BARGIR](https://github.com/TANAY-BARGIR)
 - [harshkaushik31](https://github.com/harshkaushik31)
-  Deepak Bhima Palli
 - [leenahunagund](https://github.com/leenahunagund)
 - [Gijun Moon](https://github.com/gijunmoon)
 - [Sumeet D Choudhary](https://github.com/sumeet156)
@@ -1545,7 +1537,6 @@ chenhui
 - [Javier Napoles](https://github.com/Jnapfx)
 - [Anshu Rajpoot](https://github.com/Anshu-Rajpoot)
 - [Suhail Abdi](https://github.com/suhailabdi2)
-- Arpit Kumar Jaiswal
 - [Camiloprog](https://github.com/juancamilo99-prog)
 - [Fahed Khan](https://github.com/12fahed)
 - [Suhani Shah](https://github.com/B24CH1037)
@@ -1593,9 +1584,8 @@ chenhui
 - [Aryan Gupta](https://github.com/aryang2377)
 - [Ugesh Praavin D](https://github.com/Ugesh-Praavin)
 - [Sahil Motiramani](https://github.com/SahilMotiramani)
-- [Alex Dimmock] (https://github.com/alexdimmock95) - Best wishes on your journey x
+- [Alex Dimmock](https://github.com/alexdimmock95) - Best wishes on your journey x
 - [Akash Thakur](https://github.com/Akash9541)
-- Dang Thien Chuong
 - [Rajat](https://github.com/Rajat-44)
 - [nemdull](https://github.com/nemdull)
 - [Srujan Gowda](https://github.com/srujangowda14)
@@ -1711,7 +1701,7 @@ chenhui
 - [Arsheet Kaur](https://github.com/ArsheetKaur)
 - [Mudiam Veera Rohith Reddy](https://github.com/rohithredddy)
 - [Navodhya Fernando](https://github.com/Navodhya-Fernando)
-- [Sakura Magic] (https://github.com/SakuraMagic225)
+- [Sakura Magic](https://github.com/SakuraMagic225)
 - [anushka kandhway](https://github.com/kandhwayanushka-hue/first-contributions.git)
 - [Gadri Dev](https://github.com/Gadridev)
 - [Vijay Sarathy](https://github.com/vijmeister)
@@ -1728,6 +1718,6 @@ chenhui
 - [Himanshu ATtri](https://github.com/HimanshuAttri) - "think"
 - [Amir choudhary](https://github.com/Amirchoudhary09)
 - [Kevin Salgado](https://github.com/kevtico)
-  |- [Saurav Kumar](https://github.com/Saurav02022)
+- [Saurav Kumar](https://github.com/Saurav02022)
 - [Slam Dunk](https://github.com/slamdunk)
 - [Joydeep Das](https://github.com/JustJoyful)
