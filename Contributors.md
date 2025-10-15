@@ -1752,6 +1752,7 @@
 - [Adrien Bey](https://github.com/adrienbey777)
 - [Edwin Adams](https://github.com/EDWIN-ADAMS-V)
 - [Vedant Patole](https://github.com/PatoleVedant)
+- [Thomas Dahlgren](https://github.com/thomasmaterials)
 - [Matthew Mc](https://github.com/Taboo0-0)
 - [Md Shakib Hossain](https://github.com/mdshakibhossai)
 - [Holisterfort](https://github.com/Holisterfort)
