@@ -1775,4 +1775,4 @@
 - [Randomints](https://github.com/randomints) - why do all the little messages have "" around them? also i use nvim btw
 - [Mohamed Ibrahim](https://github.com/ibrahim307le)
 - [Hesham Omar](https://github.com/heshamoomar)
-- [Victoria Kilgore] (https://github.com/kilgorev) - "Cats, Crochet, and Code"
+- [Victoria Kilgore](https://github.com/kilgorev) - "Cats, Crochet, and Code"
