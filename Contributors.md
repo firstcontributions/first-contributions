@@ -1355,6 +1355,7 @@
 - [GabboRocchia](https://github.com/GabboRocchia)
 - [Gabe Dorval](https://github.com/gabedorval589)
 - [Ganpati Nath](https://github.com/Ganpati-Nath)
+- [Verdie Craig](https://github.com/VerdieCraig)
 - [Gaurav patil](https://github.com/Gauravpatil1)
 - [Gaurav patil](https://github.com/Gauravpatil1)
 - [Gerdzhikov23](https://github.com/Gerdzhikov23)
@@ -1740,10 +1741,12 @@
 - [Himanshu ATtri](https://github.com/HimanshuAttri) - "think"
 - [Amir choudhary](https://github.com/Amirchoudhary09)
 - [Kevin Salgado](https://github.com/kevtico)
-  |- [Saurav Kumar](https://github.com/Saurav02022)
+  [Saurav Kumar](https://github.com/Saurav02022)
 - [Slam Dunk](https://github.com/slamdunk)
 - [Joydeep Das](https://github.com/JustJoyful)
 - [Punith Kumar R](https://github.com/punith82)
 - [Azmiri Sultana](https://github.com/azmirisultana)
 - [Utkarsh Arora](https://github.com/Utkarsh-12-05)
-- [Jordan Junaidi[(https://github.com/Jordan-Junaidi)
+- [Jordan Junaidi](https://github.com/Jordan-Junaidi)
+
+
