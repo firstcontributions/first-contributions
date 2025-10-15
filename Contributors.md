@@ -1714,6 +1714,7 @@
 - [varun](https://github.com/VARUN22695/first-contributions/projects?query=is%3Aopen)
 - [Aaryan](https://github.com/Aaryank1337)
 - [Ixlosbek Erkinov](https://github.com/ix1osbek)
+- [Sinahdhanis] (https://github.com/Dhniswara)
 - [Kirthi](https://github.com/kirthipranav)
 - [Øystein Håberg](https://github.com/Islandstone89)
 - [ireneo sm](https://github.com/Ireneo23)
