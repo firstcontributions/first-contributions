@@ -643,6 +643,7 @@
 - [Jin-Ho Lee](https://github.com/Jin-HoMLee)
 - [John Mixon](https://github.com/mixdev2112)
 - [Josh Gregory](https://github.com/joshtype)
+- [Jediss](https://github.com/Jediss)
 - [João Inacio](https://github.com/J-Inacio)
 - [Valdivino Ferreira Borges Neto](https://github.com/ValdivinoFerreira)
 - [Khushi Singh](https://github.com/mekhushi)
