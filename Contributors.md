@@ -8,6 +8,7 @@
 - [Vikas Mishra](https://github.com/vikasmishra1691)
 - [Arka Banerjee](https://github.com/thearkabanerjee)
 - [Asmodeuos](https://github.com/Asmodeuos)
+- [Atul Vishwakarma](https://github.com/atulvishw240)
 - [Vaibhav Umbarkar](https://github.com//vaibhav-umbarkar)
 - [Vaishnavi](https://github.com/Vaishnavinayak08)
 - [Rahul Soni](https://github.com/grksoni)
