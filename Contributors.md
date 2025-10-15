@@ -1,5 +1,6 @@
 # Contributors
 
+- [Shaurya Tamang](https://github.com/GoTouchGra55)
 - [namest504](https://github.com/namest504)
 - [manasab805] (https://github.com/manasab805)
 - [Aravind Rao](https://github.com/rekcilyssup)
@@ -22,6 +23,7 @@
 - [Elias Bemuehtsichwirklichsehr](why does everyone put their link here, ~EliasEki)
 - [Rezhan Fatah] (https://github.com/RezhanFatah)
   chenhui
+  [Sheetal Lodhi](https://github.com/sheetalll28)
 - [Yash Kumar Rana](https://github.com/YashRana52)
 - [tmestery](https://github.com/tmestery)
 - [Bhuvanesh](https://github.com/bhw-git)
@@ -283,6 +285,7 @@
 - [Elyas Shamal](https://github.com/ElyasShamal)
 - [Jenna Hall](https://github.com/swejenna)
 - [Rohit Mathur](https://github.com/Rohit0265)
+- [yuki](https://github.com/yukixxxx11)
 - [Jerry](https://github.com/SniperRaccoon)
 - [Lester Liang](https://github.com/userMaoGuaXi)
 - [Jesse Prevete](https://github.com/jjpdotexe)
@@ -1750,3 +1753,4 @@
 - [Utkarsh Arora](https://github.com/Utkarsh-12-05)
 - [Jordan Junaidi[(https://github.com/Jordan-Junaidi)
 - [Zain Beau](https://github.com/ZainBeau)
+- [Bhavesh982](https://github.com/bhavesh982) - "Just getting warmed up"
