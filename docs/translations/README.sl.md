@@ -14,7 +14,7 @@ Angleški izrazi so v oklepajih, da dodajo kontekst vsebini.
 #### *Če se ne počutite dobro v ukazni vrstici (ang. command line), so tukaj [navodila za uporabo orodij z grafičnim vmesnikom.]( #vodiči-za-uporabo-drugih-orodij )*
 
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="razvejaj to skladišče" />
 
 Če na svojem računalniku še nimaš "git", si ga [naloži]( https://help.github.com/articles/set-up-git/).
 
@@ -24,7 +24,7 @@ S pritiskom na gumb "Fork" na vrhu te strani, ustvari svojo različico repositor
 
 ## Kloniraj ta repository ( Clone the repository )
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="kloniraj to skladišče" />
 
 Sedaj kloniraj ta repository na svoj računalnik. Pojdi v svoj GitHub račun in poišči svojo različico tega repositorya, klikni na gumb "Clone or download" in si kopiraj povezavo. Lahko uporabiš "Ctrl+C" ali pa klikni na ikono na desni strani povezave *copy to clipboard*.
 
@@ -35,7 +35,7 @@ git clone "url naslov, ki si ga ravno skopiral"
 ```
 "url naslov, ki si ga ravno skopiral" (brez navednic) je naslov, ki si ga skopiral na Githubu ( naslov tvoje različice projekta ). Glej prejšne korake da dobiš url naslov.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="kopiraj URL v odložišče" />
 
 Primer:
 ```
@@ -65,7 +65,7 @@ git checkout -b add-janez-novak
 
 Odpri datoteko `Contributors.md` v urejevalniku besedila in dodaj svoje ime. Ne dodajaj ga na začetek ali konec datoteke, dodaj ga nekje vmes. Shrani datoteko.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git stanje" />
 
 Če se postaviš v direktorij projekta in izvedeš ukaz `git status`, vidiš da obstajajo spremembe v projektu.
 
@@ -94,11 +94,11 @@ Zamenjaj `<add-your-branch-name>` z imenom veje, ki si jo ustvaril.
 
 Če preveriš svoj repository na GitHubu, vidiš gumb `Compare & pull request`. Klikni na ta gumb.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="ustvari zahtevo za združitev" />
 
 Sedaj izvedi submit svojega pull requesta.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="pošlji zahtevo za združitev" />
 
 Kmalu bom združil tvoje spremembe v master vejo tega projekta. V svoj e-poštni nabiralnik boš dobil sporočilo, da so bile spremembe združene.
 
@@ -114,6 +114,6 @@ Sedaj lahko začneš prispevati drugim projektom. Sestavili smo seznam projektov
 
 ## Vodiči za uporabo drugih orodij
 
-| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
+| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub namizje" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | --- | --- | --- | --- | --- | --- |
 | [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md) | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md) | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md) | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md) | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md) | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md) |
