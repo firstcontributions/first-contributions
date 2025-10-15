@@ -1776,4 +1776,4 @@
 - [Mohamed Ibrahim](https://github.com/ibrahim307le)
 - [Lokesh Janga] (https://github.com/Lokeshjanga) - 'This looks like a Dopamine iykyk'
 - [Hesham Omar](https://github.com/heshamoomar)
-- [Victoria Kilgore] (https://github.com/kilgorev) - "Cats, Crochet, and Code"
+- [Victoria Kilgore](https://github.com/kilgorev) - "Cats, Crochet, and Code"
