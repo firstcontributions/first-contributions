@@ -1368,6 +1368,7 @@
 - [GabboRocchia](https://github.com/GabboRocchia)
 - [Gabe Dorval](https://github.com/gabedorval589)
 - [Ganpati Nath](https://github.com/Ganpati-Nath)
+- [Verdie Craig](https://github.com/VerdieCraig)
 - [Gaurav patil](https://github.com/Gauravpatil1)
 - [Gaurav patil](https://github.com/Gauravpatil1)
 - [Gerdzhikov23](https://github.com/Gerdzhikov23)
