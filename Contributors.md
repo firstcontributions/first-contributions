@@ -17,6 +17,7 @@
 - [Nishita Kashyap](https://github.com/nishitakashyap)
 - [Samarth](https://github.com/Samarth-sk)
 - [Ayaz Khira](https://github.com/AyazKhira-1)
+- [Melanie Baker] (https://github.com/Melanie-J-Baker)
 - [Viraj Dhamnaskar](https://github.com/Rootvikk)
 - [marco rossi] (https://github.com/Willy00blu)
 - [Narendra Singh](https://github.com/niksbanna)
