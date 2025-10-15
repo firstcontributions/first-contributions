@@ -1,6 +1,7 @@
 # Contributors
 
 - [Shaurya Tamang](https://github.com/GoTouchGra55)
+- [Arthur Umerov](https://github.com/aumerov)
 - [namest504](https://github.com/namest504)
 - [manasab805] (https://github.com/manasab805)
 - [Aravind Rao](https://github.com/rekcilyssup)
@@ -75,6 +76,7 @@
 - [Pushkar Sabe](https://github.com/pushkarsabe)
 - [CheriBerry77](https://github.com/CheriBerry77)
 - [Jonathan Scott](https://github.com/Hatonjan)
+- [Kulani Manganyi-John](https://github.com/Kulani-MM)
 - [sulmanfarooqq](https://github.com/sulmanfarooqq)
 - [muhammed] (https://github.com/muhammed048)
 - [Montad-24](https://github.com/Montad-24)
@@ -249,6 +251,7 @@
 - [Star](https://github.com/star-ges)
 - [Enstant](https://github.com/Enstant)
 - [Ginny](https://github.com/ginnysingh789)
+- [SuperNinja474](https://github.com/SuperNInja474)
 - [Sahitya](https://github.com/Paila-Sahitya)
 - [Gopal Iyer](https://github.com/geekiyer)
 - [Alejandro Aceituno](https://github.com/clement-zentz)
@@ -1367,6 +1370,7 @@
 - [GabboRocchia](https://github.com/GabboRocchia)
 - [Gabe Dorval](https://github.com/gabedorval589)
 - [Ganpati Nath](https://github.com/Ganpati-Nath)
+- [Verdie Craig](https://github.com/VerdieCraig)
 - [Gaurav patil](https://github.com/Gauravpatil1)
 - [Gaurav patil](https://github.com/Gauravpatil1)
 - [Gerdzhikov23](https://github.com/Gerdzhikov23)
@@ -1754,12 +1758,13 @@
 - [Himanshu ATtri](https://github.com/HimanshuAttri) - "think"
 - [Amir choudhary](https://github.com/Amirchoudhary09)
 - [Kevin Salgado](https://github.com/kevtico)
-  |- [Saurav Kumar](https://github.com/Saurav02022)
+- [Saurav Kumar](https://github.com/Saurav02022)
 - [Makiko Ohashi](https://github.com/MakikoOhashi)
 - [Slam Dunk](https://github.com/slamdunk)
 - [Joydeep Das](https://github.com/JustJoyful)
 - [Punith Kumar R](https://github.com/punith82)
 - [Azmiri Sultana](https://github.com/azmirisultana)
+- [绿毛龟](https://github.com/lvlvlvboliqiu)
 - [Utkarsh Arora](https://github.com/Utkarsh-12-05)
 - [Jordan Junaidi[(https://github.com/Jordan-Junaidi)
 - [Zain Beau](https://github.com/ZainBeau)
@@ -1770,3 +1775,5 @@
 - [Randomints](https://github.com/randomints) - why do all the little messages have "" around them? also i use nvim btw
 - [Mohamed Ibrahim](https://github.com/ibrahim307le)
 - [Lokesh Janga] (https://github.com/Lokeshjanga) - 'This looks like a Dopamine iykyk'
+- [Hesham Omar](https://github.com/heshamoomar)
+
