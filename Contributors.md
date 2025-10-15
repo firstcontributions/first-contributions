@@ -19,6 +19,7 @@
 - [Ayaz Khira](https://github.com/AyazKhira-1)
 - [Melanie Baker] (https://github.com/Melanie-J-Baker)
 - [Viraj Dhamnaskar](https://github.com/Rootvikk)
+- [Mariana Mota](https://github.com/eumarianamota)
 - [marco rossi] (https://github.com/Willy00blu)
 - [Narendra Singh](https://github.com/niksbanna)
 - [Luke Oliver] ()
