@@ -1752,4 +1752,5 @@
 - [Azmiri Sultana](https://github.com/azmirisultana)
 - [Utkarsh Arora](https://github.com/Utkarsh-12-05)
 - [Jordan Junaidi[(https://github.com/Jordan-Junaidi)
+- [Zain Beau](https://github.com/ZainBeau)
 - [Bhavesh982](https://github.com/bhavesh982) - "Just getting warmed up"
