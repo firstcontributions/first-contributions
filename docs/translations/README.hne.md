@@ -8,7 +8,7 @@
 
 आर्टिकल्स पढ़े अउ ऑनलाइन ट्यूटोरियल देखके  मदद मिल सकत हे  मगर बिना कुछू गलत करे अउ खुद वो काम करे ले बने अउ का हो सकत हे ? यह प्रोजेक्ट आपमन के पहले कॉन्ट्रिब्यूशन बर दिशा निर्देशन करे बर बने मदद करहि  | याद रखौ  - जतका तनाव मुक्त होकर आप मन सिखहु ततका आपमन बने सीख पाबौ | अगर आप मन अपन पहली कॉन्ट्रिब्यूशन करना चाहत हो त आगे दिए तरीका ल बने  फॉलो करौ |
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="ഈ റെപ്പോസിറ്ററി ഫോർക്ക് ചെയ്യുക" />
 
 आपमन  के कंप्यूटर म  Git नहीं हे  त, [एला स्थापित करौ](https://help.github.com/articles/set-up-git/)
 
@@ -18,7 +18,7 @@
 
 ## रिपोजिटरी क्लोन
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="ഈ റെപ്പോസിറ്ററി ക്ലോൺ ചെയ്യുക" />
 
 अब आपमन  ए रेपो ल अपन कंप्यूटर म क्लोन (डाउनलोड) करव| अपन GitHub खाते म जाकर क्लोन बटन म क्लिक करव अउ फिर कॉपी टू क्लिपबोर्ड आइकॉन म क्लिक करव |
 
@@ -99,11 +99,11 @@ git push origin <अपन-शाखा-के-नाम-जोड़व>
 ## अपन बदलाव ल रिव्यु करे बर सबमिट करव|
 
 आपमन अपन github प्रोफाइल म अपन रेपो म जाबा अउ Compare & pull request ल दबवाव|
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="ഒരു പുൾ റിക്വസ്റ്റ് തുറക്കുക" />
 
 आप मन के pull request सबमिट करव|
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="പുൾ റിക്വസ്റ്റ് സംയോജിപ്പിക്കുക" />
 मैं आपमन के बदलाव ल ए प्रोजेक्ट के मास्टर शाखा म तुरते मर्ज कर दुहु| आप मन ल एक ठन मेल आ जहि जब बदलाव मर्ज होही|
 
 ## इहा ले कती जाबो?
