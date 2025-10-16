@@ -80,6 +80,7 @@
 - [Fabio Calabrese](https://github.com/fabiocalabrese)
 - [Prisca Onwudebelu Ebubechukwu](https://github.com/PriscaTonia)
 - [Sham Sunder](https://github.com/ShamSuther) - "for the sake of being!"
+- [Chintan Sood](https://github.com/chintansood)
 - [Kaylin Yang](https://github.com/kyangOrange)
 - [Kurt Schwimmbacher](https://github.com/KurtSchwimmbacher)
 - [Aaromal A](https://github.com/aaromalonline)
