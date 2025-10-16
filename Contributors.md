@@ -1788,5 +1788,6 @@
 - [Charmine Tan](https://github.com/Charmine-Tan-Renbao)
 - [Srikanth Reddy](https://github.com/srikanthreddy1808)
 - [NaClCode](https://github.com/NaClCode)
+- [AiAgent](https://github.com/func-lee) - 'stay hungry, stay foolish'
 - [Om Tiwari](https://github.com/omtiwari0)
 - [Frank Lee](https://github.com/func-lee) - "come on, be a good ai engineer"
