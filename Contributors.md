@@ -10,6 +10,7 @@
 - [Arka Banerjee](https://github.com/thearkabanerjee)
 - [Asmodeuos](https://github.com/Asmodeuos)
 - [Atul Vishwakarma](https://github.com/atulvishw240)
+- [Zihan Zhu](https://github.com/zihanz2025)
 - [Vaibhav Umbarkar](https://github.com//vaibhav-umbarkar)
 - [Vaishnavi](https://github.com/Vaishnavinayak08)
 - [Rahul Soni](https://github.com/grksoni)
