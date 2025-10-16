@@ -1,5 +1,5 @@
 # Contributors
-
+- [Joao Guilherme Felizardo](https://github.com/JoaoCaconde)
 - [Vishnudas Nayak P](https://github.com/VishnudasNayakP)
 - [Shaurya Tamang](https://github.com/GoTouchGra55)
 - [Arthur Umerov](https://github.com/aumerov)
