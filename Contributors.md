@@ -205,8 +205,9 @@
 - [Wilmer Gulcochia](https://github.com/wigsdev)
 - [Test Perfil 1](https://github.com/test-git001)
 - [Amadou Kebe](https://github.com/AmadouLKebe)
-  [ipsitdebnath](https://github.com/ipsitdebnath)
-- [baldlow](https://github.com/baldlow) -[Mohit Kumar](https://github.com/MateeRixx)
+-[ipsitdebnath](https://github.com/ipsitdebnath)
+- [baldlow](https://github.com/baldlow) 
+-[Mohit Kumar](https://github.com/MateeRixx)
 - [Pygame17](https://github.com/Pygame17)
 - [Jonatan Rosali](https://github.com/JonatanRosali)
 - [Jason Herman](https://github.com/Everblade)
@@ -511,10 +512,12 @@
 - [Harsh Kaushik](https://github.com/hrk022)
 - [Harsh Singh](https://github.com/singhharsh29)
 - [HighPoly](https://github.com/HighPolygon)
-- [VishnuPriyaSingamReddy](https://github.com/VishnuPriyaSingamReddy) -[Ritu Raj](https://github.com/Ritu14012004)
+- [VishnuPriyaSingamReddy](https://github.com/VishnuPriyaSingamReddy)
+ -[Ritu Raj](https://github.com/Ritu14012004)
 - [Ian McManus](https://github.com/ianmcman)
 - [Jose Soto](https://github.com/jossotriv)
 - [Iman Chandrasiri](https://github.com/Iman0810)
+- [Abdalrahman](https://github.com/Samurai0jp) -"S+++ SE"
 - [Igor Balić](https://github.com/Iggy2399)
 - [Jada McAfee](https://github.com/smac115)
 - [Isaac F](https://github.com/YellowFlello)
@@ -1795,7 +1798,7 @@ ketan choudhari
 - [Azmiri Sultana](https://github.com/azmirisultana)
 - [绿毛龟](https://github.com/lvlvlvboliqiu)
 - [Utkarsh Arora](https://github.com/Utkarsh-12-05)
-- [Jordan Junaidi[(https://github.com/Jordan-Junaidi)
+- [Jordan Junaidi](https://github.com/Jordan-Junaidi)
 - [Zain Beau](https://github.com/ZainBeau)
 - [Bhavesh982](https://github.com/bhavesh982) - "Just getting warmed up"
 - Nabila Renno
@@ -1813,6 +1816,7 @@ ketan choudhari
 - [NaClCode](https://github.com/NaClCode)
 - [Om Tiwari](https://github.com/omtiwari0)
 - [Marc Hopmans](https://github.com/test)
+- [Frank Lee](https://github.com/func-lee) - "come on, be a good ai engineer"
 - [Frank Lee](https://github.com/func-lee) - "come on, be a good ai engineer"
 - [Abhay Gupta](https://github.com/Freakcodes)
 - [Siva Garapati](https://github.com/siva-garapati)
