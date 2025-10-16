@@ -1,5 +1,6 @@
 # Contributors
 
+- [Daksh Pathak](https://github.com/dakshhhhh16)
 - [Shaurya Tamang](https://github.com/GoTouchGra55)
 - [Arthur Umerov](https://github.com/aumerov)
 - [namest504](https://github.com/namest504)
