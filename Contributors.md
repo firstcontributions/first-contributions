@@ -2,6 +2,7 @@
 
 - [Shaurya Tamang](https://github.com/GoTouchGra55)
 - [Arthur Umerov](https://github.com/aumerov)
+- [sik9252](https://github.com/sik9252)
 - [namest504](https://github.com/namest504)
 - [manasab805] (https://github.com/manasab805)
 - [Aravind Rao](https://github.com/rekcilyssup)
