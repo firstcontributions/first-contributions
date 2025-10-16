@@ -712,6 +712,7 @@
 - [Vernwalker](https://github.com/Vernwalker)
 - [Vishal Manik](https://github.com/vmanik2k)
 - [VizzScript](https://github.com/vizzscript)
+- [Henok Dawite](https://github.com/HenokDawite)
 - [Weirdo-147](https://github.com/Weirdo-147)
 - [Jevon Parker](https://github.com/JDPX1998)
 - [Xephyronix](https://github.com/Xephyronix)
