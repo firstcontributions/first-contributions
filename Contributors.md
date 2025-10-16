@@ -1409,6 +1409,7 @@ ketan choudhari
 - [Kashish Choudhary](https://github.com/kashu06)
 - [Keerthika](https://github.com/keerthikadevi-s)
 - [Kislay Kumar](https://github.com/kislayykumar)
+- [Srushti Vispute](https://github.com/SrushtiV12)
 - [Lakshya Mishra](https://github.com/mishrlaksh)
 - [Leila (Radi Adil)](https://github.com/l3331l4)
 - [Lokitha Muni](https://github.com/lokitha-muni)
