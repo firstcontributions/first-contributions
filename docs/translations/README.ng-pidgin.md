@@ -10,7 +10,7 @@ Dis project dey to make am simple and guide beginners how dem go make their firs
 
 _If command line no dey comfortable for you, [see tutorials wey use GUI tools here.](#tutorials-using-other-tools)_
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork dis repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork dis repo" />
 
 #### If you no get git for your machine, [install am](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
@@ -21,7 +21,7 @@ Dis one go create copy of dis repository for your account.
 
 ## Clone the repository
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone dis repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone dis repo" />
 
 Now clone the forked repository go your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
 
@@ -33,7 +33,7 @@ git clone "url wey you just copy"
 
 where "url wey you just copy" (without the quotation marks) na the url to this repository (your fork of this project). See the previous steps to get the url.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL go clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy di URL go clipboard" />
 
 For example:
 
