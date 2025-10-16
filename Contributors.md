@@ -1815,6 +1815,7 @@ ketan choudhari
 - [Srikanth Reddy](https://github.com/srikanthreddy1808)
 - [NaClCode](https://github.com/NaClCode)
 - [Om Tiwari](https://github.com/omtiwari0)
+- [Frank Lee](https://github.com/func-lee) - "come on, be a good ai engineer"
 - [Marc Hopmans](https://github.com/test)
 - [Frank Lee](https://github.com/func-lee) - "come on, be a good ai engineer"
 - [Frank Lee](https://github.com/func-lee) - "come on, be a good ai engineer"
