@@ -18,6 +18,7 @@
 - [Vaibhav Umbarkar](https://github.com/vaibhav-umbarkar)
 - [Vaishnavi](https://github.com/Vaishnavinayak08)
 - [Rahul Soni](https://github.com/grksoni)
+- [Arthur Campana] (https://github.com/arthurcampana)
 - [anjali-ojha17](https://github.com/anjali-ojha17)
 - [Kavinila_L](https://github.com/KavinilaLoganathan-2507)
 - [Priyeash Bala](https://github.com/priyeashbala)
