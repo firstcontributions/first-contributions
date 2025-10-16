@@ -1768,6 +1768,7 @@
 - [Amir choudhary](https://github.com/Amirchoudhary09)
 - [Kevin Salgado](https://github.com/kevtico)
 - [Saurav Kumar](https://github.com/Saurav02022)
+- [Richard Wakeham](https://github.com/richard2706)
 - [Makiko Ohashi](https://github.com/MakikoOhashi)
 - [Slam Dunk](https://github.com/slamdunk)
 - [Joydeep Das](https://github.com/JustJoyful)
