@@ -52,6 +52,7 @@
 - [Jayashankar R J](https://github.com/RJJayashankar)
 - [Faizan_Deshmukh](https://github.com/faizan1317)
 - [Saksham Singh](https://github.com/apexsaksham)
+- [ErosiveNoise](https://github.com/ErosiveNoise)
 - [Jose](https://github.com/NaturalTC)
 - [Alperen Söylen](https://github.com/Alperen012)
 - [Nikhil Yadav](https://github.com/Nikhil-Yadav-01)
