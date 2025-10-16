@@ -34,6 +34,7 @@
   [Sheetal Lodhi](https://github.com/sheetalll28)
 - [Yash Kumar Rana](https://github.com/YashRana52)
 - [Huzaifa Ghori](https://github.com/Huzaifa1910)
+- [Tiago Tomé](https://github.com/sheizo)
 - [tmestery](https://github.com/tmestery)
 - [Bhuvanesh](https://github.com/bhw-git)
 - [Mohd Hammad Yousuf]
