@@ -1011,6 +1011,7 @@
 - [Holmes M](https://github.com/Sher69-mycroft)
 - [Isaac Lopez](https://github.com/IsaacLC1104)
 - [Ivan Hernandez](https://github.com/IvanHHdz)
+- [Mohammed Abubakar (DevMasud)](https://github.com/dev-mas-ud)
 - [Jaime Garcia](https://github.com/Jaimegcaam)
 - [Jalina Hirushan](https://github.com/jalinah)
 - [Jayceon Zhang](https://github.com/Jayceon-3)
