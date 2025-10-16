@@ -5,7 +5,7 @@
 
 # Prvý príspevok
 
-Život je ťažký. Obzvlášť keď niečo robíte prvýkrát. V prípade, že na niečom spolupracujete, nie je robenie chýb niečo, čo by vám robilo radosť. My by sme radi zjednodušili cestu novým prispievateľom do open-source pri ich učení sa ako na to.
+Začiatky sú ťažké, najmä keď robíte niečo po prvýkrát. V prípade, že na niečom spolupracujete, nie je robenie chýb niečo, čo by vám robilo radosť. My by sme radi zjednodušili cestu novým prispievateľom do open-source pri ich učení sa ako na to.
 
 Čítanie článkov alebo zhliadnutie video návodov sú tiež cesty, ale čo je lepšie ako si danú vec priamo ohmatať na vlastnej koži v reálnom prostredí? Tento projekt je zameraný na poskytnutie pomoci začiatočníkom s ich prvým prispením do open-source. Ak ste ním práve vy, nasledujte kroky popísané nižšie.
 
@@ -28,7 +28,9 @@ Teraz naklonujte (anglicky *clone*) forknutý repozitár na váš počítač, na
 Teraz otvorte terminál a spustite nasledujúci príkaz:
 
 ````
-git clone "url ktoré ste práve skopírovali"
+git clone "url ktoré ste práve skopírovali"  
+*(Tento príkaz stiahne kópiu repozitára na váš počítač, aby ste mohli robiť zmeny lokálne a testovať ich pred odoslaním.)*
+
 
 ````
 
@@ -120,6 +122,11 @@ Teraz vám už nič nebráni v prispievaní do ostatných projektov. Pripravili 
 
 ## Návod za použitia ďalších nástrojov
 
-|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width=" 100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia /commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="https:/ /firstcontributions.github.io/assets/Readme/gk-icon.png" width="100"></a>|<a href="../github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a>|
+|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width=" 100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="https:/ /firstcontributions.github.io/assets/Readme/gk-icon.png" width="100"></a>|<a href="../github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a>|
 |---|---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md )|[Visual Studio Code](../github-windows-vs-code-tutorial.md)|
+
+### Tipy pre začiatočníkov
+- Použite krátke a výstižné názvy vetiev.
+- Komentujte svoje commity, aby ostatní pochopili vaše zmeny.
+- Nebojte sa robiť chyby, pull request sa dá opraviť.
