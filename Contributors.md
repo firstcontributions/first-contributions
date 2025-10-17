@@ -1840,3 +1840,4 @@ ketan choudhari
 - [Hien](https://github.com/hiend8888)
 - [Abhilash Shah](https://github.com/shahabhilash)
 - [2emeagauche](https://github.io/2emeagauche)
+- [s1mply-opel](https://github.com/s1mply-opel)
