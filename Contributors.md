@@ -764,6 +764,7 @@
 - [krshearman](https://github.com/krshearman)
 - [kyiroywops](https://github.com/kyiroywops)
 - [lennyhurni](https://github.com/lennyhurni)
+- [diya](https://github.com/diyaj14)
 - [skyl3on](https://github.com/SkyL3on)
 - [lordzerato](https://github.com/lordzerato)
 - [marcuscs00](https://github.com/marcuscs00)
