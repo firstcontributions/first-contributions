@@ -12,7 +12,7 @@
 
 #### *コマンドラインでの操作に慣れていない場合、[グラフィカルなツールでもチュートリアルを行えます。]( #その他のツールを使用したチュートリアル )*
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="このリポジトリをフォーク" />
 
 まだGitをインストールしていない場合は、[ここ](https://help.github.com/articles/set-up-git/)からインストールしてください
 
@@ -23,7 +23,7 @@ Forkボタンをクリックしてこのリポジトリをフォークしてく�
 
 ## リポジトリをクローン
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="このリポジトリをクローン" />
 
 次にフォークしたリポジトリをクローンします。あなたのリポジトリに移動してフォークしたリポジトリを開き*Code*ボタンをクリックした後に*Copy to clipboard*アイコンをクリックしてください。
 
@@ -34,7 +34,7 @@ git clone "コピーしたURL"
 ```
 "コピーしたURL" (ダブルクオーテーションは除いてください) は先ほどコピーしたリポジトリのURLと置き換えてください。
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="クリップボードにURLをコピー" />
 
 例：
 ```
@@ -64,7 +64,7 @@ git switch -c add-alonzo-church
 
 テキストエディタで`Contributors.md`ファイルを開いてあなたの名前を追加してください。ただし、ファイルの先頭または最後に追加しないようにしましょう。名前リストの間のどこか好きな場所に、あなたの名前を追加するようにしてください。あなたの名前をファイルに加えたら、ファイルを保存します。
 
-<img align="float: right;" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="float: right;" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="Gitステータス" />
 
 プロジェクトディレクトリに移動して`git status`を実行すると、変更がなされたことが確認できると思います。`git add`コマンドを使ってそれらの変更を適用してください。
 ```
@@ -89,11 +89,11 @@ git push origin <ブランチ名>
 
 GitHub上であなたのリポジトリに行くと、`Compare & pull request`ボタンが表示されます。そのボタンをクリックしてください。
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="プルリクエストを作成" />
 
 プルリクエストを作ってください。
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="プルリクエストを提出" />
 
 すぐに変更がこのプロジェクトのmainブランチにマージされます。マージが終了した際にはその旨のメールが送られます。
 
