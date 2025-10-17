@@ -25,7 +25,7 @@
 - [Nishita Kashyap](https://github.com/nishitakashyap)
 - [Samarth](https://github.com/Samarth-sk)
 - [Ayaz Khira](https://github.com/AyazKhira-1)
-- [Gabriella McKenna] (https://github.com/leftpawgames-lab)
+- [Gabriella McKenna]
   [Melanie Baker](https://github.com/Melanie-J-Baker)
 - [Viraj Dhamnaskar](https://github.com/Rootvikk)
 - [Mit_Patel](https://github.com/SimpleChap)
