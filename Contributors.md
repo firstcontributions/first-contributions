@@ -216,9 +216,9 @@
 - [Wilmer Gulcochia](https://github.com/wigsdev)
 - [Test Perfil 1](https://github.com/test-git001)
 - [Amadou Kebe](https://github.com/AmadouLKebe)
--[ipsitdebnath](https://github.com/ipsitdebnath)
+- [ipsitdebnath](https://github.com/ipsitdebnath)
 - [baldlow](https://github.com/baldlow)
--[Mohit Kumar](https://github.com/MateeRixx)
+- [Mohit Kumar](https://github.com/MateeRixx)
 - [Pygame17](https://github.com/Pygame17)
 - [Jonatan Rosali](https://github.com/JonatanRosali)
 - [Jason Herman](https://github.com/Everblade)
@@ -524,8 +524,7 @@
 - [Harsh Kaushik](https://github.com/hrk022)
 - [Harsh Singh](https://github.com/singhharsh29)
 - [HighPoly](https://github.com/HighPolygon)
-- [VishnuPriyaSingamReddy](https://github.com/VishnuPriyaSingamReddy)
- -[Ritu Raj](https://github.com/Ritu14012004)
+- [VishnuPriyaSingamReddy](https://github.com/VishnuPriyaSingamReddy) -[Ritu Raj](https://github.com/Ritu14012004)
 - [Ian McManus](https://github.com/ianmcman)
 - [Jose Soto](https://github.com/jossotriv)
 - [Iman Chandrasiri](https://github.com/Iman0810)
@@ -796,6 +795,7 @@
 - [y pavan reddy](https://github.com/ypavanr)
 - [Georgia Pennington](https://github.com/gpenn4)
 - [원세영](https://github.com/seyoung5744)
+- [Shiva](https://github.com/sh1vananda)
 - [Bluefox192](https://github.com/Bluefox192)
 - [Aadvika Pandey](https://github.com/Addvika)
 - [Abdelali](https://github.com/abdosanad2001)
@@ -1279,7 +1279,7 @@
 - [Maik Schoepe](https://github.com/MaikSchoepe)
 - [Maksim Gordin](https://github.com/madmax5490)
 - [Manas walia](https://github.com/manaswalia13)
-ketan choudhari
+  ketan choudhari
 - [Marek Mudron](https://github.com/MarekMudron)
 - [Masum Raza](https://github.com/khanmasumraza)
 - [Matheus Deus](https://github.com/deusMatheus)
@@ -1828,7 +1828,7 @@ ketan choudhari
 - [Hesham Omar](https://github.com/heshamoomar)
 - [Victoria Kilgore](https://github.com/kilgorev) - "Cats, Crochet, and Code"
 - [Carlos Murillo](https://github.com/CMurilloCamacho)
-<<Abhishek/@planksconstant>>
+  <<Abhishek/@planksconstant>>
 - [Charmine Tan](https://github.com/Charmine-Tan-Renbao)
 - [Srikanth Reddy](https://github.com/srikanthreddy1808)
 - [NaClCode](https://github.com/NaClCode)
