@@ -1,4 +1,5 @@
 # Contributors
+- [Daksh Pathak](https://github.com/dakshhhhh16)
 - [Ronin](https://github.com/iamroninfr)
 - [Joao Guilherme Felizardo](https://github.com/JoaoCaconde)
 - [Vishnudas Nayak P](https://github.com/VishnudasNayakP)
