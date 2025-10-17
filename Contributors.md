@@ -1,4 +1,5 @@
 # Contributors
+- [Ronin](https://github.com/iamroninfr)
 - [Joao Guilherme Felizardo](https://github.com/JoaoCaconde)
 - [Vishnudas Nayak P](https://github.com/VishnudasNayakP)
 - [Rayan Mamhoud](https://github.com/ryanneekidev)
@@ -215,7 +216,7 @@
 - [Test Perfil 1](https://github.com/test-git001)
 - [Amadou Kebe](https://github.com/AmadouLKebe)
 -[ipsitdebnath](https://github.com/ipsitdebnath)
-- [baldlow](https://github.com/baldlow) 
+- [baldlow](https://github.com/baldlow)
 -[Mohit Kumar](https://github.com/MateeRixx)
 - [Pygame17](https://github.com/Pygame17)
 - [Jonatan Rosali](https://github.com/JonatanRosali)
