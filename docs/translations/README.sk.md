@@ -29,8 +29,6 @@ Teraz otvorte terminál a spustite nasledujúci príkaz:
 
 ````
 git clone "url ktoré ste práve skopírovali"  
-*(Tento príkaz stiahne kópiu repozitára na váš počítač, aby ste mohli robiť zmeny lokálne a testovať ich pred odoslaním.)*
-
 
 ````
 
@@ -126,7 +124,4 @@ Teraz vám už nič nebráni v prispievaní do ostatných projektov. Pripravili 
 |---|---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md )|[Visual Studio Code](../github-windows-vs-code-tutorial.md)|
 
-### Tipy pre začiatočníkov
-- Použite krátke a výstižné názvy vetiev.
-- Komentujte svoje commity, aby ostatní pochopili vaše zmeny.
 - Nebojte sa robiť chyby, pull request sa dá opraviť.
