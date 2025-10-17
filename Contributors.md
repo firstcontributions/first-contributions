@@ -100,6 +100,7 @@
 - [vipul]
 - PB (https://github.com/PierreBatikh)
 - [Sangeetha Dhanasekar]
+- [Tudor Gradinaru](https://github.com/TudorGR)
 - [Pushkar Sabe](https://github.com/pushkarsabe)
 - [CheriBerry77](https://github.com/CheriBerry77)
 - [Jonathan Scott](https://github.com/Hatonjan)
