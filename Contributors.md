@@ -24,6 +24,7 @@
 - [Rafael Severo](https://github.com/rafaeumesmo) 
 - [LayorX](https://github.com/LayorX)
 - [Benja] - Hello!
+- [Maddy] -Hii
 - [Darion]
 - [Suhaib] - (https://github.com/Suhaib536)
 - [Bhavana]
