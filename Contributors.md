@@ -806,6 +806,7 @@
 - [Akshay Kale](https://github.com/Dev-axay18)
 - [Alanto Manu](https://github.com/alantomanu)
 - [Abdelrahman Elaraby](https://github.com/aelaraby6)
+- [Khaled Abdelrahman](https://github.com/khaleed2002)
 - [Ali Nasser](https://github.com/AliNasser05)
 - [Aloof Apple](https://github.com/AloofApple)
 - [Aman Kumar](https://github.com/YukiCodepth)
