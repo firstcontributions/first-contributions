@@ -85,6 +85,7 @@
 - [Sham Sunder](https://github.com/ShamSuther) - "for the sake of being!"
 - [Chintan Sood](https://github.com/chintansood)
 - [Kaylin Yang](https://github.com/kyangOrange)
+- [Harsh Gupta](https://github.com/HarshGupta-09)
 - [Kurt Schwimmbacher](https://github.com/KurtSchwimmbacher)
 - [Aaromal A](https://github.com/aaromalonline)
 - [Aman Gupta](https://github.com/aman-devx)
