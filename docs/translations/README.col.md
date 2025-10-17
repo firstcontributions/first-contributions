@@ -13,7 +13,7 @@ Bacano leer artículos y ver tutoriales y toda esa vaina, pero nada como aprende
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork de este repositorio" />
 
-Si no tenés git en tu aparato, podés encontrar cómo instalarlo en[este link](https://docs.github.com/es/get-started/quickstart/set-up-git).
+Si no tenés git en tu compu, podés encontrar cómo instalarlo en[este link](https://docs.github.com/es/get-started/quickstart/set-up-git).
 
 ## Hacele un (_Fork_) a este repositorio
 
@@ -29,10 +29,10 @@ Ahora toca clonar este repositorio en tu compu. Andate a tu cuenta de GitHub, da
 Abre tu consola o terminal y ejecuta el siguiente comando de git:
 
 ```
-git clone "url que acabas de copiar"
+git clone "Aquí pones la URL que acabaste de copiar"
 ```
 
-Donde dice "url que acabas de copiar" (sin las comillas, ojo) es la _url_ de este repositorio (tu _fork_ del proyecto). Mira los pasos de antes para sacar la _url_.
+Donde dice "Aquí pones la URL que acabaste de copiar" (sin las comillas, ojo) es la _url_ de este repositorio (tu _fork_ del proyecto). Mira los pasos de antes para sacar la _url_.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copiar URL al portapapeles" />
 
@@ -70,7 +70,7 @@ git checkout -b add-alonzo-church
 
 Abrí el archivo `Contributors.md` en un editor de texto y agregá tu nombre. No lo pongas ni al principio ni al final del archivo, metelo en cualquier otro lado. Guardá el archivo.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="estado del git" />
 
 Si vas al directorio del proyecto y ejecutas el comando `git status`, verás que hay cambios.
 
@@ -108,11 +108,11 @@ Ahora mandá la _pull request_.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="enviar la pull request" />
 
-Dentro de poco voy a estar fusionando tus cambios (haciendo merge) con la rama master de este proyecto. Te va a llegar un correo cuando los cambios estén fusionados.
+Dentro de poco van a estar fusionando tus cambios (haciendo merge) con la rama master de este proyecto. Te va a llegar un correo cuando los cambios estén fusionados.
 
 ## ¿Y ahora qué sigue?
 
-¡Felicitaciones parcero! ¡Le diste la vuelta completa al proceso _fork -> clone -> edit -> PR_ que vas a usar un montón como contribuidor!
+¡Felicitaciones parcero! ¡Le diste la vuelta completa al proceso _fork -> clone -> edit -> PR_ que vas a usar un montón como contribuidor! ¡¡Estas es volando!!
 
 Celebrá tu aporte y compartilo con tus amigos y seguidores en la.[web app](https://firstcontributions.github.io/#social-share).
 
