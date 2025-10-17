@@ -1,11 +1,14 @@
 # Contributors
-
+- [Ronin](https://github.com/iamroninfr)
 - [Joao Guilherme Felizardo](https://github.com/JoaoCaconde)
 - [Vishnudas Nayak P](https://github.com/VishnudasNayakP)
+- [Khaled Abdelrahman](https://github.com/khaleed2002)
+- [Rayan Mamhoud](https://github.com/ryanneekidev)
 - [Jason Lamb](https://github.com/jasrasr)
 - [Shaurya Tamang](https://github.com/GoTouchGra55)
 - [Arthur Umerov](https://github.com/aumerov)
 - [sik9252](https://github.com/sik9252)
+- [Shriya Sharma](https://github.com/Shriya-23)
 - [namest504](https://github.com/namest504)
 - [manasab805](https://github.com/manasab805)
 - [Aravind Rao](https://github.com/rekcilyssup)
@@ -36,6 +39,7 @@
 - [marco rossi](https://github.com/Willy00blu)
 - [Narendra Singh](https://github.com/niksbanna)
 - Luke Oliver
+- [codexagon](https://github.com/codexagon)
 - Elias Bemuehtsichwirklichsehr
 - [Rezhan Fatah](https://github.com/RezhanFatah)
   chenhui
@@ -49,6 +53,7 @@
 - [Mohd Hammad Yousuf]
 - James
 - [Labeeb Bilal](https://github.com/Labeeb-bilal)
+- [Jonatha Carvalho](https://github.com/jowgaze)
 - [Mohamed Irsath](https://github.com/mohamedirsath07)
 - [Yash Pachauri](https://github.com/yashpachauri1)
 - [Mark Connor](https://github.com/markjconnor)
@@ -211,8 +216,10 @@
 - [Ankit Singh](https://github.com/ANKITsingh-git2)
 - [Wilmer Gulcochia](https://github.com/wigsdev)
 - [Test Perfil 1](https://github.com/test-git001)
-- [Amadou Kebe](https://github.com/AmadouLKebe) -[ipsitdebnath](https://github.com/ipsitdebnath)
-- [baldlow](https://github.com/baldlow) -[Mohit Kumar](https://github.com/MateeRixx)
+- [Amadou Kebe](https://github.com/AmadouLKebe)
+- [ipsitdebnath](https://github.com/ipsitdebnath)
+- [baldlow](https://github.com/baldlow)
+- [Mohit Kumar](https://github.com/MateeRixx)
 - [Pygame17](https://github.com/Pygame17)
 - [Jonatan Rosali](https://github.com/JonatanRosali)
 - [Jason Herman](https://github.com/Everblade)
@@ -302,6 +309,7 @@
 - [Itay Levi](https://github.com/ItayLHdev)
 - [JBetz-Dev](https://github.com/JBetz-Dev)
 - [James-826](https://github.com/James-826)
+- [Bobrikus Smith](https://github.com/fairhair9)
 - [Abdou-kdj](https://github.com/abdoukare)
 - [Janardhan Polle](https://github.com/Jce)
 - [LostChyld](https://github.com/dragonsewist/)
@@ -788,6 +796,7 @@
 - [y pavan reddy](https://github.com/ypavanr)
 - [Georgia Pennington](https://github.com/gpenn4)
 - [원세영](https://github.com/seyoung5744)
+- [Shiva](https://github.com/sh1vananda)
 - [Bluefox192](https://github.com/Bluefox192)
 - [Aadvika Pandey](https://github.com/Addvika)
 - [Abdelali](https://github.com/abdosanad2001)
@@ -801,6 +810,7 @@
 - [Akshay Kale](https://github.com/Dev-axay18)
 - [Alanto Manu](https://github.com/alantomanu)
 - [Abdelrahman Elaraby](https://github.com/aelaraby6)
+- [Khaled Abdelrahman](https://github.com/khaleed2002)
 - [Ali Nasser](https://github.com/AliNasser05)
 - [Aloof Apple](https://github.com/AloofApple)
 - [Aman Kumar](https://github.com/YukiCodepth)
@@ -1836,3 +1846,11 @@
 - [Zide Yang](https://github.com/Yzide01)
 - [Hien](https://github.com/hiend8888)
 - [Abhilash Shah](https://github.com/shahabhilash)
+- [2emeagauche](https://github.io/2emeagauche)
+- [s1mply-opel](https://github.com/s1mply-opel)
+- [Mishu](https://github.com/Mishu03)
+- [Leonardop448](https://github.com/Leonardop448)
+-[Anushka Shree Bajpai](https://github.com/anushkaabajpaiii)
+[sasank](https://github.com/sasankgit) -" just did this for fun idk what this repo is"
+- [Abdulmoen Abo Saleh](https://github.com/ABDULMOEN)
+
