@@ -397,6 +397,7 @@
 - [Semen Byndiu](https://github.com/bynd1u)
 - [Shaswat Raj](https://github.com/sh20raj)
 - [Shivang](https://github.com/shivang-jnv)
+- [Akash](https://github.com/akaraj187)
 - [Somto Ogbe](https://github.com/somtoval)
 - [SoullesKev](https://github.com/Sadirock)
 - [Sunghee Yoon](https://github.com/tnosh7)
