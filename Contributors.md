@@ -1,14 +1,18 @@
 # Contributors
-
+- [Ronin](https://github.com/iamroninfr)
 - [Joao Guilherme Felizardo](https://github.com/JoaoCaconde)
 - [Vishnudas Nayak P](https://github.com/VishnudasNayakP)
+- [Khaled Abdelrahman](https://github.com/khaleed2002)
+- [Rayan Mamhoud](https://github.com/ryanneekidev)
 - [Jason Lamb](https://github.com/jasrasr)
 - [Shaurya Tamang](https://github.com/GoTouchGra55)
 - [Arthur Umerov](https://github.com/aumerov)
 - [sik9252](https://github.com/sik9252)
+- [Shriya Sharma](https://github.com/Shriya-23)
 - [namest504](https://github.com/namest504)
 - [manasab805](https://github.com/manasab805)
 - [Aravind Rao](https://github.com/rekcilyssup)
+- [Robert Schacht](https://github.com/rsschacht
 - [amarmerada](https://github.com/amarmerada99)
 - [Vikas Mishra](https://github.com/vikasmishra1691)
 - [Arka Banerjee](https://github.com/thearkabanerjee)
@@ -18,6 +22,7 @@
 - [Zihan Zhu](https://github.com/zihanz2025)
 - [Vaibhav Umbarkar](https://github.com/vaibhav-umbarkar)
 - [Vaishnavi](https://github.com/Vaishnavinayak08)
+- [Akash](https://github.com/akaraj187)
 - [Rahul Soni](https://github.com/grksoni)
 - [Arthur Campana] (https://github.com/arthurcampana)
 - [anjali-ojha17](https://github.com/anjali-ojha17)
@@ -34,6 +39,7 @@
 - [marco rossi](https://github.com/Willy00blu)
 - [Narendra Singh](https://github.com/niksbanna)
 - Luke Oliver
+- [codexagon](https://github.com/codexagon)
 - Elias Bemuehtsichwirklichsehr
 - [Rezhan Fatah](https://github.com/RezhanFatah)
   chenhui
@@ -47,6 +53,7 @@
 - [Mohd Hammad Yousuf]
 - James
 - [Labeeb Bilal](https://github.com/Labeeb-bilal)
+- [Jonatha Carvalho](https://github.com/jowgaze)
 - [Mohamed Irsath](https://github.com/mohamedirsath07)
 - [Yash Pachauri](https://github.com/yashpachauri1)
 - [Mark Connor](https://github.com/markjconnor)
@@ -85,6 +92,7 @@
 - [Sham Sunder](https://github.com/ShamSuther) - "for the sake of being!"
 - [Chintan Sood](https://github.com/chintansood)
 - [Kaylin Yang](https://github.com/kyangOrange)
+- [Harsh Gupta](https://github.com/HarshGupta-09)
 - [Kurt Schwimmbacher](https://github.com/KurtSchwimmbacher)
 - [Aaromal A](https://github.com/aaromalonline)
 - [Aman Gupta](https://github.com/aman-devx)
@@ -207,8 +215,10 @@
 - [Ankit Singh](https://github.com/ANKITsingh-git2)
 - [Wilmer Gulcochia](https://github.com/wigsdev)
 - [Test Perfil 1](https://github.com/test-git001)
-- [Amadou Kebe](https://github.com/AmadouLKebe) -[ipsitdebnath](https://github.com/ipsitdebnath)
-- [baldlow](https://github.com/baldlow) -[Mohit Kumar](https://github.com/MateeRixx)
+- [Amadou Kebe](https://github.com/AmadouLKebe)
+- [ipsitdebnath](https://github.com/ipsitdebnath)
+- [baldlow](https://github.com/baldlow)
+- [Mohit Kumar](https://github.com/MateeRixx)
 - [Pygame17](https://github.com/Pygame17)
 - [Jonatan Rosali](https://github.com/JonatanRosali)
 - [Jason Herman](https://github.com/Everblade)
@@ -298,6 +308,7 @@
 - [Itay Levi](https://github.com/ItayLHdev)
 - [JBetz-Dev](https://github.com/JBetz-Dev)
 - [James-826](https://github.com/James-826)
+- [Bobrikus Smith](https://github.com/fairhair9)
 - [Abdou-kdj](https://github.com/abdoukare)
 - [Janardhan Polle](https://github.com/Jce)
 - [LostChyld](https://github.com/dragonsewist/)
@@ -760,6 +771,7 @@
 - [krshearman](https://github.com/krshearman)
 - [kyiroywops](https://github.com/kyiroywops)
 - [lennyhurni](https://github.com/lennyhurni)
+- [diya](https://github.com/diyaj14)
 - [skyl3on](https://github.com/SkyL3on)
 - [lordzerato](https://github.com/lordzerato)
 - [marcuscs00](https://github.com/marcuscs00)
@@ -770,6 +782,7 @@
 - [oogway-x3t](https://github.com/oogway-x3t)
 - [pleego1618](https://github.com/pleebs1618)
 - [rasmuskn44](https://github.com/rasmuskn44)
+- [tess3r4c7](https://github.com/tess3r4c7)
 - [simonpotel](https://github.com/simonpotel)
 - [sitthaveet](https://github.com/sitthaveet)
 - [smandadhi9](https://github.com/smandadhi9)
@@ -796,6 +809,7 @@
 - [Akshay Kale](https://github.com/Dev-axay18)
 - [Alanto Manu](https://github.com/alantomanu)
 - [Abdelrahman Elaraby](https://github.com/aelaraby6)
+- [Khaled Abdelrahman](https://github.com/khaleed2002)
 - [Ali Nasser](https://github.com/AliNasser05)
 - [Aloof Apple](https://github.com/AloofApple)
 - [Aman Kumar](https://github.com/YukiCodepth)
@@ -1134,6 +1148,7 @@
 - [dylan-sacco](https://github.com/dylan-sacco)
 - [git-gud-jim](https://github.com/git-gud-jim)
 - [Erick Passos](https://github.com/erickcpassos)
+- [Harshendu S](https://github.com/quantambites)
 - [harshit](https://github.com/harshitpatel862)
 - [hudabikhoir](https://github.com/hudabikhoir)
 - [isaacbelles](https://github.com/isaacbelles)
@@ -1362,6 +1377,7 @@
 - [Anemone](https://github.com/anemone-coronaria)
 - [Animesh Yadav](https://github.com/Aanimesh003)
 - [Anirudh Pandey](https://github.com/anirudh241)
+- [Siren-241](https://github.com/Siren-241)
 - [Anis Mandal](https://github.com/AgentPhoenix7)
 - [Ansh Gupta](https://github.com/Ansh-Gupta0310)
 - [Anton Lysenko](https://github.com/AntonyCoder)
@@ -1786,6 +1802,7 @@
 - [Matthew Mc](https://github.com/Taboo0-0)
 - [Md Shakib Hossain](https://github.com/mdshakibhossai)
 - [Holisterfort](https://github.com/Holisterfort)
+- [Aayush Vats](https://github.com/Aayush-0821) - "I'll be the Best coder"
 - [Izaiah](https://github.com/Astrogaming057) - "I like dragons <3"
 - [Himanshu ATtri](https://github.com/HimanshuAttri) - "think"
 - [Amir choudhary](https://github.com/Amirchoudhary09)
@@ -1820,9 +1837,19 @@
 - [Marc Hopmans](https://github.com/test)
 - [Frank Lee](https://github.com/func-lee) - "come on, be a good ai engineer"
 - [Frank Lee](https://github.com/func-lee) - "come on, be a good ai engineer"
+- [James Devarie](https://github.com/JamesDevarie458)
 - [Abhay Gupta](https://github.com/Freakcodes)
 - [Siva Garapati](https://github.com/siva-garapati)
 - [JICHAN HAN](https://github.com/HJC96)
 - [Dhvani Prasad](https://github.com/Dhwanihere)
 - [Zide Yang](https://github.com/Yzide01)
 - [Hien](https://github.com/hiend8888)
+- [Abhilash Shah](https://github.com/shahabhilash)
+- [2emeagauche](https://github.io/2emeagauche)
+- [s1mply-opel](https://github.com/s1mply-opel)
+- [Mishu](https://github.com/Mishu03)
+- [Leonardop448](https://github.com/Leonardop448)
+-[Anushka Shree Bajpai](https://github.com/anushkaabajpaiii)
+[sasank](https://github.com/sasankgit) -" just did this for fun idk what this repo is"
+- [Abdulmoen Abo Saleh](https://github.com/ABDULMOEN)
+
