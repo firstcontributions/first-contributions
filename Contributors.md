@@ -774,6 +774,7 @@
 - [oogway-x3t](https://github.com/oogway-x3t)
 - [pleego1618](https://github.com/pleebs1618)
 - [rasmuskn44](https://github.com/rasmuskn44)
+- [tess3r4c7](https://github.com/tess3r4c7)
 - [simonpotel](https://github.com/simonpotel)
 - [sitthaveet](https://github.com/sitthaveet)
 - [smandadhi9](https://github.com/smandadhi9)
