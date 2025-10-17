@@ -36,6 +36,7 @@
 - [marco rossi](https://github.com/Willy00blu)
 - [Narendra Singh](https://github.com/niksbanna)
 - Luke Oliver
+- [codexagon](https://github.com/codexagon)
 - Elias Bemuehtsichwirklichsehr
 - [Rezhan Fatah](https://github.com/RezhanFatah)
   chenhui
