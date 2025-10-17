@@ -52,6 +52,7 @@
 - [Mohd Hammad Yousuf]
 - James
 - [Labeeb Bilal](https://github.com/Labeeb-bilal)
+- [Jonatha Carvalho](https://github.com/jowgaze)
 - [Mohamed Irsath](https://github.com/mohamedirsath07)
 - [Yash Pachauri](https://github.com/yashpachauri1)
 - [Mark Connor](https://github.com/markjconnor)
@@ -803,6 +804,7 @@
 - [Akshay Kale](https://github.com/Dev-axay18)
 - [Alanto Manu](https://github.com/alantomanu)
 - [Abdelrahman Elaraby](https://github.com/aelaraby6)
+- [Khaled Abdelrahman](https://github.com/khaleed2002)
 - [Ali Nasser](https://github.com/AliNasser05)
 - [Aloof Apple](https://github.com/AloofApple)
 - [Aman Kumar](https://github.com/YukiCodepth)
@@ -1842,4 +1844,4 @@
 - [s1mply-opel](https://github.com/s1mply-opel)
 - [Mishu](https://github.com/Mishu03)
 - [Leonardop448](https://github.com/Leonardop448)
-  [sasank](https://github.com/sasankgit) -" just did this for fun idk what this repo is"
+[sasank](https://github.com/sasankgit) -" just did this for fun idk what this repo is"
