@@ -1821,6 +1821,7 @@ ketan choudhari
 - [Marc Hopmans](https://github.com/test)
 - [Frank Lee](https://github.com/func-lee) - "come on, be a good ai engineer"
 - [Frank Lee](https://github.com/func-lee) - "come on, be a good ai engineer"
+- [James Devarie](https://github.com/JamesDevarie458)
 - [Abhay Gupta](https://github.com/Freakcodes)
 - [Siva Garapati](https://github.com/siva-garapati)
 - [JICHAN HAN](https://github.com/HJC96)
