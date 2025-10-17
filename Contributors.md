@@ -305,6 +305,7 @@
 - [Itay Levi](https://github.com/ItayLHdev)
 - [JBetz-Dev](https://github.com/JBetz-Dev)
 - [James-826](https://github.com/James-826)
+- [Bobrikus Smith](https://github.com/fairhair9)
 - [Abdou-kdj](https://github.com/abdoukare)
 - [Janardhan Polle](https://github.com/Jce)
 - [LostChyld](https://github.com/dragonsewist/)
