@@ -1,7 +1,9 @@
 # Contributors
-
+- [Daksh Pathak](https://github.com/dakshhhhh16)
+- [Ronin](https://github.com/iamroninfr)
 - [Joao Guilherme Felizardo](https://github.com/JoaoCaconde)
 - [Vishnudas Nayak P](https://github.com/VishnudasNayakP)
+- [Khaled Abdelrahman](https://github.com/khaleed2002)
 - [Rayan Mamhoud](https://github.com/ryanneekidev)
 - [Jason Lamb](https://github.com/jasrasr)
 - [Shaurya Tamang](https://github.com/GoTouchGra55)
@@ -99,6 +101,7 @@
 - [vipul]
 - PB (https://github.com/PierreBatikh)
 - [Sangeetha Dhanasekar]
+- [Tudor Gradinaru](https://github.com/TudorGR)
 - [Pushkar Sabe](https://github.com/pushkarsabe)
 - [CheriBerry77](https://github.com/CheriBerry77)
 - [Jonathan Scott](https://github.com/Hatonjan)
@@ -214,8 +217,10 @@
 - [Ankit Singh](https://github.com/ANKITsingh-git2)
 - [Wilmer Gulcochia](https://github.com/wigsdev)
 - [Test Perfil 1](https://github.com/test-git001)
-- [Amadou Kebe](https://github.com/AmadouLKebe) -[ipsitdebnath](https://github.com/ipsitdebnath)
-- [baldlow](https://github.com/baldlow) -[Mohit Kumar](https://github.com/MateeRixx)
+- [Amadou Kebe](https://github.com/AmadouLKebe)
+- [ipsitdebnath](https://github.com/ipsitdebnath)
+- [baldlow](https://github.com/baldlow)
+- [Mohit Kumar](https://github.com/MateeRixx)
 - [Pygame17](https://github.com/Pygame17)
 - [Jonatan Rosali](https://github.com/JonatanRosali)
 - [Jason Herman](https://github.com/Everblade)
@@ -792,6 +797,7 @@
 - [y pavan reddy](https://github.com/ypavanr)
 - [Georgia Pennington](https://github.com/gpenn4)
 - [원세영](https://github.com/seyoung5744)
+- [Shiva](https://github.com/sh1vananda)
 - [Bluefox192](https://github.com/Bluefox192)
 - [Aadvika Pandey](https://github.com/Addvika)
 - [Abdelali](https://github.com/abdosanad2001)
@@ -1847,3 +1853,5 @@
 - [Leonardop448](https://github.com/Leonardop448)
 -[Anushka Shree Bajpai](https://github.com/anushkaabajpaiii)
 [sasank](https://github.com/sasankgit) -" just did this for fun idk what this repo is"
+- [Abdulmoen Abo Saleh](https://github.com/ABDULMOEN)
+
