@@ -1,4 +1,6 @@
 # Contributors
+
+- [Sabirrh](https://github.com/Sabirrh)
 - [Joao Guilherme Felizardo](https://github.com/JoaoCaconde)
 - [Vishnudas Nayak P](https://github.com/VishnudasNayakP)
 - [Jason Lamb](https://github.com/jasrasr)
@@ -8,7 +10,7 @@
 - [namest504](https://github.com/namest504)
 - [manasab805](https://github.com/manasab805)
 - [Aravind Rao](https://github.com/rekcilyssup)
-- [Robert Schacht](https://github.com/rsschacht
+- [Robert Schacht](https://github.com/rsschacht)
 - [amarmerada](https://github.com/amarmerada99)
 - [Vikas Mishra](https://github.com/vikasmishra1691)
 - [Arka Banerjee](https://github.com/thearkabanerjee)
@@ -20,14 +22,14 @@
 - [Vaishnavi](https://github.com/Vaishnavinayak08)
 - [Akash](https://github.com/akaraj187)
 - [Rahul Soni](https://github.com/grksoni)
-- [Arthur Campana] (https://github.com/arthurcampana)
+- [Arthur Campana](https://github.com/arthurcampana)
 - [anjali-ojha17](https://github.com/anjali-ojha17)
 - [Kavinila_L](https://github.com/KavinilaLoganathan-2507)
 - [Priyeash Bala](https://github.com/priyeashbala)
 - [Nishita Kashyap](https://github.com/nishitakashyap)
 - [Samarth](https://github.com/Samarth-sk)
 - [Ayaz Khira](https://github.com/AyazKhira-1)
-- [Gabriella McKenna]
+- Gabriella McKenna
   [Melanie Baker](https://github.com/Melanie-J-Baker)
 - [Viraj Dhamnaskar](https://github.com/Rootvikk)
 - [Mit_Patel](https://github.com/SimpleChap)
@@ -45,7 +47,7 @@
 - [Martin] (https://github.com/mtarotML)
 - [tmestery](https://github.com/tmestery)
 - [Bhuvanesh](https://github.com/bhw-git)
-- [Mohd Hammad Yousuf]
+- Mohd Hammad Yousuf
 - James
 - [Labeeb Bilal](https://github.com/Labeeb-bilal)
 - [Mohamed Irsath](https://github.com/mohamedirsath07)
@@ -68,7 +70,7 @@
 - [msama](https://github.com/msama)
 - [Sameer Shamshad](https://github.com/CodeLikeBA56)
 - [yakov007](https://github.com/yakov007) "Add to Contributors list"
-- [Tetiana Tkachova](https://github.com/defur) git commit -m "Add `<your-name>` to Contributors list"
+- [Tetiana Tkachova](https://github.com/defur) git commit -m "Add to Contributors list"
 - [Mohammed Saqib Rehaman Namazi](https://github.com/Saqibdev-786)
 - [Cooper Li](https://github.com/CooperLi1)
 - [Aditi Badkur](https://github.com/aditibadkur)
@@ -92,8 +94,8 @@
 - [Aman Gupta](https://github.com/aman-devx)
 - [Sowo R](https://github.com/sowo5)
 - [vipul]
-- PB (https://github.com/PierreBatikh)
-- [Sangeetha Dhanasekar]
+- [PB](https://github.com/PierreBatikh)
+- Sangeetha Dhanasekar
 - [Pushkar Sabe](https://github.com/pushkarsabe)
 - [CheriBerry77](https://github.com/CheriBerry77)
 - [Jonathan Scott](https://github.com/Hatonjan)
@@ -196,7 +198,7 @@
 - [Kyra (kyrazzx)](https://github.com/kyrazzx)
 - [premludhanii26-cell](https://github.com/premludhangiii26-cell)
 - [sachinandan yadav](https://github.com/sachinandan-05)
-- [Md Khalid Hasan Ansari]
+- Md Khalid Hasan Ansari
 - [Shahid Afrid](https://github.com/shahid-afrid)
 - [Kanishka Vats](https://github.com/KanishkaV25)
 - [Shanmukh sai karnam](https://github.com/karnam16)
@@ -210,9 +212,9 @@
 - [Wilmer Gulcochia](https://github.com/wigsdev)
 - [Test Perfil 1](https://github.com/test-git001)
 - [Amadou Kebe](https://github.com/AmadouLKebe)
--[ipsitdebnath](https://github.com/ipsitdebnath)
+- [ipsitdebnath](https://github.com/ipsitdebnath)
 - [baldlow](https://github.com/baldlow) 
--[Mohit Kumar](https://github.com/MateeRixx)
+- [Mohit Kumar](https://github.com/MateeRixx)
 - [Pygame17](https://github.com/Pygame17)
 - [Jonatan Rosali](https://github.com/JonatanRosali)
 - [Jason Herman](https://github.com/Everblade)
@@ -261,7 +263,7 @@
 - [Zohaib](https://github.com/Iamzohaibali)
 - [Frank Anthony](https://github.com/FrankLayza)
 - [Rahpeal Lee](https://github.com/nativeengineer)
-  [Rajnish Kumar Dubey](https://github.com/rajnish-dubey)
+- [Rajnish Kumar Dubey](https://github.com/rajnish-dubey)
 - [Purbasha Mitra](https://github.com/PurbashaMitra)
 - [Naga Teja](https://github.com/invariantfields)
 - [Aayush Joshi](https://github.com/aayushjoshi1006)
@@ -904,7 +906,7 @@
 - [Pranit Gore](https://github.com/PRANIT0605)
 - [R Ricky Roger](https://github.com/RickRo77)
 - [Raghav Dwivedi](https://github.com/dwi4122)
-  Zubary ismail
+- Zubary ismail
 - [Rakshith](https://github.com/manrakshithqt)
 - [Ramis Humayun](https://github.com/Ramis102)
 - [Raunit Arya](https://github.com/RaunitArya)
@@ -929,7 +931,6 @@
 - [Samuel Maxey](https://github.com/SMAX-byte)
 - [Sanjeev]() Grabbing oppurtunities flawlessly
 - [Sashin Trout](https://github.com/sashin123)
-
 - [Sean Calderon](https://github.com/rimorgin)
 - [Shamir Ali](https://github.com/ShamirAli55)
 - [ShatnauTSA](https://github.com/shantanuTSA)
@@ -1229,7 +1230,7 @@
 - [Greem Fox](https://github.com/vulpes-viridis)
 - [Hamza Khan](https://github.com/giacomo-folli)
 - [Hariharasudhan M](https://github.com/Harimhs)
-  Emily Navarro
+- Emily Navarro
 - [Harsh Gupta](https://github.com/Reverent2005)
 - [Harsh Rakholiya](https://github.com/arsh3396)
 - [Harshita Kode](https://github.com/2210030019)
@@ -1271,7 +1272,7 @@
 - [Maik Schoepe](https://github.com/MaikSchoepe)
 - [Maksim Gordin](https://github.com/madmax5490)
 - [Manas walia](https://github.com/manaswalia13)
-ketan choudhari
+- ketan choudhari
 - [Marek Mudron](https://github.com/MarekMudron)
 - [Masum Raza](https://github.com/khanmasumraza)
 - [Matheus Deus](https://github.com/deusMatheus)
@@ -1593,7 +1594,7 @@ ketan choudhari
 - [Pranavg1203](https://github.com/PranavG1203)
 - [TANAY-BARGIR](https://github.com/TANAY-BARGIR)
 - [harshkaushik31](https://github.com/harshkaushik31)
-  Deepak Bhima Palli
+- Deepak Bhima Palli
 - [leenahunagund](https://github.com/leenahunagund)
 - [Gijun Moon](https://github.com/gijunmoon)
 - [Sumeet D Choudhary](https://github.com/sumeet156)
@@ -1652,7 +1653,7 @@ ketan choudhari
 - [Mayuresh Surve](https://github.com/amimayo)
 - [Mateus Zaparoli](https://github.com/mateuszaparoli)
 - [Akarsh Tiwari](https://github.com/HyperionAKKI)
-- [kimcodesjs](https://github.com/kimcodesjs) - Wishing you all luck on your coding journey. :)
+- [kimcodesjs](https://github.com/kimcodesjs) - Wishing you all luck on your coding journey.:)
 - [Abhijna Marathe](https://github.com/ack-chai)
 - [Subrat Kumar Behera](https://github.com/Subratkb02)
 - [Sri Vaishnav Vutukuri](https://github.com/srithedesigner)
@@ -1820,7 +1821,8 @@ ketan choudhari
 - [Hesham Omar](https://github.com/heshamoomar)
 - [Victoria Kilgore](https://github.com/kilgorev) - "Cats, Crochet, and Code"
 - [Carlos Murillo](https://github.com/CMurilloCamacho)
-<<Abhishek/@planksconstant>>
+- <<Abhishek/@planksconstant>>
+- [Abhishek](https://github.com/planksconstant)
 - [Charmine Tan](https://github.com/Charmine-Tan-Renbao)
 - [Srikanth Reddy](https://github.com/srikanthreddy1808)
 - [NaClCode](https://github.com/NaClCode)
