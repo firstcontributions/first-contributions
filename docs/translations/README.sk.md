@@ -124,4 +124,3 @@ Teraz vám už nič nebráni v prispievaní do ostatných projektov. Pripravili 
 |---|---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md )|[Visual Studio Code](../github-windows-vs-code-tutorial.md)|
 
-- Nebojte sa robiť chyby, pull request sa dá opraviť.
