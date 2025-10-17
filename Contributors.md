@@ -18,6 +18,7 @@
 - [Zihan Zhu](https://github.com/zihanz2025)
 - [Vaibhav Umbarkar](https://github.com/vaibhav-umbarkar)
 - [Vaishnavi](https://github.com/Vaishnavinayak08)
+- [Akash](https://github.com/akaraj187)
 - [Rahul Soni](https://github.com/grksoni)
 - [Arthur Campana] (https://github.com/arthurcampana)
 - [anjali-ojha17](https://github.com/anjali-ojha17)
