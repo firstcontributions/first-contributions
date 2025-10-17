@@ -1136,6 +1136,7 @@
 - [dylan-sacco](https://github.com/dylan-sacco)
 - [git-gud-jim](https://github.com/git-gud-jim)
 - [Erick Passos](https://github.com/erickcpassos)
+- [Harshendu S](https://github.com/quantambites)
 - [harshit](https://github.com/harshitpatel862)
 - [hudabikhoir](https://github.com/hudabikhoir)
 - [isaacbelles](https://github.com/isaacbelles)
