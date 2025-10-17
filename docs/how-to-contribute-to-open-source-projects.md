@@ -3,7 +3,6 @@
 TL;DR If you're eager to do your first pull request to an open source project, follow the instructions in [Readme](https://github.com/firstcontributions/first-contributions)
 
 Contributing to open source is one of the most rewarding ways to grow as a developer, build your portfolio, and give back to the community. Whether you're a seasoned programmer or just starting out, open source offers endless opportunities to learn, collaborate, and make an impact. In this guide, we’ll walk you through everything you need to know about contributing to open source, from finding the right project to making your first contribution.
-
 ## Why Contribute to Open Source?
 
 Before diving into the "how," let’s explore the "why." Contributing to open source offers numerous benefits:
