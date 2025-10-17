@@ -1,6 +1,7 @@
 # Contributors
 - [Joao Guilherme Felizardo](https://github.com/JoaoCaconde)
 - [Vishnudas Nayak P](https://github.com/VishnudasNayakP)
+- [Samyuktha S](https://github.com/samyuktha2004/)
 - [Jason Lamb](https://github.com/jasrasr)
 - [Shaurya Tamang](https://github.com/GoTouchGra55)
 - [Arthur Umerov](https://github.com/aumerov)
