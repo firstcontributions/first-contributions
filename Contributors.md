@@ -1,4 +1,5 @@
 # Contributors
+
 - [Daksh Pathak](https://github.com/dakshhhhh16)
 - [Ronin](https://github.com/iamroninfr)
 - [Joao Guilherme Felizardo](https://github.com/JoaoCaconde)
@@ -863,6 +864,7 @@
 - [HVentura 👋](https://github.com/hventura)
 - [Hari Nivedhan](https://github.com/hari7niv)
 - [Hector-Ventura](https://github.com/0Label0)
+- [Raissa Nazaré ](https://github.com/rajssq)
 - [Hossain Rion](https://github.com/best-rion)
 - [Irfan khan](https://github.com/khanirfan18)
 - [Iris Christa](https://github.com/I-christa)
@@ -1850,8 +1852,6 @@
 - [2emeagauche](https://github.io/2emeagauche)
 - [s1mply-opel](https://github.com/s1mply-opel)
 - [Mishu](https://github.com/Mishu03)
-- [Leonardop448](https://github.com/Leonardop448)
--[Anushka Shree Bajpai](https://github.com/anushkaabajpaiii)
-[sasank](https://github.com/sasankgit) -" just did this for fun idk what this repo is"
+- [Leonardop448](https://github.com/Leonardop448) -[Anushka Shree Bajpai](https://github.com/anushkaabajpaiii)
+  [sasank](https://github.com/sasankgit) -" just did this for fun idk what this repo is"
 - [Abdulmoen Abo Saleh](https://github.com/ABDULMOEN)
-
