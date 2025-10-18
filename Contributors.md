@@ -21,6 +21,7 @@
 - [amarmerada](https://github.com/amarmerada99)
 - [Vikas Mishra](https://github.com/vikasmishra1691)
 - [Arka Banerjee](https://github.com/thearkabanerjee)
+- [aditya_D](https://github.com/aditya-dalal-24)
 - [Eliezer-r](https://github.com/Eliezer-R)
 - [Asmodeuos](https://github.com/Asmodeuos)
 - [Atul Vishwakarma](https://github.com/atulvishw240)
