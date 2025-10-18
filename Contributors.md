@@ -884,6 +884,7 @@
 - [Jon Compton](https://github.com/joncompton)
 - [Rob Webb](https://github.com/rdawebb)
 - [Jonas Mikosch](https://github.com/jomik101)
+  [Shivam Jaiswal](https://github.com/heyshivamjaiswal)
 - [Jordan Atkins](https://github.com/Atkinss1)
 - [Jose Nieto](https://github.com/nietojose10)
 - [Joshua Luca](https://github.com/joshluca98)
