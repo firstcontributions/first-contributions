@@ -10,7 +10,9 @@
 - [Yesebu](https://github.com/MylapalliYesebu) - "First open-source contribution — learning by doing"
 - [Shaurya Tamang](https://github.com/GoTouchGra55)
 - [Arthur Umerov](https://github.com/aumerov)
+- [Shriya Aggarwal](https://github.com/shriyaagg)
 - [sik9252](https://github.com/sik9252)
+-[adams1864](https://github.com/adams1864)
 - [Shriya Sharma](https://github.com/Shriya-23)
 - [namest504](https://github.com/namest504)
 - [manasab805](https://github.com/manasab805)
@@ -100,6 +102,7 @@
 - [Harsh Gupta](https://github.com/HarshGupta-09)
 - [Kurt Schwimmbacher](https://github.com/KurtSchwimmbacher)
 - [Aaromal A](https://github.com/aaromalonline)
+- [Mayank Kashyap](https://github.com/oneglitchx)
 - [Aman Gupta](https://github.com/aman-devx)
 - [Sowo R](https://github.com/sowo5)
 - [vipul]
@@ -369,6 +372,7 @@
 - [Madan A](https://github.com/maddy-aleti)
 - [X S Minisha Alias Lincy](https://github.com/minishalincy)
 - [Magonborn](https://github.com/MagonBorn)
+  [Mohan](https://github.com/mohan0837v)
 - [Esraa Kandil](https://github.com/esraa-k)
 - [Maruthi S](https://github.com/JSMaruthi)
 - [Jeff Tunner](https://github.com/JeffTunner)
@@ -1856,6 +1860,10 @@
 - [s1mply-opel](https://github.com/s1mply-opel)
 - [Mishu](https://github.com/Mishu03)
 - [Leonardop448](https://github.com/Leonardop448)
--[Anushka Shree Bajpai](https://github.com/anushkaabajpaiii)
-[sasank](https://github.com/sasankgit) -" just did this for fun idk what this repo is"
+- [Anushka Shree Bajpai](https://github.com/anushkaabajpaiii)
+- [sasank](https://github.com/sasankgit) -" just did this for fun idk what this repo is"
+- [Amany Fawzy](https://github.com/Amany01)
 - [Abdulmoen Abo Saleh](https://github.com/ABDULMOEN)
+- [SakuraPuare](https://github.com/SakuraPuare)
+- [Vaishnavi Kashyap](https://github.com/vaishnavikashyap-07)
+-[Milan Christy](https://github.com/dev-ploy)
