@@ -1,6 +1,6 @@
 # How to Contribute to Open Source: A Comprehensive Guide for Beginners
 
-TL;DR If you're eager to do your first pull request to an open source project, follow the instructions in [Readme](https://github.com/firstcontributions/first-contributions)
+TL;DR If you're eager to make your first pull request to an open source project, follow the instructions in [README](https://github.com/firstcontributions/first-contributions)
 
 Contributing to open source is one of the most rewarding ways to grow as a developer, build your portfolio, and give back to the community. Whether you're a seasoned programmer or just starting out, open source offers endless opportunities to learn, collaborate, and make an impact. In this guide, we’ll walk you through everything you need to know about contributing to open source, from finding the right project to making your first contribution.
 
@@ -45,6 +45,8 @@ Begin with small, manageable tasks to build confidence:
 When contributing, adhere to the project’s guidelines:
 
 *   Fork and Clone: Fork the repository and clone it to your local machine.
+  <img width="460" height="249" alt="image" src="https://github.com/user-attachments/assets/31cabb6a-0bf1-45cd-ac51-ee5d63f06818" />
+
 *   Create a Branch: Work on a separate branch for your changes.
 *   Write Clean Code: Follow the project’s coding standards and write clear, concise code.
 *   Test Your Changes: Ensure your changes don’t break existing functionality.
