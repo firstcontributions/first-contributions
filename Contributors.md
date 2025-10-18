@@ -1691,6 +1691,7 @@ ketan choudhari
 - [Alyna Liegl](https://github.com/alynaliegl) — Excited to contribute to open-source!
 - [Shaun Wang](https://github.com/Solarz4scratch/)
 - [MG-Edu](https://github.com/mg-edu)
+- [Yangchen Sherpa](https://github.com/yonasherpa04) -Excited to contribute to open- source!
 - [Tangguh D Pramono](https://github.com/TangguhDP) - Yup back at it!
 - [Guaresu](https://github.com/guaresu) - all the best for you
 - [Onur Çelebi](https://github.com/onurcelebi)s
