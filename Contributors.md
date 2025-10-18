@@ -1783,6 +1783,7 @@
 - [zbin](https://github.com/zbin)
 - [Parth Mittal](https://github.com/afk-Parth)
 - [Kaushal Kadam](https://github.com/zack047)
+- [Kodirov Samir] (https://github.com/Kodirov2samir)
 - [Ghanshyam Jha](https://github.com/GhanshyamJha05)
 - [J.C. Ofili](https://github.com/ofilijude01)
 - [hARIsanka6](https://github.com/hARIsanka6)
