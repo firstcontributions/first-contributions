@@ -8,6 +8,7 @@
 - [Jason Lamb](https://github.com/jasrasr)
 - [Shaurya Tamang](https://github.com/GoTouchGra55)
 - [Arthur Umerov](https://github.com/aumerov)
+- [Shriya Aggarwal](https://github.com/shriyaagg)
 - [sik9252](https://github.com/sik9252)
 - [Shriya Sharma](https://github.com/Shriya-23)
 - [namest504](https://github.com/namest504)
