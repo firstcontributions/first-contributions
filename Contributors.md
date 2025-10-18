@@ -69,6 +69,7 @@
 - [Dharmendra Solanki](https://github.com/ProgrammingPirates)
 - [Ryno de Beer](https://github.com/Rynoo1)
 - [Ahtisham Shaikh](https://github.com/Ahtisham-1214)
+- [Noe Hernandez](https://github.com/kreeptales)
 - [Jayashankar R J](https://github.com/RJJayashankar)
 - [Faizan_Deshmukh](https://github.com/faizan1317)
 - [Saksham Singh](https://github.com/apexsaksham)
