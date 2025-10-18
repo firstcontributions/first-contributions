@@ -872,6 +872,7 @@
 - [HVentura 👋](https://github.com/hventura)
 - [Hari Nivedhan](https://github.com/hari7niv)
 - [Hector-Ventura](https://github.com/0Label0)
+- [Raissa Nazaré ](https://github.com/rajssq)
 - [Hossain Rion](https://github.com/best-rion)
 - [Irfan khan](https://github.com/khanirfan18)
 - [Iris Christa](https://github.com/I-christa)
@@ -1866,4 +1867,4 @@
 - [Abdulmoen Abo Saleh](https://github.com/ABDULMOEN)
 - [SakuraPuare](https://github.com/SakuraPuare)
 - [Vaishnavi Kashyap](https://github.com/vaishnavikashyap-07)
--[Milan Christy](https://github.com/dev-ploy)
+- [Milan Christy](https://github.com/dev-ploy)
