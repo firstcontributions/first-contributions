@@ -1839,6 +1839,8 @@
 - Nabila Renno
 - [Sakshi Jha](https://github.com/SakshlJhAaaaaa)
 - [abdulsalam Abulwafa](https://github.com/abu-wafa)
+- [Mohamed Ibrahim](https://github.com/ibrahim307le)
+- [Shubham Gupta](https://github.com/DancingPeacock-31)
 - [Randomints](https://github.com/randomints) - why do all the little messages have "" around them? also i use nvim btw
 - [Mohamed Ibrahim](https://github.com/ibrahim307le)
 - [Lokesh Janga](https://github.com/Lokeshjanga) - 'This looks like a Dopamine iykyk'
