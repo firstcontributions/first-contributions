@@ -1859,8 +1859,9 @@
 - [s1mply-opel](https://github.com/s1mply-opel)
 - [Mishu](https://github.com/Mishu03)
 - [Leonardop448](https://github.com/Leonardop448)
--[Anushka Shree Bajpai](https://github.com/anushkaabajpaiii)
-[sasank](https://github.com/sasankgit) -" just did this for fun idk what this repo is"
+- [Anushka Shree Bajpai](https://github.com/anushkaabajpaiii)
+- [sasank](https://github.com/sasankgit) -" just did this for fun idk what this repo is"
+- [Amany Fawzy](https://github.com/Amany01)
 - [Abdulmoen Abo Saleh](https://github.com/ABDULMOEN)
 - [SakuraPuare](https://github.com/SakuraPuare)
 - [Vaishnavi Kashyap](https://github.com/vaishnavikashyap-07)
