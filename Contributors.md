@@ -528,6 +528,7 @@
 - [Harsh Singh](https://github.com/singhharsh29)
 - [HighPoly](https://github.com/HighPolygon)
 - [VishnuPriyaSingamReddy](https://github.com/VishnuPriyaSingamReddy) -[Ritu Raj](https://github.com/Ritu14012004)
+- [Quantumgoku](https://github.com/Quantumgoku)
 - [Ian McManus](https://github.com/ianmcman)
 - [Jose Soto](https://github.com/jossotriv)
 - [Iman Chandrasiri](https://github.com/Iman0810)
