@@ -1,4 +1,5 @@
 # Contributors
+
 - [Daksh Pathak](https://github.com/dakshhhhh16)
 - [Ronin](https://github.com/iamroninfr)
 - [Joao Guilherme Felizardo](https://github.com/JoaoCaconde)
@@ -6,6 +7,7 @@
 - [Khaled Abdelrahman](https://github.com/khaleed2002)
 - [Rayan Mamhoud](https://github.com/ryanneekidev)
 - [Jason Lamb](https://github.com/jasrasr)
+- [Yesebu](https://github.com/MylapalliYesebu) - "First open-source contribution — learning by doing"
 - [Shaurya Tamang](https://github.com/GoTouchGra55)
 - [Arthur Umerov](https://github.com/aumerov)
 - [Shriya Aggarwal](https://github.com/shriyaagg)
@@ -15,7 +17,7 @@
 - [namest504](https://github.com/namest504)
 - [manasab805](https://github.com/manasab805)
 - [Aravind Rao](https://github.com/rekcilyssup)
-- [Robert Schacht](https://github.com/rsschacht
+- [Robert Schacht](https://github.com/rsschacht)
 - [amarmerada](https://github.com/amarmerada99)
 - [Vikas Mishra](https://github.com/vikasmishra1691)
 - [Arka Banerjee](https://github.com/thearkabanerjee)
@@ -27,7 +29,7 @@
 - [Vaishnavi](https://github.com/Vaishnavinayak08)
 - [Akash](https://github.com/akaraj187)
 - [Rahul Soni](https://github.com/grksoni)
-- [Arthur Campana] (https://github.com/arthurcampana)
+- [Arthur Campana](https://github.com/arthurcampana)
 - [anjali-ojha17](https://github.com/anjali-ojha17)
 - [Kavinila_L](https://github.com/KavinilaLoganathan-2507)
 - [Nsiru Williams](https://github.com/Cokekoro)
@@ -51,7 +53,7 @@
 - [Yash Kumar Rana](https://github.com/YashRana52)
 - [Huzaifa Ghori](https://github.com/Huzaifa1910)
 - [Tiago Tomé](https://github.com/sheizo)
-- [Martin] (https://github.com/mtarotML)
+- [Martin](https://github.com/mtarotML)
 - [tmestery](https://github.com/tmestery)
 - [Bhuvanesh](https://github.com/bhw-git)
 - [Mohd Hammad Yousuf]
@@ -104,7 +106,7 @@
 - [Aman Gupta](https://github.com/aman-devx)
 - [Sowo R](https://github.com/sowo5)
 - [vipul]
-- PB (https://github.com/PierreBatikh)
+- [PB](https://github.com/PierreBatikh)
 - [Sangeetha Dhanasekar]
 - [Tudor Gradinaru](https://github.com/TudorGR)
 - [Pushkar Sabe](https://github.com/pushkarsabe)
@@ -944,9 +946,8 @@
 - [Mohammad Rehaan](https://github.com/MohammadRehaanDev)
 - [Sam Ruiz](https://github.com/LiebesleidSam)
 - [Samuel Maxey](https://github.com/SMAX-byte)
-- [Sanjeev]() Grabbing oppurtunities flawlessly
+- [Sanjeev](Grabbing oppurtunities flawlessly)
 - [Sashin Trout](https://github.com/sashin123)
-
 - [Sean Calderon](https://github.com/rimorgin)
 - [Shamir Ali](https://github.com/ShamirAli55)
 - [ShatnauTSA](https://github.com/shantanuTSA)
@@ -1723,7 +1724,7 @@
 - [Zoe Gorbachev](https://github.com/hbghujnhunjj)
 - [Thanh Vũ](https://github.com/vu221604-creator)
 - [Dozerokz](https://github.com/dozerokz)
-- [ heyilingran](https://github.com/heyilingran)
+- [heyilingran](https://github.com/heyilingran)
 - [Alyna Liegl](https://github.com/alynaliegl) — Excited to contribute to open-source!
 - [Shaun Wang](https://github.com/Solarz4scratch/)
 - [MG-Edu](https://github.com/mg-edu)
