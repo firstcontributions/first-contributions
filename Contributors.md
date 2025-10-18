@@ -1805,6 +1805,7 @@
 - [Mudiam Veera Rohith Reddy](https://github.com/rohithredddy)
 - [Navodhya Fernando](https://github.com/Navodhya-Fernando)
 - [Sakura Magic](https://github.com/SakuraMagic225)
+- [Debut Coder] 
 - [anushka kandhway](https://github.com/kandhwayanushka-hue/first-contributions.git)
 - [Gadri Dev](https://github.com/Gadridev)
 - [Vijay Sarathy](https://github.com/vijmeister)
