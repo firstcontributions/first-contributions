@@ -86,7 +86,7 @@ Documentation is typically the part of a project that gets short shrift.
 It also can suffer from having been written from the point of view of those who are familiar with the project, rather than through the eyes of someone just getting into it.
 If you've ever read docs for a project where you think, "It's as though this manual expects that I already know how to use the package," you know what I'm talking about.
 Often a set of fresh eyes can point out deficiencies in the documentation that those close to the project don't notice.
-
+<!-- There should be information or pictures on how to comment because it was very hard for me to figure out  -->
 11. **Create an example**: There is no project that has too many how-to examples.
 Whether it's a web API, a library of routines, a GUI app like Gimp or a command line tool,
 a good example of proper usage can more clearly and quickly explain proper usage of software than pages of documentation.
