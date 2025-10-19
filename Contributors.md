@@ -1897,3 +1897,4 @@
 - [Miku Amano](https://github.com/Rikublender3d)
 - [Sneha](https://github.com/Sneha41sb)
 - [Akriti Kumari](https://github.com/AKRITI-ENG)
+- [Aditya Maharshi](https://github.com/Aditya-maharshi)
