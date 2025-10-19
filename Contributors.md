@@ -1,4 +1,5 @@
 # Contributors
+
 - [Swati-Londhe](https://github.com/swati-londhe)
 - [Ashik Ahmed](https://github.com/ashikahmed05)
 - [Samandar Ibragimov](https://github.com/SamandarIbragimov)
@@ -9,6 +10,7 @@
 - [Khaled Abdelrahman](https://github.com/khaleed2002)
 - [Rayan Mamhoud](https://github.com/ryanneekidev)
 - [Jason Lamb](https://github.com/jasrasr)
+- [Khaled Al Katheri](https://github.com/KhaledAlKatheri)
 - [Yesebu](https://github.com/MylapalliYesebu) - "First open-source contribution — learning by doing"
 - [Shaurya Tamang](https://github.com/GoTouchGra55)
 - [Arthur Umerov](https://github.com/aumerov)
