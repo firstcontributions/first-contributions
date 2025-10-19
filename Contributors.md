@@ -1,5 +1,5 @@
 # Contributors
-
+- [Swati-Londhe](https://github.com/swati-londhe)
 - [Samandar Ibragimov](https://github.com/SamandarIbragimov)
 - [Daksh Pathak](https://github.com/dakshhhhh16)
 - [Ronin](https://github.com/iamroninfr)
@@ -12,7 +12,9 @@
 - [Shaurya Tamang](https://github.com/GoTouchGra55)
 - [Arthur Umerov](https://github.com/aumerov)
 - [Shriya Aggarwal](https://github.com/shriyaagg)
-- [sik9252](https://github.com/sik9252) -[adams1864](https://github.com/adams1864) -[Anash Pathan](https://github.com/anash56)
+- [sik9252](https://github.com/sik9252)
+- [adams1864](https://github.com/adams1864)
+- [Anash Pathan](https://github.com/anash56)
 - [Shaurya](https://github.com/Shaurya-34)
 - [Nanda Kumudhan](https://github.com/Na832938)
 - [Shriya Sharma](https://github.com/Shriya-23)
@@ -796,6 +798,7 @@
 - [marcuscs00](https://github.com/marcuscs00)
 - [mishafisha](https://github.com/mishafisha)
 - [mohana0304](https://github.com/mohana0304)
+- [TimUfer] (https://github.com/TimUfer)
 - [nishida675](https://github.com/nishida675)
 - [oluwasegun](https://github.com/Optimist19)
 - [oogway-x3t](https://github.com/oogway-x3t)
@@ -1888,3 +1891,4 @@
 - [Roshan Reji](https://github.com/RoshanBtech)
 - [Stuti Rai](https://github.com/stuti1502)
 - [Dinan Dias](https://github.com/DinanDias)
+- [Miku Amano](https://github.com/Rikublender3d)
