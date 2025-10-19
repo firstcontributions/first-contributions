@@ -1503,6 +1503,7 @@
 - [Pavitharan V](https://github.com/Pavitharan02)
 - [Nitesh Vasave](https://github.com/ni2-vsv11)
 - [Rafael Severo](https://github.com/rafaeumesmo)
+- [Jyothsna Sharma](https://github.com/jyothsnasharma7)
 - [Chetan Ranganath](https://github.com/chetan-ranganath)
 - [Adarsh Raj](https://github.com/itsrajadarsh)
 - [Rahul Parihar](https://github.com/Parihar-Dev)
