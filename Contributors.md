@@ -74,6 +74,7 @@
 - [Noe Hernandez](https://github.com/kreeptales)
 - [Jayashankar R J](https://github.com/RJJayashankar)
 - [Faizan_Deshmukh](https://github.com/faizan1317)
+- [Andrew_Yuan](https://github.com/YuKiAndrew)
 - [Saksham Singh](https://github.com/apexsaksham)
 - [ErosiveNoise](https://github.com/ErosiveNoise)
 - [Jose](https://github.com/NaturalTC)
