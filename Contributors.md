@@ -32,6 +32,7 @@
 - [Atul Vishwakarma](https://github.com/atulvishw240)
 - [Zihan Zhu](https://github.com/zihanz2025)
 - [Vaibhav Umbarkar](https://github.com/vaibhav-umbarkar)
+- [Sneha Priyadarshy](https://github.com/DarpanEndo)
 - [Vaishnavi](https://github.com/Vaishnavinayak08)
 - [Akash](https://github.com/akaraj187)
 - [Rahul Soni](https://github.com/grksoni)
@@ -1814,7 +1815,7 @@
 - [Mudiam Veera Rohith Reddy](https://github.com/rohithredddy)
 - [Navodhya Fernando](https://github.com/Navodhya-Fernando)
 - [Sakura Magic](https://github.com/SakuraMagic225)
-- [Debut Coder] 
+- [Debut Coder]
 - [anushka kandhway](https://github.com/kandhwayanushka-hue/first-contributions.git)
 - [Gadri Dev](https://github.com/Gadridev)
 - [Vijay Sarathy](https://github.com/vijmeister)
