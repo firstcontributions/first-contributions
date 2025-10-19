@@ -1868,6 +1868,7 @@
 - [Lokesh Janga](https://github.com/Lokeshjanga) - 'This looks like a Dopamine iykyk'
 - [Hesham Omar](https://github.com/heshamoomar)
 - [Victoria Kilgore](https://github.com/kilgorev) - "Cats, Crochet, and Code"
+- [Divyansh Gupta](https://github.com/divyansh1099) - "Go Devils!"
 - [Carlos Murillo](https://github.com/CMurilloCamacho)
   <<Abhishek/@planksconstant>>
 - [Charmine Tan](https://github.com/Charmine-Tan-Renbao)
