@@ -1438,6 +1438,7 @@
 - [Gaurav patil](https://github.com/Gauravpatil1)
 - [Gaurav patil](https://github.com/Gauravpatil1)
 - [Gerdzhikov23](https://github.com/Gerdzhikov23)
+- [Ikuya Fujikawa](https://github.com/ikuoikuo)
 - [Giovanna Cortez](https://github.com/annavoigg)
 - [Guilherme Andrade](https://github.com/ZeroRBK)
 - [Gurparsad Singh](https://github.com/gprathour)
