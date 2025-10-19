@@ -1897,3 +1897,4 @@
 - [Miku Amano](https://github.com/Rikublender3d)
 - [Sneha](https://github.com/Sneha41sb)
 - [Akriti Kumari](https://github.com/AKRITI-ENG)
+- [Serg Romanov](https://github.com/redhot075)
