@@ -197,4 +197,10 @@ Ceci n'est pas nécessaire, mais le nom de la branche montre que son objectif es
 
 ## Où aller ensuite ?
 
-Si vous souhaitez contribuer au code, consultez notre [dépôt GitHub de contributions au code](https://github.com/roshanjossey/code-contributions).
+Félicitations ! Vous venez de terminer le workflow standard _fork -> clone -> edit -> pull request_ workflow que vous rencontrerez souvent en tant que contributeur !
+
+Célébrez votre contribution et partagez-la avec vos amis et abonnés en allant sur [web app](https://firstcontributions.github.io/#social-share).
+
+Si vous souhaitez plus de pratique, consultez [code contributions](https://github.com/roshanjossey/code-contributions).
+
+Commençons maintenant à contribuer à d'autres projets. Nous avons compilé une liste de projets avec des problèmes simples à résoudre. Découvrez-les [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
