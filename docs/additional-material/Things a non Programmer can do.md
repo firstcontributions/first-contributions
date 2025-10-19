@@ -35,6 +35,8 @@ Is it repeatable? Can you create a set of steps to cause the problem repeatedly?
 Even if you don't know what causes the problem, the effort you put into narrowing down the circumstances makes it easier for someone else to fix it.
 Whatever you discover, add it to the ticket in the bug system for all to see.
 
+**Work With Code (even if you aren't a programmer)**
+
 5. **Close fixed bugs**: Often bugs are fixed in the codebase but tickets reported about them don’t get updated in the ticketing system.
 Cleaning up this cruft can be time-consuming, but it's valuable to the whole project.
 
@@ -56,6 +58,8 @@ Each project has its own workflow, so ask about how to do it before you set out 
 For example, the PostgreSQL project is very rigorous in its process: Code modifications are sent in patch form to a mailing list where core developers scrutinize every aspect of the change. On the other end is a project like Parrot where it's easy to get commit privileges to the codebase. If the project uses GitHub, there may be a workflow that uses the pull request feature of GitHub. No two projects are the same.
 
 Whenever you modify code, make sure that you act as a responsible member of the community and keep your code style to match the rest of the codebase. The code you add or modify should look like the rest. You might not like the bracing style or the handling of spaces for indentation, but it's rude to submit a code change that doesn't match the existing standards. It's the same as saying "I don't like your style, and I think mine is better, so you should do it my way."
+
+**Testing and Documentation**
 
 6. **Test a beta or release candidate**: Any project that's designed to run on multiple platforms can have all sorts of portability problems.
 When a release approaches and a beta or release candidate is published, the project leader hopes that it will be tested by many different people on many different platforms.
@@ -94,27 +98,29 @@ For an API or library, create an example program that uses the tool. This could 
 For a tool, show real-world examples of how you've used it in your daily life. If you’re visually oriented,
 consider creating a screen-capture of an important process, such as how to install the application.
 
+**Community and Outreach**
+
 Work with Community
 Open source is only partly about code. Community makes open source work. Here are ways you can help build it up.
 
-12. **Answer a question**: The best way to help build the community is by helping others.
+13. **Answer a question**: The best way to help build the community is by helping others.
 Answering a question, especially from someone who is just getting their feet wet, is crucial to helping the project grow and thrive.
 The time you take to help a beginner, even if they're asking a question where you could easily throw back a quick "RTFM," pays off down the road in getting another active member of the community.
 Everyone starts out somewhere, and projects need a constant inflow of people if they're to stay vital.
 
-13. **Write a blog post**:
+14. **Write a blog post**:
 If you've got a blog, write about your experiences with the project that you're using.
 Tell about a problem you faced using the software and what you did to solve it.
 You'll be helping in two ways, both by helping keep the project on the minds of others around you,
 and by creating a record for anyone else who has your problem in the future  and searches the web for the answer.
 (A blog of your technical adventures is also an excellent way to show real-world experience with the software in question next time you go hunting for a job using it.)
 
-14. **Improve a website**:
+15. **Improve a website**:
 If you've got skills in web design and can help improve the website, and thus the public-facing image of the project, that's time well spent.
 Perhaps the project could use a graphic overhaul, or a logo to identify the project.
 These may be skills lacking in the community. I know I'd love it if I could get some graphic design help on my projects' websites.
   
-15. **Write technical documentation**
+16. **Write technical documentation**
 If you can write about how an application or piece of software works, you could write technical documentation about it. Especially open source projects that are looking to update, revamp, expand, or create technical docs for the general public to read. The more you write in plain english, the better. The best part, you don't have to be a programmer to write technical docs.
 
 Most of all, listen to what people around you discuss. See if you can recognize a pressing need. For instance, recently on the Parrot developers' mailing list, it was decided to use GitHub as the trouble ticket system, abandoning the old Trac installation they had. Some people were against the move because there was no way to convert the tickets to GitHub's system. After a day of back and forth arguing, I piped up and said "How about if I write a converter?" People were thrilled at the idea. I spent the time to write a conversion program for the 450+ tickets, so we lost none of our ticket history. It was a great success.  I got to pitch in, and the core developers stayed focused on the business of working on Parrot.
