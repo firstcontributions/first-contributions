@@ -1,5 +1,4 @@
 # Contributors
-
 - [Swati-Londhe](https://github.com/swati-londhe)
 - [Ashik Ahmed](https://github.com/ashikahmed05)
 - [Samandar Ibragimov](https://github.com/SamandarIbragimov)
