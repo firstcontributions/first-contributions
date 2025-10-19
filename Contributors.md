@@ -1,5 +1,5 @@
 # Contributors
--[Swati-Londhe](https ://https://github.com/swati-londhe)
+- [Swati-Londhe](https://github.com/swati-londhe)
 - [Samandar Ibragimov](https://github.com/SamandarIbragimov)
 - [Daksh Pathak](https://github.com/dakshhhhh16)
 - [Ronin](https://github.com/iamroninfr)
@@ -13,8 +13,8 @@
 - [Arthur Umerov](https://github.com/aumerov)
 - [Shriya Aggarwal](https://github.com/shriyaagg)
 - [sik9252](https://github.com/sik9252)
--[adams1864](https://github.com/adams1864)
--[Anash Pathan](https://github.com/anash56)
+- [adams1864](https://github.com/adams1864)
+- [Anash Pathan](https://github.com/anash56)
 - [Shaurya](https://github.com/Shaurya-34)
 - [Nanda Kumudhan](https://github.com/Na832938)
 - [Shriya Sharma](https://github.com/Shriya-23)
