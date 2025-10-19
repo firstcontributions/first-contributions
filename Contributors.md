@@ -1426,6 +1426,7 @@
 - [Duncan Huisamen](https://github.com/DHuisamen)
 - [Duoduo](https://github.com/NamingRacksMyBrain)
 - [Eduard Requena](https://github.com/erequena81)
+- [Nikash M.S.](https://github.com/msnikash)
 - [EricccTaiwan](https://github.com/EricccTaiwan)
 - [Esteban Leyes](https://github.com/Esteban3010)
 - [Esther Kalsmith](https://github.com/EstherKal)
