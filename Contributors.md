@@ -870,6 +870,7 @@
 - [Cristian Rios](https://github.com/rioscris)
 - [DMS Menula](https://github.com/DMS-Menula/)
 - [Daiwiik Harihar](https://github.com/daiv09)
+- [Rehaoulia](https://github.com/Rehaoulia)
 - [Daniel Oviedo](https://github.com/damo0615)
 - [Danyal Ejaz](https://github.com/danyalejaz)
 - [Dev Gaonkar](https://github.com/DevGaonkar)
