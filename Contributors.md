@@ -574,6 +574,7 @@
 - [Kavya Vadla](https://github.com/kvadla06)
 - [Kyusan Kim](https://github.com/5tarlight)
 - [Leola](https://github.com/leolalopeslobo)
+- [Albritt](https://github.com/Albritt)
 - [Leon Deppe](https://github.com/leondeppe)
 - [LiuSam](https://www.youtube.com/CommitKU)
 - [Livia Neto](https://github.com/LiviaNeto)
