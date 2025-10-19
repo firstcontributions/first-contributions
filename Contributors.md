@@ -1,5 +1,6 @@
 # Contributors
-
+- [Prashant Singh](https://github.com/its-bnf-cwalker)
+- [Shreeganesh Nayak](https://github.com/Shreeganeshhere)
 - [Swati-Londhe](https://github.com/swati-londhe)
 - [Galan Kresna](https://github.com/glnKresna)
 - [Ashik Ahmed](https://github.com/ashikahmed05)
@@ -871,6 +872,7 @@
 - [Cristian Rios](https://github.com/rioscris)
 - [DMS Menula](https://github.com/DMS-Menula/)
 - [Daiwiik Harihar](https://github.com/daiv09)
+- [Rehaoulia](https://github.com/Rehaoulia)
 - [Daniel Oviedo](https://github.com/damo0615)
 - [Danyal Ejaz](https://github.com/danyalejaz)
 - [Dev Gaonkar](https://github.com/DevGaonkar)
@@ -1502,6 +1504,7 @@
 - [Pavitharan V](https://github.com/Pavitharan02)
 - [Nitesh Vasave](https://github.com/ni2-vsv11)
 - [Rafael Severo](https://github.com/rafaeumesmo)
+- [Jyothsna Sharma](https://github.com/jyothsnasharma7)
 - [Chetan Ranganath](https://github.com/chetan-ranganath)
 - [Adarsh Raj](https://github.com/itsrajadarsh)
 - [Rahul Parihar](https://github.com/Parihar-Dev)
@@ -1906,3 +1909,7 @@
 - [Serg Romanov](https://github.com/redhot075)
 - [Om Kumar](https://github.com/Omkumar2003)
 - [Aditya Maharshi](https://github.com/Aditya-maharshi)
+- [Nate](https://github.com/NateGehl24)
+- [Prajwal Khade](https://github.com/Prajwal1905)
+- [Soundarya D](https://github.com/soundaryad-20)
+- [Poorvika](https://github.com/poorvikaa08)
