@@ -1,143 +1,138 @@
-[![Houb el tatbi9ate el hourra](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
+# أول مشاركة 🇩🇿
 
+دايمن كاين مشكلة كي نبداو حاجة من البداية. الخوف تاع الدير خطأ دايمن ماشي مليح، خصوصاً كي تشارك في الكود. بصح عالم التطبيقات الحرة موجود باش تشارك وتخدم في مجموعة. تاني، رانا حابين نبسطو التعليمة تاع المشاركة الجديدة فالتطبيقات الحرة بالتعليم كيفاش تشارك للمرة الأولى.
 
-# Awel mouchraka 🇩🇿
+تقرا مقالات والتوتو تقدر تعاونك، بصح واش هو أفضل من تحاول تسيي بلا ما الدير أخطاء؟ هذا المشروع مديور باش يعطي نصايح ويسهل طريقة كيفاش اللي مايعرفوش باش يديرو المشاركة الأولى تاعهم. اتفكر: قدما تكون أليز، قدما تتعلم بزاف. ولا راك حاب تشارك للمرة الأولى، تبع الخطوات الجاية. والله، راح تكون مسلية.
 
-Dayemen kayen mochkile ki nebdaw hadja men el bidaya. El khawof ta3 edire khatae daymen machi melih, khousousan ki techarek fi el code. Bessah 3alem el tatbi9ate el hourine mawodjoud bache etcharek wo tekhdem fi madjemou3a. Tani, Rana habine nebesstou el ta3lime ta3 el moucharraka el djadidda fel tatbi9ate el hourra bi ta3lime kifache techarek lil merra el oulla.
+## فورك هذا الڨاراج
 
-Te9rra ma9alate wa les tutos te9derre te3awonek, bessah wache howa afdel mine tehawolle tessiyi bela ma eddire akhtae ? Hadda el machrou3 medyoure bache yaa3ti nassaihe wo y ssahel tari9ate kifache li maya3rfouche bache eydirrou el moucharaka el oulla ta3houme. Etfekare : 9edma tekoune alaise, 9edma tet3alem bezaf. Wolla rak hab etcharek lel merra el oulla, teba3 el khtouwate el djaya. Wallah, rah tekoune moussaliya.
+فورك الڨاراج كي تكليكي على زر Fork الفوق تاع الصفحة. هذا راح يكريي نسخة طبق الأصل تاع الڨاراج في GitHub تاعك.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="embrancher ce repertoire" />
+## انسخ الڨاراج عندك في البيسي
 
-Wolla ma3endekche git fel ordinateur ta3ek, [ tell3ou be rabet ]( https://help.github.com/articles/set-up-git/ ).
+دورك، انسخ هذا الڨاراج على البيسي ديالك. كليكي على الزر انسخ منبعد اكليكي على الأيكون *كوبي في بغيس بابيي تاعك*.
 
-## Forker hadda el garage (ne3aytoulou tani Fork)
-
-Forker el garage ki teklicker 3ala zire Fork el fow9e ta3 el safeha.
-Hada rah yecrée nousskha tabe9 el assel ta3 el garage fi github ta3ek.
-
-## Enssoukhe el garage 3andek fel PC
-
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clonez ce répertoire" />
-
-Dourka, enssoukhe hada el garage 3ala el PC diyalek. Clické 3ala el zire enssoukhe menba3ede eclicker 3ala l'icone *copié fi presse papier ta3ek*.
-
-Eftah la console ta3 les commandes (ida rak fi windows) wola el terminale (ida rak fi MacOS ou Linux) menba3de cheghale lé commandes git el taliya :
+افتح الكونسول تاع الكوماندات (إذا راك في Windows) ولا الترمينال (إذا راك في MacOS أو Linux) منبعد شغل الكوماند git التالية:
 
 ```
-git clone "l'url eli copietha dourk berk"
-```
-wine "l'url eli copietha dourk berk" (bela lé guillemets) hiya l'url ta3 el garage. chouf fi eli fate men 9abel bache tethassel 3ala l'url.
-
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copier l'URL dans le presse-papier" />
-
-Mithale :
-```
-git clone https://github.com/issem-el-mousstakhdem-ta3ek/first-contributions.git
+git clone "l'url اللي كوبيتها دورك برك"
 ```
 
-wine `issem-el-mousstakhdem-ta3ek` howa issem el mousstakhdem ta3 el compte ta3ek github, hena rak tecopier ga3 el mouhtawa ta3 el garage `first-contributions` mine Github lel PC diyalek.
+وين "l'url اللي كوبيتها دورك برك" (بلا الڨيمات) هي l'url تاع الڨاراج. شوف في اللي فات من قبل باش تتحصل على l'url.
 
-## Ecréyé far3e
+مثلاً:
+```
+git clone https://github.com/اسم-المستخدم-تاعك/first-contributions.git
+```
 
-Rouhe lel garage ta3 el projet eli créyitou djedide mousstenssakhe (edha marakeche déja fih)
+وين `اسم-المستخدم-تاعك` هو اسم المستخدم تاع الكومت تاعك GitHub، هنا راك تكوبي ڨاع المحتوى تاع الڨاراج `first-contributions` من GitHub للبيسي ديالك.
+
+## اكريي فرع
+
+روح للڨاراج تاع البروجي اللي كرييتو جديد مستنسخ (إذا ماراكش ديجا فيه)
 
 ```
 cd first-contributions
 ```
 
-Dourka ecréyé far3e be la commande `git checkout` :
+دورك اكريي فرع بالكوماند `git checkout`:
 
 ```
-git checkout -b <add-essem-diyalek>
+git checkout -b <add-الاسم-ديالك>
 ```
 
-Mithale :
+مثلاً:
 ```
 git checkout -b add-koffi-sani
 ```
-(Esseme el far3e mayahtajeche yekoune fih kelmete *add*, mé hadja meliha loukane yekoune fih hadef lel fare3 wo tezide esseme diyalek lel lista.)
 
-## Dire el taghyirate el mouhima é kemle fiha
+(الاسم الفرع مايحتاجش يكون فيه كلمة *add*، مي حاجة مليحة لوكان يكون فيه الهدف للفرع وتزيد الاسم ديالك للليستة.)
 
-Dourka, efteh el féchiyé `Contributors.md` fi un editeur de text, zid fih assmek, menba3de ahfedou, Idha fetehte le terminal ou derte la commande `git status`, rah etchouf beli kayen taghyérates. Zid hadouk al taghiyérates lel far3e eli créyeteho men 9bel be la commande `git add` :
+## دير التغييرات المهمة وكمل فيها
+
+دورك، افتح الفيشيي `Contributors.md` في محرر النصوص، زيد فيه اسمك، منبعد احفظو. إذا فتحت الترمينال أو درت الكوماند `git status`, راح تشوف بلي كاين تغييرات. زيد هدوك التغييرات للفرع اللي كرييته من قبل بالكوماند `git add`:
+
 ```
 git add Contributors.md
 ```
 
-Dourka, kemel commité hadouk étaghyérates be la commande `git commit`:
+دورك، كمل كوميتي هدوك التغييرات بالكوماند `git commit`:
 
 ```
-git commit -m "Add <essem-diyalek> to Contributors list"
+git commit -m "Add <الاسم-ديالك> to Contributors list"
 ```
-Ghéyere `<essem-diyalek>` bel assem diyalek.
 
-## Eb3athe el tagheyérates fi github
+غير `<الاسم-ديالك>` بالاسم ديالك.
 
-Ebe3athes el taghyérates diyalek be la commande `git push` :
+## ابعث التغييرات في GitHub
+
+ابعث التغييرات ديالك بالكوماند `git push`:
+
 ```
-git push origin <add-essem-diyalek>
+git push origin <add-الاسم-ديالك>
 ```
-Bedel `<add-essem-diyalek>` be esseme el far3e eli créyeteho men 9abel.
 
-## Présenté el taghyérates ta3ek lel fahsse
+بدل `<add-الاسم-ديالك>` باسم الفرع اللي كرييته من قبل.
 
-Idha rahet lel garage diyalek 3ala github, rah etchouffe beli kayen zire `Compare & pull request`, éclické 3ala el zire hadek.
+## برزنتي التغييرات تاعك للفحص
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+إذا رحت للڨاراج ديالك على GitHub، راح تشوف بلي كاين زر `Compare & pull request`، اكليكي على الزر هذاك.
 
-Dourka présenter el talebe diyalek lel fahsse.
+دورك برزنتي الطلب ديالك للفحص.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+في زمان صغير راح ن فيزيوني التغييرات تاعك معا الفرع main تاع البروجي هذا، يوصلك رسالة تاع التغييرات غير كي تندار la fusion كامل.
 
-Fi zamen saghire rah ene fuzioné el taghyérates ta3ek me3a el fare3 main ta3 el projet hada, Yewosselek rissala ta3 el taghyérates ghire ki tendare la fusion kamel.
+الفرع main تاعك ماراحش يصرالو حتى تغيير للآن. باش main تاعك يكون متوافق معا تاعي، لازم تبع هدو الخطوات:
 
-El far3e main ta3ek marahe yessralou hata taghyiére lel ane. Bache main ta3ek yekoune moutwafek me3a ta3i, lazem tabe3 hadou lé el khoutouwates :
+## خلي الـ main تاعك synchronisé معا هذا الڨاراج
 
-## Khelli el main ta3ek synchronisé me3a hada el garage
+باش تبدا، روح للفرع main:
 
- Bache tebda, rouhe lel fare3 main
- ```
- git checkout main
- ```
+```
+git checkout main
+```
 
- Zide l'url ta3 el garage ta3ek ki `upstream remote url` :
+زيد l'url تاع الڨاراج تاعك كي `upstream remote url`:
+
 ```
 git remote add upstream https://github.com/Roshanjossey/first-contributions
 ```
 
-Hada rah tekoune tarika bache te9oule lel git beli kayen version wahdoukhera texister bi had el 3ounwane wo nettb9ou a3lihe `upstream`. Ghire el tagheyérates tet fuzionna, hawosse 3ala la version djedidda ta3 el garrage ta3i :
+هذا راح تكون طريقة باش تقول للـ git بلي كاين version وحدخرى تاكزيستي بهذ العنوان ونتبقو عليه `upstream`. غير التغييرات تت فيزيونا، حوص على la version جديدة تاع الڨاراج تاعي:
+
 ```
 git fetch upstream
 ```
 
-Henya rana nehawossou 3ala teghyérates fel main ta3i (upstream remote). Dourka, rahe tefusioner el taghyére el djadid ta3 el garage ta3i me3a el far3e ta3ek main :
+هنيا رانا نحوصو على تغييرات في الـ main تاعي (upstream remote). دورك، راح تفيزيوني التغيير الجديد تاع الڨاراج تاعي معا الفرع تاعك main:
+
 ```
 git rebase upstream/main
 ```
-Henya rahe neteb9ou ga3 el taghyérates eli rak tehawosse a 3lihoume fel far3e main. Idha be3ate el far3e main dourka, el main ta3ek rahe yekoune howa tani fih taghéyérates :
+
+هنيا راح نتبقو ڨاع التغييرات اللي راك تحوص عليهم في الفرع main. إذا بعثت الفرع main دورك، الـ main تاعك راح يكون هو تاني فيه تغييرات:
+
 ```
 git push origin main
 ```
-Tahedire: Hadi el khetra, rah tebe3aye el garage el be3ide eli assmou origin.
 
-Fi hade el marhala rani fusionite el far3e `<add-essem-diyalek>` me3a el far3e main, wo enta fusionite el far3e main ta3i me3a el far3e main ta3ek. el far3e `<add-essem-diyalek>` maraheche nahtajouhe, edane te9dere tessuprimihe :
+تحذير: هذي الخطرة، راح تبعثاي الڨاراج البعيد اللي اسمو origin.
+
+في هذه المرحلة راني فيزيونيت الفرع `<add-الاسم-ديالك>` معا الفرع main، وانت فيزيونيت الفرع main تاعي معا الفرع main تاعك. الفرع `<add-الاسم-ديالك>` ماراحش نحتاجوه، إذن تقدر تسيبريميه:
 
 ```
-git branch -d <add-essem-diyalek>
+git branch -d <add-الاسم-ديالك>
 ```
-wa aydan te9dere tenihi la version ta3ou fel far3e el be3ide tani :
+
+وأيضاً تقدر تنحيه la version تاعو في الفرع البعيد تاني:
+
 ```
-git push origin --delete <add-essem-diyalek>
+git push origin --delete <add-الاسم-ديالك>
 ```
-Wache cheft henaya machi darouri, bessah assem el far3e yewori beli el hadef rahe moukhassasse.
 
-## Tuto besste3male adawates wahdoukhra
+واش شفت هنايا ماشي ضروري، بصح اسم الفرع يوري بلي الهدف راح مخصص.
 
+## توتو باستعمال أدوات وحدخرى
 
-| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
+| GitHub Desktop | Visual Studio 2017 | GitKraken | Visual Studio Code | Atlassian Sourcetree | IntelliJ IDEA |
 | --- | --- | --- | --- | --- | --- |
-| [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md) | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md) | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md) | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md) | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md) | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md) |
