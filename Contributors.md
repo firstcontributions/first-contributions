@@ -1,5 +1,6 @@
 # Contributors
 
+- [eilhsa](https://github.com/eilsa)
 - [Samandar Ibragimov](https://github.com/SamandarIbragimov)
 - [Daksh Pathak](https://github.com/dakshhhhh16)
 - [Ronin](https://github.com/iamroninfr)
@@ -12,9 +13,7 @@
 - [Shaurya Tamang](https://github.com/GoTouchGra55)
 - [Arthur Umerov](https://github.com/aumerov)
 - [Shriya Aggarwal](https://github.com/shriyaagg)
-- [sik9252](https://github.com/sik9252)
--[adams1864](https://github.com/adams1864)
--[Anash Pathan](https://github.com/anash56)
+- [sik9252](https://github.com/sik9252) -[adams1864](https://github.com/adams1864) -[Anash Pathan](https://github.com/anash56)
 - [Shaurya](https://github.com/Shaurya-34)
 - [Nanda Kumudhan](https://github.com/Na832938)
 - [Shriya Sharma](https://github.com/Shriya-23)
@@ -1810,7 +1809,7 @@
 - [Mudiam Veera Rohith Reddy](https://github.com/rohithredddy)
 - [Navodhya Fernando](https://github.com/Navodhya-Fernando)
 - [Sakura Magic](https://github.com/SakuraMagic225)
-- [Debut Coder] 
+- [Debut Coder]
 - [anushka kandhway](https://github.com/kandhwayanushka-hue/first-contributions.git)
 - [Gadri Dev](https://github.com/Gadridev)
 - [Vijay Sarathy](https://github.com/vijmeister)
@@ -1884,3 +1883,4 @@
 - [Milan Christy](https://github.com/dev-ploy)
 - [Amitha Sanjaya](https://github.com/Amitha4469)
 - [Roshan Reji](https://github.com/RoshanBtech)
+
