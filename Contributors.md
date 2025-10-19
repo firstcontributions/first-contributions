@@ -1896,5 +1896,6 @@
 - [Dinan Dias](https://github.com/DinanDias)
 - [Miku Amano](https://github.com/Rikublender3d)
 - [Sneha](https://github.com/Sneha41sb)
+- [Vedant Tapkir] (https://github.com/Octaflick)
 - [Akriti Kumari](https://github.com/AKRITI-ENG)
 - [Serg Romanov](https://github.com/redhot075)
