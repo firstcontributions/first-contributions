@@ -2,6 +2,7 @@
 - [Swati-Londhe](https://github.com/swati-londhe)
 - [Galan Kresna](https://github.com/glnKresna)
 - [Ashik Ahmed](https://github.com/ashikahmed05)
+- [Serhat Baris Aydin](https://github.com/SerhatBarisAydin)
 - [Samandar Ibragimov](https://github.com/SamandarIbragimov)
 - [Daksh Pathak](https://github.com/dakshhhhh16)
 - [Ronin](https://github.com/iamroninfr)
