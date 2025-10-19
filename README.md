@@ -40,7 +40,7 @@
 <kbd>[<img title="Македонски" alt="Македонски" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/mk.svg" width="22">](docs/translations/README.mk.md)</kbd>
 <kbd>[<img title="Español de México" alt="Español de México" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/mx.svg" width="22">](docs/translations/README.mx.md)</kbd>
 <kbd>[<img title="Bahasa Melayu / بهاس ملايو‎ / Malay" alt="Bahasa Melayu / بهاس ملايو‎ / Malay" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/my.svg" width="22">](docs/translations/README.my.md)</kbd>
-<kbd>[<img title="Dutch" alt="Dutch" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/nl.svg" width="22">](docs/translations/README.nl.md)</kbd>
+<kbd>[<img title="Dutch" alt="Nederlands" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/nl.svg" width="22">](docs/translations/README.nl.md)</kbd>
 <kbd>[<img title="Norsk" alt="Norsk" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/no.svg" width="22">](docs/translations/README.no.md)</kbd>
 <kbd>[<img title="नेपाली" alt="नेपाली" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/np.svg" width="15">](docs/translations/README.np.md)</kbd>
 <kbd>[<img title="Wikang Filipino" alt="Wikang Filipino" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ph.svg" width="22">](docs/translations/README.fil.md)</kbd>
