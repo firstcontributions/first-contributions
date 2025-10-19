@@ -1889,3 +1889,4 @@
 - [Roshan Reji](https://github.com/RoshanBtech)
 - [Stuti Rai](https://github.com/stuti1502)
 - [Dinan Dias](https://github.com/DinanDias)
+- [Miku Amano](https://github.com/Rikublender3d)
