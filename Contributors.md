@@ -1,6 +1,8 @@
 # Contributors
 - [Swati-Londhe](https://github.com/swati-londhe)
+- [Galan Kresna](https://github.com/glnKresna)
 - [Ashik Ahmed](https://github.com/ashikahmed05)
+- [Serhat Baris Aydin](https://github.com/SerhatBarisAydin)
 - [Samandar Ibragimov](https://github.com/SamandarIbragimov)
 - [Daksh Pathak](https://github.com/dakshhhhh16)
 - [Ronin](https://github.com/iamroninfr)
@@ -12,6 +14,7 @@
 - [Khaled Al Katheri](https://github.com/KhaledAlKatheri)
 - [Yesebu](https://github.com/MylapalliYesebu) - "First open-source contribution — learning by doing"
 - [Shaurya Tamang](https://github.com/GoTouchGra55)
+- [Eswar Venkata Ram Charan](https://github.com/eswarseeram)
 - [Arthur Umerov](https://github.com/aumerov)
 - [Shriya Aggarwal](https://github.com/shriyaagg)
 - [sik9252](https://github.com/sik9252)
@@ -1896,5 +1899,8 @@
 - [Dinan Dias](https://github.com/DinanDias)
 - [Miku Amano](https://github.com/Rikublender3d)
 - [Sneha](https://github.com/Sneha41sb)
+- [Vedant Tapkir] (https://github.com/Octaflick)
 - [Akriti Kumari](https://github.com/AKRITI-ENG)
+- [Serg Romanov](https://github.com/redhot075)
+- [Om Kumar](https://github.com/Omkumar2003)
 - [Aditya Maharshi](https://github.com/Aditya-maharshi)
