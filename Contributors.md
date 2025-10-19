@@ -12,9 +12,7 @@
 - [Shaurya Tamang](https://github.com/GoTouchGra55)
 - [Arthur Umerov](https://github.com/aumerov)
 - [Shriya Aggarwal](https://github.com/shriyaagg)
-- [sik9252](https://github.com/sik9252)
--[adams1864](https://github.com/adams1864)
--[Anash Pathan](https://github.com/anash56)
+- [sik9252](https://github.com/sik9252) -[adams1864](https://github.com/adams1864) -[Anash Pathan](https://github.com/anash56)
 - [Shaurya](https://github.com/Shaurya-34)
 - [Nanda Kumudhan](https://github.com/Na832938)
 - [Shriya Sharma](https://github.com/Shriya-23)
@@ -32,6 +30,7 @@
 - [Atul Vishwakarma](https://github.com/atulvishw240)
 - [Zihan Zhu](https://github.com/zihanz2025)
 - [Vaibhav Umbarkar](https://github.com/vaibhav-umbarkar)
+- [Sneha Priyadarshy](https://github.com/DarpanEndo)
 - [Vaishnavi](https://github.com/Vaishnavinayak08)
 - [Akash](https://github.com/akaraj187)
 - [Rahul Soni](https://github.com/grksoni)
@@ -1813,7 +1812,7 @@
 - [Mudiam Veera Rohith Reddy](https://github.com/rohithredddy)
 - [Navodhya Fernando](https://github.com/Navodhya-Fernando)
 - [Sakura Magic](https://github.com/SakuraMagic225)
-- [Debut Coder] 
+- [Debut Coder]
 - [anushka kandhway](https://github.com/kandhwayanushka-hue/first-contributions.git)
 - [Gadri Dev](https://github.com/Gadridev)
 - [Vijay Sarathy](https://github.com/vijmeister)
