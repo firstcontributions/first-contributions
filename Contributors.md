@@ -40,6 +40,7 @@
 - [Arthur Campana](https://github.com/arthurcampana)
 - [anjali-ojha17](https://github.com/anjali-ojha17)
 - [Kavinila_L](https://github.com/KavinilaLoganathan-2507)
+- [Sara]
 - [Nsiru Williams](https://github.com/Cokekoro)
 - [Priyeash Bala](https://github.com/priyeashbala)
 - [Nishita Kashyap](https://github.com/nishitakashyap)
