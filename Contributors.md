@@ -1424,6 +1424,7 @@
 - [Siren-241](https://github.com/Siren-241)
 - [Anis Mandal](https://github.com/AgentPhoenix7)
 - [Ansh Gupta](https://github.com/Ansh-Gupta0310)
+- [Aarón Franco ✝️](github.com/AaronFT97)
 - [Anton Lysenko](https://github.com/AntonyCoder)
 - [Anushka Wable](https://github.com/anushka-sys)
 - [Areeb Ahmad](https://github.com/AreebAhmad-02)
