@@ -1,5 +1,6 @@
 # Contributors
 - [Vimal Bisht](https://github.com/VimalBisht2021)
+- [Prince Kumar](https://github.com/princeDevelops)
 - [Mayank Kashyap](https://github.com/oneglitchx)
 - [Prashant Singh](https://github.com/its-bnf-cwalker)
 - [Shreeganesh Nayak](https://github.com/Shreeganeshhere)
