@@ -29,7 +29,7 @@ Forkボタンをクリックしてこのリポジトリをフォークしてく�
 
 ターミナルを開いて以下のgitコマンドを実行してください：
 
-```
+```bash
 git clone "コピーしたURL"
 ```
 "コピーしたURL" (ダブルクオーテーションは除いてください) は先ほどコピーしたリポジトリのURLと置き換えてください。
@@ -37,7 +37,7 @@ git clone "コピーしたURL"
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="クリップボードにURLをコピー" />
 
 例：
-```
+```bash
 git clone https://github.com/＜あなたのユーザー名＞/first-contributions.git
 ```
 `あなたのユーザー名` はご自身のGitHubユーザー名に置き換えてください。この作業でGitHub のリポジトリの内容はあなたのコンピュータに保存されました。
@@ -46,16 +46,16 @@ git clone https://github.com/＜あなたのユーザー名＞/first-contributio
 
 もしリポジトリのディレクトリにいなければそこまで移動してください。
 
-```
+```bash
 cd first-contributions
 ```
 `git switch` コマンドを使用してブランチを作成します：
-```
+```bash
 git switch -c <add-your-name>
 ```
 
 例:
-```
+```bash
 git switch -c add-alonzo-church
 ```
 (ブランチの名前には必ずしも*add*が含まれていなければならないわけではありませんが、このブランチの目的があなたの名前をリストに加えることであることを考慮すれば含むのが適切です。)
@@ -67,12 +67,12 @@ git switch -c add-alonzo-church
 <img align="float: right;" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="Gitステータス" />
 
 プロジェクトディレクトリに移動して`git status`を実行すると、変更がなされたことが確認できると思います。`git add`コマンドを使ってそれらの変更を適用してください。
-```
+```bash
 git add Contributors.md
 ```
 
 次に`git commit`コマンドを使ってこれらの変更をコミットします。
-```
+```bash
 git commit -m "Add <あなたの名前> to Contributors list"
 ```
 `<あなたの名前>`をご自身の名前に置き換えてください。
@@ -80,7 +80,7 @@ git commit -m "Add <あなたの名前> to Contributors list"
 ## GitHubに変更をpushする
 
 `git push`コマンドを使って変更をpushしてください。
-```
+```bash
 git push origin <ブランチ名>
 ```
 `<ブランチ名>`には先ほど作成したブランチ名を入れてください。
