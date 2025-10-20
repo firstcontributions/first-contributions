@@ -1946,3 +1946,4 @@
 - [Ivana Curcic](https://github.com/ivanchi62442)
 - [Selena Xu](https://github.com/selenaxu-hub)
 - [Mason Tipton](https://github.com/thorncoded) :3
+- [Sean McChesney](https://github.com/FrogWarlord)
