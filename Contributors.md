@@ -181,6 +181,7 @@
 - [Sadia Malik](https://github.com/sadiamalik1980)
 - [Utkarsh Upreti](https://www.github.com/K4rsh)
 - [Praveen Raj](https://github.com/praveenrajdevs-lgtm)
+- [Tyler Parker](https://github.com/typarker04)
 - [Md. Shamim Ahmed](https://github.com/cseshamim47)
 - [Zaid Qtaish](https://github.com/ZaidQtaish)
 - [vader-coder](https://github.com/vader-coder)
