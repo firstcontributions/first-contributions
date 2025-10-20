@@ -73,6 +73,7 @@
   [Sheetal Lodhi](https://github.com/sheetalll28)
 - [Yash Kumar Rana](https://github.com/YashRana52)
 - [Huzaifa Ghori](https://github.com/Huzaifa1910)
+- [pavan]
 - [Tiago Tomé](https://github.com/sheizo)
 - [Martin](https://github.com/mtarotML)
 - [tmestery](https://github.com/tmestery)
