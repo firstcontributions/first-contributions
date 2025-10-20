@@ -394,3 +394,8 @@ desktop.ini
 
 .codegpt
 .qodo
+
+# Ignore logs (thêm vào cuối file)
+log/
+*.log
+
