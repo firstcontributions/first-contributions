@@ -1940,4 +1940,5 @@
 - [dggogy](https://github.com/dggogy)
 - [Linkfy](https://github.com/linkfy)
 - [Parth2619](https://github.com/Parth2619)
+- [Vilas](https://github.com/the-variable)
 - [Vi Anzh](https://github.com/anzhv17)
