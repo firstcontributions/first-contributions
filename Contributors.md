@@ -1778,6 +1778,7 @@
 - [Juniper Brinegar](https://github.com/jClarinet)
 - [Dinesh Kumar](https://github.com/dineshraj96)
 - [ShadowMist](https://github.com/shadowmist)
+- [Vyex_0](https://github.com/VanessaSoetjiadi) - nice to meet yall
 - [Bibek Sharma](https://github.com/Bibek246)
 - [Ashish Singh](https://github.com/BoogeyyMann)
 - [Tasos Stefanidis](https://github.com/TasStef)
