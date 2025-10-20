@@ -26,7 +26,7 @@
 
 Откройте терминал и запустите следующую git команду:
 
-```
+```bash
 git clone "ссылка на репозиторий"
 ```
 
@@ -36,7 +36,7 @@ git clone "ссылка на репозиторий"
 
 Например:
 
-```
+```bash
 git clone https://github.com/ваш-логин/first-contributions.git
 ```
 
@@ -46,19 +46,19 @@ git clone https://github.com/ваш-логин/first-contributions.git
 
 Перейдите в каталог репозитория на вашем компьютере, если вы еще не там.
 
-```
+```bash
 cd first-contributions
 ```
 
 Теперь создайте ветку с помощью команды `git checkout`
 
-```
+```bash
 git checkout -b <add-your-name>
 ```
 
 Например:
 
-```
+```bash
 git checkout -b add-alonzo-church
 ```
 
@@ -68,13 +68,13 @@ git checkout -b add-alonzo-church
 
 Теперь откройте файл `Contributors.md` в вашем текстовом редакторе, впишите ваше имя и сохраните файл. Если вы перейдёте в директорию проекта и выполните `git status`, вы увидите изменения. Добавьте эти изменения с помощью команды `git add`.
 
-```
+```bash
 git add Contributors.md
 ```
 
 Теперь закоммитьте данные изменения с помощью команды `git commit`.
 
-```
+```bash
 git commit -m "Add <your-name> to Contributors list"
 ```
 
@@ -84,7 +84,7 @@ git commit -m "Add <your-name> to Contributors list"
 
 Запушьте ваши изменения с помощью `git push`
 
-```
+```bash
 git push origin <add-your-name>
 ```
 
@@ -108,31 +108,31 @@ git push origin <add-your-name>
 
 Прежде всего перейдите в основную ветку:
 
-```
+```bash
 git checkout main
 ```
 
 Затем добавьте url моего репозитория в поле `upstream remote url`:
 
-```
+```bash
 git remote add upstream https://github.com/Roshanjossey/first-contributions
 ```
 
 Таким образом мы сообщим git'у, что существует другая версия данного проекта по определенной ссылке, и мы ее считаем мастером. Как только изменения смержены, подгрузите новую версию моего репозитория.
 
-```
+```bash
 git fetch upstream
 ```
 
 Таким образом мы забрали все изменения в моём ответвлении (upstream remote). После, вам нужно смержить новую версию моего репозитория с вашей мастер-веткой.
 
-```
+```bash
 git rebase upstream/main
 ```
 
 Так вы применяете все изменения, которые вы подтянули к вашей мастер-ветке. Если вы запушите сейчас мастер-ветку, ваше ответвление тоже будет содержать изменения.
 
-```
+```bash
 git push origin main
 ```
 
@@ -140,13 +140,13 @@ git push origin main
 
 На этом этапе я объединил вашу ветку `<add-your-name>` со своей мастер-веткой, а вы объединили свою мастер-ветку с моей. Ваша ветка больше не нужна, вы можете удалить её:
 
-```
+```bash
 git branch -d <add-your-name>
 ```
 
 Так же можете удалить её версию в удалённом репозитории:
 
-```
+```bash
 git push origin --delete <add-your-name>
 ```
 
