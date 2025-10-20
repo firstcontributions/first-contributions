@@ -107,6 +107,7 @@
 - [Tetiana Tkachova](https://github.com/defur) git commit -m "Add `<your-name>` to Contributors list"
 - [Mohammed Saqib Rehaman Namazi](https://github.com/Saqibdev-786)
 - [Cooper Li](https://github.com/CooperLi1)
+- [Mohammad Farooq Shaikh](https://github.com/mo-farooq)
 - [Aditi Badkur](https://github.com/aditibadkur)
 - [Vasistha_yadav](git switch -c your-new-branch-name)
 - [PHT](https://github.com/CodeByPyaeHan)
