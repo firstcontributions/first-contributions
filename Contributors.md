@@ -1,7 +1,7 @@
 # Contributors
 - [Vimal Bisht](https://github.com/VimalBisht2021)
 - [Prince Kumar](https://github.com/princeDevelops)
-- * [Omar Hamdan](https://github.com/omarjrayman23)
+- [Omar Hamdan](https://github.com/omarjrayman23)
 - [Mayank Kashyap](https://github.com/oneglitchx)
 - [Prashant Singh](https://github.com/its-bnf-cwalker)
 - [Shreeganesh Nayak](https://github.com/Shreeganeshhere)
@@ -1944,4 +1944,5 @@
 - [Vilas](https://github.com/the-variable)
 - [Vi Anzh](https://github.com/anzhv17)
 - [Ivana Curcic](https://github.com/ivanchi62442)
+- [Selena Xu](https://github.com/selenaxu-hub)
 - [Mason Tipton](https://github.com/thorncoded) :3
