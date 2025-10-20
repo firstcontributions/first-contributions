@@ -148,6 +148,7 @@
 - [Towhidul Islam](https://github.com/towhidulbu08)
 - [Nitin Singh Bisht](https://github.com/NitinNSB)
 - [Ciara](https://github.com/ciahan)
+- [Elton Coura](https://github.com/EltonCoura)
 - [Shashank Avvaru](https://github.com/Shashankavvaru-hub)
 - [Krishna Sahith Yandapalli](https://github.com/krishnasahith)
 - [Syndhavi](https://github.com/Syndhavi)
