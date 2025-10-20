@@ -27,7 +27,7 @@ Ahora clona este repositorio en tu equipo. Dirígete a tu cuenta de GitHub, haz 
 
 Abre tu consola o terminal y ejecuta el siguiente comando de git:
 
-```
+```bash
 git clone "url que acabas de copiar"
 ```
 
@@ -36,7 +36,7 @@ Donde pone "url que acabas de copiar" (sin las comillas dobles) es la *url* a es
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copiar URL al portapapeles" />
 
 Por ejemplo:
-```
+```bash
 git clone https://github.com/este-eres-tu/first-contributions.git
 ```
 La parte de `este-eres-tu` la reemplazarás con tu usuario de GitHub. Aquí estás copiando los contenidos del repositorio *first-contributions* de GitHub a tu equipo.
@@ -45,19 +45,19 @@ La parte de `este-eres-tu` la reemplazarás con tu usuario de GitHub. Aquí est�
 
 Cambia al directorio del repositorio en tu equipo (si es que no estás ahí ya).
 
-```
+```bash
 cd first-contributions
 ```
 
 Ahora crea una rama (*branch*) usando el comando `git checkout` o `git switch`:
-```
+```bash
 git checkout -b <añade tu nombre>
 
 git switch -c <añade tu nombre>
 ```
 
 Por ejemplo:
-```
+```bash
 git checkout -b add-alonzo-church
 
 git switch -c add-alonzo-church
@@ -74,12 +74,12 @@ Si vas al directorio del proyecto y ejecutas el comando  `git status`, verás qu
 
 Agrega esos cambios a la rama (*branch*) que creaste anteriormente usando el comando `git add`:
 
-```
+```bash
 git add Contributors.md
 ```
 
 Ahora haz un *commit* sobre estos cambios ejecutando el comando `git commit`:
-```
+```bash
 git commit -m "Add <tu-nombre> to Contributors list"
 ```
 Cambiando `<tu-nombre>` por tu nombre.
@@ -87,7 +87,7 @@ Cambiando `<tu-nombre>` por tu nombre.
 ## Sube (*Push*) tus cambios a GitHub
 
 Haz *push* de tus cambios usando el comando `git push`:
-```
+```bash
 git push -u origin <añade-el-nombre-de-la-rama>
 ```
 Reemplaza `<añade-el-nombre-de-la-rama>` con el nombre de la rama que creaste anteriormente.
