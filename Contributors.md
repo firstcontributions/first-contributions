@@ -42,6 +42,7 @@
 - [Eliezer-r](https://github.com/Eliezer-R)
 - [Asmodeuos](https://github.com/Asmodeuos)
 - [Atul Vishwakarma](https://github.com/atulvishw240)
+- [Angel Lavado](https://github.com/Maykel02)
 - [Zihan Zhu](https://github.com/zihanz2025)
 - [Vaibhav Umbarkar](https://github.com/vaibhav-umbarkar)
 - [Sneha Priyadarshy](https://github.com/DarpanEndo)
