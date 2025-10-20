@@ -99,6 +99,7 @@
 - [Jose](https://github.com/NaturalTC)
 - [Alperen Söylen](https://github.com/Alperen012)
 - [Nikhil Yadav](https://github.com/Nikhil-Yadav-01)
+- [Jakov Dekanic](https://github.com/jakovdekanic)
 - [Armando Júnior](https://github.com/ArmandoDevJr258)
 - [Kevin](https://github.com/M0nesy121)
 - [Ankita Gupta](https://github.com/Ankita562)
