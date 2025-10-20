@@ -1897,6 +1897,7 @@
 - [Abhay Gupta](https://github.com/Freakcodes)
 - [Siva Garapati](https://github.com/siva-garapati)
 - [JICHAN HAN](https://github.com/HJC96)
+- [Samuel Ola](https://github.com/samuelola-dev)
 - [Dhvani Prasad](https://github.com/Dhwanihere)
 - [Zide Yang](https://github.com/Yzide01)
 - [Hien](https://github.com/hiend8888)
