@@ -1944,3 +1944,4 @@
 - [Vilas](https://github.com/the-variable)
 - [Vi Anzh](https://github.com/anzhv17)
 - [Ivana Curcic](https://github.com/ivanchi62442)
+- [Mason Tipton](https://github.com/thorncoded) :3
