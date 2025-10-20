@@ -1,4 +1,5 @@
 # Contributors
+- [Vimal Bisht](https://github.com/VimalBisht2021)
 - [Mayank Kashyap](https://github.com/oneglitchx)
 - [Prashant Singh](https://github.com/its-bnf-cwalker)
 - [Shreeganesh Nayak](https://github.com/Shreeganeshhere)
