@@ -20,6 +20,7 @@
 - [Yesebu](https://github.com/MylapalliYesebu) - "First open-source contribution — learning by doing"
 - [Shaurya Tamang](https://github.com/GoTouchGra55)
 - [Eswar Venkata Ram Charan](https://github.com/eswarseeram)
+- [Ahmed Abdelsamea](https://github.com/ahmed0-07)
 - [Arthur Umerov](https://github.com/aumerov)
 - [Shriya Aggarwal](https://github.com/shriyaagg)
 - [sik9252](https://github.com/sik9252)
