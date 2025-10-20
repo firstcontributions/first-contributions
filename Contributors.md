@@ -1929,3 +1929,4 @@
 - [Madds](https:/github.com/mrmadds)
 - [Haydn](https://github.com/Haydn-Y) Just a baby coder practicing some git
 - [Vivek Chandra Reddy](https://github.com/VivekGaddam/)
+- [Camillo Ballani](https://github.com/cballaniFuturisten/)
