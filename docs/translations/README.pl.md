@@ -8,7 +8,7 @@ Zawsze jest ciężko, kiedy robisz coś po raz pierwszy. Szczególnie gdy wspó�
 
 Czytanie artykułów i oglądanie poradników może pomóc, ale czy jest coś lepszego niż spróbowanie czegoś samemu bez obaw, że się coś zepsuje? Ten projekt ma na celu dostarczyć nowicjuszom wskazówek i uprościć proces wgrania pierwszej zmiany. Pamiętaj: im bardziej jesteś zrelaksowany, tym lepiej się uczysz. Jeśli chcesz wgrać swoją pierwszą kontrybucję wykonaj kilka prostych kroków poniżej. Będzie fajnie, obiecujemy.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="zrób fork tego repozytorium" />
 
 Jeśli nie masz Gita na swoim komputerze, [ zainstaluj go ](https://help.github.com/articles/set-up-git/).
 
@@ -18,7 +18,7 @@ Zrób fork tego repozytorium klikając przycisk `Fork` na górze tej strony. Stw
 
 ## Sklonuj repozytorium (`clone`)
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="sklonuj to repozytorium" />
 
 Teraz sklonuj repozytorium na swój komputer. Przejdź do swojego konta GitHub, otwórz skopiowane repozytorium, kliknij przycisk `Code`, a później ikonkę _skopiuj do schowka_.
 
@@ -30,7 +30,7 @@ git clone <skopiowany-adres>
 
 Gdzie `<skopiowany-adres>` to adres tego repozytorium (twojej kopii tego projektu). Zobacz poprzedni krok aby skopiować adres.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="skopiuj adres URL do schowka" />
 
 Przykład:
 
@@ -110,11 +110,11 @@ Zastąp `<add-twoje-imie>` nazwą gałęzi, którą wcześniej utworzyłeś.
 
 W swoim repozytorium na GitHubie znajdziesz przycisk `Compare & pull request`. Kliknij go.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="utwórz prośbę o scalenie" />
 
 Teraz wyślij prośbę o scalenie.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="wyślij prośbę o scalenie" />
 
 Niedługo dodam proponowane przez ciebie zmiany do głównej gałęzi projektu. Zostaniesz powiadomiony mailowo kiedy zmiany zostaną scalone.
 
