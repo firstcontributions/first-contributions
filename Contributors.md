@@ -620,6 +620,10 @@
 - [Meet Shah](https://github.com/Meet6338-X)
 - [Moresh](https://github.com/Moresh-Mishra)
 - [Moulya.K](https://github.com/MoulyaK2005)
+- Name: [Nurmukhammed](https://github.com/Nurmuhammedcoder)
+- Place: Kyrgyzstan
+- Bio: CS Student | Python Developer | AI/ML Enthusiast
+- GitHub: [Nurmuhammedcoder](https://github.com/Nurmuhammedcoder)
 - [Nathan Hall](https://github.com/Zero4793)
 - [Neil DCruz](https://github.com/neildcruz)
 - [Nenad](https://github.com/maglvoskiNenad)
