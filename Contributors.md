@@ -2,6 +2,7 @@
 
 - My First Contro
 - [Tushar](https://github.com/tushaar-05)
+- [Leandro Freitas](https://github.com/LFreitas88)
 - [Tedliu](https://github.com/qsc811022)
 - [HariRaju] (https://github.com/HariSivaraj)
 - [Vimal Bisht](https://github.com/VimalBisht2021)
