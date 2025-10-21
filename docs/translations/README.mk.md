@@ -12,7 +12,7 @@
 #### *Ако не сакате да користите command line (терминал), [овде имате упатства за GUI](#Вежби-за-користење-на-други-програми)*
 
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="форкнете го овој репозиториум" />
 
 Ако немате git на вашиот компјутер, [инсталирајте го]( https://help.github.com/articles/set-up-git/).
 
@@ -23,7 +23,7 @@
 
 ## Клонирајте го овоа складиште
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="клонирајте го овој репозиториум" />
 
 Сега треба да го клонирате складиштето во вашиот компјутер. Отидете во вашиот GitHub профил, отворете го разгранетото складиште,
 кликнете на копчето "Clone" и копирајте го линкот. Исто така може да притиснете на иконата за копирање (Copy to clipboard)
@@ -35,7 +35,7 @@ git clone "линкот кој го копиравте"
 ```
 На местото на "линкот кој го копиравте" (без наводници) поставете го линкот на складиштето (Вашето Разгранување на овој проект). Погледнете ги претходните чекори за да видете како да го добиете линкот.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="копирајте ја URL адресата во таблата со исечоци" />
 
 На пример:
 ```
@@ -65,7 +65,7 @@ git checkout -b add-alonzo-church
 
 Сега отворете го фајлот `Contributors.md` во уредник за текст и додадете го вашето име. Не додавајте го на почетокот или крајот на фајлот. Поставете го некаде на средината. Зачувајте ги промените.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git статус" />
 
 
 Ако ја извршете командата `git status` во директоријата на складиштето, ќе забележите дека има промени.
@@ -95,11 +95,11 @@ git push origin <vnesete-ime-na-vashata-granka>
 
 Ако отидете во вашето складиште во GitHub, ќе го забележите копчето `Compare & pull request`. Притиснете го.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="создадете pull request" />
 
 Сега поднесете ги вашите промени за преглед.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="поднесете pull request" />
 
 Наскоро ќе ги спојам (merge) сите ваши промени во главната гранка (мастер branch) на овој проект. Ќе бидете известени по пат на електронска пошта за спојот на вашите промени.
 
@@ -109,7 +109,7 @@ git push origin <vnesete-ime-na-vashata-granka>
 
 Прославете ги вашите придонеси и споделете ги со пријатели и следители со посета на [веб-апликацијата](https://firstcontributions.github.io/#social-share).
 
-Можете да станете дел од нашиот slack team ако ви треба помош или имате прашања  [Стани дел](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
+Доколку сакате да вежбате повеќе и да придонесувате во проекти со отворен код, погледнете го [Code Contributions](https://github.com/roshanjossey/code-contributions).
 
 Сега е време да започнете да допринесувате кон други проекти. Ние имаме создадено список со лесни проекти за да започнете. [Види ја листата](https://firstcontributions.github.io/#project-list).
 
