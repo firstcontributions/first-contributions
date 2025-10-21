@@ -32,6 +32,7 @@
 - [Arthur Umerov](https://github.com/aumerov)
 - [Shriya Aggarwal](https://github.com/shriyaagg)
 - [sik9252](https://github.com/sik9252)
+- [Zander Bezuidenhout](https://github.com/ZanderBez)
 - [adams1864](https://github.com/adams1864)
 - [Anash Pathan](https://github.com/anash56)
 - [Shaurya](https://github.com/Shaurya-34)
