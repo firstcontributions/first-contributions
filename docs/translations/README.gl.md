@@ -49,12 +49,12 @@ cd first-contributions
 Agora crea unha branch (póla) usando o comando `git checkout`
 
 ```
-git checkout -b <engade-o-teu-nome>
+git checkout -b add-bash-language-to-readme-gl
 ```
 
 Por exemplo
 ```
-git checkout -b engade-María-Soliña
+git checkout -b add-bash-spec-to-galician-readme
 ```
 
 (O nome da branch non ten que incluir necesariamente a palabra 'engade', pero resulta razoable se consideramos que o propósito desta póla é engadir o teu nome a unha lista).
@@ -73,7 +73,7 @@ git add Contributors.md
 
 Agora podes facer commit sobre os cambios co comando `git commit`
 ```
-git commit -m "Add <o-teu-nome> to Contributors list"
+git commit -m "Add bash language specifier to shell command blocks in Galician README (resolves #105883)"
 ```
 cambiando `<o-teu-nome>` polo teu nome.
 
@@ -81,7 +81,7 @@ cambiando `<o-teu-nome>` polo teu nome.
 
 Fai un  *push* dos teus cambios usando o comando `git push`
 ```
-git push origin <engade-o-teu-nome>
+git push origin add-bash-spec-to-galician-readme
 ```
 cambiando `<engade-o-teu-nome>` polo nome da branch que creaches antes.
 
