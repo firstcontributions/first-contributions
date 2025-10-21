@@ -1,5 +1,6 @@
 # Contributors
 - [Vimal Bisht](https://github.com/VimalBisht2021)
+Prasit Sung
 - [Prince Kumar](https://github.com/princeDevelops)
 - [Omar Hamdan](https://github.com/omarjrayman23)
 - [cheefbird](https://github.com/cheefbird)
