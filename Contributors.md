@@ -1455,7 +1455,7 @@ Prasit Sung
 - [Chandan Ravi](https://github.com/chandanravic)
 - [Charalampos M.](https://github.com/CharioMich)
 - [Chinmay L](https://github.com/stom-breaker-07)
-- [Vigneshwaran B](https://github.com/veluvignesh027)
+- [Vigneshwaran.B](https://github.com/veluvignesh027)
 - [Daniel Arrieta](https://github.com/Darrieta05)
 - [DevElevate19](https://github.com/DevElevate19)
 - [Dillikumar N](https://github.com/Dillikumarnl)
