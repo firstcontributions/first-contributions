@@ -19,7 +19,7 @@
 ਹੁਣ ਆਪਣੀ ਮਸ਼ੀਨ ਤੇ ਫੋਰਕਡ ਰਿਪੋਜ਼ਟਰੀ ਦਾ ਕਲੋਨ ਕਰੋ। ਆਪਣੇ ਗਿਟ-ਹਬ ਅਕਾਉਂਟ ਤੇ ਜਾਓ, ਫੋਰਕਡ ਰਿਪੋਜ਼ਟਰੀ ਖੋਲ੍ਹੋ, ਕੋਡ ਬਟਨ ਤੇ ਕਲਿਕ ਕਰੋ ਅਤੇ ਫਿਰ ਕਲਿੱਪਬੋਰਡ ਆਈਕਨ ਤੇ ਕਾਪੀ ਕਲਿੱਕ ਕਰੋ.
 ਇੱਕ ਟਰਮੀਨਲ ਖੋਲ੍ਹੋ ਅਤੇ ਹੇਠਲੀ ਗਿਟ ਕਮਾਂਡ ਚਲਾਓ:
 
-```
+```bash
 git clone "ਯੂ.ਆਰ.ਐਲ ਜੇੈਕਰ ਤੁਸੀਂ ਹੁਣੇ ਨਕਲ ਕੀਤੀ"
 ```
 
@@ -27,7 +27,7 @@ git clone "ਯੂ.ਆਰ.ਐਲ ਜੇੈਕਰ ਤੁਸੀਂ ਹੁਣੇ ਨ
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="URL ਨੂੰ ਕਲਿੱਪਬੋਰਡ ਵਿੱਚ ਕਾਪੀ ਕਰੋ" />
 
 ਉਦਾਹਰਣ ਲਈ:
-```
+```bash
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 
@@ -36,19 +36,19 @@ git clone https://github.com/this-is-you/first-contributions.git
 ## ਇੱਕ ਸ਼ਾਖਾ ਬਣਾਓ
 ਆਪਣੇ ਕੰਪਿਊਟਰ ਉੱਤੇ ਰਿਪੋਜ਼ਟਰੀ ਡਾਇਰੈਕਟਰੀ ਵਿੱਚ ਬਦਲੋ (ਜੇ ਤੁਸੀਂ ਪਹਿਲਾਂ ਤੋਂ ਨਹੀਂ ਹੋ):
 
-```
+```bash
 cd first-contributions
 ```
 
 ਹੁਣ `git checkout` ਕਮਾਂਡ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਸ਼ਾਖਾ ਬਣਾਓ:
 
-```
+```bash
 git checkout -b ਤੁਹਾਡਾ-ਨਵੀਂ-ਸ਼ਾਖਾ-ਦਾ-ਨਾਮ
 ```
 
 ਉਦਾਹਰਣ ਲਈ:
 
-```
+```bash
 git checkout -b add-alonzo-church
 ```
 
@@ -63,13 +63,13 @@ git checkout -b add-alonzo-church
 
 ਸ਼ਾਖਾ ਵਿੱਚ ਉਹ ਬਦਲਾਵ ਸ਼ਾਮਲ ਕਰੋ ਜੋ ਤੁਸੀਂ ਹੁਣੇ ਬਣਾਇਆ `git add` ਕਮਾਂਡ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਬਣਾਈ ਹੈ:
 
-```
+```bash
 git add Contributors.md
 ```
 
 ਹੁਣ ਉਹ ਤਬਦੀਲੀਆਂ `git ਕਮਿ`` ਕਮਾਂਡ ਦੀ ਵਰਤੋਂ ਨਾਲ ਕਰੋ:
 
-```
+```bash
 git commit -m "Add <your-name> to Contributors list"
 ```
 
@@ -79,7 +79,7 @@ git commit -m "Add <your-name> to Contributors list"
 
 ਕਮਾਂਡ `git push` ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਆਪਣੀਆਂ ਤਬਦੀਲੀਆਂ ਧੱਕੋ:
 
-```
+```bash
 git push origin <add-your-branch-name>
 ```
 
@@ -89,11 +89,11 @@ git push origin <add-your-branch-name>
 
 ਜੇ ਤੁਸੀਂ ਗਿੱਟਹੱਬ 'ਤੇ ਆਪਣੀ ਰਿਪੋਜ਼ਟਰੀ' ਤੇ ਜਾਂਦੇ ਹੋ, ਤਾਂ ਤੁਸੀਂ `ਤੁਲਨਾ ਕਰੋ ਅਤੇ ਖਿੱਚੋ ਬੇਨਤੀ` ਬਟਨ ਨੂੰ ਵੇਖੋਗੇ. ਉਸ ਬਟਨ 'ਤੇ ਕਲਿੱਕ ਕਰੋ.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="ਪੁੱਲ ਰਿਕਵੇਸਟ ਬਣਾਓ" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="ਪੁੱਲ ਰਿਕਵੇਸਟ ਬਣਾਓt" />
 
 ਹੁਣ ਪੁਲੀ ਬੇਨਤੀ ਨੂੰ ਜਮ੍ਹਾ ਕਰੋ.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="ਪੁੱਲ ਰਿਕਵੇਸਟ ਜਮ੍ਹਾਂ ਕਰੋ" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="ਪੁੱਲ ਰਿਕਵੇਸਟ ਜਮ੍ਹਾਂ ਕਰੋs" />
 
 ਜਲਦੀ ਹੀ ਮੈਂ ਤੁਹਾਡੀਆਂ ਸਾਰੀਆਂ ਤਬਦੀਲੀਆਂ ਨੂੰ ਇਸ ਪ੍ਰੋਜੈਕਟ ਦੀ ਮਾਸਟਰ ਬ੍ਰਾਂਚ ਵਿੱਚ ਮਿਲਾ ਦੇਵਾਂਗਾ. ਇਕ ਵਾਰ ਤਬਦੀਲੀਆਂ ਨੂੰ ਮਿਲਾਉਣ ਤੋਂ ਬਾਅਦ ਤੁਹਾਨੂੰ ਇਕ ਸੂਚਨਾ ਈਮੇਲ ਮਿਲੇਗੀ.
 
