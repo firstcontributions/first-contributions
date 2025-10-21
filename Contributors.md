@@ -137,6 +137,7 @@
 - [vipul]
 - [PB](https://github.com/PierreBatikh)
 - [Sangeetha Dhanasekar]
+- [Rasaq Ajape](https://github.com/Abdulrasaq1515)
 - [Tudor Gradinaru](https://github.com/TudorGR)
 - [Pushkar Sabe](https://github.com/pushkarsabe)
 - [CheriBerry77](https://github.com/CheriBerry77)
