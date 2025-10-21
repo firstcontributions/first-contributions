@@ -11,7 +11,7 @@ Readin' tales & watchin' tutorials can help, but wha''s better than actually doi
 
 #### *If ye're nah comfortable wit' command line, [here be tutorials usin' GUI tools.](#Tutorials-Usin'-Other-Tools)*
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="plunder this code chest" />
 
 If ye don't 'ave git on yer machine, [install it](https://help.github.com/articles/set-up-git/).
 
@@ -22,7 +22,7 @@ This will create a copy o' this repository in yer account.
 
 ## Clone the repository
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="make yer own copy o’ this treasure" />
 
 Now clone this repo t' yer machine. Go t' yer GitHub account, skewer on th' clone button 'n then skewer th' *copy to clipboard* icon.
 
@@ -34,7 +34,7 @@ git clone "url ye jus' copied"
 
 where "url ye jus' copied" (without th' quote marks) be th' url t' this repository (yer fork o' this project). See th' previous steps t' obtain th' url.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="snatch the map link to yer clipboard" />
 
 Fer example:
 
@@ -70,7 +70,7 @@ git checkout -b add-luke-oliff
 
 Now open `Contributors.md` file in a text editor, add yer name t' it. Don't add it at th' beginnin' or end o' th' file. Put it anywhere in between. Now, save th' file.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="check the ship’s log" />
 
 If ye go t' th' project directory 'n execute th' command `git status`, ye'll see thar are changes.
 
@@ -102,11 +102,11 @@ replacin' `<add-yer-branch-name>` wit' th' name o' th' branch ye created earlier
 
 If ye go t' yer repository on GitHub, ye'll see a  `Compare & pull request` button.  Click on that button.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="raise a flag fer a pull request" />
 
 Now submit th' pull request.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="send yer pull request to the captain" />
 
 Soon I'll be mergin' all yer changes into th' master branch o' this project. Ye will get a notification email once th' changes 'ave been merged.
 

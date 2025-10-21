@@ -64,7 +64,7 @@ git switch -c add-alonzo-church
 
 이제 텍스트 편집기에서 `Contributors.md` 파일을 열고 본인의 이름을 아래와 같이 추가해주세요. 파일의 시작 부분이나 마지막 부분에 추가해서는 안됩니다. 중간 부분의 마음에 드는 곳에 추가하면 됩니다. 그리고 파일을 저장하세요.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="깃의 현재 상태 확인하기" />
 
 프로젝트 디렉토리로 이동해서 `git status` 명령어를 실행하면 변경사항이 존재하는 것을 볼 수 있습니다.
 

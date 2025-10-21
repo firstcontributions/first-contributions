@@ -8,7 +8,7 @@
 
 _Якщо ви не вмієте працювати з командним рядком, [ось навчальні посібники з використанням інструментів GUI.](#tutorials-using-other-tools)_
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="форкніть цей репозиторій" />
 
 Якщо ви ще не встановили git, тоді [зробіть це](https://help.github.com/articles/set-up-git/).
 
@@ -19,7 +19,7 @@ _Якщо ви не вмієте працювати з командним ряд
 
 ## Клонуйте репозиторій
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="Клонуйте цей репозиторій" />
 
 Тепер клонуйте цей репозиторій на ваш комп’ютер. Натисніть на кнопку `clone`, а потім - на іконку `copy to clipboard`.
 
@@ -31,7 +31,7 @@ git clone "посилання, яке ви щойно скопіювали"
 
 де `посилання, яке ви щойно скопіювали` (без лапок) - адреса цього репозиторію. Дивіться попередній крок для того, щоб отримати цю адресу.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="Скопіюйте посилання" />
 
 Наприклад:
 ```bash
@@ -103,11 +103,11 @@ git push -г origin <your-branch-name>
 
 Коли ви перейдете до свого репозиторію в GitHub, ви побачите кнопку `Compare & pull request`. Сміливо натисніть на неї.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="створіть pull запит" />
 
 Тепер зміни відправлені на перевірку і затвердження.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="надішліть pull запит на перевірку" />
 
 Згодом я об’єднаю ваші запропоновані зміни з основною гілкою цього репозиторію. Ви отримаєте повідомлення, коли це буде зроблено.
 

@@ -11,7 +11,7 @@
 #### _যদি কমান্ড লাইনে সমস্যা হয়, [তবে নীচে একটি GUI টুল ব্যবহার করে টিউটোরিয়াল দেওয়া হয়েছে।](#অন্যান্য-টুল-ব্যবহারের-টিউটোরিয়াল)_
 
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="এই রিপোজিটরি ফর্ক করুন" />
 
 আপনার কম্পিউটারে গিট না থাকলে, [ ইনস্টল করুন ](https://help.github.com/articles/set-up-git/)।
 
@@ -22,7 +22,7 @@
 
 ## রিপোজিটরি ক্লোন করুন
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="এই রিপোজিটরি ক্লোন করুন" />
 
 এখন এই রিপোজিটরিটি আপনার কম্পিউটারে ক্লোন করুন। এজন্যে প্রথমে ক্লোন(Clone) বাটনে ক্লিক করুন। এরপর ক্লিক করুন _ক্লিপবোর্ডে কপি করুন(copy to clipboard)_ আইকনটিতে।
 
@@ -34,7 +34,7 @@ git clone "url you just copied"
 
 যেখানে "url you just copied" (উদ্ধৃতি চিহ্ন ব্যতীত) হচ্ছে এই রিপোজিটরির ইউআরএল যা আপনি পূর্বের ধাপেই পেয়েছেন।
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="ইউআরএল ক্লিপবোর্ডে কপি করুন" />
 
 যেমন:
 
@@ -109,11 +109,11 @@ git push origin -u <your-new-branch-name>
 
 আপনার গিটহাব রিপোজিটরিতে `Compare & pull request` বাটনে ক্লিক করুন।
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="পুল রিকোয়েস্ট তৈরি করুন" />
 
 এখন _পুল রিকোয়েস্ট_ সাবমিট করুন।
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="পুল রিকোয়েস্ট জমা দিন" />
 
 শীঘ্রই আমি এই প্রজেক্টের মাস্টার ব্রাঞ্চে আপনার সমস্ত পরিবর্তন গুলো মার্জ করব। পরিবর্তনগুলি একত্রিত হয়ে গেলে আপনি একটি নিশ্চিতকরণ ই-মেইল পাবেন৷
 

@@ -145,6 +145,7 @@ Selamat! Anda baru saja menyelesaikan standar _fork_ -> _clone_ -> _edit_ -> _pu
 
 Rayakan kontribusi Anda dan bagikan dengan teman-teman dan pengikut Anda dengan membuka [web app](https://firstcontributions.github.io/#social-share).
 
+Jika Anda ingin lebih banyak latihan, lihat [kontribusi kode](https://github.com/roshanjossey/code-contributions).
 
 Sekarang mari kita mulai dengan berkontribusi di proyek lain. Kami sudah menyusun daftar proyek dengan isu yang mudah dikerjakan sehingga Anda dapat segera memulai. Cek di [daftar proyek web app](https://firstcontributions.github.io/#project-list).
 

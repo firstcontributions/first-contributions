@@ -109,7 +109,7 @@ Pronto estaré combinando tus cambios (haciendo *merge*) con la rama master de e
 
 Festeja tu contribución y compártela con tus amigos y seguidores yendo a [web app](https://firstcontributions.github.io/#social-share).
 
-También podrías unirte a nuestro *equipo* de Slack en caso de que necesites ayuda o tengas alguna pregunta. [Únete a nuestro Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
+Si desea más práctica, consulte [contribuciones de código](https://github.com/roshanjossey/code-contributions).
 
 Ahora empieza a contribuir a otros proyectos. Hemos reunido una lista de proyectos con *issues* sencillas para que puedas empezar. Échale un ojo a la [lista de proyectos en la web app](https://firstcontributions.github.io/#project-list).
 

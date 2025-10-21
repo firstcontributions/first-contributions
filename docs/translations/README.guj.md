@@ -10,7 +10,7 @@
 
 જો તમે કમાન્ડ લાઇન સાથે આરામદાયક ન હોવ, તો અહીં [ GUI ટૂલ્સનો ઉપયોગ કરવાના ટ્યુટોરિયલ્સ ](https://github.com/firstcontributions/first-contributions#tutorials-using-other-tools) આપેલ છે.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="આ રિપોઝીટરીને ફોર્ક કરો" />
 
 જો તમારા કમ્પ્યુટર પર Git ઇન્સ્ટોલ નથી, [ તો Git ઈન્સ્ટોલ કરો](https://help.github.com/articles/set-up-git/)
 
@@ -20,7 +20,7 @@
 
 ## રિપોઝીટરી ક્લોન કરો
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="આ રિપોઝીટરીને ક્લોન કરો" />
 
 હવે તમે આ રેપો તમારા કમ્પ્યુટરમાં ક્લોન કરો (અર્થાત ડાઉનલોડ કરો). તમારા GitHub એકાઉન્ટ પર જાવ, કોડ બટન પર ક્લિક કરો અને પછી `copy to clipboard` આઇકોન પર ક્લિક કરો. આનાથી એ રેપોજીટરીનો યુઆરએલ કોપી થશે.
 
@@ -38,7 +38,7 @@ git clone "યુઆરએલ જે તમે હમણાં જ નકલ(ક
 git clone https://github.com/આ-તમે-છો/first-contributions.git
 ```
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="URL ને ક્લિપબોર્ડમાં કોપી કરો" />
 
 'આ-તમે-છો' તમારા GitHub એકાઉન્ટનું `username` છે. અહીં તમે તમારા કમ્પ્યુટરમાં GitHub થી first-contributions રિપોને કોપી કરી રહ્યા છો અથવા તેના એક સ્થાનિક / લોકલ કોપી બનાવી રહ્યા છે.
 
@@ -68,7 +68,7 @@ git checkout -b add-alonzo-church
 
 હવે 'Contributors.md` ફાઇલને એક ટેક્સ્ટ એડિટરમાં ખોલો અને તેમા તમારુ નામ લખો. ફાઇલની શરૂઆત અથવા અંતે ઉમેરવાને બદલે, તેને મધ્યમાં ગમે ત્યાં રાખો. હવે, ફાઇલને સેવ કરો.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git સ્થિતિ" />
 
 જો તમે પ્રોજેક્ટની ડાઈરેક્ટરીમા જશો અને કમાન્ડ પ્રોમ્પ્ટમાં `git status` નિર્દેશ ચલાવશો, તો તમે કરેલા પરિવર્તન જોઈ શક્શો. તે પરિવર્તન બનાવવામાં આવેલ શાખા(Branch)માં ઉમેરવા માટે 'git add` કમાન્ડ વાપરો.
 
@@ -100,11 +100,11 @@ git push origin <તમારી-શાખા-નામ-ઉમેરો>
 
 જો તમે તમારા github એકાઉન્ટ પર તમારી રિપો માં જાવ તો Compare & pull request નો ઓપ્શન હશે. તેને દબાવો.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="પુલ રિક્વેસ્ટ બનાવો" />
 
 હવે તમારી pull request સબમિટ કરો.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="પુલ રિક્વેસ્ટ સબમિટ કરો" />
 ટૂંક સમયમાં હું તમારા ફેરફારો માટે આ પ્રોજેક્ટની માસ્ટર શાખામાં મર્જ ક્રી દઇશ. તમને એક મેલ આવશે જ્યારે તમારા ફેરફારો મર્જ થશે.
 
 ## હવે, અહીંથી ક્યાં જવું ?
@@ -119,6 +119,6 @@ git push origin <તમારી-શાખા-નામ-ઉમેરો>
 
 ## અન્ય સાધનોનો ઉપયોગ કરીને ટ્યુટોરીયલ્સ
 
-| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
+| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub ડેસ્કટોપ એપ" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="વિઝ્યુઅલ સ્ટુડિયો 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken પ્રોગ્રામ" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS કોડ સંપાદક" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree એપ" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEAIntelliJ IDEA પ્રોગ્રામ" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md)                                                                                                                          | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md)                                                                                                                                        | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                                                  | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                                      | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md)                                                                                                                                                          |
