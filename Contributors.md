@@ -1,7 +1,9 @@
 # Contributors
+
+- My First Contro
 - [Tedliu](https://github.com/qsc811022)
 - [Vimal Bisht](https://github.com/VimalBisht2021)
-Prasit Sung
+  Prasit Sung
 - [Prince Kumar](https://github.com/princeDevelops)
 - [Tanuj Sharma](https://github.com/tanujsharma911)
 - [Omar Hamdan](https://github.com/omarjrayman23)
@@ -30,6 +32,7 @@ Prasit Sung
 - [Arthur Umerov](https://github.com/aumerov)
 - [Shriya Aggarwal](https://github.com/shriyaagg)
 - [sik9252](https://github.com/sik9252)
+- [Zander Bezuidenhout](https://github.com/ZanderBez)
 - [adams1864](https://github.com/adams1864)
 - [Anash Pathan](https://github.com/anash56)
 - [Shaurya](https://github.com/Shaurya-34)
@@ -79,15 +82,19 @@ Prasit Sung
 - [Rezhan Fatah](https://github.com/RezhanFatah)
   chenhui
   [Sheetal Lodhi](https://github.com/sheetalll28)
+  [Qinan Gao](https://github.com/qinangao)
 - [Yash Kumar Rana](https://github.com/YashRana52)
 - [Huzaifa Ghori](https://github.com/Huzaifa1910)
 - [pavan]
 - [Tiago Tomé](https://github.com/sheizo)
+
 - [Martin](https://github.com/mtarotML)
+- [Prem](https://github.com/prems02)
 - [tmestery](https://github.com/tmestery)
 - [Bhuvanesh](https://github.com/bhw-git)
 - [Mohd Hammad Yousuf]
 - James
+- [Jana Sivakumaran](https://github.com/git-jana/)
 - [Labeeb Bilal](https://github.com/Labeeb-bilal)
 - [Jonatha Carvalho](https://github.com/jowgaze)
 - [Mohamed Irsath](https://github.com/mohamedirsath07)
@@ -101,6 +108,7 @@ Prasit Sung
 - [Faizan_Deshmukh](https://github.com/faizan1317)
 - [Andrew_Yuan](https://github.com/YuKiAndrew)
 - [Saksham Singh](https://github.com/apexsaksham)
+- [Jaco Mostert](https://github.com/321008Jaco)
 - [ErosiveNoise](https://github.com/ErosiveNoise)
 - [Jose](https://github.com/NaturalTC)
 - [Alperen Söylen](https://github.com/Alperen012)
@@ -1972,4 +1980,3 @@ Prasit Sung
 - [Madhu](https://github.com/Madhu696969)
 - [Sumukh P B](hhttps://github.com/Sumukhapb)
 - [Rakesh M H](https://github.com/Rakeshdev10per)
-
