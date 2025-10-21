@@ -1,6 +1,7 @@
 # Contributors
 
 - My First Contro
+- [Tushar](https://github.com/tushaar-05)
 - [Tedliu](https://github.com/qsc811022)
 - [HariRaju] (https://github.com/HariSivaraj)
 - [Vimal Bisht](https://github.com/VimalBisht2021)
