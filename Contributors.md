@@ -1953,3 +1953,4 @@ Prasit Sung
 - [Sean McChesney](https://github.com/FrogWarlord)
 - [Connor Johnson](https://github.com/ConnorJ666)
 - [Pranay Gadh] (https://github.com/Pranay22077)
+- [Swastik Kumar](https://github.com/Skip06)
