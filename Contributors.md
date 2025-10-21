@@ -1,6 +1,8 @@
 # Contributors
 
+- My First Contro
 - [Tedliu](https://github.com/qsc811022)
+- [HariRaju] (https://github.com/HariSivaraj)
 - [Vimal Bisht](https://github.com/VimalBisht2021)
   Prasit Sung
 - [Prince Kumar](https://github.com/princeDevelops)
@@ -31,6 +33,7 @@
 - [Arthur Umerov](https://github.com/aumerov)
 - [Shriya Aggarwal](https://github.com/shriyaagg)
 - [sik9252](https://github.com/sik9252)
+- [Zander Bezuidenhout](https://github.com/ZanderBez)
 - [adams1864](https://github.com/adams1864)
 - [Anash Pathan](https://github.com/anash56)
 - [Shaurya](https://github.com/Shaurya-34)
@@ -60,6 +63,7 @@
 - [anjali-ojha17](https://github.com/anjali-ojha17)
 - [Kavinila_L](https://github.com/KavinilaLoganathan-2507)
 - [Sara]
+- [Ayoub Ben Aissa](https://github.com/Frontier101)
 - [Nsiru Williams](https://github.com/Cokekoro)
 - [Priyeash Bala](https://github.com/priyeashbala)
 - [Nishita Kashyap](https://github.com/nishitakashyap)
@@ -79,15 +83,19 @@
 - [Rezhan Fatah](https://github.com/RezhanFatah)
   chenhui
   [Sheetal Lodhi](https://github.com/sheetalll28)
+  [Qinan Gao](https://github.com/qinangao)
 - [Yash Kumar Rana](https://github.com/YashRana52)
 - [Huzaifa Ghori](https://github.com/Huzaifa1910)
 - [pavan]
 - [Tiago Tomé](https://github.com/sheizo)
+
 - [Martin](https://github.com/mtarotML)
+- [Prem](https://github.com/prems02)
 - [tmestery](https://github.com/tmestery)
 - [Bhuvanesh](https://github.com/bhw-git)
 - [Mohd Hammad Yousuf]
 - James
+- [Jana Sivakumaran](https://github.com/git-jana/)
 - [Labeeb Bilal](https://github.com/Labeeb-bilal)
 - [Jonatha Carvalho](https://github.com/jowgaze)
 - [Mohamed Irsath](https://github.com/mohamedirsath07)
@@ -101,6 +109,7 @@
 - [Faizan_Deshmukh](https://github.com/faizan1317)
 - [Andrew_Yuan](https://github.com/YuKiAndrew)
 - [Saksham Singh](https://github.com/apexsaksham)
+- [Jaco Mostert](https://github.com/321008Jaco)
 - [ErosiveNoise](https://github.com/ErosiveNoise)
 - [Jose](https://github.com/NaturalTC)
 - [Alperen Söylen](https://github.com/Alperen012)
@@ -476,6 +485,7 @@
 - [Yonas Girma](https://github.com/J0na555)
 - [Archit Anirudhan](https://github.com/4rch1tT)
 - [Zoe Reed](https://github.com/zoereedviz)
+- [Karthik](https://github.com/karthik)
 - [abishekh](https://github.com/Abishekhob)
 - [atlas-ian](https://github.com/atlas-ian)
 - [terror-akshat](https://github.com/terror-akshat)
@@ -1691,6 +1701,7 @@
 - [Srikant M K](https://github.com/srixmk)
 - [Harini R A J](https://github.com/Harini-RAJ)
 - [Ashwin Joby George](https://github.com/AshwinJobyG) - Maximum Effort
+- [Yoshiki Watari](https://github.com/yoshiki-w78)
 - [Zahra Shefa](https://github.com/zahrashefa318)
 - [Purushottam-Singh](https://github.com/purakh)
 - [ritik-dubey](https://github.com/DubeyRitik)
@@ -1968,3 +1979,6 @@
 - [Rishabh-8755]{https://github.com/Rishabh-8755}
 - [Camillo Ballani](https://github.com/cballaniFuturisten/)
 - [Devesh Sharma](https://github.com/DS2901)
+- [Madhu](https://github.com/Madhu696969)
+- [Sumukh P B](hhttps://github.com/Sumukhapb)
+- [Rakesh M H](https://github.com/Rakeshdev10per)
