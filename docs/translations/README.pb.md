@@ -6,7 +6,7 @@
 ਇਸ ਪ੍ਰੋਜੈਕਟ ਦਾ ਉਦੇਸ਼ ਸ਼ੁਰੂਆਤੀ ਲੋਕਾਂ ਦਾ ਆਪਣਾ ਪਹਿਲਾ ਯੋਗਦਾਨ ਪਾਉਣ ਦੇ ਕਮ ਨੂੰ ਸਰਲ ਬਣਾਉਣ ਅਤੇ ਮਾਰਗਦਰਸ਼ਨ ਕਰਨਾ ਹੈ। ਜੇ ਤੁਸੀਂ ਆਪਣਾ ਪਹਿਲਾ ਯੋਗਦਾਨ ਪਾਉਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੇ ਹੋ, ਤਾਂ ਹੇਠਾਂ ਦਿੱਤੇ ਕਦਮਾਂ ਦੀ ਪਾਲਣਾ ਕਰੋ।
 ਜੇ ਤੁਸੀਂ ਕਮਾਂਡ ਲਾਈਨ ਨਾਲ ਸੁਖੀ ਨਹੀਂ ਹੋ, [ਇੱਥੇ ਜੀ.ਯੁ.ਆੀ ਟੂਲਸ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦਿਆਂ ਟੁਟੋਰਿਅਲਸ ਹਨ.](#ਹੋਰ-ਟੂਲਜ-ਦੀ-ਵਰਤੋਂ-ਕਰਦਿਆਂ-ਟੁਟੋਰਿਅਲ)
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="ਇਸ ਰੀਪੋਜ਼ਿਟਰੀ ਨੂੰ ਫੋਰਕ ਕਰੋ" />
 
 #### ਜੇ ਤੁਹਾਡੀ ਮਸ਼ੀਨ ਤੇ ਗਿੱਟ ਨਹੀਂ ਹੈ, [ਇਸ ਨੂੰ ਇੰਸਟਾਲ ਕਰੋ](https://help.github.com/articles/set-up-git/)।
 
@@ -14,7 +14,7 @@
 ਇਸ ਪੰਨੇ ਦੇ ਸਿਖਰ ਤੇ 'ਫੋਰਕ ਬਟਨ' ਤੇ ਕਲਿੱਕ ਕਰਕੇ ਇਸ ਰਿਪੋਜ਼ਟਰੀ ਨੂੰ ਫੋਰਕ ਕਰੋ. ਇਹ ਤੁਹਾਡੇ ਖਾਤੇ ਵਿੱਚ ਇਸ ਰਿਪੋਜ਼ਟਰੀ ਦੀ ਇੱਕ ਕਾਪੀ ਬਣਾਏਗਾ.
 
 ## ਰਿਪੋਜ਼ਟਰੀ ਨੂੰ ਕਲੋਨ ਕਰੋ
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="ਇਸ ਰੀਪੋਜ਼ਿਟਰੀ ਨੂੰ ਕਲੋਨ ਕਰੋ" />
 
 ਹੁਣ ਆਪਣੀ ਮਸ਼ੀਨ ਤੇ ਫੋਰਕਡ ਰਿਪੋਜ਼ਟਰੀ ਦਾ ਕਲੋਨ ਕਰੋ। ਆਪਣੇ ਗਿਟ-ਹਬ ਅਕਾਉਂਟ ਤੇ ਜਾਓ, ਫੋਰਕਡ ਰਿਪੋਜ਼ਟਰੀ ਖੋਲ੍ਹੋ, ਕੋਡ ਬਟਨ ਤੇ ਕਲਿਕ ਕਰੋ ਅਤੇ ਫਿਰ ਕਲਿੱਪਬੋਰਡ ਆਈਕਨ ਤੇ ਕਾਪੀ ਕਲਿੱਕ ਕਰੋ.
 ਇੱਕ ਟਰਮੀਨਲ ਖੋਲ੍ਹੋ ਅਤੇ ਹੇਠਲੀ ਗਿਟ ਕਮਾਂਡ ਚਲਾਓ:
@@ -24,7 +24,7 @@ git clone "ਯੂ.ਆਰ.ਐਲ ਜੇੈਕਰ ਤੁਸੀਂ ਹੁਣੇ ਨ
 ```
 
 ਜਿੱਥੇ “ਯੂ.ਆਰ.ਐਲ ਜੇੈਕਰ ਤੁਸੀਂ ਹੁਣੇ ਨਕਲ ਕੀਤੀ” (ਹਵਾਲਾ ਨਿਸ਼ਾਨਾਂ ਤੋਂ ਬਿਨਾਂ) ਇਸ ਰਿਪੋਜ਼ਟਰੀ ਦਾ ਯੂ.ਆਰ.ਐਲ ਹੈ (ਇਸ ਪ੍ਰੋਜੈਕਟ ਦਾ ਤੁਹਾਡਾ ਫੋਰਕ)। ਯੂ.ਆਰ.ਐਲ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ ਪਿਛਲੇ ਕਦਮ ਵੇਖੋ।
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="URL ਨੂੰ ਕਲਿੱਪਬੋਰਡ ਵਿੱਚ ਕਾਪੀ ਕਰੋ" />
 
 ਉਦਾਹਰਣ ਲਈ:
 ```
@@ -57,7 +57,7 @@ git checkout -b add-alonzo-church
 ## ਜ਼ਰੂਰੀ ਤਬਦੀਲੀਆਂ ਕਰੋ ਅਤੇ ਉਨ੍ਹਾਂ ਬਦਲਾਵਾਂ ਨੂੰ ਪ੍ਰਤੀਬੱਧ ਕਰੋ
 ਹੁਣ ਟੈਕਸਟ ਐਡੀਟਰ ਵਿੱਚ `Contributors.md` ਫਾਈਲ ਖੋਲ੍ਹੋ, ਇਸ ਵਿੱਚ ਆਪਣਾ ਨਾਮ ਸ਼ਾਮਲ ਕਰੋ. ਇਸ ਨੂੰ ਫਾਈਲ ਦੇ ਸ਼ੁਰੂ ਜਾਂ ਅੰਤ 'ਤੇ ਨਾ ਸ਼ਾਮਲ ਕਰੋ. ਇਸ ਨੂੰ ਕਿਤੇ ਵੀ ਵਿਚਕਾਰ ਰੱਖੋ। ਹੁਣ, ਫਾਈਲ ਸੇਵ ਕਰੋ।
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status ਕਮਾਂਡ ਦਾ ਆਉਟਪੁੱਟ" />
 
 ਜੇ ਤੁਸੀਂ ਪ੍ਰੋਜੈਕਟ ਡਾਇਰੈਕਟਰੀ ਤੇ ਜਾਂਦੇ ਹੋ ਅਤੇ `git status` ਕਮਾਂਡ ਚਲਾਉਂਦੇ ਹੋ, ਤਾਂ ਤੁਸੀਂ ਦੇਖੋਗੇ ਕਿ ਬਦਲਾਅ ਹਨ।
 
@@ -89,11 +89,11 @@ git push origin <add-your-branch-name>
 
 ਜੇ ਤੁਸੀਂ ਗਿੱਟਹੱਬ 'ਤੇ ਆਪਣੀ ਰਿਪੋਜ਼ਟਰੀ' ਤੇ ਜਾਂਦੇ ਹੋ, ਤਾਂ ਤੁਸੀਂ `ਤੁਲਨਾ ਕਰੋ ਅਤੇ ਖਿੱਚੋ ਬੇਨਤੀ` ਬਟਨ ਨੂੰ ਵੇਖੋਗੇ. ਉਸ ਬਟਨ 'ਤੇ ਕਲਿੱਕ ਕਰੋ.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="ਪੁੱਲ ਰਿਕਵੇਸਟ ਬਣਾਓ" />
 
 ਹੁਣ ਪੁਲੀ ਬੇਨਤੀ ਨੂੰ ਜਮ੍ਹਾ ਕਰੋ.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="ਪੁੱਲ ਰਿਕਵੇਸਟ ਜਮ੍ਹਾਂ ਕਰੋ" />
 
 ਜਲਦੀ ਹੀ ਮੈਂ ਤੁਹਾਡੀਆਂ ਸਾਰੀਆਂ ਤਬਦੀਲੀਆਂ ਨੂੰ ਇਸ ਪ੍ਰੋਜੈਕਟ ਦੀ ਮਾਸਟਰ ਬ੍ਰਾਂਚ ਵਿੱਚ ਮਿਲਾ ਦੇਵਾਂਗਾ. ਇਕ ਵਾਰ ਤਬਦੀਲੀਆਂ ਨੂੰ ਮਿਲਾਉਣ ਤੋਂ ਬਾਅਦ ਤੁਹਾਨੂੰ ਇਕ ਸੂਚਨਾ ਈਮੇਲ ਮਿਲੇਗੀ.
 
