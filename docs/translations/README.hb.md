@@ -2,7 +2,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
-
 #### _קרא [בשפות אחרות](Translations.md)._
 
 <kbd>[<img title="Shqip" alt="Shqip" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/al.svg" width="22">](README.al.md)</kbd>
@@ -71,7 +70,8 @@
 <kbd>[<img title="Latvia" alt="Latvia" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/lv.svg" width="22">](README.lv.md)</kbd>
 <kbd>[<img title="Suomeksi" alt="Suomeksi" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/fi.svg" width="22">](README.fi.md)</kbd>
 <kbd>[<img title="Беларуская мова" alt="Беларуская мова" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/by.svg" width="22">](README.by.md)</kbd>
-<kbd>[<img title="Српски" alt="Српски" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/rs.svg" width="22">](README.sr.md)</kbd>
+<kbd>[<img title="Српски" alt="Српски" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/rs.svg" width="22">](README.sr-Cyrl.md)</kbd>
+<kbd>[<img title="Srpski" alt="Srpski" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/rs.svg" width="22">](README.sr-Latn.md)</kbd>
 <kbd>[<img title="Қазақша" alt="Қазақша" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/kz.svg" width="22">](README.kz.md)</kbd>
 <kbd>[<img title="Bosanski" alt="Bosanski" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ba.svg" width="22">](README.bih.md)</kbd>
 <kbd>[<img title="Bosanski" alt="Bosanski" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/et.svg" width="22">](README.bih.md)</kbd>
@@ -98,14 +98,14 @@ _אם אינכם חשים בנוח להשתמש בשורת פקודה, [כאן �
 
 #### אם עוד לא התקנתם GIT, [התקינו כעת](https://help.github.com/articles/set-up-git).
 
-## בצעו FORK למאגר זה
+## בצעו Fork למאגר זה
 
-כדי לבצע FORK למאגר זה, ניתן ללחוץ על כפתור ה – FORK בתחילת העמוד.
-פעולה זה תיצור עותק של מאגר זה בחשבון שלכם.
+כדי לבצע Fork למאגר זה, ניתן ללחוץ על כפתור ה – Fork בתחילת העמוד.
+פעולה זו תיצור עותק של מאגר זה בחשבון שלכם.
 
 ## שכפול המאגר
 
-<img align="left" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="שכפול מאגר" />
+<img align="left" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="שכפול המאגר" />
 
 כעת, שכפלו את המאגר הזה למחשב שלכם. לכו לדף ה-GitHub שלכם, לחצו על כפתור השכפול ואז לחצו על הצלמית `copy to clipboard`.
 
@@ -115,10 +115,9 @@ _אם אינכם חשים בנוח להשתמש בשורת פקודה, [כאן �
 git clone "url you just copied"
 ```
 
-  
-כאשר הביטוי `"url you just copied"` (ללא סימני הגרשיים) הוא הקישור למאגר זה שביצעתם עליו FORK קודם לכן. ראו את הצעדים הקודמים כדי להשיג את הקישור.
+כאשר הביטוי `"url you just copied"` (ללא סימני הגרשיים) הוא הקישור למאגר זה שביצעתם עליו Fork קודם לכן. ראו את הצעדים הקודמים כדי להשיג את הקישור.
 
-<img align="left" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="left" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="העתק כתובת URL ללוח" />
 
 לדוגמא:
 
@@ -126,7 +125,6 @@ git clone "url you just copied"
 git clone git@github.com:this-is-you/first-contributions.git
 ```
 
-  
 כאשר `this-is-you` הוא שם המשתמש שלכם ב-GitHub. לכאן אתם מעתיקים את התוכן של מאגר first-contributions ב-GitHub לתוך המחשב שלכם.
 
 ## יצירת ענף
@@ -137,14 +135,13 @@ git clone git@github.com:this-is-you/first-contributions.git
 cd first-contributions
 ```
 
-  
 כעת, צרו ענף (branch) בשימוש הפעולה `git switch`:
 
 ```bash
 git switch -c your-new-branch-name
 ```
 
-  לדוגמא:
+לדוגמא:
 
 ```bash
 git switch -c add-alonzo-church
@@ -167,10 +164,9 @@ git checkout -b your-new-branch-name
 
 ## ערכו שינויים הכרחיים ובצעו להם commit
 
-  
 כעת פתחו את הקובץ `Contributors.md` בתוכנת עריכת טקסט והוסיפו את השם שלכם אליו. אל תוסיפו את השם בתחילת הקובץ או בסופו. הוסיפו אותו באמצע. לאחר שסיימתם, שמרו את הקובץ.
 
-<img align="left" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="left" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="גיט סטטוס" />
 
 אם תנווטו לתיקיית הפרויקט ותבצעו את הפעולה `git status`, תוכלו לראות את השינויים שביצעתם שם.
 
@@ -180,27 +176,23 @@ git checkout -b your-new-branch-name
 git add Contributors.md
 ```
 
-  
 עכשיו, בצעו commit לשינויים הללו תוך שימוש בפקודת `git commit`:
 
 ```bash
 git commit -m "Add your-name to Contributors list"
 ```
 
-  
 החליפו את הביטוי `your-name` עם השם שלכם.
 
 ## לדחוף את השינויים ל-GitHub
 
-  
 דחפו את השינויים תוך שימוש בפקודה `git push`:
 
 ```bash
-git push origin add-your-branch-name
+git push -u origin your-branch-name
 ```
 
-  
-החליפו את `add-your-branch-name` עם השם של הענף שיצרתם מוקדם יותר.
+החליפו את `your-branch-name` עם השם של הענף שיצרתם מוקדם יותר.
 
 <div dir="rtl">
 <details>
@@ -238,14 +230,13 @@ git remote set-url origin git@github.com:your-username/your_repo.git
 
 ## הגישו את השינויים שלכם לסקירה
 
-  
 אם תלכו למאגר שלכם ב-GitHub, תוכלו לראות כפתור עם הכיתוב `Compare & pull request`. לחצו על כפתור זה.
 
-<img style="float: left;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: left;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="צור בקשת משיכה" />
 
 כעת, הגישו את בקשת הדחיפה (pull request):
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="שלח בקשת משיכה" />
 
 בקרוב, אצרף את כל השינויים לתוך הענף הראשי של פרויקט זה. אתם תקבלו עדכון במייל ברגע שהשינויים ימוזגו.
 
@@ -254,6 +245,8 @@ git remote set-url origin git@github.com:your-username/your_repo.git
 כל הכבוד! כרגע סיימתם את מעגל הזרימה הסטנדרטי של _fork -> clone -> edit -> pull request_ שאתם תפגשו באופן שכיח כתורמים!
 
 תחגגו את התרומתכם ושתפו אותה עם החברים והעוקבים שלכם בכך שתלכו ל-[web app](https://firstcontributions.github.io/#social-share).
+
+אם אתם רוצים עוד תרגול, בדקו את [תרומות הקוד](https://github.com/roshanjossey/code-contributions).
 
 עכשיו אפשר להתחיל לתרום לפרוייקטים אחרים. הכנו רשימה של פרוייקטים על נושאים קלים שאתם יכולים להתחיל לעבוד עליהם. [רשימה של פרוייקטים ב- web app](https://firstcontributions.github.io/#project-list).
 
