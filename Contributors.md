@@ -693,6 +693,7 @@ Prasit Sung
 - [Aryan Bansal](https://github.com/AryanAAB)
 - [Ashmita120](https://github.com/Ashmita120)
 - [Assaf Lewin](https://github.com/Assaf1713)
+- [Jack Stuart](https://github.com/stuja16)
 - [Ayomide Saheed](https://github.com/luc-ay)
 - [Ayush](https://github.com/AyushMaurya3114)
 - [Beetlesliu](https://github.com/Beetlesliu)
