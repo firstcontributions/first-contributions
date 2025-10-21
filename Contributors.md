@@ -475,6 +475,7 @@ Prasit Sung
 - [Yonas Girma](https://github.com/J0na555)
 - [Archit Anirudhan](https://github.com/4rch1tT)
 - [Zoe Reed](https://github.com/zoereedviz)
+- [Karthik](https://github.com/karthik)
 - [abishekh](https://github.com/Abishekhob)
 - [atlas-ian](https://github.com/atlas-ian)
 - [terror-akshat](https://github.com/terror-akshat)
