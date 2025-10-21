@@ -108,6 +108,7 @@
 - [Faizan_Deshmukh](https://github.com/faizan1317)
 - [Andrew_Yuan](https://github.com/YuKiAndrew)
 - [Saksham Singh](https://github.com/apexsaksham)
+- [Jaco Mostert](https://github.com/321008Jaco)
 - [ErosiveNoise](https://github.com/ErosiveNoise)
 - [Jose](https://github.com/NaturalTC)
 - [Alperen Söylen](https://github.com/Alperen012)
