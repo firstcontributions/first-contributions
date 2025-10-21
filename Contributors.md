@@ -66,6 +66,7 @@ Prasit Sung
   [Melanie Baker](https://github.com/Melanie-J-Baker)
 - [Viraj Dhamnaskar](https://github.com/Rootvikk)
 - [Mit_Patel](https://github.com/SimpleChap)
+- [Ali Mohammed](https://github.com/Aliexe-code)
 - [Mariana Mota](https://github.com/eumarianamota)
 - [marco rossi](https://github.com/Willy00blu)
 - [Narendra Singh](https://github.com/niksbanna)
