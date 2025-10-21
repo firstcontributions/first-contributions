@@ -175,6 +175,7 @@ Prasit Sung
   [Sachin](https://github.com/Sachin-2003-hub)
 - [Alan Titus](https://github.com/Alantitus)
 - [Srishti Soni](https://github.com/shimmer12)
+- [Sathvik Pilyanam](https://github.com/sathvik1610)
 - [Silvano Borea](https://github.com/Bearialus)
 - [Anisha Account](https://github.com/AnishaF05)
 - [Equilibrium-1](https://github.com/Equilibrium-1)
