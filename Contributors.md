@@ -2,6 +2,7 @@
 - [Vimal Bisht](https://github.com/VimalBisht2021)
 - [Prince Kumar](https://github.com/princeDevelops)
 - [Omar Hamdan](https://github.com/omarjrayman23)
+- [cheefbird](https://github.com/cheefbird)
 - [Mayank Kashyap](https://github.com/oneglitchx)
 - [Prashant Singh](https://github.com/its-bnf-cwalker)
 - [Shreeganesh Nayak](https://github.com/Shreeganeshhere)
