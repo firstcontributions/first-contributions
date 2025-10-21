@@ -3,6 +3,7 @@
 - [Vimal Bisht](https://github.com/VimalBisht2021)
 Prasit Sung
 - [Prince Kumar](https://github.com/princeDevelops)
+- [Tanuj Sharma](https://github.com/tanujsharma911)
 - [Omar Hamdan](https://github.com/omarjrayman23)
 - [cheefbird](https://github.com/cheefbird)
 - [Mayank Kashyap](https://github.com/oneglitchx)
