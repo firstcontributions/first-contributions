@@ -1356,6 +1356,7 @@
 - [Patel Smitkumar](https://github.com/smitRoot)
 - [Peleg Ben Barak](https://github.com/peleg-bb)
 - [Pratyush Gupta](https://github.com/MrPratsJi)
+- [tjbergner](https://github.com/tjbergner)
 - [Pritha Maity](https://github.com/PrithaMaity)
 - [Pujan Bohora](https://github.com/pujanbohora)
 - [RUDRA TAILOR](https://github.com/RudraTailor)
