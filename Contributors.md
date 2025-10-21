@@ -1950,3 +1950,4 @@
 - [Mason Tipton](https://github.com/thorncoded) :3
 - [Sean McChesney](https://github.com/FrogWarlord)
 - [Connor Johnson](https://github.com/ConnorJ666)
+- [Pranay Gadh] (https://github.com/Pranay22077)
