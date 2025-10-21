@@ -25,7 +25,7 @@ Maintenant, clonez ce répertoire sur votre ordinateur. Allez sur votre compte G
 
 Ouvrez une invite de commande (si vous êtes sous Windows) ou un terminal (si vous êtes sous MacOS ou Linux) et exécutez la commande git suivante :
 
-```
+```bash
 git clone "l'url que vous venez de copier"
 ```
 
@@ -35,7 +35,7 @@ où "l'url que vous venez de copier" (sans les guillemets) est l'url du dépôt 
 
 Par exemple :
 
-```
+```bash
 git clone https://github.com/votre-nom-d-utilisateur/first-contributions.git
 ```
 
@@ -45,19 +45,19 @@ où `votre-nom-d-utilisateur` est votre nom d'utilisateur GitHub. Ici vous êtes
 
 Déplacez-vous dans le répertoire du projet nouvellement cloné (si vous n'y êtes pas encore) :
 
-```
+```bash
 cd first-contributions
 ```
 
 Maintenant créez une branche avec la commande `git checkout` :
 
-```
+```bash
 git checkout -b <add-votre-nom>
 ```
 
 Par exemple :
 
-```
+```bash
 git checkout -b add-koffi-sani
 ```
 
@@ -68,7 +68,7 @@ Si le message "Git: switch is not a git command. See git –help" s’affiche, c
 
 Dans ce cas, essayez plutôt :
 
-```
+```bash
 git checkout -b nom-de-ta-nouvelle-branche
 ```
 
@@ -82,13 +82,13 @@ Ouvrez le fichier `Contributors.md` dans un éditeur de texte, ajoutez-y votre n
 
 Si vous ouvrez l'invite de commande et que vous exécutez la commande `git status`, vous verrez qu'il y a des modifications. Ajoutez ces modifications à la branche que vous venez de créer avec la commande `git add` :
 
-```
+```bash
 git add Contributors.md
 ```
 
 Maintenant faites un commit de ces modifications avec la commande `git commit`:
 
-```
+```bash
 git commit -m "Add <votre-nom> to Contributors list"
 ```
 
@@ -98,7 +98,7 @@ en remplaçant `<votre-nom>` par votre nom.
 
 Poussez vos modifications avec la commande `git push` :
 
-```
+```bash
 git push -u origin <nom-de-votre-branche>
 ```
 
@@ -118,7 +118,7 @@ Si elle ressemble à ceci :
 
 Modifiez-la avec cette commande :
 
-```
+```bash
 git remote set-url origin git@github.com:ton-nom-utilisateur/ton_repo.git
 ```
 
@@ -145,31 +145,31 @@ La branche main de votre dépôt forké ne subira pas de modification. Pour que 
 
 D'abord, basculez sur la branche main
 
-```
+```bash
 git checkout main
 ```
 
 Et ajouter l'url de mon répertoire comme `upstream remote url` :
 
-```
+```bash
 git remote add upstream https://github.com/Roshanjossey/first-contributions
 ```
 
 Ceci est une manière de dire à git qu'une autre version de ce répertoire existe à l'adresse spécifiée et que nous l'appelons `upstream`. Une fois les modifications fusionnées, cherchez la nouvelle version de mon répertoire :
 
-```
+```bash
 git fetch upstream
 ```
 
 Ici nous cherchons toutes les modifications dans mon embranchement (upstream remote). Maintenant, vous devez fusionner la nouvelle révision de mon répertoire avec votre branche main :
 
-```
+```bash
 git rebase upstream/main
 ```
 
 Ici nous appliquons toutes les modifications que vous avez récupéré à la branche main. Si vous poussez la branche main maintenant, votre embranchement aussi aura les modifications :
 
-```
+```bash
 git push origin main
 ```
 
@@ -177,13 +177,13 @@ Avertissement: Cette fois, vous poussez les modifications au répertoire distant
 
 A cet instant j'ai fusionné votre branche `<add-votre-nom>` avec ma branche main, et vous avez fusionné ma branche main avec votre branche main. Votre branche `<add-votre-nom>` n'est plus utile, donc vous pouvez la supprimer :
 
-```
+```bash
 git branch -d <add-votre-nom>
 ```
 
 et vous pouvez supprimer sa version dans le répertoire distant aussi :
 
-```
+```bash
 git push origin --delete <add-votre-nom>
 ```
 
