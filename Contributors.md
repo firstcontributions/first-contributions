@@ -59,6 +59,7 @@ Prasit Sung
 - [anjali-ojha17](https://github.com/anjali-ojha17)
 - [Kavinila_L](https://github.com/KavinilaLoganathan-2507)
 - [Sara]
+- [Ayoub Ben Aissa](https://github.com/Frontier101)
 - [Nsiru Williams](https://github.com/Cokekoro)
 - [Priyeash Bala](https://github.com/priyeashbala)
 - [Nishita Kashyap](https://github.com/nishitakashyap)
@@ -475,6 +476,7 @@ Prasit Sung
 - [Yonas Girma](https://github.com/J0na555)
 - [Archit Anirudhan](https://github.com/4rch1tT)
 - [Zoe Reed](https://github.com/zoereedviz)
+- [Karthik](https://github.com/karthik)
 - [abishekh](https://github.com/Abishekhob)
 - [atlas-ian](https://github.com/atlas-ian)
 - [terror-akshat](https://github.com/terror-akshat)
@@ -1690,6 +1692,7 @@ Prasit Sung
 - [Srikant M K](https://github.com/srixmk)
 - [Harini R A J](https://github.com/Harini-RAJ)
 - [Ashwin Joby George](https://github.com/AshwinJobyG) - Maximum Effort
+- [Yoshiki Watari](https://github.com/yoshiki-w78)
 - [Zahra Shefa](https://github.com/zahrashefa318)
 - [Purushottam-Singh](https://github.com/purakh)
 - [ritik-dubey](https://github.com/DubeyRitik)
