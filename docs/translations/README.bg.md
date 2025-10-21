@@ -12,7 +12,7 @@
 #### *Ако не се чувствате комфортно използвайки command line (терминал), [ето и уроци за използването на програми с графичен интерфейс](#Уроци-за-иползването-на-други-приложения)*
 
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="форкни това хранилище" />
 
 Ако нямате git на вашия компютър, [инсталирайте го]( https://help.github.com/articles/set-up-git/).
 
@@ -23,7 +23,7 @@
 
 ## Клонирайте това хранилище
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="клонирай това хранилище" />
 
 Сега клонирайте локално на вашия компютър разклоненото хранилище. Отидете във вашия GitHub профил, отворете разклоненото хранилище,
 кликнете на бутона 'Clone' и копирайте линка или натиснете иконката 'copy to clipboard' (копирай в клипборда).
@@ -35,13 +35,13 @@ git clone "линка който току-що копирахте"
 ```
 като на мястото на  "URL-а който току-що копирахте" (без кавичките) поставете линка към това хранилище (Вашето Разклонение на този проект). Вижте
 предните стъпки за това как да се сдобиете с линка.
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="копирай URL в клипборда" />
 
 Например:
 ```
-git clone https://github.com/this-is-you/first-contributions.git
+git clone https://github.com/това-си-ти/first-contributions.git
 ```
-Като на мястото на `this-is-you` се намира вашето потребителско име. В тази стъпка вие направихте копие на съдържанието на GitHub хванилището на 'first contributions' във вашия компютър.
+Като на мястото на `това си ти` се намира вашето потребителско име. В тази стъпка вие направихте копие на съдържанието на GitHub хванилището на 'first contributions' във вашия компютър.
 
 ## Създайте клон (branch)
 
@@ -52,7 +52,7 @@ cd first-contributions
 ```
 Сега създайте клон използвайки командата `git switch -c`:
 ```
-git switch -c <add-your-new-branch-name>
+git switch -c <име на новия клон>
 ```
 
 Например:
@@ -79,27 +79,27 @@ git add Contributors.md
 
 Сега commit-нете тези промени с командата `git commit`:
 ```
-git commit -m "Add <your-name> to Contributors list"
+git commit -m "Add <svoyeto ime> to Contributors list"
 ```
-като смените `<your-name>` с вашето име.
+като смените `<svoyeto ime>` с вашето име.
 
 ## Качете (Push) промените в GitHub
 
 Качете вашите промени като въведете командата `git push`:
 ```
-git push origin <add-your-branch-name>
+git push origin <добави името на твоя клон>
 ```
-сменяйки `<add-your-branch-name>` с името на клона, който създадохте по-рано.
+сменяйки `<клон името>` с името на клона, който създадохте по-рано.
 
-## Предайте вашите промени за рецензия
+## Предайте (submit) вашите промени за рецензия
 
 Ако отидете във вашето хранилище в GitHub, ще видите бутона  `Compare & pull request`. Натиснете го.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="Създай pull request"/>
 
 Сега предайте вашите промени за рецензия.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="изпрати pull request" />
 
 Скоро аз ще слея (merge) всички ваши промени в главния клон (мастер branch) на този проект. Вие ще бъдете уведомени по електронната поща когато това се случи.
 
