@@ -24,7 +24,7 @@ Teraz sklonuj repozytorium na swój komputer. Przejdź do swojego konta GitHub, 
 
 Otwórz konsolę i uruchom komendę git:
 
-```
+```bash
 git clone <skopiowany-adres>
 ```
 
@@ -34,7 +34,7 @@ Gdzie `<skopiowany-adres>` to adres tego repozytorium (twojej kopii tego projekt
 
 Przykład:
 
-```
+```bash
 git clone https://github.com/to-ty/first-contributions.git
 ```
 
@@ -44,19 +44,19 @@ W miejscu `to-ty` to twój login na GitHubie. W tym kroku ściągasz zawartość
 
 Wejdź do folderu ze swoim repozytorium (jeżeli jeszcze tam nie jesteś):
 
-```
+```bash
 cd first-contributions
 ```
 
 Teraz utwórz nową gałąź wykonując polecenie `git switch`:
 
-```
+```bash
 git switch -c <add-twoje-imie>
 ```
 
 Przykład
 
-```
+```bash
 git switch -c add-adam-kowalski
 ```
 
@@ -84,13 +84,13 @@ Upewnij się że nie ma spacji pomiędzy `](`. Zapisz plik i następnie go zamkn
 
 Jeżeli wejdziesz do folderu ze swoim repozytorium i wykonasz komendę `git status`, zobaczysz, że są tam zmiany. Dodaj te zmiany do gałęzi którą właśnie utworzyłeś używając komendy `git add`:
 
-```
+```bash
 git add Contributors.md
 ```
 
 Teraz zapisz te zmiany wykonując komendę `git commit`:
 
-```
+```bash
 git commit -m "Add <twoje-imie> to Contributors list"
 ```
 
@@ -100,7 +100,7 @@ Zastąp `<twoje-imie>` swoim imieniem i nazwiskiem.
 
 Wyślij swoje zmiany komendą `git push`:
 
-```
+```bash
 git push -u origin <add-twoje-imie>
 ```
 
