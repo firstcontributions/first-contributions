@@ -10,7 +10,7 @@
 
 _如果你不喜歡使用指令列，[這裡有使用圖形界面工具的教學。](#使用其他工具的教學)_
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="分叉本儲存庫" />
 
 #### 如果你的電腦上尚未安裝 git，請按照這個[安裝指南（英文）](https://help.github.com/articles/set-up-git/)進行安裝。
 
@@ -21,7 +21,7 @@ _如果你不喜歡使用指令列，[這裡有使用圖形界面工具的教學
 
 ## 複製（Clone）儲存庫
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="複製本儲存庫" />
 
 接下來，將分叉後的儲存庫複製到你/妳的電腦上。前往你/妳的GitHub帳號，打開分叉到帳號下的儲存庫，點選圖示中的綠色按鈕，接著在SSH分頁上點選*複製到剪貼簿*按鈕（將儲存庫網址複製下來）。
 
@@ -33,7 +33,7 @@ git clone "url you just copied"
 
 "url you just copied"（去掉雙引號）就是複製到妳/你帳戶名下的儲存庫網址。取得這網址的方法請見上一步。
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="複製連結到剪貼簿" />
 
 譬如：
 
@@ -82,7 +82,7 @@ git checkout -b your-new-branch-name
 
 使用妳/你喜歡的編輯器打開 `Contributors.md` 這個文件，將自己的名字加在檔案中，不要將其添加到文件的開頭或結尾。將其新增至文件中間的任意位置，然後存檔。
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="被更動的文件" />
 
 在命令窗口執行 `git status`，這會列出被更動的文件。
 
@@ -137,11 +137,11 @@ git push -u origin your-branch-name
 
 前往你/妳的GitHub帳號，打開分叉到帳號下的儲存庫，會看到一個 `Compare & pull request` 的按鈕，點選該按鈕。
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="建立一個 pull request" />
 
 接著再點選 `Create pull request` 按鈕，正式提交 pull request。
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="提出 pull request" />
 
 不久之後，如果妳/你更改的文件與原本沒有衝突，我們會把所有的變化合併到這個項目的主分支。
 變更合併後，妳/你會收到通知 email。
