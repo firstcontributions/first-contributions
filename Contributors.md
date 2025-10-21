@@ -1839,6 +1839,7 @@
 - [Nelan](https://github.com/NelanJoe)
 - [TheFooL](https://github.com/AmjustGettingStarted)
 - [mlody1377](https://github.com/mlody1377)
+- [Roman Rogers](https://github.com/romannrogers)
 - [Neda Darbandsari](https://github.com/NeDarbandsari)
 - [Amrita Singh🌼](https://github.com/daisy-amrita)
 - [Jabrail Shahbazov](https://github.com/JabrailShahbazov)
