@@ -1691,6 +1691,7 @@ Prasit Sung
 - [Srikant M K](https://github.com/srixmk)
 - [Harini R A J](https://github.com/Harini-RAJ)
 - [Ashwin Joby George](https://github.com/AshwinJobyG) - Maximum Effort
+- [Yoshiki Watari](https://github.com/yoshiki-w78)
 - [Zahra Shefa](https://github.com/zahrashefa318)
 - [Purushottam-Singh](https://github.com/purakh)
 - [ritik-dubey](https://github.com/DubeyRitik)
