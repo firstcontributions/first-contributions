@@ -26,6 +26,7 @@
 - [Rayan Mamhoud](https://github.com/ryanneekidev)
 - [Jason Lamb](https://github.com/jasrasr)
 - [Adrian Juarez](https://github.com/adrianjzc)
+- [Aryan Rai](https://github.com/Fang1331)
 - [Khaled Al Katheri](https://github.com/KhaledAlKatheri)
 - [Yesebu](https://github.com/MylapalliYesebu) - "First open-source contribution — learning by doing"
 - [Shaurya Tamang](https://github.com/GoTouchGra55)
