@@ -53,6 +53,7 @@
 - [Vikas Mishra](https://github.com/vikasmishra1691)
 - [Arka Banerjee](https://github.com/thearkabanerjee)
 - [aditya_D](https://github.com/aditya-dalal-24)
+- [Ismael Suarez](https://github.com/ish-suarez)
 - [Ashutosh_kesarwani](https://github.com/Lucifer-0612)
 - [Eliezer-r](https://github.com/Eliezer-R)
 - [Asmodeuos](https://github.com/Asmodeuos)
