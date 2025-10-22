@@ -24,99 +24,106 @@ This will create a copy o' this repository in yer account.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="make yer own copy o’ this treasure" />
 
-Now clone this repo t' yer machine. Go t' yer GitHub account, skewer on th' clone button 'n then skewer th' *copy to clipboard* icon.
+Now clone this repo the on your machine. Go to your GitHub account, click on the clone button and then  click on *copy to clipboard* icon.
 
-Open a terminal 'n run th' followin' git command:
+Open a terminal and run the following git command:
+
+```bash
+git clone "https://github.com/this-be-ye/first-contributions.git"
+cd first-contributions
+git checkout -b <add-your-branch-name>
+git checkout -b add-luke-oliff
+git add Contributors.md
+git commit -m "Add <yer-name> to Contributors list"
+git push origin <add-yer-branch-name>
 
 ```
-git clone "url ye jus' copied"
-```
 
-where "url ye jus' copied" (without th' quote marks) be th' url t' this repository (yer fork o' this project). See th' previous steps t' obtain th' url.
+where "url you copied" (without the quote marks) be the url for this repository (yes fork to this project). See the previous steps to obtain the url.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="snatch the map link to yer clipboard" />
 
 Fer example:
 
-```
+```bash
 git clone https://github.com/this-be-ye/first-contributions.git
 ```
 
-where `this-be-ye` be yer GitHub username. Here ye're copyin' th' contents o' th' first-contributions repository in GitHub t' yer 'puter.
+where `this-be-ye` be your GitHub username. Here you are copying the contents of the first-contributions repository in GitHub to your github acccount.
 
 ## Create a branch
 
-Change t' th' repository directory on yer 'puter (if ye be nah already thar):
+Change the repository directory on your machine (if it already exists):
 
-```
+```bash
 cd first-contributions
 ```
 
-Now create a branch usin' th' `git checkout` command:
+Now create a branch using the `git checkout` command:
 
-```
+```bash
 git checkout -b <add-your-new-branch-name>
 ```
 
 Fer example:
 
-```
+```bash
 git checkout -b add-luke-oliff
 ```
 
-(Th' name o' th' branch does nah needs t' 'ave th' word *add* in it, but 'tis a reasonable thin' t' include 'cause th' purpose o' this branch be t' add yer name t' a list.)
+(The name of the branch does not needs the and has the word *add* in it, but this a reasonable  include cause the purpose on this branch be t' add yer name t' a list.)
 
 ## Make necessary changes 'n commit those changes
 
-Now open `Contributors.md` file in a text editor, add yer name t' it. Don't add it at th' beginnin' or end o' th' file. Put it anywhere in between. Now, save th' file.
+Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end at the file. Put it anywhere in between. Now, save the file.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="check the ship’s log" />
 
-If ye go t' th' project directory 'n execute th' command `git status`, ye'll see thar are changes.
+If yes go to the project directory and execute the command `git status`, you will see the  changes.
 
-Add those changes t' th' branch ye jus' created usin' th' `git add` command:
+Add those changes to the branch you just created using the `git add` command:
 
-```
+```bash
 git add Contributors.md
 ```
 
-Now commit those changes usin' th' `git commit` command:
+Now commit those changes using the `git commit` command:
 
-```
+```bash
 git commit -m "Add <yer-name> to Contributors list"
 ```
 
-replacing `<yer-name>` with your name.
+replacing `<your-name>` with your name.
 
 ## Push changes t' GitHub
 
-Push yer changes usin' th' command `git push`:
+Push your changes using the command `git push`:
 
-```
+```bash
 git push origin <add-yer-branch-name>
 ```
 
-replacin' `<add-yer-branch-name>` wit' th' name o' th' branch ye created earlier.
+replace `<add-your-branch-name>` with the name to the branch you created earlier.
 
 ## Submit yer changes fer review
 
-If ye go t' yer repository on GitHub, ye'll see a  `Compare & pull request` button.  Click on that button.
+If ye go to your repository on GitHub, you'll see a  `Compare & pull request` button.  Click on that button.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="raise a flag fer a pull request" />
 
-Now submit th' pull request.
+Now submit the pull request.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="send yer pull request to the captain" />
 
-Soon I'll be mergin' all yer changes into th' master branch o' this project. Ye will get a notification email once th' changes 'ave been merged.
+Soon It will merge all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
-## Where t' go from here?
+## Where this go from here?
 
-Well done! Ye jus' completed th' standard _fork -> clone -> edit -> PR_ workflow that ye'll encounter often as a contributor!
+Well done! You just completed the standard _fork -> clone -> edit -> PR_ workflow that you will encounter often as a contributor!
 
-Celebrate yer contribution 'n share it wit' yer hearties 'n followers by goin' t' [web app](https://firstcontributions.github.io/#social-share).
+Celebrate yer contribution and share it with yer hearties andn followers by going to [web app](https://firstcontributions.github.io/#social-share).
 
-Now let's get ye started wit' contributin' t' other projects. We've compiled a list o' projects wit' easy issues ye can get started on. Check out [th' list o' projects in web app](https://firstcontributions.github.io/#project-list).
+Now let's get ye started with contributing to other projects. We've compiled a list of projects with easy issues ye can get started on. Check out [the list of projects in web app](https://firstcontributions.github.io/#project-list).
 
 ### [Additional material](../additional-material/git_workflow_scenarios/additional-material.md)
 
