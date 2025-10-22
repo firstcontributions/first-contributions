@@ -1,5 +1,6 @@
 # Contributors
 - [Omveer](https://github.com/narukaz/)
+-[Nimsh-Agrawal](https://github.com/nimishagrawal1405)
 - [Mir-Asim-Ali](https://mirasim.netlify.app/)
 - [GENJI J](https://github.com/anya-minamoto)
 - [smdekate-cs](https://github.com/smdekate-cs)
