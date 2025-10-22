@@ -1,6 +1,7 @@
 # Contributors
 
 - My First Contro
+- [limay tidke](https://github.com/limaytidke)
 - [Tushar](https://github.com/tushaar-05)
 - [Krzysztof Sulkowski] (https://github.com/krzysztofsulkowski)
 - [Elmar Chavez](https://github.com/CodingWithJiro)
@@ -114,12 +115,12 @@
 - [Jonatha Carvalho](https://github.com/jowgaze)
 - [Mohamed Irsath](https://github.com/mohamedirsath07)
 - [Yash Pachauri](https://github.com/yashpachauri1)
-- [Mark Connor](https://github.com/markjconnor)
+- [Mark Connor](https://github.com/markjconnor)git@github.com:limaytidke/first-contributions.git
 - [Dharmendra Solanki](https://github.com/ProgrammingPirates)
 - [Ryno de Beer](https://github.com/Rynoo1)
 - [Ahtisham Shaikh](https://github.com/Ahtisham-1214)
 - [Noe Hernandez](https://github.com/kreeptales)
-- [Jayashankar R J](https://github.com/RJJayashankar)
+- [Jayashankar R J](https://github.com/RJJayashankar)git@github.com:limaytidke/first-contributions.git
 - [Faizan_Deshmukh](https://github.com/faizan1317)
 - [Andrew_Yuan](https://github.com/YuKiAndrew)
 - [Saksham Singh](https://github.com/apexsaksham)
@@ -263,7 +264,7 @@
 - [Andrew Park](https://github.com/AndePark)
 - [Mason Boucher](https://github.com/mcboucher10)
 - [Mariana Rutter](https://github.com/marianaluu)
-- [Rudresh Suryawanshi](https://github.com/Rudresh-11)
+- [Rudresh Suryawanshi](https://github.comgit@github.com:limaytidke/first-contributions.git/Rudresh-11)
 - [Clement Zentz](https://github.com/clement-zentz)
 - [S-Dedeepya](https://github.com/S-Dedeepya)
 - [Fred](https://github.com/kipkemoifred)
@@ -283,7 +284,7 @@
 - [Hassan Najam](https://github.com/Hassan5117)
 - [Abdelkader Charef Eddine Djellil (djacbi)](https://github.com/AbdelkaderCE/)
 - [Vaibhav Bakliwal](https://github.com/bakliwalvaibhav1)
-- [Jams The Great](https://www.youtube.com/watch?v=xvFZjo5PgG0)
+- [Jams The Great](https://www.youtube.com/watch?v=xvFZjo5PgG0)git@github.com:limaytidke/first-contributions.git
 - [Shaurya Agrawal](https://github.com/Cranberry7)
 - [Lalith Krishna Vangara](https://github.com/VLK-123)
 - [Ankit Singh](https://github.com/ANKITsingh-git2)
