@@ -195,6 +195,7 @@
 - [Towhidul Islam](https://github.com/towhidulbu08)
 - [Nitin Singh Bisht](https://github.com/NitinNSB)
 - [Tebogo Ramolobeng](https://github.com/221244-Tebogo)
+- [Michaela Kemp](https://github.com/MichaelaKemp)
 - [Ciara](https://github.com/ciahan)
 - [Elton Coura](https://github.com/EltonCoura)
 - [Shashank Avvaru](https://github.com/Shashankavvaru-hub)
