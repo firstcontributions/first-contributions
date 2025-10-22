@@ -31,7 +31,7 @@ git clone "url si nèwɔ kɔpi na fifia"
 ```
 afisi "url si nèwɔ kɔpi teti koe nye ema" (si me nyayɔyɔawo mele o) nye url si le agbalẽdzraɖoƒea. Kpɔ akpa si do ŋgɔ be nàxɔ url la.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copier l'URL dans le presse-papier" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="Kpia URL la ɖe clipboard me" />
 
 Le kpɔɖeŋu me :
 ```
@@ -82,11 +82,11 @@ tsɔ alɔdze si wowɔ va yi ƒe ŋkɔ ɖɔli `<wò-ŋkɔ>`.
 
 Ne èyi wò nudzraɖoƒe le Github la, àkpɔ `Compare & pull request` ƒe dzesi. Zi dzesi sia dzi.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="Wɔ pull request aɖe." />
 
 Azɔ tsɔ hehe ƒe biabiaa ɖo ɖa.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="Fia pull request la ɖa." />
 
 Eteƒe madidi o, maƒo miaƒe tɔtrɔwo katã nu ƒu ɖe dɔ sia ƒe alɔdze vevitɔ me. Àxɔ nyatakaka to e-mail dzi ne wonya wu ƒoƒo ɖekae nu ko.
 
