@@ -2,6 +2,7 @@
 
 - My First Contro
 - [Tushar](https://github.com/tushaar-05)
+- [Krzysztof Sulkowski] (https://github.com/krzysztofsulkowski)
 - [Elmar Chavez](https://github.com/CodingWithJiro)
 - [Leandro Freitas](https://github.com/LFreitas88)
 - [Tedliu](https://github.com/qsc811022)
