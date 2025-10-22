@@ -1,0 +1,36 @@
+.card {
+    height: 32rem;
+    width: -moz-available;
+    width: -webkit-fill-available;
+    width: fill-available;
+}
+
+header {
+    background-color: #070707;
+    text-align: center;
+    margin-top: -14px;
+    padding: 4rem 2rem;
+}
+
+@media (min-width:961px)  {
+    header {
+        padding: 12rem 4rem;
+    }
+}
+
+h1 {
+    color: #fafafa;
+    font-size: 4rem;
+    font-weight: 700;
+    letter-spacing: -.05em;
+}
+
+h1 span {
+    -webkit-text-fill-color: #0000;
+    background: linear-gradient(90deg, #60faa3, #1dd829);
+    -webkit-background-clip: text;
+}
+
+.success.button {
+    font-weight: 700;
+}

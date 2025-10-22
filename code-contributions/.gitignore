@@ -1,0 +1,13 @@
+scripts/contributors.js
+
+.DS_Store
+.idea/
+.vs
+.env
+
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.swp

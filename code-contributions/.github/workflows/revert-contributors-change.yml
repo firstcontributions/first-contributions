@@ -1,0 +1,43 @@
+name: Revert contributors.js changes
+
+on:
+  pull_request_target:
+    paths:
+      - 'scripts/contributors.js'
+
+jobs:
+  revert-changes:
+    name: Revert changes to contributors.js
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
+          fetch-depth: 0
+
+      - name: Revert changes to contributors.js
+        run: |
+          # Check if the file has changed
+          if git diff --name-only ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }} | grep -q 'scripts/contributors.js'; then
+            echo "Changes detected in scripts/contributors.js - reverting..."
+      
+            # Ensure we're on the branch, not detached HEAD
+            git checkout ${{ github.event.pull_request.head.ref }}
+      
+            # Revert the file
+            git checkout ${{ github.event.pull_request.base.sha }} -- scripts/contributors.js
+      
+            # Configure git
+            git config --global user.name "GitHub Actions"
+            git config --global user.email "actions@github.com"
+      
+            # Commit and push
+            git commit -m "Revert changes to scripts/contributors.js [skip ci]"
+            git push origin ${{ github.event.pull_request.head.ref }}
+      
+            echo "Changes to scripts/contributors.js have been reverted."
+          else
+            echo "No changes to scripts/contributors.js detected."
+          fi

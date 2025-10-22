@@ -1,0 +1,115 @@
+<article class="profile-card">
+    <!-- Profile header -->
+    <div class="profile-header">
+        <!--<img src="" alt="Profile photo" class="profile-pic" />-->
+        <h3>Jamsheera M P</h3>
+        <p>MCA graduate | Full-stack Developer | Javascript, Node.js, React & MongoDB</p>
+    </div>
+
+    <!-- Languages -->
+    <h4>Programming Languages</h4>
+    <section class="container">
+
+        <div class="badge" style="background-color: #f7df1e; color: black">JavaScript</div>
+        <div class="badge" style="background-color: #3178c6; color: white">TypeScript</div>
+
+
+    </section>
+
+    <!-- Tools -->
+    <h4>Tools I Use</h4>
+    <section class="container">
+
+        <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+        <img class="icon"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+        <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+        <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+
+
+    </section>
+</article>
+
+<style>
+    body {
+        font-family: "Segoe UI", sans-serif;
+        background: linear-gradient(135deg, #ece9e6, #ffffff);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+    }
+
+    .profile-card {
+        max-width: 400px;
+        background: white;
+        border-radius: 1rem;
+        box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+        padding: 2rem;
+        text-align: center;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .profile-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 12px 25px rgba(0, 0, 0, 0.2);
+    }
+
+    .profile-header {
+        margin-bottom: 1rem;
+    }
+/*
+    .profile-pic {
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+        border: 3px solid #3874a4;
+        margin-bottom: 0.5rem;
+    }
+*/
+    .container {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.5rem;
+        justify-content: center;
+        margin-bottom: 1rem;
+    }
+
+    .badge {
+        padding: 0.4rem 0.7rem;
+        border-radius: 0.5rem;
+        font-size: 0.85rem;
+        font-weight: 600;
+        transition: transform 0.2s ease;
+    }
+
+    .badge:hover {
+        transform: scale(1.1);
+    }
+
+    .icon {
+        width: 2.5rem;
+        height: 2.5rem;
+        transition: transform 0.2s ease;
+    }
+
+    .icon:hover {
+        transform: scale(1.2);
+    }
+
+    h3 {
+        margin: 0.5rem 0 0.2rem 0;
+    }
+
+    p {
+        font-size: 0.9rem;
+        color: #555;
+        margin: 0;
+    }
+
+    h4 {
+        margin-top: 1rem;
+        margin-bottom: 0.5rem;
+        color: #333;
+    }
+</style>

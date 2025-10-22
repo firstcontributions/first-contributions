@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AltDarkCtrl</title>
+    <style>
+        body {
+            /* Set background color and font styles */
+            background-color: #000;
+            color: #fff;
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            overflow: hidden; /* Prevent scrollbars from appearing */
+            display: flex; /* Use Flexbox to center content */
+            justify-content: center; /* Horizontal centering */
+            align-items: center; /* Vertical centering */
+            min-height: 100vh; /* Ensure the body takes up the full viewport height */
+        }
+
+        .container {
+            text-align: center;
+        }
+
+        .target-name {
+            /* Styles for the target name */
+            font-size: 8rem; /* Font size, can be adjusted */
+            font-weight: bold;
+            text-transform: uppercase;
+            letter-spacing: 5px;
+            /* Blinking/Glow effect */
+            animation: glow 1.5s infinite alternate;
+            text-shadow: 0 0 10px #00FFFF, 0 0 20px #00FFFF, 0 0 30px #00FFFF, 0 0 40px #00FFFF, 0 0 50px #00FFFF, 0 0 60px #00FFFF, 0 0 70px #00FFFF;
+        }
+
+        /* Keyframe animation: create the glow effect */
+        @keyframes glow {
+            from {
+                text-shadow: 0 0 10px #00FFFF, 0 0 20px #00FFFF;
+                opacity: 0.8;
+            }
+            to {
+                text-shadow: 0 0 20px #00FFFF, 0 0 30px #00FFFF, 0 0 40px #00FFFF, 0 0 50px #00FFFF, 0 0 60px #00FFFF;
+                opacity: 1;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1 class="target-name">AltDarkCtrl</h1>
+    </div>
+
+</body>
+</html>

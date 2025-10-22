@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Nikhil Yadav — Android Developer Card</title>
+  <style>
+    :root{
+      --bg:#0f1724;
+      --card-bg: rgba(255,255,255,0.08);
+      --accent: rgba(99,102,241,0.85);
+      --glass-border: rgba(255,255,255,0.12);
+      --glass-highlight: rgba(255,255,255,0.06);
+      font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+    }
+    html,body{height:100%;margin:0;background:linear-gradient(135deg,#071029 0%, #081225 50%, #0b1930 100%);display:flex;align-items:center;justify-content:center}
+
+    /* container */
+    .card-wrap{width:360px;max-width:92%;padding:28px;border-radius:18px;position:relative;overflow:hidden;
+      background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));
+      border:1px solid var(--glass-border);
+      box-shadow: 0 10px 30px rgba(2,6,23,0.7);
+      backdrop-filter: blur(10px) saturate(140%);
+    }
+
+    /* subtle animated gradient glow */
+    .card-wrap::before{
+      content:"";position:absolute;inset:-40%;background:radial-gradient(closest-side, rgba(99,102,241,0.14), transparent 30%);
+      transform:translate(-10%, -30%) rotate(20deg);filter:blur(30px);pointer-events:none;
+    }
+
+    header{display:flex;gap:14px;align-items:center}
+    .avatar{
+      width:72px;height:72px;border-radius:14px;flex:0 0 72px;
+      background:linear-gradient(135deg, rgba(255,255,255,0.06), rgba(255,255,255,0.02));
+      border:1px solid rgba(255,255,255,0.06);display:flex;align-items:center;justify-content:center;font-weight:700;color:white;font-size:20px
+    }
+    h1{margin:0;color:#fff;font-size:18px;line-height:1}
+    h2{margin:2px 0 0 0;color:rgba(255,255,255,0.78);font-size:12px;font-weight:600}
+
+    .meta{display:flex;gap:10px;margin-top:14px;flex-wrap:wrap}
+    .pill{font-size:11px;padding:6px 10px;border-radius:999px;background:linear-gradient(90deg, rgba(255,255,255,0.03), rgba(255,255,255,0.01));border:1px solid rgba(255,255,255,0.04);color:rgba(255,255,255,0.9)}
+
+    /* content */
+    .content{margin-top:16px;color:rgba(255,255,255,0.85);font-size:13px;line-height:1.35}
+    .skills{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}
+    .skill{font-size:12px;padding:6px 8px;border-radius:8px;background:rgba(255,255,255,0.03);border:1px solid rgba(255,255,255,0.03)}
+
+    /* contribution block inspired by CONTRIBUTING.md structure */
+    .contribute{margin-top:14px;padding:12px;border-radius:12px;background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));border:1px solid rgba(255,255,255,0.03)}
+    .contribute h3{margin:0 0 8px 0;font-size:13px;color:rgba(255,255,255,0.95)}
+    .steps{font-size:12px;color:rgba(255,255,255,0.8);display:grid;gap:6px}
+    .steps div{display:flex;gap:8px;align-items:flex-start}
+    .step-num{min-width:20px;height:20px;border-radius:6px;background:linear-gradient(90deg,var(--accent), rgba(99,102,241,0.55));display:flex;align-items:center;justify-content:center;color:white;font-size:12px}
+
+    .actions{display:flex;gap:10px;margin-top:12px}
+    .btn{padding:9px 12px;border-radius:10px;border:none;cursor:pointer;font-weight:600;background:linear-gradient(90deg,var(--accent), rgba(99,102,241,0.6));color:white}
+    .btn.secondary{background:transparent;border:1px solid rgba(255,255,255,0.06);color:rgba(255,255,255,0.9)}
+
+    footer{margin-top:14px;display:flex;justify-content:space-between;align-items:center;color:rgba(255,255,255,0.6);font-size:12px}
+
+    @media (max-width:420px){.card-wrap{padding:18px;border-radius:14px}.avatar{width:60px;height:60px}}
+  </style>
+</head>
+<body>
+  <article class="card-wrap" role="region" aria-label="Nikhil Yadav Android Developer Card">
+    <header>
+      <div class="avatar">NY</div>
+      <div>
+        <h1>Nikhil Yadav</h1>
+        <h2>Android Developer</h2>
+        <div class="meta">
+          <div class="pill">KageForm — Founder</div>
+          <div class="pill">Final-year B.Tech (CSE)</div>
+        </div>
+      </div>
+    </header>
+
+    <div class="content">
+      <p>Passionate Android developer building performant, accessible apps. Focused on Kotlin, Jetpack, and automated testing. Currently working on AI-assisted 3D generation tooling for Blender.</p>
+
+      <div class="skills">
+        <div class="skill">Kotlin</div>
+        <div class="skill">Jetpack Compose</div>
+        <div class="skill">Android Architecture</div>
+        <div class="skill">MVVM &amp; Clean Arch</div>
+        <div class="skill">CI / CD</div>
+      </div>
+
+      <section class="contribute" aria-labelledby="contrib-title">
+        <h3 id="contrib-title">How to contribute (quick)</h3>
+        <div class="steps">
+          <div><span class="step-num">1</span><div><strong>Fork</strong> the repo and create a branch for your change.</div></div>
+          <div><span class="step-num">2</span><div><strong>Follow code style</strong> — keep commits small and descriptive.</div></div>
+          <div><span class="step-num">3</span><div><strong>Run tests</strong> and add unit/instrumentation tests where applicable.</div></div>
+          <div><span class="step-num">4</span><div><strong>Submit PR</strong> with a clear description and link to related issue.</div></div>
+        </div>
+
+        <div class="actions">
+          <button class="btn" onclick="window.open('https://github.com/Roshanjossey/code-contributions','_blank')">View CONTRIBUTING</button>
+          <button class="btn secondary" onclick="navigator.clipboard.writeText('mailto:nikhil@example.com')">Copy Email</button>
+        </div>
+      </section>
+    </div>
+
+    <footer>
+      <span>Open to internships & freelance</span>
+      <span>Updated: Oct 11, 2025</span>
+    </footer>
+  </article>
+</body>
+</html>

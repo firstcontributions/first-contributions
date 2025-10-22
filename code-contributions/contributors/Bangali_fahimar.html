@@ -1,0 +1,333 @@
+<article class="profile-card">
+  <div class="profile-header">
+    <div class="profile-avatar">
+      <img
+        src="https://img.freepik.com/free-vector/smiling-redhaired-boy-illustration_1308-176664.jpg"
+        alt="Profile Photo"
+      />
+      <div class="status-indicator online"></div>
+    </div>
+    <div class="profile-title">
+      <h2>Fahim Al Rashid</h2>
+      <span class="profile-badge">Full Stack Developer</span>
+    </div>
+  </div>
+
+  <div class="profile-about">
+    <p>
+      Passionate Full Stack Developer with expertise in
+      <strong>React.js, Next.js, FastAPI, PostgreSQL, and Redis</strong>.
+      Currently working as a
+      <strong>Trainee Full Stack Software Engineer</strong>. I hold a
+      <strong>B.Sc. in Computer Science & Engineering from AUST</strong> and am
+      pursuing an
+      <strong>M.Sc. in CSE (Professional) at Jagannath University</strong>.
+      Beyond software development, I have a keen interest in
+      <strong>DevOps, Cloud Computing, and Blockchain</strong>, constantly
+      exploring new technologies to enhance system scalability and efficiency.
+      My <strong>open-source contributions</strong> reflect my commitment to
+      collaborative learning and innovation.
+    </p>
+  </div>
+
+  <h3 class="section-title">Tech Stack</h3>
+  <section class="skill-container">
+    <div class="skill-badge react">React.js</div>
+    <div class="skill-badge nextjs">Next.js</div>
+    <div class="skill-badge fastapi">FastAPI</div>
+    <div class="skill-badge postgresql">PostgreSQL</div>
+    <div class="skill-badge redis">Redis</div>
+    <div class="skill-badge python">Python</div>
+  </section>
+
+  <h3 class="section-title">Development Tools</h3>
+  <section class="tools-container">
+    <div class="tool-icon" data-tooltip="VS Code">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+      />
+    </div>
+    <div class="tool-icon" data-tooltip="Git">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+      />
+    </div>
+    <div class="tool-icon" data-tooltip="Docker">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
+      />
+    </div>
+    <div class="tool-icon" data-tooltip="AWS">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"
+      />
+    </div>
+    <div class="tool-icon" data-tooltip="Figma">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
+      />
+    </div>
+  </section>
+
+  <h3 class="section-title">Current Focus</h3>
+  <div class="focus-areas">
+    <div class="focus-item">
+      <span class="focus-icon">🚀</span>
+      <span>API Optimization</span>
+    </div>
+    <div class="focus-item">
+      <span class="focus-icon">☁️</span>
+      <span>Cloud Computing</span>
+    </div>
+    <div class="focus-item">
+      <span class="focus-icon">🔗</span>
+      <span>Blockchain</span>
+    </div>
+  </div>
+
+  <div class="github-stats">
+    <div class="stat-item">
+      <span class="stat-value">42</span>
+      <span class="stat-label">Repositories</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-value">156</span>
+      <span class="stat-label">Contributions</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-value">18</span>
+      <span class="stat-label">Pull Requests</span>
+    </div>
+  </div>
+</article>
+
+<style>
+  .profile-card {
+    font-family: "Inter", system-ui, -apple-system, sans-serif;
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 2rem;
+    border-radius: 12px;
+    background: linear-gradient(145deg, #ffffff, #f5f7fa);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+    color: #333;
+  }
+
+  .profile-header {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .profile-avatar {
+    position: relative;
+    width: 110px;
+    height: 110px;
+  }
+
+  .profile-avatar img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 3px solid #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  .status-indicator {
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: 3px solid #fff;
+  }
+
+  .status-indicator.online {
+    background-color: #4caf50;
+  }
+
+  .profile-title h2 {
+    margin: 0;
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: #111;
+  }
+
+  .profile-badge {
+    display: inline-block;
+    background: linear-gradient(90deg, #6c5ce7, #a29bfe);
+    color: white;
+    padding: 0.4rem 1rem;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    margin-top: 0.4rem;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+  }
+
+  .profile-about {
+    margin: 1.5rem 0;
+    line-height: 1.6;
+    color: #444;
+  }
+
+  .section-title {
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin: 1.8rem 0 1rem;
+    color: #333;
+    border-left: 4px solid #6c5ce7;
+    padding-left: 10px;
+  }
+
+  .skill-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.8rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .skill-badge {
+    padding: 0.6rem 1.2rem;
+    border-radius: 8px;
+    font-weight: 500;
+    font-size: 0.9rem;
+    color: white;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: all 0.2s ease;
+  }
+
+  .skill-badge:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+  }
+
+  .skill-badge.react {
+    background: linear-gradient(135deg, #61dafb, #2d91af);
+  }
+  .skill-badge.nextjs {
+    background: linear-gradient(135deg, #333, #000);
+  }
+  .skill-badge.fastapi {
+    background: linear-gradient(135deg, #009688, #00796b);
+  }
+  .skill-badge.postgresql {
+    background: linear-gradient(135deg, #336791, #2a4f6e);
+  }
+  .skill-badge.redis {
+    background: linear-gradient(135deg, #d82c20, #a71e14);
+  }
+  .skill-badge.python {
+    background: linear-gradient(135deg, #3874a4, #306998);
+  }
+
+  .tools-container {
+    display: flex;
+    gap: 1.5rem;
+    margin: 1.2rem 0 2rem;
+    flex-wrap: wrap;
+  }
+
+  .tool-icon {
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 12px;
+    background-color: white;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.08);
+    transition: all 0.3s ease;
+    position: relative;
+  }
+
+  .tool-icon img {
+    width: 32px;
+    height: 32px;
+  }
+
+  .tool-icon:hover {
+    transform: scale(1.1);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  }
+
+  .tool-icon:hover::after {
+    content: attr(data-tooltip);
+    position: absolute;
+    bottom: -30px;
+    font-size: 0.8rem;
+    white-space: nowrap;
+    background: #333;
+    color: white;
+    padding: 3px 8px;
+    border-radius: 4px;
+  }
+
+  .focus-areas {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 1rem;
+    margin-bottom: 2rem;
+  }
+
+  .focus-item {
+    display: flex;
+    align-items: center;
+    gap: 0.7rem;
+    padding: 1rem;
+    border-radius: 10px;
+    background-color: #f8f9fa;
+    border: 1px solid #eaeaea;
+    transition: all 0.2s ease;
+  }
+
+  .focus-item:hover {
+    background-color: #f1f3f5;
+    transform: translateY(-2px);
+  }
+
+  .focus-icon {
+    font-size: 1.5rem;
+  }
+
+  .github-stats {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+    margin-top: 2rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid #eee;
+  }
+
+  .stat-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .stat-value {
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: #6c5ce7;
+  }
+
+  .stat-label {
+    font-size: 0.85rem;
+    color: #666;
+  }
+
+  @media (max-width: 600px) {
+    .profile-header {
+      flex-direction: column;
+      text-align: center;
+    }
+
+    .github-stats {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

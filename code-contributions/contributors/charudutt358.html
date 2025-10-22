@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Profile Card</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f4f6f9;
+      margin: 0;
+      padding: 2rem;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+    }
+
+    article {
+      background: white;
+      padding: 2rem;
+      border-radius: 0.75rem;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+      max-width: 500px;
+      width: 100%;
+    }
+
+    h3 {
+      margin-top: 0;
+      color: #333;
+    }
+
+    p {
+      color: #666;
+      margin-bottom: 1.5rem;
+    }
+
+    h4 {
+      margin-top: 2rem;
+      margin-bottom: 0.75rem;
+      color: #444;
+    }
+
+    .container {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+    }
+
+    .badge {
+      padding: 0.5rem 1rem;
+      border-radius: 1rem;
+      font-weight: 600;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+      transition: transform 0.2s ease;
+    }
+
+    .badge:hover {
+      transform: scale(1.05);
+    }
+
+    .icon {
+      width: 2.5rem;
+      height: 2.5rem;
+      transition: transform 0.2s ease;
+    }
+
+    .icon:hover {
+      transform: rotate(10deg) scale(1.1);
+    }
+  </style>
+</head>
+<body>
+  <article>
+    <h3>charudutt358</h3>
+    <p>i am hare to learn about open sourse and git.</p>
+
+    <h4>Programming languages I use</h4>
+    <section class="container">
+      <div class="badge" style="background-color: #3874a4; color: white">rust</div>
+      <div class="badge" style="background-color: #f7df1e; color: black">Julia</div>
+    </section>
+
+    <h4>Tools I use</h4>
+    <section class="container">
+      <img
+        class="icon"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"
+        alt="Bash"
+      />
+      <img
+        class="icon"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+        alt="Linux"
+      />
+    </section>
+  </article>
+</body>
+</html>
+

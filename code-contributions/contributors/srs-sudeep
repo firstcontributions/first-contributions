@@ -1,0 +1,69 @@
+<article>
+  <h3>srs-sudeep</h3>
+  <p>A professional yapper and occasional coder</p>
+
+  <h4>Programming languages I use</h4>
+  <section class="container">
+    <div class="badge" style="background-color: #61dafb; color: black;">
+      React
+    </div>
+    <div class="badge" style="background-color: #3874a4; color: white;">
+      Python
+    </div>
+    <div class="badge" style="background-color: #00599C; color: white;">
+      C++
+    </div>
+    <div class="badge" style="background-color: #f89820; color: white;">
+      Java
+    </div>
+    <div class="badge" style="background-color: #f7df1e; color: black;">
+      JavaScript
+    </div>
+  </section>
+
+  <h4>Tools I use</h4>
+  <section class="container">
+    <img
+      class="icon"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+      alt="VS Code"
+    />
+    <img
+      class="icon"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg"
+      alt="Vim"
+    />
+    <img
+      class="icon"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+      alt="Git"
+    />
+    <img
+      class="icon"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
+      alt="Docker"
+    />
+  </section>
+</article>
+
+<style>
+  body {
+    font-family: sans-serif;
+  }
+  .container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    align-items: center;
+  }
+  .badge {
+    padding: 0.5rem 1rem;
+    border-radius: 0.25rem;
+    font-weight: 600;
+    font-size: 0.95rem;
+  }
+  .icon {
+    width: 2.5rem;
+    height: 2.5rem;
+  }
+</style>
