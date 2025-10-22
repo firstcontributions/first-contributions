@@ -3,6 +3,7 @@
 - [Vimal Bisht](https://github.com/VimalBisht2021)
 Prasit Sung
 - [Prince Kumar](https://github.com/princeDevelops)
+- [Anant Kumar Sinha](https://github.com/SoJaoAnant) - "Blood is fuel, Hell is full"
 - [Tanuj Sharma](https://github.com/tanujsharma911)
 - [Omar Hamdan](https://github.com/omarjrayman23)
 - [cheefbird](https://github.com/cheefbird)
@@ -1817,4 +1818,3 @@ Prasit Sung
 - [Daphne Wen](https://github.com/gahpeach23)
 - [Kayra Demirkan](https://github.com/kayrademirkan)
 - [Nelan](https://github.com/NelanJoe)
-- [Anant Kumar Sinha](https://github.com/SoJaoAnant)
