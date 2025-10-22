@@ -1,6 +1,7 @@
 # Contributors
 
 - My First Contro
+- [Eric Asbury](https://github.com/Anthro-pod)
 - [Tushar](https://github.com/tushaar-05)
 - [Tedliu](https://github.com/qsc811022)
 - [HariRaju] (https://github.com/HariSivaraj)
