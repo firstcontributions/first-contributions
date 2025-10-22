@@ -14,8 +14,7 @@
 - [Vimal Bisht](https://github.com/VimalBisht2021)
 - [Jamale SLEIMAN]
 - [Zhumagulov Zhakyp](https://github.com/zhumagulovv)
-  Prasit Sung
-  -[Esha Bajaj](https://github.com/EshaBajaj)
+  Prasit Sung -[Esha Bajaj](https://github.com/EshaBajaj)
 - [Jaykumar Landge](https://github.com/jayk1881)
 - [Prince Kumar](https://github.com/princeDevelops)
 - [Soumil Juneja](cant make a tomlette without breaking some greggs)
@@ -106,6 +105,7 @@
 - [marco rossi](https://github.com/Willy00blu)
 - [Narendra Singh](https://github.com/niksbanna)
 - Luke Oliver
+- [vitalycatt](https://github.com/vitalycatt)
 - [codexagon](https://github.com/codexagon)
 - [Mary Lee](https://github.com/marylee122)
 - Elias Bemuehtsichwirklichsehr
@@ -133,7 +133,7 @@
 - [Dharmendra Solanki](https://github.com/ProgrammingPirates)
 - [Ryno de Beer](https://github.com/Rynoo1)
 - [Ahtisham Shaikh](https://github.com/Ahtisham-1214)
-- [Noe Hernandez](https://github.com/kreeptales) 
+- [Noe Hernandez](https://github.com/kreeptales)
 - [Jayashankar R J](https://github.com/RJJayashankar)
 - [Faizan_Deshmukh](https://github.com/faizan1317)
 - [Andrew_Yuan](https://github.com/YuKiAndrew)
