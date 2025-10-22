@@ -1,6 +1,7 @@
 # Contributors
 
 - My First Contro
+- [Maha Laeeq](https://github.com/s4096770)
 - [Eric Asbury](https://github.com/Anthro-pod)
 - [Tushar](https://github.com/tushaar-05)
 - [Krzysztof Sulkowski] (https://github.com/krzysztofsulkowski)
