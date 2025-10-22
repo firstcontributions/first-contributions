@@ -42,7 +42,7 @@ Byvoorbeeld:
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 
-waar `this-is-youis` jou GitHub gebruikersnaam Hier kopieer jy die inhoud van die eerste bydrae repository in GitHub na jou rekenaar.
+waar `this-is-you` jou GitHub gebruikersnaam is. Hier kopieer jy die inhoud van die eerste bydrae repository in GitHub na jou rekenaar.
 
 ## Skep 'n tak
 
