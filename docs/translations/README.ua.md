@@ -4,11 +4,11 @@
 
 # Перший внесок
 
-Цей проект спрямований на те, щоб спростити та спрямувати шлях новачків, які роблять свій перший внесок. Якщо ви хочете зробити свій перший внесок, виконайте наведені нижче дії.
+Цей проєкт спрямований на те, щоб спростити та спрямувати шлях новачків, які роблять свій перший внесок. Якщо ви хочете зробити свій перший внесок, виконайте наведені нижче дії.
 
 _Якщо ви не вмієте працювати з командним рядком, [ось навчальні посібники з використанням інструментів GUI.](#tutorials-using-other-tools)_
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="форкніть цей репозиторій" />
 
 Якщо ви ще не встановили git, тоді [зробіть це](https://help.github.com/articles/set-up-git/).
 
@@ -19,7 +19,7 @@ _Якщо ви не вмієте працювати з командним ряд
 
 ## Клонуйте репозиторій
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="Клонуйте цей репозиторій" />
 
 Тепер клонуйте цей репозиторій на ваш комп’ютер. Натисніть на кнопку `clone`, а потім - на іконку `copy to clipboard`.
 
@@ -31,7 +31,7 @@ git clone "посилання, яке ви щойно скопіювали"
 
 де `посилання, яке ви щойно скопіювали` (без лапок) - адреса цього репозиторію. Дивіться попередній крок для того, щоб отримати цю адресу.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="Скопіюйте посилання" />
 
 Наприклад:
 ```bash
@@ -103,11 +103,11 @@ git push -г origin <your-branch-name>
 
 Коли ви перейдете до свого репозиторію в GitHub, ви побачите кнопку `Compare & pull request`. Сміливо натисніть на неї.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="створіть pull запит" />
 
 Тепер зміни відправлені на перевірку і затвердження.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="надішліть pull запит на перевірку" />
 
 Згодом я об’єднаю ваші запропоновані зміни з основною гілкою цього репозиторію. Ви отримаєте повідомлення, коли це буде зроблено.
 
@@ -117,7 +117,7 @@ git push -г origin <your-branch-name>
 
 Відзначте свій внесок і поділіться ним із друзями та читачами, перейшовши до [веб-програми](https://firstcontributions.github.io/#social-share).
 
-Тепер давайте почнемо робити внески в інші проекти. Ми склали список проектів із простими проблемами, з яких ви можете почати. Перегляньте [список проектів у веб-додатку](https://firstcontributions.github.io/#project-list).
+Тепер почнімо робити внески в інші проєкти. Ми склали список проєктів із простими проблемами, з яких ви можете почати. Перегляньте [список проєктів у веб-додатку](https://firstcontributions.github.io/#project-list).
 
 ### [Додаткові матеріали](additional-material/git_workflow_scenarios/additional-material.md)
 
@@ -127,7 +127,7 @@ git push -г origin <your-branch-name>
 | --- | --- | --- | --- | --- | --- |
 | [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md) | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md) | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md) | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md) | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md) | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md) |
 
-<p>Цей проект підтримується:</p>
+<p>Цей проєкт підтримується:</p>
 <p>
   <a href="https://www.digitalocean.com/">
     <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_horizontal_blue.svg" width="201px">

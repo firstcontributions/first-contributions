@@ -1,5 +1,4 @@
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1n4y7xnk0-DnLVTaN6U9xLU79H5Hi62w)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -70,7 +69,8 @@
 <kbd>[<img title="Latvia" alt="Latvia" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/lv.svg" width="22">](translations/README.lv.md)</kbd>
 <kbd>[<img title="Suomeksi" alt="Suomeksi" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/fi.svg" width="22">](translations/README.fi.md)</kbd>
 <kbd>[<img title="Беларуская мова" alt="Беларуская мова" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/by.svg" width="22">](translations/README.by.md)</kbd>
-<kbd>[<img title="Српски" alt="Српски" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/rs.svg" width="22">](translations/README.sr.md)</kbd>
+<kbd>[<img title="Српски" alt="Српски" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/rs.svg" width="22">](translations/README.sr-Cyrl.md)</kbd>
+<kbd>[<img title="Srpski" alt="Srpski" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/rs.svg" width="22">](translations/README.sr-Latn.md)</kbd>
 <kbd>[<img title="Қазақша" alt="Қазақша" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/kz.svg" width="22">](translations/README.kz.md)</kbd>
 <kbd>[<img title="Bosanski" alt="Bosanski" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ba.svg" width="22">](translations/README.bih.md)</kbd>
 <kbd>[<img title="Bosanski" alt="Bosanski" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/et.svg" width="22">](translations/README.bih.md)</kbd>
