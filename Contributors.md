@@ -74,9 +74,10 @@
 - [Nsiru Williams](https://github.com/Cokekoro)
 - [Priyeash Bala](https://github.com/priyeashbala)
 - [Nishita Kashyap](https://github.com/nishitakashyap)
+- [FoxMiner](https://github.com/super-fox-miner)
 - [Samarth](https://github.com/Samarth-sk)
 - [Ayaz Khira](https://github.com/AyazKhira-1)
-- [Gabriella McKenna]
+- [Gabriella McKenna](https://github.com/Gabriella-Mckenna)
   [Melanie Baker](https://github.com/Melanie-J-Baker)
 - [Viraj Dhamnaskar](https://github.com/Rootvikk)
 - [Mit_Patel](https://github.com/SimpleChap)
