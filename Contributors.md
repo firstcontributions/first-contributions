@@ -16,6 +16,7 @@
   Prasit Sung
 - [Jaykumar Landge](https://github.com/jayk1881)
 - [Prince Kumar](https://github.com/princeDevelops)
+- [Soumil Juneja](cant make a tomlette without breaking some greggs)
 - [Anant Kumar Sinha](https://github.com/SoJaoAnant) - "Blood is fuel, Hell is full"
 - [Tanuj Sharma](https://github.com/tanujsharma911)
 - [Omar Hamdan](https://github.com/omarjrayman23)
