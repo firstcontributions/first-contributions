@@ -6,6 +6,7 @@
 - [Tedliu](https://github.com/qsc811022)
 - [HariRaju] (https://github.com/HariSivaraj)
 - [Vimal Bisht](https://github.com/VimalBisht2021)
+- [Zhumagulov Zhakyp](https://github.com/zhumagulovv)
   Prasit Sung
 - [Prince Kumar](https://github.com/princeDevelops)
 - [Tanuj Sharma](https://github.com/tanujsharma911)
