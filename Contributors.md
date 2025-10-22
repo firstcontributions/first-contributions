@@ -12,6 +12,7 @@
 - [Tanuj Sharma](https://github.com/tanujsharma911)
 - [Omar Hamdan](https://github.com/omarjrayman23)
 - [cheefbird](https://github.com/cheefbird)
+- [TakahashiSouta2018](https://github.com/TakahashiSouta2018)
 - [Mayank Kashyap](https://github.com/oneglitchx)
 - [Prashant Singh](https://github.com/its-bnf-cwalker)
 - [Shreeganesh Nayak](https://github.com/Shreeganeshhere)
