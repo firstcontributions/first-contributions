@@ -104,6 +104,7 @@
 - [Narendra Singh](https://github.com/niksbanna)
 - Luke Oliver
 - [codexagon](https://github.com/codexagon)
+- [Mary Lee](https://github.com/marylee122)
 - Elias Bemuehtsichwirklichsehr
 - [Rezhan Fatah](https://github.com/RezhanFatah)
   chenhui
