@@ -2,6 +2,7 @@
 
 - My First Contro
 - [Tedliu](https://github.com/qsc811022)
+- [Ashutosh](https://github.com/ashutosh-moharana)
 - [HariRaju] (https://github.com/HariSivaraj)
 - [Vimal Bisht](https://github.com/VimalBisht2021)
   Prasit Sung
