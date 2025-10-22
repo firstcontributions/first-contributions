@@ -1386,6 +1386,7 @@
 - [Masum Raza](https://github.com/khanmasumraza)
 - [Matheus Deus](https://github.com/deusMatheus)
 - [Matthieu Bonnot](https://github.com/MrMattam)
+- [S Varhsith Reddy](http://github.com/Itz-Varshith)
 - [Melika Dadashi](https://github.com/melikaDaa)
 - [Mercy-Mbao ✨](https://github.com/mercie-ux)
 - [Minjae Kwon](https://github.com/minjaekwon97)
