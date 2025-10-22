@@ -8,7 +8,7 @@ C'est toujours compliqué la première fois que l'on fait quelque chose. La peur
 
 Lire des articles et des tutoriels peut aider, mais qu'y a-t-il de mieux que d'essayer sans pouvoir faire d'erreurs ? Ce projet a pour ambition de fournir des conseils et simplifier la manière dont les apprentis font leur première contribution. Souvenez-vous : plus vous êtes serein, mieux vous apprenez. Si vous aspirez à faire votre première contribution, suivez tout simplement les étapes suivantes. Promis, ce sera amusant.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="forker ce repertoire" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="Dupliquez ce dépôt sur votre compte GitHub" />
 
 Si vous n'avez pas encore Git installé sur votre machine, [ installez-le ](https://help.github.com/articles/set-up-git/).
 
@@ -19,7 +19,7 @@ Cela créera une copie de ce dépôt dans votre propre compte GitHub
 
 ## Clonez ce répertoire
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clonez ce répertoire" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="Clonez ce dépôt sur votre ordinateur" />
 
 Maintenant, clonez ce répertoire sur votre ordinateur. Allez sur votre compte GitHub, ouvrez le dépôt forké, cliquez sur le bouton _Code_, puis sur l’onglet _SSH_ et enfin sur l’icône _copier dans le presse-papiers_.
 
@@ -31,7 +31,7 @@ git clone "l'url que vous venez de copier"
 
 où "l'url que vous venez de copier" (sans les guillemets) est l'url du dépôt forké. Revoir les étapes précédentes pour obtenir l’URL exacte.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copier l'URL dans le presse-papier" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="Copiez l'URL dans le presse-papiers" />
 
 Par exemple :
 
@@ -78,7 +78,7 @@ git checkout -b nom-de-ta-nouvelle-branche
 
 Ouvrez le fichier `Contributors.md` dans un éditeur de texte, ajoutez-y votre nom, et enregistrez-le. Ne l’ajoutez pas au début ou à la fin du fichier, mais quelque part au milieu.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="Sortie de la commande git status" />
 
 Si vous ouvrez l'invite de commande et que vous exécutez la commande `git status`, vous verrez qu'il y a des modifications. Ajoutez ces modifications à la branche que vous venez de créer avec la commande `git add` :
 
@@ -130,11 +130,11 @@ Sinon, vous continuerez de devoir entrer votre mot de passe et vous obtiendrez u
 
 Si vous vous rendez sur votre répertoire sur Github, vous verrez un bouton `Compare & pull request`. Cliquez dessus.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="créer une pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="Créer une pull request" />
 
 Soumettez ensuite la _pull request_.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="soumettre une pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="Soumettre une pull request" />
 
 Je fusionnerai bientôt vos modifications dans la branche principale du projet.
 Vous recevrez un e-mail de confirmation une fois que ce sera fait.
