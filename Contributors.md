@@ -1,6 +1,7 @@
 # Contributors
 
 - My First Contro
+- [Eric Asbury](https://github.com/Anthro-pod)
 - [Tushar](https://github.com/tushaar-05)
 - [Krzysztof Sulkowski] (https://github.com/krzysztofsulkowski)
 - [Elmar Chavez](https://github.com/CodingWithJiro)
