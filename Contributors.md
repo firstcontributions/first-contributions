@@ -30,6 +30,7 @@
 - [Samandar Ibragimov](https://github.com/SamandarIbragimov)
 - [Daksh Pathak](https://github.com/dakshhhhh16)
 - [Ronin](https://github.com/iamroninfr)
+- [Brittany Lynn](https://github.com/tylub001)
 - [Joao Guilherme Felizardo](https://github.com/JoaoCaconde)
 - [Vishnudas Nayak P](https://github.com/VishnudasNayakP)
 - [Khaled Abdelrahman](https://github.com/khaleed2002)
