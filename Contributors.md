@@ -96,6 +96,7 @@ Prasit Sung
 - [Jayashankar R J](https://github.com/RJJayashankar)
 - [Faizan_Deshmukh](https://github.com/faizan1317)
 - [Andrew_Yuan](https://github.com/YuKiAndrew)
+- [Kaveen_Chamikara](https://github.com/Cap-KC)
 - [Saksham Singh](https://github.com/apexsaksham)
 - [ErosiveNoise](https://github.com/ErosiveNoise)
 - [Jose](https://github.com/NaturalTC)
@@ -1953,3 +1954,6 @@ Prasit Sung
 - [Sean McChesney](https://github.com/FrogWarlord)
 - [Connor Johnson](https://github.com/ConnorJ666)
 - [Pranay Gadh] (https://github.com/Pranay22077)
+
+
+[def]: https://github.com/Cap-KC
