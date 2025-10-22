@@ -82,6 +82,7 @@
 - [Ryno de Beer](https://github.com/Rynoo1)
 - [Ahtisham Shaikh](https://github.com/Ahtisham-1214)
 - [Noe Hernandez](https://github.com/kreeptales)
+- [Jannah_Aboulhassan](https://github.com/Jannah-lab) 
 - [Jayashankar R J](https://github.com/RJJayashankar)
 - [Faizan_Deshmukh](https://github.com/faizan1317)
 - [Andrew_Yuan](https://github.com/YuKiAndrew)
