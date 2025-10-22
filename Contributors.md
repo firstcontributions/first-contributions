@@ -1,6 +1,7 @@
 # Contributors
 
 - My First Contro
+- [limay tidke](https://github.com/limaytidke)
 - [Jaeyoon Keum](https://github.com/jaeyoon882)
 - [Jeremy Newman](https://github.com/jeremynewman)
 - [Maha Laeeq](https://github.com/s4096770)
@@ -19,7 +20,7 @@
 - [Jaykumar Landge](https://github.com/jayk1881)
 - [Prince Kumar](https://github.com/princeDevelops)
 - [Soumil Juneja](cant make a tomlette without breaking some greggs)
-- [Anant Kumar Sinha](https://github.com/SoJaoAnant) - "Blood is fuel, Hell is full"
+- [Anant Kumar Sinha](https://github.com/SoJaoAnant)
 - [Tanuj Sharma](https://github.com/tanujsharma911)
 - [Omar Hamdan](https://github.com/omarjrayman23)
 - [cheefbird](https://github.com/cheefbird)
@@ -281,7 +282,7 @@
 - [Andrew Park](https://github.com/AndePark)
 - [Mason Boucher](https://github.com/mcboucher10)
 - [Mariana Rutter](https://github.com/marianaluu)
-- [Rudresh Suryawanshi](https://github.com/Rudresh-11)
+- [Rudresh Suryawanshi](https://github.comgit@github.com:limaytidke/first-contributions.git/Rudresh-11)
 - [Clement Zentz](https://github.com/clement-zentz)
 - [S-Dedeepya](https://github.com/S-Dedeepya)
 - [Fred](https://github.com/kipkemoifred)
