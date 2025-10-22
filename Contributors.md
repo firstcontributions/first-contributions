@@ -14,6 +14,7 @@
 - [Jamale SLEIMAN]
 - [Zhumagulov Zhakyp](https://github.com/zhumagulovv)
   Prasit Sung
+  -[Esha Bajaj](https://github.com/EshaBajaj)
 - [Jaykumar Landge](https://github.com/jayk1881)
 - [Prince Kumar](https://github.com/princeDevelops)
 - [Anant Kumar Sinha](https://github.com/SoJaoAnant) - "Blood is fuel, Hell is full"
