@@ -80,6 +80,7 @@
 - [anjali-ojha17](https://github.com/anjali-ojha17)
 - [Kavinila_L](https://github.com/KavinilaLoganathan-2507)
 - [Sara]
+- [Krsna]
 - [Felipe](https://github.com/oOFelipeOo/)
 - [Inesh Agarwal](https://github.com/IneshAg)
 - [Ayoub Ben Aissa](https://github.com/Frontier101)
