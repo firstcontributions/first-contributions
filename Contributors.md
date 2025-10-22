@@ -1,6 +1,7 @@
 # Contributors
 
 - My First Contro
+
 - [Tushar](https://github.com/tushaar-05)
 - [Leandro Freitas](https://github.com/LFreitas88)
 - [Tedliu](https://github.com/qsc811022)
@@ -8,6 +9,7 @@
 - [Vimal Bisht](https://github.com/VimalBisht2021)
 - [Zhumagulov Zhakyp](https://github.com/zhumagulovv)
   Prasit Sung
+- [Jaykumar Landge](https://github.com/jayk1881)
 - [Prince Kumar](https://github.com/princeDevelops)
 - [Tanuj Sharma](https://github.com/tanujsharma911)
 - [Omar Hamdan](https://github.com/omarjrayman23)
