@@ -3,6 +3,7 @@
 - My First Contro
 - [TRISHIT BODKHE](https://github.com/trishit726)
 - [Reilly Davis](https://github.com/reillyblair81)
+- [Krsna Sirohi](https://github.com/krsnasirohi)
 - [limay tidke](https://github.com/limaytidke)
 - [Jaeyoon Keum](https://github.com/jaeyoon882)
 - [Jeremy Newman](https://github.com/jeremynewman)
