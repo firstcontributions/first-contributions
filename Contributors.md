@@ -2,6 +2,7 @@
 
 - My First Contro
 - [TRISHIT BODKHE](https://github.com/trishit726)
+- [Fenton](https://github.com/FentonFrancis)
 - [Reilly Davis](https://github.com/reillyblair81)
 - [Krsna Sirohi](https://github.com/krsnasirohi)
 - [limay tidke](https://github.com/limaytidke)
