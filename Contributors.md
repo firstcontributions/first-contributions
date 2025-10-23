@@ -1,7 +1,7 @@
 # Contributors
 
 - My First Contro
-- [TRISHIT](https://github.com/trishit726)
+- [TRISHIT BODKHE](https://github.com/trishit726)
 - [Reilly Davis](https://github.com/reillyblair81)
 - [limay tidke](https://github.com/limaytidke)
 - [Jaeyoon Keum](https://github.com/jaeyoon882)
