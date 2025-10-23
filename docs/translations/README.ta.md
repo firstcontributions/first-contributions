@@ -26,16 +26,16 @@
 ## இந்த repository ஐ fork செய்தல்
 
 
-இந்த பக்கத்தின் மேலே உள்ள fork பொத்தானைக் கிளிக் செய்வதன் மூலம் செயட்படுத்தலாம்.
+இந்த பக்கத்தின் மேலே உள்ள fork பொத்தானைக் சொடுக்குவதன் மூலம் செயட்படுத்தலாம்.
 இது உங்கள் account இல் ஒரு நகலை உருவாக்கும்.
 
 ## இந்த repository ஐ clone செய்தல்
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="இந்த repository ஐ clone செய்யவும்" />
 
-இப்போது உங்கள் கணினியில் fork செய்யப்பட்ட repository ஐ clone செய்யவும். உங்கள் GitHub கணக்கிற்குச் சென்று, forked செய்யப்பட்ட repository ஐ open செய்து clone பொத்தானைக் கிளிக் செய்து copy to clipboard கிளிக் செய்வதன் மூலம் நிறைவேற்றலாம்.
+இப்போது உங்கள் கணினியில் fork செய்யப்பட்ட repository ஐ clone செய்யவும். உங்கள் GitHub கணக்கிற்குச் சென்று, forked செய்யப்பட்ட repository ஐ திறந்து clone பொத்தானைக் சொடுக்கிய பின் copy to clipboard சொடுக்குவதன் மூலம் நிறைவேற்றலாம்.
 
-*terminal* அல்லது *command prompt* ஐ open செய்து  பின்வரும் git கட்டளையை இயக்கவும்:
+*terminal* அல்லது *command prompt* ஐ திறந்து பின்வரும் git கட்டளையை இயக்கவும்:
 
 ```
 git clone "நீங்கள் copy செய்த url"
@@ -107,10 +107,10 @@ git push origin <உங்கள்-கிளையின்-பெயர்>
 ```
 
 
-`<உங்கள்-கிளையின்-பெயர்>` இருக்கும் நீங்கள் முன்பு உருவாக்கிய கிளையின் பெயருடன் மாற்றுங்கள்.
+`<உங்கள்-கிளையின்-பெயர்>` என்றிருக்கும் இடத்தில் நீங்கள் முன்பு உருவாக்கிய கிளையின் பெயரை உள்ளிடுங்கள்.
 
 <details>
-<summary> <strong>push செய்யும் போது ஏதேனும் பிழைகள் ஏற்பட்டால், இங்கே கிளிக் செய்யவும்:</strong> </summary>
+<summary> <strong>push செய்யும் போது ஏதேனும் பிழைகள் ஏற்பட்டால், இங்கே சொடுக்கவும்:</strong> </summary>
 
 - ### அங்கீகாரப் பிழை
      <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
@@ -123,7 +123,7 @@ git push origin <உங்கள்-கிளையின்-பெயர்>
 ## உங்கள் மாற்றங்களை மதிப்பாய்வுக்கு சமர்ப்பிக்கவும்
 
 
-GitHub இல் உள்ள உங்கள் களஞ்சியத்திற்குச் சென்றால், `Compare & pull request` கோரிக்கை பொத்தானைக் காண்பீர்கள். அந்த பொத்தானைக் கிளிக் செய்க.
+GitHub இல் உள்ள உங்கள் களஞ்சியத்திற்குச் சென்றால், `Compare & pull request` கோரிக்கை பொத்தானைக் காண்பீர்கள். அந்த பொத்தானைக் சொடுக்கவும்.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="Pull கோரிக்கையை உருவாக்கவும்" />
 
