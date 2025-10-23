@@ -432,6 +432,7 @@
 - [Swarnavo Majumder](https://github.com/Swarnavo2003)
 - [Elyas Shamal](https://github.com/ElyasShamal)
 - [Jenna Hall](https://github.com/swejenna)
+- [Anirudh Panigrahi](https://github.com/Anirudh-020505)
 - [Rohit Mathur](https://github.com/Rohit0265)
 - [yuki](https://github.com/yukixxxx11)
 - [Jerry](https://github.com/SniperRaccoon)
