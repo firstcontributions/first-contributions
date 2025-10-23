@@ -30,7 +30,7 @@
 
 Отворете го терминалот и воведете ја следната команда:
 
-```
+```bash
 git clone "линкот кој го копиравте"
 ```
 На местото на "линкот кој го копиравте" (без наводници) поставете го линкот на складиштето (Вашето Разгранување на овој проект). Погледнете ги претходните чекори за да видете како да го добиете линкот.
@@ -38,7 +38,7 @@ git clone "линкот кој го копиравте"
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="копирајте ја URL адресата во таблата со исечоци" />
 
 На пример:
-```
+```bash
 git clone https://github.com/vashiot-username/first-contributions.git
 ```
 со преименување на `vashiot-username` во вашето корисничко име. Во овој чекор правите копија на складиштето first-contributions од GitHub кон вашиот компјутер.
@@ -47,16 +47,16 @@ git clone https://github.com/vashiot-username/first-contributions.git
 
 Променете ја локацијата на складиштето во вашиот компјутер (Ако сеуште не сте ја промениле):
 
-```
+```bash
 cd first-contributions
 ```
 Сега создајте гранка со помош на командата `git checkout`:
-```
+```bash
 git checkout -b <vnesete-ime-na-vashata-granka>
 ```
 
 На пример:
-```
+```bash
 git checkout -b add-alonzo-church
 ```
 (Името на гранката не мора да го содржи зборот  *add*, но се препорачува, затоа што целта на оваа гранка е да го додадете вашето име во списокот.)
@@ -73,12 +73,12 @@ git checkout -b add-alonzo-church
 
 Зачувајте ги промените на создадената гранката со помош на командата `git add`:
 
-```
+```bash
 git add Contributors.md
 ```
 
 Сега извршете ги промените со командата `git commit`:
-```
+```bash
 git commit -m "Add <vasheto-ime> to Contributors list"
 ```
 со промена на `<vasheto-ime>` со вашето име.
@@ -86,7 +86,7 @@ git commit -m "Add <vasheto-ime> to Contributors list"
 ## Поставете (Push) ги промените во GitHub
 
 Поставете ги вашите промени со командата `git push`:
-```
+```bash
 git push origin <vnesete-ime-na-vashata-granka>
 ```
 со промена на `<vnesete-ime-na-vashata-granka>` во името на вашата гранка, која ја создадовте претходно.
