@@ -219,6 +219,7 @@
 - [Michaela Kemp](https://github.com/MichaelaKemp)
 - [Ciara](https://github.com/ciahan)
 - [Elton Coura](https://github.com/EltonCoura)
+- [Maher Parmar](https://github.com/maherp24)
 - [Shashank Avvaru](https://github.com/Shashankavvaru-hub)
 - [Krishna Sahith Yandapalli](https://github.com/krishnasahith)
 - [Syndhavi](https://github.com/Syndhavi)
