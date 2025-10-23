@@ -1755,6 +1755,7 @@
 - [Samiksha Prathip](https://github.com/samikshaprathip)
 - [Aryan Vora](https://github.com/vora-aryan)
 - [Tommaso Desiato](https://github.com/Tommaso-Desiato)
+- [Tim Wilson](https://github.com/timo-wilson24) - Coding is so exciting!!
 - [Rhys Povey](https://github.com/Rpovey04)
 - [Purva Porwal](https://github.com/purvapr13)
 - [Amir Yasaei](https://github.com/amiryasaei)
