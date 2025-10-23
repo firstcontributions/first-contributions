@@ -389,6 +389,7 @@
 - [Harry-GNS](https://github.com/Harry-GNS)
 - [Azula Smurf](https://github.com/1999fronda)
 - [Jenish Dangol](https://github.com/Jenis980)
+- [Rein Ding](https://github.com/ReinDing)
 - [Helen Tsui](https://github.com/helentht)
 - [Andy Ma](https://github.com/Everither)
 - [Bruno Costa](https://github.com/brunocosta-devlab)
