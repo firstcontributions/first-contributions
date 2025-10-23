@@ -35,6 +35,7 @@
 - [Anant Kumar Sinha](https://github.com/SoJaoAnant)
 - [Tanuj Sharma](https://github.com/tanujsharma911)
 - [Omar Hamdan](https://github.com/omarjrayman23)
+- [Shubhan Gupta](https://github.com/shubham-gupta-2717)
 - [cheefbird](https://github.com/cheefbird)
 - [TakahashiSouta2018](https://github.com/TakahashiSouta2018)
 - [Mayank Kashyap](https://github.com/oneglitchx)
