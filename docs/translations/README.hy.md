@@ -35,7 +35,7 @@ git clone "url you just copied"
 
 Օրինակ՝
 
-```
+```bash
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 
