@@ -8,6 +8,7 @@
 - [Fenton](https://github.com/FentonFrancis)
 - [Reilly Davis](https://github.com/reillyblair81)
 - [Krsna Sirohi](https://github.com/krsnasirohi)
+-[Apurva Vats](https://github.com/apurvavats)
 - [limay tidke](https://github.com/limaytidke)
 - [Jaeyoon Keum](https://github.com/jaeyoon882)
 - [Jeremy Newman](https://github.com/jeremynewman)
