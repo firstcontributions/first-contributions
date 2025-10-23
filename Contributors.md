@@ -7,6 +7,7 @@
 - [Jaeyoon Keum](https://github.com/jaeyoon882)
 - [Jeremy Newman](https://github.com/jeremynewman)
 - [sigabeauty](https://github.com/sigabeauty)
+- [jsdtwry](https://github.com/jsdtwry)
 - [Maha Laeeq](https://github.com/s4096770)
 - [Eric Asbury](https://github.com/Anthro-pod)
 - [Tushar](https://github.com/tushaar-05)
