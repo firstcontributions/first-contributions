@@ -82,6 +82,6 @@ If you're making changes to a translation, please request a review from our prev
 | Tiếng Việt | [Vietnamese](../main/docs/translations/README.vn.md) | [<img width="100" src="https://avatars3.githubusercontent.com/u/12371875?s=460&v=4" alt="@tranlyvu" />](https://github.com/tranlyvu) |
 | Yorùbá | [Yorùbá](../main/docs/translations/README.yor.md) | []() |
 | 中文 | [Chinese (Simplified)](../main/docs/translations/README.zh-cn.md) | [<img width="100" src="https://avatars2.githubusercontent.com/u/6414741?s=400&v=4" alt="@yuzhoujr" />](https://github.com/yuzhoujr) |
-| 中文 | [Chinese (Traditional)](../main/docs/translations/README.zh-tw.md) | [<img width="100" src="https://avatars2.githubusercontent.com/u/27748281?s=460&v=4" alt="@WeiChienHsu" />](https://github.com/WeiChienHsu) |
+| 中文 | [Chinese (Traditional)](../main/docs/translations/README.zh-tw.md) | [<img width="100" src="https://avatars2.githubusercontent.com/u/27748281?s=460&v=4" alt="@WeiChienHsu" />](https://github.com/WeiChienHsu) [<img width="100" src="https://avatars.githubusercontent.com/u/166942861?v=4" alt="@Sharl0tteIsTaken" />](https://github.com/Sharl0tteIsTaken) |
 | Zulu | [Zulu](../main/docs/translations/README.zul.md) | [<img width="100" src="https://avatars.githubusercontent.com/u/36197725?v=4" alt="@zecollokaris" />](https://github.com/zecollokaris) []() |
 
