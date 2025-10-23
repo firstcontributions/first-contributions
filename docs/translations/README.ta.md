@@ -37,7 +37,7 @@
 
 *terminal* அல்லது *command prompt* ஐ open செய்து  பின்வரும் git கட்டளையை இயக்கவும்:
 
-```
+```bash
 git clone "நீங்கள் copy செய்த url"
 ```
 
@@ -46,7 +46,7 @@ git clone "நீங்கள் copy செய்த url"
 
 உதாரணத்திற்கு:
 
-```
+```bash
 git clone https://github.com/இது நீங்கள்/first-contributions.git
 ```
 
@@ -56,20 +56,20 @@ git clone https://github.com/இது நீங்கள்/first-contributions
 
 repository directory க்கு செல்லவும் (நீங்கள் ஏற்கனவே அங்கு இல்லையென்றால்):
 
-```
+```bash
 cd first-contributions
 ```
 
 
 இப்போது `git checkout` கட்டளையைப் பயன்படுத்தி ஒரு கிளையை உருவாக்கவும்:
 
-```
+```bash
 git checkout -b <உங்கள்-கிளையின்-பெயர்>
 ```
 
 உதாரணத்திற்கு:
 
-```
+```bash
 git checkout -b உங்கள்-கிளையின்-பெயர்
 ```
 
@@ -86,13 +86,13 @@ git checkout -b உங்கள்-கிளையின்-பெயர்
 
 `git add` கட்டளையைப் பயன்படுத்தி நீங்கள் உருவாக்கிய கிளையில் அந்த மாற்றங்களைச் சேர்க்கவும்:
 
-```
+```bash
 git add Contributors.md
 ```
 
 இப்போது `git commit` கட்டளையைப் பயன்படுத்தி அந்த மாற்றங்களைச் செய்யுங்கள்:
 
-```
+```bash
 git commit -m "Add <உங்கள்_பெயர்> to Contributors list"
 ```
 
@@ -102,7 +102,7 @@ git commit -m "Add <உங்கள்_பெயர்> to Contributors list"
 
 `git push` கட்டளையைப் பயன்படுத்தி உங்கள் மாற்றங்களைத் தள்ளுங்கள்:
 
-```
+```bash
 git push origin <உங்கள்-கிளையின்-பெயர்>
 ```
 
