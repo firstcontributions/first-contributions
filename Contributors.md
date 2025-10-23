@@ -2043,4 +2043,4 @@
 - [whale4rain](https://github.com/whale4rain)
 - [krackerjak](https://github.com/krackerjak)
 - [NgsnetEri](https://github.com/ngsnetEri)
-
+- [Lorenzo Nannini](https://github.com/SinthTeck)
