@@ -784,6 +784,7 @@
 - [Dakota Feist](https://github.com/DankYoda)
 - [David Anane](https://github.com/plaestore)
 - [Emile Qiu](https://github.com/Qa864830345)
+- [Xuqiang Qin](https:/github.com/qinxuqiang)
 - [Eric-DaRosa](https://github.com/EricDar12)
 - [Firewooood](https://github.com/Firewooood)
 - [FloraPetit](https://github.com/PetitFlora)
