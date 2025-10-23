@@ -2064,3 +2064,4 @@
 - [djacoo] (https://github.com/djacoo)
 - [Anchal Singh](https://github.com/imanchalsingh)
 - [Sloan Guo](https://github.com/Sloan-G) - "Hello everyone <3"
+- [HadesSgn](https://github.com/Hades123567)
