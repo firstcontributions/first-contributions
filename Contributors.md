@@ -1,6 +1,7 @@
 # Contributors
 
 - My First Contro
+- [Gopalakrishnan](https://github.com/gobeecode)
 - [TRISHIT BODKHE](https://github.com/trishit726)
 - [Fenton](https://github.com/FentonFrancis)
 - [Reilly Davis](https://github.com/reillyblair81)
@@ -592,7 +593,6 @@
 - [Ahmed Fikri](https://github.com/Fikri-20)
 - [Akash Dahal](https://github.com/DARKAD10)
 - [Alexander](https://github.com/azuaje1982)
-- [Veera Sai](https://github.com/veerasai06)
 - [Alif Akbar](https://github.com/alifakbxr)
 - [Alokananda Y](https://github.com/alok-38)
 - Zak Slovak
@@ -1035,6 +1035,7 @@
 - [Paulo Izidoro](https://github.com/Cacotaku)
 - [Pedro Silva](https://github.com/pcconraria)
 - [PhamNguyenDangHuy](https://github.com/pndh)
+- [Sayantan Roy](http://github.com/sayantanroy-2915)
 - [Plamen Hadzhiev](https://github.com/plmn95)
 - [Prakhar Sharma](https://github.com/prakkon)
 - [Prakhar Sharma](https://github.com/prakkon)
@@ -2066,3 +2067,6 @@
 - [Anchal Singh](https://github.com/imanchalsingh)
 - [Sloan Guo](https://github.com/Sloan-G) - "Hello everyone <3"
 - [HadesSgn](https://github.com/Hades123567)
+- [Veera Sai](https://github.com/veerasai06)
+- [Tsukaite](https://github.com/Tsukaite)
+>>>>>>> upstream/main
