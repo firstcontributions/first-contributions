@@ -1,6 +1,7 @@
 # Contributors
 
 - My First Contro
+- [Reilly Davis](https://github.com/reillyblair81)
 - [Maha Laeeq](https://github.com/s4096770)
 - [Eric Asbury](https://github.com/Anthro-pod)
 - [Tushar](https://github.com/tushaar-05)
