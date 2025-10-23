@@ -1091,6 +1091,7 @@
 - [Wade Rees](https://github.com/wade-rees-me)
 - [Wahengbam Nirvash Singh](https://github.com/vashprog)
 - [Wanling Fu](https://github.com/wanling0000)
+- [yash ajay magar](https://github.com/yash_m)
 - [WebX Beyond](https://github.com/webxbeyond)
 - [Yarno Grenier](https://github.com/yarno97x)
 - [Yuvraj Sanap](https://github.com/YuvrajS99)
