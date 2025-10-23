@@ -1,6 +1,7 @@
 # Contributors
 
 - My First Contro
+- [Reilly Davis](https://github.com/reillyblair81)
 - [limay tidke](https://github.com/limaytidke)
 - [Jaeyoon Keum](https://github.com/jaeyoon882)
 - [Jeremy Newman](https://github.com/jeremynewman)
