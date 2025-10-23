@@ -2047,3 +2047,5 @@
 - [Lorenzo Nannini](https://github.com/SinthTeck)
 - [Mooncraters](https://github.com/Mooncraters)
 - [Anchal Singh](https://github.com/imanchalsingh)
+- [Raghu Pathi Vadapalli](https://github.com/Raghu0703)
+
