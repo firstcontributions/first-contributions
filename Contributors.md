@@ -45,6 +45,7 @@
 - [Vishnudas Nayak P](https://github.com/VishnudasNayakP)
 - [Khaled Abdelrahman](https://github.com/khaleed2002)
 - [Rayan Mamhoud](https://github.com/ryanneekidev)
+- [Ehtesham Nawaz](https://github.com/Edri7h)
 - [Jason Lamb](https://github.com/jasrasr)
 - [Adrian Juarez](https://github.com/adrianjzc)
 - [Aryan Rai](https://github.com/Fang1331)
