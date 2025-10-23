@@ -1035,6 +1035,7 @@
 - [Paulo Izidoro](https://github.com/Cacotaku)
 - [Pedro Silva](https://github.com/pcconraria)
 - [PhamNguyenDangHuy](https://github.com/pndh)
+- [Sayantan Roy](http://github.com/sayantanroy-2915)
 - [Plamen Hadzhiev](https://github.com/plmn95)
 - [Prakhar Sharma](https://github.com/prakkon)
 - [Prakhar Sharma](https://github.com/prakkon)
