@@ -1393,6 +1393,7 @@
 - [Kresol Ghosh](https://github.com/KresolGhosh)
 - [Kunal_Mittal](https://github.com/freakun0025)
 - [Lemar Tokham](https://github.com/LemarTokham)
+- [Sachin Chaurasiya](https://github.com/Sachinchaurasiya360)
 - [Lucas Young](https://github.com/LucasYoung35)
 - [Magali Gonzalez](https://github.com/anbbel09)
 - [Raj Aryan](https://github.com/Rajaryan99)
