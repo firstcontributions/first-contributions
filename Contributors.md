@@ -1,5 +1,6 @@
 # Contributors
 
+- [Supra](https://github.com/supraik)
 - My First Contro
 - [Smaran](https://github.com/ryder34)
 - [Ashutosh](https://github.com/ashutosh-moharana)
