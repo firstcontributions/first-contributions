@@ -4,11 +4,12 @@
 - [Smaran](https://github.com/ryder34)
 - [Ashutosh](https://github.com/ashutosh-moharana)
 - [Gopalakrishnan](https://github.com/gobeecode)
+-[Apurva Vats](https://github.com/apurvavats)
 - [TRISHIT BODKHE](https://github.com/trishit726)
 - [Fenton](https://github.com/FentonFrancis)
 - [Reilly Davis](https://github.com/reillyblair81)
 - [Krsna Sirohi](https://github.com/krsnasirohi)
--[Apurva Vats](https://github.com/apurvavats)
+
 - [limay tidke](https://github.com/limaytidke)
 - [Jaeyoon Keum](https://github.com/jaeyoon882)
 - [Jeremy Newman](https://github.com/jeremynewman)
