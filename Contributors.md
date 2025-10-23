@@ -132,6 +132,7 @@
 - [Labeeb Bilal](https://github.com/Labeeb-bilal)
 - [Jonatha Carvalho](https://github.com/jowgaze)
 - [Mohamed Irsath](https://github.com/mohamedirsath07)
+- [Yasar Mahmood](https://github.com/Yasar-mhd)
 - [Yash Pachauri](https://github.com/yashpachauri1)
 - [Mark Connor](https://github.com/markjconnor)
 - [Dharmendra Solanki](https://github.com/ProgrammingPirates)
