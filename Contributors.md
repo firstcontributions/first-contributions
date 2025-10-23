@@ -1,6 +1,7 @@
 # Contributors
 
 - My First Contro
+- [Smaran](https://github.com/ryder34)
 - [Gopalakrishnan](https://github.com/gobeecode)
 - [TRISHIT BODKHE](https://github.com/trishit726)
 - [Fenton](https://github.com/FentonFrancis)
