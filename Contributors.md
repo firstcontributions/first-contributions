@@ -2117,6 +2117,8 @@ Yashaswini G R
 - [dengw](https://github.com/ddddw123-123) 
 - [Kotini Jeswanth](https://github.com/2400032703kotinijeswanth)
 - [Oguz Berk](https://github.com/OguzBerkAydin)
+- [Gelli Keerthi](https://github.com/gellikeerthi)
+
 - [Akshaya Pranathi Burramsetty](https://github.com/BurramsettyAkshayaPranathi)
 - [Morten]
 - [Ivanzhuu](https://github.com/JJchess/)
