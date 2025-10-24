@@ -7,6 +7,7 @@
 - [Smaran](https://github.com/ryder34)
 - [Himabindu](https://github.com/himabindu-1614)
 - [Ashutosh](https://github.com/ashutosh-moharana)
+- [Arthur Cavalcante](https://github.com/Linsarthur)
 - [Gopalakrishnan](https://github.com/gobeecode)
   -[Apurva Vats](https://github.com/apurvavats)
 - [TRISHIT BODKHE](https://github.com/trishit726)
