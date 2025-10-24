@@ -56,6 +56,7 @@
 - [Ronin](https://github.com/iamroninfr)
 - [Brittany Lynn](https://github.com/tylub001)
 - [Joao Guilherme Felizardo](https://github.com/JoaoCaconde)
+- [Moageza](https://github.com/Moagezaaa)
 - [Vishnudas Nayak P](https://github.com/VishnudasNayakP)
 - [Khaled Abdelrahman](https://github.com/khaleed2002)
 - [Rayan Mamhoud](https://github.com/ryanneekidev)
