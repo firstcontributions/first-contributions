@@ -26,7 +26,7 @@
 
 ಟರ್ಮಿನಲ್ ತೆಗೆದು ಈ ಕೆಳಗಿನ ಗಿಟ್ ಆಜ್ಞೆಯನ್ನು ಚಲಾಯಿಸಿ:
 
-```
+```bash
 git clone "copied URL"
 ```
 ಇಲ್ಲಿ "copied URL" - ನೀವು ಈಗಷ್ಟೇ ನಕಲಿಸಿದ URL(ನೀವು ಫೋಕ೯ ಮಾಡಿದ ಪ್ರಾಜೆಕ್ಟ ಲಿಂಕ್) ಅನ್ನು ಉದ್ಧರಣ[""] ಚಿಹ್ನೆಗಳಿಲ್ಲದೆ ಈ ಸ್ಥಳಕ್ಕೆ ಸೇರಿಸಿ.
@@ -34,7 +34,7 @@ git clone "copied URL"
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="ಕ್ಲಿಪ್‌ಬೋರ್ಡ್‌ಗೆ URL ಅನ್ನು ನಕಲಿಸಿ" />
 
 ಉದಾಹರಣೆಗೆ:
-```
+```bash
 git clone https://github.com/ಇದು ನೀನು/first-contributions.git
 ```
 `ಇದು ನೀನು' ಅಂದ್ರೆ ನಿಮ್ಮ ಗಿಟ್‌ಹಬ್ ಖಾತೆಯ ಹೆಸರು. 
@@ -42,7 +42,7 @@ git clone https://github.com/ಇದು ನೀನು/first-contributions.git
 
 ## ಒಂದು ಶಾಖೆಯನ್ನು ರಚಿಸಿ
 ನಿಮ್ಮ ಕಂಪ್ಯೂಟರ್‌ನಲ್ಲಿ first-contributions ರಿಪಾಸಿಟರಿ ಕಡತಕ್ಕೆ ಬದಲಾಯಿಸಿ (ನೀವು ಈಗಾಗಲೇ ಇಲ್ಲದಿದ್ದರೆ):
-```
+```bash
 cd first-contributions
 ```
 ಈಗ `git checkout` ಆಜ್ಞೆಯನ್ನು ಬಳಸಿಕೊಂಡು ಒಂದು ಶಾಖೆಯನ್ನು ರಚಿಸಿ:
@@ -50,7 +50,7 @@ cd first-contributions
 git checkout -b <ನಿಮ್ಮ ಹೊಸ-ಶಾಖೆ-ಹೆಸರನ್ನು ಸೇರಿಸಿ>
 ```
 ಉದಾಹರಣೆಗೆ:
-```
+```bash
 git checkout -b add-alonzo-church
 ```
 (ಶಾಖೆಯ ಹೆಸರಿನಲ್ಲಿ `add` ಎಂಬ ಪದವನ್ನು ಹೊಂದುವ ಅಗತ್ಯವಿಲ್ಲ, ಆದರೆ ಇದನ್ನು ಸೇರಿಸುವುದು ಸಮಂಜಸವಾದ ವಿಷಯ ಏಕೆಂದರೆ ಈ ಶಾಖೆಯ ಉದ್ದೇಶವು ನಿಮ್ಮ ಹೆಸರನ್ನು ಪಟ್ಟಿಗೆ ಸೇರಿಸುವುದು.)
@@ -62,17 +62,17 @@ git checkout -b add-alonzo-church
 ನೀವು ಪ್ರಾಜೆಕ್ಟ್ ಡೈರೆಕ್ಟರಿಗೆ ಹೋಗಿ `git status` ಆಜ್ಞೆಯನ್ನು ಕಾರ್ಯಗತಗೊಳಿಸಿದರೆ, ನೀವು ಮಾಡಿದ ಬದಲಾವಣೆ ಕಾಣಿಸುತ್ತವೆ.
 
 `git add` ಆಜ್ಞೆಯನ್ನು ಬಳಸಿ, ಬದಲಾಯಿಸಿದ ಫೈಲ್‌ನ್ನು ಸ್ಟೇಜ ಮಾಡಿ.
-```
+```bash
 git add Contributors.md
 ```
 ಈಗ `git commit` ಆಜ್ಞೆಯನ್ನು ಬಳಸಿಕೊಂಡು ಆ ಬದಲಾವಣೆಗಳನ್ನು ಕಮಿಟ್ ಮಾಡಿ:
-```
+```bash
 git commit -m "add name to contributors"
 ```
 "add name to contributors" ಇದು ಕಮಿಟ್‌ ಸಂದೇಶ. ನೀವು ಮಾಡಿದ ಬದಲಾವಣೆಗೆ ತಕ್ಕಂತೆ ಸಂದೇಶವು ಅಥ೯ಪೂಣ೯ವಾಗಿರಬೇಕು  
 ## ಬದಲಾವಣೆಗಳನ್ನು ಗಿಟ್‌ಹಬ್‌ಗೆ ಪುಶ್ ಮಾಡಿ
 `Git push` ಆಜ್ಞೆಯನ್ನು ಬಳಸಿಕೊಂಡು ನಿಮ್ಮ ಬದಲಾವಣೆಗಳನ್ನು ಗಿಟ್‌ಹಬ್‌ಗೆ ಕಳುಹಿಸಿರಿ:
-```
+```bash
 git push origin <add-your-branch-name>
 ```
 `<add-your-branch-name>` ಈ ಸ್ಥಳದಲ್ಲಿ ನೀವು ರಚಿಸಿದ ಬ್ರ್ಯಾಂಚ್‌ ಹೆಸರನ್ನು ಬರೆಯಿರಿ.
