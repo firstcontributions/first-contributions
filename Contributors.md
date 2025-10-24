@@ -177,6 +177,7 @@
 - [ErosiveNoise](https://github.com/ErosiveNoise)
 - [Jose](https://github.com/NaturalTC)
 - [Alperen Söylen](https://github.com/Alperen012)
+- [Sankhyapriyo Dey](https://github.com/sankhya007)
 - [Nikhil Yadav](https://github.com/Nikhil-Yadav-01)
 - [Jakov Dekanic](https://github.com/jakovdekanic)
 - [Armando Júnior](https://github.com/ArmandoDevJr258)
