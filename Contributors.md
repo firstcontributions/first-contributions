@@ -663,6 +663,7 @@
 - [Iman Chandrasiri](https://github.com/Iman0810)
 - [Abdalrahman](https://github.com/Samurai0jp) -"S+++ SE"
 - [Igor Balić](https://github.com/Iggy2399)
+- [Guoli Qu](https://github.com/qshiho11)
 - [Jada McAfee](https://github.com/smac115)
 - [Isaac F](https://github.com/YellowFlello)
 - [Janaki Ram K](https://github.com/JKR0805)
