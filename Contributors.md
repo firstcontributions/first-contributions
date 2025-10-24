@@ -788,6 +788,7 @@
 - [Beetlesliu](https://github.com/Beetlesliu)
 - [blue-cubes](https://github.com/blue-cubes)
 - [Bharat Ruidas](https://github.com/brd2002)
+- [Capitaine_steeve78](https://github.com/Capitaine-steeve78)
 - [Boru Isako](https://github.com/BoruIsakoJ)
 - [Borzoi Lover](https://github.com/mmitros1)
 - [Botnie Data](https://github.com/botniedata)
