@@ -31,7 +31,7 @@
 
 आता आपले टर्मिनल (Terminal) उघडा व त्यात खालील git आदेश (Command) चालवा.
 
-```
+```Bash
 git clone <कॉपी-केलेली-लिंक>
 ```
 
@@ -41,7 +41,7 @@ git clone <कॉपी-केलेली-लिंक>
 
 उदाहरणार्थ:
 
-```
+```Bash
 git clone https://github.com/तुमचे-युझर-नाव/first-contributions.git
 ```
 
@@ -53,19 +53,19 @@ git clone https://github.com/तुमचे-युझर-नाव/first-contri
 
 आपल्या टर्मिनल वरुन आपली रिपो फोल्डर/डायरेक्टरी (Folder/Directory) बदला (जर आपण अद्याप बदलले नसेल तर).
 
-```
+```Bash
 cd first-contributions
 ```
 
 आता `git checkout` ही कमांड वापरुन नवीन ब्रांच तयार करा.
 
-```
+```Bash
 git checkout -b <आपल्या-ब्रांचचे-नाव-येथे-टाका>
 ```
 
 उदा:
 
-```
+```Bash
 git checkout -b add-rahul-thakare
 ```
 
@@ -80,13 +80,13 @@ git checkout -b add-rahul-thakare
 
 `git add` कमांड वापरुन आपण तयार केलेल्या शाखेत ते बदल जोडा
 
-```
+```Bash
 git add Contributors.md
 ```
 
 आता `git commit` ही कमांड वापरुन आपले बदल कमिट/सुरक्षित करा.
 
-```
+```Bash
 git commit -m "Add <तुमचे-नाव> to Contributors list"
 ```
 
@@ -96,7 +96,7 @@ git commit -m "Add <तुमचे-नाव> to Contributors list"
 
 `git push` वापरून आपले बदल पुश करा
 
-```
+```Bash
 git push origin <आपल्या-शाखेचे-नाव>
 ```
 
