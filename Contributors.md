@@ -2089,6 +2089,7 @@
 - [Rajat](https://github.com/rajataky)
 - [Aditi Kuhar](https://github.com/Aditi-Kuhar)
 - [Mohammed Saad](https://github.com/MohammedSaad114)
-- [Harsha Agarwal](https://github.com/harsha-aga)
-- [winjay](https://github.com/EterJasmine)
+- [arsha Agarwal](https://github.com/harsha-aga)
 - [GreyJohnny](https://github.com/GreyJohnny)
+- [winjay](https://github.com/EterJasmine)
+
