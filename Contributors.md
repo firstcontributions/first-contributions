@@ -1997,6 +1997,7 @@
 - [Divyansh Gupta](https://github.com/divyansh1099) - "Go Devils!"
 - [Carlos Murillo](https://github.com/CMurilloCamacho)
   <<Abhishek/@planksconstant>>
+- [Katene Cotton](https://github.com/katene30)
 - [Charmine Tan](https://github.com/Charmine-Tan-Renbao)
 - [Srikanth Reddy](https://github.com/srikanthreddy1808)
 - [NaClCode](https://github.com/NaClCode)
