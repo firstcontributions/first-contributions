@@ -28,6 +28,7 @@
 - [Vimal Bisht](https://github.com/VimalBisht2021)
 - [Jamale SLEIMAN]
 - [Michael Pugh](https://github.com/icefire1191)
+- [Rishabh Bansal](https://github.com/RishabhBansal22/)
 - [Nisarg Gandhi] (https://github.com/Nisarg0007)
 - [Zhumagulov Zhakyp](https://github.com/zhumagulovv)
 - [Mahendra Kumar Sahu](https://github.com/mahi-in9)
@@ -1996,6 +1997,7 @@
 - [Divyansh Gupta](https://github.com/divyansh1099) - "Go Devils!"
 - [Carlos Murillo](https://github.com/CMurilloCamacho)
   <<Abhishek/@planksconstant>>
+- [Katene Cotton](https://github.com/katene30)
 - [Charmine Tan](https://github.com/Charmine-Tan-Renbao)
 - [Srikanth Reddy](https://github.com/srikanthreddy1808)
 - [NaClCode](https://github.com/NaClCode)
@@ -2073,6 +2075,7 @@
 - [Naees](https://github.com/Naees)
 - [Piyush Raj](https://github.com/piyushraj8235)
 - [Omkar Ghodekar](https://github.com/omkarghodekar18)
+- [YouYuchang](https://github.com/youyuchang-gmail)
 - [Yuhan Guo](https://github.com/YuhanGuo)
 - [Akhil](https://github.com/SaiAkhil27)
 - [adith](https://github.com/adithn875)
@@ -2097,4 +2100,5 @@
 - [winjay](https://github.com/EterJasmine)
 - [GreyJohnny](https://github.com/GreyJohnny)
 - [Sameer Reddy](https://github.com/2400030343SameerReddy)
+- [Jami Sivesh Kumar](https://github.com/jamisiveshkumar)
 
