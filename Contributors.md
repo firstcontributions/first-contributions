@@ -2147,3 +2147,4 @@
 - [Shubham Raj](https://github.com/shubhamraj2604)
 - [Aman Bansal](https://github.com/Amanbansal123)
 - [Soumya Niclavose](https://github.com/01soumyaniclavose)
+- [Nicolás Wagner](https://github.com/NicWr25)
