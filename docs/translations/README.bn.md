@@ -28,7 +28,7 @@
 
 আপনার টার্মিনাল (উইন্ডোজের ক্ষেত্রে কমান্ড প্রম্পট (CMD)) চালু করুন এবং নিচের কমান্ড রান করুন :
 
-```
+```bash
 git clone "url you just copied"
 ```
 
@@ -38,7 +38,7 @@ git clone "url you just copied"
 
 যেমন:
 
-```
+```bash
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 
@@ -48,19 +48,19 @@ git clone https://github.com/this-is-you/first-contributions.git
 
 আপনার কম্পিউটারে রিপোজিটরির ডিরেক্টরিতে যান (যদি এখনো অন্য ডিরেক্টরিতে থাকেন) :
 
-```
+```bash
 cd first-contributions
 ```
 
 এখন `git switch` কমান্ডের মাধ্যমে একটি ব্রাঞ্চ তৈরি করুন :
 
-```
+```bash
 git switch -c <your-new-branch-name>
 ```
 
 যেমন :
 
-```
+```bash
 git switch -c add-alonzo-church
 ```
 
@@ -70,13 +70,13 @@ git switch -c add-alonzo-church
 
 এখন যে কোন টেক্সট এডিটরে `Contributors.md` ফাইলটি খুলুন, এতে আপনার নাম যুক্ত করুন, অতঃপর ফাইলটি সেভ করুন। এবার প্রজেক্ট ডিরেক্টরি থেকে `git status` কমান্ড রান করলে আপনি পরিবর্তনগুলো দেখতে পাবেন। `git add` কমান্ড দ্বারা এই পরিবর্তনগুলো আপনার তৈরি ব্রাঞ্চে যুক্ত করুন :
 
-```
+```bash
 git add Contributors.md
 ```
 
 এরপর `git commit` কমান্ড ব্যবহার করে এই পরিবর্তনগুলো কমিট করুন :
 
-```
+```bash
 git commit -m "Add <your-name> to Contributors list"
 ```
 
@@ -86,7 +86,7 @@ git commit -m "Add <your-name> to Contributors list"
 
 `git push` কমান্ড ব্যবহার করে পরিবর্তনগুলো পুশ করুন :
 
-```
+```bash
 git push origin -u <your-new-branch-name>
 ```
 
