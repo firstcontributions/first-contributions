@@ -1968,6 +1968,7 @@
 - [Om Maurya](https://github.com/Ommaurya-2005)
 - [HAYTHAM KENNOUZ](https://github.com/Haytham-HK)
 - [Adrien Bey](https://github.com/adrienbey777)
+- [Salih] (https://github.com/kinjii05)
 - [Edwin Adams](https://github.com/EDWIN-ADAMS-V)
 - [Vedant Patole](https://github.com/PatoleVedant)
 - [Thomas Dahlgren](https://github.com/thomasmaterials)
