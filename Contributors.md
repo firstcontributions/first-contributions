@@ -2003,6 +2003,7 @@
 - [Carlos Murillo](https://github.com/CMurilloCamacho)
   <<Abhishek/@planksconstant>>
 - [Katene Cotton](https://github.com/katene30)
+- [Soma Samanta](https://github.com/Soma2024-08)
 - [Charmine Tan](https://github.com/Charmine-Tan-Renbao)
 - [Srikanth Reddy](https://github.com/srikanthreddy1808)
 - [NaClCode](https://github.com/NaClCode)
