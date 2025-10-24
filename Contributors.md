@@ -3,6 +3,7 @@
 
 - [Supra](https://github.com/supraik)
 - My First Contro
+- [Abhishek Goyal ](https://github.com/Abhishek445566)hello my name is abhishek 
 - [Smaran](https://github.com/ryder34)
 - [Himabindu](https://github.com/himabindu-1614)
 - [Ashutosh](https://github.com/ashutosh-moharana)
@@ -64,7 +65,7 @@
 - [Ehtesham Nawaz](https://github.com/Edri7h)
 - [Jason Lamb](https://github.com/jasrasr)
 - [Adrian Juarez](https://github.com/adrianjzc)
-- [Aryan Rai](https://github.com/Fang1331)
+- [Aryan Rai](https://github.com/Fang1331) 
 - [Anagha Lambade](https://github.com/Anagha2106)
 - [Khaled Al Katheri](https://github.com/KhaledAlKatheri)
 - [Yesebu](https://github.com/MylapalliYesebu) - "First open-source contribution — learning by doing"
