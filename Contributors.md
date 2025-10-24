@@ -54,6 +54,7 @@
 - [Serhat Baris Aydin](https://github.com/SerhatBarisAydin)
 - [Samandar Ibragimov](https://github.com/SamandarIbragimov)
 - [Daksh Pathak](https://github.com/dakshhhhh16)
+- [Aaliya Ganguly](https://github.com/aaliyaganguly-cmd)
 - [Harsha Sai Polnati](https://github.com/Harshasai1234)
 - [Ronin](https://github.com/iamroninfr)
 - [Brittany Lynn](https://github.com/tylub001)
