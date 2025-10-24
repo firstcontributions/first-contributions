@@ -18,6 +18,7 @@
 - [limay tidke](https://github.com/limaytidke)
 - [Jaeyoon Keum](https://github.com/jaeyoon882)
 - [Jeremy Newman](https://github.com/jeremynewman)
+- [João Novello] (https://github.com/novello-dev)
 - [Prajwal Rawoorkar](https://github.com/Deadheaven)
 - [sigabeauty](https://github.com/sigabeauty)
 - [jsdtwry](https://github.com/jsdtwry)
