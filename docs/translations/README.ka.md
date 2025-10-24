@@ -9,7 +9,7 @@
 
 ನೀವು ಆಜ್ಞಾ ಸಾಲಿನೊಂದಿಗೆ ಆರಾಮದಾಯಕವಲ್ಲದಿದ್ದರೆ,[GUI ಉಪಕರಣಗಳನ್ನು ಬಳಸುವ ಟ್ಯುಟೋರಿಯಲ್‌ಗಳು ಇಲ್ಲಿವೆ.](#tutorials-using-other-tools)_
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="ಈ ಭಂಡಾರವನ್ನು ಫೋರ್ಕ್ ಮಾಡಿ" />
 
 ನಿಮ್ಮ ಯಂತ್ರದಲ್ಲಿ ನೀವು ಗಿಟ್ ಹೊಂದಿಲ್ಲದಿದ್ದರೆ,[ಅದನ್ನು ಸ್ಥಾಪಿಸಿ](https://help.github.com/articles/set-up-git/)
 
@@ -20,7 +20,7 @@
 
 ## ರಿಪಾಸಿಟರಿ ಕ್ಲೋನ್
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="ಈ ಭಂಡಾರವನ್ನು ಕ್ಲೋನ್ ಮಾಡಿ" />
 
 ಈಗ ನಿಮ್ಮ ಯಂತ್ರಕ್ಕೆ ಫೋರ್ಕ್ಡ್ ರಿಪಾಸಿಟರಿಯನ್ನು ಕ್ಲೋನ್ ಮಾಡಿ. ನಿಮ್ಮ ಗಿಟ್-ಹಬ್ ಖಾತೆಗೆ ಹೋಗಿ, ಫೋರ್ಕ್ ಮಾಡಿದ ರಿಪಾಸಿಟರಿಯನ್ನು ತೆರೆಯಿರಿ, "Code" ಬಟನ್ ಅನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ ಮತ್ತು ನಂತರ "copy to clipboard" ಐಕಾನ್ ಅನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ - ಇದು URL(ವೆಬ್‌ ವಿಳಾಸ) ಅನ್ನು ನಕಲಿಸುತ್ತದೆ[ಕಾಪಿ ಮಾಡುತ್ತದೆ].
 
@@ -31,13 +31,13 @@ git clone "copied URL"
 ```
 ಇಲ್ಲಿ "copied URL" - ನೀವು ಈಗಷ್ಟೇ ನಕಲಿಸಿದ URL(ನೀವು ಫೋಕ೯ ಮಾಡಿದ ಪ್ರಾಜೆಕ್ಟ ಲಿಂಕ್) ಅನ್ನು ಉದ್ಧರಣ[""] ಚಿಹ್ನೆಗಳಿಲ್ಲದೆ ಈ ಸ್ಥಳಕ್ಕೆ ಸೇರಿಸಿ.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="ಕ್ಲಿಪ್‌ಬೋರ್ಡ್‌ಗೆ URL ಅನ್ನು ನಕಲಿಸಿ" />
 
 ಉದಾಹರಣೆಗೆ:
 ```
-git clone https://github.com/this-is-you/first-contributions.git
+git clone https://github.com/ಇದು ನೀನು/first-contributions.git
 ```
-`this-is-you' ಅಂದ್ರೆ ನಿಮ್ಮ ಗಿಟ್‌ಹಬ್ ಖಾತೆಯ ಹೆಸರು. 
+`ಇದು ನೀನು' ಅಂದ್ರೆ ನಿಮ್ಮ ಗಿಟ್‌ಹಬ್ ಖಾತೆಯ ಹೆಸರು. 
 ಇಲ್ಲಿ ನೀವು ನಿಮ್ಮ ಕಂಪ್ಯೂಟರ್‌ಗೆ ಗಿಟ್‌ಹಬ್‌ನಲ್ಲಿನ first-contributions ಯೋಜನೆಯನ್ನು  ನಕಲಿಸುತ್ತಿದ್ದೀರಿ.
 
 ## ಒಂದು ಶಾಖೆಯನ್ನು ರಚಿಸಿ
@@ -58,7 +58,7 @@ git checkout -b add-alonzo-church
 ## ಅಗತ್ಯ ಬದಲಾವಣೆಗಳನ್ನು ಮಾಡಿ -‌ ಕಮಿಟ್ ಮಾಡಿ
 ಈಗ ಪಠ್ಯ ಸಂಪಾದಕದಲ್ಲಿ `Contributor.md` ಫೈಲ್ ಅನ್ನು ತೆರೆಯಿರಿ, ಅದಕ್ಕೆ ನಿಮ್ಮ ಹೆಸರನ್ನು ಸೇರಿಸಿ. ಅದನ್ನು ಫೈಲ್‌ನ ಪ್ರಾರಂಭ ಅಥವಾ ಕೊನೆಯಲ್ಲಿ ಸೇರಿಸಬೇಡಿ. ನಡುವೆ ಎಲ್ಲಿಯಾದರೂ ಸೇರಿಸಿ.
 ಈಗ, ಫೈಲ್ ಅನ್ನು ಸೇವ್‌ ಮಾಡಿ.
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git ಸ್ಥಿತಿ" />
 ನೀವು ಪ್ರಾಜೆಕ್ಟ್ ಡೈರೆಕ್ಟರಿಗೆ ಹೋಗಿ `git status` ಆಜ್ಞೆಯನ್ನು ಕಾರ್ಯಗತಗೊಳಿಸಿದರೆ, ನೀವು ಮಾಡಿದ ಬದಲಾವಣೆ ಕಾಣಿಸುತ್ತವೆ.
 
 `git add` ಆಜ್ಞೆಯನ್ನು ಬಳಸಿ, ಬದಲಾಯಿಸಿದ ಫೈಲ್‌ನ್ನು ಸ್ಟೇಜ ಮಾಡಿ.
@@ -78,9 +78,9 @@ git push origin <add-your-branch-name>
 `<add-your-branch-name>` ಈ ಸ್ಥಳದಲ್ಲಿ ನೀವು ರಚಿಸಿದ ಬ್ರ್ಯಾಂಚ್‌ ಹೆಸರನ್ನು ಬರೆಯಿರಿ.
 ## ನಿಮ್ಮ ಬದಲಾವಣೆಗಳನ್ನು ವಿಮರ್ಶೆಗಾಗಿ ಸಲ್ಲಿಸಿ
 ನೀವು ಗಿಟ್‌ಹಬ್‌ನಲ್ಲಿರುವ ನಿಮ್ಮ ಕಡತಕ್ಕೆ ಹೋದರೆ, ನೀವು `Compare & pull request` ಬಟನ್ ನೋಡುತ್ತೀರಿ. ಆ ಬಟನ್ನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ.
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="ಎಲೆಯುವ ವಿನಂತಿಯನ್ನು ರಚಿಸಿ" />
 ಈಗ ಗಿಟ್‌ಹಬ್‌ ಪುಲ್ ವಿನಂತಿಯನ್ನು ಸಲ್ಲಿಸಿ.
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="ಸಲ್ಲಿಸಲು ವಿನಂತಿಯನ್ನು ರಚಿಸಿ" />
 
 ಶೀಘ್ರದಲ್ಲೇ ನಾನು ನಿಮ್ಮ ಎಲ್ಲಾ ಬದಲಾವಣೆಗಳನ್ನು ಈ ಯೋಜನೆಯ ಮಾಸ್ಟರ್ ಶಾಖೆಯಲ್ಲಿ ವಿಲೀನಗೊಳಿಸುತ್ತೇನೆ. ಬದಲಾವಣೆಗಳನ್ನು ವಿಲೀನಗೊಳಿಸಿದ ನಂತರ ನೀವು ಅಧಿಸೂಚನೆ ಇಮೇಲ್ ಅನ್ನು ಪಡೆಯುತ್ತೀರಿ.
 
