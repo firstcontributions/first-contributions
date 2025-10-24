@@ -1308,6 +1308,7 @@
 - [ahmad777x86](https://github.com/ahmad777x86)
 - [andyyou7549](https://github.com/andyyou7549)
 - [anthocote19](https://github.com/anthocote19)
+- [atharva-b](https://github.com/atharva-b)
 - [artistique1](https://github.com/artistique1)
 - [brunoblaise](https://github.com/brunoblaise)
 - [chandanvnk1](https://github.com/chandanvnk1)
