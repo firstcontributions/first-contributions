@@ -4,6 +4,7 @@
 - [Supra](https://github.com/supraik)
 - My First Contro
 - [Smaran](https://github.com/ryder34)
+- [Himabindu](https://github.com/himabindu-1614)
 - [Ashutosh](https://github.com/ashutosh-moharana)
 - [Gopalakrishnan](https://github.com/gobeecode)
   -[Apurva Vats](https://github.com/apurvavats)
@@ -56,6 +57,7 @@
 - [Ronin](https://github.com/iamroninfr)
 - [Brittany Lynn](https://github.com/tylub001)
 - [Joao Guilherme Felizardo](https://github.com/JoaoCaconde)
+- [Moageza](https://github.com/Moagezaaa)
 - [Vishnudas Nayak P](https://github.com/VishnudasNayakP)
 - [Khaled Abdelrahman](https://github.com/khaleed2002)
 - [Rayan Mamhoud](https://github.com/ryanneekidev)
@@ -1782,6 +1784,7 @@
 - [Camiloprog](https://github.com/juancamilo99-prog)
 - [Fahed Khan](https://github.com/12fahed)
 - [Suhani Shah](https://github.com/B24CH1037)
+- [Purvai Patil](https://github.com/purvaipatil)
 - [Alireza Rostamnezhad](https://github.com/arnpacc)
 - [Srikant M K](https://github.com/srixmk)
 - [Harini R A J](https://github.com/Harini-RAJ)
@@ -2107,3 +2110,5 @@
 - [Oguz Berk](https://github.com/OguzBerkAydin)
 - [Gelli Keerthi](https://github.com/gellikeerthi)
 
+- [Akshaya Pranathi Burramsetty](https://github.com/BurramsettyAkshayaPranathi)
+- [Morten]
