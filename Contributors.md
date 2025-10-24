@@ -19,6 +19,7 @@
 - [limay tidke](https://github.com/limaytidke)
 - [Jaeyoon Keum](https://github.com/jaeyoon882)
 - [Jeremy Newman](https://github.com/jeremynewman)
+- [Jorge Xar](https://github.com/jorgexar)
 - [João Novello] (https://github.com/novello-dev)
 - [Prajwal Rawoorkar](https://github.com/Deadheaven)
 - [sigabeauty](https://github.com/sigabeauty)
@@ -2137,4 +2138,6 @@
 - [Sushmitha Vijayakumar](https://github.com/sushv07)
 - [Sujay Barui](https://github.com/sujayxbarui)
 - [Zach Jacob](https://github.com/zachrfjacob)
-- 
+- [Ravi Mishra](https://github.com/rk-virus)
+- [Shubham Raj](https://github.com/shubhamraj2604)
+- [Soumya Niclavose](https://github.com/01soumyaniclavose)
