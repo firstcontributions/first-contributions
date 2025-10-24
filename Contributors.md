@@ -1784,6 +1784,7 @@
 - [Camiloprog](https://github.com/juancamilo99-prog)
 - [Fahed Khan](https://github.com/12fahed)
 - [Suhani Shah](https://github.com/B24CH1037)
+- [Purvai Patil](https://github.com/purvaipatil)
 - [Alireza Rostamnezhad](https://github.com/arnpacc)
 - [Srikant M K](https://github.com/srixmk)
 - [Harini R A J](https://github.com/Harini-RAJ)
