@@ -1,4 +1,5 @@
 # Contributors
+
 - [APURVA](https://github.com/apurva1435)
 - [AnshMeshram](https://github.com/AnshMeshram)
 - [Sonali Dutta](https://github.com/SonaliDutta-Dev)
@@ -55,6 +56,7 @@
 - [Galan Kresna](https://github.com/glnKresna)
 - [Ashik Ahmed](https://github.com/ashikahmed05)
 - [Serhat Baris Aydin](https://github.com/SerhatBarisAydin)
+- [Parth Atkari](https://github.com/chromylcl)
 - [Samandar Ibragimov](https://github.com/SamandarIbragimov)
 - [Daksh Pathak](https://github.com/dakshhhhh16)
 - [Aaliya Ganguly](https://github.com/aaliyaganguly-cmd)
