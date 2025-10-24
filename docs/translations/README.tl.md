@@ -13,7 +13,7 @@ Kung hindi comfortable sa paggamit ng *command line*, [may mga tutorials din gam
 
 
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="i-fork ang repository na ito" />
 
 Kung wala pang *git* sa iyong computer, [i-install ito](https://help.github.com/articles/set-up-git/).
 
