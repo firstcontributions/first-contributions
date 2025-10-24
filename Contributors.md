@@ -1,6 +1,6 @@
 # Contributors
 - [APURVA](https://github.com/apurva1435)
-
+- [Sonali Dutta](https://github.com/SonaliDutta-Dev)
 - [Supra](https://github.com/supraik)
 - My First Contro
 - [Smaran](https://github.com/ryder34)
