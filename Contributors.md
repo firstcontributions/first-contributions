@@ -63,6 +63,7 @@
 - [Daksh Pathak](https://github.com/dakshhhhh16)
 - [Aaliya Ganguly](https://github.com/aaliyaganguly-cmd)
 - [Harsha Sai Polnati](https://github.com/Harshasai1234)
+- [EFL](https://github.com/Entry-Flight-Level)
 - [Ronin](https://github.com/iamroninfr)
 - [Brittany Lynn](https://github.com/tylub001)
 - [Joao Guilherme Felizardo](https://github.com/JoaoCaconde)
