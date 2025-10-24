@@ -11,7 +11,7 @@ Galite pradėti skaityti straipsnius ir žiūrėti vadovus, bet kas gali būti g
 
 _Jei nesate pratę dirbti su komandine eilute, [čia rasite vadovą, naudojantį GUI įrankius.](#tutorials-using-other-tools)_
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="sukurkite šaką iš šio saugyklos" />
 
 #### Jei neturite instaliuoto git, [instaliuokite čia](https://help.github.com/articles/set-up-git/).
 
@@ -22,7 +22,7 @@ Tai sukurs šios saugyklos kopiją jūsų GitHub paskyroje.
 
 ## Klonuokite saugyklą
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="nukopijuokite šią saugyklą" />
 
 Dabar klonuokite šią saugyklą į savo kompiuterį. Spustelėkite klonavimo mygtuką ir tada spustelėkite *copy to clipboard* piktogramą.
 
@@ -33,7 +33,7 @@ git clone "kątik nukopijuota nuoroda"
 ```
 kur "kątik nukopijuota nuoroda" (be citatos ženklų) yra url nuoroda jūsų saugyklai (jūsų projekto kopijai). Peržiūrėkite ankstesnius veiksmus, kad gautumėte url nuorodą.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="nukopijuokite URL į iškarpinę" />
 
 Pavyzdžiui:
 ```
@@ -121,11 +121,11 @@ pakeisdami `<tavo-sakos-vardas>` anskčiau sukurtos šakos (branch) vardu.
 
 Eikite į savo saugyklą GitHub. Pamatysite mygtuką `Compare & pull request` (palyginti ir įtraukti užklausą). Spustelėkite šį mygtuką.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="sukurkite traukimo užklausą" />
 
 Dabar pateikite įtraukimo į pradinę saugyklą (pull) užklausą.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="pateikite traukimo užklausą" />
 
 Netrukus projekto autorius sujungs visus jūsų šakos pakeitimus su šio projekto pagrindine šaka. Kai pakeitimai bus sujungti, gausite tai patvirtinantį el. laišką.
 
