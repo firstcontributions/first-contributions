@@ -114,6 +114,7 @@
 - [Kavinila_L](https://github.com/KavinilaLoganathan-2507)
 - [Sara]
 - [Krsna]
+- [Rohit Mendus](https://github.com/rohitmendus)
 - [Kavish](https://github.com/Kavish-Nag)
 - [mdhamed238](https://github.com/mdhamed238)
 - [Felipe](https://github.com/oOFelipeOo/)
