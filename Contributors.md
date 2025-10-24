@@ -76,9 +76,7 @@
 - [Eswar Venkata Ram Charan](https://github.com/eswarseeram)
 - [Ahmed Abdelsamea](https://github.com/ahmed0-07)
 - [Arthur Umerov](https://github.com/aumerov)
-- [Shriya Aggarwal](https://github.com/shriyaagg)
-- [Muzided](https://github.com/Muzided)
-- [Godfrey] 
+- [Sabirrh](https://github.com/Sabirrh)
 - [sik9252](https://github.com/sik9252)
 - [Zander Bezuidenhout](https://github.com/ZanderBez)
 - [adams1864](https://github.com/adams1864)
@@ -92,7 +90,6 @@
 - [namest504](https://github.com/namest504)
 - [manasab805](https://github.com/manasab805)
 - [Aravind Rao](https://github.com/rekcilyssup)
-- [Kushal Maradana ](https://github.com/kushal2601)
 - [Robert Schacht](https://github.com/rsschacht)
 - [amarmerada](https://github.com/amarmerada99)
 - [Vikas Mishra](https://github.com/vikasmishra1691)
