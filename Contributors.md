@@ -2120,4 +2120,5 @@ Yashaswini G R
 - [Ivanzhuu](https://github.com/JJchess/)
 - [MohithN](https://github.com/MohithN007/)
 - [yousuf_wizdan](https://github.com/Yousuf-Wizdan)
+- [Ajitesh_Sophat](https://github.com/Omega-sc)
 - [Samuel Liang](https://github.com/samliaitwork-hub)
