@@ -1,5 +1,6 @@
 # Contributors
 - [APURVA](https://github.com/apurva1435)
+- [AnshMeshram](https://github.com/AnshMeshram)
 - [Sonali Dutta](https://github.com/SonaliDutta-Dev)
 - [Supra](https://github.com/supraik)
 - My First Contro
@@ -9,7 +10,7 @@
 - [Ashutosh](https://github.com/ashutosh-moharana)
 - [Arthur Cavalcante](https://github.com/Linsarthur)
 - [Gopalakrishnan](https://github.com/gobeecode)
-  -[Apurva Vats](https://github.com/apurvavats)
+- [Apurva Vats](https://github.com/apurvavats)
 - [TRISHIT BODKHE](https://github.com/trishit726)
 - [Fenton](https://github.com/FentonFrancis)
 - [Reilly Davis](https://github.com/reillyblair81)
@@ -23,11 +24,11 @@
 - [Maha Laeeq](https://github.com/s4096770)
 - [Eric Asbury](https://github.com/Anthro-pod)
 - [Tushar](https://github.com/tushaar-05)
-- [Krzysztof Sulkowski] (https://github.com/krzysztofsulkowski)
+- [Krzysztof Sulkowski](https://github.com/krzysztofsulkowski)
 - [Elmar Chavez](https://github.com/CodingWithJiro)
 - [Leandro Freitas](https://github.com/LFreitas88)
 - [Tedliu](https://github.com/qsc811022)
-- [HariRaju] (https://github.com/HariSivaraj)
+- [HariRaju](https://github.com/HariSivaraj)
 - [Vimal Bisht](https://github.com/VimalBisht2021)
 - [Jamale SLEIMAN]
 - [Michael Pugh](https://github.com/icefire1191)
@@ -359,7 +360,7 @@
 - [Eques72](https://github.com/Eques72)
 - [Thaiyal Bagam Sanjeev](https://github.com/SugarCrash2077)
 - [Supriya](https://github.com/Supriyasus)
-Yashaswini G R
+  Yashaswini G R
 - [Mohamednishar J](https://github.com/nisharj)
 - [Yasir Khan](https://github.com/itsyasirkhandev)
 - [Mahmoud Ediem](https://github.com/mahmoudediem)
