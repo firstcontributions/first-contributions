@@ -1,6 +1,6 @@
 # Contributors
 - [APURVA](https://github.com/apurva1435)
-
+- [Sonali Dutta](https://github.com/SonaliDutta-Dev)
 - [Supra](https://github.com/supraik)
 - My First Contro
 - [Abhishek Goyal ](https://github.com/Abhishek445566)hello my name is abhishek 
