@@ -26,6 +26,7 @@
 - [HariRaju] (https://github.com/HariSivaraj)
 - [Vimal Bisht](https://github.com/VimalBisht2021)
 - [Jamale SLEIMAN]
+- [Michael Pugh](https://github.com/icefire1191)
 - [Nisarg Gandhi] (https://github.com/Nisarg0007)
 - [Zhumagulov Zhakyp](https://github.com/zhumagulovv)
 - [Mahendra Kumar Sahu](https://github.com/mahi-in9)
