@@ -3,7 +3,7 @@
 - [Sonali Dutta](https://github.com/SonaliDutta-Dev)
 - [Supra](https://github.com/supraik)
 - My First Contro
-- [Abhishek Goyal ](https://github.com/Abhishek445566)hello my name is abhishek 
+- [Abhishek Goyal ](https://github.com/Abhishek445566)hello my name is abhishek
 - [Smaran](https://github.com/ryder34)
 - [Himabindu](https://github.com/himabindu-1614)
 - [Ashutosh](https://github.com/ashutosh-moharana)
@@ -67,7 +67,7 @@
 - [Ehtesham Nawaz](https://github.com/Edri7h)
 - [Jason Lamb](https://github.com/jasrasr)
 - [Adrian Juarez](https://github.com/adrianjzc)
-- [Aryan Rai](https://github.com/Fang1331) 
+- [Aryan Rai](https://github.com/Fang1331)
 - [Anagha Lambade](https://github.com/Anagha2106)
 - [Khaled Al Katheri](https://github.com/KhaledAlKatheri)
 - [Yesebu](https://github.com/MylapalliYesebu) - "First open-source contribution — learning by doing"
@@ -76,6 +76,9 @@
 - [Eswar Venkata Ram Charan](https://github.com/eswarseeram)
 - [Ahmed Abdelsamea](https://github.com/ahmed0-07)
 - [Arthur Umerov](https://github.com/aumerov)
+- [Shriya Aggarwal](https://github.com/shriyaagg)
+- [Muzided](https://github.com/Muzided)
+- [Godfrey]
 - [Sabirrh](https://github.com/Sabirrh)
 - [sik9252](https://github.com/sik9252)
 - [Zander Bezuidenhout](https://github.com/ZanderBez)
@@ -2111,7 +2114,7 @@ Yashaswini G R
 - [winjay](https://github.com/EterJasmine)
 - [GreyJohnny](https://github.com/GreyJohnny)
 - [Jami Sivesh Kumar](https://github.com/jamisiveshkumar)
-- [dengw](https://github.com/ddddw123-123) 
+- [dengw](https://github.com/ddddw123-123)
 - [Kotini Jeswanth](https://github.com/2400032703kotinijeswanth)
 - [Oguz Berk](https://github.com/OguzBerkAydin)
 - [Gelli Keerthi](https://github.com/gellikeerthi)
@@ -2124,3 +2127,4 @@ Yashaswini G R
 - [Alekhya Reddy](https://github.com/alekhyareddy135)
 - [Ajitesh_Sophat](https://github.com/Omega-sc)
 - [Samuel Liang](https://github.com/samliaitwork-hub)
+- [Krish Sharma](https://github.com/imkrish0011)
