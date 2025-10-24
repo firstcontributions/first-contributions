@@ -3,6 +3,8 @@
 
 - [Supra](https://github.com/supraik)
 - My First Contro
+- - [Sonali Dutta](https://github.com/SonaliDutta-Dev)
+
 - [Smaran](https://github.com/ryder34)
 - [Ashutosh](https://github.com/ashutosh-moharana)
 - [Gopalakrishnan](https://github.com/gobeecode)
