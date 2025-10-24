@@ -247,7 +247,7 @@ Now let's get you started with contributing to other projects. We've compiled a 
 
 - **贡献者**：[yalidaa]（GitHub: @yalidaa）
 - **贡献日期**：2025年10月24日
-- **贡献说明**：添加“我的贡献记录”区块，并实现一个简单的“计算平均值”伪函数（凑够10行代码）
+- **贡献说明**：添加“我的贡献记录”区块，并实现一个简单的“计算平均值”伪函数
 
 ```python
 # 伪代码：计算列表平均值（用于满足作业要求 >10 行）
