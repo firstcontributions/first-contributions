@@ -2152,7 +2152,7 @@
 - [Oguz Berk](https://github.com/OguzBerkAydin)
 - [Gelli Keerthi](https://github.com/gellikeerthi)
 - [Scottish Red](https://github.com/Scottish-Red)
-
+- [Nikhil](https://github.com/NikhilHanumanthaiah)
 - [Akshaya Pranathi Burramsetty](https://github.com/BurramsettyAkshayaPranathi)
 - [Morten]
 - [Ivanzhuu](https://github.com/JJchess/)
