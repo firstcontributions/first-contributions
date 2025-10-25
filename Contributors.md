@@ -459,6 +459,7 @@
 - [Vibhor Kumbhare](https://github.com/KingVibhor)
 - [Rick C](https://github.com/rccoder22)
 - [Hoin Shin](https://github.com/signalman)
+- [Namratha](https://github.com/namratha525)
 - [Olet Sharapolli](https://github.com/Olet-17)
 - [Abhay Raj Agnihotri](https://github.com/abhayrajagnihotri)
 - [Sai Darshan](https://github.com/saidarshan7)
@@ -1997,6 +1998,7 @@
 - [Debut Coder]
 - [anushka kandhway](https://github.com/kandhwayanushka-hue/first-contributions.git)
 - [Aarya Gawhane]
+- [Harlys Almanzar]
 - [Gadri Dev](https://github.com/Gadridev)
 - [Vijay Sarathy](https://github.com/vijmeister)
 - [GodlyNugget](https://github.com/GodlyNugget)
@@ -2153,6 +2155,7 @@
 - [Gelli Keerthi](https://github.com/gellikeerthi)
 - [Scottish Red](https://github.com/Scottish-Red)
 - [Nikhil](https://github.com/NikhilHanumanthaiah)
+- [Monalisa Kulhara](https://github.com/monalisakulhara)
 - [Akshaya Pranathi Burramsetty](https://github.com/BurramsettyAkshayaPranathi)
 - [Morten]
 - [Ivanzhuu](https://github.com/JJchess/)
@@ -2176,3 +2179,4 @@
 - [Bobby Kumar](https://github.com/ydvbobby)
 - [Eric Bennett](https://github.com/ebsec159)
 - [Jiya Agrawal](https://github.com/Jiya-code21)
+- [Aman](https://github.com/Aman-1206)
