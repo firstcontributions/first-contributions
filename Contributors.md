@@ -34,6 +34,7 @@
 - [Maha Laeeq](https://github.com/s4096770)
 - [Eric Asbury](https://github.com/Anthro-pod)
 - [Akash s kishor](https://github.com/eAK-47)
+- [Ritam Das](https://github.com/Rit7439)
 - [Tushar](https://github.com/tushaar-05)
 - [Krzysztof Sulkowski](https://github.com/krzysztofsulkowski)
 - [Elmar Chavez](https://github.com/CodingWithJiro)
@@ -458,6 +459,7 @@
 - [Vibhor Kumbhare](https://github.com/KingVibhor)
 - [Rick C](https://github.com/rccoder22)
 - [Hoin Shin](https://github.com/signalman)
+- [Namratha](https://github.com/namratha525)
 - [Olet Sharapolli](https://github.com/Olet-17)
 - [Abhay Raj Agnihotri](https://github.com/abhayrajagnihotri)
 - [Sai Darshan](https://github.com/saidarshan7)
@@ -1996,6 +1998,7 @@
 - [Debut Coder]
 - [anushka kandhway](https://github.com/kandhwayanushka-hue/first-contributions.git)
 - [Aarya Gawhane]
+- [Harlys Almanzar]
 - [Gadri Dev](https://github.com/Gadridev)
 - [Vijay Sarathy](https://github.com/vijmeister)
 - [GodlyNugget](https://github.com/GodlyNugget)
@@ -2174,3 +2177,5 @@
 - [Piyali Ghosh](https://github.com/Piyali439)
 - [Bobby Kumar](https://github.com/ydvbobby)
 - [Eric Bennett](https://github.com/ebsec159)
+- [Jiya Agrawal](https://github.com/Jiya-code21)
+- [Aman](https://github.com/Aman-1206)
