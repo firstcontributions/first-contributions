@@ -92,6 +92,7 @@
 - [Muzided](https://github.com/Muzided)
 - [Godfrey]
 - [d31c1de]
+- [Aditya](https://github.com/Aditya-maharshi)
 - [DavidValoisMartinez]
 - [Sabirrh](https://github.com/Sabirrh)
 - [sik9252](https://github.com/sik9252)
