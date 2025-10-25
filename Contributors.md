@@ -1,5 +1,7 @@
 # Contributors
 
+- [Reeyal Oinam](https://github.com/Reeyal05)
+- [Darshan K](https://github.com/1511Darshan)
 - [APURVA](https://github.com/apurva1435)
 - [AnshMeshram](https://github.com/AnshMeshram)
 - [Sonali Dutta](https://github.com/SonaliDutta-Dev)
@@ -18,13 +20,14 @@
 - [TRISHIT BODKHE](https://github.com/trishit726)
 - [Fenton](https://github.com/FentonFrancis)
 - [Reilly Davis](https://github.com/reillyblair81)
+- [Prabin Panta](https://github.com/prabinpanta0)
 - [Krsna Sirohi](https://github.com/krsnasirohi)
 - [limay tidke](https://github.com/limaytidke)
 - [Jaeyoon Keum](https://github.com/jaeyoon882)
 - [Jeremy Newman](https://github.com/jeremynewman)
 - [Andy Baker](https://github.com/andy77381)
 - [Jorge Xar](https://github.com/jorgexar)
-- [João Novello] (https://github.com/novello-dev)
+- [João Novello](https://github.com/novello-dev)
 - [Prajwal Rawoorkar](https://github.com/Deadheaven)
 - [sigabeauty](https://github.com/sigabeauty)
 - [jsdtwry](https://github.com/jsdtwry)
@@ -41,7 +44,7 @@
 - [Jamale SLEIMAN]
 - [Michael Pugh](https://github.com/icefire1191)
 - [Rishabh Bansal](https://github.com/RishabhBansal22/)
-- [Nisarg Gandhi] (https://github.com/Nisarg0007)
+- [Nisarg Gandhi](https://github.com/Nisarg0007)
 - [Zhumagulov Zhakyp](https://github.com/zhumagulovv)
 - [Mahendra Kumar Sahu](https://github.com/mahi-in9)
   Prasit Sung -[Esha Bajaj](https://github.com/EshaBajaj)
@@ -84,6 +87,7 @@
 - [Khaled Al Katheri](https://github.com/KhaledAlKatheri)
 - [Yesebu](https://github.com/MylapalliYesebu) - "First open-source contribution — learning by doing"
 - [Shaurya Tamang](https://github.com/GoTouchGra55)
+- [Om Prakash](https://github.com/omprakash970)
 - [Prince Pandey](https://github.com/pandey-prince)
 - [Eswar Venkata Ram Charan](https://github.com/eswarseeram)
 - [Ahmed Abdelsamea](https://github.com/ahmed0-07)
@@ -92,6 +96,7 @@
 - [Muzided](https://github.com/Muzided)
 - [Godfrey]
 - [d31c1de]
+- [Aditya](https://github.com/Aditya-maharshi)
 - [DavidValoisMartinez]
 - [Sabirrh](https://github.com/Sabirrh)
 - [sik9252](https://github.com/sik9252)
@@ -1936,6 +1941,7 @@
   [fibonacci1123git](https://github.com/fibonacci1123git)
 - [bismuth-baller](https://github.com/bismuth-baller)
 - [Filipe Limao](https://github.com/fliplemon)
+- [ Sambhav Vinay ](https://github.com/SambhavVinay)
 - [Formulaeagle161](https://github.com/Formulaeagle161)
 - [testiz](https://github.com/TEST-iz)
 - [Ella](https://github.com/elpha_bet)
@@ -2164,7 +2170,7 @@
 - [Soumya Niclavose](https://github.com/01soumyaniclavose)
 - [Nicolás Wagner](https://github.com/NicWr25)
 - [Bhavesh Bhat](https://github.com/bhavesh0001)
+- [Aditi Garg](https://github.com/aditigarg17)
 - [Piyali Ghosh](https://github.com/Piyali439)
 - [Bobby Kumar](https://github.com/ydvbobby)
 - [Eric Bennett](https://github.com/ebsec159)
-
