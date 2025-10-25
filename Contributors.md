@@ -767,6 +767,7 @@
 - [Mehedi Hasan Hridoy](https://github.com/mehedi-hridoy)
 - [Sidharth P](https://github.com/Sid-CodeX)
 - [Sina Soltani](https://github.com/sinaxzi)
+- [Anish Patil](https://github.com/Anish-Kodarkar)
 - [Sinchana](https://github.com/Sinchanar09)
 - [İsaməddin Qurbanov](https://github.com/isameddin35)
 - [Tyler Daw](https://github.com/TylerD1105)
