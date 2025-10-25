@@ -105,6 +105,7 @@
 - [adams1864](https://github.com/adams1864)
 - [zech](https://github.com/zechariah19190)
 - [Anash Pathan](https://github.com/anash56)
+- [Adithya Balaji]()
 - [Shaurya](https://github.com/Shaurya-34)
 - [Nanda Kumudhan](https://github.com/Na832938)
 - [Eamon Murphy](https://github.com/eamcn)
@@ -136,6 +137,7 @@
 - [Arthur Campana](https://github.com/arthurcampana)
 - [anjali-ojha17](https://github.com/anjali-ojha17)
 - [Kavinila_L](https://github.com/KavinilaLoganathan-2507)
+- [Adithya_Balaji]
 - [Sara]
 - [Krsna]
 - [Archie] (https://github.com/archie-2006)
