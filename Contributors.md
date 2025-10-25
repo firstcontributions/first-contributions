@@ -1912,6 +1912,7 @@
 - [Hawie Abera](https://github.com/habera00)
 - [Torgyn](https://github.com/tz9158)
 - [Kelvin_Odamtten](https://github.com/odamttenkelvin)
+- [Wes](https://github.com/slyCucumber7) -The journey of a thousand miles begins with a single step.
 - [Jessica](https://github.com/jxssicaz)
 - [Jiya Amin](https://github.com/jiya1613)
 - [Juniper Brinegar](https://github.com/jClarinet)
