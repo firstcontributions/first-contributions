@@ -29,6 +29,7 @@
 - [jsdtwry](https://github.com/jsdtwry)
 - [Maha Laeeq](https://github.com/s4096770)
 - [Eric Asbury](https://github.com/Anthro-pod)
+- [Akash s kishor](https://github.com/eAK-47)
 - [Tushar](https://github.com/tushaar-05)
 - [Krzysztof Sulkowski](https://github.com/krzysztofsulkowski)
 - [Elmar Chavez](https://github.com/CodingWithJiro)
