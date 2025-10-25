@@ -121,6 +121,7 @@
 - [Vaishnavi](https://github.com/Vaishnavinayak08)
 - [Akash](https://github.com/akaraj187)
 - [Rahul Soni](https://github.com/grksoni)
+- [Jellypork](https://github.com/JellyPork)
 - [Arthur Campana](https://github.com/arthurcampana)
 - [anjali-ojha17](https://github.com/anjali-ojha17)
 - [Kavinila_L](https://github.com/KavinilaLoganathan-2507)
