@@ -66,6 +66,7 @@
 - [EFL](https://github.com/Entry-Flight-Level)
 - [Ronin](https://github.com/iamroninfr)
 - [Brittany Lynn](https://github.com/tylub001)
+- [Tonya Glover](https://github.com/daughterofgaia87)
 - [Joao Guilherme Felizardo](https://github.com/JoaoCaconde)
 - [Moageza](https://github.com/Moagezaaa)
 - [Vishnudas Nayak P](https://github.com/VishnudasNayakP)
