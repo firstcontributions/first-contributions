@@ -1,5 +1,6 @@
 # Contributors
 
+- [Reeyal Oinam](https://github.com/Reeyal05)
 - [Darshan K](https://github.com/1511Darshan)
 - [APURVA](https://github.com/apurva1435)
 - [AnshMeshram](https://github.com/AnshMeshram)
