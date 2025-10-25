@@ -29,6 +29,7 @@
 - [jsdtwry](https://github.com/jsdtwry)
 - [Maha Laeeq](https://github.com/s4096770)
 - [Eric Asbury](https://github.com/Anthro-pod)
+- [Akash s kishor](https://github.com/eAK-47)
 - [Tushar](https://github.com/tushaar-05)
 - [Krzysztof Sulkowski](https://github.com/krzysztofsulkowski)
 - [Elmar Chavez](https://github.com/CodingWithJiro)
@@ -89,6 +90,7 @@
 - [Shriya Aggarwal](https://github.com/shriyaagg)
 - [Muzided](https://github.com/Muzided)
 - [Godfrey]
+- [d31c1de]
 - [DavidValoisMartinez]
 - [Sabirrh](https://github.com/Sabirrh)
 - [sik9252](https://github.com/sik9252)
@@ -268,6 +270,7 @@
 - [Umasankar Varada ti](https://github.com/umasankarvaradati)
 - [Onell](https://github.com/aquinoonell)
 - [Amit pandey](https://github.com/tcetamitpandey)
+- [Senthil Kaasi R](https://github.com/sk-byte-work)
 - [Ciara](https://github.com/ciahan)
   [ujala](https://github.com/ujala9968)
 - [Salmaan M](https://github.com/Salmaan-M)
@@ -2140,6 +2143,7 @@
 - [Kotini Jeswanth](https://github.com/2400032703kotinijeswanth)
 - [Oguz Berk](https://github.com/OguzBerkAydin)
 - [Gelli Keerthi](https://github.com/gellikeerthi)
+- [Scottish Red](https://github.com/Scottish-Red)
 
 - [Akshaya Pranathi Burramsetty](https://github.com/BurramsettyAkshayaPranathi)
 - [Morten]
@@ -2159,4 +2163,6 @@
 - [Soumya Niclavose](https://github.com/01soumyaniclavose)
 - [Nicolás Wagner](https://github.com/NicWr25)
 - [Bhavesh Bhat](https://github.com/bhavesh0001)
+- [Piyali Ghosh](https://github.com/Piyali439)
 - [Bobby Kumar](https://github.com/ydvbobby)
+- [Eric Bennett](https://github.com/ebsec159)
