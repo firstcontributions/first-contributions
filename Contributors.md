@@ -105,6 +105,7 @@
 - [adams1864](https://github.com/adams1864)
 - [zech](https://github.com/zechariah19190)
 - [Anash Pathan](https://github.com/anash56)
+- [Adithya Balaji]()
 - [Shaurya](https://github.com/Shaurya-34)
 - [Nanda Kumudhan](https://github.com/Na832938)
 - [Eamon Murphy](https://github.com/eamcn)
@@ -136,6 +137,7 @@
 - [Arthur Campana](https://github.com/arthurcampana)
 - [anjali-ojha17](https://github.com/anjali-ojha17)
 - [Kavinila_L](https://github.com/KavinilaLoganathan-2507)
+- [Adithya_Balaji]
 - [Sara]
 - [Krsna]
 - [Archie] (https://github.com/archie-2006)
@@ -1998,6 +2000,7 @@
 - [Debut Coder]
 - [anushka kandhway](https://github.com/kandhwayanushka-hue/first-contributions.git)
 - [Aarya Gawhane]
+- [Harlys Almanzar]
 - [Gadri Dev](https://github.com/Gadridev)
 - [Vijay Sarathy](https://github.com/vijmeister)
 - [GodlyNugget](https://github.com/GodlyNugget)
@@ -2153,7 +2156,8 @@
 - [Oguz Berk](https://github.com/OguzBerkAydin)
 - [Gelli Keerthi](https://github.com/gellikeerthi)
 - [Scottish Red](https://github.com/Scottish-Red)
-
+- [Nikhil](https://github.com/NikhilHanumanthaiah)
+- [Monalisa Kulhara](https://github.com/monalisakulhara)
 - [Akshaya Pranathi Burramsetty](https://github.com/BurramsettyAkshayaPranathi)
 - [Morten]
 - [Ivanzhuu](https://github.com/JJchess/)
@@ -2178,3 +2182,5 @@
 - [Eric Bennett](https://github.com/ebsec159)
 - [Jiya Agrawal](https://github.com/Jiya-code21)
 - [Mohit Raj Saxena](https://github.com/Mohit-Raj-Saxena)
+- [Aman](https://github.com/Aman-1206)
+-[JeyaChandran](https://github.com/Jeyachandran-K)
