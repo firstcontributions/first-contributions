@@ -2,7 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
-# Алгачкы Салымдар (First Contributions)
+# Алгачкы салымдар (first contributions)
 
 Бул долбоор жаңы баштагандарга алгачкы салымын кошуу жолун жеңилдетип, багыт берүүнү максат кылат. Эгер сиз алгачкы салымыңызды кошууну кааласаңыз, төмөнкү кадамдарды аткарыңыз.
 Эгер сиз командалык сап (command line) менен иштөөдө ыңгайсыз болсоңуз, бул жерде GUI куралдарын колдонгон окуу материалдары бар.
@@ -11,11 +11,11 @@
 Эгер компьютериңизде git жок болсо, [аны орнотуңуз](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
 
-## Репозиторийди "Fork" кылыңыз
+## Репозиторийди "fork" кылыңыз
 
 Бул баракчанын жогору жагындагы fork баскычын басып, бул репозиторийди fork кылыңыз. Бул сиздин аккаунтуңузда бул репозиторийдин көчүрмөсүн түзөт.
 
-## Репозиторийди Клондоңуз (Clone)
+## Репозиторийди клондоңуз (clone)
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 Эми fork кылынган репозиторийди компьютериңизге клондоңуз. GitHub аккаунтуңузга кирип, fork кылынган репозиторийди ачыңыз, андан кийин code баскычын, анан SSH кошумча барагын (tab) басып, url-ди алмашуу буферине көчүрүү (copy url to clipboard) сөлөкөтүн басыңыз.
@@ -31,7 +31,7 @@ git clone git@github.com:this-is-you/first-contributions.git
 ```
 мында `this-is-you` сиздин GitHub колдонуучу атыңыз. Бул жерде сиз GitHub-дагы first-contributions репозиторийинин мазмунун компьютериңизге көчүрүп жатасыз.
 
-## Тармак (Branch) Түзүңүз
+## Тармак (branch) түзүңүз
 
 Компьютериңиздеги репозиторий каталогуна өтүңүз (эгер ал жерде болбосоңуз):
 ```
@@ -53,7 +53,7 @@ git checkout -b add-tigilchi-balanchaev
 ```
 </details>
 
-## Керектүү Өзгөртүүлөрдү Киригизип, Аларды "Commit" Кылыңыз
+## Керектүү өзгөртүүлөрдү киригизип, аларды "commit" кылыңыз
 
 Эми `Contributors.md` файлын текст редакторунан ачып, ага өз атыңызды кошуңуз. Аны файлдын башына же аягына кошпоңуз. Ортосуна бир жерге коюңуз. Эми, файлды сактаңыз.
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
@@ -72,7 +72,7 @@ git commit -m "Add your-name to Contributors list"
 
 мында `your-name` дегенди өз атыңыз менен алмаштырыңыз.
 
-## Өзгөртүүлөрдү GitHub-га "Push" Кылыңыз
+## Өзгөртүүлөрдү github-га "push" кылыңыз
 
 Өзгөртүүлөрүңүздү `git push` командасын колдонуп push кылыңыз:
 ```
@@ -81,13 +81,13 @@ git push -u origin your-branch-name
 мында `your-branch-name` дегенди мурда түзгөн тармагыңыздын аты менен алмаштырыңыз.
 <details> <summary> <strong>Эгер push кылууда кандайдыр бир каталар кетсе, бул жерди басыңыз:</strong> </summary>
 
-- ### Аутентификация Катасы (Authentication Error)
+- ### Аутентификация катасы (authentication error)
 
      <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.   remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.   fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>   [GitHub'дын окуу материалына](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) өтүп, аккаунтуңузга SSH ачкычын түзүү жана конфигурациялоо боюнча окуңуз.
   Ошондой эле, алыскы дарегиңизди текшерүү үчүн 'git remote -v' командасын аткаргыңыз келиши мүмкүн.      Эгер ал ушундай көрүнсө:   <pre>origin https://github.com/your-username/your_repo.git (fetch)   origin https://github.com/your-username/your_repo.git (push)</pre>      Аны төмөнкү команда менен өзгөртүңүз:   ```bash   git remote set-url origin git@github.com:your-username/your_repo.git   ```   Антпесе, сизге дагы деле колдонуучу аты жана сырсөз суралып, аутентификация катасы келе берет.
 </details>
 
-## Өзгөртүүлөрүңүздү Карап Чыгуу Үчүн Жөнөтүңүз
+## Өзгөртүүлөрүңүздү карап чыгуу үчүн жөнөтүңүз
 
 Эгер GitHub'дагы репозиторийиңизге барсаңыз, `Compare & pull request` баскычын көрөсүз. Ошол баскычты басыңыз.
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
@@ -95,7 +95,7 @@ git push -u origin your-branch-name
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit the pull request" />
 Жакында мен сиздин бардык өзгөртүүлөрүңүздү бул долбоордун негизги тармагына бириктирем (merge). Өзгөртүүлөр бириктирилгенде сизге электрондук почта аркылуу билдирүү келет.
 
-## Эми Каякка Баруу Керек?
+## Эми каякка баруу керек?
 
 Куттуктайбыз! Сиз салым кошуучу катары көп кездешүүчү стандарттуу _fork -> clone -> edit -> pull request_ иш процессин аяктадыңыз!
 Салымыңызды белгилеп, [веб-тиркемеге](https://firstcontributions.github.io/#social-share) кирип, досторуңуз жана жолдоочуларыңыз менен бөлүшүңүз.
@@ -104,7 +104,7 @@ git push -u origin your-branch-name
 
 ---
 
-## Башка Куралдарды Колдонгон Окуу Материалдары
+## Башка куралдарды колдонгон окуу материалдары
 
 | <a href="docs/gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="docs/gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="docs/gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="docs/gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="docs/gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="docs/gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
