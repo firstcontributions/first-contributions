@@ -89,6 +89,7 @@
 - [Shriya Aggarwal](https://github.com/shriyaagg)
 - [Muzided](https://github.com/Muzided)
 - [Godfrey]
+- [d31c1de]
 - [DavidValoisMartinez]
 - [Sabirrh](https://github.com/Sabirrh)
 - [sik9252](https://github.com/sik9252)
