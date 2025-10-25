@@ -89,7 +89,7 @@
 
 _ប្រសិនបើអ្នកមិនសូវស្រួលជាមួយបន្ទាត់ពាក្យបញ្ជាទេ [នេះគឺជាការបង្រៀនដោយប្រើឧបករណ៍ GUI ។](#tutorials-using-other-tools)_
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="បែកចេញពីរុំពោលនេះ" />
 
 #### ប្រសិនបើអ្នកមិនមាន git នៅលើម៉ាស៊ីនរបស់អ្នក [សូមដំឡើង](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
@@ -100,7 +100,7 @@ _ប្រសិនបើអ្នកមិនសូវស្រួលជាម�
 
 ## ចម្លងសាខានេះ (Clone the repository)
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="ចម្លងរុំពោលនេះ" />
 
 ឥឡូវនេះ ចម្លងសាខាដែលអ្នកបានស៊ាំទៅកាន់កុំព្យូទ័ររបស់អ្នក។ ចូលទៅគណនី GitHub របស់អ្នក បើកសាខាដែលបានស៊ាំ ចុចលើប៊ូតុង Code ហើយចុចលើរូបតំណាង​​ _copy to clipboard_។
 
@@ -112,7 +112,7 @@ git clone "url you just copied"
 
 កន្លែងដែល "url ដែលអ្នកទើបតែចម្លង" (ដោយគ្មានសញ្ញាសម្រង់) គឺជា url ទៅកាន់ឃ្លាំងនេះ (ចំនុចប្រសព្វរបស់អ្នកនៃគម្រោងនេះ)។ សូមមើលជំហានមុនដើម្បីទទួលបាន url ។
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="ចម្លង URL ទៅក្តារតម្បៀតខ្ទាស់" />
 
 ឧទាហរណ៍៖
 
@@ -146,7 +146,7 @@ git switch -c add-alonzo-church
 
 ឥឡូវនេះបើកឯកសារ 'Contributors.md' នៅក្នុងកម្មវិធីនិពន្ធអត្ថបទ បន្ថែមឈ្មោះរបស់អ្នកទៅវា។ កុំបន្ថែមវានៅដើម ឬចុងបញ្ចប់នៃឯកសារ។ ដាក់វានៅកន្លែងណាមួយនៅចន្លោះ។ ឥឡូវនេះរក្សាទុកឯកសារ។
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="ស្ថានភាព git" />
 
 ប្រសិនបើអ្នកចូលទៅកាន់ថតគម្រោង ហើយប្រតិបត្តិពាក្យបញ្ជា 'git status' អ្នកនឹងឃើញមានការផ្លាស់ប្តូរ។
 
@@ -188,11 +188,11 @@ git push -u origin your-branch-name
 
 ប្រសិនបើអ្នកចូលទៅកាន់ឃ្លាំងរបស់អ្នកនៅលើ GitHub អ្នកនឹងឃើញប៊ូតុង 'Compare & pull request' ។ ចុចលើប៊ូតុងនោះ។
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="បង្កើតសំណើទាញ" />
 
 ឥឡូវនេះដាក់សំណើទាញ។
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="ដាក់សំណើទាញ" />
 
 ឆាប់ៗនេះ ខ្ញុំនឹងបញ្ចូលការផ្លាស់ប្តូររបស់អ្នកទាំងអស់ទៅក្នុងសាខាចម្បងនៃគម្រោងនេះ។ អ្នកនឹងទទួលបានអ៊ីមែលជូនដំណឹង នៅពេលដែលការផ្លាស់ប្តូរត្រូវបានបញ្ចូលគ្នា។
 
