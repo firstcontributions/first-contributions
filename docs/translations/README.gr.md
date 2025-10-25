@@ -24,7 +24,7 @@
 
 Ανοίξτε ένα παράθυρο τερματικού και τρέξτε την ακόλουθη git εντολή:
 
-```
+```bash
 git clone "σύνδεσμος που μόλις αντιγράψατε"
 ```
 
@@ -34,7 +34,7 @@ git clone "σύνδεσμος που μόλις αντιγράψατε"
 
 Για παράδειγμα:
 
-```
+```bash
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 
@@ -51,7 +51,7 @@ cd first-contributions
 Τώρα δημιουργήστε ένα νέο παρακλάδι χρησιμοποιώντας την εντολή `git switch` :
 
 ```
-git switch -c your-new-branch-name
+git switch -c fix-greek-readme-v2
 ```
 
 Για παράδειγμα:
@@ -69,7 +69,7 @@ git switch -c add-alonzo-church
 Σε αυτήν την περίπτωση προσθέστε την παρακάτω σειρά στο τέλος του αρχείου `Contributors.md:`
 
 ```
-- [Το-όνομα-σας](https://github.com/Your-username)
+- [Το-όνομα-σας](https://github.com/2400032210)
 ```
 
 Για παράδειγμα:
@@ -91,20 +91,20 @@ git add Contributors.md
 Τώρα σώστε αυτές τις αλλαγές χρησιμοποιώντας την παρακάτω `git commit` εντολή.
 
 ```
-git commit -m "Add <your-name> to Contributors list"
+git commit -m "Add <Lokesh> to Contributors list"
 ```
 
-όπου `<your-name>` αντικαταστήστε με το όνομα σας
+όπου `<Lokesh>` αντικαταστήστε με το όνομα σας
 
 ## Αποθηκεύστε τις αλλαγές σας στο github (push)
 
 Αποθηκεύστε τις αλλαγές σας χρησιμοποιώντας την εντολή `git push`
 
 ```
-git push origin <add-your-name>
+git push origin fix-greek-readme-v2
 ```
 
-όπου `<add-your-name>` αντικαταστήστε με το όνομα του παρακλαδιού(branch) που δημιουργήσατε προηγουμένως
+όπου `<Lokesh>` αντικαταστήστε με το όνομα του παρακλαδιού(branch) που δημιουργήσατε προηγουμένως
 
 ## Υποβάλετε τις αλλαγές σας για έλεγχο
 
