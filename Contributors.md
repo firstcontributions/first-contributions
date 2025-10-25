@@ -113,6 +113,7 @@
 - [Ismael Suarez](https://github.com/ish-suarez)
 - [Ashutosh_kesarwani](https://github.com/Lucifer-0612)
 - [Eliezer-r](https://github.com/Eliezer-R)
+- [Valeigh Rodriguez](https://github.com/gcdarcy)
 - [Asmodeuos](https://github.com/Asmodeuos)
 - [Atul Vishwakarma](https://github.com/atulvishw240)
 - [Angel Lavado](https://github.com/Maykel02)
