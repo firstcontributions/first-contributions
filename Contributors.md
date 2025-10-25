@@ -1998,7 +1998,7 @@
 - [Debut Coder]
 - [anushka kandhway](https://github.com/kandhwayanushka-hue/first-contributions.git)
 - [Aarya Gawhane]
-- [Harlys Almanzar] 
+- [Harlys Almanzar]
 - [Gadri Dev](https://github.com/Gadridev)
 - [Vijay Sarathy](https://github.com/vijmeister)
 - [GodlyNugget](https://github.com/GodlyNugget)
