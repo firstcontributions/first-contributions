@@ -1997,6 +1997,7 @@ https://www.youtube.com/watch?v=2do4WZ0e8UU&list=PLTV_nsuD2lf4hfQvqKRToCXtVB7-6r
 - [vinicius zaparoli](https://github.com/zaparolidex)
 - [xpfxzxc](https://github.com/xpfxzxc)
 - [Mildred CC](https://github.com/Mil-54)
+- [B3rou](https://github.com/B3rou)
 - [Blake Gould](https://github.com/bgould98)
 - [Amit Shaw](https://github.com/Amit-dev-zone)
 - [zbin](https://github.com/zbin)
