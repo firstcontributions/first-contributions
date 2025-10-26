@@ -107,33 +107,24 @@ This will create a copy of this repository in your account.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button, then on SSH tab and then click the _copy url to clipboard_ icon.
-
-Open a terminal and run the following git command:
-
-```bash
-git clone "url you just copied"
-```
-
-where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
-
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
-
-For example:
+### Option 1 — SSH (recommended if you have SSH keys set up)
+Use this if you’ve already added your SSH public key to GitHub.
 
 ```bash
-git clone git@github.com:this-is-you/first-contributions.git
-```
+git clone git@github.com:your-username/first-contributions.git
 
-where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
+###Option 2 — HTTPS (simpler for beginners)
 
-## Create a branch
+If you haven’t set up SSH keys yet, you can use HTTPS instead.
+git clone https://github.com/your-username/first-contributions.git
+💡 Replace your-username with your actual GitHub username.
 
-Change to the repository directory on your computer (if you are not already there):
+###Create a branch
 
-```bash
-cd first-contributions
-```
+git switch -c your-new-branch-name
+
+💡 If git switch doesn’t work, try:
+git checkout -b your-new-branch-name
 
 Now create a branch using the `git switch` command:
 
