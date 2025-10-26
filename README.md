@@ -92,30 +92,30 @@
 
 This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 
-_If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
+_If you're not comfortable with the command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-#### If you don't have git on your machine, [install it](https://docs.github.com/en/get-started/quickstart/set-up-git).
+#### If you don't have Git on your machine, [install it](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
 ## Fork this repository
 
-Fork this repository by clicking on the fork button on the top of this page.
-This will create a copy of this repository in your account.
+Fork this repository by clicking on the Fork button on the top of this page.
+This will create a copy of this repository in your GitHub account.
 
 ## Clone the repository
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button, then on SSH tab and then click the _copy url to clipboard_ icon.
+Now clone the forked repository into your machine. Go to your GitHub account, open the forked repository, click on the Code button, then on SSH tab and then click the _copy url to clipboard_ icon.
 
 Open a terminal and run the following git command:
 
 ```bash
-git clone "url you just copied"
+git clone "URL you just copied"
 ```
 
-where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
+where "URL you just copied" (without the quotation marks) is the URL of your fork of this project. See the previous steps to obtain the URL.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
@@ -125,7 +125,7 @@ For example:
 git clone git@github.com:this-is-you/first-contributions.git
 ```
 
-where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
+Where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
 
 ## Create a branch
 
@@ -148,11 +148,11 @@ git switch -c add-alonzo-church
 ```
 
 <details>
-<summary> <strong>If you get any errors using git switch, click here:</strong> </summary>
+<summary> <strong>If you get any errors using Git switch, click here:</strong> </summary>
 
-If the error message "Git: `switch` is not a git command. See `git –help`" appears, it's likely because you're using an older version of git.
+If the error message "Git: `switch` is not a Git command. See `git –help`" appears, it's likely because you're using an older version of git.
 
-In this case, try to use `git checkout` instead:
+In this case, try using `git checkout` instead:
 
 ```bash
 git checkout -b your-new-branch-name
@@ -162,11 +162,11 @@ git checkout -b your-new-branch-name
 
 ## Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+Now open `Contributors.md` file in a text editor and add your name anywhere in the middle of the file — not at the beginning or end. Save the file.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
-If you go to the project directory and execute the command `git status`, you'll see there are changes.
+If you go to the project directory and execute the command `git status`, you'll see the changes.
 
 Add those changes to the branch you just created using the `git add` command:
 
@@ -180,7 +180,7 @@ Now commit those changes using the `git commit` command:
 git commit -m "Add your-name to Contributors list"
 ```
 
-replacing `your-name` with your name.
+Replace `your-name` with your name.
 
 ## Push changes to GitHub
 
@@ -190,7 +190,7 @@ Push your changes using the command `git push`:
 git push -u origin your-branch-name
 ```
 
-replacing `your-branch-name` with the name of the branch you created earlier.
+Replace `your-branch-name` with the name of the branch you created earlier.
 
 <details>
 <summary> <strong>If you get any errors while pushing, click here:</strong> </summary>
@@ -201,13 +201,13 @@ replacing `your-branch-name` with the name of the branch you created earlier.
   fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
   Go to [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) on generating and configuring an SSH key to your account.
 
-  Also, you might want to run 'git remote -v' to check your remote address.
+  You might also want to run 'git remote -v' to check your remote address.
   
   If it looks anything like this:
   <pre>origin	https://github.com/your-username/your_repo.git (fetch)
   origin	https://github.com/your-username/your_repo.git (push)</pre>
   
-  change it using this command:
+  Change it using this command:
   ```bash
   git remote set-url origin git@github.com:your-username/your_repo.git
   ```
@@ -224,7 +224,7 @@ Now submit the pull request.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit the pull request" />
 
-Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
+Soon, all your changes will be merged into the main branch of this project, and you will receive a notification email once the changes have been merged.
 
 ## Where to go from here?
 
