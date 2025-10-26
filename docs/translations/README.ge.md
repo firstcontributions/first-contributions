@@ -29,7 +29,7 @@
 
 ახლა გახსენი ტერმინალი და გაუშვი შემდეგი ბრძანება:
 
-```
+```bash
 git clone "url you just copied"
 ```
 სადაც "url you just copied" (ბრჭყალების გარეშე) არის შენ მიერ დაკოპირებული რეპოზიტორიის ლინკი. (თუ ეს ლინკი არ გაქვს, წინა ნაბიჯი თავიდან გაიარე).
@@ -37,7 +37,7 @@ git clone "url you just copied"
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 მაგალითად:
-```
+```bash
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 სადაც `this-is-you` ნაწილი, შენი გითჰაბის სახელია. ამითი რეპოზიტორიის ყველა ფაილი შენს კომპიუტერში გადმოვა.
@@ -46,16 +46,16 @@ git clone https://github.com/this-is-you/first-contributions.git
 
 შენი კომპიუტერით შედი რეპოზიტორიის ფოლდერში (თუ უკვე იქ არ ხარ):
 
-```
+```bash
 cd first-contributions
 ```
 ახლა შექმენი ახალი ბრენჩი `git checkout` ბრძანების გამოყენებით:
-```
+```bash
 git checkout -b <add-your-new-branch-name>
 ```
 
 მაგალითად:
-```
+```bash
 git checkout -b add-alonzo-church
 ```
 (ბრენჩის სახელის დასაწყისში *add*-ის მიწერა სავალდებულო არაა, თუმცა მიზანშეწონილია, რადგანაც მისი მთავარი მიზანია თქვენი სახელი დაამატოს კონტრიბუტორთა სიაში.)
@@ -72,12 +72,12 @@ git checkout -b add-alonzo-church
 
 `git add`-ით დაამატე ცვლილებები შენ მიერ შექმნილ ახალ ბრენჩს:
 
-```
+```bash
 git add Contributors.md
 ```
 
 ახლა შეინახე ისინი `git commit`-ის გამოყენებით:
-```
+```bash
 git commit -m "Add <your-name> to Contributors list"
 ```
 აქაც, `<your-name>` უნდა შეცვალო შენი პროფილის სახელით.
@@ -85,7 +85,7 @@ git commit -m "Add <your-name> to Contributors list"
 ## ცვლილებების ატვირთვა გითჰაბზე
 
 ატვირთე შენი ნამუშევარი `git push`-ის მეშვეობით:
-```
+```bash
 git push origin <add-your-branch-name>
 ```
 `<add-your-branch-name>` აქ შენ მიერ შექმნილი ბრენჩის სახელით უნდა ჩაანაცვლო.
