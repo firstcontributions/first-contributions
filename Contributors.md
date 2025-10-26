@@ -1,6 +1,7 @@
 # Contributors
 
 - [Hello World!](getting-started-with-open-source)
+- [Szilveszter Szep](https://github.com/szepszilo)
 - [Parth Narkar](https://github.com/parthnarkar)
 - [Sai Fasalkar](https://github.com/brickb527)
 - [Reeyal Oinam](https://github.com/Reeyal05)
