@@ -4,6 +4,7 @@
 - [Reeyal Oinam](https://github.com/Reeyal05)
 - [Darshan K](https://github.com/1511Darshan)
 - [APURVA](https://github.com/apurva1435)
+- [PARNIKA C](https://github.com/parnikachoudhary)
 - [AnshMeshram](https://github.com/AnshMeshram)
 - [Sonali Dutta](https://github.com/SonaliDutta-Dev)
 - [Supra](https://github.com/supraik)
