@@ -11,7 +11,7 @@
 
 #### *మీకు కమాండ్ లైన్‌తో సౌకర్యంగా లేకపోతే, [ఇక్కడ GUI సాధనాలను ఉపయోగించి ట్యుటోరియల్స్ ఉన్నాయి.](#ఇతర-సాధనాలను-ఉపయోగించి-ట్యుటోరియల్స్)*
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="ఈ రిపోజిటరీని ఫోర్క్ చేయండి" />
 
 #### మీ కంప్యూటర్‌లో git లేకపోతే, [దాన్ని ఇన్‌స్టాల్ చేయండి](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
@@ -22,7 +22,9 @@
 
 ## రిపోజిటరీని క్లోన్ చేయండి
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="ఈ రిపోజిటరీని క్లోన్ చేయండి" />
+
 
 ఇప్పుడు మీ కంప్యూటరులో ఫోర్క్ రిపోను క్లోన్ చేయండి. మీ GitHub ఖాతాకు వెళ్లండి, ఫోర్క్డ్ రెపోని తెరిచి, క్లోన్ బటన్పై క్లిక్ చేసి, ఆపై * కాపీ * క్లిప్బోర్డ్కు క్లిక్ చేయండి.
 
@@ -31,7 +33,7 @@
 git clone "మీరు ఇప్పుడే కాపీ చేసిన url"
 ```
 ఇక్కడ "మీరు ఇప్పుడే కాపీ చేసిన url" (కోట్ మార్కులు లేకుండా) ఈ రిపోజిటరీకి URL (ఈ ప్రాజెక్టు మీ ఫోర్క్). Url ను పొందడానికి మునుపటి దశలను చూడండి.
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="URLని క్లిప్‌బోర్డ్‌కి కాపీ చేయండి" />
 
 ఉదాహరణకి:
 ```bash
@@ -48,7 +50,7 @@ cd first-contributions
 ```
 ఇప్పుడు 'git checkout' కమాండ్ ను  ఉపయోగించి ఒక బ్రాంచ్ ను సృష్టించండి:
 
-
+	
 ఉదాహరణకి:
 ```bash
 git checkout -b add-alonzo-church
@@ -58,7 +60,7 @@ git checkout -b add-alonzo-church
 ## అవసరమైన మార్పులు - చేర్పులు చేసి, ఆ మార్పులను నిరూపించండి.
 
 టెక్స్ట్ ఎడిటర్లో ఇప్పుడు ఓపెన్ `Contributors.md` ఫైల్లో, **మీ పేరుని జోడించండి. ఫైల్ ప్రారంభంలో లేదా ముగింపులో జోడించవద్దు. మధ్యలో ఎక్కడైనా ఉంచండి. ఇప్పుడు, ఫైల్ను సేవ్ చేయండి.**
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="గిట్ స్థితి" />
 
 
 మీరు ప్రాజెక్ట్ డైరెక్టరీకి వెళ్లి `git status` కమాండ్ ని ఆదేశిస్తే, **మార్పులు-చేర్పులు ఉన్నాయి** అని మీరు చూస్తారు.
@@ -98,11 +100,11 @@ git push origin <add-your-branch-name>
 
 మీరు GitHub లో మీ రిపోజిటరీకి వెళ్లినట్లయితే, మీరు 'Compare & pull request' బటన్ను చూస్తారు. ఆ బటన్పై క్లిక్ చేయండి.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="పుల్ రిక్వెస్ట్ సృష్టించండి" />
 
 ఇప్పుడు పుల్ అభ్యర్థనను సమర్పించండి.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="పుల్ రిక్వెస్ట్ సమర్పించండి" />
 
   నేను  మీ అన్ని మర్పులను ఈ ప్రాజెక్ట్ యొక్క ప్రధాన విభాగానికి విలీనం`merge to main branch` చేస్తాను.
 మార్పులు విలీనం`merge` అయిన తర్వాత మీరు ఒక నోటిఫికేషన్ ఈమెయిల్ పొందుతారు.
@@ -113,7 +115,7 @@ git push origin <add-your-branch-name>
 
 [వెబ్ యాప్‌కి](https://firstcontributions.github.io/#social-share) వెళ్లడం ద్వారా మీ సహకారాన్ని జరుపుకోండి మరియు మీ స్నేహితులు మరియు అనుచరులతో భాగస్వామ్యం చేయండి.
 
-మీకు ఏదైనా సహాయం అవసరమైతే లేదా ఏవైనా ప్రశ్నలు ఉంటే మీరు మా స్లాక్ టీమ్‌లో చేరవచ్చు.[స్లాక్ జట్టులో చేరండి](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
+మీకు ఇంకా సాధన కావాలనుకుంటే, [కోడ్ కాంట్రిబ్యూషన్స్ రిపోజిటరీ](https://github.com/roshanjossey/code-contributions)
 
 ఇక, ఇప్పుడు మీరు ఇతర ప్రాజెక్టులకు తోడ్పడటం ప్రారంభించండి. మీరు ప్రారంభించగల సులభమైన సమస్యలతో ప్రాజెక్టుల జాబితాను మేము రెడీ చేసాము. [వెబ్ ప్రాజెక్టుల జాబితాలు](https://firstcontributions.github.io/#project-list) ను చూడండి.
 

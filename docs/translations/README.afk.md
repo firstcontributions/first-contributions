@@ -1,5 +1,4 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -43,7 +42,7 @@ Byvoorbeeld:
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 
-waar `this-is-youis` jou GitHub gebruikersnaam Hier kopieer jy die inhoud van die eerste bydrae repository in GitHub na jou rekenaar.
+waar `this-is-you` jou GitHub gebruikersnaam is. Hier kopieer jy die inhoud van die eerste bydrae repository in GitHub na jou rekenaar.
 
 ## Skep 'n tak
 
@@ -117,8 +116,6 @@ Binnekort sal ek al jou veranderinge in die meestertak van hierdie projek saamsm
 Geluk! Jy het net die standaardvurk voltooi -> klone -> wysig -> PR- werkvloei wat jy dikwels as 'n bydraer sal ervaar!
 
 Vier jou bydrae en deel dit met jou vriende en volgelinge deur na die [webprogram te](https://firstcontributions.github.io/#social-share) gaan .
-
-U kan by ons span aansluit indien u enige hulp nodig het of enige vrae het. [Sluit aan by 'n slapende span](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
 Kom ons begin met die bydrae tot ander projekte. Ons het 'n lys van projekte saamgestel met maklike probleme waarmee u kan begin. Kyk na [die lys van projekte in die web app](https://firstcontributions.github.io/#project-list).
 
