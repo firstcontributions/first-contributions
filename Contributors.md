@@ -1,5 +1,6 @@
 # Contributors
 
+- [Sai Fasalkar](https://github.com/brickb527)
 - [Reeyal Oinam](https://github.com/Reeyal05)
 - [Darshan K](https://github.com/1511Darshan)
 - [APURVA](https://github.com/apurva1435)
