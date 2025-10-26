@@ -4,7 +4,7 @@
 
 # የመጀመሪያ አስተዋፅኦዎች
 
-| <img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="200"> | GitHub Desktop Edition |
+| <img alt="'ጊትሀብ ዴስክቶፕ'" src="https://desktop.github.com/images/desktop-icon.svg" width="200"> | GitHub Desktop Edition |
 | ----------------------------------------------------------------------------------------------- | ---------------------- |
 
 ከባድ ነው ። አንድ ነገር ለመጀመሪያ ጊዜ ሲያደርጉ ሁል ጊዜ ከባድ ነው። በተለይ በትብብር ላይ ሲሆኑ ስህተት መስራት ምቹ ነገር አይደለም። ግን ‘ኦፕን ሶርስ’  ስለ ትብብር እና አብሮ መስራት ነው። እኛ አዲስ የኦፕን ሶርስ  አስተዋጽዖ አበርካቾች የሚማሩበትን እና ለመጀመሪያ ጊዜ የሚያበረክቱበትን መንገድ ቀለል ለማድረግ እንፈልጋለን።
@@ -15,7 +15,7 @@
 
 ከ1.0 በፊት የ GitHub Desktop ስሪት እየተጠቀሙ ከሆነ ፣ [ይህን አጋዥ ስልጠና ይመልከቱ።](https://github.com/firstcontributions/first-contributions/blob/main/docs/gui-tool-tutorials/github-desktop-old-version-tutorial.md)
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/fork.png" alt="ማከማቻውን 'ፎርክ' ያድርጉ" />
 
 ## ይህንን ማከማቻ **fork** ያድርጉ
 
@@ -30,19 +30,19 @@
 
 ቅጂውን ለመፍጠር "Clone or Download" የሚለውን ጠቅ ያድርጉ ከዛም "Open in Desktop" የሚለውን ጠቅ ያድርጉ።
 
-<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-clonetodesktop.png" alt="clone this repository" />
+<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-clonetodesktop.png" alt="የማከማቻውን ቅጂ ይፍጠሩ" />
 
 አዲስ pop up window ይከፈታል፤ "Open GitHubDesktop.exe" የሚለው ላይ ጠቅ ያድርጉ።
 
-<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-open-githubdesktop.png" alt="clone this repository" />
+<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-open-githubdesktop.png" alt="በ'ጊትሀብ ዴስክቶፕ' ይክፈቱ" />
 
 "Open GitHubDesktop.exe" የሚለውን ጠቅ ካደረጉ በኋላ 'Clone a repository' የሚል የመረጃ ሳጥን(dialogue box) ይመጣል፤ ከዛም 'Clone' የሚለውን ጠቅ ያድርጉ።
 
-<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/clone-repository.png" alt="clone this repository" height="400" /> 
+<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/clone-repository.png" alt="የማከማቻውን ቅጂ ይፍጠሩ" height="400" /> 
 
 ቀጥሎም 'How are you planning to use this fork?' የሚል የመረጃ ሳጥን(dialogue box) ይመጣል። 'To contribute to the parent project' የሚለውን በመምርጥ 'Continue' የሚለውን ጠቅ ያድርጉ።
 
-<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/repository-clone-purpose.png" alt="Use of repository" height="500" />
+<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/repository-clone-purpose.png" alt="የማከማቻው ጥቅም" height="500" />
 
 አሁን "first-contributions repository" ውስጥ ያሉትን ይዘቶች ቅጂ ወደ ኮምፒተርዎ አስቀምጠቃል።
 
@@ -50,11 +50,11 @@
 
 አሁን ከላይ ያለውን "Current branch" ምልክት በመንካት እና "New branch" የሚለውን ጠቅ በማድረግ አዲስ ቅርንጫፍ ይፍጠሩ።
 
-<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-create-branch.png" alt="make a branch" />
+<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-create-branch.png" alt="ቅርንጫፍ ይፍጠሩ" />
 
 ቅርንጫፉን ‹add-የእርስዎ-ስም› በማለት ይሰይሙ። ለምሳሌ፣ "add-ይሁን-አለማየሁ"።
 
-<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-create-branch-name.png" alt="name your branch" />
+<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-create-branch-name.png" alt="ቅርንጫፉን ይሰይሙ" />
 
 `Create branch`  የሚለውን ጠቅ ያድርጉ። 
 
@@ -68,7 +68,7 @@
 
 `Contributors.md` ፋይል ላይ ለውጦች እንዳሉ እና ወደ "GitHub Desktop" እንደተጨመሩ ማየት ይችላሉ።
 
-<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-status.png" alt="check status" />
+<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-status.png" alt="ሁኔታውን ይከታትሉ" />
 
 አሁን እነዚህን ለውጦች ይፈፅሙ(commit)።
 
@@ -78,31 +78,31 @@
 
 `Commit to add-your-name` የሚለውን "በተን" ጠቅ ያድርጉት።
 
-<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-commit1.png" alt="commit your changes" />
+<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-commit1.png" alt="ለውጦችን ይፈፅሙ" />
 
 ከታች ለውጡ እንደተፈፀመ ማየት ይችላሉ።
 
-<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-commit2.png" alt="commit your changes" />
+<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-commit2.png" alt="ለውጦችን ይፈፅሙ" />
 
 ## ለውጦችን ወደ GitHub ይግፉ 
 
 File->Options ከዛም sign-in to Github.com የሚሉትን ጠቅ ያድርጉ እና የ"GitHub" አካውንትዎን ስምና የይለፍ ቃል በማስገባት "sign-in" ያድርጉ።
 
-<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-sign-in.png" alt="log-in to Github" />
+<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-sign-in.png" alt="ወደ 'ጊትሀብ' አካውንትዎ ይግቡ" />
 
 በላይኛው ቀኝ ጠርዝ አካባቢ `Publish` የሚለውን "በተን" ጠቅ ያድርጉት።
 
-<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-publish1.png" alt="push your changes" />
+<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-publish1.png" alt="ለውጦችን ወደ GitHub ይግፉ" />
 
 ## ለውጦችዎን ለግምገማ ያስገቡ (Pull request)
 
 በ GitHub ላይ ወደ ማከማቻዎ ከሄዱ፣ ‘compare & pull request' የሚለውን ቁልፍ ያያሉ። በዚያ ቁልፍ ላይ ጠቅ ያድርጉ።
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="የለውጦቹን ግምገማ(pull request) ይፍጠሩ" />
 
 አሁን pull request ያስገቡ።
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="ለውጦችዎን ለግምገማ ያስገቡ" />
 
 በቅርቡ ሁሉንም ለውጦችዎን ወደዚህ ፕሮጀክት ዋና ቅርንጫፍ አዋህዳቸዋለሁ። ለውጦቹ ከተዋሃዱ በኋላ የማሳወቂያ 'ኢይሜል' ይደርስዎታል።
 

@@ -26,7 +26,7 @@
 
 ಟರ್ಮಿನಲ್ ತೆಗೆದು ಈ ಕೆಳಗಿನ ಗಿಟ್ ಆಜ್ಞೆಯನ್ನು ಚಲಾಯಿಸಿ:
 
-```
+```bash
 git clone "copied URL"
 ```
 ಇಲ್ಲಿ "copied URL" - ನೀವು ಈಗಷ್ಟೇ ನಕಲಿಸಿದ URL(ನೀವು ಫೋಕ೯ ಮಾಡಿದ ಪ್ರಾಜೆಕ್ಟ ಲಿಂಕ್) ಅನ್ನು ಉದ್ಧರಣ[""] ಚಿಹ್ನೆಗಳಿಲ್ಲದೆ ಈ ಸ್ಥಳಕ್ಕೆ ಸೇರಿಸಿ.
@@ -34,7 +34,7 @@ git clone "copied URL"
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="ಕ್ಲಿಪ್‌ಬೋರ್ಡ್‌ಗೆ URL ಅನ್ನು ನಕಲಿಸಿ" />
 
 ಉದಾಹರಣೆಗೆ:
-```
+```bash
 git clone https://github.com/ಇದು ನೀನು/first-contributions.git
 ```
 `ಇದು ನೀನು' ಅಂದ್ರೆ ನಿಮ್ಮ ಗಿಟ್‌ಹಬ್ ಖಾತೆಯ ಹೆಸರು. 
@@ -42,15 +42,15 @@ git clone https://github.com/ಇದು ನೀನು/first-contributions.git
 
 ## ಒಂದು ಶಾಖೆಯನ್ನು ರಚಿಸಿ
 ನಿಮ್ಮ ಕಂಪ್ಯೂಟರ್‌ನಲ್ಲಿ first-contributions ರಿಪಾಸಿಟರಿ ಕಡತಕ್ಕೆ ಬದಲಾಯಿಸಿ (ನೀವು ಈಗಾಗಲೇ ಇಲ್ಲದಿದ್ದರೆ):
-```
+```bash
 cd first-contributions
 ```
 ಈಗ `git checkout` ಆಜ್ಞೆಯನ್ನು ಬಳಸಿಕೊಂಡು ಒಂದು ಶಾಖೆಯನ್ನು ರಚಿಸಿ:
-```
+```bash
 git checkout -b <ನಿಮ್ಮ ಹೊಸ-ಶಾಖೆ-ಹೆಸರನ್ನು ಸೇರಿಸಿ>
 ```
 ಉದಾಹರಣೆಗೆ:
-```
+```bash
 git checkout -b add-alonzo-church
 ```
 (ಶಾಖೆಯ ಹೆಸರಿನಲ್ಲಿ `add` ಎಂಬ ಪದವನ್ನು ಹೊಂದುವ ಅಗತ್ಯವಿಲ್ಲ, ಆದರೆ ಇದನ್ನು ಸೇರಿಸುವುದು ಸಮಂಜಸವಾದ ವಿಷಯ ಏಕೆಂದರೆ ಈ ಶಾಖೆಯ ಉದ್ದೇಶವು ನಿಮ್ಮ ಹೆಸರನ್ನು ಪಟ್ಟಿಗೆ ಸೇರಿಸುವುದು.)
@@ -62,17 +62,17 @@ git checkout -b add-alonzo-church
 ನೀವು ಪ್ರಾಜೆಕ್ಟ್ ಡೈರೆಕ್ಟರಿಗೆ ಹೋಗಿ `git status` ಆಜ್ಞೆಯನ್ನು ಕಾರ್ಯಗತಗೊಳಿಸಿದರೆ, ನೀವು ಮಾಡಿದ ಬದಲಾವಣೆ ಕಾಣಿಸುತ್ತವೆ.
 
 `git add` ಆಜ್ಞೆಯನ್ನು ಬಳಸಿ, ಬದಲಾಯಿಸಿದ ಫೈಲ್‌ನ್ನು ಸ್ಟೇಜ ಮಾಡಿ.
-```
+```bash
 git add Contributors.md
 ```
 ಈಗ `git commit` ಆಜ್ಞೆಯನ್ನು ಬಳಸಿಕೊಂಡು ಆ ಬದಲಾವಣೆಗಳನ್ನು ಕಮಿಟ್ ಮಾಡಿ:
-```
+```bash
 git commit -m "add name to contributors"
 ```
 "add name to contributors" ಇದು ಕಮಿಟ್‌ ಸಂದೇಶ. ನೀವು ಮಾಡಿದ ಬದಲಾವಣೆಗೆ ತಕ್ಕಂತೆ ಸಂದೇಶವು ಅಥ೯ಪೂಣ೯ವಾಗಿರಬೇಕು  
 ## ಬದಲಾವಣೆಗಳನ್ನು ಗಿಟ್‌ಹಬ್‌ಗೆ ಪುಶ್ ಮಾಡಿ
 `Git push` ಆಜ್ಞೆಯನ್ನು ಬಳಸಿಕೊಂಡು ನಿಮ್ಮ ಬದಲಾವಣೆಗಳನ್ನು ಗಿಟ್‌ಹಬ್‌ಗೆ ಕಳುಹಿಸಿರಿ:
-```
+```bash
 git push origin <add-your-branch-name>
 ```
 `<add-your-branch-name>` ಈ ಸ್ಥಳದಲ್ಲಿ ನೀವು ರಚಿಸಿದ ಬ್ರ್ಯಾಂಚ್‌ ಹೆಸರನ್ನು ಬರೆಯಿರಿ.
@@ -90,6 +90,6 @@ git push origin <add-your-branch-name>
 ನೀವು ಹೆಚ್ಚಿನ ಅಭ್ಯಾಸವನ್ನು ಬಯಸಿದರೆ, ಪರಿಶೀಲಿಸಿ [ಕೋಡ್ ಕೊಡುಗೆಗಳು](https://github.com/roshanjossey/code-contributions).
 ಈಗ ನೀವು ಹೆಚ್ಚಿನ ಯೋಜನೆಗಳಿಗೆ ಕೊಡುಗೆ ನೀಡಲು ಪ್ರಾರಂಭಿಸಬಹುದು. ನಾವು ನಿಮಗಾಗಿ ಒಂದು ಪಟ್ಟಿಯನ್ನು ತಯಾರಿಸಿದ್ದೇವೆ ಅದು ಬಹಳ ಸುಲಭವಾದ ಸಮಸ್ಯೆಗಳು. [ಯೋಜನೆಗಳ ಪಟ್ಟಿ](https://firstcontributions.github.io/#project-list)
 ## ಇತರ ಪರಿಕರಗಳನ್ನು ಬಳಸುವ ಟ್ಯುಟೋರಿಯಲ್
-| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
+| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub ಡೆಸ್ಕ್‌ಟಾಪ್ ಆಪ್" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="ವಿಜುವಲ್ ಸ್ಟುಡಿಯೋ 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken ಪ್ರೋಗ್ರಾಂ" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS ಕೋಡ್ ಎಡಿಟರ್" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree ಆಪ್" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA ಪ್ರೋಗ್ರಾಂ" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | --- | --- | --- | --- | --- | --- |
 | [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md) | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md) | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md) | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md) | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md) | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md) |
