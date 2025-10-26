@@ -1,5 +1,7 @@
 # Contributors
 
+- My First Contro
+- [Gopalakrishnan](https://github.com/gobeecode)
 - [Hello World!](getting-started-with-open-source)
 - [Parth Narkar](https://github.com/parthnarkar)
 - [Sai Fasalkar](https://github.com/brickb527)
@@ -12,7 +14,6 @@
 - [Sonali Dutta](https://github.com/SonaliDutta-Dev)
 - [Supra](https://github.com/supraik)
 - [Venkatesh P](https://github.com/offlvenkatesh)
-- My First Contro
 - [Arpit Tak](https://github.com/arpittak027)
 - [Harsha](https://github.com/Born-as-Harsha)
 - [Richard Kinyua](https://github.com/vrichie)
@@ -22,7 +23,6 @@
 - [Himabindu](https://github.com/himabindu-1614)
 - [Ashutosh](https://github.com/ashutosh-moharana)
 - [Arthur Cavalcante](https://github.com/Linsarthur)
-- [Gopalakrishnan](https://github.com/gobeecode)
 - [Apurva Vats](https://github.com/apurvavats)
 - [TRISHIT BODKHE](https://github.com/trishit726)
 - [Fenton](https://github.com/FentonFrancis)
