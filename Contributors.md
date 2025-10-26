@@ -1,6 +1,7 @@
 # Contributors
 
 - [Hello World!](getting-started-with-open-source)
+- [Parth Narkar](https://github.com/parthnarkar)
 - [Sai Fasalkar](https://github.com/brickb527)
 - [Reeyal Oinam](https://github.com/Reeyal05)
 - [Darshan K](https://github.com/1511Darshan)
