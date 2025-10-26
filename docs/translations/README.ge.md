@@ -37,6 +37,7 @@ git clone "url you just copied"
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 მაგალითად:
+
 ```bash
 git clone https://github.com/this-is-you/first-contributions.git
 ```
