@@ -1,5 +1,5 @@
 # Contributors
-
+- [Narmin İbrahimova](https://github.com/Narminibrahimova)
 - [Hello World!](getting-started-with-open-source)
 - [Szilveszter Szep](https://github.com/szepszilo)
 - [Parth Narkar](https://github.com/parthnarkar)
@@ -2112,6 +2112,7 @@ https://www.youtube.com/watch?v=2do4WZ0e8UU&list=PLTV_nsuD2lf4hfQvqKRToCXtVB7-6r
 - [Prajwal Khade](https://github.com/Prajwal1905)
 - [Sudeep Ranjan Sahoo](https://github.com/srs-sudeep)
 - [Soundarya D](https://github.com/soundaryad-20)
+- [UltiMorse](https://github.com/UltiMorse)
 - [Poorvika](https://github.com/poorvikaa08)
 - [YEO Fanigue Adama](https://github.com/fanigus)
 - [Madds](https:/github.com/mrmadds)
@@ -2201,6 +2202,7 @@ https://www.youtube.com/watch?v=2do4WZ0e8UU&list=PLTV_nsuD2lf4hfQvqKRToCXtVB7-6r
 - [Bobby Kumar](https://github.com/ydvbobby)
 - [Eric Bennett](https://github.com/ebsec159)
 - [Jiya Agrawal](https://github.com/Jiya-code21)
+- [Aman](https://github.com/Aman-1206)
 - [Mohit Raj Saxena](https://github.com/Mohit-Raj-Saxena)
 - [Aman](https://github.com/Aman-1206) -[JeyaChandran](https://github.com/Jeyachandran-K)
 - [Anmol Sinha](https://github.com/Anmol-345)
@@ -2217,4 +2219,9 @@ https://www.youtube.com/watch?v=2do4WZ0e8UU&list=PLTV_nsuD2lf4hfQvqKRToCXtVB7-6r
 - [Lakshay Kumar] (https://github.com/Lakshay-coder001)
 - [Shrishti](https://github.com/shrishti299)
 - [Tanisha Chouhan](https://github.com/tanishachouhan) coding is so cool smasshhh!
-
+- [kanishka](https://github.com/kanishka11082007-sys)
+- [Debasish Pradhan](https://github.com/Debasishpradhan28)
+- [Adeeb Ali](https://github.com/Adeeb-ali)
+- [LeChi Pai](https://github.com/lechipai0209)
+- [K Harshavardhan](https://github.com/Kadaliharsha)
+- [A N Yadav] (https://github.com/SugarCookie20)
