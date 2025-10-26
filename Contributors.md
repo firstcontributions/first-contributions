@@ -514,6 +514,7 @@
 - [Rohit Madhu Ghadge](https://github.com/Rod7678)
 - [Jeyanth-S](https://github.com/Jeyanth-S)
 - [Jide Falaki](https://github.com/jidefal)
+- [Natalia Joy Szmagaj](https://github.com/defjoy9)
 - [Devika Menon](https://github.com/DevikaaMenon)
 - [Nihal Fairooz](https://github.com/5yruz)
 - [Jingyi Lu](https://github.com/lulu61000)
