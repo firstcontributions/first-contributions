@@ -162,6 +162,7 @@
 - [Ayoub Ben Aissa](https://github.com/Frontier101)
 - [Nsiru Williams](https://github.com/Cokekoro)
 - [Priyeash Bala](https://github.com/priyeashbala)
+- [smriti jha](https://github.com/jha-smriti)
 - Madhan Pokharel
 - [Nishita Kashyap](https://github.com/nishitakashyap)
 - [FoxMiner](https://github.com/super-fox-miner)
