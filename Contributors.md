@@ -1402,6 +1402,7 @@
 - [Cole Schnell](https://github.com/coleschnell)
 - [Daniel Cursi](https://github.com/danielcursi)
 - [Daniel Molina](https://github.com/molinafm30)
+- [Aljo San Pedro](https://github.com/aljosanpedro)
 - [Darin Thompson](https://github.com/thewizof6)
 - [Dascalu Dumitru](https://github.com/IronMemo)
 - [David devmanki](https://github.com/davamanki)
