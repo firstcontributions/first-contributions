@@ -2201,5 +2201,5 @@
 - [Vipin K](https://github.com/Bibinu-96/)
 - [Syed Zuhair Hossain](https://github.com/ZuhairHossain/)
 - [Pranav Ghorpade](https://github.com/Pranav-0440)
--[Palak Singh](https://github.com/student-IETLucknow16)
+- [Palak Singh](https://github.com/student-IETLucknow16)
 - [Amna Sehgal](https://github.com/amna-sehgal)
