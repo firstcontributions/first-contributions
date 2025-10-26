@@ -260,6 +260,7 @@
 - [PB](https://github.com/PierreBatikh)
 - [Sangeetha Dhanasekar]
 - [Rasaq Ajape](https://github.com/Abdulrasaq1515)
+- [Umang Chandra](https://github.com/kinngddx/first-contributions)
 - [Tudor Gradinaru](https://github.com/TudorGR)
 - [Pushkar Sabe](https://github.com/pushkarsabe)
 - [CheriBerry77](https://github.com/CheriBerry77)
