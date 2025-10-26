@@ -609,6 +609,7 @@
 - [Gotchumon](https://github.com/Gotchumon)
 - [enguy-hub](https://github.com/enguy-hub)
 - [headboot](https://github.com/headboot)
+- [ronaldmirabal](https://github.com/ronaldmirabal)
 - [freshmess](https://github.com/freshmess)
 - [hectoru10](https://github.com/Hectoru10)
 - [specksbacon](https://github.com/SpecksBacon)
