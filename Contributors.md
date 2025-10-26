@@ -1498,6 +1498,7 @@ https://www.youtube.com/watch?v=2do4WZ0e8UU&list=PLTV_nsuD2lf4hfQvqKRToCXtVB7-6r
 - [Mercy-Mbao ✨](https://github.com/mercie-ux)
 - [Minjae Kwon](https://github.com/minjaekwon97)
 - [Mitchell Smith](https://github.com/msmit4095)
+- [Leon Philipp](https://github.com/eagle-rgb)
 - [Mohanshi Jain](https://github.com/Mohanshi04)
 - [Mudit Jain](https://github.com/muditjain1411)
 - [Muhammad Nouman](https://github.com/coder595)
