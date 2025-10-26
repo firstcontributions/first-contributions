@@ -1,6 +1,7 @@
 # Contributors
-
+- [Narmin İbrahimova](https://github.com/Narminibrahimova)
 - [Hello World!](getting-started-with-open-source)
+- [Szilveszter Szep](https://github.com/szepszilo)
 - [Parth Narkar](https://github.com/parthnarkar)
 - [Sai Fasalkar](https://github.com/brickb527)
 - [Reeyal Oinam](https://github.com/Reeyal05)
@@ -160,6 +161,7 @@
 - [Ayoub Ben Aissa](https://github.com/Frontier101)
 - [Nsiru Williams](https://github.com/Cokekoro)
 - [Priyeash Bala](https://github.com/priyeashbala)
+- Madhan Pokharel
 - [Nishita Kashyap](https://github.com/nishitakashyap)
 - [FoxMiner](https://github.com/super-fox-miner)
 - [Samarth](https://github.com/Samarth-sk)
@@ -1497,6 +1499,7 @@ https://www.youtube.com/watch?v=2do4WZ0e8UU&list=PLTV_nsuD2lf4hfQvqKRToCXtVB7-6r
 - [Mercy-Mbao ✨](https://github.com/mercie-ux)
 - [Minjae Kwon](https://github.com/minjaekwon97)
 - [Mitchell Smith](https://github.com/msmit4095)
+- [Leon Philipp](https://github.com/eagle-rgb)
 - [Mohanshi Jain](https://github.com/Mohanshi04)
 - [Mudit Jain](https://github.com/muditjain1411)
 - [Muhammad Nouman](https://github.com/coder595)
@@ -2213,5 +2216,8 @@ https://www.youtube.com/watch?v=2do4WZ0e8UU&list=PLTV_nsuD2lf4hfQvqKRToCXtVB7-6r
 - [Rudra Narayan Chatterjee](https://github.com/RudraNarayanChatterjee)
 - [Lakshay Kumar] (https://github.com/Lakshay-coder001)
 - [Shrishti](https://github.com/shrishti299)
-- [Debasish Pradhan] (https://github.com/Debasishpradhan28)
-
+- [Debasish Pradhan](https://github.com/Debasishpradhan28)
+- [Adeeb Ali](https://github.com/Adeeb-ali)
+- [LeChi Pai](https://github.com/lechipai0209)
+- [K Harshavardhan](https://github.com/Kadaliharsha)
+- [A N Yadav] (https://github.com/SugarCookie20)
