@@ -4,6 +4,7 @@
 - [Sai Fasalkar](https://github.com/brickb527)
 - [Reeyal Oinam](https://github.com/Reeyal05)
 - [Darshan K](https://github.com/1511Darshan)
+- [Milen P Kurian](https://github.com/Milenpkurian)
 - [APURVA](https://github.com/apurva1435)
 - [PARNIKA C](https://github.com/parnikachoudhary)
 - [AnshMeshram](https://github.com/AnshMeshram)
@@ -1749,6 +1750,7 @@ https://www.youtube.com/watch?v=2do4WZ0e8UU&list=PLTV_nsuD2lf4hfQvqKRToCXtVB7-6r
 - [cashtanowiec](https://github.com/cashtanowiec)
 - [codemikemike](https://github.com/codemikemike)
 - [goldenbough0](https://github.com/goldenbough0)
+- [Ashish Dohare](https://github.com/Ashish-coder-gif)
 - [hamadsedrati](https://github.com/hamadsedrati)
 - [janGithub122](https://github.com/janGithub122)
 - [otocolobus12](https://github.com/otocolobus12)
@@ -2203,8 +2205,13 @@ https://www.youtube.com/watch?v=2do4WZ0e8UU&list=PLTV_nsuD2lf4hfQvqKRToCXtVB7-6r
 - [Aniket Kedari](https://github.com/Aniket000k/) -[Michael Ramos](https://github.com/MikRam808/)
 - [Vipin K](https://github.com/Bibinu-96/)
 - [Syed Zuhair Hossain](https://github.com/ZuhairHossain/)
+- [Satish Choudhary](https://github.com/SatishChoudhary642)
 - [Pranav Ghorpade](https://github.com/Pranav-0440)
 - [Palak Singh](https://github.com/student-IETLucknow16)
 - [Amna Sehgal](https://github.com/amna-sehgal)
+- [Rudra Narayan Chatterjee](https://github.com/RudraNarayanChatterjee)
 - [Lakshay Kumar] (https://github.com/Lakshay-coder001)
+
+
 - My second contribution from Shrishti
+- [Shrishti](https://github.com/shrishti299)
