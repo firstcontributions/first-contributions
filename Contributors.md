@@ -43,6 +43,7 @@
 - [HariRaju](https://github.com/HariSivaraj)
 - [Vimal Bisht](https://github.com/VimalBisht2021)
 - [Jamale SLEIMAN]
+- [Charu Singhania](https://github.com/Aruniaaa/Aruniaaa)
 - [Michael Pugh](https://github.com/icefire1191)
 - [Rishabh Bansal](https://github.com/RishabhBansal22/)
 - [Nisarg Gandhi](https://github.com/Nisarg0007)
