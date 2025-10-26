@@ -1399,6 +1399,7 @@
 - [Chinmay Pani](https://github.com/chinmay8bit)
 - [Choccy Milch](https://github.com/ChoccyMilch)
 - [Claudio Jara](https://github.com/claudiojara)
+- [Aljo San Pedro](https://github.com/aljosanpedro)
 - [Cole Schnell](https://github.com/coleschnell)
 - [Daniel Cursi](https://github.com/danielcursi)
 - [Daniel Molina](https://github.com/molinafm30)
