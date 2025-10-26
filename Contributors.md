@@ -10,6 +10,7 @@
 - [Venkatesh P](https://github.com/offlvenkatesh)
 - My First Contro
 - [Harsha](https://github.com/Born-as-Harsha)
+- [Richard Kinyua](https://github.com/vrichie)
 - [Abhishek Goyal ](https://github.com/Abhishek445566)hello my name is abhishek
 - [Smaran](https://github.com/ryder34)
 - [AbhishekSaini](https://github.com/Upiottxat)
@@ -100,6 +101,7 @@
 - [Godfrey]
 - [d31c1de]
 - [Aditya](https://github.com/Aditya-maharshi)
+- [Williumtiwari](https://github.com/Williumtiwari)
 - [DavidValoisMartinez]
 - [Sabirrh](https://github.com/Sabirrh)
 - [sik9252](https://github.com/sik9252)
@@ -2199,3 +2201,4 @@
 - [Syed Zuhair Hossain](https://github.com/ZuhairHossain/)
 - [Pranav Ghorpade](https://github.com/Pranav-0440)
 -[Palak Singh](https://github.com/student-IETLucknow16)
+- [Amna Sehgal](https://github.com/amna-sehgal)
