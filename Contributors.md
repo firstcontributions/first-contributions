@@ -296,6 +296,7 @@ LIUYY到此一游
 - [Mithielesh N](https://github.com/mithielesh)
 - [Yash](https://github.com/yuishigam1)
 - [Abhi][https://github.com/Abhi-AIX]
+- [Ashish]
 - [Chandru][https://github.com/P-Chandru]
 - [Arr0ws].[https://github.com/Arr0ws]
 - [Rizal][https://github.com/rizalilhamm]
@@ -309,6 +310,7 @@ LIUYY到此一游
 - [Matthew Alexander Bien](https://github.com/MatthewAlexB)
 - Vriddhi
 - [Mudit Jain](https://github.com/muditjain1411)
+- [Ashish Dohare](https://github.com/Ashish-coder-gif)
 - [Arafath](https://github.com/Arafath-MSM)
 - [saiki kohei](https://github.com/saisai-web)
 - [Don Doricent](https://github.com/Don-Doricent)
