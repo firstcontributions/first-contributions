@@ -1844,6 +1844,7 @@
 - [AW](https://github.com/AWintheiser-FVTC)
 - [Nimisha Uppunuthula](https://github.com/Nimisha2710)
 - [Idris Rasaq Akande](https://github.com/gentlerhiz)
+- [Koruri Araki](https://github.com/koruri29)
 - [John Ziska](https://github.com/kingcoco42)
 - [Chihiro Takeuchi](https://github.com/HennesyChihiro)
 - [Sunday P. Afolabi](https://github.com/Lecon-a)
