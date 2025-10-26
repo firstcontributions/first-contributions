@@ -102,6 +102,7 @@
 - [Godfrey]
 - [d31c1de]
 - [Aditya](https://github.com/Aditya-maharshi)
+- [Williumtiwari](https://github.com/Williumtiwari)
 - [DavidValoisMartinez]
 - [Sabirrh](https://github.com/Sabirrh)
 - [sik9252](https://github.com/sik9252)
@@ -2198,4 +2199,5 @@
 - [Vipin K](https://github.com/Bibinu-96/)
 - [Syed Zuhair Hossain](https://github.com/ZuhairHossain/)
 - [Pranav Ghorpade](https://github.com/Pranav-0440)
+-[Palak Singh](https://github.com/student-IETLucknow16)
 - [Amna Sehgal](https://github.com/amna-sehgal)
