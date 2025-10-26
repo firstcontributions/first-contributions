@@ -2204,6 +2204,7 @@ https://www.youtube.com/watch?v=2do4WZ0e8UU&list=PLTV_nsuD2lf4hfQvqKRToCXtVB7-6r
 - [Aniket Kedari](https://github.com/Aniket000k/) -[Michael Ramos](https://github.com/MikRam808/)
 - [Vipin K](https://github.com/Bibinu-96/)
 - [Syed Zuhair Hossain](https://github.com/ZuhairHossain/)
+- [Satish Choudhary](https://github.com/SatishChoudhary642)
 - [Pranav Ghorpade](https://github.com/Pranav-0440)
 - [Palak Singh](https://github.com/student-IETLucknow16)
 - [Amna Sehgal](https://github.com/amna-sehgal)
