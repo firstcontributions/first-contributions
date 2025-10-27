@@ -2256,4 +2256,5 @@
 -[Harithra R](https://github.com/rharithra)
 - [Shnepst Sergey](https://github.com/sergeyshnepst)
 - [Olim Fathulloev](https://github.com/alim7007)
+[Silver592](https://github.com/silver592)
 - [Chang Zee](https://github.com/kryptik03)
