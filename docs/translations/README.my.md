@@ -2,13 +2,12 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
-
 # Sumbangan Pertama
 
-Projek ini bertujuan untuk memberikan panduan dan memudahkan individu yang baru mula belajar membuat sumbangan pertama mereka. 
+Projek ini bertujuan untuk memberikan panduan dan memudahkan individu yang baru mula belajar membuat sumbangan pertama mereka.
 Jika anda ingin membuat sumbangan pertama anda, sila ikuti arahan yang disediakan di bawah.
 
-#### *Sekiranya anda tidak selesa dengan menggunakan antara muka baris perintah (CLI), anda boleh mengikuti [panduan untuk menggunakan alat GUI di sini.](#Tutorial-Menggunakan-Alat-Lain)*
+#### _Sekiranya anda tidak selesa dengan menggunakan antara muka baris perintah (CLI), anda boleh mengikuti [panduan untuk menggunakan alat GUI di sini.](#Tutorial-Menggunakan-Alat-Lain)_
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
@@ -23,21 +22,25 @@ Tindakan tersebut akan menghasilkan salinan repositori ini ke dalam akaun GitHub
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Klon repositori yang anda telah fork ke mesin anda. Selepas itu, layari akaun GitHub anda, buka repositori yang baru dicabang, klik butang Clone, dan kemudian klik ikon *Copy url to clipboard*.
+Klon repositori yang anda telah fork ke mesin anda. Selepas itu, layari akaun GitHub anda, buka repositori yang baru dicabang, klik butang Clone, dan kemudian klik ikon _Copy url to clipboard_.
 
 Buka terminal dan jalankan arahan git berikut:
 
 ```
 git clone "URL anda baru disalin"
 ```
+
 di mana "URL anda baru disalin" (tanpa tanda petikan) adalah URL ke repositori ini (fork anda bagi projek ini). Rujuk langkah-langkah sebelumnya untuk mendapatkan URL tersebut.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 Contoh:
+
 ```
-git clone https://github.com/<this-is-you>/first-contributions.git
+git clone https://github.com/this-is-you/first-contributions.git
+
 ```
+
 di mana `this-is-you` adalah nama pengguna GitHub anda. Di sini, anda menyalinkan kandungan repositori GitHub 'first-contributions' ke komputer anda.
 
 ## Membuat branch
@@ -47,12 +50,15 @@ Tukar ke direktori repositori pada komputer anda (jika lokasi CLI belum berada d
 ```
 cd first-contributions
 ```
+
 Sila buat branch menggunakan arahan `git switch`:
+
 ```
 git switch -c add-your-name
 ```
 
 Contoh:
+
 ```
 git switch -c add-emma-maembong
 ```
@@ -63,7 +69,6 @@ Sekarang, buka fail `Contributors.md` dalam sebuah editor teks, dan tambahkan na
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
-
 Jika anda pergi ke direktori projek dan laksanakan arahan `git status`, anda akan melihat perubahan tersebut.
 
 Tambahkan perubahan itu ke branch yang baru anda cipta menggunakan arahan `git add`:
@@ -73,17 +78,21 @@ git add Contributors.md
 ```
 
 Selepas itu, komit perubahan tersebut menggunakan arahan `git commit`:
+
 ```
 git commit -m "Add <your-name> to Contributors list"
 ```
+
 menggantikan `<your-name>` dengan nama anda.
 
 ## Push perubahan ke dalam GitHub
 
 Tolak perubahan anda menggunakan arahan `git push`:
+
 ```
 git push -u origin <add-your-name>
 ```
+
 menggantikan `<add-your-name>` dengan nama branch yang kamu cipta sebelumnya.
 
 ## Hantar perubahan anda untuk semakan
@@ -108,9 +117,8 @@ Mari kita mulakan dengan menyumbang kepada projek lain. Kami telah menyediakan s
 
 ### [Bahan tambahan](../additional-material/git_workflow_scenarios/additional-material.md)
 
-
 ## Tutorial Menggunakan Alat Lain
 
 | <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
-| --- | --- | --- | --- | --- | --- |
-| [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md) | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md) | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md) | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md) | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md) | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md) |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md)                                                                                                                          | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md)                                                                                                                                        | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                                                  | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                                      | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md)                                                                                                                                                          |
