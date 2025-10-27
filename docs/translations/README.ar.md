@@ -117,7 +117,7 @@ git push origin "add-your-name"
 <div dir="rtl">استبدل <code>&#60;add-your-name&#62;</code> باسم الفرع الذي أنشأته من قبل.</div>
 
 <br>
-<h2 id="سلم-تغيراتك-للمراجعة"><a name="سلم-تغيراتك-للمراجعة" href="#سلم-تغيراتك-للمراجعة"></a><div dir="rtl">سلم تغيراتك للمراجعة</div></h2>
+<h2 id="سلم-تغيراتك-للمراجعة"><a name="الريبو المساهمة رمز" href="https://github.com/roshanjossey/code-contributions"></a><div dir="rtl">سلم تغيراتك للمراجعة</div></h2>
 
 <div dir="rtl">في صفحة المشروع الخاصة بك يوجد زر <code>Compare &amp; pull request</code>. اضغط على هذا الزر.</div>
 
