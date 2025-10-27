@@ -1,6 +1,7 @@
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/1099cb7c-b006-4d3a-b400-fe24181290e0" /># Contributors
 
 - [Baljit Panda](https://github.com/velixcode)
+- [Vishal Singh](https://github.com/ILUCIFER0069)
 - [sliec](https://github.com/sliec)
 - [Tosh Gitonga](https://github.com/ToshGitonga0)
 - [Deeksha S](https://github.com/404notDeeksha)
