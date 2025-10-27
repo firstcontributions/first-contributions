@@ -1,5 +1,7 @@
 # Contributors
-- [Saroj Kushwaha](https://github.com/SrjKshwh) 
+
+- [kaboombastic](https://github.com/kaboombastic) I must not fear, fear is the mind killer.
+- [Saroj Kushwaha](https://github.com/SrjKshwh)
 - [Baljit Panda](https://github.com/velixcode)
 - [Vishal Singh](https://github.com/ILUCIFER0069)
 - [Abhinav Piratla](https://github.com/abhinav9558)
@@ -15,6 +17,7 @@
 - [Sai Fasalkar](https://github.com/brickb527)
 - [Reeyal Oinam](https://github.com/Reeyal05)
 - [Darshan K](https://github.com/1511Darshan)
+- [kaboombastic](https://github.com/kaboombastic) I must not fear, fear is the mind killer.
 - [Milen P Kurian](https://github.com/Milenpkurian)
 - [APURVA](https://github.com/apurva1435)
 - [PARNIKA C](https://github.com/parnikachoudhary)
@@ -71,7 +74,7 @@
 - [Michael Pugh](https://github.com/icefire1191)
 - [Rishabh Bansal](https://github.com/RishabhBansal22/)
 - [Nisarg Gandhi](https://github.com/Nisarg0007)
-Piyush Sharma
+  Piyush Sharma
 - [Zhumagulov Zhakyp](https://github.com/zhumagulovv)
 - [Mahendra Kumar Sahu](https://github.com/mahi-in9)
   Prasit Sung -[Esha Bajaj](https://github.com/EshaBajaj)
@@ -2260,13 +2263,11 @@ Piyush Sharma
 - [Pavan Sai Santhosh](https://github.com/2400030303)
 - [Arpit Baliyan](https://github.com/ArpitBaliyan26)
 - [Garvit Sachdeva](https://github.com/garvitsachdevaa)
-- [sakshi drolia](https://github.com/droliasakshi12/)
--[Harithra R](https://github.com/rharithra)
+- [sakshi drolia](https://github.com/droliasakshi12/) -[Harithra R](https://github.com/rharithra)
 - [Shnepst Sergey](https://github.com/sergeyshnepst)
 - [Olim Fathulloev](https://github.com/alim7007)
 - [Param Trimbake](https://github.com/param3026)
-[Silver592](https://github.com/silver592)
+  [Silver592](https://github.com/silver592)
 - [Chang Zee](https://github.com/kryptik03)
 - [Krupa Patel](https://github.com/krupapatel7193)
 - [Harshit Baliyan](https://github.com/Harsh7817)
-- [Minal Prasad](https://github.com/minalprasad08)
