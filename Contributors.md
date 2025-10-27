@@ -203,6 +203,7 @@
 - [Martin](https://github.com/mtarotML)
 - [Prem](https://github.com/prems02)
 - [tmestery](https://github.com/tmestery)
+- [Kalin](https://github.com/Kalin-ss)
 - [Bhuvanesh](https://github.com/bhw-git)
 - [Mohd Hammad Yousuf]
 - James
