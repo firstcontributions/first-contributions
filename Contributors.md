@@ -17,6 +17,7 @@
 - [Sai Fasalkar](https://github.com/brickb527)
 - [Reeyal Oinam](https://github.com/Reeyal05)
 - [Darshan K](https://github.com/1511Darshan)
+- [kaboombastic](https://github.com/kaboombastic) I must not fear, fear is the mind killer.
 - [Milen P Kurian](https://github.com/Milenpkurian)
 - [APURVA](https://github.com/apurva1435)
 - [PARNIKA C](https://github.com/parnikachoudhary)
