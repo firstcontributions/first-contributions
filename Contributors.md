@@ -329,6 +329,7 @@
 - [Utkarsh Upreti](https://www.github.com/K4rsh)
 - [Praveen Raj](https://github.com/praveenrajdevs-lgtm)
 - [Jose Riera](https://github.com/JxRiera)
+- [Sriram](https://github.com/SriramPaga)
 - [Tyler Parker](https://github.com/typarker04)
 - [Md. Shamim Ahmed](https://github.com/cseshamim47)
 - [Zaid Qtaish](https://github.com/ZaidQtaish)
