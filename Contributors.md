@@ -1,7 +1,8 @@
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/1099cb7c-b006-4d3a-b400-fe24181290e0" /># Contributors
-
+# Contributors
+- [Saroj Kushwaha](https://github.com/SrjKshwh) 
 - [Baljit Panda](https://github.com/velixcode)
 - [Vishal Singh](https://github.com/ILUCIFER0069)
+- [Abhinav Piratla](https://github.com/abhinav9558)
 - [sliec](https://github.com/sliec)
 - [Tosh Gitonga](https://github.com/ToshGitonga0)
 - [Deeksha S](https://github.com/404notDeeksha)
@@ -23,6 +24,7 @@
 - [Venkatesh P](https://github.com/offlvenkatesh)
 - My First Contro
 - [Arpit Tak](https://github.com/arpittak027)
+- [Saniya Kanwal](https://github.com/Saniyakanwal)
 - [Gajjela Vasudev](https://github.com/GajjelaVasudev)
 - [Hemanth](https://github.com/gvshemanth30034)
 - [Harsha](https://github.com/Born-as-Harsha)
@@ -111,8 +113,7 @@ Piyush Sharma
 - [Anagha Lambade](https://github.com/Anagha2106)
 - [Khaled Al Katheri](https://github.com/KhaledAlKatheri)
 - [Yesebu](https://github.com/MylapalliYesebu) - "First open-source contribution — learning by doing"
-- [Shaurya Tamang](https://github.com/GoTouchGra55)
--[sameer reddy](https://github.com/2400030343SameerReddy)
+- [Shaurya Tamang](https://github.com/GoTouchGra55) -[sameer reddy](https://github.com/2400030343SameerReddy)
 - [Om Prakash](https://github.com/omprakash970)
 - [Prince Pandey](https://github.com/pandey-prince)
 - [Eswar Venkata Ram Charan](https://github.com/eswarseeram)
@@ -265,6 +266,7 @@ Piyush Sharma
 - [Chintan Sood](https://github.com/chintansood)
 - [Kaylin Yang](https://github.com/kyangOrange)
 - [Sam Rosandick](https://github.com/Sam-is-AI)
+- [Vedavyasa]
 - [Harsh Gupta](https://github.com/HarshGupta-09)
 - [Kurt Schwimmbacher](https://github.com/KurtSchwimmbacher)
 - [Aaromal A](https://github.com/aaromalonline)
@@ -2264,3 +2266,5 @@ Piyush Sharma
 - [Param Trimbake](https://github.com/param3026)
 [Silver592](https://github.com/silver592)
 - [Chang Zee](https://github.com/kryptik03)
+- [Krupa Patel](https://github.com/krupapatel7193)
+- [Harshit Baliyan](https://github.com/Harsh7817)
