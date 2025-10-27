@@ -5,6 +5,7 @@
 - [Tosh Gitonga](https://github.com/ToshGitonga0)
 - [Deeksha S](https://github.com/404notDeeksha)
 - [Indrajith N](https://github.com/IndrajithN06)
+- [Roman Shubin](https://github.com/romanrocks4)
 - [Narmin İbrahimova](https://github.com/Narminibrahimova)
 - [Hello World!](getting-started-with-open-source)
 - [Szilveszter Szep](https://github.com/szepszilo)
