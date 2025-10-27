@@ -277,6 +277,7 @@ Piyush Sharma
 - [Mayank Kashyap](https://github.com/oneglitchx)
 - [Aman Gupta](https://github.com/aman-devx)
 - [Sowo R](https://github.com/sowo5)
+- Ryder Paredes
 - [vipul]
 - [cogitobyte]
 - [PB](https://github.com/PierreBatikh)
