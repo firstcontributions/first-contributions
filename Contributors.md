@@ -2254,3 +2254,4 @@
 - [Garvit Sachdeva](https://github.com/garvitsachdevaa)
 - [sakshi drolia](https://github.com/droliasakshi12/)
 -[Harithra R](https://github.com/rharithra)
+- [Shnepst Sergey](https://github.com/sergeyshnepst)
