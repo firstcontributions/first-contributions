@@ -23,6 +23,7 @@
 - [Sonali Dutta](https://github.com/SonaliDutta-Dev)
 - [Supra](https://github.com/supraik)
 - [Venkatesh P](https://github.com/offlvenkatesh)
+- [FekherS](https://github.com/FekherS)
 - My First Contro
 - [Arpit Tak](https://github.com/arpittak027)
 - [Saniya Kanwal](https://github.com/Saniyakanwal)
@@ -38,6 +39,7 @@
 - [Arthur Cavalcante](https://github.com/Linsarthur)
 - [Gopalakrishnan](https://github.com/gobeecode)
 - [Apurva Vats](https://github.com/apurvavats)
+-
 - [TRISHIT BODKHE](https://github.com/trishit726)
 - [Fenton](https://github.com/FentonFrancis)
 - [Reilly Davis](https://github.com/reillyblair81)
@@ -284,6 +286,7 @@ Piyush Sharma
 - [Tudor Gradinaru](https://github.com/TudorGR)
 - [Pushkar Sabe](https://github.com/pushkarsabe)
 - [CheriBerry77](https://github.com/CheriBerry77)
+- [Harsha,Ace95](https://github.com/Ace-095/first-contributions)
 - [Jonathan Scott](https://github.com/Hatonjan)
 - [Henok Birhanu](https://github.com/enoch-B)
 - [Kulani Manganyi-John](https://github.com/Kulani-MM)
@@ -2272,3 +2275,4 @@ Piyush Sharma
 - [Krupa Patel](https://github.com/krupapatel7193)
 - [Harshit Baliyan](https://github.com/Harsh7817)
 - [Minal Prasad](https://github.com/minalprasad08)
+- [hahaysh](https://github.com/hahaysh)
