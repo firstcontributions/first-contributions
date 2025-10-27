@@ -244,6 +244,7 @@
 - [Aman Gupta](https://github.com/aman-devx)
 - [Sowo R](https://github.com/sowo5)
 - [vipul]
+- [cogitobyte]
 - [PB](https://github.com/PierreBatikh)
 - [Sangeetha Dhanasekar]
 - [Rasaq Ajape](https://github.com/Abdulrasaq1515)
