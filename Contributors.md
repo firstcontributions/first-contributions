@@ -2265,3 +2265,4 @@ Piyush Sharma
 [Silver592](https://github.com/silver592)
 - [Chang Zee](https://github.com/kryptik03)
 - [Krupa Patel](https://github.com/krupapatel7193)
+- [Harshit Baliyan](https://github.com/Harsh7817)
