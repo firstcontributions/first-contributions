@@ -1032,6 +1032,7 @@
 - [Praise](https://github.com/Ph0enix22)
 - [Raja](https://github.com/EscapedfromQA)
 - [Amit Patil](https://github.com/meAmitPatil)
+- [Hermes](https://github.com/Hermes-erm)
 - [Ammar Adnew](https://github.com/AmmarAdnew)
 - [Anaïs Gatard](https://github.com/AnaisG14)
 - [Andrea Moguel](https://github.com/amoguelk)
