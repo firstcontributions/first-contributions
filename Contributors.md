@@ -56,6 +56,7 @@
 - [HariRaju](https://github.com/HariSivaraj)
 - [Kamal pandi V](https://github.com/kamalpandi)
 - [Vimal Bisht](https://github.com/VimalBisht2021)
+- [Harvin Zapata](https://github.com/HarvinZapata)
 - [Jamale SLEIMAN]
 - [Charu Singhania](https://github.com/Aruniaaa/Aruniaaa)
 - [Michael Pugh](https://github.com/icefire1191)
