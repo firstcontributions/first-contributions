@@ -1,6 +1,7 @@
 # Contributors
 - [Saroj Kushwaha](https://github.com/SrjKshwh) 
 - [Baljit Panda](https://github.com/velixcode)
+- [Vishal Singh](https://github.com/ILUCIFER0069)
 - [Abhinav Piratla](https://github.com/abhinav9558)
 - [sliec](https://github.com/sliec)
 - [Tosh Gitonga](https://github.com/ToshGitonga0)
