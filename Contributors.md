@@ -688,6 +688,7 @@ Piyush Sharma
 - [yashpr349](https://github.com/yashpr349)
 - [Aaron Lee](https://github.com/acelee0621)
 - [Abdul Basit](https://github.com/abdulawr)
+- [Khushi] 
 - [HaidarAbbas](https://github.com/Haidarabbas731)
 - [Adam Moria](https://github.com/aabro1325)
 - [Ahmed Fikri](https://github.com/Fikri-20)
