@@ -1,5 +1,6 @@
 # Contributors
 - [Baljit Panda](https://github.com/velixcode)
+- [Abhinav Piratla](https://github.com/abhinav9558)
 - [sliec](https://github.com/sliec)
 - [Tosh Gitonga](https://github.com/ToshGitonga0)
 - [Deeksha S](https://github.com/404notDeeksha)
