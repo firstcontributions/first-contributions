@@ -1602,6 +1602,7 @@ Piyush Sharma
 - [Yahya Fazeli](https://github.com/yahyafazeli)
 - [nyinyi zin](https://github.com/nyinyizin-dev)
 - [rishabh1024](https://github.com/rishabh1024/)
+- [Bailey Kupisiewicz](https://github.com/RyderDaniels)
 - [sajad thapa](https://github.com/sajadthapa04)
 - [ALOK YADAV](https://github.com/CODEBRAKERBOYY)
 - [ARYAN BHATT](https://github.com/aryanbhatt767)
