@@ -102,8 +102,7 @@
 - [Anagha Lambade](https://github.com/Anagha2106)
 - [Khaled Al Katheri](https://github.com/KhaledAlKatheri)
 - [Yesebu](https://github.com/MylapalliYesebu) - "First open-source contribution — learning by doing"
-- [Shaurya Tamang](https://github.com/GoTouchGra55)
--[sameer reddy](https://github.com/2400030343SameerReddy)
+- [Shaurya Tamang](https://github.com/GoTouchGra55) -[sameer reddy](https://github.com/2400030343SameerReddy)
 - [Om Prakash](https://github.com/omprakash970)
 - [Prince Pandey](https://github.com/pandey-prince)
 - [Eswar Venkata Ram Charan](https://github.com/eswarseeram)
@@ -2244,3 +2243,4 @@
 - [Pavan Sai Santhosh](https://github.com/2400030303)
 - [Arpit Baliyan](https://github.com/ArpitBaliyan26)
 - [Garvit Sachdeva](https://github.com/garvitsachdevaa)
+- [Bagus Ageng Alfahri](https://github.com/BagusAgeng26)
