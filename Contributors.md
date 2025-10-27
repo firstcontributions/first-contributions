@@ -2,6 +2,7 @@
 
 - [Baljit Panda](https://github.com/velixcode)
 - [sliec](https://github.com/sliec)
+- [Tosh Gitonga](https://github.com/ToshGitonga0)
 - [Deeksha S](https://github.com/404notDeeksha)
 - [Indrajith N](https://github.com/IndrajithN06)
 - [Narmin İbrahimova](https://github.com/Narminibrahimova)
