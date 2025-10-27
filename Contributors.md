@@ -21,6 +21,7 @@
 - [Sonali Dutta](https://github.com/SonaliDutta-Dev)
 - [Supra](https://github.com/supraik)
 - [Venkatesh P](https://github.com/offlvenkatesh)
+- [FekherS](https://github.com/FekherS)
 - My First Contro
 - [Arpit Tak](https://github.com/arpittak027)
 - [Saniya Kanwal](https://github.com/Saniyakanwal)
