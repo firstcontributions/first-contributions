@@ -37,16 +37,16 @@
 
 *terminal* அல்லது *command prompt* ஐ open செய்து  பின்வரும் git கட்டளையை இயக்கவும்:
 
-```
+```bash
 git clone "நீங்கள் copy செய்த url"
 ```
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="URL ஐ கிளிப்போர்டுக்கு நகலெடுக்கவும்" />
 
 
 உதாரணத்திற்கு:
 
-```
+```bash
 git clone https://github.com/இது நீங்கள்/first-contributions.git
 ```
 
@@ -56,20 +56,20 @@ git clone https://github.com/இது நீங்கள்/first-contributions
 
 repository directory க்கு செல்லவும் (நீங்கள் ஏற்கனவே அங்கு இல்லையென்றால்):
 
-```
+```bash
 cd first-contributions
 ```
 
 
 இப்போது `git checkout` கட்டளையைப் பயன்படுத்தி ஒரு கிளையை உருவாக்கவும்:
 
-```
+```bash
 git checkout -b <உங்கள்-கிளையின்-பெயர்>
 ```
 
 உதாரணத்திற்கு:
 
-```
+```bash
 git checkout -b உங்கள்-கிளையின்-பெயர்
 ```
 
@@ -79,20 +79,20 @@ git checkout -b உங்கள்-கிளையின்-பெயர்
 
 இப்போது *text editor* அல்லது *notepad* இல் `Contributors.md` கோப்பைத் திறந்து, அதில் உங்கள் பெயரைச் சேர்க்கவும். கோப்பின் தொடக்கத்திலோ அல்லது முடிவிலோ இதைச் சேர்க்க வேண்டாம். இடையில் எங்கும் வைக்கவும். இப்போது, ​​கோப்பை சேமிக்கவும்.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="கிட் ஸ்டாடஸ்" />
 
 நீங்கள் project directory சென்று `git status` இயக்கினால், மாற்றங்கள் இருப்பதை நீங்கள் காண்பீர்கள்.
 
 
 `git add` கட்டளையைப் பயன்படுத்தி நீங்கள் உருவாக்கிய கிளையில் அந்த மாற்றங்களைச் சேர்க்கவும்:
 
-```
+```bash
 git add Contributors.md
 ```
 
 இப்போது `git commit` கட்டளையைப் பயன்படுத்தி அந்த மாற்றங்களைச் செய்யுங்கள்:
 
-```
+```bash
 git commit -m "Add <உங்கள்_பெயர்> to Contributors list"
 ```
 
@@ -102,7 +102,7 @@ git commit -m "Add <உங்கள்_பெயர்> to Contributors list"
 
 `git push` கட்டளையைப் பயன்படுத்தி உங்கள் மாற்றங்களைத் தள்ளுங்கள்:
 
-```
+```bash
 git push origin <உங்கள்-கிளையின்-பெயர்>
 ```
 
@@ -125,11 +125,11 @@ git push origin <உங்கள்-கிளையின்-பெயர்>
 
 GitHub இல் உள்ள உங்கள் களஞ்சியத்திற்குச் சென்றால், `Compare & pull request` கோரிக்கை பொத்தானைக் காண்பீர்கள். அந்த பொத்தானைக் கிளிக் செய்க.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="Pull கோரிக்கையை உருவாக்கவும்" />
 
 இப்போது இழுக்கும் கோரிக்கையை சமர்ப்பிக்கவும்.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="Pull கோரிக்கையை சமர்ப்பிக்கவும்" />
 
 விரைவில் உங்கள் எல்லா மாற்றங்களையும் இந்த திட்டத்தின் முதன்மை கிளையில் இணைக்கப்படும். மாற்றங்கள் ஒன்றிணைக்கப்பட்டவுடன் உங்களுக்கு அறிவிப்பு மின்னஞ்சல் கிடைக்கும்.
 
