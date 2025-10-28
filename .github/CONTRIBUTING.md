@@ -56,7 +56,7 @@ If you're making changes to a translation, please request a review from our prev
 | Español de México | [Spanish of Mexico](../main/docs/translations/README.mx.md) | []() |
 | Bahasa Melayu | [Malay](../main/docs/translations/README.my.md) | []() |
 | Nederlandse | [Dutch](../main/docs/translations/README.nl.md) | [<img width="100" src="https://avatars0.githubusercontent.com/u/3897815?s=460&v=4" alt="@MJMajoor" />](https://github.com/MJMajoor) |
-| Norsk | [Norwegian](../main/docs/translations/README.no.md) | []() |
+| Norsk | [Norwegian](../main/docs/translations/README.no.md) | [<img width="100" src="https://avatars.githubusercontent.com/u/75746434?s=400&u=0a0854f15eb1f7fd5169d108bb1f12f875c172c6&v=4" alt="Islandstone89 on Github" />](https://github.com/Islandstone89) |
 | नेपाली | [Nepali](../main/docs/translations/README.np.md) | [<img width="100" src="https://avatars2.githubusercontent.com/u/2145263?s=460&v=4" alt="@milap-neupane" />](https://github.com/milap-neupane) |
 | ਪੰਜਾਬੀ | [Punjabi](../main/docs/translations/README.pb.md) | []() |
 | Polski | [Polish](../main/docs/translations/README.pl.md) | [<img width="100" src="https://avatars0.githubusercontent.com/u/3372341?s=460&v=4" alt="@P1X3L0V4" />](https://github.com/P1X3L0V4) [<img width="100" src="https://avatars2.githubusercontent.com/u/1311358?v=4" alt="@mikowhy" />](https://github.com/mikowhy) |
@@ -69,8 +69,8 @@ If you're making changes to a translation, please request a review from our prev
 | Sindhi | [Sindhi](../main/docs/translations/README.sindhi.md) | []() |
 | Slovenčina | [Slovak](../main/docs/translations/README.sk.md) | [<img width="100" src="https://avatars3.githubusercontent.com/u/16558136?s=460&v=4" alt="@CoderKlemen" />](https://github.com/CoderKlemen) |
 | Slovenščina | [Slovenian](../main/docs/translations/README.slk.md) | [<img width="100" src="https://avatars0.githubusercontent.com/u/11976353?s=460&v=4" alt="@hercegtomas" />](https://github.com/hercegtomas) |
-| Serbian (Cyrillic) | [Serbian (Cyrillic)](../main/docs/translations/README.sr-Cyrl.md) | [<img width="100" src="https://avatars.githubusercontent.com/u/40705899?v=4" alt="@rammba" />](https://github.com/rammba) |
-| Serbian (Latin) | [Serbian (Latin)](../main/docs/translations/README.sr-Latn.md) | [<img width="100" src="https://avatars.githubusercontent.com/u/35745051?v=4" alt="@Mateja3m" />](https://github.com/Mateja3m) [<img width="100" src="https://avatars.githubusercontent.com/u/40705899?v=4" alt="@rammba" />](https://github.com/rammba) |
+| Српски | [Serbian (Cyrillic)](../main/docs/translations/README.sr-Cyrl.md) | [<img width="100" src="https://avatars.githubusercontent.com/u/40705899?v=4" alt="@rammba" />](https://github.com/rammba) |
+| Srpski | [Serbian (Latin)](../main/docs/translations/README.sr-Latn.md) | [<img width="100" src="https://avatars.githubusercontent.com/u/35745051?v=4" alt="@Mateja3m" />](https://github.com/Mateja3m) [<img width="100" src="https://avatars.githubusercontent.com/u/40705899?v=4" alt="@rammba" />](https://github.com/rammba) |
 | தமிழ் | [Tamil](../main/docs/translations/README.ta.md) | [<img width="100" src="https://avatars.githubusercontent.com/u/7114806?v=4" alt="@sathishkumar-manogaran" />](https://github.com/sathishkumar-manogaran) |
 | తెలుగు | [Telugu](../main/docs/translations/README.te.md) | []() |
 | ไทย | [Thai](../main/docs/translations/README.th.md) | [<img width="100" src="https://avatars0.githubusercontent.com/u/5433758?s=460&v=4" alt="@AimeTPGM" />](https://github.com/AimeTPGM) |
@@ -82,6 +82,6 @@ If you're making changes to a translation, please request a review from our prev
 | Tiếng Việt | [Vietnamese](../main/docs/translations/README.vn.md) | [<img width="100" src="https://avatars3.githubusercontent.com/u/12371875?s=460&v=4" alt="@tranlyvu" />](https://github.com/tranlyvu) |
 | Yorùbá | [Yorùbá](../main/docs/translations/README.yor.md) | []() |
 | 中文 | [Chinese (Simplified)](../main/docs/translations/README.zh-cn.md) | [<img width="100" src="https://avatars2.githubusercontent.com/u/6414741?s=400&v=4" alt="@yuzhoujr" />](https://github.com/yuzhoujr) |
-| 中文 | [Chinese (Traditional)](../main/docs/translations/README.zh-tw.md) | [<img width="100" src="https://avatars2.githubusercontent.com/u/27748281?s=460&v=4" alt="@WeiChienHsu" />](https://github.com/WeiChienHsu) |
+| 中文 | [Chinese (Traditional)](../main/docs/translations/README.zh-tw.md) | [<img width="100" src="https://avatars2.githubusercontent.com/u/27748281?s=460&v=4" alt="@WeiChienHsu" />](https://github.com/WeiChienHsu) [<img width="100" src="https://avatars.githubusercontent.com/u/166942861?v=4" alt="@Sharl0tteIsTaken" />](https://github.com/Sharl0tteIsTaken) |
 | Zulu | [Zulu](../main/docs/translations/README.zul.md) | [<img width="100" src="https://avatars.githubusercontent.com/u/36197725?v=4" alt="@zecollokaris" />](https://github.com/zecollokaris) []() |
 
