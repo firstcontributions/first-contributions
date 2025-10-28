@@ -52,6 +52,7 @@
 - [Arthur Cavalcante](https://github.com/Linsarthur)
 - [Gopalakrishnan](https://github.com/gobeecode)
 - [Apurva Vats](https://github.com/apurvavats)
+- [Satyam Kumar Rai](https://github.com/satyam-skr)
 - [Franklin Ma](https://github.com/franklinma-git)
 - [TRISHIT BODKHE](https://github.com/trishit726)
 - [Fenton](https://github.com/FentonFrancis)
