@@ -2288,4 +2288,6 @@ Piyush Sharma
 - [Anuska](https://github.com/anuskadalal)
 - [Aurora](https://github.com/Auroral-not) Hello,I am aurora
 - [Rafael](https://github.com/RAFAELREYESMACH) 
-- [Gagandeep Singh] (https://github.com/GagandeepSingh-codes)
+- [Gagandeep Singh](https://github.com/GagandeepSingh-codes)
+- [SirishaDuba](https://github.com/SirishaDuba)
+- [Vishal](https://github.com/VISHAL-099)Hey,I am vishal
