@@ -27,6 +27,7 @@
 - [Venkatesh P](https://github.com/offlvenkatesh)
 - [FekherS](https://github.com/FekherS)
 - My First Contro
+- [AINN](https://github.com/ainthrmo)
 - [Arpit Tak](https://github.com/arpittak027)
 - [Saniya Kanwal](https://github.com/Saniyakanwal)
 - [Gajjela Vasudev](https://github.com/GajjelaVasudev)
@@ -183,6 +184,7 @@ Piyush Sharma
 - [Ayoub Ben Aissa](https://github.com/Frontier101)
 - [Nsiru Williams](https://github.com/Cokekoro)
 - [Priyeash Bala](https://github.com/priyeashbala)
+- [Ganesh Gadhave](https://github.com/ganeshygadhave)
 - [smriti jha](https://github.com/jha-smriti)
 - Madhan Pokharel
 - [Nishita Kashyap](https://github.com/nishitakashyap)
@@ -2292,3 +2294,4 @@ Piyush Sharma
 - [SirishaDuba](https://github.com/SirishaDuba)
 - [Vishal](https://github.com/VISHAL-099)Hey,I am vishal
 -[Boru Mohamed](https://github.com/Ratim001)
+- [Akash Dhanwate](https://github.com/Akash-Dhanwate) Hey i am akash , i think you are doing good in you career , dont stop go ahead !!
