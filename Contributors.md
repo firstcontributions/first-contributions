@@ -2287,3 +2287,4 @@ Piyush Sharma
 - [Anuska](https://github.com/anuskadalal)
 - [Aurora](https://github.com/Auroral-not) Hello,I am aurora
 - [Rafael](https://github.com/RAFAELREYESMACH) 
+- [Aditya Pratap Singh](https://github.com/AdityaPratapSingh-eng)
