@@ -19,6 +19,7 @@
 - [Darshan K](https://github.com/1511Darshan)
 - [Milen P Kurian](https://github.com/Milenpkurian)
 - [APURVA](https://github.com/apurva1435)
+- [ISHAN CHAUHAN] (https://github.com/Ishan-Chauhan)
 - [PARNIKA C](https://github.com/parnikachoudhary)
 - [AnshMeshram](https://github.com/AnshMeshram)
 - [Sonali Dutta](https://github.com/SonaliDutta-Dev)
