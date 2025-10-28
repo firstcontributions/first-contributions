@@ -1,4 +1,5 @@
 # Contributors
+- [paras](https://github.com/paras2003gupta) Hurray no.1
 - [kaboombastic](https://github.com/kaboombastic) I must not fear, fear is the mind killer. 
 - [Apurv-01](https://github.com/Apurv-01)
 - [Riddhi Shah] (https://github.com/riidefined)
@@ -90,6 +91,7 @@
 - [Nisarg Gandhi](https://github.com/Nisarg0007)
 - [Hayden D'Souza](https://github.com/haydenfd/)
 Piyush Sharma
+- [paras Gupta](https://github.com/paras2003gupta)
 - [Zhumagulov Zhakyp](https://github.com/zhumagulovv)
 - [Mahendra Kumar Sahu](https://github.com/mahi-in9)
 - [Vaishnavi Rajawat] (https://github.com/Vaishnavi09099)
