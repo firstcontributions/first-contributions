@@ -85,6 +85,7 @@
 Piyush Sharma
 - [Zhumagulov Zhakyp](https://github.com/zhumagulovv)
 - [Mahendra Kumar Sahu](https://github.com/mahi-in9)
+- [Vaishnavi Rajawat] (https://github.com/Vaishnavi09099)
   Prasit Sung -[Esha Bajaj](https://github.com/EshaBajaj)
 - [Jaykumar Landge](https://github.com/jayk1881)
 - [Prince Kumar](https://github.com/princeDevelops)
