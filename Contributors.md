@@ -145,6 +145,7 @@ Piyush Sharma
 - [Nagmani Jha](https://github.com/nagmanijha)
 - [namest504](https://github.com/namest504)
 - [manasab805](https://github.com/manasab805)
+- [LeslieK]
 - [Aravind Rao](https://github.com/rekcilyssup)
 - [Robert Schacht](https://github.com/rsschacht)
 - [amarmerada](https://github.com/amarmerada99)
