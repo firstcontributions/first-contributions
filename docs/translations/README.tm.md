@@ -29,7 +29,7 @@ Indi, forklan repositoryny öz kompýuteriňize klonlaň(clone). Bu diýmek, ýa
 
 Terminaly açyp aşakdaky git buýruguny işlediň:
 
-```
+```bash
 git clone "ýaňy kopiýa eden url-ňyz"
 ```
 
@@ -39,7 +39,7 @@ git clone "ýaňy kopiýa eden url-ňyz"
 
 Mysal üçin:
 
-```
+```bash
 git clone https://github.com/ulanyjy-ady/first-contributions.git
 ```
 
@@ -49,19 +49,19 @@ git clone https://github.com/ulanyjy-ady/first-contributions.git
 
 Repositorynyň duran papkasynda däl bolsaňyz, şol ýere gidiň:
 
-```
+```bash
 cd first-contributions
 ```
 
 Indi, `git switch` buýrugy arkaly täze şaha(branch) dörediň:
 
-```
+```bash
 git switch -c siziň-täze-şahaňyzyň-ady
 ```
 
 Mysal üçin:
 
-```
+```bash
 git switch -c goş-ahmet-ahmedow
 ```
 
@@ -89,14 +89,13 @@ Terminalda eger proýektiň duran ýerine gidip,```git status``` buýrugyny işl
 ```git add ``` buýrugyny ulanyp şol üýtgeşmeleri ýokarda döreden şahamyza(branch) goşýas:
 
 
-```
+```bash
 git add Contributors.md
 ```
 
 Indi, `git commit` buýrugy arkaly şol üýtgeşmeleri bellige alyp(commit) goýýas:
 
-```
-
+```bash
 git commit -m "<Adyňyz> goşant goşanlaryň hataryna girizildi"
 ```
 `<Adyňyz>` diýen ýere öz adyňyzy ýazyň
@@ -107,7 +106,7 @@ git commit -m "<Adyňyz> goşant goşanlaryň hataryna girizildi"
 
 `git push` buýrugy arkaly üýtgeşmeleriňizi iberiň(push):
 
-```
+```bash
 git push -u origin siziň-şahaňyzyň-ady
 ```
 
