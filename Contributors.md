@@ -295,6 +295,7 @@ Piyush Sharma
 - [Harsha,Ace95](https://github.com/Ace-095/first-contributions)
 - [Jonathan Scott](https://github.com/Hatonjan)
 - [Henok Birhanu](https://github.com/enoch-B)
+Nagesh Gujarathi
 - [Kulani Manganyi-John](https://github.com/Kulani-MM)
 - [sulmanfarooqq](https://github.com/sulmanfarooqq)
 - [muhammed](https://github.com/muhammed048)
@@ -2298,3 +2299,5 @@ Piyush Sharma
 -[Abhishek Gupta](www.linkedin.com/in/abhishek-kumar-gupta-28612730b)
 
 
+
+- [Bhumil mayani](https://github.com/bhumilmayani12-oss)
