@@ -1,6 +1,7 @@
 # Contributors
 - [kaboombastic](https://github.com/kaboombastic) I must not fear, fear is the mind killer. 
 - [Saroj Kushwaha](https://github.com/SrjKshwh) 
+- [Ankit Kumar](https://github.com/erankitkr011) 
 - [Baljit Panda](https://github.com/velixcode)
 - [Vishal Singh](https://github.com/ILUCIFER0069)
 - [Abhinav Piratla](https://github.com/abhinav9558)
