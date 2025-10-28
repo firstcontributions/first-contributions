@@ -2298,6 +2298,7 @@ Nagesh Gujarathi
 - [Olim Fathulloev](https://github.com/alim7007)
 - [Param Trimbake](https://github.com/param3026)
 [Silver592](https://github.com/silver592)
+- [Rudra Chauhan]
 - [Chang Zee](https://github.com/kryptik03)
 - [Krupa Patel](https://github.com/krupapatel7193)
 - [Harshit Baliyan](https://github.com/Harsh7817)
