@@ -176,6 +176,7 @@ Piyush Sharma
 - [Rahul Soni](https://github.com/grksoni)
 - [Jellypork](https://github.com/JellyPork)
 - [Arthur Campana](https://github.com/arthurcampana)
+- [ElliottN-E](https://github.com/ElliottN-E)
 - [anjali-ojha17](https://github.com/anjali-ojha17)
 - [Kavinila_L](https://github.com/KavinilaLoganathan-2507)
 - [Adithya_Balaji]
