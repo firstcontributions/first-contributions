@@ -261,6 +261,7 @@ Piyush Sharma
 - [Mohammed Muzammil Nihal](https://github.com/MdMuzammilNihal)
 - [Aditi Badkur](https://github.com/aditibadkur)
 - [Vasistha_yadav](git switch -c your-new-branch-name)
+- [Akash Kaul](https://github.com/Ak00005)
 - [PHT](https://github.com/CodeByPyaeHan)
 - [ecshepherd](https://github.com/ecshepherd1414)
 - [Manoj Pipare](https://github.com/manojvp16)
