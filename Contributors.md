@@ -2295,7 +2295,7 @@ Nagesh Gujarathi
 - [Arpit Baliyan](https://github.com/ArpitBaliyan26)
 - [Garvit Sachdeva](https://github.com/garvitsachdevaa)
 - [sakshi drolia](https://github.com/droliasakshi12/)
--[Harithra R](https://github.com/rharithra)
+- [Harithra R](https://github.com/rharithra)
 - [Shnepst Sergey](https://github.com/sergeyshnepst)
 - [Olim Fathulloev](https://github.com/alim7007)
 - [Param Trimbake](https://github.com/param3026)
@@ -2310,6 +2310,7 @@ Nagesh Gujarathi
 - [Anuska](https://github.com/anuskadalal)
 - [Aurora](https://github.com/Auroral-not) Hello,I am aurora
 - [Rafael](https://github.com/RAFAELREYESMACH) 
+- [Gagandeep Singh](https://github.com/GagandeepSingh-codes)
 - [SirishaDuba](https://github.com/SirishaDuba)
 - [Vishal](https://github.com/VISHAL-099)Hey,I am vishal
 -[Boru Mohamed](https://github.com/Ratim001)
