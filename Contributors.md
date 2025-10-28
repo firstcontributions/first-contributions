@@ -1,5 +1,6 @@
 # Contributors
 - [kaboombastic](https://github.com/kaboombastic) I must not fear, fear is the mind killer. 
+- [Riddhi Shah] (https://github.com/riidefined)
 - [Saroj Kushwaha](https://github.com/SrjKshwh) 
 - [likithaa ponnuru](https://github.com/likithaa01)
 - [Ankit Kumar](https://github.com/erankitkr011) 
