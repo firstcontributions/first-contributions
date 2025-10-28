@@ -1,13 +1,13 @@
 # Contributors
-- [paras](https://github.com/paras2003gupta) Hurray no.1
-- [kaboombastic](https://github.com/kaboombastic) I must not fear, fear is the mind killer. 
+
+- [kaboombastic](https://github.com/kaboombastic) I must not fear, fear is the mind killer.
 - [Apurv-01](https://github.com/Apurv-01)
 - [Syed Muhammad Hussain Naqvi](https://github.com/smhnaqvi)
 - [Riddhi Shah] (https://github.com/riidefined)
-- [Saroj Kushwaha](https://github.com/SrjKshwh) 
+- [Saroj Kushwaha](https://github.com/SrjKshwh)
 - [Aniket Ghorpade] (https://github.com/Aniketghorpade7)
 - [likithaa ponnuru](https://github.com/likithaa01)
-- [Ankit Kumar](https://github.com/erankitkr011) 
+- [Ankit Kumar](https://github.com/erankitkr011)
 - [Baljit Panda](https://github.com/velixcode)
 - [Vishal Singh](https://github.com/ILUCIFER0069)
 - [Abhinav Piratla](https://github.com/abhinav9558)
@@ -34,8 +34,7 @@
 - [practicagit123](github.com/practicagit123)
 - [AnshMeshram](https://github.com/AnshMeshram)
 - [Sonali Dutta](https://github.com/SonaliDutta-Dev)
-- [Supra](https://github.com/supraik)
--[Bhavya sri Athukuri](https://github.com/Bhavya-chowdary)
+- [Supra](https://github.com/supraik) -[Bhavya sri Athukuri](https://github.com/Bhavya-chowdary)
 - [Venkatesh P](https://github.com/offlvenkatesh)
 - [FekherS](https://github.com/FekherS)
 - My First Contro
@@ -92,12 +91,12 @@
 - [Rishabh Bansal](https://github.com/RishabhBansal22/)
 - [Nisarg Gandhi](https://github.com/Nisarg0007)
 - [Hayden D'Souza](https://github.com/haydenfd/)
-Piyush Sharma
+- Piyush Sharma
 - [paras Gupta](https://github.com/paras2003gupta)
 - [Zhumagulov Zhakyp](https://github.com/zhumagulovv)
 - [Mahendra Kumar Sahu](https://github.com/mahi-in9)
 - [Vaishnavi Rajawat] (https://github.com/Vaishnavi09099)
-  Prasit Sung -[Esha Bajaj](https://github.com/EshaBajaj)
+- Prasit Sung -[Esha Bajaj](https://github.com/EshaBajaj)
 - [Jaykumar Landge](https://github.com/jayk1881)
 - [Prince Kumar](https://github.com/princeDevelops)
 - [Soumil Juneja](cant make a tomlette without breaking some greggs)
@@ -315,7 +314,7 @@ Piyush Sharma
 - [Harsha,Ace95](https://github.com/Ace-095/first-contributions)
 - [Jonathan Scott](https://github.com/Hatonjan)
 - [Henok Birhanu](https://github.com/enoch-B)
-Nagesh Gujarathi
+  Nagesh Gujarathi
 - [Kulani Manganyi-John](https://github.com/Kulani-MM)
 - [sulmanfarooqq](https://github.com/sulmanfarooqq)
 - [muhammed](https://github.com/muhammed048)
@@ -715,7 +714,7 @@ Nagesh Gujarathi
 - [yashpr349](https://github.com/yashpr349)
 - [Aaron Lee](https://github.com/acelee0621)
 - [Abdul Basit](https://github.com/abdulawr)
-- [Khushi] 
+- [Khushi]
 - [HaidarAbbas](https://github.com/Haidarabbas731)
 - [Adam Moria](https://github.com/aabro1325)
 - [Ahmed Fikri](https://github.com/Fikri-20)
@@ -2305,7 +2304,7 @@ Nagesh Gujarathi
 - [Shnepst Sergey](https://github.com/sergeyshnepst)
 - [Olim Fathulloev](https://github.com/alim7007)
 - [Param Trimbake](https://github.com/param3026)
-[Silver592](https://github.com/silver592)
+  [Silver592](https://github.com/silver592)
 - [Rudra Chauhan]
 - [Chang Zee](https://github.com/kryptik03)
 - [Krupa Patel](https://github.com/krupapatel7193)
@@ -2315,12 +2314,11 @@ Nagesh Gujarathi
 - [hahaysh](https://github.com/hahaysh)
 - [Anuska](https://github.com/anuskadalal)
 - [Aurora](https://github.com/Auroral-not) Hello,I am aurora
-- [Rafael](https://github.com/RAFAELREYESMACH) 
+- [Rafael](https://github.com/RAFAELREYESMACH)
 - [Aditya Pratap Singh](https://github.com/AdityaPratapSingh-eng)
 - [Gagandeep Singh](https://github.com/GagandeepSingh-codes)
 - [SirishaDuba](https://github.com/SirishaDuba)
-- [Vishal](https://github.com/VISHAL-099)Hey,I am vishal
--[Boru Mohamed](https://github.com/Ratim001)
+- [Vishal](https://github.com/VISHAL-099)Hey,I am vishal -[Boru Mohamed](https://github.com/Ratim001)
 - [Akash Dhanwate](https://github.com/Akash-Dhanwate) Hey i am akash , i think you are doing good in you career , dont stop go ahead !!
 - [Bhumil mayani](https://github.com/bhumilmayani12-oss)
 - [Thirugnanasasti](https://github.com/Thirugnanasasti)
@@ -2329,3 +2327,4 @@ Nagesh Gujarathi
 - [Khan Kaif](https://github.com/kaifkhan-coder)
 - [Ayushi18457](https://github.com/Ayushi18457)
 - [Jafir Anjum](https://github.com/programmer-jafir)
+- [Rafia Minhaj](https://github.com/rafiaminhaj)
