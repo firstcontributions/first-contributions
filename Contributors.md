@@ -1,4 +1,5 @@
 # Contributors
+- [kaboombastic](https://github.com/kaboombastic) I must not fear, fear is the mind killer. 
 - [Saroj Kushwaha](https://github.com/SrjKshwh) 
 - [Baljit Panda](https://github.com/velixcode)
 - [Vishal Singh](https://github.com/ILUCIFER0069)
@@ -9,6 +10,7 @@
 - [Indrajith N](https://github.com/IndrajithN06)
 - [Roman Shubin](https://github.com/romanrocks4)
 - [Narmin İbrahimova](https://github.com/Narminibrahimova)
+- [Goncalo Lopes](https://github.com/GoncaloLopes96)
 - [Hello World!](getting-started-with-open-source)
 - [Szilveszter Szep](https://github.com/szepszilo)
 - [Parth Narkar](https://github.com/parthnarkar)
@@ -21,7 +23,9 @@
 - [AnshMeshram](https://github.com/AnshMeshram)
 - [Sonali Dutta](https://github.com/SonaliDutta-Dev)
 - [Supra](https://github.com/supraik)
+-[Bhavya sri Athukuri](https://github.com/Bhavya-chowdary)
 - [Venkatesh P](https://github.com/offlvenkatesh)
+- [FekherS](https://github.com/FekherS)
 - My First Contro
 - [Arpit Tak](https://github.com/arpittak027)
 - [Saniya Kanwal](https://github.com/Saniyakanwal)
@@ -37,6 +41,7 @@
 - [Arthur Cavalcante](https://github.com/Linsarthur)
 - [Gopalakrishnan](https://github.com/gobeecode)
 - [Apurva Vats](https://github.com/apurvavats)
+-
 - [TRISHIT BODKHE](https://github.com/trishit726)
 - [Fenton](https://github.com/FentonFrancis)
 - [Reilly Davis](https://github.com/reillyblair81)
@@ -65,6 +70,7 @@
 - [HariRaju](https://github.com/HariSivaraj)
 - [Kamal pandi V](https://github.com/kamalpandi)
 - [Vimal Bisht](https://github.com/VimalBisht2021)
+- [Olowonyo Umar Ololade](https://github.com/Umarpython001)
 - [Harvin Zapata](https://github.com/HarvinZapata)
 - [Jamale SLEIMAN]
 - [Charu Singhania](https://github.com/Aruniaaa/Aruniaaa)
@@ -177,6 +183,7 @@ Piyush Sharma
 - [Ayoub Ben Aissa](https://github.com/Frontier101)
 - [Nsiru Williams](https://github.com/Cokekoro)
 - [Priyeash Bala](https://github.com/priyeashbala)
+- [Ganesh Gadhave](https://github.com/ganeshygadhave)
 - [smriti jha](https://github.com/jha-smriti)
 - Madhan Pokharel
 - [Nishita Kashyap](https://github.com/nishitakashyap)
@@ -274,6 +281,7 @@ Piyush Sharma
 - [Mayank Kashyap](https://github.com/oneglitchx)
 - [Aman Gupta](https://github.com/aman-devx)
 - [Sowo R](https://github.com/sowo5)
+- Ryder Paredes
 - [vipul]
 - [cogitobyte]
 - [PB](https://github.com/PierreBatikh)
@@ -283,6 +291,7 @@ Piyush Sharma
 - [Tudor Gradinaru](https://github.com/TudorGR)
 - [Pushkar Sabe](https://github.com/pushkarsabe)
 - [CheriBerry77](https://github.com/CheriBerry77)
+- [Harsha,Ace95](https://github.com/Ace-095/first-contributions)
 - [Jonathan Scott](https://github.com/Hatonjan)
 - [Henok Birhanu](https://github.com/enoch-B)
 - [Kulani Manganyi-John](https://github.com/Kulani-MM)
@@ -351,6 +360,7 @@ Piyush Sharma
 - [pujala_jayashankar](https://github.com/PujalaJayaSankar)
 - [Aman Bajpai](https://github.com/Aman-bajpai)
 - [Vaishnavi Suryawanshi](https://github.com/VaishnaviSW01)
+- [Kotyara5243](https://github.com/Kotyara5243)
 - [deepak mishra](https://github.com/BEPAWSITIVE)
 - [Caleb Fan](https://github.com/Gazfang)
 - [Anandajith S](https://github.com/AnandajithS)
@@ -681,6 +691,7 @@ Piyush Sharma
 - [yashpr349](https://github.com/yashpr349)
 - [Aaron Lee](https://github.com/acelee0621)
 - [Abdul Basit](https://github.com/abdulawr)
+- [Khushi] 
 - [HaidarAbbas](https://github.com/Haidarabbas731)
 - [Adam Moria](https://github.com/aabro1325)
 - [Ahmed Fikri](https://github.com/Fikri-20)
@@ -733,6 +744,7 @@ Piyush Sharma
 - [Harrison Noe](https://github.com/harr-3d)
   -abhishektumula(https://github.com/abhishektumula)
 - [Harsh Kaushik](https://github.com/hrk022)
+- [Esteban Cortés Mora](https://github.com/eacortesm)
 - [Harsh Singh](https://github.com/singhharsh29)
 - [HighPoly](https://github.com/HighPolygon)
 - [VishnuPriyaSingamReddy](https://github.com/VishnuPriyaSingamReddy) -[Ritu Raj](https://github.com/Ritu14012004)
@@ -1598,6 +1610,7 @@ Piyush Sharma
 - [Yahya Fazeli](https://github.com/yahyafazeli)
 - [nyinyi zin](https://github.com/nyinyizin-dev)
 - [rishabh1024](https://github.com/rishabh1024/)
+- [Bailey Kupisiewicz](https://github.com/RyderDaniels)
 - [sajad thapa](https://github.com/sajadthapa04)
 - [ALOK YADAV](https://github.com/CODEBRAKERBOYY)
 - [ARYAN BHATT](https://github.com/aryanbhatt767)
@@ -2271,3 +2284,11 @@ Piyush Sharma
 - [Krupa Patel](https://github.com/krupapatel7193)
 - [Harshit Baliyan](https://github.com/Harsh7817)
 - [Minal Prasad](https://github.com/minalprasad08)
+- [Piyush Mishra](https://github.com/PiyushMishra009)
+- [hahaysh](https://github.com/hahaysh)
+- [Anuska](https://github.com/anuskadalal)
+- [Aurora](https://github.com/Auroral-not) Hello,I am aurora
+- [Rafael](https://github.com/RAFAELREYESMACH) 
+- [SirishaDuba](https://github.com/SirishaDuba)
+- [Vishal](https://github.com/VISHAL-099)Hey,I am vishal
+-[Boru Mohamed](https://github.com/Ratim001)
