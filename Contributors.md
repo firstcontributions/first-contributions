@@ -2273,11 +2273,11 @@ Piyush Sharma
 - [Arpit Baliyan](https://github.com/ArpitBaliyan26)
 - [Garvit Sachdeva](https://github.com/garvitsachdevaa)
 - [sakshi drolia](https://github.com/droliasakshi12/)
--[Harithra R](https://github.com/rharithra)
+- [Harithra R](https://github.com/rharithra)
 - [Shnepst Sergey](https://github.com/sergeyshnepst)
 - [Olim Fathulloev](https://github.com/alim7007)
 - [Param Trimbake](https://github.com/param3026)
-[Silver592](https://github.com/silver592)
+- [Silver592](https://github.com/silver592)
 - [Chang Zee](https://github.com/kryptik03)
 - [Krupa Patel](https://github.com/krupapatel7193)
 - [Harshit Baliyan](https://github.com/Harsh7817)
@@ -2287,3 +2287,4 @@ Piyush Sharma
 - [Anuska](https://github.com/anuskadalal)
 - [Aurora](https://github.com/Auroral-not) Hello,I am aurora
 - [Rafael](https://github.com/RAFAELREYESMACH) 
+- [Gagandeep Singh] (https://github.com/GagandeepSingh-codes)
