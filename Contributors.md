@@ -2123,6 +2123,7 @@
 - [Mohamed Ibrahim](https://github.com/ibrahim307le)
 - [Shubham Gupta](https://github.com/DancingPeacock-31)
 - [Randomints](https://github.com/randomints) - why do all the little messages have "" around them? also i use nvim btw
+- [Tom Fardell](https://github.com/TomFardell)
 - [Mohamed Ibrahim](https://github.com/ibrahim307le)
 - [Lokesh Janga](https://github.com/Lokeshjanga) - 'This looks like a Dopamine iykyk'
 - [Hesham Omar](https://github.com/heshamoomar)
