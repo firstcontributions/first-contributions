@@ -1,4 +1,5 @@
 # Contributors
+- [paras](https://github.com/paras2003gupta) Hurray no.1
 - [kaboombastic](https://github.com/kaboombastic) I must not fear, fear is the mind killer. 
 - [Saroj Kushwaha](https://github.com/SrjKshwh) 
 - [Baljit Panda](https://github.com/velixcode)
