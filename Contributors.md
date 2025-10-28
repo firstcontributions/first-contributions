@@ -29,6 +29,7 @@
 - [APURVA](https://github.com/apurva1435)
 - [ISHAN CHAUHAN] (https://github.com/Ishan-Chauhan)
 - [PARNIKA C](https://github.com/parnikachoudhary)
+- [practicagit123](github.com/practicagit123)
 - [AnshMeshram](https://github.com/AnshMeshram)
 - [Sonali Dutta](https://github.com/SonaliDutta-Dev)
 - [Supra](https://github.com/supraik)
