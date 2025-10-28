@@ -16,6 +16,7 @@
 - [Narmin İbrahimova](https://github.com/Narminibrahimova)
 - [Goncalo Lopes](https://github.com/GoncaloLopes96)
 - [Hello World!](getting-started-with-open-source)
+- [Sudarshan Bhattarai](https://github.com/Dev-Sudarshan)
 - [Szilveszter Szep](https://github.com/szepszilo)
 - [Parth Narkar](https://github.com/parthnarkar)
 - [Sai Fasalkar](https://github.com/brickb527)
