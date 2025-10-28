@@ -2,6 +2,7 @@
 - [paras](https://github.com/paras2003gupta) Hurray no.1
 - [kaboombastic](https://github.com/kaboombastic) I must not fear, fear is the mind killer. 
 - [Apurv-01](https://github.com/Apurv-01)
+- [Syed Muhammad Hussain Naqvi](https://github.com/smhnaqvi)
 - [Riddhi Shah] (https://github.com/riidefined)
 - [Saroj Kushwaha](https://github.com/SrjKshwh) 
 - [Aniket Ghorpade] (https://github.com/Aniketghorpade7)
