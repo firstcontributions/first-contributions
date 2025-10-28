@@ -1,6 +1,7 @@
 # Contributors
-- [kaboombastic](https://github.com/kaboombastic) I must not fear, fear is the mind killer. 
-- [Saroj Kushwaha](https://github.com/SrjKshwh) 
+
+- [kaboombastic](https://github.com/kaboombastic) I must not fear, fear is the mind killer.
+- [Saroj Kushwaha](https://github.com/SrjKshwh)
 - [Baljit Panda](https://github.com/velixcode)
 - [Vishal Singh](https://github.com/ILUCIFER0069)
 - [Abhinav Piratla](https://github.com/abhinav9558)
@@ -47,6 +48,7 @@
 - [Prabin Panta](https://github.com/prabinpanta0)
 - [Krsna Sirohi](https://github.com/krsnasirohi)
 - [limay tidke](https://github.com/limaytidke)
+- [Anoop Krishna](https://github.com/Anoop-2752)
 - [Pooraka Hasendra](https://github.com/Pooraka)
 - [Jaeyoon Keum](https://github.com/jaeyoon882)
 - [Jeremy Newman](https://github.com/jeremynewman)
@@ -76,7 +78,7 @@
 - [Michael Pugh](https://github.com/icefire1191)
 - [Rishabh Bansal](https://github.com/RishabhBansal22/)
 - [Nisarg Gandhi](https://github.com/Nisarg0007)
-Piyush Sharma
+  Piyush Sharma
 - [Zhumagulov Zhakyp](https://github.com/zhumagulovv)
 - [Mahendra Kumar Sahu](https://github.com/mahi-in9)
   Prasit Sung -[Esha Bajaj](https://github.com/EshaBajaj)
@@ -689,7 +691,7 @@ Piyush Sharma
 - [yashpr349](https://github.com/yashpr349)
 - [Aaron Lee](https://github.com/acelee0621)
 - [Abdul Basit](https://github.com/abdulawr)
-- [Khushi] 
+- [Khushi]
 - [HaidarAbbas](https://github.com/Haidarabbas731)
 - [Adam Moria](https://github.com/aabro1325)
 - [Ahmed Fikri](https://github.com/Fikri-20)
@@ -2272,12 +2274,11 @@ Piyush Sharma
 - [Pavan Sai Santhosh](https://github.com/2400030303)
 - [Arpit Baliyan](https://github.com/ArpitBaliyan26)
 - [Garvit Sachdeva](https://github.com/garvitsachdevaa)
-- [sakshi drolia](https://github.com/droliasakshi12/)
--[Harithra R](https://github.com/rharithra)
+- [sakshi drolia](https://github.com/droliasakshi12/) -[Harithra R](https://github.com/rharithra)
 - [Shnepst Sergey](https://github.com/sergeyshnepst)
 - [Olim Fathulloev](https://github.com/alim7007)
 - [Param Trimbake](https://github.com/param3026)
-[Silver592](https://github.com/silver592)
+  [Silver592](https://github.com/silver592)
 - [Chang Zee](https://github.com/kryptik03)
 - [Krupa Patel](https://github.com/krupapatel7193)
 - [Harshit Baliyan](https://github.com/Harsh7817)
@@ -2286,4 +2287,4 @@ Piyush Sharma
 - [hahaysh](https://github.com/hahaysh)
 - [Anuska](https://github.com/anuskadalal)
 - [Aurora](https://github.com/Auroral-not) Hello,I am aurora
-- [Rafael](https://github.com/RAFAELREYESMACH) 
+- [Rafael](https://github.com/RAFAELREYESMACH)
