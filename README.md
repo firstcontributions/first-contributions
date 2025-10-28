@@ -90,7 +90,15 @@
 
 # First Contributions
 
-This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
+Welcome to the **First Contributions** project!
+This repository is a beginner-friendly guide that helps you learn how to contribute to open source projects — step by step.
+
+Our goal is to make your first contribution simple, smooth, and fun.
+You’ll learn the complete process — from forking a repository to creating your first pull request.
+If you’ve never contributed before, don’t worry — every step is explained clearly and visually so you can follow along easily.
+
+Join thousands of new developers around the world who made their first open-source contribution through this project.
+Follow the steps below and start your open-source journey today
 
 _If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
 
