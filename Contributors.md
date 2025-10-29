@@ -2268,6 +2268,7 @@
 - [Bhavesh Bhat](https://github.com/bhavesh0001)
 - [Aditi Garg](https://github.com/aditigarg17)
 - [Atik Bagwan](https://github.com/AtikBagwan00)
+- [Slava Sliesar](https://github.com/SlavaS98)
 - [Piyali Ghosh](https://github.com/Piyali439)
 - [Bobby Kumar](https://github.com/ydvbobby)
 - [Eric Bennett](https://github.com/ebsec159)
