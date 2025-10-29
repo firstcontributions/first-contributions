@@ -17,6 +17,7 @@
 - [Tosh Gitonga](https://github.com/ToshGitonga0)
 - [Deeksha S](https://github.com/404notDeeksha)
 - [Pooja Patel](https://github.com/PoojasPatel013)
+- [Harsh Chafle](https://github.com/Harshchafle)
 - [Indrajith N](https://github.com/IndrajithN06)
 - [Roman Shubin](https://github.com/romanrocks4)
 - [Narmin İbrahimova](https://github.com/Narminibrahimova)
