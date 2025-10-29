@@ -2265,6 +2265,7 @@
 - [Ivanzhuu](https://github.com/JJchess/)
 - [MohithN](https://github.com/MohithN007/)
 - [yousuf_wizdan](https://github.com/Yousuf-Wizdan)
+- [Ali Al Fattouhi Al Jundi](https://github.com/alialfattoa)
 - [Alekhya Reddy](https://github.com/alekhyareddy135)
 - [Ajitesh_Sophat](https://github.com/Omega-sc)
 - [Samuel Liang](https://github.com/samliaitwork-hub)
