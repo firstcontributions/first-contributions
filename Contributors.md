@@ -2,6 +2,7 @@
 
 - [kaboombastic](https://github.com/kaboombastic) I must not fear, fear is the mind killer.
 - [Apurv-01](https://github.com/Apurv-01)
+- [Vraddhi Chakrapan](www.linkedin.com/in/vraddhi-chakrapani)
 - [Syed Muhammad Hussain Naqvi](https://github.com/smhnaqvi)
 - [Karina Suhajda](https://github.com/SlyFoxAhri/)
 - [Riddhi Shah] (https://github.com/riidefined)
@@ -49,6 +50,7 @@
 - [Abhishek Goyal ](https://github.com/Abhishek445566)hello my name is abhishek
 - [Smaran](https://github.com/ryder34)
 - [Akhil Sharma](https://github.com/AkhilSharma11681)
+- [Alok KUmar] 
 - [AbhishekSaini](https://github.com/Upiottxat)
 - [Himabindu](https://github.com/himabindu-1614)
 - [Ashutosh](https://github.com/ashutosh-moharana)
@@ -2332,6 +2334,7 @@
 - [Shradha](https://github.com/setusher)
 - [chitransh panwar](https://github.com/Chitransh-Panwar)
 - [Riya verma](https://github.com/Riyaverma2)
+- [Abderahim Moja](https://github.com/Rdog69)
 - [Khan Kaif](https://github.com/kaifkhan-coder)
 - [Ayushi18457](https://github.com/Ayushi18457)
 - [Jafir Anjum](https://github.com/programmer-jafir)
@@ -2342,3 +2345,5 @@
 - [Savage Tea](https://github.com/Savage-Tea)
 - [Utkarsh Sahay](https://www.youtube.com/watch?v=2do4WZ0e8UU&t=1s)
 - [Andyvir Rapanot](https://github.com/ADRapanot)
+- [Suraj Poddar](https://github.com/ErenDluffy)
+- [Rohan Gautam](https://github.com/Rohan-Gautam)
