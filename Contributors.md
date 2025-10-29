@@ -1,5 +1,5 @@
 # Contributors
-
+- [akinator64000](https://github.com/akinator64000)
 - [kaboombastic](https://github.com/kaboombastic) I must not fear, fear is the mind killer.
 - [Apurv-01](https://github.com/Apurv-01)
 - [Vraddhi Chakrapan](www.linkedin.com/in/vraddhi-chakrapani)
@@ -322,6 +322,7 @@
 - [Henok Birhanu](https://github.com/enoch-B)
   Nagesh Gujarathi
 - [Kulani Manganyi-John](https://github.com/Kulani-MM)
+- [Leon Kong](https://github.com/kchleon)
 - [sulmanfarooqq](https://github.com/sulmanfarooqq)
 - [muhammed](https://github.com/muhammed048)
 - [Montad-24](https://github.com/Montad-24)
@@ -2336,6 +2337,7 @@
 - [Riya verma](https://github.com/Riyaverma2)
 - [Abderahim Moja](https://github.com/Rdog69)
 - [Khan Kaif](https://github.com/kaifkhan-coder)
+- [Aditya Dokrimare] (https://github.com/AdityaDokrimare)
 - [Ayushi18457](https://github.com/Ayushi18457)
 - [Jafir Anjum](https://github.com/programmer-jafir)
 - [Rafia Minhaj](https://github.com/rafiaminhaj)
@@ -2350,4 +2352,7 @@
 - [test]
 - [Pogiri Manideep Naidu](https://github.com/Manideep-Eli)
 - [Debora Silva] (https://github.com/psylockeh)
+- [Bear7066](https://github.com/bear7066)
 - [test]
+- - [Mohini Kamlakar Daf](https://github.com/mohinidaf)
+- [Varad Potdar](https://github.com/VaradPotdar18)
