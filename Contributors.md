@@ -1,7 +1,9 @@
 # Contributors
+
 - [akinator64000](https://github.com/akinator64000)
 - [kaboombastic](https://github.com/kaboombastic) I must not fear, fear is the mind killer.
 - [Apurv-01](https://github.com/Apurv-01)
+- [Sarang Patel](https://github.com/Sarang-Patel/)
 - [Vraddhi Chakrapan](www.linkedin.com/in/vraddhi-chakrapani)
 - [Syed Muhammad Hussain Naqvi](https://github.com/smhnaqvi)
 - [Karina Suhajda](https://github.com/SlyFoxAhri/)
@@ -2356,7 +2358,7 @@
 - [test]
 - [Pogiri Manideep Naidu](https://github.com/Manideep-Eli)
 - [Debora Silva] (https://github.com/psylockeh)
-Hey I'm Aryan Mahendru just contributing into it, for count!!! 
+  Hey I'm Aryan Mahendru just contributing into it, for count!!!
 - [Bear7066](https://github.com/bear7066)
 - [test]
 - - [Mohini Kamlakar Daf](https://github.com/mohinidaf)
