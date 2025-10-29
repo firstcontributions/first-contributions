@@ -405,6 +405,7 @@
 - [Saad Rouyass](https://github.com/saadRouyass/)
 - [Ashutosh](https://github.com/Ashutosh9470)
 - [Leonardo Garzon](https://github.com/Leonardo-Garzon-1995)
+- [technologic-technologic](https://github.com/technologic-technologic)
 - [Shubhanshu](https://github.com/shbhansh66)
 - [Sarvs](https://github.com/randoduck)
 - [Oliyad Zelalem](https://github.com/ozimmortal)
