@@ -1,8 +1,14 @@
 # Contributors
-- [kaboombastic](https://github.com/kaboombastic) I must not fear, fear is the mind killer. 
-- [Saroj Kushwaha](https://github.com/SrjKshwh) 
+
+- [kaboombastic](https://github.com/kaboombastic) I must not fear, fear is the mind killer.
+- [Apurv-01](https://github.com/Apurv-01)
+- [Syed Muhammad Hussain Naqvi](https://github.com/smhnaqvi)
+- [Karina Suhajda](https://github.com/SlyFoxAhri/)
+- [Riddhi Shah] (https://github.com/riidefined)
+- [Saroj Kushwaha](https://github.com/SrjKshwh)
+- [Aniket Ghorpade] (https://github.com/Aniketghorpade7)
 - [likithaa ponnuru](https://github.com/likithaa01)
-- [Ankit Kumar](https://github.com/erankitkr011) 
+- [Ankit Kumar](https://github.com/erankitkr011)
 - [Baljit Panda](https://github.com/velixcode)
 - [Vishal Singh](https://github.com/ILUCIFER0069)
 - [Abhinav Piratla](https://github.com/abhinav9558)
@@ -16,6 +22,7 @@
 - [Narmin İbrahimova](https://github.com/Narminibrahimova)
 - [Goncalo Lopes](https://github.com/GoncaloLopes96)
 - [Hello World!](getting-started-with-open-source)
+- [Sudarshan Bhattarai](https://github.com/Dev-Sudarshan)
 - [Szilveszter Szep](https://github.com/szepszilo)
 - [Parth Narkar](https://github.com/parthnarkar)
 - [Sai Fasalkar](https://github.com/brickb527)
@@ -25,16 +32,15 @@
 - [APURVA](https://github.com/apurva1435)
 - [ISHAN CHAUHAN] (https://github.com/Ishan-Chauhan)
 - [PARNIKA C](https://github.com/parnikachoudhary)
+- [practicagit123](github.com/practicagit123)
 - [AnshMeshram](https://github.com/AnshMeshram)
 - [Sonali Dutta](https://github.com/SonaliDutta-Dev)
-- [Supra](https://github.com/supraik)
--[Bhavya sri Athukuri](https://github.com/Bhavya-chowdary)
+- [Supra](https://github.com/supraik) -[Bhavya sri Athukuri](https://github.com/Bhavya-chowdary)
 - [Venkatesh P](https://github.com/offlvenkatesh)
 - [FekherS](https://github.com/FekherS)
 - My First Contro
 - [AINN](https://github.com/ainthrmo)
 - [Arpit Tak](https://github.com/arpittak027)
-- [Saniya Kanwal](https://github.com/Saniyakanwal)
 - [Gajjela Vasudev](https://github.com/GajjelaVasudev)
 - [Hemanth](https://github.com/gvshemanth30034)
 - [Harsha](https://github.com/Born-as-Harsha)
@@ -47,7 +53,8 @@
 - [Arthur Cavalcante](https://github.com/Linsarthur)
 - [Gopalakrishnan](https://github.com/gobeecode)
 - [Apurva Vats](https://github.com/apurvavats)
--
+- [Satyam Kumar Rai](https://github.com/satyam-skr)
+- [Franklin Ma](https://github.com/franklinma-git)
 - [TRISHIT BODKHE](https://github.com/trishit726)
 - [Fenton](https://github.com/FentonFrancis)
 - [Reilly Davis](https://github.com/reillyblair81)
@@ -80,14 +87,17 @@
 - [Harvin Zapata](https://github.com/HarvinZapata)
 - [Jamale SLEIMAN]
 - [Charu Singhania](https://github.com/Aruniaaa/Aruniaaa)
+- [Ishika Jindal]
 - [Michael Pugh](https://github.com/icefire1191)
 - [Rishabh Bansal](https://github.com/RishabhBansal22/)
 - [Nisarg Gandhi](https://github.com/Nisarg0007)
-Piyush Sharma
+- [Hayden D'Souza](https://github.com/haydenfd/)
+- Piyush Sharma
+- [paras Gupta](https://github.com/paras2003gupta)
 - [Zhumagulov Zhakyp](https://github.com/zhumagulovv)
 - [Mahendra Kumar Sahu](https://github.com/mahi-in9)
 - [Vaishnavi Rajawat] (https://github.com/Vaishnavi09099)
-  Prasit Sung -[Esha Bajaj](https://github.com/EshaBajaj)
+- Prasit Sung -[Esha Bajaj](https://github.com/EshaBajaj)
 - [Jaykumar Landge](https://github.com/jayk1881)
 - [Prince Kumar](https://github.com/princeDevelops)
 - [Soumil Juneja](cant make a tomlette without breaking some greggs)
@@ -305,7 +315,7 @@ Piyush Sharma
 - [Harsha,Ace95](https://github.com/Ace-095/first-contributions)
 - [Jonathan Scott](https://github.com/Hatonjan)
 - [Henok Birhanu](https://github.com/enoch-B)
-Nagesh Gujarathi
+  Nagesh Gujarathi
 - [Kulani Manganyi-John](https://github.com/Kulani-MM)
 - [sulmanfarooqq](https://github.com/sulmanfarooqq)
 - [muhammed](https://github.com/muhammed048)
@@ -668,6 +678,7 @@ Nagesh Gujarathi
   https://www.youtube.com/watch?v=2do4WZ0e8UU&list=PLTV_nsuD2lf4hfQvqKRToCXtVB7-6rZnz&index=5
 - [elijah](https://github.com/elijahladdie)
 - [Gotchumon](https://github.com/Gotchumon)
+
 - [enguy-hub](https://github.com/enguy-hub)
 - [headboot](https://github.com/headboot)
 - [ronaldmirabal](https://github.com/ronaldmirabal)
@@ -704,7 +715,7 @@ Nagesh Gujarathi
 - [yashpr349](https://github.com/yashpr349)
 - [Aaron Lee](https://github.com/acelee0621)
 - [Abdul Basit](https://github.com/abdulawr)
-- [Khushi] 
+- [Khushi]
 - [HaidarAbbas](https://github.com/Haidarabbas731)
 - [Adam Moria](https://github.com/aabro1325)
 - [Ahmed Fikri](https://github.com/Fikri-20)
@@ -2113,6 +2124,7 @@ Nagesh Gujarathi
 - [Mohamed Ibrahim](https://github.com/ibrahim307le)
 - [Shubham Gupta](https://github.com/DancingPeacock-31)
 - [Randomints](https://github.com/randomints) - why do all the little messages have "" around them? also i use nvim btw
+- [Tom Fardell](https://github.com/TomFardell)
 - [Mohamed Ibrahim](https://github.com/ibrahim307le)
 - [Lokesh Janga](https://github.com/Lokeshjanga) - 'This looks like a Dopamine iykyk'
 - [Hesham Omar](https://github.com/heshamoomar)
@@ -2257,6 +2269,7 @@ Nagesh Gujarathi
 - [Bhavesh Bhat](https://github.com/bhavesh0001)
 - [Aditi Garg](https://github.com/aditigarg17)
 - [Atik Bagwan](https://github.com/AtikBagwan00)
+- [Slava Sliesar](https://github.com/SlavaS98)
 - [Piyali Ghosh](https://github.com/Piyali439)
 - [Bobby Kumar](https://github.com/ydvbobby)
 - [Eric Bennett](https://github.com/ebsec159)
@@ -2290,11 +2303,12 @@ Nagesh Gujarathi
 - [Arpit Baliyan](https://github.com/ArpitBaliyan26)
 - [Garvit Sachdeva](https://github.com/garvitsachdevaa)
 - [sakshi drolia](https://github.com/droliasakshi12/)
--[Harithra R](https://github.com/rharithra)
+- [Harithra R](https://github.com/rharithra)
 - [Shnepst Sergey](https://github.com/sergeyshnepst)
 - [Olim Fathulloev](https://github.com/alim7007)
 - [Param Trimbake](https://github.com/param3026)
-[Silver592](https://github.com/silver592)
+  [Silver592](https://github.com/silver592)
+- [Rudra Chauhan]
 - [Chang Zee](https://github.com/kryptik03)
 - [Krupa Patel](https://github.com/krupapatel7193)
 - [Harshit Baliyan](https://github.com/Harsh7817)
@@ -2303,12 +2317,20 @@ Nagesh Gujarathi
 - [hahaysh](https://github.com/hahaysh)
 - [Anuska](https://github.com/anuskadalal)
 - [Aurora](https://github.com/Auroral-not) Hello,I am aurora
-- [Rafael](https://github.com/RAFAELREYESMACH) 
+- [Rafael](https://github.com/RAFAELREYESMACH)
+- [Aditya Pratap Singh](https://github.com/AdityaPratapSingh-eng)
+- [Gagandeep Singh](https://github.com/GagandeepSingh-codes)
 - [SirishaDuba](https://github.com/SirishaDuba)
-- [Vishal](https://github.com/VISHAL-099)Hey,I am vishal
--[Boru Mohamed](https://github.com/Ratim001)
+- [Vishal](https://github.com/VISHAL-099)Hey,I am vishal -[Boru Mohamed](https://github.com/Ratim001)
 - [Akash Dhanwate](https://github.com/Akash-Dhanwate) Hey i am akash , i think you are doing good in you career , dont stop go ahead !!
 - [Bhumil mayani](https://github.com/bhumilmayani12-oss)
 - [Thirugnanasasti](https://github.com/Thirugnanasasti)
 - [Shradha](https://github.com/setusher)
 - [chitransh panwar](https://github.com/Chitransh-Panwar)
+- [Riya verma](https://github.com/Riyaverma2)
+- [Khan Kaif](https://github.com/kaifkhan-coder)
+- [Ayushi18457](https://github.com/Ayushi18457)
+- [Jafir Anjum](https://github.com/programmer-jafir)
+- [Rafia Minhaj](https://github.com/rafiaminhaj)
+- [Cláudia Faria](https://github.com/claudiasfaria) <333
+- [Polar Stingray7](https://github.com/Polarstingray) I was here.
