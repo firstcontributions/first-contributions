@@ -50,7 +50,7 @@
 - [Abhishek Goyal ](https://github.com/Abhishek445566)hello my name is abhishek
 - [Smaran](https://github.com/ryder34)
 - [Akhil Sharma](https://github.com/AkhilSharma11681)
-- [Alok KUmar] 
+- [Alok KUmar]
 - [AbhishekSaini](https://github.com/Upiottxat)
 - [Himabindu](https://github.com/himabindu-1614)
 - [Ashutosh](https://github.com/ashutosh-moharana)
@@ -2349,6 +2349,8 @@
 - [Andyvir Rapanot](https://github.com/ADRapanot)
 - [Suraj Poddar](https://github.com/ErenDluffy)
 - [Rohan Gautam](https://github.com/Rohan-Gautam)
+- [test]
+- [Pogiri Manideep Naidu](https://github.com/Manideep-Eli)
 - [Debora Silva] (https://github.com/psylockeh)
 - [Bear7066](https://github.com/bear7066)
 - [test]
