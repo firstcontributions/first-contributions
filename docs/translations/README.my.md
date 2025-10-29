@@ -27,7 +27,7 @@ Klon repositori yang anda telah fork ke mesin anda. Selepas itu, layari akaun Gi
 
 Buka terminal dan jalankan arahan git berikut:
 
-```
+```bash
 git clone "URL anda baru disalin"
 ```
 di mana "URL anda baru disalin" (tanpa tanda petikan) adalah URL ke repositori ini (fork anda bagi projek ini). Rujuk langkah-langkah sebelumnya untuk mendapatkan URL tersebut.
@@ -35,7 +35,7 @@ di mana "URL anda baru disalin" (tanpa tanda petikan) adalah URL ke repositori i
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 Contoh:
-```
+```bash
 git clone https://github.com/<this-is-you>/first-contributions.git
 ```
 di mana `this-is-you` adalah nama pengguna GitHub anda. Di sini, anda menyalinkan kandungan repositori GitHub 'first-contributions' ke komputer anda.
@@ -44,16 +44,16 @@ di mana `this-is-you` adalah nama pengguna GitHub anda. Di sini, anda menyalinka
 
 Tukar ke direktori repositori pada komputer anda (jika lokasi CLI belum berada di sana):
 
-```
+```bash
 cd first-contributions
 ```
 Sila buat branch menggunakan arahan `git switch`:
-```
+```bash
 git switch -c add-your-name
 ```
 
 Contoh:
-```
+```bash
 git switch -c add-emma-maembong
 ```
 
@@ -68,12 +68,12 @@ Jika anda pergi ke direktori projek dan laksanakan arahan `git status`, anda aka
 
 Tambahkan perubahan itu ke branch yang baru anda cipta menggunakan arahan `git add`:
 
-```
+```bash
 git add Contributors.md
 ```
 
 Selepas itu, komit perubahan tersebut menggunakan arahan `git commit`:
-```
+```bash
 git commit -m "Add <your-name> to Contributors list"
 ```
 menggantikan `<your-name>` dengan nama anda.
@@ -81,7 +81,7 @@ menggantikan `<your-name>` dengan nama anda.
 ## Push perubahan ke dalam GitHub
 
 Tolak perubahan anda menggunakan arahan `git push`:
-```
+```bash
 git push -u origin <add-your-name>
 ```
 menggantikan `<add-your-name>` dengan nama branch yang kamu cipta sebelumnya.
