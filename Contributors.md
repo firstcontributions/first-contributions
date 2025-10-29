@@ -1874,6 +1874,7 @@
 - [Parshuram Singh](https://github.com/parshuramsingh)
 - [JIIL](https://github.com/JIIL07)
 - [Sammy](https://github.com/bigstepperxd)
+- [Ali Dogan]
 - [Wolf Botha](https://github.com/WolfOWI)
 - [Abdullah](https://github.com/AbdullahArafat27)
 - [Sahil](https://github.com/sahilkapase)
