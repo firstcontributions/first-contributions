@@ -21,6 +21,7 @@
 - [Harsh Chafle](https://github.com/Harshchafle)
 - [Indrajith N](https://github.com/IndrajithN06)
 - [Roman Shubin](https://github.com/romanrocks4)
+- [Pragati Gangwar](https://github.com/pragati-gangwar)
 - [Narmin İbrahimova](https://github.com/Narminibrahimova)
 - [Goncalo Lopes](https://github.com/GoncaloLopes96)
 - [Hello World!](getting-started-with-open-source)
