@@ -2326,6 +2326,7 @@
 - [Bhumil mayani](https://github.com/bhumilmayani12-oss)
 - [Thirugnanasasti](https://github.com/Thirugnanasasti)
 - [Shradha](https://github.com/setusher)
+- [chitransh panwar](https://github.com/Chitransh-Panwar)
 - [Riya verma](https://github.com/Riyaverma2)
 - [Khan Kaif](https://github.com/kaifkhan-coder)
 - [Ayushi18457](https://github.com/Ayushi18457)
