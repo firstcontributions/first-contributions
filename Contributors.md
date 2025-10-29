@@ -322,6 +322,7 @@
 - [Henok Birhanu](https://github.com/enoch-B)
   Nagesh Gujarathi
 - [Kulani Manganyi-John](https://github.com/Kulani-MM)
+- [Leon Kong](https://github.com/kchleon)
 - [sulmanfarooqq](https://github.com/sulmanfarooqq)
 - [muhammed](https://github.com/muhammed048)
 - [Montad-24](https://github.com/Montad-24)
