@@ -2350,6 +2350,7 @@
 - [Suraj Poddar](https://github.com/ErenDluffy)
 - [Rohan Gautam](https://github.com/Rohan-Gautam)
 - [Debora Silva] (https://github.com/psylockeh)
+- [Bear7066](https://github.com/bear7066)
 - [test]
 - - [Mohini Kamlakar Daf](https://github.com/mohinidaf)
 - [Varad Potdar](https://github.com/VaradPotdar18)
