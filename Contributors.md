@@ -1360,6 +1360,7 @@
 - [Sudama bera](https://github.com/sudama-bera-3)
 - [Martí Cabañas](https://github.com/cabah24)
 - [Mate Kopaliani](https://github.com/Ka10ken1)
+- [YijieYing](https://github.com/YijieYing)
 - [Mateus Cruz](https://github.com/Mdacruzrego)
 - [Mido](https://github.com/mido2262007-sys112)
 - [Mithielesh N](https://github.com/mithielesh)
