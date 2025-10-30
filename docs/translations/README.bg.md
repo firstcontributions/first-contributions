@@ -30,7 +30,7 @@
 
 Отворете терминал и въведете следната команда
 
-```
+```bash
 git clone "линка който току-що копирахте"
 ```
 като на мястото на  "URL-а който току-що копирахте" (без кавичките) поставете линка към това хранилище (Вашето Разклонение на този проект). Вижте
@@ -38,7 +38,7 @@ git clone "линка който току-що копирахте"
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="копирай URL в клипборда" />
 
 Например:
-```
+```bash
 git clone https://github.com/това-си-ти/first-contributions.git
 ```
 Като на мястото на `това си ти` се намира вашето потребителско име. В тази стъпка вие направихте копие на съдържанието на GitHub хванилището на 'first contributions' във вашия компютър.
@@ -47,16 +47,16 @@ git clone https://github.com/това-си-ти/first-contributions.git
 
 Стигнете до местоположението във вашия компютър, където копирахте хранилището (ако вече не се намирате там):
 
-```
+```bash
 cd first-contributions
 ```
 Сега създайте клон използвайки командата `git switch -c`:
-```
+```bash
 git switch -c <име на новия клон>
 ```
 
 Например:
-```
+```bash
 git switch -c add-alonzo-church
 ```
 (Името на клона не е задължително да съдържа думата *add*, но е препоръчително, защото целта на този клон е да добавите името си към списък.)
@@ -73,12 +73,12 @@ git switch -c add-alonzo-church
 
 ДОбавете тези промени към клона, който създадохте, използвайки командата `git add`:
 
-```
+```bash
 git add Contributors.md
 ```
 
 Сега commit-нете тези промени с командата `git commit`:
-```
+```bash
 git commit -m "Add <svoyeto ime> to Contributors list"
 ```
 като смените `<svoyeto ime>` с вашето име.
@@ -86,7 +86,7 @@ git commit -m "Add <svoyeto ime> to Contributors list"
 ## Качете (Push) промените в GitHub
 
 Качете вашите промени като въведете командата `git push`:
-```
+```bash
 git push origin <добави името на твоя клон>
 ```
 сменяйки `<клон името>` с името на клона, който създадохте по-рано.
