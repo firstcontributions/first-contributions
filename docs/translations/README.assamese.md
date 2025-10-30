@@ -26,7 +26,7 @@
 
 ```bash
 git clone "url you just copied"
-```
+```bash
 
 য'ত "url you just copied" (নাম উদ্ধৃতিহীন) হৈছে এই ৰেপ'জিট'ৰিটোৰ url (এই প্ৰকল্পৰ আপোনাৰ fork)। url পোৱা আগৰ পদক্ষেপসমূহ চাওক।
 
@@ -36,7 +36,7 @@ git clone "url you just copied"
 
 ```bash
 git clone git@github.com:this-is-you/first-contributions.git
-```
+```bash
 
 য'ত this-is-you হৈছে আপোনাৰ GitHub ইউজাৰনেম। ইয়াত আপুনি first-contributions ৰেপ'জিট'ৰিটোৰ বিষয়বস্তু GitHub ৰ পৰা আপোনাৰ কম্পিউটাৰত কপি কৰি থৈছা।
 
@@ -45,20 +45,20 @@ git clone git@github.com:this-is-you/first-contributions.git
 
 ```bash
 cd first-contributions
-```
+```bash
 
 এতিয়া git switch কমাণ্ড ব্যৱহাৰ কৰি এখন শাখা সৃষ্টি কৰক:
 
 ```bash
 git switch -c <আপোনাৰ-নতুন-শাখা-নাম-যোগ-বনাওক>
 
-```
+```bash
 
 উদাহৰণ স্বৰূপে
 
 ```bash
 git switch -c add-alonzo-church
-```
+```bash
 
 <details>
 <summary> <strong>যদি আপুনি git switch ব্যৱহাৰ কৰি কোনো ত্ৰুটি পায়, ইয়াত ক্লিক কৰক:</strong> </summary>
@@ -68,7 +68,7 @@ git switch -c add-alonzo-church
 
 ```bash
 git checkout -b your-new-branch-name
-```
+```bash
 
 </details>
 
@@ -84,14 +84,14 @@ git checkout -b your-new-branch-name
 
 ```bash
 git add Contributors.md
-```
+```bash
 
 এতিয়া সেই পৰিবৰ্তনসমূহ `git commit` কমাণ্ড ব্যৱহাৰ কৰি commit কৰক:
 
 ```bash
 git commit -m "Add <আপোনাৰ-নাম> to Contributors list"
 
-```
+```bash
 
 আপোনাৰ-নাম স্থলৱি দি আপোনাৰ নাম যোগ কৰক:
 
@@ -101,7 +101,7 @@ git commit -m "Add <আপোনাৰ-নাম> to Contributors list"
 
 ```bash
 git push -u origin your-branch-name
-```
+```bash
 
 নিম্নলিখিত কমাণ্ডটো ব্যৱহাৰ কৰক, `your-branch-name` স্থলৱি দি আপোনাৰ শাখাৰ নাম যোগ কৰক:
 
