@@ -1,4 +1,5 @@
 # Contributors
+- [Tulasi Lasya](https://github.com/TulasiLasya)
 -[debora](https://github.com/Debora0Martins)
 -[cy873rr10r](https://github.com/cy873rr10r)
 - [WingtIsc](https://github.com/WingtIsc)
@@ -14,9 +15,9 @@
 - [Syed Muhammad Hussain Naqvi](https://github.com/smhnaqvi)
 - [CYK] (https://github.com/arra-huening77)
 - [Karina Suhajda](https://github.com/SlyFoxAhri/)
-- [Riddhi Shah] (https://github.com/riidefined)
+- [Riddhi Shah](https://github.com/riidefined)
 - [Saroj Kushwaha](https://github.com/SrjKshwh)
-- [Aniket Ghorpade] (https://github.com/Aniketghorpade7)
+- [Aniket Ghorpade](https://github.com/Aniketghorpade7)
 - [likithaa ponnuru](https://github.com/likithaa01)
 - [Ankit Kumar](https://github.com/erankitkr011)
 - [Siran Parwin](https://github.com/Siran-web)
