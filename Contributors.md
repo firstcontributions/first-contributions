@@ -2386,4 +2386,5 @@ Hey I'm Aryan Mahendru just contributing into it, for count!!!
 - [M Gnana Karthik](https://github.com/karthik-248)
 - [Rehan Shaikh](https://github.com/rehan-03)
 - [Akhil Mishra](https://github.com/akhilmishra)
+- [Paramita](https://github.com/sheisparamita)
 
