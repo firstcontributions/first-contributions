@@ -1,4 +1,5 @@
 # Contributors
+
 - [akinator64000](https://github.com/akinator64000)
 - [kaboombastic](https://github.com/kaboombastic) I must not fear, fear is the mind killer.
 - [Richang-Chaudhary](https://github.com/XPE-7)
@@ -50,6 +51,7 @@
 - [Gajjela Vasudev](https://github.com/GajjelaVasudev)
 - [Hemanth](https://github.com/gvshemanth30034)
 - [Harsha](https://github.com/Born-as-Harsha)
+- [MohammadJavad](https://github.com/MohammadJS2642)
 - [Richard Kinyua](https://github.com/vrichie)
 - [Abhishek Goyal ](https://github.com/Abhishek445566)hello my name is abhishek
 - [Smaran](https://github.com/ryder34)
@@ -1071,7 +1073,7 @@
 - [y pavan reddy](https://github.com/ypavanr)
 - [Georgia Pennington](https://github.com/gpenn4)
 - [원세영](https://github.com/seyoung5744)
-- [JJtothemoonNB](https://github.com/o0jayzaza0o) 
+- [JJtothemoonNB](https://github.com/o0jayzaza0o)
 - [Shiva](https://github.com/sh1vananda)
 - [Bluefox192](https://github.com/Bluefox192)
 - [Aadvika Pandey](https://github.com/Addvika)
@@ -2365,16 +2367,15 @@
 - [Farouq Saheed](https://github.com/Farouq03)
 - [Pogiri Manideep Naidu](https://github.com/Manideep-Eli)
 - [Debora Silva] (https://github.com/psylockeh)
-Hey I'm Aryan Mahendru just contributing into it, for count!!! 
+  Hey I'm Aryan Mahendru just contributing into it, for count!!!
 - [Bear7066](https://github.com/bear7066)
 - [test]
 - [Mohini Kamlakar Daf](https://github.com/mohinidaf)
 - [Varad Potdar](https://github.com/VaradPotdar18)
-- [Othmane El Omri](https://github.com/othmane-e) 
+- [Othmane El Omri](https://github.com/othmane-e)
 - [Manjot Singh](https://github.com/Manjot5698)
 - [Marcio Cunha](https://github.com/marcioscunha)
 - [Kalvin Angelito Ang](https://github.com/KalvinAngelitoAng)
 - [Mayank Bisht] (https://github.com/mayank07-cmd)
 - [Suresh] (https://github.com/SureshB2938)
 - [Omprakash](https://github.com/omprakash0702)
-
