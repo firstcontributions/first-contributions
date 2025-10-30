@@ -38,6 +38,7 @@
 - [Pragati Gangwar](https://github.com/pragati-gangwar)
 - [Narmin İbrahimova](https://github.com/Narminibrahimova)
 - [Goncalo Lopes](https://github.com/GoncaloLopes96)
+- [Nelly Mendez](https://github.com/NellyMG09)
 - [Hello World!](getting-started-with-open-source)
 - [Sudarshan Bhattarai](https://github.com/Dev-Sudarshan)
 - [Szilveszter Szep](https://github.com/szepszilo)
