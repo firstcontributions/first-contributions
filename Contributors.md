@@ -2396,4 +2396,5 @@
 - [M Gnana Karthik](https://github.com/karthik-248)
 - [Rehan Shaikh](https://github.com/rehan-03)
 - [Akhil Mishra](https://github.com/akhilmishra)
+- [Aditya Lalwani](https://github.com/Spark8961)
 - [Paramita](https://github.com/sheisparamita)
