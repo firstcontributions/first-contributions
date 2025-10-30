@@ -30,7 +30,7 @@ Sedaj kloniraj ta repository na svoj računalnik. Pojdi v svoj GitHub račun in 
 
 Odpri terminal in se postavi v direktorij, v katerem želiš imeti svojo kopijo repositorya. Nato zaženi naslednji ukaz:
 
-```
+```bash
 git clone "url naslov, ki si ga ravno skopiral"
 ```
 "url naslov, ki si ga ravno skopiral" (brez navednic) je naslov, ki si ga skopiral na Githubu ( naslov tvoje različice projekta ). Glej prejšne korake da dobiš url naslov.
@@ -38,7 +38,7 @@ git clone "url naslov, ki si ga ravno skopiral"
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="kopiraj URL v odložišče" />
 
 Primer:
-```
+```bash
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 `this-is-you` je tvoje GitHub uporabniško ime. Ta ukaz skopira vsebino repositorya "first-contributions" z GitHuba v tvoj računalnik.
@@ -47,16 +47,16 @@ git clone https://github.com/this-is-you/first-contributions.git
 
 Prestavi se v direktorij repositorya na svojem računalniku (če še nisi v njem):
 
-```
+```bash
 cd first-contributions
 ```
 Sedaj ustvari vejo z uporabo ukaza `git checkout`:
-```
+```bash
 git checkout -b <add-your-new-branch-name>
 ```
 
 Primer:
-```
+```bash
 git checkout -b add-janez-novak
 ```
 (Ni potrebno da je v imenu veje *add*, vendar je v tem primeru smiselno, ker je namen veje da dodaš svoje ime na seznam.)
@@ -72,12 +72,12 @@ Odpri datoteko `Contributors.md` v urejevalniku besedila in dodaj svoje ime. Ne 
 
 Dodaj te spremembe veji, ki si jo ravno ustvaril, z ukazom `git add`:
 
-```
+```bash
 git add Contributors.md
 ```
 
 Sedaj izvedi commit teh sprememb z ukazom `git commit`:
-```
+```bash
 git commit -m "Add <your-name> to Contributors list"
 ```
 Zamenjaj `<your-name>` s svojim imenom. Tekst med navednicami je komentar spremembe, ki se shrani s spremembo.
@@ -85,7 +85,7 @@ Zamenjaj `<your-name>` s svojim imenom. Tekst med navednicami je komentar spreme
 ## Pošlji spremembe na GitHub ( Push changes to GitHub )
 
 Pošlji svoje spremembe z ukazom `git push`:
-```
+```bash
 git push origin <add-your-branch-name>
 ```
 Zamenjaj `<add-your-branch-name>` z imenom veje, ki si jo ustvaril.
