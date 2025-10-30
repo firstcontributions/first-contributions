@@ -51,7 +51,7 @@
 - [Gajjela Vasudev](https://github.com/GajjelaVasudev)
 - [Hemanth](https://github.com/gvshemanth30034)
 - [Harsha](https://github.com/Born-as-Harsha)
-- [MohammadJavad](https://github.com/MohammadJS2642)
+- [Mohammad Javad](https://github.com/MohammadJS2642)
 - [Richard Kinyua](https://github.com/vrichie)
 - [Abhishek Goyal ](https://github.com/Abhishek445566)hello my name is abhishek
 - [Smaran](https://github.com/ryder34)
