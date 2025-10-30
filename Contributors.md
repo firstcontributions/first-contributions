@@ -1,8 +1,7 @@
 # Contributors
+
 - [connectwithvanshika](https://github.com/connectwithvanshika)
-- [Tulasi Lasya](https://github.com/TulasiLasya)
--[debora](https://github.com/Debora0Martins)
--[cy873rr10r](https://github.com/cy873rr10r)
+- [Tulasi Lasya](https://github.com/TulasiLasya) -[debora](https://github.com/Debora0Martins) -[cy873rr10r](https://github.com/cy873rr10r)
 - [WingtIsc](https://github.com/WingtIsc)
 - [atharvsalvi](https://github.com/atharvsalvi)
 - [akinator64000](https://github.com/akinator64000)
@@ -233,8 +232,7 @@
 - [Ganesh Gadhave](https://github.com/ganeshygadhave)
 - [smriti jha](https://github.com/jha-smriti)
 - Madhan Pokharel
-- [Nishita Kashyap](https://github.com/nishitakashyap)
--[Jay](https://github.com/Jay25-Git)
+- [Nishita Kashyap](https://github.com/nishitakashyap) -[Jay](https://github.com/Jay25-Git)
 - [FoxMiner](https://github.com/super-fox-miner)
 - [Samarth](https://github.com/Samarth-sk)
 - [Ayaz Khira](https://github.com/AyazKhira-1)
@@ -1087,7 +1085,7 @@
 - [y pavan reddy](https://github.com/ypavanr)
 - [Georgia Pennington](https://github.com/gpenn4)
 - [원세영](https://github.com/seyoung5744)
-- [JJtothemoonNB](https://github.com/o0jayzaza0o) 
+- [JJtothemoonNB](https://github.com/o0jayzaza0o)
 - [Shiva](https://github.com/sh1vananda)
 - [Bluefox192](https://github.com/Bluefox192)
 - [Aadvika Pandey](https://github.com/Addvika)
@@ -2137,6 +2135,7 @@
 - [Md Shakib Hossain](https://github.com/mdshakibhossai)
 - [Holisterfort](https://github.com/Holisterfort)
 - [Aayush Vats](https://github.com/Aayush-0821) - "I'll be the Best coder"
+- [Kevin Tereza](https://github.com/kevinterezadev) - "No, I'll"
 - [Izaiah](https://github.com/Astrogaming057) - "I like dragons <3"
 - [Himanshu ATtri](https://github.com/HimanshuAttri) - "think"
 - [Amir choudhary](https://github.com/Amirchoudhary09)
@@ -2390,7 +2389,7 @@
 - [test]
 - [Mohini Kamlakar Daf](https://github.com/mohinidaf)
 - [Varad Potdar](https://github.com/VaradPotdar18)
-- [Othmane El Omri](https://github.com/othmane-e) 
+- [Othmane El Omri](https://github.com/othmane-e)
 - [Manjot Singh](https://github.com/Manjot5698)
 - [Marcio Cunha](https://github.com/marcioscunha)
 - [Kalvin Angelito Ang](https://github.com/KalvinAngelitoAng)
