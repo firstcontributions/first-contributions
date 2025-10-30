@@ -29,7 +29,7 @@ Teraz stiahni toto úložisko do tvojho zariadenia. Prejdi do tvojho účtu GitH
 
 Otvor terminál a spusti nasledujúci git príkaz:
 
-```
+```bash
 git clone "adresa, ktorú si práve skopíroval"
 ```
 kde "adresa ktorú si práve skopíroval" (bez úvodzoviek) je adresa URL tohto úložiska (tvoja kópia tohto projektu). Pozri si predchádzajúce kroky na získanie adresy URL.
@@ -37,7 +37,7 @@ kde "adresa ktorú si práve skopíroval" (bez úvodzoviek) je adresa URL tohto 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="skopírovať URL do schránky" />
 
 Napríklad:
-```
+```bash
 git clone https://github.com/toto-si-ty/prve-prispevky.git
 ```
 kde `toto-si-ty` je tvoje GitHub užívateľské meno. Tu skopíruješ obsah GitHub úložiska prve-prispevky do tvojho počítača.
@@ -46,16 +46,16 @@ kde `toto-si-ty` je tvoje GitHub užívateľské meno. Tu skopíruješ obsah Git
 
 Prejdi do adresára úložiska v tvojom počítači (ak ešte nie si tam):
 
-```
+```bash
 cd prve-prispevky
 ```
 Teraz vytvor vetvu pomocou príkazu `git checkout`:
-```
+```bash
 git checkout -b <pridaj-meno-tvojej-novej-vetvy>
 ```
 
 Napríklad:
-```
+```bash
 git checkout -b pridaj-ferko-mrkvicka
 ```
 (Názov pobočky nemusí obsahovať slovo * pridaj *, ale je rozumné pridať ho, pretože účelom tejto pobočky je pridať tvoje meno do zoznamu.)
@@ -70,12 +70,12 @@ Ak prejdeš do adresára projektu a vykonáš príkaz `git status`, uvidíš zme
 
 Pridaj tieto zmeny do vetvy, ktorú si práve vytvoril, pomocou príkazu `git add`:
 
-```
+```bash
 git add Contributors.md
 ```
 
 Teraz vykonaj tieto zmeny pomocou príkazu `git commit`:
-```
+```bash
 git commit -m "Pridaj <tvoje-meno> do zoznamu pripievateľov"
 ```
 nahraď `<tvoje-meno>` tvojim menon.
@@ -83,7 +83,7 @@ nahraď `<tvoje-meno>` tvojim menon.
 ## Nahraj zmeny na GitHub
 
 Nahraj svoje zmeny pomocou príkazu `git push`:
-```
+```bash
 git push origin <pridaj-meno-tvojej-novej-vetvy>
 ```
 nahraď `<pridaj-meno-tvojej-novej-vetvy>` názvom vetvy, ktorú si vytvoril skôr.
