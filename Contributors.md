@@ -2358,6 +2358,7 @@
 - [Suraj Poddar](https://github.com/ErenDluffy)
 - [Rohan Gautam](https://github.com/Rohan-Gautam)
 - [test]
+- [Farouq Saheed](https://github.com/Farouq03)
 - [Pogiri Manideep Naidu](https://github.com/Manideep-Eli)
 - [Debora Silva] (https://github.com/psylockeh)
 Hey I'm Aryan Mahendru just contributing into it, for count!!! 
