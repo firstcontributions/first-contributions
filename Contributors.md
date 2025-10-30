@@ -1,4 +1,5 @@
 # Contributors
+- [Rehan Shaikh](https://github.com/rehan-03)
 - [WingtIsc](https://github.com/WingtIsc)
 - [akinator64000](https://github.com/akinator64000)
 - [kaboombastic](https://github.com/kaboombastic) I must not fear, fear is the mind killer.
