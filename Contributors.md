@@ -1696,6 +1696,7 @@
 - [Arindam Dinda](https://github.com/Arindam2003)
 - [Arman Yadav](https://github.com/armaaan-yadav)
 - [Arseniy-Dubovkin](https://github.com/AzartX47)
+- [Decaptado](https://github.com/aaaa560)
 - [Arthur Döhler](https://github.com/herrdohler)
 - [BOUKARI Marfourz](https://github.com/Marfourz)
 - [Balaji Uggina](https://github.com/Balaji-1805)
