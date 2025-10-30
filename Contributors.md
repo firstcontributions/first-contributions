@@ -224,6 +224,7 @@
 - [smriti jha](https://github.com/jha-smriti)
 - Madhan Pokharel
 - [Nishita Kashyap](https://github.com/nishitakashyap)
+-[Jay](https://github.com/Jay25-Git)
 - [FoxMiner](https://github.com/super-fox-miner)
 - [Samarth](https://github.com/Samarth-sk)
 - [Ayaz Khira](https://github.com/AyazKhira-1)
