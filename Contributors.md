@@ -2371,4 +2371,4 @@ Hey I'm Aryan Mahendru just contributing into it, for count!!!
 - [Manjot Singh](https://github.com/Manjot5698)
 - [Marcio Cunha](https://github.com/marcioscunha)
 - [Kalvin Angelito Ang](https://github.com/KalvinAngelitoAng)
-- [Mayank Bisht] (https://github.com/mayank07-cmd)
+- [Mayank Bisht](https://github.com/mayank07-cmd) 
