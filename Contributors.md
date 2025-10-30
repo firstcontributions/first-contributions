@@ -1,4 +1,5 @@
 # Contributors
+- [Kyra (kyrazzx)](https://github.com/kyrazzx)
 - [WingtIsc](https://github.com/WingtIsc)
 - [akinator64000](https://github.com/akinator64000)
 - [kaboombastic](https://github.com/kaboombastic) I must not fear, fear is the mind killer.
@@ -445,7 +446,6 @@
 - [Abin Madathil](https://github.com/abinmadathil)
 - [Prince Yadav](https://github.com/warrior-hub)
 - [Savaj Drashti](https://github.com/SavajDrashti)
-- [Kyra (kyrazzx)](https://github.com/kyrazzx)
 - [premludhanii26-cell](https://github.com/premludhangiii26-cell)
 - [sachinandan yadav](https://github.com/sachinandan-05)
 - [Md Khalid Hasan Ansari]
