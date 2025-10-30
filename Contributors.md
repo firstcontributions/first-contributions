@@ -159,6 +159,7 @@
 - [d31c1de]
 - [Aditya](https://github.com/Aditya-maharshi)
 - [PenguinCre8te](https://https://github.com/PenguinCre8te)
+- [M A](https://github.com/m-a45)
 - [Williumtiwari](https://github.com/Williumtiwari)
 - [DavidValoisMartinez]
 - [Sabirrh](https://github.com/Sabirrh)
