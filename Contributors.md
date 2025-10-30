@@ -17,6 +17,8 @@
 - [Karina Suhajda](https://github.com/SlyFoxAhri/)
 - [Riddhi Shah](https://github.com/riidefined)
 - [Saroj Kushwaha](https://github.com/SrjKshwh)
+- [Aniket Ghorpade] (https://github.com/Aniketghorpade7)
+- [Raul RP] (https://github.com/Howl-Stone)
 - [Aniket Ghorpade](https://github.com/Aniketghorpade7)
 - [likithaa ponnuru](https://github.com/likithaa01)
 - [Ankit Kumar](https://github.com/erankitkr011)
