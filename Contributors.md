@@ -1,5 +1,4 @@
 # Contributors
-- [Rehan Shaikh](https://github.com/rehan-03)
 - [WingtIsc](https://github.com/WingtIsc)
 - [akinator64000](https://github.com/akinator64000)
 - [kaboombastic](https://github.com/kaboombastic) I must not fear, fear is the mind killer.
@@ -2381,4 +2380,5 @@ Hey I'm Aryan Mahendru just contributing into it, for count!!!
 - [Suresh] (https://github.com/SureshB2938)
 - [Omprakash](https://github.com/omprakash0702)
 - [M Gnana Karthik](https://github.com/karthik-248)
+- [Rehan Shaikh](https://github.com/rehan-03)
 
