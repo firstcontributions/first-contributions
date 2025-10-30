@@ -1,5 +1,6 @@
 # Contributors
 - [WingtIsc](https://github.com/WingtIsc)
+- [atharvsalvi](https://github.com/atharvsalvi)
 - [akinator64000](https://github.com/akinator64000)
 - [kaboombastic](https://github.com/kaboombastic) I must not fear, fear is the mind killer.
 - [Richang-Chaudhary](https://github.com/XPE-7)
