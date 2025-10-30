@@ -7,6 +7,7 @@
 - [Richang-Chaudhary](https://github.com/XPE-7)
 - [Apurv-01](https://github.com/Apurv-01)
 - [Vraddhi Chakrapan](www.linkedin.com/in/vraddhi-chakrapani)
+- [prasanth](https://github.com/prasanth-30011)
 - [Syed Muhammad Hussain Naqvi](https://github.com/smhnaqvi)
 - [CYK] (https://github.com/arra-huening77)
 - [Karina Suhajda](https://github.com/SlyFoxAhri/)
