@@ -1,4 +1,5 @@
 # Contributors
+- [Tulasi Lasya](https://github.com/TulasiLasya)
 - [WingtIsc](https://github.com/WingtIsc)
 - [akinator64000](https://github.com/akinator64000)
 - [kaboombastic](https://github.com/kaboombastic) I must not fear, fear is the mind killer.
@@ -7,9 +8,9 @@
 - [Vraddhi Chakrapan](www.linkedin.com/in/vraddhi-chakrapani)
 - [Syed Muhammad Hussain Naqvi](https://github.com/smhnaqvi)
 - [Karina Suhajda](https://github.com/SlyFoxAhri/)
-- [Riddhi Shah] (https://github.com/riidefined)
+- [Riddhi Shah](https://github.com/riidefined)
 - [Saroj Kushwaha](https://github.com/SrjKshwh)
-- [Aniket Ghorpade] (https://github.com/Aniketghorpade7)
+- [Aniket Ghorpade](https://github.com/Aniketghorpade7)
 - [likithaa ponnuru](https://github.com/likithaa01)
 - [Ankit Kumar](https://github.com/erankitkr011)
 - [Siran Parwin](https://github.com/Siran-web)
