@@ -106,6 +106,8 @@
 - [Jamale SLEIMAN]
 - [Charu Singhania](https://github.com/Aruniaaa/Aruniaaa)
 - [Ishika Jindal]
+- [Anuranjan SB](https://github.com/anuranjansb)
+
 - [Michael Pugh](https://github.com/icefire1191)
 - [Rishabh Bansal](https://github.com/RishabhBansal22/)
 - [Nisarg Gandhi](https://github.com/Nisarg0007)
