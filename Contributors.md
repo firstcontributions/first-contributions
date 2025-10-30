@@ -120,7 +120,6 @@
 - [Prince Kumar](https://github.com/princeDevelops)
 - [Soumil Juneja](cant make a tomlette without breaking some greggs)
 - [Anant Kumar Sinha](https://github.com/SoJaoAnant)
-- [Madhur Dodake](https://github.com/Madhur-Dodake)
 - [Tanuj Sharma](https://github.com/tanujsharma911)
 - [Omar Hamdan](https://github.com/omarjrayman23)
 - [Shubhan Gupta](https://github.com/shubham-gupta-2717)
