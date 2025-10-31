@@ -1,7 +1,9 @@
 # Contributors
 
 - [connectwithvanshika](https://github.com/connectwithvanshika)
-- [Tulasi Lasya](https://github.com/TulasiLasya) -[debora](https://github.com/Debora0Martins) -[cy873rr10r](https://github.com/cy873rr10r)
+- [Tulasi Lasya](https://github.com/TulasiLasya)
+- [debora](https://github.com/Debora0Martins)
+- [cy873rr10r](https://github.com/cy873rr10r)
 - [WingtIsc](https://github.com/WingtIsc)
 - [atharvsalvi](https://github.com/atharvsalvi)
 - [akinator64000](https://github.com/akinator64000)
@@ -17,8 +19,8 @@
 - [Karina Suhajda](https://github.com/SlyFoxAhri/)
 - [Riddhi Shah](https://github.com/riidefined)
 - [Saroj Kushwaha](https://github.com/SrjKshwh)
-- [Aniket Ghorpade] (https://github.com/Aniketghorpade7)
-- [Raul RP] (https://github.com/Howl-Stone)
+- [Aniket Ghorpade](https://github.com/Aniketghorpade7)
+- [Raul RP](https://github.com/Howl-Stone)
 - [Aniket Ghorpade](https://github.com/Aniketghorpade7)
 - [likithaa ponnuru](https://github.com/likithaa01)
 - [Ankit Kumar](https://github.com/erankitkr011)
@@ -59,7 +61,7 @@
 - [Supra](https://github.com/supraik) -[Bhavya sri Athukuri](https://github.com/Bhavya-chowdary)
 - [Venkatesh P](https://github.com/offlvenkatesh)
 - [FekherS](https://github.com/FekherS)
-- My First Contro
+- [Gopalakrishnan](https://github.com/gobeecode)
 - [AINN](https://github.com/ainthrmo)
 - [Arpit Tak](https://github.com/arpittak027)
 - [Gajjela Vasudev](https://github.com/GajjelaVasudev)
@@ -74,7 +76,6 @@
 - [Himabindu](https://github.com/himabindu-1614)
 - [Ashutosh](https://github.com/ashutosh-moharana)
 - [Arthur Cavalcante](https://github.com/Linsarthur)
-- [Gopalakrishnan](https://github.com/gobeecode)
 - [Apurva Vats](https://github.com/apurvavats)
 - [Satyam Kumar Rai](https://github.com/satyam-skr)
 - [Franklin Ma](https://github.com/franklinma-git)
