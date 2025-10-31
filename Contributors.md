@@ -4,6 +4,7 @@
 - [ShanSample](https://github.com/sample-s)
 - [connectwithvanshika](https://github.com/connectwithvanshika)
 - [Tulasi Lasya](https://github.com/TulasiLasya)
+- [DevendraNathLimbu](https://github.com/DevendraNathLimbu) first contribution, thank you 
 - [debora](https://github.com/Debora0Martins)
 - [cy873rr10r](https://github.com/cy873rr10r)
 - [WingtIsc](https://github.com/WingtIsc)
