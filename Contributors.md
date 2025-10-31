@@ -2121,6 +2121,7 @@
 - [Kirthi](https://github.com/kirthipranav)
 - [Øystein Håberg](https://github.com/Islandstone89)
 - [ireneo sm](https://github.com/Ireneo23)
+- [Jenny Puranen](https://github.com/puranenjenny)
 - [Nataliia Kulieshova](https://github.com/Kulieshova)
 - [Omotosho David Ayomide](https://github.com/O-Midey)
 - [TranCongHung171](https://github.com/TranCongHung171/2321050068-01)
