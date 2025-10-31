@@ -28,7 +28,7 @@ Seuraavaksi kloonaa juuri forkkaamasi repositorio koneellesi. Mene GitHub käytt
 
 Avaa komentorivi ja syötä seuraava git-komento:
 
-```
+```bash
 git clone "Juuri kopioimasi URL"
 ```
 
@@ -38,7 +38,7 @@ git clone "Juuri kopioimasi URL"
 
 Esimerkiksi:
 
-```
+```bash
 git clone https://github.com/nimesi/first-contributions.git
 ```
 
@@ -48,19 +48,19 @@ Kirjoita GitHub-käyttäjänimesi 'nimesi' teksin sijaan. Tämä komento kopioi 
 
 Mene repositoriosi kansioon koneellasi (ellet jo ole siellä).
 
-```
+```bash
 cd first-contributions
 ```
 
 Seuraavaksi luo branch komennolla `git checkout`:
 
-```
+```bash
 git checkout -b <lisaa-sinun-branchin-nimi>
 ```
 
 Esimerkiksi:
 
-```
+```bash
 git checkout -b add-matti-meikalainen
 ```
 
@@ -76,13 +76,13 @@ Jos menet projektin kansioon ja syötät komennon `git status`, näet muutokset.
 
 Lisää nuo muutokset branchiin `git add` komennolla:
 
-```
+```bash
 git add Contributors.md
 ```
 
 Seuraavaksi committoi muutokset `git commit` komennolla:
 
-```
+```bash
 git commit -m "Add <sinun-nimesi> to Contributors list"
 ```
 
@@ -92,7 +92,7 @@ Korvaamalla `<sinun-nimesi>` nimelläsi.
 
 Pushaa muutoksesi komennolla `git push`:
 
-```
+```bash
 git push origin <lisaa-branchisi-nimi>
 ```
 
