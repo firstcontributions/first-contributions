@@ -1,11 +1,11 @@
 # Contributors
 
-- [John Cena](https://github.com/johnproha) 
+- [John Cena](https://github.com/johnproha)
 - [Ankan Roy](https://github.com/AnkanJU)
 - [Shahinsha](https://github.com/ShahinshaShahinu)
 - [connectwithvanshika](https://github.com/connectwithvanshika)
 - [Tulasi Lasya](https://github.com/TulasiLasya)
-- [DevendraNathLimbu](https://github.com/DevendraNathLimbu) first contribution, thank you 
+- [DevendraNathLimbu](https://github.com/DevendraNathLimbu) first contribution, thank you
 - [debora](https://github.com/Debora0Martins)
 - [cy873rr10r](https://github.com/cy873rr10r)
 - [WingtIsc](https://github.com/WingtIsc)
@@ -14,7 +14,7 @@
 - [kaboombastic](https://github.com/kaboombastic) I must not fear, fear is the mind killer.
 - [Richang-Chaudhary](https://github.com/XPE-7)
 - [2kEleven](https://github.com/2kEleven)
-- [Remy](https://github.com/Remi561) First contribution 
+- [Remy](https://github.com/Remi561) First contribution
 - [sai](https://github.com/sai-30624)
 - [Emre Zeyrek](https://github.com/emre-zeyrek)
 - [Apurv-01](https://github.com/Apurv-01)
@@ -89,6 +89,7 @@
 - [Smaran](https://github.com/ryder34)
 - [Akhil Sharma](https://github.com/AkhilSharma11681)
 - [Alok KUmar]
+- [Mahnsi Ruparelia](https://github.com/mahnsi)
 - [AbhishekSaini](https://github.com/Upiottxat)
 - [Himabindu](https://github.com/himabindu-1614)
 - [Ashutosh](https://github.com/ashutosh-moharana)
