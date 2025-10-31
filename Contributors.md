@@ -2241,6 +2241,7 @@
 - [Haydn](https://github.com/Haydn-Y) Just a baby coder practicing some git
 - [Vivek Chandra Reddy](https://github.com/VivekGaddam/)
 - [Camillo Ballani](https://github.com/cballaniFuturisten/)
+- [Erio G](https://github.com/eriogt88www/)
 - [Fern060](https://github.com/fern060)
 - [JJDDMZ](https://github.com/JJDDMZ)
 - [dggogy](https://github.com/dggogy)
