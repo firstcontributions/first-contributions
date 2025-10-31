@@ -4,7 +4,7 @@
 - [ShanSample](https://github.com/sample-s)
 - [connectwithvanshika](https://github.com/connectwithvanshika)
 - [Tulasi Lasya](https://github.com/TulasiLasya)
-- [DevendraNathLimbu](https://github.com/DevendraNathLimbu) first contribution, thank you 
+- [DevendraNathLimbu](https://github.com/DevendraNathLimbu) first contribution, thank you
 - [debora](https://github.com/Debora0Martins)
 - [cy873rr10r](https://github.com/cy873rr10r)
 - [WingtIsc](https://github.com/WingtIsc)
@@ -32,6 +32,7 @@
 - [Siran Parwin](https://github.com/Siran-web)
 - [Baljit Panda](https://github.com/velixcode)
 - [Satish Singh](https://github.com/isatishsingh)
+- [Harikrishnan R](https://github.com/Pixelrick420)
 - [Vishal Singh](https://github.com/ILUCIFER0069)
 - [Abhinav Piratla](https://github.com/abhinav9558)
 - [Shivaji Thattikota](https://github.com/shivajit410)
@@ -65,7 +66,7 @@
 - [PARNIKA C](https://github.com/parnikachoudhary)
 - [Suggu Varada Raju](https://github.com/rajucreate)
 - [Ch Manikanta Abhiram](https://github.com/abhiramch018)
-- [Atmakuri Dhanush](https://github.com/ATMAKURIDHANUSH33102) 
+- [Atmakuri Dhanush](https://github.com/ATMAKURIDHANUSH33102)
 - [practicagit123](github.com/practicagit123)
 - [AnshMeshram](https://github.com/AnshMeshram)
 - [Sonali Dutta](https://github.com/SonaliDutta-Dev)
@@ -2430,9 +2431,7 @@
 - [Nigamananda Behera](https://github.com/nigmu)
 - [JuanMtn](https://github.com/JuanMtn07)
 - [Randy Saul Sanchez](https://github.com/randysaul)
-- [Abhyudaya Vasisht](https://github.com/rgabhi2526)
--[vardhan naidu](https://github.com/vardhan30016)
+- [Abhyudaya Vasisht](https://github.com/rgabhi2526) -[vardhan naidu](https://github.com/vardhan30016)
 - [Ramsai Polisetti](https://github.com/RamsaiPolisetti)
 - [ Rohit OJha ]
-- [lim li jing](https://github.com/limlijing)
--[Deepanshu sharma](https://github.com/thepanshu45)
+- [lim li jing](https://github.com/limlijing) -[Deepanshu sharma](https://github.com/thepanshu45)
