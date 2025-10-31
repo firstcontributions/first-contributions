@@ -1,9 +1,11 @@
 # Contributors
 
+- [John Cena](https://github.com/johnproha) 
 - [Ankan Roy](https://github.com/AnkanJU)
-- [ShanSample](https://github.com/sample-s)
+- [Shahinsha](https://github.com/ShahinshaShahinu)
 - [connectwithvanshika](https://github.com/connectwithvanshika)
 - [Tulasi Lasya](https://github.com/TulasiLasya)
+- [DevendraNathLimbu](https://github.com/DevendraNathLimbu) first contribution, thank you 
 - [debora](https://github.com/Debora0Martins)
 - [cy873rr10r](https://github.com/cy873rr10r)
 - [WingtIsc](https://github.com/WingtIsc)
@@ -12,6 +14,7 @@
 - [kaboombastic](https://github.com/kaboombastic) I must not fear, fear is the mind killer.
 - [Richang-Chaudhary](https://github.com/XPE-7)
 - [2kEleven](https://github.com/2kEleven)
+- [Remy](https://github.com/Remi561) First contribution 
 - [sai](https://github.com/sai-30624)
 - [Emre Zeyrek](https://github.com/emre-zeyrek)
 - [Apurv-01](https://github.com/Apurv-01)
@@ -31,6 +34,7 @@
 - [Siran Parwin](https://github.com/Siran-web)
 - [Baljit Panda](https://github.com/velixcode)
 - [Satish Singh](https://github.com/isatishsingh)
+- [Harikrishnan R](https://github.com/Pixelrick420)
 - [Vishal Singh](https://github.com/ILUCIFER0069)
 - [Abhinav Piratla](https://github.com/abhinav9558)
 - [Shivaji Thattikota](https://github.com/shivajit410)
@@ -69,6 +73,7 @@
 - [AnshMeshram](https://github.com/AnshMeshram)
 - [Sonali Dutta](https://github.com/SonaliDutta-Dev)
 - [Supra](https://github.com/supraik) -[Bhavya sri Athukuri](https://github.com/Bhavya-chowdary)
+- [Aireche Khalil](https://github.com/Ka-iPy)
 - [Venkatesh P](https://github.com/offlvenkatesh)
 - [FekherS](https://github.com/FekherS)
 - [Gopalakrishnan](https://github.com/gobeecode)
@@ -181,6 +186,7 @@
 - [Om Prakash](https://github.com/omprakash970)
 - [Rahul kumar choudhary](https://github.com/rahulstd82)
 - [Prince Pandey](https://github.com/pandey-prince)
+- [W4FUL4san](https://github.com/W4FUL4san)
 - [Eswar Venkata Ram Charan](https://github.com/eswarseeram)
 - [Ahmed Abdelsamea](https://github.com/ahmed0-07)
 - [Arthur Umerov](https://github.com/aumerov)
@@ -2242,6 +2248,7 @@
 - [Haydn](https://github.com/Haydn-Y) Just a baby coder practicing some git
 - [Vivek Chandra Reddy](https://github.com/VivekGaddam/)
 - [Camillo Ballani](https://github.com/cballaniFuturisten/)
+- [Erio G](https://github.com/eriogt88www/)
 - [Fern060](https://github.com/fern060)
 - [JJDDMZ](https://github.com/JJDDMZ)
 - [dggogy](https://github.com/dggogy)
@@ -2423,10 +2430,16 @@
 - [Akhil Mishra](https://github.com/akhilmishra)
 - [Aditya Lalwani](https://github.com/Spark8961)
 - [Paramita](https://github.com/sheisparamita)
+- [Sankalp Sharma](https://github.com/sankalpsharma38/sankalpsharma38)
 - [Kotra Haridutt](https://github.com/KotraHaridutt)
 - [Nigamananda Behera](https://github.com/nigmu)
 - [JuanMtn](https://github.com/JuanMtn07)
 - [Randy Saul Sanchez](https://github.com/randysaul)
-- [Abhyudaya Vasisht](https://github.com/rgabhi2526) -[vardhan naidu](https://github.com/vardhan30016)
+- [Abhyudaya Vasisht](https://github.com/rgabhi2526)
+- [vardhan naidu](https://github.com/vardhan30016)
 - [Ramsai Polisetti](https://github.com/RamsaiPolisetti)
 - [ Rohit OJha ]
+- [Boris Ryjkov](https://github.com/BorisRy)
+- [lim li jing](https://github.com/limlijing)
+-[Deepanshu sharma](https://github.com/thepanshu45)
+- [Alok More](https://github.com/alok-more)
