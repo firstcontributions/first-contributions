@@ -33,6 +33,7 @@
 - [Siran Parwin](https://github.com/Siran-web)
 - [Baljit Panda](https://github.com/velixcode)
 - [Satish Singh](https://github.com/isatishsingh)
+- [Harikrishnan R](https://github.com/Pixelrick420)
 - [Vishal Singh](https://github.com/ILUCIFER0069)
 - [Abhinav Piratla](https://github.com/abhinav9558)
 - [Shivaji Thattikota](https://github.com/shivajit410)
