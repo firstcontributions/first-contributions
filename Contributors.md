@@ -999,6 +999,7 @@
 - [Madhav Singh](https://github.com/maddy710)
 - [Mahanthesh S](https://github.com/Mahi2708)
 - [MatyasZERO](https://github.com/MatyasZERO)
+- [Parth Pratyush](https://github.com/your-github-username)
 - [MayurHedau](https://github.com/mayurdweek)
 - [Mizaan Ur Rehman](https://github.com/miz2)
 - [Ms_Njuguna](https://github.com/Ms-Njuguna)
@@ -2436,3 +2437,5 @@
 - [ Rohit OJha ]
 - [lim li jing](https://github.com/limlijing)
 -[Deepanshu sharma](https://github.com/thepanshu45)
+- [Parth Pratyush](https://github.com/parth-117)
+
