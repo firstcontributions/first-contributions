@@ -28,7 +28,7 @@ Seuraavaksi kloonaa juuri forkkaamasi repositorio koneellesi. Mene GitHub käytt
 
 Avaa komentorivi ja syötä seuraava git-komento:
 
-```
+```bash
 git clone "Juuri kopioimasi URL"
 ```
 
@@ -38,7 +38,7 @@ git clone "Juuri kopioimasi URL"
 
 Esimerkiksi:
 
-```
+```bash
 git clone https://github.com/nimesi/first-contributions.git
 ```
 
@@ -48,19 +48,19 @@ Kirjoita GitHub-käyttäjänimesi 'nimesi' teksin sijaan. Tämä komento kopioi 
 
 Mene repositoriosi kansioon koneellasi (ellet jo ole siellä).
 
-```
+```bash
 cd first-contributions
 ```
 
 Seuraavaksi luo branch komennolla `git checkout`:
 
-```
+```bash
 git checkout -b <lisaa-sinun-branchin-nimi>
 ```
 
 Esimerkiksi:
 
-```
+```bash
 git checkout -b add-matti-meikalainen
 ```
 
@@ -76,13 +76,13 @@ Jos menet projektin kansioon ja syötät komennon `git status`, näet muutokset.
 
 Lisää nuo muutokset branchiin `git add` komennolla:
 
-```
+```bash
 git add Contributors.md
 ```
 
 Seuraavaksi committoi muutokset `git commit` komennolla:
 
-```
+```bash
 git commit -m "Add <sinun-nimesi> to Contributors list"
 ```
 
@@ -92,7 +92,7 @@ Korvaamalla `<sinun-nimesi>` nimelläsi.
 
 Pushaa muutoksesi komennolla `git push`:
 
-```
+```bash
 git push origin <lisaa-branchisi-nimi>
 ```
 
@@ -124,6 +124,6 @@ Jos haluaisit kontribuoida muihin projekteihin, me olemme koonneet listan yksink
 
 ## Muiden työkalujen tutoriaaleja
 
-| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
+| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop -sovellus" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken-ohjelma" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code -editori" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree-sovellus" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA -ohjelma" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | --- | --- | --- | --- | --- | --- |
 | [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md) | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md) | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md) | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md) | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md) | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md) |
