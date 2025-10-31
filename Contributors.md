@@ -1,5 +1,6 @@
 # Contributors
 
+- [Ankan Roy](https://github.com/AnkanJU)
 - [connectwithvanshika](https://github.com/connectwithvanshika)
 - [Tulasi Lasya](https://github.com/TulasiLasya)
 - [debora](https://github.com/Debora0Martins)
