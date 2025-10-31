@@ -121,6 +121,7 @@
 - [Krzysztof Sulkowski](https://github.com/krzysztofsulkowski)
 - [Shreyansh Karamtot](https://github.com/Fire-guy)
 - [Elmar Chavez](https://github.com/CodingWithJiro)
+- [Chisaneme Aloni](https://github.com/Alachi24)
 - [Leandro Freitas](https://github.com/LFreitas88)
 - [Tedliu](https://github.com/qsc811022)
 - [HariRaju](https://github.com/HariSivaraj)
