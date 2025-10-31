@@ -234,7 +234,7 @@ Celebrate your contribution and share it with your friends and followers by goin
 
 If you'd like more practice, checkout [code contributions](https://github.com/roshanjossey/code-contributions).
 
-Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
+Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started with. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
 
 ### [Additional material](docs/additional-material/git_workflow_scenarios/additional-material.md)
 
