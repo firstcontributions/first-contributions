@@ -25,7 +25,7 @@ Bu hesabınızda deponun bir kopyasını yaradacaqdır.
 
 Daha sonra terminalı açın və aşağıdakı git komandasını daxil edin:
 
-```
+```bash
 git clone "kopyaladığınız-url"
 ```
 "kopyaladığınız-url" (dırnaq işarəsi olmadan) yerinə bu deponun GitHub səhifəsindən aldığınız linki kopyalayın.
@@ -33,7 +33,7 @@ git clone "kopyaladığınız-url"
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="URL-i panoya kopyala" />
 
 Misal üçün:
-```
+```bash
 git clone https://github.com/istifadəçi-adı/first-contributions.git
 ```
 `istifadəçi-adı` sizin GitHub istifadəçi adınızdır. Burada siz GitHub-da ilk töhfələr deposunun məzmununu kompüterinizə köçürürsünüz.
@@ -42,16 +42,16 @@ git clone https://github.com/istifadəçi-adı/first-contributions.git
 
 Kompüterinizdəki depo qovluğuna keçin (əgər orada deyilsinizsə):
 
-```
+```bash
 cd first-contributions
 ```
 `git checkout` əmrini istifadə edərək bir Budaq (Branch) yaradın:
-```
+```bash
 git checkout -b <sizin-yeni-budaq-adınız>
 ```
 
 Misal üçün:
-```
+```bash
 git checkout -b add-alonzo-church
 ```
 
@@ -65,7 +65,7 @@ Layihə qovluğuna gedib `git status` əmrini icra etsəniz, dəyişikliklərin 
 
 Bu dəyişiklikləri `git add` əmrindən istifadə edərək yaratdığınız Budağa əlavə edin:
 
-```
+```bash
 git add Contributors.md
 ```
 
@@ -78,7 +78,7 @@ adınızla `<your-name>` ilə əvəz olunsun.
 Dəyişikliklərinizi "git push" əmrindən istifadə edərək itələyin:
 
 
-```
+```bash
 git push origin <add-your-branch-name>
 ```
 

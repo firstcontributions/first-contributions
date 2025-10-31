@@ -8,7 +8,7 @@ Proyek ini bertujuan untuk menyederhanakan dan membimbing perjalanan seorang pem
 
 #### _Jika Anda tidak terbiasa dengan baris perintah(command line), [di sini ada tutorial untuk menggunakan GUI(antarmuka bergrafis).](#Tutorial-Menggunakan-Alat-Lain)_
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork repositori ini" />
 
 Apabila Anda belum menginstall git di komputer Anda, [install segera](https://help.github.com/articles/set-up-git/).
 
@@ -18,7 +18,7 @@ Fork repositori ini dengan cara klik tombol _Fork_ yang ada di bagian atas kanan
 
 ## _Clone_ (Kloning) Repositori
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="klon repositori ini" />
 
 Sekarang kloning repositori yang sudah Anda _fork_ ke komputer Anda. Pergi ke akun GitHub Anda, buka repositori yang sudah Anda _fork_, klik tombol _Code_ dan kemudian klik ikon salin ke papan klip.
 
@@ -30,7 +30,7 @@ git clone "url yang telah Anda disalin"
 
 bagian "url yang telah Anda disalin" (tanpa tanda petik) adalah url ke repositori ini (proyek yang telah Anda _fork_ ini). Lihat langkah sebelumnya untuk mendapatkan url.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="salin URL ke papan klip" />
 
 Contohnya:
 
@@ -77,7 +77,7 @@ git checkout -b your-new-branch-name
 
 Sekarang buka berkas `Contributors.md` menggunakan teks editor, tambahkan nama Anda ke dalamnya. Jangan menambahkan pada awal atau akhir dari berkas. Simpan dimana saja di antaranya. Sekarang simpan berkasnya.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="status git" />
 
 Jika Anda pergi ke direktori proyek dan mengeksekusi perintah `git status`, Anda akan melihat ada sebuah perubahan.
 
@@ -109,33 +109,34 @@ ganti bagian `<tambahkan-nama-cabang-baru>` dengan nama cabang yang sebelumnya A
 <summary> <strong>Jika Anda mendapatkan kesalahan saat melakukan <i>push</i>, klik disini:</strong> </summary>
 
 - ### Kesalahan Autentikasi
-     <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+
+       <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+
   remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
   fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
   Buka [tutorial GitHub](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) untuk menghasilkan dan mengkonfigurasi sebuah kunci SSH ke akun Anda.
 
   Jika kelihatannya seperti ini:
-  
-  <pre>origin	https://github.com/your-username/your_repo.git (fetch)
-  origin	https://github.com/your-username/your_repo.git (push)</pre>
+
+    <pre>origin	https://github.com/your-username/your_repo.git (fetch)
+    origin	https://github.com/your-username/your_repo.git (push)</pre>
 
   Buat perubahan dengan perintah:
-     
-  <pre>git remote set-url origin git@github.com:your-username/your_repo.git</pre>
+
+    <pre>git remote set-url origin git@github.com:your-username/your_repo.git</pre>
 
   Jika tidak, Anda akan tetap dimintai nama pengguna dan kata sandi serta mendapatkan kesalahan autentikasi.
-</details>
-
+  </details>
 
 ## Kirim Perubahan Untuk Diperiksa
 
 Jika Anda membuka repositori Anda di GitHub, Anda akan melihat sebuah tombol `Compare & pull request`. Tekan tombol tersebut.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="buat pull request" />
 
 Sekarang kirimkan _Pull Request_
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="kirim pull request" />
 
 Saya (pengelola) akan segera menggabungkan semua perubahan Anda ke cabang utama (_main branch_) dari proyek ini. Anda akan mendapatkan email pemberitahuan setelah perubahan digabungkan.
 

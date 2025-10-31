@@ -44,7 +44,7 @@
 افتح terminal واكتُب الأمر التالي:
 </div>
 
-```
+```bash
 git clone "url you just copied"
 ```
 
@@ -52,7 +52,7 @@ git clone "url you just copied"
 
 <div dir="rtl">على سبيل المثال:</div>
 
-```
+```bash
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 
@@ -65,13 +65,13 @@ git clone https://github.com/this-is-you/first-contributions.git
 
 <div dir="rtl"> انتقل إلى المجلد الذي يحتوي على المشروع عن طريق الأمر التالي: </div>
 
-```
+```bash
 cd first-contributions
 ```
 
 <div dir="rtl"> الآن قم بإنشاء فرع عن طريق الأمر التالي: </div>
 
-```
+```bash
 git checkout -b "add-your-name"
 ```
 
@@ -79,7 +79,7 @@ git checkout -b "add-your-name"
 
 <div dir="rtl">على سبيل المثال:</div>
 
-```
+```bash
 git checkout -b "add-alonzo-church"
 ```
 
@@ -93,13 +93,13 @@ git checkout -b "add-alonzo-church"
 لإضافة هذه التغييرات قم بإضافتها عن طريق هذا الأمر <code>git add</code>.
 </div>
 
-```
+```bash
 git add Contributors.md
 ```
 
 <div dir="rtl">الآن قم بإتمام التغييرات باستخدام الأمر <code>git commit</code>.</div>
 
-```
+```bash
 git commit -m "Add <your-name> to Contributors list"
 ```
 
@@ -110,7 +110,7 @@ git commit -m "Add <your-name> to Contributors list"
 
 <div dir="rtl">ارفع التغييرات عن طريق الأمر <code>git push</code></div>
 
-```
+```bash
 git push origin "add-your-name"
 ```
 
@@ -135,13 +135,13 @@ git push origin "add-your-name"
 
  <div dir="rtl">الخطوة الأولى، انتقل إلى الفرع الرئيسي.</div>
 
-```
+```bash
 git checkout master
 ```
 
  <div dir="rtl">ثانياً، أضف رابط مشروعي كـ<code>upstream remote url</code>.</div>
 
-```
+```bash
 git remote add upstream https://github.com/Roshanjossey/first-contributions
 ```
 
@@ -149,19 +149,19 @@ git remote add upstream https://github.com/Roshanjossey/first-contributions
 بعد أن أوافق على تغييراتك، قم بسحب النسخة الجديدة من المشروع عن طريق الأمر التالي:
 </div>
 
-```
+```bash
 git fetch upstream
 ```
 
 <div dir="rtl">هنا سنقوم بسحب جميع التغييرات من <code>(upstream remote)</code>. والآن، عليك أن تدمج التحديثات الجديدة من فرعي إلى فرعك الرئيسي.</div>
 
-```
+```bash
 git rebase upstream/master
 ```
 
 <div dir="rtl">وهنا تطبق التغييرات إلى الفرع الرئيسي. إذا رفعت التغييرات لفرعك الرئيسي سيتم تحديث مشروعك</div>
 
-```
+```bash
 git push origin master
 ```
 
