@@ -1178,6 +1178,7 @@
 - [Mattia Cocco](https://github.com/Matti02co)
 - [Mike Mertens](https://github.com/mmert9008)
 - [Mir-Asim-Ali](https://mirasim.netlify.app/)
+- [Akshith Pola](https://github.com/Akshith30388)
 - [Mr. Jakkula](https://github.com/Mr.Jakkula)
 - [Muny Phalla](https://github.com/lalaphalla)
 - [Navreet Kaur](https://github.com/NavreetKB)
