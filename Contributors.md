@@ -48,6 +48,7 @@
 - [Parth Narkar](https://github.com/parthnarkar)
 - [TKS](https://github.com/khaingsoe32467-debug)
 - [Sai Fasalkar](https://github.com/brickb527)
+- [Pranay Burra](https://github.com/pranayburra)
 - [Reeyal Oinam](https://github.com/Reeyal05)
 - [Darshan K](https://github.com/1511Darshan)
 - [Hsr raza](https://github.com/HsrRaza)
