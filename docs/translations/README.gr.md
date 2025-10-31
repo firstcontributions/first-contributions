@@ -66,7 +66,7 @@ git switch -c add-alonzo-church
 
 Τώρα ανοίξτε το αρχείο `Contributors.md` με έναν επεξεργαστή κειμένου. Χρειάζεται να είστε εξοικειωμένοι με την Markdown, μια ελαφριά γλώσσα σήμανσης. Δείτε στο [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) για το πως να χρησιμοποιήσετε την Markdown.
 
-Σε αυτήν την περίπτωση προσθέστε την παρακάτω σειρά στο τέλος του αρχείου `Contributors.md:`
+Σε αυτήν την περίπτωση προσθέστε την παρακάτω σειρά στο τέλος του αρχείου `Contributors.md:` 
 
 ```
 - [Το-όνομα-σας](https://github.com/Your-username)
@@ -127,6 +127,8 @@ git push origin <add-your-name>
 Γιορτάστε και μοιραστείτε την συνεισφορά σας με τους φίλους και τους ακόλουθους σας πηγαίνοντας στο [web app](https://firstcontributions.github.io/#social-share).
 
 Τώρα μπορείτε να ξεκινήσετε να συνεισφέρετε και σε άλλα project. Έχουμε φτιάξει μια λίστα από project με εύκολα προβλήματα για να ξεκινήσετε. Δείτε εδώ [τη λίστα με τα project](https://firstcontributions.github.io/#project-list).
+
+Μπορείτε να βρείτε περισσότερους τρόπους να συνεισφέρετε [εδώ](https://github.com/firstcontributions/first-contributions#code-contributions).
 
 ### [Επιπρόσθετο υλικό](../additional-material/git_workflow_scenarios/additional-material.md)
 
