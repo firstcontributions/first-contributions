@@ -10,6 +10,7 @@
 - [akinator64000](https://github.com/akinator64000)
 - [kaboombastic](https://github.com/kaboombastic) I must not fear, fear is the mind killer.
 - [Richang-Chaudhary](https://github.com/XPE-7)
+- [2kEleven](https://github.com/2kEleven)
 - [sai](https://github.com/sai-30624)
 - [Apurv-01](https://github.com/Apurv-01)
 - [_dpnm_](https://github.com/DPNM1) Lets do this baby!
