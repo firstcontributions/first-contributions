@@ -1,7 +1,8 @@
 # Contributors
 
+- [John Cena](https://github.com/johnproha) 
 - [Ankan Roy](https://github.com/AnkanJU)
-- [ShanSample](https://github.com/sample-s)
+- [Shahinsha](https://github.com/ShahinshaShahinu)
 - [connectwithvanshika](https://github.com/connectwithvanshika)
 - [Tulasi Lasya](https://github.com/TulasiLasya)
 - [DevendraNathLimbu](https://github.com/DevendraNathLimbu) first contribution, thank you 
@@ -13,6 +14,7 @@
 - [kaboombastic](https://github.com/kaboombastic) I must not fear, fear is the mind killer.
 - [Richang-Chaudhary](https://github.com/XPE-7)
 - [2kEleven](https://github.com/2kEleven)
+- [Remy](https://github.com/Remi561) First contribution 
 - [sai](https://github.com/sai-30624)
 - [Emre Zeyrek](https://github.com/emre-zeyrek)
 - [Apurv-01](https://github.com/Apurv-01)
@@ -32,6 +34,7 @@
 - [Siran Parwin](https://github.com/Siran-web)
 - [Baljit Panda](https://github.com/velixcode)
 - [Satish Singh](https://github.com/isatishsingh)
+- [Harikrishnan R](https://github.com/Pixelrick420)
 - [Vishal Singh](https://github.com/ILUCIFER0069)
 - [Abhinav Piratla](https://github.com/abhinav9558)
 - [Shivaji Thattikota](https://github.com/shivajit410)
@@ -65,7 +68,7 @@
 - [PARNIKA C](https://github.com/parnikachoudhary)
 - [Suggu Varada Raju](https://github.com/rajucreate)
 - [Ch Manikanta Abhiram](https://github.com/abhiramch018)
-- [Atmakuri Dhanush](https://github.com/ATMAKURIDHANUSH33102) 
+- [Atmakuri Dhanush](https://github.com/ATMAKURIDHANUSH33102)
 - [practicagit123](github.com/practicagit123)
 - [AnshMeshram](https://github.com/AnshMeshram)
 - [Sonali Dutta](https://github.com/SonaliDutta-Dev)
@@ -118,6 +121,7 @@
 - [Krzysztof Sulkowski](https://github.com/krzysztofsulkowski)
 - [Shreyansh Karamtot](https://github.com/Fire-guy)
 - [Elmar Chavez](https://github.com/CodingWithJiro)
+- [Chisaneme Aloni](https://github.com/Alachi24)
 - [Leandro Freitas](https://github.com/LFreitas88)
 - [Tedliu](https://github.com/qsc811022)
 - [HariRaju](https://github.com/HariSivaraj)
@@ -382,6 +386,8 @@
 - [Shamas U Din](https://github.com/Shamss173/)
 - [Mohamed Adhil](https://github.com/adhil-cloud)
 - [Aydan Butler](https://github.com/aydanpb)
+- [duvvuvenkataramana](https://github.com/duvvuvenkataramana)
+
 - [Avanthi Boopalan](https://github.com/aboopala)
 - [Kavindu Udara](https://github.com/kavindu-udara)
 - [Nazeer Shaikh](https://github.com/nash226)
@@ -999,6 +1005,7 @@
 - [Madhav Singh](https://github.com/maddy710)
 - [Mahanthesh S](https://github.com/Mahi2708)
 - [MatyasZERO](https://github.com/MatyasZERO)
+- [Parth Pratyush](https://github.com/your-github-username)
 - [MayurHedau](https://github.com/mayurdweek)
 - [Mizaan Ur Rehman](https://github.com/miz2)
 - [Ms_Njuguna](https://github.com/Ms-Njuguna)
@@ -2426,17 +2433,19 @@
 - [Akhil Mishra](https://github.com/akhilmishra)
 - [Aditya Lalwani](https://github.com/Spark8961)
 - [Paramita](https://github.com/sheisparamita)
+- [Sankalp Sharma](https://github.com/sankalpsharma38/sankalpsharma38)
 - [Kotra Haridutt](https://github.com/KotraHaridutt)
 - [Nigamananda Behera](https://github.com/nigmu)
 - [JuanMtn](https://github.com/JuanMtn07)
 - [Randy Saul Sanchez](https://github.com/randysaul)
 - [Abhyudaya Vasisht](https://github.com/rgabhi2526)
--[vardhan naidu](https://github.com/vardhan30016)
+- [vardhan naidu](https://github.com/vardhan30016)
 - [Ramsai Polisetti](https://github.com/RamsaiPolisetti)
+- [JiongLin](https://github.com/Lin-Jiong-HDU)
 - [ Rohit OJha ]
+- [Boris Ryjkov](https://github.com/BorisRy)
 - [lim li jing](https://github.com/limlijing)
--[Deepanshu sharma](https://github.com/thepanshu45)
 - [Hena Suvarnan](https://github.com/Henry4501),🎃 Proud Hacktoberfest Contributor 🎃
-
-
-
+- [Deepanshu sharma](https://github.com/thepanshu45)
+- [Parth Pratyush](https://github.com/parth-117)
+- [Alok More](https://github.com/alok-more)
