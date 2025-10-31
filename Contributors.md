@@ -13,6 +13,7 @@
 - [kaboombastic](https://github.com/kaboombastic) I must not fear, fear is the mind killer.
 - [Richang-Chaudhary](https://github.com/XPE-7)
 - [2kEleven](https://github.com/2kEleven)
+- [Remy](https://github.com/Remi561) First contribution 
 - [sai](https://github.com/sai-30624)
 - [Emre Zeyrek](https://github.com/emre-zeyrek)
 - [Apurv-01](https://github.com/Apurv-01)
