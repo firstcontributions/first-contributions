@@ -324,6 +324,7 @@
 - [Sham Sunder](https://github.com/ShamSuther) - "for the sake of being!"
 - [Chintan Sood](https://github.com/chintansood)
 - [Kaylin Yang](https://github.com/kyangOrange)
+- [Kwon Daegun](https://github.com/kwon-daegun)
 - [Sam Rosandick](https://github.com/Sam-is-AI)
 - [Vedavyasa]
 - [Harsh Gupta](https://github.com/HarshGupta-09)
