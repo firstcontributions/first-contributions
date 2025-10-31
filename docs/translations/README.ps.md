@@ -131,7 +131,7 @@ fatal: Authentication failed for 'https://github.com/&lt;your-username&gt;/first
 تاسو په بریالیتوب سره د فورک، کلون، ایډیټ، او pull request مرحلې بشپړې کړې. تاسې له دې نه وروسته کولی شئ چې په خلاص-سرچېنه پروژو کې په همدې طریقه برخه واخلئ.
 
 - خپل لومړئ ګډون ولمانځئ او له خپلو ملګرو سره یې [شریک کړئ](https://firstcontributions.github.io/#social-share).
-- که کومه ستونزه یا پوښتنه لرئ، کولای شئ زموږ د Slack ټیم سره یوځای شئ.
+- که کومه ستونزه یا پوښتنه لرئ، کولای شئ زموږ د [کوډ مرستو لارښود](https://github.com/firstcontributions/first-contributions/blob/main/additional-material/code-contributions.md) وګورئ.
 - اوس کولای شئ په نورو پروژو کې هم ګډون وکړئ. [دلته د پروژو لیست وګورئ](https://firstcontributions.github.io/#project-list).
 
 ## <a href="additional-material/git_workflow_scenarios/additional-material.md">اضافي مواد</a>
