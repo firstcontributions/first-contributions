@@ -2,7 +2,7 @@
 
 - [John Cena](https://github.com/johnproha) 
 - [Ankan Roy](https://github.com/AnkanJU)
-- [ShanSample](https://github.com/sample-s)
+- [Shahinsha](https://github.com/ShahinshaShahinu)
 - [connectwithvanshika](https://github.com/connectwithvanshika)
 - [Tulasi Lasya](https://github.com/TulasiLasya)
 - [DevendraNathLimbu](https://github.com/DevendraNathLimbu) first contribution, thank you 
