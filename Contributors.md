@@ -2429,6 +2429,7 @@
 - [Akhil Mishra](https://github.com/akhilmishra)
 - [Aditya Lalwani](https://github.com/Spark8961)
 - [Paramita](https://github.com/sheisparamita)
+- [Sankalp Sharma](https://github.com/sankalpsharma38/sankalpsharma38)
 - [Kotra Haridutt](https://github.com/KotraHaridutt)
 - [Nigamananda Behera](https://github.com/nigmu)
 - [JuanMtn](https://github.com/JuanMtn07)
