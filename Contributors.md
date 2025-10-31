@@ -64,7 +64,7 @@
 - [PARNIKA C](https://github.com/parnikachoudhary)
 - [Suggu Varada Raju](https://github.com/rajucreate)
 - [Ch Manikanta Abhiram](https://github.com/abhiramch018)
-- [Atmakuri Dhanush](https://github.com/ATMAKURIDHANUSH33102) 
+- [Atmakuri Dhanush](https://github.com/ATMAKURIDHANUSH33102)
 - [practicagit123](github.com/practicagit123)
 - [AnshMeshram](https://github.com/AnshMeshram)
 - [Sonali Dutta](https://github.com/SonaliDutta-Dev)
@@ -2426,7 +2426,7 @@
 - [Nigamananda Behera](https://github.com/nigmu)
 - [JuanMtn](https://github.com/JuanMtn07)
 - [Randy Saul Sanchez](https://github.com/randysaul)
-- [Abhyudaya Vasisht](https://github.com/rgabhi2526)
--[vardhan naidu](https://github.com/vardhan30016)
+- [Abhyudaya Vasisht](https://github.com/rgabhi2526) -[vardhan naidu](https://github.com/vardhan30016)
 - [Ramsai Polisetti](https://github.com/RamsaiPolisetti)
+- [JiongLin](https://github.com/Lin-Jiong-HDU)
 - [ Rohit OJha ]
