@@ -1840,6 +1840,7 @@
 - [Satvik Mittal](https://github.com/Satvik24511)
 - [Satyam Aengandul](https://github.com/satyamit)
 - [Shangcheng Li](https://github.com/shangchengg)
+- [Shaun Tran](https://github.com/ShaunTran)
 - [Shirinpandey](https://github.com/Shirinpandey)
 - [Shivam Gupta](https://github.com/shivam543210)
 - [Shivam Chaudhari](https://github.com/ShivamChaudhari19)
