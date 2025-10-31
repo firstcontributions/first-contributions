@@ -27,7 +27,7 @@ Næste trin er at "clone" dit nye repository til din maskine. Naviger til din Gi
 
 Åbn en terminal og kør den følgende git command:
 
-```
+```bash
 git clone "din url"
 ```
 
@@ -37,7 +37,7 @@ hvor "din url" skal erstattes med den URL du kopieret i forrige trin.
 
 Eksempel:
 
-```
+```bash
 git clone https://github.com/dit-brugernavn/first-contributions.git
 ```
 
@@ -47,19 +47,19 @@ Erstat 'dit-brugernavn' med dit GitHub brugernavn. Her kopierer vi indholdet af 
 
 Åbn en konsol og cd til dit lokale repository (hvis ikke du allerede er der):
 
-```
+```bash
 cd first-contributions
 ```
 
 Derefter opretter du en branch med kommandoen `git checkout`:
 
-```
+```bash
 git checkout -b <add-your-change>
 ```
 
 Eksempel:
 
-```
+```bash
 git checkout -b add-alonzo-church
 ```
 
@@ -75,13 +75,13 @@ Hvis du går til konsollen og kører kommandoen `git status`, vil du se dine æn
 
 Tilføj disse ændringer til din branch med kommandoen `git add`:
 
-```
+```bash
 git add Contributors.md
 ```
 
 Derefter commit ændringerne med kommandoen `git commit`:
 
-```
+```bash
 git commit -m "Add <dit-navn> to Contributors list"
 ```
 
@@ -91,7 +91,7 @@ Erstat `<dit-navn>` med dit Github brugernavn.
 
 Push dine ændringer til Github med kommandoen `git push`:
 
-```
+```bash
 git push origin <add-din-branch>
 ```
 
