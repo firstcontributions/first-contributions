@@ -8,6 +8,7 @@
 - [Tulasi Lasya](https://github.com/TulasiLasya)
 - [DevendraNathLimbu](https://github.com/DevendraNathLimbu) first contribution, thank you
 - [debora](https://github.com/Debora0Martins)
+- [Ramana](https://github.com/duvvuvenkataramanareddy)
 - [cy873rr10r](https://github.com/cy873rr10r)
 - [WingtIsc](https://github.com/WingtIsc)
   [2400030206](https://github.com/2400030206)
@@ -84,6 +85,7 @@
 - [Sonali Dutta](https://github.com/SonaliDutta-Dev)
 - [Supra](https://github.com/supraik) -[Bhavya sri Athukuri](https://github.com/Bhavya-chowdary)
 - [Aireche Khalil](https://github.com/Ka-iPy)
+- [Crescendenrum](https://github.com/Crescendenrum)
 - [Venkatesh P](https://github.com/offlvenkatesh)
 - [FekherS](https://github.com/FekherS)
 - [Gopalakrishnan](https://github.com/gobeecode)
@@ -741,6 +743,7 @@
 - [casa-code](https://github.com/casa-code)
 - [dahynills](https://github.com/dahynills)
 - [detail331](https://github.com/detail331)
+- [GrandMaster5000](https://github.com/GrandMaster5000)
 - [dfdavila2](https://github.com/dfdavila2)
 - [ejoopasco](https://github.com/ejoopasco)
 - [Steven Joy](https://github.com/Stevenjoy90115)
@@ -2001,6 +2004,7 @@
 - [Tim Wilson](https://github.com/timo-wilson24) - Coding is so exciting!!
 - [Rhys Povey](https://github.com/Rpovey04)
 - [Purva Porwal](https://github.com/purvapr13)
+- [Mohammed Belfellah](https://github.com/MohammedBelfellah) From Morocco with code ❤️
 - [Amir Yasaei](https://github.com/amiryasaei)
 - [AW](https://github.com/AWintheiser-FVTC)
 - [Nimisha Uppunuthula](https://github.com/Nimisha2710)
@@ -2478,4 +2482,4 @@
 - [Ruchit](https://github.com/ruchit2612)
 - [talasudeepk](https://github.com/Talasudeepk)
 - [Chun Yau](https://github.com/chun-yau)
-- [Kartik Bhargava](https://github.com/Consoder)
+- [Jorge Paez](https://github.com/jorgepaezcodes)
