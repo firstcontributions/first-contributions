@@ -14,6 +14,7 @@
 - [atharvsalvi](https://github.com/atharvsalvi)
 - [akinator64000](https://github.com/akinator64000)
 - [kaboombastic](https://github.com/kaboombastic) I must not fear, fear is the mind killer.
+- [Spandana Kona](https://github.com/konaspandana017)
 - [Richang-Chaudhary](https://github.com/XPE-7)
 - [2kEleven](https://github.com/2kEleven)
 - [Remy](https://github.com/Remi561) First contribution
@@ -2475,4 +2476,4 @@
 - [Ruchit](https://github.com/ruchit2612)
 - [talasudeepk](https://github.com/Talasudeepk)
 - [Chun Yau](https://github.com/chun-yau)
-- [sdet0mis](https://github.com/sdet0mis)
+
