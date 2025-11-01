@@ -742,6 +742,7 @@
 - [casa-code](https://github.com/casa-code)
 - [dahynills](https://github.com/dahynills)
 - [detail331](https://github.com/detail331)
+- [GrandMaster5000](https://github.com/GrandMaster5000)
 - [dfdavila2](https://github.com/dfdavila2)
 - [ejoopasco](https://github.com/ejoopasco)
 - [Steven Joy](https://github.com/Stevenjoy90115)
