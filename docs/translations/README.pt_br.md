@@ -34,7 +34,7 @@ onde "url que copiou" (sem as aspas) é a URL deste repositório (seu fork deste
 
 Por exemplo:
 
-```
+```bash
 git clone https://github.com/seu-usuario/first-contributions.git
 ```
 
@@ -76,7 +76,7 @@ git add Contributors.md
 
 Agora, confirme essas alterações usando o comando git commit `git commit`:
 
-```
+```bash
 git commit -m "Add <seu-nome> to Contributors list"
 ```
 
@@ -86,7 +86,7 @@ substituindo `<seu-nome>` pelo seu nome.
 
 Envie suas alterações usando o comando `git push`:
 
-```
+```bash
 git push origin <nome-da-sua-branch>
 ```
 
