@@ -2462,3 +2462,5 @@
 - [rilvean](https://github.com/rilvean)
 - [Matthew Vitale](https://github.com/TheGhostyBear)
 - [Arrvindh PK](https://github.com/ARRVINDHPK)
+- [Javice Chisholm](https://github.com/javice25)
+
