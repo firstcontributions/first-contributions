@@ -18,6 +18,7 @@
 - [sai](https://github.com/sai-30624)
 - [Emre Zeyrek](https://github.com/emre-zeyrek)
 - [Andrew Yoo](https://github.com/andrew-yoo)
+- [Anem Bhargav](https://github.com/ANEMBHARGAV)
 - [Apurv-01](https://github.com/Apurv-01)
 - [_dpnm_](https://github.com/DPNM1) Lets do this baby!
 - [Vraddhi Chakrapan](www.linkedin.com/in/vraddhi-chakrapani)
