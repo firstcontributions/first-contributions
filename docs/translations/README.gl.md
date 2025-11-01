@@ -33,7 +33,7 @@ Onde "url que copiache" (sen as comiñas) é a url  deste repositorio. Mira os p
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copiar URL a clipboard" />
 
 Por exemplo:
-```
+```bash
 git clone https://github.com/o-teu-nome/first-contributions.git
 ```
 Onde "o-teu-nome" é o teu usuario de GitHub. Aquí estarás copiando os contidos do repositorio first-contributions en GitHub para o teu computador.
@@ -42,18 +42,18 @@ Onde "o-teu-nome" é o teu usuario de GitHub. Aquí estarás copiando os contido
 
 Cambia ó directorio do repositorio no teu computador (se é que non estás xa nel).
 
-```
+```bash
 cd first-contributions
 ```
 
 Agora crea unha branch (póla) usando o comando `git checkout`
 
-```
+```bash
 git checkout -b <engade-o-teu-nome>
 ```
 
 Por exemplo
-```
+```bash
 git checkout -b engade-María-Soliña
 ```
 
@@ -67,12 +67,12 @@ Agora abre o arquivo `Contributors.md` nun editor de texto, engade o teu nome e 
 
  Agrega eses cambios ou modificacións usando o comando `git add`  tal como se amosa:
 
-```
+```bash
 git add Contributors.md
 ```
 
 Agora podes facer commit sobre os cambios co comando `git commit`
-```
+```bash
 git commit -m "Add <o-teu-nome> to Contributors list"
 ```
 cambiando `<o-teu-nome>` polo teu nome.
@@ -80,7 +80,7 @@ cambiando `<o-teu-nome>` polo teu nome.
 ## Envía (*Push*) os teus cambios a GitHub
 
 Fai un  *push* dos teus cambios usando o comando `git push`
-```
+```bash
 git push origin <engade-o-teu-nome>
 ```
 cambiando `<engade-o-teu-nome>` polo nome da branch que creaches antes.
