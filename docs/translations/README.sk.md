@@ -27,7 +27,7 @@ Teraz naklonujte (anglicky *clone*) forknutý repozitár na váš počítač, na
 
 Teraz otvorte terminál a spustite nasledujúci príkaz:
 
-````
+````bash
 git clone "url ktoré ste práve skopírovali"  
 
 ````
@@ -36,7 +36,7 @@ git clone "url ktoré ste práve skopírovali"
 
 Napríklad:
 
-````
+````bash
 git clone https://github.com/vas-username/first-contributions.git
 ````
 
@@ -46,18 +46,18 @@ Týmto na svojom počítači vytvoríte priečinok so súbormi daného repozitá
 
 V príkazovom riadku sa prepnite do zložky s repozitárom (ak v nej už nie ste)
 
-````
+````bash
 cd first-contributions
 ````
 
 Teraz vytvorte novú vetvu (anglicky *branch*) za použitia príkazu `git checkout`:
 
-````
+````bash
 git checkout -b <meno-novej-vetvy>
 ````
 
 Napríklad:
-````
+````bash
 git checkout -b pridanie-mojho-mena
 ````
 
@@ -73,13 +73,13 @@ Pokiaľ teraz v príkazovom riadku spustíte príkaz `git status`, uvidíte aké
 
 Tieto zmeny do danej vetvy pridáte príkazom `git add`:
 
-````
+````bash
 git add Contributors.md
 ````
 
 Zostáva už len potvrdiť (anglicky *commit*) zmeny príkazom `git commit`:
 
-````
+````bash
 git commit -m "Add <vase-meno> to Contributors list"
 ````
 
@@ -89,7 +89,7 @@ Za prepínač `-m` sa píše čo dané zmeny predstavujú, popis by mal byť jed
 
 Teraz zmeny vykonané lokálne na počítači pretlačíme (anglicky *push*) na GitHub príkazom `git push`:
 
-````
+````bash
 git push origin <meno-vasej-vetvy>
 ````
 
