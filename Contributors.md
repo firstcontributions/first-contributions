@@ -2001,6 +2001,7 @@
 - [Tim Wilson](https://github.com/timo-wilson24) - Coding is so exciting!!
 - [Rhys Povey](https://github.com/Rpovey04)
 - [Purva Porwal](https://github.com/purvapr13)
+- [Mohammed Belfellah](https://github.com/MohammedBelfellah) From Morocco with code ❤️
 - [Amir Yasaei](https://github.com/amiryasaei)
 - [AW](https://github.com/AWintheiser-FVTC)
 - [Nimisha Uppunuthula](https://github.com/Nimisha2710)
