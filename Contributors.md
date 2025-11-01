@@ -2462,3 +2462,4 @@
 - [rilvean](https://github.com/rilvean)
 - [Matthew Vitale](https://github.com/TheGhostyBear)
 - [Arrvindh PK](https://github.com/ARRVINDHPK)
+- [Afolabi Yusuf Opeyemi](https://github.com/Ope-electric)
