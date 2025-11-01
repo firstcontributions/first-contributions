@@ -66,9 +66,9 @@ git switch -c add-alonzo-church
 
 ବର୍ତ୍ତମାନ ଟେକ୍ସଟ୍ ଏଡିଟର୍ ରେ `Contributors.md` ଫାଇଲ୍ ଖୋଲ, ଏଥିରେ ତୁମର ନାମ ଯୋଡ | ଫାଇଲ୍ ର ଆରମ୍ଭ କିମ୍ବା ଶେଷରେ ଏହାକୁ ଯୋଡନ୍ତୁ ନାହିଁ | ଏହାକୁ ଯେକ ଣସି ସ୍ଥାନରେ ରଖନ୍ତୁ | ବର୍ତ୍ତମାନ, ଫାଇଲ୍ ସେଭ୍ କରନ୍ତୁ |
 
-<img align = "right" width = "450" src = "https://firstcontributions.github.io/assets/Readme/git-status.png" alt = "git status" />
+<img align = "right" width = "450" src = "https://firstcontributions.github.io/assets/Readme/git-status.png" alt = "ଗିଟ ସ୍ଥିତି" />
 
-ଯଦି ଆପଣ ପ୍ରୋଜେକ୍ଟ ଡିରେକ୍ଟୋରୀକୁ ଯାଆନ୍ତି ଏବଂ `git status` କମାଣ୍ଡ୍ ଏକଜେକ୍ୟୁଟ୍ କରନ୍ତି, ଆପଣ ଦେଖିବେ ସେଠାରେ କିଛି ପରିବର୍ତ୍ତନ ଅଛି |
+ଯଦି ଆପଣ ପ୍ରୋଜେକ୍ଟ ଡିରେକ୍ଟୋରୀକୁ ଯାଆନ୍ତି ଏବଂ `ଗିଟ ସ୍ଥିତି` କମାଣ୍ଡ୍ ଏକଜେକ୍ୟୁଟ୍ କରନ୍ତି, ଆପଣ ଦେଖିବେ ସେଠାରେ କିଛି ପରିବର୍ତ୍ତନ ଅଛି |
 
 ସେହି ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ଆପଣ `git add` କମାଣ୍ଡ ବ୍ୟବହାର କରି ସୃଷ୍ଟି କରିଥିବା ଶାଖାରେ ଯୋଡନ୍ତୁ:
 
