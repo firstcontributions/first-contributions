@@ -1,35 +1,109 @@
 # What is a merge conflict?
 
-When you try to merge another branch into your current working branch, you are taking changes from another context and combining them with your current working files.
-If two people have changed the same lines in the same file, or if one person decided to delete it while the other person decided to modify it, Git cannot identify which is the correct version. Git will then mark the file as having a conflict - which you'll have to resolve before you can continue your work.
+A merge conflict occurs when changes from different branches clash and Git cannot merge them automatically. Common scenarios include:
 
-# How to resolve a merge conflict?
+- Two contributors editing the same line in a file.
+- One contributor deletes a file that another has modified.
+- Simultaneous renaming of a file to different names in separate branches.
 
-When faced with a merge conflict, git will mark the problematic area in the file by enclosing it in “<<<<<<<< HEAD” and “>>>>>>>>>>[other branch name]”
+In such cases, Git will pause the merge process and mark the conflicting files for manual resolution. There are tools that helps users resolve these conflicts but in this guide, we will be focusing on the git command line tool.
 
-The contents after the first marker originate from your current working branch. After the angle brackets, Git tells us where (from which branch) the changes came from. A line with "=======" separates the two conflicting changes.
-Our job is now to clean up these lines: when we're done, the file should look exactly as we want it to look. It is advisable to consult the teammate who wrote the conflicting changes to decide which version should be final. It could be either one of yours - or maybe a mixture between the two.
+## How to resolve a merge conflict?
 
-e.g. :
-```
- <<<<<<< HEAD:mergetest
- This is my third line
- =======
- This is a fourth line I am adding
- >>>>>>> 4e2b407f501b68f8588aa645acafffa0224b9b78:mergetest
+1. **Identify Conflicted Files**
+   After attempting a merge, Git will notify you of conflicts. Use the following command to list them:
+
+```bash
+git status
 ```
 
-`<<<<<<<`: Indicates the start of the lines that had a merge conflict. The first set of lines are the lines from the file that you were trying to merge the changes into.  
-`=======`: Indicates the break point used for comparison. Breaks up changes that user has committed (above) to changes coming from merge (below) to visually see the differences.  
-`>>>>>>>`: Indicates the end of the lines that had a merge conflict.  
+Look for files listed under "Unmerged paths."
 
-You resolve a conflict by editing the file and then manually merging the parts of the file that git had trouble merging. This may mean discarding either your changes or someone else's or going ahead with a mix of the two. You will also need to delete the '<<<<<<<', '=======', and '>>>>>>>' in the file.
+2. **Open and Examine Conflicted Files**
+   Open each conflicted file in your preferred text editor. Git sets boundaries for conflicts using the following markers:
 
+```plaintext
+<<<<<<< HEAD
+Your changes
+=======
+Incoming changes
+>>>>>>> branch-name
+```
 
-Once you have resolved the conflict do a `git add`. Do not forget to run the tests, as you have to make sure that you have resolved the conflict.
+- `<<<<<<< HEAD` represents your current branch's changes.
 
-You can also download different plugins depending on the IDE you are using for an easier way to resolve merge conflicts.
+- `=======` separates the conflicting changes.
 
+- `>>>>>>> branch-name` shows the incoming changes from the other branch.
 
-# How to undo a merge?
-If you want to undo a merge then you can do `git merge —abort`
+3. **Resolve the Conflicts**
+
+Decide how to integrate the changes:
+
+- Keep your changes.
+- Accept the incoming changes.
+- Combine both changes in a coherent manner.
+
+After making the necessary edits, remove the conflict markers (<<<<<<<, =======, >>>>>>>)
+
+4. **Mark Conflicts as Resolved**
+   Once you've resolved the conflicts in a file:
+
+```bash
+git add <filename>
+```
+
+**Repeat this for each conflicted file.**
+
+5. **Commit the Merge**
+   After staging all resolved files:
+
+```bash
+git commit -m "Resolved merge conflicts"
+```
+
+🎉This finalizes the merge process.🎉
+
+---
+
+# Additional information
+
+## Tools to Assist in Conflict Resolution
+
+- Git Merge Tool: Launches a visual merge tool to help resolve conflicts.
+
+```bash
+git mergetool
+```
+
+> Note: Ensure you have a merge tool installed (e.g., Meld, KDiff3, Beyond Compare).
+
+- Abort a Merge: If you wish to cancel the merge process:
+
+```bash
+  git merge --abort
+```
+
+## Best Practices to Avoid Conflicts
+
+Pull Regularly: Frequently pull changes from the main branch to stay updated.
+
+```bash
+git pull origin main
+```
+
+Work on Feature Branches: Create separate branches for each feature or fix.
+
+```bash
+git checkout -b feature-branch
+```
+
+## Additional Resources
+
+- [GitHub: Resolving Merge Conflicts via Command Line](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line)
+
+- [Atlassian: Git Merge Conflicts Tutorial](https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts)
+
+- [FreeCodeCamp: Practical Guide to Merge Conflicts](https://www.freecodecamp.org/news/resolve-merge-conflicts-in-git-a-practical-guide/)
+
+By following this guide, you'll be well-equipped to handle merge conflicts confidently, ensuring a smoother contribution process to any open source project!

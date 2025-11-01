@@ -1,5 +1,4 @@
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1n4y7xnk0-DnLVTaN6U9xLU79H5Hi62w)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -29,7 +28,7 @@ Anois, clónaigh an repositry ghrúpaithe chuig do mhaisín. Téigh go dtí do c
 
 Oscail tearma agus rith an t-ordú git seo a leanas:
 
-```
+```bash
 git clone "url a ghlac tú amach"
 ```
 
@@ -39,7 +38,7 @@ Mar sin "url a ghlac tú amach" (gan na tréimhseanna quoitimh) is ea url chuig 
 
 Mar shampla:
 
-```
+```bash
 git clone git@github.com:this-is-you/first-contributions.git
 ```
 
@@ -49,19 +48,19 @@ Ait a bhfuil `this-is-you` is t-ainm úsáideora GitHub. Anseo atá tú ag cóip
 
 Athraigh go dtí comhad repositry ar do ríomhaire (mura bhfuil tú ansin cheana):
 
-```
+```bash
 cd first-contributions
 ```
 
 nois cruthaigh snáth ag baint úsáide as an comhad `git switch`:
 
-```
+```bash
 git switch -c your-new-branch-name
 ```
 
 Mar shampla:
 
-```
+```bash
 git switch -c add-alonzo-church
 ```
 
@@ -76,13 +75,13 @@ Más téann tú go dtí comhaid tionscadail agus déanann tú an t-ordú `git st
 
 Cuir na hathruithe sin leis an snáth a chruthaigh tú leis an gcnaipe `git add`:
 
-```
+```bash
 git add Contributors.md
 ```
 
 Ansin déan comhaireamh orthu leis an gcnaipe `git commit`:
 
-```
+```bash
 git commit -m "Add your-name to Contributors list"
 ```
 
@@ -92,7 +91,7 @@ agus cuir in áit do ainm in ionad `your-name`.
 
 Seol do chuid athruithe ag baint úsáide as an gcnaipe `git push`:
 
-```
+```bash
 git push -u origin your-branch-name
 ```
 
@@ -130,7 +129,8 @@ Comhghairdeas! Chríochnaigh tú an tslí ríthábhachtach  _fork -> clone -> ed
 
 Ceiliúraigh do chionta agus roinne é le do chairde agus le do leanúnaigh trí dul go dtí an aip ghréasáin. [web app](https://firstcontributions.github.io/#social-share).
 
-D'fhéadfá dul inár bhfoireann Slack má tá cabhair uait nó ceisteanna agat. [Ghabh le foireann Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1n4y7xnk0-DnLVTaN6U9xLU79H5Hi62w).
+Más mian leat níos mó cleachtas, seiceáil. [code contributions](https://roshanjossey.github.io/code-contributions/).
+
 
 Anois, lig dúinn tú a thosú ag tacú le tionscadail eile. Tá liosta againn de thionscadail le faidhéideanna éasca a d'fhéadfá tosú orthu. Féach ar liosta na dtionscadal san aip ghréasáin.
 
@@ -140,13 +140,13 @@ Anois, lig dúinn tú a thosú ag tacú le tionscadail eile. Tá liosta againn d
 
 ## Tutóirialanna Ag Úsáid Uirlisí Eile
 
-| <a href="gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
+| <a href="gui-tool-tutorials/github-desktop-tutorial.md"><img alt="Clár Deisce GitHub" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="gui-tool-tutorials/gitkraken-tutorial.md"><img alt="Clár GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="Eagarthóir VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width="100"></a> | <a href="gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Feidhmchlár Sourcetree" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width="100"></a> | <a href="gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="Clár IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width="100"></a> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [GitHub Desktop](gui-tool-tutorials/github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](gui-tool-tutorials/github-windows-vs2017-tutorial.md)                                                                                                                          | [GitKraken](gui-tool-tutorials/gitkraken-tutorial.md)                                                                                                                                        | [Visual Studio Code](gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                                                  | [Atlassian Sourcetree](gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                                      | [IntelliJ IDEA](gui-tool-tutorials/github-windows-intellij-tutorial.md)                                                                                                                                                          |
+| [Clár Deisce GitHub](gui-tool-tutorials/github-desktop-tutorial.md) | [Visual Studio 2017](gui-tool-tutorials/github-windows-vs2017-tutorial.md) | [Clár GitKraken](gui-tool-tutorials/gitkraken-tutorial.md) | [Eagarthóir VS Code](gui-tool-tutorials/github-windows-vs-code-tutorial.md) | [Feidhmchlár Sourcetree](gui-tool-tutorials/sourcetree-macos-tutorial.md) | [Clár IntelliJ IDEA](gui-tool-tutorials/github-windows-intellij-tutorial.md) |
 
 <p>Tugann tacaíocht don tionscadal seo::</p>
 <p>
   <a href="https://www.digitalocean.com/">
-    <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_horizontal_blue.svg" width="201px">
+    <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_horizontal_blue.svg" width="300">
   </a>
 </p>
