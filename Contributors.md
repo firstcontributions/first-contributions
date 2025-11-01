@@ -95,6 +95,7 @@
 - [Mahnsi Ruparelia](https://github.com/mahnsi)
 - [AbhishekSaini](https://github.com/Upiottxat)
 - [Himabindu](https://github.com/himabindu-1614)
+- [Nithish MR](https://github.com/NithishMR)
 - [Ashutosh](https://github.com/ashutosh-moharana)
 - [Arthur Cavalcante](https://github.com/Linsarthur)
 - [Apurva Vats](https://github.com/apurvavats)
