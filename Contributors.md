@@ -8,6 +8,7 @@
 - [Tulasi Lasya](https://github.com/TulasiLasya)
 - [DevendraNathLimbu](https://github.com/DevendraNathLimbu) first contribution, thank you
 - [debora](https://github.com/Debora0Martins)
+- [Ramana](https://github.com/duvvuvenkataramanareddy)
 - [cy873rr10r](https://github.com/cy873rr10r)
 - [WingtIsc](https://github.com/WingtIsc)
   [2400030206](https://github.com/2400030206)
