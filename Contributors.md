@@ -2450,7 +2450,7 @@
 - [Akhil Mishra](https://github.com/akhilmishra)
 - [Aditya Lalwani](https://github.com/Spark8961)
 - [Paramita](https://github.com/sheisparamita)
-- [Sankalp Sharma](https://github.com/sankalpsharma38/sankalpsharma38)
+- [Sankalp Sharma](https://github.com/sankalpsharma38/sankalpsharma38)s
 - [Kotra Haridutt](https://github.com/KotraHaridutt)
 - [Nigamananda Behera](https://github.com/nigmu)
 - [JuanMtn](https://github.com/JuanMtn07)
@@ -2474,3 +2474,5 @@
 - [Vighnesh Tule](https://github.com/vighneshtule)
 - [Ruchit](https://github.com/ruchit2612)
 - [talasudeepk](https://github.com/Talasudeepk)
+- [Chun Yau](https://github.com/chun-yau)
+
