@@ -2471,6 +2471,7 @@
 - [rilvean](https://github.com/rilvean)
 - [Matthew Vitale](https://github.com/TheGhostyBear)
 - [Arrvindh PK](https://github.com/ARRVINDHPK)
+- [Javice Chisholm](https://github.com/javice25)
 - [Afolabi Yusuf Opeyemi](https://github.com/Ope-electric)
 - [Vighnesh Tule](https://github.com/vighneshtule)
 - [Ruchit](https://github.com/ruchit2612)
