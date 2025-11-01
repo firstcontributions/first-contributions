@@ -219,6 +219,7 @@
 - [zech](https://github.com/zechariah19190)
 - [Anash Pathan](https://github.com/anash56)
 - [Adithya Balaji]()
+- [alinescardoso]()
 - [Shaurya](https://github.com/Shaurya-34)
 - [Nanda Kumudhan](https://github.com/Na832938)
 - [Eamon Murphy](https://github.com/eamcn)
