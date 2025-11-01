@@ -2484,3 +2484,4 @@
 - [Chun Yau](https://github.com/chun-yau)
 
 - [Jorge Paez](https://github.com/jorgepaezcodes)
+- [Aulon Ajvazi](https://github.com/AulonAjvazi)
