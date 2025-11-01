@@ -2467,3 +2467,4 @@
 - [Matthew Vitale](https://github.com/TheGhostyBear)
 - [Arrvindh PK](https://github.com/ARRVINDHPK)
 - [Afolabi Yusuf Opeyemi](https://github.com/Ope-electric)
+- [Vighnesh Tule](https://github.com/vighneshtule)
