@@ -103,6 +103,31 @@ _If you're not comfortable with command line, [here are tutorials using GUI tool
 Fork this repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
 
+## Getting Started
+
+After forking, follow the given step by step commands to achieve your first git contribution.
+
+1. Go to the forked repo in your account -> Click on _Code_ Button -> SSH Tab -> _copy url to clipboard_ icon
+    ```bash
+    git clone https://github.com/YourUserName/first-contributions.git
+    ```
+2. Create your branch
+    ```bash
+    cd first-contributions
+    git switch -c my-new-branch
+    ```
+3. Make any necessary changes -> Add those changes to the branch you just created using the ```git add``` command
+    ```bash
+    git add .
+    git commit -m "Your custom message"
+    ```
+4. Push the changes to your branch
+    ```bash
+    git push -u origin my-new-branch
+    ```
+5. Open the same repo -> Click on _Compare and pull request_ -> Add a desciption -> _Create Pull request_
+
+###### The same has been elaborated in the following steps as follows :
 ## Clone the repository
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
