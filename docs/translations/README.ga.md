@@ -28,7 +28,7 @@ Anois, clónaigh an repositry ghrúpaithe chuig do mhaisín. Téigh go dtí do c
 
 Oscail tearma agus rith an t-ordú git seo a leanas:
 
-```
+```bash
 git clone "url a ghlac tú amach"
 ```
 
@@ -38,7 +38,7 @@ Mar sin "url a ghlac tú amach" (gan na tréimhseanna quoitimh) is ea url chuig 
 
 Mar shampla:
 
-```
+```bash
 git clone git@github.com:this-is-you/first-contributions.git
 ```
 
@@ -48,19 +48,19 @@ Ait a bhfuil `this-is-you` is t-ainm úsáideora GitHub. Anseo atá tú ag cóip
 
 Athraigh go dtí comhad repositry ar do ríomhaire (mura bhfuil tú ansin cheana):
 
-```
+```bash
 cd first-contributions
 ```
 
 nois cruthaigh snáth ag baint úsáide as an comhad `git switch`:
 
-```
+```bash
 git switch -c your-new-branch-name
 ```
 
 Mar shampla:
 
-```
+```bash
 git switch -c add-alonzo-church
 ```
 
@@ -75,13 +75,13 @@ Más téann tú go dtí comhaid tionscadail agus déanann tú an t-ordú `git st
 
 Cuir na hathruithe sin leis an snáth a chruthaigh tú leis an gcnaipe `git add`:
 
-```
+```bash
 git add Contributors.md
 ```
 
 Ansin déan comhaireamh orthu leis an gcnaipe `git commit`:
 
-```
+```bash
 git commit -m "Add your-name to Contributors list"
 ```
 
@@ -91,7 +91,7 @@ agus cuir in áit do ainm in ionad `your-name`.
 
 Seol do chuid athruithe ag baint úsáide as an gcnaipe `git push`:
 
-```
+```bash
 git push -u origin your-branch-name
 ```
 
