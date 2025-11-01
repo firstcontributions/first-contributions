@@ -62,6 +62,8 @@
 - [Darshan K](https://github.com/1511Darshan)
 - [Hsr raza](https://github.com/HsrRaza)
 - [Milen P Kurian](https://github.com/Milenpkurian)
+- [Dorothy Favour]
+- [Dorothy Glory]
 - [APURVA](https://github.com/apurva1435)
 - [Emmanuel Ohwoka](https://github.com/Emmalywebcreator)
 - [ISHAN CHAUHAN] (https://github.com/Ishan-Chauhan)
