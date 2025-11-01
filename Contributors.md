@@ -2328,6 +2328,7 @@
 - [Akshaya Pranathi Burramsetty](https://github.com/BurramsettyAkshayaPranathi)
 - [Morten]
 - [Ivanzhuu](https://github.com/JJchess/)
+- [Neela Mani](https://github.com/Neela-v25)
 - [MohithN](https://github.com/MohithN007/)
 - [yousuf_wizdan](https://github.com/Yousuf-Wizdan)
 - [Ali Al Fattouhi Al Jundi](https://github.com/alialfattoa)
