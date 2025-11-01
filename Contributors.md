@@ -64,7 +64,7 @@
 - [PARNIKA C](https://github.com/parnikachoudhary)
 - [Suggu Varada Raju](https://github.com/rajucreate)
 - [Ch Manikanta Abhiram](https://github.com/abhiramch018)
-- [Atmakuri Dhanush](https://github.com/ATMAKURIDHANUSH33102) 
+- [Atmakuri Dhanush](https://github.com/ATMAKURIDHANUSH33102)
 - [practicagit123](github.com/practicagit123)
 - [AnshMeshram](https://github.com/AnshMeshram)
 - [Sonali Dutta](https://github.com/SonaliDutta-Dev)
@@ -2432,3 +2432,4 @@
 - [Ramsai Polisetti](https://github.com/RamsaiPolisetti)
 - [ Rohit OJha ]
 - [lim li jing](https://github.com/limlijing)
+- [sdet0mis](https://github.com/sdet0mis)
