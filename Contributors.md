@@ -1455,6 +1455,7 @@
 - [StraitGhost](https://github.com/StraitGhost)
 - [saitejx08](https://github.com/saitejx08)
 - [Sunil Reddy](https://github.com/Sunilreddyj)
+- [Manan Sharma](https://github.com/geekgod382)
 - [Syed Khizar](https://github.com/SYEDKHIZARX)
 - [Tejas Chopade](https://github.com/Tejas9777)
 - [TejasK](https://github.com/TejasKoravanavar)
