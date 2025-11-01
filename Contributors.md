@@ -1,6 +1,7 @@
 # Contributors
 
 - [John Cena](https://github.com/johnproha)
+- [Sethu Vinayagam](https://github.com/SethuVinayagam)
 - [Ankan Roy](https://github.com/AnkanJU)
 - [Shahinsha](https://github.com/ShahinshaShahinu)
 - [connectwithvanshika](https://github.com/connectwithvanshika)
@@ -9,15 +10,19 @@
 - [debora](https://github.com/Debora0Martins)
 - [cy873rr10r](https://github.com/cy873rr10r)
 - [WingtIsc](https://github.com/WingtIsc)
+  [2400030206](https://github.com/2400030206)
 - [atharvsalvi](https://github.com/atharvsalvi)
 - [akinator64000](https://github.com/akinator64000)
 - [kaboombastic](https://github.com/kaboombastic) I must not fear, fear is the mind killer.
+- [Spandana Kona](https://github.com/konaspandana017)
 - [Richang-Chaudhary](https://github.com/XPE-7)
 - [2kEleven](https://github.com/2kEleven)
 - [Remy](https://github.com/Remi561) First contribution
 - [sai](https://github.com/sai-30624)
 - [Emre Zeyrek](https://github.com/emre-zeyrek)
 - [Andrew Yoo](https://github.com/andrew-yoo)
+- [Anem Bhargav](https://github.com/ANEMBHARGAV)
+- [pinnintipavankumar26-dot](https://github.com/pinnintipavankumar26-dot)
 - [Apurv-01](https://github.com/Apurv-01)
 - [_dpnm_](https://github.com/DPNM1) Lets do this baby!
 - [Vraddhi Chakrapan](www.linkedin.com/in/vraddhi-chakrapani)
@@ -140,7 +145,7 @@
 - [Charu Singhania](https://github.com/Aruniaaa/Aruniaaa)
 - [Ishika Jindal]
 - [Anuranjan SB](https://github.com/anuranjansb)
-
+- [Mudit Kumar](https://github.com/Mudit0310)
 - [Michael Pugh](https://github.com/icefire1191)
 - [Rishabh Bansal](https://github.com/RishabhBansal22/)
 - [Nisarg Gandhi](https://github.com/Nisarg0007)
@@ -185,6 +190,7 @@
 - [Ehtesham Nawaz](https://github.com/Edri7h)
 - [Jason Lamb](https://github.com/jasrasr)
 - [Adrian Juarez](https://github.com/adrianjzc)
+- [KHL](https://github.com/khanthtoolwin)
 - [Aryan Rai](https://github.com/Fang1331)
 - [Anagha Lambade](https://github.com/Anagha2106)
 - [Khaled Al Katheri](https://github.com/KhaledAlKatheri)
@@ -1451,6 +1457,7 @@
 - [StraitGhost](https://github.com/StraitGhost)
 - [saitejx08](https://github.com/saitejx08)
 - [Sunil Reddy](https://github.com/Sunilreddyj)
+- [Manan Sharma](https://github.com/geekgod382)
 - [Syed Khizar](https://github.com/SYEDKHIZARX)
 - [Tejas Chopade](https://github.com/Tejas9777)
 - [TejasK](https://github.com/TejasKoravanavar)
@@ -2326,6 +2333,7 @@
 - [Akshaya Pranathi Burramsetty](https://github.com/BurramsettyAkshayaPranathi)
 - [Morten]
 - [Ivanzhuu](https://github.com/JJchess/)
+- [Neela Mani](https://github.com/Neela-v25)
 - [MohithN](https://github.com/MohithN007/)
 - [yousuf_wizdan](https://github.com/Yousuf-Wizdan)
 - [Ali Al Fattouhi Al Jundi](https://github.com/alialfattoa)
@@ -2451,6 +2459,7 @@
 - [Abhyudaya Vasisht](https://github.com/rgabhi2526)
 - [vardhan naidu](https://github.com/vardhan30016)
 - [Ramsai Polisetti](https://github.com/RamsaiPolisetti)
+- [Rohit SIVA KUMAR](https://github.com/rohitsivakumar30643)
 - [JiongLin](https://github.com/Lin-Jiong-HDU)
 - [ Rohit OJha ]
 - [Boris Ryjkov](https://github.com/BorisRy)
@@ -2463,4 +2472,9 @@
 - [Matthew Vitale](https://github.com/TheGhostyBear)
 - [Arrvindh PK](https://github.com/ARRVINDHPK)
 - [Javice Chisholm](https://github.com/javice25)
+- [Afolabi Yusuf Opeyemi](https://github.com/Ope-electric)
+- [Vighnesh Tule](https://github.com/vighneshtule)
+- [Ruchit](https://github.com/ruchit2612)
+- [talasudeepk](https://github.com/Talasudeepk)
+- [Chun Yau](https://github.com/chun-yau)
 
