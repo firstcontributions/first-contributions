@@ -41,6 +41,7 @@
 - [Abhinav Piratla](https://github.com/abhinav9558)
 - [Shivaji Thattikota](https://github.com/shivajit410)
 - [sliec](https://github.com/sliec)
+- [Jawed Salim](https://github.com/jawed-salim)
 - [Tosh Gitonga](https://github.com/ToshGitonga0)
 - [Deeksha S](https://github.com/404notDeeksha)
 - [Pooja Patel](https://github.com/PoojasPatel013)
