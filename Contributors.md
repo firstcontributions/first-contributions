@@ -2482,6 +2482,6 @@
 - [Ruchit](https://github.com/ruchit2612)
 - [talasudeepk](https://github.com/Talasudeepk)
 - [Chun Yau](https://github.com/chun-yau)
-
+- [Aulon Ajvazi](https://github.com/AulonAjvazi)
 - [Jorge Paez](https://github.com/jorgepaezcodes)
 - [Furkan Dereli](https://github.com/furkandereli)
