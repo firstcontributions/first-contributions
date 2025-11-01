@@ -1,6 +1,7 @@
 # Contributors
 
 - [John Cena](https://github.com/johnproha)
+- [Sethu Vinayagam](https://github.com/SethuVinayagam)
 - [Ankan Roy](https://github.com/AnkanJU)
 - [Shahinsha](https://github.com/ShahinshaShahinu)
 - [connectwithvanshika](https://github.com/connectwithvanshika)
