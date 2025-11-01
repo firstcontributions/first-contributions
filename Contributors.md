@@ -2481,3 +2481,4 @@
 - [talasudeepk](https://github.com/Talasudeepk)
 - [Chun Yau](https://github.com/chun-yau)
 
+- [Jorge Paez](https://github.com/jorgepaezcodes)
