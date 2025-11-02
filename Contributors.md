@@ -1489,6 +1489,7 @@
 - [Tojan Naiem](https://github.com/Tojan-Naiem)
 - [Torben Kahnert](https://github.com/tmak2002)
 - [UncleObinna](https://github.com/UncleObinna)
+- [Jesus Lopez Fernandez](https://github.com/JesusLopezFernandez)
 - [Vaibhav0725](https://github.com/vaibhav0725)
 - [7Kruk7](https://github.com/7Kruk7)
 - [Vaibhav](https://github.com/vaibhavsanap112)
