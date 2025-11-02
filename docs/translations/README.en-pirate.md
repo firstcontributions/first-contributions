@@ -29,7 +29,7 @@ Now clone this repo t' yer machine. Go t' yer GitHub account, skewer on th' clon
 Open a terminal 'n run th' followin' git command:
 
 ```bash
-git clone "url ye jus' copied"
+git clone " https://github.com/2400032210/first-contributions.git"
 ```
 
 where "url ye jus' copied" (without th' quote marks) be th' url t' this repository (yer fork o' this project). See th' previous steps t' obtain th' url.
@@ -39,7 +39,7 @@ where "url ye jus' copied" (without th' quote marks) be th' url t' this reposito
 Fer example:
 
 ```bash
-git clone https://github.com/this-be-ye/first-contributions.git
+git clone https://github.com/2400032210/first-contributions.git
 ```
 
 where `this-be-ye` be yer GitHub username. Here ye're copyin' th' contents o' th' first-contributions repository in GitHub t' yer 'puter.
@@ -55,13 +55,13 @@ cd first-contributions
 Now create a branch usin' th' `git checkout` command:
 
 ```bash
-git checkout -b <add-your-new-branch-name>
+git checkout -b fix/add-bash-to-en-pirate-codeblocks
 ```
 
 Fer example:
 
 ```bash
-git checkout -b add-luke-oliff
+git checkout -b fix/add-bash-to-en-pirate-codeblocks
 ```
 
 (Th' name o' th' branch does nah needs t' 'ave th' word *add* in it, but 'tis a reasonable thin' t' include 'cause th' purpose o' this branch be t' add yer name t' a list.)
@@ -83,7 +83,7 @@ git add Contributors.md
 Now commit those changes usin' th' `git commit` command:
 
 ```bash
-git commit -m "Add <yer-name> to Contributors list"
+git commit -m "Add lokesh to Contributors list"
 ```
 
 replacing `<yer-name>` with your name.
@@ -93,7 +93,7 @@ replacing `<yer-name>` with your name.
 Push yer changes usin' th' command `git push`:
 
 ```bash
-git push origin <add-yer-branch-name>
+git push origin fix/add-bash-to-en-pirate-codeblocks
 ```
 
 replacin' `<add-yer-branch-name>` wit' th' name o' th' branch ye created earlier.
