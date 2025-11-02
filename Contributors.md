@@ -1269,6 +1269,7 @@
 - [Ruairi Anthony](https://github.com/Ruairia)
 - [Rudraraj Pandey](https://github.com/heelR3)
 - [SIva Saketh](https://github.com/sivasaketh)
+- [Devansh Raghuwanshi](https://github.com/sigmadev92)
 - [Carlos Eduardo](https://github.com/syscarloos)
 - [Sabbir Ahmed](https://github.com/Sabbir256)
 - [Sabrina Ira](https://github.com/sabrinaira)
