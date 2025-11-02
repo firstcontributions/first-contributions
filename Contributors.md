@@ -1,4 +1,5 @@
 # Contributors
+
 - [Das](https://github.com/das970)
 - [Anand Kamble](https://github.com/Anand7820)
 - [John Cena](https://github.com/johnproha)
@@ -15,7 +16,7 @@
 - [connectwithvanshika](https://github.com/connectwithvanshika)
 - [Tulasi Lasya](https://github.com/TulasiLasya)
 - [DevendraNathLimbu](https://github.com/DevendraNathLimbu) first contribution, thank you
-- [CodeWithYuva](https://github.com/CodeWithYuva/first-contributions) My first contribution Happy to start 😊 
+- [CodeWithYuva](https://github.com/CodeWithYuva/first-contributions) My first contribution Happy to start 😊
 - [debora](https://github.com/Debora0Martins)
 - [Ramana](https://github.com/duvvuvenkataramanareddy)
 - [cy873rr10r](https://github.com/cy873rr10r)
@@ -37,7 +38,7 @@
 - [Astha Mishra](https://github.com/A-stha-M)
 - [Apurv-01](https://github.com/Apurv-01)
 - [_dpnm_](https://github.com/DPNM1) Lets do this baby!
-- [Fraser Paterson] 
+- [Fraser Paterson]
 - [Vraddhi Chakrapan](www.linkedin.com/in/vraddhi-chakrapani)
 - [prasanth](https://github.com/prasanth-30011)
 - [Amoda Hegde](https://github.com/AmodaHegde)
@@ -2516,6 +2517,5 @@
 - [Furkan Dereli](https://github.com/furkandereli)
 - [Hasan-8326](https://github.com/Hasan-8326)
 - [Mahith sai](https://github.com/mssid437)
-- [Amohi Jain](https://github.com/amohijain/first-contributions)
-- [Anwesha](https://github.com/aaneesa)
 - [Aarav Jain](https://github.com/Aarav-Jain-official)
+- [Aniket](https://github.com/AniketXcode)
