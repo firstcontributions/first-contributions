@@ -32,6 +32,7 @@
 - [Anem Bhargav](https://github.com/ANEMBHARGAV)
 - [pinnintipavankumar26-dot](https://github.com/pinnintipavankumar26-dot)
 - [Prakriti Manhar](https://github.com/prakritim01)
+- [Astha Mishra](https://github.com/A-stha-M)
 - [Apurv-01](https://github.com/Apurv-01)
 - [_dpnm_](https://github.com/DPNM1) Lets do this baby!
 - [Fraser Paterson] 
