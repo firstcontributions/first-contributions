@@ -2473,6 +2473,7 @@
 - [Francesco P]
 - [Rehan Shaikh](https://github.com/rehan-03)
 - [Akhil Mishra](https://github.com/akhilmishra)
+- [Soham Sarpotdar](https://github.com/sarpotdarsoham)
 - [Aditya Lalwani](https://github.com/Spark8961)
 - [Paramita](https://github.com/sheisparamita)
 - [Sankalp Sharma](https://github.com/sankalpsharma38/sankalpsharma38)
