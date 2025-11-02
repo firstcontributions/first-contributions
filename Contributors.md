@@ -33,6 +33,7 @@
 - [Karina Suhajda](https://github.com/SlyFoxAhri/)
 - [Riddhi Shah](https://github.com/riidefined)
 - [Saroj Kushwaha](https://github.com/SrjKshwh)
+- [Nivesh Padamata](https://github.com/niveshpadamata1218)
 - [Jun Harada](https://github.com/haradaj)
 - [Aniket Ghorpade](https://github.com/Aniketghorpade7)
 - [Raul RP](https://github.com/Howl-Stone)
