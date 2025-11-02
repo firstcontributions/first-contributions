@@ -5,6 +5,7 @@
 - [Gokul45-45](https://github.com/Gokul45-45)
 - [Sethu Vinayagam](https://github.com/SethuVinayagam)
 - [Ankan Roy](https://github.com/AnkanJU)
+- [Jatin Prajapati](https://github.com/Jatinprajapati7869)
 - [Shahinsha](https://github.com/ShahinshaShahinu)
 - [connectwithvanshika](https://github.com/connectwithvanshika)
 - [Tulasi Lasya](https://github.com/TulasiLasya)
