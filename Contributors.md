@@ -1219,6 +1219,7 @@
 - [Jordan Atkins](https://github.com/Atkinss1)
 - [Jose Nieto](https://github.com/nietojose10)
 - [Joshua Luca](https://github.com/joshluca98)
+- [Aziz Ncir](https://github.com/mohamedazizncir)
 - [Kavindi](https://github.com/kavindidilhara)
 - [Keshav](https://github.com/keshav-develops)
 - [Khushi Ray](https://github.com/khushiray07)
