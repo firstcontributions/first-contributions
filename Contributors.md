@@ -267,6 +267,7 @@
 - [Felipe](https://github.com/oOFelipeOo/)
 - [Inesh Agarwal](https://github.com/IneshAg)
 - [Ayoub Ben Aissa](https://github.com/Frontier101)
+- [Russ Dilley](https://github.com/dilleyrd)
 - [Nsiru Williams](https://github.com/Cokekoro)
 - [Priyeash Bala](https://github.com/priyeashbala)
 - [Ganesh Gadhave](https://github.com/ganeshygadhave)
