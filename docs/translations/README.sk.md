@@ -1,5 +1,4 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -111,7 +110,6 @@ Blahoželáme! Práve ste dokončili štandardný _fork -> clone -> edit ->_ pri
 
 Oslávte svoj prvý príspevok so svojimi priateľmi a nasledovníkmi cez [webovú aplikáciu](https://firstcontributions.github.io/#social-share).
 
-V prípade, ak by ste mali akékoľvek otázky alebo potrebovali pomoc, môžete sa [pridat k našemu Slack teamu](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
 Teraz vám už nič nebráni v prispievaní do ostatných projektov. Pripravili sme pre vás zoznam projektov, ktoré majú jednoduché záležitosti na vyriešenie/naprogramovanie, s ktorými môžete začať. Pozrite sa [tu](https://firstcontributions.github.io/#project-list).
 
