@@ -9,6 +9,8 @@
 - [Sethu Vinayagam](https://github.com/SethuVinayagam)
 - [Ankan Roy](https://github.com/AnkanJU)
 - [Krishna Medapati](https://github.com/krishna-medapati)
+- scinac
+- [n0jj0n](https://github.com/n0jj0n)
 - [Jatin Prajapati](https://github.com/Jatinprajapati7869)
 - [Shahinsha](https://github.com/ShahinshaShahinu)
 - [connectwithvanshika](https://github.com/connectwithvanshika)
@@ -33,6 +35,7 @@
 - [Anem Bhargav](https://github.com/ANEMBHARGAV)
 - [pinnintipavankumar26-dot](https://github.com/pinnintipavankumar26-dot)
 - [Prakriti Manhar](https://github.com/prakritim01)
+- [Astha Mishra](https://github.com/A-stha-M)
 - [Apurv-01](https://github.com/Apurv-01)
 - [_dpnm_](https://github.com/DPNM1) Lets do this baby!
 - [Fraser Paterson]
@@ -117,6 +120,7 @@
 - [Akhil Sharma](https://github.com/AkhilSharma11681)
 - [Alok KUmar]
 - [Mahnsi Ruparelia](https://github.com/mahnsi)
+- [Ruben Moreno](https://github.com/Ruben174520)
 - [AbhishekSaini](https://github.com/Upiottxat)
 - [Himabindu](https://github.com/himabindu-1614)
 - [Nithish MR](https://github.com/NithishMR)
@@ -1329,9 +1333,11 @@
 - [Voicu Bogdan](https://github.com/zvoicu000)
 - [Wade Rees](https://github.com/wade-rees-me)
 - [Wahengbam Nirvash Singh](https://github.com/vashprog)
+-[Marco Schipani](https://github.com/Mar9803)
 - [Wanling Fu](https://github.com/wanling0000)
 - [yash ajay magar](https://github.com/yash_m)
 - [WebX Beyond](https://github.com/webxbeyond)
+- [noredact](https://github.com/noredact)
 - [Yarno Grenier](https://github.com/yarno97x)
 - [Yuvraj Sanap](https://github.com/YuvrajS99)
 - [adwaitp](https://github.com/adwaitdagitguy)
@@ -1489,6 +1495,7 @@
 - [Tojan Naiem](https://github.com/Tojan-Naiem)
 - [Torben Kahnert](https://github.com/tmak2002)
 - [UncleObinna](https://github.com/UncleObinna)
+- [Jesus Lopez Fernandez](https://github.com/JesusLopezFernandez)
 - [Vaibhav0725](https://github.com/vaibhav0725)
 - [7Kruk7](https://github.com/7Kruk7)
 - [Vaibhav](https://github.com/vaibhavsanap112)
@@ -2268,6 +2275,7 @@
 - [SakuraPuare](https://github.com/SakuraPuare)
 - [Vaishnavi Kashyap](https://github.com/vaishnavikashyap-07)
 - [Milan Christy](https://github.com/dev-ploy)
+- [HHAnmol](https://github.com/HHAnmol)
 - [Stephen Salamon](https://github.com/trickledown-coding)
 - [Amitha Sanjaya](https://github.com/Amitha4469)
 - [Roshan Reji](https://github.com/RoshanBtech)
