@@ -2269,6 +2269,7 @@
 - [SakuraPuare](https://github.com/SakuraPuare)
 - [Vaishnavi Kashyap](https://github.com/vaishnavikashyap-07)
 - [Milan Christy](https://github.com/dev-ploy)
+- [HHAnmol](https://github.com/HHAnmol)
 - [Stephen Salamon](https://github.com/trickledown-coding)
 - [Amitha Sanjaya](https://github.com/Amitha4469)
 - [Roshan Reji](https://github.com/RoshanBtech)
