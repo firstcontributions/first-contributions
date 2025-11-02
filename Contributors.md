@@ -2512,5 +2512,6 @@
 - [Furkan Dereli](https://github.com/furkandereli)
 - [Hasan-8326](https://github.com/Hasan-8326)
 - [Mahith sai](https://github.com/mssid437)
-[Amohi Jain] (https://github.com/amohijain/first-contributions)
+- [Amohi Jain](https://github.com/amohijain/first-contributions)
+- [Anwesha](https://github.com/aaneesa)
 - [Aarav Jain](https://github.com/Aarav-Jain-official)
