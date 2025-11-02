@@ -21,7 +21,7 @@
 </div>
 
 ## <div dir="rtl"> أفصل المشروع دة - Fork this Repository </div>
-<img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="اعمل فورك للمستودع ده" />
 <div dir="rtl">
 خد نسخة من المشروع دة (أو افصله) عن طريق انك تدوس على Fork في أعلى الصفحة.
 لو عملت كدة فأنت اخدت نسخة من الفولدر دة فى حسابك على github.
@@ -29,13 +29,13 @@
 
 ## <div dir="rtl"> إنسخ المشروع دة - Clone the repository </div>
 
-<img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="انسخ المستودع على جهازك" />
 
 <div dir="rtl">
 انسخ المشروع دة لجهازك.
 دوس على Clone بعدين دوس على أيقونة Copy to clipboard
 </div>
-<img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="انسخ الرابط للحافظة" />
 <div dir="rtl">
 إفتح التريمنال وأكتب الأمر دة:
 </div>
@@ -145,11 +145,11 @@ git push origin "add-your-name"
 
 <div dir="rtl">في صفحة المشروع بتاعك على صفحتك الشخصية على github دوس على زرار <code>Compare &amp; pull request</code>. هو ماكنش  ظاهر قبل كدة.</div>
 
-<img style="float: left;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: left;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="اعمل Pull Request لدمج التغييرات" />
 
 <div dir="rtl">دلوقتي هتسلم طلبك لصاحب المشروع الأساسي عشان يراجع عليه، في الحالة دي الطلب بتاعك هيوصلي. </div>
 
-<img style="float: left;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: left;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="قدّم الـ Pull Request" />
 
 <div dir="rtl">بعد المراجعة هدمج تغيرراتك للفرع الرئيسي في المشروع. وهيتم تنبيهك عن طريق البريد الإلكتروني بدة.</div>
 
@@ -174,6 +174,6 @@ git push origin "add-your-name"
 
 ## <div dir="rtl">لو هتستخدم ادوات تانية ممكن تتعلم من هنا</div>
 
-| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
+| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="تطبيق GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="فيجوال ستوديو 2017 " src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="برنامج GitKraken " src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="محرر VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="تطبيق Sourcetree" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="برنامج IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | --- | --- | --- | --- | --- | --- |
 | [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md) | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md) | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md) | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md) | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md) | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md) |

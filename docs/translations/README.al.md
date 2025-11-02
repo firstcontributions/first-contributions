@@ -26,7 +26,7 @@ Tani klonoje në pajisjen tënde repozitorin që bëre fork. Shko te llogaria e 
 
 Hap terminalin dhe bëje run git komandën në vazhdim:
 
-```
+```bash
 git clone "url që sapo ke kopjuar"
 ```
 
@@ -36,7 +36,7 @@ ku "url që sapo ke kopjuar" (pa thonjëzat) është url e këtij repozitori (re
 
 Për shembull:
 
-```
+```bash
 git clone https://github.com/ky-je-ti/first-contributions.git
 ```
 
@@ -46,19 +46,19 @@ ku `ky-je-ti` është emri jot në GitHub. Këtu ti e kopjon përmbajtjen e repo
 
 Ndryshoje lokacionin te repozitori në kompjuterin tënd (nëse nuk je në lokacionin e duhur):
 
-```
+```bash
 cd first-contributions
 ```
 
 Tani krijo një degë duke përdorur komandën `git checkout`:
 
-```
+```bash
 git checkout -b <emri-i-degës-tënde>
 ```
 
 Për shembull:
 
-```
+```bash
 git checkout -b add-filan-fisteku
 ```
 
@@ -74,13 +74,13 @@ Nëse shkon te lokacioni i projektit dhe e ekzekuton komandën `git status`, do 
 
 Shtoji këto ndryshime te dega që sapo krijove duke përdorur komandën `git add`:
 
-```
+```bash
 git add Contributors.md
 ```
 
 Tani bëji commit këto ndryshime duke përdorur komandën `git commit`:
 
-```
+```bash
 git commit -m "Add <emri-jot> to Contributors list"
 ```
 
@@ -90,7 +90,7 @@ zëvendëso `<emri-jot>` me emrin tënd.
 
 Bëji push ndryshimet duke përdorur komandën `git push`:
 
-```
+```bash
 git push origin <emri-i-degës-tënde>
 ```
 
