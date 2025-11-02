@@ -34,6 +34,7 @@
 - [Fraser Paterson] 
 - [Vraddhi Chakrapan](www.linkedin.com/in/vraddhi-chakrapani)
 - [prasanth](https://github.com/prasanth-30011)
+- [Amoda Hegde](https://github.com/AmodaHegde)
 - [Syed Muhammad Hussain Naqvi](https://github.com/smhnaqvi)
 - [CYK] (https://github.com/arra-huening77)
 - [Karina Suhajda](https://github.com/SlyFoxAhri/)
