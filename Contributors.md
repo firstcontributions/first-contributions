@@ -2484,6 +2484,7 @@
 - [Javice Chisholm](https://github.com/javice25)
 - [Afolabi Yusuf Opeyemi](https://github.com/Ope-electric)
 - [Vighnesh Tule](https://github.com/vighneshtule)
+- [Foteini Taramopoulou](https://github.com/ftaramo)
 - [Ruchit](https://github.com/ruchit2612)
 - [talasudeepk](https://github.com/Talasudeepk)
 - [Chun Yau](https://github.com/chun-yau)
