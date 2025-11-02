@@ -1329,6 +1329,7 @@
 - [Voicu Bogdan](https://github.com/zvoicu000)
 - [Wade Rees](https://github.com/wade-rees-me)
 - [Wahengbam Nirvash Singh](https://github.com/vashprog)
+-[Marco Schipani](https://github.com/Mar9803)
 - [Wanling Fu](https://github.com/wanling0000)
 - [yash ajay magar](https://github.com/yash_m)
 - [WebX Beyond](https://github.com/webxbeyond)
