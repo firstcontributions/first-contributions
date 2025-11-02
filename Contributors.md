@@ -384,6 +384,7 @@
 - [Kwon Daegun](https://github.com/kwon-daegun)
 - [Sam Rosandick](https://github.com/Sam-is-AI)
 - [Vedavyasa]
+- [Sourav Verma][https://github.com/SouravVerma-art]
 - [Harsh Gupta](https://github.com/HarshGupta-09)
 - [Kurt Schwimmbacher](https://github.com/KurtSchwimmbacher)
 - [Aaromal A](https://github.com/aaromalonline)
@@ -425,7 +426,6 @@
 - [Mohamed Adhil](https://github.com/adhil-cloud)
 - [Aydan Butler](https://github.com/aydanpb)
 - [duvvuvenkataramana](https://github.com/duvvuvenkataramana)
-
 - [Avanthi Boopalan](https://github.com/aboopala)
 - [Kavindu Udara](https://github.com/kavindu-udara)
 - [Nazeer Shaikh](https://github.com/nash226)
