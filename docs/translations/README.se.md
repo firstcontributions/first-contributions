@@ -32,7 +32,8 @@ Klona repot till din dator. Gå till ditt GitHub-konto och klicka på clone-knap
 
 ```bash
 git clone "url you just copied"
-```
+```bash
+```bash
 där "url you just copied" (utan citat-tecken) är URL:en för detta repo (din fork för detta projekt). Se föregående steg för att hitta URL:en.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
@@ -40,7 +41,8 @@ där "url you just copied" (utan citat-tecken) är URL:en för detta repo (din f
 Till exempel:
 ```bash
 git clone https://github.com/this-is-you/first-contributions.git
-```
+```bash
+```bash
 där `this-is-you` är ditt användarnamn på GitHub. På detta sätt kopierar du innehållet i repot till din dator.
 
 ## Skapa en branch
@@ -49,17 +51,20 @@ Gå till repo-katalogen på din dator (om du inte redan står i den katalogen):
 
 ```bash
 cd first-contributions
-```
+```bash
+```bash
 
 Nu skapar du en branch genom att använda kommandot `git checkout`:
 ```bash
 git checkout -b <lägg till ditt branch-namn>
-```
+```bash
+```bash
 
 Till exempel:
 ```bash
 git checkout -b mitt-tillag
-```
+```bash
+```bash
 
 ## Gör de ändringar du vill göra och commita dem
 
@@ -74,12 +79,14 @@ Lägg till dina ändringar genom att använda kommando `git add`:
 
 ```bash
 git add Contributors.md
-```
+```bash
+```bash
 
 Commita dina ändringar genom att använda `git commit`:
 ```bash
 git commit -m "Add <your-name> to Contributors list"
-```
+```bash
+```bash
 ersätt `<your-name>` med ditt namn.
 
 ## Pusha ändringar till GitHub
@@ -87,7 +94,8 @@ ersätt `<your-name>` med ditt namn.
 Pusha dina ändringar genom att använda kommando `git push`:
 ```bash
 git push origin <add-your-branch-name>
-```
+```bash
+```bash
 ersätt `<add-your-branch-name>` med det branch-namn du använt tidigare.
 
 ## Skicka iväg dina ändringar för granskning
