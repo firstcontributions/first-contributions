@@ -12,7 +12,7 @@ Artikkeleiden lukeminen sekä tutoriaalien katsominen voi auttaa, mutta mikä on
 
 #### *Jos et osaa käyttää komentoriviä sulavasti, [täältä löytyy tutoriaaleja GUI-työkalujen käyttöön.](#Muiden-työkalujen-tutoriaaleja)*
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="forkkaa tämä repositorio" />
 
 Jos sinulla ei ole git asennettuna koneellesi, [asenna se](https://help.github.com/articles/set-up-git/).
 
@@ -22,23 +22,23 @@ Forkkaa tämä repositorio klikkaamalla yläkulmassa näkyvää painiketta "Fork
 
 ## Kloonaa repositorio
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="kloonaa tämä repositorio" />
 
 Seuraavaksi kloonaa juuri forkkaamasi repositorio koneellesi. Mene GitHub käyttäjäsivuillesi, avaa forkkaamasi repositorio sekä klikkaa "Clone or download"-painiketta jonka jälkeen kopioi osoite painamalla "Copy to clipboard"-ikonia.
 
 Avaa komentorivi ja syötä seuraava git-komento:
 
-```
+```bash
 git clone "Juuri kopioimasi URL"
 ```
 
 "Juuri kopioimasi URL"-tekstin sijasta (ilman lainausmerkkejä) pastea repositorion URL äskeisestä vaiheesta.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="kopioi URL leikepöydälle" />
 
 Esimerkiksi:
 
-```
+```bash
 git clone https://github.com/nimesi/first-contributions.git
 ```
 
@@ -48,19 +48,19 @@ Kirjoita GitHub-käyttäjänimesi 'nimesi' teksin sijaan. Tämä komento kopioi 
 
 Mene repositoriosi kansioon koneellasi (ellet jo ole siellä).
 
-```
+```bash
 cd first-contributions
 ```
 
 Seuraavaksi luo branch komennolla `git checkout`:
 
-```
+```bash
 git checkout -b <lisaa-sinun-branchin-nimi>
 ```
 
 Esimerkiksi:
 
-```
+```bash
 git checkout -b add-matti-meikalainen
 ```
 
@@ -70,19 +70,19 @@ git checkout -b add-matti-meikalainen
 
 Seuraavaksi avaa `Contributors.md` tiedosto tekstieditorissa ja lisää nimesi tiedostoon. Älä lisää sitä tiedoston alkuun taikka loppuun vaan keskelle. Seuraaksi tallenna tiedosto.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status -komento" />
 
 Jos menet projektin kansioon ja syötät komennon `git status`, näet muutokset.
 
 Lisää nuo muutokset branchiin `git add` komennolla:
 
-```
+```bash
 git add Contributors.md
 ```
 
 Seuraavaksi committoi muutokset `git commit` komennolla:
 
-```
+```bash
 git commit -m "Add <sinun-nimesi> to Contributors list"
 ```
 
@@ -92,7 +92,7 @@ Korvaamalla `<sinun-nimesi>` nimelläsi.
 
 Pushaa muutoksesi komennolla `git push`:
 
-```
+```bash
 git push origin <lisaa-branchisi-nimi>
 ```
 
@@ -102,11 +102,11 @@ Korvaamalla `<lisaa-branchisi-nimi>` nimellä jonka annoit branchillesi aikaisem
 
 Jos menet repositorioosi GitHubissa, näet `Compare & pull request` painikkeen.  Paina tuota painiketta.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="luo pull request" />
 
 Seuraavaksi suorita pull request.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="lähetä pull request" />
 
 Seuraavaksi mergeän muutoksesi tämän projektin master-branchiin. Tulet saamaan ilmoituksen sähköpostiisi kun muutokset ovat mergetty.
 
@@ -124,6 +124,6 @@ Jos haluaisit kontribuoida muihin projekteihin, me olemme koonneet listan yksink
 
 ## Muiden työkalujen tutoriaaleja
 
-| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
+| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop -sovellus" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken-ohjelma" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code -editori" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree-sovellus" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA -ohjelma" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | --- | --- | --- | --- | --- | --- |
 | [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md) | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md) | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md) | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md) | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md) | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md) |
