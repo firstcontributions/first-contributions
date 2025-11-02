@@ -1,5 +1,6 @@
 # Contributors
 - [Omveer](https://github.com/narukaz/)
+- [Mudassir Ahmed](https://github.com/Mudassir-Ahmed-git)
 - [GENJI J](https://github.com/anya-minamoto)
 - [smdekate-cs](https://github.com/smdekate-cs)
 - [HighPoly](https://github.com/HighPolygon)
