@@ -6,6 +6,7 @@
 - [mani vardhan](https://github.com/mani vardhan)
 - [Sethu Vinayagam](https://github.com/SethuVinayagam)
 - [Ankan Roy](https://github.com/AnkanJU)
+- [Krishna Medapati](https://github.com/krishna-medapati)
 - [Jatin Prajapati](https://github.com/Jatinprajapati7869)
 - [Shahinsha](https://github.com/ShahinshaShahinu)
 - [connectwithvanshika](https://github.com/connectwithvanshika)
