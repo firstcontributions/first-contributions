@@ -9,6 +9,7 @@
 - [Ankan Roy](https://github.com/AnkanJU)
 - [Krishna Medapati](https://github.com/krishna-medapati)
 - scinac
+- [n0jj0n](https://github.com/n0jj0n)
 - [Jatin Prajapati](https://github.com/Jatinprajapati7869)
 - [Shahinsha](https://github.com/ShahinshaShahinu)
 - [connectwithvanshika](https://github.com/connectwithvanshika)
