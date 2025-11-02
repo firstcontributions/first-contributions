@@ -110,8 +110,6 @@ Nakon toga, admin će spojiti promjene koje ste napravili sa master granom proje
 
 Proslavite tako što ćete podjeliti vaš doprinos sa prijateljima i pratiocima otvaranjem [stranice](https://firstcontributions.github.io/#social-share).
 
-Pridružite se i našem Slack timu u slučaju da vam je potrebna ikakva pomoć ili imate bilo kakvih pitanja. 
-
 A sada, možemo početi sa doprinosima drugim projektima. Napravili smo spisak projekata sa jednostavnim problemima na kojima možete početi da radite. Posetite stranicu sa [the list of projects na našem sajtu](https://firstcontributions.github.io/#project-list).
 
 ### [Dodatni materijali](../additional-material/git_workflow_scenarios/additional-material.md)
