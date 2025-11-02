@@ -798,6 +798,7 @@
 - [Ahmed Fikri](https://github.com/Fikri-20)
 - [Akash Dahal](https://github.com/DARKAD10)
 - [Alexander](https://github.com/azuaje1982)
+- [Ruronha Rana](https://github.com/rudronha)
 - [Alif Akbar](https://github.com/alifakbxr)
 - [Alokananda Y](https://github.com/alok-38)
 - Zak Slovak
