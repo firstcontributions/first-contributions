@@ -2491,7 +2491,6 @@
 - [Ruchit](https://github.com/ruchit2612)
 - [talasudeepk](https://github.com/Talasudeepk)
 - [Chun Yau](https://github.com/chun-yau)
-
 - [Jorge Paez](https://github.com/jorgepaezcodes)
 - [Furkan Dereli](https://github.com/furkandereli)
 - [Hasan-8326](https://github.com/Hasan-8326)
