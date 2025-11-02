@@ -11,6 +11,7 @@
 - [connectwithvanshika](https://github.com/connectwithvanshika)
 - [Tulasi Lasya](https://github.com/TulasiLasya)
 - [DevendraNathLimbu](https://github.com/DevendraNathLimbu) first contribution, thank you
+- [CodeWithYuva](https://github.com/CodeWithYuva/first-contributions) My first contribution Happy to start 😊 
 - [debora](https://github.com/Debora0Martins)
 - [Ramana](https://github.com/duvvuvenkataramanareddy)
 - [cy873rr10r](https://github.com/cy873rr10r)
