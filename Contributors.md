@@ -24,6 +24,7 @@
 - [Andrew Yoo](https://github.com/andrew-yoo)
 - [Anem Bhargav](https://github.com/ANEMBHARGAV)
 - [pinnintipavankumar26-dot](https://github.com/pinnintipavankumar26-dot)
+- [Prakriti Manhar](https://github.com/prakritim01)
 - [Apurv-01](https://github.com/Apurv-01)
 - [_dpnm_](https://github.com/DPNM1) Lets do this baby!
 - [Vraddhi Chakrapan](www.linkedin.com/in/vraddhi-chakrapani)
@@ -2484,6 +2485,7 @@
 - [Javice Chisholm](https://github.com/javice25)
 - [Afolabi Yusuf Opeyemi](https://github.com/Ope-electric)
 - [Vighnesh Tule](https://github.com/vighneshtule)
+- [Foteini Taramopoulou](https://github.com/ftaramo)
 - [Ruchit](https://github.com/ruchit2612)
 - [talasudeepk](https://github.com/Talasudeepk)
 - [Chun Yau](https://github.com/chun-yau)
