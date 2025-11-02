@@ -12,6 +12,7 @@
 - scinac
 - [n0jj0n](https://github.com/n0jj0n)
 - [Jatin Prajapati](https://github.com/Jatinprajapati7869)
+- [Petar Djorovic](https://github.com/petardjorovic)
 - [Shahinsha](https://github.com/ShahinshaShahinu)
 - [connectwithvanshika](https://github.com/connectwithvanshika)
 - [Tulasi Lasya](https://github.com/TulasiLasya)
