@@ -267,6 +267,7 @@
 - [namest504](https://github.com/namest504)
 - [Taiinguyenn139](https://github.com/Taiinguyenn139)
 - [manasab805](https://github.com/manasab805)
+- [LeslieK]
 - [Aravind Rao](https://github.com/rekcilyssup)
 - [Robert Schacht](https://github.com/rsschacht)
 - [amarmerada](https://github.com/amarmerada99)
