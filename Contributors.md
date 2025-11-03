@@ -2556,3 +2556,4 @@
 - [Vaishnav Nidhi](https://github.com/Vsn8gh/first-contributions)
 - [Taha Kocer](https://github.com/tahakocerPiA)
 - [Shourya Jain](https://github.com/ShouryaJain28)
+- [Yug Gupta](https://www.linkedin.com/in/guptayug/)
