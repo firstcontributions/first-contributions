@@ -13,6 +13,7 @@
 - [Krishna Medapati](https://github.com/krishna-medapati)
 - scinac
 - [n0jj0n](https://github.com/n0jj0n)
+- [Henrique Rezende](https://github.com/henriquercz)
 - [Jatin Prajapati](https://github.com/Jatinprajapati7869)
 - [Petar Djorovic](https://github.com/petardjorovic)
 - [Shahinsha](https://github.com/ShahinshaShahinu)
