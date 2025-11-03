@@ -2531,3 +2531,4 @@
 - [Ashish Prasad](https://github.com/AkprasadoP)
 -[Prince Tiwari](www.linkedin.com/in/prince-tiwari-3b75ab26b)
 -[Vohkelem](https://github.com/Vohkelem)
+-[Vaghela Karansinh](https://github.com/VaghelaKaransinh)
