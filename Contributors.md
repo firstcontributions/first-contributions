@@ -819,6 +819,7 @@ Ukashatu Abdullahi
 - [Dwaine](https://github.com/DwaineBrannon)
 - [zzb](https://github.com/zbrun)
 - [Hazel] (https://github.com/hzy-hk)
+- [Zara](https://github.com/zaracoder-stack)
 - [Farzaneh Shams](https://github.com/trajectory100)
 - [Abhijit](https://github.com/erakin027)
 - [tr33k](https://github.com/tr33k)
