@@ -2546,6 +2546,7 @@
 - [Guilherme Silva](https://github.com/gsilva00/) -[Vaghela Karansinh](https://github.com/VaghelaKaransinh)
 - [Hsyuan54670](https://github.com/Hsyuan54670)
 - [FAKE-SURYA](https://github.com/FAKE-SURYA)
+- [Lorraine Ferrusi](https://github.com/data-adventurer)
 - [Lorenz Nacilla](https://github.com/LorenzNacilla)
 - [sknman92](https://github.com/sknman92)
 - [Vaishnav Nidhi](https://github.com/Vsn8gh/first-contributions)
