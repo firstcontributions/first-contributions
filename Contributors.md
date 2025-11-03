@@ -205,6 +205,7 @@
 - [Ronin](https://github.com/iamroninfr)
 - [Brittany Lynn](https://github.com/tylub001)
 - [Tonya Glover](https://github.com/daughterofgaia87)
+- [Lalit Aditya M] (https://github.com/lalitaditya04)
 - [Joao Guilherme Felizardo](https://github.com/JoaoCaconde)
 - [Moageza](https://github.com/Moagezaaa)
 - [Vishnudas Nayak P](https://github.com/VishnudasNayakP)
