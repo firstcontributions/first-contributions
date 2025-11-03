@@ -22,6 +22,7 @@
 - [Shahinsha](https://github.com/ShahinshaShahinu)
 - [connectwithvanshika](https://github.com/connectwithvanshika)
 - [Abhinav Ranjan Jha](https://github.com/ARJ544)
+- [William Dellinger](https://github.com/Willd231)
 - [Tulasi Lasya](https://github.com/TulasiLasya)
 - [DevendraNathLimbu](https://github.com/DevendraNathLimbu) first contribution, thank you
 - [CodeWithYuva](https://github.com/CodeWithYuva/first-contributions) My first contribution Happy to start 😊
@@ -939,6 +940,7 @@
 - [Patrick Yeung](https://github.com/eampat)
 - [Daniel Gacha](https://github.com/JDanielGS)
 - [Plexton](https://github.com/ZaibLComrade)
+- [William Dellinger](https://github.com/Willd231)
 - [Prasad J B](https://github.com/Prasad-JB)
 - [Pro Kumar](https://github.com/pkumar2143)
 - [Rajneesh](https://github.com/rajneesh-18)
