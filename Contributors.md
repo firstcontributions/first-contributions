@@ -1,6 +1,8 @@
 # Contributors
 
+- [Sourab Reddy](https://github.com/Arcanixhades0)
 - [Das](https://github.com/das970)
+- [Trujifl](https://github.com/Trujifl)
 - [Anand Kamble](https://github.com/Anand7820)
 - [John Cena](https://github.com/johnproha)
 - [Gokul45-45](https://github.com/Gokul45-45)
@@ -20,6 +22,7 @@
 - [Shahinsha](https://github.com/ShahinshaShahinu)
 - [connectwithvanshika](https://github.com/connectwithvanshika)
 - [Abhinav Ranjan Jha](https://github.com/ARJ544)
+- [William Dellinger](https://github.com/Willd231)
 - [Tulasi Lasya](https://github.com/TulasiLasya)
 - [DevendraNathLimbu](https://github.com/DevendraNathLimbu) first contribution, thank you
 - [CodeWithYuva](https://github.com/CodeWithYuva/first-contributions) My first contribution Happy to start 😊
@@ -39,6 +42,7 @@
 - [Remy](https://github.com/Remi561) First contribution
 - [sai](https://github.com/sai-30624)
 - [Emre Zeyrek](https://github.com/emre-zeyrek)
+- [Devourer](https://github.com/Devourer322)
 - [Andrew Yoo](https://github.com/andrew-yoo)
 - [Anem Bhargav](https://github.com/ANEMBHARGAV)
 - [pinnintipavankumar26-dot](https://github.com/pinnintipavankumar26-dot)
@@ -69,6 +73,7 @@
 - [Harikrishnan R](https://github.com/Pixelrick420)
 - [Vishal Singh](https://github.com/ILUCIFER0069)
 - [Abhinav Piratla](https://github.com/abhinav9558)
+- [Otto Richardson](https://github.com/OttoRichardson)
 - [Shivaji Thattikota](https://github.com/shivajit410)
 - [sliec](https://github.com/sliec)
 - [Jawed Salim](https://github.com/jawed-salim)
@@ -154,6 +159,7 @@
 - [Prajwal Rawoorkar](https://github.com/Deadheaven)
 - [sigabeauty](https://github.com/sigabeauty)
 - [jsdtwry](https://github.com/jsdtwry)
+- [Alexandre Verot](https://github.com/AlexVer52)
 - [Maha Laeeq](https://github.com/s4096770)
 - [Eric Asbury](https://github.com/Anthro-pod)
 - [Akash s kishor](https://github.com/eAK-47)
@@ -164,6 +170,7 @@
 - [Elmar Chavez](https://github.com/CodingWithJiro)
 - [Chisaneme Aloni](https://github.com/Alachi24)
 - [Leandro Freitas](https://github.com/LFreitas88)
+- [Manraj Singh](https://github.com/Mxnrxjj)
 - [Tedliu](https://github.com/qsc811022)
 - [HariRaju](https://github.com/HariSivaraj)
 - [Kamal pandi V](https://github.com/kamalpandi)
@@ -180,6 +187,7 @@
 - [Nisarg Gandhi](https://github.com/Nisarg0007)
 - [Hayden D'Souza](https://github.com/haydenfd/)
 - Piyush Sharma
+- [Maria Perez](https://github.com/marifer-perezh)
 - [paras Gupta](https://github.com/paras2003gupta)
 - [Zhumagulov Zhakyp](https://github.com/zhumagulovv)
 - [Mahendra Kumar Sahu](https://github.com/mahi-in9)
@@ -322,6 +330,7 @@
 - [Rezhan Fatah](https://github.com/RezhanFatah)
   chenhui
   [Sheetal Lodhi](https://github.com/sheetalll28)
+  [Pingtougea](https://github.com/pingtougea)
   [Qinan Gao](https://github.com/qinangao)
 - [Yash Kumar Rana](https://github.com/YashRana52)
 - [Huzaifa Ghori](https://github.com/Huzaifa1910)
@@ -933,6 +942,7 @@
 - [Patrick Yeung](https://github.com/eampat)
 - [Daniel Gacha](https://github.com/JDanielGS)
 - [Plexton](https://github.com/ZaibLComrade)
+- [William Dellinger](https://github.com/Willd231)
 - [Prasad J B](https://github.com/Prasad-JB)
 - [Pro Kumar](https://github.com/pkumar2143)
 - [Rajneesh](https://github.com/rajneesh-18)
@@ -1344,7 +1354,8 @@
 - [Vivek Gupta](https://github.com/Vivekg1033)
 - [Voicu Bogdan](https://github.com/zvoicu000)
 - [Wade Rees](https://github.com/wade-rees-me)
-- [Wahengbam Nirvash Singh](https://github.com/vashprog) -[Marco Schipani](https://github.com/Mar9803)
+- [Wahengbam Nirvash Singh](https://github.com/vashprog)
+- [Marco Schipani](https://github.com/Mar9803)
 - [Wanling Fu](https://github.com/wanling0000)
 - [yash ajay magar](https://github.com/yash_m)
 - [WebX Beyond](https://github.com/webxbeyond)
@@ -2534,4 +2545,7 @@
 - [Ashish Prasad](https://github.com/AkprasadoP) -[Prince Tiwari](www.linkedin.com/in/prince-tiwari-3b75ab26b) -[Vohkelem](https://github.com/Vohkelem)
 - [Guilherme Silva](https://github.com/gsilva00/) -[Vaghela Karansinh](https://github.com/VaghelaKaransinh)
 - [Hsyuan54670](https://github.com/Hsyuan54670)
-- [FAKE-SURYA](https://github.com/FAKE-SURYA) -[sknman92](https://github.com/sknman92) -[al-matty](https://github.com/al-matty)
+- [FAKE-SURYA](https://github.com/FAKE-SURYA)
+- [sknman92](https://github.com/sknman92)
+- [Vaishnav Nidhi](https://github.com/Vsn8gh/first-contributions)
+- [Taha Kocer](https://github.com/tahakocerPiA)
