@@ -1779,6 +1779,7 @@
 - [Alonso Jimenez](https://github.com/alonsojmnz)
 - [Aman Bangera](https://github.com/amanbangeraa)
 - [Anemone](https://github.com/anemone-coronaria)
+- [Vinicius Aarao](https://github.com/vinycxuz)
 - [Animesh Yadav](https://github.com/Aanimesh003)
 - [Anirudh Pandey](https://github.com/anirudh241)
 - [Siren-241](https://github.com/Siren-241)
