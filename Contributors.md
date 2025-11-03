@@ -4,6 +4,7 @@
 - [Anand Kamble](https://github.com/Anand7820)
 - [John Cena](https://github.com/johnproha)
 - [Gokul45-45](https://github.com/Gokul45-45)
+- [**Malla Raraju's**](https://github.com/MallaRaraju) one more step forward, who knows what's ahead
 - [mani vardhan](https://github.com/mani vardhan)
 - [Nilansh Kumar](https://github.com/nilansh-07)
 - [Sethu Vinayagam](https://github.com/SethuVinayagam)
@@ -20,6 +21,7 @@
 - [CodeWithYuva](https://github.com/CodeWithYuva/first-contributions) My first contribution Happy to start 😊
 - [debora](https://github.com/Debora0Martins)
 - [Ramana](https://github.com/duvvuvenkataramanareddy)
+- [Kunal Agarwal](https://github.com/kunaagar)
 - [cy873rr10r](https://github.com/cy873rr10r)
 - [WingtIsc](https://github.com/WingtIsc)
   [2400030206](https://github.com/2400030206)
@@ -205,6 +207,7 @@
 - [Ronin](https://github.com/iamroninfr)
 - [Brittany Lynn](https://github.com/tylub001)
 - [Tonya Glover](https://github.com/daughterofgaia87)
+- [Lalit Aditya M] (https://github.com/lalitaditya04)
 - [Joao Guilherme Felizardo](https://github.com/JoaoCaconde)
 - [Moageza](https://github.com/Moagezaaa)
 - [Vishnudas Nayak P](https://github.com/VishnudasNayakP)
