@@ -193,6 +193,7 @@
 - [Mayank Kashyap](https://github.com/oneglitchx)
 - [Prashant Singh](https://github.com/its-bnf-cwalker)
 - [Shreeganesh Nayak](https://github.com/Shreeganeshhere)
+- [manojalluri](https://github.com/manojalluri)
 - [Swati-Londhe](https://github.com/swati-londhe)
 - [Rahul R](https://github.com/Rahul-R79)
 - [Galan Kresna](https://github.com/glnKresna)
