@@ -2388,6 +2388,7 @@
 - [Monalisa Kulhara](https://github.com/monalisakulhara)
 - [Akshaya Pranathi Burramsetty](https://github.com/BurramsettyAkshayaPranathi)
 - [Morten]
+- xyang
 - [Ivanzhuu](https://github.com/JJchess/)
 - [Neela Mani](https://github.com/Neela-v25)
 - [MohithN](https://github.com/MohithN007/)
