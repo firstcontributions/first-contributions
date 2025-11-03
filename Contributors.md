@@ -193,6 +193,7 @@
 - [Mayank Kashyap](https://github.com/oneglitchx)
 - [Prashant Singh](https://github.com/its-bnf-cwalker)
 - [Shreeganesh Nayak](https://github.com/Shreeganeshhere)
+- [manojalluri](https://github.com/manojalluri)
 - [Swati-Londhe](https://github.com/swati-londhe)
 - [Rahul R](https://github.com/Rahul-R79)
 - [Galan Kresna](https://github.com/glnKresna)
@@ -2529,4 +2530,4 @@
 - [Carlos A](https://github.com/CarlosArman)
 -[Swasti Gupta](https://www.linkedin.com/in/swasti-gupta-1a4779320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [Ashish Prasad](https://github.com/AkprasadoP)
--[Prince Tiwari](www.linkedin.com/in/prince-tiwari-3b75ab26b)
+
