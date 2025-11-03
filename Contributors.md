@@ -12,6 +12,7 @@
 - [Paul Thanksgiving](https://github.com/p-thanks)
 - [Krishna Medapati](https://github.com/krishna-medapati)
 - scinac
+- Toby
 - [n0jj0n](https://github.com/n0jj0n)
 - [Henrique Rezende](https://github.com/henriquercz)
 - [Jatin Prajapati](https://github.com/Jatinprajapati7869)
