@@ -2505,6 +2505,7 @@
 - [Voona Sriraj](https://github.com/VoonaSriraj)
 - [M Gnana Karthik](https://github.com/karthik-248)
 - [Francesco P]
+- [Jayant](https:github.com/jayantsharma13)
 - [Rehan Shaikh](https://github.com/rehan-03)
 - [Akhil Mishra](https://github.com/akhilmishra)
 - [Soham Sarpotdar](https://github.com/sarpotdarsoham)
