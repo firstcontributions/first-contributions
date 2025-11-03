@@ -8,6 +8,16 @@
 | <img alt="GitHub Desktop" src="https://cdn.icon-icons.com/icons2/2157/PNG/512/github_git_hub_logo_icon_132878.png" width="200"> | GitHub Command Line Interface (CLI) |
 | ------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
 
+## 🧰 Prerequisites
+
+Before starting, make sure you have:
+
+- A [GitHub account](https://github.com/)
+- [Git](https://git-scm.com/downloads) installed
+- [GitHub CLI (`gh`)](https://cli.github.com/manual/installation) installed
+
+---
+
 This is a guide for us, the terminal nerds, who want to do everything in the terminal, and thanks to [Github-CLI](https://cli.github.com/), we can achieve it, remembering your first contribution should be fun, rewarding and a motivator to keep on going!
 
 This guide is a bit more challenging since we are not using any graphical interface at all, but it's still really fun and you can definitely follow it!
@@ -16,16 +26,13 @@ The first requisite is to have:
 
 - Git installed (how to install [git](https://git-scm.com/downloads))
 - Github account
+- 
+## ⚙️ Step 1: Authenticate with GitHub
 
-Now we need to install the `github-cli` tool in our system by following the [official documentation](https://github.com/cli/cli#installation)
-
-After that, we need to login in the CLI, so enter this command:
+Once installed, log in with the CLI:
 
 ```bash
 gh auth login
-```
-
-Follow the instructions and we are ready!
 
 # Fork this repository
 
