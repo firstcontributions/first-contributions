@@ -18,6 +18,7 @@
 - [Petar Djorovic](https://github.com/petardjorovic)
 - [Shahinsha](https://github.com/ShahinshaShahinu)
 - [connectwithvanshika](https://github.com/connectwithvanshika)
+- [Abhinav Ranjan Jha](https://github.com/ARJ544)
 - [Tulasi Lasya](https://github.com/TulasiLasya)
 - [DevendraNathLimbu](https://github.com/DevendraNathLimbu) first contribution, thank you
 - [CodeWithYuva](https://github.com/CodeWithYuva/first-contributions) My first contribution Happy to start 😊
