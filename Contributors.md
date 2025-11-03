@@ -182,6 +182,7 @@
 - [Nisarg Gandhi](https://github.com/Nisarg0007)
 - [Hayden D'Souza](https://github.com/haydenfd/)
 - Piyush Sharma
+- [Maria Perez](https://github.com/marifer-perezh)
 - [paras Gupta](https://github.com/paras2003gupta)
 - [Zhumagulov Zhakyp](https://github.com/zhumagulovv)
 - [Mahendra Kumar Sahu](https://github.com/mahi-in9)
