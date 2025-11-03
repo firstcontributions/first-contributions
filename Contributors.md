@@ -9,6 +9,7 @@
 - [Nilansh Kumar](https://github.com/nilansh-07)
 - [Sethu Vinayagam](https://github.com/SethuVinayagam)
 - [Ankan Roy](https://github.com/AnkanJU)
+- [Paul Thanksgiving](https://github.com/p-thanks)
 - [Krishna Medapati](https://github.com/krishna-medapati)
 - scinac
 - [n0jj0n](https://github.com/n0jj0n)
