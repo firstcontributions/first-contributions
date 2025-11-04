@@ -13,7 +13,7 @@ Att läsa artiklar och titta på handledningar kan så klart hjälpa men det är
 #### *Om du inte känner dig bekväm med kommandoraden, [så finns en vägledning här.](#Handledningar-för-andra-verktyg)*
 
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="Gör en fork av detta repository" />
 
 Om du inte har git installerat [så installera det]( https://help.github.com/articles/set-up-git/ )
 
@@ -24,7 +24,7 @@ Detta kommer att skapa en kopia av repot i ditt GitHub-konto.
 
 ## Klona repository
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="Klona detta repository" />
 
 Klona repot till din dator. Gå till ditt GitHub-konto och klicka på clone-knappen och klicka sedan på *copy to clipboard*-ikonen.
 
@@ -35,7 +35,7 @@ git clone "url you just copied"
 ```
 där "url you just copied" (utan citat-tecken) är URL:en för detta repo (din fork för detta projekt). Se föregående steg för att hitta URL:en.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="Kopiera URL till urklipp" />
 
 Till exempel:
 ```bash
@@ -65,7 +65,7 @@ git checkout -b mitt-tillag
 
 Nu öppnar du `Contributors.md` i en text-editor och lägger till ditt namn. Lägg inte till något i början eller slutet av dokumentet utan lägg till någonstans mitt emellan. Spara filen.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="Visa git-status" />
 
 Mata in kommandot `git status` i projektkatalogen för att se de ändringar du gjort.
 
@@ -94,11 +94,11 @@ ersätt `<add-your-branch-name>` med det branch-namn du använt tidigare.
 
 Om du navigerar till ditt repo på GitHub kan du se en knapp med texten `Compare & pull request`. Klicka på den.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="Skapa en pull request" />
 
 Skicka iväg din s.k. pull request.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="Skicka in pull request" />
 
 Snart kommer jag införa dina ändringar i huvudprojektet. Du kommer att få ett e-mail så fort dina ändringar blivit införda.
 
