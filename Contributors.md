@@ -1,6 +1,7 @@
 # Contributors
 
 - [siddardha Reddy](https://github.com/siddardha796)
+- [Vardhu Penke](https://github.com/vardhu032)
 - [Sunakshi Singh](https://github.com/Sunakshi-ui)
 - [Akarsh Dang](https://github.com/AkarshD)
 - [kenguvavikash](https://github.com/kenguvavikash)
