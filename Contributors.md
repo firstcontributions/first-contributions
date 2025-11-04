@@ -1,7 +1,7 @@
 # Contributors
 
 - [Akarsh Dang](https://github.com/AkarshD)
-- [kenguva vikash](https://github.com/kenguvavikash)
+- [kenguvavikash](https://github.com/kenguvavikash)
 - [Ritej Talluri](https://github.com/Tal1762)
 - [Sourab Reddy](https://github.com/Arcanixhades0)
 - [Das](https://github.com/das970)
