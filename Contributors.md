@@ -36,6 +36,7 @@
 - [debora](https://github.com/Debora0Martins)
 - [Ramana](https://github.com/duvvuvenkataramanareddy)
 - [Kunal Agarwal](https://github.com/kunaagar)
+- [vikas9dev](https://github.com/vikas9dev)
 - [cy873rr10r](https://github.com/cy873rr10r)
 - [WingtIsc](https://github.com/WingtIsc)
   [2400030206](https://github.com/2400030206)
