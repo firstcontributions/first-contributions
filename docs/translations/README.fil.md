@@ -26,7 +26,7 @@ Ngayon, i-clone ang _forked repository_ sa iyong _computer_. Pumunta sa iyong _G
 
 Magbukas ng terminal at patakbuhin ang sumusunod na git command:
 
-```
+```bash
 git clone "url na kakakopya mo lang"
 ```
 
@@ -36,7 +36,7 @@ ang "url na kakakopya mo lang" (tanggalin ang "") ay ang url ng iyong _forked re
 
 Halimbawa:
 
-```
+```bash
 git clone https://github.com/username/first-contributions.git
 ```
 
@@ -46,19 +46,19 @@ ang `username` ay ang iyong GitHub username. Dito mo napunta ang mga laman ng ki
 
 Pumunta sa _directory_ ng _repository_ sa iyong _computer_ (kung wala ka pa roon, i-type ito sa _terminal_):
 
-```
+```bash
 cd first-contributions
 ```
 
 Ngayon, gumawa ng isang _branch_ gamit ang _command_ na `git switch`:
 
-```
+```bash
 git switch -c pangalan-ng-branch
 ```
 
 Halimbawa:
 
-```
+```bash
 git switch -c add-juan-delacruz
 ```
 
@@ -72,13 +72,13 @@ Kung pupunta ka sa _directory_ ng proyekto at i-type ang _command_ na `git statu
 
 Idagdag ang mga _file_ na nabago mo sa _branch_ na ginawa mo kanina gamit ang _command_ na `git add`:
 
-```
+```bash
 git add Contributors.md
 ```
 
 I-commit ang mga _files_ na iyon gamit ang _command_ na `git commit`:
 
-```
+```bash
 git commit -m "Add iyong-pangalan to Contributors list"
 ```
 
@@ -86,7 +86,7 @@ git commit -m "Add iyong-pangalan to Contributors list"
 
 I-push ang mga nabago mong _files_ gamit ang command na `git push`:
 
-```
+```bash
 git push -u origin pangalan-ng-branch
 ```
 
