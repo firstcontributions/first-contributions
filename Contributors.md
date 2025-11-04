@@ -1971,6 +1971,7 @@
 - [square-story](https://github.com/square-story)
 - [Jack](https://github.com/jackliDev)
 - [Khadija](https://github.com/khzouhair)
+- [Moaaz Hamdy](https://github.com/Mo3az2000) 👋
 - [puchan-s](https://github.com/puchan-s/first-contributions)
 - [Hiruna Panditha](https://github.com/Hiruna-SP)
 - [nemdull](https://github.com/nemdull)
