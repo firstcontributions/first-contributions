@@ -2561,3 +2561,4 @@
 - [Taha Kocer](https://github.com/tahakocerPiA)
 - [Shourya Jain](https://github.com/ShouryaJain28)
 - [Yug Gupta](https://www.linkedin.com/in/guptayug/)
+- [blank-query](https://github.com/blank_query)
