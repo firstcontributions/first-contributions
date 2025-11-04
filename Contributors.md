@@ -1305,6 +1305,7 @@
 - [Navreet Kaur](https://github.com/NavreetKB)
 - [Nilesh Kumar](https://github.com/nilesh646)
 - [Noor Jellani](https://github.com/nurulain0)
+- [Daniel Naranjo](https://github.com/Danielnara24)
 - [Paul Czerniak](https://github.com/ptczerni)
 - [Paulo Izidoro](https://github.com/Cacotaku)
 - [Pedro Silva](https://github.com/pcconraria)
