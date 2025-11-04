@@ -22,6 +22,7 @@
 - scinac
 - Toby
 - [n0jj0n](https://github.com/n0jj0n)
+- [chefPixelDev](https://github.com/ChefPixelDev)
 - [Govind K](https://github.com/govindk1327)
 - [Henrique Rezende](https://github.com/henriquercz)
 - [Jatin Prajapati](https://github.com/Jatinprajapati7869)
