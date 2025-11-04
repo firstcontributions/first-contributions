@@ -22,6 +22,7 @@
 - scinac
 - Toby
 - [n0jj0n](https://github.com/n0jj0n)
+- [Govind K](https://github.com/govindk1327)
 - [Henrique Rezende](https://github.com/henriquercz)
 - [Jatin Prajapati](https://github.com/Jatinprajapati7869)
 - [Petar Djorovic](https://github.com/petardjorovic)
