@@ -6,6 +6,7 @@
 - [Akarsh Dang](https://github.com/AkarshD)
 - [kenguvavikash](https://github.com/kenguvavikash)
 - [Ritej Talluri](https://github.com/Tal1762)
+- [Hamzathul karrar](https://github.com/Hamzathul-karrar)
 - [Sourab Reddy](https://github.com/Arcanixhades0)
 - [Das](https://github.com/das970)
 - [sunil](https://github.com/Gorlesunilkumar)
