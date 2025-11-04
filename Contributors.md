@@ -139,6 +139,7 @@
 - [Arpit Tak](https://github.com/arpittak027)
 - [Gajjela Vasudev](https://github.com/GajjelaVasudev)
 - [Hemanth](https://github.com/gvshemanth30034)
+- [Firdevs_Danis](https://github.com/firdevsdanis)
 - [Harsha](https://github.com/Born-as-Harsha)
 - [ChamuV] (https://github.com/ChamuV)
 - [Richard Kinyua](https://github.com/vrichie)
