@@ -273,6 +273,7 @@
 - [sik9252](https://github.com/sik9252)
 - [Zander Bezuidenhout](https://github.com/ZanderBez)
 - [adams1864](https://github.com/adams1864)
+- [Ali Tasawar](https://github.com/AliTasawar123)
 - [zech](https://github.com/zechariah19190)
 - [Anash Pathan](https://github.com/anash56)
 - [Adithya Balaji]()
