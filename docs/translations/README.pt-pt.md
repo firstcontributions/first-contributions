@@ -24,7 +24,7 @@ Faz Fork clicando no botão "Fork" no topo desta página. Esta operação criar�
 Agora clona este repositório para a tua máquina local. Clique no botão "Clone or download" e, em seguida, clica no ícone "Copy to clipboard" para copiar o URL.
 
 Abre o teu terminal e executa o comando seguinte:
-```
+```bash
 git clone "url que copiou"
 ```
 onde "url que copiou" (sem as aspas) é o URL deste repositório. Consulte as etapas anteriores para obter o URL.
@@ -32,7 +32,7 @@ onde "url que copiou" (sem as aspas) é o URL deste repositório. Consulte as et
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copiar URL" />
 
 Por exemplo:
-```
+```bash
 git clone https://github.com/este-é-voce/first-contributions.git
 ```
 onde "este-é-voce" é o teu nome de usuário do GitHub. Aqui estás a copiar o conteúdo do repositório first-contributions para o teu computador.
@@ -40,17 +40,17 @@ onde "este-é-voce" é o teu nome de usuário do GitHub. Aqui estás a copiar o 
 ## Cria um Branch
 
 Vá para o diretório do repositório no teu computador (caso ainda não estejas lá):
-```
+```bash
 cd first-contributions
 ```
 
 Agora crie um novo Branch usando o comando `git checkout`:
-```
+```bash
 git checkout -b <add-teu-nome>
 ```
 
 Por exemplo:
-```
+```bash
 git checkout -b add-alonzo-church
 ```
 Obs.: O nome do Branch não precisa de ter a sigla "add", mas neste caso é recomendável, porque a finalidade deste Branch é a de adicionar o teu nome a uma lista.
@@ -58,11 +58,11 @@ Obs.: O nome do Branch não precisa de ter a sigla "add", mas neste caso é reco
 ## Efetua as alterações necessárias e faz um Commit
 
 Agora abra o ficheiro `Contributors.md` no teu editor de código, adiciona o teu nome e guarda o ficheiro. Se fores para o diretório do projeto e executares o comando `git status`, verás que há alterações. Adiciona essas alterações ao Branch que acabaste de criar utilizando o comando `git add`:
-```
+```bash
 git add Contributors.md
 ```
 Agora faz um Commit dessas alterações utilizando o comando `git commit`:
-```
+```bash
 git commit -m "Add <Teu-nome> to Contributors list"
 ```
 substitui `<Teu-nome>` pelo teu nome ou nickname.
@@ -70,7 +70,7 @@ substitui `<Teu-nome>` pelo teu nome ou nickname.
 ## Faz um Push das alterações para o GitHub
 
 Faz um Push utilizando o comando `git push`:
-```
+```bash
 git push origin <add-teu-nome>
 ```
 substitui `<add-teu-nome>` pelo nome do Branch que criaste anteriormente.
