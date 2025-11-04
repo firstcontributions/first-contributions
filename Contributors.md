@@ -1,6 +1,7 @@
 # Contributors
 
 - [siddardha Reddy](https://github.com/siddardha796)
+  
 - [Vardhu Penke](https://github.com/vardhu032)
 - [Sunakshi Singh](https://github.com/Sunakshi-ui)
 - [Akarsh Dang](https://github.com/AkarshD)
@@ -27,6 +28,7 @@
 - [Jatin Prajapati](https://github.com/Jatinprajapati7869)
 - [Petar Djorovic](https://github.com/petardjorovic)
 - [Shahinsha](https://github.com/ShahinshaShahinu)
+- [Manmath Hatte](https://github.com/manmathbh)
 - [connectwithvanshika](https://github.com/connectwithvanshika)
 - [Abhinav Ranjan Jha](https://github.com/ARJ544)
 - [William Dellinger](https://github.com/Willd231)
