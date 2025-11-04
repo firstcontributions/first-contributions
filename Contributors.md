@@ -2,6 +2,7 @@
 
 - [siddardha Reddy](https://github.com/siddardha796)
 - [Vardhu Penke](https://github.com/vardhu032)
+- [**Aryan Gupta**](https://github.com/Aryangupta15)
 - [Sunakshi Singh](https://github.com/Sunakshi-ui)
 - [Akarsh Dang](https://github.com/AkarshD)
 - [kenguvavikash](https://github.com/kenguvavikash)
@@ -140,6 +141,7 @@
 - [Arpit Tak](https://github.com/arpittak027)
 - [Gajjela Vasudev](https://github.com/GajjelaVasudev)
 - [Hemanth](https://github.com/gvshemanth30034)
+- [Firdevs_Danis](https://github.com/firdevsdanis)
 - [Harsha](https://github.com/Born-as-Harsha)
 - [ChamuV](https://github.com/ChamuV)
 - [Richard Kinyua](https://github.com/vrichie)
@@ -2233,6 +2235,7 @@
 - [ireneo sm](https://github.com/Ireneo23)
 - [Jenny Puranen](https://github.com/puranenjenny)
 - [Nataliia Kulieshova](https://github.com/Kulieshova)
+- [MA Velasquez](https://github.com/ma-velasquez)
 - [Omotosho David Ayomide](https://github.com/O-Midey)
 - [TranCongHung171](https://github.com/TranCongHung171/2321050068-01)
 - [Arsheet Kaur](https://github.com/ArsheetKaur)
