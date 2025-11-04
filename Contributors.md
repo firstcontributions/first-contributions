@@ -8,7 +8,6 @@
 - [Venkatesh P](https://github.com/offlvenkatesh)
 - My First Contro
 - [Harsha](https://github.com/Born-as-Harsha)
-- [Vasudev](https://github.com/GajjelaVasudev)
 - [Abhishek Goyal ](https://github.com/Abhishek445566)hello my name is abhishek
 - [Smaran](https://github.com/ryder34)
 - [AbhishekSaini](https://github.com/Upiottxat)
