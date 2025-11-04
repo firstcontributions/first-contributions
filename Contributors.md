@@ -179,6 +179,7 @@
 - [Elmar Chavez](https://github.com/CodingWithJiro)
 - [Chisaneme Aloni](https://github.com/Alachi24)
 - [Leandro Freitas](https://github.com/LFreitas88)
+- [Huadong Li](https://github.com/bruce237)
 - [Manraj Singh](https://github.com/Mxnrxjj)
 - [Tedliu](https://github.com/qsc811022)
 - [HariRaju](https://github.com/HariSivaraj)
