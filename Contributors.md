@@ -2570,3 +2570,4 @@
 - [Yug Gupta](https://www.linkedin.com/in/guptayug/)
 - [Berkay Burak Mısırlıoğlu](https://github.com/berkayburakmdev)
 - [blank-query](https://github.com/blank_query)
+- [Rushi Maisuriya](https://github.com/RushiMaisuriya225)
