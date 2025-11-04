@@ -419,6 +419,7 @@
 - Ryder Paredes
 - [vipul]
 - [cogitobyte]
+- [V1k770r]
 - [PB](https://github.com/PierreBatikh)
 - [Sangeetha Dhanasekar]
 - [Rasaq Ajape](https://github.com/Abdulrasaq1515)
