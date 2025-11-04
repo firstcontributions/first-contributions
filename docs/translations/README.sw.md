@@ -29,7 +29,7 @@ Sasa clone repository kwenye kompyuta yako. Nenda kwenye akaunti yako ya Github 
 
 Fungua terminal >_ kwenye kompyuta yako kisha command ifuatayo:
 
-```
+```bash
 git clone "url-uliyo-nakili-github"
 ```
 
@@ -39,7 +39,7 @@ url hiyo inapatikana kwenye hatua ya ku clone, hakikisha unaondoa fungua semi na
 
 Kwa mfano:
 
-```
+```bash
 git clone https://github.com/jina-lako-unalotumia-Github/first-contributions.git
 ```
 
@@ -49,19 +49,19 @@ Kwa kufanya hivyo utakuwa umenakili first-contributions repository kutoka Github
 
 Kwenye kompyuta yako, ukiwa kwenye terminal ingia kwenye repository uliyonakili
 
-```
+```bash
 cd first-contributions
 ```
 
 Sasa tengeneza branch kwa kutumia command ifuatayo `git checkout` command:
 
-```
+```bash
 git checkout -b <add-your-new-branch-name>
 ```
 
 Kwa mfano:
 
-```
+```bash
 git checkout -b add-luke-oliff
 ```
 
@@ -77,13 +77,13 @@ Ukiwa ndani ya directory hii kwenye terminal command ya `git status` itakuonesha
 
 Jumuisha mabadiliko yote uliyoyafanya kwenye branch uliyotengeneza kwa kutumia command `git add` command:
 
-```
+```bash
 git add Contributors.md
 ```
 
 Sasa commit mabadiliko uliyoyafanya kwa kutumia command ya `git commit`:
 
-```
+```bash
 git commit -m "Add <jina> to Contributor list"
 ```
 
@@ -93,7 +93,7 @@ Badilisha neno `<jina>` na jina lako.
 
 Tuma mabadiliko uliyoyafanya kwa kutumia command ya `git push`:
 
-```
+```bash
 git push origin <jina-la-branch>
 ```
 
