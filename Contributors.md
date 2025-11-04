@@ -24,6 +24,7 @@
 - [Krishna Medapati](https://github.com/krishna-medapati)
 - scinac
 - Toby
+- Aditya Singh
 - [n0jj0n](https://github.com/n0jj0n)
 - [chefPixelDev](https://github.com/ChefPixelDev)
 - [Govind K](https://github.com/govindk1327)
@@ -273,6 +274,7 @@
 - [sik9252](https://github.com/sik9252)
 - [Zander Bezuidenhout](https://github.com/ZanderBez)
 - [adams1864](https://github.com/adams1864)
+- [Ali Tasawar](https://github.com/AliTasawar123)
 - [zech](https://github.com/zechariah19190)
 - [Anash Pathan](https://github.com/anash56)
 - [Adithya Balaji]()
@@ -1281,6 +1283,7 @@
 - [Aziz Ncir](https://github.com/mohamedazizncir)
 - [Kavindi](https://github.com/kavindidilhara)
 - [Keshav](https://github.com/keshav-develops)
+- [Igor Onofre](https://github.com/OnofreIgor)
 - [Khushi Ray](https://github.com/khushiray07)
 - [Krish Patel](https://github.com/kodercrish)
 - [Lakshya](https://github.com/Lakshya-Kapoor)
@@ -2589,3 +2592,4 @@
 - [Rushi Maisuriya](https://github.com/RushiMaisuriya225)
 - [ssfxiancat](https://github.com/ssfxiancat)
 - [Emmanuel Binen](https://github.com/Emmanuelbinen)
+- [Nikhil B](https://github.com/<your-username>)
