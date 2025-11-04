@@ -5,7 +5,7 @@
 
 # Primeres Contribucions
 
-És difícil. Sempre es difícil fer una cosa per primera vegada. Sobretot quan es col·labora amb altres, ja que equivocar-se no és gens agradable. Volem simplificar la manera d'aprendre a contribuir i col·laborar en projectes de codi obert per primera vegada.
+És difícil. Sempre és difícil fer una cosa per primera vegada. Sobretot quan es col·labora amb altres, ja que equivocar-se no és gens agradable. Volem simplificar la manera d'aprendre a contribuir i col·laborar en projectes de codi obert per primera vegada.
 
 Llegir articles i mirar tutorials pot ser útil, però què millor que fer les coses en un entorn pràctic real? Aquest projecte és una guia per a principiants que vol simplificar la primera contribució a projectes de codi oberts. Si vols fer la teva primera contribució, segueix les instruccions que es mostren a continuació:
 
@@ -91,11 +91,11 @@ reemplaçant  `<afegiu-el-nom-de-la-branca>` amb el nom de la branca que has cre
 
 ## Envia (*Submit*) els canvis per tal que siguin revisats
 
-Si ara vas al teu respositori a GitHub, veuràs un botó  `Compare & pull request` (Compara i fes una solicitud d'incorporació). Fes clic en aquest botó.
+Si ara vas al teu repositori a GitHub, veuràs un botó  `Compare & pull request` (Compara i fes una sol·licitud d'incorporació). Fes clic en aquest botó.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="crear una pull request" />
 
-Envia la solicitud d'incorporació (*pull request*).
+Envia la sol·licitud d'incorporació (*pull request*).
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="envia la pull request" />
 
