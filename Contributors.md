@@ -2,7 +2,6 @@
 
 - [siddardha Reddy](https://github.com/siddardha796)
 - [Reshi Sahil](https://github.com/reshisahil)
-- [Reshi Sahil](https://github.com/reshisahil)
 - [Vardhu Penke](https://github.com/vardhu032)
 - [Sunakshi Singh](https://github.com/Sunakshi-ui)
 - [Akarsh Dang](https://github.com/AkarshD)
