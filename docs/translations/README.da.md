@@ -27,7 +27,7 @@ Næste trin er at "clone" dit nye repository til din maskine. Naviger til din Gi
 
 Åbn en terminal og kør den følgende git command:
 
-```
+```bash
 git clone "din url"
 ```
 
@@ -37,7 +37,7 @@ hvor "din url" skal erstattes med den URL du kopieret i forrige trin.
 
 Eksempel:
 
-```
+```bash
 git clone https://github.com/dit-brugernavn/first-contributions.git
 ```
 
@@ -47,19 +47,19 @@ Erstat 'dit-brugernavn' med dit GitHub brugernavn. Her kopierer vi indholdet af 
 
 Åbn en konsol og cd til dit lokale repository (hvis ikke du allerede er der):
 
-```
+```bash
 cd first-contributions
 ```
 
 Derefter opretter du en branch med kommandoen `git checkout`:
 
-```
+```bash
 git checkout -b <add-your-change>
 ```
 
 Eksempel:
 
-```
+```bash
 git checkout -b add-alonzo-church
 ```
 
@@ -75,13 +75,13 @@ Hvis du går til konsollen og kører kommandoen `git status`, vil du se dine æn
 
 Tilføj disse ændringer til din branch med kommandoen `git add`:
 
-```
+```bash
 git add Contributors.md
 ```
 
 Derefter commit ændringerne med kommandoen `git commit`:
 
-```
+```bash
 git commit -m "Add <dit-navn> to Contributors list"
 ```
 
@@ -91,7 +91,7 @@ Erstat `<dit-navn>` med dit Github brugernavn.
 
 Push dine ændringer til Github med kommandoen `git push`:
 
-```
+```bash
 git push origin <add-din-branch>
 ```
 
@@ -123,6 +123,6 @@ Tillad os også at hjælpe dig i gang med dine næste bidrag. Vi har kompileret 
 
 ## Guides med andre værktøjer
 
-| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
+| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop-app" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken-program" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code-editor" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree-app" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA-program" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md)                                                                                                                          | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md)                                                                                                                                        | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                                                  | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                                      | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md)                                                                                                                                                          |

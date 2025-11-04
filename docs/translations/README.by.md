@@ -25,7 +25,7 @@
 
 Адкрыйце тэрмінал і запусціце наступную git каманду:
 
-```
+```bash
 git clone "url you just copied"
 ```
 Дзе "url you just copied" (без двукоссяў) гэта спасылка на ваш рэпазітар. Паглядзіце папярэднія крокі, каб атрымаць гэтую спасылку.
@@ -33,7 +33,7 @@ git clone "url you just copied"
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 Напрыклад:
-```
+```bash
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 Дзе `this-is-you` ваш лагін на github. Такім чынам вы капіруеце рэпазітар 'first-contributions' з GitHub на ваш персанальны кампутар.
@@ -42,17 +42,17 @@ git clone https://github.com/this-is-you/first-contributions.git
 
 Перайдзіце ў каталог рэпазітара на вашым кампутары, калі вы яшчэ не там.
 
-```
+```bash
 cd first-contributions
 ```
 Цяпер стварыце галінку, з дапамогай `каманды git checkout`
 
-```
+```bash
 git checkout -b <add-your-name>
 ```
 
 Напрыклад:
-```
+```bash
 git checkout -b add-alonzo-church
 ```
 (Сінтаксічную не патрабуецца, каб назва галіны ўтрымлівала слова * add *, але гэта апраўдана, паколькі падкрэслівае прызначэнне гэтай галіны - дадаць ваша імя ў спісы.)
@@ -61,12 +61,12 @@ git checkout -b add-alonzo-church
 
 Цяпер адкрыйце файл `Contributors.md` ў вашым тэкставым рэдактары, запішыце ваша імя і захавайце файл. Калі вы пяройдзеце ў дырэкторыю праекта і выканайце `git status`, вы ўбачыце змены. Дадайце гэтыя змены з дапамогай каманды `git add`.
 
-```
+```bash
 git add Contributors.md
 ```
 
 Цяпер занясіце дадзеныя змены з дапамогай каманды `git commit`.
-```
+```bash
 git commit -m "Add <your-name> to Contributors list"
 ```
 Зменіце `<your-name>` на ваша імя
@@ -74,7 +74,7 @@ git commit -m "Add <your-name> to Contributors list"
 ## Занясіце дадзеныя змены на github
 
 Занясіце вашыя змены з дапамогай каманды `git push`
-```
+```bash
 git push origin <add-your-name>
 ```
 Зменіце `<add-your-name>` на імя галіны, якую вы стварылі раней.
@@ -96,34 +96,34 @@ git push origin <add-your-name>
 ## Сінхранізуецца ваша адгалінаванне з дадзеным рэпазітаром
 
 Перш за ўсё перайдзіце ў асноўную галіну:
-```
+```bash
 git checkout master
 ```
 Затым дадайце url майго рэпазітара ў полі `upstream remote url`:
-```
+```bash
 git remote add upstream https://github.com/Roshanjossey/first-contributions
 ```
 Такім чынам мы паведамім git, што існуе іншая версія дадзенага праекта па пэўнай спасылцы, і мы яе лічым майстрам. Як толькі змены смержены, падгрузіць новую версію майго рэпазітара.
-```
+```bash
 git fetch upstream
 ```
 
 Такім чынам мы забралі ўсе змены ў маім адгалінаванні (upstream remote). Пасля, вам трэба зліць новую версію майго рэпазітара з вашай майстар-галіной.
-```
+```bash
 git rebase upstream/master
 ```
 Так вы ўжываеце ўсе змены, якія вы падцягнулі да вашай майстар-галіны. Калі вы запушите зараз майстар-галіна, ваша адгалінаванне таксама будзе ўтрымліваць змены.
-```
+```bash
 git push origin master
 ```
 Звярніце ўвагу, што вы робіце push ў выдаленай рэпазітар origin.
 
 На гэтым этапе я аб'яднаў вашу галіну `<add-your-name>` са сваёй майстар-галіной, а вы аб'ядналі сваю майстар-галіна з маёй. Ваша галіна больш не патрэбна, вы можаце выдаліць яе:
-```
+```bash
 git branch -d <add-your-name>
 ```
 Таксама можаце выдаліць яе версію ў аддаленым рэпазітары:
-```
+```bash
 git push origin --delete <add-your-name>
 ```
 Гэта зусім не абавязкова, але назва гэтай галіны адлюстроўвае яе даволі спецыфічнае прызначэнне. І працягласць яе жыцця можа быць адпаведна кароткай.
