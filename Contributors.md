@@ -1,5 +1,6 @@
 # Contributors
 
+- [**Abdur Rahman**](https://github.com/gitxar7)
 - [siddardha Reddy](https://github.com/siddardha796)
 - [Sunakshi Singh](https://github.com/Sunakshi-ui)
 - [Akarsh Dang](https://github.com/AkarshD)
@@ -2376,8 +2377,7 @@
 - [Tsukaite](https://github.com/Tsukaite)
 - Garv
 - [Amritha](https://github.com/Amritha-07)
-- [Abhijit](https://github.com/MrAbhijitSaha)
--[Shameem](https://github.com/shameem-dev)
+- [Abhijit](https://github.com/MrAbhijitSaha) -[Shameem](https://github.com/shameem-dev)
 - [Rajat](https://github.com/rajataky)
 - [Aditi Kuhar](https://github.com/Aditi-Kuhar)
 - [Mohammed Saad](https://github.com/MohammedSaad114)
