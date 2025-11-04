@@ -1283,6 +1283,7 @@
 - [Aziz Ncir](https://github.com/mohamedazizncir)
 - [Kavindi](https://github.com/kavindidilhara)
 - [Keshav](https://github.com/keshav-develops)
+- [Igor Onofre](https://github.com/OnofreIgor)
 - [Khushi Ray](https://github.com/khushiray07)
 - [Krish Patel](https://github.com/kodercrish)
 - [Lakshya](https://github.com/Lakshya-Kapoor)
