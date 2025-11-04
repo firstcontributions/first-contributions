@@ -1,5 +1,6 @@
 # Contributors
 
+- [Sunakshi Singh](https://github.com/Sunakshi-ui)
 - [Akarsh Dang](https://github.com/AkarshD)
 - [Ritej Talluri](https://github.com/Tal1762)
 - [Sourab Reddy](https://github.com/Arcanixhades0)
