@@ -2519,6 +2519,7 @@
 - [Khan Kaif](https://github.com/kaifkhan-coder)
 - [Aditya Dokrimare] (https://github.com/AdityaDokrimare)
 - [Ayushi18457](https://github.com/Ayushi18457)
+- [Yogesh Yadav] (https://github.com/Code-Jugaad)
 - [Jafir Anjum](https://github.com/programmer-jafir)
 - [Rafia Minhaj](https://github.com/rafiaminhaj)
 - [Cláudia Faria](https://github.com/claudiasfaria) <333
