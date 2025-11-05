@@ -864,6 +864,7 @@
 - [Florian Franco](https://github.com/ffr27)
 - [Gil Anavi](https://github.com/thisguygil)
 - [Gustiana](https://github.com/Gustiana882)
+- [Nishant K Joshyabhatla](https://github.com/nishantkj911)
 - [Görkem](https://github.com/gorkemozsari)
 - [Vinit Patel](https://github.com/Vinit3116)
 - [Harrison Noe](https://github.com/harr-3d)
