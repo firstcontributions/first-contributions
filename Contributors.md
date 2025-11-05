@@ -3,6 +3,7 @@
 - [Anshika Agarwal](https://github.com/<your-github-username>)
 
 - [siddardha Reddy](https://github.com/siddardha796)
+- [Reshi Sahil](https://github.com/reshisahil)
 - [JosephTelecsan](https://github.com/JosephTelecsan)
 - [Jana] (https://github.com/iamJana)
 - [Vardhu Penke](https://github.com/vardhu032)
@@ -74,6 +75,7 @@
 - [Prakriti Manhar](https://github.com/prakritim01)
 - [Astha Mishra](https://github.com/A-stha-M)
 - [Apurv-01](https://github.com/Apurv-01)
+[John Cena](https://github.com/johnproha)
 - [Rushikesh Bobade](https://github.com/rushikesh-bobade)
 - [_dpnm_](https://github.com/DPNM1) Lets do this baby!
 - [Fraser Paterson]
