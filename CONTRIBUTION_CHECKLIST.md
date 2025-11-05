@@ -1,4 +1,4 @@
-# 🧩 First Contribution Progress Tracker
+## 🧩 First Contribution Progress Tracker
 
 Follow this checklist to keep track of your first open-source contribution!
 
@@ -9,6 +9,6 @@ Follow this checklist to keep track of your first open-source contribution!
 - [ ] Commit your changes 🧾  
 - [ ] Push to your fork ⬆️  
 - [ ] Open a Pull Request 🚀  
-- [ ] Celebrate your first contribution 🎉
+- [ ] Celebrate your first contribution 🎉  
 
 💡 *Tip:* You can tick each box as you go along — it helps you track your progress visually right here on GitHub.
