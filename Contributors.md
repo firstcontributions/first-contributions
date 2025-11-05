@@ -81,6 +81,7 @@
 - [Jun Harada](https://github.com/haradaj)
 - [Thoran Idupuganti](https://github.com/thoranidupuganti)
 - [Aniket Ghorpade](https://github.com/Aniketghorpade7)
+- [**Muhammad Zaid Amjad**](https://github.com/zaidy-mughal) START IS ALWAYS DIFFICULT, HAPPY TO START THIS JOURNEY 😊.
 - [Raul RP](https://github.com/Howl-Stone)
 - [Aniket Ghorpade](https://github.com/Aniketghorpade7)
 - [likithaa ponnuru](https://github.com/likithaa01)
