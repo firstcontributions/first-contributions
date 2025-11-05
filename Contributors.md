@@ -27,6 +27,7 @@
 - scinac
 - Toby
 - Aditya Singh
+- Sujit Shah
 - [n0jj0n](https://github.com/n0jj0n)
 - [chefPixelDev](https://github.com/ChefPixelDev)
 - [Govind K](https://github.com/govindk1327)
@@ -2605,3 +2606,4 @@
 - [Diksha Deware] (https://github.com/dikshaa2909)
 - [liusuibuzhenxian](https://github.com/liusuibuzhenxian)
 - [Nidhish J](https://github.com/Nid-debug)
+- [krish Vaghasia](https://github.com/KRISH-V-0610)
