@@ -1,7 +1,7 @@
 # Contributors
 
+- [Saleh Rafi](https://github.com/salehrafi/)
 - [Anshika Agarwal](https://github.com/<your-github-username>)
-
 - [siddardha Reddy](https://github.com/siddardha796)
 - [Reshi Sahil](https://github.com/reshisahil)
 - [JosephTelecsan](https://github.com/JosephTelecsan)
@@ -2639,4 +2639,6 @@
 - [Darya Zalesskaya](https://github.com/Darya-Zalesskaya)
 - [Khushaboo](https://github.com/infiniteworld-web)
 - [Savithru7142](https://github.com/Savithru7142)
+- [Savithru7142](https://github.com/Savithru7142)
 - [Nokken](https://github.com/nokkxn)
+- [Nandini Chandel](https://github.com/NandiniChandel1)
