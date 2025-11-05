@@ -2,6 +2,7 @@
 
 - [siddardha Reddy](https://github.com/siddardha796)
 - [JosephTelecsan](https://github.com/JosephTelecsan)
+- [Jana] (https://github.com/iamJana)
 - [Vardhu Penke](https://github.com/vardhu032)
 - [**Aryan Gupta**](https://github.com/Aryangupta15)
 - [Sunakshi Singh](https://github.com/Sunakshi-ui)
