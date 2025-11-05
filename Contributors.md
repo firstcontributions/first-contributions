@@ -40,6 +40,7 @@
 - [Jatin Prajapati](https://github.com/Jatinprajapati7869)
 - [Petar Djorovic](https://github.com/petardjorovic)
 - [Shahinsha](https://github.com/ShahinshaShahinu)
+- [Manmath Hatte](https://github.com/manmathbh)
 - [connectwithvanshika](https://github.com/connectwithvanshika)
 - [Abhinav Ranjan Jha](https://github.com/ARJ544)
 - [William Dellinger](https://github.com/Willd231)
