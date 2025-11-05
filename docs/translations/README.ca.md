@@ -28,7 +28,7 @@ Clona aquest repositori al teu ordinador: ves al teu compte de GitHub, fes clic 
 
 Obre una terminal/línia d'ordre i executa el següent comandament de git:
 
-```
+```bash
 git clone "url que acabes de copiar"
 ```
 on "url que acabeu de copiar" (sense cometes dobles) és la *url* per a aquest repositori (la vostra bifurcació o *fork* d'aquest projecte). Per obtenir la *url*, torna als passos anteriors.
@@ -36,7 +36,7 @@ on "url que acabeu de copiar" (sense cometes dobles) és la *url* per a aquest r
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copiar URL al porta-retalls" />
 
 Per exemple:
-```
+```bash
 git clone https://github.com/aquest-soc-jo/first-contributions.git
 ```
 on `aquest-soc-jo` és el teu nom d'usuari de GitHub. En aquest pas, estàs copiant el contingut del repositori *first-contributions* de GitHub al teu ordinador.
@@ -45,16 +45,16 @@ on `aquest-soc-jo` és el teu nom d'usuari de GitHub. En aquest pas, estàs copi
 
 Canvieu al directori del repositori del vostre ordinador (si no hi esteu allà ja):
 
-```
+```bash
 cd first-contributions
 ```
 Crea una nova branca (*branch*) utilitzant el comandament `git checkout`:
-```
+```bash
 git checkout -b <afegiu-el-nom-de-la-nova-branca>
 ```
 
 Per exemple:
-```
+```bash
 git checkout -b add-nom-cognom
 ```
 (No fa falta que el nom de la branca contingui la paraula *add* però és recomanable, ja que l'objectiu d'aquesta branca és afegir el teu nom a la llista.)
@@ -71,12 +71,12 @@ Ara, si vas al directori del projecte i executes el comandament `git status`, ve
 
 Afegeix aquests canvis a la branca que acabes de crear utilitzant el comandament `git add`:
 
-```
+```bash
 git add Contributors.md
 ```
 
 Confirma (*commit*) els canvis utilitzant el comandament `git init`:
-```
+```bash
 git commit -m "Add <el-meu-nom> to Contributors list"
 ```
 reemplaçant `<el-meu-nom>` amb el teu nom.
@@ -84,7 +84,7 @@ reemplaçant `<el-meu-nom>` amb el teu nom.
 ## Empeny (*Push*) els canvis cap a GitHub
 
 Envia els canvis utilitzant el comandament `git push`:
-```
+```bash
 git push origin <afegiu-el-nom-de-la-branca>
 ```
 reemplaçant  `<afegiu-el-nom-de-la-branca>` amb el nom de la branca que has creat anteriorment.
