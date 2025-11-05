@@ -25,7 +25,6 @@
 - [Ankan Roy](https://github.com/AnkanJU)
 - [Paul Thanksgiving](https://github.com/p-thanks)
 - [Krishna Medapati](https://github.com/krishna-medapati)
-- safsafsaf124asf
 - scinac
 - Toby
 - Aditya Singh
@@ -2614,3 +2613,5 @@
 - [krish Vaghasia](https://github.com/KRISH-V-0610)
 - [Sahil Soni](https://github.com/sahilsoni0021)
 - [K. Harshith Varma](https://github.com/Keerthipati-Harshith-Varma)
+- [safsafsaf124asf](https://github.com/safsafsaf124asf)
+
