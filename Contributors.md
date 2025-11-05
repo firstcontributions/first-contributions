@@ -53,7 +53,7 @@
 - [kaboombastic](https://github.com/kaboombastic) I must not fear, fear is the mind killer.
 - [Spandana Kona](https://github.com/konaspandana017)
 - [Richang-Chaudhary](https://github.com/XPE-7)
-- [ACE_OF_SPADES](https://github.com/A-r-j-u001) My first contribution Happy to start 
+- [ACE_OF_SPADES](https://github.com/A-r-j-u001) My first contribution Happy to start
 - [2kEleven](https://github.com/2kEleven)
 - [Remy](https://github.com/Remi561) First contribution
 - [sai](https://github.com/sai-30624)
@@ -187,8 +187,7 @@
 - [Akash s kishor](https://github.com/eAK-47)
 - [Ritam Das](https://github.com/Rit7439)
 - [Tushar](https://github.com/tushaar-05)
-- [Krzysztof Sulkowski](https://github.com/krzysztofsulkowski)
--[Shreeya S Methuku](https://github.com/shreeya-methuku)
+- [Krzysztof Sulkowski](https://github.com/krzysztofsulkowski) -[Shreeya S Methuku](https://github.com/shreeya-methuku)
 - [Shreyansh Karamtot](https://github.com/Fire-guy)
 - [Elmar Chavez](https://github.com/CodingWithJiro)
 - [Chisaneme Aloni](https://github.com/Alachi24)
@@ -2404,8 +2403,7 @@
 - [Carolyne Mutemi](https://github.com/CarolyneMutemi)
 - Garv
 - [Amritha](https://github.com/Amritha-07)
-- [Abhijit](https://github.com/MrAbhijitSaha)
--[Shameem](https://github.com/shameem-dev)
+- [Abhijit](https://github.com/MrAbhijitSaha) -[Shameem](https://github.com/shameem-dev)
 - [Rajat](https://github.com/rajataky)
 - [Aditi Kuhar](https://github.com/Aditi-Kuhar)
 - [Mohammed Saad](https://github.com/MohammedSaad114)
@@ -2604,3 +2602,4 @@
 - [Mahdi Zargarzadeh](https://github.com/mahdizargarzadeh)
 - [Diksha Deware] (https://github.com/dikshaa2909)
 - [liusuibuzhenxian](https://github.com/liusuibuzhenxian)
+- [Gauri Singhal] (https://github.com/Gauri1singhal)
