@@ -12,7 +12,7 @@
 
 #### *Хэрэв та командын мөр ашиглахад тухгүй байвал [энд бусад хэрэгсэл ашиглах зааврууд бий.](#Бусад-Хэрэгсэл-Ашигласан-Заавар)*
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="энэ репог салаалж авах" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="энэ агуулахыг fork хийх" />
 
 Хэрэв таны машин дээр git байхгүй бол [суулгана уу](https://help.github.com/articles/set-up-git/).
 
@@ -23,7 +23,7 @@
 
 ## Репог клон хийх (Clone)
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="энэ репог клон хийх" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="энэ агуулахыг clone хийх" />
 
 Одоо энэ репог өөрийн компьютер дээрээ клон хийж авна. GitHub бүртгэл рүүгээ орж, **Clone** товчийг дараад дараа нь *copy to clipboard* тэмдгийг дарна.  
 
@@ -35,7 +35,7 @@ git clone "та хуулсан url"
 
 Энд `"та хуулсан url"` гэдэг нь энэ төслийн таны салаалсан хувилбарын URL юм.  
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="URL хуулах" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="URL-ийг clipboard руу хуулж авах" />
 
 Жишээ нь:  
 
@@ -71,7 +71,7 @@ git checkout -b add-luke-oliff
 
 `Contributors.md` файлыг текст засварлагчаар нээгээд өөрийн нэрээ нэмнэ. Эхлэл эсвэл төгсгөлд бүү нэмээрэй, хаа нэгтээ дунд хэсэгт нь хийнэ. Дараа нь файлаа хадгална.  
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status командыг ажиллуулах" />
 
 Дараа нь терминалдаа `git status` ажиллуулбал өөрчлөлт гарсныг харуулна.  
 
