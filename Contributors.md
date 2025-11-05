@@ -1,6 +1,7 @@
 # Contributors
 
 - [siddardha Reddy](https://github.com/siddardha796)
+- [JosephTelecsan](https://github.com/JosephTelecsan)
 - [Vardhu Penke](https://github.com/vardhu032)
 - [**Aryan Gupta**](https://github.com/Aryangupta15)
 - [Sunakshi Singh](https://github.com/Sunakshi-ui)
@@ -24,6 +25,7 @@
 - [Krishna Medapati](https://github.com/krishna-medapati)
 - scinac
 - Toby
+- Aditya Singh
 - [n0jj0n](https://github.com/n0jj0n)
 - [chefPixelDev](https://github.com/ChefPixelDev)
 - [Govind K](https://github.com/govindk1327)
@@ -177,6 +179,7 @@
 - [sigabeauty](https://github.com/sigabeauty)
 - [jsdtwry](https://github.com/jsdtwry)
 - [Alexandre Verot](https://github.com/AlexVer52)
+- [Nitesh Kamat](https://github.com/Niteshkamat11)
 - [Maha Laeeq](https://github.com/s4096770)
 - [Eric Asbury](https://github.com/Anthro-pod)
 - [Akash s kishor](https://github.com/eAK-47)
@@ -275,6 +278,7 @@
 - [sik9252](https://github.com/sik9252)
 - [Zander Bezuidenhout](https://github.com/ZanderBez)
 - [adams1864](https://github.com/adams1864)
+- [Ali Tasawar](https://github.com/AliTasawar123)
 - [zech](https://github.com/zechariah19190)
 - [Anash Pathan](https://github.com/anash56)
 - [Adithya Balaji]()
@@ -311,6 +315,7 @@
 - [Rahul Soni](https://github.com/grksoni)
 - [Jellypork](https://github.com/JellyPork)
 - [Arthur Campana](https://github.com/arthurcampana)
+- the name
 - [ElliottN-E](https://github.com/ElliottN-E)
 - [anjali-ojha17](https://github.com/anjali-ojha17)
 - [Kavinila_L](https://github.com/KavinilaLoganathan-2507)
@@ -1284,6 +1289,7 @@
 - [Aziz Ncir](https://github.com/mohamedazizncir)
 - [Kavindi](https://github.com/kavindidilhara)
 - [Keshav](https://github.com/keshav-develops)
+- [Igor Onofre](https://github.com/OnofreIgor)
 - [Khushi Ray](https://github.com/khushiray07)
 - [Krish Patel](https://github.com/kodercrish)
 - [Lakshya](https://github.com/Lakshya-Kapoor)
@@ -2599,3 +2605,6 @@
 - [blank-query](https://github.com/blank_query)
 - [Rushi Maisuriya](https://github.com/RushiMaisuriya225)
 - [ssfxiancat](https://github.com/ssfxiancat)
+- [Emmanuel Binen](https://github.com/Emmanuelbinen)
+- [Nikhil B](https://github.com/<your-username>)
+- [Dinesh Chapala](https://github.com/Dineshh9515)
