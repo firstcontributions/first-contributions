@@ -2612,3 +2612,4 @@
 - [Nidhish J](https://github.com/Nid-debug)
 - [krish Vaghasia](https://github.com/KRISH-V-0610)
 - [Sahil Soni](https://github.com/sahilsoni0021)
+- [K. Harshith Varma](https://github.com/Keerthipati-Harshith-Varma)
