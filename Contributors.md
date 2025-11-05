@@ -26,6 +26,7 @@
 - [Nilansh Kumar](https://github.com/nilansh-07)
 - [Sethu Vinayagam](https://github.com/SethuVinayagam)
 - [Ankan Roy](https://github.com/AnkanJU)
+- [Mohamed Alforjani](https://github.com/elforgaani)
 - [Paul Thanksgiving](https://github.com/p-thanks)
 - [Krishna Medapati](https://github.com/krishna-medapati)
 - [Sourav Bhowmik](https://github.com/bhowmik94)
@@ -63,7 +64,7 @@
 - [Spandana Kona](https://github.com/konaspandana017)
 - [Richang-Chaudhary](https://github.com/XPE-7)
 - [Siri-patel](https://github.com/siripatelm-stack)
-- [ACE_OF_SPADES](https://github.com/A-r-j-u001) My first contribution Happy to start 
+- [ACE_OF_SPADES](https://github.com/A-r-j-u001) My first contribution Happy to start
 - [2kEleven](https://github.com/2kEleven)
 - [Remy](https://github.com/Remi561) First contribution
 - [sai](https://github.com/sai-30624)
