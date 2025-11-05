@@ -179,6 +179,7 @@
 - [sigabeauty](https://github.com/sigabeauty)
 - [jsdtwry](https://github.com/jsdtwry)
 - [Alexandre Verot](https://github.com/AlexVer52)
+- [Nitesh Kamat](https://github.com/Niteshkamat11)
 - [Maha Laeeq](https://github.com/s4096770)
 - [Eric Asbury](https://github.com/Anthro-pod)
 - [Akash s kishor](https://github.com/eAK-47)
