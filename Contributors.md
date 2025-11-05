@@ -31,6 +31,7 @@
 - [Paul Thanksgiving](https://github.com/p-thanks)
 - [Krishna Medapati](https://github.com/krishna-medapati)
 - [Sourav Bhowmik](https://github.com/bhowmik94)
+- [Nivya](https://github.com/nivyz)
 - safsafsaf124asf
 - scinac
 - Toby
