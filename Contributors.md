@@ -26,6 +26,7 @@
 - scinac
 - Toby
 - Aditya Singh
+- gis Benny
 - [n0jj0n](https://github.com/n0jj0n)
 - [chefPixelDev](https://github.com/ChefPixelDev)
 - [Govind K](https://github.com/govindk1327)
@@ -52,7 +53,7 @@
 - [kaboombastic](https://github.com/kaboombastic) I must not fear, fear is the mind killer.
 - [Spandana Kona](https://github.com/konaspandana017)
 - [Richang-Chaudhary](https://github.com/XPE-7)
-- [ACE_OF_SPADES](https://github.com/A-r-j-u001) My first contribution Happy to start 
+- [ACE_OF_SPADES](https://github.com/A-r-j-u001) My first contribution Happy to start
 - [2kEleven](https://github.com/2kEleven)
 - [Remy](https://github.com/Remi561) First contribution
 - [sai](https://github.com/sai-30624)
@@ -2401,8 +2402,7 @@
 - [Carolyne Mutemi](https://github.com/CarolyneMutemi)
 - Garv
 - [Amritha](https://github.com/Amritha-07)
-- [Abhijit](https://github.com/MrAbhijitSaha)
--[Shameem](https://github.com/shameem-dev)
+- [Abhijit](https://github.com/MrAbhijitSaha) -[Shameem](https://github.com/shameem-dev)
 - [Rajat](https://github.com/rajataky)
 - [Aditi Kuhar](https://github.com/Aditi-Kuhar)
 - [Mohammed Saad](https://github.com/MohammedSaad114)
