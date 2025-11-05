@@ -54,6 +54,7 @@
 - [kaboombastic](https://github.com/kaboombastic) I must not fear, fear is the mind killer.
 - [Spandana Kona](https://github.com/konaspandana017)
 - [Richang-Chaudhary](https://github.com/XPE-7)
+- [Siri-patel](https://github.com/siripatelm-stack)
 - [ACE_OF_SPADES](https://github.com/A-r-j-u001) My first contribution Happy to start 
 - [2kEleven](https://github.com/2kEleven)
 - [Remy](https://github.com/Remi561) First contribution
@@ -2609,4 +2610,6 @@
 - [Nidhish J](https://github.com/Nid-debug)
 - [krish Vaghasia](https://github.com/KRISH-V-0610)
 - [Sahil Soni](https://github.com/sahilsoni0021)
+ add-karthikeya
 -[Karthikeya Vankayalapati](https://github.com/karthikeya1498)
+ main
