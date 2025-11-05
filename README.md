@@ -92,24 +92,39 @@
 
 This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 
+It's okay if this is your first time—everyone starts somewhere! This tutorial will walk you through the entire process step-by-step.
+
 _If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 #### If you don't have git on your machine, [install it](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
+## What You'll Learn
+
+By completing this tutorial, you'll learn how to:
+- Fork a repository (create your own copy of a project)
+- Clone a repository (download it to your computer)
+- Create a branch (make changes in isolation)
+- Make and commit changes (save your work)
+- Push changes to GitHub (upload your work)
+- Create a pull request (propose your changes to the original project)
+
 ## Fork this repository
 
-Fork this repository by clicking on the fork button on the top of this page.
-This will create a copy of this repository in your account.
+Fork this repository by clicking on the fork button on the top right of this page. This will create a copy of this repository in your GitHub account.
+
+**What is forking?** Forking creates your personal copy of someone else's project. You can make changes to your fork without affecting the original project.
 
 ## Clone the repository
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button, then on SSH tab and then click the _copy url to clipboard_ icon.
+Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button, then on the SSH tab, and then click the _copy url to clipboard_ icon.
 
-Open a terminal and run the following git command:
+**What is cloning?** Cloning downloads a copy of the repository from GitHub to your local computer so you can work on it.
+
+Open a terminal (Command Prompt on Windows, Terminal on Mac/Linux) and run the following git command:
 
 ```bash
 git clone "url you just copied"
@@ -147,6 +162,10 @@ For example:
 git switch -c add-alonzo-church
 ```
 
+**What is a branch?** A branch allows you to work on changes in isolation from the main code. This way, your changes won't affect the main branch until they're ready and reviewed.
+
+**Note:** The branch name should be descriptive of what you're doing. In this case, we're adding your name to the contributors list.
+
 <details>
 <summary> <strong>If you get any errors using git switch, click here:</strong> </summary>
 
@@ -162,7 +181,9 @@ git checkout -b your-new-branch-name
 
 ## Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+Now open `Contributors.md` file in a text editor (like Notepad, VS Code, or any editor you prefer), and add your name to it. Don't add it at the beginning or end of the file—put it anywhere in between. Now, save the file.
+
+**Tip:** Make sure to follow the existing format in the file when adding your name.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
@@ -182,6 +203,8 @@ git commit -m "Add your-name to Contributors list"
 
 replacing `your-name` with your name.
 
+**What is committing?** A commit is like saving your work with a description of what you did. The message (in quotes) should briefly describe your changes.
+
 ## Push changes to GitHub
 
 Push your changes using the command `git push`:
@@ -191,6 +214,8 @@ git push -u origin your-branch-name
 ```
 
 replacing `your-branch-name` with the name of the branch you created earlier.
+
+**What is pushing?** Pushing uploads your local commits to GitHub so others can see your changes. The `-u` flag sets up tracking so future pushes can be done with just `git push`.
 
 <details>
 <summary> <strong>If you get any errors while pushing, click here:</strong> </summary>
@@ -218,6 +243,8 @@ replacing `your-branch-name` with the name of the branch you created earlier.
 
 If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
 
+**What is a pull request?** A pull request (PR) is how you propose your changes to the original project. The project maintainers will review your changes and, if everything looks good, merge them into the main project.
+
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
 Now submit the pull request.
@@ -225,6 +252,65 @@ Now submit the pull request.
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit the pull request" />
 
 Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
+
+## Troubleshooting
+
+<details>
+<summary><strong>Common Git Issues and Solutions</strong></summary>
+
+### Issue: "git: command not found" or "git is not recognized"
+**Solution:** Git is not installed or not added to your PATH.
+- Download and install Git from [git-scm.com](https://git-scm.com/downloads)
+- After installation, restart your terminal/command prompt
+- Verify by running: `git --version`
+
+### Issue: "Permission denied (publickey)" when cloning or pushing
+**Solution:** You need to set up SSH keys or use HTTPS instead.
+- **Option 1 (Recommended):** Follow [GitHub's SSH key setup guide](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
+- **Option 2:** Use HTTPS URL instead of SSH when cloning
+
+### Issue: "fatal: not a git repository"
+**Solution:** You're not inside a Git repository folder.
+- Make sure you've cloned the repository: `git clone <url>`
+- Navigate into the repository folder: `cd first-contributions`
+
+### Issue: Merge conflicts
+**Solution:** This happens when changes conflict with the main branch.
+- Pull the latest changes: `git pull origin main`
+- Resolve conflicts in the affected files (Git will mark them)
+- After resolving, commit the changes: `git add .` then `git commit -m "Resolve merge conflicts"`
+
+### Issue: "Your branch is behind 'origin/main'"
+**Solution:** Your local copy is outdated.
+```bash
+git pull origin main
+```
+
+### Issue: Accidentally committed to main branch instead of a new branch
+**Solution:** Create a new branch from your current state and reset main.
+```bash
+git branch your-branch-name
+git reset --hard origin/main
+git checkout your-branch-name
+```
+
+### Issue: Want to undo last commit (but keep changes)
+**Solution:**
+```bash
+git reset --soft HEAD~1
+```
+
+### Issue: Authentication failed (username/password no longer works)
+**Solution:** GitHub requires Personal Access Tokens (PAT) or SSH keys.
+- Create a PAT: [GitHub Token Guide](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
+- Or set up SSH keys: [SSH Key Guide](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
+
+### Still stuck?
+- Check out the [Additional Material](docs/additional-material/git_workflow_scenarios/additional-material.md) for more Git scenarios
+- Ask for help in our [Slack community](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
+- Search for your error message on [Stack Overflow](https://stackoverflow.com/)
+
+</details>
 
 ## Where to go from here?
 
