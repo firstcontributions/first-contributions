@@ -2639,4 +2639,6 @@
 - [Darya Zalesskaya](https://github.com/Darya-Zalesskaya)
 - [Khushaboo](https://github.com/infiniteworld-web)
 - [Savithru7142](https://github.com/Savithru7142)
--[Nandini_Chandel](https://github.com/NandiniChandel)
+- [Savithru7142](https://github.com/Savithru7142)
+- [Nokken](https://github.com/nokkxn)
+- [Nandini Chandel](https://github.com/NandiniChandel1)
