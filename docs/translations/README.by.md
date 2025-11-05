@@ -8,7 +8,7 @@
 
 Чытанне артыкулаў і падручнікаў можа дапамагчы, але што можа быць лепш, чым сапраўдны практычны вопыт, без рызыкі што-небудзь сапсаваць. Мэта гэтага праекта - належным чынам накіраваць маладых навабранцаў, а таксама даць ім магчымасць зрабіць іх першы ўклад. Памятаеце: чым менш вы напружаныя, тым лепш вы вучыцеся. Калі вы шукаеце магчымасць ажыццявіць свой першы ўклад, проста прытрымлівайцеся простым крокам, размешчаным ніжэй. Абяцаем, будзе цікава.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="стварыць форк гэтага рэпазітара" />
 
 
 Калі ў вас не ўсталяваны git на кампутары, [ ўсталюйце яго ]( https://help.github.com/articles/set-up-git/ )
@@ -19,7 +19,7 @@
 
 ## Капіюйце рэпазітар
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="кланаваць гэты рэпазітар" />
 
 Цяпер каб скапіяваць ваш рэпазітар на персанальны кампутар. Націсніце на кнопку `clone`, а затым на абразок `copy to clipboard`, каб скапіяваць спасылку.
 
@@ -30,7 +30,7 @@ git clone "url you just copied"
 ```
 Дзе "url you just copied" (без двукоссяў) гэта спасылка на ваш рэпазітар. Паглядзіце папярэднія крокі, каб атрымаць гэтую спасылку.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="скапіяваць URL-адрас у буфер абмену" />
 
 Напрыклад:
 ```bash
@@ -59,7 +59,11 @@ git checkout -b add-alonzo-church
 
 ## Занясіце неабходныя змены і стварыце commit
 
-Цяпер адкрыйце файл `Contributors.md` ў вашым тэкставым рэдактары, запішыце ваша імя і захавайце файл. Калі вы пяройдзеце ў дырэкторыю праекта і выканайце `git status`, вы ўбачыце змены. Дадайце гэтыя змены з дапамогай каманды `git add`.
+Цяпер адкрыйце файл `Contributors.md` ў вашым тэкставым рэдактары, запішыце ваша імя і захавайце файл.
+
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="выканайце каманду git status" />
+
+Калі вы пяройдзеце ў дырэкторыю праекта і выканайце `git status`, вы ўбачыце змены. Дадайце гэтыя змены з дапамогай каманды `git add`.
 
 ```bash
 git add Contributors.md
@@ -83,11 +87,11 @@ git push origin <add-your-name>
 
 Калі вы зойдзеце ў свой рэпазітар на GitHub, вы ўбачыце кнопку `Compare & pull request`. Націсніце на яе.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="стварыць запыт на злучэнне" />
 
 Цяпер пацвердзіце pull-request.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="адправіць запыт на зняцце" />
 
 Хутка я ўчыню аб'яднанне ўсіх вашых змяненняў з асноўнай галіной гэтага праекта. Вы атрымаеце паведамленне па электроннай пошце, калі змены будуць прынятыя (ўнесены ў галоўную галіну).
 
