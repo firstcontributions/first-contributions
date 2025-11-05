@@ -6,6 +6,7 @@
 - [**Aryan Gupta**](https://github.com/Aryangupta15)
 - [Sunakshi Singh](https://github.com/Sunakshi-ui)
 - [Akarsh Dang](https://github.com/AkarshD)
+- [Boga Vishnuvaradhan](https://github.com/Vishnuvaradhan142)
 - [kenguvavikash](https://github.com/kenguvavikash)
 - [Ritej Talluri](https://github.com/Tal1762)
 - [Hamzathul karrar](https://github.com/Hamzathul-karrar)
