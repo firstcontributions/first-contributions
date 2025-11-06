@@ -49,8 +49,6 @@
 - [Bharghav](https://github.com/sangisetti6978)
 - [Chimmani Aakarsh](https://github.com/Aakarsh1024)
 - [Sahithi Bodduna](https://github.com/Sahithi-1024)
-- safsafsaf124asf
-- scinac
 - Toby
 - Aditya Singh
 - Sujit Shah
@@ -169,6 +167,8 @@
 - [Hungbeanbean](https://github.com/hungbeanbean1331)
 - [AnshMeshram](https://github.com/AnshMeshram)
 - [Sonali Dutta](https://github.com/SonaliDutta-Dev)
+
+- [Aryan] (https://github.com/aryanmallick302)
 - [Supra](https://github.com/supraik) 
 -[Bhavya sri Athukuri](https://github.com/Bhavya-chowdary)
 - [Aireche Khalil](https://github.com/Ka-iPy)
