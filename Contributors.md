@@ -1614,6 +1614,8 @@
 - [anthocote19](https://github.com/anthocote19)
 - [Cormac Dorrat](https://github.com/cormac-dorrat)
 - [atharva-b](https://github.com/atharva-b)
+- [Jaswant2406](https://github.com/Jaswant2406)
+
 - [artistique1](https://github.com/artistique1)
 - [brunoblaise](https://github.com/brunoblaise)
 - [chandanvnk1](https://github.com/chandanvnk1)
