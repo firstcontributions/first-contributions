@@ -2,6 +2,9 @@
 .idea/
 .vs
 .env
+
+# Validation output files
+validation_errors.txt
 # User-specific files
 *.rsuser
 *.suo

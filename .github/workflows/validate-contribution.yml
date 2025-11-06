@@ -1,0 +1,142 @@
+name: Validate Contribution
+
+on:
+  pull_request:
+    paths:
+      - 'Contributors.md'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: write
+      
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+          fetch-depth: 2
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Make validation script executable
+        run: chmod +x .github/scripts/validate_contributors.py
+
+      - name: Run validation script
+        id: validate
+        run: |
+          python .github/scripts/validate_contributors.py --file Contributors.md --output validation_errors.txt
+          echo "validation_exit_code=$?" >> $GITHUB_OUTPUT
+        continue-on-error: true
+
+      - name: Check if validation errors file exists
+        id: check_errors
+        run: |
+          if [ -f validation_errors.txt ]; then
+            echo "errors_exist=true" >> $GITHUB_OUTPUT
+          else
+            echo "errors_exist=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Comment on PR with errors
+        if: steps.validate.outcome == 'failure' && steps.check_errors.outputs.errors_exist == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            
+            // Read the validation errors
+            const errors = fs.readFileSync('validation_errors.txt', 'utf8');
+            
+            // Construct the comment message
+            let message = '## ⚠️ Contribution Validation Issues Found\n\n';
+            message += 'Thank you for your contribution! However, we found some issues that need to be addressed:\n\n';
+            message += errors;
+            message += '\n\n---\n\n';
+            message += '### 📚 Need Help?\n\n';
+            message += '- Check out our [contribution guide](https://github.com/firstcontributions/first-contributions/blob/main/README.md)\n';
+            message += '- Make sure your entry follows this format: `- [Your Name](https://github.com/yourusername)`\n';
+            message += '- If you need assistance, feel free to ask in the comments!\n\n';
+            message += '**Once you fix these issues and push your changes, this validation will run again automatically.**';
+            
+            // Get existing comments
+            const {data: comments} = await github.rest.issues.listComments({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+            });
+            
+            // Find any existing validation comment
+            const botComment = comments.find(comment => 
+              comment.user.login === 'github-actions[bot]' && 
+              comment.body.includes('Contribution Validation')
+            );
+            
+            // Update existing comment or create new one
+            if (botComment) {
+              await github.rest.issues.updateComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                comment_id: botComment.id,
+                body: message
+              });
+            } else {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                body: message
+              });
+            }
+
+      - name: Comment on PR with success
+        if: steps.validate.outcome == 'success'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const message = '## ✅ Contribution Validation Passed!\n\n' +
+                          'Great job! Your contribution follows all the formatting guidelines. ' +
+                          'Your entry in `Contributors.md` is properly formatted and ready for review.\n\n' +
+                          '**What happens next?**\n' +
+                          '- If you only modified `Contributors.md` with a single line change, the auto-merge workflow will merge your PR automatically\n' +
+                          '- Otherwise, a maintainer will review your changes shortly\n\n' +
+                          'Thank you for your contribution! 🎉';
+            
+            // Get existing comments
+            const {data: comments} = await github.rest.issues.listComments({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+            });
+            
+            // Find any existing validation comment
+            const botComment = comments.find(comment => 
+              comment.user.login === 'github-actions[bot]' && 
+              comment.body.includes('Contribution Validation')
+            );
+            
+            // Update existing comment or create new one
+            if (botComment) {
+              await github.rest.issues.updateComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                comment_id: botComment.id,
+                body: message
+              });
+            } else {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                body: message
+              });
+            }
+
+      - name: Set exit code based on validation
+        if: steps.validate.outcome == 'failure'
+        run: exit 1
