@@ -46,6 +46,7 @@
 - Aditya Singh
 - Sujit Shah
 - JacobDaBomb
+- [rajpandith](https://github.com/raj-pandith)
 - [n0jj0n](https://github.com/n0jj0n)
 - [chefPixelDev](https://github.com/ChefPixelDev)
 - [Govind K](https://github.com/govindk1327)
