@@ -1,6 +1,8 @@
 # Contributors
+- [Harish Akshay](https://github.com/harishakshay)
 - [Javier Gomariz Prats](https://github.com/javier-gomariz-prats)
 - [Md Habibulla](https://github.com/h-a-b-i-b)
+- [Yongqi Li](https://github.com/WIT1905120107)
 - [my name](testurl.com)
 - ***[Mishel PA](https://github.com/mishel-pa)***
 - [Saleh Rafi](https://github.com/salehrafi/)
@@ -12,6 +14,7 @@
 - [Vardhu Penke](https://github.com/vardhu032)
 - [**Aryan Gupta**](https://github.com/Aryangupta15)
 - [Sunakshi Singh](https://github.com/Sunakshi-ui)
+- [Mohammad Ali](https://github.com/mohammadaliat)
 - [Akarsh Dang](https://github.com/AkarshD)
 - [Boga Vishnuvaradhan](https://github.com/Vishnuvaradhan142)
 - [kenguvavikash](https://github.com/kenguvavikash)
@@ -21,6 +24,7 @@
 - [Das](https://github.com/das970)
 - [Sahil](https://github.com/sahil2448)
 - [sunil](https://github.com/Gorlesunilkumar)
+- [Camilo Galeano] (https://github.com/camilog0120)
 - [Trujifl](https://github.com/Trujifl)
 - [Anand Kamble](https://github.com/Anand7820)
 - [John Cena](https://github.com/johnproha)
@@ -37,12 +41,16 @@
 - [Krishna Medapati](https://github.com/krishna-medapati)
 - [Sourav Bhowmik](https://github.com/bhowmik94)
 - [Nivya](https://github.com/nivyz)
+- [Bharghav](https://github.com/sangisetti6978)
+- [Chimmani Aakarsh](https://github.com/Aakarsh1024)
+- [Sahithi Bodduna](https://github.com/Sahithi-1024)
 - safsafsaf124asf
 - scinac
 - Toby
 - Aditya Singh
 - Sujit Shah
 - JacobDaBomb
+- [rajpandith](https://github.com/raj-pandith)
 - [n0jj0n](https://github.com/n0jj0n)
 - [chefPixelDev](https://github.com/ChefPixelDev)
 - [Govind K](https://github.com/govindk1327)
@@ -2652,7 +2660,9 @@
 - [Savithru7142](https://github.com/Savithru7142)
 - [Nokken](https://github.com/nokkxn)
 - [Nandini Chandel](https://github.com/NandiniChandel1)
-- [SuryaGanesh284] (https://github.com/SuryaGanes284)
-
-- - [krishna3224](https://github.com/krishna3224)
-  - - [SuryaGanes284](https://github.com/SuryaGanes284)
+- [krishna3224](https://github.com/krishna3224)
+- [SuryaGanesh284](https://github.com/SuryaGanesh284)
+- [Abhishek Chaubey](https://github.com/Abhishekchaubey2007)
+-[Akanksha Deshmukh](https://github.com/AkankshaD2)
+- [Matus Bucko](https://github.com/Matus14)
+- [Yash Purohit](https://github.com/yashprocr7)
