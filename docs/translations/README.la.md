@@ -27,6 +27,7 @@
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="exscribe hunc repositum" />
 
+
 ມາຮອດຂັ້ນຕອນນີ້ເຮົາກໍ່ Clone ໂປຣເຈັກລົງມາທີ່ຄອມພິວເຕີຂອງເຮົາໂດຍການກົດທີ່ປຸ່ມ "Clone" ແລ້ວເລືອກ *Copy to clipboard* (ຄຳສັ່ງຄັດລອກ)
 
 ເປີດ terminal ຂຶ້ນມາ (ຕົວຢ່າງ Terminal ໃນ MacOS ຫຼື cmd ໃນ Windows) ແລ້ວພິມຄຳສັ່ງ git ຕໍ່ໄປນີ້:
@@ -37,6 +38,7 @@ git clone "url ທີ່ຄັດລອກໄວ້"
 "url ທີ່ຄັດລອກໄວ້" (ບໍ່ຕ້ອງໃສ່ " ") ຄື url ຂອງໂປຣເຈັກຂອງທ່ານ ທ່ານສາມາດກັບໄປເບິ່ງວິທີການຄັດລອກ url ໄດ້ຈາກຫົວຂໍ້ກ່ອນໜ້ານີ້
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="exscribe URL in tabulam memoriae" />
+
 
 ຕົວຢ່າງ:
 ```
@@ -66,7 +68,8 @@ git checkout -b add-phongphat-khamphiew
 
 ຕອນນີ້ໃຫ້ເປີດໄຟລ໌ `Contributors.md` ໃນໂປຣແກຣມ text editor ເພີ່ມຊື່ຂອງທ່ານລົງໄປ ຈາກນັ້ນບັນທຶກໄຟລ໌
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="condicio git"/>
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="condicio git" />
+
 
 ໃນ terminal ຖ້າທ່ານຢູ່ທີ່ directory ຂອງໂປຣເຈັກ ໃຫ້ລອງພິມຄຳສັ່ງ `git status` ຈະເຫັນວ່າທ່ານໄດ້ປ່ຽນແປງໄຟລ໌ໃດແນ່ແລ້ວ.
 
@@ -98,6 +101,7 @@ git push origin <ຊື່ branch ຂອງທ່ານ>
 ຕອນນີ້ກໍ່ສົ່ງ Pull Request ໄປທີ່ໂປຣເຈັກຫຼັກ ຫຼື ໂປຣເຈັກຕົ້ນນ້ຳໄດ້ເລີຍ
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="mitte petitionem trahendi" />
+
 
 ເຮົາຈະທຳການ "Merge" ຫຼື ລວມຜົນງານທີ່ທ່ານໄດ້ປ່ຽນແປງ code ມາທີ່ master branch ຂອງໂປຣເຈັກນີ້, ທ່ານຈະໄດ້ຮັບອີເມວເມື່ອເຮົາໄດ້ທຳການ Merge ຜົນງານຂອງທ່ານສຳເລັດແລ້ວ.
 

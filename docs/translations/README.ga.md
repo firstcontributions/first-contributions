@@ -9,7 +9,8 @@ Is é aidhm an tionscadail seo a bheith simplí agus treoraithe don tslí a ndé
 _Más rud é nach bhfuil tú compordach leis an líne smachta, [tá tutóirialanna anseo ag baint úsáide as uirlisí GUI](#tutorials-using-other-tools)_
 
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="foirceann an stór seo" />
+
 
 #### Mura bhfuil git ar do mhaisín agat, [suiteáil é](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
@@ -20,7 +21,8 @@ Foirgneamh an repositry seo trí ghrúpaigh air a dhéanamh. Cliceáil ar an gcn
 
 ## Clónaigh an repositry
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clónaigh an stór seo" />
+
 
 Anois, clónaigh an repositry ghrúpaithe chuig do mhaisín. Téigh go dtí do chuntas GitHub, oscail an repositry ghrúpaithe, cliceáil ar an gcnaipe cód agus ansin _cliceáil ar an íomhá ghlactha_ chuig an ghluais cóipchlibeaird.
 
@@ -34,7 +36,8 @@ git clone "url a ghlac tú amach"
 
 Mar sin "url a ghlac tú amach" (gan na tréimhseanna quoitimh) is ea url chuig an repositry seo (do ghruapa den tionscadal seo). Féach ar na céimeanna roimhe sin chun an url a fháil.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="cóipeáil an URL go dtí an ghearrthaisce" />
+
 
 Mar shampla:
 
@@ -69,7 +72,8 @@ git switch -c add-alonzo-church
 Anois, oscail `Contributors.md` i eagarthóir téacs, cuir do ainm leis. Ná cuir é ag tús ná ag deireadh an chomhad. Cuir é in aon áit ina lár. Ansin, sábháil an comhad.
 
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="stádas git" />
+
 
 Más téann tú go dtí comhaid tionscadail agus déanann tú an t-ordú `git status`, feicfidh tú go bhfuil athruithe ann.
 
@@ -113,11 +117,13 @@ agus cuir `your-branch-name` do snátha a chruthaigh tú roimhe seo.
 Má téann tú go dtí do repositry ar GitHub, feicfidh tú cnaipe `Compare & pull request`. Cliceáil ar an gcnaipe sin.
 
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="cruthaigh iarratas tarraingthe" />
+
 
 Ansin cuir isteach an iarratas athbhreithnithe.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="cuir isteach iarratas tarraingthe" />
+
 
 Go luath beidh mé ag méascadh na hathruithe uile atá déanta agat isteach i mbranca príomh an tionscadail seo. Beidh ríomhphost fógra agat nuair a bheidh na hathruithe comhoiriúnaithe.
 

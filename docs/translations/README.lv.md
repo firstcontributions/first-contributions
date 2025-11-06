@@ -29,7 +29,7 @@ Tagad klonē nokopēto repozitoriju savā datorā. Ej uz savu GitHub profilu, at
 
 Atver termināli un palaid šo git komandu:
 
-```
+```bash
 git clone "tikko nokopētā saite"
 ```
 kur "tikko nokopētā saite" (bez pēdiņām) ir url uz šo repozitoriju (tavs projekta atzarojums). Apskaties iepriekšējos soļos, kā dabūt url.
@@ -37,7 +37,7 @@ kur "tikko nokopētā saite" (bez pēdiņām) ir url uz šo repozitoriju (tavs p
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 Piemēram:
-```
+```bash
 git clone https://github.com/tavs-vārds/first-contributions.git
 ```
 kur `tavs-vārds` ir tavs GitHub lietotājvārds. Šādi tu kopē GitHub repozitorija *first-contributions* saturu savā datorā.
@@ -46,16 +46,16 @@ kur `tavs-vārds` ir tavs GitHub lietotājvārds. Šādi tu kopē GitHub repozit
 
 Savā datorā nomaini repozitorija direktoriju (ja tu vēl neatrodies tajā):
 
-```
+```bash
 cd first-contributions
 ```
 Tagad izveido zaru ar `git checkout` komandu:
-```
+```bash
 git checkout -b <ieliec-jaunā-zara-nosaukumu>
 ```
 
 Piemēram:
-```
+```bash
 git checkout -b add-alonzo-church
 ```
 (Zara nosaukumā nav obligāti jābūt vārdam *add*, bet būtu lietderīgi to iekļaut, jo šī zara mērķis ir tava vārda pievienošana sarakstam.)
@@ -72,12 +72,12 @@ Ja tu dosies uz projekta direktoriju un izpildīsi komandu `git status`, tu redz
 
 Pievieno šīs izmaiņas zaram, kuru tu tikko izveidoji, ar `git add` komandu:
 
-```
+```bash
 git add Contributors.md
 ```
 
 Tagad iesūti šīs izmaiņas ar `git commit` komandu:
-```
+```bash
 git commit -m "Add <tavs-vārds> to Contributors list"
 ```
 aizvietojot `<tavs-vārds>` ar savu vārdu.
@@ -85,7 +85,7 @@ aizvietojot `<tavs-vārds>` ar savu vārdu.
 ## Pievieno izmaiņas GitHub
 
 Pievieno savas izmaiņas ar komandu `git push`:
-```
+```bash
 git push origin <ievieto-zara-nosaukumu>
 ```
 aizvietojot `<ievieto-zara-nosaukumu>` ar zara, kuru tu iepriekš izveidoji, nosaukumu.
