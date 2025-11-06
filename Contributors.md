@@ -1,5 +1,6 @@
 # Contributors
 - [Harish Akshay](https://github.com/harishakshay)
+- [Payal Kumavat](https://github.com/panda-eye-dev)
 - [Javier Gomariz Prats](https://github.com/javier-gomariz-prats)
 - [Md Habibulla](https://github.com/h-a-b-i-b)
 - [Yongqi Li](https://github.com/WIT1905120107)
