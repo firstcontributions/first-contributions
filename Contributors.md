@@ -2552,6 +2552,7 @@
 - [Shradha](https://github.com/setusher)
 - [chitransh panwar](https://github.com/Chitransh-Panwar)
 - [Mert Mermer](https://github.com/Winnerxl)
+- [CrashBlake]
 - [Riya verma](https://github.com/Riyaverma2)
 - [Abderahim Moja](https://github.com/Rdog69)
 - [Khan Kaif](https://github.com/kaifkhan-coder)
