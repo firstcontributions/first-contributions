@@ -37,6 +37,7 @@
 - [Krishna Medapati](https://github.com/krishna-medapati)
 - [Sourav Bhowmik](https://github.com/bhowmik94)
 - [Nivya](https://github.com/nivyz)
+- [Chimmani Aakarsh](https://github.com/Aakarsh1024)
 - safsafsaf124asf
 - scinac
 - Toby
