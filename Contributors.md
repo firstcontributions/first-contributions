@@ -473,6 +473,7 @@
 - [Sowo R](https://github.com/sowo5)
 - Ryder Paredes
 - [vipul]
+  [Nerf]
 - [cogitobyte]
 - [V1k770r]
 - [PB](https://github.com/PierreBatikh)
