@@ -1,5 +1,6 @@
 # Contributors
 - [Prsai0110](https://github.com/prsai0110)
+- [Abhiranjan Kumar](https://github.com/ABHIRANJAN-kUMAR1)
 - [Harish Akshay](https://github.com/harishakshay)
 - [Payal Kumavat](https://github.com/panda-eye-dev)
 - [Javier Gomariz Prats](https://github.com/javier-gomariz-prats)
