@@ -72,12 +72,12 @@ git switch -c goş-ahmet-ahmedow
 
 Indi, tekst redaktorynda(m.ü VSCode) `Contributors.md` faýlyny açyň, içinde iň soňunda adyňyzy giriziň we ýatda saklaň(save)
 
-```
+```bash
 - [Adyňyz](https://github.com/ulanyjy-adyňyz)
 ```
 
 Mysal üçin:
-```
+```bash
 - [Ahmet Ahmedow](https://github.com/ahmetahmedow)
 ```
 ```](``` arasynda boşluk ýokdur
