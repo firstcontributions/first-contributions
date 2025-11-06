@@ -1,9 +1,10 @@
 # Contributors
+
 - [Prsai0110](https://github.com/prsai0110)
 - [Abhiranjan Kumar](https://github.com/ABHIRANJAN-kUMAR1)
 - [Ujjwal](https://github.com/ujjwal0110) hello my first.
 - [Harish Akshay](https://github.com/harishakshay)
-- [Ramon]() 
+- [Ramon]()
 - [Payal Kumavat](https://github.com/panda-eye-dev)
 - [Javier Gomariz Prats](https://github.com/javier-gomariz-prats)
 - [Md Habibulla](https://github.com/h-a-b-i-b)
@@ -33,7 +34,8 @@
 - [Camilo Galeano] (https://github.com/camilog0120)
 - [Trujifl](https://github.com/Trujifl)
 
- -[Abhiranjan Kumar](https://github.com/ABHIRANJAN-KUMAR1)
+  -[Abhiranjan Kumar](https://github.com/ABHIRANJAN-KUMAR1)
+
 - [Anand Kamble](https://github.com/Anand7820)
 - [John Cena](https://github.com/johnproha)
 - [Gokul45-45](https://github.com/Gokul45-45)
@@ -172,7 +174,7 @@
 - [Sonali Dutta](https://github.com/SonaliDutta-Dev)
 
 - [Aryan] (https://github.com/aryanmallick302)
-- [Supra](https://github.com/supraik) 
+- [Supra](https://github.com/supraik)
 - [Bhavya sri Athukuri](https://github.com/Bhavya-chowdary)
 - [Aireche Khalil](https://github.com/Ka-iPy)
 - [Crescendenrum](https://github.com/Crescendenrum)
@@ -2682,3 +2684,4 @@
 - [Simrat Singh](https://github.com/simrat7781)
 - [Anantha Sai](https://github.com/ananthasai-2006)
 - [nigmatullin244] (https://github.com/nigmatullin244)
+- [Mazen] (https://github.com/Mazen-AL-Hajjaji)
