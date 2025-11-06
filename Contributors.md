@@ -1016,6 +1016,7 @@
 - [Sathvik](https://github.com/Satthvik1026)
 - [Sean Tilson](hhtps://github.com/smtilson)
 - [Shahrukh Khan](https://github.com/srk384)
+- [Paulo Victor Maciel](https://github.com/paulovmaciel)
 - [ShaiQ Shah](https://github.com/shahshaiq)
 - [Shriram Gupta](https://github.com/theshriramgupta)
 - [Shudan Luo](https://github.com/shudanluo)
