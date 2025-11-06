@@ -135,10 +135,22 @@ Change to the repository directory on your computer (if you are not already ther
 cd first-contributions
 ```
 
-Now create a branch using the `git switch` command:
+Now create a branch using the `git switch` command (Git 2.23 or newer):
 
 ```bash
 git switch -c your-new-branch-name
+```
+
+If you are using an older Git version that doesn’t support `git switch`, use:
+
+```bash
+git checkout -b your-new-branch-name
+```
+
+You can check your Git version with:
+
+```bash
+git --version
 ```
 
 For example:
@@ -147,18 +159,6 @@ For example:
 git switch -c add-alonzo-church
 ```
 
-<details>
-<summary> <strong>If you get any errors using git switch, click here:</strong> </summary>
-
-If the error message "Git: `switch` is not a git command. See `git –help`" appears, it's likely because you're using an older version of git.
-
-In this case, try to use `git checkout` instead:
-
-```bash
-git checkout -b your-new-branch-name
-```
-
-</details>
 
 ## Make necessary changes and commit those changes
 
