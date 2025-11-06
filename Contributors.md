@@ -14,6 +14,7 @@
 - [Vardhu Penke](https://github.com/vardhu032)
 - [**Aryan Gupta**](https://github.com/Aryangupta15)
 - [Sunakshi Singh](https://github.com/Sunakshi-ui)
+- [Mohammad Ali](https://github.com/mohammadaliat)
 - [Akarsh Dang](https://github.com/AkarshD)
 - [Boga Vishnuvaradhan](https://github.com/Vishnuvaradhan142)
 - [kenguvavikash](https://github.com/kenguvavikash)
