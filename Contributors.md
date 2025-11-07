@@ -27,6 +27,7 @@
 - [Akarsh Dang](https://github.com/AkarshD)
 - [Anantha Sai](https://github.com/ananthasai-2006)
 - [Ritej Talluri](https://github.com/Tal1762)
+- - [Comet AI](https://github.com/cometai)
 - [Hamzathul karrar](https://github.com/Hamzathul-karrar)
 - [Ebubekir Vural](https://github.com/33ebubekirvural)
 - [Sourab Reddy](https://github.com/Arcanixhades0)
