@@ -1,7 +1,10 @@
 name: Auto-merge PRs
+# This workflow automatically merges pull requests that only modify the 'Contributors.md' file.
+# ?? It is designed mainly for first-time contributors in the First Contributions project.
+# ?? It ensures that only simple, safe PRs (like adding your name) get merged automatically.
 on:
   pull_request_target:
-    types: [opened, synchronize]
+    types: [opened, synchronize]   # Trigger when a PR is opened or updated
     paths:
       - 'Contributors.md' # <- only run if only contributors file changed
     
@@ -14,12 +17,14 @@ jobs:
       issues: write
       
     steps:
-      # Check out the repository code
+      # ?? Step 1: Checkout the pull request code
       - name: Checkout code
         uses: actions/checkout@v4
         with:
           ref: ${{ github.event.pull_request.head.sha }}
           fetch-depth: 2
+
+          Step 2: Check if the PR only changes the Contributors.md file
 
       - name: Check if PR only modifies Contributors.md
         id: is_only_contributors_file_changed
@@ -39,6 +44,8 @@ jobs:
             echo "only_contributors=false" >> $GITHUB_ENV
           fi
 
+          # ?? Step 3: Check if the PR only adds a single line (to prevent spam or major edits)
+
       - name: Check if PR has only one line change
         run: |
           ADDITIONS=${{ github.event.pull_request.additions }}
@@ -54,7 +61,7 @@ jobs:
           else
             echo "one_line_change=false" >> $GITHUB_ENV
           fi
-
+         Step 4: Automatically merge the PR if it only modifies Contributors.md with one-line change
       # Merge the pull request if it only modifies the Contributors.md file or if it fail to do then drop failure message as post 
       - name: Merge PR
         id: merge_pr
@@ -176,8 +183,7 @@ jobs:
               // Set GitHub Action as failed
               core.setFailed(error.message);
             }
-
-      # Post a comment on the pull request if it was not merged automatically
+          Step 5: If PR can't be merged automatically, leave a comment requesting manual review
       - name: Post comment on PR if not merged automatically
         # Check if the pull request only modifies the CONTRIBUTORS.md file
         if: env.only_contributors != 'true'
