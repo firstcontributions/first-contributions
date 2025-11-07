@@ -44,6 +44,7 @@
  - [Mathew Addala](https://github.com/MathewAddala)
 - [Anand Kamble](https://github.com/Anand7820)
 - [John Cena](https://github.com/johnproha)
+- [Praise Ossai](https://github.com/ozi26/first-contributions)
 - [Gokul45-45](https://github.com/Gokul45-45)
 - [**Malla Raraju's**](https://github.com/MallaRaraju) one more step forward, who knows what's ahead
 - [mani vardhan](https://github.com/manivardhan)
@@ -123,6 +124,7 @@
 - [Karina Suhajda](https://github.com/SlyFoxAhri/)
 - [Riddhi Shah](https://github.com/riidefined)
 - [Saroj Kushwaha](https://github.com/SrjKshwh)
+- [Praise Ossai](https://github.com/ozi26/first-contributions)
 - [Nivesh Padamata](https://github.com/niveshpadamata1218)
 - [Jun Harada](https://github.com/haradaj)
 - [Thoran Idupuganti](https://github.com/thoranidupuganti)
