@@ -1297,6 +1297,7 @@
 - [Arisa Abiko](https://github.com/arisaabiko)
 - [Arjun](https://github.com/arjundevensharma)
 - [Artem Kiryukhin](https://github.com/Feugon)
+- [Safi2099](https://github.com/Safi2099)
 - [Ashen Umeda](https://github.com/ashenumeda)
 - [Babrah Ekele](https://github.com/bclaire92)
 - [Basma BT](https://github.com/Boutaib-Basma)
