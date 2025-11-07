@@ -69,6 +69,7 @@
 - [Shahinsha](https://github.com/ShahinshaShahinu)
 - [Manmath Hatte](https://github.com/manmathbh)
 - [connectwithvanshika](https://github.com/connectwithvanshika)
+  [0NIKHIL0](https://github.com/0NIKHIL0)
 - [Abhinav Ranjan Jha](https://github.com/ARJ544)
 - [William Dellinger](https://github.com/Willd231)
 - [Tulasi Lasya](https://github.com/TulasiLasya)
