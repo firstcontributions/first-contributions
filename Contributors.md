@@ -20,6 +20,7 @@
 - [Anshika Agarwal](https://github.com/<your-github-username>)
 - [siddardha Reddy](https://github.com/siddardha796)
 - [Reshi Sahil](https://github.com/reshisahil)
+- [Loago Moremi](https://github.com/loag0) Anybody here play clash?
 - [JosephTelecsan](https://github.com/JosephTelecsan)
 - [Jana] (https://github.com/iamJana)
 - [Shubhanshu Singh] (https://github.com/SHUBHANSHU602)
