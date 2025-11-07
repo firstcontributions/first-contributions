@@ -1,0 +1,48 @@
+import java.util.Scanner;
+
+public class StudentGradeCalculator {
+
+    // Method to calculate average
+    public static double calculateAverage(int[] marks) {
+        int sum = 0;
+        for (int mark : marks) {
+            sum += mark;
+        }
+        return (double) sum / marks.length;
+    }
+
+    // Method to determine grade
+    public static char calculateGrade(double average) {
+        if (average >= 90) return 'A';
+        else if (average >= 80) return 'B';
+        else if (average >= 70) return 'C';
+        else if (average >= 60) return 'D';
+        else return 'F';
+    }
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.print("Enter number of subjects: ");
+        int subjects = scanner.nextInt();
+
+        int[] marks = new int[subjects];
+
+        // Taking marks input
+        for (int i = 0; i < subjects; i++) {
+            System.out.print("Enter marks for subject " + (i + 1) + ": ");
+            marks[i] = scanner.nextInt();
+        }
+
+        // Calculate results
+        double average = calculateAverage(marks);
+        char grade = calculateGrade(average);
+
+        // Display results
+        System.out.println("\n--- Student Grade Report ---");
+        System.out.println("Average Marks: " + average);
+        System.out.println("Grade: " + grade);
+
+        scanner.close();
+    }
+}
