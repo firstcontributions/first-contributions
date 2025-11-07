@@ -1,5 +1,6 @@
 # Contributors
 - [Harish B](https://github.com/winharishbalu) happy to start my journey
+-[Sakshi G.](https://github.com/Kaonashi2486);long way to go!
 - [Prsai0110](https://github.com/prsai0110)
 - [Abhiranjan Kumar](https://github.com/ABHIRANJAN-kUMAR1)
 - [Ujjwal](https://github.com/ujjwal0110) hello my first.
