@@ -94,6 +94,7 @@
 - [Remy](https://github.com/Remi561) First contribution
 - [sai](https://github.com/sai-30624)
 - [Emre Zeyrek](https://github.com/emre-zeyrek)
+- [Vivek Kumar Rathour](https://github.com/vivekkumarrathour)
 - [Lemi Melkamu](https://github.com/lemidb)
 - [Devourer](https://github.com/Devourer322)
 - [Andrew Yoo](https://github.com/andrew-yoo)
