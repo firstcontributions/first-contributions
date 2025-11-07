@@ -1,5 +1,6 @@
 # Contributors
 - [Harish B](https://github.com/winharishbalu) happy to start my journey
+-[Sakshi G.](https://github.com/Kaonashi2486);long way to go!
 - [Prsai0110](https://github.com/prsai0110)
 - [Abhiranjan Kumar](https://github.com/ABHIRANJAN-kUMAR1)
 - [Ujjwal](https://github.com/ujjwal0110) hello my first.
@@ -28,6 +29,7 @@
 - [Anantha Sai](https://github.com/ananthasai-2006)
 - [Ritej Talluri](https://github.com/Tal1762)
 - - [Comet AI](https://github.com/cometai)
+- [Jay Rajesh](https://github.com/jaymuramalla2)
 - [Hamzathul karrar](https://github.com/Hamzathul-karrar)
 - [Ebubekir Vural](https://github.com/33ebubekirvural)
 - [Sourab Reddy](https://github.com/Arcanixhades0)
@@ -50,6 +52,7 @@
 - [Nilansh Kumar](https://github.com/nilansh-07)
 - [Sethu Vinayagam](https://github.com/SethuVinayagam)
 - [Ankan Roy](https://github.com/AnkanJU)
+- [Mohamed Hossam](https://github.com/mohamed01089)
 - [Mohamed Alforjani](https://github.com/elforgaani)
 - [Paul Thanksgiving](https://github.com/p-thanks)
 - [Krishna Medapati](https://github.com/krishna-medapati)
@@ -376,6 +379,7 @@
 - [Sara]
 - [maheshjadhav92229](https://github.com/maheshjadhav92229)
 - [Krsna]
+- [Anand Jaiswal] (https://github.com/anand-jaiswal-IN)
 - [Archie](https://github.com/archie-2006)
 - [Rohit Mendus](https://github.com/rohitmendus)
 - [Kavish](https://github.com/Kavish-Nag)
@@ -434,6 +438,7 @@
 - [Yash Pachauri](https://github.com/yashpachauri1)
 - [Mark Connor](https://github.com/markjconnor)
 - [Dharmendra Solanki](https://github.com/ProgrammingPirates)
+- [Priyanshu Pareek](https://github.com/StillWater2005/)
 - [Ryno de Beer](https://github.com/Rynoo1)
 - [Ahtisham Shaikh](https://github.com/Ahtisham-1214)
 - [Noe Hernandez](https://github.com/kreeptales)
@@ -1297,6 +1302,7 @@
 - [Arisa Abiko](https://github.com/arisaabiko)
 - [Arjun](https://github.com/arjundevensharma)
 - [Artem Kiryukhin](https://github.com/Feugon)
+- [Safi2099](https://github.com/Safi2099)
 - [Ashen Umeda](https://github.com/ashenumeda)
 - [Babrah Ekele](https://github.com/bclaire92)
 - [Basma BT](https://github.com/Boutaib-Basma)
@@ -2702,3 +2708,8 @@
 - [Pranav Ghadge] (https://github.com/pranavg21)
 - [Vipul kumar] (https://github.com/vipul264og)
 - [RAHUL] (https://github.com/Rahul2322-P)
+-[Satyam Pandey](https://github.com/SatyamPandey-07)
+- Bhavik Umesh Thakkar
+- [Jayden Sullivan] (https://github.com/JaydenSullivanJS)
+- [Aryan Raj](https://github.com/Aryan3572)
+- Madhav Prakash — https://github.com/Madhav-blip
