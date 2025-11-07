@@ -1,4 +1,5 @@
 # Contributors
+-[krishnamutyala06](https://github.com/krishnamutyala06) thank you
 - [Harish B](https://github.com/winharishbalu) happy to start my journey
 -[Sakshi G.](https://github.com/Kaonashi2486);long way to go!
 - [Prsai0110](https://github.com/prsai0110)
@@ -30,6 +31,7 @@
 - [Ritej Talluri](https://github.com/Tal1762)
 - - [Comet AI](https://github.com/cometai)
 - [Jay Rajesh](https://github.com/jaymuramalla2)
+- [Praise Ossai](https://github.com/ozi26/first-contributions)
 - [Hamzathul karrar](https://github.com/Hamzathul-karrar)
 - [Ebubekir Vural](https://github.com/33ebubekirvural)
 - [Sourab Reddy](https://github.com/Arcanixhades0)
@@ -2615,6 +2617,7 @@
 - [Voona Sriraj](https://github.com/VoonaSriraj)
 - [M Gnana Karthik](https://github.com/karthik-248)
 - [Francesco P]
+- [Chimenem Okandu](- [Chimenem Okandu] (https://github.com/chimenemking))
 - [Jayant](https:github.com/jayantsharma13)
 - [Rehan Shaikh](https://github.com/rehan-03)
 - [Akhil Mishra](https://github.com/akhilmishra)
@@ -2688,6 +2691,7 @@
 - [Sahil Soni](https://github.com/sahilsoni0021)
 - [K. Harshith Varma](https://github.com/Keerthipati-Harshith-Varma)
 - [Darya Zalesskaya](https://github.com/Darya-Zalesskaya)
+- [Himanshu Tembhare](https://github.com/27tHimanshu/)
 - [Khushaboo](https://github.com/infiniteworld-web)
 - [Savithru7142](https://github.com/Savithru7142)
 - [Savithru7142](https://github.com/Savithru7142)
