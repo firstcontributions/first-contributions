@@ -300,6 +300,7 @@
 - [Rayan Mamhoud](https://github.com/ryanneekidev)
 - [Ehtesham Nawaz](https://github.com/Edri7h)
 - [Jason Lamb](https://github.com/jasrasr)
+- Anisha
 - [Adrian Juarez](https://github.com/adrianjzc)
 - [KHL](https://github.com/khanthtoolwin)
 - [Aryan Rai](https://github.com/Fang1331)
