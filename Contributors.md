@@ -1,15 +1,16 @@
 # Contributors
--[krishnamutyala06](https://github.com/krishnamutyala06) thank you
--[Marwan](https://github.com/Ashhuby) ds2 bad
+
+- [krishnamutyala06](https://github.com/krishnamutyala06) thank you
+- [Marwan](https://github.com/Ashhuby) ds2 bad
 - [Harish B](https://github.com/winharishbalu) happy to start my journey
--[Sakshi G.](https://github.com/Kaonashi2486);long way to go!
+- [Sakshi G.](https://github.com/Kaonashi2486);long way to go!
 - [Prsai0110](https://github.com/prsai0110)
 - [Abhiranjan Kumar](https://github.com/ABHIRANJAN-kUMAR1)
 - [Ujjwal](https://github.com/ujjwal0110) hello my first.
 - [Harish Akshay](https://github.com/harishakshay)
 - [Narendra](https://github.com/tellamekalasubbu-commits)
-- [Ramon]() 
- - [Priti Vishwakarma](https://github.com/pritivish07025)
+- [Ramon]()
+- [Priti Vishwakarma](https://github.com/pritivish07025)
 - [Payal Kumavat](https://github.com/panda-eye-dev)
 - [Javier Gomariz Prats](https://github.com/javier-gomariz-prats)
 - [Md Habibulla](https://github.com/h-a-b-i-b)
@@ -45,8 +46,8 @@
 - [Camilo Galeano] (https://github.com/camilog0120)
 - [Trujifl](https://github.com/Trujifl)
 - Meghraj Giri (https://github.com/Meghraj-official)
- -[Abhiranjan Kumar](https://github.com/ABHIRANJAN-KUMAR1)
- - [Mathew Addala](https://github.com/MathewAddala)
+- [Abhiranjan Kumar](https://github.com/ABHIRANJAN-KUMAR1)
+- [Mathew Addala](https://github.com/MathewAddala)
 - [Anand Kamble](https://github.com/Anand7820)
 - [John Cena](https://github.com/johnproha)
 - [Gokul45-45](https://github.com/Gokul45-45)
@@ -187,10 +188,9 @@
 - [Hungbeanbean](https://github.com/hungbeanbean1331)
 - [AnshMeshram](https://github.com/AnshMeshram)
 - [Sonali Dutta](https://github.com/SonaliDutta-Dev)
-
 - [Aryan] (https://github.com/aryanmallick302)
 - [**Krishna Choudhary**](https://github.com/kc-conquers-code11)   Lets conquer!!
-- [Supra](https://github.com/supraik) 
+- [Supra](https://github.com/supraik)
 - [Bhavya sri Athukuri](https://github.com/Bhavya-chowdary)
 - [Aireche Khalil](https://github.com/Ka-iPy)
 - [Crescendenrum](https://github.com/Crescendenrum)
@@ -2713,13 +2713,14 @@ Amir Osman
 - [Simrat Singh](https://github.com/simrat7781)
 - [Anantha Sai](https://github.com/ananthasai-2006)
 - [nigmatullin244] (https://github.com/nigmatullin244)
+- [Mazen] (https://github.com/Mazen-AL-Hajjaji)
 - [Dharmakari Nagender](https://github.com/Nagender211)
 - [nigmatullin244] (https://github.com/nigmatullin244)
 - [Pranav Ghadge] (https://github.com/pranavg21)
 - [Vipul kumar] (https://github.com/vipul264og)
 - [RAHUL] (https://github.com/Rahul2322-P)
 - [MOHAMED EMAM] (https://github.com/moemam10)
--[Satyam Pandey](https://github.com/SatyamPandey-07)
+- [Satyam Pandey](https://github.com/SatyamPandey-07)
 - Bhavik Umesh Thakkar
 - [Jayden Sullivan] (https://github.com/JaydenSullivanJS)
 - [Aryan Raj](https://github.com/Aryan3572)
