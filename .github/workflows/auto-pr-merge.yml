@@ -1,5 +1,5 @@
 name: Auto-merge PRs
-# This workflow automatically merges pull requests that only modify the 'Contributors.md' file.
+# This workflow automatically merges pull requests that only modify the "Contributors.m" file.
 # ?? It is designed mainly for first-time contributors in the First Contributions project.
 # ?? It ensures that only simple, safe PRs (like adding your name) get merged automatically.
 on:
