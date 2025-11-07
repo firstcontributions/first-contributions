@@ -79,6 +79,7 @@ git # Contributors
 - [Vaishak Prasad Bhat](https://github.com/vaishak-iiitb)
 - [Raj Soni](https://github.com/rajsonnii)
 - [Karan Dhiman](https://github.com/karandhiman12)
+[Hamza Fareed](https://github.com/hamzafareed123)
 - [Gurparsad Singh](https://github.com/gprathour)
 - [Ranjith] (https://github.com/Ranjithjm123)
 - [Srinivas Batthula](https://github.com/srinivas-batthula)
