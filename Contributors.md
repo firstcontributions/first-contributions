@@ -188,7 +188,7 @@
 - [Sonali Dutta](https://github.com/SonaliDutta-Dev)
 
 - [Aryan] (https://github.com/aryanmallick302)
-- [Krishna] (https://github.com/kc-conquers-code11)   Lets conquer!!
+- [**Krishna Choudhary**](https://github.com/kc-conquers-code11)   Lets conquer!!
 - [Supra](https://github.com/supraik) 
 - [Bhavya sri Athukuri](https://github.com/Bhavya-chowdary)
 - [Aireche Khalil](https://github.com/Ka-iPy)
