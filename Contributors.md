@@ -679,6 +679,7 @@
 - [Fangphire](https://github.com/fangphire)
 - [Zohaib](https://github.com/Iamzohaibali)
 - [Frank Anthony](https://github.com/FrankLayza)
+  [Kaichalle 2025](https://github.com/HennesyChihiro)
 - [Rahpeal Lee](https://github.com/nativeengineer)
   [Rajnish Kumar Dubey](https://github.com/rajnish-dubey)
 - [Purbasha Mitra](https://github.com/PurbashaMitra)
