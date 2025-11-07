@@ -1225,6 +1225,7 @@
 - [amethyst](https://github.com/krishshaw418)
 - [callme-kvj](https://github.com/kvj-harsha)
 - [ccppurcell](https://github.com/ccppurcell)
+Amir Osman
 - [davidw1281](https://github.com/davidw1281)
 - [eobrien673](https://github.com/eobrien673)
 - [TakahashiSouta2018](https://github.com/TakahashiSouta2018)
