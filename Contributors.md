@@ -317,7 +317,7 @@
 - [Aryan Rai](https://github.com/Fang1331)
 - [Anagha Lambade](https://github.com/Anagha2106)
 - [Khaled Al Katheri](https://github.com/KhaledAlKatheri)
-- [Yesebu](https://github.com/MylapalliYesebu) - "First open-source contribution — learning by doing"
+- [Yesebu](https://github.com/MylapalliYesebu) - "First open-source contribution �learning by doing"
 - [Shaurya Tamang](https://github.com/GoTouchGra55) -[sameer reddy](https://github.com/2400030343SameerReddy)
 - [Om Prakash](https://github.com/omprakash970)
 - [Rahul kumar choudhary](https://github.com/rahulstd82)
@@ -435,6 +435,7 @@
 - [Mohd Hammad Yousuf]
 - James
 - hossam
+- # i love code
 - [CrisD3v](https://github.com/CrisD3v)
 - [Jana Sivakumaran](https://github.com/git-jana/)
 - [Labeeb Bilal](https://github.com/Labeeb-bilal)
@@ -2086,7 +2087,7 @@ Amir Osman
 - [Viticooo](https://github.com/Viticooo)
 - [chandev123](https://github.com/chandev123)
 - [Hannah V](https://github.com/hannahv71)
-- [dant1k](https://github.com/dant1k) – crypto/telegram/dev
+- [dant1k](https://github.com/dant1k) �crypto/telegram/dev
 - [Ahmad Siddique](https://github.com/ahmadsiddique-dev)
 - [Portfolio](https://ahmadsiddique.vercel.app/)
 - [Júlia Cansado](https://github.com/julcansado)
@@ -2244,7 +2245,7 @@ Amir Osman
 - [Thanh Vũ](https://github.com/vu221604-creator)
 - [Dozerokz](https://github.com/dozerokz)
 - [heyilingran](https://github.com/heyilingran)
-- [Alyna Liegl](https://github.com/alynaliegl) — Excited to contribute to open-source!
+- [Alyna Liegl](https://github.com/alynaliegl) �Excited to contribute to open-source!
 - [Shaun Wang](https://github.com/Solarz4scratch/)
 - [MG-Edu](https://github.com/mg-edu)
 - [Yangchen Sherpa](https://github.com/yonasherpa04) -Excited to contribute to open- source!
