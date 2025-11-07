@@ -318,6 +318,7 @@
 - [M A](https://github.com/m-a45)
 - [Williumtiwari](https://github.com/Williumtiwari)
 - [DavidValoisMartinez]
+  [Mahi-korrapti](https://github.com/Mahi-korrapati)
 - [Sabirrh](https://github.com/Sabirrh)
 - [sik9252](https://github.com/sik9252)
 - [Zander Bezuidenhout](https://github.com/ZanderBez)
