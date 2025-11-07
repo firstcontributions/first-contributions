@@ -2703,6 +2703,7 @@ Amir Osman
 - [Nokken](https://github.com/nokkxn)
 - [Nandini Chandel](https://github.com/NandiniChandel1)
 - [Abhishek Chaubey](https://github.com/Abhishekchaubey2007)
+- [Aashritha](https://github.com/2410030165Aashritha)
 - [Jay Prakash Kumar](https://github.com/jayPRAKSAH)
 - [krishna3224](https://github.com/krishna3224)
 - [Abhishek Chaubey](https://github.com/Abhishekchaubey2007)
