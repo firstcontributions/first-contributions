@@ -227,6 +227,7 @@
 - [Prabin Panta](https://github.com/prabinpanta0)
 - [Krsna Sirohi](https://github.com/krsnasirohi)
 - [jrai](https://github.com/Jrai96)
+- [Mingda Xie](https://github.com/M1ngdaXie)
 - [limay tidke](https://github.com/limaytidke)
 - [Pooraka Hasendra](https://github.com/Pooraka)
 - [Jaeyoon Keum](https://github.com/jaeyoon882)
