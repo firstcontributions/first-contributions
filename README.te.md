@@ -206,8 +206,7 @@ git push -u origin your-branch-name
 ### సత్యాపన లో లోపం
 <pre>remote: Password authenticationకి 2021 ఆగస్టు 13న మద్దతు తీసివేయబడింది. దయచేసి వ్యక్తిగత యాక్సెస్ టోకెన్ (Personal Access Token) ఉపయోగించండి. remote: మరిన్ని వివరాలకు చూడండి: https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ fatal: 'https://github.com/&lt;your-username&gt;/first-contributions.git/'కి authentication విఫలమైంది</pre>
 
-మీ ఖాతాకు SSH key సృష్టించడం మరియు కాన్ఫిగర్ చేయడానికి GitHub ట్యూటోరియల్
- ను చూడండి.
+మీ ఖాతాకు SSH కీని సృష్టించడం మరియు కాన్ఫిగర్ చేయడం పై GitHub ట్యూటోరియల్ కి వెళ్లడానికి. (https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
 
 అలాగే, మీ రిమోట్ అడ్రస్‌ను చెక్ చేయడానికి 'git remote -v' రన్ చేయవచ్చు.
 
