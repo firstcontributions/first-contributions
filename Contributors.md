@@ -1,5 +1,6 @@
 # Contributors
 -[krishnamutyala06](https://github.com/krishnamutyala06) thank you
+-[Marwan](https://github.com/Ashhuby) ds2 bad
 - [Harish B](https://github.com/winharishbalu) happy to start my journey
 -[Sakshi G.](https://github.com/Kaonashi2486);long way to go!
 - [Prsai0110](https://github.com/prsai0110)
