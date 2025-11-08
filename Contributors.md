@@ -1275,6 +1275,7 @@ Amir Osman
 - [tess3r4c7](https://github.com/tess3r4c7)
 - [simonpotel](https://github.com/simonpotel)
 - [sitthaveet](https://github.com/sitthaveet)
+- [hardex](https://github.com/hardextech)
 - [foam](https://github.com/MoreFoam)
 - [smandadhi9](https://github.com/smandadhi9)
 - [Zahid-hussain19](https://github.com/Zahid-hussain19)
