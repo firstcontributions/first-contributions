@@ -2730,6 +2730,7 @@
 - [RAHUL] (https://github.com/Rahul2322-P)
 - [MOHAMED EMAM] (https://github.com/moemam10)
 - [Satyam Pandey](https://github.com/SatyamPandey-07)
+- [Nasreen Khan](https://github.com/nasreenkhannam)
 - Bhavik Umesh Thakkar
 - [Jayden Sullivan] (https://github.com/JaydenSullivanJS)
 - [Aryan Raj](https://github.com/Aryan3572)
@@ -2739,4 +2740,3 @@
 - [Louis Pocheron]- https://github.com/Popoch39
 - [- Nevil J]-https://github.com/nevil2006
 - [~VEDANT~]-https://github.com/vedant1506
-- [Nasreen Khan]-https://github.com/nasreenkhannam
