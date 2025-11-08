@@ -2716,6 +2716,7 @@
 - [krishna3224](https://github.com/krishna3224)
 - [Abhishek Chaubey](https://github.com/Abhishekchaubey2007)
 - [Akanksha Deshmukh](https://github.com/AkankshaD2)
+- [Nasreen Khan](https://github.com/nasreenkhannam)
 - [Matus Bucko](https://github.com/Matus14)
 - [Yash Purohit](https://github.com/yashprocr7)
 - [Sergio Silva](https://github.com/sergiosilva-dev)
@@ -2730,7 +2731,6 @@
 - [RAHUL] (https://github.com/Rahul2322-P)
 - [MOHAMED EMAM] (https://github.com/moemam10)
 - [Satyam Pandey](https://github.com/SatyamPandey-07)
-- [Nasreen Khan](https://github.com/nasreenkhannam)
 - Bhavik Umesh Thakkar
 - [Jayden Sullivan] (https://github.com/JaydenSullivanJS)
 - [Aryan Raj](https://github.com/Aryan3572)
