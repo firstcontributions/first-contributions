@@ -1,5 +1,4 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -66,7 +65,8 @@
 <kbd>[<img title="Latvia" alt="Latvia" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/lv.svg" width="22">](translations/README.lv.md)</kbd>
 <kbd>[<img title="Suomeksi" alt="Suomeksi" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/fi.svg" width="22">](translations/README.fi.md)</kbd>
 <kbd>[<img title="Беларуская мова" alt="Беларуская мова" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/by.svg" width="22">](translations/README.by.md)</kbd>
-<kbd>[<img title="Српски" alt="Српски" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/rs.svg" width="22">](translations/README.sr.md)</kbd>
+<kbd>[<img title="Српски" alt="Српски" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/rs.svg" width="22">](translations/README.sr-Cyrl.md)</kbd>
+<kbd>[<img title="Srpski" alt="Srpski" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/rs.svg" width="22">](translations/README.sr-Latn.md)</kbd>
 <kbd>[<img title="Қазақша" alt="Қазақша" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/kz.svg" width="22">](translations/README.kz.md)</kbd>
 <kbd>[<img title="Bosanski" alt="Bosanski" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ba.svg" width="22">](translations/README.bih.md)</kbd>
 <kbd>[<img title="Bosanski" alt="Bosanski" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/et.svg" width="22">](translations/README.bih.md)</kbd>
@@ -80,7 +80,7 @@
 
 _यदि तपाईं कमाण्ड लाइन (command line) सँग सहज हुनुहुन्न भने, [यहाँ GUI tool हरु प्रयोग गर्ने Tutorial हरु छन्।](#अन्य-उपकरणहरू-प्रयोग-गर्ने-tutorial-हरु)_
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository ." />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository." />
 
 #### यदि तपाईंसँग तपाइँको कम्प्यूटरमा  git  छैन भने,[ यहाँबाट install गर्नुहोस्।]( https://help.github.com/articles/set-up-git/)
 
@@ -90,13 +90,13 @@ _यदि तपाईं कमाण्ड लाइन (command line) सँ
 
 ## Repository Clone गर्नुहोस्।
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository " />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="यो repository clone गर्नुहोस्" />
 
 अब `  Fork  ` गरेको repository लाई आफ्नो कम्प्युटरमा `  Clone  ` गर्नको लागी तपाइको GitHub account मा जानुहोस् र Fork गरिएको Repository  खोल्नुहोस्। अब ` Code ` बटनमा क्लिक गर्नुहोस् र त्यसपछि *copy to clipboard* आइकनमा क्लिक गर्नुहोस्।
 
 टर्मिनल खोल्नुहोस् र निम्न git कमाण्ड चलाउनुहोस्:
 
-```
+```bash
 git clone "तपाइले copy गरेको URL"
 ```
 
@@ -106,7 +106,7 @@ git clone "तपाइले copy गरेको URL"
 
 उदाहरणका लागि:
 
-```
+```bash
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 
@@ -116,19 +116,19 @@ git clone https://github.com/this-is-you/first-contributions.git
 
 तपाईंको कम्प्यूटरमा Clone गरेको repository को directory लाई खोल्नुहोस् (यदि तपाईं पहिले नै हुनुहुन्न भने):
 
-```
+```bash
 cd first-contributions
 ```
 
 अब `git switch` कमाण्ड प्रयोग गरेर एउटा branch बनाउनुहोस् :
 
-```
+```bash
 git switch -c  ब्रन्चको-नाम
 ```
 
 उदाहरणको लागि:
 
-```
+```bash
 git switch -c add-ram-regmi
 ```
 
@@ -145,13 +145,13 @@ git switch -c add-ram-regmi
 
 तपाइले भर्खरै बनाउनु भएको branch मा  `git add` कमाण्ड प्रयोग गरी तिनी परिवर्तनहरू थप्नुहोस्:
 
-```
+```bash
 git add Contributors.md
 ```
 
 अब `git commit` कमाण्ड प्रयोग गरेर तिनी परिवर्तनहरू कमिट (commit) गर्नुहोस्:
 
-```
+```bash
 git commit -m "Add <your-name> to Contributors list"
 ```
 
@@ -161,7 +161,7 @@ git commit -m "Add <your-name> to Contributors list"
 
 `git push` कमाण्डको प्रयोग गरेर आफ्नो परिवर्तनहरु  पुश (push) गर्नुहोस्:
 
-```
+```bash
 git push -u origin <your-branch-name>
 ```
 
@@ -169,7 +169,7 @@ git push -u origin <your-branch-name>
 
 उदाहरणको लागि:
 
-```
+```bash
 git push -u origin add-ram-regmi
 ```
 
@@ -177,10 +177,10 @@ git push -u origin add-ram-regmi
 <summary> <strong>यदि push गर्दा केहि समस्या परेमा यहाँ क्लिक गर्नुहोस् :</strong> </summary>
 
 - ### Authentication Error
-     <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
-  remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
-  fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
- [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)   मा गएर आफ्नो account को लागी SSH key generate र configure गर्नुहोस ।
+  <pre>remote: पासवर्ड प्रमाणीकरण (authentication) को समर्थन अगस्ट 13, 2021 मा हटाइएको थियो। कृपया यसको सट्टा personal access token प्रयोग गर्नुहोस्।
+  remote: थप जानकारीको लागी https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ हेर्नुहोस्।
+  fatal: 'https://github.com/<your-username>/first-contributions.git/' को लागी प्रमाणीकरण असफल भयो।</pre>
+    [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) मा गएर आफ्नो account को लागी SSH key generate र configure गर्नुहोस्।
 </details>
 
 ## Review को लागि तपाईंको परिवर्तनहरू पेश गर्नुहोस्।
@@ -191,25 +191,27 @@ git push -u origin add-ram-regmi
 
 अब pull request पेश गर्नुहोस्।
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="पुल अनुरोध पेश गर्नुहोस्" />
 
 केहि समयमै म यस प्रोजेक्टको Master branch मा तपाईका सबै परिवर्तनहरू Merge गर्नेछु। परिवर्तनहरू merge भएपछि हजुरले एक notification इमेल(email) प्राप्त गर्नुहुनेछ।
 
 ## यहाँबाट कहाँ जाने?
 
-बधाई छ! तपाईले *Fork* -> *Clone*  -> *Edit*  -> *Pull Request*  कार्यप्रवाह(workflow) पूरा गर्नुभयो, जुन तपाई प्राय: एक योगदानकर्ता(contributor)को रूपमा गर्नुहुनेछ!
+बधाई छ!  
+तपाईले  `*Fork* -> *Clone*  -> *Edit*  -> *Pull Request*`  कार्यप्रवाह (workflow) पूरा गर्नुभयो, जुन तपाई प्राय: एक योगदानकर्ता(contributor)को रूपमा गर्नुहुनेछ!
 
-तपाईंले योगदान(contribution) दिनु भएकोमा खुशी मनाउनुहोस् र [web app](https://firstcontributions.github.io/#social-share) मा गएर आफ्नो friends and follower हरूमा पनि शेयर गर्नुहोस् ।
+तपाईंले योगदान(contribution) दिनु भएकोमा खुशी मनाउनुहोस् र  [ web app](https://firstcontributions.github.io/#social-share) मा गएर आफ्नो friends and follower हरूमा पनि शेयर गर्नुहोस् ।
 
-तपाइँलाई कुनै पनि मद्दत चाहिन्छ वा कुनै प्रश्न छ भने तपाइँ हाम्रो slack team मा सामेल हुन सक्नुहुनेछ। [join slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
+यदि तपाईंलाई थप अभ्यास चाहियो भने, [कोड योगदानहरू](https://github.com/roshanjossey/code-contributions) हेर्नुहोस्।
 
-अब तपाईले अन्य प्रोजेक्टहरूमा योगदान दिन सुरु गर्नुहोस्। हामीले तपाईंले गर्न सक्नुहुने सजिलो समस्याहरू(issues)को साथमा प्रोजेक्टहरूको सूची संकलन गरेका छौ हेर्नुहोस् ।. [list of projects in the web app](https://firstcontributions.github.io/#project-list)।
+
+अब तपाईले अन्य प्रोजेक्टहरूमा योगदान दिन सुरु गर्नुहोस्। हामीले तपाईंले गर्न सक्नुहुने सजिलो समस्याहरू(issues)को साथमा प्रोजेक्टहरूको सूची संकलन गरेका छौ। [web app मा प्रोजेक्टहरूको सूची](https://firstcontributions.github.io/#project-list) हेर्नुहोस्।
 
 ### [थप सामग्री](../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## अन्य उपकरणहरू प्रयोग गर्ने tutorial हरु
 
-| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
+| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="गिटहब डेस्कटप" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="भिजुअल स्टुडियो २०१७" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="गिटक्राकेन" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="भिएस कोड" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="सोर्सट्री एप" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="इन्टेलिजे आईडिया" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | --- | --- | --- | --- | --- | --- |
 | [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md) | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md) | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md) | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md) | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md) | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md) |
 

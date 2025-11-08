@@ -1,5 +1,4 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -29,7 +28,7 @@ Now clone this repo to your machine.
 
 IMPORTANT: DO NOT CLONE THE ORIGINAL REPO. Go to your fork and clone it.
 
-To clone the repo, click on "Clone or Download" and then click on "Open in Desktop".
+To clone the repo, click on "Code" and then click on "Open in Github Desktop".
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-clonetodesktop.png" alt="clone this repository" />
 
@@ -37,9 +36,13 @@ A pop up window will open. Click on "Open GitHubDesktop.exe".
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-open-githubdesktop.png" alt="clone this repository" />
 
-After you click on "Open GitHubDesktop.exe" the contents will be downloaded to your computer.
+After you click on "Open GitHubDesktop.exe" a 'Clone a repository' dialogue box appears. Click on 'Clone'.
 
-<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-downloaded.png" alt="clone this repository" />
+<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/clone-repository.png" alt="clone this repository" height="400" />  
+
+After that another dialogue box that says 'How are you planning to use this fork?' appears. Select 'To contribute to the parent project' and click on 'Continue'.
+
+<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/repository-clone-purpose.png" alt="Use of repository" height="500" />
 
 Now you have copied the contents of the first-contributions repository in github to your computer.
 
@@ -108,8 +111,6 @@ Soon I'll be merging all your changes into the master branch of this project. Yo
 Congrats! You just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
 
 Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io#social-share).
-
-You can join our slack team in case you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
 ### [Additional material](../additional-material/git_workflow_scenarios/additional-material.md)
 

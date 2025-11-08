@@ -25,7 +25,7 @@ Daba ,cloner repo dyalk l pc 3ndk. Brek 3la bottona d Clone w copier dik lien (H
 
 7el daba cmd (ila knti f windows) wla terminal (ila kan 3ndk mac wla 5dam b linux) w copier had les commandes li ghanwrik :
 
-```
+```bash
 git clone "dik lien li 3ad copieti"
 ```
 3andak t5liha hakak hhh "dik lien li 3ad copieti" (bla douk "") kteb tma lien li copieti fhemni . 
@@ -33,7 +33,7 @@ git clone "dik lien li 3ad copieti"
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copier l'URL dans le presse-papier" />
 
 Atkoun b7al had chkel :
-```
+```bash
 git clone https://github.com/smytk_dyal_github/first-contributions.git
 ```
 rah `smytk_dyal_github`  hia smya li nta dayr. 
@@ -43,16 +43,16 @@ Daba nta fhad l5twa ghatelecharger ga3 had repo 3ndk f pc bach tbda tbeddel fiha
 
 Daba f cmd nit wla terminal , d5l l dik lmilf li 3ad telechargeti (kteb had l3iba la ma3rftich d5l manuellement ) :
 
-```
+```bash
 cd first-contributions
 ```
 Daba ha kifach ghatswb branch dyalk `git checkout` :
-```
+```bash
 git checkout -b "smya_dlbranch"
 ```
 
 Par exemple :
-```
+```bash
 git checkout -b add-brahim
 ```
 (Machi darori tder f smya add , walakin gha bach nfhmo 3lach zdtiha)
@@ -60,12 +60,12 @@ git checkout -b add-brahim
 ## Bdl fl file d Contributors
 
 Daba d5el l fichier dyal `Contributors.md` fchi editeur , zid smytk w chi lien ila bghiti (3andak der chi7aja 5ayba). Ila ktbti daba f dik cmd/terminal `git status`, aybanulk l3ibat li bdlti. Daba zidhoum l branch dyalk add-brahim bhad l3iba dyal `git add` :
-```
+```bash
 git add Contributors.md
 ```
 
 Sauvegardeha b `git commit`:
-```
+```bash
 git commit -m "Add <smytk> to Contributors list"
 ```
 der fblasst `<smytk>` smytk dbss7 (brahim matalan).
@@ -73,7 +73,7 @@ der fblasst `<smytk>` smytk dbss7 (brahim matalan).
 ## PUSHIIII
 
 Daba ghatpushi had lmodofication li derti l github b  `git push` :
-```
+```bash
 git push origin <smya_dlbranch>
 ```
 ana knt mssmiha add-brahim , nta bdlha bachma knti dayr .
@@ -96,34 +96,34 @@ branche main dyalk maghaytbdel fiha walou daba . Ila bghiti ta main dyalk ykoun 
 ## 5li main dyalk synchronisé m3a contributors
 
 B3da rje3 lmain matb9ach fdik add-brahim 
- ```
+ ```bash
  git checkout main
  ```
 
 zid lien d repo as `upstream remote url` :
-```
+```bash
 git remote add upstream https://github.com/smytk_d_github/first-contributions
 ```
 Ghi dik changes ydaro , 5ssk moraha tjbd version jdida dyal repo dyalk:
-```
+```bash
 git fetch upstream
 ```
 
 Hna kan9lbo 3la ga3 tghyirat li kaynin f lfork dyalk nta (upstream remote). Daba 3ad 5ssk tjm3 had jdida m3a repo dyalk (main) :
-```
+```bash
 git rebase upstream/main
 ```
 Daba ga3 tghyirat kaynin fl main. ila pushiti modifications aydaro ta f fork dyalk :
-```
+```bash
 git push origin main
 ```
 
 Daba ra jm3na branch dyal `<add-brahim>` m3a l main dyalna , w jm3na lmain dyalna m3a main dyalhom (yarbi tkoun fhmtini hh).Daba dik li drti flwl dyal `<add-votre-nom>` mab9atch 3ndha fa2ida , ila bghiti t7ydha :
-```
+```bash
 git branch -d <add-brahim>
 ```
 w ymklk t7yda ta mn repo li b3ida :
-```
+```bash
 git push origin --delete <add-votre-nom>
 ```
 Machi darori t7yd lbranch walakin raha salat 5smtha ma3ndha lach tb9a tma .

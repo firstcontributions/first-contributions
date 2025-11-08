@@ -27,7 +27,7 @@ Dourka, enssoukhe hada el garage 3ala el PC diyalek. Clické 3ala el zire enssou
 
 Eftah la console ta3 les commandes (ida rak fi windows) wola el terminale (ida rak fi MacOS ou Linux) menba3de cheghale lé commandes git el taliya :
 
-```
+```bash
 git clone "l'url eli copietha dourk berk"
 ```
 wine "l'url eli copietha dourk berk" (bela lé guillemets) hiya l'url ta3 el garage. chouf fi eli fate men 9abel bache tethassel 3ala l'url.
@@ -35,7 +35,7 @@ wine "l'url eli copietha dourk berk" (bela lé guillemets) hiya l'url ta3 el gar
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copier l'URL dans le presse-papier" />
 
 Mithale :
-```
+```bash
 git clone https://github.com/issem-el-mousstakhdem-ta3ek/first-contributions.git
 ```
 
@@ -45,18 +45,18 @@ wine `issem-el-mousstakhdem-ta3ek` howa issem el mousstakhdem ta3 el compte ta3e
 
 Rouhe lel garage ta3 el projet eli créyitou djedide mousstenssakhe (edha marakeche déja fih)
 
-```
+```bash
 cd first-contributions
 ```
 
 Dourka ecréyé far3e be la commande `git checkout` :
 
-```
+```bash
 git checkout -b <add-essem-diyalek>
 ```
 
 Mithale :
-```
+```bash
 git checkout -b add-koffi-sani
 ```
 (Esseme el far3e mayahtajeche yekoune fih kelmete *add*, mé hadja meliha loukane yekoune fih hadef lel fare3 wo tezide esseme diyalek lel lista.)
@@ -64,13 +64,13 @@ git checkout -b add-koffi-sani
 ## Dire el taghyirate el mouhima é kemle fiha
 
 Dourka, efteh el féchiyé `Contributors.md` fi un editeur de text, zid fih assmek, menba3de ahfedou, Idha fetehte le terminal ou derte la commande `git status`, rah etchouf beli kayen taghyérates. Zid hadouk al taghiyérates lel far3e eli créyeteho men 9bel be la commande `git add` :
-```
+```bash
 git add Contributors.md
 ```
 
 Dourka, kemel commité hadouk étaghyérates be la commande `git commit`:
 
-```
+```bash
 git commit -m "Add <essem-diyalek> to Contributors list"
 ```
 Ghéyere `<essem-diyalek>` bel assem diyalek.
@@ -78,7 +78,7 @@ Ghéyere `<essem-diyalek>` bel assem diyalek.
 ## Eb3athe el tagheyérates fi github
 
 Ebe3athes el taghyérates diyalek be la commande `git push` :
-```
+```bash
 git push origin <add-essem-diyalek>
 ```
 Bedel `<add-essem-diyalek>` be esseme el far3e eli créyeteho men 9abel.
@@ -100,37 +100,37 @@ El far3e main ta3ek marahe yessralou hata taghyiére lel ane. Bache main ta3ek y
 ## Khelli el main ta3ek synchronisé me3a hada el garage
 
  Bache tebda, rouhe lel fare3 main
- ```
+ ```bash
  git checkout main
  ```
 
  Zide l'url ta3 el garage ta3ek ki `upstream remote url` :
-```
+```bash
 git remote add upstream https://github.com/Roshanjossey/first-contributions
 ```
 
 Hada rah tekoune tarika bache te9oule lel git beli kayen version wahdoukhera texister bi had el 3ounwane wo nettb9ou a3lihe `upstream`. Ghire el tagheyérates tet fuzionna, hawosse 3ala la version djedidda ta3 el garrage ta3i :
-```
+```bash
 git fetch upstream
 ```
 
 Henya rana nehawossou 3ala teghyérates fel main ta3i (upstream remote). Dourka, rahe tefusioner el taghyére el djadid ta3 el garage ta3i me3a el far3e ta3ek main :
-```
+```bash
 git rebase upstream/main
 ```
 Henya rahe neteb9ou ga3 el taghyérates eli rak tehawosse a 3lihoume fel far3e main. Idha be3ate el far3e main dourka, el main ta3ek rahe yekoune howa tani fih taghéyérates :
-```
+```bash
 git push origin main
 ```
 Tahedire: Hadi el khetra, rah tebe3aye el garage el be3ide eli assmou origin.
 
 Fi hade el marhala rani fusionite el far3e `<add-essem-diyalek>` me3a el far3e main, wo enta fusionite el far3e main ta3i me3a el far3e main ta3ek. el far3e `<add-essem-diyalek>` maraheche nahtajouhe, edane te9dere tessuprimihe :
 
-```
+```bash
 git branch -d <add-essem-diyalek>
 ```
 wa aydan te9dere tenihi la version ta3ou fel far3e el be3ide tani :
-```
+```bash
 git push origin --delete <add-essem-diyalek>
 ```
 Wache cheft henaya machi darouri, bessah assem el far3e yewori beli el hadef rahe moukhassasse.
