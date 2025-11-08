@@ -29,6 +29,7 @@
 - [Loago Moremi](https://github.com/loag0) Anybody here play clash?
 - [JosephTelecsan](https://github.com/JosephTelecsan)
 - [Jana] (https://github.com/iamJana)
+- [Gaurav SIngh](https://github.com/0xgaurav)
 - [Shubhanshu Singh] (https://github.com/SHUBHANSHU602)
 - [Vardhu Penke](https://github.com/vardhu032)
 - [**Aryan Gupta**](https://github.com/Aryangupta15)
