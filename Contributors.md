@@ -132,6 +132,7 @@
 - [Syed Muhammad Hussain Naqvi](https://github.com/smhnaqvi)
 - [CYK](https://github.com/arra-huening77)
 - [Karina Suhajda](https://github.com/SlyFoxAhri/)
+- ["RsGoksel"](https://github.com/RsGoksel/)
 - [Riddhi Shah](https://github.com/riidefined)
 - [Saroj Kushwaha](https://github.com/SrjKshwh)
 - [Nivesh Padamata](https://github.com/niveshpadamata1218)
