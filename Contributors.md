@@ -35,6 +35,7 @@
 - [Vardhu Penke](https://github.com/vardhu032)
 - [**Aryan Gupta**](https://github.com/Aryangupta15)
 - [Sunakshi Singh](https://github.com/Sunakshi-ui)
+- [Antonino Travia](https://github.com/atilla571)
 - [Mohammad Ali](https://github.com/mohammadaliat)
 - [Akarsh Dang](https://github.com/AkarshD)
 - [Anantha Sai](https://github.com/ananthasai-2006)
