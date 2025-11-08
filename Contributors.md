@@ -1,5 +1,6 @@
 # Contributors
 - [Vaishnavi Suryawanshi](https://github.com/VaishnaviSW01)
+- [Yassine El Alami](https://github.com/ElAlamiY)
 - [Kotyara5243](https://github.com/Kotyara5243)
 - [deepak mishra](https://github.com/BEPAWSITIVE)
 - [Caleb Fan](https://github.com/Gazfang)
