@@ -7,7 +7,7 @@
 - [Prsai0110](https://github.com/prsai0110)
 - [Abhiranjan Kumar](https://github.com/ABHIRANJAN-kUMAR1)
 - [Ujjwal](https://github.com/ujjwal0110) hello my first.
-- [Jashnavi Gummalla](https://github.com/Jashnavi25) 
+- [Jashnavi Gummalla](https://github.com/Jashnavi25)
 - [Vinicius Soares de Sousa](https://github.com/ViniciusSousaDev) Palmeiras.
 - [Harish Akshay](https://github.com/harishakshay)
 - [Narendra](https://github.com/tellamekalasubbu-commits)
@@ -272,7 +272,7 @@
 - [Michael Pugh](https://github.com/icefire1191)
 - [Rishabh Bansal](https://github.com/RishabhBansal22/)
 - [Nisarg Gandhi](https://github.com/Nisarg0007)
-- [Hayden D'Souza](https://github.com/haydenfd/)
+- [Hayden D&#39;Souza](https://github.com/haydenfd/)
 - Piyush Sharma
 - [Maria Perez](https://github.com/marifer-perezh)
 - [paras Gupta](https://github.com/paras2003gupta)
@@ -894,7 +894,6 @@
   https://www.youtube.com/watch?v=2do4WZ0e8UU&list=PLTV_nsuD2lf4hfQvqKRToCXtVB7-6rZnz&index=5
 - [elijah](https://github.com/elijahladdie)
 - [Gotchumon](https://github.com/Gotchumon)
-
 - [enguy-hub](https://github.com/enguy-hub)
 - [headboot](https://github.com/headboot)
 - [ronaldmirabal](https://github.com/ronaldmirabal)
@@ -1238,7 +1237,7 @@
 - [amethyst](https://github.com/krishshaw418)
 - [callme-kvj](https://github.com/kvj-harsha)
 - [ccppurcell](https://github.com/ccppurcell)
-Amir Osman
+  Amir Osman
 - [davidw1281](https://github.com/davidw1281)
 - [eobrien673](https://github.com/eobrien673)
 - [TakahashiSouta2018](https://github.com/TakahashiSouta2018)
@@ -1650,7 +1649,6 @@ Amir Osman
 - [Cormac Dorrat](https://github.com/cormac-dorrat)
 - [atharva-b](https://github.com/atharva-b)
 - [Jaswant2406](https://github.com/Jaswant2406)
-
 - [artistique1](https://github.com/artistique1)
 - [brunoblaise](https://github.com/brunoblaise)
 - [chandanvnk1](https://github.com/chandanvnk1)
@@ -2468,7 +2466,6 @@ Amir Osman
 - [Madhu](https://github.com/Madhu696969)
 - [Sumukh P B](hhttps://github.com/Sumukhapb)
 - [Rakesh M H](https://github.com/Rakeshdev10per)
-
 - [Naees](https://github.com/Naees)
 - [Piyush Raj](https://github.com/piyushraj8235)
 - [Omkar Ghodekar](https://github.com/omkarghodekar18)
@@ -2720,6 +2717,7 @@ Amir Osman
 - [Sergio Silva](https://github.com/sergiosilva-dev)
 - [Simrat Singh](https://github.com/simrat7781)
 - [Anantha Sai](https://github.com/ananthasai-2006)
+- [Arbab_sra](https://exchange.arbab.fun "exchange")
 - [nigmatullin244] (https://github.com/nigmatullin244)
 - [Mazen] (https://github.com/Mazen-AL-Hajjaji)
 - [Dharmakari Nagender](https://github.com/Nagender211)
