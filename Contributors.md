@@ -789,6 +789,7 @@
 - [Salar Amir](https://github.com/SalarAmir)
 - [Samia-sh](https://github.com/samia-code0)
 - [Sandhya R](https://github.com/sandhya13r)
+- [Kushal Rathore](https://github.com/kushalrathore19)
 - [Sanika Nair](https://github.com/sanika-n)
 - [Sathvik](https://github.com/Satthvik1026)
 - [Sean Tilson](hhtps://github.com/smtilson)
