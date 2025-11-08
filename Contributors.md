@@ -142,6 +142,7 @@
 - [Andy Ma](https://github.com/Everither)
 - [Bruno Costa](https://github.com/brunocosta-devlab)
 - [Angel Pauly](https://github.com/angelpauly)
+- [Hamza Khalid](https://github.com/Hamza-Khaalid)
 - [Max Kutepov](https://github.com/MaximKutepov)
 - [Sid-5137](https://github.com/Sid-5137)
 - [Vibhor Kumbhare](https://github.com/KingVibhor)
