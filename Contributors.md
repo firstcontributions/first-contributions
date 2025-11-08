@@ -89,6 +89,7 @@
 - [Petar Djorovic](https://github.com/petardjorovic)
 - [Shahinsha](https://github.com/ShahinshaShahinu)
 - [Manmath Hatte](https://github.com/manmathbh)
+- [jkmbo2](https://github.com/jkmbo2)
 - [connectwithvanshika](https://github.com/connectwithvanshika)
   [0NIKHIL0](https://github.com/0NIKHIL0)
 - [Abhinav Ranjan Jha](https://github.com/ARJ544)
@@ -1275,6 +1276,7 @@ Amir Osman
 - [tess3r4c7](https://github.com/tess3r4c7)
 - [simonpotel](https://github.com/simonpotel)
 - [sitthaveet](https://github.com/sitthaveet)
+- [hardex](https://github.com/hardextech)
 - [foam](https://github.com/MoreFoam)
 - [smandadhi9](https://github.com/smandadhi9)
 - [Zahid-hussain19](https://github.com/Zahid-hussain19)
@@ -2747,3 +2749,4 @@ Amir Osman
 -[Isha Kumari]-https://github.com/IshaKumari22
 - [~Chinmayi VS~](https://github.com/Chinmayi-2005)
 - [Rahul Rathi](https://github.com/mrahulrathi)
+-[Amar Singh](https://github.com/amarsin22)
