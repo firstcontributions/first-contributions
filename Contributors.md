@@ -136,6 +136,7 @@
 - ["RsGoksel"](https://github.com/RsGoksel/)
 - [Riddhi Shah](https://github.com/riidefined)
 - [Saroj Kushwaha](https://github.com/SrjKshwh)
+- [Naresh](https://github.com/naro56)
 - [Nivesh Padamata](https://github.com/niveshpadamata1218)
 - [Jun Harada](https://github.com/haradaj)
 - [Thoran Idupuganti](https://github.com/thoranidupuganti)
