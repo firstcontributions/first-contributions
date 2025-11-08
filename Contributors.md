@@ -2716,7 +2716,6 @@
 - [krishna3224](https://github.com/krishna3224)
 - [Abhishek Chaubey](https://github.com/Abhishekchaubey2007)
 - [Akanksha Deshmukh](https://github.com/AkankshaD2)
-- [Nasreen Khan](https://github.com/nasreenkhannam)
 - [Matus Bucko](https://github.com/Matus14)
 - [Yash Purohit](https://github.com/yashprocr7)
 - [Sergio Silva](https://github.com/sergiosilva-dev)
@@ -2740,3 +2739,4 @@
 - [Louis Pocheron]- https://github.com/Popoch39
 - [- Nevil J]-https://github.com/nevil2006
 - [~VEDANT~]-https://github.com/vedant1506
+- [Nasreen Khan](https://github.com/nasreenkhannam)
