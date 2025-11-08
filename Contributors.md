@@ -7,7 +7,7 @@
 - [Prsai0110](https://github.com/prsai0110)
 - [Abhiranjan Kumar](https://github.com/ABHIRANJAN-kUMAR1)
 - [Ujjwal](https://github.com/ujjwal0110) hello my first.
-- [Jashnavi Gummalla](https://github.com/Jashnavi25) 
+- [Jashnavi Gummalla](https://github.com/Jashnavi25)
 - [Vinicius Soares de Sousa](https://github.com/ViniciusSousaDev) Palmeiras.
 - [Harish Akshay](https://github.com/harishakshay)
 - [Narendra](https://github.com/tellamekalasubbu-commits)
@@ -192,7 +192,7 @@
 - [AnshMeshram](https://github.com/AnshMeshram)
 - [Sonali Dutta](https://github.com/SonaliDutta-Dev)
 - [Aryan] (https://github.com/aryanmallick302)
-- [**Krishna Choudhary**](https://github.com/kc-conquers-code11)   Lets conquer!!
+- [**Krishna Choudhary**](https://github.com/kc-conquers-code11) Lets conquer!!
 - [Supra](https://github.com/supraik)
 - [Bhavya sri Athukuri](https://github.com/Bhavya-chowdary)
 - [Aireche Khalil](https://github.com/Ka-iPy)
@@ -1236,7 +1236,7 @@
 - [amethyst](https://github.com/krishshaw418)
 - [callme-kvj](https://github.com/kvj-harsha)
 - [ccppurcell](https://github.com/ccppurcell)
-Amir Osman
+  Amir Osman
 - [davidw1281](https://github.com/davidw1281)
 - [eobrien673](https://github.com/eobrien673)
 - [TakahashiSouta2018](https://github.com/TakahashiSouta2018)
@@ -2734,3 +2734,4 @@ Amir Osman
 - [Nive](https://github.com/Nivethitha27072004)
 - [Mithul Krishna]- https://github.com/MithulKRS
 - [Louis Pocheron]- https://github.com/Popoch39
+- [**Sanjiv Paul**](https://github.com/sanjivpaul)
