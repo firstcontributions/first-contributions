@@ -55,6 +55,7 @@
 - [Trujifl](https://github.com/Trujifl)
 - Meghraj Giri (https://github.com/Meghraj-official)
 - [Abhiranjan Kumar](https://github.com/ABHIRANJAN-KUMAR1)
+- [Ayush Kore](https://github.com/Ayushkore1404)Day one or one day
 - [Mathew Addala](https://github.com/MathewAddala)
 - [Anand Kamble](https://github.com/Anand7820)
 - [John Cena](https://github.com/johnproha)
