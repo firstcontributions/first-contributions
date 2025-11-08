@@ -89,6 +89,7 @@
 - [Petar Djorovic](https://github.com/petardjorovic)
 - [Shahinsha](https://github.com/ShahinshaShahinu)
 - [Manmath Hatte](https://github.com/manmathbh)
+- [jkmbo2](https://github.com/jkmbo2)
 - [connectwithvanshika](https://github.com/connectwithvanshika)
   [0NIKHIL0](https://github.com/0NIKHIL0)
 - [Abhinav Ranjan Jha](https://github.com/ARJ544)
