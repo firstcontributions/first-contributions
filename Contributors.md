@@ -13,6 +13,7 @@
 - [Narendra](https://github.com/tellamekalasubbu-commits)
 - [Ramon]()
 - [zach](https://github.com/zachyang25nov)
+- [Terry Smith](https://github.com/T3rryTim3)
 - [Priti Vishwakarma](https://github.com/pritivish07025)
 - [Payal Kumavat](https://github.com/panda-eye-dev)
 - [Javier Gomariz Prats](https://github.com/javier-gomariz-prats)
