@@ -18,7 +18,7 @@ _Hvis du ikke er komfortabel med terminal, [så finnes det andre metoder med bru
 
 ## Fork dette prosjektet
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork dette prosjektet" />
 
 Fork prosjektet ved å klikke på "fork" knappen på toppen av denne siden. Dette vil legge til en kopi av dette prosjektet til din GitHub konto (prosjekter kalles repository på GitHub).
 <br/><br/>
@@ -26,7 +26,7 @@ Fork prosjektet ved å klikke på "fork" knappen på toppen av denne siden. Dett
 
 ## Clone prosjektet
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="klon dette prosjektet" />
 
 Nå skal vi klone prosjektet fra GitHub til din maskin. Gå til din GitHub konto og åpne din nye fork, deretter klikk på "clone" knappen og kopier linken.
 
@@ -38,7 +38,7 @@ git clone "din-link"
 
 Erstatt `<din-link>` med linken du kopierte i forrige trinn.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="kopier URL til utklippstavle" />
 
 Eksempelvis:
 
@@ -122,11 +122,11 @@ Erstatt `<navn-på-din-branch>` med navnet på branch som du opprettet tidligere
 
 Hvis du går til ditt prosjekt på GitHub, vil du se en `Compare & pull request` knapp. Klikk på den for å opprette en pull request.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="opprett en pull request" />
 
 Send inn din pull request når du er klar.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="send inn pull request" />
 
 Snart vil jeg merge dine endringer inn i master branch av mitt prosjekt. Du vil motta en notifikasjon på epost når dine endringer er lagt til.
 <br/><br/>
