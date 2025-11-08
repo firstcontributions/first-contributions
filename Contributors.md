@@ -1160,6 +1160,7 @@ Ben
 - [Arun Kumar](https://github.com/Arun471)
 - [Floyd Carlo](https://github.com/floo69)
 - [Sarvesh](https://github.com/sarvesh-sr)
+- [Zara](https:github.com/zaracoder-stack)
 - [Kyle](https://github.com/goodwinkyle94)
 - [kabya deb](https://github.com/kabyadeb)
 - [Anal joseph](https://github.com/anal96)
