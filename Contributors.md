@@ -2739,6 +2739,7 @@ Amir Osman
 - [Aryan Raj](https://github.com/Aryan3572)
 - Madhav Prakash — https://github.com/Madhav-blip
 - [Nive](https://github.com/Nivethitha27072004)
+- [Ace](https://github.com/asseternity)
 - [Mithul Krishna]- https://github.com/MithulKRS
 - [Louis Pocheron]- https://github.com/Popoch39
 - [- Nevil J]-https://github.com/nevil2006
