@@ -42,6 +42,7 @@
 - [D3rk1us](https://github.com/D3rk1us)
 - [Sahil Gurjar](https://github.com/SG2407)
 - [Vardhan](https://github.com/Chintha-vardhan)
+- [Luis](https://github.com/manahore)
 - [Lakshmi Kamalanjali Mandalika](https://github.com/Kamalanjali)
 - [Abin Madathil](https://github.com/abinmadathil)
 - [Prince Yadav](https://github.com/warrior-hub)
