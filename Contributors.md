@@ -2748,4 +2748,5 @@ Amir Osman
 - [~VEDANT~]-https://github.com/vedant1506
 -[Isha Kumari]-https://github.com/IshaKumari22
 - [~Chinmayi VS~](https://github.com/Chinmayi-2005)
+- [Rahul Rathi](https://github.com/mrahulrathi)
 -[Amar Singh](https://github.com/amarsin22)
