@@ -16,6 +16,7 @@
 - [Terry Smith](https://github.com/T3rryTim3)
 - [Priti Vishwakarma](https://github.com/pritivish07025)
 - [Payal Kumavat](https://github.com/panda-eye-dev)
+- [Nasreen Khan](https://github.com/nasreenkhannam)
 - [Javier Gomariz Prats](https://github.com/javier-gomariz-prats)
 - [Md Habibulla](https://github.com/h-a-b-i-b)
 - [Gaurav Dhirwani](https://github.com/gauravdhirwani); I love coding and liverpool FC
@@ -2739,4 +2740,3 @@
 - [Louis Pocheron]- https://github.com/Popoch39
 - [- Nevil J]-https://github.com/nevil2006
 - [~VEDANT~]-https://github.com/vedant1506
-- [Nasreen Khan](https://github.com/nasreenkhannam)
