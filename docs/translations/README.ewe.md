@@ -1,5 +1,4 @@
 [![kɔmpiutaɖoɖo femaxee ƒe Lɔlɔ̃](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -27,15 +26,15 @@ Azɔ wɔ agbalẽdzraɖoƒe sia ƒe nɔnɔmetata ɖe wò kɔmpiuta dzi. Zi clone
 
 Ʋu kpovitɔ eye nàzã git se siwo gbɔna :
 
-```
+```bash
 git clone "url si nèwɔ kɔpi na fifia"
 ```
 afisi "url si nèwɔ kɔpi teti koe nye ema" (si me nyayɔyɔawo mele o) nye url si le agbalẽdzraɖoƒea. Kpɔ akpa si do ŋgɔ be nàxɔ url la.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copier l'URL dans le presse-papier" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="Kpia URL la ɖe clipboard me" />
 
 Le kpɔɖeŋu me :
-```
+```bash
 git clone https://github.com/wò-ŋkɔ-si-nèzãna/first-contributions.git
 ```
 afisi `Wò ŋkɔ si nèzãna` nye wò GitHub zãla ƒe ŋkɔ. Afisiae nèle nusiwo le agbalẽdzraɖoƒea ƒe kɔpi wɔm le `first-contributions` tso GitHub dzi le wò kɔmpiuta dzi.
@@ -44,16 +43,16 @@ afisi `Wò ŋkɔ si nèzãna` nye wò GitHub zãla ƒe ŋkɔ. Afisiae nèle nusi
 
 Ʋu yi dɔwɔwɔ ƒe nɔnɔmetata yeye si wowɔ ƒe nɔnɔmetata me (ne mèle afima haɖe o):
 
-```
+```bash
 cd first-contributions
 ```
 Azɔ wɔ alɔdze aɖe kple sededea `git checkout` :
-```
+```bash
 git checkout -b <wò-ŋkɔ>
 ```
 
 Le kpɔɖeŋu me :
-```
+```bash
 git checkout -b add-abdou-raouf-atarmla
 ```
 (Mehiã be nya *add* nanɔ alɔdzedɔwɔƒea ƒe ŋkɔ me o, gake esɔ be nàde eme elabena taɖodzinu si le alɔdze sia ŋue nye be wòatsɔ wò ŋkɔ akpe ɖe xexlẽdzesi aɖe ŋu.)
@@ -61,12 +60,12 @@ git checkout -b add-abdou-raouf-atarmla
 ## Wɔ tɔtrɔ siwo hiã eye nàtsɔ wo ana
 
 Azɔ ʋu nuŋlɔɖia `Contributors.md` de wò ŋkɔ ɖe etame eye nàŋlɔe ɖi. Ne èʋu sedede ƒe nyatakakadzraɖoƒea eye nèwɔ sededea  `git status`, àkpɔe be tɔtrɔwo li. Tsɔ tɔtrɔ siawo kpe ɖe alɔdze si nèwɔ fifia kple sededea ŋu  `git add` :
-```
+```bash
 git add Contributors.md
 ```
 
 Azɔ wɔ tɔtrɔ siawo kple sededea `git commit`:
-```
+```bash
 git commit -m "Tsɔ <wò-ŋkɔ> kpe ɖe Nudzɔlawo ƒe xexlẽdzesi ŋu"
 ```
 tsɔ wò ŋkɔ ɖɔli `<wò-ŋkɔ>`.
@@ -74,7 +73,7 @@ tsɔ wò ŋkɔ ɖɔli `<wò-ŋkɔ>`.
 ## Tu tɔtrɔwo ɖe GitHub dzi
 
 Tu wò tɔtrɔwo kple sededea `git push` :
-```
+```bash
 git push origin <wò-ŋkɔ>
 ```
 tsɔ alɔdze si wowɔ va yi ƒe ŋkɔ ɖɔli `<wò-ŋkɔ>`.
@@ -83,11 +82,11 @@ tsɔ alɔdze si wowɔ va yi ƒe ŋkɔ ɖɔli `<wò-ŋkɔ>`.
 
 Ne èyi wò nudzraɖoƒe le Github la, àkpɔ `Compare & pull request` ƒe dzesi. Zi dzesi sia dzi.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="Wɔ pull request aɖe." />
 
 Azɔ tsɔ hehe ƒe biabiaa ɖo ɖa.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="Fia pull request la ɖa." />
 
 Eteƒe madidi o, maƒo miaƒe tɔtrɔwo katã nu ƒu ɖe dɔ sia ƒe alɔdze vevitɔ me. Àxɔ nyatakaka to e-mail dzi ne wonya wu ƒoƒo ɖekae nu ko.
 
@@ -96,35 +95,35 @@ Womatrɔ asi le miaƒe alɔdzedɔwɔƒea ƒe alɔdzedɔwɔƒe gãtɔ ŋu le ɣey
 ## Na wò alɔdzedɔwɔƒea nawɔ ɖeka kple nyatakakadzraɖoƒe sia
 
  Gbã la, trɔ ɖe alɔdzedɔwɔƒe gã la ŋu (main)
- ```
+ ```bash
  git checkout main
  ```
 
  Eye nàtsɔ nye nyatakakadzraɖoƒe ƒe ka akpee be  `upstream remote url` :
-```
+```bash
 git remote add upstream https://github.com/Roshanjossey/first-contributions
 ```
 Esia nye mɔ si dzi míetona gblɔna be nu bubu aɖe hã li si le míaƒe nyatakakadzraɖoƒea si míeyɔna be `upstream`. Ne tɔtrɔawo va wɔ ɖeka ko la, di nye numekuku ƒe akpa yeyea:
-```
+```bash
 git fetch upstream
 ```
 
 Afisiae míele tɔtrɔwo katã dim le nye alɔdzedɔwɔƒe (upstream remote) me. Fifia ele be nàƒo tɔtrɔ yeye si tso nye agbalẽdzraɖoƒea nu ƒu ɖe wò alɔdze gã la me:
-```
+```bash
 git rebase upstream/main
 ```
 Le afisia la, míewɔa tɔtrɔ siwo katã dim nènɔ la ŋudɔ le alɔdzedɔwɔƒe gã la me. Ne ètu alɔdze gã la fifia la, tɔtrɔ siawo hã anɔ wò fɔkpaa ŋu:
-```
+```bash
 git push origin main
 ```
 Nuxlɔ̃ame: Fifia ya èle tutum ayi adzɔge ʋĩ ƒe nyatakakadzraɖoƒe si woyɔna be origin.
 
 Le afisia la, metsɔ wò `<wò-ŋkɔ>` alɔdzedɔwɔƒea ƒo ƒu kple nye alɔdze gãtɔ, eye nètsɔ nye alɔdze gã la ƒo ƒu kple wò alɔdze gãtɔ. Wò `<wò-ŋkɔ>` alɔdze megahiã o, eyata àteŋu atutue:
-```
+```bash
 git branch -d <wò-ŋkɔ>
 ```
 eye àte ŋu atutu eƒe tɔtrɔ le adzɔge ʋĩ ƒe nyatakakadzraɖoƒe hã:
-```
+```bash
 git push origin --delete <wò-ŋkɔ>
 ```
 Esia mehiã o, gake alɔdzedɔwɔƒea ƒe ŋkɔ ɖee fia be eƒe taɖodzinua nye nu si le vevie. Eƒe agbenɔɣi ate ŋu anɔ kpuie.
