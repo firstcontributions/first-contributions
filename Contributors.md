@@ -2742,4 +2742,3 @@ Amir Osman
 - [- Nevil J]-https://github.com/nevil2006
 - [~VEDANT~]-https://github.com/vedant1506
 -[Isha Kumari]-https://github.com/IshaKumari22
-- [~Chinmayi VS~](https://github.com/Chinmayi-2005)
