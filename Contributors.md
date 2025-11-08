@@ -7,6 +7,7 @@
 - [Prsai0110](https://github.com/prsai0110)
 - [Abhiranjan Kumar](https://github.com/ABHIRANJAN-kUMAR1)
 - [Ujjwal](https://github.com/ujjwal0110) hello my first.
+- [Jashnavi Gummalla](https://github.com/Jashnavi25) 
 - [Vinicius Soares de Sousa](https://github.com/ViniciusSousaDev) Palmeiras.
 - [Harish Akshay](https://github.com/harishakshay)
 - [Narendra](https://github.com/tellamekalasubbu-commits)
