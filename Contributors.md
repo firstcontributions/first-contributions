@@ -454,6 +454,7 @@
 - [Carburio](https://github.com/Carburio)
 - [kamil](https://github.com/Kamil115853)
 - [ZNezirov](https://github.com/ZNezirov)
+- [Gxelol](https://github.com/Gxelol)
 - [Nishant khatri](https://github.com/nishant-khatri17)
 - [amoorali](https://github.com/amoorali)
 - [dev-knb](https://github.com/kimnambin)
