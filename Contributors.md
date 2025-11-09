@@ -1075,4 +1075,5 @@
 - [Inengiye Emmanuel](https://github.com/Inengs)
 - [Aditya Nautiyal](https://github.com/AdityaNautiyal908)
 - [Dhruv Shah](https://github.com/dhruvkshah75)
+- [Marc Santiago](https://github.com/santiagomarc13)
 - [Ahmed Yasir](https://github.com/ahmedyasir779)
