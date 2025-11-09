@@ -238,6 +238,7 @@ If you'd like more practice, checkout [code contributions](https://github.com/ro
 Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
 
 ### [Additional material](docs/additional-material/git_workflow_scenarios/additional-material.md)
+### [Examples of different types of first contributions](docs/additional-material/examples-of-first-contributions.md)
 
 ## Tutorials Using Other Tools
 
