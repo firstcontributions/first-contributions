@@ -1043,6 +1043,7 @@
 - [Babrah Ekele](https://github.com/bclaire92)
 - [Basma BT](https://github.com/Boutaib-Basma)
 - [Charlie Dobney](https://github.com/jyrdr)
+- [Sanuthi Liyasika](https://github.com/Sanuthi50)
 - [Caleb Rollf](https://github.com/lemonsloth)
 - [Calvin Shio](https://github.com/shiocalvin)
 - [Capri Caviedes](https://github.com/caprivm)
