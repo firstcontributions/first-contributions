@@ -13,6 +13,7 @@
 - [Dhayanithi s r](https://github.com/its-dhaya)
 - [Raja Rathour](https://github.com/Raja-89)
 - [Claire Haynes](https://github.com/ClaireHaynes700)
+- [Tommy Brill](https://github.com/neutronpmp)
 - [Vito Bondanese](https://github.com/VBVB99)
 - [Gourav soni](https://github.com/mrgaurav81)
 - [charitha-369](https://github.com/charitha-369)
@@ -1095,3 +1096,4 @@
 - [Omm Prakash Nayak](https://github.com/bithal2006)
 - [Marlene Davids](https://github.com/marls79)
 - [Gaurav Dhapola](https://github.com/Gaurav2327)
+- [Anshi Tyagi](https://github.com/TyagiAnshi)
