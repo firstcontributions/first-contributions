@@ -25,6 +25,7 @@
 - [Ronik Kumbhar](https://github.com/ronik62)
 - [Saad Rouyass](https://github.com/saadRouyass/)
 - [Ashutosh](https://github.com/Ashutosh9470)
+- [Marco Vargas](https://github.com/Marco180800)
 - [Leonardo Garzon](https://github.com/Leonardo-Garzon-1995)
 - [technologic-technologic](https://github.com/technologic-technologic)
 - [Shubhanshu](https://github.com/shbhansh66)
