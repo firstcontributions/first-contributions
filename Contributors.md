@@ -69,6 +69,7 @@
 - [baldlow](https://github.com/baldlow)
 - [Mohit Kumar](https://github.com/MateeRixx)
 - [Pygame17](https://github.com/Pygame17)
+- [AshwinJ127](https://github.com/AshwinJ127)
 - [Jonatan Rosali](https://github.com/JonatanRosali)
 - [Jason Herman](https://github.com/Everblade)
 - [Pavan kuppili](https://github.com/PavanKuppili)
