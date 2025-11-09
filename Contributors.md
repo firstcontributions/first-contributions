@@ -1070,3 +1070,5 @@
 - [Zia Uddin](https://github.com/ziauddin14)
 - [CJ Conti](https://github.com/contic5)
 - [Inengiye Emmanuel](https://github.com/Inengs)
+- [Hitaishi Pandey](https://github.com/hitaishipp)
+
