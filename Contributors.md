@@ -1080,3 +1080,4 @@
 - [Marc Santiago](https://github.com/santiagomarc13)
 - [Ahmed Yasir](https://github.com/ahmedyasir779)
 - [Shariq Naseem](https://github.com/muhammadshariq0007)
+- [Diana Solomon](https://github.com/dianasolomon)
