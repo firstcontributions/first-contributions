@@ -1078,4 +1078,4 @@
 - [Dhruv Shah](https://github.com/dhruvkshah75)
 - [Marc Santiago](https://github.com/santiagomarc13)
 - [Ahmed Yasir](https://github.com/ahmedyasir779)
-- [Nasreen khannam](https:..githun.com/nasreenkhannam)
+- [Nasreen khan](https:..githun.com/nasreenkhannam)
