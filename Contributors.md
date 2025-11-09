@@ -15,6 +15,7 @@
 - [Michael Wright](https://github.com/lumberjackwizard)
 - [Viraj Hudlikar](https://github.com/vhudlikar)
 - [Kishita Deotale](https://github.com/kishitadeotale24)
+- [Vinay Kumar](https://github.com/Pixeder)
 - [Muhammad Raza](https://github.com/RazaJavaid2004)
 - [vyshnavi raj](https://github.com/vyshnaviraj)
 - [Omm Satyakam](https://github.com/p-retrover)
