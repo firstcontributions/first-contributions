@@ -93,6 +93,7 @@
 - [Andre Bimbatti](https://github.com/andrebimbatti)
 - [Hrishikesh Rondla](https://github.com/Hrishikesh-Rondla)
 - [Amit Kumar](https://github.com/amitak985059)
+- [Yas](https://github.com/ykip10)
 - [Crisandresro012](https://github.com/Cristhian012)
 - [Rudra Pratap Singh Jadon](https://github.com/rudrajadon)
 - [Ronaldo P](https://github.com/Ronaldo-001)
