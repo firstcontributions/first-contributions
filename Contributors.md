@@ -687,6 +687,7 @@
 - [Aminat A](https://github.com/pejuameenat)
 - [Arumugam N](https://github.com/blackwolf2902)
 - [Andrew D](https://github.com/myMEDIA1578)
+- [Alex S](https://github.com/ceewok)
 - [Angad Bhalla](https://github.com/Anga205)
 - [Ankith Kini](https://github.com/ANKITH33)
 - [Arnav Joshi](https://github.com/Arnav020)
