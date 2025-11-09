@@ -988,6 +988,7 @@
 - [lennyhurni](https://github.com/lennyhurni)
 - [diya](https://github.com/diyaj14)
 - [skyl3on](https://github.com/SkyL3on)
+- [Anoop Nair](https://github.com/Anoop017)
 - [lordzerato](https://github.com/lordzerato)
 - [marcuscs00](https://github.com/marcuscs00)
 - [mishafisha](https://github.com/mishafisha)
