@@ -112,6 +112,7 @@
 - [santhosh teja santhosh teja](https://github.com/Yashs02-code)
 - [vismaya vishwas](https://github.com/Vis-2007)
 - [Yash Shirgaonkar](https://github.com/Yashs02-code)
+- [Sushant More](https://github.com/Sushant-More-1921)
 - [Malvin-sehmaluva-Machingura](https://github.com/sehmaluva)
 - [Fady Zaky](https://github.com/0ddAuto00)
 - [Aryan Vishwakarma](https://github.com/vishwakarma-31)
