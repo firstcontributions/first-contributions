@@ -15,6 +15,7 @@
 - [Michael Wright](https://github.com/lumberjackwizard)
 - [Viraj Hudlikar](https://github.com/vhudlikar)
 - [Kishita Deotale](https://github.com/kishitadeotale24)
+- [Vinay Kumar](https://github.com/Pixeder)
 - [Muhammad Raza](https://github.com/RazaJavaid2004)
 - [vyshnavi raj](https://github.com/vyshnaviraj)
 - [Omm Satyakam](https://github.com/p-retrover)
@@ -157,6 +158,7 @@
 - [Rick C](https://github.com/rccoder22)
 - [Hoin Shin](https://github.com/signalman)
 - [Namratha](https://github.com/namratha525)
+- [Prem Palanisamy](https://github.com/premtsd-code)
 - [Olet Sharapolli](https://github.com/Olet-17)
 - [Abhay Raj Agnihotri](https://github.com/abhayrajagnihotri)
 - [Sai Darshan](https://github.com/saidarshan7)
@@ -1021,6 +1023,7 @@
 - [Akshat Jain](https://github.com/akshat2604)
 - [Fabian Torres](https://github.com/fabstorres)
 - [Roshan Kumar](https://github.com/roshan-zest)
+- [Aditya Singh](https://github.com/adi318krmu)
 - [Akshay Kale](https://github.com/Dev-axay18)
 - [Alanto Manu](https://github.com/alantomanu)
 - [Abdelrahman Elaraby](https://github.com/aelaraby6)
@@ -1077,7 +1080,6 @@
 - [Dhruv Shah](https://github.com/dhruvkshah75)
 - [Marc Santiago](https://github.com/santiagomarc13)
 - [Ahmed Yasir](https://github.com/ahmedyasir779)
-- [Gokula Kannan] (https://github.com/gk-cloud-devops)
-
-
-
+- [Gokula Kannan](https://github.com/gk-cloud-devops)
+- [Shariq Naseem](https://github.com/muhammadshariq0007)
+- [Diana Solomon](https://github.com/dianasolomon)
