@@ -973,6 +973,7 @@
 - [Reydeuss](https://github.com/Reydeuss)
 - [fedxemilio](https://github.com/fedxemilio)
 - [fikrirazor](https://github.com/fikrirazor)
+- [Smiky0](https://github.com/Smiky0)
 - [happypepii](https://github.com/happypepii)
 - [hmdaslam97](https://github.com/hmdaslam97)
 - [indigo0445](https://github.com/indigo0445)
