@@ -1021,6 +1021,7 @@
 - [Akshat Jain](https://github.com/akshat2604)
 - [Fabian Torres](https://github.com/fabstorres)
 - [Roshan Kumar](https://github.com/roshan-zest)
+- [Aditya Singh](https://github.com/adi318krmu)
 - [Akshay Kale](https://github.com/Dev-axay18)
 - [Alanto Manu](https://github.com/alantomanu)
 - [Abdelrahman Elaraby](https://github.com/aelaraby6)
