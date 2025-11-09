@@ -40,6 +40,7 @@
 - [Andrew Park](https://github.com/AndePark)
 - [Mason Boucher](https://github.com/mcboucher10)
 - [Mariana Rutter](https://github.com/marianaluu)
+- [Aissatou Mbaye](https://github.com/AissatouMbaye19)
 - [Clement Zentz](https://github.com/clement-zentz)
 - [S-Dedeepya](https://github.com/S-Dedeepya)
 - [Fred](https://github.com/kipkemoifred)
