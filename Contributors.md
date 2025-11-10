@@ -56,6 +56,7 @@
 - [Sahil Gurjar](https://github.com/SG2407)
 - [Vardhan](https://github.com/Chintha-vardhan)
 - [Luis](https://github.com/manahore)
+- [Sherry](https://github.com/zsylllike-sketch)
 - [Lakshmi Kamalanjali Mandalika](https://github.com/Kamalanjali)
 - [Abin Madathil](https://github.com/abinmadathil)
 - [Prince Yadav](https://github.com/warrior-hub)
