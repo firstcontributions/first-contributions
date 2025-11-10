@@ -97,6 +97,7 @@
 - [Daniela Gallegos Dupuis](https://github.com/danigallegdup)
 - [Rohan Linga](http://github.com/R0hanL1nga)
 - [Lewin](https://github.com/lewinkoon)
+- [Adwaith Prasanth](https://github.com/adwaithprasanth)
 - [Huỳnh Quốc Đạt](https://github.com/HuynhQuocDat-04)
 - [Masanadurai](https://github.com/Masanadurai007)
 - [Đặng Hoàng Phúc](https://github.com/phuc220793-cpu)
