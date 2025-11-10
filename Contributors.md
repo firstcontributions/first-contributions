@@ -59,6 +59,7 @@
 - [Sherry](https://github.com/zsylllike-sketch)
 - [Lakshmi Kamalanjali Mandalika](https://github.com/Kamalanjali)
 - [Abin Madathil](https://github.com/abinmadathil)
+- [Omar Fayyaz](https://github.com/KangarooAlpha)
 - [Prince Yadav](https://github.com/warrior-hub)
 - [Savaj Drashti](https://github.com/SavajDrashti)
 - [Kyra (kyrazzx)](https://github.com/kyrazzx)
