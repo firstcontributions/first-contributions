@@ -2,6 +2,7 @@
 
 -[Omar Adel Youssif](https://github.com/OMar-Adelll)
 
+-Syed Arham
 - [Vaishnavi Suryawanshi](https://github.com/VaishnaviSW01)
 - [Omkar Nalgirkar]
 - [Yassine El Alami](https://github.com/ElAlamiY)
