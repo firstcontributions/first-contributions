@@ -29,6 +29,7 @@
 - [Srajan Gupta](https://github.com/srajang1805)
 - [Nirbhay Bawankule](https://github.com/NirbhayBawankule)
 - [Ronik Kumbhar](https://github.com/ronik62)
+- [Sergi AS](https://github.com/SASGit2025]
 - [Saad Rouyass](https://github.com/saadRouyass/)
 - [Ashutosh](https://github.com/Ashutosh9470)
 - [Marco Vargas](https://github.com/Marco180800)
