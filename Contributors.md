@@ -1108,3 +1108,4 @@
 - [Shmelev Valentin](https://github.com/ValyaSHmelev)
 - [Anees Ahmed](https://https://github.com/i-AneesAhmed)
 - [M. Umasree](https://www.linkedin.com/in/umasree-mandla-231862349)
+- [Vedant Mishra](https://www.linkedin.com/in/vedant-mishra-356164342)
