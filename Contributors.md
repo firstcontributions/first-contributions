@@ -1,7 +1,7 @@
 # Contributors
 
 -[Omar Adel Youssif](https://github.com/OMar-Adelll)
-
+-[Shaik Farooq](https://github.com/Farooq404)
 - [Vaishnavi Suryawanshi](https://github.com/VaishnaviSW01)
 - [Omkar Nalgirkar]
 - [Yassine El Alami](https://github.com/ElAlamiY)
