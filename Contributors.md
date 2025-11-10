@@ -488,6 +488,7 @@
 - [cpescato](https://github.com/cpescato)
 - [idrees](https://github.com/idrees2k22)
 - [JaeHye0k](https://github.com/JaeHye0k) -[vanixyz](https://github.com/vanixyz)
+- [korokua](https://github.com/therealryanhu)
 - [eesoyeon](https://github.com/eesoyeon)
 - [xlls666](https://github.com/xlls666)
 - [Olympus5](https://github.com/Olympus5)
