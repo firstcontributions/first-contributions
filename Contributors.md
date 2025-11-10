@@ -232,6 +232,7 @@
 - [Chandan Bhirud](https://github.com/chandanb778)
 - [Sanjeev Singh](https://github.com/sanjeev094)
 - [Daksh Gopani](https://github.com/dakshgopani)
+- [Ben C](https://github.com/bingobengo)
 - [Adithya Bollu](https://github.com/AdithyaBollu)
 - [Brian Amparo](https://github.com/BrianRLD)
 - [Kenguve Vikas](https://github.com/kenguvavikash)
