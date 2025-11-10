@@ -927,6 +927,7 @@
 - [Pranay Gurav](https://github.com/cwpranay)
 - [RAYYAN KHAN](https://github.com/rayyan4t4)
 - [LoP-1](https://github.com/LoP-1)
+- [OceanePez](https://github.com/OceanePez)
 - [Mariydi](https://github.com/mariydi)
 - [Aagam Parekh](https://github.com/aagparekh)
 - [Gregory Williams II](https://github.com/gwilli2)
