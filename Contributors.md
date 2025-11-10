@@ -1114,3 +1114,4 @@
 - [Vedant Mishra](https://www.linkedin.com/in/vedant-mishra-356164342)
 - [Anup Dubey](https://github.com/Anup1dubey)
 - [Abhrajit Debnath] (https://github.com/Abhrajit-debnath)
+- [Adam Hicks](https://github.com/adamhicksiris)
