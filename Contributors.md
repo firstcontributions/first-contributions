@@ -34,6 +34,7 @@
 - [Marco Vargas](https://github.com/Marco180800)
 - [Leonardo Garzon](https://github.com/Leonardo-Garzon-1995)
 - [technologic-technologic](https://github.com/technologic-technologic)
+- [Khizar Saqib](https://github.com/khizarkk7)
 - [Shubhanshu](https://github.com/shbhansh66)
 - [Sarvs](https://github.com/randoduck)
 - [Oliyad Zelalem](https://github.com/ozimmortal)
