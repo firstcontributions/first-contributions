@@ -448,6 +448,7 @@
 - [Nitish](https://github.com/NK2552003)
 - [Sakshi Singh](https://github.com/236sakshi)
 - [Elijah](https://github.com/Elijah647)
+- [Ishaan C](https://github.com/Ishaan-C)
 - [WHA](https://github.com/wynehtetaung)
 - [dinesh](https://github.com/dineshv97)
 - [Milo](https://github.com/soap-name)
