@@ -1,7 +1,7 @@
 # Contributors
 
 -[Omar Adel Youssif](https://github.com/OMar-Adelll)
-
+- [Jessica Pennell](https://github.com/jdpennell-acc2)
 - [Syed Arham]
 -[Edward Dume](https://github.com/edwarddume55)
 - [Vaishnavi Suryawanshi](https://github.com/VaishnaviSW01)
