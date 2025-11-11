@@ -371,6 +371,7 @@
 - [CaraMcG](https://github.com/caraMcG)
 - [SNN](https://github.com/sungenyeint)
 - [mrxc0de](https://github.com/mrxc0de)
+- [Cam](https://github.com/cameron-knowles)
 - [Hemant](https://github.com/l1emant/)
 - [AureDev](https://github.com/AureDev)
 - [Ramin Adineh](https://github.com/ramiadi)
