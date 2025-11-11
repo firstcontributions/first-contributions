@@ -1096,6 +1096,7 @@
 - [Daiwiik Harihar](https://github.com/daiv09)
 - [Rehaoulia](https://github.com/Rehaoulia)
 - [Daniel Oviedo](https://github.com/damo0615)
+- [Harsha Tembhare](https://github.com/Harsha-Tembhare)
 - [Danyal Ejaz](https://github.com/danyalejaz)
 - [Dev Gaonkar](https://github.com/DevGaonkar)
 - [Dev Goyal](https://github.com/DevGoyal9238)
