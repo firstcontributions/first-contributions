@@ -1055,6 +1055,7 @@
 - [Aditya Singh](https://github.com/adi318krmu)
 - [Akshay Kale](https://github.com/Dev-axay18)
 - [Alanto Manu](https://github.com/alantomanu)
+- [Dao Duy Tin](https://github.com/duytin095)
 - [Abdelrahman Elaraby](https://github.com/aelaraby6)
 - [Khaled Abdelrahman](https://github.com/khaleed2002)
 - [Ali Nasser](https://github.com/AliNasser05)
