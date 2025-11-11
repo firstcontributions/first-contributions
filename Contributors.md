@@ -1120,3 +1120,4 @@
 - [Abhrajit Debnath] (https://github.com/Abhrajit-debnath)
 - [Adam Hicks](https://github.com/adamhicksiris)
 - [tr0ublekat](https://github.com/tr0ublekat)
+- [Bill Lin](https://github.com/SeafoodproMax)
