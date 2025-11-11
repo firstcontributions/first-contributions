@@ -42,6 +42,7 @@
 - [Shubhanshu](https://github.com/shbhansh66)
 - [Muhammad Khan](https://github.com/MuhammadUKhan1)
 - [Sarvs](https://github.com/randoduck)
+- [Dhanush Shetty](https://github.com/dhanush-shetty1)
 - [Oliyad Zelalem](https://github.com/ozimmortal)
 - [Issa Issack](https://github.com/essaissa)
 - [Brayden Monthei](https://github.com/Brayden-Monthei)
