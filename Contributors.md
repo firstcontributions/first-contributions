@@ -49,6 +49,7 @@
 - [Oliyad Zelalem](https://github.com/ozimmortal)
 - [Issa Issack](https://github.com/essaissa)
 - [Brayden Monthei](https://github.com/Brayden-Monthei)
+- [nukai0](https://github.com/nukai0)
 - [Afsheen Nadaf](https://github.com/afsheen-nadaf)
 - [Daniel Li](https://github.com/FallingSky65)
 - [Andrew Park](https://github.com/AndePark)
