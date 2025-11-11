@@ -330,6 +330,7 @@
 - [Hushh](https://github.com/hushh-h)
 - [MACantara](https://github.com/MACantara)
 - [Aman Bangera](https://github.com/amanbangeraa)
+- [Pedro Tomáz](https://github.com/pdrotmz)
 - [jorsyk](https://github.com/jorsyk)
 - [lukgav](https://github.com/lukgav)
 - [AlexKos](https://github.com/lukgav)
