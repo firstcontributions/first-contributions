@@ -2,7 +2,7 @@
 
 -[Omar Adel Youssif](https://github.com/OMar-Adelll)
 
--Syed Arham
+- [Syed Arham]
 - [Vaishnavi Suryawanshi](https://github.com/VaishnaviSW01)
 - [Omkar Nalgirkar]
 - [Yassine El Alami](https://github.com/ElAlamiY)
@@ -27,6 +27,7 @@
 - [Omm Satyakam](https://github.com/p-retrover)
 - [Gabriel Maccari](https://github.com/gabrielmaccari)
 - [Vishakha Singh](https://github.com/Vishakha7-Kumari)
+- [Katharina Ludwig] (https://github.com/katharina-ludwig-02)
 - [Srajan Gupta](https://github.com/srajang1805)
 - [Nirbhay Bawankule](https://github.com/NirbhayBawankule)
 - [Ronik Kumbhar](https://github.com/ronik62)
