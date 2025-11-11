@@ -114,7 +114,7 @@
 - [Đặng Hoàng Phúc](https://github.com/phuc220793-cpu)
 - [gokulkrishnan](https://github.com/gokul000410)
 - [Chien Minh](https://github.com/chien226674-afk)
-- [nukai0]
+- [nukai0](https://github.com/nukai0)
 - [Tudor Caseru](https://github.com/theoriginaltudor)
 - [Andre Bimbatti](https://github.com/andrebimbatti)
 - [Hrishikesh Rondla](https://github.com/Hrishikesh-Rondla)
