@@ -1165,4 +1165,6 @@
 - [Anmol Srivastava](https://github.com/anmolsri977/first-contributions)
 - [Devashish Gupta](https://github.com/sudo-verse)
 - [Akshat Mishra](https://github.com/Bixquix)
+- [Harsh Pandey](https://github.com/Harshhhp)
 - [Gaurav Singh](https://github.com/gauravsingh8026)
+
