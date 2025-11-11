@@ -21,7 +21,9 @@
 - [Jesús Martín](https://github.com/jesmarver)
 - [Gourav soni](https://github.com/mrgaurav81)
 - [charitha-369](https://github.com/charitha-369)
-- [Michael Wright](https://github.com/lumberjackwizard)
+- [Michael Wright](https://github.com/
+-Valentina fuentes, besitos jeje:3
+lumberjackwizard)
 - [Viraj Hudlikar](https://github.com/vhudlikar)
 - [Kishita Deotale](https://github.com/kishitadeotale24)
 - [Vinay Kumar](https://github.com/Pixeder)
