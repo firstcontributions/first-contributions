@@ -28,6 +28,7 @@
 - [Vinay Kumar](https://github.com/Pixeder)
 - [Muhammad Raza](https://github.com/RazaJavaid2004)
 - [vyshnavi raj](https://github.com/vyshnaviraj)
+- [Gilbert John](https://github.com/gilbert-maker)
 - [Omm Satyakam](https://github.com/p-retrover)
 - [Gabriel Maccari](https://github.com/gabrielmaccari)
 - [Vishakha Singh](https://github.com/Vishakha7-Kumari)
