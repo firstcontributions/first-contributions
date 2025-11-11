@@ -1137,9 +1137,11 @@
 - [Abhrajit Debnath] (https://github.com/Abhrajit-debnath)
 - [Adam Hicks](https://github.com/adamhicksiris)
 - [tr0ublekat](https://github.com/tr0ublekat)
+- [Bill Lin](https://github.com/SeafoodproMax)
 - [Ankit Kumar Singh](https://github.com/Ankitsgh1234)
 - [hanchyan](https://github.com/hanchyan)
 - [mohnish](https://github.com/Mohnish27-dev)
 - [sathvikkv](https://github.com/sathvikkv556)
 - [on3ss](https://github.com/on3ss)
 - [Harshika Matharia](https://github.com/Harshika1214)
+
