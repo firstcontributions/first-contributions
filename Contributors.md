@@ -6,6 +6,7 @@
 -[Edward Dume](https://github.com/edwarddume55)
 - [Vaishnavi Suryawanshi](https://github.com/VaishnaviSW01)
 - [Augustine Chiu](https://github.com/achiu283)
+- [Auditore2022](https://github.com/Auditore2022)
 - [Omkar Nalgirkar]
 - [Yassine El Alami](https://github.com/ElAlamiY)
 - [Kotyara5243](https://github.com/Kotyara5243)
