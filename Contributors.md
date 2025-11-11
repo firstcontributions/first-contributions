@@ -12,6 +12,7 @@
 - [Anandajith S](https://github.com/AnandajithS)
 - [Christian Gongora](https://github.com/ChristianGongoraDeMoraes)
 - [Dhayanithi s r](https://github.com/its-dhaya)
+- [Nivedita CS](https://github.com/niveditacs03)
 - [Raja Rathour](https://github.com/Raja-89)
 - [Claire Haynes](https://github.com/ClaireHaynes700)
 - [Tommy Brill](https://github.com/neutronpmp)
