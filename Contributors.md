@@ -34,6 +34,7 @@
 - [Nirbhay Bawankule](https://github.com/NirbhayBawankule)
 - [Ronik Kumbhar](https://github.com/ronik62)
 - [Sergi AS](https://github.com/SASGit2025]
+- [Joy Natalie](https://github.com/joynatalie1/)
 - [Saad Rouyass](https://github.com/saadRouyass/)
 - [Ashutosh](https://github.com/Ashutosh9470)
 - [Marco Vargas](https://github.com/Marco180800)
