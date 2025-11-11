@@ -4,6 +4,7 @@
 
 - [Syed Arham]
 - [Vaishnavi Suryawanshi](https://github.com/VaishnaviSW01)
+- [Augustine Chiu](https://github.com/achiu283)
 - [Omkar Nalgirkar]
 - [Yassine El Alami](https://github.com/ElAlamiY)
 - [Kotyara5243](https://github.com/Kotyara5243)
