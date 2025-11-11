@@ -87,5 +87,5 @@ git push origin feature/my-feature
 - Enforce passing tests
 - Use CODEOWNERS for expertise areas
 - Start lenient, tighten as needed
-- Document bypass procedures for emergencies
+- Document bypass procedures for emergencies.
 
