@@ -78,6 +78,7 @@
 - [Shahid Afrid](https://github.com/shahid-afrid)
 - [Kanishka Vats](https://github.com/KanishkaV25)
 - [Shanmukh sai karnam](https://github.com/karnam16)
+- [Aditya Karan](https://github.com/Karan2805-glitch)
 [sanjana kamat](https://github.com/SA123nJaNa1234)
 - [Hassan Najam](https://github.com/Hassan5117)
 - [Abdelkader Charef Eddine Djellil (djacbi)](https://github.com/AbdelkaderCE/)
