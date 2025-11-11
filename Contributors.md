@@ -44,6 +44,7 @@
 - [Leonardo Garzon](https://github.com/Leonardo-Garzon-1995)
 - [technologic-technologic](https://github.com/technologic-technologic)
 - [Khizar Saqib](https://github.com/khizarkk7)
+- [Ezra K](https://github.com/EzraKL)
 - [Shubhanshu](https://github.com/shbhansh66)
 - [Muhammad Khan](https://github.com/MuhammadUKhan1)
 - [Sarvs](https://github.com/randoduck)
