@@ -38,6 +38,7 @@
 - [technologic-technologic](https://github.com/technologic-technologic)
 - [Khizar Saqib](https://github.com/khizarkk7)
 - [Shubhanshu](https://github.com/shbhansh66)
+- [Muhammad Khan](https://github.com/MuhammadUKhan1)
 - [Sarvs](https://github.com/randoduck)
 - [Oliyad Zelalem](https://github.com/ozimmortal)
 - [Issa Issack](https://github.com/essaissa)
