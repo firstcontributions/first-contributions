@@ -38,6 +38,7 @@
 - [Srajan Gupta](https://github.com/srajang1805)
 - [Nirbhay Bawankule](https://github.com/NirbhayBawankule)
 - [Ronik Kumbhar](https://github.com/ronik62)
+- [Daniel CL](https://github.com/danielcl01)
 - [Sergi AS](https://github.com/SASGit2025]
 - [Joy Natalie](https://github.com/joynatalie1/)
 - [Saad Rouyass](https://github.com/saadRouyass/)
