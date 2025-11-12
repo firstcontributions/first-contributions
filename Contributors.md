@@ -331,6 +331,7 @@
 - [Aiman](https://github.com/PX201)
 - [I-Bex](https://github.com/i-Bex)
 - [Dylan Wadsworth](https://github.com/DiskoTecha)
+- [Gabriel Augusto](https://github.com/gabrielaugusto23)
 - [levo](https://github.com/LeVo011)
 - [Mr0Miner](https://github.com/Mr0Miner)
 - [kazuma](https://github.com/Mio-3)
