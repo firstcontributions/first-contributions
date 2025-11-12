@@ -703,7 +703,7 @@
 - [ejoopasco](https://github.com/ejoopasco)
 - [Steven Joy](https://github.com/Stevenjoy90115)
 - [elijah](https://github.com/elijahladdie)
-- your username
+- [ggonzalezdal](https://github.com/ggonzalezdal)
 - your username
 - [Gotchumon](https://github.com/Gotchumon)
 - [enguy-hub](https://github.com/enguy-hub)
@@ -1204,11 +1204,11 @@
   Yashwanth
 - [Pramod Dhungana](https://github.com/dhunganapramod9)
 - [Ryan Kimutai](https://github.com/Ryank-80) -[Aloysius Owili](https://github.com/360koalabear) -[Shahryar Sohail](https://github.com/shahryar-sohail) -[Udhaya parameshwaran](https://github.com/UdhayaParameshwaran-ai) -[Emma Yu](https://github.com/jjy88)
-Yashwanth
+- Yashwanth
 - [Ryan Kimutai](https://github.com/Ryank-80)
--[Aloysius Owili](https://github.com/360koalabear)
--[Shahryar Sohail](https://github.com/shahryar-sohail)
--[Udhaya parameshwaran](https://github.com/UdhayaParameshwaran-ai)
--[Emma Yu](https://github.com/jjy88)
--[İbrahim Işıklı](https://github.com/ibrahim-isikli)
-Jim Martin
+- [Aloysius Owili](https://github.com/360koalabear)
+- [Shahryar Sohail](https://github.com/shahryar-sohail)
+- [Udhaya parameshwaran](https://github.com/UdhayaParameshwaran-ai)
+- [Emma Yu](https://github.com/jjy88)
+- [İbrahim Işıklı](https://github.com/ibrahim-isikli)
+- Jim Martin
