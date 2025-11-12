@@ -1,5 +1,6 @@
 # Contributors
 
+- [NIKHIL GAJULA](https://github.com/nikhil07g)
 -[Omar Adel Youssif](https://github.com/OMar-Adelll)
 
 - [Syed Arham]
