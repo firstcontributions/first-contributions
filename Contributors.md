@@ -4,6 +4,8 @@
 
 -[Omar Adel Youssif](https://github.com/OMar-Adelll)
 
+-[CJY](https://github.com/CJY657)
+
 - [Syed Arham] -[Edward Dume](https://github.com/edwarddume55)
 - [Vaishnavi Suryawanshi](https://github.com/VaishnaviSW01)
 - [Brandon Busacker](https://github.com/bwbusacker)
