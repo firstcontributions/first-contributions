@@ -8,7 +8,7 @@
 
 Leggere articoli e guardare tutorial può essere utile, ma cosa c'è di meglio che provare a fare effettivamente le cose sul campo? Questo progetto punta ad essere una guida per i meno esperti. Ricorda: più sei rilassato, meglio imparerai. Se vuoi contribuire per la prima volta, segui i semplici passi elencati qui sotto. Ti promettiamo che sarà divertente.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fai il fork di questa repository" />
 
 Se non hai git sul tuo computer, [installalo]( https://help.github.com/articles/set-up-git/).
 
@@ -19,7 +19,7 @@ Questo creerà una copia di questa repository nel tuo account.
 
 ## Scarica la repository
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clona questa repository" />
 
 Ora scarica (*clone*) questa repo nel tuo computer. Clicca sul pulsante per scaricare e poi copia l'url.
 
@@ -31,7 +31,7 @@ git clone "url appena copiato"
 
 dove "url appena copiato" (senza le virgolette) è l'url di questa repository. Leggi i passaggi precedenti per ottenere l'url.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copia l'URL negli appunti" />
 
 Per esempio:
 
@@ -94,11 +94,11 @@ sostituendo `<aggiungi-il-tuo-nome>` con il nome del branch creato prima.
 
 Se vai nella tua repository su GitHub, vedrai il pusante  `Compare & pull request`.  Cliccalo.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="crea una pull request" />
 
 Ora invia la pull request.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="invia la pull request" />
 
 Presto avrò incorporato (*merge*) tutti i tuoi cambiamenti nel master branch di questo progetto. Ti arriverà una mail di notifica una volta che le modifiche saranno state accettate.
 
