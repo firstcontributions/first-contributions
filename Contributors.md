@@ -1,9 +1,10 @@
 # Contributors
 
+-[CJY657](https://github.com/CJY657)
+
 -[Omar Adel Youssif](https://github.com/OMar-Adelll)
 
-- [Syed Arham]
--[Edward Dume](https://github.com/edwarddume55)
+- [Syed Arham] -[Edward Dume](https://github.com/edwarddume55)
 - [Vaishnavi Suryawanshi](https://github.com/VaishnaviSW01)
 - [Brandon Busacker](https://github.com/bwbusacker)
 - [Augustine Chiu](https://github.com/achiu283)
@@ -84,7 +85,7 @@
 - [Kanishka Vats](https://github.com/KanishkaV25)
 - [Shanmukh sai karnam](https://github.com/karnam16)
 - [Aditya Karan](https://github.com/Karan2805-glitch)
-[sanjana kamat](https://github.com/SA123nJaNa1234)
+  [sanjana kamat](https://github.com/SA123nJaNa1234)
 - [Hassan Najam](https://github.com/Hassan5117)
 - [Abdelkader Charef Eddine Djellil (djacbi)](https://github.com/AbdelkaderCE/)
 - [Vaibhav Bakliwal](https://github.com/bakliwalvaibhav1)
@@ -637,7 +638,7 @@
 - [Erpipemio](https://github.com/Erpipemio)
 - [Ryan Gapp](https://github.com/ryan-gapp)
 - [S.Yukiko](https://github.com/yuki-git-9)
-[Timi-liang](https://github.com/Timi-liang)
+  [Timi-liang](https://github.com/Timi-liang)
 - [STA](https://github.com/sithuaung246810)
 - [Sam Kim](https://github.com/samuelkim28)
 - [Sanal Kumar](https://github.com/sanalkr)
@@ -1162,8 +1163,7 @@
 - [on3ss](https://github.com/on3ss)
 - [jiakeboge](https://github.com/jiakeboge)
 - [LoongSir-ME](https://github.com/LoongSir-ME)
-- [Apoorva](https://github.com/ApoorvaCodes)
--[jeevita](https://github.com/Jeevita898)
+- [Apoorva](https://github.com/ApoorvaCodes) -[jeevita](https://github.com/Jeevita898)
 - [Dayananda](https://github.com/PROFFARO)
 - [Anmol Srivastava](https://github.com/anmolsri977/first-contributions)
 - [Devashish Gupta](https://github.com/sudo-verse)
