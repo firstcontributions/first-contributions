@@ -1,6 +1,8 @@
 # Contributors
 
+- [NIKHIL GAJULA](https://github.com/nikhil07g)
 -[Omar Adel Youssif](https://github.com/OMar-Adelll)
+- [Dheeraj Kumar](https://github.com/Dheeraj-Kumar-8)
 
 - [Syed Arham]
 -[Edward Dume](https://github.com/edwarddume55)
@@ -248,6 +250,7 @@
 - [KamalKant](https://github.com/kamal2730)
 - [Kjohnbaba](https://github.com/kjohnbaba)
 - [Krish Yadav](https://github.com/Ky-1106)
+- [Brentley Dorsainvil] (https://github.com/JussBrent)
 - [Kapil Kumar](https://github.com/kapilkumar05991)
 - [Krrishray](https://github.com/krrishray)
 - [Kyle Boo](https://github.com/bookang869)
@@ -1172,3 +1175,4 @@
 - [Gaurav Dhapola](https://github.com/Gaurav2327)
 - [Deepak Kotha](https://github.com/DeepakReddy215)
 -[Rotich Emas Kibet](https://github.com/Lance6328)
+- [Varshith Varma](https://github.com/varshith-uppalapati)
