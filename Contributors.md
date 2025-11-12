@@ -17,6 +17,7 @@
 - [Omkar Nalgirkar]
 - [Yassine El Alami](https://github.com/ElAlamiY)
 - [Jeevika R](https://github.com/jeevikar14)
+- [Raghu Meka](https://github.com/RBMeka)
 - [Jeevika R]
 - [Kotyara5243](https://github.com/Kotyara5243)
 - [deepak mishra](https://github.com/BEPAWSITIVE)
@@ -24,6 +25,7 @@
 - [Anandajith S](https://github.com/AnandajithS)
 - [Gajji Chandu Yadav](https://github.com/AnandajithS)
 - [Christian Gongora](https://github.com/ChristianGongoraDeMoraes)
+- [Raghu]
 - [Dhayanithi s r](https://github.com/its-dhaya)
 - [Nivedita CS](https://github.com/niveditacs03)
 - [Raja Rathour](https://github.com/Raja-89)
