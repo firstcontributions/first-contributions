@@ -1,14 +1,14 @@
--[Pravien Powel](https://github.com/PravienPowel)
-  -[Siddharth Pandey](https://github.com/siddharthpandey2211) 
-  -[Pravien Powel](https://github.com/PravienPowel)
-
-- [NIKHIL GAJULA](https://github.com/nikhil07g) -[Omar Adel Youssif](https://github.com/OMar-Adelll)
+# Contributors
+- [Siddharth Pandey](https://github.com/siddharthpandey2211) 
+- [Pravien Powel](https://github.com/PravienPowel)
+- [NIKHIL GAJULA](https://github.com/nikhil07g)
+- [Omar Adel Youssif](https://github.com/OMar-Adelll)
 - [Dheeraj Kumar](https://github.com/Dheeraj-Kumar-8)
 
 - [Syed Arham] -[Edward Dume](https://github.com/edwarddume55)
 - [Andrés Peña del Río](https://github.com/apenade)
 - [Syed Arham]
--[Edward Dume](https://github.com/edwarddume55)
+- [Edward Dume](https://github.com/edwarddume55)
 - [Vaishnavi Suryawanshi](https://github.com/VaishnaviSW01)
 - [Brandon Busacker](https://github.com/bwbusacker)
 - [Augustine Chiu](https://github.com/achiu283)
@@ -36,8 +36,8 @@
 - [Gourav soni](https://github.com/mrgaurav81)
 - [charitha-369](https://github.com/charitha-369)
 - [Michael Wright](https://github.com/
-  -Valentina fuentes, besitos jeje:3
-  lumberjackwizard)
+- Valentina fuentes, besitos jeje:3
+- lumberjackwizard)
 - [Viraj Hudlikar](https://github.com/vhudlikar)
 - [Kishita Deotale](https://github.com/kishitadeotale24)
 - [Rhythm Patel](https://github.com/RhythmP619)
@@ -102,7 +102,7 @@
 - [Kanishka Vats](https://github.com/KanishkaV25)
 - [Shanmukh sai karnam](https://github.com/karnam16)
 - [Aditya Karan](https://github.com/Karan2805-glitch)
-  [sanjana kamat](https://github.com/SA123nJaNa1234)
+- [sanjana kamat](https://github.com/SA123nJaNa1234)
 - [Hassan Najam](https://github.com/Hassan5117)
 - [Abdelkader Charef Eddine Djellil (djacbi)](https://github.com/AbdelkaderCE/)
 - [Vaibhav Bakliwal](https://github.com/bakliwalvaibhav1)
