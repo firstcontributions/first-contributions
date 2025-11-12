@@ -98,5 +98,5 @@ Sieh dir die Projektliste in der Web-App an
 
 Zusätzliches Material
 Tutorials mit anderen Tools
-Zurück zur Hauptseite
+[Zurück zur Hauptseite](https://github.com/firstcontributions/first-contributions#tutorials-using-other-tools)
 
