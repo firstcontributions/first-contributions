@@ -7,6 +7,7 @@
 - [Dheeraj Kumar](https://github.com/Dheeraj-Kumar-8)
 - [Syed Arham] -[Edward Dume](https://github.com/edwarddume55)
 - [Andrés Peña del Río](https://github.com/apenade)
+  [Julian Cumps](https://github.com/juliancumps)
 - [Syed Arham]
 - [Edward Dume](https://github.com/edwarddume55)
 - [Vaishnavi Suryawanshi](https://github.com/VaishnaviSW01)
