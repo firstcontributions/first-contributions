@@ -74,6 +74,7 @@
 - [Sahil Gurjar](https://github.com/SG2407)
 - [Vardhan](https://github.com/Chintha-vardhan)
 - [Shubham Prasad](https://github.com/prsdx)
+- [Praneet] (https://github.com/arkp1)
 - [Luis](https://github.com/manahore)
 - [Raksha S](https://github.com/Raksha2803)
 - [Sherry](https://github.com/zsylllike-sketch)
