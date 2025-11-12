@@ -1,9 +1,14 @@
 -[Pravien Powel](https://github.com/PravienPowel)
+  -[Siddharth Pandey](https://github.com/siddharthpandey2211) 
+  -[Pravien Powel](https://github.com/PravienPowel)
 
 - [NIKHIL GAJULA](https://github.com/nikhil07g) -[Omar Adel Youssif](https://github.com/OMar-Adelll)
 - [Dheeraj Kumar](https://github.com/Dheeraj-Kumar-8)
 
 - [Syed Arham] -[Edward Dume](https://github.com/edwarddume55)
+- [Andrés Peña del Río](https://github.com/apenade)
+- [Syed Arham]
+-[Edward Dume](https://github.com/edwarddume55)
 - [Vaishnavi Suryawanshi](https://github.com/VaishnaviSW01)
 - [Brandon Busacker](https://github.com/bwbusacker)
 - [Augustine Chiu](https://github.com/achiu283)
@@ -17,6 +22,7 @@
 - [deepak mishra](https://github.com/BEPAWSITIVE)
 - [Caleb Fan](https://github.com/Gazfang)
 - [Anandajith S](https://github.com/AnandajithS)
+- [Gajji Chandu Yadav](https://github.com/AnandajithS)
 - [Christian Gongora](https://github.com/ChristianGongoraDeMoraes)
 - [Dhayanithi s r](https://github.com/its-dhaya)
 - [Nivedita CS](https://github.com/niveditacs03)
@@ -546,6 +552,7 @@
 - [Isaachbt](https://github.com/Isaachbt)
 - [AlteUnke](https://github.com/AlteUnke)
 - [Bird Dog](https://github.com/acuhlian)
+- [allanm](https://github.com)
 - [Michael B.](https://github.com/mbyrd3)
 - [vedivero](https://github.com/vedivero)
 - [DhritiTS](https://github.com/DhritiTS)
@@ -1193,3 +1200,10 @@
 - [Omkar Gurav](https://github.com/OmkarGurav1)
   Yashwanth
 - [Ryan Kimutai](https://github.com/Ryank-80) -[Aloysius Owili](https://github.com/360koalabear) -[Shahryar Sohail](https://github.com/shahryar-sohail) -[Udhaya parameshwaran](https://github.com/UdhayaParameshwaran-ai) -[Emma Yu](https://github.com/jjy88)
+Yashwanth
+- [Ryan Kimutai](https://github.com/Ryank-80)
+-[Aloysius Owili](https://github.com/360koalabear)
+-[Shahryar Sohail](https://github.com/shahryar-sohail)
+-[Udhaya parameshwaran](https://github.com/UdhayaParameshwaran-ai)
+-[Emma Yu](https://github.com/jjy88)
+Jim Martin
