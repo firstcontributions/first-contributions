@@ -1,4 +1,4 @@
-﻿[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+﻿<!-- [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) -->
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -24,7 +24,7 @@
 
 Ανοίξτε ένα παράθυρο τερματικού και τρέξτε την ακόλουθη git εντολή:
 
-```
+```bash
 git clone "σύνδεσμος που μόλις αντιγράψατε"
 ```
 
@@ -34,7 +34,7 @@ git clone "σύνδεσμος που μόλις αντιγράψατε"
 
 Για παράδειγμα:
 
-```
+```bash
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 
@@ -44,19 +44,19 @@ git clone https://github.com/this-is-you/first-contributions.git
 
 Πηγαίνετε στο φάκελο του αποθετηρίου στον υπολογιστή σας εάν δεν είστε ήδη εκεί.
 
-```
+```bash
 cd first-contributions
 ```
 
 Τώρα δημιουργήστε ένα νέο παρακλάδι χρησιμοποιώντας την εντολή `git switch` :
 
-```
+```bash
 git switch -c your-new-branch-name
 ```
 
 Για παράδειγμα:
 
-```
+```bash
 git switch -c add-alonzo-church
 ```
 
@@ -68,13 +68,13 @@ git switch -c add-alonzo-church
 
 Σε αυτήν την περίπτωση προσθέστε την παρακάτω σειρά στο τέλος του αρχείου `Contributors.md:` 
 
-```
+```bash
 - [Το-όνομα-σας](https://github.com/Your-username)
 ```
 
 Για παράδειγμα:
 
-```
+```bash
 - [John Doe](https://github.com/johndoe)
 ```
 
@@ -84,13 +84,13 @@ git switch -c add-alonzo-church
 
 Εάν πάτε στο φάκελο του αποθετηρίου και γράψετε την εντολή `git status`, θα δείτε ότι υπάρχουν κάποιες αλλαγές. Προσθέστε αυτές τις αλλαγές χρησιμοποιώντας την εντολή `git add`.
 
-```
+```bash
 git add Contributors.md
 ```
 
 Τώρα σώστε αυτές τις αλλαγές χρησιμοποιώντας την παρακάτω `git commit` εντολή.
 
-```
+```bash
 git commit -m "Add <your-name> to Contributors list"
 ```
 
@@ -100,7 +100,7 @@ git commit -m "Add <your-name> to Contributors list"
 
 Αποθηκεύστε τις αλλαγές σας χρησιμοποιώντας την εντολή `git push`
 
-```
+```bash
 git push origin <add-your-name>
 ```
 
