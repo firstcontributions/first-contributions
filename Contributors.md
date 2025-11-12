@@ -1,5 +1,6 @@
 # Contributors
 - [Aswanth KT](https://github.com/aswanth-kt)
+- [B Pasha](https://github.com/baasilpasha)
 - [Siddharth Pandey](https://github.com/siddharthpandey2211) 
 - [Pravien Powel](https://github.com/PravienPowel)
 - [NIKHIL GAJULA](https://github.com/nikhil07g)
@@ -7,6 +8,7 @@
 - [Dheeraj Kumar](https://github.com/Dheeraj-Kumar-8)
 - [Syed Arham] -[Edward Dume](https://github.com/edwarddume55)
 - [Andrés Peña del Río](https://github.com/apenade)
+  [Julian Cumps](https://github.com/juliancumps)
 - [Syed Arham]
 - [Edward Dume](https://github.com/edwarddume55)
 - [Vaishnavi Suryawanshi](https://github.com/VaishnaviSW01)
@@ -329,6 +331,7 @@
 - [Aiman](https://github.com/PX201)
 - [I-Bex](https://github.com/i-Bex)
 - [Dylan Wadsworth](https://github.com/DiskoTecha)
+- [Gabriel Augusto](https://github.com/gabrielaugusto23)
 - [levo](https://github.com/LeVo011)
 - [Mr0Miner](https://github.com/Mr0Miner)
 - [kazuma](https://github.com/Mio-3)
@@ -1029,6 +1032,7 @@
 - [V-Sharanya](https://github.com/V-Sharanya)
 - [Venkatesan M](https://github.com/venkyslm)
 - [Vernwalker](https://github.com/Vernwalker)
+- [Andrei Filip](https://github.com/Andrei-Stefan-Filip)
 - [Vishal Manik](https://github.com/vmanik2k)
 - [VizzScript](https://github.com/vizzscript)
 - [Henok Dawite](https://github.com/HenokDawite)
@@ -1186,6 +1190,7 @@
 - [Abhrajit Debnath] (https://github.com/Abhrajit-debnath)
 - [Adam Hicks](https://github.com/adamhicksiris)
 - [tr0ublekat](https://github.com/tr0ublekat)
+- [Ohad-Ma](https://github.com/Ohad-Ma)
 - [Bill Lin](https://github.com/SeafoodproMax)
 - [Ankit Kumar Singh](https://github.com/Ankitsgh1234)
 - [hanchyan](https://github.com/hanchyan)
@@ -1217,5 +1222,5 @@
 - [İbrahim Işıklı](https://github.com/ibrahim-isikli)
 - Jim Martin
 - [xRookieFight](https://github.com/xRookieFight)
+- [Lexi] (https://github.com/allekzia)
 - [Diti] (https://github.com/diti0-dot)
-- [asrar-mared](https://github.com/asrar-mared)
