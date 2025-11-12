@@ -541,6 +541,7 @@
 - [Isaachbt](https://github.com/Isaachbt)
 - [AlteUnke](https://github.com/AlteUnke)
 - [Bird Dog](https://github.com/acuhlian)
+- [allanm](https://github.com)
 - [Michael B.](https://github.com/mbyrd3)
 - [vedivero](https://github.com/vedivero)
 - [DhritiTS](https://github.com/DhritiTS)
