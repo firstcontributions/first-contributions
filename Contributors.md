@@ -1029,6 +1029,7 @@
 - [V-Sharanya](https://github.com/V-Sharanya)
 - [Venkatesan M](https://github.com/venkyslm)
 - [Vernwalker](https://github.com/Vernwalker)
+- [Andrei Filip](https://github.com/Andrei-Stefan-Filip)
 - [Vishal Manik](https://github.com/vmanik2k)
 - [VizzScript](https://github.com/vizzscript)
 - [Henok Dawite](https://github.com/HenokDawite)
