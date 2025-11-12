@@ -88,7 +88,7 @@
 <kbd>[<img title="Mongolian" alt="Mongolian" src="https://cdn.statically.io/flags/mn.svg" width="22">](docs/translations/README.mn.md)</kbd>
 <kbd>[<img title="Tounsi" alt="Tounsi" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/tn.svg" width="22">](docs/translations/README.tn.md)</kbd>
 <kbd>[<img title="Lingala" alt="Lingala" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/cd.svg" width="22">](docs/translations/README.ln.md)</kbd>
-<kbd>[<img title="Québécois (Français)" alt="Québécois" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Flag_of_Quebec.svg/320px-Flag_of_Quebec.svg.png" width="22">](docs/cli-tool-tutorials/translations/github-cli-tutorials-quebecois.md)</kbd>
+<kbd>[<img title="Québécois (Français)" alt="Québécois" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Flag_of_Quebec.svg/320px-Flag_of_Quebec.svg.png" width="22">](docs/translations/README.qc.md)</kbd>
 
 # First Contributions
 
