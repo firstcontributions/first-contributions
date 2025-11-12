@@ -1186,6 +1186,7 @@
 - [mohnish](https://github.com/Mohnish27-dev)
 - [sathvikkv](https://github.com/sathvikkv556)
 - [on3ss](https://github.com/on3ss)
+- [Kamakshi](https://github.com/kamakshipal1-tech)
 - [jiakeboge](https://github.com/jiakeboge)
 - [LoongSir-ME](https://github.com/LoongSir-ME)
 - [Apoorva](https://github.com/ApoorvaCodes) -[jeevita](https://github.com/Jeevita898)
