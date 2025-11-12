@@ -1,6 +1,6 @@
 # Contributors
-
-- [Siddharth Pandey](https://github.com/siddharthpandey2211)
+- [Aswanth KT](https://github.com/aswanth-kt)
+- [Siddharth Pandey](https://github.com/siddharthpandey2211) 
 - [Pravien Powel](https://github.com/PravienPowel)
 - [NIKHIL GAJULA](https://github.com/nikhil07g)
 - [Omar Adel Youssif](https://github.com/OMar-Adelll)
@@ -31,6 +31,7 @@
 - [Claire Haynes](https://github.com/ClaireHaynes700)
 - [Prarthana D](https://github.com/prarthana711)
 - [Tommy Brill](https://github.com/neutronpmp)
+- [Arpit Baghla](https://github.com/arpitbaghla)
 - [Thato M](https://github.com/aLearningLad)
 - [Vito Bondanese](https://github.com/VBVB99)
 - [Jesús Martín](https://github.com/jesmarver)
@@ -1187,6 +1188,7 @@
 - [mohnish](https://github.com/Mohnish27-dev)
 - [sathvikkv](https://github.com/sathvikkv556)
 - [on3ss](https://github.com/on3ss)
+- [Kamakshi](https://github.com/kamakshipal1-tech)
 - [jiakeboge](https://github.com/jiakeboge)
 - [LoongSir-ME](https://github.com/LoongSir-ME)
 - [Apoorva](https://github.com/ApoorvaCodes) -[jeevita](https://github.com/Jeevita898)
