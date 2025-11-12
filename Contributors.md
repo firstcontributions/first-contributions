@@ -1215,3 +1215,4 @@
 - [Emma Yu](https://github.com/jjy88)
 - [İbrahim Işıklı](https://github.com/ibrahim-isikli)
 - Jim Martin
+- [xRookieFight](https://github.com/xRookieFight)
