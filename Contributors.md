@@ -1,9 +1,10 @@
+- [Siddharth Pandey]              (https://github.com/Siddharthpandey2211) 
   -[Pravien Powel](https://github.com/PravienPowel)
 
 - [NIKHIL GAJULA](https://github.com/nikhil07g)
 -[Omar Adel Youssif](https://github.com/OMar-Adelll)
 - [Dheeraj Kumar](https://github.com/Dheeraj-Kumar-8)
-- [Andrés Peña del Río](https://github.com/apenade)
+
 - [Syed Arham]
 -[Edward Dume](https://github.com/edwarddume55)
 - [Vaishnavi Suryawanshi](https://github.com/VaishnaviSW01)
@@ -13,13 +14,10 @@
 - [Peter Ellis](https://github.com/pcellis)
 - [Omkar Nalgirkar]
 - [Yassine El Alami](https://github.com/ElAlamiY)
-- [Jeevika R](https://github.com/jeevikar14)
-- [Jeevika R]
 - [Kotyara5243](https://github.com/Kotyara5243)
 - [deepak mishra](https://github.com/BEPAWSITIVE)
 - [Caleb Fan](https://github.com/Gazfang)
 - [Anandajith S](https://github.com/AnandajithS)
-- [Gajji Chandu Yadav](https://github.com/AnandajithS)
 - [Christian Gongora](https://github.com/ChristianGongoraDeMoraes)
 - [Dhayanithi s r](https://github.com/its-dhaya)
 - [Nivedita CS](https://github.com/niveditacs03)
@@ -45,13 +43,12 @@ lumberjackwizard)
 - [Omm Satyakam](https://github.com/p-retrover)
 - [Gabriel Maccari](https://github.com/gabrielmaccari)
 - [Vishakha Singh](https://github.com/Vishakha7-Kumari)
-- [Katharina Ludwig](https://github.com/katharina-ludwig-02)
+- [Katharina Ludwig] (https://github.com/katharina-ludwig-02)
 - [Srajan Gupta](https://github.com/srajang1805)
 - [Nirbhay Bawankule](https://github.com/NirbhayBawankule)
 - [Ronik Kumbhar](https://github.com/ronik62)
-- [Brandon B Bolivar](https://github.com/AvoBolivar)
 - [Daniel CL](https://github.com/danielcl01)
-- [Sergi AS](https://github.com/SASGit2025)
+- [Sergi AS](https://github.com/SASGit2025]
 - [Joy Natalie](https://github.com/joynatalie1/)
 - [Saad Rouyass](https://github.com/saadRouyass/)
 - [Ashutosh](https://github.com/Ashutosh9470)
