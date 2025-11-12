@@ -55,6 +55,7 @@
 - [Shubhanshu](https://github.com/shbhansh66)
 - [Muhammad Khan](https://github.com/MuhammadUKhan1)
 - [Sarvs](https://github.com/randoduck)
+- [Prasiddhi](https://github.com/Prasiddhi26)
 - [Dhanush Shetty](https://github.com/dhanush-shetty1)
 - [Oliyad Zelalem](https://github.com/ozimmortal)
 - [Issa Issack](https://github.com/essaissa)
