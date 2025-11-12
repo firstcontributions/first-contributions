@@ -1,5 +1,6 @@
 # Contributors
 - [Aswanth KT](https://github.com/aswanth-kt)
+- [B Pasha](https://github.com/baasilpasha)
 - [Siddharth Pandey](https://github.com/siddharthpandey2211) 
 - [Pravien Powel](https://github.com/PravienPowel)
 - [NIKHIL GAJULA](https://github.com/nikhil07g)
