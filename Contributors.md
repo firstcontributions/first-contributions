@@ -72,7 +72,7 @@
 - [abdhullah200](https://github.com/abdhullah200)
 - [Sahil Gurjar](https://github.com/SG2407)
 - [Vardhan](https://github.com/Chintha-vardhan)
-- [Shubham Prasad](https://github.com/prsdx)
+- [![prsdx](https://github.com/prsdx.png?size=50)](https://github.com/prsdx) [Shubham Prasad](https://github.com/prsdx)
 - [Luis](https://github.com/manahore)
 - [Raksha S](https://github.com/Raksha2803)
 - [Sherry](https://github.com/zsylllike-sketch)
