@@ -21,6 +21,7 @@
 - [Nivedita CS](https://github.com/niveditacs03)
 - [Raja Rathour](https://github.com/Raja-89)
 - [Claire Haynes](https://github.com/ClaireHaynes700)
+- [Prarthana D](https://github.com/prarthana711)
 - [Tommy Brill](https://github.com/neutronpmp)
 - [Vito Bondanese](https://github.com/VBVB99)
 - [Jesús Martín](https://github.com/jesmarver)
