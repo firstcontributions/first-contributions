@@ -21,6 +21,7 @@
 - [Nivedita CS](https://github.com/niveditacs03)
 - [Raja Rathour](https://github.com/Raja-89)
 - [Claire Haynes](https://github.com/ClaireHaynes700)
+- [Prarthana D](https://github.com/prarthana711)
 - [Tommy Brill](https://github.com/neutronpmp)
 - [Vito Bondanese](https://github.com/VBVB99)
 - [Jesús Martín](https://github.com/jesmarver)
@@ -72,6 +73,7 @@
 - [Sahil Gurjar](https://github.com/SG2407)
 - [Vardhan](https://github.com/Chintha-vardhan)
 - [Luis](https://github.com/manahore)
+- [Raksha S](https://github.com/Raksha2803)
 - [Sherry](https://github.com/zsylllike-sketch)
 - [Lakshmi Kamalanjali Mandalika](https://github.com/Kamalanjali)
 - [Abin Madathil](https://github.com/abinmadathil)
@@ -1176,3 +1178,5 @@
 - [Deepak Kotha](https://github.com/DeepakReddy215)
 -[Rotich Emas Kibet](https://github.com/Lance6328)
 - [Varshith Varma](https://github.com/varshith-uppalapati)
+Yashwanth
+- [Ryan Kimutai](https://github.com/Ryank-80)
