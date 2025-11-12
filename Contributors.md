@@ -1217,4 +1217,5 @@
 - [İbrahim Işıklı](https://github.com/ibrahim-isikli)
 - Jim Martin
 - [xRookieFight](https://github.com/xRookieFight)
+- [Lexi] (https://github.com/allekzia)
 - [Diti] (https://github.com/diti0-dot)
