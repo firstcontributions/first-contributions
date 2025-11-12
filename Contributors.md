@@ -1,6 +1,7 @@
 # Contributors
 
 -[Omar Adel Youssif](https://github.com/OMar-Adelll)
+- [Rotich Emas Kibet](https://github.com/Lance6328)
 
 - [Syed Arham]
 -[Edward Dume](https://github.com/edwarddume55)
