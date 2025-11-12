@@ -911,6 +911,7 @@
 - [Chandana](https://github.com/Chandana2829)
 - [Clilja](https://github.com/christianlilja)
 - [Dakota Feist](https://github.com/DankYoda)
+- [Jesús Peralta](https://github.com/Chucho-Kun)
 - [David Anane](https://github.com/plaestore)
 - [Emile Qiu](https://github.com/Qa864830345)
 - [Xuqiang Qin](https:/github.com/qinxuqiang)
