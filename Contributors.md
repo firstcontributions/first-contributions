@@ -19,6 +19,7 @@
 - [deepak mishra](https://github.com/BEPAWSITIVE)
 - [Caleb Fan](https://github.com/Gazfang)
 - [Anandajith S](https://github.com/AnandajithS)
+- [Gajji Chandu Yadav](https://github.com/AnandajithS)
 - [Christian Gongora](https://github.com/ChristianGongoraDeMoraes)
 - [Dhayanithi s r](https://github.com/its-dhaya)
 - [Nivedita CS](https://github.com/niveditacs03)
