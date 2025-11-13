@@ -1,4 +1,5 @@
 # Contributors
+- Shreya Mane (GitHub: shreyamane1526)
 - [Ishika Gupta](https://github.com/Ishika-guptaa25)
 - [Aswanth KT](https://github.com/aswanth-kt)
 - [Pratik Navghare] (https://github.com/navghare-pratik)
@@ -223,6 +224,7 @@ geogjegjegoiejgeroigjergjeoi
 - [Asude Yılmaz]
 - [Rein Ding](https://github.com/ReinDing)
 - [Helen Tsui](https://github.com/helentht)
+  [kalyan](https://github.com/kalyan4518).
 - [Andy Ma](https://github.com/Everither)
 - [Bruno Costa](https://github.com/brunocosta-devlab)
 - [Angel Pauly](https://github.com/angelpauly)
@@ -1246,3 +1248,4 @@ geogjegjegoiejgeroigjergjeoi
 -[ Akshat Tikaria]
 - [Kanishq R Purohit]("https://github.com/kanishq-9")
 - [elllehe]("https://github.com/elllehe")
+-[Neev Jain]("https://github.com/Neev1006")
