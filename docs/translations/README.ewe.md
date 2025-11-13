@@ -1,3 +1,4 @@
+
 [![kɔmpiutaɖoɖo femaxee ƒe Lɔlɔ̃](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
@@ -137,4 +138,4 @@ Esia mehiã o, gake alɔdzedɔwɔƒea ƒe ŋkɔ ɖee fia be eƒe taɖodzinua nye
 
 ## Afikae míayi emegbe?
 
-Àte ŋu awɔ ɖeka kple míaƒe ƒuƒoƒoa hã le Slack nenye be èhiã kpekpeɖeŋu alo nyabiase aɖewo le asiwò.  [Wɔ ɖeka kple ƒuƒoƒoa le Slack dzi](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
+te ŋu awɔ ɖeka kple míaƒe ƒuƒoƒoa hã le nyateƒe aɖewo. [Wɔ kpekpeɖeŋu le code dzi](https://github.com/firstcontributions/first-contributions)
