@@ -1,5 +1,6 @@
 # Contributors
 - Shreya Mane (GitHub: shreyamane1526)
+- [Steve Harper](https://github.com/sjharper79) 
 - [zaka](https://github.com/oraichezakariyae)
 - [Ishika Gupta](https://github.com/Ishika-guptaa25)
 - [Aswanth KT](https://github.com/aswanth-kt)
