@@ -1,7 +1,8 @@
 # Contributors
+
 - [Aswanth KT](https://github.com/aswanth-kt)
 - [B Pasha](https://github.com/baasilpasha)
-- [Siddharth Pandey](https://github.com/siddharthpandey2211) 
+- [Siddharth Pandey](https://github.com/siddharthpandey2211)
 - [Pravien Powel](https://github.com/PravienPowel)
 - [NIKHIL GAJULA](https://github.com/nikhil07g)
 - [Omar Adel Youssif](https://github.com/OMar-Adelll)
@@ -739,6 +740,7 @@
 - [p-a-brown](https://github.com/p-a-brown)
 - [peng qin](https://github.com/pengqinppp)
 - [rkb121541](https://github.com/rkb121541)
+- [Jeonghyun Lee](https://github.com/leejh0820)
 - [rockxxjin](https://github.com/rockxxjin)
 - [sadiqhero](https://github.com/sadiqhero)
 - [HolmesMurillo](https://github.com/HolmesMurillo)
@@ -1225,5 +1227,5 @@
 - [Lexi] (https://github.com/allekzia)
 - [Diti] (https://github.com/diti0-dot)
 - - [asrar-mared](https://github.com/asrar-mared)
---[Aisha Nyaz](https://github.com/aishanyaaz/first-contributions)
---[Pyae Paing Kyaw](https://github.com/paiiDev/first-contributions)
+    --[Aisha Nyaz](https://github.com/aishanyaaz/first-contributions)
+    --[Pyae Paing Kyaw](https://github.com/paiiDev/first-contributions)
