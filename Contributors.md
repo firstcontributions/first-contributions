@@ -12,6 +12,7 @@
 - [Syed Arham]
 - [Edward Dume](https://github.com/edwarddume55)
 - [Vaishnavi Suryawanshi](https://github.com/VaishnaviSW01)
+- [Vinay Kumar] (https://github.com/vinay123-ops)
 - [Brandon Busacker](https://github.com/bwbusacker)
 - [Augustine Chiu](https://github.com/achiu283)
 - [Aaron Stranathan](https://github.com/Aaronstran2015)
