@@ -11,6 +11,7 @@
 - [Omar Adel Youssif](https://github.com/OMar-Adelll)
 - [Dheeraj Kumar](https://github.com/Dheeraj-Kumar-8)
 - [Srihari Vernekar]
+- [Dennis Muchai](https://github.com/dmuchai)
 - [Syed Arham] -[Edward Dume](https://github.com/edwarddume55)
 - [Andrés Peña del Río](https://github.com/apenade)
   [Julian Cumps](https://github.com/juliancumps)
