@@ -12,10 +12,12 @@
 - [Vaishnavi Suryawanshi](https://github.com/VaishnaviSW01)
 - [Brandon Busacker](https://github.com/bwbusacker)
 - [Augustine Chiu](https://github.com/achiu283)
+- [Aaron Stranathan](https://github.com/Aaronstran2015)
 - [Auditore2022](https://github.com/Auditore2022)
 - [Peter Ellis](https://github.com/pcellis)
 - [Omkar Nalgirkar]
 - [Yassine El Alami](https://github.com/ElAlamiY)
+- [Aaron Stranathan](https://github.com/Aaronstran2015)
 - [Jeevika R](https://github.com/jeevikar14)
 - [Raghu Meka](https://github.com/RBMeka)
 - [Jeevika R]
