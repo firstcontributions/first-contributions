@@ -1,10 +1,10 @@
 # Contributors
+
 - [Ishika Gupta](https://github.com/Ishika-guptaa25)
 - [Aswanth KT](https://github.com/aswanth-kt)
-- [Uros Velickovic](https://github.com/UrosVel97)
--[Nimish Agrawal](https://github.com/nimishagrawal1405)❤️❤️❤️
+- [Uros Velickovic](https://github.com/UrosVel97) -[Nimish Agrawal](https://github.com/nimishagrawal1405)❤️❤️❤️
 - [B Pasha](https://github.com/baasilpasha)
-- [Siddharth Pandey](https://github.com/siddharthpandey2211) 
+- [Siddharth Pandey](https://github.com/siddharthpandey2211)
 - [Pravien Powel](https://github.com/PravienPowel)
 - [NIKHIL GAJULA](https://github.com/nikhil07g)
 - [Omar Adel Youssif](https://github.com/OMar-Adelll)
@@ -28,6 +28,7 @@
 - [Jeevika R](https://github.com/jeevikar14)
 - [Raghu Meka](https://github.com/RBMeka)
 - [Jeevika R]
+- [Sai Teja Venkata Vinay Adapa](https://github.com/22A31A0525)
 - [Carina Mach](https://github.com/carinamach)
 - [Kotyara5243](https://github.com/Kotyara5243)
 - [deepak mishra](https://github.com/BEPAWSITIVE)
@@ -138,7 +139,7 @@
 - [Pavan kuppili](https://github.com/PavanKuppili)
 - [Jason Ephraim Tjiunardi](https://github.com/jasontjiunardi)
 - [Eques72](https://github.com/Eques72)
-- [Ralph M] (https://github.com/ralphm-rgg) 
+- [Ralph M] (https://github.com/ralphm-rgg)
 - [Thaiyal Bagam Sanjeev](https://github.com/SugarCrash2077)
 - [Supriya](https://github.com/Supriyasus)
 - [reveriePolaris](https://github.com/reveriePolaris)
@@ -1234,9 +1235,8 @@
 - [Lexi] (https://github.com/allekzia)
 - [Diti] (https://github.com/diti0-dot)
 - - [asrar-mared](https://github.com/asrar-mared)
---[Aisha Nyaz](https://github.com/aishanyaaz/first-contributions)
+    --[Aisha Nyaz](https://github.com/aishanyaaz/first-contributions)
 - [Seven](https://github.com/seven77-zjq)
---[Pyae Paing Kyaw](https://github.com/paiiDev/first-contributions)
+  --[Pyae Paing Kyaw](https://github.com/paiiDev/first-contributions)
 - [Ahmed Atef]("https://github.com/Ahmed3atef")
-- [Praful Kharpuriye]("https://github.com/PrafulK99")
--[ Akshat Tikaria]
+- [Praful Kharpuriye]("https://github.com/PrafulK99") -[ Akshat Tikaria]
