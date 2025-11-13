@@ -141,53 +141,6 @@ Vous recevrez un e-mail de confirmation une fois que ce sera fait.
 
 La branche main de votre dépôt forker ne subira pas de modification. Pour que votre dépôt soit synchronisé avec le mien, suivez les étapes suivantes.
 
-## Gardez votre embranchement synchronisé avec ce répertoire
-
-D'abord, basculez sur la branche main
-
-```bash
-git checkout main
-```
-
-Et ajouter l'url de mon répertoire comme `upstream remote url` :
-
-```bash
-git remote add upstream https://github.com/Roshanjossey/first-contributions
-```
-
-Ceci est une manière de dire à git qu'une autre version de ce répertoire existe à l'adresse spécifiée et que nous l'appelons `upstream`. Une fois les modifications fusionnées, cherchez la nouvelle version de mon répertoire :
-
-```bash
-git fetch upstream
-```
-
-Ici nous cherchons toutes les modifications dans mon embranchement (upstream remote). Maintenant, vous devez fusionner la nouvelle révision de mon répertoire avec votre branche main :
-
-```bash
-git rebase upstream/main
-```
-
-Ici nous appliquons toutes les modifications que vous avez récupéré à la branche main. Si vous poussez la branche main maintenant, votre embranchement aussi aura les modifications :
-
-```bash
-git push origin main
-```
-
-Avertissement: Cette fois, vous poussez les modifications au répertoire distant appelé origin.
-
-A cet instant j'ai fusionné votre branche `<add-votre-nom>` avec ma branche main, et vous avez fusionné ma branche main avec votre branche main. Votre branche `<add-votre-nom>` n'est plus utile, donc vous pouvez la supprimer :
-
-```bash
-git branch -d <add-votre-nom>
-```
-
-et vous pouvez supprimer sa version dans le répertoire distant aussi :
-
-```bash
-git push origin --delete <add-votre-nom>
-```
-
-Ceci n'est pas nécessaire, mais le nom de la branche montre que son objectif est assez spécifique. Sa durée de vie peut être courte.
 
 ## Où aller maintenant ?
 
@@ -199,6 +152,7 @@ Vous pouvez rejoindre notre équipe Slack si vous avez besoin d'aide ou si vous 
 
 Si vous souhaitez contribuer au code, consultez notre [dépôt GitHub de contributions au code](https://github.com/roshanjossey/code-contributions).
 
+Maintenant, allons-y pour que vous commenciez à contribuer à d'autres projets. Nous avons compilé une liste de projets avec des tâches faciles sur lesquelles vous pouvez vous lancer. Jetez un œil à [la liste de projets dans l'application web](https://firstcontributions.github.io/#project-list).
 
 ## Tutoriels en utilisant d'autres outils
 
