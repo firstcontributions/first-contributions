@@ -1228,3 +1228,4 @@
 --[Aisha Nyaz](https://github.com/aishanyaaz/first-contributions)
 - [Seven](https://github.com/seven77-zjq)
 --[Pyae Paing Kyaw](https://github.com/paiiDev/first-contributions)
+--[nickyrat](https://github.com/Nickyrat/first-contributions)
