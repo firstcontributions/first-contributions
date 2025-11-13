@@ -1229,3 +1229,6 @@
 - - [asrar-mared](https://github.com/asrar-mared)
     --[Aisha Nyaz](https://github.com/aishanyaaz/first-contributions)
     --[Pyae Paing Kyaw](https://github.com/paiiDev/first-contributions)
+--[Aisha Nyaz](https://github.com/aishanyaaz/first-contributions)
+- [Seven](https://github.com/seven77-zjq)
+--[Pyae Paing Kyaw](https://github.com/paiiDev/first-contributions)
