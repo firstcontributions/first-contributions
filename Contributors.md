@@ -1239,3 +1239,4 @@
 --[Pyae Paing Kyaw](https://github.com/paiiDev/first-contributions)
 - [Ahmed Atef]("https://github.com/Ahmed3atef")
 - [Praful Kharpuriye]("https://github.com/PrafulK99")
+- [Kanishq R Purohit]("https://github.com/kanishq-9)
