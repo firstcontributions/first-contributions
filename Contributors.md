@@ -1,7 +1,11 @@
 # Contributors
+- Shreya Mane (GitHub: shreyamane1526)
+- [zaka](https://github.com/oraichezakariyae)
 - [Ishika Gupta](https://github.com/Ishika-guptaa25)
 - [Aswanth KT](https://github.com/aswanth-kt)
+- [Pratik Navghare] (https://github.com/navghare-pratik)
 - [Uros Velickovic](https://github.com/UrosVel97)
+geogjegjegoiejgeroigjergjeoi
 -[Nimish Agrawal](https://github.com/nimishagrawal1405)❤️❤️❤️
 - [B Pasha](https://github.com/baasilpasha)
 - [Siddharth Pandey](https://github.com/siddharthpandey2211) 
@@ -10,6 +14,7 @@
 - [Omar Adel Youssif](https://github.com/OMar-Adelll)
 - [Dheeraj Kumar](https://github.com/Dheeraj-Kumar-8)
 - [Srihari Vernekar]
+- [Dennis Muchai](https://github.com/dmuchai)
 - [Syed Arham] -[Edward Dume](https://github.com/edwarddume55)
 - [Andrés Peña del Río](https://github.com/apenade)
   [Julian Cumps](https://github.com/juliancumps)
@@ -221,6 +226,7 @@
 - [Asude Yılmaz]
 - [Rein Ding](https://github.com/ReinDing)
 - [Helen Tsui](https://github.com/helentht)
+  [kalyan](https://github.com/kalyan4518).
 - [Andy Ma](https://github.com/Everither)
 - [Bruno Costa](https://github.com/brunocosta-devlab)
 - [Angel Pauly](https://github.com/angelpauly)
