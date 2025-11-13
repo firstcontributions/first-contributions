@@ -84,6 +84,7 @@
 - [Dhanush Shetty](https://github.com/dhanush-shetty1)
 - [Oliyad Zelalem](https://github.com/ozimmortal)
 - [Issa Issack](https://github.com/essaissa)
+- [Tracey Dingman](https://github.com/tdingman422)
 - [Brayden Monthei](https://github.com/Brayden-Monthei)
 - [Afsheen Nadaf](https://github.com/afsheen-nadaf)
 - [Daniel Li](https://github.com/FallingSky65)
@@ -1107,6 +1108,7 @@
 - [y pavan reddy](https://github.com/ypavanr)
 - [Georgia Pennington](https://github.com/gpenn4)
 - [원세영](https://github.com/seyoung5744)
+- [cal](https://github.com/Chen-808)
 - [JJtothemoonNB](https://github.com/o0jayzaza0o)
 - [Shiva](https://github.com/sh1vananda)
 - [Bluefox192](https://github.com/Bluefox192)
@@ -1242,3 +1244,6 @@
 ### Nidhi S
 - Open-source enthusiast
 - Exploring GSoC and learning GitHub workflows
+-[ Akshat Tikaria]
+- [Kanishq R Purohit]("https://github.com/kanishq-9")
+- [elllehe]("https://github.com/elllehe")
