@@ -2,7 +2,7 @@
 - [Ishika Gupta](https://github.com/Ishika-guptaa25)
 - [Aswanth KT](https://github.com/aswanth-kt)
 - [Uros Velickovic](https://github.com/UrosVel97)
--[Nimish Agrawal](https://github.com/nimishagrawal1405)❤️❤️❤️
+- [Nimish Agrawal](https://github.com/nimishagrawal1405)❤️❤️❤️
 - [B Pasha](https://github.com/baasilpasha)
 - [Siddharth Pandey](https://github.com/siddharthpandey2211) 
 - [Pravien Powel](https://github.com/PravienPowel)
@@ -1238,3 +1238,5 @@
 - [Seven](https://github.com/seven77-zjq)
 --[Pyae Paing Kyaw](https://github.com/paiiDev/first-contributions)
 - [Ahmed Atef]("https://github.com/Ahmed3atef")
+- [Vitor Costa](https://github.com/VitorLuis1)
+
