@@ -86,7 +86,8 @@
 <kbd>[<img title="ភាសាខ្មែរ" alt="ភាសាខ្មែរ" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/kh.svg" width="22">](docs/translations/README.kh.md)</kbd>
 <kbd>[<img title="Morocco" alt="Moroccan Darija" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ma.svg" width="22">](docs/translations/README.ma.md)</kbd>
 <kbd>[<img title="Mongolian" alt="Mongolian" src="https://cdn.statically.io/flags/mn.svg" width="22">](docs/translations/README.mn.md)</kbd>
-<kbd>[<img title="Morocco" alt="Tounsi" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/tn.svg" width="22">](docs/translations/README.tn.md)</kbd>
+<kbd>[<img title="Tounsi" alt="Tounsi" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/tn.svg" width="22">](docs/translations/README.tn.md)</kbd>
+<kbd>[<img title="Lingala" alt="Lingala" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/cd.svg" width="22">](docs/translations/README.ln.md)</kbd>
 
 # First Contributions
 
@@ -94,7 +95,7 @@ This project aims to simplify and guide the way beginners make their first contr
 
 _If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork the repository" />
 
 #### If you don't have git on your machine, [install it](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
@@ -105,7 +106,7 @@ This will create a copy of this repository in your account.
 
 ## Clone the repository
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone the repository" />
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button, then on SSH tab and then click the _copy url to clipboard_ icon.
 
@@ -198,7 +199,7 @@ replacing `your-branch-name` with the name of the branch you created earlier.
 - ### Authentication Error
      <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
   remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
-  fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
+  fatal: Authentication failed for 'https://github.com/&lt;your-username&gt;/first-contributions.git/'</pre>
   Go to [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) on generating and configuring an SSH key to your account.
 
   Also, you might want to run 'git remote -v' to check your remote address.
@@ -218,11 +219,11 @@ replacing `your-branch-name` with the name of the branch you created earlier.
 
 If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="compare and create pull request" />
 
 Now submit the pull request.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit the pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
 Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
 

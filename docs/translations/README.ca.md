@@ -5,7 +5,7 @@
 
 # Primeres Contribucions
 
-És difícil. Sempre es difícil fer una cosa per primera vegada. Sobretot quan es col·labora amb altres, ja que equivocar-se no és gens agradable. Volem simplificar la manera d'aprendre a contribuir i col·laborar en projectes de codi obert per primera vegada.
+És difícil. Sempre és difícil fer una cosa per primera vegada. Sobretot quan es col·labora amb altres, ja que equivocar-se no és gens agradable. Volem simplificar la manera d'aprendre a contribuir i col·laborar en projectes de codi obert per primera vegada.
 
 Llegir articles i mirar tutorials pot ser útil, però què millor que fer les coses en un entorn pràctic real? Aquest projecte és una guia per a principiants que vol simplificar la primera contribució a projectes de codi oberts. Si vols fer la teva primera contribució, segueix les instruccions que es mostren a continuació:
 
@@ -28,7 +28,7 @@ Clona aquest repositori al teu ordinador: ves al teu compte de GitHub, fes clic 
 
 Obre una terminal/línia d'ordre i executa el següent comandament de git:
 
-```
+```bash
 git clone "url que acabes de copiar"
 ```
 on "url que acabeu de copiar" (sense cometes dobles) és la *url* per a aquest repositori (la vostra bifurcació o *fork* d'aquest projecte). Per obtenir la *url*, torna als passos anteriors.
@@ -36,7 +36,7 @@ on "url que acabeu de copiar" (sense cometes dobles) és la *url* per a aquest r
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copiar URL al porta-retalls" />
 
 Per exemple:
-```
+```bash
 git clone https://github.com/aquest-soc-jo/first-contributions.git
 ```
 on `aquest-soc-jo` és el teu nom d'usuari de GitHub. En aquest pas, estàs copiant el contingut del repositori *first-contributions* de GitHub al teu ordinador.
@@ -45,16 +45,16 @@ on `aquest-soc-jo` és el teu nom d'usuari de GitHub. En aquest pas, estàs copi
 
 Canvieu al directori del repositori del vostre ordinador (si no hi esteu allà ja):
 
-```
+```bash
 cd first-contributions
 ```
 Crea una nova branca (*branch*) utilitzant el comandament `git checkout`:
-```
+```bash
 git checkout -b <afegiu-el-nom-de-la-nova-branca>
 ```
 
 Per exemple:
-```
+```bash
 git checkout -b add-nom-cognom
 ```
 (No fa falta que el nom de la branca contingui la paraula *add* però és recomanable, ja que l'objectiu d'aquesta branca és afegir el teu nom a la llista.)
@@ -71,12 +71,12 @@ Ara, si vas al directori del projecte i executes el comandament `git status`, ve
 
 Afegeix aquests canvis a la branca que acabes de crear utilitzant el comandament `git add`:
 
-```
+```bash
 git add Contributors.md
 ```
 
 Confirma (*commit*) els canvis utilitzant el comandament `git init`:
-```
+```bash
 git commit -m "Add <el-meu-nom> to Contributors list"
 ```
 reemplaçant `<el-meu-nom>` amb el teu nom.
@@ -84,18 +84,18 @@ reemplaçant `<el-meu-nom>` amb el teu nom.
 ## Empeny (*Push*) els canvis cap a GitHub
 
 Envia els canvis utilitzant el comandament `git push`:
-```
+```bash
 git push origin <afegiu-el-nom-de-la-branca>
 ```
 reemplaçant  `<afegiu-el-nom-de-la-branca>` amb el nom de la branca que has creat anteriorment.
 
 ## Envia (*Submit*) els canvis per tal que siguin revisats
 
-Si ara vas al teu respositori a GitHub, veuràs un botó  `Compare & pull request` (Compara i fes una solicitud d'incorporació). Fes clic en aquest botó.
+Si ara vas al teu repositori a GitHub, veuràs un botó  `Compare & pull request` (Compara i fes una sol·licitud d'incorporació). Fes clic en aquest botó.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="crear una pull request" />
 
-Envia la solicitud d'incorporació (*pull request*).
+Envia la sol·licitud d'incorporació (*pull request*).
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="envia la pull request" />
 

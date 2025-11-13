@@ -1,5 +1,4 @@
 [![Amo al Malferma Kodo](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![Licenco: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Helpantoj de Malferma Kodo](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -11,7 +10,7 @@ Legi artikolojn kaj rigardi tutoriaojn povas helpi, sed kio estas pli bona ol fa
 
 #### *Se vi ne estas konata kun la komandlinio, [jen tutoriaj uzante ilojn kun Grafika Interfaco (GUI)](#Tutoriales-con-otras-herramientas)*
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork de este repositorio" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="forko de ĉi tiu deponejo" />
 
 Se vi ne havas git-on en via komputilo, vi povas trovi instrukciojn por instali ĝin [ĉi tie]( https://docs.github.com/es/get-started/quickstart/set-up-git ).
 
@@ -70,7 +69,7 @@ git switch -c add-alonzo-church
 
 Malfermu la dosieron `Contributors.md` en teksta redaktilo kaj aldonu vian nomon. Ne aldonu ĝin aŭ en la komenco aŭ en la fino de la dosiero, sed faru tion ie interne. Konservu la dosieron.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git statuso" />
 
 Se vi iras al la projekta dosierujo kaj ekzekutas la komandon `git status`, vi vidos ke estas ŝanĝoj.
 
@@ -120,7 +119,6 @@ Gratulojn! Vi ĵus finis la regulan _fork -> clone -> redaktu -> pull request_ f
 
 Festu vian kontribuon kaj dividiĝu kun viaj amikoj kaj sekvantoj irante al [rete apikaĵo](https://firstcontributions.github.io/#social-share).
 
-Vi ankaŭ povas aliĝi al nia Slack-teamo se vi bezonas helpon aŭ havas demandojn. [Aliĝu al nia Slack-teamo](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
 Nun komencu kontribui al aliaj projektoj. Ni kolektis liston de projektoj kun facilaj problemoj, por ke vi povu ekhavi. Rigardu [la liston de projektoj en la rete apikaĵo](https://firstcontributions.github.io/#project-list).
 
