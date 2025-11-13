@@ -17,7 +17,6 @@
 - [Peter Ellis](https://github.com/pcellis)
 - [Omkar Nalgirkar]
 - [Yassine El Alami](https://github.com/ElAlamiY)
-- [Aaron Stranathan](https://github.com/Aaronstran2015)
 - [Jeevika R](https://github.com/jeevikar14)
 - [Raghu Meka](https://github.com/RBMeka)
 - [Jeevika R]
