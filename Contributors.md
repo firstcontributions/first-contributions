@@ -84,6 +84,7 @@
 - [Dhanush Shetty](https://github.com/dhanush-shetty1)
 - [Oliyad Zelalem](https://github.com/ozimmortal)
 - [Issa Issack](https://github.com/essaissa)
+- [Tracey Dingman](https://github.com/tdingman422)
 - [Brayden Monthei](https://github.com/Brayden-Monthei)
 - [Afsheen Nadaf](https://github.com/afsheen-nadaf)
 - [Daniel Li](https://github.com/FallingSky65)
