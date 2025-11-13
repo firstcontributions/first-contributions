@@ -1,90 +1,195 @@
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzobiBcMDM)
+[![L'amour du logiciel libre](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
-
 # Premières Contributions (Français Québécois)
 
-| <img alt="GitHub Desktop" src="https://cdn.icon-icons.com/icons2/2157/PNG/512/github_git_hub_logo_icon_132878.png" width="200"> | Interface en Ligne de Commande GitHub (CLI) |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
+C'est toujours un peu tough la première fois que l'on fait quelque chose. La peur de faire des fautes n'est pas du tout confortable, surtout quand on collabore. Mais le monde du logiciel libre est le fait de collaborer et de travailler en groupe. Aussi, nous voulons simplifier l'apprentissage des nouveaux contributeurs au logiciel libre en vous enseignant à contribuer pour la première fois.
 
-Ceci est un guide pour nous, les adeptes du terminal, qui voulons tout faire en ligne de commande. Grâce à [Github-CLI](https://cli.github.com/), on peut y arriver. Votre première contribution devrait être amusante, gratifiante et motivante pour continuer à progresser !
+Lire des articles et des tutoriels peut aider, mais quoi de mieux que d'essayer sans pouvoir faire d'erreurs ? Ce projet a pour ambition de fournir des conseils et simplifier la manière dont les apprentis font leur première contribution. Souvenez-vous : plus vous êtes serein, mieux vous apprenez. Si vous aspirez à faire votre première contribution, suivez tout simplement les étapes suivantes. Promis, ça va être le fun.
 
-Ce guide est un peu plus complexe, car on n'utilise aucune interface graphique, mais c'est quand même le fun et vous pouvez suivre les instructions !
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="Dupliquez ce dépôt sur votre compte GitHub" />
 
-Le premier prérequis est d'avoir :
-- Git installé (comment installer [git](https://git-scm.com/downloads))
-- Un compte GitHub
+Si vous n'avez pas encore Git installé sur votre machine, [ installez-le ](https://help.github.com/articles/set-up-git/).
 
-Ensuite, on doit installer l'outil `github-cli` sur notre système en suivant la [documentation officielle](https://github.com/cli/cli#installation).
+## Faire un fork de ce dépôt
 
-Après ça, on doit se connecter à la CLI en entrant cette commande : 
-```bash 
-gh auth login
-```
+Forkez ce dépôt en cliquant sur le bouton _fork_ en haut de cette page.
+Cela créera une copie de ce dépôt dans votre propre compte GitHub
 
-Suivez les instructions et vous êtes prêt(e) !
+## Clonez ce répertoire
 
-# Fork de ce dépôt
-C'est aussi simple que d'exécuter cette commande :
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="Clonez ce dépôt sur votre ordinateur" />
+
+Maintenant, clonez ce répertoire sur votre ordinateur. Allez sur votre compte GitHub, ouvrez le dépôt forké, cliquez sur le bouton _Code_, puis sur l’onglet _SSH_ et enfin sur l’icône _copier dans le presse-papiers_.
+
+Ouvrez une invite de commande (si vous êtes sous Windows) ou un terminal (si vous êtes sous MacOS ou Linux) et exécutez la commande git suivante :
 
 ```bash
-gh repo fork firstcontributions/first-contributions
-```
-**Important : Il vous demandera si vous souhaitez également le cloner, sélectionnez l'option "yes"**
-
-# Créer votre branche
-Nous allons effectuer cette étape avec Git, alors entrez cette commande en remplaçant le nom par votre nom, par exemple :
-```bash 
-git switch -c vive-quebec-libre
+git clone "l'url que vous venez de copier"
 ```
 
-# Effectuer les changements nécessaires et commitez ces modifications 
-Vous pouvez maintenant ouvrir le fichier `Contributors.md` dans un éditeur de texte et y ajouter votre nom. Placez votre nom n'importe où entre le début et la fin du fichier, puis enregistrez-le.
+où "l'url que vous venez de copier" (sans les guillemets) est l'url du dépôt forké. Revoir les étapes précédentes pour obtenir l’URL exacte.
 
-Dans le répertoire du projet, exécutez `git status` et vous verrez les modifications.
-![image-git](https://camo.githubusercontent.com/a35c4722d7aab337eefc655d1488f7b4dc038508e6adaf5e88e2e052a976f010/68747470733a2f2f6669727374636f6e747269627574696f6e732e6769746875622e696f2f6173736574732f526561646d652f6769742d7374617475732e706e67)
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="Copiez l'URL dans le presse-papiers" />
 
-Ajoutez ces changements à la branche que vous venez de créer en utilisant la commande `git add` :
-`git add Contributors.md`
+Par exemple :
 
-Commitez maintenant ces changements en utilisant la commande `git commit` :
-`git commit -m "Ajouter votre-nom à la liste des contributeurs"`
-en remplaçant `votre-nom` par votre nom.
-
-# Poussez les modifications sur GitHub 
-Poussez vos modifications en utilisant la commande `git push` :
-
-```
-git push origin -u votre-nom-de-branche
+```bash
+git clone https://github.com/votre-nom-d-utilisateur/first-contributions.git
 ```
 
-en remplaçant `votre-nom-de-branche` par le nom de la branche que vous avez créée précédemment.
+où `votre-nom-d-utilisateur` est votre nom d'utilisateur GitHub. Ici vous êtes en train de copier le contenu du dépôt `first-contributions` depuis GitHub sur votre ordinateur.
 
-<details>
-<summary> <strong>Si vous obtenez des erreurs lors de la soumission, cliquez ici :</strong> </summary>
+## Créez une branche
 
-- ### Erreur d'authentification
-     <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
-  remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
-  fatal: Authentication failed for 'https://github.com/<votre-nom-d'utilisateur>/first-contributions.git/'</pre>
-  Suivez le [tutoriel GitHub](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) sur la génération et la configuration d'une clé SSH pour votre compte.
+Déplacez-vous dans le répertoire du projet nouvellement cloné (si vous n'y êtes pas encore) :
+
+```bash
+cd first-contributions
+```
+
+Maintenant créez une branche avec la commande `git checkout` :
+
+```bash
+git checkout -b <add-votre-nom>
+```
+
+Par exemple :
+
+```bash
+git checkout -b vive-quebec-libre
+```
+
+(Le nom de la branche n'a pas besoin de contenir le terme _add_, mais il est mieux de l'inclure car l'objectif de cette branche est d'ajouter votre nom à une liste.)
+
+<details> <summary> <strong>Si vous rencontrez une erreur avec git switch, cliquez ici :</strong> </summary>
+Si le message "Git: switch is not a git command. See git –help" s’affiche, c’est probablement parce que vous utilisez une ancienne version de Git.
+
+Dans ce cas, essayez plutôt :
+
+```bash
+git checkout -b nom-de-ta-nouvelle-branche
+```
 
 </details>
 
-# Soumettez vos modifications pour examen
-Maintenant, en exécutant cette commande dans le répertoire de notre dépôt, vous pourrez créer une pull request pour examen :
+## Effectuez les modifications nécessaires et enregistrez-les
 
-```bash 
-gh pr create --repo firstcontributions/first-contributions
+Ouvrez le fichier `Contributors.md` dans un éditeur de texte, ajoutez-y votre nom, et enregistrez-le. Ne l’ajoutez pas au début ou à la fin du fichier, mais quelque part au milieu.
+
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="Sortie de la commande git status" />
+
+Si vous ouvrez l'invite de commande et que vous exécutez la commande `git status`, vous verrez qu'il y a des modifications. Ajoutez ces modifications à la branche que vous venez de créer avec la commande `git add` :
+
+```bash
+git add Contributors.md
 ```
 
-Ensuite, soumettez la pull request.
+Maintenant faites un commit de ces modifications avec la commande `git commit`:
 
-Vous pouvez utiliser la commande `gh status` pour voir votre pull request mentionnée en action.
+```bash
+git commit -m "Add <votre-nom> to Contributors list"
+```
 
-## Où aller maintenant ? 
+en remplaçant `<votre-nom>` par votre nom.
+
+## Poussez les modifications vers GitHub
+
+Poussez vos modifications avec la commande `git push` :
+
+```bash
+git push -u origin <nom-de-votre-branche>
+```
+
+en remplaçant `<nom-de-votre-branche>` avec le nom de la branche précédemment créée.
+
+<details> <summary> <strong>Si tu obtiens une erreur au moment de pousser, clique ici :</strong> </summary>
+
+- ### Erreur d’authentification
+  <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead. remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information. fatal: Authentication failed for 'https://github.com/<ton-nom-utilisateur>/first-contributions.git/'</pre>
+  Suivez le tutoriel GitHub pour générer et configurer une clé SSH sur votre compte.
+
+Vous pouvez également exécuter git remote -v pour vérifier votre adresse distante.
+
+Si elle ressemble à ceci :
+
+<pre>origin https://github.com/ton-nom-utilisateur/ton_repo.git (fetch) origin https://github.com/ton-nom-utilisateur/ton_repo.git (push)</pre>
+
+Modifiez-la avec cette commande :
+
+```bash
+git remote set-url origin git@github.com:ton-nom-utilisateur/ton_repo.git
+```
+
+Sinon, vous continuerez de devoir entrer votre mot de passe et vous obtiendrez une erreur d’authentification.
+
+</details>
+
+## Soumettez votre contribution pour révision
+
+Si vous vous rendez sur votre répertoire sur Github, vous verrez un bouton `Compare & pull request`. Cliquez dessus.
+
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="Créer une pull request" />
+
+Soumettez ensuite la _pull request_.
+
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="Soumettre une pull request" />
+
+Je fusionnerai bientôt vos modifications dans la branche principale du projet.
+Vous recevrez un e-mail de confirmation une fois que ce sera fait.
+
+La branche main de votre dépôt forker ne subira pas de modification. Pour que votre dépôt soit synchronisé avec le mien, suivez les étapes suivantes.
+
+## Gardez votre embranchement synchronisé avec ce répertoire
+
+D'abord, basculez sur la branche main
+
+```bash
+git checkout main
+```
+
+Et ajouter l'url de mon répertoire comme `upstream remote url` :
+
+```bash
+git remote add upstream https://github.com/Roshanjossey/first-contributions
+```
+
+Ceci est une manière de dire à git qu'une autre version de ce répertoire existe à l'adresse spécifiée et que nous l'appelons `upstream`. Une fois les modifications fusionnées, cherchez la nouvelle version de mon répertoire :
+
+```bash
+git fetch upstream
+```
+
+Ici nous cherchons toutes les modifications dans mon embranchement (upstream remote). Maintenant, vous devez fusionner la nouvelle révision de mon répertoire avec votre branche main :
+
+```bash
+git rebase upstream/main
+```
+
+Ici nous appliquons toutes les modifications que vous avez récupéré à la branche main. Si vous poussez la branche main maintenant, votre embranchement aussi aura les modifications :
+
+```bash
+git push origin main
+```
+
+Avertissement: Cette fois, vous poussez les modifications au répertoire distant appelé origin.
+
+A cet instant j'ai fusionné votre branche `<add-votre-nom>` avec ma branche main, et vous avez fusionné ma branche main avec votre branche main. Votre branche `<add-votre-nom>` n'est plus utile, donc vous pouvez la supprimer :
+
+```bash
+git branch -d <add-votre-nom>
+```
+
+et vous pouvez supprimer sa version dans le répertoire distant aussi :
+
+```bash
+git push origin --delete <add-votre-nom>
+```
+
+Ceci n'est pas nécessaire, mais le nom de la branche montre que son objectif est assez spécifique. Sa durée de vie peut être courte.
+
+## Où aller maintenant ?
 
 Bon travail ! Vous venez de terminer le flux de travail standard _fork -> clone -> édition -> pull request_ que vous rencontrerez souvent en tant que contributeur ! Lâche pas la patate !
 
@@ -92,10 +197,12 @@ Célébrez votre contribution et partagez-la avec vos amis et abonnés en allant
 
 Vous pouvez rejoindre notre équipe Slack si vous avez besoin d'aide ou si vous avez des questions. [Rejoignez l'équipe Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-vchl8cde-S0KstI_jyCcGEEj7rSTQiA).
 
-Maintenant, passons à la contribution à d'autres projets. Nous avons dressé une liste de projets avec des problèmes faciles pour vous permettre de commencer. Consultez [la liste des projets sur l'application web](https://firstcontributions.github.io/#project-list).
+Si vous souhaitez contribuer au code, consultez notre [dépôt GitHub de contributions au code](https://github.com/roshanjossey/code-contributions).
 
-### [Matériel supplémentaire](additional-material/git_workflow_scenarios/additional-material.md)
 
-## Tutoriels Utilisant d'Autres Outils
+## Tutoriels en utilisant d'autres outils
 
-[Retour à la page d'accueil](https://github.com/firstcontributions/first-contributions#tutorials-using-other-tools)
+| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md)                                                                                                                          | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md)                                                                                                                                        | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                                                  | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                                      | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md)                                                                                                                                                          |
+
