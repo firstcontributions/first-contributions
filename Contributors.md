@@ -1240,4 +1240,4 @@
 - [Ahmed Atef]("https://github.com/Ahmed3atef")
 - [Praful Kharpuriye]("https://github.com/PrafulK99")
 -[ Akshat Tikaria]
-- [Kanishq R Purohit]("https://github.com/kanishq-9")
+- [Kanishq R Purohit](https://github.com/kanishq-9)
