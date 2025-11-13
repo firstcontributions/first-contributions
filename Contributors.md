@@ -13,6 +13,7 @@ geogjegjegoiejgeroigjergjeoi
 - [Omar Adel Youssif](https://github.com/OMar-Adelll)
 - [Dheeraj Kumar](https://github.com/Dheeraj-Kumar-8)
 - [Srihari Vernekar]
+- [Dennis Muchai](https://github.com/dmuchai)
 - [Syed Arham] -[Edward Dume](https://github.com/edwarddume55)
 - [Andrés Peña del Río](https://github.com/apenade)
   [Julian Cumps](https://github.com/juliancumps)
@@ -1249,3 +1250,4 @@ geogjegjegoiejgeroigjergjeoi
 - [Kanishq R Purohit]("https://github.com/kanishq-9")
 - [elllehe]("https://github.com/elllehe")
 -[Neev Jain]("https://github.com/Neev1006")
+- [Sacheth Koushal] ("https://github.com/ksacheth")
