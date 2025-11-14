@@ -1224,6 +1224,8 @@ geogjegjegoiejgeroigjergjeoi
 - [Kamakshi](https://github.com/kamakshipal1-tech)
 - [jiakeboge](https://github.com/jiakeboge)
 - [LoongSir-ME](https://github.com/LoongSir-ME)
+- [Apoorva](https://github.com/ApoorvaCodes)
+- [Hiba O](https://github.com/Oue-h)
 - [Apoorva](https://github.com/ApoorvaCodes) -[jeevita](https://github.com/Jeevita898)
 - [Dayananda](https://github.com/PROFFARO)
 - [Anmol Srivastava](https://github.com/anmolsri977/first-contributions)
@@ -1256,12 +1258,4 @@ geogjegjegoiejgeroigjergjeoi
 --[Pyae Paing Kyaw](https://github.com/paiiDev/first-contributions)
 - [Ahmed Atef]("https://github.com/Ahmed3atef")
 - [Praful Kharpuriye]("https://github.com/PrafulK99")
--[ Akshat Tikaria]
-- [Kanishq R Purohit]("https://github.com/kanishq-9")
-- [elllehe]("https://github.com/elllehe")
--[Neev Jain]("https://github.com/Neev1006")
-- [Sacheth Koushal] ("https://github.com/ksacheth")
-- [Chandan Rajput] ("https://github.com/chandansingh2005/first-contributions")
-- [Samit Arias] ("https://github.com/samitarias/")
-- [Wenbo Wang](https://github.com/wenbo222)
-- [Mayur] ("https://github.com/Mayur404")
+
