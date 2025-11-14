@@ -1231,6 +1231,7 @@ geogjegjegoiejgeroigjergjeoi
 - [Kamakshi](https://github.com/kamakshipal1-tech)
 - [jiakeboge](https://github.com/jiakeboge)
 - [LoongSir-ME](https://github.com/LoongSir-ME)
+- [Pranjal Rathi](https://github.com/pranjalrathi)
 - [Apoorva](https://github.com/ApoorvaCodes) -[jeevita](https://github.com/Jeevita898)
 - [Dayananda](https://github.com/PROFFARO)
 - [Anmol Srivastava](https://github.com/anmolsri977/first-contributions)
