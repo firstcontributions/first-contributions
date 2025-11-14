@@ -1,6 +1,7 @@
 # Contributors
 - [LiBei1123](https://github.com/LiBei1123)
 - Shreya Mane (GitHub: shreyamane1526)
+- [Tri Aji Prabandaru](https://github.com/triaji-dev)
 - [Steve Harper](https://github.com/sjharper79)
 - [zaka](https://github.com/oraichezakariyae)
 - [Ishika Gupta](https://github.com/Ishika-guptaa25)
