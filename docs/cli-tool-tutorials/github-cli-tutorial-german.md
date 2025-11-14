@@ -1,6 +1,6 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [<img align="right" width="150" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
-[![Lizenz: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 # Erste Beiträge
@@ -8,217 +8,95 @@
 | <img alt="GitHub Desktop" src="https://cdn.icon-icons.com/icons2/2157/PNG/512/github_git_hub_logo_icon_132878.png" width="200"> | GitHub-Befehlszeilenschnittstelle (CLI) |
 | ------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
 
-Es ist schwierig. Wenn Sie zum ersten Mal etwas tun, ist es immer schwierig. Besonders wenn Sie zusammenarbeiten, ist es nicht leicht, Fehler zu machen. Aber Open Source bedeutet Zusammenarbeit und gemeinsames Arbeiten. Wir wollten den Prozess der ersten Beitragstellung für neue Open-Source-Mitwirkende vereinfachen und ihnen helfen, sie auf einfache Weise zu lernen.Dies ist ein Leitfaden für alle, die lieber mit dem Terminal arbeiten. Dank [GitHub-CLI](https://cli.github.com/) kannst du alles direkt über die Kommandozeile erledigen. Denk daran: Dein erster Beitrag soll Spaß machen, lohnend sein und dich motivieren, weiterzumachen!
+Dies ist ein Leitfaden für alle, die lieber mit dem Terminal arbeiten. Wenn Sie zum ersten Mal etwas tun, ist es immer schwierig. Besonders wenn Sie zusammenarbeiten, ist es nicht leicht, Fehler zu machen. Aber Open Source bedeutet Zusammenarbeit und gemeinsames Arbeiten. Wir wollten den Prozess der ersten Beitragstellung für neue Open-Source-Mitwirkende vereinfachen und ihnen helfen, sie auf einfache Weise zu lernen.
 
+Das Lesen von Artikeln und Anschauen von Tutorials kann hilfreich sein, aber es gibt nichts Besseres, als tatsächlich zu arbeiten, ohne etwas zu vermasseln. Dieses Projekt zielt darauf ab, Orientierung zu geben und die Art zu vereinfachen, wie Anfänger ihren ersten Beitrag leisten. Denken Sie daran: Je entspannter Sie sind, desto besser werden Sie lernen. Wenn Sie Ihren ersten Beitrag leisten möchten, folgen Sie einfach den folgenden einfachen Schritten. Wir versprechen Ihnen, das wird Spaß machen.
 
+Der erste Voraussetzung ist:
 
-Das Lesen von Artikeln und Anschauen von Tutorials kann hilfreich sein, aber es gibt nichts Besseres, als tatsächlich zu arbeiten, ohne etwas zu vermasseln. Dieses Projekt zielt darauf ab, Orientierung zu geben und die Art zu vereinfachen, wie Anfänger ihren ersten Beitrag leisten. Denken Sie daran: Je entspannter Sie sind, desto besser werden Sie lernen. Wenn Sie Ihren ersten Beitrag leisten möchten, folgen Sie einfach den folgenden einfachen Schritten. Wir versprechen Ihnen, das wird Spaß machen.Diese Anleitung ist etwas anspruchsvoller, da wir keine grafische Benutzeroberfläche verwenden – aber sie ist trotzdem spannend und leicht nachvollziehbar!
+- Git installiert ([Git herunterladen](https://git-scm.com/downloads))
+- GitHub-Konto
 
+Jetzt müssen wir das `github-cli`-Tool auf unserem System installieren – folgen Sie der offiziellen Dokumentation.
 
+Danach müssen wir uns über die CLI anmelden. Geben Sie diesen Befehl ein:
 
-Wenn Sie Git Bash auf Ihrem Windows-Computer nicht haben, [installieren Sie es](https://git-scm.com/download/win).Die Voraussetzungen sind:
-
-
-
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/fork.png" alt="fork this repository" />- Git installiert ([Git herunterladen](https://git-scm.com/downloads))
-
-- Ein GitHub-Konto
-
-## Dieses Repository forken
-
-Jetzt müssen wir das `github-cli`-Tool auf unserem System installieren – folge dazu der offiziellen Dokumentation.
-
-Forken Sie dieses Repository, indem Sie auf die Fork-Schaltfläche oben rechts auf dieser Seite klicken.
-
-Dies erstellt eine Kopie dieses Repositories in Ihrem Konto.Anschließend müssen wir uns über die CLI anmelden. Gib diesen Befehl ein:
-
-
-
-## Repository klonen```bash
-
+```bash
 gh auth login
-
-Klonen Sie dieses Repository jetzt auf Ihren Computer.Folge den Anweisungen – und schon bist du bereit!
-
-
-
-WICHTIG: Klonen Sie NICHT das Originalrepository. Gehen Sie zu Ihrer Fork und klonen Sie das.Dieses Repository forken
-
-Das geht ganz einfach mit diesem Befehl:
-
-Um das Repository zu klonen, klicken Sie auf "Code" und kopieren Sie dann die Zeichenkette unten.
-
-bash
-
-<img src="https://firstcontributions.github.io/assets/cli-tool-tutorials/git-bash-windows-tutorial/gb-clone-1.png" alt="copy string" />Copy code
-
-gh repo fork firstcontributions/first-contributions
-
-Öffnen Sie die Git Bash-Anwendung, die Sie gerade heruntergeladen haben. Auf einem Windows-Computer sieht es ungefähr so aus:Wichtig: Es wird dich fragen, ob du das Repository auch klonen möchtest – wähle „Ja“.
-
-
-
-<img src="https://firstcontributions.github.io/assets/cli-tool-tutorials/git-bash-windows-tutorial/gb-terminal-1.png" alt="open git bash terminal" />Einen neuen Branch erstellen
-
-Diesen Schritt machen wir mit git. Ersetze den Platzhalter mit deinem Namen, zum Beispiel: (ersetze „john-doe“ mit deinem Namen)
-
-Navigieren Sie mithilfe dieses Befehls zu dem Ordner, in dem Sie dieses Projekt speichern möchten
-
-bash
-
-`cd <folder>`Copy code
-
-git switch -c add-john-doe
-
-<img src="https://firstcontributions.github.io/assets/cli-tool-tutorials/git-bash-windows-tutorial/gb-terminal-2.png" alt="cd into a folder" />Notwendige Änderungen vornehmen und committen
-
-Öffne nun die Datei Contributors.md in deinem Texteditor und füge deinen Namen hinzu – irgendwo zwischen den vorhandenen Namen. Speichere die Datei anschließend.
-
-Klonen Sie das Repository mit der Zeichenkette, die Sie im obigen Schritt kopiert haben, mit diesem Befehl
-
-Führe in deinem Projektverzeichnis den Befehl git status aus, um die Änderungen zu sehen.
-
-`git clone <repo-url>`
-
-Füge deine Änderungen mit dem folgenden Befehl zur erstellten Branch hinzu:
-
-<img src="https://firstcontributions.github.io/assets/cli-tool-tutorials/git-bash-windows-tutorial/gb-clone-2.png" alt="clone the repository" />
-
-bash
-
-Gehen Sie zu dem Verzeichnis, in dem sich das Repository befindet, und öffnen Sie es in VS Code, um Ihre Änderungen vorzunehmen.Copy code
-
-git add Contributors.md
-
-<img src="https://firstcontributions.github.io/assets/cli-tool-tutorials/git-bash-windows-tutorial/gb-terminal-3.png" alt="cd into the newly cloned repo" />Dann committe die Änderungen mit:
-
-
-
-## Erstellen Sie einen Branchbash
-
-Copy code
-
-Erstellen Sie jetzt einen Branch mit diesem einfachen Befehl. Dieser Befehl erstellt nicht nur einen Branch für Sie, sondern hilft Ihnen auch, zu diesem Branch zu wechseln.git commit -m "Add your-name to Contributors list"
-
-Ersetze your-name durch deinen tatsächlichen Namen.
-
 ```
 
-git checkout -b <branch-name>Änderungen zu GitHub pushen
+Folgen Sie den Anweisungen und schon sind wir bereit!
 
-```Nutze diesen Befehl, um deine Änderungen zu pushen:
+# Dieses Repository forken
 
+Dies ist ganz einfach mit diesem Befehl:
 
+```bash
+gh repo fork firstcontributions/first-contributions
+```
 
-Geben Sie Ihrem Branch den Namen `<add-your-name>`. Zum Beispiel "add-james-smith"bash
+**WICHTIG: Es wird Sie fragen, ob Sie das Repository auch klonen möchten, wählen Sie "Ja"**
 
-Copy code
+# Erstellen Sie Ihren Branch
 
-<img src="https://firstcontributions.github.io/assets/cli-tool-tutorials/git-bash-windows-tutorial/gb-branch.png" alt="create a branch" />git push origin -u your-branch-name
+Wir machen diesen Schritt mit `git`. Geben Sie diesen Befehl ein und ersetzen Sie ihn durch Ihren Namen. Zum Beispiel: (Ersetzen Sie john-doe durch Ihren Namen)
 
-Ersetze your-branch-name mit dem Namen deines Branches, den du zuvor erstellt hast.
+```bash
+git switch -c add-john-doe
+```
 
-## Nehmen Sie die erforderlichen Änderungen vor und übernehmen Sie diese
+# Nehmen Sie erforderliche Änderungen vor und führen Sie diese durch
 
-<details><summary><strong>Wenn du beim Pushen Fehler bekommst, klicke hier:</strong></summary></details>
+Öffnen Sie jetzt die `Contributors.md`-Datei in einem Texteditor und fügen Sie Ihren Namen hinzu. Platzieren Sie Ihren Namen zwischen den bestehenden Namen, speichern Sie die Datei dann.
 
-Öffnen Sie jetzt die Datei `Contributors.md` in einem Texteditor, scrollen Sie zum Ende der Seite und fügen Sie Ihren Namen hinzu, speichern Sie dann die Datei.Authentifizierungsfehler
+Führen Sie `git status` in Ihrem Projektverzeichnis aus und Sie werden die Änderungen sehen.
 
-yaml
+Fügen Sie diese Änderungen mit dem `git add`-Befehl zu dem von Ihnen erstellten Branch hinzu:
+`git add Contributors.md`
 
-Beispiel: Wenn Ihr Name James Smith ist, sollte es wie folgt aussehen.Copy code
+Begehen Sie diese Änderungen nun mit dem `git commit`-Befehl: `git commit -m "Add your-name to Contributors list"`. Ersetzen Sie `your-name` durch Ihren Namen.
 
-remote: Die Unterstützung für Passwortauthentifizierung wurde am 13. August 2021 entfernt.
+# Schieben Sie Änderungen zu GitHub
 
-[James Smith](https://github.com/jamessmith)Bitte verwende stattdessen ein Personal Access Token.
+Verwenden Sie den `git push`-Befehl, um Ihre Änderungen zu übertragen:
 
-Weitere Informationen: https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/
+```bash
+git push origin -u your-branch-name
+```
 
-Sie können sehen, dass Änderungen an Contributors.md vorgenommen wurden, indem Sie einfach diesen Befehl ausführenfatal: Authentifizierung für 'https://github.com//first-contrib.git/' fehlgeschlagen
+Ersetzen Sie `your-branch-name` durch den Namen des Branches, den Sie zuvor erstellt haben.
 
-👉 Lies GitHubs Anleitung zum Erstellen und Konfigurieren eines SSH-Schlüssels.
+<details><summary><strong>Wenn Sie beim Verschieben Fehler bekommen, klicken Sie hier:</strong></summary></details>
 
-`git status`
+- ### Authentifizierungsfehler
+        Remote: Die Unterstützung für Passwortauthentifizierung wurde am 13. August 2021 entfernt. Verwenden Sie stattdessen bitte ein Personal Access Token. Remote: Weitere Informationen finden Sie unter https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/. Fatal: Authentifizierung für 'https://github.com//first-contrib.git/' fehlgeschlagen
+  [GitHub-Anleitung zum Erstellen und Konfigurieren eines SSH-Schlüssels für Ihr Konto](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account).
 
-Deine Änderungen zur Überprüfung einreichen
+# Reichen Sie Ihre Änderungen zur Überprüfung ein
 
-<img src="https://firstcontributions.github.io/assets/cli-tool-tutorials/git-bash-windows-tutorial/gb-status.png" alt="check the status" />Mit diesem Befehl in deinem Repository-Verzeichnis kannst du eine Pull Request erstellen:
+Nun können Sie diesen Befehl in unserem Repository-Verzeichnis ausführen, um eine Pull-Anfrage zur Überprüfung zu erstellen:
 
+```bash
+gh pr create --repo firstcontributions/first-contributions
+```
 
+Danach reichen Sie die Pull-Anfrage ein.
 
-Übernehmen Sie diese Änderungen jetzt:bash
+Sie können den `gh status`-Befehl verwenden, um Ihren erwähnten Pull-Request in Aktion zu sehen.
 
-Copy code
+## Wohin von hier?
 
-Fügen Sie zuerst die von Ihnen vorgenommenen Änderungen zum Staging-Bereich hinzugh pr create --repo firstcontributions/first-contributions
+Herzlichen Glückwunsch! Sie haben gerade den Standard-Workflow Fork -> Clone -> Bearbeiten -> Pull-Anfrage abgeschlossen, dem Sie häufig als Mitwirkender begegnen werden!
 
-Danach sende die Pull Request ab.
+Feiern Sie Ihren Beitrag und teilen Sie ihn mit Ihren Freunden und Followern, indem Sie die [Web-App](https://firstcontributions.github.io/#social-share) besuchen.
 
-`git add file-name`
+Wenn Sie Hilfe benötigen oder Fragen haben, können Sie unserem Slack-Team beitreten. [Treten Sie dem Slack-Team bei](https://join.slack.com/t/firstcontributors/shared_invite/zt-vchl8cde-S0KstI_jyCcGEEj7rSTQiA).
 
-Um den Status deiner PR zu prüfen, kannst du den Befehl gh status verwenden.
+Jetzt können wir mit dem Beitrag zu anderen Projekten beginnen. Wir haben eine Liste von Projekten mit einfachen Problemen zusammengestellt, mit denen Sie anfangen können. [Sehen Sie sich die Liste der Projekte in der Web-App an](https://firstcontributions.github.io/#project-list).
 
-Schreiben Sie dann eine Commit-Nachricht mit diesem Befehl
-
-Wie geht es weiter?
-
-`git commit -m "Add your-name to Contributors list"`🎉 Herzlichen Glückwunsch! Du hast gerade den vollständigen Workflow „Fork -> Clone -> Edit -> Pull Request“ abgeschlossen – genau den, den du oft als Open-Source-Mitwirkender verwenden wirst!
-
-
-
-Ersetzen Sie `<your-name>` durch Ihren Namen.Feiere deinen Beitrag und teile ihn mit deinen Freunden und Followern über die Web-App.
-
-
-
-<img src="https://firstcontributions.github.io/assets/cli-tool-tutorials/git-bash-windows-tutorial/gb-commit.png" alt="commit changes" />Wenn du Hilfe brauchst oder Fragen hast, tritt unserem Slack-Team bei:
-
-Slack-Team beitreten
-
-Um zu sehen, ob Ihr Commit durchgeführt wurde, können Sie einen einfachen `git log --oneline` Befehl ausführen.
-
-Jetzt kannst du mit dem Beitragen zu anderen Projekten beginnen!
-
-## Übermitteln Sie Ihre Änderungen an githubWir haben eine Liste einfacher Projekte zusammengestellt, mit denen du starten kannst:
-
-Sieh dir die Projektliste in der Web-App an
-
-Sobald Sie die obigen Schritte abgeschlossen haben, können Sie Ihre Änderungen mit diesem Befehl übertragen
-
-Zusätzliches Material
-
-`git push origin <branch-name>`Tutorials mit anderen Tools
-
-Zurück zur Hauptseite
-
-<img src="https://firstcontributions.github.io/assets/cli-tool-tutorials/git-bash-windows-tutorial/gb-push.png" alt="push changes" />
-
-
-## Übermitteln Sie Ihre Änderungen zur Überprüfung
-
-Wenn Sie zu Ihrem Repository auf GitHub gehen, sehen Sie eine Schaltfläche `Compare & pull request`. Klicken Sie auf diese Schaltfläche.
-
-<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/compare-and-pull.png" alt="create a pull request" />
-
-Übermitteln Sie jetzt die Pull-Anfrage.
-
-<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/submit-pull-request.png" alt="submit pull request" />
-
-Bald werde ich alle Ihre Änderungen mit dem Hauptbranch dieses Projekts zusammenführen. Sie erhalten eine Benachrichtigungs-E-Mail, sobald die Änderungen zusammengeführt werden.
-
-## Wo geht es von hier aus weiter?
-
-Herzlichen Glückwunsch! Sie haben gerade den Standard-Workflow _fork -> clone -> edit -> PR_ abgeschlossen, dem Sie als Mitwirkender häufig begegnen werden!
-
-Feiern Sie Ihren Beitrag und teilen Sie ihn mit Ihren Freunden und Followern, indem Sie zur [Web-App](https://firstcontributions.github.io#social-share) gehen.
-
-Wenn Sie Hilfe benötigen oder Fragen haben, können Sie unserem Slack-Team beitreten. [Treten Sie dem Slack-Team bei](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
-
-### [Zusätzliches Material](../additional-material/git_workflow_scenarios/additional-material.md)
+### [Zusätzliches Material](additional-material/git_workflow_scenarios/additional-material.md)
 
 ## Tutorials mit anderen Tools
-[Zurück zur Hauptseite](https://github.com/firstcontributions/first-contributions#tutorials-using-other-tools)
 
-Zusätzliches Material
-Tutorials mit anderen Tools
 [Zurück zur Hauptseite](https://github.com/firstcontributions/first-contributions#tutorials-using-other-tools)
 
