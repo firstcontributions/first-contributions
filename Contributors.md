@@ -5,6 +5,7 @@
 - [Ishika Gupta](https://github.com/Ishika-guptaa25)
 - [Aswanth KT](https://github.com/aswanth-kt)
 - [Pratik Navghare] (https://github.com/navghare-pratik)
+- [Jatin Yadav] (https://github.com/jatin-yadav-sekwal)
 - [Uros Velickovic](https://github.com/UrosVel97)
 geogjegjegoiejgeroigjergjeoi
 -[Nimish Agrawal](https://github.com/nimishagrawal1405)❤️❤️❤️
