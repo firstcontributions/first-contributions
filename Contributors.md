@@ -1252,6 +1252,7 @@ geogjegjegoiejgeroigjergjeoi
 - [Emma Yu](https://github.com/jjy88)
 - [İbrahim Işıklı](https://github.com/ibrahim-isikli)
 - Jim Martin
+- [fistAttempt](https://github.com/nikhiltumma/first-contributions)
 - [xRookieFight](https://github.com/xRookieFight)
 - [Lexi] (https://github.com/allekzia)
 - [Diti] (https://github.com/diti0-dot)
