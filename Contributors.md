@@ -39,6 +39,7 @@ geogjegjegoiejgeroigjergjeoi
 - [Jeevika R](https://github.com/jeevikar14)
 - [Raghu Meka](https://github.com/RBMeka)
 - [Jeevika R]
+- [Sai Teja Venkata Vinay Adapa](https://github.com/22A31A0525)
 - [Carina Mach](https://github.com/carinamach)
 - [Kotyara5243](https://github.com/Kotyara5243)
 - [deepak mishra](https://github.com/BEPAWSITIVE)
