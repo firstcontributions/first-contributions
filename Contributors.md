@@ -1,10 +1,13 @@
 # Contributors
 - Shreya Mane (GitHub: shreyamane1526)
+- [Steve Harper](https://github.com/sjharper79)
 - [zaka](https://github.com/oraichezakariyae)
 - [Ishika Gupta](https://github.com/Ishika-guptaa25)
 - [Aswanth KT](https://github.com/aswanth-kt)
 - [Pratik Navghare] (https://github.com/navghare-pratik)
+- [Jatin Yadav] (https://github.com/jatin-yadav-sekwal)
 - [Uros Velickovic](https://github.com/UrosVel97)
+  [Taposh Kumer Ghosh](https://github.com/taposhkumer)
 geogjegjegoiejgeroigjergjeoi
 -[Nimish Agrawal](https://github.com/nimishagrawal1405)❤️❤️❤️
 - [B Pasha](https://github.com/baasilpasha)
@@ -12,6 +15,7 @@ geogjegjegoiejgeroigjergjeoi
 - [Pravien Powel](https://github.com/PravienPowel)
 - [NIKHIL GAJULA](https://github.com/nikhil07g)
 - [Omar Adel Youssif](https://github.com/OMar-Adelll)
+- [Leonardo Modesto Bernardoni](https://github.com/Leomb-coder)
 - [Dheeraj Kumar](https://github.com/Dheeraj-Kumar-8)
 - [Srihari Vernekar]
 - [Dennis Muchai](https://github.com/dmuchai)
@@ -590,6 +594,7 @@ geogjegjegoiejgeroigjergjeoi
 - [Erik-Heinzle00](https://github.com/Erik-Heinzle00)
 - [Max Rauber](https://github.com/maxrbr)
 - [Mark](https://github.com/markferritto)
+- [Phucdeptrai](https://github.com/caohoangphucs)
 - [bivekk51](https://github.com/bivekk51)
 - [barkinke](https://github.com/barkinke)
 - [DarKouto](https://github.com/DarKouto)
@@ -1018,6 +1023,7 @@ geogjegjegoiejgeroigjergjeoi
 - [OceanePez](https://github.com/OceanePez)
 - [Mariydi](https://github.com/mariydi)
 - [Aagam Parekh](https://github.com/aagparekh)
+- [Brian Vu](https://github.com/berriiacn)
 - [Gregory Williams II](https://github.com/gwilli2)
 - [Rahul Kumar](https://github.com/imrahul05)
 - [RahulRawat](https://github.com/RHL-RWT-01)
@@ -1140,6 +1146,7 @@ geogjegjegoiejgeroigjergjeoi
 - [Praise](https://github.com/Ph0enix22)
 - [Raja](https://github.com/EscapedfromQA)
 - [Amit Patil](https://github.com/meAmitPatil)
+- [Amit Saini](https://github.com/amitsaini2600)
 - [Hermes](https://github.com/Hermes-erm)
 - [Ammar Adnew](https://github.com/AmmarAdnew)
 - [Anaïs Gatard](https://github.com/AnaisG14)
@@ -1231,6 +1238,7 @@ geogjegjegoiejgeroigjergjeoi
 - [Omkar Gurav](https://github.com/OmkarGurav1)
   Yashwanth
 - [Pramod Dhungana](https://github.com/dhunganapramod9)
+- [Christian Luis] (https://github.com/christianLuis07)
 - [Ryan Kimutai](https://github.com/Ryank-80) -[Aloysius Owili](https://github.com/360koalabear) -[Shahryar Sohail](https://github.com/shahryar-sohail) -[Udhaya parameshwaran](https://github.com/UdhayaParameshwaran-ai) -[Emma Yu](https://github.com/jjy88)
 - Yashwanth
 - [Ryan Kimutai](https://github.com/Ryank-80)
