@@ -5,7 +5,7 @@
 - [zaka](https://github.com/oraichezakariyae)
 - [Ishika Gupta](https://github.com/Ishika-guptaa25)
 - [Aswanth KT](https://github.com/aswanth-kt)
-- [Debashis Kar](https://github.com/deba012)git status
+- [Debashis Kar](https://github.com/deba012)
 - [Pratik Navghare] (https://github.com/navghare-pratik)
 - [Jatin Yadav] (https://github.com/jatin-yadav-sekwal)
 - [Varshini](https://github.com/Varshini131)
