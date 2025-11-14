@@ -1263,4 +1263,4 @@ geogjegjegoiejgeroigjergjeoi
 - [Chandan Rajput] ("https://github.com/chandansingh2005/first-contributions")
 - [Samit Arias] ("https://github.com/samitarias/")
 - [Wenbo Wang](https://github.com/wenbo222)
-- [Mayur] ("https://github.com/Mayur404")
+- [Mayur]("https://github.com/Mayur404")
