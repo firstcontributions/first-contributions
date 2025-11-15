@@ -67,6 +67,7 @@ geogjegjegoiejgeroigjergjeoi
 - [charitha-369](https://github.com/charitha-369)
 - [Michael Wright](https://github.com/
 - Valentina fuentes, besitos jeje:3
+- Jia Yee (Hi! Hope your git learning journey goes well too!)
 - lumberjackwizard)
 - [Viraj Hudlikar](https://github.com/vhudlikar)
 - [Kishita Deotale](https://github.com/kishitadeotale24)
