@@ -1,4 +1,5 @@
 # Contributors
+
 - [LiBei1123](https://github.com/LiBei1123)
 - Shreya Mane (GitHub: shreyamane1526)
 - [Steve Harper](https://github.com/sjharper79)
@@ -13,9 +14,7 @@
 - [Uros Velickovic](https://github.com/UrosVel97)
 - [Divyom Srivastava](https://github.com/DivyomSrivastava)
   [Taposh Kumer Ghosh](https://github.com/taposhkumer)
-geogjegjegoiejgeroigjergjeoi
--[Nimish Agrawal](https://github.com/nimishagrawal1405)❤️❤️❤️
--[Gaurav S](https://github.com/garry00107)
+  geogjegjegoiejgeroigjergjeoi -[Nimish Agrawal](https://github.com/nimishagrawal1405)❤️❤️❤️ -[Gaurav S](https://github.com/garry00107)
 - [B Pasha](https://github.com/baasilpasha)
 - [Siddharth Pandey](https://github.com/siddharthpandey2211)
 - [Pravien Powel](https://github.com/PravienPowel)
@@ -25,6 +24,7 @@ geogjegjegoiejgeroigjergjeoi
 - [Dheeraj Kumar](https://github.com/Dheeraj-Kumar-8)
 - [Srihari Vernekar]
 - [Dennis Muchai](https://github.com/dmuchai)
+- [Natpu Enean](https://github.com/NatpuEnean)
 - [Syed Arham] -[Edward Dume](https://github.com/edwarddume55)
 - [Andrés Peña del Río](https://github.com/apenade)
   [Julian Cumps](https://github.com/juliancumps)
@@ -1271,9 +1271,9 @@ geogjegjegoiejgeroigjergjeoi
 - [Diti] (https://github.com/diti0-dot)
 - [Phil]
 - [Gihan Jeewantha](https://github.com/GihanJeewantha)
-- [Akshat Gupta]  (https://github.com/AK-GUPTA-20) (new Contributer)
+- [Akshat Gupta] (https://github.com/AK-GUPTA-20) (new Contributer)
 - [Kaushik Krishna] (https://github.com/MrKKGood)
 - [Suhas Magadum](https://github.com/Suhas-098)
 - [Berekia Obed](https://github.com/berekiao)
 - [Robins Karani](https://github.com/RobinsKarani)
-- [Taniya Kumari](https://github.com/taniya273) 
+- [Taniya Kumari](https://github.com/taniya273)
