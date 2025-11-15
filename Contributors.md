@@ -917,6 +917,7 @@ geogjegjegoiejgeroigjergjeoi
 - [Shriram Gupta](https://github.com/theshriramgupta)
 - [Shudan Luo](https://github.com/shudanluo)
 - [Mehedi Hasan Hridoy](https://github.com/mehedi-hridoy)
+- [0xp-g](https://github.com/0xp-g)
 - [Sidharth P](https://github.com/Sid-CodeX)
 - [Sina Soltani](https://github.com/sinaxzi)
 - [Anish Patil](https://github.com/Anish-Kodarkar)
