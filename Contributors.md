@@ -1290,3 +1290,4 @@
 - [polasisubash](https://github.com/polasisubash)
 - [Sabarivenkatesh](https://github.com/Sabarivenkatesh3)
 - [chandansingh](https://github.com/firstcontributions/first-contributions)
+- [Anuj Pal] (https://github.com/Anujj-debug/first-contributions?tab=readme-ov-file)
