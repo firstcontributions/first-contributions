@@ -754,6 +754,7 @@ geogjegjegoiejgeroigjergjeoi
 - [ronaldmirabal](https://github.com/ronaldmirabal)
 - [freshmess](https://github.com/freshmess)
 - [hectoru10](https://github.com/Hectoru10)
+- [Achere7](https://github.com/Achere7)
 - [specksbacon](https://github.com/SpecksBacon)
 - [Saood Ali](https://github.com/saood-ali)
 - [hridyam04](https://github.com/hridyam04)
