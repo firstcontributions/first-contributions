@@ -1,5 +1,4 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -8,6 +7,8 @@
 É difícil. É sempre difícil fazer algo pela primeira vez. Especialmente quando se está a colaborar, errar não é algo agradável. Mas *open source* (código aberto) trata-se de colaboração e de trabalharmos juntos. Queremos simplificar a forma com que novos colaboradores *open source* aprendem e contribuem pela primeira vez.
 
 Ler artigos e ver tutoriais pode ajudar, mas nada melhor do que realmente "pôr a mão na massa" sem estragar nada. Este projecto visa simplificar a forma com que os novatos fazem a sua primeira contribuição. Lembre-se: quanto mais relaxado(a) estiveres, melhor aprenderás. Se quiseres fazer a tua primeira contribuição, siga os passos abaixo. Nós prometemos, será divertido.
+
+Se não te sentires à vontade com a linha de comandos, [aqui tens tutoriais que usam as ferramentas GUI](#tutoriais-com-outras-ferramentas).
 
 Se ainda não tens o git na tua máquina, [instala-o aqui]( https://help.github.com/articles/set-up-git/ ).
 
@@ -23,7 +24,7 @@ Faz Fork clicando no botão "Fork" no topo desta página. Esta operação criar�
 Agora clona este repositório para a tua máquina local. Clique no botão "Clone or download" e, em seguida, clica no ícone "Copy to clipboard" para copiar o URL.
 
 Abre o teu terminal e executa o comando seguinte:
-```
+```bash
 git clone "url que copiou"
 ```
 onde "url que copiou" (sem as aspas) é o URL deste repositório. Consulte as etapas anteriores para obter o URL.
@@ -31,7 +32,7 @@ onde "url que copiou" (sem as aspas) é o URL deste repositório. Consulte as et
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copiar URL" />
 
 Por exemplo:
-```
+```bash
 git clone https://github.com/este-é-voce/first-contributions.git
 ```
 onde "este-é-voce" é o teu nome de usuário do GitHub. Aqui estás a copiar o conteúdo do repositório first-contributions para o teu computador.
@@ -39,17 +40,17 @@ onde "este-é-voce" é o teu nome de usuário do GitHub. Aqui estás a copiar o 
 ## Cria um Branch
 
 Vá para o diretório do repositório no teu computador (caso ainda não estejas lá):
-```
+```bash
 cd first-contributions
 ```
 
 Agora crie um novo Branch usando o comando `git checkout`:
-```
+```bash
 git checkout -b <add-teu-nome>
 ```
 
 Por exemplo:
-```
+```bash
 git checkout -b add-alonzo-church
 ```
 Obs.: O nome do Branch não precisa de ter a sigla "add", mas neste caso é recomendável, porque a finalidade deste Branch é a de adicionar o teu nome a uma lista.
@@ -57,11 +58,11 @@ Obs.: O nome do Branch não precisa de ter a sigla "add", mas neste caso é reco
 ## Efetua as alterações necessárias e faz um Commit
 
 Agora abra o ficheiro `Contributors.md` no teu editor de código, adiciona o teu nome e guarda o ficheiro. Se fores para o diretório do projeto e executares o comando `git status`, verás que há alterações. Adiciona essas alterações ao Branch que acabaste de criar utilizando o comando `git add`:
-```
+```bash
 git add Contributors.md
 ```
 Agora faz um Commit dessas alterações utilizando o comando `git commit`:
-```
+```bash
 git commit -m "Add <Teu-nome> to Contributors list"
 ```
 substitui `<Teu-nome>` pelo teu nome ou nickname.
@@ -69,7 +70,7 @@ substitui `<Teu-nome>` pelo teu nome ou nickname.
 ## Faz um Push das alterações para o GitHub
 
 Faz um Push utilizando o comando `git push`:
-```
+```bash
 git push origin <add-teu-nome>
 ```
 substitui `<add-teu-nome>` pelo nome do Branch que criaste anteriormente.
@@ -90,7 +91,7 @@ Quando puder incorporarei as tuas mudanças no Branch principal (master) deste p
 
 Celebra as tuas contribuições e partilha-as com amigos e seguidores através da [web app](https://firstcontributions.github.io/#social-share).
 
- Podes também juntar-te à nossa equipa no Slack caso precises de alguma ajuda ou tenhas alguma dúvida. [Junta-te à nossa equipa no Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
+Se quiseres praticar mais, acede a [code contributions](https://github.com/roshanjossey/code-contributions).
 
 Aqui estão alguns repositórios com Issues a nível de principiante em que tu podes ajudar a resolver. Vai em frente e clica nos repositórios para saber mais.
 
