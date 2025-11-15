@@ -1,5 +1,5 @@
 # Contributors
-
+- [gopaljilab](https://github.com/gopaljilab)
 - [LiBei1123](https://github.com/LiBei1123)
 - Shreya Mane (GitHub: shreyamane1526)
 - [Steve Harper](https://github.com/sjharper79)
@@ -14,7 +14,10 @@
 - [Uros Velickovic](https://github.com/UrosVel97)
 - [Divyom Srivastava](https://github.com/DivyomSrivastava)
   [Taposh Kumer Ghosh](https://github.com/taposhkumer)
-  geogjegjegoiejgeroigjergjeoi -[Nimish Agrawal](https://github.com/nimishagrawal1405)❤️❤️❤️ -[Gaurav S](https://github.com/garry00107)
+- geogjegjegoiejgeroigjergjeoi
+- [Nimish Agrawal](https://github.com/nimishagrawal1405)❤️❤️❤️
+- [Gaurav S](https://github.com/garry00107)
+- [I-eat-gays-v-pornoroshku](https://github.com/I-eat-gays-v-pornoroshku)
 - [B Pasha](https://github.com/baasilpasha)
 - [Siddharth Pandey](https://github.com/siddharthpandey2211)
 - [Pravien Powel](https://github.com/PravienPowel)
@@ -198,6 +201,7 @@
 - [Mohammadsaad10](https://github.com/Mohammadsaad10)
 - [Ndeye Sermy Mergane](https://github.com/Ndeye1000)
 - [Emmanuel Zelaya-Armenta](https://github.com/Emmanuel-ZA)
+- [Likhith S Gowda](https://github.com/Likhi2005)
 - [Vaishnavi Parodkar](https://github.com/vaishnavi-parodkar)
 - [Joshua Norris](https://github.com/Noshie23)
 - [santhosh teja santhosh teja](https://github.com/Yashs02-code)
@@ -751,6 +755,7 @@
 - [ronaldmirabal](https://github.com/ronaldmirabal)
 - [freshmess](https://github.com/freshmess)
 - [hectoru10](https://github.com/Hectoru10)
+- [Achere7](https://github.com/Achere7)
 - [specksbacon](https://github.com/SpecksBacon)
 - [Saood Ali](https://github.com/saood-ali)
 - [hridyam04](https://github.com/hridyam04)
@@ -1276,4 +1281,6 @@
 - [Suhas Magadum](https://github.com/Suhas-098)
 - [Berekia Obed](https://github.com/berekiao)
 - [Robins Karani](https://github.com/RobinsKarani)
-- [Taniya Kumari](https://github.com/taniya273)
+- [Taniya Kumari](https://github.com/taniya273) 
+- [maclaccha](https://github.com/maclaccha)
+- [polasisubash](https://github.com/polasisubash)
