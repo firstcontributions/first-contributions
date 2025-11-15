@@ -1,5 +1,5 @@
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1n4y7xnk0-DnLVTaN6U9xLU79H5Hi62w)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -9,7 +9,7 @@
 
 _Եթե ​​ձեզ դուր չի գալիս հրամանի տողը, [այստեղ կան ձեռնարկներ՝ օգտագործելով GUI գործիքները](#tutorials-using-other-tools)_
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="պատառաքաղել այս պահոցը" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="վալեցրու այս պահեստը" />
 
 #### Եթե ​​դուք չունեք git ձեր մեքենայի վրա, [տեղադրեք այն](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
@@ -20,7 +20,7 @@ _Եթե ​​ձեզ դուր չի գալիս հրամանի տողը, [այստ
 
 ## Կլոնավորեք պահեստը
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="Կլոնավորեք պահեստը" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="պատճենիր այս պահեստը" />
 
 Այժմ կլոնավորեք պատառաքաղված պահոցը ձեր մեքենայի մեջ: Գնացեք ձեր GitHub հաշիվ, բացեք պատառաքաղված պահոցը, սեղմեք կոճակի կոճակը և սեղմեք _copy to clipboard_ պատկերակը.
 
@@ -32,7 +32,7 @@ git clone "url-ը որ դուք հենց նոր պատճենեցիք"
 
 որտեղ «url-ը, որը հենց նոր պատճենեցիր» (առանց չակերտների) այս պահոցի url-ն է (այս նախագծի ձեր պատառաքաղը): Դիտեք նախորդ քայլերը՝ URL-ը ստանալու համար
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="պատճենել URL-ը clipboard-ում" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="պատճենիր URL-ը կրծքաթելին" />
 
 Օրինակ:
 
@@ -66,7 +66,7 @@ git switch -c add-sarkis-cult
 
 Այժմ բացեք `Contributors.md` ֆայլը տեքստային խմբագրիչում, ավելացրեք ձեր անունը դրան: Մի ավելացրեք այն ֆայլի սկզբում կամ վերջում: Տեղադրեք այն ցանկացած տեղ արանքում: Այժմ պահեք ֆայլը.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git-ի վիճակը" />
 
 Եթե ​​գնաք նախագծի գրացուցակ և կատարեք `git status` հրամանը, կտեսնեք, որ փոփոխություններ կան.
 
@@ -108,21 +108,23 @@ git push -u origin your-branch-name
 
 Եթե ​​գնաք ձեր պահոց GitHub-ում, կտեսնեք `Compare & pull request` կոճակը: Սեղմեք այդ կոճակի վրա.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="ստեղծիր pull request" />
 
 Այժմ ներկայացրեք pull request-ը.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="ուղարկիր pull request" />
 
 Շուտով ես կմիավորեմ ձեր բոլոր փոփոխությունները այս նախագծի հիմնական ճյուղի մեջ: Փոփոխությունները միաձուլվելուց հետո դուք կստանաք ծանուցման նամակ.
 
 ## Որտեղ գնալ այստեղից?
 
+
 Շնորհավորում եմ Դուք հենց նոր ավարտեցիք ստանդարտ _fork -> clone -> edit -> pull request_ աշխատանքային հոսքը, որը հաճախ կհանդիպեք որպես ներդրող!
 
 Նշեք ձեր ներդրումը և կիսվեք այն ձեր ընկերների և հետևորդների հետ՝ գնալով [վեբ հավելված](https://firstcontributions.github.io/#social-share).
 
-Դուք կարող եք միանալ մեր Slack թիմին, եթե օգնության կարիք ունեք կամ հարցեր ունեք. [Միացե՛ք Slack թիմին](https://join.slack.com/t/firstcontributors/shared_invite/zt-1n4y7xnk0-DnLVTaN6U9xLU79H5Hi62w).
+Եթե ցանկանում եք ավելի շատ փորձ ձեռք բերել, տեսեք [ծածկագրի ներդրումները](https://github.com/roshanjossey/code-contributions)։
+
 
 Հիմա եկեք սկսենք ձեր ներդրումն ունենալ այլ նախագծերում: Մենք կազմել ենք հեշտ խնդիրներ ունեցող նախագծերի ցանկ, որոնցից կարող եք սկսել: Ստուգեք [վեբ հավելվածի նախագծերի ցանկը](https://firstcontributions.github.io/#project-list).
 

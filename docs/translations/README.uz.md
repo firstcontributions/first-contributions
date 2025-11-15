@@ -1,12 +1,11 @@
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
 # Birinchi hissalar
 
-Ushbu loyiha yangi boshlanuvchilarning birinchi hissasini qo'shish usullarini soddalashtirish va yo'naltirishga qaratilgan. Agar siz birinchi hissangizni qo'shmoqchi bo'lsangiz, quyidagi amallarni bajaring.
+Ushbu loyiha yangi boshlanuvchilarning birinchi hissasini(Contribution) qo'shish usullarini soddalashtirish va yo'naltirishga qaratilgan. Agar siz birinchi hissangizni qo'shmoqchi bo'lsangiz, quyidagi amallarni bajaring.
 
 _Agar buyruq satri sizga mos bo'lmasa, [Bu erda GUI vositalaridan foydalanib amalga oshirishga oid darsliklari mavjud](#boshqa-vositalardan-foydalanish-uchun-qollanmalar)_
 
@@ -18,7 +17,7 @@ _Agar buyruq satri sizga mos bo'lmasa, [Bu erda GUI vositalaridan foydalanib ama
 ## Bu repositoryni fork qilib oling
 
 Bu repositoryni ushbu sahifaning yuqorisidagi fork tugmasini bosish orqali fork qilib oling.
-Bu akkountingizda ushbu repositoryning nusxasini yaratadi.
+Bu hisobingizda ushbu repositoryning nusxasini yaratadi.
 
 ## Bu repositoryni klon qilib oling
 
@@ -29,10 +28,10 @@ Endi fork qilingan repositoryni kompyuteringizga klon qiling. GitHub akkountingi
 Terminalni oching va quyidagi git buyruqlarini yurg'izing:
 
 ```bash
-git clone "siz horizgina ko'chirib olgan url"
+git clone "siz hozirgina ko'chirib olgan url"
 ```
 
-bu yerda "siz horizgina ko'chirib olgan url" (qo'shtirnoqlarsiz) ushbu repositoryning (siz fork qilingan proyekt) 'URL'idir. URLni olish uchun oldingi bosqichlarni ko'ring.
+bu yerda "siz hozirgina ko'chirib olgan url" (qo'shtirnoqlarsiz) ushbu repositoryning (siz fork qilingan proyekt) 'URL'idir. URLni olish uchun oldingi bosqichlarni ko'ring.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="urlni klipboardga ko'chiring" />
 
@@ -42,7 +41,7 @@ Misol uchun:
 git clone https://github.com/bu-siz/first-contributions.git
 ```
 
-bu yerdagi `bu-siz` sizning Github akkount nomingiz (username). Bu yerda Githubdagi  first-contributions repositorysining kontentlarini kompyuteringizga
+bu yerdagi `bu-siz` sizning Github hisobingiz nomi (username). Bu yerda Githubdagi  first-contributions repositorysining kontentlarini kompyuteringizga
 ko'chiryapsiz.
 
 ## Branch yaratish
@@ -62,16 +61,16 @@ git switch -c yangi-branch-nomingiz
 Misol uchun:
 
 ```bash
-git switch -c add-aliml92
+git switch -c new_branch # yangi branch 
 ```
 
-## Kerakli o'zgarishlarni qiling va bu o'zgarishlarni commit qiling
+## O'zgartirishlar kiriting va commit yarating!
 
 Endi matn muharririda `Contributors.md` faylini oching, unga ismingizni qo'shing. Uni faylning boshiga yoki oxiriga qo'shmang. Uni istalgan o'rta qismga  qo'shing. Endi faylni saqlang.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
-Agar proyekt papkasiga o'tsangiz va `git status` buyrug'ini yurg'izsangiz, o'zgarishlar borligini ko'rasiz.
+Agar proyekt papkasiga o'tsangiz va `git status` buyrug'ini ishga tushirsangiz, o'zgarishlar borligini ko'rasiz.
 
 `git add` buyrug'i yordamida hosil qilgan branchingizga o'zgarishlarni qo'shing:
 
@@ -82,7 +81,7 @@ git add Contributors.md
 Endi `git commit` buyrug'i yordamida bu o'zgarishlarni commit qiling:
 
 ```bash
-git commit -m "Contributors royxatiga ismingiz-ni kiritish"
+git commit -m "Contributors ro'yxatiga ismingiz-ni kiritish"
 ```
 `ismingiz-` ni o'rniga o'zingizni ismingizni yozing.
 
@@ -91,10 +90,8 @@ git commit -m "Contributors royxatiga ismingiz-ni kiritish"
 `git push` buyrug'i bilan o'zgartishlaringizni push qiling:
 
 ```bash
-git push origin -u yangi-branch-nomingiz
+git push origin -u new_branch # siz yaratgan yangi branch
 ```
-
-albatta, `yangi-branch-nomingiz` ni biroz oldin yaratgan branch nomiga almashtirgan holda.
 
 <details>
 <summary> <strong>Push qilish vaqtida biror xatolarni ko'rsangiz, bu yerni bosing</strong> </summary>
@@ -112,11 +109,11 @@ Akkountingizga SSH kalit yaratish va konfiguratsiya qilish uchun [GitHub qo'llan
 
 ## O'zgartirishlaringizni ko'rib chiqilishi uchun topshirish
 
-Agar Githubdagi repositoryingizga o'tsangiz, `Compare & pull request` tugmasini ko'rasiz. O'sha tugmani bosing.
+Agar Githubdagi repositoryingizga o'tsangiz, `Compare & pull request` tugmasini ko'rasiz. Shu tugma ustiga bosing!.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="pull request hosil qilish" />
 
-Endi pull requestni submit qiling.
+Endi Pull Requestni submit qiling.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="pull request submit qilish" />
 
@@ -124,12 +121,14 @@ Tez orada men sizning barcha o'zgarishlaringizni ushbu proyektning main branchig
 
 ## Bu yerdan qayerga borish?
 
-Tabriklayman! Siz horizgina contributor sifatida tez-tez uchraydigan standard ish ketma-ketligi ya'ni _fork -> clone -> edit -> pull request_ ni tamonladingiz.
+Tabriklayman! Siz hozirgina contributor sifatida tez-tez uchraydigan standard ish ketma-ketligi ya'ni _fork -> clone -> edit -> pull request_ ni tamonladingiz.
 
 Hissangizni nishonlang va [web app](https://firstcontributions.github.io/#social-share)ga o'tish orqali do'stlaringizga va ergashuvchilaringizga ulashing.
 
+Agar koʻproq mashq qilishni istasangiz, [kod hissalarini](https://github.com/roshanjossey/code-contributions) tekshiring.
 
-Agar sizga yordam kerak bo'lsa yoki savollaringiz bo'lsa, bizning slack jamoamizga qo'shilishingiz mumkin.[Slack jamoasiga qo'shiling](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
+
+
 
 Endi boshqa proyektlarga hissa qo‘shishni boshlaylik. Siz boshlashingiz mumkin bo'lgan oson masalalar bilan proyektlar ro'yxatini tuzdik. Ko'zdan kechiring [web appdagi proyektlar ro'yxati](https://firstcontributions.github.io/#project-list).
 

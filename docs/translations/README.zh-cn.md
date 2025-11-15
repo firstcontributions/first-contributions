@@ -1,7 +1,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
+
 
 # 第一次参与开源项目
 
@@ -11,7 +11,7 @@
 
 _如果你对 command line（命令行）不熟悉，请参考以下的 [GUI 工具教程](#使用其他工具的教程)。_
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="复制此仓库代码" />
 
 #### 如果你的电脑上未安装 git, 请参考 [GitHub 文档](https://docs.github.com/cn/get-started/quickstart/set-up-git) 进行安装。
 
@@ -22,7 +22,7 @@ _如果你对 command line（命令行）不熟悉，请参考以下的 [GUI 工
 
 ## Clone（克隆）代码仓库
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="克隆此仓库代码" />
 
 接下来将复制的代码仓库克隆到你的电脑上。点击图示中的绿色按钮，接着点击复制到剪切板按钮（将代码仓库地址复制下来）
 
@@ -33,7 +33,7 @@ git clone "刚才复制的 url 链接"
 ```
 "刚才复制的 url 链接"（去掉双引号）就是复制到你账户名下的代码仓库地址。获取该链接的方法详见上一步。
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="将url链接复制到剪贴板" />
 
 譬如：
 ```bash
@@ -65,7 +65,7 @@ git switch -c add-myname
 
 打开 `Contributors.md` 这个文件，更新文件内容，将你的名字加上去，保存修改。`git status` 这命令会列出被改动的文件。接着 `git add` 这命令则可以添加你的改动，就像如下这条命令。
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="修改`Contributors.md`后的git状态" />
 
 ```bash
 git add Contributors.md
@@ -100,11 +100,11 @@ git push origin <分支的名称>
 
 前往你的 Github 代码仓库，你会看到一个 `Compare & pull request` 的按钮。点击该按钮。
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="创建 pull request" />
 
 接着再点击 `Create pull request` 按钮，正式提交 pull request。
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="提交 pull request" />
 
 不久之后，我便会把你所有的变化合并到这个项目的主分支。更改合并后，你会收到一封电子邮件通知。
 
@@ -112,11 +112,13 @@ git push origin <分支的名称>
 
 ## 接下来该做什么呢？
 
+祝贺！你刚刚完成了作为贡献者经常会使用到的标准流程：_fork -> clone -> edit -> pull request_ ！
+
 为你的第一次贡献庆祝吧，不要忘记和你的朋友以及你的小迷弟小迷妹们分享我们的[网站](https://roshanjossey.github.io/first-contributions/#social-share)哟！
 
-如果有任何疑问或想获得更多协助，欢迎加入我们的 [Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)！
+如果您想更多练习，请查看 [code contributions](https://github.com/roshanjossey/code-contributions)。
 
-还在等什么，马上加入到其他项目的开发中去吧！为了方便你快速上手，我们收集了当前流行的众多代码仓库中，适合初学者解决的[问题列表](https://firstcontributions.github.io/#project-list)。
+接下来，让我们带你开始参与到其他项目中来。我们整理了一份包含一些简单入门问题的项目清单，方便你快速上手。请查看这个[项目清单](https://firstcontributions.github.io/#project-list)。
 
 ### [附加材料](additional-material/git_workflow_scenarios/additional-material.md)
 
