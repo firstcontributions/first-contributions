@@ -242,6 +242,7 @@ geogjegjegoiejgeroigjergjeoi
 - [Angel Pauly](https://github.com/angelpauly)
 - [Hamza Khalid](https://github.com/Hamza-Khaalid)
 - [Max Kutepov](https://github.com/MaximKutepov)
+- [krd-knt](https://github.com/krd-knt)
 - [Sid-5137](https://github.com/Sid-5137)
 - [Vibhor Kumbhare](https://github.com/KingVibhor)
 - [Rick C](https://github.com/rccoder22)
