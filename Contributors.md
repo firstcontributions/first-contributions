@@ -1253,6 +1253,7 @@ geogjegjegoiejgeroigjergjeoi
 - [Aloysius Owili](https://github.com/360koalabear)
 - [Shahryar Sohail](https://github.com/shahryar-sohail)
 - [Udhaya parameshwaran](https://github.com/UdhayaParameshwaran-ai)
+- [yuxingyu520](https://github.com/yuxingyu520/first-contributions.git)
 - [Emma Yu](https://github.com/jjy88)
 - [İbrahim Işıklı](https://github.com/ibrahim-isikli)
 - Jim Martin
