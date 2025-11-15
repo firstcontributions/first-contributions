@@ -85,6 +85,7 @@ geogjegjegoiejgeroigjergjeoi
 - [Brandon B Bolivar](https://github.com/AvoBolivar)
 - [Daniel CL](https://github.com/danielcl01)
 - [Sergi AS](https://github.com/SASGit2025)
+- [Sujal](https://github.com/sujaldarji)
 - [Joy Natalie](https://github.com/joynatalie1/)
 - [Saad Rouyass](https://github.com/saadRouyass/)
 - [Ashutosh](https://github.com/Ashutosh9470)
