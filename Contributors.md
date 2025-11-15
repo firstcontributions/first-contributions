@@ -140,6 +140,7 @@
 - [Aditya Karan](https://github.com/Karan2805-glitch)
 - [sanjana kamat](https://github.com/SA123nJaNa1234)
 - [Hassan Najam](https://github.com/Hassan5117)
+- [Ittii7](https://github.com/Ittii7)
 - [Abdelkader Charef Eddine Djellil (djacbi)](https://github.com/AbdelkaderCE/)
 - [Vaibhav Bakliwal](https://github.com/bakliwalvaibhav1)
 - [Jams The Great](https://www.youtube.com/watch?v=xvFZjo5PgG0)
