@@ -1264,3 +1264,4 @@ geogjegjegoiejgeroigjergjeoi
 - [Diti] (https://github.com/diti0-dot)
 - [Phil]
 - [Gihan Jeewantha](https://github.com/GihanJeewantha)
+- [Akshat Gupta]  (https://github.com/AK-GUPTA-20) (new Contributer)
