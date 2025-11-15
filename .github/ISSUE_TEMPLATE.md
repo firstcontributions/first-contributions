@@ -10,7 +10,7 @@
 
 💡 **Possible solutions**
 <!--- Not obligatory, but suggest an idea for implementing addition or change -->
-
+-> If you're using VS code may be the .md files unable to load the solution to disable the extensions and then check again.
 📋  **Steps to solve the problem**
 
 *   Comment below about what you've started working on.
