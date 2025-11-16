@@ -480,6 +480,7 @@
 - [Aicirou](https://github.com/Aicirou)
 - [Adil KM](https://github.com/Adil-km)
 - [AvAdiii](https://github.com/AvAdiii)
+- [Zencriel](https://github.com/Zencriel)
 - [OmkarS](https://github.com/omkar402)
 - [Hisham](https://github.com/sikehish)
 - [Gerald](https://github.com/Gerose316)
