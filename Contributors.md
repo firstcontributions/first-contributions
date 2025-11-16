@@ -1,4 +1,5 @@
-# Contributors 
+# Contributors
+
 - [mirza](https://github.com/imhasnain)
 - [Shiva Yadav](https://github.com/shiva-yadav-ds)
 - [gopaljilab](https://github.com/gopaljilab)
@@ -422,6 +423,7 @@
 - [VizzScript](https://github.com/vizzscript)
 - [0scrxk](https://github.com/oscrxk)
 - [mheavey](https://github.com/mheavey2)
+- [MMALI3287](https://github.com/MMALI3287)
 - [deep9x](https://github.com/deep9x)
 - [Yash aka Light](https://github.com/y8done)
 - [devoceon](https://github.com/emy3)
@@ -1290,7 +1292,7 @@
 - [Suhas Magadum](https://github.com/Suhas-098)
 - [Berekia Obed](https://github.com/berekiao)
 - [Robins Karani](https://github.com/RobinsKarani)
-- [Taniya Kumari](https://github.com/taniya273) 
+- [Taniya Kumari](https://github.com/taniya273)
 - [maclaccha](https://github.com/maclaccha)
 - [polasisubash](https://github.com/polasisubash)
 - [Sabarivenkatesh](https://github.com/Sabarivenkatesh3)
