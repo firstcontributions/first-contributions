@@ -1253,6 +1253,7 @@
 - [mohnish](https://github.com/Mohnish27-dev)
 - [sathvikkv](https://github.com/sathvikkv556)
 - [on3ss](https://github.com/on3ss)
+- [PrithviKiranm791](https://github.com/PrithviKiran791)
 - [Kamakshi](https://github.com/kamakshipal1-tech)
 - [jiakeboge](https://github.com/jiakeboge)
 - [LoongSir-ME](https://github.com/LoongSir-ME)
