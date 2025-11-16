@@ -1305,3 +1305,4 @@
 - [Gabriel Soares](https://github.com/gbrlzzz)
 - [divyanshu]
 - [Hysiren](https://github.com/Hysiren)
+- [codingjordan](https://github.com/codyjordan)
