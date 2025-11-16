@@ -1,4 +1,5 @@
-# Contributors
+# Contributors 
+- [mirza](https://github.com/imhasnain)
 - [Shiva Yadav](https://github.com/shiva-yadav-ds)
 - [gopaljilab](https://github.com/gopaljilab)
 - [LiBei1123](https://github.com/LiBei1123)
