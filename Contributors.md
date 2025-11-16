@@ -1021,6 +1021,7 @@
 - [Jediss](https://github.com/Jediss)
 - [João Inacio](https://github.com/J-Inacio)
 - [Valdivino Ferreira Borges Neto](https://github.com/ValdivinoFerreira)
+- [Ganesh Thoutam](https://github.com/ganeshthoutam)
 - [Khushi Singh](https://github.com/mekhushi)
 - [Kimjunseoo](https://github.com/kimjunseoo)
 - [Koichi-Kodama](https://github.com/Kytoshi)
