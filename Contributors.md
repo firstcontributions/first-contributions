@@ -110,6 +110,7 @@
 - [Issa Issack](https://github.com/essaissa)
 - [Tracey Dingman](https://github.com/tdingman422)
 - [Brayden Monthei](https://github.com/Brayden-Monthei)
+- [Tanishqa S](https://github.com/tan-99)
 - [Afsheen Nadaf](https://github.com/afsheen-nadaf)
 - [Daniel Li](https://github.com/FallingSky65)
 - [Andrew Park](https://github.com/AndePark)
