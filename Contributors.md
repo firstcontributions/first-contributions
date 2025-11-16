@@ -1,4 +1,5 @@
-# Contributors
+# Contributors 
+- [mirza](https://github.com/imhasnain)
 - [Shiva Yadav](https://github.com/shiva-yadav-ds)
 - [gopaljilab](https://github.com/gopaljilab)
 - [LiBei1123](https://github.com/LiBei1123)
@@ -110,6 +111,7 @@
 - [Issa Issack](https://github.com/essaissa)
 - [Tracey Dingman](https://github.com/tdingman422)
 - [Brayden Monthei](https://github.com/Brayden-Monthei)
+- [Tanishqa S](https://github.com/tan-99)
 - [Afsheen Nadaf](https://github.com/afsheen-nadaf)
 - [Daniel Li](https://github.com/FallingSky65)
 - [Andrew Park](https://github.com/AndePark)
@@ -131,6 +133,7 @@
 - [Lakshmi Kamalanjali Mandalika](https://github.com/Kamalanjali)
 - [Abin Madathil](https://github.com/abinmadathil)
 - [Omar Fayyaz](https://github.com/KangarooAlpha)
+- [Fuad](https://github.com/code-fuad)
 - [Prince Yadav](https://github.com/warrior-hub)
 - [Savaj Drashti](https://github.com/SavajDrashti)
 - [Hyreen Matara](https://github.com/hyreen-web)
@@ -150,6 +153,7 @@
 - [Shaurya Agrawal](https://github.com/Cranberry7)
 - [Heby Paul](https://github.com/hebypaul/)
 - [Lalith Krishna Vangara](https://github.com/VLK-123)
+- [Inigo Montoya]()
 - [Ankit Singh](https://github.com/ANKITsingh-git2)
 - [Wilmer Gulcochia](https://github.com/wigsdev)
 - [Test Perfil 1](https://github.com/test-git001)
@@ -478,6 +482,7 @@
 - [Aicirou](https://github.com/Aicirou)
 - [Adil KM](https://github.com/Adil-km)
 - [AvAdiii](https://github.com/AvAdiii)
+- [Zencriel](https://github.com/Zencriel)
 - [OmkarS](https://github.com/omkar402)
 - [Hisham](https://github.com/sikehish)
 - [Gerald](https://github.com/Gerose316)
@@ -1018,6 +1023,7 @@
 - [Jediss](https://github.com/Jediss)
 - [João Inacio](https://github.com/J-Inacio)
 - [Valdivino Ferreira Borges Neto](https://github.com/ValdivinoFerreira)
+- [Ganesh Thoutam](https://github.com/ganeshthoutam)
 - [Khushi Singh](https://github.com/mekhushi)
 - [Kimjunseoo](https://github.com/kimjunseoo)
 - [Koichi-Kodama](https://github.com/Kytoshi)
@@ -1279,6 +1285,7 @@
 - [xRookieFight](https://github.com/xRookieFight)
 - [Lexi] (https://github.com/allekzia)
 - [Diti] (https://github.com/diti0-dot)
+- [SYTP]
 - [Phil]
 - [Gihan Jeewantha](https://github.com/GihanJeewantha)
 - [Akshat Gupta] (https://github.com/AK-GUPTA-20) (new Contributer)
@@ -1292,4 +1299,7 @@
 - [Sabarivenkatesh](https://github.com/Sabarivenkatesh3)
 - [chandansingh](https://github.com/firstcontributions/first-contributions)
 - [Anuj Pal] (https://github.com/Anujj-debug/first-contributions?tab=readme-ov-file)
-- [Adam](https://github.com/AdamAbbas23) - hi my first contribution
+- [Arti Shelar](https://github.com/shelararti)
+- [Gabriel Soares](https://github.com/gbrlzzz)
+- [divyanshu]
+- [Hysiren](https://github.com/Hysiren)
