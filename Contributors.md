@@ -1279,6 +1279,7 @@
 - [xRookieFight](https://github.com/xRookieFight)
 - [Lexi] (https://github.com/allekzia)
 - [Diti] (https://github.com/diti0-dot)
+- [SYTP]
 - [Phil]
 - [Gihan Jeewantha](https://github.com/GihanJeewantha)
 - [Akshat Gupta] (https://github.com/AK-GUPTA-20) (new Contributer)
@@ -1293,3 +1294,4 @@
 - [chandansingh](https://github.com/firstcontributions/first-contributions)
 - [Anuj Pal] (https://github.com/Anujj-debug/first-contributions?tab=readme-ov-file)
 - [Arti Shelar](https://github.com/shelararti)
+- [Gabriel Soares](https://github.com/gbrlzzz)
