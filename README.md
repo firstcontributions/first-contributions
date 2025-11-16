@@ -108,25 +108,53 @@ This will create a copy of this repository in your account.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone the repository" />
 
-Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button, then on SSH tab and then click the _copy url to clipboard_ icon.
+Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, and click on the green "Code" button.
+
+### Choose Your Cloning Method:
+
+#### Option 1: HTTPS (Recommended for Beginners)
+
+If you're new to Git and GitHub, **HTTPS is the easiest method** as it doesn't require any additional setup.
+
+1. Click on the "HTTPS" tab in the dropdown
+2. Click the copy icon to copy the URL to your clipboard
 
 Open a terminal and run the following git command:
-
-```bash
+```
 git clone "url you just copied"
 ```
 
-where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
+For example:
+```
+git clone https://github.com/this-is-you/first-contributions.git
+```
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+where `this-is-you` is your GitHub username.
+
+#### Option 2: SSH (For Advanced Users)
+
+If you have already set up SSH keys with your GitHub account, you can use SSH:
+
+1. Click on the "SSH" tab in the dropdown
+2. Click the copy icon to copy the URL to your clipboard
+
+Open a terminal and run the following git command:
+```
+git clone "url you just copied"
+```
 
 For example:
-
-```bash
+```
 git clone git@github.com:this-is-you/first-contributions.git
 ```
 
-where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
+where `this-is-you` is your GitHub username.
+
+> **Note:** If you haven't set up SSH keys yet and want to use this method, follow [GitHub's guide on generating SSH keys](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent).
+
+### After Cloning
+
+Regardless of which method you chose, you're now copying the contents of the first-contributions repository from GitHub to your computer.
 
 ## Create a branch
 
