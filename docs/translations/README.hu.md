@@ -96,7 +96,7 @@ Helyettesítsd az `<a-branch-neve>` kifejezést annak a branchnek a nevével, am
 
 Ha a saját repódba navigálsz GitHub-on, látnod kell a `Compare & pull request` gombot. Kattints rá!
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt"hozz létre egy pull request-et" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="hozz létre egy pull request-et" />
 
 Sikeresen elküldted a pull requested.
 
