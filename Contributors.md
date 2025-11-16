@@ -1285,6 +1285,7 @@
 - ZzX_Tt
 - [fistAttempt](https://github.com/nikhiltumma/first-contributions)
 - [xRookieFight](https://github.com/xRookieFight)
+- [anesmeftah](https://github.com/anesmeftah)
 - [Lexi] (https://github.com/allekzia)
 - [Diti] (https://github.com/diti0-dot)
 - [SYTP]
