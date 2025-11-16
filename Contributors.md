@@ -1301,4 +1301,5 @@
 - [Arti Shelar](https://github.com/shelararti)
 - [Gabriel Soares](https://github.com/gbrlzzz)
 - [divyanshu]
--[Tanya Agrawal](https://github.com/tanya-agrawal4/first-contributions)
+-[Tanya Agrawal](https://github.com/tanya-agrawal4)
+
