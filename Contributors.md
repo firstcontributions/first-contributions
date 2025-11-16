@@ -1298,3 +1298,4 @@
 - [Anuj Pal] (https://github.com/Anujj-debug/first-contributions?tab=readme-ov-file)
 - [Arti Shelar](https://github.com/shelararti)
 - [Gabriel Soares](https://github.com/gbrlzzz)
+- [divyanshu]
