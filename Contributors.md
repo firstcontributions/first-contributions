@@ -42,6 +42,7 @@
 - [Vaishnavi Suryawanshi](https://github.com/VaishnaviSW01)
 - [Vinay Kumar] (https://github.com/vinay123-ops)
 - [Brandon Busacker](https://github.com/bwbusacker)
+- [Vaidehi Kumawat](https://github.com/vkumaw)
 - [Augustine Chiu](https://github.com/achiu283)
 - [Aaron Stranathan](https://github.com/Aaronstran2015)
 - [Auditore2022](https://github.com/Auditore2022)
