@@ -693,6 +693,7 @@
 - [Vinay Joshi](https://github.com/Anigrl)
 - [Manjunatha H](https://github.com/Manjunatha-h)
 - [Rehan Halai](https://github.com/01-Rehan)
+- [David2030](https://github.com/www-David-dotcom)
 - [nisarg404](https://github.com/nisarg404)
 - [Sneha Jain](https://github.com/sj11105)
 - [Dakota Feist](https://github.com/DankYoda)
@@ -1126,6 +1127,7 @@
 - [kyiroywops](https://github.com/kyiroywops)
 - [lennyhurni](https://github.com/lennyhurni)
 - [diya](https://github.com/diyaj14)
+- [HarshNagpure]
 - [skyl3on](https://github.com/SkyL3on)
 - [Anoop Nair](https://github.com/Anoop017)
 - [lordzerato](https://github.com/lordzerato)
