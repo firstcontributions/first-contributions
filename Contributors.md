@@ -4,6 +4,7 @@
 - [gopaljilab](https://github.com/gopaljilab)
 - [LiBei1123](https://github.com/LiBei1123)
 - Shreya Mane (GitHub: shreyamane1526)
+- Lydia Abraham (GitHub: LydiaAbrahamF)
 - [Steve Harper](https://github.com/sjharper79)
 - [zaka](https://github.com/oraichezakariyae)
 - Knowledge Benjamin
