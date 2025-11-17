@@ -1313,6 +1313,7 @@
 - [polasisubash](https://github.com/polasisubash)
 - [Sabarivenkatesh](https://github.com/Sabarivenkatesh3)
 - [chandansingh](https://github.com/firstcontributions/first-contributions)
+- [tembomalinga]
 - [Anuj Pal] (https://github.com/Anujj-debug/first-contributions?tab=readme-ov-file)
 - [Arti Shelar](https://github.com/shelararti)
 - [Gabriel Soares](https://github.com/gbrlzzz)
