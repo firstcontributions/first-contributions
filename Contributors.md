@@ -1126,6 +1126,7 @@
 - [kyiroywops](https://github.com/kyiroywops)
 - [lennyhurni](https://github.com/lennyhurni)
 - [diya](https://github.com/diyaj14)
+- [HarshNagpure]
 - [skyl3on](https://github.com/SkyL3on)
 - [Anoop Nair](https://github.com/Anoop017)
 - [lordzerato](https://github.com/lordzerato)
