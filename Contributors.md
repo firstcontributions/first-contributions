@@ -1,5 +1,6 @@
 # Contributors 
 - [mirza](https://github.com/imhasnain)
+- [Vipin Mishra](https://github.com/VipinMI2024)
 - [Shiva Yadav](https://github.com/shiva-yadav-ds)
 - [gopaljilab](https://github.com/gopaljilab)
 - [LiBei1123](https://github.com/LiBei1123)
@@ -1319,3 +1320,5 @@
 - [Raymond Lam](https://github.com/raymondlamincanada-web)
 - [Mark Lee](https://github.com/mark-080383)
 - [Samyak Mittal](https://github.com/Samyak2605)
+
+
