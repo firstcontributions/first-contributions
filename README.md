@@ -113,7 +113,7 @@ Now clone the forked repository to your machine. Go to your GitHub account, open
 Open a terminal and run the following git command:
 
 ```bash
-git clone "url you just copied"
+git clone "https://github.com/firstcontributions/first-contributions/blob/master/git-commands.md"
 ```
 
 where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
