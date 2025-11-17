@@ -1320,3 +1320,4 @@
 - [Raymond Lam](https://github.com/raymondlamincanada-web)
 - [Mark Lee](https://github.com/mark-080383)
 - [Samyak Mittal](https://github.com/Samyak2605)
+- [Yining Jiang](https://github.com/Yining-Jiang)
