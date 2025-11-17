@@ -29,7 +29,7 @@ Most klónozd az elágaztatott repót a gépedre. Menj a GitHub fiókodra, nyisd
 
 Nyiss egy terminált és futtasd a következő parancsot:
 
-```
+```bash
 git clone "url-amit-most-masoltal-le"
 ```
 A "url-amit-most-masoltal-le" kifejezést, cseréld ki (idézőjelek nélkül) a vágólapra helyezett repository url címére (ami ebből a projektől ágazik). Az ágaztatás folyamatát lásd az előző lépésben.
@@ -37,7 +37,7 @@ A "url-amit-most-masoltal-le" kifejezést, cseréld ki (idézőjelek nélkül) a
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="másold az URL címet a vágólapra" />
 
 Például:
-```
+```bash
 git clone https://github.com/a-te-git-neved/first-contributions.git
 ```
 A `a-te-git-neved` lesz a GitHub felhasználóneved. Ezzel letöltöd a first-contributions repositoryt GitHub-ról a saját számítógépedre.
@@ -46,18 +46,18 @@ A `a-te-git-neved` lesz a GitHub felhasználóneved. Ezzel letöltöd a first-co
 
 Navigálj a repository könytárába (ha nem ott vagy jelenleg):
 
-```
+```bash
 cd first-contributions
 ```
 
 Most készítsünk egy ágat `git checkout` parancs használatával:
 
-```
+```bash
 git switch -c <az-uj-branch-neve>
 ```
 
 Például:
-```
+```bash
 git switch -c add-gabor-takacs
 ```
 (A branch nevében nem kötelező, hogy benne legyen az *add* szó, de észszerű belefoglalni, mert ennek az ágnak az a célja, hogy hozzáadja a nevünket egy listához.)
@@ -74,12 +74,12 @@ Ha a project könyvtárába navigálsz és futtatod a `git status` parancsot, ak
 
 Ezeket a módosításokat add hozzá a branchez a `git add` paranccsal:
 
-```
+```bash
 git add Contributors.md
 ```
 
 Commitoljuk a módosításokat a `git commit` paranccsal:
-```
+```bash
 git commit -m "Add <a-te-neved> to Contributors list"
 ```
 Helyettesítsd `<a-te-neved>` kifejezést a saját neveddel.
@@ -87,7 +87,7 @@ Helyettesítsd `<a-te-neved>` kifejezést a saját neveddel.
 ## Töltsd fel az elkészült változtatásokat a GitHub-ra (push)
 
 Töltsd fel a változtatásokat a `git push` paranccsal:
-```
+```bash
 git push origin <a-branch-neve>
 ```
 Helyettesítsd az `<a-branch-neve>` kifejezést annak a branchnek a nevével, amit korábban létrehoztál.
