@@ -97,7 +97,7 @@ _If you're not comfortable with command line, [here are tutorials using GUI tool
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork the repository" />
 
-#### If you don't have git on your machine, [install it](https://docs.github.com/en/get-started/quickstart/set-up-git).
+#### If Git is not installed on your system, please [install it](https://docs.github.com/en/get-started/quickstart/set-up-git) before proceeding.
 
 ## Fork this repository
 
