@@ -1285,6 +1285,7 @@
 - Jim Martin
 - ZzX_Tt
 - [fistAttempt](https://github.com/nikhiltumma/first-contributions)
+- [HarshithTeja](https://github.com/Harshith-Teja/)
 - [xRookieFight](https://github.com/xRookieFight)
 - [anesmeftah](https://github.com/anesmeftah)
 - [Lexi] (https://github.com/allekzia)
