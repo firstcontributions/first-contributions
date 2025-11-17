@@ -693,6 +693,7 @@
 - [Vinay Joshi](https://github.com/Anigrl)
 - [Manjunatha H](https://github.com/Manjunatha-h)
 - [Rehan Halai](https://github.com/01-Rehan)
+- [David2030](https://github.com/www-David-dotcom)
 - [nisarg404](https://github.com/nisarg404)
 - [Sneha Jain](https://github.com/sj11105)
 - [Dakota Feist](https://github.com/DankYoda)
