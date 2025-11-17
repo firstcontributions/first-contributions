@@ -4,6 +4,7 @@
 - [gopaljilab](https://github.com/gopaljilab)
 - [LiBei1123](https://github.com/LiBei1123)
 - Shreya Mane (GitHub: shreyamane1526)
+- Lydia Abraham (GitHub: LydiaAbrahamF)
 - [Steve Harper](https://github.com/sjharper79)
 - [zaka](https://github.com/oraichezakariyae)
 - Knowledge Benjamin
@@ -29,6 +30,7 @@
 - [Leonardo Modesto Bernardoni](https://github.com/Leomb-coder)
 - [Dheeraj Kumar](https://github.com/Dheeraj-Kumar-8)
 - [Srihari Vernekar]
+- [Vanshika jain](https://github.com/vanshika-jain3107)
 - [Dennis Muchai](https://github.com/dmuchai)
 - [Natpu Enean](https://github.com/NatpuEnean)
 - [Syed Arham] -[Edward Dume](https://github.com/edwarddume55)
@@ -97,7 +99,9 @@
 - [Joy Natalie](https://github.com/joynatalie1/)
 - [Saad Rouyass](https://github.com/saadRouyass/)
 - [Ashutosh](https://github.com/Ashutosh9470)
+- [valentinfazenda](https://github.com/valentinfazenda)
 - [Marco Vargas](https://github.com/Marco180800)
+- [SebastianSilv](https://github.com/SebastianSilv)
 - [Leonardo Garzon](https://github.com/Leonardo-Garzon-1995)
 - [technologic-technologic](https://github.com/technologic-technologic)
 - [Khizar Saqib](https://github.com/khizarkk7)
@@ -111,6 +115,7 @@
 - [Issa Issack](https://github.com/essaissa)
 - [Tracey Dingman](https://github.com/tdingman422)
 - [Brayden Monthei](https://github.com/Brayden-Monthei)
+- [Bethelhem Daniel](https://github.com/Bethel-21)
 - [Tanishqa S](https://github.com/tan-99)
 - [Afsheen Nadaf](https://github.com/afsheen-nadaf)
 - [Daniel Li](https://github.com/FallingSky65)
@@ -689,6 +694,7 @@
 - [Vinay Joshi](https://github.com/Anigrl)
 - [Manjunatha H](https://github.com/Manjunatha-h)
 - [Rehan Halai](https://github.com/01-Rehan)
+- [David2030](https://github.com/www-David-dotcom)
 - [nisarg404](https://github.com/nisarg404)
 - [Sneha Jain](https://github.com/sj11105)
 - [Dakota Feist](https://github.com/DankYoda)
@@ -1122,6 +1128,7 @@
 - [kyiroywops](https://github.com/kyiroywops)
 - [lennyhurni](https://github.com/lennyhurni)
 - [diya](https://github.com/diyaj14)
+- [HarshNagpure]
 - [skyl3on](https://github.com/SkyL3on)
 - [Anoop Nair](https://github.com/Anoop017)
 - [lordzerato](https://github.com/lordzerato)
@@ -1251,6 +1258,7 @@
 - [mohnish](https://github.com/Mohnish27-dev)
 - [sathvikkv](https://github.com/sathvikkv556)
 - [on3ss](https://github.com/on3ss)
+- [PrithviKiranm791](https://github.com/PrithviKiran791)
 - [Kamakshi](https://github.com/kamakshipal1-tech)
 - [jiakeboge](https://github.com/jiakeboge)
 - [LoongSir-ME](https://github.com/LoongSir-ME)
@@ -1283,7 +1291,9 @@
 - Jim Martin
 - ZzX_Tt
 - [fistAttempt](https://github.com/nikhiltumma/first-contributions)
+- [HarshithTeja](https://github.com/Harshith-Teja/)
 - [xRookieFight](https://github.com/xRookieFight)
+- [anesmeftah](https://github.com/anesmeftah)
 - [Lexi] (https://github.com/allekzia)
 - [Diti] (https://github.com/diti0-dot)
 - - [asrar-mared](https://github.com/asrar-mared)
