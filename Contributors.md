@@ -99,6 +99,7 @@
 - [Joy Natalie](https://github.com/joynatalie1/)
 - [Saad Rouyass](https://github.com/saadRouyass/)
 - [Ashutosh](https://github.com/Ashutosh9470)
+- [valentinfazenda](https://github.com/valentinfazenda)
 - [Marco Vargas](https://github.com/Marco180800)
 - [SebastianSilv](https://github.com/SebastianSilv)
 - [Leonardo Garzon](https://github.com/Leonardo-Garzon-1995)
