@@ -42,6 +42,7 @@
 - [Vaishnavi Suryawanshi](https://github.com/VaishnaviSW01)
 - [Vinay Kumar] (https://github.com/vinay123-ops)
 - [Brandon Busacker](https://github.com/bwbusacker)
+- [Vaidehi Kumawat](https://github.com/vkumaw)
 - [Augustine Chiu](https://github.com/achiu283)
 - [Aaron Stranathan](https://github.com/Aaronstran2015)
 - [Auditore2022](https://github.com/Auditore2022)
@@ -99,6 +100,7 @@
 - [Joy Natalie](https://github.com/joynatalie1/)
 - [Saad Rouyass](https://github.com/saadRouyass/)
 - [Ashutosh](https://github.com/Ashutosh9470)
+- [valentinfazenda](https://github.com/valentinfazenda)
 - [Marco Vargas](https://github.com/Marco180800)
 - [SebastianSilv](https://github.com/SebastianSilv)
 - [Leonardo Garzon](https://github.com/Leonardo-Garzon-1995)
@@ -595,6 +597,7 @@
 - [Mangelib](https://github.com/mangelib)
 - [Raghav](https://github.com/Raghav9871)
 - [Federico](https://github.com/Fede2717)
+- [Procyon]
 - [Liquuid1](https://github.com/Liquuid1)
 - [Dr4kfire](https://github.com/dr4kfire)
 - [cpescato](https://github.com/cpescato)
@@ -1321,4 +1324,5 @@
 - [Raymond Lam](https://github.com/raymondlamincanada-web)
 - [Mark Lee](https://github.com/mark-080383)
 - [Samyak Mittal](https://github.com/Samyak2605)
-- [Yining Jiang](https://github.com/Yining-Jiang)
+- [Abdulrahman Hamdi](https://github.com/abdulrahmanhamdi)
+
