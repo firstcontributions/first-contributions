@@ -1,59 +1,61 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
+
 # Mchango wa Kwanza
 
-Ni vigumu. Mara zote ni vigumu kufanya kitu kwa mara ya kwanza. Hasa kama unashirikiana na wengine, kufanya makosa sio jambo la kushangaza. Tulitaka kurahisisha namna ambavyo wachangiaji wapya wa mifumo ya wazi wanavyojifunza na kuchangia kwa mara ya kwanza.
 
-Kusoma makala na kuangalia mafunzo ya video yaweza kusaidia, lakini ni jambo lipi bora zaidi kuliko kufanya kwa vitendo katika mazingira ya kujifunzia? Mradi huu unalenga kutoa mwongozo na kurahisisha namna ambavyo wachangiaji wapya wanavyoweza kuchangia kwa mara ya kwanza. Ikiwa unataka kuchangia kwa mara ya kwanza , fuata hatua zifuatazo.
+Ni vigumu. Ni vigumu daima mara ya kwanza unafanya kitu. Hasa wakati unashirikiana, kufanya makosa sio jambo la kushangaza. Tulitaka kurahisisha njia mpya ya wafadhili wa kujifunza na kuchangia kwa mara ya kwanza.
 
-#### *Kama haujazoea kutumia 'command line', [waweza kutumia GUI.](#Makala ya namna ya kutumia nyenzo nyingine)*
+Kusoma makala na mafunzo ya kutazama yanaweza kusaidia, lakini ni nini bora zaidi kuliko kufanya mambo halisi katika mazingira ya mazoezi? Mradi huu unalenga kutoa mwongozo na kurahisisha wasanidi wa njia kufanya mchango wao wa kwanza. Ikiwa unatafuta kufanya mchango wako wa kwanza, fuata hatua zifuatazo.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fanya fork ya hazina hii" />
+#### *Ikiwa huna urahisi na mstari wa amri, [hapa ni mafunzo kwa kutumia zana za GUI.](#Mafundisho-Kutumia-Zana-Zingine)*
 
-Kama hauna git kwenye kompyuta yako, [pakua](https://help.github.com/articles/set-up-git/).
 
-## Tengeneza nakala ya repository kwenye akaunti yako ya Github
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-'Fork' repository hii kwa kubonyeza kitufe kilichopo juu ya ukurasa huu
-Kwa kufanya hivyo nakala ya repository hii itatengenezwa kwenye akaunti yako ya Github.
 
-## Tengeneza nakala ya repository kwenye kompyuta yako
+## Vuta hifadhi hii
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone hazina hii" />
+Vuta repo hii kwa kubonyeza kifungo cha fakia juu ya ukurasa huu. Hii itaunda nakala ya hifadhi hii katika akaunti yako.
 
-Sasa clone repository kwenye kompyuta yako. Nenda kwenye akaunti yako ya Github bonyeza kitufe kilichoandikwa clone na baada ya hapo bonyeza kitufe kilichoandikwa *copy to clipboard* icon.
+## Weka chumba
 
-Fungua terminal >_ kwenye kompyuta yako kisha command ifuatayo:
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+
+Sasa nakala repo iliyovutwa kwa mashine yako. Nenda kwenye akaunti yako ya GitHub, fungua repo iliyovutwa, bonyeza kitufe cha kamba na kisha bofya nakala kwenye clipboard.
+
+
+Fungua terminal na uendesha amri yafuatayo:
 
 ```
-git clone "url-uliyo-nakili-github"
+git clone "url you just copied"
 ```
 
-url hiyo inapatikana kwenye hatua ya ku clone, hakikisha unaondoa fungua semi na funga semi.
+ambapo "url ulikosa tu" (bila alama za kupiga kura) ni url kwenye hifadhi hii (fomu yako ya mradi huu). Angalia hatua za awali ili kupata url.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="nakili URL kwenda clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 Kwa mfano:
 
 ```
-git clone https://github.com/jina-lako-unalotumia-Github/first-contributions.git
+git clone https://github.com/this-is-you/first-contributions.git
 ```
 
-Kwa kufanya hivyo utakuwa umenakili first-contributions repository kutoka Github kwenda kwenye kompyuta yako.
+hapo `this-is-you`tumia jina lako la mtumiaji GitHub. Hapa unakili nakala ya maudhui ya kwanza ya michango kwenye GitHub kwenye kompyuta yako.
 
-## Tengeneza branch:
+## Unda tawi
 
-Kwenye kompyuta yako, ukiwa kwenye terminal ingia kwenye repository uliyonakili
+Badilisha kwenye saraka ya uhifadhi kwenye kompyuta yako (ikiwa huko tayari):
 
 ```
 cd first-contributions
 ```
 
-Sasa tengeneza branch kwa kutumia command ifuatayo `git checkout` command:
+Sasa unda tawi kwa kutumia git `checkout` amri:
+
 
 ```
 git checkout -b <add-your-new-branch-name>
@@ -62,68 +64,69 @@ git checkout -b <add-your-new-branch-name>
 Kwa mfano:
 
 ```
-git checkout -b add-luke-oliff
+git checkout -b add-alonzo-church
 ```
 
-(Jina la branch sio lazima lianze na neno *add*.)
+(Jina la tawi haina haja ya kuwa neno liongeze ndani yake, lakini ni jambo la kuzingatia kwa sababu lengo la tawi hili ni kuongeza jina lako kwenye orodha.)
 
-## Fanya mabadiliko na baada ya hapo commit:
+## Fanya mabadiliko muhimu na ufanyie mabadiliko hayo
 
-Sasa fungua faili linaloitwa `Contributors.md`, Andika jina lako. Usiweke jina lako mwanzoni au mwishoni mwa faili. Weka sehemu yoyote katikati. Baada ya hapo save faili.
+Sasa fungua `Contributors.md` faili katika mhariri wa maandishi, uongeze jina lako. Usiongeze kwenye mwanzo au mwisho wa faili. Weka mahali popote katikati. Sasa, sahau faili.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
-Ukiwa ndani ya directory hii kwenye terminal command ya `git status` itakuonesha mabadiliko yote uliyoyafanya.
+Ikiwa unakwenda kwenye saraka ya mradi na kutekeleza amri `git status`, utaona kuna mabadiliko.
 
-Jumuisha mabadiliko yote uliyoyafanya kwenye branch uliyotengeneza kwa kutumia command `git add` command:
+
+Ongeza mabadiliko hayo kwenye tawi ulilojenga kwa kutumia `git add` amri:
 
 ```
 git add Contributors.md
 ```
 
-Sasa commit mabadiliko uliyoyafanya kwa kutumia command ya `git commit`:
+Sasa fanya mabadiliko hayo kwa kutumia amri `git commit`:
 
 ```
-git commit -m "Add <jina> to Contributor list"
+git push origin <add-your-branch-name>
 ```
 
-Badilisha neno `<jina>` na jina lako.
+kubadilisha `<your-name>` jina lako.
 
-## Tuma mabadiliko uliyoyafanya kwenda Github
+## Skuma mabadiliko kwenye GitHub
 
-Tuma mabadiliko uliyoyafanya kwa kutumia command ya `git push`:
+Skuma mabadiliko yako kwa kutumia amri `git push`:
 
 ```
-git push origin <jina-la-branch>
+git push origin <add-your-branch-name>
 ```
 
-Badilisha `<jina-la-branch>` na jina la branch ulilotengeneza hapo awali.
+kubadilisha `<add-your-branch-name>` na jina la tawi uliloumba hapo awali.
 
-## Kusanya mabadiliko uliyoyafanya kwa ajili ya uhakiki
+## Tuma mabadiliko yako kwa ukaguzi
 
-Ukiwa Github kwenye repository hii utaona kitufe kilichoandikwa `Compare & pull request`. Bonyeza kitufe hicho.
+Ikiwa unaenda kwenye hifadhi yako kwenye GitHub, utaona `Compare & pull request` kifungo. Bofya kwenye kifungo hicho.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="unda pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
-Sasa tuma pull request.
+Sasa weka ombi la kuvuta.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="tuma pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-Haitochukua muda mrefu nitaanza kuchukua mabadiliko yaliyofanyika na kuyapeleka kwenye master branch ya mradi huu. Utapokea email kukujulisha mara tu hatua hii itakapokamilika.
+Hivi karibuni nitaunganisha mabadiliko yako yote kwenye tawi la mradi huu. Utapata barua pepe ya arifa mara mabadiliko yameunganishwa.
 
-## Nini cha kufanya baada ya hapa?
+## Wapi kutoka hapa?
 
-Hongera! Umeweza kumaliza hatua za msingi ambazo ni _fork -> clone -> edit -> PR_ ambazo utakutana nazo mara nyingi ukiwa kama mchangiaji!
+Hongera! Wewe umekamilisha fomu ya kawaida *fork -> clone -> hariri -> pull request* ambayo unakutana mara nyingi kama mchangiaji!
 
-Sherehekea hatua uliyofikia na wajulishe wengine kwa kwenda kwenye [wavuti](https://roshanjossey.github.io/first-contributions/#social-share).
+Sherehekea mchango wako na marafiki na wafuasi wako kwa kuenda kwenye [programu ya wavuti](https://firstcontributions.github.io/#social-share).
 
-Waweza kujiunga na kundi letu la slack endapo utakuwa unahitaji msaada wowote. [Jiunge na kundi letu la slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
+Unaweza kujiunga na timu yetu ya slack ikiwa unahitaji msaada wowote au una maswali yoyote. [Jiunge na timu ya slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
-Sasa tuanze kuchangia kwenye miradi mingine. Tumekusanya orodha ya miradi ambayo ina mambo mepesi unayoweza kuanza kushughulika nayo. Angalia [Orodha ya miradi](https://roshanjossey.github.io/first-contributions/#project-list).
+Sasa hebu tuanze uanze na kuchangia kwenye miradi mingine. Tumeandika orodha ya miradi na masuala rahisi unaweza kuanza. Angalia [orodha ya miradi katika programu ya wavuti](https://firstcontributions.github.io/#project-list).
 
 ### [Nyenzo za ziada](../additional-material/git_workflow_scenarios/additional-material.md)
 
-## Mafunzo ya namna ya kutumia nyenzo nyingine
+## Mafundisho Kutumia Zana Zingine
 
 | <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | --- | --- | --- | --- | --- | --- |
