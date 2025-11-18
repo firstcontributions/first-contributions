@@ -1000,6 +1000,7 @@
 - [Arun G Jose](https://github.com/arungjose)
 - [Aryan Bansal](https://github.com/AryanAAB)
 - [Ashmita120](https://github.com/Ashmita120)
+- [Edgar Justus](https://github.com/edgarjustus)
 - [Assaf Lewin](https://github.com/Assaf1713)
 - [Jack Stuart](https://github.com/stuja16)
 - [Ayomide Saheed](https://github.com/luc-ay)
