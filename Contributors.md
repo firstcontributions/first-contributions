@@ -35,6 +35,7 @@
 - [Srihari Vernekar]
 - [Vanshika jain](https://github.com/vanshika-jain3107)
 - [Dennis Muchai](https://github.com/dmuchai)
+- [John Bachoura](https://github.com/Commandershell)
 - [Natpu Enean](https://github.com/NatpuEnean)
 - [Syed Arham] -[Edward Dume](https://github.com/edwarddume55)
 - [Andrés Peña del Río](https://github.com/apenade)
