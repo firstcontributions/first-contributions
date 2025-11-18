@@ -12,6 +12,7 @@
 - [Steve Harper](https://github.com/sjharper79)
 - [zaka](https://github.com/oraichezakariyae)
 - [Md Najrul Ansari](https://github.com/najru01)
+- [Tyrell Norford] (https://github.com/Tymaster1)
 - Knowledge Benjamin
 - [Ishika Gupta](https://github.com/Ishika-guptaa25)
 - [Aswanth KT](https://github.com/aswanth-kt)
