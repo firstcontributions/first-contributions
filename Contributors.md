@@ -774,6 +774,7 @@
 - [terror-akshat](https://github.com/terror-akshat)
 - [fusionAMAN](https://github.com/fusionAMAN)
 - [azhank391](https://github.com.azhank391)
+- [Abhijit Gautam](https://github.com/Abhijit-Gautam)
 - [b1tranger](https://github.com/b1tranger)
 - [casa-code](https://github.com/casa-code)
 - [dahynills](https://github.com/dahynills)
@@ -1354,4 +1355,3 @@
 - [Nishant kumar](https://github.com/nishantraj06)
 - [Aditya] (https://github.com/adiiiiiii)
 - [Valeria Giraldo](https://github.com/valeriagiraldoe021)
-
