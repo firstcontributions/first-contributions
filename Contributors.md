@@ -675,6 +675,7 @@
 - [benHitt](https://github.com/benHitt123)
 - [Eoin Breen](https://github.com/ebreen1)
 - [Fuad Hasan](https://github.com/itsfuad)
+- [tmmiizzuu](https://github.com/tmmiizzuu)
 - [Sonum Jaggi](http://github.com/sonum02)
 - [Adarsh84](https://github.com/adarshM84)
 - [David Okosa](https://github.com/dfw7th)
