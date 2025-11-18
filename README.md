@@ -89,15 +89,28 @@
 <kbd>[<img title="Tounsi" alt="Tounsi" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/tn.svg" width="22">](docs/translations/README.tn.md)</kbd>
 <kbd>[<img title="Lingala" alt="Lingala" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/cd.svg" width="22">](docs/translations/README.ln.md)</kbd>
 
-# First Contributions
+### Important note for new contributors
 
-This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
+This repository does **not** contain a real web application or form.  
+There is no running website, no HTML form, and no database.
 
-_If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
+Many issues you see talking about “empty form submissions”, “add validation”, or “disable submit button” are example/placeholder issues created only to teach you how to:
+- open issues
+- comment
+- fork & clone
+- open pull requests
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork the repository" />
+They are intentionally left open so everyone can practice the GitHub flow safely.
 
-#### If you don't have git on your machine, [install it](https://docs.github.com/en/get-started/quickstart/set-up-git).
+Your first real contribution can be:
+- Improving or translating the README
+- Fixing typos
+- Adding your name to Contributors.md
+- Closing fake issues with a polite comment
+
+Welcome and thank you for being here! 
+
+
 
 ## Fork this repository
 
