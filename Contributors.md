@@ -1312,6 +1312,7 @@
 - [Diti] (https://github.com/diti0-dot)
 - [SYTP]
 - [Phil]
+- [Knopych]
 - [Jackson Bichard](https://github.com/JacksonBichard)
 - [Gihan Jeewantha](https://github.com/GihanJeewantha)
 - [Akshat Gupta] (https://github.com/AK-GUPTA-20) (new Contributer)
