@@ -11,6 +11,7 @@
 - [Manasvi Jain] (https://github.com/MJ-thunder)
 - [Satyam Kumar Jha] (https://github.com/satyam536)
 - [Nithurshen Karthikeyan] (https://github.com/nithurshen)
+- [Acshaya] (https://github.com/acshayamangalamurugan)
 - [Utkarsh Upreti] (https://www.github.com/K4rsh)
 - [Zaid Qtaish](https://github.com/ZaidQtaish)
 - [pujala_jayashankar](https://github.com/PujalaJayaSankar)
