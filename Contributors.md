@@ -81,6 +81,7 @@
 - [Prarthana D](https://github.com/prarthana711)
 - [Tommy Brill](https://github.com/neutronpmp)
 - [Arpit Baghla](https://github.com/arpitbaghla)
+- [Chamith Dilshan Tharuka](https://github.com/ChamithDilshanTharuka)
 - [Thato M](https://github.com/aLearningLad)
 - [Vito Bondanese](https://github.com/VBVB99)
 - [Jesús Martín](https://github.com/jesmarver)
