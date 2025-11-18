@@ -421,6 +421,7 @@
 - [MACantara](https://github.com/MACantara)
 - [Aman Bangera](https://github.com/amanbangeraa)
 - [Pedro Tomáz](https://github.com/pdrotmz)
+- [Zongbo Bao](https://github.com/zongbobao)
 - [jorsyk](https://github.com/jorsyk)
 - [lukgav](https://github.com/lukgav)
 - [AlexKos](https://github.com/lukgav)
@@ -1314,12 +1315,14 @@
 - [polasisubash](https://github.com/polasisubash)
 - [Sabarivenkatesh](https://github.com/Sabarivenkatesh3)
 - [chandansingh](https://github.com/firstcontributions/first-contributions)
+- [tembomalinga]
 - [Anuj Pal] (https://github.com/Anujj-debug/first-contributions?tab=readme-ov-file)
 - [Arti Shelar](https://github.com/shelararti)
 - [Gabriel Soares](https://github.com/gbrlzzz)
 - [divyanshu]
 - [Hysiren](https://github.com/Hysiren)
 - [codingjordan](https://github.com/codyjordan)
+- [MyCadence](https://github.com/MyCadence)
 - [zxc-lucky](https://github.com/zxc-lucky)
 - [Y0sefTamer](https://github.com/Y0sefTamer)
 - [woodywu0621](https://github.com/woodywu0621)123
@@ -1328,3 +1331,5 @@
 - [Mark Lee](https://github.com/mark-080383)
 - [Samyak Mittal](https://github.com/Samyak2605)
 - [Abdulrahman Hamdi](https://github.com/abdulrahmanhamdi)
+- [Cheerath Aniketh] (https://github.com/cheerathaniketh)
+
