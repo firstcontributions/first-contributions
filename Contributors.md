@@ -23,7 +23,7 @@
 - geogjegjegoiejgeroigjergjeoi
 - [Nimish Agrawal](https://github.com/nimishagrawal1405)❤️❤️❤️
 - [Gaurav S](https://github.com/garry00107)
-- - [Rishabh](https://github.com/rishabh8870)
+- [Rishabh](https://github.com/rishabh8870)
 - [Bhupesh](https://github.com/Bhupi1306)
 - [I-eat-gays-v-pornoroshku](https://github.com/I-eat-gays-v-pornoroshku)
 - [B Pasha](https://github.com/baasilpasha)
@@ -163,6 +163,7 @@
 - [Shaurya Agrawal](https://github.com/Cranberry7)
 - [Heby Paul](https://github.com/hebypaul/)
 - [Lalith Krishna Vangara](https://github.com/VLK-123)
+- [Sanjana J Athreya](https://github.com/sanjanajathreya/)
 - [Inigo Montoya]()
 - [Ankit Singh](https://github.com/ANKITsingh-git2)
 - [Wilmer Gulcochia](https://github.com/wigsdev)
