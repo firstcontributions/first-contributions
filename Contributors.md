@@ -1353,4 +1353,4 @@
 - [Nishant kumar](https://github.com/nishantraj06)
 - [Aditya] (https://github.com/adiiiiiii)
 - [Valeria Giraldo](https://github.com/valeriagiraldoe021)
-
+- [Nikita Tale](https://github.com/nikitatale)
