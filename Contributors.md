@@ -19,6 +19,7 @@
 - [Debashis Kar](https://github.com/deba012)
 - [Pratik Navghare] (https://github.com/navghare-pratik)
 - [Jatin Yadav] (https://github.com/jatin-yadav-sekwal)
+- Rishabdev Panchal (https://github.com/rdp2x)
 - [Varshini](https://github.com/Varshini131)
 - [Uros Velickovic](https://github.com/UrosVel97)
 - [Divyom Srivastava](https://github.com/DivyomSrivastava)
