@@ -1328,6 +1328,7 @@
 - [Arti Shelar](https://github.com/shelararti)
 - [Gabriel Soares](https://github.com/gbrlzzz)
 - [divyanshu]
+- [Miquel Roy-Sunyer](https://github.com/MiquelRS)
 - [Hysiren](https://github.com/Hysiren)
 - [codingjordan](https://github.com/codyjordan)
 - [MyCadence](https://github.com/MyCadence)
