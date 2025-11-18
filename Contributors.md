@@ -455,6 +455,7 @@
 - [midhun](https://github.com/3idhun)
 - [SWanHK](https://github.com/swanhk)
 - [J-Kosm](https://github.com/J-Kosm)
+- [di-code](https://github.com/Diogo-Serra)
 - [iAdani](https://github.com/iAdani)
 - [mtmatt](https://github.com/mtmatt)
 - [Janani](https://github.com/cjanani)
