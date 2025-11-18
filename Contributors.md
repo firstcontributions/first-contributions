@@ -111,6 +111,7 @@
 - [Leonardo Garzon](https://github.com/Leonardo-Garzon-1995)
 - [technologic-technologic](https://github.com/technologic-technologic)
 - [Khizar Saqib](https://github.com/khizarkk7)
+- [noor-fatim](https://github.com/noor-fatim)
 - [Ezra K](https://github.com/EzraKL)
 - [Shubhanshu](https://github.com/shbhansh66)
 - [Muhammad Khan](https://github.com/MuhammadUKhan1)
