@@ -13,7 +13,7 @@
 
 #### *თუ ტერმინალთან დიდად არ მეგობრობ, [აქ ნახავ რამდენიმე პროგრამას, რომელიც ტერმინალის გამოყენებას აგარიდებს თავიდან]( #ტუტორიალები-სხვა-პროგრამების-გამოყენებით )*
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="დააფორკეთ ეს რეპოზიტორი" />
 
 თუ კომპიუტერში გითი არ გაქვს ჩაწერილი, [მიჰყევი ლინკს]( https://help.github.com/articles/set-up-git/).
 
@@ -23,7 +23,7 @@
 
 ## რეპოზიტორიის დაკლონვა
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="კლონირება ამ რეპოზიტორიის" />
 
 ახლა, დაფორკილი რეპოზიტორია შენს კომპიუტერზე უნდა გადმოიტანო. ამისთვის შედი შენს გითჰაბის პროფილზე, გახსენი რეპოზიტორია და დააჭირე "Clone or download"-ს, შემდეგ კი *"copy to clipboard"*-ის სურათს.
 
@@ -34,7 +34,7 @@ git clone "url you just copied"
 ```
 სადაც "url you just copied" (ბრჭყალების გარეშე) არის შენ მიერ დაკოპირებული რეპოზიტორიის ლინკი. (თუ ეს ლინკი არ გაქვს, წინა ნაბიჯი თავიდან გაიარე).
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="URL-ის კოპირება ბუფერში" />
 
 მაგალითად:
 
@@ -65,7 +65,7 @@ git checkout -b add-alonzo-church
 
 ახლა რომელიმე პროგრამით (სასურველია ტექსტ ედიტორით) გახსენი ფაილი, სახელად `Contributors.md` და დაამატე შენი სახელი. ოღონდ გაითვალისწინე, რომ ის სხვების სახელებს შორის უნდა ჩაწერო და არა ფაილის დასაწყისში, ან ბოლოში. შეინახე ცვლილებები.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status ბრძანება" />
 
 
 თუ პროექტის ფოლდერში გადახვალ და გაუშვებ ბრძანება: `git status`. ტერმინალი გაჩვენებს რა ფაილებში მოხდა ცვლილებები.
@@ -95,11 +95,11 @@ git push origin <add-your-branch-name>
 
 გითჰაბზე, შენს რეპოზიტორიაში როცა გადახვალ, დაინახავ `Compare & pull request` ღილაკს. დააჭირე.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="Pull Request-ის შექმნა" />
 
 ახლა შენ მოითხოვ ცვლილებების განხილვას.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="Pull Request-ის გაგზავნა" />
 
 და სულ მალე, შენი ნამუშევარი ამ პროექტის მთავარ ბრენჩზე გამოჩნდება. ამის შესახებ მეილსაც მიიღებ.
 
