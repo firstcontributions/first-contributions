@@ -43,6 +43,7 @@
 - [Leonardo Modesto Bernardoni](https://github.com/Leomb-coder)
 - [Dheeraj Kumar](https://github.com/Dheeraj-Kumar-8)
 - [Srihari Vernekar]
+- [Baris Yildizel]
 - [Vanshika jain](https://github.com/vanshika-jain3107)
 - [Dennis Muchai](https://github.com/dmuchai)
 - [John Bachoura](https://github.com/Commandershell)
