@@ -1,4 +1,5 @@
-# Contributors 
+# Contributors
+
 - [Rizwan Munir](https://github.com/Rizstien)
 - [- Gaurav Mandal](https://github.com/gaurav8228/)
 - [Dhanush M](https://github.com/Dhanush27m)
@@ -791,7 +792,7 @@
 - [Steven Joy](https://github.com/Stevenjoy90115)
 - [elijah](https://github.com/elijahladdie)
 - [ggonzalezdal](https://github.com/ggonzalezdal)
-- your username
+- [juanarebalooo](https://github.com/Juanarebalooo)
 - [Gotchumon](https://github.com/Gotchumon)
 - [enguy-hub](https://github.com/enguy-hub)
 - [headboot](https://github.com/headboot)
@@ -1335,7 +1336,7 @@
 - [Suhas Magadum](https://github.com/Suhas-098)
 - [Berekia Obed](https://github.com/berekiao)
 - [Robins Karani](https://github.com/RobinsKarani)
-- [Taniya Kumari](https://github.com/taniya273) 
+- [Taniya Kumari](https://github.com/taniya273)
 - [maclaccha](https://github.com/maclaccha)
 - [polasisubash](https://github.com/polasisubash)
 - [Sabarivenkatesh](https://github.com/Sabarivenkatesh3)
@@ -1363,4 +1364,3 @@
 - [Aditya] (https://github.com/adiiiiiii)
 - [Kevin Wang](https://github.com/KevinWangHP)
 - [Valeria Giraldo](https://github.com/valeriagiraldoe021)
-
