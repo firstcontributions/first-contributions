@@ -1,4 +1,5 @@
-# Contributors 
+# Contributors
+
 - [Rizwan Munir](https://github.com/Rizstien)
 - [- Gaurav Mandal](https://github.com/gaurav8228/)
 - [Dhanush M](https://github.com/Dhanush27m)
@@ -23,6 +24,7 @@
 - [Debashis Kar](https://github.com/deba012)
 - [Pratik Navghare] (https://github.com/navghare-pratik)
 - [Jatin Yadav] (https://github.com/jatin-yadav-sekwal)
+- [Rochith Phutane] (https://github.com/rochith11)
 - [Oolazile] (https://github.com/Oolazile)
 - Rishabdev Panchal (https://github.com/rdp2x)
 - [Varshini](https://github.com/Varshini131)
@@ -1337,7 +1339,7 @@
 - [Suhas Magadum](https://github.com/Suhas-098)
 - [Berekia Obed](https://github.com/berekiao)
 - [Robins Karani](https://github.com/RobinsKarani)
-- [Taniya Kumari](https://github.com/taniya273) 
+- [Taniya Kumari](https://github.com/taniya273)
 - [maclaccha](https://github.com/maclaccha)
 - [polasisubash](https://github.com/polasisubash)
 - [Sabarivenkatesh](https://github.com/Sabarivenkatesh3)
@@ -1367,4 +1369,3 @@
 - [Valeria Giraldo](https://github.com/valeriagiraldoe021)
 - [Aditya Thakre](https://github.com/aadityathakre)
 - [Yihang Wang](https://github.com/Cifang2233)
-
