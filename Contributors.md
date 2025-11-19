@@ -1267,6 +1267,7 @@
 - [Omm Prakash Nayak](https://github.com/bithal2006)
 - [Marlene Davids](https://github.com/marls79)
 - [Anshi Tyagi](https://github.com/TyagiAnshi)
+- [John Maar](https://github.com/JTylM)
 - [Liu Jiafu](https://github.com/newjack12)
 - [Gabriel Fernandes](https://github.com/lgabrielmf)
 - [deep lukhi](https://github.com/deeplukhi)
@@ -1359,4 +1360,3 @@
 - [Nishant kumar](https://github.com/nishantraj06)
 - [Aditya] (https://github.com/adiiiiiii)
 - [Valeria Giraldo](https://github.com/valeriagiraldoe021)
-
