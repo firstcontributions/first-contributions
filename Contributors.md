@@ -664,6 +664,7 @@
 - [Sharma22053](https://github.com/Sharma22053)
 - [damsoon](https://github.com/damhyeong)
 - [cawhite7](https://github.com/cawhite7)
+- [Bart-De-Pauw](https://github.com/Bart-De-Pauw)
 - [vedivero](https://github.com/vedivero)
 - [KWYK](https://github.com/stevenchen99)
 - [Shresta](https://github.com/g-shresta)
