@@ -5,6 +5,7 @@
 - [microintel](https://github.com/microintel)
 - [mirza](https://github.com/imhasnain)
 - [Dhiraj Kumar Gupta](https://github.com/dhirajkrgupta)
+- [Sabarinathan R](https://github.com/sabarinathan07)
 - [Shiva Yadav](https://github.com/shiva-yadav-ds)
 - [gopaljilab](https://github.com/gopaljilab)
 - [LiBei1123](https://github.com/LiBei1123)
