@@ -22,6 +22,7 @@
 - [Aswanth KT](https://github.com/aswanth-kt)
 - [Yuvraj Chauhan](https://github.com/Yuvraj13Chauhan)
 - [Debashis Kar](https://github.com/deba012)
+- [Kshitiz Kumar] (https://github.com/promt-l)
 - [Pratik Navghare] (https://github.com/navghare-pratik)
 - [Jatin Yadav] (https://github.com/jatin-yadav-sekwal)
 - [Oolazile] (https://github.com/Oolazile)
