@@ -1,4 +1,4 @@
-# Contributors 
+# Contributors
 - [Rizwan Munir](https://github.com/Rizstien)
 - [Ramkumar T](https://github.com/sparkp1ug)
 - [- Gaurav Mandal](https://github.com/gaurav8228/)
@@ -1342,7 +1342,7 @@
 - [Suhas Magadum](https://github.com/Suhas-098)
 - [Berekia Obed](https://github.com/berekiao)
 - [Robins Karani](https://github.com/RobinsKarani)
-- [Taniya Kumari](https://github.com/taniya273) 
+- [Taniya Kumari](https://github.com/taniya273)
 - [maclaccha](https://github.com/maclaccha)
 - [polasisubash](https://github.com/polasisubash)
 - [Sabarivenkatesh](https://github.com/Sabarivenkatesh3)
@@ -1364,12 +1364,12 @@
 - [Mark Lee](https://github.com/mark-080383)
 - [Samyak Mittal](https://github.com/Samyak2605)
 - [Abdulrahman Hamdi](https://github.com/abdulrahmanhamdi)
-- [Cheerath Aniketh] (https://github.com/cheerathaniketh)
+- [Cheerath Aniketh](https://github.com/cheerathaniketh)
 - [Chinmay Yadav](https://github.com/chinmayyadav283-dev)
 - [Nishant kumar](https://github.com/nishantraj06)
-- [Aditya] (https://github.com/adiiiiiii)
+- [Aditya](https://github.com/adiiiiiii)
 - [Kevin Wang](https://github.com/KevinWangHP)
 - [Valeria Giraldo](https://github.com/valeriagiraldoe021)
 - [Aditya Thakre](https://github.com/aadityathakre)
 - [Yihang Wang](https://github.com/Cifang2233)
-
+- [Coaxus-ux](https://github.com/Coaxus-ux)
