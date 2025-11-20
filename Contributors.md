@@ -483,6 +483,7 @@
 - [mtmatt](https://github.com/mtmatt)
 - [Janani](https://github.com/cjanani)
 - [Yaoke](https://github.com/geeksKK8)
+- [Juanes](https://github.com/juanes20027)
 - [demhak](https://github.com/dem-hak)
 - [Akshey](https://github.com/aksheyd)
 - [Gargi](https://github.com/gargig02)
