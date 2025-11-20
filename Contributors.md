@@ -1011,6 +1011,7 @@
 - [Abid Shaikh](https://github.com/Abid-sh84)
 - [Adrian PC M](https://github.com/AdrianPCM)
 - [Ahlal Izzatul](https://github.com/alaliz4)
+- [Bérengère Lieury](https://github.com/B-lry)
 - [Kartik Yadav](https://github.com/kartik912)
 - [ghalamif]("https://github.com/ghalamif")
 - [Akash Dhamane](https://github.com/explore)
