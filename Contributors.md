@@ -774,6 +774,7 @@
 - [Thabeswar](https://github.com/Thabeswar)
 - [TheRunnas](https://github.com/therunnas)
 - [Tony Wong](https://github.com/tony31913)
+- [zi0w](https://github.com/zi0w)
 - [Vardararo](https://github.com/Vardararo)
 - [Vasu Singh](https://github.com/Vasu1303)
 - [Vrund Patel](https://github.com/Vrund09)
