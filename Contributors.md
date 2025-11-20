@@ -601,6 +601,7 @@
 - [Larson](https://github.com/lixianphy)
 - [Nayan](https://github.com/NayanUnni95)
 - [RunByKim](https://github.com/runbykim)
+- [Arindam Chakraborty](https://github.com/arindm007)
 - [Argha Saha](https://github.com/arg387)
 - [v1ct0r-ops](https://github.com/v1ct0r-ops)
 - [Carburio](https://github.com/Carburio)
