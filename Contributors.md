@@ -1380,6 +1380,7 @@
 - [Aditya] (https://github.com/adiiiiiii)
 - [Kevin Wang](https://github.com/KevinWangHP)
 - [Valeria Giraldo](https://github.com/valeriagiraldoe021)
+- [Vijay S](https://github.com/vijaycham)
 - [Aditya Thakre](https://github.com/aadityathakre)
 - [Yihang Wang](https://github.com/Cifang2233)
 - [Melanie Sagasser](https://github.com/melaniesagasser)
