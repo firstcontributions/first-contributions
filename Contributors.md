@@ -97,6 +97,7 @@
 - [Jesús Martín](https://github.com/jesmarver)
 - [Gourav soni](https://github.com/mrgaurav81)
 - [charitha-369](https://github.com/charitha-369)
+- [Aldani P](https://github.com/AldaniP)
 - [Michael Wright](https://github.com/
 - Valentina fuentes, besitos jeje:3
 - Jia Yee (Hi! Hope your git learning journey goes well too!)
