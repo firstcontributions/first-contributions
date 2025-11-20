@@ -1387,5 +1387,6 @@
 - [Aditya Thakre](https://github.com/aadityathakre)
 - [Yihang Wang](https://github.com/Cifang2233)
 - [Melanie Sagasser](https://github.com/melaniesagasser)
+- [Karan Mourya](https://github.com/karanmourya) .
 
 - Rupesh Sharma 
