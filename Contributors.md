@@ -1,4 +1,5 @@
 # Contributors
+- Hajer Mabrouk
 - [Chia](https://github.com/chia-chang)
 - [Vedika Barkare](https://github.com/vedikaBarkare)
 - [Rizwan Munir](https://github.com/Rizstien)
