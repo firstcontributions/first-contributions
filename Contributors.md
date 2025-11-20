@@ -1341,6 +1341,7 @@
 - [Emma Yu](https://github.com/jjy88)
 - [İbrahim Işıklı](https://github.com/ibrahim-isikli)
 - Jim Martin
+- [Euglen Tanci](https://github.com/euglentanci)
 - ZzX_Tt
 - [fistAttempt](https://github.com/nikhiltumma/first-contributions)
 - [HarshithTeja](https://github.com/Harshith-Teja/)
