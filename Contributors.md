@@ -591,8 +591,9 @@
 - [vader-coder](https://github.com/vader-coder)
 - [pujala_jayashankar](https://github.com/PujalaJayaSankar)
 - [Aman Bajpai](https://github.com/Aman-bajpai)
-- 
-# Contributors 
+
+# Contributors
+- [Chia](https://github.com/chia-chang)
 - [Vedika Barkare](https://github.com/vedikaBarkare)
 - [Rizwan Munir](https://github.com/Rizstien)
 - [Ramkumar T](https://github.com/sparkp1ug)
@@ -1980,5 +1981,6 @@
 - [Aditya Thakre](https://github.com/aadityathakre)
 - [Yihang Wang](https://github.com/Cifang2233)
 - [Melanie Sagasser](https://github.com/melaniesagasser)
+- [Karan Mourya](https://github.com/karanmourya) .
 
 - Rupesh Sharma 
