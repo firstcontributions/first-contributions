@@ -574,6 +574,7 @@
 - [Fco Birr](https://github.com/FcoBirr)
 - [Naveen](https://github.com/i0xnaveen)
 - [DB Koenig](https://github.com/dkoe00)
+- [Åke Gauffin](https://github.com/Ake-Gauffin)
 - [JCoder](https://github.com/jcoder-12)
 - [Krishiv](https://github.com/Krizzhiv)
 - [tay24or](https://github.com/tay24lor)
