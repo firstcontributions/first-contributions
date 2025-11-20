@@ -1,4 +1,5 @@
 # Contributors 
+- [Vedika Barkare](https://github.com/vedikaBarkare)
 - [Rizwan Munir](https://github.com/Rizstien)
 - [Ramkumar T](https://github.com/sparkp1ug)
 - [- Gaurav Mandal](https://github.com/gaurav8228/)
