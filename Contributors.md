@@ -1,4 +1,5 @@
-# Contributors 
+# Contributors
+- [Chia](https://github.com/chia-chang)
 - [Vedika Barkare](https://github.com/vedikaBarkare)
 - [Rizwan Munir](https://github.com/Rizstien)
 - [Ramkumar T](https://github.com/sparkp1ug)
