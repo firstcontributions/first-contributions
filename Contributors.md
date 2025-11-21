@@ -121,6 +121,7 @@
 - [Omm Satyakam](https://github.com/p-retrover)
 - [Gabriel Maccari](https://github.com/gabrielmaccari)
 - [Matt]
+- [Keanu Decleene](https://github.com/KeanuDecleene)
 - [Vishakha Singh](https://github.com/Vishakha7-Kumari)
 - [Katharina Ludwig](https://github.com/katharina-ludwig-02)
 - [Srajan Gupta](https://github.com/srajang1805)
