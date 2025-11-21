@@ -1062,6 +1062,7 @@
 - [Botnie Data](https://github.com/botniedata)
 - [Carlos FH](https://github.com/carlosfhz13)
 - [Chandana](https://github.com/Chandana2829)
+- [ardririy](https://github.com/ardRiriy)
 - [Clilja](https://github.com/christianlilja)
 - [Dakota Feist](https://github.com/DankYoda)
 - [Jesús Peralta](https://github.com/Chucho-Kun)
