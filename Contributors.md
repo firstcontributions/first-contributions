@@ -29,6 +29,7 @@
 - [Ishika Gupta](https://github.com/Ishika-guptaa25)
 - [Aswanth KT](https://github.com/aswanth-kt)
 - [Yuvraj Chauhan](https://github.com/Yuvraj13Chauhan)
+- [Abhiraj Marne](https://github.com/Abmarne)
 - [Debashis Kar](https://github.com/deba012)
 - [Kshitiz Kumar] (https://github.com/promt-l)
 - [Pratik Navghare] (https://github.com/navghare-pratik)
