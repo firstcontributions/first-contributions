@@ -1178,6 +1178,7 @@
 - [davidw1281](https://github.com/davidw1281)
 - [eobrien673](https://github.com/eobrien673)
 - [TakahashiSouta2018](https://github.com/TakahashiSouta2018)
+Maqsood Ansari
 - [Reydeuss](https://github.com/Reydeuss)
 - [fedxemilio](https://github.com/fedxemilio)
 - [fikrirazor](https://github.com/fikrirazor)
@@ -1414,3 +1415,4 @@
 - [Naveen (NA-V10)](https://github.com/NA-V10)
 -[Mohit Malpote](https://github.com/mohit-malpote)
 -[Shubham Matale](https://github.com/shubham562004)
+-[Pragya Kumari](https://github.com/PRAGYA1245)
