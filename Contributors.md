@@ -12,11 +12,13 @@
 - [Sabarinathan R](https://github.com/sabarinathan07)
 - [Shiva Yadav](https://github.com/shiva-yadav-ds)
 - [gopaljilab](https://github.com/gopaljilab)
+- [Muhammad Huzaifa Atiq](https://github.com/Huzaifa-Atiq)
 - [LiBei1123](https://github.com/LiBei1123)
 - [Gabriel S](https://github.com/gabriel-silveirinha)
 - Shreya Mane (GitHub: shreyamane1526)
 - Lydia Abraham (GitHub: LydiaAbrahamF)
 - [Steve Harper](https://github.com/sjharper79)
+- [Alisha Shaw](https://github.com/alishashaw439)
 - [zaka](https://github.com/oraichezakariyae)
 - [SaiTomato](https://github.com/SaiTomato)
 - [Md Najrul Ansari](https://github.com/najru01)
@@ -73,6 +75,7 @@
 - [Auditore2022](https://github.com/Auditore2022)
 - [Peter Ellis](https://github.com/pcellis)
 - [Omkar Nalgirkar]
+- [DochertyDev](https://github.com/DochertyDev)
 - [Yassine El Alami](https://github.com/ElAlamiY)
 - [Jeevika R](https://github.com/jeevikar14)
 - [Raghu Meka](https://github.com/RBMeka)
@@ -118,6 +121,7 @@
 - [Gilbert John](https://github.com/gilbert-maker)
 - [Omm Satyakam](https://github.com/p-retrover)
 - [Gabriel Maccari](https://github.com/gabrielmaccari)
+- [Matt]
 - [Vishakha Singh](https://github.com/Vishakha7-Kumari)
 - [Katharina Ludwig](https://github.com/katharina-ludwig-02)
 - [Srajan Gupta](https://github.com/srajang1805)
@@ -684,6 +688,7 @@
 - [vedivero](https://github.com/vedivero)
 - [KWYK](https://github.com/stevenchen99)
 - [Shresta](https://github.com/g-shresta)
+- [AntonioIonica](https://github.com/AntonioIonica)
 - [H N Ujwal](https://github.com/hnujwal)
 - [Arshbir](https://github.com/Arshbir1)
 - [Roxanna R](https://github.com/roxannardgz)
@@ -1393,5 +1398,7 @@
 - [Aditya Thakre](https://github.com/aadityathakre)
 - [Yihang Wang](https://github.com/Cifang2233)
 - [Melanie Sagasser](https://github.com/melaniesagasser)
-- Rupesh Sharma 
 - [Karan Mourya](https://github.com/karanmourya) .
+- [Yitong Zhou](https://github.com/ZzzZzz-670)
+- Rupesh Sharma 
+- [Sai Rudraksh](https://github.com/sairudraksh)
