@@ -1400,4 +1400,4 @@
 - [Yitong Zhou](https://github.com/ZzzZzz-670)
 
 - Rupesh Sharma 
-- [Sai Rudraksh Rana](https://github.com/sairudraksh)
+- [Sai Rudraksh](https://github.com/sairudraksh)
