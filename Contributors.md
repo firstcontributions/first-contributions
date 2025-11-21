@@ -8,6 +8,7 @@
 - [Dhanush M](https://github.com/Dhanush27m)
 - [microintel](https://github.com/microintel)
 - [mirza](https://github.com/imhasnain)
+- [aym](https://github.com/onepunaym)
 - [Dhiraj Kumar Gupta](https://github.com/dhirajkrgupta)
 - [Sabarinathan R](https://github.com/sabarinathan07)
 - [Shiva Yadav](https://github.com/shiva-yadav-ds)
