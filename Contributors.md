@@ -17,6 +17,7 @@
 - Shreya Mane (GitHub: shreyamane1526)
 - Lydia Abraham (GitHub: LydiaAbrahamF)
 - [Steve Harper](https://github.com/sjharper79)
+- [Alisha Shaw](https://github.com/alishashaw439)
 - [zaka](https://github.com/oraichezakariyae)
 - [SaiTomato](https://github.com/SaiTomato)
 - [Md Najrul Ansari](https://github.com/najru01)
