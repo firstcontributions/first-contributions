@@ -1,4 +1,5 @@
 # Contributors
+
 - Hajer Mabrouk
 - [Chia](https://github.com/chia-chang)
 - [Vedika Barkare](https://github.com/vedikaBarkare)
@@ -1368,7 +1369,7 @@
 - [Suhas Magadum](https://github.com/Suhas-098)
 - [Berekia Obed](https://github.com/berekiao)
 - [Robins Karani](https://github.com/RobinsKarani)
-- [Taniya Kumari](https://github.com/taniya273) 
+- [Taniya Kumari](https://github.com/taniya273)
 - [maclaccha](https://github.com/maclaccha)
 - [polasisubash](https://github.com/polasisubash)
 - [Sabarivenkatesh](https://github.com/Sabarivenkatesh3)
@@ -1403,6 +1404,7 @@
 - [Karan Mourya](https://github.com/karanmourya) .
 - [Yitong Zhou](https://github.com/ZzzZzz-670)
 
-- Rupesh Sharma 
+- Rupesh Sharma
 - [Sai Rudraksh](https://github.com/sairudraksh)
 - [Naveen (NA-V10)](https://github.com/NA-V10)
+- [Siddharth Raj](https://github.com/iamsidh03)
