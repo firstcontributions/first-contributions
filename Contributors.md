@@ -73,6 +73,7 @@
 - [Auditore2022](https://github.com/Auditore2022)
 - [Peter Ellis](https://github.com/pcellis)
 - [Omkar Nalgirkar]
+- [DochertyDev](https://github.com/DochertyDev)
 - [Yassine El Alami](https://github.com/ElAlamiY)
 - [Jeevika R](https://github.com/jeevikar14)
 - [Raghu Meka](https://github.com/RBMeka)
