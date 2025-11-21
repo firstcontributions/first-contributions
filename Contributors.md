@@ -686,6 +686,7 @@
 - [vedivero](https://github.com/vedivero)
 - [KWYK](https://github.com/stevenchen99)
 - [Shresta](https://github.com/g-shresta)
+- [AntonioIonica](https://github.com/AntonioIonica)
 - [H N Ujwal](https://github.com/hnujwal)
 - [Arshbir](https://github.com/Arshbir1)
 - [Roxanna R](https://github.com/roxannardgz)
