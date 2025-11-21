@@ -1409,6 +1409,7 @@
 
 - Rupesh Sharma 
 - [Sai Rudraksh](https://github.com/sairudraksh)
+- Zeinabou Sall
 - [Naveen (NA-V10)](https://github.com/NA-V10)
 
 -[Mohit Malpote](https://github.com/mohit-malpote)
