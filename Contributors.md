@@ -12,6 +12,7 @@
 - [Sabarinathan R](https://github.com/sabarinathan07)
 - [Shiva Yadav](https://github.com/shiva-yadav-ds)
 - [gopaljilab](https://github.com/gopaljilab)
+- [Muhammad Huzaifa Atiq](https://github.com/Huzaifa-Atiq)
 - [LiBei1123](https://github.com/LiBei1123)
 - [Gabriel S](https://github.com/gabriel-silveirinha)
 - Shreya Mane (GitHub: shreyamane1526)
