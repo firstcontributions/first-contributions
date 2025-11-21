@@ -1,6 +1,7 @@
 # Contributors
 - Hajer Mabrouk
 - [Chia](https://github.com/chia-chang)
+- [UltimateSeeSharp](https://github.com/UltimateSeeSharp)
 - [Vedika Barkare](https://github.com/vedikaBarkare)
 - [Rizwan Munir](https://github.com/Rizstien)
 - [Ramkumar T](https://github.com/sparkp1ug)
@@ -8,6 +9,7 @@
 - [Dhanush M](https://github.com/Dhanush27m)
 - [microintel](https://github.com/microintel)
 - [mirza](https://github.com/imhasnain)
+- [aym](https://github.com/onepunaym)
 - [Dhiraj Kumar Gupta](https://github.com/dhirajkrgupta)
 - [Sabarinathan R](https://github.com/sabarinathan07)
 - [Shiva Yadav](https://github.com/shiva-yadav-ds)
@@ -15,6 +17,7 @@
 - [Muhammad Huzaifa Atiq](https://github.com/Huzaifa-Atiq)
 - [LiBei1123](https://github.com/LiBei1123)
 - [Gabriel S](https://github.com/gabriel-silveirinha)
+- [Konstantinos Pavlides](https://github.com/KonstantinosP01)
 - Shreya Mane (GitHub: shreyamane1526)
 - Lydia Abraham (GitHub: LydiaAbrahamF)
 - [Steve Harper](https://github.com/sjharper79)
@@ -29,6 +32,7 @@
 - [Ishika Gupta](https://github.com/Ishika-guptaa25)
 - [Aswanth KT](https://github.com/aswanth-kt)
 - [Yuvraj Chauhan](https://github.com/Yuvraj13Chauhan)
+- [Abhiraj Marne](https://github.com/Abmarne)
 - [Debashis Kar](https://github.com/deba012)
 - [Kshitiz Kumar] (https://github.com/promt-l)
 - [Pratik Navghare] (https://github.com/navghare-pratik)
@@ -76,6 +80,7 @@
 - [Peter Ellis](https://github.com/pcellis)
 - [Omkar Nalgirkar]
 - [DochertyDev](https://github.com/DochertyDev)
+- [KunalMali](https://github.com/kunalmali83)
 - [Yassine El Alami](https://github.com/ElAlamiY)
 - [Jeevika R](https://github.com/jeevikar14)
 - [Raghu Meka](https://github.com/RBMeka)
@@ -121,6 +126,7 @@
 - [Omm Satyakam](https://github.com/p-retrover)
 - [Gabriel Maccari](https://github.com/gabrielmaccari)
 - [Matt]
+- [Keanu Decleene](https://github.com/KeanuDecleene)
 - [Vishakha Singh](https://github.com/Vishakha7-Kumari)
 - [Katharina Ludwig](https://github.com/katharina-ludwig-02)
 - [Srajan Gupta](https://github.com/srajang1805)
@@ -1398,8 +1404,12 @@
 - [Yihang Wang](https://github.com/Cifang2233)
 - [Melanie Sagasser](https://github.com/melaniesagasser)
 - [Karan Mourya](https://github.com/karanmourya) .
+- [Anurag Mshra](https://www.instagram.com/itstheanuragmishra24?)
 - [Yitong Zhou](https://github.com/ZzzZzz-670)
 
 - Rupesh Sharma 
 - [Sai Rudraksh](https://github.com/sairudraksh)
 - Zeinabou Sall
+- [Naveen (NA-V10)](https://github.com/NA-V10)
+
+-[Mohit Malpote](https://github.com/mohit-malpote)
