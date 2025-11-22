@@ -1,7 +1,8 @@
 # Contributors
-
+- [pvpeuve](https://github.com/pvpeuve)
 - Hajer Mabrouk
 - [Chia](https://github.com/chia-chang)
+- [UltimateSeeSharp](https://github.com/UltimateSeeSharp)
 - [Vedika Barkare](https://github.com/vedikaBarkare)
 - [Rizwan Munir](https://github.com/Rizstien)
 - [Ramkumar T](https://github.com/sparkp1ug)
@@ -17,6 +18,7 @@
 - [Muhammad Huzaifa Atiq](https://github.com/Huzaifa-Atiq)
 - [LiBei1123](https://github.com/LiBei1123)
 - [Gabriel S](https://github.com/gabriel-silveirinha)
+- [Konstantinos Pavlides](https://github.com/KonstantinosP01)
 - Shreya Mane (GitHub: shreyamane1526)
 - Lydia Abraham (GitHub: LydiaAbrahamF)
 - [Steve Harper](https://github.com/sjharper79)
@@ -79,6 +81,7 @@
 - [Peter Ellis](https://github.com/pcellis)
 - [Omkar Nalgirkar]
 - [DochertyDev](https://github.com/DochertyDev)
+- [KunalMali](https://github.com/kunalmali83)
 - [Yassine El Alami](https://github.com/ElAlamiY)
 - [Jeevika R](https://github.com/jeevikar14)
 - [Raghu Meka](https://github.com/RBMeka)
@@ -1059,6 +1062,7 @@
 - [Botnie Data](https://github.com/botniedata)
 - [Carlos FH](https://github.com/carlosfhz13)
 - [Chandana](https://github.com/Chandana2829)
+- [ardririy](https://github.com/ardRiriy)
 - [Clilja](https://github.com/christianlilja)
 - [Dakota Feist](https://github.com/DankYoda)
 - [Jesús Peralta](https://github.com/Chucho-Kun)
@@ -1174,6 +1178,7 @@
 - [davidw1281](https://github.com/davidw1281)
 - [eobrien673](https://github.com/eobrien673)
 - [TakahashiSouta2018](https://github.com/TakahashiSouta2018)
+Maqsood Ansari
 - [Reydeuss](https://github.com/Reydeuss)
 - [fedxemilio](https://github.com/fedxemilio)
 - [fikrirazor](https://github.com/fikrirazor)
@@ -1402,13 +1407,20 @@
 - [Yihang Wang](https://github.com/Cifang2233)
 - [Melanie Sagasser](https://github.com/melaniesagasser)
 - [Karan Mourya](https://github.com/karanmourya) .
+- [Anurag Mshra](https://www.instagram.com/itstheanuragmishra24?)
 - [Yitong Zhou](https://github.com/ZzzZzz-670)
 
 - Rupesh Sharma
 - [Sai Rudraksh](https://github.com/sairudraksh)
+- Zeinabou Sall
 - [Naveen (NA-V10)](https://github.com/NA-V10)
+
 
 - [Siddharth Raj](https://github.com/iamsidh03)
 
 - [Paul Andrei Calma] (https://github.com/AkurasKurasa)
+-[Mohit Malpote](https://github.com/mohit-malpote)
+-[Pragya Kumari](https://github.com/PRAGYA1245)
+-[Shreshth kumar](https://github.com/shreshth-kumar)
+-[Utkarsh Krale] (https://github.com/UtkarshKarale)
 
