@@ -7,6 +7,7 @@
 - [Rizwan Munir](https://github.com/Rizstien)
 - [Ramkumar T](https://github.com/sparkp1ug)
 - [- Gaurav Mandal](https://github.com/gaurav8228/)
+- [Dewanshu Goswami](https://github.com/TheMatrix31415926)
 - [Dhanush M](https://github.com/Dhanush27m)
 - [microintel](https://github.com/microintel)
 - [mirza](https://github.com/imhasnain)
