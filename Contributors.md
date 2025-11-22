@@ -71,6 +71,7 @@
 - [Natpu Enean](https://github.com/NatpuEnean)
 - [Syed Arham] -[Edward Dume](https://github.com/edwarddume55)
 - [Andrés Peña del Río](https://github.com/apenade)
+- [Arpan Khan](https://github.com/arpancodex)
   [Julian Cumps](https://github.com/juliancumps)
   [Han Set Naing](https://github.com/Hansetnaing)
 - [Syed Arham]
