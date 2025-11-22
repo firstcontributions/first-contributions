@@ -12,6 +12,7 @@
 - [Dhanush M](https://github.com/Dhanush27m)
 - [microintel](https://github.com/microintel)
 - [mirza](https://github.com/imhasnain)
+- [kanosa](https://github.com/kanosa0101)
 - [aym](https://github.com/onepunaym)
 - [Dhiraj Kumar Gupta](https://github.com/dhirajkrgupta)
 - [Sabarinathan R](https://github.com/sabarinathan07)
