@@ -5,6 +5,7 @@
 - [Chia](https://github.com/chia-chang)
 - [UltimateSeeSharp](https://github.com/UltimateSeeSharp)
 - [Vedika Barkare](https://github.com/vedikaBarkare)
+
 - [Rizwan Munir](https://github.com/Rizstien)
 - [Ramkumar T](https://github.com/sparkp1ug)
 - [Venkata Ramprasad Pade](https://github.com/ramprasad-13)
@@ -21,6 +22,7 @@
 - [gopaljilab](https://github.com/gopaljilab)
 - [Muhammad Huzaifa Atiq](https://github.com/Huzaifa-Atiq)
 - [LiBei1123](https://github.com/LiBei1123)
+- [Priyanshu Dubey](https://github.com/priyanshudubey)
 - [Gabriel S](https://github.com/gabriel-silveirinha)
 - [Konstantinos Pavlides](https://github.com/KonstantinosP01)
 - Shreya Mane (GitHub: shreyamane1526)
@@ -1384,7 +1386,7 @@ Maqsood Ansari
 - [Suhas Magadum](https://github.com/Suhas-098)
 - [Berekia Obed](https://github.com/berekiao)
 - [Robins Karani](https://github.com/RobinsKarani)
-- [Taniya Kumari](https://github.com/taniya273) 
+- [Taniya Kumari](https://github.com/taniya273)
 - [maclaccha](https://github.com/maclaccha)
 - [polasisubash](https://github.com/polasisubash)
 - [Sabarivenkatesh](https://github.com/Sabarivenkatesh3)
@@ -1421,6 +1423,7 @@ Maqsood Ansari
 - [Anurag Mshra](https://www.instagram.com/itstheanuragmishra24?)
 - [Yitong Zhou](https://github.com/ZzzZzz-670)
 
+- Rupesh Sharma
 - Rupesh Sharma 
 - [Sai Rudraksh](https://github.com/sairudraksh)
 - Zeinabou Sall
