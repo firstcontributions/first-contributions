@@ -107,7 +107,9 @@ git push origin <add-your-branch-name>
 
 გილოცავ! შენ შეასრულე სტანდარტული კონტრიბუციის პროცედურა, რომელსაც მომავალში ხშირად გამოიყენებ, როგორც კონტრიბუტორი!
 
-აღნიშნე და გაუზიარე მეგობრებს შენი წარმატება [ამ ლინკზე გადასვლით](https://firstcontributions.github.io/#social-share).
+აღნიშნე და გაუზიარე მეგობრებს შენი წარმატება [ამ ლინკზე გადასვლით] (https://firstcontributions.github.io/#social-share)
+
+თუ კონტრიბუციების სხვაგან შეტანაც გინდა, გადახედე კოდის [კონტრიბუციები] (https://github.com/roshanjossey/code-contributions)
 
 
 თუ კონტრიბუციების სხვაგან შეტანაც გინდა, ჩვენ შენთვის შედარებით მარტივად გასაგები პროექტები შევარჩიეთ,  [რომლებსაც აქ ნახავ](https://firstcontributions.github.io/#project-list).
