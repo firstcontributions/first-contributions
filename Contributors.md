@@ -1,6 +1,7 @@
 # Contributors
 - [PoncheDeFrutas](https://github.com/PoncheDeFrutas)
 - [pvpeuve](https://github.com/pvpeuve)
+- [Ziyan](https://github.com/ziyanaaan)
 - Hajer Mabrouk
 - [Chia](https://github.com/chia-chang)
 - [UltimateSeeSharp](https://github.com/UltimateSeeSharp)
