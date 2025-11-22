@@ -1148,6 +1148,7 @@
 - [Shinbatsu F](https://github.com/Shinbatsu)
 - [Dilkhush](https://github.com/dilkhushsaini72)
 - [Shivanii30](https://github.com/Shivanii30)
+- [Yukthi05](https://github.com/Yukthi05)
 - [Sinbad Adjuik](https://github.com/synnbad)
 - [Sohyeon412](https://github.com/sohyeon412)
 - [Sourabh Gupta](https://github.com/srb1998)
