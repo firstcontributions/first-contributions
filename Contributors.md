@@ -1374,7 +1374,7 @@ Maqsood Ansari
 - [Suhas Magadum](https://github.com/Suhas-098)
 - [Berekia Obed](https://github.com/berekiao)
 - [Robins Karani](https://github.com/RobinsKarani)
-- [Taniya Kumari](https://github.com/taniya273) 
+- [Taniya Kumari](https://github.com/taniya273)
 - [maclaccha](https://github.com/maclaccha)
 - [polasisubash](https://github.com/polasisubash)
 - [Sabarivenkatesh](https://github.com/Sabarivenkatesh3)
@@ -1410,13 +1410,17 @@ Maqsood Ansari
 - [Anurag Mshra](https://www.instagram.com/itstheanuragmishra24?)
 - [Yitong Zhou](https://github.com/ZzzZzz-670)
 
-- Rupesh Sharma 
+- Rupesh Sharma
 - [Sai Rudraksh](https://github.com/sairudraksh)
 - Zeinabou Sall
 - [Naveen (NA-V10)](https://github.com/NA-V10)
 
--[Mohit Malpote](https://github.com/mohit-malpote)
 
+- [Siddharth Raj](https://github.com/iamsidh03)
+
+- [Paul Andrei Calma] (https://github.com/AkurasKurasa)
+-[Mohit Malpote](https://github.com/mohit-malpote)
 -[Pragya Kumari](https://github.com/PRAGYA1245)
 -[Shreshth kumar](https://github.com/shreshth-kumar)
 -[Utkarsh Krale] (https://github.com/UtkarshKarale)
+
