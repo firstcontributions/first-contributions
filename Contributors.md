@@ -1427,3 +1427,4 @@ Maqsood Ansari
 -[Utkarsh Krale] (https://github.com/UtkarshKarale)
 -[Dilla] (https://github.com/anindilla)
 - Kandula Komali Reddy
+- Vedika Sardeshmukh (https://github.com/Vedika-Sd)
