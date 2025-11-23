@@ -28,6 +28,7 @@
 - [Konstantinos Pavlides](https://github.com/KonstantinosP01)
 - Shreya Mane (GitHub: shreyamane1526)
 - Lydia Abraham (GitHub: LydiaAbrahamF)
+- [Cem Batuhan Yaman](https://github.com/CBYeuler)
 - [Steve Harper](https://github.com/sjharper79)
 - [Alisha Shaw](https://github.com/alishashaw439)
 - [zaka](https://github.com/oraichezakariyae)
