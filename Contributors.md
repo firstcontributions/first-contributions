@@ -937,6 +937,7 @@
 - [Harsh Kaushik](https://github.com/hrk022)
 - [Esteban Cortés Mora](https://github.com/eacortesm)
 - [Harsh Singh](https://github.com/singhharsh29)
+- [Aryan Sahu](https://github.com/aryaniscoding)
 - [HighPoly](https://github.com/HighPolygon)
 - [VishnuPriyaSingamReddy](https://github.com/VishnuPriyaSingamReddy)
 - [Ritu Raj](https://github.com/Ritu14012004)
