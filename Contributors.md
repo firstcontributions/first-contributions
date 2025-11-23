@@ -1440,6 +1440,7 @@ Maqsood Ansari
 -[Shreshth kumar](https://github.com/shreshth-kumar)
 -[Utkarsh Krale] (https://github.com/UtkarshKarale)
 -[Dilla] (https://github.com/anindilla)
+-[Sadaksh Mahindra] ([text](https://github.com/sadakshmahindra))
 - Kandula Komali Reddy
 - Vedika Sardeshmukh (https://github.com/Vedika-Sd)
 -[G Sampath Kummar] (https://github.com/Sampath7890)
