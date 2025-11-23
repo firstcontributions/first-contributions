@@ -55,6 +55,7 @@
 - [Nimish Agrawal](https://github.com/nimishagrawal1405)❤️❤️❤️
 - [Gaurav S](https://github.com/garry00107)
 - [moonBeam](https://github.com/jessicaparadise)
+- [Shiv Raj Singh](https://github.com/imuniqueshiv)
 - [Rishabh](https://github.com/rishabh8870)
 - [Nitinjadhav](https://github.com/nitinjadhav888)
 - [Bhupesh](https://github.com/Bhupi1306)
