@@ -1302,6 +1302,7 @@ Maqsood Ansari
 - [Duo](https://github.com/NamingRacksMyBrain)
 - [Sumer](https://github.com/SumerSabharwal)
 - [Zia Uddin](https://github.com/ziauddin14)
+- [Frankson Iury] (https://github.com/FranksonIury)
 - [CJ Conti](https://github.com/contic5)
 - [Inengiye Emmanuel](https://github.com/Inengs)
 - [Aditya Nautiyal](https://github.com/AdityaNautiyal908)
