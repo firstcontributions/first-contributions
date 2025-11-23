@@ -1,7 +1,12 @@
 # Contributors
+- [Bishal Paul](https://github.com/Bishal13102003)
+- [Mayu Uno](https://github.com/mayuun14/)
+- [PoncheDeFrutas](https://github.com/PoncheDeFrutas)
 - [pvpeuve](https://github.com/pvpeuve)
+- [Ziyan](https://github.com/ziyanaaan)
 - Hajer Mabrouk
 - [Chia](https://github.com/chia-chang)
+- [lionsol](https://github.com/lionsol)
 - [UltimateSeeSharp](https://github.com/UltimateSeeSharp)
 - [Vedika Barkare](https://github.com/vedikaBarkare)
 - [Rizwan Munir](https://github.com/Rizstien)
@@ -24,6 +29,7 @@
 - [Konstantinos Pavlides](https://github.com/KonstantinosP01)
 - Shreya Mane (GitHub: shreyamane1526)
 - Lydia Abraham (GitHub: LydiaAbrahamF)
+- [Cem Batuhan Yaman](https://github.com/CBYeuler)
 - [Steve Harper](https://github.com/sjharper79)
 - [Alisha Shaw](https://github.com/alishashaw439)
 - [zaka](https://github.com/oraichezakariyae)
@@ -52,6 +58,7 @@
 - [Nimish Agrawal](https://github.com/nimishagrawal1405)❤️❤️❤️
 - [Gaurav S](https://github.com/garry00107)
 - [moonBeam](https://github.com/jessicaparadise)
+- [Shiv Raj Singh](https://github.com/imuniqueshiv)
 - [Rishabh](https://github.com/rishabh8870)
 - [Nitinjadhav](https://github.com/nitinjadhav888)
 - [Bhupesh](https://github.com/Bhupi1306)
@@ -71,6 +78,7 @@
 - [Natpu Enean](https://github.com/NatpuEnean)
 - [Syed Arham] -[Edward Dume](https://github.com/edwarddume55)
 - [Andrés Peña del Río](https://github.com/apenade)
+- [Arpan Khan](https://github.com/arpancodex)
   [Julian Cumps](https://github.com/juliancumps)
   [Han Set Naing](https://github.com/Hansetnaing)
 - [Syed Arham]
@@ -78,6 +86,7 @@
 - [Vaishnavi Suryawanshi](https://github.com/VaishnaviSW01)
 - [Vinay Kumar] (https://github.com/vinay123-ops)
 - [Brandon Busacker](https://github.com/bwbusacker)
+- [Alwisgabriel] (https://github.com/alwisgabriel)
 - [Vaidehi Kumawat](https://github.com/vkumaw)
 - [Augustine Chiu](https://github.com/achiu283)
 - [Aaron Stranathan](https://github.com/Aaronstran2015)
@@ -85,6 +94,7 @@
 - [Peter Ellis](https://github.com/pcellis)
 - [Omkar Nalgirkar]
 - [DochertyDev](https://github.com/DochertyDev)
+- [Mayank Ghildiyal](https://github.com/mayank2699)
 - [KunalMali](https://github.com/kunalmali83)
 - [Yassine El Alami](https://github.com/ElAlamiY)
 - [Jeevika R](https://github.com/jeevikar14)
@@ -663,6 +673,7 @@
 - [JaeHye0k](https://github.com/JaeHye0k) -[vanixyz](https://github.com/vanixyz)
 - [korokua](https://github.com/therealryanhu)
 - [eesoyeon](https://github.com/eesoyeon)
+- [Vishnunarayan Manickam](https://github.com/VM006)
 - [xlls666](https://github.com/xlls666)
 - [Olympus5](https://github.com/Olympus5)
 - [risavctt](https://github.com/risavctt)
@@ -1060,6 +1071,7 @@
 - [Beetlesliu](https://github.com/Beetlesliu)
 - [blue-cubes](https://github.com/blue-cubes)
 - [Bharat Ruidas](https://github.com/brd2002)
+- [Arpan Khan](https://github.com/ArpanCodeX)
 - [Capitaine_steeve78](https://github.com/Capitaine-steeve78)
 - [Boru Isako](https://github.com/BoruIsakoJ)
 - [Borzoi Lover](https://github.com/mmitros1)
@@ -1148,6 +1160,7 @@
 - [Shinbatsu F](https://github.com/Shinbatsu)
 - [Dilkhush](https://github.com/dilkhushsaini72)
 - [Shivanii30](https://github.com/Shivanii30)
+- [Yukthi05](https://github.com/Yukthi05)
 - [Sinbad Adjuik](https://github.com/synnbad)
 - [Sohyeon412](https://github.com/sohyeon412)
 - [Sourabh Gupta](https://github.com/srb1998)
@@ -1296,6 +1309,7 @@ Maqsood Ansari
 - [Duo](https://github.com/NamingRacksMyBrain)
 - [Sumer](https://github.com/SumerSabharwal)
 - [Zia Uddin](https://github.com/ziauddin14)
+- [Frankson Iury] (https://github.com/FranksonIury)
 - [CJ Conti](https://github.com/contic5)
 - [Inengiye Emmanuel](https://github.com/Inengs)
 - [Aditya Nautiyal](https://github.com/AdityaNautiyal908)
@@ -1427,3 +1441,16 @@ Maqsood Ansari
 -[Utkarsh Krale] (https://github.com/UtkarshKarale)
 -[Dilla] (https://github.com/anindilla)
 -[Sadaksh Mahindra] ([text](https://github.com/sadakshmahindra))
+- Kandula Komali Reddy
+- Vedika Sardeshmukh (https://github.com/Vedika-Sd)
+-[G Sampath Kummar] (https://github.com/Sampath7890)
+-[Hilarius Jeremy] (https://github.com/HilariusJeremy)
+- Praneeth Mukkala
+-[Waniya Farooq] (https://github.com/WaniyaFarooq)
+- Praveen (https://github.com/apgodlike)
+-Alok Singh (https://github.com/121aloksingh)
+- Kavishka Deshan(https://github.com/kavishkadeshan1)
+- [Prorise-cool](https://github.com/Prorise-cool)
+- [Arsiya Tasleem](https://github.com/ArsiyaTasleem90250) - My first contribution!
+- [karan gohel] (https://github.com/karangohel09)
+- Saksham Tomar
