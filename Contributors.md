@@ -1,4 +1,5 @@
 # Contributors
+- [Bishal Paul](https://github.com/Bishal13102003)
 - [Mayu Uno](https://github.com/mayuun14/)
 - [PoncheDeFrutas](https://github.com/PoncheDeFrutas)
 - [pvpeuve](https://github.com/pvpeuve)
