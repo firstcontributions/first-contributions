@@ -285,6 +285,7 @@
 - [Malvin-sehmaluva-Machingura](https://github.com/sehmaluva)
   [My_first_Contribution]
   [Mi_primera_contribucion_ange]
+- [Davide Loconte](https://github.com/DavideLoconte)
 - [Fady Zaky](https://github.com/0ddAuto00)
 - [Aryan Vishwakarma](https://github.com/vishwakarma-31).
 - [Abhiram kondaguduru](https://github.com/k-abhiram21)
