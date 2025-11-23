@@ -2,6 +2,7 @@
 - [Mayu Uno](https://github.com/mayuun14/)
 - [PoncheDeFrutas](https://github.com/PoncheDeFrutas)
 - [pvpeuve](https://github.com/pvpeuve)
+- [Ziyan](https://github.com/ziyanaaan)
 - Hajer Mabrouk
 - [Chia](https://github.com/chia-chang)
 - [lionsol](https://github.com/lionsol)
