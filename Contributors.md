@@ -1,4 +1,5 @@
 # Contributors
+
 - [PoncheDeFrutas](https://github.com/PoncheDeFrutas)
 - [pvpeuve](https://github.com/pvpeuve)
 - Hajer Mabrouk
@@ -1188,7 +1189,7 @@
 - [davidw1281](https://github.com/davidw1281)
 - [eobrien673](https://github.com/eobrien673)
 - [TakahashiSouta2018](https://github.com/TakahashiSouta2018)
-Maqsood Ansari
+  Maqsood Ansari
 - [Reydeuss](https://github.com/Reydeuss)
 - [fedxemilio](https://github.com/fedxemilio)
 - [fikrirazor](https://github.com/fikrirazor)
@@ -1385,7 +1386,7 @@ Maqsood Ansari
 - [Suhas Magadum](https://github.com/Suhas-098)
 - [Berekia Obed](https://github.com/berekiao)
 - [Robins Karani](https://github.com/RobinsKarani)
-- [Taniya Kumari](https://github.com/taniya273) 
+- [Taniya Kumari](https://github.com/taniya273)
 - [maclaccha](https://github.com/maclaccha)
 - [polasisubash](https://github.com/polasisubash)
 - [Sabarivenkatesh](https://github.com/Sabarivenkatesh3)
@@ -1421,22 +1422,19 @@ Maqsood Ansari
 - [Karan Mourya](https://github.com/karanmourya) .
 - [Anurag Mshra](https://www.instagram.com/itstheanuragmishra24?)
 - [Yitong Zhou](https://github.com/ZzzZzz-670)
-
-- Rupesh Sharma 
+- PwnedNetwork
+- Rupesh Sharma
 - [Sai Rudraksh](https://github.com/sairudraksh)
 - Zeinabou Sall
 - [Naveen (NA-V10)](https://github.com/NA-V10)
 
 -[Mohit Malpote](https://github.com/mohit-malpote)
 
--[Pragya Kumari](https://github.com/PRAGYA1245)
--[Shreshth kumar](https://github.com/shreshth-kumar)
--[Utkarsh Krale] (https://github.com/UtkarshKarale)
--[Dilla] (https://github.com/anindilla)
+-[Pragya Kumari](https://github.com/PRAGYA1245) -[Shreshth kumar](https://github.com/shreshth-kumar) -[Utkarsh Krale] (https://github.com/UtkarshKarale) -[Dilla] (https://github.com/anindilla)
+
 - Kandula Komali Reddy
-- Vedika Sardeshmukh (https://github.com/Vedika-Sd)
--[G Sampath Kummar] (https://github.com/Sampath7890)
--[Hilarius Jeremy] (https://github.com/HilariusJeremy)
+- Vedika Sardeshmukh (https://github.com/Vedika-Sd) -[G Sampath Kummar] (https://github.com/Sampath7890) -[Hilarius Jeremy] (https://github.com/HilariusJeremy)
 - Praneeth Mukkala
 - Praveen (https://github.com/apgodlike)
--Alok Singh (https://github.com/121aloksingh)
+  -Alok Singh (https://github.com/121aloksingh)
+
