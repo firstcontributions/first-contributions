@@ -3,6 +3,7 @@
 - [pvpeuve](https://github.com/pvpeuve)
 - Hajer Mabrouk
 - [Chia](https://github.com/chia-chang)
+- [lionsol](https://github.com/lionsol)
 - [UltimateSeeSharp](https://github.com/UltimateSeeSharp)
 - [Vedika Barkare](https://github.com/vedikaBarkare)
 - [Rizwan Munir](https://github.com/Rizstien)
