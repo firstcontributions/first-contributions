@@ -1,6 +1,8 @@
 # Contributors
+
 - [Koji Kawamura](https://github.com/kouji0705)
 - [Bishal Paul](https://github.com/Bishal13102003)
+- [Divine Iwuchukwu](https://github.com/IwuchukwuDivine)
 - [Mayu Uno](https://github.com/mayuun14/)
 - [ODK] (https://github.com/odokyoung)
 - [PoncheDeFrutas](https://github.com/PoncheDeFrutas)
@@ -1199,7 +1201,7 @@
 - [davidw1281](https://github.com/davidw1281)
 - [eobrien673](https://github.com/eobrien673)
 - [TakahashiSouta2018](https://github.com/TakahashiSouta2018)
-Maqsood Ansari
+  Maqsood Ansari
 - [Reydeuss](https://github.com/Reydeuss)
 - [fedxemilio](https://github.com/fedxemilio)
 - [fikrirazor](https://github.com/fikrirazor)
@@ -1396,7 +1398,7 @@ Maqsood Ansari
 - [Suhas Magadum](https://github.com/Suhas-098)
 - [Berekia Obed](https://github.com/berekiao)
 - [Robins Karani](https://github.com/RobinsKarani)
-- [Taniya Kumari](https://github.com/taniya273) 
+- [Taniya Kumari](https://github.com/taniya273)
 - [maclaccha](https://github.com/maclaccha)
 - [polasisubash](https://github.com/polasisubash)
 - [Sabarivenkatesh](https://github.com/Sabarivenkatesh3)
@@ -1433,26 +1435,20 @@ Maqsood Ansari
 - [Anurag Mshra](https://www.instagram.com/itstheanuragmishra24?)
 - [Yitong Zhou](https://github.com/ZzzZzz-670)
 
-- Rupesh Sharma 
+- Rupesh Sharma
 - [Sai Rudraksh](https://github.com/sairudraksh)
 - Zeinabou Sall
 - [Naveen (NA-V10)](https://github.com/NA-V10)
 
 -[Mohit Malpote](https://github.com/mohit-malpote)
 
--[Pragya Kumari](https://github.com/PRAGYA1245)
--[Shreshth kumar](https://github.com/shreshth-kumar)
--[Utkarsh Krale] (https://github.com/UtkarshKarale)
--[Dilla] (https://github.com/anindilla)
--[Sadaksh Mahindra] ([text](https://github.com/sadakshmahindra))
+-[Pragya Kumari](https://github.com/PRAGYA1245) -[Shreshth kumar](https://github.com/shreshth-kumar) -[Utkarsh Krale] (https://github.com/UtkarshKarale) -[Dilla] (https://github.com/anindilla) -[Sadaksh Mahindra] ([text](https://github.com/sadakshmahindra))
+
 - Kandula Komali Reddy
-- Vedika Sardeshmukh (https://github.com/Vedika-Sd)
--[G Sampath Kummar] (https://github.com/Sampath7890)
--[Hilarius Jeremy] (https://github.com/HilariusJeremy)
-- Praneeth Mukkala
--[Waniya Farooq] (https://github.com/WaniyaFarooq)
+- Vedika Sardeshmukh (https://github.com/Vedika-Sd) -[G Sampath Kummar] (https://github.com/Sampath7890) -[Hilarius Jeremy] (https://github.com/HilariusJeremy)
+- Praneeth Mukkala -[Waniya Farooq] (https://github.com/WaniyaFarooq)
 - Praveen (https://github.com/apgodlike)
--Alok Singh (https://github.com/121aloksingh)
+  -Alok Singh (https://github.com/121aloksingh)
 - Kavishka Deshan(https://github.com/kavishkadeshan1)
 - [Prorise-cool](https://github.com/Prorise-cool)
 - [Arsiya Tasleem](https://github.com/ArsiyaTasleem90250) - My first contribution!
