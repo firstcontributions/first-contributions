@@ -1,4 +1,5 @@
 # Contributors
+- [Mayu Uno](https://github.com/mayuun14/)
 - [PoncheDeFrutas](https://github.com/PoncheDeFrutas)
 - [pvpeuve](https://github.com/pvpeuve)
 - Hajer Mabrouk
