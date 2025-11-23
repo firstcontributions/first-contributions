@@ -46,6 +46,7 @@
 - Aditya Singh
 - Sujit Shah
 - JacobDaBomb
+- A for Apple
 - [rajpandith](https://github.com/raj-pandith)
 - [n0jj0n](https://github.com/n0jj0n)
 - [chefPixelDev](https://github.com/ChefPixelDev)
