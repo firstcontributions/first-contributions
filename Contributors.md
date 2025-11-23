@@ -90,6 +90,7 @@
 - [Peter Ellis](https://github.com/pcellis)
 - [Omkar Nalgirkar]
 - [DochertyDev](https://github.com/DochertyDev)
+- [Mayank Ghildiyal](https://github.com/mayank2699)
 - [KunalMali](https://github.com/kunalmali83)
 - [Yassine El Alami](https://github.com/ElAlamiY)
 - [Jeevika R](https://github.com/jeevikar14)
