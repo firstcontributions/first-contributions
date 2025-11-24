@@ -1491,3 +1491,4 @@ Maqsood Ansari
 - [Gazwel](https://github.com/Minecraeteuh)
 - [Alex-new-tech](https://github.com/Alex-new-tech)
 - [Kanelle-C]
+- Hanane Fettouh
