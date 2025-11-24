@@ -1470,3 +1470,4 @@ Maqsood Ansari
 - [SummerAgain2025]
 - Areeba Adeen (https://github.com/AreebaAdeenMalik)
 - [HarshSingh] (https://github.com/HarshVileon)
+- [domenhribernik](https://github.com/domenhribernik)
