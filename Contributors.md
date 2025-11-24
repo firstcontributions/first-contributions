@@ -104,6 +104,7 @@
 - [Yassine El Alami](https://github.com/ElAlamiY)
 - [Jeevika R](https://github.com/jeevikar14)
 - [Raghu Meka](https://github.com/RBMeka)
+- [Gauthier](https://github.com/gauthier-lecigne)
 - [Jeevika R]
 - [Sai Teja Venkata Vinay Adapa](https://github.com/22A31A0525)
 - [Carina Mach](https://github.com/carinamach)
