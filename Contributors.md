@@ -251,6 +251,7 @@
 - [Daniela Gallegos Dupuis](https://github.com/danigallegdup)
 - [Rohan Linga](http://github.com/R0hanL1nga)
 - [Lewin](https://github.com/lewinkoon)
+- [Nos](https://github.com/Nosferatu783)
 - [Adwaith Prasanth](https://github.com/adwaithprasanth)
 - [Huỳnh Quốc Đạt](https://github.com/HuynhQuocDat-04)
 - [Masanadurai](https://github.com/Masanadurai007)
