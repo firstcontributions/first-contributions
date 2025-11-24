@@ -22,6 +22,7 @@
 - [PONTHUS Abderrahman](https://github.com/S3869)
 - [Chia](https://github.com/chia-chang)
 - [lionsol](https://github.com/lionsol)
+- [Bhumi](https://github.com/bansalbhumi)
 - [Deepak](https://github.com/Deepakdharsh)
 - [UltimateSeeSharp](https://github.com/UltimateSeeSharp)
 - [Vedika Barkare](https://github.com/vedikaBarkare)
@@ -1519,4 +1520,7 @@ Maqsood Ansari
 - Karl Fofie
 - [VikramMahajan](https://github.com/vikramm0907)
 - [Suhas](https://github.com/suhas181)
-- [Garrett Turner](https://github.com/gturner9371213)
+-[Garrett Turner](https://github.com/gturner9371213)
+- [Hiraad babakhani](https://github.com/Kagnite)
+- [Adigopulajalaseshukumar] (https://github.com/Seshuadigopula)
+- [likith kumar dr ] : (https://github.com/htmluser18)
