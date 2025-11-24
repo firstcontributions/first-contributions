@@ -1,4 +1,5 @@
 # Contributors
+- [Zatho0](https://github.com/Zatho0)
 - [clement717](https://github.com/clement717)
 - [Koji Kawamura](https://github.com/kouji0705)
 - [Bishal Paul](https://github.com/Bishal13102003)
@@ -89,6 +90,7 @@
   [Julian Cumps](https://github.com/juliancumps)
   [Han Set Naing](https://github.com/Hansetnaing)
 - [Syed Arham]
+- [Alekscybercendre](https://github.com/Alekcybercendre)
 - [Manoj Kumar](https://github.com/manojddv)
 - [Edward Dume](https://github.com/edwarddume55)
 - [Vaishnavi Suryawanshi](https://github.com/VaishnaviSW01)
@@ -1482,3 +1484,4 @@ Maqsood Ansari
 - [Daith_42](https://github.com/Daith-42)
 - [Allamelol](https://github.com/Allamelol)
 - [Anto42_](https://github.com/Antoo42)
+- [Gazwel](https://github.com/Minecraeteuh)
