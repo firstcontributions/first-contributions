@@ -1032,6 +1032,7 @@
 - [Sina Soltani](https://github.com/sinaxzi)
 - [Anish Patil](https://github.com/Anish-Kodarkar)
 - [Sinchana](https://github.com/Sinchanar09)
+- [Doryan Fleche Letellier] (https://github.com/Doryan-info)
 - [İsaməddin Qurbanov](https://github.com/isameddin35)
 - [Tyler Daw](https://github.com/TylerD1105)
 - [Umair Amir](https://github.com/UmairAmir)
