@@ -1519,4 +1519,4 @@ Maqsood Ansari
 - Karl Fofie
 - [VikramMahajan](https://github.com/vikramm0907)
 - [Suhas](https://github.com/suhas181)
--[Garrett Turner](https://github.com/gturner9371213)
+- [Garrett Turner](https://github.com/gturner9371213)
