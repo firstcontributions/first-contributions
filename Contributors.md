@@ -1,4 +1,5 @@
 # Contributors
+- [Jeanbaptisteee]( https://github.com/jeanbaptisteee)
 - [Koji Kawamura](https://github.com/kouji0705)
 - [Bishal Paul](https://github.com/Bishal13102003)
 - [Rémy Goennt](https://github.com/RemyGonnet)
