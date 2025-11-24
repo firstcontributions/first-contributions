@@ -1,4 +1,5 @@
 # Contributors
+-[Akash G Patil](https://github.com/akashcodes23)
 - [Brotcorne Florian](https://github.com/FlorianBrot)
 - [Dias Karshal](https://github.com/diaskarshal)
 - [Divin Sota](https://github.com/divinsota/first-contributions)
