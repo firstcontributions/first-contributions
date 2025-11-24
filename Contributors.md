@@ -1475,6 +1475,4 @@ Maqsood Ansari
 - Areeba Adeen (https://github.com/AreebaAdeenMalik)
 - [HarshSingh] (https://github.com/HarshVileon)
 - [domenhribernik](https://github.com/domenhribernik)
-- [TZiah](https://github.com/TZiah)
-- [Daith_42](https://github.com/Daith-42)
-- [Allamelol](https://github.com/Allamelol)
+- [Anto42_](https://github.com/Antoo42)
