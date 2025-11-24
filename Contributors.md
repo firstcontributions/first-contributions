@@ -1,4 +1,6 @@
 # Contributors
+- [Zatho0](https://github.com/Zatho0)
+- [clement717](https://github.com/clement717)
 - [Koji Kawamura](https://github.com/kouji0705)
 - [Bishal Paul](https://github.com/Bishal13102003)
 - [Rémy Goennt](https://github.com/RemyGonnet)
@@ -9,12 +11,14 @@
 - [pvpeuve](https://github.com/pvpeuve)
 - [Ziyan](https://github.com/ziyanaaan)
 - Hajer Mabrouk
+- [PONTHUS Abderrahman](https://github.com/S3869)
 - [Chia](https://github.com/chia-chang)
 - [lionsol](https://github.com/lionsol)
 - [UltimateSeeSharp](https://github.com/UltimateSeeSharp)
 - [Vedika Barkare](https://github.com/vedikaBarkare)
 - [Rizwan Munir](https://github.com/Rizstien)
 - [Ramkumar T](https://github.com/sparkp1ug)
+- [Maxence G](https://github.com/MaxenceGat)
 - [Venkata Ramprasad Pade](https://github.com/ramprasad-13)
 - [- Gaurav Mandal](https://github.com/gaurav8228/)
 - [Dewanshu Goswami](https://github.com/TheMatrix31415926)
@@ -87,6 +91,7 @@
   [Julian Cumps](https://github.com/juliancumps)
   [Han Set Naing](https://github.com/Hansetnaing)
 - [Syed Arham]
+- [Alekscybercendre](https://github.com/Alekcybercendre)
 - [Manoj Kumar](https://github.com/manojddv)
 - [Edward Dume](https://github.com/edwarddume55)
 - [Vaishnavi Suryawanshi](https://github.com/VaishnaviSW01)
@@ -663,6 +668,7 @@
 - [Ryan Tham](https://github.com/ryanjrt)
 - [Ro Shocks](https://github.com/Rshocks)
 - [uzuraDev](https://github.com/uzuraDev)
+- [Yirokun](https://github.com/Yirokun) #-----------------------------------------------------------------------------------------------#
 - [lepickel](https://github.com/lepickel)
 - [Eric Ijeoma](https://github.com/ericijeoma)
 - [Kent0011](https://github.com/Kent0011)
@@ -1034,6 +1040,7 @@
 - [Sina Soltani](https://github.com/sinaxzi)
 - [Anish Patil](https://github.com/Anish-Kodarkar)
 - [Sinchana](https://github.com/Sinchanar09)
+- [Doryan Fleche Letellier] (https://github.com/Doryan-info)
 - [İsaməddin Qurbanov](https://github.com/isameddin35)
 - [Tyler Daw](https://github.com/TylerD1105)
 - [Umair Amir](https://github.com/UmairAmir)
@@ -1452,6 +1459,7 @@ Maqsood Ansari
 -[Pragya Kumari](https://github.com/PRAGYA1245)
 -[Shreshth kumar](https://github.com/shreshth-kumar)
 -[Utkarsh Krale] (https://github.com/UtkarshKarale)
+- [Jean-eudes Pont](github.com/Hipolit26)
 -[Dilla] (https://github.com/anindilla)
 -[Sadaksh Mahindra] ([text](https://github.com/sadakshmahindra))
 - Kandula Komali Reddy
@@ -1474,3 +1482,14 @@ Maqsood Ansari
 - [HarshSingh] (https://github.com/HarshVileon)
 - [domenhribernik](https://github.com/domenhribernik)
 - [Cercus Gwenael]([https://github.com/domenhribernik](https://github.com/gwenaelcercus/first-contributions.git))
+- [OTTOGALLI Tristan](https://github.com/ottogalli-tristan)
+- [ange marie louise nkwimi tchatat](https://github.com/angeNK-git)
+- [TZiah](https://github.com/TZiah)
+- [Daith_42](https://github.com/Daith-42)
+- [Allamelol](https://github.com/Allamelol)
+- [raro212](https://github.com/raro212)
+- [Anto42_](https://github.com/Antoo42)
+- [Gazwel](https://github.com/Minecraeteuh)
+- [Alex-new-tech](https://github.com/Alex-new-tech)
+- [Kanelle-C]
+- [Abel](https://github.com/AbelQ11)
