@@ -1,6 +1,7 @@
 # Contributors
 - [Brotcorne Florian](https://github.com/FlorianBrot)
 - [Divin Sota](https://github.com/divinsota/first-contributions)
+- [asgardik0](https://github.com/asgardik0)
 - [Zatho0](https://github.com/Zatho0)
 - [clement717](https://github.com/clement717)
 - [Koji Kawamura](https://github.com/kouji0705)
