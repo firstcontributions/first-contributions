@@ -1485,3 +1485,4 @@ Maqsood Ansari
 - [Allamelol](https://github.com/Allamelol)
 - [Anto42_](https://github.com/Antoo42)
 - [Gazwel](https://github.com/Minecraeteuh)
+- [Alex-new-tech](https://github.com/Alex-new-tech)
