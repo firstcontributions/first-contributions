@@ -1471,4 +1471,4 @@ Maqsood Ansari
 - Areeba Adeen (https://github.com/AreebaAdeenMalik)
 - [HarshSingh] (https://github.com/HarshVileon)
 - [domenhribernik](https://github.com/domenhribernik)
-- [OttogalliTristan](https://github.com/ottogalli-tristan)
+- [Ottogalli-Tristan](https://github.com/ottogalli-tristan)
