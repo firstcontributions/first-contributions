@@ -1489,3 +1489,4 @@ Maqsood Ansari
 - [Anto42_](https://github.com/Antoo42)
 - [Gazwel](https://github.com/Minecraeteuh)
 - [Alex-new-tech](https://github.com/Alex-new-tech)
+- [Kanelle-C]
