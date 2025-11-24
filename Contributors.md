@@ -72,6 +72,7 @@
 - geogjegjegoiejgeroigjergjeoi
 - [Nimish Agrawal](https://github.com/nimishagrawal1405)❤️❤️❤️
 - [Gaurav S](https://github.com/garry00107)
+- Marie Josèphe Taregue
 - [moonBeam](https://github.com/jessicaparadise)
 - [Shiv Raj Singh](https://github.com/imuniqueshiv)
 - [Rishabh](https://github.com/rishabh8870)
@@ -1506,3 +1507,4 @@ Maqsood Ansari
 - [Abdessamad-Mechouahi](https://github.com/abdessamad-26)
 - fatimatou
 - [Canont] (https://github.com/tc240893)
+- Marie-Josephe
