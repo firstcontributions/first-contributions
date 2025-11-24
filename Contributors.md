@@ -22,6 +22,7 @@
 - [PONTHUS Abderrahman](https://github.com/S3869)
 - [Chia](https://github.com/chia-chang)
 - [lionsol](https://github.com/lionsol)
+- [Bhumi](https://github.com/bansalbhumi)
 - [Deepak](https://github.com/Deepakdharsh)
 - [UltimateSeeSharp](https://github.com/UltimateSeeSharp)
 - [Vedika Barkare](https://github.com/vedikaBarkare)
