@@ -1,6 +1,7 @@
 # Contributors
 - [Koji Kawamura](https://github.com/kouji0705)
 - [Bishal Paul](https://github.com/Bishal13102003)
+- [Rémy Goennt](https://github.com/RemyGonnet)
 - [Mayu Uno](https://github.com/mayuun14/)
 - [ODK] (https://github.com/odokyoung)
 - [PoncheDeFrutas](https://github.com/PoncheDeFrutas)
@@ -501,6 +502,7 @@
 - [0scrxk](https://github.com/oscrxk)
 - [mheavey](https://github.com/mheavey2)
 - [deep9x](https://github.com/deep9x)
+- [ShriyashMirdode](https://github.com/ShriyashMirdode)
 - [Yash aka Light](https://github.com/y8done)
 - [devoceon](https://github.com/emy3)
 - [Bobby Wells](https://github.com/bobbywells52)
@@ -1472,3 +1474,6 @@ Maqsood Ansari
 - Areeba Adeen (https://github.com/AreebaAdeenMalik)
 - [HarshSingh] (https://github.com/HarshVileon)
 - [domenhribernik](https://github.com/domenhribernik)
+- [TZiah](https://github.com/TZiah)
+- [Daith_42](https://github.com/Daith-42)
+- [Allamelol](https://github.com/Allamelol)
