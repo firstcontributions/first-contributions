@@ -1012,6 +1012,7 @@
 - [Omar Emara](https://github.com/omarf2000)
 - [Omkar Guha](https://github.com/omkarguha)
 - [Owen Roukey](https://github.com/rouk5555)
+- [Abigail Sanchez] (https://github.com/Abvvs)
 - [Iweisc](https://github.com/Iweisc)
 - [Sourav N](https://github.com/souravkashyap0)
 - [Luth Gallemaso](https://github.com/luthgllms)
