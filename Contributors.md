@@ -1502,3 +1502,4 @@ Maqsood Ansari
 - [Abel](https://github.com/AbelQ11)
 - [Abdessamad-Mechouahi](https://github.com/abdessamad-26)
 - fatimatou
+- [Canont] (https://github.com/tc240893)
