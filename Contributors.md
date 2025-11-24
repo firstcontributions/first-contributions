@@ -1,4 +1,5 @@
 # Contributors
+- [Zatho0](https://github.com/Zatho0)
 - [clement717](https://github.com/clement717)
 - [Koji Kawamura](https://github.com/kouji0705)
 - [Bishal Paul](https://github.com/Bishal13102003)
@@ -1480,4 +1481,4 @@ Maqsood Ansari
 - [TZiah](https://github.com/TZiah)
 - [Daith_42](https://github.com/Daith-42)
 - [Allamelol](https://github.com/Allamelol)
-- [Zatho0](https://github.com/Zatho0)
+-
