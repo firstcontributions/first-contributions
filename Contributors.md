@@ -1,6 +1,8 @@
 # Contributors
 - [Brotcorne Florian](https://github.com/FlorianBrot)
+- [Dias Karshal](https://github.com/diaskarshal)
 - [Divin Sota](https://github.com/divinsota/first-contributions)
+- [asgardik0](https://github.com/asgardik0)
 - [Zatho0](https://github.com/Zatho0)
 - [clement717](https://github.com/clement717)
 - [Koji Kawamura](https://github.com/kouji0705)
@@ -601,6 +603,7 @@
 - [Jordy19](https://github.com/Jordy19)
 - [Robiya](https://github.com/rhakim24)
 - [jhc4318](https://github.com/jhc4318)
+- [Soulwill](https://github.com/soulwill1)
 - [LunkadV](https://github.com/LunkadV)
 - [Elif Ş.](https://github.com/elifsz)
 - [eszanon](https://github.com/eszanon)
@@ -996,6 +999,7 @@
 - [Moresh](https://github.com/Moresh-Mishra)
 - [Moulya.K](https://github.com/MoulyaK2005)
 - [Nathan Hall](https://github.com/Zero4793)
+- [Vivek](https://github.com/Vivek290100)
 - [Neil DCruz](https://github.com/neildcruz)
 - [Nenad](https://github.com/maglvoskiNenad)
 - [Nimisha](https://github.com/codehusler14)
@@ -1504,4 +1508,7 @@ Maqsood Ansari
 - [Abdessamad-Mechouahi](https://github.com/abdessamad-26)
 - fatimatou
 - [Canont] (https://github.com/tc240893)
+- [one-piece] (https://github.com/sanketpatil425-cyber)
+- [Douae Bousnane](https://github.com/douaebousnane13-del)
+- [Mohd Ainul](https://github.com/MohdAinul)
 - Karl Fofie
