@@ -1,4 +1,5 @@
 # Contributors
+- [clement717](https://github.com/clement717)
 - [Koji Kawamura](https://github.com/kouji0705)
 - [Bishal Paul](https://github.com/Bishal13102003)
 - [Rémy Goennt](https://github.com/RemyGonnet)
@@ -15,6 +16,7 @@
 - [Vedika Barkare](https://github.com/vedikaBarkare)
 - [Rizwan Munir](https://github.com/Rizstien)
 - [Ramkumar T](https://github.com/sparkp1ug)
+- [Maxence G](https://github.com/MaxenceGat)
 - [Venkata Ramprasad Pade](https://github.com/ramprasad-13)
 - [- Gaurav Mandal](https://github.com/gaurav8228/)
 - [Dewanshu Goswami](https://github.com/TheMatrix31415926)
@@ -1034,6 +1036,7 @@
 - [Sina Soltani](https://github.com/sinaxzi)
 - [Anish Patil](https://github.com/Anish-Kodarkar)
 - [Sinchana](https://github.com/Sinchanar09)
+- [Doryan Fleche Letellier] (https://github.com/Doryan-info)
 - [İsaməddin Qurbanov](https://github.com/isameddin35)
 - [Tyler Daw](https://github.com/TylerD1105)
 - [Umair Amir](https://github.com/UmairAmir)
@@ -1452,6 +1455,7 @@ Maqsood Ansari
 -[Pragya Kumari](https://github.com/PRAGYA1245)
 -[Shreshth kumar](https://github.com/shreshth-kumar)
 -[Utkarsh Krale] (https://github.com/UtkarshKarale)
+- [Jean-eudes Pont](github.com/Hipolit26)
 -[Dilla] (https://github.com/anindilla)
 -[Sadaksh Mahindra] ([text](https://github.com/sadakshmahindra))
 - Kandula Komali Reddy
