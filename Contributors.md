@@ -1483,6 +1483,7 @@ Maqsood Ansari
 - [TZiah](https://github.com/TZiah)
 - [Daith_42](https://github.com/Daith-42)
 - [Allamelol](https://github.com/Allamelol)
+- [raro212](https://github.com/raro212)
 - [Anto42_](https://github.com/Antoo42)
 - [Gazwel](https://github.com/Minecraeteuh)
 - [Alex-new-tech](https://github.com/Alex-new-tech)
