@@ -41,6 +41,7 @@
 - [Md Najrul Ansari](https://github.com/najru01)
 - [Tyrell Norford] (https://github.com/Tymaster1)
 - Knowledge Benjamin
+-[Manoj Reddy]
 - [Matheus Lino](https://github.com/7matheus)
 - [Conor James](https://github.com/ConorsGitHub)
 - [Ishika Gupta](https://github.com/Ishika-guptaa25)
