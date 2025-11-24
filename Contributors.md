@@ -1474,3 +1474,4 @@ Maqsood Ansari
 - [HarshSingh] (https://github.com/HarshVileon)
 - [domenhribernik](https://github.com/domenhribernik)
 - [TZiah](https://github.com/TZiah)
+- [Jah60](https://github.com/Jah60)
