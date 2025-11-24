@@ -1497,3 +1497,4 @@ Maqsood Ansari
 - [Alex-new-tech](https://github.com/Alex-new-tech)
 - [Kanelle-C]
 - [Abel](https://github.com/AbelQ11)
+- [Abdessamad-Mechouahi](https://github.com/abdessamad-26)
