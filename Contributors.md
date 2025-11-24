@@ -1474,4 +1474,4 @@ Maqsood Ansari
 - [HarshSingh] (https://github.com/HarshVileon)
 - [domenhribernik](https://github.com/domenhribernik)
 - [TZiah](https://github.com/TZiah)
-- [Fitia](https://github.com/ambinintsoa-fitia)
+- [ambinintsoa-fitia](https://github.com/ambinintsoa-fitia)
