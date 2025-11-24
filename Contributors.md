@@ -603,6 +603,7 @@
 - [Jordy19](https://github.com/Jordy19)
 - [Robiya](https://github.com/rhakim24)
 - [jhc4318](https://github.com/jhc4318)
+- [Soulwill](https://github.com/soulwill1)
 - [LunkadV](https://github.com/LunkadV)
 - [Elif Ş.](https://github.com/elifsz)
 - [eszanon](https://github.com/eszanon)
