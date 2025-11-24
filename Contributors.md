@@ -1,10 +1,14 @@
 # Contributors
+- [Brotcorne Florian](https://github.com/FlorianBrot)
+- [Divin Sota](https://github.com/divinsota/first-contributions)
 - [Zatho0](https://github.com/Zatho0)
 - [clement717](https://github.com/clement717)
 - [Koji Kawamura](https://github.com/kouji0705)
+ - [Wissam]
 - [Bishal Paul](https://github.com/Bishal13102003)
 - [Rémy Goennt](https://github.com/RemyGonnet)
 - [Mayu Uno](https://github.com/mayuun14/)
+- [thomas](https://github.com/Konieczny-Thomas/polak-TK.git)
 - [ODK] (https://github.com/odokyoung)
 - [PoncheDeFrutas](https://github.com/PoncheDeFrutas)
 - [Tejinderpal Singh](http://github.com/tejinderpa)
@@ -27,6 +31,7 @@
 - [mirza](https://github.com/imhasnain)
 - [kanosa](https://github.com/kanosa0101)
 - [aym](https://github.com/onepunaym)
+- [nikitatows](https://github.com/nikitatows)
 - [Dhiraj Kumar Gupta](https://github.com/dhirajkrgupta)
 - [Sabarinathan R](https://github.com/sabarinathan07)
 - [Shiva Yadav](https://github.com/shiva-yadav-ds)
@@ -110,6 +115,7 @@
 - [Yassine El Alami](https://github.com/ElAlamiY)
 - [Jeevika R](https://github.com/jeevikar14)
 - [Raghu Meka](https://github.com/RBMeka)
+- [Gauthier](https://github.com/gauthier-lecigne)
 - [Jeevika R]
 - [Sai Teja Venkata Vinay Adapa](https://github.com/22A31A0525)
 - [Carina Mach](https://github.com/carinamach)
@@ -1476,6 +1482,7 @@ Maqsood Ansari
 - [karan gohel] (https://github.com/karangohel09)
 - Saksham Tomar
 - [Najmul Arifeen](https://github.com/najmularifeen786)
+- [Milhane](https://github.com/chmilhane)
 - [Menschenkind](https://github.com/menschenkind)
 - [SummerAgain2025]
 - Areeba Adeen (https://github.com/AreebaAdeenMalik)
