@@ -502,6 +502,7 @@
 - [0scrxk](https://github.com/oscrxk)
 - [mheavey](https://github.com/mheavey2)
 - [deep9x](https://github.com/deep9x)
+- [ShriyashMirdode](https://github.com/ShriyashMirdode)
 - [Yash aka Light](https://github.com/y8done)
 - [devoceon](https://github.com/emy3)
 - [Bobby Wells](https://github.com/bobbywells52)
