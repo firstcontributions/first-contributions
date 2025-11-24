@@ -1482,3 +1482,4 @@ Maqsood Ansari
 - [Daith_42](https://github.com/Daith-42)
 - [Allamelol](https://github.com/Allamelol)
 - [Anto42_](https://github.com/Antoo42)
+- [Louis-Dennetiere](https://github.com/Louis-Dennetiere)
