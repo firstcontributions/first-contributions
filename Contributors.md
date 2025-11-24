@@ -1504,3 +1504,4 @@ Maqsood Ansari
 - [Abdessamad-Mechouahi](https://github.com/abdessamad-26)
 - fatimatou
 - [Canont] (https://github.com/tc240893)
+- Karl Fofie
