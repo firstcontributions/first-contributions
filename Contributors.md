@@ -1,5 +1,8 @@
 # Contributors
+- [Brotcorne Florian](https://github.com/FlorianBrot)
+- [Dias Karshal](https://github.com/diaskarshal)
 - [Divin Sota](https://github.com/divinsota/first-contributions)
+- [asgardik0](https://github.com/asgardik0)
 - [Zatho0](https://github.com/Zatho0)
 - [clement717](https://github.com/clement717)
 - [Koji Kawamura](https://github.com/kouji0705)
@@ -30,6 +33,7 @@
 - [mirza](https://github.com/imhasnain)
 - [kanosa](https://github.com/kanosa0101)
 - [aym](https://github.com/onepunaym)
+- [nikitatows](https://github.com/nikitatows)
 - [Dhiraj Kumar Gupta](https://github.com/dhirajkrgupta)
 - [Sabarinathan R](https://github.com/sabarinathan07)
 - [Shiva Yadav](https://github.com/shiva-yadav-ds)
@@ -254,6 +258,7 @@
 - [Yasir Khan](https://github.com/itsyasirkhandev)
 - [Mahmoud Ediem](https://github.com/mahmoudediem)
 - [mansoorahmad-47](https://github.com/mansoorahmad-47)
+  [CecilioRatsimilo](https://github.com/CecilioRatsimilo)
 - [yahyaobeid](https://github.com/yahyaobeid)
 - [stackashu](https://github.com/Stackashu)
 - [anshuman](https://github.com/sahayanshuman2005)
@@ -993,6 +998,7 @@
 - [Moresh](https://github.com/Moresh-Mishra)
 - [Moulya.K](https://github.com/MoulyaK2005)
 - [Nathan Hall](https://github.com/Zero4793)
+- [Vivek](https://github.com/Vivek290100)
 - [Neil DCruz](https://github.com/neildcruz)
 - [Nenad](https://github.com/maglvoskiNenad)
 - [Nimisha](https://github.com/codehusler14)
@@ -1480,6 +1486,7 @@ Maqsood Ansari
 - [karan gohel] (https://github.com/karangohel09)
 - Saksham Tomar
 - [Najmul Arifeen](https://github.com/najmularifeen786)
+- [Milhane](https://github.com/chmilhane)
 - [Menschenkind](https://github.com/menschenkind)
 - [SummerAgain2025]
 - Areeba Adeen (https://github.com/AreebaAdeenMalik)
@@ -1497,4 +1504,8 @@ Maqsood Ansari
 - [Alex-new-tech](https://github.com/Alex-new-tech)
 - [Kanelle-C]
 - [Abel](https://github.com/AbelQ11)
+- [Abdessamad-Mechouahi](https://github.com/abdessamad-26)
+- fatimatou
+- [Canont] (https://github.com/tc240893)
+- [one-piece] (https://github.com/sanketpatil425-cyber)
 - [Douae Bousnane](https://github.com/douaebousnane13-del)
