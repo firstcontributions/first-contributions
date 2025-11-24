@@ -245,6 +245,7 @@
 - [Yasir Khan](https://github.com/itsyasirkhandev)
 - [Mahmoud Ediem](https://github.com/mahmoudediem)
 - [mansoorahmad-47](https://github.com/mansoorahmad-47)
+  [CecilioRatsimilo](https://github.com/CecilioRatsimilo)
 - [yahyaobeid](https://github.com/yahyaobeid)
 - [stackashu](https://github.com/Stackashu)
 - [anshuman](https://github.com/sahayanshuman2005)
