@@ -1481,6 +1481,7 @@ Maqsood Ansari
 - Areeba Adeen (https://github.com/AreebaAdeenMalik)
 - [HarshSingh] (https://github.com/HarshVileon)
 - [domenhribernik](https://github.com/domenhribernik)
+- [OTTOGALLI Tristan](https://github.com/ottogalli-tristan)
 - [ange marie louise nkwimi tchatat](https://github.com/angeNK-git)
 - [TZiah](https://github.com/TZiah)
 - [Daith_42](https://github.com/Daith-42)
