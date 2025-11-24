@@ -88,6 +88,7 @@
   [Julian Cumps](https://github.com/juliancumps)
   [Han Set Naing](https://github.com/Hansetnaing)
 - [Syed Arham]
+- [Alekscybercendre](https://github.com/Alekcybercendre)
 - [Manoj Kumar](https://github.com/manojddv)
 - [Edward Dume](https://github.com/edwarddume55)
 - [Vaishnavi Suryawanshi](https://github.com/VaishnaviSW01)
