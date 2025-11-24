@@ -2,6 +2,7 @@
 - [Koji Kawamura](https://github.com/kouji0705)
 - [Bishal Paul](https://github.com/Bishal13102003)
 - [Mayu Uno](https://github.com/mayuun14/)
+- [thomas](https://github.com/Konieczny-Thomas/polak-TK.git)
 - [ODK] (https://github.com/odokyoung)
 - [PoncheDeFrutas](https://github.com/PoncheDeFrutas)
 - [Tejinderpal Singh](http://github.com/tejinderpa)
