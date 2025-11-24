@@ -20,6 +20,7 @@
 - [PONTHUS Abderrahman](https://github.com/S3869)
 - [Chia](https://github.com/chia-chang)
 - [lionsol](https://github.com/lionsol)
+- [Deepak](https://github.com/Deepakdharsh)
 - [UltimateSeeSharp](https://github.com/UltimateSeeSharp)
 - [Vedika Barkare](https://github.com/vedikaBarkare)
 - [Rizwan Munir](https://github.com/Rizstien)
