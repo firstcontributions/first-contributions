@@ -2,7 +2,8 @@
 - [keynes steve AKPODE](https://github.com/keynessteve-cyber)
   [CecilioRatsimilo]
 - [Brotcorne Florian](https://github.com/FlorianBrot)
-- [Dias Karshal](https://github.com/diaskarshal)
+ -[Resmi](https://github.com/CodeNLife)
+ -[Dias Karshal](https://github.com/diaskarshal)
 - [Divin Sota](https://github.com/divinsota/first-contributions)
 - [asgardik0](https://github.com/asgardik0)
 - [Zatho0](https://github.com/Zatho0)
