@@ -11,6 +11,7 @@
 - [Satya-0611](https://github.com/Satya-0611)
 - [Koji Kawamura](https://github.com/kouji0705)
 - [Wissam]
+- [VicciHz](https://github.com/VicciHz)
 - [BALAJI](https://github.com/balaji-bheesetti)
 - [alvarosola1](https://github.com/alvarosola1)
 - [Bishal Paul](https://github.com/Bishal13102003)
