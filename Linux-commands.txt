@@ -1,0 +1,682 @@
+ls ---> used to list files and dirs
+
+ls -l  --> list files and dirs with long format
+
+touch test1 ---> used to create empty file
+
+ls -lt ---> recently created files will be displayed at begining
+
+ls -lrt --> recently created files will be displayed at the end
+
+pwd ---> present working directory
+
+---------------------------------------------------------------------------------------
+
+mkdir dirname ----> create dir
+
+cd dirname ----> change directory
+
+cd dir/dir2/
+
+cd ..  --> used to come out of directory
+
+cd ../../.. ---> 
+
+mkdir -p temp1/temp2/temp3   ---> create complete directory structure 
+---------------------------------------------------------------------------------
+cat filename ---> used to check content of a file
+========================================================================================
+vi is used to edit file 
+
+vi filename
+
+esc --> i ---> insert 
+
+esc --> :wq! ---> save content of a file (write and quit )
+
+esc ---> :q! --> quit without saving content 
+
+how do replace aprticular string or word in a file?
+
+esc :%s/current-string/new-string/g
+esc :%s/linux/windows/g
+-------------------------------------------------------
+
+Need to replace only in 4th line
+
+esc:4s/linux/windows/g
+---------------------------------------------------------
+need to replace from 2nd to 4th line
+esc:2,4s/linux/windows/g
+
+-----------------------------------------------------------------
+
+how do you replace from 2nd line to end of a file 
+
+esc:2,$s/linux/windows/g
+----------------------------------------------------------------
+how do set line numbers 
+
+esc : set nu --> set line numbers
+
+esc : set nonu ---> remove line number
+
+--------------------------------------------------
+need to move cursor to particular line
+
+esc :line_number
+esc : 4 ---> cursor will move to 4th line
+
+----------------------------------------------------------------------------- 
+
+delete particular line in vi 
+
+esc press dd
+---------------------------------------------------------------------
+==========================================================================================
+cp is used to copy file
+
+cp file1 file2  ----> file1 will be copied to file2
+-------------------------------------------------------------------------
+
+cp test1 temp1/temp2/temp3/
+----------------------------------------------------------------------
+copy dir to another dir
+
+cp -r dir1 dir2
+----------------------------------------------------------------------
+ cp test1 file1 test3 temp  ---> copy multiple files or dirs to another dir
+---------------------------------------------------------------------------------
+
+how do rename file or dir?
+
+mv file1 file2
+--------------------------------------------------------
+mv file1 dir2
+-------------------------------------------------------
+mv file1 file2 file3 dir1  ---> move multiple files to directory
+
+
+install tree command 
+sudo yum install tree
+----------------------------------------------------------------------------
+rwxr-xr--
+7   5  4
+
+chmod is used to change permission of a file or dir
+
+chmod 777 filename
+---------------------------------------------------------------------
+
+chmod -R 777 dir
+
+all subdirectories and files permission will be changed to 777
+
+---------------------------------------------------------
+u--> user, g--> group and o--> others
+
+chmod u+rwx filename
+
+--------------------------------------------------------------------------------------- 
+
+chown --> used change ownership of a file or a dir
+
+chmod newowner filename
+---------------------------------------------
+if new onwer belongs to different group 
+
+chmod newonwer:groupname filename 
+
+------------------------------------------------------------------------------------
+df -h . ----> used to check disk size
+
+. indicates present disk
+-------------------------------------------------------------
+du -sh filename (disk usage)
+
+used to check size of a file 
+
+du -sh *  ---> all files and dirs size in present directory
+
+------------------------------------------------------------------- 
+echo "hi how r u"  is used to print 
+
+ echo -e "hi\nhow r u"
+----------------------------------------------------------------------------
+> (redirect)
+
+used to store output of a command to file
+
+ls -lrt > log
+---------------------------------------------------------------------------
+>> (append)
+used to attach output of a command to end of a file 
+
+echo "this is linux class" >> log
+===============================================================
+===============================================================
+wc filename
+
+lines words chars filename
+
+wc -l log  ---> number of lines 
+wc -w log  ---> words
+wc -c log  --> chars
+--------------------------------------------------------------------------
+"head" is used to display 1st portion of a file
+
+head -3 filename  ---> 1st 3 lines
+
+head -12 filename ---> 1st 12 lines of a file
+head filename ---> 10 lines by default
+-------------------------------------------------------------------------
+tail is used to display last portion of a file
+
+tail -3 filename  --> last 3 lines 
+
+tail -5 filename  ----> last 5 lines 
+
+tail filename -----> last 10lines by default
+----------------------------------------------------------------------------
+
+| (pipe) is used to give output of one command as input to next command 
+
+ls -lrt | wc -l 
+
+------------------------------------------------------------
+
+ head -4 log | tail -1  --> display 4th line
+---------------------------------------------------------------
+how do you display 99th line of a file
+
+head -99 file | tail -1
+
+--------------------------------------------------
+display 4th to 7th line
+
+head -7 file | tail -3
+
+---------------------------------------------------------------------
+
+count number of words in 99th line of a file
+
+head -99 log | tail -1 | wc -w
+-----------------------------------------------------------------------------
+
+display 2nd last line of a file
+
+tail -2 log | head -1
+---------------------------------------------------------------------------------------
+grep --> pattern search 
+
+used to search string in file
+
+grep "pattern" filename
+
+grep -w "string" filename  ----> search only specified word 
+
+grep -i "Linux" test_1   ---> i --> case insensitive 
+
+how do you search multiple pattern?
+
+grep -e "linux" -e "windows" test_1
+
+or 
+egrep 
+
+how do you list filenames if files have particular word or string
+
+grep -R -l "linux" * 
+
+
+how do you prnt lines which don't have specified pattern
+grep -v "linux" test_1
+
+list lines if starts with particular pattern
+
+grep "^pattern" filename
+
+grep "s$" test_1  ---> list lines ends with particular pattern 
+
+get command to print lines which start with "M" and ends with "s"
+
+grep -c "linux" test_1  ---> count number lines which have specified pattern
+
+========================================================
+
+how do you replace string in a file?
+
+sed --> used to replace string in a file
+sed 's/linux/unix/g' filename
+
+sed -i 's/linux/unix/g' test_1
+
+sed '4s/linux/unix/g'  ---> replace string in 4th line only
+
+sed '2,6s/linux/unix/g' ---> from 2nd to 6th line
+
+sed '$s/linux/unix/g'  ---> replace string only in the last line
+
+delete particular line
+
+sed '4d' test_1  --> delete 4th line of a file
+
+sed '$d' test_1  --> delete last line
+
+sed '2,6 d' test_1  --> delete 2nd to 6th line
+
+sed '1d;3d' test_1
+
+how do you print particular line?
+sed -n '3p' test_1  ---> print 3rd line
+
+sed -n '$p' test_1  ---> print last line
+
+sed -n '2,6p' test_1  ---> print 2nd to 6th line
+
+sed -n '2p;6p' test_1  ---> print 2nd to 6th line
+
+-----------------------------------------------------------------
+
+cut --> used to cut file colounwise
+
+cut -d " " -f1 data  --> 1st coloumn
+
+cut -d " " f1,3 data ---> 1st and 3rd coloumn 
+
+cut -d " " f3-6 data ---> 3rd to 6th column
+
+--------------------------------------------------------
+awk is used to cut file rowwise and coloumn wise but we use awk command to cut file coloumn wise
+
+awk -F " " '{print $1}' data  ----> 1st coloumn
+
+$1 ---> 1st coloumn
+$2  --> 2nd coloumn
+
+$NF ---> last coloumn
+$(NF-1) --> 2nd last coloumn 
+
+
+awk -F " " '{print $NF}' data ---> last coloumn
+
+awk -F " " '{print $(NF-1)}' data  --> 2nd last coloumn 
+
+-------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
+
+find ---> used to find location of a file 
+
+find . -iname "filename"
+
+i --> case insensitive
+
+list files which are modified 3months back 
+
+find . -type f -mtime +90
+
+find . -type d -mtime +90
+
+find .  -mtime +90  -->both files and dirs
+
+list files which are modified within 3months 
+find . -type d -mtime -90
+
+
+find files which are modified with in 50mins 
+find . -type f -mmin -50
+
+find files which modified 50mins ago
+find . -type f -mmin +50
+
+find files which have 777 permission
+find . -type f -perm 777
+
+find all empty files
+find . -type f -empty
+
+-----commnad to list all non empty files-----
+
+ find . -maxdepth 1 -iname "test1"
+
+maxdepth is used to retrict automatic recursive
+
+maxdepth 1  ---> 1st level dir
+
+maxdepth 2 ---> 2nd level dir
+
+-------------------------------------------------------------
+
+delete all files which are modified 3 months ago
+
+find . -tyep f -mtime +90 | xargs rm -rf 
+
+xargs is used to pass output of one command to next command as arguements 
+
+Assigment:
+1. command to list files if their size is more than 1MB
+
+2. use -exec option in find command to delete files 
+===============================================================================
+
+
+softlink 
+
+it's shortcut to a file. if you make any changes in the actual file, it will get reflected in the softlink
+if you delete actual file, softlink will not work
+
+ln -s /home/ec2-user/file1 link1
+
+------------------------------------------------------------------
+hardlink
+ln /home/ec2-user/file1 hard1
+
+----------------------------------------------------------------------------------
+diff b/w hard link and softlink
+
+if I delete actual file, softlink will not work
+if I delete actual file, hardlink works fine because it points to inode of a file (inode is uniq number indicates memory address)
+
+=====================================================================================================================
+
+Assigment:
+1. command to list files if their size is more than 1MB
+
+2. use -exec option in find command to delete files  
+
+-------------------------------------------------------------------------------------------------------------
+
+ps --> used list current running processes on the system
+
+need to check whether particular process is running or not
+
+ps -ef | grep "processname"
+
+3.need to list all processes started by particular user
+
+
+------------------------------------------------------------------
+stop process (forceful stop)
+kill -9 PID
+
+4.kill all process started by paticular user
+5. kill all process by name 
+
+you can use sleep command for practice 
+
+sleep 10
+sleep 100
+===========================================================================
+how do stop process gracefully
+
+sudo service name stop
+sudo service name start
+sudo service name restart
+
+6. get systemctl command 
+
+sudo systemctl stop name
+======================================================================================
+
+------------------------------------------------------------------
+umask is used to set default permission on system.
+ it should run with root user
+
+umask 000 ---> whoever creates file or dir will have full permission
+
+umask 777 ---> no permission
+
+---------------------------------------
+rwxr-xr-x = 755
+
+777
+755
+---
+022
+----
+
+umask 0222
+---------------------------------------------------------------------
+
+r-xr-xr--  = 554
+
+
+777
+554
+---
+223
+---
+umask 233
+-----------------------------------------------------------------------------  
+su (switch user or superuser)
+is used to login as other user or root user
+
+su - username
+password:
+-------------------------------------------------------------------------------------
+sudo (superuser does)
+
+sudo ---> used to execute command with root permission
+
+sudo yum install vim wget
+
+----------------------------------------------------------------------------------------
+add user ABC abd and give sudo permission
+
+sudo useradd ABC
+sudo passwd ABC
+password:
+password:
+
+sudo su -  (login as root user from ec2-user)
+
+vi /etc/sudoers.d/90-cloud-init-users
+
+go to last line of this file
+
+give same permission for ABC also like ec2-user
+you need to add another line and change ec2-user to ABC
+save file
+ABC also will have sudo permission
+------------------------------------------------------------------------------------------
+
+more command is used to display content of a file page wise
+
+more filename
+
+less ---> used to display content of a file pagewise, but you can scroll up and scroll down using up and down arrrows
+
+less filename 
+
+( press q to quit  )
+-------------------------------------------------------------------------------------------------------
+date  --> used to print system date and time 
+date +%m
+
+-------------------------------------------------------------------------------------------
+
+uniq --> print onlu uniq data and removes deplicates. use this along with sort
+
+sort --> used to sort data --> ascending sort
+
+sort -r filename ---> decending sort
+
+
+cat test | sort | uniq
+
+we need to use uniq command always with sort command 
+-------------------------------------------------------------------------------------------------------
+
+how do you check linux version
+
+uname -v  ---> only version
+
+uname -a ---> all info
+
+--------------------------------------------------------
+who ---> who all logged into system 
+whoami ---> check ur username 
+hostname --> hostname or ip of current server
+-----------------------------------------------------------------------
+ssh --> used to login to remote server and uses port 22 
+
+ssh username@server
+password:
+--------------------------------------------------------------------------------
+
+ssh -i aws-keys/devops-june-21.pem ec2-user@172.31.21.0
+
+you need to private IP
+
+
+run command on remote server 
+ssh -i aws-keys/devops-june-21.pem ec2-user@172.31.21.0 "ls"
+
+1. install winscp 
+2. using winscp copy pem file to server1
+3. login to server1 using putty 
+4. change permission to 400 using chmod 400 filename.pem
+5. ssh -i filename.pem ec2-user@server2-private-ip
+------------------------------------------------------------------------------------
+scp is used to copy files from one server to another (uses port 22)
+
+scp filename username@server:/path/
+password:
+===================================================================================
+
+scp is used to copy files from one server to another (uses port 22)
+
+scp filename username@server:/path/
+password:
+-----------------------------------------------------------------------------------
+aws ec2-instance
+ 
+copy file 
+scp -i aws-keys/devops-june-21.pem data ec2-user@172.31.21.0:/home/ec2-user/
+
+
+copy dir
+scp -i aws-keys/devops-june-21.pem -r temp1/* ec2-user@172.31.21.0:/home/ec2-user/temp1/
+
+
+scp -i aws-keys/devops-june-21.pem ec2-user@172.31.21.0:/home/ec2-user/temp1/file1 .
+
+
+rsync ---> used to copy files or dirs within server and also between servers
+
+rsync -i key.pem dir1 username@server2:/home/ec2-user/dir1
+
+diff rsync and scp
+
+while copying while data from one server to another, if copy is stopped in between due to network issue. if use scp command, it will start copying from begining 
+if use rsync command, it will start copying from where it was stopped (because it will comapre and copy and it's slower than scp)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+
+ping is used to check server is running or not. ping uses ICMP protocal
+
+(you can server is shutdown or not)
+
+ping ipaddress or servername
+
+----------------------------------------------------------------------------------
+telnet --> used to break firewall. it uses port 23. used to authenticate account credentials on remote server 
+
+telnet IPaddress or servername
+username:
+password:
+
+----------------------------------------------------------------------------------------------------
+
+
+
+how do you setup passwordless connection between servers ?
+
+
+we need to run "ssh-keygen -t rsa" on server1 and generate rsa key. 
+take this public key and copy it to another server to file called authorized_keys under .ssh directory. save it
+
+next time when you login from server1 to server2, it will be passwordless connection 
+
+steps:
+login to server1
+
+ssh-keygen -t rsa
+(keep pressing enter key till key get generated)
+
+cat /home/ec2-user/.ssh/id_rsa.pub
+(copy this key)
+
+login to server2
+
+cd .ssh
+
+vi authorized_keys
+
+paste key at the end of a file and save it
+
+go to server1 and run "ssh ec2-user@server2"  (check logged in to server2 whithout password)
+======================================================================================================
+
+How to enable password connection on ec2 instance 
+
+sudo su -  (login as root)
+
+cd /etc/ssh/sshd_config.d
+
+
+vi 50-cloud-init.conf
+
+(change passwordAuthentication yes)
+
+set password for user using below command 
+
+passwd ec2-user
+
+Restart sshd service 
+
+service sshd restart
+systemctl restart sshd 
+
+go to other server and  try logging from other server with password
+
+ssh ec2-user@serverIP
+--------------------------------------------------------------------------
+
+.bashrc  
+
+what is .bashrc or .bash_profile?
+
+an auto-execute file which gets executed automatically as soon as log into system 
+
+what is diff b/w .bashrc , bash_profile and bash_history?
+
+---------------------------------------------------------------------------------------------------------------------
+how do you check available ports or free ports on the system?
+
+netstat
+
+assignment 1. get all options in netstat
+-------------------------------------------------------------------------------------------
+
+tee ---> used to display output of a command on console as well as write to file
+
+tee -a  --> a indicates append 
+
+-------------------------------------------------------------------------------------------------------------
+
+wget --> used to download file to linux server from browser 
+
+ubuntu
+
+sudo apt-get install vim  ---> installation command on ubuntu
+sudo yum install vim    -----> installation command on redhat
+
+
+Assigment2: install tomcat on ubuntu and download calendar.war file and copy it  to /webapps folder under tomcat
+
+ps -ef | grep tomcat
+=========================================================================
+
