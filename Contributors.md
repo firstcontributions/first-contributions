@@ -288,6 +288,7 @@
 - [Hrishikesh Rondla](https://github.com/Hrishikesh-Rondla)
 - [Amit Kumar](https://github.com/amitak985059)
 - [Yas](https://github.com/ykip10)
+- {Karshik Madavi}:{https://github.com/c0-d-3c}
 - [Juliana Prado](https://github.com/julevi)
 - [Crisandresro012](https://github.com/Cristhian012)
 - [Rudra Pratap Singh Jadon](https://github.com/rudrajadon)
