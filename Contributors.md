@@ -100,6 +100,7 @@
 - [Dheeraj Kumar](https://github.com/Dheeraj-Kumar-8)
 - [Srihari Vernekar]
 - [Baris Yildizel]
+- [Daniel Caspit](https://github.com/dcaspit)
 - [Vanshika jain](https://github.com/vanshika-jain3107)
 - [Dennis Muchai](https://github.com/dmuchai)
 - [John Bachoura](https://github.com/Commandershell)
