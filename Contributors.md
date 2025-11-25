@@ -7,6 +7,7 @@
 - [asgardik0](https://github.com/asgardik0)
 - [Zatho0](https://github.com/Zatho0)
 - [clement717](https://github.com/clement717)
+- [Satya-0611](https://github.com/Satya-0611)
 - [Koji Kawamura](https://github.com/kouji0705)
 - [Wissam]
 - [BALAJI](https://github.com/balaji-bheesetti)
