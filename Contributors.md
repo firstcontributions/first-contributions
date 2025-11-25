@@ -1538,7 +1538,6 @@ Maqsood Ansari
 - [likith kumar dr ] : (https://github.com/htmluser18)
 - chiraj gupta
 <<<<<<< HEAD
-[ZaidMohammadZia] (https://www.youtube.com/@ZaidZia_29)
 =======
 - Elena Lopez
 - ARuizTorres
@@ -1546,3 +1545,4 @@ Maqsood Ansari
 - [DONGMIN](https://github.com/fftl)
 - [Vivek Kumar](https://github.com/vivekkumarrathour)
 >>>>>>> main
+[ZaidMohammadZia] (https://www.youtube.com/@ZaidZia_29)
