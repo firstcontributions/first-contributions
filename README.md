@@ -97,6 +97,15 @@ _If you're not comfortable with command line, [here are tutorials using GUI tool
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork the repository" />
 
+## Troubleshooting
+
+Here are some common issues beginners face when making their first contribution:
+
+- **Git configuration problems:** Make sure your name and email are set up:
+  ```bash
+  git config --global user.name "Your Name"
+  git config --global user.email "you@emample.com"
+
 #### If you don't have git on your machine, [install it](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
 ## Fork this repository
