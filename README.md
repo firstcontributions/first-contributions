@@ -127,6 +127,22 @@ git clone git@github.com:this-is-you/first-contributions.git
 ```
 
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
+## Build and Setup Instructions
+
+After cloning the repository, install the dependencies and build the project using the commands below.
+
+```bash
+# Go into the project folder
+cd first-contributions
+
+# Install all dependencies
+npm install
+
+# Build the project
+npm run build
+
+# (Optional) Start the development server
+npm start
 
 ## Create a branch
 
