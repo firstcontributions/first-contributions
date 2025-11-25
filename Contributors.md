@@ -135,6 +135,7 @@
 - [Gajji Chandu Yadav](https://github.com/AnandajithS)
 - [Christian Gongora](https://github.com/ChristianGongoraDeMoraes)
 - [Raghu]
+- [Crazydiamond](https://github.com/crazydiamondaz)
 - [Victor]
 - [Dhayanithi s r](https://github.com/its-dhaya)
 - [Nivedita CS](https://github.com/niveditacs03)
@@ -157,6 +158,7 @@
 - Jia Yee (Hi! Hope your git learning journey goes well too!)
 - Bastiqui
 - lumberjackwizard)
+- Abdullah Malik (https://github.com/akm20005)
 - [Viraj Hudlikar](https://github.com/vhudlikar)
 - [Kishita Deotale](https://github.com/kishitadeotale24)
 - [Rhythm Patel](https://github.com/RhythmP619)
