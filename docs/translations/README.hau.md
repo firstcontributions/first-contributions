@@ -27,7 +27,7 @@ Yanzu maye gurbin repo akan injin ku. Je zuwa asusun GitHub ɗin ku, buɗe repo 
 
 Bude tasha kuma gudanar da umarni mai zuwa:
 
-```
+```bash
 git clone "url you just copied"
 ```
 
@@ -37,7 +37,7 @@ inda "url ɗin da kuka kwafi" (ba tare da alamar magana ba) shine url don ajiya 
 
 Misali:
 
-```
+```bash
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 
@@ -47,19 +47,19 @@ inda `this-is-you` shine sunan mai amfani na GitHub. Anan, kuna kwafin abun ciki
 
 Canja zuwa tsarin shugabanci akan kwamfutarka (idan ba ku da shi a can):
 
-```
+```bash
 cd na farko-gudunmawar
 ```
 
 Yanzu, ƙirƙiri reshe ta amfani da umarnin 'git checkout':
 
-```
+```bash
 git checkout -b <ƙara-sabon-reshe-name>
 ```
 
 Misali:
 
-```
+```bash
 git checkout -b add-alonzo-church
 ```
 
@@ -77,13 +77,13 @@ Idan ka je kundin kundin kamfani kuma ka aiwatar da umurnin 'git status', za ka 
 
 Ƙara waɗannan canje-canje zuwa reshen da kuka ƙirƙira ta amfani da umarnin 'git add':
 
-```
+```bash
 git ƙara Masu ba da gudummawa.md
 ```
 
 Yanzu aiwatar da canje-canje ta amfani da umarnin 'git Committee':
 
-```
+```bash
 git commit -m "Ƙara <sunan ku> zuwa lissafin Masu ba da gudummawa"
 ```
 Sauya `<sunan ku>' da sunan ku.
@@ -93,7 +93,7 @@ Sauya `<sunan ku>' da sunan ku.
 
 Yi canje-canjen ku ta amfani da umarnin 'git push':
 
-```
+```bash
 git tura asalin <ƙara-sunan-reshen ku>
 ```
 

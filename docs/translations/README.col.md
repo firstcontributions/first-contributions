@@ -28,7 +28,7 @@ Ahora toca clonar este repositorio en tu compu. Andate a tu cuenta de GitHub, da
 
 Abre tu consola o terminal y ejecuta el siguiente comando de git:
 
-```
+```bash
 git clone "url que acabas de copiar"
 ```
 
@@ -38,7 +38,7 @@ Donde dice "url que acabas de copiar" (sin las comillas, ojo) es la _url_ de est
 
 Por ejemplo:
 
-```
+```bash
 git clone https://github.com/este-eres-tu/first-contributions.git
 ```
 
@@ -48,19 +48,19 @@ Cambiá `este-eres-tu` por tu usuario de GitHub. Acá estás copiando todo el co
 
 Metete al directorio del repositorio en tu compu (si no estás ya ahí).
 
-```
+```bash
 cd first-contributions
 ```
 
 Ahora crea una rama (_branch_) usando el comando `git checkout`:
 
-```
+```bash
 git checkout -b <añade tu nombre>
 ```
 
 Por ejemplo:
 
-```
+```bash
 git checkout -b add-alonzo-church
 ```
 
@@ -76,13 +76,13 @@ Si vas al directorio del proyecto y ejecutas el comando `git status`, verás que
 
 Agrega esos cambios a la rama (_branch_) que creaste anteriormente usando el comando `git add`:
 
-```
+```bash
 git add Contributors.md
 ```
 
 Ahora hacele un _commit_ a esos cambios ejecutando el comando `git commit`:
 
-```
+```bash
 git commit -m "Add <tu-nombre> to Contributors list"
 ```
 
@@ -92,7 +92,7 @@ cambiando `<tu-nombre>` por tu nombre, obviamente.
 
 Mandale un _push_ de tus cambios usando el comando `git push`:
 
-```
+```bash
 git push origin <añade-el-nombre-de-la-rama>
 ```
 

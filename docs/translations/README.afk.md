@@ -28,7 +28,7 @@ Klone nou die vurk repo aan jou masjien. Gaan na jou GitHub-rekening, maak die v
 
 Open 'n terminaal en voer die volgende git opdrag uit:
 
-```
+```bash
 git clone "url you just copied"
 ```
 
@@ -38,29 +38,29 @@ waar "url jy net gekopieer" het (sonder die aanhalingstekens) is die url na hier
 
 Byvoorbeeld:
 
-```
+```bash
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 
-waar `this-is-youis` jou GitHub gebruikersnaam Hier kopieer jy die inhoud van die eerste bydrae repository in GitHub na jou rekenaar.
+waar `this-is-you` jou GitHub gebruikersnaam is. Hier kopieer jy die inhoud van die eerste bydrae repository in GitHub na jou rekenaar.
 
 ## Skep 'n tak
 
 Verander na die repository gids op jou rekenaar (as jy nie reeds daar is nie):
 
-```
+```bash
 cd first-contributions
 ```
 
 Skep nou 'n tak met die git `checkout` opdrag:
 
-```
+```bash
 git checkout -b <add-your-new-branch-name>
 ```
 
 Byvoorbeeld:
 
-```
+```bash
 git checkout -b add-alonzo-church
 ```
 
@@ -77,13 +77,13 @@ As u na die projekgids gaan en die opdrag uitvoer `git status`, sal u sien dat d
 
 Voeg die veranderinge by die tak wat jy net geskep het deur die `git add` opdrag te gebruik:
 
-```
+```bash
 git add Contributors.md
 ```
 
 Doen nou die veranderinge deur die `git commit` opdrag te gebruik:
 
-```
+```bash
 git commit -m "Add <your-name> to Contributors list"
 ```
 
@@ -93,7 +93,7 @@ vervang `<your-name>` met jou naam.
 
 Druk jou veranderinge deur die opdrag te gebruik `git push`:
 
-```
+```bash
 git push origin <add-your-branch-name>
 ```
 

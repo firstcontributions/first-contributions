@@ -25,7 +25,7 @@ _Եթե հրամանի պատուհանը (command line) ձեզ հարմար չ�
 
 Բացեք տերմինալը և գործարկեք հետևյալ git հրամանը.
 
-```
+```bash
 git clone "url you just copied"
 ```
 
@@ -35,7 +35,7 @@ git clone "url you just copied"
 
 Օրինակ՝
 
-```
+```bash
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 
@@ -45,19 +45,19 @@ git clone https://github.com/this-is-you/first-contributions.git
 
 Մուտք գործեք ձեր համակարգչում գտնվող պահոցը, եթե արդեն այնտեղ չեք։
 
-```
+```bash
 cd first-contributions
 ```
 
 Հիմա ստեղծեք նոր ճյուղ՝ օգտագործելով `git checkout` հրամանը․
 
-```
+```bash
 git checkout -b <add-your-name>
 ```
 
 Օրինակ՝
 
-```
+```bash
 git checkout -b add-alonzo-church
 ```
 
@@ -71,13 +71,13 @@ git checkout -b add-alonzo-church
 
 Ավելացրեք այդ փոփոխությունները այն ճյուղին, որը հենց նոր ստեղծեցիք՝ օգտագործելով `git add` հրամանը.
 
-```
+```bash
 git add Contributors.md
 ```
 
 Այժմ գործադրեք այս փոփոխությունները `git commit` հրամանով.
 
-```
+```bash
 git commit -m "Add <your-name> to Contributors list"
 ```
 
@@ -87,7 +87,7 @@ git commit -m "Add <your-name> to Contributors list"
 
 Push արեք ձեր փոփոխությունները `git push` հրամանով․
 
-```
+```bash
 git push origin <add-your-name>
 ```
 
