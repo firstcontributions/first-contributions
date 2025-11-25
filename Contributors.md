@@ -2,7 +2,8 @@
 - [keynes steve AKPODE](https://github.com/keynessteve-cyber)
   [CecilioRatsimilo]
 - [Brotcorne Florian](https://github.com/FlorianBrot)
-- [Dias Karshal](https://github.com/diaskarshal)
+ -[Resmi](https://github.com/CodeNLife)
+ -[Dias Karshal](https://github.com/diaskarshal)
 - [Divin Sota](https://github.com/divinsota/first-contributions)
 - [asgardik0](https://github.com/asgardik0)
 - [Zatho0](https://github.com/Zatho0)
@@ -11,6 +12,7 @@
 - [Koji Kawamura](https://github.com/kouji0705)
 - [Wissam]
 - [BALAJI](https://github.com/balaji-bheesetti)
+- [alvarosola1](https://github.com/alvarosola1)
 - [Bishal Paul](https://github.com/Bishal13102003)
 - [Rémy Goennt](https://github.com/RemyGonnet)
 - [Kaizer Nahas](https://github.com/kmn1305) 
@@ -1534,3 +1536,4 @@ Maqsood Ansari
 - [likith kumar dr ] : (https://github.com/htmluser18)
 - chiraj gupta
 - ARuizTorres
+- PepsiBro
