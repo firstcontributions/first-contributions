@@ -18,11 +18,12 @@
 - [alvarosola1](https://github.com/alvarosola1)
 - [Bishal Paul](https://github.com/Bishal13102003)
 - [Rémy Goennt](https://github.com/RemyGonnet)
-- [Kaizer Nahas](https://github.com/kmn1305) 
+- [Kaizer Nahas](https://github.com/kmn1305)
 - [Mayu Uno](https://github.com/mayuun14/)
 - [manemonymus](https://github.com/manemonymus)
 - [thomas](https://github.com/Konieczny-Thomas/polak-TK.git)
 - [ODK] (https://github.com/odokyoung)
+- [Ntale Swamadu] (https://github.com/Ntale3)
 - [PoncheDeFrutas](https://github.com/PoncheDeFrutas)
 - [Tejinderpal Singh](http://github.com/tejinderpa)
 - [pvpeuve](https://github.com/pvpeuve)
@@ -1447,7 +1448,7 @@ Maqsood Ansari
 - [Suhas Magadum](https://github.com/Suhas-098)
 - [Berekia Obed](https://github.com/berekiao)
 - [Robins Karani](https://github.com/RobinsKarani)
-- [Taniya Kumari](https://github.com/taniya273) 
+- [Taniya Kumari](https://github.com/taniya273)
 - [maclaccha](https://github.com/maclaccha)
 - [polasisubash](https://github.com/polasisubash)
 - [Sabarivenkatesh](https://github.com/Sabarivenkatesh3)
@@ -1487,7 +1488,7 @@ Maqsood Ansari
 - [Yitong Zhou](https://github.com/ZzzZzz-670)
 - [Najaf Sikander](https://github.com/najafsikander)
 
-- Rupesh Sharma 
+- Rupesh Sharma
 - [Sai Rudraksh](https://github.com/sairudraksh)
 - Zeinabou Sall
 - [Naveen (NA-V10)](https://github.com/NA-V10)
