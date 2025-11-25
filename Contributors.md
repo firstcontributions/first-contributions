@@ -97,6 +97,7 @@
 - [Bhupesh](https://github.com/Bhupi1306)
 - [I-eat-gays-v-pornoroshku](https://github.com/I-eat-gays-v-pornoroshku)
 - [B Pasha](https://github.com/baasilpasha)
+- [Michael T](https://github.com/tadstech)
 - [Siddharth Pandey](https://github.com/siddharthpandey2211)
 - [Pravien Powel](https://github.com/PravienPowel)
 - [NIKHIL GAJULA](https://github.com/nikhil07g)
