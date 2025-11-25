@@ -1541,5 +1541,6 @@ Maqsood Ansari
 - Elena Lopez
 - ARuizTorres
 - PepsiBro
+- [shion](https://github.com/shion555)
 - [DONGMIN](https://github.com/fftl)
 - [Vivek Kumar](https://github.com/vivekkumarrathour)
