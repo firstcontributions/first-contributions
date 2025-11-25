@@ -76,3 +76,37 @@ Tips for your PR description
 That's it — once maintainers review they may ask for small changes. Respond to feedback by pushing commits to the same branch.
 
 If you want, I can prepare this file locally, create a branch and commit it for you (I won't push without your go-ahead). Tell me if you'd like me to push the branch and open the PR (you may need to authenticate or have a fork).
+
+---
+
+## Expanded examples and screenshots
+
+Below are a few practical examples you can copy-paste in PowerShell and explanations of what they do.
+
+- Clone (example using your fork):
+```powershell
+git clone https://github.com/<your-username>/first-contributions.git
+cd .\first-contributions
+```
+
+- Create a branch and add your name to `Contributors.md`:
+```powershell
+git checkout -b docs/add-your-name
+Add-Content -Path .\Contributors.md -Value "`n- [Your Name](https://github.com/your-github-username)"
+git add Contributors.md
+git commit -m "docs: add <Your Name> to Contributors.md"
+```
+
+- Push and create PR using `gh` (after `gh auth login`):
+```powershell
+git push -u origin docs/add-your-name
+gh pr create --title "docs: add <Your Name> to Contributors" --body "Adds my name to Contributors.md" --base main
+```
+
+Screenshot examples (hosted images):
+
+![Clone screenshot](https://firstcontributions.github.io/assets/cli-tool-tutorials/git-bash-windows-tutorial/gb-clone-2.png)
+
+If you want me to include local image files in the repo (e.g. `docs/assets/gh-cli-windows-1.png`), I can add them and update the tutorial to use relative paths.
+
+If you'd prefer a worked example that edits `docs/how-to-contribute-to-open-source-projects.md` instead, I can make that change here on the branch so you can see a real PR-ready sample.
