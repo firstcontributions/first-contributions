@@ -638,6 +638,7 @@
 - [brian](https://sl.bing.net/eOe8cTCKjEy)
 - [Intedai](https://github.com/Intedai)
 - [djyun](https://github.com/dongjooyun)
+- [tylerhoh](https://github.com/tylerhoh)
 - [Noflare](https://github.com/Noflare)
 - [yohaku7](https://github.com/yohaku7)
 - [mukyoko](https://github.com/mukyoko) -[udhav vinaik](https://github.com/udhavvinaik)
