@@ -237,6 +237,42 @@ If you'd like more practice, checkout [code contributions](https://github.com/ro
 
 Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
 
+## Troubleshooting
+
+Here are solutions to some common issues you might encounter:
+
+### Git Configuration Problems
+
+If you see an error about Git not being configured, run these commands:
+
+```bash
+git config --global user.name "Your Name"
+git config --global user.email "your.email@example.com"
+```
+
+### SSH Key Issues
+
+If you're having trouble with SSH authentication:
+
+1. Check if you have an SSH key: `ls -la ~/.ssh`
+2. If not, generate one: `ssh-keygen -t ed25519 -C "your.email@example.com"`
+3. Add the key to your GitHub account under Settings > SSH and GPG keys
+4. Test your connection: `ssh -T git@github.com`
+
+### Fork/Clone Errors
+
+- **"Permission denied" error**: Make sure you're cloning your fork, not the original repository
+- **"Repository not found" error**: Verify the repository URL is correct and you have access
+- **Slow clone**: Try using `git clone --depth 1` for a shallow clone
+
+### Push Rejected
+
+If your push is rejected:
+
+1. Make sure you're pushing to your fork, not the original repo
+2. Pull the latest changes: `git pull origin main`
+3. Resolve any conflicts and try pushing again
+
 ### [Additional material](docs/additional-material/git_workflow_scenarios/additional-material.md)
 
 ## Tutorials Using Other Tools
