@@ -2,18 +2,22 @@
 - [keynes steve AKPODE](https://github.com/keynessteve-cyber)
   [CecilioRatsimilo]
 - [Brotcorne Florian](https://github.com/FlorianBrot)
-- [Dias Karshal](https://github.com/diaskarshal)
+ -[Resmi](https://github.com/CodeNLife)
+ -[Dias Karshal](https://github.com/diaskarshal)
 - [Divin Sota](https://github.com/divinsota/first-contributions)
 - [asgardik0](https://github.com/asgardik0)
 - [Zatho0](https://github.com/Zatho0)
 - [clement717](https://github.com/clement717)
+- [Satya-0611](https://github.com/Satya-0611)
 - [Koji Kawamura](https://github.com/kouji0705)
 - [Wissam]
 - [BALAJI](https://github.com/balaji-bheesetti)
+- [alvarosola1](https://github.com/alvarosola1)
 - [Bishal Paul](https://github.com/Bishal13102003)
 - [Rémy Goennt](https://github.com/RemyGonnet)
 - [Kaizer Nahas](https://github.com/kmn1305) 
 - [Mayu Uno](https://github.com/mayuun14/)
+- [manemonymus](https://github.com/manemonymus)
 - [thomas](https://github.com/Konieczny-Thomas/polak-TK.git)
 - [ODK] (https://github.com/odokyoung)
 - [PoncheDeFrutas](https://github.com/PoncheDeFrutas)
@@ -135,6 +139,7 @@
 - [Gajji Chandu Yadav](https://github.com/AnandajithS)
 - [Christian Gongora](https://github.com/ChristianGongoraDeMoraes)
 - [Raghu]
+- [Crazydiamond](https://github.com/crazydiamondaz)
 - [Victor]
 - [Dhayanithi s r](https://github.com/its-dhaya)
 - [Nivedita CS](https://github.com/niveditacs03)
@@ -157,6 +162,7 @@
 - Jia Yee (Hi! Hope your git learning journey goes well too!)
 - Bastiqui
 - lumberjackwizard)
+- Abdullah Malik (https://github.com/akm20005)
 - [Viraj Hudlikar](https://github.com/vhudlikar)
 - [Kishita Deotale](https://github.com/kishitadeotale24)
 - [Rhythm Patel](https://github.com/RhythmP619)
@@ -215,6 +221,7 @@
 - [Vardhan](https://github.com/Chintha-vardhan)
 - [Shubham Prasad](https://github.com/prsdx)
 - [Praneet] (https://github.com/arkp1)
+- [Simone Castrofilippo] (https://github.com/simocastro18)
 - [Luis](https://github.com/manahore)
 - [Raksha S](https://github.com/Raksha2803)
 - [Sherry](https://github.com/zsylllike-sketch)
@@ -286,6 +293,7 @@
 - [Hrishikesh Rondla](https://github.com/Hrishikesh-Rondla)
 - [Amit Kumar](https://github.com/amitak985059)
 - [Yas](https://github.com/ykip10)
+- {Karshik Madavi}:{https://github.com/c0-d-3c}
 - [Juliana Prado](https://github.com/julevi)
 - [Crisandresro012](https://github.com/Cristhian012)
 - [Rudra Pratap Singh Jadon](https://github.com/rudrajadon)
@@ -1529,4 +1537,12 @@ Maqsood Ansari
 - [Adigopulajalaseshukumar] (https://github.com/Seshuadigopula)
 - [likith kumar dr ] : (https://github.com/htmluser18)
 - chiraj gupta
+<<<<<<< HEAD
 [ZaidMohammadZia] (https://www.youtube.com/@ZaidZia_29)
+=======
+- Elena Lopez
+- ARuizTorres
+- PepsiBro
+- [DONGMIN](https://github.com/fftl)
+- [Vivek Kumar](https://github.com/vivekkumarrathour)
+>>>>>>> main
