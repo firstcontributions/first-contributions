@@ -10,7 +10,7 @@ Dayemen kayen mochkile ki nebdaw hadja men el bidaya. El khawof ta3 edire khatae
 
 Te9rra ma9alate wa les tutos te9derre te3awonek, bessah wache howa afdel mine tehawolle tessiyi bela ma eddire akhtae ? Hadda el machrou3 medyoure bache yaa3ti nassaihe wo y ssahel tari9ate kifache li maya3rfouche bache eydirrou el moucharaka el oulla ta3houme. Etfekare : 9edma tekoune alaise, 9edma tet3alem bezaf. Wolla rak hab etcharek lel merra el oulla, teba3 el khtouwate el djaya. Wallah, rah tekoune moussaliya.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="embrancher ce repertoire" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="انسَخ هذا المستودع (فرّق الريبو)" />
 
 Wolla ma3endekche git fel ordinateur ta3ek, [ tell3ou be rabet ]( https://help.github.com/articles/set-up-git/ ).
 
@@ -21,7 +21,7 @@ Hada rah yecrée nousskha tabe9 el assel ta3 el garage fi github ta3ek.
 
 ## Enssoukhe el garage 3andek fel PC
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clonez ce répertoire" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="أنشئ نسخة محلية من هذا المستودع" />
 
 Dourka, enssoukhe hada el garage 3ala el PC diyalek. Clické 3ala el zire enssoukhe menba3ede eclicker 3ala l'icone *copié fi presse papier ta3ek*.
 
@@ -32,7 +32,7 @@ git clone "l'url eli copietha dourk berk"
 ```
 wine "l'url eli copietha dourk berk" (bela lé guillemets) hiya l'url ta3 el garage. chouf fi eli fate men 9abel bache tethassel 3ala l'url.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copier l'URL dans le presse-papier" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="انسخ الرابط إلى الحافظة" />
 
 Mithale :
 ```bash
@@ -87,11 +87,11 @@ Bedel `<add-essem-diyalek>` be esseme el far3e eli créyeteho men 9abel.
 
 Idha rahet lel garage diyalek 3ala github, rah etchouffe beli kayen zire `Compare & pull request`, éclické 3ala el zire hadek.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="أنشئ طلب سحب (Pull Request)" />
 
 Dourka présenter el talebe diyalek lel fahsse.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="أرسل طلب السحب" />
 
 Fi zamen saghire rah ene fuzioné el taghyérates ta3ek me3a el fare3 main ta3 el projet hada, Yewosselek rissala ta3 el taghyérates ghire ki tendare la fusion kamel.
 
