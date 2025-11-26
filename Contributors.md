@@ -1505,6 +1505,7 @@ Maqsood Ansari
 -[Sadaksh Mahindra] ([text](https://github.com/sadakshmahindra))
 - Kandula Komali Reddy
 - Vedika Sardeshmukh (https://github.com/Vedika-Sd)
+- [VanHuy](https://github.com/vanhuy2005)
 -[G Sampath Kummar] (https://github.com/Sampath7890)
 -[Hilarius Jeremy] (https://github.com/HilariusJeremy)
 - Praneeth Mukkala
