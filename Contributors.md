@@ -1564,3 +1564,4 @@ Maqsood Ansari
 - [Olasunkanmi Emmanuel Jesuferanmi] (https://github.com/feranmiemmanuel)
 - [Seokhyeonh](https://github.com/Seokhyeonh)
 - [Manjeet Singh](https://github.com/manjeetsingh78)
+- [Nikhil Singhal](https://github.com/NikhilSinghal2004)
