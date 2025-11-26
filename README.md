@@ -85,7 +85,7 @@
 <kbd>[<img title="Malagasy" alt="Malagasy" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/mg.svg" width="22">](docs/translations/README.mg.md)</kbd>
 <kbd>[<img title="ភាសាខ្មែរ" alt="ភាសាខ្មែរ" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/kh.svg" width="22">](docs/translations/README.kh.md)</kbd>
 <kbd>[<img title="Morocco" alt="Moroccan Darija" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ma.svg" width="22">](docs/translations/README.ma.md)</kbd>
-<kbd>[<img title="Mongolian" alt="Mongolian" src="https://cdn.statically.io/flags/mn.svg" width="22">](docs/translations/README.mn.md)</kbd>
+	<kbd>[<img title="Mongolian" alt="Mongolian" src="https://cdn.statically.io/flags/mn.svg" width="22">](docs/translations/README.mn.md)</kbd>
 <kbd>[<img title="Tounsi" alt="Tounsi" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/tn.svg" width="22">](docs/translations/README.tn.md)</kbd>
 
 # First Contributions
@@ -105,9 +105,11 @@ This will create a copy of this repository in your account.
 
 ## Clone the repository
 
+Cloning means downloading the repository to your computer so you can work on it locally.
+
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="यो रिपोजिटरी क्लोन गर्नुहोस्" />
 
-Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button, then on SSH tab and then click the _copy url to clipboard_ icon.
+Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, Click the Code button, select HTTPS, and click Copy.
 
 Open a terminal and run the following git command:
 
@@ -128,6 +130,8 @@ git clone git@github.com:this-is-you/first-contributions.git
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
 
 ## Create a branch
+
+A branch lets you make changes without affecting the main code.
 
 Change to the repository directory on your computer (if you are not already there):
 
@@ -162,6 +166,8 @@ git checkout -b your-new-branch-name
 
 ## Make necessary changes and commit those changes
 
+A commit is like saving your work.
+
 Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="गिट स्थिति" />
@@ -183,6 +189,8 @@ git commit -m "Add your-name to Contributors list"
 replacing `your-name` with your name.
 
 ## Push changes to GitHub
+
+Pushing uploads your commits to GitHub.
 
 Push your changes using the command `git push`:
 
