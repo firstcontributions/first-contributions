@@ -15,6 +15,7 @@
 - [Sumit Jha] (https://github.com/devlopersumit)
 - [Wissam]
 - [Raghuram]
+- [Sohail](https://github.com/sohail78692)
 - [VicciHz](https://github.com/VicciHz)
 - [BALAJI](https://github.com/balaji-bheesetti)
 - [alvarosola1](https://github.com/alvarosola1)
@@ -1578,3 +1579,6 @@ Maqsood Ansari
 - [ShaikAyesha17](https://github.com/ShaikAyesha17)
 - Sanika S P
 - [HammsN] (https://github.com/HammsN/)
+- [Valery Moskaunia](https://github.com/Moskaunia)
+- [Snehitha Kurapati](https://github.com/kl2400030727)
+- [SoFarSoGoodya](https://github.com/sofarsogoodya)
