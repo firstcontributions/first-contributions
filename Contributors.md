@@ -1572,8 +1572,8 @@ Maqsood Ansari
 - [Tankbread](https://github.com/Tobiassko)
 - [UJWAL](https://github.com/Ujwal200707)
 - [jayadev](https://github.com/jaydev-431)
--hi
 - [Sanskar Kadam](https://github.com/sanskarkadam)
 - [Riddhima Biswas](https://github.com/RiddhimaBiswas)
 - [ShaikAyesha17](https://github.com/ShaikAyesha17)
 - Sanika S P
+- [Drishti Mishra](https://github.com/Drishtipixiee)
