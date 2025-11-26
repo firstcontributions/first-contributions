@@ -44,6 +44,7 @@
 - [Dewanshu Goswami](https://github.com/TheMatrix31415926)
 - [Dhanush M](https://github.com/Dhanush27m)
 - [microintel](https://github.com/microintel)
+- [Oscar Miranda](https://github.com/oimirandaa)
 - [mirza](https://github.com/imhasnain)
 - [kanosa](https://github.com/kanosa0101)
 - [aym](https://github.com/onepunaym)
