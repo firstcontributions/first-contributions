@@ -1567,3 +1567,6 @@ Maqsood Ansari
 - [Seokhyeonh](https://github.com/Seokhyeonh)
 - [Manjeet Singh](https://github.com/manjeetsingh78)
 - - [PraveenBoss45](https://github.com/PraveenBoss45)
+- [Tankbread](https://github.com/Tobiassko)
+- [UJWAL](https://github.com/Ujwal200707)
+- [jayadev](https://github.com/jaydev-431)
