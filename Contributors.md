@@ -1577,3 +1577,4 @@ Maqsood Ansari
 - [Riddhima Biswas](https://github.com/RiddhimaBiswas)
 - [ShaikAyesha17](https://github.com/ShaikAyesha17)
 - Sanika S P
+- [Valery Moskaunia](https://github.com/Moskaunia)
