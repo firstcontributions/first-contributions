@@ -13,6 +13,7 @@
 - [Koji Kawamura](https://github.com/kouji0705)
 - [Ava16](https://github.com/Ava16)
 - [Wissam]
+- [Raghuram]
 - [VicciHz](https://github.com/VicciHz)
 - [BALAJI](https://github.com/balaji-bheesetti)
 - [alvarosola1](https://github.com/alvarosola1)
@@ -762,6 +763,7 @@
 - [Bart-De-Pauw](https://github.com/Bart-De-Pauw)
 - [vedivero](https://github.com/vedivero)
 - [KWYK](https://github.com/stevenchen99)
+- [Aakash](https://github.com/Aakash-legend)
 - [Shresta](https://github.com/g-shresta)
 - [AntonioIonica](https://github.com/AntonioIonica)
 - [H N Ujwal](https://github.com/hnujwal)
@@ -1565,3 +1567,10 @@ Maqsood Ansari
 - [Seokhyeonh](https://github.com/Seokhyeonh)
 - [Manjeet Singh](https://github.com/manjeetsingh78)
 - [Nikhil Singhal](https://github.com/NikhilSinghal2004)
+- - [PraveenBoss45](https://github.com/PraveenBoss45)
+- [Tankbread](https://github.com/Tobiassko)
+- [UJWAL](https://github.com/Ujwal200707)
+- [jayadev](https://github.com/jaydev-431)
+-hi
+- [Sanskar Kadam](https://github.com/sanskarkadam)
+- [Riddhima Biswas](https://github.com/RiddhimaBiswas)
