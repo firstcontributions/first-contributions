@@ -12,6 +12,7 @@
 - [Satya-0611](https://github.com/Satya-0611)
 - [Koji Kawamura](https://github.com/kouji0705)
 - [Ava16](https://github.com/Ava16)
+- [Sumit Jha] (https://github.com/devlopersumit)
 - [Wissam]
 - [Raghuram]
 - [VicciHz](https://github.com/VicciHz)
