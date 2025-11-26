@@ -37,6 +37,7 @@
 - [2400060033](https://github.com/2400060033)
 - [lionsol](https://github.com/lionsol)
 - [Bhumi](https://github.com/bansalbhumi)
+- [Rajput Aditya Singh](https://github.com/Rajadi16)
 - [Deepak](https://github.com/Deepakdharsh)
 - [UltimateSeeSharp](https://github.com/UltimateSeeSharp)
 - [Vedika Barkare](https://github.com/vedikaBarkare)
