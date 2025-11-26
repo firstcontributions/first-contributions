@@ -87,6 +87,7 @@
 <kbd>[<img title="Morocco" alt="Moroccan Darija" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ma.svg" width="22">](docs/translations/README.ma.md)</kbd>
 	<kbd>[<img title="Mongolian" alt="Mongolian" src="https://cdn.statically.io/flags/mn.svg" width="22">](docs/translations/README.mn.md)</kbd>
 <kbd>[<img title="Tounsi" alt="Tounsi" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/tn.svg" width="22">](docs/translations/README.tn.md)</kbd>
+<kbd>[<img title="Lingala" alt="Lingala" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/cd.svg" width="22">](docs/translations/README.ln.md)</kbd>
 
 # First Contributions
 
@@ -94,7 +95,7 @@ This project aims to simplify and guide the way beginners make their first contr
 
 _If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="यो रिपोजिटरी फोर्क गर्नुहोस्" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork the repository" />
 
 #### If you don't have git on your machine, [install it](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
@@ -105,9 +106,13 @@ This will create a copy of this repository in your account.
 
 ## Clone the repository
 
+<<<<<<< HEAD
 Cloning means downloading the repository to your computer so you can work on it locally.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="यो रिपोजिटरी क्लोन गर्नुहोस्" />
+
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone the repository" />
+
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, Click the Code button, select HTTPS, and click Copy.
 
@@ -119,7 +124,7 @@ git clone "url you just copied"
 
 where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="URL लाई क्लिपबोर्डमा प्रतिलिपि गर्नुहोस्" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 For example:
 
@@ -170,7 +175,7 @@ A commit is like saving your work.
 
 Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="गिट स्थिति" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
 If you go to the project directory and execute the command `git status`, you'll see there are changes.
 
@@ -226,11 +231,11 @@ replacing `your-branch-name` with the name of the branch you created earlier.
 
 If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="पुल रिक्वेस्ट बनाउनुहोस्" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="compare and create pull request" />
 
 Now submit the pull request.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="पुल रिक्वेस्ट पठाउनुहोस्" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
 Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
 
