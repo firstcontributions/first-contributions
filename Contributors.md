@@ -371,6 +371,7 @@
   [kalyan](https://github.com/kalyan4518).
 - [Andy Ma](https://github.com/Everither)
 - [Bruno Costa](https://github.com/brunocosta-devlab)
+- [Azeez Roheem] (https://github.com/Azeez1314)
 - [Angel Pauly](https://github.com/angelpauly)
 - [Hamza Khalid](https://github.com/Hamza-Khaalid)
 - [Max Kutepov](https://github.com/MaximKutepov)
