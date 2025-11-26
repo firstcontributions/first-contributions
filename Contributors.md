@@ -12,7 +12,10 @@
 - [Satya-0611](https://github.com/Satya-0611)
 - [Koji Kawamura](https://github.com/kouji0705)
 - [Ava16](https://github.com/Ava16)
+- [Sumit Jha] (https://github.com/devlopersumit)
 - [Wissam]
+- [Raghuram]
+- [Sohail](https://github.com/sohail78692)
 - [VicciHz](https://github.com/VicciHz)
 - [BALAJI](https://github.com/balaji-bheesetti)
 - [alvarosola1](https://github.com/alvarosola1)
@@ -31,6 +34,7 @@
 - Hajer Mabrouk
 - [PONTHUS Abderrahman](https://github.com/S3869)
 - [Chia](https://github.com/chia-chang)
+- [2400060033](https://github.com/2400060033)
 - [lionsol](https://github.com/lionsol)
 - [Bhumi](https://github.com/bansalbhumi)
 - [Deepak](https://github.com/Deepakdharsh)
@@ -44,6 +48,7 @@
 - [Dewanshu Goswami](https://github.com/TheMatrix31415926)
 - [Dhanush M](https://github.com/Dhanush27m)
 - [microintel](https://github.com/microintel)
+- [Oscar Miranda](https://github.com/oimirandaa)
 - [mirza](https://github.com/imhasnain)
 - [kanosa](https://github.com/kanosa0101)
 - [aym](https://github.com/onepunaym)
@@ -760,6 +765,7 @@
 - [Bart-De-Pauw](https://github.com/Bart-De-Pauw)
 - [vedivero](https://github.com/vedivero)
 - [KWYK](https://github.com/stevenchen99)
+- [Aakash](https://github.com/Aakash-legend)
 - [Shresta](https://github.com/g-shresta)
 - [AntonioIonica](https://github.com/AntonioIonica)
 - [H N Ujwal](https://github.com/hnujwal)
@@ -2839,6 +2845,7 @@ Maqsood Ansari
 -[Sadaksh Mahindra] ([text](https://github.com/sadakshmahindra))
 - Kandula Komali Reddy
 - Vedika Sardeshmukh (https://github.com/Vedika-Sd)
+- [VanHuy](https://github.com/vanhuy2005)
 -[G Sampath Kummar] (https://github.com/Sampath7890)
 -[Hilarius Jeremy] (https://github.com/HilariusJeremy)
 - Praneeth Mukkala
@@ -2893,4 +2900,21 @@ Maqsood Ansari
 - [Merlin Dust](https://github.com/DustMerlin)
 - [Fru](https://github.com/ladalar)
 - [Olasunkanmi Emmanuel Jesuferanmi] (https://github.com/feranmiemmanuel)
+-[Ashiq](https://github.com/devopashiq)
+- [Olasunkanmi Emmanuel Jesuferanmi] (https://github.com/feranmiemmanuel)
+- [Seokhyeonh](https://github.com/Seokhyeonh)
+- [Manjeet Singh](https://github.com/manjeetsingh78)
+- [Nikhil Singhal](https://github.com/NikhilSinghal2004)
+- - [PraveenBoss45](https://github.com/PraveenBoss45)
+- [Tankbread](https://github.com/Tobiassko)
+- [UJWAL](https://github.com/Ujwal200707)
+- [jayadev](https://github.com/jaydev-431)
+-hi
+- [Sanskar Kadam](https://github.com/sanskarkadam)
+- [Riddhima Biswas](https://github.com/RiddhimaBiswas)
+- [ShaikAyesha17](https://github.com/ShaikAyesha17)
+- Sanika S P
+- [Valery Moskaunia](https://github.com/Moskaunia)
+- [Snehitha Kurapati](https://github.com/kl2400030727)
+- [SoFarSoGoodya](https://github.com/sofarsogoodya)
 
