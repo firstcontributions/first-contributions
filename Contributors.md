@@ -12,7 +12,10 @@
 - [Satya-0611](https://github.com/Satya-0611)
 - [Koji Kawamura](https://github.com/kouji0705)
 - [Ava16](https://github.com/Ava16)
+- [Sumit Jha] (https://github.com/devlopersumit)
 - [Wissam]
+- [Raghuram]
+- [Sohail](https://github.com/sohail78692)
 - [VicciHz](https://github.com/VicciHz)
 - [BALAJI](https://github.com/balaji-bheesetti)
 - [alvarosola1](https://github.com/alvarosola1)
@@ -762,6 +765,7 @@
 - [Bart-De-Pauw](https://github.com/Bart-De-Pauw)
 - [vedivero](https://github.com/vedivero)
 - [KWYK](https://github.com/stevenchen99)
+- [Aakash](https://github.com/Aakash-legend)
 - [Shresta](https://github.com/g-shresta)
 - [AntonioIonica](https://github.com/AntonioIonica)
 - [H N Ujwal](https://github.com/hnujwal)
@@ -1564,3 +1568,18 @@ Maqsood Ansari
 - [Olasunkanmi Emmanuel Jesuferanmi] (https://github.com/feranmiemmanuel)
 - [Seokhyeonh](https://github.com/Seokhyeonh)
 - [Jayanth](https://github.com/MUNJETIJAYANTHKRISHNA)
+- [Manjeet Singh](https://github.com/manjeetsingh78)
+- [Nikhil Singhal](https://github.com/NikhilSinghal2004)
+- - [PraveenBoss45](https://github.com/PraveenBoss45)
+- [Tankbread](https://github.com/Tobiassko)
+- [UJWAL](https://github.com/Ujwal200707)
+- [jayadev](https://github.com/jaydev-431)
+-hi
+- [Sanskar Kadam](https://github.com/sanskarkadam)
+- [Riddhima Biswas](https://github.com/RiddhimaBiswas)
+- [ShaikAyesha17](https://github.com/ShaikAyesha17)
+- Sanika S P
+- [HammsN] (https://github.com/HammsN/)
+- [Valery Moskaunia](https://github.com/Moskaunia)
+- [Snehitha Kurapati](https://github.com/kl2400030727)
+- [SoFarSoGoodya](https://github.com/sofarsogoodya)
