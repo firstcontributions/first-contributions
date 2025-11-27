@@ -1591,4 +1591,7 @@ Maqsood Ansari
 - [SoFarSoGoodya](https://github.com/sofarsogoodya)
 - mkr
 - [Koushitha tadiboina](https://github.com/koushithatadiboina)
+<<<<<<< HEAD
 - [@Zakiahsan-arch](https://github.com/Zakiahsan-arch)
+- [Moksh D](https://github.com/danMoksh)
+>>>>>>> main
