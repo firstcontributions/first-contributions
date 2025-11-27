@@ -16,6 +16,7 @@
 - [Ava16](https://github.com/Ava16)
 - [Sumit Jha] (https://github.com/devlopersumit)
 - [Wissam]
+- [Rishi] (Rishi2600)
 - [mtxasmgkr](https://github.com/mtxasmgkr)
 - [Raghuram]
 - [Reynhard](https://github.com/reybui)
