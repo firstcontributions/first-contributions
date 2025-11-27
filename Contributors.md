@@ -1,5 +1,5 @@
 # Contributors
--[Caleb Perkins](https://github.com/caleb-p93)
+- [Caleb Perkins](https://github.com/caleb-p93)
 - [keynes steve AKPODE](https://github.com/keynessteve-cyber)
   [CecilioRatsimilo]
 - [Brotcorne Florian](https://github.com/FlorianBrot)
