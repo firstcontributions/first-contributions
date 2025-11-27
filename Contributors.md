@@ -234,6 +234,7 @@
 - [Daniel Li](https://github.com/FallingSky65)
 - [Andrew Park](https://github.com/AndePark)
 - [Mason Boucher](https://github.com/mcboucher10)
+- [Satheem Muwaffaq](https://github.com/satheem)
 - [Mariana Rutter](https://github.com/marianaluu)
 - [Aissatou Mbaye](https://github.com/AissatouMbaye19)
 - [Clement Zentz](https://github.com/clement-zentz)
