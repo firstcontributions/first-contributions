@@ -37,6 +37,7 @@
 - [pvpeuve](https://github.com/pvpeuve)
 - [Ziyan](https://github.com/ziyanaaan)
 - Hajer Mabrouk
+- [Gowsik Raja](https://github.com/gowsikraja)
 - [PONTHUS Abderrahman](https://github.com/S3869)
 - [Chia](https://github.com/chia-chang)
 - [2400060033](https://github.com/2400060033)
