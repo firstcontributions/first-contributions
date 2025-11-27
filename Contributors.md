@@ -15,6 +15,7 @@
 - [Vedika Barkare](https://github.com/vedikaBarkare)
 - [Rizwan Munir](https://github.com/Rizstien)
 - [Ramkumar T](https://github.com/sparkp1ug)
+- [Maxence G](https://github.com/MaxenceGat)
 - [Venkata Ramprasad Pade](https://github.com/ramprasad-13)
 - [- Gaurav Mandal](https://github.com/gaurav8228/)
 - [Dewanshu Goswami](https://github.com/TheMatrix31415926)
@@ -42,6 +43,7 @@
 - [Md Najrul Ansari](https://github.com/najru01)
 - [Tyrell Norford] (https://github.com/Tymaster1)
 - Knowledge Benjamin
+- [Eliott Gros-Desormeaux] (https://github.com/Ttoile11/first-contributions)
 -[Manoj Reddy]
 - [Matheus Lino](https://github.com/7matheus)
 - [Conor James](https://github.com/ConorsGitHub)
@@ -1034,6 +1036,7 @@
 - [Sina Soltani](https://github.com/sinaxzi)
 - [Anish Patil](https://github.com/Anish-Kodarkar)
 - [Sinchana](https://github.com/Sinchanar09)
+- [Doryan Fleche Letellier] (https://github.com/Doryan-info)
 - [İsaməddin Qurbanov](https://github.com/isameddin35)
 - [Tyler Daw](https://github.com/TylerD1105)
 - [Umair Amir](https://github.com/UmairAmir)
@@ -1452,6 +1455,7 @@ Maqsood Ansari
 -[Pragya Kumari](https://github.com/PRAGYA1245)
 -[Shreshth kumar](https://github.com/shreshth-kumar)
 -[Utkarsh Krale] (https://github.com/UtkarshKarale)
+- [Jean-eudes Pont](github.com/Hipolit26)
 -[Dilla] (https://github.com/anindilla)
 -[Sadaksh Mahindra] ([text](https://github.com/sadakshmahindra))
 - Kandula Komali Reddy
@@ -1474,3 +1478,5 @@ Maqsood Ansari
 - [HarshSingh] (https://github.com/HarshVileon)
 - [domenhribernik](https://github.com/domenhribernik)
 - [TZiah](https://github.com/TZiah)
+- [Daith_42](https://github.com/Daith-42)
+- [Allamelol](https://github.com/Allamelol)
