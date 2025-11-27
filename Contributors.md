@@ -144,6 +144,7 @@
 - [Peter Ellis](https://github.com/pcellis)
 - [Omkar Nalgirkar]
 - [DochertyDev](https://github.com/DochertyDev)
+- [Mazhum](https://github.com/mazummohammad)
 - [Mayank Ghildiyal](https://github.com/mayank2699)
 - [KunalMali](https://github.com/kunalmali83)
 - [Yassine El Alami](https://github.com/ElAlamiY)
