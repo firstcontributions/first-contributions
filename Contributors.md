@@ -1593,3 +1593,5 @@ Maqsood Ansari
 - mkr
 - [Koushitha tadiboina](https://github.com/koushithatadiboina)
 - [Moksh D](https://github.com/danMoksh)
+
+- [Maria Smith](https://github.com/mariasmith)
