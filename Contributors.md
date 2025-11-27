@@ -1602,3 +1602,4 @@ Maqsood Ansari
 - [Koushitha tadiboina](https://github.com/koushithatadiboina)
 - [Moksh D](https://github.com/danMoksh)
 - [Sumaiya Akter Runa](https://www.linkedin.com/in/sumaiya-akter-runa-69b8b624a/)
+- [Linus Aronsson](https://github.com/TaupZ)
