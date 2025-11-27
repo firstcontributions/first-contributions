@@ -1459,6 +1459,7 @@ Maqsood Ansari
 - [SYTP]
 - [Phil]
 - [Knopych]
+- [Muhammed Fayaz TS](https://github.com/MuhammedFayazTS)
 - [Jackson Bichard](https://github.com/JacksonBichard)
 - [Gihan Jeewantha](https://github.com/GihanJeewantha)
 - [Akshat Gupta] (https://github.com/AK-GUPTA-20) (new Contributer)
