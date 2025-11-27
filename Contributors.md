@@ -12,6 +12,7 @@
 - [Zatho0](https://github.com/Zatho0)
 - [clement717](https://github.com/clement717)
 - [Satya-0611](https://github.com/Satya-0611)
+  [Uttara Shah](https://guthub.com/UTTARASH)
 - [Koji Kawamura](https://github.com/kouji0705)
 - [Ava16](https://github.com/Ava16)
 - [Sumit Jha] (https://github.com/devlopersumit)
