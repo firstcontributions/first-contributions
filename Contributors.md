@@ -41,6 +41,7 @@
 - [Gowsik Raja](https://github.com/gowsikraja)
 - [PONTHUS Abderrahman](https://github.com/S3869)
 - [Chia](https://github.com/chia-chang)
+- [Anas Ali](https://github.com/Anas-16)
 - [2400060033](https://github.com/2400060033)
 - [lionsol](https://github.com/lionsol)
 - [Bhumi](https://github.com/bansalbhumi)
