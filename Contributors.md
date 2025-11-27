@@ -76,6 +76,7 @@
 - [zaka](https://github.com/oraichezakariyae)
 - [SaiTomato](https://github.com/SaiTomato)
 - [Aashrith Vithana] (https://github.com/AashrithVithana)
+- - [Alex Johnson](https://github.com/alexjohnson)
 - [Md Najrul Ansari](https://github.com/najru01)
 - [Tyrell Norford] (https://github.com/Tymaster1)
 - Knowledge Benjamin
