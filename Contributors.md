@@ -16,11 +16,13 @@
 - [Ava16](https://github.com/Ava16)
 - [Sumit Jha] (https://github.com/devlopersumit)
 - [Wissam]
+- [Rishi] (Rishi2600)
 - [mtxasmgkr](https://github.com/mtxasmgkr)
 - [Raghuram]
 - [Reynhard](https://github.com/reybui)
 - [Sohail](https://github.com/sohail78692)
 - [VicciHz](https://github.com/VicciHz)
+- [karthik shetty](https://github.com/KarthikShetty23)
 - [BALAJI](https://github.com/balaji-bheesetti)
 - [alvarosola1](https://github.com/alvarosola1)
 - [Ivanich0](https://github.com/Ivanich0)
@@ -36,6 +38,7 @@
 - [pvpeuve](https://github.com/pvpeuve)
 - [Ziyan](https://github.com/ziyanaaan)
 - Hajer Mabrouk
+- [Gowsik Raja](https://github.com/gowsikraja)
 - [PONTHUS Abderrahman](https://github.com/S3869)
 - [Chia](https://github.com/chia-chang)
 - [2400060033](https://github.com/2400060033)
@@ -143,6 +146,8 @@
 - [Peter Ellis](https://github.com/pcellis)
 - [Omkar Nalgirkar]
 - [DochertyDev](https://github.com/DochertyDev)
+- [Mazhum](https://github.com/mazummohammad)
+- [Nieko](http://github.com/nathanielcorvera)
 - [Mayank Ghildiyal](https://github.com/mayank2699)
 - [KunalMali](https://github.com/kunalmali83)
 - [Yassine El Alami](https://github.com/ElAlamiY)
@@ -223,6 +228,7 @@
 - [Dhanush Shetty](https://github.com/dhanush-shetty1)
 - [Oliyad Zelalem](https://github.com/ozimmortal)
 - [Issa Issack](https://github.com/essaissa)
+- [1Z99](https://github.com/1Z99)
 - [Tracey Dingman](https://github.com/tdingman422)
 - [Brayden Monthei](https://github.com/Brayden-Monthei)
 - [Bethelhem Daniel](https://github.com/Bethel-21)
@@ -231,6 +237,7 @@
 - [Daniel Li](https://github.com/FallingSky65)
 - [Andrew Park](https://github.com/AndePark)
 - [Mason Boucher](https://github.com/mcboucher10)
+- [Satheem Muwaffaq](https://github.com/satheem)
 - [Mariana Rutter](https://github.com/marianaluu)
 - [Aissatou Mbaye](https://github.com/AissatouMbaye19)
 - [Clement Zentz](https://github.com/clement-zentz)
@@ -1074,6 +1081,7 @@
 - [Sachin](https://github.com/sachinkashi21)
 - [Sagardeep Das](https://github.com/SDpDas)
 - [Said Berk](https://github.com/saidberk27)
+- [Okezie Obiefuna](https://github.com/Obi1-x)
 - [Salar Amir](https://github.com/SalarAmir)
 - [Samia-sh](https://github.com/samia-code0)
 - [Sandhya R](https://github.com/sandhya13r)
@@ -1456,6 +1464,7 @@ Maqsood Ansari
 - [SYTP]
 - [Phil]
 - [Knopych]
+- [Muhammed Fayaz TS](https://github.com/MuhammedFayazTS)
 - [Jackson Bichard](https://github.com/JacksonBichard)
 - [Gihan Jeewantha](https://github.com/GihanJeewantha)
 - [Akshat Gupta] (https://github.com/AK-GUPTA-20) (new Contributer)
@@ -1577,6 +1586,7 @@ Maqsood Ansari
 - [Seokhyeonh](https://github.com/Seokhyeonh)
 - [Jayanth](https://github.com/MUNJETIJAYANTHKRISHNA)
 - [Manjeet Singh](https://github.com/manjeetsingh78)
+- [pablo](https://github.com/timskola) 
 - [Nikhil Singhal](https://github.com/NikhilSinghal2004)
 - - [PraveenBoss45](https://github.com/PraveenBoss45)
 - [Tankbread](https://github.com/Tobiassko)
@@ -1595,3 +1605,6 @@ Maqsood Ansari
 - [Koushitha tadiboina](https://github.com/koushithatadiboina)
 - [Moksh D](https://github.com/danMoksh)
 - [Riya Agrawal](https://github.com/riyaagrawal02)
+- [Sumaiya Akter Runa](https://www.linkedin.com/in/sumaiya-akter-runa-69b8b624a/)
+- [Svante Lindström](https://www.goglee.com)
+
