@@ -1406,7 +1406,6 @@ Maqsood Ansari
 - [Arti Shelar](https://github.com/shelararti)
 - [Gabriel Soares](https://github.com/gbrlzzz)
 - [divyanshu]
-- [Anurag Mshra](https://github.com/AnuragMishra-akm)
 - [Miquel Roy-Sunyer](https://github.com/MiquelRS)
 - [Hysiren](https://github.com/Hysiren)
 - [codingjordan](https://github.com/codyjordan)
