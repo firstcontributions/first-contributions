@@ -1626,3 +1626,4 @@ Maqsood Ansari
 - [Lin Yuwei] (https://github.com/LYW199911/)
 - [Chenghou Si](https://github.com/ChenghouSi)
 - [Venuru Kodagoda](https://github.com/Venuru)
+- [Massimo Celona](https://github.com/massimo-celona)
