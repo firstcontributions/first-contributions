@@ -24,9 +24,9 @@
 
 টাৰ্মিনেল খোলক আৰু নিম্নলিখিত git কমাণ্ডটো চলাওক:
 
-```bash
+```
 git clone "url you just copied"
-```bash
+```
 
 য'ত "url you just copied" (নাম উদ্ধৃতিহীন) হৈছে এই ৰেপ'জিট'ৰিটোৰ url (এই প্ৰকল্পৰ আপোনাৰ fork)। url পোৱা আগৰ পদক্ষেপসমূহ চাওক।
 
@@ -34,31 +34,31 @@ git clone "url you just copied"
 
 উদাহৰণ স্বৰূপে
 
-```bash
+```
 git clone git@github.com:this-is-you/first-contributions.git
-```bash
+```
 
 য'ত this-is-you হৈছে আপোনাৰ GitHub ইউজাৰনেম। ইয়াত আপুনি first-contributions ৰেপ'জিট'ৰিটোৰ বিষয়বস্তু GitHub ৰ পৰা আপোনাৰ কম্পিউটাৰত কপি কৰি থৈছা।
 
 ## Branch সৃষ্টি কৰক
 আপোনাৰ কম্পিউটাৰৰ ৰেপ'জিট'ৰিৰ ডাইৰেক্টৰীত পৰিৱৰ্তন কৰক (যদি আপুনি ইতিমধ্যেই তাত নোহোৱাঁ):
 
-```bash
+```
 cd first-contributions
-```bash
+```
 
 এতিয়া git switch কমাণ্ড ব্যৱহাৰ কৰি এখন শাখা সৃষ্টি কৰক:
 
-```bash
+```
 git switch -c <আপোনাৰ-নতুন-শাখা-নাম-যোগ-বনাওক>
 
-```bash
+```
 
 উদাহৰণ স্বৰূপে
 
-```bash
+```
 git switch -c add-alonzo-church
-```bash
+```
 
 <details>
 <summary> <strong>যদি আপুনি git switch ব্যৱহাৰ কৰি কোনো ত্ৰুটি পায়, ইয়াত ক্লিক কৰক:</strong> </summary>
@@ -66,9 +66,9 @@ git switch -c add-alonzo-church
 যদি আপুনি "Git: ‘switch’ is not a git command. See ‘git –help’" ত্ৰুটি পায়, তেতিয়া আপুনি পুরণি সংস্কৰণৰ git ব্যৱহাৰ কৰি থকা সম্ভাৱনা আছে।
 এই ক্ষেত্ৰত, git switchৰ পৰিবৰ্তে git checkout ব্যৱহাৰ কৰাৰ চেষ্টা কৰক:
 
-```bash
+```
 git checkout -b your-new-branch-name
-```bash
+```
 
 </details>
 
@@ -82,16 +82,16 @@ git checkout -b your-new-branch-name
 
 এই পৰিবৰ্তনসমূহকে আপুনি সৃষ্টি কৰা নতুন শাখাত যোগ কৰিবলৈ `git add` কমাণ্ডটো ব্যৱহাৰ কৰক:
 
-```bash
+```
 git add Contributors.md
-```bash
+```
 
 এতিয়া সেই পৰিবৰ্তনসমূহ `git commit` কমাণ্ড ব্যৱহাৰ কৰি commit কৰক:
 
-```bash
+```
 git commit -m "Add <আপোনাৰ-নাম> to Contributors list"
 
-```bash
+```
 
 আপোনাৰ-নাম স্থলৱি দি আপোনাৰ নাম যোগ কৰক:
 
@@ -99,9 +99,9 @@ git commit -m "Add <আপোনাৰ-নাম> to Contributors list"
 
 আপোনাৰ পৰিবৰ্তনসমূহ নিম্নলিখিত কমাণ্ড ব্যৱহাৰ কৰি GitHub ত Push কৰক:
 
-```bash
+```
 git push -u origin your-branch-name
-```bash
+```
 
 নিম্নলিখিত কমাণ্ডটো ব্যৱহাৰ কৰক, `your-branch-name` স্থলৱি দি আপোনাৰ শাখাৰ নাম যোগ কৰক:
 
@@ -121,7 +121,7 @@ git push -u origin your-branch-name
   origin	https://github.com/your-username/your_repo.git (push)</pre>
   
   কমাণ্ড ব্যৱহাৰ কৰি ইয়াক পৰিবৰ্তন কৰক:
-  ```bash
+  ```
   git remote set-url origin git@github.com:your-username/your_repo.git
   ```
  নহলে আপুনি কেতিয়াও লগইনৰ বাবে নিৰ্দিষ্ট নাম আৰু পাছৱৰ্ড দিয়া হব আৰু লগইন ত্ৰুটি হব।
