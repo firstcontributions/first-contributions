@@ -1460,4 +1460,6 @@ Maqsood Ansari
 - [karan gohel] (https://github.com/karangohel09)
 - Kavishka Deshan(https://github.com/kavishkadeshan1)
 - Saksham Tomar
+- [Anurag Mshra](https://www.instagram.com/itstheanuragmishra24?)
+- [Anurag Mshra](https://github.com/AnuragMishra-akm) - soumya ma'am mission placement student follow me'
 - [Najmul Arifeen](https://github.com/najmularifeen786)
