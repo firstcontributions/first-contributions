@@ -369,6 +369,7 @@
 - [Saugat Giri](https://github.com/saugat1070)
 - [Anurag Tiwari](https://github.com/boss2412)
 - [Shreya Sethu](https://github.com/shreyasethu)
+- [Sumedha G](https://github.com/vvgatlanta-cell)
 - [Shubhankar Pandey](https://github.com/shubxdoc)
 - [Star](https://github.com/star-ges)
 - [Enstant](https://github.com/Enstant)
