@@ -12,6 +12,7 @@
  -[Dias Karshal](https://github.com/diaskarshal)
 - [Divin Sota](https://github.com/divinsota/first-contributions)
 - [asgardik0](https://github.com/asgardik0)
+- [fredvdk](https://github.com/fredvdk)
 - [Zatho0](https://github.com/Zatho0)
 - [clement717](https://github.com/clement717)
 - [Satya-0611](https://github.com/Satya-0611)
