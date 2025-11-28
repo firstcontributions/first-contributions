@@ -1454,4 +1454,4 @@ Maqsood Ansari
 - [Arsiya Tasleem](https://github.com/ArsiyaTasleem90250) - My first contribution!
 - [karan gohel] (https://github.com/karangohel09)
 - Saksham Tomar
-- Dev Vrat Mishra (https://github.com/dvvrtmshra/)
+- [Dev Vrat Mishra](https://github.com/dvvrtmshra/)
