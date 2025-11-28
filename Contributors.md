@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Caleb Perkins](https://github.com/caleb-p93)
 - [Robert Davis](https://github.com/robertdavis)
 - [Imthiaz Muhassin/Imthiaz123] (https://github.com/Imthiaz123)
@@ -663,6 +663,7 @@
 - [LunkadV](https://github.com/LunkadV)
 - [Elif Ş.](https://github.com/elifsz)
 - [eszanon](https://github.com/eszanon)
+- [shadd](https://github.com/pontesBernardo)
 - [Rey Jao](https://github.com/jao-rey)
 - [Diego Gutierrez](https://github.com/DiegoGutierrezP)
 - [Eiheir](https://github.com/ebininin)
@@ -1401,6 +1402,7 @@ Maqsood Ansari
 - [Sumer](https://github.com/SumerSabharwal)
 - [Zia Uddin](https://github.com/ziauddin14)
 - [Frankson Iury] (https://github.com/FranksonIury)
+- [Danny](https://github.com/DannySmith-EQ)
 - [CJ Conti](https://github.com/contic5)
 - [Inengiye Emmanuel](https://github.com/Inengs)
 - [Aditya Nautiyal](https://github.com/AdityaNautiyal908)
@@ -1629,4 +1631,4 @@ Maqsood Ansari
 - [Chenghou Si](https://github.com/ChenghouSi)
 - [Venuru Kodagoda](https://github.com/Venuru)
 - [Massimo Celona](https://github.com/massimo-celona)
-- [Mitnu kumar] (https://github.com/mintukumar0000)
+- [Mitnu kumar](https://github.com/mintukumar0000)
