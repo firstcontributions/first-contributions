@@ -1418,6 +1418,7 @@ Maqsood Ansari
 - [Gabriel Fernandes](https://github.com/lgabrielmf)
 - [deep lukhi](https://github.com/deeplukhi)
 - [Shmelev Valentin](https://github.com/ValyaSHmelev)
+- [Shorya Taneja](https://github.com/shoryataneja)
 - [Anees Ahmed](https://https://github.com/i-AneesAhmed)
 - [M. Umasree](https://www.linkedin.com/in/umasree-mandla-231862349)
 - [Vedant Mishra](https://www.linkedin.com/in/vedant-mishra-356164342)
