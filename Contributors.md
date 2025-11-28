@@ -19,6 +19,7 @@
 - [Ava16](https://github.com/Ava16)
 - [Sumit Jha] (https://github.com/devlopersumit)
 - [Wissam]
+- [Samimi Aleandre] (https://github.com/Sidratu)
 - Starstruck
 - [Rishi] (Rishi2600)
 - [mtxasmgkr](https://github.com/mtxasmgkr)
