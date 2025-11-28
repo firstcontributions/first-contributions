@@ -28,7 +28,7 @@ Ahora clona este repositorio en tu equipo. Dirígete a tu cuenta de GitHub, haz 
 Abre tu consola o terminal y ejecuta el siguiente comando de git:
 
 ```bash
-git clone "url que acabas de copiar"
+git clone "https://github.com/2400032210/first-contributions.git"
 ```
 
 Donde pone "url que acabas de copiar" (sin las comillas dobles) es la *url* a este repositorio (tu *fork* a este proyecto). Mira los pasos previos para obtener la *url*.
@@ -51,9 +51,9 @@ cd first-contributions
 
 Ahora crea una rama (*branch*) usando el comando `git checkout` o `git switch`:
 ```bash
-git checkout -b <añade tu nombre>
+git checkout -b lokeshbranch
 
-git switch -c <añade tu nombre>
+git switch -c lokeshbranch
 ```
 
 Por ejemplo:
@@ -80,7 +80,7 @@ git add Contributors.md
 
 Ahora haz un *commit* sobre estos cambios ejecutando el comando `git commit`:
 ```bash
-git commit -m "Add <tu-nombre> to Contributors list"
+git commit -m "Add lokesh to Contributors list"
 ```
 Cambiando `<tu-nombre>` por tu nombre.
 
@@ -88,7 +88,7 @@ Cambiando `<tu-nombre>` por tu nombre.
 
 Haz *push* de tus cambios usando el comando `git push`:
 ```bash
-git push -u origin <añade-el-nombre-de-la-rama>
+git push -u origin lokeshbranch
 ```
 Reemplaza `<añade-el-nombre-de-la-rama>` con el nombre de la rama que creaste anteriormente.
 
