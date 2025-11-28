@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Caleb Perkins](https://github.com/caleb-p93)
 - [Robert Davis](https://github.com/robertdavis)
 - [Imthiaz Muhassin/Imthiaz123] (https://github.com/Imthiaz123)
@@ -1402,6 +1402,7 @@ Maqsood Ansari
 - [Sumer](https://github.com/SumerSabharwal)
 - [Zia Uddin](https://github.com/ziauddin14)
 - [Frankson Iury] (https://github.com/FranksonIury)
+- [Danny](https://github.com/DannySmith-EQ)
 - [CJ Conti](https://github.com/contic5)
 - [Inengiye Emmanuel](https://github.com/Inengs)
 - [Aditya Nautiyal](https://github.com/AdityaNautiyal908)
