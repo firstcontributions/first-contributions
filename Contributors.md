@@ -565,7 +565,7 @@
 - [lukgav](https://github.com/lukgav)
 - [AlexKos](https://github.com/lukgav)
 - [Imam](https://github.com/Shaik-36)
-- [Marcelo](https://github.com/xdxdxxx)
+- [Marcelo](https://github.com/marcelovazquez23)
 - [AkaruiNeko](https://github.com/BrightCat14)
 - [Harsh Kumar Singh](https://github.com/Mickey3970)
 - [Anu](https://github.com/anurag998)
