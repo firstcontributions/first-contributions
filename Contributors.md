@@ -41,6 +41,7 @@
 - [Gowsik Raja](https://github.com/gowsikraja)
 - [PONTHUS Abderrahman](https://github.com/S3869)
 - [Chia](https://github.com/chia-chang)
+- [Anas Ali](https://github.com/Anas-16)
 - [2400060033](https://github.com/2400060033)
 - [lionsol](https://github.com/lionsol)
 - [Bhumi](https://github.com/bansalbhumi)
@@ -807,6 +808,7 @@
 - [Jason](https://github.com/JayKayDevOps)
 - [jvleesenb](https://github.com/meatlake)
 - [John](https://github.com/yrdnal-c-nhoj)
+- [TheToastinToaster](https://github.com/thetoastintoaster)
 - [Eyal Kutz](https://github.com/eyalkutz)
 - [Juan Oviol](https://github.com/zetty80)
 - [Hmanaya](https://github.com/manayah199)
@@ -1604,7 +1606,5 @@ Maqsood Ansari
 - mkr
 - [Koushitha tadiboina](https://github.com/koushithatadiboina)
 - [Moksh D](https://github.com/danMoksh)
-- [Riya Agrawal](https://github.com/riyaagrawal02)
 - [Sumaiya Akter Runa](https://www.linkedin.com/in/sumaiya-akter-runa-69b8b624a/)
 - [Svante Lindström](https://www.goglee.com)
-
