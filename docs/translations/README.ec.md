@@ -104,13 +104,7 @@ Reemplaza `<nombre-rama>` con el nombre de la rama que creaste anteriormente.
     <pre>remote: El soporte para la autenticación de contraseña se eliminó el 13 de agosto de 2021. Utiliza un token de acceso personal en su lugar.
   remote: Consulta https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ para obtener más información.
 fatal: Fallo en la autenticación para 'https://github.com/<tu-usuario>/first-contributions.git/'
-<pre>origin https://github.com/tu-usuario/tu_repo.git (fetch)
-origin https://github.com/tu-usuario/tu_repo.git (push)</pre>
 
-
-    
-    cámbialo usando este comando:
-    ```bash
     git remote set-url origin git@github.com:tu-usuario/tu_repo.git
     ```
     De lo contrario, aún se te pedirá un nombre de usuario y contraseña y obtendrás un error de autenticación.
