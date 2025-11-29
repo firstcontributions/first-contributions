@@ -299,6 +299,7 @@
 - [ipsitdebnath](https://github.com/ipsitdebnath)
 - [baldlow](https://github.com/baldlow)
 - [Mohit Kumar](https://github.com/MateeRixx)
+- [Yuval Tzur](https://github.com/yuvtz)
 - [Pygame17](https://github.com/Pygame17)
 - [AshwinJ127](https://github.com/AshwinJ127)
 - [Jonatan Rosali](https://github.com/JonatanRosali)
