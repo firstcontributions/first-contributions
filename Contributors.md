@@ -556,6 +556,7 @@
 - [evneis](https://github.com/evneis)
 - [Gem793](https://github.com/Gem793)
 - [soulpm](https://github.com/soulpm)
+- [Gabriel Ferspin] (https://github.com/GabrielFersPin)
 - [soulpm](https://github.com/soulpm)
 - [Pedro Andrade](https://github.com/Pedro271183)
 - [0xjeji](https://github.com/0xjeji)
@@ -1650,3 +1651,4 @@ Maqsood Ansari
 - [Abdul Muizz] (https://github.com/lonewolve24)
 - [Sarthak Jain](https://github.com/Sarthak070606)
 - [Guillaume Rossi] (https://github.com/elross913)
+
