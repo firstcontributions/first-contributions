@@ -1645,3 +1645,4 @@ Maqsood Ansari
 - [Gokul Krishnan KS] (https://github.com/gokulkrishnanks)
 - [Abdul Muizz] (https://github.com/lonewolve24)
 - [Sarthak Jain](https://github.com/Sarthak070606)
+- [Guillaume Rossi] (https://github.com/elross913)
