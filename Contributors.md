@@ -82,6 +82,7 @@
 - [LiBei1123](https://github.com/LiBei1123)
 - [Gabriel S](https://github.com/gabriel-silveirinha)
 - [Konstantinos Pavlides](https://github.com/KonstantinosP01)
+- [UltraInstinct21] (https://github.com/UltraInstinct21)
 - Shreya Mane (GitHub: shreyamane1526)
 - Lydia Abraham (GitHub: LydiaAbrahamF)
 - [Cem Batuhan Yaman](https://github.com/CBYeuler)
