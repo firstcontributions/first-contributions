@@ -828,6 +828,7 @@
 - [Iliiasik](https://github.com/Iliiasik)
 - [Zoe Cai](https://github.com/Parabolaa)
 - [Nahom](https://github.com/NahomWondimu)
+- [Venkata Ajay Puripanda](https://github.com/ajayvnkt)
 - [Aadi Jain](https://github.com/Aadi1903)
 - [Jason](https://github.com/JayKayDevOps)
 - [jvleesenb](https://github.com/meatlake)
