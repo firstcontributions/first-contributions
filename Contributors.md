@@ -87,6 +87,7 @@
 - Lydia Abraham (GitHub: LydiaAbrahamF)
 - [Cem Batuhan Yaman](https://github.com/CBYeuler)
 - [Steve Harper](https://github.com/sjharper79)
+- [Om Nejakar] (https://github.com/Om-Nejakar)
 - [Muhammed midlaj ](https://github.com/midlajmidu)
 - [Alisha Shaw](https://github.com/alishashaw439)
 - [zaka](https://github.com/oraichezakariyae)
