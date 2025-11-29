@@ -120,6 +120,7 @@
 - [Rishabh](https://github.com/rishabh8870)
 - [Nitinjadhav](https://github.com/nitinjadhav888)
 - [Bhupesh](https://github.com/Bhupi1306)
+- [Nitesh Singhal](https://github.com/niteshsinghal85)
 - [I-eat-gays-v-pornoroshku](https://github.com/I-eat-gays-v-pornoroshku)
 - [B Pasha](https://github.com/baasilpasha)
 - [Michael T](https://github.com/tadstech)
