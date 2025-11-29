@@ -545,6 +545,7 @@
 - [Kmogun](https://github.com/kmogun)
 - [mkvaishnavi](https://github.com/mkvaishnavi)
 - [Chris C](https://github.com/xboof)
+- [tusharsoni52](https://github.com/tusharsoni52)
 - [lecsim](https://github.com/lecsim)
 - [Abhishek](https://github.com/abhisheksharma12891/)
 - [evneis](https://github.com/evneis)
