@@ -1659,3 +1659,4 @@ Maqsood Ansari
 - [Saurav Raj Paudel] (https://github.com/Sauravrp67)
 - [Anshika Chauhan] (https://github.com/anshika231106)
 - [zenith](https://github.com/darkatwi)
+- [Rodrigo Sanchez](https://github.com/RodrigoSanchezDev)
