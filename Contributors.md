@@ -1568,7 +1568,9 @@ Maqsood Ansari
 - [Prorise-cool](https://github.com/Prorise-cool)
 - [Arsiya Tasleem](https://github.com/ArsiyaTasleem90250) - My first contribution!
 - [karan gohel] (https://github.com/karangohel09)
+- Kavishka Deshan(https://github.com/kavishkadeshan1)
 - Saksham Tomar
+- [Anurag Mshra](https://github.com/AnuragMishra-akm) - soumya ma'am mission placement student follow me'
 - [Najmul Arifeen](https://github.com/najmularifeen786)
 - [Milhane](https://github.com/chmilhane)
 - [Menschenkind](https://github.com/menschenkind)
