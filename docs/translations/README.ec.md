@@ -109,8 +109,9 @@ Reemplaza `<nombre-rama>` con el nombre de la rama que creaste anteriormente.
     Además, es posible que desees ejecutar `git remote -v` para verificar tu dirección remota.
     
     Si se ve algo como esto:
-    <pre>origin [https://github.com/tu-usuario/tu_repo.git] (fetch)  
-  origin  [https://github.com/tu-usuario/tu_repo.git] (push)</pre>
+    <pre>origin https://github.com/tu-usuario/tu_repo.git (fetch)
+origin  https://github.com/tu-usuario/tu_repo.git (push)</pre>
+
 
     
     cámbialo usando este comando:
