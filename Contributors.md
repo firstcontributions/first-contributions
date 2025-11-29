@@ -810,6 +810,7 @@
 - [td2thinh](https://github.com/td2thinh)
 - [Alish-0x](https://github.com/Alish-0x)
 - [tcadieux](https://github.com/tcadieux)
+- [Hanbibiel](https://github.com/Hanbibiel)
 - [DAKSH](https://github.com/Daksh-codes)
 - [Harsha](https://github.com/Harsha1849)
 - [ccie5013](https://github.com/ccie5013)
