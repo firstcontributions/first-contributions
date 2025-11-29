@@ -11,7 +11,7 @@ Bacano leer artículos y ver tutoriales y toda esa vaina, pero nada como aprende
 
 #### _Si no le has cogido el tiro a la consola,[acá tenés tutoriales con herramientas más amigables (GUI)](#Tutoriales-con-otras-herramientas)_
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork de este repositorio" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="crear un fork de este repositorio" />
 
 Si no tenés git en tu aparato, podés encontrar cómo instalarlo en[este link](https://docs.github.com/es/get-started/quickstart/set-up-git).
 
@@ -70,7 +70,7 @@ git checkout -b add-alonzo-church
 
 Abrí el archivo `Contributors.md` en un editor de texto y agregá tu nombre. No lo pongas ni al principio ni al final del archivo, metelo en cualquier otro lado. Guardá el archivo.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="terminal mostrando la salida de `git status`" />
 
 Si vas al directorio del proyecto y ejecutas el comando `git status`, verás que hay cambios.
 
