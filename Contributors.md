@@ -1074,6 +1074,7 @@
 - [RubenDev25](https://github.com/RubenDev25)
 - [Mayen Akech](https://github.com/Mayen007)
 - [Meet Shah](https://github.com/Meet6338-X)
+- [Yash Babiya](https://github.com/yashbabiya)
 - [Moresh](https://github.com/Moresh-Mishra)
 - [Moulya.K](https://github.com/MoulyaK2005)
 - [Nathan Hall](https://github.com/Zero4793)
