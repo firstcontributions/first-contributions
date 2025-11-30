@@ -228,6 +228,7 @@
 - [Katharina Ludwig](https://github.com/katharina-ludwig-02)
 - [Srajan Gupta](https://github.com/srajang1805)
 - [Nirbhay Bawankule](https://github.com/NirbhayBawankule)
+- [Yash Warhade](https://github.com/Yashwarhade8010)
 - [Praise Oke](https://github.com/1joat)
 - [Ronik Kumbhar](https://github.com/ronik62)
 - [Brandon B Bolivar](https://github.com/AvoBolivar)
