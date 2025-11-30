@@ -1636,6 +1636,7 @@ Maqsood Ansari
 - [jayadev](https://github.com/jaydev-431)
 -hi
 - [Sanskar Kadam](https://github.com/sanskarkadam)
+- [Manya Gupta](https://github.com/manyagupta13)
 - [Riddhima Biswas](https://github.com/RiddhimaBiswas)
 - [ShaikAyesha17](https://github.com/ShaikAyesha17)
 - Sanika S P
@@ -1672,3 +1673,4 @@ Maqsood Ansari
 - [zenith](https://github.com/darkatwi)
 - [Rodrigo Sanchez](https://github.com/RodrigoSanchezDev)
 - [Shalini yadav] (https://github.com/Sha-lini3)
+
