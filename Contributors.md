@@ -4,7 +4,6 @@
 -[Shubham Raiyani](https://github.com/shubhamraiyani)
 - [Rishit Khandelwal](https://github.com/Rishit-Khandelwal)
  - [WebDevPraveen] (https://github.com/webdevpraveen)
- - [Sanjib77] (https://github.com/sanjib77)
  - [Omkar] (https://github.com/omk18p)
  - [Liam Reckziegel] (https://github.com/reckziegelwilliam)
 - [Dheepak] (https://github.com/Dheepak214)
@@ -1622,6 +1621,7 @@ Maqsood Ansari
 - [likith kumar dr ] : (https://github.com/htmluser18)
 - chiraj gupta
 - Elena Lopez
+ [Rohit](https://github.com/optimusprimeleader345) 
 - ARuizTorres
 - PepsiBro
 - [shion](https://github.com/shion555)
@@ -1683,3 +1683,4 @@ Maqsood Ansari
 - [Tahura] (https://github.com/Rahmantahura)
 - [Aditya Tejus](https://github.com/aditya22314)
 - [Avani Jaiswal]
+- [Rohit](https://github.com/optimusprimeleader345)
