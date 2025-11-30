@@ -24,6 +24,7 @@
   [Uttara Shah](https://guthub.com/UTTARASH)
 - [Koji Kawamura](https://github.com/kouji0705)
 - [Ava16](https://github.com/Ava16)
+- [Changjip Moon](https://github.com/dwhouse)
 - [Sumit Jha] (https://github.com/devlopersumit)
 - [Wissam]
 - [Samimi Aleandre] (https://github.com/Sidratu)
