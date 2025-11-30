@@ -7,6 +7,7 @@
 - [Imthiaz Muhassin/Imthiaz123] (https://github.com/Imthiaz123)
 - [Iam Pranav Yadav](https://github.com/pranav50227)
 - [keynes steve AKPODE](https://github.com/keynessteve-cyber)
+- [Tinlia](https://github.com/Tinlia)
   [CecilioRatsimilo]
 - [Brotcorne Florian](https://github.com/FlorianBrot)
  -[Resmi](https://github.com/CodeNLife)
