@@ -1668,6 +1668,7 @@ Maqsood Ansari
 - [Sarthak Jain](https://github.com/Sarthak070606)
 - [Mrunal Jadhav](https://github.com/mrunaljadhav)
 - [Guillaume Rossi] (https://github.com/elross913)
+- Jagriti-student — https://github.com/Jagriti-student
 - [Saurav Raj Paudel] (https://github.com/Sauravrp67)
 - [Anshika Chauhan] (https://github.com/anshika231106)
 - [zenith](https://github.com/darkatwi)

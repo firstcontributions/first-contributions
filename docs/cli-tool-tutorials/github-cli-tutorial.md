@@ -3,6 +3,13 @@
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 # First Contributions
+## Table of Contents
+- [Introduction](#introduction)
+- [Forking the repository](#forking-the-repository)
+- [Cloning your fork](#cloning-your-fork)
+- [Creating a branch](#creating-a-branch)
+- [Making changes](#making-changes)
+- [Creating a PR](#creating-a-pr)
 
 | <img alt="GitHub Desktop" src="https://cdn.icon-icons.com/icons2/2157/PNG/512/github_git_hub_logo_icon_132878.png" width="200"> | GitHub Command Line Interface (CLI) |
 | ------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
@@ -35,6 +42,8 @@ gh repo fork firstcontributions/first-contributions
 ```
 
 **Important: It will prompt you if you want to clone it as well, select the "yes" option**
+> **Note:** Always create a new branch before making changes. Example:
+> `git checkout -b ui-improve-107985`
 
 # Create your branch
 
