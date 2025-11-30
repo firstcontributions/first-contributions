@@ -16,6 +16,7 @@
 - [keynes steve AKPODE](https://github.com/keynessteve-cyber)
 - [Tinlia](https://github.com/Tinlia)
   [CecilioRatsimilo]
+- [Christopher Michelli] (https://github.com/christophermichelli)
 - [Brotcorne Florian](https://github.com/FlorianBrot)
  -[Resmi](https://github.com/CodeNLife)
  -[Anirban Sarkar](https://github.com/anantacoder)
