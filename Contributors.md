@@ -74,6 +74,7 @@
 - [Nameless-Fellow](https://github.com/nameless-fellow)
 - [Vedika Barkare](https://github.com/vedikaBarkare)
 - [jokitjo-labs](https://github.com/jokitjo-labs)
+- [Niccolò-Buricchi]()
 - [Rizwan Munir](https://github.com/Rizstien)
 - [Ramkumar T](https://github.com/sparkp1ug)
 - [Maxence G](https://github.com/MaxenceGat)
