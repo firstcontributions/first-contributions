@@ -1,5 +1,6 @@
 # Contributors
 - [Rishit Khandelwal](https://github.com/Rishit-Khandelwal)
+- [Aditya Swamy](https://github.com/Aditya-354)
 - [WebDevPraveen](https://github.com/webdevpraveen)
 - [Omkar](https://github.com/omk18p)
 - [Liam Reckziegel](https://github.com/reckziegelwilliam)
