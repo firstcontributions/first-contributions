@@ -1651,3 +1651,4 @@ Maqsood Ansari
 - [Abdul Muizz] (https://github.com/lonewolve24)
 - [Sarthak Jain](https://github.com/Sarthak070606)
 - [Guillaume Rossi] (https://github.com/elross913)
+- Jagriti-student — https://github.com/Jagriti-student
