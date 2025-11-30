@@ -120,6 +120,7 @@
 - [Aswanth KT](https://github.com/aswanth-kt)
 - [Yuvraj Chauhan](https://github.com/Yuvraj13Chauhan)
 - [Abhiraj Marne](https://github.com/Abmarne)
+- [Mihir Bhagat](https://github.com/mihirb-6)
 - [Debashis Kar](https://github.com/deba012)
 - [Kshitiz Kumar] (https://github.com/promt-l)
 - [Pratik Navghare] (https://github.com/navghare-pratik)
