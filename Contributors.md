@@ -108,6 +108,7 @@
 - [Conor James](https://github.com/ConorsGitHub)
 - [Kacper Likus](https://github.com/ToastedBurrito)
 - [Ishika Gupta](https://github.com/Ishika-guptaa25)
+- [ Kartikey ](https://github.com/Kartikeyji17)
 - [Aswanth KT](https://github.com/aswanth-kt)
 - [Yuvraj Chauhan](https://github.com/Yuvraj13Chauhan)
 - [Abhiraj Marne](https://github.com/Abmarne)
