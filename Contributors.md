@@ -1,10 +1,16 @@
-﻿# Contributors
+# Contributors
+- [Rishit Khandelwal](https://github.com/Rishit-Khandelwal)
+ - [WebDevPraveen] (https://github.com/webdevpraveen)
+ - [Omkar] (https://github.com/omk18p)
+ - [Liam Reckziegel] (https://github.com/reckziegelwilliam)
 - [Dheepak] (https://github.com/Dheepak214)
+- [Sukalyan] (https://github.com/PMSukalyanSahu)
 - [Caleb Perkins](https://github.com/caleb-p93)
 - [Robert Davis](https://github.com/robertdavis)
 - [Imthiaz Muhassin/Imthiaz123] (https://github.com/Imthiaz123)
 - [Iam Pranav Yadav](https://github.com/pranav50227)
 - [keynes steve AKPODE](https://github.com/keynessteve-cyber)
+- [Tinlia](https://github.com/Tinlia)
   [CecilioRatsimilo]
 - [Brotcorne Florian](https://github.com/FlorianBrot)
  -[Resmi](https://github.com/CodeNLife)
@@ -20,6 +26,7 @@
   [Uttara Shah](https://guthub.com/UTTARASH)
 - [Koji Kawamura](https://github.com/kouji0705)
 - [Ava16](https://github.com/Ava16)
+- [Changjip Moon](https://github.com/dwhouse)
 - [Sumit Jha] (https://github.com/devlopersumit)
 - [Wissam]
 - [Samimi Aleandre] (https://github.com/Sidratu)
@@ -31,6 +38,7 @@
 - [Sohail](https://github.com/sohail78692)
 - [VicciHz](https://github.com/VicciHz)
 - [karthik shetty](https://github.com/KarthikShetty23)
+- [Bhavesh Desale](https://github.com/bhaveshdesale)
 - [BALAJI](https://github.com/balaji-bheesetti)
 - [alvarosola1](https://github.com/alvarosola1)
 - [Ivanich0](https://github.com/Ivanich0)
@@ -102,6 +110,7 @@
 - [Conor James](https://github.com/ConorsGitHub)
 - [Kacper Likus](https://github.com/ToastedBurrito)
 - [Ishika Gupta](https://github.com/Ishika-guptaa25)
+- [ Kartikey ](https://github.com/Kartikeyji17)
 - [Aswanth KT](https://github.com/aswanth-kt)
 - [Yuvraj Chauhan](https://github.com/Yuvraj13Chauhan)
 - [Abhiraj Marne](https://github.com/Abmarne)
@@ -827,6 +836,7 @@
 - [Iliiasik](https://github.com/Iliiasik)
 - [Zoe Cai](https://github.com/Parabolaa)
 - [Nahom](https://github.com/NahomWondimu)
+- [Venkata Ajay Puripanda](https://github.com/ajayvnkt)
 - [Aadi Jain](https://github.com/Aadi1903)
 - [Jason](https://github.com/JayKayDevOps)
 - [jvleesenb](https://github.com/meatlake)
@@ -1011,6 +1021,7 @@
 - [Devi Patil](https://github.com/Devipatil)
 - [Ankitha Malle](https://github.com/Ankitha-M06).
 - [Devin Rand](https://github.com/devinrand)
+- [Anand](https://github.com/anand-0711)
 - [Devna jiya R](https://github.com/jiya22r)
 - [Dhairya Dev](https://github.com/hamzak51)
 - [Druva Kumar](https://github.com/Dru-blip)
@@ -1068,6 +1079,7 @@
 - [RubenDev25](https://github.com/RubenDev25)
 - [Mayen Akech](https://github.com/Mayen007)
 - [Meet Shah](https://github.com/Meet6338-X)
+- [Yash Babiya](https://github.com/yashbabiya)
 - [Moresh](https://github.com/Moresh-Mishra)
 - [Moulya.K](https://github.com/MoulyaK2005)
 - [Nathan Hall](https://github.com/Zero4793)
@@ -1620,6 +1632,7 @@ Maqsood Ansari
 - - [PraveenBoss45](https://github.com/PraveenBoss45)
 - [Tankbread](https://github.com/Tobiassko)
 - [UJWAL](https://github.com/Ujwal200707)
+- [Pasjonat90D](https://github.com/Pasjonat90D)
 - [jayadev](https://github.com/jaydev-431)
 -hi
 - [Sanskar Kadam](https://github.com/sanskarkadam)
@@ -1643,6 +1656,7 @@ Maqsood Ansari
 - [Lin Yuwei] (https://github.com/LYW199911/)
 - [Chenghou Si](https://github.com/ChenghouSi)
 - [Venuru Kodagoda](https://github.com/Venuru)
+- [Biswajit Shaw](https://github.com/thegoddo)
 - [Manthan Nimonkar](https://github.com/Manthancode28)
 - [Anug](github)
 - [Massimo Celona](https://github.com/massimo-celona)
@@ -1651,7 +1665,11 @@ Maqsood Ansari
 - [Gokul Krishnan KS] (https://github.com/gokulkrishnanks)
 - [Abdul Muizz] (https://github.com/lonewolve24)
 - [Sarthak Jain](https://github.com/Sarthak070606)
+- [Mrunal Jadhav](https://github.com/mrunaljadhav)
 - [Guillaume Rossi] (https://github.com/elross913)
 - Jagriti-student — https://github.com/Jagriti-student
-
-
+- [Saurav Raj Paudel] (https://github.com/Sauravrp67)
+- [Anshika Chauhan] (https://github.com/anshika231106)
+- [zenith](https://github.com/darkatwi)
+- [Rodrigo Sanchez](https://github.com/RodrigoSanchezDev)
+- [Shalini yadav] (https://github.com/Sha-lini3)
