@@ -1686,7 +1686,8 @@ Maqsood Ansari
 - [Anshika Chauhan] (https://github.com/anshika231106)
 - [zenith](https://github.com/darkatwi)
 - [Rodrigo Sanchez](https://github.com/RodrigoSanchezDev)
-- [Shalini yadav] (https://github.com/Sha-lini3)
+- [Shalini yadav] (https://github.com)
+- [Kiran Vhankalas](https://github.com/kvhankalas-star)
 - [Tahura] (https://github.com/Rahmantahura)
 - [Aditya Tejus](https://github.com/aditya22314)
 - [Avani Jaiswal]
