@@ -650,6 +650,7 @@ sujoy
 - [Arnav](https://github.com/arnav-mi)
 - [Ishita](https://github.com/elekish)
 - [sony](https://github.com/sony77697)
+- [Julian](https://github.com/JRigh)
 - [Juho Lee](https://github.com/jxuho)
 - [Helen C](https://github.com/hmczap)
 - [Katsu](https://github.com/kakko341)
