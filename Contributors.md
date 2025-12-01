@@ -35,6 +35,7 @@
 - [Samimi Aleandre] (https://github.com/Sidratu)
 - Starstruck
 - [Rishi] (Rishi2600)
+- [Liger_18.](https://github.com/mayurdongare269)
 - [mtxasmgkr](https://github.com/mtxasmgkr)
 - [Vraj Patel](https://github.com/VrajPatel105)
 - [Raghuram]
@@ -1684,3 +1685,4 @@
 - [Avani Jaiswal]
 - [Mohammad Ali](https://github.com/md-ali-0)
 - [Ayincoder](https://github.com/Ayincoder)
+- [Mesh Bright](https://github.com/MeshBright)
