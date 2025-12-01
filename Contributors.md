@@ -1,5 +1,6 @@
 # Contributors
 -[Shubh Jain](https://github.com/shubhj8989)
+-[Jenil Macwan](https://github.com/JenilMacwan)
 -[Sriram](https://github.com/ram17602)
 -[Shubham Raiyani](https://github.com/shubhamraiyani)
 - [Rishit Khandelwal](https://github.com/Rishit-Khandelwal)
