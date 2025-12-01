@@ -29,6 +29,7 @@
 - [asgardik0](https://github.com/asgardik0)
 -[meet1214](https://github.com/meet1214)
 - [fredvdk](https://github.com/fredvdk)
+- [Jayesh Patil](https://github.com/JayeshPatil163)
 - [Zatho0](https://github.com/Zatho0)
 - [clement717](https://github.com/clement717)
 - [Satya-0611](https://github.com/Satya-0611)
