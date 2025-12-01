@@ -704,6 +704,7 @@ sujoy
 - [eulerBM](https://github.com/eulerBM)
 - [Jordy19](https://github.com/Jordy19)
 - [Robiya](https://github.com/rhakim24)
+- [outsutski](https://github.com/outsutski)
 - [jhc4318](https://github.com/jhc4318)
 - [Soulwill](https://github.com/soulwill1)
 - [LunkadV](https://github.com/LunkadV)
