@@ -126,6 +126,8 @@
 - [Ayaj Husain](https://github.com/ayaj-09)
 -[Manoj Reddy]
 - [Matheus Lino](https://github.com/7matheus)
+- [Shantanu Dhane](https://github.com/Dev-Santo44)
+
 - [Conor James](https://github.com/ConorsGitHub)
 - [Kacper Likus](https://github.com/ToastedBurrito)
 - [Ishika Gupta](https://github.com/Ishika-guptaa25)
