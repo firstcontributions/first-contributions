@@ -39,6 +39,7 @@
 - Starstruck
 - [Rishi] (Rishi2600)
 - [mtxasmgkr](https://github.com/mtxasmgkr)
+- [Vraj Patel](https://github.com/VrajPatel105)
 - [Raghuram]
 - [Reynhard](https://github.com/reybui)
 - [Sohail](https://github.com/sohail78692)
