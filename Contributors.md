@@ -951,6 +951,7 @@
 - [Karthik](https://github.com/karthik)
 - [abishekh](https://github.com/Abishekhob)
 - [atlas-ian](https://github.com/atlas-ian)
+- [pnow7](https://github.com/pnow7)
 - [terror-akshat](https://github.com/terror-akshat)
 - [fusionAMAN](https://github.com/fusionAMAN)
 - [azhank391](https://github.com.azhank391)
