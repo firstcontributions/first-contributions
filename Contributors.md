@@ -27,6 +27,7 @@
   [Uttara Shah](https://guthub.com/UTTARASH)
   [RITVIK AND TRISHA](https://github.com/CITIZEN-OF-INDIA)
 - [Ravi Raj Choudhary](https://github.com/ravirajchoudhary03)
+- [al-ocin]
 - [Koji Kawamura](https://github.com/kouji0705)
 - [Ava16](https://github.com/Ava16)
 - [Changjip Moon](https://github.com/dwhouse)
@@ -330,6 +331,7 @@
 - [Pavan kuppili](https://github.com/PavanKuppili)
 - [Jason Ephraim Tjiunardi](https://github.com/jasontjiunardi)
 - [Eques72](https://github.com/Eques72)
+sujoy
 - [Ralph M] (https://github.com/ralphm-rgg)
 - [Thaiyal Bagam Sanjeev](https://github.com/SugarCrash2077)
 - [Supriya](https://github.com/Supriyasus)
@@ -1686,3 +1688,5 @@
 - [Mohammad Ali](https://github.com/md-ali-0)
 - [Ayincoder](https://github.com/Ayincoder)
 - [Mesh Bright](https://github.com/MeshBright)
+- [Mohammad Suhail Ahamed](https://github.com/Md-suhail07-code)
+- [Aditya](https://github.com/Lumowhisp)
