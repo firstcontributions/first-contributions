@@ -1649,6 +1649,7 @@ Maqsood Ansari
 - kodurikeerthana
 - [Merlin Dust](https://github.com/DustMerlin)
 - [Fru](https://github.com/ladalar)
+- [Khushi](https://github.com/KhushiKhati11)
 -[Ashiq](https://github.com/devopashiq)
 - [Olasunkanmi Emmanuel Jesuferanmi] (https://github.com/feranmiemmanuel)
 - [Seokhyeonh](https://github.com/Seokhyeonh)
@@ -1708,3 +1709,5 @@ Maqsood Ansari
 - [Mesh Bright](https://github.com/MeshBright)
 - [Mohammad Suhail Ahamed](https://github.com/Md-suhail07-code)
 - [Aditya](https://github.com/Lumowhisp)
+
+
