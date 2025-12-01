@@ -148,6 +148,7 @@
 - [Divyom Srivastava](https://github.com/DivyomSrivastava)
   [Taposh Kumer Ghosh](https://github.com/taposhkumer)
 - geogjegjegoiejgeroigjergjeoi
+- [Hui](https://github.com/0x722)🐾
 - [Nimish Agrawal](https://github.com/nimishagrawal1405)❤️❤️❤️
 - [Gaurav S](https://github.com/garry00107)
 - [Mrityunjay Kumar](https://github.com/mjpalash)
