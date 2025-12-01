@@ -240,6 +240,7 @@
 - [Vishakha Singh](https://github.com/Vishakha7-Kumari)
 - [Katharina Ludwig](https://github.com/katharina-ludwig-02)
 - [Srajan Gupta](https://github.com/srajang1805)
+- [Niraj] 
 - [Nirbhay Bawankule](https://github.com/NirbhayBawankule)
 - [Yash Warhade](https://github.com/Yashwarhade8010)
 - [Praise Oke](https://github.com/1joat)
