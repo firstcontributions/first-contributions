@@ -102,7 +102,7 @@ Reemplaza `<nombre-rama>` con el nombre de la rama que creaste anteriormente.
 
 - ### Error de Autenticación
     <pre>remote: El soporte para la autenticación de contraseña se eliminó el 13 de agosto de 2021. Utiliza un token de acceso personal en su lugar.
-  remote: Consulta [https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/) para obtener más información.
+  remote: Consulta https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ para obtener más información.
   fatal: Fallo en la autenticación para '[https://github.com/](https://github.com/)<tu-usuario>/first-contributions.git/'</pre>
     Ve al [tutorial de GitHub](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) sobre cómo generar y configurar una clave SSH en tu cuenta.
 
