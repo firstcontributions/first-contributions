@@ -1718,3 +1718,4 @@ Maqsood Ansari
 - [Aditya](https://github.com/Lumowhisp)
 - [Melisa Adıyaman]
 - [Suraj Nair] (https://github.com/Surajnairx)
+- [Prince Singh] (https://github.com/Prince-Singh-Dev)
