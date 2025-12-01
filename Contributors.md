@@ -788,6 +788,7 @@ sujoy
 - [uzuraDev](https://github.com/uzuraDev)
 - [Yirokun](https://github.com/Yirokun) #-----------------------------------------------------------------------------------------------#
 - [lepickel](https://github.com/lepickel)
+- [nathan_l8](https://github.com/brontoraptor)
 - [Eric Ijeoma](https://github.com/ericijeoma)
 - [Kent0011](https://github.com/Kent0011)
 - [brainkoko](https://github.com/thanatoast03)
