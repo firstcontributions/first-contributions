@@ -2,6 +2,7 @@
 -[Shubh Jain](https://github.com/shubhj8989)
 -[Yash Lund](https://github.com/yashlund05)
 -[Jenil Macwan](https://github.com/JenilMacwan)
+-[Lovish Manchanda](https://github.com/lovishmanchanda)
 -[Sriram](https://github.com/ram17602)
 -[Shubham Raiyani](https://github.com/shubhamraiyani)
 - [Rishit Khandelwal](https://github.com/Rishit-Khandelwal)
