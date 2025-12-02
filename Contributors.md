@@ -997,6 +997,7 @@ sujoy
 - [jsutCodes](https://github.com/jsutCodes)
 - [karan](https://github.com/karanhb-pixel)
 - [kevinmj12](https://github.com/kevinmj12)
+- [WeatherboySuper](https://github.com/wxboysuper)
 - [Niraj](https://github.com/Niraj-Ramnani)
 - [killjoybr](https://github.com/killjoybr)
 - [magikcarp](https://github.com/magikcarp)
