@@ -1396,6 +1396,7 @@ Maqsood Ansari
 - [Zahid-hussain19](https://github.com/Zahid-hussain19)
 - [soybean501](https://github.com/soybean501)
 - [swev10swev](https://github.com/swev10swev)
+- [marketakor](https://github.com/marketakor)
 - [tember8003](https://github.com/tember8003)
 - [v1ct0r-ops](https://github.com/v1ct0r-ops)
 - [xnm-sdksdk](https://github.com/xnm-sdksdk)
@@ -1738,4 +1739,6 @@ Maqsood Ansari
 - [Cendemie Behagan](https://github.com/demiebehagan)
 - [XLASh] (https://github.com/XlaSh9914)
 - [Prem Jay](https://github.com/BruteForceRonin)
-[pengWang002](https://github.com/pengwang002)
+- [pengWang002](https://github.com/pengwang002)
+- [Shabaz shaikh]
+- [Enrio Hernanda](https://github.com/enriohernanda)
