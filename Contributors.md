@@ -156,6 +156,7 @@ scandi
 - [Jatin Yadav] (https://github.com/jatin-yadav-sekwal)
 - [Oolazile] (https://github.com/Oolazile)
 - Rishabdev Panchal (https://github.com/rdp2x)
+- [Hamza Naseem] (https://github.com/HamzaNasiem)
 - [Varshini](https://github.com/Varshini131)
 - [Uros Velickovic](https://github.com/UrosVel97)
 - [Divyom Srivastava](https://github.com/DivyomSrivastava)
