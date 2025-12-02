@@ -1724,8 +1724,11 @@ Maqsood Ansari
 - [Mohammad Suhail Ahamed](https://github.com/Md-suhail07-code)
 - [Aditya](https://github.com/Lumowhisp)
 - [Melisa Adıyaman]
+- [Suraj Nair](https://github.com/Surajnairx)
+- [TAMUKEDDE JACOB](https://github.com/Tamujacob)
 - [Suraj Nair] (https://github.com/Surajnairx)
--[TAMUKEDDE JACOB](https://github.com/Tamujacob)
+- [TAMUKEDDE JACOB](https://github.com/Tamujacob)
 - [Prince Singh] (https://github.com/Prince-Singh-Dev)
 - [PhishDestroy] (https://github.com/phishdestroy) 
 - [Cendemie Behagan](https://github.com/demiebehagan)
+
