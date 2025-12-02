@@ -48,6 +48,7 @@ scandi
 - [Ravi Raj Choudhary](https://github.com/ravirajchoudhary03)
 - [al-ocin]
 - [Koji Kawamura](https://github.com/kouji0705)
+- [Jahnavi](https://github.com/Jahnavi41)
 - [Ava16](https://github.com/Ava16)
 - [Changjip Moon](https://github.com/dwhouse)
 - [Sumit Jha] (https://github.com/devlopersumit)
