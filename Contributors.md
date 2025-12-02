@@ -10,6 +10,7 @@ scandi
 -[Vukkem Bhuvaneshwar](https://github.com/bhuvanvjak)
 -[Jenil Macwan](https://github.com/JenilMacwan)
 -[Lovish Manchanda](https://github.com/lovishmanchanda)
+-[Yash Lund](https://github.com/yashlund05)
 [anwarhaq07](https://github.com/anwarhaq07)
 -[Sriram](https://github.com/ram17602)
 -[Shubham Raiyani](https://github.com/shubhamraiyani)
