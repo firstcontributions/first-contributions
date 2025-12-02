@@ -1,6 +1,7 @@
 # Contributors
 -[Shashank M N](https://github.com/Shashank07-debug)
 -[Mohd Aatif] (https://github.com/atifShaiKh0)
+-[Nerd-SWAYAM] (https://github.com/LightYagami625)
 -[Shubh Jain](https://github.com/shubhj8989)
 scandi
 -[Israel Chavez](https://github.com/SoyIsrael)
