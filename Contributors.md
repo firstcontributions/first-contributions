@@ -2,6 +2,7 @@
 -[Shashank M N](https://github.com/Shashank07-debug)
 -[Mohd Aatif] (https://github.com/atifShaiKh0)
 -[Shubh Jain](https://github.com/shubhj8989)
+scandi
 -[Israel Chavez](https://github.com/SoyIsrael)
 -[Yash Lund](https://github.com/yashlund05)
 -[Kaush Mendonca](https://github.com/slowanimals)
