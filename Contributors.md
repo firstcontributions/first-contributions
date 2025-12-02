@@ -1092,6 +1092,7 @@ sujoy
 - [Esteban Cortés Mora](https://github.com/eacortesm)
 - [Harsh Singh](https://github.com/singhharsh29)
 - [Aryan Sahu](https://github.com/aryaniscoding)
+- [Anoop George](https://github.com/Anoop-2024si96509)
 - [HighPoly](https://github.com/HighPolygon)
 - [VishnuPriyaSingamReddy](https://github.com/VishnuPriyaSingamReddy)
 - [Ritu Raj](https://github.com/Ritu14012004)
