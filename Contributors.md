@@ -159,6 +159,7 @@ scandi
 - [Hui](https://github.com/0x722)🐾
 - [Nimish Agrawal](https://github.com/nimishagrawal1405)❤️❤️❤️
 - [Gaurav S](https://github.com/garry00107)
+- [Himanshu Singhal](https://github.com/hsinghal11)
 - [Mrityunjay Kumar](https://github.com/mjpalash)
 - [moonBeam](https://github.com/jessicaparadise)
 - [Shiv Raj Singh](https://github.com/imuniqueshiv)
@@ -1664,6 +1665,7 @@ Maqsood Ansari
 - Elena Lopez
 - ARuizTorres
 - [Uday Bam] (https://github.com/bamuday)
+- Enzosakollari(https://github.com/Enzosakollari)
 - PepsiBro
 - [shion](https://github.com/shion555)
 - [DONGMIN](https://github.com/fftl)
@@ -1733,7 +1735,7 @@ Maqsood Ansari
 - [Aditya](https://github.com/Lumowhisp)
 - [Melisa Adıyaman]
 - [Suraj Nair] (https://github.com/Surajnairx)
--[TAMUKEDDE JACOB](https://github.com/Tamujacob)
+- [TAMUKEDDE JACOB](https://github.com/Tamujacob)
 - [Prince Singh] (https://github.com/Prince-Singh-Dev)
 - [PhishDestroy] (https://github.com/phishdestroy) 
 - [Cendemie Behagan](https://github.com/demiebehagan)
@@ -1743,3 +1745,4 @@ Maqsood Ansari
 - [Shabaz shaikh]
 - [Enrio Hernanda](https://github.com/enriohernanda)
 - [Sahar Mahmoudi](https://github.com/saharmahmoudi)
+- [sasha4ka](https://github.com/sasha4ka)
