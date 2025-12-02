@@ -1057,6 +1057,7 @@ sujoy
 - [Devi Patil](https://github.com/Devipatil)
 - [Ankitha Malle](https://github.com/Ankitha-M06).
 - [Devin Rand](https://github.com/devinrand)
+- [Bradley Leventhal](https://github.com/btleventhal)
 - [Anand](https://github.com/anand-0711)
 - [Devna jiya R](https://github.com/jiya22r)
 - [Dhairya Dev](https://github.com/hamzak51)
