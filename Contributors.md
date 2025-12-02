@@ -241,6 +241,7 @@ scandi
 - [Jesús Martín](https://github.com/jesmarver)
 - [Gourav soni](https://github.com/mrgaurav81)
 - [charitha-369](https://github.com/charitha-369)
+- [Git-Ivy](https://github.com/git-ivy)
 - [Aldani P](https://github.com/AldaniP)
 - [Michael Wright](https://github.com/
 - [Samuel Wright](samw46)
