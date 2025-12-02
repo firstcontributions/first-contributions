@@ -2,6 +2,7 @@
 -[Shubh Jain](https://github.com/shubhj8989)
 -[Israel Chavez](https://github.com/SoyIsrael)
 -[Yash Lund](https://github.com/yashlund05)
+-[Kaush Mendonca](https://github.com/slowanimals)
 -[Vukkem Bhuvaneshwar](https://github.com/bhuvanvjak)
 -[Jenil Macwan](https://github.com/JenilMacwan)
 -[Lovish Manchanda](https://github.com/lovishmanchanda)
