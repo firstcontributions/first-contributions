@@ -395,6 +395,7 @@ sujoy
 - [Ndeye Sermy Mergane](https://github.com/Ndeye1000)
 - [Emmanuel Zelaya-Armenta](https://github.com/Emmanuel-ZA)
 - [Likhith S Gowda](https://github.com/Likhi2005)
+- Watiri Mungai
 - [Vaishnavi Parodkar](https://github.com/vaishnavi-parodkar)
 - [Joshua Norris](https://github.com/Noshie23)
 - [santhosh teja santhosh teja](https://github.com/Yashs02-code)
