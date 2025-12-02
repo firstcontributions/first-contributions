@@ -1101,6 +1101,7 @@ sujoy
 - [Luis Benitez](https://github.com/luisbenitez96)
 - [Kai Feng](https://github.com/kaifeng-cmd)
 - [Kavya Vadla](https://github.com/kvadla06)
+- [Felipe](https://github.com/felipemv13)
 - [Kyusan Kim](https://github.com/5tarlight)
 - [Rooted Code](https://github.com/rootedcode)
 - [Leola](https://github.com/leolalopeslobo)
