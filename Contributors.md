@@ -5,6 +5,7 @@
 scandi
 -[Israel Chavez](https://github.com/SoyIsrael)
 -[Yash Lund](https://github.com/yashlund05)
+-[Chaitanya Medidar](https://github.com/chaitanyamedidar)
 -[Kaush Mendonca](https://github.com/slowanimals)
 -[Vukkem Bhuvaneshwar](https://github.com/bhuvanvjak)
 -[Jenil Macwan](https://github.com/JenilMacwan)
