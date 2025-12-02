@@ -1180,6 +1180,7 @@ sujoy
 - [İsaməddin Qurbanov](https://github.com/isameddin35)
 - [Tyler Daw](https://github.com/TylerD1105)
 - [Umair Amir](https://github.com/UmairAmir)
+- [Styven Manaja] (https://github.com/StyvenManaja/)
 - [Umesh Raju](https://github.com/UmeshRaju)
 - [Vagish Gupta](https://github.com/VagishG)
 - [Varsha Gitty](https://github.com/vgg1459)
