@@ -2,8 +2,10 @@
 -[Shashank M N](https://github.com/Shashank07-debug)
 -[Mohd Aatif] (https://github.com/atifShaiKh0)
 -[Shubh Jain](https://github.com/shubhj8989)
+scandi
 -[Israel Chavez](https://github.com/SoyIsrael)
 -[Yash Lund](https://github.com/yashlund05)
+-[Chaitanya Medidar](https://github.com/chaitanyamedidar)
 -[Kaush Mendonca](https://github.com/slowanimals)
 -[Vukkem Bhuvaneshwar](https://github.com/bhuvanvjak)
 -[Jenil Macwan](https://github.com/JenilMacwan)
@@ -1660,6 +1662,7 @@ Maqsood Ansari
 - chiraj gupta
 - Elena Lopez
 - ARuizTorres
+- [Uday Bam] (https://github.com/bamuday)
 - PepsiBro
 - [shion](https://github.com/shion555)
 - [DONGMIN](https://github.com/fftl)
@@ -1721,6 +1724,7 @@ Maqsood Ansari
 - [Tahura] (https://github.com/Rahmantahura)
 - [Aditya Tejus](https://github.com/aditya22314)
 - [Avani Jaiswal]
+- [Harsh tripathi] (github.com/harshfi)
 - [Mohammad Ali](https://github.com/md-ali-0)
 - [Ayincoder](https://github.com/Ayincoder)
 - [Mesh Bright](https://github.com/MeshBright)
@@ -1733,3 +1737,4 @@ Maqsood Ansari
 - [PhishDestroy] (https://github.com/phishdestroy) 
 - [Cendemie Behagan](https://github.com/demiebehagan)
 - [XLASh] (https://github.com/XlaSh9914)
+- [Prem Jay](https://github.com/BruteForceRonin)
