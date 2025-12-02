@@ -1757,3 +1757,4 @@ Maqsood Ansari
 - [abhishek](my first contribution)
 - [ajithrao](my first contribution)
 - [higsokur](https://github.com/higsokur)
+- [rijad](https://github.com/rijadshtitaricaa)
