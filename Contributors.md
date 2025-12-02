@@ -1,10 +1,10 @@
 # Contributors
 
 -[Shashank M N](https://github.com/Shashank07-debug) -[Mohd Aatif] (https://github.com/atifShaiKh0) -[Shubh Jain](https://github.com/shubhj8989)
-scandi -[Israel Chavez](https://github.com/SoyIsrael) -[Jayraje Shinde](https://github.com/Jayraje-Shinde) -[Yash Lund](https://github.com/yashlund05) -[Chaitanya Medidar](https://github.com/chaitanyamedidar) -[Kaush Mendonca](https://github.com/slowanimals) -[Vukkem Bhuvaneshwar](https://github.com/bhuvanvjak) -[Jenil Macwan](https://github.com/JenilMacwan) -[Lovish Manchanda](https://github.com/lovishmanchanda)
+scandi -[Israel Chavez](https://github.com/SoyIsrael) -[Yash Lund](https://github.com/yashlund05) -[Chaitanya Medidar](https://github.com/chaitanyamedidar) -[Kaush Mendonca](https://github.com/slowanimals) -[Vukkem Bhuvaneshwar](https://github.com/bhuvanvjak) -[Jenil Macwan](https://github.com/JenilMacwan) -[Lovish Manchanda](https://github.com/lovishmanchanda)
 [anwarhaq07](https://github.com/anwarhaq07) -[Sriram](https://github.com/ram17602) -[Shubham Raiyani](https://github.com/shubhamraiyani)
 
-- [Rishit Khandelwal](https://github.com/Rishit-Khandelwal)
+- [Rishit Khandelwal](https://github.com/Rishit-Khandelwal) -[Jayraje Shinde](https://github.com/Jayraje-Shinde)
 - [WebDevPraveen] (https://github.com/webdevpraveen)
 - [Sanjib77] (https://github.com/sanjib77)
 - [Omkar] (https://github.com/omk18p)
