@@ -40,6 +40,7 @@
 - [Satya-0611](https://github.com/Satya-0611)
   [Uttara Shah](https://guthub.com/UTTARASH)
   [RITVIK AND TRISHA](https://github.com/CITIZEN-OF-INDIA)
+  [Vyas Sidhi](https://github.com/Sidhi-03)
 - [Ravi Raj Choudhary](https://github.com/ravirajchoudhary03)
 - [al-ocin]
 - [Koji Kawamura](https://github.com/kouji0705)
