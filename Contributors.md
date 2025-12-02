@@ -1,9 +1,12 @@
 # Contributors
+-[Mohd Aatif] (https://github.com/atifShaiKh0)
 -[Shubh Jain](https://github.com/shubhj8989)
 -[Israel Chavez](https://github.com/SoyIsrael)
 -[Yash Lund](https://github.com/yashlund05)
+-[Kaush Mendonca](https://github.com/slowanimals)
 -[Vukkem Bhuvaneshwar](https://github.com/bhuvanvjak)
 -[Jenil Macwan](https://github.com/JenilMacwan)
+-[Lovish Manchanda](https://github.com/lovishmanchanda)
 -[Sriram](https://github.com/ram17602)
 -[Shubham Raiyani](https://github.com/shubhamraiyani)
 - [Rishit Khandelwal](https://github.com/Rishit-Khandelwal)
@@ -20,6 +23,7 @@
 - [keynes steve AKPODE](https://github.com/keynessteve-cyber)
 - [Tinlia](https://github.com/Tinlia)
   [CecilioRatsimilo]
+- [FelipeC074](https://github.com/FelipeC074)
 - [Christopher Michelli] (https://github.com/christophermichelli)
 - [Brotcorne Florian](https://github.com/FlorianBrot)
  -[Resmi](https://github.com/CodeNLife)
@@ -36,6 +40,7 @@
 - [Satya-0611](https://github.com/Satya-0611)
   [Uttara Shah](https://guthub.com/UTTARASH)
   [RITVIK AND TRISHA](https://github.com/CITIZEN-OF-INDIA)
+  [Vyas Sidhi](https://github.com/Sidhi-03)
 - [Ravi Raj Choudhary](https://github.com/ravirajchoudhary03)
 - [al-ocin]
 - [Koji Kawamura](https://github.com/kouji0705)
@@ -147,6 +152,7 @@
 - [Divyom Srivastava](https://github.com/DivyomSrivastava)
   [Taposh Kumer Ghosh](https://github.com/taposhkumer)
 - geogjegjegoiejgeroigjergjeoi
+- [Hui](https://github.com/0x722)🐾
 - [Nimish Agrawal](https://github.com/nimishagrawal1405)❤️❤️❤️
 - [Gaurav S](https://github.com/garry00107)
 - [Mrityunjay Kumar](https://github.com/mjpalash)
@@ -649,6 +655,7 @@ sujoy
 - [Arnav](https://github.com/arnav-mi)
 - [Ishita](https://github.com/elekish)
 - [sony](https://github.com/sony77697)
+- [Julian](https://github.com/JRigh)
 - [Juho Lee](https://github.com/jxuho)
 - [Helen C](https://github.com/hmczap)
 - [Katsu](https://github.com/kakko341)
@@ -703,6 +710,7 @@ sujoy
 - [eulerBM](https://github.com/eulerBM)
 - [Jordy19](https://github.com/Jordy19)
 - [Robiya](https://github.com/rhakim24)
+- [outsutski](https://github.com/outsutski)
 - [jhc4318](https://github.com/jhc4318)
 - [Soulwill](https://github.com/soulwill1)
 - [LunkadV](https://github.com/LunkadV)
@@ -783,6 +791,7 @@ sujoy
 - [uzuraDev](https://github.com/uzuraDev)
 - [Yirokun](https://github.com/Yirokun) #-----------------------------------------------------------------------------------------------#
 - [lepickel](https://github.com/lepickel)
+- [nathan_l8](https://github.com/brontoraptor)
 - [Eric Ijeoma](https://github.com/ericijeoma)
 - [Kent0011](https://github.com/Kent0011)
 - [brainkoko](https://github.com/thanatoast03)
@@ -990,6 +999,7 @@ sujoy
 - [jsutCodes](https://github.com/jsutCodes)
 - [karan](https://github.com/karanhb-pixel)
 - [kevinmj12](https://github.com/kevinmj12)
+- [WeatherboySuper](https://github.com/wxboysuper)
 - [Niraj](https://github.com/Niraj-Ramnani)
 - [killjoybr](https://github.com/killjoybr)
 - [magikcarp](https://github.com/magikcarp)
@@ -1048,6 +1058,7 @@ sujoy
 - [Devi Patil](https://github.com/Devipatil)
 - [Ankitha Malle](https://github.com/Ankitha-M06).
 - [Devin Rand](https://github.com/devinrand)
+- [Bradley Leventhal](https://github.com/btleventhal)
 - [Anand](https://github.com/anand-0711)
 - [Devna jiya R](https://github.com/jiya22r)
 - [Dhairya Dev](https://github.com/hamzak51)
@@ -1093,6 +1104,7 @@ sujoy
 - [Luis Benitez](https://github.com/luisbenitez96)
 - [Kai Feng](https://github.com/kaifeng-cmd)
 - [Kavya Vadla](https://github.com/kvadla06)
+- [Felipe](https://github.com/felipemv13)
 - [Kyusan Kim](https://github.com/5tarlight)
 - [Rooted Code](https://github.com/rootedcode)
 - [Leola](https://github.com/leolalopeslobo)
@@ -1168,6 +1180,7 @@ sujoy
 - [İsaməddin Qurbanov](https://github.com/isameddin35)
 - [Tyler Daw](https://github.com/TylerD1105)
 - [Umair Amir](https://github.com/UmairAmir)
+- [Styven Manaja] (https://github.com/StyvenManaja/)
 - [Umesh Raju](https://github.com/UmeshRaju)
 - [Vagish Gupta](https://github.com/VagishG)
 - [Varsha Gitty](https://github.com/vgg1459)
@@ -1713,3 +1726,6 @@ Maqsood Ansari
 - [Melisa Adıyaman]
 - [Suraj Nair] (https://github.com/Surajnairx)
 -[TAMUKEDDE JACOB](https://github.com/Tamujacob)
+- [Prince Singh] (https://github.com/Prince-Singh-Dev)
+- [PhishDestroy] (https://github.com/phishdestroy) 
+- [Cendemie Behagan](https://github.com/demiebehagan)
