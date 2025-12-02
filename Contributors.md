@@ -1660,6 +1660,7 @@ Maqsood Ansari
 - chiraj gupta
 - Elena Lopez
 - ARuizTorres
+- [Uday Bam] (https://github.com/bamuday)
 - PepsiBro
 - [shion](https://github.com/shion555)
 - [DONGMIN](https://github.com/fftl)
