@@ -1154,6 +1154,7 @@ sujoy
 - [Nenad](https://github.com/maglvoskiNenad)
 - [Nimisha](https://github.com/codehusler14)
 - [Nirupam Paul](https://github.com/101paul)
+- [Abdul Hadi](https://github.com/Beyyai)
 - [Noor Abid](https://github.com/NoorAbid95)
 - [Olapu Ajay](https://github.com/olapuajay)
 - [Omar Emara](https://github.com/omarf2000)
