@@ -6,6 +6,7 @@ yash goat
 -[Nerd-SWAYAM] (https://github.com/LightYagami625)
 -[Shubh Jain](https://github.com/shubhj8989)
 scandi
+-[JellyFish] (Free plaestine)
 -[Israel Chavez](https://github.com/SoyIsrael)
 -[Suraj Kushwaha](https//github.com/suraj371k)
 -[Yash Lund](https://github.com/yashlund05)
