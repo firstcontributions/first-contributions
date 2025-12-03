@@ -16,7 +16,6 @@ scandi
 -[Sriram](https://github.com/ram17602)
 -[Shubham Raiyani](https://github.com/shubhamraiyani)
 - [Rishit Khandelwal](https://github.com/Rishit-Khandelwal)
-- [Jayraje Shinde](https://github.com/Jayraje-Shinde)
  - [WebDevPraveen] (https://github.com/webdevpraveen)
  - [mukeshdidel] (https://github.com/mukeshdidel)
  - [Sanjib77] (https://github.com/sanjib77)
@@ -28,6 +27,7 @@ scandi
 - [Robert Davis](https://github.com/robertdavis)
 - [Imthiaz Muhassin/Imthiaz123] (https://github.com/Imthiaz123)
 - [Iam Pranav Yadav](https://github.com/pranav50227)
+- [Jayraje Shinde](https://github.com/Jayraje-Shinde)
 - [keynes steve AKPODE](https://github.com/keynessteve-cyber)
 - [Tinlia](https://github.com/Tinlia)
   [CecilioRatsimilo]
