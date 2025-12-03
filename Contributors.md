@@ -393,6 +393,7 @@ sujoy
 - [Yas](https://github.com/ykip10)
 - {Karshik Madavi}:{https://github.com/c0-d-3c}
 - [Juliana Prado](https://github.com/julevi)
+- [Kris Bali](https://github.com/Oxerlax)
 - [Crisandresro012](https://github.com/Cristhian012)
 - [Rudra Pratap Singh Jadon](https://github.com/rudrajadon)
 - [Ronaldo P](https://github.com/Ronaldo-001)
