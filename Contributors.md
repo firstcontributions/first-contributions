@@ -1,11 +1,16 @@
 # Contributors
+-[Lorenzo Reitani](https://github.com/LorenzoReitani)
+- [Ayoub Aguezar ](https://github.com/Ayoub-glitsh)
+-[Maliha Fatima](https://github.com/Malihafatima1)
 -[Shashank M N](https://github.com/Shashank07-debug)
 yash goat
 -[Mohd Aatif](https://github.com/atifShaiKh0)
 -[Nerd-SWAYAM](https://github.com/LightYagami625)
 -[Shubh Jain](https://github.com/shubhj8989)
 scandi
+-[JellyFish] (Free plaestine)
 -[Israel Chavez](https://github.com/SoyIsrael)
+-[Suraj Kushwaha](https//github.com/suraj371k)
 -[Yash Lund](https://github.com/yashlund05)
 -[Chaitanya Medidar](https://github.com/chaitanyamedidar)
 -[Kaush Mendonca](https://github.com/slowanimals)
@@ -37,6 +42,7 @@ scandi
 - [CecilioRatsimilo]
 - [FelipeC074](https://github.com/FelipeC074)
 - [Christopher Michelli](https://github.com/christophermichelli)
+- [Jeremy Matina](https://github.com/JeremyM07)
 - [Brotcorne Florian](https://github.com/FlorianBrot)
 - [Resmi](https://github.com/CodeNLife)
 - [Anirban Sarkar](https://github.com/anantacoder)
@@ -189,6 +195,7 @@ scandi
 - [Dheeraj Kumar](https://github.com/Dheeraj-Kumar-8)
 - [Srihari Vernekar]
 - [Baris Yildizel]
+- Krishnendra Kumar Prayagraj
 - [Daniel Caspit](https://github.com/dcaspit)
 - [Vanshika jain](https://github.com/vanshika-jain3107)
 - [Dennis Muchai](https://github.com/dmuchai)
@@ -509,6 +516,7 @@ scandi
 - [yuki](https://github.com/yukixxxx11)
 - [Jerry](https://github.com/SniperRaccoon)
 - [Lester Liang](https://github.com/userMaoGuaXi)
+- [yunjh](https://github.com/g-yunjh)
 - [Jesse Prevete](https://github.com/jjpdotexe)
 - [Rohit Madhu Ghadge](https://github.com/Rod7678)
 - [Jeyanth-S](https://github.com/Jeyanth-S)
@@ -1155,6 +1163,7 @@ scandi
 - [Nenad](https://github.com/maglvoskiNenad)
 - [Nimisha](https://github.com/codehusler14)
 - [Nirupam Paul](https://github.com/101paul)
+- [Abdul Hadi](https://github.com/Beyyai)
 - [Noor Abid](https://github.com/NoorAbid95)
 - [Olapu Ajay](https://github.com/olapuajay)
 - [Omar Emara](https://github.com/omarf2000)
@@ -1681,8 +1690,9 @@ scandi
 - Karl Fofie
 - [VikramMahajan](https://github.com/vikramm0907)
 - [Suhas](https://github.com/suhas181)
-- [Garrett Turner](https://github.com/gturner9371213)
-- [Dipesh](https://github.com/Ineide76)
+-[Garrett Turner](https://github.com/gturner9371213)
+-[Dipesh](https://github.com/Ineide76)
+- Lcxn Kae
 - [Hiraad babakhani](https://github.com/Kagnite)
 - [Adigopulajalaseshukumar](https://github.com/Seshuadigopula)
 - [likith kumar dr ](https://github.com/htmluser18)
@@ -1775,3 +1785,8 @@ scandi
 - [ajithrao](my first contribution)
 - [higsokur](https://github.com/higsokur)
 - [rijad](https://github.com/rijadshtitaricaa)
+- [Mayank Singh](https://github.com/mayank21singh)
+- [Wa](https://github.com/Shalomguan)
+- [Ali Farooqi](https://github.com/alifarooqi)
+- [Aaryan](https://github.com/pixler-coder)
+- [A Szpatowski](https://github.com/aszpatowski)
