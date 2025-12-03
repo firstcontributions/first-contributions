@@ -4,6 +4,7 @@
 -[Shashank M N](https://github.com/Shashank07-debug)
 yash goat
 -[Mohd Aatif] (https://github.com/atifShaiKh0)
+-[Faslu Rahman] (https://github.com/faslur18)
 -[Nerd-SWAYAM] (https://github.com/LightYagami625)
 -[Shubh Jain](https://github.com/shubhj8989)
 scandi
