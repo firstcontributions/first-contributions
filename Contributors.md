@@ -11,6 +11,7 @@ scandi
 -[JellyFish] (Free plaestine)
 -[Jatin Jangid](https://github.com/jatinjangid369)
 -[Israel Chavez](https://github.com/SoyIsrael)
+-[Fahad Ali](https://github.com/eko-071)
 -[Suraj Kushwaha](https//github.com/suraj371k)
 -[Yash Lund](https://github.com/yashlund05)
 -[Chaitanya Medidar](https://github.com/chaitanyamedidar)
