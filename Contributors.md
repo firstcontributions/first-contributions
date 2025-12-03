@@ -887,6 +887,7 @@ sujoy
 - [Zoe Cai](https://github.com/Parabolaa)
 - [Nahom](https://github.com/NahomWondimu)
 - [Venkata Ajay Puripanda](https://github.com/ajayvnkt)
+- [Noah McCracken](https://github.com/BrickBldr101)
 - [Aadi Jain](https://github.com/Aadi1903)
 - [Jason](https://github.com/JayKayDevOps)
 - [jvleesenb](https://github.com/meatlake)
