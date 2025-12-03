@@ -16,6 +16,7 @@ scandi
 -[Sriram](https://github.com/ram17602)
 -[Shubham Raiyani](https://github.com/shubhamraiyani)
 - [Rishit Khandelwal](https://github.com/Rishit-Khandelwal)
+- [Rishit Khandelwal](https://github.com/Rishit-Khandelwal)
  - [WebDevPraveen] (https://github.com/webdevpraveen)
  - [mukeshdidel] (https://github.com/mukeshdidel)
  - [Sanjib77] (https://github.com/sanjib77)
