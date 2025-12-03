@@ -1773,3 +1773,4 @@ Maqsood Ansari
 - [rijad](https://github.com/rijadshtitaricaa)
 - [Mayank Singh](https://github.com/mayank21singh)
 - [Wa](https://github.com/Shalomguan)
+- [Ali Farooqi](https://github.com/alifarooqi)
