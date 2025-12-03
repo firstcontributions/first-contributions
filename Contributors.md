@@ -1783,4 +1783,6 @@ Maqsood Ansari
 - [Wa](https://github.com/Shalomguan)
 - [Ali Farooqi](https://github.com/alifarooqi)
 - [Aaryan](https://github.com/pixler-coder)
+-QWERTY
+
 - [A Szpatowski](https://github.com/aszpatowski)
