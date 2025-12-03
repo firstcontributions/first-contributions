@@ -402,6 +402,7 @@ sujoy
 - [Hrishikesh Rondla](https://github.com/Hrishikesh-Rondla)
 - [Amit Kumar](https://github.com/amitak985059)
 - [Yas](https://github.com/ykip10)
+- [Chaitanya Patil](https://github.com/Chaitanyahoon)
 - {Karshik Madavi}:{https://github.com/c0-d-3c}
 - [Juliana Prado](https://github.com/julevi)
 - [Kris Bali](https://github.com/Oxerlax)
