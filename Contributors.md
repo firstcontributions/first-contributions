@@ -41,6 +41,7 @@ scandi
   [CecilioRatsimilo]
 - [FelipeC074](https://github.com/FelipeC074)
 - [Christopher Michelli] (https://github.com/christophermichelli)
+- [Jeremy Matina](https://github.com/JeremyM07)
 - [Brotcorne Florian](https://github.com/FlorianBrot)
  -[Resmi](https://github.com/CodeNLife)
  -[Anirban Sarkar](https://github.com/anantacoder)
