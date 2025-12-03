@@ -1789,3 +1789,5 @@ Maqsood Ansari
 - [A Szpatowski](https://github.com/aszpatowski)
 - [Sid](https://github.com/starboylive)
 - [Dravid P A](https://github.com/dravidpa7)
+- [Manali](https://github.com/ManaliMisra)
+
