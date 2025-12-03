@@ -83,6 +83,7 @@ scandi
 - [Bhavesh Desale](https://github.com/bhaveshdesale)
 - [BALAJI](https://github.com/balaji-bheesetti)
 - [alvarosola1](https://github.com/alvarosola1)
+- [sprihapokharel](https://github.com/sprihapokharel)
 - [Ivanich0](https://github.com/Ivanich0)
 - [Bishal Paul](https://github.com/Bishal13102003)
 - [Rémy Goennt](https://github.com/RemyGonnet)
