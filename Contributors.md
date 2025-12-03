@@ -1,4 +1,5 @@
 # Contributors
+-[Lorenzo Reitani](https://github.com/LorenzoReitani)
 - [Ayoub Aguezar ](https://github.com/Ayoub-glitsh)
 -[Maliha Fatima](https://github.com/Malihafatima1)
 -[Shashank M N](https://github.com/Shashank07-debug)
@@ -1779,3 +1780,4 @@ Maqsood Ansari
 - [Aaryan](https://github.com/pixler-coder)
 -QWERTY
 
+- [A Szpatowski](https://github.com/aszpatowski)
