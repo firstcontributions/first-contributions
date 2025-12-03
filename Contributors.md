@@ -1765,3 +1765,4 @@ Maqsood Ansari
 - [ajithrao](my first contribution)
 - [higsokur](https://github.com/higsokur)
 - [rijad](https://github.com/rijadshtitaricaa)
+- [Mayank Singh](https://github.com/mayank21singh)
