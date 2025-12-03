@@ -20,6 +20,7 @@ scandi
 -[Yash Lund](https://github.com/yashlund05)
 [anwarhaq07](https://github.com/anwarhaq07)
 -[Sriram](https://github.com/ram17602)
+- [Shiyamalan](https://github.com/ShiyamalanK)
 -[Shubham Raiyani](https://github.com/shubhamraiyani)
 - [Rishit Khandelwal](https://github.com/Rishit-Khandelwal)
 - [Rishit Khandelwal](https://github.com/Rishit-Khandelwal)
