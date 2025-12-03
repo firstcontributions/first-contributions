@@ -67,6 +67,7 @@ scandi
 - [Sumit Jha] (https://github.com/devlopersumit)
 - [Wissam]
 - [Samimi Aleandre] (https://github.com/Sidratu)
+- [PRN-6] (https://github.com/PRN-6)
 - Starstruck
 - [Rishi] (Rishi2600)
 - [Liger_18.](https://github.com/mayurdongare269)
