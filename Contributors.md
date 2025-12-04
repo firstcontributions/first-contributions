@@ -607,6 +607,7 @@ sujoy
 - [.kim](https//github.com/kim8584)
 - [Aiman](https://github.com/PX201)
 - [I-Bex](https://github.com/i-Bex)
+- [stepi996](https://github.com/stepi996)
 - [Dylan Wadsworth](https://github.com/DiskoTecha)
 - [Gabriel Augusto](https://github.com/gabrielaugusto23)
 - [levo](https://github.com/LeVo011)
