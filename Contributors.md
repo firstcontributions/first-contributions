@@ -1809,3 +1809,4 @@ Maqsood Ansari
 - [C. Yin](https://github.com/cy-Yin)
 - [Lavanya A U](my first contribution)
 - [Sajjan Samanvitha](https://github.com/svsajjan)
+- [Sonal Sonawane](https://github.com/thesonal/first-contributions)
