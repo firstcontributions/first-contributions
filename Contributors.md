@@ -1817,4 +1817,5 @@ Maqsood Ansari
 - [Lavanya A U](my first contribution)
 - [Sajjan Samanvitha](https://github.com/svsajjan)
 - [Sonal Sonawane](https://github.com/thesonal/first-contributions)
+- [Naman Jain](https://github.com/iamNaman-official)
 - Vanessa Roque
