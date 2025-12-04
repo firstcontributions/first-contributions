@@ -1768,6 +1768,7 @@ Maqsood Ansari
 - [Avani Jaiswal]
 - [Harsh tripathi] (github.com/harshfi)
 - [Mohammad Ali](https://github.com/md-ali-0)
+- [Rohan R] (https://github.com/RohanRaviKumar)
 - [Ayincoder](https://github.com/Ayincoder)
 - [Mesh Bright](https://github.com/MeshBright)
 - [Mohammad Suhail Ahamed](https://github.com/Md-suhail07-code)
