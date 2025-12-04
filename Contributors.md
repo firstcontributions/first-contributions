@@ -1819,3 +1819,5 @@ Maqsood Ansari
 - [Sonal Sonawane](https://github.com/thesonal/first-contributions)
 - [Naman Jain](https://github.com/iamNaman-official)
 - Vanessa Roque
+- [Shubham Jha](https://github.com/reachoutshubham)
+
