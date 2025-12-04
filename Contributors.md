@@ -361,6 +361,7 @@ scandi
 - [sachinandan yadav](https://github.com/sachinandan-05)
 - [Shahid Afrid](https://github.com/shahid-afrid)
 - [Kanishka Vats](https://github.com/KanishkaV25)
+- [Felipe G Diogo](https://github.com/0xFelipeGD)
 - [Shanmukh sai karnam](https://github.com/karnam16)
 - [Aditya Karan](https://github.com/Karan2805-glitch)
 - [sanjana kamat](https://github.com/SA123nJaNa1234)
