@@ -1794,6 +1794,7 @@ Maqsood Ansari
 - [rijad](https://github.com/rijadshtitaricaa)
 - [Mayank Singh](https://github.com/mayank21singh)
 - [Wa](https://github.com/Shalomguan)
+- [Baraa El Hajj](https://github.com/baraa-elhajj)
 - [Ali Farooqi](https://github.com/alifarooqi)
 - [Aaryan](https://github.com/pixler-coder)
 - [A Szpatowski](https://github.com/aszpatowski)
