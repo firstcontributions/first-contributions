@@ -46,6 +46,7 @@ scandi
 - [Tinlia](https://github.com/Tinlia)
   [CecilioRatsimilo]
 - [FelipeC074](https://github.com/FelipeC074)
+- [Mohamed Nafaa](https://github.com/mohamednafaa)
 - [Christopher Michelli] (https://github.com/christophermichelli)
 - [Jeremy Matina](https://github.com/JeremyM07)
 - [Brotcorne Florian](https://github.com/FlorianBrot)
