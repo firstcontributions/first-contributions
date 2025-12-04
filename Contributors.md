@@ -1821,3 +1821,4 @@ Maqsood Ansari
 - [Naman Jain](https://github.com/iamNaman-official)
 - Vanessa Roque
 - Brandon Hurst
+- Jack Lab
