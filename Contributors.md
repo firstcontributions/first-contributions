@@ -296,6 +296,7 @@ scandi
 - [Srajan Gupta](https://github.com/srajang1805)
 - [Niraj] 
 - [Nirbhay Bawankule](https://github.com/NirbhayBawankule)
+- [Stelios Spanos](https://github.com/SteliosSpanos)
 - [Yash Warhade](https://github.com/Yashwarhade8010)
 - [Praise Oke](https://github.com/1joat)
 - [Ronik Kumbhar](https://github.com/ronik62)
