@@ -4,6 +4,7 @@
 -[Maliha Fatima](https://github.com/Malihafatima1)
 -[Shashank M N](https://github.com/Shashank07-debug)
 yash goat
+-[Lukas](https://github.com/tl-lt7)
 -[Mohd Aatif] (https://github.com/atifShaiKh0)
 -[Nerd-SWAYAM] (https://github.com/LightYagami625)
 -[Shubh Jain](https://github.com/shubhj8989)
