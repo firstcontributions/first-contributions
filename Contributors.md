@@ -1820,5 +1820,9 @@ Maqsood Ansari
 - [Sonal Sonawane](https://github.com/thesonal/first-contributions)
 - [Naman Jain](https://github.com/iamNaman-official)
 - Vanessa Roque
+HEAD
+- Jonathan Hess
+
 - Brandon Hurst
 - Jack Lab
+upstream/main
