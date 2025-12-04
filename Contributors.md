@@ -9,6 +9,7 @@ yash goat
 -[Nerd-SWAYAM] (https://github.com/LightYagami625)
 -[Shubh Jain](https://github.com/shubhj8989)
 scandi
+-[Kush Sengar](https://github.com/kushsengar)
 -[JellyFish] (Free plaestine)
 -[Jatin Jangid](https://github.com/jatinjangid369)
 -[Israel Chavez](https://github.com/SoyIsrael)
