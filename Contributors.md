@@ -70,6 +70,7 @@ scandi
 - [Changjip Moon](https://github.com/dwhouse)
 - [Sumit Jha] (https://github.com/devlopersumit)
 - [Wissam]
+- [Priyanshu Ranjan] (https://github.com/priyanshujaiz)
 - [Samimi Aleandre] (https://github.com/Sidratu)
 - [PRN-6] (https://github.com/PRN-6)
 - Starstruck
