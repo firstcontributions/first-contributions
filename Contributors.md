@@ -1823,5 +1823,4 @@ Maqsood Ansari
 - [Naman Jain](https://github.com/iamNaman-official)
 - [Magaiaia](https://github.com/iaiamaga/) 
 - Vanessa Roque
-- Brandon Hurst
-- Jack Lab
+- Alexander Goldstein
