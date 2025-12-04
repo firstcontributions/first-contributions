@@ -942,6 +942,7 @@ sujoy
 - [Smit Joshi](https://github.com/smit-1z)
 - [Ambar Singh](https://github.com/ambar-singh)
 - [Phillip](gttps://github.com/PhillipSom)
+- [JJFJ](https://github.com/PugKing22)
 - [Chirag Bimali](https://github.com/chirag-bimali)
 - [Vinay Joshi](https://github.com/Anigrl)
 - [Manjunatha H](https://github.com/Manjunatha-h)
