@@ -1793,6 +1793,7 @@ Maqsood Ansari
 - [pengWang002](https://github.com/pengwang002)
 - [Shabaz shaikh]
 - [Enrio Hernanda](https://github.com/enriohernanda)
+- [Gangireddy pavan](https://github.com/Gangireddypavan)
 - [Sahar Mahmoudi](https://github.com/saharmahmoudi)
 - [sasha4ka](https://github.com/sasha4ka)
 - [abhishek](my first contribution)
@@ -1819,4 +1820,9 @@ Maqsood Ansari
 - [Sonal Sonawane](https://github.com/thesonal/first-contributions)
 - [Naman Jain](https://github.com/iamNaman-official)
 - Vanessa Roque
+HEAD
 - Jonathan Hess
+
+- Brandon Hurst
+- Jack Lab
+upstream/main
