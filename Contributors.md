@@ -1819,6 +1819,7 @@ Maqsood Ansari
 - [Sajjan Samanvitha](https://github.com/svsajjan)
 - [Sonal Sonawane](https://github.com/thesonal/first-contributions)
 - [Naman Jain](https://github.com/iamNaman-official)
+- [Magaiaia](https://github.com/iaiamaga/) 
 - Vanessa Roque
 - Brandon Hurst
 - Jack Lab
