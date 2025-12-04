@@ -1769,6 +1769,7 @@ Maqsood Ansari
 - [Mesh Bright](https://github.com/MeshBright)
 - [Mohammad Suhail Ahamed](https://github.com/Md-suhail07-code)
 - [Aditya](https://github.com/Lumowhisp)
+- [Shruti Chandra] (https://github.com/techieshruti)
 - [Melisa Adıyaman]
 - [Kareem Scott](https://github.com/Bla-Bla-Blah)
 - [Suraj Nair] (https://github.com/Surajnairx)
