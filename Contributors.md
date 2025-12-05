@@ -13,6 +13,7 @@ Samarjit Singh Uppal(https://github.com/Samarjitdk)
 -[Nerd-SWAYAM] (https://github.com/LightYagami625)
 -[Shubh Jain](https://github.com/shubhj8989)
 scandi
+-[Akshat_Gupta](https://github.com/axhatggg)
 -[Lerisa Desai](https://github.com/lerisa1112)
 -[Kush Sengar](https://github.com/kushsengar)
 -[Mohit Gunani](https://github.com/mohit1221iitian)
