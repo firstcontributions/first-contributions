@@ -233,6 +233,59 @@ Congrats! You just completed the standard _fork -> clone -> edit -> pull request
 
 Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io/#social-share).
 
+## Troubleshooting
+
+Having trouble with your first contribution? Here are solutions to common issues that beginners face:
+
+### Git Configuration Problems
+
+If you're having issues with git configuration, ensure you've set up your user name and email:
+
+```bash
+git config --global user.name "Your Name"
+git config --global user.email "your-email@example.com"
+```
+
+### SSH Key Setup Issues
+
+If you encounter authentication errors when pushing or cloning, you may need to set up an SSH key:
+
+1. Generate a new SSH key:
+```bash
+ssh-keygen -t ed25519 -C "your-email@example.com"
+```
+
+2. Add the key to your SSH agent:
+```bash
+ssh-add ~/.ssh/id_ed25519
+```
+
+3. Add your SSH public key to your GitHub account in Settings > SSH and GPG keys.
+
+For more detailed instructions, see [GitHub's SSH key guide](https://docs.github.com/en/authentication/connecting-to-github-with-ssh).
+
+### Fork/Clone Errors
+
+If you have trouble forking or cloning the repository:
+
+- Make sure you're logged into GitHub
+- Check that you have sufficient permissions on the repository
+- Ensure you have enough disk space and internet connection
+- Try cloning with HTTPS if SSH isn't working:
+
+```bash
+git clone https://github.com/your-username/first-contributions.git
+```
+
+### Branch and Commit Issues
+
+If you're having trouble creating a branch or committing:
+
+- Ensure you're in the correct repository directory
+- Use `git status` to see the current state
+- Make sure you've staged your changes with `git add` before committing
+- Verify your branch name doesn't have spaces or special characters
+
 If you'd like more practice, checkout [code contributions](https://github.com/roshanjossey/code-contributions).
 
 Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
