@@ -1644,6 +1644,7 @@ Maqsood Ansari
 - [Nishant kumar](https://github.com/nishantraj06)
 - [Aditya] (https://github.com/adiiiiiii)
 - [skrmgrm] (https://github.com/skrmgrm)
+- [Synthesid] (https://github.com/Synthesid)
 - [Kevin Wang](https://github.com/KevinWangHP)
 - [Siyung Cho](https://github.com/SiyungCho)
 - [Valeria Giraldo](https://github.com/valeriagiraldoe021)
