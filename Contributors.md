@@ -1782,6 +1782,7 @@ Maqsood Ansari
 - [Tahura] (https://github.com/Rahmantahura)
 - [Aditya Tejus](https://github.com/aditya22314)
 - [Avani Jaiswal]
+- [Atharva Ajmera] (https://github.com/atharvaajmera)
 - [Harsh tripathi] (github.com/harshfi)
 - [Mohammad Ali](https://github.com/md-ali-0)
 - [Rohan R] (https://github.com/RohanRaviKumar)
