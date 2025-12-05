@@ -1782,6 +1782,7 @@ Maqsood Ansari
 - [Mohammad Ali](https://github.com/md-ali-0)
 - [Rohan R] (https://github.com/RohanRaviKumar)
 - [Ayincoder](https://github.com/Ayincoder)
+- [Binit](https://github.com/BinitAcharya7)
 - [Mesh Bright](https://github.com/MeshBright)
 - [Mohammad Suhail Ahamed](https://github.com/Md-suhail07-code)
 - [Aditya](https://github.com/Lumowhisp)
