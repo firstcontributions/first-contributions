@@ -1,6 +1,6 @@
 # Contributors
-- [Adarsh Kadam](https://github.com/adarsh47-bug)
--[Lorenzo Reitani](https://github.com/LorenzoReitani)
+- [⭐ Adarsh Kadam](https://github.com/adarsh47-bug)
+- [Lorenzo Reitani](https://github.com/LorenzoReitani)
 - [Ayoub Aguezar ](https://github.com/Ayoub-glitsh)
 -[Stefano Marra](https://github.com/fefo-phef)
 -[Maliha Fatima](https://github.com/Malihafatima1)
