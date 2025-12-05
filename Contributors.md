@@ -1,6 +1,7 @@
 # Contributors
 -[Lorenzo Reitani](https://github.com/LorenzoReitani)
 - [Ayoub Aguezar ](https://github.com/Ayoub-glitsh)
+-[Stefano Marra](https://github.com/fefo-phef)
 -[Maliha Fatima](https://github.com/Malihafatima1)
 -[Shashank M N](https://github.com/Shashank07-debug)
 yash goat
