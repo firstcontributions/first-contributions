@@ -58,6 +58,7 @@ scandi
  -[Anirban Sarkar](https://github.com/anantacoder)
  -[MEHTAB-XYZ](https://github.com/MEHTAB-XYZ)
  -[Dias Karshal](https://github.com/diaskarshal)
+ -[RedBagDude](https://github.com/RedBagDude)
  -[suyash](https://github.com/svyxsh)
 - [Divin Sota](https://github.com/divinsota/first-contributions)
 - [asgardik0](https://github.com/asgardik0)
