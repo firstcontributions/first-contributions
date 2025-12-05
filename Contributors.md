@@ -12,6 +12,7 @@ Samarjit Singh Uppal(https://github.com/Samarjitdk)
 scandi
 -[Lerisa Desai](https://github.com/lerisa1112)
 -[Kush Sengar](https://github.com/kushsengar)
+-[Mohit Gunani](https://github.com/mohit1221iitian)
 -[JellyFish] (Free plaestine)
 -[Jatin Jangid](https://github.com/jatinjangid369)
 -[Israel Chavez](https://github.com/SoyIsrael)
