@@ -1672,13 +1672,13 @@ Maqsood Ansari
 -[G Sampath Kummar] (https://github.com/Sampath7890)
 -[Hilarius Jeremy] (https://github.com/HilariusJeremy)
 - Praneeth Mukkala
--[Waniya Farooq] (https://github.com/WaniyaFarooq)
-- Praveen (https://github.com/apgodlike)
--Alok Singh (https://github.com/121aloksingh)
-- Kavishka Deshan(https://github.com/kavishkadeshan1)
+- [Waniya Farooq] (https://github.com/WaniyaFarooq)
+- [Praveen] (https://github.com/apgodlike)
+- [Alok Singh] (https://github.com/121aloksingh)
+- [Kavishka Deshan](https://github.com/kavishkadeshan1)
 - [Prorise-cool](https://github.com/Prorise-cool)
 - [Arsiya Tasleem](https://github.com/ArsiyaTasleem90250) - My first contribution!
-[Suman kumar](https://github.com/suman-kumar2004)
+- [Suman kumar](https://github.com/suman-kumar2004)
 - [karan gohel] (https://github.com/karangohel09)
 - Saksham Tomar
 - [Najmul Arifeen](https://github.com/najmularifeen786)
@@ -1701,17 +1701,17 @@ Maqsood Ansari
 - [Kanelle-C]
 - [Abel](https://github.com/AbelQ11)
 - [Abdessamad-Mechouahi](https://github.com/abdessamad-26)
-- fatimatou
+- [fatimatou]
 - [Canont] (https://github.com/tc240893)
 - [PK] (https://github.com/pavankalyantummala)
 - [one-piece] (https://github.com/sanketpatil425-cyber)
 - [Douae Bousnane](https://github.com/douaebousnane13-del)
 - [Mohd Ainul](https://github.com/MohdAinul)
-- Karl Fofie
+- [Karl Fofie]
 - [VikramMahajan](https://github.com/vikramm0907)
 - [Suhas](https://github.com/suhas181)
--[Garrett Turner](https://github.com/gturner9371213)
--[Dipesh](https://github.com/Ineide76)
+- [Garrett Turner](https://github.com/gturner9371213)
+- [Dipesh](https://github.com/Ineide76)
 - Lcxn Kae
 - [Hiraad babakhani](https://github.com/Kagnite)
 - [Adigopulajalaseshukumar] (https://github.com/Seshuadigopula)
@@ -1728,29 +1728,26 @@ Maqsood Ansari
 - kodurikeerthana
 - [Merlin Dust](https://github.com/DustMerlin)
 - [Fru](https://github.com/ladalar)
--[Ashiq](https://github.com/devopashiq)
+- [Ashiq](https://github.com/devopashiq)
 - [Olasunkanmi Emmanuel Jesuferanmi] (https://github.com/feranmiemmanuel)
 - [Seokhyeonh](https://github.com/Seokhyeonh)
 - [Jayanth](https://github.com/MUNJETIJAYANTHKRISHNA)
 - [Manjeet Singh](https://github.com/manjeetsingh78)
 - [pablo](https://github.com/timskola) 
 - [Nikhil Singhal](https://github.com/NikhilSinghal2004)
-- - [PraveenBoss45](https://github.com/PraveenBoss45)
+-  [PraveenBoss45](https://github.com/PraveenBoss45)
 - [Tankbread](https://github.com/Tobiassko)
 - [UJWAL](https://github.com/Ujwal200707)
 - [Pasjonat90D](https://github.com/Pasjonat90D)
 - [jayadev](https://github.com/jaydev-431)
--hi
 - [Sanskar Kadam](https://github.com/sanskarkadam)
 - [Riddhima Biswas](https://github.com/RiddhimaBiswas)
 - [ShaikAyesha17](https://github.com/ShaikAyesha17)
-- Sanika S P
 - [HammsN] (https://github.com/HammsN/)
 - [Vignesh A Kunder](https://github.com/VigneshAKunder)
 - [Valery Moskaunia](https://github.com/Moskaunia)
 - [Snehitha Kurapati](https://github.com/kl2400030727)
 - [SoFarSoGoodya](https://github.com/sofarsogoodya)
-- mkr
 - [Koushitha tadiboina](https://github.com/koushithatadiboina)
 - [Moksh D](https://github.com/danMoksh)
 - [Sumaiya Akter Runa](https://www.linkedin.com/in/sumaiya-akter-runa-69b8b624a/)
@@ -1759,7 +1756,7 @@ Maqsood Ansari
 - [huangyikun11](https://github.com/huangyikun11)
 - [Sanjiti Gill](https://github.com/sanjiti-gill)
 - [Leo Lan](https://github.com/oar06g)
-- [Lin Yuwei] (https://github.com/LYW199911/)
+- [Lin Yuwei](https://github.com/LYW199911/)
 - [Chenghou Si](https://github.com/ChenghouSi)
 - [Venuru Kodagoda](https://github.com/Venuru)
 - [Biswajit Shaw](https://github.com/thegoddo)
@@ -1835,6 +1832,7 @@ Maqsood Ansari
 - Vanessa Roque
 - Brandon Hurst
 - Jack Lab
-= [Shehran Nifazdeen](https://github.com/Shehran06)
+- [Shehran Nifazdeen](https://github.com/Shehran06)
 - [张喜昌](https://github.com/ZhangXiChang)
 - [Yogirajsinh Jadeja](https://github.com/yogirajsinh96)
+- [Sajid Ikbal](https://github.com/Sajid-675)
