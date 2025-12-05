@@ -59,6 +59,7 @@ scandi
 - [Isha Bhole](https://github.com/IshaBhole)
   [CecilioRatsimilo]
 - [FelipeC074](https://github.com/FelipeC074)
+-[huajiao](https://github.com/0000-huajiao)
 - [Mohamed Nafaa](https://github.com/mohamednafaa)
 - [Christopher Michelli] (https://github.com/christophermichelli)
 - [Jeremy Matina](https://github.com/JeremyM07)
