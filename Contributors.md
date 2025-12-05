@@ -1710,6 +1710,7 @@ Maqsood Ansari
 - [Uday Bam] (https://github.com/bamuday)
 - Enzosakollari(https://github.com/Enzosakollari)
 - PepsiBro
+- Reddy Shekhar(https://github.com/reddyshekharc55/first-contributions#)
 - [shion](https://github.com/shion555)
 - [DONGMIN](https://github.com/fftl)
 - [Vivek Kumar](https://github.com/vivekkumarrathour)
