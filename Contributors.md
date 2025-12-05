@@ -77,6 +77,7 @@ scandi
 - [fredvdk](https://github.com/fredvdk)
 - [zeina] (https://github.com/zho00)
 - [Jayesh Patil](https://github.com/JayeshPatil163)
+- [Faviyan Mustafiz]
 - [Zatho0](https://github.com/Zatho0)
 - [clement717](https://github.com/clement717)
 - [Satya-0611](https://github.com/Satya-0611)
