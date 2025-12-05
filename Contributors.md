@@ -52,6 +52,7 @@ scandi
 - [Jayraje Shinde](https://github.com/Jayraje-Shinde)
 - [keynes steve AKPODE](https://github.com/keynessteve-cyber)
 - [Tinlia](https://github.com/Tinlia)
+- [Isha Bhole](https://github.com/IshaBhole)
   [CecilioRatsimilo]
 - [FelipeC074](https://github.com/FelipeC074)
 - [Mohamed Nafaa](https://github.com/mohamednafaa)
