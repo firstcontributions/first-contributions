@@ -353,6 +353,7 @@ scandi
 - [Abin Madathil](https://github.com/abinmadathil)
 - [Omar Fayyaz](https://github.com/KangarooAlpha)
 - [Fuad](https://github.com/code-fuad)
+  Alemtsehay Misgina
 - [Prince Yadav](https://github.com/warrior-hub)
 - [Savaj Drashti](https://github.com/SavajDrashti)
 - [Hyreen Matara](https://github.com/hyreen-web)
