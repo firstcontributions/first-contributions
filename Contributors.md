@@ -198,6 +198,7 @@ scandi
   [Taposh Kumer Ghosh](https://github.com/taposhkumer)
 - geogjegjegoiejgeroigjergjeoi
 - [Hui](https://github.com/0x722)🐾
+- [Aritro](https://github.com/dev-Aarish)
 - [Nimish Agrawal](https://github.com/nimishagrawal1405)❤️❤️❤️
 - [Gaurav S](https://github.com/garry00107)
 - [Himanshu Singhal](https://github.com/hsinghal11)
