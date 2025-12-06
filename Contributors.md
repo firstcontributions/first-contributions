@@ -9,11 +9,13 @@
 -[Shashank M N](https://github.com/Shashank07-debug)
 yash goat
 Samarjit Singh Uppal(https://github.com/Samarjitdk)
+-[MURALIKRISHNAN-N](https://github.com/murali-33011)
 -[Lukas](https://github.com/tl-lt7)
 -[Mohd Aatif] (https://github.com/atifShaiKh0)
 -[Nerd-SWAYAM] (https://github.com/LightYagami625)
 -[Shubh Jain](https://github.com/shubhj8989)
 scandi
+-[Sumit Chandora](https://github.com/sumitchandora)
 -[Akshat_Gupta](https://github.com/axhatggg)
 -[Lerisa Desai](https://github.com/lerisa1112)
 -[Kush Sengar](https://github.com/kushsengar)
@@ -202,6 +204,7 @@ scandi
 - [Uros Velickovic](https://github.com/UrosVel97)
 - [Divyom Srivastava](https://github.com/DivyomSrivastava)
   [Taposh Kumer Ghosh](https://github.com/taposhkumer)
+- [Olafis](https://github.com/Olafis)
 - geogjegjegoiejgeroigjergjeoi
 - [Hui](https://github.com/0x722)🐾
 - [Aritro](https://github.com/dev-Aarish)
@@ -996,6 +999,7 @@ sujoy
 - [Janardhan Polle](https://github.com/Jce)
 - [Anay](https://github.com/SiddharthaWork)
 - [EarendelH](https://github.com/Earendelh)
+- [PiggerZZM](https://github.com/PiggerZZM)
 - [dahynills](https://github.com/dahynills)
 - [wonathan](https://github.com/threestuff)
 - [Akshay Kale](https://github.com/Dev-axay18)
@@ -1503,6 +1507,7 @@ Maqsood Ansari
 - [Anaïs Gatard](https://github.com/AnaisG14)
 - [Andrea Moguel](https://github.com/amoguelk)
 - [Angel Sara](https://github.com/Angelishere)
+- [Ange Scotto](https://github.com/321-iT)
 - [Anish Banda](https://github.con/anishbanda)
 - [Anju Yadav](https://github.com/Anjuyada123)
 - [Anshif Monz](https://github.com/anshifmonz)
@@ -1860,3 +1865,4 @@ Maqsood Ansari
 - [Durga Vara Praveen](https://github.com/durgavarapraveen)
 - [Pranjal Kuhikar](https://github.com/pranjalkuhikar)
 - [Sushanth Shetty](https://github.com/sushanth-shetty11)
+
