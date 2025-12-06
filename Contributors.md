@@ -9,6 +9,7 @@
 -[Shashank M N](https://github.com/Shashank07-debug)
 yash goat
 Samarjit Singh Uppal(https://github.com/Samarjitdk)
+-[MURALIKRISHNAN-N](https://github.com/murali-33011)
 -[Lukas](https://github.com/tl-lt7)
 -[Mohd Aatif] (https://github.com/atifShaiKh0)
 -[Nerd-SWAYAM] (https://github.com/LightYagami625)
