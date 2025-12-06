@@ -45,6 +45,7 @@ scandi
  - [mukeshdidel] (https://github.com/mukeshdidel)
  - [Sanjib77] (https://github.com/sanjib77)
  - [Omkar] (https://github.com/omk18p)
+ - [Lasisi Ibrahim Pelumi] (https://github.com/ibrahimpelumi6142)
  - [Liam Reckziegel] (https://github.com/reckziegelwilliam)
 - [Dheepak] (https://github.com/Dheepak214)
 - [Sukalyan] (https://github.com/PMSukalyanSahu)
