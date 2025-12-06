@@ -24,6 +24,7 @@ scandi
 -[Mohit Gunani](https://github.com/mohit1221iitian)
 -[JellyFish] (Free plaestine)
 -[Jatin Jangid](https://github.com/jatinjangid369)
+-[Felipe Munoz](https://github.com/pipp3)
 -[Israel Chavez](https://github.com/SoyIsrael)
 -[Fahad Ali](https://github.com/eko-071)
 -[Suraj Kushwaha](https//github.com/suraj371k)
