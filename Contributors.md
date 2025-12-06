@@ -1864,8 +1864,5 @@ Maqsood Ansari
 -[vivek singh](https://youtu.be/2do4WZ0e8UU?si=ZkdCJFtB4gf8KrMx)
 - [Durga Vara Praveen](https://github.com/durgavarapraveen)
 - [Pranjal Kuhikar](https://github.com/pranjalkuhikar)
-- [Apoorv Deshmukh](https://github.com/apoorvd06)
-- Chandan Kumar (https://github.com/chandankumar269)
-- [Dhwaj Gupta](https://github.com/DG15062002)
-- [Soham Dandekar](https://github.com/sohamd008)
-- [Sri Vamsi Rajesh] (https://github.com/SrivamsiRajesh)
+- [Sushanth Shetty](https://github.com/sushanth-shetty11)
+
