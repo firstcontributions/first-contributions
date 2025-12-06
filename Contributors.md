@@ -1504,6 +1504,7 @@ Maqsood Ansari
 - [Anaïs Gatard](https://github.com/AnaisG14)
 - [Andrea Moguel](https://github.com/amoguelk)
 - [Angel Sara](https://github.com/Angelishere)
+- [Ange Scotto](https://github.com/321-iT)
 - [Anish Banda](https://github.con/anishbanda)
 - [Anju Yadav](https://github.com/Anjuyada123)
 - [Anshif Monz](https://github.com/anshifmonz)
