@@ -1868,4 +1868,5 @@ Maqsood Ansari
 - Chandan Kumar (https://github.com/chandankumar269)
 - [Dhwaj Gupta](https://github.com/DG15062002)
 - [Soham Dandekar](https://github.com/sohamd008)
-- [Sri Vamsi Rajesh] (https://github.com/SrivamsiRajesh)
+- [Sri Vamsi Rajesh] (https://github.com/SrivamsiRajeshu)
+- [Sudhishna Mallavarapu] (https://github.com/mallavarapusudhishna)
