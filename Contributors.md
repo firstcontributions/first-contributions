@@ -1864,10 +1864,12 @@ Maqsood Ansari
 -[vivek singh](https://youtu.be/2do4WZ0e8UU?si=ZkdCJFtB4gf8KrMx)
 - [Durga Vara Praveen](https://github.com/durgavarapraveen)
 - [Pranjal Kuhikar](https://github.com/pranjalkuhikar)
+- [Akhila S](https://github.com/akhilas0812-spec)
 - [Apoorv Deshmukh](https://github.com/apoorvd06)
 - Chandan Kumar (https://github.com/chandankumar269)
 - [Dhwaj Gupta](https://github.com/DG15062002)
 - [Soham Dandekar](https://github.com/sohamd008)
-- [Sri Vamsi Rajesh] (https://github.com/SrivamsiRajesh)
-- - [Akhila S](https://github.com/akhilas0812-spec)
+- [Sri Vamsi Rajesh](https://github.com/SrivamsiRajesh)
+- [Sudhishna Mallavarapu](https://github.com/mallavarapusudhishna)
+
 
