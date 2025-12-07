@@ -972,6 +972,7 @@ sujoy
 - [Noah McCracken](https://github.com/BrickBldr101)
 - [Aadi Jain](https://github.com/Aadi1903)
 - [Jason](https://github.com/JayKayDevOps)
+- [Tushar Balakrishnan](https://github.com/iamtusharbala)
 - [jvleesenb](https://github.com/meatlake)
 - [John](https://github.com/yrdnal-c-nhoj)
 - [TheToastinToaster](https://github.com/thetoastintoaster)
