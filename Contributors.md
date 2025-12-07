@@ -160,6 +160,7 @@ scandi
 - [microintel](https://github.com/microintel)
 - [Oscar Miranda](https://github.com/oimirandaa)
 - [mirza](https://github.com/imhasnain)
+- [Vipin Mishra](https://github.com/VipinMI2024)
 - [kanosa](https://github.com/kanosa0101)
 - [aym](https://github.com/onepunaym)
 - [Vaibhav Dhariwal](https://github.com/VaibhavDhariwal8)
@@ -1807,7 +1808,6 @@ Maqsood Ansari
 - [Sumaiya Akter Runa](https://www.linkedin.com/in/sumaiya-akter-runa-69b8b624a/)
 - [Svante Lindström](https://www.goglee.com)
 - [Nurtay](https://github.com/steppen)
-=======
 - [huangyikun11](https://github.com/huangyikun11)
 - [Sanjiti Gill](https://github.com/sanjiti-gill)
 - [Leo Lan](https://github.com/oar06g)
