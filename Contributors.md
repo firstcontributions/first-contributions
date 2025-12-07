@@ -1856,6 +1856,8 @@ Maqsood Ansari
 - [Baraa El Hajj](https://github.com/baraa-elhajj)
 - [Ali Farooqi](https://github.com/alifarooqi)
 - [Aaryan](https://github.com/pixler-coder)
+-QWERTY
+
 - [A Szpatowski](https://github.com/aszpatowski)
 - [Sid](https://github.com/starboylive)
 - [Dravid P A](https://github.com/dravidpa7)
