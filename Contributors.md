@@ -1699,6 +1699,7 @@ sujoy
 - [Vijay S](https://github.com/vijaycham)
 - [Aditya Thakre](https://github.com/aadityathakre)
 - [Yihang Wang](https://github.com/Cifang2233)
+- [Coaxus-ux](https://github.com/Coaxus-ux)
 - [Namo Sharma](https://github.com/Namosharma)
 - [Gaurav Mishra](https://github.com/gauravm03)
 - [Melanie Sagasser](https://github.com/melaniesagasser)
