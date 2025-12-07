@@ -13,6 +13,7 @@
 - [Aditya Swamy](https://github.com/Aditya-354)
 -[Shashank M N](https://github.com/Shashank07-debug)
 yash goat
+-[HARI-PRAKASH-S](https://github.com/HARI21HP)
 Samarjit Singh Uppal(https://github.com/Samarjitdk)
 -[MURALIKRISHNAN-N](https://github.com/murali-33011)
 -[Lukas](https://github.com/tl-lt7)
