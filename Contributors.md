@@ -24,6 +24,7 @@ scandi
 -[Akshat_Gupta](https://github.com/axhatggg)
 -[Lerisa Desai](https://github.com/lerisa1112)
 -[Kush Sengar](https://github.com/kushsengar)
+-[Sai Kumar](https://github.com/sai-kumar2413)
 -[Mohit Gunani](https://github.com/mohit1221iitian)
 -[JellyFish] (Free plaestine)
 -[Jatin Jangid](https://github.com/jatinjangid369)
@@ -159,6 +160,7 @@ scandi
 - [microintel](https://github.com/microintel)
 - [Oscar Miranda](https://github.com/oimirandaa)
 - [mirza](https://github.com/imhasnain)
+- [Vipin Mishra](https://github.com/VipinMI2024)
 - [kanosa](https://github.com/kanosa0101)
 - [aym](https://github.com/onepunaym)
 - [Vaibhav Dhariwal](https://github.com/VaibhavDhariwal8)
@@ -292,6 +294,8 @@ scandi
 - [Vineet Ekka] (https://github.com/vineet-sketch)
 - [Claire Haynes](https://github.com/ClaireHaynes700)
 - [Prarthana D](https://github.com/prarthana711)
+- Dipak Rasal
+- [Dipak Rasal](https://dipakrasal2009)
 - [Tommy Brill](https://github.com/neutronpmp)
 - [Arpit Baghla](https://github.com/arpitbaghla)
 - [Chamith Dilshan Tharuka](https://github.com/ChamithDilshanTharuka)
@@ -471,6 +475,7 @@ sujoy
 - [Emmanuel Zelaya-Armenta](https://github.com/Emmanuel-ZA)
 - [Likhith S Gowda](https://github.com/Likhi2005)
 - Watiri Mungai
+- [Anil Rajak](https://github.com/AnilRajak1983)
 - [Vaishnavi Parodkar](https://github.com/vaishnavi-parodkar)
 - [Joshua Norris](https://github.com/Noshie23)
 - [santhosh teja santhosh teja](https://github.com/Yashs02-code)
@@ -496,6 +501,7 @@ sujoy
 - [Furanimus](https://github.com/Furanimus)
 - [Saugat Giri](https://github.com/saugat1070)
 - [Anurag Tiwari](https://github.com/boss2412)
+- [Mathyyss](https://github.com/Mathyyss)
 - [Shreya Sethu](https://github.com/shreyasethu)
 - [Sumedha G](https://github.com/vvgatlanta-cell)
 - [Shubhankar Pandey](https://github.com/shubxdoc)
@@ -905,6 +911,7 @@ sujoy
 - [AlteUnke](https://github.com/AlteUnke)
 - [Bird Dog](https://github.com/acuhlian)
 - [allanm](https://github.com)
+- [Abhijit-Gautam](github.com/Abhijit-Gautam)
 - [Michael B.](https://github.com/mbyrd3)
 - [vedivero](https://github.com/vedivero)
 - [DhritiTS](https://github.com/DhritiTS)
@@ -936,6 +943,7 @@ sujoy
 - [H N Ujwal](https://github.com/hnujwal)
 - [Arshbir](https://github.com/Arshbir1)
 - [Roxanna R](https://github.com/roxannardgz)
+- [Atirek Goyal](https://github.com/atirek89)
 - [table106](https://github.com/table106)
 - [td2thinh](https://github.com/td2thinh)
 - [Alish-0x](https://github.com/Alish-0x)
@@ -1060,6 +1068,7 @@ sujoy
 - [terror-akshat](https://github.com/terror-akshat)
 - [fusionAMAN](https://github.com/fusionAMAN)
 - [azhank391](https://github.com.azhank391)
+- [Abhijit Gautam](https://github.com/Abhijit-Gautam)
 - [b1tranger](https://github.com/b1tranger)
 - [casa-code](https://github.com/casa-code)
 - [dahynills](https://github.com/dahynills)
@@ -1157,6 +1166,7 @@ sujoy
 - [Elijah Weiss](https://github.com/eweiss4)
 - [Emil Piesik](https://github.com/piesikot)
 - [Ethan Davey](https://github.com/halioti2)
+-[Priyanshi](https://github.com/priyanshijain1)
 - [Ethan Senger](https://github.com/E-bosss)
 - [Farmata Kane](https://github.com/miiswom)
 - [Florian Franco](https://github.com/ffr27)
@@ -1580,6 +1590,7 @@ Maqsood Ansari
 - [Omm Prakash Nayak](https://github.com/bithal2006)
 - [Marlene Davids](https://github.com/marls79)
 - [Anshi Tyagi](https://github.com/TyagiAnshi)
+- [John Maar](https://github.com/JTylM)
 - [Liu Jiafu](https://github.com/newjack12)
 - [Gabriel Fernandes](https://github.com/lgabrielmf)
 - [deep lukhi](https://github.com/deeplukhi)
@@ -1621,6 +1632,7 @@ Maqsood Ansari
 - [Christian Luis] (https://github.com/christianLuis07)
 - [Ryan Kimutai](https://github.com/Ryank-80) -[Aloysius Owili](https://github.com/360koalabear) -[Shahryar Sohail](https://github.com/shahryar-sohail) -[Udhaya parameshwaran](https://github.com/UdhayaParameshwaran-ai) -[Emma Yu](https://github.com/jjy88)
 - Yashwanth
+- [Bamboozled]
 - [prem kumar grk](https://github.com/premkumargrk)
 - [Ryan Kimutai](https://github.com/Ryank-80)
 - [Aloysius Owili](https://github.com/360koalabear)
@@ -1649,15 +1661,15 @@ Maqsood Ansari
 - [Suhas Magadum](https://github.com/Suhas-098)
 - [Berekia Obed](https://github.com/berekiao)
 - [Robins Karani](https://github.com/RobinsKarani)
-- [Taniya Kumari](https://github.com/taniya273) 
+- [Taniya Kumari](https://github.com/taniya273)
 - [maclaccha](https://github.com/maclaccha)
-- [polasisubash](https://github.com/polasisubash)
 - [Sabarivenkatesh](https://github.com/Sabarivenkatesh3)
 - [chandansingh](https://github.com/firstcontributions/first-contributions)
 - [tembomalinga]
 - [Anuj Pal] (https://github.com/Anujj-debug/first-contributions?tab=readme-ov-file)
 - [Arti Shelar](https://github.com/shelararti)
 - [Gabriel Soares](https://github.com/gbrlzzz)
+  [polasisubash](https://github.com/polasisubash)
 - [divyanshu]
 - [Miquel Roy-Sunyer](https://github.com/MiquelRS)
 - [Hysiren](https://github.com/Hysiren)
@@ -1672,6 +1684,7 @@ Maqsood Ansari
 - [Samyak Mittal](https://github.com/Samyak2605)
 - [Abdulrahman Hamdi](https://github.com/abdulrahmanhamdi)
 - [Cheerath Aniketh] (https://github.com/cheerathaniketh)
+- [Yuvraj Bakshi](https://github.com/Yuvraj06/)
 - [Chinmay Yadav](https://github.com/chinmayyadav283-dev)
 - [Nishant kumar](https://github.com/nishantraj06)
 - [Aditya] (https://github.com/adiiiiiii)
@@ -1798,7 +1811,6 @@ Maqsood Ansari
 - [Sumaiya Akter Runa](https://www.linkedin.com/in/sumaiya-akter-runa-69b8b624a/)
 - [Svante Lindström](https://www.goglee.com)
 - [Nurtay](https://github.com/steppen)
-=======
 - [huangyikun11](https://github.com/huangyikun11)
 - [Sanjiti Gill](https://github.com/sanjiti-gill)
 - [Leo Lan](https://github.com/oar06g)
@@ -1836,6 +1848,7 @@ Maqsood Ansari
 - [Aditya](https://github.com/Lumowhisp)
 - [Shruti Chandra] (https://github.com/techieshruti)
 - [Melisa Adıyaman]
+- [TAMUKEDDE JACOB](https://github.com/Tamujacob)
 - [Kareem Scott](https://github.com/Bla-Bla-Blah)
 - [Suraj Nair] (https://github.com/Surajnairx)
 - [TAMUKEDDE JACOB](https://github.com/Tamujacob)
@@ -1878,6 +1891,8 @@ Maqsood Ansari
 - [Magaiaia](https://github.com/iaiamaga/) 
 - [Syed Waleed Ahmed](https://github.com/syed-waleed-ahmed/)
 - Vanessa Roque
+- Jonathan Hess
+
 - Brandon Hurst
 - Jack Lab
 = [Shehran Nifazdeen](https://github.com/Shehran06)
@@ -1904,4 +1919,5 @@ Maqsood Ansari
 - [Rhesa Austen](https://github.com/Austenrhesa)
 - Gyanvi Gupta
 - [Prabhav Carimandalam](https://github.com/PrabhavCodes/)
-- [Abdur rahman roky] (https://github.com/XeoniPi/)
+- [Rajan Gupta] (https://github.com/Rajangupta9)
+- [Abdur rahman roky] (https://github.com/xeoniPi/)
