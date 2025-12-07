@@ -175,6 +175,7 @@ scandi
 - [gopaljilab](https://github.com/gopaljilab)
 - [Muhammad Huzaifa Atiq](https://github.com/Huzaifa-Atiq)
 - [LiBei1123](https://github.com/LiBei1123)
+- [Priyanshu Dubey](https://github.com/priyanshudubey)
 - [Gabriel S](https://github.com/gabriel-silveirinha)
 - [Konstantinos Pavlides](https://github.com/KonstantinosP01)
 - [UltraInstinct21] (https://github.com/UltraInstinct21)
