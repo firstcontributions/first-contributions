@@ -72,6 +72,7 @@ scandi
 - [Tinlia](https://github.com/Tinlia)
 - [Prem Paramanick](https://github.com/prem-03829)
 - [Isha Bhole](https://github.com/IshaBhole)
+- [Josh Jordal](https://github.com/JJordal)
   [CecilioRatsimilo]
 - [FelipeC074](https://github.com/FelipeC074)
 -[huajiao](https://github.com/0000-huajiao)
