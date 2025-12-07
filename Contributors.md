@@ -1255,4 +1255,4 @@ geogjegjegoiejgeroigjergjeoi
 -[Neev Jain]("https://github.com/Neev1006")
 - [Sacheth Koushal] ("https://github.com/ksacheth")
 - [Chandan Rajput] ("https://github.com/chandansingh2005/first-contributions")
-- [Samit Arias] ("https://github.com/samitarias/")
+- [Samit Arias] 🚀 ("https://github.com/samitarias/")
