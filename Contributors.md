@@ -210,6 +210,7 @@ scandi
 - [Kshitiz Kumar] (https://github.com/promt-l)
 - [Pratik Navghare] (https://github.com/navghare-pratik)
 - [Jatin Yadav] (https://github.com/jatin-yadav-sekwal)
+- [Rochith Phutane] (https://github.com/rochith11)
 - [Oolazile] (https://github.com/Oolazile)
 - Rishabdev Panchal (https://github.com/rdp2x)
 - [Hamza Naseem] (https://github.com/HamzaNasiem)
