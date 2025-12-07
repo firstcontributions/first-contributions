@@ -1794,7 +1794,8 @@ Maqsood Ansari
 - [Moksh D](https://github.com/danMoksh)
 - [Sumaiya Akter Runa](https://www.linkedin.com/in/sumaiya-akter-runa-69b8b624a/)
 - [Svante Lindström](https://www.goglee.com)
-- [Nurtay](https://github.com/steppen0mad)
+- [Nurtay](https://github.com/steppen)
+=======
 - [huangyikun11](https://github.com/huangyikun11)
 - [Sanjiti Gill](https://github.com/sanjiti-gill)
 - [Leo Lan](https://github.com/oar06g)
