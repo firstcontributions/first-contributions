@@ -293,6 +293,8 @@ scandi
 - [Vineet Ekka] (https://github.com/vineet-sketch)
 - [Claire Haynes](https://github.com/ClaireHaynes700)
 - [Prarthana D](https://github.com/prarthana711)
+- Dipak Rasal
+- [Dipak Rasal](https://dipakrasal2009)
 - [Tommy Brill](https://github.com/neutronpmp)
 - [Arpit Baghla](https://github.com/arpitbaghla)
 - [Chamith Dilshan Tharuka](https://github.com/ChamithDilshanTharuka)
