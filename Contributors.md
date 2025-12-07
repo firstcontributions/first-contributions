@@ -1776,6 +1776,7 @@ Maqsood Ansari
 - [Pasjonat90D](https://github.com/Pasjonat90D)
 - [jayadev](https://github.com/jaydev-431)
 - [Sanskar Kadam](https://github.com/sanskarkadam)
+- [Manya Gupta](https://github.com/manyagupta13)
 - [Riddhima Biswas](https://github.com/RiddhimaBiswas)
 - [ShaikAyesha17](https://github.com/ShaikAyesha17)
 - Sanika S P
