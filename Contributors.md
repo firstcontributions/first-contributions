@@ -1779,7 +1779,7 @@ Maqsood Ansari
 - [Valery Moskaunia](https://github.com/Moskaunia)
 - [Snehitha Kurapati](https://github.com/kl2400030727)
 - [SoFarSoGoodya](https://github.com/sofarsogoodya)
-- mkr
+- mkr2
 - [Koushitha tadiboina](https://github.com/koushithatadiboina)
 - [Moksh D](https://github.com/danMoksh)
 - [Sumaiya Akter Runa](https://www.linkedin.com/in/sumaiya-akter-runa-69b8b624a/)
