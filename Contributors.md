@@ -104,6 +104,7 @@ scandi
 - [Ava16](https://github.com/Ava16)
 - [Changjip Moon](https://github.com/dwhouse)
 - [Sumit Jha] (https://github.com/devlopersumit)
+- [Apurva N](https://github.com/apos-arch)
 - [Wissam]
 - [Priyanshu Ranjan] (https://github.com/priyanshujaiz)
 - [Samimi Aleandre] (https://github.com/Sidratu)
@@ -1457,7 +1458,7 @@ sujoy
 - [davidw1281](https://github.com/davidw1281)
 - [eobrien673](https://github.com/eobrien673)
 - [TakahashiSouta2018](https://github.com/TakahashiSouta2018)
-Maqsood Ansari
+  Maqsood Ansari
 - [Reydeuss](https://github.com/Reydeuss)
 - [fedxemilio](https://github.com/fedxemilio)
 - [fikrirazor](https://github.com/fikrirazor)
@@ -1720,13 +1721,10 @@ Maqsood Ansari
 -[Sadaksh Mahindra] ([text](https://github.com/sadakshmahindra))
 - Kandula Komali Reddy
 - Vedika Sardeshmukh (https://github.com/Vedika-Sd)
-- [VanHuy](https://github.com/vanhuy2005)
--[G Sampath Kummar] (https://github.com/Sampath7890)
--[Hilarius Jeremy] (https://github.com/HilariusJeremy)
-- Praneeth Mukkala
--[Waniya Farooq] (https://github.com/WaniyaFarooq)
+- [VanHuy](https://github.com/vanhuy2005) -[G Sampath Kummar] (https://github.com/Sampath7890) -[Hilarius Jeremy] (https://github.com/HilariusJeremy)
+- Praneeth Mukkala -[Waniya Farooq] (https://github.com/WaniyaFarooq)
 - Praveen (https://github.com/apgodlike)
--Alok Singh (https://github.com/121aloksingh)
+  -Alok Singh (https://github.com/121aloksingh)
 - Kavishka Deshan(https://github.com/kavishkadeshan1)
 - [Prorise-cool](https://github.com/Prorise-cool)
 - [Arsiya Tasleem](https://github.com/ArsiyaTasleem90250) - My first contribution!
@@ -1742,7 +1740,7 @@ Maqsood Ansari
 - Areeba Adeen (https://github.com/AreebaAdeenMalik)
 - [HarshSingh] (https://github.com/HarshVileon)
 - [domenhribernik](https://github.com/domenhribernik)
-- [Cercus Gwenael]([https://github.com/domenhribernik](https://github.com/gwenaelcercus/first-contributions.git))
+- [Cercus Gwenael](<[https://github.com/domenhribernik](https://github.com/gwenaelcercus/first-contributions.git)>)
 - [OTTOGALLI Tristan](https://github.com/ottogalli-tristan)
 - [ange marie louise nkwimi tchatat](https://github.com/angeNK-git)
 - [TZiah](https://github.com/TZiah)
@@ -1789,7 +1787,7 @@ Maqsood Ansari
 - [Seokhyeonh](https://github.com/Seokhyeonh)
 - [Jayanth](https://github.com/MUNJETIJAYANTHKRISHNA)
 - [Manjeet Singh](https://github.com/manjeetsingh78)
-- [pablo](https://github.com/timskola) 
+- [pablo](https://github.com/timskola)
 - [Nikhil Singhal](https://github.com/NikhilSinghal2004)
 - - [PraveenBoss45](https://github.com/PraveenBoss45)
 - [Tankbread](https://github.com/Tobiassko)
@@ -1823,6 +1821,7 @@ Maqsood Ansari
 - [Manthan Nimonkar](https://github.com/Manthancode28)
 - [Anug](github)
 - [Massimo Celona](https://github.com/massimo-celona)
+- [Riya Agrawal](https://github.com/riyaagrawal02)
 - [Disha Chiplonker](https://github.com/dishachiplonker/)
 - [Riya Agrawal](https://github.com/riyaagrawal02)
 - [Gokul Krishnan KS] (https://github.com/gokulkrishnanks)
