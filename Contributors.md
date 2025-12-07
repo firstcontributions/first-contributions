@@ -499,6 +499,7 @@ sujoy
 - [Furanimus](https://github.com/Furanimus)
 - [Saugat Giri](https://github.com/saugat1070)
 - [Anurag Tiwari](https://github.com/boss2412)
+- [Mathyyss](https://github.com/Mathyyss)
 - [Shreya Sethu](https://github.com/shreyasethu)
 - [Sumedha G](https://github.com/vvgatlanta-cell)
 - [Shubhankar Pandey](https://github.com/shubxdoc)
