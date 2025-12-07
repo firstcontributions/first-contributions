@@ -1326,6 +1326,7 @@ sujoy
 - [Eric-DaRosa](https://github.com/EricDar12)
 - [Firewooood](https://github.com/Firewooood)
 - [FloraPetit](https://github.com/PetitFlora)
+- [Gokul Bansal](https://github.com/Osptium-Invincible)
 - [GENJI J](https://github.com/anya-minamoto)
 - [Gal Levin](https://github.com/GalLevin239)
 - [Ganesh R](https://github.com/ganesh-techs)
