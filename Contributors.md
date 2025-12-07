@@ -937,6 +937,7 @@ sujoy
 - [H N Ujwal](https://github.com/hnujwal)
 - [Arshbir](https://github.com/Arshbir1)
 - [Roxanna R](https://github.com/roxannardgz)
+- [Atirek Goyal](https://github.com/atirek89)
 - [table106](https://github.com/table106)
 - [td2thinh](https://github.com/td2thinh)
 - [Alish-0x](https://github.com/Alish-0x)
