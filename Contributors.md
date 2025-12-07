@@ -28,6 +28,7 @@ scandi
 -[Jatin Jangid](https://github.com/jatinjangid369)
 -[Felipe Munoz](https://github.com/pipp3)
 -[Israel Chavez](https://github.com/SoyIsrael)
+-[Md Izrail](https://github.com/izrail-9)
 -[Fahad Ali](https://github.com/eko-071)
 -[Suraj Kushwaha](https//github.com/suraj371k)
 -[Emmanuel Ruiz](https//github.com/pranav50227)
@@ -1900,4 +1901,3 @@ Maqsood Ansari
 - Saurabh Singh
 - [NYClifewithNyx](https://github.com/NYClifewithNyx)
 - [Mayank Ranjan] (https://github.com/mayankranjancoc-byte)
-- [Rhesa Austen](https://github.com/Austenrhesa)
