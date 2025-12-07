@@ -1682,6 +1682,7 @@ Maqsood Ansari
 - [Samyak Mittal](https://github.com/Samyak2605)
 - [Abdulrahman Hamdi](https://github.com/abdulrahmanhamdi)
 - [Cheerath Aniketh] (https://github.com/cheerathaniketh)
+- [Yuvraj Bakshi](https://github.com/Yuvraj06/)
 - [Chinmay Yadav](https://github.com/chinmayyadav283-dev)
 - [Nishant kumar](https://github.com/nishantraj06)
 - [Aditya] (https://github.com/adiiiiiii)
