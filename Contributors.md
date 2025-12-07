@@ -1887,6 +1887,8 @@ Maqsood Ansari
 - [Magaiaia](https://github.com/iaiamaga/) 
 - [Syed Waleed Ahmed](https://github.com/syed-waleed-ahmed/)
 - Vanessa Roque
+- Jonathan Hess
+
 - Brandon Hurst
 - Jack Lab
 = [Shehran Nifazdeen](https://github.com/Shehran06)
