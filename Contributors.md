@@ -716,6 +716,7 @@ sujoy
 - [VizzScript](https://github.com/vizzscript)
 - [0scrxk](https://github.com/oscrxk)
 - [mheavey](https://github.com/mheavey2)
+- [MMALI3287](https://github.com/MMALI3287)
 - [deep9x](https://github.com/deep9x)
 - [ShriyashMirdode](https://github.com/ShriyashMirdode)
 - [Yash aka Light](https://github.com/y8done)
