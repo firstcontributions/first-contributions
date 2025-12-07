@@ -125,11 +125,12 @@ scandi
 - [Ivanich0](https://github.com/Ivanich0)
 - [Bishal Paul](https://github.com/Bishal13102003)
 - [Rémy Goennt](https://github.com/RemyGonnet)
-- [Kaizer Nahas](https://github.com/kmn1305) 
+- [Kaizer Nahas](https://github.com/kmn1305)
 - [Mayu Uno](https://github.com/mayuun14/)
 - [manemonymus](https://github.com/manemonymus)
 - [thomas](https://github.com/Konieczny-Thomas/polak-TK.git)
 - [ODK] (https://github.com/odokyoung)
+- [Ntale Swamadu] (https://github.com/Ntale3)
 - [yaeth](https://github.com/yaeth)
 - [PoncheDeFrutas](https://github.com/PoncheDeFrutas)
 - [Tejinderpal Singh](http://github.com/tejinderpa)
@@ -1704,7 +1705,7 @@ Maqsood Ansari
 - [Yitong Zhou](https://github.com/ZzzZzz-670)
 - [Najaf Sikander](https://github.com/najafsikander)
 - [Najaf Sikander](https://github.com/najafsikander)
-- Rupesh Sharma 
+- Rupesh Sharma
 - [Sai Rudraksh](https://github.com/sairudraksh)
 - Zeinabou Sall
 - [Naveen (NA-V10)](https://github.com/NA-V10)
