@@ -152,7 +152,6 @@ scandi
 - [Niccolò-Buricchi]()
 - [Rizwan Munir](https://github.com/Rizstien)
 - [Ramkumar T](https://github.com/sparkp1ug)
-- [Maxence G](https://github.com/MaxenceGat)
 - [Venkata Ramprasad Pade](https://github.com/ramprasad-13)
 - [- Gaurav Mandal](https://github.com/gaurav8228/)
 - [Dewanshu Goswami](https://github.com/TheMatrix31415926)
