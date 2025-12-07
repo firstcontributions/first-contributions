@@ -24,6 +24,7 @@ scandi
 -[Akshat_Gupta](https://github.com/axhatggg)
 -[Lerisa Desai](https://github.com/lerisa1112)
 -[Kush Sengar](https://github.com/kushsengar)
+-[Sai Kumar](https://github.com/sai-kumar2413)
 -[Mohit Gunani](https://github.com/mohit1221iitian)
 -[JellyFish] (Free plaestine)
 -[Jatin Jangid](https://github.com/jatinjangid369)
