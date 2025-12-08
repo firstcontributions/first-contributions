@@ -24,6 +24,7 @@ Samarjit Singh Uppal(https://github.com/Samarjitdk)
 -[Shubh Jain](https://github.com/shubhj8989)
 scandi
 -[Sumit Chandora](https://github.com/sumitchandora)
+-[Mikaela Flaherty](https://github.com/mikaelaflaherty)
 -[Akshat_Gupta](https://github.com/axhatggg)
 -[John Patrick Wernowski](https://github.com/johnthepatrick)
 -[Lerisa Desai](https://github.com/lerisa1112)
