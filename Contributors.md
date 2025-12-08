@@ -1190,6 +1190,7 @@ sujoy
 - [Elijah Weiss](https://github.com/eweiss4)
 - [Emil Piesik](https://github.com/piesikot)
 - [Ethan Davey](https://github.com/halioti2)
+-[Manish Kumar](https://github.com/meManish47)
 -[Priyanshi](https://github.com/priyanshijain1)
 - [Ethan Senger](https://github.com/E-bosss)
 - [Farmata Kane](https://github.com/miiswom)
