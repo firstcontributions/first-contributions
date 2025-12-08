@@ -1,5 +1,4 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -26,7 +25,7 @@ _Եթե հրամանի պատուհանը (command line) ձեզ հարմար չ�
 
 Բացեք տերմինալը և գործարկեք հետևյալ git հրամանը.
 
-```
+```bash
 git clone "url you just copied"
 ```
 
@@ -36,7 +35,7 @@ git clone "url you just copied"
 
 Օրինակ՝
 
-```
+```bash
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 
@@ -46,19 +45,19 @@ git clone https://github.com/this-is-you/first-contributions.git
 
 Մուտք գործեք ձեր համակարգչում գտնվող պահոցը, եթե արդեն այնտեղ չեք։
 
-```
+```bash
 cd first-contributions
 ```
 
 Հիմա ստեղծեք նոր ճյուղ՝ օգտագործելով `git checkout` հրամանը․
 
-```
+```bash
 git checkout -b <add-your-name>
 ```
 
 Օրինակ՝
 
-```
+```bash
 git checkout -b add-alonzo-church
 ```
 
@@ -72,13 +71,13 @@ git checkout -b add-alonzo-church
 
 Ավելացրեք այդ փոփոխությունները այն ճյուղին, որը հենց նոր ստեղծեցիք՝ օգտագործելով `git add` հրամանը.
 
-```
+```bash
 git add Contributors.md
 ```
 
 Այժմ գործադրեք այս փոփոխությունները `git commit` հրամանով.
 
-```
+```bash
 git commit -m "Add <your-name> to Contributors list"
 ```
 
@@ -88,7 +87,7 @@ git commit -m "Add <your-name> to Contributors list"
 
 Push արեք ձեր փոփոխությունները `git push` հրամանով․
 
-```
+```bash
 git push origin <add-your-name>
 ```
 
@@ -123,7 +122,7 @@ git push origin <add-your-name>
 
 Նշեք ձեր ներդրումը և կիսվեք այն ձեր ընկերների և հետևորդների հետ՝ այցելելով [web app](https://firstcontributions.github.io/#social-share).
 
-Դուք կարող եք միանալ մեր Slack թիմին, եթե որևէ հարց կամ օգնության կարիք ունեք։ [Միանալ slack թիմին](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
+Եթե ցանկանում եք ավելի շատ փորձ, դիտեք [code contributions](https://github.com/roshanjossey/code-contributions).
 
 Հիմա կարող եք ձեր ներդրումն ունենալ այլ նախագծերում։ Մենք կազմել ենք հեշտ խնդիրներ ունեցող նախագծերի ցանկ, որոնցից կարող եք սկսել: Համեցեք [վեբ հավելվածի նախագծերի ցանկը](https://firstcontributions.github.io/#project-list).
 

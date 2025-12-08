@@ -10,7 +10,7 @@ Dis project dey to make am simple and guide beginners how dem go make their firs
 
 _If command line no dey comfortable for you, [see tutorials wey use GUI tools here.](#tutorials-using-other-tools)_
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork dis repo" />
 
 #### If you no get git for your machine, [install am](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
@@ -21,7 +21,7 @@ Dis one go create copy of dis repository for your account.
 
 ## Clone the repository
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone dis repo" />
 
 Now clone the forked repository go your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
 
@@ -33,13 +33,12 @@ git clone "url wey you just copy"
 
 where "url wey you just copy" (without the quotation marks) na the url to this repository (your fork of this project). See the previous steps to get the url.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy di URL go clipboard" />
 
 For example:
 
-```
+```bash
 git clone git@github.com:this-is-you/first-contributions.git
-
 ```
 
 where this-is-you na your GitHub username. Here you dey copy the contents of the first-contributions repository for GitHub go your computer.
@@ -47,23 +46,20 @@ where this-is-you na your GitHub username. Here you dey copy the contents of the
 ## Create a branch
 Change go the repository directory for your computer (if you no dey there already):
 
-```
+```bash
 cd first-contributions
-
 ```
 
 Now create a branch using the git switch command:
 
-```
+```bash
 git switch -c your-new-branch-name
-
 ```
 
 For example:
 
-```
+```bash
 git switch -c add-desmond-ezo-ojile
-
 ```
 
 ## Make necessary changes and commit those changes
@@ -74,15 +70,13 @@ If you go to the project directory and run the command git status, you go see sa
 
 Add those changes to the branch wey you just create using the git add command:
 
-```
+```bash
 git add Contributors.md
-
 ```
 Now commit those changes using the git commit command:
 
-```
+```bash
 git commit -m "Add your-name to Contributors list"
-
 ```
 
 replace your-name with your own name.
@@ -90,9 +84,8 @@ replace your-name with your own name.
 ## Push changes to GitHub
 Push your changes using the command git push:
 
-```
+```bash
 git push -u origin your-branch-name
-
 ```
 
 replace your-branch-name with the name of the branch wey you create before.
@@ -110,7 +103,7 @@ Go to GitHub's tutorial on how to generate and add SSH key to your account.
 ## Submit your changes for review
 If you go to your repository on GitHub, you go see Compare & pull request button. Click on that button.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create pull request" />
 Now submit the pull request.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
