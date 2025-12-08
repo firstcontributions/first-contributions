@@ -66,6 +66,7 @@ Trishant Jaiswal
 - [Dheepak] (https://github.com/Dheepak214)
 - [Sukalyan] (https://github.com/PMSukalyanSahu)
 - [nyfrade] (https://github.com/nyfrade)
+- [GiannisGeo] Areianara mono re malakes
 - [Caleb Perkins](https://github.com/caleb-p93)
 -[Prashlesh Pratap Singh](https://github.com/vengeanceprashlesh)
 - [Robert Davis](https://github.com/robertdavis)
