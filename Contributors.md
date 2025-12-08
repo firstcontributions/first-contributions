@@ -911,6 +911,7 @@ sujoy
 - [korokua](https://github.com/therealryanhu)
 - [eesoyeon](https://github.com/eesoyeon)
 - [Vishnunarayan Manickam](https://github.com/VM006)
+- [Harsh Radadiya](https://github.com/Harsh0R)
 - [xlls666](https://github.com/xlls666)
 - [Olympus5](https://github.com/Olympus5)
 - [risavctt](https://github.com/risavctt)
