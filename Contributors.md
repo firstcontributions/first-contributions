@@ -39,6 +39,7 @@ scandi
 -[Fahad Ali](https://github.com/eko-071)
 -[Suraj Kushwaha](https//github.com/suraj371k)
 -[Emmanuel Ruiz](https//github.com/pranav50227)
+-[Rahul Parihar](https://github.com/rahulparihar-30)
 -[StarFish]
 Trishant Jaiswal
 -[Yash Lund](https://github.com/yashlund05)
