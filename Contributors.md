@@ -242,6 +242,7 @@ Trishant Jaiswal
 - [Rishabh](https://github.com/rishabh8870)
 - [Nitinjadhav](https://github.com/nitinjadhav888)
 - [Tabrez Ahamed](https://github.com/Tabrezz3)
+- [Aditya Verma](https://github.com/adityaverma9777)
 - [Bhupesh](https://github.com/Bhupi1306)
 - [Nitesh Singhal](https://github.com/niteshsinghal85)
 - [I-eat-gays-v-pornoroshku](https://github.com/I-eat-gays-v-pornoroshku)
