@@ -92,6 +92,7 @@ Trishant Jaiswal
  -[Anirban Sarkar](https://github.com/anantacoder)
  -[MEHTAB-XYZ](https://github.com/MEHTAB-XYZ)
  -[Dias Karshal](https://github.com/diaskarshal)
+ - [Chetan Gupta](https://github.com/Chetan2025)
  -[RedBagDude](https://github.com/RedBagDude)
  -[suyash](https://github.com/svyxsh)
 - [Divin Sota](https://github.com/divinsota/first-contributions)
