@@ -1672,6 +1672,7 @@ sujoy
 - [Diti] (https://github.com/diti0-dot)
 - [SYTP]
 - [Phil]
+- [Ana]
 - [Knopych]
 - [Muhammed Fayaz TS](https://github.com/MuhammedFayazTS)
 - [Jackson Bichard](https://github.com/JacksonBichard)
