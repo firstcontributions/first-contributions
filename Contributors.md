@@ -1141,6 +1141,7 @@ sujoy
 - [siminpool](https://github.com/siminpool)
 - [suyash nepal](https://github.com/suynep)
 - [tka](https://github.com/theinkhaaung007)
+- [Emanuel Juricev](https://github.com/EmanuelJrc)
 - [wonathan](https://github.com/threestuff)
 - [yashpr349](https://github.com/yashpr349)
 - [Aaron Lee](https://github.com/acelee0621)
