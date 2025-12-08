@@ -38,6 +38,7 @@ scandi
 -[Suraj Kushwaha](https//github.com/suraj371k)
 -[Emmanuel Ruiz](https//github.com/pranav50227)
 -[StarFish]
+Trishant Jaiswal
 -[Yash Lund](https://github.com/yashlund05)
 -[Chaitanya Medidar](https://github.com/chaitanyamedidar)
 -[Kaush Mendonca](https://github.com/slowanimals)
