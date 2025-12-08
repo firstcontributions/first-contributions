@@ -1350,6 +1350,7 @@ sujoy
 - [Beetlesliu](https://github.com/Beetlesliu)
 - [blue-cubes](https://github.com/blue-cubes)
 - [Bharat Ruidas](https://github.com/brd2002)
+- [Alwin Litscher](https://github.com/TheXaruman)
 - [Arpan Khan](https://github.com/ArpanCodeX)
 - [Capitaine_steeve78](https://github.com/Capitaine-steeve78)
 - [Boru Isako](https://github.com/BoruIsakoJ)
