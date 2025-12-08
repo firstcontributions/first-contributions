@@ -964,6 +964,7 @@ sujoy
 - [Titus James](https://github.com/tj330)
 - [Jose Panta] (https://github.com/josepanta)
 - [Hu TianHang](https://github.com/HTH24)
+- [Andre AS](https://github.com/AndreASTec)
 - [HiParham](https://github.com/hiparham)
 - [Ali Saad](https://github.com/AliSaa78)
 - [Ehab Hamdy](https://github.com/hobzz2)
