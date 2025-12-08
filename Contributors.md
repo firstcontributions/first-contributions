@@ -108,6 +108,7 @@ Trishant Jaiswal
   [Uttara Shah](https://guthub.com/UTTARASH)
   [RITVIK AND TRISHA](https://github.com/CITIZEN-OF-INDIA)
   [Vyas Sidhi](https://github.com/Sidhi-03)
+- [iSymbol](https://github.com/iSyIt)
 - [Ravi Raj Choudhary](https://github.com/ravirajchoudhary03)
 - [al-ocin]
 - [Koji Kawamura](https://github.com/kouji0705)
