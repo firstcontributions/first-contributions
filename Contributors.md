@@ -29,6 +29,7 @@ scandi
 -[Kush Sengar](https://github.com/kushsengar)
 -[Sai Kumar](https://github.com/sai-kumar2413)
 -[Mohit Gunani](https://github.com/mohit1221iitian)
+-[Ajay Chhaya](https://github.com/ajc-lab)
 -[JellyFish] (Free plaestine)
 -[Jatin Jangid](https://github.com/jatinjangid369)
 -[Felipe Munoz](https://github.com/pipp3)
