@@ -313,6 +313,7 @@ scandi
 - [Gourav soni](https://github.com/mrgaurav81)
 - [charitha-369](https://github.com/charitha-369)
 - [Git-Ivy](https://github.com/git-ivy)
+- [Keerthana-R](https://github.com/Kee1112)
 - [Aldani P](https://github.com/AldaniP)
 - [Michael Wright](https://github.com/
 - [Samuel Wright](samw46)
