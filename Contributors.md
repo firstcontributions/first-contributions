@@ -1878,6 +1878,7 @@ sujoy
 - [Avani Jaiswal]
 - [Atharva Ajmera] (https://github.com/atharvaajmera)
 - [Harsh tripathi] (github.com/harshfi)
+- [Atalay Aktaş] (https://github.com/Atalaykts)
 - [Mohammad Ali](https://github.com/md-ali-0)
 - [Rohan R] (https://github.com/RohanRaviKumar)
 - [Ayincoder](https://github.com/Ayincoder)
@@ -1976,3 +1977,4 @@ sujoy
 - [CoventinaLachesis](github.com/CoventinaLachesis)
 - [Jiya Bhailal Merja IIIT-B](https://github.com/Jiya-786)
 - [Rabia Hatice Beyhan](https://github.com/RabiaBeyhan)
+- [Hasan Umut Dağ](https://github.com/hasanumutdag)
