@@ -1960,6 +1960,7 @@ sujoy
 - [Mayank Ranjan] (https://github.com/mayankranjancoc-byte)
 - [Rhesa Austen](https://github.com/Austenrhesa)
 - Gyanvi Gupta
+- karthikgshriyan()
 - [Prabhav Carimandalam](https://github.com/PrabhavCodes/)
 - [Rajan Gupta] (https://github.com/Rajangupta9)
 - [Abdur rahman roky] (https://github.com/xeoniPi/)
