@@ -1975,3 +1975,10 @@ sujoy
 -nibll4/niblle 
 - [CoventinaLachesis](github.com/CoventinaLachesis)
 - [Jiya Bhailal Merja IIIT-B](https://github.com/Jiya-786)
+- [Bakı Gul](https://github.com/suzunn)
+
+
+git add .
+git status
+git commit -m "commıtımı gonderdım"
+git push origin senin_branch_adın
