@@ -1,6 +1,7 @@
 # Contributors
 - [rohansalunkhe] (https://github.com/THEROHAN01)
 - [madhavmadupu](https://github.com/madhavmadupu)
+- [Dhwanit Patel](https://github.com/dhwanit10)
 -[Mamta Adivasi](https://github.com/milli525)
 - [webmastervetea](https://github.com/webmastervetea)
 - [Adarsh Kadam](https://github.com/adarsh47-bug)
