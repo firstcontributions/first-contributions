@@ -578,6 +578,7 @@ sujoy
 - [LostChyld](https://github.com/dragonsewist/)
 - [Adhil Bathali](https://github.com/adhilbathali)
 - [Rafael Guzman](https://github.com/Rafael-er-byte)
+- [raftxo](https://github.com/Raftxo)
 - [Di-code](https://github.com/Diogo-Serra)
 - [Raghav Chanana](https://github.com/sidrag3045)
 - [Suryansh Singh](https://github.com/Suryansh-008)
