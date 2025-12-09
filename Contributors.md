@@ -1337,6 +1337,7 @@ sujoy
 - [Zach Garza](https://github.com/ZachG1235)
 - [Zaid Rasul](https://github.com/ZaidRasul)
 - [Zain Amjad](https://github.com/zancheema)
+- [Jonathan Ferrera](https://github.com/Jonathan-Ferrera-Encore)
 - [gatura](https://github.com/gatura-source)
 - [srinath g](https://github.com/srinath176)
 - [Elampel](https://github.com/eyallampel1/)
