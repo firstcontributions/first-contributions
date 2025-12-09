@@ -45,4 +45,7 @@ This document is dedicated to all the tips and tricks websites, blog posts, and 
 40. [Beginers Guide To Proper Git Workflow](https://medium.com/@anjulapaulus_84798/beginners-guide-to-proper-git-workflow-35a2d967734e)
 41. [How to using Github-Pages](https://docs.github.com/en/pages)
 42. [Learn about Github Copilot](https://docs.github.com/en/copilot/about-github-copilot/what-is-github-copilot)
+43. [Official Git cheatsheet](https://git-scm.com/cheat-sheet.pdf)
+44. [Git and Github tutorial by Hitesh Choudhary](https://youtube.com/playlist?list=PLRAV69dS1uWT4v4iK1h6qejyhGObFH9_o&si=VRd9plTICVPfs3Kn)
+45. [Explore GitHub as students](https://github.com/education)
 Keep adding more links, that you find helpful.
