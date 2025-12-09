@@ -262,6 +262,7 @@ Trishant Jaiswal
 - [Srihari Vernekar]
 - [Baris Yildizel]
 - Krishnendra Kumar Prayagraj
+- [rafid](https://github.com/rafid3f3)
 - [Daniel Caspit](https://github.com/dcaspit)
 - [Vanshika jain](https://github.com/vanshika-jain3107)
 - [Dennis Muchai](https://github.com/dmuchai)
