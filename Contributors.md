@@ -8,6 +8,7 @@
 - [Adarsh Kadam](https://github.com/adarsh47-bug)
 - [Sudi Williams](https://github.com/sudi-W)
 - [ayushman pandey](https://github.com/mahoraga777)
+-[ianjosuemendezjimenez11](https://github.com/ianjosuemendezjimenez11)
 -[Chetna Pant](https://github.com/chetnapant20)
 -[Lorenzo Reitani](https://github.com/LorenzoReitani)
 -[Wooseok Gwak](https://github.com/GWS0428)
