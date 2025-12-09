@@ -9,6 +9,7 @@
 -[Chetna Pant](https://github.com/chetnapant20)
 -[Lorenzo Reitani](https://github.com/LorenzoReitani)
 -[Wooseok Gwak](https://github.com/GWS0428)
+- [Yashaswini C Rao](https://github.com/yash-r04)
 - [Ayoub Aguezar ](https://github.com/Ayoub-glitsh)
 -[Stefano Marra](https://github.com/fefo-phef)
 -[Maliha Fatima](https://github.com/Malihafatima1)
