@@ -1878,6 +1878,7 @@ sujoy
 - [Avani Jaiswal]
 - [Atharva Ajmera] (https://github.com/atharvaajmera)
 - [Harsh tripathi] (github.com/harshfi)
+- [Atalay Aktaş] (https://github.com/Atalaykts)
 - [Mohammad Ali](https://github.com/md-ali-0)
 - [Rohan R] (https://github.com/RohanRaviKumar)
 - [Ayincoder](https://github.com/Ayincoder)
@@ -1960,6 +1961,7 @@ sujoy
 - [Mayank Ranjan] (https://github.com/mayankranjancoc-byte)
 - [Rhesa Austen](https://github.com/Austenrhesa)
 - Gyanvi Gupta
+- karthikgshriyan()
 - [Prabhav Carimandalam](https://github.com/PrabhavCodes/)
 - [Rajan Gupta] (https://github.com/Rajangupta9)
 - [Abdur rahman roky] (https://github.com/xeoniPi/)
