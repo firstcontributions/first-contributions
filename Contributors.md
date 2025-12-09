@@ -270,6 +270,7 @@ Trishant Jaiswal
 - [Natpu Enean](https://github.com/NatpuEnean)
 - [Syed Arham] -[Edward Dume](https://github.com/edwarddume55)
 - [Andrés Peña del Río](https://github.com/apenade)
+- [Alan John Sudhan](https://github.com/AlanJohnSudhan27)
 - [Arpan Khan](https://github.com/arpancodex)
   [Julian Cumps](https://github.com/juliancumps)
   [Han Set Naing](https://github.com/Hansetnaing)
