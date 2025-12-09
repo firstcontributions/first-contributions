@@ -69,6 +69,7 @@ Trishant Jaiswal
  - [Omkar] (https://github.com/omk18p)
  - [Lasisi Ibrahim Pelumi] (https://github.com/ibrahimpelumi6142)
  - [Liam Reckziegel] (https://github.com/reckziegelwilliam)
+ - [Shakirscode] (https://github.com/shakirscode)
 - [Dheepak] (https://github.com/Dheepak214)
 - [Sukalyan] (https://github.com/PMSukalyanSahu)
 - [nyfrade] (https://github.com/nyfrade)
