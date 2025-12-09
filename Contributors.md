@@ -20,6 +20,7 @@
 -[Shashank M N](https://github.com/Shashank07-debug)
 yash goat
 -[HARI-PRAKASH-S](https://github.com/HARI21HP)
+-[Gaurang Gupta](https://github.com/Gauranggupta2323)
 Samarjit Singh Uppal(https://github.com/Samarjitdk)
 -[MURALIKRISHNAN-N](https://github.com/murali-33011)
 -[VIVEK G L](https://github.com/Vivek-git-1432)
