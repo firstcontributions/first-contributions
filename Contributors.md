@@ -8,6 +8,7 @@
 - [webmastervetea](https://github.com/webmastervetea)
 - [Adarsh Kadam](https://github.com/adarsh47-bug)
 - [Sudi Williams](https://github.com/sudi-W)
+- [Saidkamol Mirsaidov](https://github.com/SaidKamol0612)
 - [ayushman pandey](https://github.com/mahoraga777)
 -[ianjosuemendezjimenez11](https://github.com/ianjosuemendezjimenez11)
 -[Chetna Pant](https://github.com/chetnapant20)
