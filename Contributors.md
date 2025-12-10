@@ -2007,4 +2007,5 @@ sujoy
 - [Abhay Choudhary](https://github.com/Abhayrcb?tab=repositories)
 - [Hardik Kumar](https://github.com/hardikRathi)
 - [Aneesh Kumar Mourya](https://github.com/AneeshkrMoury)
+- [Vatsalya Sharma](https://github.com/Vatsalya-24)
 - [Ayotunde Pedro](https://github.com/ayopedro)
