@@ -2010,3 +2010,4 @@ sujoy
 - [Aneesh Kumar Mourya](https://github.com/AneeshkrMoury)
 - [Vatsalya Sharma](https://github.com/Vatsalya-24)
 - [Ayotunde Pedro](https://github.com/ayopedro)
+- [Mario Sanchez](https://github.com/mcn22)
