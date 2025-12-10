@@ -1815,6 +1815,7 @@ sujoy
 - [Manya Gupta](https://github.com/manyagupta13)
 - [Riddhima Biswas](https://github.com/RiddhimaBiswas)
 - [ShaikAyesha17](https://github.com/ShaikAyesha17)
+- [Kingsley Sarkodie](https://github.com/JoeBuydemDips)
 - Sanika S P
 - [HammsN] (https://github.com/HammsN/)
 - [Vignesh A Kunder](https://github.com/VigneshAKunder)
