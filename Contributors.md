@@ -2011,6 +2011,7 @@ sujoy
 - [Recox](https://github.com/recox42recox)
 - [CoventinaLachesis](github.com/CoventinaLachesis)
 - [Jiya Bhailal Merja IIIT-B](https://github.com/Jiya-786)
+- [Bakı Gul](https://github.com/suzunn)
 - [Rabia Hatice Beyhan](https://github.com/RabiaBeyhan)
 - [Hasan Umut Dağ](https://github.com/hasanumutdag)
 - [Azra Nur Tabak](https://github.com/azratabak25)
