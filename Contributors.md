@@ -2033,3 +2033,4 @@ sujoy
 - [Ayotunde Pedro](https://github.com/ayopedro)
 - [Rohini Manjappa] (https://github.com/hdsdgqz56g-bit)
 - [Mario Sanchez](https://github.com/mcn22)
+- [Yuval Cohen](https://github.com/yuval-cohen-dev)
