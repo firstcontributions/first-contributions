@@ -1,5 +1,6 @@
 # Contributors
 - [keshankumara] (https://github.com/keshankumara)
+- [Praveen Gupta] (https://github.com/Praveen-0k9)
 - [rohansalunkhe] (https://github.com/THEROHAN01)
 - [Srijan_Limbu] (https://github.com/DevendraNathLimbu) : Love you guys ❤️
 - [madhavmadupu](https://github.com/madhavmadupu)
