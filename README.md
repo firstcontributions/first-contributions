@@ -136,6 +136,7 @@ Change to the repository directory on your computer (if you are not already ther
 ```bash
 cd first-contributions
 ```
+Improved documentation clarity for beginners.
 
 Now create a branch using the `git switch` command:
 
