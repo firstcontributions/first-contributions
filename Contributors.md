@@ -1816,6 +1816,7 @@ sujoy
 - [one-piece] (https://github.com/sanketpatil425-cyber)
 - [Douae Bousnane](https://github.com/douaebousnane13-del)
 - [Mohd Ainul](https://github.com/MohdAinul)
+- [EB](https://github.com/boranj)
 - Karl Fofie
 - [VikramMahajan](https://github.com/vikramm0907)
 - [Suhas](https://github.com/suhas181)
