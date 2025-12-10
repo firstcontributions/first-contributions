@@ -510,6 +510,7 @@ sujoy
 - [Aman Gupta](https://github.com/Aman071106)
 - [Wagner Andrade](https://github.com/andradewagner)
 - [Mohammadsaad10](https://github.com/Mohammadsaad10)
+- [Mohammad Salim](https://github.com/Moe-Salim91156)
 - [Ndeye Sermy Mergane](https://github.com/Ndeye1000)
 - [Emmanuel Zelaya-Armenta](https://github.com/Emmanuel-ZA)
 - [Likhith S Gowda](https://github.com/Likhi2005)
