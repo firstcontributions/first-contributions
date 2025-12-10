@@ -351,6 +351,7 @@ Trishant Jaiswal
 - Jia Yee (Hi! Hope your git learning journey goes well too!)
 - Bastiqui
 - lumberjackwizard)
+
 - Abdullah Malik (https://github.com/akm20005)
 - [Viraj Hudlikar](https://github.com/vhudlikar)
 - [Kishita Deotale](https://github.com/kishitadeotale24)
@@ -361,6 +362,7 @@ Trishant Jaiswal
 - [Gilbert John](https://github.com/gilbert-maker)
 - [Omm Satyakam](https://github.com/p-retrover)
 - [Gabriel Maccari](https://github.com/gabrielmaccari)
+- [Vassilis Ioannidis](https://github.com/SQLtattoo)
 - [Matt]
 - [vatsal](https://github.com/Vatsal11011)
 - [Ben Huotari](https://github.com/benhuotari)
