@@ -1869,6 +1869,7 @@ sujoy
 - [UJWAL](https://github.com/Ujwal200707)
 - [Pasjonat90D](https://github.com/Pasjonat90D)
 - [jayadev](https://github.com/jaydev-431)
+- [Hasi1i] (https://github.com/Hasi1i)
 - [Sanskar Kadam](https://github.com/sanskarkadam)
 - [Manya Gupta](https://github.com/manyagupta13)
 - [Riddhima Biswas](https://github.com/RiddhimaBiswas)
