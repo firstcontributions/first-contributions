@@ -2006,6 +2006,7 @@ sujoy
 - [Navaneeth Reddy Alavala](https://github.com/navaneethreddydevops)
 -[Chanikya challa ](github.com/Chanikyachalla)
 -nibll4/niblle 
+- [Recox](https://github.com/recox42recox)
 - [CoventinaLachesis](github.com/CoventinaLachesis)
 - [Jiya Bhailal Merja IIIT-B](https://github.com/Jiya-786)
 - [Rabia Hatice Beyhan](https://github.com/RabiaBeyhan)
