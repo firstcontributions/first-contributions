@@ -12,6 +12,7 @@
 - [ayushman pandey](https://github.com/mahoraga777)
 -[ianjosuemendezjimenez11](https://github.com/ianjosuemendezjimenez11)
 -[Chetna Pant](https://github.com/chetnapant20)
+-[Ferdi Gutzy](https://github.com/fgutzy)
 -[Lorenzo Reitani](https://github.com/LorenzoReitani)
 -[Wooseok Gwak](https://github.com/GWS0428)
 - [Ayoub Aguezar ](https://github.com/Ayoub-glitsh)
