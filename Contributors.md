@@ -1146,6 +1146,7 @@ sujoy
 - [nisarg404](https://github.com/nisarg404)
 - [Yaser-Sellami](https://github.com/Yaser-Sellami)
 - [Muntazir-Sayed](https://github.com/Muntazir-sd)
+- [RISHAD ROSHAN](https://github.com/rishadroshanpt)
 - [lelemita](https://github.com/lelemita)
 - [omartrese](https://github.com/omartrese)
 - [p-a-brown](https://github.com/p-a-brown)
