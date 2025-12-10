@@ -21,6 +21,7 @@
 - [Ayoub Aguezar ](https://github.com/Ayoub-glitsh)
 -[Stefano Marra](https://github.com/fefo-phef)
 -[Maliha Fatima](https://github.com/Malihafatima1)
+-Maureen Adams R.
 - [Aditya Swamy](https://github.com/Aditya-354)
 -[Shashank M N](https://github.com/Shashank07-debug)
 -[Oliver Tepper](https://github.com/seacli)
