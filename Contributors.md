@@ -50,6 +50,7 @@ scandi
 -[Rahul Parihar](https://github.com/rahulparihar-30)
 -[StarFish]
 Trishant Jaiswal
+-[fatmanfanss](https://github.com/YoyoChocoman)
 -[Yash Lund](https://github.com/yashlund05)
 -[Chaitanya Medidar](https://github.com/chaitanyamedidar)
 -[Kaush Mendonca](https://github.com/slowanimals)
@@ -360,7 +361,7 @@ Trishant Jaiswal
 - [Vishakha Singh](https://github.com/Vishakha7-Kumari)
 - [Katharina Ludwig](https://github.com/katharina-ludwig-02)
 - [Srajan Gupta](https://github.com/srajang1805)
-- [Niraj] 
+- [Niraj]
 - [Nirbhay Bawankule](https://github.com/NirbhayBawankule)
 - [Stelios Spanos](https://github.com/SteliosSpanos)
 - [Yash Warhade](https://github.com/Yashwarhade8010)
@@ -1901,7 +1902,7 @@ sujoy
 - [Suraj Nair] (https://github.com/Surajnairx)
 - [TAMUKEDDE JACOB](https://github.com/Tamujacob)
 - [Prince Singh] (https://github.com/Prince-Singh-Dev)
-- [PhishDestroy] (https://github.com/phishdestroy) 
+- [PhishDestroy] (https://github.com/phishdestroy)
 - [Cendemie Behagan](https://github.com/demiebehagan)
 - [XLASh] (https://github.com/XlaSh9914)
 - [Prem Jay](https://github.com/BruteForceRonin)
@@ -1937,7 +1938,7 @@ sujoy
 - [Sonal Sonawane](https://github.com/thesonal/first-contributions)
 - [subramanya T N](https://github.com/subramanya-44)
 - [Naman Jain](https://github.com/iamNaman-official)
-- [Magaiaia](https://github.com/iaiamaga/) 
+- [Magaiaia](https://github.com/iaiamaga/)
 - [Syed Waleed Ahmed](https://github.com/syed-waleed-ahmed/)
 - Vanessa Roque
 - Jonathan Hess
@@ -1981,7 +1982,7 @@ sujoy
 - [Baki GUL](https://github.com/gulbaki)
 - [Navaneeth Reddy Alavala](https://github.com/navaneethreddydevops)
 -[Chanikya challa ](github.com/Chanikyachalla)
--nibll4/niblle 
+-nibll4/niblle
 - [CoventinaLachesis](github.com/CoventinaLachesis)
 - [Jiya Bhailal Merja IIIT-B](https://github.com/Jiya-786)
 - [Rabia Hatice Beyhan](https://github.com/RabiaBeyhan)
