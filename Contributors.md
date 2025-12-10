@@ -16,6 +16,7 @@
 -[Chetna Pant](https://github.com/chetnapant20)
 -[Ferdi Gutzy](https://github.com/fgutzy)
 -[Lorenzo Reitani](https://github.com/LorenzoReitani)
+- Rogelio Canton Cano
 -[Wooseok Gwak](https://github.com/GWS0428)
 - [Ayoub Aguezar ](https://github.com/Ayoub-glitsh)
 -[Stefano Marra](https://github.com/fefo-phef)
