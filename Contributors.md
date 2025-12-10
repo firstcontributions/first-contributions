@@ -56,6 +56,7 @@ scandi
 -[Rahul Parihar](https://github.com/rahulparihar-30)
 -[StarFish]
 Trishant Jaiswal
+Nick
 -[Yash Lund](https://github.com/yashlund05)
 -[Chaitanya Medidar](https://github.com/chaitanyamedidar)
 -[Kaush Mendonca](https://github.com/slowanimals)
