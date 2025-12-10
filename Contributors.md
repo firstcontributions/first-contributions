@@ -237,7 +237,7 @@ Nick
 -[Manoj Reddy]
 - [Matheus Lino](https://github.com/7matheus)
 - [Shantanu Dhane](https://github.com/Dev-Santo44)
-
+- [Prateek Mani Tripathi](https://github.com/prateekmtri)
 - [Conor James](https://github.com/ConorsGitHub)
 - [Sarthak Mehrishi](https://github.com/mehrishisarthak)
 - [Kacper Likus](https://github.com/ToastedBurrito)
