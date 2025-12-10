@@ -96,7 +96,8 @@ Nick
 - [Quisim Bryant](https://github.com/quisimbryant)
 - [Jayraje Shinde](https://github.com/Jayraje-Shinde)
 - [keynes steve AKPODE](https://github.com/keynessteve-cyber)
-- [Tinlia](https://github.com/Tinlia)
+- [Tinlia](https://github.com/Tinlia)}
+- luis salas
 - [Prem Paramanick](https://github.com/prem-03829)
  -[Rakesh](https://github.com/RAKESH7K)
 - [Isha Bhole](https://github.com/IshaBhole)
