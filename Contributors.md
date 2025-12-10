@@ -1,10 +1,11 @@
 # Contributors
 [Pratham Chavhan](https://github.com/prathamchavhan)
-- [keshankumara] (https://github.com/keshankumara)
-- [Praveen Gupta] (https://github.com/Praveen-0k9)
-- [Olu] (https://github.com/AfecoO)
-- [rohansalunkhe] (https://github.com/THEROHAN01)
-- [Srijan_Limbu] (https://github.com/DevendraNathLimbu) : Love you guys ❤️
+- [Chris Tandoh](https://github.com/Christandoh)
+- [keshankumara](https://github.com/keshankumara)
+- [Praveen Gupta](https://github.com/Praveen-0k9)
+- [Olu](https://github.com/AfecoO)
+- [rohansalunkhe](https://github.com/THEROHAN01)
+- [Srijan_Limbu](https://github.com/DevendraNathLimbu) : Love you guys ❤️
 - [madhavmadupu](https://github.com/madhavmadupu)
 - [Dhwanit Patel](https://github.com/dhwanit10)
 -[Mamta Adivasi](https://github.com/milli525)
