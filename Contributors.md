@@ -56,6 +56,7 @@ scandi
 -[Rahul Parihar](https://github.com/rahulparihar-30)
 -[StarFish]
 Trishant Jaiswal
+Nick
 -[Yash Lund](https://github.com/yashlund05)
 -[Chaitanya Medidar](https://github.com/chaitanyamedidar)
 -[Kaush Mendonca](https://github.com/slowanimals)
@@ -2007,3 +2008,4 @@ sujoy
 - [Hardik Kumar](https://github.com/hardikRathi)
 - [Aneesh Kumar Mourya](https://github.com/AneeshkrMoury)
 - [Vatsalya Sharma](https://github.com/Vatsalya-24)
+- [Ayotunde Pedro](https://github.com/ayopedro)
