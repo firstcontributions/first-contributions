@@ -37,6 +37,7 @@ scandi
 -[John Patrick Wernowski](https://github.com/johnthepatrick)
 -[Lerisa Desai](https://github.com/lerisa1112)
 -[Kush Sengar](https://github.com/kushsengar)
+-[DavidAashish](https://github.com/david-aashish) 
 -[Sai Kumar](https://github.com/sai-kumar2413)
 -[Mohit Gunani](https://github.com/mohit1221iitian)
 -[Ajay Chhaya](https://github.com/ajc-lab)
