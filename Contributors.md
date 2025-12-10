@@ -1753,6 +1753,7 @@ sujoy
 - [Ong TX](https://github.com/AlexanderXI0904)
 - [TomiiAlz](https://github.com/TomiiAlz)
 - [Najaf Sikander](https://github.com/najafsikander)
+- [Moses Acknal](https://github.com/mosesacknals139)
 - Rupesh Sharma
 - [Sai Rudraksh](https://github.com/sairudraksh)
 - Zeinabou Sall
