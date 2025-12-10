@@ -1,5 +1,4 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -24,28 +23,28 @@
 إذا لم يكن لديك git على الجهاز الخاص بك،<a href="https://help.github.com/articles/set-up-git/">قم بتثبيته من هنا</a>
 </div>
 
-## <div dir="rtl"> افرق هذا المشروع - Fork this Repository </div>
+## <div dir="rtl"> أنشئ تفرّعًا من هذا المشروع - Fork this Repository </div>
 
-<img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="قم بعمل Fork لهذا المستودع" />
 <div dir="rtl">
-افرق هذا المشروع بالضغط على زر Fork في أعلى هذه الصفحة.
+أنشئ تفرّعًا من هذا المشروع بالضغط على زر Fork في أعلى هذه الصفحة.
 من خلال ذلك ستنشأ نسخة من هذا المشروع على حسابك الخاص.
 </div>
 
 ## <div dir="rtl"> استنسخ هذا المشروع - Clone the repository </div>
 
-<img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="انسخ هذا المستودع" />
 
 <div dir="rtl">
 استنسخ هذا المشروع على جهازك.
 انقر على زر Clone ثم انقر على أيقونة Copy to clipboard
 </div>
-<img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="انسخ الرابط إلى الحافظة" />
 <div dir="rtl">
 افتح terminal واكتُب الأمر التالي:
 </div>
 
-```
+```bash
 git clone "url you just copied"
 ```
 
@@ -53,7 +52,7 @@ git clone "url you just copied"
 
 <div dir="rtl">على سبيل المثال:</div>
 
-```
+```bash
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 
@@ -66,13 +65,13 @@ git clone https://github.com/this-is-you/first-contributions.git
 
 <div dir="rtl"> انتقل إلى المجلد الذي يحتوي على المشروع عن طريق الأمر التالي: </div>
 
-```
+```bash
 cd first-contributions
 ```
 
 <div dir="rtl"> الآن قم بإنشاء فرع عن طريق الأمر التالي: </div>
 
-```
+```bash
 git checkout -b "add-your-name"
 ```
 
@@ -80,7 +79,7 @@ git checkout -b "add-your-name"
 
 <div dir="rtl">على سبيل المثال:</div>
 
-```
+```bash
 git checkout -b "add-alonzo-church"
 ```
 
@@ -94,13 +93,13 @@ git checkout -b "add-alonzo-church"
 لإضافة هذه التغييرات قم بإضافتها عن طريق هذا الأمر <code>git add</code>.
 </div>
 
-```
+```bash
 git add Contributors.md
 ```
 
 <div dir="rtl">الآن قم بإتمام التغييرات باستخدام الأمر <code>git commit</code>.</div>
 
-```
+```bash
 git commit -m "Add <your-name> to Contributors list"
 ```
 
@@ -111,7 +110,7 @@ git commit -m "Add <your-name> to Contributors list"
 
 <div dir="rtl">ارفع التغييرات عن طريق الأمر <code>git push</code></div>
 
-```
+```bash
 git push origin "add-your-name"
 ```
 
@@ -122,11 +121,11 @@ git push origin "add-your-name"
 
 <div dir="rtl">في صفحة المشروع الخاصة بك يوجد زر <code>Compare &amp; pull request</code>. اضغط على هذا الزر.</div>
 
-<img style="float: left;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: left;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="أنشئ طلب سحب (Pull Request)" />
 
 <div dir="rtl">والآن سلم طلبك لتتم مراجعته </div>
 
-<img style="float: left;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: left;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="إرسال طلب السحب" />
 
 <div dir="rtl">بعد المراجعة سوف أقوم بدمج تغييراتك إلى الفرع الرئيسي في المشروع. سيتم تنبيهك عن طريق البريد الإلكتروني بذلك.</div>
 
@@ -136,13 +135,13 @@ git push origin "add-your-name"
 
  <div dir="rtl">الخطوة الأولى، انتقل إلى الفرع الرئيسي.</div>
 
-```
+```bash
 git checkout master
 ```
 
  <div dir="rtl">ثانياً، أضف رابط مشروعي كـ<code>upstream remote url</code>.</div>
 
-```
+```bash
 git remote add upstream https://github.com/Roshanjossey/first-contributions
 ```
 
@@ -150,19 +149,19 @@ git remote add upstream https://github.com/Roshanjossey/first-contributions
 بعد أن أوافق على تغييراتك، قم بسحب النسخة الجديدة من المشروع عن طريق الأمر التالي:
 </div>
 
-```
+```bash
 git fetch upstream
 ```
 
 <div dir="rtl">هنا سنقوم بسحب جميع التغييرات من <code>(upstream remote)</code>. والآن، عليك أن تدمج التحديثات الجديدة من فرعي إلى فرعك الرئيسي.</div>
 
-```
+```bash
 git rebase upstream/master
 ```
 
 <div dir="rtl">وهنا تطبق التغييرات إلى الفرع الرئيسي. إذا رفعت التغييرات لفرعك الرئيسي سيتم تحديث مشروعك</div>
 
-```
+```bash
 git push origin master
 ```
 

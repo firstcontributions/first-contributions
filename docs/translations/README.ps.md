@@ -9,9 +9,6 @@
 <a href="https://www.codetriage.com/roshanjossey/first-contributions">
   <img src="https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg" alt="Open Source Helpers" />
 </a>
-<a href="https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA">
-  <img align="left" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png" alt="Join Slack Team" />
-</a>
 
 ---
 
@@ -28,7 +25,7 @@
 
 ## دا ذخیره (repository) فورک کړئ
 
-<img align="left" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="left" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="د دې زیرمې فورک کول" />
 
 - د دې پاڼې په سر کې د Fork تڼۍ کلیک کړئ.
 - فورک کول به د دې ذخیرې یوه کاپي ستاسو د GitHub اکاونټ ته انتقال کړي.
@@ -37,7 +34,7 @@
 
 ## دا ذخیره (repository) کلون کړئ
 
-<img align="left" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="left" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="د دې زیرمې کلون کول" />
 
 - خپل اکاونټ ته لاړ شئ او د فورک شوې ذخیرې لینک د **Code** تڼۍ څخه کاپي کړئ.
 
@@ -67,7 +64,7 @@ your-branch-name ستاسو د څانګې نوم دی. کولای شئ چې هر
 - د `Contributors.md` فایل خلاص کړئ او خپل نوم پکې اضافه کړئ کې).
 - فایل ذخیره کړئ.
 
-<img align="left" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="left" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="د Git حالت" />
 
 - ترمینل ته لاړ شئ او دا کمانډ اجرا کړئ ترڅو وګورئ کوم فایلونه مو بدل کړي دي:
 

@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -102,15 +102,15 @@ Reemplaza `<nombre-rama>` con el nombre de la rama que creaste anteriormente.
 
 - ### Error de Autenticación
     <pre>remote: El soporte para la autenticación de contraseña se eliminó el 13 de agosto de 2021. Utiliza un token de acceso personal en su lugar.
-  remote: Consulta [https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/) para obtener más información.
-  fatal: Fallo en la autenticación para '[https://github.com/](https://github.com/)<tu-usuario>/first-contributions.git/'</pre>
+  remote: Consulta https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ para obtener más información.
+  fatal: Fallo en la autenticación para 'https://github.com/<tu-usuario>/first-contributions.git/'</pre>
     Ve al [tutorial de GitHub](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) sobre cómo generar y configurar una clave SSH en tu cuenta.
 
     Además, es posible que desees ejecutar `git remote -v` para verificar tu dirección remota.
     
     Si se ve algo como esto:
-    <pre>origin [https://github.com/tu-usuario/tu_repo.git] (fetch)  
-  origin  [https://github.com/tu-usuario/tu_repo.git] (push)</pre>
+    <pre>origin https://github.com/tu-usuario/tu_repo.git (fetch)   
+  origin  https://github.com/tu-usuario/tu_repo.git (push)</pre>
 
     
     cámbialo usando este comando:

@@ -1,5 +1,4 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -25,7 +24,7 @@ Sada klonirajte repozitorij koji ste prethodno forkali. Posjetite svoj GitHub pr
 
 Otvorite terminal i upišite slijedeće git naredbe:
 
-```
+```bash
 git clone "url koji ste sada kopirali"
 ```
 
@@ -35,7 +34,7 @@ gdje je "url koji ste sada kopirali" (bez navodnika) url na ovaj repozitorij (va
 
 Na primjer:
 
-```
+```bash
 git clone https://github.com/ovo-ste-Vi/first-contributions.git
 ```
 
@@ -45,19 +44,19 @@ Gdje je umjesto `ovo-ste-Vi` upisano vaše _github_ korisničko ime. Ovime kopir
 
 Prebacite se u radni direktorij na Vašem računalu (ukoliko već niste tamo):
 
-```
+```bash
 cd first-contributions
 ```
 
 Pa zatim napravite novu granu _branch_ koristeći `git switch` comandu:
 
-```
+```bash
 git switch -c dodaj-svoje-ime
 ```
 
 Na primjer:
 
-```
+```bash
 git switch -c add-alonzo-church
 ```
 
@@ -71,13 +70,13 @@ Ukoliko odete u radni direktorij i izvršite naredbu `git status`, primijetit ć
 
 Dodajte ove promjene u granu koju ste gore napravili koristeći `git add` naredbu:
 
-```
+```bash
 git add Contributors.md
 ```
 
 Sada potvrdite ove promjene koristeći `git commit` naredbu:
 
-```
+```bash
 git commit -m "Add svoje-ime to Contributors list"
 ```
 
@@ -87,7 +86,7 @@ Gdje umjesto `svoje-ime` upisujete svoje ime.
 
 Pošaljite promjene u repozitorij na GitHub-u koristeći naredbu `git push`:
 
-```
+```bash
 git push origin -u ime-Vaše-grane
 ```
 
@@ -111,7 +110,6 @@ Nakon toga, vlasnik će spojiti promjene koje ste napravili sa master granom pro
 
 Proslavite tako što ćete podjeliti svoj doprinos sa prijateljima i pratiocima otvaranjem [stranice](https://firstcontributions.github.io/#social-share).
 
-Pridružite se i našem Slack timu u slučaju da vam je potrebna ikakva pomoć ili imate bilo kakvih pitanja. [Slack tim](https://join.slack.com/t/firstcontributors/shared_invite/zt-2vqegkew0-ZuzGM1LO33C6Ts4nZyat1Q).
 
 Sada možemo početi sa doprinosima drugim projektima. Napravili smo popis projekata sa jednostavnim problemima na kojima možete početi raditi. Posjetite [listu projekata na naštoj stranici](https://firstcontributions.github.io/#project-list).
 
