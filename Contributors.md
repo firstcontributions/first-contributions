@@ -1091,6 +1091,7 @@ sujoy
 - [Zoe Reed](https://github.com/zoereedviz)
 - [Erpipemio](https://github.com/Erpipemio)
 - [Ryan Gapp](https://github.com/ryan-gapp)
+- [Shahar Yosef](https://github.com/shaharyosef)
 - [S.Yukiko](https://github.com/yuki-git-9)
   [Timi-liang](https://github.com/Timi-liang)
 - [STA](https://github.com/sithuaung246810)
