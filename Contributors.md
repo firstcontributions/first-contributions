@@ -1,6 +1,7 @@
 # Contributors
 - [keshankumara] (https://github.com/keshankumara)
 - [Praveen Gupta] (https://github.com/Praveen-0k9)
+- [Olu] (https://github.com/AfecoO)
 - [rohansalunkhe] (https://github.com/THEROHAN01)
 - [Srijan_Limbu] (https://github.com/DevendraNathLimbu) : Love you guys ❤️
 - [madhavmadupu](https://github.com/madhavmadupu)
@@ -96,7 +97,8 @@ Nick
 - [Quisim Bryant](https://github.com/quisimbryant)
 - [Jayraje Shinde](https://github.com/Jayraje-Shinde)
 - [keynes steve AKPODE](https://github.com/keynessteve-cyber)
-- [Tinlia](https://github.com/Tinlia)
+- [Tinlia](https://github.com/Tinlia)}
+- luis salas
 - [Prem Paramanick](https://github.com/prem-03829)
  -[Rakesh](https://github.com/RAKESH7K)
 - [Isha Bhole](https://github.com/IshaBhole)
@@ -725,6 +727,7 @@ sujoy
 - [mkvaishnavi](https://github.com/mkvaishnavi)
 - [Chris C](https://github.com/xboof)
 - [tusharsoni52](https://github.com/tusharsoni52)
+- [dnnygmez11](https://github.com/dnnygmez11)
 - [lecsim](https://github.com/lecsim)
 - [Abhishek](https://github.com/abhisheksharma12891/)
 - [evneis](https://github.com/evneis)
@@ -1763,6 +1766,7 @@ sujoy
 - [Ong TX](https://github.com/AlexanderXI0904)
 - [TomiiAlz](https://github.com/TomiiAlz)
 - [Najaf Sikander](https://github.com/najafsikander)
+- [Moses Acknal](https://github.com/mosesacknals139)
 - Rupesh Sharma
 - [Sai Rudraksh](https://github.com/sairudraksh)
 - Zeinabou Sall
@@ -1817,6 +1821,7 @@ sujoy
 - [one-piece] (https://github.com/sanketpatil425-cyber)
 - [Douae Bousnane](https://github.com/douaebousnane13-del)
 - [Mohd Ainul](https://github.com/MohdAinul)
+- [EB](https://github.com/boranj)
 - Karl Fofie
 - [VikramMahajan](https://github.com/vikramm0907)
 - [Suhas](https://github.com/suhas181)
@@ -2010,3 +2015,4 @@ sujoy
 - [Vatsalya Sharma](https://github.com/Vatsalya-24)
 - [Ayotunde Pedro](https://github.com/ayopedro)
 - [Rohini Manjappa] (https://github.com/hdsdgqz56g-bit)
+- [Mario Sanchez](https://github.com/mcn22)
