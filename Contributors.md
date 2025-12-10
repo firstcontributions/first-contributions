@@ -21,6 +21,7 @@
 -[Maliha Fatima](https://github.com/Malihafatima1)
 - [Aditya Swamy](https://github.com/Aditya-354)
 -[Shashank M N](https://github.com/Shashank07-debug)
+-[Oliver Tepper](https://github.com/seacli)
 yash goat
 -[Aditya Singh](https://github.com/Student-aditya123) : Hello gyus 😍
 -[HARI-PRAKASH-S](https://github.com/HARI21HP)
