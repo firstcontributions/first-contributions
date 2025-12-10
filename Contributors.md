@@ -1974,6 +1974,7 @@ sujoy
 - [Nacho](https://github.com/100550759-commits)
 - [Devang Thaker](https://github.com/devang1010)
 - [ZHOU.]
+- [Can Kerem Karaman](https://github.com/CanKeremKaraman/)
 -[vivek singh](https://youtu.be/2do4WZ0e8UU?si=ZkdCJFtB4gf8KrMx)
 - [Durga Vara Praveen](https://github.com/durgavarapraveen)
 - [Pranjal Kuhikar](https://github.com/pranjalkuhikar)
