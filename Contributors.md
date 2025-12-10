@@ -524,6 +524,7 @@ sujoy
 - [Aryan Vishwakarma](https://github.com/vishwakarma-31).
 - [Abhiram kondaguduru](https://github.com/k-abhiram21)
 - [Fangphire](https://github.com/fangphire)
+- [Jordan Wels](https://github.com/Jwels1)
 - [Zohaib](https://github.com/Iamzohaibali)
 - [Frank Anthony](https://github.com/FrankLayza)
   [Kaichalle 2025](https://github.com/HennesyChihiro)
