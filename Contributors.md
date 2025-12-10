@@ -1945,7 +1945,6 @@ sujoy
 - [Ali Farooqi](https://github.com/alifarooqi)
 - [Aaryan](https://github.com/pixler-coder)
 -QWERTY
-
 - [A Szpatowski](https://github.com/aszpatowski)
 - [Sid](https://github.com/starboylive)
 - [Dravid P A](https://github.com/dravidpa7)
@@ -1965,7 +1964,6 @@ sujoy
 - [Syed Waleed Ahmed](https://github.com/syed-waleed-ahmed/)
 - Vanessa Roque
 - Jonathan Hess
-
 - Brandon Hurst
 - Jack Lab
 - [Viren Sumbly](https://github.com/VirenSumbly)
