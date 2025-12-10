@@ -1463,6 +1463,7 @@ sujoy
 - [Nishant Singh](https://github.com/vasu101)
 - [OpenSeeker](https://github.com/OpenSeeker)
 - [Pranav K P](https://github.com/pranavkp71)
+- [Pedro Chame](https://github.com/pedrochame)
 - [Pranay Gurav](https://github.com/cwpranay)
 - [RAYYAN KHAN](https://github.com/rayyan4t4)
 - [LoP-1](https://github.com/LoP-1)
