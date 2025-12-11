@@ -151,6 +151,7 @@ Nick
 - [Sumit Jha] (https://github.com/devlopersumit)
 - [Apurva N](https://github.com/apos-arch)
 - [Wissam]
+- [daavae](https://github.com/daavae)
 - [Priyanshu Ranjan] (https://github.com/priyanshujaiz)
 - [Samimi Aleandre] (https://github.com/Sidratu)
 - [PRN-6] (https://github.com/PRN-6)
