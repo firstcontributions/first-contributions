@@ -1,4 +1,5 @@
 # Contributors
+- [Rifaldo](https://github.com/Rifaldo-dev)
 [Andres Fdez] (https://github.com/amfv-GR/first-contributions)
 [Pratham Chavhan](https://github.com/prathamchavhan)
 - [Khamza Zhanbolat](https://github.com/KhamzaZhanbolat)
