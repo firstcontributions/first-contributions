@@ -10,6 +10,7 @@
 - [Dhwanit Patel](https://github.com/dhwanit10)
 - [GH03T](https://github.com/GH03T)
 -[Mamta Adivasi](https://github.com/milli525)
+-[Taranjot Singh](https://github.com/Randhawa1255)
 - [webmastervetea](https://github.com/webmastervetea)
 - [Adarsh Kadam](https://github.com/adarsh47-bug)
 - [Sudi Williams](https://github.com/sudi-W)
