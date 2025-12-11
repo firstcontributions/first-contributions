@@ -571,6 +571,7 @@ sujoy
 - [Anurag Tiwari](https://github.com/boss2412)
 - [Mathyyss](https://github.com/Mathyyss)
 - [Shreya Sethu](https://github.com/shreyasethu)
+- [Anandb71](https://github.com/Anandb71)
 - [Sumedha G](https://github.com/vvgatlanta-cell)
 - [Shubhankar Pandey](https://github.com/shubxdoc)
 - [Star](https://github.com/star-ges)
