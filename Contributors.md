@@ -617,6 +617,7 @@ sujoy
 - [Abhay Raj Agnihotri](https://github.com/abhayrajagnihotri)
 - [Sai Darshan](https://github.com/saidarshan7)
 - [BrassoiCatalin](https://github.com/BrassoiCatalin)
+- [Jeremy Aguillon](https://github.com/jagui1)
 - [Shaq16](https://github.com/Shaq16)
 - [Muthukamalan](https://github.com/Muthukamalan)
 - [marcelo_iporre](https://github.com/CHELOIPO)
