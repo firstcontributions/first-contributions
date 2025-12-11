@@ -1,6 +1,10 @@
 # Contributors
 [Pratham Chavhan](https://github.com/prathamchavhan)
+
 - [Shalini Sharma](https://github.com/shalini0002)
+
+- [Khamza Zhanbolat](https://github.com/KhamzaZhanbolat)
+
 - [Chris Tandoh](https://github.com/Christandoh)
 - [Varun Sonwane](https://github.com/varunsonawane) 
 - [keshankumara](https://github.com/keshankumara)
@@ -966,6 +970,7 @@ sujoy
 - [Federico](https://github.com/Fede2717)
 - [Procyon]
 - [Liquuid1](https://github.com/Liquuid1)
+- [ReneRaesp](https://github.com/ReneRaEsp)
 - [Dr4kfire](https://github.com/dr4kfire)
 - [cpescato](https://github.com/cpescato)
 - [idrees](https://github.com/idrees2k22)
