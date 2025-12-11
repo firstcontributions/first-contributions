@@ -1,5 +1,6 @@
 # Contributors
 [Pratham Chavhan](https://github.com/prathamchavhan)
+- [Khamza Zhanbolat](https://github.com/KhamzaZhanbolat)
 - [Chris Tandoh](https://github.com/Christandoh)
 - [Varun Sonwane](https://github.com/varunsonawane) 
 - [keshankumara](https://github.com/keshankumara)
