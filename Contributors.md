@@ -3,6 +3,7 @@
 - [Chris Tandoh](https://github.com/Christandoh)
 - [Varun Sonwane](https://github.com/varunsonawane) 
 - [keshankumara](https://github.com/keshankumara)
+- [Sandeep Kumar](https://github.com/sandeep-sk)
 - [Praveen Gupta](https://github.com/Praveen-0k9)
 - [Olu](https://github.com/AfecoO)
 - [rohansalunkhe](https://github.com/THEROHAN01)
