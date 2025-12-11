@@ -9,6 +9,7 @@
 - [madhavmadupu](https://github.com/madhavmadupu)
 - [Dhwanit Patel](https://github.com/dhwanit10)
 - [GH03T](https://github.com/GH03T)
+- [Lam](https://github.com/LamNz79)
 -[Mamta Adivasi](https://github.com/milli525)
 -[Taranjot Singh](https://github.com/Randhawa1255)
 - [webmastervetea](https://github.com/webmastervetea)
