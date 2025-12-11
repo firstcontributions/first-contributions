@@ -2070,3 +2070,4 @@ sujoy
 - [sharan](https://github.com/sharan112233)
 - Aishwarya Prakash
 - [Andi H](https://github.com/AndyH-78/)
+- [Ricardo Passerini](https://github.com/ricpasserini)
