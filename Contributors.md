@@ -65,10 +65,12 @@ scandi
 -[JellyFish] (Free plaestine)
 -[Jatin Jangid](https://github.com/jatinjangid369)
 -[Felipe Munoz](https://github.com/pipp3)
+-[Shibo Wang](https://github.com/CyberWhiteBear)
 -[Israel Chavez](https://github.com/SoyIsrael)
 -[Md Izrail](https://github.com/izrail-9)
 -[Fahad Ali](https://github.com/eko-071)
 -[Suraj Kushwaha](https//github.com/suraj371k)
+
 -[Emmanuel Ruiz](https//github.com/pranav50227)
 -[Rahul Parihar](https://github.com/rahulparihar-30)
 -[StarFish]
