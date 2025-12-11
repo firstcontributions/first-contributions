@@ -17,6 +17,7 @@
 - [VanshSharma] (https://github.com/vanshsharma-11) - Yeah, i was here!
 - [Adarsh Kadam](https://github.com/adarsh47-bug)
 - [Sudi Williams](https://github.com/sudi-W)
+- [Rushit Kakadiya](https://github.com/rushit-kakadiya): Let’s blaze it up 🔥🚀
 - [Saidkamol Mirsaidov](https://github.com/SaidKamol0612)
 [Licence1](LogicielLibrel1)
 - [ayushman pandey](https://github.com/mahoraga777)
