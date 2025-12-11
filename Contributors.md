@@ -774,6 +774,7 @@ sujoy
 - [Ryen-K](https://github.com/Ryen-K)
 - [Ahorts](https://github.com/Ahorts)
 - [Hushh](https://github.com/hushh-h)
+- [Majid Seifi](https://github.com/majidseifi)
 - [MACantara](https://github.com/MACantara)
 - [Aman Bangera](https://github.com/amanbangeraa)
 - [Pedro Tomáz](https://github.com/pdrotmz)
