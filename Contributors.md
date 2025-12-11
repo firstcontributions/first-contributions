@@ -31,6 +31,7 @@
 -[Ferdi Gutzy](https://github.com/fgutzy)
 -[Lorenzo Reitani](https://github.com/LorenzoReitani)
 - Rogelio Canton Cano
+- [Aayush Pratap Singh](./https://github.com/AayushPS)
 -[Wooseok Gwak](https://github.com/GWS0428)
 - [Yashaswini C Rao](https://github.com/yash-r04)
 - [Ayoub Aguezar ](https://github.com/Ayoub-glitsh)
