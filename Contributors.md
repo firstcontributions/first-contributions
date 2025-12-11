@@ -2035,3 +2035,4 @@ sujoy
 - [Rohini Manjappa] (https://github.com/hdsdgqz56g-bit)
 - [Mario Sanchez](https://github.com/mcn22)
 - [Yuval Cohen](https://github.com/yuval-cohen-dev)
+- [Rafael Ribeiro](https://github.com/rribeiro93)
