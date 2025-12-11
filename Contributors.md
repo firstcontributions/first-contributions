@@ -698,6 +698,7 @@ sujoy
 - [Meg Hiatt](https://github.com/hiatt8649)
 - [Aryalekshmi](https://github.com/narcissa2ar)
 - [Renith](https://github.com/Spaceboy-ren)
+-[Ritika](https://github.com/ritikaprasad281)
 - [Michael](https://github.com/LucidWinter)
 - [Musbi8788](https://github.com/Musbi8788)
 - [Abhinand B](https://github.com/abhinand2511)
