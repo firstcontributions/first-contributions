@@ -1343,6 +1343,7 @@ sujoy
 - [Paulo Victor Maciel](https://github.com/paulovmaciel)
 - [ShaiQ Shah](https://github.com/shahshaiq)
 - [Shriram Gupta](https://github.com/theshriramgupta)
+- [Everhart Zepyhr](https://github.com/EveryhartZephyr)
 - [Shudan Luo](https://github.com/shudanluo)
 - [Mehedi Hasan Hridoy](https://github.com/mehedi-hridoy)
 - [0xp-g](https://github.com/0xp-g)
