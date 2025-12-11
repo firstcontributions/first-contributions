@@ -12,6 +12,7 @@
 - [Olu](https://github.com/AfecoO)
 - [Stephen Hiscock](https://github.com/stevodevo1) ✅
 - [rohansalunkhe](https://github.com/THEROHAN01)
+- [Divyark3](https://github.com/Divyark3) : Hey! Figuring out open source contributions!!
 - [Srijan_Limbu](https://github.com/DevendraNathLimbu) : Love you guys ❤️
 - [madhavmadupu](https://github.com/madhavmadupu)
 - [Dhwanit Patel](https://github.com/dhwanit10)
@@ -41,7 +42,7 @@
 -[TXXXW-WQ](https://github.com/TXXXW-WQ)
 -[Maliha Fatima](https://github.com/Malihafatima1)
 -Maureen Adams R.
-- [Aditya Swamy](https://github.com/Aditya-354)
+- [Aditya Swamy](https://github.com/Aditya-354)c
 -[Shashank M N](https://github.com/Shashank07-debug)
 -[Oliver Tepper](https://github.com/seacli)
 yash goat
