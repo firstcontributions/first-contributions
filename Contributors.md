@@ -8,6 +8,7 @@
 - [Sandeep Kumar](https://github.com/sandeep-sk)
 - [Praveen Gupta](https://github.com/Praveen-0k9)
 - [Olu](https://github.com/AfecoO)
+- [Stephen Hiscock](https://github.com/stevodevo1) ✅
 - [rohansalunkhe](https://github.com/THEROHAN01)
 - [Srijan_Limbu](https://github.com/DevendraNathLimbu) : Love you guys ❤️
 - [madhavmadupu](https://github.com/madhavmadupu)
