@@ -1,6 +1,7 @@
 # Contributors
 [Andres Fdez] (https://github.com/amfv-GR/first-contributions)
 [Pratham Chavhan](https://github.com/prathamchavhan)
+- [Anas Nasr](https://github.com/AnasNasr-afk) 🚀🚀🚀🚀
 - [Khamza Zhanbolat](https://github.com/KhamzaZhanbolat)
 - [Chris Tandoh](https://github.com/Christandoh)
 - [Varun Sonwane](https://github.com/varunsonawane) 
@@ -2059,3 +2060,4 @@ sujoy
 - [One Sided](https://github.com/TheOnesided)
 - [Ankit](https://www.youtube.com/watch?v=u3y1MqX4egE)
 - [mb-ttl](https://github.com/mb-ttl) - testing!
+
