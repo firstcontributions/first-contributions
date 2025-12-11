@@ -1640,6 +1640,7 @@ sujoy
 - [Charlie Dobney](https://github.com/jyrdr)
 - [Sanuthi Liyasika](https://github.com/Sanuthi50)
 - [Caleb Rollf](https://github.com/lemonsloth)
+- [Ivano Sorić](https://github.com/ivanosoric)
 - [Calvin Shio](https://github.com/shiocalvin)
 - [Capri Caviedes](https://github.com/caprivm)
 - [Cesar Garcia](https://github.com/cesaralej)
