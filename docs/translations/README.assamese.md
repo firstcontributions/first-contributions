@@ -9,7 +9,7 @@
 
 যদি আপুনি command lineৰ সৈতে আৰামদায়ক নোহোৱাঁ, GUI tools ব্যৱহাৰ কৰি ইয়াত টিউট’ৰিয়েল আছে।
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="এই ৰেপ'জিটৰীটো ফৰ্ক কৰক" />
 
 যদি আপোনাৰ মেচিনত git নাই, ইনষ্টল কৰক [install it](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
@@ -18,7 +18,7 @@
 
 ## ৰেপ'জিট'ৰিটো ক্লোন কৰক
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="এই ৰেপ'জিটৰীটো ক্ল'ন কৰক" />
 
 এতিয়া fork কৰা ৰেপ'জিট'ৰিটো আপোনাৰ মেচিনত ক্লোন কৰক। আপোনাৰ GitHub একাউণ্টত যাওক, fork কৰা ৰেপ'জিট'ৰিটো খোলক, code বুটামত ক্লিক কৰক আৰু তাৰপিছত copy to clipboard আইকনটোত ক্লিক কৰক।
 
@@ -30,7 +30,7 @@ git clone "url you just copied"
 
 য'ত "url you just copied" (নাম উদ্ধৃতিহীন) হৈছে এই ৰেপ'জিট'ৰিটোৰ url (এই প্ৰকল্পৰ আপোনাৰ fork)। url পোৱা আগৰ পদক্ষেপসমূহ চাওক।
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="ইউ.আৰ.এল.টো ক্লিপব'ৰ্ডলৈ কপি কৰক" />
 
 উদাহৰণ স্বৰূপে
 
@@ -76,7 +76,7 @@ git checkout -b your-new-branch-name
 
 এতিয়া Contributors.md ফাইলটো এটা টেক্সট সম্পাদকত খোলক। আপোনাৰ নামটো ইয়াত যোগ কৰক। নামটো ফাইলৰ আৰম্ভণিতে বা শেষত যোগ নকৰিব। নামটো মাজৰ যিকোনো স্থানত ৰাখক। এতিয়া, ফাইলটো সংৰক্ষণ(save) কৰক।
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="কমাণ্ড দেখুৱোৱা উদাহৰণ" />
 
 যদি আপুনি প্ৰকল্প ডাইৰেক্টৰীত যোৱা আৰু কমাণ্ড `git status` চলোৱা, আপুনি পৰিবৰ্তনসমূহ দেখিব।
 
@@ -130,11 +130,11 @@ git push -u origin your-branch-name
 ## আপোনাৰ পৰিবৰ্তনসমূহ পৰ্যালোচনাৰ বাবে জমা দিয়ক
 যদি আপুনি GitHub ত আপোনাৰ ৰেপ'জিট'ৰিটোত যায়, আপুনি `Compare & pull request` বুটামটো দেখিব। এই বুটামটোত ক্লিক কৰক।
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="এখন পুল ৰিকুৱেষ্ট সৃষ্টি কৰক" />
 
 Pull Request জমা দিয়ক
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="পুল ৰিকুৱেষ্ট জমা কৰক" />
 
 আপোনাৰ পৰিবৰ্তনসমূহ তাড়তে প্ৰকল্পৰ মুখ্য শাখাত মিলাই দিম। পৰিবৰ্তনসমূহ মিলোৱা হ'লে আপুনি এটা অৱগতিমূলক ইমেইল লাভ কৰিব।
 
