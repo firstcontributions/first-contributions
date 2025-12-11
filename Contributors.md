@@ -713,6 +713,7 @@
 - [Kavindi](https://github.com/kavindidilhara)
 - [Salman Siddique](https://github.com/salman-eng)
 - [Titus James](https://github.com/tj330)
+- [Xin Tong](https://github.com/Tomaskido)
 - [Hu TianHang](https://github.com/HTH24)
 - [HiParham](https://github.com/hiparham)
 - [Ali Saad](https://github.com/AliSaa78)
