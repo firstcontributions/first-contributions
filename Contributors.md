@@ -12,6 +12,7 @@
 - [Srijan_Limbu](https://github.com/DevendraNathLimbu) : Love you guys ❤️
 - [madhavmadupu](https://github.com/madhavmadupu)
 - [Dhwanit Patel](https://github.com/dhwanit10)
+- [Shreya-103](https://github.com/shreya-103) : so so excited for open source contributions
 - [GH03T](https://github.com/GH03T)
 - [Lam](https://github.com/LamNz79)
 -[Mamta Adivasi](https://github.com/milli525)
@@ -2053,4 +2054,5 @@ sujoy
 - [Rafael Ribeiro](https://github.com/rribeiro93)
 - [Ridho Purnomo](https://github.com/ridopurnomo86)
 - [Ponnarasu A](https://github.com/ponnarasua)
+- [One Sided](https://github.com/TheOnesided)
 - [Ankit](https://www.youtube.com/watch?v=u3y1MqX4egE)
