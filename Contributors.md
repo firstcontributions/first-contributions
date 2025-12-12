@@ -198,6 +198,7 @@ Nick
 - [ODK] (https://github.com/odokyoung)
 - [Ntale Swamadu] (https://github.com/Ntale3)
 - [yaeth](https://github.com/yaeth)
+- [Prisha Jaiswal](https://github.com/prishajaiswal75)
 - [PoncheDeFrutas](https://github.com/PoncheDeFrutas)
 - [Tejinderpal Singh](http://github.com/tejinderpa)
 - [pvpeuve](https://github.com/pvpeuve)
