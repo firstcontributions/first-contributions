@@ -1997,6 +1997,7 @@ sujoy
 - [Dravid P A](https://github.com/dravidpa7)
 - [Programko GJJ](https://github.com/programkogjj/first-contributions.git)
 - [Swapna S](https://github.com/swapcodes)
+- [Kushal Chavan](https://github.com/Kushalchavan)
 - [Derek Nguyen](https://github.com/derekn4)
 -[kunjal](https://github.com/kunjalmalakar)
 - [Saileela145](https://github.com/Saileela145)
