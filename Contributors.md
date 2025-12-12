@@ -242,6 +242,7 @@ Nick
 - [LiBei1123](https://github.com/LiBei1123)
 - [Priyanshu Dubey](https://github.com/priyanshudubey)
 - [Gabriel S](https://github.com/gabriel-silveirinha)
+- [Ram S](https://github.com/RamSamudrala05)
 - [Konstantinos Pavlides](https://github.com/KonstantinosP01)
 - [UltraInstinct21] (https://github.com/UltraInstinct21)
 - Shreya Mane (GitHub: shreyamane1526)
