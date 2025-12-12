@@ -5,6 +5,7 @@
 -[Ayush Gohil](https://github.com/ayushgohil)
 - [Sriharshini Kuruvella](https://github.com/Sriharshini7)
 - [Khamza Zhanbolat](https://github.com/KhamzaZhanbolat)
+- [Jiaqi Fan](https://github.com/jiaqifan42)
 - [Chris Tandoh](https://github.com/Christandoh)
 - [Lenin Castellano](https://github.com/lenincastellano)
 - [Varun Sonwane](https://github.com/varunsonawane) 
