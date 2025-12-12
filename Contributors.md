@@ -2087,6 +2087,7 @@ sujoy
 - [Otavio Góes](https://github.com/ogoess1999)
 - [Kishan] (https://github.com/kishanmaurya621-dev)
 - [weiyu lin](https://github.com/lin-weiyu)
+- [Ferdi Turan](https://github.com/ferdiiiiiiii)
 - [Chang Liu](https://github.com/canyonliu8-code)
 - [Jeevan Sai](https://github.com/Jeevan-uz)
 - [Anushka Aggarwal](https://github.com/anushka146)
