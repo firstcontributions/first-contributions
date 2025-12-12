@@ -17,6 +17,7 @@
 - [madhavmadupu](https://github.com/madhavmadupu)
 - [Dhwanit Patel](https://github.com/dhwanit10)
 - [Shreya-103](https://github.com/shreya-103) : so so excited for open source contributions
+- [Chahat Nandrajog](https://github.com/chahatnandrajog): My first open source contribution!
 - [GH03T](https://github.com/GH03T)
 - [Lam](https://github.com/LamNz79)
 -[Mamta Adivasi](https://github.com/milli525)
