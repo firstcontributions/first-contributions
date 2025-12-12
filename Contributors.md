@@ -65,6 +65,7 @@ Samarjit Singh Uppal(https://github.com/Samarjitdk)
 -[Shubh Jain](https://github.com/shubhj8989)
 scandi
 -[Robicks] (Lets do it)
+- [Nick Kilzer](https://github.com/breakfastscience)
 -[SK] (https://github.com/sachit62)
 -[Sumit Chandora](https://github.com/sumitchandora)
 -[Mikaela Flaherty](https://github.com/mikaelaflaherty)
