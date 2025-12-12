@@ -117,6 +117,7 @@ Nick
 - [GiannisGeo] Areianara mono re malakes
 - [Sanidhya] (https://github.com/Sanidhyavijay24)
 - [Shloka] (https://github.com/shlokawalekar)
+- [Karthik Pulipati] (Hello_World.java)
 - [Caleb Perkins](https://github.com/caleb-p93)
 -[Prashlesh Pratap Singh](https://github.com/vengeanceprashlesh)
 - [Robert Davis](https://github.com/robertdavis)
