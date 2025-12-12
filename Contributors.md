@@ -2,6 +2,7 @@
 - [Rifaldo](https://github.com/Rifaldo-dev)
 [Andres Fdez] (https://github.com/amfv-GR/first-contributions)
 [Pratham Chavhan](https://github.com/prathamchavhan)
+-[Ayush Gohil](https://github.com/ayushgohil)
 - [Sriharshini Kuruvella](https://github.com/Sriharshini7)
 - [Khamza Zhanbolat](https://github.com/KhamzaZhanbolat)
 - [Chris Tandoh](https://github.com/Christandoh)
