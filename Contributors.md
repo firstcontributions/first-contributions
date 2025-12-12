@@ -1975,6 +1975,7 @@ sujoy
 - [Prince Singh] (https://github.com/Prince-Singh-Dev)
 - Carlos Cruz
 - [PhishDestroy] (https://github.com/phishdestroy) 
+- [Eddy] (https://github.com/eddy-swe)
 - [Cendemie Behagan](https://github.com/demiebehagan)
 - [XLASh] (https://github.com/XlaSh9914)
 - [Prem Jay](https://github.com/BruteForceRonin)
