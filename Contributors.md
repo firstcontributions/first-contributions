@@ -730,6 +730,7 @@ sujoy
 - [TOK7O](https://github.com/TOK7O)
 - [Pedro Silva](https://github.com/pcconraria)
 - [qrywo](https://github.com/qrywo)
+- [Thomas Phan](https://github.com/thomasmphan)
 - [ma3ti](https://github.com/ma3ti)
 - [Calum Taylor] (https://github.com/GreatSandwiches)
 - [Peremil-Söderström] (myinnerscope.com)
