@@ -146,6 +146,7 @@ scandi
 - [mirza](https://github.com/imhasnain)
 - [kanosa](https://github.com/kanosa0101)
 - [aym](https://github.com/onepunaym)
+- [Manish Joshi](https://github.com/manish-j576)
 - [Vaibhav Dhariwal](https://github.com/VaibhavDhariwal8)
 - [Thejus Kannoth](https://github.com/ThejusKannoth)
 - [nikitatows](https://github.com/nikitatows)
