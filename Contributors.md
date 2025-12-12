@@ -183,6 +183,7 @@ Nick
 - [Liger_18.](https://github.com/mayurdongare269)
 - [mtxasmgkr](https://github.com/mtxasmgkr)
 - [Vraj Patel](https://github.com/VrajPatel105)
+- [Lucas Navarro](https://github.com/Durza71)
 - [Raghuram]
 - [Reynhard](https://github.com/reybui)
 - [Sohail](https://github.com/sohail78692)
