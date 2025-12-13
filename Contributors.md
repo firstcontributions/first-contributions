@@ -1,4 +1,5 @@
-# Contributors
+# 
+- [Jaivika Agare]
 - [Deepanshu Mishra](https://github.com/Deepanshumishra2004)
 - [Rifaldo](https://github.com/Rifaldo-dev)
 [Andres Fdez] (https://github.com/amfv-GR/first-contributions)
@@ -169,6 +170,7 @@ Nick
 - [iSymbol](https://github.com/iSyIt)
 - [Ravi Raj Choudhary](https://github.com/ravirajchoudhary03)
 - [al-ocin]
+- [Aditya Das](https://github.com/AdityaDas496)
 - [Koji Kawamura](https://github.com/kouji0705)
 - [Jahnavi](https://github.com/Jahnavi41)
 - [Ava16](https://github.com/Ava16)
@@ -2105,3 +2107,4 @@ sujoy
 - [Vaishnavi KN](https://github.com/Vaishnavi-KN)
 - [Aditya Deshwal](https://github.com/adityadeshwal2529)
 - [cybercat10](https://github.com/cybercat10)
+- [Walter Banda](https://github.com/WalterBanda123)
