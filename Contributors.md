@@ -2,9 +2,10 @@
 - [Jaivika Agare]
 - [Deepanshu Mishra](https://github.com/Deepanshumishra2004)
 - [Rifaldo](https://github.com/Rifaldo-dev)
-[Andres Fdez] (https://github.com/amfv-GR/first-contributions)
-[Pratham Chavhan](https://github.com/prathamchavhan)
--[Ayush Gohil](https://github.com/ayushgohil)
+- [Andres Fdez] (https://github.com/amfv-GR/first-contributions)
+- [Pratham Chavhan](https://github.com/prathamchavhan)
+- [Ayush Gohil](https://github.com/ayushgohil)
+- [Aravind Vinod](https://github.com/aaarrvind) : Trying out open source :)
 - [Sriharshini Kuruvella](https://github.com/Sriharshini7)
 - [Soumyadip Dutta](https://github.com/Soumyadip1004)
 - [Khamza Zhanbolat](https://github.com/KhamzaZhanbolat)
