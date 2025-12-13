@@ -236,7 +236,7 @@ Ako želite još vežbe, pogledajte [code contributions](https://github.com/rosh
 
 A sada, hajde da počnete sa doprinosom na drugim projektima. Napravili smo spisak projekata sa jednostavnim problemima na kojima možete početi da radite. Pogledajte [spisak projekata na sajtu](https://firstcontributions.github.io/#project-list).
 
-### [Dodatni materijali](../additional-material/git_workflow_scenarios/additional-material.md)
+### [Dodatni materijali](../additional-material/translations/Serbian/Latin/additional-material.sr-Latn.md)
 
 ## Uputstva za druge alate <a id="tutorials-using-other-tools"></a>
 
