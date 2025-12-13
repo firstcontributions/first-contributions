@@ -53,6 +53,7 @@
 yash goat
 -[Aditya Singh](https://github.com/Student-aditya123) : Hello gyus 😍
 -[HARI-PRAKASH-S](https://github.com/HARI21HP)
+-[Bhaavya Sinha](https://github.com/Bhaavyasinha):...
 -[Gaurang Gupta](https://github.com/Gauranggupta2323)
 Samarjit Singh Uppal(https://github.com/Samarjitdk)
 -[MURALIKRISHNAN-N](https://github.com/murali-33011)
@@ -182,6 +183,7 @@ Nick
 - [Liger_18.](https://github.com/mayurdongare269)
 - [mtxasmgkr](https://github.com/mtxasmgkr)
 - [Vraj Patel](https://github.com/VrajPatel105)
+- [Lucas Navarro](https://github.com/Durza71)
 - [Raghuram]
 - [Reynhard](https://github.com/reybui)
 - [Sohail](https://github.com/sohail78692)
@@ -229,6 +231,7 @@ Nick
 - [Venkata Ramprasad Pade](https://github.com/ramprasad-13)
 - [- Gaurav Mandal](https://github.com/gaurav8228/)
 - [Dewanshu Goswami](https://github.com/TheMatrix31415926)
+- [Hamady Lamine Danioko](https://github.com/crafto-dnk)
 - [Dhanush M](https://github.com/Dhanush27m)
 - [microintel](https://github.com/microintel)
 - [Oscar Miranda](https://github.com/oimirandaa)
@@ -236,6 +239,7 @@ Nick
 - [Vipin Mishra](https://github.com/VipinMI2024)
 - [kanosa](https://github.com/kanosa0101)
 - [aym](https://github.com/onepunaym)
+- [Manish Joshi](https://github.com/manish-j576)
 - [Vaibhav Dhariwal](https://github.com/VaibhavDhariwal8)
 - [Thejus Kannoth](https://github.com/ThejusKannoth)
 - [nikitatows](https://github.com/nikitatows)
@@ -568,6 +572,7 @@ sujoy
 - [Yash Shirgaonkar](https://github.com/Yashs02-code)
 - [Sushant More](https://github.com/Sushant-More-1921)
 - [Malvin-sehmaluva-Machingura](https://github.com/sehmaluva)
+- [Trung Quoc Nguyen](https://github.com/Trungsherlock)
   [My_first_Contribution]
   [Mi_primera_contribucion_ange]
 - [Davide Loconte](https://github.com/DavideLoconte)
@@ -2095,3 +2100,4 @@ sujoy
 - [Pranay](https://github.com/pranayyyy6)
 - [Derrel Tedianto](https://github.com/PakLer123)
 - [Vaishnavi KN](https://github.com/Vaishnavi-KN)
+- [Aditya Deshwal](https://github.com/adityadeshwal2529)
