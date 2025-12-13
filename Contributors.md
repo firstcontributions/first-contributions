@@ -2112,3 +2112,4 @@ sujoy
 - [cybercat10](https://github.com/cybercat10)
 - [Walter Banda](https://github.com/WalterBanda123)
 - [idris K.]
+- - [Vaibhav Mali](https://github.com/Vaibhav34-2006)
