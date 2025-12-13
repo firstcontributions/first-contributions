@@ -1,4 +1,5 @@
-# Contributors
+# 
+- [Jaivika Agare]
 - [Deepanshu Mishra](https://github.com/Deepanshumishra2004)
 - [Rifaldo](https://github.com/Rifaldo-dev)
 [Andres Fdez] (https://github.com/amfv-GR/first-contributions)
