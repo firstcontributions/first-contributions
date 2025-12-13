@@ -220,7 +220,7 @@ Nick
 - [KARUNYA](https://github.com/BonitoFlakes-afk)
 - [Chia](https://github.com/chia-chang)
 - [Anas Ali](https://github.com/Anas-16)
-- [2400060033](https://github.com/2400060033)
+- [2400060031](https://github.com/2400060033)
 - [lionsol](https://github.com/lionsol)
 - [Bhumi](https://github.com/bansalbhumi)
 - [Rajput Aditya Singh](https://github.com/Rajadi16)
@@ -2110,3 +2110,4 @@ sujoy
 - [Aditya Deshwal](https://github.com/adityadeshwal2529)
 - [cybercat10](https://github.com/cybercat10)
 - [Walter Banda](https://github.com/WalterBanda123)
+- [idris K.]
