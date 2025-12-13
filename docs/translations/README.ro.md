@@ -10,7 +10,7 @@ Acest proiect își propune să simplifice și să îndrume modul în care înce
 
 _Dacă nu vă simțiți confortabil folosind linia de comandă, [aici sunt tutoriale folosind alte unelte (GUI)](#tutoriale-folosind-alte-unelte)._
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="Realizați bifurcația depozitului" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="realizați un fork al acestui depozit" />
 
 #### Dacă nu ai git instalat, [instalează-l](https://help.github.com/articles/set-up-git/).
 
@@ -21,7 +21,7 @@ Aceasta va crea o copie a acestui depozit în contul dvs.
 
 ## Clonați depozitul
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="Clonați acest depozit" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clonează acest depozit" />
 
 Acum clonați depozitul bifurcat pe computerul dvs. Mergeți în contul dvs. GitHub, deschideți depozitul bifurcat, apăsați pe butonul `Code` și apoi pe pictograma de _copiere în clipboard_.
 
@@ -32,7 +32,7 @@ git clone "URL-ul pe care l-ați copiat"
 ```
 unde `URL-ul pe care l-ați copiat` (fără ghilimele) este URL-ul către acest depozit (bifurcarea dvs. a acestui proiect). Consultați pașii anteriori pentru a obține URL-ul.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="Copiați URL-ul în clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copiază URL-ul în clipboard" />
 
 De exemplu:
 
@@ -65,7 +65,7 @@ git switch -c adaug-alonzo-church
 
 Acum deschideți fișierul `Contributors.md` într-un editor de text, adăugați-vă numele în el. Nu-l adăugați la începutul sau la sfârșitul fișierului. Puneți-l oriunde între acestea. Apoi, salvați fișierul.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="Stare git" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
 Dacă mergeți în directorul proiectului și executați comanda `git status`, veți vedea că există modificări.
 
@@ -108,11 +108,11 @@ Mergeți la [tutorialul GitHub](https://docs.github.com/en/authentication/connec
 
 Dacă mergeți în depozitul dvs. de pe GitHub, veți vedea un buton `Compară și cereți trageri`. Faceți clic pe acest buton.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="Creați o cerere de tragere" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="creează un pull request" />
 
 Acum trimiteți cererea de tragere.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="Trimiteți cererea de tragere" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="Trimite pull request-ul" />
 
 În curând, voi integra toate modificările dvs. în ramura principală a acestui proiect. Veți primi o notificare prin e-mail odată ce modificările vor fi integrate.
 
