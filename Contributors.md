@@ -572,6 +572,7 @@ sujoy
 - [Yash Shirgaonkar](https://github.com/Yashs02-code)
 - [Sushant More](https://github.com/Sushant-More-1921)
 - [Malvin-sehmaluva-Machingura](https://github.com/sehmaluva)
+- [Trung Quoc Nguyen](https://github.com/Trungsherlock)
   [My_first_Contribution]
   [Mi_primera_contribucion_ange]
 - [Davide Loconte](https://github.com/DavideLoconte)
