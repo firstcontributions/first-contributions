@@ -451,6 +451,7 @@ Nick
 - [Dhanush Shetty](https://github.com/dhanush-shetty1)
 - [Oliyad Zelalem](https://github.com/ozimmortal)
 - [Issa Issack](https://github.com/essaissa)
+- [Abusaeed Shuvo](https://github.com/abusaeed-shuvo)
 - [1Z99](https://github.com/1Z99)
 - [Tracey Dingman](https://github.com/tdingman422)
 - [Brayden Monthei](https://github.com/Brayden-Monthei)
