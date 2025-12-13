@@ -2116,3 +2116,4 @@ sujoy
 - [idris K.]
 - - [Vaibhav Mali](https://github.com/Vaibhav34-2006)
 - [logashree](https://github.com/logashreemohan)
+[Shreya Gupta: college girly learning the ropes] https://github.com/shreyaeve 
