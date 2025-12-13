@@ -191,6 +191,7 @@ Nick
 - [karthik shetty](https://github.com/KarthikShetty23)
 - [Bhavesh Desale](https://github.com/bhaveshdesale)
 - [BALAJI](https://github.com/balaji-bheesetti)
+- [Jukaële Jn Louis](https://github.com/Juka004)
 - [alvarosola1](https://github.com/alvarosola1)
 - [sprihapokharel](https://github.com/sprihapokharel)
 - [Ivanich0](https://github.com/Ivanich0)
