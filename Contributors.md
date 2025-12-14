@@ -41,6 +41,7 @@
 [Licence1](LogicielLibrel1)
 - [ayushman pandey](https://github.com/mahoraga777)
 -[ianjosuemendezjimenez11](https://github.com/ianjosuemendezjimenez11)
+-[Faisal Murad](https://github.com/faisal-murad) : Faisal was here!
 -[Chetna Pant](https://github.com/chetnapant20)
 -[Ferdi Gutzy](https://github.com/fgutzy)
 -[Lorenzo Reitani](https://github.com/LorenzoReitani)
