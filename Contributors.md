@@ -14,6 +14,7 @@
 - [Jiaqi Fan](https://github.com/jiaqifan42)
 - [Chris Tandoh](https://github.com/Christandoh)
 - [Lenin Castellano](https://github.com/lenincastellano)
+- [Disha Kurkuri](https://github.com/hellomushrooms)
 - [Varun Sonwane](https://github.com/varunsonawane) 
 - [Lohith Arcot](https://github.com/LohithArcot)
 - [Menuka Hansda](https://github.com/menukahansda)
