@@ -12,7 +12,7 @@ A projekt célja, hogy útmutatást nyújtson, egyszerűsítse és segítse a ke
 
 #### *Ha a parancssor kényelmetlen, [itt egy tutorial a GUI felület használatához.](#Oktatóanyagok-más-eszközök-használatával)*
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="forkold ezt a repót" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="oszd meg ezt a tárat" />
 
 Ha nincs a gépeden git, [telepítsd fel]( https://help.github.com/articles/set-up-git/).
 
@@ -66,7 +66,7 @@ git switch -c add-gabor-takacs
 
 Nyisd meg a `Contributors.md` fájlt egy szövegszerkesztőben, majd add hozzá a neved. Ne a fájl elejére vagy végére helyezd, hanem a kettő közé. A kettő között bárhová teheted. Mentsd el a fájlt.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git állapot" />
 
 
 Ha a project könyvtárába navigálsz és futtatod a `git status` parancsot, akkor a következő módosításokat fogod látni:
@@ -96,11 +96,11 @@ Helyettesítsd az `<a-branch-neve>` kifejezést annak a branchnek a nevével, am
 
 Ha a saját repódba navigálsz GitHub-on, látnod kell a `Compare & pull request` gombot. Kattints rá!
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="pull request készítése" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="hozz létre egy pull request-et" />
 
 Sikeresen elküldted a pull requested.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="pull request beküldése" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="küldd be a pull request-et" />
 
 Kis idő elteltével összevonja a változásokat a project fő ágában. Értesítést fogsz kapni emailben, ha a változások összefűzésre kerültek.
 
