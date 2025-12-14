@@ -81,6 +81,7 @@ Samarjit Singh Uppal(https://github.com/Samarjitdk)
 -[Nerd-SWAYAM] (https://github.com/LightYagami625)
 -[Shubh Jain](https://github.com/shubhj8989)
 scandi
+SafGit-6
 -[Robicks] (Lets do it)
 -[SK] (https://github.com/sachit62)
 -[Sumit Chandora](https://github.com/sumitchandora)
