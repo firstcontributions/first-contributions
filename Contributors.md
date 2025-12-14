@@ -13,6 +13,7 @@
 - [Chris Tandoh](https://github.com/Christandoh)
 - [Lenin Castellano](https://github.com/lenincastellano)
 - [Varun Sonwane](https://github.com/varunsonawane) 
+- [Lohith Arcot](https://github.com/LohithArcot)
 - [Menuka Hansda](https://github.com/menukahansda)
 - [keshankumara](https://github.com/keshankumara)
 - [Sandeep Kumar](https://github.com/sandeep-sk)
