@@ -2035,6 +2035,7 @@ sujoy
 - Jonathan Hess
 - Brandon Hurst
 - Jack Lab
+- Kadir Kantar
 - [Viren Sumbly](https://github.com/VirenSumbly)
 = [Shehran Nifazdeen](https://github.com/Shehran06)
 - [张喜昌](https://github.com/ZhangXiChang)
@@ -2119,4 +2120,4 @@ sujoy
 - [idris K.]
 - - [Vaibhav Mali](https://github.com/Vaibhav34-2006)
 - [logashree](https://github.com/logashreemohan)
-[Shreya Gupta: college girly learning the ropes] https://github.com/shreyaeve 
+[Shreya Gupta: college girly learning the ropes] https://github.com/shreyaeve
