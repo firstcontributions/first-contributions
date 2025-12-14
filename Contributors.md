@@ -1,6 +1,5 @@
 # 
 - [Amar Kant Diwakar](https://github.com/Amarworks)
-
 - [Adithyan Sunilkumar](https://github.com/Adithyansunilkumar)
 - [Jaivika Agare]
 - [Deepanshu Mishra](https://github.com/Deepanshumishra2004)
