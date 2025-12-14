@@ -27,6 +27,7 @@
 - [Shreya-103](https://github.com/shreya-103) : so so excited for open source contributions
 - [Chahat Nandrajog](https://github.com/chahatnandrajog): My first open source contribution!
 - [GH03T](https://github.com/GH03T)
+- [StrangelyDone]
 - [Lam](https://github.com/LamNz79)
 -[Mamta Adivasi](https://github.com/milli525)
 -[Taranjot Singh](https://github.com/Randhawa1255)
