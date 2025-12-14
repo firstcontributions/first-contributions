@@ -2120,6 +2120,7 @@ sujoy
 - [cybercat10](https://github.com/cybercat10)
 - [Walter Banda](https://github.com/WalterBanda123)
 - [idris K.]
+- [Shashank Lakhaiyar](https://github.com/shawshank-fork)
 - - [Vaibhav Mali](https://github.com/Vaibhav34-2006)
 - [logashree](https://github.com/logashreemohan)
 [Shreya Gupta: college girly learning the ropes] https://github.com/shreyaeve
