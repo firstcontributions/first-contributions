@@ -23,6 +23,7 @@
 - [keshankumara](https://github.com/keshankumara)
 - [Sandeep Kumar](https://github.com/sandeep-sk)
 - [Praveen Gupta](https://github.com/Praveen-0k9)
+- [Trevor Tippery](https://github.com/trevortippery)
 - [Shunsuke Takanishi](https://github.com/shunsuke-takanishi)
 - [Olu](https://github.com/AfecoO)
 - [Stephen Hiscock](https://github.com/stevodevo1) ✅
