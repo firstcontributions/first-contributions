@@ -1,7 +1,11 @@
+
+
+
+0# Contributions 
 # 
 - [Adithyan Sunilkumar](https://github.com/Adithyansunilkumar)
 - [Jaivika Agare]
-- [Deepanshu Mishra](https://github.com/Deepanshumishra2004)
+- [Deepanshu Mishra](https://github.com/Deep
 - [Rifaldo](https://github.com/Rifaldo-dev)
 [Andres Fdez] (https://github.com/amfv-GR/first-contributions)
 [Pratham Chavhan](https://github.com/prathamchavhan)
@@ -196,6 +200,7 @@ Nick
 - [karthik shetty](https://github.com/KarthikShetty23)
 - [Bhavesh Desale](https://github.com/bhaveshdesale)
 - [BALAJI](https://github.com/balaji-bheesetti)
+- [Jukaële Jn Louis](https://github.com/Juka004)
 - [alvarosola1](https://github.com/alvarosola1)
 - [sprihapokharel](https://github.com/sprihapokharel)
 - [Ivanich0](https://github.com/Ivanich0)
