@@ -2114,6 +2114,7 @@ sujoy
 - [mb-ttl](https://github.com/mb-ttl) - testing!
 - [Osman Kaplan](https://github.com/kplnosmn94-droid)
 - [sharan](https://github.com/sharan112233)
+- [kusho21](https://github.com/kusho21)
 - Aishwarya Prakash
 - [Andi H](https://github.com/AndyH-78/)
 - [Otavio Góes](https://github.com/ogoess1999)
