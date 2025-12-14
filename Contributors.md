@@ -126,6 +126,7 @@ Nick
  - [mukeshdidel] (https://github.com/mukeshdidel)
  - [Sanjib77] (https://github.com/sanjib77)
  - [Sadeep Dilshan Kasthuriarachchi](https://github.com/sadeep654)
+ - [Aniket Dinde](https://github.com/aniketmdinde)
  - [Omkar] (https://github.com/omk18p)
  - [Lasisi Ibrahim Pelumi] (https://github.com/ibrahimpelumi6142)
  - [Liam Reckziegel] (https://github.com/reckziegelwilliam)
