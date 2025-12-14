@@ -1108,6 +1108,7 @@ sujoy
 - [Gnanika](https://github.com/Gnanika710)
 - [Kai Krah](https://github.com/KaiKrah79)
 - [benHitt](https://github.com/benHitt123)
+- [Azaelrock0](https://github.com/azaelrock0)
 - [Eoin Breen](https://github.com/ebreen1)
 - [Fuad Hasan](https://github.com/itsfuad)
 - [tmmiizzuu](https://github.com/tmmiizzuu)
