@@ -9,7 +9,7 @@ Manahirana antsika foana indraindray ny manomboka zavatra amin'ny voalohany. Tsy
 
 Tadidio fa tsy hahay mihitsy ianao raha tsy manandrana ary ny fahadisoana azo no hahazoanao traikefa. Raha te hahay ny fomba fandraisana anjara amin'ny fifampizarana ary dia araho ireto dingana manaraka ireto:
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="Mampifandraiso ity takelaka ity" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="Mampifandraiso ity tahiry ity" />
 
 Raha mbola tsy misy git ny solosainao, [ ampidiro izy ]( https://help.github.com/articles/set-up-git/ ).
 
@@ -19,7 +19,7 @@ Raha te hampifandray an'ity takelaka ity amin'ny kaontinao ianao dia tsindrio il
 
 ## Dikao mitovy ity takelaka ity ao amin'ny solosainao
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="Dikao mitovy ity takelaka ity" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="Dikao mitovy ity tahiry ity" />
 
 Raha te hanao dika mitovy an'ity takelaka ity ianao, dia mankanesa ao amin'ny kaontinao "Github" ary sokafy ilay takelaka nampifandraisinao. Tsindrio ilay bokotra misy soratra hoe "Code" etsy ambony, tsindrio ilay sary fahamantarana manao kopia.
 
