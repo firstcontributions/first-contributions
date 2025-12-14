@@ -42,6 +42,7 @@
 - [VanshSharma] (https://github.com/vanshsharma-11) - Yeah, i was here!
 - [Adarsh Kadam](https://github.com/adarsh47-bug)
 - [Sudi Williams](https://github.com/sudi-W)
+- [Nirav Vala](https://github.com/valanirav)
 - [Saidkamol Mirsaidov](https://github.com/SaidKamol0612)
 - [Anand](https://github.com/00anandmishra)
 - [koushik sai](https://github.com/koushik-sai) : My first contribution
