@@ -784,6 +784,7 @@ sujoy
 - [Kmogun](https://github.com/kmogun)
 - [mkvaishnavi](https://github.com/mkvaishnavi)
 - [Chris C](https://github.com/xboof)
+-[Ishita345678](https://github.com/Ishita345678)
 - [tusharsoni52](https://github.com/tusharsoni52)
 - [dnnygmez11](https://github.com/dnnygmez11)
 - [lecsim](https://github.com/lecsim)
