@@ -3,6 +3,7 @@
 - [Jaivika Agare]
 - [Deepanshu Mishra](https://github.com/Deepanshumishra2004)
 - [Rifaldo](https://github.com/Rifaldo-dev)
+- [Adarsh Jayfale](https://github.com/Adj1122)
 [Andres Fdez] (https://github.com/amfv-GR/first-contributions)
 [Pratham Chavhan](https://github.com/prathamchavhan)
 -[Ayush Gohil](https://github.com/ayushgohil)
