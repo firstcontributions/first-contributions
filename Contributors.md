@@ -33,6 +33,7 @@
 - [Dhwanit Patel](https://github.com/dhwanit10)
 - [Shreya-103](https://github.com/shreya-103) : so so excited for open source contributions
 - [Chahat Nandrajog](https://github.com/chahatnandrajog): My first open source contribution!
+- [sanskrutidagade] (https://github.com/sanskrutidagade): my first open source contribution!
 - [GH03T](https://github.com/GH03T)
 - [StrangelyDone]
 - [Lam](https://github.com/LamNz79)
