@@ -3,6 +3,7 @@
 - [Aditya kumar](https://github.com/Aditya754194)
 - [Amar Kant Diwakar](https://github.com/Amarworks)
 - [Adithyan Sunilkumar](https://github.com/Adithyansunilkumar)
+- [Bharat Maheshwari](https://github.com/BM840)
 - [Jaivika Agare]
 - [Deepanshu Mishra](https://github.com/Deepanshumishra2004)
 - [Rifaldo](https://github.com/Rifaldo-dev)
@@ -19,6 +20,7 @@
 - [Jiaqi Fan](https://github.com/jiaqifan42)
 - [Chris Tandoh](https://github.com/Christandoh)
 - [Lenin Castellano](https://github.com/lenincastellano)
+- [Marco Biaggi](https://github.com/mafpbiaggi)
 - [Disha Kurkuri](https://github.com/hellomushrooms)
 - [Arnav Saraswat](https://github.com/arnavs-uol)
 - [Varun Sonwane](https://github.com/varunsonawane) 
@@ -46,6 +48,7 @@
 - [Lam](https://github.com/LamNz79)
 - [Mamta Adivasi](https://github.com/milli525)
 - [Taranjot Singh](https://github.com/Randhawa1255)
+- [Sarvesh Malikakandy](https://github.com/sarveshm27)
 - [webmastervetea](https://github.com/webmastervetea)
 - [VanshSharma](https://github.com/vanshsharma-11) - Yeah, i was here!
 - [Adarsh Kadam](https://github.com/adarsh47-bug)
@@ -415,6 +418,7 @@
 - Dipak Rasal
 - [Dipak Rasal](https://dipakrasal2009)
 - [Tommy Brill](https://github.com/neutronpmp)
+- [Arnolfo Aquino](https://github.com/arnolfoaquino)
 - [Arpit Baghla](https://github.com/arpitbaghla)
 - [Chamith Dilshan Tharuka](https://github.com/ChamithDilshanTharuka)
 - [Thato M](https://github.com/aLearningLad)
