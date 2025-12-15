@@ -19,6 +19,7 @@
 - [Jiaqi Fan](https://github.com/jiaqifan42)
 - [Chris Tandoh](https://github.com/Christandoh)
 - [Lenin Castellano](https://github.com/lenincastellano)
+- [Marco Biaggi](https://github.com/mafpbiaggi)
 - [Disha Kurkuri](https://github.com/hellomushrooms)
 - [Arnav Saraswat](https://github.com/arnavs-uol)
 - [Varun Sonwane](https://github.com/varunsonawane) 
