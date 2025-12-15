@@ -1,5 +1,5 @@
 # 
-- [Abhay Soni](https://github.com/abhikhurannah)
+- [Abhay Kumar](https://github.com/abhikhurannah)
 - [Aditya kumar](https://github.com/Aditya754194)
 - [Amar Kant Diwakar](https://github.com/Amarworks)
 - [Adithyan Sunilkumar](https://github.com/Adithyansunilkumar)
