@@ -23,7 +23,7 @@
 - [Menuka Hansda](https://github.com/menukahansda)
 - [keshankumara](https://github.com/keshankumara)
 - [Sandeep Kumar](https://github.com/sandeep-sk)
-- [Dipendra Chandel](https://github.com/DipendraChandel)
+- [Dipendra S Chandel](https://github.com/DipendraChandel)
 - [Praveen Gupta](https://github.com/Praveen-0k9)
 - [Trevor Tippery](https://github.com/trevortippery)
 - [Shunsuke Takanishi](https://github.com/shunsuke-takanishi)
