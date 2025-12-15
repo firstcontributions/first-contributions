@@ -2174,6 +2174,7 @@ sujoy
 - [Hansaka Sudusinghe](https://github.com/it21279584)
 - [Subodh Kumar Swain](https://github.com/Subodg-12)
 - [Barbara Darius](https://github.com/DariusBar)
+- [Vexo413](https://github.com/Vexo413)
 - [Jesus Rey Gonzalez](https://github.com/jesusthecreator017)
 - [lynn ](https://github.com/yy2511)
 - [ch Abhinav] (https://github.com/Ch-Abhinav-Chowdary)
