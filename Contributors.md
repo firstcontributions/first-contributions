@@ -1,4 +1,5 @@
-# 
+#
+-[Soujanya](https://github.com/Soujanya30-dev) 
 - [Aditya kumar](https://github.com/Aditya754194)
 - [Amar Kant Diwakar](https://github.com/Amarworks)
 - [Adithyan Sunilkumar](https://github.com/Adithyansunilkumar)
@@ -11,6 +12,7 @@
 -[priya raj](https://github.com/pri-laxmi)
 -[Ayush Gohil](https://github.com/ayushgohil)
 - [Sriharshini Kuruvella](https://github.com/Sriharshini7)
+- [Sayan Banerjee](https://github.com/sayan14banerjee)
 - [Sourav Mitra](https://github.com/SouravMitra98): My first Contribution
 - [Soumyadip Dutta](https://github.com/Soumyadip1004)
 - [Khamza Zhanbolat](https://github.com/KhamzaZhanbolat)
@@ -87,6 +89,7 @@ Samarjit Singh Uppal(https://github.com/Samarjitdk)
 -[Nerd-SWAYAM] (https://github.com/LightYagami625)
 -[Shubh Jain](https://github.com/shubhj8989)
 scandi
+SafGit-6
 -[Robicks] (Lets do it)
 - [Nick Kilzer](https://github.com/breakfastscience)
 -[SK] (https://github.com/sachit62)
@@ -628,6 +631,7 @@ sujoy
 - [Shreya Sethu](https://github.com/shreyasethu)
 - [Anandb71](https://github.com/Anandb71)
 - [Sumedha G](https://github.com/vvgatlanta-cell)
+- [Priya Shah](https://github.com/priiyoCoding)
 - [Shubhankar Pandey](https://github.com/shubxdoc)
 - [Star](https://github.com/star-ges)
 - [Enstant](https://github.com/Enstant)
