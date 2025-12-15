@@ -17,6 +17,7 @@
 - [Chris Tandoh](https://github.com/Christandoh)
 - [Lenin Castellano](https://github.com/lenincastellano)
 - [Disha Kurkuri](https://github.com/hellomushrooms)
+- [Arnav Saraswat](https://github.com/arnavs-uol)
 - [Varun Sonwane](https://github.com/varunsonawane) 
 - [Lohith Arcot](https://github.com/LohithArcot)
 - [Menuka Hansda](https://github.com/menukahansda)
