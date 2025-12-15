@@ -2154,5 +2154,6 @@ sujoy
 - [Hamza Qureshi](https://github.com/hamzaq453)
 - [Hansaka Sudusinghe](https://github.com/it21279584)
 - [Subodh Kumar Swain](https://github.com/Subodg-12)
+- [Barbara Darius](https://github.com/DariusBar)
 - [Jesus Rey Gonzalez](https://github.com/jesusthecreator017)
 - [lynn ](https://github.com/yy2511)
