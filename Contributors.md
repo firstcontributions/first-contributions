@@ -93,6 +93,7 @@ scandi
 -[Lerisa Desai](https://github.com/lerisa1112)
 -[Kush Sengar](https://github.com/kushsengar)
 -[Aadyot Nandan](https://github.com/Aadyot1)
+- [Claire Park](https://github.com/claire-blue-park)
 -[DavidAashish](https://github.com/david-aashish) 
 -[Sai Kumar](https://github.com/sai-kumar2413)
 -[Mohit Gunani](https://github.com/mohit1221iitian)
