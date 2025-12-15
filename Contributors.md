@@ -1936,6 +1936,7 @@ sujoy
 - [DONGMIN](https://github.com/fftl)
 - [Vivek Kumar](https://github.com/vivekkumarrathour)
 - [Pratyush Mishra](https://github.com/pratyushmishra9920-ship-it)
+- [Noah Kim](https://github.com/gratisreise)
 - kodurikeerthana
 - [Merlin Dust](https://github.com/DustMerlin)
 - [Fru](https://github.com/ladalar)
