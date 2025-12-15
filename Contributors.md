@@ -307,6 +307,7 @@ Nick
 - [ Kartikey ](https://github.com/Kartikeyji17)
 - [Aswanth KT](https://github.com/aswanth-kt)
 - [Yuvraj Chauhan](https://github.com/Yuvraj13Chauhan)
+-[Khant](https://github.com/Khantdotcom)
 - [Abhiraj Marne](https://github.com/Abmarne)
 - [Mihir Bhagat](https://github.com/mihirb-6)
 - [Debashis Kar](https://github.com/deba012)
