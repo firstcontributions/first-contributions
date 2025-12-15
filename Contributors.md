@@ -12,6 +12,7 @@
 [Pratham Chavhan](https://github.com/prathamchavhan)
 -[priya raj](https://github.com/pri-laxmi)
 -[Ayush Gohil](https://github.com/ayushgohil)
+- [Mateo Pilaquinga] (https://github.com/BrDenky)
 - [Sriharshini Kuruvella](https://github.com/Sriharshini7)
 - [Sayan Banerjee](https://github.com/sayan14banerjee)
 - [Sourav Mitra](https://github.com/SouravMitra98): My first Contribution
