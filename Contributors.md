@@ -12,6 +12,7 @@
 -[priya raj](https://github.com/pri-laxmi)
 -[Ayush Gohil](https://github.com/ayushgohil)
 - [Sriharshini Kuruvella](https://github.com/Sriharshini7)
+- [Sayan Banerjee](https://github.com/sayan14banerjee)
 - [Sourav Mitra](https://github.com/SouravMitra98): My first Contribution
 - [Soumyadip Dutta](https://github.com/Soumyadip1004)
 - [Khamza Zhanbolat](https://github.com/KhamzaZhanbolat)
