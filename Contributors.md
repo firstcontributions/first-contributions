@@ -418,6 +418,7 @@ Nick
 - Dipak Rasal
 - [Dipak Rasal](https://dipakrasal2009)
 - [Tommy Brill](https://github.com/neutronpmp)
+- [Arnolfo Aquino](https://github.com/arnolfoaquino)
 - [Arpit Baghla](https://github.com/arpitbaghla)
 - [Chamith Dilshan Tharuka](https://github.com/ChamithDilshanTharuka)
 - [Thato M](https://github.com/aLearningLad)
