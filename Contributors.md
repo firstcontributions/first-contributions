@@ -112,6 +112,7 @@ SafGit-6
 - [Claire Park](https://github.com/claire-blue-park)
 -[DavidAashish](https://github.com/david-aashish) 
 -[Sai Kumar](https://github.com/sai-kumar2413)
+-[Hari Charan](https://github.com/charan0g0h)
 -[Mohit Gunani](https://github.com/mohit1221iitian)
 -[programko gjj gg](https://github.com/Pabetrik)
 -[Ajay Chhaya](https://github.com/ajc-lab)
