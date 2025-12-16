@@ -102,6 +102,7 @@ Samarjit Singh Uppal(https://github.com/Samarjitdk)
 -[Saurabh Shakya](https://github.com/Shakya47)
 -[Lukas](https://github.com/tl-lt7)
 -[Mohd Aatif] (https://github.com/atifShaiKh0)
+-[Faslu Rahman] (https://github.com/faslur18)
 -[Nerd-SWAYAM] (https://github.com/LightYagami625)
 -[Shubh Jain](https://github.com/shubhj8989)
 scandi
