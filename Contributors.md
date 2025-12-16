@@ -2187,3 +2187,4 @@ sujoy
 - [Jan Schmid](https://github.com/MysticEntity-dev)
 - [Leo Xu](https://github.com/LeoXu8)
 - [Sandesh Gund](https://github.com/opszx)
+- [Lekhana Mitta] (https://github.com/LekhanaMitta)
