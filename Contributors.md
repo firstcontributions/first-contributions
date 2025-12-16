@@ -1,7 +1,7 @@
 #
 - [Anuj Kumar](https://github.com/Anujpandey12345) 🐧 Follow me For project's and Open Source Contribution.
 - [Amit Kumar Patra](https://github.com/amitkumarpatra99)
-
+- [Pranjali Dhere](https://github.com/Pranjali2005)
 - [CshardZ](https://github.com/CshardZ)
 -[Soujanya](https://github.com/Soujanya30-dev) 
 - [Aditya kumar](https://github.com/Aditya754194)
