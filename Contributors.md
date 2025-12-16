@@ -1,13 +1,7 @@
-#
-- [NIZEYIMANA Placide](https://github.com/cbsdevl)Follow me For project's from rwanda
-- [cbsdevl](https://github.com/cbsdevl)
-- [cbsdevl rwanda](https://github.com/cbsdevl)
-- [cbs rwanda](https://github.com/cbsdevl)
-
+# Contributors
 - [Deepika T](https://github.com/thotaDeepika)
-- [Anuj Kumar](https://github.com/Anujpandey12345) 🐧 Follow me For project's and Open Source Contribution.
+- [Anuj Kumar](https://github.com/Anujpandey12345)
 - [Amit Kumar Patra](https://github.com/amitkumarpatra99)
-
 - [CshardZ](https://github.com/CshardZ)
 -[Soujanya](https://github.com/Soujanya30-dev) 
 - [Aditya kumar](https://github.com/Aditya754194)
