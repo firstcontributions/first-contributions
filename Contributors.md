@@ -13,15 +13,10 @@
 - [Jaivika Agare]
 - [Deepanshu Mishra](https://github.com/Deepanshumishra2004)
 - [Rifaldo](https://github.com/Rifaldo-dev)
-- [Anji Reddy](https://github.com/Anjireddy444)
-- [Adarsh Jayfale](https://github.com/Adj1122)
-[Andres Fdez] (https://github.com/amfv-GR/first-contributions)
-[Pratham Chavhan](https://github.com/prathamchavhan)
-- [Anas Nasr](https://github.com/AnasNasr-afk) 🚀🚀🚀🚀
-- [Shalini Sharma](https://github.com/shalini0002)
--[priya raj](https://github.com/pri-laxmi)
--[Ayush Gohil](https://github.com/ayushgohil)
-- [Mateo Pilaquinga] (https://github.com/BrDenky)
+- [Andres Fdez] (https://github.com/amfv-GR/first-contributions)
+- [Pratham Chavhan](https://github.com/prathamchavhan)
+- [Ayush Gohil](https://github.com/ayushgohil)
+- [Aravind Vinod](https://github.com/aaarrvind) : Trying out open source :)
 - [Sriharshini Kuruvella](https://github.com/Sriharshini7)
 - [Sayan Banerjee](https://github.com/sayan14banerjee)
 - [Sourav Mitra](https://github.com/SouravMitra98): My first Contribution
