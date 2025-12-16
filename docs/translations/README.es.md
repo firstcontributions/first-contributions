@@ -69,7 +69,7 @@ git switch -c add-alonzo-church
 
 Abre el archivo `Contributors.md` en un editor de texto y añade tu nombre. No lo añadas ni al principio ni al final del archivo, hazlo en cualquier otro sitio. Guarda el archivo.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="comando git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="estado de Git" />
 
 Si vas al directorio del proyecto y ejecutas el comando  `git status`, verás que hay cambios.
 
