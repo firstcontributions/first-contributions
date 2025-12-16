@@ -4,7 +4,8 @@
 - [Amit Kumar Patra](https://github.com/amitkumarpatra99)
 - [Pranjali Dhere](https://github.com/Pranjali2005)
 - [CshardZ](https://github.com/CshardZ)
--[Soujanya](https://github.com/Soujanya30-dev) 
+- [Soujanya](https://github.com/Soujanya30-dev) 
+- [Sree Pada](https://github.com/sreepadha102): Follow my portfolio project!!
 - [Aditya kumar](https://github.com/Aditya754194)
 - [Amar Kant Diwakar](https://github.com/Amarworks)
 - [Adithyan Sunilkumar](https://github.com/Adithyansunilkumar)
