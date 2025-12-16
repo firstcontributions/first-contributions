@@ -39,7 +39,6 @@
 - [Caleb Wodi](https://github.com/calchiwo)
 - [Fernando García](https://github.com/fergg66)
 - [Sandeep Kumar](https://github.com/sandeep-sk)
-- [Dipendra S Chandel](https://github.com/DipendraChandel)
 - [Praveen Gupta](https://github.com/Praveen-0k9)
 - [Trevor Tippery](https://github.com/trevortippery)
 - [Shunsuke Takanishi](https://github.com/shunsuke-takanishi)
@@ -91,6 +90,7 @@
 -[Shashank M N](https://github.com/Shashank07-debug)
 -[Oliver Tepper](https://github.com/seacli)
 yash goat
+
 -[Aditya Singh](https://github.com/Student-aditya123) : Hello gyus 😍
 -[HARI-PRAKASH-S](https://github.com/HARI21HP)
 -[Bhaavya Sinha](https://github.com/Bhaavyasinha):...
@@ -2158,6 +2158,7 @@ sujoy
 - [Mario Sanchez](https://github.com/mcn22)
 - [Yuval Cohen](https://github.com/yuval-cohen-dev)
 - [Rafael Ribeiro](https://github.com/rribeiro93)
+-[ram](hello)
 - [Ridho Purnomo](https://github.com/ridopurnomo86)
 - [Ponnarasu A](https://github.com/ponnarasua)
 - [One Sided](https://github.com/TheOnesided)
