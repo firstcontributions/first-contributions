@@ -125,6 +125,7 @@ SafGit-6
 -[programko gjj gg](https://github.com/Pabetrik)
 -[Ajay Chhaya](https://github.com/ajc-lab)
 -[JellyFish] (Free plaestine)
+-[JDSB] (https://github.com/Jdsb06)
 -[Jatin Jangid](https://github.com/jatinjangid369)
 -[Felipe Munoz](https://github.com/pipp3)
 -[Shibo Wang](https://github.com/CyberWhiteBear)
