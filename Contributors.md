@@ -2,7 +2,7 @@
 - [Deepika T](https://github.com/thotaDeepika)
 - [Anuj Kumar](https://github.com/Anujpandey12345) 🐧 Follow me For project's and Open Source Contribution.
 - [Amit Kumar Patra](https://github.com/amitkumarpatra99)
-
+- [Prince Obed](https://github.com/ForgeCircuit)
 - [CshardZ](https://github.com/CshardZ)
 -[Soujanya](https://github.com/Soujanya30-dev) 
 - [Aditya kumar](https://github.com/Aditya754194)
