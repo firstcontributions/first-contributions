@@ -1738,7 +1738,7 @@ sujoy
 - [Christian-Code](https://github.com/ncgiron)
 - [ColorCode](https://github.com/benjaAguilar)
 - [Craig Jantzen](https://github.com/jantzenc)
-- [Cristian Rios](https://github.com/rioscris)
+- [Jose Rios](https://github.com/rios-jose)
 - [DMS Menula](https://github.com/DMS-Menula/)
 - [Daiwiik Harihar](https://github.com/daiv09)
 - [Rehaoulia](https://github.com/Rehaoulia)
