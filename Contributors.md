@@ -325,7 +325,6 @@ Nick
 - Knowledge Benjamin
 - [Ayaj Husain](https://github.com/ayaj-09)
 -[Manoj Reddy]
-- [Matheus Lino](https://github.com/7matheus)
 - [Shantanu Dhane](https://github.com/Dev-Santo44)
 - [Prateek Mani Tripathi](https://github.com/prateekmtri)
 - [Conor James](https://github.com/ConorsGitHub)
@@ -453,7 +452,7 @@ Nick
 - Jia Yee (Hi! Hope your git learning journey goes well too!)
 - Bastiqui
 - lumberjackwizard)
-
+- [Matheus Lino](https://github.com/7matheus)
 - Abdullah Malik (https://github.com/akm20005)
 - [Viraj Hudlikar](https://github.com/vhudlikar)
 - [Kishita Deotale](https://github.com/kishitadeotale24)
