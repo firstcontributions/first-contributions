@@ -160,6 +160,7 @@ Nick
  - [Lasisi Ibrahim Pelumi] (https://github.com/ibrahimpelumi6142)
  - [Liam Reckziegel] (https://github.com/reckziegelwilliam)
  - [Shakirscode] (https://github.com/shakirscode)
+- [ShivangiPandey] (https://github.com/ShivangiP2005)
 - [Dheepak] (https://github.com/Dheepak214)
 - [Sukalyan] (https://github.com/PMSukalyanSahu)
 - [nyfrade] (https://github.com/nyfrade)
