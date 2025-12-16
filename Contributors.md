@@ -127,7 +127,7 @@ SafGit-6
 -[StarFish]
 Trishant Jaiswal
 Nick
--willdougla (https://github.com/willdougla)
+- [willdougla] (https://github.com/willdougla)
 -[Yash Lund](https://github.com/yashlund05)
 -[Chaitanya Medidar](https://github.com/chaitanyamedidar)
 -[Kaush Mendonca](https://github.com/slowanimals)
