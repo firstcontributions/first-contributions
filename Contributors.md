@@ -2194,3 +2194,4 @@ sujoy
 - [abcd](https://github.com/abcd)
 - [My CedricGeng](https://github.com/Code-gengzhicheng)
 - [Shaishab Chandra Shil](https://github.com/shaishab316)
+[Muhammed Favas](https://github.com/favas0786)
