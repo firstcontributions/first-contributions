@@ -2027,6 +2027,7 @@ sujoy
 - [Aditya](https://github.com/Lumowhisp)
 - [Shruti Chandra] (https://github.com/techieshruti)
 - [Melisa Adıyaman]
+- [Wesley Ajavon] (https://github.com/wesleyajavon)
 - [Pratham Jaiswal](https://github.com/pratham-jaiswal)
 - [TAMUKEDDE JACOB](https://github.com/Tamujacob)
 - [Kareem Scott](https://github.com/Bla-Bla-Blah)
