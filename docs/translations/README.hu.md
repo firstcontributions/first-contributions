@@ -12,7 +12,7 @@ A projekt célja, hogy útmutatást nyújtson, egyszerűsítse és segítse a ke
 
 #### *Ha a parancssor kényelmetlen, [itt egy tutorial a GUI felület használatához.](#Oktatóanyagok-más-eszközök-használatával)*
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="oszd meg ezt a tárat" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="A repository forkolása" />
 
 Ha nincs a gépeden git, [telepítsd fel]( https://help.github.com/articles/set-up-git/).
 
@@ -23,7 +23,7 @@ Ezzel készítettél egy másolatot erről a reporól a te saját git fiókodba.
 
 ## Klónozd a repót (clone)
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="klónozd ezt a repót" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="A repository klónozása" />
 
 Most klónozd az elágaztatott repót a gépedre. Menj a GitHub fiókodra, nyisd meg a forkolt repositoryt, kattints a clone gombra, majd kattints a *copy to clipboard* ikonra.
 
@@ -34,7 +34,7 @@ git clone "url-amit-most-masoltal-le"
 ```
 A "url-amit-most-masoltal-le" kifejezést, cseréld ki (idézőjelek nélkül) a vágólapra helyezett repository url címére (ami ebből a projektől ágazik). Az ágaztatás folyamatát lásd az előző lépésben.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="másold az URL címet a vágólapra" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="URL másolása a vágólapra" />
 
 Például:
 ```bash
@@ -66,7 +66,7 @@ git switch -c add-gabor-takacs
 
 Nyisd meg a `Contributors.md` fájlt egy szövegszerkesztőben, majd add hozzá a neved. Ne a fájl elejére vagy végére helyezd, hanem a kettő közé. A kettő között bárhová teheted. Mentsd el a fájlt.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git állapot" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status parancs" />
 
 
 Ha a project könyvtárába navigálsz és futtatod a `git status` parancsot, akkor a következő módosításokat fogod látni:
@@ -96,11 +96,11 @@ Helyettesítsd az `<a-branch-neve>` kifejezést annak a branchnek a nevével, am
 
 Ha a saját repódba navigálsz GitHub-on, látnod kell a `Compare & pull request` gombot. Kattints rá!
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="hozz létre egy pull request-et" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="Pull request létrehozása" />
 
 Sikeresen elküldted a pull requested.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="küldd be a pull request-et" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="Pull request elküldése" />
 
 Kis idő elteltével összevonja a változásokat a project fő ágában. Értesítést fogsz kapni emailben, ha a változások összefűzésre kerültek.
 
