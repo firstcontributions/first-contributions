@@ -16,6 +16,7 @@
 - [Adarsh Jayfale](https://github.com/Adj1122)
 [Andres Fdez] (https://github.com/amfv-GR/first-contributions)
 [Pratham Chavhan](https://github.com/prathamchavhan)
+- [Shalini Sharma](https://github.com/shalini0002)
 -[priya raj](https://github.com/pri-laxmi)
 -[Ayush Gohil](https://github.com/ayushgohil)
 - [Mateo Pilaquinga] (https://github.com/BrDenky)
