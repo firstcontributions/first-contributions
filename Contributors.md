@@ -2175,3 +2175,4 @@ sujoy
 - [Muhammad Awais](https://github.com/muhammadawaisofficial)
 - [Ansh Thukral](https://github.com/AnshThukral)
 - fyed ♡ grokko
+- [Blessings Minga](https://github.com/BlessingsMinga)
