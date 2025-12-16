@@ -132,7 +132,6 @@ Eden goşandyňyza begeniň we dostlaryňyz bilen paýlaşyň!
 
 [Bu baglanma](https://firstcontributions.github.io/#social-share) arkaly hem birnäçe gyzykly proýektlere öz goşandyňyzy goşup bilýäňiz.
 
-Eger-de islendik kömek gerek bolsa ýa-da soraglaryňyz bar bolsa [biziň Slack toparymyza](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA) goşulyp bilýaňiz.
 
 
 
