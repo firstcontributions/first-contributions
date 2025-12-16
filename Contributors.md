@@ -11,6 +11,7 @@
 - [Jaivika Agare]
 - [Deepanshu Mishra](https://github.com/Deepanshumishra2004)
 - [Rifaldo](https://github.com/Rifaldo-dev)
+- [Anji Reddy](https://github.com/Anjireddy444)
 - [Adarsh Jayfale](https://github.com/Adj1122)
 [Andres Fdez] (https://github.com/amfv-GR/first-contributions)
 [Pratham Chavhan](https://github.com/prathamchavhan)
@@ -1021,6 +1022,7 @@ sujoy
 - [v1ct0r-ops](https://github.com/v1ct0r-ops)
 - [Carburio](https://github.com/Carburio)
 - [kamil](https://github.com/Kamil115853)
+- [mohammed](https://github.com/mohammed-w9)
 - [ZNezirov](https://github.com/ZNezirov)
 - [Gxelol](https://github.com/Gxelol)
 - [Nishant khatri](https://github.com/nishant-khatri17)
