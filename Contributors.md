@@ -2159,6 +2159,7 @@ sujoy
 - [Ridho Purnomo](https://github.com/ridopurnomo86)
 - [Ponnarasu A](https://github.com/ponnarasua)
 - [One Sided](https://github.com/TheOnesided)
+- [Colin Hopkins](https://github.com/colslice)
 - [Ankit](https://www.youtube.com/watch?v=u3y1MqX4egE)
 - [mb-ttl](https://github.com/mb-ttl) - testing!
 - [Osman Kaplan](https://github.com/kplnosmn94-droid)
