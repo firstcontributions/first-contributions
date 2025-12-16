@@ -1291,6 +1291,7 @@ sujoy
 - [peng qin](https://github.com/pengqinppp)
 - [qobilovvv] (https://github.com/qobilovvv)
 - [rkb121541](https://github.com/rkb121541)
+- [Jeonghyun Lee](https://github.com/leejh0820)
 - [rockxxjin](https://github.com/rockxxjin)
 - [sadiqhero](https://github.com/sadiqhero)
 - [HolmesMurillo](https://github.com/HolmesMurillo)
