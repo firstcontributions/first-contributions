@@ -59,6 +59,7 @@
 - [VanshSharma] (https://github.com/vanshsharma-11) - Yeah, i was here!
 - [Adarsh Kadam](https://github.com/adarsh47-bug)
 - [Sudi Williams](https://github.com/sudi-W)
+- [Rushit Kakadiya](https://github.com/rushit-kakadiya): Let’s blaze it up 🔥🚀
 - [Nirav Vala](https://github.com/valanirav)
 - [Saidkamol Mirsaidov](https://github.com/SaidKamol0612)
 - [Anand](https://github.com/00anandmishra)
