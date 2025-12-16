@@ -1,6 +1,6 @@
-#
+# Contributors
 - [Deepika T](https://github.com/thotaDeepika)
-- [Anuj Kumar](https://github.com/Anujpandey12345) 🐧 Follow me For project's and Open Source Contribution.
+- [Anuj Kumar](https://github.com/Anujpandey12345)
 - [Amit Kumar Patra](https://github.com/amitkumarpatra99)
 - [Pranjali Dhere](https://github.com/Pranjali2005)
 - [CshardZ](https://github.com/CshardZ)
