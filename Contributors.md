@@ -1,5 +1,6 @@
 #
 [Bala Adhish N D](https://github.com/AdhishMagic)
+- [CshardZ](https://github.com/CshardZ)
 -[Soujanya](https://github.com/Soujanya30-dev) 
 - [Aditya kumar](https://github.com/Aditya754194)
 - [Amar Kant Diwakar](https://github.com/Amarworks)
