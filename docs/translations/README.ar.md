@@ -25,7 +25,7 @@
 
 ## <div dir="rtl"> أنشئ تفرّعًا من هذا المشروع - Fork this Repository </div>
 
-<img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="قم بعمل Fork لهذا المستودع" />
 <div dir="rtl">
 أنشئ تفرّعًا من هذا المشروع بالضغط على زر Fork في أعلى هذه الصفحة.
 من خلال ذلك ستنشأ نسخة من هذا المشروع على حسابك الخاص.
@@ -33,13 +33,13 @@
 
 ## <div dir="rtl"> استنسخ هذا المشروع - Clone the repository </div>
 
-<img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="انسخ هذا المستودع" />
 
 <div dir="rtl">
 استنسخ هذا المشروع على جهازك.
 انقر على زر Clone ثم انقر على أيقونة Copy to clipboard
 </div>
-<img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="انسخ الرابط إلى الحافظة" />
 <div dir="rtl">
 افتح terminal واكتُب الأمر التالي:
 </div>
@@ -121,11 +121,11 @@ git push origin "add-your-name"
 
 <div dir="rtl">في صفحة المشروع الخاصة بك يوجد زر <code>Compare &amp; pull request</code>. اضغط على هذا الزر.</div>
 
-<img style="float: left;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: left;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="أنشئ طلب سحب (Pull Request)" />
 
 <div dir="rtl">والآن سلم طلبك لتتم مراجعته </div>
 
-<img style="float: left;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: left;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="إرسال طلب السحب" />
 
 <div dir="rtl">بعد المراجعة سوف أقوم بدمج تغييراتك إلى الفرع الرئيسي في المشروع. سيتم تنبيهك عن طريق البريد الإلكتروني بذلك.</div>
 
