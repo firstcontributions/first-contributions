@@ -9,7 +9,7 @@ Makakatulong ang proyektong ito na gawing mas simple at magsilbing gabay sa pagg
 
 _Kung hindi ka komportable sa paggamit ng command line, [narito ang mga tutorial gamit ang GUI tool.](#tutorials-using-other-tools)_
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="i-fork ang repository na ito" />
 
 #### Kung wala kang Git sa iyong computer, [i-install ito](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
@@ -20,7 +20,7 @@ Gagawa ito ng kopya ng _repository_ sa iyong _account_.
 
 ## I-clone ang _repository_
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="i-clone ang repository na ito" />
 
 Ngayon, i-clone ang _forked repository_ sa iyong _computer_. Pumunta sa iyong _GitHub account_, buksan ang _forked repository_, i-click ang _code button_ at pagkatapos ay i-click ang _copy to clipboard_ icon.
 
@@ -32,7 +32,7 @@ git clone "url na kakakopya mo lang"
 
 ang "url na kakakopya mo lang" (tanggalin ang "") ay ang url ng iyong _forked repository_.Tingnan ang mga nakaraang hakbang para makuha ang url.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="kopyahin ang URL sa clipboard" />
 
 Halimbawa:
 
@@ -106,11 +106,11 @@ Ang `pangalan-ng-branch` ay pangalan ng branch na ginawa mo kanina.
 
 Kung pupunta ka sa iyong _forked repository_ sa GitHub, makikita mo yung button na `Compare & pull request`. I-click mo iyon.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="gumawa ng pull request" />
 
 Ngayon, baguhin ang ilang _checkboxes_ sa _description textarea_, at i-submit ang _pull request_.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="ipasa ang pull request" />
 
 Ime-merge ko ang lahat ng mga nabago mo sa _main branch_ ng proyektong ito. Makakatanggap ka ng _email notification_ kapag na-merge ko na ito.
 
