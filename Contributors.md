@@ -2119,6 +2119,7 @@ sujoy
 - [Roshni Sah](https://github.com/Roshni-Sah)
 - Saurabh Singh
 - [NYClifewithNyx](https://github.com/NYClifewithNyx)
+- [Prathamesh Kinagi](https://github.com/prathameshk421)
 - [Harshita Kumari] (https://github.com/harshitak4/first-contributions)
 - [Mayank Ranjan] (https://github.com/mayankranjancoc-byte)
 - [Rhesa Austen](https://github.com/Austenrhesa)
