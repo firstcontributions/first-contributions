@@ -2177,6 +2177,7 @@ sujoy
 - [logashree](https://github.com/logashreemohan)
 [Shreya Gupta: college girly learning the ropes] https://github.com/shreyaeve
 - [Anushka Sarviya](https://github.com/AnushkaSarviya)
+- [Shivam Yadav](https://github.com/Shivam1q)
 - [Deep Timbaliya](https://github.com/deeptimbaliya)
 - [Hafsa Irfan](https://github.com/hafxa)
 - [Hamza Qureshi](https://github.com/hamzaq453)
