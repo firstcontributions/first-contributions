@@ -104,6 +104,7 @@ Samarjit Singh Uppal(https://github.com/Samarjitdk)
 -[Shubh Jain](https://github.com/shubhj8989)
 scandi
 SafGit-6
+-[Prakhar Gupta] (https://github.com/gitty-prakhar)
 -[Robicks] (Lets do it)
 - [Nick Kilzer](https://github.com/breakfastscience)
 -[SK] (https://github.com/sachit62)
