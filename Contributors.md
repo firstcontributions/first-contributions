@@ -2186,6 +2186,7 @@ sujoy
 - [Muhammad Awais](https://github.com/muhammadawaisofficial)
 - [Ansh Thukral](https://github.com/AnshThukral)
 - fyed ♡ grokko
+- [Blessings Minga](https://github.com/BlessingsMinga)
 - [Jan Schmid](https://github.com/MysticEntity-dev)
 - [Leo Xu](https://github.com/LeoXu8)
 - [Sandesh Gund](https://github.com/opszx)
