@@ -213,7 +213,7 @@ Nick
 - [Mohamed Nafaa](https://github.com/mohamednafaa)
 - [Christopher Michelli] (https://github.com/christophermichelli)
 - [Jeremy Matina](https://github.com/JeremyM07)
-- [mertefekurt](https://github.com/mertefekurt)
+-  [mertefekurt](https://github.com/mertefekurt)
 # Rogan
 - [Brotcorne Florian](https://github.com/FlorianBrot)
  -[Resmi](https://github.com/CodeNLife)
