@@ -75,6 +75,7 @@
 - [Luka](https://github.com/LukachuPro88)
 - [koushik sai](https://github.com/koushik-sai) : My first contribution
 [Licence1](LogicielLibrel1)
+- [Kristine Fung](https://github.com/kristinefung): My first open source contribution!
 - [ayushman pandey](https://github.com/mahoraga777)
 -[ianjosuemendezjimenez11](https://github.com/ianjosuemendezjimenez11)
 -[Faisal Murad](https://github.com/faisal-murad) : Faisal was here!
