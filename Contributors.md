@@ -1,5 +1,4 @@
 # Contributors
-- [Pallavi](https://github.com/Palllllavvi)
 - [Hein Htet Ko](https://github.com/HeinHtetKo99)
 - [Sohel Munjewar](https://github.com/ShankyCodeX)
 - [Deepika T](https://github.com/thotaDeepika)
@@ -37,6 +36,7 @@
 - [Lenin Castellano](https://github.com/lenincastellano)
 - [Marco Biaggi](https://github.com/mafpbiaggi)
 - [Disha Kurkuri](https://github.com/hellomushrooms)
+- [Satish Kirpan](https://github.com/Satish1994)
 - [Sudarshan Dongre](https://github.com/SudWasatch)
 - [Alankar Jagtap](https://github.com/AlankarJagtap)
 - [Arnav Saraswat](https://github.com/arnavs-uol)
@@ -91,6 +91,7 @@
 - [Aayush Pratap Singh](./https://github.com/AayushPS)
 -[Wooseok Gwak](https://github.com/GWS0428)
 -[Prince Ekpinse](https://github.com/prince0xdev) - It's not my first contribution. I've contributed to Umami.
+- [Pallavi](https://github.com/Palllllavvi)
 - [Yashaswini C Rao](https://github.com/yash-r04)
 - [Ayoub Aguezar ](https://github.com/Ayoub-glitsh)
 -[Stefano Marra](https://github.com/fefo-phef)
@@ -2256,4 +2257,9 @@ sujoy
 - [Punit Tripathi](https://github.com/Punit3112)
 - [Malak Gamal] (https://github.com/MalakGamal0)
 - [YuXiangggg](https://github.com/YuXiangggg)
+- [inesseMs](https://github.com/inesseMs)
+- [salahee22](https://github.com/salahee22)
+- [yanissem2007-prog](https://github.com/yanissem2007-prog)
+- [medali213](https://github.com/medali213)
+- [Hichem5](https://github.com/Hichem5)
 - [Aaditya Baniya](https://github.com/aditya-baniya-ai)
