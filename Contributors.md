@@ -1114,6 +1114,7 @@ sujoy
 - [Bart-De-Pauw](https://github.com/Bart-De-Pauw)
 - [vedivero](https://github.com/vedivero)
 - [KWYK](https://github.com/stevenchen99)
+- [Sumit Kumar](https://github.com/sumitsprint)
 - [Aakash](https://github.com/Aakash-legend)
 - [Shresta](https://github.com/g-shresta)
 - [AntonioIonica](https://github.com/AntonioIonica)
