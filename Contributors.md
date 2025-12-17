@@ -2232,3 +2232,4 @@ sujoy
 - [Vojtech Vachal](https://github.com/vachalvo)
 - [Abhas Gaur](https://github.com/Abhas009)
 - [Pratiksha Shrestha](https://github.com/pratiksha021/first-contributions.git)
+- [ASaHi Chin](https://github.com/Cxlyq)
