@@ -416,6 +416,7 @@ Nick
 - [Omkar Nalgirkar]
 - [DochertyDev](https://github.com/DochertyDev)
 - [Mazhum](https://github.com/mazummohammad)
+- [Parth](https://github.com/parekh-parth2001)
 - [Nieko](http://github.com/nathanielcorvera)
 - [Mayank Ghildiyal](https://github.com/mayank2699)
 - [Programkogjj_test](https://github.com/programkogjj)
