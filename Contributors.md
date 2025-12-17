@@ -240,6 +240,7 @@ Nick
 - [Ravi Raj Choudhary](https://github.com/ravirajchoudhary03)
 - [al-ocin]
 - [Aditya Das](https://github.com/AdityaDas496)
+- [wz-Tan](https://github.com/wz-Tan/)
 - [Koji Kawamura](https://github.com/kouji0705)
 - [Jahnavi](https://github.com/Jahnavi41)
 - [Ava16](https://github.com/Ava16)
