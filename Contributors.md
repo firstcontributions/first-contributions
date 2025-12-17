@@ -270,6 +270,7 @@ Nick
 - [yaeth](https://github.com/yaeth)
 - [Prisha Jaiswal](https://github.com/prishajaiswal75)
 - [Saurabh Gupta](https://github.com/100rabhSG)
+- [Chaos](https://github.com/wqchaos)
 - [PoncheDeFrutas](https://github.com/PoncheDeFrutas)
 - [Tejinderpal Singh](http://github.com/tejinderpa)
 - [pvpeuve](https://github.com/pvpeuve)
