@@ -31,6 +31,7 @@
 - [Lenin Castellano](https://github.com/lenincastellano)
 - [Marco Biaggi](https://github.com/mafpbiaggi)
 - [Disha Kurkuri](https://github.com/hellomushrooms)
+- [Alankar Jagtap](https://github.com/AlankarJagtap)
 - [Arnav Saraswat](https://github.com/arnavs-uol)
 - [Varun Sonwane](https://github.com/varunsonawane) 
 - [Lohith Arcot](https://github.com/LohithArcot)
