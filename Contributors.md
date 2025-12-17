@@ -2252,6 +2252,7 @@ sujoy
 - [Pratiksha Shrestha](https://github.com/pratiksha021/first-contributions.git)
 - [Muhammed Shareef](https://github.com/shareefmx)
 - [ASaHi Chin](https://github.com/Cxlyq)
+- [Luis Javier González Alonso](https://github.com/luis-javier-gonzalez-alonso)
 - [Phoenix Ouyang](https://github.com/phoenixouyang)
 - [Anjaneyulu](https://github.com/anjaneyulu-01)
 - [Prateek Dwivedi](https://github.com/dprateek996)
