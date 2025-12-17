@@ -91,6 +91,7 @@
 - [Aayush Pratap Singh](./https://github.com/AayushPS)
 -[Wooseok Gwak](https://github.com/GWS0428)
 -[Prince Ekpinse](https://github.com/prince0xdev) - It's not my first contribution. I've contributed to Umami.
+- [Pallavi](https://github.com/Palllllavvi)
 - [Yashaswini C Rao](https://github.com/yash-r04)
 - [Ayoub Aguezar ](https://github.com/Ayoub-glitsh)
 -[Stefano Marra](https://github.com/fefo-phef)
