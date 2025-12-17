@@ -2245,3 +2245,4 @@ sujoy
 - [Prateek Dwivedi](https://github.com/dprateek996)
 - [Garv jain](https://github.com/Ganduga)
 - [cvcvka5](https://github.com/cvcvka5)
+- [Shankar](https://github.com/Shankar20052005) New to Open-source Contributions
