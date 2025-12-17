@@ -1,5 +1,5 @@
 # Contributors
-- [Ghaith Shammout](https://github.com/Ghaith-Shammout)
+
 - [rohansalunkhe] (https://github.com/THEROHAN01)
 - [madhavmadupu](https://github.com/madhavmadupu)
 - [webmastervetea](https://github.com/webmastervetea)
@@ -1938,3 +1938,4 @@ sujoy
 - [Rajan Gupta] (https://github.com/Rajangupta9)
 - [Abdur rahman roky] (https://github.com/xeoniPi/)
 - [notchkxge](https://github.com/notchkxge)
+- [Ghaith Shammout](https://github.com/Ghaith-Shammout)
