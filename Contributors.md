@@ -36,6 +36,7 @@
 - [Lenin Castellano](https://github.com/lenincastellano)
 - [Marco Biaggi](https://github.com/mafpbiaggi)
 - [Disha Kurkuri](https://github.com/hellomushrooms)
+- [Satish Kirpan](https://github.com/Satish1994)
 - [Sudarshan Dongre](https://github.com/SudWasatch)
 - [Alankar Jagtap](https://github.com/AlankarJagtap)
 - [Arnav Saraswat](https://github.com/arnavs-uol)
@@ -2256,3 +2257,5 @@ sujoy
 - [Malak Gamal] (https://github.com/MalakGamal0)
 - [YuXiangggg](https://github.com/YuXiangggg)
 - [yanissem2007-prog](https://github.com/yanissem2007-prog)
+- [Hichem5](https://github.com/Hichem5)
+- [Aaditya Baniya](https://github.com/aditya-baniya-ai)
