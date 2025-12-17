@@ -1,5 +1,6 @@
 # Contributors
 - [Hein Htet Ko](https://github.com/HeinHtetKo99)
+- [Zayn-ul-Abideen](https://github.com/hey-Zayn) ✔
 - [Sohel Munjewar](https://github.com/ShankyCodeX)
 - [Deepika T](https://github.com/thotaDeepika)
 - [Deepak Kumar Kashyap](https://github.com/Deepak-kumar-kashyap)
