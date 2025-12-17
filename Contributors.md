@@ -2256,5 +2256,6 @@ sujoy
 - [Punit Tripathi](https://github.com/Punit3112)
 - [Malak Gamal] (https://github.com/MalakGamal0)
 - [YuXiangggg](https://github.com/YuXiangggg)
+- [medali213](https://github.com/medali213)
 - [Hichem5](https://github.com/Hichem5)
 - [Aaditya Baniya](https://github.com/aditya-baniya-ai)
