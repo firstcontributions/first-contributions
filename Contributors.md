@@ -2002,6 +2002,7 @@ sujoy
 - [Nikhil Singhal](https://github.com/NikhilSinghal2004)
 - - [PraveenBoss45](https://github.com/PraveenBoss45)
 - [Tankbread](https://github.com/Tobiassko)
+- [Khushi Shorey] (https://github.com/khushishorey/)
 - [UJWAL](https://github.com/Ujwal200707)
 - [Pasjonat90D](https://github.com/Pasjonat90D)
 - [jayadev](https://github.com/jaydev-431)
