@@ -26,6 +26,7 @@
 - [Deepanshu Mishra](https://github.com/Deepanshumishra2004)
 - [Rifaldo](https://github.com/Rifaldo-dev)
 - [Andres Fdez] (https://github.com/amfv-GR/first-contributions)
+- [Aghersidev] (https://github.com/aghersidev/demo-contributions)
 - [Pratham Chavhan](https://github.com/prathamchavhan)
 - [Ayush Gohil](https://github.com/ayushgohil)
 - [Aravind Vinod](https://github.com/aaarrvind) : Trying out open source :)
