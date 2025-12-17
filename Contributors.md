@@ -18,6 +18,7 @@
 - [Ahmed Irfan N](https://github.com/irfan5122)
 - [Bharat Maheshwari](https://github.com/BM840)
 - [Kavishka Sasindu](https://github.com/KavishkaSasindu)
+ -[Abhay_Negi]
 - [Jaivika Agare]
 - [Christopher Lusk] (https://github.com/north-echo)
 - [Deepanshu Mishra](https://github.com/Deepanshumishra2004)
