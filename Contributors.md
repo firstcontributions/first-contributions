@@ -2242,3 +2242,4 @@ sujoy
 - [Anjaneyulu](https://github.com/anjaneyulu-01)
 - [Prateek Dwivedi](https://github.com/dprateek996)
 - [Garv jain](https://github.com/Ganduga)
+- [Deep Khatri](https://github.com/Deep-code2004) , (https://deepkhatri.lovestoblog.com/?i=1) 
