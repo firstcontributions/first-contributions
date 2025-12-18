@@ -45,6 +45,7 @@
 - [Khamza Zhanbolat](https://github.com/KhamzaZhanbolat)
 - [Jiaqi Fan](https://github.com/jiaqifan42)
 - [Chris Tandoh](https://github.com/Christandoh)
+- [Sagar Thalkiya](https://github.com/SagarThalkiya) : Mama look i'm a developer!
 - [Lenin Castellano](https://github.com/lenincastellano)
 - [Marco Biaggi](https://github.com/mafpbiaggi)
 - [Disha Kurkuri](https://github.com/hellomushrooms)
