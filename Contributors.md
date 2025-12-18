@@ -2274,3 +2274,4 @@ sujoy
 - [Charly32X] (https://github.com/Charly-32X)
 - [Nithya-collab] (https://github.com/Nithya-collab)
 - [Rupesh] (https://github.com/RupeshSangoju)
+- [Kush Dutta] (https://github.com/KushDutta23)
