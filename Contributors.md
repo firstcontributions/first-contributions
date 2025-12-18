@@ -2273,3 +2273,4 @@ sujoy
 - [Aaditya Baniya](https://github.com/aditya-baniya-ai)
 - [Charly32X] (https://github.com/Charly-32X)
 - [Nithya-collab] (https://github.com/Nithya-collab)
+- [Kush Dutta] (https://github.com/KushDutta23)
