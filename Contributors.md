@@ -16,6 +16,7 @@
 - [Ashwin Koli](https://github.com/koliashwin)
 - [Aryan Biswas] (https://github.com/AryanBiswas198) : First Open Source ;)
 - [CshardZ](https://github.com/CshardZ)
+- [Natnael Tewodors] (https://github.com/Natnael-Tewodros)
 - [Soujanya](https://github.com/Soujanya30-dev) 
 - [Sree Pada](https://github.com/sreepadha102): Follow my portfolio project!!
 - [Aditya kumar](https://github.com/Aditya754194)
