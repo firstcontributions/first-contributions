@@ -67,6 +67,7 @@
 - [Shunsuke Takanishi](https://github.com/shunsuke-takanishi)
 - [Olu](https://github.com/AfecoO)
 - [Stephen Hiscock](https://github.com/stevodevo1) ✅
+- [Jim Carey](https://github.com/jcarey9149)
 - [rohansalunkhe](https://github.com/THEROHAN01)
 - [Divyark3](https://github.com/Divyark3) : Hey! Figuring out open source contributions!!
 - [Srijan_Limbu](https://github.com/DevendraNathLimbu) : Love you guys ❤️
