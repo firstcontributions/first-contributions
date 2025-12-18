@@ -1,8 +1,10 @@
 # Contributors
+- [Jeevanraj](https://github.com/Flame-Phoneix) : First open source contribution
 - [Hein Htet Ko](https://github.com/HeinHtetKo99)
 - [Zayn-ul-Abideen](https://github.com/hey-Zayn) ✔
 - [Sohel Munjewar](https://github.com/ShankyCodeX)
 - [Deepika T](https://github.com/thotaDeepika)
+- [Abhilash Reddy](https://github.com/AbhilashReddy1519)
 - [Deepak Kumar Kashyap](https://github.com/Deepak-kumar-kashyap)
 - [Danish Ahmed](https://github.com/daanish02)
 - [Anuj Kumar](https://github.com/Anujpandey12345)
@@ -12,7 +14,9 @@
 - [Muhammad P](https://github.com/mopy7)
 - [Nikhilesh Sai Santosh Tadivada](https://github.com/T-Nikhilesh)
 - [Ashwin Koli](https://github.com/koliashwin)
+- [Aryan Biswas] (https://github.com/AryanBiswas198) : First Open Source ;)
 - [CshardZ](https://github.com/CshardZ)
+- [Natnael Tewodors] (https://github.com/Natnael-Tewodros)
 - [Soujanya](https://github.com/Soujanya30-dev) 
 - [Sree Pada](https://github.com/sreepadha102): Follow my portfolio project!!
 - [Aditya kumar](https://github.com/Aditya754194)
@@ -105,6 +109,7 @@
 -Maureen Adams R.
 - [Aditya Swamy](https://github.com/Aditya-354)c
 -[Shashank M N](https://github.com/Shashank07-debug)
+-[Srividya](https://github.com/GajjalaSrividya)
 -[Oliver Tepper](https://github.com/seacli)
 yash goat
 
@@ -1183,6 +1188,7 @@ sujoy
 - [Adarsh84](https://github.com/adarshM84)
 - [David Okosa](https://github.com/dfw7th)
 - [Jewel Geea George](https://github.com/)
+- [Jaylo Galam](https://github.com/jaylogalam)
 - [ARPITHA](https://github.com/Arpitha189)
 - [Dhruv](https://github.com/DhruvTheDev1)
 - [Fahad Haque](https://github.com/Daahaf)
@@ -2208,6 +2214,7 @@ sujoy
 - [Jeevan Sai](https://github.com/Jeevan-uz)
 - [Anushka Aggarwal](https://github.com/anushka146)
 - [Pranay](https://github.com/pranayyyy6)
+- [Fausto Quevedo](https://github.com/faemmque)
 - [Derrel Tedianto](https://github.com/PakLer123)
 - [Vaishnavi KN](https://github.com/Vaishnavi-KN)
 - [Aditya Deshwal](https://github.com/adityadeshwal2529)
@@ -2274,3 +2281,7 @@ sujoy
 - [Charly32X] (https://github.com/Charly-32X)
 - [Nithya-collab] (https://github.com/Nithya-collab)
 - [brightendavid](https://github.com/brightendavid)
+- [Rupesh] (https://github.com/RupeshSangoju)
+- [Kush Dutta] (https://github.com/KushDutta23)
+- [Nikita Vasant Choudhary] (https://github.com/Nikita2106-05)
+- [Sagar Tayde](https://github.com/sagartaydedev)
