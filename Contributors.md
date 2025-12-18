@@ -240,6 +240,7 @@ Nick
 - [Jayesh Patil](https://github.com/JayeshPatil163)
 - [Faviyan Mustafiz]
 - [Zatho0](https://github.com/Zatho0)
+- [Kaushik] (https://github.com/kaush1kumr)
 - [clement717](https://github.com/clement717)
 - [Satya-0611](https://github.com/Satya-0611)
   [Uttara Shah](https://guthub.com/UTTARASH)
