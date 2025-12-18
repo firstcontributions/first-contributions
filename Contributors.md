@@ -29,6 +29,7 @@
 - [Kavishka Sasindu](https://github.com/KavishkaSasindu)
  -[Abhay_Negi]
 - [Jaivika Agare]
+- Amiel Josh Basug (https://github.com/juswa005)
 - [Christopher Lusk] (https://github.com/north-echo)
 - [Deepanshu Mishra](https://github.com/Deepanshumishra2004)
 - [Rifaldo](https://github.com/Rifaldo-dev)
@@ -2292,3 +2293,5 @@ sujoy
 - [Anand Venugopal](https://github.com/anandvenugopal-tech)
 - [Ahamad Ali](https://github.com/AhamadAlii)
 - [Laura Neema](https://github.com/Laura-juma)
+- [Iyed Rabia](https://github.com/Iyed-Rb)
+- [Shifanatk](https://github.com/shifanatk)
