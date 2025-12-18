@@ -2284,3 +2284,4 @@ sujoy
 - [Kush Dutta] (https://github.com/KushDutta23)
 - [Nikita Vasant Choudhary] (https://github.com/Nikita2106-05)
 - [Sagar Tayde](https://github.com/sagartaydedev)
+- [Anand Venugopal](https://github.com/anandvenugopal-tech)
