@@ -2303,4 +2303,5 @@ sujoy
 - [Laura Neema](https://github.com/Laura-juma)
 - [Iyed Rabia](https://github.com/Iyed-Rb)
 - [Shifanatk](https://github.com/shifanatk)
+- [Adarsh Hazari]
 - [Rishi](https://github.com/rishi799)
