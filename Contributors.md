@@ -1185,6 +1185,7 @@ sujoy
 - [Adarsh84](https://github.com/adarshM84)
 - [David Okosa](https://github.com/dfw7th)
 - [Jewel Geea George](https://github.com/)
+- [Jaylo Galam](https://github.com/jaylogalam)
 - [ARPITHA](https://github.com/Arpitha189)
 - [Dhruv](https://github.com/DhruvTheDev1)
 - [Fahad Haque](https://github.com/Daahaf)
