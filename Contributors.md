@@ -29,6 +29,7 @@
 - [Kavishka Sasindu](https://github.com/KavishkaSasindu)
  -[Abhay_Negi]
 - [Jaivika Agare]
+- Amiel Josh Basug (https://github.com/juswa005)
 - [Christopher Lusk] (https://github.com/north-echo)
 - [Deepanshu Mishra](https://github.com/Deepanshumishra2004)
 - [Rifaldo](https://github.com/Rifaldo-dev)
