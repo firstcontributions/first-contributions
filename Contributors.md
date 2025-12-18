@@ -2271,3 +2271,4 @@ sujoy
 - [medali213](https://github.com/medali213)
 - [Hichem5](https://github.com/Hichem5)
 - [Aaditya Baniya](https://github.com/aditya-baniya-ai)
+- [Charly32X] (https://github.com/Charly-32X)
