@@ -2275,3 +2275,4 @@ sujoy
 - [Nithya-collab] (https://github.com/Nithya-collab)
 - [Rupesh] (https://github.com/RupeshSangoju)
 - [Kush Dutta] (https://github.com/KushDutta23)
+- [Nikita Vasant Choudhary] (https://github.com/Nikita2106-05)
