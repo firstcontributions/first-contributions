@@ -17,6 +17,7 @@
 - [Nikhilesh Sai Santosh Tadivada](https://github.com/T-Nikhilesh)
 - [Ashwin Koli](https://github.com/koliashwin)
 - [Aryan Biswas] (https://github.com/AryanBiswas198) : First Open Source ;)
+- [Fathima Manal](https://github.com/FathimaManal)
 - [CshardZ](https://github.com/CshardZ)
 - [Natnael Tewodors] (https://github.com/Natnael-Tewodros)
 - [Soujanya](https://github.com/Soujanya30-dev) 
