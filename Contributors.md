@@ -1410,6 +1410,7 @@ sujoy
 - [Jada McAfee](https://github.com/smac115)
 - [Isaac F](https://github.com/YellowFlello)
 - [Janaki Ram K](https://github.com/JKR0805)
+- [Motoki Nanashima](https://github.com/motoki0805)
 - [Jithin](https://github.com/jithin-dotcom)
 - [Jobin Jose](https://github.com/jobin8921)
 - [Joel Singh](https:/github.com/Joel-Singh)
