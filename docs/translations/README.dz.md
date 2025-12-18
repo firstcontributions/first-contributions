@@ -10,7 +10,7 @@ Dayemen kayen mochkile ki nebdaw hadja men el bidaya. El khawof ta3 edire khatae
 
 Te9rra ma9alate wa les tutos te9derre te3awonek, bessah wache howa afdel mine tehawolle tessiyi bela ma eddire akhtae ? Hadda el machrou3 medyoure bache yaa3ti nassaihe wo y ssahel tari9ate kifache li maya3rfouche bache eydirrou el moucharaka el oulla ta3houme. Etfekare : 9edma tekoune alaise, 9edma tet3alem bezaf. Wolla rak hab etcharek lel merra el oulla, teba3 el khtouwate el djaya. Wallah, rah tekoune moussaliya.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="embrancher ce repertoire" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="نسخ هذا المستودع" />
 
 Wolla ma3endekche git fel ordinateur ta3ek, [ tell3ou be rabet ]( https://help.github.com/articles/set-up-git/ ).
 
