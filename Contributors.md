@@ -512,6 +512,7 @@ Nick
 - [Saad Rouyass](https://github.com/saadRouyass/)
 - [Ashutosh](https://github.com/Ashutosh9470)
 - [valentinfazenda](https://github.com/valentinfazenda)
+- [Kaartik Dev](https://github.com/KaartikDev)
 - [Marco Vargas](https://github.com/Marco180800)
 - [SebastianSilv](https://github.com/SebastianSilv)
 - [Shira Dery](https://github.com/shira43)
