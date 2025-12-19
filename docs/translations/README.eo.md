@@ -119,6 +119,7 @@ Gratulojn! Vi ĵus finis la regulan _fork -> clone -> redaktu -> pull request_ f
 
 Festu vian kontribuon kaj dividiĝu kun viaj amikoj kaj sekvantoj irante al [rete apikaĵo](https://firstcontributions.github.io/#social-share).
 
+Se vi deziras pli da praktikado, rigardu [kodajn kontribuojn](https://github.com/roshanjossey/code-contributions).
 
 Nun komencu kontribui al aliaj projektoj. Ni kolektis liston de projektoj kun facilaj problemoj, por ke vi povu ekhavi. Rigardu [la liston de projektoj en la rete apikaĵo](https://firstcontributions.github.io/#project-list).
 
