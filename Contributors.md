@@ -1,4 +1,5 @@
 # Contributors
+- [Kanishka Wijeratne] (https://githubt.com/KanishkaWijeratne) : First open source contribution
 - [Tripurari Pratap] (https://github.com/pratap-t) : First open source contribution
 - [Ranjith](https://github.com/ranjith-first-contribution) : First open source contribution
 - [Jeevanraj](https://github.com/Flame-Phoneix) : First open source contribution
