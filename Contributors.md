@@ -1,11 +1,7 @@
 # Contributors
-- [Giovanna de Moraes](https://github.com/Gioomoraes)
 - [Jeevanraj](https://github.com/Flame-Phoneix) : First open source contribution
 - [Hein Htet Ko](https://github.com/HeinHtetKo99)
-- [Zayn-ul-Abideen](https://github.com/hey-Zayn) ✔
-- [Sohel Munjewar](https://github.com/ShankyCodeX)
-- [Kavya](https://github.com/Kavya751)
-- [Deepika T](https://github.com/thotaDeepika)
+- [Gioomoraes] (https://github.com/Gioomoraes) : First open source 
 - [Vishwa K](https://github.com/vishw060404)
 - [Abhilash Reddy](https://github.com/AbhilashReddy1519)
 - [Deepak Kumar Kashyap](https://github.com/Deepak-kumar-kashyap)
