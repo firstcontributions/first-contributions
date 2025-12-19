@@ -95,7 +95,7 @@ Bu proje, yeni başlayanların ilk katkılarını yapma sürecini basitleştirme
 
 *Komut satırı kullanmakta kendinizi rahat hissetmiyorsanız, [GUI araçlarını kullanan eğitimlere buradan ulaşabilirsiniz.*](https://www.google.com/search?q=%23di%C4%9Fer-ara%C3%A7lar%C4%B1-kullanan-e%C4%9Fitimler)
 
-<img align="right" width="300" src="[https://firstcontributions.github.io/assets/Readme/fork.png](https://firstcontributions.github.io/assets/Readme/fork.png)" alt="depoyu fork yapın" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork the repository" />
 
 #### Bilgisayarınızda git yüklü değilse, [yükleyin](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
@@ -106,7 +106,7 @@ Bu işlem, bu deponun bir kopyasını kendi hesabınızda oluşturacaktır.
 
 ## Depoyu klonlayın
 
-<img align="right" width="300" src="[https://firstcontributions.github.io/assets/Readme/clone.png](https://firstcontributions.github.io/assets/Readme/clone.png)" alt="depoyu klonlayın" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone the repository" />
 
 Şimdi çatalladığınız depoyu bilgisayarınıza klonlayın. GitHub hesabınıza gidin, çatalladığınız depoyu açın, "Code" butonuna tıklayın, ardından SSH sekmesine gelin ve *copy url to clipboard* (url'yi panoya kopyala) simgesine tıklayın.
 
@@ -119,7 +119,7 @@ git clone "kopyaladığınız url"
 
 buradaki "kopyaladığınız url" (tırnak işaretleri olmadan), bu projenin (kendi hesabınızdaki kopyasının) adresidir. URL'yi almak için önceki adımlara bakın.
 
-<img align="right" width="300" src="[https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png](https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png)" alt="URL'yi panoya kopyala" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 Örneğin:
 
@@ -171,7 +171,7 @@ git checkout -b yeni-dal-isminiz
 
 Şimdi `Contributors.md` dosyasını bir metin düzenleyicide açın ve adınızı içine ekleyin. Dosyanın en başına veya en sonuna eklemeyin. Aralarda herhangi bir yere yerleştirin. Ardından dosyayı kaydedin.
 
-<img align="right" width="450" src="[https://firstcontributions.github.io/assets/Readme/git-status.png](https://firstcontributions.github.io/assets/Readme/git-status.png)" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
 Proje dizinine gidip `git status` komutunu çalıştırırsanız, değişikliklerin olduğunu göreceksiniz.
 
@@ -231,11 +231,11 @@ Aksi takdirde hala kullanıcı adı ve şifre sorulmaya devam edilecek ve kimlik
 
 GitHub'daki deponuza giderseniz, bir `Compare & pull request` butonu göreceksiniz. Bu butona tıklayın.
 
-<img style="float: right;" src="[https://firstcontributions.github.io/assets/Readme/compare-and-pull.png](https://firstcontributions.github.io/assets/Readme/compare-and-pull.png)" alt="karşılaştır ve pull request oluştur" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="compare and create pull request" />
 
 Şimdi pull request'i (çekme isteği) gönderin.
 
-<img style="float: right;" src="[https://firstcontributions.github.io/assets/Readme/submit-pull-request.png](https://firstcontributions.github.io/assets/Readme/submit-pull-request.png)" alt="pull request gönder" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
 Kısa süre içinde tüm değişikliklerinizi bu projenin ana dalıyla (main branch) birleştireceğim. Değişiklikler birleştirildiğinde bir bildirim e-postası alacaksınız.
 
