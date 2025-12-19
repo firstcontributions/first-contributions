@@ -8,6 +8,7 @@
 - [Kavya](https://github.com/Kavya751)
 - [Deepika T](https://github.com/thotaDeepika)
 - [Vishwa K](https://github.com/vishw060404)
+- [Muhammad Fahad](https://github.com/muhammadfahaddev) 🚀
 - [Abhilash Reddy](https://github.com/AbhilashReddy1519)
 - [Deepak Kumar Kashyap](https://github.com/Deepak-kumar-kashyap)
 - [Danish Ahmed](https://github.com/daanish02)
