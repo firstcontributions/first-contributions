@@ -12,6 +12,7 @@
 - [Kavya](https://github.com/Kavya751)
 - [Deepika T](https://github.com/thotaDeepika)
 - [BVSK](https://github.com/bvsk369)
+- [IshCode1] 
 - [Vishwa K](https://github.com/vishw060404)
 - [Muhammad Fahad](https://github.com/muhammadfahaddev) 🚀
 - [Atharvashree] (https://github.com/TheIchigoSimp) First Open Source :D
