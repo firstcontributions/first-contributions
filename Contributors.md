@@ -127,6 +127,7 @@ yash goat
 -[Gaurang Gupta](https://github.com/Gauranggupta2323)
 Samarjit Singh Uppal(https://github.com/Samarjitdk)
 -[MURALIKRISHNAN-N](https://github.com/murali-33011)
+-[Aviral GUpta](https://github.com/Aviral044/)
 -[Ariel Wandera](https://github.com/ArielWandera)
 -[VIVEK G L](https://github.com/Vivek-git-1432)
 -[Saurabh Shakya](https://github.com/Shakya47)
