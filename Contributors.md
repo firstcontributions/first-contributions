@@ -2305,4 +2305,5 @@ sujoy
 - [Shifanatk](https://github.com/shifanatk)
 - [Adarsh Hazari]
 - [Rishi](https://github.com/rishi799)
+- [Wikosac](https://github.com/wikosac)
 - [Yijanho](https://github.com/jho951)
