@@ -5,11 +5,14 @@
 - [Hein Htet Ko](https://github.com/HeinHtetKo99)
 - [Jonah Kelman](https://github.com/Jonahkel) : First OSS contribution!!
 - [Zayn-ul-Abideen](https://github.com/hey-Zayn) ✔
+- [Houria Hasbellaoui](https://github.com/Houria-hs)
 - [Sohel Munjewar](https://github.com/ShankyCodeX)
 - [Kavya](https://github.com/Kavya751)
 - [Deepika T](https://github.com/thotaDeepika)
+- [BVSK](https://github.com/bvsk369)
 - [Vishwa K](https://github.com/vishw060404)
 - [Muhammad Fahad](https://github.com/muhammadfahaddev) 🚀
+- [Atharvashree] (https://github.com/TheIchigoSimp) First Open Source :D
 - [Abhilash Reddy](https://github.com/AbhilashReddy1519)
 - [Deepak Kumar Kashyap](https://github.com/Deepak-kumar-kashyap)
 - [Danish Ahmed](https://github.com/daanish02)
@@ -2324,3 +2327,6 @@ sujoy
 - [safsafa akram](https://github.com/utooo) was here. 
 - [Kaustubh Chaturvedi](https://github.com/Kaus-16)
 - [Derrick](https://github.com/Johnsonasffgg) 
+- [Kaustubh Chaturvedi](https://github.com/Kaus-16) 
+- [Morenoo91](https://github.com/morenoo91)
+- [Kartik Sharma] (https://github.com/kartik2828/)
