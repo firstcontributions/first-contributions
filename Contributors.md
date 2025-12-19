@@ -1389,6 +1389,7 @@ sujoy
 - [Chijioke Madu](https://github.com/SaltCJ)
 - [Chuffed](https://github.com/Chuffed-Code)
 - [Cole Oliva](https://github.com/ColeOliva)
+- [Cat-o-Bot](https://github.com/evgshv)
 - [David Gralla](https://github.com/dgralla)
 - [David Oh](https://github.com/DavidOh1606)
 - [Deepith N](https://github.com/deepith-18)
