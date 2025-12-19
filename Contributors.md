@@ -5,6 +5,7 @@
 - [Hein Htet Ko](https://github.com/HeinHtetKo99)
 - [Akshat Thakur](https://github.com/AkshatTh)
 - [Jonah Kelman](https://github.com/Jonahkel) : First OSS contribution!!
+- [Ryan Lin](https://github.com/rlyn122)
 - [Zayn-ul-Abideen](https://github.com/hey-Zayn) ✔
 - [Houria Hasbellaoui](https://github.com/Houria-hs)
 - [Sohel Munjewar](https://github.com/ShankyCodeX)
