@@ -186,6 +186,7 @@ SafGit-6
 -[StarFish]
 Trishant Jaiswal
 Nick
+-[Daniel G.](https://github.com/dg189149)
 -willdougla (https://github.com/willdougla)
 -[Yash Lund](https://github.com/yashlund05)
 -[Chaitanya Medidar](https://github.com/chaitanyamedidar)
