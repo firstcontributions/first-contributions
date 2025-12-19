@@ -337,6 +337,7 @@ Nick
 - [Dewanshu Goswami](https://github.com/TheMatrix31415926)
 - [Hamady Lamine Danioko](https://github.com/crafto-dnk)
 - [Dhanush M](https://github.com/Dhanush27m)
+- [Igor Barreto] (https://github.com/igorbarret0)
 - [microintel](https://github.com/microintel)
 - [Oscar Miranda](https://github.com/oimirandaa)
 - [mirza](https://github.com/imhasnain)
