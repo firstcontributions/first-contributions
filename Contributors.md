@@ -1984,6 +1984,7 @@ sujoy
 - [Milhane](https://github.com/chmilhane)
 - [Menschenkind](https://github.com/menschenkind)
 - [SummerAgain2025]
+- [Sharath Chandhan](https://github.com/sharath0x)
 - Areeba Adeen (https://github.com/AreebaAdeenMalik)
 - [HarshSingh] (https://github.com/HarshVileon)
 - [domenhribernik](https://github.com/domenhribernik)
