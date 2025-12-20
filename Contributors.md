@@ -9,6 +9,7 @@
 - [Pravesh Jain](https://github.com/praveshjainnn) : First open source contibution...
 
 - [Hein Htet Ko](https://github.com/HeinHtetKo99)
+- [Gioomoraes] (https://github.com/Gioomoraes) : First open source 
 - [Akshat Thakur](https://github.com/AkshatTh)
 - [Jonah Kelman](https://github.com/Jonahkel) : First OSS contribution!!
 - [Ryan Lin](https://github.com/rlyn122)
