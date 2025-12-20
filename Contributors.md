@@ -2090,6 +2090,7 @@ sujoy
 - [Anug](github)
 - [Massimo Celona](https://github.com/massimo-celona)
 - [Riya Agrawal](https://github.com/riyaagrawal02)
+- [Rabin Adhikari] (https://github.com/rabiiinnn)
 - [Disha Chiplonker](https://github.com/dishachiplonker/)
 - [Riya Agrawal](https://github.com/riyaagrawal02)
 - [Gokul Krishnan KS] (https://github.com/gokulkrishnanks)
