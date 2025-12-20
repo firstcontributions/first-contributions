@@ -15,6 +15,8 @@
 - [Deepika T](https://github.com/thotaDeepika)
 - [BVSK](https://github.com/bvsk369)
 - [IshCode1] 
+- [Saakshi Sharma](https://github.com/saakshiscode19) : starting my contribution journey.
+
 - [Vishwa K](https://github.com/vishw060404)
 - [Muhammad Fahad](https://github.com/muhammadfahaddev) 🚀
 - [Atharvashree] (https://github.com/TheIchigoSimp) First Open Source :D
@@ -28,7 +30,7 @@
 - [Muhammad P](https://github.com/mopy7)
 - [Nikhilesh Sai Santosh Tadivada](https://github.com/T-Nikhilesh)
 - [Ashwin Koli](https://github.com/koliashwin)
-- [Aryan Biswas] (https://github.com/AryanBiswas198) : First Open Source ;)
+- [Aryan Biswas] (https://github.com/AryanBiswas198) : First Open Source ;
 - [Fathima Manal](https://github.com/FathimaManal)
 - [CshardZ](https://github.com/CshardZ)
 - [Natnael Tewodors] (https://github.com/Natnael-Tewodros)
