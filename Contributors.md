@@ -16,6 +16,7 @@
 - [BVSK](https://github.com/bvsk369)
 - [IshCode1] 
 - [envy](https://github.com/envynshit)
+- [SankalpPimpalkar](https://github.com/SankalpPimpalkar)
 - [Vishwa K](https://github.com/vishw060404)
 - [Muhammad Fahad](https://github.com/muhammadfahaddev) 🚀
 - [Atharvashree] (https://github.com/TheIchigoSimp) First Open Source :D
