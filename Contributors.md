@@ -70,6 +70,7 @@
 - [Alankar Jagtap](https://github.com/AlankarJagtap)
 - [Arnav Saraswat](https://github.com/arnavs-uol)
 - [Hrishant Bheda](https://github.com/Hrishant05)
+- [Khushi Agrawal](https://github.com/mysterious-cod1004)
 - [Varun Sonwane](https://github.com/varunsonawane) 
 - [Lohith Arcot](https://github.com/LohithArcot)
 - [Menuka Hansda](https://github.com/menukahansda)
