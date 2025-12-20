@@ -227,6 +227,42 @@ Now submit the pull request.
 
 Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
 
+## Common Mistakes
+
+Here are some common issues beginners face when making their first pull request and how to fix them:
+
+### 1. Editing the wrong branch
+
+Make sure you create a **new branch** before making changes.  
+Avoid committing directly to the `main` branch of your fork.
+
+### 2. Forgetting to fork the repository
+
+You must fork this repository before cloning it.  
+If you cloned the original repo by mistake, fork it first and then clone your fork.
+
+### 3. Not pulling the latest changes
+
+If your PR shows conflicts, your fork may be out of date.  
+Pull the latest changes from your fork before pushing again.
+
+```bash
+# Example:
+git pull origin main
+```
+
+### 4. Formatting changes differently
+
+When adding your name to `Contributors.md`, follow the existing format to avoid unnecessary changes.
+
+### 5. Large or unrelated changes
+
+This repository is for learning. Keep your changes small and focused to make review easier.
+
+### 6. Unclear pull request description
+
+Briefly explain what you changed and why in your PR description. This helps maintainers review your contribution faster.
+
 ## Where to go from here?
 
 Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll often encounter as a contributor!
