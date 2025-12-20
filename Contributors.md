@@ -4,6 +4,8 @@
 - [Tripurari Pratap] (https://github.com/pratap-t) : First open source contribution
 - [Ranjith](https://github.com/ranjith-first-contribution) : First open source contribution
 - [Jeevanraj](https://github.com/Flame-Phoneix) : First open source contribution
+- [Pravesh Jain](https://github.com/praveshjainnn) : First open source contibution...
+
 - [Hein Htet Ko](https://github.com/HeinHtetKo99)
 - [Akshat Thakur](https://github.com/AkshatTh)
 - [Jonah Kelman](https://github.com/Jonahkel) : First OSS contribution!!
