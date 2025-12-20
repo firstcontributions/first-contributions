@@ -1025,6 +1025,7 @@ sujoy
 - [Andyple](https://github.com/andyple)
 - [eulerBM](https://github.com/eulerBM)
 - [Jordy19](https://github.com/Jordy19)
+- [Tushar Moolya](https://github.com/tushiar)
 - [Robiya](https://github.com/rhakim24)
 - [outsutski](https://github.com/outsutski)
 - [jhc4318](https://github.com/jhc4318)
