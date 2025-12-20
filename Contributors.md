@@ -1,4 +1,5 @@
 # Contributors
+- [Rashmi Priya] (https://github.com/rashmip2102) : First contribution, hope I stay consistent
 - [Ethan Holling] (https://github.com/OverlordJeb) : First and hopefully not the last contribution!z
 - [Kanishka Wijeratne] (https://githubt.com/KanishkaWijeratne) : First open source contribution
 - [Tripurari Pratap] (https://github.com/pratap-t) : First open source contribution
