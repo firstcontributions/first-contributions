@@ -8,7 +8,7 @@ Ekigendererwa ky'enteekateeka eno kwe kusobozesa n'okuyamba abayizi mu kuteekawo
 
 _Bw'oba tokkiriziganya na command line, [wano waliyo ebiranga ebikozesa ebikozesebwa ebiwa GUI.](#tutorials-using-other-tools)_
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="foka etterekero lino" />
 
 #### Bw'oba tolina git ku kompyuta yo, [teeka git](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
@@ -18,7 +18,7 @@ Gabaako repo eno nga okozesa ekirungo ekiri waggulu ku lupapula luno. Kino kijja
 
 ## Koppa repo
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="kola kopi ya etterekero lino ku kompyuta yo" />
 
 Kati koppa repo eyogabiddwa ku kompyuta yo. Genda ku akaawunti yo ku GitHub, fungula repo eyogabiddwa, koona ku kaakano akaliko code n'oluvannyuma koona ku kirungo  _copy to clipboard_.
 
@@ -30,7 +30,7 @@ git clone "url you just copied"
 
 "URL gy'okoze koppa" (nga tekirina obubonero obuli mu kkiwandiiko) kye URL eri ku repo eno (okugaba kwo ku kawefube ono). Laba ku bigambo ebyo ebiri waggulu okugenda ku URL.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="koppa endagiriro (URL) ku clipboard" />
 
 Ekikokyo:
 
@@ -64,7 +64,7 @@ git switch -c add-alonzo-church
 
 Kati gulawo fayiro ya `Contributors.md` mu kikozesebwa ky'okuwandiika, yongeramu erinnya lyo mu fayiro eno. Togyongeramu ku ntandikwa oba ku nkomerero ya fayiro. Tta gy'ali wakati wa fayiro. Kati, giyita fayiro eno.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="embeera ya git" />
 
 Bw'ogenda mu kisenge ky'enteekateeka n'okola ekiragiro `git status`, ojja kulaba nga waliyo enkyukakyuka.
 
@@ -96,11 +96,11 @@ oweerereza erinnya lyo ku  `your-branch-name`.
 
 Bw'ogenda ku repo yo ku GitHub, ojja kulaba akapipati ka `Compare & pull request`. Koona ku kapipati ako.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="kolawo pull request empya" />
 
 Kati weereza pull request.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="weereza pull request`" />
 
 Olwatuuka kunsonga y'okukakasa enkyukakyuka zo, ojja kufuna email ya kunnyonnyola enkyukakyuka zomaze okukakasa.
 
