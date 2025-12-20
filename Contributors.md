@@ -64,6 +64,7 @@
 - [Sourav Mitra](https://github.com/SouravMitra98): My first Contribution
 - [Soumyadip Dutta](https://github.com/Soumyadip1004)
 - [Khamza Zhanbolat](https://github.com/KhamzaZhanbolat)
+- [Narendra Reddy](https://github.com/narenredcr)
 - [Jiaqi Fan](https://github.com/jiaqifan42)
 - [Chris Tandoh](https://github.com/Christandoh)
 - [Sagar Thalkiya](https://github.com/SagarThalkiya) : Mama look i'm a developer!
