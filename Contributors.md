@@ -2322,6 +2322,7 @@ sujoy
 - [inesseMs](https://github.com/inesseMs)
 - [salahee22](https://github.com/salahee22)
 - [yanissem2007-prog](https://github.com/yanissem2007-prog)
+- [Mert OZKOK] (https://github.com/nmnx001) -Hi everyone!
 - [medali213](https://github.com/medali213)
 - [Hichem5](https://github.com/Hichem5)
 - [Aaditya Baniya](https://github.com/aditya-baniya-ai)
