@@ -1,4 +1,5 @@
 # Contributors
+- [Rashmi Priya] (https://github.com/rashmip2102) : First contribution, hope I stay consistent
 - [Ethan Holling] (https://github.com/OverlordJeb) : First and hopefully not the last contribution!z
 - [Kanishka Wijeratne] (https://githubt.com/KanishkaWijeratne) : First open source contribution
 - [Tripurari Pratap] (https://github.com/pratap-t) : First open source contribution
@@ -2354,3 +2355,5 @@ sujoy
 - [徐塬峰] (https://github.com/RAOE)
 - [Miraeus] (https://github.com/Miraeus/)
 - [Vaishnavi Jagtap](https://github.com/vaishnavijagtap02)
+- [Nitin Kumar](https://github.com/nitin-kumar-code)
+
