@@ -29,6 +29,7 @@
 - [Nikhilesh Sai Santosh Tadivada](https://github.com/T-Nikhilesh)
 - [Ashwin Koli](https://github.com/koliashwin)
 - [Aryan Biswas] (https://github.com/AryanBiswas198) : First Open Source ;)
+-[Aztrek2000](https://github.com/starsnipe407) : First contribution but definitely not the last !!!
 - [Fathima Manal](https://github.com/FathimaManal)
 - [CshardZ](https://github.com/CshardZ)
 - [Natnael Tewodors] (https://github.com/Natnael-Tewodros)
