@@ -15,6 +15,7 @@
 - [Deepika T](https://github.com/thotaDeepika)
 - [BVSK](https://github.com/bvsk369)
 - [IshCode1] 
+- [envy](https://github.com/envynshit)
 - [Vishwa K](https://github.com/vishw060404)
 - [Muhammad Fahad](https://github.com/muhammadfahaddev) 🚀
 - [Atharvashree] (https://github.com/TheIchigoSimp) First Open Source :D
