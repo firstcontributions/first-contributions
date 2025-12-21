@@ -2376,4 +2376,5 @@ sujoy
 - [Vaishnavi Jagtap](https://github.com/vaishnavijagtap02)
 - [Nitin Kumar](https://github.com/nitin-kumar-code)
 - [Adam Kingswood](https://github.com/AdamKingswood)
+- [Shozab Ali Nasir](https://github.com/shozabali06)
 - [Mehmet Kahraman](https://github.com/mikahraman)
