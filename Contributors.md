@@ -2378,5 +2378,6 @@ sujoy
 - [Vaishnavi Jagtap](https://github.com/vaishnavijagtap02)
 - [Nitin Kumar](https://github.com/nitin-kumar-code)
 - [Adam Kingswood](https://github.com/AdamKingswood)
+- - [Yugendra N](https://github.com/Yugenjr) : First open source contribution and learning code review on GitHub
 - [Shozab Ali Nasir](https://github.com/shozabali06)
 - [Mehmet Kahraman](https://github.com/mikahraman)
