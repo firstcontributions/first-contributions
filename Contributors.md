@@ -2394,3 +2394,4 @@ sujoy
 - [Shlok Gupta](https://github.com/LogicHymn)
 - [Yogesh Yadav](https://github.com/Yogiii13)
 - - [Shams Salah](https://github.com/Eng-SHams-salah)
+- [Jaime Rubio](https://github.com/xjrubcas394) First participation overall
