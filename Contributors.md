@@ -24,6 +24,7 @@
 - [Rashmi Priya] (https://github.com/rashmip2102) :
 - [YFJ](https://github.com/YCJG)
 - [SankalpPimpalkar](https://github.com/SankalpPimpalkar)
+- [Utpal Kalita](https://github.com/Utpal-Kalita) : Marking my name in history
 - [Vishwa K](https://github.com/vishw060404)
 - [Muhammad Fahad](https://github.com/muhammadfahaddev) 🚀
 - [Atharvashree] (https://github.com/TheIchigoSimp) First Open Source :D
