@@ -46,6 +46,7 @@
 - [Fathima Manal](https://github.com/FathimaManal)
 - [CshardZ](https://github.com/CshardZ)
 - [Vansh]
+- [Newbie1223](https://github.com/newbie1223)
 - [Natnael Tewodors] (https://github.com/Natnael-Tewodros)
 - [Soujanya](https://github.com/Soujanya30-dev) 
 - [Sree Pada](https://github.com/sreepadha102): Follow my portfolio project!!
