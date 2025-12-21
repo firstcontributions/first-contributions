@@ -21,6 +21,7 @@
 - [Kavya](https://github.com/Kavya751)
 - [Deepika T](https://github.com/thotaDeepika)
 - [BVSK](https://github.com/bvsk369)
+- [Khushal Pankhaniya](https://github.com/khushalpankhaniya)
 - [IshCode1] 
 - [envy](https://github.com/envynshit)
 - [Rashmi Priya] (https://github.com/rashmip2102) :
@@ -2381,3 +2382,4 @@ sujoy
 - - [Yugendra N](https://github.com/Yugenjr) : First open source contribution and learning code review on GitHub
 - [Shozab Ali Nasir](https://github.com/shozabali06)
 - [Mehmet Kahraman](https://github.com/mikahraman)
+
