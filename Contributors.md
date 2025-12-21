@@ -783,6 +783,7 @@ sujoy
 - [James-826](https://github.com/James-826)
 - [Bobrikus Smith](https://github.com/fairhair9)
 - [Abdou-kdj](https://github.com/abdoukare)
+- [Schaaz-Ahmad-Kazmi](https://github.com/Schaaz)
 - [Janardhan Polle](https://github.com/Jce)
 - [LostChyld](https://github.com/dragonsewist/)
 - [Adhil Bathali](https://github.com/adhilbathali)
