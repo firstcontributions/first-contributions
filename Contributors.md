@@ -42,13 +42,18 @@
 - [Muhammad P](https://github.com/mopy7)
 - [Nikhilesh Sai Santosh Tadivada](https://github.com/T-Nikhilesh)
 - [Ashwin Koli](https://github.com/koliashwin)
+Sandeep
+
 - [Aryan Biswas] (https://github.com/AryanBiswas198) : First Open Source ;)
 -[Aztrek2000](https://github.com/starsnipe407) : First contribution but definitely not the last !!!
 - [Siddharth Mishra](https://github.com/iamsid-19) : miles to go before I sleep 
 - [Fathima Manal](https://github.com/FathimaManal)
+Sandeep - India
+
 - [CshardZ](https://github.com/CshardZ)
 - [Vansh]
-- [Newbie1223](https://github.com/newbie1223)
+- [Newbie1223](https://github.com/newbie1223)Sandeep (India)
+
 - [Natnael Tewodors] (https://github.com/Natnael-Tewodros)
 - [Soujanya](https://github.com/Soujanya30-dev) 
 - [Sree Pada](https://github.com/sreepadha102): Follow my portfolio project!!
