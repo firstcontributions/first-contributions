@@ -113,10 +113,10 @@ Now clone the forked repository to your machine. Go to your GitHub account, open
 Open a terminal and run the following git command:
 
 ```bash
-git clone "url you just copied"
+git clone <url you just copied>
 ```
 
-where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
+where <url you just copied> (without the symbols) is the url to this repository (your fork of this project). See the previous steps to obtain the url (If you followed the steps, then it must be in your clipboard).
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
@@ -126,7 +126,7 @@ For example:
 git clone git@github.com:this-is-you/first-contributions.git
 ```
 
-where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
+where `this-is-you` is your GitHub _\<username\>_. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
 
 ## Create a branch
 
@@ -229,7 +229,10 @@ Soon I'll be merging all your changes into the main branch of this project. You 
 
 ## Where to go from here?
 
-Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll often encounter as a contributor!
+Congrats! You just completed the standard
+> _fork -> clone -> edit -> pull request_ 
+
+workflow that you'll often encounter as a contributor!
 
 Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io/#social-share).
 
