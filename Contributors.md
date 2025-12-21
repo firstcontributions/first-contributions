@@ -1,6 +1,7 @@
 # Contributors
 - [Maruthi Vandadi] (https://github.com/maruthivandadi) :First contribution,I want to learn and connect with people
 - [Rashmi Priya] (https://github.com/rashmip2102) : First contribution, hope I stay consistent
+- [Sarthak Tyagi] (https://github.com/sarthak-cs) :First contribution, Here to learn more 
 - [Vlad Hnatovskyi] (https://github.com/vladhnat) : First open source contribution
 - [Ethan Holling] (https://github.com/OverlordJeb) : First and hopefully not the last contribution!z
 - [Kanishka Wijeratne] (https://githubt.com/KanishkaWijeratne) : First open source contribution
