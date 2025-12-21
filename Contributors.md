@@ -79,6 +79,7 @@
 - [Sagar Thalkiya](https://github.com/SagarThalkiya) : Mama look i'm a developer!
 - [Lenin Castellano](https://github.com/lenincastellano)
 - [Marco Biaggi](https://github.com/mafpbiaggi)
+- [Adarsh](https://github.com/AdarshDhanware) : First contribution
 - [Disha Kurkuri](https://github.com/hellomushrooms)
 - [Satish Kirpan](https://github.com/Satish1994)
 - [Sudarshan Dongre](https://github.com/SudWasatch)
