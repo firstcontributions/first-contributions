@@ -2384,3 +2384,4 @@ sujoy
 - - [Yugendra N](https://github.com/Yugenjr) : First open source contribution and learning code review on GitHub
 - [Shozab Ali Nasir](https://github.com/shozabali06)
 - [Mehmet Kahraman](https://github.com/mikahraman)
+- [Shlok Gupta](https://github.com/LogicHymn)
