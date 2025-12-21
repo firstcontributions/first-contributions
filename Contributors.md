@@ -2395,3 +2395,4 @@ sujoy
 - [Yogesh Yadav](https://github.com/Yogiii13)
 - - [Shams Salah](https://github.com/Eng-SHams-salah)
 - [Jaime Rubio](https://github.com/xjrubcas394) First participation overall
+- [Alvaro Medina](https://github.com/Medii24)
