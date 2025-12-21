@@ -964,6 +964,7 @@ sujoy
 - [Tejas Jogdand](https://github.com/Tejas-Jogdand)
 - [wystmk](https://github.com/wystmk)
 - [Pia Yeah](https://github.com/piagildehaus)
+- [Dalton Luís](https://github.com/DaltonLuis)
 - [Samuel Shih](https://github.com/afashih-samuel)
 - [Frederick2313072](https://github.com/Frederick2313072)
 - [Shab00](https://github.com/Shab00)
