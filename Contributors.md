@@ -2413,4 +2413,5 @@ sujoy
 - [Aryan Koirala](https://github.com/Akoir)
 - test1
 - [Balbir Brench](https://github.com/balbirbrench)
-- [Tej M Bhat](https://github.com/TejBhat)
+- [Tej M Bhat](https://github.com/TejBhat
+- [Mariusz Jasko](https://github.com/Marjo185)
