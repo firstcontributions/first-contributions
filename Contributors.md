@@ -19,7 +19,7 @@
 - [Ranjith](https://github.com/ranjith-first-contribution) : First open source contribution
 - [Jeevanraj](https://github.com/Flame-Phoneix) : First open source contribution
 - [Pravesh Jain](https://github.com/praveshjainnn) : First open source contibution...
-
+- [Dhanush Pavan](https://github.com/dhanushpavann) : First Open Source Contribution!
 - [Shaek](https://github.com/shaek666/first-contributions.git) : First open source contribution
 - [Kyaw Tun Soe] (https://github.com/KyawGyi98-grey)
 - [Hein Htet Ko](https://github.com/HeinHtetKo99)
