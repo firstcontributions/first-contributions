@@ -1304,6 +1304,7 @@ sujoy
 - [Harsh Verma](https://github.com/hv0911)
 - [Joaquin D](https://github.com/Joaco273)
 - [Loyd Ngei](https://github.com/LoydNgei)
+- [David Gerardi](https://github.com/Cometslegacy)
 - [White](https://github.com/Baibajiujing)
 - [Kassahun F](https://github.com/Kas1398)
 - [Inshal 0x03a](https://github.com/0x03a)
