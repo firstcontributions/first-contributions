@@ -1976,6 +1976,7 @@ sujoy
 - [maclaccha](https://github.com/maclaccha)
 - [Sabarivenkatesh](https://github.com/Sabarivenkatesh3)
 - [chandansingh](https://github.com/firstcontributions/first-contributions)
+- [G.Srividhya](https://github.com/firstcontributions/first-contributions) (new contributor learning..)
 - [tembomalinga]
 - [Anuj Pal] (https://github.com/Anujj-debug/first-contributions?tab=readme-ov-file)
 - [Arti Shelar](https://github.com/shelararti)
