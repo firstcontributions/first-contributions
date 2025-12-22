@@ -13,6 +13,7 @@
 - [Jeevanraj](https://github.com/Flame-Phoneix) : First open source contribution
 - [Pravesh Jain](https://github.com/praveshjainnn) : First open source contibution...
 
+- [Shaek](https://github.com/shaek666/first-contributions.git) : First open source contribution
 - [Hein Htet Ko](https://github.com/HeinHtetKo99)
 - [Gioomoraes] (https://github.com/Gioomoraes) : First open source 
 - [Gregory Temwa] (https://github.com/youneedgreg) : First open source 
