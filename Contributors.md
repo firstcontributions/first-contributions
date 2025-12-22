@@ -1,5 +1,6 @@
 # Contributors 
 - [Pavlo Zhurbytskyi](https://github.com/pavelkortp) 🚀🚀🚀 : First contribution, I want to learn
+- [Matthias Dupont](https://github.com/matthiasdupont) 👾🤖🎄 : First open source contribution
 - [Hassan Raza] (https://github.com/Hassan-Raza-ktk) : First contribution, I want to learn
 - [Veerendra Kumar] (https://github.com/kumar-veerendra) : First contribution, I want to learn
 - [Tapendra Tiruwa] (https://github.com/bkpiru6-ship-it) : First contribution, I want to learn and make connection with new people 
@@ -2412,3 +2413,4 @@ sujoy
 - [Aryan Koirala](https://github.com/Akoir)
 - test1
 - [Balbir Brench](https://github.com/balbirbrench)
+- [Tej M Bhat](https://github.com/TejBhat)
