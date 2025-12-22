@@ -39,6 +39,7 @@
 - [Molly Kao](https://github.com/Dino-Boooo) : First contribution!!🎄
 - [envy](https://github.com/envynshit)
 - [Rashmi Priya] (https://github.com/rashmip2102) :
+- [Ayush singh](https://github.com/ayush45-ui) : my first contribution !!
 - [YFJ](https://github.com/YCJG)
 - [SankalpPimpalkar](https://github.com/SankalpPimpalkar)
 - [sai sankar reddy](https://github.com/saireddy-6825)
