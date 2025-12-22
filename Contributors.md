@@ -37,6 +37,7 @@
 - [Kavya](https://github.com/Kavya751)
 - [Deepika T](https://github.com/thotaDeepika)
 - [BVSK](https://github.com/bvsk369)
+- [Khushal Pankhaniya](https://github.com/khushalpankhaniya)
 - [IshCode1] 
 - [Molly Kao](https://github.com/Dino-Boooo) : First contribution!!🎄
 - [envy](https://github.com/envynshit)
