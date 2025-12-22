@@ -66,6 +66,8 @@
 - [Kavishka Sasindu](https://github.com/KavishkaSasindu)
  -[Abhay_Negi]
   -[sunny kumar dangi]
+
+- [Cristian Andriel] (https://github.com/CristianAndriel)
 - [Jaivika Agare]
 - Amiel Josh Basug (https://github.com/juswa005)
 - [Christopher Lusk] (https://github.com/north-echo)
