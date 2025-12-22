@@ -92,6 +92,7 @@
 - [Adarsh](https://github.com/AdarshDhanware) : First contribution
 - [Disha Kurkuri](https://github.com/hellomushrooms)
 - [Satish Kirpan](https://github.com/Satish1994)
+- [Samar Bashath](https://github.com/SamarBashath)
 - [Pouya Esfahani](https://github.com/Pooyash1998) 
 - [Sudarshan Dongre](https://github.com/SudWasatch)
 - [Alankar Jagtap](https://github.com/AlankarJagtap)
