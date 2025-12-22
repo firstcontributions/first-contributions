@@ -260,6 +260,7 @@ Nick
  - [Aniket Dinde](https://github.com/aniketmdinde)
  - [Omkar] (https://github.com/omk18p)
  - [Lasisi Ibrahim Pelumi] (https://github.com/ibrahimpelumi6142)
+ - [Julia Swan Wroble aka Zules] (https://github.com/zules)
  - [Liam Reckziegel] (https://github.com/reckziegelwilliam)
  - [Shakirscode] (https://github.com/shakirscode)
 - [ShivangiPandey] (https://github.com/ShivangiP2005)
