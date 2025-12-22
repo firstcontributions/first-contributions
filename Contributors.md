@@ -2400,3 +2400,4 @@ sujoy
 - [Jaime Rubio](https://github.com/xjrubcas394) First participation overall
 - [Cosmic Farhan]
 - [NarendraRaoJami](https://github.com/NarendraRaoJami)
+- [Aryan Koirala](https://github.com/Akoir)
