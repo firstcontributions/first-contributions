@@ -2059,7 +2059,6 @@ sujoy
 - [Allamelol](https://github.com/Allamelol)
 - [Demo_pr] (https://github.com/build4web3)
 - [Gazwel](https://github.com/Minecraeteuh)
-- [Shashank Upadhya]
 - [raro212](https://github.com/raro212)
 - [Anto42_](https://github.com/Antoo42)
 - [Alex-new-tech](https://github.com/Alex-new-tech)
@@ -2420,3 +2419,4 @@ sujoy
 - [Balbir Brench](https://github.com/balbirbrench)
 - [Tej M Bhat](https://github.com/TejBhat
 - [Mariusz Jasko](https://github.com/Marjo185)
+- Gowtham Reddy
