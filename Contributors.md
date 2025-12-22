@@ -32,6 +32,7 @@
 - [Deepika T](https://github.com/thotaDeepika)
 - [BVSK](https://github.com/bvsk369)
 - [IshCode1] 
+- [Molly Kao](https://github.com/Dino-Boooo) : First contribution!!🎄
 - [envy](https://github.com/envynshit)
 - [Rashmi Priya] (https://github.com/rashmip2102) :
 - [YFJ](https://github.com/YCJG)
