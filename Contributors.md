@@ -59,6 +59,7 @@
 - [Natnael Tewodors] (https://github.com/Natnael-Tewodros)
 - [Soujanya](https://github.com/Soujanya30-dev) 
 - [Sree Pada](https://github.com/sreepadha102): Follow my portfolio project!!
+- [Shruti Chadda](https://github.com/Shruti-chadda)
 - [Aditya kumar](https://github.com/Aditya754194)
 - [Amar Kant Diwakar](https://github.com/Amarworks)
 - [Adithyan Sunilkumar](https://github.com/Adithyansunilkumar)
