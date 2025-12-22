@@ -152,7 +152,7 @@ git switch -c add-alonzo-church
 <summary> <strong>If you get any errors using git switch, click here:</strong> </summary>
 
 If the error message "Git: `switch` is not a git command. See `git –help`" appears, it's likely because you're using an older version of git.
-
+this is my first open source contribution.
 In this case, try to use `git checkout` instead:
 
 ```bash
