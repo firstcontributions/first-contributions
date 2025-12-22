@@ -84,6 +84,8 @@
 - [Cristian Andriel] (https://github.com/CristianAndriel)
 - [Jaivika Agare]
 - Amiel Josh Basug (https://github.com/juswa005)
+- [Akshaya Kondaparthy](https://github.com/AkshayaKondaparthy)
+
 - [Christopher Lusk] (https://github.com/north-echo)
 - [Edwin Ezidhore] (https://github.com/EdwinEzidhore)
 - [Deepanshu Mishra](https://github.com/Deepanshumishra2004)
