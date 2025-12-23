@@ -1679,6 +1679,7 @@ sujoy
 - [Gokul Bansal](https://github.com/Osptium-Invincible)
 - [GENJI J](https://github.com/anya-minamoto)
 - [Gal Levin](https://github.com/GalLevin239)
+- [Sri](Aiming for GSOC contributor) 
 - [Ganesh R](https://github.com/ganesh-techs)
 - [Gopal](https://github.com/gopallchoudhary)
 - [Goyomix325](https://github.com/Goyomix325)
