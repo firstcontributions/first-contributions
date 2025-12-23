@@ -2464,4 +2464,5 @@ sujoy
 - [ErtanSidar](https://github.com/ErtanSidar)
 - Mubarrah Latif — Software Engineering student
 - [AdiyaTakhell](https://github.com/AdiyaTakhell)
+- [Aron](https://github.com/Aron5544)
 - [Spoorthi G M](https://github.com/Spoorthigopal):first contribution
