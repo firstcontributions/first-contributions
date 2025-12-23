@@ -21,6 +21,7 @@
 - [Pravesh Jain](https://github.com/praveshjainnn) : First open source contibution...
 - [Dhanush Pavan](https://github.com/dhanushpavann) : First Open Source Contribution!
 - [Shaek](https://github.com/shaek666/first-contributions.git) : First open source contribution
+- hasnat safdar : Arch BTW
 - [Kyaw Tun Soe] (https://github.com/KyawGyi98-grey)
 - [Anjaneya Kumar](https://github.com/Anjaneyakumar18)
 - [Hein Htet Ko](https://github.com/HeinHtetKo99)
