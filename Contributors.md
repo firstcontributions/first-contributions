@@ -18,13 +18,14 @@
 - [Tripurari Pratap] (https://github.com/pratap-t) : First open source contribution
 - [Ranjith](https://github.com/ranjith-first-contribution) : First open source contribution
 - [Jeevanraj](https://github.com/Flame-Phoneix) : First open source contribution
-- [Pravesh Jain](https://github.com/praveshjainnn) : First open source contibution...
+- [Pravesh Jain](https://github.com/praveshjainnn) : First open source contibution...ß
 - [Dhanush Pavan](https://github.com/dhanushpavann) : First Open Source Contribution!
 - [Shaek](https://github.com/shaek666/first-contributions.git) : First open source contribution
 - hasnat safdar : Arch BTW
 - [Kyaw Tun Soe] (https://github.com/KyawGyi98-grey)
 - [Anjaneya Kumar](https://github.com/Anjaneyakumar18)
-- [Hein Htet Ko](https://github.com/HeinHtetKo99)
+- [Moses Tapfuma](https://github.com/moseskt)
+- [Moses Tapfuma](https://github.com/ktasolutions)
 - [M K]
 - [Michiel de Boer](https://github.com/mitch-d-b)
 - [Gioomoraes] (https://github.com/Gioomoraes) : First open source 
