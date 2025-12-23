@@ -37,6 +37,7 @@
 - [Zayn-ul-Abideen](https://github.com/hey-Zayn) ✔
 - [Houria Hasbellaoui](https://github.com/Houria-hs)
 - [杨超](https://github.com/superyoung9208) : 今天打老虎
+- [Shubham Pandit](https://github.com/shubham-283) : There were 17,683 commits before my contribution. This is where my journey begins!!
 - [Sohel Munjewar](https://github.com/ShankyCodeX)
 Abdulrahman Sultan
 - [Kavya](https://github.com/Kavya751)
@@ -396,6 +397,7 @@ Nick
 - [Ramkumar T](https://github.com/sparkp1ug)
 -[Harman](https://github.com/haraman1078)
 - [Venkata Ramprasad Pade](https://github.com/ramprasad-13)
+- [Kartheek Budime](https://github.com/kartheek0107)
 - [Mohammad Marouful Islam Zishan](https://github.com/zishan344)
 - [- Gaurav Mandal](https://github.com/gaurav8228/)
 - [Dewanshu Goswami](https://github.com/TheMatrix31415926)
@@ -2450,3 +2452,4 @@ sujoy
 - [Joshitha](https://github.com/joshitha-codes) : First open source contribution
 - [ErtanSidar](https://github.com/ErtanSidar)
 - Mubarrah Latif — Software Engineering student
+- [AdiyaTakhell](https://github.com/AdiyaTakhell)
