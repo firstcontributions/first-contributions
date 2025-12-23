@@ -2438,4 +2438,4 @@ sujoy
 - [Tej M Bhat](https://github.com/TejBhat
 - [Mariusz Jasko](https://github.com/Marjo185)
 - [Ashwin Raj](https://github.com/ashwinraj8090)
-- [Deepak Chand](https://open.spotify.com/)
+- [Deepak Chand](https://github.com/)
