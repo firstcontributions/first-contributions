@@ -7,7 +7,8 @@
 Оңай іс емес, жалпы кез-келген істе алғашқы қадам қиын келеді. Қателіктер жасау өте жағымсыз, әсіресе топтық жұмыс істесеңіз. Барлық open source проекттер ынтымақтастық пен бірегей жұмыстан тұрады. Біз бастаушы әзірлеушілер үшін үлес қосу және бірлесіп жұмыс істеудегі алғашқы қадамдарды жеңілдеткіміз келеді.
 
 Егер сіз өзіңіздің алғашқы үлесіңізді жасау мүмкіндігін іздесеңіз, төмендегі қарапайым қадамдарды орындаңыз.
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="Бул репозиторийди форк кылыңыз" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="Бұл репозиторийді форк жасаңыз" />
+
 
 Егерде сіздің компьютеріңізде git қосылмаған болса, [ оны қосыңыз ](https://help.github.com/articles/set-up-git/)
 
@@ -17,7 +18,8 @@
 
 ## Репозиторийді клондаңыз
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="Бул репозиторийди клондоо" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="Бұл репозиторийді клондаңыз" />
+
 
 Енді бұл репозиторийді өз дербес компьютеріңізге клодаңыз. Сілтемені көшіру үшін `clone` батырмасын басыңыз, содан кейін `copy to clipboard` белгішесіне басыңыз.
 
@@ -29,7 +31,8 @@ git clone "url you just copied"
 
 Бұл жерде "url you just copied" (тырнақшасыз) сіздің репозиторийңізге сілтеме. Бұл сілтемені алу үшін алдыңғы қадамдарды қараңыз.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="URLди клипбордго көчүрүү" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="URL мекенжайын алмасу буферіне көшіріңіз" />
+
 
 Мысалы:
 
@@ -91,11 +94,13 @@ git push origin your-new-branch-name
 
 Егер сіз GitHub-тағы репозиторийге кірсеңіз, `Compare & pull request` батырмасын көресіз. Оны басыңыз.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="Пул-реквест түзүңүз" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="Pull request жасаңыз" />
+
 
 Енді пулл-реквестті растаңыз.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="Пул-реквест жөнөтүү" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="Pull request жіберіңіз" />
+
 
 Көп ұзамай мен осы жобаның негізгі бөлімімен барлық өзгерістерді біріктіремін. Өзгерістер қабылданған кезде (мердж жасалғанда) электрондық хат аласыз.
 
