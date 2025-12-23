@@ -1,6 +1,7 @@
 # Contributors 
--[Shivanshu Pandey] (https://github.com/Shivanshupandey5) 👾🤖🎄 : First open source contribution
+- [Shivanshu Pandey](https://github.com/Shivanshupandey5) 👾🤖🎄 : First open source contribution
 - [Pavlo Zhurbytskyi](https://github.com/pavelkortp) 🚀🚀🚀 : First contribution, I want to learn
+- [Théo Balick](https://github.com/Balick) 😉 : This is my first contribution
 - [Matthias Dupont](https://github.com/matthiasdupont) 👾🤖🎄 : First open source contribution
 - [Hassan Raza] (https://github.com/Hassan-Raza-ktk) : First contribution, I want to learn
 - [Dawit Worku](https://github.com/dawaman43) : First contribution, I want to learn
