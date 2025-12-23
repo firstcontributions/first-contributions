@@ -2351,4 +2351,4 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - Mubarrah Latif — Software Engineering student
 - [AdiyaTakhell](https://github.com/AdiyaTakhell)
 - [Spoorthi G M](https://github.com/Spoorthigopal):first contribution
-- [Kailash Rooj](https://github.com/Kailash-Rooj)
+- [Kailash Rooj](https://github.com/Kailash-Rooj):first contribution
