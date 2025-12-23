@@ -1,6 +1,7 @@
 # Contributors 
--[Shivanshu Pandey] (https://github.com/Shivanshupandey5) 👾🤖🎄 : First open source contribution
+- [Shivanshu Pandey](https://github.com/Shivanshupandey5) 👾🤖🎄 : First open source contribution
 - [Pavlo Zhurbytskyi](https://github.com/pavelkortp) 🚀🚀🚀 : First contribution, I want to learn
+- [Théo Balick](https://github.com/Balick) 😉 : This is my first contribution
 - [Matthias Dupont](https://github.com/matthiasdupont) 👾🤖🎄 : First open source contribution
 - [Hassan Raza] (https://github.com/Hassan-Raza-ktk) : First contribution, I want to learn
 - [Dawit Worku](https://github.com/dawaman43) : First contribution, I want to learn
@@ -18,14 +19,16 @@
 - [Tripurari Pratap] (https://github.com/pratap-t) : First open source contribution
 - [Ranjith](https://github.com/ranjith-first-contribution) : First open source contribution
 - [Jeevanraj](https://github.com/Flame-Phoneix) : First open source contribution
-- [Pravesh Jain](https://github.com/praveshjainnn) : First open source contibution...
+- [Pravesh Jain](https://github.com/praveshjainnn) : First open source contibution...ß
 - [Dhanush Pavan](https://github.com/dhanushpavann) : First Open Source Contribution!
 - [Shaek](https://github.com/shaek666/first-contributions.git) : First open source contribution
 - hasnat safdar : Arch BTW
 - [Kyaw Tun Soe] (https://github.com/KyawGyi98-grey)
 - [Anjaneya Kumar](https://github.com/Anjaneyakumar18)
-- [Hein Htet Ko](https://github.com/HeinHtetKo99)
+- [Moses Tapfuma](https://github.com/moseskt)
+- [Moses Tapfuma](https://github.com/ktasolutions)
 - [M K]
+- [Adnan Grbesic](https://github.com/adnangrbesic) : First open source contribution!!!
 - [DraeK] (https://github.com/keerthansamudrala/) : just right, Got right
 - [Michiel de Boer](https://github.com/mitch-d-b)
 - [Gioomoraes] (https://github.com/Gioomoraes) : First open source 
@@ -36,10 +39,12 @@
 - [Zayn-ul-Abideen](https://github.com/hey-Zayn) ✔
 - [Houria Hasbellaoui](https://github.com/Houria-hs)
 - [杨超](https://github.com/superyoung9208) : 今天打老虎
+- [Shubham Pandit](https://github.com/shubham-283) : There were 17,683 commits before my contribution. This is where my journey begins!!
 - [Sohel Munjewar](https://github.com/ShankyCodeX)
 Abdulrahman Sultan
 - [Kavya](https://github.com/Kavya751)
 - [Deepika T](https://github.com/thotaDeepika)
+- [Prashant Singh](https://github.com/prashantsingh1122)
 - [BVSK](https://github.com/bvsk369)
 - [Khushal Pankhaniya](https://github.com/khushalpankhaniya)
 - [IshCode1] 
@@ -127,6 +132,7 @@ Abdulrahman Sultan
 - [Menuka Hansda](https://github.com/menukahansda)
 - [keshankumara](https://github.com/keshankumara)
 - [Caleb Wodi](https://github.com/calchiwo)
+- [Mehar Abdullah] (https://github.com/meharx07)
 - [Fernando García](https://github.com/fergg66)
 - [Matthew Stetter](https://github.com/stetterm)
 - [Sandeep Kumar](https://github.com/sandeep-sk)
@@ -394,6 +400,7 @@ Nick
 - [Ramkumar T](https://github.com/sparkp1ug)
 -[Harman](https://github.com/haraman1078)
 - [Venkata Ramprasad Pade](https://github.com/ramprasad-13)
+- [Kartheek Budime](https://github.com/kartheek0107)
 - [Mohammad Marouful Islam Zishan](https://github.com/zishan344)
 - [- Gaurav Mandal](https://github.com/gaurav8228/)
 - [Dewanshu Goswami](https://github.com/TheMatrix31415926)
@@ -1824,6 +1831,7 @@ sujoy
 - [tember8003](https://github.com/tember8003)
 - [v1ct0r-ops](https://github.com/v1ct0r-ops)
 - [xnm-sdksdk](https://github.com/xnm-sdksdk)
+- [dexterx17](https://github.com/dexterx17)
 - [y pavan reddy](https://github.com/ypavanr)
 - [Georgia Pennington](https://github.com/gpenn4)
 - [원세영](https://github.com/seyoung5744)
@@ -1990,6 +1998,7 @@ sujoy
 - [Taniya Kumari](https://github.com/taniya273)
 - [maclaccha](https://github.com/maclaccha)
 - [Sabarivenkatesh](https://github.com/Sabarivenkatesh3)
+- [Kai Wanke] (https://github.com/KaiAleWan) (new contributor, learning)  
 - [chandansingh](https://github.com/firstcontributions/first-contributions)
 - [G.Srividhya](https://github.com/firstcontributions/first-contributions) (new contributor learning..)
 - [tembomalinga]
@@ -2441,7 +2450,12 @@ sujoy
 - [Tej M Bhat](https://github.com/TejBhat
 - [Mariusz Jasko](https://github.com/Marjo185)
 - [Ashwin Raj](https://github.com/ashwinraj8090)
+- [Deepak Chand](https://github.com/codeplaydeepak)
 - [Sharan](https://github.com/<StackedSharan>)
-- [TAHER EL Mehdi](https://github.com/taher-el-mehdi)- 
 - [Amrisha](https://github.com/Amrisha)
-
+- [TAHER EL Mehdi](https://github.com/taher-el-mehdi)
+- [Joshitha](https://github.com/joshitha-codes) : First open source contribution
+- [ErtanSidar](https://github.com/ErtanSidar)
+- Mubarrah Latif — Software Engineering student
+- [AdiyaTakhell](https://github.com/AdiyaTakhell)
+- [Spoorthi G M](https://github.com/Spoorthigopal):first contribution
