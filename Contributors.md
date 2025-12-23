@@ -22,6 +22,7 @@
 - [Dhanush Pavan](https://github.com/dhanushpavann) : First Open Source Contribution!
 - [Shaek](https://github.com/shaek666/first-contributions.git) : First open source contribution
 - [Kyaw Tun Soe] (https://github.com/KyawGyi98-grey)
+- [Anjaneya Kumar](https://github.com/Anjaneyakumar18)
 - [Hein Htet Ko](https://github.com/HeinHtetKo99)
 - [M K]
 - [Michiel de Boer](https://github.com/mitch-d-b)
