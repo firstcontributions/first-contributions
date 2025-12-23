@@ -1991,6 +1991,7 @@ sujoy
 - [Taniya Kumari](https://github.com/taniya273)
 - [maclaccha](https://github.com/maclaccha)
 - [Sabarivenkatesh](https://github.com/Sabarivenkatesh3)
+- [Kai Wanke] (https://github.com/KaiAleWan) (new contributor, learning)  
 - [chandansingh](https://github.com/firstcontributions/first-contributions)
 - [G.Srividhya](https://github.com/firstcontributions/first-contributions) (new contributor learning..)
 - [tembomalinga]
