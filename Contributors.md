@@ -2449,3 +2449,4 @@ sujoy
 - [TAHER EL Mehdi](https://github.com/taher-el-mehdi)
 - [Joshitha](https://github.com/joshitha-codes) : First open source contribution
 - [ErtanSidar](https://github.com/ErtanSidar)
+- Mubarrah Latif — Software Engineering student
