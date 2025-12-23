@@ -2449,6 +2449,7 @@ sujoy
 - [Ashwin Raj](https://github.com/ashwinraj8090)
 - [Sharan](https://github.com/<StackedSharan>)
 - [TAHER EL Mehdi](https://github.com/taher-el-mehdi)
+- [Mehar Abdullah] (https://github.com/meharx07)
 - [Joshitha](https://github.com/joshitha-codes) : First open source contribution
 - [ErtanSidar](https://github.com/ErtanSidar)
 - [AdiyaTakhell](https://github.com/AdiyaTakhell)
