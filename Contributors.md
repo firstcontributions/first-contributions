@@ -2463,6 +2463,7 @@ sujoy
 - [Joshitha](https://github.com/joshitha-codes) : First open source contribution
 - [Ahmed](https://github.com/AhmedMohamedRefaay) : First contribution
 - [ErtanSidar](https://github.com/ErtanSidar)
+- [Ishani Arora][https://github.com/iscompg]
 - Mubarrah Latif — Software Engineering student
 - [AdiyaTakhell](https://github.com/AdiyaTakhell)
 - [Aron](https://github.com/Aron5544)
