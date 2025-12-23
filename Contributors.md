@@ -1,4 +1,6 @@
 # Contributors 
+- [Akhil Vikram Singh](https://github.com/Akhil2680) : My first open source contribution
+
 - [Shivanshu Pandey](https://github.com/Shivanshupandey5) 👾🤖🎄 : First open source contribution
 - [Pavlo Zhurbytskyi](https://github.com/pavelkortp) 🚀🚀🚀 : First contribution, I want to learn
 - [Théo Balick](https://github.com/Balick) 😉 : This is my first contribution
