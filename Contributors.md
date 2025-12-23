@@ -428,6 +428,8 @@ Nick
 - [Alisha Shaw](https://github.com/alishashaw439)
 - [zaka](https://github.com/oraichezakariyae)
 - [SaiTomato](https://github.com/SaiTomato)
+- [Zainab K](https://github.com/ZAINABKANGSIWALA)
+
 - [Aashrith Vithana] (https://github.com/AashrithVithana)
 - - [Alex Johnson](https://github.com/alexjohnson)
 - [Md Najrul Ansari](https://github.com/najru01)
