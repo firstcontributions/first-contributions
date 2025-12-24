@@ -14,6 +14,7 @@
 - [Tapendra Tiruwa] (https://github.com/bkpiru6-ship-it) : First contribution, I want to learn and make connection with new people
 - [Sail Nagale] (https://github.com/Sailnagale) : First contribution, now let's goooo
 - [Jae Young Seo](https://github.com/Jae-YS) : First open source contribution
+- [Daryl Guzman](https://github.com/D0ngk1/) First open-source contribution; certainly won't be the last. 
 - [rmarc29](https://github.com/rmarc29) 👾👾👾
 - [Maruthi Vandadi] (https://github.com/maruthivandadi) :First contribution,I want to learn and connect with people
   -Ibrahim Yousuf
