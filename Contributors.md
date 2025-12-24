@@ -108,6 +108,7 @@
 - [Akshaya Kondaparthy](https://github.com/AkshayaKondaparthy)
 
 - [Christopher Lusk] (https://github.com/north-echo)
+- [Kashish564](https://github.com/Kashish564)
 - [Edwin Ezidhore] (https://github.com/EdwinEzidhore)
 - [Deepanshu Mishra](https://github.com/Deepanshumishra2004)
 - [Rifaldo](https://github.com/Rifaldo-dev)
