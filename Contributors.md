@@ -169,6 +169,7 @@
 - [Sudi Williams](https://github.com/sudi-W)
 - [Rushit Kakadiya](https://github.com/rushit-kakadiya): Let’s blaze it up 🔥🚀
 - [Nirav Vala](https://github.com/valanirav)
+- [Anjala N A ](https://github.com/anjala25) : my first open source contribution...super excited!
 - [Saidkamol Mirsaidov](https://github.com/SaidKamol0612)
 - [Anand](https://github.com/00anandmishra)
 - [Luka](https://github.com/LukachuPro88)
