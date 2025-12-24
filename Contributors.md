@@ -14,7 +14,7 @@
 - [Tapendra Tiruwa] (https://github.com/bkpiru6-ship-it) : First contribution, I want to learn and make connection with new people
 - [Sail Nagale] (https://github.com/Sailnagale) : First contribution, now let's goooo
 - [Jae Young Seo](https://github.com/Jae-YS) : First open source contribution
-- [Daryl Guzman](https://github.com/D0ngk1/) First open-source contribution; certainly won't be the last. 
+- [Daryl Guzman](https://github.com/D0ngk1/) First open-source contribution; certainly won't be the last.
 - [rmarc29](https://github.com/rmarc29) 👾👾👾
 - [Maruthi Vandadi] (https://github.com/maruthivandadi) :First contribution,I want to learn and connect with people
   -Ibrahim Yousuf
@@ -55,7 +55,7 @@
 - [Sohel Munjewar](https://github.com/ShankyCodeX)
   Abdulrahman Sultan
 - [Kavya](https://github.com/Kavya751)
-- [Suraj Kumar Singh Tamni san](https://github.com/sono-mono) 
+- [Suraj Kumar Singh Tamni san](https://github.com/sono-mono)
 - [Deepika T](https://github.com/thotaDeepika)
 - [Prashant Singh](https://github.com/prashantsingh1122)
 - [BVSK](https://github.com/bvsk369)
@@ -328,7 +328,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Rizwan Munir](https://github.com/Rizstien)
 - [Ramkumar T](https://github.com/sparkp1ug) -[Harman](https://github.com/haraman1078)
 - [Venkata Ramprasad Pade](https://github.com/ramprasad-13)
-fragenabhishek
+  fragenabhishek
 - [Kartheek Budime](https://github.com/kartheek0107)
 - [Mohammad Marouful Islam Zishan](https://github.com/zishan344)
 - [- Gaurav Mandal](https://github.com/gaurav8228/)
@@ -2368,3 +2368,4 @@ fragenabhishek
 - [Spoorthi G M](https://github.com/Spoorthigopal):first contribution
 - [Kailash Rooj](https://github.com/Kailash-Rooj)
 - [kri karki] (https://github.com/Krishalakarki) -- HII THERE CUTIEE
+- [Shyamanth Reddy](https://github.com/Shyamanth-2005) : first open source contribution
