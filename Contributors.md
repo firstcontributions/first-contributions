@@ -2454,3 +2454,5 @@ sujoy
 - Mubarrah Latif — Software Engineering student
 - [AdiyaTakhell](https://github.com/AdiyaTakhell)
 - [Spoorthi G M](https://github.com/Spoorthigopal):first contribution
+- [Barnavo Dey](https://github.com/barnavo05)
+
