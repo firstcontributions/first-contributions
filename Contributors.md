@@ -2378,6 +2378,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Ishani Arora][https://github.com/iscompg]
 - Mubarrah Latif — Software Engineering student
 - [AdiyaTakhell](https://github.com/AdiyaTakhell)
+- [Ash Ibarra](https://github.com/ashthewildfox)
 - [Barnavo Dey](https://github.com/barnavo05)
 - [Aron](https://github.com/Aron5544)
 - [Spoorthi G M](https://github.com/Spoorthigopal):first contribution
