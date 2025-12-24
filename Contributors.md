@@ -2379,4 +2379,8 @@ fragenabhishek
 - [Akshay Malik] - My First Contribution
 - 
 - [A.k] - first contribution
+
 - [Ramit](https://github.com/ramitlayek)
+
+- [Manoj Aka ronaldomano] - first contribution
+
