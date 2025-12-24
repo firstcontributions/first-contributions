@@ -408,6 +408,7 @@ fragenabhishek
 - [Gaurav S](https://github.com/garry00107)
 - [Himanshu Singhal](https://github.com/hsinghal11)
 - [Mrityunjay Kumar](https://github.com/mjpalash)
+- [Jose Rodolfo Rojas](https://github.com/jrrojaso) [Karoife](https://github.com/Karoife) :costa_rica: :zap:
 - [moonBeam](https://github.com/jessicaparadise)
 - [Shiv Raj Singh](https://github.com/imuniqueshiv)
 - [Rishabh](https://github.com/rishabh8870)
