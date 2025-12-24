@@ -1,5 +1,6 @@
 # Contributors
 - [Aarthi Senthil Kumar](https://github.com/aarth123) : Good to know 
+- [Keerthika Chalavadi](https://github.com/Keerthikach): Have to get into GSOC 2026, this is the beginning
 - [Ashutosh Nimbalkar](https://github.com/AshuNimbalkar-02)
 - [Ronin](https://github.com/RAKESH-R2R) : First open source contribution
 - [Akhil Vikram Singh](https://github.com/Akhil2680) : My first open source contribution
