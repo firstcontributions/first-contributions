@@ -1,5 +1,6 @@
 # Contributors
-- [Aarthi Senthil Kumar](https://github.com/aarth123) : Good to know 
+
+- [Aarthi Senthil Kumar](https://github.com/aarth123) : Good to know
 - [Keerthika Chalavadi](https://github.com/Keerthikach): Have to get into GSOC 2026, this is the beginning
 - [Ashutosh Nimbalkar](https://github.com/AshuNimbalkar-02)
 - [Ronin](https://github.com/RAKESH-R2R) : First open source contribution
@@ -25,6 +26,7 @@
   -Ibrahim Yousuf
 - [Rashmi Priya] (https://github.com/rashmip2102) : First contribution, hope I stay consistent
 - [Kalpana Bhaskar](https://github.com/KalpanaBhaskar) : First contribution! Hoping to work more in open source development!
+- [Sreelekhaa Santhosh](https://github.com/ssreelekhaa22) : First open source contribution
 - [Sarthak Tyagi] (https://github.com/sarthak-cs) :First contribution, Here to learn more
 - [Vlad Hnatovskyi] (https://github.com/vladhnat) : First open source contribution
 - [Ethan Holling] (https://github.com/OverlordJeb) : First and hopefully not the last contribution!z
@@ -62,7 +64,7 @@
   Abdulrahman Sultan
 - [Kavya](https://github.com/Kavya751)
 - [Mandeep Bhatt](https://github.com/mandeeep03)
-- [Suraj Kumar Singh Tamni san](https://github.com/sono-mono) 
+- [Suraj Kumar Singh Tamni san](https://github.com/sono-mono)
 - [Deepika T](https://github.com/thotaDeepika)
 - [Prashant Singh](https://github.com/prashantsingh1122)
 - [BVSK](https://github.com/bvsk369)
