@@ -2366,3 +2366,4 @@ fragenabhishek
 - [Aron](https://github.com/Aron5544)
 - [Spoorthi G M](https://github.com/Spoorthigopal):first contribution
 - [Kailash Rooj](https://github.com/Kailash-Rooj)
+- [kri karki] (https://github.com/Krishalakarki) -- HII THERE CUTIEE
