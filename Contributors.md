@@ -56,6 +56,7 @@
 - [Sohel Munjewar](https://github.com/ShankyCodeX)
   Abdulrahman Sultan
 - [Kavya](https://github.com/Kavya751)
+- [Mandeep Bhatt](https://github.com/mandeeep03)
 - [Suraj Kumar Singh Tamni san](https://github.com/sono-mono) 
 - [Deepika T](https://github.com/thotaDeepika)
 - [Prashant Singh](https://github.com/prashantsingh1122)
@@ -108,6 +109,7 @@
 - [Akshaya Kondaparthy](https://github.com/AkshayaKondaparthy)
 
 - [Christopher Lusk] (https://github.com/north-echo)
+- [Kashish564](https://github.com/Kashish564)
 - [Edwin Ezidhore] (https://github.com/EdwinEzidhore)
 - [Deepanshu Mishra](https://github.com/Deepanshumishra2004)
 - [Rifaldo](https://github.com/Rifaldo-dev)
@@ -239,6 +241,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Isha Bhole](https://github.com/IshaBhole)
 - [Josh Jordal](https://github.com/JJordal)
   [CecilioRatsimilo]
+- [Angus MacGillivary](https://github.com/gus545)
 - [FelipeC074](https://github.com/FelipeC074) -[huajiao](https://github.com/0000-huajiao)
 - [Mohamed Nafaa](https://github.com/mohamednafaa)
 - [Christopher Michelli] (https://github.com/christophermichelli)
@@ -2356,4 +2359,20 @@ fragenabhishek
 - [Ashwin Raj](https://github.com/ashwinraj8090)
 - [Deepak Chand](https://github.com/codeplaydeepak)
 - [Sharan](https://github.com/<StackedSharan>)
-- [Shubham Koti](https://github.com/shubhamkoti)
+- [TAHER EL Mehdi](https://github.com/taher-el-mehdi)
+- [Mehar Abdullah] (https://github.com/meharx07)
+- [Amrisha](https://github.com/Amrisha)
+- [TAHER EL Mehdi](https://github.com/taher-el-mehdi)
+- [Joshitha](https://github.com/joshitha-codes) : First open source contribution
+- [Ahmed](https://github.com/AhmedMohamedRefaay) : First contribution
+- [ErtanSidar](https://github.com/ErtanSidar)
+- [Ishani Arora][https://github.com/iscompg]
+- Mubarrah Latif — Software Engineering student
+- [AdiyaTakhell](https://github.com/AdiyaTakhell)
+- [Aron](https://github.com/Aron5544)
+- [Spoorthi G M](https://github.com/Spoorthigopal):first contribution
+- [Kailash Rooj](https://github.com/Kailash-Rooj)
+- [kri karki] (https://github.com/Krishalakarki) -- HII THERE CUTIEE
+- [Priyaan G] (https://github.com/PriyaanG663) :first contribution
+- [Akshay Malik] - My First Contribution
+- 
