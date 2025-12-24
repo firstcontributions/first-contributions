@@ -240,6 +240,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Isha Bhole](https://github.com/IshaBhole)
 - [Josh Jordal](https://github.com/JJordal)
   [CecilioRatsimilo]
+- [Angus MacGillivary](https://github.com/gus545)
 - [FelipeC074](https://github.com/FelipeC074) -[huajiao](https://github.com/0000-huajiao)
 - [Mohamed Nafaa](https://github.com/mohamednafaa)
 - [Christopher Michelli] (https://github.com/christophermichelli)
