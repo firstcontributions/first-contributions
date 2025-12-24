@@ -146,7 +146,7 @@ git switch -c add-alonzo-church
 
 Niha pelê `Contributors.md` di edîtorekî nivîsê de vekin, navê xwe lê zêde bikin. Wê li destpêk an dawiya pelê zêde nekin. Li cihekî navbera wan de deynin. Niha, pelê tomarbikin.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="rewşa git" />
 
 Heke hûn herin pelrêça projeyê û fermana `git status` bimeşînin, hûn ê bibînin ku guherandin hene.
 
