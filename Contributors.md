@@ -1,5 +1,6 @@
 # Contributors
 
+- [Ronin](https://github.com/RAKESH-R2R) : First open source contribution
 - [Akhil Vikram Singh](https://github.com/Akhil2680) : My first open source contribution
 - [Samuel MW](https://github.com/samuel-micah) : just right, Got right
 - [Mohammad Nadeem](https://github.com/mdnadeemm) : First open source contribution
@@ -20,6 +21,7 @@
 - [Maruthi Vandadi] (https://github.com/maruthivandadi) :First contribution,I want to learn and connect with people
   -Ibrahim Yousuf
 - [Rashmi Priya] (https://github.com/rashmip2102) : First contribution, hope I stay consistent
+- [Kalpana Bhaskar](https://github.com/KalpanaBhaskar) : First contribution! Hoping to work more in open source development!
 - [Sarthak Tyagi] (https://github.com/sarthak-cs) :First contribution, Here to learn more
 - [Vlad Hnatovskyi] (https://github.com/vladhnat) : First open source contribution
 - [Ethan Holling] (https://github.com/OverlordJeb) : First and hopefully not the last contribution!z
@@ -2379,4 +2381,5 @@ fragenabhishek
 - [Akshay Malik] - My First Contribution
 - 
 - [A.k] - first contribution
--- [Sakshi Nagre](https://github.com/Sakshi3456): first contribution
+- [Sakshi Nagre](https://github.com/Sakshi3456): first contribution
+- [Manoj Aka ronaldomano] - first contribution
