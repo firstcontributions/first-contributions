@@ -1,3 +1,4 @@
+- [Hritika Thombre](https://github.com/hritikat2006-rgb)
 # Contributors
 - [Aarthi Senthil Kumar](https://github.com/aarth123) : Good to know 
 - [Ashutosh Nimbalkar](https://github.com/AshuNimbalkar-02)
@@ -6,7 +7,6 @@
 - [Samuel MW](https://github.com/samuel-micah) : just right, Got right
 - [Mohammad Nadeem](https://github.com/mdnadeemm) : First open source contribution
 - [Yasar Arafath](https://yasar-raf.github.io/portfolio) : New here
-- [Aaryan Singh](https://github.com/AaryanSingh31): Start towards the Greatness..
 - [Shivanshu Pandey](https://github.com/Shivanshupandey5) 👾🤖🎄 : First open source contribution
 - [Pavlo Zhurbytskyi](https://github.com/pavelkortp) 🚀🚀🚀 : First contribution, I want to learn
 - [Théo Balick](https://github.com/Balick) 😉 : This is my first contribution
@@ -2385,5 +2385,4 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Akshay Malik] - My First Contribution
 - [HanYouth] (https://github.com/Hanshu152) - first contribution
 - [A.k] - first contribution
-- [Sakshi Nagre](https://github.com/Sakshi3456): first contribution
 - [Manoj Aka ronaldomano] - first contribution
