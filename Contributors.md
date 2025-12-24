@@ -93,6 +93,7 @@
 - [Aryan Biswas] (https://github.com/AryanBiswas198) : First Open Source ;) -[Aztrek2000](https://github.com/starsnipe407) : First contribution but definitely not the last !!!
 - [Siddharth Mishra](https://github.com/iamsid-19) : miles to go before I sleep
 - [Fathima Manal](https://github.com/FathimaManal)
+- [Rabia Amin](https://github.com/RabiaAmin) : First step toward success
 - [CshardZ](https://github.com/CshardZ)
 - [Vansh]
 - [Newbie1223](https://github.com/newbie1223)
