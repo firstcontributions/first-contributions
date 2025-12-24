@@ -1,7 +1,9 @@
 # Contributors
-
+- [Ashutosh Nimbalkar](https://github.com/AshuNimbalkar-02)
+- [Ronin](https://github.com/RAKESH-R2R) : First open source contribution
 - [Akhil Vikram Singh](https://github.com/Akhil2680) : My first open source contribution
 - [Samuel MW](https://github.com/samuel-micah) : just right, Got right
+- [Mohammad Nadeem](https://github.com/mdnadeemm) : First open source contribution
 - [Yasar Arafath](https://yasar-raf.github.io/portfolio) : New here
 - [Shivanshu Pandey](https://github.com/Shivanshupandey5) 👾🤖🎄 : First open source contribution
 - [Pavlo Zhurbytskyi](https://github.com/pavelkortp) 🚀🚀🚀 : First contribution, I want to learn
@@ -19,6 +21,7 @@
 - [Maruthi Vandadi] (https://github.com/maruthivandadi) :First contribution,I want to learn and connect with people
   -Ibrahim Yousuf
 - [Rashmi Priya] (https://github.com/rashmip2102) : First contribution, hope I stay consistent
+- [Kalpana Bhaskar](https://github.com/KalpanaBhaskar) : First contribution! Hoping to work more in open source development!
 - [Sarthak Tyagi] (https://github.com/sarthak-cs) :First contribution, Here to learn more
 - [Vlad Hnatovskyi] (https://github.com/vladhnat) : First open source contribution
 - [Ethan Holling] (https://github.com/OverlordJeb) : First and hopefully not the last contribution!z
@@ -55,7 +58,8 @@
 - [Sohel Munjewar](https://github.com/ShankyCodeX)
   Abdulrahman Sultan
 - [Kavya](https://github.com/Kavya751)
-- [Suraj Kumar Singh Tamni san](https://github.com/sono-mono)
+- [Mandeep Bhatt](https://github.com/mandeeep03)
+- [Suraj Kumar Singh Tamni san](https://github.com/sono-mono) 
 - [Deepika T](https://github.com/thotaDeepika)
 - [Prashant Singh](https://github.com/prashantsingh1122)
 - [BVSK](https://github.com/bvsk369)
@@ -107,6 +111,7 @@
 - [Akshaya Kondaparthy](https://github.com/AkshayaKondaparthy)
 
 - [Christopher Lusk] (https://github.com/north-echo)
+- [Kashish564](https://github.com/Kashish564)
 - [Edwin Ezidhore] (https://github.com/EdwinEzidhore)
 - [Deepanshu Mishra](https://github.com/Deepanshumishra2004)
 - [Rifaldo](https://github.com/Rifaldo-dev)
@@ -238,6 +243,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Isha Bhole](https://github.com/IshaBhole)
 - [Josh Jordal](https://github.com/JJordal)
   [CecilioRatsimilo]
+- [Angus MacGillivary](https://github.com/gus545)
 - [FelipeC074](https://github.com/FelipeC074) -[huajiao](https://github.com/0000-huajiao)
 - [Mohamed Nafaa](https://github.com/mohamednafaa)
 - [Christopher Michelli] (https://github.com/christophermichelli)
@@ -404,6 +410,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Gaurav S](https://github.com/garry00107)
 - [Himanshu Singhal](https://github.com/hsinghal11)
 - [Mrityunjay Kumar](https://github.com/mjpalash)
+- [Jose Rodolfo Rojas](https://github.com/jrrojaso) [Karoife](https://github.com/Karoife) :costa_rica: :zap:
 - [moonBeam](https://github.com/jessicaparadise)
 - [Shiv Raj Singh](https://github.com/imuniqueshiv)
 - [Rishabh](https://github.com/rishabh8870)
@@ -413,6 +420,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Bhupesh](https://github.com/Bhupi1306)
 - [Nitesh Singhal](https://github.com/niteshsinghal85)
 - [I-eat-gays-v-pornoroshku](https://github.com/I-eat-gays-v-pornoroshku)
+- [Ashka]
 - [B Pasha](https://github.com/baasilpasha)
 - [Michael T](https://github.com/tadstech)
 - [Siddharth Pandey](https://github.com/siddharthpandey2211)
@@ -2367,5 +2375,9 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Aron](https://github.com/Aron5544)
 - [Spoorthi G M](https://github.com/Spoorthigopal):first contribution
 - [Kailash Rooj](https://github.com/Kailash-Rooj)
-- [kri karki] (https://github.com/Krishalakarki) -- HII THERE CUTIEE
 - [Shyamanth Reddy](https://github.com/Shyamanth-2005) : first open source contribution
+- [Dean Joubert](https://github.com/TheAwesomeLegend) : Keep Being Awesome
+- [Priyaan G] (https://github.com/PriyaanG663) :first contribution
+- [Akshay Malik] - My First Contribution
+- [A.k] - first contribution
+- [Manoj Aka ronaldomano] - first contribution
