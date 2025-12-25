@@ -774,6 +774,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [ITSMijaiL](https://github.com/ITSMijaiL)
 - [Itay Levi](https://github.com/ItayLHdev)
 - [JBetz-Dev](https://github.com/JBetz-Dev)
+- [Cobalt-Velvet](https://github.com/Cobalt-Velvet) - Time to mix drinks and change lives.
 - [James-826](https://github.com/James-826)
 - [Bobrikus Smith](https://github.com/fairhair9)
 - [Abdou-kdj](https://github.com/abdoukare)
@@ -2420,3 +2421,4 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [mthwlo] (https://github.com/mthwlo) - first contribution 
 - [Rajneesh Kaur] (https://github.com/rajneeshkaur19) - My first contribution
 - [Warsame](https://github.com/zakawar) - My first Contribution 
+- [Poorva Chauhan] (https://github.com/Poorva-X)
