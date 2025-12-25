@@ -1,4 +1,3 @@
-git checkout -b add-your-name
 # Contributors
 
 - [PRAGATHI P B](https://github.com/pragathibasutkar): Fisrt contribution, Excited and eager to learn 
