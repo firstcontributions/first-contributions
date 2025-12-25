@@ -2397,7 +2397,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Priyaan G] (https://github.com/PriyaanG663) :first contribution
 - [Akshay Malik] - My First Contribution
 - [Ahmed Barakat](https://github.com/Barkaaat): Try to be open source contributer dec/25
-- 
+-
 - [HanYouth] (https://github.com/Hanshu152) - first contribution
 - [A.k] - first contribution
 - [Manoj Aka ronaldomano] - first contribution
@@ -2409,6 +2409,10 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [SHRIOM] (https://github.com/shriom17) : First contribution
 - [Sihun Jeon] (https://github.com/amuldi) 🔥
 
-- [CoderPillar](https://github.com/Coder-Pillar) : My first contribution 
+- [CoderPillar](https://github.com/Coder-Pillar) : My first contribution
+
 * [Muhammad Fahad](https://github.com/mfk21927) : First contribution
+
 - [Shashanth Samala](https://github.com/ShashanthSamala) - first contribution on 4-bit ALU using ardunio
+
+- [Akhil Kushwaha] (https://github.com/LavenderCrude) : Contribute on Dec 25 2025
