@@ -4,6 +4,7 @@
 - [Ashutosh Nimbalkar](https://github.com/AshuNimbalkar-02)
 - [Ronin](https://github.com/RAKESH-R2R) : First open source contribution
 - [Akhil Vikram Singh](https://github.com/Akhil2680) : My first open source contribution
+- [Ayush Raj Ranjan](https://github.com/ZapRaptor) : js the start
 - [Samuel MW](https://github.com/samuel-micah) : just right, Got right
 - [Mohammad Nadeem](https://github.com/mdnadeemm) : First open source contribution
 - [Yasar Arafath](https://yasar-raf.github.io/portfolio) : New here
