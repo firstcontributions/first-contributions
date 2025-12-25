@@ -1,8 +1,9 @@
 # Contributors
 
-- [PRAGATHI P B](https://github.com/pragathibasutkar): Fisrt contribution, Excited and eager to learn 
+- [PRAGATHI P B](https://github.com/pragathibasutkar): Fisrt contribution, Excited and eager to learn
 - [Aarthi Senthil Kumar](https://github.com/aarth123) : Good to know
 - [Keerthika Chalavadi](https://github.com/Keerthikach): Have to get into GSOC 2026, this is the beginning
+- [Samm24TT](https://github.com/Samm24TT): first time 😶‍🌫️
 - [Ashutosh Nimbalkar](https://github.com/AshuNimbalkar-02)
 - [Lorenzo Kibet Kiprotich](https://github.com/senkik):My open source contribution, definitely just the beginning of a great Adventure. Christ is Lord
 - [Ronin](https://github.com/RAKESH-R2R) : First open source contribution
@@ -2399,7 +2400,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Priyaan G] (https://github.com/PriyaanG663) :first contribution
 - [Akshay Malik] - My First Contribution
 - [Ahmed Barakat](https://github.com/Barkaaat): Try to be open source contributer dec/25
-- 
+-
 - [HanYouth] (https://github.com/Hanshu152) - first contribution
 - [A.k] - first contribution
 - [Manoj Aka ronaldomano] - first contribution
@@ -2411,6 +2412,8 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [SHRIOM] (https://github.com/shriom17) : First contribution
 - [Sihun Jeon] (https://github.com/amuldi) 🔥
 
-- [CoderPillar](https://github.com/Coder-Pillar) : My first contribution 
+- [CoderPillar](https://github.com/Coder-Pillar) : My first contribution
+
 * [Muhammad Fahad](https://github.com/mfk21927) : First contribution
+
 - [Shashanth Samala](https://github.com/ShashanthSamala) - first contribution on 4-bit ALU using ardunio
