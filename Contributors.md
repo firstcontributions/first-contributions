@@ -1,5 +1,6 @@
 # Contributors
-- [Aarthi Senthil Kumar](https://github.com/aarth123) : Good to know 
+
+- [Aarthi Senthil Kumar](https://github.com/aarth123) : Good to know
 - [Keerthika Chalavadi](https://github.com/Keerthikach): Have to get into GSOC 2026, this is the beginning
 - [Ashutosh Nimbalkar](https://github.com/AshuNimbalkar-02)
 - [Ronin](https://github.com/RAKESH-R2R) : First open source contribution
@@ -62,7 +63,7 @@
   Abdulrahman Sultan
 - [Kavya](https://github.com/Kavya751)
 - [Mandeep Bhatt](https://github.com/mandeeep03)
-- [Suraj Kumar Singh Tamni san](https://github.com/sono-mono) 
+- [Suraj Kumar Singh Tamni san](https://github.com/sono-mono)
 - [Deepika T](https://github.com/thotaDeepika)
 - [Prashant Singh](https://github.com/prashantsingh1122)
 - [BVSK](https://github.com/bvsk369)
@@ -2381,7 +2382,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Ash Ibarra](https://github.com/ashthewildfox)
 - [Barnavo Dey](https://github.com/barnavo05)
 - [Aron](https://github.com/Aron5544)
-- [Spoorthi G M](https://github.com/Spoorthigopal):first contribution
+- [Spoorthi G M](https://github.com/Spoorthigopal):first contribution -[Nnagbo Emmanuel](https://github.com/Onyedika1234)
 - [Kailash Rooj](https://github.com/Kailash-Rooj)
 - [Shyamanth Reddy](https://github.com/Shyamanth-2005) : first open source contribution
 - [Dean Joubert](https://github.com/TheAwesomeLegend) : Keep Being Awesome
