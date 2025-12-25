@@ -26,6 +26,7 @@
   -Ibrahim Yousuf
 - [Rashmi Priya] (https://github.com/rashmip2102) : First contribution, hope I stay consistent
 - [Kalpana Bhaskar](https://github.com/KalpanaBhaskar) : First contribution! Hoping to work more in open source development!
+- [Sreelekhaa Santhosh](https://github.com/ssreelekhaa22) : First open source contribution
 - [Sarthak Tyagi] (https://github.com/sarthak-cs) :First contribution, Here to learn more
 - [Vlad Hnatovskyi] (https://github.com/vladhnat) : First open source contribution
 - [Ethan Holling] (https://github.com/OverlordJeb) : First and hopefully not the last contribution!z
