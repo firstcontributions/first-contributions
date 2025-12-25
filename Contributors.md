@@ -4,6 +4,7 @@
 - [Keerthika Chalavadi](https://github.com/Keerthikach): Have to get into GSOC 2026, this is the beginning
 - [Ashutosh Nimbalkar](https://github.com/AshuNimbalkar-02)
 - [Lorenzo Kibet Kiprotich](https://github.com/senkik):My open source contribution, definitely just the beginning of a great Adventure. Christ is Lord
+  -- [zayYan](https://github.com/ZayYanLin) : My first open source contribution
 - [Ronin](https://github.com/RAKESH-R2R) : First open source contribution
 - [Akhil Vikram Singh](https://github.com/Akhil2680) : My first open source contribution
 - [Samuel MW](https://github.com/samuel-micah) : just right, Got right
@@ -2396,7 +2397,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Priyaan G] (https://github.com/PriyaanG663) :first contribution
 - [Akshay Malik] - My First Contribution
 - [Ahmed Barakat](https://github.com/Barkaaat): Try to be open source contributer dec/25
-- 
+-
 - [HanYouth] (https://github.com/Hanshu152) - first contribution
 - [A.k] - first contribution
 - [Manoj Aka ronaldomano] - first contribution
@@ -2409,4 +2410,5 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Sihun Jeon] (https://github.com/amuldi) 🔥
 
 * [Muhammad Fahad](https://github.com/mfk21927) : First contribution
+
 - [Shashanth Samala](https://github.com/ShashanthSamala) - first contribution on 4-bit ALU using ardunio
