@@ -2420,4 +2420,5 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Shashanth Samala](https://github.com/ShashanthSamala) - first contribution on 4-bit ALU using ardunio
 - [mthwlo] (https://github.com/mthwlo) - first contribution 
 - [Rajneesh Kaur] (https://github.com/rajneeshkaur19) - My first contribution
+- [Warsame](https://github.com/zakawar) - My first Contribution 
 - [Poorva Chauhan] (https://github.com/Poorva-X)
