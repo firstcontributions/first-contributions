@@ -11,6 +11,7 @@ scandi
 -[Israel Chavez](https://github.com/SoyIsrael)
 -[Suraj Kushwaha](https//github.com/suraj371k)
 -[Yash Lund](https://github.com/yashlund05)
+-[Ritvvvik](https://github.com/Ritvvvik)
 -[Chaitanya Medidar](https://github.com/chaitanyamedidar)
 -[Kaush Mendonca](https://github.com/slowanimals)
 -[Vukkem Bhuvaneshwar](https://github.com/bhuvanvjak)
