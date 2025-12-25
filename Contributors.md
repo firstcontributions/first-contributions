@@ -2401,3 +2401,5 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Sandesh Ojha](https://github.com/SandeshOjha06)
 - [SHRIOM] (https://github.com/shriom17) : First contribution
 - [Sihun Jeon] (https://github.com/amuldi) 🔥
+
+* [Muhammad Fahad](https://github.com/mfk21927) : First contribution
