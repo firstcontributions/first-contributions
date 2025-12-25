@@ -50,6 +50,7 @@
 - [Aysha Yunus](https:/GitHub.com/Ayshayunus)
 - [Steven Zak](https://github.com/stevenZaki/) : New here
 - [Adnan Grbesic](https://github.com/adnangrbesic) : First open source contribution!!!
+- [M Sanjay](https://github.com/Sanjay24-05) : First open source contribution
 - [DraeK] (https://github.com/keerthansamudrala/) : just right, Got right
 - [Michiel de Boer](https://github.com/mitch-d-b)
 - [Gioomoraes] (https://github.com/Gioomoraes) : First open source
