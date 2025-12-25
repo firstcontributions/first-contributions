@@ -2424,6 +2424,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 * [Muhammad Fahad](https://github.com/mfk21927) : First contribution
 
 - [Shashanth Samala](https://github.com/ShashanthSamala) - first contribution on 4-bit ALU using ardunio
+- [Shrutik Meshram](https://github.com/shrutikcs)
 - [zhangyingjie](https://github.com/fjwyhs) - first contribution
 - [Akhil Kushwaha] (https://github.com/LavenderCrude) : Contribute on Dec 25 2025
 - [mthwlo] (https://github.com/mthwlo) - first contribution 
