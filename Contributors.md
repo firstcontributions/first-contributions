@@ -2399,6 +2399,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Aron](https://github.com/Aron5544)
 - [Spoorthi G M](https://github.com/Spoorthigopal):first contribution -[Nnagbo Emmanuel](https://github.com/Onyedika1234)
 - [Kailash Rooj](https://github.com/Kailash-Rooj)
+- [Afia](https://github.com/afia0872) : Taking my first step into open source and excited to learn by contributing.
 - [Shyamanth Reddy](https://github.com/Shyamanth-2005) : first open source contribution
 - [Dean Joubert](https://github.com/TheAwesomeLegend) : Keep Being Awesome
 - [Priyaan G] (https://github.com/PriyaanG663) :first contribution
