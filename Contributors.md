@@ -24,6 +24,7 @@
 - [rmarc29](https://github.com/rmarc29) 👾👾👾
 - [Maruthi Vandadi] (https://github.com/maruthivandadi) :First contribution,I want to learn and connect with people
   -Ibrahim Yousuf
+- [Masood](https://github.com/Masood-hue) : First open source contribution 
 - [Rashmi Priya] (https://github.com/rashmip2102) : First contribution, hope I stay consistent
 - [Kalpana Bhaskar](https://github.com/KalpanaBhaskar) : First contribution! Hoping to work more in open source development!
 - [Sreelekhaa Santhosh](https://github.com/ssreelekhaa22) : First open source contribution
