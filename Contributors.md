@@ -1,5 +1,6 @@
 # Contributors
 
+- [Mohammad Raees](https://github.com/Mohammad-Raees): This is my firt contribution. Excited to contribute in open source projects.
 - [Hamza Ahmad](https://github.com/HamzaAhmadOfficial)
 - [PRAGATHI P B](https://github.com/pragathibasutkar): Fisrt contribution, Excited and eager to learn 
 - [Aarthi Senthil Kumar](https://github.com/aarth123) : Good to know
@@ -29,7 +30,7 @@
 - [rmarc29](https://github.com/rmarc29) 👾👾👾
 - [Maruthi Vandadi] (https://github.com/maruthivandadi) :First contribution,I want to learn and connect with people
   -Ibrahim Yousuf
-- [Masood](https://github.com/Masood-hue) : First open source contribution 
+- [Masood](https://github.com/Masood-hue) : First open source contribution
 - [Omkar Shenwai] (https://github.com/OmkarShenwai865) : First open source contribution
 - [Rashmi Priya] (https://github.com/rashmip2102) : First contribution, hope I stay consistent
 - [Kalpana Bhaskar](https://github.com/KalpanaBhaskar) : First contribution! Hoping to work more in open source development!
@@ -303,6 +304,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - Starstruck
 - [Rishi] (Rishi2600)
 - [V K Suvetha](https://github.com/vksuvetha)
+
 - [Mrun](https://github.com/mrunmayeeph)
 - [Liger_18.](https://github.com/mayurdongare269)
 - [mtxasmgkr](https://github.com/mtxasmgkr)
@@ -2429,5 +2431,5 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Akhil Kushwaha] (https://github.com/LavenderCrude) : Contribute on Dec 25 2025
 - [mthwlo] (https://github.com/mthwlo) - first contribution 
 - [Rajneesh Kaur] (https://github.com/rajneeshkaur19) - My first contribution
-- [Warsame](https://github.com/zakawar) - My first Contribution 
+- [Warsame](https://github.com/zakawar) - My first Contribution
 - [Poorva Chauhan] (https://github.com/Poorva-X)
