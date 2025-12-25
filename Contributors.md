@@ -1,5 +1,7 @@
 # Contributors
 
+- [Hamza Ahmad](https://github.com/HamzaAhmadOfficial)
+
 - [Aarthi Senthil Kumar](https://github.com/aarth123) : Good to know
 - [Keerthika Chalavadi](https://github.com/Keerthikach): Have to get into GSOC 2026, this is the beginning
 - [Ashutosh Nimbalkar](https://github.com/AshuNimbalkar-02)
