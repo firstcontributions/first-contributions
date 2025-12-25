@@ -121,7 +121,7 @@
 - [Jaivika Agare]
 - Amiel Josh Basug (https://github.com/juswa005)
 - [Akshaya Kondaparthy](https://github.com/AkshayaKondaparthy)
-
+- [Paulo Marques](https://github.com/Kthwar): "Tenho em mim todos os sonhos do mundo"
 - [Christopher Lusk] (https://github.com/north-echo)
 - [Kashish564](https://github.com/Kashish564)
 - [Edwin Ezidhore] (https://github.com/EdwinEzidhore)
