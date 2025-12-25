@@ -156,6 +156,7 @@
 - [Fernando García](https://github.com/fergg66)
 - [Matthew Stetter](https://github.com/stetterm)
 - [Sandeep Kumar](https://github.com/sandeep-sk)
+- [Dominiq Barbero](https://github.com/MrMadHatt)
 - [Praveen Gupta](https://github.com/Praveen-0k9)
 - [Trevor Tippery](https://github.com/trevortippery)
 - [Shunsuke Takanishi](https://github.com/shunsuke-takanishi)
