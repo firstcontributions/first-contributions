@@ -1,10 +1,13 @@
 # Contributors
 
+- [PRAGATHI P B](https://github.com/pragathibasutkar): Fisrt contribution, Excited and eager to learn 
 - [Aarthi Senthil Kumar](https://github.com/aarth123) : Good to know
 - [Keerthika Chalavadi](https://github.com/Keerthikach): Have to get into GSOC 2026, this is the beginning
 - [Ashutosh Nimbalkar](https://github.com/AshuNimbalkar-02)
 - [Lorenzo Kibet Kiprotich](https://github.com/senkik):My open source contribution, definitely just the beginning of a great Adventure. Christ is Lord
+  -- [zayYan](https://github.com/ZayYanLin) : My first open source contribution
 - [Ronin](https://github.com/RAKESH-R2R) : First open source contribution
+- [Shashank Reddy](https://github.com/ShashankSaga) : First open-source contribution 🎉
 - [Akhil Vikram Singh](https://github.com/Akhil2680) : My first open source contribution
 - [Samuel MW](https://github.com/samuel-micah) : just right, Got right
 - [Mohammad Nadeem](https://github.com/mdnadeemm) : First open source contribution
@@ -24,6 +27,8 @@
 - [rmarc29](https://github.com/rmarc29) 👾👾👾
 - [Maruthi Vandadi] (https://github.com/maruthivandadi) :First contribution,I want to learn and connect with people
   -Ibrahim Yousuf
+- [Masood](https://github.com/Masood-hue) : First open source contribution 
+- [Omkar Shenwai] (https://github.com/OmkarShenwai865) : First open source contribution
 - [Rashmi Priya] (https://github.com/rashmip2102) : First contribution, hope I stay consistent
 - [Kalpana Bhaskar](https://github.com/KalpanaBhaskar) : First contribution! Hoping to work more in open source development!
 - [Sreelekhaa Santhosh](https://github.com/ssreelekhaa22) : First open source contribution
@@ -48,6 +53,7 @@
 - [Aysha Yunus](https:/GitHub.com/Ayshayunus)
 - [Steven Zak](https://github.com/stevenZaki/) : New here
 - [Adnan Grbesic](https://github.com/adnangrbesic) : First open source contribution!!!
+- [M Sanjay](https://github.com/Sanjay24-05) : First open source contribution
 - [DraeK] (https://github.com/keerthansamudrala/) : just right, Got right
 - [Michiel de Boer](https://github.com/mitch-d-b)
 - [Gioomoraes] (https://github.com/Gioomoraes) : First open source
@@ -769,6 +775,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [ITSMijaiL](https://github.com/ITSMijaiL)
 - [Itay Levi](https://github.com/ItayLHdev)
 - [JBetz-Dev](https://github.com/JBetz-Dev)
+- [Cobalt-Velvet](https://github.com/Cobalt-Velvet) - Time to mix drinks and change lives.
 - [James-826](https://github.com/James-826)
 - [Bobrikus Smith](https://github.com/fairhair9)
 - [Abdou-kdj](https://github.com/abdoukare)
@@ -2414,5 +2421,8 @@ Nick -[Daniel G.](https://github.com/dg189149)
 * [Muhammad Fahad](https://github.com/mfk21927) : First contribution
 
 - [Shashanth Samala](https://github.com/ShashanthSamala) - first contribution on 4-bit ALU using ardunio
-
 - [Akhil Kushwaha] (https://github.com/LavenderCrude) : Contribute on Dec 25 2025
+- [mthwlo] (https://github.com/mthwlo) - first contribution 
+- [Rajneesh Kaur] (https://github.com/rajneeshkaur19) - My first contribution
+- [Warsame](https://github.com/zakawar) - My first Contribution 
+- [Poorva Chauhan] (https://github.com/Poorva-X)
