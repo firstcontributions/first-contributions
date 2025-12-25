@@ -1,3 +1,4 @@
+git checkout -b add-your-name
 # Contributors
 
 - [Akhil Vikram Singh](https://github.com/Akhil2680) : My first open source contribution
@@ -2369,3 +2370,4 @@ fragenabhishek
 - [Kailash Rooj](https://github.com/Kailash-Rooj)
 - [kri karki] (https://github.com/Krishalakarki) -- HII THERE CUTIEE
 - [Priyaan G] (https://github.com/PriyaanG663) :first contribution
+- [Afia](https://github.com/afia0872) : Taking my first step into open source and excited to learn by contributing.
