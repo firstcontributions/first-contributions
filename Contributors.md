@@ -527,6 +527,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Gabriel Maccari](https://github.com/gabrielmaccari)
 - [Vassilis Ioannidis](https://github.com/SQLtattoo)
 - [Matt]
+- -[Ritvvvik](https://github.com/Ritvvvik)
 - [vatsal](https://github.com/Vatsal11011)
 - [Ben Huotari](https://github.com/benhuotari)
 - [Keanu Decleene](https://github.com/KeanuDecleene)
