@@ -1,5 +1,6 @@
 # Contributors
-- [Aarthi Senthil Kumar](https://github.com/aarth123) : Good to know 
+
+- [Aarthi Senthil Kumar](https://github.com/aarth123) : Good to know
 - [Keerthika Chalavadi](https://github.com/Keerthikach): Have to get into GSOC 2026, this is the beginning
 - [Ashutosh Nimbalkar](https://github.com/AshuNimbalkar-02)
 - [Ronin](https://github.com/RAKESH-R2R) : First open source contribution
@@ -62,8 +63,9 @@
   Abdulrahman Sultan
 - [Kavya](https://github.com/Kavya751)
 - [Mandeep Bhatt](https://github.com/mandeeep03)
-- [Suraj Kumar Singh Tamni san](https://github.com/sono-mono) 
+- [Suraj Kumar Singh Tamni san](https://github.com/sono-mono)
 - [Deepika T](https://github.com/thotaDeepika)
+- [xiaoyang](https://github.com/xiaoyang5116) : 混入其中
 - [Prashant Singh](https://github.com/prashantsingh1122)
 - [BVSK](https://github.com/bvsk369)
 - [Khushal Pankhaniya](https://github.com/khushalpankhaniya)
@@ -155,6 +157,7 @@
 - [Fernando García](https://github.com/fergg66)
 - [Matthew Stetter](https://github.com/stetterm)
 - [Sandeep Kumar](https://github.com/sandeep-sk)
+- [Dominiq Barbero](https://github.com/MrMadHatt)
 - [Praveen Gupta](https://github.com/Praveen-0k9)
 - [Trevor Tippery](https://github.com/trevortippery)
 - [Shunsuke Takanishi](https://github.com/shunsuke-takanishi)
@@ -525,6 +528,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Gabriel Maccari](https://github.com/gabrielmaccari)
 - [Vassilis Ioannidis](https://github.com/SQLtattoo)
 - [Matt]
+- -[Ritvvvik](https://github.com/Ritvvvik)
 - [vatsal](https://github.com/Vatsal11011)
 - [Ben Huotari](https://github.com/benhuotari)
 - [Keanu Decleene](https://github.com/KeanuDecleene)
@@ -2247,6 +2251,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Otavio Góes](https://github.com/ogoess1999)
 - [Kishan] (https://github.com/kishanmaurya621-dev)
 - [weiyu lin](https://github.com/lin-weiyu)
+- [PSakthivel353](https://github.com/PSakthivel353) 💪 : First contribution, wanna learn and contribute more...
 - [Ferdi Turan](https://github.com/ferdiiiiiiii)
 - [Chang Liu](https://github.com/canyonliu8-code)
 - [Jeevan Sai](https://github.com/Jeevan-uz)
@@ -2381,7 +2386,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Ash Ibarra](https://github.com/ashthewildfox)
 - [Barnavo Dey](https://github.com/barnavo05)
 - [Aron](https://github.com/Aron5544)
-- [Spoorthi G M](https://github.com/Spoorthigopal):first contribution
+- [Spoorthi G M](https://github.com/Spoorthigopal):first contribution -[Nnagbo Emmanuel](https://github.com/Onyedika1234)
 - [Kailash Rooj](https://github.com/Kailash-Rooj)
 - [Shyamanth Reddy](https://github.com/Shyamanth-2005) : first open source contribution
 - [Dean Joubert](https://github.com/TheAwesomeLegend) : Keep Being Awesome
@@ -2393,4 +2398,8 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Manoj Aka ronaldomano] - first contribution
 - [LuciferStix](https://github.com/LuciferStix) : First contribution (RIYAL HEMPY)
 - [sandeepkunusoth](https://github.com/sandeepkunusoth) : first contribution
-
+- [Salman Khan] (https://github.com/Salmankhan3) : My fisrt contribution
+- [Mq Mushfiqur Mc](https://github.com/MD-Mushfiqur123)
+- [Sandesh Ojha](https://github.com/SandeshOjha06)
+- [SHRIOM] (https://github.com/shriom17) : First contribution
+- [Sihun Jeon] (https://github.com/amuldi) 🔥
