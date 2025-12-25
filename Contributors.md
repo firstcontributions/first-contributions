@@ -2408,5 +2408,6 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [SHRIOM] (https://github.com/shriom17) : First contribution
 - [Sihun Jeon] (https://github.com/amuldi) 🔥
 
+- [CoderPillar](https://github.com/Coder-Pillar) : My first contribution 
 * [Muhammad Fahad](https://github.com/mfk21927) : First contribution
 - [Shashanth Samala](https://github.com/ShashanthSamala) - first contribution on 4-bit ALU using ardunio
