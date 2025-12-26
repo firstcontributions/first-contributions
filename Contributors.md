@@ -1941,6 +1941,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Diti] (https://github.com/diti0-dot)
 - [SYTP]
 - [Phil]
+- [Nibesh Hoop]
 - [Ana]
 - [Knopych]
 - [Muhammed Fayaz TS](https://github.com/MuhammedFayazTS)
