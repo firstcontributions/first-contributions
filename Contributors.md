@@ -2446,3 +2446,4 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Daniel Aneke] (https://github.com/Frosty820) - first-contributions
 - [hda-talia](https://github.com/hda-talia)
 - [Roshni Singh](https://github.com/RoshniSingh0116) : First open source contribution 🎉
+- Dhruva V Kidadumbe
