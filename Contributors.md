@@ -198,6 +198,7 @@
 - [webmastervetea](https://github.com/webmastervetea)
 - [VanshSharma] (https://github.com/vanshsharma-11) - Yeah, i was here!
 - [Adarsh Kadam](https://github.com/adarsh47-bug)
+- [Alexandru](https://github.com/my-how-to)
 - [Sudi Williams](https://github.com/sudi-W)
 - [Rushit Kakadiya](https://github.com/rushit-kakadiya): Let’s blaze it up 🔥🚀
 - [Nirav Vala](https://github.com/valanirav)
