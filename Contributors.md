@@ -1,6 +1,7 @@
 # Contributors
 
 - [BOUKEF Mohamed Lamine](https://github.com/Boukef): If you’re reading this, you matter. Have a great day!
+- [Waseem Mushtaq](https://github.com/waseem1302-x): My first open source contribution, looking forward to contribute more!
 - [Durgesh Gorana](https://github.com/07Durgesh):- My first open source contribution, looking forward to contribute more!
 - [Kaushalya](https://github.com/kaushalya-f10):first open-source contribution 🚀
 - [Nimarjot kaur][https://github.com/Nimarjot1]: This is my first contribution
