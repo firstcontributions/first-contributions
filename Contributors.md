@@ -5,6 +5,7 @@
 - [Durgesh Gorana](https://github.com/07Durgesh):- My first open source contribution, looking forward to contribute more!
 - [Kaushalya](https://github.com/kaushalya-f10):first open-source contribution 🚀
 - [Nimarjot kaur][https://github.com/Nimarjot1]: This is my first contribution
+- [Femi-Olagundoyeoluwaferanmi](https://github.com/Gevans4352): This is my very first open source! lets get it!!!!
 - Seshadri Naidu
 - wtempero
 - [Pranav](https://github.com/Pranav8307): First Open Source Contribution
