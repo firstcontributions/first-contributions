@@ -113,7 +113,7 @@
 - [Jaivika Agare]
 - Amiel Josh Basug (https://github.com/juswa005)
 - [Akshaya Kondaparthy](https://github.com/AkshayaKondaparthy)
-
+- Richard Hernandez (https://github.com/the9mil)
 - [Christopher Lusk] (https://github.com/north-echo)
 - [Kashish564](https://github.com/Kashish564)
 - [Edwin Ezidhore] (https://github.com/EdwinEzidhore)
