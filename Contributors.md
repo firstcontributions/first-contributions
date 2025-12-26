@@ -1,5 +1,5 @@
 # Contributors
-
+-- [Kaushalya](https://github.com/kaushalya-f10):first open-source contribution 🚀
 - [Pranav](https://github.com/Pranav8307): First Open Source Contribution
 - [Mohammad Raees](https://github.com/Mohammad-Raees): This is my firt contribution. Excited to contribute in open source projects.
 - [Hamza Ahmad](https://github.com/HamzaAhmadOfficial)
