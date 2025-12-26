@@ -497,6 +497,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [deepak mishra](https://github.com/BEPAWSITIVE)
 - [Caleb Fan](https://github.com/Gazfang)
 - [Anandajith S](https://github.com/AnandajithS)
+- [Savindya Thathsarani](https://github.com/Savindya322)
 - [Gajji Chandu Yadav](https://github.com/AnandajithS)
 - [Christian Gongora](https://github.com/ChristianGongoraDeMoraes)
 - [Raghu]
