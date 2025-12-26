@@ -1,14 +1,19 @@
 # Contributors
 
+- [Pranav](https://github.com/Pranav8307): First Open Source Contribution
+- [Mohammad Raees](https://github.com/Mohammad-Raees): This is my firt contribution. Excited to contribute in open source projects.
+- [Hamza Ahmad](https://github.com/HamzaAhmadOfficial)
 - [PRAGATHI P B](https://github.com/pragathibasutkar): Fisrt contribution, Excited and eager to learn 
 - [Aarthi Senthil Kumar](https://github.com/aarth123) : Good to know
 - [Keerthika Chalavadi](https://github.com/Keerthikach): Have to get into GSOC 2026, this is the beginning
 - [Ashutosh Nimbalkar](https://github.com/AshuNimbalkar-02)
 - [Lorenzo Kibet Kiprotich](https://github.com/senkik):My open source contribution, definitely just the beginning of a great Adventure. Christ is Lord
+  -- [zayYan](https://github.com/ZayYanLin) : My first open source contribution
 - [Ronin](https://github.com/RAKESH-R2R) : First open source contribution
 - [Shashank Reddy](https://github.com/ShashankSaga) : First open-source contribution 🎉
 - [Akhil Vikram Singh](https://github.com/Akhil2680) : My first open source contribution
 - [Aishwarya](https://github.com/hawarya/first-contributions.git): Begining of my open source journey ✨
+- [Ayush Raj Ranjan](https://github.com/ZapRaptor) : never too late to begin
 - [Samuel MW](https://github.com/samuel-micah) : just right, Got right
 - [Mohammad Nadeem](https://github.com/mdnadeemm) : First open source contribution
 - [Yasar Arafath](https://yasar-raf.github.io/portfolio) : New here
@@ -27,7 +32,7 @@
 - [rmarc29](https://github.com/rmarc29) 👾👾👾
 - [Maruthi Vandadi] (https://github.com/maruthivandadi) :First contribution,I want to learn and connect with people
   -Ibrahim Yousuf
-- [Masood](https://github.com/Masood-hue) : First open source contribution 
+- [Masood](https://github.com/Masood-hue) : First open source contribution
 - [Omkar Shenwai] (https://github.com/OmkarShenwai865) : First open source contribution
 - [Rashmi Priya] (https://github.com/rashmip2102) : First contribution, hope I stay consistent
 - [Kalpana Bhaskar](https://github.com/KalpanaBhaskar) : First contribution! Hoping to work more in open source development!
@@ -301,6 +306,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - Starstruck
 - [Rishi] (Rishi2600)
 - [V K Suvetha](https://github.com/vksuvetha)
+
 - [Mrun](https://github.com/mrunmayeeph)
 - [Liger_18.](https://github.com/mayurdongare269)
 - [mtxasmgkr](https://github.com/mtxasmgkr)
@@ -2399,12 +2405,13 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Aron](https://github.com/Aron5544)
 - [Spoorthi G M](https://github.com/Spoorthigopal):first contribution -[Nnagbo Emmanuel](https://github.com/Onyedika1234)
 - [Kailash Rooj](https://github.com/Kailash-Rooj)
+- [Afia](https://github.com/afia0872) : Taking my first step into open source and excited to learn by contributing.
 - [Shyamanth Reddy](https://github.com/Shyamanth-2005) : first open source contribution
 - [Dean Joubert](https://github.com/TheAwesomeLegend) : Keep Being Awesome
 - [Priyaan G] (https://github.com/PriyaanG663) :first contribution
 - [Akshay Malik] - My First Contribution
 - [Ahmed Barakat](https://github.com/Barkaaat): Try to be open source contributer dec/25
-- 
+-
 - [HanYouth] (https://github.com/Hanshu152) - first contribution
 - [A.k] - first contribution
 - [Manoj Aka ronaldomano] - first contribution
@@ -2416,10 +2423,16 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [SHRIOM] (https://github.com/shriom17) : First contribution
 - [Sihun Jeon] (https://github.com/amuldi) 🔥
 
-- [CoderPillar](https://github.com/Coder-Pillar) : My first contribution 
+- [CoderPillar](https://github.com/Coder-Pillar) : My first contribution
+
 * [Muhammad Fahad](https://github.com/mfk21927) : First contribution
+
 - [Shashanth Samala](https://github.com/ShashanthSamala) - first contribution on 4-bit ALU using ardunio
+- [Shrutik Meshram](https://github.com/shrutikcs)
+- [zhangyingjie](https://github.com/fjwyhs) - first contribution
+- [Akhil Kushwaha] (https://github.com/LavenderCrude) : Contribute on Dec 25 2025
 - [mthwlo] (https://github.com/mthwlo) - first contribution 
 - [Rajneesh Kaur] (https://github.com/rajneeshkaur19) - My first contribution
-- [Warsame](https://github.com/zakawar) - My first Contribution 
+- [Warsame](https://github.com/zakawar) - My first Contribution
 - [Poorva Chauhan] (https://github.com/Poorva-X)
+- [hda-talia](https://github.com/hda-talia)
