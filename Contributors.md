@@ -1,5 +1,6 @@
 # Contributors
 
+- [Kaushalya](https://github.com/kaushalya-f10):first open-source contribution 🚀
 - [Nimarjot kaur][https://github.com/Nimarjot1]: This is my first contribution
 - Seshadri Naidu
 - [Pranav](https://github.com/Pranav8307): First Open Source Contribution
