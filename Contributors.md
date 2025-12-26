@@ -1,5 +1,8 @@
 # Contributors
--- [Kaushalya](https://github.com/kaushalya-f10):first open-source contribution 🚀
+
+- [Kaushalya](https://github.com/kaushalya-f10):first open-source contribution 🚀
+- [Nimarjot kaur][https://github.com/Nimarjot1]: This is my first contribution
+- Seshadri Naidu
 - [Pranav](https://github.com/Pranav8307): First Open Source Contribution
 - [Mohammad Raees](https://github.com/Mohammad-Raees): This is my firt contribution. Excited to contribute in open source projects.
 - [Hamza Ahmad](https://github.com/HamzaAhmadOfficial)
@@ -12,6 +15,7 @@
 - [Ronin](https://github.com/RAKESH-R2R) : First open source contribution
 - [Shashank Reddy](https://github.com/ShashankSaga) : First open-source contribution 🎉
 - [Akhil Vikram Singh](https://github.com/Akhil2680) : My first open source contribution
+- [Aishwarya](https://github.com/hawarya/first-contributions.git): Begining of my open source journey ✨
 - [Ayush Raj Ranjan](https://github.com/ZapRaptor) : never too late to begin
 - [Samuel MW](https://github.com/samuel-micah) : just right, Got right
 - [Mohammad Nadeem](https://github.com/mdnadeemm) : First open source contribution
@@ -224,7 +228,7 @@ Trishant Jaiswal
 Nick -[Daniel G.](https://github.com/dg189149)
 -willdougla (https://github.com/willdougla) -[Yash Lund](https://github.com/yashlund05) -[Chaitanya Medidar](https://github.com/chaitanyamedidar) -[Kaush Mendonca](https://github.com/slowanimals) -[Vukkem Bhuvaneshwar](https://github.com/bhuvanvjak) -[Jenil Macwan](https://github.com/JenilMacwan) -[Lovish Manchanda](https://github.com/lovishmanchanda) -[Sushanth Shetty](https://github.com/sushanth-shetty11) -[Josef Mikan](https://github.com/Pepe-innit) -[Yash Lund](https://github.com/yashlund05)
 [anwarhaq07](https://github.com/anwarhaq07) -[Sriram](https://github.com/ram17602) -[Divya]
-
+-[Ahnaf](https://github.com/arahman01115)
 - [Shiyamalan](https://github.com/ShiyamalanK) -[Shubham Raiyani](https://github.com/shubhamraiyani)
 - [Gokul Krishnan](https://github.com/gokul-krishnan-gs)
 - [Rishit Khandelwal](https://github.com/Rishit-Khandelwal)
@@ -496,6 +500,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [deepak mishra](https://github.com/BEPAWSITIVE)
 - [Caleb Fan](https://github.com/Gazfang)
 - [Anandajith S](https://github.com/AnandajithS)
+- [Savindya Thathsarani](https://github.com/Savindya322)
 - [Gajji Chandu Yadav](https://github.com/AnandajithS)
 - [Christian Gongora](https://github.com/ChristianGongoraDeMoraes)
 - [Raghu]
@@ -2434,4 +2439,6 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Rajneesh Kaur] (https://github.com/rajneeshkaur19) - My first contribution
 - [Warsame](https://github.com/zakawar) - My first Contribution
 - [Poorva Chauhan] (https://github.com/Poorva-X)
+- [Daniel Aneke] (https://github.com/Frosty820) - first-contributions
 - [hda-talia](https://github.com/hda-talia)
+- [Roshni Singh](https://github.com/RoshniSingh0116) : First open source contribution 🎉
