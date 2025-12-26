@@ -622,7 +622,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Santiago Fernandez] (https://github.com/SantiagoFernandez11)
 - [Luis](https://github.com/manahore)
 - [Raksha S](https://github.com/Raksha2803)
- [Shubham Kumar] (https://github.com/xoutof10) : First Open Source Contribution 🚀
+ [Shubham Kumar] (https://github.com/xoutof10) : First Open Source Contribution🚀
 - [Sherry](https://github.com/zsylllike-sketch)
 - [Lakshmi Kamalanjali Mandalika](https://github.com/Kamalanjali)
 - [Abin Madathil](https://github.com/abinmadathil)
