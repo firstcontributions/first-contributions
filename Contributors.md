@@ -5,6 +5,7 @@
 - [Kaushalya](https://github.com/kaushalya-f10):first open-source contribution 🚀
 - [Nimarjot kaur][https://github.com/Nimarjot1]: This is my first contribution
 - Seshadri Naidu
+- wtempero
 - [Pranav](https://github.com/Pranav8307): First Open Source Contribution
 - [Mohammad Raees](https://github.com/Mohammad-Raees): This is my firt contribution. Excited to contribute in open source projects.
 - [Hamza Ahmad](https://github.com/HamzaAhmadOfficial)
