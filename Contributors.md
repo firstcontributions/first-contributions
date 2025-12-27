@@ -92,6 +92,7 @@
 - [Sohel Munjewar](https://github.com/ShankyCodeX)
   Abdulrahman Sultan
 - [Kavya](https://github.com/Kavya751)
+- [Filippo-Brunnelleschi](https://github.com/Filippo-Brunnelleschi) : Hi there, building now!
 - [Mandeep Bhatt](https://github.com/mandeeep03)
 - [Suraj Kumar Singh Tamni san](https://github.com/sono-mono)
 - [Deepika T](https://github.com/thotaDeepika)
