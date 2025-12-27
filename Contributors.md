@@ -23,6 +23,7 @@ rodrick
 - [Aarthi Senthil Kumar](https://github.com/aarth123) : Good to know
 - [Soham Patil](https://github.com/Soham-1616)
 - [Keerthika Chalavadi](https://github.com/Keerthikach): Have to get into GSOC 2026, this is the beginning
+- [Alen Chettiar](https://github.com/AlenChettiar): Learning abt open source
 - [Ashutosh Nimbalkar](https://github.com/AshuNimbalkar-02)
 - [Lorenzo Kibet Kiprotich](https://github.com/senkik):My open source contribution, definitely just the beginning of a great Adventure. Christ is Lord
   -- [zayYan](https://github.com/ZayYanLin) : My first open source contribution
