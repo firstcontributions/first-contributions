@@ -10,6 +10,7 @@
 - [Femi-Olagundoyeoluwaferanmi](https://github.com/Gevans4352): This is my very first open source! lets get it!!!!
 - [Nyan Lin Mg](https://github.com/nyanlinmg)
 - [Krishna-Raj](https://github.com/krishna-stone)
+
 - Seshadri Naidu
 - wtempero
 - [Pranav](https://github.com/Pranav8307): First Open Source Contribution
@@ -2479,3 +2480,5 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Justin Lin 林詩杰](https://github.com/JustinLin65) : First Open Source Contribution
 - Deepak - India
 * [Prerak Goyal](https://github.com/PrerakGoyal)
+-[Daniel Mungai] (https://github.com/Daniel-1600) : My first step to open source contribution
+
