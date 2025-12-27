@@ -16,7 +16,7 @@
 - [Mohammad Raees](https://github.com/Mohammad-Raees): This is my firt contribution. Excited to contribute in open source projects.
 - [Hamza Ahmad](https://github.com/HamzaAhmadOfficial)
 - [Adnan Hussen](https://github.com/adnan-hussen)
-- [PRAGATHI P B](https://github.com/pragathibasutkar): Fisrt contribution, Excited and eager to learn 
+- [PRAGATHI P B](https://github.com/pragathibasutkar): Fisrt contribution, Excited and eager to learn
 - [Aarthi Senthil Kumar](https://github.com/aarth123) : Good to know
 - [Soham Patil](https://github.com/Soham-1616)
 - [Keerthika Chalavadi](https://github.com/Keerthikach): Have to get into GSOC 2026, this is the beginning
@@ -67,7 +67,7 @@
 - [Dhanush Pavan](https://github.com/dhanushpavann) : First Open Source Contribution!
 - [Shaek](https://github.com/shaek666/first-contributions.git) : First open source contribution
 - [Aditya Singh](https://github.com/adityasingh100200300-stack): First step towards open-source contributions.
-- [Sandhiya S](https://github.com/Sandhiya-Sakthivel): my first open-source contribution! Learning through different practices.. 
+- [Sandhiya S](https://github.com/Sandhiya-Sakthivel): my first open-source contribution! Learning through different practices..
 - hasnat safdar : Arch BTW
 - [Kyaw Tun Soe] (https://github.com/KyawGyi98-grey)
 - [Anjaneya Kumar](https://github.com/Anjaneyakumar18)
@@ -2461,7 +2461,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Shrutik Meshram](https://github.com/shrutikcs)
 - [zhangyingjie](https://github.com/fjwyhs) - first contribution
 - [Akhil Kushwaha] (https://github.com/LavenderCrude) : Contribute on Dec 25 2025
-- [mthwlo] (https://github.com/mthwlo) - first contribution 
+- [mthwlo] (https://github.com/mthwlo) - first contribution
 - [Rajneesh Kaur] (https://github.com/rajneeshkaur19) - My first contribution
 - [Warsame](https://github.com/zakawar) - My first Contribution
 - [Poorva Chauhan] (https://github.com/Poorva-X)
@@ -2475,3 +2475,4 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Justin Lin 林詩杰](https://github.com/JustinLin65) : First Open Source Contribution
 - Deepak - India
 * [Prerak Goyal](https://github.com/PrerakGoyal)
+- [akic404](https://github.com/akic404):first step on open source contribution
