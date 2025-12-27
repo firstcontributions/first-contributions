@@ -2472,3 +2472,4 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Nahin Peñaranda](https://github.com/ItzNxhin) : First Open Source Contribution, Hola! Desde Colombia, Riohacha.
 - [Justin Lin 林詩杰](https://github.com/JustinLin65) : First Open Source Contribution
 * [Prerak Goyal](https://github.com/PrerakGoyal)
+- [Prajakta Jagdale](https://github.com/Hermione28) : contribution on 27th December
