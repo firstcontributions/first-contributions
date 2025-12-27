@@ -1732,6 +1732,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Shivanii30](https://github.com/Shivanii30)
 - [Jay]
 - [Yukthi05](https://github.com/Yukthi05)
+- [SamuelR]
 - [Sinbad Adjuik](https://github.com/synnbad)
 - [Sohyeon412](https://github.com/sohyeon412)
 - [Sourabh Gupta](https://github.com/srb1998)
