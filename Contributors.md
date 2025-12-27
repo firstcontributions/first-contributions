@@ -4,7 +4,7 @@
 rodrick
 - [Bhargav Thota](https://github.com/bhargavsai007): Hello Open-source community 👋🏻
 - [Chaitanya Mishra](https://github.com/chaitanya-mishra-ai): Contributing to open source, one PR at a time! 🚀
--  [Sujan Singh Meena](https://github.com/sujan2000):My first open source contribution, definitely just the beginning of a great Adventure.
+- [Sujan Singh Meena](https://github.com/sujan2000):My first open source contribution, definitely just the beginning of a great Adventure.
 - [Waseem Mushtaq](https://github.com/waseem1302-x): My first open source contribution, looking forward to contribute more!
 - [Rakshitha_kengannar](https://github.com/Rakshithank129): Hey! Welcome to me to the open source contribution community😊. lets contribute and build something new in coming days...!  
 - [Paul Stefano Fetalvero](https://https://github.com/Fatalversion):- First step into open source, looking forward to contributing more.
@@ -2258,6 +2258,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Anshika Jain](https://github.com/AnshikaJain-code)
 - [toeandrook-sketch](https://github.com/toeandrook-sketch)
 - [Roshni Sah](https://github.com/Roshni-Sah)
+- [Prajaka Jagdale](https://github.com/Hermione28)
 - Saurabh Singh
 - [NYClifewithNyx](https://github.com/NYClifewithNyx)
 - [Prathamesh Kinagi](https://github.com/prathameshk421)
