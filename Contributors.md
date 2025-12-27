@@ -1,5 +1,5 @@
 # Contributors
-
+- [Lakshita Bisht](https://github.com/LakshitaBisht11): 
 - [BOUKEF Mohamed Lamine](https://github.com/Boukef): If you’re reading this, you matter. Have a great day!
 - [Waseem Mushtaq](https://github.com/waseem1302-x): My first open source contribution, looking forward to contribute more!
 - [Durgesh Gorana](https://github.com/07Durgesh):- My first open source contribution, looking forward to contribute more!
@@ -10,7 +10,7 @@
 - wtempero
 - [Pranav](https://github.com/Pranav8307): First Open Source Contribution
 - [Mohammad Raees](https://github.com/Mohammad-Raees): This is my firt contribution. Excited to contribute in open source projects.
-- [Hamza Ahmad](https://github.com/HamzaAhmadOfficial)
+- [Hamza Ahmad](https://github.com/HamzaAhmadOfficial) Added my name to the contributors list as part of my first open-source contribution.
 - [PRAGATHI P B](https://github.com/pragathibasutkar): Fisrt contribution, Excited and eager to learn 
 - [Aarthi Senthil Kumar](https://github.com/aarth123) : Good to know
 - [Keerthika Chalavadi](https://github.com/Keerthikach): Have to get into GSOC 2026, this is the beginning
