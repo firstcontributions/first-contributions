@@ -7,6 +7,7 @@
 - [Nimarjot kaur][https://github.com/Nimarjot1]: This is my first contribution
 - [Femi-Olagundoyeoluwaferanmi](https://github.com/Gevans4352): This is my very first open source! lets get it!!!!
 - [Nyan Lin Mg](https://github.com/nyanlinmg)
+- [Krishna-Raj](https://github.com/krishna-stone)
 - Seshadri Naidu
 - wtempero
 - [Pranav](https://github.com/Pranav8307): First Open Source Contribution
