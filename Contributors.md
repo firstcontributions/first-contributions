@@ -15,6 +15,7 @@
 - [Hamza Ahmad](https://github.com/HamzaAhmadOfficial)
 - [PRAGATHI P B](https://github.com/pragathibasutkar): Fisrt contribution, Excited and eager to learn 
 - [Aarthi Senthil Kumar](https://github.com/aarth123) : Good to know
+- [Soham Patil](https://github.com/Soham-1616)
 - [Keerthika Chalavadi](https://github.com/Keerthikach): Have to get into GSOC 2026, this is the beginning
 - [Ashutosh Nimbalkar](https://github.com/AshuNimbalkar-02)
 - [Lorenzo Kibet Kiprotich](https://github.com/senkik):My open source contribution, definitely just the beginning of a great Adventure. Christ is Lord
