@@ -74,6 +74,7 @@
 - [Moses Tapfuma](https://github.com/ktasolutions)
 - [M K]
 - [Aysha Yunus](https:/GitHub.com/Ayshayunus)
+- [Yash Jain](https://github.com/Yashjain9425)
 - [Steven Zak](https://github.com/stevenZaki/) : New here
 - [Adnan Grbesic](https://github.com/adnangrbesic) : First open source contribution!!!
 - [M Sanjay](https://github.com/Sanjay24-05) : First open source contribution
