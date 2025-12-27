@@ -2480,5 +2480,6 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Nahin Peñaranda](https://github.com/ItzNxhin) : First Open Source Contribution, Hola! Desde Colombia, Riohacha.
 - [Justin Lin 林詩杰](https://github.com/JustinLin65) : First Open Source Contribution
 - Deepak - India
+- [Nishan Roy](https://github.com/nishanroy561) : First Open Source Contribution
 - Safa Maqbool (https://github.com/SafaMaqbool)
 * [Prerak Goyal](https://github.com/PrerakGoyal)
