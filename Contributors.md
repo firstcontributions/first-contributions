@@ -2483,3 +2483,4 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Nishan Roy](https://github.com/nishanroy561) : First Open Source Contribution
 - Safa Maqbool (https://github.com/SafaMaqbool)
 * [Prerak Goyal](https://github.com/PrerakGoyal)
+- [Yash Sharma](https://github.com/yashsharma110) : My First Open Source Contribution!!
