@@ -19,7 +19,8 @@ Ovo će kreirati kopiju ovog repozitorijuma na vašem nalogu.
 
 ## Klonirajte repozitorijum
 
-<img  align="right"  width="300"  src="assets/clone.png"  alt="Klonirajte repozitorijum"  />
+<img  align="right"  width="300"  src="assets/clone.png"  alt="klonirajte ovaj repozitorijum"
+  />
 
 Sada klonirajte repozitorijum na vašu mašinu. Idite na vaš GitHub profil, otvorite kopiju repozitorijuma, kliknite na dugme **code** i kliknite ikonicu *copy to clipboard*.
 
@@ -31,7 +32,8 @@ git clone "url koji ste upravo kopirali"
 
 Umjesto "url koji ste upravo kopirali" (bez znaka navoda) unesite url repozitorijuma koji ste kopirali u prethodnom koraku.
 
-<img  align="right"  width="300"  src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png"  alt="Kopirajte URL"  />
+<img  align="right"  width="300"  src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png"  alt="kopirajte URL u privremenu memoriju"
+  />
 
 Na primjer:
 
@@ -68,7 +70,8 @@ git checkout -b add-nikola-popovic
 
 Sada otvorite fajl `Contributors.md` u tekst editoru i dodajte vaše ime. Nemojte dodati svoje ime na početku ili na kraju fajla. Stavite ga bilo gdje između. Sada, sačuvajte fajl.
 
-<img  align="right"  width="450"  src="assets/git-status.png"  alt="git status"  />
+<img  align="right"  width="450"  src="assets/git-status.png"  alt="git status komanda"
+  />
 
 Ako se vratite na radni direktorijum i izvršite komandu `git status`, vidjećete da su prisutne promjene.
 
@@ -100,11 +103,13 @@ Umjesto `<add-ime-vase-grane>` napišite ime grane koju ste kreirali ranije.
 
 Ako odete na repozitorijum na GitHub-u, vidjećete dugme **Compare / Pull Request**. Kliknite to dugme.
 
-<img  style="float: right;"  src="assets/compare-and-pull.png"  alt="Kreirajte pull request"  />
+<img  style="float: right;"  src="assets/compare-and-pull.png"  alt="napravite pull request"
+  />
 
 Sada pošaljite vaš pull request.
 
-<img  style="float: right;"  src="assets/submit-pull-request.png"  alt="Pošaljite pull request"  />
+<img  style="float: right;"  src="assets/submit-pull-request.png"  alt="pošaljite pull request"
+ />
 
 Uskoro, ja ću spojiti promjene koje ste napravili sa master granom repozitorijuma. Dobićete mejl potvrde kada se grane spoje.
 
