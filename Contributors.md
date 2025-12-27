@@ -2482,3 +2482,4 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - Deepak - India
 - Safa Maqbool (https://github.com/SafaMaqbool)
 * [Prerak Goyal](https://github.com/PrerakGoyal)
+- [Yash Sharma](https://github.com/yashsharma110) : My First Open Source Contribution!!
