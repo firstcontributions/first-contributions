@@ -104,6 +104,7 @@ rodrick
 - [Kavya](https://github.com/Kavya751)
 - [Mandeep Bhatt](https://github.com/mandeeep03)
 - [Suraj Kumar Singh Tamni san](https://github.com/sono-mono)
+- [Filippo Brunneleschi](https://github.com/Filippo-Brunnelleschi) : First commit on a open Source project
 - [Deepika T](https://github.com/thotaDeepika)
 - [xiaoyang](https://github.com/xiaoyang5116) : 混入其中
 - [Prashant Singh](https://github.com/prashantsingh1122)
@@ -2196,6 +2197,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [pengWang002](https://github.com/pengwang002)
 - [Shabaz shaikh]
 - [Enrio Hernanda](https://github.com/enriohernanda)
+- [Filippo Brunnelleschi] First contribution
 - [Gangireddy pavan](https://github.com/Gangireddypavan)
 - [Sahar Mahmoudi](https://github.com/saharmahmoudi)
 - [sasha4ka](https://github.com/sasha4ka)
