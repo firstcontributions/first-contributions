@@ -11,6 +11,7 @@ rodrick
 - [Kaushalya](https://github.com/kaushalya-f10):first open-source contribution 🚀
 - [Nimarjot kaur][https://github.com/Nimarjot1]: This is my first contribution
 - [Femi-Olagundoyeoluwaferanmi](https://github.com/Gevans4352): This is my very first open source! lets get it!!!!
+- [Jason Balayev](https://github.com/JasonBalayev): One commit at a time
 - [Nyan Lin Mg](https://github.com/nyanlinmg)
 - [Krishna-Raj](https://github.com/krishna-stone)
 - Seshadri Naidu
@@ -1248,6 +1249,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [ccie5013](https://github.com/ccie5013)
 - [Kavindi](https://github.com/kavindidilhara)
 - [Salman Siddique](https://github.com/salman-eng)
+
 - [Titus James](https://github.com/tj330)
 - [Jose Panta] (https://github.com/josepanta)
 - [Hu TianHang](https://github.com/HTH24)
