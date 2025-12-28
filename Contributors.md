@@ -18,6 +18,7 @@ rodrick
 - [Jason Balayev](https://github.com/JasonBalayev): One commit at a time
 - [Nyan Lin Mg](https://github.com/nyanlinmg)
 - [Krishna-Raj](https://github.com/krishna-stone)
+- [Rahul-singh](https://github.com/Singh0622)
 
 - Seshadri Naidu
 - wtempero
