@@ -38,6 +38,7 @@ rodrick
 - [Sushka_s_makom](https://github.com/Sushka_s_makom)
 - [Shashank Reddy](https://github.com/ShashankSaga) : First open-source contribution 🎉
 - [Akhil Vikram Singh](https://github.com/Akhil2680) : My first open source contribution
+[Satyam Rathod](https://github.com/satyamrathod45/) : My First open source contribution
 - [Aishwarya](https://github.com/hawarya/first-contributions.git): Begining of my open source journey ✨
 - [Ayush Raj Ranjan](https://github.com/ZapRaptor) : never too late to begin
 - [Samuel MW](https://github.com/samuel-micah) : just right, Got right
