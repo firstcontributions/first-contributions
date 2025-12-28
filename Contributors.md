@@ -97,6 +97,7 @@ rodrick
 - [DraeK] (https://github.com/keerthansamudrala/) : just right, Got right
 - [Michiel de Boer](https://github.com/mitch-d-b)
 - [Gioomoraes] (https://github.com/Gioomoraes) : First open source
+- [Abhishek] (https://github.com/abhishekadake2003-prog): First open source contribution
 - [Gregory Temwa] (https://github.com/youneedgreg) : First open source
 - [Akshat Thakur](https://github.com/AkshatTh)
 - [Jonah Kelman](https://github.com/Jonahkel) : First OSS contribution!!
