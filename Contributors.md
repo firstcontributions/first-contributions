@@ -6,6 +6,7 @@ rodrick
 - [Mohammed Anas](https://github.com/Anas-Blue): Finally!!
 - [Jyoti Singh](https://github.com/Jyoti-Singh15): Add Jyoti to Contributor list!
 - Rishi
+- [Rishabh Maheshwari](https://github.com/iyemrishabh) : Though it is my first contribution but many more are coming. yuuhuuu life is enjoy.....
 - [Bhavishya Jain](https://github.com/Bhavishya41): ahh shit, here we go again !!
 - [Nishant Patil](https://github.com/nishantverse): I'm gonna be the king of pirates !!
 - [Bhargav Thota](https://github.com/bhargavsai007): Hello Open-source community 👋🏻
@@ -2527,3 +2528,4 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Ajinkya Udatewar](https://github.com/Ajinkyaudatewargithub) : My first step towards open source contribution
 - [Aditya Kumar](https://github.com/Addy7061) : First Open Source Contribution
 - [Saish Sawant](https://github.com/SaishSawant21/) : First Open Source Contribution
+- [Tejas Tiwari] (https://github.com/Ontiomacer) : My First Contribution on Github
