@@ -84,6 +84,7 @@ rodrick
 - [Anjaneya Kumar](https://github.com/Anjaneyakumar18)
 - [Moses Tapfuma](https://github.com/moseskt)
 - [Moses Tapfuma](https://github.com/ktasolutions)
+- [Joshua Guzman](https://github.com/jgthecoder) This is my first open source contribution!
 - [M K]
 - [Geunyeong Cho](https://github.com/48harry) : Hello World!
 - [Aysha Yunus](https:/GitHub.com/Ayshayunus)
