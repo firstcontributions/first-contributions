@@ -2532,3 +2532,4 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Aditya Kumar](https://github.com/Addy7061) : First Open Source Contribution
 - [Saish Sawant](https://github.com/SaishSawant21/) : First Open Source Contribution
 - [Tejas Tiwari] (https://github.com/Ontiomacer) : My First Contribution on Github
+- [Rahul Kumar Rai](https://github.com/rahul-kr-rai/): My First contribution on open source.
