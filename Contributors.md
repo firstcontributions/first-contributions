@@ -1999,6 +1999,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Knopych]
 - [Muhammed Fayaz TS](https://github.com/MuhammedFayazTS)
 - [Jackson Bichard](https://github.com/JacksonBichard)
+- [Tendinuri Sherpa](https://github.com/nuriSherpa)
 - [Gihan Jeewantha](https://github.com/GihanJeewantha)
 - [Akshat Gupta] (https://github.com/AK-GUPTA-20) (new Contributer)
 - [Kaushik Krishna] (https://github.com/MrKKGood)
