@@ -1,4 +1,4 @@
-# Contributors
+ # Contributors
 
 - [Kaushalya](https://github.com/kaushalya-f10):first open-source contribution 🚀
 - [Nimarjot kaur][https://github.com/Nimarjot1]: This is my first contribution
@@ -2445,3 +2445,4 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Daniel Aneke] (https://github.com/Frosty820) - first-contributions
 - [hda-talia](https://github.com/hda-talia)
 - [Roshni Singh](https://github.com/RoshniSingh0116) : First open source contribution 🎉
+- [Sanjana Devi](https://github.com/sanjana806) : First open source contribution 🎉
