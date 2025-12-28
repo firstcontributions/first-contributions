@@ -2512,3 +2512,4 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [fabimessi4v](https://github.com/fabimessi4v) : Greetings from Chile 🇨🇱
 - [Waldemar Krakowiak](https://github.com/mzkwcim) : I hope you'll have lovely day
 - [Midlaj](https://github.com/midlajdev)
+- [Soham Thapaliya](https://github.com/soham3210-tech)-first contribution
