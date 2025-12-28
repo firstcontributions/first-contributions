@@ -2502,7 +2502,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [CoderPillar](https://github.com/Coder-Pillar) : My first contribution
 
 * [Muhammad Fahad](https://github.com/mfk21927) : First contribution
-
+- [Corey Smith](https://github.com/cysmith240): Hopefully the first of many
 - [Shashanth Samala](https://github.com/ShashanthSamala) - first contribution on 4-bit ALU using ardunio
 - [Shrutik Meshram](https://github.com/shrutikcs)
 - [zhangyingjie](https://github.com/fjwyhs) - first contribution
@@ -2537,3 +2537,4 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Saish Sawant](https://github.com/SaishSawant21/) : First Open Source Contribution
 - [Tejas Tiwari] (https://github.com/Ontiomacer) : My First Contribution on Github
 - [Rahul Kumar Rai](https://github.com/rahul-kr-rai/): My First contribution on open source.
+
