@@ -2085,6 +2085,8 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [raro212](https://github.com/raro212)
 - [Anto42\_](https://github.com/Antoo42)
 - [Alex-new-tech](https://github.com/Alex-new-tech)
+- [Nikhil](https://github.com/NikhilKummari)
+
 - [Kanelle-C]
 - [Abel](https://github.com/AbelQ11)
 - [Abdessamad-Mechouahi](https://github.com/abdessamad-26)
