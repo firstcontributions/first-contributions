@@ -30,6 +30,7 @@ rodrick
 - [Mohammad Raees](https://github.com/Mohammad-Raees): This is my firt contribution. Excited to contribute in open source projects.
 - [Hamza Ahmad](https://github.com/HamzaAhmadOfficial)
 - [Adnan Hussen](https://github.com/adnan-hussen)
+- Mathias Bucsa
 - [PRAGATHI P B](https://github.com/pragathibasutkar): Fisrt contribution, Excited and eager to learn
 - [Aarthi Senthil Kumar](https://github.com/aarth123) : Good to know
 - [Soham Patil](https://github.com/Soham-1616)
