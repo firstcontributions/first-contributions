@@ -2501,6 +2501,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - Deepak - India
 - [Dzhan Yonbash] (https://github.com/canonbas03) : Excited to contribute!
 - [Nishan Roy](https://github.com/nishanroy561) : First Open Source Contribution
+- [Bikram Sarkar](https://github.com/bikram3369) : First time doing open source contribution
 - Safa Maqbool (https://github.com/SafaMaqbool)
 * [Prerak Goyal](https://github.com/PrerakGoyal)
 - [akic404](https://github.com/akic404):first step on open source contribution
