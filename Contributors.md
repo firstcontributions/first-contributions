@@ -1,5 +1,6 @@
 Sabeel Ur Rehman
 # Contributors
+- - [HimaTeja](https://github.com/Allibadha-Himateja): This was my first contribution
 - [Ananya Singh](https://github.com/AS-pngg): First Contribution
 - [Lakshita Bisht](https://github.com/LakshitaBisht11):
 - [吴博](https://github.com/JasonWuInBJ): 一起搞AI 
