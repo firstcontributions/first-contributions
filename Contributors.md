@@ -29,7 +29,7 @@ rodrick
 - [Nyan Lin Mg](https://github.com/nyanlinmg)
 - [Krishna-Raj](https://github.com/krishna-stone)
 - [Rahul-singh](https://github.com/Singh0622)
-
+- [Deepmalya Acharya](https://github.com/Deepmalya1) : Lets Do It.
 - Seshadri Naidu
 - wtempero
 - Brian Kihara : More open Source
