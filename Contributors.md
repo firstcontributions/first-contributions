@@ -197,6 +197,7 @@ rodrick
 - [Akshaya Kondaparthy](https://github.com/AkshayaKondaparthy)
 - [Paulo Marques](https://github.com/Kthwar): "Tenho em mim todos os sonhos do mundo"
 - [Christopher Lusk] (https://github.com/north-echo)
+- [Abdiaziz] (https://github.com/0paziz): "hey come check on me"
 - [Kashish564](https://github.com/Kashish564)
 - [Edwin Ezidhore] (https://github.com/EdwinEzidhore)
 - [Deepanshu Mishra](https://github.com/Deepanshumishra2004)
