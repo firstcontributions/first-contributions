@@ -2526,6 +2526,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Nishan Roy](https://github.com/nishanroy561) : First Open Source Contribution
 - [Bikram Sarkar](https://github.com/bikram3369) : First time doing open source contribution
 - Safa Maqbool (https://github.com/SafaMaqbool)
+- Saketh Medicherla (https://github.com/SSSM0602)
 * [Prerak Goyal](https://github.com/PrerakGoyal)
 - [akic404](https://github.com/akic404):first step on open source contribution
 - [Yash Sharma](https://github.com/yashsharma110) : My First Open Source Contribution!!
