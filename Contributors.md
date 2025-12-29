@@ -47,6 +47,7 @@ rodrick
 - [Lorenzo Kibet Kiprotich](https://github.com/senkik):My open source contribution, definitely just the beginning of a great Adventure. Christ is Lord
   -- [zayYan](https://github.com/ZayYanLin) : My first open source contribution
 - [Ronin](https://github.com/RAKESH-R2R) : First open source contribution
+- [Harinand Sindukumar](https://github.com/harinandsindukumar) : First open source contribution
 -[Suraj Kumar](https://github.com/Surajshivam-123):First open source contribution
 - [Sushka_s_makom](https://github.com/Sushka_s_makom)
 - [Shashank Reddy](https://github.com/ShashankSaga) : First open-source contribution 🎉
@@ -85,6 +86,7 @@ rodrick
 - [Aanchal Sikarwar] ( https://github.com/Aanchal2004) : First open source contribution, to onwards and upwards!
 - [Amey Sawant] (https://github.com/ameys2907) : First open source contribution!
 - [Tripurari Pratap] (https://github.com/pratap-t) : First open source contribution
+- [Anshul Aryan](https://github.com/0x-anshu1) : First open source contribution
 - [Khushi Choudhary](https://github.com/Khushichoudhary29) : First open source contribution
 - [Ranjith](https://github.com/ranjith-first-contribution) : First open source contribution
 - [Jeevanraj](https://github.com/Flame-Phoneix) : First open source contribution
@@ -2544,4 +2546,5 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Tejas Tiwari] (https://github.com/Ontiomacer) : My First Contribution on Github
 - [Rahul Kumar Rai](https://github.com/rahul-kr-rai/): My First contribution on open source.
 - [Arnav Raj] (https://github.com/Axis-GLC)
+- K. Kavya
 - [Kim Seongeon](https://github.com/mudhopper)
