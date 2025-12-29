@@ -32,7 +32,7 @@ rodrick
 - [Krishna-Raj](https://github.com/krishna-stone)
 - [Rahul-singh](https://github.com/Singh0622)
 - Alex
-
+ Sohail Shaikh
 - Seshadri Naidu
 - wtempero
 - Brian Kihara : More open Source
