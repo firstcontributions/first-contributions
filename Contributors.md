@@ -110,6 +110,7 @@ rodrick
 - hasnat safdar : Arch BTW
 - [Kyaw Tun Soe] (https://github.com/KyawGyi98-grey)
 - [Anjaneya Kumar](https://github.com/Anjaneyakumar18)
+- [Bastian Ibañez](https://github.com/bastianibanez)
 - [Moses Tapfuma](https://github.com/moseskt)
 - [Moses Tapfuma](https://github.com/ktasolutions)
 - [Joshua Guzman](https://github.com/jgthecoder) This is my first open source contribution!
