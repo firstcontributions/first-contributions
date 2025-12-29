@@ -85,7 +85,7 @@
 - [Sohel Munjewar](https://github.com/ShankyCodeX)
   Abdulrahman Sultan
 - [Kavya](https://github.com/Kavya751)
-- [dev2025gs](https://github.com/dev2025-gs): First open source contribution!
+- [dev2025gs](https://github.com/dev2025-gs): My first open source contribution!
 - [Mandeep Bhatt](https://github.com/mandeeep03)
 - [Suraj Kumar Singh Tamni san](https://github.com/sono-mono)
 - [Deepika T](https://github.com/thotaDeepika)
