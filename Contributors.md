@@ -1,11 +1,11 @@
 Sabeel Ur Rehman
 # Contributors
-- - [HimaTeja](https://github.com/Allibadha-Himateja): This was my first contribution
+- [HimaTeja](https://github.com/Allibadha-Himateja): This was my first contribution
 - [Ananya Singh](https://github.com/AS-pngg): First Contribution
 - [Lakshita Bisht](https://github.com/LakshitaBisht11):
 - [吴博](https://github.com/JasonWuInBJ): 一起搞AI 
-- [BOUKEF Mohamed Lamine](https://github.com/Boukef): If you’re reading this, you matter. Have a great day!
-rodrick
+- [BOUKEF Mohamed Lamine](https://github.com/Boukef): If you’re reading this, you matter. Have a great day! rodrick
+- [hariprasad](https://github.com/har1prasad): Quietly Improving 
 - [Mohammed Anas](https://github.com/Anas-Blue): Finally!!
 - [Waleed Ahmed] (https://github.com/Waleed-Web-Dev): My Brother name is Anas too!
 - [Jyoti Singh](https://github.com/Jyoti-Singh15): Add Jyoti to Contributor list!
