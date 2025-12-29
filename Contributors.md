@@ -31,6 +31,7 @@ rodrick
 - [Nyan Lin Mg](https://github.com/nyanlinmg)
 - [Krishna-Raj](https://github.com/krishna-stone)
 - [Rahul-singh](https://github.com/Singh0622)
+- Alex
 
 - Seshadri Naidu
 - wtempero
