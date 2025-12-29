@@ -202,7 +202,8 @@ rodrick
 - [Jiaqi Fan](https://github.com/jiaqifan42)
 - [Chris Tandoh](https://github.com/Christandoh)
 - [Sagar Thalkiya](https://github.com/SagarThalkiya) : Mama look i'm a developer!
-- [Lenin Castellano](https://github.com/lenincastellano)
+- [Lenin Castellano](https://github.com/lenincastellano) 
+- [Liam Milton](https://github.com/LiMi13)
 - [Marco Biaggi](https://github.com/mafpbiaggi)
 - [Adarsh](https://github.com/AdarshDhanware) : First contribution
 - [Disha Kurkuri](https://github.com/hellomushrooms)
