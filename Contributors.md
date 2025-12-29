@@ -16,6 +16,8 @@ rodrick
 - [Nishant Patil](https://github.com/nishantverse): I'm gonna be the king of pirates !!
 - [Bhargav Thota](https://github.com/bhargavsai007): Hello Open-source community 👋🏻
 - [Chaitanya Mishra](https://github.com/chaitanya-mishra-ai): Contributing to open source, one PR at a time! 🚀
+  [Tamisra Sarkar] https://github.com/tamisrasarkar90 : Hey! I am here! Though it's a bit late! But everything has it's own time :) Let's see what's ahead! All the Best to everybody who is struggling today :D
+  
 - [Saurabh Vishwakarma](https://github.com/Vishwakarma-Saurabh): Good to go!
 - [Sujan Singh Meena](https://github.com/sujan2000):My first open source contribution, definitely just the beginning of a great Adventure.
 - [Waseem Mushtaq](https://github.com/waseem1302-x): My first open source contribution, looking forward to contribute more!
