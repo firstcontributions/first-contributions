@@ -30,6 +30,7 @@ rodrick
 - [Nimarjot kaur][https://github.com/Nimarjot1]: This is my first contribution
 - [Femi-Olagundoyeoluwaferanmi](https://github.com/Gevans4352): This is my very first open source! lets get it!!!!
 - [Jason Balayev](https://github.com/JasonBalayev): One commit at a time
+- [Kim Seongeon](https://github.com/mudhopper) : First open source contribution
 - [Nyan Lin Mg](https://github.com/nyanlinmg)
 - [Kevin-Neibarger](https://github.com/kevinneibarger)
 - [Krishna-Raj](https://github.com/krishna-stone)
