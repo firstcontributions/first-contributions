@@ -29,7 +29,7 @@ rodrick
 - [Nyan Lin Mg](https://github.com/nyanlinmg)
 - [Krishna-Raj](https://github.com/krishna-stone)
 - [Rahul-singh](https://github.com/Singh0622)
-
+- [Koustav Sarkar](https://github.com/koustavcodes): First Open Source Contribution!
 - Seshadri Naidu
 - wtempero
 - Brian Kihara : More open Source
