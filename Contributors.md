@@ -30,6 +30,7 @@ rodrick
 - [Femi-Olagundoyeoluwaferanmi](https://github.com/Gevans4352): This is my very first open source! lets get it!!!!
 - [Jason Balayev](https://github.com/JasonBalayev): One commit at a time
 - [Nyan Lin Mg](https://github.com/nyanlinmg)
+- [Kevin-Neibarger](https://github.com/kevinneibarger)
 - [Krishna-Raj](https://github.com/krishna-stone)
 - [Rahul-singh](https://github.com/Singh0622)
 - Alex
