@@ -1993,6 +1993,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Max Dzivjak](https://github.com/MaxDzivjak)
 - Knowledge Benjamin
 - [Vaibhav Kemani](https://github.com/VKpahadi)
+- [Anıl Burak Gökce](https://github.com/anilburakgokce)
 - [Pramod Dhungana](https://github.com/dhunganapramod9)
 - [Christian Luis] (https://github.com/christianLuis07)
 - [Ryan Kimutai](https://github.com/Ryank-80) -[Aloysius Owili](https://github.com/360koalabear) -[Shahryar Sohail](https://github.com/shahryar-sohail) -[Udhaya parameshwaran](https://github.com/UdhayaParameshwaran-ai) -[Emma Yu](https://github.com/jjy88)
