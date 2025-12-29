@@ -2,6 +2,7 @@ Sabeel Ur Rehman
 # Contributors
 - - [HimaTeja](https://github.com/Allibadha-Himateja): This was my first contribution
 - [Ananya Singh](https://github.com/AS-pngg): First Contribution
+- [Bishal](https://github.com/11deybishal-commits)
 - [Lakshita Bisht](https://github.com/LakshitaBisht11):
 - [吴博](https://github.com/JasonWuInBJ): 一起搞AI 
 - [BOUKEF Mohamed Lamine](https://github.com/Boukef): If you’re reading this, you matter. Have a great day!
@@ -37,6 +38,8 @@ rodrick
 - wtempero
 - Brian Kihara : More open Source
 - [Pranav](https://github.com/Pranav8307): First Open Source Contribution
+
+
 - [Mohammad Raees](https://github.com/Mohammad-Raees): This is my firt contribution. Excited to contribute in open source projects.
 - [Hamza Ahmad](https://github.com/HamzaAhmadOfficial)
 - [Adnan Hussen](https://github.com/adnan-hussen)
