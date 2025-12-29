@@ -101,8 +101,8 @@ _If you're not comfortable with command line, [here are tutorials using GUI tool
 
 ## Fork this repository
 
-Fork this repository by clicking on the fork button on the top of this page.
-This will create a copy of this repository in your account.
+Fork this repository by clicking on the fork button at the top of this page.
+This will create a personal copy of the repository in your GitHub account, allowing you to make changes without affecting the original project.
 
 ## Clone the repository
 
