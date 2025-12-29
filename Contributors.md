@@ -34,6 +34,7 @@ rodrick
 - wtempero
 - Brian Kihara : More open Source
 - [Pranav](https://github.com/Pranav8307): First Open Source Contribution
+- [Tanisha Sharma](https://github.com/Tanisha-Sharma005):First Contribution
 - [Mohammad Raees](https://github.com/Mohammad-Raees): This is my firt contribution. Excited to contribute in open source projects.
 - [Hamza Ahmad](https://github.com/HamzaAhmadOfficial)
 - [Adnan Hussen](https://github.com/adnan-hussen)
@@ -2545,4 +2546,3 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Rahul Kumar Rai](https://github.com/rahul-kr-rai/): My First contribution on open source.
 - [Arnav Raj] (https://github.com/Axis-GLC)
 
-- K. Kavya
