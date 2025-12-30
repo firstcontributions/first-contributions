@@ -1,7 +1,8 @@
 Sabeel Ur Rehman
 
 # Contributors
-
+- [Swanand Siknis](https://github.com/swanand70): 21:09, 30-12-25, Happy new year, 2026!
+- [Paul Liu](https://github.com/Paul-111129): My first contribution!
 - [Ritesh Gite](https://github.com/RiteshGite): Hello by Ritsh
 - [bsjtb](https://github.com/2879824237): hello world !
 - [Sahil verma](https://github.com/Sahilvee): hey !
@@ -15,6 +16,7 @@ Sabeel Ur Rehman
   rodrick
 - [Aashik thakur](https://github.com/CodeByAashik): Hello world, my first open-source contribution
 - [Mohammed Anas](https://github.com/Anas-Blue): Finally!!
+- [Azarudeen](https://github.com/Azarabdullah): Done is better than perfect.
 - [Waleed Ahmed] (https://github.com/Waleed-Web-Dev): My Brother name is Anas too!
 - [Jyoti Singh](https://github.com/Jyoti-Singh15): Add Jyoti to Contributor list!
 - Rishi
@@ -23,6 +25,7 @@ Sabeel Ur Rehman
 - [Linus Nwankwo](https://github.com/nwankwolinus)
 - [Arjit Sharma](https://github.com/Arjit201): goodluck man
 - [Bhavishya Jain](https://github.com/Bhavishya41): ahh shit, here we go again !!
+-[Mahammed Zubair](https://github.com/MahammedZubair08):My first contribution
 - [Nishant Patil](https://github.com/nishantverse): I'm gonna be the king of pirates !!
 - [Bhargav Thota](https://github.com/bhargavsai007): Hello Open-source community 👋🏻
 - [Chaitanya Mishra](https://github.com/chaitanya-mishra-ai): Contributing to open source, one PR at a time! 🚀
@@ -257,6 +260,7 @@ Sabeel Ur Rehman
 - [Dominiq Barbero](https://github.com/MrMadHatt)
 - [Praveen Gupta](https://github.com/Praveen-0k9)
 - [Trevor Tippery](https://github.com/trevortippery)
+- [th0r](https://github.com/thar1q-is) : first open source contribution yaay!! :D
 - [Shunsuke Takanishi](https://github.com/shunsuke-takanishi)
 - [Olu](https://github.com/AfecoO)
 - [Stephen Hiscock](https://github.com/stevodevo1) ✅
@@ -2589,5 +2593,5 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Jonelis99](https://github.com/jonelis99/first-contributions): My First Contribution on Github
 - [Takuro](https://github.com/takuro3000): My First contribution on open source
 - [Abhishek Panwar](https://github.com/abhishek4050): My First open source contribution
-- [Srivalli Renduchintala](https://github.com/srihul)
-- [Cheng He](https://github.com/ChengHeEric): My First Contribution on Github
+- [Srivalli Renduchintala](https://github.com/srihul) 
+- [Hani Gupta](https://github.com/haniigupta) : First open source contribution
