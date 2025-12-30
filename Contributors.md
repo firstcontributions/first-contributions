@@ -114,6 +114,7 @@ rodrick
 - hasnat safdar : Arch BTW
 - [Kyaw Tun Soe] (https://github.com/KyawGyi98-grey)
 - [Anjaneya Kumar](https://github.com/Anjaneyakumar18)
+- [Hammed Tiamiyu](https://github.com/hammedTiamiyu)
 - [Bastian Ibañez](https://github.com/bastianibanez)
 - [Moses Tapfuma](https://github.com/moseskt)
 - [Moses Tapfuma](https://github.com/ktasolutions)
