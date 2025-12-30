@@ -1,5 +1,6 @@
 Sabeel Ur Rehman
 # Contributors
+- [Swanand Siknis](https://github.com/swanand70): Happy new year, 2026 !!
 - [Ritesh Gite](https://github.com/RiteshGite): Hello by Ritsh
 -  [bsjtb](https://github.com/2879824237): hello world !
 -  [Sahil verma](https://github.com/Sahilvee): hey !
