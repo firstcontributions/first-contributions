@@ -36,6 +36,7 @@ rodrick
 - [Kevin-Neibarger](https://github.com/kevinneibarger)
 - [Krishna-Raj](https://github.com/krishna-stone)
 - [Rahul-singh](https://github.com/Singh0622)
+- [Siddhesh-Gite] (https://github.com/Siddhesh200419)
 - Alex
 
 - Seshadri Naidu
