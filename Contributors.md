@@ -14,6 +14,7 @@ Sabeel Ur Rehman
 - [吴博](https://github.com/JasonWuInBJ): 一起搞AI 
 - [BOUKEF Mohamed Lamine](https://github.com/Boukef): If you’re reading this, you matter. Have a great day!
 rodrick
+- [Yug Patel](https://github.com/yugp31) Hello world!
 - [Aashik thakur](https://github.com/CodeByAashik):  Hello world, my first open-source contribution
 - [Mohammed Anas](https://github.com/Anas-Blue): Finally!!
 - [Azarudeen](https://github.com/Azarabdullah): Done is better than perfect.
