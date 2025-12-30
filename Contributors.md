@@ -2571,3 +2571,4 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Amos ](https://github.com/Aliko2020): My First contribution on open source.
 - [Darshan K G](https://github.com/Darshankg18): My First open source contribution
 - [Openlyfree](https://github.com/openlyfree)
+- [Takuro](https://github.com/takuro3000): My First contribution on open source
