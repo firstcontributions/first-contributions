@@ -2555,3 +2555,4 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Arnav Raj] (https://github.com/Axis-GLC)
 
 - K. Kavya
+- [sahil gupta] (https://summerofcode.withgoogle.com/programs/2025/organizations)
