@@ -1,3 +1,42 @@
+ My Open Source Contribution
+
+### Step 1: Fork the repository
+I forked the repository to my GitHub account.
+
+![Fork](screenshots/s1.PNG)
+
+### Step 2: Clone the repository
+I cloned the forked repository to my local machine.
+
+![Clone](screenshots/s2.PNG)
+
+### Step 3: Create a new branch
+I created a new branch to add my name safely.
+
+![Branch](screenshots/s3.PNG)
+
+### Step 4: Add my name
+I added my name to the Contributors.md file.
+
+![Edit](screenshots/s4.PNG)
+
+### Step 5: Create Pull Request
+I created a pull request to submit my contribution.
+
+![Pull Request](screenshots/s7(a).PNG)
+
+
+
+
+
+
+
+
+
+
+
+
+
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
