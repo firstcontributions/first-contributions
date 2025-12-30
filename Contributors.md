@@ -1,6 +1,6 @@
 # Contributors
 - [Lakshita Bisht](https://github.com/LakshitaBisht11):
-- [Ibadatt Singh Aulakh](https://ibadatt-2k.github.io/portfolio/):
+- [Ibadatt Singh Aulakh](https://ibadatt-2k.github.io/portfolio/) Keep winning chat!!:
 - [吴博](https://github.com/JasonWuInBJ): 一起搞AI
 - [BOUKEF Mohamed Lamine](https://github.com/Boukef): If you’re reading this, you matter. Have a great day!
 rodrick
