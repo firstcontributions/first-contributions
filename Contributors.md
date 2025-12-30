@@ -1,4 +1,4 @@
-Sabeel Ur Rehman
+Sattar Sultan
 # Contributors
 - - [HimaTeja](https://github.com/Allibadha-Himateja): This was my first contribution
 - [Subhash Gupta](https://github.com/codesubhash234) : Starting journey with first contribution
