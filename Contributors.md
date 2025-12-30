@@ -256,6 +256,7 @@ rodrick
 - [Dominiq Barbero](https://github.com/MrMadHatt)
 - [Praveen Gupta](https://github.com/Praveen-0k9)
 - [Trevor Tippery](https://github.com/trevortippery)
+- [th0r](https://github.com/thar1q-is) : first open source contribution yaay!! :D
 - [Shunsuke Takanishi](https://github.com/shunsuke-takanishi)
 - [Olu](https://github.com/AfecoO)
 - [Stephen Hiscock](https://github.com/stevodevo1) ✅
