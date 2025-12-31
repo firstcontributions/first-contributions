@@ -1,6 +1,7 @@
 Sabeel Ur Rehman
 # Contributors
 - [azdineh](https://github.com/azdineh) : this is my  contriubution.
+- [polakhaikola](https://github.com/polakhaikola) ; Happy new year, 2026.. .. for us progga, love u
 - [Lahar-Solanki](https://github.com/Laharsolanki) : Excited for GSOC 2026 because it is my first time.
 - [Akash-Praveen](https://github.com/GPAPD):  Happy new year, 2026!
 - [Swanand Siknis](https://github.com/swanand70): 21:09, 30-12-25, Happy new year, 2026!
