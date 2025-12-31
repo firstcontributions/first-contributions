@@ -20,6 +20,7 @@ rodrick
 - [Aashik thakur](https://github.com/CodeByAashik):  Hello world, my first open-source contribution
 - [Mohammed Anas](https://github.com/Anas-Blue): Finally!!
 - [Azarudeen](https://github.com/Azarabdullah): Done is better than perfect.
+- [Joseph Jonathan Fernandes](https://github.com/JosephJonathanFernandes): Keep improving 1% everyday
 - [Waleed Ahmed] (https://github.com/Waleed-Web-Dev): My Brother name is Anas too!
 - [Jyoti Singh](https://github.com/Jyoti-Singh15): Add Jyoti to Contributor list!
 - Rishi
