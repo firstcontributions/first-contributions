@@ -1,5 +1,6 @@
 Sabeel Ur Rehman
 # Contributors
+- [Amit Kr Mahato](https://github.com/Amit-Mahato-0001) : First open source contribution :>
 - [azdineh](https://github.com/azdineh) : this is my  contriubution.
 - [Lahar-Solanki](https://github.com/Laharsolanki) : Excited for GSOC 2026 because it is my first time.
 - [Akash-Praveen](https://github.com/GPAPD):  Happy new year, 2026!
