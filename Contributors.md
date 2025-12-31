@@ -2610,4 +2610,5 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [lokesh](https://github.com/2400032210): My First contribution
 - [SHIKA-gfx](https://github.com/SHIKA-gfx) : Hello contribution World!
 - [Sanjana devi](https://github.com/sanjana806) : Hello new to opensource!
-- [Dev-syphax](https://github.com/Dev-syphax) : First contribution 
+- [Dev-syphax](https://github.com/Dev-syphax) : First contribution
+- Pranay Jajodia
