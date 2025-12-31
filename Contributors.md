@@ -1,6 +1,7 @@
 Sabeel Ur Rehman
 # Contributors
 - [Swanand Siknis](https://github.com/swanand70): 21:09, 30-12-25, Happy new year, 2026!
+- [Diego Scalioni](https://github.com/dscalioni-bi4all/): 11:30, 31-12-25, Happy new year, 2026!
 - [Adithya Kotian](https://github.com/AdithyaKotian) : Happy new year , lock in
 - [Paul Liu](https://github.com/Paul-111129): My first contribution!
 - [Ritesh Gite](https://github.com/RiteshGite): Hello by Ritsh
@@ -53,7 +54,6 @@ rodrick
 - [Rahul-singh](https://github.com/Singh0622)
 - [Siddhesh-Gite] (https://github.com/Siddhesh200419)
 - Alex
-
 - Seshadri Naidu
 - wtempero
 - TimoTHa
