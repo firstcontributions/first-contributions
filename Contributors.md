@@ -2613,3 +2613,4 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Dev-syphax](https://github.com/Dev-syphax) : First contribution
 - Pranay Jajodia
 - [Laxmikant Thakur](https://github.com/laxmikant-thakur) : Exploring open source
+- [Tessa Watson](https://github.com/tessadae) : Hi fellow newbies
