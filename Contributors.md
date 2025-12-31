@@ -64,6 +64,7 @@ rodrick
 - [Hamza Ahmad](https://github.com/HamzaAhmadOfficial)
 - [Adnan Hussen](https://github.com/adnan-hussen)
 - Mathias Bucsa
+- [Anshraj Gupta (zeusgod2320)](https://github.com/zeusgod230): Heya! This is my first contribution.
 - [PRAGATHI P B](https://github.com/pragathibasutkar): Fisrt contribution, Excited and eager to learn
 - [Aarthi Senthil Kumar](https://github.com/aarth123) : Good to know
 - [Soham Patil](https://github.com/Soham-1616)
