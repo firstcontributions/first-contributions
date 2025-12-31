@@ -12,7 +12,7 @@ Lees artikels en kyk tutoriale kan help, maar wat is beter as om die goed in die
 #### *As jy nie gemaklik is met die opdraglyn nie, [is daar tutoriale wat GUI-instrumente gebruik.](#Bykomende-materiaal )*
 
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="vurk hierdie bewaarplek" />
 
 As jy nie git op jou masjien het nie, [installeer dit]( https://help.github.com/articles/set-up-git/).
 
@@ -22,45 +22,45 @@ Vork hierdie repo deur op die vurk knoppie bo-aan hierdie bladsy te klik. Dit sa
 
 ## Klone die repository
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="kloon hierdie bewaarplek" />
 
 Klone nou die vurk repo aan jou masjien. Gaan na jou GitHub-rekening, maak die vurk repo oop, klik op die kloonknop en klik dan op die kopie na die knipbord- ikoon.
 
 Open 'n terminaal en voer die volgende git opdrag uit:
 
-```
+```bash
 git clone "url you just copied"
 ```
 
 waar "url jy net gekopieer" het (sonder die aanhalingstekens) is die url na hierdie repository (jou vurk van hierdie projek). Sien die vorige stappe om die url te verkry.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="kopieer URL na knipbord" />
 
 Byvoorbeeld:
 
-```
+```bash
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 
-waar `this-is-youis` jou GitHub gebruikersnaam Hier kopieer jy die inhoud van die eerste bydrae repository in GitHub na jou rekenaar.
+waar `this-is-you` jou GitHub gebruikersnaam is. Hier kopieer jy die inhoud van die eerste bydrae repository in GitHub na jou rekenaar.
 
 ## Skep 'n tak
 
 Verander na die repository gids op jou rekenaar (as jy nie reeds daar is nie):
 
-```
+```bash
 cd first-contributions
 ```
 
 Skep nou 'n tak met die git `checkout` opdrag:
 
-```
+```bash
 git checkout -b <add-your-new-branch-name>
 ```
 
 Byvoorbeeld:
 
-```
+```bash
 git checkout -b add-alonzo-church
 ```
 
@@ -77,13 +77,13 @@ As u na die projekgids gaan en die opdrag uitvoer `git status`, sal u sien dat d
 
 Voeg die veranderinge by die tak wat jy net geskep het deur die `git add` opdrag te gebruik:
 
-```
+```bash
 git add Contributors.md
 ```
 
 Doen nou die veranderinge deur die `git commit` opdrag te gebruik:
 
-```
+```bash
 git commit -m "Add <your-name> to Contributors list"
 ```
 
@@ -93,7 +93,7 @@ vervang `<your-name>` met jou naam.
 
 Druk jou veranderinge deur die opdrag te gebruik `git push`:
 
-```
+```bash
 git push origin <add-your-branch-name>
 ```
 
@@ -103,11 +103,11 @@ vervang `<add-your-branch-name>` met die naam van die tak wat jy vroeër geskep 
 
 As jy na jou repository op GitHub gaan, sal jy 'n `Compare & pull` requestknoppie sien. Klik op daardie knoppie.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="skep ’n trekkerversoek" />
 
 Dien nou die trekversoek in.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="dien die trekkerversoek in" />
 
 Binnekort sal ek al jou veranderinge in die meestertak van hierdie projek saamsmelt. U sal 'n kennisgewing-e-pos ontvang sodra die veranderinge saamgesmelt is.
 

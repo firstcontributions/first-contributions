@@ -1,147 +1,162 @@
-
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
+# First Contributions
 
-# Эхний Хувь Нэмэр
+Нээлттэй эх код баазад өөрийн хувь нэмрээ оруулах хүсэл програмч болгонд байдаг байх. Харин яг хаанаас эхлэхээ мэдэхгүй үе тохиолдох нь элбэг. Иймд, бид хэд шиг будилсан хөгжүүлэгч нарт ядаж хийх үйлдлийн зохих дарааллыг нь таниулчих зорилгоор энэхүү төсөл нь эхэлжээ. Та ч бас нээлттэй эх код баазад өөрийн нэмрээ оруулмаар байгаа бол доорх алхмуудыг дагаад хийгээрэй.
 
-Анх удаа ямар нэг зүйл хийхэд үргэлж хэцүү байдаг. Ялангуяа хамтран ажиллаж, алдаа гаргах үед тухгүй санагддаг. Бид шинэ нээлттэй эхийн хувь нэмэр оруулагчид хэрхэн суралцаж, анхны хувь нэмрээ хийх процессыг хялбар болгохыг хүссэн.
 
-Өгүүллэг уншиж, бичлэг үзэх нь тус дөхөмтэй байж болох ч бодитоор нь хийж үзэхээс дээр зүйл үгүй. Энэхүү төсөл нь анхлан суралцагчдад анхны хувь нэмрээ оруулах замыг зааж өгөх, хялбарчлах зорилготой. Хэрэв та анхны хувь нэмрээ хийхийг хүсвэл доорх алхмуудыг дагаарай.  
+_Терминалтай ажиллах дургүй бол [GUI ашигласан хичээл рүү ороорой.](#tutorials-using-other-tools)_
 
-#### *Хэрэв та командын мөр ашиглахад тухгүй байвал [энд бусад хэрэгсэл ашиглах зааврууд бий.](#Бусад-Хэрэгсэл-Ашигласан-Заавар)*
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="энэ репог салаалж авах" />
+#### Компьютер дээрээ git суулгаагүй бол [энд дарж суулгана уу.](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
-Хэрэв таны машин дээр git байхгүй бол [суулгана уу](https://help.github.com/articles/set-up-git/).
+## Энэ рэпог форклох
 
-## Репог салаалж авах (Fork)
+Та энэ хуудасны дээд хэсэгт орших fork товчийг дарснаар энэ рэпоны хуулбар таны хаягт үүсэх юм.
 
-Энэ репогийн хуудасны дээд талд байрлах **Fork** товчийг дарна уу.  
-Ингэснээр таны GitHub бүртгэл дээр тус репогийн хуулбар үүснэ.  
+## Энэ рэпог хувилах
 
-## Репог клон хийх (Clone)
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="энэ репог клон хийх" />
+Форк хийчихсэн рэпогоо компьютер дээрээ суулгахын тулд хлээд Гитхаб хаяг дээрээ очоод, форклосон рэпогоо олоод, code гэсэн товчин даар дараад, SSH хэсэг дээр дарж, _хуулах_ товчлуур дээр дарах хэрэгтэй.
 
-Одоо энэ репог өөрийн компьютер дээрээ клон хийж авна. GitHub бүртгэл рүүгээ орж, **Clone** товчийг дараад дараа нь *copy to clipboard* тэмдгийг дарна.  
+Дараа нь, терминалаа нээгээд доорх үйлдлийг хийнэ:
 
-Терминал нээгээд дараах командыг ажиллуулна:  
-
+```bash
+git clone "саяны хуулсан линк"
 ```
 
-git clone "та хуулсан url"
+"саяны хуулсан линк" хэсгийн оронд эхний алхам дээр хуулсан линкээ наана.
 
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+
+Жишээ нь:
+
+```bash
+git clone git@github.com:таны-гитхаб-хаяг/first-contributions.git
 ```
 
-Энд `"та хуулсан url"` гэдэг нь энэ төслийн таны салаалсан хувилбарын URL юм.  
+`таны-гитхаб-хаяг` гэсний оронд Гитхабын хэрэглэгчийн нэрээ бичнэ. Ингэснээр та өөрийн хаяг дээрээ үүсгэсэн энэхүү рэпоны хуулбарыг өөрийн компьютер дээрээ хувилан авч чадлаа.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="URL хуулах" />
+## Шинэ бранч үүсгэх
 
-Жишээ нь:  
+Дараа нь, хувилсан рэпоныхоо фолдер луу шилжинэ:
 
-```
-
-git clone [https://github.com/taniin-ner/first-contributions.git](https://github.com/taniin-ner/first-contributions.git)
-
-```
-
-Энд `taniin-ner` гэдэг нь таны GitHub-н хэрэглэгчийн нэр.  
-
-## Салбар (Branch) үүсгэх
-
-Компьютер дээрээ тухайн репо руу орно:  
-
-```
-
+```bash
 cd first-contributions
-
 ```
 
-Шинэ салбар үүсгэнэ:  
+`git switch` үйлдлийг ашиглан шинэ бранч үүсгэнэ:
 
+```bash
+git switch -c шинэ-бранчийн-нэр
 ```
 
-git checkout -b <shine-salbar-ner>
+Жишээ нь:
 
+```bash
+git switch -c add-alonzo-church
 ```
 
-Жишээ нь:  
+<details>
+<summary> <strong>git switch үйлдлийг хийхэд ямар нэгэн алдаа гарсан бол энд дар:</strong> </summary>
 
+Дараах алдаа гарсан бол Гит програмын чинь хувилбар нийцэхгүй байна гэсэн үг: "Git: `switch` is not a git command. See `git –help`" 
+
+Дээрх тохиолдолд `git checkout` үйлдлийг хэрэглээд үзээрэй:
+
+```bash
+git checkout -b шинэ-бранчийн-нэр
 ```
 
-git checkout -b add-luke-oliff
+</details>
 
-```
+## Код баазад өөрчлөлт хийгээд өөрчлөлтөө коммит хийх
 
-(*Салбарын нэр заавал `add` гэж эхлэх албагүй, гэхдээ өөрийн нэрээ нэмэх зорилготой тул ингэж нэрлэх нь ойлгомжтой.*)
-
-## Өөрчлөлт хийх ба commit хийх
-
-`Contributors.md` файлыг текст засварлагчаар нээгээд өөрийн нэрээ нэмнэ. Эхлэл эсвэл төгсгөлд бүү нэмээрэй, хаа нэгтээ дунд хэсэгт нь хийнэ. Дараа нь файлаа хадгална.  
+`Contributors.md` файлыг дурын текст эдитор дээр нээгээд өөрийн нэрээ нэмээрэй. Файлын эхэнд болон сүүлд нэмэхгүй л байхад болно.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
-Дараа нь терминалдаа `git status` ажиллуулбал өөрчлөлт гарсныг харуулна.  
+Дараа нь, үндсэн фолдер луу шилжээд `git status` үйдлийг хийвэл танд таны өөрчилсөн файлууд харагдана.
 
-Өөрчлөлтөө салбартаа нэмнэ:  
+Харагдаж буй өөрчлөлтүүдээ эхлээд бранчдаа `git add` үйлдлийг ашиглан нэмнэ:
 
-```
-
+```bash
 git add Contributors.md
-
 ```
 
-Commit хийж хадгална:  
+Дараа нь `git commit` үйлдлийг ашиглан коммит хийнэ (`your-name` гэснийг нэмсэн нэрээрээ солихоо мартуузай):
 
+```bash
+git commit -m "Add your-name to Contributors list"
 ```
 
-git commit -m "Add <tanii-ner> to Contributors list"
+## Гитхаб руу пушлэх
 
+Дараа нь, `git push` үйлдлийг ашиглан саяны коммитоо пушлэнэ (`your-branch-name` гэснийг үүсгэсэн бранчийнхаа нэрээр солихоо мартуузай):
+
+```bash
+git push -u origin your-branch-name
 ```
 
-## Өөрчлөлтөө GitHub руу push хийх
+<details>
+<summary> <strong>Пушлэх үйлдэл дээр ямар нэгэн алдаа заавал энд дарж харах:</strong> </summary>
 
-Дараах командаар өөрчлөлтөө push хийнэ:  
+- ### Нэвтрэх эрхийн алдаа
+     <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+  remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+  fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
+  Хэрэв дээрх янзаар алдаа зааж байвал шинэ SSH түлхүүр үүсгэн хаягтайгаа холбох хэрэгтэй гэсэн үг бөгөөд хэрхэн холбохыг [энд дарж харна уу](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account).
 
-```
+  Мөн, аль рэпотой холбогдсон байгаагаа 'git remote -v' үйлдлээр шалгачихад гэмгүй.
 
-git push origin <salbar-ner>
+  Хэрэв дээрх үйлдлийн хариу доорх маягаар байвал:
+  <pre>origin	https://github.com/таны-хэрэглэгчийн-нэр/таны-рэпо-нэр.git (fetch)
+  origin	https://github.com/таны-хэрэглэгчийн-нэр/таны-рэпо-нэр.git (push)</pre>
 
-```
+  дараах үйлдлээр өөрчлөх хэрэгтэй:
+  ```bash
+  git remote set-url origin git@github.com:таны-хэрэглэгчийн-нэр/таны-рэпо-нэр.git
+  ```
+  Ингэснээр та нууц үгээр биш хаягтай чинь холбогдсон SSH түлхүүрээр нэвтэрч эхэлнэ.
+</details>
 
-`<salbar-ner>` хэсэгт та өмнө үүсгэсэн салбарын нэрээ оруулна.  
+## Нэгтгэх хүсэлт илгээх
 
-## Pull Request илгээх
+Гитхаб дээрх рэпо руу очмогц `Compare & pull request` товчлуур харагдах болно. Уг товчлуур дээр дарснаар шинэ нэгтгэх хүсэлт (pull request) үүсгэх хуудас гарч ирнэ.
 
-GitHub дээр өөрийн репод ормогцоо **Compare & pull request** товчийг дарна.  
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="pull request үүсгэх" />
+Дараа нь нэгтгэх хүсэлтээ илгээнэ.
 
-Дараа нь pull request-ээ илгээнэ.  
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="pull request илгээх" />
+Таны хүсэлтийг бид хүлээн аваад автоматаар код бааздаа нэгтгэсэн байх болно. Энэ талаар бүртгэлтэй и-мейл хаяг дээр чинь мэдэгдэл ирнэ.
 
-Тун удалгүй таны өөрчлөлтүүд гол (master) салбарт нэгтгэгдэх бөгөөд танд мэдэгдэл ирнэ.  
+## Одоо яг яах билээ?
 
-## Цааш хаашаа явах вэ?
+Нээлттэй эх код баазад өөрийн нэмрээ оруулахын тулд ерөнхийд нь мөрдөх ёстой  _fork -> clone -> edit -> pull request_ гэсэн дарааллыг та одоо мэддэг боллоо.
 
-Баяр хүргэе! Та _fork -> clone -> edit -> PR_ гэсэн стандарт ажлын урсгалыг амжилттай хийж дуусгалаа.  
+Нээлттэй эхэд нэмэр оруулж эхлэх анхны алхамаа хийсэн талаараа [энд дарж](https://firstcontributions.github.io/#social-share) нөхөдтэйгөө хуваалцана уу.
 
-Хувь нэмрээ хийсэндээ баярлаад найзууд, дагагчидтайгаа [энэ вэб апп](https://firstcontributions.github.io/#social-share)-аар дамжуулан хуваалцаарай.  
+Өшөө дасгал ажиллахын тулд [энд дар](https://github.com/roshanjossey/code-contributions).
 
-Мөн бид анхлан суралцагчдад зориулсан хялбар асуудлуудтай төслүүдийн жагсаалтыг цуглуулсан байгаа. [Энэ вэб апп доторх төслийн жагсаалтыг](https://firstcontributions.github.io/#project-list) шалгаарай.  
+Нээлттэй эх код баазтай янз бүрийн төслүүдийн жагсаалтыг [энд дарж харна уу](https://firstcontributions.github.io/#project-list).
 
-### [Нэмэлт материал](../additional-material/git_workflow_scenarios/additional-material.md)
+### [Нэмэлт материал](docs/additional-material/git_workflow_scenarios/additional-material.md)
 
-## Бусад Хэрэгсэл Ашигласан Заавар
+## Өөр програмууд ашигласан хичээлүүд
 
-| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
-| --- | --- | --- | --- | --- | --- |
-| [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md) | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md) | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md) | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md) | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md) | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md) |
-```
+| <a href="docs/gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="docs/gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="docs/gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="docs/gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="docs/gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="docs/gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [GitHub Desktop](docs/gui-tool-tutorials/github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](docs/gui-tool-tutorials/github-windows-vs2017-tutorial.md)                                                                                                                          | [GitKraken](docs/gui-tool-tutorials/gitkraken-tutorial.md)                                                                                                                                        | [Visual Studio Code](docs/gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                                                  | [Atlassian Sourcetree](docs/gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                                      | [IntelliJ IDEA](docs/gui-tool-tutorials/github-windows-intellij-tutorial.md)                                                                                                                                                          |
 
----
-
-
+<p>Энэ төслийг дэмжсэн:</p>
+<p>
+  <a href="https://www.digitalocean.com/">
+    <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_horizontal_blue.svg" width="201px">
+  </a>
+</p>
