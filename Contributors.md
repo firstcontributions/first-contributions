@@ -2609,4 +2609,4 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Brooks Yu](https://github.com/Brooks-Yu): My First open source contribution
 - [lokesh](https://github.com/2400032210): My First contribution
 - [SHIKA-gfx](https://github.com/SHIKA-gfx) : Hello contribution World!
-- [Sanjana devi](https://github.com/sanjana806) : Hello new to opensource!
+- [Sanjana devi](https://github.com/sanjana806) : Hello new to opensource!- [Hritik Shukla](https://github.com/hritikshuklalfc)
