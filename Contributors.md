@@ -330,6 +330,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Rama AlAtiq] (https://github.com/rama-alatiq)
 - [WebDevPraveen] (https://github.com/webdevpraveen)
 - [Varsha Gandhi] (https://github.com/varshagandhi-01)
+- [Miguel Caamano](https://github.com/michaelBedDev):  Happy to contribute! This is just the beginning.
 - [mukeshdidel] (https://github.com/mukeshdidel)
 - [Sanjib77] (https://github.com/sanjib77)
 - [Sadeep Dilshan Kasthuriarachchi](https://github.com/sadeep654)
