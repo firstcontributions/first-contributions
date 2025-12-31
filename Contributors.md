@@ -95,7 +95,6 @@ rodrick
 - [Maruti Naik](https://github.com/Maruti1887): First contribution without anyone help only with provided readme
 - [Tapendra Tiruwa] (https://github.com/bkpiru6-ship-it) : First contribution, I want to learn and make connection with new people
 - [Sail Nagale] (https://github.com/Sailnagale) : First contribution, now let's goooo
-- [Ajeet Singh] (https://github.com/iam-ajeetsingh) : My First Open Source Contribution. 
 - [Jae Young Seo](https://github.com/Jae-YS) : First open source contribution
 - [Daryl Guzman](https://github.com/D0ngk1/) First open-source contribution; certainly won't be the last.
 - [rmarc29](https://github.com/rmarc29) 👾👾👾
@@ -1153,7 +1152,6 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Jordy19](https://github.com/Jordy19)
 - [Tushar Moolya](https://github.com/tushiar)
 - [Robiya](https://github.com/rhakim24)
-- [Safiullah Baig] (https://github.com/bagel786)
 - [outsutski](https://github.com/outsutski)
 - [jhc4318](https://github.com/jhc4318)
 - [Soulwill](https://github.com/soulwill1)
@@ -1969,6 +1967,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Frankson Iury] (https://github.com/FranksonIury)
 - [Danny](https://github.com/DannySmith-EQ)
 - [CJ Conti](https://github.com/contic5)
+- [Marco de Souza](https://github.com/marcodesouza)
 - [Inengiye Emmanuel](https://github.com/Inengs)
 - [Aditya Nautiyal](https://github.com/AdityaNautiyal908)
 - [Dhruv Shah](https://github.com/dhruvkshah75)
@@ -2597,6 +2596,3 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Abhishek Panwar](https://github.com/abhishek4050): My First open source contribution
 - [Srivalli Renduchintala](https://github.com/srihul) 
 - [Hani Gupta](https://github.com/haniigupta) : First open source contribution
-- [Venu Gopal](https://github.com/VenuGopalboggala):  First Open Source Contribution 2026
-- [Brooks Yu](https://github.com/Brooks-Yu): My First open source contribution
-- [lokesh](https://github.com/2400032210): My First contribution
