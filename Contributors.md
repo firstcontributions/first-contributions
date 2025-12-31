@@ -1,4 +1,4 @@
-Sabeel Ur Rehman
+
 # Contributors
 - [Swanand Siknis](https://github.com/swanand70): 21:09, 30-12-25, Happy new year, 2026!
 - [Adithya Kotian](https://github.com/AdithyaKotian) : Happy new year , lock in
