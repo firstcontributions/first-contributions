@@ -1,5 +1,6 @@
 Sabeel Ur Rehman
 # Contributors
+- [Akash-Praveen](https://github.com/GPAPD):  Happy new year, 2026!
 - [Swanand Siknis](https://github.com/swanand70): 21:09, 30-12-25, Happy new year, 2026!
 - [Diego Scalioni](https://github.com/dscalioni-bi4all/): 11:30, 31-12-25, Happy new year, 2026!
 - [Adithya Kotian](https://github.com/AdithyaKotian) : Happy new year , lock in
