@@ -2601,3 +2601,4 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Venu Gopal](https://github.com/VenuGopalboggala):  First Open Source Contribution 2026
 - [Brooks Yu](https://github.com/Brooks-Yu): My First open source contribution
 - [lokesh](https://github.com/2400032210): My First contribution
+- [SHIKA-gfx](https://github.com/SHIKA-gfx) : Hello contribution World!
