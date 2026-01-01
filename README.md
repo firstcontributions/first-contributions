@@ -237,7 +237,10 @@ If you'd like more practice, checkout [code contributions](https://github.com/ro
 
 Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
 
-### [Additional material](docs/additional-material/git_workflow_scenarios/additional-material.md)
+### Additional Resources
+
+- [Additional material](docs/additional-material/git_workflow_scenarios/additional-material.md)
+- [AI Tools Guide](docs/ai-tools-guide.md) - Comprehensive guide to modern AI tools (ChatGPT, Gemini, Claude, Perplexity, etc.) and their use cases
 
 ## Tutorials Using Other Tools
 
