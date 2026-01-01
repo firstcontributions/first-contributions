@@ -1,6 +1,6 @@
 Sabeel Ur Rehman
 # Contributors
-- [Afan Riaz](https://github.com/afan-riaz)
+- [Afan Riaz](https://github.com/afan-riaz) : First open source contribution with the help of Neuro App
 - [Amit Kr Mahato](https://github.com/Amit-Mahato-0001) : First open source contribution :>
 - [Azam](https://github.com/AzamCodes): Small steps, real contributions 🚀
 - [azdineh](https://github.com/azdineh) : this is my  contriubution.
