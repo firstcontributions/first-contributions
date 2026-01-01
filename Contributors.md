@@ -2620,3 +2620,4 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Laxmikant Thakur](https://github.com/laxmikant-thakur) : Exploring open source
 - [Tessa Watson](https://github.com/tessadae) : Hi fellow newbies
 - [Ranass10](https://github.com/Ranass10) : Hi brother exploring the open sourcegit
+- [naveen Garg](https://github.com/naveenkgrg): Excited to contribute! 
