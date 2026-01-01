@@ -61,6 +61,7 @@ rodrick
 - [Siddharth Axaykumar Mehta](https://github.com/myselfsiddharth): Why not ! Let's get that damn badge !!!
 - [Jason Balayev](https://github.com/JasonBalayev): One commit at a time
 - [Kim Seongeon](https://github.com/mudhopper) : First open source contribution
+- [Yohaan](https://github.com/yohaann196) : happy new yr!!
 - [Nyan Lin Mg](https://github.com/nyanlinmg)
 - [Kevin-Neibarger](https://github.com/kevinneibarger)
 - [Krishna-Raj](https://github.com/krishna-stone)
