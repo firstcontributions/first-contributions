@@ -2587,6 +2587,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Justin Lin 林詩杰](https://github.com/JustinLin65) : First Open Source Contribution
 - [Bhavesh Kerkar](https://github.com/bhaveshkerkar) : First open source contribution
 - Deepak - India
+- [Jayu Deshmukh](https://github.com/OM-DESHMUKH243) : My first open source contribution!
 - [Dzhan Yonbash] (https://github.com/canonbas03) : Excited to contribute!
 - [Nishan Roy](https://github.com/nishanroy561) : First Open Source Contribution
 - [Bikram Sarkar](https://github.com/bikram3369) : First time doing open source contribution
