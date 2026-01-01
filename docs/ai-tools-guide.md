@@ -10,7 +10,7 @@ A comprehensive guide to modern AI tools and their applications for developers, 
 - [Microsoft Copilot](#microsoft-copilot)
 - [Other Notable AI Tools](#other-notable-ai-tools)
 - [Comparison Matrix](#comparison-matrix)
-- [Best Practices](#best-practices)
+- [Best Practices](#best-qpractices)
 
 ---
 
