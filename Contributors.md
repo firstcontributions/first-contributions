@@ -216,6 +216,7 @@ rodrick
 - [Vansh]
 - [Newbie1223](https://github.com/newbie1223)
 - [Natnael Tewodors] (https://github.com/Natnael-Tewodros)
+- [Shamila P](https://github.com/ShamilaP-Gsoc)
 - [Soujanya](https://github.com/Soujanya30-dev)
 - [Sree Pada](https://github.com/sreepadha102): Follow my portfolio project!!
 - [Shruti Chadda](https://github.com/Shruti-chadda)
