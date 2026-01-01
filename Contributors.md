@@ -9,6 +9,7 @@ Sabeel Ur Rehman
 - [Lahar-Solanki](https://github.com/Laharsolanki) : Excited for GSOC 2026 because it is my first time.
 - [Akash-Praveen](https://github.com/GPAPD):  Happy new year, 2026!
 - [Swanand Siknis](https://github.com/swanand70): 21:09, 30-12-25, Happy new year, 2026!
+- [chandan singh](https://github.com/chandan-singh): my first contribution 👾
 - [Adithya Kotian](https://github.com/AdithyaKotian) : Happy new year , lock in
 - [Paul Liu](https://github.com/Paul-111129): My first contribution!
 - [Ritesh Gite](https://github.com/RiteshGite): Hello by Ritsh
