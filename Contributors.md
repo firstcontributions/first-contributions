@@ -1,6 +1,7 @@
 Sabeel Ur Rehman
 # Contributors
 - [Amit Kr Mahato](https://github.com/Amit-Mahato-0001) : First open source contribution :>
+- [Azam](https://github.com/AzamCodes): Small steps, real contributions 🚀
 - [azdineh](https://github.com/azdineh) : this is my  contriubution.
 - [Abhinav Vaidya](https://github.com/abhi9vaidya) : Happy New Year :)
 -[Nishan](https://github.com/Nishan-Narvan)
