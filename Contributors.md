@@ -37,6 +37,7 @@ rodrick
 - Rishi
 - [m_dev](https://github.com/marindeveloper) : not my first not my last
 - [Rishabh Maheshwari](https://github.com/iyemrishabh) : Though it is my first contribution but many more are coming. yuuhuuu life is enjoy.....
+- [Arold NG](https://github.com/AroldNG): My first meaningful open source contribution!  
 - [Linus Nwankwo](https://github.com/nwankwolinus)
 - [Arjit Sharma](https://github.com/Arjit201): goodluck man
 - [Bhavishya Jain](https://github.com/Bhavishya41): ahh shit, here we go again !!
