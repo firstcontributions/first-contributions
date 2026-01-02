@@ -2662,8 +2662,6 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Takuro](https://github.com/takuro3000): My First contribution on open source
 - [Abhishek Panwar](https://github.com/abhishek4050): My First open source contribution
 - [Srivalli Renduchintala](https://github.com/srihul) 
-my-first-pr
-- [Hani Gupta](https://github.com/haniigupta) : First open source contribution
 - [Anushka157-cha](https://github.com/Anushka157-cha):My First Contribution on Github
 
 - [Hani Gupta](https://github.com/haniigupta) : First open source contribution
@@ -2692,6 +2690,4 @@ my-first-pr
 -[Aarya Dharmadhikari](https://github.com/aarya0044) : My first open source contribution!!
 - [Kiran Kumar](https://github.com/tm-kiran-kumar): My first step in contirbuting to world.
 - [Jasneet Kaur] (https://github.com/jasneetkr-1610): My first open source contiribution.
-my-first-pr
 - [Jason Arlo](https://github.com/jasonarlo04): Greetings, Nerds!
- main
