@@ -2696,7 +2696,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Rickyxrc] : Hello github! Love u all!
 -[Rudrika Trivedi](https://github.com/rudrika778) : My first Open Source Contribution!
 -[RonyDevX](https://x.com/SDE_Rony)
-- [Haoyu Pan](https://github.com/HaoyuPan) : My first Open Source Contribution!
+-[HaoyuPan](https://github.com/HaoyuPan) : My first Open Source Contribution!
 -[Aarya Dharmadhikari](https://github.com/aarya0044) : My first open source contribution!!
 - [Kiran Kumar](https://github.com/tm-kiran-kumar): My first step in contirbuting to world.
 - [Jasneet Kaur] (https://github.com/jasneetkr-1610): My first open source contiribution.
