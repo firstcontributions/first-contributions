@@ -344,6 +344,7 @@ rodrick
 - [Lam](https://github.com/LamNz79) -[AdityaVerma](https://github.com/Aditya1v)
 - [Hariharan Narlakanti](https://github.com/HariN999): My First Open Source contribution -[Mamta Adivasi](https://github.com/milli525) -[Nand kishore](https://github.com/Nandkishore-04) :My first ever open source contribution. -[Taranjot Singh](https://github.com/Randhawa1255) -[Sarvesh Malikakandy](https://github.com/sarveshm27)
 - [webmastervetea](https://github.com/webmastervetea)
+-[- Deepanshi Singhal](https://github.com/deepanshi-0103), bro i really want to learn this clearly!!
 - [VanshSharma] (https://github.com/vanshsharma-11) - Yeah, i was here!
 - [Adarsh Kadam](https://github.com/adarsh47-bug)
 - [Alexandru](https://github.com/my-how-to)
