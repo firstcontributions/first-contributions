@@ -12,7 +12,10 @@
 - [Sanyam Kansal](https://github.com/sanyamkansal) : First open source contribution, I want to learn and connect!
 - [zett721](https://github.com/zett721) : Happy New Year! This is my first contrubution in 2026 actually!
 - [Abhinav Vaidya](https://github.com/abhi9vaidya) : Happy New Year :)
-- [Suraj Raykar](https://github.com/ssuraj2504) : Happy New Year :) -[Nishan](https://github.com/Nishan-Narvan) -[Rishitha-Dama](https://github.com/RishithaDama)
+- [Suraj Raykar](https://github.com/ssuraj2504) : Happy New Year :)
+-[Nishan](https://github.com/Nishan-Narvan)
+-[Rahul](https://github.com/SilverMoon-ops)
+-[Rishitha-Dama](https://github.com/RishithaDama)
 - [KMSDINESH](https://github.com/KMSDINESH)
 - [Lahar-Solanki](https://github.com/Laharsolanki) : Excited for GSOC 2026 because it is my first time.
 - [Akash-Praveen](https://github.com/GPAPD): Happy new year, 2026!
@@ -150,8 +153,9 @@
 - [Dhanush Pavan](https://github.com/dhanushpavann) : First Open Source Contribution!
 - [Anurag Goyal](https://github.com/AnuragGoyal007):First open source contribution!
 - [Shaek](https://github.com/shaek666/first-contributions.git) : First open source contribution
-  [Vyshnavi T N](https://github.com/vyshnaviTN):First Open Source Contribution.
-  [Manoj Kumar C](https://github.com/ManojKumarC0112):First open source Contribution
+[Vyshnavi T N](https://github.com/vyshnaviTN):First Open Source Contribution.
+-[Visitha](https://github.com/vsr2414) : First open source contribution
+[Manoj Kumar C](https://github.com/ManojKumarC0112):First open source Contribution 
 - [Aditya Singh](https://github.com/adityasingh100200300-stack): First step towards open-source contributions.
 - [Sandhiya S](https://github.com/Sandhiya-Sakthivel): my first open-source contribution! Learning through different practices..
 - hasnat safdar : Arch BTW
