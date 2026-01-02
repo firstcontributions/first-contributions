@@ -1,5 +1,6 @@
 # Contributors
 
+-[zerokali20](https://github.com/zerokali20) - Hi guys welcome to new year  !!!
 -[hu-119](https://github.com/hu119-web)
 - [Praveer Ranjan Singh](https://github.com/PRAVEERRANJANSINGH)
 -[Gayatri Shejule](https://github.com/Gayatri-Shejule)
