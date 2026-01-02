@@ -1,5 +1,5 @@
-
 # Contributors
+
 -[hu-119](https://github.com/hu119-web)
 -[Gayatri Shejule](https://github.com/Gayatri-Shejule)
 -[Nitesh Ghimire](https://github.com/nitisbig) - hello from singulaity!!! 
@@ -2351,6 +2351,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Ali Farooqi](https://github.com/alifarooqi)
 - [Aaryan](https://github.com/pixler-coder)
   -QWERTY
+- [Dinesh kanna R][https://github.com/Dinesh8072]: This is my first contribution
 - [A Szpatowski](https://github.com/aszpatowski)
 - [Sid](https://github.com/starboylive)
 - [Dravid P A](https://github.com/dravidpa7)
