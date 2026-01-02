@@ -12,6 +12,7 @@
 - [Sanyam Kansal](https://github.com/sanyamkansal) : First open source contribution, I want to learn and connect!
 - [zett721](https://github.com/zett721) : Happy New Year! This is my first contrubution in 2026 actually!
 - [Abhinav Vaidya](https://github.com/abhi9vaidya) : Happy New Year :)
+- [Suraj Raykar](https://github.com/ssuraj2504) : Happy New Year :)
 -[Nishan](https://github.com/Nishan-Narvan)
 -[Rishitha-Dama](https://github.com/RishithaDama)
 - [KMSDINESH](https://github.com/KMSDINESH)
