@@ -290,6 +290,7 @@ rodrick
 - [Matthew Stetter](https://github.com/stetterm)
 - [Sandeep Kumar](https://github.com/sandeep-sk)
 - [Dominiq Barbero](https://github.com/MrMadHatt)
+- [emilia](https://github.com/quasnip) me when i contribute to open source
 - [Praveen Gupta](https://github.com/Praveen-0k9)
 - [Trevor Tippery](https://github.com/trevortippery)
 - [th0r](https://github.com/thar1q-is) : first open source contribution yaay!! :D
