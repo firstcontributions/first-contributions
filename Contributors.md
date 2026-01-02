@@ -210,6 +210,7 @@ rodrick
 - [Amit Kumar Patra](https://github.com/amitkumarpatra99)
 - [Pranjali Dhere](https://github.com/Pranjali2005)
 - [Hyunwook Jung](https://github.com/HyunwookJ) : First Open Source contribution :)
+- [Pranav Govindaswamy](https://github.com/pranavgovi) -This is my first open source contribution. Excited to contribute more.
 - [Vivek](https://github.com/Vivek13121)
 - [Muhammad P](https://github.com/mopy7)
 - [K P](https://github.com/vishw060404)
