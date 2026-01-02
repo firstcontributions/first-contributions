@@ -159,7 +159,7 @@ rodrick
 - [Anurag Goyal](https://github.com/AnuragGoyal007):First open source contribution!
 - [Shaek](https://github.com/shaek666/first-contributions.git) : First open source contribution
 [Vyshnavi T N](https://github.com/vyshnaviTN):First Open Source Contribution.
--[Visitha Rathsara](https://github.com/vsr2414) : First open source contribution
+-[Visitha](https://github.com/vsr2414) : First open source contribution
 [Manoj Kumar C](https://github.com/ManojKumarC0112):First open source Contribution 
 - [Aditya Singh](https://github.com/adityasingh100200300-stack): First step towards open-source contributions.
 - [Sandhiya S](https://github.com/Sandhiya-Sakthivel): my first open-source contribution! Learning through different practices..
