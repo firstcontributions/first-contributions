@@ -2665,3 +2665,4 @@ Nick -[Daniel G.](https://github.com/dg189149)
 -[Rudrika Trivedi](https://github.com/rudrika778) : My first Open Source Contribution!
 -[RonyDevX](https://x.com/SDE_Rony)
 -[HaoyuPan](https://github.com/HaoyuPan) : My first Open Source Contribution!
+-[Aarya Dharmadhikari](https://github.com/aarya0044) : My first open source contribution!!
