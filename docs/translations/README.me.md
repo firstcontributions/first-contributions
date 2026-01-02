@@ -49,7 +49,7 @@ Prebacite se u radni direktorijum na vašem računaru (ukoliko već nijeste tu):
 cd first-contributions
 ```
 
-Sada kreirajte granu koristeći komadu `git checkout`:
+Sada kreirajte granu koristeći komandu `git checkout`:
 
 ```
 git checkout -b ime-vase-grane
