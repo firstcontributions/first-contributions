@@ -6,6 +6,7 @@ Sabeel Ur Rehman
 - [Azam](https://github.com/AzamCodes): Small steps, real contributions 🚀
 - [azdineh](https://github.com/azdineh) : this is my  contriubution.
 - [anis196](https://github.com/anis196) : This is my  First Open contriubution ever!
+- how are things going.....Happy New Year!
 - [Abhinav Vaidya](https://github.com/abhi9vaidya) : Happy New Year :)
 -[Nishan](https://github.com/Nishan-Narvan)
 -[Rishitha-Dama](https://github.com/RishithaDama)
