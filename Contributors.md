@@ -260,6 +260,7 @@ rodrick
 - [Sourav Mitra](https://github.com/SouravMitra98): My first Contribution
 - [Soumyadip Dutta](https://github.com/Soumyadip1004)
 - [Haste]
+- [Sara]
 - [Khamza Zhanbolat](https://github.com/KhamzaZhanbolat)
 - [Narendra Reddy](https://github.com/narenredcr)
 - [Jiaqi Fan](https://github.com/jiaqifan42)
