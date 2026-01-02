@@ -15,6 +15,7 @@
 - [Abhinav Vaidya](https://github.com/abhi9vaidya) : Happy New Year :)
 - [Suraj Raykar](https://github.com/ssuraj2504) : Happy New Year :)
 -[Nishan](https://github.com/Nishan-Narvan)
+-[Rahul](https://github.com/SilverMoon-ops)
 -[Rishitha-Dama](https://github.com/RishithaDama)
 - [KMSDINESH](https://github.com/KMSDINESH)
 - [Lahar-Solanki](https://github.com/Laharsolanki) : Excited for GSOC 2026 because it is my first time.
