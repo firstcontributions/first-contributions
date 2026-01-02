@@ -8,7 +8,7 @@
 
 _Եթե հրամանի պատուհանը (command line) ձեզ հարմար չէ, [ահա ուղեցույցներ գրաֆիկական ինտերֆեյսի (GUI) կիրառմամբ.](#Ուղեցույցներ-այլ-գործիքների-կիրառմամբ)_
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="ճյուղավորել այս պահեստը" />
 
 #### Եթե դուք չունեք git ձեր մեքենայի վրա, [տեղադրեք այն](https://help.github.com/articles/set-up-git/)
 
@@ -19,7 +19,7 @@ _Եթե հրամանի պատուհանը (command line) ձեզ հարմար չ�
 
 ## Կլոնավորեք պահոցը
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="կրկնօրինակել այս պահեստը" />
 
 Հիմա կլոնավորեք պահոցը ձեր համակարգչում: Հղումը պատճենելու համար սեղմեք `clone` կոճակը, այնուհետև `copy to clipboard` կոճակը:
 
@@ -31,7 +31,8 @@ git clone "url you just copied"
 
 Որտեղ "url you just copied"-ը (առանց չակերտների) ձեր պահոցի հղումն է (այս նախագծի ձեր ճյուղավորումը). Հետևեք քայլերին, որպեսզի ստանաք հղումը.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="cպատճենել URL-ը սեղմատախտակին
+" />
 
 Օրինակ՝
 
@@ -108,11 +109,11 @@ git push origin <add-your-name>
 
 Եթե այցելեք ձեր GitHub պահոցը, կտեսնեք `Compare & pull request` կոճակը։ Սեղմեք այդ կոճակը։
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="ստեղծել pull request" />
 
 Ապա հաստատեք pull հարցումը:
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="Ներկայացնել pull request" />
 
 Շուտով ես կմիավորեմ ձեր բոլոր փոփոխությունները այս նախագծի գլխավոր մասնաճյուղի մեջ: Փոփոխությունները միաձուլվելուց հետո դուք կստանաք ծանուցող նամակ:
 
