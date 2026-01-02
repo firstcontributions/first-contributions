@@ -9,6 +9,7 @@
 - [Azam](https://github.com/AzamCodes): Small steps, real contributions 🚀
 - [azdineh](https://github.com/azdineh) : this is my  contriubution.
 - [anis196](https://github.com/anis196) : This is my  First Open contriubution ever!
+- [Sanyam Kansal](https://github.com/sanyamkansal) : First open source contribution, I want to learn and connect!
 - [zett721](https://github.com/zett721) : Happy New Year! This is my first contrubution in 2026 actually!
 - [Abhinav Vaidya](https://github.com/abhi9vaidya) : Happy New Year :)
 -[Nishan](https://github.com/Nishan-Narvan)
