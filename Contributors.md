@@ -1,7 +1,7 @@
 
 # Contributors
--[Gayatri Shejule](https://github.com/Gayatri-Shejule)
--[Nitesh Ghimire](https://github.com/nitisbig) - hello from singulaity!!! 
+- [Gayatri Shejule](https://github.com/Gayatri-Shejule)
+- [Nitesh Ghimire](https://github.com/nitisbig) - hello from singulaity!!! 
 - [Sparsh](https://github.com/sp4rsh-s) - my first open source contribution!!!
 - [Rishita](https://github.com/Rishita-tech01) : Let's see how my first contribution going!!
 - luud5547: My new year first open source contribution .
@@ -11,8 +11,8 @@
 - [anis196](https://github.com/anis196) : This is my  First Open contriubution ever!
 - [zett721](https://github.com/zett721) : Happy New Year! This is my first contrubution in 2026 actually!
 - [Abhinav Vaidya](https://github.com/abhi9vaidya) : Happy New Year :)
--[Nishan](https://github.com/Nishan-Narvan)
--[Rishitha-Dama](https://github.com/RishithaDama)
+- [Nishan](https://github.com/Nishan-Narvan)
+- [Rishitha-Dama](https://github.com/RishithaDama)
 - [KMSDINESH](https://github.com/KMSDINESH)
 - [Lahar-Solanki](https://github.com/Laharsolanki) : Excited for GSOC 2026 because it is my first time.
 - [Akash-Praveen](https://github.com/GPAPD):  Happy new year, 2026!
