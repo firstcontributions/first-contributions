@@ -8,6 +8,7 @@ Sabeel Ur Rehman
 - [Abhinav Vaidya](https://github.com/abhi9vaidya) : Happy New Year :)
 -[Nishan](https://github.com/Nishan-Narvan)
 -[Rishitha-Dama](https://github.com/RishithaDama)
+- [KMSDINESH](https://github.com/KMSDINESH)
 - [Lahar-Solanki](https://github.com/Laharsolanki) : Excited for GSOC 2026 because it is my first time.
 - [Akash-Praveen](https://github.com/GPAPD):  Happy new year, 2026!
 - [Swanand Siknis](https://github.com/swanand70): 21:09, 30-12-25, Happy new year, 2026!
