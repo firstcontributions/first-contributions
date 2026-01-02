@@ -34,6 +34,7 @@
 - [Janmejay Shibaprasad Mahanta](https://github.com/janmejay1438): Greetings fellow Senior Coders!!
 - [Hex] (https://github.com/hex-7546): Trying out stuff :)
 - [Aditya Sharma](https://github.com/ADIIgits): Hey, my first contribution !.
+- [Chaitanya Dasari] (https://github.com/chaitanyakumar-d)
 -  [bsjtb](https://github.com/2879824237): hello world !
 - [Jessica Horn](https://github.com/jessphorn): contribution
 -  [Sahil verma](https://github.com/Sahilvee): hey !
