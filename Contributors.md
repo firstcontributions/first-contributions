@@ -1,6 +1,7 @@
-Sabeel Ur Rehman
+
 # Contributors
 -[Gayatri Shejule](https://github.com/Gayatri-Shejule)
+- [Sparsh](https://github.com/sp4rsh-s) - my first open source contribution!!!
 - [Rishita](https://github.com/Rishita-tech01) : Let's see how my first contribution going!!
 - luud5547: My new year first open source contribution .
 - [Amit Kr Mahato](https://github.com/Amit-Mahato-0001) : First open source contribution :>
