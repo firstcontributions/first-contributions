@@ -10,7 +10,7 @@ Jika anda ingin membuat sumbangan pertama anda, sila ikuti arahan yang disediaka
 
 #### *Sekiranya anda tidak selesa dengan menggunakan antara muka baris perintah (CLI), anda boleh mengikuti [panduan untuk menggunakan alat GUI di sini.](#Tutorial-Menggunakan-Alat-Lain)*
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="Fork repositori ini" />
 
 Jika git belum dipasang di mesin anda, sila memasangnya [di sini](https://help.github.com/articles/set-up-git/).
 
@@ -21,7 +21,7 @@ Tindakan tersebut akan menghasilkan salinan repositori ini ke dalam akaun GitHub
 
 ## Klon repositori ini
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="Klon repositori ini" />
 
 Klon repositori yang anda telah fork ke mesin anda. Selepas itu, layari akaun GitHub anda, buka repositori yang baru dicabang, klik butang Clone, dan kemudian klik ikon *Copy url to clipboard*.
 
@@ -32,7 +32,7 @@ git clone "URL anda baru disalin"
 ```
 di mana "URL anda baru disalin" (tanpa tanda petikan) adalah URL ke repositori ini (fork anda bagi projek ini). Rujuk langkah-langkah sebelumnya untuk mendapatkan URL tersebut.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="Salin URL ke papan keratan" />
 
 Contoh:
 ```bash
@@ -90,11 +90,11 @@ menggantikan `<add-your-name>` dengan nama branch yang kamu cipta sebelumnya.
 
 Jika anda pergi ke repositori anda di GitHub, anda akan melihat butang `Compare & pull request`. Klik butang tersebut.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="Cipta pull request" />
 
 Hantar 'pull request' tersebut.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="Hantar pull request" />
 
 Tidak lama lagi, saya akan menggabungkan semua perubahan anda ke dalam branch 'main' projek ini. Anda akan menerima e-mel pemberitahuan sebaik sahaja perubahan telah digabungkan.
 
