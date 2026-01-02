@@ -49,6 +49,7 @@ rodrick
 -[Mahammed Zubair](https://github.com/MahammedZubair08):My first contribution
 - [Nishant Patil](https://github.com/nishantverse): I'm gonna be the king of pirates !!
 - [Bhargav Thota](https://github.com/bhargavsai007): Hello Open-source community 👋🏻
+- [Sujatha G D](https://github.com/Sujatha03092004): Hello! Will start working on open source contributions
 - [Sarthak Veer](https://github.com/Sarthakveer11): Exploring Open-Source
 - [Chaitanya Mishra](https://github.com/chaitanya-mishra-ai): Contributing to open source, one PR at a time! 🚀
 -[Atharva Thakre](https://github.com/AtharvaThakre):My first open source contribution, definitely just the beginning of a great Adventure.
