@@ -125,6 +125,8 @@ For example:
 ```bash
 git clone git@github.com:this-is-you/first-contributions.git
 ```
+- Sahil Dhamal
+
 
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
 
