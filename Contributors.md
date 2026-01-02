@@ -85,7 +85,7 @@ rodrick
 - [Rahul-singh](https://github.com/Singh0622)
 - [Siddhesh-Gite] (https://github.com/Siddhesh200419)
 - Alex
-
+ Sohail Shaikh
 - Seshadri Naidu
 - wtempero
 - TimoTHa
