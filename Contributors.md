@@ -17,6 +17,7 @@ Sabeel Ur Rehman
 - [Paul Liu](https://github.com/Paul-111129): My first contribution!
 - [Ritesh Gite](https://github.com/RiteshGite): Hello by Ritsh
 - [Janmejay Shibaprasad Mahanta](https://github.com/janmejay1438): Greetings fellow Senior Coders!!
+- [Hex] (https://github.com/hex-7546): Trying out stuff :)
 - [Aditya Sharma](https://github.com/ADIIgits): Hey, my first contribution !.
 -  [bsjtb](https://github.com/2879824237): hello world !
 - [Jessica Horn](https://github.com/jessphorn): contribution
