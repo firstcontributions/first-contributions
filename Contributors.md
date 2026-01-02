@@ -39,7 +39,8 @@
 - [Ananya Singh](https://github.com/AS-pngg): First Contribution
 - [Bishal](https://github.com/11deybishal-commits)
 - [Lakshita Bisht](https://github.com/LakshitaBisht11):
-- [吴博](https://github.com/JasonWuInBJ): 一起搞AI 
+- [Ibadatt Singh Aulakh](https://ibadatt-2k.github.io/portfolio/) Keep winning chat!!:
+- [吴博](https://github.com/JasonWuInBJ): 一起搞AI
 - [BOUKEF Mohamed Lamine](https://github.com/Boukef): If you’re reading this, you matter. Have a great day!
 rodrick
 - [Yug Patel](https://github.com/yugp31) Hello world!
@@ -67,7 +68,7 @@ rodrick
 - [Filip Masiar](https://github.com/fifo1318): First contribution lets goo!
 - [Sujan Singh Meena](https://github.com/sujan2000):My first open source contribution, definitely just the beginning of a great Adventure.
 - [Waseem Mushtaq](https://github.com/waseem1302-x): My first open source contribution, looking forward to contribute more!
-- [Rakshitha_kengannar](https://github.com/Rakshithank129): Hey! Welcome to me to the open source contribution community😊. lets contribute and build something new in coming days...!  
+- [Rakshitha_kengannar](https://github.com/Rakshithank129): Hey! Welcome to me to the open source contribution community😊. lets contribute and build something new in coming days...!
 - [Paul Stefano Fetalvero](https://https://github.com/Fatalversion):- First step into open source, looking forward to contributing more.
 - [Durgesh Gorana](https://github.com/07Durgesh):- My first open source contribution, looking forward to contribute more!
 - [Yassin Abdelghany](https://github.com/yss1n-0): This is just the beginning! 🐣
@@ -2499,7 +2500,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Shaishab Chandra Shil](https://github.com/shaishab316)
   [Muhammed Favas](https://github.com/favas0786)
 - [Abhishek Poovaiah M ](https://github.com/abhi11322)
-  
+
 - [Chitla Jashwanth](https://github.com/jashwanth1128)
 - [Anand Raj](https://github.com/anandraj095)
 - [Shiv Sachan](https://github.com/Shivopp)
