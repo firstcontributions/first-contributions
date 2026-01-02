@@ -2657,3 +2657,4 @@ Nick -[Daniel G.](https://github.com/dg189149)
 -[Aarya Harne](https://github.com/AaryaHarne) 
 - [Teja](https://github.com/saitejx)
 - [Rickyxrc] : Hello github! Love u all!
+-[Rudrika Trivedi](https://github.com/rudrika778) : My first Open Source Contribution!
