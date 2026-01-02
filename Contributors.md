@@ -2664,6 +2664,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Takuro](https://github.com/takuro3000): My First contribution on open source
 - [Abhishek Panwar](https://github.com/abhishek4050): My First open source contribution
 - [Srivalli Renduchintala](https://github.com/srihul) 
+- [Anushka157-cha](https://github.com/Anushka157-cha):My First Contribution on Github
 
 - [Hani Gupta](https://github.com/haniigupta) : First open source contribution
 - [Venu Gopal](https://github.com/VenuGopalboggala):  First Open Source Contribution 2026
