@@ -1,6 +1,6 @@
 # Contributors
 - [Aveta Shreya](https://github.com/AvetaSreya)
-
+- [Divi Pothukuchi](https://github.com/peedeevee-tech)
 -[zerokali20](https://github.com/zerokali20) - Hi guys welcome to new year  !!!
 -[Ayush Raj](https://github.com/Ayushrajthegreat) -happy new year guys and let's learn open source deeply ....
 -[hu-119](https://github.com/hu119-web)
