@@ -2727,3 +2727,5 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Swati Kumari](https://github.com/Swati89923)
 - [Priya Gupta](https://github.com/prgupta1609)
 - [ipshita6-hub](https://github.com/ipshita6-hub): My first open source contribution! 🚀
+- [Sneha Shekoba](https://github.com/snehashekoba24): My first open source contribution!
+
