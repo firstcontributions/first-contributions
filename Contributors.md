@@ -1298,6 +1298,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Jo Ensal](https://github.com/Yzquile)
 - [Shahan](https://github.com/shahan360)
 - [Eduardo](https://github.com/Edd17369)
+- [Lucky]
 - [Larson](https://github.com/lixianphy)
 - [Nayan](https://github.com/NayanUnni95)
 - [RunByKim](https://github.com/runbykim)
