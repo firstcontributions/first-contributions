@@ -2723,3 +2723,4 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [juneliasamaddar](https://github.com/juneliasamaddar):i am so ecited this my first open source project to working
 - [Swati Kumari](https://github.com/Swati89923)
 - [Priya Gupta](https://github.com/prgupta1609)
+- [ipshita6-hub](https://github.com/ipshita6-hub): My first open source contribution! 🚀
