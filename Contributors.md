@@ -97,6 +97,7 @@ rodrick
 - Seshadri Naidu
 - wtempero
 - TimoTHa
+- BenC
 - Brian Kihara : More open Source
 -[Adem Tech](https://github.com/Adem-07): my first Contribution in 2026
 - [Pranav](https://github.com/Pranav8307): First Open Source Contribution
