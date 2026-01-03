@@ -254,7 +254,7 @@ rodrick
 - [Abhilash Reddy](https://github.com/AbhilashReddy1519)
 - [Darren Fong] (https://github.com/Darren-Fong)
 - [Deepak Kumar Kashyap](https://github.com/Deepak-kumar-kashyap)
-
+- [Rohan Chouhan] (https://github.com/rohan003official-wq) First time contributing after a hassel 
 - [Muzzammil H](https://github.com/MUZZAMMIL111)
 - [Anushree](https://github.com/Anushree)
 - [Danish Ahmed](https://github.com/daanish02)
