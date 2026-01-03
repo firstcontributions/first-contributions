@@ -4,138 +4,152 @@
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
-# Awel Moucharaka
+# أول مساهمة
 
-Fo9ma katbghi tbda chi 7aja jdida katkoun m39da flewl. Dik lkhouf anak tghlet ki3ssbek,5ossosan fach katkoun 5dam m3a nass o5rin. Walakin lblan dl open source w anak t5dm m3a nass f fra9i . Bghina , nsshlou 3likoum bach t3lmou tcharkou fchi projet open source b7al hada l awel mra .   
+ملي كتكون باغي تبدا شي حاجة جديدة، مرات كيبان كلشي معقد فالأول. داك الخوف ديال لا تغلط كيقدر يضغط عليك، خصوصاً إلا كنتي خدام مع ناس آخرين. ولكن الفكرة ديال الأوبن سورس هي أنك كتخدم مع الناس فواحد الفريق. وحنا بغينا نسهلوها عليكم باش تتعلمو كيفاش تساهمو فشي مشروع ديال الأوبن سورس بحال هادا لأول مرة.
 
-Rah blan tb9a t9ra kifach dir wla tchouf des tutoriels , walakin wach machi 7ssen nwriwk ki der bla matghlet ? Had lprojet l hadaf dyalou howa y3tek nassa2i7 w 5lik 3a9l : koulma knti mheden , ghat3lem 7ssen. Ila knti 3wal der awel i3ana , tbe3 had l5otowat w ra atsde9lk . Kanwa3dk , ghay3jbek l7al.
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="connecter had repo" />
+راه بطبيعة الحال تقدر تبقى تقرا كيفاش تدير ولا تشوف طوطوريالات، ولكن واش ماشي حسن نوريك كيفاش تدير بلا ما تغلط؟ هاد البروجي الهدف ديالو هو يعطيك نصائح ويخليك عاقل: كلما كنت مهدّن، غتتعلم حسن. إلا كنتي عوال تدير أول مساهمة، تبع هاد الخطوات وراه غاتصدق لك. كنواعدك، غايعجبك الحال.
 
-Ila makanch 3ndk git f pc dyalk, [ Telechargeh ]( https://help.github.com/articles/set-up-git/ )mn had site.
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="اربط هاد الريپو" />
 
-## Jbed had repo l3endek (kismiwha hna Fork)
+إلا ماكانش عندك **Git** فالحاسوب ديالك، [حمّلو](https://help.github.com/articles/set-up-git/) من هاد الموقع.
 
-Brek 3la dik FORK kima kaybanlk f tswira bach twli 3ndek b7al version dyal repo f compte dyalk .
+## جبّد هاد الريپو لعندك (كتسمّيوها هنا Fork)
 
-## Telecharger 3ndk repo (Kismiwha clone )
+برّك على داك الزر ديال **FORK** كيفما كيبان ليك فالصّورة باش تولّي عندك واحد النسخة بحال ديال الريپو فالكومب ديالك.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="Clone d repo" />
+## تيليشارجي الريپو عندك (كيسمّيوها clone)
 
-Daba ,cloner repo dyalk l pc 3ndk. Brek 3la bottona d Clone w copier dik lien (HTTPS houwa sahel) ra kayna bottona 7da lien katcopiehlk nichan .
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="كلون ديال الريپو" />
 
-7el daba cmd (ila knti f windows) wla terminal (ila kan 3ndk mac wla 5dam b linux) w copier had les commandes li ghanwrik :
+دابا، دير كلون للريپو ديالك فالحاسوب ديالك. برّك على زر Clone و نسخ داك اللينك (HTTPS هو الساهل). راه كاين حتى زر حدّا اللينك كينسخو ليك مباشرة.
+
+حل دابا الـcmd إلا كنت فـWindows، ولا الـterminal إلا كنت فـMac ولا خدام بـLinux، ونسخ هاد الأوامر اللي غنوريك:
 
 ```bash
 git clone "dik lien li 3ad copieti"
 ```
-3andak t5liha hakak hhh "dik lien li 3ad copieti" (bla douk "") kteb tma lien li copieti fhemni . 
+خاصك تخليها هكاك ههه داك اللينك اللي عاد كوپيتي بلا دوك علامات الاقتباس، كتب تماك داك اللينك اللي كوپيتي، فهمتيني؟
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copier l'URL dans le presse-papier" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="نسخ الـيو آر إل فالكليپبورْد" />
 
-Atkoun b7al had chkel :
+غتكون بحال هاد الشكل:
 ```bash
 git clone https://github.com/smytk_dyal_github/first-contributions.git
 ```
-rah `smytk_dyal_github`  hia smya li nta dayr. 
-Daba nta fhad l5twa ghatelecharger ga3 had repo 3ndk f pc bach tbda tbeddel fiha. 
+راه `smytk_dyal_github` هي السمية اللي نتا داير فـGitHub.
+دابا نتا فهاد الخطوة غاتTélécharger كامل هاد الريپو عندك فالحاسوب باش تبدا تبدّل فيها.
 
-## Swb branche jdida dyalk
+## صوّب البرانش الجديدة ديالك
 
-Daba f cmd nit wla terminal , d5l l dik lmilf li 3ad telechargeti (kteb had l3iba la ma3rftich d5l manuellement ) :
+دابا فـ cmd ولا فالترمينال، دخل لداك الملف اللي عاد تيليشارجيتي (كتب هاد الأمر إلا ماعرفتيش تدخل ليه يدويًا):
+
+## صوّب البرانش الجديدة ديالك
 
 ```bash
 cd first-contributions
 ```
-Daba ha kifach ghatswb branch dyalk `git checkout` :
+دابا هاه كيفاش غاتصوّب البرانش ديالك باستعمال `git checkout`:
 ```bash
 git checkout -b "smya_dlbranch"
 ```
 
-Par exemple :
+مثلاً:
 ```bash
 git checkout -b add-brahim
 ```
-(Machi darori tder f smya add , walakin gha bach nfhmo 3lach zdtiha)
+ماشي ضروري تدير فالسميّة *add*، غير باش نفهمو علاش زدّيتيها.
 
-## Bdl fl file d Contributors
+## بدّل فالملف ديال Contributors
 
-Daba d5el l fichier dyal `Contributors.md` fchi editeur , zid smytk w chi lien ila bghiti (3andak der chi7aja 5ayba). Ila ktbti daba f dik cmd/terminal `git status`, aybanulk l3ibat li bdlti. Daba zidhoum l branch dyalk add-brahim bhad l3iba dyal `git add` :
+دابا دخل لملف `Contributors.md` بشي إيديتور، وزيد السمية ديالك وشي لينك إلا بغيتي (راك تقدر تدير أي حاجة بلاش تخاف).
+إلا كتبتي دابا فداك الـ cmd/terminal هادشي: `git status` غايبانولك الحوايج اللي بدّلتي.
+دابا زيدهم فالـبرانش ديالك **add-brahim** بهاد الأمر ديال `git add`:
 ```bash
 git add Contributors.md
 ```
 
-Sauvegardeha b `git commit`:
+وسايفطه بالتسجيل باستعمال `git commit`:
 ```bash
 git commit -m "Add <smytk> to Contributors list"
 ```
-der fblasst `<smytk>` smytk dbss7 (brahim matalan).
 
-## PUSHIIII
+ودر فبلاصة `<smytk>` السمية ديالك بصح (مثلاً: brahim).
 
-Daba ghatpushi had lmodofication li derti l github b  `git push` :
+## بوشي
+
+دابا غاتبوشي هاد التعديلات اللي درتي لْگيتهاب بـ `git push`:
 ```bash
 git push origin <smya_dlbranch>
 ```
-ana knt mssmiha add-brahim , nta bdlha bachma knti dayr .
 
-## 7et les modifications bach ytchafo
+أنا كنت مسمّيها add-brahim، نتا بدّلها حسب السمية اللي داير.
 
-Ila rj3ti l github atl9a dik l3iba dyal `Compare & pull request`
-brek 3liha a5ay.
+## حطّ التعديلات باش يتشافو
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+إلا رجعتي لْگيتهاب غاتلقى داك الزر ديال `Compare & pull request`، برّك عليه أخاي.
 
-Sf brek 3liha bach tle3 lnass li mss2oulin 3la hadchi.
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="دير بول ريكويست" />
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+غير برّك عليها باش توصل للناس المسؤولين على هاد الشي.
 
-Chwia mbe3d matjm3 dik lmodifications li derti . Aywslk mail ki9ololk fih ra safi dkchi dyalk nadi.
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="قدّم بول ريكويست" />
 
-branche main dyalk maghaytbdel fiha walou daba . Ila bghiti ta main dyalk ykoun msynchroniser tbe3 had les étapes.
+شوية من بعد ما يتجمعو داك التعديلات اللي درتي، غايصلك إيميل كيقولك باللي راه كلشي ديالك ناضي.
 
-## 5li main dyalk synchronisé m3a contributors
+البرانش ديال main عندك ما غايتبدّل فيها والو دابا. إلا بغيتي حتى الـmain ديالك يكون متزامن، تبع هاد الخطوات.
 
-B3da rje3 lmain matb9ach fdik add-brahim 
- ```bash
- git checkout main
- ```
+## خَلّي الـmain ديالك متزامن مع contributors
 
-zid lien d repo as `upstream remote url` :
+أول حاجة رجع لِـmain وما تبقاش فـ add-brahim:
+
+```bash
+git checkout main
+```
+
+زيد لينك ديال الريپو كـ `upstream remote url`:
 ```bash
 git remote add upstream https://github.com/smytk_d_github/first-contributions
 ```
-Ghi dik changes ydaro , 5ssk moraha tjbd version jdida dyal repo dyalk:
+
+باش يْدارو غير داك التغييرات، خاصك من بعد تجبد آخر نسخة من الريپو:
 ```bash
 git fetch upstream
 ```
 
-Hna kan9lbo 3la ga3 tghyirat li kaynin f lfork dyalk nta (upstream remote). Daba 3ad 5ssk tjm3 had jdida m3a repo dyalk (main) :
+هنا كنقلّبو على جميع التغييرات اللي كاينين فالفورك ديالهم (upstream).
+دابا خاصك تجمع هاد التغييرات الجداد مع الريپو ديالك (main):
 ```bash
 git rebase upstream/main
 ```
-Daba ga3 tghyirat kaynin fl main. ila pushiti modifications aydaro ta f fork dyalk :
+
+ودابا راه جميع التغييرات ولاو فـmain ديالك. إلا بوشيتيهم غايدخلو حتى فالفورك ديالك:
 ```bash
 git push origin main
 ```
 
-Daba ra jm3na branch dyal `<add-brahim>` m3a l main dyalna , w jm3na lmain dyalna m3a main dyalhom (yarbi tkoun fhmtini hh).Daba dik li drti flwl dyal `<add-votre-nom>` mab9atch 3ndha fa2ida , ila bghiti t7ydha :
+ودابا راه جمعنا البرانش ديال `<add-brahim>` مع الـmain ديالنا، وجمعنا حتى الـmain ديالنا مع الـmain ديالهم (ياربي تكون فهمتيني ههه).
+ودابا داك الشي اللي درتي فالأول فـ `<add-votre-nom>` مبقاتش عندها الفايدة. إلا بغيتي تحيدها:
 ```bash
 git branch -d <add-brahim>
 ```
-w ymklk t7yda ta mn repo li b3ida :
+
+وحتى من الفورك اللي فالگيتهاب تقدر تحيدها:
 ```bash
 git push origin --delete <add-votre-nom>
 ```
-Machi darori t7yd lbranch walakin raha salat 5smtha ma3ndha lach tb9a tma .
 
-## Tutoriels bchi twichyat o5rin 
+ماشي ضروري تحيد البرانش، ولكن راه سالات الخدمة ديالها وما بقاتش محتاجة تبقى تما.
+
+## طوطوريالات مع شوية نصائح خرين
 
 
-| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
+| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="گيتهاب ديسكتوب" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="فيجوال ستوديو 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="گيت كراكن" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="في إس كود" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="تطبيق سورس تري" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="إنتيليجاي آيديا" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | --- | --- | --- | --- | --- | --- |
 | [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md) | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md) | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md) | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md) | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md) | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md) |
 
-## Fin nmchi daba ?
+## فين نمشي دابا؟
 
-Ymklkoum tjiw l slack fin kayna lfr9a d hadchi kaml , n9do n3awnokom w njawbo 3la chi ass2ila    [Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
+يمكن ليكم تجيو لـSlack فين كاينة الفرقة ديال هاد الشي كامل، ونقدرو نعاونكم ونجاوبو على أي أسئلة.
+[Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 
