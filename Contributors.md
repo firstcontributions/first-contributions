@@ -2706,6 +2706,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Viswa Nikhitha](https://github.com/ViswaNikhitha)
 - Vinod Perera 
 - unique
+- [Vishakha](https://github.com/Vishakha61)
 -[Abhinav bhardwaj](https://github.com/Abhinav145)
 -[Aarya Harne](https://github.com/AaryaHarne) 
 - [Teja](https://github.com/saitejx)
@@ -2729,3 +2730,4 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Frank xoxo](https://github.com/xoxonut): Hello guys!
 - [ipshita6-hub](https://github.com/ipshita6-hub): My first open source contribution! 🚀
 - [Aditya](https://github.com/AdityaKarippadathUdai/first-contributions): First open source edi
+-[Jeremiah_yangal](https://www.youtube.com/watch?v=2do4WZ0e8UU&t=3031s):using this video i lerned about contribution
