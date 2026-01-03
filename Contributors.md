@@ -2728,3 +2728,4 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Priya Gupta](https://github.com/prgupta1609)
 - [Frank xoxo](https://github.com/xoxonut): Hello guys!
 - [ipshita6-hub](https://github.com/ipshita6-hub): My first open source contribution! 🚀
+- [Aditya](https://github.com/AdityaKarippadathUdai/first-contributions): First open source edi
