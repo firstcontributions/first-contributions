@@ -603,6 +603,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Oolazile] (https://github.com/Oolazile)
 - Rishabdev Panchal (https://github.com/rdp2x)
 - [Hamza Naseem] (https://github.com/HamzaNasiem)
+- [Atharva Gupta](https://github.com/Its-Atharva-Gupta) - Happy New Year!
 - [Varshini](https://github.com/Varshini131)
 - [Uros Velickovic](https://github.com/UrosVel97)
 - [Divyom Srivastava](https://github.com/DivyomSrivastava)
