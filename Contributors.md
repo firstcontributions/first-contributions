@@ -2724,6 +2724,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Ayoob_Rasheed](https://github.com/Mr-Ayoob-Rasheed): Another noob programmer, trying to do his best i guess.
 - [Alaa-Eltaib](https://github.com/Alaa-Eltaib): My first open source contribution.
 - [juneliasamaddar](https://github.com/juneliasamaddar):i am so ecited this my first open source project to working
-- [Swati Kumari](https://github.com/Swati89923)
+- [Swati Kumari](https://github.com/Swati89923) 
 - [Priya Gupta](https://github.com/prgupta1609)
+- [Frank xoxo](https://github.com/xoxonut): Hello guys!
 - [ipshita6-hub](https://github.com/ipshita6-hub): My first open source contribution! 🚀
