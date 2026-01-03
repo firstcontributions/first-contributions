@@ -8,6 +8,7 @@
 -[Gayatri Shejule](https://github.com/Gayatri-Shejule)
 -[praband kumar](https://github.com/prabandkumar)
 -[Nitesh Ghimire](https://github.com/nitisbig) - hello from singulaity!!! 
+- [Navaneeth Krishnan S](https://github.com/JustAnOrangeCat) - To anybody reading - hope you have an amazing time contributing to opensource projects!!
 - [Sparsh](https://github.com/sp4rsh-s) - my first open source contribution!!!
 - [Rishita](https://github.com/Rishita-tech01) : Let's see how my first contribution going!!
 - [Rajesh phulwaria](https://github.com/RajeshPhulwaria006/) : Here's my first contribution to the journey of my open source.
