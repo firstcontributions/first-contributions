@@ -56,6 +56,7 @@
 rodrick
 - [Yug Patel](https://github.com/yugp31) Hello world!
 - [Aashik thakur](https://github.com/CodeByAashik):  Hello world, my first open-source contribution
+- [Maryam](https://github.com/maryamscoding): Hello! Starting 2026 with my first contribution!!
 - [Mohammed Anas](https://github.com/Anas-Blue): Finally!!
 - [Azarudeen](https://github.com/Azarabdullah): Done is better than perfect.
 - [Waleed Ahmed] (https://github.com/Waleed-Web-Dev): My Brother name is Anas too!
