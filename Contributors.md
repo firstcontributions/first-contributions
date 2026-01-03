@@ -2030,3 +2030,4 @@ sujoy
 - [Ayotunde Pedro](https://github.com/ayopedro)
 - [Rohini Manjappa] (https://github.com/hdsdgqz56g-bit)
 - [Mario Sanchez](https://github.com/mcn22)
+- [Jose Rios](https://github.com/josel006)
