@@ -221,6 +221,7 @@ rodrick
 - [Suraj Kumar Singh Tamni san](https://github.com/sono-mono)
 - [Filippo Brunneleschi](https://github.com/Filippo-Brunnelleschi) : First commit on a open Source project
 - [Deepika T](https://github.com/thotaDeepika)
+- [JeNilSE](https://github.com/JeNilSE) : Happy new year!
 - [xiaoyang](https://github.com/xiaoyang5116) : 混入其中
 - [Prashant Singh](https://github.com/prashantsingh1122)
 - [BVSK](https://github.com/bvsk369)
