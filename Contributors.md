@@ -176,6 +176,7 @@ rodrick
 - [Aditya Sasidhar] (https://github.com/adityasasidhar) : First open source contribution, making sure it won't be my last
 - [Amey Sawant] (https://github.com/ameys2907) : First open source contribution!
 - [Tripurari Pratap] (https://github.com/pratap-t) : First open source contribution
+- Marzia_Saidi
 - [Anshul Aryan](https://github.com/0x-anshu1) : First open source contribution
 - [Khushi Choudhary](https://github.com/Khushichoudhary29) : First open source contribution
 - [Ranjith](https://github.com/ranjith-first-contribution) : First open source contribution
