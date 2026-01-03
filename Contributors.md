@@ -1,4 +1,9 @@
 # Contributors
+
+
+
+
+-[Atharva Gupta](https://github.com/Its-Atharva-Gupta) - Happy New Year!
 - [Aveta Shreya](https://github.com/AvetaSreya)
 
 -[zerokali20](https://github.com/zerokali20) - Hi guys welcome to new year  !!!
