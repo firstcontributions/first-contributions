@@ -1,10 +1,13 @@
+
 # Contributors
+
 - [ChrisGS](https://github.com/DigitalFunStudios)
 - [Aveta Shreya](https://github.com/AvetaSreya)
 - [Muhammad Zeeshan](https://github.com/ZeeshanUop) Hi Good Evening
 
+-[sourabh-singh](https://github.com/sourabhsingh2000) -hello this is my first open source contribution
 -[zerokali20](https://github.com/zerokali20) - Hi guys welcome to new year  !!!
--[Ayush Raj](https://github.com/Ayushrajthegreat) -happy new year guys and let's learn open source deeply ....
+-[Somesh Padsalge](https://github.com/Somesh04-tech) - learning open source contributions!!!
 -[hu-119](https://github.com/hu119-web)
 - [Praveer Ranjan Singh](https://github.com/PRAVEERRANJANSINGH)
 -[Gayatri Shejule](https://github.com/Gayatri-Shejule)
@@ -52,6 +55,7 @@
 - [Bhavya Joiya](https://github.com/Bhavya-Joiya): Just starting out my Open-source Contribution Journey!!!
 - [Subhash Gupta](https://github.com/codesubhash234) : Starting journey with first contribution
 - [Ananya Singh](https://github.com/AS-pngg): First Contribution
+- [Basil Peter](https://github.com/basilpeter01): Hi! This is my first contribution!
 - [Bishal](https://github.com/11deybishal-commits)
 - [Lakshita Bisht](https://github.com/LakshitaBisht11):
 - [Ibadatt Singh Aulakh](https://ibadatt-2k.github.io/portfolio/) Keep winning chat!!:
@@ -174,6 +178,7 @@ rodrick
 - [Aditya Sasidhar] (https://github.com/adityasasidhar) : First open source contribution, making sure it won't be my last
 - [Amey Sawant] (https://github.com/ameys2907) : First open source contribution!
 - [Tripurari Pratap] (https://github.com/pratap-t) : First open source contribution
+- Marzia_Saidi
 - [Anshul Aryan](https://github.com/0x-anshu1) : First open source contribution
 - [Khushi Choudhary](https://github.com/Khushichoudhary29) : First open source contribution
 - [Ranjith](https://github.com/ranjith-first-contribution) : First open source contribution
@@ -249,7 +254,7 @@ rodrick
 - [Abhilash Reddy](https://github.com/AbhilashReddy1519)
 - [Darren Fong] (https://github.com/Darren-Fong)
 - [Deepak Kumar Kashyap](https://github.com/Deepak-kumar-kashyap)
-
+- [Rohan Chouhan] (https://github.com/rohan003official-wq) First time contributing after a hassel 
 - [Muzzammil H](https://github.com/MUZZAMMIL111)
 - [Anushree](https://github.com/Anushree)
 - [Danish Ahmed](https://github.com/daanish02)
