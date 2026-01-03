@@ -227,6 +227,37 @@ Now submit the pull request.
 
 Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
 
+## How to Write a Good Commit Message
+
+A good commit message helps maintainers understand your changes quickly and improves collaboration. Follow these tips:
+
+1. **Keep it short and clear**  
+   - Summary should be **50 characters or less**.  
+   - Example:  
+     ```
+     docs: clarify beginner steps in README
+     ```
+
+2. **Use present tense**  
+   - Correct: `fix typo in installation guide`  
+   - Avoid: `fixed typo` or `fixing typo`
+
+3. **Explain the “why” if necessary**  
+   - Include a brief reason for your change when it’s not obvious.  
+   - Example:  
+     ```
+     docs: add note for beginners about fork vs branch
+     ```
+
+4. **Be consistent and readable**  
+   - Avoid unnecessary punctuation or emojis.  
+   - Make it easy for others to understand at a glance.
+
+5. **Optional body for details**  
+   - If needed, add more explanation in a separate paragraph below the summary.
+
+> 💡 Pro Tip: Following these guidelines makes your commits clear and helps your contributions get accepted faster!
+
 ## Where to go from here?
 
 Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll often encounter as a contributor!
