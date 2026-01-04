@@ -4,6 +4,7 @@
 - [ChrisGS](https://github.com/DigitalFunStudios)
 - [Aveta Shreya](https://github.com/AvetaSreya)
 - [Muhammad Zeeshan](https://github.com/ZeeshanUop) Hi Good Evening
+- [Mahdi Jafari](https://github.com/daykal)
 
 -[sourabh-singh](https://github.com/sourabhsingh2000) -hello this is my first open source contribution
 [Ritika Raj](https://github.com/ritika943)
