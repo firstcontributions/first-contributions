@@ -99,6 +99,7 @@ rodrick
 - [Rakshitha_kengannar](https://github.com/Rakshithank129): Hey! Welcome to me to the open source contribution community😊. lets contribute and build something new in coming days...!
 - [Paul Stefano Fetalvero](https://https://github.com/Fatalversion):- First step into open source, looking forward to contributing more.
 - [Durgesh Gorana](https://github.com/07Durgesh):- My first open source contribution, looking forward to contribute more!
+- [Anurag Chandra](https://github.com/anuragchandr):- I had a experiance of open source through GSSoC, now i want to restart it in open world.Greeting everyone.🥰
 - [Yassin Abdelghany](https://github.com/yss1n-0): This is just the beginning! 🐣
 - [Mohit Chhaparwal](https://github.com/mohitchhaparwal):- Learn to contribute, contribute to learn!
 - [Kaushalya](https://github.com/kaushalya-f10):first open-source contribution 🚀
