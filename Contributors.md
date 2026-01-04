@@ -6,6 +6,7 @@
 - [Muhammad Zeeshan](https://github.com/ZeeshanUop) Hi Good Evening
 
 -[sourabh-singh](https://github.com/sourabhsingh2000) -hello this is my first open source contribution
+[Ritika Raj](https://github.com/ritika943)
 -[zerokali20](https://github.com/zerokali20) - Hi guys welcome to new year  !!!
 -[Somesh Padsalge](https://github.com/Somesh04-tech) - learning open source contributions!!!
 -[hu-119](https://github.com/hu119-web)
@@ -108,6 +109,7 @@ rodrick
 - [Krishna-Raj](https://github.com/krishna-stone)
 - [Rahul-singh](https://github.com/Singh0622)
 - [Siddhesh-Gite] (https://github.com/Siddhesh200419)
+- [Elango Manikandan] (https://github.com/elangomanikandan)
 - Alex
  Sohail Shaikh
 - Seshadri Naidu
@@ -735,6 +737,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Matt]
 - -[Ritvvvik](https://github.com/Ritvvvik)
 - [vatsal](https://github.com/Vatsal11011)
+- [Jackson]
 - [Ben Huotari](https://github.com/benhuotari)
 - [Keanu Decleene](https://github.com/KeanuDecleene)
 - [Vishakha Singh](https://github.com/Vishakha7-Kumari)
@@ -2745,3 +2748,4 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Srijan Pusp](https://github.com/SrijanPusp): One resource I found really helpful for a beginner like me was [this video](https://www.youtube.com/watch?v=2do4WZ0e8UU&t=3031s) — and here my journey begins.
 - [Shivakumar](https://github.com/Shivakumarp049) my first open source contribution.
 
+- [sung hyun](https://github.com/RAseng77/first-contributions): First Practice.
