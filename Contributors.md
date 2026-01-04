@@ -6,6 +6,7 @@
 - [Muhammad Zeeshan](https://github.com/ZeeshanUop) Hi Good Evening
 
 -[sourabh-singh](https://github.com/sourabhsingh2000) -hello this is my first open source contribution
+[Ritika Raj](https://github.com/ritika943)
 -[zerokali20](https://github.com/zerokali20) - Hi guys welcome to new year  !!!
 -[Somesh Padsalge](https://github.com/Somesh04-tech) - learning open source contributions!!!
 -[hu-119](https://github.com/hu119-web)
