@@ -38,6 +38,7 @@
 - [Lahar-Solanki](https://github.com/Laharsolanki) : Excited for GSOC 2026 because it is my first time.
 - [Akash-Praveen](https://github.com/GPAPD):  Happy new year, 2026!
 - [Swanand Siknis](https://github.com/swanand70): 21:09, 30-12-25, Happy new year, 2026!
+- [Gourav Gusain](https://github.com/cn-gourav): 21:09, 30-12-25, Happy new year, 2026!
 - [Kopal Jain](https://github.com/elif0luna): This one's for trying out loud!
 - [chandan singh](https://github.com/chandan-singh): my first contribution 👾
 - [Saburi Nikam](https://github.com/saburi004): My first Contribution!!
