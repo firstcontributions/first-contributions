@@ -2760,3 +2760,4 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Ofentse Makhutja](https://github.com/OfentseJ): My first open source contribution!!
 -[Pratham Tiwari](https://github.com/Pratham9911) : Hello Everyone 
 - [Nehha1506](https://github.com/Nene1506) :My first open source contribution!
+- [Shrutik dawane](https://github.com/shrutik-1712) : Finally started contribution to OSS
