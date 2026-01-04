@@ -2736,7 +2736,6 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Rickyxrc] : Hello github! Love u all!
 -[Rudrika Trivedi](https://github.com/rudrika778) : My first Open Source Contribution!
 -[RonyDevX](https://x.com/SDE_Rony)
--[HaoyuPan](https://github.com/HaoyuPan) : My first Open Source Contribution!
 -[Aarya Dharmadhikari](https://github.com/aarya0044) : My first open source contribution!!
 - [Kiran Kumar](https://github.com/tm-kiran-kumar): My first step in contirbuting to world.
 - [Jasneet Kaur] (https://github.com/jasneetkr-1610): My first open source contiribution.
@@ -2756,6 +2755,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 -[Jeremiah_yangal](https://www.youtube.com/watch?v=2do4WZ0e8UU&t=3031s):using this video i lerned about contribution
 - [Srijan Pusp](https://github.com/SrijanPusp): One resource I found really helpful for a beginner like me was [this video](https://www.youtube.com/watch?v=2do4WZ0e8UU&t=3031s) — and here my journey begins.
 - [sung hyun](https://github.com/RAseng77/first-contributions): First Practice.
+- [Haoyu Pan](https://github.com/haoyupan2003): First Practice.
 - [Ofentse Makhutja](https://github.com/OfentseJ): My first open source contribution!!
 -[Pratham Tiwari](https://github.com/Pratham9911) : Hello Everyone 
 - [Nehha1506](https://github.com/Nene1506) :My first open source contribution!
