@@ -2603,6 +2603,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Adam Kingswood](https://github.com/AdamKingswood)
 - - [Yugendra N](https://github.com/Yugenjr) : First open source contribution and learning code review on GitHub
 - [Shozab Ali Nasir](https://github.com/shozabali06)
+- [Muxen](https://github.com/zz8023wanjin) First open source contribution
 - [Mehmet Kahraman](https://github.com/mikahraman)
 - [Shlok Gupta](https://github.com/LogicHymn)
 - [Yogesh Yadav](https://github.com/Yogiii13)
