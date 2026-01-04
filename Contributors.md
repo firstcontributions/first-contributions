@@ -6,6 +6,7 @@
 - [Muhammad Zeeshan](https://github.com/ZeeshanUop) Hi Good Evening
 
 -[sourabh-singh](https://github.com/sourabhsingh2000) -hello this is my first open source contribution
+[Ritika Raj](https://github.com/ritika943)
 -[zerokali20](https://github.com/zerokali20) - Hi guys welcome to new year  !!!
 -[Somesh Padsalge](https://github.com/Somesh04-tech) - learning open source contributions!!!
 -[hu-119](https://github.com/hu119-web)
@@ -14,6 +15,7 @@
 -[praband kumar](https://github.com/prabandkumar)
 -[Nitesh Ghimire](https://github.com/nitisbig) - hello from singulaity!!! 
 - [Navaneeth Krishnan S](https://github.com/JustAnOrangeCat) - To anybody reading - hope you have an amazing time contributing to opensource projects!!
+- [Loann Demaisons](https://github.com/lolasurleweb) - Hi everyone!
 - [Sparsh](https://github.com/sp4rsh-s) - my first open source contribution!!!
 - [Sojhal](https://github.com/sojhals) - My first contribution!!
 - [Rishita](https://github.com/Rishita-tech01) : Let's see how my first contribution going!!
@@ -24,6 +26,7 @@
 - [azdineh](https://github.com/azdineh) : this is my  contriubution.
 - [anis196](https://github.com/anis196) : This is my  First Open contriubution ever!
 - [Sanyam Kansal](https://github.com/sanyamkansal) : First open source contribution, I want to learn and connect!
+- [Dhruv Rastogi](https://github.com/DevilDhruv) : 4th Jan, late for Happy New Year but not for my first open source contribution.
 - [Charishma Nadipalli](https://github.com/nadipaca): My first contribution.
 - [Kajal Ahirwar](https://github.com/Kajal-Ahirwar)
 - [zett721](https://github.com/zett721) : Happy New Year! This is my first contrubution in 2026 actually!
@@ -37,8 +40,10 @@
 - [Lahar-Solanki](https://github.com/Laharsolanki) : Excited for GSOC 2026 because it is my first time.
 - [Akash-Praveen](https://github.com/GPAPD):  Happy new year, 2026!
 - [Swanand Siknis](https://github.com/swanand70): 21:09, 30-12-25, Happy new year, 2026!
+- [Gourav Gusain](https://github.com/cn-gourav): 21:09, 30-12-25, Happy new year, 2026!
 - [Kopal Jain](https://github.com/elif0luna): This one's for trying out loud!
 - [chandan singh](https://github.com/chandan-singh): my first contribution 👾
+- [Saburi Nikam](https://github.com/saburi004): My first Contribution!!
 - [Adithya Kotian](https://github.com/AdithyaKotian) : Happy new year , lock in
 - [Paul Liu](https://github.com/Paul-111129): My first contribution!
 - [Ritesh Gite](https://github.com/RiteshGite): Hello by Ritsh
@@ -64,6 +69,7 @@
 - [BOUKEF Mohamed Lamine](https://github.com/Boukef): If you’re reading this, you matter. Have a great day!
 rodrick
 - [Yug Patel](https://github.com/yugp31) Hello world!
+- [Kajetan Marer](https://github.com/xsouris) ggs wp
 - [Aashik thakur](https://github.com/CodeByAashik):  Hello world, my first open-source contribution
 - [Maryam](https://github.com/maryamscoding): Hello! Starting 2026 with my first contribution!!
 - [Mohammed Anas](https://github.com/Anas-Blue): Finally!!
@@ -153,6 +159,7 @@ rodrick
 - [Shivanshu Pandey](https://github.com/Shivanshupandey5) 👾🤖🎄 : First open source contribution
 - [Pavlo Zhurbytskyi](https://github.com/pavelkortp) 🚀🚀🚀 : First contribution, I want to learn
 - [Théo Balick](https://github.com/Balick) 😉 : This is my first contribution
+- [ybgybg]:hope i can persist!
 - [Jishnu Sanyal](https://github.com/JishyFishy2006) Hi Everyone - My First Open Source Contribution!!; I want to learn
 - [Matthias Dupont](https://github.com/matthiasdupont) 👾🤖🎄 : First open source contribution
 - [Hassan Raza] (https://github.com/Hassan-Raza-ktk) : First contribution, I want to learn
@@ -1014,6 +1021,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Jeyanth-S](https://github.com/Jeyanth-S)
 - [Jide Falaki](https://github.com/jidefal)
 - [Natalia Joy Szmagaj](https://github.com/defjoy9)
+- [Aditya Sajgotra](https://github.com/Aditya-Sajgotra)
 - [Devika Menon](https://github.com/DevikaaMenon)
 - [Nihal Fairooz](https://github.com/5yruz)
 - [Jingyi Lu](https://github.com/lulu61000)
@@ -1365,6 +1373,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Isaachbt](https://github.com/Isaachbt)
 - [AlteUnke](https://github.com/AlteUnke)
 - [Bird Dog](https://github.com/acuhlian)
+- [Akshat Yadav](https://github.com/akshyadv2006)
 - [allanm](https://github.com)
 - [Abhijit-Gautam](github.com/Abhijit-Gautam)
 - [Michael B.](https://github.com/mbyrd3)
@@ -2598,6 +2607,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Adam Kingswood](https://github.com/AdamKingswood)
 - - [Yugendra N](https://github.com/Yugenjr) : First open source contribution and learning code review on GitHub
 - [Shozab Ali Nasir](https://github.com/shozabali06)
+- [Muxen](https://github.com/zz8023wanjin) First open source contribution
 - [Mehmet Kahraman](https://github.com/mikahraman)
 - [Shlok Gupta](https://github.com/LogicHymn)
 - [Yogesh Yadav](https://github.com/Yogiii13)
@@ -2746,3 +2756,6 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Srijan Pusp](https://github.com/SrijanPusp): One resource I found really helpful for a beginner like me was [this video](https://www.youtube.com/watch?v=2do4WZ0e8UU&t=3031s) — and here my journey begins.
 - [sung hyun](https://github.com/RAseng77/first-contributions): First Practice.
 - [Haoyu Pan](https://github.com/haoyupan2003): First Practice.
+- [Ofentse Makhutja](https://github.com/OfentseJ): My first open source contribution!!
+-[Pratham Tiwari](https://github.com/Pratham9911) : Hello Everyone 
+- [Nehha1506](https://github.com/Nene1506) :My first open source contribution!
