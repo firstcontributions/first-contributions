@@ -26,6 +26,7 @@
 - [azdineh](https://github.com/azdineh) : this is my  contriubution.
 - [anis196](https://github.com/anis196) : This is my  First Open contriubution ever!
 - [Sanyam Kansal](https://github.com/sanyamkansal) : First open source contribution, I want to learn and connect!
+- [Dhruv Rastogi](https://github.com/DevilDhruv) : 4th Jan, late for Happy New Year but not for my first open source contribution.
 - [Charishma Nadipalli](https://github.com/nadipaca): My first contribution.
 - [Kajal Ahirwar](https://github.com/Kajal-Ahirwar)
 - [zett721](https://github.com/zett721) : Happy New Year! This is my first contrubution in 2026 actually!
