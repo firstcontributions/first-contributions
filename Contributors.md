@@ -15,6 +15,7 @@
 -[praband kumar](https://github.com/prabandkumar)
 -[Nitesh Ghimire](https://github.com/nitisbig) - hello from singulaity!!! 
 - [Navaneeth Krishnan S](https://github.com/JustAnOrangeCat) - To anybody reading - hope you have an amazing time contributing to opensource projects!!
+- [Loann Demaisons](https://github.com/lolasurleweb) - Hi everyone!
 - [Sparsh](https://github.com/sp4rsh-s) - my first open source contribution!!!
 - [Sojhal](https://github.com/sojhals) - My first contribution!!
 - [Rishita](https://github.com/Rishita-tech01) : Let's see how my first contribution going!!
