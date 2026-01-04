@@ -2750,3 +2750,4 @@ Nick -[Daniel G.](https://github.com/dg189149)
 -[Jeremiah_yangal](https://www.youtube.com/watch?v=2do4WZ0e8UU&t=3031s):using this video i lerned about contribution
 - [Srijan Pusp](https://github.com/SrijanPusp): One resource I found really helpful for a beginner like me was [this video](https://www.youtube.com/watch?v=2do4WZ0e8UU&t=3031s) — and here my journey begins.
 - [sung hyun](https://github.com/RAseng77/first-contributions): First Practice.
+- [Ofentse Makhutja](https://github.com/OfentseJ): My first open source contribution!!
