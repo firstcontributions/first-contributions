@@ -717,6 +717,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Gajji Chandu Yadav](https://github.com/AnandajithS)
 - [Christian Gongora](https://github.com/ChristianGongoraDeMoraes)
 - [Raghu]
+- [Sayeed] yo first contribution 
 - [Crazydiamond](https://github.com/crazydiamondaz)
 - [Victor]
 - [Dhayanithi s r](https://github.com/its-dhaya)
