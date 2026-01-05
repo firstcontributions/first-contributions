@@ -19,6 +19,7 @@
 - [Praveer Ranjan Singh](https://github.com/PRAVEERRANJANSINGH)
 -[Gayatri Shejule](https://github.com/Gayatri-Shejule)
 -[praband kumar](https://github.com/prabandkumar)
+-[Lan Cao](https://github.com/caolann)
 -[Nitesh Ghimire](https://github.com/nitisbig) - hello from singulaity!!! 
 - [Navaneeth Krishnan S](https://github.com/JustAnOrangeCat) - To anybody reading - hope you have an amazing time contributing to opensource projects!!
 - [Paulin Junior] (https://github.com/PaulinJ) - Hello guys, cheers! 
@@ -333,6 +334,7 @@ rodrick
 - [Sriharshini Kuruvella](https://github.com/Sriharshini7)
 - [Sayan Banerjee](https://github.com/sayan14banerjee)
 - [Sourav Mitra](https://github.com/SouravMitra98): My first Contribution
+- [SONALkumarmandal] (https://github.com/SONALkumarmandal) : Learing to contribute to open source.
 - [Soumyadip Dutta](https://github.com/Soumyadip1004)
 - [Haste]
 - [Sara]
@@ -716,6 +718,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Gajji Chandu Yadav](https://github.com/AnandajithS)
 - [Christian Gongora](https://github.com/ChristianGongoraDeMoraes)
 - [Raghu]
+- [Sayeed] yo first contribution 
 - [Crazydiamond](https://github.com/crazydiamondaz)
 - [Victor]
 - [Dhayanithi s r](https://github.com/its-dhaya)
@@ -1314,6 +1317,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Nitish](https://github.com/NK2552003)
 - [Sakshi Singh](https://github.com/236sakshi)
 - [Elijah](https://github.com/Elijah647)
+- [Jeyanth](https://github.com/Jeyanth3)
 - [Ishaan C](https://github.com/Ishaan-C)
 - [WHA](https://github.com/wynehtetaung)
 - [dinesh](https://github.com/dineshv97)
@@ -2790,3 +2794,4 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Ashok N](https://github.com/TSGAshok): open source contribution
 - [Shreyas N Nandargi](https://github.com/Shreyas-gis) First open source contribution
 - [DHRUVI THAKKAR](https://github.com/thakkardhruvi205) First open source contribution
+-[Manish Raz](https://github.com/Manish-Raz): First open source contribution
