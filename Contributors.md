@@ -715,6 +715,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Nivedita CS](https://github.com/niveditacs03)
 - [Raja Rathour](https://github.com/Raja-89)
 - [Vineet Ekka] (https://github.com/vineet-sketch)
+- [hirobin](https://github.com/hiro-bin)
 - [Claire Haynes](https://github.com/ClaireHaynes700)
 - [Prarthana D](https://github.com/prarthana711)
 - Dipak Rasal
