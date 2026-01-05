@@ -717,6 +717,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Gajji Chandu Yadav](https://github.com/AnandajithS)
 - [Christian Gongora](https://github.com/ChristianGongoraDeMoraes)
 - [Raghu]
+- [Sayeed] yo first contribution 
 - [Crazydiamond](https://github.com/crazydiamondaz)
 - [Victor]
 - [Dhayanithi s r](https://github.com/its-dhaya)
@@ -1315,6 +1316,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Nitish](https://github.com/NK2552003)
 - [Sakshi Singh](https://github.com/236sakshi)
 - [Elijah](https://github.com/Elijah647)
+- [Jeyanth](https://github.com/Jeyanth3)
 - [Ishaan C](https://github.com/Ishaan-C)
 - [WHA](https://github.com/wynehtetaung)
 - [dinesh](https://github.com/dineshv97)
