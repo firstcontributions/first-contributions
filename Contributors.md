@@ -51,6 +51,7 @@
 - [Adithya Kotian](https://github.com/AdithyaKotian) : Happy new year , lock in
 - [Paul Liu](https://github.com/Paul-111129): My first contribution!
 - [Ritesh Gite](https://github.com/RiteshGite): Hello by Ritsh
+- [7saval](https://github.com/7saval): Happy new year, 2026!
 - [Janmejay Shibaprasad Mahanta](https://github.com/janmejay1438): Greetings fellow Senior Coders!!
 -GiovanniBBenedetti
 - [Hex] (https://github.com/hex-7546): Trying out stuff :)
