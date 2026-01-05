@@ -2756,6 +2756,8 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Srijan Pusp](https://github.com/SrijanPusp): One resource I found really helpful for a beginner like me was [this video](https://www.youtube.com/watch?v=2do4WZ0e8UU&t=3031s) — and here my journey begins.
 - [sung hyun](https://github.com/RAseng77/first-contributions): First Practice.
 - [Haoyu Pan](https://github.com/haoyupan2003): First Practice.
+-[Sanchita](https://github.com/sanchita4collab/first-contributions) : My first open source contribution!
 - [Ofentse Makhutja](https://github.com/OfentseJ): My first open source contribution!!
 -[Pratham Tiwari](https://github.com/Pratham9911) : Hello Everyone 
 - [Nehha1506](https://github.com/Nene1506) :My first open source contribution!
+
