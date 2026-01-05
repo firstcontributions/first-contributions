@@ -656,6 +656,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Dheeraj Kumar](https://github.com/Dheeraj-Kumar-8)
 - [Srihari Vernekar]
 - [Baris Yildizel]
+- [Baris](https://github.com/therbta)
 - Krishnendra Kumar Prayagraj
 - [rafid](https://github.com/rafid3f3)
 - [Daniel Caspit](https://github.com/dcaspit)
