@@ -9,7 +9,7 @@
 - [Muhammad Zeeshan](https://github.com/ZeeshanUop) Hi Good Evening
 - [Hemanth Challa](https://github.com/hemanth0808) Hi Everyone, Excited to start with my first open source contribution.
 - [Mahdi Jafari](https://github.com/daykal)
-
+- [Gaetano ] Ciao a tutti, thanks for the opportunity.
 - [deanscott13](https://github.com/deanscott13): Hello.
 -[sourabh-singh](https://github.com/sourabhsingh2000) -hello this is my first open source contribution
 [Ritika Raj](https://github.com/ritika943)
@@ -2803,3 +2803,4 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Shreyas N Nandargi](https://github.com/Shreyas-gis) First open source contribution
 - [DHRUVI THAKKAR](https://github.com/thakkardhruvi205) First open source contribution
 -[Manish Raz](https://github.com/Manish-Raz): First open source contribution
+- Gaetano — https://github.com/gaelonigro
