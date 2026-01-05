@@ -2771,4 +2771,4 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Nehha1506](https://github.com/Nene1506) :My first open source contribution!
 - [Priyanka C](https://github.com/coolgalsandiego): Open source contribution
 - [Shrutik dawane](https://github.com/shrutik-1712) : Finally started contribution to OSS
-Zeynep U
+- [Zeynep U](https://github.com/zynpltrk): First open source contribution
