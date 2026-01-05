@@ -5,8 +5,8 @@
 - [Aveta Shreya](https://github.com/AvetaSreya)
 - [Muhammad Zeeshan](https://github.com/ZeeshanUop) Hi Good Evening
 - [Mahdi Jafari](https://github.com/daykal)
-
--[sourabh-singh](https://github.com/sourabhsingh2000) -hello this is my first open source contribution
+- [Human16](https://github.com/human16) - First Open Source Contribution
+- [sourabh-singh](https://github.com/sourabhsingh2000) -hello this is my first open source contribution
 [Ritika Raj](https://github.com/ritika943)
 -[zerokali20](https://github.com/zerokali20) - Hi guys welcome to new year  !!!
 -[Moin Qamr](https://github.com/Moin36532)-I wish a happy new year to eveyone "2026"
