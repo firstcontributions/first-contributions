@@ -1,6 +1,8 @@
 
 # Contributors
 
+- [PrathapRaj-3568](https://github.com/Prathap-Raj3568)
+
 - [Dr1zz3l](https://github.com/Dr1zz3l)
 - [ChrisGS](https://github.com/DigitalFunStudios)
 - [Aveta Shreya](https://github.com/AvetaSreya)
