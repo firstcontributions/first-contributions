@@ -14,7 +14,7 @@
 - [Moin Qamr](https://github.com/Moin36532)-I wish a happy new year to eveyone "2026"
 - [Somesh Padsalge](https://github.com/Somesh04-tech) - learning open source contributions!!!
 - [hu-119](https://github.com/hu119-web)
-- [Akhil Kumar Reddy](https://github.com/akhilreddy59)
+- [Akhil Kumar Reddy](https://github.com/akhilreddy59) - Hi guys , lets wrap 2026 with fun and skills
 - [Praveer Ranjan Singh](https://github.com/PRAVEERRANJANSINGH)
 - [Gayatri Shejule](https://github.com/Gayatri-Shejule)
 - [praband kumar](https://github.com/prabandkumar)
