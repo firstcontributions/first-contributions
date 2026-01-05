@@ -2566,4 +2566,5 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Arnav Raj] (https://github.com/Axis-GLC)
 
 - K. Kavya
-- [Amos ](https://github.com/Aliko2020): My First contribution on open source.
+- [Amos ](https://github.com/Aliko2020): My First contribution on open source. 
+-[Amit Prajapat] (https://github.com/amithacks7)
