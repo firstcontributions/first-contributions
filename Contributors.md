@@ -333,6 +333,7 @@ rodrick
 - [Sriharshini Kuruvella](https://github.com/Sriharshini7)
 - [Sayan Banerjee](https://github.com/sayan14banerjee)
 - [Sourav Mitra](https://github.com/SouravMitra98): My first Contribution
+- [SONALkumarmandal] (https://github.com/SONALkumarmandal) : Learing to contribute to open source.
 - [Soumyadip Dutta](https://github.com/Soumyadip1004)
 - [Haste]
 - [Sara]
