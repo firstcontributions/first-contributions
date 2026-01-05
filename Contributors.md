@@ -6,6 +6,7 @@
 - [Muhammad Zeeshan](https://github.com/ZeeshanUop) Hi Good Evening
 - [Mahdi Jafari](https://github.com/daykal)
 
+- [deanscott13](https://github.com/deanscott13): Hello.
 -[sourabh-singh](https://github.com/sourabhsingh2000) -hello this is my first open source contribution
 [Ritika Raj](https://github.com/ritika943)
 -[zerokali20](https://github.com/zerokali20) - Hi guys welcome to new year  !!!
@@ -1316,6 +1317,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [amelia](https://github.com/amy-jd)
 - [Albert] (https://github.com/albertli354)
 - [Drax-dr](https://github.com/Drax-dr/) -[pouriya](https://github.com/thepouriyahmn)
+- [yunsuper](https://github.com/yunsuper)
 - [Stephen Ng](https://github.com/snust)
 - [MayLeaf](https://github.com/may-leaf)
 - [Muhammad Ayyub](https://github.com/devmab24)
