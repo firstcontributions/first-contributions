@@ -2789,3 +2789,4 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Zeynep U](https://github.com/zynpltrk): First open source contribution
 - [Ashok N](https://github.com/TSGAshok): open source contribution
 - [Shreyas N Nandargi](https://github.com/Shreyas-gis) First open source contribution
+- [DHRUVI THAKKAR](https://github.com/thakkardhruvi205) First open source contribution
