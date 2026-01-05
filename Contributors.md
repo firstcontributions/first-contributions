@@ -1,6 +1,7 @@
 
 # Contributors
 
+- [Bobbyrobbob](https://github.com/BobbyRobBob) Happy "2026" to everyone! all the best on the start of the journey!
 - [Dr1zz3l](https://github.com/Dr1zz3l)
 - [ChrisGS](https://github.com/DigitalFunStudios)
 - [Aveta Shreya](https://github.com/AvetaSreya)
