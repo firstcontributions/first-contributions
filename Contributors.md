@@ -2658,6 +2658,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Afia](https://github.com/afia0872) : Taking my first step into open source and excited to learn by contributing.
 - [Shyamanth Reddy](https://github.com/Shyamanth-2005) : first open source contribution
 - [Dean Joubert](https://github.com/TheAwesomeLegend) : Keep Being Awesome
+- [VY Raja Rao](https://github.com/VyRajaRao) : My First actual contribution
 - [Priyaan G] (https://github.com/PriyaanG663) :first contribution
 - [Akshay Malik] - My First Contribution
 - [Ahmed Barakat](https://github.com/Barkaaat): Try to be open source contributer dec/25
