@@ -68,6 +68,7 @@
 - [吴博](https://github.com/JasonWuInBJ): 一起搞 AI
 - [BOUKEF Mohamed Lamine](https://github.com/Boukef): If you’re reading this, you matter. Have a great day!
   rodrick
+- [Le Luu](https://github.com/le-luu): Hello, Thank you for checking!!! :)
 - [Yug Patel](https://github.com/yugp31) Hello world!
 - [DC07OCT](https://github.com/DC07OCT) Happy New Year~ First contribution in 2026!
 - [Kajetan Marer](https://github.com/xsouris) ggs wp
