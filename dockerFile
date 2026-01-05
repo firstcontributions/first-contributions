@@ -1,0 +1,7 @@
+FROM apline:latest
+
+WORKDIR /app
+
+COPY . .
+
+
