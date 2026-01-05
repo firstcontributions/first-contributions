@@ -541,6 +541,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Tejinderpal Singh](http://github.com/tejinderpa)
 - [pvpeuve](https://github.com/pvpeuve)
 - [Ziyan](https://github.com/ziyanaaan)
+- [Pradnya Patil](https://github.com/Pradnya-2006)
 - Ayush
 - Hajer Mabrouk
 - [Gowsik Raja](https://github.com/gowsikraja)
