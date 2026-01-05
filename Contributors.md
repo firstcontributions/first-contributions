@@ -18,6 +18,7 @@
 -[Somesh Padsalge](https://github.com/Somesh04-tech) - learning open source contributions!!!
 -[hu-119](https://github.com/hu119-web)
 - [Praveer Ranjan Singh](https://github.com/PRAVEERRANJANSINGH)
+-[madmax73](https://github.com/madmax73) - let's gooooooo
 -[Gayatri Shejule](https://github.com/Gayatri-Shejule)
 -[praband kumar](https://github.com/prabandkumar)
 -[Lan Cao](https://github.com/caolann)
