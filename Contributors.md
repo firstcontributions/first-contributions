@@ -7,6 +7,7 @@
 - [ARCHANA_GURUSAMY](https://github.com/ARCHANA-SENGUNTHAR)
 - [Roxtaru](https://github.com/Roxtaru)
 - [ChrisGS](https://github.com/DigitalFunStudios)
+- [yassine-20042004](https://github.com/yassine-20042004) this is my first coontribution to an open source 
 - [Aveta Shreya](https://github.com/AvetaSreya)
 - [Astros Aradottir](https://github.com/AstrosAradottir)
 - [Sung] Thanks
@@ -53,6 +54,7 @@
 - [Abhinav Vaidya](https://github.com/abhi9vaidya) : Happy New Year :)
 - [Suraj Raykar](https://github.com/ssuraj2504) : Happy New Year :)
 -[Nishan](https://github.com/Nishan-Narvan)
+- Marco Musolf
 -[Rahul](https://github.com/SilverMoon-ops)
 -[Rishitha-Dama](https://github.com/RishithaDama)
 - [Ron Luu] (https://github.com/RonLuu): Happy New Year guys
@@ -80,6 +82,7 @@
 - - [HimaTeja](https://github.com/Allibadha-Himateja): This was my first contribution
 - [Abhishek P V](https://github.com/abhishekpv): My first contribution, Lets do it!
 - [Aquiline Rose Fernandez](https://github.com/aquilinerose): hey!
+- [Sagar Shaw](https://github.com/sagar-shaw-bits): This was my first contribution!!!
 - [Bhavya Joiya](https://github.com/Bhavya-Joiya): Just starting out my Open-source Contribution Journey!!!
 - [Subhash Gupta](https://github.com/codesubhash234) : Starting journey with first contribution
 - [Ananya Singh](https://github.com/AS-pngg): First Contribution
@@ -1703,6 +1706,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Nishant K Joshyabhatla](https://github.com/nishantkj911)
 - [Görkem](https://github.com/gorkemozsari)
 - [Vinit Patel](https://github.com/Vinit3116)
+- [Hemanth Balakrishna](https://github.com/balu1225) First time contributing to open source
 - [Harrison Noe](https://github.com/harr-3d)
 - [abhishektumula](https://github.com/abhishektumula)
 - [Harsh Kaushik](https://github.com/hrk022)
@@ -2776,6 +2780,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 -[Abhinav bhardwaj](https://github.com/Abhinav145)
 -[Aarya Harne](https://github.com/AaryaHarne) 
 - [Teja](https://github.com/saitejx)
+-[Rocky](https://github.com/RockyR0ads)
 - [Rickyxrc] : Hello github! Love u all!
 -[Rudrika Trivedi](https://github.com/rudrika778) : My first Open Source Contribution!
 -[RonyDevX](https://x.com/SDE_Rony)
@@ -2815,4 +2820,6 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - Gaetano — https://github.com/gaelonigro
 [snwvlr](https://github.com/snwvlr)
 - [Rafael Delmas](https://github.com/Rafaelmeritello) First open source contribution - Hello From Brazil !
-- [Jyoti](https://github.com/pj30080): My first open source contribution
+-- [Jyoti](https://github.com/pj30080): My first open source contribution.
+- [esccot](https://github.com/Esccot) yay! first open source contribution.
+
