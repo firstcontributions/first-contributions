@@ -1,5 +1,6 @@
 Sabeel Ur Rehman
 # Contributors
+- [Rushikesh Chaudhari](https://github.com/Rush1020)
 - [Ananya Singh](https://github.com/AS-pngg): First Contribution
 - [Lakshita Bisht](https://github.com/LakshitaBisht11):
 - [吴博](https://github.com/JasonWuInBJ): 一起搞AI 
