@@ -8,6 +8,7 @@
 - [ChrisGS](https://github.com/DigitalFunStudios)
 - [Aveta Shreya](https://github.com/AvetaSreya)
 - [Astros Aradottir](https://github.com/AstrosAradottir)
+- [Sung] Thanks
 - [Muhammad Zeeshan](https://github.com/ZeeshanUop) Hi Good Evening
 - [Hemanth Challa](https://github.com/hemanth0808) Hi Everyone, Excited to start with my first open source contribution.
 - [Mahdi Jafari](https://github.com/daykal)
