@@ -25,7 +25,7 @@ Sada klonirajte repozitorij koji ste prethodno forkali. Posjetite svoj GitHub pr
 Otvorite terminal i upišite slijedeće git naredbe:
 
 ```bash
-git clone "url koji ste sada kopirali"
+git clone "url koji ste upravo kopirali"
 ```
 
 
