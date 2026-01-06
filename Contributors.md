@@ -41,7 +41,8 @@
 - [Rajesh phulwaria](https://github.com/RajeshPhulwaria006/) : Here's my first contribution to the journey of my open source.
 - luud5547: My new year first open source contribution .
 - [Amit Kr Mahato](https://github.com/Amit-Mahato-0001) : First open source contribution :>
-- [vineesh](https://github.com/vineesh23): This is my first open source contribution. 
+- [vineesh](https://github.com/vineesh23): This is my first open source contribution.
+- [Itte Aravind](https://github.com/aravinditte): Baby steps to bigger strides !!
 - [Azam](https://github.com/AzamCodes): Small steps, real contributions 🚀
 - [azdineh](https://github.com/azdineh) : this is my  contriubution.
 - [Kaiyumu](https://github.com/savvyinsight) : Start contribute to open source world!
