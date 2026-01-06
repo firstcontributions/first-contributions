@@ -163,6 +163,7 @@ rodrick
 - [Lorenzo Kibet Kiprotich](https://github.com/senkik):My open source contribution, definitely just the beginning of a great Adventure. Christ is Lord
   -- [zayYan](https://github.com/ZayYanLin) : My first open source contribution
 - [Ronin](https://github.com/RAKESH-R2R) : First open source contribution
+- [qunqing166](https://github.com/qunqing166): Ciallo～(∠・ω< )⌒★
 - [Arefe](https://github.com/arefe6160) : My first open source contribution
 - [Laxminarayan Alkatwar](https://github.com/laxminarayanalkatwar): My first open-source contribution 🚀
 - [Harinand Sindukumar](https://github.com/harinandsindukumar) : First open source contribution
