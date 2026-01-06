@@ -2806,3 +2806,4 @@ Nick -[Daniel G.](https://github.com/dg189149)
 -[Manish Raz](https://github.com/Manish-Raz): First open source contribution
 - Gaetano — https://github.com/gaelonigro
 [snwvlr](https://github.com/snwvlr)
+- [Rafael Delmas](https://github.com/Rafaelmeritello) First open source contribution - Hello From Brazil !
