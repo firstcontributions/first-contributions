@@ -1,6 +1,7 @@
 
 # Contributors
 
+- [Yashparmar1125](https://github.com/Yashparmar1125) -Happy for my First Contribution!!
 - [PaperLC](https://github.com/paperlc) -Happy new Year! Glad to meet you!
 - [Bobbyrobbob](https://github.com/BobbyRobBob) Happy "2026" to everyone! all the best on the start of the journey!
 - [Dr1zz3l](https://github.com/Dr1zz3l)
@@ -41,6 +42,8 @@
 - [Rajesh phulwaria](https://github.com/RajeshPhulwaria006/) : Here's my first contribution to the journey of my open source.
 - luud5547: My new year first open source contribution .
 - [Amit Kr Mahato](https://github.com/Amit-Mahato-0001) : First open source contribution :>
+- [vineesh](https://github.com/vineesh23): This is my first open source contribution.
+- [Itte Aravind](https://github.com/aravinditte): Baby steps to bigger strides !!
 - [Azam](https://github.com/AzamCodes): Small steps, real contributions 🚀
 - [azdineh](https://github.com/azdineh) : this is my  contriubution.
 - [Kaiyumu](https://github.com/savvyinsight) : Start contribute to open source world!
@@ -1495,6 +1498,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Gnanika](https://github.com/Gnanika710)
 - [Kai Krah](https://github.com/KaiKrah79)
 - [benHitt](https://github.com/benHitt123)
+- [preettrank53](https://github.com/preettrank53) - Excited to contribute to open source!
 - [Azaelrock0](https://github.com/azaelrock0)
 - [Eoin Breen](https://github.com/ebreen1)
 - [Fuad Hasan](https://github.com/itsfuad)
@@ -2825,7 +2829,9 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - Gaetano — https://github.com/gaelonigro
 [snwvlr](https://github.com/snwvlr)
 - [Rafael Delmas](https://github.com/Rafaelmeritello) First open source contribution - Hello From Brazil !
-- 
 -[esccot](https://github.com/Esccot)  yay! first open source contribution.
 -[VEDANT SONAWANE](https://github.com/royalvedant)-----LET'S GO  🚀🚀🚀------
 -[Rana Devanshi Chitrang](https://github.com/DevanshiWork1404)Hi!It's my first contributions🙋‍♀️
+-[Yaswanth Naga Sai K](https://github.com/YASWANTH1976)
+-[Ashish Sai Kumar](https://github.com/askaskak113)
+
