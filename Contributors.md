@@ -45,6 +45,7 @@
 - [anis196](https://github.com/anis196) : This is my  First Open contriubution ever!
 - [Sanyam Kansal](https://github.com/sanyamkansal) : First open source contribution, I want to learn and connect!
 - [Dhruv Rastogi](https://github.com/DevilDhruv) : 4th Jan, late for Happy New Year but not for my first open source contribution.
+- [Abhiraj Singh](https://github.com/abhiraj75) : Here We Go!
 - [Charishma Nadipalli](https://github.com/nadipaca): My first contribution.
 - [Kajal Ahirwar](https://github.com/Kajal-Ahirwar)
 - [pinkfluffyelephant](https://github.com/pinkfluffyelephant): My first time using Github
