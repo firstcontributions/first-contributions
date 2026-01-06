@@ -11,7 +11,7 @@ ise agbese lakoko, ise agbese yi a ko yin be ese le se, e tele ilana ni isalẹ
 
 #### *to ba le lo pipaṣẹ, [awon ona mi re.](#Tutorials-Usin'-Other-Tools)*
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="ṣe fork repository yìí" />
 
 e fi git sori ẹrọ [install it](https://help.github.com/articles/set-up-git/).
 
@@ -20,7 +20,7 @@ orita ibi ipamọ yii, e te ' fork bọtini' ni oke oju iwe yi, e leyi a fun yin
 
 ## Dide ibi ipamọ
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="ṣe clone repository yìí" />
 
 oya e de ibi ipamọ yi si account yin, e lo si githubu accounti yin, e te 'clone botini, ke wa te 'copy to clipboard'
 .
@@ -33,7 +33,7 @@ git clone "ọna asopọ ' te daakọ"
 
 ibi, "ọna asopọ ' te daakọ" (lai awọn ' quote iṣmiṣ) lo je ono asopo ti e dide ibi ipamo (e dide ibi ipamo ise igbesi). e wo awon atono ti tele to n be loke
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="da URL sí clipboard" />
 
 oye ko ri bi:
 
@@ -101,11 +101,11 @@ yi `<oruko eda ti e se>` pada si orku e da ti ese ni ibere
 
 Ti o ba lọ t' yer ibi ipamọ lori GitHub, iwọ yoo ri a  `Compare & pull request` botini.  te botini yen.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="ṣe ìbéèrè pull request" />
 
 oya fi silẹ.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="fi pull request ranṣẹ" />
 
 To ba ya a ma so gbogo yipada ti e se papo, e o gba iwifunni lori imeeli yin
 
