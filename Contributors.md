@@ -2818,3 +2818,4 @@ Nick -[Daniel G.](https://github.com/dg189149)
 [snwvlr](https://github.com/snwvlr)
 - [Rafael Delmas](https://github.com/Rafaelmeritello) First open source contribution - Hello From Brazil !
 - 
+-[esccot](https://github.com/Esccot)  yay! first open source contribution.
