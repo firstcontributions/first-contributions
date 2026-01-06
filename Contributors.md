@@ -1,7 +1,7 @@
 
 # Contributors
 
--[PaperLC](https://github.com/paperlc) -Happy new Year! Glad to meet you!
+- [PaperLC](https://github.com/paperlc) -Happy new Year! Glad to meet you!
 - [Bobbyrobbob](https://github.com/BobbyRobBob) Happy "2026" to everyone! all the best on the start of the journey!
 - [Dr1zz3l](https://github.com/Dr1zz3l)
 - [ChrisGS](https://github.com/DigitalFunStudios)
