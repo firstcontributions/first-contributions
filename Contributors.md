@@ -1497,6 +1497,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Gnanika](https://github.com/Gnanika710)
 - [Kai Krah](https://github.com/KaiKrah79)
 - [benHitt](https://github.com/benHitt123)
+- [preettrank53](https://github.com/preettrank53) - Excited to contribute to open source!
 - [Azaelrock0](https://github.com/azaelrock0)
 - [Eoin Breen](https://github.com/ebreen1)
 - [Fuad Hasan](https://github.com/itsfuad)
