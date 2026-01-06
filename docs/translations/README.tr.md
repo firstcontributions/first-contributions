@@ -10,7 +10,7 @@ Makale okumak ve eğitim videoları izlemek yardımcı olabilir, fakat bir işi 
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="Bu projeyi GitHub üzerinde çatallayın (forklayın)" />
 
-Eğer bilgisayarınızda git kurulu değil ise, [ yükleyin ]( https://help.github.com/articles/set-up-git/ ).
+Eğer bilgisayarınızda git kurulu değil ise, [ yükleyin ](https://help.github.com/articles/set-up-git/).
 
 ## Projeyi "forklama"
 
@@ -21,21 +21,24 @@ Bu işlem sizin hesabınız altında projenin bir kopyasını oluşturacaktır.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="Bu depoyu (repository) bilgisayarınıza kopyalayın (klonlayın)" />
 
-Şimdi bu depoyu bilgisayarınıza klonlayın. GitHub hesabınıza gidin, çatalladığınız depoyu açın, 'clone' butonuna basıp ardından *copy to clipboard* simgesine basın.
+Şimdi bu depoyu bilgisayarınıza klonlayın. GitHub hesabınıza gidin, çatalladığınız depoyu açın, 'clone' butonuna basıp ardından _copy to clipboard_ simgesine basın.
 
 Daha sonra komut istemini açıp aşağıdaki git komutunu çalıştırın:
 
 ```bash
 git clone "kopyaladığınız-url"
 ```
+
 "kopyaladığınız-url" (tırnak işaretleri olmadan) yerine bu deponun GitHub sayfasından aldığınız linki kopyalayın.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="Bu bağlantının (linkin) URL adresini panoya kopyalayın" />
 
 Örneğin:
+
 ```bash
 git clone https://github.com/kullanıcı-adi/first-contributions.git
 ```
+
 `kullanıcı-adi` sizin GitHub kullanıcı adınız. Burada GitHub üzerinde bulunan first-contributions reposunun içeriğini bilgisayarınıza kopyalıyorsunuz.
 
 ## Dal (Branch) oluşturma
@@ -45,16 +48,20 @@ Eğer henüz klasör içerisinde değilseniz komut isteminde ana klasörünün k
 ```bash
 cd first-contributions
 ```
+
 `git checkout` komutunu kullanarak yeni bir dal(branch) oluşturun:
+
 ```bash
 git checkout -b <sizin-yeni-dal-isminiz>
 ```
 
 Örneğin:
+
 ```bash
 git checkout -b ekle-aydin-cagri-dumlu
 ```
-(Dal ismi içinde *ekle* kelimesinin geçme zorunluluğu yok, fakat bu dal isminizi katkı sunanlar listesine ekleme amacıyla oluşturulduğundan, ekle yazmak mantıklı olacaktır.)
+
+(Dal ismi içinde _ekle_ kelimesinin geçme zorunluluğu yok, fakat bu dal isminizi katkı sunanlar listesine ekleme amacıyla oluşturulduğundan, ekle yazmak mantıklı olacaktır.)
 
 ## Gerekli değişiklikleri yapma ve değişiklikleri onaylama
 
@@ -85,9 +92,11 @@ git add Contributors.md
 ```
 
 Şimdi `git commit` komutunu kullanarak değişikliklerinizi onaylayın (commit):
+
 ```bash
 git commit -m "<isminiz> katkıda bulunanlar listesine eklendi"
 ```
+
 `<isminiz>` yerine kendi isminizi yazın.
 
 (Ç.N: Açık kaynak dünyasında dünyanın farklı yerlerinden insanlarla birlikte çalışacağınız için onay mesajını İngilizce yazabilirsiniz.)
@@ -95,9 +104,11 @@ git commit -m "<isminiz> katkıda bulunanlar listesine eklendi"
 ## Değişiklikleri GitHub üzerine "itme" (Push)
 
 `git push` komutu ile değişikliklerinizi ittirin:
+
 ```bash
 git push origin <ekle-sizin-dal-isminiz>
 ```
+
 `<ekle-sizin-dal-isminiz>` yerine daha önce oluşturduğunuz dalın ismini girin.
 
 ## Değişikliklerinizi inceleme için gönderin
@@ -124,7 +135,6 @@ Artık diğer projelere katkı sunmaya hazırsınız. Çözmeye başlayabileceğ
 
 ## Diğer araçlarla ilgili eğitimler
 
-
-| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
-| --- | --- | --- | --- | --- | --- |
-| [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md) | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md) | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md) | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md) | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md) | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md) |
+| <a href="../gui-tool-tutorials/translations/Turkish/github-desktop-tutorial.tr.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/translations/Turkish/github-windows-vs2017-tutorial.tr.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/translations/Turkish/gitkraken-tutorial.tr.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/translations/Turkish/github-windows-vs-code-tutorial.tr.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="../gui-tool-tutorials/translations/Turkish/sourcetree-macos-tutorial.tr.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/translations/Turkish/github-windows-intellij-tutorial.tr.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [GitHub Desktop](../gui-tool-tutorials/translations/Turkish/github-desktop-tutorial.tr.md)                                                                     | [Visual Studio 2017](../gui-tool-tutorials/translations/Turkish/github-windows-vs2017-tutorial.tr.md)                                                                                                 | [GitKraken](../gui-tool-tutorials/translations/Turkish/gitkraken-tutorial.tr.md)                                                                                                                | [Visual Studio Code](../gui-tool-tutorials/translations/Turkish/github-windows-vs-code-tutorial.tr.md)                                                                                           | [Atlassian Sourcetree](../gui-tool-tutorials/translations/Turkish/sourcetree-macos-tutorial.tr.md)                                                                                                            | [IntelliJ IDEA](../gui-tool-tutorials/translations/Turkish/github-windows-intellij-tutorial.tr.md)                                                                                                                                  |
