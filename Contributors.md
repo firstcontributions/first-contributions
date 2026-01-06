@@ -30,6 +30,8 @@
 -[Nitesh Ghimire](https://github.com/nitisbig) - hello from singulaity!!! 
 - [Navaneeth Krishnan S](https://github.com/JustAnOrangeCat) - To anybody reading - hope you have an amazing time contributing to opensource projects!!
 -[Shikshith](https://github.com/Shikshith05)-Learning open source contributions !!!
+#ICE
+-[ICE](https://github.com/ranjanssgj) - Your efforts will surely yeild results, believe in yourself.
 - [Paulin Junior] (https://github.com/PaulinJ) - Hello guys, cheers! 
 - [Loann Demaisons](https://github.com/lolasurleweb) - Hi everyone!
 - [Sparsh](https://github.com/sp4rsh-s) - my first open source contribution!!!
