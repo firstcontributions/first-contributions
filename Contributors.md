@@ -22,6 +22,7 @@
 -[Gayatri Shejule](https://github.com/Gayatri-Shejule)
 -[praband kumar](https://github.com/prabandkumar)
 -[Lan Cao](https://github.com/caolann)
+-[Angela Chung] (https://github.com/angelasychung)
 -[Nitesh Ghimire](https://github.com/nitisbig) - hello from singulaity!!! 
 - [Navaneeth Krishnan S](https://github.com/JustAnOrangeCat) - To anybody reading - hope you have an amazing time contributing to opensource projects!!
 -[Shikshith](https://github.com/Shikshith05)-Learning open source contributions !!!
