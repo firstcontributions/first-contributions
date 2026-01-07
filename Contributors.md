@@ -2740,6 +2740,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - Dhruva V Kidadumbe
 - [sadab pathan] (https://github.com/Sadab-0) : First step in open source conribution
 - [Vishal Rawal] (https://github.com/vishallrawal) : First Open Source Contribution
+- [Mateo Atehortua](https://github.com/NoSignificantHarassment37) : From Medellín, Colombia, sending a big hug to everyone on GitHub!
 - [Nahin Peñaranda](https://github.com/ItzNxhin) : First Open Source Contribution, Hola! Desde Colombia, Riohacha.
 - [Justin Lin 林詩杰](https://github.com/JustinLin65) : First Open Source Contribution
 - [Bhavesh Kerkar](https://github.com/bhaveshkerkar) : First open source contribution
