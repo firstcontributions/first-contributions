@@ -2854,3 +2854,4 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Mohamed Yousuf Husein](https://github.com/6302Mohamed) First open source contribution – Hello from Somaliland!
 - [Furquan Mobin Khan} (https://github.com/Furquan26)
 - Zainab Y
+- [JameAMSer](https://github.com/JameAMSer)
