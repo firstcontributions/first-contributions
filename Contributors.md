@@ -64,6 +64,7 @@
 - [zett721](https://github.com/zett721) : Happy New Year! This is my first contrubution in 2026 actually!
 - [Abhinav Vaidya](https://github.com/abhi9vaidya) : Happy New Year :)
 - [Suraj Raykar](https://github.com/ssuraj2504) : Happy New Year :)
+- [Roberto Togni](https://github.com/rtogni00): Hi everyone!
 -[Nishan](https://github.com/Nishan-Narvan)
 - Marco Musolf
 -[Rahul](https://github.com/SilverMoon-ops)
