@@ -3,6 +3,7 @@
 
 - [Lankok-id](https://github.com/lankok-id) - HALLO OM, INFO LOKER!!
 - [Yashparmar1125](https://github.com/Yashparmar1125) -Happy for my First Contribution!!
+- [Pradeep Rathod](https://github.com/pradeeprathod1165) - Started my open-source journey!!
 - [LunaraCodes](https://github.com/LunaraCodes) - 2026 is the year I contribute more!! 
 - [PaperLC](https://github.com/paperlc) -Happy new Year! Glad to meet you!
 - [Bobbyrobbob](https://github.com/BobbyRobBob) Happy "2026" to everyone! all the best on the start of the journey!
