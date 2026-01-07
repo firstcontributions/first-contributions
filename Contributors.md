@@ -1,6 +1,7 @@
 
 # Contributors
 
+- [Lankok-id](https://github.com/lankok-id) - HALLO OM, INFO LOKER!!
 - [Yashparmar1125](https://github.com/Yashparmar1125) -Happy for my First Contribution!!
 - [LunaraCodes](https://github.com/LunaraCodes) - 2026 is the year I contribute more!! 
 - [PaperLC](https://github.com/paperlc) -Happy new Year! Glad to meet you!
