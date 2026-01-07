@@ -2767,7 +2767,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Tejas Tiwari] (https://github.com/Ontiomacer) : My First Contribution on Github
 - [Rahul Kumar Rai](https://github.com/rahul-kr-rai/): My First contribution on open source.
 - [Arnav Raj] (https://github.com/Axis-GLC)
-
+- [JihoonJeong] (https://github.com/Yesthank) : hello my friends from Korea
 - K. Kavya
 - [Amos ](https://github.com/Aliko2020): My First contribution on open source.
 - [Darshan K G](https://github.com/Darshankg18): My First open source contribution
