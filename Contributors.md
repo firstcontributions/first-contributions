@@ -2873,3 +2873,5 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Fardin Sagor](https://github.com/fardinlab)
 - Mohammed Vijahath -> lets updgrade the world by open source Learning
 - hello! new commit.
+
+- [Jairo Melo](https://github.com/jairomelo)
