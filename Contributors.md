@@ -1,6 +1,6 @@
 
 # Contributors
-
+-[zenxrm](https://github.com/zenxrm)- my first open source in 2026 . currently in 3rd year . pls suggest me some ai-ml or ease one for open source contribution 
 -[Srinidhi188](https://github.com/Srinidhi188)- Started my open source journey
 - [Lankok-id](https://github.com/lankok-id) - HALLO OM, INFO LOKER!!
 - [Yashparmar1125](https://github.com/Yashparmar1125) -Happy for my First Contribution!!
