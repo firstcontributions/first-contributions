@@ -2859,3 +2859,4 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [CreativeC0der] (https://github.com/CreativeC0der) : I will break the wheel!!
 - [Atharv Kadam] (https://github.com/TheCosmicWizard) : Learn, Explore & Build
 - Shishir KC (https://github.com/Shishir-Kc) - > Lets gooo ! 
+- Sarthak Gupta (https://github.com/Sarthakaroonie) : Let's crack open source! Learning
