@@ -23,6 +23,7 @@
 -[ShaikFurqan](https://github.com/ShaikFurqan12)Looks like everyone started their open source journey.INtrested to connect and work together
 - [ARCHANA_GURUSAMY](https://github.com/ARCHANA-SENGUNTHAR)
 - [Efiom_jnr] (https://github.com/asabo-dev) 2026 is my year! Let's go!!!
+- [Ranjan] (https://github.com/ranjanssgj/Lia) Give your all everybody
 - [Roxtaru](https://github.com/Roxtaru)
 - [ChrisGS](https://github.com/DigitalFunStudios)
 - [yassine-20042004](https://github.com/yassine-20042004) this is my first coontribution to an open source 
