@@ -5,6 +5,7 @@
 - [Yashparmar1125](https://github.com/Yashparmar1125) -Happy for my First Contribution!!
 - [Harshit Kandoi](https://github.com/Harshit-Kandoi) - Hi, this is my first contribution to the open source!! Love to connect and grow together!
 - [Pradeep Rathod](https://github.com/pradeeprathod1165) - Started my open-source journey!!
+- [andywho](https://github.com/andywho11) - I wish everyone a happy 2026!
 - [LunaraCodes](https://github.com/LunaraCodes) - 2026 is the year I contribute more!! 
 - [PaperLC](https://github.com/paperlc) -Happy new Year! Glad to meet you!
 - [Bobbyrobbob](https://github.com/BobbyRobBob) Happy "2026" to everyone! all the best on the start of the journey!
