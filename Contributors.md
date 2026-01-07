@@ -12,6 +12,7 @@
 - [Bobbyrobbob](https://github.com/BobbyRobBob) Happy "2026" to everyone! all the best on the start of the journey!
 - [sanskarOH](https://github.com/sanskarOH) Happy "2026" to everyone! I just started my open source journey...
 - [Dr1zz3l](https://github.com/Dr1zz3l)
+-[ShaikFurqan](https://github.com/ShaikFurqan12)Looks like everyone started their open source journey.INtrested to connect and work together
 - [ARCHANA_GURUSAMY](https://github.com/ARCHANA-SENGUNTHAR)
 - [Efiom_jnr] (https://github.com/asabo-dev) 2026 is my year! Let's go!!!
 - [Roxtaru](https://github.com/Roxtaru)
