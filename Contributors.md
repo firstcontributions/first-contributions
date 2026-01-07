@@ -2859,3 +2859,5 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [CreativeC0der] (https://github.com/CreativeC0der) : I will break the wheel!!
 - [Atharv Kadam] (https://github.com/TheCosmicWizard) : Learn, Explore & Build
 - Shishir KC (https://github.com/Shishir-Kc) - > Lets gooo ! 
+
+- [S S Prashanth](https://github.com/Prashanth1602) -> First open source contribution, happy to start my journey.
