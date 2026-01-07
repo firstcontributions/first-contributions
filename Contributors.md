@@ -2289,6 +2289,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Moses Acknal](https://github.com/mosesacknals139)
 - Rupesh Sharma
 - [Sai Rudraksh](https://github.com/sairudraksh)
+[Teteu97](https://github.com/Teteu97)
 - Zeinabou Sall
 - [Naveen (NA-V10)](https://github.com/NA-V10)
 - [Shivam Singh](https://github.com/shivam123-dev) -[Mohit Malpote](https://github.com/mohit-malpote)
