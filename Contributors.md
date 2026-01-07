@@ -2856,3 +2856,4 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - Zainab Y
 - [JameAMSer](https://github.com/JameAMSer)
 - [CreativeC0der] (https://github.com/CreativeC0der) : I will break the wheel!!
+- [Atharv Kadam] (https://github.com/TheCosmicWizard) : Learn, Explore & Build
