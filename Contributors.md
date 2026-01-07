@@ -1,6 +1,7 @@
 
 # Contributors
 
+- [Julien Brun](https://github.com/brunj7) - contributing
 - [Arun Saini](https://github.com/Arun-Saini05) - My First Contribution to open source, 2026!
 - [Mohammed Abdullah](https://github.com/moh-d-m4x) - My first contribution to open source! ,  and i want to connect with you all to grow together!
 - [Joshua Hans](https://github.com/joshhans21)
