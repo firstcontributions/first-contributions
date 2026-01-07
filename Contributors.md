@@ -1,6 +1,7 @@
 
 # Contributors
 
+- [Kavya Dhiman](https://github.com/dimitri875) - Getting started with Open Source
 - [josenino95](https://github.com/josenino95) - Yeeeehaw
 -[Srinidhi188](https://github.com/Srinidhi188)- Started my open source journey
 - [Lankok-id](https://github.com/lankok-id) - HALLO OM, INFO LOKER!!
