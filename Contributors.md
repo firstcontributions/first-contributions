@@ -10,6 +10,7 @@
 - [LunaraCodes](https://github.com/LunaraCodes) - 2026 is the year I contribute more!! 
 - [PaperLC](https://github.com/paperlc) -Happy new Year! Glad to meet you!
 - [Bobbyrobbob](https://github.com/BobbyRobBob) Happy "2026" to everyone! all the best on the start of the journey!
+- [sanskarOH](https://github.com/sanskarOH) Happy "2026" to everyone! I just started my open source journey...
 - [Dr1zz3l](https://github.com/Dr1zz3l)
 - [ARCHANA_GURUSAMY](https://github.com/ARCHANA-SENGUNTHAR)
 - [Efiom_jnr] (https://github.com/asabo-dev) 2026 is my year! Let's go!!!
