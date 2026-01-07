@@ -1,6 +1,7 @@
 
 # Contributors
 
+- [Kavya Dhiman](https://github.com/dimitri875) - Getting started with Open Source
 - [Rahul Kumar](https://github.com/rahul05au): Hello! Starting 2026 with my first contribution!!!!!!!!
 - [josenino95](https://github.com/josenino95) - Yeeeehaw
 -[Srinidhi188](https://github.com/Srinidhi188)- Started my open source journey
