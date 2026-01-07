@@ -196,6 +196,7 @@ rodrick
 - [Aishwarya](https://github.com/hawarya/first-contributions.git): Begining of my open source journey ✨
 - [Ayush Raj Ranjan](https://github.com/ZapRaptor) : never too late to begin
 - [Samuel MW](https://github.com/samuel-micah) : just right, Got right
+- [Chan Wai Sam](https://github.com/cwsam66) : just left, got left
 - [Mohammad Nadeem](https://github.com/mdnadeemm) : First open source contribution
 - [Yasar Arafath](https://yasar-raf.github.io/portfolio) : New here
 - [Bhagyoday Jadhav](https://github.com/bhagyoday-j) : My first open source contribution
