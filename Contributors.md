@@ -2,6 +2,7 @@
 # Contributors
 
 - [Rahul Kumar](https://github.com/rahul05au): Hello! Starting 2026 with my first contribution!!!!!!!!
+- [josenino95](https://github.com/josenino95) - Yeeeehaw
 -[Srinidhi188](https://github.com/Srinidhi188)- Started my open source journey
 - [Lankok-id](https://github.com/lankok-id) - HALLO OM, INFO LOKER!!
 - [Yashparmar1125](https://github.com/Yashparmar1125) -Happy for my First Contribution!!
@@ -11,7 +12,9 @@
 - [LunaraCodes](https://github.com/LunaraCodes) - 2026 is the year I contribute more!! 
 - [PaperLC](https://github.com/paperlc) -Happy new Year! Glad to meet you!
 - [Bobbyrobbob](https://github.com/BobbyRobBob) Happy "2026" to everyone! all the best on the start of the journey!
+- [sanskarOH](https://github.com/sanskarOH) Happy "2026" to everyone! I just started my open source journey...
 - [Dr1zz3l](https://github.com/Dr1zz3l)
+-[ShaikFurqan](https://github.com/ShaikFurqan12)Looks like everyone started their open source journey.INtrested to connect and work together
 - [ARCHANA_GURUSAMY](https://github.com/ARCHANA-SENGUNTHAR)
 - [Efiom_jnr] (https://github.com/asabo-dev) 2026 is my year! Let's go!!!
 - [Roxtaru](https://github.com/Roxtaru)
@@ -239,6 +242,7 @@ rodrick
 - [Aanchal Sikarwar] ( https://github.com/Aanchal2004) : First open source contribution, to onwards and upwards!
 - [Aditya Sasidhar] (https://github.com/adityasasidhar) : First open source contribution, making sure it won't be my last
 - [Amey Sawant] (https://github.com/ameys2907) : First open source contribution!
+- [Jahnavi Patnam] (https://github.com/jah-navii) : lessgooo first Open source contribution
 - [Tripurari Pratap] (https://github.com/pratap-t) : First open source contribution
 - Marzia_Saidi
 - [Anshul Aryan](https://github.com/0x-anshu1) : First open source contribution
@@ -2575,6 +2579,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Anushka Aggarwal](https://github.com/anushka146)
 - [Pranay](https://github.com/pranayyyy6)
 - [Fausto Quevedo](https://github.com/faemmque)
+  [Sreeja Sadhu](https://github.com/SreejaSadhu)
 - [Derrel Tedianto](https://github.com/PakLer123)
 - [Vaishnavi KN](https://github.com/Vaishnavi-KN)
 - [Aditya Deshwal](https://github.com/adityadeshwal2529)
@@ -2859,3 +2864,5 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [CreativeC0der] (https://github.com/CreativeC0der) : I will break the wheel!!
 - [Atharv Kadam] (https://github.com/TheCosmicWizard) : Learn, Explore & Build
 - Shishir KC (https://github.com/Shishir-Kc) - > Lets gooo ! 
+- Sarthak Gupta (https://github.com/Sarthakaroonie) : Let's crack open source! Learning
+- [Fardin Sagor](https://github.com/fardinlab)
