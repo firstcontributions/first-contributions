@@ -2,6 +2,7 @@
 
 - [Anyaporwal](https://github.com/Anyaporwal) - First open source contribution!!🚀
 - [Srinidhi188](https://github.com/Srinidhi188) - Started my open source journey
+- [Kavya Dhiman](https://github.com/dimitri875) - Getting started with Open Source
 - [Rahul Kumar](https://github.com/rahul05au): Hello! Starting 2026 with my first contribution!!!!!!!!
 - [josenino95](https://github.com/josenino95) - Yeeeehaw
 - [Lankok-id](https://github.com/lankok-id) - HALLO OM, INFO LOKER!!
@@ -27,6 +28,7 @@
 - [Muhammad Zeeshan](https://github.com/ZeeshanUop) Hi Good Evening
 - [Hemanth Challa](https://github.com/hemanth0808) Hi Everyone, Excited to start with my first open source contribution.
 - [Mahdi Jafari](https://github.com/daykal)
+- [Yash Karande](https://github.com/Yashk907) Lets start open source journey!!!
 - [N1colas97](https://github.com/N1colas97) - Mi contribución
 - [Gaetano ] Ciao a tutti, thanks for the opportunity.
 - [deanscott13](https://github.com/deanscott13): Hello.
