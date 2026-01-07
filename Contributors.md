@@ -1,6 +1,7 @@
 
 # Contributors
 
+- [Rahul Kumar](https://github.com/rahul05au): Hello! Starting 2026 with my first contribution!!!!!!!!
 -[Srinidhi188](https://github.com/Srinidhi188)- Started my open source journey
 - [Lankok-id](https://github.com/lankok-id) - HALLO OM, INFO LOKER!!
 - [Yashparmar1125](https://github.com/Yashparmar1125) -Happy for my First Contribution!!
