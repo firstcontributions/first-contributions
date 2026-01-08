@@ -2882,4 +2882,4 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - hello! new commit.
 - [Yordis E Cujar](https://github.com/yordisc) First open source contribution – Hello from Venezuelan!
 - [Binnu](https://github.com/ibinnu)
-- [Jawhaa16](https://github.com/Jawhaa16) - First open source contribution
+- [Jawhaa16](https://github.com/Jawhaa16) - Hello from Mongolia! My first contribution 🇲🇳
