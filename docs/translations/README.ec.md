@@ -11,15 +11,15 @@ Este proyecto tiene como objetivo simplificar y guiar la forma en que los princi
 
 #### *Si no estás familiarizado con la línea de comandos, [aquí hay tutoriales usando herramientas con Interfaz Gráfica (GUI)](#tutoriales-usando-otras-herramientas)*
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork de este repositorio" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="hacer un fork de este repositorio" />
 
 En caso de no tener instalado Git en tu equipo, te dejo una [guia]( https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Instalaci%C3%B3n-de-Git) para instalarlo.
 
-## Has un "Fork" de este repositorio
+## Haz un "Fork" de este repositorio
 
 Presiona el boton "fork" de este repositorio en la parte superior derecha de la página. Al hacer esto, se crea una copia de este repositorio en tu cuenta de GitHub.
 
-## Has un "Clone" del repositorio copiado
+## Haz un "Clone" del repositorio copiado
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clonar este repositorio" />
 
@@ -72,7 +72,7 @@ En este caso, intenta usar git checkout en su lugar.
 
 Abre el archivo `Contributors.md` en un editor de texto y añade tu nombre. No lo añadas ni al principio ni al final del archivo, hazlo en cualquier otro sitio. Ahora guarda el archivo.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="introducir comando git status" />
 
 Si vas al directorio del proyecto y ejecutas el comando `git status`, podrás ver los cambios ya reflejados.
 
@@ -124,7 +124,7 @@ Reemplaza `<nombre-rama>` con el nombre de la rama que creaste anteriormente.
 
 Si vas a tu repositorio en GitHub, verás un botón `Compare & pull request`. Haz clic sobre este botón.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="crea una pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="crear una pull request" />
 
 Ahora envía el *pull request*.
 
