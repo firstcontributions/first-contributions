@@ -13,6 +13,7 @@
 - [Mahashri Saini](https://github.com/MahashriSaini) - Hello Github! This is my first open source contribution 2026!
 - [Joshua Hans](https://github.com/joshhans21)
 - [naga padmini](https://github.com/nagana03) - Hi, my dear fellow contributors. Happy to join you in 2026!
+- [Syed Sultan](https://github.com/Syed-56) - Greetings, Stepping my foot in open source world. Eager to make positive contributions!
 - [Kavya Dhiman](https://github.com/dimitri875) - Getting started with Open Source
 - [Rahul Kumar](https://github.com/rahul05au): Hello! Starting 2026 with my first contribution!!!!!!!!
 - [josenino95](https://github.com/josenino95) - Yeeeehaw
