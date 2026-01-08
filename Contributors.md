@@ -1220,6 +1220,7 @@ Matthew Burgos
 - [Erick Mata] (https://github.com/zarzamoraati)
 - [Ramiaemi Dashler](https://github.com/dashleremi)
 - [Xinsheng Ooi](https://github.com/xs1128)
+- [tallay23] (https://github.com/tallay23)
 - [Desi Petkova Lee](https://github.com/DesiPetkovaLee)
 - [Rahul Keswani](https://github.com/rahulkeswani010)
 - [GCabane](https://github.com/GCabane)
