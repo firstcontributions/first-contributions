@@ -158,6 +158,7 @@ rodrick
 -[Atharva Thakre](https://github.com/AtharvaThakre):My first open source contribution, definitely just the beginning of a great Adventure.
 -[Agampal Singh](https://github.com/agxmm01):My firs contribution to open source and learning.
 - [Saurabh Vishwakarma](https://github.com/Vishwakarma-Saurabh): Good to go!
+- [Rounak Khanam](https://github.com/rounakkhanam06) - Excited to make my first open-source contribution!
 - [Filip Masiar](https://github.com/fifo1318): First contribution lets goo!
 - [Sujan Singh Meena](https://github.com/sujan2000):My first open source contribution, definitely just the beginning of a great Adventure.
 - [Waseem Mushtaq](https://github.com/waseem1302-x): My first open source contribution, looking forward to contribute more!
