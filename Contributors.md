@@ -10,6 +10,7 @@
 - [Arun Saini](https://github.com/Arun-Saini05) - My First Contribution to open source, 2026!
 - [Mohammed Abdullah](https://github.com/moh-d-m4x) - My first contribution to open source! ,  and i want to connect with you all to grow together!
 - [Anuj Dhole](https://github.com/Anuj1718) - Hello everyone, this is me contributing to this repository.
+- [Mahashri Saini](https://github.com/MahashriSaini) - Hello Github! This is my first open source contribution 2026!
 - [Joshua Hans](https://github.com/joshhans21)
 - [naga padmini](https://github.com/nagana03) - Hi, my dear fellow contributors. Happy to join you in 2026!
 - [Kavya Dhiman](https://github.com/dimitri875) - Getting started with Open Source
