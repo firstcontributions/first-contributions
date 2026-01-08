@@ -31,6 +31,7 @@
 - [Efiom_jnr] (https://github.com/asabo-dev) 2026 is my year! Let's go!!!
 - [Ranjan](https://github.com/ranjanssgj/Lia) Give your all everybody
 - [Roxtaru](https://github.com/Roxtaru)
+- [vinzy](https://github.com/Vinzy0) - to more contributions in the future :D
 - [ChrisGS](https://github.com/DigitalFunStudios)
 - [yassine-20042004](https://github.com/yassine-20042004) this is my first coontribution to an open source 
 - [Aveta Shreya](https://github.com/AvetaSreya)
