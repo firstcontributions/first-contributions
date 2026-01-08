@@ -1,6 +1,6 @@
 
 # Contributors
-
+- [Sattik Siraj](https://github.com/SattikSiraj) - Korlam arki
 - [XuenDN](https://github.com/xuen0) - yo
 - [Nurmuhammad Sodiqjonov](https://github.com/sodiqjonovdev) - Hello everyone
 - [Nilesh Mori](https://github.com/nilesh7757) - Hello everyone this mis my first contribution hope i will like this open source journey
