@@ -396,6 +396,7 @@ rodrick
 - [Abdiaziz] (https://github.com/0paziz): "hey come check on me"
 - [Sujal Limbu] (https://github.com/sujal-limbu):"First contribution"
 - [Kashish564](https://github.com/Kashish564)
+- vv - to the world I say, "hello", to all else I say, "c'est parti" <3 :D
 - [Edwin Ezidhore] (https://github.com/EdwinEzidhore)
 - [Deepanshu Mishra](https://github.com/Deepanshumishra2004)
 - [Rifaldo](https://github.com/Rifaldo-dev)
