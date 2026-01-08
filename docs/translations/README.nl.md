@@ -65,7 +65,7 @@ git switch -c add-alonzo-church
 
 Open nu het `Contributors.md` bestand in een teksteditor en voeg je naam toe. Doe dit niet aan het begin of eind, maar ergens in het midden. Sla vervolgens het bestand op.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="Uitvoer van git status" />
 
 Als je naar de projectmap gaat en `git status` doet, zul je zien dat er wijzigingen zijn. 
 

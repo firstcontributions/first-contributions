@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -12,7 +12,7 @@ A projekt célja, hogy útmutatást nyújtson, egyszerűsítse és segítse a ke
 
 #### *Ha a parancssor kényelmetlen, [itt egy tutorial a GUI felület használatához.](#Oktatóanyagok-más-eszközök-használatával)*
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="forkold ezt a repót" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="oszd meg ezt a tárat" />
 
 Ha nincs a gépeden git, [telepítsd fel]( https://help.github.com/articles/set-up-git/).
 
@@ -29,7 +29,7 @@ Most klónozd az elágaztatott repót a gépedre. Menj a GitHub fiókodra, nyisd
 
 Nyiss egy terminált és futtasd a következő parancsot:
 
-```
+```bash
 git clone "url-amit-most-masoltal-le"
 ```
 A "url-amit-most-masoltal-le" kifejezést, cseréld ki (idézőjelek nélkül) a vágólapra helyezett repository url címére (ami ebből a projektől ágazik). Az ágaztatás folyamatát lásd az előző lépésben.
@@ -37,7 +37,7 @@ A "url-amit-most-masoltal-le" kifejezést, cseréld ki (idézőjelek nélkül) a
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="másold az URL címet a vágólapra" />
 
 Például:
-```
+```bash
 git clone https://github.com/a-te-git-neved/first-contributions.git
 ```
 A `a-te-git-neved` lesz a GitHub felhasználóneved. Ezzel letöltöd a first-contributions repositoryt GitHub-ról a saját számítógépedre.
@@ -46,18 +46,18 @@ A `a-te-git-neved` lesz a GitHub felhasználóneved. Ezzel letöltöd a first-co
 
 Navigálj a repository könytárába (ha nem ott vagy jelenleg):
 
-```
+```bash
 cd first-contributions
 ```
 
 Most készítsünk egy ágat `git checkout` parancs használatával:
 
-```
+```bash
 git switch -c <az-uj-branch-neve>
 ```
 
 Például:
-```
+```bash
 git switch -c add-gabor-takacs
 ```
 (A branch nevében nem kötelező, hogy benne legyen az *add* szó, de észszerű belefoglalni, mert ennek az ágnak az a célja, hogy hozzáadja a nevünket egy listához.)
@@ -66,7 +66,7 @@ git switch -c add-gabor-takacs
 
 Nyisd meg a `Contributors.md` fájlt egy szövegszerkesztőben, majd add hozzá a neved. Ne a fájl elejére vagy végére helyezd, hanem a kettő közé. A kettő között bárhová teheted. Mentsd el a fájlt.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git állapot" />
 
 
 Ha a project könyvtárába navigálsz és futtatod a `git status` parancsot, akkor a következő módosításokat fogod látni:
@@ -74,12 +74,12 @@ Ha a project könyvtárába navigálsz és futtatod a `git status` parancsot, ak
 
 Ezeket a módosításokat add hozzá a branchez a `git add` paranccsal:
 
-```
+```bash
 git add Contributors.md
 ```
 
 Commitoljuk a módosításokat a `git commit` paranccsal:
-```
+```bash
 git commit -m "Add <a-te-neved> to Contributors list"
 ```
 Helyettesítsd `<a-te-neved>` kifejezést a saját neveddel.
@@ -87,7 +87,7 @@ Helyettesítsd `<a-te-neved>` kifejezést a saját neveddel.
 ## Töltsd fel az elkészült változtatásokat a GitHub-ra (push)
 
 Töltsd fel a változtatásokat a `git push` paranccsal:
-```
+```bash
 git push origin <a-branch-neve>
 ```
 Helyettesítsd az `<a-branch-neve>` kifejezést annak a branchnek a nevével, amit korábban létrehoztál.
@@ -96,11 +96,11 @@ Helyettesítsd az `<a-branch-neve>` kifejezést annak a branchnek a nevével, am
 
 Ha a saját repódba navigálsz GitHub-on, látnod kell a `Compare & pull request` gombot. Kattints rá!
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="pull request készítése" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="hozz létre egy pull request-et" />
 
 Sikeresen elküldted a pull requested.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="pull request beküldése" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="küldd be a pull request-et" />
 
 Kis idő elteltével összevonja a változásokat a project fő ágában. Értesítést fogsz kapni emailben, ha a változások összefűzésre kerültek.
 
