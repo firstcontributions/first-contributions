@@ -391,6 +391,7 @@ rodrick
 - [Paulo Marques](https://github.com/Kthwar): "Tenho em mim todos os sonhos do mundo"
 - [Christopher Lusk] (https://github.com/north-echo)
 - [Abdiaziz] (https://github.com/0paziz): "hey come check on me"
+- [Sujal Limbu] (https://github.com/sujal-limbu):"First contribution"
 - [Kashish564](https://github.com/Kashish564)
 - [Edwin Ezidhore] (https://github.com/EdwinEzidhore)
 - [Deepanshu Mishra](https://github.com/Deepanshumishra2004)
@@ -400,7 +401,7 @@ rodrick
 - [Evan Cogan] (https://github.com/evancogan)
 - [Pratham Chavhan](https://github.com/prathamchavhan)
 - [Ayush Gohil](https://github.com/ayushgohil)
-- [Aravind Vinod](https://github.com/aaarrvind) : Trying out open source :)
+- [Aravind Vinod](https://github.com/aaarrvind) : Trying out open source 
 - [Sriharshini Kuruvella](https://github.com/Sriharshini7)
 - [Sayan Banerjee](https://github.com/sayan14banerjee)
 - [Sourav Mitra](https://github.com/SouravMitra98): My first Contribution
