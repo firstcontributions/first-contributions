@@ -2,6 +2,7 @@
 # Contributors
 
 - [XuenDN](https://github.com/xuen0) - yo
+- [Alan Sajith](https://github.com/alansajith) - happy 2026
 - [Nurmuhammad Sodiqjonov](https://github.com/sodiqjonovdev) - Hello everyone
 - [Nilesh Mori](https://github.com/nilesh7757) - Hello everyone this mis my first contribution hope i will like this open source journey
 - [Farhanul Hoque](https://github.com/farhanulhoque) - Hello everyone
