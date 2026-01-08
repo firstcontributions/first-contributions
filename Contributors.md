@@ -53,6 +53,7 @@
 -[Moin Qamr](https://github.com/Moin36532)-I wish a happy new year to eveyone "2026"
 -[Somesh Padsalge](https://github.com/Somesh04-tech) - learning open source contributions!!!
 -[hu-119](https://github.com/hu119-web)
+-[fersonull](https://github.com/fersonull) - :D
 -[Kailash Manandhar](https://github.com/KailashManandhar)
 - [Praveer Ranjan Singh](https://github.com/PRAVEERRANJANSINGH)
 -[madmax73](https://github.com/madmax73) - let's gooooooo
