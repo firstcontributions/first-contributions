@@ -1,5 +1,4 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -13,7 +12,7 @@ Rakstu lasīšana un pamācību skatīšanās var palīdzēt, tomēr nekas nav l
 #### *Ja tu nejūties ērti ar komandrindu, [izmanto GUI rīku pamācības.]( #pamācības-citiem-rīkiem )*
 
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="sadaliet šo repozitoriju" />
 
 Ja tavā datorā nav git, [uzinstalē to]( https://help.github.com/articles/set-up-git/).
 
@@ -24,21 +23,21 @@ Tādējādi tavā profilā tiks izveidota šī repozitorija kopija.
 
 ## Klonē repozitoriju
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="klonējiet šo repozitoriju" />
 
 Tagad klonē nokopēto repozitoriju savā datorā. Ej uz savu GitHub profilu, atver nokopēto repozitoriju, nospied *clone* pogu un tad nospied uz *copy to clipboard* ikonas.
 
 Atver termināli un palaid šo git komandu:
 
-```
+```bash
 git clone "tikko nokopētā saite"
 ```
 kur "tikko nokopētā saite" (bez pēdiņām) ir url uz šo repozitoriju (tavs projekta atzarojums). Apskaties iepriekšējos soļos, kā dabūt url.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="kopējiet URL starpliktuvē" />
 
 Piemēram:
-```
+```bash
 git clone https://github.com/tavs-vārds/first-contributions.git
 ```
 kur `tavs-vārds` ir tavs GitHub lietotājvārds. Šādi tu kopē GitHub repozitorija *first-contributions* saturu savā datorā.
@@ -47,16 +46,16 @@ kur `tavs-vārds` ir tavs GitHub lietotājvārds. Šādi tu kopē GitHub repozit
 
 Savā datorā nomaini repozitorija direktoriju (ja tu vēl neatrodies tajā):
 
-```
+```bash
 cd first-contributions
 ```
 Tagad izveido zaru ar `git checkout` komandu:
-```
+```bash
 git checkout -b <ieliec-jaunā-zara-nosaukumu>
 ```
 
 Piemēram:
-```
+```bash
 git checkout -b add-alonzo-church
 ```
 (Zara nosaukumā nav obligāti jābūt vārdam *add*, bet būtu lietderīgi to iekļaut, jo šī zara mērķis ir tava vārda pievienošana sarakstam.)
@@ -73,12 +72,12 @@ Ja tu dosies uz projekta direktoriju un izpildīsi komandu `git status`, tu redz
 
 Pievieno šīs izmaiņas zaram, kuru tu tikko izveidoji, ar `git add` komandu:
 
-```
+```bash
 git add Contributors.md
 ```
 
 Tagad iesūti šīs izmaiņas ar `git commit` komandu:
-```
+```bash
 git commit -m "Add <tavs-vārds> to Contributors list"
 ```
 aizvietojot `<tavs-vārds>` ar savu vārdu.
@@ -86,7 +85,7 @@ aizvietojot `<tavs-vārds>` ar savu vārdu.
 ## Pievieno izmaiņas GitHub
 
 Pievieno savas izmaiņas ar komandu `git push`:
-```
+```bash
 git push origin <ievieto-zara-nosaukumu>
 ```
 aizvietojot `<ievieto-zara-nosaukumu>` ar zara, kuru tu iepriekš izveidoji, nosaukumu.
@@ -95,11 +94,11 @@ aizvietojot `<ievieto-zara-nosaukumu>` ar zara, kuru tu iepriekš izveidoji, nos
 
 Ja tu dosies uz savu GitHub repozitoriju, tu redzēsi `Compare & pull request` pogu. Nospied to.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="izveidojiet pull request" />
 
 Tagad iesniedz pievienotās izmaiņas.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="iesniedziet pull request" />
 
 Jau pavisam drīz es pievienošu visas tavas izmaiņas šī projekta galvenajam (master) zaram. Tu saņemsi paziņojumu e-pastā, tiklīdz izmaiņas būs pievienotas.
 
@@ -108,8 +107,6 @@ Jau pavisam drīz es pievienošu visas tavas izmaiņas šī projekta galvenajam 
 Apsveicam! Tu tikko pabeidzi standarta  _fork -> clone -> edit -> PR_  darbplūsmu, ar kuru turpmāk bieži nāksies sastapties kā līdzautoram.
 
 Pastāsti par savu devumu saviem draugiem un sekotājiem, izmantojot [mūsu vietni](https://firstcontributions.github.io/#social-share).
-
-Tu vari pievienoties arī mūsu slack komandai, ja tev nepieciešama palīdzība vai ir kādi jautājumi. [Pievienojies slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
 Tagad tu vari līdzdarboties arī citos projektos. Mēs esam sastādījuši sarakstu ar projektiem, kuros ir vienkāršas problēmas, ar kurām tu varētu sākt. Izpēti [projektu sarakstu mūsu vietnē](https://firstcontributions.github.io/#project-list).
 
