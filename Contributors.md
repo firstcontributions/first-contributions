@@ -785,6 +785,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [deepak mishra](https://github.com/BEPAWSITIVE)
 - [Caleb Fan](https://github.com/Gazfang)
 - [Anandajith S](https://github.com/AnandajithS)
+- [Zishan-Qureshi] (https://github.com/zishanq7861) Hello World! This is my first open source contribution.
 - [Savindya Thathsarani](https://github.com/Savindya322)
 - [Gajji Chandu Yadav](https://github.com/AnandajithS)
 - [Christian Gongora](https://github.com/ChristianGongoraDeMoraes)
