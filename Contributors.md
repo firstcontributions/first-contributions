@@ -19,6 +19,7 @@
 - [Youcef-Chalbi](https://github.com/Youcef3939) -FIRST CONTRIBUTION TO OPEN SOURCE IN 2026!
 - [Pradeep Rathod](https://github.com/pradeeprathod1165) - Started my open-source journey!!
 - [andywho](https://github.com/andywho11) - I wish everyone a happy 2026!
+- [Steve Hunter](https://github.com/tintombstone/)Happy 2026.  I promise to learn something new
 - [LunaraCodes](https://github.com/LunaraCodes) - 2026 is the year I contribute more!! 
 - [PaperLC](https://github.com/paperlc) -Happy new Year! Glad to meet you!
 - [Bobbyrobbob](https://github.com/BobbyRobBob) Happy "2026" to everyone! all the best on the start of the journey!
