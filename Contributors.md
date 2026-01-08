@@ -3,6 +3,7 @@
 
 - [XuenDN](https://github.com/xuen0) - yo
 - [Nurmuhammad Sodiqjonov](https://github.com/sodiqjonovdev) - Hello everyone
+- [Nilesh Mori](https://github.com/nilesh7757) - Hello everyone this mis my first contribution hope i will like this open source journey
 - [Farhanul Hoque](https://github.com/farhanulhoque) - Hello everyone
 - [Ryan Wibawa](https://rwibawa.github.io/) - Hello all, this is my contribution to open source in the beginning of 2026!
 - [Anshu Jain](https://github.com/anshujain1)- Hello guys , starting my open source journey today!
