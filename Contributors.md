@@ -316,6 +316,7 @@ rodrick
 - [BVSK](https://github.com/bvsk369)
 - [Khushal Pankhaniya](https://github.com/khushalpankhaniya)
 - [IshCode1]
+- [Ashish Kumar Ishwar](https://github.com/Ashish241)
 - [Molly Kao](https://github.com/Dino-Boooo) : First contribution!!🎄
 - [envy](https://github.com/envynshit)
 - [Rashmi Priya] (https://github.com/rashmip2102) :
