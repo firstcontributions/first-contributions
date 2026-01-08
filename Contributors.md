@@ -1,6 +1,8 @@
 
 # Contributors
 
+- [Nurmuhammad Sodiqjonov](https://github.com/sodiqjonovdev) - Hello everyone
+- [Farhanul Hoque](https://github.com/farhanulhoque) - Hello everyone
 - [Ryan Wibawa](https://rwibawa.github.io/) - Hello all, this is my contribution to open source in the beginning of 2026!
 - [Jose Nino](https://github/josenino95)
 - [Arun Saini](https://github.com/Arun-Saini05) - My First Contribution to open source, 2026!
@@ -167,6 +169,7 @@ rodrick
 - [Amikel] Hello! :)
 - [Nimarjot kaur][https://github.com/Nimarjot1]: This is my first contribution
 - [Femi-Olagundoyeoluwaferanmi](https://github.com/Gevans4352): This is my very first open source! lets get it!!!!
+- [Sai Kumar Reddy][https://github.com/skreddie]: My First PR
 - [Siddharth Axaykumar Mehta](https://github.com/myselfsiddharth): Why not ! Let's get that damn badge !!!
 - [Jason Balayev](https://github.com/JasonBalayev): One commit at a time
 - [Kim Seongeon](https://github.com/mudhopper) : First open source contribution
@@ -2882,3 +2885,6 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - Mohammed Vijahath -> lets updgrade the world by open source Learning
 - hello! new commit.
 - [Yordis E Cujar](https://github.com/yordisc) First open source contribution – Hello from Venezuelan!
+- [Binnu](https://github.com/ibinnu)
+- [Jawhaa16](https://github.com/Jawhaa16) - Hello from Mongolia! My first contribution 🇲🇳
+- [Mohammad Kaif Ansari](https://github.com/Mohammad-Kaif45) - Hello From Vapi
