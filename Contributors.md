@@ -3,10 +3,12 @@
 - [Nurmuhammad Sodiqjonov](https://github.com/sodiqjonovdev) - Hello everyone
 - [Farhanul Hoque](https://github.com/farhanulhoque) - Hello everyone
 - [Ryan Wibawa](https://rwibawa.github.io/) - Hello all, this is my contribution to open source in the beginning of 2026!
+- [Anshu Jain](https://github.com/anshujain1)- Hello guys , starting my open source journey today!
 - [Jose Nino](https://github/josenino95)
 - [Arun Saini](https://github.com/Arun-Saini05) - My First Contribution to open source, 2026!
 - [Mohammed Abdullah](https://github.com/moh-d-m4x) - My first contribution to open source! , and i want to connect with you all to grow together!
 - [Joshua Hans](https://github.com/joshhans21)
+- [naga padmini](https://github.com/nagana03) - Hi, my dear fellow contributors. Happy to join you in 2026!
 - [Kavya Dhiman](https://github.com/dimitri875) - Getting started with Open Source
 - [Rahul Kumar](https://github.com/rahul05au): Hello! Starting 2026 with my first contribution!!!!!!!!
 - [josenino95](https://github.com/josenino95) - Yeeeehaw -[Srinidhi188](https://github.com/Srinidhi188)- Started my open source journey
@@ -25,6 +27,7 @@
 - [Efiom_jnr] (https://github.com/asabo-dev) 2026 is my year! Let's go!!!
 - [Ranjan](https://github.com/ranjanssgj/Lia) Give your all everybody
 - [Roxtaru](https://github.com/Roxtaru)
+- [vinzy](https://github.com/Vinzy0) - to more contributions in the future :D
 - [ChrisGS](https://github.com/DigitalFunStudios)
 - [yassine-20042004](https://github.com/yassine-20042004) this is my first coontribution to an open source
 - [Aveta Shreya](https://github.com/AvetaSreya)
@@ -145,6 +148,7 @@
 - [Amikel] Hello! :)
 - [Nimarjot kaur][https://github.com/Nimarjot1]: This is my first contribution
 - [Femi-Olagundoyeoluwaferanmi](https://github.com/Gevans4352): This is my very first open source! lets get it!!!!
+- [Sai Kumar Reddy][https://github.com/skreddie]: My First PR
 - [Siddharth Axaykumar Mehta](https://github.com/myselfsiddharth): Why not ! Let's get that damn badge !!!
 - [Jason Balayev](https://github.com/JasonBalayev): One commit at a time
 - [Kim Seongeon](https://github.com/mudhopper) : First open source contribution
