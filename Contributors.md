@@ -1330,6 +1330,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [AvAdiii](https://github.com/AvAdiii)
 - [Zencriel](https://github.com/Zencriel)
 - [ShahabKiyani](https://github.com/shahabKiyani)
+- Shivansh
 - [OmkarS](https://github.com/omkar402)
 - [Hisham](https://github.com/sikehish)
 - [Gerald](https://github.com/Gerose316)
