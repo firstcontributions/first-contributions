@@ -128,6 +128,7 @@ rodrick
 - [Yug Patel](https://github.com/yugp31) Hello world!
 - [DC07OCT](https://github.com/DC07OCT) Happy New Year~ First contribution in 2026!
 - [Kajetan Marer](https://github.com/xsouris) ggs wp
+- [Aditya Wadekar](https://github.com/adityacoddes) Challenge accepted....
 - [Aashik thakur](https://github.com/CodeByAashik):  Hello world, my first open-source contribution
 - [Maryam](https://github.com/maryamscoding): Hello! Starting 2026 with my first contribution!!
 - [Mohammed Anas](https://github.com/Anas-Blue): Finally!!
