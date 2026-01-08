@@ -2893,3 +2893,4 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Jawhaa16](https://github.com/Jawhaa16) - Hello from Mongolia! My first contribution 🇲🇳
 - [Mohammad Kaif Ansari](https://github.com/Mohammad-Kaif45) - Hello From Vapi
 * [Ryu N](https://github.com/sl1x101) - Hello first contribution 
+- [Prashant Reddy](https://github.com/PrashantReddy456): Day 1 of contribuiton
