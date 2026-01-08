@@ -1,6 +1,6 @@
 
 # Contributors
-
+-[shivanggipta23](https://github.com/shivanggupta23) - happy for contribution
 - [Nurmuhammad Sodiqjonov](https://github.com/sodiqjonovdev) - Hello everyone
 - [Farhanul Hoque](https://github.com/farhanulhoque) - Hello everyone
 - [Ryan Wibawa](https://rwibawa.github.io/) - Hello all, this is my contribution to open source in the beginning of 2026!
