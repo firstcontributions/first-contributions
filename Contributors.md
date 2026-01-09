@@ -2958,3 +2958,4 @@ Dinesh Ingale
 -[AlexRohith](https://github.com/Alexrohith) : Excited to my start in the open source !!!
 - [Parag](https://github.com/ParagD1606) : My first open source contribution
 - [Ayush Thakur](https://github.com/ayush-thakur01) : my first open source contribution
+- [Korotkov Egor](https://github.com/KorotEgor) : Hello, my first open source project!
