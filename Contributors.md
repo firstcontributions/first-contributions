@@ -2951,3 +2951,4 @@ Dinesh Ingale
 -[gado]
 -[Diksha Magdum](https://github.com/dikshamagdum15)
 -[Shreyy](https://github.com/shreyy18)
+-[AlexRohith](https://github.com/Alexrohith) : Excited to my start in the open source !!!
