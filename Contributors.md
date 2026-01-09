@@ -13,6 +13,7 @@
 -[Vibha yadav]
 - [Anshu Jain](https://github.com/anshujain1)- Hello guys , starting my open source journey today!
 - [Jose Nino](https://github/josenino95)
+- [A-humza](https://github.com/A-humza) - Wishing everyone a fruitful 2026, good luck out there y'all!
 - [Arun Saini](https://github.com/Arun-Saini05) - My First Contribution to open source, 2026!
 - [Mohammed Abdullah](https://github.com/moh-d-m4x) - My first contribution to open source! ,  and i want to connect with you all to grow together!
 - [Anuj Dhole](https://github.com/Anuj1718) - Hello everyone, this is me contributing to this repository.
