@@ -1998,6 +1998,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Khushi Singh](https://github.com/mekhushi)
 - [Kimjunseoo](https://github.com/kimjunseoo)
 - [Goonerd](https://github.com/Goonerd17)
+- [Mais Hours] 
 - [Koichi-Kodama](https://github.com/Kytoshi)
 - [KristinnTh](https://github.com/KristinnTh)
 - [KundanGowda](https://github.com/kundan05)
