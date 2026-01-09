@@ -12,6 +12,7 @@
 - [Farhanul Hoque](https://github.com/farhanulhoque) - Hello everyone
 - [Ryan Wibawa](https://rwibawa.github.io/) - Hello all, this is my contribution to open source in the beginning of 2026!
 -[Vibha yadav]
+- [Sanya Kumari](https://github.com/SanyaKumari09)- Hello everyone, this is my first contribution to open source. Happy to be part of the community. 
 - [Anshu Jain](https://github.com/anshujain1)- Hello guys , starting my open source journey today!
 - [Jose Nino](https://github/josenino95)
 - [A-humza](https://github.com/A-humza) - Wishing everyone a fruitful 2026, good luck out there y'all!
