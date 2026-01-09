@@ -997,6 +997,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Yas](https://github.com/ykip10)
 - [Chaitanya Patil](https://github.com/Chaitanyahoon)
 - {Karshik Madavi}:{https://github.com/c0-d-3c}
+- [Maithil Mishra](https://github.com/maithilmishra) : First open-source contribution!!
 - [Juliana Prado](https://github.com/julevi)
 - [Kris Bali](https://github.com/Oxerlax)
 - [Crisandresro012](https://github.com/Cristhian012)
