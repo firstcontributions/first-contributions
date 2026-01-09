@@ -336,6 +336,7 @@ rodrick
 - [Houria Hasbellaoui](https://github.com/Houria-hs)
 - [杨超](https://github.com/superyoung9208) : 今天打老虎
 - [Shubham Pandit](https://github.com/shubham-283) : There were 17,683 commits before my contribution. This is where my journey begins!!
+- [Vishalraja](https://github.com/vishalrajal) : Learning open source contributions 
 - [Gautam Kalamkar](https://github.com/Gautamkalamkar) : This is certainly exciting as it gets!
 - [Sohel Munjewar](https://github.com/ShankyCodeX)
   Abdulrahman Sultan
