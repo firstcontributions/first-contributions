@@ -2949,3 +2949,4 @@ Dinesh Ingale
 - [Soham Bhattacharjee](https://github.com/SohamBhattacharjee2003):Hello! I am from India. This is my first contribution... 
 - [Dhanush D Prabhu](https://github.com/iamdevdhanush): Hello!
 -[gado]
+-[Diksha Magdum](https://github.com/dikshamagdum15)
