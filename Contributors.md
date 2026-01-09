@@ -170,7 +170,7 @@ rodrick
 - [Sarthak Veer](https://github.com/Sarthakveer11): Exploring Open-Source
 - [Chaitanya Mishra](https://github.com/chaitanya-mishra-ai): Contributing to open source, one PR at a time! 🚀
 -[Atharva Thakre](https://github.com/AtharvaThakre):My first open source contribution, definitely just the beginning of a great Adventure.
--[Agampal Singh](https://github.com/agxmm01):My firs contribution to open source and learning.
+-[Agampal Singh](https://github.com/agxmm01):My first contribution to open source and learning.
 - [Saurabh Vishwakarma](https://github.com/Vishwakarma-Saurabh): Good to go!
 - [Rounak Khanam](https://github.com/rounakkhanam06) - Excited to make my first open-source contribution!
 - [Filip Masiar](https://github.com/fifo1318): First contribution lets goo!
@@ -184,6 +184,7 @@ rodrick
 - [Anurag Chandra](https://github.com/anuragchandr):- I had a experiance of open source through GSSoC, now i want to restart it in open world.Greeting everyone.🥰
 - [Yassin Abdelghany](https://github.com/yss1n-0): This is just the beginning! 🐣
 - [Mohit Chhaparwal](https://github.com/mohitchhaparwal):- Learn to contribute, contribute to learn!
+- [Agampal Singh] (https://github.com/agxm01):- Lets contribute and help every developer!
 - [Kaushalya](https://github.com/kaushalya-f10):first open-source contribution 🚀
 - [Sakeef Mushfique](https://github.com/sakmus): First ever open source contribution. Looking forward for more collaboration.
 - [Amikel] Hello! :)
