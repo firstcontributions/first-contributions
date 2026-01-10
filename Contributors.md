@@ -1,5 +1,6 @@
 # Contributors
 
+- [Joaquin Del Pego](hhttps://github.com/jdelpego) - First open source contribution. 
 - [bryan](https://github.com/bryanallas)
 - [Jose Nino Muriel](ttps://github.com/josenino95)
 - [Nasrin Zaman](https://github.com/nasrin-zaman)
