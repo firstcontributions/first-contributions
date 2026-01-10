@@ -193,6 +193,15 @@ git push -u origin your-branch-name
 
 replacing `your-branch-name` with the name of the branch you created earlier.
 
+## Helpful Tips for First Time Contributors
+
+If you're new to GitHub:
+- Take your time reading this guide
+- Practice PR workflow with a practice repo
+- Don’t hesitate to ask for help in comments
+- Keep your commit messages meaningful and clear
+
+
 <details>
 <summary> <strong>If you get any errors while pushing, click here:</strong> </summary>
 
