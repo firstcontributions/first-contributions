@@ -2946,7 +2946,8 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [esccot](https://github.com/Esccot) yay! first open source contribution.
 -[esccot](https://github.com/Esccot)  yay! first open source contribution.
 -[VEDANT SONAWANE](https://github.com/royalvedant)-----LET'S GO  🚀🚀🚀------
-- [Yaswanth Naga Sai K](https://github.com/YASWANTH1976)
+-[Rana Devanshi Chitrang](https://github.com/DevanshiWork1404)Hi!It's my first contributions🙋‍♀️
+-[Yaswanth Naga Sai K](https://github.com/YASWANTH1976)
 -[Ashish Sai Kumar](https://github.com/askaskak113)
 - [Mohamed Yousuf Husein](https://github.com/6302Mohamed) First open source contribution – Hello from Somaliland!
 - [Furquan Mobin Khan} (https://github.com/Furquan26)
