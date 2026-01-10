@@ -1,6 +1,7 @@
 # Contributors
 
 - [bryan](https://github.com/bryanallas)
+- [Jose Nino Muriel](ttps://github.com/josenino95)
 - [Nasrin Zaman](https://github.com/nasrin-zaman)
 - [hesphoros](https://github.com/hesphoros) - Hello everyone,I am trying to be a distinguished developer.
 
