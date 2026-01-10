@@ -175,6 +175,7 @@ open-source contribution. Will stay consistent and keep learning progressively.
 - [Bishal](https://github.com/11deybishal-commits)
 - [Lakshita Bisht](https://github.com/LakshitaBisht11):
 - [Ibadatt Singh Aulakh](https://ibadatt-2k.github.io/portfolio/) Keep winning chat!!:
+- [limitbin](https://github.com/LimitBin):gogogo
 - [Deju Adejo](https://github.com/DejusDevspace): Let's see what the open source world holds for me...
 - [吴博](https://github.com/JasonWuInBJ): 一起搞AI
 - [BOUKEF Mohamed Lamine](https://github.com/Boukef): If you’re reading this, you matter. Have a great day!
@@ -307,6 +308,7 @@ rodrick
 - [Omkar Shenwai] (https://github.com/OmkarShenwai865) : First open source contribution
 - [Rashmi Priya] (https://github.com/rashmip2102) : First contribution, hope I stay consistent
 - [Kalpana Bhaskar](https://github.com/KalpanaBhaskar) : First contribution! Hoping to work more in open source development!
+Gogogo
 - [Sreelekhaa Santhosh](https://github.com/ssreelekhaa22) : First open source contribution
 - [Sarthak Tyagi] (https://github.com/sarthak-cs) :First contribution, Here to learn more
 - [Vlad Hnatovskyi] (https://github.com/vladhnat) : First open source contribution
