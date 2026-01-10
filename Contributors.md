@@ -118,6 +118,7 @@
 - [Ron Luu] (https://github.com/RonLuu): Happy New Year guys
 - [KMSDINESH](https://github.com/KMSDINESH)
 - [Pigar Biteng](https://github.com/PBJswich) - Hello yall, happy to make my first contribution to open source, 2026!
+-[Shreekar gb](https://github.com/shreekargb)- Hello friends , this is my first contribution to open source and I'm really very excited!!.
 - [Lahar-Solanki](https://github.com/Laharsolanki) : Excited for GSOC 2026 because it is my first time.
 - [Akash-Praveen](https://github.com/GPAPD):  Happy new year, 2026!
 - [Swanand Siknis](https://github.com/swanand70): 21:09, 30-12-25, Happy new year, 2026!
