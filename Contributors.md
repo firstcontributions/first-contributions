@@ -27,6 +27,7 @@
 - [Navoneel Dey](https://github.com/Navoneel3) - Helloo everyone, this is my first open source contribution.
 - [Anmol Gandhi](https://github.com/angn21) - Hi all! Making my first open source contribution here!
 - [Sandhra Ann](https://github.com/echoLogicX) - Helloo, this is my first contribution to open source.
+- [Aryan Hooda](https://github.com/Aryan3522) - Hi everyone! Starting my contribution journey. Looking forward to contribute to more projects.
 - [Anshu Jain](https://github.com/anshujain1)- Hello guys , starting my open source journey today!
 - [Jose Nino](https://github/josenino95)
 - [A-humza](https://github.com/A-humza) - Wishing everyone a fruitful 2026, good luck out there y'all!
