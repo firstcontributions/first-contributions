@@ -5,7 +5,7 @@
 - [Jose Nino Muriel](ttps://github.com/josenino95)
 - [Nasrin Zaman](https://github.com/nasrin-zaman)
 - [hesphoros](https://github.com/hesphoros) - Hello everyone,I am trying to be a distinguished developer.
-
+- [Suresh Paliwal][https://github.com/devilisback100] - Hello everyone, Today I am starting my open source journey Today ! wish me luck
 - [Gary Chen](https://github.com/Gary-XC) - Starting my first contribution to open source in 2026, the first of many to come
 - [mr-bott](https://github.com/mr-bott) - First open-source contribution to a public GitHub repository.
 - [owen](https://github.com/hiiraeth) - happy 2026 :)
