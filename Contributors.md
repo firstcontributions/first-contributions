@@ -2984,3 +2984,4 @@ Dinesh Ingale
 -[Mohd Moazzam](https://github.com/mm541):Hello, i am excited for my open source contribution journey!! 
 -[kirti Chavan](https://github.com/Kirti1234-hash) : My First Open source Contribution...
 -[Tausief S](https://github.com/SheikhTausief) : My first open source contribution... ☺️
+- [Hardik Singh] (https://github.com/hardiksingh-0-0)
