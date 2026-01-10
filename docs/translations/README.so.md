@@ -7,7 +7,7 @@
 Mashruucan ujeedadiisu waxey tahay in la fududeyo iyo in la hago kuwa bilawga ah si ay usameyan wax ku biirintooda kowaad "First contribution". Hadii aad raadinayso sida aad usameyn laheyd wax ku biirintaada kowaad, talaabooyinkan soo socda raac.
 
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="Sawir muujinaya badhanka fork ee kaydkan " />
 
 #### Haddii git uusan kuugu jirrin kombiyuutarkaaga, [Soo dagso](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
@@ -18,7 +18,7 @@ Tani waxay ciwaankaga kudhax abuuri doontaa koobiga kaydkan
 
 ## Koobbi (clone) kaydka
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="Sawir muujinaya sida loo soo dejiyo kaydkan adiga oo clone ka samaynaya" />
 
 Hadda ku koobbi kaydkan kombiyuutarkaaga.Tag Akoonkaaga GitHub, Waxaad furtaa kaydki aad Kala qeybisay, Waxaad gujisa badhanka ku qoran "Code" ka dibna taabo koobiga sumadda sabuuradda.
 
@@ -30,7 +30,7 @@ git clone "url-ka aad hadda soo koobbiyeysay"
 
 Iyadoo "url-ka aad hadda soo koobbiyeysay"  (oo aan lahayn calaamadaha xigashada) uu yahay url-ka ama linkiga kaydkaan. waxaad dib usoo eegtaa talaabooyinkii hore si aad u hesho url-ka
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="Sawir muujinaya badhanka lagu koobiyeeyo URL‑ka" />
 
 Tusaale:
 
@@ -81,7 +81,7 @@ Tusaale:
 Hubi in aysan jirin meelo bannaan oo u dhexeeya `](`. Keydi oo xidh faylka.
 
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="Sawir shaashad terminal ah oo muujinaysa natiijada amarka git status" />
 
 Haddii aad tagto galka aad fuliso amarka `git status` waxaad arki doonta inay jiraan isbedelo
 
@@ -126,11 +126,11 @@ Adigoo `magaca-laantaada` ku badalaya magaca laanta aad hore u abuurtay.
 
 Haddii aad tagto kaydkaaga GitHub,waxaad arki doontaa badhanka `Compare & pull request`. Badhankaas guji.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="Sawir muujinaya bogga GitHub ee la adeegsanayo si loo abuuro pull request cusub" />
 
 Hadda soo gudbi codsiga jiidista (pull request).
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="Sawir muujinaya badhanka lagu gudbiyo pull request‑ka" />
 
 Dhawaan waxaan ku dari doonaa dhammaan isbeddelladaada laanta ugu weyn ee mashruucan (master). Waxaad heli doontaa iimayl ogeysiin ah marka isbeddelada la isku daro.
 
