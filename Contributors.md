@@ -9,7 +9,7 @@
 - [Dominick Vaske](https://github.com/dominickvaske) - Proud to start this journey with everyone!
 - [Alan Sajith](https://github.com/alansajith) - happy 2026
 - [Nurmuhammad Sodiqjonov](https://github.com/sodiqjonovdev) - Hello everyone
-- [Nilesh Mori](https://github.com/nilesh7757) - Hello everyone this mis my first contribution hope i will like this open source 
+- [Nilesh Mori](https://github.com/nilesh7757) - Hello everyone this mis my first contribution hope i will like this open source journey
 - [Karryl Dumalag](https://github.com/KayeJD) - Hi everybody! I thought this was a nice little project :D Good luck with future contributions!
 - [Farhanul Hoque](https://github.com/farhanulhoque) - Hello everyone
 - [Ryan Wibawa](https://rwibawa.github.io/) - Hello all, this is my contribution to open source in the beginning of 2026!
