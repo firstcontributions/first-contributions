@@ -381,6 +381,7 @@ rodrick
 - [Nikhilesh Sai Santosh Tadivada](https://github.com/T-Nikhilesh)
 - [Ashwin Koli](https://github.com/koliashwin)
 - Sandeep
+-[Akalya](https://github.com/akaly002) : First step >
 - [Aryan Biswas] (https://github.com/AryanBiswas198) : First Open Source ;) -[Aztrek2000](https://github.com/starsnipe407) : First contribution but definitely not the last !!!
 - [Siddharth Mishra](https://github.com/iamsid-19) : miles to go before I sleep
 - [Fathima Manal](https://github.com/FathimaManal)
