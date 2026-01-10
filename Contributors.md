@@ -14,6 +14,7 @@
 - [Nurmuhammad Sodiqjonov](https://github.com/sodiqjonovdev) - Hello everyone
 - [Nilesh Mori](https://github.com/nilesh7757) - Hello everyone this mis my first contribution hope i will like this open source journey
 - [Farhanul Hoque](https://github.com/farhanulhoque) - Hello everyone
+-[shruti dhepe](https://github.com/SHRUTIDHEPE)-hello everyone ,this is my first contributions to the open source world.
 - [Ryan Wibawa](https://rwibawa.github.io/) - Hello all, this is my contribution to open source in the beginning of 2026!
 - [Bijay Syangtan](https://github.com/justbijay44) - Recently learned Git properly and now feel confident using it. Glad to contribute!
 - [Daanish Khan]
