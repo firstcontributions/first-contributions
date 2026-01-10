@@ -19,6 +19,7 @@
 - [Ryan Wibawa](https://rwibawa.github.io/) - Hello all, this is my contribution to open source in the beginning of 2026!
 - [Bijay Syangtan](https://github.com/justbijay44) - Recently learned Git properly and now feel confident using it. Glad to contribute!
 - [Daanish Khan]
+-[Nets](https://github.com/Nets-in-Tech) - Hello, Bures! Váldde ávi!
 -[Vibha yadav]
 - [Sanya Kumari](https://github.com/SanyaKumari09)- Hello everyone, this is my first contribution to open source. Happy to be part of the community. 
 - [Navoneel Dey](https://github.com/Navoneel3) - Helloo everyone, this is my first open source contribution.
