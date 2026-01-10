@@ -1,5 +1,6 @@
 # Contributors
 
+- [Colin Kermode](https://github.com/ColinKermode)
 - [Nasrin Zaman](https://github.com/nasrin-zaman)
 - [hesphoros](https://github.com/hesphoros) - Hello everyone,I am trying to be a distinguished developer.
 
