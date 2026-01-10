@@ -75,6 +75,7 @@
 - [N1colas97](https://github.com/N1colas97) - Mi contribución
 - [Gaetano ] Ciao a tutti, thanks for the opportunity.
 - [deanscott13](https://github.com/deanscott13): Hello.
+- [Nikhil Verma](https://github.com/Nikhil-Verma-01) - First Contribution into open sources project
 - [Linitta Elezabath](https://github.com/linittaelezabath) - FIRST CONTRIBUTION TO OPEN SOURCE IN 2026
 - [Rushabh Nandanwar](https://github.com/rushabh-nandanwar) - Happy to share that I Learned my first Github openSource in 2026 
 -[sourabh-singh](https://github.com/sourabhsingh2000) -hello this is my first open source contribution
