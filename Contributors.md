@@ -1,5 +1,6 @@
 # Contributors
 - [Rashmi Priya] (https://github.com/rashmip2102) : First contribution, hope I stay consistent
+- [pranjal] (https://github.com/pranjal2004838) : Starting on git with linux as contributor to generate PR'
 - [Vlad Hnatovskyi] (https://github.com/vladhnat) : First open source contribution
 - [Ethan Holling] (https://github.com/OverlordJeb) : First and hopefully not the last contribution!z
 - [Kanishka Wijeratne] (https://githubt.com/KanishkaWijeratne) : First open source contribution
