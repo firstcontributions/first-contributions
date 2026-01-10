@@ -3001,6 +3001,7 @@ hello
 - Shunzi Yang: Hello, I am from China. This is my beginning of changing the world! 
 Dinesh Ingale 
 - [Ankita Rathore](https://github.com/Ankita19Rathore)
+-[ManiShankar](https://github.com/Manishankar-08)
 - [tecnodeveloper](https://github.com/tecnodeveloper) First contribution to open source 10/1/26
 - [kyc001](https://github.com/kyc001) My first contribution to open source in 2026!!!
 [xlmorval448](https://github.com/xlmorval448)
