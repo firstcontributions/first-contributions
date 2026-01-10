@@ -17,6 +17,7 @@
 - [Bijay Syangtan](https://github.com/justbijay44) - Recently learned Git properly and now feel confident using it. Glad to contribute!
 -[Vibha yadav]
 - [Sanya Kumari](https://github.com/SanyaKumari09)- Hello everyone, this is my first contribution to open source. Happy to be part of the community. 
+- [Navoneel Dey](https://github.com/Navoneel3) - Helloo everyone, this is my first open source contribution.
 - [Sandhra Ann](https://github.com/echoLogicX) - Helloo, this is my first contribution to open source.
 - [Anshu Jain](https://github.com/anshujain1)- Hello guys , starting my open source journey today!
 - [Jose Nino](https://github/josenino95)
