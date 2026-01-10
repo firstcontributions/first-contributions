@@ -3042,3 +3042,4 @@ Dinesh Ingale
 
 -[Priyanka Malavade](https://github.com/priyanka7411)
 -[Ankit Kolhe](https://github.com/AnkitKolhe149) : This new Year'26 starts with a new Resolve.
+-[Adrian Guzman](https://github.com/adrian-guzman-301): hello, world! does this really count as an open source contribution?
