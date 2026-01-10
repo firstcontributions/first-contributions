@@ -2987,12 +2987,12 @@ Dinesh Ingale
 - [kalami](https://github.com/xjsmx0908) : Hello everyone, the wonderful year 2026 has begun!
 - [Debmallar Dasgupta](https://github.com/debmallardasgupta) :Hello, my first open source contribution!
 - [Nishita Goyal](https://github.com/Nishita77) : My first open source contribution
-- [Bhargavi Voonna](https://github.com/Bhargavivoonna):Excited to my start in the open source !!!
-- [Siddhartha Thapa](https://github.com/Siddhartha-Thapa):Hi, this is my first contribution!!!
-- [Mohd Moazzam](https://github.com/mm541):Hello, i am excited for my open source contribution journey!! 
-- [kirti Chavan](https://github.com/Kirti1234-hash) : My First Open source Contribution...
-- [Tausief S](https://github.com/SheikhTausief) : My first open source contribution... ☺️
-- [Pranav Bakane](https://github.com/pranavbakanecoder) : my first contribution
-
-- [Harsh Kumar](https://github.com/hakusanb0):Hello, my first open source contribution thanks for the help!
-- [Priyanka Malavade](https://github.com/priyanka7411)
+-[Bhargavi Voonna](https://github.com/Bhargavivoonna):Excited to my start in the open source !!!
+-[Siddhartha Thapa](https://github.com/Siddhartha-Thapa):Hi, this is my first contribution!!!
+-[Mohd Moazzam](https://github.com/mm541):Hello, i am excited for my open source contribution journey!! 
+-[kirti Chavan](https://github.com/Kirti1234-hash) : My First Open source Contribution...
+-[Tausief S](https://github.com/SheikhTausief) : My first open source contribution... ☺️
+-[Pranav Bakane](https://github.com/pranavbakanecoder) : my first contribution
+-[Harsh Kumar](https://github.com/hakusanb0):Hello, my first open source contribution thanks for the help!
+-[Priyanka Malavade](https://github.com/priyanka7411)
+-[Ankit Kolhe](https://github.com/AnkitKolhe149) : This new Year'26 starts with a new Resolve.
