@@ -8,6 +8,7 @@
 - [owen](https://github.com/hiiraeth) - happy 2026 :)
 - [Ajith k v](https://github.com/Ajith66310) - Wishing everyone good luck..
 - [SerilEvanjalineS](https://github.com/serilevanjalines) - Beginning the Journey to open-source in 2026!
+-[Venom-dell](https://github.com/Venom-dell) - let's go
 - [XuenDN](https://github.com/xuen0) - yo
 - [Dominick Vaske](https://github.com/dominickvaske) - Proud to start this journey with everyone!
 - [Alan Sajith](https://github.com/alansajith) - happy 2026
