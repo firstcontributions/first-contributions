@@ -1,7 +1,6 @@
 # Contributors
 
 - [hesphoros](https://github.com/hesphoros) - Hello everyone,I am trying to be a distinguished developer.
-
 - [Gary Chen](https://github.com/Gary-XC) - Starting my first contribution to open source in 2026, the first of many to come
 - [mr-bott](https://github.com/mr-bott) - First open-source contribution to a public GitHub repository.
 - [Ajith k v](https://github.com/Ajith66310) - Wishing everyone good luck..
@@ -10,7 +9,8 @@
 - [Dominick Vaske](https://github.com/dominickvaske) - Proud to start this journey with everyone!
 - [Alan Sajith](https://github.com/alansajith) - happy 2026
 - [Nurmuhammad Sodiqjonov](https://github.com/sodiqjonovdev) - Hello everyone
-- [Nilesh Mori](https://github.com/nilesh7757) - Hello everyone this mis my first contribution hope i will like this open source journey
+- [Nilesh Mori](https://github.com/nilesh7757) - Hello everyone this mis my first contribution hope i will like this open source 
+- [Karryl Dumalag](https://github.com/KayeJD) - Hi everybody! I thought this was a nice little project :D Good luck with future contributions!
 - [Farhanul Hoque](https://github.com/farhanulhoque) - Hello everyone
 - [Ryan Wibawa](https://rwibawa.github.io/) - Hello all, this is my contribution to open source in the beginning of 2026!
 - [Bijay Syangtan](https://github.com/justbijay44) - Recently learned Git properly and now feel confident using it. Glad to contribute!
