@@ -3015,7 +3015,9 @@ Dinesh Ingale
 -[adhiseshandm](https://github.com/adhiseshandm) : Excited to Start my open source jouney!!
 
 -[Tausief S](https://github.com/SheikhTausief) : My first open source contribution... ☺️
+- [Hardik Singh] (https://github.com/hardiksingh-0-0)
 -[Pranav Bakane](https://github.com/pranavbakanecoder) : my first contribution
 -[Harsh Kumar](https://github.com/hakusanb0):Hello, my first open source contribution thanks for the help!
+
 -[Priyanka Malavade](https://github.com/priyanka7411)
 -[Ankit Kolhe](https://github.com/AnkitKolhe149) : This new Year'26 starts with a new Resolve.
