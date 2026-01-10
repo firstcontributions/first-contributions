@@ -2975,3 +2975,4 @@ Dinesh Ingale
 - - [Nishita Goyal](https://github.com/Nishita77) : My first open source contribution
 -[Bhargavi Voonna](https://github.com/Bhargavivoonna):Excited to my start in the open source !!!
 -[Siddhartha Thapa](https://github.com/Siddhartha-Thapa):Hi, this is my first contribution!!!
+Pragati Priya - My first open-source contribution! Excited to learn and grow 🚀
