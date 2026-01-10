@@ -163,6 +163,7 @@ open-source contribution. Will stay consistent and keep learning progressively.
 - [Chaitanya Dasari] (https://github.com/chaitanyakumar-d)
 -  [bsjtb](https://github.com/2879824237): hello world !
 - [Jessica Horn](https://github.com/jessphorn): contribution
+- [Alex McGarry](https://github.com/alexmc2): Hello, world of open source.
 -  [Sahil verma](https://github.com/Sahilvee): hey !
 -  [Nandani Prasad](https://github.com/Nandani2801): hey !
 - - [HimaTeja](https://github.com/Allibadha-Himateja): This was my first contribution
