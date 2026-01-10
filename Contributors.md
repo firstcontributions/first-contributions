@@ -132,6 +132,7 @@
 -[Nishan](https://github.com/Nishan-Narvan)
 - Marco Musolf
 -[Rahul](https://github.com/SilverMoon-ops)
+-[Abraham Cuadras](https://github.com/AbrahamCR05)
 -[Rishitha-Dama](https://github.com/RishithaDama)
 - [Ron Luu] (https://github.com/RonLuu): Happy New Year guys
 - [KMSDINESH](https://github.com/KMSDINESH)
@@ -1097,6 +1098,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Harry-GNS](https://github.com/Harry-GNS)
 - [Azula Smurf](https://github.com/1999fronda)
 - [Jenish Dangol](https://github.com/Jenis980)
+- [Abraham Cuadras](https://github.com/AbrahamCR05)
 - [Asude Yılmaz]
 - [Rein Ding](https://github.com/ReinDing)
 - [Helen Tsui](https://github.com/helentht)
