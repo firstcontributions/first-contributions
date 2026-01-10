@@ -1,5 +1,6 @@
 # Contributors
 
+- [Deadshotbb] supppp world
 - [Anyaporwal](https://github.com/Anyaporwal) - First open source contribution!!🚀
 - [Joaquin Del Pego](hhttps://github.com/jdelpego) - First open source contribution. 
 - [bryan](https://github.com/bryanallas)
