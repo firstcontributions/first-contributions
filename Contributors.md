@@ -8,8 +8,10 @@
 - [owen](https://github.com/hiiraeth) - happy 2026 :)
 - [Ajith k v](https://github.com/Ajith66310) - Wishing everyone good luck..
 - [SerilEvanjalineS](https://github.com/serilevanjalines) - Beginning the Journey to open-source in 2026!
+-[Venom-dell](https://github.com/Venom-dell) - let's go
 - [XuenDN](https://github.com/xuen0) - yo
 - [Dominick Vaske](https://github.com/dominickvaske) - Proud to start this journey with everyone!
+-[Gayathri M](https://github.com/chandgaya) - Starting my first contribution :-)
 - [Alan Sajith](https://github.com/alansajith) - happy 2026
 - [Nurmuhammad Sodiqjonov](https://github.com/sodiqjonovdev) - Hello everyone
 - [Nilesh Mori](https://github.com/nilesh7757) - Hello everyone this mis my first contribution hope i will like this open source journey
@@ -18,9 +20,11 @@
 - [Ryan Wibawa](https://rwibawa.github.io/) - Hello all, this is my contribution to open source in the beginning of 2026!
 - [Bijay Syangtan](https://github.com/justbijay44) - Recently learned Git properly and now feel confident using it. Glad to contribute!
 - [Daanish Khan]
+-[Nets](https://github.com/Nets-in-Tech) - Hello, Bures! Váldde ávi!
 -[Vibha yadav]
 - [Sanya Kumari](https://github.com/SanyaKumari09)- Hello everyone, this is my first contribution to open source. Happy to be part of the community. 
 - [Navoneel Dey](https://github.com/Navoneel3) - Helloo everyone, this is my first open source contribution.
+- [Anmol Gandhi](https://github.com/angn21) - Hi all! Making my first open source contribution here!
 - [Sandhra Ann](https://github.com/echoLogicX) - Helloo, this is my first contribution to open source.
 - [Anshu Jain](https://github.com/anshujain1)- Hello guys , starting my open source journey today!
 - [Jose Nino](https://github/josenino95)
@@ -39,6 +43,7 @@
 -[Srinidhi188](https://github.com/Srinidhi188)- Started my open source journey
 - [Lankok-id](https://github.com/lankok-id) - HALLO OM, INFO LOKER!!
 - [Gautam Joshi](https://github.com/KillerB-O) - Starting My First Open Source Contribution from here!! 
+- [Neel Nair] (https://github.com/neelnair14) - Hello everyone, looking to start doing more open source work!
 - [Yashparmar1125](https://github.com/Yashparmar1125) -Happy for my First Contribution!!
 -[Suhani](https://github.com/sdazzleberry) - my first contribution
 - [Harshit Kandoi](https://github.com/Harshit-Kandoi) - Hi, this is my first contribution to the open source!! Love to connect and grow together!
@@ -72,7 +77,9 @@
 - [N1colas97](https://github.com/N1colas97) - Mi contribución
 - [Gaetano ] Ciao a tutti, thanks for the opportunity.
 - [deanscott13](https://github.com/deanscott13): Hello.
+- [Nikhil Verma](https://github.com/Nikhil-Verma-01) - First Contribution into open sources project
 - [Linitta Elezabath](https://github.com/linittaelezabath) - FIRST CONTRIBUTION TO OPEN SOURCE IN 2026
+- [Rushabh Nandanwar](https://github.com/rushabh-nandanwar) - Happy to share that I Learned my first Github openSource in 2026 
 -[sourabh-singh](https://github.com/sourabhsingh2000) -hello this is my first open source contribution
 [Ritika Raj](https://github.com/ritika943)
 -[Ankit Kumar Jha] (https://github.com/Ankit-Kumar-Jha-01)- Excited to start my first open-source contribution. Will stay consistent and keep learning progressively. 
@@ -616,6 +623,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [V K Suvetha](https://github.com/vksuvetha)
 - [R K Dutta](https://github.com/ramitkumardutta)
 - [Mrun](https://github.com/mrunmayeeph)
+- Isapat
 - [Liger_18.](https://github.com/mayurdongare269)
 - [mtxasmgkr](https://github.com/mtxasmgkr)
 - [Vraj Patel](https://github.com/VrajPatel105)
@@ -2977,4 +2985,8 @@ Dinesh Ingale
 - - [Nishita Goyal](https://github.com/Nishita77) : My first open source contribution
 -[Bhargavi Voonna](https://github.com/Bhargavivoonna):Excited to my start in the open source !!!
 -[Siddhartha Thapa](https://github.com/Siddhartha-Thapa):Hi, this is my first contribution!!!
+-[Mohd Moazzam](https://github.com/mm541):Hello, i am excited for my open source contribution journey!! 
+-[kirti Chavan](https://github.com/Kirti1234-hash) : My First Open source Contribution...
+-[Tausief S](https://github.com/SheikhTausief) : My first open source contribution... ☺️
+-[Pranav Bakane](https://github.com/pranavbakanecoder) : my first contribution
 -[Harsh Kumar](https://github.com/hakusanb0):Hello, my first open source contribution thanks for the help!
