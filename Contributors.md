@@ -34,6 +34,7 @@
 - [josenino95](https://github.com/josenino95) - Yeeeehaw
 -[Srinidhi188](https://github.com/Srinidhi188)- Started my open source journey
 - [Lankok-id](https://github.com/lankok-id) - HALLO OM, INFO LOKER!!
+- [Gautam Joshi](https://github.com/KillerB-O) - Starting My First Open Source Contribution from here!! 
 - [Yashparmar1125](https://github.com/Yashparmar1125) -Happy for my First Contribution!!
 -[Suhani](https://github.com/sdazzleberry) - my first contribution
 - [Harshit Kandoi](https://github.com/Harshit-Kandoi) - Hi, this is my first contribution to the open source!! Love to connect and grow together!
