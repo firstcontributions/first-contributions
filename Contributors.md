@@ -4,6 +4,7 @@
 
 - [Gary Chen](https://github.com/Gary-XC) - Starting my first contribution to open source in 2026, the first of many to come
 - [mr-bott](https://github.com/mr-bott) - First open-source contribution to a public GitHub repository.
+- [owen](https://github.com/hiiraeth) - happy 2026 :)
 - [Ajith k v](https://github.com/Ajith66310) - Wishing everyone good luck..
 - [SerilEvanjalineS](https://github.com/serilevanjalines) - Beginning the Journey to open-source in 2026!
 - [XuenDN](https://github.com/xuen0) - yo
