@@ -576,6 +576,8 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Robert Davis](https://github.com/robertdavis)
 - [Imthiaz Muhassin/Imthiaz123] (https://github.com/Imthiaz123)
 - [Iam Pranav Yadav](https://github.com/pranav50227)
+- [Sayantika Mallick](https://github.com/sayantikamallick1212-jpg)
+
 - [Quisim Bryant](https://github.com/quisimbryant)
 - [Jayraje Shinde](https://github.com/Jayraje-Shinde)
 - [keynes steve AKPODE](https://github.com/keynessteve-cyber)
