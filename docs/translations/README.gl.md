@@ -1,5 +1,4 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -34,7 +33,7 @@ Onde "url que copiache" (sen as comiñas) é a url  deste repositorio. Mira os p
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copiar URL a clipboard" />
 
 Por exemplo:
-```
+```bash
 git clone https://github.com/o-teu-nome/first-contributions.git
 ```
 Onde "o-teu-nome" é o teu usuario de GitHub. Aquí estarás copiando os contidos do repositorio first-contributions en GitHub para o teu computador.
@@ -43,18 +42,18 @@ Onde "o-teu-nome" é o teu usuario de GitHub. Aquí estarás copiando os contido
 
 Cambia ó directorio do repositorio no teu computador (se é que non estás xa nel).
 
-```
+```bash
 cd first-contributions
 ```
 
 Agora crea unha branch (póla) usando o comando `git checkout`
 
-```
+```bash
 git checkout -b <engade-o-teu-nome>
 ```
 
 Por exemplo
-```
+```bash
 git checkout -b engade-María-Soliña
 ```
 
@@ -68,12 +67,12 @@ Agora abre o arquivo `Contributors.md` nun editor de texto, engade o teu nome e 
 
  Agrega eses cambios ou modificacións usando o comando `git add`  tal como se amosa:
 
-```
+```bash
 git add Contributors.md
 ```
 
 Agora podes facer commit sobre os cambios co comando `git commit`
-```
+```bash
 git commit -m "Add <o-teu-nome> to Contributors list"
 ```
 cambiando `<o-teu-nome>` polo teu nome.
@@ -81,7 +80,7 @@ cambiando `<o-teu-nome>` polo teu nome.
 ## Envía (*Push*) os teus cambios a GitHub
 
 Fai un  *push* dos teus cambios usando o comando `git push`
-```
+```bash
 git push origin <engade-o-teu-nome>
 ```
 cambiando `<engade-o-teu-nome>` polo nome da branch que creaches antes.
@@ -109,4 +108,4 @@ Axiña mesturarei os teus cambios (facendo *merge*) na master branch deste proxe
 
 ## Onde ir dende aquí?
 
-Tamén poderías unirte á nosa *equipa* en Slack no caso de que necesites axuda ou teñas algunha pregunta. [Únete ó noso Slack](https://firstcontributors.slack.com/join/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
+Se queres practicar máis e contribuír a código aberto, mira [Code Contributions](https://github.com/roshanjossey/code-contributions).

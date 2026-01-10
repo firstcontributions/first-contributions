@@ -1,131 +1,126 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
 # Mga Unang Kontribusyon
 
-Nilalayon ng proyektong ito na gawing simple at gabayan ang paraan ng paggawa ng mga nagsisimula sa kanilang unang kontribusyon. Kung gusto mong gawin ang iyong unang kontribusyon, sundin ang mga hakbang sa ibaba.
+Makakatulong ang proyektong ito na gawing mas simple at magsilbing gabay sa paggawa ng mga gustong magbigay ng kanilang unang kontribusyon. Kung gusto magkaroon ng unang kontribusyon, sundin ang mga hakbang sa ibaba.
 
-_Kung hindi ka komportable sa command line, [narito ang mga tutorial gamit ang GUI tool.](#tutorials-using-other-tools)_
+_Kung hindi ka komportable sa paggamit ng command line, [narito ang mga tutorial gamit ang GUI tool.](#tutorials-using-other-tools)_
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="i-fork ang repository na ito" />
 
-#### Kung wala kang git sa iyong makina, [i-install ito](https://docs.github.com/en/get-started/quickstart/set-up-git).
+#### Kung wala kang Git sa iyong computer, [i-install ito](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
-## I-fork ang repositoryong ito
+## I-fork ang repository ito
 
-I-fork ang repository na ito sa pamamagitan ng pag-click sa fork button sa tuktok ng page na ito.
-Gagawa ito ng kopya ng repositoryong ito sa iyong account.
+I-fork ang repository na ito sa pamamagitan ng pag-click sa _fork button_ sa kanang itaas ng page na ito.
+Gagawa ito ng kopya ng _repository_ sa iyong _account_.
 
-## I-clone ang repositoryo
+## I-clone ang _repository_
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="i-clone ang repository na ito" />
 
-Ngayon i-clone ang forked repository sa iyong makina. Pumunta sa iyong GitHub account, buksan ang forked repository, i-click ang code button at pagkatapos ay i-click ang _copy to clipboard_ icon.
+Ngayon, i-clone ang _forked repository_ sa iyong _computer_. Pumunta sa iyong _GitHub account_, buksan ang _forked repository_, i-click ang _code button_ at pagkatapos ay i-click ang _copy to clipboard_ icon.
 
 Magbukas ng terminal at patakbuhin ang sumusunod na git command:
 
-```
-git clone "url na kinopya mo lang"
+```bash
+git clone "url na kakakopya mo lang"
 ```
 
-kung saan ang "url na kinopya mo lang" (nang walang mga panipi) ay ang url sa repositoryong ito (ang iyong tinidor ng proyektong ito). Tingnan ang mga nakaraang hakbang para makuha ang url.
+ang "url na kakakopya mo lang" (tanggalin ang "") ay ang url ng iyong _forked repository_.Tingnan ang mga nakaraang hakbang para makuha ang url.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="kopyahin ang URL sa clipboard" />
 
 Halimbawa:
 
+```bash
+git clone https://github.com/username/first-contributions.git
 ```
-git clone https://github.com/this-is-you/first-contributions.git
-```
 
-kung saan ang `this-is-you` ay ang iyong GitHub username. Dito mo kinokopya ang mga nilalaman ng repositoryo ng mga unang kontribusyon sa GitHub sa iyong computer.
+ang `username` ay ang iyong GitHub username. Dito mo napunta ang mga laman ng kinopya mong _repository_ ng mga unang kontribusyon sa GitHub sa iyong _computer_.
 
-## Gumawa ng sangay
+## Gumawa ng _branch_
 
-Baguhin sa direktoryo ng repositoryo sa iyong computer (kung wala ka pa roon):
+Pumunta sa _directory_ ng _repository_ sa iyong _computer_ (kung wala ka pa roon, i-type ito sa _terminal_):
 
-```
+```bash
 cd first-contributions
 ```
 
-Ngayon lumikha ng isang sangay gamit ang utos na `git switch`:
+Ngayon, gumawa ng isang _branch_ gamit ang _command_ na `git switch`:
 
-```
-git switch -c your-new-branch-name
+```bash
+git switch -c pangalan-ng-branch
 ```
 
 Halimbawa:
 
-```
-git switch -c add-alonzo-church
+```bash
+git switch -c add-juan-delacruz
 ```
 
-## Gumawa ng mga kinakailangang pagbabago at gawin ang mga pagbabagong iyon
+## Ilagay ang mga gusto mong baguhin sa _repository_
 
-Ngayon buksan ang `Contributors.md` file sa isang text editor, idagdag ang iyong pangalan dito. Huwag idagdag ito sa simula o dulo ng file. Ilagay ito kahit saan sa pagitan. Ngayon, i-save ang file.
+Ngayon, buksan ang `Contributors.md` _file_ sa isang _text editor_ at idagdag ang iyong pangalan (maaari mong gayahin na lang ang gawa ng iba). Iwasang ilagay ito sa pinaka-simula o dulo ng _file_. Ilagay ito kahit saan sa gitna ng _file_. I-save ang _file_ kapag nailagay na.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
-Kung pupunta ka sa direktoryo ng proyekto at isagawa ang command na `git status`, makikita mong may mga pagbabago.
+Kung pupunta ka sa _directory_ ng proyekto at i-type ang _command_ na `git status`, makikita mo yung mga nabago mo sa `Contributors.md`.
 
-Idagdag ang mga pagbabagong iyon sa sangay na nilikha mo lamang gamit ang utos na `git add`:
+Idagdag ang mga _file_ na nabago mo sa _branch_ na ginawa mo kanina gamit ang _command_ na `git add`:
 
-```
+```bash
 git add Contributors.md
 ```
 
-Ngayon gawin ang mga pagbabagong iyon gamit ang utos na `git commit`:
+I-commit ang mga _files_ na iyon gamit ang _command_ na `git commit`:
 
-```
-git commit -m "Add your-name to Contributors list"
-```
-
-Ngayon gawin ang mga pagbabagong iyon gamit ang utos na `git commit`:
-
-## I-push ang mga pagbabago sa GitHub
-
-Itulak ang iyong mga pagbabago gamit ang command na `git push`:
-
-```
-git push -u origin your-branch-name
+```bash
+git commit -m "Add iyong-pangalan to Contributors list"
 ```
 
-pinapalitan ang `your-branch-name` ng pangalan ng branch na ginawa mo kanina.
+## I-push ang mga _files_ na _nabago_ sa GitHub
+
+I-push ang mga nabago mong _files_ gamit ang command na `git push`:
+
+```bash
+git push -u origin pangalan-ng-branch
+```
+
+Ang `pangalan-ng-branch` ay pangalan ng branch na ginawa mo kanina.
 
 <details>
-<summary> <strong>Kung nakakakuha ka ng anumang mga error habang nagtutulak, mag-click dito: </strong> </summary>
+<summary> <strong>Kung nagkaroon ng error habang nag-pupush, i-click ito: </strong> </summary>
 
 - ### Error sa Pagpapatunay
-     <pre>remote: Inalis ang suporta para sa pagpapatotoo ng password noong Agosto 13, 2021. Mangyaring gumamit na lang ng personal na access token.
-  remote: Pakitingnan ang https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ para sa karagdagang impormasyon.
-  nakamamatay: Nabigo ang pagpapatotoo para sa 'https://github.com/<your-username>/first-contributions.git/'</pre>
-  Pumunta sa [tutorial ng GitHub](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) sa pagbuo at pag-configure ng SSH key sa iyong account.
+    <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+    remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+    fatal: Authentication failed for 'https://github.com//first-contributions.git/'</pre>
+  Pumunta sa [tutorial ng GitHub](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) sa paggawa at pag-configure ng SSH key sa iyong account.
 </details>
 
-## Isumite ang iyong mga pagbabago para sa pagsusuri
+## I-submit ang mga binago mo para mareview
 
-Kung pupunta ka sa iyong repository sa GitHub, makakakita ka ng button na `Ihambing at hilahin ang kahilingan. I-click ang button na iyon.
+Kung pupunta ka sa iyong _forked repository_ sa GitHub, makikita mo yung button na `Compare & pull request`. I-click mo iyon.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="gumawa ng pull request" />
 
-Ngayon isumite ang kahilingan sa paghila.
+Ngayon, baguhin ang ilang _checkboxes_ sa _description textarea_, at i-submit ang _pull request_.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="ipasa ang pull request" />
 
-Sa lalong madaling panahon, pagsasamahin ko ang lahat ng iyong mga pagbabago sa pangunahing sangay ng proyektong ito. Makakatanggap ka ng email ng notification kapag napagsama na ang mga pagbabago.
+Ime-merge ko ang lahat ng mga nabago mo sa _main branch_ ng proyektong ito. Makakatanggap ka ng _email notification_ kapag na-merge ko na ito.
 
-## Saan pupunta mula dito?
+## Saan na pagkatapos?
 
-Congrats! Nakumpleto mo lang ang karaniwang _fork -> clone -> edit -> pull request_ workflow na madalas mong makaharap bilang isang contributor!
+Congrats! Nakumpleto mo lang ang karaniwang _fork -> clone -> edit -> pull request_ workflow na madalas mong gagamitin bilang isang _contributor_!
 
-Ipagdiwang ang iyong kontribusyon at ibahagi ito sa iyong mga kaibigan at tagasubaybay sa pamamagitan ng pagpunta sa [web app](https://firstcontributions.github.io/#social-share).
+Ipakita ang iyong kontribusyon sa iyong mga kaibigan at tagasubaybay at magpunta sa [web app](https://firstcontributions.github.io/#social-share).
 
-Maaari kang sumali sa aming slack team kung kailangan mo ng anumang tulong o may anumang mga katanungan. [Sumali sa slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
-
-Ngayon simulan na natin ang pag-aambag sa iba pang mga proyekto. Nag-compile kami ng isang listahan ng mga proyekto na may mga madaling isyu na maaari mong simulan. Tingnan ang [listahan ng mga proyekto sa web app](https://firstcontributions.github.io/#project-list).
+Ngayon, pwede ka nang gumawa ng kontribusyon sa iba pang mga proyekto! Gumawa kami ng isang listahan ng mga proyekto na may mga madadaling gawing _issues_ na pwede mong gawin. Tingnan ang [listahan ng mga proyekto sa web app](https://firstcontributions.github.io/#project-list).
 
 ### [Karagdagang materyal](additional-material/git_workflow_scenarios/additional-material.md)
 
