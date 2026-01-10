@@ -620,7 +620,6 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [V K Suvetha](https://github.com/vksuvetha)
 - [R K Dutta](https://github.com/ramitkumardutta)
 - [Mrun](https://github.com/mrunmayeeph)
-- Isapat
 - [Liger_18.](https://github.com/mayurdongare269)
 - [mtxasmgkr](https://github.com/mtxasmgkr)
 - [Vraj Patel](https://github.com/VrajPatel105)
@@ -2985,3 +2984,4 @@ Dinesh Ingale
 -[Mohd Moazzam](https://github.com/mm541):Hello, i am excited for my open source contribution journey!! 
 -[kirti Chavan](https://github.com/Kirti1234-hash) : My First Open source Contribution...
 -[Tausief S](https://github.com/SheikhTausief) : My first open source contribution... ☺️
+-[Niloy Barua](https://github.com/Niloy2267) :Excited to my start in the open source !!!
