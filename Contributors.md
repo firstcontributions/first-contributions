@@ -76,6 +76,7 @@
 - [Gaetano ] Ciao a tutti, thanks for the opportunity.
 - [deanscott13](https://github.com/deanscott13): Hello.
 - [Linitta Elezabath](https://github.com/linittaelezabath) - FIRST CONTRIBUTION TO OPEN SOURCE IN 2026
+- [Rushabh Nandanwar](https://github.com/rushabh-nandanwar) - Happy to share that I Learned my first Github openSource in 2026 
 -[sourabh-singh](https://github.com/sourabhsingh2000) -hello this is my first open source contribution
 [Ritika Raj](https://github.com/ritika943)
 -[Ankit Kumar Jha] (https://github.com/Ankit-Kumar-Jha-01)- Excited to start my first open-source contribution. Will stay consistent and keep learning progressively. 
