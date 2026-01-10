@@ -2896,6 +2896,9 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Arnav Raj] (https://github.com/Axis-GLC)
 - [Abuzzcar] (https://github.com/abuzzcar): Learning about open source contributions.
 - K. Kavya
+amitBranch
+- [Amos ](https://github.com/Aliko2020): My First contribution on open source. 
+-[Amit Prajapat] (https://github.com/amithacks7)
 - [Amos ](https://github.com/Aliko2020): My First contribution on open source.
 - [Darshan K G](https://github.com/Darshankg18): My First open source contribution
 - [Openlyfree](https://github.com/openlyfree)
