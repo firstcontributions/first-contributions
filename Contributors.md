@@ -21,6 +21,7 @@
 -[Vibha yadav]
 - [Sanya Kumari](https://github.com/SanyaKumari09)- Hello everyone, this is my first contribution to open source. Happy to be part of the community. 
 - [Navoneel Dey](https://github.com/Navoneel3) - Helloo everyone, this is my first open source contribution.
+- [Anmol Gandhi](https://github.com/angn21) - Hi all! Making my first open source contribution here!
 - [Sandhra Ann](https://github.com/echoLogicX) - Helloo, this is my first contribution to open source.
 - [Anshu Jain](https://github.com/anshujain1)- Hello guys , starting my open source journey today!
 - [Jose Nino](https://github/josenino95)
