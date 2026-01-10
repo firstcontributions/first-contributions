@@ -87,7 +87,9 @@
 - [Rushabh Nandanwar](https://github.com/rushabh-nandanwar) - Happy to share that I Learned my first Github openSource in 2026 
 -[sourabh-singh](https://github.com/sourabhsingh2000) -hello this is my first open source contribution
 [Ritika Raj](https://github.com/ritika943)
--[Ankit Kumar Jha] (https://github.com/Ankit-Kumar-Jha-01)- Excited to start my first open-source contribution. Will stay consistent and keep learning progressively. 
+-[Ankit Kumar Jha] (https://github.com/Ankit-Kumar-Jha-01)- Excited to start my first 
+open-source contribution. Will stay consistent and keep learning progressively. 
+[Dhavanesh](https://github.com/Dhavanesh24cs412/)Very excited to start my contributing journey! 
 -[zerokali20](https://github.com/zerokali20) - Hi guys welcome to new year  !!!
 -[Moin Qamr](https://github.com/Moin36532)-I wish a happy new year to eveyone "2026"...
 -[Moin Qamr](https://github.com/Moin36532)-I wish a happy new year to eveyone "2026"
