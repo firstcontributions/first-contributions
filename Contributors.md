@@ -2964,3 +2964,4 @@ Dinesh Ingale
 - [Parag](https://github.com/ParagD1606) : My first open source contribution
 - [Ayush Thakur](https://github.com/ayush-thakur01) : my first open source contribution
 - [Korotkov Egor](https://github.com/KorotEgor) : Hello, my first open source project!
+- [kalami](https://github.com/xjsmx0908) : Hello everyone, the wonderful year 2026 has begun!
