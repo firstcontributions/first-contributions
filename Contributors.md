@@ -89,6 +89,7 @@
 [Ritika Raj](https://github.com/ritika943)
 -[Ankit Kumar Jha] (https://github.com/Ankit-Kumar-Jha-01)- Excited to start my first open-source contribution. Will stay consistent and keep learning progressively. 
 -[zerokali20](https://github.com/zerokali20) - Hi guys welcome to new year  !!!
+-[Moin Qamr](https://github.com/Moin36532)-I wish a happy new year to eveyone "2026"...
 -[Moin Qamr](https://github.com/Moin36532)-I wish a happy new year to eveyone "2026"
 -[Somesh Padsalge](https://github.com/Somesh04-tech) - learning open source contributions!!!
 -[hu-119](https://github.com/hu119-web)
