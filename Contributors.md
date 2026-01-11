@@ -53,6 +53,7 @@
 - [Alanto Manu](https://github.com/alantomanu)
 - [Alejandro Aceituno](https://github.com/clement-zentz)
 - [Alekscybercendre](https://github.com/Alekcybercendre)
+- [Alessandro Jablonski](https://github.com/ale2502)
 - [Alex-new-tech](https://github.com/Alex-new-tech)
 - [Alexander](https://github.com/azuaje1982)
 - [Ali Nasser](https://github.com/AliNasser05)
