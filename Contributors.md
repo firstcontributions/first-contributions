@@ -97,6 +97,7 @@
 - [Anjaneyulu](https://github.com/anjaneyulu-01)
 - [Ankit Singh](https://github.com/ANKITsingh-git2)
 - [Ankit](https://www.youtube.com/watch?v=u3y1MqX4egE)
+- [Nicolas Lizarazo](https://github.com/nicolas-lizarazo)
 - [Ansh Thukral](https://github.com/AnshThukral)
 - [Anshif Monz](https://github.com/anshifmonz)
 - [Anto42\_](https://github.com/Antoo42)
