@@ -203,6 +203,7 @@
 - [Daiwiik Harihar](https://github.com/daiv09)
 - [Daksh Gopani](https://github.com/dakshgopani)
 - [Daniel CL](https://github.com/danielcl01)
+- [Weiming Zhu](https://github.com/zhuweiming-1)
 - [Daniel Caspit](https://github.com/dcaspit)
 - [Daniel Guo](https://github.com/DiiGii)
 - [Daniela Gallegos Dupuis](https://github.com/danigallegdup)
