@@ -103,6 +103,7 @@
 - [Nicolas Lizarazo](https://github.com/nicolas-lizarazo)
 - [Ansh Thukral](https://github.com/AnshThukral)
 - [Anshif Monz](https://github.com/anshifmonz)
+- [Anshu Jain](https://github.com/anshujain0)
 - [Anto42\_](https://github.com/Antoo42)
 - [AntonioIonica](https://github.com/AntonioIonica)
 - [Anurag Mshra](https://github.com/AnuragMishra-akm)
