@@ -22,7 +22,7 @@
 - [Abhilash Reddy](https://github.com/AbhilashReddy1519)
 - [Abhinand B](https://github.com/abhinand2511)
 - [Abinesh Sundar](https://github.com/Abinesh-Sundar/a-open-source)
-- [sai krupali konda](https://github.com/sakrupalikonda)
+- [sai krupali konda](https://github.com/saikrupalikonda)
 - [Abusaeed Shuvo](https://github.com/abusaeed-shuvo)
 - [Adam Hicks](https://github.com/adamhicksiris)
 - [Adarsh84](https://github.com/adarshM84)
