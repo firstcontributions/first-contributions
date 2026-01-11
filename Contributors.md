@@ -638,6 +638,7 @@
 - [Rifaldo](https://github.com/Rifaldo-dev)
 - [Rishabh](https://github.com/rishabh8870)
 - [Rishit Khandelwal](https://github.com/Rishit-Khandelwal)
+- [Rizvan](https://github.com/Rizvan337/)
 - [Riya Agrawal](https://github.com/riyaagrawal02)
 - [Robert Davis](https://github.com/robertdavis)
 - [Robiya](https://github.com/rhakim24)
