@@ -215,6 +215,7 @@
 - [Dhanush M](https://github.com/Dhanush27m)
 - [Dhanush Shetty](https://github.com/dhanush-shetty1)
 - [Dhayanithi s r](https://github.com/its-dhaya)
+- [Dhanush K](https://github.com/dhanushkrishna72)
 - [Dhiraj Kumar Gupta](https://github.com/dhirajkrgupta)
 - [DhritiTS](https://github.com/DhritiTS)
 - [Dhruv Kalra](https://github.com/KalraDhruv)
