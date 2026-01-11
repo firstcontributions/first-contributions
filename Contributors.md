@@ -1,5 +1,5 @@
 # Contributors
-
+- [Satvik](https://github.com/Satvikjain13)
 - [Ziyu](https://github.com/szyu345)
 - [0scrxk](https://github.com/oscrxk)
 - [@Zakiahsan-arch](https://github.com/Zakiahsan-arch)
