@@ -4,6 +4,7 @@
 - [Himanshi](https://github.com/himanshi-0070)
 - [0scrxk](https://github.com/oscrxk)
 - [@Zakiahsan-arch](https://github.com/Zakiahsan-arch)
+- [DenizFeital] (https://github.com/DenizFeital)
 - [A Szpatowski](https://github.com/aszpatowski)
 - [AC](https://github.com/FortKnoxWasTaken)
 - [ARCHANA_GURUSAMY](https://github.com/ARCHANA-SENGUNTHAR)
