@@ -1,6 +1,7 @@
 # Contributors
 
 - [Ziyu](https://github.com/szyu345)
+- [Himanshi](https://github.com/himanshi-0070)
 - [0scrxk](https://github.com/oscrxk)
 - [@Zakiahsan-arch](https://github.com/Zakiahsan-arch)
 - [A Szpatowski](https://github.com/aszpatowski)
