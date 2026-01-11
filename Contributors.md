@@ -568,6 +568,7 @@
 - [OpenSeeker](https://github.com/OpenSeeker)
 - [Osman Kaplan](https://github.com/kplnosmn94-droid)
 - [Otavio Góes](https://github.com/ogoess1999)
+- [Pablo Edu Díaz](https://github.com/Exudev)
 - [PONTHUS Abderrahman](https://github.com/S3869)
 - [Pavan kuppili](https://github.com/PavanKuppili)
 - [Pavani](https://github.com/pavani42)
