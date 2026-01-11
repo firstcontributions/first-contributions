@@ -76,6 +76,7 @@
 - [Anandb71](https://github.com/Anandb71)
 - [Anay](https://github.com/Anay-Patil)
 - [Anaïs Gatard](https://github.com/AnaisG14)
+- [Anas Venkitta](https://github.com/Venkitta)
 - [Andi H](https://github.com/AndyH-78/)
 - [Andre AS](https://github.com/AndreASTec)
 - [Andre Bimbatti](https://github.com/andrebimbatti)
