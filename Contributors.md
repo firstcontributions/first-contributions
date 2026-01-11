@@ -509,6 +509,7 @@
 - [Mesh Bright](https://github.com/MeshBright)
 - [Michael B.](https://github.com/mbyrd3)
 - [Michael Baker](https://github.com/promptmike)
+- [Michael Codes](https://github.comMichael-LangCodes)
 - [Michael](https://github.com/LucidWinter)
 - [Midlaj](https://github.com/midlajdev)
 - [Mihir Bhagat](https://github.com/mihirb-6)
