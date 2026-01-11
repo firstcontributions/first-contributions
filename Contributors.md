@@ -9,6 +9,7 @@
 - [ARES](https://github.com/phoenixcodeforces-blip)
 - [ASaHi Chin](https://github.com/Cxlyq)
 - [Aadarsh Pandey](https://github.com/beingadish)
+- [Rajasri Kuchana](https://github.com/Rajasrikuchana)
 - [Aaliyah Raheem](https://github.com/aaliot)
 - [Aaron Lee](https://github.com/acelee0621)
 - [Abdelkader Charef Eddine Djellil (djacbi)](https://github.com/AbdelkaderCE/)
