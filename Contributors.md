@@ -293,6 +293,7 @@
 - [Gabriel Fernandes](https://github.com/lgabrielmf)
 - [Gabriel Soares](https://github.com/gbrlzzz)
 - [Gagan Bhatti](https://github.com/Gagan512)
+- [Paras](https://github.com/ParasSalonia)
 - [Gajji Chandu Yadav](https://github.com/AnandajithS)
 - [Gal Levin](https://github.com/GalLevin239)
 - [Gangireddy pavan](https://github.com/Gangireddypavan)
