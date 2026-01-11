@@ -92,6 +92,7 @@
 - [Angad Bhalla](https://github.com/Anga205)
 - [Ange Scotto](https://github.com/321-iT)
 - [Angel Sara](https://github.com/Angelishere)
+- [Anil Nagvanshi](https://github.com/Kakashi27)
 - [Anirudh Panigrahi](https://github.com/Anirudh-020505)
 - [Anish Banda](https://github.con/anishbanda)
 - [Anjaneya Kumar](https://github.com/Anjaneyakumar18)
