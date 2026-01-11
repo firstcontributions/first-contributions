@@ -1041,6 +1041,7 @@
 - [원세영](https://github.com/seyoung5744)
 - [kaka](https://github.com/KK5241)
 - [tony nguyen](https://github.com/TonyNguyenVn17)
+- [Osamabin](https://www.kaggle.com/datasets)
 - [ffqwe](https://github.com/ffqwe)
 - [Amsapriya Krishnamoorthy](https://github.com/AmsapriyaKrishnamoorthy)
 - [Mohamed ALLOUACHE] (https://github.com/mohamedit-hash)
