@@ -1,5 +1,5 @@
 # Contributors
-- [Satvik](https://github.com/Satvikjain13)
+
 - [Ziyu](https://github.com/szyu345)
 - [0scrxk](https://github.com/oscrxk)
 - [@Zakiahsan-arch](https://github.com/Zakiahsan-arch)
@@ -690,6 +690,7 @@
 - [Sarvs](https://github.com/randoduck)
 - [Satheem Muwaffaq](https://github.com/satheem)
 - [Sathvik](https://github.com/Satthvik1026)
+- [Satvik](https://github.com/Satvikjain13)
 - [Satya-0611](https://github.com/Satya-0611)
 - [Saugat Giri](https://github.com/saugat1070)
 - [Saurabh Gupta](https://github.com/100rabhSG)
