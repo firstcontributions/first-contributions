@@ -115,6 +115,7 @@
 - [Aryalekshmi](https://github.com/narcissa2ar)
 - [Ash Ibarra](https://github.com/ashthewildfox)
 - [Ashen Umeda](https://github.com/ashenumeda)
+- [Lakshy Sharma](https://github.com/1lakshy)
 - [Ashiq](https://github.com/devopashiq)
 - [Ashmitha Chowdary Kommi](https://github.com/klu2400032417)
 - [Ashwin Koli](https://github.com/koliashwin)
