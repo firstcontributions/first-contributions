@@ -726,6 +726,7 @@
 - [Sohail](https://github.com/sohail78692)
 - [Soham Dandekar](https://github.com/sohamd008)
 - [Soham Patil](https://github.com/Soham-1616)
+- [Marko](https://github.com/Sokkram)
 - [Soulwill](https://github.com/soulwill1)
 - [Soumyadip Dutta](https://github.com/Soumyadip1004)
 - [Sourabh Gupta](https://github.com/srb1998)
