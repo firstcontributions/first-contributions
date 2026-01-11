@@ -192,6 +192,7 @@
 - [Chang Liu](https://github.com/canyonliu8-code)
 - [Chathura](https://github.com/PrabashanaDev)
 - [Chenghou Si](https://github.com/ChenghouSi)
+- [Ayush Bundela](https://github.com/heyush79)
 - [Chien Minh](https://github.com/chien226674-afk)
 - [Chirag Bimali](https://github.com/chirag-bimali)
 - [Chitla Jashwanth](https://github.com/jashwanth1128)
