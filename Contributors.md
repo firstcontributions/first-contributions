@@ -586,6 +586,7 @@
 - [Plexton](https://github.com/ZaibLComrade)
 - [Pouya Esfahani](https://github.com/Pooyash1998)
 - [Pradnya Patil](https://github.com/Pradnya-2006)
+- [Pragati Priya](https://github.com/pragati-2004)
 - [Praise Oke](https://github.com/1joat)
 - [Prajaka Jagdale](https://github.com/Hermione28)
 - [Pramod Dhungana](https://github.com/dhunganapramod9)
