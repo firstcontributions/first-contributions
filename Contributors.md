@@ -702,6 +702,7 @@
 - [Shantanu Dhane](https://github.com/Dev-Santo44)
 - [Sharad vyas](https://github.com/sharadvyas123)
 - [Sharath Chandhan](https://github.com/sharath0x)
+- [Shardul Chincholkar](https://github.com/shadow20-03)
 - [Shariq Naseem](https://github.com/muhammadshariq0007)
 - [Sharma22053](https://github.com/Sharma22053)
 - [Shashank Lakhaiyar](https://github.com/shawshank-fork)
