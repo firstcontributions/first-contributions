@@ -412,6 +412,7 @@
 - [Kevin Wang](https://github.com/KevinWangHP)
 - [Khamza Zhanbolat](https://github.com/KhamzaZhanbolat)
 - [Kingsley Sarkodie](https://github.com/JoeBuydemDips)
+- [kirichanmo](https://github.com/kirichanmo)
 - [Kishita Deotale](https://github.com/kishitadeotale24)
 - [Kjohnbaba](https://github.com/kjohnbaba)
 - [Koichi-Kodama](https://github.com/Kytoshi)
