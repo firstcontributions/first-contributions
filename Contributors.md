@@ -115,6 +115,7 @@
 - [Arti Shelar](https://github.com/shelararti)
 - [Arumugam N](https://github.com/blackwolf2902)
 - [Aryalekshmi](https://github.com/narcissa2ar)
+- [Aryaja C](https://github.com/aryaja-c)
 - [Ash Ibarra](https://github.com/ashthewildfox)
 - [Ashen Umeda](https://github.com/ashenumeda)
 - [Ashiq](https://github.com/devopashiq)
