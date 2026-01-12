@@ -476,6 +476,7 @@
 - [Majid Seifi](https://github.com/majidseifi)
 - [Malvin-sehmaluva-Machingura](https://github.com/sehmaluva)
 - [Mangelib](https://github.com/mangelib)
+- [Manish Tiwari](https://github.com/manishtiwari-45)
 - [Manjeet Singh](https://github.com/manjeetsingh78)
 - [Manjunatha H](https://github.com/Manjunatha-h)
 - [Manthan Nimonkar](https://github.com/Manthancode28)
