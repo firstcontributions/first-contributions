@@ -6,6 +6,7 @@
     "name": "firstcontributions",
     "email": "firstcontributions@gmail.com",
     "phone": "",
+    "Student":"Y/N",
     "description": "Improve accessibility with enhanced documentation tailored for beginners and create opportunities for first-time contributors to get involved. Focus on building great software while inspiring a thriving, collaborative community around open source projects.",
     "webpageUrl": {
       "url": "https://github.com/firstcontributions/first-contributions"
