@@ -40,6 +40,7 @@
 - [Aditya kumar](https://github.com/Aditya754194)
 - [Aditya](https://github.com/Lumowhisp)
 - [AdiyaTakhell](https://github.com/AdiyaTakhell)
+- [Aditya Rahmad](https://github.com/AdityaZxxx)
 - [Adnan Hussen](https://github.com/adnan-hussen)
 - [Adrian PC M](https://github.com/AdrianPCM)
 - [Adrienne Medenilla](https://github.com/Adrienneme)
