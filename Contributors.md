@@ -460,6 +460,7 @@
 - [LiuSam](https://www.youtube.com/CommitKU)
 - [Livia Neto](https://github.com/LiviaNeto)
 - [Lohith Arcot](https://github.com/LohithArcot)
+- Buffed Fingers
 - [Loic Hounyovi](https://github.com/mechakc)
 - [LoongSir-ME](https://github.com/LoongSir-ME)
 - [LostChyld](https://github.com/dragonsewist/)
