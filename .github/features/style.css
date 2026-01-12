@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+input {
+  padding: 5px;
+  margin-bottom: 10px;
+}
+li.contributor {
+  padding: 3px 0;
+}
+li.contributor:hover {
+  background-color: #f0f0f0;
+}
