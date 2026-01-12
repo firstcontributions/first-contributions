@@ -569,6 +569,7 @@
 - [Nirbhay Bawankule](https://github.com/NirbhayBawankule)
 - [Nirupam Paul](https://github.com/101paul)
 - [Nischal Binil](https://github.com/cinnamonMuffin)
+- [Bharath Pradeep Chandran](https://github.com/bharathxc)
 - [Nishant K Joshyabhatla](https://github.com/nishantkj911)
 - [Nishant khatri](https://github.com/nishant-khatri17)
 - [Nishant kumar](https://github.com/nishantraj06)
