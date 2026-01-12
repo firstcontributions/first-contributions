@@ -14,6 +14,7 @@
 - [ASaHi Chin](https://github.com/Cxlyq)
 - [Aadarsh Pandey](https://github.com/beingadish)
 - [Rajasri Kuchana](https://github.com/Rajasrikuchana)
+- [Ivan Uribe](https://github.com/ivancuribe124)
 - [Aaliyah Raheem](https://github.com/aaliot)
 - [Suchit](https://github.com/suchit-hirani-python-ak)
 - [Aaron Lee](https://github.com/acelee0621)
