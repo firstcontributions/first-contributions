@@ -702,6 +702,7 @@
 - [Sahar Mahmoudi](https://github.com/saharmahmoudi)
 - [Sahil Sankhyan](https://github.com/Sahil12341)
 - [Sahil Sharma](https://github.com/sahil-me)
+- [Sahithi Karangala](https://github.com/SahithiKarangala)
 - [Said Berk](https://github.com/saidberk27)
 - [Sakshi Singh](https://github.com/236sakshi)
 - [Sal Adrian](https://github.com/Sal-Adrian)
