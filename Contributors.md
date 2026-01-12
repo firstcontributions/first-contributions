@@ -28,7 +28,7 @@
 - [Abhijit-Gautam](github.com/Abhijit-Gautam)
 - [Mohammed Saqib Rehaman Namzi](https://github.com/md-saqib001)
 - [Abhilash Reddy](https://github.com/AbhilashReddy1519)
-Rishin
+  Rishin
 - [Abhinand B](https://github.com/abhinand2511)
 - [Abinesh Sundar](https://github.com/Abinesh-Sundar/a-open-source)
 - [sai krupali konda](https://github.com/saikrupalikonda)
@@ -821,6 +821,7 @@ Rishin
 - [Tyler Daw](https://github.com/TylerD1105)
 - [Udhaya parameshwaran](https://github.com/UdhayaParameshwaran-ai)
 - [Utkarsh Gupta](https://github.com/utkarshg9981)
+- [1828](https://github.com/18-28)
 - [V K Suvetha](https://github.com/vksuvetha)
 - [Vaibhav Bakliwal](https://github.com/bakliwalvaibhav1)
 - [Vaibhav Dhariwal](https://github.com/VaibhavDhariwal8)
