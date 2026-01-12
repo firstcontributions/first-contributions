@@ -2,6 +2,7 @@
 
 - [Ziyu](https://github.com/szyu345)
 - [Himanshi](https://github.com/himanshi-0070)
+- [Alnoor](https://github.com/Alnoormahmoud)
 - [0scrxk](https://github.com/oscrxk)
 - [@Zakiahsan-arch](https://github.com/Zakiahsan-arch)
 - [DenizFeital] (https://github.com/DenizFeital)
