@@ -828,6 +828,7 @@
 - [Vaibhav Kemani](https://github.com/VKpahadi)
 - [Vaishnavi Jagtap](https://github.com/vaishnavijagtap02)
 - [Vaishnavi KN](https://github.com/Vaishnavi-KN)
+- [Vaishnavi Kumbhar](https://github.com/kumbharvaishnavi31)
 - [Vaishnavi Parodkar](https://github.com/vaishnavi-parodkar)
 - [Vaishnavi Suryawanshi](https://github.com/VaishnaviSW01)
 - [Valdivino Ferreira Borges Neto](https://github.com/ValdivinoFerreira)
