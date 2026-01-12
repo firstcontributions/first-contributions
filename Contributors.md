@@ -194,6 +194,7 @@
 - [Carina Mach](https://github.com/carinamach)
 - [Carlos FH](https://github.com/carlosfhz13)
 - [Cat-o-Bot](https://github.com/evgshv)
+- [Soham Das](https://github.com/SohamDas1502)
 - [Chaimae](https://github.com/GRICHChaimae)
 - [Chamith Dilshan Tharuka](https://github.com/ChamithDilshanTharuka)
 - [Chandan Bhirud](https://github.com/chandanb778)
