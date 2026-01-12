@@ -372,6 +372,7 @@
 - [Jason Pham](https://github.com/JeisonPham)
 - [Jason Wiggs](https://github.com/wiggs30)
 - [Jayanth](https://github.com/MUNJETIJAYANTHKRISHNA)
+- [Jaymin Dave](https://github.com/jaymin-dave-python-ak)
 - [Jayesh Patil](https://github.com/JayeshPatil163)
 - [Jeevika R](https://github.com/jeevikar14)
 - [Jenish Dangol](https://github.com/Jenis980)
