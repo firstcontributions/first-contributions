@@ -22,7 +22,7 @@
 - [Abhay Choudhary](https://github.com/Abhayrcb?tab=repositories)
 - [Mir Araf Hossain](https://github.com/zaivsNoob)
 - [Abhay Raj Agnihotri](https://github.com/abhayrajagnihotri)
-- [Abhijit-Gautam](github.com/Abhijit-Gautam)
+- [Kishan Vyas](github.com/kishan-vyas-aiml-ak)
 - [Mohammed Saqib Rehaman Namzi](https://github.com/md-saqib001)
 - [Abhilash Reddy](https://github.com/AbhilashReddy1519)
 - [Abhinand B](https://github.com/abhinand2511)
