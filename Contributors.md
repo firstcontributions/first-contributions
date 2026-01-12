@@ -807,6 +807,7 @@
 - [Tushar Moolya](https://github.com/tushiar)
 - [Tyler Daw](https://github.com/TylerD1105)
 - [Udhaya parameshwaran](https://github.com/UdhayaParameshwaran-ai)
+- [Utkarsh Gupta](https://github.com/utkarshg9981)
 - [V K Suvetha](https://github.com/vksuvetha)
 - [Vaibhav Bakliwal](https://github.com/bakliwalvaibhav1)
 - [Vaibhav Dhariwal](https://github.com/VaibhavDhariwal8)
