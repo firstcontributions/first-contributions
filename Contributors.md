@@ -14,6 +14,7 @@
 - [Aadarsh Pandey](https://github.com/beingadish)
 - [Rajasri Kuchana](https://github.com/Rajasrikuchana)
 - [Aaliyah Raheem](https://github.com/aaliot)
+- [Suchit](https://github.com/suchit-hirani-python-ak)
 - [Aaron Lee](https://github.com/acelee0621)
 - [Abdelkader Charef Eddine Djellil (djacbi)](https://github.com/AbdelkaderCE/)
 - [Abdelwakil](https://github.com/fondbcn)
