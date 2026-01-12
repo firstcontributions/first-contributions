@@ -409,6 +409,7 @@
 - [Jose Nino Muriel](ttps://github.com/josenino95)
 - [Jose Rios](https://github.com/josel006)
 - [Jose Soto](https://github.com/jossotriv)
+- Oliver Wang 
 - [JosephAlexander](https://github.com/Josephalexander06)
 - [Josh Jordal](https://github.com/JJordal)
 - [Joshua Hans](https://github.com/joshhans21)
