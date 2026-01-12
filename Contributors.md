@@ -739,6 +739,7 @@
 - [Shiva](https://github.com/sh1vananda)
 - [Shivam Yadav](https://github.com/Shivam1q)
 - [Shivang](https://github.com/shivang-jnv)
+- [stella](https://github.com/Janb05)
 - [Shlok Gupta](https://github.com/LogicHymn)
 - [Shmelev Valentin](https://github.com/ValyaSHmelev)
 - [Shozab Ali Nasir](https://github.com/shozabali06)
