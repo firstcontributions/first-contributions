@@ -1,5 +1,4 @@
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -8,7 +7,7 @@
 
 நீங்கள் ஏதாவது ஒன்றை முதல் முறை செய்யும் போது அது எப்போதுமே கடினமாக தான் இருக்கும்.
 குறிப்பாக, நீங்கள் குழுவாக சேர்ந்து வேலை செய்யும் போது, தவறு செய்துவிட்டால் அது மிகவும்
-வருத்தம் அளிக்கக்கூடியாதாக இருக்கும். ஆகையால், திறந்த மூல மென்பொருள்
+வருத்தம் அளிக்கக்கூடியதாக இருக்கும். ஆகையால், திறந்த மூல மென்பொருள்
 (open-source software) பங்களிப்பாளர்களாக எவ்வாறு செயலாற்ற வேண்டும் என்பதையும்
 அதில் முதல் முறையாக பங்களிப்பு செய்வதை எளிதாக்குவதுமே எங்கள் நோக்கம்.
 
@@ -27,50 +26,50 @@
 ## இந்த repository ஐ fork செய்தல்
 
 
-இந்த பக்கத்தின் மேலே உள்ள fork பொத்தானைக் கிளிக் செய்வதன் மூலம் செயட்படுத்தலாம்.
-இது உங்கள் account இல் ஒரு copy ஐ உருவாக்கும்.
+இந்த பக்கத்தின் மேலே உள்ள fork பொத்தானைக் சொடுக்குவதன் மூலம் செயல்படுத்தலாம்.
+இது உங்கள் account இல் ஒரு நகலை உருவாக்கும்.
 
 ## இந்த repository ஐ clone செய்தல்
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="இந்த repository ஐ clone செய்யவும்" />
 
-இப்போது உங்கள் கணினியில் fork செய்யப்பட்ட repository ஐ clone செய்யவும். உங்கள் GitHub கணக்கிற்குச் சென்று, forked செய்யப்பட்ட repository ஐ open செய்து clone பொத்தானைக் கிளிக் செய்து copy to clipboard கிளிக் செய்வதன் மூலம் நிறைவேற்றலாம்.
+இப்போது உங்கள் கணினியில் fork செய்யப்பட்ட repository ஐ clone செய்யவும். உங்கள் GitHub கணக்கிற்குச் சென்று, forked செய்யப்பட்ட repository ஐ திறந்து clone பொத்தானைக் சொடுக்கிய பின் copy to clipboard சொடுக்குவதன் மூலம் நிறைவேற்றலாம்.
 
-*terminal* அல்லது *command prompt* ஐ open செய்து  பின்வரும் git கட்டளையை இயக்கவும்:
+*terminal* அல்லது *command prompt* ஐ திறந்து பின்வரும் git கட்டளையை இயக்கவும்:
 
-```
+```bash
 git clone "நீங்கள் copy செய்த url"
 ```
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="URL ஐ கிளிப்போர்டுக்கு நகலெடுக்கவும்" />
 
 
 உதாரணத்திற்கு:
 
 ```
-git clone https://github.com/இது நீங்கள்/first-contributions.git
+git clone https://github.com/<உங்கள்-பயனர்பெயர்>/first-contributions.git
 ```
 
-இங்கு `இது நீங்கள்` என்பது GitHub username என்பதாகும். இதன் மூலம் நீங்கள் first-contributions repository இன் பிரதி ஒன்றை உங்கள் GitHub கணக்கில் செயட்படுத்துகிறீர்கள்.
+இங்கு `<உங்கள்-பயனர்பெயர்>` என்பது GitHub username என்பதாகும். இதன் மூலம் நீங்கள் first-contributions repository இன் பிரதி ஒன்றை உங்கள் GitHub கணக்கில் செயட்படுத்துகிறீர்கள்.
 
 ## கிளையொன்றை  உருவாக்குதல்
 
 repository directory க்கு செல்லவும் (நீங்கள் ஏற்கனவே அங்கு இல்லையென்றால்):
 
-```
+```bash
 cd first-contributions
 ```
 
 
 இப்போது `git checkout` கட்டளையைப் பயன்படுத்தி ஒரு கிளையை உருவாக்கவும்:
 
-```
+```bash
 git checkout -b <உங்கள்-கிளையின்-பெயர்>
 ```
 
 உதாரணத்திற்கு:
 
-```
+```bash
 git checkout -b உங்கள்-கிளையின்-பெயர்
 ```
 
@@ -78,40 +77,40 @@ git checkout -b உங்கள்-கிளையின்-பெயர்
 
 ## தேவையான மாற்றங்களைச் செய்து அந்த மாற்றங்களை commit செய்யுங்கள்
 
-இப்போது *text editor* அல்லது *notepad* இல் `Contribitors.md` கோப்பைத் திறந்து, அதில் உங்கள் பெயரைச் சேர்க்கவும். கோப்பின் தொடக்கத்திலோ அல்லது முடிவிலோ இதைச் சேர்க்க வேண்டாம். இடையில் எங்கும் வைக்கவும். இப்போது, ​​கோப்பை சேமிக்கவும்.
+இப்போது *text editor* அல்லது *notepad* இல் `Contributors.md` கோப்பைத் திறந்து, அதில் உங்கள் பெயரைச் சேர்க்கவும். கோப்பின் தொடக்கத்திலோ அல்லது முடிவிலோ இதைச் சேர்க்க வேண்டாம். இடையில் எங்கும் வைக்கவும். இப்போது, ​​கோப்பை சேமிக்கவும்.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="கிட் ஸ்டாடஸ்" />
 
-நீங்கள் project directory சென்று `git status` இயக்கினால், மாற்றங்கள் இருப்பதை நீங்கள் காண்பீர்கள்.
+நீங்கள் project directory க்கு சென்று `git status` இயக்கினால், மாற்றங்கள் இருப்பதை நீங்கள் காண்பீர்கள்.
 
 
 `git add` கட்டளையைப் பயன்படுத்தி நீங்கள் உருவாக்கிய கிளையில் அந்த மாற்றங்களைச் சேர்க்கவும்:
 
-```
+```bash
 git add Contributors.md
 ```
 
 இப்போது `git commit` கட்டளையைப் பயன்படுத்தி அந்த மாற்றங்களைச் செய்யுங்கள்:
 
 ```
-git commit -m "Add <உங்கள்_பெயர்> to Contributors list"
+git commit -m "Add <உங்கள்-பெயர்> to Contributors list"
 ```
 
-`உங்கள்_பெயர்` என்ற இடத்தில் உங்கள் பெயரை கொடுங்கள்.
+`<உங்கள்-பெயர்>` என்ற இடத்தில் உங்கள் பெயரை கொடுங்கள்.
 
-## மாற்றங்களை GitHub இட்கு push செய்தல்
+## மாற்றங்களை GitHub ற்கு push செய்தல்
 
 `git push` கட்டளையைப் பயன்படுத்தி உங்கள் மாற்றங்களைத் தள்ளுங்கள்:
 
-```
+```bash
 git push origin <உங்கள்-கிளையின்-பெயர்>
 ```
 
 
-`<உங்கள்-கிளையின்-பெயர்>` ஐ நீங்கள் முன்பு உருவாக்கிய கிளையின் பெயருடன் மாற்றுங்கள்.
+`<உங்கள்-கிளையின்-பெயர்>` என்றிருக்கும் இடத்தில் நீங்கள் முன்பு உருவாக்கிய கிளையின் பெயரை உள்ளிடுங்கள்.
 
 <details>
-<summary> <strong>push செய்யும் போது ஏதேனும் பிழைகள் ஏற்பட்டால், இங்கே கிளிக் செய்யவும்:</strong> </summary>
+<summary> <strong>push செய்யும் போது ஏதேனும் பிழைகள் ஏற்பட்டால், இங்கே சொடுக்கவும்:</strong> </summary>
 
 - ### அங்கீகாரப் பிழை
      <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
@@ -124,24 +123,24 @@ git push origin <உங்கள்-கிளையின்-பெயர்>
 ## உங்கள் மாற்றங்களை மதிப்பாய்வுக்கு சமர்ப்பிக்கவும்
 
 
-GitHub இல் உள்ள உங்கள் களஞ்சியத்திற்குச் சென்றால், `Compare & pull request` கோரிக்கை பொத்தானைக் காண்பீர்கள். அந்த பொத்தானைக் கிளிக் செய்க.
+GitHub இல் உள்ள உங்கள் களஞ்சியத்திற்குச் சென்றால், `Compare & pull request` கோரிக்கை பொத்தானைக் காண்பீர்கள். அந்த பொத்தானை சொடுக்கவும்.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="Pull கோரிக்கையை உருவாக்கவும்" />
 
 இப்போது இழுக்கும் கோரிக்கையை சமர்ப்பிக்கவும்.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="Pull கோரிக்கையை சமர்ப்பிக்கவும்" />
 
-விரைவில் உங்கள் எல்லா மாற்றங்களையும் இந்த திட்டத்தின் முதன்மை கிளையில் இணைக்கப்படும். மாற்றங்கள் ஒன்றிணைக்கப்பட்டவுடன் உங்களுக்கு அறிவிப்பு மின்னஞ்சல் கிடைக்கும்.
+விரைவில் உங்கள் எல்லா மாற்றங்களும் இந்த திட்டத்தின் முதன்மை கிளையில் இணைக்கப்படும். மாற்றங்கள் ஒன்றிணைக்கப்பட்டவுடன் உங்களுக்கு அறிவிப்பு மின்னஞ்சல் கிடைக்கும்.
 
 ## இங்கிருந்து எங்கு செல்வது?
 
-வாழ்த்துக்கள்! நீங்கள் ஒரு பங்களிப்பாளராக அடிக்கடி சந்திக்கும் _fork -> clone -> edit -> PR_ பணிப்பாய்வு முடித்துவிட்டீர்கள்.
+வாழ்த்துக்கள்! நீங்கள் ஒரு பங்களிப்பாளராக அடிக்கடி சந்திக்கும் _fork -> clone -> edit -> PR_ பணிப்பாய்வை முடித்துவிட்டீர்கள்.
 
 
 உங்கள் பங்களிப்பைக் கொண்டாடுங்கள் மற்றும் உங்கள் நண்பர்கள் மற்றும் பின்தொடர்பவர்களுடன் [web app](https://firstcontributions.github.io/#social-share) சென்று பகிர்ந்து கொள்ளுங்கள்.
 
-உங்களுக்கு ஏதேனும் உதவி தேவைப்பட்டால் அல்லது ஏதேனும் கேள்விகள் இருந்தால் எங்கள் slack team இல் இணையலாம். [Join our slack crew](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)..
+உங்களுக்கு மேலும் பயிற்சி தேவைப்பட்டால், [code contributions](https://github.com/roshanjossey/code-contributions) என்னும் செயலை சரிபார்க்கலாம்.
 
 இப்போது மற்ற திட்டங்களுக்கு பங்களிப்பதன் மூலம் தொடங்குவோம். நீங்கள் தொடங்கக்கூடிய எளிதான சிக்கல்களுடன் திட்டங்களின் பட்டியலை நாங்கள் தொகுத்துள்ளோம். பாருங்கள் [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
 
