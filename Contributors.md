@@ -30,7 +30,7 @@
 - [Abhilash Reddy](https://github.com/AbhilashReddy1519)
   Rishin
 - [Abhinand B](https://github.com/abhinand2511)
-Aryan Sharma
+  Aryan Sharma
 - [Abinesh Sundar](https://github.com/Abinesh-Sundar/a-open-source)
 - [sai krupali konda](https://github.com/saikrupalikonda)
 - [Abusaeed Shuvo](https://github.com/abusaeed-shuvo)
@@ -995,6 +995,7 @@ Aryan Sharma
 - [nepryoon](https://github.com/nepryoon)
 - [nishida675](https://github.com/nishida675)
 - [notchkxge](https://github.com/notchkxge)
+- [notnimna](https://github.com/Not-Nimna)
 - [nukai0](https://github.com/nukai0)
 - [oogway-x3t](https://github.com/oogway-x3t)
 - [outsutski](https://github.com/outsutski)
