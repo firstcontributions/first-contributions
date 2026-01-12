@@ -686,6 +686,7 @@
 - [SNN](https://github.com/sungenyeint)
 - [SWanHK](https://github.com/swanhk)
 - [Sachin vk](https://github.com/sachindasvk)
+- [Pow](https://github.com/powfps1)
 - [Sachin](https://github.com/sachinkashi21)
 - [Sadeep Dilshan Kasthuriarachchi](https://github.com/sadeep654)
 - [Safi2099](https://github.com/Safi2099)
