@@ -505,6 +505,7 @@
 - [MayLeaf](https://github.com/may-leaf)
 - [Mayank Ghildiyal](https://github.com/mayank2699)
 - [MayurHedau](https://github.com/mayurdweek)
+- [Mayur Chalke](https://github.com/Mayur01-gg)
 - [Mazhum](https://github.com/mazummohammad)
 - [Md Najrul Ansari](https://github.com/najru01)
 - [Meg Hiatt](https://github.com/hiatt8649)
