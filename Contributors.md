@@ -591,6 +591,7 @@
 - [Omkar Gurav](https://github.com/OmkarGurav1)
 - [OmkarS](https://github.com/omkar402)
 - [Omm Prakash Nayak](https://github.com/bithal2006)
+- [Omkar Ala](https://github.com/omkarala)
 - [Ong TX](https://github.com/AlexanderXI0904)
 - [OpenSeeker](https://github.com/OpenSeeker)
 - [Osman Kaplan](https://github.com/kplnosmn94-droid)
