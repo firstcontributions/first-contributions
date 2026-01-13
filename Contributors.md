@@ -70,6 +70,7 @@
 - [Alankar Jagtap](https://github.com/AlankarJagtap)
 - [Alanto Manu](https://github.com/alantomanu)
 - [Alejandro Aceituno](https://github.com/clement-zentz)
+- [Sangini Tripathi](https://github.com/Sangini-spec)
 - [Alekscybercendre](https://github.com/Alekcybercendre)
 - [Alessandro Jablonski](https://github.com/ale2502)
 - [Alex-new-tech](https://github.com/Alex-new-tech)
