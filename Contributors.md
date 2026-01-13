@@ -1089,3 +1089,5 @@
 - [julianmetropolis](https://github.com/julianmetropolis)
 - [Mohamed Salih](https://github.com/mohamedsalihva)
 -[Mohamed Arfan](https://github.com/CatOn60Hz)
+
+- [Pranav Kohli](https://github.com/PranavKohli24)
