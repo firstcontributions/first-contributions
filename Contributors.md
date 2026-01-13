@@ -720,6 +720,7 @@
 - [Sakshi Singh](https://github.com/236sakshi)
 - [Sal Adrian](https://github.com/Sal-Adrian)
 - [Saloni](https://github.com/SaloniKasaudhan123)
+- [Somil Dolakia](https://github.com/somildholakia)
 - [Sam Kim](https://github.com/samuelkim28)
 - [Samar Bashath](https://github.com/SamarBashath)
 - [Samia-sh](https://github.com/samia-code0)
