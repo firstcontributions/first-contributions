@@ -110,6 +110,7 @@
 - [Anjali Kumari](https://github.com/Anjalikumari3136)
 - [Anjaneya Kumar](https://github.com/Anjaneyakumar18)
 - [Anjaneyulu](https://github.com/anjaneyulu-01)
+- [Vikas Pundir](https://github.com/Vikaspundir24)
 - [Ankit Singh](https://github.com/ANKITsingh-git2)
 - [Ankit](https://www.youtube.com/watch?v=u3y1MqX4egE)
 - [Nicolas Lizarazo](https://github.com/nicolas-lizarazo)
