@@ -954,6 +954,7 @@
 - [hmdaslam97](https://github.com/hmdaslam97)
 - [hridyam04](https://github.com/hridyam04)
 - [huangyikun11](https://github.com/huangyikun11)
+- [hun-cloud](https://github.com/hun-cloud)
 - [iSymbol](https://github.com/iSyIt)
 - [iaiw3br](https://github.com/iaiw3br)
 - [idekwid](https://github.com/idekwid)
