@@ -974,6 +974,7 @@
 - [idrees](https://github.com/idrees2k22)
 - [ikimathi](https://github.com/ikimathi)
 - [ipsitdebnath](https://github.com/ipsitdebnath)
+- [Jennica Zheng](https://github.com/MikoJZ)
 - [jhc4318](https://github.com/jhc4318)
 - [jiakeboge](https://github.com/jiakeboge)
 - [jorsyk](https://github.com/jorsyk)
