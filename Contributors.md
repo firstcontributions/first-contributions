@@ -1,7 +1,6 @@
 # Contributors
-- [Odin531](https://github.com/Odin531) - hello everyone this is my first contribution.
 - [hesphoros](https://github.com/hesphoros) - Hello everyone,I am trying to be a distinguished developer.
-
+- [Odin531](https://github.com/Odin531) - hello everyone this is my first contribution.
 - [Gary Chen](https://github.com/Gary-XC) - Starting my first contribution to open source in 2026, the first of many to come
 - [mr-bott](https://github.com/mr-bott) - First open-source contribution to a public GitHub repository.
 - [Ajith k v](https://github.com/Ajith66310) - Wishing everyone good luck..
