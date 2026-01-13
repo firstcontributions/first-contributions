@@ -1,5 +1,5 @@
 # Contributors
-
+-[Harsh Agarwal](https://github.com/agrwalh)
 - [Salvogiarracca](https://github.com/Salvogiarracca)
 - [Ziyu](https://github.com/szyu345)
 - [Himanshi](https://github.com/himanshi-0070)
