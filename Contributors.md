@@ -419,7 +419,7 @@
 - [Jose Nino Muriel](ttps://github.com/josenino95)
 - [Jose Rios](https://github.com/josel006)
 - [Jose Soto](https://github.com/jossotriv)
-- Oliver Wang 
+- Oliver Wang
 - [JosephAlexander](https://github.com/Josephalexander06)
 - [Josh Jordal](https://github.com/JJordal)
 - [Joshua Hans](https://github.com/joshhans21)
@@ -438,6 +438,7 @@
 - [Kamakshi](https://github.com/kamakshipal1-tech)
 - [Kapil Kumar](https://github.com/kapilkumar05991)
 - [Kartheek Budime](https://github.com/kartheek0107)
+- [Karthika V](https://github.com/Karthika-0612)
 - [Kartik Yadav](https://github.com/kartik912)
 - [Kassahun F](https://github.com/Kas1398)
 - [Kaustubh Chaturvedi](https://github.com/Kaus-16)
@@ -1098,7 +1099,5 @@
 
 - - Monika [https://github.com/Monika-18777]
 - [julianmetropolis](https://github.com/julianmetropolis)
-- [Mohamed Salih](https://github.com/mohamedsalihva)
--[Mohamed Arfan](https://github.com/CatOn60Hz)
--[Nageeta Kumari](https://github.com/nageetaw)
+- [Mohamed Salih](https://github.com/mohamedsalihva) -[Mohamed Arfan](https://github.com/CatOn60Hz) -[Nageeta Kumari](https://github.com/nageetaw)
 - [Blas Sanchez](https://github.com/xbsanpan855-boop)
