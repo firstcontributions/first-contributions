@@ -1,6 +1,7 @@
 # Contributors
 
 - [Salvogiarracca](https://github.com/Salvogiarracca)
+- [Zenrsr](https://github.com/zenrsr)
 - [Ziyu](https://github.com/szyu345)
 - [Himanshi](https://github.com/himanshi-0070)
 - [Alnoor](https://github.com/Alnoormahmoud)
@@ -384,6 +385,7 @@
 - [Jason Ephraim Tjiunardi](https://github.com/jasontjiunardi)
 - [Jason Pham](https://github.com/JeisonPham)
 - [Jason Wiggs](https://github.com/wiggs30)
+- [S Jaswant](https://github.com/S-Jaswant18)
 - [Jayanth](https://github.com/MUNJETIJAYANTHKRISHNA)
 - [Jaymin Dave](https://github.com/jaymin-dave-python-ak)
 - [Jayesh Patil](https://github.com/JayeshPatil163)
@@ -1089,4 +1091,6 @@
 - [julianmetropolis](https://github.com/julianmetropolis)
 - [Mohamed Salih](https://github.com/mohamedsalihva)
 -[Mohamed Arfan](https://github.com/CatOn60Hz)
+ add-my-name
 - Simran Rai – Weather Station Data Analytics
+ main
