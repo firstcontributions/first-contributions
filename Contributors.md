@@ -1104,3 +1104,4 @@
 -[Mohamed Arfan](https://github.com/CatOn60Hz)
 -[Nageeta Kumari](https://github.com/nageetaw)
 - [Blas Sanchez](https://github.com/xbsanpan855-boop)
+- [Rithik Puthiyedath](https://github.com/Rithik149)
