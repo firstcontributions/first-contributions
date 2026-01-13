@@ -260,6 +260,7 @@
 - [Diana Solomon](https://github.com/dianasolomon)
 - [Dilkhush](https://github.com/dilkhushsaini72)
 - [Diogo Ferreira](https://github.com/fdiogo1)
+- [Pradeep Reddy](https://github.com/Pradeep0997)
 - [Dipak Rasal](https://dipakrasal2009)
 - [Disha520](https://github.com/Disha520)
 - [Divin Sota](https://github.com/divinsota/first-contributions)
