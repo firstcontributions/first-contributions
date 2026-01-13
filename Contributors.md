@@ -194,6 +194,7 @@
 - [Brian Griffin](https://github.com/SolidUmbrella)
 - [Bruno Costa](https://github.com/brunocosta-devlab)
 - [Bryan Johns](https://github.com/johbry17)
+- [Caiodiv](https://github.com/Caiodiv)
 - [C. Yin](https://github.com/cy-Yin)
 - [Caleb Rollf](https://github.com/lemonsloth)
 - [Cam](https://github.com/cameron-knowles)
