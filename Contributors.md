@@ -438,6 +438,7 @@
 - [Kazzpars](https://github.com/rid-acrh238)
 - [Keepas3](https://github.com/Keepas3)
 - [Keerthana-R](https://github.com/Kee1112)
+- [Keith Kaplan](https://github.com/darthkeith)
 - [Kent0011](https://github.com/Kent0011)
 - [Kevin Wang](https://github.com/KevinWangHP)
 - [Khamza Zhanbolat](https://github.com/KhamzaZhanbolat)
