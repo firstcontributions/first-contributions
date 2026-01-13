@@ -1090,8 +1090,37 @@
 - [OsamaShabih](https://github.com/osamashabih6960)
 - - [Jayakumar Codes](https://github.com/jayakumarcodes)
 
-- - Monika [https://github.com/Monika-18777]
-- [julianmetropolis](https://github.com/julianmetropolis)
-- [Mohamed Salih](https://github.com/mohamedsalihva)
--[Mohamed Arfan](https://github.com/CatOn60Hz)
--[Nageeta Kumari](https://github.com/nageetaw)
+- K. Kavya
+- [Amos ](https://github.com/Aliko2020): My First contribution on open source.
+- [Darshan K G](https://github.com/Darshankg18): My First open source contribution
+- [Openlyfree](https://github.com/openlyfree)
+- [Jonelis99](https://github.com/jonelis99/first-contributions): My First Contribution on Github
+- [Takuro](https://github.com/takuro3000): My First contribution on open source
+- [Abhishek Panwar](https://github.com/abhishek4050): My First open source contribution
+- [Srivalli Renduchintala](https://github.com/srihul) 
+- [Hani Gupta](https://github.com/haniigupta) : First open source contribution
+- [Venu Gopal](https://github.com/VenuGopalboggala):  First Open Source Contribution 2026
+- [Brooks Yu](https://github.com/Brooks-Yu): My First open source contribution
+- [lokesh](https://github.com/2400032210): My First contribution
+- [SHIKA-gfx](https://github.com/SHIKA-gfx) : Hello contribution World!
+- [Sanjana devi](https://github.com/sanjana806) : Hello new to opensource!
+- [Dev-syphax](https://github.com/Dev-syphax) : First contribution
+- Pranay Jajodia
+- [Laxmikant Thakur](https://github.com/laxmikant-thakur) : Exploring open source
+- [Tessa Watson](https://github.com/tessadae) : Hi fellow newbies
+- [Ranass10](https://github.com/Ranass10) : Hi brother exploring the open sourcegit
+- [naveen Garg](https://github.com/naveenkgrg): Excited to contribute! 
+-[Murarishetti Sudeksha]:i am so ecited this my first open source project to working
+- [Viswa Nikhitha](https://github.com/ViswaNikhitha)
+- Vinod Perera 
+- unique
+-[Abhinav bhardwaj](https://github.com/Abhinav145)
+-[Aarya Harne](https://github.com/AaryaHarne) 
+- [Teja](https://github.com/saitejx)
+- [Rickyxrc] : Hello github! Love u all!
+-[Rudrika Trivedi](https://github.com/rudrika778) : My first Open Source Contribution!
+-[RonyDevX](https://x.com/SDE_Rony)
+-[HaoyuPan](https://github.com/HaoyuPan) : My first Open Source Contribution!
+-[Aarya Dharmadhikari](https://github.com/aarya0044) : My first open source contribution!!
+- [Kiran Kumar](https://github.com/tm-kiran-kumar): My first step in contirbuting to world.
+- [Jasneet Kaur] (https://github.com/jasneetkr-1610): My first open source contiribution.
