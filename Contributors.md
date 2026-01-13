@@ -683,6 +683,7 @@
 - [Rifaldo](https://github.com/Rifaldo-dev)
 - [Rishabh](https://github.com/rishabh8870)
 - [Yash]
+- [Rishika](https://github.com/RISHIKA-A-S)
 - [Rishit Khandelwal](https://github.com/Rishit-Khandelwal)
 - [Rizvan](https://github.com/Rizvan337/)
 - [Riya Agrawal](https://github.com/riyaagrawal02)
