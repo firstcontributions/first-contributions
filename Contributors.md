@@ -1106,3 +1106,4 @@
 -[Nageeta Kumari](https://github.com/nageetaw)
 - [Blas Sanchez](https://github.com/xbsanpan855-boop)
 - [Rithik Puthiyedath](https://github.com/Rithik149)
+- [Adil khan](https://github.com/Adilkhan6465)
