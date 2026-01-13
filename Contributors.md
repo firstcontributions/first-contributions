@@ -1,6 +1,7 @@
 # Contributors
 
 - [Salvogiarracca](https://github.com/Salvogiarracca)
+- [Zenrsr](https://github.com/zenrsr)
 - [Ziyu](https://github.com/szyu345)
 - [Himanshi](https://github.com/himanshi-0070)
 - [Alnoor](https://github.com/Alnoormahmoud)
