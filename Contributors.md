@@ -1085,6 +1085,7 @@
 - [zaka](https://github.com/oraichezakariyae)
 - [lamKKe](https://github.com/lamKKe)
 - [zxc-lucky](https://github.com/zxc-lucky)
+- [fishleaf](https://github.com/fishleaf)
 - [Åke Gauffin](https://github.com/Ake-Gauffin)
 - [Đặng Hoàng Phúc](https://github.com/phuc220793-cpu)
 - [İsaməddin Qurbanov](https://github.com/isameddin35)
