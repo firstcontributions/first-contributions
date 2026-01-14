@@ -996,6 +996,7 @@
 - [jy-kong](https://github.com/jy-kong)
 - [kamil](https://github.com/Kamil115853)
 - [karan](https://github.com/karanhb-pixel)
+- [nintrees](https://github.com/nintreesssss)
 - [karthik shetty](https://github.com/KarthikShetty23)
 - [kevinmj12](https://github.com/kevinmj12)
 - [killjoybr](https://github.com/killjoybr)
