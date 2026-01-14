@@ -1,5 +1,5 @@
 # Contributors
-
+- [Sumit Jha](https://github.com/SumitTt1212)
 - [Salvogiarracca](https://github.com/Salvogiarracca)
 - [Zenrsr](https://github.com/zenrsr)
 - [Aisha](https://github.com/ashii5)
