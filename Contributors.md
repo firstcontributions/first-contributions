@@ -283,6 +283,7 @@
 - [Durga Vara Praveen](https://github.com/durgavarapraveen)
 - [Durva](https://github.com/durva7px)
 - [EB](https://github.com/boranj)
+- [JASP-R](https://github.com/JASP-R)
 - [Eddgar Rojas](https://github.com/Eddgar0)
 - [Edgar Justus](https://github.com/edgarjustus)
 - [Eduardo](https://github.com/Edd17369)
