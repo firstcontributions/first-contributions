@@ -65,6 +65,7 @@
 - [Ahmed Irfan N](https://github.com/irfan5122)
 - [Ahmed Yasir](https://github.com/ahmedyasir779)
 - [Aiman](https://github.com/PX201)
+- [Garvit Dayal] (https://github.com/garvitdayal28)
 - [Aissatou Mbaye](https://github.com/AissatouMbaye19)
 - [Akash Dhamane](https://github.com/explore)
   [Abhishek Maurya](https://github.com/AbhishekMauryaGEEK)
