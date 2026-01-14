@@ -445,6 +445,7 @@
 - [KG](https://github.com/kgoel9899)
 - [KMSDINESH](https://github.com/KMSDINESH)
 - [Kai Feng](https://github.com/kaifeng-cmd)
+- [Kaique S Silva](https://github.com/Kaique-S-Silva)
 - [Kai Krah](https://github.com/KaiKrah79)
 - [Kailash Rooj](https://github.com/Kailash-Rooj)
 - [Kajal Ahirwar](https://github.com/Kajal-Ahirwar)
