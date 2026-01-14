@@ -97,6 +97,7 @@
 - [Amit Kumar Patra](https://github.com/amitkumarpatra99)
 - [Amit Patil](https://github.com/meAmitPatil)
 - [Ammar Adnew](https://github.com/AmmarAdnew)
+- [Anvit Ajgaokar] (https://github.com/AnvitAjgaokar)
 - [Anand Raj](https://github.com/anandraj095)
 - [Anand Venugopal](https://github.com/anandvenugopal-tech)
 - [Anand](https://github.com/anand-0711)
