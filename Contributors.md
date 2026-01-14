@@ -1061,6 +1061,7 @@
 - [td2thinh](https://github.com/td2thinh)
 - [tember8003](https://github.com/tember8003)
 - [terror-akshat](https://github.com/terror-akshat)
+- [That1LinuxGuy](https://github.com/That1LinuxGuy)
 - [tka](https://github.com/theinkhaaung007)
 - [tmmiizzuu](https://github.com/tmmiizzuu)
 - [tr0ublekat](https://github.com/tr0ublekat)
