@@ -329,6 +329,7 @@
 - [Gaurav Mishra](https://github.com/gauravm03)
 - [Gaurav Singh](https://github.com/gauravsingh8026)
 - [Gauthier](https://github.com/gauthier-lecigne)
+- [Sujanprasad](https://github.com/Sujanprasad)
 - [Geetha Akshaya](https://github.com/geethaa23)
 - [Georges-Noé AHOMBO](https://github.com/georgesnoe)
 - [Georgia Pennington](https://github.com/gpenn4)
