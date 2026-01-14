@@ -487,6 +487,7 @@
 - [LoongSir-ME](https://github.com/LoongSir-ME)
 - [LostChyld](https://github.com/dragonsewist/)
 - [Loyd Ngei](https://github.com/LoydNgei)
+- [Lpscrim](https://github.com/lpscrim)
 - [Luan Lessa](https://github.com/LuanLessa)
 - [Lucas Couso Antunes](https://github.com/Rulyns)
 - [Luiz Augusto](https://github.com/Luizxdas)
