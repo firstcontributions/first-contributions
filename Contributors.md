@@ -19,6 +19,7 @@
 - [Rajasri Kuchana](https://github.com/Rajasrikuchana)
 - [Ivan Uribe](https://github.com/ivancuribe124)
 - [Aaliyah Raheem](https://github.com/aaliot)
+- [Miguel Hernandez](https://github.com/mangel-mhdez)
 - [Suchit](https://github.com/suchit-hirani-python-ak)
 - [Aaron Lee](https://github.com/acelee0621)
 - [Abdelkader Charef Eddine Djellil (djacbi)](https://github.com/AbdelkaderCE/)
