@@ -904,6 +904,7 @@
 - [Yulhui Kim](https://github.com/dbfgml2000)
 - [Yuval Cohen](https://github.com/yuval-cohen-dev)
 - [Yuval Tzur](https://github.com/yuvtz)
+- [Yuva Reddy](https://github.com/yuvareddy2005/campus-connect).
 - [Yux](https://github.com/rahumers321POPPy)
 - [Zahid-hussain19](https://github.com/Zahid-hussain19)
 - [Zaid Rasul](https://github.com/ZaidRasul)
