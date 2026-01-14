@@ -512,6 +512,7 @@
 - [Marcelo](https://github.com/marcelovazquez23)
 - [Marco Biaggi](https://github.com/mafpbiaggi)
 - [Marco Vargas](https://github.com/Marco180800)
+- [Maria Mitova] (https://github.com/mariami57)
 - [Mariana Rutter](https://github.com/marianaluu)
 - [Mario Sanchez](https://github.com/mcn22)
 - [Mariusz Jasko](https://github.com/Marjo185)
