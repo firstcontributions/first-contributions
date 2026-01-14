@@ -582,6 +582,7 @@
 - [Nasrul](https://github.com/nnayz)
 - [Natalia Joy Szmagaj](https://github.com/defjoy9)
 - [Nathan Bert](https://github.com/NathanBert)
+- [NathanES](https://github.com/nathanES)
 - [Natpu Enean](https://github.com/NatpuEnean)
 - [Naveen (NA-V10)](https://github.com/NA-V10)
 - [Naveen C](https://github.com/naveench98)
