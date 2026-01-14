@@ -33,6 +33,7 @@
 - [Abhay Choudhary](https://github.com/Abhayrcb?tab=repositories)
 - [Mir Araf Hossain](https://github.com/zaivsNoob)
 - [Abhay Raj Agnihotri](https://github.com/abhayrajagnihotri)
+- [Jayanth Reddy](https://github.com/Jayanth1825)
 - [Abhijit-Gautam](github.com/Abhijit-Gautam)
 - [Mohammed Saqib Rehaman Namzi](https://github.com/md-saqib001)
 - [Abhilash Reddy](https://github.com/AbhilashReddy1519)
