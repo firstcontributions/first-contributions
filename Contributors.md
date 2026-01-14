@@ -22,6 +22,7 @@
 - [Aaliyah Raheem](https://github.com/aaliot)
 - [Miguel Hernandez](https://github.com/mangel-mhdez)
 - [Suchit](https://github.com/suchit-hirani-python-ak)
+- [Manopalaniraja A](https://github.com/mano2102/)
 - [Aaron Lee](https://github.com/acelee0621)
 - [Abdelkader Charef Eddine Djellil (djacbi)](https://github.com/AbdelkaderCE/)
 - [EM KalpaniEkanayake](https://github.com/Kalpiekanayake)
