@@ -48,6 +48,7 @@
 - [Abhinand B](https://github.com/abhinand2511)
   Aryan Sharma
 - [Abinesh Sundar](https://github.com/Abinesh-Sundar/a-open-source)
+- [mreddieedarh](https://github.com/mreddieedarh)
 - [sai krupali konda](https://github.com/saikrupalikonda)
 - [Abusaeed Shuvo](https://github.com/abusaeed-shuvo)
 - [Adam Hicks](https://github.com/adamhicksiris)
