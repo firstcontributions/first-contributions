@@ -1,6 +1,7 @@
 # Contributors
 
 - [hezk](https://github.com/hezhikui)
+- [SYerasyl](https://github.com/syerasyl)
 - [Salvogiarracca](https://github.com/Salvogiarracca)
 - [AhmadObeid](https://github.com/AhmadObeid)
 - [Zenrsr](https://github.com/zenrsr)
@@ -121,6 +122,7 @@
 - [Anirudh Panigrahi](https://github.com/Anirudh-020505)
 - [Anish Banda](https://github.con/anishbanda)
 - [Anjali Kumari](https://github.com/Anjalikumari3136)
+- [Tejas Patil](https://github.com/Tejas2424-Tech)
 - [Anjaneya Kumar](https://github.com/Anjaneyakumar18)
 - [Anjaneyulu](https://github.com/anjaneyulu-01)
 - [Vikas Pundir](https://github.com/Vikaspundir24)
@@ -773,6 +775,7 @@
 - [ShaiQ Shah](https://github.com/shahshaiq)
 - [Shaik AKram](https://github.com/shaikfsd23)
 - [ShaikAyesha17](https://github.com/ShaikAyesha17)
+- [Shaj2311](https://github.com/Shaj2311)
 - [Shantanu Dhane](https://github.com/Dev-Santo44)
 - [Sharad vyas](https://github.com/sharadvyas123)
 - [Sharath Chandhan](https://github.com/sharath0x)
