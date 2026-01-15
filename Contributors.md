@@ -1069,6 +1069,7 @@
 - [rohansalunkhe](https://github.com/THEROHAN01)
 - [ronaldmirabal](https://github.com/ronaldmirabal)
 - [sai sankar reddy](https://github.com/saireddy-6825)
+- [sachzindu](https://github.com/sachzindu)
 - [santhosh teja](https://github.com/santhosh-7777)
 - [sasha4ka](https://github.com/sasha4ka)
 - [sathvikkv](https://github.com/sathvikkv556)
