@@ -1144,3 +1144,4 @@
 - [Gnanam Raghupathy Naidu](https://github.com/GnanamRaghupathy)
 - [Amrutha](https://github.com/Amrutha-dev25)
 - [Dustin Ober](https://github.com/dustinober1)
+- [Tarun Thakur](https://github.com/Tarun7864225)
