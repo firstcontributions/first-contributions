@@ -1,5 +1,6 @@
 # Contributors
 
+- [hezk](https://github.com/hezhikui)
 - [Salvogiarracca](https://github.com/Salvogiarracca)
 - [AhmadObeid](https://github.com/AhmadObeid)
 - [Zenrsr](https://github.com/zenrsr)
