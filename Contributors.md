@@ -144,6 +144,7 @@
 - [Apoorv Deshmukh](https://github.com/apoorvd06)
 - [Argha Saha](https://github.com/arg387)
 - [Arisa Abiko](https://github.com/arisaabiko)
+- [Rinto KC] (https://github.com/rinto-Cherian24) 
 - [Aritro](https://github.com/dev-Aarish)
 - [Arjun](https://github.com/arjundevensharma)
 - [Andreas Göttl](https://github.com/agoettl)
