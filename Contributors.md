@@ -543,6 +543,7 @@
 - [Mariydi](https://github.com/mariydi)
 - [Mark](https://github.com/markferritto)
 - [Marlene Davids](https://github.com/marls79)
+- [Marton Otvos](https://github.com/MartonOtvos)
 - [Maruthi S](https://github.com/JSMaruthi)
 - [Masalt0](https://github.com/Masalto5835)
 - [Masanadurai](https://github.com/Masanadurai007)
