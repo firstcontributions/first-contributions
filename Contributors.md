@@ -1,5 +1,6 @@
 # Contributors
 
+- [SYerasyl](https://github.com/syerasyl)
 - [Salvogiarracca](https://github.com/Salvogiarracca)
 - [AhmadObeid](https://github.com/AhmadObeid)
 - [Zenrsr](https://github.com/zenrsr)
