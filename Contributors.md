@@ -342,6 +342,7 @@
 - [Gaurav Singh](https://github.com/gauravsingh8026)
 - [Gauthier](https://github.com/gauthier-lecigne)
 - [Sujanprasad](https://github.com/Sujanprasad)
+- [Kavana Ganesh](https://github.com/KavanaGanesh-dev)
 - [Geetha Akshaya](https://github.com/geethaa23)
 - [Georges-Noé AHOMBO](https://github.com/georgesnoe)
 - [Georgia Pennington](https://github.com/gpenn4)
