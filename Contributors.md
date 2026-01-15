@@ -859,6 +859,7 @@
 - [Tum Teeradach](https://github.com/Tum-404)
 - [Tushar Balakrishnan](https://github.com/iamtusharbala)
 - [Tushar Moolya](https://github.com/tushiar)
+- [Tushar Qwerty](https://github.com/tushar743-ui)
 - [Tyler Daw](https://github.com/TylerD1105)
 - [Udhaya parameshwaran](https://github.com/UdhayaParameshwaran-ai)
 - [Utkarsh Gupta](https://github.com/utkarshg9981)
