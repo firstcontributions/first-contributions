@@ -5,6 +5,7 @@
 - [SYerasyl](https://github.com/syerasyl)
 - [Salvogiarracca](https://github.com/Salvogiarracca)
 - [AhmadObeid](https://github.com/AhmadObeid)
+- [EKEZDU] (https://github.com/ekezdu)
 - [Zenrsr](https://github.com/zenrsr)
 - [Aisha](https://github.com/ashii5)
 - [Ziyu](https://github.com/szyu345)
