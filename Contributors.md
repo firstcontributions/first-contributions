@@ -996,7 +996,7 @@
 - [jiakeboge](https://github.com/jiakeboge)
 - [jorsyk](https://github.com/jorsyk)
 - [jsutCodes](https://github.com/jsutCodes)
-- [rintokc] (https://github.com/rinto-Cherian24)
+- [rinto-kc] (https://github.com/rinto-Cherian24)
 - [jvleesenb](https://github.com/meatlake)
 - [jy-kong](https://github.com/jy-kong)
 - [kamil](https://github.com/Kamil115853)
