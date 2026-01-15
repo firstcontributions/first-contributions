@@ -1156,3 +1156,4 @@
 - [Tarun Thakur](https://github.com/Tarun7864225)
 - [Hasancan Nisanci](https://github.com/Bug1642)
 - [Kaushik S](https://github.com/KaushikS-coder)
+- [Victor Belusso](https://github.com/belusso)
