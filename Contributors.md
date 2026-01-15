@@ -19,6 +19,7 @@
 - [ARCHANA_GURUSAMY](https://github.com/ARCHANA-SENGUNTHAR)
 - [ARES](https://github.com/phoenixcodeforces-blip)
 - [ASaHi Chin](https://github.com/Cxlyq)
+- [vismitha]
 - [Aadarsh Pandey](https://github.com/beingadish)
 - [Rajasri Kuchana](https://github.com/Rajasrikuchana)
 - [Ivan Uribe](https://github.com/ivancuribe124)
