@@ -146,6 +146,7 @@
 - [Arisa Abiko](https://github.com/arisaabiko)
 - [Aritro](https://github.com/dev-Aarish)
 - [Arjun](https://github.com/arjundevensharma)
+- [Andreas Göttl](https://github.com/agoettl)
 - [Arnav Saraswat](https://github.com/arnavs-uol)
 - [Arshbir](https://github.com/Arshbir1)
 - [Artem Kiryukhin](https://github.com/Feugon)
