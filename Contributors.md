@@ -224,6 +224,7 @@
 - [Chitla Jashwanth](https://github.com/jashwanth1128)
 - [Christian Gongora](https://github.com/ChristianGongoraDeMoraes)
 - [Coaxus-ux](https://github.com/Coaxus-ux)
+- [Sleeping Cyber]
 - [ColorCode](https://github.com/benjaAguilar)
 - [Conor James](https://github.com/ConorsGitHub)
 - [CoventinaLachesis](github.com/CoventinaLachesis)
