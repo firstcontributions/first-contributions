@@ -1,5 +1,6 @@
 Sabeel Ur Rehman
 # Contributors
+- [Yordanos Asegidew](https://github.com/yordanosasegidew): My first opensource contribution yay!
 - [Swanand Siknis](https://github.com/swanand70): 21:09, 30-12-25, Happy new year, 2026!
 - [Paul Liu](https://github.com/Paul-111129): My first contribution!
 - [Ritesh Gite](https://github.com/RiteshGite): Hello by Ritsh
