@@ -227,6 +227,7 @@
 - [Capri Caviedes](https://github.com/caprivm)
 - [CaraMcG](https://github.com/caraMcG)
 - [Carburio](https://github.com/Carburio)
+- [Ahmad Zia](https://github.com/Ahmad-Zia10)
 - [Carina Mach](https://github.com/carinamach)
 - [Carlos FH](https://github.com/carlosfhz13)
 - [Cat-o-Bot](https://github.com/evgshv)
