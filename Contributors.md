@@ -817,6 +817,7 @@
 - [Sivani Kumar](https://github.com/Sivani-kn)
 - [Siyung Cho](https://github.com/SiyungCho)
 - [Slreyes](https://github.com/slreyes0120)
+- [Smesi36](https://github.com/smesi36)
 - [Smiky0](https://github.com/Smiky0)
 - [Snehitha Kurapati](https://github.com/kl2400030727)
 - [SoFarSoGoodya](https://github.com/sofarsogoodya)
