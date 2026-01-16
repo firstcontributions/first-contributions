@@ -12,6 +12,7 @@
 - [Himanshi](https://github.com/himanshi-0070)
 - [Alnoor](https://github.com/Alnoormahmoud)
 - [0scrxk](https://github.com/oscrxk)
+- [Harsh99-ops](https://github.com/Harsh99-ops)
 - [Safkatul-Islam](https://github.com/Safkatul-Islam)
 - [@Zakiahsan-arch](https://github.com/Zakiahsan-arch)
 - [Arpit]
@@ -278,6 +279,7 @@
 - [Devika Menon](https://github.com/DevikaaMenon)
 - [Devna jiya R](https://github.com/jiya22r)
 - [Dhairya Dev](https://github.com/hamzak51)
+- [Dhakshith S](https://github.com/Dhakshith)
 - [Dhanush M](https://github.com/Dhanush27m)
 - [Dhanush Shetty](https://github.com/dhanush-shetty1)
 - [Dhayanithi s r](https://github.com/its-dhaya)
