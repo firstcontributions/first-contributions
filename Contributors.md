@@ -997,6 +997,7 @@
 - [elijah](https://github.com/elijahladdie)
 - [emrlk](https://github.com/emrlk)
 - [enguy-hub](https://github.com/enguy-hub)
+- [danny chen](https://github.com/dannychen31)
 - [envy](https://github.com/envynshit)
 - [evneis](https://github.com/evneis)
 - [fedxemilio](https://github.com/fedxemilio)
