@@ -342,6 +342,7 @@
 - [Gabriel Augusto](https://github.com/gabrielaugusto23)
 - [Gabriel Fernandes](https://github.com/lgabrielmf)
 - [Gabriel Soares](https://github.com/gbrlzzz)
+- [Yash_coder]
 - [Gagan Bhatti](https://github.com/Gagan512)
 - [Paras](https://github.com/ParasSalonia)
 - [Gajji Chandu Yadav](https://github.com/AnandajithS)
@@ -662,6 +663,7 @@
 - [Pedro Chame](https://github.com/pedrochame)
 - [Pedro Silva](https://github.com/pcconraria)
 - [Pedro Tomáz](https://github.com/pdrotmz)
+- [ys]
 - [Phoenix Ouyang](https://github.com/phoenixouyang)
 - [Pia Yeah](https://github.com/piagildehaus)
 - [PiggerZZM](https://github.com/PiggerZZM)
