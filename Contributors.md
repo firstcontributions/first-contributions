@@ -340,6 +340,7 @@
 - [Fuad Hasan](https://github.com/itsfuad)
 - [Fuad](https://github.com/code-fuad)
 - [Furanimus](https://github.com/Furanimus)
+- [fuutot](https://github.com/fuutot)
 - [G1ts](https://github.com/G1tsG)
 - [Gabriel Augusto](https://github.com/gabrielaugusto23)
 - [Gabriel Fernandes](https://github.com/lgabrielmf)
