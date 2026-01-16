@@ -114,3 +114,37 @@ git push origin <ຊື່ branch ຂອງທ່ານ>
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
+
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
+
+# "Contribute" ຜົນງານໃນ GitHub ຮ່ວມກັບຄົນອື່ນເປັນຄັ້ງທຳອິດແມ່ນບໍ່?
+
+ມັນເປັນເລື່ອງທີ່ຂ້ອງຂ້າງຍາກໜ້ອຍໜຶ່ງ, ແຕ່ກ້າວທຳອິດໃນການເລີ່ມຕົ້ນເຮັດຫຍັງບາງຢ່າງມັນກໍ່ຈະຍາກແບບນີ້ສະເໝີ ໂດຍສະເພາະເວລາທີ່ຕ້ອງຮ່ວມງານກັບຄົນອື່ນ ເພາະເມື່ອເຮົາໄດ້ເຮັດຫຍັງຜິດພາດມັນກໍ່ມັກຈະເຮັດໃຫ້ເຮົາບໍ່ສະບາຍໃຈ, ແຕ່ວ່າໃນໂລກຂອງໂອເພັນຊອສ (open source) ຄືໂລກທີ່ເຮົາຕ້ອງໄດ້ເຮັດວຽກຮ່ວມກັນ! ເຮົາຈຶ່ງຢາກໃຫ້ຜູ້ທີ່ເຂົ້າມາໃໝ່ໄດ້ຮຽນຮູ້ວິທີການ "ຄອນທຣິບິ້ວ" ຜົນງານຮ່ວມກັບຄົນອື່ນໃນ GitHub ແບບງ່າຍໆ.
+
+ການອ່ານບົດຄວາມ ແລະ ການທີ່ໄດ້ທົດລອງເຮັດຕົວຢ່າງຕ່າງໆກໍ່ອາດຈະຊ່ວຍໄດ້, ແຕ່ເຖິງຢ່າງໃດກໍ່ຕາມ ຄົງຈະບໍ່ມີສິ່ງໃດເໜືອໄປກວ່າການທີ່ເຮົາໄດ້ລົງມືເຮັດດ້ວຍຕົນເອງ!. ໃນໂປຣເຈັກນີ້ຈະສອນໃຫ້ມືໃໝ່ຮູ້ຈັກການສົ່ງ "contribution" ທຳອິດໄດ້ຢ່າງງ່າຍໆ.
+
+ຫາກໃຜຍັງບໍ່ໄດ້ຕິດຕັ້ງ git ລົງໃນເຄື່ອງ, ທ່ານສາມາດກົດລິ້ງ [ຕິດຕັ້ງໄດ້ທີ່ນີ້](https://help.github.com/articles/set-up-git/)
+
+## ກົດ "Fork" ໂປຣເຈັກນີ້
+
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="Crea exemplar huius repositoris" />
+
+## ກົດປຸ່ມ "Clone" ໂປຣເຈັກນີ້
+
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="Replica hoc repositorium" />
+
+## ການຄັດ URL
+
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="URL in tabulam memoriae copia" />
+
+## ການກວດສອບ git status
+
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="Statum git" />
+
+## ສ້າງ Pull Request
+
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="Crea petitionem trahendi" />
+
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="Mitte petitionem trahendi" />
