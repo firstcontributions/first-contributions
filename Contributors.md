@@ -256,7 +256,7 @@
 - [Daniel Guo](https://github.com/DiiGii)
 - [Daniela Gallegos Dupuis](https://github.com/danigallegdup)
 - [Dao Duy Tin](https://github.com/duytin095)
-- [Dave Herr](https://github/dave-herr)
+- [Dave Herr](https://github.com/dave-herr)
 - [David Anane](https://github.com/plaestore)
 - [David Gralla](https://github.com/dgralla)
 - [Davide Loconte](https://github.com/DavideLoconte)
