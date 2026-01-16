@@ -18,6 +18,7 @@
 - [@Zakiahsan-arch](https://github.com/Zakiahsan-arch)
 - [Arpit]
 - [vivi214](https://github.com/vivi214)
+- [Newton Yetsedaw](https://github.com/NewtonY-dev)
 - [DenizFeital] (https://github.com/DenizFeital)
 - [A Szpatowski](https://github.com/aszpatowski)
 - [Diksha Kumari](https://github.com/dikshakr9763-sys)
