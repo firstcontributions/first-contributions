@@ -34,6 +34,7 @@ scandi
 - [Iam Pranav Yadav](https://github.com/pranav50227)
 - [Jayraje Shinde](https://github.com/Jayraje-Shinde)
 - [keynes steve AKPODE](https://github.com/keynessteve-cyber)
+- [Ayoub Aguezar](https://github.com/Ayoub-glitsh)
 - [Tinlia](https://github.com/Tinlia)
   [CecilioRatsimilo]
 - [FelipeC074](https://github.com/FelipeC074)
