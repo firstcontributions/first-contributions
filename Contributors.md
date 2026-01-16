@@ -1,6 +1,7 @@
 # Contributors
 
 - [hezk](https://github.com/hezhikui)
+- [twaga51](https://github.com/twaga51)
 - [Himanshu](https://github.com/Hima1234gh/)
 - [SYerasyl](https://github.com/syerasyl)
 - [Salvogiarracca](https://github.com/Salvogiarracca)
