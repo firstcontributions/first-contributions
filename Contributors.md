@@ -279,6 +279,7 @@
 - [Devika Menon](https://github.com/DevikaaMenon)
 - [Devna jiya R](https://github.com/jiya22r)
 - [Dhairya Dev](https://github.com/hamzak51)
+- [Dhakshith S](https://github.com/Dhakshith)
 - [Dhanush M](https://github.com/Dhanush27m)
 - [Dhanush Shetty](https://github.com/dhanush-shetty1)
 - [Dhayanithi s r](https://github.com/its-dhaya)
