@@ -840,6 +840,7 @@
 - [Subodh Kumar Swain](https://github.com/Subodg-12)
 - [Sudarshan Dongre](https://github.com/SudWasatch)
 - [Sudi Williams](https://github.com/sudi-W)
+- [Bahadir Kocabas](https://github.com/bahadirkoko)
 - [Sujal](https://github.com/sujaldarji)
 - [Sumaiya Akter Runa](https://www.linkedin.com/in/sumaiya-akter-runa-69b8b624a/)
 - [Sumer](https://github.com/SumerSabharwal)
