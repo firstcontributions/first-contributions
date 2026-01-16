@@ -30,6 +30,7 @@
 - [Aadarsh Pandey](https://github.com/beingadish)
 - [Rajasri Kuchana](https://github.com/Rajasrikuchana)
 - [Ivan Uribe](https://github.com/ivancuribe124)
+- [DimondO20](https://github.com/DimondO20)
 - [Aaliyah Raheem](https://github.com/aaliot)
 - [Miguel Hernandez](https://github.com/mangel-mhdez)
 - [Suchit](https://github.com/suchit-hirani-python-ak)
