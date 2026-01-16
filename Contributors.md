@@ -570,6 +570,7 @@
 - [Menschenkind](https://github.com/menschenkind)
 - [Merlin Dust](https://github.com/DustMerlin)
 - [Mesh Bright](https://github.com/MeshBright)
+- [Mehdi Yanat](https://github.com/Mehdi-Yanat)
 - [Michael B.](https://github.com/mbyrd3)
 - [Michael Baker](https://github.com/promptmike)
 - [Michael Codes](https://github.comMichael-LangCodes)
