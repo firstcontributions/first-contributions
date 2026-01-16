@@ -39,6 +39,7 @@
 - [Abdelwakil](https://github.com/fondbcn)
 - [Abdessamad-Mechouahi](https://github.com/abdessamad-26)
 - [Abdoulaye](https://github.com/elhadjdiab)
+- [Harsh-Langalia](https://github.com/harshlangalia007)
 - [Abhas Gaur](https://github.com/Abhas009)
 - [Jayant Ved] (https://github.com/jayant-ved)
 - [Abhay Choudhary](https://github.com/Abhayrcb?tab=repositories)
