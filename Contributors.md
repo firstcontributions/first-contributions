@@ -831,6 +831,7 @@
 - [Soulwill](https://github.com/soulwill1)
 - [Soumyadip Dutta](https://github.com/Soumyadip1004)
 - [Sourabh Gupta](https://github.com/srb1998)
+- [Spencer Irving](https://github.com/spencerirving)
 - [Srajan Gupta](https://github.com/srajang1805)
 - [Sriharshini Kuruvella](https://github.com/Sriharshini7)
 - [Srinivasan Baskaran](https://github.com/spiritedman4)
