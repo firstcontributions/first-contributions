@@ -308,6 +308,7 @@
 - [Duo](https://github.com/NamingRacksMyBrain)
 - [Durga Vara Praveen](https://github.com/durgavarapraveen)
 - [Durva](https://github.com/durva7px)
+- [Dwij Patel](https://github.com/Prime2510)
 - [EB](https://github.com/boranj)
 - [JASP-R](https://github.com/JASP-R)
 - [Eddgar Rojas](https://github.com/Eddgar0)
