@@ -15,6 +15,7 @@
 - [0scrxk](https://github.com/oscrxk)
 - [Harsh99-ops](https://github.com/Harsh99-ops)
 - [Safkatul-Islam](https://github.com/Safkatul-Islam)
+- [Shaikh Samee](https://github.com/samee554)
 - [@Zakiahsan-arch](https://github.com/Zakiahsan-arch)
 - [Arpit]
 - [vivi214](https://github.com/vivi214)
@@ -157,7 +158,7 @@
 - [Apoorv Deshmukh](https://github.com/apoorvd06)
 - [Argha Saha](https://github.com/arg387)
 - [Arisa Abiko](https://github.com/arisaabiko)
-- [Rinto KC] (https://github.com/rinto-Cherian24) 
+- [Rinto KC] (https://github.com/rinto-Cherian24)
 - [Aritro](https://github.com/dev-Aarish)
 - [Arjun](https://github.com/arjundevensharma)
 - [Andreas Göttl](https://github.com/agoettl)
@@ -458,7 +459,7 @@
 - [Jose Nino Muriel](ttps://github.com/josenino95)
 - [Jose Rios](https://github.com/josel006)
 - [Jose Soto](https://github.com/jossotriv)
-- Oliver Wang 
+- Oliver Wang
 - [JosephAlexander](https://github.com/Josephalexander06)
 - [Josh Jordal](https://github.com/JJordal)
 - [Joshua Hans](https://github.com/joshhans21)
@@ -1162,16 +1163,12 @@
 
 - - Monika [https://github.com/Monika-18777]
 - [julianmetropolis](https://github.com/julianmetropolis)
-- [Mohamed Salih](https://github.com/mohamedsalihva)
--[Mohamed Arfan](https://github.com/CatOn60Hz)
--[Nageeta Kumari](https://github.com/nageetaw)
+- [Mohamed Salih](https://github.com/mohamedsalihva) -[Mohamed Arfan](https://github.com/CatOn60Hz) -[Nageeta Kumari](https://github.com/nageetaw)
 - [Blas Sanchez](https://github.com/xbsanpan855-boop)
 - [Rithik Puthiyedath](https://github.com/Rithik149)
 - [Adil khan](https://github.com/Adilkhan6465)
 - [Bhagyashree Pawar](https://github.com/bhagyashreepawar1618)
-- [tony xixi] (https://github.com/Adilkhan6465)
--[Jonah Billerbeck](https://github.com/Joenuhhh)
--[yuyudaodev](https://github.com/yuyudaodev)
+- [tony xixi] (https://github.com/Adilkhan6465) -[Jonah Billerbeck](https://github.com/Joenuhhh) -[yuyudaodev](https://github.com/yuyudaodev)
 - [Pooja](https://github.com/rspooja901)
 - [Gnanam Raghupathy Naidu](https://github.com/GnanamRaghupathy)
 - [Amrutha](https://github.com/Amrutha-dev25)
@@ -1181,4 +1178,3 @@
 - [Kaushik S](https://github.com/KaushikS-coder)
 - [Victor Belusso](https://github.com/belusso)
 - [Lokesh Konda](https://github.com/kondalokesh025-code)
-- 
