@@ -1092,6 +1092,7 @@
 - [prem kumar grk](https://github.com/premkumargrk)
 - [Pritpan](https://github.com/Pritpan)
 - [pvpeuve](https://github.com/pvpeuve)
+- [rodrigoquerobim](https://github.com/RodrigoQuerobim1)
 - [rafid](https://github.com/rafid3f3)
 - [raftxo](https://github.com/Raftxo)
 - [raro212](https://github.com/raro212)
