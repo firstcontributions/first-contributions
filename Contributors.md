@@ -1134,6 +1134,7 @@
 - [table106](https://github.com/table106)
 - [tanshen-kun](https://github.com/tanshen-kun)
 - [tanzilamd](https://github.com/tanzilamd)
+- [faisal-hendra](https://github.com/faisal-hendra)
 - [sunjie](https://github.com/sj2902732578)
 - [td2thinh](https://github.com/td2thinh)
 - [tember8003](https://github.com/tember8003)
