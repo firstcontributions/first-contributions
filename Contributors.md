@@ -18,6 +18,7 @@
 - [@Zakiahsan-arch](https://github.com/Zakiahsan-arch)
 - [Arpit]
 - [vivi214](https://github.com/vivi214)
+- [Newton Yetsedaw](https://github.com/NewtonY-dev)
 - [DenizFeital] (https://github.com/DenizFeital)
 - [A Szpatowski](https://github.com/aszpatowski)
 - [Diksha Kumari](https://github.com/dikshakr9763-sys)
@@ -227,6 +228,7 @@
 - [Capri Caviedes](https://github.com/caprivm)
 - [CaraMcG](https://github.com/caraMcG)
 - [Carburio](https://github.com/Carburio)
+- [Ahmad Zia](https://github.com/Ahmad-Zia10)
 - [Carina Mach](https://github.com/carinamach)
 - [Carlos FH](https://github.com/carlosfhz13)
 - [Cat-o-Bot](https://github.com/evgshv)
@@ -308,6 +310,7 @@
 - [Duo](https://github.com/NamingRacksMyBrain)
 - [Durga Vara Praveen](https://github.com/durgavarapraveen)
 - [Durva](https://github.com/durva7px)
+- [Dwij Patel](https://github.com/Prime2510)
 - [EB](https://github.com/boranj)
 - [JASP-R](https://github.com/JASP-R)
 - [Eddgar Rojas](https://github.com/Eddgar0)
@@ -1081,6 +1084,7 @@
 - [outsutski](https://github.com/outsutski)
 - [p-a-brown](https://github.com/p-a-brown)
 - [payal rawat](https://github.com/payalrawat369)
+- [huzaifa-cyberzeff](https://github.com/cyber-zeff)
 - [pranav162074](https://github.com/pranav162074)
 - [prem kumar grk](https://github.com/premkumargrk)
 - [Pritpan](https://github.com/Pritpan)
@@ -1163,6 +1167,7 @@
 
 - - Monika [https://github.com/Monika-18777]
 - [julianmetropolis](https://github.com/julianmetropolis)
+- [Steve] (https://github.com/mastinstep)
 - [Mohamed Salih](https://github.com/mohamedsalihva)
 -[Mohamed Arfan](https://github.com/CatOn60Hz)
 -[Nageeta Kumari](https://github.com/nageetaw)
@@ -1183,3 +1188,6 @@
 - [Victor Belusso](https://github.com/belusso)
 - [Lokesh Konda](https://github.com/kondalokesh025-code)
 - [Nyoman Kusuma](https://github.com/knyoman)
+- [Jaanvi Chouhan](https://github.com/Jaanvichouhan34)
+- [Kaustubh Singh](https://github.com/KaustubhSingh9000)
+
