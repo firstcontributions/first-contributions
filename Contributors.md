@@ -520,6 +520,7 @@
 - [Kyusan Kim](https://github.com/5tarlight)
 - [Lakshmi Kamalanjali Mandalika](https://github.com/Kamalanjali)
 - [Lalith Krishna Vangara](https://github.com/VLK-123)
+- [Josafat Duarte - JD1975](https://github.com/JD1975)
 - [Larson](https://github.com/lixianphy)
 - [LateGit](https://github.com/LateGit)
 - [Leo Xu](https://github.com/LeoXu8)
