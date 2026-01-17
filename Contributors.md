@@ -949,6 +949,7 @@
 - [Vitvin](https://github.com/vitvinvaz)
 - [Vivek](https://github.com/Vivek13121)
 - [Vivek](https://github.com/Vivek290100)
+- [Vivek]
 - [VizzScript](https://github.com/vizzscript)
 - [WHA](https://github.com/wynehtetaung)
 - [Whrisper](https://github.com/SChrisper)
