@@ -23,6 +23,7 @@
 - [DenizFeital] (https://github.com/DenizFeital)
 - [A Szpatowski](https://github.com/aszpatowski)
 - [Diksha Kumari](https://github.com/dikshakr9763-sys)
+- [Mwiza Sichinga](https://github.com/Munyuam/)
 - [AC](https://github.com/FortKnoxWasTaken)
 - [ARCHANA_GURUSAMY](https://github.com/ARCHANA-SENGUNTHAR)
 - [ARES](https://github.com/phoenixcodeforces-blip)
