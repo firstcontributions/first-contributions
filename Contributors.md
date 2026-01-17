@@ -11,6 +11,7 @@
 - [Aisha](https://github.com/ashii5)
 - [Ziyu](https://github.com/szyu345)
 - [Himanshi](https://github.com/himanshi-0070)
+- [Farisha](https://github.com/FarishaNA)
 - [Alnoor](https://github.com/Alnoormahmoud)
 - [0scrxk](https://github.com/oscrxk)
 - [Harsh99-ops](https://github.com/Harsh99-ops)
