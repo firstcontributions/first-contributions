@@ -25,6 +25,7 @@
 - [ASaHi Chin](https://github.com/Cxlyq)
 - [yashasvi Lamba ](https://github.com/Yashasvi767)
 - [vismitha]
+- [xjw]
 - [vondar](https://github.com/vondar)
 - [Aadarsh Pandey](https://github.com/beingadish)
 - [Rajasri Kuchana](https://github.com/Rajasrikuchana)
