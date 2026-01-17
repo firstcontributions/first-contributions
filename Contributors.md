@@ -1187,6 +1187,7 @@
 - [Kaushik S](https://github.com/KaushikS-coder)
 - [Victor Belusso](https://github.com/belusso)
 - [Lokesh Konda](https://github.com/kondalokesh025-code)
+- [Nyoman Kusuma](https://github.com/knyoman)
 - [Jaanvi Chouhan](https://github.com/Jaanvichouhan34)
 - [Kaustubh Singh](https://github.com/KaustubhSingh9000)
 
