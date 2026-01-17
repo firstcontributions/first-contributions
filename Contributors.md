@@ -598,6 +598,7 @@
 - [Mohammad Ali](https://github.com/md-ali-0)
 - [Mohammadsaad10](https://github.com/Mohammadsaad10)
 - [Moksh D](https://github.com/danMoksh)
+- [Nikhil](https://github.com/Nothinormuch)
 - [Moses Acknal](https://github.com/mosesacknals139)
 - [Moses Tapfuma](https://github.com/moseskt)
 - [Moulya.K](https://github.com/MoulyaK2005)
