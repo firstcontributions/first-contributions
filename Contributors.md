@@ -15,6 +15,7 @@
 - [Farisha](https://github.com/FarishaNA)
 - [Alnoor](https://github.com/Alnoormahmoud)
 - [0scrxk](https://github.com/oscrxk)
+- [Solomon-Prem-Sinai](https://github.com/solomon-2105)
 - [Harsh99-ops](https://github.com/Harsh99-ops)
 - [Safkatul-Islam](https://github.com/Safkatul-Islam)
 - [@Zakiahsan-arch](https://github.com/Zakiahsan-arch)
