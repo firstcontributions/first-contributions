@@ -905,6 +905,7 @@
 - [Taniya Kumari](https://github.com/taniya273)
 - [Tej M Bhat](https://github.com/TejBhat)
 - [Teja](https://github.com/saitejx)
+- [Tejas Guntiwar](https://github.com/Tejasguntiwar)
 - [Tejas Jogdand](https://github.com/Tejas-Jogdand)
 - [Test Perfil 1](https://github.com/test-git001)
 - [Thejus Kannoth](https://github.com/ThejusKannoth)
