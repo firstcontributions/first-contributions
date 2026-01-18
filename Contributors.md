@@ -924,11 +924,12 @@
 - [Trung Quoc Nguyen](https://github.com/Trungsherlock)
 - [Trần Huỳnh Đăng Khôi](https://github.com/KhoiTarn)
 - [Tum Teeradach](https://github.com/Tum-404)
+- [Musawer Ahmad](https://github.com/musawerxd/)
 - [Tushar Balakrishnan](https://github.com/iamtusharbala)
 - [Tushar Moolya](https://github.com/tushiar)
 - [Tushar Qwerty](https://github.com/tushar743-ui)
 - [Tyler Daw](https://github.com/TylerD1105)
-- [Udhaya parameshwaran](https://github.com/UdhayaParameshwaran-ai)
+- [Udhaya parrameshwaran](https://github.com/UdhayaParameshwaran-ai)
 - [Utkarsh Gupta](https://github.com/utkarshg9981)
 - [1828](https://github.com/18-28)
 - [V K Suvetha](https://github.com/vksuvetha)
@@ -1235,5 +1236,4 @@
 - [ADELBOY34](https://github.com/adelboy34) 
 - [2003myriam](https://github.com/2003myriam) 
 - [Ahmad Bilal](https://github.com/AhmadBilal-WebDev)
-
 
