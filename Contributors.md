@@ -1162,6 +1162,7 @@
 - [tusharsoni52](https://github.com/tusharsoni52)
 - [tylerhoh](https://github.com/tylerhoh)
 - [urkwr](https://github.com/urkwr)
+- [Utkrist](https://github.com/CloudFlamedev)
 - [uzuraDev](https://github.com/uzuraDev)
 - [valentinfazenda](https://github.com/valentinfazenda)
 - [vismaya vishwas](https://github.com/Vis-2007)
