@@ -5,6 +5,7 @@
 - [Raunak katiyar2](https://github.com/raunak-bigdp)
 - [Athulkrishna](https://github.com/AthulKrishna-736)
 - [Pawan Bhowate](https://github.com/PAWANBHOWATE04)
+- [Ayoub Aguezar](https://github.com/Ayoub-glitsh)
 - [Das1Zhang](https://github.com/Das1Zhang)
 - [Raunak katiyar github](https://github.com/raunak-bigdp)
 - [hezk](https://github.com/hezhikui)
