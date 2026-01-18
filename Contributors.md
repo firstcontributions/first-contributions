@@ -152,6 +152,7 @@
 - [Angad Bhalla](https://github.com/Anga205)
 - [Ange Scotto](https://github.com/321-iT)
 - [Angel Sara](https://github.com/Angelishere)
+- [Rishi Gajawada]
 - [Anil Nagvanshi](https://github.com/Kakashi27)
 - [Anirudh Panigrahi](https://github.com/Anirudh-020505)
 - [Anish Banda](https://github.con/anishbanda)
@@ -1225,3 +1226,6 @@
 - [Kaustubh Singh](https://github.com/KaustubhSingh9000)
 - [Yuyanz9](https://github.com/Yuyanz9)
 - [meddanemounib16-star](https://github.com/meddanemounib16-star)
+- [ADELBOY34](https://github.com/adelboy34) 
+- [2003myriam](https://github.com/2003myriam) 
+
