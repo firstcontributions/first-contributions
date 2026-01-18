@@ -16,6 +16,7 @@
 - [Salvogiarracca](https://github.com/Salvogiarracca)
 - [AhmadObeid](https://github.com/AhmadObeid)
 - [EKEZDU] (https://github.com/ekezdu)
+- [Sameer Ali] (https://github.com/devxsameer)
 - [Zenrsr](https://github.com/zenrsr)
 - [Aisha](https://github.com/ashii5)
 - [Ziyu](https://github.com/szyu345)
@@ -396,6 +397,7 @@
 - [GrandMaster5000](https://github.com/GrandMaster5000)
 - [Gregory Williams II](https://github.com/gwilli2)
 - [Gxelol](https://github.com/Gxelol)
+- [Ganesh karanam](https://github.com/Ganesh-Karanam)
 - [Hafsa Irfan](https://github.com/hafxa)
 - [HaidarAbbas](https://github.com/Haidarabbas731)
 - [Hamza Qureshi](https://github.com/hamzaq453)
@@ -1233,4 +1235,8 @@
 - [ADELBOY34](https://github.com/adelboy34) 
 - [2003myriam](https://github.com/2003myriam) 
 - [Momina Fatima](https://github.com/mominaaa0)
+- [Ahmad Bilal](https://github.com/AhmadBilal-WebDev)
+- [Makis](https://github.com/makishart)
+- [Aman Singh](https://github.com/Amankumarsingh23)
+
 
