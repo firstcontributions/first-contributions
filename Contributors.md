@@ -180,7 +180,7 @@
 - [Apoorv Deshmukh](https://github.com/apoorvd06)
 - [Argha Saha](https://github.com/arg387)
 - [Arisa Abiko](https://github.com/arisaabiko)
-- [Rinto KC] (https://github.com/rinto-Cherian24) 
+- [Rinto KC] (https://github.com/rinto-Cherian24)
 - [Aritro](https://github.com/dev-Aarish)
 - [Arjun](https://github.com/arjundevensharma)
 - [Andreas Göttl](https://github.com/agoettl)
@@ -487,7 +487,7 @@
 - [Jose Nino Muriel](ttps://github.com/josenino95)
 - [Jose Rios](https://github.com/josel006)
 - [Jose Soto](https://github.com/jossotriv)
-- Oliver Wang 
+- Oliver Wang
 - [JosephAlexander](https://github.com/Josephalexander06)
 - [Josh Jordal](https://github.com/JJordal)
 - [Joshna Jojo](https://github.com/joshnajojo12)
@@ -710,7 +710,7 @@
 - [Pragati Priya](https://github.com/pragati-2004)
 - [Praise Oke](https://github.com/1joat)
 - [Prajaka Jagdale](https://github.com/Hermione28)
-- [Prakhar Shukla] (https://github.com/PrakharShukla-17) 
+- [Prakhar Shukla] (https://github.com/PrakharShukla-17)
 - [Pramod Dhungana](https://github.com/dhunganapramod9)
 - [Pranav](https://github.com/Pranav0102)
 - [Pranjal Kuhikar](https://github.com/pranjalkuhikar)
@@ -1002,6 +1002,7 @@
 - [Zoe Cai](https://github.com/Parabolaa)
 - [Zoe Reed](https://github.com/zoereedviz)
 - [Zohaib](https://github.com/Iamzohaibali)
+- [Pieersx](https://github.com/pieersx)
 - [Zongbo Bao](https://github.com/zongbobao)
 - [Zuzanna Pilat](https://github.com/Pilat11)
 - [Luiz Zaballa](https://github.com/zaballa12)
@@ -1234,11 +1235,9 @@
 - [Kaustubh Singh](https://github.com/KaustubhSingh9000)
 - [Yuyanz9](https://github.com/Yuyanz9)
 - [meddanemounib16-star](https://github.com/meddanemounib16-star)
-- [ADELBOY34](https://github.com/adelboy34) 
-- [2003myriam](https://github.com/2003myriam) 
+- [ADELBOY34](https://github.com/adelboy34)
+- [2003myriam](https://github.com/2003myriam)
 - [Momina Fatima](https://github.com/mominaaa0)
 - [Ahmad Bilal](https://github.com/AhmadBilal-WebDev)
 - [Makis](https://github.com/makishart)
 - [Aman Singh](https://github.com/Amankumarsingh23)
-
-
