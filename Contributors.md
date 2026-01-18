@@ -995,6 +995,7 @@
 - [Zohaib](https://github.com/Iamzohaibali)
 - [Zongbo Bao](https://github.com/zongbobao)
 - [Zuzanna Pilat](https://github.com/Pilat11)
+- [Luiz Zaballa](https://github.com/zaballa12)
 - [abdhullah200](https://github.com/abdhullah200)
 - [ajithrao](my first contribution)
 - [akashisang](https://github.com/Akashisang)
