@@ -929,7 +929,7 @@
 - [Tushar Moolya](https://github.com/tushiar)
 - [Tushar Qwerty](https://github.com/tushar743-ui)
 - [Tyler Daw](https://github.com/TylerD1105)
-- [Udhaya parameshwaran](https://github.com/UdhayaParameshwaran-ai)
+- [Udhaya parrameshwaran](https://github.com/UdhayaParameshwaran-ai)
 - [Utkarsh Gupta](https://github.com/utkarshg9981)
 - [1828](https://github.com/18-28)
 - [V K Suvetha](https://github.com/vksuvetha)
