@@ -843,6 +843,7 @@
 - [Shiva](https://github.com/sh1vananda)
 - [Shivam Yadav](https://github.com/Shivam1q)
 - [Shivang](https://github.com/shivang-jnv)
+- [Shivansh Gupta](https://github.com/Krish1022sona)
 - [stella](https://github.com/Janb05)
 - [Shlok Gupta](https://github.com/LogicHymn)
 - [Shmelev Valentin](https://github.com/ValyaSHmelev)
