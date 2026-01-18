@@ -16,6 +16,7 @@
 - [Salvogiarracca](https://github.com/Salvogiarracca)
 - [AhmadObeid](https://github.com/AhmadObeid)
 - [EKEZDU] (https://github.com/ekezdu)
+- [Sameer Ali] (https://github.com/devxsameer)
 - [Zenrsr](https://github.com/zenrsr)
 - [Aisha](https://github.com/ashii5)
 - [Ziyu](https://github.com/szyu345)
