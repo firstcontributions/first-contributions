@@ -887,6 +887,7 @@
 - [Srinivasan Baskaran](https://github.com/spiritedman4)
 - [Sriram Ettikala](https://github.com/caals666)
 - [Stephen Ng](https://github.com/snust)
+- [Stargazzer] (https://github.com/Parribesh/first-contributions)
 - [Subodh Kumar Swain](https://github.com/Subodg-12)
 - [Sudarshan Dongre](https://github.com/SudWasatch)
 - [Sudi Williams](https://github.com/sudi-W)
