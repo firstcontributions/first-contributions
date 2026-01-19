@@ -64,6 +64,7 @@
 - [Suchit](https://github.com/suchit-hirani-python-ak)
 - [Manopalaniraja A](https://github.com/mano2102/)
 - [Aaron Lee](https://github.com/acelee0621)
+- [Jorge Araya](https://github.com/jorgearayac)
 - [Abdelkader Charef Eddine Djellil (djacbi)](https://github.com/AbdelkaderCE/)
 - [EM KalpaniEkanayake](https://github.com/Kalpiekanayake)
 - [Abdelwakil](https://github.com/fondbcn)
