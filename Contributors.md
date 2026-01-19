@@ -269,6 +269,7 @@
 - [Chamith Dilshan Tharuka](https://github.com/ChamithDilshanTharuka)
 - [Chandan Bhirud](https://github.com/chandanb778)
 - [Chandana](https://github.com/Chandana2829)
+- [Caer Cadarn](https://github.com/ccadarn)
 - [Chang Liu](https://github.com/canyonliu8-code)
 - [Chathura](https://github.com/PrabashanaDev)
 - [Chenghou Si](https://github.com/ChenghouSi)
