@@ -1248,5 +1248,6 @@
 - [Aman Singh](https://github.com/Amankumarsingh23)
 - [Jeevan Yewale](https://github.com/JeevanYewale)
 - [Mark Jason Espelita](https://github.com/mjespelita)
+- [Sayan Dutta](https://github.com/sayan1112)
 
 
