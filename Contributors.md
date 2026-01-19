@@ -533,6 +533,7 @@
 - [Koichi-Kodama](https://github.com/Kytoshi)
 - [Koji Kawamura](https://github.com/kouji0705)
 - [Kotyara5243](https://github.com/Kotyara5243)
+- [KrimPast](https://github.com/KrimPast)
 - [Kris Bali](https://github.com/Oxerlax)
 - [Krishna-Raj](https://github.com/krishna-stone)
 - [KristinnTh](https://github.com/KristinnTh)
