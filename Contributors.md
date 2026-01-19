@@ -1264,6 +1264,7 @@
 - [Sridhar-EEE](https://github.com/sridhar-eee/)
 - [Vishwaa N] (https://github.com/Vishwaa-N)
 - [peanut-butter-wafer-lover](https://github.com/peanut-butter-wafer-lover)
+- [AnmolT29](https://github.com/AnmolT29)
 - [Surendra M](https://github.com/surendrababumetla-cyber)
 - [Diwakar Subramanian](https://github.com/diwakarsubramanian3)
 [Kamalakannan Srinivasan](https://github.com/kamalbalaji83)
@@ -1272,8 +1273,6 @@
 - [jennifer jayaraj](https://github.com/jenniferjayaraj19-ops)
 - [VijayVenkatraman](https://github.com/vijayomatic2-ops)
 - [jennifer j](https://github.com/jenniferjayaraj19-ops)
-
-
 - [Kamalakannan Srinivasan](https://github.com/kamalbalaji83)
 - [arthisathish](https://github.com/Arthi-asd/)
 - [Mihai](https://github.com/Mihaai999)
