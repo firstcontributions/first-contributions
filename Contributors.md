@@ -1256,7 +1256,7 @@
 - [peanut-butter-wafer-lover](https://github.com/peanut-butter-wafer-lover)
 - [Surendra M](https://github.com/surendrababumetla-cyber)
 - [Diwakar Subramanian](https://github.com/diwakarsubramanian3)
-[Kamalakannan Srinivasan](https://github.com/kamalbalaji83)
+- [Kamalakannan Srinivasan](https://github.com/kamalbalaji83)
 - [SelvaMiru](https://github.com/SelvaMiru)
 - Raman
 
