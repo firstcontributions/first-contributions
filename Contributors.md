@@ -20,6 +20,7 @@
 - [EKEZDU] (https://github.com/ekezdu)
 - [Sameer Ali] (https://github.com/devxsameer)
 - [Zenrsr](https://github.com/zenrsr)
+-[Ayush Sharma] (https://github.com/khemssharma)
 - [Aisha](https://github.com/ashii5)
 - [Ziyu](https://github.com/szyu345)
 - [Himanshi](https://github.com/himanshi-0070)
