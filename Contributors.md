@@ -431,6 +431,7 @@
 - [Hitanshu](https://github.com/HitanshuGedam/)
 - [Hmanaya](https://github.com/manayah199)
 - [Hoin Shin](https://github.com/signalman)
+- [Henrique Henriques](https://github.com/Idensis)
 - [HolmesMurillo](https://github.com/HolmesMurillo)
 - [Hu TianHang](https://github.com/HTH24)
 - [Husnain Khaliq](https://github.com/huscse)
