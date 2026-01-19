@@ -1253,7 +1253,7 @@
 - [Adrika T Kumar](https://github.com/abcd123-xyz)
 - [Sayan Dutta](https://github.com/sayan1112)
 - [Sridhar-EEE](https://github.com/sridhar-eee/)
-- [Vishwaa N] (https://github.com/Vishwaa-N)
+- [Vishwaa N](https://github.com/Vishwaa-N)
 - [peanut-butter-wafer-lover](https://github.com/peanut-butter-wafer-lover)
 - [Surendra M](https://github.com/surendrababumetla-cyber)
 - [Diwakar Subramanian](https://github.com/diwakarsubramanian3)
