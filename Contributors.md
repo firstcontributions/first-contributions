@@ -165,6 +165,7 @@
 - [Anirudh Panigrahi](https://github.com/Anirudh-020505)
 - [Anish Banda](https://github.con/anishbanda)
 - [Anjali Kumari](https://github.com/Anjalikumari3136)
+- [Ayush Sonone](https://github.com/TheCodingAyush)
 - [Tejas Patil](https://github.com/Tejas2424-Tech)
 - [Anjaneya Kumar](https://github.com/Anjaneyakumar18)
 - [Anjaneyulu](https://github.com/anjaneyulu-01)
