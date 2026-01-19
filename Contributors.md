@@ -935,6 +935,7 @@
 - [Tyler Daw](https://github.com/TylerD1105)
 - [Udhaya parameshwaran](https://github.com/UdhayaParameshwaran-ai)
 - [Utkarsh Gupta](https://github.com/utkarshg9981)
+- [Utkarsh Doras](https://github.com/UtkarshKD)
 - [1828](https://github.com/18-28)
 - [V K Suvetha](https://github.com/vksuvetha)
 - [Vaibhav Bakliwal](https://github.com/bakliwalvaibhav1)
