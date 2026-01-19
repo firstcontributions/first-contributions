@@ -1251,5 +1251,7 @@
 - [Jeevan Yewale](https://github.com/JeevanYewale)
 - [Mark Jason Espelita](https://github.com/mjespelita)
 - [Sayan Dutta](https://github.com/sayan1112)
+- [Amrita Singh](https://github.com/amritamsingh12-bot)
+
 
 
