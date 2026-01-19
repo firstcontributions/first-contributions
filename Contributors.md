@@ -1280,3 +1280,4 @@
 - [Prerit R Deyagond](https://github.com/Preritrd5/)
 - [Vivek Soni](https://github.com/vivek-s-soni)
 - Pantangi Anjali
+- [Kenta Ohtsuka](https://github.com/ootsukak-nttd)
