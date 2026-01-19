@@ -240,6 +240,7 @@
 - [Bobrikus Smith](https://github.com/fairhair9)
 - [Borzoi Lover](https://github.com/mmitros1)
 - [Bradley Leventhal](https://github.com/btleventhal)
+- [Inferno]
 - [Brandon B Bolivar](https://github.com/AvoBolivar)
 - [Brian Griffin](https://github.com/SolidUmbrella)
 - [Bruno Costa](https://github.com/brunocosta-devlab)
