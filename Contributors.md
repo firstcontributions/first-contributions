@@ -1,5 +1,4 @@
 # Contributors
-- Janani https://github.com/jananisadagoban-JS/
 -[Abhinav Dwivedi] (https://github.com/abhinavdwivedi05)
 - [adeoja](https://github.com/adeoja)
 - [asikrshoudo](https://github.com/asikrshoudo)
@@ -1255,4 +1254,4 @@
 - [Sayan Dutta](https://github.com/sayan1112)
 - [Vishwaa N] (https://github.com/Vishwaa-N)
 - [peanut-butter-wafer-lover](https://github.com/peanut-butter-wafer-lover)
-
+- [Janani](https://github.com/jananisadagoban-JS)
