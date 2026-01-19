@@ -3,6 +3,7 @@
 - [adeoja](https://github.com/adeoja)
 - [asikrshoudo](https://github.com/asikrshoudo)
 - [Joshna Jojo](https://github.com/joshnajojo12)
+- [Faique](https://github.com/FaiqueIbrahimi)
 - [Raunak katiyar2](https://github.com/raunak-bigdp)
 - [Athulkrishna](https://github.com/AthulKrishna-736)
 - [Pawan Bhowate](https://github.com/PAWANBHOWATE04)
