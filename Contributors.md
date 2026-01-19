@@ -1255,12 +1255,4 @@
 - [Sridhar-EEE](https://github.com/sridhar-eee/)
 - [Vishwaa N] (https://github.com/Vishwaa-N)
 - [peanut-butter-wafer-lover](https://github.com/peanut-butter-wafer-lover)
-- [Surendra M](https://github.com/surendrababumetla-cyber)
-- [Diwakar Subramanian](https://github.com/diwakarsubramanian3)
-[Kamalakannan Srinivasan](https://github.com/kamalbalaji83)
-- [SelvaMiru](https://github.com/SelvaMiru)
-- Raman
-- [jennifer j](https://github.com/jenniferjayaraj19-ops)
-
-
-- [Kamalakannan Srinivasan](https://github.com/kamalbalaji83)
+- [Janani](https://github.com/jananisadagoban-JS)
