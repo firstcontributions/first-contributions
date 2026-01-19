@@ -620,6 +620,7 @@
 - [Mohamed Nafaa](https://github.com/mohamednafaa)
 - [Mohammad Ali](https://github.com/md-ali-0)
 - [Mohammadsaad10](https://github.com/Mohammadsaad10)
+- [Mohit Israni](https://github.com/mohitisrani)
 - [Moksh D](https://github.com/danMoksh)
 - [Nikhil](https://github.com/Nothinormuch)
 - [Moses Acknal](https://github.com/mosesacknals139)
