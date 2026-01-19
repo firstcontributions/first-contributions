@@ -961,6 +961,7 @@
 - [Vasu Singh](https://github.com/Vasu1303)
 - [Vedant Raj Singh Parmar](https://github.com/VVR6)
 - [Vedika Barkare](https://github.com/vedikaBarkare)
+- [Vedika Gupta](https://github.com/VedikaGupt)
 - [Venkata Ajay Puripanda](https://github.com/ajayvnkt)
 - [Vernwalker](https://github.com/Vernwalker)
 - [Vesmorian Xavier](https://github.com/vaibhavsss)
