@@ -47,6 +47,7 @@
 - [ARES](https://github.com/phoenixcodeforces-blip)
 - [ASaHi Chin](https://github.com/Cxlyq)
 - [yashasvi Lamba ](https://github.com/Yashasvi767)
+- [Sushit Lal Pakrashy](https://github.com/Sushit-prog)
 - [vismitha]
 - [xjw]
 - [vondar](https://github.com/vondar)
