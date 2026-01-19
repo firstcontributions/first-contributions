@@ -53,6 +53,7 @@
 - [Sushit Lal Pakrashy](https://github.com/Sushit-prog)
 - [vismitha]
 - [xjw]
+- [fligbix](https://github.com/Fligbix)
 - [vondar](https://github.com/vondar)
 - [Aadarsh Pandey](https://github.com/beingadish)
 - [Rajasri Kuchana](https://github.com/Rajasrikuchana)
