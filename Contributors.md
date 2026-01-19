@@ -1268,4 +1268,5 @@
 
 - [Kamalakannan Srinivasan](https://github.com/kamalbalaji83)
 - [arthisathish](https://github.com/Arthi-asd/)
+- [Mihai](https://github.com/Mihaai999)
 - [Prerit R Deyagond](https://github.com/Preritrd5/)
