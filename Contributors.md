@@ -1,5 +1,6 @@
 # Contributors
 -[Abhinav Dwivedi] (https://github.com/abhinavdwivedi05)
+- [adeoja](https://github.com/adeoja)
 - [asikrshoudo](https://github.com/asikrshoudo)
 - [Joshna Jojo](https://github.com/joshnajojo12)
 - [Raunak katiyar2](https://github.com/raunak-bigdp)
@@ -937,6 +938,7 @@
 - [Tyler Daw](https://github.com/TylerD1105)
 - [Udhaya parameshwaran](https://github.com/UdhayaParameshwaran-ai)
 - [Utkarsh Gupta](https://github.com/utkarshg9981)
+- [Utkarsh Doras](https://github.com/UtkarshKD)
 - [1828](https://github.com/18-28)
 - [V K Suvetha](https://github.com/vksuvetha)
 - [Vaibhav Bakliwal](https://github.com/bakliwalvaibhav1)
@@ -1249,5 +1251,7 @@
 - [Jeevan Yewale](https://github.com/JeevanYewale)
 - [Mark Jason Espelita](https://github.com/mjespelita)
 - [Adrika T Kumar](https://github.com/abcd123-xyz)
+- [Sayan Dutta](https://github.com/sayan1112)
+- [peanut-butter-wafer-lover](https://github.com/peanut-butter-wafer-lover)
 
 
