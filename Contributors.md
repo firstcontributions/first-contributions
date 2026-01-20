@@ -1133,7 +1133,6 @@ SILVIO
 - [mkvaishnavi](https://github.com/mkvaishnavi)
 - [mohnish](https://github.com/Mohnish27-dev)
 - [moonBeam](https://github.com/jessicaparadise)
-- [moofonli](https://github.com/MoofonLi)
 - [nellai-m](https://github.com/nellai-m)
 - [nepryoon](https://github.com/nepryoon)
 - [nishida675](https://github.com/nishida675)
@@ -1294,3 +1293,4 @@ SILVIO
 - Pantangi Anjali
 - [Kenta Ohtsuka](https://github.com/ootsukak-nttd)
 - [Javed Khan](https://github.com/JavedKhan93)
+- [Sagar Wagh](https://github.com/sagar-ml)
