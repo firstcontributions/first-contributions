@@ -1,5 +1,6 @@
 # Contributors
--[Abhinav Dwivedi] (https://github.com/abhinavdwivedi05)
+- [Luis Ruvalcaba](https://github.com/luisruval)
+- [Abhinav Dwivedi](https://github.com/abhinavdwivedi05)
 - [Khushal Shivhare](https://github.com/khushal-coder-learner)
 - [adeoja](https://github.com/adeoja)
 - [Abhishek Rana](https://github.com/ranaabhishek0702-dotcom)
@@ -466,6 +467,7 @@ SILVIO
 - [Ivanich0](https://github.com/Ivanich0)
 - [Iweisc](https://github.com/Iweisc)
 - [Iyed Rabia](https://github.com/Iyed-Rb)
+- [Jackie](https://github.com/PyXMR2025)
 - [JBetz-Dev](https://github.com/JBetz-Dev)
 - [JJFJ](https://github.com/PugKing22)
 - [JJtothemoonNB](https://github.com/o0jayzaza0o)
@@ -1309,4 +1311,6 @@ SILVIO
 - [Yuvraj Chirag](https://github.com/YuvrajChirag)
 - Kanade Ao
 - [Shakthi Lakshmanan V](https://github.com/Shakthi-lakshmanan-2006)
-- [Sheeba S](https://github.com/SheebaSalaman)git status
+- [Sheeba S](https://github.com/SheebaSalaman)
+- [Sai Sudhan C](https://github.com/saisudhanc)
+- [Aditya Jain](https://github.com/Aditya29-03)
