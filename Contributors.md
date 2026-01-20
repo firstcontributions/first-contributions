@@ -1,6 +1,7 @@
 # Contributors
 -[Abhinav Dwivedi] (https://github.com/abhinavdwivedi05)
 - [adeoja](https://github.com/adeoja)
+- [Abhishek Rana](https://github.com/ranaabhishek0702-dotcom)
 - [asikrshoudo](https://github.com/asikrshoudo)
 - [Joshna Jojo](https://github.com/joshnajojo12)
 - [Faique](https://github.com/FaiqueIbrahimi)
