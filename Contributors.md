@@ -6,6 +6,7 @@
 - [Joshna Jojo](https://github.com/joshnajojo12)
 - [Faique](https://github.com/FaiqueIbrahimi)
 - [Raunak katiyar2](https://github.com/raunak-bigdp)
+- [RyukR1](https://github.com/RyukR1)
 - [Athulkrishna](https://github.com/AthulKrishna-736)
 - [Pawan Bhowate](https://github.com/PAWANBHOWATE04)
 - [Ayoub Aguezar](https://github.com/Ayoub-glitsh)
