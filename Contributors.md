@@ -33,6 +33,7 @@
 - [Zenrsr](https://github.com/zenrsr) -[Ayush Sharma] (https://github.com/khemssharma)
 - [Aisha](https://github.com/ashii5)
 - [Ziyu](https://github.com/szyu345)
+- [Adarsh](https://github.com/itsrajadarsh)
 - [Himanshi](https://github.com/himanshi-0070)
 - [Akshara](https://github.com/aksharapandey)
 - [DHANUSH KUMAR A](https://github.com/dhansuhkumar)
@@ -2610,3 +2611,5 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Ashok N](https://github.com/TSGAshok): open source contribution
 - [Shreyas N Nandargi](https://github.com/Shreyas-gis) First open source contribution
 - [DHRUVI THAKKAR](https://github.com/thakkardhruvi205) First open source contribution -[Manish Raz](https://github.com/Manish-Raz): First open source contribution
+- [Yuvraj Chirag](https://github.com/YuvrajChirag)
+- Kanade Ao
