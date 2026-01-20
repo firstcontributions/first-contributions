@@ -466,6 +466,7 @@ SILVIO
 - [Ivanich0](https://github.com/Ivanich0)
 - [Iweisc](https://github.com/Iweisc)
 - [Iyed Rabia](https://github.com/Iyed-Rb)
+- [Jackie](https://github.com/PyXMR2025)
 - [JBetz-Dev](https://github.com/JBetz-Dev)
 - [JJFJ](https://github.com/PugKing22)
 - [JJtothemoonNB](https://github.com/o0jayzaza0o)
