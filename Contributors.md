@@ -1003,6 +1003,7 @@ SILVIO
 - [William Dellinger](https://github.com/Willd231)
 - [Xuqiang Qin](https:/github.com/qinxuqiang)
 - [XMedival](https://github.com/XMedival)
+- [Xingyeee Li](https://github.com/xingyeee-L)
 - [Y0sefTamer](https://github.com/Y0sefTamer)
 - [YFJ](https://github.com/YCJG)
 - [Yaser-Sellami](https://github.com/Yaser-Sellami)
