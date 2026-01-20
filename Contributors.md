@@ -131,6 +131,7 @@ SILVIO
 - [Alex-new-tech](https://github.com/Alex-new-tech)
 - [Alexander](https://github.com/azuaje1982)
 - [Ali Nasser](https://github.com/AliNasser05)
+- [Rudra](https://github.com/Rudra-cryptx)
 - [Allamelol](https://github.com/Allamelol)
 - [Aloof Apple](https://github.com/AloofApple)
 - [AlphaRex-pixel](https://github.com/AlphaRex-pixel)
