@@ -15,6 +15,8 @@
 - [Pawan Bhowate](https://github.com/PAWANBHOWATE04)
 - [Ayoub Aguezar](https://github.com/Ayoub-glitsh)
 - [Das1Zhang](https://github.com/Das1Zhang)
+- [midikaif](https://github.com/midikaif)
+
 # guilherme gomes
 - [Musawer Ahmad](https://github.com/musawerxd)
 - [Raunak katiyar github](https://github.com/raunak-bigdp)
