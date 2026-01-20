@@ -12,6 +12,7 @@
 - [Ayoub Aguezar](https://github.com/Ayoub-glitsh)
 - [Das1Zhang](https://github.com/Das1Zhang)
 - [Musawer Ahmad](https://github.com/musawerxd)
+- [Riddham Acharya](https://github.com/RiddhamAcharya)
 - [Raunak katiyar github](https://github.com/raunak-bigdp)
 SILVIO
 - [hezk](https://github.com/hezhikui)
@@ -1302,3 +1303,5 @@ SILVIO
 - Andrew
 - [JaeWoong Eum](https://github.com/woolnd)
 - [JackyXi-Li](https://github.com/JackyXi-Li)
+
+
