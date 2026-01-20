@@ -1291,3 +1291,4 @@ SILVIO
 - [Vivek Soni](https://github.com/vivek-s-soni)
 - Pantangi Anjali
 - [Kenta Ohtsuka](https://github.com/ootsukak-nttd)
+- [Javed Khan](https://github.com/JavedKhan93)
