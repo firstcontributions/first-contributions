@@ -281,6 +281,7 @@ SILVIO
 - [Soham Das](https://github.com/SohamDas1502)
 - [Chaimae](https://github.com/GRICHChaimae)
 - [Chamith Dilshan Tharuka](https://github.com/ChamithDilshanTharuka)
+- [Curtis Easton] (https://github.com/icurby00)
 - [Chandan Bhirud](https://github.com/chandanb778)
 - [Chandana](https://github.com/Chandana2829)
 - [Caer Cadarn](https://github.com/ccadarn)
