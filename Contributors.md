@@ -2559,4 +2559,4 @@
 - Pantangi Anjali
 - [Kenta Ohtsuka](https://github.com/ootsukak-nttd)
 - [Javed Khan](https://github.com/JavedKhan93)
-- [Jacky Xi](https://github.com/JackyXi-Li)
+- [JackyXi-Li](https://github.com/JackyXi-Li)
