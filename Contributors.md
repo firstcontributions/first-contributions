@@ -1,5 +1,7 @@
 # Contributors
 -[Abhinav Dwivedi] (https://github.com/abhinavdwivedi05)
+
+- [Swathi Gurijala](https://github.com/swathi-gurijala)
 - [Khushal Shivhare](https://github.com/khushal-coder-learner)
 - [adeoja](https://github.com/adeoja)
 - [Abhishek Rana](https://github.com/ranaabhishek0702-dotcom)
