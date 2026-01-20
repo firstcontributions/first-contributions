@@ -1307,3 +1307,4 @@ SILVIO
 - [JackyXi-Li](https://github.com/JackyXi-Li)
 - [Yuvraj Chirag](https://github.com/YuvrajChirag)
 - Kanade Ao
+- [Arpita Raskar](https://github.com/Arpitaraskar)
