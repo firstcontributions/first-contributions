@@ -1291,3 +1291,8 @@ SILVIO
 - [Vivek Soni](https://github.com/vivek-s-soni)
 - Pantangi Anjali
 - [Kenta Ohtsuka](https://github.com/ootsukak-nttd)
+
+#### Name: [Shravani Kurkute](https://github.com/Shravani-kurkute)
+- Place: Pune, India
+- Bio: B.Tech Computer Engineering Student | Web Development & AI Enthusiast
+- GitHub: [Shravani Kurkute](https://github.com/Shravani-kurkute)
