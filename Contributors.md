@@ -1,3 +1,4 @@
+- Sanjay Kumar (https://github.com/sunny0205)
 # Contributors
 - [Luis Ruvalcaba](https://github.com/luisruval)
 - [Abhinav Dwivedi](https://github.com/abhinavdwivedi05)
@@ -62,6 +63,7 @@ SILVIO
 - [Sushit Lal Pakrashy](https://github.com/Sushit-prog)
 - [vismitha]
 - [xjw]
+- [Adrian Dev](https://github.com/Adr1anN-dev)
 - [fligbix](https://github.com/Fligbix)
 - [vondar](https://github.com/vondar)
 - [Aadarsh Pandey](https://github.com/beingadish)
@@ -281,6 +283,7 @@ SILVIO
 - [Soham Das](https://github.com/SohamDas1502)
 - [Chaimae](https://github.com/GRICHChaimae)
 - [Chamith Dilshan Tharuka](https://github.com/ChamithDilshanTharuka)
+- [Curtis Easton] (https://github.com/icurby00)
 - [Chandan Bhirud](https://github.com/chandanb778)
 - [Chandana](https://github.com/Chandana2829)
 - [Caer Cadarn](https://github.com/ccadarn)
