@@ -1,4 +1,7 @@
 # Contributors
+
+-[Abhinav Dwivedi] (https://github.com/abhinavdwivedi05)
+
 - [Luis Ruvalcaba](https://github.com/luisruval)
 - [Abhinav Dwivedi](https://github.com/abhinavdwivedi05)
 - [Khushal Shivhare](https://github.com/khushal-coder-learner)
@@ -46,7 +49,7 @@ SILVIO
 - [@Zakiahsan-arch](https://github.com/Zakiahsan-arch)
 - [Arpit]
 - Senilka
--Abdisalam
+  -Abdisalam
 - [Archit Ojha](https://github.com/Archit1606)
 - [vivi214](https://github.com/vivi214)
 - [Newton Yetsedaw](https://github.com/NewtonY-dev)
@@ -69,6 +72,7 @@ SILVIO
 - [Ivan Uribe](https://github.com/ivancuribe124)
 - [DimondO20](https://github.com/DimondO20)
 - [Aaliyah Raheem](https://github.com/aaliot)
+- [Shubha Pramanik](https://github.com/shubhapramanik07)
 - [Miguel Hernandez](https://github.com/mangel-mhdez)
 - [Suchit](https://github.com/suchit-hirani-python-ak)
 - [Manopalaniraja A](https://github.com/mano2102/)
@@ -85,6 +89,7 @@ SILVIO
 - [Jayant Ved] (https://github.com/jayant-ved)
 - [Abhay Choudhary](https://github.com/Abhayrcb?tab=repositories)
 - [Mir Araf Hossain](https://github.com/zaivsNoob)
+- [Shubha Pramanik](https://github.com/shubhapramanik07)
 - [Abhay Raj Agnihotri](https://github.com/abhayrajagnihotri)
 - [Jayanth Reddy](https://github.com/Jayanth1825)
 - [Abhijit-Gautam](github.com/Abhijit-Gautam)
@@ -201,7 +206,7 @@ SILVIO
 - [Apoorv Deshmukh](https://github.com/apoorvd06)
 - [Argha Saha](https://github.com/arg387)
 - [Arisa Abiko](https://github.com/arisaabiko)
-- [Rinto KC] (https://github.com/rinto-Cherian24) 
+- [Rinto KC] (https://github.com/rinto-Cherian24)
 - [Aritro](https://github.com/dev-Aarish)
 - [Arjun](https://github.com/arjundevensharma)
 - [Andreas Göttl](https://github.com/agoettl)
@@ -512,7 +517,7 @@ SILVIO
 - [Jose Nino Muriel](ttps://github.com/josenino95)
 - [Jose Rios](https://github.com/josel006)
 - [Jose Soto](https://github.com/jossotriv)
-- Oliver Wang 
+- Oliver Wang
 - [JosephAlexander](https://github.com/Josephalexander06)
 - [Josh Jordal](https://github.com/JJordal)
 - [Joshna Jojo](https://github.com/joshnajojo12)
@@ -740,7 +745,7 @@ SILVIO
 - [Pragati Priya](https://github.com/pragati-2004)
 - [Praise Oke](https://github.com/1joat)
 - [Prajaka Jagdale](https://github.com/Hermione28)
-- [Prakhar Shukla] (https://github.com/PrakharShukla-17) 
+- [Prakhar Shukla] (https://github.com/PrakharShukla-17)
 - [Pramod Dhungana](https://github.com/dhunganapramod9)
 - [Pranav](https://github.com/Pranav0102)
 - [Pranjal Kuhikar](https://github.com/pranjalkuhikar)
@@ -1241,20 +1246,15 @@ SILVIO
 - [Archana Gadimundati](https://github.com/ArchanaGadimundati)
 - [OsamaShabih](https://github.com/osamashabih6960)
 - - [Jayakumar Codes](https://github.com/jayakumarcodes)
-
 - - Monika [https://github.com/Monika-18777]
 - [julianmetropolis](https://github.com/julianmetropolis)
 - [Steve] (https://github.com/mastinstep)
-- [Mohamed Salih](https://github.com/mohamedsalihva)
--[Mohamed Arfan](https://github.com/CatOn60Hz)
--[Nageeta Kumari](https://github.com/nageetaw)
+- [Mohamed Salih](https://github.com/mohamedsalihva) -[Mohamed Arfan](https://github.com/CatOn60Hz) -[Nageeta Kumari](https://github.com/nageetaw)
 - [Blas Sanchez](https://github.com/xbsanpan855-boop)
 - [Rithik Puthiyedath](https://github.com/Rithik149)
 - [Adil khan](https://github.com/Adilkhan6465)
 - [Bhagyashree Pawar](https://github.com/bhagyashreepawar1618)
-- [tony xixi] (https://github.com/Adilkhan6465)
--[Jonah Billerbeck](https://github.com/Joenuhhh)
--[yuyudaodev](https://github.com/yuyudaodev)
+- [tony xixi] (https://github.com/Adilkhan6465) -[Jonah Billerbeck](https://github.com/Joenuhhh) -[yuyudaodev](https://github.com/yuyudaodev)
 - [Pooja](https://github.com/rspooja901)
 - [Gnanam Raghupathy Naidu](https://github.com/GnanamRaghupathy)
 - [Amrutha](https://github.com/Amrutha-dev25)
@@ -1272,8 +1272,8 @@ SILVIO
 - [JasonDavD] (https://github.com/JasonDavD)
 - [Tyler Price] (https://github.com/tp383923)
 - [meddanemounib16-star](https://github.com/meddanemounib16-star)
-- [ADELBOY34](https://github.com/adelboy34) 
-- [2003myriam](https://github.com/2003myriam) 
+- [ADELBOY34](https://github.com/adelboy34)
+- [2003myriam](https://github.com/2003myriam)
 - [Momina Fatima](https://github.com/mominaaa0)
 - [Ahmad Bilal](https://github.com/AhmadBilal-WebDev)
 - [Makis](https://github.com/makishart)
