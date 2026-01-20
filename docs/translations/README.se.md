@@ -1,5 +1,4 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -14,7 +13,7 @@ Att läsa artiklar och titta på handledningar kan så klart hjälpa men det är
 #### *Om du inte känner dig bekväm med kommandoraden, [så finns en vägledning här.](#Handledningar-för-andra-verktyg)*
 
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="Gör en fork av detta repository" />
 
 Om du inte har git installerat [så installera det]( https://help.github.com/articles/set-up-git/ )
 
@@ -25,21 +24,21 @@ Detta kommer att skapa en kopia av repot i ditt GitHub-konto.
 
 ## Klona repository
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="Klona detta repository" />
 
 Klona repot till din dator. Gå till ditt GitHub-konto och klicka på clone-knappen och klicka sedan på *copy to clipboard*-ikonen.
 
 Öppna en terminal och kör följande kommando:
 
-```
+```bash
 git clone "url you just copied"
 ```
 där "url you just copied" (utan citat-tecken) är URL:en för detta repo (din fork för detta projekt). Se föregående steg för att hitta URL:en.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="Kopiera URL till urklipp" />
 
 Till exempel:
-```
+```bash
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 där `this-is-you` är ditt användarnamn på GitHub. På detta sätt kopierar du innehållet i repot till din dator.
@@ -48,17 +47,17 @@ där `this-is-you` är ditt användarnamn på GitHub. På detta sätt kopierar d
 
 Gå till repo-katalogen på din dator (om du inte redan står i den katalogen):
 
-```
+```bash
 cd first-contributions
 ```
 
-Nu skapar du en branch genom att använda `git checkout`-kommandot:
-```
+Nu skapar du en branch genom att använda kommandot `git checkout`:
+```bash
 git checkout -b <lägg till ditt branch-namn>
 ```
 
 Till exempel:
-```
+```bash
 git checkout -b mitt-tillag
 ```
 
@@ -66,19 +65,19 @@ git checkout -b mitt-tillag
 
 Nu öppnar du `Contributors.md` i en text-editor och lägger till ditt namn. Lägg inte till något i början eller slutet av dokumentet utan lägg till någonstans mitt emellan. Spara filen.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="Visa git-status" />
 
-Ge kommando `git status` i projektkatalogen för att se de ändringar du gjort.
+Mata in kommandot `git status` i projektkatalogen för att se de ändringar du gjort.
 
 
-Lägg till dina ändringar genom att använda kommando `git add -A`:
+Lägg till dina ändringar genom att använda kommando `git add`:
 
-```
+```bash
 git add Contributors.md
 ```
 
 Commita dina ändringar genom att använda `git commit`:
-```
+```bash
 git commit -m "Add <your-name> to Contributors list"
 ```
 ersätt `<your-name>` med ditt namn.
@@ -86,7 +85,7 @@ ersätt `<your-name>` med ditt namn.
 ## Pusha ändringar till GitHub
 
 Pusha dina ändringar genom att använda kommando `git push`:
-```
+```bash
 git push origin <add-your-branch-name>
 ```
 ersätt `<add-your-branch-name>` med det branch-namn du använt tidigare.
@@ -95,11 +94,11 @@ ersätt `<add-your-branch-name>` med det branch-namn du använt tidigare.
 
 Om du navigerar till ditt repo på GitHub kan du se en knapp med texten `Compare & pull request`. Klicka på den.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="Skapa en pull request" />
 
 Skicka iväg din s.k. pull request.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="Skicka in pull request" />
 
 Snart kommer jag införa dina ändringar i huvudprojektet. Du kommer att få ett e-mail så fort dina ändringar blivit införda.
 
@@ -109,7 +108,8 @@ Gratulerar! Du har just genomfört standardprocessen för _fork -> clone -> edit
 
 Fira genom att dela med dina vänner och följare genom att gå till [web app](https://firstcontributions.github.io/#social-share).
 
-Behöver du hjälp eller vill du ställa frågor så kan du gå med i vår slack-grupp. [Gå med i slack-gruppen](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
+Behöver du hjälp eller vill du bidra till projektet?  
+eller kolla in våra [Code Contributions](https://github.com/roshanjossey/code-contributions).
 
 Nu kan du gå vidare genom att bidra i andra projekt. Vi har sammanställt en lista med enkla uppgifter som du kan starta med. Kolla in [projektlistan i webbapplikationen](https://firstcontributions.github.io/#project-list).
 
@@ -118,6 +118,8 @@ Nu kan du gå vidare genom att bidra i andra projekt. Vi har sammanställt en li
 
 ## Handledningar för andra verktyg
 
-| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
+| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop-appen" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken-programmet" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code
+VS Code-redigeraren" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="	VS Code-redigeraren
+Sourcetree App	Sourcetree-appen" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA-programmet" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | --- | --- | --- | --- | --- | --- |
 | [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md) | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md) | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md) | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md) | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md) | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md) |

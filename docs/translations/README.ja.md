@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -12,7 +12,7 @@
 
 #### *コマンドラインでの操作に慣れていない場合、[グラフィカルなツールでもチュートリアルを行えます。]( #その他のツールを使用したチュートリアル )*
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="このリポジトリをフォーク" />
 
 まだGitをインストールしていない場合は、[ここ](https://help.github.com/articles/set-up-git/)からインストールしてください
 
@@ -23,21 +23,21 @@ Forkボタンをクリックしてこのリポジトリをフォークしてく�
 
 ## リポジトリをクローン
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="このリポジトリをクローン" />
 
 次にフォークしたリポジトリをクローンします。あなたのリポジトリに移動してフォークしたリポジトリを開き*Code*ボタンをクリックした後に*Copy to clipboard*アイコンをクリックしてください。
 
 ターミナルを開いて以下のgitコマンドを実行してください：
 
-```
+```bash
 git clone "コピーしたURL"
 ```
 "コピーしたURL" (ダブルクオーテーションは除いてください) は先ほどコピーしたリポジトリのURLと置き換えてください。
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="クリップボードにURLをコピー" />
 
 例：
-```
+```bash
 git clone https://github.com/＜あなたのユーザー名＞/first-contributions.git
 ```
 `あなたのユーザー名` はご自身のGitHubユーザー名に置き換えてください。この作業でGitHub のリポジトリの内容はあなたのコンピュータに保存されました。
@@ -46,16 +46,16 @@ git clone https://github.com/＜あなたのユーザー名＞/first-contributio
 
 もしリポジトリのディレクトリにいなければそこまで移動してください。
 
-```
+```bash
 cd first-contributions
 ```
 `git switch` コマンドを使用してブランチを作成します：
-```
+```bash
 git switch -c <add-your-name>
 ```
 
 例:
-```
+```bash
 git switch -c add-alonzo-church
 ```
 (ブランチの名前には必ずしも*add*が含まれていなければならないわけではありませんが、このブランチの目的があなたの名前をリストに加えることであることを考慮すれば含むのが適切です。)
@@ -64,15 +64,15 @@ git switch -c add-alonzo-church
 
 テキストエディタで`Contributors.md`ファイルを開いてあなたの名前を追加してください。ただし、ファイルの先頭または最後に追加しないようにしましょう。名前リストの間のどこか好きな場所に、あなたの名前を追加するようにしてください。あなたの名前をファイルに加えたら、ファイルを保存します。
 
-<img align="float: right;" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="float: right;" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="Gitステータス" />
 
 プロジェクトディレクトリに移動して`git status`を実行すると、変更がなされたことが確認できると思います。`git add`コマンドを使ってそれらの変更を適用してください。
-```
+```bash
 git add Contributors.md
 ```
 
 次に`git commit`コマンドを使ってこれらの変更をコミットします。
-```
+```bash
 git commit -m "Add <あなたの名前> to Contributors list"
 ```
 `<あなたの名前>`をご自身の名前に置き換えてください。
@@ -80,7 +80,7 @@ git commit -m "Add <あなたの名前> to Contributors list"
 ## GitHubに変更をpushする
 
 `git push`コマンドを使って変更をpushしてください。
-```
+```bash
 git push origin <ブランチ名>
 ```
 `<ブランチ名>`には先ほど作成したブランチ名を入れてください。
@@ -89,11 +89,11 @@ git push origin <ブランチ名>
 
 GitHub上であなたのリポジトリに行くと、`Compare & pull request`ボタンが表示されます。そのボタンをクリックしてください。
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="プルリクエストを作成" />
 
 プルリクエストを作ってください。
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="プルリクエストを提出" />
 
 すぐに変更がこのプロジェクトのmainブランチにマージされます。マージが終了した際にはその旨のメールが送られます。
 
@@ -103,7 +103,7 @@ GitHub上であなたのリポジトリに行くと、`Compare & pull request`�
 
 初めてのオープンソースへの貢献を祝って友達やフォロワーに[このウェブアプリ](https://firstcontributions.github.io/#social-share)を使ってシェアしましょう。
 
-もし何かしら質問があるようでしたら[私たちのSlack team](https://firstcontributors.slack.com/join/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)に入ってください。
+さらに練習したい場合は、[コードの貢献](https://github.com/roshanjossey/code-contributions)を確認してください。
 
 他のプロジェクトへの貢献を始めましょう。簡単なイシューが立てられているプロジェクトのリストを作りました。ウェブアプリで[プロジェクトリスト](https://firstcontributions.github.io/#project-list)を確認してみてください。
 
