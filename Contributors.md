@@ -1270,7 +1270,7 @@ SILVIO
 - [Adrika T Kumar](https://github.com/abcd123-xyz)
 - [Sayan Dutta](https://github.com/sayan1112)
 - [Sridhar-EEE](https://github.com/sridhar-eee/)
-- [Vishwaa N] (https://github.com/Vishwaa-N)
+- [Vishwaa N](https://github.com/Vishwaa-N)
 - [peanut-butter-wafer-lover](https://github.com/peanut-butter-wafer-lover)
 - [Esther David](https://github.com/Esther484)
 - [Surendra M](https://github.com/surendrababumetla-cyber)
