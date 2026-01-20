@@ -89,7 +89,7 @@ SILVIO
 - [Abhijit-Gautam](github.com/Abhijit-Gautam)
 - [Mohammed Saqib Rehaman Namzi](https://github.com/md-saqib001)
 - [Abhilash Reddy](https://github.com/AbhilashReddy1519)
-  Rishin
+  [Carlos](https://github.com/CarlosHenriqueA)
 - [Abhinand B](https://github.com/abhinand2511)
   Aryan Sharma
 - [Abinesh Sundar](https://github.com/Abinesh-Sundar/a-open-source)
