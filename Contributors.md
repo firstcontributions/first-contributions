@@ -3,6 +3,7 @@
 - [Khushal Shivhare](https://github.com/khushal-coder-learner)
 - [adeoja](https://github.com/adeoja)
 - [Abhishek Rana](https://github.com/ranaabhishek0702-dotcom)
+- [Lahari Bharatula](https://github.com/lahari-bharatula)
 - [asikrshoudo](https://github.com/asikrshoudo)
 - [Joshna Jojo](https://github.com/joshnajojo12)
 - [Faique](https://github.com/FaiqueIbrahimi)
