@@ -164,7 +164,6 @@
 - TimoTHa
 - BenC
 - Brian Kihara : More open Source
-- [Ritwik Reddy Aerla](https://github.com/RitwikReddyAerla) : Hello everyone. This is my first even open source contribution. Looking forward to more contributions in the future.
 - [Aditya Swain](https://github.com/adityaswain26) : This is my first open source contribution ! yeahhhhhh!! -[Adem Tech](https://github.com/Adem-07): my first Contribution in 2026
 - [Pranav](https://github.com/Pranav8307): First Open Source Contribution
 - [Tanisha Sharma](https://github.com/Tanisha-Sharma005):First Contribution
