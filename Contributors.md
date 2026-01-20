@@ -1304,3 +1304,4 @@ SILVIO
 - [JaeWoong Eum](https://github.com/woolnd)
 - [JackyXi-Li](https://github.com/JackyXi-Li)
 - [Yuvraj Chirag](https://github.com/YuvrajChirag)
+- Kanade Ao
