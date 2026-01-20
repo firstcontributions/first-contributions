@@ -17,6 +17,7 @@
 - [Das1Zhang](https://github.com/Das1Zhang)
 - [midikaif](https://github.com/midikaif)
 
+- [guerrasz](https://github.com/guerrasz)
 # guilherme gomes
 - [Musawer Ahmad](https://github.com/musawerxd)
 - [Raunak katiyar github](https://github.com/raunak-bigdp)
