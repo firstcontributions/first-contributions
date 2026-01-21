@@ -20,6 +20,7 @@
 - [Raunak katiyar2](https://github.com/raunak-bigdp)
 - [Chitransh Saxena](https://github.com/CSroseX/)
 - [RitwikReddy](https://github.com/RitwikReddyAerla)
+- [Spoorthi G Talanki](https://github.com/SpoorthiGTalanki)
 - [RyukR1](https://github.com/RyukR1)
 - Biyaannbijoy
 - [Athulkrishna](https://github.com/AthulKrishna-736)
