@@ -104,6 +104,7 @@ SILVIO
 - [Abhinand B](https://github.com/abhinand2511)
   Aryan Sharma
 - [Abinesh Sundar](https://github.com/Abinesh-Sundar/a-open-source)
+- [Archan Sureja](https://github.com/archan-sureja)
 - [SImarjeet Singh Johar](https://github.comSimarjeeSinghJohar)
 - [mreddieedarh](https://github.com/mreddieedarh)
 - [sai krupali konda](https://github.com/saikrupalikonda)
@@ -1333,4 +1334,4 @@ SILVIO
 - [Karim_Mohamed](https://github.com/KarimAlkabily)
 - [AoJacke](https://github.com/AoJackie)
 - [Apoorva Bodas](https://github.com/ApoorvaBodas123)
-- [Atharva Jadhao](https://github.com/atharvajadhao1)
+- Atharva Jadhao
