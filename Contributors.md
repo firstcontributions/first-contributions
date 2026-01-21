@@ -499,6 +499,7 @@ SILVIO
 - [Jeremy Matina](https://github.com/JeremyM07)
 - [Jessica Huang](https://github.com/jssahuang)
 - [Jessica Thomas](https://github.com/jmt713)
+- [Jesus Aguilar](https://github.com/jesus-aguilar-pro)
 - [Jesus Rey Gonzalez](https://github.com/jesusthecreator017)
 - [Jesús Martín](https://github.com/jesmarver)
 - [Jewel Geea George](https://github.com/)
