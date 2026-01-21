@@ -181,6 +181,7 @@ SILVIO
 - [Angad Bhalla](https://github.com/Anga205)
 - [Ange Scotto](https://github.com/321-iT)
 - [Angel Sara](https://github.com/Angelishere)
+- [Devesh Jain](https://github.com/jaindevesh144)
 - [Rishi Gajawada]
 - [Anil Nagvanshi](https://github.com/Kakashi27)
 - [Anirudh Panigrahi](https://github.com/Anirudh-020505)
