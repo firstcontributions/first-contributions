@@ -1109,6 +1109,7 @@ SILVIO
 - [gatura](https://github.com/gatura-source)
 - [happypepii](https://github.com/happypepii)
 - [hectoru10](https://github.com/Hectoru10)
+- [H S](https://github.com/Hima3590)
 - [hey bro](https://github.com/heybro123)
 - [hmdaslam97](https://github.com/hmdaslam97)
 - [hridyam04](https://github.com/hridyam04)
