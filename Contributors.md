@@ -130,6 +130,7 @@ SILVIO
 - [Aditya Karan](https://github.com/Karan2805-glitch)
 - [Shawn Li](https://github.com/Shawn12345)
 - [Aditya Nautiyal](https://github.com/AdityaNautiyal908)
+- [Raghav Chadha](https://github.com/EthicalAesthetic)
 - [Aditya Thakre](https://github.com/aadityathakre)
 - [Aditya Verma](https://github.com/adityaverma9777)
 - [Aditya kumar](https://github.com/Aditya754194)
