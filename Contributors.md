@@ -413,6 +413,7 @@ SILVIO
 - [Paras](https://github.com/ParasSalonia)
 - [Gajji Chandu Yadav](https://github.com/AnandajithS)
 - [Gal Levin](https://github.com/GalLevin239)
+- [Gali Alon](https://github.com/gali-alon)
 - [Gangireddy pavan](https://github.com/Gangireddypavan)
 - [Gaurav Mishra](https://github.com/gauravm03)
 - [Gaurav Singh](https://github.com/gauravsingh8026)
