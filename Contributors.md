@@ -698,6 +698,7 @@ SILVIO
 - [Nathan Bert](https://github.com/NathanBert)
 - [NathanES](https://github.com/nathanES)
 - [Natpu Enean](https://github.com/NatpuEnean)
+- [Naveen B](https://github.com/NaveenB9)
 - [Naveen (NA-V10)](https://github.com/NA-V10)
 - [Naveen C](https://github.com/naveench98)
 - [Naveen Tadaka](https://github.com/Naein19)
