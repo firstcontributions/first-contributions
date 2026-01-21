@@ -1338,3 +1338,4 @@ SILVIO
 - [Moh. Zaid Siddique] (https://github.com/bruhlog)
 - [Loey](https://github.com/loey1923)
 - [Gaurav Singh](https://github.com/gauravsinghcodes)
+- [Parth Sinde](https://github.com/Parthshinde2005)
