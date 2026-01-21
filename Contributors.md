@@ -1,5 +1,6 @@
 - Sanjay Kumar (https://github.com/sunny0205)
 # Contributors
+- [Venkatesh Pamudurti](https://github.com/Venkat5674)
 - [Greenbasket-labs](https://github.com/greenbasket-labs)
 - [Luis Ruvalcaba](https://github.com/luisruval)
 - [Abhinav Dwivedi](https://github.com/abhinavdwivedi05)
@@ -374,6 +375,7 @@ SILVIO
 - [Douae Bousnane](https://github.com/douaebousnane13-del)
 - [Duo](https://github.com/NamingRacksMyBrain)
 - [Durga Vara Praveen](https://github.com/durgavarapraveen)
+- [Durjoy Kumar](https://github.com/DurjoyKumar177)
 - [Durva](https://github.com/durva7px)
 - [Dwij Patel](https://github.com/Prime2510)
 - [EB](https://github.com/boranj)
@@ -1351,3 +1353,4 @@ SILVIO
 - [Mithun Srinivas](https://github.com/MithunSrinivas28)
 - [Devanshu](https://github.com/devanshu23bcs030)
 - [Anshi](https://github.com/anshikasharmaaa)
+
