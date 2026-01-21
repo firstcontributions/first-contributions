@@ -13,6 +13,7 @@
 - [Faique](https://github.com/FaiqueIbrahimi)
 - [shwetasharma](https://github.com/ShwetaSharmaDev)
 - [Raunak katiyar2](https://github.com/raunak-bigdp)
+- [Chitransh Saxena](https://github.com/CSroseX/)
 - [RitwikReddy](https://github.com/RitwikReddyAerla)
 - [RyukR1](https://github.com/RyukR1)
 - [Athulkrishna](https://github.com/AthulKrishna-736)
