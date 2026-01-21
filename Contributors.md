@@ -1018,6 +1018,7 @@ SILVIO
 - [Viraj Hudlikar](https://github.com/vhudlikar)
 - [Vishnujith](https://github.com/ivishnujith)
 - [Vishakha](https://github.com/Vishakha61)
+- [Vishal Prajapati](https://github.com/vishal-the-coder-creator)[India(IN)]
 - [VishnuPriyaSingamReddy](https://github.com/VishnuPriyaSingamReddy)
 - [Vito Bondanese](https://github.com/VBVB99)
 - [Vitvin](https://github.com/vitvinvaz)
@@ -1346,3 +1347,5 @@ SILVIO
 - [Gaurav Singh](https://github.com/gauravsinghcodes)
 - [Parth Sinde](https://github.com/Parthshinde2005)
 - [Mithun Srinivas](https://github.com/MithunSrinivas28)
+# India (In)
+- [Vishal Prajapati](https://github.com/vishal-the-coder-creator)
