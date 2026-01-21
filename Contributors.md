@@ -1344,3 +1344,5 @@ SILVIO
 - [Gaurav Singh](https://github.com/gauravsinghcodes)
 - [Parth Sinde](https://github.com/Parthshinde2005)
 - [Mithun Srinivas](https://github.com/MithunSrinivas28)
+# India (In)
+- [Vishal Prajapati](https://github.com/vishal-the-coder-creator)
