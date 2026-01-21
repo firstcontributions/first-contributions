@@ -724,6 +724,7 @@ SILVIO
 - [Nitesh Singhal](https://github.com/niteshsinghal85)
 - [Nitin Kumar](https://github.com/NitinKmr42)
 - [Nitin Kumar](https://github.com/nitin-kumar-code)
+- [Nithin.B](https://github.com/NITHIN-2006)
 - [Noah Kim](https://github.com/gratisreise)
 - [Noflare](https://github.com/Noflare)
 - [nulone](https://github.com/nulone)
