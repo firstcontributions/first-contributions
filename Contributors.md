@@ -7,7 +7,7 @@
 - [Khushal Shivhare](https://github.com/khushal-coder-learner)
 - [Ramesh Mummina](https://github.com/rameshmummina7)
 - [adeoja](https://github.com/adeoja)
-- [Dhurv](https://github.com/DhruvMarulkar)
+- [Dhruv](https://github.com/DhruvMarulkar)
 - [Sanskar Agarwal](https://github.com/sanskaragarwal001)
 - [Abhishek Rana](https://github.com/ranaabhishek0702-dotcom)
 - [Md. Mehadi Hassan](https://github.com/Mehadii-Hassan)
