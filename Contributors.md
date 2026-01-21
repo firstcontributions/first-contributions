@@ -10,6 +10,7 @@
 - [asikrshoudo](https://github.com/asikrshoudo)
 - [Joshna Jojo](https://github.com/joshnajojo12)
 - [Faique](https://github.com/FaiqueIbrahimi)
+- [shwetasharma](https://github.com/ShwetaSharmaDev)
 - [Raunak katiyar2](https://github.com/raunak-bigdp)
 - [RitwikReddy](https://github.com/RitwikReddyAerla)
 - [RyukR1](https://github.com/RyukR1)
