@@ -11,6 +11,7 @@
 - [Md. Mehadi Hassan](https://github.com/Mehadii-Hassan)
 - [asikrshoudo](https://github.com/asikrshoudo)
 - [Joshna Jojo](https://github.com/joshnajojo12)
+- [Juhi Kumari](https://github.com/JJuhi)
 - [Faique](https://github.com/FaiqueIbrahimi)
 - [shwetasharma](https://github.com/ShwetaSharmaDev)
 - [Raunak katiyar2](https://github.com/raunak-bigdp)
