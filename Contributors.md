@@ -350,7 +350,7 @@ SILVIO
 - [Dhanush M](https://github.com/Dhanush27m)
 - [Dhanush Shetty](https://github.com/dhanush-shetty1)
 - [Dhayanithi s r](https://github.com/its-dhaya)
-- [Dhanush K](https://github.com/dhanushkrishna72)
+- [Dhanush K](https://github.com/dhanushkrishna7)
 - [Dhiraj Kumar Gupta](https://github.com/dhirajkrgupta)
 - [DhritiTS](https://github.com/DhritiTS)
 - [Dhruv Kalra](https://github.com/KalraDhruv)
@@ -1347,3 +1347,4 @@ SILVIO
 - [Gaurav Singh](https://github.com/gauravsinghcodes)
 - [Parth Sinde](https://github.com/Parthshinde2005)
 - [Mithun Srinivas](https://github.com/MithunSrinivas28)
+- [Devanshu](https://github.com/devanshu23bcs030)
