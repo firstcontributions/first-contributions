@@ -10,6 +10,7 @@
 - [Dhurv](https://github.com/DhruvMarulkar)
 - [Sanskar Agarwal](https://github.com/sanskaragarwal001)
 - [Abhishek Rana](https://github.com/ranaabhishek0702-dotcom)
+Amir Osman 
 - [Md. Mehadi Hassan](https://github.com/Mehadii-Hassan)
 - [asikrshoudo](https://github.com/asikrshoudo)
 - [Joshna Jojo](https://github.com/joshnajojo12)
