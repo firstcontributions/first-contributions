@@ -66,6 +66,7 @@ SILVIO
 - [Sushit Lal Pakrashy](https://github.com/Sushit-prog)
 - [vismitha]
 - [xjw]
+- [lcb](https://github.com/lcb001)
 - [Adrian Dev](https://github.com/Adr1anN-dev)
 - [fligbix](https://github.com/Fligbix)
 - [vondar](https://github.com/vondar)
