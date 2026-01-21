@@ -1334,4 +1334,4 @@ SILVIO
 - [Karim_Mohamed](https://github.com/KarimAlkabily)
 - [AoJacke](https://github.com/AoJackie)
 - [Apoorva Bodas](https://github.com/ApoorvaBodas123)
-- [Loey](https://github.com/loey1923)
+- Atharva Jadhao
