@@ -12,6 +12,7 @@
 - [asikrshoudo](https://github.com/asikrshoudo)
 - [Joshna Jojo](https://github.com/joshnajojo12)
 - [Juhi Kumari](https://github.com/JJuhi)
+- [Abdul Qadeer Shah](https://github.com/shahSpider)
 - [Faique](https://github.com/FaiqueIbrahimi)
 - [shwetasharma](https://github.com/ShwetaSharmaDev)
 - [Raunak katiyar2](https://github.com/raunak-bigdp)
