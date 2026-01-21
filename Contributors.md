@@ -5,6 +5,7 @@
 - [Abhinav Dwivedi](https://github.com/abhinavdwivedi05)
 - [Khushal Shivhare](https://github.com/khushal-coder-learner)
 - [adeoja](https://github.com/adeoja)
+- [Sanskar Agarwal](https://github.com/sanskaragarwal001)
 - [Abhishek Rana](https://github.com/ranaabhishek0702-dotcom)
 - [Md. Mehadi Hassan](https://github.com/Mehadii-Hassan)
 - [asikrshoudo](https://github.com/asikrshoudo)
