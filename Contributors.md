@@ -89,6 +89,7 @@ SILVIO
 - [yashasvi Lamba ](https://github.com/Yashasvi767)
 -[Gthiru12](https://github.com/Gthiru12)
 - [Sushit Lal Pakrashy](https://github.com/Sushit-prog)
+- [Akhil R](https://github.com/A-Rjs)
 - [vismitha]
 - [xjw]
 - [lcb](https://github.com/lcb001)
