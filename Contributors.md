@@ -1,6 +1,7 @@
 - Sanjay Kumar (https://github.com/sunny0205)
 # Contributors
 - [Atheena Oteyza](https://github.com/atheenaoteyza)
+- [Yash Pathak](https://github.com/YashPathak18)
 - [Venkatesh Pamudurti](https://github.com/Venkat5674)
 - [Greenbasket-labs](https://github.com/greenbasket-labs)
 - [Luis Ruvalcaba](https://github.com/luisruval)
