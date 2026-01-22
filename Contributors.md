@@ -60,6 +60,7 @@ SILVIO
 - [Ziyu](https://github.com/szyu345)
 - [Adarsh](https://github.com/itsrajadarsh)
 - [Himanshi](https://github.com/himanshi-0070)
+- [Hitesh Bhat](https://github.com/Bhat31/)
 - [Akshara](https://github.com/aksharapandey)
 - [DHANUSH KUMAR A](https://github.com/dhansuhkumar)
 - [Farisha](https://github.com/FarishaNA)
