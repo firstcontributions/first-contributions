@@ -154,6 +154,7 @@ SILVIO
 - [Adwaith Prasanth](https://github.com/adwaithprasanth)
 - [Afham Irfan](https://github.com/auth-Afham)
 - [Ahmad-HB](https://github.com/Ahmad-HB)
+- [Victor Krassovsky](github.com/victorkrassovsky)
 - [Ahmed Fikri](https://github.com/Fikri-20)
 - [Ahmed Irfan N](https://github.com/irfan5122)
 - [Ahmed Yasir](https://github.com/ahmedyasir779)
