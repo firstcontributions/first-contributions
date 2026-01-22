@@ -11,6 +11,7 @@
 - [Ramesh Mummina](https://github.com/rameshmummina7)
 - [adeoja](https://github.com/adeoja)
 - [Dhurv](https://github.com/DhruvMarulkar)
+- [Akshat Trivedi] (https://github.com/akshat1602)
 - [Sanskar Agarwal](https://github.com/sanskaragarwal001)
 - [Abhishek Rana](https://github.com/ranaabhishek0702-dotcom)
 Amir Osman 
@@ -59,6 +60,7 @@ SILVIO
 - [Ziyu](https://github.com/szyu345)
 - [Adarsh](https://github.com/itsrajadarsh)
 - [Himanshi](https://github.com/himanshi-0070)
+- [Hitesh Bhat](https://github.com/Bhat31/)
 - [Akshara](https://github.com/aksharapandey)
 - [DHANUSH KUMAR A](https://github.com/dhansuhkumar)
 - [Farisha](https://github.com/FarishaNA)
@@ -1383,3 +1385,5 @@ SILVIO
 - [Waxmell](https://github.com/Waxmell99)
 -[Ayenitaju Samuel(https://github.com/AyenitajuSamuel)]
 -[jmscpro](https://github.com/jmscpro)
+- [Ansh Singhal](https://github.com/singhal-ansh)
+- - [Abhi Nair](https://github.com/hea7hen)
