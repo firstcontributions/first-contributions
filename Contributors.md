@@ -6,6 +6,7 @@
 - [Luis Ruvalcaba](https://github.com/luisruval)
 - [Abhinav Dwivedi](https://github.com/abhinavdwivedi05)
 - [Khushal Shivhare](https://github.com/khushal-coder-learner)
+- [Teja Chalikanti](https://github.com/tchalikanti1705)
 - [Ramesh Mummina](https://github.com/rameshmummina7)
 - [adeoja](https://github.com/adeoja)
 - [Dhurv](https://github.com/DhruvMarulkar)
