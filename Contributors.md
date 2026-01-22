@@ -489,6 +489,7 @@ SILVIO
 - [Henrique Henriques](https://github.com/Idensis)
 - [HolmesMurillo](https://github.com/HolmesMurillo)
 - [Hu TianHang](https://github.com/HTH24)
+- [Hunter Hennig](https://github.com/HunterHennig)
 - [Husnain Khaliq](https://github.com/huscse)
 - [HygenLuo](https://github.com/HygenLuo)
 - [Hyreen Matara](https://github.com/hyreen-web)
