@@ -884,6 +884,7 @@ SILVIO
 - [Sanjana J Athreya](https://github.com/sanjanajathreya/)
 - [SankalpPimpalkar](https://github.com/SankalpPimpalkar)
 - [Sanuthi Liyasika](https://github.com/Sanuthi50)
+- [Sarah Dahan] (https://github.com/sarah-dahan)
 - [Sarmela Raja Sekaran](https://github.com/sarmelaraj)
 - [Sarthak Jain](https://github.com/Sarthak070606)
 - [Sarvs](https://github.com/randoduck)
