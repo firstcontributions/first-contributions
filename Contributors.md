@@ -1365,7 +1365,8 @@ SILVIO
 - [Karim_Mohamed](https://github.com/KarimAlkabily)
 - [AoJacke](https://github.com/AoJackie)
 - [Apoorva Bodas](https://github.com/ApoorvaBodas123)
-- [Moh. Zaid Siddique] (https://github.com/bruhlog)
+- [Moh. Zaid Siddique] (https://github.com/bruhlog
+- [Yangle](https://github.com/urnotdoris0125))
 - [Loey](https://github.com/loey1923)
 - [Gaurav Singh](https://github.com/gauravsinghcodes)
 - [Parth Sinde](https://github.com/Parthshinde2005)
@@ -1377,3 +1378,4 @@ SILVIO
 - [Madhusudhanan](https://github.com/Madhu192005)
 - [Micheal Wang](https://github.com/Micheal-Wang-maker)
 - [Waxmell](https://github.com/Waxmell99)
+
