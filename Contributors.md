@@ -772,6 +772,7 @@ SILVIO
 - [Pedro Chame](https://github.com/pedrochame)
 - [Pedro Silva](https://github.com/pcconraria)
 - [Pedro Tomáz](https://github.com/pdrotmz)
+- [Pedro Vieira] (https://github.com/pedrovieira975)
 - [Phoenix Ouyang](https://github.com/phoenixouyang)
 - [Pia Yeah](https://github.com/piagildehaus)
 - [Kevin Kimathi](https://github.com/muneneee)
