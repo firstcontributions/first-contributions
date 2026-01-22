@@ -1221,6 +1221,7 @@ SILVIO
 - [santhosh teja](https://github.com/santhosh-7777)
 - [AryanPatel] (https://github.com/aryanpatel99)
 - [sasha4ka](https://github.com/sasha4ka)
+- [azamarassy](https://github.com/azamarassy)
 - [sathvikkv](https://github.com/sathvikkv556)
 - [shadd](https://github.com/pontesBernardo)
 - [siminpool](https://github.com/siminpool)
