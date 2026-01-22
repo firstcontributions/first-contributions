@@ -421,6 +421,7 @@ SILVIO
 - [Fathima Manal](https://github.com/FathimaManal)
 - [Federico](https://github.com/Fede2717)
 - [Felipe](https://github.com/felipemv13)
+- [Felipe Augusto](https://github.com/felipeaugustoap)
 - [Ferdi Turan](https://github.com/ferdiiiiiiii)
 - [Fernando García](https://github.com/fergg66)
 - [FloraPetit](https://github.com/PetitFlora)
