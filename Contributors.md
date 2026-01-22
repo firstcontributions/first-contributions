@@ -407,6 +407,7 @@ SILVIO
 - [Elif Ş.](https://github.com/elifsz)
 - [Elijah Weiss](https://github.com/eweiss4)
 - [Elijah](https://github.com/Elijah647)
+- [Elijah D](https://github.com/Cloud-Multiplayer)
 - [Elyas Shamal](https://github.com/ElyasShamal)
 - [Emil Piesik](https://github.com/piesikot)
 - [Emma Yu](https://github.com/jjy88)
