@@ -1006,6 +1006,7 @@ SILVIO
 - [Vaibhav Kemani](https://github.com/VKpahadi)
 - [Vaishnavi Jagtap](https://github.com/vaishnavijagtap02)
 - [rain-dogs76](https://github.com/rain-dogs76)
+- [Vedant S](https://github.com/1vedantshinde)
 - [Vaishnavi KN](https://github.com/Vaishnavi-KN)
 - [Vaishnavi Kumbhar](https://github.com/kumbharvaishnavi31)
 - [Vaishnavi Parodkar](https://github.com/vaishnavi-parodkar)
