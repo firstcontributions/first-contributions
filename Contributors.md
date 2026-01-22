@@ -1369,3 +1369,4 @@ SILVIO
 - [Devanshu](https://github.com/devanshu23bcs030)
 - [Divyam Pariyar](https://github.com/div-html)
 - [Bibek Prasad Gupta](https://github.com/BibekPrasadGupta)
+- [BlockStory](https://github.com/shuaihc)
