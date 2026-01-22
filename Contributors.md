@@ -774,6 +774,7 @@ SILVIO
 - [Pedro Tomáz](https://github.com/pdrotmz)
 - [Phoenix Ouyang](https://github.com/phoenixouyang)
 - [Pia Yeah](https://github.com/piagildehaus)
+- [Kevin Kimathi](https://github.com/muneneee)
 - [PiggerZZM](https://github.com/PiggerZZM)
 - [Plexton](https://github.com/ZaibLComrade)
 - [Pouya Esfahani](https://github.com/Pooyash1998)
