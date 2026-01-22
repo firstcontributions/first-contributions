@@ -22,6 +22,7 @@ Amir Osman
 - [Joshna Jojo](https://github.com/joshnajojo12)
 - [Juhi Kumari](https://github.com/JJuhi)
 - [Abdul Qadeer Shah](https://github.com/shahSpider)
+- [Lakshmipriya Sivashanmugam](https://github.com/Lakssiva)
 - [Faique](https://github.com/FaiqueIbrahimi)
 - [Iceman8911](https://github.com/Iceman8911)
 - [shwetasharma](https://github.com/ShwetaSharmaDev)
@@ -421,6 +422,7 @@ SILVIO
 - [Fathima Manal](https://github.com/FathimaManal)
 - [Federico](https://github.com/Fede2717)
 - [Felipe](https://github.com/felipemv13)
+- [Felipe Augusto](https://github.com/felipeaugustoap)
 - [Ferdi Turan](https://github.com/ferdiiiiiiii)
 - [Fernando García](https://github.com/fergg66)
 - [FloraPetit](https://github.com/PetitFlora)
@@ -772,6 +774,7 @@ SILVIO
 - [Pedro Chame](https://github.com/pedrochame)
 - [Pedro Silva](https://github.com/pcconraria)
 - [Pedro Tomáz](https://github.com/pdrotmz)
+- [Pedro Vieira] (https://github.com/pedrovieira975)
 - [Phoenix Ouyang](https://github.com/phoenixouyang)
 - [Pia Yeah](https://github.com/piagildehaus)
 - [Kevin Kimathi](https://github.com/muneneee)
@@ -1379,3 +1382,4 @@ SILVIO
 - [Micheal Wang](https://github.com/Micheal-Wang-maker)
 - [Waxmell](https://github.com/Waxmell99)
 -[Ayenitaju Samuel(https://github.com/AyenitajuSamuel)]
+-[jmscpro](https://github.com/jmscpro)
