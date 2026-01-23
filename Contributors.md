@@ -52,6 +52,7 @@ Amir Osman
 - [Raunak katiyar github](https://github.com/raunak-bigdp)
 SILVIO
 - [hezk](https://github.com/hezhikui)
+- [blumqist](https://github.com/blumquisted-collab)
 - [Vikash Kumar Chaurasiya](https://github.com/Vikashchaurasiya07)
 - [Mudipelly Shiva](https://github.com/shivamudipelly)
 - [twaga51](https://github.com/twaga51)
