@@ -671,6 +671,7 @@ SILVIO
 - [Matheus Lino](https://github.com/7matheus)
 - [Matt Bellardi](https://github.com/met97)
 - [MatyasZERO](https://github.com/MatyasZERO)
+- [Max](https://github.com/max1ab)
 - [Maxi Rebolo](https://github.com/MaxiR23)
 - [MayLeaf](https://github.com/may-leaf)
 - [Mayank Ghildiyal](https://github.com/mayank2699)
