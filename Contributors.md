@@ -16,7 +16,8 @@
 - [Sanskar Agarwal](https://github.com/sanskaragarwal001)
 - [Pranjali Goyal] (https://github.com/pranjaligoyal31)
 - [Abhishek Rana](https://github.com/ranaabhishek0702-dotcom)
-Amir Osman 
+Amir Osman
+- [Anthony J Rossman](https://anthonyjrossman.tech) 
 - [Md. Mehadi Hassan](https://github.com/Mehadii-Hassan)
 - [Mahipal Singh Jhala](https://github.com/MahipalSinghJhala707)
 - [asikrshoudo](https://github.com/asikrshoudo)
