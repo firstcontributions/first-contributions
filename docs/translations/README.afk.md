@@ -115,7 +115,7 @@ Binnekort sal ek al jou veranderinge in die meestertak van hierdie projek saamsm
 
 Geluk! Jy het net die standaardvurk voltooi -> klone -> wysig -> PR- werkvloei wat jy dikwels as 'n bydraer sal ervaar!
 
-Vier jou bydrae en deel dit met jou vriende en volgelinge deur na die [webprogram te](https://firstcontributions.github.io/#social-share) gaan .
+Vier jou bydrae en deel dit met jou vriende en volgelinge deur na die [webprogram te](https://firstcontributions.github.io/#social-share) gaan.
 
 Kom ons begin met die bydrae tot ander projekte. Ons het 'n lys van projekte saamgestel met maklike probleme waarmee u kan begin. Kyk na [die lys van projekte in die web app](https://firstcontributions.github.io/#project-list).
 
