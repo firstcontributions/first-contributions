@@ -1,6 +1,7 @@
 - Sanjay Kumar (https://github.com/sunny0205)
 # Contributors
 - [Kulasekara02](https://github.com/kulasekara02)
+- [auditive-tokyo](https://github.com/auditive-tokyo)
 - [Atheena Oteyza](https://github.com/atheenaoteyza)
 - [Yash Pathak](https://github.com/YashPathak18)
 - [Venkatesh Pamudurti](https://github.com/Venkat5674)
