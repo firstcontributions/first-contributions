@@ -732,6 +732,7 @@ SILVIO
 - [Naga Teja](https://github.com/invariantfields)
 - [Najaf Sikander](https://github.com/najafsikander)
 - [Nameless-Fellow](https://github.com/nameless-fellow)
+- [Naoto Abe](https://github.com/otoaneba)
 - [Nasrul](https://github.com/nnayz)
 - [Natalia Joy Szmagaj](https://github.com/defjoy9)
 - [Nathan Bert](https://github.com/NathanBert)
