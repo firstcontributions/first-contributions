@@ -98,6 +98,9 @@ _If you're not comfortable with command line, [here are tutorials using GUI tool
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork the repository" />
 
 #### If you don't have git on your machine, [install it](https://docs.github.com/en/get-started/quickstart/set-up-git).
+> **Note for beginners:**  
+> If you feel confused at any step, that's completely normal.  
+> Take your time, follow the steps one by one, and don't hesitate to read the linked tutorials carefully.
 
 ## Fork this repository
 
