@@ -18,6 +18,7 @@
 - [Abhishek Rana](https://github.com/ranaabhishek0702-dotcom)
 Amir Osman 
 - [Md. Mehadi Hassan](https://github.com/Mehadii-Hassan)
+- [Mahipal Singh Jhala](https://github.com/MahipalSinghJhala707)
 - [asikrshoudo](https://github.com/asikrshoudo)
 - [Mohtashim ali] (https://github.com/alimohtashim76)
 - [Jp Shively](https://github.com/jpshively0)
@@ -753,6 +754,7 @@ SILVIO
 - [Nikhil](https://github.com/NikhilKummari)
 - [Nimisha](https://github.com/codehusler14)
 - [Nirav Vala](https://github.com/valanirav)
+- [AKANKSHA JADHAV](https://github.com/Akankshaa1213)
 - [Nirbhay Bawankule](https://github.com/NirbhayBawankule)
 - [Nirupam Paul](https://github.com/101paul)
 - [Nischal Binil](https://github.com/cinnamonMuffin)
@@ -1411,4 +1413,9 @@ SILVIO
 - [RanZhang](https://github.com/rannnnn037)
 - [Lavanya B Y](https://github.com/lavanya23-8)
 - [Takashi.Takehana](https://github.com/FRAGILE-8460)
+<<<<<<< HEAD
 - [kats-04](https://github.com/kats-04)
+=======
+- [Nayonika Agarwal](https://github.com/nayonika04)
+- [Tejas Singh](https://github.com/TejasBLD)
+>>>>>>> upstream/main
