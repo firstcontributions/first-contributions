@@ -18,6 +18,7 @@
 - [Pranjali Goyal] (https://github.com/pranjaligoyal31)
 - [Abhishek Rana](https://github.com/ranaabhishek0702-dotcom)
 Amir Osman
+- [Seth Chamola](https://github.com/Mystic-Chamola)
 - [Anthony J Rossman](https://anthonyjrossman.tech) 
 - [Md. Mehadi Hassan](https://github.com/Mehadii-Hassan)
 - [Mahipal Singh Jhala](https://github.com/MahipalSinghJhala707)
