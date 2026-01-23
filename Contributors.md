@@ -25,6 +25,7 @@ Amir Osman
 - [Juhi Kumari](https://github.com/JJuhi)
 - [Abdul Qadeer Shah](https://github.com/shahSpider)
 - [Lakshmipriya Sivashanmugam](https://github.com/Lakssiva)
+- [Tushar Vimalbhai Patel](https://github.com/tushar-patel28)
 - [Faique](https://github.com/FaiqueIbrahimi)
 - [Iceman8911](https://github.com/Iceman8911)
 - [shwetasharma](https://github.com/ShwetaSharmaDev)
