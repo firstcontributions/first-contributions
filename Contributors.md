@@ -26,6 +26,7 @@ Amir Osman
 - [Jp Shively](https://github.com/jpshively0)
 - [meng ying](https://github.com/mengy012)
 - [Joshna Jojo](https://github.com/joshnajojo12)
+- [Abhishek Patel](https://github.com/abhishek0112cs221008)
 - [Juhi Kumari](https://github.com/JJuhi)
 - [Abdul Qadeer Shah](https://github.com/shahSpider)
 - [Lakshmipriya Sivashanmugam](https://github.com/Lakssiva)
