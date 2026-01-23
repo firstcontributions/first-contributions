@@ -172,6 +172,7 @@ SILVIO
   [Abhishek Maurya](https://github.com/AbhishekMauryaGEEK)
 - [Akhilesh Kotwal](https://github.com/AkhileshKotwal7)
 - [Alan John Sudhan](https://github.com/AlanJohnSudhan27)
+- [Himanshu Kapure](https://github.com/Himanshu25kapure)
 - [Sudorio](https://github.com/sudorio)
 - [Alankar Jagtap](https://github.com/AlankarJagtap)
 - [Alanto Manu](https://github.com/alantomanu)
