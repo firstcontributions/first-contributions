@@ -1288,3 +1288,4 @@
 - [polasisubash](https://github.com/polasisubash)
 - [Sabarivenkatesh](https://github.com/Sabarivenkatesh3)
 - [chandansingh](https://github.com/firstcontributions/first-contributions)
+- - [Rishabh Tripathi](https://github.com/rishabh8870)
