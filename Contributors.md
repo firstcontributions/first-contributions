@@ -12,6 +12,7 @@
 - [Ramesh Mummina](https://github.com/rameshmummina7)
 - [adeoja](https://github.com/adeoja)
 - [Dhurv](https://github.com/DhruvMarulkar)
+- [Marcel Nguemnin](https://github.com/mnguemnin)
 - [Akshat Trivedi] (https://github.com/akshat1602)
 - [Sanskar Agarwal](https://github.com/sanskaragarwal001)
 - [Pranjali Goyal] (https://github.com/pranjaligoyal31)
