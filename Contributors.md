@@ -674,6 +674,7 @@ SILVIO
 - [Maxi Rebolo](https://github.com/MaxiR23)
 - [MayLeaf](https://github.com/may-leaf)
 - [Mayank Ghildiyal](https://github.com/mayank2699)
+- [Carlos Mercado](https://github.com/carlos-mercado)
 - [MayurHedau](https://github.com/mayurdweek)
 - [Mayur Chalke](https://github.com/Mayur01-gg)
 - [Mazhum](https://github.com/mazummohammad)
