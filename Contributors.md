@@ -199,6 +199,7 @@ SILVIO
 - [Aminat A](https://github.com/pejuameenat)
 - Brice Ockman
 - [Amit Kumar Patra](https://github.com/amitkumarpatra99)
+- [Harsh]
 - [Amit Patil](https://github.com/meAmitPatil)
 - [Ammar Adnew](https://github.com/AmmarAdnew)
 - [Anvit Ajgaokar] (https://github.com/AnvitAjgaokar)
