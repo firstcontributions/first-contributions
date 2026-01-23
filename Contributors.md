@@ -219,6 +219,7 @@ SILVIO
 - [Angad Bhalla](https://github.com/Anga205)
 - [Ange Scotto](https://github.com/321-iT)
 -[Sunita S.](https://github.com/Sunita-lab)
+- Ant1
 - [Angel Sara](https://github.com/Angelishere)
 - [Devesh Jain](https://github.com/jaindevesh144)
 - [Rishi Gajawada]
