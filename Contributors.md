@@ -833,6 +833,7 @@ SILVIO
 - [Riddhima Biswas](https://github.com/RiddhimaBiswas)
 - [Rifaldo](https://github.com/Rifaldo-dev)
 - [Rishabh](https://github.com/rishabh8870)
+- [Rishabh Paudel](https://github.com/rishabh-24bcs10110) <!-- guys kindly remind me I may have changed my username -->
 - [Yash]
 - [Rishika](https://github.com/RISHIKA-A-S)
 - [Rishit Khandelwal](https://github.com/Rishit-Khandelwal)
