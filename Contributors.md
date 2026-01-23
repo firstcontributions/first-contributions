@@ -28,6 +28,7 @@ Amir Osman
 - [Iceman8911](https://github.com/Iceman8911)
 - [shwetasharma](https://github.com/ShwetaSharmaDev)
 - [Raunak katiyar2](https://github.com/raunak-bigdp)
+- [ekdoestech](https://github.com/ekdoestech)
 - [Chitransh Saxena](https://github.com/CSroseX/)
 - [RitwikReddy](https://github.com/RitwikReddyAerla)
 - [Spoorthi G Talanki](https://github.com/SpoorthiGTalanki)
