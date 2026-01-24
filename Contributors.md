@@ -1386,6 +1386,7 @@ SILVIO
 - [Kenta Ohtsuka](https://github.com/ootsukak-nttd)
 - [Javed Khan](https://github.com/JavedKhan93)
 - Andrew
+- Efe
 - [JaeWoong Eum](https://github.com/woolnd)
 - [JackyXi-Li](https://github.com/JackyXi-Li)
 - [Yuvraj Chirag](https://github.com/YuvrajChirag)
