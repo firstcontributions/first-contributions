@@ -700,6 +700,7 @@ Kaushlendra
 - [MatyasZERO](https://github.com/MatyasZERO)
 - [Max](https://github.com/max1ab)
 - [Maxi Rebolo](https://github.com/MaxiR23)
+- [Gabriel McKay](https://github.com/Gobrielm)
 - [MayLeaf](https://github.com/may-leaf)
 - [Mayank Ghildiyal](https://github.com/mayank2699)
 - [Carlos Mercado](https://github.com/carlos-mercado)
