@@ -6,6 +6,7 @@
 - [Atheena Oteyza](https://github.com/atheenaoteyza)
 - [Yash Pathak](https://github.com/YashPathak18)
 - [Venkatesh Pamudurti](https://github.com/Venkat5674)
+- [G Sudeepthi](https://github.com/deepthii1316)
 - [Neel Kumar](https://github.com/neelkumar01)
 - [Greenbasket-labs](https://github.com/greenbasket-labs)
 - [Luis Ruvalcaba](https://github.com/luisruval)
