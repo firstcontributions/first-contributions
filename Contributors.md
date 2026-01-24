@@ -1387,6 +1387,7 @@ SILVIO
 - [Shakthi Lakshmanan V](https://github.com/Shakthi-lakshmanan-2006)
 - [Sheeba S](https://github.com/SheebaSalaman)
 - [Sai Sudhan C](https://github.com/saisudhanc)
+- [Radhika Patne](https://github.com/radhika9870)
 - [Aditya Jain](https://github.com/Aditya29-03)
 - [Ankit Ghosal](https://github.com/ankitghosal82)
 - [Karim_Mohamed](https://github.com/KarimAlkabily)
