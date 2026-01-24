@@ -296,6 +296,7 @@ Kaushlendra
 - [Ava16](https://github.com/Ava16)
 - [AvatarG](https://github.com/AvatarG)
 - [Ayananth](https://github.com/Ayananth)
+- [Ganesh Namani](https://github.com/Ganesh7742)
 - [Ayincoder](https://github.com/Ayincoder)
 - [Azaelrock0](https://github.com/azaelrock0)
 - [B Pasha](https://github.com/baasilpasha)
