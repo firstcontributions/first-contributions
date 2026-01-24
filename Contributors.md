@@ -159,6 +159,7 @@ advait
 - [Adhil Bathali](https://github.com/adhilbathali)
 - [Aditya Das](https://github.com/AdityaDas496)
 - [Aditya Karan](https://github.com/Karan2805-glitch)
+- [Gui Jingzhao](https://github.com/PersianCat-tech)
 - [Shawn Li](https://github.com/Shawn12345)
 - [Aditya Nautiyal](https://github.com/AdityaNautiyal908)
 - [Raghav Chadha](https://github.com/EthicalAesthetic)
