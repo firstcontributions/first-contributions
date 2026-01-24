@@ -1409,6 +1409,7 @@ SILVIO
 - [Gaurav Singh](https://github.com/gauravsinghcodes)
 - [Parth Sinde](https://github.com/Parthshinde2005)
 - [Mithun Srinivas](https://github.com/MithunSrinivas28)
+  [Anjali Kumari](https://github.com/anjaliOfficialcoll)
 - [Devanshu](https://github.com/devanshu23bcs030)
 - [Divyam Pariyar](https://github.com/div-html)
 - [Bibek Prasad Gupta](https://github.com/BibekPrasadGupta)
@@ -1435,3 +1436,6 @@ SILVIO
 -[Devendra Solanki](https://github.com/DevendraSolanki1508)
 - [Fedor Kupryakov](https://github.com/divohub)
 - [Fawaz Bello](https://github.com/Phawazz)
+Anjali Kumari
+
+[Anjali Kumari](https://github.com/anjaliOfficialcoll)
