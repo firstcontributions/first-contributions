@@ -95,6 +95,9 @@ Kaushlendra
 - [@Zakiahsan-arch](https://github.com/Zakiahsan-arch)
 - [Arpit]
 - Senilka
+Aniket Singh 
+-[My Firest Repo](https://github.com/Neon1011/Productmanagement)
+-[My Startup](https://www.quibitx.com/)
 -Abdisalam
 - [TheKerbonaut](https://github.com/thekerbonaut)
 - [Archit Ojha](https://github.com/Archit1606)
