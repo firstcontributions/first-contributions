@@ -54,6 +54,8 @@ Amir Osman
 - [guerrasz](https://github.com/guerrasz)
 - [Rishita Sinha](https://github.com/rishita0706)
 # guilherme gomes
+- [Brahmpreet Singh](https://github.com/Brahmpreett)
+
 - [Musawer Ahmad](https://github.com/musawerxd)
 - [Raunak katiyar github](https://github.com/raunak-bigdp)
 SILVIO
