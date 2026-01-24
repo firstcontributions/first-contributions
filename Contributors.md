@@ -37,6 +37,7 @@ Amir Osman
 - [Faique](https://github.com/FaiqueIbrahimi)
 - [Iceman8911](https://github.com/Iceman8911)
 - [shwetasharma](https://github.com/ShwetaSharmaDev)
+- [socks5-sniffer](https://github.com/socks5-sniffer)
 - [Raunak katiyar2](https://github.com/raunak-bigdp)
 - [ekdoestech](https://github.com/ekdoestech)
 - [Chitransh Saxena](https://github.com/CSroseX/)
