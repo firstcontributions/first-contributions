@@ -25,6 +25,7 @@
 - [Akshat Trivedi] (https://github.com/akshat1602)
 - [Sanskar Agarwal](https://github.com/sanskaragarwal001)
 - [Pranjali Goyal] (https://github.com/pranjaligoyal31)
+- [Shubham Sihasane] (https://github.com/shubham-sihasane) Founder at [https://happywalaengineer.com/]
 - [Abhishek Rana](https://github.com/ranaabhishek0702-dotcom)
 Amir Osman
 - [Seth Chamola](https://github.com/Mystic-Chamola)
