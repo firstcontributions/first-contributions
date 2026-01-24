@@ -20,6 +20,7 @@
 - [adeoja](https://github.com/adeoja)
 - [Dhurv](https://github.com/DhruvMarulkar)
 - [Marcel Nguemnin](https://github.com/mnguemnin)
+- [Waasila Asif](https://github.com/WaasilaAsif)
 - [Carmen Saavedra](https://github.com/csaavedrae)
 - [Akshat Trivedi] (https://github.com/akshat1602)
 - [Sanskar Agarwal](https://github.com/sanskaragarwal001)
