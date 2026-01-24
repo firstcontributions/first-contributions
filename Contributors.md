@@ -37,6 +37,7 @@ Amir Osman
 - [Tushar Vimalbhai Patel](https://github.com/tushar-patel28)
 - [Faique](https://github.com/FaiqueIbrahimi)
 - [Iceman8911](https://github.com/Iceman8911)
+- [Manojufw](https://github.com/Manojufw) 
 - [shwetasharma](https://github.com/ShwetaSharmaDev)
 - [socks5-sniffer](https://github.com/socks5-sniffer)
 - [Raunak katiyar2](https://github.com/raunak-bigdp)
