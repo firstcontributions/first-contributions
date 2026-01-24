@@ -1,3 +1,4 @@
+- Tarun S. (https://github.com/Tarun-246)
 - Sanjay Kumar (https://github.com/sunny0205)
 # Contributors
 - [Nagaraj](https://github.com/Nagaraj335)
