@@ -694,6 +694,7 @@ SILVIO
 - [Mazhum](https://github.com/mazummohammad)
 - [Md Najrul Ansari](https://github.com/najru01)
 - [Meg Hiatt](https://github.com/hiatt8649)
+- [sxpar](https://github.com/sxpar)
 - [Mehedi Hasan Hridoy](https://github.com/mehedi-hridoy)
 - [Melanie Sagasser](https://github.com/melaniesagasser)
 - [Menahil](https://github.com/mena-aq)
