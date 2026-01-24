@@ -1,5 +1,7 @@
 - Sanjay Kumar (https://github.com/sunny0205)
 # Contributors
+- [Kulasekara02](https://github.com/kulasekara02)
+- [auditive-tokyo](https://github.com/auditive-tokyo)
 - [Atheena Oteyza](https://github.com/atheenaoteyza)
 - [Yash Pathak](https://github.com/YashPathak18)
 - [Venkatesh Pamudurti](https://github.com/Venkat5674)
@@ -12,11 +14,15 @@
 - [Ramesh Mummina](https://github.com/rameshmummina7)
 - [adeoja](https://github.com/adeoja)
 - [Dhurv](https://github.com/DhruvMarulkar)
+- [Marcel Nguemnin](https://github.com/mnguemnin)
+- [Carmen Saavedra](https://github.com/csaavedrae)
 - [Akshat Trivedi] (https://github.com/akshat1602)
 - [Sanskar Agarwal](https://github.com/sanskaragarwal001)
 - [Pranjali Goyal] (https://github.com/pranjaligoyal31)
 - [Abhishek Rana](https://github.com/ranaabhishek0702-dotcom)
-Amir Osman 
+Amir Osman
+- [Seth Chamola](https://github.com/Mystic-Chamola)
+- [Anthony J Rossman](https://anthonyjrossman.tech) 
 - [Md. Mehadi Hassan](https://github.com/Mehadii-Hassan)
 - [Mahipal Singh Jhala](https://github.com/MahipalSinghJhala707)
 - [asikrshoudo](https://github.com/asikrshoudo)
@@ -24,13 +30,16 @@ Amir Osman
 - [Jp Shively](https://github.com/jpshively0)
 - [meng ying](https://github.com/mengy012)
 - [Joshna Jojo](https://github.com/joshnajojo12)
+- [Abhishek Patel](https://github.com/abhishek0112cs221008)
 - [Juhi Kumari](https://github.com/JJuhi)
 - [Abdul Qadeer Shah](https://github.com/shahSpider)
 - [Lakshmipriya Sivashanmugam](https://github.com/Lakssiva)
 - [Tushar Vimalbhai Patel](https://github.com/tushar-patel28)
 - [Faique](https://github.com/FaiqueIbrahimi)
 - [Iceman8911](https://github.com/Iceman8911)
+- [Manojufw](https://github.com/Manojufw) 
 - [shwetasharma](https://github.com/ShwetaSharmaDev)
+- [socks5-sniffer](https://github.com/socks5-sniffer)
 - [Raunak katiyar2](https://github.com/raunak-bigdp)
 - [ekdoestech](https://github.com/ekdoestech)
 - [Chitransh Saxena](https://github.com/CSroseX/)
@@ -49,6 +58,7 @@ Amir Osman
 - [Raunak katiyar github](https://github.com/raunak-bigdp)
 SILVIO
 - [hezk](https://github.com/hezhikui)
+- [blumqist](https://github.com/blumquisted-collab)
 - [Vikash Kumar Chaurasiya](https://github.com/Vikashchaurasiya07)
 - [Mudipelly Shiva](https://github.com/shivamudipelly)
 - [twaga51](https://github.com/twaga51)
@@ -198,6 +208,7 @@ SILVIO
 - [Aminat A](https://github.com/pejuameenat)
 - Brice Ockman
 - [Amit Kumar Patra](https://github.com/amitkumarpatra99)
+- [Harsh]
 - [Amit Patil](https://github.com/meAmitPatil)
 - [Ammar Adnew](https://github.com/AmmarAdnew)
 - [Anvit Ajgaokar] (https://github.com/AnvitAjgaokar)
@@ -219,6 +230,7 @@ SILVIO
 - [Angad Bhalla](https://github.com/Anga205)
 - [Ange Scotto](https://github.com/321-iT)
 -[Sunita S.](https://github.com/Sunita-lab)
+- Ant1
 - [Angel Sara](https://github.com/Angelishere)
 - [Devesh Jain](https://github.com/jaindevesh144)
 - [Rishi Gajawada]
@@ -684,6 +696,7 @@ SILVIO
 - [Mazhum](https://github.com/mazummohammad)
 - [Md Najrul Ansari](https://github.com/najru01)
 - [Meg Hiatt](https://github.com/hiatt8649)
+- [sxpar](https://github.com/sxpar)
 - [Mehedi Hasan Hridoy](https://github.com/mehedi-hridoy)
 - [Melanie Sagasser](https://github.com/melaniesagasser)
 - [Menahil](https://github.com/mena-aq)
@@ -1013,6 +1026,7 @@ SILVIO
 - [Test Perfil 1](https://github.com/test-git001)
 - [Thejus Kannoth](https://github.com/ThejusKannoth)
 - [THEXPO](https://github.com/THEXPO)
+- [Thomas Martin](https://github.com/Tm4rtin17)
 - [Thonyyy] (https://github.com/tnenechi)
 - [Tilak Mahajan] (https://github.com/Tilakmahajan)
 - [TimUfer](https://github.com/TimUfer)
@@ -1377,6 +1391,7 @@ SILVIO
 - [Kenta Ohtsuka](https://github.com/ootsukak-nttd)
 - [Javed Khan](https://github.com/JavedKhan93)
 - Andrew
+- Efe
 - [JaeWoong Eum](https://github.com/woolnd)
 - [JackyXi-Li](https://github.com/JackyXi-Li)
 - [Yuvraj Chirag](https://github.com/YuvrajChirag)
@@ -1416,3 +1431,7 @@ SILVIO
 - [Nayonika Agarwal](https://github.com/nayonika04)
 - [Tejas Singh](https://github.com/TejasBLD)
 - [Ruchita Jadhav](https://github.com/ruchita-mlcraft)
+- [Suchi Shukla](https://github.com/Suchi1905)
+-[Devendra Solanki](https://github.com/DevendraSolanki1508)
+- [Fedor Kupryakov](https://github.com/divohub)
+- [Fawaz Bello](https://github.com/Phawazz)
