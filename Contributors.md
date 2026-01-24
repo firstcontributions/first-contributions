@@ -1452,3 +1452,4 @@ Kaushlendra
 - [Fedor Kupryakov](https://github.com/divohub)
 - [Fawaz Bello](https://github.com/Phawazz)
 - [konstantinMS](https://github.com/KonstantinMS)
+- [samuelitoo01](https://github.com/samuelitoo01)
