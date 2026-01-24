@@ -75,6 +75,7 @@ SILVIO
 - [Aisha](https://github.com/ashii5)
 - [Ziyu](https://github.com/szyu345)
 - [Adarsh](https://github.com/itsrajadarsh)
+advait
 - [Himanshi](https://github.com/himanshi-0070)
 - [Hitesh Bhat](https://github.com/Bhat31/)
 - [Akshara](https://github.com/aksharapandey)
