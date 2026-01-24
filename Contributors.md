@@ -66,6 +66,7 @@ SILVIO
 - [hezk](https://github.com/hezhikui)
 - [blumqist](https://github.com/blumquisted-collab)
 - [Vikash Kumar Chaurasiya](https://github.com/Vikashchaurasiya07)
+- [Anuj Pokhriyal](https://github.com/anujj14)
 - [Mudipelly Shiva](https://github.com/shivamudipelly)
 - [twaga51](https://github.com/twaga51)
 - [3260700740-sketch](https://github.com/3260700740-sketch)
