@@ -17,6 +17,7 @@
 - [Abhinav Dwivedi](https://github.com/abhinavdwivedi05)
 - [Khushal Shivhare](https://github.com/khushal-coder-learner)
 - [Matthew Han] (https://github.com/matthewjyhan)
+- [Brenda G](https://github.com/BrendaG04)
 - [Teja Chalikanti](https://github.com/tchalikanti1705)
 - [Ramesh Mummina](https://github.com/rameshmummina7)
 - [adeoja](https://github.com/adeoja)
