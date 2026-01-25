@@ -51,6 +51,7 @@ Amir Osman
 - [Faique](https://github.com/FaiqueIbrahimi)
 - [Iceman8911](https://github.com/Iceman8911)
 - [Manojufw](https://github.com/Manojufw) 
+- [Angel780-jpg](https://github.com/Angel780-jpg)
 - [shwetasharma](https://github.com/ShwetaSharmaDev)
 - [socks5-sniffer](https://github.com/socks5-sniffer)
 - [Raunak katiyar2](https://github.com/raunak-bigdp)
