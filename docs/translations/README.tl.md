@@ -13,7 +13,7 @@ Kung hindi comfortable sa paggamit ng *command line*, [may mga tutorials din gam
 
 
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="i-fork ang repository na ito" />
 
 Kung wala pang *git* sa iyong computer, [i-install ito](https://help.github.com/articles/set-up-git/).
 
@@ -25,7 +25,7 @@ Magkakaroon na ng kopya ng *repository* na ito sa iyong account.
 
 ## I-clone ang repository
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="i-clone ang repository na ito" />
 
 Ngayon, i-clone ang repository na iyong na-fork sa iyong computer.
 Pumunta lang sa iyong GitHub account, buksan ang nai-fork na repository, i-click ang clone button pagkatapos i-click ang *copy to clipboard* icon.
@@ -37,7 +37,7 @@ git clone "url na nakopya mo"
 ```
 kung saan ang "url na nakopya mo" (wala ang mga panipi) ay ang URL ng repository (ang fork ng iyong proyekto). Pakitingnan nang mabuti ang mga nakaraang hakbang upang makuha ang url.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="kopyahin ang URL sa clipboard" />
 
 Halimbawa:
 ```bash
@@ -67,7 +67,7 @@ git checkout -b dagdag-juan-dela-cruz
 
 Ngayon, buksan ang `Contributors.md` file sa isang text editor, idagdag ang iyong pangalan. Huwag mong idagdag sa simula o sa hulian ng tinutukoy na file. Ilagay sa kalagitnaan ng file. At i-save and file.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="katayuan ng git" />
 
 
 Kapag pumunta ka sa directory ng iyong proyekto at i-enter ang command na `git status`, may makikita kang mga pagbabago.
@@ -97,11 +97,11 @@ kung saan ang `<dagdag-branch-name>` ay ang pangalan ng branch na naidagdag mo k
 
 Pumunta sa iyong repository sa GitHub at may makikita kang  `Compare & pull request` button, i-click mo ang tumutukoy na button.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="gumawa ng pull request" />
 
 I-submit ang pull request.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="ipasa ang pull request" />
 
 Pagkalipas ng ilang oras ay isasama ko ang mga pagbabago na nagawa mo papunta sa master branch ng proyekto na ito. May makukuha kang notification email kapag ang mga pagbabago ay na-isama sa proyekto.
 
