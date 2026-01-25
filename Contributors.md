@@ -2,6 +2,7 @@
 - Tarun S. (https://github.com/Tarun-246)
 - Sanjay Kumar (https://github.com/sunny0205)
 # Contributors
+- [Talaptan Alikhan](https://github.com/alihnwx)
 - [Mohit rathi](https://github.com/MohitRathi14)
 - [M. Valentino](https://github.com/MarinoValentino)
 - [Nagaraj](https://github.com/Nagaraj335)
