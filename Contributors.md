@@ -2,6 +2,7 @@
 - Tarun S. (https://github.com/Tarun-246)
 - Sanjay Kumar (https://github.com/sunny0205)
 # Contributors
+- [Mohit rathi](https://github.com/MohitRathi14)
 - [M. Valentino](https://github.com/MarinoValentino)
 - [Nagaraj](https://github.com/Nagaraj335)
 - [N1les](https://github.com/n1lesoff)
@@ -45,6 +46,7 @@ Amir Osman
 - [Joshna Jojo](https://github.com/joshnajojo12)
 - [Abhishek Patel](https://github.com/abhishek0112cs221008)
 - [Juhi Kumari](https://github.com/JJuhi)
+- [Isha Singh](https://github.com/singhisha40)
   [Zarfishan Ali](https://github.com/zarfishan20)
 - [Cheril Gracenciya](https://github.com/cherry16grace)
 - [Abdul Qadeer Shah](https://github.com/shahSpider)
@@ -1478,3 +1480,4 @@ Kaushlendra
 - [Raman Nazarov] (https://github.com/ramanazarov)
 - [Raman Nazarov] (https://github.com//ramanazarov)
 - [Sype](https://github.com/Sype0)
+- [Yassine Elhanouni] (https://github.com/ElhanouniYassine) 
