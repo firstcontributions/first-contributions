@@ -112,11 +112,11 @@ git push -u origin your-branch-name
   Хэрэв дээрх янзаар алдаа зааж байвал шинэ SSH түлхүүр үүсгэн хаягтайгаа холбох хэрэгтэй гэсэн үг бөгөөд хэрхэн холбохыг [энд дарж харна уу](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account).
 
   Мөн, аль рэпотой холбогдсон байгаагаа 'git remote -v' үйлдлээр шалгачихад гэмгүй.
-  
+
   Хэрэв дээрх үйлдлийн хариу доорх маягаар байвал:
   <pre>origin	https://github.com/таны-хэрэглэгчийн-нэр/таны-рэпо-нэр.git (fetch)
   origin	https://github.com/таны-хэрэглэгчийн-нэр/таны-рэпо-нэр.git (push)</pre>
-  
+
   дараах үйлдлээр өөрчлөх хэрэгтэй:
   ```bash
   git remote set-url origin git@github.com:таны-хэрэглэгчийн-нэр/таны-рэпо-нэр.git

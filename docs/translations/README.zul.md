@@ -1,5 +1,4 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -11,7 +10,7 @@ Sifuna ukusiza nokubonisa abanikeli abasha indlela yokuqala ngokunikela. Uma ufu
 #### *Uma ungakhululekile ngomugqa womyalo, [nazi izifundo ezisebenzisa amathuluzi we-GUI.](#Izinto-ezengeziwe)*
 
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="thola le repository" />
 
 
 Uma ungenayo i-git kumshini wakho, [ifake]( https://help.github.com/articles/set-up-git/).
@@ -22,7 +21,7 @@ Fometha le repo ngokuchofoza inkinobho yemfoloko phezulu kwaleli khasi. Lokhu ku
 
 ## Qalisa i-repository
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="kopisha le repository" />
 
 Manje faka i-repo efakwe emshini wakho kumshini wakho. Yiya ku-akhawunti yakho ye-GitHub, vula i-repo evuliwe, chofoza inkinobho ye-clone bese uchofoza ikhophi ku-clipboard icon.
 
@@ -33,7 +32,7 @@ git clone "url you just copied"
 ```
 lapho "u-url osuvele ukopishe khona" (ngaphandle kwama-quote marks) yi-url kule ndawo yokugcina (ifomu lakho lephrojekthi). Bona izinyathelo zangaphambilini ukuthola i-url.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="kopisha i-URL kuphaneli" />
 
 
 Ngokwesibonelo:
@@ -69,7 +68,7 @@ git checkout -b engeza-adam-kowalski
 
 Manje `Contributors.md` ifayela evulekile kumhleli wombhalo, engeza igama lakho kuyo. Ungayifaki ekuqaleni noma ekupheleni kwefayela. Beka noma kuphi phakathi. Manje, londoloza ifayela.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="isimo se-git" />
 
 Uma uya encwadini yomhlahlandlela bese wenza umyalo  `git status`, uzobona kukhona izinguquko.
 
@@ -102,11 +101,11 @@ kufaka esikhundleni `<add-your-branch-name>` igama legatsha owadala ngaphambilin
 
 Uma uya endaweni yakho yokugcina ku-GitHub, uzobona  `Compare & pull request` inkinobho. Chofoza kuleyo nkinobho.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="dala isicelo sokudonsa" />
 
 Manje thumela isicelo sokudonsa.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="thumela isicelo sokudonsa" />
 
 Ngizohlanganisa zonke izinguquko zakho ngokushesha zibe yigatsha eliyinhloko laphrojekthi. Uzothola i-imeyili yesaziso uma izinguquko sezihlanganisiwe.
 
@@ -116,7 +115,6 @@ Siyakuhalalisela! Usanda kuqedela umshini ojwayelekile -> clone -> edit -> PR uk
 
 Gubha umnikelo wakho bese uwabelana nabangani bakho nabalandeli ngokuya kuhlelo [lokusebenza lewebhu](https://firstcontributions.github.io/#social-share).
 
-Ungakwazi ukujoyina ithimba lethu elihle uma kwenzeka udinga noma yiluphi usizo noma unemibuzo. [Joyina ithimba le-slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
 Manje ake siqale ngokunikela ngeminye imiklamo. Senze uhlu lwamaphrojekthi ngezinkinga ezilula ongaqala ngazo. Hlola  [uhlu lwamaphrojekthi kuhlelo lokusebenza lewebhu .](https://firstcontributions.github.io/#project-list).
 
