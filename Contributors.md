@@ -4,6 +4,7 @@
 - [Zenrsr](https://github.com/zenrsr)
 - [Aisha](https://github.com/ashii5)
 - [Ziyu](https://github.com/szyu345)
+- [Christopher Meuth](https://github.com/ChristopherMeuth)
 - [Himanshi](https://github.com/himanshi-0070)
 - [Alnoor](https://github.com/Alnoormahmoud)
 - [0scrxk](https://github.com/oscrxk)
