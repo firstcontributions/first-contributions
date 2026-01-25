@@ -1059,6 +1059,7 @@ Kaushlendra
 - [Tournoy Noa](https://github.com/)
 - [Tracey Dingman](https://github.com/tdingman422)
 - [Trevor Tippery](https://github.com/trevortippery)
+- [Chitvan Singh](https://github.com/chitvan11)
 - [Trung Quoc Nguyen](https://github.com/Trungsherlock)
 - [Trần Huỳnh Đăng Khôi](https://github.com/KhoiTarn)
 - [Tum Teeradach](https://github.com/Tum-404)
