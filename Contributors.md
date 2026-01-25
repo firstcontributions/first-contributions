@@ -45,6 +45,7 @@ Amir Osman
 - [Joshna Jojo](https://github.com/joshnajojo12)
 - [Abhishek Patel](https://github.com/abhishek0112cs221008)
 - [Juhi Kumari](https://github.com/JJuhi)
+- [Isha Singh](https://github.com/singhisha40)
   [Zarfishan Ali](https://github.com/zarfishan20)
 - [Cheril Gracenciya](https://github.com/cherry16grace)
 - [Abdul Qadeer Shah](https://github.com/shahSpider)
