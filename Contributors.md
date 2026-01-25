@@ -718,6 +718,7 @@ Kaushlendra
 - [Carlos Mercado](https://github.com/carlos-mercado)
 - [MayurHedau](https://github.com/mayurdweek)
 - [Mayur Chalke](https://github.com/Mayur01-gg)
+- [Mayur Marvaniya](https://github.com/Mayur6720)
 - [Mazhum](https://github.com/mazummohammad)
 - [Md Najrul Ansari](https://github.com/najru01)
 - [Meg Hiatt](https://github.com/hiatt8649)
