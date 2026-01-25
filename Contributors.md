@@ -1470,3 +1470,4 @@ Kaushlendra
 - [koolkosmos](https://github.com/koolkosmos)
 - [Hemaksh Sharma](https://github.com/Hemaksh69)
 - [Mahmud Yusifli](https://github.com/mahmudyusifli)
+- [Raman Nazarov](https://github.com/PAUSED8826)
