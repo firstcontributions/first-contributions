@@ -689,6 +689,7 @@ Kaushlendra
 - [Maria Mitova] (https://github.com/mariami57)
 - [Mariana Rutter](https://github.com/marianaluu)
 - [Mario Sanchez](https://github.com/mcn22)
+- [Vivek Dubba](https://github.com/vivekd2412)
 - [Mariusz Jasko](https://github.com/Marjo185)
 - [Mariusz Sobczak](https://github.com/SmoQ)
 - [Mariydi](https://github.com/mariydi)
