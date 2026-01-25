@@ -27,6 +27,7 @@
 - [adeoja](https://github.com/adeoja)
 - [Dhurv](https://github.com/DhruvMarulkar)
 - [Marcel Nguemnin](https://github.com/mnguemnin)
+- [Blossom Williams](https://github.com/blossom2016)
 - [Waasila Asif](https://github.com/WaasilaAsif)
 - [Carmen Saavedra](https://github.com/csaavedrae)
 - [Akshat Trivedi] (https://github.com/akshat1602)
