@@ -3,6 +3,7 @@
 - Sanjay Kumar (https://github.com/sunny0205)
 # Contributors
 [Aadi Jain](https://github.com/jainaadi098)
+[naheel](https://github.com/naheel0)
 - [Dev Goel](https://github.com/404Dev-notFound)
 - [liplip](https://github.com/liplip358)
 - [mewbemonk] (https://github.com/mewbemonk)
