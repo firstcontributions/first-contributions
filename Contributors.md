@@ -242,6 +242,7 @@ Kaushlendra
 - [Sudorio](https://github.com/sudorio)
 - [Ashwith Godishala](https://github.com/GodishalaAshwith)
 - [Alankar Jagtap](https://github.com/AlankarJagtap)
+- [Priyanka Mali](https://github.com/priyanka1885)
 - [Alanto Manu](https://github.com/alantomanu)
 - [Alejandro Aceituno](https://github.com/clement-zentz)
 - [Sangini Tripathi](https://github.com/Sangini-spec)
