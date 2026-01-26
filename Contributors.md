@@ -4,6 +4,7 @@
 # Contributors
 - [liplip](https://github.com/liplip358)
 - [Talaptan Alikhan](https://github.com/alihnwx)
+- [Aryan Rathore](https://github.com/javawithaaryan)
 - [Anuj Kumar]  (https://github.com/Anujkumar9081)
 - [Mohit rathi](https://github.com/MohitRathi14)
 - [Saron Pal](https://github.com/Saronpal)
