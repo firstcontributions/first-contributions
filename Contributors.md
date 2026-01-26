@@ -13,6 +13,7 @@
 - [N1les](https://github.com/n1lesoff)
 - [Kulasekara02](https://github.com/kulasekara02)
 - [auditive-tokyo](https://github.com/auditive-tokyo)
+- [Shailesh Mishra](https://github.com/sendtoshailesh)
 - [Atharv Jadhav](https://github.com/atharv5167)
 - [Atheena Oteyza](https://github.com/atheenaoteyza)
 - [Yash Pathak](https://github.com/YashPathak18)
