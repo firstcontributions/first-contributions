@@ -75,6 +75,7 @@ Amir Osman
 - [ekdoestech](https://github.com/ekdoestech)
 - [Chitransh Saxena](https://github.com/CSroseX/)
 - [RitwikReddy](https://github.com/RitwikReddyAerla)
+- [Priyanshu Thakare](https://github.com/priyanshuthakare)
 - [Spoorthi G Talanki](https://github.com/SpoorthiGTalanki)
 - [RyukR1](https://github.com/RyukR1)
 - Biyaannbijoy
