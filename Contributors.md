@@ -7,6 +7,7 @@
 [naheel](https://github.com/naheel0)
 - [Dev Goel](https://github.com/404Dev-notFound)
 - [liplip](https://github.com/liplip358)
+- [Tanmai Thakre](https://github.com/Tanmai-Thakre)
 - [mewbemonk] (https://github.com/mewbemonk)
 - [Talaptan Alikhan](https://github.com/alihnwx)
 - [Manan Vaghasiya](https://github.com/manan-vaghasiya7)
