@@ -32,6 +32,7 @@
 - [Khushal Shivhare](https://github.com/khushal-coder-learner)
 - [Matthew Han] (https://github.com/matthewjyhan)
 - [Brenda G](https://github.com/BrendaG04)
+- [Vivek Kumar](https://github.com/Vivek-kumar3011)
 - [Teja Chalikanti](https://github.com/tchalikanti1705)
 - [Ramesh Mummina](https://github.com/rameshmummina7)
 - [adeoja](https://github.com/adeoja)
