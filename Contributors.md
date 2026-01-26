@@ -4,6 +4,7 @@
 # Contributors
  [Nina Auld](https://github.com/auldn)
 [Aadi Jain](https://github.com/jainaadi098)
+[Aditya Kashid](https://github.com/Adityak0309)
 [naheel](https://github.com/naheel0)
 - [Dev Goel](https://github.com/404Dev-notFound)
 - [liplip](https://github.com/liplip358)
