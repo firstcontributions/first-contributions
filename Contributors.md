@@ -15,6 +15,7 @@
   [Tanveer Pasha S](https://github.com/TanveerpashaS)
 - [Saqlain Sultan](https://github.com/saqlain991)
 - [Gaurang Dhanuka](https://github.com/Gaurang-101)
+- [EdVKu](https://github.com/EdVKu)
 - [Aryan Rathore](https://github.com/javawithaaryan)
 - [Anuj Kumar]  (https://github.com/Anujkumar9081)
 - [Goswami Adityagiri] (https://github.com/Aaditya0411/first-contributions.git)
