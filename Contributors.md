@@ -4,6 +4,7 @@
 # Contributors
 - [Talaptan Alikhan](https://github.com/alihnwx)
 - [Mohit rathi](https://github.com/MohitRathi14)
+- [Ankush Singh](https://github.com/whyankush07)
 - [M. Valentino](https://github.com/MarinoValentino)
 - [Nagaraj](https://github.com/Nagaraj335)
 - [N1les](https://github.com/n1lesoff)
