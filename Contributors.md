@@ -5,6 +5,7 @@
 - [liplip](https://github.com/liplip358)
 - [Talaptan Alikhan](https://github.com/alihnwx)
 - [Manan Vaghasiya](https://github.com/manan-vaghasiya7)
+  [Tanveer Pasha S](https://github.com/TanveerpashaS)
 - [Saqlain Sultan](https://github.com/saqlain991)
 - [Aryan Rathore](https://github.com/javawithaaryan)
 - [Anuj Kumar]  (https://github.com/Anujkumar9081)
