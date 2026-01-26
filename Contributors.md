@@ -774,6 +774,7 @@ Kaushlendra
 - [Musbi8788](https://github.com/Musbi8788)
 - [Muskan](https://github.com/MUSKANFAYAZ)
 - [Muzzammil H](https://github.com/MUZZAMMIL111)
+- [Nicolas Betancur](https://github.com/nicobe20)
 - [MyCadence](https://github.com/MyCadence)
 - [Mzwandilemkhokha](https://github.com/mzwandilemkhokha)
 - [NIKHIL GAJULA](https://github.com/nikhil07g)
