@@ -6,6 +6,7 @@
 - [Talaptan Alikhan](https://github.com/alihnwx)
 - [Manan Vaghasiya](https://github.com/manan-vaghasiya7)
 - [Saqlain Sultan](https://github.com/saqlain991)
+- [Gaurang Dhanuka](https://github.com/Gaurang-101)
 - [Aryan Rathore](https://github.com/javawithaaryan)
 - [Anuj Kumar]  (https://github.com/Anujkumar9081)
 - [Goswami Adityagiri] (https://github.com/Aaditya0411/first-contributions.git)
@@ -1508,3 +1509,4 @@ Kaushlendra
 - [Himanshu Pathak](https://github.com/CHimPat073)
 - [Suriyanarayanan Divakaran] (https:/github.com/sudiv)
 - [Winter Luan] (https://github.com/winter-like-ai)
+-[Zoha Fathima](https://github.com/ZohaFathima377)
