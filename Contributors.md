@@ -8,6 +8,7 @@
 - [Dev Goel](https://github.com/404Dev-notFound)
 - [liplip](https://github.com/liplip358)
 - [Tanmai Thakre](https://github.com/Tanmai-Thakre)
+- [Shivans Gupta](https://github.com/ShivansGupta25)
 - [Subhajit Sarkar](https://github.com/Subhajit281)
 - [mewbemonk] (https://github.com/mewbemonk)
 - [Talaptan Alikhan](https://github.com/alihnwx)
