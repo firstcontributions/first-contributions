@@ -2,6 +2,7 @@
 - Tarun S. (https://github.com/Tarun-246)
 - Sanjay Kumar (https://github.com/sunny0205)
 # Contributors
+aditi chauhan
 - [M. Valentino](https://github.com/MarinoValentino)
 - [Nagaraj](https://github.com/Nagaraj335)
 - [N1les](https://github.com/n1lesoff)
