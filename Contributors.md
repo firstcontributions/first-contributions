@@ -2,6 +2,7 @@
 - Tarun S. (https://github.com/Tarun-246)
 - Sanjay Kumar (https://github.com/sunny0205)
 # Contributors
+ [Nina Auld](https://github.com/auldn)
 [Aadi Jain](https://github.com/jainaadi098)
 [naheel](https://github.com/naheel0)
 - [Dev Goel](https://github.com/404Dev-notFound)
