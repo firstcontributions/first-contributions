@@ -3,6 +3,7 @@
 - Sanjay Kumar (https://github.com/sunny0205)
 # Contributors
 - [Talaptan Alikhan](https://github.com/alihnwx)
+- [Anuj Kumar]  (https://github.com/Anujkumar9081)
 - [Mohit rathi](https://github.com/MohitRathi14)
 - [Saron Pal](https://github.com/Saronpal)
 - [Ankush Singh](https://github.com/whyankush07)
