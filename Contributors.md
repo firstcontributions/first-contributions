@@ -143,6 +143,7 @@ Kaushlendra
 - [Sushit Lal Pakrashy](https://github.com/Sushit-prog)
 - [Akhil R](https://github.com/A-Rjs)
 - [vismitha]
+- [Adesh Deshmukh](https://github.com/AdeshDeshmukh)
 - [xjw]
 - [lcb](https://github.com/lcb001)
 - [Adrian Dev](https://github.com/Adr1anN-dev)
