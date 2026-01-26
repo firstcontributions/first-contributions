@@ -1424,6 +1424,7 @@ Kaushlendra
 - [Momina Fatima](https://github.com/mominaaa0)
 - [Ahmad Bilal](https://github.com/AhmadBilal-WebDev)
 - [Makis](https://github.com/makishart)
+- [Daksh Gour](https://github.com/dakshgour)
 - [Aman Singh](https://github.com/Amankumarsingh23)
 - [Jeevan Yewale](https://github.com/JeevanYewale)
 - [Mark Jason Espelita](https://github.com/mjespelita)
