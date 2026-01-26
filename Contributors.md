@@ -330,6 +330,7 @@ rodrick
 - [Pouya Esfahani](https://github.com/Pooyash1998)
 - [Sudarshan Dongre](https://github.com/SudWasatch)
 - [Alankar Jagtap](https://github.com/AlankarJagtap)
+- [Serafim Sharkov] (https://github.com/syssefim)
 - [Arnav Saraswat](https://github.com/arnavs-uol)
 - [Hrishant Bheda](https://github.com/Hrishant05)
 - [Khushi Agrawal](https://github.com/mysterious-cod1004)
