@@ -1085,6 +1085,7 @@ Kaushlendra
 - [Vaibhav Bakliwal](https://github.com/bakliwalvaibhav1)
 - [Vaibhav Dhariwal](https://github.com/VaibhavDhariwal8)
 - [Vaibhav Kemani](https://github.com/VKpahadi)
+- [Vaibhav Mittal](https://github.com/vm2591)
 - [Vaishnavi Jagtap](https://github.com/vaishnavijagtap02)
 - [rain-dogs76](https://github.com/rain-dogs76)
 - [Vedant S](https://github.com/1vedantshinde)
