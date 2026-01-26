@@ -1509,4 +1509,5 @@ Kaushlendra
 - [Himanshu Pathak](https://github.com/CHimPat073)
 - [Suriyanarayanan Divakaran] (https:/github.com/sudiv)
 - [Winter Luan] (https://github.com/winter-like-ai)
+- [Seok-jun Kang](https://github.com/KSJ27)
 -[Zoha Fathima](https://github.com/ZohaFathima377)
