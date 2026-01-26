@@ -5,8 +5,12 @@
 - [liplip](https://github.com/liplip358)
 - [Talaptan Alikhan](https://github.com/alihnwx)
 - [Manan Vaghasiya](https://github.com/manan-vaghasiya7)
+
 - [Tanveer Pasha S](https://github.com/TanveerpashaS)
+
+
 - [Saqlain Sultan](https://github.com/saqlain991)
+- [Gaurang Dhanuka](https://github.com/Gaurang-101)
 - [Aryan Rathore](https://github.com/javawithaaryan)
 - [Anuj Kumar]  (https://github.com/Anujkumar9081)
 - [Goswami Adityagiri] (https://github.com/Aaditya0411/first-contributions.git)
@@ -329,6 +333,7 @@ Kaushlendra
 - [Siam] (https://github.com/siam-codes)
 - [Atirek Goyal](https://github.com/atirek89)
 - [Augustine Chiu](https://github.com/achiu283)
+- [Mayuresh Thorve](https://github.com/Mayurroro)
 - [AvAdiii](https://github.com/AvAdiii)
 - [Ava16](https://github.com/Ava16)
 - [AvatarG](https://github.com/AvatarG)
@@ -1508,4 +1513,6 @@ Kaushlendra
 - [Siriuswyc](https://github.com/Siriuswyc)
 - [Himanshu Pathak](https://github.com/CHimPat073)
 - [Suriyanarayanan Divakaran] (https:/github.com/sudiv)
+- [Winter Luan] (https://github.com/winter-like-ai)
+- [Seok-jun Kang](https://github.com/KSJ27)
 -[Zoha Fathima](https://github.com/ZohaFathima377)
