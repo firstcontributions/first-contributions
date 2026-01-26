@@ -1492,6 +1492,7 @@ Kaushlendra
 - [RanZhang](https://github.com/rannnnn037)
 - [Lavanya B Y](https://github.com/lavanya23-8)
 - [Takashi.Takehana](https://github.com/FRAGILE-8460)
+- [Satish Chawali](https://github.com/satishchawali)
 - [Nayonika Agarwal](https://github.com/nayonika04)
 - [Tejas Singh](https://github.com/TejasBLD)
 - [Ruchita Jadhav](https://github.com/ruchita-mlcraft)
