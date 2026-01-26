@@ -48,6 +48,7 @@
 - [Abhishek Rana](https://github.com/ranaabhishek0702-dotcom)
 Amir Osman
 - [Seth Chamola](https://github.com/Mystic-Chamola)
+- [I Kanapathipillai](https://github.com/KI-5/)
 - [Anthony J Rossman](https://anthonyjrossman.tech) 
 - [QingKong996](https://github.com/QingKong996)
 - [Md. Mehadi Hassan](https://github.com/Mehadii-Hassan)
