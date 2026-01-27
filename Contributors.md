@@ -516,6 +516,7 @@ Kaushlendra
 - [Elijah D](https://github.com/Cloud-Multiplayer)
 - [Elyas Shamal](https://github.com/ElyasShamal)
 - [Emil Piesik](https://github.com/piesikot)
+- Ethan
 - [Emma Yu](https://github.com/jjy88)
 - [Emmanuel Zelaya-Armenta](https://github.com/Emmanuel-ZA)
 - [Emrah Isović](https://github.com/EmrahIso)
