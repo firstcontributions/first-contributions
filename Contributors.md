@@ -5,6 +5,7 @@
 - [Sagar Maurya](https://github.com/SagarXCode)
 [Diya](https://github.com/niat-web)
  [Nina Auld](https://github.com/auldn)
+ [Adarsh Malviya](https://github.com/adarsh-malviya06)
 [Aadi Jain](https://github.com/jainaadi098)
 [Aditya Kashid](https://github.com/Adityak0309)
 - [Mohd Zamaan Akhtar] (https://github.com/zamaan-ai)
