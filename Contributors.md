@@ -147,6 +147,7 @@ SILVIO
 - [Adarsh](https://github.com/itsrajadarsh)
 advait
 Kaushlendra
+- Ethan
 - [ELias986]
 -[zinwai](https://github.com/zinwai-dawei)
 - [Himanshi](https://github.com/himanshi-0070)
@@ -1565,4 +1566,5 @@ Kaushlendra
 - Jose-Renny
 - [proudsea1503](https://github.com/proudsea1503-ops)
 - Siddharth Mishra 
+
 
