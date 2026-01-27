@@ -3,7 +3,7 @@
 - Sanjay Kumar (https://github.com/sunny0205)
 # Contributors
 - [Sagar Maurya](https://github.com/SagarXCode)
-[Diya](https://github.com/niat-web)
+[Diya Gandotra](https://github.com/niat-web)
  [Nina Auld](https://github.com/auldn)
 [Aadi Jain](https://github.com/jainaadi098)
 [Aditya Kashid](https://github.com/Adityak0309)
