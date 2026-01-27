@@ -5,6 +5,8 @@
 [Aadi Jain](https://github.com/jainaadi098)
 [naheel](https://github.com/naheel0)
 - [Dev Goel](https://github.com/404Dev-notFound)
+- [Tasos](https://github.com/apsom1)
+
 - [liplip](https://github.com/liplip358)
 - [mewbemonk] (https://github.com/mewbemonk)
 - [Talaptan Alikhan](https://github.com/alihnwx)
