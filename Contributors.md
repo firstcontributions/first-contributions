@@ -26,6 +26,7 @@
 - [Mohit rathi](https://github.com/MohitRathi14)
 - [Saron Pal](https://github.com/Saronpal)
 - [Ankush Singh](https://github.com/whyankush07)
+- [Sully](https://github.com/iamsully)
 - [M. Valentino](https://github.com/MarinoValentino)
 - [Nagaraj](https://github.com/Nagaraj335)
 - [N1les](https://github.com/n1lesoff)
