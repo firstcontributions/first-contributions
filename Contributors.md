@@ -94,6 +94,7 @@ Amir Osman
 - [meng ying](https://github.com/mengy012)
 - [Joshna Jojo](https://github.com/joshnajojo12)
 - [Abhishek Patel](https://github.com/abhishek0112cs221008)
+- [Umed Kumar](https://github.com/UmedKumar)
 - [Juhi Kumari](https://github.com/JJuhi)
 - [Zander Gouws](https://github.com/MyFokFrikkie)
 - [Xiru Wang](https://github.com/SheEagle)
