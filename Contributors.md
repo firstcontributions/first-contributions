@@ -3,6 +3,7 @@
 - Sanjay Kumar (https://github.com/sunny0205)
 # Contributors
 - [Sagar Maurya](https://github.com/SagarXCode)
+- - [Sameer Mandve](https://github.com/sameermandve)
 [Diya](https://github.com/niat-web)
  [Nina Auld](https://github.com/auldn)
  [Adarsh Malviya](https://github.com/adarsh-malviya06)
