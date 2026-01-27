@@ -149,6 +149,7 @@ Kaushlendra
 - [Arpit]
 - Senilka
 -Abdisalam
+-[Atharv Mohite](https://github.com/atharv96k)
 - [TheKerbonaut](https://github.com/thekerbonaut)
 - [Archit Ojha](https://github.com/Archit1606)
 - [vivi214](https://github.com/vivi214)
