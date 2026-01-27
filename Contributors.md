@@ -65,6 +65,7 @@
 - [Akshat Trivedi] (https://github.com/akshat1602)
 - [Sanskar Agarwal](https://github.com/sanskaragarwal001)
 - [Pranjali Goyal] (https://github.com/pranjaligoyal31)
+- [Prashant Chauhan] (https://github.com/prashantchauhan-12)
 - [Shubham Sihasane] (https://github.com/shubham-sihasane) Founder at [https://happywalaengineer.com/]
 - [Abhishek Rana](https://github.com/ranaabhishek0702-dotcom)
 Amir Osman
@@ -1546,3 +1547,4 @@ Kaushlendra
 - [Abhishek Yadav](https://github.com/abhiyadav-dev)
 - Jose-Renny
 - [proudsea1503](https://github.com/proudsea1503-ops)
+
