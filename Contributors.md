@@ -432,6 +432,7 @@ Kaushlendra
 - [Coaxus-ux](https://github.com/Coaxus-ux)
 - [Sleeping Cyber]
 - [ColorCode](https://github.com/benjaAguilar)
+- [Aman Sami](https://github.com/amanSami-0)
 - [Conor James](https://github.com/ConorsGitHub)
 - [CoventinaLachesis](github.com/CoventinaLachesis)
 - [Crisandresro012](https://github.com/Cristhian012)
@@ -1375,6 +1376,7 @@ Kaushlendra
 - [terror-akshat](https://github.com/terror-akshat)
 - [That1LinuxGuy](https://github.com/That1LinuxGuy)
 - [tka](https://github.com/theinkhaaung007)
+
 - [tmmiizzuu](https://github.com/tmmiizzuu)
 - [tr0ublekat](https://github.com/tr0ublekat)
 - [traf nosleep](https://github.com/ayohsan)
