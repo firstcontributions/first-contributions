@@ -2,6 +2,7 @@
 - Tarun S. (https://github.com/Tarun-246)
 - Sanjay Kumar (https://github.com/sunny0205)
 # Contributors
+- [Sabyasachi Ghosh](https://github.com/sabyasachi008)
 - - [Nikhil Dubey](https://github.com/Nikonus)
 -[Sarthak Chavan](https://github.com/sarthak11234)
 - [Sagar Maurya](https://github.com/SagarXCode)
