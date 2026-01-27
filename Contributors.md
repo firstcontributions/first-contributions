@@ -147,6 +147,7 @@ Kaushlendra
 - [ELias986]
 -[zinwai](https://github.com/zinwai-dawei)
 - [Himanshi](https://github.com/himanshi-0070)
+- [Vuk Topalovic](https://github.com/vukkt)
 - [Sandesh](https://github.com/Sandesh13fr) #Links to Sandesh's Github
 - [Hitesh Bhat](https://github.com/Bhat31/)
 - [Akshara](https://github.com/aksharapandey)
