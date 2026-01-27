@@ -21,6 +21,7 @@
 - [Shivans Gupta](https://github.com/ShivansGupta25)
 - [Subhajit Sarkar](https://github.com/Subhajit281)
 - [Richard Ochola](https://github.com/ochola-rich)
+- [Rubeena A](https://github.com/rubeenaa)
 - [mewbemonk] (https://github.com/mewbemonk)
 - [Talaptan Alikhan](https://github.com/alihnwx)
 - [Manan Vaghasiya](https://github.com/manan-vaghasiya7)
