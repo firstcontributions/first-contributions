@@ -3,6 +3,7 @@
 - Sanjay Kumar (https://github.com/sunny0205)
 # Contributors
 - - [Nikhil Dubey](https://github.com/Nikonus)
+-[Sarthak Chavan](https://github.com/sarthak11234)
 - [Sagar Maurya](https://github.com/SagarXCode)
 - - [Sameer Mandve](https://github.com/sameermandve)
 [Diya](https://github.com/niat-web)
