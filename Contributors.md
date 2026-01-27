@@ -17,6 +17,7 @@
 - [Tanmai Thakre](https://github.com/Tanmai-Thakre)
 - [Shivans Gupta](https://github.com/ShivansGupta25)
 - [Subhajit Sarkar](https://github.com/Subhajit281)
+- [Richard Ochola](https://github.com/ochola-rich)
 - [mewbemonk] (https://github.com/mewbemonk)
 - [Talaptan Alikhan](https://github.com/alihnwx)
 - [Manan Vaghasiya](https://github.com/manan-vaghasiya7)
