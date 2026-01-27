@@ -2,6 +2,7 @@
 - Tarun S. (https://github.com/Tarun-246)
 - Sanjay Kumar (https://github.com/sunny0205)
 # Contributors
+- [Sagar Maurya](https://github.com/SagarXCode)
 [Diya](https://github.com/niat-web)
  [Nina Auld](https://github.com/auldn)
 [Aadi Jain](https://github.com/jainaadi098)
