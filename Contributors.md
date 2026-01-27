@@ -79,6 +79,7 @@ Amir Osman
 - [Abhishek Patel](https://github.com/abhishek0112cs221008)
 - [Juhi Kumari](https://github.com/JJuhi)
 - [Zander Gouws](https://github.com/MyFokFrikkie)
+- [Xiru Wang](https://github.com/SheEagle)
 - [Isha Singh](https://github.com/singhisha40)
   [Zarfishan Ali](https://github.com/zarfishan20)
 - [Cheril Gracenciya](https://github.com/cherry16grace)
