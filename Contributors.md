@@ -1403,7 +1403,6 @@ Kaushlendra
 - [Archana Gadimundati](https://github.com/ArchanaGadimundati)
 - [OsamaShabih](https://github.com/osamashabih6960)
 - - [Jayakumar Codes](https://github.com/jayakumarcodes)
-
 - - Monika [https://github.com/Monika-18777]
 - [julianmetropolis](https://github.com/julianmetropolis)
 - [Steve] (https://github.com/mastinstep)
@@ -1459,8 +1458,6 @@ Kaushlendra
 - [VijayVenkatraman](https://github.com/vijayomatic2-ops)
 - [jennifer j](https://github.com/jenniferjayaraj19-ops)
 - [Harinee12](https://github.com/Harinee12)
-
-
 - [Kamalakannan Srinivasan](https://github.com/kamalbalaji83)
 - [arthisathish](https://github.com/Arthi-asd/)
 - [Vishwaa N](https://github.com/Vishwaa-N)
@@ -1542,3 +1539,4 @@ Kaushlendra
 - [Abhishek Yadav](https://github.com/abhiyadav-dev)
 - Jose-Renny
 - [proudsea1503](https://github.com/proudsea1503-ops)
+- <a href="https://github.com/krnl0xsns1nk" style="color: #f97316; text-decoration: #f97316">krnl0xsns1nk</a>
