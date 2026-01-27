@@ -41,6 +41,7 @@
 - [Ankush Singh](https://github.com/whyankush07)
 - [Sully](https://github.com/iamsully)
 - [M. Valentino](https://github.com/MarinoValentino)
+- [Mayur H. Marvaniya](https://github.com/Mayur6720)
 - [Nagaraj](https://github.com/Nagaraj335)
 - [N1les](https://github.com/n1lesoff)
 - [Kulasekara02](https://github.com/kulasekara02)
