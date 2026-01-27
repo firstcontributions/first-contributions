@@ -5,6 +5,7 @@
 - [Sagar Maurya](https://github.com/SagarXCode)
 - - [Sameer Mandve](https://github.com/sameermandve)
 [Diya](https://github.com/niat-web)
+- [Anushtha Mishra](https://github.com/Anushtha-Mishra)
  [Nina Auld](https://github.com/auldn)
  [Adarsh Malviya](https://github.com/adarsh-malviya06)
 [Aadi Jain](https://github.com/jainaadi098)
