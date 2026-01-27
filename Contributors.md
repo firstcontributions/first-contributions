@@ -8,6 +8,7 @@
  [Adarsh Malviya](https://github.com/adarsh-malviya06)
 [Aadi Jain](https://github.com/jainaadi098)
 [Aditya Kashid](https://github.com/Adityak0309)
+- Nadiya km (https://github.com/nadiya-km)
 - [Mohd Zamaan Akhtar] (https://github.com/zamaan-ai)
 - [Gerald Jepedro Sitorus](https://github.com/g3raldatsc)
 - [Sahil Gupta](https://github.com/sahilgupta088)
