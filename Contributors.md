@@ -946,6 +946,7 @@ Kaushlendra
 - [Rein Ding](https://github.com/ReinDing)
 - [Reynhard](https://github.com/reybui)
 - [Rhesa Austen](https://github.com/Austenrhesa)
+- [Ricardo Pinto](https://github.com/ricardobigote)
 - [Riddhima Biswas](https://github.com/RiddhimaBiswas)
 - [Rifaldo](https://github.com/Rifaldo-dev)
 - [Rishabh](https://github.com/rishabh8870)
