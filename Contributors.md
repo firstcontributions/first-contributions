@@ -6,6 +6,7 @@
 [Aadi Jain](https://github.com/jainaadi098)
 [Aditya Kashid](https://github.com/Adityak0309)
 - [Mohd Zamaan Akhtar] (https://github.com/zamaan-ai)
+- [Gerald Jepedro Sitorus](https://github.com/g3raldatsc)
 - [naheel](https://github.com/naheel0)
 - [Dev Goel](https://github.com/404Dev-notFound)
 - [liplip](https://github.com/liplip358)
