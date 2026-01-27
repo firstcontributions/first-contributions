@@ -1145,6 +1145,7 @@ Kaushlendra
 - [Utkarsh Doras](https://github.com/UtkarshKD)
 - [1828](https://github.com/18-28)
 - [V K Suvetha](https://github.com/vksuvetha)
+- [Vaibhav Pal](https://github.com/vaibhavpal7549)
 - [Vaibhav Bakliwal](https://github.com/bakliwalvaibhav1)
 - [Vaibhav Dhariwal](https://github.com/VaibhavDhariwal8)
 - [Vaibhav Kemani](https://github.com/VKpahadi)
