@@ -213,6 +213,7 @@ Kaushlendra
 - [Archan Sureja](https://github.com/archan-sureja)
 - [SImarjeet Singh Johar](https://github.comSimarjeeSinghJohar)
 - [mreddieedarh](https://github.com/mreddieedarh)
+- [Juan Botha](https://github.com/jbotha-sketch)
 - [sai krupali konda](https://github.com/saikrupalikonda)
 - [Abusaeed Shuvo](https://github.com/abusaeed-shuvo)
 - [Adam Hicks](https://github.com/adamhicksiris)
