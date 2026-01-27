@@ -463,6 +463,7 @@ Kaushlendra
 - [Youssef Hamdy](https://github.com/Empty002)
 - [Dev Gaonkar](https://github.com/DevGaonkar)
 - [Dev Goyal](https://github.com/DevGoyal9238)
+- [daniil-gi](https://github.com/daniil-gi)
 - [Devang Thaker](https://github.com/devang1010)
 - [Devashish Gupta](https://github.com/sudo-verse)
 - [Devi Patil](https://github.com/Devipatil)
