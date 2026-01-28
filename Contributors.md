@@ -213,6 +213,7 @@ Kaushlendra
 - [Abdelwakil](https://github.com/fondbcn)
 - [Abdessamad-Mechouahi](https://github.com/abdessamad-26)
 - [Abdoulaye](https://github.com/elhadjdiab)
+- [Dhatri]
 - [Harsh-Langalia](https://github.com/harshlangalia007)
 [Kunzhi Peng](https://github.com/kungod666)
 - [Abhas Gaur](https://github.com/Abhas009)
