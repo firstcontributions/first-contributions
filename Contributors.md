@@ -3,7 +3,8 @@ n- Sankalp Kumar Singh
 - Sanjay Kumar (https://github.com/sunny0205)
 # Contributors
 - Lynn
--[Paras Parte](https://github.com/parasparte12)
+- [Adnan Aftab](https://github.com/AdnanAftab1/)
+- [Paras Parte](https://github.com/parasparte12)
 - [Sharyu Patil](http://github.com/Sharyupatil01)
 - [Abhishek bhatt](https://github.com/abhirbhatt)
 - [Prakhar Tripathi](https://github.com/prakhart07)
