@@ -3,7 +3,7 @@
 - [吴博](https://github.com/JasonWuInBJ): 一起搞AI 
 - [BOUKEF Mohamed Lamine](https://github.com/Boukef): If you’re reading this, you matter. Have a great day!
 rodrick
-- [Mohammed Anas](https://github.com/Anas-Blue): Finally!!
+- [Mohammed Anas](https://github.com/Anas-Blue): Finally!!!
 - [Jyoti Singh](https://github.com/Jyoti-Singh15): Add Jyoti to Contributor list!
 - Rishi
 - [Bhavishya Jain](https://github.com/Bhavishya41): ahh shit, here we go again !!
