@@ -1,9 +1,14 @@
-- Sankalp Kumar Singh
+n- Sankalp Kumar Singh
 - Tarun S. (https://github.com/Tarun-246)
 - Sanjay Kumar (https://github.com/sunny0205)
 # Contributors
 - Lynn
+-[Paras Parte](https://github.com/parasparte12)
+- [Sharyu Patil](http://github.com/Sharyupatil01)
+- [Abhishek bhatt](https://github.com/abhirbhatt)
 - [Prakhar Tripathi](https://github.com/prakhart07)
+- [Ajinkya Awachar](https://github.com/ajju-09)
+- [Bethu Sathwika](https://github.com/sathwikabethu)
 - [Ashzad Kamal](https://github.com/ashzad123)
 - [Ashmi A Jha](https://github.com/ashmi8)
 - [Pratham Debnath](https://github.com/isthatpratham)
@@ -48,6 +53,7 @@
 - [Saron Pal](https://github.com/Saronpal)
 - [Ankush Singh](https://github.com/whyankush07)
 - [Sully](https://github.com/iamsully)
+- [AakibP](https://github.com/aakibmatin)
 - [M. Valentino](https://github.com/MarinoValentino)
 - [Mayur H. Marvaniya](https://github.com/Mayur6720)
 - [Nagaraj](https://github.com/Nagaraj335)
@@ -110,6 +116,7 @@ Amir Osman
 - [Cheril Gracenciya](https://github.com/cherry16grace)
 - [Abdul Qadeer Shah](https://github.com/shahSpider)
 sathish
+- [Karthik Reddy](https://github.com/KarthikReddy1999)
 - [Lakshmipriya Sivashanmugam](https://github.com/Lakssiva)
 - [Tushar Vimalbhai Patel](https://github.com/tushar-patel28)
 - [Faique](https://github.com/FaiqueIbrahimi)
@@ -269,6 +276,7 @@ Kaushlendra
 - [Aiman](https://github.com/PX201)
 - [piyush](https://github.com/Piyushkraj0408)
 - [Garvit Dayal] (https://github.com/garvitdayal28)
+- [Namani Sai Charan] (https://github.com/datapath07)
 - [Takis Patatakis] (https://github.com/niou-dev)
 - [Aissatou Mbaye](https://github.com/AissatouMbaye19)
 - [Akash Dhamane](https://github.com/explore)
@@ -533,6 +541,7 @@ Kaushlendra
 - [Emmanuel Zelaya-Armenta](https://github.com/Emmanuel-ZA)
 - [Emrah Isović](https://github.com/EmrahIso)
 - [Enstant](https://github.com/Enstant)
+- [Enzo Wong](https://github.com/ExCatalyst)
 - [Eric Ijeoma](https://github.com/ericijeoma)
 - [Erik-Heinzle00](https://github.com/Erik-Heinzle00)
 - [Esraa Kandil](https://github.com/esraa-k)
@@ -774,6 +783,7 @@ Kaushlendra
 - [Marco Biaggi](https://github.com/mafpbiaggi)
 - [Marco Vargas](https://github.com/Marco180800)
 - [Maria Mitova] (https://github.com/mariami57)
+- [Mariam Wambui](https://github.com/MariamW20)
 - [Mariana Rutter](https://github.com/marianaluu)
 - [Mario Sanchez](https://github.com/mcn22)
 - [Vivek Dubba](https://github.com/vivekd2412)
@@ -1500,6 +1510,7 @@ Kaushlendra
 - [Jason Wang](https://github.com/Jiachenw399)
 - [Kamalakannan Srinivasan](https://github.com/kamalbalaji83)
 - [arthisathish](https://github.com/Arthi-asd/)
+- [Devraj](https://github.com/devrajbando)
 - [Vishwaa N](https://github.com/Vishwaa-N)
 - [Mihai](https://github.com/Mihaai999)
 - [Prerit R Deyagond](https://github.com/Preritrd5/)
@@ -1591,3 +1602,4 @@ Kaushlendra
 - [Barath B](https://github.com/barathb2007)
 - [Gopinath S](https://github.com/Gopinath-2787)
 - [Vijay](https://github.com/vijaygithub25)
+- [prem](https://github.com/premcodehub)
