@@ -32,7 +32,10 @@
 - [mewbemonk] (https://github.com/mewbemonk)
 - [Talaptan Alikhan](https://github.com/alihnwx)
 - [Manan Vaghasiya](https://github.com/manan-vaghasiya7)
-  [Tanveer Pasha S](https://github.com/TanveerpashaS)
+
+- [Tanveer Pasha S](https://github.com/TanveerpashaS)
+
+
 - [Saqlain Sultan](https://github.com/saqlain991)
 - [Gaurang Dhanuka](https://github.com/Gaurang-101)
 - [EdVKu](https://github.com/EdVKu)
