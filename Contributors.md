@@ -116,6 +116,7 @@ Amir Osman
 - [Cheril Gracenciya](https://github.com/cherry16grace)
 - [Abdul Qadeer Shah](https://github.com/shahSpider)
 sathish
+- [Karthik Reddy](https://github.com/KarthikReddy1999)
 - [Lakshmipriya Sivashanmugam](https://github.com/Lakssiva)
 - [Tushar Vimalbhai Patel](https://github.com/tushar-patel28)
 - [Faique](https://github.com/FaiqueIbrahimi)
