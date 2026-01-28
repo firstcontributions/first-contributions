@@ -88,7 +88,7 @@
 <kbd>[<img title="Mongolian" alt="Mongolian" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/mn.svg" width="22">](docs/translations/README.mn.md)</kbd>
 <kbd>[<img title="Tounsi" alt="Tounsi" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/tn.svg" width="22">](docs/translations/README.tn.md)</kbd>
 <kbd>[<img title="Lingala" alt="Lingala" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/cd.svg" width="22">](docs/translations/README.ln.md)</kbd>
-
+<kbd>[<img title="Lëtzebuerg" alt="Lëtzebuerg" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/lu.svg" width="22">](docs/translations/README.lb.md)</kbd>
 # First Contributions
 
 This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
