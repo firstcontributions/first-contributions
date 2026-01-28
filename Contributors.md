@@ -6,6 +6,7 @@ n- Sankalp Kumar Singh
 - [Sharyu Patil](http://github.com/Sharyupatil01)
 - [Abhishek bhatt](https://github.com/abhirbhatt)
 - [Prakhar Tripathi](https://github.com/prakhart07)
+- [Ajinkya Awachar](https://github.com/ajju-09)
 - [Ashzad Kamal](https://github.com/ashzad123)
 - [Ashmi A Jha](https://github.com/ashmi8)
 - [Pratham Debnath](https://github.com/isthatpratham)
