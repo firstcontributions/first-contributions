@@ -29,7 +29,7 @@ n- Sankalp Kumar Singh
 - [Sahil Gupta](https://github.com/sahilgupta088)
 - [naheel](https://github.com/naheel0)
 - [Dev Goel](https://github.com/404Dev-notFound)
-
+- [Axel Lindahl] (https://github.com/smee-ux)
 - [liplip](https://github.com/liplip358)
 - [adriancll](https://github.com/adriancll)
 - [Tanmai Thakre](https://github.com/Tanmai-Thakre)
