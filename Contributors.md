@@ -109,6 +109,7 @@ Amir Osman
 - [Zander Gouws](https://github.com/MyFokFrikkie)
 - [Xiru Wang](https://github.com/SheEagle)
 - [Isha Singh](https://github.com/singhisha40)
+- [Namani Sai Charan] (https://github.com/datapath07)
   [Zarfishan Ali](https://github.com/zarfishan20)
 - [Cheril Gracenciya](https://github.com/cherry16grace)
 - [Abdul Qadeer Shah](https://github.com/shahSpider)
