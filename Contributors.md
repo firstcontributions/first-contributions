@@ -1575,3 +1575,4 @@ Kaushlendra
 - [AJ Gyro](https://github.com/AJGyro)
 - [Pavel Demyanov](https://github.com/stokato)
 - [UsrRed](https://github.com/UsrRed)
+- [Lucas Verissimo](https://github.com/LucasVer17)
