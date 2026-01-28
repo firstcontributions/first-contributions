@@ -8,6 +8,7 @@
 - - [Nikhil Dubey](https://github.com/Nikonus)
 -[Sarthak Chavan](https://github.com/sarthak11234)
 - [Sagar Maurya](https://github.com/SagarXCode)
+--[Diksha] (https://github.com/diksha-jindal) 
 - - [Sameer Mandve](https://github.com/sameermandve)
 [Diya](https://github.com/niat-web)
 - [Anushtha Mishra](https://github.com/Anushtha-Mishra)
