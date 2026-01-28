@@ -538,6 +538,7 @@ Kaushlendra
 - [Emmanuel Zelaya-Armenta](https://github.com/Emmanuel-ZA)
 - [Emrah Isović](https://github.com/EmrahIso)
 - [Enstant](https://github.com/Enstant)
+- [Enzo Wong](https://github.com/ExCatalyst)
 - [Eric Ijeoma](https://github.com/ericijeoma)
 - [Erik-Heinzle00](https://github.com/Erik-Heinzle00)
 - [Esraa Kandil](https://github.com/esraa-k)
