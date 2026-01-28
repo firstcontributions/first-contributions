@@ -64,7 +64,15 @@ Give Back: Once you’re comfortable, help others by reviewing PRs, answering qu
 
 *   Imposter Syndrome: Many beginners feel they’re not skilled enough to contribute. Remember, everyone starts somewhere, and even small contributions matter.
 *   Finding Time: Start with small, manageable tasks. Even 30 minutes a week can make a difference.
-*   Navigating Large Codebases: Break down the learning process: - Start by reading the documentation thoroughly - Focus on understanding one component at a time - Use debugging tools to trace code execution - Don't hesitate to ask for clarification
+*   Navigating Large Codebases: Break down the learning process:
+
+    - Start by reading the documentation thoroughly
+
+    - Focus on understanding one component at a time
+
+    - Use debugging tools to trace code execution
+
+    - Don't hesitate to ask for clarification
 
 ## Conclusion
 

@@ -12,7 +12,7 @@ Rakstu lasīšana un pamācību skatīšanās var palīdzēt, tomēr nekas nav l
 #### *Ja tu nejūties ērti ar komandrindu, [izmanto GUI rīku pamācības.]( #pamācības-citiem-rīkiem )*
 
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="sadaliet šo repozitoriju" />
 
 Ja tavā datorā nav git, [uzinstalē to]( https://help.github.com/articles/set-up-git/).
 
@@ -23,7 +23,7 @@ Tādējādi tavā profilā tiks izveidota šī repozitorija kopija.
 
 ## Klonē repozitoriju
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="klonējiet šo repozitoriju" />
 
 Tagad klonē nokopēto repozitoriju savā datorā. Ej uz savu GitHub profilu, atver nokopēto repozitoriju, nospied *clone* pogu un tad nospied uz *copy to clipboard* ikonas.
 
@@ -34,7 +34,7 @@ git clone "tikko nokopētā saite"
 ```
 kur "tikko nokopētā saite" (bez pēdiņām) ir url uz šo repozitoriju (tavs projekta atzarojums). Apskaties iepriekšējos soļos, kā dabūt url.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="kopējiet URL starpliktuvē" />
 
 Piemēram:
 ```bash
@@ -94,11 +94,11 @@ aizvietojot `<ievieto-zara-nosaukumu>` ar zara, kuru tu iepriekš izveidoji, nos
 
 Ja tu dosies uz savu GitHub repozitoriju, tu redzēsi `Compare & pull request` pogu. Nospied to.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="izveidojiet pull request" />
 
 Tagad iesniedz pievienotās izmaiņas.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="iesniedziet pull request" />
 
 Jau pavisam drīz es pievienošu visas tavas izmaiņas šī projekta galvenajam (master) zaram. Tu saņemsi paziņojumu e-pastā, tiklīdz izmaiņas būs pievienotas.
 
