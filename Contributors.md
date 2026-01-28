@@ -34,6 +34,7 @@ n- Sankalp Kumar Singh
 - [Dev Goel](https://github.com/404Dev-notFound)
 
 - [liplip](https://github.com/liplip358)
+- [Dorcas Adebayor](https://github.com/dokipure)
 - [adriancll](https://github.com/adriancll)
 - [Tanmai Thakre](https://github.com/Tanmai-Thakre)
 - [Shivans Gupta](https://github.com/ShivansGupta25)
