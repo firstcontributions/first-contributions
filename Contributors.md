@@ -5,6 +5,7 @@
 - Lynn
 - [Prakhar Tripathi](https://github.com/prakhart07)
 - [Ashzad Kamal](https://github.com/ashzad123)
+- [Ashmi A Jha](https://github.com/ashmi8)
 - [Pratham Debnath](https://github.com/isthatpratham)
 - [Sabyasachi Ghosh](https://github.com/sabyasachi008)
 - - [Nikhil Dubey](https://github.com/Nikonus)
