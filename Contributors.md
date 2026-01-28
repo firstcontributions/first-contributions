@@ -136,6 +136,8 @@ sathish
 - [Pawan Bhowate](https://github.com/PAWANBHOWATE04)
 - [Ayoub Aguezar](https://github.com/Ayoub-glitsh)
 - [Das1Zhang](https://github.com/Das1Zhang)
+- [midikaif](https://github.com/midikaif)
+
 - [guerrasz](https://github.com/guerrasz)
 - [Rishita Sinha](https://github.com/rishita0706)
 # guilherme gomes
