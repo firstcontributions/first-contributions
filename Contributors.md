@@ -2,6 +2,7 @@
 - Tarun S. (https://github.com/Tarun-246)
 - Sanjay Kumar (https://github.com/sunny0205)
 # Contributors
+- [Prakhar Tripathi](https://github.com/prakhart07)
 - [Pratham Debnath](https://github.com/isthatpratham)
 - [Sabyasachi Ghosh](https://github.com/sabyasachi008)
 - - [Nikhil Dubey](https://github.com/Nikonus)
