@@ -1,8 +1,9 @@
-- Sankalp Kumar Singh
+n- Sankalp Kumar Singh
 - Tarun S. (https://github.com/Tarun-246)
 - Sanjay Kumar (https://github.com/sunny0205)
 # Contributors
 - Lynn
+- [Sharyu Patil](http://github.com/Sharyupatil01)
 - [Abhishek bhatt](https://github.com/abhirbhatt)
 - [Prakhar Tripathi](https://github.com/prakhart07)
 - [Ashzad Kamal](https://github.com/ashzad123)
