@@ -3,8 +3,10 @@ n- Sankalp Kumar Singh
 - Sanjay Kumar (https://github.com/sunny0205)
 # Contributors
 - Lynn
+- [Choi Doyoun](https://github.com/justjs4evr)
 - [Rajdip](https://github.com/Rajdip1)
 - [Tinku Shekhar Das](https://github.com/codeByTinku)
+- [Rusil Koirala](https://github.com/rusilkoirala)
 - [Jeremiah Isaacson](https://github.com/jeremiahjordanisaacson)
 - [Adnan Aftab](https://github.com/AdnanAftab1/)
 - [Paras Parte](https://github.com/parasparte12)
@@ -191,6 +193,7 @@ Kaushlendra
 - [Arpit]
 - Senilka
 -Abdisalam
+-Devesh
 -[Atharv Mohite](https://github.com/atharv96k)
 - [TheKerbonaut](https://github.com/thekerbonaut)
 - [Archit Ojha](https://github.com/Archit1606)
@@ -1062,6 +1065,7 @@ Kaushlendra
 - [Saurabh Gupta](https://github.com/100rabhSG)
 - [Savindya Thathsarani](https://github.com/Savindya322)
 - [Sayantika Mallick](https://github.com/sayantikamallick1212-jpg)
+- [Rachel Hart](https://github.com/rachelmayhart/)
 - [Schaaz-Ahmad-Kazmi](https://github.com/Schaaz)
 - [Semen Byndiu](https://github.com/bynd1u)
 - [Seul](https://github.com/seulahn)
@@ -1457,7 +1461,7 @@ Kaushlendra
 - [Archana Gadimundati](https://github.com/ArchanaGadimundati)
 - [OsamaShabih](https://github.com/osamashabih6960)
 - - [Jayakumar Codes](https://github.com/jayakumarcodes)
-
+- [Ariel Miele](https://github.com/arielmiele)
 - - Monika [https://github.com/Monika-18777]
 - [julianmetropolis](https://github.com/julianmetropolis)
 - [Steve] (https://github.com/mastinstep)
@@ -1595,6 +1599,7 @@ Kaushlendra
 - Kaaviyaa Shree S
 -promaxsys
 - [Tiancheng Xing](https://github.com/JackXing875)
+- [Tamal Majumdar](https://github.com/Tom-1508)
 - [Abhishek Yadav](https://github.com/abhiyadav-dev)
 - Jose-Renny
 - [proudsea1503](https://github.com/proudsea1503-ops)
@@ -1615,5 +1620,7 @@ Kaushlendra
 - [Falous-dev](https://github.com/Falous-dev)
 - [Pooja](https://github.com/poojasounder)
 - [Walusungu24](https://github.com/Walusungu24)
+- [Gokulram S](https://github.com/Gokulram7)
 - [Pablo Souza](https://github.com/pablohsouza09)
 -[Ayush Mehta](https://github.com/ayushmehta03)
+
