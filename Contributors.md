@@ -1461,6 +1461,7 @@ Kaushlendra
 - [yanissem2007-prog](https://github.com/yanissem2007-prog)
 - [yashpr349](https://github.com/yashpr349)
 - [zaka](https://github.com/oraichezakariyae)
+- [Amar Goyal](https://github.com/Amar-Goyal8)
 - [Tyler Ke](https://github.com/Tyler-Ke)
 - [lamKKe](https://github.com/lamKKe)
 - [zxc-lucky](https://github.com/zxc-lucky)
