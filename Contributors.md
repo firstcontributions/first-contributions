@@ -5,6 +5,7 @@
 - [Asad Munir](https://github.com/AsadUllah428)
 - Pranav Ghorpade (https://github.com/ghorpadeire)
 - Lynn
+- [Aniruddha Maurya](https://github.com/Aniruddha2701)
 - [Choi Doyoun](https://github.com/justjs4evr)
 - [Rajdip](https://github.com/Rajdip1)
 - [Tinku Shekhar Das](https://github.com/codeByTinku)
