@@ -1,4 +1,5 @@
 # Contributors
+- [Akesh](https://github.com/Akesh-28)
 - [Satyam Kumar Jha] (https://github.com/satyam536)
 - [Utkarsh Upreti] (https://www.github.com/K4rsh)
 - [Zaid Qtaish](https://github.com/ZaidQtaish)
@@ -1346,3 +1347,4 @@
 - [nemdull](https://github.com/nemdull)
 - [morgen-code](https://github.com/morgen-code)
 - [Ikshwak](https://github.com/KingReapermax)
+- [Akesh](https://github.com/Akesh-28)
