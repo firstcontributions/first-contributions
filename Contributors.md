@@ -1462,6 +1462,7 @@ Kaushlendra
 - [yashpr349](https://github.com/yashpr349)
 - [zaka](https://github.com/oraichezakariyae)
 - [Tyler Ke](https://github.com/Tyler-Ke)
+- [Amar Goyal](https://github.com/Amar-Goyal8)
 - [lamKKe](https://github.com/lamKKe)
 - [zxc-lucky](https://github.com/zxc-lucky)
 - [fishleaf](https://github.com/fishleaf)
