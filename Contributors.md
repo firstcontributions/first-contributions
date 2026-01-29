@@ -191,6 +191,7 @@ Kaushlendra
 - [Arpit]
 - Senilka
 -Abdisalam
+-Devesh
 -[Atharv Mohite](https://github.com/atharv96k)
 - [TheKerbonaut](https://github.com/thekerbonaut)
 - [Archit Ojha](https://github.com/Archit1606)
