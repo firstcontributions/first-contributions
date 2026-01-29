@@ -3,12 +3,15 @@ n- Sankalp Kumar Singh
 - Sanjay Kumar (https://github.com/sunny0205)
 # Contributors
 - Lynn
+- [Rajdip](https://github.com/Rajdip1)
+- [Tinku Shekhar Das](https://github.com/codeByTinku)
 - [Jeremiah Isaacson](https://github.com/jeremiahjordanisaacson)
 - [Adnan Aftab](https://github.com/AdnanAftab1/)
 - [Paras Parte](https://github.com/parasparte12)
 - [Sharyu Patil](http://github.com/Sharyupatil01)
 - [Abhishek bhatt](https://github.com/abhirbhatt)
 - [Prakhar Tripathi](https://github.com/prakhart07)
+- [Astik singh](https://github.com/Astikk)
 - [Ajinkya Awachar](https://github.com/ajju-09)
 - [Bethu Sathwika](https://github.com/sathwikabethu)
 - [Ashzad Kamal](https://github.com/ashzad123)
@@ -1612,4 +1615,5 @@ Kaushlendra
 - [Pooja](https://github.com/poojasounder)
 - [Walusungu24](https://github.com/Walusungu24)
 - [Gokulram S](https://github.com/Gokulram7)
-
+- [Pablo Souza](https://github.com/pablohsouza09)
+-  main
