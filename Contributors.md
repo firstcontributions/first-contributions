@@ -1649,5 +1649,6 @@ Kaushlendra
 -[Vyshnavi Chittireddy](https://github.com/CHITTIREDDY-VYSHNAVI)
 - Monika Moni - https://github.com/Monika-git1
 - [Ettore Ciolli](https://github.com/ettoreciolli1)
+- MajiWasHere
 - [Houcine Haddadi](https://github.com/Houcine0x7)
 
