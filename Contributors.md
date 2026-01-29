@@ -514,6 +514,7 @@ Kaushlendra
 - [Dhanush K](https://github.com/dhanushkrishna7)
 - [Dhiraj Kumar Gupta](https://github.com/dhirajkrgupta)
 - [DhritiTS](https://github.com/DhritiTS)
+- [Tangang Mc Bride](https://github.com/TangangMcBride)
 - [Dhruv Kalra](https://github.com/KalraDhruv)
 - [Dhwaj Gupta](https://github.com/DG15062002)
 - [Dhwanit Patel](https://github.com/dhwanit10)
