@@ -4,6 +4,7 @@
 # Contributors
 - [Asad Munir](https://github.com/AsadUllah428)
 - Pranav Ghorpade (https://github.com/ghorpadeire)
+- [Dhanshree Patangrao](https://github.com/Dhanshree019)
 - Lynn
 - Pabitra Maity (https://github.com/Codewithpabitra)
 - [Aniruddha Maurya](https://github.com/Aniruddha2701)
