@@ -3,6 +3,7 @@ n- Sankalp Kumar Singh
 - Sanjay Kumar (https://github.com/sunny0205)
 # Contributors
 - Lynn
+- [Tinku Shekhar Das](https://github.com/codeByTinku)
 - [Jeremiah Isaacson](https://github.com/jeremiahjordanisaacson)
 - [Adnan Aftab](https://github.com/AdnanAftab1/)
 - [Paras Parte](https://github.com/parasparte12)
