@@ -1645,4 +1645,5 @@ Kaushlendra
 - [ArunachalamAS](https://github.com/arunachalam2007)
 -[Vyshnavi Chittireddy](https://github.com/CHITTIREDDY-VYSHNAVI)
 - Monika Moni - https://github.com/Monika-git1
+- [Ettore Ciolli](https://github.com/ettoreciolli1)
 
