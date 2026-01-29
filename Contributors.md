@@ -42,6 +42,7 @@
 - KJayasree2025
 [Diya](https://github.com/niat-web)
 - [Anushtha Mishra](https://github.com/Anushtha-Mishra)
+- [Mridul Narain](https://github.com/narainmridul)
  [Nina Auld](https://github.com/auldn)
  [Adarsh Malviya](https://github.com/adarsh-malviya06)
 [Aadi Jain](https://github.com/jainaadi098)
