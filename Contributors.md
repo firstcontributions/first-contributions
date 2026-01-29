@@ -5,6 +5,7 @@ n- Sankalp Kumar Singh
 - Lynn
 - [Rajdip](https://github.com/Rajdip1)
 - [Tinku Shekhar Das](https://github.com/codeByTinku)
+- [Rusil Koirala](https://github.com/rusilkoirala)
 - [Jeremiah Isaacson](https://github.com/jeremiahjordanisaacson)
 - [Adnan Aftab](https://github.com/AdnanAftab1/)
 - [Paras Parte](https://github.com/parasparte12)
