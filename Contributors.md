@@ -15,6 +15,7 @@
 - [Adnan Aftab](https://github.com/AdnanAftab1/)
 - [Paras Parte](https://github.com/parasparte12)
 - [Sharyu Patil](http://github.com/Sharyupatil01)
+-[Bankole Theophilus](https://github.com/phynnoex)
 - [Abhishek bhatt](https://github.com/abhirbhatt)
 - [Prakhar Tripathi](https://github.com/prakhart07)
 - [Astik singh](https://github.com/Astikk)
