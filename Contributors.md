@@ -1599,6 +1599,7 @@ Kaushlendra
 - Kaaviyaa Shree S
 -promaxsys
 - [Tiancheng Xing](https://github.com/JackXing875)
+- [Tamal Majumdar](https://github.com/Tom-1508)
 - [Abhishek Yadav](https://github.com/abhiyadav-dev)
 - Jose-Renny
 - [proudsea1503](https://github.com/proudsea1503-ops)
