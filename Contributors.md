@@ -1357,6 +1357,7 @@ Kaushlendra
 - [kevinmj12](https://github.com/kevinmj12)
 - [killjoybr](https://github.com/killjoybr)
 - [korokua](https://github.com/therealryanhu)
+- [laura-beja](https://github.com/laura-beja)
 - [krd-knt](https://github.com/krd-knt)
 - [law880](https://github.com/law880)
 - [lecsim](https://github.com/lecsim)
