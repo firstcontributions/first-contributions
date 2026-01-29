@@ -1,4 +1,3 @@
--[Jeeva M](https://github.com/jeevamahadevan16-igtm)
 - Sankalp Kumar Singh
 - Tarun S. (https://github.com/Tarun-246)
 - Sanjay Kumar (https://github.com/sunny0205)
@@ -533,6 +532,7 @@ Kaushlendra
 - [Douae Bousnane](https://github.com/douaebousnane13-del)
 - [Duo](https://github.com/NamingRacksMyBrain)
 - [Durga Vara Praveen](https://github.com/durgavarapraveen)
+- [Jeeva m](https://github.com/jeevamahadevan16-igtm)
 - [Durjoy Kumar](https://github.com/DurjoyKumar177)
 - [Durva](https://github.com/durva7px)
 - [Dwij Patel](https://github.com/Prime2510)
