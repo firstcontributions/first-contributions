@@ -2,6 +2,7 @@ n- Sankalp Kumar Singh
 - Tarun S. (https://github.com/Tarun-246)
 - Sanjay Kumar (https://github.com/sunny0205)
 # Contributors
+- [Asad Munir](https://github.com/AsadMunir)
 - Lynn
 - [Choi Doyoun](https://github.com/justjs4evr)
 - [Rajdip](https://github.com/Rajdip1)
@@ -39,7 +40,6 @@ n- Sankalp Kumar Singh
 - [Sahil Gupta](https://github.com/sahilgupta088)
 - [naheel](https://github.com/naheel0)
 - [Dev Goel](https://github.com/404Dev-notFound)
-
 - [liplip](https://github.com/liplip358)
 - [Dorcas Adebayor](https://github.com/dokipure)
 - [adriancll](https://github.com/adriancll)
