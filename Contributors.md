@@ -1,6 +1,7 @@
-n- Sankalp Kumar Singh
+- Sankalp Kumar Singh
 - Tarun S. (https://github.com/Tarun-246)
 - Sanjay Kumar (https://github.com/sunny0205)
+
 # Contributors
 - [Asad Munir](https://github.com/AsadMunir)
 - Lynn
