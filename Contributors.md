@@ -34,6 +34,7 @@
 - [Sagar Maurya](https://github.com/SagarXCode)
 --[Diksha] (https://github.com/diksha-jindal) 
 - - [Sameer Mandve](https://github.com/sameermandve)
+- [charliegonzo](https://github.com/CharlieGonzo/first-contributions.git)
 - KJayasree2025
 [Diya](https://github.com/niat-web)
 - [Anushtha Mishra](https://github.com/Anushtha-Mishra)
