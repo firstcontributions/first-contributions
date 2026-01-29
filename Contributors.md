@@ -15,6 +15,7 @@ n- Sankalp Kumar Singh
 - [Ajinkya Awachar](https://github.com/ajju-09)
 - [Bethu Sathwika](https://github.com/sathwikabethu)
 - [Ashzad Kamal](https://github.com/ashzad123)
+- [Diya Saha](https://github.com/DiyadotSaha)
 - [Ashmi A Jha](https://github.com/ashmi8)
 - [Pratham Debnath](https://github.com/isthatpratham)
 - [Sabyasachi Ghosh](https://github.com/sabyasachi008)
@@ -1616,4 +1617,4 @@ Kaushlendra
 - [Walusungu24](https://github.com/Walusungu24)
 - [Gokulram S](https://github.com/Gokulram7)
 - [Pablo Souza](https://github.com/pablohsouza09)
--  main
+-[Ayush Mehta](https://github.com/ayushmehta03)
