@@ -1461,7 +1461,7 @@ Kaushlendra
 - [Archana Gadimundati](https://github.com/ArchanaGadimundati)
 - [OsamaShabih](https://github.com/osamashabih6960)
 - - [Jayakumar Codes](https://github.com/jayakumarcodes)
-
+- [Ariel Miele](https://github.com/arielmiele)
 - - Monika [https://github.com/Monika-18777]
 - [julianmetropolis](https://github.com/julianmetropolis)
 - [Steve] (https://github.com/mastinstep)
@@ -1623,3 +1623,4 @@ Kaushlendra
 - [Gokulram S](https://github.com/Gokulram7)
 - [Pablo Souza](https://github.com/pablohsouza09)
 -[Ayush Mehta](https://github.com/ayushmehta03)
+
