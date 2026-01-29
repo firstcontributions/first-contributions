@@ -149,6 +149,7 @@ sathish
 - [Das1Zhang](https://github.com/Das1Zhang)
 - [guerrasz](https://github.com/guerrasz)
 - [Rishita Sinha](https://github.com/rishita0706)
+- Koaniki
 # guilherme gomes
 - [Musawer Ahmad](https://github.com/musawerxd)
 - [Raunak katiyar github](https://github.com/raunak-bigdp)
