@@ -392,6 +392,7 @@ Kaushlendra
 - [Arumugam N](https://github.com/blackwolf2902)
 - [Aryalekshmi](https://github.com/narcissa2ar)
 - [Aryaja C](https://github.com/aryaja-c)
+- [Aryan Jaiswal](https://github.com/AryanJ6)
 - [Ash Ibarra](https://github.com/ashthewildfox)
 - [Ashen Umeda](https://github.com/ashenumeda)
 - [Lakshy Sharma](https://github.com/1lakshy)
