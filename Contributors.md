@@ -690,6 +690,7 @@ Kaushlendra
 - [Jose Rios](https://github.com/josel006)
 - [Jose Soto](https://github.com/jossotriv)
 - Oliver Wang
+- [Joseph Soper](https://github.com/thejollydev)
 - [Joseph Soper](https://github.com/thejollydev) 
 - [JosephAlexander](https://github.com/Josephalexander06)
 - [Josh Jordal](https://github.com/JJordal)
