@@ -266,6 +266,7 @@ Kaushlendra
 - [Abusaeed Shuvo](https://github.com/abusaeed-shuvo)
 - [Adam Hicks](https://github.com/adamhicksiris)
 - [Jun Egami](https://github.com/EGAMIJUN)
+- [Jesika J](https://github.com/JesikaJeyaraj)
 - [Adarsh84](https://github.com/adarshM84)
 - [Adhil Bathali](https://github.com/adhilbathali)
 - [Aditya Das](https://github.com/AdityaDas496)
