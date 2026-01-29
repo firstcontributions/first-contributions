@@ -570,6 +570,7 @@ Kaushlendra
 - [Esteban Cortés Mora](https://github.com/eacortesm)
 -[Esther D](https://github.com/Esthercodes643)
 - [Evan Rhea](https://github.com/MegaSF)
+- [Zammad Nasir](https://github.com/ZammadNasir)
 - [Everhart Zepyhr](https://github.com/EveryhartZephyr)
 - [Ezra K](https://github.com/EzraKL)
 - [Fangphire](https://github.com/fangphire)
