@@ -9,6 +9,7 @@ n- Sankalp Kumar Singh
 - [Sharyu Patil](http://github.com/Sharyupatil01)
 - [Abhishek bhatt](https://github.com/abhirbhatt)
 - [Prakhar Tripathi](https://github.com/prakhart07)
+- [Astik singh](https://github.com/Astikk)
 - [Ajinkya Awachar](https://github.com/ajju-09)
 - [Bethu Sathwika](https://github.com/sathwikabethu)
 - [Ashzad Kamal](https://github.com/ashzad123)
