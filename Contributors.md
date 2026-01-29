@@ -9,6 +9,7 @@
 - Pabitra Maity (https://github.com/Codewithpabitra)
 - [Aniruddha Maurya](https://github.com/Aniruddha2701)
 - [Choi Doyoun](https://github.com/justjs4evr)
+- [Vaibhaw Kumar Parashar](https://github.com/TheVaibhaw)
 - [Rajdip](https://github.com/Rajdip1)
 - [Tinku Shekhar Das](https://github.com/codeByTinku)
 - [Rusil Koirala](https://github.com/rusilkoirala)
