@@ -1063,6 +1063,7 @@ Kaushlendra
 - [Saurabh Gupta](https://github.com/100rabhSG)
 - [Savindya Thathsarani](https://github.com/Savindya322)
 - [Sayantika Mallick](https://github.com/sayantikamallick1212-jpg)
+- [Rachel Hart](https://github.com/rachelmayhart/)
 - [Schaaz-Ahmad-Kazmi](https://github.com/Schaaz)
 - [Semen Byndiu](https://github.com/bynd1u)
 - [Seul](https://github.com/seulahn)
