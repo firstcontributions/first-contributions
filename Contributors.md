@@ -1024,6 +1024,7 @@ Kaushlendra
 - [Rizvan](https://github.com/Rizvan337/)
 - [Riya Agrawal](https://github.com/riyaagrawal02)
 - [Robert Davis](https://github.com/robertdavis)
+- [Gabriel José](https://github.com/GabrielJnn)
 - [Robiya](https://github.com/rhakim24)
 - [Rodrigo Sanchez](https://github.com/RodrigoSanchezDev)
 - [Rohan Linga](http://github.com/R0hanL1nga)
