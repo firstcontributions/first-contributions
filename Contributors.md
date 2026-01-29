@@ -1625,4 +1625,5 @@ Kaushlendra
 -[Ayush Mehta](https://github.com/ayushmehta03)
 - [Aayush Ranjan](https://github.com/Aayush-Ranjan-26)
 - [Gokulram](https://github.com/Gokulram7)
+- [Jagamiya C](https://github.com/CJagamiya)
 
