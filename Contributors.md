@@ -689,7 +689,8 @@ Kaushlendra
 - [Jose Nino Muriel](ttps://github.com/josenino95)
 - [Jose Rios](https://github.com/josel006)
 - [Jose Soto](https://github.com/jossotriv)
-- Oliver Wang 
+- Oliver Wang
+- [Joseph Soper](https://github.com/thejollydev) 
 - [JosephAlexander](https://github.com/Josephalexander06)
 - [Josh Jordal](https://github.com/JJordal)
 - [Joshna Jojo](https://github.com/joshnajojo12)
@@ -1611,3 +1612,4 @@ Kaushlendra
 - [Falous-dev](https://github.com/Falous-dev)
 - [Pooja](https://github.com/poojasounder)
 - [Walusungu24](https://github.com/Walusungu24)
+- [
