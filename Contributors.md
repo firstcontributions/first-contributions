@@ -40,9 +40,9 @@
 [Diya](https://github.com/niat-web)
 - [Anushtha Mishra](https://github.com/Anushtha-Mishra)
  [Nina Auld](https://github.com/auldn)
- [Adarsh Malviya](https://github.com/adarsh-malviya06)
-[Aadi Jain](https://github.com/jainaadi098)
-[Aditya Kashid](https://github.com/Adityak0309)
+  [Adarsh Malviya](https://github.com/adarsh-malviya06)
+ [Aadi Jain](https://github.com/jainaadi098)
+ [Aditya Kashid](https://github.com/Adityak0309)
 - Nadiya km (https://github.com/nadiya-km)
 - [Mohd Zamaan Akhtar] (https://github.com/zamaan-ai)
 - [Gerald Jepedro Sitorus](https://github.com/g3raldatsc)
@@ -1660,4 +1660,5 @@ Kaushlendra
 - MajiWasHere
 - [Houcine Haddadi](https://github.com/Houcine0x7)
 - [Pulock Kumar](https://github.com/branotix)
+- C1Y308
 
