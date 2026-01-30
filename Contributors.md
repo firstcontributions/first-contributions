@@ -1665,4 +1665,4 @@ Kaushlendra
 - MajiWasHere
 - [Houcine Haddadi](https://github.com/Houcine0x7)
 - [Pulock Kumar](https://github.com/branotix)
-
+- [Tanishq Malviya](https://github.com/Tanishq2920)
