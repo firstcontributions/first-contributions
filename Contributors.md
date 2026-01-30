@@ -14,6 +14,7 @@
 - Lynn
 - Pabitra Maity (https://github.com/Codewithpabitra)
 - [Niraj Mahajan](https://github.com/niraj-mx07)
+- [jonadev19](https://github.com/jonadev19)
 - [Abhishek Rathore] (https://github.com/abhishck)
 - [Rahul Kothuri] (https://github.com/rahulkothuri)
 - [Aniruddha Maurya](https://github.com/Aniruddha2701)
