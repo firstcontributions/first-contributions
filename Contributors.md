@@ -1,7 +1,8 @@
 - Sankalp Kumar Singh
 - Tarun S. (https://github.com/Tarun-246)
 - Sanjay Kumar (https://github.com/sunny0205)
-# Contributors
+# Contributors 
+- [navadeep basavoju](https://github.com/navadeepbasavoju)
 - [Asad Munir](https://github.com/AsadUllah428)
 - Pranav Ghorpade (https://github.com/ghorpadeire)
 - [Dhanshree Patangrao](https://github.com/Dhanshree019)
