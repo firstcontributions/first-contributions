@@ -97,6 +97,7 @@
 - [Venkatesh Pamudurti](https://github.com/Venkat5674)
 - [G Sudeepthi](https://github.com/deepthii1316)
 - [Neel Kumar](https://github.com/neelkumar01)
+- [Lohith Sai](https://github.com/lohith11)
 - [Subin Kumar](https://github.com/Subinkumar077)
 -[gyanaranjan-das](https://github.com/gyanaranjan-das)
 - [Greenbasket-labs](https://github.com/greenbasket-labs)
