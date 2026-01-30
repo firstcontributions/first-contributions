@@ -1,4 +1,9 @@
+
 ﻿- [Harsh Dwivedi](https://github.com/TERA-USERNAME)
+
+- [Sanchana Arun](https://github.com/sanchana-arun)
+- [Harsh Dwivedi](https://github.com/TERA-USERNAME)
+
 - [Sanzid Ahmed](https://github.com/Sanzid-Ahmed)
 - Sankalp Kumar Singh
 - Tarun S. (https://github.com/Tarun-246)
@@ -197,8 +202,8 @@ SILVIO
 - [Ziyu](https://github.com/szyu345)
 - [Christopher Meuth](https://github.com/ChristopherMeuth)
 - [Adarsh](https://github.com/itsrajadarsh)
-advait
-Kaushlendra
+- [advait]
+- [Kaushlendra]
 - [ELias986]
 [Fhalo](https://github.com/Fhalo48)
 -[zinwai](https://github.com/zinwai-dawei)
