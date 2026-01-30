@@ -1,4 +1,4 @@
-- [Harsh Dwivedi](https://github.com/TERA-USERNAME)
+﻿- [Harsh Dwivedi](https://github.com/TERA-USERNAME)
 - [Sanzid Ahmed](https://github.com/Sanzid-Ahmed)
 - Sankalp Kumar Singh
 - Tarun S. (https://github.com/Tarun-246)
@@ -12,6 +12,7 @@
 - [Dhanshree Patangrao](https://github.com/Dhanshree019)
 - Lynn
 - Pabitra Maity (https://github.com/Codewithpabitra)
+- [Fatorma Allieu](https://github.com/allieufatorma)
 - [Niraj Mahajan](https://github.com/niraj-mx07)
 - [Abhishek Rathore] (https://github.com/abhishck)
 - [Rahul Kothuri] (https://github.com/rahulkothuri)
