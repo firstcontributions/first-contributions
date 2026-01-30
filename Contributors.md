@@ -1063,6 +1063,7 @@ Kaushlendra
 - [Somil Dolakia](https://github.com/somildholakia)
 - [Sam Kim](https://github.com/samuelkim28)
 - [Samar Bashath](https://github.com/SamarBashath)
+- [Neel Gulati](https://github.com/neel-gulati)
 - [Samia-sh](https://github.com/samia-code0)
 - [Samuel Wright](samw46)
 - [Sanal Kumar](https://github.com/sanalkr)
