@@ -9,6 +9,7 @@
 - [Dhanshree Patangrao](https://github.com/Dhanshree019)
 - Lynn
 - Pabitra Maity (https://github.com/Codewithpabitra)
+- [Niraj Mahajan](https://github.com/niraj-mx07)
 - [Abhishek Rathore] (https://github.com/abhishck)
 - [Rahul Kothuri] (https://github.com/rahulkothuri)
 - [Aniruddha Maurya](https://github.com/Aniruddha2701)
