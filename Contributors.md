@@ -188,7 +188,7 @@ SILVIO
 advait
 Kaushlendra
 - [ELias986]
-[Fhalo](https://github.com/Fhalo48)
+- [Fhalo48](https://github.com/Fhalo48)
 -[zinwai](https://github.com/zinwai-dawei)
 - [Himanshi](https://github.com/himanshi-0070)
 - [Vuk Topalovic](https://github.com/vukkt)
