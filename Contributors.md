@@ -563,6 +563,7 @@ Kaushlendra
 - [Edgar Justus](https://github.com/edgarjustus)
 - [Eduardo](https://github.com/Edd17369)
 - [Eiheir](https://github.com/ebininin)
+- [SisterMorphine](https://github.com/SisterMorphine)
 - [Elif Ş.](https://github.com/elifsz)
 - [Elijah Weiss](https://github.com/eweiss4)
 - [Elijah](https://github.com/Elijah647)
