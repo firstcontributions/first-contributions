@@ -59,7 +59,11 @@ git checkout -b add-abdou-raouf-atarmla
 
 ## Wɔ tɔtrɔ siwo hiã eye nàtsɔ wo ana
 
-Azɔ ʋu nuŋlɔɖia `Contributors.md` de wò ŋkɔ ɖe etame eye nàŋlɔe ɖi. Ne èʋu sedede ƒe nyatakakadzraɖoƒea eye nèwɔ sededea  `git status`, àkpɔe be tɔtrɔwo li. Tsɔ tɔtrɔ siawo kpe ɖe alɔdze si nèwɔ fifia kple sededea ŋu  `git add` :
+Azɔ ʋu nuŋlɔɖia `Contributors.md` de wò ŋkɔ ɖe etame eye nàŋlɔe ɖi. Ne èʋu sedede ƒe nyatakakadzraɖoƒea eye nèwɔ sededea  `git status`, àkpɔe be tɔtrɔwo li.
+
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status dukɔ" />
+
+Tsɔ tɔtrɔ siawo kpe ɖe alɔdze si nèwɔ fifia kple sededea ŋu  `git add` :
 ```bash
 git add Contributors.md
 ```
