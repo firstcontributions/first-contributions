@@ -7,6 +7,7 @@
 - [Dhanshree Patangrao](https://github.com/Dhanshree019)
 - Lynn
 - Pabitra Maity (https://github.com/Codewithpabitra)
+- [Abhishek Rathore] (https://github.com/abhishck)
 - [Aniruddha Maurya](https://github.com/Aniruddha2701)
 - [Choi Doyoun](https://github.com/justjs4evr)
 - [Vaibhaw Kumar Parashar](https://github.com/TheVaibhaw)
