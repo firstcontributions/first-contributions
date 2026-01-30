@@ -4,6 +4,7 @@
 - Sanjay Kumar (https://github.com/sunny0205)
 # Contributors 
 - [Hasindu Udara](https://github.com/hasinduudara)
+- [Bruno Masciotta](https://github.com/masciotta02)
 - [navadeep basavoju](https://github.com/navadeepbasavoju)
 - [Asad Munir](https://github.com/AsadUllah428)
 - Pranav Ghorpade (https://github.com/ghorpadeire)
