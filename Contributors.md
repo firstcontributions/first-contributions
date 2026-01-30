@@ -23,6 +23,7 @@
 - [Abhishek bhatt](https://github.com/abhirbhatt)
 - [Prakhar Tripathi](https://github.com/prakhart07)
 - [Astik singh](https://github.com/Astikk)
+- [Bosseur Assidu] (https://github.com/BosseurAssidu)
 - [Ajinkya Awachar](https://github.com/ajju-09)
 - [Bethu Sathwika](https://github.com/sathwikabethu)
 - [Ashzad Kamal](https://github.com/ashzad123)
