@@ -1,4 +1,4 @@
-- Sanjay Kumar (https://github.com/sunny0205)
+is - Sanjay Kumar (https://github.com/sunny0205)
 # Contributors
 - [Greenbasket-labs](https://github.com/greenbasket-labs)
 - [Luis Ruvalcaba](https://github.com/luisruval)
@@ -330,6 +330,7 @@ SILVIO
 - [David Anane](https://github.com/plaestore)
 - [David Gralla](https://github.com/dgralla)
 - [Davide Loconte](https://github.com/DavideLoconte)
+- [Honey Sekhon] (https://github.com/Honey-Sekhon)
 - [Deep Timbaliya](https://github.com/deeptimbaliya)
 - [Deepak Kumar Kashyap](https://github.com/Deepak-kumar-kashyap)
 - [Deepanshu Giri](https://github.com/deepanshugirii)
