@@ -1425,3 +1425,4 @@ SILVIO
 - [Suchi Shukla](https://github.com/Suchi1905)
 -[Devendra Solanki](https://github.com/DevendraSolanki1508)
 - [Fedor Kupryakov](https://github.com/divohub)
+- [Mingos](https://github.com/M1ngos) 
