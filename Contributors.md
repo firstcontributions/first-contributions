@@ -10,6 +10,7 @@
 - Lynn
 - Pabitra Maity (https://github.com/Codewithpabitra)
 - [Abhishek Rathore] (https://github.com/abhishck)
+- [Rahul Kothuri] (https://github.com/rahulkothuri)
 - [Aniruddha Maurya](https://github.com/Aniruddha2701)
 - [Choi Doyoun](https://github.com/justjs4evr)
 - [Vaibhaw Kumar Parashar](https://github.com/TheVaibhaw)
