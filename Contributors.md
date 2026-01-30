@@ -63,6 +63,7 @@
 - [Manan Vaghasiya](https://github.com/manan-vaghasiya7)
   [Tanveer Pasha S](https://github.com/TanveerpashaS)
 - [Saqlain Sultan](https://github.com/saqlain991)
+- [Wanmi](https://github.com/wanmi1)
 - [Gaurang Dhanuka](https://github.com/Gaurang-101)
 - [EdVKu](https://github.com/EdVKu)
 - [Aryan Rathore](https://github.com/javawithaaryan)
