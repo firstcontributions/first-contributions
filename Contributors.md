@@ -1664,4 +1664,4 @@ Kaushlendra
 - MajiWasHere
 - [Houcine Haddadi](https://github.com/Houcine0x7)
 - [Pulock Kumar](https://github.com/branotix)
-
+- [Rohit kuwarbi](https://github.com/Rohitkuwarbi) (date-:30-01-2026)
