@@ -290,7 +290,7 @@ Kaushlendra
 - [Abhijit-Gautam](github.com/Abhijit-Gautam)
 - [Mohammed Saqib Rehaman Namzi](https://github.com/md-saqib001)
 - [Abhilash Reddy](https://github.com/AbhilashReddy1519)
-  Rishin
+- [Guilherme Gomes](https://github.com/guilhermeGH900)
 - [Abhinand B](https://github.com/abhinand2511)
 - [Anand V P](https://github.com/myselfanandvp)
   Aryan Sharma
