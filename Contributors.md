@@ -1682,8 +1682,8 @@ Kaushlendra
 - Jose-Renny
 - [proudsea1503](https://github.com/proudsea1503-ops)
 - Siddharth Mishra 
+- Harshit Upadhyay (https://github.com/harshit-Upadhyay1921)
 - [SRCarlo](https://github.com/SRCarlo)
-
 - [AJ Gyro](https://github.com/AJGyro)
 - [Pavel Demyanov](https://github.com/stokato)
 - [UsrRed](https://github.com/UsrRed)
