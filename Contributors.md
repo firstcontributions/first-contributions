@@ -1,3 +1,4 @@
+- [Camden Kirkpatrick](https://github.com/Camden-Kirkpatrick)
 - [Sanchana Arun](https://github.com/sanchana-arun)
 - [Harsh Dwivedi](https://github.com/TERA-USERNAME)
 - [Sanzid Ahmed](https://github.com/Sanzid-Ahmed)
@@ -5,6 +6,8 @@
 - Tarun S. (https://github.com/Tarun-246)
 - Sanjay Kumar (https://github.com/sunny0205)
 # Contributors 
+- [whatwant](https://github.com/whatwant)
+- [Kailash Parihar](https://github.com/thekailashparihar)
 - [Hasindu Udara](https://github.com/hasinduudara)
 - [Bruno Masciotta](https://github.com/masciotta02)
 - [navadeep basavoju](https://github.com/navadeepbasavoju)
@@ -13,7 +16,9 @@
 - [Dhanshree Patangrao](https://github.com/Dhanshree019)
 - Lynn
 - Pabitra Maity (https://github.com/Codewithpabitra)
+- [Anjesh Ranjan Dash ](https://github.com/AnjeshDash)
 - [Niraj Mahajan](https://github.com/niraj-mx07)
+- [jonadev19](https://github.com/jonadev19)
 - [Abhishek Rathore] (https://github.com/abhishck)
 - [Rahul Kothuri] (https://github.com/rahulkothuri)
 - [Aniruddha Maurya](https://github.com/Aniruddha2701)
@@ -24,6 +29,7 @@
 - [Andres Aponte](https://github.com/angiovanny) 
 - [Rusil Koirala](https://github.com/rusilkoirala)
 - [Jeremiah Isaacson](https://github.com/jeremiahjordanisaacson)
+- [Sanjay Baskaran](https://github.com/sanjayb-28)
 - [Adnan Aftab](https://github.com/AdnanAftab1/)
 - [Paras Parte](https://github.com/parasparte12)
 - [Sharyu Patil](http://github.com/Sharyupatil01)
@@ -66,6 +72,7 @@
 - [adriancll](https://github.com/adriancll)
 - [Tanmai Thakre](https://github.com/Tanmai-Thakre)
 - [Shivans Gupta](https://github.com/ShivansGupta25)
+- [ironinter](https://github.com/ironinter)
 - [Subhajit Sarkar](https://github.com/Subhajit281)
 - [Richard Ochola](https://github.com/ochola-rich)
 - [Rubeena A](https://github.com/rubeenaa)
@@ -102,7 +109,9 @@
 - [Subin Kumar](https://github.com/Subinkumar077)
 -[gyanaranjan-das](https://github.com/gyanaranjan-das)
 - [Greenbasket-labs](https://github.com/greenbasket-labs)
+Arushi Punhani
 - [oona34](https://github.com/oona34)
+- [kub5on](https://github.com/kub5on)
 - [Luis Ruvalcaba](https://github.com/luisruval)
 - [Manvendra Kumar](https://github.com/Manvendra0023)
 - [Abhinav Dwivedi](https://github.com/abhinavdwivedi05)
@@ -1680,4 +1689,5 @@ Kaushlendra
 - [Houcine Haddadi](https://github.com/Houcine0x7)
 - [Pulock Kumar](https://github.com/branotix)
 - [Sunir Ibrahim](https://github.com/sunir-ibrahim)
+- [Clara](https://github.com/Jayanthiclaretdevaraj)
 
