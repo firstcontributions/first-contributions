@@ -183,6 +183,7 @@ sathish
 - [guerrasz](https://github.com/guerrasz)
 - [Rishita Sinha](https://github.com/rishita0706)
 - Koaniki
+- [Anuj Chauhan](https://github.com/anujchauhann09)
 # guilherme gomes
 - [Musawer Ahmad](https://github.com/musawerxd)
 - [Raunak katiyar github](https://github.com/raunak-bigdp)
