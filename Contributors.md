@@ -11,6 +11,7 @@
 - [Julia83567](https://github.com/Julia83567) 
 - [raining-night](https://github.com/raining-night)
 - [whatwant](https://github.com/whatwant)
+- [Tanush Bhootra](https://github.com/Tanush576)
 - [Kailash Parihar](https://github.com/thekailashparihar)
 - [Hasindu Udara](https://github.com/hasinduudara)
 - [Bruno Masciotta](https://github.com/masciotta02)
