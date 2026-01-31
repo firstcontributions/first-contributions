@@ -1,5 +1,7 @@
 # Contributors
 
+- [Abhinav Dwivedi](https://github.com/abhinavdwivedi05)
+- [Swathi Gurijala](https://github.com/swathi-gurijala)
 - [Camden Kirkpatrick](https://github.com/Camden-Kirkpatrick)
 - [Sanchana Arun](https://github.com/sanchana-arun)
 - [Harsh Dwivedi](https://github.com/TERA-USERNAME)
