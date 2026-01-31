@@ -139,6 +139,7 @@ Arushi Punhani
 - [Akshat Trivedi] (https://github.com/akshat1602)
 - [Sanskar Agarwal](https://github.com/sanskaragarwal001)
 - [Pranjali Goyal] (https://github.com/pranjaligoyal31)
+- [Prashant Chauhan] (https://github.com/prashantchauhan-12)
 - [Shubham Sihasane] (https://github.com/shubham-sihasane) Founder at [https://happywalaengineer.com/]
 - [Abhishek Rana](https://github.com/ranaabhishek0702-dotcom)
 Amir Osman
