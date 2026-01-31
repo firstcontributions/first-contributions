@@ -252,6 +252,7 @@ Kaushlendra
 - [Diksha Kumari](https://github.com/dikshakr9763-sys)
 - [Mwiza Sichinga](https://github.com/Munyuam/)
 - [AC](https://github.com/FortKnoxWasTaken)
+
 - [ARCHANA_GURUSAMY](https://github.com/ARCHANA-SENGUNTHAR)
 - [ARES](https://github.com/phoenixcodeforces-blip)
 - [ASaHi Chin](https://github.com/Cxlyq)
@@ -321,6 +322,7 @@ Kaushlendra
 - [Aditya kumar](https://github.com/Aditya754194)
 - [Aditya](https://github.com/Lumowhisp)
 - [AdiyaTakhell](https://github.com/AdiyaTakhell)
+- [NoMathematician1729](https://github.com/noMathematician1729)
 - [Aditya Rahmad](https://github.com/AdityaZxxx)
 - [Adnan Hussen](https://github.com/adnan-hussen)
 - [Adrian PC M](https://github.com/AdrianPCM)
