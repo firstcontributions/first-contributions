@@ -1275,6 +1275,7 @@ Kaushlendra
 - [Viraj Hudlikar](https://github.com/vhudlikar)
 - [Vishnujith](https://github.com/ivishnujith)
 - [Vishakha](https://github.com/Vishakha61)
+- [Vishal Prajapati](https://github.com/vishal-the-coder-creator)[India(IN)]
 - [VishnuPriyaSingamReddy](https://github.com/VishnuPriyaSingamReddy)
 - [Vito Bondanese](https://github.com/VBVB99)
 - [Vitvin](https://github.com/vitvinvaz)
