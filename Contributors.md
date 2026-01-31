@@ -7,6 +7,7 @@
 - Tarun S. (https://github.com/Tarun-246)
 - Sanjay Kumar (https://github.com/sunny0205)
 # Contributors 
+- [Priyanshu Kumar Pandey](https://github.com/chefcookscode)
 - [Julia83567](https://github.com/Julia83567) 
 - [raining-night](https://github.com/raining-night)
 - [whatwant](https://github.com/whatwant)
