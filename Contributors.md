@@ -1582,9 +1582,9 @@ Kaushlendra
 - [VijayVenkatraman](https://github.com/vijayomatic2-ops)
 - [jennifer j](https://github.com/jenniferjayaraj19-ops)
 - [Harinee12](https://github.com/Harinee12)
-
 - [Jason Wang](https://github.com/Jiachenw399)
 - [Kamalakannan Srinivasan](https://github.com/kamalbalaji83)
+- [Igor Arkhipenko](https://github.com/igor-arkhipenko)
 - [arthisathish](https://github.com/Arthi-asd/)
 - [Devraj](https://github.com/devrajbando)
 - [Vishwaa N](https://github.com/Vishwaa-N)
