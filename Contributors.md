@@ -118,6 +118,7 @@ Arushi Punhani
 - [Khushal Shivhare](https://github.com/khushal-coder-learner)
 - [Matthew Han] (https://github.com/matthewjyhan)
 - [Brenda G](https://github.com/BrendaG04)
+- [yac-nixo]
 - [Prasann62](https://github.com/Prasann62)
 - [Aashi] (https:/gtihub.com/Aktagh1234)
 - [Vivek Kumar](https://github.com/Vivek-kumar3011)
