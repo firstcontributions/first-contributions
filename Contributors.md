@@ -1690,4 +1690,5 @@ Kaushlendra
 - [Pulock Kumar](https://github.com/branotix)
 - [randseas](https://github.com/randseas)
 - [Clara](https://github.com/Jayanthiclaretdevaraj)
+- [Aryan Jha](https://github.com/aryankumarjha1441-debug)
 
