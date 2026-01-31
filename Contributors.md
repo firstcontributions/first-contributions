@@ -54,6 +54,7 @@
 - - [Sameer Mandve](https://github.com/sameermandve)
 - [charliegonzo](https://github.com/CharlieGonzo/first-contributions.git)
 - KJayasree2025
+-[Mohamed Suhail T] (https://github.com/SUHAIL-1010)
 [Diya](https://github.com/niat-web)
 - [Anushtha Mishra](https://github.com/Anushtha-Mishra)
 - [Mridul Narain](https://github.com/narainmridul)
