@@ -1639,6 +1639,7 @@ Kaushlendra
 - [Ankit Ghosal](https://github.com/ankitghosal82)
 - [Karim_Mohamed](https://github.com/KarimAlkabily)
 - [AoJacke](https://github.com/AoJackie)
+- [Anderson-a11y188](https://github.com/Anderson-a11y188)
 - [Apoorva Bodas](https://github.com/ApoorvaBodas123)
 - [Moh. Zaid Siddique] (https://github.com/bruhlog
 - [Yangle](https://github.com/urnotdoris0125))
