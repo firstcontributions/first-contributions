@@ -199,8 +199,8 @@ sathish
 - [Brahmpreet Singh](https://github.com/Brahmpreett)
 
 - [Musawer Ahmad](https://github.com/musawerxd)
-- [Raunak katiyar github](https://github.com/raunak-bigdp)
-SILVIO
+- [Raunak katiyar github](https://github.com/raunak-bigdp) 
+- [sachu samuel](https://github.com/zacc-tech)
 - [hezk](https://github.com/hezhikui)
 - [blumqist](https://github.com/blumquisted-collab)
 - [Vikash Kumar Chaurasiya](https://github.com/Vikashchaurasiya07)
