@@ -1588,7 +1588,7 @@ Kaushlendra
 - [Surendra M](https://github.com/surendrababumetla-cyber)
 - [Saurabh Singh Dhami](https://github.com/Saurabh89580)
 - [Diwakar Subramanian](https://github.com/diwakarsubramanian3)
-[Kamalakannan Srinivasan](https://github.com/kamalbalaji83)
+- [Kamalakannan Srinivasan](https://github.com/kamalbalaji83)
 - [SelvaMiru](https://github.com/SelvaMiru)
 - Raman
 - [jennifer jayaraj](https://github.com/jenniferjayaraj19-ops)
