@@ -643,6 +643,7 @@ Kaushlendra
 - [Gabriel Augusto](https://github.com/gabrielaugusto23)
 - [Gabriel Fernandes](https://github.com/lgabrielmf)
 - [Gabriel Soares](https://github.com/gbrlzzz)
+- [Yash_coder]
 - [Gagan Bhatti](https://github.com/Gagan512)
 - [Paras](https://github.com/ParasSalonia)
 - [Gajji Chandu Yadav](https://github.com/AnandajithS)
