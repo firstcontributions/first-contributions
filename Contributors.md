@@ -2,6 +2,7 @@
 - [Sanchana Arun](https://github.com/sanchana-arun)
 - [Harsh Dwivedi](https://github.com/TERA-USERNAME)
 - [Sanzid Ahmed](https://github.com/Sanzid-Ahmed)
+- TRUONG DANG MANH
 - Sankalp Kumar Singh
 - Tarun S. (https://github.com/Tarun-246)
 - Sanjay Kumar (https://github.com/sunny0205)
