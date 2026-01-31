@@ -177,6 +177,7 @@ sathish
 - [Tushar Vimalbhai Patel](https://github.com/tushar-patel28)
 - [Faique](https://github.com/FaiqueIbrahimi)
 - [Iceman8911](https://github.com/Iceman8911)
+- [JardierCosta](https://github.com/JardierCosta) 
 - [Manojufw](https://github.com/Manojufw) 
 - [Angel780-jpg](https://github.com/Angel780-jpg)
 - [shwetasharma](https://github.com/ShwetaSharmaDev)
