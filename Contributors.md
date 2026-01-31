@@ -6,6 +6,7 @@
 - Tarun S. (https://github.com/Tarun-246)
 - Sanjay Kumar (https://github.com/sunny0205)
 # Contributors 
+- [raining-night](https://github.com/raining-night)
 - [whatwant](https://github.com/whatwant)
 - [Kailash Parihar](https://github.com/thekailashparihar)
 - [Hasindu Udara](https://github.com/hasinduudara)
@@ -111,12 +112,14 @@
 - [Greenbasket-labs](https://github.com/greenbasket-labs)
 Arushi Punhani
 - [oona34](https://github.com/oona34)
+- [kub5on](https://github.com/kub5on)
 - [Luis Ruvalcaba](https://github.com/luisruval)
 - [Manvendra Kumar](https://github.com/Manvendra0023)
 - [Abhinav Dwivedi](https://github.com/abhinavdwivedi05)
 - [Khushal Shivhare](https://github.com/khushal-coder-learner)
 - [Matthew Han] (https://github.com/matthewjyhan)
 - [Brenda G](https://github.com/BrendaG04)
+- [yac-nixo]
 - [Prasann62](https://github.com/Prasann62)
 - [Aashi] (https:/gtihub.com/Aktagh1234)
 - [Vivek Kumar](https://github.com/Vivek-kumar3011)
@@ -1602,6 +1605,7 @@ Kaushlendra
 - [Gaurav Singh](https://github.com/gauravsinghcodes)
 - [Parth Sinde](https://github.com/Parthshinde2005)
 - [Mithun Srinivas](https://github.com/MithunSrinivas28)
+  [Anjali Kumari](https://github.com/anjaliOfficialcoll)
 - [Devanshu](https://github.com/devanshu23bcs030)
 - [Divyam Pariyar](https://github.com/div-html)
 - [Bibek Prasad Gupta](https://github.com/BibekPrasadGupta)
