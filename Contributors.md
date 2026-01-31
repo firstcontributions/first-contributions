@@ -1736,6 +1736,7 @@ Kaushlendra
 - [Rohit singh](https://github.com/Rohitkuwarbi)
 - [Houcine Haddadi](https://github.com/Houcine0x7)
 - [Pulock Kumar](https://github.com/branotix)
+- [Rohit Sharma](https://github.com/rohitt-sharma96)
 - C1Y308
 - [randseas](https://github.com/randseas)
 - [Clara](https://github.com/Jayanthiclaretdevaraj)
