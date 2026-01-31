@@ -1,3 +1,5 @@
+# Contributors
+
 - [Camden Kirkpatrick](https://github.com/Camden-Kirkpatrick)
 - [Sanchana Arun](https://github.com/sanchana-arun)
 - [Harsh Dwivedi](https://github.com/TERA-USERNAME)
@@ -5,8 +7,7 @@
 - TRUONG DANG MANH
 - Sankalp Kumar Singh
 - Tarun S. (https://github.com/Tarun-246)
-- Sanjay Kumar (https://github.com/sunny0205)
-# Contributors 
+- Sanjay Kumar (https://github.com/sunny0205) 
 - [Priyanshu Kumar Pandey](https://github.com/chefcookscode)
 - [Julia83567](https://github.com/Julia83567) 
 - [raining-night](https://github.com/raining-night)
@@ -199,7 +200,7 @@ sathish
 - [Rishita Sinha](https://github.com/rishita0706)
 - Koaniki
 - [Anuj Chauhan](https://github.com/anujchauhann09)
-# guilherme gomes
+- [Raunak katiyar](https://github.com/raunak-bigdp)
 - [Brahmpreet Singh](https://github.com/Brahmpreett)
 
 - [Musawer Ahmad](https://github.com/musawerxd)
