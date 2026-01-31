@@ -88,6 +88,11 @@
 <kbd>[<img title="Mongolian" alt="Mongolian" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/mn.svg" width="22">](docs/translations/README.mn.md)</kbd>
 <kbd>[<img title="Tounsi" alt="Tounsi" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/tn.svg" width="22">](docs/translations/README.tn.md)</kbd>
 <kbd>[<img title="Lingala" alt="Lingala" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/cd.svg" width="22">](docs/translations/README.ln.md)</kbd>
+<kbd>
+  [<img title="Español (Argentina)" alt="Español (Argentina)"
+  src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ar.svg"
+  width="22">](docs/translations/README.es-AR.md)
+</kbd>
 
 # First Contributions
 
