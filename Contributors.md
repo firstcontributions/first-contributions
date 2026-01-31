@@ -1699,5 +1699,6 @@ Kaushlendra
 - [randseas](https://github.com/randseas)
 - [Clara](https://github.com/Jayanthiclaretdevaraj)
 - [Aryan Jha](https://github.com/aryankumarjha1441-debug)
+- [Ishan Ladva](https://github.com/ishanladva)
 -[Yogesh Nehra](https://github.com/Yogesh07Nehra/)
 
