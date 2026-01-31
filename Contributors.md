@@ -192,6 +192,8 @@ sathish
 - Koaniki
 - [Anuj Chauhan](https://github.com/anujchauhann09)
 # guilherme gomes
+- [Brahmpreet Singh](https://github.com/Brahmpreett)
+
 - [Musawer Ahmad](https://github.com/musawerxd)
 - [Raunak katiyar github](https://github.com/raunak-bigdp)
 SILVIO
