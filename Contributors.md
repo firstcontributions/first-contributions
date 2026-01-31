@@ -853,6 +853,7 @@ Kaushlendra
 - [Majid Seifi](https://github.com/majidseifi)
 - [Malvin-sehmaluva-Machingura](https://github.com/sehmaluva)
 - [Manas Dodiya](https://github.com/manasdodiya)
+- [Rahul.knprdy](https://github.com/Rahulab-ux)
 - [Mangelib](https://github.com/mangelib)
 - [Manish Tiwari](https://github.com/manishtiwari-45)
 - [Manjeet Singh](https://github.com/manjeetsingh78)
