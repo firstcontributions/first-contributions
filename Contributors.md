@@ -544,6 +544,7 @@ Kaushlendra
 - [Devashish Gupta](https://github.com/sudo-verse)
 - [Devi Patil](https://github.com/Devipatil)
 - [Devika Menon](https://github.com/DevikaaMenon)
+- [Dewanshu Sharma](https://github.com/dewanshu0311)
 - [Devna jiya R](https://github.com/jiya22r)
 - [Dhairya Dev](https://github.com/hamzak51)
 - [Dhakshith S](https://github.com/Dhakshith)
