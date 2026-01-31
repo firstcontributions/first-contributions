@@ -1648,6 +1648,7 @@ Kaushlendra
 - [Satish Chawali](https://github.com/satishchawali)
 - [Nayonika Agarwal](https://github.com/nayonika04)
 - [Tejas Singh](https://github.com/TejasBLD)
+- [Ibrahim Oloyede](https://github.com/Mista-Log)
 - [Ruchita Jadhav](https://github.com/ruchita-mlcraft)
 - [Suchi Shukla](https://github.com/Suchi1905)
 -[Devendra Solanki](https://github.com/DevendraSolanki1508)
