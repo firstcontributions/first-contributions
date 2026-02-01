@@ -1,5 +1,6 @@
 # Contributors
 
+- [lfathh](https://github.com/lfathh)
 - [Abhinav Dwivedi](https://github.com/abhinavdwivedi05)
 - [Swathi Gurijala](https://github.com/swathi-gurijala)
 - [Camden Kirkpatrick](https://github.com/Camden-Kirkpatrick)
