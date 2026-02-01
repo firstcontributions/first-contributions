@@ -3,15 +3,14 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
-
 # Awel Moucharaka
 
-Fo9ma katbghi tbda chi 7aja jdida katkoun m39da flewl. Dik lkhouf anak tghlet ki3ssbek,5ossosan fach katkoun 5dam m3a nass o5rin. Walakin lblan dl open source w anak t5dm m3a nass f fra9i . Bghina , nsshlou 3likoum bach t3lmou tcharkou fchi projet open source b7al hada l awel mra .   
+Fo9ma katbghi tbda chi 7aja jdida katkoun m39da flewl. Dik lkhouf anak tghlet ki3ssbek,5ossosan fach katkoun 5dam m3a nass o5rin. Walakin lblan dl open source w anak t5dm m3a nass f fra9i . Bghina , nsshlou 3likoum bach t3lmou tcharkou fchi projet open source b7al hada l awel mra .
 
 Rah blan tb9a t9ra kifach dir wla tchouf des tutoriels , walakin wach machi 7ssen nwriwk ki der bla matghlet ? Had lprojet l hadaf dyalou howa y3tek nassa2i7 w 5lik 3a9l : koulma knti mheden , ghat3lem 7ssen. Ila knti 3wal der awel i3ana , tbe3 had l5otowat w ra atsde9lk . Kanwa3dk , ghay3jbek l7al.
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="connecter had repo" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="der fork l‑had repository" />
 
-Ila makanch 3ndk git f pc dyalk, [ Telechargeh ]( https://help.github.com/articles/set-up-git/ )mn had site.
+Ila makanch 3ndk git f pc dyalk, [ Telechargeh ](https://help.github.com/articles/set-up-git/)mn had site.
 
 ## Jbed had repo l3endek (kismiwha hna Fork)
 
@@ -19,7 +18,7 @@ Brek 3la dik FORK kima kaybanlk f tswira bach twli 3ndek b7al version dyal repo 
 
 ## Telecharger 3ndk repo (Kismiwha clone )
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="Clone d repo" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="der clone l‑had repository" />
 
 Daba ,cloner repo dyalk l pc 3ndk. Brek 3la bottona d Clone w copier dik lien (HTTPS houwa sahel) ra kayna bottona 7da lien katcopiehlk nichan .
 
@@ -28,16 +27,19 @@ Daba ,cloner repo dyalk l pc 3ndk. Brek 3la bottona d Clone w copier dik lien (H
 ```bash
 git clone "dik lien li 3ad copieti"
 ```
-3andak t5liha hakak hhh "dik lien li 3ad copieti" (bla douk "") kteb tma lien li copieti fhemni . 
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copier l'URL dans le presse-papier" />
+3andak t5liha hakak hhh "dik lien li 3ad copieti" (bla douk "") kteb tma lien li copieti fhemni .
+
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copi l‑URL l‑clipboard" />
 
 Atkoun b7al had chkel :
+
 ```bash
 git clone https://github.com/smytk_dyal_github/first-contributions.git
 ```
-rah `smytk_dyal_github`  hia smya li nta dayr. 
-Daba nta fhad l5twa ghatelecharger ga3 had repo 3ndk f pc bach tbda tbeddel fiha. 
+
+rah `smytk_dyal_github` hia smya li nta dayr.
+Daba nta fhad l5twa ghatelecharger ga3 had repo 3ndk f pc bach tbda tbeddel fiha.
 
 ## Swb branche jdida dyalk
 
@@ -83,11 +85,11 @@ ana knt mssmiha add-brahim , nta bdlha bachma knti dayr .
 Ila rj3ti l github atl9a dik l3iba dyal `Compare & pull request`
 brek 3liha a5ay.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="der pull request jdida" />
 
 Sf brek 3liha bach tle3 lnass li mss2oulin 3la hadchi.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="sift / submit l‑pull request" />
 
 Chwia mbe3d matjm3 dik lmodifications li derti . Aywslk mail ki9ololk fih ra safi dkchi dyalk nadi.
 
