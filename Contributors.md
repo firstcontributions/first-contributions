@@ -329,6 +329,7 @@ rodrick
 - [Soumyadip Dutta](https://github.com/Soumyadip1004)
 - [Haste]
 - [Sara]
+- [Abiffel](https://github.com/Aniffel)
 - [Khamza Zhanbolat](https://github.com/KhamzaZhanbolat)
 - [Narendra Reddy](https://github.com/narenredcr)
 - [Jiaqi Fan](https://github.com/jiaqifan42)
