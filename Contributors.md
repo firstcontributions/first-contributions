@@ -74,6 +74,7 @@
  [Aditya Kashid](https://github.com/Adityak0309)
 - Nadiya km (https://github.com/nadiya-km)
 - [Mohd Zamaan Akhtar] (https://github.com/zamaan-ai)
+- [Raashtra KC](github.com/arthsaAr)
 - [Gerald Jepedro Sitorus](https://github.com/g3raldatsc)
 - [Sahil Gupta](https://github.com/sahilgupta088)
 - [naheel](https://github.com/naheel0)
