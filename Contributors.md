@@ -1,9 +1,11 @@
 # Contributors
 
+- [Ayush Rusiya] (https://github.com/ayushrusiya9)
 - [Pranab Tiwari] (https://github.com/pranabtiwari)
 - [Ch Vipulabhiram] (https://github.com/Vipulabhiram)
 - [Keerthan Jakkaraju](https://github.com/Keerthanjakkarajucodes)git sta
 - [Anshul Bhardwaj](https://github.com/Anshul-Bhardwaj-21)
+- [Anurag Banerjee](https://github.com/Banerjee2027)
 - [lfathh](https://github.com/lfathh)
 - [Abhinav Dwivedi](https://github.com/abhinavdwivedi05)
 - [Swathi Gurijala](https://github.com/swathi-gurijala)
@@ -1108,6 +1110,7 @@ Naman Malik
 - [Rishabh Paudel](https://github.com/rishabh-24bcs10110) <!-- guys kindly remind me I may have changed my username -->
 - [Rishabh Paudel](https://github.com/rishabhHQ) <!-- guys this is my new username account, i am not able to remove previous one please helpg-->
 - [Yash]
+[Sachin](https://github.com/IAMUCN)
 - [Rishika](https://github.com/RISHIKA-A-S)
 - [Rishit Khandelwal](https://github.com/Rishit-Khandelwal)
 - [Rizvan](https://github.com/Rizvan337/)
