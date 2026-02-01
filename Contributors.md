@@ -1783,7 +1783,3 @@ Naman Malik
 test
 test
 test 1 line 
-add single line
-
-add double line
-add doible line
