@@ -1,5 +1,6 @@
 # Contributors
 
+- [Pranab Tiwari] (https://github.com/pranabtiwari)
 - [Anshul Bhardwaj](https://github.com/Anshul-Bhardwaj-21)
 - [lfathh](https://github.com/lfathh)
 - [Abhinav Dwivedi](https://github.com/abhinavdwivedi05)
