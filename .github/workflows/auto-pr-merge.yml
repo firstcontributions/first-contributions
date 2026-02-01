@@ -40,6 +40,14 @@ jobs:
 
             core.setOutput('only_contributors', isOnlyContributors && isOneLineChange);
             core.setOutput('filenames', filenames.join(', '));
+
+            const moreLineChanged = (isOnlyContributors && !isOneLineChange)
+
+            // set true if multiple changed if only isOnlyContributors 
+            core.setOutput('isMultipleLineChanged', moreLineChanged)
+
+            // is multiple file changed
+            core.setOutput('isMultipleFilesChanged', !isOnlyContributors)
             
             if (!isOnlyContributors) {
               console.log(`Validation Failed: Files changed: ${filenames.join(', ')}`);
@@ -53,12 +61,16 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
+            const { owner, repo } = context.repo;
+            const pr = context.payload.pull_request;
+            const username = pr.user.login;
+
             try {
             // Attempt to merge the pull request using the squash method
              const response = await github.rest.pulls.merge({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              pull_number: context.issue.number,
+              pull_number: pr.number,
                merge_method: "squash"
              })
 
@@ -131,7 +143,7 @@ jobs:
               await github.rest.issues.createComment({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
-                issue_number: context.issue.number,
+                issue_number: pr.number,
                 body: "Something went wrong while attempting to merge this pull request. Please check the GitHub Actions log for more information."
                })
             }
@@ -143,8 +155,10 @@ jobs:
               // Handle specific error cases based on status code
               if (error.status === 405 && error.response.data.message === "Pull Request is not mergeable") {
 
-                errMsg = `Hello @${context.payload.pull_request.user.login}, thank you for your pull request. We appreciate your contribution to the project. However, before we can merge it, there is a merge conflict with the target branch.  \n\n No worries! You can follow [this guide](https://github.com/firstcontributions/first-contributions/blob/main/docs/additional-material/git_workflow_scenarios/resolving-merge-conflicts.md) on resolving merge conflicts. 
-                Once you've fixed the conflicts and pushed your changes, the repository will check the changes you made and proceed with the merge if everything looks good.  \n\n If you have any questions or need further assistance, don't hesitate to reach out. We're here to help!`
+              //  errMsg = `Hello @${context.payload.pull_request.user.login}, thank you for your pull request. We appreciate your contribution to the project. However, before we can merge it, there is a merge conflict with the target branch.  \n\n No worries! You can follow [this guide](https://github.com/firstcontributions/first-contributions/blob/main/docs/additional-material/git_workflow_scenarios/resolving-merge-conflicts.md) on resolving merge conflicts. 
+              //  Once you've fixed the conflicts and pushed your changes, the repository will check the changes you made and proceed with the merge if everything looks good.  \n\n If you have any questions or need further assistance, don't hesitate to reach out. We're here to help!`
+              
+              errMsg =  `### 🛠️ Merge Conflict\nHi @${username}, another contributor edited the file at the same time! Follow [this guide](https://github.com/firstcontributions/first-contributions/blob/main/docs/additional-material/git_workflow_scenarios/resolving-merge-conflicts.md) to resolve the conflict.`
 
               } else if (error.status === 409) {
                 console.error("The pull request has conflicts with the target branch. Resolve the conflicts before merging.");
@@ -159,7 +173,7 @@ jobs:
               await github.rest.issues.createComment({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
-                issue_number: context.issue.number,
+                issue_number: pr.number,
                 body: errMsg
                })
 
@@ -175,8 +189,52 @@ jobs:
         env:
           # keep fileames into the enviroment better prevent from any injection
           RAW_FILES: ${{ steps.is_only_contributors_file_changed.outputs.filenames }}
+          IS_MULTIPLES_LINES_CHANGES: ${{ steps.is_only_contributors_file_changed.outputs.isMultipleLineChanged}}
+          IS_MULTIPLES_FILES_CHANGES: ${{steps.is_only_contributors_file_changed.outputs.isMultipleFilesChanged}}
         with:
           script: |
+            const isMutlipleFilesChanged = process.env.IS_MULTIPLES_FILES_CHANGES === 'true';
+            const isMutlipleLinesChanged = process.env.IS_MULTIPLES_LINES_CHANGES === 'true';
+            const pr = context.payload.pull_request;
+            const username = pr.user.login;
+
+            let body;
+
+
+            if(isMutlipleFilesChanged){
+              // Get files from env (safe from injection)
+              const filesString = process.env.RAW_FILES || "";
+
+              // Format file list
+              const fileList = filesString
+                .split(', ')
+                .filter(f => f.trim() !== "")
+                .map(file => `- ${file}`)
+                .join('\n');
+
+              body = `### 🌟 Hello @${username}! \n\nThank you for this contribution. Since this PR modifies files beyond the tutorial (\`Contributors.md\`), I've flagged this for a **manual review** by our maintainers. \n\nThe following files were changed:\n\n${fileList} \n\nWe appreciate you helping improve the project!`;
+            
+            } else if (!isMutlipleFilesChanged && isMutlipleLinesChanged){
+              
+              const totalChanges = pr.additions + pr.deletions;
+              let diffBlock = "";
+              
+              if (totalChanges > 0 && totalChanges <= 5) {
+                const { data: files } = await github.rest.pulls.listFiles({
+                   owner: context.repo.owner, repo: context.repo.repo, pull_number: pr.number
+                 });
+                
+                const patch = files[0]?.patch ? `\`\`\`diff\n${files[0].patch}\n\`\`\`` : "_No preview available_";
+
+                diffBlock = `\n\n**Preview of changes:**\n${patch}`;
+
+              } else{
+                diffBlock = `\n\nNo preview available.`;
+              }
+                body = `### 👋 Hi @${username}! \n\nGreat job reaching the final step! However, it looks like there are **${totalChanges} lines of changes**.\n\n\${diffBlock} \n\nThe tutorial works best when you add exactly **one line**. Please [follow tutorial](https://github.com/firstcontributions/first-contributions?tab=readme-ov-file#make-necessary-changes-and-commit-those-changes) carefully. \n\nWe're excited to have you in the community!`
+            }
+
+
             // get the existing comments.
             const {data: comments} = await github.rest.issues.listComments({
               owner: context.repo.owner,
@@ -187,18 +245,6 @@ jobs:
             // find any comment already made by the bot.                                                                                                    
             const botComment = comments.find(comment => comment.user.login === 'github-actions[bot]')                                                                       
 
-            // Get files from env (safe from injection)
-            const filesString = process.env.RAW_FILES || "";
-
-            // Format file list
-            const fileList = filesString
-              .split(', ')
-              .filter(f => f.trim() !== "")
-              .map(file => `- ${file}`)
-              .join('\n');
-
-
-            const body = `Thank you for your pull request. This pull request contains changes in files which requires review. The following files were changed:\n\n${fileList}`;
 
             if (botComment) {
               await github.rest.issues.updateComment({
