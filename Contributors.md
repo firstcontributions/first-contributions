@@ -12,6 +12,7 @@
 - [Alfred Sjögren](https://github.com/4lfman)
 - [Sanzid Ahmed](https://github.com/Sanzid-Ahmed)
 - TRUONG DANG MANH
+- Arman Akhmetshiev
 - Sankalp Kumar Singh
 - Tarun S. (https://github.com/Tarun-246)
 - Sanjay Kumar (https://github.com/sunny0205) 
