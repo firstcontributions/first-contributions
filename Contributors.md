@@ -11,6 +11,7 @@
 - [Harsh Dwivedi](https://github.com/TERA-USERNAME)
 - [Alfred Sjögren](https://github.com/4lfman)
 - [Sanzid Ahmed](https://github.com/Sanzid-Ahmed)
+- [Avinash Mishra] (https://github.com/avinashmishra-02)
 - TRUONG DANG MANH
 - Sankalp Kumar Singh
 - Tarun S. (https://github.com/Tarun-246)
