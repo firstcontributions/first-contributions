@@ -1000,7 +1000,6 @@ Naman Malik
 - [Nitin Kumar](https://github.com/NitinKmr42)
 - [Nitin Kumar](https://github.com/nitin-kumar-code)
 - [Nithin.B](https://github.com/NITHIN-2006)
-- [Nithin P](https://github.com/nithinp1)
 - [Noah Kim](https://github.com/gratisreise)
 - [Noflare](https://github.com/Noflare)
 - [nulone](https://github.com/nulone)
