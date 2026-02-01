@@ -291,6 +291,7 @@ Kaushlendra
 - [Ivan Uribe](https://github.com/ivancuribe124)
 - [DimondO20](https://github.com/DimondO20)
 - [Aaliyah Raheem](https://github.com/aaliot)
+Naman Malik
 - [Abdul Wasay] (https://github.com/wasxy47)
 - [Miguel Hernandez](https://github.com/mangel-mhdez)
 - [Suchit](https://github.com/suchit-hirani-python-ak)
