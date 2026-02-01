@@ -1349,7 +1349,7 @@ SILVIO
 - [Karim_Mohamed](https://github.com/KarimAlkabily)
 - [AoJacke](https://github.com/AoJackie)
 - [Apoorva Bodas](https://github.com/ApoorvaBodas123)
-- [Moh. Zaid Siddique] (https://github.com/bruhlog)
+- [Moh. Zaid Siddique](https://github.com/bruhlog)
 - [Loey](https://github.com/loey1923)
 - [Gaurav Singh](https://github.com/gauravsinghcodes)
 - [Parth Sinde](https://github.com/Parthshinde2005)
