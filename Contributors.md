@@ -1,5 +1,6 @@
 # Contributors
 
+- [Ayush Rusiya] (https://github.com/ayushrusiya9)
 - [Pranab Tiwari] (https://github.com/pranabtiwari)
 - [Ch Vipulabhiram] (https://github.com/Vipulabhiram)
 - [Keerthan Jakkaraju](https://github.com/Keerthanjakkarajucodes)git sta
