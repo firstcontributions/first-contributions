@@ -96,6 +96,7 @@
 
 
 - [Saqlain Sultan](https://github.com/saqlain991)
+- [Abhijeet Nardele](https://github.com/abhijeetnardele24-hash)
 - [Wanmi](https://github.com/wanmi1)
 - [Gaurang Dhanuka](https://github.com/Gaurang-101)
 - [EdVKu](https://github.com/EdVKu)
