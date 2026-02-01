@@ -12,6 +12,7 @@
 - Tarun S. (https://github.com/Tarun-246)
 - Sanjay Kumar (https://github.com/sunny0205) 
 - [Priyanshu Kumar Pandey](https://github.com/chefcookscode)
+- [lfathh](https://github.com/lfathh)
 - [Julia83567](https://github.com/Julia83567) 
 - [raining-night](https://github.com/raining-night)
 - [whatwant](https://github.com/whatwant)
