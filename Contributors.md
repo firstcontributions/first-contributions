@@ -808,6 +808,7 @@ Kaushlendra
 - [Kartheek Budime](https://github.com/kartheek0107)
 - [Kartik Yadav](https://github.com/kartik912)
 - [Kassahun F](https://github.com/Kas1398)
+- [Taha Mirza](https://github.com/muhammadtahamirza)
 - [Kaustubh Chaturvedi](https://github.com/Kaus-16)
 - [Kavya Vadla](https://github.com/kvadla06)
 - [Kavya](https://github.com/Kavya751)
