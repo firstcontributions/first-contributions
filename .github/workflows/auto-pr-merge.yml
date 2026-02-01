@@ -231,7 +231,7 @@ jobs:
               } else{
                 diffBlock = `\n\nNo preview available.`;
               }
-                body = `### 👋 Hi @${username}! \n\nGreat job reaching the final step! However, it looks like there are **${totalChanges} lines of changes**.\n\n\${diffBlock} \n\nThe tutorial works best when you add exactly **one line**. Please [follow tutorial](https://github.com/firstcontributions/first-contributions?tab=readme-ov-file#make-necessary-changes-and-commit-those-changes) carefully. \n\nWe're excited to have you in the community!`
+                body = `### 👋 Hi @${username}! \n\nGreat job reaching the final step! However, it looks like there are **${totalChanges} lines of changes**.\n\n${diffBlock} \n\nThe tutorial works best when you add exactly **one line**. Please [follow tutorial](https://github.com/firstcontributions/first-contributions?tab=readme-ov-file#make-necessary-changes-and-commit-those-changes) carefully. \n\nWe're excited to have you in the community!`
             }
 
 
