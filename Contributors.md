@@ -97,7 +97,7 @@
 - [mewbemonk] (https://github.com/mewbemonk)
 - [Talaptan Alikhan](https://github.com/alihnwx)
 - [Manan Vaghasiya](https://github.com/manan-vaghasiya7)
-
+- [ReduxTheCoder](https://github.com/ReduxTheCoder)
 - [Tanveer Pasha S](https://github.com/TanveerpashaS)
 
 
