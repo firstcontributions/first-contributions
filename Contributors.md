@@ -135,6 +135,7 @@
 - [auditive-tokyo](https://github.com/auditive-tokyo)
 - [Shailesh Mishra](https://github.com/sendtoshailesh)
 - [Atharv Jadhav](https://github.com/atharv5167)
+- [Utsav Kumar](https://github.com/Freaky-Zeus)
 - [Atheena Oteyza](https://github.com/atheenaoteyza)
 - [Yash Pathak](https://github.com/YashPathak18)
 - [Venkatesh Pamudurti](https://github.com/Venkat5674)
