@@ -1022,6 +1022,7 @@ Naman Malik
 - [Nitin Kumar](https://github.com/nitin-kumar-code)
 - [Nithin.B](https://github.com/NITHIN-2006)
 - [Nithin Praveen](https://github.com/nithinp1)
+- [Pavel Shegay](https://github.com/pavelshegay3)
 - [Noah Kim](https://github.com/gratisreise)
 - [Noflare](https://github.com/Noflare)
 - [nulone](https://github.com/nulone)
