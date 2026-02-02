@@ -8,6 +8,7 @@
 - [Anshul Bhardwaj](https://github.com/Anshul-Bhardwaj-21)
 - [Anurag Banerjee](https://github.com/Banerjee2027)
 - [Jocin J] (https://github.com/Jocin55)
+- [Sonu Asher] (https://github.com/SonuAsher)
 - [lfathh](https://github.com/lfathh)
 - [Abhinav Dwivedi](https://github.com/abhinavdwivedi05)
 - [Swathi Gurijala](https://github.com/swathi-gurijala)
@@ -15,9 +16,11 @@
 - [Sanchana Arun](https://github.com/sanchana-arun)
 - [Harsh Dwivedi](https://github.com/TERA-USERNAME)
 - [Alfred Sjögren](https://github.com/4lfman)
+- [Abdullahil Baki](https://github.com/abdullahilbaki)
 - [Sanzid Ahmed](https://github.com/Sanzid-Ahmed)
 - [Avinash Mishra] (https://github.com/avinashmishra-02)
 - [Nischal Chaudhary] (https://github.com/ronnin796)
+- [Nandita Chakka](https://github.com/nanditachk)
 - TRUONG DANG MANH
 - Arman Akhmetshiev
 - Sankalp Kumar Singh
@@ -133,6 +136,7 @@
 - [auditive-tokyo](https://github.com/auditive-tokyo)
 - [Shailesh Mishra](https://github.com/sendtoshailesh)
 - [Atharv Jadhav](https://github.com/atharv5167)
+- [Utsav Kumar](https://github.com/Freaky-Zeus)
 - [Atheena Oteyza](https://github.com/atheenaoteyza)
 - [Yash Pathak](https://github.com/YashPathak18)
 - [Venkatesh Pamudurti](https://github.com/Venkat5674)
@@ -142,6 +146,7 @@
 - [Subin Kumar](https://github.com/Subinkumar077)
 -[gyanaranjan-das](https://github.com/gyanaranjan-das)
 - [Greenbasket-labs](https://github.com/greenbasket-labs)
+- [Yash200531](https://github.com/Yash200531)
 Arushi Punhani
 - [oona34](https://github.com/oona34)
 - [kub5on](https://github.com/kub5on)
@@ -200,6 +205,7 @@ sathish
 - [Tushar Vimalbhai Patel](https://github.com/tushar-patel28)
 - [Faique](https://github.com/FaiqueIbrahimi)
 - [Iceman8911](https://github.com/Iceman8911)
+-Luminash Patel
 - [JardierCosta](https://github.com/JardierCosta) 
 - [Manojufw](https://github.com/Manojufw) 
 - [Angel780-jpg](https://github.com/Angel780-jpg)
@@ -286,7 +292,7 @@ Kaushlendra
 - [Diksha Kumari](https://github.com/dikshakr9763-sys)
 - [Mwiza Sichinga](https://github.com/Munyuam/)
 - [AC](https://github.com/FortKnoxWasTaken)
-
+- [Malak Adea](https://github.com/MalakGdaea)
 - [ARCHANA_GURUSAMY](https://github.com/ARCHANA-SENGUNTHAR)
 - [ARES](https://github.com/phoenixcodeforces-blip)
 - [ASaHi Chin](https://github.com/Cxlyq)
