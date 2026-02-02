@@ -195,6 +195,7 @@ jobs:
           script: |
             const isMutlipleFilesChanged = process.env.IS_MULTIPLES_FILES_CHANGES === 'true';
             const isMutlipleLinesChanged = process.env.IS_MULTIPLES_LINES_CHANGES === 'true';
+            const { owner, repo } = context.repo;
             const pr = context.payload.pull_request;
             const username = pr.user.login;
 
