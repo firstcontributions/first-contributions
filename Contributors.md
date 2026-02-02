@@ -1435,6 +1435,7 @@ Naman Malik
 - [evneis](https://github.com/evneis)
 - [fedxemilio](https://github.com/fedxemilio)
 - [fikrirazor](https://github.com/fikrirazor)
+guru
 - [fistAttempt](https://github.com/nikhiltumma/first-contributions)
 - [foam](https://github.com/MoreFoam)
 - [foxdefalt](https://github.com/D-f4lt)
