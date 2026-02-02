@@ -1794,8 +1794,8 @@ Naman Malik
 - [Daniel Peralta](https://github.com/DDalta)
 - Nurbol Abu
 - [Ananya Parihar](https://github.com/ananyaparihar/first-contributions)
+
 - [Yesui Gankhuyag](https://github.com/yesuiabc)
 - [cvienna](https://github.com/cvienna/)
 - [michaelYLR](https://github.com/MichaelYLR)
 - [Aman Bhangre](https://github.com/AmanBhangre)
-
