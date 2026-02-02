@@ -43,6 +43,7 @@
 - [Dhanshree Patangrao](https://github.com/Dhanshree019)
 - Lynn
 - [Anshul](https://github.com/Ayamji)
+- [Bilal Abiç](https://github.com/BilalAbic)
 - Pabitra Maity (https://github.com/Codewithpabitra)
 - [Anjesh Ranjan Dash ](https://github.com/AnjeshDash)
 - [Niraj Mahajan](https://github.com/niraj-mx07)
