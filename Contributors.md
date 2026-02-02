@@ -42,6 +42,7 @@
 - Pranav Ghorpade (https://github.com/ghorpadeire)
 - [Dhanshree Patangrao](https://github.com/Dhanshree019)
 - Lynn
+- [Imanol57864](https://github.com/Imanol57864)
 - [Anshul](https://github.com/Ayamji)
 - Pabitra Maity (https://github.com/Codewithpabitra)
 - [Anjesh Ranjan Dash ](https://github.com/AnjeshDash)
