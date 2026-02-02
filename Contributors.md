@@ -19,6 +19,7 @@
 - [Sanzid Ahmed](https://github.com/Sanzid-Ahmed)
 - [Avinash Mishra] (https://github.com/avinashmishra-02)
 - [Nischal Chaudhary] (https://github.com/ronnin796)
+- [Nandita Chakka](https://github.com/nanditachk)
 - TRUONG DANG MANH
 - Arman Akhmetshiev
 - Sankalp Kumar Singh
