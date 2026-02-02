@@ -2,6 +2,7 @@
 
 - [Ayush Rusiya] (https://github.com/ayushrusiya9)
 - [Pranab Tiwari] (https://github.com/pranabtiwari)
+- [Khushi Jaiswal] (https://github.com/Khushi84670/)
 - [Ch Vipulabhiram] (https://github.com/Vipulabhiram)
 - [Keerthan Jakkaraju](https://github.com/Keerthanjakkarajucodes)git sta
 - [Anshul Bhardwaj](https://github.com/Anshul-Bhardwaj-21)
