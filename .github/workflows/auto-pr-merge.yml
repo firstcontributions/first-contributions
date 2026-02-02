@@ -199,6 +199,8 @@ jobs:
             const username = pr.user.login;
 
             let body;
+            let labels = [];
+            let isReviewRequired = false;
 
 
             if(isMutlipleFilesChanged){
@@ -213,6 +215,7 @@ jobs:
                 .join('\n');
 
               body = `### 🌟 Hello @${username}! \n\nThank you for this contribution. Since this PR modifies files beyond the tutorial (\`Contributors.md\`), I've flagged this for a **manual review** by our maintainers. \n\nThe following files were changed:\n\n${fileList} \n\nWe appreciate you helping improve the project!`;
+              labels = ['👩‍💻 waiting for review'];
             
             } else if (!isMutlipleFilesChanged && isMutlipleLinesChanged){
               
@@ -232,6 +235,8 @@ jobs:
                 diffBlock = `\n\nNo preview available.`;
               }
                 body = `### 👋 Hi @${username}! \n\nGreat job reaching the final step! However, it looks like there are **${totalChanges} lines of changes**.\n\n${diffBlock} \n\nThe tutorial works best when you add exactly **one line**. Please [follow tutorial](https://github.com/firstcontributions/first-contributions?tab=readme-ov-file#make-necessary-changes-and-commit-those-changes) carefully. \n\nWe're excited to have you in the community!`
+                labels = ['invalid', 'help wanted'];
+                isReviewRequired = true;
             }
 
 
@@ -245,21 +250,18 @@ jobs:
             // find any comment already made by the bot.                                                                                                    
             const botComment = comments.find(comment => comment.user.login === 'github-actions[bot]')                                                                       
 
+            if (body) {
 
-            if (botComment) {
-              await github.rest.issues.updateComment({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                comment_id: botComment.id,
-                body: body
-              })
-            } else {
-                await github.rest.issues.createComment({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                issue_number: context.issue.number,
-                body: body
-              });
+              // Add Labels
+              if (labels.length > 0) await github.rest.issues.addLabels({ owner, repo, issue_number: pr.number, labels });
+
+              if (isReviewRequired) {
+                await github.rest.pulls.createReview({ owner, repo, pull_number: pr.number, body, event: 'REQUEST_CHANGES' });
+              } else if (botComment) {
+                await github.rest.issues.updateComment({ owner, repo, comment_id: botComment.id, body });
+              } else {
+                await github.rest.issues.createComment({ owner, repo, issue_number: pr.number, body });
+              }
             }
             
           github-token: ${{ secrets.GITHUB_TOKEN }}
