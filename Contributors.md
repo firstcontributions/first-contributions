@@ -1611,7 +1611,7 @@ Naman Malik
 - [Kaushik S](https://github.com/KaushikS-coder)
 - [Victor Belusso](https://github.com/belusso)
 - [Lokesh Konda](https://github.com/kondalokesh025-code)
--
+- [Samyak Sambuddha](https://github.com/Samyak6812)
 - [Vaishnavi](https://github.com/Vaishnavi10706)
 - [Nyoman Kusuma](https://github.com/knyoman)
 - [Jaanvi Chouhan](https://github.com/Jaanvichouhan34)
