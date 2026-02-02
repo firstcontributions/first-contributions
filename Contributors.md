@@ -1803,5 +1803,6 @@ Naman Malik
 - [cvienna](https://github.com/cvienna/)
 - [michaelYLR](https://github.com/MichaelYLR)
 - [Aman Bhangre](https://github.com/AmanBhangre)
+- [Cecex](https://github.com/Cecex-git)
 - [Muruganandam B](https://github.com/muruga-tech)
 
