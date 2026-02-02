@@ -114,6 +114,7 @@
 
 - [Tanveer Pasha S](https://github.com/TanveerpashaS)
 
+-[Manu](https://github.com/ManashaaU)
 
 - [Saqlain Sultan](https://github.com/saqlain991)
 - [Abhijeet Nardele](https://github.com/abhijeetnardele24-hash)
