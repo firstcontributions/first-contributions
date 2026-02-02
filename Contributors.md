@@ -107,6 +107,7 @@
 
 - [Tanveer Pasha S](https://github.com/TanveerpashaS)
 
+- [Hussein Ayyed](https://github.com/husseinayyed)
 
 - [Saqlain Sultan](https://github.com/saqlain991)
 - [Abhijeet Nardele](https://github.com/abhijeetnardele24-hash)
