@@ -1782,6 +1782,7 @@ Naman Malik
 -[Tanay Mishra](https://github.com/Tanay2920003)
 - [CoreDumpNotCrash](https://github.com/CoreDumpNotCrash)
 - [Suinnnn](https://github.com/Suinnnn)
+- [Peter Imoh Victor](https://github.com/peterimoh)
 - [Sahil Ghag](https://github.com/Sahilghagg)
 - [Daniel Peralta](https://github.com/DDalta)
 - Nurbol Abu
