@@ -8,6 +8,7 @@
 - [Anshul Bhardwaj](https://github.com/Anshul-Bhardwaj-21)
 - [Anurag Banerjee](https://github.com/Banerjee2027)
 - [Jocin J] (https://github.com/Jocin55)
+- [Sonu Asher] (https://github.com/SonuAsher)
 - [lfathh](https://github.com/lfathh)
 - [Abhinav Dwivedi](https://github.com/abhinavdwivedi05)
 - [Swathi Gurijala](https://github.com/swathi-gurijala)
