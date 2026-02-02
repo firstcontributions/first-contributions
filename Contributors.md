@@ -1791,3 +1791,4 @@ Naman Malik
 - [Yesui Gankhuyag](https://github.com/yesuiabc)
 - [cvienna](https://github.com/cvienna/)
 - [michaelYLR](https://github.com/MichaelYLR)
+- [Sebastián](https://github.com/sebastianhigueraquintero)
