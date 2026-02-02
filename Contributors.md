@@ -2,6 +2,7 @@
 -[soner](https://github.com/C8338Soner/first-contributions)
 
 - [Ayush Rusiya] (https://github.com/ayushrusiya9)
+- [Neha Roy] (https://github.com/neharoy3)
 - [Pranab Tiwari] (https://github.com/pranabtiwari)
 - [Khushi Jaiswal] (https://github.com/Khushi84670/)
 - [Ch Vipulabhiram] (https://github.com/Vipulabhiram)
