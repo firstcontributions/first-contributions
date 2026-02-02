@@ -1,5 +1,6 @@
 # Contributors
 -[soner](https://github.com/C8338Soner/first-contributions)
+- [Rubal Singh](https://github.com/Rubal-code)
 
 - [Ayush Rusiya] (https://github.com/ayushrusiya9)
 - [Pranab Tiwari] (https://github.com/pranabtiwari)
@@ -11,6 +12,7 @@
 - [Anurag Banerjee](https://github.com/Banerjee2027)
 - [Jocin J] (https://github.com/Jocin55)
 - [Sonu Asher] (https://github.com/SonuAsher)
+ 
 - [lfathh](https://github.com/lfathh)
 - [Abhinav Dwivedi](https://github.com/abhinavdwivedi05)
 - [Swathi Gurijala](https://github.com/swathi-gurijala)
