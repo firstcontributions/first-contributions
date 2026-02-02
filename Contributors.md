@@ -16,6 +16,7 @@
 - [Sanchana Arun](https://github.com/sanchana-arun)
 - [Harsh Dwivedi](https://github.com/TERA-USERNAME)
 - [Alfred Sjögren](https://github.com/4lfman)
+- [Abdullahil Baki](https://github.com/abdullahilbaki)
 - [Sanzid Ahmed](https://github.com/Sanzid-Ahmed)
 - [Avinash Mishra] (https://github.com/avinashmishra-02)
 - [Nischal Chaudhary] (https://github.com/ronnin796)
