@@ -1406,6 +1406,7 @@ Naman Malik
 - [dev-knb](https://github.com/kimnambin)
 - [dev-sik](https://github.com/YouD0313)
 - [devoceon](https://github.com/emy3)
+- [dibaya-jyoti](https://github.com/dibaya07)
 - [dinesh](https://github.com/dineshv97)
 - [diya](https://github.com/diyaj14)
 - [djyun](https://github.com/dongjooyun)
