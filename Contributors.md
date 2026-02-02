@@ -1811,4 +1811,4 @@ guru
 - [Cecex](https://github.com/Cecex-git)
 - [Muruganandam B](https://github.com/muruga-tech)
 - [Aakash Chauhan](https://github.com/akashinedon)
-
+- [Michael Frascona](https://github.com/mgfrascona) Greetings! I hope to contribute to open-source with my own flair!
