@@ -66,6 +66,7 @@
 - [Diya Saha](https://github.com/DiyadotSaha)
 - [Ashmi A Jha](https://github.com/ashmi8)
 - [Pratham Debnath](https://github.com/isthatpratham)
+- [Mohd Rayyan Lulaniya](https://github.com/Rayyan-101)
 - [Sabyasachi Ghosh](https://github.com/sabyasachi008)
 - [Andres Ramirez](https://github.com/AndresRM199)
 - [Nikhil Dubey](https://github.com/Nikonus)
