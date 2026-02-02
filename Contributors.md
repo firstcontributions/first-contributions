@@ -1766,6 +1766,7 @@ Naman Malik
 - Monika Moni - https://github.com/Monika-git1
 - [Ettore Ciolli](https://github.com/ettoreciolli1)
 - MajiWasHere
+- Janin A
 - [Chandan Chaudhary](https://github.com/chandan0069)
 - [Rohit singh](https://github.com/Rohitkuwarbi)
 - [Houcine Haddadi](https://github.com/Houcine0x7)
