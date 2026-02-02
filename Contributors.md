@@ -15,7 +15,6 @@
 - [Bruno Masciotta](https://github.com/masciotta02)
 - [navadeep basavoju](https://github.com/navadeepbasavoju)
 - [Asad Munir](https://github.com/AsadUllah428)
-  [Ayush Bisht] (https://github.com/ayushbishtcode)
 - Pranav Ghorpade (https://github.com/ghorpadeire)
 - [Dhanshree Patangrao](https://github.com/Dhanshree019)
 - Lynn
@@ -136,6 +135,7 @@
 - [Pranjali Goyal] (https://github.com/pranjaligoyal31)
 - [Shubham Sihasane] (https://github.com/shubham-sihasane) Founder at [https://happywalaengineer.com/]
 - [Abhishek Rana](https://github.com/ranaabhishek0702-dotcom)
+- [Ayush Bisht](https://github.com/ayushbishtcode)
   Amir Osman
 - [Seth Chamola](https://github.com/Mystic-Chamola)
 - [I Kanapathipillai](https://github.com/KI-5/)
