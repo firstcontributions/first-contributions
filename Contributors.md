@@ -35,8 +35,9 @@
 - [arias] (https://github.com/aria-tec)
 - [Asad Munir](https://github.com/AsadUllah428)
 - Pranav Ghorpade (https://github.com/ghorpadeire)
-- [Dhanshree Patangrao](https://github.com/Dhanshree019)
+- [Dhanshree Patangrao](c)
 - Lynn
+- [Manuu] (
 - Pabitra Maity (https://github.com/Codewithpabitra)
 - [Anjesh Ranjan Dash ](https://github.com/AnjeshDash)
 - [Niraj Mahajan](https://github.com/niraj-mx07)
@@ -111,6 +112,7 @@
 
 - [Tanveer Pasha S](https://github.com/TanveerpashaS)
 
+-[Manu](https://github.com/ManashaaU)
 
 - [Saqlain Sultan](https://github.com/saqlain991)
 - [Abhijeet Nardele](https://github.com/abhijeetnardele24-hash)
