@@ -9,6 +9,7 @@
 - [Pranab Tiwari] (https://github.com/pranabtiwari)
 - [Khushi Jaiswal] (https://github.com/Khushi84670/)
 - [Ch Vipulabhiram] (https://github.com/Vipulabhiram)
+- [Sanjay Ganesh] (https://github.com/SanjayGanesh614)
 - [Ashad Shaikh] (https://github.com/senku0-0)
 - [Keerthan Jakkaraju](https://github.com/Keerthanjakkarajucodes)git sta
 - [Anshul Bhardwaj](https://github.com/Anshul-Bhardwaj-21)
