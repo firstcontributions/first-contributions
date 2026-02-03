@@ -16,6 +16,7 @@
 - [Anurag Banerjee](https://github.com/Banerjee2027)
 - [Vedant Pai] (https://github.com/VEDANT-PAI)
 - [Jocin J] (https://github.com/Jocin55)
+- [Siddarth Sharma] (https://github.com/sharmasiddarth)
 - [Soyoung Baek] (https://github.com/sothdud)
 - [Sonu Asher] (https://github.com/SonuAsher)
 - [lfathh](https://github.com/lfathh)
@@ -35,6 +36,7 @@
 - TRUONG DANG MANH
 - Arman Akhmetshiev
 - Sankalp Kumar Singh
+- ADITYA ANAND PATNA (https://github.com/adit-11)
 - Tarun S. (https://github.com/Tarun-246)
 - Sanjay Kumar (https://github.com/sunny0205) 
 - [Priyanshu Kumar Pandey](https://github.com/chefcookscode)
