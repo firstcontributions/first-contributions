@@ -1,6 +1,8 @@
 # Contributors
 -[soner](https://github.com/C8338Soner/first-contributions)
 
+
+- [VINAYAK MAJHI] (https://github.com/yourvinii)
 - [Ayush Rusiya] (https://github.com/ayushrusiya9)
 - [Asad Khalid](https://github.com/Asad-K2025)
 - [Pranab Tiwari] (https://github.com/pranabtiwari)
