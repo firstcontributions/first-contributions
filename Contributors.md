@@ -1828,7 +1828,7 @@ guru
 - [Muruganandam B](https://github.com/muruga-tech)
 - [Aakash Chauhan](https://github.com/akashinedon)
 - [Gowtham V](https://github.com/gowthamvelayudham1103-pixel)
-
+- [Dan Nadel](https://github.com/nadeda01)
 
 - [Sheldon Fam](https://github.com/SheldonFam)
 - [Prathamesh Kulkarni](https://github.com/prathamk11)
