@@ -1093,6 +1093,7 @@ Naman Malik
 - [Praveer Ranjan Singh](https://github.com/PRAVEERRANJANSINGH)
 - [Pravien Powel](https://github.com/PravienPowel)
 - [Preetham001-SR](https://github.com/Preetham001-SR)
+- [Preetam Patidar](https://github.com/PreetamPatidar)
 - [Prem Chandu Palivela](https://github.com/Prem-099)
 - [Prisha Jaiswal](https://github.com/prishajaiswal75)
 - [Priya Shah](https://github.com/priiyoCoding)
