@@ -5,6 +5,7 @@
 - [Ayush Rusiya] (https://github.com/ayushrusiya9)
 - [Anshika Punase] (https://github.com/anshika-codes-AI)
 - [Asad Khalid](https://github.com/Asad-K2025)
+- [eraycetinx](https://github.com/eraycetinx)
 - [Pranab Tiwari] (https://github.com/pranabtiwari)
 - [Khushi Jaiswal] (https://github.com/Khushi84670/)
 - [Ch Vipulabhiram] (https://github.com/Vipulabhiram)
