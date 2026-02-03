@@ -1819,5 +1819,6 @@ guru
 - [Cecex](https://github.com/Cecex-git)
 - [Muruganandam B](https://github.com/muruga-tech)
 - [Aakash Chauhan](https://github.com/akashinedon)
+- [Pratiksha Kumbhar](https://github.com/CodeCaptain-pratu)
 
 
