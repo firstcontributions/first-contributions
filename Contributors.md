@@ -1818,5 +1818,5 @@ guru
 - [Cecex](https://github.com/Cecex-git)
 - [Muruganandam B](https://github.com/muruga-tech)
 - [Aakash Chauhan](https://github.com/akashinedon)
-
+- [Elieser Perez Casal](https://github.com/perezcasal91)
 
