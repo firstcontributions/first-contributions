@@ -822,6 +822,7 @@ Naman Malik
 - [Johan](https://github.com/Johan621)
 - [John Maar](https://github.com/JTylM)
 - [John Mixon](https://github.com/mixdev2112)
+- [Johnathon Sperandio](https://github.com/Johnathon-Sperandio)
 - [Jon Ayre](https://github.com/Jonalanayre)
 - [Jonatan Rosali](https://github.com/JonatanRosali)
 - [Jordan Wels](https://github.com/Jwels1)
