@@ -906,6 +906,7 @@ Naman Malik
 - [Magonborn](https://github.com/MagonBorn)
 - [Mahanthesh S](https://github.com/Mahi2708)
 - [Majid Seifi](https://github.com/majidseifi)
+- [Chuzzwazza](https://github.com/chuzzwazza)
 - [Malvin-sehmaluva-Machingura](https://github.com/sehmaluva)
 - [Manas Dodiya](https://github.com/manasdodiya)
 - [Rahul.knprdy](https://github.com/Rahulab-ux)
