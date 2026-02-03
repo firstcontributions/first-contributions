@@ -293,6 +293,7 @@ Kaushlendra
 -Abdisalam
 -Devesh
 -[Atharv Mohite](https://github.com/atharv96k)
+-[Rishita Gupta](https://github.com/RishitaGupta-0)
 - [TheKerbonaut](https://github.com/thekerbonaut)
 - [Archit Ojha](https://github.com/Archit1606)
 - [vivi214](https://github.com/vivi214)
