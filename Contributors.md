@@ -33,6 +33,7 @@
 - [Nischal Chaudhary] (https://github.com/ronnin796)
 - [Nandita Chakka](https://github.com/nanditachk)
 - [Ciro Damiano](https://github.com/gezzo)
+- [Bob Foreman] (https://github.com/bobf2000)
 - TRUONG DANG MANH
 - Arman Akhmetshiev
 - Sankalp Kumar Singh
