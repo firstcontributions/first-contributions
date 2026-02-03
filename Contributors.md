@@ -1,6 +1,7 @@
 # Contributors
 -[soner](https://github.com/C8338Soner/first-contributions)
 
+- [🔗 Armaan Singh Klair](https://github.com/ArmaanSinghKlair)
 - [Ayush Rusiya] (https://github.com/ayushrusiya9)
 - [Asad Khalid](https://github.com/Asad-K2025)
 - [Pranab Tiwari] (https://github.com/pranabtiwari)
