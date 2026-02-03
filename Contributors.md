@@ -886,6 +886,7 @@ Naman Malik
 - [Lewin](https://github.com/lewinkoon)
 - [LiBei1123](https://github.com/LiBei1123)
 - [Likhith S Gowda](https://github.com/Likhi2005)
+- [Shinya](https://github.com/shinyan1806)
 - [Lily](https://github.com/lilypandey)
 - [Liquuid1](https://github.com/Liquuid1)
 - [LiuSam](https://www.youtube.com/CommitKU)
