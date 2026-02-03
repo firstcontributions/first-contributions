@@ -1210,6 +1210,7 @@
 - [Sebastián Armas](https://github.com/Sebas-Armas)
 - [Semen Byndiu](https://github.com/bynd1u)
 - [Seul](https://github.com/seulahn)
+- [Cauã](https://github.com/Cauadeassis/)
 - [ShahabKiyani](https://github.com/shahabKiyani)
 - [Shahar Yosef](https://github.com/shaharyosef)
 - [ShaiQ Shah](https://github.com/shahshaiq)
