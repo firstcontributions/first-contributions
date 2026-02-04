@@ -25,6 +25,7 @@
 - [Abhinav Dwivedi](https://github.com/abhinavdwivedi05)
 - [Swathi Gurijala](https://github.com/swathi-gurijala)
 - [Camden Kirkpatrick](https://github.com/Camden-Kirkpatrick)
+- [Dominic](https://github.com/mozz37)
 - [Sanchana Arun](https://github.com/sanchana-arun)
 - [Harsh Dwivedi](https://github.com/TERA-USERNAME)
 - [Alfred Sjögren](https://github.com/4lfman)
