@@ -4,6 +4,8 @@
 - [Prakkhar](https://github.com/prktypes)
 - [Paola Juarez](https://github.com/pjuarezm-dev)
 - [Pheng Xiong] (https://github.com/Githero-1)
+- [Ankit Sahoo] (https://github.com/algorithnicmind)  -🌎Hello World!,Thanks for guide
+
 - [🔗 Armaan Singh Klair](https://github.com/ArmaanSinghKlair)
 - [Zhang Muen] (https://github.com/Chambers1994)
 - [Ayush Rusiya] (https://github.com/ayushrusiya9)
