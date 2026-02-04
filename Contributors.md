@@ -297,6 +297,7 @@ Kaushlendra
 - [Farisha](https://github.com/FarishaNA)
 - [Alnoor](https://github.com/Alnoormahmoud)
 - [0scrxk](https://github.com/oscrxk)
+- [Silver](https://github.com/X2127)
 - [Solomon-Prem-Sinai](https://github.com/solomon-2105)
 - [Harsh99-ops](https://github.com/Harsh99-ops)
 - [Shreecharana](https://github.com/Shreecharana24)
