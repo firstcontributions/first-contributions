@@ -319,6 +319,7 @@ Kaushlendra
 - [ASaHi Chin](https://github.com/Cxlyq)
 - [yashasvi Lamba ](https://github.com/Yashasvi767)
 -[Gthiru12](https://github.com/Gthiru12)
+- [meagantroot](https://github.com/meagantroot)
 - [Sushit Lal Pakrashy](https://github.com/Sushit-prog)
 - [Akhil R](https://github.com/A-Rjs)
 - [vismitha]
