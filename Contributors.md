@@ -1,6 +1,6 @@
 # Contributors
 -[soner](https://github.com/C8338Soner/first-contributions)
-
+- [NanashiEX] (https://github.com/NanashiEX)
 - [🔗 Armaan Singh Klair](https://github.com/ArmaanSinghKlair)
 - [Ayush Rusiya] (https://github.com/ayushrusiya9)
 - [Anshika Punase] (https://github.com/anshika-codes-AI)
