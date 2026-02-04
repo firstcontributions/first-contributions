@@ -1,6 +1,7 @@
 # Contributors
 -[soner](https://github.com/C8338Soner/first-contributions)
 
+- [Prakkhar](https://github.com/prktypes)
 - [Paola Juarez](https://github.com/pjuarezm-dev)
 - [Pheng Xiong] (https://github.com/Githero-1)
 - [🔗 Armaan Singh Klair](https://github.com/ArmaanSinghKlair)
