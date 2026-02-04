@@ -34,6 +34,7 @@
 - [Nischal Chaudhary] (https://github.com/ronnin796)
 - Srinivas Nayani
 - [Nandita Chakka](https://github.com/nanditachk)
+- [Richard Hutchinson](https://github.com/rfhutch)
 - [Ciro Damiano](https://github.com/gezzo)
 - [Bob Foreman] (https://github.com/bobf2000)
 - TRUONG DANG MANH
