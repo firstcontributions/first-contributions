@@ -1840,6 +1840,7 @@ guru
 - [Muruganandam B](https://github.com/muruga-tech)
 - [Aakash Chauhan](https://github.com/akashinedon)
 - [Gowtham V](https://github.com/gowthamvelayudham1103-pixel)
+- [James Fan](https://github.com/JamesXuFan)
 
 
 - [Sheldon Fam](https://github.com/SheldonFam)
