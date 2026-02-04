@@ -41,6 +41,7 @@
 - [Nandita Chakka](https://github.com/nanditachk)
 - [Ciro Damiano](https://github.com/gezzo)
 - [Bob Foreman] (https://github.com/bobf2000)
+- [Margo](https://github.com/lemmargo)
 - TRUONG DANG MANH
 - Arman Akhmetshiev
 -Shivani
