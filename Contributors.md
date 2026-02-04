@@ -16,6 +16,7 @@
 - [Ch Vipulabhiram] (https://github.com/Vipulabhiram)
 - [Sanjay Ganesh] (https://github.com/SanjayGanesh614)
 - [Ashad Shaikh] (https://github.com/senku0-0)
+- [Carlos Carandang] (https://github.com/CarandangC)
 - [Keerthan Jakkaraju](https://github.com/Keerthanjakkarajucodes)git sta
 - [Anshul Bhardwaj](https://github.com/Anshul-Bhardwaj-21)
 - [Anurag Banerjee](https://github.com/Banerjee2027)
@@ -41,6 +42,7 @@
 - [Nandita Chakka](https://github.com/nanditachk)
 - [Ciro Damiano](https://github.com/gezzo)
 - [Bob Foreman] (https://github.com/bobf2000)
+- [Margo](https://github.com/lemmargo)
 - TRUONG DANG MANH
 - Arman Akhmetshiev
 -Shivani
@@ -82,6 +84,7 @@
 - [Rusil Koirala](https://github.com/rusilkoirala)
 - [Jeremiah Isaacson](https://github.com/jeremiahjordanisaacson)
 - [Sanjay Baskaran](https://github.com/sanjayb-28)
+- [Marta Maia](https://github.com/martadmaia)
 - [Adnan Aftab](https://github.com/AdnanAftab1/)
 - [Paras Parte](https://github.com/parasparte12)
 - [Sharyu Patil](http://github.com/Sharyupatil01)
@@ -1855,3 +1858,4 @@ guru
 - [granada1_lnrs](https://github.com/granad1_lnrs)
 - tkc
 - [dreace1](https://github.com/dreace1)
+- jesseli123
