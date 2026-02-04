@@ -42,6 +42,7 @@
 - [Bob Foreman] (https://github.com/bobf2000)
 - TRUONG DANG MANH
 - Arman Akhmetshiev
+-Shivani
 - Sankalp Kumar Singh
 - Tarun S. (https://github.com/Tarun-246)
 - Sanjay Kumar (https://github.com/sunny0205) 
