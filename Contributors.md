@@ -1860,3 +1860,4 @@ guru
 - tkc
 - [dreace1](https://github.com/dreace1)
 - jesseli123
+- [GameDevHunterG](https://github.com/GameDevHunterG) - 🌎Hello World!
