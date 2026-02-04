@@ -51,6 +51,7 @@
 - [Kailash Parihar](https://github.com/thekailashparihar)
 - [Hasindu Udara](https://github.com/hasinduudara)
 - [Bruno Masciotta](https://github.com/masciotta02)
+- [Darpan Baviskar](https://github.com/DarpanBaviskar1)
 - [navadeep basavoju](https://github.com/navadeepbasavoju)
 - [arias] (https://github.com/aria-tec)
 - [Asad Munir](https://github.com/AsadUllah428)
