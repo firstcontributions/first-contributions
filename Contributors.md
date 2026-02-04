@@ -22,6 +22,7 @@
 - [Anurag Banerjee](https://github.com/Banerjee2027)
 - [Vedant Pai] (https://github.com/VEDANT-PAI)
 - [Jocin J] (https://github.com/Jocin55)
+- [Kushal Obroy](https://github.com/Kushalobroy)
 - [Siddarth Sharma] (https://github.com/sharmasiddarth)
 - [Soyoung Baek] (https://github.com/sothdud)
 - [Sonu Asher] (https://github.com/SonuAsher)
