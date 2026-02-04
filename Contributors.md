@@ -35,6 +35,7 @@
 - Srinivas Nayani
 - [Nandita Chakka](https://github.com/nanditachk)
 - [Richard Hutchinson](https://github.com/rfhutch)
+- [Jim Hutchinson](https://github.com//jmhutch)
 - [Ciro Damiano](https://github.com/gezzo)
 - [Bob Foreman] (https://github.com/bobf2000)
 - TRUONG DANG MANH
