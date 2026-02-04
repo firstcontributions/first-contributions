@@ -134,6 +134,7 @@
 - [mewbemonk] (https://github.com/mewbemonk)
 - [Talaptan Alikhan](https://github.com/alihnwx)
 - [Manan Vaghasiya](https://github.com/manan-vaghasiya7)
+- [Allen Tolete] (https://github.com/Sano-11)
 
 - [Tanveer Pasha S](https://github.com/TanveerpashaS)
 
