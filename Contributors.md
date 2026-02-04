@@ -1861,3 +1861,4 @@ guru
 - [dreace1](https://github.com/dreace1)
 - jesseli123
 - [GameDevHunterG](https://github.com/GameDevHunterG) - 🌎Hello World!
+- [KaniKapoor-dot](https://github.com/kanikapoor-dot) - Given enough eyeballs, all bugs are shallow.
