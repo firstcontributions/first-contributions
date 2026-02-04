@@ -39,6 +39,7 @@
 - TRUONG DANG MANH
 - Arman Akhmetshiev
 - Sankalp Kumar Singh
+- ADITYA ANAND PATNA (https://github.com/adit-11)
 - Tarun S. (https://github.com/Tarun-246)
 - Sanjay Kumar (https://github.com/sunny0205) 
 - [Priyanshu Kumar Pandey](https://github.com/chefcookscode)
