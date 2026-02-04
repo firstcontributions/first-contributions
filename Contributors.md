@@ -54,6 +54,7 @@
 - [navadeep basavoju](https://github.com/navadeepbasavoju)
 - [arias] (https://github.com/aria-tec)
 - [Asad Munir](https://github.com/AsadUllah428)
+- [Guilherme Amnesia](https://github.com/GuilhermePereiraSa)
 - Pranav Ghorpade (https://github.com/ghorpadeire)
 - [Dhanshree Patangrao](https://github.com/Dhanshree019)
 - Lynn
