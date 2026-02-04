@@ -1746,6 +1746,7 @@ guru
 -[Devendra Solanki](https://github.com/DevendraSolanki1508)
 - [Fedor Kupryakov](https://github.com/divohub)
 - [Fawaz Bello](https://github.com/Phawazz)
+- [wkr99](https://github.com/wkr99)
 - [konstantinMS](https://github.com/KonstantinMS)
 - [flashato9](https://github.com/flashato9)
 - [samuelitoo01](https://github.com/samuelitoo01)
