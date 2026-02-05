@@ -6,6 +6,7 @@
 - [Mithielesh N](https://github.com/mithielesh05)
 - [Prakkhar](https://github.com/prktypes)
 - syd_patel_o1
+- [Lucky_Gautam](https://github.com/LuckyG05)
 - [Krishan Kumar Singh](https://github.com/Krishan131)
 - [Paola Juarez](https://github.com/pjuarezm-dev)
 - [Pheng Xiong] (https://github.com/Githero-1)
