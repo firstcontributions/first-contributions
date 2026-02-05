@@ -1849,6 +1849,7 @@ guru
 - [Peter Imoh Victor](https://github.com/peterimoh)
 - [Sahil Ghag](https://github.com/Sahilghagg)
 - [Daniel Peralta](https://github.com/DDalta)
+- [Michael Ofuzor] (https://github.com/mcofuzor/first-contributions)
 - Nurbol Abu
 - [Ananya Parihar](https://github.com/ananyaparihar/first-contributions)
 - [Yesui Gankhuyag](https://github.com/yesuiabc)
@@ -1882,3 +1883,4 @@ guru
 - [maxmetodiev] (https://github.com/maxmetodiev) - Hello open source World!
 - [jest15] (https://github.com/Jest15) - Hello
 - [Nacn3] (https://github.com/Nacn3) --heello
+
