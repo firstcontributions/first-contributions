@@ -1,6 +1,6 @@
 # Contributors
 -[soner](https://github.com/C8338Soner/first-contributions)
-
+  
 - [Mithielesh N](https://github.com/mithielesh05)
 - [Prakkhar](https://github.com/prktypes)
 - [Paola Juarez](https://github.com/pjuarezm-dev)
@@ -417,7 +417,8 @@ Naman Malik
 - [Ahmed Yasir](https://github.com/ahmedyasir779)
 - [Aiman](https://github.com/PX201)
 - [piyush](https://github.com/Piyushkraj0408)
-- [Garvit Dayal] (https://github.com/garvitdayal28)
+- [Spreadneck] (https://github.com/kindofabuzz)
+[Garvit Dayal] (https://github.com/garvitdayal28)
 - [Namani Sai Charan] (https://github.com/datapath07)
 - [Takis Patatakis] (https://github.com/niou-dev)
 - [Aissatou Mbaye](https://github.com/AissatouMbaye19)
