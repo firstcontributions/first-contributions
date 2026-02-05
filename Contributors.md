@@ -853,6 +853,7 @@ Naman Malik
 - [Jose Rios](https://github.com/josel006)
 - [Jose Soto](https://github.com/jossotriv)
 - Oliver Wang
+- [Martin Chen](https://github.com/Shiyuan-Chen-17)
 - [JosephAlexander](https://github.com/Josephalexander06)
 - [Josh Jordal](https://github.com/JJordal)
 - [Joshna Jojo](https://github.com/joshnajojo12)
