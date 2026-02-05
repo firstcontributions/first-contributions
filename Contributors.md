@@ -2,6 +2,7 @@
 -[soner](https://github.com/C8338Soner/first-contributions)
 - [gavinvipe](https://github.com/gavinvipe)
 - [Ayushi Kumari] (https://github.com/Ayushi10-kumari)
+- [Aatish Kumar] (https://github.com/itzaatish) -> Hello World
 - [Mithielesh N](https://github.com/mithielesh05)
 - [Prakkhar](https://github.com/prktypes)
 - syd_patel_o1
