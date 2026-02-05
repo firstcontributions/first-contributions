@@ -9,7 +9,7 @@
 - [Zhang Muen] (https://github.com/Chambers1994)
 - [Ayush Rusiya] (https://github.com/ayushrusiya9)
 - [Muawiya Amir] (https://github.com/Muawiya-contact)
-- [Adderly Diaz Tapia] (https://github.com/adderdiazt-ad)
+- [ Adderly Diaz Tapia ] (https://github.com/adderdiazt-ad)
 - [Anshika Punase] (https://github.com/anshika-codes-AI)
 - [Zahra Williams] (https://github.com/zahrawill)
 - [Asad Khalid](https://github.com/Asad-K2025)
