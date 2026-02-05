@@ -1875,3 +1875,5 @@ guru
 - Lalit
 - [Ronak](https://github.com/roonakyadav)
 - [zs1981](https://github.com/zs1981)
+
+- Taha Zakir (GitHub: Taha786110)
