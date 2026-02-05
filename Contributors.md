@@ -1867,6 +1867,9 @@ guru
 - [imshota1009](https://github.com/imshota1009)
 - [granada1_lnrs](https://github.com/granad1_lnrs)
 - tkc
+
+[Muhammed Kans](https://github.com/Muhammedkans)
+
 - [dreace1](https://github.com/dreace1)
 - jesseli123
 - [GameDevHunterG](https://github.com/GameDevHunterG) - 🌎Hello World!
