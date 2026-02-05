@@ -7,6 +7,7 @@
 - [Paola Juarez](https://github.com/pjuarezm-dev)
 - [Pheng Xiong] (https://github.com/Githero-1)
 - [🔗 Armaan Singh Klair](https://github.com/ArmaanSinghKlair)
+- [Kelvin] (https://github.com/kelvinakp)
 - [Zhang Muen] (https://github.com/Chambers1994)
 - [Ayush Rusiya] (https://github.com/ayushrusiya9)
 - [Muawiya Amir] (https://github.com/Muawiya-contact)
