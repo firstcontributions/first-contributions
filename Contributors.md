@@ -4,6 +4,7 @@
 - [Ayushi Kumari] (https://github.com/Ayushi10-kumari)
 - [Mithielesh N](https://github.com/mithielesh05)
 - [Prakkhar](https://github.com/prktypes)
+- syd_patel_o1
 - [Paola Juarez](https://github.com/pjuarezm-dev)
 - [Pheng Xiong] (https://github.com/Githero-1)
 - [🔗 Armaan Singh Klair](https://github.com/ArmaanSinghKlair)
