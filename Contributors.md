@@ -9,6 +9,7 @@
 - [LuckyGautam](https://github.com/LuckyG05)
 - [Krishan Kumar Singh](https://github.com/Krishan131)
 - [Paola Juarez](https://github.com/pjuarezm-dev)
+- [Nowshin Arony](https://github.com/nowshinarony)
 - [Pheng Xiong] (https://github.com/Githero-1)
 - [🔗 Armaan Singh Klair](https://github.com/ArmaanSinghKlair)
 - [Zhang Muen] (https://github.com/Chambers1994)
