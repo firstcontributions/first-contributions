@@ -1888,3 +1888,4 @@ guru
 - [jest15] (https://github.com/Jest15) - Hello
 - [Nacn3] (https://github.com/Nacn3) --heello
 - [Leo Hermansson](https://github.com/jamessmith) - victoria concordia crescit
+- [Charles Gregorski](https://github.com/gregorskic-debug) - How's it going GitHub?
