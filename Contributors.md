@@ -1005,6 +1005,7 @@ Naman Malik
 - [Mikaela] (https://github.com/mickeymilch)
 - [Milhane](https://github.com/chmilhane)
 - [Mizaan Ur Rehman](https://github.com/miz2)
+- [Shahriar Sadat](https://github.com/sadats90)
 - [Webb7](https://github.com/7Webb7)
 - [Mirza Camic](https://github.com/mirzacamic)
 - [Mohamed](https://github.com/momo70139)
