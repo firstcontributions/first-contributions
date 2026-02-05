@@ -3,6 +3,7 @@
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 #### _Read this in [other languages](docs/translations/Translations.md)._
+
 <kbd>[<img title="Shqip" alt="Shqip" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/al.svg" width="22">](docs/translations/README.al.md)</kbd>
 <kbd>[<img title="Armenian" alt="Armenian" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/am.svg" width="22">](docs/translations/README.arm.md)</kbd>
 <kbd>[<img title="Uzbek" alt="Uzbek language" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/uz.svg" width="22">](docs/translations/README.uz.md)</kbd>
@@ -97,15 +98,16 @@ _If you're not comfortable with command line, [here are tutorials using GUI tool
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork the repository" />
 
-#### If you don't have git on your machine, [install it](https://docs.github.com/en/get-started/quickstart/set-up-git).
+#### If you don't have git on your machine, [install it](https://docs.github.com/en/get-started/quickstart/set-up-git)
 
 ## Fork this repository
 
-Fork this repository by clicking on the fork button on the top of this page.
-This will create a copy of this repository in your account.
+1. **Click the fork button**: At the top-right of this page, click the **Fork** button.
+2. **Select Your Account**: Choose your GitHub profile. This creates a personal copy of this project in your account.
 
 ## Clone the repository
 
+Once forked, you need to "clone" it to bring the code from GitHub to your local machine.
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone the repository" />
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button, then on SSH tab and then click the _copy url to clipboard_ icon.
@@ -113,7 +115,7 @@ Now clone the forked repository to your machine. Go to your GitHub account, open
 Open a terminal and run the following git command:
 
 ```bash
-git clone "url you just copied"
+git clone git@github.com:your-username/first-contributions.git
 ```
 
 where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
@@ -197,6 +199,7 @@ replacing `your-branch-name` with the name of the branch you created earlier.
 <summary> <strong>If you get any errors while pushing, click here:</strong> </summary>
 
 - ### Authentication Error
+
      <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
   remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
   fatal: Authentication failed for 'https://github.com/&lt;your-username&gt;/first-contributions.git/'</pre>
@@ -205,14 +208,17 @@ replacing `your-branch-name` with the name of the branch you created earlier.
   Also, you might want to run 'git remote -v' to check your remote address.
   
   If it looks anything like this:
-  <pre>origin	https://github.com/your-username/your_repo.git (fetch)
-  origin	https://github.com/your-username/your_repo.git (push)</pre>
+  <pre>origin https://github.com/your-username/your_repo.git (fetch)
+  origin https://github.com/your-username/your_repo.git (push)</pre>
   
   change it using this command:
+
   ```bash
   git remote set-url origin git@github.com:your-username/your_repo.git
   ```
+
   Otherwise you'll still get prompted for username and password and get authentication error.
+
 </details>
 
 ## Submit your changes for review
