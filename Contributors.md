@@ -72,6 +72,7 @@
 - Pranav Ghorpade (https://github.com/ghorpadeire)
 - [Dhanshree Patangrao](https://github.com/Dhanshree019)
 - Lynn
+-[sadique shaikh][https://github.com/sadikshaikh00]
 - [Imanol57864](https://github.com/Imanol57864)
 - [Anshul](https://github.com/Ayamji)
 - [Bilal Abiç](https://github.com/BilalAbic)
