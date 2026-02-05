@@ -1684,6 +1684,7 @@ guru
 - [Adrika T Kumar](https://github.com/abcd123-xyz)
 - [Sayan Dutta](https://github.com/sayan1112)
 - [Sridhar-EEE](https://github.com/sridhar-eee/)
+- [Violet Chen] (https://github.com/violetathena)
 - [Vishwaa N] (https://github.com/Vishwaa-N)
 - [peanut-butter-wafer-lover](https://github.com/peanut-butter-wafer-lover)
 - [saiteja-better](https://github.com/saiteja11407-cmd)
