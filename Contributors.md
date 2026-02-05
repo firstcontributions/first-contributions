@@ -1,6 +1,7 @@
 # Contributors
 -[soner](https://github.com/C8338Soner/first-contributions)
 
+- [Mithielesh N](https://github.com/mithielesh05)
 - [Prakkhar](https://github.com/prktypes)
 - [Paola Juarez](https://github.com/pjuarezm-dev)
 - [Pheng Xiong] (https://github.com/Githero-1)
