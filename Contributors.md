@@ -1,6 +1,6 @@
 # Contributors
 -[soner](https://github.com/C8338Soner/first-contributions)
-
+- [gavinvipe](https://github.com/gavinvipe)
 - [Ayushi Kumari] (https://github.com/Ayushi10-kumari)
 - [Mithielesh N](https://github.com/mithielesh05)
 - [Prakkhar](https://github.com/prktypes)
@@ -1874,5 +1874,6 @@ guru
 - [sethj34] (https://github.com/sethj34)
 - Lalit
 - [Ronak](https://github.com/roonakyadav)
+- [zs1981](https://github.com/zs1981)
 - [Mary Lavanitha](https://github.com/lavanitha)
 - [zs1981](https://github.com/zs1981)
