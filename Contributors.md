@@ -1898,3 +1898,4 @@ guru
 - [João Otávio Schonarth](https://github.com/joschonarth)
 - [Sabyasachi Sarangi](https://github.com/Sabyasachi2125)
 - [Akshansh Thakur](https://github.com/athakur3)
+- [Indushekar B S](https://github.com/inushekarbs)
