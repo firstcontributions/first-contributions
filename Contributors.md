@@ -10,6 +10,7 @@
 - syd_patel_o1
 - [LuckyGautam](https://github.com/LuckyG05)
 - [ZulaikhaAshiq](https://github.com/zulaikhamir)
+- [Mai1333] (https://github.com/Mai1333)
 - [Krishan Kumar Singh](https://github.com/Krishan131)
 - [Paola Juarez](https://github.com/pjuarezm-dev)
 - [Nowshin Arony](https://github.com/nowshinarony)
