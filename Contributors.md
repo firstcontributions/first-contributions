@@ -9,6 +9,7 @@
 - [Prakkhar](https://github.com/prktypes)
 - syd_patel_o1
 - [LuckyGautam](https://github.com/LuckyG05)
+- [Ridell Salema](https://github.com/ridellsalema)
 - [ZulaikhaAshiq](https://github.com/zulaikhamir)
 - [Mai1333] (https://github.com/Mai1333)
 - [Krishan Kumar Singh](https://github.com/Krishan131)
