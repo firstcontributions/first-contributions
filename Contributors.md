@@ -1,11 +1,17 @@
 # Contributors
+- [IRONMAN DEV](https://github.com/IROTECHLAB/)
 -[soner](https://github.com/C8338Soner/first-contributions)
 - [gavinvipe](https://github.com/gavinvipe)
 - [Ayushi Kumari] (https://github.com/Ayushi10-kumari)
+- [Aatish Kumar] (https://github.com/itzaatish) -> Hello World
 - [Mithielesh N](https://github.com/mithielesh05)
 - [Prakkhar](https://github.com/prktypes)
 - syd_patel_o1
+- [LuckyGautam](https://github.com/LuckyG05)
+- [ZulaikhaAshiq](https://github.com/zulaikhamir)
+- [Krishan Kumar Singh](https://github.com/Krishan131)
 - [Paola Juarez](https://github.com/pjuarezm-dev)
+- [Nowshin Arony](https://github.com/nowshinarony)
 - [Pheng Xiong] (https://github.com/Githero-1)
 - [🔗 Armaan Singh Klair](https://github.com/ArmaanSinghKlair)
 - [Zhang Muen] (https://github.com/Chambers1994)
@@ -40,6 +46,7 @@
 - [Alfred Sjögren](https://github.com/4lfman)
 - [Abdullahil Baki](https://github.com/abdullahilbaki)
 - [Yash Patel](https://github.com/WildTrio)
+- [Simon Duke](https://github.com/spsdrocks)
 - [Sanzid Ahmed](https://github.com/Sanzid-Ahmed)
 - [Avinash Mishra] (https://github.com/avinashmishra-02)
 - [Nischal Chaudhary] (https://github.com/ronnin796)
@@ -71,6 +78,7 @@
 - Pranav Ghorpade (https://github.com/ghorpadeire)
 - [Dhanshree Patangrao](https://github.com/Dhanshree019)
 - Lynn
+-[sadique shaikh][https://github.com/sadikshaikh00]
 - [Imanol57864](https://github.com/Imanol57864)
 - [Anshul](https://github.com/Ayamji)
 - [Bilal Abiç](https://github.com/BilalAbic)
@@ -198,6 +206,7 @@ Arushi Punhani
 - [yac-nixo]
 - [Prasann62](https://github.com/Prasann62)
 - [Aashi] (https:/gtihub.com/Aktagh1234)
+- [Karuna Gawai](https://github.com/zero-one1)
 - [Vivek Kumar](https://github.com/Vivek-kumar3011)
 - [Teja Chalikanti](https://github.com/tchalikanti1705)
 - [Ramesh Mummina](https://github.com/rameshmummina7)
@@ -791,6 +800,7 @@ Naman Malik
 - [Ian McManus](https://github.com/ianmcman)
 - [Igor Balić](https://github.com/Iggy2399)
 - [Iliiasik](https://github.com/Iliiasik)
+- [Ismail Z]()
 - [Imam](https://github.com/Shaik-36)
 - [Inengiye Emmanuel](https://github.com/Inengs)
 - [Intedai](https://github.com/Intedai)
@@ -1000,6 +1010,7 @@ Naman Malik
 - [Mikaela] (https://github.com/mickeymilch)
 - [Milhane](https://github.com/chmilhane)
 - [Mizaan Ur Rehman](https://github.com/miz2)
+- [Shahriar Sadat](https://github.com/sadats90)
 - [Webb7](https://github.com/7Webb7)
 - [Mirza Camic](https://github.com/mirzacamic)
 - [Mohamed](https://github.com/momo70139)
@@ -1489,6 +1500,7 @@ guru
 - [happypepii](https://github.com/happypepii)
 - [hectoru10](https://github.com/Hectoru10)
 - [H S](https://github.com/Hima3590)
+- [APC](https://github.com/achamberlain04)
 - [hey bro](https://github.com/heybro123)
 - [hmdaslam97](https://github.com/hmdaslam97)
 - [hridyam04](https://github.com/hridyam04)
@@ -1878,5 +1890,11 @@ guru
 - [Mary Lavanitha](https://github.com/lavanitha)
 - [zs1981](https://github.com/zs1981)
 - [maxmetodiev] (https://github.com/maxmetodiev) - Hello open source World!
-- - [Agnus Paul](https://github.com/agnuspaul98)
+- [Agnus Paul](https://github.com/agnuspaul98)
 
+- [jest15] (https://github.com/Jest15) - Hello
+- [Nacn3] (https://github.com/Nacn3) --heello
+- [Leo Hermansson](https://github.com/jamessmith) - victoria concordia crescit
+- [Charles Gregorski](https://github.com/gregorskic-debug) - How's it going GitHub?
+- [João Otávio Schonarth](https://github.com/joschonarth)
+- [Sabyasachi Sarangi](https://github.com/Sabyasachi2125)
