@@ -1894,3 +1894,4 @@ guru
 - [Charles Gregorski](https://github.com/gregorskic-debug) - How's it going GitHub?
 - [João Otávio Schonarth](https://github.com/joschonarth)
 - [Sabyasachi Sarangi](https://github.com/Sabyasachi2125)
+- [Anshuman Singh](https://github.com/anshs4096)
