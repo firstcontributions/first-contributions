@@ -1,4 +1,5 @@
 # Contributors
+- [Luis Ruvalcaba](https://github.com/luisruval)
 - [IRONMAN DEV](https://github.com/IROTECHLAB/)
 -[soner](https://github.com/C8338Soner/first-contributions)
 - [Aditya Gupta](https://github.com/AdityaSG4/)
@@ -200,7 +201,6 @@
 Arushi Punhani
 - [oona34](https://github.com/oona34)
 - [kub5on](https://github.com/kub5on)
-- [Luis Ruvalcaba](https://github.com/luisruval)
 - [Manvendra Kumar](https://github.com/Manvendra0023)
 - [Abhinav Dwivedi](https://github.com/abhinavdwivedi05)
 - [Shravani Kurkute](https://github.com/Shravani-kurkute)sss
