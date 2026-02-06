@@ -30,7 +30,8 @@
 - [Sanjay Ganesh] (https://github.com/SanjayGanesh614)
 - [Ashad Shaikh] (https://github.com/senku0-0)
 - [Harshathan] (https://github.com/harshathan028)
-- [Keerthan Jakkaraju](https://github.com/Keerthanjakkarajucodes)git sta
+- [Keerthan Jakkaraju](https://github.com/Keerthanjakkarajucodes)
+- [Aashka Rawal] (http://github.com/aashka-05)
 - [Anshul Bhardwaj](https://github.com/Anshul-Bhardwaj-21)
 - [Anurag Banerjee](https://github.com/Banerjee2027)
 - [Vedant Pai] (https://github.com/VEDANT-PAI)
