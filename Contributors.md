@@ -1,6 +1,7 @@
 # Contributors
 -[soner](https://github.com/C8338Soner/first-contributions)
 - [gavinvipe](https://github.com/gavinvipe)
+- bushixing
 - [Ayushi Kumari] (https://github.com/Ayushi10-kumari)
 - [Aatish Kumar] (https://github.com/itzaatish) -> Hello World
 - [Mithielesh N](https://github.com/mithielesh05)
