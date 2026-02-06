@@ -7,7 +7,7 @@
 - [Aatish Kumar] (https://github.com/itzaatish) -> Hello World
 - [Mithielesh N](https://github.com/mithielesh05)
 - [Prakkhar](https://github.com/prktypes)
-- syd_patel_o1
+- [justsahitya](https://github.com/just-sahitya/first-contributions.git)
 - [LuckyGautam](https://github.com/LuckyG05)
 - [ZulaikhaAshiq](https://github.com/zulaikhamir)
 - [Mai1333] (https://github.com/Mai1333)
