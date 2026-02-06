@@ -1890,3 +1890,4 @@ guru
 - [Nacn3] (https://github.com/Nacn3) --heello
 - [Leo Hermansson](https://github.com/jamessmith) - victoria concordia crescit
 - [Charles Gregorski](https://github.com/gregorskic-debug) - How's it going GitHub?
+- [João Otávio Schonarth](https://github.com/joschonarth)
