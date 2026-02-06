@@ -1831,6 +1831,7 @@ guru
 - [D.Nandi](https://github.com/Debraj2024)
 - [Falous-dev](https://github.com/Falous-dev)
 - [Pooja](https://github.com/poojasounder)
+- [P-nishant](https://github.com/P-nishant)
 - [Walusungu24](https://github.com/Walusungu24)
 - [Gokulram S](https://github.com/Gokulram7)
 - [Pablo Souza](https://github.com/pablohsouza09)
