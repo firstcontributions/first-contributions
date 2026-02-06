@@ -52,6 +52,7 @@
 - [Nischal Chaudhary] (https://github.com/ronnin796)
 - Srinivas Nayani
 - [Nandita Chakka](https://github.com/nanditachk)
+- [Karan Rai](https://github.com/Karan-259)
 - [Ciro Damiano](https://github.com/gezzo)
 - [Bob Foreman] (https://github.com/bobf2000)
 - [Margo](https://github.com/lemmargo)
