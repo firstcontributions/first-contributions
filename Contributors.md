@@ -1783,6 +1783,7 @@ guru
 - [Ibrahim Oloyede](https://github.com/Mista-Log)
 - [Ruchita Jadhav](https://github.com/ruchita-mlcraft)
 - [Suchi Shukla](https://github.com/Suchi1905)
+- [DarkWizard](https://github.com/DarkWizard5513)
 -[Devendra Solanki](https://github.com/DevendraSolanki1508)
 - [Fedor Kupryakov](https://github.com/divohub)
 - [Fawaz Bello](https://github.com/Phawazz)
