@@ -1,4 +1,5 @@
 # Contributors
+- [IRONMAN DEV](https://github.com/IROTECHLAB/)
 -[soner](https://github.com/C8338Soner/first-contributions)
 - [gavinvipe](https://github.com/gavinvipe)
 - [Ayushi Kumari] (https://github.com/Ayushi10-kumari)
@@ -7,6 +8,7 @@
 - [Prakkhar](https://github.com/prktypes)
 - syd_patel_o1
 - [LuckyGautam](https://github.com/LuckyG05)
+- [ZulaikhaAshiq](https://github.com/zulaikhamir)
 - [Krishan Kumar Singh](https://github.com/Krishan131)
 - [Paola Juarez](https://github.com/pjuarezm-dev)
 - [Nowshin Arony](https://github.com/nowshinarony)
@@ -94,6 +96,7 @@
 - [Rajdip](https://github.com/Rajdip1)
 - [Tinku Shekhar Das](https://github.com/codeByTinku)
 - [Andres Aponte](https://github.com/angiovanny) 
+- [Suvani Basnet](https://github.com/suvani-ctrl)
 - [Rusil Koirala](https://github.com/rusilkoirala)
 - [Jeremiah Isaacson](https://github.com/jeremiahjordanisaacson)
 - [Sanjay Baskaran](https://github.com/sanjayb-28)
@@ -798,6 +801,7 @@ Naman Malik
 - [Ian McManus](https://github.com/ianmcman)
 - [Igor Balić](https://github.com/Iggy2399)
 - [Iliiasik](https://github.com/Iliiasik)
+- [Ismail Z]()
 - [Imam](https://github.com/Shaik-36)
 - [Inengiye Emmanuel](https://github.com/Inengs)
 - [Intedai](https://github.com/Intedai)
@@ -1893,3 +1897,5 @@ guru
 - [Leo Hermansson](https://github.com/jamessmith) - victoria concordia crescit
 - [Charles Gregorski](https://github.com/gregorskic-debug) - How's it going GitHub?
 - [João Otávio Schonarth](https://github.com/joschonarth)
+- [Sabyasachi Sarangi](https://github.com/Sabyasachi2125)
+- [Akshansh Thakur](https://github.com/athakur3)
