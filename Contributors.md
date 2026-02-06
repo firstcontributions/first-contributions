@@ -798,6 +798,7 @@ Naman Malik
 - [Ian McManus](https://github.com/ianmcman)
 - [Igor Balić](https://github.com/Iggy2399)
 - [Iliiasik](https://github.com/Iliiasik)
+- [Ismail Z]()
 - [Imam](https://github.com/Shaik-36)
 - [Inengiye Emmanuel](https://github.com/Inengs)
 - [Intedai](https://github.com/Intedai)
