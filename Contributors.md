@@ -1880,5 +1880,4 @@ guru
 - [zs1981](https://github.com/zs1981)
 - [maxmetodiev] (https://github.com/maxmetodiev) - Hello open source World!
 - [jest15] (https://github.com/Jest15) - Hello
-- [Mohan Prasath P] (<<<<<<< add-MP
 - [Mohan Prasath P](https://github.com/mohanprasath-dev))
