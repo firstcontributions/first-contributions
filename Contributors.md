@@ -7,6 +7,7 @@
 - [Prakkhar](https://github.com/prktypes)
 - syd_patel_o1
 - [LuckyGautam](https://github.com/LuckyG05)
+- [ZulaikhaAshiq](https://github.com/zulaikhamir)
 - [Krishan Kumar Singh](https://github.com/Krishan131)
 - [Paola Juarez](https://github.com/pjuarezm-dev)
 - [Nowshin Arony](https://github.com/nowshinarony)
