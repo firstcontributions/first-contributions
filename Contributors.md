@@ -6,7 +6,10 @@
 - [Mithielesh N](https://github.com/mithielesh05)
 - [Prakkhar](https://github.com/prktypes)
 - syd_patel_o1
+- [LuckyGautam](https://github.com/LuckyG05)
+- [Krishan Kumar Singh](https://github.com/Krishan131)
 - [Paola Juarez](https://github.com/pjuarezm-dev)
+- [Nowshin Arony](https://github.com/nowshinarony)
 - [Pheng Xiong] (https://github.com/Githero-1)
 - [🔗 Armaan Singh Klair](https://github.com/ArmaanSinghKlair)
 - [Zhang Muen] (https://github.com/Chambers1994)
@@ -41,6 +44,7 @@
 - [Alfred Sjögren](https://github.com/4lfman)
 - [Abdullahil Baki](https://github.com/abdullahilbaki)
 - [Yash Patel](https://github.com/WildTrio)
+- [Simon Duke](https://github.com/spsdrocks)
 - [Sanzid Ahmed](https://github.com/Sanzid-Ahmed)
 - [Avinash Mishra] (https://github.com/avinashmishra-02)
 - [Nischal Chaudhary] (https://github.com/ronnin796)
@@ -72,6 +76,7 @@
 - Pranav Ghorpade (https://github.com/ghorpadeire)
 - [Dhanshree Patangrao](https://github.com/Dhanshree019)
 - Lynn
+-[sadique shaikh][https://github.com/sadikshaikh00]
 - [Imanol57864](https://github.com/Imanol57864)
 - [Anshul](https://github.com/Ayamji)
 - [Bilal Abiç](https://github.com/BilalAbic)
@@ -1002,6 +1007,7 @@ Naman Malik
 - [Mikaela] (https://github.com/mickeymilch)
 - [Milhane](https://github.com/chmilhane)
 - [Mizaan Ur Rehman](https://github.com/miz2)
+- [Shahriar Sadat](https://github.com/sadats90)
 - [Webb7](https://github.com/7Webb7)
 - [Mirza Camic](https://github.com/mirzacamic)
 - [Mohamed](https://github.com/momo70139)
@@ -1491,6 +1497,7 @@ guru
 - [happypepii](https://github.com/happypepii)
 - [hectoru10](https://github.com/Hectoru10)
 - [H S](https://github.com/Hima3590)
+- [APC](https://github.com/achamberlain04)
 - [hey bro](https://github.com/heybro123)
 - [hmdaslam97](https://github.com/hmdaslam97)
 - [hridyam04](https://github.com/hridyam04)
@@ -1882,4 +1889,7 @@ guru
 - [maxmetodiev] (https://github.com/maxmetodiev) - Hello open source World!
 - [jest15] (https://github.com/Jest15) - Hello
 - [Nacn3] (https://github.com/Nacn3) --heello
-- [PANDA] (https://github.com/nikh27)
+- [Nikhil Pandey] (https://github.com/nikh27) Be Panda
+- [Leo Hermansson](https://github.com/jamessmith) - victoria concordia crescit
+- [Charles Gregorski](https://github.com/gregorskic-debug) - How's it going GitHub?
+- [João Otávio Schonarth](https://github.com/joschonarth)
