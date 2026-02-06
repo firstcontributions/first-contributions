@@ -1249,6 +1249,7 @@ Naman Malik
 - [Rachel Hart](https://github.com/rachelmayhart/)
 - [Schaaz-Ahmad-Kazmi](https://github.com/Schaaz)
 - [Sebastián Armas](https://github.com/Sebas-Armas)
+- [Akhilesh](https://github.com/Akhilesh-Varute)
 - [Semen Byndiu](https://github.com/bynd1u)
 - [Seul](https://github.com/seulahn)
 - [ShahabKiyani](https://github.com/shahabKiyani)
