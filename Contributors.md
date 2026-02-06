@@ -96,6 +96,7 @@
 - [Rajdip](https://github.com/Rajdip1)
 - [Tinku Shekhar Das](https://github.com/codeByTinku)
 - [Andres Aponte](https://github.com/angiovanny) 
+- [Suvani Basnet](https://github.com/suvani-ctrl)
 - [Rusil Koirala](https://github.com/rusilkoirala)
 - [Jeremiah Isaacson](https://github.com/jeremiahjordanisaacson)
 - [Sanjay Baskaran](https://github.com/sanjayb-28)
