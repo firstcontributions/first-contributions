@@ -1914,3 +1914,4 @@ guru
 - [Vishnupriya Shisode](https://github.com/vishnupriya-shisode)
 - [Varad Kottawar](https://github.com/Varad02)
 - [Amisha Kumari](https://github.com/amisha6870)
+- [Rúben Leonardo](https://github.com/rleonardo93)
