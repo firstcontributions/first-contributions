@@ -4,7 +4,8 @@
 - [Aditya Gupta](https://github.com/AdityaSG4/)
 - [gavinvipe](https://github.com/gavinvipe)
 - [Ayushi Kumari] (https://github.com/Ayushi10-kumari)
-- [Aatish Kumar] (https://github.com/itzaatish) -> Hello World -[cgarciadev] (https://github.com/CarlosGarciaPerez/)
+- [Aatish Kumar] (https://github.com/itzaatish) -> Hello World
+- [cgarciadev] (https://github.com/CarlosGarciaPerez/)
 - [Mithielesh N](https://github.com/mithielesh05)
 - [Prakkhar](https://github.com/prktypes)
 - syd_patel_o1
