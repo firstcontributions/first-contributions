@@ -7,6 +7,7 @@
 - [Ayushi Kumari] (https://github.com/Ayushi10-kumari)
 - [Aatish Kumar] (https://github.com/itzaatish) -> Hello World
 - [Mithielesh N](https://github.com/mithielesh05)
+- [Mohammad Afsar] (https://github.com/Afsar0217)
 - [Prakkhar](https://github.com/prktypes)
 - syd_patel_o1
 - [LuckyGautam](https://github.com/LuckyG05)
