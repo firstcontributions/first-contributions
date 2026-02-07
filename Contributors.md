@@ -1,6 +1,7 @@
 # Contributors
-- [Khujrat Shaikh](https://github.com/khujrat17) 🌐 .NET Foundation Member 
+
 -[Harish kandi] (https://github.com/kandiharish/)
+- [Khujrat Shaikh](https://github.com/khujrat17) 🌐 .NET Foundation Member 
 - [Sijomon P S] (https://github.com/sijomonps)
 - [gililo] (https://github.com/gililo)
 - [IRONMAN DEV](https://github.com/IROTECHLAB/)
