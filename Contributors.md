@@ -15,6 +15,7 @@
 - [Prakkhar](https://github.com/prktypes)
 - [Ishan Shrestha](https://github.com/Pin3appl3ishan)
 - syd_patel_o1
+- Fathima
 - [LuckyGautam](https://github.com/LuckyG05)
 - [Ridell Salema](https://github.com/ridellsalema)
 - [ZulaikhaAshiq](https://github.com/zulaikhamir)
