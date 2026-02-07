@@ -10,7 +10,7 @@
 - [Mithielesh N](https://github.com/mithielesh05)
 - [Mohammad Afsar] (https://github.com/Afsar0217)
 - [Prakkhar](https://github.com/prktypes)
-- syd_patel_o1
+- [justsahitya](https://github.com/just-sahitya/first-contributions.git)
 - [LuckyGautam](https://github.com/LuckyG05)
 - [Ridell Salema](https://github.com/ridellsalema)
 - [ZulaikhaAshiq](https://github.com/zulaikhamir)
