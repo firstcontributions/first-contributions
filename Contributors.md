@@ -55,6 +55,7 @@
 - [Camden Kirkpatrick](https://github.com/Camden-Kirkpatrick)
 - [Dominic](https://github.com/mozz37)
 - [Sanchana Arun](https://github.com/sanchana-arun)
+- [vivel-blenderlab](https://github.com/vivek-blenderlab)
 - [Harsh Dwivedi](https://github.com/TERA-USERNAME)
 - [Alfred Sjögren](https://github.com/4lfman)
 - [Abdullahil Baki](https://github.com/abdullahilbaki)
