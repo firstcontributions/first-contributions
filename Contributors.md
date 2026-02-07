@@ -997,6 +997,7 @@ Naman Malik
 - [Maxi Rebolo](https://github.com/MaxiR23)
 - [Gabriel McKay](https://github.com/Gobrielm)
 - [MayLeaf](https://github.com/may-leaf)
+- [Mesfin Getahun](https://github.com/Mesfin-Getahun)
 - [Mayank Ghildiyal](https://github.com/mayank2699)
 - [Carlos Mercado](https://github.com/carlos-mercado)
 - [MayurHedau](https://github.com/mayurdweek)
