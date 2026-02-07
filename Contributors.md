@@ -4,6 +4,7 @@
 - [Khujrat Shaikh](https://github.com/khujrat17) 🌐 .NET Foundation Member 
 - [Sijomon P S] (https://github.com/sijomonps)
 - [gililo] (https://github.com/gililo)
+- [S Hajare](https://github.com/swapnil-s-h)
 - [IRONMAN DEV](https://github.com/IROTECHLAB/)
 -[soner](https://github.com/C8338Soner/first-contributions)
 - [Aditya Gupta](https://github.com/AdityaSG4/)
