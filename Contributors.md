@@ -56,6 +56,7 @@
 - [lfathh](https://github.com/lfathh)
 - [Abhinav Dwivedi](https://github.com/abhinavdwivedi05)
 - [Swathi Gurijala](https://github.com/swathi-gurijala)
+- [Akshaya M](https://github.com/Akshaya-0503)
 - [Camden Kirkpatrick](https://github.com/Camden-Kirkpatrick)
 - [Dominic](https://github.com/mozz37)
 - [Sanchana Arun](https://github.com/sanchana-arun)
