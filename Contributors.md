@@ -6,6 +6,7 @@
 - [gililo] (https://github.com/gililo)
 - [IRONMAN DEV](https://github.com/IROTECHLAB/)
 -[soner](https://github.com/C8338Soner/first-contributions)
+-[Wizard codes]
 - [Aditya Gupta](https://github.com/AdityaSG4/)
 - [gavinvipe](https://github.com/gavinvipe)
 - [Ayushi Kumari] (https://github.com/Ayushi10-kumari)
