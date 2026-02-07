@@ -1,4 +1,5 @@
 # Contributors
+- [gililo] (https://github.com/gililo)
 - [IRONMAN DEV](https://github.com/IROTECHLAB/)
 -[soner](https://github.com/C8338Soner/first-contributions)
 - [Aditya Gupta](https://github.com/AdityaSG4/)
@@ -13,6 +14,7 @@
 - [ZulaikhaAshiq](https://github.com/zulaikhamir)
 - [Mai1333] (https://github.com/Mai1333)
 - [Krishan Kumar Singh](https://github.com/Krishan131)
+- [Ashwin Kapile](https://github.com/Ashking07)
 - [Paola Juarez](https://github.com/pjuarezm-dev)
 - [Nowshin Arony](https://github.com/nowshinarony)
 - [Pheng Xiong] (https://github.com/Githero-1)
@@ -26,6 +28,7 @@
 - [Asad Khalid](https://github.com/Asad-K2025)
 - [eraycetinx](https://github.com/eraycetinx)
 - [Pranab Tiwari] (https://github.com/pranabtiwari)
+- [Danny Palacios] (https://github.com/DannyAIX)
 - [Khushi Jaiswal] (https://github.com/Khushi84670/)
 - [Ch Vipulabhiram] (https://github.com/Vipulabhiram)
 - [Sanjay Ganesh] (https://github.com/SanjayGanesh614)
@@ -600,6 +603,7 @@ Naman Malik
 - [Capri Caviedes](https://github.com/caprivm)
 - [CaraMcG](https://github.com/caraMcG)
 - [Carburio](https://github.com/Carburio)
+- [Budloaf] (https://github.com/Budloaf)
 - [Ahmad Zia](https://github.com/Ahmad-Zia10)
 - [Carina Mach](https://github.com/carinamach)
 - [Carlos FH](https://github.com/carlosfhz13)
@@ -1911,3 +1915,4 @@ guru
 - [Varad Kottawar](https://github.com/Varad02)
 - [Amisha Kumari](https://github.com/amisha6870)
 - [Hitto209](https://github.com/Hitto209) - Goodmorning Starshine the earth says hello. 
+- [Rúben Leonardo](https://github.com/rleonardo93)
