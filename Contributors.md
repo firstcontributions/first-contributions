@@ -443,6 +443,7 @@
 - [Pratham Muley](https://github.com/Pratham19106)
 - [Jason Wiggs](https://github.com/wiggs30)
 - [Jayasree G Kalkura](https://github.com/jayasree1805)
+- [Ashigaraj](https://github.com/ashigaraj)
 - [Vaibhav Katyal](https://github.com/vaibhav-katyal)
 - [Swarnavo Majumder](https://github.com/Swarnavo2003)
 - [Elyas Shamal](https://github.com/ElyasShamal)
