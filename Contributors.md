@@ -11,6 +11,7 @@
 - [Mithielesh N](https://github.com/mithielesh05)
 - [Mohammad Afsar] (https://github.com/Afsar0217)
 - [Prakkhar](https://github.com/prktypes)
+- [Ishan Shrestha](https://github.com/Pin3appl3ishan)
 - syd_patel_o1
 - [LuckyGautam](https://github.com/LuckyG05)
 - [Ridell Salema](https://github.com/ridellsalema)
