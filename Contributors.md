@@ -38,6 +38,7 @@
 - [Ashad Shaikh] (https://github.com/senku0-0)
 - [Harshathan] (https://github.com/harshathan028)
 - [Keerthan Jakkaraju](https://github.com/Keerthanjakkarajucodes)git sta
+- [Ishrak Saleh Chowdhury](https://github.com/Ishrak-Saleh)
 - [Anshul Bhardwaj](https://github.com/Anshul-Bhardwaj-21)
 - [Anurag Banerjee](https://github.com/Banerjee2027)
 - [Vedant Pai] (https://github.com/VEDANT-PAI)
