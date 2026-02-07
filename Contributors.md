@@ -1941,5 +1941,6 @@ guru
 - [Anshu Prakash](https://github.com/anshujod)
 contribution by arshi
 - [Harini Elamurugan](https://github.com/HariniElamurugan)
+- [Ids3000](https://github.com/Ids3000) - Hi everyone! Thank you for taking the time to add Ids3000's first contribution.
 - [Chaitanya Jumale](https://github.com/chaitanyajumale) - Hello World!
 
