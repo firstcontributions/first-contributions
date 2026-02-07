@@ -17,6 +17,7 @@
 - [Ishan Shrestha](https://github.com/Pin3appl3ishan)
 - syd_patel_o1
 - Fathima
+- [Manny Lazalde](https://github.com/mannylazalde)
 - [LuckyGautam](https://github.com/LuckyG05)
 - [Ridell Salema](https://github.com/ridellsalema)
 - [ZulaikhaAshiq](https://github.com/zulaikhamir)
