@@ -19,6 +19,7 @@
 - [Nowshin Arony](https://github.com/nowshinarony)
 - [Pheng Xiong] (https://github.com/Githero-1)
 - [🔗 Armaan Singh Klair](https://github.com/ArmaanSinghKlair)
+- [Kelvin] (https://github.com/kelvinakp)
 - [Zhang Muen] (https://github.com/Chambers1994)
 - [Ayush Rusiya] (https://github.com/ayushrusiya9)
 - [Muawiya Amir] (https://github.com/Muawiya-contact)
@@ -254,7 +255,8 @@ Amir Osman
   [Zarfishan Ali](https://github.com/zarfishan20)
 - [Cheril Gracenciya](https://github.com/cherry16grace)
 - [Abdul Qadeer Shah](https://github.com/shahSpider)
-sathish
+Sathish
+- [Kelvin] (https://github.com/kelvinakp)
 - [Karthik Reddy](https://github.com/KarthikReddy1999)
 - [Krsna] (https://github.com/oneKrsna)
 - [Lakshmipriya Sivashanmugam](https://github.com/Lakssiva)
