@@ -17,6 +17,7 @@
 - [Ashwin Kapile](https://github.com/Ashking07)
 - [Paola Juarez](https://github.com/pjuarezm-dev)
 - [Nowshin Arony](https://github.com/nowshinarony)
+- [Aashka Rawal] (https://github.com/aashka-05)
 - [Pheng Xiong] (https://github.com/Githero-1)
 - [🔗 Armaan Singh Klair](https://github.com/ArmaanSinghKlair)
 - [Zhang Muen] (https://github.com/Chambers1994)
