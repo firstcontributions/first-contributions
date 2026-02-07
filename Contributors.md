@@ -14,7 +14,7 @@
 - [LuckyGautam](https://github.com/LuckyG05)
 - [Ridell Salema](https://github.com/ridellsalema)
 - [ZulaikhaAshiq](https://github.com/zulaikhamir)
-- [Mai1333] (https://github.com/Mai1333)
+- [Mai1333] (https://github.com/Mai1333)ributors
 - [Krishan Kumar Singh](https://github.com/Krishan131)
 - [Ashwin Kapile](https://github.com/Ashking07)
 - [Paola Juarez](https://github.com/pjuarezm-dev)
