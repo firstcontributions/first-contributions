@@ -1,5 +1,5 @@
 # Contributors
-
+-[Mudassir Alladatkhan](https://github.com/mudassiralladatkhan)
 -[Kruthikh](https://github.com/kruthikh)
 -[Maheen Fatima](https://github.com/MaheenGitHub)
 -[Muhammad Anees](https://github.com/anees7757)
