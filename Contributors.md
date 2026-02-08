@@ -1662,6 +1662,7 @@ guru
 - [tusharsoni52](https://github.com/tusharsoni52)
 - [tylerhoh](https://github.com/tylerhoh)
 - [urkwr](https://github.com/urkwr)
+- [anthonejc](https://github.com/anthonejc) Hello!!
 - [Utkrist](https://github.com/CloudFlamedev)
 - [uzuraDev](https://github.com/uzuraDev)
 - [valentinfazenda](https://github.com/valentinfazenda)
