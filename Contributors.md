@@ -14,6 +14,7 @@
 - [Ayushi Kumari] (https://github.com/Ayushi10-kumari)
 - [Aatish Kumar] (https://github.com/itzaatish) -> Hello World
 - [Mithielesh N](https://github.com/mithielesh05)
+- [Hurricane75](https://github.com/Simonchila)
 - [Mohammad Afsar] (https://github.com/Afsar0217)
 - [Prakkhar](https://github.com/prktypes)
 - [Ishan Shrestha](https://github.com/Pin3appl3ishan)
