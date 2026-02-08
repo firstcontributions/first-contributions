@@ -784,6 +784,7 @@ Naman Malik
 - [Gregory Williams II](https://github.com/gwilli2)
 - [Gxelol](https://github.com/Gxelol)
 - [Ganesh karanam](https://github.com/Ganesh-Karanam)
+- [Gasto Titus Fungo](https://github.com/gasto200)
 - [Hafsa Irfan](https://github.com/hafxa)
 - [HaidarAbbas](https://github.com/Haidarabbas731)
 - [sbdurbs]
