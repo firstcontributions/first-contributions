@@ -182,7 +182,6 @@
 - [Allen Tolete] (https://github.com/Sano-11)
 
 - [Tanveer Pasha S](https://github.com/TanveerpashaS)
-- [Tony Vue] (https://github.com/TonyV04) Hey everyone!
 -[Manu](https://github.com/ManashaaU)
 
 - [Saqlain Sultan](https://github.com/saqlain991)
@@ -1948,3 +1947,4 @@ contribution by arshi
 - [Hafiz Ishtiaq](https://github.com/Ishtiaq-Codes) Thanks!
 - [Gyan Prakash](https://github.com/Gyanprakash136)
 
+- [Tony Vue] (https://github.com/TonyV04) Hey everyone!
