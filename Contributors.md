@@ -2,9 +2,8 @@
 
 -[Kruthikh](https://github.com/kruthikh)
 -[Muhammad Anees](https://github.com/anees7757)
--[Anita Lo](https://github.com/AnitaHome/first-contributions)
+-[Anita HOME](https://github.com/AnitaHome/first-contributions)
 -[Vaishnav Kedar](https://github.com/vaishnavk09)
--[Anita](https://github.com/AnitaHome)
 -[Harish kandi] (https://github.com/kandiharish/)
 - [Khujrat Shaikh](https://github.com/khujrat17) 🌐 .NET Foundation Member 
 - [Sijomon P S] (https://github.com/sijomonps)
