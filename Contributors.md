@@ -1,5 +1,5 @@
 # Contributors
-
+-[ Pranav Khaire ](https://github.com/Pranav77722)
 -[Kruthikh](https://github.com/kruthikh)
 -[Maheen Fatima](https://github.com/MaheenGitHub)
 -[Muhammad Anees](https://github.com/anees7757)
