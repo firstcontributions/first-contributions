@@ -1,8 +1,8 @@
 # Contributors
--[Mudassir Alladatkhan](https://github.com/mudassiralladatkhan)
 -[Kruthikh](https://github.com/kruthikh)
 -[Maheen Fatima](https://github.com/MaheenGitHub)
 -[Muhammad Anees](https://github.com/anees7757)
+-[Mudassir Alladatkhan](https://github.com/mudassiralladatkhan)
 -[Anita Lo](https://github.com/AnitaHome/first-contributions)
 -[Vaishnav Kedar](https://github.com/vaishnavk09)
 -[Anita](https://github.com/AnitaHome)
