@@ -1396,6 +1396,7 @@ Naman Malik
 - [Tushar Qwerty](https://github.com/tushar743-ui)
 - [Tyler Daw](https://github.com/TylerD1105)
 - [Udhaya parameshwaran](https://github.com/UdhayaParameshwaran-ai)
+- [Unigmos](https://github.com/Unigmos)
 - [Utkarsh Gupta](https://github.com/utkarshg9981)
 - [Utkarsh Doras](https://github.com/UtkarshKD)
 - [1828](https://github.com/18-28)
