@@ -97,6 +97,7 @@
 - [raining-night](https://github.com/raining-night)
 - [whatwant](https://github.com/whatwant)
 - [Tanush Bhootra](https://github.com/Tanush576)
+- [saitejaroyal-tech](https://github.com/saitejaroyal-tech)
 - [Kailash Parihar](https://github.com/thekailashparihar)
 - [Hasindu Udara](https://github.com/hasinduudara)
 - [Bruno Masciotta](https://github.com/masciotta02)
