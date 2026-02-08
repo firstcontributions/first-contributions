@@ -1,5 +1,6 @@
 # Contributors
 
+-[Muhammad Anees](https://github.com/anees7757)
 -[Vaishnav Kedar](https://github.com/vaishnavk09)
 -[Harish kandi] (https://github.com/kandiharish/)
 - [Khujrat Shaikh](https://github.com/khujrat17) 🌐 .NET Foundation Member 
@@ -14,6 +15,7 @@
 - [Ayushi Kumari] (https://github.com/Ayushi10-kumari)
 - [Aatish Kumar] (https://github.com/itzaatish) -> Hello World
 - [Mithielesh N](https://github.com/mithielesh05)
+- [Hurricane75](https://github.com/Simonchila)
 - [Mohammad Afsar] (https://github.com/Afsar0217)
 - [Prakkhar](https://github.com/prktypes)
 - [Ishan Shrestha](https://github.com/Pin3appl3ishan)
