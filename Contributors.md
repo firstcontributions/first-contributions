@@ -1649,6 +1649,7 @@ guru
 - [tusharsoni52](https://github.com/tusharsoni52)
 - [tylerhoh](https://github.com/tylerhoh)
 - [urkwr](https://github.com/urkwr)
+- [anthonejc](https://github.com/anthonejc) Hello!!
 - [Utkrist](https://github.com/CloudFlamedev)
 - [uzuraDev](https://github.com/uzuraDev)
 - [valentinfazenda](https://github.com/valentinfazenda)
@@ -1953,4 +1954,3 @@ contribution by arshi
 - [Hafiz Ishtiaq](https://github.com/Ishtiaq-Codes) Thanks!
 - [Gyan Prakash](https://github.com/Gyanprakash136)
 - Nabanita Borah
-
