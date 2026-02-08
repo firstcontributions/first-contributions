@@ -1947,4 +1947,4 @@ contribution by arshi
 - [Katie Haasch](https://github.com/KHaasch) Hello everyone! This is my FIRST contribution. 
 - [Hafiz Ishtiaq](https://github.com/Ishtiaq-Codes) Thanks!
 - [Gyan Prakash](https://github.com/Gyanprakash136)
-
+- [Josh Johnson](https://github.com/joshcuh) The Charlette Hornets are on a 9 game win streak RN, There the best team in the league, argue with a wall, lebrons still not better then jordan. based.
