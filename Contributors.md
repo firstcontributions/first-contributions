@@ -1,6 +1,7 @@
 # Contributors
 
 -[Kruthikh](https://github.com/kruthikh)
+-[Maheen Fatima](https://github.com/MaheenGitHub)
 -[Muhammad Anees](https://github.com/anees7757)
 -[Anita Lo](https://github.com/AnitaHome/first-contributions)
 -[Vaishnav Kedar](https://github.com/vaishnavk09)
