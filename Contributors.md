@@ -1,6 +1,7 @@
 # Contributors
 
 -[Kruthikh](https://github.com/kruthikh)
+-[Maheen Fatima](https://github.com/MaheenGitHub)
 -[Muhammad Anees](https://github.com/anees7757)
 -[Anita Lo](https://github.com/AnitaHome/first-contributions)
 -[Vaishnav Kedar](https://github.com/vaishnavk09)
@@ -51,6 +52,7 @@
 - [Sanjay Ganesh] (https://github.com/SanjayGanesh614)
 - [Ashad Shaikh] (https://github.com/senku0-0)
 - [Harshathan] (https://github.com/harshathan028)
+- [Yaswanth Killampalli] (https://github.com/yaswanthkillampalli)
 - [Keerthan Jakkaraju](https://github.com/Keerthanjakkarajucodes)git sta
 - [Ishrak Saleh Chowdhury](https://github.com/Ishrak-Saleh)
 - [Anshul Bhardwaj](https://github.com/Anshul-Bhardwaj-21)
@@ -97,6 +99,7 @@
 - [raining-night](https://github.com/raining-night)
 - [whatwant](https://github.com/whatwant)
 - [Tanush Bhootra](https://github.com/Tanush576)
+- [saitejaroyal-tech](https://github.com/saitejaroyal-tech)
 - [Kailash Parihar](https://github.com/thekailashparihar)
 - [Hasindu Udara](https://github.com/hasinduudara)
 - [Bruno Masciotta](https://github.com/masciotta02)
@@ -123,6 +126,7 @@
 - [Choi Doyoun](https://github.com/justjs4evr)
 - [Vaibhaw Kumar Parashar](https://github.com/TheVaibhaw)
 - [Rajdip](https://github.com/Rajdip1)
+- [Dhruv Ranjan](https://github.com/dhruv-ship-it)
 - [Tinku Shekhar Das](https://github.com/codeByTinku)
 - [Andres Aponte](https://github.com/angiovanny) 
 - [Suvani Basnet](https://github.com/suvani-ctrl)
@@ -697,6 +701,7 @@ Naman Malik
 - [Dhwaj Gupta](https://github.com/DG15062002)
 - [Dhwanit Patel](https://github.com/dhwanit10)
 - [Diana Solomon](https://github.com/dianasolomon)
+- [Dileep Munji](https://github.com/DileepMunji)
 - [Dilkhush](https://github.com/dilkhushsaini72)
 - [Diogo Ferreira](https://github.com/fdiogo1)
 - [Pradeep Reddy](https://github.com/Pradeep0997)
@@ -1959,4 +1964,5 @@ contribution by arshi
 - [Gyan Prakash](https://github.com/Gyanprakash136)
 - Nabanita Borah
 - [conlusive](https://github.com/conlusive)
+- [peterkalven-wang](https://github.com/peterkalven-wang)
 
