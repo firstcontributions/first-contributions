@@ -2,6 +2,7 @@
 
 -Adi(https://github.com/AdityaSinghBisht3000/)
 -[Yash Chigullapally](https://github.com/yashtech-hub)
+- [Sarah Susan George](https://github.com/Sarah4908)
 -[Kruthikh](https://github.com/kruthikh)
 -[Ashwin-Mehta](https://github.com/0011Ashwin)
 -[Nawazish Bidiwale](https://github.com/Nawaz-B-04)
@@ -11,7 +12,6 @@
 -[Anita Lo](https://github.com/AnitaHome/first-contributions)
 -[Vaishnav Kedar](https://github.com/vaishnavk09)
 -[Anita](https://github.com/AnitaHome)
-- [Sarah Susan George](https://github.com/Sarah4908)
 -[Harish kandi] (https://github.com/kandiharish/)
 - [Khujrat Shaikh](https://github.com/khujrat17) 🌐 .NET Foundation Member 
 - [Park Je Young] (https://github.com/zerobak13)
