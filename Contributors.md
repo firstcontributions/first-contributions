@@ -1974,4 +1974,4 @@ contribution by arshi
 - Nabanita Borah
 - [conlusive](https://github.com/conlusive)
 - [peterkalven-wang](https://github.com/peterkalven-wang)
-
+- [jjwoo4868](https://github.com/jaewoo4868)안녕.한국어 영어 외 금지 규칙은 안보이는데 다들 영어네
