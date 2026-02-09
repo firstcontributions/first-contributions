@@ -1,7 +1,8 @@
 # Contributors
 
 -Adi(https://github.com/AdityaSinghBisht3000/)
--[Yash Chigullapally](https://github.com/yashtech-hub)
+- [Kushal V Achar](https://github.com/kushalvachar2006)
+- [Yash Chigullapally](https://github.com/yashtech-hub)
 -[Kruthikh](https://github.com/kruthikh)
 -[Ashwin-Mehta](https://github.com/0011Ashwin)
 -[Nawazish Bidiwale](https://github.com/Nawaz-B-04)
