@@ -21,6 +21,7 @@
 -[Wizard codes]
 - [Aditya Gupta](https://github.com/AdityaSG4/)
 - [gavinvipe](https://github.com/gavinvipe)
+- [Bibek Baram](https://portfolio.bibekbaram.com.np)
 - [Ayushi Kumari] (https://github.com/Ayushi10-kumari)
 - [Aatish Kumar] (https://github.com/itzaatish) -> Hello World
 - [Mithielesh N](https://github.com/mithielesh05)
