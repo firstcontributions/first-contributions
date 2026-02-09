@@ -1,5 +1,5 @@
 # Contributors
-
+- [Gyanam Bhalgat](https://github.com/Gyanam1310)
 -Adi(https://github.com/AdityaSinghBisht3000/)
 - [Kushal V Achar](https://github.com/kushalvachar2006)
 - [Yash Chigullapally](https://github.com/yashtech-hub)
