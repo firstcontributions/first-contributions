@@ -1983,5 +1983,5 @@ contribution by arshi
 - Nabanita Borah
 - [conlusive](https://github.com/conlusive)
 - [peterkalven-wang](https://github.com/peterkalven-wang)
-
--[Amrita0205](https://github.com/Amrita0205)
+- [Amrita0205](https://github.com/Amrita0205)
+- [Sanjeet](https://github.com/sanjeetkryadav) Hi everyone! Happy coding!!
