@@ -1,6 +1,5 @@
 # Contributors
 
--[Mudassir Alladatkhan](https://github.com/mudassiralladatkhan)
 -[Kruthikh](https://github.com/kruthikh)
 -[Maheen Fatima](https://github.com/MaheenGitHub)
 -[Muhammad Anees](https://github.com/anees7757)
@@ -12,6 +11,7 @@
 - [Khujrat Shaikh](https://github.com/khujrat17) 🌐 .NET Foundation Member 
 - [Sijomon P S] (https://github.com/sijomonps)
 - [gililo] (https://github.com/gililo)
+-[Mudassir Alladatkhan](https://github.com/mudassiralladatkhan)
 - [S Hajare](https://github.com/swapnil-s-h)
 - [IRONMAN DEV](https://github.com/IROTECHLAB/)
 -[soner](https://github.com/C8338Soner/first-contributions)
