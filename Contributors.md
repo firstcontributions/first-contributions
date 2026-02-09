@@ -1,5 +1,6 @@
 # Contributors
 
+-Adi(https://github.com/AdityaSinghBisht3000/)
 -[Yash Chigullapally](https://github.com/yashtech-hub)
 -[Kruthikh](https://github.com/kruthikh)
 -[Maheen Fatima](https://github.com/MaheenGitHub)
