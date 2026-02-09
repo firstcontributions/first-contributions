@@ -1794,6 +1794,7 @@ ketan choudhari
 - [GodlyNugget](https://github.com/GodlyNugget)
 - [Tanya Singh](https://github.com/tanyasingh2004)
 - [Om Maurya](https://github.com/Ommaurya-2005)
+- [0xnicks-sol](https://github.com/0xnicks-sol)
 - [HAYTHAM KENNOUZ](https://github.com/Haytham-HK)
 - [Adrien Bey](https://github.com/adrienbey777)
 - [Edwin Adams](https://github.com/EDWIN-ADAMS-V)
