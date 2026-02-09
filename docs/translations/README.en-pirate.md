@@ -28,7 +28,7 @@ Now clone this repo t' yer machine. Go t' yer GitHub account, skewer on th' clon
 
 Open a terminal 'n run th' followin' git command:
 
-```
+```bash
 git clone "url ye jus' copied"
 ```
 
@@ -38,7 +38,7 @@ where "url ye jus' copied" (without th' quote marks) be th' url t' this reposito
 
 Fer example:
 
-```
+```bash
 git clone https://github.com/this-be-ye/first-contributions.git
 ```
 
@@ -48,19 +48,19 @@ where `this-be-ye` be yer GitHub username. Here ye're copyin' th' contents o' th
 
 Change t' th' repository directory on yer 'puter (if ye be nah already thar):
 
-```
+```bash
 cd first-contributions
 ```
 
 Now create a branch usin' th' `git checkout` command:
 
-```
+```bash
 git checkout -b <add-your-new-branch-name>
 ```
 
 Fer example:
 
-```
+```bash
 git checkout -b add-luke-oliff
 ```
 
@@ -76,13 +76,13 @@ If ye go t' th' project directory 'n execute th' command `git status`, ye'll see
 
 Add those changes t' th' branch ye jus' created usin' th' `git add` command:
 
-```
+```bash
 git add Contributors.md
 ```
 
 Now commit those changes usin' th' `git commit` command:
 
-```
+```bash
 git commit -m "Add <yer-name> to Contributors list"
 ```
 
@@ -92,7 +92,7 @@ replacing `<yer-name>` with your name.
 
 Push yer changes usin' th' command `git push`:
 
-```
+```bash
 git push origin <add-yer-branch-name>
 ```
 
