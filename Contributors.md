@@ -1,5 +1,6 @@
 # Contributors
 
+<li><a target="_blank" href="https://github.com/keshavRya">Keshav Arya</a></li>
 - [Gyanam Bhalgat](https://github.com/Gyanam1310)
 -Adi(https://github.com/AdityaSinghBisht3000/)
 - [Kushal V Achar](https://github.com/kushalvachar2006)
@@ -62,7 +63,6 @@
 - [Asad Khalid](https://github.com/Asad-K2025)
 - [eraycetinx](https://github.com/eraycetinx)
 - [Pranab Tiwari] (https://github.com/pranabtiwari)
-- [Keshav Arya](https://github.com/keshavRya)
 - [Danny Palacios] (https://github.com/DannyAIX)
 - [Yash Bhatt](https://github.com/YashBhatt2)
 - [Khushi Jaiswal] (https://github.com/Khushi84670/)
