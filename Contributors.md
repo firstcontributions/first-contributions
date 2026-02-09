@@ -1198,6 +1198,7 @@ Naman Malik
 - [Prem Chandu Palivela](https://github.com/Prem-099)
 - [Prisha Jaiswal](https://github.com/prishajaiswal75)
 - [Priya Shah](https://github.com/priiyoCoding)
+- [Priyank Gupta](https://github.com/PriyankGupta22)
 - [Priyanka Sharma](https://github.com/priyanka2sharma)
 - [Priyansh Verma](https://github.com/PriyanshV10)
 - [Pro Kumar](https://github.com/pkumar2143)
