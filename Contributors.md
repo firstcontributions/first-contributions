@@ -1246,6 +1246,7 @@ Naman Malik
 - [RunByKim](https://github.com/runbykim)
 - [Ryan Gapp](https://github.com/ryan-gapp)
 - [Ryan Kimutai](https://github.com/Ryank-80)
+- [Ryan McHenry](https://github.com/rzhalsa)
 - [Ryan Tham](https://github.com/ryanjrt)
 - [S-Dedeepya](https://github.com/S-Dedeepya)
 - [S1ngularty](https://github.com/S1ngularty)
