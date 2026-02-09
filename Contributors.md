@@ -1,7 +1,7 @@
 # Contributors
-
+- [Bhavesh Gangurde](https://github.com/Bhaveshkransan)
 - [Gyanam Bhalgat](https://github.com/Gyanam1310)
--Adi(https://github.com/AdityaSinghBisht3000/)
+-Adi(https://github.com/AdityaSinghBisht3000/) 
 - [Kushal V Achar](https://github.com/kushalvachar2006)
 - [Sanjana yadav] (https://github.com/gaddamsanjanayadav-arch)  
 - [Yash Chigullapally](https://github.com/yashtech-hub)
