@@ -1,6 +1,6 @@
 # Contributors
 
--[Amarnath K S](https://github.com/Amarnathkss)
+-[Amarnath K S]-(https://github.com/Amarnathkss)
 -Adi(https://github.com/AdityaSinghBisht3000/)
 - [Kushal V Achar](https://github.com/kushalvachar2006)
 - [Yash Chigullapally](https://github.com/yashtech-hub)
