@@ -8,6 +8,7 @@
 -[Vishal Gaikwad](https://github.com/Vishal-gaikwad17)
 -[Muhammad Anees](https://github.com/anees7757)
 -[Anita Lo](https://github.com/AnitaHome/first-contributions)
+- [kota uday kiran](https://github.com/Udaykirankota32)
 -[Vaishnav Kedar](https://github.com/vaishnavk09)
 -[Anita](https://github.com/AnitaHome)
 -[Harish kandi] (https://github.com/kandiharish/)
