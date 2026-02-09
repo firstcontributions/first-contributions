@@ -1221,6 +1221,7 @@ Naman Malik
 - [Raushan](https://github.com/oisitme)
 - [Ravi Raj Choudhary](https://github.com/ravirajchoudhary03)
 - [Ravi](https://github.com/raviprakash7367)
+- [Razano](https://github.com/Razano26/)
 - [Recox](https://github.com/recox42recox)
 - [Rehaoulia](https://github.com/Rehaoulia)
 - [Rein Ding](https://github.com/ReinDing)
