@@ -3,6 +3,7 @@
 -[Yash Chigullapally](https://github.com/yashtech-hub)
 -[Kruthikh](https://github.com/kruthikh)
 -[Maheen Fatima](https://github.com/MaheenGitHub)
+-[Vishal Gaikwad](https://github.com/Vishal-gaikwad17)
 -[Muhammad Anees](https://github.com/anees7757)
 -[Anita Lo](https://github.com/AnitaHome/first-contributions)
 -[Vaishnav Kedar](https://github.com/vaishnavk09)
