@@ -2,6 +2,7 @@
 
 -[Yash Chigullapally](https://github.com/yashtech-hub)
 -[Kruthikh](https://github.com/kruthikh)
+-[Nawazish Bidiwale](https://github.com/Nawaz-B-04)
 -[Maheen Fatima](https://github.com/MaheenGitHub)
 -[Vishal Gaikwad](https://github.com/Vishal-gaikwad17)
 -[Muhammad Anees](https://github.com/anees7757)
