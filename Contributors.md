@@ -238,6 +238,7 @@
 - [Atheena Oteyza](https://github.com/atheenaoteyza)
 - [Yash Pathak](https://github.com/YashPathak18)
 - [Venkatesh Pamudurti](https://github.com/Venkat5674)
+- [Achan Sai Pranay](https://github.com/Achan-Sai-pranay)
 - [G Sudeepthi](https://github.com/deepthii1316)
 - [Neel Kumar](https://github.com/neelkumar01)
 - [Lohith Sai](https://github.com/lohith11)
