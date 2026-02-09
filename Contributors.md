@@ -3,6 +3,7 @@
 -Adi(https://github.com/AdityaSinghBisht3000/)
 -[Yash Chigullapally](https://github.com/yashtech-hub)
 -[Kruthikh](https://github.com/kruthikh)
+-[Ashwin-Mehta](https://github.com/0011Ashwin)
 -[Nawazish Bidiwale](https://github.com/Nawaz-B-04)
 -[Maheen Fatima](https://github.com/MaheenGitHub)
 -[Vishal Gaikwad](https://github.com/Vishal-gaikwad17)
@@ -21,9 +22,11 @@
 -[Wizard codes]
 - [Aditya Gupta](https://github.com/AdityaSG4/)
 - [gavinvipe](https://github.com/gavinvipe)
+- [Bibek Baram](https://portfolio.bibekbaram.com.np)
 - [Ayushi Kumari] (https://github.com/Ayushi10-kumari)
 - [Aatish Kumar] (https://github.com/itzaatish) -> Hello World
 - [Mithielesh N](https://github.com/mithielesh05)
+- [Ivy Imoh](https://github.com/IVYIMOH/)
 - [Hurricane75](https://github.com/Simonchila)
 - [Mohammad Afsar] (https://github.com/Afsar0217)
 - [Prakkhar](https://github.com/prktypes)
@@ -288,7 +291,8 @@ Amir Osman
   [Zarfishan Ali](https://github.com/zarfishan20)
 - [Cheril Gracenciya](https://github.com/cherry16grace)
 - [Abdul Qadeer Shah](https://github.com/shahSpider)
-sathish
+Sathish
+- [Kelvin] (https://github.com/kelvinakp)
 - [Karthik Reddy](https://github.com/KarthikReddy1999)
 - [Krsna] (https://github.com/oneKrsna)
 - [Lakshmipriya Sivashanmugam](https://github.com/Lakssiva)
@@ -1219,6 +1223,7 @@ Naman Malik
 - [Raushan](https://github.com/oisitme)
 - [Ravi Raj Choudhary](https://github.com/ravirajchoudhary03)
 - [Ravi](https://github.com/raviprakash7367)
+- [Razano](https://github.com/Razano26/)
 - [Recox](https://github.com/recox42recox)
 - [Rehaoulia](https://github.com/Rehaoulia)
 - [Rein Ding](https://github.com/ReinDing)
@@ -1902,6 +1907,7 @@ guru
 - [Rohit singh](https://github.com/Rohitkuwarbi)
 - [Houcine Haddadi](https://github.com/Houcine0x7)
 - [Pulock Kumar](https://github.com/branotix)
+-[Shraddha P ](https://github.com/shraddha-123P)
 - [Rohit Sharma](https://github.com/rohitt-sharma96)
 - C1Y308
 - [randseas](https://github.com/randseas)
@@ -1972,7 +1978,9 @@ contribution by arshi
 - [8zppQr](https://github.com/8zppQr) Hello! 
 - [Hafiz Ishtiaq](https://github.com/Ishtiaq-Codes) Thanks!
 - [Gyan Prakash](https://github.com/Gyanprakash136)
+- [Arunya Saravanabava](https://github.com/aru-pro123)
 - Nabanita Borah
 - [conlusive](https://github.com/conlusive)
 - [peterkalven-wang](https://github.com/peterkalven-wang)
 
+-[Amrita0205](https://github.com/Amrita0205)
