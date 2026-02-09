@@ -62,7 +62,7 @@
 - [Asad Khalid](https://github.com/Asad-K2025)
 - [eraycetinx](https://github.com/eraycetinx)
 - [Pranab Tiwari] (https://github.com/pranabtiwari)
-<li><a target="_blank" href="https://github.com/keshavRya">Keshav Arya</a></li>
+- [Keshav Arya](https://github.com/keshavRya)
 - [Danny Palacios] (https://github.com/DannyAIX)
 - [Yash Bhatt](https://github.com/YashBhatt2)
 - [Khushi Jaiswal] (https://github.com/Khushi84670/)
