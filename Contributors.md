@@ -1826,7 +1826,7 @@
 - [Madhusudhanan](https://github.com/Madhu192005)
 - [Micheal Wang](https://github.com/Micheal-Wang-maker)
 - [Waxmell](https://github.com/Waxmell99)
-- [Ayenitaju Samuel](https://github.com/AyenitajuSamuel)]
+- [Ayenitaju Samuel](https://github.com/AyenitajuSamuel)
 - [Fei Sun](https://github.com/Fei-Sun-1996)
 - [jmscpro](https://github.com/jmscpro)
 - [Ansh Singhal](https://github.com/singhal-ansh)
