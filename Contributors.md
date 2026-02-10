@@ -2010,3 +2010,4 @@ contribution by arshi
 - Mohammad Shahid (https://github.com/shahid1331)
 - [Jan Michael Sibug](https://github.com/akushilan)
 - [Teena Goyal](https://github.com/teenagoyal21)
+- [Szymon Kuczek](https://github.com/SzymonKuczek)
