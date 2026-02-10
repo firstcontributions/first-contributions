@@ -89,6 +89,7 @@
 - [Abhinav Dwivedi](https://github.com/abhinavdwivedi05)
 - [Swathi Gurijala](https://github.com/swathi-gurijala)
 - [Akshaya M](https://github.com/Akshaya-0503)
+- [Prateeksha Shet](https://github.com/Prateeksha-ps)
 - [Camden Kirkpatrick](https://github.com/Camden-Kirkpatrick)
 - [Dominic](https://github.com/mozz37)
 - [Sanchana Arun](https://github.com/sanchana-arun)
