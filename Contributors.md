@@ -258,7 +258,7 @@
 - [Brenda G](https://github.com/BrendaG04)
 - yac-nixo
 - [Prasann62](https://github.com/Prasann62)
-- [Aashi](https:/gtihub.com/Aktagh1234)
+- [Aashi](https://github.com/Aktagh1234)
 - [Karuna Gawai](https://github.com/zero-one1)
 - [Vivek Kumar](https://github.com/Vivek-kumar3011)
 - [Teja Chalikanti](https://github.com/tchalikanti1705)
