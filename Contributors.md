@@ -1,5 +1,5 @@
 # Contributors
-- [Muhammad Ali] (https://github.com/Sudo-Ali-Dev)
+- [Muhammad Ali](https://github.com/Sudo-Ali-Dev)
 - [Rashmi Apagundi](https://github.com/Rashmi-apagundi)
 - [Forksxxs](https://github.com/Forksxxs)
 - [Ahmet Berk Yesilbas](https://github.com/immigrationist)
