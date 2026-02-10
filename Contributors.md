@@ -1,7 +1,11 @@
 # Contributors
 
+- [Manoj S](https://github.com/manoj2304s)
+- [Sridhar S](https://github.com/sridhar-sri-s)
+- [Dogukan Aysan](https://github.com/dogukan-aysan)
 - [Gyanam Bhalgat](https://github.com/Gyanam1310)
 -Adi(https://github.com/AdityaSinghBisht3000/)
+-[Arsalan khan](https://github.com/Arsalankhan-07)
 - [Kushal V Achar](https://github.com/kushalvachar2006)
 - [Sanjana yadav] (https://github.com/gaddamsanjanayadav-arch)  
 - Vaishhnavi Kadiyala (https://github.com/Vaishhnavi27Hub)
@@ -16,6 +20,7 @@
 -[Raghad Albadawi] (https://github.com/RaghadAlbadawi)
 -[Muhammad Anees](https://github.com/anees7757)
 -[Anita Lo](https://github.com/AnitaHome/first-contributions)
+- [Ram Tichkule](https://github.com/Raam751)
 -[Vaishnav Kedar](https://github.com/vaishnavk09)
 -[Anita](https://github.com/AnitaHome)
 -[Shubham Rajbhar](https://github.com/shubham37r)
@@ -88,6 +93,7 @@
 - [Abhinav Dwivedi](https://github.com/abhinavdwivedi05)
 - [Swathi Gurijala](https://github.com/swathi-gurijala)
 - [Akshaya M](https://github.com/Akshaya-0503)
+- [Prateeksha Shet](https://github.com/Prateeksha-ps)
 - [Camden Kirkpatrick](https://github.com/Camden-Kirkpatrick)
 - [Dominic](https://github.com/mozz37)
 - [Sanchana Arun](https://github.com/sanchana-arun)
@@ -108,7 +114,8 @@
 - [Margo](https://github.com/lemmargo)
 - TRUONG DANG MANH
 - Arman Akhmetshiev
--Shivani
+- Shivani
+- [DrthJnr][https://github.com/DrthJnr]
 - [Panagiotis Tsomp](https://github.com/PanosTsomp)
 - AgustinBarbeitoBaufest
 - [Barış Perveroğlu](https://github.com/barispe)
@@ -477,6 +484,7 @@ Naman Malik
 - [NoMathematician1729](https://github.com/noMathematician1729)
 - [Aditya Rahmad](https://github.com/AdityaZxxx)
 - [Adnan Hussen](https://github.com/adnan-hussen)
+- [Shriram Selvam](https://github.com/ShriramSelvam)
 - [Adrian PC M](https://github.com/AdrianPCM)
 - [Adrienne Medenilla](https://github.com/Adrienneme)
 - [Advik Hegde](https://github.com/AdvikHegde)
@@ -2002,3 +2010,7 @@ contribution by arshi
 -[Amrita0205](https://github.com/Amrita0205)
 - [akienneh](https://github.com/akienneh) 
 - Nanij Agrawal
+- Mohammad Shahid (https://github.com/shahid1331)
+- [Jan Michael Sibug](https://github.com/akushilan)
+- [Teena Goyal](https://github.com/teenagoyal21)
+- [Szymon Kuczek](https://github.com/SzymonKuczek)
