@@ -113,7 +113,8 @@
 - [Margo](https://github.com/lemmargo)
 - TRUONG DANG MANH
 - Arman Akhmetshiev
--Shivani
+- Shivani
+- [DrthJnr][https://github.com/DrthJnr]
 - [Panagiotis Tsomp](https://github.com/PanosTsomp)
 - AgustinBarbeitoBaufest
 - [Barış Perveroğlu](https://github.com/barispe)
