@@ -1952,6 +1952,7 @@ guru
 - [Peter Imoh Victor](https://github.com/peterimoh)
 - [Sahil Ghag](https://github.com/Sahilghagg)
 - [Daniel Peralta](https://github.com/DDalta)
+- [Michael Ofuzor] (https://github.com/mcofuzor/first-contributions)
 - Nurbol Abu
 - [Ananya Parihar](https://github.com/ananyaparihar/first-contributions)
 - [Yesui Gankhuyag](https://github.com/yesuiabc)
