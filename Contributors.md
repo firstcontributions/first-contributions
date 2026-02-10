@@ -1,6 +1,6 @@
 # Contributors
+- [Muhammad Ali] (https://github.com/Sudo-Ali-Dev)
 - [Rashmi Apagundi](https://github.com/Rashmi-apagundi)
-
 - [Forksxxs](https://github.com/Forksxxs)
 - [Ahmet Berk Yesilbas](https://github.com/immigrationist)
 - [Manoj S](https://github.com/manoj2304s)
@@ -2021,3 +2021,4 @@ contribution by arshi
 - [Teena Goyal](https://github.com/teenagoyal21)
 - [Szymon Kuczek](https://github.com/SzymonKuczek)
 - [Yash Kaith] (https://github.com/yawshhh)
+
