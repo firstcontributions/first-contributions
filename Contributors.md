@@ -5,6 +5,7 @@
 - [Kushal V Achar](https://github.com/kushalvachar2006)
 - [Sanjana yadav](https://github.com/gaddamsanjanayadav-arch)  
 - [Yash Chigullapally](https://github.com/yashtech-hub)
+- [Vaishhnavi Kadiyala](https://github.com/Vaishhnavi27Hub)
 - [Kruthikh](https://github.com/kruthikh)
 - [Daneswari](https://github.com/DaneswariAddala56)
 - [Ashwin-Mehta](https://github.com/0011Ashwin)
