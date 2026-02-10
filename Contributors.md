@@ -1951,6 +1951,7 @@ guru
 - [Ananya Parihar](https://github.com/ananyaparihar/first-contributions)
 - [Yesui Gankhuyag](https://github.com/yesuiabc)
 - [cvienna](https://github.com/cvienna/)
+- [Luis Álvarez Conde](https://github.com/LuisAlvarezConde)
 - [michaelYLR](https://github.com/MichaelYLR)
 - [Aman Bhangre](https://github.com/AmanBhangre)
 - [pomv](https://github.com/pomv)
@@ -1959,8 +1960,6 @@ guru
 - [Aakash Chauhan](https://github.com/akashinedon)
 - [Gowtham V](https://github.com/gowthamvelayudham1103-pixel)
 - [James Fan](https://github.com/JamesXuFan)
-
-
 - [Sheldon Fam](https://github.com/SheldonFam)
 - [Prathamesh Kulkarni](https://github.com/prathamk11)
 - [Kaviraj](https://github.com/kaviraj-debug)
