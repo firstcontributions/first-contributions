@@ -1,4 +1,5 @@
 # Contributors
+-[Anjali Kokare](https://github.com/anjalikokare)
 - [Muhammad Ali](https://github.com/Sudo-Ali-Dev)
 - [Rashmi Apagundi](https://github.com/Rashmi-apagundi)
 - [Forksxxs](https://github.com/Forksxxs)
