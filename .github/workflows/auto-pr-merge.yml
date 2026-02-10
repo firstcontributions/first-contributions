@@ -193,8 +193,8 @@ jobs:
           IS_MULTIPLES_FILES_CHANGES: ${{steps.is_only_contributors_file_changed.outputs.isMultipleFilesChanged}}
         with:
           script: |
-            const isMutlipleFilesChanged = process.env.IS_MULTIPLES_FILES_CHANGES === 'true';
-            const isMutlipleLinesChanged = process.env.IS_MULTIPLES_LINES_CHANGES === 'true';
+            const isMultipleFilesChanged = process.env.IS_MULTIPLES_FILES_CHANGES === 'true';
+            const isMultipleLinesChanged = process.env.IS_MULTIPLES_LINES_CHANGES === 'true';
             const { owner, repo } = context.repo;
             const pr = context.payload.pull_request;
             const username = pr.user.login;
@@ -204,7 +204,7 @@ jobs:
             let isReviewRequired = false;
 
 
-            if(isMutlipleFilesChanged){
+            if(isMultipleFilesChanged){
               // Get files from env (safe from injection)
               const filesString = process.env.RAW_FILES || "";
 
@@ -218,7 +218,7 @@ jobs:
               body = `### 🌟 Hello @${username}! \n\nThank you for this contribution. Since this PR modifies files beyond the tutorial (\`Contributors.md\`), I've flagged this for a **manual review** by our maintainers. \n\nThe following files were changed:\n\n${fileList} \n\nWe appreciate you helping improve the project!`;
               labels = ['👩‍💻 waiting for review'];
             
-            } else if (!isMutlipleFilesChanged && isMutlipleLinesChanged){
+            } else if (!isMultipleFilesChanged && isMultipleLinesChanged){
               
               const totalChanges = pr.additions + pr.deletions;
               let diffBlock = "";
