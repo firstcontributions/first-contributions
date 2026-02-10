@@ -1954,7 +1954,7 @@ guru
 - [Gowtham V](https://github.com/gowthamvelayudham1103-pixel)
 - [James Fan](https://github.com/JamesXuFan)
 
-
+- [Sridhar S](https://github.com/sridhar-sri-s)
 - [Sheldon Fam](https://github.com/SheldonFam)
 - [Prathamesh Kulkarni](https://github.com/prathamk11)
 - [Kaviraj](https://github.com/kaviraj-debug)
