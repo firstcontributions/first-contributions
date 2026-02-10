@@ -12,6 +12,7 @@
 -[Nawazish Bidiwale](https://github.com/Nawaz-B-04)
 -[Maheen Fatima](https://github.com/MaheenGitHub)
 -[Vishal Gaikwad](https://github.com/Vishal-gaikwad17)
+- [Chirag Dawra] (https://github.com/ChiragDawra)
 -[Raghad Albadawi] (https://github.com/RaghadAlbadawi)
 -[Muhammad Anees](https://github.com/anees7757)
 -[Anita Lo](https://github.com/AnitaHome/first-contributions)
