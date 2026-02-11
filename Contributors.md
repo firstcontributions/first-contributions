@@ -1902,6 +1902,7 @@ guru
 - [Tiancheng Xing](https://github.com/JackXing875)
 - [Tamal Majumdar](https://github.com/Tom-1508)
 - [Abhishek Yadav](https://github.com/abhiyadav-dev)
+- [Sonal Singh](https://github.com/sonalsingh1806)
 - [Furkan Can](https://github.com/Furkancan2)
 - Jose-Renny
 - [proudsea1503](https://github.com/proudsea1503-ops)
