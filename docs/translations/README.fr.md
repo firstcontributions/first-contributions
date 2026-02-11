@@ -107,7 +107,12 @@ en remplaçant `<nom-de-votre-branche>` avec le nom de la branche précédemment
 <details> <summary> <strong>Si tu obtiens une erreur au moment de pousser, clique ici :</strong> </summary>
 
 - ### Erreur d’authentification
-  <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead. remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information. fatal: Authentication failed for 'https://github.com/<ton-nom-utilisateur>/first-contributions.git/'</pre>
+  <pre>
+remote: Support for password authentication was removed on August 13, 2021. 
+Please use a personal access token instead.
+ remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+ fatal: Authentication failed for 'https://github.com/<ton-nom-utilisateur>/first-contributions.git/'
+</pre>
   Suivez le tutoriel GitHub pour générer et configurer une clé SSH sur votre compte.
 
 Vous pouvez également exécuter git remote -v pour vérifier votre adresse distante.
