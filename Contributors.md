@@ -1,6 +1,7 @@
 
 # Contributors
 - [24f2006619](https://github.com/24f2006619)
+- [Amrutha Ponduri](https://github.com/amrutha-ponduri)
  [Maheshnanappanayaka](https://github.com/Datawithmahi)
 - [Santosh Chakradhar](https://github.com/santoshchakradhar1)
 -[23f3003225](https://github.com/23f3003225)
@@ -699,6 +700,7 @@ Naman Malik
 - [Carina Mach](https://github.com/carinamach)
 - [Carlos FH](https://github.com/carlosfhz13)
 - [Cat-o-Bot](https://github.com/evgshv)
+- [Shanyu](https://github.com/shanyuin)
 - [Soham Das](https://github.com/SohamDas1502)
 - [Chaimae](https://github.com/GRICHChaimae)
 - [Chamith Dilshan Tharuka](https://github.com/ChamithDilshanTharuka)
@@ -2060,3 +2062,7 @@ contribution by arshi
 - [Nguyễn Duy Bảo](https://github.com/nguyenduybao1)
 - Jayasri R - https://github.com/Jayasrii-R
 - Rokaya Othman adas-  https://github.com/RokayaOthman
+- Swatisinghaniya166
+- [Kaligotla Sri Datta Sai Vithal] - https://github.com/Sridattasai18
+- [Nadim Chendy] - https://github.com/NadimPy | fn main(){println!("Hello world!");}
+
