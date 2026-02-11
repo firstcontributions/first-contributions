@@ -2047,7 +2047,7 @@ contribution by arshi
 - [Szymon Kuczek](https://github.com/SzymonKuczek)
 - [Yash Kaith] (https://github.com/yawshhh)
 - [23f2001705](https://github.com/23f2001705)
-
+- [Yandamuri Vidya sagar](https://github.com/yandamurividyasagar-dev)
 - [Atharv Khare](https://github.com/1mystic8u)
 - [Harishankar Mohapatra](https://github.com/harx878-beep)
 - [Nguyễn Duy Bảo](https://github.com/nguyenduybao1)
