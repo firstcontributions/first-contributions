@@ -180,6 +180,7 @@
 - [Andres Aponte](https://github.com/angiovanny) 
 - [Suvani Basnet](https://github.com/suvani-ctrl)
 - [Rusil Koirala](https://github.com/rusilkoirala)
+- [Yaseen VM](https://github.com/yaseen-vm)
 - [Jeremiah Isaacson](https://github.com/jeremiahjordanisaacson)
 - [Sanjay Baskaran](https://github.com/sanjayb-28)
 - [Marta Maia](https://github.com/martadmaia)
