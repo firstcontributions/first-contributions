@@ -97,6 +97,7 @@
 - [Siddarth Sharma] (https://github.com/sharmasiddarth)
 - [Soyoung Baek] (https://github.com/sothdud)
 - [Sonu Asher] (https://github.com/SonuAsher)
+- [Marjorie Atrasado] (https://github.com/itsmemarj)
 - [Srishti Gupta](https://github.com/Srishtig0711)   
 - [lfathh](https://github.com/lfathh)
 - [Abhinav Dwivedi](https://github.com/abhinavdwivedi05)
