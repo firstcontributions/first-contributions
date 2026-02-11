@@ -2063,4 +2063,5 @@ contribution by arshi
 - Jayasri R - https://github.com/Jayasrii-R
 - Rokaya Othman adas-  https://github.com/RokayaOthman
 - [Kaligotla Sri Datta Sai Vithal] - https://github.com/Sridattasai18
+- [Harshit Chauhan](https://github.com/harshitchauhann)
 - [Nadim Chendy] - https://github.com/NadimPy | fn main(){println!("Hello world!");}
