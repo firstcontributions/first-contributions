@@ -1,5 +1,5 @@
 # Contributors
-- [LN Gupta Vema](https://github.com/lnguptavema)
+- [LN Gupta Vema.](https://github.com/lnguptavema)
 - [Manoj S](https://github.com/manoj2304s)
 - [Sridhar S](https://github.com/sridhar-sri-s)
 - [Dogukan Aysan](https://github.com/dogukan-aysan)
@@ -11,7 +11,7 @@
 - Vaishhnavi Kadiyala (https://github.com/Vaishhnavi27Hub)
 - [Yash Chigullapally](https://github.com/yashtech-hub)
 -[Kruthikh](https://github.com/kruthikh)
--[Daneswari](https://github.com/DaneswariAddala56)
+-[Daneswari](https://github.com/DaneswariAddala56)S
 -[Ashwin-Mehta](https://github.com/0011Ashwin)
 -[Nawazish Bidiwale](https://github.com/Nawaz-B-04)
 -[Maheen Fatima](https://github.com/MaheenGitHub)
