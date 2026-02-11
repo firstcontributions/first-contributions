@@ -14,6 +14,7 @@
 - [Vaibhav Gupta](https://github.com/Vaibhavking8)
 - [Muhammad Ali](https://github.com/Sudo-Ali-Dev)
 - [Kaushal Vaid](https://github.com/Kaushal00Vaid)
+- [JS_foundation](https://github.com/Joseph Costantino Shaury)
 - [Rashmi Apagundi](https://github.com/Rashmi-apagundi)
 - [Yuvaraj K](https://github.com/22f3002987-UserYuv)
 - [Forksxxs](https://github.com/Forksxxs)
