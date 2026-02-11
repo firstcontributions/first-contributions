@@ -44,6 +44,7 @@
 -[Muhammad Anees](https://github.com/anees7757)
 -[Anita Lo](https://github.com/AnitaHome/first-contributions)
 - [Ram Tichkule](https://github.com/Raam751)
+-[HarinadhDudiki](https://github.com/HarinadhDudiki)
 -[Vaishnav Kedar](https://github.com/vaishnavk09)
 -[Anita](https://github.com/AnitaHome)
 -[Shubham Rajbhar](https://github.com/shubham37r)
@@ -2062,4 +2063,4 @@ contribution by arshi
 - Jayasri R - https://github.com/Jayasrii-R
 - Rokaya Othman adas-  https://github.com/RokayaOthman
 - [Kaligotla Sri Datta Sai Vithal] - https://github.com/Sridattasai18
-- [Nadim Chendy] - https://github.com/NadimPy | fn main(){println!("Hello world!");}
+- [Nadim Chendy](https://github.com/NadimPy)
