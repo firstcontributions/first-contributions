@@ -94,7 +94,7 @@ substituindo `<nome-da-sua-branch>` pelo nome do _Branch_ que você criou anteri
 
 ## Envie suas alterações para serem revisadas
 
-Se você for para o seu repositório no _GitHub_, verá um botão `Compare & pull request`. Clique nesse botão.
+Se  você for para o seu repositório no _GitHub_, verá um botão `Compare & pull request`. Clique nesse botão.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="Crie um Pull Request" />
 
