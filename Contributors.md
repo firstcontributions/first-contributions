@@ -1,4 +1,5 @@
 # Contributors
+- [Srushti Wadi](https://github.com/srushti1705) 
 - [24f2006619](https://github.com/24f2006619)
 - [Amrutha Ponduri](https://github.com/amrutha-ponduri)
  [Maheshnanappanayaka](https://github.com/Datawithmahi)
@@ -2062,3 +2063,4 @@ contribution by arshi
 - Rokaya Othman adas-  https://github.com/RokayaOthman
 - [Kaligotla Sri Datta Sai Vithal] - https://github.com/Sridattasai18
 - [Harshit Chauhan](https://github.com/harshitchauhann)
+- [Nadim Chendy] - https://github.com/NadimPy | fn main(){println!("Hello world!");}
