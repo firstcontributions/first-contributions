@@ -2025,4 +2025,4 @@ contribution by arshi
 - [Teena Goyal](https://github.com/teenagoyal21)
 - [Szymon Kuczek](https://github.com/SzymonKuczek)
 - [Yash Kaith] (https://github.com/yawshhh)
-
+- [Sathi Karthikeya Reddy](https://github.com/SathiKarthikeyaReddy)
