@@ -2031,7 +2031,7 @@ contribution by arshi
 - Nabanita Borah
 - [conlusive](https://github.com/conlusive)
 - [peterkalven-wang](https://github.com/peterkalven-wang)
-
+- [Djezzar Bilal](https://github.com/DjezzarBilal)
 -[Amrita0205](https://github.com/Amrita0205)
 - [akienneh](https://github.com/akienneh) 
 - Nanij Agrawal
