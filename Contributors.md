@@ -664,6 +664,7 @@ Naman Malik
 - [Bill Lin](https://github.com/SeafoodproMax)
 - [Bird Dog](https://github.com/acuhlian)
 - [Bishal Paul](https://github.com/Bishal13102003)
+- [Himal Bhattarai](https://github.com/himal-bhattarai)
 - [Mohamed Anes](https://github.com/Mohamed-Anes)
 - [Bismark Aryeetey](https://github.com/0xmk4y)
 - [Biswajit Shaw](https://github.com/thegoddo)
