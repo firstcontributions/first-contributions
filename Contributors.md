@@ -1272,6 +1272,7 @@ Naman Malik
 - [Rodrigo Sanchez](https://github.com/RodrigoSanchezDev)
 - [Rohan Linga](http://github.com/R0hanL1nga)
 - [Rohan](https://github.com/Christopher-91)
+- [Ryan M](https://github.com/rmoylan2201)
 - [Ronik Kumbhar](https://github.com/ronik62)
 - [Rosellines](https://github.com/Rosellines)
 - [Roshan Kumar](https://github.com/roshan-zest)
