@@ -1,4 +1,6 @@
 # Contributors
+
+[satishpettum](https://github.com/satishpettum)
 - [Santosh Chakradhar](https://github.com/santoshchakradhar1)
 -[23f3003225](https://github.com/23f3003225)
 - [Anubhooti Pandey](https://github.com/anubhootipandey)
