@@ -8,7 +8,7 @@
 - [Forksxxs](https://github.com/Forksxxs)
 - [Ahmet Berk Yesilbas](https://github.com/immigrationist)
 - [Manoj S](https://github.com/manoj2304s)
-- [Sridhar S](https://github.com/sridhar-sri-s)
+- [R.Muthu varuna ] (https://github.com/varuna-code7)
 - [Dogukan Aysan](https://github.com/dogukan-aysan)
 - [Pavana K V](https://github.com/Pavanakv)
 - [Gyanam Bhalgat](https://github.com/Gyanam1310)
