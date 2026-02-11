@@ -903,6 +903,7 @@ Naman Malik
 - [Jackson Bichard](https://github.com/JacksonBichard)
 - [Jada McAfee](https://github.com/smac115)
 - [Jamiu Adeniran](https://github.com/Jay-O-A)
+- [Andrew Nathan Situmorang](https://github.com/andrwsitumorang)
 - [Janvi Chetan Patel](https://github.com/JanviChetanPatel)
 - [Jason Ephraim Tjiunardi](https://github.com/jasontjiunardi)
 - [Jason Pham](https://github.com/JeisonPham)
