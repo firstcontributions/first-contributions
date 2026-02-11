@@ -519,6 +519,7 @@ Naman Malik
 - [Alankar Jagtap](https://github.com/AlankarJagtap)
 - [Priyanka Mali](https://github.com/priyanka1885)
 - [Alanto Manu](https://github.com/alantomanu)
+- [Akashi Shogo](https://github.com/AkashiShogo)
 - [Alejandro Aceituno](https://github.com/clement-zentz)
 - [Sangini Tripathi](https://github.com/Sangini-spec)
 - [Alekscybercendre](https://github.com/Alekcybercendre)
