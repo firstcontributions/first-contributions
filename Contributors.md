@@ -166,6 +166,7 @@
 - [Dhanshree Patangrao](https://github.com/Dhanshree019)
 - inlitx
 - Lynn
+- [Rachel Smith] (https://github.com/RS550)
 - [Digitql0][https://github.com/Digitql0]
 -[sadique shaikh][https://github.com/sadikshaikh00]
 - [Imanol57864](https://github.com/Imanol57864)
