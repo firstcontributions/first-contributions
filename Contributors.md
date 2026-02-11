@@ -1971,6 +1971,7 @@ guru
 - [randseas](https://github.com/randseas)
 - [Clara](https://github.com/Jayanthiclaretdevaraj)
 - [Aryan Jha](https://github.com/aryankumarjha1441-debug)
+- [Djireb Sadek Lamine](https://github.com/sadek1amine)
 - [Ishan Ladva](https://github.com/ishanladva)
 -[Yogesh Nehra](https://github.com/Yogesh07Nehra/)
 -[Tanay Mishra](https://github.com/Tanay2920003)
