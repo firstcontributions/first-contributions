@@ -5,6 +5,7 @@
 -[Anjali Kokare](https://github.com/anjalikokare)
 - [Vaibhav Gupta](https://github.com/Vaibhavking8)
 - [Muhammad Ali](https://github.com/Sudo-Ali-Dev)
+- [Kaushal Vaid](https://github.com/Kaushal00Vaid)
 - [Rashmi Apagundi](https://github.com/Rashmi-apagundi)
 - [Forksxxs](https://github.com/Forksxxs)
 - [Ahmet Berk Yesilbas](https://github.com/immigrationist)
