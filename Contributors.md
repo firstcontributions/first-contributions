@@ -1997,6 +1997,7 @@ guru
 - [KaniKapoor-dot](https://github.com/kanikapoor-dot) - Given enough eyeballs, all bugs are shallow.
 - [sethj34] (https://github.com/sethj34)
 - Lalit
+- nk
 - [Ronak](https://github.com/roonakyadav)
 - [zs1981](https://github.com/zs1981)
 - [Mary Lavanitha](https://github.com/lavanitha)
