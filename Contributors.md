@@ -1,5 +1,5 @@
 # Contributors
-- [LN Gupta Vema..](https://github.com/lnguptavema)
+- [LN Gupta Vema.](https://github.com/lnguptavema)
 - [Manoj S](https://github.com/manoj2304s)
 - [Sridhar S](https://github.com/sridhar-sri-s)
 - [Dogukan Aysan](https://github.com/dogukan-aysan)
