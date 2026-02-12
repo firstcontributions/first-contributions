@@ -163,6 +163,7 @@ scandi
 - [Pratik Navghare] (https://github.com/navghare-pratik)
 - [Jatin Yadav] (https://github.com/jatin-yadav-sekwal)
 - [Oolazile] (https://github.com/Oolazile)
+- [Prince Ntim](https://github.com/kwabsntim)
 - Rishabdev Panchal (https://github.com/rdp2x)
 - [Hamza Naseem] (https://github.com/HamzaNasiem)
 - [Varshini](https://github.com/Varshini131)
