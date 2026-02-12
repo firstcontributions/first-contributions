@@ -121,6 +121,8 @@ where "url you just copied" (without the quotation marks) is the url to this rep
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 For example:
+- Contributor example: Zengo Doto
+
 
 ```bash
 git clone git@github.com:this-is-you/first-contributions.git
@@ -147,6 +149,7 @@ For example:
 ```bash
 git switch -c add-alonzo-church
 ```
+- Contributor example: Zengo Doto
 
 <details>
 <summary> <strong>If you get any errors using git switch, click here:</strong> </summary>
