@@ -1346,6 +1346,7 @@ Kaushlendra
 - [jiakeboge](https://github.com/jiakeboge)
 - [jorsyk](https://github.com/jorsyk)
 - [jsutCodes](https://github.com/jsutCodes)
+- [Haddadi Houcine](https://github.com/Houcine0x7)
 
 - [jvleesenb](https://github.com/meatlake)
 - [jy-kong](https://github.com/jy-kong)
