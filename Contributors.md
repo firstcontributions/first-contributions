@@ -2092,6 +2092,7 @@ contribution by arshi
 - [Kaligotla Sri Datta Sai Vithal] - https://github.com/Sridattasai18
 - [Harshit Chauhan](https://github.com/harshitchauhann)
 - [Nadim Chendy] - https://github.com/NadimPy | fn main(){println!("Hello world!");}
+- [Obinna Kelvin] (https://github.com/ObinnaKelvin/)
 - [Adi Singh](https://github.com/adisingh0824)
 - [Aayush Patel](https://github.com/Aayush1302)
 - [Dayanch](https://github.com/devanch-hub)
