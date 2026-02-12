@@ -228,6 +228,7 @@
 -[Sarthak Chavan](https://github.com/sarthak11234)
 - [Sagar Maurya](https://github.com/SagarXCode)
 --[Diksha] (https://github.com/diksha-jindal) 
+- [Rahul]
 - [Sameer Mandve](https://github.com/sameermandve)
 - [charliegonzo](https://github.com/CharlieGonzo/first-contributions.git)
 - KJayasree2025
