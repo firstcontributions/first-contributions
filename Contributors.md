@@ -181,6 +181,7 @@
 - [Dhanshree Patangrao](https://github.com/Dhanshree019)
 - inlitx
 - Lynn
+- [Vivek S](https://github.com/VivekSarvaiya)
 - [Rachel Smith] (https://github.com/RS550)
 - [Digitql0][https://github.com/Digitql0]
 -[sadique shaikh][https://github.com/sadikshaikh00]
