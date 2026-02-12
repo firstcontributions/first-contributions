@@ -116,6 +116,7 @@
 - [Anshul Bhardwaj](https://github.com/Anshul-Bhardwaj-21)
 - [Anurag Banerjee](https://github.com/Banerjee2027)
 - [Vedant Pai] (https://github.com/VEDANT-PAI)
+- [Priyanka Gollapudi] (https://github.com/GOLLAPUDI-PRIYANKA)
 - [Jocin J] (https://github.com/Jocin55)
 - [Kushal Obroy](https://github.com/Kushalobroy)
 - [Siddarth Sharma] (https://github.com/sharmasiddarth)
