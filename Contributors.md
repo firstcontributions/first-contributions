@@ -1,4 +1,5 @@
 # Contributors
+- [Rahul Nawale] (https://github.com/blachcat)
 - [Don Josi] (https://github.com/donjosik)
 - [Revanth] (https://github.com/revanth01-code)
 - [Joise S Arakkal](https://github.com/joise-s-arakkal/)
