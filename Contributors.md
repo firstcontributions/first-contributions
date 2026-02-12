@@ -1,5 +1,6 @@
 # Contributors
 - [Rahul Nawale] (https://github.com/blachcat)
+[Shravya D] (https://github.com/ShravyaGowda06)
 - [yuraj-isurinda] (https://github.com/Yuraj-Isurinda)
 - [Derderderr] (https://github.com/Derderderr)
 - [Don Josi] (https://github.com/donjosik)
