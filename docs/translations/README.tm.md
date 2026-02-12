@@ -12,7 +12,7 @@ Blog postlary okamak ýa-da wideolary görüp öwrenmek kömek edip biler, ýön
 
 
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="şu repositoryny forklaň" />
 
 #### Eger kompýuteriňizde git ýok bolsa, [şu ýerden ýükläň](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
@@ -23,7 +23,7 @@ Blog postlary okamak ýa-da wideolary görüp öwrenmek kömek edip biler, ýön
 
 ## Şu repositoryny klonlaň(clone)
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="şu repositoryny klonlaň" />
 
 Indi, forklan repositoryny öz kompýuteriňize klonlaň(clone). Bu diýmek, ýaňy siziň github hasabyňyza kopiýasy gelen(forklan) şu proýekti oz kompyuteriňizde-de bir kopiýasyna eýe bolup bilýäňiz. Github hasabyňyza gidiň, forklan repositoryny açyň, code düwmesine basyň, soňra _copy to clipboard_ nyşanyna basyň. 
 
@@ -35,7 +35,7 @@ git clone "ýaňy kopiýa eden url-ňyz"
 
 "ýaňy kopiýa eden url-ňyz"(goşa dyrnaksyz) şu repositorynyň url-y (şu proýektiň siziň eden forkuňyz).Url-ny almak üçin ýokarda görkezilenleri yzarlaň.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="URL-ny buferiň içine kopiýalaň" />
 
 Mysal üçin:
 
@@ -82,7 +82,7 @@ Mysal üçin:
 ```
 ```](``` arasynda boşluk ýokdur
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git ýagdaýy" />
 
 Terminalda eger proýektiň duran ýerine gidip,```git status``` buýrugyny işletseňiz, şol ýerde bolan üýtgeşmeleri görýaňiz.
 
@@ -115,11 +115,11 @@ git push -u origin siziň-şahaňyzyň-ady
 ## Üýtgeşmeleriňizi gözden geçirmek üçin ýollaň
 Eger Githubda şu repositoryňyza gitseňiz, `Compare & pull request` düwmesini görýäňiz. Şol düwmä basyň.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="çekiş haýyşnamasyny dörediň" />
 
 Indi, Çekiş haýyşnamasyny(pull request) ýollaň.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="çekiş haýyşnamasyny iberiň" />
 
 Basym, Eden ähli üýtgeşmeleriňizi gözden geçirip, proýektiň esasy şahasy(main branch) bilen birleşdirýäs. Üýtgeşmeler birleşdirilen soň, habarnama alarsyňyz.
 
@@ -132,7 +132,6 @@ Eden goşandyňyza begeniň we dostlaryňyz bilen paýlaşyň!
 
 [Bu baglanma](https://firstcontributions.github.io/#social-share) arkaly hem birnäçe gyzykly proýektlere öz goşandyňyzy goşup bilýäňiz.
 
-Eger-de islendik kömek gerek bolsa ýa-da soraglaryňyz bar bolsa [biziň Slack toparymyza](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA) goşulyp bilýaňiz.
 
 
 
