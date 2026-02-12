@@ -191,6 +191,7 @@
 - inlitx
 - Lynn
 - [Vivek S](https://github.com/VivekSarvaiya)
+- Veronica Mendes
 - [Rachel Smith] (https://github.com/RS550)
 - [Digitql0][https://github.com/Digitql0]
 -[sadique shaikh][https://github.com/sadikshaikh00]
