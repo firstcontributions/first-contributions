@@ -75,6 +75,7 @@
 - [Sarah Susan George](https://github.com/Sarah4908)
 -[soner](https://github.com/C8338Soner/first-contributions)
 -[Wizard codes]
+-[Athul M R](https://github.com/Athulmr4)
 - [Aditya Gupta](https://github.com/AdityaSG4/)
 - [gavinvipe](https://github.com/gavinvipe)
 - [Bibek Baram](https://portfolio.bibekbaram.com.np)
