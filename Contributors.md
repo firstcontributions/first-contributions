@@ -1,4 +1,5 @@
 # Contributors
+- [Syed Rahil Hussain](https://github.com/Syed-srh)
 - [Kondaka Bhargavi](https://github.com/bhargavikondaka)
 - [Mohammed Munaaf](https://github.com/MohammedMunaaf)
 - [Srushti Wadi](https://github.com/srushti1705) 
