@@ -99,6 +99,24 @@ _If you're not comfortable with command line, [here are tutorials using GUI tool
 
 #### If you don't have git on your machine, [install it](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
+---
+
+## 🖥️ Git Installation (Windows, macOS, Linux)
+
+If Git is not installed on your system, follow the steps below based on your operating system.
+
+- **Windows:** Download Git from https://git-scm.com/download/win and install it using the default options.  
+  During installation, ensure **“Git from the command line and also from 3rd-party software”** is selected.
+
+- **macOS:** Install Git using Homebrew (`brew install git`) or install Xcode Command Line Tools using `xcode-select --install`.
+
+- **Linux (Ubuntu / Debian):** Run `sudo apt update` followed by `sudo apt install git`.
+
+After installation, restart your terminal and verify Git is installed using:
+`git --version`
+
+---
+
 ## Fork this repository
 
 Fork this repository by clicking on the fork button on the top of this page.
