@@ -1,6 +1,7 @@
 # Contributors
 - [Don Josi] (https://github.com/donjosik)
 - [Revanth] (https://github.com/revanth01-code)
+- [Joise S Arakkal](https://github.com/joise-s-arakkal/)
 - [Syed Rahil Hussain](https://github.com/Syed-srh)
 - [Kondaka Bhargavi](https://github.com/bhargavikondaka)
 - [Mohammed Munaaf](https://github.com/MohammedMunaaf)
