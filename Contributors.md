@@ -2090,3 +2090,4 @@ contribution by arshi
 - [ryusufx](https://github.com/ryusufx)
 - Agnetha Rweyemamu  
 - [ Bidhan Chakraborty ] - { https://github.com/Biddy-92 }
+- [Comrade Sidorov](https://github.com/comrade-Sidorov) | printf("Hello Open Source\n");
