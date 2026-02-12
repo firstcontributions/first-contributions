@@ -2115,4 +2115,4 @@ contribution by arshi
 - [Ningegowda](https://github.com/ningegowda)
 - [Wasim Pathan](https://github.com/PathanWasim)
 - [Steve Coghill](https://github.com/BriarSMC)
-- [Ayush Pal](https://github.com/ayush1944)
+- [Avatar](https://github.com/ayush1944)
