@@ -1,5 +1,13 @@
 
 # Contributors
+- [Rahul Nawale] (https://github.com/blachcat)
+- [Don Josi] (https://github.com/donjosik)
+- [Revanth] (https://github.com/revanth01-code)
+- [Joise S Arakkal](https://github.com/joise-s-arakkal/)
+- [Syed Rahil Hussain](https://github.com/Syed-srh)
+- [Kondaka Bhargavi](https://github.com/bhargavikondaka)
+- [Mohammed Munaaf](https://github.com/MohammedMunaaf)
+- [Srushti Wadi](https://github.com/srushti1705) 
 - [24f2006619](https://github.com/24f2006619)
 - [Amrutha Ponduri](https://github.com/amrutha-ponduri)
  [Maheshnanappanayaka](https://github.com/Datawithmahi)
@@ -8,6 +16,9 @@
 - [Anubhooti Pandey](https://github.com/anubhootipandey)
 -[Warren Chang](https://github.com/tiunn)
 -[Mike Mayberry] (https://github.com/MichaelMayberry)
+- Hemendra Kumar Sharma
+- Chris Lidres
+- [samweli-itatilo](https://github.com/Samwelitatilo)
 -[venkateshwaran] (https://github.com/venkat-venkat-080206)
 - [Sai Shanmukkha Surapaneni](https://github.com/SaiShanmukkha)
 -[23f3000162](https://github.com/23f3000162)
@@ -15,6 +26,7 @@
 -[23f3001196](https://github.com/23f3001196)
 - [Vaibhav Gupta](https://github.com/Vaibhavking8)
 - [Muhammad Ali](https://github.com/Sudo-Ali-Dev)
+-[Domara Imad](https://github.com/Domara337)
 - [Kaushal Vaid](https://github.com/Kaushal00Vaid)
 - [JS_foundation](https://github.com/Joseph Costantino Shaury)
 - [Rashmi Apagundi](https://github.com/Rashmi-apagundi)
@@ -30,6 +42,7 @@
 -[Arsalan khan](https://github.com/Arsalankhan-07)
 - [Sowmya Sadhasivam] (https://github.com/SowmyaSadhasivam)
 - [Kushal V Achar](https://github.com/kushalvachar2006)
+- [Dante Perez](https://github.com/dapperdante)
 - [Sanjana yadav] (https://github.com/gaddamsanjanayadav-arch)  
 - Vaishhnavi Kadiyala (https://github.com/Vaishhnavi27Hub)
 - [Yash Chigullapally](https://github.com/yashtech-hub)
@@ -52,9 +65,11 @@
 - [Khujrat Shaikh](https://github.com/khujrat17) 🌐 .NET Foundation Member 
 - [Park Je Young] (https://github.com/zerobak13)
 - [Sijomon P S] (https://github.com/sijomonps)
+- [Justin Urassa](https://github.com/JustinUrassa)
 - [gililo] (https://github.com/gililo)
 - [S Hajare](https://github.com/swapnil-s-h)
 - [SL](https://github.com/Sloeffler123)
+- -[MBOGO KATEGILE ZABRON](https://github.com/SHEVISANTOS)
 -[Valdes](https://github.com/ValdesFeudjio)
 - [IRONMAN DEV](https://github.com/IROTECHLAB/)
 - [Sarah Susan George](https://github.com/Sarah4908)
@@ -94,9 +109,11 @@
 - [Anshika Punase] (https://github.com/anshika-codes-AI)
 - [Zahra Williams] (https://github.com/zahrawill)
 - [Asad Khalid](https://github.com/Asad-K2025)
+- [JeremiahyHenry3](https://github.com/JeremiahyHenry3)
 - [eraycetinx](https://github.com/eraycetinx)
 - [Pranab Tiwari] (https://github.com/pranabtiwari)
 - [Danny Palacios] (https://github.com/DannyAIX)
+- [Kevin Braam] (https://github.com/Kevin-Braam)
 - [Yash Bhatt](https://github.com/YashBhatt2)
 - [Khushi Jaiswal] (https://github.com/Khushi84670/)
 - [Ch Vipulabhiram] (https://github.com/Vipulabhiram)
@@ -109,6 +126,7 @@
 - [Anshul Bhardwaj](https://github.com/Anshul-Bhardwaj-21)
 - [Anurag Banerjee](https://github.com/Banerjee2027)
 - [Vedant Pai] (https://github.com/VEDANT-PAI)
+- [Priyanka Gollapudi] (https://github.com/GOLLAPUDI-PRIYANKA)
 - [Jocin J] (https://github.com/Jocin55)
 - [Kushal Obroy](https://github.com/Kushalobroy)
 - [Siddarth Sharma] (https://github.com/sharmasiddarth)
@@ -117,6 +135,7 @@
 - [Marjorie Atrasado] (https://github.com/itsmemarj)
 - [Srishti Gupta](https://github.com/Srishtig0711)   
 - [lfathh](https://github.com/lfathh)
+- [Yuan QingHong](https://github.com/Pluto417-Qing)
 - [Abhinav Dwivedi](https://github.com/abhinavdwivedi05)
 - [Swathi Gurijala](https://github.com/swathi-gurijala)
 - [Akshaya M](https://github.com/Akshaya-0503)
@@ -167,6 +186,8 @@
 - [Dhanshree Patangrao](https://github.com/Dhanshree019)
 - inlitx
 - Lynn
+- [Vivek S](https://github.com/VivekSarvaiya)
+- [Rachel Smith] (https://github.com/RS550)
 - [Digitql0][https://github.com/Digitql0]
 -[sadique shaikh][https://github.com/sadikshaikh00]
 - [Imanol57864](https://github.com/Imanol57864)
@@ -193,6 +214,7 @@
 - [Jeremiah Isaacson](https://github.com/jeremiahjordanisaacson)
 - [Sanjay Baskaran](https://github.com/sanjayb-28)
 - [Marta Maia](https://github.com/martadmaia)
+- [Aryan] (https://github.com/aryangasni)
 - [Adnan Aftab](https://github.com/AdnanAftab1/)
 - [Paras Parte](https://github.com/parasparte12)
 - [Sharyu Patil](http://github.com/Sharyupatil01)
@@ -214,6 +236,7 @@
 -[Sarthak Chavan](https://github.com/sarthak11234)
 - [Sagar Maurya](https://github.com/SagarXCode)
 --[Diksha] (https://github.com/diksha-jindal) 
+- [Rahul]
 - [Sameer Mandve](https://github.com/sameermandve)
 - [charliegonzo](https://github.com/CharlieGonzo/first-contributions.git)
 - KJayasree2025
@@ -310,6 +333,7 @@ Arushi Punhani
 - [Dhurv](https://github.com/DhruvMarulkar)
 - [Marcel Nguemnin](https://github.com/mnguemnin)
 - [Blossom Williams](https://github.com/blossom2016)
+- [Khushboo Singla](https://github.com/2002Khushboo)
 - [Waasila Asif](https://github.com/WaasilaAsif)
 - [Carmen Saavedra](https://github.com/csaavedrae)
 - [Akshat Trivedi] (https://github.com/akshat1602)
@@ -387,6 +411,7 @@ Sathish
 - [Mudipelly Shiva](https://github.com/shivamudipelly)
 - CubeWithBelt
 - [TripleB]
+- Manohar Reddy K
 - [twaga51](https://github.com/twaga51)
 - [3260700740-sketch](https://github.com/3260700740-sketch)
 - [Himanshu](https://github.com/Hima1234gh/)
@@ -632,6 +657,7 @@ Naman Malik
 - [Aryan Jaiswal](https://github.com/AryanJ6)
 - [Ash Ibarra](https://github.com/ashthewildfox)
 - [Ashen Umeda](https://github.com/ashenumeda)
+- [curtainsamll](https://github.com/curtainsamll)
 - [Lakshy Sharma](https://github.com/1lakshy)
 - [Ashiq](https://github.com/devopashiq)
 - [Ashmitha Chowdary Kommi](https://github.com/klu2400032417)
@@ -775,6 +801,7 @@ Naman Malik
 - [Dipak Rasal](https://dipakrasal2009)
 - [Disha520](https://github.com/Disha520)
 - [Divin Sota](https://github.com/divinsota/first-contributions)
+- [Patrick Poon](https://github.com/PatrickPoon-dev)
 - [Divyom Srivastava](https://github.com/DivyomSrivastava)
 - [Diyashree Devadiga](https://github.com/DDiyash)
 - [DochertyDev](https://github.com/DochertyDev)
@@ -1305,6 +1332,7 @@ Naman Malik
 - [Rodrigo Sanchez](https://github.com/RodrigoSanchezDev)
 - [Rohan Linga](http://github.com/R0hanL1nga)
 - [Rohan](https://github.com/Christopher-91)
+- [Ryan M](https://github.com/rmoylan2201)
 - [Ronik Kumbhar](https://github.com/ronik62)
 - [Rosellines](https://github.com/Rosellines)
 - [Roshan Kumar](https://github.com/roshan-zest)
@@ -1557,6 +1585,7 @@ Naman Malik
 - [Zongbo Bao](https://github.com/zongbobao)
 - [Zuzanna Pilat](https://github.com/Pilat11)
 - [Luiz Zaballa](https://github.com/zaballa12)
+- [Abdelrahman Moubarak](https://github.com/amoubarak2608)
 - [abdhullah200](https://github.com/abdhullah200)
 - [ajithrao](my first contribution)
 - [akashisang](https://github.com/Akashisang)
@@ -1972,6 +2001,7 @@ guru
 - [randseas](https://github.com/randseas)
 - [Clara](https://github.com/Jayanthiclaretdevaraj)
 - [Aryan Jha](https://github.com/aryankumarjha1441-debug)
+- [Djireb Sadek Lamine](https://github.com/sadek1amine)
 - [Ishan Ladva](https://github.com/ishanladva)
 -[Yogesh Nehra](https://github.com/Yogesh07Nehra/)
 -[Tanay Mishra](https://github.com/Tanay2920003)
@@ -2064,5 +2094,15 @@ contribution by arshi
 - Rokaya Othman adas-  https://github.com/RokayaOthman
 - Swatisinghaniya166
 - [Kaligotla Sri Datta Sai Vithal] - https://github.com/Sridattasai18
+- Swatisinghaniya166
 - [Nadim Chendy] - https://github.com/NadimPy | fn main(){println!("Hello world!");}
 
+- [Harshit Chauhan](https://github.com/harshitchauhann)
+- [Nadim Chendy] - https://github.com/NadimPy | fn main(){println!("Hello world!");}
+- [Adi Singh](https://github.com/adisingh0824)
+- [Aayush Patel](https://github.com/Aayush1302)
+- [Dayanch](https://github.com/devanch-hub)
+- [ryusufx](https://github.com/ryusufx)
+- Agnetha Rweyemamu  
+- [ Bidhan Chakraborty ] - { https://github.com/Biddy-92 }
+- [Comrade Sidorov](https://github.com/comrade-Sidorov) | printf("Hello Open Source\n");
