@@ -2069,9 +2069,4 @@ contribution by arshi
 - [Harishankar Mohapatra](https://github.com/harx878-beep)
 - [Nguyễn Duy Bảo](https://github.com/nguyenduybao1)
 - Jayasri R - https://github.com/Jayasrii-R
-- Rokaya Othman adas-  https://github.com/RokayaOthman
-- [Kaligotla Sri Datta Sai Vithal] - https://github.com/Sridattasai18
-- [Harshit Chauhan](https://github.com/harshitchauhann)
-- [Nadim Chendy] - https://github.com/NadimPy | fn main(){println!("Hello world!");}
-- [Adi Singh](https://github.com/adisingh0824)
-- [Aayush Patel](https://github.com/Aayush1302)
+- [Jm Dublon](https://github.com/Dublonx)
