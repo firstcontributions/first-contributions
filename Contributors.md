@@ -92,6 +92,7 @@
 - [Anshika Punase] (https://github.com/anshika-codes-AI)
 - [Zahra Williams] (https://github.com/zahrawill)
 - [Asad Khalid](https://github.com/Asad-K2025)
+- [JeremiahyHenry3](https://github.com/JeremiahyHenry3)
 - [eraycetinx](https://github.com/eraycetinx)
 - [Pranab Tiwari] (https://github.com/pranabtiwari)
 - [Danny Palacios] (https://github.com/DannyAIX)
