@@ -9,6 +9,7 @@
 - [Anubhooti Pandey](https://github.com/anubhootipandey)
 -[Warren Chang](https://github.com/tiunn)
 -[Mike Mayberry] (https://github.com/MichaelMayberry)
+- Chris Lidres
 -[venkateshwaran] (https://github.com/venkat-venkat-080206)
 - [Sai Shanmukkha Surapaneni](https://github.com/SaiShanmukkha)
 -[23f3000162](https://github.com/23f3000162)
