@@ -4,6 +4,7 @@
 - [yuraj-isurinda] (https://github.com/Yuraj-Isurinda)
 - [Derderderr] (https://github.com/Derderderr)
 - [Don Josi] (https://github.com/donjosik)
+- [karthikeya] (https://github.com/karthik309k)
 - [Revanth] (https://github.com/revanth01-code)
 - [Sanjana] (https://github.com/Sanjana-AI-24)
 - [Joise S Arakkal](https://github.com/joise-s-arakkal/)
