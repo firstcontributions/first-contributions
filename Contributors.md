@@ -781,6 +781,7 @@ Naman Malik
 - [Dipak Rasal](https://dipakrasal2009)
 - [Disha520](https://github.com/Disha520)
 - [Divin Sota](https://github.com/divinsota/first-contributions)
+- [Patrick Poon](https://github.com/PatrickPoon-dev)
 - [Divyom Srivastava](https://github.com/DivyomSrivastava)
 - [Diyashree Devadiga](https://github.com/DDiyash)
 - [DochertyDev](https://github.com/DochertyDev)
