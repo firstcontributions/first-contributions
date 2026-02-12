@@ -997,6 +997,7 @@ Naman Malik
 - [Jose Nino Muriel](ttps://github.com/josenino95)
 - [Jose Rios](https://github.com/josel006)
 - [Jose Soto](https://github.com/jossotriv)
+- [Domenico Foglia](https://github.com/DomenicoFoglia)
 - Oliver Wang
 - [Martin Chen](https://github.com/Shiyuan-Chen-17)
 - [JosephAlexander](https://github.com/Josephalexander06)
