@@ -396,3 +396,5 @@ desktop.ini
 
 .codegpt
 .qodo
+*.ini
+desktop.ini
