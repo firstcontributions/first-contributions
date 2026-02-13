@@ -135,25 +135,27 @@ git clone "url you just copied"
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 مثال:
+```bash
 git clone git@github.com:this-is-you/first-contributions.git
-
+```
 
 یتھہ this-is-you توہند GitHub یوزرنیم چھُ۔
 
 قدم 4 – نوو برانچ بنٲوُن
 
 ریپوزیٹری ڈائریکٹری منز گژھِو:
-
+```bash
 cd first-contributions
-
+```
 
 نوو برانچ بنٲوِو:
-
+```bash
 git switch -c your-new-branch-name
-
+```
 مثال:
+```bash
 git switch -c add-my-name
-
+```
 قدم 5 – تبدیلی کرُن تہ Commit کرُن
 
 Contributors.md فایل کھولِو
@@ -164,25 +166,26 @@ Contributors.md فایل کھولِو
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
 ونہِ یِہ کمانڈ چلٲو:
-
+```bash
 git status
-
+```
 
 تبدیلی شامل کرنہ خٲطرہ:
-
+```bash
 git add Contributors.md
-
+```
 
 Commit کرنہ خٲطرہ:
-
+```bash
 git commit -m "Add your-name to Contributors list"
-
+```
 
 “your-name” بدلہ پنُن ناو لیکھِو۔
 
 قدم 6 – تبدیلی GitHub پیٹھ Push کرُن
+```bash
 git push -u origin your-branch-name
-
+```
 
 “your-branch-name” بدلہ پنُن برانچک ناو لیکھِو۔
 
