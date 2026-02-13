@@ -242,6 +242,7 @@
 - [Sabyasachi Ghosh](https://github.com/sabyasachi008)
 - [Andres Ramirez](https://github.com/AndresRM199)
 - [Nikhil Dubey](https://github.com/Nikonus)
+- [Ariful Islam Shoikot](https://github.com/Shoikot27)
 -[Sarthak Chavan](https://github.com/sarthak11234)
 - [Sagar Maurya](https://github.com/SagarXCode)
 --[Diksha] (https://github.com/diksha-jindal) 
