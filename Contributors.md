@@ -25,6 +25,7 @@
 - Hemendra Kumar Sharma
 - Chris Lidres
 - Paul
+- Kiran Sekhar
 - [samweli-itatilo](https://github.com/Samwelitatilo)
 -[yohanesnyalusi](https://github.com/yohanesnyalusi)
 -[venkateshwaran] (https://github.com/venkat-venkat-080206)
