@@ -4,6 +4,7 @@
 - [yuraj-isurinda] (https://github.com/Yuraj-Isurinda)
 - [Derderderr] (https://github.com/Derderderr)
 - [Don Josi] (https://github.com/donjosik)
+- [karthikeya] (https://github.com/karthik309k)
 - [Revanth] (https://github.com/revanth01-code)
 - [Sanjana] (https://github.com/Sanjana-AI-24)
 - [Joise S Arakkal](https://github.com/joise-s-arakkal/)
@@ -41,6 +42,7 @@
 - [Sridhar S](https://github.com/sridhar-sri-s)
 - [Dogukan Aysan](https://github.com/dogukan-aysan)
 - [Pavana K V](https://github.com/Pavanakv)
+- [Saurav Sharma](https://github.com/saurav0369)
 - [Gyanam Bhalgat](https://github.com/Gyanam1310)
 -Adi(https://github.com/AdityaSinghBisht3000/)
 -[Arsalan khan](https://github.com/Arsalankhan-07)
@@ -65,6 +67,7 @@
 -[Vaishnav Kedar](https://github.com/vaishnavk09)
 -[Anita](https://github.com/AnitaHome)
 -[Shubham Rajbhar](https://github.com/shubham37r)
+-[Ranaveer Subbu](https://github.com/subbu6366)
 -[Harish kandi] (https://github.com/kandiharish/)
 - [Khujrat Shaikh](https://github.com/khujrat17) 🌐 .NET Foundation Member 
 - [Park Je Young] (https://github.com/zerobak13)
@@ -1488,6 +1491,7 @@ Naman Malik
 - [Tejas Jogdand](https://github.com/Tejas-Jogdand)
 - [Test Perfil 1](https://github.com/test-git001)
 - [Temhemc](https://github.com/temhemc)
+- [Teng-Hui Huang](https://github.com/hui811116)
 - [Thejus Kannoth](https://github.com/ThejusKannoth)
 - [THEXPO](https://github.com/THEXPO)
 - [Thomas Martin](https://github.com/Tm4rtin17)
@@ -2078,6 +2082,7 @@ contribution by arshi
 - [8zppQr](https://github.com/8zppQr) Hello! 
 - [Hafiz Ishtiaq](https://github.com/Ishtiaq-Codes) Thanks!
 - [Gyan Prakash](https://github.com/Gyanprakash136)
+- [Mahdi Es](https://github.com/xNIGMAx)
 - [Arunya Saravanabava](https://github.com/aru-pro123)
 - [Hemang Sharma](https://github.com/hemangsharma)
 - Nabanita Borah
