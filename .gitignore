@@ -10,6 +10,7 @@
 *.userosscache
 *.sln.docstates
 *.swp
+*.ini
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -395,3 +396,5 @@ desktop.ini
 
 .codegpt
 .qodo
+*.ini
+desktop.ini
