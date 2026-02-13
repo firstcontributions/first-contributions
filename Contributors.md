@@ -1,4 +1,5 @@
 # Contributors
+- [priyanshubarai] (https://github.com/priyanshubarai)
 - [orphicdusk] (https://github.com/orphicdusk)
 [Nikhitha Talari](https://github.com/Nikhitha-spec)
 [Maneesh Muthyala](https://github.com/maneeshmuthyala)
