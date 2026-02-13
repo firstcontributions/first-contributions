@@ -2124,3 +2124,7 @@ contribution by arshi
 - [Avatar](https://github.com/ayush1944)
 - [oscar](https://github.com/olp0678/first-contributions)
 - [yescjs](https://github.com/yescjs)
+#### Name: [Shyamanta Moni Borah](https://github.com/Shyamanta1986)
+   - Place: Guwahati, Assam, India
+   - Bio: Data Science student at IIT Madras
+   - GitHub: [Shyamanta1986](https://github.com/Shyamanta1986)
