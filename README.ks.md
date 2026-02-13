@@ -105,7 +105,7 @@
 _اگر توہیہ کمانڈ لائن استعمال کرنس منز آرام دہ نِہ چھو، تیلے GUI ٹولزن سیتھ ٹیوٹوریل دستیاب چھ۔_
 
 ---
-
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork the repository" />
 ## قدم 1 – Git انسٹال کرُن
 
 اگر توہند کمپیوٹرنس پیٹھ git انسٹال نِہ چھُ، تیلے اتھ انسٹال کرِو:
@@ -122,7 +122,7 @@ https://docs.github.com/en/get-started/quickstart/set-up-git
 ---
 
 ## قدم 3 – ریپوزیٹری کلون کرُن
-
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone the repository" />
 ونہِ فورک کرمت ریپوزیٹری پننس کمپیوٹرنس پیٹھ کلون کرِو۔
 
 پننس GitHub اکاؤنٹس منز گژھِو، فورک کرمت ریپوزیٹری کھولِو، “Code” بٹن پیٹھ کلک کرِو، SSH ٹیب ژارِو تہ URL کاپی کرِو۔
@@ -131,6 +131,9 @@ https://docs.github.com/en/get-started/quickstart/set-up-git
 
 ```bash
 git clone "url you just copied"
+```
+
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 مثال:
 git clone git@github.com:this-is-you/first-contributions.git
 
@@ -158,6 +161,7 @@ Contributors.md فایل کھولِو
 اتھ منز پنُن ناو شامل کرِو
 
 فائل محفوظ کرِو
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
 ونہِ یِہ کمانڈ چلٲو:
 
@@ -184,9 +188,13 @@ git push -u origin your-branch-name
 
 قدم 7 – Pull Request جمع کرُن
 
-پننس GitHub ریپوزیٹری پیٹھ گژھِو، تہ توہیہ Compare & pull request بٹن وُچھِو۔
+  پننس GitHub ریپوزیٹری پیٹھ گژھِو، تہ توہیہ Compare & pull request بٹن وُچھِو۔
+
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="compare and create pull request" />
 اتھ پیٹھ کلک کرِو تہ pull request جمع کرِو۔
 
+
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 ژٹہِ وقتس منز توہند تبدیلی مین برانچس سیتھ مرج گژھن۔
 توہیہ ای میل نوٹیفکیشن رَٹِو جب تبدیلی منظور گژھِتھ۔
 
