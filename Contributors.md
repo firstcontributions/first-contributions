@@ -1,9 +1,10 @@
 # Contributors
 
 - [orphicdusk] (https://github.com/orphicdusk)
-  [Nikhitha Talari](https://github.com/Nikhitha-spec)
-  [Maneesh Muthyala](https://github.com/maneeshmuthyala)
-  [AbhinavSai](https://github.com/abhinavsai830-lang)
+[Nikhitha Talari](https://github.com/Nikhitha-spec)
+[Maneesh Muthyala](https://github.com/maneeshmuthyala)
+[AbhinavSai](https://github.com/abhinavsai830-lang)
+[Ram pujitha](https://github.com/Rampujitha-123)
 - [Soumya Grandhi] (https://github.com/soumya-grandhi)
 - [Vaishnavi Saudagar] (https://github.com/vaishnavi10200)
 - [Rahul Nawale] (https://github.com/blachcat)
