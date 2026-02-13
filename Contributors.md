@@ -146,6 +146,7 @@
 - [Ch Vipulabhiram] (https://github.com/Vipulabhiram)
 - [Sanjay Ganesh] (https://github.com/SanjayGanesh614)
 - [Ashad Shaikh] (https://github.com/senku0-0)
+- [dlukel](https://github.com/dlukel)
 - [Harshathan] (https://github.com/harshathan028)
 - [Yaswanth Killampalli] (https://github.com/yaswanthkillampalli)
 - [Keerthan Jakkaraju](https://github.com/Keerthanjakkarajucodes)git sta
