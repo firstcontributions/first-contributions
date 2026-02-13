@@ -2,6 +2,7 @@
 - [Soumya Grandhi] (https://github.com/soumya-grandhi)
 - [Rahul Nawale] (https://github.com/blachcat)
 [Shravya D] (https://github.com/ShravyaGowda06)
+- [yanhao] (https://github.com/George050121)
 - [yuraj-isurinda] (https://github.com/Yuraj-Isurinda)
 - [Derderderr] (https://github.com/Derderderr)
 - [Don Josi] (https://github.com/donjosik)
