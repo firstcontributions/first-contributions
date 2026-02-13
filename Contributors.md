@@ -351,8 +351,7 @@ Arushi Punhani
 - [Shravani Kurkute](https://github.com/Shravani-kurkute)sss
 - [Manoj Yadav] (https://github.com/Manoj-yadav-2404)
 - [Khushal Shivhare](https://github.com/khushal-coder-learner)
- - [Khushal Shivhare](https://github.com/khushal-coder-learner)
- - Khushal Sai
+ - [Khushal Sai](https://github.com/khushalsai28)
  - [Matthew Han] (https://github.com/matthewjyhan)
 - [Brenda G](https://github.com/BrendaG04)
 - [yac-nixo]
