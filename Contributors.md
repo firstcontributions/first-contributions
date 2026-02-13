@@ -274,6 +274,7 @@
 - [Sahil Gupta](https://github.com/sahilgupta088)
 - [BennyJang](https://github.com/BennyJang)
 - [naheel](https://github.com/naheel0)
+- [Ossama Nahle](https://github.com/ossamanahle)
 - [Dev Goel](https://github.com/404Dev-notFound)
 - [Alka Gupta](https://github.com/AlkaGupta6800)
 - [Tuvva Vexith](https://github.com/VitCritical)
@@ -2148,3 +2149,4 @@ main
 - [yescjs](https://github.com/yescjs)
 - [Shyamanta Moni Borah](https://github.com/Shyamanta1986)
 - [Muttu Bhjantri](https://github.com/muttuhb98-n)
+-[Vikram-sardiwal](https://github.com/Vikram-sardiwal)
