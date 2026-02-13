@@ -1,3 +1,4 @@
+
 # Contributors
 - [Soumya Grandhi] (https://github.com/soumya-grandhi)
 - [Rahul Nawale] (https://github.com/blachcat)
@@ -72,6 +73,7 @@
 - [Ram Tichkule](https://github.com/Raam751)
 -[Vaishnav Kedar](https://github.com/vaishnavk09)
 -[Anita](https://github.com/AnitaHome)
+- [Swati Singhaniya](https://github.com/Swatisinghaniya166)
 -[Shubham Rajbhar](https://github.com/shubham37r)
 -[Ranaveer Subbu](https://github.com/subbu6366)
 -[Harish kandi] (https://github.com/kandiharish/)
@@ -2115,7 +2117,11 @@ contribution by arshi
 - [Nguyễn Duy Bảo](https://github.com/nguyenduybao1)
 - Jayasri R - https://github.com/Jayasrii-R
 - Rokaya Othman adas-  https://github.com/RokayaOthman
+- Swatisinghaniya166
 - [Kaligotla Sri Datta Sai Vithal] - https://github.com/Sridattasai18
+- Swatisinghaniya166
+- [Nadim Chendy] - https://github.com/NadimPy | fn main(){println!("Hello world!");}
+
 - [Harshit Chauhan](https://github.com/harshitchauhann)
 - [Nadim Chendy] - https://github.com/NadimPy | fn main(){println!("Hello world!");}
 - [Adi Singh](https://github.com/adisingh0824)
