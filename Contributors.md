@@ -1436,6 +1436,7 @@ Naman Malik
 - [Sharma22053](https://github.com/Sharma22053)
 - [Shashank Lakhaiyar](https://github.com/shawshank-fork)
 - [Shaswat Raj](https://github.com/sh20raj)
+- [Seturaman Kumar](https://github.com/SeturamanKumar)
 - [Sherry](https://github.com/zsylllike-sketch)
 - [Shira Dery](https://github.com/shira43)
 - [Shiv Raj Singh](https://github.com/imuniqueshiv)
