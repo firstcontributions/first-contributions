@@ -1,5 +1,6 @@
 # Contributors
 - [Soumya Grandhi] (https://github.com/soumya-grandhi)
+- [Vaishnavi Saudagar] (https://github.com/vaishnavi10200)
 - [Rahul Nawale] (https://github.com/blachcat)
 [Shravya D] (https://github.com/ShravyaGowda06)
 - [yanhao] (https://github.com/George050121)
