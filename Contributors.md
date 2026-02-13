@@ -1,6 +1,7 @@
 # Contributors
 - [priyanshubarai] (https://github.com/priyanshubarai)
 - [orphicdusk] (https://github.com/orphicdusk)
+[srikar] (https://https://github.com/Srikarpolimera)
 [Nikhitha Talari](https://github.com/Nikhitha-spec)
 [Maneesh Muthyala](https://github.com/maneeshmuthyala)
 [AbhinavSai](https://github.com/abhinavsai830-lang)
