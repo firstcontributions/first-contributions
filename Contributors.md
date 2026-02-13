@@ -11,6 +11,7 @@
 - [yanhao] (https://github.com/George050121)
 - [yuraj-isurinda] (https://github.com/Yuraj-Isurinda)
 - [Derderderr] (https://github.com/Derderderr)
+- [priyanshuabarai] (https://github.com/priyanshubarai)
 - [Don Josi] (https://github.com/donjosik)
 - [karthikeya] (https://github.com/karthik309k)
 - [Revanth] (https://github.com/revanth01-code)
