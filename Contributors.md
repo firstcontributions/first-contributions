@@ -5,6 +5,7 @@
 [Maneesh Muthyala](https://github.com/maneeshmuthyala)
 [AbhinavSai](https://github.com/abhinavsai830-lang)
 [Ram pujitha](https://github.com/Rampujitha-123)
+[SimhadriNakka](https://github.com/Simhadrinakka)
 - [Soumya Grandhi] (https://github.com/soumya-grandhi)
 - [Vaishnavi Saudagar] (https://github.com/vaishnavi10200)
 - [Rahul Nawale] (https://github.com/blachcat)
