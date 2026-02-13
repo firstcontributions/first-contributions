@@ -201,7 +201,7 @@ git push -u origin your-branch-name
 ژٹہِ وقتس منز توہند تبدیلی مین برانچس سیتھ مرج گژھن۔
 توہیہ ای میل نوٹیفکیشن رَٹِو جب تبدیلی منظور گژھِتھ۔
 
-یِتھہ پتہ کِتھ گژھن؟
+## یِتھہ پتہ کِتھ گژھن؟
 
 مبارک! 🎉
 توہیہ کامیابی سان معیاری ورک فلو مکمل کرمُت:
@@ -217,10 +217,13 @@ https://github.com/roshanjossey/code-contributions
 
 دُسریں آسان پروجیکٹن ہند فہرست:
 https://firstcontributions.github.io/#project-list
+[**وَڌھ مواد**](/additional-material/git_workflow_scenarios/additional-material.md)
+
+
 
 GUI ٹولزن سیتھ ٹیوٹوریل
 
-توہیہ یِم ٹول تہِ استعمال کٔرتھ ہیکو:
+## توہیہ یِم ٹول تہِ استعمال کٔرتھ ہیکو:
 
 
 
