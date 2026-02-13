@@ -274,6 +274,7 @@
 - [Sahil Gupta](https://github.com/sahilgupta088)
 - [BennyJang](https://github.com/BennyJang)
 - [naheel](https://github.com/naheel0)
+- [Ossama Nahle](https://github.com/ossamanahle)
 - [Dev Goel](https://github.com/404Dev-notFound)
 - [Alka Gupta](https://github.com/AlkaGupta6800)
 - [Tuvva Vexith](https://github.com/VitCritical)
