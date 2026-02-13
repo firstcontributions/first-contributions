@@ -1,4 +1,5 @@
 # Contributors
+- [Soumya Grandhi] (https://github.com/soumya-grandhi)
 - [Rahul Nawale] (https://github.com/blachcat)
 [Shravya D] (https://github.com/ShravyaGowda06)
 - [yuraj-isurinda] (https://github.com/Yuraj-Isurinda)
@@ -20,9 +21,11 @@
 - [Anubhooti Pandey](https://github.com/anubhootipandey)
 -[Warren Chang](https://github.com/tiunn)
 -[Mike Mayberry] (https://github.com/MichaelMayberry)
-- Hemendra Kumar Sharma
 - Chris Lidres
 - Hemendra Sharma
+- Paul
+- [samweli-itatilo](https://github.com/Samwelitatilo)
+-[yohanesnyalusi](https://github.com/yohanesnyalusi)
 -[venkateshwaran] (https://github.com/venkat-venkat-080206)
 - [Sai Shanmukkha Surapaneni](https://github.com/SaiShanmukkha)
 -[23f3000162](https://github.com/23f3000162)
@@ -241,6 +244,7 @@
 - [Sabyasachi Ghosh](https://github.com/sabyasachi008)
 - [Andres Ramirez](https://github.com/AndresRM199)
 - [Nikhil Dubey](https://github.com/Nikonus)
+- [Ariful Islam Shoikot](https://github.com/Shoikot27)
 -[Sarthak Chavan](https://github.com/sarthak11234)
 - [Sagar Maurya](https://github.com/SagarXCode)
 --[Diksha] (https://github.com/diksha-jindal) 
