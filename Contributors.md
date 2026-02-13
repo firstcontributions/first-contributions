@@ -208,7 +208,7 @@
 - [Dhanshree Patangrao](https://github.com/Dhanshree019)
 - inlitx
 - Lynn
-- Dallin Hogenson
+- [Dallin Hogenson](https://github.com/dhogenson)
 - [Vivek S](https://github.com/VivekSarvaiya)
 - Veronica Mendes
 - [Rachel Smith] (https://github.com/RS550)
