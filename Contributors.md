@@ -2119,6 +2119,4 @@ contribution by arshi
 - [Comrade Sidorov](https://github.com/comrade-Sidorov) | printf("Hello Open Source\n");
 - [Ningegowda](https://github.com/ningegowda)
 - [Wasim Pathan](https://github.com/PathanWasim)
-- [Steve Coghill](https://github.com/BriarSMC)
-- [Avatar](https://github.com/ayush1944)
-- [oscar](https://github.com/olp0678/first-contributions)
+- [Sai Vyshnavi](https://github.com/vyshnavi005-max)
