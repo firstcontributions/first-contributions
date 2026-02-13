@@ -1088,6 +1088,7 @@ Naman Malik
 - [Loyd Ngei](https://github.com/LoydNgei)
 - [Lpscrim](https://github.com/lpscrim)
 - [Luan Lessa](https://github.com/LuanLessa)
+
 - [Lucas Couso Antunes](https://github.com/Rulyns)
 - [Luiz Augusto](https://github.com/Luizxdas)
 - [Luka](https://github.com/LukachuPro88)
