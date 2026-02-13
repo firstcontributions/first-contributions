@@ -61,6 +61,7 @@
 - [Pavana K V](https://github.com/Pavanakv)
 - [Saurav Sharma](https://github.com/saurav0369)
 - [Gyanam Bhalgat](https://github.com/Gyanam1310)
+- [Dzmitry Mukhin](https://github.com/divmone)
 -Adi(https://github.com/AdityaSinghBisht3000/)
 -[Arsalan khan](https://github.com/Arsalankhan-07)
 - [Sowmya Sadhasivam] (https://github.com/SowmyaSadhasivam)
