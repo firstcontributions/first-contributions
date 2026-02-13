@@ -997,6 +997,7 @@ Naman Malik
 - [Jaymin Dave](https://github.com/jaymin-dave-python-ak)
 - [Jayesh Patil](https://github.com/JayeshPatil163)
 - [Jeevan Raju](https://github.com/Jeevan-WPA)
+- [Abhisekh Reddy](https://github.com/Abhisekh-AK)
 - [Jeevika R](https://github.com/jeevikar14)
 - [Jenish Dangol](https://github.com/Jenis980)
 - [Jenna Hall](https://github.com/swejenna)
