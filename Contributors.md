@@ -67,6 +67,7 @@
 - [Chirag Dawra] (https://github.com/ChiragDawra)
 -[Raghad Albadawi] (https://github.com/RaghadAlbadawi)
 -[Muhammad Anees](https://github.com/anees7757)
+-[cnavarro42](https://github.com/cnavarro42)
 -[Anita Lo](https://github.com/AnitaHome/first-contributions)
 - [Ram Tichkule](https://github.com/Raam751)
 -[Vaishnav Kedar](https://github.com/vaishnavk09)
