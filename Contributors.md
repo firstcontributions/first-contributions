@@ -408,6 +408,7 @@ Sathish
 - [Das1Zhang](https://github.com/Das1Zhang)
 - [midikaif](https://github.com/midikaif)
 
+- [wp](https://github.com/wpfdxl)
 - [guerrasz](https://github.com/guerrasz)
 - [Rishita Sinha](https://github.com/rishita0706)
 - Koaniki
