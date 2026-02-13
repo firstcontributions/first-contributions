@@ -808,6 +808,7 @@ Sathish
 
 - [midikaif](https://github.com/midikaif)
 
+- [wp](https://github.com/wpfdxl)
 - [guerrasz](https://github.com/guerrasz)
 
 - [Rishita Sinha](https://github.com/rishita0706)
@@ -4229,3 +4230,4 @@ contribution by arshi
 - [oscar](https://github.com/olp0678/first-contributions)
 
 - [yescjs](https://github.com/yescjs)
+- [Shyamanta Moni Borah](https://github.com/Shyamanta1986)
