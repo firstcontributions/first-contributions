@@ -1,4 +1,5 @@
 # Contributors
+[Nikhitha Talari](https://github.com/Nikhitha-spec)
 [Maneesh Muthyala](https://github.com/maneeshmuthyala)
 [AbhinavSai](https://github.com/abhinavsai830-lang)
 - [Soumya Grandhi] (https://github.com/soumya-grandhi)
