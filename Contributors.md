@@ -30,6 +30,7 @@
 - [Vaibhav Gupta](https://github.com/Vaibhavking8)
 - [Muhammad Ali](https://github.com/Sudo-Ali-Dev)
 -[Domara Imad](https://github.com/Domara337)
+- [Paulo Mwita](https://github.com/Mwita-jr)
 - [Kaushal Vaid](https://github.com/Kaushal00Vaid)
 - [JS_foundation](https://github.com/Joseph Costantino Shaury)
 - [Rashmi Apagundi](https://github.com/Rashmi-apagundi)
@@ -65,7 +66,7 @@
 -[Anita](https://github.com/AnitaHome)
 -[Shubham Rajbhar](https://github.com/shubham37r)
 -[Harish kandi] (https://github.com/kandiharish/)
-- [Khujrat Shaikh](https://github.com/khujrat17) 🌐 .NET Foundation Member 
+- [Khujrat Shaikh](https://github.com/khujrat17) 🌐 .NET Foundation Member
 - [Park Je Young] (https://github.com/zerobak13)
 - [Sijomon P S] (https://github.com/sijomonps)
 - [Justin Urassa](https://github.com/JustinUrassa)
@@ -262,7 +263,6 @@
 - [Dev Goel](https://github.com/404Dev-notFound)
 - [Alka Gupta](https://github.com/AlkaGupta6800)
 - [Tuvva Vexith](https://github.com/VitCritical)
-
 - [liplip](https://github.com/liplip358)
 - [Dorcas Adebayor](https://github.com/dokipure)
 - [adriancll](https://github.com/adriancll)
