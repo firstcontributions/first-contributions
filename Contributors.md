@@ -6,6 +6,7 @@
 - [Trishna](https://github.com/trishna2105)
 - [Debasish](https://github.com/DevDebas)
 - [Jake Medeiros] (https://github.com/jakemedeiros)
+-[Amit Jadhav](https://github.com/A-aj007)
 - [Mushara] (https://github.com/mushra31)
 - [Moulidhar](https://github.com/MoulidharC)
 - [Hemendar](https://github.com/hemendar1)
