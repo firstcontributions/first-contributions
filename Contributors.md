@@ -4,6 +4,7 @@
 [Shravya D] (https://github.com/ShravyaGowda06)
 - [yanhao] (https://github.com/George050121)
 - [yuraj-isurinda] (https://github.com/Yuraj-Isurinda)
+ [Rohan Nimje](https://github.com/RohanNimje)
 - [Derderderr] (https://github.com/Derderderr)
 - [Don Josi] (https://github.com/donjosik)
 - [karthikeya] (https://github.com/karthik309k)
