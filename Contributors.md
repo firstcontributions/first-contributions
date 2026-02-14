@@ -41,6 +41,7 @@
  [Maheshnanappanayaka](https://github.com/Datawithmahi)
 - [Santosh Chakradhar](https://github.com/santoshchakradhar1)
 -[23f3003225](https://github.com/23f3003225)
+- [Pranav Palled] (https://github.com/Pranav-Mahesh-Palled)
 - [Anubhooti Pandey](https://github.com/anubhootipandey)
 -[Warren Chang](https://github.com/tiunn)
 -[Nada Naveesh](https://github.com/Nada-Naveesh)
