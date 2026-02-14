@@ -1864,6 +1864,7 @@ guru
 - [tony xixi] (https://github.com/Adilkhan6465) -[Jonah Billerbeck](https://github.com/Joenuhhh) -[yuyudaodev](https://github.com/yuyudaodev)
 - [Pooja](https://github.com/rspooja901)
 - [Gnanam Raghupathy Naidu](https://github.com/GnanamRaghupathy)
+- [akshay sahu](https://github.com/akshayksahu012)
 - [Amrutha](https://github.com/Amrutha-dev25)
 - [Dustin Ober](https://github.com/dustinober1)
 - [Jason Porta](https://github.com/jasonporta)
