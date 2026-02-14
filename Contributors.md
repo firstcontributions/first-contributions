@@ -1,6 +1,7 @@
 # Contributors
 - [Om Kshirsagar] (https://github.com/Mr-OmKshirsagar)
 - [Ashruth] (https://github.com/xyz)
+- [Al Imran] (https://github.com/ImranAvenger)
 -[Karthik V](https://github.com/Karthikv2310)
 -[Bhanu S](https://github.com/Bhanuprakash2580)
 - [Ashlesh Bathina](https://github.com/AshleshBathina)
