@@ -1048,6 +1048,7 @@ Naman Malik
 - [Jenna Hall](https://github.com/swejenna)
 - [Jeonghyun Lee](https://github.com/leejh0820)
 - [Jeremy Aguillon](https://github.com/jagui1)
+- [Jeremy Hodge](https://github.com/jdhodge88)
 - [Jeremy Matina](https://github.com/JeremyM07)
 - [Jessica Huang](https://github.com/jssahuang)
 - [Jessica Thomas](https://github.com/jmt713)
