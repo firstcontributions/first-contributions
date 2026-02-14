@@ -15,6 +15,7 @@
 - [priyanshubarai] (https://github.com/priyanshubarai)
 - [orphicdusk] (https://github.com/orphicdusk)
 [srikar] (https://https://github.com/Srikarpolimera)
+[Nikhilendar Sai](https://github.com/bunnytns6-cpu)
 [Nikhitha Talari](https://github.com/Nikhitha-spec)
 [Maneesh Muthyala](https://github.com/maneeshmuthyala)
 [AbhinavSai](https://github.com/abhinavsai830-lang)
