@@ -2169,3 +2169,4 @@ contribution by arshi
 - [Tan Song Kai] (https://github.com/tsk93)
 - [Wirt Salthouse](https://github.com/Wirt4)
 - [Anand Agrawal](https://github.com/anand-agrawal)
+- [Kaito15](https://github.com/Kaito387)
