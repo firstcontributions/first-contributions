@@ -1,6 +1,11 @@
 # Contributors
 - [Ashruth] (https://github.com/xyz)
+-[Karthik V](https://github.com/Karthikv2310)
+- [Ashlesh Bathina](https://github.com/AshleshBathina)
+- [Rishitha Pachigolla](https://github.com/Rishithamanasa)
+- [Trishna](https://github.com/trishna2105)
 - [Debasish](https://github.com/DevDebas)
+- [Jake Medeiros] (https://github.com/jakemedeiros)
 - [Mushara] (https://github.com/mushra31)
 - [Moulidhar](https://github.com/MoulidharC)
 - [Hemendar](https://github.com/hemendar1)
@@ -2195,3 +2200,5 @@ contribution by arshi
 - [Yadnyesh](https://github.com/Yadnyesh-patil)
 - [fovisio](https://github.com/fovisio)
 - [Ayisha Nasreen N](https://github.com/ayishanasreen828-sketch)
+- [Ayse Gul Pekgoz](https://github.com/aydubuk)
+- [Midhun Ramesh](https://github.com/midhun-1717)
