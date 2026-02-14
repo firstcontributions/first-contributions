@@ -2104,7 +2104,7 @@ guru
 - [Aakash Chauhan](https://github.com/akashinedon)
 - [Gowtham V](https://github.com/gowthamvelayudham1103-pixel)
 - [James Fan](https://github.com/JamesXuFan)
-
+- [baqqa](https://github.com/baqqa)
 
 - [Sheldon Fam](https://github.com/SheldonFam)
 - [Prathamesh Kulkarni](https://github.com/prathamk11)
