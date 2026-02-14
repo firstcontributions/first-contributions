@@ -1,4 +1,5 @@
 # Contributors
+- [Rishitha Pachigolla](https://github.com/Rishithamanasa)
 - [Trishna](https://github.com/trishna2105)
 - [Debasish](https://github.com/DevDebas)
 - [Mushara] (https://github.com/mushra31)
