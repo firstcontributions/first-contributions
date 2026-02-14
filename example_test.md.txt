@@ -1,0 +1,15 @@
+# Simple Test Example by Gasto Titus Fungo
+
+This is a basic test scenario for learning contributions:
+
+**Test Case 1: Basic Addition**
+- Input: 1 + 1
+- Expected Output: 2
+- Actual: Passed!
+
+**Test Case 2: String Concatenation**
+- Input: "Hello" + " World"
+- Expected: "Hello World"
+- Actual: Passed!
+
+This demonstrates simple testing concepts in open source.
