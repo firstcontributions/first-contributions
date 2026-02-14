@@ -1,5 +1,6 @@
 # Contributors
 - [harrykwokdev] (https://github.com/harrykwokdev)
+- [nsvrk] (https://github.com/nsvrk)
 - [Vedhachandhana] (https://github.com/buildwithvedha)
 - [Nikhil Gone] (https://github.com/Nikhilgone517)
 - [priyanshubarai] (https://github.com/priyanshubarai)
