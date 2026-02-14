@@ -1,6 +1,7 @@
 # Contributors
 - [Ashruth] (https://github.com/xyz)
 -[Karthik V](https://github.com/Karthikv2310)
+-[Bhanu S](https://github.com/Bhanuprakash2580)
 - [Ashlesh Bathina](https://github.com/AshleshBathina)
 - [Rishitha Pachigolla](https://github.com/Rishithamanasa)
 - [Trishna](https://github.com/trishna2105)
