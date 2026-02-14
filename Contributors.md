@@ -3,7 +3,7 @@
 - [Rishitha Pachigolla](https://github.com/Rishithamanasa)
 - [Trishna](https://github.com/trishna2105)
 - [Debasish](https://github.com/DevDebas)
-- [Jake Medeiros] (https://github.com/jakemedeiros)
+- [Aruna Burle] (https://github.com/arunaburle9-creator)
 - [Mushara] (https://github.com/mushra31)
 - [Moulidhar](https://github.com/MoulidharC)
 - [Hemendar](https://github.com/hemendar1)
