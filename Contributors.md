@@ -1,5 +1,6 @@
 # Contributors
 - [Debasish](https://github.com/DevDebas)
+- [Jake Medeiros] (https://github.com/jakemedeiros)
 - [Mushara] (https://github.com/mushra31)
 - [Moulidhar](https://github.com/MoulidharC)
 - [Hemendar](https://github.com/hemendar1)
