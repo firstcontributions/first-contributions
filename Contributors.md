@@ -1,4 +1,5 @@
 # Contributors
+- [Trishna](https://github.com/trishna2105)
 - [Debasish](https://github.com/DevDebas)
 - [Mushara] (https://github.com/mushra31)
 - [Moulidhar](https://github.com/MoulidharC)
