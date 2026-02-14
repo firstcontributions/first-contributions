@@ -16,6 +16,7 @@
 - [Derderderr] (https://github.com/Derderderr)
 - [priyanshuabarai] (https://github.com/priyanshubarai)
 - [Don Josi] (https://github.com/donjosik)
+- [Anthony Lorenzo] (https://github.com/TheShoadow06)
 - [karthikeya] (https://github.com/karthik309k)
 - [Revanth] (https://github.com/revanth01-code)
 - [Sanjana] (https://github.com/Sanjana-AI-24)
