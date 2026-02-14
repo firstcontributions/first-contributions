@@ -1,12 +1,17 @@
 # Contributors
+- [Trishna](https://github.com/trishna2105)
 - [Debasish](https://github.com/DevDebas)
+
 - [Roshini](https://github.com/roshiniram)
+- [Mushara] (https://github.com/mushra31)
+
 - [Moulidhar](https://github.com/MoulidharC)
 - [Hemendar](https://github.com/hemendar1)
 - [Jinukuntla Akhil Kumar ](https://github.com/jinukuntlaakhilakumargoud-web)
 - [Amalraj MP](https://github.com/AmalRajMP)
 - [Philip S] (https://github.com/PhilipPanda) 
 - [Mounika Yerramsetti] (https://github.com/MounikaYerramsetti26)
+-[Matokey](https://github.com/Matokey)
 - [Jaswanth] (https://github.com/jaswanth-7777)
 - [Manikanta] (https://github.com/manikantapixes)
 - [Pardhu] (https://github.com/Pardhu643)
@@ -2193,3 +2198,4 @@ contribution by arshi
 - [Yadnyesh](https://github.com/Yadnyesh-patil)
 - [fovisio](https://github.com/fovisio)
 - [Ayisha Nasreen N](https://github.com/ayishanasreen828-sketch)
+- [Ayse Gul Pekgoz](https://github.com/aydubuk)
