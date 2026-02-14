@@ -232,7 +232,7 @@
 - [Ajinkya Awachar](https://github.com/ajju-09)
 - [Bethu Sathwika](https://github.com/sathwikabethu)
 - [Ashzad Kamal](https://github.com/ashzad123)
-- [Diya Saha](https://github.com/DiyadotSaha)
+- [Diya Saharma](https://github.com/DiyadotSaha)
 - [Ashmi A Jha](https://github.com/ashmi8)
 - [Pratham Debnath](https://github.com/isthatpratham)
 - [Mohd Rayyan Lulaniya](https://github.com/Rayyan-101)
