@@ -6,6 +6,7 @@
 - [Mounika Yerramsetti] (https://github.com/MounikaYerramsetti26)
 - [Jaswanth] (https://github.com/jaswanth-7777)
 - [Manikanta] (https://github.com/manikantapixes)
+- [Pardhu] (https://github.com/Pardhu643)
 -[VarshiniSomisetty] (https://github.com/priyavarshini27)
 - [harrykwokdev] (https://github.com/harrykwokdev)
 - [nsvrk] (https://github.com/nsvrk)
