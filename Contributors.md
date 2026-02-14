@@ -1,5 +1,6 @@
 # Contributors
 - [Vedhachandhana] (https://github.com/buildwithvedha)
+- [Nikhil Gone] (https://github.com/Nikhilgone517)
 - [priyanshubarai] (https://github.com/priyanshubarai)
 - [orphicdusk] (https://github.com/orphicdusk)
 [srikar] (https://https://github.com/Srikarpolimera)
