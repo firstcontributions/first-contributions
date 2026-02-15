@@ -1,5 +1,6 @@
 # Contributors
 - [Praveesh Billava](https://github.com/praveeshb)
+- [Sanjay](https://github.com/sanjay-n-01)
 - [Abirami Vijayan] (https://github.com/vabirami07102004)
 - [umesh reddy](https://github.com/T-UmeshReddy)
 - [Thangella Harshitha](https://github.com/harshithathangella)
