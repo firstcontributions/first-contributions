@@ -1,6 +1,6 @@
 # Contributors
 
-- [Tetiana Tkachova](https://github.com/defur) git commit -m "Add <your-name> to Contributors list"
+- [Tetiana Tkachova](https://github.com/defur) git commit -m "Add `<your-name>` to Contributors list"
 - [Cooper Li] (https://github.com/CooperLi1)
 - [The Bug Hunter](https://github.com/biswajitRapidsoft)
 - [Waqar Hasan](https://github.com/JohnWalkerHasan)
@@ -12,6 +12,7 @@
 - [sulmanfarooqq](https://github.com/sulmanfarooqq)
 - [Montad-24](https://github.com/Montad-24)
 - [Towhidul Islam](https://github.com/towhidulbu08)
+- Saathvik N Sharma
 - [Nitin Singh Bisht](https://github.com/NitinNSB)
 - [Ciara](https://github.com/ciahan)
 - [Shashank Avvaru](https://github.com/Shashankavvaru-hub)
@@ -856,7 +857,7 @@
 - [Chetan Atram](https://github.com/RabbitBoii)
 - [Chip Kelsey](https://github.com/chipncharge)
 - [Ctrshift-Pm](https://github.com/Ctrshift-Pm)
-- [Darshon](<https://github.colets> gom/darshons)
+- [Darshon]([https://github.colets](https://github.colets)) gom/darshons)
 - [David Stark](https://github.com/GamingPions)
 - [Derek Hall](https://github.com/derekhall483)
 - [Dhananjay Mohan](https://github.com/djvu2k6)
@@ -935,7 +936,7 @@
 - [Raj Gajjar](https://github.com/RajGajjar-01)
 - [Ramu Deyyam](https://github.com/Ramu-Deyyam)
 - [Rohan Shinde](https://github.com/kalki-19RS)
-- [Sa'adatu Usman](https://github.com/Saadatu1)
+- [Sa&#39;adatu Usman](https://github.com/Saadatu1)
 - [SaboorNisha](https://github.com/SaboorNisha)
 - [Sahil Kolte](https://github.com/sahilakolte)
 - [Sandy052005](https://github.com/sandy052005)
@@ -1094,7 +1095,7 @@
 - [Joery van Santen](https://github.com/joeryvs)
 - [Shashwat Gauniyal](https://github.com/ShashwatGauniyal)
 - [Grace Chen Abudi](https://github.com/Chen-Abudi)
-- [Joseph O'Neill](https://github.com/L00188381)
+- [Joseph O&#39;Neill](https://github.com/L00188381)
 - [Josmer Rodriguez](https://github.com/Josmerr)
 - [Kerem Balci](https://github.com/kerembalci90)
 - [Keshav Kant](https://github.com/Keshav-Kant/)
@@ -1518,7 +1519,7 @@
 - [Phương Anh](https://github.com/TRANNGUYENPHUONGANH)
 - [Peristroff](https://github.com/Peristroff) - I wish for you to become the best version of yourself.
 - [Sahan Tharaka](https://github.com/HKSahanTharaka)
-- [Soumya Sinha] (<https://github.com/Soumyasinha29>)
+- [Soumya Sinha] ([https://github.com/Soumyasinha29](https://github.com/Soumyasinha29))
 - [Joshua Fernandes](https://github.com/joshjfernandes416) - Best of luck to you all <3
 - [0xSoniC](https://github.com/sonictheblue)
 - [Rom2555](https://github.com/Rom2555)
@@ -1541,13 +1542,13 @@
 - [Torgyn](https://github.com/tz9158)
 - [Jessica](https://github.com/jxssicaz)
 - [Jiya Amin](https://github.com/jiya1613)
-- [Juniper Brinegar](https://github.com/jClarinet) 
+- [Juniper Brinegar](https://github.com/jClarinet)
 - [Dinesh Kumar](https://github.com/dineshraj96)
 - [ShadowMist](https://github.com/shadowmist)
 - [Bibek Sharma](https://github.com/Bibek246)
 - [Ashish Singh](https://github.com/BoogeyyMann)
 - [Tasos Stefanidis](https://github.com/TasStef)
-[fibonacci1123git](https://github.com/fibonacci1123git)
+  [fibonacci1123git](https://github.com/fibonacci1123git)
 - [bismuth-baller](https://github.com/bismuth-baller)
 - [Filipe Limao](https://github.com/fliplemon)
 - [Formulaeagle161](https://github.com/Formulaeagle161)
