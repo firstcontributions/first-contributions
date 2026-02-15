@@ -4,6 +4,7 @@
 - [Abirami Vijayan] (https://github.com/vabirami07102004)
 [Annlia Lixon](https://github.com/AnnliaLixon)
 - [umesh reddy](https://github.com/T-UmeshReddy)
+  [Janani](https://github.c0m/Jananijanu2)
 - [Thangella Harshitha](https://github.com/harshithathangella)
 - [Vaibhav Hample](https://github.com/Vaibhav-rgb45)
 - [Praseeda VL](https://github.com/praseeda-10)
