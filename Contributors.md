@@ -256,6 +256,7 @@
 - [Dhanshree Patangrao](https://github.com/Dhanshree019)
 - inlitx
 - Lynn
+- Gabriel
 - [Dallin Hogenson](https://github.com/dhogenson)
 - [Vivek S](https://github.com/VivekSarvaiya)
 - Veronica Mendes
