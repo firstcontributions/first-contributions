@@ -15,7 +15,7 @@
 যদি আপনি উইন্ডোজ ব্যবহার করেন এবং আপনার কাছে Git Bash না থাকে, এখান থেকে ইন্সটল করুন
 ।
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/fork.png" alt="এই রিপোজিটরিটি ফর্ক করুন" />
 এই রিপোজিটরিকে Fork করুন
 
 এই পেজের উপরের ডান দিকে থাকা Fork বাটনে ক্লিক করুন।
@@ -29,7 +29,7 @@
 
 ১. আপনার রিপোজিটরির পেজে যান, "Code" বাটনে ক্লিক করুন এবং সেখানে দেওয়া লিঙ্ক কপি করুন।
 
-<img src="https://firstcontributions.github.io/assets/cli-tool-tutorials/git-bash-windows-tutorial/gb-clone-1.png" alt="copy string" />
+<img src="https://firstcontributions.github.io/assets/cli-tool-tutorials/git-bash-windows-tutorial/gb-clone-1.png" alt="URL টি ক্লিপবোর্ডে কপি করুন" />
 
 ২. Git Bash অ্যাপ্লিকেশন খুলুন। উইন্ডোজে এটি নিচের ছবির মতো দেখাবে:
 
@@ -45,7 +45,7 @@ cd <folder>
 
 git clone <repo-url>
 
-<img src="https://firstcontributions.github.io/assets/cli-tool-tutorials/git-bash-windows-tutorial/gb-clone-2.png" alt="clone the repository" />
+<img src="https://firstcontributions.github.io/assets/cli-tool-tutorials/git-bash-windows-tutorial/gb-clone-2.png" alt="এই রিপোজিটরিটি ক্লোন করুন" />
 
 ৫. ক্লোন করা ডিরেক্টরিতে যান এবং Visual Studio Code এ ওপেন করুন:
 
@@ -77,7 +77,7 @@ add-james-smith
 
 git status
 
-<img src="https://firstcontributions.github.io/assets/cli-tool-tutorials/git-bash-windows-tutorial/gb-status.png" alt="check the status" />
+<img src="https://firstcontributions.github.io/assets/cli-tool-tutorials/git-bash-windows-tutorial/gb-status.png" alt="গিট স্ট্যাটাস" />
 
 ফাইল স্টেজ করতে:
 
@@ -108,11 +108,11 @@ Pull Request পাঠান
 
 GitHub এ আপনার রিপোজিটরিতে গেলে Compare & pull request বাটন দেখতে পাবেন। সেখানে ক্লিক করুন।
 
-<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/compare-and-pull.png" alt="create a pull request" />
+<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/compare-and-pull.png" alt="একটি পুল রিকোয়েস্ট তৈরি করুন" />
 
 এরপর Pull Request সাবমিট করুন।
 
-<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/submit-pull-request.png" alt="submit pull request" />
+<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/submit-pull-request.png" alt="পুল রিকোয়েস্ট জমা দিন" />
 
 শীঘ্রই আপনার পরিবর্তনগুলো মূল রিপোজিটরির master ব্রাঞ্চে মার্জ হয়ে যাবে। পরিবর্তন মার্জ হলে ইমেইলে নোটিফিকেশন পাবেন।
 
