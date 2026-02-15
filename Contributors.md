@@ -2,6 +2,7 @@
 - [Prem Kumar] (https://github.com/Premkumar1845)
 - [Saketh1929] (https://github.com/Saketh1929)
 - [U Shivakumar](https://github.com/Shivakumarsullagaddi)
+- [Kavish Pal Singh](https://github.com/23f2005144)
 - [Vishnu Priya K] (https://github.com/vishnu-2805)
 - [Praveesh Billava](https://github.com/praveeshb)
 - [Sanjay](https://github.com/sanjay-n-01)
