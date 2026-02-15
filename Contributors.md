@@ -1654,6 +1654,7 @@ Naman Malik
 - [VikramMahajan](https://github.com/vikramm0907)
 - [Vinh D Tran](https://github.com/s3500659)
 - [Vinit Patel](https://github.com/Vinit3116)
+- [Md Muawiyah Khalid] (https://github.com/maaviah17)
 - [Vipul Pandey](https://github.com/19vip)
 - [Virabhadra Khobare](https://github.com/VirabhadraKhobare)
 - [Viraj Hudlikar](https://github.com/vhudlikar)
