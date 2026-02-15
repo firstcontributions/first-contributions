@@ -154,9 +154,22 @@ git switch -c your-new-branch-name
 ```
 مثال:
 ```bash
-git switch -c add-my-name
+git switch -c add-alonzo-church
 ```
-قدم 5 – تبدیلی کرُن تہ Commit کرُن
+<details>  
+<summary> <strong>اگر یِمۍ تُہۍ git switch استعمال کران وِز کُنہِ غلطی آیہٕ، یَتھ پٲٹھۍ کلِک کٔرِو:</strong> </summary>  
+
+اگر غلطی پیغام "Git: `switch` is not a git command. See `git –help`" ظاہر گژھِ، تَتھٕ ہُند مطلب یہ چھُ کہ تُہۍ git ہُند پرٛان وٲژن استعمال کران چھُو۔
+
+اَسہِ حالتس منٛز، `git checkout` استعمال کرُن ہُند کوشش کٔرِو:
+
+```bash
+git checkout -b your-new-branch-name
+```
+
+</details>
+
+## قدم 5 – تبدیلی کرُن تہ Commit کرُن
 
 Contributors.md فایل کھولِو
 
@@ -182,14 +195,43 @@ git commit -m "Add your-name to Contributors list"
 
 “your-name” بدلہ پنُن ناو لیکھِو۔
 
-قدم 6 – تبدیلی GitHub پیٹھ Push کرُن
+ ## قدم 6 – تبدیلی GitHub پیٹھ Push کرُن
 ```bash
 git push -u origin your-branch-name
 ```
 
 “your-branch-name” بدلہ پنُن برانچک ناو لیکھِو۔
+<details>  
+<summary> <strong>اگر push کران وِز کُنہِ غلطی آیہٕ، یَتھ پٲٹھۍ کلِک کٔرِو:</strong> </summary>  
 
-قدم 7 – Pull Request جمع کرُن
+* ### Authentication Error
+
+     <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.  
+  remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.  
+  fatal: Authentication failed for 'https://github.com/&lt;your-username&gt;/first-contributions.git/'</pre>  
+
+  SSH key بنٲوُن تہ پننس اکاؤنٹس سۭتۍ configure کرُن خٲطرٕ GitHub ہُند tutorial وُچھِو۔
+
+  اَسہِ علاوہ، remote address چیک کرُن خٲطرٕ یہ کمانڈ چَلاوُن:
+
+  `git remote -v`
+
+  اگر یہ یِمۍ پٲٹھۍ وُچھِ:
+
+  <pre>origin	https://github.com/your-username/your_repo.git (fetch)  
+  origin	https://github.com/your-username/your_repo.git (push)</pre>  
+
+  تہ یہ کمانڈ استعمال کٔرِو تام change کرُن خٲطرٕ:
+
+  ```bash
+  git remote set-url origin git@github.com:your-username/your_repo.git
+  ```
+
+  نَتہ تُہۍ ہنوز username تہ password خٲطرٕ prompt گژھِو تہ authentication error آیہٕ۔
+
+</details>
+
+## پنٕنۍ تبدیلیاں جائزہ خٲطرٕ جمع کرِو
 
   پننس GitHub ریپوزیٹری پیٹھ گژھِو، تہ توہیہ Compare & pull request بٹن وُچھِو۔
 
