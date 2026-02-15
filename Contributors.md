@@ -497,6 +497,7 @@ Kaushlendra
 - [AC](https://github.com/FortKnoxWasTaken)
 - [Malak Adea](https://github.com/MalakGdaea)
 - [ARCHANA_GURUSAMY](https://github.com/ARCHANA-SENGUNTHAR)
+- [Denis Mutahangarwa]
 - [ARES](https://github.com/phoenixcodeforces-blip)
 - [ASaHi Chin](https://github.com/Cxlyq)
 - [yashasvi Lamba ](https://github.com/Yashasvi767)
