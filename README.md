@@ -33,6 +33,7 @@
 <kbd>[<img title="日本語" alt="日本語" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/jp.svg" width="22">](docs/translations/README.ja.md)</kbd>
 <kbd>[<img title="සිංහල" alt="සිංහල" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/lk.svg" width="22">](docs/translations/README.si.md)</kbd>
 <kbd>[<img title="Kiswahili (Kenya)" alt="Kiswahili (Kenya)" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ke.svg" width="22">](docs/translations/README.kws.md)</kbd>
+<kbd>[<img title="کٲشُر" alt="کٲشُر" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/bd.svg" width="22">](docs/translations/README.ks.md)</kbd>
 <kbd>[<img title="한국어" alt="한국어" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/kr.svg" width="22">](docs/translations/README.ko.md)</kbd>
 <kbd>[<img title="Lietuvių kalba" alt="Lietuvių kalba" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/lt.svg" width="22">](docs/translations/README.lt.md)</kbd>
 <kbd>[<img title="Limba Română" alt="Limba Română" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/md.svg" width="22"> <img title="Limba Română" alt="Limba Română" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ro.svg" width="22">](docs/translations/README.ro.md)</kbd>
