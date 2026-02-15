@@ -4,6 +4,7 @@
 - [Ashruth] (https://github.com/xyz)
 - [Al Imran] (https://github.com/ImranAvenger)
 -[Karthik V](https://github.com/Karthikv2310)
+-[Shrinivas Mattur](https://github.com/shrinivasmattur)
 -[Bhanu S](https://github.com/Bhanuprakash2580)
 - [Ashlesh Bathina](https://github.com/AshleshBathina)
 -[Latika Popli](https://github.com/Latika2005)
