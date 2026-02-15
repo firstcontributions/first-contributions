@@ -1,5 +1,6 @@
 # Contributors
-[Vaibhav Hample](https://github.com/Vaibhav-rgb45)
+- [Thangella Harshitha](https://github.com/harshithathangella)
+- [Vaibhav Hample](https://github.com/Vaibhav-rgb45)
 - [Dasari Abhilash World] (https://github.com/DASARIABHILASH)
 - [Om Kshirsagar] (https://github.com/Mr-OmKshirsagar)
 - [Ashruth] (https://github.com/xyz)
