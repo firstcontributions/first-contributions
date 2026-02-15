@@ -1558,6 +1558,7 @@ Naman Malik
 - [Sriharshini Kuruvella](https://github.com/Sriharshini7)
 - [Srinivasan Baskaran](https://github.com/spiritedman4)
 - [Sriram Ettikala](https://github.com/caals666)
+- [Sriteja01](https://github.com/Sriteja01)
 - [Stephen Ng](https://github.com/snust)
 - [Stargazzer] (https://github.com/Parribesh/first-contributions)
 - [Subodh Kumar Swain](https://github.com/Subodg-12)
