@@ -26,14 +26,13 @@
 <kbd>[<img title="Magyar" alt="Magyar" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/hu.svg" width="22">](docs/translations/README.hu.md)</kbd>
 <kbd>[<img title="Bahasa Indonesia" alt="Bahasa Indonesia" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/id.svg" width="22">](docs/translations/README.id.md)</kbd>
 <kbd>[<img title="עִברִית" alt="עִברִית" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/il.svg" width="22">](docs/translations/README.hb.md)</kbd>
-<kbd>[<img title="ગુજરાતી / हिन्दी / मराठी / മലയാളം / ಕನ್ನಡ / తెలుగు / ଓଡିଆ / छत्तीसगढ़ी / ਪੰਜਾਬੀ" alt="ગુજરાતી / हिन्दी / मराठी / മലയാളം / ಕನ್ನಡ / తెలుగు / ଓଡିଆ / छत्तीसगढ़ी / ਪੰਜਾਬੀ" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/in.svg" width="22">](docs/translations/Translations.md)</kbd>
+<kbd>[<img title="ગુજરાતી / हिन्दी / मराठी / മലയാളം / ಕನ್ನಡ / తెలుగు / ଓଡିଆ / छत्तीसगढ़ी / ਪੰਜਾਬੀ/کٲشُر" alt="ગુજરાતી / हिन्दी / मराठी / മലയാളം / ಕನ್ನಡ / తెలుగు / ଓଡିଆ / छत्तीसगढ़ी / ਪੰਜਾਬੀ/کٲشُر" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/in.svg" width="22">](docs/translations/Translations.md)</kbd>
 <kbd>[<img title="தமிழ்" alt="தமிழ்" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/lk.svg" width="22">](docs/translations/README.ta.md)</kbd>
 <kbd>[<img title="فارسی" alt="فارسی" src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Iran_before_1979_Revolution.svg" width="22">](docs/translations/README.fa.md)</kbd>
 <kbd>[<img title="Italiano" alt="Italiano" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/it.svg" width="22">](docs/translations/README.it.md)</kbd>
 <kbd>[<img title="日本語" alt="日本語" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/jp.svg" width="22">](docs/translations/README.ja.md)</kbd>
 <kbd>[<img title="සිංහල" alt="සිංහල" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/lk.svg" width="22">](docs/translations/README.si.md)</kbd>
 <kbd>[<img title="Kiswahili (Kenya)" alt="Kiswahili (Kenya)" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ke.svg" width="22">](docs/translations/README.kws.md)</kbd>
-<kbd>[<img title="کٲشُر" alt="کٲشُر" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/bd.svg" width="22">](docs/translations/README.ks.md)</kbd>
 <kbd>[<img title="한국어" alt="한국어" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/kr.svg" width="22">](docs/translations/README.ko.md)</kbd>
 <kbd>[<img title="Lietuvių kalba" alt="Lietuvių kalba" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/lt.svg" width="22">](docs/translations/README.lt.md)</kbd>
 <kbd>[<img title="Limba Română" alt="Limba Română" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/md.svg" width="22"> <img title="Limba Română" alt="Limba Română" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ro.svg" width="22">](docs/translations/README.ro.md)</kbd>
