@@ -1,7 +1,7 @@
 # Contributors
 
 - [Praveesh Billava](https://github.com/praveeshb)
-- [Agnus Serena](https://github.com/AgnusSerena)
+- [Agnus Serena Rosaline](https://github.com/AgnusSerena)
 - [Abirami Vijayan] (https://github.com/vabirami07102004)
 - [umesh reddy](https://github.com/T-UmeshReddy)
 - [Thangella Harshitha](https://github.com/harshithathangella)
