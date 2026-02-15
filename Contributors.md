@@ -1,7 +1,12 @@
 # Contributors
+- [U Shivakumar](https://github.com/Shivakumarsullagaddi)
 - [Praveesh Billava](https://github.com/praveeshb)
 - [Abirami Vijayan](https://github.com/vabirami07102004)
+- [Sanjay](https://github.com/sanjay-n-01)
+- [Abirami Vijayan](https://github.com/vabirami07102004)
+- [Annlia Lixon](https://github.com/AnnliaLixon)
 - [umesh reddy](https://github.com/T-UmeshReddy)
+- [Janani](https://github.c0m/Jananijanu2)
 - [Thangella Harshitha](https://github.com/harshithathangella)
 - [Vaibhav Hample](https://github.com/Vaibhav-rgb45)
 - [Praseeda VL](https://github.com/praseeda-10)
@@ -2240,3 +2245,4 @@ contribution by arshi
 - [Deekshith](https://github.com/Deekshith2485)
 - [Faustine Frederick]
 - [Mohamed Abdelwahab](https://github.com/MohamedAbdElwahabOka)
+- [Fatima Bayat](https://github.com/FatimaBayat)
