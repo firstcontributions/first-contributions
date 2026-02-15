@@ -754,6 +754,7 @@ Naman Malik
 - [Ava16](https://github.com/Ava16)
 - [AvatarG](https://github.com/AvatarG)
 - [Ayananth](https://github.com/Ayananth)
+- [Nikhil Baranwal](https://github.com/NiiseKai-01)
 - [Ganesh Namani](https://github.com/Ganesh7742)
 - [Ayincoder](https://github.com/Ayincoder)
 - [Azaelrock0](https://github.com/azaelrock0)
