@@ -26,6 +26,7 @@
 - [Pardhu] (https://github.com/Pardhu643)
 -[VarshiniSomisetty] (https://github.com/priyavarshini27)
 - [harrykwokdev] (https://github.com/harrykwokdev)
+- [navpahul551] (https://github.com/navpahul551)
 - [nsvrk] (https://github.com/nsvrk)
 - [Vedhachandhana] (https://github.com/buildwithvedha)
 - [Dheeraj] (https://github.com/dheerajtk)
