@@ -1,4 +1,5 @@
 # Contributors
+-[Sujitha J](https://github.com/SujithaJayabal)
 - [Ashruth] (https://github.com/xyz)
 -[Karthik V](https://github.com/Karthikv2310)
 -[Bhanu S](https://github.com/Bhanuprakash2580)
