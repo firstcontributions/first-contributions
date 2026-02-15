@@ -2202,6 +2202,8 @@ contribution by arshi
 - [Aayush Patel](https://github.com/Aayush1302)
 - [Dayanch](https://github.com/devanch-hub)
 - [ryusufx](https://github.com/ryusufx)
+- [Mugdha] (https://github.com/mugdhaarekar)
+
 - Agnetha Rweyemamu  
 - [ Bidhan Chakraborty ] - { https://github.com/Biddy-92 }
 - [Comrade Sidorov](https://github.com/comrade-Sidorov) | printf("Hello Open Source\n");
