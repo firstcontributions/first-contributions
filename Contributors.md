@@ -715,6 +715,7 @@ Naman Malik
 - [Andrés Peña del Río](https://github.com/apenade)
 - [Andyple](https://github.com/andyple)
 -[CristopherDewveloper] (https://github.com/CristopheDeveloper)
+-[Justin Pugh](https://github.com/JP365247)
 - [Angad Bhalla](https://github.com/Anga205)
 - [Ange Scotto](https://github.com/321-iT)
 -[Sunita S.](https://github.com/Sunita-lab)
