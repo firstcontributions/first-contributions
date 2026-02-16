@@ -2260,3 +2260,4 @@ contribution by arshi
 - [Jacob Constant](https://github.com/Jzcob)
 - [Brian Torres] (https://github.com/btorres561)
 - [Ngamize Philbert](https://github.com/nik-p12)
+- [Rick  R] (https://github.com/rikkyrikky-ship-it)
