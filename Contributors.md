@@ -2000,6 +2000,7 @@ guru
 - [jennifer j](https://github.com/jenniferjayaraj19-ops)
 - [Harinee12](https://github.com/Harinee12)
 - [Jason Wang](https://github.com/Jiachenw399)
+- [Hugo Frías](https://github.com/hugofriasmtz) 💻
 - [Kamalakannan Srinivasan](https://github.com/kamalbalaji83)
 - [Igor Arkhipenko](https://github.com/igor-arkhipenko)
 - [arthisathish](https://github.com/Arthi-asd/)
