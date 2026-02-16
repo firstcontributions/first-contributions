@@ -1888,6 +1888,7 @@ guru
 - [terror-akshat](https://github.com/terror-akshat)
 - [That1LinuxGuy](https://github.com/That1LinuxGuy)
 - [tka](https://github.com/theinkhaaung007)
+- [24f3003274-RISHABH](https://github.com/24f3003274-RISHABH)
 - [tmmiizzuu](https://github.com/tmmiizzuu)
 - [tr0ublekat](https://github.com/tr0ublekat)
 - [traf nosleep](https://github.com/ayohsan)
