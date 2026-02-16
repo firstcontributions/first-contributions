@@ -1621,6 +1621,7 @@ Naman Malik
 - [TimUfer](https://github.com/TimUfer)
 - [TomiiAlz](https://github.com/TomiiAlz)
 - [Tony Wong](https://github.com/tony31913)
+- [24f3003274-RISHABH](https://github.com/24f3003274-RISHABH)
 - [Tournoy Noa](https://github.com/)
 - [Tracey Dingman](https://github.com/tdingman422)
 - [Trevor Tippery](https://github.com/trevortippery)
