@@ -117,6 +117,7 @@ Helllloo world! From this repo.
 - [Vaibhav Gupta](https://github.com/Vaibhavking8)
 - [Muhammad Ali](https://github.com/Sudo-Ali-Dev)
 -[Domara Imad](https://github.com/Domara337)
+- [Majit Mambetzhumayev](https://github.com/majitmambetzhumayev)
 - [Kaushal Vaid](https://github.com/Kaushal00Vaid)
 - [JS_foundation](https://github.com/Joseph Costantino Shaury)
 - [Rashmi Apagundi](https://github.com/Rashmi-apagundi)
