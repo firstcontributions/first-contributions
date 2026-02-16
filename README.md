@@ -4,6 +4,7 @@
 
 #### _Read this in [other languages](docs/translations/Translations.md)._
 <kbd>[<img title="Shqip" alt="Shqip" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/al.svg" width="22">](docs/translations/README.al.md)</kbd>
+
 <kbd>[<img title="Armenian" alt="Armenian" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/am.svg" width="22">](docs/translations/README.arm.md)</kbd>
 <kbd>[<img title="Uzbek" alt="Uzbek language" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/uz.svg" width="22">](docs/translations/README.uz.md)</kbd>
 <kbd>[<img title="Azərbaycan dili" alt="Azərbaycan dili" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/az.svg" width="22">](docs/translations/README.aze.md)</kbd>
