@@ -94,7 +94,7 @@ git push origin <add-your-name>
 
 Если вы зайдете в свой репозиторий на GitHub, вы увидите кнопку `Compare & pull request`. Нажмите на нее.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="Создать запрос на изменение" />
 
 Теперь подтвердите пулл-реквест.
 
