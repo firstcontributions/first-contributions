@@ -227,6 +227,7 @@ Helllloo world! From this repo.
 - [Ch Vipulabhiram] (https://github.com/Vipulabhiram)
 - [Sanjay Ganesh] (https://github.com/SanjayGanesh614)
 - [Ashad Shaikh] (https://github.com/senku0-0)
+- [Omer Ahmed](https://github.com/omerdotcom)
 - [dlukel](https://github.com/dlukel)
 - [Harshathan] (https://github.com/harshathan028)
 - [Yaswanth Killampalli] (https://github.com/yaswanthkillampalli)
