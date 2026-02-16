@@ -1,5 +1,6 @@
 # Contributors
 -[Ranjith](https://github.com/ranjith1444)
+-[Priyanshu Rawat](https://github.com/insanityatpeak)
 - [Jaideep Kalagara](https://github.com/jaideep-kalagara)
 - [Greevan Hari] (https://github.com/GreevanHari)
 - [Prem Kumar] (https://github.com/Premkumar1845)
