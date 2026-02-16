@@ -1635,6 +1635,7 @@ Naman Malik
 - [Utkarsh Doras](https://github.com/UtkarshKD)
 - [1828](https://github.com/18-28)
 - [V K Suvetha](https://github.com/vksuvetha)
+- [Vaibhav Nagar](https://github.com/Vaibhav170216)
 - [Vaibhav Pal](https://github.com/vaibhavpal7549)
 - [Vaibhav Bakliwal](https://github.com/bakliwalvaibhav1)
 - [Vaibhav Dhariwal](https://github.com/VaibhavDhariwal8)
