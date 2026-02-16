@@ -60,6 +60,7 @@
 - [priyanshubarai] (https://github.com/priyanshubarai)
 - [orphicdusk] (https://github.com/orphicdusk)
 [srikar] (https://https://github.com/Srikarpolimera)
+[Milan Choudhary] (https://github.com/Milan-Choudhary)
 [Nikhilendar Sai](https://github.com/bunnytns6-cpu)
 [Nikhitha Talari](https://github.com/Nikhitha-spec)
 [Maneesh Muthyala](https://github.com/maneeshmuthyala)
