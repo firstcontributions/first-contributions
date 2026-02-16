@@ -34,6 +34,7 @@ Helllloo world! From this repo.
 -[Shrinivas Mattur](https://github.com/shrinivasmattur)
 -[Bhanu S](https://github.com/Bhanuprakash2580)
 - [Ashlesh Bathina](https://github.com/AshleshBathina)
+- [Alexander Hoag](https://github.com/cddagamelaggudoutside)
 -[Latika Popli](https://github.com/Latika2005)
 - [Rishitha Pachigolla](https://github.com/Rishithamanasa)
 - [Trishna](https://github.com/trishna2105)
