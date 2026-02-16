@@ -2282,4 +2282,4 @@ contribution by arshi
 - [Jagamiya C](https://github.com/CJagamiya)
 - [Thy-Ronald](https://github.com/Thy-Ronald)
 - [Lucas-Hayes](https://github.com/hayeslucas128-cmyk)
-
+- Dina Kulmagambetova (https://github.com/dinywka)
