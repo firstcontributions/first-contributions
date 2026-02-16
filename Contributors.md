@@ -1,10 +1,11 @@
 # Contributors
-<<<<<<< HEAD
 -[Sujitha J](https://github.com/SujithaJayabal)
-=======
+- [Greevan Hari] (https://github.com/GreevanHari)
 - [Prem Kumar] (https://github.com/Premkumar1845)
+- [Vikas Kamera] (https://github.com/vikaskamera)
 - [Saketh1929] (https://github.com/Saketh1929)
 - [U Shivakumar](https://github.com/Shivakumarsullagaddi)
+- [Kavish Pal Singh](https://github.com/23f2005144)
 - [Vishnu Priya K] (https://github.com/vishnu-2805)
 - [Praveesh Billava](https://github.com/praveeshb)
 - [Sanjay](https://github.com/sanjay-n-01)
@@ -20,7 +21,7 @@
 - [Dasari Abhilash World] (https://github.com/DASARIABHILASH)
 - [Om Kshirsagar] (https://github.com/Mr-OmKshirsagar)
 - [Neeraj Gundam] (https://github.com/Neerajgundam-12)
->>>>>>> main
+
 - [Ashruth] (https://github.com/xyz)
 - [Al Imran] (https://github.com/ImranAvenger)
 -[Karthik V](https://github.com/Karthikv2310)
@@ -716,6 +717,7 @@ Naman Malik
 - [Andrés Peña del Río](https://github.com/apenade)
 - [Andyple](https://github.com/andyple)
 -[CristopherDewveloper] (https://github.com/CristopheDeveloper)
+-[Justin Pugh](https://github.com/JP365247)
 - [Angad Bhalla](https://github.com/Anga205)
 - [Ange Scotto](https://github.com/321-iT)
 -[Sunita S.](https://github.com/Sunita-lab)
@@ -1655,6 +1657,7 @@ Naman Malik
 - [VikramMahajan](https://github.com/vikramm0907)
 - [Vinh D Tran](https://github.com/s3500659)
 - [Vinit Patel](https://github.com/Vinit3116)
+- [Md Muawiyah Khalid] (https://github.com/maaviah17)
 - [Vipul Pandey](https://github.com/19vip)
 - [Virabhadra Khobare](https://github.com/VirabhadraKhobare)
 - [Viraj Hudlikar](https://github.com/vhudlikar)
@@ -2229,6 +2232,7 @@ contribution by arshi
 - [Avatar](https://github.com/ayush1944)
 - [oscar](https://github.com/olp0678/first-contributions)
 - [yescjs](https://github.com/yescjs)
+- [Gustavo Lopes] (https://github.com/GustavoHSL)
 - [Shyamanta Moni Borah](https://github.com/Shyamanta1986)
 - [Muttu Bhjantri](https://github.com/muttuhb98-n)
 -[Vikram-sardiwal](https://github.com/Vikram-sardiwal)
@@ -2254,3 +2258,8 @@ contribution by arshi
 - [Mohamed Abdelwahab](https://github.com/MohamedAbdElwahabOka)
 - [Fatima Bayat](https://github.com/FatimaBayat)
 - [Chethan harivansh]( https://github.com/chethuhari)
+- [Aditi Kumari](https://github.com/Aditik081)
+- [Jacob Constant](https://github.com/Jzcob)
+- [Brian Torres] (https://github.com/btorres561)
+- [Ngamize Philbert](https://github.com/nik-p12)
+- [Rick  R] (https://github.com/rikkyrikky-ship-it)
