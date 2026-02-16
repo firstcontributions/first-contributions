@@ -2230,6 +2230,7 @@ contribution by arshi
 - [Avatar](https://github.com/ayush1944)
 - [oscar](https://github.com/olp0678/first-contributions)
 - [yescjs](https://github.com/yescjs)
+- [Gustavo Lopes] (https://github.com/GustavoHSL)
 - [Shyamanta Moni Borah](https://github.com/Shyamanta1986)
 - [Muttu Bhjantri](https://github.com/muttuhb98-n)
 -[Vikram-sardiwal](https://github.com/Vikram-sardiwal)
