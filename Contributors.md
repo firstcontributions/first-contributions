@@ -99,6 +99,7 @@
 - Chris Lidres
 - Paul
 - Kiran Sekhar
+- [Sumit Mishra](https://github.com/SumitM01)
 - [Praveen Kayala](https://github.com/Praveen6-kms)
 - [samweli-itatilo](https://github.com/Samwelitatilo)
 -[yohanesnyalusi](https://github.com/yohanesnyalusi)
