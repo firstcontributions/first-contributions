@@ -211,6 +211,7 @@
 - [Heby Paul](https://github.com/hebypaul/)
 - [Lalith Krishna Vangara](https://github.com/VLK-123)
 - [Sanjana J Athreya](https://github.com/sanjanajathreya/)
+-[Samy Lamothe]https://github.com/slamothe21 
 - [Inigo Montoya]()
 - [Ankit Singh](https://github.com/ANKITsingh-git2)
 - [Wilmer Gulcochia](https://github.com/wigsdev)
