@@ -8,6 +8,7 @@ Helllloo world! From this repo.
 -[Ranjith](https://github.com/ranjith1444)
 - [Maicheal Shenouda](https://github.com/ymazir)
 -[Priyanshu Rawat](https://github.com/insanityatpeak)
+-[Anastasija26] (https://github.com/anastasija26)
 - [Ankit Raj](https://github.com/ankitrajrules)  
 - [Jaideep Kalagara](https://github.com/jaideep-kalagara)
 - [Greevan Hari] (https://github.com/GreevanHari)
