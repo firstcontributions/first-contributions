@@ -219,6 +219,7 @@ Helllloo world! From this repo.
 - [Paola Juarez](https://github.com/pjuarezm-dev)
 - [Nowshin Arony](https://github.com/nowshinarony)
 - [Aashka Rawal] (https://github.com/aashka-05)
+- [Prateek Singh] (https://github.com/prateeknitcse)
 - [Pheng Xiong] (https://github.com/Githero-1)
 - [🔗 Armaan Singh Klair](https://github.com/ArmaanSinghKlair)
 - [AechWhyL] (https://github.com/AechWhyL)
