@@ -1,5 +1,6 @@
 # Contributors
 Helllloo world! From this repo.
+ [Trishit1234](https://github.com/Trishit1234)
 -[Aman kumar]https://github.com/2007aman
 -[Muaz Sadique] (https://github.com/muazsad)
 -[Sashi Rajbanshi](https://github.com/sashi12222)
