@@ -2319,4 +2319,3 @@ contribution by arshi
 - [Prachi Pandey](https://github.com/prachi-pandey-13)
 - [Mimo Lopez](https://github.com/mimo0912)
 - [Mimo Lopez](https://github.com/mimo0912) 
-- [Mimo Lopez](https://github.com/mimo0912) 
