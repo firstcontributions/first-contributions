@@ -2317,4 +2317,5 @@ contribution by arshi
 
 - [Selvaganapathy](https://github.com/selvaganapathycoder)
 - [Prachi Pandey](https://github.com/prachi-pandey-13)
-- [Mimo Lopez] (https://github.com/mimo0912) 
+- [Mimo Lopez](https://github.com/mimo0912)
+- [Mimo Lopez](https://github.com/mimo0912) 
