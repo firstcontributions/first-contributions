@@ -451,6 +451,7 @@ Arushi Punhani
 - [Khushal Shivhare](https://github.com/khushal-coder-learner)
  - [Khushal Sai](https://github.com/khushalsai28)
  - [Matthew Han] (https://github.com/matthewjyhan)
+- [José Kahl](https://github.com/jskahl)
 - [Brenda G](https://github.com/BrendaG04)
 - [yac-nixo]
 - [Prasann62](https://github.com/Prasann62)
