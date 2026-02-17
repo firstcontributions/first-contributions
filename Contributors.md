@@ -2205,6 +2205,7 @@ guru
 - [Taiwo Okikiola](https://github.com/taiwookikiola1-max)
 - [Sabyasachi Sarangi](https://github.com/Sabyasachi2125)
 - [Akshansh Thakur](https://github.com/athakur3)
+- [Muhammad Zakaria](https://github.com/zakk616)
 - [Venkatesh ReddyCharla] (https://github.com/charlarcv)
 - [Harsh Verma](https://github.com/twilight-debugger)
 - [Vishnupriya Shisode](https://github.com/vishnupriya-shisode)
