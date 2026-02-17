@@ -2305,6 +2305,7 @@ contribution by arshi
 - [Jagamiya C](https://github.com/CJagamiya)
 - [Thy-Ronald](https://github.com/Thy-Ronald)
 - [Lucas-Hayes](https://github.com/hayeslucas128-cmyk)
+- [Jake-Kirker](https://github.com/EKirker)
 - [Danilo Lanzi](https://github.com/danlanzi)
 - [hsnyus-09](https://github.com/hsnyus-09)
 - [Alakh Awasthi](https://github.com/Awasthi577)
