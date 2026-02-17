@@ -2304,4 +2304,4 @@ contribution by arshi
 - [Danilo Lanzi](https://github.com/danlanzi)
 - [hsnyus-09](https://github.com/hsnyus-09)
 - [Alakh Awasthi](https://github.com/Awasthi577)
-
+- [Miguel Travassos](https://github.com/migueltravassos)
