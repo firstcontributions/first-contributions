@@ -112,6 +112,7 @@ Helllloo world! From this repo.
 - Hemendra Kumar Sharma
 - Chris Lidres
 - Paul
+- [Matthew Thayer] (https://github.com/MattThayer81)
 - Kiran Sekhar
 - [Sumit Mishra](https://github.com/SumitM01)
 - [Praveen Kayala](https://github.com/Praveen6-kms)
