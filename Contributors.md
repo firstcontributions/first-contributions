@@ -542,7 +542,6 @@ Sathish
 - [Anuj Chauhan](https://github.com/anujchauhann09)
 - [Raunak katiyar](https://github.com/raunak-bigdp)
 - [Brahmpreet Singh](https://github.com/Brahmpreett)
-
 - [Musawer Ahmad](https://github.com/musawerxd)
 - [Raunak katiyar github](https://github.com/raunak-bigdp) 
 - [sachu samuel](https://github.com/zacc-tech)
@@ -552,6 +551,9 @@ Sathish
 - [Anuj Pokhriyal](https://github.com/anujj14)
 - [Mudipelly Shiva](https://github.com/shivamudipelly)
 - CubeWithBelt
+
+-[Awani Arsh](https://github.com/Awani-555)
+
 - [TripleB]
 - Manohar Reddy K
 - [twaga51](https://github.com/twaga51)
