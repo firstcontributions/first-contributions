@@ -2273,6 +2273,7 @@ contribution by arshi
 - [Harshit Chauhan](https://github.com/harshitchauhann)
 - [Nadim Chendy] - https://github.com/NadimPy | fn main(){println!("Hello world!");}
 - [Adi Singh](https://github.com/adisingh0824)
+- [Marius Stubberud](https://github.com/MarsAstro)
 - [Aayush Patel](https://github.com/Aayush1302)
 - [Dayanch](https://github.com/devanch-hub)
 - [ryusufx](https://github.com/ryusufx)
