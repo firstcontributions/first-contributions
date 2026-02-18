@@ -32,6 +32,7 @@ Helllloo world! From this repo.
 - [umesh reddy](https://github.com/T-UmeshReddy)
   [Janani](https://github.c0m/Jananijanu2)
 - [Thangella Harshitha](https://github.com/harshithathangella)
+- [Harrison Smith](https://github.com/hobbitual)
 - [Vaibhav Hample](https://github.com/Vaibhav-rgb45)
 - [Praseeda VL](https://github.com/praseeda-10)
 - [NigamTembhare](htps://github.com/Nigam09)
