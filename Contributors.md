@@ -13,6 +13,7 @@ Helllloo world! From this repo.
 - [Maicheal Shenouda](https://github.com/ymazir)
 -[Priyanshu Rawat](https://github.com/insanityatpeak)
 -[Anastasija26] (https://github.com/anastasija26)
+- [Sarthak Choudhary] (https://github.com/23f2002626-lab)
 - [Ankit Raj](https://github.com/ankitrajrules)  
 - [Jaideep Kalagara](https://github.com/jaideep-kalagara)
 - [Musses Gebremariam](https://github.com/MosesSG)
