@@ -97,6 +97,7 @@ Helllloo world! From this repo.
 [Ram pujitha](https://github.com/Rampujitha-123)
 [SimhadriNakka](https://github.com/Simhadrinakka)
 - [Soumya Grandhi] (https://github.com/soumya-grandhi)
+- [Sujeevan Feros](https://github.com/sujeevanferos)
 - [Vaishnavi Saudagar] (https://github.com/vaishnavi10200)
 - [Rahul Nawale] (https://github.com/blachcat)
 [Shravya D] (https://github.com/ShravyaGowda06)
