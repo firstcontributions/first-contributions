@@ -1,5 +1,6 @@
 # Contributors
 Helllloo world! From this repo.
+-[soum-i] https://github.com/soum-i
  [Trishit1234](https://github.com/Trishit1234)
 -[Aman kumar]https://github.com/2007aman
 -[Muaz Sadique] (https://github.com/muazsad)
@@ -589,6 +590,7 @@ Kaushlendra
 - [Harsh99-ops](https://github.com/Harsh99-ops)
 - [Shreecharana](https://github.com/Shreecharana24)
 - [Safkatul-Islam](https://github.com/Safkatul-Islam)
+- [Rizky-Amand](https://github.com/rzky21amanda-prog)
 - Yaalini Lakhani
 - [@Zakiahsan-arch](https://github.com/Zakiahsan-arch)
 - [Arpit]
@@ -2324,5 +2326,8 @@ contribution by arshi
 
 - [Mimo Lopez](https://github.com/mimo0912)
 - [Mimo Lopez](https://github.com/mimo0912) 
+
 - [Conner Quinn](https://github.com/CMQUINN01) 
+- [Conner Quinn](https://github.com/CMQUINN01)
+- [Muhammad-Rakha7](https://github.com/Muhammad-Rakha7)
 
