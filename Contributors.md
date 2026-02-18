@@ -166,6 +166,7 @@ MICHAL!
 - [Yuvaraj K](https://github.com/22f3002987-UserYuv)
 - [Rohan Kumar S](https://github.com/irohankumars)
 - [Forksxxs](https://github.com/Forksxxs)
+-[Gauri](https://github.com/gaurikhard28)`
 - [Ahmet Berk Yesilbas](https://github.com/immigrationist)
 - [Manoj S](https://github.com/manoj2304s)
 - [Sridhar S](https://github.com/sridhar-sri-s)
