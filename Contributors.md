@@ -2317,6 +2317,7 @@ contribution by arshi
 - [Madhu Kanth Kodali] (https://github.com/madhukodali23)
 - [Yadnyesh](https://github.com/Yadnyesh-patil)
 - [fovisio](https://github.com/fovisio)
+- [Judi Ali](https://github.com/judi-ali) | [JS](https://github.com/topics/javascript) 🌟
 - [Ayisha Nasreen N](https://github.com/ayishanasreen828-sketch)
 - [Ayse Gul Pekgoz](https://github.com/aydubuk)
 - [Midhun Ramesh](https://github.com/midhun-1717)
