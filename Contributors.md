@@ -17,6 +17,7 @@ MICHAL!
 -[Priyanshu Rawat](https://github.com/insanityatpeak)
 -[Tharaka Denuwan](https://github.com/tharakadenuwan)
 -[Anastasija26] (https://github.com/anastasija26)
+-[James Green] (https://github.com/jameseg-hacfm)
 - [Sarthak Choudhary] (https://github.com/23f2002626-lab)
 - [Ankit Raj](https://github.com/ankitrajrules)  
 - [Jaideep Kalagara](https://github.com/jaideep-kalagara)
