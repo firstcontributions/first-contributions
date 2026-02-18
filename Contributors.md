@@ -117,6 +117,7 @@ MICHAL!
 - [karthikeya] (https://github.com/karthik309k)
 - [Revanth] (https://github.com/revanth01-code)
 - [Sanjana] (https://github.com/Sanjana-AI-24)
+- Simasa
 -[Sharanya S](https://github.com/sharanyas06)
 -[kannan] (https://github.com/kannan-2006)
 - [Joise S Arakkal](https://github.com/joise-s-arakkal/)
