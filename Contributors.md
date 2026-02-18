@@ -6,6 +6,7 @@ Helllloo world! From this repo.
 -[Muaz Sadique] (https://github.com/muazsad)
 -[Sashi Rajbanshi](https://github.com/sashi12222)
 -[Vineeth Chethula](https://github.com/VineethChethula)
+-[Jaypal Dhapa](https://github.com/JaypalDhapa)
 - [Thoka Harini](https://github.com/thokaharini24)
 - [Roshan Jha](https://github.com/rosh-py)
 - [Pantkartik](https://github.com/Pantkartik)
