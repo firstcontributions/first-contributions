@@ -737,6 +737,7 @@ Naman Malik
 - [AlteUnke](https://github.com/AlteUnke)
 -[Abiral Shrestha](https://github.com/Abiralstha99)
 - [Amadou Kebe](https://github.com/AmadouLKebe)
+- [Minhaj Ali](https://github.com/Agent-X237)
 - [Aman Bangera](https://github.com/amanbangeraa)
 - [Ambar Singh](https://github.com/ambar-singh)
 - [Ameer Ali](https://github.com/Ameeeerr)
