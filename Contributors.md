@@ -74,6 +74,7 @@ MICHAL!
 - [Rishitha Pachigolla](https://github.com/Rishithamanasa)
 - [Trishna](https://github.com/trishna2105)
 - [Debasish](https://github.com/DevDebas)
+- [Umesh] (https://github.com/ucimazing)
 - [Jake Medeiros] (https://github.com/jakemedeiros)
 -[Amit Jadhav](https://github.com/A-aj007 )
 - [Mushara] (https://github.com/mushra31)
