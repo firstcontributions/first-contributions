@@ -11,6 +11,7 @@ MICHAL!
 -[Mahisha Madubhashinie]https://github.com/Mahee004
 -[Muaz Sadique] (https://github.com/muazsad)
 -[Sashi Rajbanshi](https://github.com/sashi12222)
+-[Anmol Kumar](https://github.com/Anmol2004k)
 -[Vineeth Chethula](https://github.com/VineethChethula)
 -[Jaypal Dhapa](https://github.com/JaypalDhapa)
 - [Thoka Harini](https://github.com/thokaharini24)
