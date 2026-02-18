@@ -2325,4 +2325,4 @@ contribution by arshi
 - [Mimo Lopez](https://github.com/mimo0912)
 - [Mimo Lopez](https://github.com/mimo0912) 
 - [Conner Quinn](https://github.com/CMQUINN01)
-[Muhammad-Rakha7](https://github.com/Muhammad-Rakha7)
+- [Muhammad-Rakha7](https://github.com/Muhammad-Rakha7)
