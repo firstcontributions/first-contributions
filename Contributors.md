@@ -30,6 +30,7 @@ MICHAL!
 -[Tharaka Denuwan](https://github.com/tharakadenuwan)
 -[el tikho] (https://github.com/victortikho18)
 -[Anastasija26] (https://github.com/anastasija26)
+- [itxe-del](https://github.com/itxe-del)
 -[James Green] (https://github.com/jameseg-hacfm)
 - [Sarthak Choudhary] (https://github.com/23f2002626-lab)
 - [Ankit Raj](https://github.com/ankitrajrules)  
