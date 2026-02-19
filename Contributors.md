@@ -179,6 +179,7 @@ MICHAL!
 -[Gauri](https://github.com/gaurikhard28)`
 - [Ahmet Berk Yesilbas](https://github.com/immigrationist)
 - [Manoj S](https://github.com/manoj2304s)
+- [Aryan](https://github.com/Funnykid7)
 - [Sridhar S](https://github.com/sridhar-sri-s)
 - [Kallappa Kabboor](https://github.com/Kallappa2005)
 - [Dogukan Aysan](https://github.com/dogukan-aysan)
