@@ -102,6 +102,7 @@ MICHAL!
 - [Mounika Yerramsetti] (https://github.com/MounikaYerramsetti26)
 -[Matokey](https://github.com/Matokey)
 - [Jaswanth] (https://github.com/jaswanth-7777)
+- [Rana El Machtoub] (https://github.com/Rana-25)
 - [Manikanta] (https://github.com/manikantapixes)
 - [Pardhu] (https://github.com/Pardhu643)
 -[VarshiniSomisetty] (https://github.com/priyavarshini27)
