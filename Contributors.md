@@ -4,7 +4,7 @@ MICHAL!
 -[Himasha Nimnadi]
 -[Matheesha Bimsara]
 -[Nabeel Sahib](https://github.com/bill10110)
--[Ryan Fernando](https://github.com/RyanJFM)
+-[Ryan Jeremy Fernando](https://github.com/RyanJFM)
 -[Guerrero V](https://github.com/guerrevg)
 -[soum-i] https://github.com/soum-i
  [Trishit1234](https://github.com/Trishit1234)  
