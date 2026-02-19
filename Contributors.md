@@ -2360,7 +2360,7 @@ contribution by arshi
 - [Danilo Lanzi](https://github.com/danlanzi)
 - [hsnyus-09](https://github.com/hsnyus-09)
 - [Alakh Awasthi](https://github.com/Awasthi577)
-
+- [Miguel Travassos](https://github.com/migueltravassos)
 - [Selvaganapathy](https://github.com/selvaganapathycoder)
  - [Atuldeveloper24](https://github.com/Atuldeveloper24)
 - [Prachi Pandey](https://github.com/prachi-pandey-13)
