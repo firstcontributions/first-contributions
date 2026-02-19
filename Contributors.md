@@ -422,6 +422,7 @@ MICHAL!
  [Aditya Kashid](https://github.com/Adityak0309)
 - Nadiya km (https://github.com/nadiya-km)
 - [Mohd Zamaan Akhtar] (https://github.com/zamaan-ai)
+- [Zeina Obeid](https://github.com/zho00)
 - [Raashtra KC](github.com/arthsaAr)
 - [Mayank Chadha](https://github.com/mayankchadha28)
 - [Gerald Jepedro Sitorus](https://github.com/g3raldatsc)
