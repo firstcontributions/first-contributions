@@ -25,6 +25,7 @@ MICHAL!
 -[Vineeth Chethula](https://github.com/VineethChethula)
 -[Suryansh Raj Singh](https://github.com/0xSRS)
 -[Jaypal Dhapa](https://github.com/JaypalDhapa)
+- [Swastik Garg](https://github.com/swastik22f3000908)
 - [Thoka Harini](https://github.com/thokaharini24)
 - [Nur Islam](https://github.com/nurislam243)
 - [Roshan Jha](https://github.com/rosh-py)
