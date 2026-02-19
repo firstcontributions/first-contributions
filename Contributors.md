@@ -2189,6 +2189,7 @@ guru
 - [Ettore Ciolli](https://github.com/ettoreciolli1)
 - MajiWasHere
 - Janin A
+- [Minlish-Git](https://github.com/Minlish-Git)
 - [Chandan Chaudhary](https://github.com/chandan0069)
 - [Rohit singh](https://github.com/Rohitkuwarbi)
 - [Houcine Haddadi](https://github.com/Houcine0x7)
