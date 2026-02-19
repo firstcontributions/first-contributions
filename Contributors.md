@@ -1,6 +1,7 @@
 # Contributors
 Helllloo world! From this repo.
 MICHAL!
+-[VinushaDayananda](https://github.com/VinushaDayanana)
 -[Matheesha Bimsara]
 -[Nabeel Sahib](https://github.com/bill10110)
 -[soum-i] https://github.com/soum-i
