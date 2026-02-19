@@ -1439,6 +1439,7 @@ Naman Malik
 - [Pavani](https://github.com/pavani42)
 - [Pedro Chame](https://github.com/pedrochame)
 - [Pedro Silva](https://github.com/pcconraria)
+- [srsxnsh](https://github.com/srsxnsh)
 - [Pedro Tomáz](https://github.com/pdrotmz)
 - [Pedro Vieira] (https://github.com/pedrovieira975)
 - [Phoenix Ouyang](https://github.com/phoenixouyang)
