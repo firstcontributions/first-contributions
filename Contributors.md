@@ -6,6 +6,7 @@ MICHAL!
 - [Harsha Madhuri Reddy Kovvuri] (https://github.com/madhurireddy27)
 -[Himasha Nimnadi]
 -[Matheesha Bimsara]
+-[Sultan Syed](https://github.com/syedsultan1)
 -[Maryame Arrach](https://github.com/maryamearrach)
 -[Gian Carlo Bárcenas](https://github.com/Gianka8)
 -[Nabeel Sahib](https://github.com/bill10110)
