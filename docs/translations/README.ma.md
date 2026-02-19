@@ -83,11 +83,11 @@ ana knt mssmiha add-brahim , nta bdlha bachma knti dayr .
 Ila rj3ti l github atl9a dik l3iba dyal `Compare & pull request`
 brek 3liha a5ay.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="khdm create pull request" />
 
 Sf brek 3liha bach tle3 lnass li mss2oulin 3la hadchi.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="Kheddem submit pull request" />
 
 Chwia mbe3d matjm3 dik lmodifications li derti . Aywslk mail ki9ololk fih ra safi dkchi dyalk nadi.
 
