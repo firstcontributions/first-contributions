@@ -7,6 +7,7 @@ MICHAL!
 -[Himasha Nimnadi]
 -[Matheesha Bimsara]
 -[Maryame Arrach](https://github.com/maryamearrach)
+-[Gian Carlo Bárcenas](https://github.com/Gianka8)
 -[Nabeel Sahib](https://github.com/bill10110)
 -[Ryan Fernando](https://github.com/RyanJFM)
 -[Guerrero V](https://github.com/guerrevg)
@@ -22,6 +23,7 @@ MICHAL!
 -[Muaz Sadique] (https://github.com/muazsad)
 -[Sashi Rajbanshi](https://github.com/sashi12222)
 -[Vineeth Chethula](https://github.com/VineethChethula)
+-[Suryansh Raj Singh](https://github.com/0xSRS)
 -[Jaypal Dhapa](https://github.com/JaypalDhapa)
 - [Thoka Harini](https://github.com/thokaharini24)
 - [Nur Islam](https://github.com/nurislam243)
@@ -2393,3 +2395,7 @@ contribution by arshi
 - [TMname1](https://github.com/TMname1)
 - [Alanronald2001](https://github.com/Alanronald2001)
 - [AmarnathV](https://github.com/amar1009)
+-[dhanush sai mudari](https://github.com/dhanushsaimudari)
+- [Ivan Delfin](https://github.com/idelfing)
+- [Kenula Ranasinghe] (https://github.com/KenulaR)
+-[Chavindi-en](https://github.com/Chavindi-en)
