@@ -1604,6 +1604,7 @@ Naman Malik
 - [Sharad vyas](https://github.com/sharadvyas123)
 - [Sharath Chandhan](https://github.com/sharath0x)
 - [Shardul Chincholkar](https://github.com/shadow20-03)
+- [Emanuel Abou Samra](https://github.com/Mannolis)
 - [Shariq Naseem](https://github.com/muhammadshariq0007)
 - [Sharma22053](https://github.com/Sharma22053)
 - [Shashank Lakhaiyar](https://github.com/shawshank-fork)
