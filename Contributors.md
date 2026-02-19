@@ -1425,6 +1425,7 @@ Naman Malik
 - [Pablo Edu Díaz](https://github.com/Exudev)
 - [Pablo Hermun](https://github.com/PabloHermun)
 - [Paige Li](https://github.com/itspaigenli)
+- [Panos L](https://github.com/PLCodingStuff)
 - [Paula Amorim](https://github.com/paulamori)
 - [PONTHUS Abderrahman](https://github.com/S3869)
 - [Pavan kuppili](https://github.com/PavanKuppili)
