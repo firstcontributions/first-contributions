@@ -19,6 +19,7 @@ MICHAL!
 - [Thoka Harini](https://github.com/thokaharini24)
 - [Nur Islam](https://github.com/nurislam243)
 - [Roshan Jha](https://github.com/rosh-py)
+- [Ryan Fernando](https://github.com/RyanJFM)
 - [Pantkartik](https://github.com/Pantkartik)
 - [Geofou](https://github.com/geofou)
 -[Ranjith](https://github.com/ranjith1444)
