@@ -1,17 +1,21 @@
 # Contributors
 Helllloo world! From this repo.
 MICHAL!
+- [Harsha Madhuri Reddy Kovvuri] (https://github.com/madhurireddy27)
 -[Himasha Nimnadi]
 -[Matheesha Bimsara]
 -[Nabeel Sahib](https://github.com/bill10110)
+-[Ryan Fernando](https://github.com/RyanJFM)
 -[Guerrero V](https://github.com/guerrevg)
 -[soum-i] https://github.com/soum-i
  [Trishit1234](https://github.com/Trishit1234)  
 -[Shehani Weerasekara]
  -[Divya Patel](https://github.com/divyapatelgm)
  -[Sameh Elwan](https://github.com/samshx606)
+-[Shanilka Asen](https://github.com/asn251)
 -[Aman kumar]https://github.com/2007aman
 -[Mahisha Madubhashinie]https://github.com/Mahee004
+-[Miguel Aanszo]
 -[Muaz Sadique] (https://github.com/muazsad)
 -[Sashi Rajbanshi](https://github.com/sashi12222)
 -[Vineeth Chethula](https://github.com/VineethChethula)
@@ -27,6 +31,7 @@ MICHAL!
 -[Tharaka Denuwan](https://github.com/tharakadenuwan)
 -[el tikho] (https://github.com/victortikho18)
 -[Anastasija26] (https://github.com/anastasija26)
+- [itxe-del](https://github.com/itxe-del)
 -[James Green] (https://github.com/jameseg-hacfm)
 - [Sarthak Choudhary] (https://github.com/23f2002626-lab)
 - [Ankit Raj](https://github.com/ankitrajrules)  
@@ -66,6 +71,7 @@ MICHAL!
 - [Om Kshirsagar] (https://github.com/Mr-OmKshirsagar)
 - [Neeraj Gundam] (https://github.com/Neerajgundam-12)
 - [Ashruth] (https://github.com/xyz)
+- [Kanishk ] (https://github.com/KanishkRichhariya107)
 - [Al Imran] (https://github.com/ImranAvenger)
 -[Karthik V](https://github.com/Karthikv2310)
 -[Vinod Kumar Reddy](https://github.com/VINOD-KUMAR-REDDY-P)
@@ -326,6 +332,7 @@ MICHAL!
 - [Barış Perveroğlu](https://github.com/barispe)
 - Sankalp Kumar Singh
 - Tarun S. (https://github.com/Tarun-246)
+- Sashika Rathnayake(https://github.com/Sashika48)
 - Sanjay Kumar (https://github.com/sunny0205) 
 - [Priyanshu Kumar Pandey](https://github.com/chefcookscode)
 - [Julia83567](https://github.com/Julia83567) 
@@ -2363,6 +2370,7 @@ contribution by arshi
 - [Muhammad-Rakha7](https://github.com/Muhammad-Rakha7)
 - [Asiya Mujawar](https://github.com/asiyamujawar)
 - [Atuldeveloper24](https://github.com/Atuldeveloper24)
+- [sarana023](https://github.com/sarana023)
 [Abdul Rasik ]
 - [Emre Doğan](https://github.com/emredogan-cloud)
 - First contribution
@@ -2374,3 +2382,7 @@ contribution by arshi
 - [KavindiD](https://github.com/KavindiD)
 - [TMname1](https://github.com/TMname1)
 - [Hima](https://github.com/sasisathsarani5)
+- [Alanronald2001](https://github.com/Alanronald2001)
+- [AmarnathV](https://github.com/amar1009)
+-[dhanush sai mudari](https://github.com/dhanushsaimudari)
+
