@@ -57,6 +57,7 @@ MICHAL!
 - [Harrison Smith](https://github.com/hobbitual)
 - [Vaibhav Hample](https://github.com/Vaibhav-rgb45)
 - [Praseeda VL](https://github.com/praseeda-10)
+- [Hiruni Weerasinghe](https://github.com/Hiruni942)
 - [NigamTembhare](htps://github.com/Nigam09)
 [Shigeru Komatsu]
 - [Praneega G] (https://github.com/praneegagajendran-hub)
