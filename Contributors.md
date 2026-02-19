@@ -326,6 +326,7 @@ MICHAL!
 - [Barış Perveroğlu](https://github.com/barispe)
 - Sankalp Kumar Singh
 - Tarun S. (https://github.com/Tarun-246)
+- Sashika Rathnayake(https://github.com/Sashika48)
 - Sanjay Kumar (https://github.com/sunny0205) 
 - [Priyanshu Kumar Pandey](https://github.com/chefcookscode)
 - [Julia83567](https://github.com/Julia83567) 
