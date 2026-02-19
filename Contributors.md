@@ -253,6 +253,7 @@ MICHAL!
 -[PrabodJ27B] 
 - syd_patel_o1
 - Fathima
+- [Nicolas Harris] (https://github.com/Techlyn)
 - [Manny Lazalde](https://github.com/mannylazalde)
 - [LuckyGautam](https://github.com/LuckyG05)
 - [Ridell Salema](https://github.com/ridellsalema)
