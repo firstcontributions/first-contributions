@@ -1,9 +1,12 @@
 # Contributors
 Helllloo world! From this repo.
+-[bob morane]
 MICHAL!
+-[VinushaDayananda](https://github.com/VinushaDayanana)
 - [Harsha Madhuri Reddy Kovvuri] (https://github.com/madhurireddy27)
 -[Himasha Nimnadi]
 -[Matheesha Bimsara]
+-[Maryame Arrach](https://github.com/maryamearrach)
 -[Nabeel Sahib](https://github.com/bill10110)
 -[Ryan Fernando](https://github.com/RyanJFM)
 -[Guerrero V](https://github.com/guerrevg)
@@ -100,6 +103,7 @@ MICHAL!
 - [Mounika Yerramsetti] (https://github.com/MounikaYerramsetti26)
 -[Matokey](https://github.com/Matokey)
 - [Jaswanth] (https://github.com/jaswanth-7777)
+- [Rana El Machtoub] (https://github.com/Rana-25)
 - [Manikanta] (https://github.com/manikantapixes)
 - [Pardhu] (https://github.com/Pardhu643)
 -[VarshiniSomisetty] (https://github.com/priyavarshini27)
@@ -421,6 +425,7 @@ MICHAL!
  [Aditya Kashid](https://github.com/Adityak0309)
 - Nadiya km (https://github.com/nadiya-km)
 - [Mohd Zamaan Akhtar] (https://github.com/zamaan-ai)
+- [Zeina Obeid](https://github.com/zho00)
 - [Raashtra KC](github.com/arthsaAr)
 - [Mayank Chadha](https://github.com/mayankchadha28)
 - [Gerald Jepedro Sitorus](https://github.com/g3raldatsc)
@@ -1173,6 +1178,7 @@ Naman Malik
 - [Jingyi Lu](https://github.com/lulu61000)
 - [Jithin](https://github.com/jithin-dotcom)
 - [Joaquin D](https://github.com/Joaco273)
+- [Joe Rawnsley](https://github.com/joerawnsley)
 - [Joel Singh](https:/github.com/Joel-Singh)
 - [Joey Grengs](https://github.com/papajpg)
 - [Johan](https://github.com/Johan621)
@@ -1440,6 +1446,7 @@ Naman Malik
 - [Pavani](https://github.com/pavani42)
 - [Pedro Chame](https://github.com/pedrochame)
 - [Pedro Silva](https://github.com/pcconraria)
+- [srsxnsh](https://github.com/srsxnsh)
 - [Pedro Tomáz](https://github.com/pdrotmz)
 - [Pedro Vieira] (https://github.com/pedrovieira975)
 - [Phoenix Ouyang](https://github.com/phoenixouyang)
@@ -1602,6 +1609,7 @@ Naman Malik
 - [Sharad vyas](https://github.com/sharadvyas123)
 - [Sharath Chandhan](https://github.com/sharath0x)
 - [Shardul Chincholkar](https://github.com/shadow20-03)
+- [Emanuel Abou Samra](https://github.com/Mannolis)
 - [Shariq Naseem](https://github.com/muhammadshariq0007)
 - [Sharma22053](https://github.com/Sharma22053)
 - [Shashank Lakhaiyar](https://github.com/shawshank-fork)
@@ -2385,3 +2393,4 @@ contribution by arshi
 - [Alanronald2001](https://github.com/Alanronald2001)
 - [AmarnathV](https://github.com/amar1009)
 -[dhanush sai mudari](https://github.com/dhanushsaimudari)
+- [Ivan Delfin](https://github.com/idelfing)
