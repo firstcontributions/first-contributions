@@ -66,6 +66,7 @@ MICHAL!
 - [Om Kshirsagar] (https://github.com/Mr-OmKshirsagar)
 - [Neeraj Gundam] (https://github.com/Neerajgundam-12)
 - [Ashruth] (https://github.com/xyz)
+- [Kanishk ] (https://github.com/KanishkRichhariya107)
 - [Al Imran] (https://github.com/ImranAvenger)
 -[Karthik V](https://github.com/Karthikv2310)
 -[Vinod Kumar Reddy](https://github.com/VINOD-KUMAR-REDDY-P)
