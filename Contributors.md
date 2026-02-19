@@ -1174,6 +1174,7 @@ Naman Malik
 - [Jingyi Lu](https://github.com/lulu61000)
 - [Jithin](https://github.com/jithin-dotcom)
 - [Joaquin D](https://github.com/Joaco273)
+- [Joe Rawnsley](https://github.com/joerawnsley)
 - [Joel Singh](https:/github.com/Joel-Singh)
 - [Joey Grengs](https://github.com/papajpg)
 - [Johan](https://github.com/Johan621)
