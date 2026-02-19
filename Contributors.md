@@ -42,6 +42,7 @@ MICHAL!
 - [Sarthak Choudhary] (https://github.com/23f2002626-lab)
 - [Ankit Raj](https://github.com/ankitrajrules)  
 - [Jaideep Kalagara](https://github.com/jaideep-kalagara)
+- [Theertha T](https://github.com/23f3003994)
 - [Musses Gebremariam](https://github.com/MosesSG)
 - [Greevan Hari] (https://github.com/GreevanHari)
 - [Enuri Wickramasinghe] (https://github.com/enurisw)
