@@ -75,7 +75,7 @@ git checkout -b your-new-branch-name
 
 Tw 7el el file `Contributors.md` fil editor, zid ismek fiha. Mat7otoch milowel wala filo5er mta3 el file. 7ot fi plasa fil west. Tw, a3melo save.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="statut git" />
 
 Ken temchi lil directory mta3 repo wtekteb el command `git status`, tw tchof fama changements saret.
 
@@ -127,7 +127,7 @@ Badel `your-branch-name` bi isem lbranch l3meltha se3a.
 
 Ken temchi lil repo mte3ek 3al github, tw  tchof button `Compare & pull request`. Enzel 3lih.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="creation pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="sna3 pull request" />
 
 Tw a3mel sumbit lil pull request.
 
