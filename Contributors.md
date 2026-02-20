@@ -1,6 +1,7 @@
 # Contributors
 Helllloo world! From this repo.
 [Dev]
+- [larryste-max](https://github.com/larryste-max)<br>
 - [Morpheus](https://github.com/TheGittyPerson) of Ormaphea<br>
 -[Athif nular]
 -[bob morane]
