@@ -6,7 +6,7 @@ Helllloo world! From this repo.
 MICHAL!
 -[VinushaDayananda](https://github.com/VinushaDayanana)
 -[Uday Bhaskar Valapadasu](https://github.com/BhaskarTheCoder)
-- [Harsha Madhuri Reddy Kovvuri] (https://github.com/madhurireddy27)
+-[Harsha Madhuri Reddy Kovvuri](https://github.com/madhurireddy27)
 -[Himasha Nimnadi]
 -[Matheesha Bimsara]
 -[Tharindu Himantha](https://github.com/TharinduHimantha)
