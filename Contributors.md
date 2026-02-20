@@ -1009,6 +1009,7 @@ Naman Malik
 - [Pradeep Reddy](https://github.com/Pradeep0997)
 - [Dipak Rasal](https://dipakrasal2009)
 - [Disha520](https://github.com/Disha520)
+- [Disha Lowanshi](https://github.com/DishaL17)
 - [Divin Sota](https://github.com/divinsota/first-contributions)
 - [Patrick Poon](https://github.com/PatrickPoon-dev)
 - [Divyom Srivastava](https://github.com/DivyomSrivastava)
