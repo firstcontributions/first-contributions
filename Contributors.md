@@ -2413,5 +2413,6 @@ contribution by arshi
 -[Chavindi-en](https://github.com/Chavindi-en)
 - [Vansh Jaggi](https://github.com/VanshJ2902)
 -[cristians-12](https://github.com/cristians-12)
+-[Dineth] (https://github.com/DinethAdikari)
 - [Tushar](https://github.com/TUSHAR1904-cmd)
 - [qusiee](https://github.com/qusaieh
