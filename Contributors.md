@@ -40,6 +40,7 @@ MICHAL!
 - [Swastik Garg](https://github.com/swastik22f3000908)
 - [Thoka Harini](https://github.com/thokaharini24)
 - [Jothika Aravindhan](https://github.com/jothikaaravindhan)
+- [Irusha](https://github.com/Irusha23)
 - [Achintha Gamage](https://github.com/AKGamage)
 - [Nur Islam](https://github.com/nurislam243)
 - [Roshan Jha](https://github.com/rosh-py)
