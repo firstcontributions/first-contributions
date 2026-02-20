@@ -24,6 +24,7 @@ MICHAL!
 -[Ryan Fernando](https://github.com/RyanJFM)
 -[Guerrero V](https://github.com/guerrevg)
 -[soum-i] https://github.com/soum-i
+-[Rudra Dudhat]( https://github.com/RudraDudhat2509/)
  [Trishit1234](https://github.com/Trishit1234)  
 -[Shehani Weerasekara]
  -[Divya Patel](https://github.com/divyapatelgm)
