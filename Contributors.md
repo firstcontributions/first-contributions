@@ -426,6 +426,7 @@ MICHAL!
 --[Diksha] (https://github.com/diksha-jindal) 
 - [Rahul]
 - [Sameer Mandve](https://github.com/sameermandve)
+-[Priya](https://github.com/priya-0110)
 - [charliegonzo](https://github.com/CharlieGonzo/first-contributions.git)
 - KJayasree2025
 -[Mohamed Suhail T] (https://github.com/SUHAIL-1010)
@@ -2131,6 +2132,7 @@ guru
 - [Micheal Wang](https://github.com/Micheal-Wang-maker)
 - [Waxmell](https://github.com/Waxmell99)
 -[Ayenitaju Samuel(https://github.com/AyenitajuSamuel)]
+
 - [Fei Sun](https://github.com/Fei-Sun-1996)
 -[jmscpro](https://github.com/jmscpro)
 - [Ansh Singhal](https://github.com/singhal-ansh)
