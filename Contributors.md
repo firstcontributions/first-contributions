@@ -2378,16 +2378,21 @@ contribution by arshi
 - [Great Igogo](https://github.com/BigOronaa)
 - [Jake-Kirker](https://github.com/EKirker)
 - [Danilo Lanzi](https://github.com/danlanzi)
+- [Mohit Kumar](https://github.com/mohitk23)
 - [hsnyus-09](https://github.com/hsnyus-09)
 - [Alakh Awasthi](https://github.com/Awasthi577)
 
 - [Selvaganapathy](https://github.com/selvaganapathycoder)
  - [Atuldeveloper24](https://github.com/Atuldeveloper24)
 - [Prachi Pandey](https://github.com/prachi-pandey-13)
+
 - [Mimo Lopez](https://github.com/mimo0912)
 - [Mimo Lopez](https://github.com/mimo0912) 
+
+- [Conner Quinn](https://github.com/CMQUINN01) 
 - [Conner Quinn](https://github.com/CMQUINN01)
 - [Muhammad-Rakha7](https://github.com/Muhammad-Rakha7)
+
 - [Asiya Mujawar](https://github.com/asiyamujawar)
 - [Atuldeveloper24](https://github.com/Atuldeveloper24)
 - [sarana023](https://github.com/sarana023)
@@ -2410,3 +2415,4 @@ contribution by arshi
 -[Chavindi-en](https://github.com/Chavindi-en)
 - [Vansh Jaggi](https://github.com/VanshJ2902)
 -[cristians-12](https://github.com/cristians-12)
+
