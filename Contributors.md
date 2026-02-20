@@ -9,6 +9,7 @@ MICHAL!
 - [Harsha Madhuri Reddy Kovvuri] (https://github.com/madhurireddy27)
 -[Himasha Nimnadi]
 -[Matheesha Bimsara]
+-[Rinai Pesakya]
 -[Sultan Syed](https://github.com/syedsultan1)
 -[Maryame Arrach](https://github.com/maryamearrach)
 -[Vaish G](https://github.com/Fullstack-Vaishnavi)
