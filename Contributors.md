@@ -9,6 +9,8 @@ MICHAL!
 - [Harsha Madhuri Reddy Kovvuri] (https://github.com/madhurireddy27)
 -[Himasha Nimnadi]
 -[Matheesha Bimsara]
+-[Tharindu Himantha](https://github.com/TharinduHimantha)
+- [Navin] (https://github.com/DevOpsByNavin)
 -[Sultan Syed](https://github.com/syedsultan1)
 -[Maryame Arrach](https://github.com/maryamearrach)
 -[Vaish G](https://github.com/Fullstack-Vaishnavi)
@@ -32,8 +34,10 @@ MICHAL!
 -[Jaypal Dhapa](https://github.com/JaypalDhapa)
 - [Swastik Garg](https://github.com/swastik22f3000908)
 - [Thoka Harini](https://github.com/thokaharini24)
+- [Achintha Gamage](https://github.com/AKGamage)
 - [Nur Islam](https://github.com/nurislam243)
 - [Roshan Jha](https://github.com/rosh-py)
+- [Ryan Fernando](https://github.com/RyanJFM)
 - [Pantkartik](https://github.com/Pantkartik)
 - [Geofou](https://github.com/geofou)
 -[Ranjith](https://github.com/ranjith1444)
@@ -2409,4 +2413,6 @@ contribution by arshi
 -[Chavindi-en](https://github.com/Chavindi-en)
 - [Vansh Jaggi](https://github.com/VanshJ2902)
 -[cristians-12](https://github.com/cristians-12)
--Dineth Adikari
+-[Dineth] (https://github.com/DinethAdikari)
+- [Tushar](https://github.com/TUSHAR1904-cmd)
+- [qusiee](https://github.com/qusaieh
