@@ -2301,7 +2301,6 @@ contribution by arshi
 - Nabanita Borah
 - [conlusive](https://github.com/conlusive)
 - [peterkalven-wang](https://github.com/peterkalven-wang)
-
 -[Amrita0205](https://github.com/Amrita0205)
 - [akienneh](https://github.com/akienneh) 
 - Nanij Agrawal
@@ -2311,6 +2310,7 @@ contribution by arshi
 - [Szymon Kuczek](https://github.com/SzymonKuczek)
 - [Yash Kaith] (https://github.com/yawshhh)
 - [23f2001705](https://github.com/23f2001705)
+- [subhaushsingh](https://github.com/subhaushsingh)
 
 - [Atharv Khare](https://github.com/1mystic8u)
 - [Harishankar Mohapatra](https://github.com/harx878-beep)
