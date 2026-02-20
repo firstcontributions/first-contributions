@@ -2406,3 +2406,4 @@ contribution by arshi
 - [Kenula Ranasinghe] (https://github.com/KenulaR)
 -[Chavindi-en](https://github.com/Chavindi-en)
 - [Vansh Jaggi](https://github.com/VanshJ2902)
+- [Danny Ortiz](https://github.com/Danzombie)
