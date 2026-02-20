@@ -1,5 +1,4 @@
 [![Surse Deschise Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![Licență: MIT](https://img.shields.io/badge/Licență-MIT-green)](https://opensource.org/licenses/MIT)
 [![Contribuitori](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -122,7 +121,6 @@ Felicitări! Ați finalizat fluxul standard _fork -> clone -> edit -> pull reque
 
 Sărbătoriți-vă contribuția și partajați-o cu prietenii și urmăritorii dvs., accesând [aplicația web](https://firstcontributions.github.io/#social-share).
 
-Puteți să vă alăturați echipei noastre Slack dacă aveți nevoie de ajutor sau aveți întrebări. [Alăturați-vă echipei Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1n4y7xnk0-DnLVTaN6U9xLU79H5Hi62w).
 
 Acum să vă începem cu contribuția la alte proiecte. Am compilat o listă de proiecte cu probleme ușoare cu care puteți începe. Verificați [lista de proiecte din aplicația web](https://firstcontributions.github.io/#project-list).
 

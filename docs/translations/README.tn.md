@@ -9,7 +9,7 @@ awel contribution ta3melha 3al github bch tkon pratique tjareb wtchof kolchy b3i
 
 _Ken mat7ebech tesa3mel el cmd, [hedhom tutorials o5rin testa3mel fihom des logiciles.](#tutorials-using-other-tools)_
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="forki had repo" />
 
 #### Edhaken moch sabeb git 3andek fil pc, [sobo mil lien hedha](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
@@ -20,7 +20,7 @@ Haka iwali 3andek copie f compte mt3ek tejem tebedel fiha kima t7eb.
 
 ## Cloni el repo
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="cloni had repo" />
 
 Tw cloni el repo li 3meltelha fork lil machine mte3ek. Imchi lil compte github 7el el forked repo inzel 3al button "code" b3d el ssh b3d copi lien el mawjoud.
 
@@ -75,7 +75,7 @@ git checkout -b your-new-branch-name
 
 Tw 7el el file `Contributors.md` fil editor, zid ismek fiha. Mat7otoch milowel wala filo5er mta3 el file. 7ot fi plasa fil west. Tw, a3melo save.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="statut git" />
 
 Ken temchi lil directory mta3 repo wtekteb el command `git status`, tw tchof fama changements saret.
 
@@ -127,11 +127,11 @@ Badel `your-branch-name` bi isem lbranch l3meltha se3a.
 
 Ken temchi lil repo mte3ek 3al github, tw  tchof button `Compare & pull request`. Enzel 3lih.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="sna3 pull request" />
 
 Tw a3mel sumbit lil pull request.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="b3at pull request" />
 
 3ala 9rib tw na3mel merge lil les changements mete3ek lil main branch mta3 lprojet hedha. Tw tjik notification email ki tsir merge lil les changements.
 
