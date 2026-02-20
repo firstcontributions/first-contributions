@@ -10,6 +10,7 @@ MICHAL!
 -[Matheesha Bimsara]
 -[Sultan Syed](https://github.com/syedsultan1)
 -[Maryame Arrach](https://github.com/maryamearrach)
+-[Vaish G](https://github.com/Fullstack-Vaishnavi)
 -[Gian Carlo Bárcenas](https://github.com/Gianka8)
 -[Nabeel Sahib](https://github.com/bill10110)
 -[Ryan Fernando](https://github.com/RyanJFM)
