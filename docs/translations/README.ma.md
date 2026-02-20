@@ -9,7 +9,7 @@
 Fo9ma katbghi tbda chi 7aja jdida katkoun m39da flewl. Dik lkhouf anak tghlet ki3ssbek,5ossosan fach katkoun 5dam m3a nass o5rin. Walakin lblan dl open source w anak t5dm m3a nass f fra9i . Bghina , nsshlou 3likoum bach t3lmou tcharkou fchi projet open source b7al hada l awel mra .   
 
 Rah blan tb9a t9ra kifach dir wla tchouf des tutoriels , walakin wach machi 7ssen nwriwk ki der bla matghlet ? Had lprojet l hadaf dyalou howa y3tek nassa2i7 w 5lik 3a9l : koulma knti mheden , ghat3lem 7ssen. Ila knti 3wal der awel i3ana , tbe3 had l5otowat w ra atsde9lk . Kanwa3dk , ghay3jbek l7al.
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="connecter had repo" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="نقسمو هاد الريبو" />
 
 Ila makanch 3ndk git f pc dyalk, [ Telechargeh ]( https://help.github.com/articles/set-up-git/ )mn had site.
 
@@ -19,7 +19,7 @@ Brek 3la dik FORK kima kaybanlk f tswira bach twli 3ndek b7al version dyal repo 
 
 ## Telecharger 3ndk repo (Kismiwha clone )
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="Clone d repo" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="كلوننا هاد الريبو" />
 
 Daba ,cloner repo dyalk l pc 3ndk. Brek 3la bottona d Clone w copier dik lien (HTTPS houwa sahel) ra kayna bottona 7da lien katcopiehlk nichan .
 
