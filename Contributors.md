@@ -10,6 +10,7 @@ MICHAL!
 -[Himasha Nimnadi]
 -[Matheesha Bimsara]
 -[Tharindu Himantha](https://github.com/TharinduHimantha)
+- [Navin] (https://github.com/DevOpsByNavin)
 -[Sultan Syed](https://github.com/syedsultan1)
 -[Maryame Arrach](https://github.com/maryamearrach)
 -[Vaish G](https://github.com/Fullstack-Vaishnavi)
