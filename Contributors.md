@@ -17,6 +17,7 @@ MICHAL!
 -[Sultan Syed](https://github.com/syedsultan1)
 - [Theertha](https://github.com/23f3003994)
 -[Maryame Arrach](https://github.com/maryamearrach)
+- [Yahddyyp](https://github.com/Yahddyyp)
 -[Vaish G](https://github.com/Fullstack-Vaishnavi)
 -[Gian Carlo Bárcenas](https://github.com/Gianka8)
 -[Nabeel Sahib](https://github.com/bill10110)
