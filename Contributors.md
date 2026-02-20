@@ -2311,7 +2311,7 @@ contribution by arshi
 - [Szymon Kuczek](https://github.com/SzymonKuczek)
 - [Yash Kaith] (https://github.com/yawshhh)
 - [23f2001705](https://github.com/23f2001705)
-
+- [famaskah](https://github.com/famaskah)
 - [Atharv Khare](https://github.com/1mystic8u)
 - [Harishankar Mohapatra](https://github.com/harx878-beep)
 - [Nguyễn Duy Bảo](https://github.com/nguyenduybao1)
@@ -2319,6 +2319,7 @@ contribution by arshi
 - Rokaya Othman adas-  https://github.com/RokayaOthman
 - [Kaligotla Sri Datta Sai Vithal] - https://github.com/Sridattasai18
 - [Harshit Chauhan](https://github.com/harshitchauhann)
+- [SRupia](https://github.com/SRupia)
 - [Nadim Chendy] - https://github.com/NadimPy | fn main(){println!("Hello world!");}
 - [Adi Singh](https://github.com/adisingh0824)
 - [Marius Stubberud](https://github.com/MarsAstro)
