@@ -674,6 +674,7 @@ Kaushlendra
 - [Denis Mutahangarwa]
 - [ARES](https://github.com/phoenixcodeforces-blip)
 - [ASaHi Chin](https://github.com/Cxlyq)
+- [Clive Jesus](https://github.com/clivejesus88)
 - [yashasvi Lamba ](https://github.com/Yashasvi767)
 -[Gthiru12](https://github.com/Gthiru12)
 - [meagantroot](https://github.com/meagantroot)
