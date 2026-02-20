@@ -893,6 +893,7 @@ Naman Malik
 - [Ayincoder](https://github.com/Ayincoder)
 - [Azaelrock0](https://github.com/azaelrock0)
 - [B Pasha](https://github.com/baasilpasha)
+- [barisulgen](https://github.com/barisulgen)
 - [Babrah Ekele](https://github.com/bclaire92)
 - [Baraa El Hajj](https://github.com/baraa-elhajj)
 - [Barathkumar N](https://github.com/barathkumar2207)
