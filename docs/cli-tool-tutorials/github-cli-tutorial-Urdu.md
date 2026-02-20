@@ -49,6 +49,7 @@ git switch -c add-john-doe
 پروجیکٹ ڈائرکٹری میں عملدرآمد کریں۔ `git status` اور آپ تبدیلیاں دیکھیں گے۔
 ![image-git](https://camo.githubusercontent.com/a35c4722d7aab337eefc655d1488f7b4dc038508e6adaf5e88e2e052a976f010/68747470733a2f2f6669727374636f6e747269627574696f6e732e6769746875622e696f2f6173736574732f526561646d652f6769742d7374617475732e706e67)
 
+
 ان تبدیلیوں کو اس برانچ میں شامل کریں جو آپ نے ابھی استعمال کرکے بنائی ہے۔ `git add` کمانڈ:
 `git add Contributors.md`
 
