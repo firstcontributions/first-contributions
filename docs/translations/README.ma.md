@@ -9,7 +9,7 @@
 Fo9ma katbghi tbda chi 7aja jdida katkoun m39da flewl. Dik lkhouf anak tghlet ki3ssbek,5ossosan fach katkoun 5dam m3a nass o5rin. Walakin lblan dl open source w anak t5dm m3a nass f fra9i . Bghina , nsshlou 3likoum bach t3lmou tcharkou fchi projet open source b7al hada l awel mra .   
 
 Rah blan tb9a t9ra kifach dir wla tchouf des tutoriels , walakin wach machi 7ssen nwriwk ki der bla matghlet ? Had lprojet l hadaf dyalou howa y3tek nassa2i7 w 5lik 3a9l : koulma knti mheden , ghat3lem 7ssen. Ila knti 3wal der awel i3ana , tbe3 had l5otowat w ra atsde9lk . Kanwa3dk , ghay3jbek l7al.
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="connecter had repo" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork had repo" />
 
 Ila makanch 3ndk git f pc dyalk, [ Telechargeh ]( https://help.github.com/articles/set-up-git/ )mn had site.
 
@@ -19,7 +19,7 @@ Brek 3la dik FORK kima kaybanlk f tswira bach twli 3ndek b7al version dyal repo 
 
 ## Telecharger 3ndk repo (Kismiwha clone )
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="Clone d repo" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone had repo" />
 
 Daba ,cloner repo dyalk l pc 3ndk. Brek 3la bottona d Clone w copier dik lien (HTTPS houwa sahel) ra kayna bottona 7da lien katcopiehlk nichan .
 
@@ -30,7 +30,7 @@ git clone "dik lien li 3ad copieti"
 ```
 3andak t5liha hakak hhh "dik lien li 3ad copieti" (bla douk "") kteb tma lien li copieti fhemni . 
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="nkopi l'URL f l'clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="nkopi l'URL l clipboard" />
 
 Atkoun b7al had chkel :
 ```bash
@@ -59,7 +59,11 @@ git checkout -b add-brahim
 
 ## Bdl fl file d Contributors
 
-Daba d5el l fichier dyal `Contributors.md` fchi editeur , zid smytk w chi lien ila bghiti (3andak der chi7aja 5ayba). Ila ktbti daba f dik cmd/terminal `git status`, aybanulk l3ibat li bdlti. Daba zidhoum l branch dyalk add-brahim bhad l3iba dyal `git add` :
+Daba d5el l fichier dyal `Contributors.md` fchi editeur , zid smytk w chi lien ila bghiti (3andak der chi7aja 5ayba).
+
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+
+Ila ktbti daba f dik cmd/terminal `git status`, aybanulk l3ibat li bdlti. Daba zidhoum l branch dyalk add-brahim bhad l3iba dyal `git add` :
 ```bash
 git add Contributors.md
 ```
