@@ -12,8 +12,8 @@ MICHAL!
 - [Koki Oishi]
 -[Danuja](https://github.com/DanujaNirodhana2003)
 - [Daniru Dinsara](https://github.com/DaniruDC)
--[VinushaDayananda](https://github.com/VinushaDayanana)
--[Uday Bhaskar Valapadasu](https://github.com/BhaskarTheCoder)
+- [VinushaDayananda](https://github.com/VinushaDayanana)
+- [Uday Bhaskar Valapadasu](https://github.com/BhaskarTheCoder)
 - [Harsha Madhuri Reddy Kovvuri] (https://github.com/madhurireddy27)
 -[Himasha Nimnadi]
 -[Matheesha Bimsara]
