@@ -1281,6 +1281,7 @@ Naman Malik
 - [KristinnTh](https://github.com/KristinnTh)
 - [KunalMali](https://github.com/kunalmali83)
 - [Kushal Chavan](https://github.com/Kushalchavan)
+- [Kushan Anushka](https://github.com/Anushka7769)
 - [Kyle Boo](https://github.com/bookang869)
 - [Kyusan Kim](https://github.com/5tarlight)
 - [Rashmee W](https://github.com/RashmeeW)
