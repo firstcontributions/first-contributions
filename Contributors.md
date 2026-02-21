@@ -2470,6 +2470,7 @@ contribution by arshi
 - [cbgch](https://github.com/cbgch)
 - [Federico Porpora](https://github.com/federicoporpora)
 - [Thisal Yapa](https://github.com/ttryapa)
+- [A.B.](https://github.com/anirudhbhangle)
 - [Ankur Kumar](https://github.com/ankur-1232)
 - [Enosh Joseph](https://github.com/enoshjoseph)
 - [Janani_RS](https://github.com/Janani_RS06)
