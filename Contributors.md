@@ -1346,3 +1346,4 @@ SILVIO
 - [Gaurav Singh](https://github.com/gauravsinghcodes)
 - [Parth Sinde](https://github.com/Parthshinde2005)
 - [Mithun Srinivas](https://github.com/MithunSrinivas28)
+- [Alex Myasnikov](https://github.com/myasnikov-aa)
