@@ -44,6 +44,7 @@ MICHAL!
 -[Suryansh Raj Singh](https://github.com/0xSRS)
 -[Jaypal Dhapa](https://github.com/JaypalDhapa)
 - [Swastik Garg](https://github.com/swastik22f3000908)
+- [Utkarsh Gupta](https://github.com/utkarshgupta188)
 - [Thoka Harini](https://github.com/thokaharini24)
 - [Jothika Aravindhan](https://github.com/jothikaaravindhan)
 - [Irusha](https://github.com/Irusha23)
