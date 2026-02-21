@@ -19,6 +19,8 @@ MICHAL!
 -[Matheesha Bimsara]
 -[pranitha-chowdary](https://github.com/pranitha-chowdary)
 -[Samara Gunawardhana]
+-[Imasha Sewmini]
+-[Pradeep Kambalapally](https://github.com/pradeepkambalapally)
 -[Vaishnavi Melagiri](https://github.com/VaishnaviMelagiri)
 -[Arpan Chatterjee](https://github.com/Arpan2411)
 -[Tharindu Himantha](https://github.com/TharinduHimantha)
@@ -2464,6 +2466,7 @@ contribution by arshi
 - [Dikshant Dibbey](https://github.com/Dishant2609)
 -[Mandela Pulei](https://github.com/Oleysank)
 - [techajm](https://github.com/techajm)
+- [HB]
 - [Abhinav Anand](https://github.com/abhioppppp)
 - [Upasana Bera](https://github.com/upasanabera)
 - [Kailash Kumar](https://github.com/kailash-py)
@@ -2479,3 +2482,4 @@ contribution by arshi
 - [Janani_RS](https://github.com/Janani_RS06)
 -[Sahana B S](https://github.com/sahana-bs-dev)
 -[anshu sharma](https://github.com/23f3000162)
+- [Anuj Chauhan](https://github.com/23f2000188)
