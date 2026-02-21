@@ -14,6 +14,7 @@ MICHAL!
 - [Harsha Madhuri Reddy Kovvuri] (https://github.com/madhurireddy27)
 -[Himasha Nimnadi]
 -[Matheesha Bimsara]
+-[Vaishnavi Melagiri](https://github.com/VaishnaviMelagiri)
 -[Tharindu Himantha](https://github.com/TharinduHimantha)
 - [Navin] (https://github.com/DevOpsByNavin)
 -[Sultan Syed](https://github.com/syedsultan1)
