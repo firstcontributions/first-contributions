@@ -29,6 +29,7 @@ MICHAL!
 -[Vaish G](https://github.com/Fullstack-Vaishnavi)
 -[Gian Carlo Bárcenas](https://github.com/Gianka8)
 -[Nabeel Sahib](https://github.com/bill10110)
+-[Shyam] (https://github.com/Shyamg3)
 -[Ryan Fernando](https://github.com/RyanJFM)
 -[Guerrero V](https://github.com/guerrevg)
 -[soum-i] https://github.com/soum-i
