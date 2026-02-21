@@ -5,6 +5,7 @@
 # Usage:
 #   ./validate-contributors.sh              Check the whole file for issues
 #   ./validate-contributors.sh --check      Same as above
+#   ./validate-contributors.sh --fix        Auto-fix safe formatting issues (spacing, URL typos)
 #   ./validate-contributors.sh --add        Interactively add a properly formatted entry
 #   ./validate-contributors.sh --help       Show usage information
 #
@@ -31,6 +32,7 @@ usage() {
     echo "Usage:"
     echo "  ./validate-contributors.sh              Check the file for common issues"
     echo "  ./validate-contributors.sh --check      Same as above"
+    echo "  ./validate-contributors.sh --fix        Auto-fix safe formatting issues"
     echo "  ./validate-contributors.sh --add        Add a properly formatted entry"
     echo "  ./validate-contributors.sh --help       Show this help message"
     echo ""
@@ -88,7 +90,7 @@ validate_entry() {
         echo -e "    Got: $line"
         errors=$((errors + 1))
     fi
-    if [[ "$line" =~ github\.c0m ]] || [[ "$line" =~ github\.con ]]; then
+    if [[ "$line" =~ github\.c0m ]] || [[ "$line" =~ github\.con/ ]]; then
         echo -e "  ${RED}Line $line_num:${RESET} URL typo in domain (should be github.com)"
         echo -e "    Got: $line"
         errors=$((errors + 1))
@@ -139,6 +141,92 @@ cmd_check() {
     else
         echo -e "${YELLOW}Found $total_issues issue(s).${RESET}"
         echo "These are suggestions to help you format your entry correctly."
+    fi
+
+    return 0
+}
+
+cmd_fix() {
+    check_file_exists
+
+    echo -e "${BOLD}Fixing safe formatting issues in $CONTRIBUTORS_FILE...${RESET}"
+    echo ""
+
+    local tmpfile
+    tmpfile=$(mktemp)
+    local fixes=0
+    local line_num=0
+
+    while IFS= read -r line || [ -n "$line" ]; do
+        line_num=$((line_num + 1))
+        local original="$line"
+
+        # Skip header lines, blank lines, and non-entry lines
+        if [[ "$line" =~ ^#  ]] || [[ -z "$line" ]] || [[ "$line" =~ ^[A-Z] && ! "$line" =~ ^\- && ! "$line" =~ ^\[ ]]; then
+            echo "$line" >> "$tmpfile"
+            continue
+        fi
+
+        # Step 1: strip leading whitespace from entry lines
+        if [[ "$line" =~ ^[[:space:]]+ ]]; then
+            line="${line#"${line%%[![:space:]]*}"}"
+        fi
+
+        # Step 2: add "- " prefix to lines starting with "[Name]"
+        if [[ "$line" =~ ^\[.*\] ]]; then
+            line="- $line"
+        fi
+
+        # Step 3: add space after dash  "-[" -> "- ["
+        if [[ "$line" =~ ^-\[ ]]; then
+            line="- ${line:1}"
+        fi
+
+        # Fix: extra space inside URL parentheses "( https://" -> "(https://"
+        line="${line//\( https:\/\//\(https:\/\/}"
+
+        # Fix: trailing space before closing paren "/ )" -> "/)"
+        line="${line//\/ \)/\/\)}"
+
+        # Fix: URL typo "htps://" -> "https://"
+        line="${line//htps:\/\//https:\/\/}"
+
+        # Fix: URL typos in domain
+        line="${line//github.c0m/github.com}"
+        line="${line//github.con\//github.com\/}"
+
+        # Fix: trailing <br> tags
+        line="${line%%<br>}"
+
+        # Trim trailing whitespace
+        line="${line%"${line##*[![:space:]]}"}"
+
+        if [ "$original" != "$line" ]; then
+            echo -e "  ${GREEN}Line $line_num:${RESET} Fixed"
+            echo -e "    Before: $original"
+            echo -e "    After:  $line"
+            fixes=$((fixes + 1))
+        fi
+
+        echo "$line" >> "$tmpfile"
+    done < "$CONTRIBUTORS_FILE"
+
+    # Ensure trailing newline
+    if [ -s "$tmpfile" ] && [ "$(tail -c 1 "$tmpfile" | wc -l)" -eq 0 ]; then
+        echo "" >> "$tmpfile"
+        echo -e "  ${GREEN}End of file:${RESET} Added trailing newline"
+        fixes=$((fixes + 1))
+    fi
+
+    echo ""
+    if [ "$fixes" -eq 0 ]; then
+        echo -e "${GREEN}No fixable issues found.${RESET}"
+        rm "$tmpfile"
+    else
+        mv "$tmpfile" "$CONTRIBUTORS_FILE"
+        echo -e "${GREEN}Fixed $fixes issue(s).${RESET}"
+        echo ""
+        echo "Run './validate-contributors.sh --check' to see any remaining issues."
     fi
 
     return 0
@@ -211,6 +299,9 @@ cmd_add() {
 case "${1:-}" in
     --help|-h)
         usage
+        ;;
+    --fix|-f)
+        cmd_fix
         ;;
     --add|-a)
         cmd_add
