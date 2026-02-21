@@ -20,6 +20,7 @@ MICHAL!
 -[pranitha-chowdary](https://github.com/pranitha-chowdary)
 -[Samara Gunawardhana]
 -[Imasha Sewmini]
+-[Pradeep Kambalapally](https://github.com/pradeepkambalapally)
 -[Vaishnavi Melagiri](https://github.com/VaishnaviMelagiri)
 -[Arpan Chatterjee](https://github.com/Arpan2411)
 -[Tharindu Himantha](https://github.com/TharinduHimantha)
