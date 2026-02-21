@@ -2467,4 +2467,4 @@ contribution by arshi
 - [cbgch](https://github.com/cbgch)
 - [Federico Porpora](https://github.com/federicoporpora)
 - [Thisal Yapa](https://github.com/ttryapa)
-- [Anirudh](https://github.com/anirudhbhangle)
+- [A.B.](https://github.com/anirudhbhangle)
