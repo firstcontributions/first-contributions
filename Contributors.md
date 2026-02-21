@@ -1211,7 +1211,7 @@ Naman Malik
 - [Jordan Wels](https://github.com/Jwels1)
 - [Jose Nino Muriel](ttps://github.com/josenino95)
 - [Jose Rios](https://github.com/josel006)
-- [Jeyanth](https://github.com/Jeyanth3)
+- [Lakshigan Jeyanth](https://github.com/Jeyanth3)
 - [Jose Soto](https://github.com/jossotriv)
 - [Domenico Foglia](https://github.com/DomenicoFoglia)
 - Oliver Wang
