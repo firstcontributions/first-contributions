@@ -17,6 +17,7 @@ MICHAL!
 -[Himasha Nimnadi]
 -[Matheesha Bimsara]
 -[pranitha-chowdary](https://github.com/pranitha-chowdary)
+-[Samara Gunawardhana]
 -[Vaishnavi Melagiri](https://github.com/VaishnaviMelagiri)
 -[Tharindu Himantha](https://github.com/TharinduHimantha)
 - [Navin] (https://github.com/DevOpsByNavin)
