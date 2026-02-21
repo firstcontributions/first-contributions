@@ -1256,6 +1256,7 @@ Naman Malik
 - [Taha Mirza](https://github.com/muhammadtahamirza)
 - [Kaustubh Chaturvedi](https://github.com/Kaus-16)
 - [Kavya Vadla](https://github.com/kvadla06)
+- [Sarvesh](https://github.com/Sarvesh668)
 - [Kavya](https://github.com/Kavya751)
 - [Kazzpars](https://github.com/rid-acrh238)
 - [Keepas3](https://github.com/Keepas3)
