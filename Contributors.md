@@ -591,6 +591,7 @@ Sathish
 -Luminash Patel
 - [JardierCosta](https://github.com/JardierCosta) 
 - [Senuri Thilakarathne](https://github.com/Senurcreate) 
+- [VidanyaE23](https://github.com/VidanyaE23)
 - [Manojufw](https://github.com/Manojufw) 
 - [Angel780-jpg](https://github.com/Angel780-jpg)
 - [shwetasharma](https://github.com/ShwetaSharmaDev)
