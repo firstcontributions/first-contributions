@@ -11,7 +11,7 @@ Helllloo world! From this repo.
 MICHAL!
 - [Koki Oishi]
 -[Danuja](https://github.com/DanujaNirodhana2003)
--[Daniru Dinsara](https://github.com/DaniruDC)
+- [Daniru Dinsara](https://github.com/DaniruDC)
 -[VinushaDayananda](https://github.com/VinushaDayanana)
 -[Uday Bhaskar Valapadasu](https://github.com/BhaskarTheCoder)
 - [Harsha Madhuri Reddy Kovvuri] (https://github.com/madhurireddy27)
