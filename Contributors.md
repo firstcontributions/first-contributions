@@ -573,6 +573,7 @@ Amir Osman
 - [Juhi Kumari](https://github.com/JJuhi)
 - [Zander Gouws](https://github.com/MyFokFrikkie)
 - [Xiru Wang](https://github.com/SheEagle)
+- [Abhinav R](https://github.com/Abhinav158)
 - [Isha Singh](https://github.com/singhisha40)
   [Zarfishan Ali](https://github.com/zarfishan20)
 - [Cheril Gracenciya](https://github.com/cherry16grace)
