@@ -1,4 +1,50 @@
 # Contributors
+-  [bsjtb](https://github.com/2879824237): hello world !
+-  [Sahil verma](https://github.com/Sahilvee): hey !
+- - [HimaTeja](https://github.com/Allibadha-Himateja): This was my first contribution
+- [Abhishek P V](https://github.com/abhishekpv): My first contribution, Lets do it!
+- [Ritesh Gite](https://github.com/RiteshGite): My first contribution, Lets do it!
+- [Subhash Gupta](https://github.com/codesubhash234) : Starting journey with first contribution
+- [Ananya Singh](https://github.com/AS-pngg): First Contribution
+- [Lakshita Bisht](https://github.com/LakshitaBisht11):
+- [吴博](https://github.com/JasonWuInBJ): 一起搞AI 
+- [BOUKEF Mohamed Lamine](https://github.com/Boukef): If you’re reading this, you matter. Have a great day!
+rodrick
+- [Aashik thakur](https://github.com/CodeByAashik):  Hello world, my first open-source contribution
+- [Mohammed Anas](https://github.com/Anas-Blue): Finally!!
+- [Waleed Ahmed] (https://github.com/Waleed-Web-Dev): My Brother name is Anas too!
+- [Jyoti Singh](https://github.com/Jyoti-Singh15): Add Jyoti to Contributor list!
+- Rishi
+- [m_dev](https://github.com/marindeveloper) : not my first not my last
+- [Rishabh Maheshwari](https://github.com/iyemrishabh) : Though it is my first contribution but many more are coming. yuuhuuu life is enjoy.....
+- [Linus Nwankwo](https://github.com/nwankwolinus)
+- [Arjit Sharma](https://github.com/Arjit201): goodluck man
+- [Bhavishya Jain](https://github.com/Bhavishya41): ahh shit, here we go again !!
+- [Nishant Patil](https://github.com/nishantverse): I'm gonna be the king of pirates !!
+- [Bhargav Thota](https://github.com/bhargavsai007): Hello Open-source community 👋🏻
+- [Chaitanya Mishra](https://github.com/chaitanya-mishra-ai): Contributing to open source, one PR at a time! 🚀
+- [Saurabh Vishwakarma](https://github.com/Vishwakarma-Saurabh): Good to go!
+- [Filip Masiar](https://github.com/fifo1318): First contribution lets goo!
+- [Sujan Singh Meena](https://github.com/sujan2000):My first open source contribution, definitely just the beginning of a great Adventure.
+- [Waseem Mushtaq](https://github.com/waseem1302-x): My first open source contribution, looking forward to contribute more!
+- [Rakshitha_kengannar](https://github.com/Rakshithank129): Hey! Welcome to me to the open source contribution community😊. lets contribute and build something new in coming days...!  
+- [Paul Stefano Fetalvero](https://https://github.com/Fatalversion):- First step into open source, looking forward to contributing more.
+- [Durgesh Gorana](https://github.com/07Durgesh):- My first open source contribution, looking forward to contribute more!
+- [Mohit Chhaparwal](https://github.com/mohitchhaparwal):- Learn to contribute, contribute to learn!
+- [Kaushalya](https://github.com/kaushalya-f10):first open-source contribution 🚀
+- [Sakeef Mushfique](https://github.com/sakmus): First ever open source contribution. Looking forward for more collaboration.
+- [Nimarjot kaur][https://github.com/Nimarjot1]: This is my first contribution
+- [Femi-Olagundoyeoluwaferanmi](https://github.com/Gevans4352): This is my very first open source! lets get it!!!!
+- [Siddharth Axaykumar Mehta](https://github.com/myselfsiddharth): Why not ! Let's get that damn badge !!!
+- [Jason Balayev](https://github.com/JasonBalayev): One commit at a time
+- [Kim Seongeon](https://github.com/mudhopper) : First open source contribution
+- [Nyan Lin Mg](https://github.com/nyanlinmg)
+- [Kevin-Neibarger](https://github.com/kevinneibarger)
+- [Krishna-Raj](https://github.com/krishna-stone)
+- [Rahul-singh](https://github.com/Singh0622)
+- [Siddhesh-Gite] (https://github.com/Siddhesh200419)
+- Alex
+=======
 Helllloo world! From this repo.
 [Dev]
 - [larryste-max](https://github.com/larryste-max)<br>
@@ -475,6 +521,7 @@ mmmeeeemee
 - [Alka Gupta](https://github.com/AlkaGupta6800)
 - [Tuvva Vexith](https://github.com/VitCritical)
 - [OCHWO DAVID](https://github.com/DaveOch-sudo)
+
 
 - [liplip](https://github.com/liplip358)
 - [Dorcas Adebayor](https://github.com/dokipure)
