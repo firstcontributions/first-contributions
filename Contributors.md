@@ -991,6 +991,7 @@ Naman Malik
 - [Weiming Zhu](https://github.com/zhuweiming-1)
 - [Daniel Caspit](https://github.com/dcaspit)
 - [Daniel Guo](https://github.com/DiiGii)
+- [Hugo](https://github.com/v4k3n)
 - [Daniela Gallegos Dupuis](https://github.com/danigallegdup)
 - [Dao Duy Tin](https://github.com/duytin095)
 - [Dave Herr](https://github.com/dave-herr)
