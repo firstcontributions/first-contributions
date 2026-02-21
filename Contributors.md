@@ -18,6 +18,7 @@ MICHAL!
 -[Matheesha Bimsara]
 -[pranitha-chowdary](https://github.com/pranitha-chowdary)
 -[Vaishnavi Melagiri](https://github.com/VaishnaviMelagiri)
+-[Arpan Chatterjee](https://github.com/Arpan2411)
 -[Tharindu Himantha](https://github.com/TharinduHimantha)
 - [Navin] (https://github.com/DevOpsByNavin)
 -[Sultan Syed](https://github.com/syedsultan1)
