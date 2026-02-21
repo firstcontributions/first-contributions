@@ -708,6 +708,7 @@ Naman Malik
 - [Abdul Wasay] (https://github.com/wasxy47)
 - [Miguel Hernandez](https://github.com/mangel-mhdez)
 - [Suchit](https://github.com/suchit-hirani-python-ak)
+- [Akeela] (https://github.com/acfakeela)
 - [Manopalaniraja A](https://github.com/mano2102/)
 - [Aaron Lee](https://github.com/acelee0621)
 - [Jorge Araya](https://github.com/jorgearayac)
