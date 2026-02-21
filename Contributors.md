@@ -91,6 +91,7 @@ MICHAL!
 - [Thangella Harshitha](https://github.com/harshithathangella)
 - [Harrison Smith](https://github.com/hobbitual)
 - [Vaibhav Hample](https://github.com/Vaibhav-rgb45)
+- [Aryan Khedulkar](https://github.com/coder-aryan14)
 - [Praseeda VL](https://github.com/praseeda-10)
 - [Hiruni Weerasinghe](https://github.com/Hiruni942)
 - [NigamTembhare](htps://github.com/Nigam09)
