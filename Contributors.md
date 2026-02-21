@@ -2466,6 +2466,7 @@ contribution by arshi
 - [Abhinav Anand](https://github.com/abhioppppp)
 - [Upasana Bera](https://github.com/upasanabera)
 - [Anjali Kokare](https://github.com/anjalikokare)
+- [Shikha Rani](https://github.com/24f2007655)
 - [Nishank](https://github.com/Devnish0)
 - [cbgch](https://github.com/cbgch)
 - [Federico Porpora](https://github.com/federicoporpora)
