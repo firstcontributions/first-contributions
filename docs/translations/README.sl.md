@@ -61,7 +61,7 @@ git checkout -b add-janez-novak
 ```
 (Ni potrebno da je v imenu veje *add*, vendar je v tem primeru smiselno, ker je namen veje da dodaš svoje ime na seznam.)
 
-## Naredi spremembe in izvedi commmit teh sprememb ( Make necessary changes and commit those changes )
+## Naredi spremembe in izvedi commit teh sprememb ( Make necessary changes and commit those changes )
 
 Odpri datoteko `Contributors.md` v urejevalniku besedila in dodaj svoje ime. Ne dodajaj ga na začetek ali konec datoteke, dodaj ga nekje vmes. Shrani datoteko.
 
