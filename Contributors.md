@@ -2313,16 +2313,17 @@ guru
 - jesseli123
 - [GameDevHunterG](https://github.com/GameDevHunterG) - 🌎Hello World!
 - [KaniKapoor-dot](https://github.com/kanikapoor-dot) - Given enough eyeballs, all bugs are shallow.
-- [sethj34] (https://github.com/sethj34)
+- [sethj34](https://github.com/sethj34)
 - Lalit
 - nk
 - [Ronak](https://github.com/roonakyadav)
 - [zs1981](https://github.com/zs1981)
 - [Mary Lavanitha](https://github.com/lavanitha)
 - [zs1981](https://github.com/zs1981)
-- [maxmetodiev] (https://github.com/maxmetodiev) - Hello open source World!
-- [jest15] (https://github.com/Jest15) - Hello
-- [Nacn3] (https://github.com/Nacn3) --heello
+- [maxmetodiev](https://github.com/maxmetodiev) - Hello open source World!
+- [jest15](https://github.com/Jest15) - Hello
+- [Nacn3](https://github.com/Nacn3) --heello
+- [Famaskah](https://github.com/famaskah)
 - [Leo Hermansson](https://github.com/jamessmith) - victoria concordia crescit
 - [Charles Gregorski](https://github.com/gregorskic-debug) - How's it going GitHub?
 - [Sunil](https://github.com/Sunil0620)
