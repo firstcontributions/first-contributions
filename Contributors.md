@@ -2512,4 +2512,5 @@ contribution by arshi
 - [Pavan](https://github.com/pa-0ne)
 - [Mayank Nagar](https://github.com/Mayank-nag)
 - [Jm Dublon](https://github.com/Dublonx)
+- [Hayan Aljabr](https://github.com/hayan-gh)
 - [Harshita](https://github.com/harshitasingh108)
