@@ -1,6 +1,7 @@
 # Contributors
 Helllloo world! From this repo.
 [Dev]
+- [Sathsarani](https://github.com/SathsaraniJA)
 - [Erkan](https://github.com/erkcet)
 - [larryste-max](https://github.com/larryste-max)<br>
 - [ShubhamK](https://github.com/Shubham91999)
