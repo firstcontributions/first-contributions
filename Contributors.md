@@ -1002,6 +1002,7 @@ Naman Malik
 - [Christian Gongora](https://github.com/ChristianGongoraDeMoraes)
 - [Coaxus-ux](https://github.com/Coaxus-ux)
 - [Sleeping Cyber]
+- [Chemini Newanma](https://github.com/chemini244)
 - [ColorCode](https://github.com/benjaAguilar)
 - [Conor James](https://github.com/ConorsGitHub)
 - [CoventinaLachesis](github.com/CoventinaLachesis)
