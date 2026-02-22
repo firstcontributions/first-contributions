@@ -313,6 +313,7 @@ mmmeeeemee
 - Fathima
 - [Nicolas Harris] (https://github.com/Techlyn)
 - [Manny Lazalde](https://github.com/mannylazalde)
+- [ema_iicyc] (https://github.com/EmanueleZini)
 - [LuckyGautam](https://github.com/LuckyG05)
 - [Ridell Salema](https://github.com/ridellsalema)
 - [ZulaikhaAshiq](https://github.com/zulaikhamir)
