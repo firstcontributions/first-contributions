@@ -25,6 +25,7 @@ MICHAL!
 -[Nethmi Pamosha]
 -[Matheesha Bimsara]
 -[pranitha-chowdary](https://github.com/pranitha-chowdary)
+-[Shreeya Tapaswi](https://github.com/ShreeyaTapaswi)
 -[Samara Gunawardhana]
 -[Imasha Sewmini]
 -[Pradeep Kambalapally](https://github.com/pradeepkambalapally)
