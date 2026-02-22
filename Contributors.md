@@ -24,7 +24,6 @@ MICHAL!
 -[Himasha Nimnadi]
 -[Nethmi Pamosha]
 -[Matheesha Bimsara]
--[srikar] (https://github.com/Srikarpolimera)
 -[pranitha-chowdary](https://github.com/pranitha-chowdary)
 -[Samara Gunawardhana]
 -[Imasha Sewmini]
