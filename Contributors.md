@@ -22,6 +22,7 @@ MICHAL!
 -[Uday Bhaskar Valapadasu](https://github.com/BhaskarTheCoder)
 - [Harsha Madhuri Reddy Kovvuri] (https://github.com/madhurireddy27)
 -[Himasha Nimnadi]
+-[Nethmi Pamosha]
 -[Matheesha Bimsara]
 -[pranitha-chowdary](https://github.com/pranitha-chowdary)
 -[Samara Gunawardhana]
