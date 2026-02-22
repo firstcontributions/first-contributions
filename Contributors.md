@@ -2462,6 +2462,7 @@ contribution by arshi
 - [Ivan Delfin](https://github.com/idelfing)
 - [Kenula Ranasinghe] (https://github.com/KenulaR)
 -[Chavindi-en](https://github.com/Chavindi-en)
+-[Hasala-Kavinda](https://github.com/Hasala-Kavinda)
 - [Vansh Jaggi](https://github.com/VanshJ2902)
 -[cristians-12](https://github.com/cristians-12)
 -[Dineth] (https://github.com/DinethAdikari)
