@@ -2491,4 +2491,4 @@ contribution by arshi
 - [Anuj Chauhan](https://github.com/23f2000188)
 - [Kailash Kumar Hedaoo](https://github.com/23f2005552-py)
 - [agalius](https://github.com/agalius)
-- [hang-up](https://github.com/hang-up33?tab=repositories)
+- [hang-up](https://github.com/hang-up33)
