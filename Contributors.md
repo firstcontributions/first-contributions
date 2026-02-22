@@ -28,6 +28,7 @@ MICHAL!
 - [Navin] (https://github.com/DevOpsByNavin)
 -[Sultan Syed](https://github.com/syedsultan1)
 - [Theertha](https://github.com/23f3003994)
+- [hang-up](https://github.com/hang-up33?tab=repositories)
 -[Maryame Arrach](https://github.com/maryamearrach)
 - [Yahddyyp](https://github.com/Yahddyyp)
 -[Vaish G](https://github.com/Fullstack-Vaishnavi)
