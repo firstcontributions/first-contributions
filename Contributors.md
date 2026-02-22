@@ -28,7 +28,6 @@ MICHAL!
 - [Navin] (https://github.com/DevOpsByNavin)
 -[Sultan Syed](https://github.com/syedsultan1)
 - [Theertha](https://github.com/23f3003994)
-- [hang-up](https://github.com/hang-up33?tab=repositories)
 -[Maryame Arrach](https://github.com/maryamearrach)
 - [Yahddyyp](https://github.com/Yahddyyp)
 -[Vaish G](https://github.com/Fullstack-Vaishnavi)
@@ -2492,3 +2491,4 @@ contribution by arshi
 - [Anuj Chauhan](https://github.com/23f2000188)
 - [Kailash Kumar Hedaoo](https://github.com/23f2005552-py)
 - [agalius](https://github.com/agalius)
+- [hang-up](https://github.com/hang-up33?tab=repositories)
