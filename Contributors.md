@@ -14,6 +14,7 @@ MICHAL!
 - [Vinay Munde]
 - [Koki Oishi]
 - [pp](https://github.com/pprbkt)
+- [pavan_shetty](https://github.com/shettypavan486-boop)
 - [Ganesh_Bhargav](https://github.com/Ganeshbhargav)
 -[Danuja](https://github.com/DanujaNirodhana2003)
 -[VinushaDayananda](https://github.com/VinushaDayanana)
