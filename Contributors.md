@@ -171,8 +171,6 @@ mmmeeeemee
 - ([Yasiru Raveen](https://github.com/Yasiru1304))
 - [priyanshubarai] (https://github.com/priyanshubarai)
 - [orphicdusk] (https://github.com/orphicdusk)
-[srikar polimera] (https://https://github.com/Srikarpolimera)
-[lalitha] (https://https://github.com/Srikarpolimera)
 [Milan Choudhary] (https://github.com/Milan-Choudhary)
 [Nikhilendar Sai](https://github.com/bunnytns6-cpu)
 [Nikhitha Talari](https://github.com/Nikhitha-spec)
