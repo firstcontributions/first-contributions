@@ -32,7 +32,7 @@ MICHAL!
 -[Nethmi Pamosha]
 -[Anusha Dharma Kattaya]
 -[Matheesha Bimsara]
--[pranitha-chowdary](https://github.com/pranitha-chowdary)
+-[pranitha-chowdary king](https://github.com/pranitha-chowdary)
 -[Shreeya Tapaswi](https://github.com/ShreeyaTapaswi)
 -[Samara Gunawardhana]
 -[Imasha Sewmini]
