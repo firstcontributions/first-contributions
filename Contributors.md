@@ -161,6 +161,7 @@ me2
 - [Umesh] (https://github.com/ucimazing)
 - [Rijen Manandhar](https://github.com/rijenmdr)
 mmmeeeemee
+-[Dax Manuel] (https://github.com/DaxManuel27)
 - [Jake Medeiros] (https://github.com/jakemedeiros)
 - [Bailey Kiejko] (https://github.com/Bails86)
 -[Amit Jadhav](https://github.com/A-aj007 )
