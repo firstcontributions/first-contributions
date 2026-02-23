@@ -44,6 +44,7 @@ MICHAL!
 -[Sultan Syed](https://github.com/syedsultan1)
 - [Theertha](https://github.com/23f3003994)
 -[Ranushi Jayalath] 
+-[Lihini]
 -[Maryame Arrach](https://github.com/maryamearrach)
 -[Nelaka Dissanayake](https://github.com/NelakaDiss)
 - [Yahddyyp](https://github.com/Yahddyyp)
