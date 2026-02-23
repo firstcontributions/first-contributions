@@ -14,23 +14,23 @@ _Dacă nu vă simțiți confortabil folosind linia de comandă, [aici sunt tutor
 
 #### Dacă nu ai git instalat, [instalează-l](https://help.github.com/articles/set-up-git/).
 
-## Realizați bifurcația depozitului
+## Realizați fork-ul repository-ului
 
-Efectuați bifurcația acestui depozit apăsând pe butonul `Fork` din partea de sus a acestei pagini.
-Aceasta va crea o copie a acestui depozit în contul dvs.
+Efectuați fork-ul acestui repo apăsând pe butonul `Fork` din partea de sus a acestei pagini.
+Aceasta va crea o copie a acestui repo în acccount-ul dvs.
 
-## Clonați depozitul
+## Clonați repository-ul
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="Clonați acest depozit" />
 
-Acum clonați depozitul bifurcat pe computerul dvs. Mergeți în contul dvs. GitHub, deschideți depozitul bifurcat, apăsați pe butonul `Code` și apoi pe pictograma de _copiere în clipboard_.
+Acum clonați repo-ul forked pe computerul dvs. Mergeți în contul dvs. GitHub, deschideți repo-ul, apăsați pe butonul `Code` și apoi pe pictograma de _copiere în clipboard_.
 
 Deschideți un terminal și executați următoarea comandă Git:
 
 ```bash
 git clone "URL-ul pe care l-ați copiat"
 ```
-unde `URL-ul pe care l-ați copiat` (fără ghilimele) este URL-ul către acest depozit (bifurcarea dvs. a acestui proiect). Consultați pașii anteriori pentru a obține URL-ul.
+unde `URL-ul pe care l-ați copiat` (fără ghilimele) este URL-ul către acest repo (fork-ul dvs. a acestui proiect). Consultați pașii anteriori pentru a obține URL-ul.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="Copiați URL-ul în clipboard" />
 
@@ -41,18 +41,18 @@ git clone https://github.com/numele-tau/first-contributions.git
 ```
 unde `numele-tau` reprezintă numele dvs. de utilizator GitHub. Aici copiați conținutul depozitului _first-contributions_ de pe GitHub pe computerul dvs.
 
-## Creați o ramură
+## Creați un branch
 
-Schimbați directorul depozitului de pe computerul dvs. (dacă nu sunteți deja acolo):
+Schimbați directorul repo-ului de pe computerul dvs. (dacă nu sunteți deja acolo):
 
 ```bash
 cd first-contributions
 ```
 
-Acum creați o ramură folosind comanda `git switch`:
+Acum creați un branch folosind comanda `git switch`:
 
 ```bash
-git switch -c numele-noii-ramuri
+git switch -c numele-noului-branch
 ```
 
 De exemplu:
@@ -61,7 +61,7 @@ De exemplu:
 git switch -c adaug-alonzo-church
 ```
 
-## Efectuați modificările necesare și comiteți acele modificări
+## Efectuați modificările necesare și dați commit acelor modificări
 
 Acum deschideți fișierul `Contributors.md` într-un editor de text, adăugați-vă numele în el. Nu-l adăugați la începutul sau la sfârșitul fișierului. Puneți-l oriunde între acestea. Apoi, salvați fișierul.
 
@@ -69,13 +69,13 @@ Acum deschideți fișierul `Contributors.md` într-un editor de text, adăugați
 
 Dacă mergeți în directorul proiectului și executați comanda `git status`, veți vedea că există modificări.
 
-Adăugați aceste modificări în ramura pe care tocmai ați creat-o folosind comanda `git add`:
+Adăugați aceste modificări în branch-ul pe care tocmai ați creat-o folosind comanda `git add`:
 
 ```bash
 git add Contributors.md
 ```
 
-Acum comiteți acele modificări folosind comanda `git commit`:
+Acum dați commit acelor modificări folosind comanda `git commit`:
 
 ```bash
 git commit -m "Adaug numele-tau la lista de Contribuitori"
@@ -89,7 +89,7 @@ git commit -m "Adaug numele-tau la lista de Contribuitori"
 ```bash
 git push -u origin numele-ramurii-tale
 ```
-înlocuind `numele-ramurii-tale` cu numele ramurii pe care ați creat-o anterior.
+înlocuind `numele-ramurii-tale` cu numele branch-ului pe care l-ați creat anterior.
 
 <details>
 <summary> <strong>Dacă întâmpinați erori în timpul încărcării, apăsați aici:</strong> </summary>
