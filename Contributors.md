@@ -70,6 +70,7 @@ MICHAL!
 -[Sashi Rajbanshi](https://github.com/sashi12222)
 -[Hansala Dewmini]
 -[Vineeth Chethula](https://github.com/VineethChethula)
+-[Vidusini A]
 -[Monisha Sugirtharajan](https://github.com/s-monisha11)
 -[Suryansh Raj Singh](https://github.com/0xSRS)
 -[Jaypal Dhapa](https://github.com/JaypalDhapa)
