@@ -2,12 +2,14 @@
 Helllloo world! From this repo.
 [Dev]
 - [Sathsarani](https://github.com/SathsaraniJA)
+- [DIARINIAINA Jean Marc](https://github.com/diariniaina11)
 - [Kanan Choudhary](https://github.com/your-username)
 - [Erkan](https://github.com/erkcet)
 - [larryste-max](https://github.com/larryste-max)<br>
 - [ShubhamK](https://github.com/Shubham91999)
 - [Morpheus](https://github.com/TheGittyPerson) of Ormaphea<br>
-[lalitha] (https://github.com/lalithapolimera)
+-[lalitha] (https://github.com/lalithapolimera)
+-[srikar polimera] (https://github.com/srikarpolimera)
 -[Athif nular]
 git status
 -[Ansar_Basha](https://github.com/Ansar9493)
@@ -329,6 +331,7 @@ mmmeeeemee
 - [Ridell Salema](https://github.com/ridellsalema)
 - [ZulaikhaAshiq](https://github.com/zulaikhamir)
 - [Mai1333] (https://github.com/Mai1333)ributors
+- [Harshith-richards] (https://github.com/Harshith-richards)
 - [Krishan Kumar Singh](https://github.com/Krishan131)
 - [Ashwin Kapile](https://github.com/Ashking07)
 - [Paola Juarez](https://github.com/pjuarezm-dev)
