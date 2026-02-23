@@ -8,6 +8,7 @@ Helllloo world! From this repo.
 - [ShubhamK](https://github.com/Shubham91999)
 - [Morpheus](https://github.com/TheGittyPerson) of Ormaphea<br>
 -[Athif nular]
+[srikar polimera] (https://github.com/srikarpolimera)
 -[Ansar_Basha](https://github.com/Ansar9493)
 -[POOJA_MURALEEDHARAN](https://github.com/poojamuraleedharan0-art)
 -[bob morane]
@@ -32,7 +33,6 @@ MICHAL!
 -[Anusha Dharma Kattaya]
 -[Matheesha Bimsara]
 -[pranitha-chowdary](https://github.com/pranitha-chowdary)
--[srikar Polimera] (https://github.com/Srikarpolimera).....
 -[Samara Gunawardhana]
 -[Imasha Sewmini]
 -[Pradeep Kambalapally](https://github.com/pradeepkambalapally)
