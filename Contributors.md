@@ -14,6 +14,7 @@ Helllloo world! From this repo.
 - [Ansar_Basha](https://github.com/Ansar9493)
 - [POOJA_MURALEEDHARAN](https://github.com/poojamuraleedharan0-art)
 - [bob morane]
+- [alepiana]
 - [YOUSSOF HOSSAM ELDIN]
 - [Sandeep]
 - [Taye4]
@@ -21,6 +22,7 @@ MICHAL!
 - [Vinay Munde]
 - [Danyell Shiflett]
 - [Koki Oishi]
+- [Sanindu Hansara](https://github.com/SaninduHansara)
 - [pp](https://github.com/pprbkt)
 - [pavan_shetty](https://github.com/shettypavan486-boop)
 - [Ganesh_Bhargav](https://github.com/Ganeshbhargav)
@@ -61,6 +63,7 @@ MICHAL!
 -[Rudra Dudhat]( https://github.com/RudraDudhat2509/)
  [Trishit1234](https://github.com/Trishit1234)  
 -[Shehani Weerasekara]
+-[Ewmi Wijesinghe] 
  -[Divya Patel](https://github.com/divyapatelgm)
  -[Gourav Madhwal](https://github.com/GouravMadhwal)
  -[Sameh Elwan](https://github.com/samshx606)
@@ -72,6 +75,7 @@ MICHAL!
 -[Miguel Aanszo]
 -[Muaz Sadique] (https://github.com/muazsad)
 -[Sashi Rajbanshi](https://github.com/sashi12222)
+-[Pahan Prabash](https://github.com/PahanPrabash
 -[Hansala Dewmini]
 -[Vineeth Chethula](https://github.com/VineethChethula)
 -[Vidusini A]
@@ -161,6 +165,7 @@ me2
 - [Umesh] (https://github.com/ucimazing)
 - [Rijen Manandhar](https://github.com/rijenmdr)
 mmmeeeemee
+-[Dax Manuel] (https://github.com/DaxManuel27)
 - [Jake Medeiros] (https://github.com/jakemedeiros)
 - [Bailey Kiejko] (https://github.com/Bails86)
 -[Amit Jadhav](https://github.com/A-aj007 )
@@ -884,6 +889,7 @@ Naman Malik
 - [Andi H](https://github.com/AndyH-78/)
 - [Andre AS](https://github.com/AndreASTec)
 - [Andre Bimbatti](https://github.com/andrebimbatti)
+- [Shivam](https://github.com/ShivamJhaXXIII)
 -- [Thilak](https://github.com/thilak-79)
 - [Andrea Moguel](https://github.com/amoguelk)
 - [Andrew Park](https://github.com/AndePark)
@@ -2409,6 +2415,7 @@ contribution by arshi
 - [Szymon Kuczek](https://github.com/SzymonKuczek)
 - [Yash Kaith] (https://github.com/yawshhh)
 - [23f2001705](https://github.com/23f2001705)
+- [sasvi123](https://github.com/sasvi123)
 
 - [Atharv Khare](https://github.com/1mystic8u)
 - [Harishankar Mohapatra](https://github.com/harx878-beep)
@@ -2475,6 +2482,7 @@ contribution by arshi
 - [Danilo Lanzi](https://github.com/danlanzi)
 - [hsnyus-09](https://github.com/hsnyus-09)
 - [Alakh Awasthi](https://github.com/Awasthi577)
+- [Nithilaa] (https://github.com/Nithilaa0305)
 
 - [Selvaganapathy](https://github.com/selvaganapathycoder)
  - [Atuldeveloper24](https://github.com/Atuldeveloper24)
@@ -2545,3 +2553,12 @@ contribution by arshi
 - [prehan-13](https://github.com/prehan-13)
 - eemi
 - [A. Tejaswi](https://github.com/Tejaswi-9905) | B.Tech CSE | India
+  Sarthak Patil
+- [Harini](https://github.com/mdharini172007-hash)
+- [bhupe](https://github.com/Dharaniedharan)
+- [TechGen_DM](https://github.com/TechGenDM) | Scaler School Of Technology '2029 Batch | BITS Pilani '2028 Batch |
+- [ineedtools](https://github.com/ineedtools)
+- [Inisha](https://github.com/inisha-src)
+-[Jagdish](https://github.com/Jagdishuikey)|DYPCOE Pune
+-[Sathurjika](https://github.com/Sathurjika16)
+-[Abdullah](https://github.com/Bodeayman)
