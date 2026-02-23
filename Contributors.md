@@ -2533,5 +2533,4 @@ contribution by arshi
 - [rajavenkatesh04](https://github.com/rajavenkatesh04)
 - [prehan-13](https://github.com/prehan-13)
 - eemi
-- A. Tejaswi | B.Tech CSE | India
-- 
+-- [A. Tejaswi](https://github.com/Tejaswi-9905) | B.Tech CSE | India
