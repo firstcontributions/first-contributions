@@ -28,6 +28,7 @@ MICHAL!
 - [Kalpana Rajyam](https://github.com/Kalpana1234-ui)
 -[Himasha Nimnadi]
 -[Nethmi Pamosha]
+-[Anusha Dharma Kattaya]
 -[Matheesha Bimsara]
 -[pranitha-chowdary](https://github.com/pranitha-chowdary)
 -[Shreeya Tapaswi](https://github.com/ShreeyaTapaswi)
