@@ -2,6 +2,7 @@
 Helllloo world! From this repo.
 [Dev]
 - [Sathsarani](https://github.com/SathsaraniJA)
+- [DIARINIAINA Jean Marc](https://github.com/diariniaina11)
 - [Kanan Choudhary](https://github.com/your-username)
 - [Erkan](https://github.com/erkcet)
 - [larryste-max](https://github.com/larryste-max)<br>
