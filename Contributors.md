@@ -48,6 +48,14 @@ MICHAL!
 -[Ranushi Jayalath] 
 -[Lihini]
 -[Maryame Arrach](https://github.com/maryamearrach)
+
+
+- Alice
+- Bob
+- YASH RAJBHAR
+- Charlie
+- David
+
 -[Nelaka Dissanayake](https://github.com/NelakaDiss)
 - [Yahddyyp](https://github.com/Yahddyyp)
 -[Vaish G](https://github.com/Fullstack-Vaishnavi)
