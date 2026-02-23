@@ -2547,3 +2547,4 @@ contribution by arshi
 - [A. Tejaswi](https://github.com/Tejaswi-9905) | B.Tech CSE | India
   Sarthak Patil
 - [bhupe](https://github.com/Dharaniedharan)
+- [TechGen_DM](https://github.com/TechGenDM) | Scaler School Of Technology '2029 Batch | BITS Pilani '2028 Batch |
