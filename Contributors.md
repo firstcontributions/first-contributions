@@ -2290,6 +2290,7 @@ guru
 - [P-nishant](https://github.com/P-nishant)
 - [Walusungu24](https://github.com/Walusungu24)
 - [Gokulram S](https://github.com/Gokulram7)
+- [askerino](https://github.com/askerino)
 - [Pablo Souza](https://github.com/pablohsouza09)
 -[Ayush Mehta](https://github.com/ayushmehta03)
 - [Sneha Srinivas](https://github.com/snehasrinivas07)
