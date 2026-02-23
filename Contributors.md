@@ -1,6 +1,9 @@
 # Contributors
 Helllloo world! From this repo.
 [Dev]
+- [Sathsarani](https://github.com/SathsaraniJA)
+- [Kanan Choudhary](https://github.com/your-username)
+- [Erkan](https://github.com/erkcet)
 - [larryste-max](https://github.com/larryste-max)<br>
 - [ShubhamK](https://github.com/Shubham91999)
 - [Morpheus](https://github.com/TheGittyPerson) of Ormaphea<br>
@@ -10,8 +13,10 @@ Helllloo world! From this repo.
 -[bob morane]
 -[YOUSSOF HOSSAM ELDIN]
 -[Sandeep]
+-[Taye4]
 MICHAL!
 - [Vinay Munde]
+- [Danyell Shiflett]
 - [Koki Oishi]
 - [pp](https://github.com/pprbkt)
 - [pavan_shetty](https://github.com/shettypavan486-boop)
@@ -21,8 +26,10 @@ MICHAL!
 -[Abdur Rahman]
 -[Uday Bhaskar Valapadasu](https://github.com/BhaskarTheCoder)
 - [Harsha Madhuri Reddy Kovvuri] (https://github.com/madhurireddy27)
+- [Kalpana Rajyam](https://github.com/Kalpana1234-ui)
 -[Himasha Nimnadi]
 -[Nethmi Pamosha]
+-[Anusha Dharma Kattaya]
 -[Matheesha Bimsara]
 -[pranitha-chowdary](https://github.com/pranitha-chowdary)
 -[srikar Polimera] (https://github.com/Srikarpolimera).....
@@ -43,6 +50,7 @@ MICHAL!
 -[Shyam] (https://github.com/Shyamg3)
 -[Ryan Fernando](https://github.com/RyanJFM)
 -[Guerrero V](https://github.com/guerrevg)
+-[Rodrigo Peñaloza](https://github.com/RodOps87)
 -[soum-i] https://github.com/soum-i
 -[Rudra Dudhat]( https://github.com/RudraDudhat2509/)
  [Trishit1234](https://github.com/Trishit1234)  
@@ -79,6 +87,7 @@ MICHAL!
 -[Tharaka Denuwan](https://github.com/tharakadenuwan)
 -[Hansika Iddagoda](https://github.com/Hansika-Iddagoda)
 -[Srikumar Vikashan](https://github.com/Vikashan10)
+-[SadurshikaK](https://github.com/SadurshikaK)
 -[el tikho] (https://github.com/victortikho18)
 -[Anastasija26] (https://github.com/anastasija26)
 -[lakshaning](https://github.com/lakshaning)
@@ -143,6 +152,7 @@ me2
 - [Rijen Manandhar](https://github.com/rijenmdr)
 mmmeeeemee
 - [Jake Medeiros] (https://github.com/jakemedeiros)
+- [Bailey Kiejko] (https://github.com/Bails86)
 -[Amit Jadhav](https://github.com/A-aj007 )
 - [Mushara] (https://github.com/mushra31)
 - [Moulidhar](https://github.com/MoulidharC)
@@ -237,6 +247,7 @@ mmmeeeemee
 - [Yuvaraj K](https://github.com/22f3002987-UserYuv)
 - [Rohan Kumar S](https://github.com/irohankumars)
 - [Forksxxs](https://github.com/Forksxxs)
+- [BuggyJames](https://github.com/u0-a19B)
 -[Gauri](https://github.com/gaurikhard28)`
 - [Ahmet Berk Yesilbas](https://github.com/immigrationist)
 - [Manoj S](https://github.com/manoj2304s)
@@ -256,6 +267,7 @@ mmmeeeemee
 - [Sowmya Sadhasivam] (https://github.com/SowmyaSadhasivam)
 - [Kushal V Achar](https://github.com/kushalvachar2006)
 - [Dante Perez](https://github.com/dapperdante)
+- [Manohara](https://github.com/Manohara-Ai)
 - [Sanjana yadav] (https://github.com/gaddamsanjanayadav-arch)  
 - Vaishhnavi Kadiyala (https://github.com/Vaishhnavi27Hub)
 - [Yash Chigullapally](https://github.com/yashtech-hub)
@@ -311,6 +323,7 @@ mmmeeeemee
 - Fathima
 - [Nicolas Harris] (https://github.com/Techlyn)
 - [Manny Lazalde](https://github.com/mannylazalde)
+- [ema_iicyc] (https://github.com/EmanueleZini)
 - [LuckyGautam](https://github.com/LuckyG05)
 - [Ridell Salema](https://github.com/ridellsalema)
 - [ZulaikhaAshiq](https://github.com/zulaikhamir)
@@ -1383,6 +1396,7 @@ Naman Malik
 - [Maruthi S](https://github.com/JSMaruthi)
 - [Masalt0](https://github.com/Masalto5835)
 - [Masanadurai](https://github.com/Masanadurai007)
+- [Zilu Wang](https://github.com/wanzy147)
 - [Matheus Lino](https://github.com/7matheus)
 - [Matt Bellardi](https://github.com/met97)
 - [MatyasZERO](https://github.com/MatyasZERO)
@@ -2509,3 +2523,8 @@ contribution by arshi
 - [Pavan](https://github.com/pa-0ne)
 - [Mayank Nagar](https://github.com/Mayank-nag)
 - [Jm Dublon](https://github.com/Dublonx)
+- [Hayan Aljabr](https://github.com/hayan-gh)
+- [Harshita](https://github.com/harshitasingh108)
+- [kpliuniverse](https://github.com/kpliuniverse)
+- [rajavenkatesh04](https://github.com/rajavenkatesh04)
+- [prehan-13](https://github.com/prehan-13)
