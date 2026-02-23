@@ -46,7 +46,8 @@ MICHAL!
 - [Navin] (https://github.com/DevOpsByNavin)
 -[Sultan Syed](https://github.com/syedsultan1)
 - [Theertha](https://github.com/23f3003994)
--[Ranushi Jayalath] 
+-[Ranushi Jayalath]
+-[Ravindu Ranathunga](https://github.com/rash-2004) 
 -[Lihini]
 -[Maryame Arrach](https://github.com/maryamearrach)
 -[Nelaka Dissanayake](https://github.com/NelakaDiss)
