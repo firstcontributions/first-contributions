@@ -1,6 +1,7 @@
 # Contributors
 Helllloo world! From this repo.
 [Dev]
+- [PanBurz](https://github.com/PanBurz)
 - [youssefelganini](https://github.com/youssefelganini)
 - [Sathsarani](https://github.com/SathsaraniJA)
 - [DIARINIAINA Jean Marc](https://github.com/diariniaina11)
@@ -9,13 +10,13 @@ Helllloo world! From this repo.
 - [larryste-max](https://github.com/larryste-max)<br>
 - [ShubhamK](https://github.com/Shubham91999)
 - [Morpheus](https://github.com/TheGittyPerson) of Ormaphea<br>
--[Athif nular]
--[Ansar_Basha](https://github.com/Ansar9493)
--[POOJA_MURALEEDHARAN](https://github.com/poojamuraleedharan0-art)
--[bob morane]
--[YOUSSOF HOSSAM ELDIN]
--[Sandeep]
--[Taye4]
+- [Athif nular]
+- [Ansar_Basha](https://github.com/Ansar9493)
+- [POOJA_MURALEEDHARAN](https://github.com/poojamuraleedharan0-art)
+- [bob morane]
+- [YOUSSOF HOSSAM ELDIN]
+- [Sandeep]
+- [Taye4]
 MICHAL!
 - [Vinay Munde]
 - [Danyell Shiflett]
@@ -23,10 +24,10 @@ MICHAL!
 - [pp](https://github.com/pprbkt)
 - [pavan_shetty](https://github.com/shettypavan486-boop)
 - [Ganesh_Bhargav](https://github.com/Ganeshbhargav)
--[Danuja](https://github.com/DanujaNirodhana2003)
--[VinushaDayananda](https://github.com/VinushaDayanana)
--[Abdur Rahman]
--[Uday Bhaskar Valapadasu](https://github.com/BhaskarTheCoder)
+- [Danuja](https://github.com/DanujaNirodhana2003)
+- [VinushaDayananda](https://github.com/VinushaDayanana)
+- [Abdur Rahman]
+- [Uday Bhaskar Valapadasu](https://github.com/BhaskarTheCoder)
 - [Harsha Madhuri Reddy Kovvuri] (https://github.com/madhurireddy27)
 - [Kalpana Rajyam](https://github.com/Kalpana1234-ui)
 -[Himasha Nimnadi]
