@@ -115,6 +115,7 @@ MICHAL!
 - [Saketh1929] (https://github.com/Saketh1929)
 - [Aimangk]
 - [Sanketh] (https://github.com/hsgofficial1113)
+- [stanley] (https://github.com/Stanley-0tieno)
 - [U Shivakumar](https://github.com/Shivakumarsullagaddi)
 - [Lottie Judge](https://github.com/lottiejudge-source)
 - [Kavish Pal Singh](https://github.com/23f2005144)
