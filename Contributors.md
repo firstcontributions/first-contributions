@@ -152,6 +152,7 @@ me2
 - [Rijen Manandhar](https://github.com/rijenmdr)
 mmmeeeemee
 - [Jake Medeiros] (https://github.com/jakemedeiros)
+- [Bailey Kiejko] (https://github.com/Bails86)
 -[Amit Jadhav](https://github.com/A-aj007 )
 - [Mushara] (https://github.com/mushra31)
 - [Moulidhar](https://github.com/MoulidharC)
