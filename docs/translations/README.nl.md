@@ -1,27 +1,26 @@
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1n4y7xnk0-DnLVTaN6U9xLU79H5Hi62w)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 # Eerste bijdragen
 
-Dit project heeft als doel het versimpelen en het begeleiden van beginners in het maken van hun eerste bijdragen. Als je op het punt staat om je eerste bijdragen te maken, volg dan onderstaande stappen.
+Dit project heeft als doel het versimpelen en het begeleiden van beginners in het maken van hun eerste bijdragen. Als je op het punt staat om je eerste bijdragen te maken, volg dan de onderstaande stappen.
 
-_Als je je niet comfortable voelt met de command line, vind je [hier handleidingen voor het gebruik van GUI tools.](#handleidingen-voor-andere-tools)_
+_Als je je niet comfortable voelt met de command line, [zijn hier handleidingen voor het gebruik van GUI tools.](#handleidingen-voor-andere-tools)_
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork deze repository" />
 
-### Indien je git nog niet hebt op je systeem, [installeer het dan eerst](https://docs.github.com/en/get-started/quickstart/set-up-git).
+### Indien git nog niet op je systeem staat, [installeer het dan eerst](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
 ## Deze repository forken
 
-Fork deze repository door op de fork knop te klikken. Dit creëert een kopie van deze repository in jouw account.
+Fork deze repository door op de fork-knop bovenaan deze pagina te klikken. Dit creëert een kopie van deze repository in jouw account.
 
 ## De repository clonen
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="kloon deze repository" />
 
-Kloon nu deze repository naar je systeem. Klik op de kloon knop en dan op het kopiëren naar klembord icoon.
+Kloon nu de geforkte repository naar je systeem. Ga naar je GitHub-account, open de geforkte repository, klik op de code knop, dan op de SSH tab en klik the _kopieer url naar clipboard_ icon.
 
 Open een terminal en voer het volgende git commando uit:
 
@@ -29,21 +28,21 @@ Open een terminal en voer het volgende git commando uit:
 git clone "Gekopieerde repository url"
 ```
 
-Waar "Gekopieerde repository url" (zonder aanhalingstekens) de url naar (jouw fork van) deze repository is. Zie de vorige stappen om de url te vinden.
+Waar "Gekopieerde repository url" (zonder aanhalingstekens) de url naar (jouw fork van) deze repository is. Zie de vorige stappen voor de url.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="kopieer URL naar het klembord" />
 
 Bijvoorbeeld:
 
 ```bash
-git clone git@github.com:this-is-you/first-contributions.git
+git clone git@github.com:dit-ben-jij/first-contributions.git
 ```
 
-Waar 'this-is-you' staat, vul jij je GitHub gebruikersnaam is. Hiermee kopieer je de inhoud van de first-contributions repo op GitHub naar je systeem.
+Waar 'dit-ben-jij' staat, vul jij je GitHub gebruikersnaam is. Hiermee kopieer je de inhoud van de first-contributions repo op GitHub naar je systeem.
 
 ## Een branch aanmaken
 
-Navigeer naar de map van de repository op je systeem (mocht je daar niet al zijn).
+Navigeer naar de map van de repository op je computer (mocht je daar niet al zijn):
 
 ```bash
 cd first-contributions
@@ -60,6 +59,17 @@ Bijvoorbeeld:
 ```bash
 git switch -c add-alonzo-church
 ```
+
+<details>
+<summary> <strong> Als je foutmeldingen krijgt bij het gebruik van git switch, klik dan hier:</strong> </summary> 
+Als de foutmelding "Git: `switch` is not a git command. See `git –help`" verschijnt, komt dit waarschijnlijk doordat je een oudere versie van git gebruikt. 
+Probeer in dit geval in plaats daarvan `git checkout` te gebruiken:  
+
+```bash 
+git checkout -b jouw-nieuwe-branch-naam 
+```  
+</details>
+
 
 ## Maak de benodigde wijzigingen en commit deze
 
@@ -95,14 +105,25 @@ Vervang `je-nieuwe-branch-naam` met de naam van de branch die je eerder hebt aan
 
 
 <details>
-<summary> <strong>Als je foutmeldingen krijgt tijdens het pushen, klik dan hier:</strong> </summary>
+<summary> <strong>Als je foutmeldingen krijgt tijdens het pushen, klik hier:</strong> </summary>
 
 - ### Authentication Error
      <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
   remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
-  fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
-  Ga naar [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) voor het genereren en configureren van een SSH-sleutel in je account.
+  fatal: Authentication failed for 'https://github.com/&lt;your-username&gt;/first-contributions.git/'</pre>
+  Go to [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) voor het genereren en configureren van een SSH-sleutel in je account. 
 
+  Daarnaast kun je 'git remote -v' uitvoeren om je remote-adres te controleren.
+
+  Als het er ongeveer zo uitziet:
+  <pre>origin https://github.com/jouw-gebruikersnaam/jouw_repo.git (fetch)
+  origin https://github.com/jouw-gebruikersnaam/jouw_repo.git (push)</pre>
+  pas het dan aan met dit commando:
+
+  ```bash
+  git remote set-url origin git@github.com:your-username/your_repo.git
+  ```
+  Anders zal er nog steeds om een gebruikersnaam en wachtwoord worden gevraagd en krijg je een authenticatiefout.
 </details>
 
 ## Verstuur je wijzigingen voor review
@@ -115,7 +136,7 @@ Verstuur nu je pull request.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="verstuur je pull request" />
 
-Nu ga ik (de beheerder) al je wijzigingen mergen in de master branch van dit project. Als de veranderingen gemerged zijn, zul je hier een e-mailnotificatie over ontvangen.
+Binnenkort zal ik al jouw wijzigingen samenvoegen in de main branch van dit project. Je ontvangt een e-mailmelding zodra de wijzigingen zijn samengevoegd.
 
 ## Hoe nu verder?
 
@@ -123,20 +144,13 @@ Gefeliciteerd! Je hebt zojuist de standaard _fork -> clone -> edit -> PR_ workfl
 
 Vier je bijdrage en deel het met je vrienden en volgers via de [web app](https://firstcontributions.github.io/#social-share).
 
-Mocht je nog vragen of hulp nodig hebben dan kun je je aanmelden voor ons [Slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
+Als je meer wilt oefenen, bekijk dan [code contributions](https://github.com/roshanjossey/code-contributions).
 
-Laten we je nu op weg helpen met het bijdragen aan andere projecten. We hebben een lijst samengesteld met projecten die makkelijke issues bevatten waar je aan kunt werken. Bekijk [de lijst op de web app](https://firstcontributions.github.io/#project-list)
+Laten we je nu op weg helpen om bij te dragen aan andere projecten. We hebben een lijst samengesteld van projecten met makkelijke issues waar je mee kunt beginnen. Bekijk [de lijst met projecten in de webapp](https://firstcontributions.github.io/#project-list).
+
 
 ## Handleidingen voor andere tools
 
-| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
-| --- | --- | --- | --- | --- | --- |
-| [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md) | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md) | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md) | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md) | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md) | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md) |
-
-
-<p>Dit project is gesponsord door:</p>
-<p>
-  <a href="https://www.digitalocean.com/">
-    <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_horizontal_blue.svg" width="201px">
-  </a>
-</p>
+| <a href="docs/gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="docs/gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="docs/gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="docs/gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="docs/gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="docs/gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [GitHub Desktop](docs/gui-tool-tutorials/github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](docs/gui-tool-tutorials/github-windows-vs2017-tutorial.md)                                                                                                                          | [GitKraken](docs/gui-tool-tutorials/gitkraken-tutorial.md)                                                                                                                                        | [Visual Studio Code](docs/gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                                                  | [Atlassian Sourcetree](docs/gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                                      | [IntelliJ IDEA](docs/gui-tool-tutorials/github-windows-intellij-tutorial.md)                                                                                                                                                          |
