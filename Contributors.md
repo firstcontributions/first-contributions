@@ -25,6 +25,7 @@ MICHAL!
 -[Abdur Rahman]
 -[Uday Bhaskar Valapadasu](https://github.com/BhaskarTheCoder)
 - [Harsha Madhuri Reddy Kovvuri] (https://github.com/madhurireddy27)
+- [Kalpana Rajyam](https://github.com/Kalpana1234-ui)
 -[Himasha Nimnadi]
 -[Nethmi Pamosha]
 -[Matheesha Bimsara]
