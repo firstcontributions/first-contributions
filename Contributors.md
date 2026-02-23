@@ -2324,6 +2324,7 @@ guru
 -[Shraddha P ](https://github.com/shraddha-123P)
 - [Rohit Sharma](https://github.com/rohitt-sharma96)
 - C1Y308
+- [Emile](https://emorris70.github.io/)
 - [randseas](https://github.com/randseas)
 - [Clara](https://github.com/Jayanthiclaretdevaraj)
 - [Aryan Jha](https://github.com/aryankumarjha1441-debug)
