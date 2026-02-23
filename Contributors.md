@@ -20,6 +20,7 @@ MICHAL!
 - [Vinay Munde]
 - [Danyell Shiflett]
 - [Koki Oishi]
+- [Sanindu Hansara](https://github.com/SaninduHansara)
 - [pp](https://github.com/pprbkt)
 - [pavan_shetty](https://github.com/shettypavan486-boop)
 - [Ganesh_Bhargav](https://github.com/Ganeshbhargav)
