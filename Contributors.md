@@ -36,6 +36,7 @@ MICHAL!
 - [Kalpana Rajyam](https://github.com/Kalpana1234-ui)
 -[Himasha Nimnadi]
 -[Nethmi Pamosha]
+-[Pasan Wijerathne](https://github.com/pasan3251)
 -[Anusha Dharma Kattaya]
 -[Matheesha Bimsara]
 -[senath vishwaka]
