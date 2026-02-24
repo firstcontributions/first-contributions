@@ -1,6 +1,7 @@
 # Contributors
 Helllloo world! From this repo.
 [Dev]
+- [Amal Nourin](https://github.com/amalnourin)
 - [Yashaswini Durga ](https://github.com/YashaswiniDurga)
 - [Livindu Jayasinghe](https://github.com/livindu-j)
 - [Dhanush](https://github.com/imdhanukulkarni)
