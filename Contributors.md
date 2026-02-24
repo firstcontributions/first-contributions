@@ -525,8 +525,8 @@ mmmeeeemee
 - [Mridul Narain](https://github.com/narainmridul)
  [Nina Auld](https://github.com/auldn)
   [Adarsh Malviya](https://github.com/adarsh-malviya06)
- [Aadi Jain](https://github.com/jainaadi098)
- [Aditya Kashid](https://github.com/Adityak0309)
+  [Aadi Jain](https://github.com/jainaadi098)
+  [Aditya Kashid](https://github.com/Adityak0309)
 - Nadiya km (https://github.com/nadiya-km)
 - [Mohd Zamaan Akhtar] (https://github.com/zamaan-ai)
 - [Zeina Obeid](https://github.com/zho00)
@@ -968,6 +968,7 @@ Naman Malik
 - [Asif Iqbal](https://github.com/rvasif)
 - [Assaf Lewin](https://github.com/Assaf1713)
 - [Astros Aradottir](https://github.com/AstrosAradottir)
+- wind
 - [Aswanth KT](https://github.com/aswanth-kt)
 - [Athanasios Daratzikis](https://github.com/ics25026)
 - [Siam] (https://github.com/siam-codes)
