@@ -409,6 +409,7 @@ mmmeeeemee
 - [JeremiahyHenry3](https://github.com/JeremiahyHenry3)
 - [eraycetinx](https://github.com/eraycetinx)
 - [Pranab Tiwari] (https://github.com/pranabtiwari)
+- [Dominik Chyziak] (https://github.com/Lexert19)
 - [Danny Palacios] (https://github.com/DannyAIX)
 - [Kevin Braam] (https://github.com/Kevin-Braam)
 - [Yash Bhatt](https://github.com/YashBhatt2)
