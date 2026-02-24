@@ -966,6 +966,7 @@ Naman Malik
 - [Atirek Goyal](https://github.com/atirek89)
 - [Augustine Chiu](https://github.com/achiu283)
 - [Mayuresh Thorve](https://github.com/Mayurroro)
+Dedahi
 - [AvAdiii](https://github.com/AvAdiii)
 - [Ava16](https://github.com/Ava16)
 - [AvatarG](https://github.com/AvatarG)
