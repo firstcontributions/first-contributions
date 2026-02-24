@@ -81,6 +81,7 @@ MICHAL!
  -[Sameh Elwan](https://github.com/samshx606)
  -[Hansaja Liyanagama](https://github.com/HansajaLiyanagama)
 -[Shanilka Asen](https://github.com/asn251)
+-[Miguel Ángel Rodríguez](https://github.com/miguelrodriguezacc)
 -[Aman kumar]https://github.com/2007aman
 -[Felix](https://github.com/Xilef1110)
 -[Mahisha Madubhashinie]https://github.com/Mahee004
@@ -2598,5 +2599,6 @@ contribution by arshi
 -[thomasj1977](https://github.com/thomasj1977)
 - [Kavisha Tankle](https://github.com/23f1000041)
 - [Vansh Yadav](https://github.com/vanshajjyadava)
-
-[def]: https://github.com/senara06
+- [Vansh Yadav](https://github.com/vanshajjyadava)
+- [senara06](https://github.com/senara06)
+- [Dipak Deshmukh](https://github.com/dipakdeshmukh9)
