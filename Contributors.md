@@ -2000,6 +2000,7 @@ Dedahi
 - [evneis](https://github.com/evneis)
 - [fedxemilio](https://github.com/fedxemilio)
 - [fikrirazor](https://github.com/fikrirazor)
+- [Kishonithan](https://github.com/kisho)
 guru
 - [fistAttempt](https://github.com/nikhiltumma/first-contributions)
 - [foam](https://github.com/MoreFoam)
