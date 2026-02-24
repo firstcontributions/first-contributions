@@ -2565,3 +2565,4 @@ contribution by arshi
 -[Jagdish](https://github.com/Jagdishuikey)|DYPCOE Pune
 -[Sathurjika](https://github.com/Sathurjika16)
 -[Abdullah](https://github.com/Bodeayman)
+- [Khushhal Singh](https://github.com/khus202)	
