@@ -27,6 +27,7 @@ MICHAL!
 - [pavan_shetty](https://github.com/shettypavan486-boop)
 - [Ganesh_Bhargav](https://github.com/Ganeshbhargav)
 -[Danuja](https://github.com/DanujaNirodhana2003)
+- [Chamudi Perera](https://github.com/Chamudi2003)
 -[VinushaDayananda](https://github.com/VinushaDayanana)
 -[Abdur Rahman]
 -[Uday Bhaskar Valapadasu](https://github.com/BhaskarTheCoder)
@@ -36,6 +37,7 @@ MICHAL!
 -[Nethmi Pamosha]
 -[Anusha Dharma Kattaya]
 -[Matheesha Bimsara]
+-[Hafees Ahamed](https://github.com/dashboard)
 -[pranitha-chowdary](https://github.com/pranitha-chowdary)
 -[Shreeya Tapaswi](https://github.com/ShreeyaTapaswi)
 -[Samara Gunawardhana]
@@ -45,6 +47,7 @@ MICHAL!
 -[Arpan Chatterjee](https://github.com/Arpan2411)
 -[Tharindu Himantha](https://github.com/TharinduHimantha)
 - [Navin] (https://github.com/DevOpsByNavin)
+* [Khushhal Singh](https://github.com/khus202)
 -[Sultan Syed](https://github.com/syedsultan1)
 - [Theertha](https://github.com/23f3003994)
 -[Ranushi Jayalath]
@@ -494,6 +497,7 @@ mmmeeeemee
 - [Ashzad Kamal](https://github.com/ashzad123)
 - [Diya Saha](https://github.com/DiyadotSaha)
 - [Ashmi A Jha](https://github.com/ashmi8)
+- [Chamudika Yagabamunu](https://github.com/Chamudika31)
 - [Pratham Debnath](https://github.com/isthatpratham)
 - [Mohd Rayyan Lulaniya](https://github.com/Rayyan-101)
 - [Sabyasachi Ghosh](https://github.com/sabyasachi008)
@@ -1228,6 +1232,7 @@ Naman Malik
 - [Iam Pranav Yadav](https://github.com/pranav50227)
 - [Ian McManus](https://github.com/ianmcman)
 - [Igor Balić](https://github.com/Iggy2399)
+- [Sherrinford](https://github.com/Sherlinford)
 - [Iliiasik](https://github.com/Iliiasik)
 - [Ismail Z]()
 - [Imam](https://github.com/Shaik-36)
@@ -2567,3 +2572,5 @@ contribution by arshi
 -[Jagdish](https://github.com/Jagdishuikey)|DYPCOE Pune
 -[Sathurjika](https://github.com/Sathurjika16)
 -[Abdullah](https://github.com/Bodeayman)
+[Nadeen Deminda](https://github.com/Nad33n)
+
