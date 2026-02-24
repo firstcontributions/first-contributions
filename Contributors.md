@@ -271,6 +271,7 @@ mmmeeeemee
 - [Yuvaraj K](https://github.com/22f3002987-UserYuv)
 - [Rohan Kumar S](https://github.com/irohankumars)
 - [Forksxxs](https://github.com/Forksxxs)
+- [Lachlan](https://github.com/Nyrotech)
 - [BuggyJames](https://github.com/u0-a19B)
 -[Gauri](https://github.com/gaurikhard28)`
 - [Ahmet Berk Yesilbas](https://github.com/immigrationist)
