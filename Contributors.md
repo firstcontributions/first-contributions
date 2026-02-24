@@ -1,6 +1,8 @@
 # Contributors
 Helllloo world! From this repo.
 [Dev]
+- [Nithika Bandara](https://github.com/NithikaNB)
+- [Amal Nourin](https://github.com/amalnourin)
 - [Yashaswini Durga ](https://github.com/YashaswiniDurga)
 - [Livindu Jayasinghe](https://github.com/livindu-j)
 - [Dhanush](https://github.com/imdhanukulkarni)
@@ -14,6 +16,7 @@ Helllloo world! From this repo.
 - [Sathsarani](https://github.com/SathsaraniJA)
 - [Sayuru Kalpana] (https://github.com/sayurukalpana13)
 - ALBERT
+- [Tharusha Rashmika](https://github.com/rashmika2422)
 - [DIARINIAINA Jean Marc](https://github.com/diariniaina11)
 - [Kanan Choudhary](https://github.com/your-username)
 - [Rafael Ribeiro da rocha](https://github.com/raafariibeiroo/)  
@@ -236,6 +239,7 @@ mmmeeeemee
 - [Dheeraj] (https://github.com/dheerajtk)
 - [Nikhil Gone] (https://github.com/Nikhilgone517)
 - ([Yasiru Raveen](https://github.com/Yasiru1304))
+- ([Anuda Upek](https://github.com/SAAnudaUpek))
 - [priyanshubarai] (https://github.com/priyanshubarai)
 - [orphicdusk] (https://github.com/orphicdusk)
 [srikar polimera] (https://https://github.com/Srikarpolimera)
@@ -265,6 +269,7 @@ mmmeeeemee
 - Simasa
 - [Farooq Shah](https://github.com/itexpert67)
 -[Romanos](https://github.com/romgzn)
+- ([Damuthu Thotagamuwa](https://github.com/damuthuj))
 -[Sharanya S](https://github.com/sharanyas06)
 -[kannan] (https://github.com/kannan-2006)
 - [Joise S Arakkal](https://github.com/joise-s-arakkal/)
@@ -2650,3 +2655,4 @@ contribution by arshi
 - [splite-tada](https://github.com/splite-hub)
 - [Sulakshan](https://github.com/SulaksSathees)
 - [Ayyash Fawzan](https://github.com/ayyash15)
+- [Thisum Abeywickrama](https://github.com/thisum-abeywickrama)
