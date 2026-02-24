@@ -58,6 +58,7 @@ MICHAL!
 -[Nabeel Sahib](https://github.com/bill10110)
 -[Shyam] (https://github.com/Shyamg3)
 -[Ryan Fernando](https://github.com/RyanJFM)
+-[Rahul Kulasooriya](https://github.com/rahul-kenula)
 -[Guerrero V](https://github.com/guerrevg)
 -[Rodrigo Peñaloza](https://github.com/RodOps87)
 -[soum-i] https://github.com/soum-i
@@ -92,6 +93,7 @@ MICHAL!
 - [Nur Islam](https://github.com/nurislam243)
 - [Roshan Jha](https://github.com/rosh-py)
 - [Ryan Fernando](https://github.com/RyanJFM)
+- [Rahul Kulasooriya](https://github.com/rahul-kenula)
 - [Pantkartik](https://github.com/Pantkartik)
 - [Geofou](https://github.com/geofou)
 -[Ranjith](https://github.com/ranjith1444)
