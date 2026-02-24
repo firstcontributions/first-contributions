@@ -44,6 +44,7 @@ MICHAL!
 -[Shreeya Tapaswi](https://github.com/ShreeyaTapaswi)
 -[Samara Gunawardhana]
 -[Imasha Sewmini]
+-[Sithumini Manujitha](https://github.com/Sithumini-17)
 -[Pradeep Kambalapally](https://github.com/pradeepkambalapally)
 -[Vaishnavi Melagiri](https://github.com/VaishnaviMelagiri)
 -[Arpan Chatterjee](https://github.com/Arpan2411)
@@ -270,6 +271,7 @@ mmmeeeemee
 - [Yuvaraj K](https://github.com/22f3002987-UserYuv)
 - [Rohan Kumar S](https://github.com/irohankumars)
 - [Forksxxs](https://github.com/Forksxxs)
+- [Lachlan](https://github.com/Nyrotech)
 - [BuggyJames](https://github.com/u0-a19B)
 -[Gauri](https://github.com/gaurikhard28)`
 - [Ahmet Berk Yesilbas](https://github.com/immigrationist)
@@ -967,6 +969,7 @@ Naman Malik
 - [Atirek Goyal](https://github.com/atirek89)
 - [Augustine Chiu](https://github.com/achiu283)
 - [Mayuresh Thorve](https://github.com/Mayurroro)
+Dedahi
 - [AvAdiii](https://github.com/AvAdiii)
 - [Ava16](https://github.com/Ava16)
 - [AvatarG](https://github.com/AvatarG)
@@ -1789,6 +1792,7 @@ Naman Malik
 - [Sushmitha](https://github.com/Sushmigit)
   [susee](https://github.com/susee04)
 - [Svante Lindström](https://www.goglee.com)
+- [Axin9944](https://github.com/Axin9944)
 - [Swapna S](https://github.com/swapcodes)
 - [Swati Pandey](https://github.com/gr8swati)
 - [Sylvain L](https://github.com/sylvain-lec)
@@ -2577,4 +2581,4 @@ contribution by arshi
 -[Abdullah](https://github.com/Bodeayman)
 -[WeerasingheAsani](https://github.com/WeerasingheAsani)
 [Nadeen Deminda](https://github.com/Nad33n)
--[Kavisha Kalhara](https://github.com/kavisha-git)
+- [Kavisha Kalhara](https://github.com/kavisha-git)
