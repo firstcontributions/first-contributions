@@ -2080,6 +2080,7 @@ guru
 - [tember8003](https://github.com/tember8003)
 - [terror-akshat](https://github.com/terror-akshat)
 - [That1LinuxGuy](https://github.com/That1LinuxGuy)
+- [tharsika](https://github.com/Tharsika21)
 - [tka](https://github.com/theinkhaaung007)
 - [24f3003274-RISHABH](https://github.com/24f3003274-RISHABH)
 - [tmmiizzuu](https://github.com/tmmiizzuu)
