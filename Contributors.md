@@ -146,7 +146,7 @@ MICHAL!
 - [Charles Akinnurun](https://github.com/charlesakinnurun)  
 [Annlia Lixon](https://github.com/AnnliaLixon)
 - [umesh reddy](https://github.com/T-UmeshReddy)
-  [Janani](https://github.c0m/Jananijanu2)
+  [Janani](https://github.com/Jananijanu2)
 - [Thangella Harshitha](https://github.com/harshithathangella)
 - [Harrison Smith](https://github.com/hobbitual)
 - [Vaibhav Hample](https://github.com/Vaibhav-rgb45)
@@ -168,6 +168,7 @@ MICHAL!
 -[Shrinivas Mattur](https://github.com/shrinivasmattur)
 -[Bhanu S](https://github.com/Bhanuprakash2580)
 - [Ashlesh Bathina](https://github.com/AshleshBathina)
+- [Senara](https://github.com/senara06)
 - [Alexander Hoag](https://github.com/cddagamelaggudoutside)
 -[Latika Popli](https://github.com/Latika2005)
 me2
@@ -2597,3 +2598,5 @@ contribution by arshi
 -[thomasj1977](https://github.com/thomasj1977)
 - [Kavisha Tankle](https://github.com/23f1000041)
 - [Vansh Yadav](https://github.com/vanshajjyadava)
+
+[def]: https://github.com/senara06
