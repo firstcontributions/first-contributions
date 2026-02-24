@@ -4,6 +4,7 @@ Helllloo world! From this repo.
 - [Livindu Jayasinghe](https://github.com/livindu-j)
 - [Dhanush](https://github.com/imdhanukulkarni)
 - [Dine Babu](https://github.com/DineXCode)
+- [Anidu](https://github.com/Anidu07)
 - [Ganindu Methmaka](https://github.com/ganindumethmaka)
 - [Thisum Danthanarayana](https://github.com/thisum-dev)
 - [Vaishnavi Yerram](https://github.com/YVaishnavi23)
