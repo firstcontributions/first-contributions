@@ -27,6 +27,7 @@ MICHAL!
 - [Danyell Shiflett]
 - [Koki Oishi]
 - msergi
+- [Muhammad Taha Nadeem](https://github.com/Taha-Nadeem-7)
 - [Sanindu Hansara](https://github.com/SaninduHansara)
 - [pp](https://github.com/pprbkt)
 - [pavan_shetty](https://github.com/shettypavan486-boop)
