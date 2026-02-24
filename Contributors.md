@@ -10,6 +10,7 @@ Helllloo world! From this repo.
 - [Anidu](https://github.com/Anidu07)
 - [Ganindu Methmaka](https://github.com/ganindumethmaka)
 - [Thisum Danthanarayana](https://github.com/thisum-dev)
+- [Tharusha Chamodya](https://github.com/TharuC)
 - [Vaishnavi Yerram](https://github.com/YVaishnavi23)
 - [Harshajith Dhahammina](https://github.com/harshajith04)
 - [youssefelganini](https://github.com/youssefelganini)
