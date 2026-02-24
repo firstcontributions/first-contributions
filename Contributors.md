@@ -2563,6 +2563,7 @@ contribution by arshi
 - [prehan-13](https://github.com/prehan-13)
 - eemi
 - [A. Tejaswi](https://github.com/Tejaswi-9905) | B.Tech CSE | India
+- [Dineth Sanjuna] (https://github.com/Dineth519)
   Sarthak Patil
 - [Harini](https://github.com/mdharini172007-hash)
 - [bhupe](https://github.com/Dharaniedharan)
