@@ -10,6 +10,7 @@ Helllloo world! From this repo.
 - [Harshajith Dhahammina](https://github.com/harshajith04)
 - [youssefelganini](https://github.com/youssefelganini)
 - [Sathsarani](https://github.com/SathsaraniJA)
+- [Sayuru Kalpana] (https://github.com/sayurukalpana13)
 - ALBERT
 - [DIARINIAINA Jean Marc](https://github.com/diariniaina11)
 - [Kanan Choudhary](https://github.com/your-username)
@@ -32,6 +33,7 @@ Helllloo world! From this repo.
 -[Taye4]
 MICHAL!
 Yasas-Dewshan
+- [janith]
 - [Vinay Munde]
 - [Danyell Shiflett]
 - [Koki Oishi]
@@ -53,6 +55,7 @@ Yasas-Dewshan
 -[Pasan Wijerathne](https://github.com/pasan3251)
 -[Anusha Dharma Kattaya]
 -[Matheesha Bimsara]
+-[Tharusha Nethmina]
 -[senath vishwaka]
 -[Hafees Ahamed](https://github.com/dashboard)
 -[pranitha-chowdary](https://github.com/pranitha-chowdary)
@@ -87,6 +90,7 @@ Yasas-Dewshan
 -[Rudra Dudhat]( https://github.com/RudraDudhat2509/)
  [Trishit1234](https://github.com/Trishit1234)  
 -[Shehani Weerasekara]
+- [Tharuka Cooray](https://github.com/tharuka058)
 -[Ewmi Wijesinghe] 
  -[Divya Patel](https://github.com/divyapatelgm)
  -[Gourav Madhwal](https://github.com/GouravMadhwal)
@@ -249,6 +253,7 @@ mmmeeeemee
 - [Revanth] (https://github.com/revanth01-code)
 - [Sanjana] (https://github.com/Sanjana-AI-24)
 - Simasa
+- [Farooq Shah](https://github.com/itexpert67)
 -[Romanos](https://github.com/romgzn)
 -[Sharanya S](https://github.com/sharanyas06)
 -[kannan] (https://github.com/kannan-2006)
@@ -787,6 +792,7 @@ Kaushlendra
 - [Akhil R](https://github.com/A-Rjs)
 - [vismitha]
 - [xjw]
+- [Assadh]
 - [lcb](https://github.com/lcb001)
 - [Adrian Dev](https://github.com/Adr1anN-dev)
 - [fligbix](https://github.com/Fligbix)
@@ -2608,6 +2614,7 @@ contribution by arshi
 -[WeerasingheAsani](https://github.com/WeerasingheAsani)
 [Nadeen Deminda](https://github.com/Nad33n)
 -[WellageDS](https://github.com/Dellywell)
+-[Umanda](https://github.com/Umanda402)
 - [Deepak Khimavath BB](https://github.com/DeepakkhimavathBB)
 -[khetharani](https://github.com/khetharani)
 [UdaraChandrasena](https://github.com/your-username)
