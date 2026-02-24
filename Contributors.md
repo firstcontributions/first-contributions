@@ -1788,6 +1788,7 @@ Naman Malik
 - [Sushmitha](https://github.com/Sushmigit)
   [susee](https://github.com/susee04)
 - [Svante Lindström](https://www.goglee.com)
+- [Axin9944](https://github.com/Axin9944)
 - [Swapna S](https://github.com/swapcodes)
 - [Swati Pandey](https://github.com/gr8swati)
 - [Sylvain L](https://github.com/sylvain-lec)
