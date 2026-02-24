@@ -1,7 +1,9 @@
 # Contributors
 Helllloo world! From this repo.
 [Dev]
+- [Dine Babu](https://github.com/DineXCode)
 - [Thisum Danthanarayana](https://github.com/thisum-dev)
+- [Harshajith Dhahammina](https://github.com/harshajith04)
 - [youssefelganini](https://github.com/youssefelganini)
 - [Sathsarani](https://github.com/SathsaraniJA)
 - [DIARINIAINA Jean Marc](https://github.com/diariniaina11)
@@ -17,12 +19,14 @@ Helllloo world! From this repo.
 - [alepiana]
 -[YOUSSOF HOSSAM ELDIN]
 -[Sandeep]
+- [Kavindu Kalhara](https://github.com/kavindu07)
 - [Maritz-VJ](https://github.com/MARITZ-VJ)
 -[Taye4]
 MICHAL!
 - [Vinay Munde]
 - [Danyell Shiflett]
 - [Koki Oishi]
+- msergi
 - [Sanindu Hansara](https://github.com/SaninduHansara)
 - [pp](https://github.com/pprbkt)
 - [pavan_shetty](https://github.com/shettypavan486-boop)
@@ -36,6 +40,7 @@ MICHAL!
 - [Kalpana Rajyam](https://github.com/Kalpana1234-ui)
 -[Himasha Nimnadi]
 -[Nethmi Pamosha]
+-[Pasan Wijerathne](https://github.com/pasan3251)
 -[Anusha Dharma Kattaya]
 -[Matheesha Bimsara]
 -[senath vishwaka]
@@ -182,6 +187,7 @@ mmmeeeemee
 - [Xavier-Msrt] (https://github.com/Xavier-Msrt)
 - [Jinukuntla Akhil Kumar ](https://github.com/jinukuntlaakhilakumargoud-web)
 - [contribution](https://github.com/MSAKWA-officer)
+- [JeshwanthILU31](https://github.com/JeshwanthILU31)
 - [Aswal krishna](https://github.com/aswalkriz)
 - [Raghav Bandreddi](https://github.com/RaGHaV-186)
 - [Amalraj MP](https://github.com/AmalRajMP)
@@ -494,6 +500,7 @@ mmmeeeemee
 - [Abhishek bhatt](https://github.com/abhirbhatt)
 - [Prakhar Tripathi](https://github.com/prakhart07)
 - [Astik singh](https://github.com/Astikk)
+- [Nilavan](https://github.com/Nilavan20)
 - [Bosseur Assidu] (https://github.com/BosseurAssidu)
 - [Ajinkya Awachar](https://github.com/ajju-09)
 - [Bethu Sathwika](https://github.com/sathwikabethu)
@@ -2108,6 +2115,7 @@ guru
 - [xlls666](https://github.com/xlls666)
 - [xnm-sdksdk](https://github.com/xnm-sdksdk)
 - [yaeth](https://github.com/yaeth)
+- [ye-flash](https://github.com/ye-flash)
 - [yanissem2007-prog](https://github.com/yanissem2007-prog)
 - [yashpr349](https://github.com/yashpr349)
 - [zaka](https://github.com/oraichezakariyae)
@@ -2572,6 +2580,7 @@ contribution by arshi
 - [Dineth Sanjuna] (https://github.com/Dineth519)
   Sarthak Patil
 - [Harini](https://github.com/mdharini172007-hash)
+- [JohnL](https://github.com/JohnL-Ade)
 - [bhupe](https://github.com/Dharaniedharan)
 - [TechGen_DM](https://github.com/TechGenDM) | Scaler School Of Technology '2029 Batch | BITS Pilani '2028 Batch |
 - [ineedtools](https://github.com/ineedtools)
@@ -2581,4 +2590,10 @@ contribution by arshi
 -[Abdullah](https://github.com/Bodeayman)
 -[WeerasingheAsani](https://github.com/WeerasingheAsani)
 [Nadeen Deminda](https://github.com/Nad33n)
-- [Kavisha Kalhara](https://github.com/kavisha-git)
+-[WellageDS](https://github.com/Dellywell)
+- [Deepak Khimavath BB](https://github.com/DeepakkhimavathBB)
+-[khetharani](https://github.com/khetharani)
+[UdaraChandrasena](https://github.com/your-username)
+-[thomasj1977](https://github.com/thomasj1977)
+- [Kavisha Tankle](https://github.com/23f1000041)
+- [Vansh Yadav](https://github.com/vanshajjyadava)
