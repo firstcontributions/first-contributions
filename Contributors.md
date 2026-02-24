@@ -44,6 +44,7 @@ MICHAL!
 -[Shreeya Tapaswi](https://github.com/ShreeyaTapaswi)
 -[Samara Gunawardhana]
 -[Imasha Sewmini]
+-[Sithumini Manujitha](https://github.com/Sithumini-17)
 -[Pradeep Kambalapally](https://github.com/pradeepkambalapally)
 -[Vaishnavi Melagiri](https://github.com/VaishnaviMelagiri)
 -[Arpan Chatterjee](https://github.com/Arpan2411)
@@ -1790,6 +1791,7 @@ Dedahi
 - [Sushmitha](https://github.com/Sushmigit)
   [susee](https://github.com/susee04)
 - [Svante Lindström](https://www.goglee.com)
+- [Axin9944](https://github.com/Axin9944)
 - [Swapna S](https://github.com/swapcodes)
 - [Swati Pandey](https://github.com/gr8swati)
 - [Sylvain L](https://github.com/sylvain-lec)
@@ -2580,3 +2582,4 @@ contribution by arshi
 [Nadeen Deminda](https://github.com/Nad33n)
 -[WellageDS](https://github.com/Dellywell)
 - [Deepak Khimavath BB](https://github.com/DeepakkhimavathBB)
+-[khetharani](https://github.com/khetharani)
