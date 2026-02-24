@@ -88,6 +88,7 @@ Yasas-Dewshan
 -[Rudra Dudhat]( https://github.com/RudraDudhat2509/)
  [Trishit1234](https://github.com/Trishit1234)  
 -[Shehani Weerasekara]
+- [Tharuka Cooray](https://github.com/tharuka058)
 -[Ewmi Wijesinghe] 
  -[Divya Patel](https://github.com/divyapatelgm)
  -[Gourav Madhwal](https://github.com/GouravMadhwal)
