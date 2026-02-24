@@ -1,6 +1,7 @@
 # Contributors
 Helllloo world! From this repo.
 [Dev]
+- [Dine Babu](https://github.com/DineXCode)
 - [Thisum Danthanarayana](https://github.com/thisum-dev)
 - [Harshajith Dhahammina](https://github.com/harshajith04)
 - [youssefelganini](https://github.com/youssefelganini)
