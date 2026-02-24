@@ -1,6 +1,7 @@
 # Contributors
 Helllloo world! From this repo.
 [Dev]
+- [Thisum Danthanarayana](https://github.com/thisum-dev)
 - [youssefelganini](https://github.com/youssefelganini)
 - [Sathsarani](https://github.com/SathsaraniJA)
 - [DIARINIAINA Jean Marc](https://github.com/diariniaina11)
@@ -350,6 +351,7 @@ mmmeeeemee
 - [Ridell Salema](https://github.com/ridellsalema)
 - [ZulaikhaAshiq](https://github.com/zulaikhamir)
 - [Mai1333] (https://github.com/Mai1333)ributors
+- [GayashaSandeepa] (https://github.com/GayashaSandeepa)
 - [Harshith-richards] (https://github.com/Harshith-richards)
 - [Krishan Kumar Singh](https://github.com/Krishan131)
 - [Ashwin Kapile](https://github.com/Ashking07)
@@ -2563,6 +2565,7 @@ contribution by arshi
 - [prehan-13](https://github.com/prehan-13)
 - eemi
 - [A. Tejaswi](https://github.com/Tejaswi-9905) | B.Tech CSE | India
+- [Dineth Sanjuna] (https://github.com/Dineth519)
   Sarthak Patil
 - [Harini](https://github.com/mdharini172007-hash)
 - [bhupe](https://github.com/Dharaniedharan)
