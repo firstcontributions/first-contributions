@@ -2,6 +2,7 @@
 Helllloo world! From this repo.
 [Dev]
 - [Amal Nourin](https://github.com/amalnourin)
+- [Yashaswini Durga ](https://github.com/YashaswiniDurga)
 - [Livindu Jayasinghe](https://github.com/livindu-j)
 - [Dhanush](https://github.com/imdhanukulkarni)
 - [Dine Babu](https://github.com/DineXCode)
@@ -39,6 +40,7 @@ MICHAL!
 -[Didulana Lokugamage](https://github.com/shashintha24)
 Yasas-Dewshan
 - [janith]
+- [Sandun](https://github.com/sandun-kodi)
 - [Vinay Munde]
 - [Danyell Shiflett]
 - [Koki Oishi]
