@@ -1,6 +1,7 @@
 # Contributors
 Helllloo world! From this repo.
 [Dev]
+- [Sewminayasiru](https://github.com/sewminayasiru)
 - [Livindu Jayasinghe](https://github.com/livindu-j)
 - [Dhanush](https://github.com/imdhanukulkarni)
 - [Dine Babu](https://github.com/DineXCode)
@@ -2632,3 +2633,6 @@ contribution by arshi
 - [Janasruthi](https://github.com/janasruthimylsamy)
 - [splite-tada](https://github.com/splite-hub)
 - [Sulakshan](https://github.com/SulaksSathees)
+
+
+[def]: https://github.com/sewminayasiru
