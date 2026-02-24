@@ -1151,6 +1151,7 @@ Dedahi
 - [Douae Bousnane](https://github.com/douaebousnane13-del)
 - [Duo](https://github.com/NamingRacksMyBrain)
 - [Durga Vara Praveen](https://github.com/durgavarapraveen)
+- [Dumindu Karunarathne](https://github.com/duminduk)
 - [Jeeva m](https://github.com/jeevamahadevan16-igtm)
 - [Durjoy Kumar](https://github.com/DurjoyKumar177)
 - [Durva](https://github.com/durva7px)
