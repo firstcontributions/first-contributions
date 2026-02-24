@@ -2646,3 +2646,5 @@ contribution by arshi
 - [splite-tada](https://github.com/splite-hub)
 - [Sulakshan](https://github.com/SulaksSathees)
 - [Ayyash Fawzan](https://github.com/ayyash15)
+University of Peradeniya '2028 Batch
+- [Imaadh Ifthikar](https://github.com/imaadh-ifthi)
