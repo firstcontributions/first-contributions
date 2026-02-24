@@ -1,6 +1,7 @@
 # Contributors
 Helllloo world! From this repo.
 [Dev]
+- [Livindu Jayasinghe](https://github.com/livindu-j)
 - [Dhanush](https://github.com/imdhanukulkarni)
 - [Dine Babu](https://github.com/DineXCode)
 - [Thisum Danthanarayana](https://github.com/thisum-dev)
@@ -27,6 +28,7 @@ Helllloo world! From this repo.
 - [Maritz-VJ](https://github.com/MARITZ-VJ)
 -[Taye4]
 MICHAL!
+Yasas-Dewshan
 - [Vinay Munde]
 - [Danyell Shiflett]
 - [Koki Oishi]
@@ -2609,3 +2611,4 @@ contribution by arshi
 - [Dipak Deshmukh](https://github.com/dipakdeshmukh9)
 - [shathursima](https://github.com/ShathuCodes)
 - [Janasruthi](https://github.com/janasruthimylsamy)
+- [splite-tada](https://github.com/splite-hub)
