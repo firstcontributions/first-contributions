@@ -13,8 +13,10 @@ Helllloo world! From this repo.
 -[Ansar_Basha](https://github.com/Ansar9493)
 -[POOJA_MURALEEDHARAN](https://github.com/poojamuraleedharan0-art)
 -[bob morane]
+- [alepiana]
 -[YOUSSOF HOSSAM ELDIN]
 -[Sandeep]
+- [Maritz-VJ](https://github.com/MARITZ-VJ)
 -[Taye4]
 MICHAL!
 - [Vinay Munde]
@@ -25,6 +27,7 @@ MICHAL!
 - [pavan_shetty](https://github.com/shettypavan486-boop)
 - [Ganesh_Bhargav](https://github.com/Ganeshbhargav)
 -[Danuja](https://github.com/DanujaNirodhana2003)
+- [Chamudi Perera](https://github.com/Chamudi2003)
 -[VinushaDayananda](https://github.com/VinushaDayanana)
 -[Abdur Rahman]
 -[Uday Bhaskar Valapadasu](https://github.com/BhaskarTheCoder)
@@ -43,9 +46,11 @@ MICHAL!
 -[Arpan Chatterjee](https://github.com/Arpan2411)
 -[Tharindu Himantha](https://github.com/TharinduHimantha)
 - [Navin] (https://github.com/DevOpsByNavin)
+* [Khushhal Singh](https://github.com/khus202)
 -[Sultan Syed](https://github.com/syedsultan1)
 - [Theertha](https://github.com/23f3003994)
--[Ranushi Jayalath] 
+-[Ranushi Jayalath]
+-[Ravindu Ranathunga](https://github.com/rash-2004) 
 -[Lihini]
 -[Maryame Arrach](https://github.com/maryamearrach)
 -[Nelaka Dissanayake](https://github.com/NelakaDiss)
@@ -2323,6 +2328,7 @@ guru
 -[Shraddha P ](https://github.com/shraddha-123P)
 - [Rohit Sharma](https://github.com/rohitt-sharma96)
 - C1Y308
+- [Emile](https://emorris70.github.io/)
 - [randseas](https://github.com/randseas)
 - [Clara](https://github.com/Jayanthiclaretdevaraj)
 - [Aryan Jha](https://github.com/aryankumarjha1441-debug)
@@ -2513,6 +2519,7 @@ contribution by arshi
 -[Hasala-Kavinda](https://github.com/Hasala-Kavinda)
 - [Vansh Jaggi](https://github.com/VanshJ2902)
 -[cristians-12](https://github.com/cristians-12)
+-[Subhr](https://github.com/Itssubhraneelbruv)
 -[Dineth] (https://github.com/DinethAdikari)
 - [Tushar](https://github.com/TUSHAR1904-cmd)
 - [qusiee](https://github.com/qusaieh
@@ -2557,4 +2564,4 @@ contribution by arshi
 - [TechGen_DM](https://github.com/TechGenDM) | Scaler School Of Technology '2029 Batch | BITS Pilani '2028 Batch |
 - [ineedtools](https://github.com/ineedtools)
 - [Inisha](https://github.com/inisha-src)
--[Jagdish](https://github.com/Jagdishuikey)|DYPCOE Pune
+- [Jagdish](https://github.com/Jagdishuikey)|DYPCOE Pune
