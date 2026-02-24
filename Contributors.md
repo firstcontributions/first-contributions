@@ -52,6 +52,7 @@ Yasas-Dewshan
 -[Pasan Wijerathne](https://github.com/pasan3251)
 -[Anusha Dharma Kattaya]
 -[Matheesha Bimsara]
+-[Tharusha Nethmina]
 -[senath vishwaka]
 -[Hafees Ahamed](https://github.com/dashboard)
 -[pranitha-chowdary](https://github.com/pranitha-chowdary)
