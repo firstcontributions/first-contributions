@@ -70,6 +70,7 @@ Yasas-Dewshan
 -[Vaishnavi Melagiri](https://github.com/VaishnaviMelagiri)
 -[Arpan Chatterjee](https://github.com/Arpan2411)
 -[Tharindu Himantha](https://github.com/TharinduHimantha)
+-[Rashad Shamil](https://github.com/RashadShamil)
 - [Navin] (https://github.com/DevOpsByNavin)
 * [Khushhal Singh](https://github.com/khus202)
 -[Sultan Syed](https://github.com/syedsultan1)
