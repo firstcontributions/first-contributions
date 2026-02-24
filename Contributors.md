@@ -2571,3 +2571,5 @@ contribution by arshi
 -[Sathurjika](https://github.com/Sathurjika16)
 -[Abdullah](https://github.com/Bodeayman)
 - [Khushhal Singh](https://github.com/khus202)
+- [Khushhal Singh](https://github.com/khus202)
+
