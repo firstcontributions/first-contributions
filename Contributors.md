@@ -2,7 +2,7 @@
 
 Helllloo world! From this repo.
 [Dev]
-
+- [Thisum Danthanarayana](https://github.com/thisum-dev)
 - [youssefelganini](https://github.com/youssefelganini)
 - [Sathsarani](https://github.com/SathsaraniJA)
 - [DIARINIAINA Jean Marc](https://github.com/diariniaina11)
@@ -30,6 +30,7 @@ MICHAL!
 - [pavan_shetty](https://github.com/shettypavan486-boop)
 - [Ganesh_Bhargav](https://github.com/Ganeshbhargav)
 -[Danuja](https://github.com/DanujaNirodhana2003)
+- [Chamudi Perera](https://github.com/Chamudi2003)
 -[VinushaDayananda](https://github.com/VinushaDayanana)
 -[Abdur Rahman]
 -[Uday Bhaskar Valapadasu](https://github.com/BhaskarTheCoder)
@@ -39,10 +40,13 @@ MICHAL!
 -[Nethmi Pamosha]
 -[Anusha Dharma Kattaya]
 -[Matheesha Bimsara]
+-[senath vishwaka]
+-[Hafees Ahamed](https://github.com/dashboard)
 -[pranitha-chowdary](https://github.com/pranitha-chowdary)
 -[Shreeya Tapaswi](https://github.com/ShreeyaTapaswi)
 -[Samara Gunawardhana]
 -[Imasha Sewmini]
+-[Sithumini Manujitha](https://github.com/Sithumini-17)
 -[Pradeep Kambalapally](https://github.com/pradeepkambalapally)
 -[Vaishnavi Melagiri](https://github.com/VaishnaviMelagiri)
 -[Arpan Chatterjee](https://github.com/Arpan2411)
@@ -351,8 +355,9 @@ mmmeeeemee
 - [LuckyGautam](https://github.com/LuckyG05)
 - [Ridell Salema](https://github.com/ridellsalema)
 - [ZulaikhaAshiq](https://github.com/zulaikhamir)
-- [Mai1333] (<https://github.com/Mai1333)ributors>
-- [Harshith-richards] (<https://github.com/Harshith-richards>)
+- [Mai1333] (https://github.com/Mai1333)ributors
+- [GayashaSandeepa] (https://github.com/GayashaSandeepa)
+- [Harshith-richards] (https://github.com/Harshith-richards)
 - [Krishan Kumar Singh](https://github.com/Krishan131)
 - [Ashwin Kapile](https://github.com/Ashking07)
 - [Paola Juarez](https://github.com/pjuarezm-dev)
@@ -498,6 +503,7 @@ mmmeeeemee
 - [Ashzad Kamal](https://github.com/ashzad123)
 - [Diya Saha](https://github.com/DiyadotSaha)
 - [Ashmi A Jha](https://github.com/ashmi8)
+- [Chamudika Yagabamunu](https://github.com/Chamudika31)
 - [Pratham Debnath](https://github.com/isthatpratham)
 - [Mohd Rayyan Lulaniya](https://github.com/Rayyan-101)
 - [Sabyasachi Ghosh](https://github.com/sabyasachi008)
@@ -966,6 +972,7 @@ Naman Malik
 - [Atirek Goyal](https://github.com/atirek89)
 - [Augustine Chiu](https://github.com/achiu283)
 - [Mayuresh Thorve](https://github.com/Mayurroro)
+Dedahi
 - [AvAdiii](https://github.com/AvAdiii)
 - [Ava16](https://github.com/Ava16)
 - [AvatarG](https://github.com/AvatarG)
@@ -1232,6 +1239,7 @@ Naman Malik
 - [Iam Pranav Yadav](https://github.com/pranav50227)
 - [Ian McManus](https://github.com/ianmcman)
 - [Igor Balić](https://github.com/Iggy2399)
+- [Sherrinford](https://github.com/Sherlinford)
 - [Iliiasik](https://github.com/Iliiasik)
 - [Ismail Z]()
 - [Imam](https://github.com/Shaik-36)
@@ -1787,6 +1795,7 @@ Naman Malik
 - [Sushmitha](https://github.com/Sushmigit)
   [susee](https://github.com/susee04)
 - [Svante Lindström](https://www.goglee.com)
+- [Axin9944](https://github.com/Axin9944)
 - [Swapna S](https://github.com/swapcodes)
 - [Swati Pandey](https://github.com/gr8swati)
 - [Sylvain L](https://github.com/sylvain-lec)
@@ -2080,6 +2089,7 @@ guru
 - [tember8003](https://github.com/tember8003)
 - [terror-akshat](https://github.com/terror-akshat)
 - [That1LinuxGuy](https://github.com/That1LinuxGuy)
+- [tharsika](https://github.com/Tharsika21)
 - [tka](https://github.com/theinkhaaung007)
 - [24f3003274-RISHABH](https://github.com/24f3003274-RISHABH)
 - [tmmiizzuu](https://github.com/tmmiizzuu)
@@ -2562,6 +2572,7 @@ contribution by arshi
 - [prehan-13](https://github.com/prehan-13)
 - eemi
 - [A. Tejaswi](https://github.com/Tejaswi-9905) | B.Tech CSE | India
+- [Dineth Sanjuna] (https://github.com/Dineth519)
   Sarthak Patil
 - [Harini](https://github.com/mdharini172007-hash)
 - [bhupe](https://github.com/Dharaniedharan)
@@ -2571,3 +2582,8 @@ contribution by arshi
 -[Jagdish](https://github.com/Jagdishuikey)|DYPCOE Pune
 -[Sathurjika](https://github.com/Sathurjika16)
 -[Abdullah](https://github.com/Bodeayman)
+-[WeerasingheAsani](https://github.com/WeerasingheAsani)
+[Nadeen Deminda](https://github.com/Nad33n)
+-[WellageDS](https://github.com/Dellywell)
+- [Deepak Khimavath BB](https://github.com/DeepakkhimavathBB)
+-[khetharani](https://github.com/khetharani)
