@@ -1,10 +1,12 @@
 # Contributors
 Helllloo world! From this repo.
 [Dev]
+- [Dine Babu](https://github.com/DineXCode)
 - [Thisum Danthanarayana](https://github.com/thisum-dev)
 - [Harshajith Dhahammina](https://github.com/harshajith04)
 - [youssefelganini](https://github.com/youssefelganini)
 - [Sathsarani](https://github.com/SathsaraniJA)
+- ALBERT
 - [DIARINIAINA Jean Marc](https://github.com/diariniaina11)
 - [Kanan Choudhary](https://github.com/your-username)
 - [Erkan](https://github.com/erkcet)
@@ -25,6 +27,7 @@ MICHAL!
 - [Vinay Munde]
 - [Danyell Shiflett]
 - [Koki Oishi]
+- msergi
 - [Sanindu Hansara](https://github.com/SaninduHansara)
 - [pp](https://github.com/pprbkt)
 - [pavan_shetty](https://github.com/shettypavan486-boop)
@@ -79,6 +82,7 @@ MICHAL!
  -[Sameh Elwan](https://github.com/samshx606)
  -[Hansaja Liyanagama](https://github.com/HansajaLiyanagama)
 -[Shanilka Asen](https://github.com/asn251)
+-[Miguel Ángel Rodríguez](https://github.com/miguelrodriguezacc)
 -[Aman kumar]https://github.com/2007aman
 -[Felix](https://github.com/Xilef1110)
 -[Mahisha Madubhashinie]https://github.com/Mahee004
@@ -2578,6 +2582,7 @@ contribution by arshi
 - [Dineth Sanjuna] (https://github.com/Dineth519)
   Sarthak Patil
 - [Harini](https://github.com/mdharini172007-hash)
+- [JohnL](https://github.com/JohnL-Ade)
 - [bhupe](https://github.com/Dharaniedharan)
 - [TechGen_DM](https://github.com/TechGenDM) | Scaler School Of Technology '2029 Batch | BITS Pilani '2028 Batch |
 - [ineedtools](https://github.com/ineedtools)
@@ -2592,3 +2597,7 @@ contribution by arshi
 -[khetharani](https://github.com/khetharani)
 [UdaraChandrasena](https://github.com/your-username)
 -[Hasara Weerawarna](https://github.com/Hasara-269)
+-[thomasj1977](https://github.com/thomasj1977)
+- [Kavisha Tankle](https://github.com/23f1000041)
+- [Vansh Yadav](https://github.com/vanshajjyadava)
+- [Dipak Deshmukh](https://github.com/dipakdeshmukh9)
