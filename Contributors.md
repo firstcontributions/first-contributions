@@ -27,6 +27,7 @@ MICHAL!
 - [pavan_shetty](https://github.com/shettypavan486-boop)
 - [Ganesh_Bhargav](https://github.com/Ganeshbhargav)
 -[Danuja](https://github.com/DanujaNirodhana2003)
+- [Chamudi Perera](https://github.com/Chamudi2003)
 -[VinushaDayananda](https://github.com/VinushaDayanana)
 -[Abdur Rahman]
 -[Uday Bhaskar Valapadasu](https://github.com/BhaskarTheCoder)
