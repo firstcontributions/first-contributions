@@ -45,6 +45,7 @@ MICHAL!
 -[Arpan Chatterjee](https://github.com/Arpan2411)
 -[Tharindu Himantha](https://github.com/TharinduHimantha)
 - [Navin] (https://github.com/DevOpsByNavin)
+* [Khushhal Singh](https://github.com/khus202)
 -[Sultan Syed](https://github.com/syedsultan1)
 - [Theertha](https://github.com/23f3003994)
 -[Ranushi Jayalath]
