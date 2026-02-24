@@ -15,6 +15,7 @@ Helllloo world! From this repo.
 - [Sathsarani](https://github.com/SathsaraniJA)
 - [Sayuru Kalpana] (https://github.com/sayurukalpana13)
 - ALBERT
+- [Tharusha Rashmika](https://github.com/rashmika2422)
 - [DIARINIAINA Jean Marc](https://github.com/diariniaina11)
 - [Kanan Choudhary](https://github.com/your-username)
 - [Rafael Ribeiro da rocha](https://github.com/raafariibeiroo/)  
