@@ -2587,4 +2587,4 @@ contribution by arshi
 -[WellageDS](https://github.com/Dellywell)
 - [Deepak Khimavath BB](https://github.com/DeepakkhimavathBB)
 -[khetharani](https://github.com/khetharani)
--[Jay Patel](https://github.com/Jay-Patel-ai-ak)
+- [Jay Patel](https://github.com/Jay-Patel-ai-ak)
