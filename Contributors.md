@@ -1229,6 +1229,7 @@ Naman Malik
 - [Iam Pranav Yadav](https://github.com/pranav50227)
 - [Ian McManus](https://github.com/ianmcman)
 - [Igor Balić](https://github.com/Iggy2399)
+- [Sherrinford](https://github.com/Sherlinford)
 - [Iliiasik](https://github.com/Iliiasik)
 - [Ismail Z]()
 - [Imam](https://github.com/Shaik-36)
