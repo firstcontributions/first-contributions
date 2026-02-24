@@ -1,6 +1,7 @@
 # Contributors
 Helllloo world! From this repo.
 [Dev]
+- [Livindu Jayasinghe](https://github.com/livindu-j)
 - [Dhanush](https://github.com/imdhanukulkarni)
 - [Dine Babu](https://github.com/DineXCode)
 - [Thisum Danthanarayana](https://github.com/thisum-dev)
