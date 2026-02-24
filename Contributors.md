@@ -2,6 +2,7 @@
 Helllloo world! From this repo.
 [Dev]
 - [Livindu Jayasinghe](https://github.com/livindu-j)
+- [Dhanush](https://github.com/imdhanukulkarni)
 - [Dine Babu](https://github.com/DineXCode)
 - [Thisum Danthanarayana](https://github.com/thisum-dev)
 - [Harshajith Dhahammina](https://github.com/harshajith04)
@@ -69,6 +70,7 @@ MICHAL!
 -[Maryame Arrach](https://github.com/maryamearrach)
 -[Nelaka Dissanayake](https://github.com/NelakaDiss)
 - [Yahddyyp](https://github.com/Yahddyyp)
+-[Hansaka Wickramarathna](https://github.com/hansaka0619)
 -[Vaish G](https://github.com/Fullstack-Vaishnavi)
 -[Gian Carlo Bárcenas](https://github.com/Gianka8)
 -[Nabeel Sahib](https://github.com/bill10110)
@@ -2607,3 +2609,4 @@ contribution by arshi
 - [Vansh Yadav](https://github.com/vanshajjyadava)
 - [Dipak Deshmukh](https://github.com/dipakdeshmukh9)
 - [shathursima](https://github.com/ShathuCodes)
+- [Janasruthi](https://github.com/janasruthimylsamy)
