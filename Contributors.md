@@ -1,6 +1,7 @@
 # Contributors
 Helllloo world! From this repo.
 [Dev]
+- [Thisum Danthanarayana](https://github.com/thisum-dev)
 - [youssefelganini](https://github.com/youssefelganini)
 - [Sathsarani](https://github.com/SathsaraniJA)
 - [DIARINIAINA Jean Marc](https://github.com/diariniaina11)
