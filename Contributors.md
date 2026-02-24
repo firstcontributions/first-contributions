@@ -251,6 +251,7 @@ mmmeeeemee
 - [Revanth] (https://github.com/revanth01-code)
 - [Sanjana] (https://github.com/Sanjana-AI-24)
 - Simasa
+- [Farooq Shah](https://github.com/itexpert67)
 -[Romanos](https://github.com/romgzn)
 -[Sharanya S](https://github.com/sharanyas06)
 -[kannan] (https://github.com/kannan-2006)
