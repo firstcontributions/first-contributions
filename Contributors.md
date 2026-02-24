@@ -22,6 +22,7 @@ Helllloo world! From this repo.
 -[Athif nular]
 -[Ansar_Basha](https://github.com/Ansar9493)
 -[Didulana Lokugamage](https://github.com/Didulana)
+-[Daniel Victor]
 - [Yasiru Liyanage](https://github.com/yasiruliyanage17)
 -[POOJA_MURALEEDHARAN](https://github.com/poojamuraleedharan0-art)
 -[bob morane]
