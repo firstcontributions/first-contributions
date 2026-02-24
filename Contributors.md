@@ -773,6 +773,7 @@ Kaushlendra
 - [Akhil R](https://github.com/A-Rjs)
 - [vismitha]
 - [xjw]
+- [Assadh]
 - [lcb](https://github.com/lcb001)
 - [Adrian Dev](https://github.com/Adr1anN-dev)
 - [fligbix](https://github.com/Fligbix)
