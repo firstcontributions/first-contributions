@@ -64,6 +64,7 @@ MICHAL!
 -[Ranushi Jayalath]
 -[Ravindu Ranathunga](https://github.com/rash-2004) 
 -[Lihini]
+-[Tharusha Inuwara]
 -[Maryame Arrach](https://github.com/maryamearrach)
 -[Nelaka Dissanayake](https://github.com/NelakaDiss)
 - [Yahddyyp](https://github.com/Yahddyyp)
