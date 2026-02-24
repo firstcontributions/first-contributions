@@ -8,6 +8,7 @@ Helllloo world! From this repo.
 - [Dine Babu](https://github.com/DineXCode)
 - [Anidu](https://github.com/Anidu07)
 - [Ganindu Methmaka](https://github.com/ganindumethmaka)
+- [Uvindu Ranawaka](https://github.com/UvinduRn)
 - [Thisum Danthanarayana](https://github.com/thisum-dev)
 - [Vaishnavi Yerram](https://github.com/YVaishnavi23)
 - [Harshajith Dhahammina](https://github.com/harshajith04)
