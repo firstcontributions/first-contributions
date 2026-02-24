@@ -19,7 +19,8 @@ Helllloo world! From this repo.
 - [Tharusha Rashmika](https://github.com/rashmika2422)
 - [DIARINIAINA Jean Marc](https://github.com/diariniaina11)
 - [Kanan Choudhary](https://github.com/your-username)
-- [Rafael Ribeiro da rocha](https://github.com/raafariibeiroo/)  
+- [Rafael Ribeiro da rocha](https://github.com/raafariibeiroo/)
+- [Blandrust](https://github.com/blandrust)  
 - [Erkan](https://github.com/erkcet)
 - [larryste-max](https://github.com/larryste-max)<br>
 - [ShubhamK](https://github.com/Shubham91999)
