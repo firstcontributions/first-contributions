@@ -1137,6 +1137,7 @@ Dedahi
 - [Dileep Munji](https://github.com/DileepMunji)
 - [Dilkhush](https://github.com/dilkhushsaini72)
 - [Dimal Alagiyawanna](https://github.com/dimal-alagiyawanna)
+- [Dinojan](https://github.com/dinojan24)  
 - [Diogo Ferreira](https://github.com/fdiogo1)
 - [Pradeep Reddy](https://github.com/Pradeep0997)
 - [Dipak Rasal](https://dipakrasal2009)
