@@ -350,6 +350,7 @@ mmmeeeemee
 - [Ridell Salema](https://github.com/ridellsalema)
 - [ZulaikhaAshiq](https://github.com/zulaikhamir)
 - [Mai1333] (https://github.com/Mai1333)ributors
+- [GayashaSandeepa] (https://github.com/GayashaSandeepa)
 - [Harshith-richards] (https://github.com/Harshith-richards)
 - [Krishan Kumar Singh](https://github.com/Krishan131)
 - [Ashwin Kapile](https://github.com/Ashking07)
