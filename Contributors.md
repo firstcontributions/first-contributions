@@ -155,6 +155,7 @@ Yasas-Dewshan
 -[SadurshikaK](https://github.com/SadurshikaK)
 -[el tikho] (https://github.com/victortikho18)
 -[Anastasija26] (https://github.com/anastasija26)
+- [Vedant Patil](https://github.com/vedantp3)
 -[lakshaning](https://github.com/lakshaning)
 - [itxe-del](https://github.com/itxe-del)
 -[James Green] (https://github.com/jameseg-hacfm)
@@ -2676,3 +2677,5 @@ contribution by arshi
 - [zjchill](https://github.com/zjchill)
 - [Theon](https://github.com/Theon66)
 - [Suraj Pal](https://github.com/surajpal9440)
+
+
