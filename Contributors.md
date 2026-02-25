@@ -2679,3 +2679,4 @@ contribution by arshi
 - [zjchill](https://github.com/zjchill)
 - [Theon](https://github.com/Theon66)
 - [Suraj Pal](https://github.com/surajpal9440)
+- [Mahad Naveed](https://github.com/WhatTheMahad)
