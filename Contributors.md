@@ -1,6 +1,7 @@
 # Contributors
 Helllloo world! From this repo.
 [Dev]
+- [Gaurav Rajput](https://github.com/gaurav-rajput31)
 - [Nithika Bandara](https://github.com/NithikaNB)
 - [Amal Nourin](https://github.com/amalnourin)
 - [Yashaswini Durga ](https://github.com/YashaswiniDurga)
