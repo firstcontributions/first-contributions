@@ -246,6 +246,7 @@ mmmeeeemee
 - [Vedhachandhana] (https://github.com/buildwithvedha)
 - [Dheeraj] (https://github.com/dheerajtk)
 - [Nikhil Gone] (https://github.com/Nikhilgone517)
+[Manish Dey](https://github.com/foresto-dreamer)
 - ([Yasiru Raveen](https://github.com/Yasiru1304))
 - ([Anuda Upek](https://github.com/SAAnudaUpek))
 - [priyanshubarai] (https://github.com/priyanshubarai)
