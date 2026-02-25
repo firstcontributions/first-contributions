@@ -2683,3 +2683,4 @@ contribution by arshi
 - [Suraj Pal](https://github.com/surajpal9440)
 - [Mahad Naveed](https://github.com/WhatTheMahad)
 - [Yic Hu](https://github.com/y04880166-dev)
+- [Jaed Pizarro] (https://github.com/Jaed256)
