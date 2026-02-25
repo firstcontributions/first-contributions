@@ -2690,4 +2690,4 @@ contribution by arshi
 - [Princegudala](https://github.com/ceinprcodes)
 - [Jaed Pizarro] (https://github.com/Jaed256)
 - [Rafay Shaikh] (https://github.com/rafay247)
-- [sachin] (https://github.com/sachin915t)
+- [sachin](https://github.com/sachin915t)
