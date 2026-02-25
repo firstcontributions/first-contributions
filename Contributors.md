@@ -23,6 +23,7 @@ Helllloo world! From this repo.
 - [youssefelganini](https://github.com/youssefelganini)
 - [Sathsarani](https://github.com/SathsaraniJA)
 - [Sayuru Kalpana] (https://github.com/sayurukalpana13)
+- [André Ribeiro](https://github.com/ZaDeG0)
 - ALBERT
 - [Tharusha Rashmika](https://github.com/rashmika2422)
 - [Methmini Kumarasinghe](https://github.com/methminiKumarasinghe)
