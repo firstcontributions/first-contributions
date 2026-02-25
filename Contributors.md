@@ -27,6 +27,7 @@ Helllloo world! From this repo.
 - [Rafael Ribeiro da rocha](https://github.com/raafariibeiroo/)
 - [Blandrust](https://github.com/blandrust)  
 - [Erkan](https://github.com/erkcet)
+- [Likhita Dangeti](https://github.com/LikhitaDangeti)
 - [larryste-max](https://github.com/larryste-max)<br>
 - [ShubhamK](https://github.com/Shubham91999)
 - [Morpheus](https://github.com/TheGittyPerson) of Ormaphea<br>
