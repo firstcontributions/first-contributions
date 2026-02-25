@@ -9,6 +9,7 @@ Helllloo world! From this repo.
 - [Dine Babu](https://github.com/DineXCode)
 - [Anidu](https://github.com/Anidu07)
 - [Ganindu Methmaka](https://github.com/ganindumethmaka)
+- [dariusmark-tech](https://github.com/dariusmark-tech)
 - [Thisum Danthanarayana](https://github.com/thisum-dev)
 - [Ahmed Elshwil](https://github.com/elshwilahmed)
 - [Tharusha Chamodya](https://github.com/TharuC)
