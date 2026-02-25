@@ -1,21 +1,5 @@
 # Contributors
 Helllloo world! From this repo.
-[Dev]
-- [Abdurrahman Sefn] (https://github.com/abdurrahman-sefn)
-- [Pranay Rebeyro](https://github.com/Pranayrebeyro)
-- [Gaurav Rajput](https://github.com/gaurav-rajput31)
-- [Nithika Bandara](https://github.com/NithikaNB)
-- [Amal Nourin](https://github.com/amalnourin)
-- [Yashaswini Durga ](https://github.com/YashaswiniDurga)
-- [Livindu Jayasinghe](https://github.com/livindu-j)
-- [Dhanush](https://github.com/imdhanukulkarni)
-- [Dine Babu](https://github.com/DineXCode)
-- [Anidu](https://github.com/Anidu07)
-- [Ganindu Methmaka](https://github.com/ganindumethmaka)
-- [dariusmark-tech](https://github.com/dariusmark-tech)
-- [Thisum Danthanarayana](https://github.com/thisum-dev)
-- [Ahmed Elshwil](https://github.com/elshwilahmed)
-- [Tharusha Chamodya](https://github.com/TharuC)
 - [Vaishnavi Yerram](https://github.com/YVaishnavi23)
 - [Harshajith Dhahammina](https://github.com/harshajith04)
 - Parvez
@@ -2685,3 +2669,4 @@ contribution by arshi
 - [Mahad Naveed](https://github.com/WhatTheMahad)
 - [Yic Hu](https://github.com/y04880166-dev)
 - [Jaed Pizarro] (https://github.com/Jaed256)
+- [sandina rajapaksha] (https://github.com/SandinaRajapaksha)
