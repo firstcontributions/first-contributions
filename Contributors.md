@@ -2604,6 +2604,7 @@ contribution by arshi
 -[Dineth] (https://github.com/DinethAdikari)
 - [Tushar](https://github.com/TUSHAR1904-cmd)
 - [qusiee](https://github.com/qusaieh
+- [Frince Nacion](https://github.com/FrinceNacion)
 - [J. Prathibha](https://github.com/Jprathibha)
 - [Dikshant Dibbey](https://github.com/Dishant2609)
 -[Mandela Pulei](https://github.com/Oleysank)
