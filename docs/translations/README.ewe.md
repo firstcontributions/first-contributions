@@ -137,4 +137,4 @@ Esia mehiã o, gake alɔdzedɔwɔƒea ƒe ŋkɔ ɖee fia be eƒe taɖodzinua nye
 
 ## Afikae míayi emegbe?
 
-Àte ŋu awɔ ɖeka kple míaƒe ƒuƒoƒoa hã le Slack nenye be èhiã kpekpeɖeŋu alo nyabiase aɖewo le asiwò.  [Wɔ ɖeka kple ƒuƒoƒoa le Slack dzi](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
+Àte ŋu awɔ ɖeka kple míaƒe ƒuƒoƒoa hã le Slack nenye be èhiã kpekpeɖeŋu alo nyabiase aɖewo le asiwò.  [Wɔ ɖeka kple ƒuƒoƒoa le Slack dzi] [Code Contributions](https://github.com/firstcontributions/first-contributions)
