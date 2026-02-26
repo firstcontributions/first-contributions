@@ -24,6 +24,7 @@ Helllloo world! From this repo.
 - [Ahmed Elshwil](https://github.com/elshwilahmed)
 - [Tharusha Chamodya](https://github.com/TharuC)
 - [Vaishnavi Yerram](https://github.com/YVaishnavi23)
+- [Daljeet Singh](https://github.com/djtsingh)
 - [Harshajith Dhahammina](https://github.com/harshajith04)
 - Parvez
 - engy
@@ -2718,3 +2719,4 @@ contribution by arshi
 - [Maratta Michele] (https://github.com/GitMike01)
 - [Mazen Abd-Elsalam] (https://github.com/MazenSedyq)
 - [Rub3cK0r3] (https://github.com/Rub3cK0r3)
+- [ArunR1408](https://github.com/ArunR1408)
