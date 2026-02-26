@@ -154,6 +154,7 @@ Yasas-Dewshan
 -[Hansala Dewmini]
 -[Vineeth Chethula](https://github.com/VineethChethula)
 -[Vidusini A]
+-[Jaiv Patel]
 -[Monisha Sugirtharajan](https://github.com/s-monisha11)
 -[Suryansh Raj Singh](https://github.com/0xSRS)
 -[Jaypal Dhapa](https://github.com/JaypalDhapa)
