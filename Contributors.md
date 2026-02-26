@@ -1,6 +1,8 @@
 # Contributors
 Helllloo world! From this repo.
 [Dev]
+- [T Lam](https://github.com/lamwilton)
+- [Peter Trinh] (https://github.com/raihua)
 - [Abdurrahman Sefn] (https://github.com/abdurrahman-sefn)
 - [Pranay Rebeyro](https://github.com/Pranayrebeyro)
 - [Aung Pyae Hein](https://github.com/aungpyaeheinn)
@@ -20,9 +22,11 @@ Helllloo world! From this repo.
 - [Vaishnavi Yerram](https://github.com/YVaishnavi23)
 - [Harshajith Dhahammina](https://github.com/harshajith04)
 - Parvez
+- engy
 - [youssefelganini](https://github.com/youssefelganini)
 - [Sathsarani](https://github.com/SathsaraniJA)
 - [Sayuru Kalpana] (https://github.com/sayurukalpana13)
+- [André Ribeiro](https://github.com/ZaDeG0)
 - ALBERT
 - [Tharusha Rashmika](https://github.com/rashmika2422)
 - [Methmini Kumarasinghe](https://github.com/methminiKumarasinghe)
@@ -55,6 +59,7 @@ MICHAL!
 -[Didulana Lokugamage](https://github.com/shashintha24)
 Yasas-Dewshan
 - [janith]
+- [Diogenes_Fermin](https://github.com/DiogenesFerminS)
 - [Sandun](https://github.com/sandun-kodi)
 - [Vinay Munde]
 - [Danyell Shiflett]
@@ -2640,6 +2645,7 @@ contribution by arshi
 - [agalius](https://github.com/agalius)
 - [hang-up](https://github.com/hang-up33)
 - [Kanagaraj](https://github.com/kanagarajSCK)
+- [olimdev] (https://github.com/olim-dev)
 - [Pavan](https://github.com/pa-0ne)
 - [Mayank Nagar](https://github.com/Mayank-nag)
 - [Jm Dublon](https://github.com/Dublonx)
@@ -2689,8 +2695,11 @@ contribution by arshi
 - [Yic Hu](https://github.com/y04880166-dev)
 - [Princegudala](https://github.com/ceinprcodes)
 - [Jaed Pizarro] (https://github.com/Jaed256)
+- [Madhav Choudhry] (https://github.com/madhavchoudhry5)
 - [Rafay Shaikh] (https://github.com/rafay247)
 - [sachin] (https://github.com/sachin915t)
 - [CODEheures] (https://github.com/CODEheures)
 - [Weihong Liu](https://github.com/weihongliu6)
 - 
+- Raejae Soiha (https://github.com/RaejaeSoiha)
+- [Clawko-sama 🦞💕](https://github.com/clawko-sama)
