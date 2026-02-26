@@ -138,7 +138,7 @@ Yasas-Dewshan
 -[Monisha Sugirtharajan](https://github.com/s-monisha11)
 -[Suryansh Raj Singh](https://github.com/0xSRS)
 -[Jaypal Dhapa](https://github.com/JaypalDhapa)
-- [Swastik Garg](https://github.com/swastik22f3000908)
+- [fibi-daudi](https://github.com/fibi-daudi)
 - [Utkarsh Gupta](https://github.com/utkarshgupta188)
 - [Thoka Harini](https://github.com/thokaharini24)
 - [Jothika Aravindhan](https://github.com/jothikaaravindhan)
