@@ -56,6 +56,7 @@ MICHAL!
 -[Didulana Lokugamage](https://github.com/shashintha24)
 Yasas-Dewshan
 - [janith]
+- [Diogenes_Fermin](https://github.com/DiogenesFerminS)
 - [Sandun](https://github.com/sandun-kodi)
 - [Vinay Munde]
 - [Danyell Shiflett]
