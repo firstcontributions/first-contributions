@@ -24,6 +24,7 @@ Helllloo world! From this repo.
 - [Ahmed Elshwil](https://github.com/elshwilahmed)
 - [Tharusha Chamodya](https://github.com/TharuC)
 - [Vaishnavi Yerram](https://github.com/YVaishnavi23)
+- [Daljeet Singh](https://github.com/djtsingh)
 - [Harshajith Dhahammina](https://github.com/harshajith04)
 - Parvez
 - engy
