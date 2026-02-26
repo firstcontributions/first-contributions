@@ -1917,6 +1917,7 @@ Dedahi
 - [Unigmos](https://github.com/Unigmos)
 - [Utkarsh Gupta](https://github.com/utkarshg9981)
 - [Utkarsh Doras](https://github.com/UtkarshKD)
+- [Pranav Anandarao](https://github.com/pranandarao)
 - [1828](https://github.com/18-28)
 - [V K Suvetha](https://github.com/vksuvetha)
 - [Vaibhav Nagar](https://github.com/Vaibhav170216)
