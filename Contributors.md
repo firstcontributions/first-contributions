@@ -1450,6 +1450,7 @@ Dedahi
 - [Josafat Duarte - JD1975](https://github.com/JD1975)
 - [Larson](https://github.com/lixianphy)
 - [LateGit](https://github.com/LateGit)
+- [Leandro Rigoni](https://github.com/Leandro-Rigoni)
 - [Leo Xu](https://github.com/LeoXu8)
 - [Leonardo Garzon](https://github.com/Leonardo-Garzon-1995)
 - [Lewin](https://github.com/lewinkoon)
