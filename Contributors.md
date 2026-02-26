@@ -8,6 +8,7 @@ Helllloo world! From this repo.
 - [Mohanprasadd_Mk](https://github.com/mohanprasadd24)
 - [Abdurrahman Sefn] (https://github.com/abdurrahman-sefn)
 - [Abhishek Puzhakkal](https://github.com/Abhishek-Puzhakkal)
+- [Siddu-samuel](https://github.com/Siddu-samuel)
 - [Pranay Rebeyro](https://github.com/Pranayrebeyro)
 - [Aung Pyae Hein](https://github.com/aungpyaeheinn)
 - [Gaurav Rajput](https://github.com/gaurav-rajput31)
@@ -17,13 +18,13 @@ Helllloo world! From this repo.
 - [Livindu Jayasinghe](https://github.com/livindu-j)
 - [Dhanush](https://github.com/imdhanukulkarni)
 - [Dine Babu](https://github.com/DineXCode)
-- [Anidu](https://github.com/Anidu07)
+- [Anidu naidu](https://github.com/Anidu07)
 - Matthew
 - Chetna Dua (https://github.com/chetnadua008)
 - aromal
 - [Ganindu Methmaka](https://github.com/ganindumethmaka)
 - [dariusmark-tech](https://github.com/dariusmark-tech)
-- [Thisum Danthanarayana](https://github.com/thisum-dev)
+- [Thisum Dantdhanarayana](https://github.com/thisum-dev)
 - [Ahmed Elshwil](https://github.com/elshwilahmed)
 - [Tharusha Chamodya](https://github.com/TharuC)
 - [Vaishnavi Yerram](https://github.com/YVaishnavi23)
