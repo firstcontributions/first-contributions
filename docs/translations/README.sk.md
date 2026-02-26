@@ -1,11 +1,10 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 # Prvý príspevok
 
-Život je ťažký. Obzvlášť keď niečo robíte prvýkrát. V prípade, že na niečom spolupracujete, nie je robenie chýb niečo, čo by vám robilo radosť. My by sme radi zjednodušili cestu novým prispievateľom do open-source pri ich učení sa ako na to.
+Začiatky sú ťažké, najmä keď robíte niečo po prvýkrát. V prípade, že na niečom spolupracujete, nie je robenie chýb niečo, čo by vám robilo radosť. My by sme radi zjednodušili cestu novým prispievateľom do open-source pri ich učení sa ako na to.
 
 Čítanie článkov alebo zhliadnutie video návodov sú tiež cesty, ale čo je lepšie ako si danú vec priamo ohmatať na vlastnej koži v reálnom prostredí? Tento projekt je zameraný na poskytnutie pomoci začiatočníkom s ich prvým prispením do open-source. Ak ste ním práve vy, nasledujte kroky popísané nižšie.
 
@@ -27,8 +26,8 @@ Teraz naklonujte (anglicky *clone*) forknutý repozitár na váš počítač, na
 
 Teraz otvorte terminál a spustite nasledujúci príkaz:
 
-````
-git clone "url ktoré ste práve skopírovali"
+````bash
+git clone "url ktoré ste práve skopírovali"  
 
 ````
 
@@ -36,7 +35,7 @@ git clone "url ktoré ste práve skopírovali"
 
 Napríklad:
 
-````
+````bash
 git clone https://github.com/vas-username/first-contributions.git
 ````
 
@@ -46,18 +45,18 @@ Týmto na svojom počítači vytvoríte priečinok so súbormi daného repozitá
 
 V príkazovom riadku sa prepnite do zložky s repozitárom (ak v nej už nie ste)
 
-````
+````bash
 cd first-contributions
 ````
 
 Teraz vytvorte novú vetvu (anglicky *branch*) za použitia príkazu `git checkout`:
 
-````
+````bash
 git checkout -b <meno-novej-vetvy>
 ````
 
 Napríklad:
-````
+````bash
 git checkout -b pridanie-mojho-mena
 ````
 
@@ -73,13 +72,13 @@ Pokiaľ teraz v príkazovom riadku spustíte príkaz `git status`, uvidíte aké
 
 Tieto zmeny do danej vetvy pridáte príkazom `git add`:
 
-````
+````bash
 git add Contributors.md
 ````
 
 Zostáva už len potvrdiť (anglicky *commit*) zmeny príkazom `git commit`:
 
-````
+````bash
 git commit -m "Add <vase-meno> to Contributors list"
 ````
 
@@ -89,7 +88,7 @@ Za prepínač `-m` sa píše čo dané zmeny predstavujú, popis by mal byť jed
 
 Teraz zmeny vykonané lokálne na počítači pretlačíme (anglicky *push*) na GitHub príkazom `git push`:
 
-````
+````bash
 git push origin <meno-vasej-vetvy>
 ````
 
@@ -111,7 +110,6 @@ Blahoželáme! Práve ste dokončili štandardný _fork -> clone -> edit ->_ pri
 
 Oslávte svoj prvý príspevok so svojimi priateľmi a nasledovníkmi cez [webovú aplikáciu](https://firstcontributions.github.io/#social-share).
 
-V prípade, ak by ste mali akékoľvek otázky alebo potrebovali pomoc, môžete sa [pridat k našemu Slack teamu](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
 Teraz vám už nič nebráni v prispievaní do ostatných projektov. Pripravili sme pre vás zoznam projektov, ktoré majú jednoduché záležitosti na vyriešenie/naprogramovanie, s ktorými môžete začať. Pozrite sa [tu](https://firstcontributions.github.io/#project-list).
 
@@ -120,6 +118,7 @@ Teraz vám už nič nebráni v prispievaní do ostatných projektov. Pripravili 
 
 ## Návod za použitia ďalších nástrojov
 
-|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width=" 100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia /commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="https:/ /firstcontributions.github.io/assets/Readme/gk-icon.png" width="100"></a>|<a href="../github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a>|
+|<a href="../github-desktop-tutorial.md"><img alt="Aplikácia GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width=" 100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="Program GitKraken" src="https:/ /firstcontributions.github.io/assets/Readme/gk-icon.png" width="100"></a>|<a href="../github-windows-vs-code-tutorial.md"><img alt="Editor VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a>|
 |---|---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md )|[Visual Studio Code](../github-windows-vs-code-tutorial.md)|
+

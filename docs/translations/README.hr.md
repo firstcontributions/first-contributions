@@ -18,23 +18,24 @@ Forkajte ovaj repozitorij tako da kliknete na dugme _fork_ na vrhu stranice. Ova
 
 ## Klonirajte repozitorij
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="klonirajte ovaj repozitorij" />
 
 Sada klonirajte repozitorij koji ste prethodno forkali. Posjetite svoj GitHub profil, otvorite repozitorij koji ste forkali, kliknite na _clone_ (kloniraj) dugme i kliknite na ikonicu _copy to clipboard_.
 
 Otvorite terminal i upišite slijedeće git naredbe:
 
+```bash
+git clone "url koji ste upravo kopirali"
 ```
-git clone "url koji ste sada kopirali"
-```
+
 
 gdje je "url koji ste sada kopirali" (bez navodnika) url na ovaj repozitorij (vaš fork ovog projekta). Pogledajte prethodne korake kako dohvatiti url.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="kopirajte URL u međuspremnik" />
 
 Na primjer:
 
-```
+```bash
 git clone https://github.com/ovo-ste-Vi/first-contributions.git
 ```
 
@@ -44,19 +45,19 @@ Gdje je umjesto `ovo-ste-Vi` upisano vaše _github_ korisničko ime. Ovime kopir
 
 Prebacite se u radni direktorij na Vašem računalu (ukoliko već niste tamo):
 
-```
+```bash
 cd first-contributions
 ```
 
 Pa zatim napravite novu granu _branch_ koristeći `git switch` comandu:
 
-```
+```bash
 git switch -c dodaj-svoje-ime
 ```
 
 Na primjer:
 
-```
+```bash
 git switch -c add-alonzo-church
 ```
 
@@ -64,19 +65,20 @@ git switch -c add-alonzo-church
 
 Otvorite `Contributors.md` datoteku u tekst editoru i dodajte Vaše ime. Nemojte dodavati ime na sam početak ili kraj. Stavite ga negdje u sredinu. Potom spremite datoteku.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status naredba" />
+
 
 Ukoliko odete u radni direktorij i izvršite naredbu `git status`, primijetit ćete da postoje promjene.
 
 Dodajte ove promjene u granu koju ste gore napravili koristeći `git add` naredbu:
 
-```
+```bash
 git add Contributors.md
 ```
 
 Sada potvrdite ove promjene koristeći `git commit` naredbu:
 
-```
+```bash
 git commit -m "Add svoje-ime to Contributors list"
 ```
 
@@ -86,7 +88,7 @@ Gdje umjesto `svoje-ime` upisujete svoje ime.
 
 Pošaljite promjene u repozitorij na GitHub-u koristeći naredbu `git push`:
 
-```
+```bash
 git push origin -u ime-Vaše-grane
 ```
 
@@ -96,11 +98,11 @@ gdje umjesto `ime-Vaše-grane` stavljate ime vaše grane koje ste prethodno napr
 
 Ukoliko odete na repozitorij na Vašem GitHub profilu primijetit ćete `Compare & pull request` Dugme. Kliknite na njega.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="izradite pull request" />
 
 a zatim pošaljite zahtjev klikom na dugme _Create pull request_.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="pošaljite pull request" />
 
 Nakon toga, vlasnik će spojiti promjene koje ste napravili sa master granom projekta. Dobit ćete mail potvrde kada se grane spoje.
 

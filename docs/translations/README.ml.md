@@ -33,7 +33,7 @@
 
 എന്നിട്ട് ഒരു ടെർമിനൽ എടുത്ത് താഴെ പറയുന്ന ഗിറ്റ് കമാൻഡ് റൺ ചെയ്യുക:
 
-```
+```bash
 git clone <നിങ്ങളുടെ-ലിങ്ക്>
 ```
 
@@ -44,7 +44,7 @@ git clone <നിങ്ങളുടെ-ലിങ്ക്>
 
 ഉദാഹരണം:
 
-```
+```bash
 git clone https://github.com/<താങ്കൾ>/first-contributions.git
 ```
 
@@ -54,19 +54,19 @@ git clone https://github.com/<താങ്കൾ>/first-contributions.git
 
 നിങ്ങളുടെ റെപ്പോസിറ്ററിയിലേക്ക് കടക്കുക:
 
-```
+```bash
 cd first-contributions
 ```
 
 എന്നിട്ട് `git checkout` എന്ന കമാൻഡ് ഉപയോഗിച്ച് ഒരു ബ്രാഞ്ച് ഉണ്ടാക്കുക:
 
-```
+```bash
 git switch -c <നിങ്ങളുടെ-പുതിയ-ബ്രാഞ്ചിന്റെ-പേര്>
 ```
 
 ഉദാഹരണം:
 
-```
+```bash
 git switch -c add-alonzo-church
 ```
 
@@ -82,13 +82,13 @@ git switch -c add-alonzo-church
 
 ഈ വ്യത്യാസങ്ങൾ `git add` കമാൻഡ് ഉപയോഗിച്ച്‌ നിങ്ങളുടെ ബ്രാഞ്ചിലേക്ക് ചേർക്കുക:
 
-```
+```bash
 git add Contributors.md
 ```
 
 ഇനി നിങ്ങൾ ഉണ്ടാക്കിയ വ്യത്യാസങ്ങൾ `git commit` കമാൻഡ് ഉപയോഗിച്ച് കമ്മിറ്റ് ചെയ്യുക:
 
-```
+```bash
 git commit -m "Add <താങ്കളുടെ-പേര്> to Contributors list"
 ```
 
@@ -99,7 +99,7 @@ git commit -m "Add <താങ്കളുടെ-പേര്> to Contributors li
 `git push` കമാൻഡ് ഉപയോഗിച്ച് വ്യത്യാസങ്ങൾ ഗിറ്റ്ഹബിലേക്ക് പുഷ് ചെയ്യുക:
 
 
-```
+```bash
 git push origin <താങ്കളുടെ-ബ്രാഞ്ചിന്റെ-പേര്>
 ```
 

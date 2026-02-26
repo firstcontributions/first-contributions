@@ -10,7 +10,7 @@ Karatun labarai da koyawa kan layi na iya taimaka muku, amma menene ya fi yin ai
 
 #### *Idan ba kwa son alamomin doka, [Anan akwai koyawa ta amfani da kayan aikin GUI.](#Koyo-don-amfani-wasu)*
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="Yi fork na wannan ma’ajiyar lamba" />
 
 Idan ba ku da inji a kan injin ku, [shigar da shi]( https://help.github.com/articles/set-up-git/).
 
@@ -21,23 +21,23 @@ Cire wannan repo ta danna maɓallin thumbnail a saman wannan shafin. Wannan zai 
 
 ## Yana rufe wurin ajiya
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="Yi clone na wannan ma’ajiyar" />
 
 Yanzu maye gurbin repo akan injin ku. Je zuwa asusun GitHub ɗin ku, buɗe repo don dannawa, danna maɓallin clone sannan danna gunkin alamar.
 
 Bude tasha kuma gudanar da umarni mai zuwa:
 
-```
+```bash
 git clone "url you just copied"
 ```
 
 inda "url ɗin da kuka kwafi" (ba tare da alamar magana ba) shine url don ajiya anan (ƙarshen wannan aikin). Duba matakan da suka gabata don samun url.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="Kwafi URL zuwa clipboard" />
 
 Misali:
 
-```
+```bash
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 
@@ -47,19 +47,19 @@ inda `this-is-you` shine sunan mai amfani na GitHub. Anan, kuna kwafin abun ciki
 
 Canja zuwa tsarin shugabanci akan kwamfutarka (idan ba ku da shi a can):
 
-```
+```bash
 cd na farko-gudunmawar
 ```
 
 Yanzu, ƙirƙiri reshe ta amfani da umarnin 'git checkout':
 
-```
+```bash
 git checkout -b <ƙara-sabon-reshe-name>
 ```
 
 Misali:
 
-```
+```bash
 git checkout -b add-alonzo-church
 ```
 
@@ -70,20 +70,20 @@ git checkout -b add-alonzo-church
 
 Yanzu buɗe fayil ɗin `Contributors.md` a editan rubutu, ƙara sunan ku gare shi. Ana haɗe shi zuwa farkon ko ƙarshen fayil ɗin. Saka shi wani wuri a tsakanin. Yanzu ajiye fayil ɗin.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="Matsayin git" />
 
 Idan ka je kundin kundin kamfani kuma ka aiwatar da umurnin 'git status', za ka ga cewa akwai canje-canje.
 
 
 Ƙara waɗannan canje-canje zuwa reshen da kuka ƙirƙira ta amfani da umarnin 'git add':
 
-```
+```bash
 git ƙara Masu ba da gudummawa.md
 ```
 
 Yanzu aiwatar da canje-canje ta amfani da umarnin 'git Committee':
 
-```
+```bash
 git commit -m "Ƙara <sunan ku> zuwa lissafin Masu ba da gudummawa"
 ```
 Sauya `<sunan ku>' da sunan ku.
@@ -93,7 +93,7 @@ Sauya `<sunan ku>' da sunan ku.
 
 Yi canje-canjen ku ta amfani da umarnin 'git push':
 
-```
+```bash
 git tura asalin <ƙara-sunan-reshen ku>
 ```
 
@@ -104,11 +104,11 @@ Sauya `<add-your-reshen-name>` da sunan reshe da kuka ƙirƙira a baya.
 
 Idan kun je wurin ajiyar ku akan GitHub, zaku ga maɓallin 'Compare & ja buƙatar'. Danna maɓallin.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="ƙirƙiri buƙatar ja" />
 
 Yanzu, yi buƙatar.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="aika buƙatar ja" />
 
 Nan ba da jimawa ba zan magance duk canje-canjenku a wannan reshe. Za ku karɓi saƙon sanarwa a duk lokacin da aka yi canji.
 
