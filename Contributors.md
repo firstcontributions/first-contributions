@@ -16,8 +16,10 @@ Helllloo world! From this repo.
 - [Dhanush](https://github.com/imdhanukulkarni)
 - [Dine Babu](https://github.com/DineXCode)
 - [Anidu](https://github.com/Anidu07)
+- [karthik](https://github.com/BVK11)
 - Matthew
-- aromal
+ - rakesh
+- aroma
 - [Ganindu Methmaka](https://github.com/ganindumethmaka)
 - [dariusmark-tech](https://github.com/dariusmark-tech)
 - [Thisum Danthanarayana](https://github.com/thisum-dev)
