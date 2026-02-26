@@ -1102,6 +1102,7 @@ Dedahi
 - [Budloaf] (https://github.com/Budloaf)
 - [Ahmad Zia](https://github.com/Ahmad-Zia10)
 - [Carina Mach](https://github.com/carinamach)
+- [Jayaditya Sahu](https://github.com/Jayadityas)
 - [Carlos FH](https://github.com/carlosfhz13)
 - [Cat-o-Bot](https://github.com/evgshv)
 - [Shanyu](https://github.com/shanyuin)
