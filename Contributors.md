@@ -126,6 +126,7 @@ Yasas-Dewshan
 -[Rudra Dudhat]( https://github.com/RudraDudhat2509/)
  [Trishit1234](https://github.com/Trishit1234)  
 -[Shehani Weerasekara]
+- [Roshini S](https://github.com/Rossnhi/)
 - [Tharuka Cooray](https://github.com/tharuka058)
 -[Ewmi Wijesinghe] 
  -[Divya Patel](https://github.com/divyapatelgm)
@@ -1102,6 +1103,7 @@ Dedahi
 - [Budloaf] (https://github.com/Budloaf)
 - [Ahmad Zia](https://github.com/Ahmad-Zia10)
 - [Carina Mach](https://github.com/carinamach)
+- [Jayaditya Sahu](https://github.com/Jayadityas)
 - [Carlos FH](https://github.com/carlosfhz13)
 - [Cat-o-Bot](https://github.com/evgshv)
 - [Shanyu](https://github.com/shanyuin)
@@ -1450,6 +1452,7 @@ Dedahi
 - [Josafat Duarte - JD1975](https://github.com/JD1975)
 - [Larson](https://github.com/lixianphy)
 - [LateGit](https://github.com/LateGit)
+- [Leandro Rigoni](https://github.com/Leandro-Rigoni)
 - [Leo Xu](https://github.com/LeoXu8)
 - [Leonardo Garzon](https://github.com/Leonardo-Garzon-1995)
 - [Lewin](https://github.com/lewinkoon)
