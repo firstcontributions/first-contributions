@@ -16,6 +16,7 @@ Helllloo world! From this repo.
 - [Dine Babu](https://github.com/DineXCode)
 - [Anidu](https://github.com/Anidu07)
 - Matthew
+- aromal
 - [Ganindu Methmaka](https://github.com/ganindumethmaka)
 - [dariusmark-tech](https://github.com/dariusmark-tech)
 - [Thisum Danthanarayana](https://github.com/thisum-dev)
