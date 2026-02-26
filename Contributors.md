@@ -1,6 +1,7 @@
 # Contributors
 Helllloo world! From this repo.
 [Dev]
+- [Peter Trinh] (https://github.com/raihua)
 - [Abdurrahman Sefn] (https://github.com/abdurrahman-sefn)
 - [Pranay Rebeyro](https://github.com/Pranayrebeyro)
 - [Aung Pyae Hein](https://github.com/aungpyaeheinn)
