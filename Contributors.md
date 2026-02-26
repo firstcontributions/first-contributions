@@ -2710,3 +2710,4 @@ contribution by arshi
 - [Clawko-sama 🦞💕](https://github.com/clawko-sama)
 - [En](https://github.com/zyl-hub)
 - [Maratta Michele] (https://github.com/GitMike01)
+- [Mazen Abd-Elsalam] (https://github.com/MazenSedyq)
