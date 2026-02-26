@@ -45,22 +45,22 @@ Helllloo world! From this repo.
 - [larryste-max](https://github.com/larryste-max)<br>
 - [ShubhamK](https://github.com/Shubham91999)
 - [Morpheus](https://github.com/TheGittyPerson) of Ormaphea<br>
-- [Athif nular]
+-[Athif nular]
 - [Nethul Senadheera] (https://github.com/senath08)
-- [Ansar_Basha](https://github.com/Ansar9493)
+-[Ansar_Basha](https://github.com/Ansar9493)
 -[Didulana Lokugamage](https://github.com/Didulana)
 -[Daniel Victor]
 - [Yasiru Liyanage](https://github.com/yasiruliyanage17)
-- [POOJA_MURALEEDHARAN](https://github.com/poojamuraleedharan0-art)
-- [bob morane]
+-[POOJA_MURALEEDHARAN](https://github.com/poojamuraleedharan0-art)
+-[bob morane]
 - [alepiana]
-- [YOUSSOF HOSSAM ELDIN]
+-[YOUSSOF HOSSAM ELDIN]
 -[pubudu23163]
-- [Sandeep]
+-[Sandeep]
 - [Kavindu Kalhara](https://github.com/kavindu07)
 - [Anant Verma](https://github.com/anantverma20)
 - [Maritz-VJ](https://github.com/MARITZ-VJ)
-- [Taye4]
+-[Taye4]
 MICHAL!
 -[Didulana Lokugamage](https://github.com/shashintha24)
 Yasas-Dewshan
@@ -76,12 +76,13 @@ Yasas-Dewshan
 - [pp](https://github.com/pprbkt)
 - [pavan_shetty](https://github.com/shettypavan486-boop)
 - [Ganesh_Bhargav](https://github.com/Ganeshbhargav)
-- [Danuja](https://github.com/DanujaNirodhana2003)
+-[Danuja](https://github.com/DanujaNirodhana2003)
 - [Chamudi Perera](https://github.com/Chamudi2003)
-- [VinushaDayananda](https://github.com/VinushaDayanana)
-- [Abdur Rahman]
+-[VinushaDayananda](https://github.com/VinushaDayanana)
+-[Abdur Rahman]
 -[Sharmilan]
-- [Uday Bhaskar Valapadasu](https://github.com/BhaskarTheCoder)
+-[Uday Bhaskar Valapadasu](https://github.com/BhaskarTheCoder)
+-[Mithra](https://github.com/23f2003592)
 -[Masood ur Rehman](https://github.com/Masood2000))
 - [Harsha Madhuri Reddy Kovvuri] (https://github.com/madhurireddy27)
 - [Kalpana Rajyam](https://github.com/Kalpana1234-ui)
