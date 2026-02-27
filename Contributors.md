@@ -22,7 +22,7 @@ Helllloo world! From this repo.
 - [Dine Babu](https://github.com/DineXCode)
 - [Anidu](https://github.com/Anidu07)
 - Matthew
-- Chetna Dua (https://github.com/chetnadua008)
+- [Chetna Dua](https://github.com/chetnadua008)
 - aromal
 - [Rishabh](https://github.com/rishi-486)
 - [Deshraj parmar](https://github.com/Deshrajparmar)
