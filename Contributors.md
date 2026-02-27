@@ -3,6 +3,7 @@
 Helllloo world! From this repo.
 [Dev]
 -[Nasrin Anwar](https://github.com/NazHub1993)
+- [Prasanthi Kadali](https://github.com/KadaliPrasAnthi)
 - [Seema Anjum](https://github.com/Seema-Anjum)
 - [T Lam](https://github.com/lamwilton)
 - [Ashwin] (https://github.com/ash-win19)
