@@ -83,6 +83,7 @@ Yasas-Dewshan
 - [Danyell Shiflett]
 - [Koki Oishi]
 - msergi
+- [Ritika Garg](https://github.com/ritikagarg0326)
 - [Muhammad Taha Nadeem](https://github.com/Taha-Nadeem-7)
 - [Moh_Bundid] (https://github.com/Bunmodev)
 - [Sanindu Hansara](https://github.com/SaninduHansara)
