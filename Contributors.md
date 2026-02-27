@@ -24,6 +24,7 @@ Helllloo world! From this repo.
 - Chetna Dua (https://github.com/chetnadua008)
 - aromal
 - [Rishabh](https://github.com/rishi-486)
+- [Deshraj parmar](https://github.com/Deshrajparmar)
 - [Ganindu Methmaka](https://github.com/ganindumethmaka)
 - [dariusmark-tech](https://github.com/dariusmark-tech)
 - [Thisum Danthanarayana](https://github.com/thisum-dev)
