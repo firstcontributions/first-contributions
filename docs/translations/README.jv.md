@@ -77,7 +77,7 @@ git checkout -b jeneng-cabang-anyar sampeyan
 
 Saiki bukak file `Contributors.md` ing editor teks, tambahake jeneng sampeyan. Aja ditambahake ing wiwitan utawa pungkasan file. Sijine ing ngendi wae ing antarane. Saiki, simpen file kasebut.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="status git" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="kahanan git" />
 
 Yen sampeyan pindhah menyang direktori proyek lan nglakokake perintah `git status`, sampeyan bakal weruh ana owah-owahan.
 
