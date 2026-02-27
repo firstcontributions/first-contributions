@@ -2770,3 +2770,4 @@ contribution by arshi
 - [Ekta Wadurkar](https://github.com/Ektawadurkar)
 - [Anatoly Tarasenko](https://github.com/anatolt)
 - [Anand Kumar Sahni] (https://github.com/anand-sahnix)
+- [Saryghazy] (https://github.com/saryghazy)
