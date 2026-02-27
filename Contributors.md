@@ -2616,6 +2616,20 @@ contribution by arshi
 - [Rick  R] (https://github.com/rikkyrikky-ship-it)
 - [Johanna Mihi](https://github.com/23f2004058)
 - [OjOj](https://github.com/OjOj717) : I feel very grateful for this project! 감사합니다 :)
+
+- [Snorlax-011] (https://github.com/Snorlax-011) : Brace yourselves! For I have arrived.🔥
+   .===========.        
+   |    I      |        
+   |   Love    |        
+   |Open Source|
+   |___________|        
+   |_________-_|_,-.    
+  [_____________]   )   
+  .,,,,,,,,,, ,,.  (_   
+ /,,,,,,,,,,, ,,,\ (>`\ 
+(______.-``-._____) \__)
+
+
 - [Jagamiya C](https://github.com/CJagamiya)
 - [Thy-Ronald](https://github.com/Thy-Ronald)
 - [Lucas-Hayes](https://github.com/hayeslucas128-cmyk)
