@@ -2,7 +2,7 @@
 - [KHAWAJA BABAR NASEER](https://github.com/khawajaacode)
 Helllloo world! From this repo.
 [Dev]
-- [Seema Anjum](https://github.com/Seema-Anjum)
+- [Seema Anjum kumar](https://github.com/Seema-Anjum)
 - [T Lam](https://github.com/lamwilton)
 - [Ashwin] (https://github.com/ash-win19)
 - [Peter Trinh] (https://github.com/raihua)
