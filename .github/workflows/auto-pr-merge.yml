@@ -32,7 +32,9 @@ jobs:
 
           echo "files_changed=$FILES_CHANGED" >> $GITHUB_ENV
           
-          if [[ "${FILES_CHANGED// /}" == "Contributors.md" ]]; then
+          FILE_COUNT=$(echo "$PR_FILES" | wc -l)
+
+          if [[ "$FILE_COUNT" -eq 1 ]] && [[ "$PR_FILES" == *"Contributors.md" ]]; then
 
             echo "only_contributors=true" >> $GITHUB_ENV
           else
