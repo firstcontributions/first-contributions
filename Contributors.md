@@ -23,6 +23,7 @@ Helllloo world! From this repo.
 - Matthew
 - Chetna Dua (https://github.com/chetnadua008)
 - aromal
+- [Rishabh](https://github.com/rishi-486)
 - [Ganindu Methmaka](https://github.com/ganindumethmaka)
 - [dariusmark-tech](https://github.com/dariusmark-tech)
 - [Thisum Danthanarayana](https://github.com/thisum-dev)
