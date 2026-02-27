@@ -1337,6 +1337,7 @@ Dedahi
 - [Hisu Kim](https://github.com/BGlifee)
 - [Hitanshu](https://github.com/HitanshuGedam/)
 - [Hmanaya](https://github.com/manayah199)
+- [Hannan Nasim](https://github.com/Hannan-Nasim)
 - [Hoin Shin](https://github.com/signalman)
 - [Henrique Henriques](https://github.com/Idensis)
 - [HolmesMurillo](https://github.com/HolmesMurillo)
