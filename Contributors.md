@@ -26,6 +26,7 @@ Helllloo world! From this repo.
 - [Anidu](https://github.com/Anidu07)
 - [Behlool](https://github.com/BehloolKhan)
 - Matthew
+- Nada Abo-Elezz
 - Chetna Dua (https://github.com/chetnadua008)
 - aromal
 - [Rishabh](https://github.com/rishi-486)
