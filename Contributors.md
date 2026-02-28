@@ -2162,6 +2162,8 @@ guru
 - [jiakeboge](https://github.com/jiakeboge)
 - [jorsyk](https://github.com/jorsyk)
 - [jsutCodes](https://github.com/jsutCodes)
+- [Haddadi Houcine](https://github.com/Houcine0x7)
+
 - [Altan-Od Munkhsukh](https://github.com/AltanOdMunkhsukh)
 - [jvleesenb](https://github.com/meatlake)
 - [jy-kong](https://github.com/jy-kong)
