@@ -2772,3 +2772,4 @@ contribution by arshi
 - [Anatoly Tarasenko](https://github.com/anatolt)
 - [Anand Kumar Sahni] (https://github.com/anand-sahnix)
 - [Saryghazy] (https://github.com/saryghazy)
+- [Khai Tran] (https://github.com/Khai-Tran24)
