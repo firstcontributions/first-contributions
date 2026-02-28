@@ -76,6 +76,8 @@ Helllloo world! From this repo.
 - [larryste-max](https://github.com/larryste-max)<br>
 - [ShubhamK](https://github.com/Shubham91999)
 - [Morpheus](https://github.com/TheGittyPerson) of Ormaphea<br>
+-[lalitha] (https://github.com/lalithapolimera)
+-[srikar polimera] (https://github.com/srikarpolimera)
 -[Athif nular]
 -[wolf-eye](https://github.com/wolf-eye0)
 - [Agshin2004] (https://github.com/Agshin2004)
@@ -136,7 +138,6 @@ Prince-Patel
 -[senath vishwaka]
 -[Hafees Ahamed](https://github.com/dashboard)
 -[pranitha-chowdary](https://github.com/pranitha-chowdary)
--[Shreeya Tapaswi](https://github.com/ShreeyaTapaswi)
 -[Samara Gunawardhana]
 -[Imasha Sewmini]
 -[Sithumini Manujitha](https://github.com/Sithumini-17)
@@ -323,8 +324,6 @@ mmmeeeemee
 - ([Anuda Upek](https://github.com/SAAnudaUpek))
 - [priyanshubarai] (https://github.com/priyanshubarai)
 - [orphicdusk] (https://github.com/orphicdusk)
-[srikar polimera] (https://https://github.com/Srikarpolimera)
-[lalitha] (https://https://github.com/Srikarpolimera)
 [Milan Choudhary] (https://github.com/Milan-Choudhary)
 [Nikhilendar Sai](https://github.com/bunnytns6-cpu)
 [Nikhitha Talari](https://github.com/Nikhitha-spec)
