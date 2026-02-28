@@ -451,7 +451,7 @@ mmmeeeemee
 -[Shubham Rajbhar](https://github.com/shubham37r)
 -[Ranaveer Subbu](https://github.com/subbu6366)
 -[Harish kandi] (https://github.com/kandiharish/)
-- [Khujrat Shaikh](https://github.com/khujrat17) 🌐 .NET Foundation Member 
+- [Khujrat Shaikh](https://github.com/khujrat17) 🌐 .NET Foundation Member
 - [Park Je Young] (https://github.com/zerobak13)
 - [Sijomon P S] (https://github.com/sijomonps)
 - [Justin Urassa](https://github.com/JustinUrassa)
