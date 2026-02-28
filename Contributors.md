@@ -102,7 +102,7 @@ Yasas-Dewshan
 - [pp](https://github.com/pprbkt)
 - [pavan_shetty](https://github.com/shettypavan486-boop)
 - [Ganesh_Bhargav](https://github.com/Ganeshbhargav)
--[Danuja](https://github.com/DanujaNirodhana2003)
+- [Danuja](https://github.com/DanujaNirodhana2003)
 - [Chamudi Perera](https://github.com/Chamudi2003)
 -[VinushaDayananda](https://github.com/VinushaDayanana)
 -[Abdur Rahman]
@@ -193,6 +193,7 @@ Yasas-Dewshan
 - [Ryan Fernando](https://github.com/RyanJFM)
 - [Pantkartik](https://github.com/Pantkartik)
 - [Geofou](https://github.com/geofou)
+- [Daniru Dinsara](https://github.com/DaniruDC)
 - [Teshini]
 - [kamal ahmed](https://github.com/KamalA7med)
 -[Ranjith](https://github.com/ranjith1444)
