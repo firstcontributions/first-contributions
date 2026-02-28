@@ -85,7 +85,6 @@ Helllloo world! From this repo.
 -[wolf-eye](https://github.com/wolf-eye0)
 - [Agshin2004] (https://github.com/Agshin2004)
 - [Nethul Senadheera] (https://github.com/senath08)
-- [Vikash] (https://github.com/Vikash23151)
 -[Ansar_Basha](https://github.com/Ansar9493)
 -[Didulana Lokugamage](https://github.com/Didulana)
 -[Daniel Victor]
@@ -1498,11 +1497,12 @@ Testing
 - [Kaustubh Chaturvedi](https://github.com/Kaus-16)
 - [Kavya Vadla](https://github.com/kvadla06)
 - [Sarvesh](https://github.com/Sarvesh668)
-- [Kavya](https://github.com/Kavya751)
+  - [Kavya](https://github.com/Kavya751)
 - [Kazzpars](https://github.com/rid-acrh238)
 - [Keepas3](https://github.com/Keepas3)
 - [Keerthana-R](https://github.com/Kee1112)
 - [Keith Kaplan](https://github.com/darthkeith)
+- [Khushhal Singh](https://github.com/Meatix)
 - [Kent0011](https://github.com/Kent0011)
 - [Kevin Wang](https://github.com/KevinWangHP)
 - [Khamza Zhanbolat](https://github.com/KhamzaZhanbolat)
@@ -2599,7 +2599,6 @@ contribution by arshi
 - Nabanita Borah
 - [conlusive](https://github.com/conlusive)
 - [peterkalven-wang](https://github.com/peterkalven-wang)
-- [Sakshi](https://github.com/SAKSHI10987)
 -[Amrita0205](https://github.com/Amrita0205)
 - [akienneh](https://github.com/akienneh) 
 - Nanij Agrawal
