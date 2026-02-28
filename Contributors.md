@@ -45,6 +45,7 @@ Helllloo world! From this repo.
 - Nada Abo-Elezz
 - Chetna Dua (https://github.com/chetnadua008)
 - aromal
+- [AayushMittal] (https://github.com/AayushM0)
 - [Rishabh](https://github.com/rishi-486)
 - [hdydhsd](https://github.com/hdydhsdexe)
 - [Deshraj parmar](https://github.com/Deshrajparmar)
