@@ -911,6 +911,7 @@ Naman Malik
 - [Manopalaniraja A](https://github.com/mano2102/)
 - [Aaron Lee](https://github.com/acelee0621)
 - [Jorge Araya](https://github.com/jorgearayac)
+- [s4d0x-dev](https://github.com/s4d0x-dev)
 - [Abdelkader Charef Eddine Djellil (djacbi)](https://github.com/AbdelkaderCE/)
 - [EM KalpaniEkanayake](https://github.com/Kalpiekanayake)
 - [Abdelwakil](https://github.com/fondbcn)
