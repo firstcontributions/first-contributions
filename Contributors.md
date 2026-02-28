@@ -440,6 +440,10 @@ mmmeeeemee
 - [Sanjana yadav] (https://github.com/gaddamsanjanayadav-arch)  
 - Vaishhnavi Kadiyala (https://github.com/Vaishhnavi27Hub)
 - [Yash Chigullapally](https://github.com/yashtech-hub)
+### Soujanya K
+- Location: India
+- Favorite Language: Python
+- Fun fact: Love building ML projects (https://github.com/SoujanyaK0018)
 -[Kruthikh](https://github.com/kruthikh)
 -[Daneswari](https://github.com/DaneswariAddala56)
 -[Ashwin-Mehta](https://github.com/0011Ashwin)
