@@ -31,6 +31,7 @@ Helllloo world! From this repo.
 - [Abhishek Puzhakkal](https://github.com/Abhishek-Puzhakkal)
 - [Siddu-samuel](https://github.com/Siddu-samuel)
 - [Pranay Rebeyro](https://github.com/Pranayrebeyro)
+- [Preyans Patel](https://github.com/Preyans-alt)
 - [Aung Pyae Hein](https://github.com/aungpyaeheinn)
 - [Gaurav Rajput](https://github.com/gaurav-rajput31)
 - [Nithika Bandara](https://github.com/NithikaNB)
