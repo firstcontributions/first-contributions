@@ -148,6 +148,7 @@ Yasas-Dewshan
 -[Lihini]
 -[Tharusha Inuwara]
 -[Maryame Arrach](https://github.com/maryamearrach)
+-[Jeremie Ferrand](https://github.com/ferrandj)
 -[Nelaka Dissanayake](https://github.com/NelakaDiss)
 - [Yahddyyp](https://github.com/Yahddyyp)
 -[Hansaka Wickramarathna](https://github.com/hansaka0619)
