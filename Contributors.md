@@ -14,6 +14,7 @@ Helllloo world! From this repo.
 -[Prajkta Padare] (https://github.com/Prajkta11222)
 - [Prasanthi Kadali](https://github.com/KadaliPrasAnthi)
 - [Seema Anjum](https://github.com/Seema-Anjum)
+- [Vasiliki Zagoraiou](https://github.com/vasilikiz5)
 - [T Lam](https://github.com/lamwilton)
 - [Murari] (https://github.com/Murari0323)
 - [Srikesh] (https://github.com/Srikesh17)
@@ -97,6 +98,7 @@ MICHAL!
 - [Ali_Eski]
 -[Didulana Lokugamage](https://github.com/shashintha24)
 Yasas-Dewshan
+Prince-Patel
 - [janith]
 - [Diogenes_Fermin](https://github.com/DiogenesFerminS)
 - [Sandun](https://github.com/sandun-kodi)
