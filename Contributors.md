@@ -28,6 +28,7 @@ Helllloo world! From this repo.
 - [Gaurav Rajput](https://github.com/gaurav-rajput31)
 - [Nithika Bandara](https://github.com/NithikaNB)
 - [Amal Nourin](https://github.com/amalnourin)
+- George
 - [Yashaswini Durga ](https://github.com/YashaswiniDurga)
 - [Livindu Jayasinghe](https://github.com/livindu-j)
 - [Mevinu Abeysinghe](https://github.com/MevinuAbey)
