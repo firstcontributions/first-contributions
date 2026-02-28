@@ -277,10 +277,11 @@ Prince-Patel
 - [Om Kshirsagar] (https://github.com/Mr-OmKshirsagar)
 - [Chinmay Vijapure] (https://github.com/chinmay-vijapure-05)
 - [Neeraj Gundam] (https://github.com/Neerajgundam-12)
+
 - [Ashruth] (https://github.com/xyz)
 -[Lakshmi Prabha V](https://github.com/Prabha2005)
 -[Karthik V](https://github.com/Karthikv2310)
--[Vinod Kumar Reddy](https://github.com/VINOD-KUMAR-REDDY-P)
+-[Vinod Kumar Reddy Pandirlapalli](https://github.com/VINOD-KUMAR-REDDY-P)
 -[Shrinivas Mattur](https://github.com/shrinivasmattur)
 -[Bhanu S](https://github.com/Bhanuprakash2580)
 - [Ashlesh Bathina](https://github.com/AshleshBathina)
@@ -300,9 +301,10 @@ mmmeeeemee
 - [Bailey Kiejko] (https://github.com/Bails86)
 -[Amit Jadhav](https://github.com/A-aj007 )
 - [Mushara] (https://github.com/mushra31)
+
 - [Moulidhar](https://github.com/MoulidharC)
 - [Hemendar](https://github.com/hemendar1)
-- [Xavier-Msrt] (https://github.com/Xavier-Msrt)
+- [Xavier-Msrt](https://github.com/Xavier-Msrt)
 - [Jinukuntla Akhil Kumar ](https://github.com/jinukuntlaakhilakumargoud-web)
 - [contribution](https://github.com/MSAKWA-officer)
 - [JeshwanthILU31](https://github.com/JeshwanthILU31)
@@ -375,8 +377,8 @@ mmmeeeemee
 -[Warren Chang](https://github.com/tiunn)
 -[Nada Naveesh](https://github.com/Nada-Naveesh)
 -[Mike Mayberry] (https://github.com/MichaelMayberry)
-- Hemendra Kumar Sharma
 - Chris Lidres
+- Hemendra Sharma
 - Paul
 - [Matthew Thayer] (https://github.com/MattThayer81)
 - Kiran Sekhar
@@ -443,17 +445,19 @@ mmmeeeemee
 -[cnavarro42](https://github.com/cnavarro42)
 -[Anita Lo](https://github.com/AnitaHome/first-contributions)
 - [Ram Tichkule](https://github.com/Raam751)
+-[HarinadhDudiki](https://github.com/HarinadhDudiki)
 -[Vaishnav Kedar](https://github.com/vaishnavk09)
 -[Anita](https://github.com/AnitaHome)
 -[Aman] (https://github.com/ASR134)
 -[Shubham Rajbhar](https://github.com/shubham37r)
 -[Ranaveer Subbu](https://github.com/subbu6366)
 -[Harish kandi] (https://github.com/kandiharish/)
-- [Khujrat Shaikh](https://github.com/khujrat17) 🌐 .NET Foundation Member 
+- [Khujrat Shaikh](https://github.com/khujrat17) 🌐 .NET Foundation Member
 - [Park Je Young] (https://github.com/zerobak13)
 - [Sijomon P S] (https://github.com/sijomonps)
 - [Justin Urassa](https://github.com/JustinUrassa)
 - [gililo] (https://github.com/gililo)
+-[Mudassir Alladatkhan](https://github.com/mudassiralladatkhan)
 - [S Hajare](https://github.com/swapnil-s-h)
 - [SL](https://github.com/Sloeffler123)
 - -[MBOGO KATEGILE ZABRON](https://github.com/SHEVISANTOS)
@@ -498,8 +502,10 @@ mmmeeeemee
 - [Aashka Rawal] (https://github.com/aashka-05)
 - [Prateek Singh] (https://github.com/prateeknitcse)
 - [Pheng Xiong] (https://github.com/Githero-1)
+- [Ankit Sahoo] (https://github.com/algorithnicmind)  -🌎Hello World!,Thanks for guide
+
 - [🔗 Armaan Singh Klair](https://github.com/ArmaanSinghKlair)
-- [AechWhyL] (https://github.com/AechWhyL)
+- [giddy17] (https://github.com/giddy17)
 - [Ioannis Karkalas] (https://github.com/retr0sity)
 - [Zhang Muen] (https://github.com/Chambers1994)
 - [Ayush Rusiya] (https://github.com/ayushrusiya9)
@@ -588,6 +594,7 @@ mmmeeeemee
 - [Ashen-Hirushan](https://github.com/Ashen-Hirushan)
 - [arias] (https://github.com/aria-tec)
 - [Asad Munir](https://github.com/AsadUllah428)
+- [Guilherme Amnesia](https://github.com/GuilhermePereiraSa)
 - Pranav Ghorpade (https://github.com/ghorpadeire)
 - [Dhanshree Patangrao](https://github.com/Dhanshree019)
 -[DilekaSadaruwan](https://github.com/DilekaSadaruwan)
@@ -597,6 +604,7 @@ mmmeeeemee
 - [Dallin Hogenson](https://github.com/dhogenson)
 - [Vivek S](https://github.com/VivekSarvaiya)
 - Veronica Mendes
+- [Balu Sunkavalli](https://github.com/BaluSunkavalli
 - [Rachel Smith] (https://github.com/RS550)
 - [Digitql0][https://github.com/Digitql0]
 -[sadique shaikh][https://github.com/sadikshaikh00]
@@ -630,6 +638,7 @@ mmmeeeemee
 - [Sharyu Patil](http://github.com/Sharyupatil01)
 -[Bankole Theophilus](https://github.com/phynnoex)
 - [Abhishek bhatt](https://github.com/abhirbhatt)
+- [Balu Sunkavalli](https://github.com/BaluSunkavalli)
 - [Prakhar Tripathi](https://github.com/prakhart07)
 - [Astik singh](https://github.com/Astikk)
 - [Nilavan](https://github.com/Nilavan20)
@@ -637,7 +646,7 @@ mmmeeeemee
 - [Ajinkya Awachar](https://github.com/ajju-09)
 - [Bethu Sathwika](https://github.com/sathwikabethu)
 - [Ashzad Kamal](https://github.com/ashzad123)
-- [Diya Saha](https://github.com/DiyadotSaha)
+- [Diya Saharma](https://github.com/DiyadotSaha)
 - [Ashmi A Jha](https://github.com/ashmi8)
 - [Chamudika Yagabamunu](https://github.com/Chamudika31)
 - [Pratham Debnath](https://github.com/isthatpratham)
@@ -651,10 +660,11 @@ mmmeeeemee
 --[Diksha] (https://github.com/diksha-jindal) 
 - [Rahul]
 - [Sameer Mandve](https://github.com/sameermandve)
+-[Priya](https://github.com/priya-0110)
 - [charliegonzo](https://github.com/CharlieGonzo/first-contributions.git)
 - KJayasree2025
 -[Mohamed Suhail T] (https://github.com/SUHAIL-1010)
-[Diya](https://github.com/niat-web)
+[Rohini Wadkar](https://github.com/niat-web)
 - [Anushtha Mishra](https://github.com/Anushtha-Mishra)
 - [Mridul Narain](https://github.com/narainmridul)
  [Nina Auld](https://github.com/auldn)
@@ -689,9 +699,8 @@ mmmeeeemee
 - [Talaptan Alikhan](https://github.com/alihnwx)
 - [Manan Vaghasiya](https://github.com/manan-vaghasiya7)
 - [Allen Tolete] (https://github.com/Sano-11)
-
+- [Moiie](https://github.cim/Moiie)
 - [Tanveer Pasha S](https://github.com/TanveerpashaS)
-
 -[Manu](https://github.com/ManashaaU)
 
 - [Saqlain Sultan](https://github.com/saqlain991)
@@ -731,7 +740,6 @@ mmmeeeemee
 Arushi Punhani
 - [oona34](https://github.com/oona34)
 - [kub5on](https://github.com/kub5on)
-- [Luis Ruvalcaba](https://github.com/luisruval)
 - [Manvendra Kumar](https://github.com/Manvendra0023)
 - [Abhinav Dwivedi](https://github.com/abhinavdwivedi05)
 - [Shravani Kurkute](https://github.com/Shravani-kurkute)sss
@@ -984,7 +992,8 @@ origin  https://github.com/poornamg/first-contributions.git (push)
 - [Ahmed Yasir](https://github.com/ahmedyasir779)
 - [Aiman](https://github.com/PX201)
 - [piyush](https://github.com/Piyushkraj0408)
-- [Garvit Dayal] (https://github.com/garvitdayal28)
+- [Spreadneck] (https://github.com/kindofabuzz)
+[Garvit Dayal] (https://github.com/garvitdayal28)
 - [Namani Sai Charan] (https://github.com/datapath07)
 - [Takis Patatakis] (https://github.com/niou-dev)
 - [Prahadeep R] (https://github.com/rprahadeep)
@@ -1411,6 +1420,7 @@ Testing
 - [JJtothemoonNB](https://github.com/o0jayzaza0o)
 - [Jack Stuart](https://github.com/stuja16)
 - [Jackson Bichard](https://github.com/JacksonBichard)
+- [Jayashree Prabhu](https://github.com/Jayashree4271)
 - [Jada McAfee](https://github.com/smac115)
 - [Jamiu Adeniran](https://github.com/Jay-O-A)
 - [Andrew Nathan Situmorang](https://github.com/andrwsitumorang)
@@ -1458,7 +1468,7 @@ Testing
 - [Jordan Wels](https://github.com/Jwels1)
 - [Jose Nino Muriel](ttps://github.com/josenino95)
 - [Jose Rios](https://github.com/josel006)
-- [Jeyanth](https://github.com/Jeyanth3)
+- [Lakshigan Jeyanth](https://github.com/Jeyanth3)
 - [Jose Soto](https://github.com/jossotriv)
 - [Domenico Foglia](https://github.com/DomenicoFoglia)
 - Oliver Wang
@@ -1490,11 +1500,12 @@ Testing
 - [Kaustubh Chaturvedi](https://github.com/Kaus-16)
 - [Kavya Vadla](https://github.com/kvadla06)
 - [Sarvesh](https://github.com/Sarvesh668)
-- [Kavya](https://github.com/Kavya751)
+  - [Kavya](https://github.com/Kavya751)
 - [Kazzpars](https://github.com/rid-acrh238)
 - [Keepas3](https://github.com/Keepas3)
 - [Keerthana-R](https://github.com/Kee1112)
 - [Keith Kaplan](https://github.com/darthkeith)
+- [Khushhal Singh](https://github.com/Meatix)
 - [Kent0011](https://github.com/Kent0011)
 - [Kevin Wang](https://github.com/KevinWangHP)
 - [Khamza Zhanbolat](https://github.com/KhamzaZhanbolat)
@@ -1978,6 +1989,7 @@ Testing
 - [TimUfer](https://github.com/TimUfer)
 - [TomiiAlz](https://github.com/TomiiAlz)
 - [Tony Wong](https://github.com/tony31913)
+- [24f3003274-RISHABH](https://github.com/24f3003274-RISHABH)
 - [Tournoy Noa](https://github.com/)
 - [Tracey Dingman](https://github.com/tdingman422)
 - [Trevor Tippery](https://github.com/trevortippery)
@@ -2149,6 +2161,7 @@ guru
 - [iaiw3br](https://github.com/iaiw3br)
 - [idekwid](https://github.com/idekwid)
 - [idrees](https://github.com/idrees2k22)
+- [akhilesh](https://github.com/Akhilesh-Varute)
 - [ikimathi](https://github.com/ikimathi)
 - [ipsitdebnath](https://github.com/ipsitdebnath)
 - [isbefy](https://github.com/isbefy)
@@ -2157,6 +2170,8 @@ guru
 - [jiakeboge](https://github.com/jiakeboge)
 - [jorsyk](https://github.com/jorsyk)
 - [jsutCodes](https://github.com/jsutCodes)
+- [Haddadi Houcine](https://github.com/Houcine0x7)
+
 - [Altan-Od Munkhsukh](https://github.com/AltanOdMunkhsukh)
 - [jvleesenb](https://github.com/meatlake)
 - [jy-kong](https://github.com/jy-kong)
@@ -2404,6 +2419,7 @@ guru
 - [Micheal Wang](https://github.com/Micheal-Wang-maker)
 - [Waxmell](https://github.com/Waxmell99)
 -[Ayenitaju Samuel(https://github.com/AyenitajuSamuel)]
+
 - [Fei Sun](https://github.com/Fei-Sun-1996)
 -[jmscpro](https://github.com/jmscpro)
 - [Ansh Singhal](https://github.com/singhal-ansh)
@@ -2521,12 +2537,14 @@ guru
 - [Ananya Parihar](https://github.com/ananyaparihar/first-contributions)
 - [Yesui Gankhuyag](https://github.com/yesuiabc)
 - [cvienna](https://github.com/cvienna/)
+- [Luis Álvarez Conde](https://github.com/LuisAlvarezConde)
 - [michaelYLR](https://github.com/MichaelYLR)
 - [Aman Bhangre](https://github.com/AmanBhangre)
 - [pomv](https://github.com/pomv)
 - [Cecex](https://github.com/Cecex-git)
 - [Muruganandam B](https://github.com/muruga-tech)
 - [Aakash Chauhan](https://github.com/akashinedon)
+- [Pratiksha Kumbhar](https://github.com/CodeCaptain-pratu)
 - [Gowtham V](https://github.com/gowthamvelayudham1103-pixel)
 - [James Fan](https://github.com/JamesXuFan)
 - [Tiago Lima](https://github.com/TiagooLima)
@@ -2537,6 +2555,9 @@ guru
 - [imshota1009](https://github.com/imshota1009)
 - [granada1_lnrs](https://github.com/granad1_lnrs)
 - tkc
+
+[Muhammed Kans](https://github.com/Muhammedkans)
+
 - [dreace1](https://github.com/dreace1)
 - jesseli123
 - [GameDevHunterG](https://github.com/GameDevHunterG) - 🌎Hello World!
@@ -2550,11 +2571,14 @@ guru
 - [Mary Lavanitha](https://github.com/lavanitha)
 - [zs1981](https://github.com/zs1981)
 - [maxmetodiev] (https://github.com/maxmetodiev) - Hello open source World!
+- [Agnus Paul](https://github.com/agnuspaul98)
+
 - [jest15] (https://github.com/Jest15) - Hello
 - [Nacn3] (https://github.com/Nacn3) --heello
 - [Leo Hermansson](https://github.com/jamessmith) - victoria concordia crescit
 - [Charles Gregorski](https://github.com/gregorskic-debug) - How's it going GitHub?
 - [Sunil](https://github.com/Sunil0620)
+- [Rudra Narayan Mangaraj](https://github.com/curious-creature)
 - [João Otávio Schonarth](https://github.com/joschonarth)
 - [Taiwo Okikiola](https://github.com/taiwookikiola1-max)
 - [Sabyasachi Sarangi](https://github.com/Sabyasachi2125)
@@ -2563,6 +2587,7 @@ guru
 - [Venkatesh ReddyCharla] (https://github.com/charlarcv)
 - [Harsh Verma](https://github.com/twilight-debugger)
 - [Vishnupriya Shisode](https://github.com/vishnupriya-shisode)
+[Manikanta Gudla](https://github.com/mani2244) 
 - [Varad Kottawar](https://github.com/Varad02)
 - [Amisha Kumari](https://github.com/amisha6870)
 - [Henriette Metz](https://github.com/hmetz1311)
@@ -2585,7 +2610,6 @@ contribution by arshi
 - Nabanita Borah
 - [conlusive](https://github.com/conlusive)
 - [peterkalven-wang](https://github.com/peterkalven-wang)
-
 -[Amrita0205](https://github.com/Amrita0205)
 - [akienneh](https://github.com/akienneh) 
 - Nanij Agrawal
@@ -2595,6 +2619,7 @@ contribution by arshi
 - [Szymon Kuczek](https://github.com/SzymonKuczek)
 - [Yash Kaith] (https://github.com/yawshhh)
 - [23f2001705](https://github.com/23f2001705)
+- Kaushal Reddy (https://github.com/kaushalrog)
 - [sasvi123](https://github.com/sasvi123)
 
 - [Atharv Khare](https://github.com/1mystic8u)
@@ -2610,6 +2635,8 @@ contribution by arshi
 - [Aayush Patel](https://github.com/Aayush1302)
 - [Dayanch](https://github.com/devanch-hub)
 - [ryusufx](https://github.com/ryusufx)
+- [Mugdha] (https://github.com/mugdhaarekar)
+
 - Agnetha Rweyemamu  
 - [ Bidhan Chakraborty ] - { https://github.com/Biddy-92 }
 - [Comrade Sidorov](https://github.com/comrade-Sidorov) | printf("Hello Open Source\n");
@@ -2636,6 +2663,7 @@ contribution by arshi
 - [Judi Ali](https://github.com/judi-ali) | [JS](https://github.com/topics/javascript) 🌟
 - [Ayisha Nasreen N](https://github.com/ayishanasreen828-sketch)
 - [Ayse Gul Pekgoz](https://github.com/aydubuk)
+-[Abdul Raheem](https://github.com/Raheemdevlops)
 - [Midhun Ramesh](https://github.com/midhun-1717)
 - [Ashutosh Jha](https://github.com/ashutoshh-jhaa)
 - __[Sniper Ravan](https://github.com/sniperravan)__ -- Just a **ROOKIE** .
@@ -2649,8 +2677,6 @@ contribution by arshi
 - [Chethan harivansh]( https://github.com/chethuhari)
 - [Aditi Kumari](https://github.com/Aditik081)
 - [Jacob Constant](https://github.com/Jzcob)
-
-
 - [Clency Christine] (https://github.com/clencyc)
 - Eric Melnik
 - Dakshayani Ramanesh
@@ -2658,6 +2684,7 @@ contribution by arshi
 - [Ngamize Philbert](https://github.com/nik-p12)
 - [Rick  R] (https://github.com/rikkyrikky-ship-it)
 - [Johanna Mihi](https://github.com/23f2004058)
+- [Jagamiya C](https://github.com/CJagamiya)
 - [OjOj](https://github.com/OjOj717) : I feel very grateful for this project! 감사합니다 :)
 - [Jagamiya C](https://github.com/CJagamiya)
 - [Thy-Ronald](https://github.com/Thy-Ronald)
@@ -2665,10 +2692,10 @@ contribution by arshi
 - [Great Igogo](https://github.com/BigOronaa)
 - [Jake-Kirker](https://github.com/EKirker)
 - [Danilo Lanzi](https://github.com/danlanzi)
+- [SutripatNew](https://github.com/SutripatNew)
 - [hsnyus-09](https://github.com/hsnyus-09)
 - [Alakh Awasthi](https://github.com/Awasthi577)
 - [Nithilaa] (https://github.com/Nithilaa0305)
-
 - [Selvaganapathy](https://github.com/selvaganapathycoder)
  - [Atuldeveloper24](https://github.com/Atuldeveloper24)
 - [Prachi Pandey](https://github.com/prachi-pandey-13)
@@ -2742,7 +2769,6 @@ contribution by arshi
 - [kpliuniverse](https://github.com/kpliuniverse)
 - [rajavenkatesh04](https://github.com/rajavenkatesh04)
 - [prehan-13](https://github.com/prehan-13)
-- eemi
 - [A. Tejaswi](https://github.com/Tejaswi-9905) | B.Tech CSE | India
 - [Dineth Sanjuna] (https://github.com/Dineth519)
   Sarthak Patil
@@ -2790,7 +2816,6 @@ contribution by arshi
 - [sachin] (https://github.com/sachin915t)
 - [CODEheures] (https://github.com/CODEheures)
 - [Weihong Liu](https://github.com/weihongliu6)
-- 
 - Raejae Soiha (https://github.com/RaejaeSoiha)
 - [Clawko-sama 🦞💕](https://github.com/clawko-sama)
 - [En](https://github.com/zyl-hub)
@@ -2818,4 +2843,4 @@ contribution by arshi
 - [Samhitha Savalam] (https://github.com/SavalamSamhitha)
 - [Abhishek Kumar](https://github.com/Abhishek681)
 - [DieEulevonMinerva] (https://github.com/DieEulevonMinerva)
-- [Akash Ravichandran] (https://github.com/AkashRavichandran07-creator)
+- [Akash Ravichandran](https://github.com/AkashRavichandran07-creator)
