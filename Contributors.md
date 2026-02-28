@@ -421,6 +421,7 @@
 - [Kavana Ganesh](https://github.com/KavanaGanesh-dev)
 - [KavindiD](https://github.com/KavindiD)
 - [Kavish Pal Singh](https://github.com/23f2005144)
+Rongxin Zhang
 - [Kavoshnik](https://github.com/kavoshnik)
 - [Kavya Vadla](https://github.com/kvadla06)
 - [Kayla Cox](https://github.com/RenWoman)
