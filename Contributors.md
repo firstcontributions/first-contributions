@@ -18,6 +18,7 @@ Helllloo world! From this repo.
 - [Murari] (https://github.com/Murari0323)
 - [Srikesh] (https://github.com/Srikesh17)
 - [Ashwin] (https://github.com/ash-win19)
+- [Nuno Menezes] (https://github.com/chivas47)
 - [Peter Trinh] (https://github.com/raihua)
 - [Abu Talha Ansari] (https://github.com/GamerBhai02)
 - [Mohanprasadd_Mk](https://github.com/mohanprasadd24)
