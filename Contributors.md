@@ -535,6 +535,7 @@ mmmeeeemee
 - [Ch Vipulabhiram] (https://github.com/Vipulabhiram)
 - [Sanjay Ganesh] (https://github.com/SanjayGanesh614)
 - [Ashad Shaikh] (https://github.com/senku0-0)
+- [Carlos Carandang] (https://github.com/CarandangC)
 - [Omer Ahmed](https://github.com/omerdotcom)
 - [dlukel](https://github.com/dlukel)
 - [Harshathan] (https://github.com/harshathan028)
