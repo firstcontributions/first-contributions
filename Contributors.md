@@ -15,6 +15,7 @@ Helllloo world! From this repo.
 -[Prajkta Padare] (https://github.com/Prajkta11222)
 - [Prasanthi Kadali](https://github.com/KadaliPrasAnthi)
 - [Seema Anjum](https://github.com/Seema-Anjum)
+- [eloi-web](https://github.com/eloi-web)
 - [Vasiliki Zagoraiou](https://github.com/vasilikiz5)
 - [T Lam](https://github.com/lamwilton)
 - [Murari] (https://github.com/Murari0323)
