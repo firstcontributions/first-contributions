@@ -23,6 +23,7 @@ Helllloo world! From this repo.
 - [T Lam](https://github.com/lamwilton)
 - [Murari] (https://github.com/Murari0323)
 - [Srikesh] (https://github.com/Srikesh17)
+- [Claudio Muroni](https://github.com/claudio-muroni)
 - [Ashwin] (https://github.com/ash-win19)
 - [Peter Trinh] (https://github.com/raihua)
 - [Abu Talha Ansari] (https://github.com/GamerBhai02)
