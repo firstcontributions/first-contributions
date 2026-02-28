@@ -2,6 +2,7 @@
 - [Mauro Coria](https://github.com/Oolazile)
 - [Harsh Chauhan](https://github.com/chauhan-harsh630)
 - [KHAWAJA BABAR NASEER](https://github.com/khawajaacode)
+- [Shrinivas Narhare](https://github.com/shrinivas9606)
 Helllloo world! From this repo.
 [Dev]
 [thanoozhello]
