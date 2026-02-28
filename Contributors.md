@@ -2,6 +2,7 @@
 - [Mauro Coria](https://github.com/Oolazile)
 - [Harsh Chauhan](https://github.com/chauhan-harsh630)
 - [AKASH PRAJAPATI (Zero Day)](https://github.com/ZERO-DAY-CODE)
+- [Yash Barhate](https://github.com/yashh222)
 - [NabilMch](https://github.com/NabilMch)
 -[Jayavardhan](https://github.com/Jayavardhan137)
 - [KHAWAJA BABAR NASEER](https://github.com/khawajaacode)
