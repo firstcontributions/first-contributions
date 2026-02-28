@@ -2782,3 +2782,4 @@ contribution by arshi
 - [June] (https://github.com/CodeWithJune/)
 - [Samhitha Savalam] (https://github.com/SavalamSamhitha)
 - [Abhishek Kumar](https://github.com/Abhishek681)
+- [DieEulevonMinerva] (https://github.com/DieEulevonMinerva)
