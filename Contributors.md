@@ -717,6 +717,7 @@
 - [Sahil Ghag](https://github.com/Sahilghagg)
 - [Sahil Sharma](https://github.com/sahil-me)
 - [Said Berk](https://github.com/saidberk27)
+- [Saideepthi](https://github.com/Saideepthi04)
 - [Sal Adrian](https://github.com/Sal-Adrian)
 - [Samia-sh](https://github.com/samia-code0)
 - [Samuel Wright](samw46)
