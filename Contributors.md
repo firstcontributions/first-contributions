@@ -197,6 +197,7 @@
 - [Daiwiik Harihar](https://github.com/daiv09)
 - [Daksh Gour](https://github.com/dakshgour)
 - [Dallin Hogenson](https://github.com/dhogenson)
+- [Danielynx](https://github.com/danielynx)
 - [Daniel Guo](https://github.com/DiiGii)
 - [Daniel Peralta](https://github.com/DDalta)
 - [Danilo Lanzi](https://github.com/danlanzi)
