@@ -228,6 +228,7 @@ Prince-Patel
 - [Ankit Raj](https://github.com/ankitrajrules)  
 - [Jaideep Kalagara](https://github.com/jaideep-kalagara)
 - [Dinithi Gunathilake](https://github.com/Dinithi-Gunathilake)
+- [Dinith Kariyawasam](https://github.com/dinithrk)
 - [Musses Gebremariam](https://github.com/MosesSG)
 - [Greevan Hari] (https://github.com/GreevanHari)
 - [Enuri Wickramasinghe] (https://github.com/enurisw)
