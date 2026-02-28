@@ -2689,7 +2689,7 @@ contribution by arshi
 -[Hasala-Kavinda](https://github.com/Hasala-Kavinda)
 - [Vansh Jaggi](https://github.com/VanshJ2902)
 -[cristians-12](https://github.com/cristians-12)
--[Subhr](https://github.com/Itssubhraneelbruv)
+-[Subhraneel](https://github.com/Itssubhraneelbruv)
 -[Dineth] (https://github.com/DinethAdikari)
 - [Tushar](https://github.com/TUSHAR1904-cmd)
 - [qusiee](https://github.com/qusaieh
