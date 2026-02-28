@@ -416,7 +416,7 @@ mmmeeeemee
 - [Saurav Sharma](https://github.com/saurav0369)
 -[Yashwanth](https://github.com/lighty7)
 - [Gyanam Bhalgat](https://github.com/Gyanam1310)
-- [Hanzala Tafzeel] (https://github.com/hanzala-tafzeel)
+- [Hanzala Tafzeel]
 - [Enzo Guinossi](https://github.com/enzoguinossi)
 - [Dzmitry Mukhin](https://github.com/divmone)
 -Adi(https://github.com/AdityaSinghBisht3000/)
