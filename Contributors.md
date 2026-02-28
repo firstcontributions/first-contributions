@@ -224,6 +224,7 @@ Prince-Patel
 -[SadurshikaK](https://github.com/SadurshikaK)
 -[el tikho] (https://github.com/victortikho18)
 -[Anastasija26] (https://github.com/anastasija26)
+- [Vedant Patil](https://github.com/vedantp3)
 -[lakshaning](https://github.com/lakshaning)
 - [itxe-del](https://github.com/itxe-del)
 -[James Green] (https://github.com/jameseg-hacfm)
