@@ -2682,6 +2682,7 @@ contribution by arshi
 - [Great Igogo](https://github.com/BigOronaa)
 - [Jake-Kirker](https://github.com/EKirker)
 - [Danilo Lanzi](https://github.com/danlanzi)
+- [SutripatNew](https://github.com/SutripatNew)
 - [hsnyus-09](https://github.com/hsnyus-09)
 - [Alakh Awasthi](https://github.com/Awasthi577)
 - [Nithilaa] (https://github.com/Nithilaa0305)
