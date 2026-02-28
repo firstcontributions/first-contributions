@@ -23,6 +23,7 @@ Helllloo world! From this repo.
 - [Yashaswini Durga ](https://github.com/YashaswiniDurga)
 - [Livindu Jayasinghe](https://github.com/livindu-j)
 - [Mevinu Abeysinghe](https://github.com/MevinuAbey)
+- [John Quiruz](https://github.com/johnquiruz)
 - [Dhanush](https://github.com/imdhanukulkarni)
 - [khaled mohamed](https://github.com/kholio-hub)
 - [Dine Babu](https://github.com/DineXCode)
