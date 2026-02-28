@@ -377,8 +377,8 @@ mmmeeeemee
 -[Warren Chang](https://github.com/tiunn)
 -[Nada Naveesh](https://github.com/Nada-Naveesh)
 -[Mike Mayberry] (https://github.com/MichaelMayberry)
-- Hemendra Kumar Sharma
 - Chris Lidres
+- Hemendra Sharma
 - Paul
 - [Matthew Thayer] (https://github.com/MattThayer81)
 - Kiran Sekhar
