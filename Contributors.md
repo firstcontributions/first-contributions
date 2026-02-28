@@ -428,7 +428,7 @@ mmmeeeemee
 -[Daneswari](https://github.com/DaneswariAddala56)
 -[Ashwin-Mehta](https://github.com/0011Ashwin)
 -[Reem Vahora](https://github.com/ReemVahora)
--[Vedaant Budakoti](https://github.com/Vedaant-VBD)
+-[vedaant budakoti dandriyal](https://github.com/Vedaant-VBD)
 -[Nawazish Bidiwale](https://github.com/Nawaz-B-04)
 - [Lam Tung Dang](https://github.com/BitOfForest)
 -[Maheen Fatima](https://github.com/MaheenGitHub)
