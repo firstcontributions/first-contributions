@@ -358,6 +358,7 @@ mmmeeeemee
 -[kannan] (https://github.com/kannan-2006)
 - [Joise S Arakkal](https://github.com/joise-s-arakkal/)
 - [Syed Rahil Hussain](https://github.com/Syed-srh)
+- [Fidha Fathima M](https://github.com/fidhafathima-m)
 - [Kondaka Bhargavi](https://github.com/bhargavikondaka)
 - [Devang Patel](https://github.com/devang100)
 - [Mohammed Munaaf](https://github.com/MohammedMunaaf)
