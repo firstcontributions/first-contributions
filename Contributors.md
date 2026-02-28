@@ -1164,6 +1164,7 @@ Dedahi
 - [Conor James](https://github.com/ConorsGitHub)
 - [CoventinaLachesis](github.com/CoventinaLachesis)
 - [Crisandresro012](https://github.com/Cristhian012)
+- [Kayla Cox](https://github.com/RenWoman)
 - [Daksha K Gowda](https://github.com/the-red-dk)
 - [D3rk1us](https://github.com/D3rk1us)
 - [DAKSH](https://github.com/Daksh-codes)
