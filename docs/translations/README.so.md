@@ -140,6 +140,8 @@ Hambalyo! Waxaad hadda dhamaystirtay heerka caadiga ah ee kalaqaybinta(fork) -> 
 
 U dabaaldeg wax ku biirintaada oo la wadaag asxaabtaada iyo kuwa ku raacsan adiga oo aadaya [abka shabakada](https://firstcontributions.github.io/#social-share).
 
+Haddii aad rabto tababar dheeraad ah, eeg [code contributions](https://github.com/roshanjossey/code-contributions).
+
 Hadda aan kuu bilowno ka qayb qaadashada mashaariicda kale. Waxaan soo diyaarinay liis mashruucyo ah oo leh qaladaad sahlan oo aad ku bilaabi karto. Fiiri [liiska mashaariicda ku jira abka shabakada](https://firstcontributions.github.io/#project-list).
 
 ### [Waxyaabo dheeraad ah](additional-material/git_workflow_scenarios/additional-material.md)
