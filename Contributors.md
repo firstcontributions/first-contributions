@@ -2744,8 +2744,9 @@ contribution by arshi
 -[Jagdish](https://github.com/Jagdishuikey)|DYPCOE Pune
 -[Sathurjika](https://github.com/Sathurjika16)
 -[Abdullah](https://github.com/Bodeayman)
+-[Khushhal Singh](https://github.com/Meatix)
+-[Nadeen Deminda](https://github.com/Nad33n)
 -[WeerasingheAsani](https://github.com/WeerasingheAsani)
-[Nadeen Deminda](https://github.com/Nad33n)
 -[WellageDS](https://github.com/Dellywell)
 - [Yuneth Hansira](https://github.com/yuneth-hansira)
 -[Umanda](https://github.com/Umanda402)
