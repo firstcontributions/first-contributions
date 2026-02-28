@@ -93,7 +93,7 @@ Helllloo world! From this repo.
 - [alepiana]
 -[YOUSSOF HOSSAM ELDIN]
 -[pubudu23163]
--[Sandeep]
+-[Sandeep N](https://github.com/Sandeep-Nallapati)
 - [Kavindu Kalhara](https://github.com/kavindu07)
 - [Anant Verma](https://github.com/anantverma20)
 - [Maritz-VJ](https://github.com/MARITZ-VJ)
