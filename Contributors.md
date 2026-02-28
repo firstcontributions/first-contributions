@@ -501,6 +501,8 @@ mmmeeeemee
 - [Aashka Rawal] (https://github.com/aashka-05)
 - [Prateek Singh] (https://github.com/prateeknitcse)
 - [Pheng Xiong] (https://github.com/Githero-1)
+- [Ankit Sahoo] (https://github.com/algorithnicmind)  -🌎Hello World!,Thanks for guide
+
 - [🔗 Armaan Singh Klair](https://github.com/ArmaanSinghKlair)
 - [giddy17] (https://github.com/giddy17)
 - [Ioannis Karkalas] (https://github.com/retr0sity)
