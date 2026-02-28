@@ -591,6 +591,7 @@ mmmeeeemee
 - [Ashen-Hirushan](https://github.com/Ashen-Hirushan)
 - [arias] (https://github.com/aria-tec)
 - [Asad Munir](https://github.com/AsadUllah428)
+- [Guilherme Amnesia](https://github.com/GuilhermePereiraSa)
 - Pranav Ghorpade (https://github.com/ghorpadeire)
 - [Dhanshree Patangrao](https://github.com/Dhanshree019)
 -[DilekaSadaruwan](https://github.com/DilekaSadaruwan)
