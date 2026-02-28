@@ -9,6 +9,7 @@ Helllloo world! From this repo.
 [Dev]
 [thanoozhello]
 [PoojaMM]
+-[S Linisten](https://github.com/Linisten)
 -[Tanisha Vasudeva](https://github.com/TaNiShA180)
 -[Nasrin Anwar](https://github.com/NazHub1993)
 -[Ruben Valdez](https://github.com/jruben28)
@@ -702,7 +703,7 @@ mmmeeeemee
 - [Moiie](https://github.cim/Moiie)
 - [Tanveer Pasha S](https://github.com/TanveerpashaS)
 -[Manu](https://github.com/ManashaaU)
-
+- sofia vaca
 - [Saqlain Sultan](https://github.com/saqlain991)
 - [Abhijeet Nardele](https://github.com/abhijeetnardele24-hash)
 - [Wanmi](https://github.com/wanmi1)
@@ -2338,6 +2339,7 @@ guru
 - [Kaushik S](https://github.com/KaushikS-coder)
 - [Victor Belusso](https://github.com/belusso)
 - [Lokesh Konda](https://github.com/kondalokesh025-code)
+- [aeffff](https://github.com/aefff)
 - [Tripur Joshi] (https://github.com/tripur3121)
 - [Vaishnavi](https://github.com/Vaishnavi10706)
 - [Nyoman Kusuma](https://github.com/knyoman)
@@ -2843,4 +2845,5 @@ contribution by arshi
 - [Samhitha Savalam] (https://github.com/SavalamSamhitha)
 - [Abhishek Kumar](https://github.com/Abhishek681)
 - [DieEulevonMinerva] (https://github.com/DieEulevonMinerva)
-- [Akash Ravichandran](https://github.com/AkashRavichandran07-creator)
+- [AkashRavichandran](https://github.com/AkashRavichandran07-creator)
+- [Jagan Ganesh](https://github.com/jaganganesh)
