@@ -2775,3 +2775,4 @@ contribution by arshi
 - [Saryghazy] (https://github.com/saryghazy)
 - [Khai Tran] (https://github.com/Khai-Tran24)
 - [June] (https://github.com/CodeWithJune/)
+- [Samhitha Savalam] (https://github.com/SavalamSamhitha)
