@@ -7,7 +7,7 @@
 Helllloo world! From this repo.
 [Dev]
 [thanoozhello]
-[PoojaMM]
+[Pooja M M](https://github.com/poojamm18)
 -[Tanisha Vasudeva](https://github.com/TaNiShA180)
 -[Nasrin Anwar](https://github.com/NazHub1993)
 -[Ruben Valdez](https://github.com/jruben28)
