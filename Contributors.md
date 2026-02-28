@@ -1,4 +1,5 @@
 # Contributors
+
 - [1828](https://github.com/18-28)
 - [1ESA1](https://github.com/1ESA1)
 - [2003myriam](https://github.com/2003myriam)
@@ -180,7 +181,7 @@
 - [Chang Liu](https://github.com/canyonliu8-code)
 - [Chemini Newanma](https://github.com/chemini244)
 - [Chenghou Si](https://github.com/ChenghouSi)
-- [Chethan harivansh]( https://github.com/chethuhari)
+- [Chethan harivansh](https://github.com/chethuhari)
 - [Chirag Bimali](https://github.com/chirag-bimali)
 - [Chitla Jashwanth](https://github.com/jashwanth1128)
 - [Chitvan Singh](https://github.com/chitvan11)
@@ -409,7 +410,7 @@
 - [Kalpana Rajyam](https://github.com/Kalpana1234-ui)
 - [Kamakshi](https://github.com/kamakshipal1-tech)
 - [Kamalakannan Srinivasan](https://github.com/kamalbalaji83)
-- [Kamran Kausher]( https://github.com/kamrankausher)
+- [Kamran Kausher](https://github.com/kamrankausher)
 - [Kapil Kumar](https://github.com/kapilkumar05991)
 - [Karim_Mohamed](https://github.com/KarimAlkabily)
 - [Karri Saiphani Reddy](https://github.com/Saiphani1022)
@@ -422,7 +423,7 @@
 - [Kavana Ganesh](https://github.com/KavanaGanesh-dev)
 - [KavindiD](https://github.com/KavindiD)
 - [Kavish Pal Singh](https://github.com/23f2005144)
-Rongxin Zhang
+  Rongxin Zhang
 - [Kavoshnik](https://github.com/kavoshnik)
 - [Kavya Vadla](https://github.com/kvadla06)
 - [Kayla Cox](https://github.com/RenWoman)
@@ -838,6 +839,7 @@ Rongxin Zhang
 - [Tej M Bhat](https://github.com/TejBhat)
 - [Teja Chalikanti](https://github.com/tchalikanti1705)
 - [Tejas Jogdand](https://github.com/Tejas-Jogdand)
+- [Tejaswi Amatya](https://github.com/TejaswiAmatya)
 - [Temhemc](https://github.com/temhemc)
 - [Teng-Hui Huang](https://github.com/hui811116)
 - [That1LinuxGuy](https://github.com/That1LinuxGuy)
