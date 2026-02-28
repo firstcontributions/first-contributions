@@ -4,7 +4,7 @@
 - [KHAWAJA BABAR NASEER](https://github.com/khawajaacode)
 Helllloo world! From this repo.
 [Dev]
-[thanooz]
+[thanoozhello]
 [PoojaMM]
 -[Nasrin Anwar](https://github.com/NazHub1993)
 -[Ruben Valdez](https://github.com/jruben28)
