@@ -2649,6 +2649,9 @@ contribution by arshi
 - [Chethan harivansh]( https://github.com/chethuhari)
 - [Aditi Kumari](https://github.com/Aditik081)
 - [Jacob Constant](https://github.com/Jzcob)
+
+
+- [Clency Christine] (https://github.com/clencyc)
 - Eric Melnik
 - Dakshayani Ramanesh
 - [Brian Torres] (https://github.com/btorres561)
