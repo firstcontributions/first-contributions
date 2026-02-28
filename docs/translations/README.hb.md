@@ -26,7 +26,7 @@
 <kbd>[<img title="ქართული" alt="ქართული" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ge.svg" width="22">](README.ge.md)</kbd>
 <kbd>[<img title="Magyar" alt="Magyar" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/hu.svg" width="22">](README.hu.md)</kbd>
 <kbd>[<img title="Bahasa Indonesia" alt="Bahasa Indonesia" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/id.svg" width="22">](README.id.md)</kbd>
-<kbd>[<img title="हिंदी/ગુજરાતી/मराठी/മലയാളം/ಕನ್ನಡ/తెలుగు/छत्तीसगढ़ी/বাংলা/தமிழ்" alt="हिंदी/ગુજરાતી/मराठी/മലയാളം/ಕನ್ನಡ/తెలుగు/छत्तीसगढ़ी/বাংলা/தமிழ்" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/in.svg" width="22">](Translations.md)</kbd>
+<kbd>[<img title="हिंदी/ગુજરાતી/मराठी/മലയാളം/ಕನ್ನಡ/తెలుగు/छत्तीसगढ़ी/বাংলা/தமிழ்" alt="हिंदी/ગુજરાતી/मराठी/മലയാളം/ಕನ್ನಡ/తెలుగు/छत्तीसगढ़ी/বাংলা/தமிழ்" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/in.svg" width="22">](Translations.md#indian-languages)</kbd>
 <kbd>[<img title="தமிழ்" alt="தமிழ்" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/lk.svg" width="22">](README.ta.md)</kbd>
 <kbd>[<img title="فارسی" alt="فارسی" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ir.svg" width="22">](README.fa.md)</kbd>
 <kbd>[<img title="پښتو" alt="پښتو" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/af.svg" width="22">](README.pus.md)</kbd>
