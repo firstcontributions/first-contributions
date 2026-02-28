@@ -2577,6 +2577,7 @@ guru
 - [Leo Hermansson](https://github.com/jamessmith) - victoria concordia crescit
 - [Charles Gregorski](https://github.com/gregorskic-debug) - How's it going GitHub?
 - [Sunil](https://github.com/Sunil0620)
+- [Rudra Narayan Mangaraj](https://github.com/curious-creature)
 - [João Otávio Schonarth](https://github.com/joschonarth)
 - [Taiwo Okikiola](https://github.com/taiwookikiola1-max)
 - [Sabyasachi Sarangi](https://github.com/Sabyasachi2125)
