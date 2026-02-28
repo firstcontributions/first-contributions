@@ -16,6 +16,7 @@ Helllloo world! From this repo.
 - [Seema Anjum](https://github.com/Seema-Anjum)
 - [T Lam](https://github.com/lamwilton)
 - [Ashwin] (https://github.com/ash-win19)
+- [Nuno Menezes] (https://github.com/chivas47)
 - [Peter Trinh] (https://github.com/raihua)
 - [Abu Talha Ansari] (https://github.com/GamerBhai02)
 - [Mohanprasadd_Mk](https://github.com/mohanprasadd24)
