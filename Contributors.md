@@ -1,5 +1,6 @@
 # Contributors
 - [Mauro Coria](https://github.com/Oolazile)
+- [Joseph Dominguez](https://github.com/PavoToXx)
 - [Harsh Chauhan](https://github.com/chauhan-harsh630)
 - [AKASH PRAJAPATI (Zero Day)](https://github.com/ZERO-DAY-CODE)
 - [NabilMch](https://github.com/NabilMch)
