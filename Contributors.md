@@ -2539,6 +2539,7 @@ guru
 - [Cecex](https://github.com/Cecex-git)
 - [Muruganandam B](https://github.com/muruga-tech)
 - [Aakash Chauhan](https://github.com/akashinedon)
+- [Pratiksha Kumbhar](https://github.com/CodeCaptain-pratu)
 - [Gowtham V](https://github.com/gowthamvelayudham1103-pixel)
 - [James Fan](https://github.com/JamesXuFan)
 - [Tiago Lima](https://github.com/TiagooLima)
