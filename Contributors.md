@@ -1,4 +1,5 @@
 # Contributors
+
 - [1828](https://github.com/18-28)
 - [1ESA1](https://github.com/1ESA1)
 - [2003myriam](https://github.com/2003myriam)
@@ -184,7 +185,7 @@
 - [Chemini Newanma](https://github.com/chemini244)
 - [Chen](https://github.com/flasheddy)
 - [Chenghou Si](https://github.com/ChenghouSi)
-- [Chethan harivansh]( https://github.com/chethuhari)
+- [Chethan harivansh](https://github.com/chethuhari)
 - [Chirag Bimali](https://github.com/chirag-bimali)
 - [Chitla Jashwanth](https://github.com/jashwanth1128)
 - [Chitvan Singh](https://github.com/chitvan11)
@@ -414,7 +415,7 @@
 - [Kalpana Rajyam](https://github.com/Kalpana1234-ui)
 - [Kamakshi](https://github.com/kamakshipal1-tech)
 - [Kamalakannan Srinivasan](https://github.com/kamalbalaji83)
-- [Kamran Kausher]( https://github.com/kamrankausher)
+- [Kamran Kausher](https://github.com/kamrankausher)
 - [Kapil Kumar](https://github.com/kapilkumar05991)
 - [Karim_Mohamed](https://github.com/KarimAlkabily)
 - [Karri Saiphani Reddy](https://github.com/Saiphani1022)
@@ -427,7 +428,7 @@
 - [Kavana Ganesh](https://github.com/KavanaGanesh-dev)
 - [KavindiD](https://github.com/KavindiD)
 - [Kavish Pal Singh](https://github.com/23f2005144)
-Rongxin Zhang
+  Rongxin Zhang
 - [Kavoshnik](https://github.com/kavoshnik)
 - [Kavya Vadla](https://github.com/kvadla06)
 - [Kayla Cox](https://github.com/RenWoman)
@@ -890,6 +891,7 @@ Rongxin Zhang
 - [Vedika Gupta](https://github.com/VedikaGupt)
 - [Vesmorian Xavier](https://github.com/vaibhavsss)
 - [Victor Krassovsky](github.com/victorkrassovsky)
+- [Vasa](github.com/vasa-r)
 - [VidanyaE23](https://github.com/VidanyaE23)
 - [VijayVenkatraman](https://github.com/vijayomatic2-ops)
 - [Vikas Pundir](https://github.com/Vikaspundir24)
@@ -1100,10 +1102,8 @@ Rongxin Zhang
 - [张喜昌](https://github.com/ZhangXiChang)
 - [원세영](https://github.com/seyoung5744)
 - [🔗 Armaan Singh Klair](https://github.com/ArmaanSinghKlair)
-- [Abdelrahman_Mohye](https://github.com/aboda-0100011) 
+- [Abdelrahman_Mohye](https://github.com/aboda-0100011)
 - [Madhav Choudhry](https://github.com/madhavchoudhry23)
 - [Rayhan Islam Rabby](https://github.com/rayhanislamrabby)
-- Omnia Hussein
--[HemawarshiniMahendran](https://github.com/Hemamahe07)
--[renya peter](https://github.com/renyapeter)
+- Omnia Hussein -[HemawarshiniMahendran](https://github.com/Hemamahe07) -[renya peter](https://github.com/renyapeter)
 - [jangjohn](https://github.com/jangjohn)
