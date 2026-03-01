@@ -386,6 +386,7 @@
 - [Joey Grengs](https://github.com/papajpg)
 - [Johan](https://github.com/Johan621)
 - [Johanna Mihi](https://github.com/23f2004058)
+- [John Dennehy] (https://github.com/JohnDennehy101)
 - [John Maar](https://github.com/JTylM)
 - [John Mixon](https://github.com/mixdev2112)
 - [Johnathon Sperandio](https://github.com/Johnathon-Sperandio)
