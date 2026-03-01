@@ -2713,7 +2713,7 @@ contribution by arshi
 - [Yic Hu](https://github.com/y04880166-dev)
 - [Princegudala](https://github.com/ceinprcodes)
 - [Jaed Pizarro] (https://github.com/Jaed256)
-- [Madhav Choudhry] (https://github.com/madhavchoudhry5)
+- [Madhav Choudhry](https://github.com/madhavchoudhry23)
 - [Rafay Shaikh] (https://github.com/rafay247)
 - [sachin] (https://github.com/sachin915t)
 - [CODEheures] (https://github.com/CODEheures)
