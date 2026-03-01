@@ -17,7 +17,7 @@
 - [Aakash Chauhan](https://github.com/akashinedon)
 - [Aaliyah Raheem](https://github.com/aaliot)
 - [Aamir](https://github.com/AamirMNAamir)
-- [Aayush Patel](https://github.com/Aayush1302)
+- [Aayush Patel](https://github.com/Aayush1302)s
 - [Abdelrahman Moubarak](https://github.com/amoub-arak2608)
 - [Md. Ashraful Islam] (https://github.com/ashrafulislambd)
 - [Abdessamad-Mechouahi](https://github.com/abdessamad-26)
