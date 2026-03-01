@@ -5,6 +5,7 @@
 - [mananjp](https://github.com/mananjp)
 - [24f3003274-RISHABH](https://github.com/24f3003274-RISHABH)
 - [@Zakiahsan-arch](https://github.com/Zakiahsan-arch)
+- [Sanchana](https://github.com/Sanchana05)
 - [A Szpatowski](https://github.com/aszpatowski)
 - [AC](https://github.com/FortKnoxWasTaken)
 - [AJ Gyro](https://github.com/AJGyro)
