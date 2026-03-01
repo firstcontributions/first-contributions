@@ -108,6 +108,7 @@
 - [Argha Saha](https://github.com/arg387)
 - [Ariel Miele](https://github.com/arielmiele)
 - [Arisa Abiko](https://github.com/arisaabiko)
+- [Javier Garcia](https://github.com/jgarciacardoso)
 - [Arnav Saraswat](https://github.com/arnavs-uol)
 - [Arti Shelar](https://github.com/shelararti)
 - [Arumugam N](https://github.com/blackwolf2902)
