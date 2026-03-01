@@ -14,7 +14,6 @@ Helllloo world! From this repo.
 - [Dhanush](https://github.com/imdhanukulkarni)
 - [Dine Babu](https://github.com/DineXCode)
 - [Anidu](https://github.com/Anidu07)
-- [Ibrahim Ibrahim](https://github.com/iibrahimx)
 - [Ganindu Methmaka](https://github.com/ganindumethmaka)
 - [dariusmark-tech](https://github.com/dariusmark-tech)
 - [Thisum Danthanarayana](https://github.com/thisum-dev)
@@ -29,6 +28,7 @@ Helllloo world! From this repo.
 - ALBERT
 - [Tharusha Rashmika](https://github.com/rashmika2422)
 - [Methmini Kumarasinghe](https://github.com/methminiKumarasinghe)
+- [Ibrahim Ibrahim](https://github.com/iibrahimx)
 - [DIARINIAINA Jean Marc](https://github.com/diariniaina11)
 - [Kanan Choudhary](https://github.com/your-username)
 - [Rafael Ribeiro da rocha](https://github.com/raafariibeiroo/)
