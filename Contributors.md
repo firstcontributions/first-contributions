@@ -180,6 +180,7 @@
 - [Chandan Bhirud](https://github.com/chandanb778)
 - [Chang Liu](https://github.com/canyonliu8-code)
 - [Chemini Newanma](https://github.com/chemini244)
+- [Chen](https://github.com/flasheddy)
 - [Chenghou Si](https://github.com/ChenghouSi)
 - [Chethan harivansh]( https://github.com/chethuhari)
 - [Chirag Bimali](https://github.com/chirag-bimali)
