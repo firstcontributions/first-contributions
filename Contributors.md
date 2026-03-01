@@ -530,6 +530,7 @@ Rongxin Zhang
 - [Minlish-Git](https://github.com/Minlish-Git)
 - [Mithielesh N](https://github.com/mithielesh05)
 - [Mithun Srinivas](https://github.com/MithunSrinivas28)
+- [Miwa Dharod](https://github.com/miwadharod17)
 - [Mizaan Ur Rehman](https://github.com/miz2)
 - [Mohamed Anes](https://github.com/Mohamed-Anes)
 - [Mohamed Salih](https://github.com/mohamedsalihva)
