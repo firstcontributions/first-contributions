@@ -47,6 +47,7 @@
 - [Aditya-Rawat](https://github.com/RwtAditya)
 - [Aditya](https://github.com/thisadityasoni)
 - [Adnan Aftab](https://github.com/AdnanAftab1/)
+- [Lavika Singla](https://github.com/lavika17)
 - [Adrian PC M](https://github.com/AdrianPCM)
 - [Afham Irfan](https://github.com/auth-Afham)
 - [Ahmad Bilal](https://github.com/AhmadBilal-WebDev)
