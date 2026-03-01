@@ -969,6 +969,7 @@ Rongxin Zhang
 - [davos](https://github.com/davos9002)
 - [deep9x](https://github.com/deep9x)
 - [devoceon](https://github.com/emy3)
+- [devycx](https://github.com/devycx)
 - [dibaya-jyoti](https://github.com/dibaya07)
 - [dinesh](https://github.com/dineshv97)
 - [diya](https://github.com/diyaj14)
