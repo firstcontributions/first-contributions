@@ -1111,8 +1111,8 @@ Rongxin Zhang
 - [Madhav Choudhry](https://github.com/madhavchoudhry23)
 - [Rayhan Islam Rabby](https://github.com/rayhanislamrabby)
 - Omnia Hussein
--[HemawarshiniMahendran](https://github.com/Hemamahe07)
--[renya peter](https://github.com/renyapeter)
+- [HemawarshiniMahendran](https://github.com/Hemamahe07)
+- [renya peter](https://github.com/renyapeter)
 - [jangjohn](https://github.com/jangjohn)
-[Zhiyu1723](https://github.com/Zhiyu1723/)
--[Akhilvs] (https://github.com/akhilvs-codes)
+- [Zhiyu1723](https://github.com/Zhiyu1723/)
+- [Akhilvs] (https://github.com/akhilvs-codes)
