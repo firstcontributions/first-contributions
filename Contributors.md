@@ -694,6 +694,7 @@ Rongxin Zhang
 - [Rein Ding](https://github.com/ReinDing)
 - [Reynhard](https://github.com/reybui)
 - [Ricardo Pinto](https://github.com/ricardobigote)
+- [Ricardo Takara](https://github.com/tiedmud)
 - [Richard Ochola](https://github.com/ochola-rich)
 - [Riddhima Biswas](https://github.com/RiddhimaBiswas)
 - [Rinushan ](https://github.com/2003Rinushan)
