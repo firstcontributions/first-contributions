@@ -871,6 +871,7 @@ Rongxin Zhang
 - [Tushar Moolya](https://github.com/tushiar)
 - [Tushar Qwerty](https://github.com/tushar743-ui)
 - [Tushar Vimalbhai Patel](https://github.com/tushar-patel28)
+- - [RashiBista](https://github.com/your-username)
 - [U Shivakumar](https://github.com/Shivakumarsullagaddi)
 - [Umed Kumar](https://github.com/UmedKumar)
 - [Unigmos](https://github.com/Unigmos)
