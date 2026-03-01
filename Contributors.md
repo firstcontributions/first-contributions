@@ -13,6 +13,7 @@
 - [ARCHANA_GURUSAMY](https://github.com/ARCHANA-SENGUNTHAR)
 - abubakar
 - [ARES](https://github.com/phoenixcodeforces-blip)
+- [Agrim Gupta](https://github.com/AgrimGupta195)
 - [ASaHi Chin](https://github.com/Cxlyq)
 - [Aakash Chauhan](https://github.com/akashinedon)
 - [Aakash Chauhan](https://github.com/akashinedon)
