@@ -557,6 +557,7 @@ Rongxin Zhang
 - [Mwiza Sichinga](https://github.com/Munyuam/)
 - [NIKHIL GAJULA](https://github.com/nikhil07g)
 - [NabilMch](https://github.com/NabilMch)
+- [Nabil Mutawakkil Qisthi](https://github.com/NabilMQ)
 - [Nacho](https://github.com/100550759-commits)
 - [Naga Teja](https://github.com/invariantfields)
 - [Nagaraj](https://github.com/Nagaraj335)
