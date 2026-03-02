@@ -750,6 +750,7 @@ Rongxin Zhang
 - [S-Dedeepya](https://github.com/S-Dedeepya)
 - [SImarjeet Singh Johar](https://github.comSimarjeeSinghJohar)
 - [SWanHK](https://github.com/swanhk)
+- [sachin](https://github.com/sachin)
 - [Sachin vk](https://github.com/sachindasvk)
 - [Kyrillos Hamdy Nassif Hunein](https://github.com/KyrillosHamdy)
 - [Sachin](https://github.com/sachinkashi21)
