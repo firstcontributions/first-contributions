@@ -81,6 +81,7 @@
 - [Aman Singh](https://github.com/Amankumarsingh23)
 - [AmarnathV](https://github.com/amar1009)
 - [Ambar Singh](https://github.com/ambar-singh)
+Chris
 - [Ameer Ali](https://github.com/Ameeeerr)
 - [Amin abdolahi](https://github.com/Amin-Abdolahi)
 - [Amit Kumar Patra](https://github.com/amitkumarpatra99)
