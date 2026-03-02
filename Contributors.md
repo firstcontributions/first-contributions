@@ -354,6 +354,7 @@ Chris
 - [Hyreen Matara](https://github.com/hyreen-web)
 - [I Kanapathipillai](https://github.com/KI-5/)
 - [IRONMAN DEV](https://github.com/IROTECHLAB/)
+- [Itay Ben Daniel](https://github.com/ItayBenDaniel)
 - [ITSMijaiL](https://github.com/ITSMijaiL)
 - [Iam Pranav Yadav](https://github.com/pranav50227)
 - [Ibrahim Oloyede](https://github.com/Mista-Log)
