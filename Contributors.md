@@ -13,6 +13,7 @@
 - [APC](https://github.com/achamberlain04)
 - [ARCHANA_GURUSAMY](https://github.com/ARCHANA-SENGUNTHAR)
 - abubakar
+- [nullora](https://github.com/Nullora)
 - [ARES](https://github.com/phoenixcodeforces-blip)
 - [Agrim Gupta](https://github.com/AgrimGupta195)
 - [ASaHi Chin](https://github.com/Cxlyq)
