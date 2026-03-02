@@ -687,6 +687,7 @@ Rongxin Zhang
 - [RISHAD ROSHAN](https://github.com/rishadroshanpt)
 - [RSM Harsha](https://github.com/rsmharsha)
 - [Rachel Hart](https://github.com/rachelmayhart/)
+- [Rafael Hernandez](https://github.com/rafawashere)
 - [Rafael Veloso](https://github.com/Rafaellinos)
 - [Raghav](https://github.com/Raghav9871)
 - [Rahul Keswani](https://github.com/rahulkeswani010)
