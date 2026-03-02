@@ -465,6 +465,7 @@ Rongxin Zhang
 - [Kyle Boo](https://github.com/bookang869)
 - [Lakan](https://github.com/Jayadityas)
 - [Lakshigan Jeyanth](https://github.com/Jeyanth3)
+- [Lalit Mahajan](https://github.com/lalitmahajn)
 - [Lam Tung Dang](https://github.com/BitOfForest)
 - [Larson](https://github.com/lixianphy)
 - [Lavanya B Y](https://github.com/lavanya23-8)
