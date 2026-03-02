@@ -156,6 +156,7 @@ Chris
 - [Basma BT](https://github.com/Boutaib-Basma)
 - [Bastian Ibañez](https://github.com/bastianibanez)
 - [Behlool](https://github.com/BehloolKhan)
+Ben
 - [Ben Huotari](https://github.com/benhuotari)
 - [BennyJang](https://github.com/BennyJang)
 - [Bethu Sathwika](https://github.com/sathwikabethu)
