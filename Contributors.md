@@ -1118,6 +1118,7 @@ Rongxin Zhang
 - [tharsika](https://github.com/Tharsika21)
 - [umesh reddy](https://github.com/T-UmeshReddy)
 - [uzuraDev](https://github.com/uzuraDev)
+-[lawal_temitope]
 - [valentinfazenda](https://github.com/valentinfazenda)
 - [vivel-blenderlab](https://github.com/vivek-blenderlab)
 - [vivi214](https://github.com/vivi214)
