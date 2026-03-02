@@ -1060,6 +1060,7 @@ Rongxin Zhang
 - [medali213](https://github.com/medali213)
 - [mheavey](https://github.com/mheavey2)
 - [midhun](https://github.com/3idhun)
+- [Tase](https://github.com/Tasesho)
 - [midikaif](https://github.com/midikaif)
 - [mohnish](https://github.com/Mohnish27-dev)
 - [nintrees](https://github.com/nintreesssss)
