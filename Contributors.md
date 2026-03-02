@@ -365,6 +365,7 @@ Chris
 - [Jackie](https://github.com/PyXMR2025)
 - [Jackson Bichard](https://github.com/JacksonBichard)
 - [Jaideep Kalagara](https://github.com/jaideep-kalagara)
+- [James Athanasopoulos](https://github.com/athje001)
 - [James Fan](https://github.com/JamesXuFan)
 - [Jan Michael Sibug](https://github.com/akushilan)
 - [Janvi Chetan Patel](https://github.com/JanviChetanPatel)
