@@ -909,6 +909,7 @@ Rongxin Zhang
 - [Varshith Varma](https://github.com/varshith-uppalapati)
 - [Varun Kumar](https://github.com/kukutapuvarun)
 - [Vasiliki Zagoraiou](https://github.com/vasilikiz5)
+- [Vasya Taburetkin]
 - [Vedant S](https://github.com/1vedantshinde)
 - [Vedika Gupta](https://github.com/VedikaGupt)
 - [Vesmorian Xavier](https://github.com/vaibhavsss)
