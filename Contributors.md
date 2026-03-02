@@ -8,6 +8,8 @@
 - [Sanchana](https://github.com/Sanchana05)
 - [A Szpatowski](https://github.com/aszpatowski)
 - [AC](https://github.com/FortKnoxWasTaken)
+[Prashant Raj][https://github.com/prashantraj4105]
+
 - [AJ Gyro](https://github.com/AJGyro)
 - [AKANKSHA JADHAV](https://github.com/Akankshaa1213)
 - [APC](https://github.com/achamberlain04)
