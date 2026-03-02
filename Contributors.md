@@ -1011,6 +1011,7 @@ Rongxin Zhang
 - [fusionAMAN](https://github.com/fusionAMAN)
 - [fuutot](https://github.com/fuutot)
 - [gatura](https://github.com/gatura-source)
+- [gkrishna247](https://github.com/gkrishna247)
 - [granada1_lnrs](https://github.com/granad1_lnrs)
 - [guerrasz](https://github.com/guerrasz)
 - [happypepii](https://github.com/happypepii)
