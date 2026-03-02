@@ -143,6 +143,7 @@ Chris
 - [Athanasios Daratzikis](https://github.com/ics25026)
 - [Atharv Jadhav](https://github.com/atharv5167)
 - [Atharv Khare](https://github.com/1mystic8u)
+- [Abdul Majid](https://github.com/abdulmajid124)
 - [Athulkrishna](https://github.com/AthulKrishna-736)
 - [AvAdiii](https://github.com/AvAdiii)
 - [Ava16](https://github.com/Ava16)
