@@ -270,6 +270,7 @@ Chris
 - [EdVKu](https://github.com/EdVKu)
 - [Edgar Justus](https://github.com/edgarjustus)
 - [Eduardo](https://github.com/Edd17369)
+- [EduBroilo](https://github.com/EduBroilo)
 - [Elif Ş.](https://github.com/elifsz)
 - [Elijah Weiss](https://github.com/eweiss4)
 - [Elijah](https://github.com/Elijah647)
