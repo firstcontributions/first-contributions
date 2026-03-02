@@ -804,6 +804,7 @@ Rongxin Zhang
 - [Sherry](https://github.com/zsylllike-sketch)
 - [Shiv Raj Singh](https://github.com/imuniqueshiv)
 - [Shiva](https://github.com/sh1vananda)
+[sizi.blue](https://github.com/simiz13)
 - [Shivam](https://github.com/ShivamJhaXXIII)
 - [Shivansh Gupta](https://github.com/Krish1022sona)
 - [Shlok Gupta](https://github.com/LogicHymn)
