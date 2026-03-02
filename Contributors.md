@@ -11,7 +11,6 @@
 - [Mr Vi](https://github.com/mrvi0) - 🐈 Hello from Saint-Petersburg! Microservices architect and Python developer passionate about automation, bots, and web technologies. Building the future one service at a time! 🚀
 Hello world.I'm Rohith and this is my first open source contribution on (7/8/2025). Code for good!!. Peace ppl.
 -[Shalabh Ranjan](https://github.com/ShalabhRanjan19)- Hello ! This is my first open source contribution!
--[Shelly Srivastava](https://github.com/shellsri)- Hello !
 - [Omotayo Emmanuel](https://github.com/ecodes-max) - Hey guys this is my first contribution to an opensource work on 7/6/2025
 - [Huerte](https://github.com/Huerte) – Hello everyone! I hope that one day I can look back at this moment, remember all the hard work and sacrifices, and see how it helped make my dreams come true. (7/7/2025)
 - [Mohit Suthar](https://github.com/MohitSutharOfficial) - Hello, World! This is my first contribution to open source on 06/07/2025!
@@ -55,6 +54,7 @@ Hello world.I'm Rohith and this is my first open source contribution on (7/8/202
 - [RamonMarino] (https://github.com/RamonMarino3005)
 -[Tawsia](https://github.com/tawsia)- First Contribution Ever. 03-07-2025
 -[Gilbert] (https://github.com/Girome01) -Hello, first contribution to open source date - 02/07/2025
+-[Shelly Srivastava](https://github.com/shellsri)- Hello !my firsst contribution
 -[Ali] (https://github.com/ali8646) - 
   Hemank 
 -[reza] (https://github.com/rez-w-laban) - hi very excited to start my journey!! 
