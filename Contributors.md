@@ -681,6 +681,7 @@ Rongxin Zhang
 - [Qilong Zhang](https://github.com/hrtdream)
 - [QingKong996](https://github.com/QingKong996)
 - [Quisim Bryant](https://github.com/quisimbryant)
+- [Rossen Lin](https://github.com/Rossen27)
 - [R.M.S.S.Kumara](https://github.com/SajithK203)
 - [RISHAD ROSHAN](https://github.com/rishadroshanpt)
 - [RSM Harsha](https://github.com/rsmharsha)
