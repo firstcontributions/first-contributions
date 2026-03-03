@@ -1191,4 +1191,5 @@ Rongxin Zhang
 - [Mateusz Miszuta](https://github.com/MrRecu)
 - [Anthony Cubillas](https://github.com/atthatonedude)
 - [Hypernova-Developer](https://github.com/hypernova-developer)
+- [Adarsh-Agrawal](https://github.com/adarsh02o)
 - [Rola Hadidy](https://github.com/rolahadidy44)
