@@ -25,7 +25,6 @@
 - [ASaHi Chin](https://github.com/Cxlyq)
 - [Aakash Chauhan](https://github.com/akashinedon)
 - [Aakash Chauhan](https://github.com/akashinedon)
-- [Aditi KC] (https://github.com/Swiperrr)
 - [Aaliyah Raheem](https://github.com/aaliot)
 - [Aamir](https://github.com/AamirMNAamir)
 - [Aayush Patel](https://github.com/Aayush1302)s
@@ -47,6 +46,7 @@
 - [Miwa Miwa](https://github.com/miwadharod)
 - [Adarsh84](https://github.com/adarshM84)
 - [Adi Singh](https://github.com/adisingh0824)
+- [Aditi KC](https://github.com/Swiperrr)
 - [Aditi Kumari](https://github.com/Aditik081)
 - [Aditya Das](https://github.com/AdityaDas496)
 - [Aditya Karan](https://github.com/Karan2805-glitch)
