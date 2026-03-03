@@ -1190,3 +1190,4 @@ Rongxin Zhang
 - [Mateusz Miszuta](https://github.com/MrRecu)
 - [Anthony Cubillas](https://github.com/atthatonedude)
 - [Hypernova-Developer](https://github.com/hypernova-developer)
+- [Rola Hadidy](https://github.com/rolahadidy44)
