@@ -153,6 +153,7 @@ Chris
 - [Avatar](https://github.com/ayush1944)
 - [Ayananth](https://github.com/Ayananth)
 - [Ayisha Nasreen N](https://github.com/ayishanasreen828-sketch)
+- [Ayush Basak](https://github.com/AyushBasak001)
 - [Ayush Bundela](https://github.com/heyush79)
 - [Ayush Maurya](https://github.com/ayush3739)
 - [Ayush Sonone](https://github.com/TheCodingAyush)
