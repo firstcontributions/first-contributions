@@ -10,7 +10,6 @@
 - [AC](https://github.com/FortKnoxWasTaken)
 [Prashant Raj][https://github.com/prashantraj4105]
 - [RandomAimXD](https://github.com/RandomAimXD)
-
 - [AJ Gyro](https://github.com/AJGyro)
 - [AKANKSHA JADHAV](https://github.com/Akankshaa1213)
 - [APC](https://github.com/achamberlain04)
@@ -1120,6 +1119,7 @@ Rongxin Zhang
 - [wospunt](https://github.com/wospunt)
 - [wp](https://github.com/wpfdxl)
 - [xRookieFight](https://github.com/xRookieFight)
+- [xyslqy](https://github.com/xyslqy)
 - [yaeth](https://github.com/yaeth)
 - [yashasvi Lamba ](https://github.com/Yashasvi767)
 - [yashpr349](https://github.com/yashpr349)
