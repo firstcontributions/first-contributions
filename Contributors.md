@@ -342,6 +342,7 @@ Ben
 - [Harsha](https://github.com/Harsha1849)
 - [Harshajith Dhahammina](https://github.com/harshajith04)
 - [Harshit Chauhan](https://github.com/harshitchauhann)
+- [Hahaysh](https://github.com/hahaysh)
 - [Hemaksh Sharma](https://github.com/Hemaksh69)
 - [Hemanth Kumar](https://github.com/h3manth-kumar)
 - [Hemendar](https://github.com/hemendar1)
