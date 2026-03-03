@@ -1178,3 +1178,4 @@ Rongxin Zhang
 - [Furkan Yilmaz](https://github.com/coderfeye13)
 - [dimentr](https://github.com/Dimonstraci)
 - [Jeevan M](https://github.com/Jeevanm2004)
+- [Mateusz Miszuta](https://github.com/MrRecu)
