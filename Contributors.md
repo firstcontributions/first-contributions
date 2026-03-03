@@ -1200,4 +1200,3 @@ Rongxin Zhang
 - [Hypernova-Developer](https://github.com/hypernova-developer)
 - [Rola Hadidy](https://github.com/rolahadidy44)
 - [UserAmuser909](https://github.com/UserAmuser909)
-- [Enrique Carrillo](https://github.com/kikecv)
