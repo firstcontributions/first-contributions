@@ -48,6 +48,7 @@
 - [Adi Singh](https://github.com/adisingh0824)
 - [Aditi KC](https://github.com/Swiperrr)
 - [Aditi Kumari](https://github.com/Aditik081)
+- [Anukriti Thapa](https://github.com/Anukriti62)
 - [Aditya Das](https://github.com/AdityaDas496)
 - [Aditya Karan](https://github.com/Karan2805-glitch)
 - [Aditya Nautiyal](https://github.com/AdityaNautiyal908)
