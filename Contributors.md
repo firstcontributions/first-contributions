@@ -136,6 +136,7 @@ Chris
 - [Ashigaraj](https://github.com/ashigaraj)
 - [Ashiq](https://github.com/devopashiq)
 - [Ashutosh Jha](https://github.com/ashutoshh-jhaa)
+- [Atharva Goel](https://github.com/AtharvaATL2011)
 - [Ashwin Raj](https://github.com/ashwinraj8090)
 - [Ashwith Godishala](https://github.com/GodishalaAshwith)
 - [Ashzad Kamal](https://github.com/ashzad123)
