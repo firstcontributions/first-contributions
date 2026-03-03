@@ -503,6 +503,7 @@ Rongxin Zhang
 - [M. Valentino](https://github.com/MarinoValentino)
 - [MACantara](https://github.com/MACantara)
 - [MC_CLINT](https://github.com/MC-CLINT)
+- [maaz](https://github.com/syed-mohammed-maaz)
 - [Madhav Singh](https://github.com/maddy710)
 - [Madhusudhanan](https://github.com/Madhu192005)
 - [Magonborn](https://github.com/MagonBorn)
