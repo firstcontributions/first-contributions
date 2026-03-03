@@ -11,7 +11,7 @@
 - [AC](https://github.com/FortKnoxWasTaken)
 [Prashant Raj][https://github.com/prashantraj4105]
 - [RandomAimXD](https://github.com/RandomAimXD)
-
+- [RibelAI](https://github.com/RibelAI)
 - [AJ Gyro](https://github.com/AJGyro)
 - [Akshat Singhai](https://github.com/akshatsinghai6682-sketch)
 - [AKANKSHA JADHAV](https://github.com/Akankshaa1213)
