@@ -796,6 +796,7 @@ Rongxin Zhang
 - [Seul](https://github.com/seulahn)
 - [ShahabKiyani](https://github.com/shahabKiyani)
 - [Shahar Yosef](https://github.com/shaharyosef)
+- [Shahid Malik](https://github.com/SHAHID-glitch)
 - [ShaiQ Shah](https://github.com/shahshaiq)
 - [Shaj2311](https://github.com/Shaj2311)
 - [Shakthi Lakshmanan V](https://github.com/Shakthi-lakshmanan-2006)
