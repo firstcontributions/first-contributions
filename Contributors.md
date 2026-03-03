@@ -267,6 +267,7 @@ Chris
 - [Durjoy Kumar](https://github.com/DurjoyKumar177)
 - [Dustin Ober](https://github.com/dustinober1)
 - [Dzmitry Mukhin](https://github.com/divmone)
+- [EagleStrike33](https://github.com/EagleStrike33)
 - [EB](https://github.com/boranj)
 - [EM KalpaniEkanayake](https://github.com/Kalpiekanayake)
 - [EdVKu](https://github.com/EdVKu)
