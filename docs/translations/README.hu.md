@@ -12,7 +12,7 @@ A projekt célja, hogy útmutatást nyújtson, egyszerűsítse és segítse a ke
 
 #### *Ha a parancssor kényelmetlen, [itt egy tutorial a GUI felület használatához.](#Oktatóanyagok-más-eszközök-használatával)*
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="oszd meg ezt a tárat" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="ágaztasd el ezt a tárolót" />
 
 Ha nincs a gépeden git, [telepítsd fel]( https://help.github.com/articles/set-up-git/).
 
@@ -66,7 +66,7 @@ git switch -c add-gabor-takacs
 
 Nyisd meg a `Contributors.md` fájlt egy szövegszerkesztőben, majd add hozzá a neved. Ne a fájl elejére vagy végére helyezd, hanem a kettő közé. A kettő között bárhová teheted. Mentsd el a fájlt.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git állapot" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git állapota" />
 
 
 Ha a project könyvtárába navigálsz és futtatod a `git status` parancsot, akkor a következő módosításokat fogod látni:
