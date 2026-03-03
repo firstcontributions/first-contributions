@@ -25,6 +25,7 @@
 - [ASaHi Chin](https://github.com/Cxlyq)
 - [Aakash Chauhan](https://github.com/akashinedon)
 - [Aakash Chauhan](https://github.com/akashinedon)
+- [Aditi KC] (https://github.com/Swiperrr)
 - [Aaliyah Raheem](https://github.com/aaliot)
 - [Aamir](https://github.com/AamirMNAamir)
 - [Aayush Patel](https://github.com/Aayush1302)s
