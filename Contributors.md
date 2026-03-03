@@ -1183,3 +1183,4 @@ Rongxin Zhang
 - [dimentr](https://github.com/Dimonstraci)
 - [Jeevan M](https://github.com/Jeevanm2004)
 - [Mateusz Miszuta](https://github.com/MrRecu)
+- [Hypernova-Developer](https://github.com/hypernova-developer)
