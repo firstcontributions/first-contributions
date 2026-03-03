@@ -1,4 +1,5 @@
 # Contributors
+
 - [midikaif](https://github.com/midikaif)
 - [yjh7979](https://github.com/yjh7979)
 - [1828](https://github.com/18-28)
@@ -19,6 +20,7 @@
 - [APC](https://github.com/achamberlain04)
 - [ARCHANA_GURUSAMY](https://github.com/ARCHANA-SENGUNTHAR)
 - abubakar
+- [sancer](https://github.com/SantCer/first-contributions.git)
 - [Senadeera-NK](https://github.com/Senadeera-NK)
 - [nullora](https://github.com/Nullora)
 - [ARES](https://github.com/phoenixcodeforces-blip)
