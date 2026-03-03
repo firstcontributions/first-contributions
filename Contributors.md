@@ -1168,6 +1168,7 @@ Rongxin Zhang
 - [张喜昌](https://github.com/ZhangXiChang)
 - [zmj](https://github.com/ACM202309060114)
 - [원세영](https://github.com/seyoung5744)
+- [Kaison Liu](https://github.com/capton586)
 - [🔗 Armaan Singh Klair](https://github.com/ArmaanSinghKlair)
 - [Abdelrahman_Mohye](https://github.com/aboda-0100011) 
 - [Madhav Choudhry](https://github.com/madhavchoudhry23)
