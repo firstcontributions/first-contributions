@@ -365,6 +365,7 @@ Ben
 - [IRONMAN DEV](https://github.com/IROTECHLAB/)
 - [Itay Ben Daniel](https://github.com/ItayBenDaniel)
 - [ITSMijaiL](https://github.com/ITSMijaiL)
+- [Aditi Thakare](https://github.com/aditithakare2004)
 - [Iam Pranav Yadav](https://github.com/pranav50227)
 - [Ibrahim Oloyede](https://github.com/Mista-Log)
 - [Imanol57864](https://github.com/Imanol57864)
