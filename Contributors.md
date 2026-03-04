@@ -1,4 +1,5 @@
 # Contributors
+- [Mrrrrrrt](https://github.com/Mrrrrrrt)
 - [Bhavesh Gajengi](https://github.com/BhaveshGajengi1)
 - [Anand Mani](https://github.com/astromani721)
 - [midikaif](https://github.com/midikaif)
@@ -1188,6 +1189,7 @@ Rongxin Zhang
 - [Madhav Choudhry](https://github.com/madhavchoudhry23)
 - [Rayhan Islam Rabby](https://github.com/rayhanislamrabby)
 - Omnia Hussein
+- [Vafly3](https://github.com/Vafly3)
 -[HemawarshiniMahendran](https://github.com/Hemamahe07)
 -[renya peter](https://github.com/renyapeter)
 - [jangjohn](https://github.com/jangjohn)
@@ -1224,4 +1226,5 @@ Rongxin Zhang
 - [nush1729](https://github.com/nush1729)
 - [Moh](https://github.com/mohmohwin2010)
 - [Rezwan Mahmud](https://github.com/rezwan0x01)
-
+- [OwlUniversal](https://github.com/OwlUniversal)
+- [Vedansh Singhal](https://github.com/vedanshh16)
