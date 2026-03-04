@@ -499,6 +499,7 @@ Rongxin Zhang
 - [Lalit Mahajan](https://github.com/lalitmahajn)
 - [Lam Tung Dang](https://github.com/BitOfForest)
 - [Larson](https://github.com/lixianphy)
+- [Laura Vazquez](https://github.com/lauravazquezp)
 - [Lavanya B Y](https://github.com/lavanya23-8)
 - [Leo Xu](https://github.com/LeoXu8)
 - [Likhith S Gowda](https://github.com/Likhi2005)
