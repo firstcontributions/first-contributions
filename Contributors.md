@@ -878,6 +878,7 @@ Rongxin Zhang
 - [Sumer](https://github.com/SumerSabharwal)
 - [Sumit Mishra](https://github.com/SumitM01)
 - [Sunil](https://github.com/Sunil0620)
+- [SungHo.You](https://github.com/hahaysh)
 - [Suraj Kumar Singh Tamni san](https://github.com/sono-mono)
 - [Sushit Lal Pakrashy](https://github.com/Sushit-prog)
 - [Sushka_s_makom](https://github.com/Sushka_s_makom)
