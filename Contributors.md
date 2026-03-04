@@ -1233,3 +1233,4 @@ Rongxin Zhang
 - [OwlUniversal](https://github.com/OwlUniversal)
 - [Vedansh Singhal](https://github.com/vedanshh16)
 - [Bruno Figueiredo](https://github.com/BrunollFigueiredo)
+- [Samiya Kazi](https://github.com/samiyamalikkazi)
