@@ -757,6 +757,7 @@ Rongxin Zhang
 - [Roshan Jha](https://github.com/rosh-py)
 - [Roshan Kumar](https://github.com/roshan-zest)
 - [RubenDev25](https://github.com/RubenDev25)
+- [Ruben Garcia](https://github.com/rgarcr)
 - [Rudra](https://github.com/Rudra-cryptx)
 - [Ryan Fernando](https://github.com/RyanJFM)
 - [Ryan Gapp](https://github.com/ryan-gapp)
