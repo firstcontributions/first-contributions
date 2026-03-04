@@ -400,6 +400,7 @@ Ben
 - [Janvi Chetan Patel](https://github.com/JanviChetanPatel)
 - [Jason Wang](https://github.com/Jiachenw399)
 - [Jason Wiggs](https://github.com/wiggs30)
+- [Jason Lee](https://github.com/DS-J-L) 
 - [Jayaditya Sahu](https://github.com/Jayadityas)
 - [Jayanth](https://github.com/MUNJETIJAYANTHKRISHNA)
 - [Jayesh Patil](https://github.com/JayeshPatil163)
