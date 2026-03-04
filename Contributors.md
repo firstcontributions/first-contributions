@@ -1234,3 +1234,4 @@ Rongxin Zhang
 - [Vedansh Singhal](https://github.com/vedanshh16)
 - [Bruno Figueiredo](https://github.com/BrunollFigueiredo)
 - [Samiya Kazi](https://github.com/samiyamalikkazi)
+- [Aaditri Kumari Yadav](https://github.com/caetty01)
