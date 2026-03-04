@@ -1226,3 +1226,4 @@ Rongxin Zhang
 - [Moh](https://github.com/mohmohwin2010)
 - [Rezwan Mahmud](https://github.com/rezwan0x01)
 - [OwlUniversal](https://github.com/OwlUniversal)
+- [Vedansh Singhal](https://github.com/vedanshh16)
