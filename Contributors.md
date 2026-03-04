@@ -16,6 +16,7 @@
 - [AJ Gyro](https://github.com/AJGyro)
 - [Akshat Singhai](https://github.com/akshatsinghai6682-sketch)
 - [AKANKSHA JADHAV](https://github.com/Akankshaa1213)
+- [Aditya Zala](https://github.com/AdityaZala3919)
 - [APC](https://github.com/achamberlain04)
 - [ARCHANA_GURUSAMY](https://github.com/ARCHANA-SENGUNTHAR)
 - abubakar
