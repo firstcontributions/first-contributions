@@ -631,6 +631,7 @@ Rongxin Zhang
 - [Niraj Mahajan](https://github.com/niraj-mx07)
 - [Nirbhay Bawankule](https://github.com/NirbhayBawankule)
 - [Nischal Binil](https://github.com/cinnamonMuffin)
+- [Nishant Tiwari](https://github.com/Nishant-2608)
 - [Nishant K Joshyabhatla](https://github.com/nishantkj911)
 - [Nishant khatri](https://github.com/nishant-khatri17)
 - [Nishant kumar](https://github.com/nishantraj06)
