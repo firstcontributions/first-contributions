@@ -95,6 +95,7 @@
 - [AmarnathV](https://github.com/amar1009)
 - [Ambar Singh](https://github.com/ambar-singh)
 Chris
+- [Santosh M Savalgi](https://github.com/Santosh-M-Savalgi)
 - [Ameer Ali](https://github.com/Ameeeerr)
 - [Amin abdolahi](https://github.com/Amin-Abdolahi)
 - [Amit Kumar Patra](https://github.com/amitkumarpatra99)
