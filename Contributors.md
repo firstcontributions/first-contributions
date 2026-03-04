@@ -388,6 +388,7 @@ Ben
 - [Ivanich0](https://github.com/Ivanich0)
 - [Iweisc](https://github.com/Iweisc)
 - [Iyed Rabia](https://github.com/Iyed-Rb)
+- [Jinnarajin] (https://github.com/jinnarajin)
 - [JASP-R](https://github.com/JASP-R)
 - [JBetz-Dev](https://github.com/JBetz-Dev)
 - [JJFJ](https://github.com/PugKing22)
