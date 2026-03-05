@@ -295,6 +295,7 @@ Ben
 - [Dustin Ober](https://github.com/dustinober1)
 - [Dzmitry Mukhin](https://github.com/divmone)
 - [EagleStrike33](https://github.com/EagleStrike33)
+- [Dylan Moore](https://github.com/dylanm3)
 - [EB](https://github.com/boranj)
 - [EM KalpaniEkanayake](https://github.com/Kalpiekanayake)
 - [EdVKu](https://github.com/EdVKu)
