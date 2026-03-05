@@ -1173,6 +1173,7 @@ Rongxin Zhang
 - [vivi214](https://github.com/vivi214)
 - [vondar](https://github.com/vondar)
 - [webmastervetea](https://github.com/webmastervetea)
+- [Phenyo Morulane](https://github.com/spoja-10)
 - [wllzhang](https://github.com/wllzhang)
 - [wonathan](https://github.com/threestuff)
 - [wospunt](https://github.com/wospunt)
@@ -1248,3 +1249,4 @@ Rongxin Zhang
 - [Mithilesh lohar](https://github.com/mithlohar144)
 - [OSoufian](https://github.com/OSoufian)
 - [Aza145](https://github.com/aza145)
+- [alok-ranjan](https://github.com/alokranjan89)
