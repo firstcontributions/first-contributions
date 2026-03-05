@@ -16,7 +16,7 @@
 - [Sanchana](https://github.com/Sanchana05)
 - [A Szpatowski](https://github.com/aszpatowski)
 - [AC](https://github.com/FortKnoxWasTaken)
-[Prashant Raj][https://github.com/prashantraj4105]
+- [Prashant Raj](https://github.com/prashantraj4105)
 - [RandomAimXD](https://github.com/RandomAimXD)
 - [RibelAI](https://github.com/RibelAI)
 - [AJ Gyro](https://github.com/AJGyro)
@@ -29,6 +29,7 @@
 - [ARCHANA_GURUSAMY](https://github.com/ARCHANA-SENGUNTHAR)
 - abubakar
 - [Senadeera-NK](https://github.com/Senadeera-NK)
+- [Diler Singh](https://github.com/DilerAzad)
 - [Aman Parganiha](https://github.com/amanparganiha)
 - [nullora](https://github.com/Nullora)
 - [ARES](https://github.com/phoenixcodeforces-blip)
@@ -41,7 +42,7 @@
 - [Aayush Patel](https://github.com/Aayush1302)s
 - [Aaqib Patel](https://github.com/aaqibp)
 - [Abdelrahman Moubarak](https://github.com/amoub-arak2608)
-- [Md. Ashraful Islam] (https://github.com/ashrafulislambd)
+- [Md. Ashraful Islam](https://github.com/ashrafulislambd)
 - [Abdessamad-Mechouahi](https://github.com/abdessamad-26)
 - [Abdoulaye](https://github.com/elhadjdiab)
 - [Abdullahil Baki](https://github.com/abdullahilbaki)
@@ -103,7 +104,6 @@
 - [Aman Singh](https://github.com/Amankumarsingh23)
 - [AmarnathV](https://github.com/amar1009)
 - [Ambar Singh](https://github.com/ambar-singh)
-Chris
 - [Santosh M Savalgi](https://github.com/Santosh-M-Savalgi)
 - [Ameer Ali](https://github.com/Ameeeerr)
 - [Amin abdolahi](https://github.com/Amin-Abdolahi)
@@ -185,7 +185,6 @@ Chris
 - [Basma BT](https://github.com/Boutaib-Basma)
 - [Bastian Ibañez](https://github.com/bastianibanez)
 - [Behlool](https://github.com/BehloolKhan)
-Ben
 - [Ben Huotari](https://github.com/benhuotari)
 - [BennyJang](https://github.com/BennyJang)
 - [Bethu Sathwika](https://github.com/sathwikabethu)
