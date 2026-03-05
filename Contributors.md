@@ -1247,6 +1247,6 @@ Rongxin Zhang
 - [Nanki-nn](https://github.com/Nanki-nn)
 - [Anna Chong](https://github.com/DsharpMaj7)
 - [Mithilesh lohar](https://github.com/mithlohar144)
-- [OSoufian](https://github.com/OSoufian)
 - [Aza145](https://github.com/aza145)
 - [alok-ranjan](https://github.com/alokranjan89)
+- [OSoufian](https://github.com/OSoufian)
