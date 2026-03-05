@@ -2,7 +2,7 @@
 - [Mrrrrrrt](https://github.com/Mrrrrrrt)
 - [Justin Morphosis](https://github.com/justinmorphosis)
 - [Bhavesh Gajengi](https://github.com/BhaveshGajengi1)
-- Abdul Muqeet K B
+- [Abdul Muqeet K B](https://github.com/muqeet-27)
 - [Anand Mani](https://github.com/astromani721)
 - [midikaif](https://github.com/midikaif)
 - [yjh7979](https://github.com/yjh7979)
