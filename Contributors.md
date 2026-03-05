@@ -5,6 +5,7 @@
 - [Anand Mani](https://github.com/astromani721)
 - [midikaif](https://github.com/midikaif)
 - [yjh7979](https://github.com/yjh7979)
+- Max
 - [1828](https://github.com/18-28)
 - [1ESA1](https://github.com/1ESA1)
 - [Gabriele Ferrero](https://github.com/devgfe)
