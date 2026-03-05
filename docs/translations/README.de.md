@@ -75,7 +75,7 @@ git checkout -b dein-neuer-zweig-name
 
 </details>
 
-## Make necessary changes and commit those changes
+## Mache notwendige veränderungen und commit diese
 
 Öffne nun die Datei `Contributors.md` in einem Texteditor und füge deinen Namen hinzu. Füge ihn nicht ganz am Anfang oder am Ende hinzu, sondern irgendwo dazwischen, mittendrin. Speichere jetzt die Datei.
 
