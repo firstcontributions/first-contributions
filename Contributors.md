@@ -1239,3 +1239,4 @@ Rongxin Zhang
 - [Samiya Kazi](https://github.com/samiyamalikkazi)
 - [Aaditri Kumari Yadav](https://github.com/caetty01)
 - [s-kyli](https://github.com/s-kyli)
+- [Anna Chong](https://github.com/DsharpMaj7) - Favorite song: Still got the blues by Gary Moore
