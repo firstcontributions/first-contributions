@@ -19,6 +19,7 @@
 - [RandomAimXD](https://github.com/RandomAimXD)
 - [RibelAI](https://github.com/RibelAI)
 - [AJ Gyro](https://github.com/AJGyro)
+- [Leon](https://github.com/Leonels12)
 - [Akshat Singhai](https://github.com/akshatsinghai6682-sketch)
 - [AKANKSHA JADHAV](https://github.com/Akankshaa1213)
 - [Aditya Zala](https://github.com/AdityaZala3919)
