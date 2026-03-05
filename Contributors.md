@@ -6,6 +6,7 @@
 - [yjh7979](https://github.com/yjh7979)
 - [1828](https://github.com/18-28)
 - [1ESA1](https://github.com/1ESA1)
+- [Gabriele Ferrero](https://github.com/devgfe)
 - [2003myriam](https://github.com/2003myriam)
 - [mananjp](https://github.com/mananjp)
 - [24f3003274-RISHABH](https://github.com/24f3003274-RISHABH)
