@@ -1260,3 +1260,5 @@ Rongxin Zhang
 -[Shivani Srivastava](https://github.com/Kiwi-Supreme)
 -[rays27-web](https://github.com/rays27-web)
 -[Vivek Raj](https://github.com/vivekraj3456)
+-[Mandela Pulei](github.com/Oleysank)
+
