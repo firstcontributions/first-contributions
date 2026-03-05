@@ -1,5 +1,6 @@
 # Contributors
 - [Mrrrrrrt](https://github.com/Mrrrrrrt)
+- [Justin Morphosis](https://github.com/justinmorphosis)
 - [Bhavesh Gajengi](https://github.com/BhaveshGajengi1)
 - [Anand Mani](https://github.com/astromani721)
 - [midikaif](https://github.com/midikaif)
@@ -1240,3 +1241,5 @@ Rongxin Zhang
 - [Aaditri Kumari Yadav](https://github.com/caetty01)
 - [s-kyli](https://github.com/s-kyli)
 - [Shreya](https://github.com/shre9244)
+- [Nanki-nn](https://github.com/Nanki-nn)
+- [Anna Chong](https://github.com/DsharpMaj7)
