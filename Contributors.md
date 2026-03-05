@@ -348,6 +348,7 @@ Ben
 - [Gxelol](https://github.com/Gxelol)
 - [Gyan Prakash](https://github.com/Gyanprakash136)
 - [Gyanam Bhalgat](https://github.com/Gyanam1310)
+- [Harish Wargad](https://github.com/harishwargad)
 - [Haddadi Houcine](https://github.com/Houcine0x7)
 - [Hafsa Irfan](https://github.com/hafxa)
 - [HaidarAbbas](https://github.com/Haidarabbas731)
