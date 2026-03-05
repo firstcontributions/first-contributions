@@ -255,6 +255,7 @@ Ben
 - [Dev Goel](https://github.com/404Dev-notFound)
 - [Dev Goyal](https://github.com/DevGoyal9238)
 - [Devanshu](https://github.com/devanshu23bcs030)
+- [EndriuK](https://github.com/EndriuK)
 - [Devashish Gupta](https://github.com/sudo-verse)
 - [Devendra](https://github.com/devendrajadhav2470)
 - [Devesh Jain](https://github.com/jaindevesh144)
