@@ -1,5 +1,6 @@
 # Contributors
 - [Mrrrrrrt](https://github.com/Mrrrrrrt)
+- [Justin Morphosis](https://github.com/justinmorphosis)
 - [Bhavesh Gajengi](https://github.com/BhaveshGajengi1)
 - [Anand Mani](https://github.com/astromani721)
 - [midikaif](https://github.com/midikaif)
