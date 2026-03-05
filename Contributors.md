@@ -27,6 +27,7 @@
 - [ARCHANA_GURUSAMY](https://github.com/ARCHANA-SENGUNTHAR)
 - abubakar
 - [Senadeera-NK](https://github.com/Senadeera-NK)
+- [Aman Parganiha](https://github.com/amanparganiha)
 - [nullora](https://github.com/Nullora)
 - [ARES](https://github.com/phoenixcodeforces-blip)
 - [Agrim Gupta](https://github.com/AgrimGupta195)
