@@ -632,6 +632,7 @@ Rongxin Zhang
 - [Mridul Narain](https://github.com/narainmridul)
 - [Mrityunjay Sahani](https://github.com/mritunjaysahani)
 - [Mrunal Jadhav](https://github.com/mrunaljadhav)
+- [Jeet Jawale](https://github.com/jeetjawale)
 - [Mudipelly Shiva](https://github.com/shivamudipelly)
 - [Muhammad Ali](https://github.com/Sudo-Ali-Dev)
 - [Muhammad Ayyub](https://github.com/devmab24)
