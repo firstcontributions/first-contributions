@@ -1,4 +1,5 @@
 # Contributors
+- [Ammar Tafoiki](https://github.com/ammar116/)
 - [Jack Johnson](https://github.com/norvest06)
 - [Ibrahim Ibn Tanweer Almadani](https://github.com/24f1001980)
 - [Abdelhamid Ellab](https://github.com/Abdelhamid04)
