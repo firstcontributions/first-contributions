@@ -143,6 +143,7 @@ Chris
 - [Anidu](https://github.com/Anidu07)
 - [Anirudh Panigrahi](https://github.com/Anirudh-020505)
 - [Anish Banda](https://github.con/anishbanda)
+- [Anish Dharu](https://github.com/AnishDharu)
 - [Anjesh Ranjan Dash ](https://github.com/AnjeshDash)
 - [Praveen Agrawal](https://github.com/agrawalpraveen12)
 - [Ankit Ghosal](https://github.com/ankitghosal82)
@@ -1316,3 +1317,4 @@ Rongxin Zhang
 - [priyanshuanubis](https://github.com/priyanshuanubis)
 - [Cindy Orangis](https://github.com/cindyorangis)
 - [Sapavat Anji](https://github.com/Sapavat-A)
+
