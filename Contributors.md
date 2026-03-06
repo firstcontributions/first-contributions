@@ -1,4 +1,5 @@
 # Contributors
+- [Jack Johnson](https://github.com/norvest06)
 - [Abdelhamid Ellab](https://github.com/Abdelhamid04)
 - [Alice-Chxn](https://github.com/alicechan-dev)
 - [Aman Jha](https://github.com/ajha19)
