@@ -1,5 +1,6 @@
 # Contributors
 - [Jack Johnson](https://github.com/norvest06)
+- [Ibrahim Ibn Tanweer Almadani](https://github.com/24f1001980)
 - [Abdelhamid Ellab](https://github.com/Abdelhamid04)
 - [Alice-Chxn](https://github.com/alicechan-dev)
 - [Aman Jha](https://github.com/ajha19)
