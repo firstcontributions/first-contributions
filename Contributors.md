@@ -463,7 +463,7 @@ Ben
 - [Johanna Mihi](https://github.com/23f2004058)
 - [Miruthul N V](https://github.com/23f2002007)
 - [John Dennehy] (https://github.com/JohnDennehy101)
-- [Vitali K] (https://github.com/captainvita)
+- [Vitali K](https://github.com/captainvita)
 - [John Maar](https://github.com/JTylM)
 - [John Mixon](https://github.com/mixdev2112)
 - [Johnathon Sperandio](https://github.com/Johnathon-Sperandio)
