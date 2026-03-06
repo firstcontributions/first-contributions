@@ -1,4 +1,5 @@
 # Contributors
+- [Scott Boudreaux (Elyan Labs)](https://github.com/Scottcjn)
 - [Avuram Chandra Mohan Reddy](https://github.com/chandramohan385)
 - [Prashant Kumar Tuhania](https://github.com/prashantkumar342)
 - [Mrrrrrrt](https://github.com/Mrrrrrrt)
