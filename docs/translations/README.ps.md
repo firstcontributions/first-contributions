@@ -1,145 +1,166 @@
-<div dir="rtl" lang="ps">
+[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
-<a href="https://github.com/ellerbrock/open-source-badges/">
-  <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source Love" />
-</a>
-<a href="https://opensource.org/licenses/MIT">
-  <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="MIT License" />
-</a>
-<a href="https://www.codetriage.com/roshanjossey/first-contributions">
-  <img src="https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg" alt="Open Source Helpers" />
-</a>
 
----
+# First Contributions
 
-## لومړی ګډون
+Dieses Projekt zielt darauf ab, Anfängern den Einstieg zu erleichtern und sie bei ihrem ersten Beitrag zu unterstützen. Wenn du deinen ersten Beitrag leisten möchten, befolge die folgenden Schritte.
 
-**د دې پروژې هدف دا دی چې نویو ګډونوالو ته په خلاصو سرچینو پروژو (Open Source Projects) کې د ګډون اسانه طریقه وښيي.**  
-که غواړئ خپله لومړنۍ مرسته وکړئ، لاندې ګامونه تعقیب کړئ.
+_Wenn du nicht weißt wie man das Terminal/CMD bedient, [hier findest du Anleitungen für GUI Tools.](#Anleitungen-für-andere-Tools)_
 
-**که د کمانډ لاین (CLI) سره راحت نه یاست،**  
-[کولی شئ تصویري لارښود دلته وګورئ](https://github.com/firstcontributions/first-contributions#tutorials-using-other-tools)
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="Forke dieses Repository" />
 
-**که مو Git انسټال نه وي،**  
-[له دې ځایه یې ښکته او نصب کړئ](https://help.github.com/articles/set-up-git/).
+#### Wenn du Git nicht auf deinem System installiert hast, [installiere es](https://...github.com/en/get-started/quickstart/set-up-git).
 
-## دا ذخیره (repository) فورک کړئ
+## Forke dieses Repository
 
-<img align="left" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="د دې زیرمې فورک کول" />
+Forke dieses Repository indem du auf den Fork Button oben auf dieser Seite klickst.
+Dies wird eine Kopie dieses Repository's in deinem Account erstellen.
 
-- د دې پاڼې په سر کې د Fork تڼۍ کلیک کړئ.
-- فورک کول به د دې ذخیرې یوه کاپي ستاسو د GitHub اکاونټ ته انتقال کړي.
+## Klone das Repository
 
-<br clear="all"/>
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="Klone dieses Repository" />
 
-## دا ذخیره (repository) کلون کړئ
+Klone jetzt das geforkte Repository auf deinen Computer. Gehe zu deinem Github Account, öffne das geforkte Repository, drücke auf den Code Button, dann auf den SSH Tab und dann drücke auf das _copy url to clipboard_ icon.
 
-<img align="left" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="د دې زیرمې کلون کول" />
-
-- خپل اکاونټ ته لاړ شئ او د فورک شوې ذخیرې لینک د **Code** تڼۍ څخه کاپي کړئ.
-
-<br clear="all"/>
-
-- ترمینل یا CMD خلاص کړئ او دا کمانډ اجرا کړئ:
+Öffne ein Terminal Fenster und führe den folgenden Git Befehl aus:
 
 ```bash
-git clone https://github.com/YourUsername/first-contributions.git
+git clone "kopierte url"
 ```
 
-**یادونه:** دلته `YourUsername` باید ستاسو د GitHub اکاونټ نوم وي.
+wobei "kopierte url" (ohne die Anführungszeichen) die url zu diesem Repository ist (deine Fork von diesem Projekt). Im vorherigen Schritt siehst du wie du diese erhälst .
 
-## نوې څانګه (branch) جوړ کړئ
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="URL in die Zwischenablage kopieren" />
 
-- د first-contribution پروژه په خپل کوډ ایډیټر کې خلاصه کړئ.
-- ترمینل کې دا کمانډ اجرا کړئ ترڅو نوې څانګه جوړه کړئ. ددې لپاره چې زمونږ د بدلونونو لپاره خپله څانګه وي او له نورو سره شریکه نشي. دې څانګې کې به مونږ ایډیټ کوو او بیا به یې له عمومي څانګې سره یوځای کوو.
+Zum Beispiel:
 
 ```bash
-git switch -c your-branch-name
+git clone git@github.com:das-bist-du/erster-Beitrag.git
 ```
 
-your-branch-name ستاسو د څانګې نوم دی. کولای شئ چې هر نوم تاسې ټاکلی شئ.
+wobei `das-bist-du` dein Github Nutzername ist. Hier kopierst du den Inhalt des first-contributions Repository's auf Github auf deinen Computer.
 
-## اړین بدلونونه راوړئ او commit کړئ
+## Erstelle einen Zweig
 
-- د `Contributors.md` فایل خلاص کړئ او خپل نوم پکې اضافه کړئ کې).
-- فایل ذخیره کړئ.
-
-<img align="left" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="د Git حالت" />
-
-- ترمینل ته لاړ شئ او دا کمانډ اجرا کړئ ترڅو وګورئ کوم فایلونه مو بدل کړي دي:
+Wechsle zum Repository Ordner (wenn du nicht bereits dort bist):
 
 ```bash
-git status
+cd first-contributions
 ```
 
-- بدلونونه ذخیره کړئ:
+Erstelle nun einen Zweig, indem du den `git switch` Befehl benutzst:
+
+```bash
+git switch -c dein-neuer-zweig-name
+```
+
+Zum Beispiel:
+
+```bash
+git switch -c add-alonzo-church
+```
+
+<details>
+<summary> <strong>Wenn du auf irgendeinen Fehler bei der Nutzung von git switch stößt, drücke hier:</strong> </summary>
+
+Wenn die Fehlermeldung "Git: `switch` is not a git command. See `git –help`" erscheint, liegt dies wahrscheinlich daran das du eine veraltete Version von Git nutzt.
+
+In diesem Fall versuche stattdessen `git checkout` zu nutzen:
+
+```bash
+git checkout -b dein-neuer-zweig-name
+```
+
+</details>
+
+## Make necessary changes and commit those changes
+
+Öffne nun die Datei `Contributors.md` in einem Texteditor und füge deinen Namen hinzu. Füge ihn nicht ganz am Anfang oder am Ende hinzu, sondern irgendwo dazwischen, mittendrin. Speichere jetzt die Datei.
+
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+
+Wenn du in den Projektordner gehst und den Befehl `git status`, ausführst werden dir die Änderungen angezeigt.
+
+Füge diese Änderungen nun zu dem Zweig hinzu den du gerade erstellt hast, indem du den Befehl `git add` ausführst.
 
 ```bash
 git add Contributors.md
 ```
 
-- اوس مو بدلونونه کمټ Commit کړئ:
+Jetzt commite diese Änderungen mit dem `git commit` Befehl:
 
 ```bash
-git commit -m "message"
+git commit -m "Add your-name to Contributors list"
 ```
 
-د مسیج پر ځای تاسې هر څه لیکلی شئ. بهتره دا ده چې تاسې په دې ځای کې ولیکئ چې کوم بدلونونه مو پروژې کې راوستل.
+ersetze `your-name` mit deinem Namen.
 
-## بدلونونه GitHub ته push کړئ
+## Änderungen auf Github pushen
 
-- خپل بدلونونه کیټ هب ته پورته کړئ:
+Übertrage deine Änderungen mit `git push`:
 
 ```bash
-git push origin -u your-branch-name
+git push -u origin dein-zweig-name
 ```
 
-د your-branch-name پر ځای باید تاسې په دقیق ډول سره د خپلې څانګې نوم ورکړئ. هغه نوم چې لږ مخکې مو انتخاب کړی وه.
+ersetze `dein-zweig-name` mit dem Namen des Zweiges den du vorhin erstellt hast.
 
-<details align="right" dir="rtl">
-<summary><strong>که چېرې په دې لړ کې د کومې ستونزې سره مخ شوئ دا ځای کېکاږئ</strong></summary>
+<details>
+<summary> <strong>Solltest du auf irgendwelche Fehler beim Pushen stoßen, drücke hier:</strong> </summary>
 
-که چېرته ستاسې ستونزه داسي وي.
-
-<div dir="ltr">
-<pre>
-remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
-remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
-fatal: Authentication failed for 'https://github.com/&lt;your-username&gt;/first-contributions.git/
-</pre>
-<div>
-
-[نو بیا دلته زده کړئ چې دا ستونزه څنګه حل کړئ](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
-
+- ### Authentifizierungs Fehler
+     <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+  remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+  fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
+  Gehe zu [GitHub's tutorial](https://...github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) wie du einen ssh Key zu deinem Account hinzufügst und konfigurierst.
+  Außerdem, kannst du 'git remote -v' ausführen um deine Remote Addresse anzuzeigen.
+  
+  Wenn es so aussieht:
+  <pre>origin	https://github.com/your-username/your_repo.git (fetch)
+  origin	https://github.com/your-username/your_repo.git (push)</pre>
+  
+  ändere es mit diesem Befehl:
+  ```bash
+  git remote set-url origin git@github.com:dein-nutzername/dein_repo.git
+  ```
+  Ansonsten wirst du noch immer aufgefordert Passwort und Benutzername einzugeben und bekommst einen Authentifizierungs Fehler.
 </details>
 
-## خپل بدلونونه د بیاکتنې لپاره وسپارئ
+## Reiche deine Änderungen für ein Review ein
 
-- خپل GitHub اکاونټ کې دې ریپوزیټوري ته لاړ شئ.
-- د **Compare & pull request** تڼۍ به ووینئ. پر هغې کلیک وکړئ.
+Wenn du jetzt zu deinem Repository auf Github gehts, wirst du einen `Compare & pull request` Knopf sehen. Drücke diesen Knopf.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="erstelle eine Pull-Request" />
 
-- اوس د pull request غوښتنه وسپارئ.
+Jetzt, reiche deine Pull-Request ein.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="Reiche deine Pull-Request ein" />
 
-- له دې وروسته به ستاسو بدلونه د اصلي یا main څانګې سره یوځای شي او ستاسو نوم به د ګډون کوونکو لیست ته اضافه کړل شي.
+Bald werde ich alle deine Änderungen in den Haupt-Zweig dieses Projektes mergen. Du wirst eine Benachrichtigungs Email bekommen sobald die Änderungen gemerged wurden.
 
-## له دې وروسته څه وکړئ؟
+## Was nun?
 
-تاسو په بریالیتوب سره د فورک، کلون، ایډیټ، او pull request مرحلې بشپړې کړې. تاسې له دې نه وروسته کولی شئ چې په خلاص-سرچېنه پروژو کې په همدې طریقه برخه واخلئ.
+Gratulation! Du hast gerade den Standard _Forken -> Klonen -> Bearbeiten -> Pull-Request_ Workflow durchgeführt, dem du als Beitragender oft begegnen wirst!
 
-- خپل لومړئ ګډون ولمانځئ او له خپلو ملګرو سره یې [شریک کړئ](https://firstcontributions.github.io/#social-share).
-- که کومه ستونزه یا پوښتنه لرئ، کولای شئ زموږ د Slack ټیم سره یوځای شئ.
-- اوس کولای شئ په نورو پروژو کې هم ګډون وکړئ. [دلته د پروژو لیست وګورئ](https://firstcontributions.github.io/#project-list).
+Feier deinen Beitrag und teile in mit deinen Freunden und Followern indem du hier drückst [web app](https://firstcontributions.github.io/#social-share).
 
-## <a href="additional-material/git_workflow_scenarios/additional-material.md">اضافي مواد</a>
+Wenn du gerne mehr Übung hättest, schau dir [code contributions](https://github.com/roshanjossey/code-contributions) an.
 
-## د نورو وسیلو په کارولو سره درسونه
+Jetzt los gehts, mit Beiträgen zu anderen Projekten. Wir haben eine Liste von Projekten mit leichten Fehlern für Einsteiger bereitgestellt. Schau dir [die Liste der Projekte in der Web-App an](https://firstcontributions.github.io/#project-list) an.
 
-| <a href="gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
+### [Zusätzliches Material](../additional-material)
+
+## Anleitungen für andere Tools
+
+| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [GitHub Desktop](gui-tool-tutorials/github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](gui-tool-tutorials/github-windows-vs2017-tutorial.md)                                                                                                                          | [GitKraken](gui-tool-tutorials/gitkraken-tutorial.md)                                                                                                                                        | [Visual Studio Code](gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                                                  | [Atlassian Sourcetree](gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                                      | [IntelliJ IDEA](gui-tool-tutorials/github-windows-intellij-tutorial.md)                                                                                                                                                          |
+| [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md)   | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md) | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md)   | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md)  | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md)  | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md) |
 
-</div>
+<p>Dieses Projekt wird unterstützt von:</p>
+<p>
+  <a href="https://www.digitalocean.com/">
+    <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_horizontal_blue.svg" width="201px">
+  </a>
+</p>
