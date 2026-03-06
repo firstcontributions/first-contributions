@@ -8,12 +8,6 @@ Contributing to open source is one of the most rewarding ways to grow as a devel
 
 Before diving into the "how," let’s explore the "why." Contributing to open source offers numerous benefits:
 
-*   Skill Development: Open source projects expose you to real-world codebases, helping you improve your coding, debugging, and collaboration skills.
-*   Portfolio Building: Contributions to well-known projects can enhance your resume and GitHub profile, making you stand out to potential employers.
-*   Networking: You’ll connect with developers worldwide, learn from experts, and become part of a global community.
-*   Giving Back: Open source powers much of the software we use daily. Contributing is a way to support the tools and technologies you rely on.
-*   Career Opportunities: Many companies actively seek developers with open source experience, as it demonstrates initiative and teamwork.
-
 ## How to Get Started with Open Source Contributions
 
 ### 1. Choose the Right Project
