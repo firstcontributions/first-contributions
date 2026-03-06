@@ -1124,6 +1124,7 @@
 - [Tase](https://github.com/Tasesho)
 - [midikaif](https://github.com/midikaif)
 - [mohnish](https://github.com/Mohnish27-dev)
+- [sg20](https://github.com/ismasg20)
 - [nintrees](https://github.com/nintreesssss)
 - [notchkxge](https://github.com/notchkxge)
 - [notnimna](https://github.com/Not-Nimna)
@@ -1263,3 +1264,4 @@
 - [Joe Shawky](https://github.com/joeshawky)
 - [Bruno Buss](https://github.com/bussbruno)
 -[Shadan Rashid](https://github.com/Rashid-123)
+- [Luqman Cassim](https://github.com/luqmanshaqiq2)
