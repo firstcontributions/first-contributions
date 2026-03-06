@@ -411,6 +411,7 @@ Ben
 - [Isha Singh](https://github.com/singhisha40)
 - [Ishaan C](https://github.com/Ishaan-C)
 - [Ishika Gupta](https://github.com/Ishika-guptaa25)
+- [Indu R](https://github.com/Indu34569)
 - [Ishita](https://github.com/elekish)
 - [Ivanich0](https://github.com/Ivanich0)
 - [Iweisc](https://github.com/Iweisc)
