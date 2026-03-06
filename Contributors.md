@@ -1121,6 +1121,7 @@ Rongxin Zhang
 - [Tase](https://github.com/Tasesho)
 - [midikaif](https://github.com/midikaif)
 - [mohnish](https://github.com/Mohnish27-dev)
+- [sg20](https://github.com/ismasg20)
 - [nintrees](https://github.com/nintreesssss)
 - [notchkxge](https://github.com/notchkxge)
 - [notnimna](https://github.com/Not-Nimna)
@@ -1269,3 +1270,4 @@ Rongxin Zhang
 - [Bruno Buss](https://github.com/bussbruno)
 -[Shadan Rashid](https://github.com/Rashid-123)
 -[Nisitha](https://github.com/Nisitha076)
+- [Luqman Cassim](https://github.com/luqmanshaqiq2)
