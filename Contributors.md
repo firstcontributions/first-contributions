@@ -1,4 +1,5 @@
 # Contributors
+- [Alice-Chxn](https://github.com/alicechan-dev)
 - [Aman Jha](https://github.com/ajha19)
 - [Saket Anand](https://www.saketanand.com)
 - [Scott Boudreaux (Elyan Labs)](https://github.com/Scottcjn)
