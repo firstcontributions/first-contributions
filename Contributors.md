@@ -975,6 +975,7 @@ Rongxin Zhang
 - [Tushar Moolya](https://github.com/tushiar)
 - [Tushar Qwerty](https://github.com/tushar743-ui)
 - [Tushar Vimalbhai Patel](https://github.com/tushar-patel28)
+- [Tyler Westbrook](https://github.com/Iisyourdad)
 - - [RashiBista](https://github.com/RashiBista)
 - [U Shivakumar](https://github.com/Shivakumarsullagaddi)
 - [Umed Kumar](https://github.com/UmedKumar)
