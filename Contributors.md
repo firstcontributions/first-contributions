@@ -141,6 +141,7 @@ Chris
 - [Arisa Abiko](https://github.com/arisaabiko)
 - [Javier Garcia](https://github.com/jgarciacardoso)
 - [Arnav Saraswat](https://github.com/arnavs-uol)
+- [Zachary Lee](https://github.com/Zach-flkl)
 - [Arti Shelar](https://github.com/shelararti)
 - [Arumugam N](https://github.com/blackwolf2902)
 - [Aryan Jha](https://github.com/aryankumarjha1441-debug)
