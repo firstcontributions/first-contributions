@@ -10,7 +10,7 @@
 
 Если вам нужна помощь с командной строкой, [это руководство использует инструменты графической операционной системы (GUI).](#Использование-других-инструментов)
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="сделать ветку" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="форкните этот репозиторий" />
 
 Если у вас не установлен git на компьютере, [ установите его. ](https://help.github.com/articles/set-up-git/)
 
@@ -20,7 +20,7 @@
 
 ## Клонируйте репозиторий
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="клонировать репозиторий" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="клонируйте этот репозиторий" />
 
 Теперь клонируйте ваш репозиторий на ПК. Нажмите на кнопку `clone`, а затем на иконку `copy to clipboard`, чтобы скопировать ссылку.
 
@@ -94,11 +94,11 @@ git push origin <add-your-name>
 
 Если вы зайдете в свой репозиторий на GitHub, вы увидите кнопку `Compare & pull request`. Нажмите на нее.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="Создать запрос на изменение" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="создайте запрос на слияние" />
 
 Теперь подтвердите пулл-реквест.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="отправьте запрос на слияние" />
 
 Скоро я произведу объединение всех ваших изменений с основной веткой данного проекта. Вы получите сообщение по электронной почте, когда изменения будут приняты (смержены).
 
