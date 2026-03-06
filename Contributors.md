@@ -50,6 +50,7 @@
 - [Aakash Chauhan](https://github.com/akashinedon)
 - [Aakash Chauhan](https://github.com/akashinedon)
 - [Aaliyah Raheem](https://github.com/aaliot)
+- [Aaqib Javaid](https://github.com/aaqib605)
 - [Aamir](https://github.com/AamirMNAamir)
 - [Aayush Patel](https://github.com/Aayush1302)s
 - [Aaqib Patel](https://github.com/aaqibp)
