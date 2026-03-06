@@ -47,6 +47,7 @@
 - abubakar
 - [sancer](https://github.com/SantCer/first-contributions.git)
 - [Senadeera-NK](https://github.com/Senadeera-NK)
+- [Kavyanshu]
 - [Aman Parganiha](https://github.com/amanparganiha)
 - [nullora](https://github.com/Nullora)
 - [ARES](https://github.com/phoenixcodeforces-blip)
