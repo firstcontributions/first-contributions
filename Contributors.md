@@ -1,5 +1,6 @@
 # Contributors
 - [Aman Jha](https://github.com/ajha19)
+- [Saket Anand](https://www.saketanand.com)
 - [Scott Boudreaux (Elyan Labs)](https://github.com/Scottcjn)
 - [Avuram Chandra Mohan Reddy](https://github.com/chandramohan385)
 - [Prashant Kumar Tuhania](https://github.com/prashantkumar342)
@@ -11,6 +12,7 @@
 - [midikaif](https://github.com/midikaif)
 - [yjh7979](https://github.com/yjh7979)
 - Max
+-[arpit tharkar ](https://github.com/ArpitTharkar/first-contributions)
 - [1828](https://github.com/18-28)
 - [Baseer Afridi](https://github.com/baseergroot)
 - [Shravani Devakar](https://github.com/shravani-devakar)
@@ -1293,3 +1295,5 @@ Rongxin Zhang
 -  [Elakkiya](https://github.com/dhineshdd)
 -[Gagan rajput](https://github.com/gagansokhal-coder)
 -[Connecto Shivam](https://github.com/connectoshivam)
+=======
+-[Dylan Haskell](https://github.com/dyl242)
