@@ -203,7 +203,7 @@ replacing `your-branch-name` with the name of the branch you created earlier.
   Go to [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) on generating and configuring an SSH key to your account.
 
   Also, you might want to run 'git remote -v' to check your remote address.
-  
+  If you encounter merge conflicts, ensure your fork is synced with the upstream repository before creating a pull request
   If it looks anything like this:
   <pre>origin	https://github.com/your-username/your_repo.git (fetch)
   origin	https://github.com/your-username/your_repo.git (push)</pre>
