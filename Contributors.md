@@ -24,6 +24,7 @@
 - [Shravani Devakar](https://github.com/shravani-devakar)
 - [1ESA1](https://github.com/1ESA1)
 - [Gabriele Ferrero](https://github.com/devgfe)
+- [Manisha Dhankhar](https://github.com/ManishaDhankhar)
 - [2003myriam](https://github.com/2003myriam)
 - [mananjp](https://github.com/mananjp)
 - [24f3003274-RISHABH](https://github.com/24f3003274-RISHABH)
