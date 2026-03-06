@@ -1,4 +1,5 @@
 # Contributors
+- [Aman Jha](https://github.com/ajha19)
 - [Scott Boudreaux (Elyan Labs)](https://github.com/Scottcjn)
 - [Avuram Chandra Mohan Reddy](https://github.com/chandramohan385)
 - [Prashant Kumar Tuhania](https://github.com/prashantkumar342)
