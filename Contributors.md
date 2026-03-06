@@ -686,6 +686,7 @@ Rongxin Zhang
 - [Ossama Nahle](https://github.com/ossamanahle)
 - [Otavio Góes](https://github.com/ogoess1999)
 - [Ozan Kenan Güngör](https://github.com/ozankenangungor)
+- [Paanipoorie](https://github.com/paanipoorie)
 - [P-nishant](https://github.com/P-nishant)
 - [Pablo Hermun](https://github.com/PabloHermun)
 - [Pablo Souza](https://github.com/pablohsouza09)
