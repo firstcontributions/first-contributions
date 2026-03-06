@@ -1003,6 +1003,7 @@ Rongxin Zhang
 - [Vito Bondanese](https://github.com/VBVB99)
 - [Vivek S](https://github.com/VivekSarvaiya)
 - [Vivek Soni](https://github.com/vivek-s-soni)
+- [Loveyash Singh](https://github.com/Cyber-Py-Coder)
 - [Vivek](https://github.com/Vivek290100)
 - [VizzScript](https://github.com/vizzscript)
 - [Vuk Topalovic](https://github.com/vukkt)
