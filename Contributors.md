@@ -12,6 +12,7 @@
 - Max
 - [1828](https://github.com/18-28)
 - [Baseer Afridi](https://github.com/baseergroot)
+- [Shravani Devakar](https://github.com/shravani-devakar)
 - [1ESA1](https://github.com/1ESA1)
 - [Gabriele Ferrero](https://github.com/devgfe)
 - [2003myriam](https://github.com/2003myriam)
