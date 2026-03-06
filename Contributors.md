@@ -8,6 +8,7 @@
 - [Bhavesh Gajengi](https://github.com/BhaveshGajengi1)
 - [Abdul Muqeet K B](https://github.com/muqeet-27)
 - [Anand Mani](https://github.com/astromani721)
+- [Bhautik Jani](https://github.com/BhautikJani11)
 - [midikaif](https://github.com/midikaif)
 - [yjh7979](https://github.com/yjh7979)
 - Max
