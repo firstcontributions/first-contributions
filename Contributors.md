@@ -624,6 +624,7 @@ Rongxin Zhang
 - [Muhammad Taha Nadeem](https://github.com/Taha-Nadeem-7)
 - [Muhammad Zakaria](https://github.com/zakk616)
 - [Muhammed Shareef](https://github.com/shareefmx)
+- [Nishk Mistry](https://github.com/nishkmistry)
 - [Mumin](https://github.com/m6min)
 - [Muntazir-Sayed](https://github.com/Muntazir-sd)
 - [Muttu Bhjantri](https://github.com/muttuhb98-n)
