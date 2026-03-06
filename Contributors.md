@@ -312,6 +312,7 @@ Ben
 - [Elif Ş.](https://github.com/elifsz)
 - [Elijah Weiss](https://github.com/eweiss4)
 - [Elijah](https://github.com/Elijah647)
+- [Elliooot] (https://github.com/Elliooot)
 - [Emanuel Abou Samra](https://github.com/Mannolis)
 - [Emil Piesik](https://github.com/piesikot)
 - [Emrah Isović](https://github.com/EmrahIso)
