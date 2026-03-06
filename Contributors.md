@@ -11,6 +11,7 @@
 - [midikaif](https://github.com/midikaif)
 - [yjh7979](https://github.com/yjh7979)
 - Max
+-[arpit tharkar ](https://github.com/ArpitTharkar/first-contributions)
 - [1828](https://github.com/18-28)
 - [Baseer Afridi](https://github.com/baseergroot)
 - [Shravani Devakar](https://github.com/shravani-devakar)
