@@ -1108,6 +1108,7 @@ Rongxin Zhang
 - [ffqwe](https://github.com/ffqwe)
 - [fibi-daudi](https://github.com/fibi-daudi)
 - [fikrirazor](https://github.com/fikrirazor)
+- [Shubham Kumar Jha](https://github.com/Shubham12222089)
 - [fishleaf](https://github.com/fishleaf)
 - [fistAttempt](https://github.com/nikhiltumma/first-contributions)
 - [fligbix](https://github.com/Fligbix)
