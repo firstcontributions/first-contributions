@@ -137,6 +137,7 @@
 - [Aman Singh](https://github.com/Amankumarsingh23)
 - [AmarnathV](https://github.com/amar1009)
 - [Ambar Singh](https://github.com/ambar-singh)
+- [Aryan Mehrotra]
 Chris
 - [Santosh M Savalgi](https://github.com/Santosh-M-Savalgi)
 - [Ameer Ali](https://github.com/Ameeeerr)
