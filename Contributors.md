@@ -24,6 +24,7 @@
 - [yjh7979](https://github.com/yjh7979)
 - Max
 - 23f3000487@ds.study.iitm.ac.in
+-[alejandro soto martinez](https://github.com/Alexsoto042)
 - [Suhayb Faysal](https://github.com/DrZiMo)
 -[arpit tharkar ](https://github.com/ArpitTharkar/first-contributions)
 -[shiv bhajan akela ](https://github.com/akela007/first-contributions)
