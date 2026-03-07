@@ -9,6 +9,7 @@
 - [Prathyusha Marri](https://github.com/Prathyusha-hub-M)
 - [Saket Anand](https://www.saketanand.com)
 - [Scott Boudreaux (Elyan Labs)](https://github.com/Scottcjn)
+- [Kokkirigedda Lohit](https://github.com/lohit3050)
 - [Avuram Chandra Mohan Reddy](https://github.com/chandramohan385)
 - [Prashant Kumar Tuhania](https://github.com/prashantkumar342)
 - [Mrrrrrrt](https://github.com/Mrrrrrrt)
@@ -1342,3 +1343,4 @@ Rongxin Zhang
 - [Mohit Jaryal](https://github.com/mohitjaryal)
 - [Ihsanullah Lemar](https://github.com/ihsanlemar-blip)
 - [Rainy Sharma](https://github.com/rainyyyyshrrr12)
+- [Suryanshu Singh](https://github.com/Suryanshu-Singh-cyber)
