@@ -1334,3 +1334,4 @@ Rongxin Zhang
 - [Prem Prajapat] (https://github.com/prem941)
 -[Nikita Rani]
 - [GauravKumar1301](https://github.com/GauravKumar1301)
+-[Vadim Gichkslov] (https://github.com/vadguc-hue)
