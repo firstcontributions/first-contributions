@@ -164,6 +164,7 @@ Chris
 - [Ankit](https://www.youtube.com/watch?v=u3y1MqX4egE)
 - [Ankush Singh](https://github.com/whyankush07)
 - [Anshul Bhardwaj](https://github.com/Anshul-Bhardwaj-21)
+- [Maitra Prajapati](https://github.com/maitra-prajapati)
 - [Anshik] (https://github.com/Anshikn)
 - [AntonioIonica](https://github.com/AntonioIonica)
 - [Anurag Banerjee](https://github.com/Banerjee2027)
