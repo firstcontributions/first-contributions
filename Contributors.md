@@ -964,6 +964,7 @@ Rongxin Zhang
 - [Syed Rahil Hussain](https://github.com/Syed-srh)
 - [Sylvain L](https://github.com/sylvain-lec)
 - [TAHER EL Mehdi](https://github.com/taher-el-mehdi)
+- [Dhanush Kumar M](https://github.com/Dhanush-max)
 - [TOK7O](https://github.com/TOK7O)
 - [Tabrez Ahamed](https://github.com/Tabrezz3)
 - [Takashi.Takehana](https://github.com/FRAGILE-8460)
