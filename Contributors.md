@@ -363,6 +363,7 @@ Ben
 - [Fawaz Bello](https://github.com/Phawazz)
 - [Fedor Kupryakov](https://github.com/divohub)
 - [Fei Sun](https://github.com/Fei-Sun-1996)
+- [Felipe](https://github.com/Fredericrypto)
 - [Felipe Augusto](https://github.com/felipeaugustoap)
 - [Felipe](https://github.com/felipemv13)
 - [FloraPetit](https://github.com/PetitFlora)
