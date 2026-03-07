@@ -565,6 +565,7 @@ Rongxin Zhang
 - [Lucas Verissimo](https://github.com/LucasVer17)
 - [Lucas-Hayes](https://github.com/hayeslucas128-cmyk)
 - [LuckyGautam](https://github.com/LuckyG05)
+- [Luigi Moro Turina](https://github.com/LuigiMTurina)
 - [Luiz Augusto](https://github.com/Luizxdas)
 - [Luka](https://github.com/LukachuPro88)
 - [Luke Eades](https://github.com/LukeEades)
