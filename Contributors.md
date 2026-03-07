@@ -5,6 +5,7 @@
 - [Abdelhamid Ellab](https://github.com/Abdelhamid04)
 - [Alice-Chxn](https://github.com/alicechan-dev)
 - [Aman Jha](https://github.com/ajha19)
+- [Prathyusha Marri](https://github.com/Prathyusha-hub-M)
 - [Saket Anand](https://www.saketanand.com)
 - [Scott Boudreaux (Elyan Labs)](https://github.com/Scottcjn)
 - [Avuram Chandra Mohan Reddy](https://github.com/chandramohan385)
