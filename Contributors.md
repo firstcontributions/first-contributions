@@ -512,6 +512,7 @@ Ben
 - [KavindiD](https://github.com/KavindiD)
 - [Kavish Pal Singh](https://github.com/23f2005144)
 Rongxin Zhang
+- [Rio](https://github.com/PhoNoodles)
 - [Kavoshnik](https://github.com/kavoshnik)
 - [Kavya Vadla](https://github.com/kvadla06)
 - [Kayla Cox](https://github.com/RenWoman)
