@@ -25,6 +25,7 @@
 - 23f3000487@ds.study.iitm.ac.in
 - [Suhayb Faysal](https://github.com/DrZiMo)
 -[arpit tharkar ](https://github.com/ArpitTharkar/first-contributions)
+-[shiv bhajan akela ](https://github.com/akela007/first-contributions)
 - [1828](https://github.com/18-28)
 - [RobertMarc19] (https://github.com/RobertMarc19)
 - [Baseer Afridi](https://github.com/baseergroot)
