@@ -1,5 +1,6 @@
 # Contributors
 - [Ammar Tafoiki](https://github.com/ammar116/)
+- [SJ](http://github.com/saaicasm)
 - [Jack Johnson](https://github.com/norvest06)
 - [Sai Srikar](https://github.com/saisrikarbommisetty)
 - [Ibrahim Ibn Tanweer Almadani](https://github.com/24f1001980)
