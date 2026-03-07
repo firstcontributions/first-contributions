@@ -1302,7 +1302,7 @@ Rongxin Zhang
 - [Facu B](https://github.com/berFacundo)
 - [Joe Shawky](https://github.com/joeshawky)
 - [Bruno Buss](https://github.com/bussbruno)
-- [Ammar Hassan] (https://github.com/ammarhassan6)
+- [Ammar Hassan](https://github.com/ammarhassan6)
 - [Shadan Rashid](https://github.com/Rashid-123)
 - [Nisitha](https://github.com/Nisitha076)
 - [Luqman Cassim](https://github.com/luqmanshaqiq2)
