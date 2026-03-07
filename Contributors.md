@@ -319,6 +319,7 @@ Ben
 - [Dorcas Adebayor](https://github.com/dokipure)
 - [Douae Bousnane](https://github.com/douaebousnane13-del)
 - [Duo](https://github.com/NamingRacksMyBrain)
+- [Durai Mohandoss](https://github.com/22f1000821)
 - [Durjoy Kumar](https://github.com/DurjoyKumar177)
 - [Dustin Ober](https://github.com/dustinober1)
 - [Dzmitry Mukhin](https://github.com/divmone)
