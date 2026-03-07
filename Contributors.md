@@ -142,6 +142,7 @@ Chris
 - [Anaïs Gatard](https://github.com/AnaisG14)
 - [Andrew Nathan Situmorang](https://github.com/andrwsitumorang)
 - [Andrew Park](https://github.com/AndePark)
+- [Archi Lodha](https://github.com/ARCHILODHA)
 - [Andyple](https://github.com/andyple)
 - [Angad Bhalla](https://github.com/Anga205)
 - [Angel Sara](https://github.com/Angelishere)
