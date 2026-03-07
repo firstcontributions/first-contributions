@@ -1,6 +1,8 @@
 # Contributors
 - [Aman Jha](https://github.com/ajha19)
 - [Saket Anand](https://www.saketanand.com)
+- [Codex](https://github.com/codex)
+- Codex CS Career: Computer Science enthusiast focused on software engineering, open-source collaboration, Git workflows, and practical AI development.
 - [Scott Boudreaux (Elyan Labs)](https://github.com/Scottcjn)
 - [Avuram Chandra Mohan Reddy](https://github.com/chandramohan385)
 - [Prashant Kumar Tuhania](https://github.com/prashantkumar342)
