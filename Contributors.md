@@ -925,6 +925,7 @@ Rongxin Zhang
 - [Sridhar-EEE](https://github.com/sridhar-eee/)
 - [Sriram Chowdary Vundavalli](https://github.com/sriramchow)
 - [Sriteja01](https://github.com/Sriteja01)
+- [Stephanus Ridwan](https://github.com/sridwan)
 - [Stephen Ng](https://github.com/snust)
 - [Steve Coghill](https://github.com/BriarSMC)
 - [Subhajit Sarkar](https://github.com/Subhajit281)
