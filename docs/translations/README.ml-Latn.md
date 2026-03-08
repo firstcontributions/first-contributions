@@ -115,6 +115,32 @@ git push origin <ningalude-branch-per>
 ```
 Ithil <thaankalude-branchinte-per> ennathinu pakaram thaankal nerathe undakkiya branchinte peru kodukkuka.
 
+<details>
+<summary> <strong>Push cheyyumbol enthenkilum errors kittiyal, ivide click cheyyuka:</strong> </summary>
+
+- ### Authentication Error
+     <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+  remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+  fatal: Authentication failed for 'https://github.com/&lt;your-username&gt;/first-contributions.git/'</pre>
+
+  Ningalude account-il SSH key generate cheythu configure cheyyunnathinu [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) nokkuka.
+
+  Athupole, ningalude remote address check cheyyan `git remote -v` run cheyyuka.
+
+  Athu ithupole kaanunnengil:
+
+  <pre>origin	https://github.com/your-username/your_repo.git (fetch)
+  origin	https://github.com/your-username/your_repo.git (push)</pre>
+
+  Athu ee command upayogichu maattuka:
+
+  ```bash
+  git remote set-url origin git@github.com:your-username/your_repo.git
+  ```
+  Illenkil ningalodu username um password um chodikkum, appol authentication error varaan sadhyatha und.
+
+</details>
+
 ## Ningalude maattangal review-nayi samarpikkuka
 
 Ippo ningalude GitHub repository-il poyal `Compare & pull request` button kaanum. Athil click cheyyuka.
