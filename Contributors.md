@@ -1235,6 +1235,7 @@ Rongxin Zhang
 - [sony](https://github.com/sony77697)
 - [srsxnsh](https://github.com/srsxnsh)
 - [stackashu](https://github.com/Stackashu)
+- [stanxz](https://github.com/stanxz)
 - [stella](https://github.com/Janb05)
 - [subramanya T N](https://github.com/subramanya-44)
 - [sudhakarpappu](https://github.com/sudhakarpappu)
