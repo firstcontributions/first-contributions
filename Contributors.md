@@ -1,4 +1,5 @@
 # Contributors
+- [jjipper] (https://github.com/jjipper)
 - [Mrrrrrrt](https://github.com/Mrrrrrrt)
 - [Justin Morphosis](https://github.com/justinmorphosis)
 - [Bhavesh Gajengi](https://github.com/BhaveshGajengi1)
