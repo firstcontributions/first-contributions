@@ -31,6 +31,7 @@
 - [midikaif](https://github.com/midikaif)
 - [yjh7979](https://github.com/yjh7979)
 - Max
+- Gonzalo (https://github.com/GonzaloAleo)
 - 23f3000487@ds.study.iitm.ac.in
 -[alejandro soto martinez](https://github.com/Alexsoto042)
 - [Suhayb Faysal](https://github.com/DrZiMo)
