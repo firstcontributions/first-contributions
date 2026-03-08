@@ -1195,6 +1195,7 @@ Rongxin Zhang
 - [lepickel](https://github.com/lepickel)
 - [levo](https://github.com/LeVo011)
 - [liplip](https://github.com/liplip358)
+- [mazza-the-dev](https://github.com/mazza-the-dev)
 - [meagantroot](https://github.com/meagantroot)
 - [medali213](https://github.com/medali213)
 - [mheavey](https://github.com/mheavey2)
