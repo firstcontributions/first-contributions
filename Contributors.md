@@ -17,6 +17,7 @@
 - [Avuram Chandra Mohan Reddy](https://github.com/chandramohan385)
 - [Prashant Kumar Tuhania](https://github.com/prashantkumar342)
 - [Mrrrrrrt](https://github.com/Mrrrrrrt)
+- [Henrique](https://github.com/roberto0906)
 - [Justin Morphosis](https://github.com/justinmorphosis)
 - [Bhavesh Gajengi](https://github.com/BhaveshGajengi1)
 - [Abdul Muqeet K B](https://github.com/muqeet-27)
