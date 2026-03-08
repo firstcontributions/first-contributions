@@ -357,6 +357,7 @@ Ben
 - [Esraa Kandil](https://github.com/esraa-k)
 - [Esteban Cortés Mora](https://github.com/eacortesm)
 - [Esther David](https://github.com/Esther484)
+- [Esi Abrokwa](https://github.com/Petrichor1204)
 - [Ettore Ciolli](https://github.com/ettoreciolli1)
 - [Evan Rhea](https://github.com/MegaSF)
 - [Ezra K](https://github.com/EzraKL)
