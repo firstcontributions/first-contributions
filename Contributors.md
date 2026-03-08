@@ -1061,6 +1061,7 @@ Naman Malik
 - [Joshna Jojo](https://github.com/joshnajojo12)
 -[Sujan Saru](https://github.com/leraner23)
 - [Joshua Hans](https://github.com/joshhans21)
+- [Neeraj Kumar](https://github.com/23f2002096)
 - [Joshua Norris](https://github.com/Noshie23)
 - [Juan Oviol](https://github.com/zetty80)
 - [Juanes](https://github.com/juanes20027)
