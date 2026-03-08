@@ -726,6 +726,7 @@ Rongxin Zhang
 - [Nithika Bandara](https://github.com/NithikaNB)
 - [Nithin.B](https://github.com/NITHIN-2006)
 - [Nitin Kumar](https://github.com/nitin-kumar-code)
+- [Nn Morishita](https://github.com/nn-morishita)
 - [NoMathematician1729](https://github.com/noMathematician1729)
 - [Noah Kim](https://github.com/gratisreise)
 - [Nowshin Arony](https://github.com/nowshinarony)
