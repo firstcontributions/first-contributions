@@ -280,6 +280,7 @@ Ben
 - [Conor James](https://github.com/ConorsGitHub)
 - [CoreDumpNotCrash](https://github.com/CoreDumpNotCrash)
 - [CoventinaLachesis](github.com/CoventinaLachesis)
+- [Charul Nampalliwar](https://github.com/Charul2304)
 - [D.Nandi](https://github.com/Debraj2024)
 - [DHANUSH KUMAR A](https://github.com/dhansuhkumar)
 - [Daiwiik Harihar](https://github.com/daiv09)
