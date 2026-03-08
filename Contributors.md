@@ -1026,6 +1026,7 @@ Rongxin Zhang
 - [Utkarsh Doras](https://github.com/UtkarshKD)
 - [Utkarsh Gupta](https://github.com/utkarshgupta188)
 - [Utkrist](https://github.com/CloudFlamedev)
+- [Vaidehi Patel](https://github.com/Vaidehi106)
 - [V K Suvetha](https://github.com/vksuvetha)
 - [Vaibhav Hample](https://github.com/Vaibhav-rgb45)
 - [Vaibhav Verma](https://github.com/joinvaibhav)
