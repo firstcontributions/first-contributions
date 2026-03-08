@@ -30,6 +30,7 @@
 - [Bhautik Jani](https://github.com/BhautikJani11)
 - [midikaif](https://github.com/midikaif)
 - [yjh7979](https://github.com/yjh7979)
+- [VipulBhattt](https://github.com/VipulBhattt)
 - Max
 - Gonzalo (https://github.com/GonzaloAleo)
 - 23f3000487@ds.study.iitm.ac.in
@@ -46,6 +47,7 @@
 - [Manisha Dhankhar](https://github.com/ManishaDhankhar)
 - [2003myriam](https://github.com/2003myriam)
 - [mananjp](https://github.com/mananjp)
+- [Noob] (https://github.com/ConfusedPod042)
 - [24f3003274-RISHABH](https://github.com/24f3003274-RISHABH)
 - [@Zakiahsan-arch](https://github.com/Zakiahsan-arch)
 - [Sanchana](https://github.com/Sanchana05)
@@ -1012,6 +1014,7 @@ Rongxin Zhang
 - [Thejus Kannoth](https://github.com/ThejusKannoth)
 - [Thisum Dantdhanarayana](https://github.com/thisum-dev)
 - [Thoka Harini](https://github.com/thokaharini24)
+- [Thomas Kim](https://github.com/thwmskm)
 - [Tiago Lima](https://github.com/TiagooLima)
 - [Tiancheng Xing](https://github.com/JackXing875)
 - [Titus Tarcsai](https://github.com/Titusz87)
