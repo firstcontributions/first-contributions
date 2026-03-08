@@ -1144,6 +1144,7 @@ Rongxin Zhang
 - [fusionAMAN](https://github.com/fusionAMAN)
 - [fuutot](https://github.com/fuutot)
 - [gatura](https://github.com/gatura-source)
+- [gary](https://github.com/callmegary-dev)
 - [gkrishna247](https://github.com/gkrishna247)
 - [granada1_lnrs](https://github.com/granad1_lnrs)
 - [Kavyasree Nunna](https://github.com/Kavyasree)
