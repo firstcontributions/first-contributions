@@ -690,6 +690,7 @@ Rongxin Zhang
 - [Nishk Mistry](https://github.com/nishkmistry)
 - [Mumin](https://github.com/m6min)
 - [Muntazir-Sayed](https://github.com/Muntazir-sd)
+- [Mushfiqur Rahman](https://github.com/Mushfiqur719)
 - [Muttu Bhjantri](https://github.com/muttuhb98-n)
 - [Mwiza Sichinga](https://github.com/Munyuam/)
 - [NIKHIL GAJULA](https://github.com/nikhil07g)
