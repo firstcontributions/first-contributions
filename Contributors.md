@@ -1368,6 +1368,7 @@ Rongxin Zhang
 - [Pandaaa Hu](https://github.com/XiuXiuHu)
 - [Akhilesh Pachnanda](https://github.com/AkhileshPachnanda)
 - [Not-muzzyy](https://github.com/Not-muzzyy)
+- [Anurag](https://github.com/anuraggit6212)
 - [Aditi Srivastava](https://github.com/aditisrivastava14)
 - [MD Noorain](https://github.com/engineermdnoorain-dev-l)
 - [LuKun-Zhang](https://github.com/LuKun-Zhang)
