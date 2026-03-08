@@ -4,6 +4,7 @@
 - [Hamad Ullah](https://github.com/hammadaiy/)
 - [D7mnCh](http://github.com/D7mnCh)
 - [SJ](http://github.com/saaicasm)
+- [Kamipantsu0](https://github.com/Kamipantsu0)
 - [Jack Johnson](https://github.com/norvest06)
 - [Sai Srikar](https://github.com/saisrikarbommisetty)
 - [Ibrahim Ibn Tanweer Almadani](https://github.com/24f1001980)
