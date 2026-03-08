@@ -1375,3 +1375,4 @@ Rongxin Zhang
 - [LuKun-Zhang](https://github.com/LuKun-Zhang)
 - [Chenglong](https://github.com/baidd1011)
 - [Saibag Sayyad Kolar](https://github.com/SaiForge)
+- [Aditya Singh](https://github.com/adityasingh-dev-in)
