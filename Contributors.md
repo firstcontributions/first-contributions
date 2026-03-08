@@ -1013,6 +1013,7 @@ Rongxin Zhang
 - [Thejus Kannoth](https://github.com/ThejusKannoth)
 - [Thisum Dantdhanarayana](https://github.com/thisum-dev)
 - [Thoka Harini](https://github.com/thokaharini24)
+- [Thomas Kim](https://github.com/thwmskm)
 - [Tiago Lima](https://github.com/TiagooLima)
 - [Tiancheng Xing](https://github.com/JackXing875)
 - [Titus Tarcsai](https://github.com/Titusz87)
