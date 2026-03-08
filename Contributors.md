@@ -1352,6 +1352,7 @@ Rongxin Zhang
 - [priyanshuanubis](https://github.com/priyanshuanubis)
 - [Cindy Orangis](https://github.com/cindyorangis)
 - [Sapavat Anji](https://github.com/Sapavat-A)
+- [Manvi Jain]
 - [Abhinav Sharma](https://github.com/AbhinavSharma123-O)
 - [Prem Prajapat] (https://github.com/prem941)
 -[Nikita Rani]
@@ -1365,3 +1366,4 @@ Rongxin Zhang
 - [Not-muzzyy](https://github.com/Not-muzzyy)
 - [Aditi Srivastava](https://github.com/aditisrivastava14)
 - [MD Noorain](https://github.com/engineermdnoorain-dev-l)
+
