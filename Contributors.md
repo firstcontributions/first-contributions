@@ -1389,3 +1389,4 @@ Rongxin Zhang
 - [Aditya Singh](https://github.com/adityasingh-dev-in)
 - Yash Baghel
 - [Yaswanth Kumar Bandela](https://github.com/yaswanthbandela)
+- Shruti Jodwal
