@@ -30,6 +30,7 @@
 - [Bhautik Jani](https://github.com/BhautikJani11)
 - [midikaif](https://github.com/midikaif)
 - [yjh7979](https://github.com/yjh7979)
+- [VipulBhattt](https://github.com/VipulBhattt)
 - Max
 - Gonzalo (https://github.com/GonzaloAleo)
 - 23f3000487@ds.study.iitm.ac.in
