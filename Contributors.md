@@ -1367,4 +1367,9 @@
 - [Chenglong](https://github.com/baidd1011)
 - [Saibag Sayyad Kolar](https://github.com/SaiForge)
 - [Aditya Singh](https://github.com/adityasingh-dev-in)
+<<<<<<< HEAD
 - Sayandip Paul
+=======
+- Yash Baghel
+- [Yaswanth Kumar Bandela](https://github.com/yaswanthbandela)
+>>>>>>> 94763af04d90eb135be614e6dd2bb8936be3a495
