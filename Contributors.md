@@ -46,6 +46,7 @@
 - [Manisha Dhankhar](https://github.com/ManishaDhankhar)
 - [2003myriam](https://github.com/2003myriam)
 - [mananjp](https://github.com/mananjp)
+- [Noob] (https://github.com/ConfusedPod042)
 - [24f3003274-RISHABH](https://github.com/24f3003274-RISHABH)
 - [@Zakiahsan-arch](https://github.com/Zakiahsan-arch)
 - [Sanchana](https://github.com/Sanchana05)
