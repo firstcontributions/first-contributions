@@ -1,5 +1,6 @@
 # Contributors
 - [Ton Lin]
+-[Teja Prakash](https://github.com/teja-787)
 - [MeowWow520](https://meowwow520.cn/)
 - [Aman Jha] ([23f2003233](https://github.com/23f2003233))
 - [Daerian] (https://github.com/Daerian)
@@ -498,7 +499,7 @@ Steve
 - [Janvi Chetan Patel](https://github.com/JanviChetanPatel)
 - [Jason Wang](https://github.com/Jiachenw399)
 - [Jason Wiggs](https://github.com/wiggs30)
-- [Jason Lee](https://github.com/DS-J-L) 
+- [Jason Lee](https://github.com/DS-J-L)
 - [Jayaditya Sahu](https://github.com/Jayadityas)
 - [Jayanth](https://github.com/MUNJETIJAYANTHKRISHNA)
 - [Jayesh Patil](https://github.com/JayeshPatil163)
@@ -896,7 +897,7 @@ Rongxin Zhang
 - [S-Dedeepya](https://github.com/S-Dedeepya)
 - [SImarjeet Singh Johar](https://github.comSimarjeeSinghJohar)
 - [SWanHK](https://github.com/swanhk)
-- [Saksham Tyagi](https://github.com/iam-saksham-tyagi)  
+- [Saksham Tyagi](https://github.com/iam-saksham-tyagi)
 - [sachin](https://github.com/sachin)
 - [Sachin vk](https://github.com/sachindasvk)
 - [Kyrillos Hamdy Nassif Hunein](https://github.com/KyrillosHamdy)
@@ -1320,7 +1321,7 @@ Rongxin Zhang
 - [원세영](https://github.com/seyoung5744)
 - [Kaison Liu](https://github.com/capton586)
 - [🔗 Armaan Singh Klair](https://github.com/ArmaanSinghKlair)
-- [Abdelrahman_Mohye](https://github.com/aboda-0100011) 
+- [Abdelrahman_Mohye](https://github.com/aboda-0100011)
 - [Madhav Choudhry](https://github.com/madhavchoudhry23)
 - [Rayhan Islam Rabby](https://github.com/rayhanislamrabby)
 - Omnia Hussein
