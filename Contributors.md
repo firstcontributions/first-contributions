@@ -189,6 +189,7 @@ rodrick
 - [Paul Stefano Fetalvero](https://https://github.com/Fatalversion):- First step into open source, looking forward to contributing more.
 - [Chetan] (https://github.com/chetaniitbhilai) :- Let's try this as well.
 - [Durgesh Gorana](https://github.com/07Durgesh):- My first open source contribution, looking forward to contribute more!
+- [Will](https://github.com/CrimsonKarma44/):- not my first overall but my first attempt on an opensource project
 - [Anush] (https://github.com/Anush807): Hello world !
 - [Anurag Chandra](https://github.com/anuragchandr):- I had a experiance of open source through GSSoC, now i want to restart it in open world.Greeting everyone.🥰
 - [Yassin Abdelghany](https://github.com/yss1n-0): This is just the beginning! 🐣
