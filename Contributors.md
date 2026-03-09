@@ -1,5 +1,6 @@
 # Contributors
 - [Ton Lin]
+- [Tariq Menla](https://github.com/Tariq-Menla)
 - [MeowWow520](https://meowwow520.cn/)
 - [Aman Jha] ([23f2003233](https://github.com/23f2003233))
 - [Daerian] (https://github.com/Daerian)
@@ -165,7 +166,7 @@
 - [Aman Singh](https://github.com/Amankumarsingh23)
 - [AmarnathV](https://github.com/amar1009)
 - [Ambar Singh](https://github.com/ambar-singh)
-- [Aryan Mehrotra]
+- [Aryan Mehrotra](https://github.com/aryanmehrotra)
 Chris
 Ashwin
 RLeish
