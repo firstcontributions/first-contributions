@@ -1,4 +1,5 @@
 # Contributors
+- [Maurice Carroll] (https://github.com/nwbikedude)
 - [Ton Lin]
 - [Tariq Menla](https://github.com/Tariq-Menla)
 - [MeowWow520](https://meowwow520.cn/)
