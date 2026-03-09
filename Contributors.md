@@ -593,6 +593,7 @@ Rongxin Zhang
 - [Lohith Arcot](https://github.com/LohithArcot)
 - [Lohith Sai](https://github.com/lohith11)
 - [Loic Hounyovi](https://github.com/mechakc)
+- [LokashakthivelSP](https://github.com/lokashakthivel-sp)
 - [LoongSir-ME](https://github.com/LoongSir-ME)
 - [LostChyld](https://github.com/dragonsewist/)
 - [Lottie Judge](https://github.com/lottiejudge-source)
