@@ -1431,3 +1431,4 @@ Rongxin Zhang
 - [Squidpan Eleven](https://github.com/squidpan)
 -Sriram
 - [kanikshaar](https://github.com/kanikshaar-1204)
+- [Pranjal Patil](https://github.com/pranjalp31)
