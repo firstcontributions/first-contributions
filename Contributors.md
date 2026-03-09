@@ -1,6 +1,8 @@
 # Contributors
+- [Ton Lin]
 - [MeowWow520](https://meowwow520.cn/)
 - [Aman Jha] ([23f2003233](https://github.com/23f2003233))
+- [Daerian] (https://github.com/Daerian)
 - [Y Bhavana](https://github.com/yalalabhavana17-cmyk)
 - [jjipper] (https://github.com/jjipper)
 - [Abhay Agnihotri](https://github.com/Abhay-Agnihotri01/)
@@ -8,6 +10,7 @@
 - [Bishwa7](https://github.com/Bishwa7)
 - [yjh7979-12](https://github.com/yjh7979-12/)
 - [24f2008014](https://github.com/24f2008014)
+- [kumsb](https://github.com/24f2008015)
 - [PrincejiCoder](https://github.com/PrincejiCoder)
 - [Mohammad Yasir Khan](https://github.com/myasir-khan)
 - [Ammar Tafoiki](https://github.com/ammar116/)
@@ -40,6 +43,7 @@
 - [yjh7979](https://github.com/yjh7979)
 - [VipulBhattt](https://github.com/VipulBhattt)
 - Max
+- Sean Butt
 - Gonzalo (https://github.com/GonzaloAleo)
 - 23f3000487@ds.study.iitm.ac.in
 -[alejandro soto martinez](https://github.com/Alexsoto042)
@@ -163,6 +167,7 @@
 - [Aryan Mehrotra]
 Chris
 Ashwin
+RLeish
 - [Santosh M Savalgi](https://github.com/Santosh-M-Savalgi)
 - [Ameer Ali](https://github.com/Ameeeerr)
 - [Amin abdolahi](https://github.com/Amin-Abdolahi)
@@ -367,6 +372,7 @@ Ben
 - [EB](https://github.com/boranj)
 - [EM KalpaniEkanayake](https://github.com/Kalpiekanayake)
 - [EdVKu](https://github.com/EdVKu)
+Steve
 - [Edgar Justus](https://github.com/edgarjustus)
 - [Eduardo](https://github.com/Edd17369)
 - [EduBroilo](https://github.com/EduBroilo)
@@ -1440,3 +1446,4 @@ Rongxin Zhang
 - - [Harshit Gupta](https://github.com/Ashusf90)
 - [Krishna Sahithi](https://github.com/sahithi-prog-ops)
 - [Nikhil Kinikar](https://github.com/nikhilk001)
+- [Scott Rector] (https://github.com/scottrector60/first-contributions-sdr)
