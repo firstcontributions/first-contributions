@@ -5,6 +5,7 @@
 - [Abhay Agnihotri](https://github.com/Abhay-Agnihotri01/)
 - [vencentDebug](https://github.com/vencentDebug/first-contributions)
 - [yjh7979-12](https://github.com/yjh7979-12/)
+- [24f2008014](https://github.com/24f2008014)
 - [PrincejiCoder](https://github.com/PrincejiCoder)
 - [Ammar Tafoiki](https://github.com/ammar116/)
 - [Hamad Ullah](https://github.com/hammadaiy/)
@@ -17,6 +18,7 @@
 - [Abdelhamid Ellab](https://github.com/Abdelhamid04)
 - [Alice-Chxn](https://github.com/alicechan-dev)
 - [Shyam Chavda](https://github.com/ShyamChavda005)
+- [JN Gonzales](https://github.com/jngonzales)
 - [Aman Jha](https://github.com/ajha19)
 - [Prathyusha Marri](https://github.com/Prathyusha-hub-M)
 - [Saket Anand](https://www.saketanand.com)
@@ -271,6 +273,7 @@ Ben
 - [Carina Mach](https://github.com/carinamach)
 - [Carlos FH](https://github.com/carlosfhz13)
 - [Cecex](https://github.com/Cecex-git)
+- [Begali]
 - [Chaimae](https://github.com/GRICHChaimae)
 - [Chamith Dilshan Tharuka](https://github.com/ChamithDilshanTharuka)
 - [Chamudika Yagabamunu](https://github.com/Chamudika31)
@@ -473,6 +476,7 @@ Ben
 - [JBetz-Dev](https://github.com/JBetz-Dev)
 - [JJFJ](https://github.com/PugKing22)
 - [Jaanvi Chouhan](https://github.com/Jaanvichouhan34)
+- Janis J
 - [Jackie](https://github.com/PyXMR2025)
 - [Jackson Bichard](https://github.com/JacksonBichard)
 - [Jaideep Kalagara](https://github.com/jaideep-kalagara)
@@ -546,6 +550,7 @@ Ben
 - [Karim_Mohamed](https://github.com/KarimAlkabily)
 - [Karri Saiphani Reddy](https://github.com/Saiphani1022)
 - [Kartik Yadav](https://github.com/kartik912)
+- [Karthik Sai](https://github.com/KarthikSai08)
 - [Karuna Gawai](https://github.com/zero-one1)
 - [Kassahun F](https://github.com/Kas1398)
 - [Kaushal Vaid](https://github.com/Kaushal00Vaid)
@@ -594,6 +599,7 @@ Rongxin Zhang
 - [Lohith Arcot](https://github.com/LohithArcot)
 - [Lohith Sai](https://github.com/lohith11)
 - [Loic Hounyovi](https://github.com/mechakc)
+- [LokashakthivelSP](https://github.com/lokashakthivel-sp)
 - [LoongSir-ME](https://github.com/LoongSir-ME)
 - [LostChyld](https://github.com/dragonsewist/)
 - [Lottie Judge](https://github.com/lottiejudge-source)
@@ -681,6 +687,7 @@ Rongxin Zhang
 - [Mohammed Saqib Rehaman Namzi](https://github.com/md-saqib001)
 - [Mohd Rayyan Lulaniya](https://github.com/Rayyan-101)
 - [Moiie](https://github.cim/Moiie)
+- [Monika R](https://github.com/monika-r9363)
 - [Momina Fatima](https://github.com/mominaaa0)
 - [Moulidhar](https://github.com/MoulidharC)
 - [Mridul Narain](https://github.com/narainmridul)
@@ -1424,4 +1431,5 @@ Rongxin Zhang
 
 - [Linda Marika](https://github.com/LindaMarika)
 - [GordonGGKGG](https://github.com/GordonGGKGG)
-
+- [fengtaowu](https://github.com/fengtaowu)
+- [Manav Pal](https://github.com/manavpal-dev)
