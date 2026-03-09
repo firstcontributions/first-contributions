@@ -46,6 +46,7 @@
 - [Shravani Devakar](https://github.com/shravani-devakar)
 - [1ESA1](https://github.com/1ESA1)
 - [Gabriele Ferrero](https://github.com/devgfe)
+- [Mandela Pulei](https://github.com/Oleysank)
 - [Manisha Dhankhar](https://github.com/ManishaDhankhar)
 - [2003myriam](https://github.com/2003myriam)
 - [mananjp](https://github.com/mananjp)
@@ -1320,7 +1321,7 @@ Rongxin Zhang
 - [Sagar Gupta](https://github.com/Sagargupta16)
 - [eric](https://github.com/Eric-Code09)
 - [Vivek Kumar Mali](https://github.com/24f2002719)
-<<<<<<< HEAD
+
 - [Zhou Guangde](https://github.com/Zm-112)
 - [graah-lhuu](https://github.com/graah-lhuu)
 - [Swarnali Saha](https://github.com/swarnalism)
@@ -1416,5 +1417,10 @@ Rongxin Zhang
 - - [dmatiason09](https://github.com/dmatiason09)
 - [Ryo Satriagung Hidayat](https://github.com/ryosatria2105)
 
+
 - [graah-lhuu](https://github.com/graah-lhuu)
+
+
+- [Linda Marika](https://github.com/LindaMarika)
+- [GordonGGKGG](https://github.com/GordonGGKGG)
 
