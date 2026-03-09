@@ -40,7 +40,6 @@
 - [yjh7979](https://github.com/yjh7979)
 - [VipulBhattt](https://github.com/VipulBhattt)
 - Max
-- Pranavgp24
 - Gonzalo (https://github.com/GonzaloAleo)
 - 23f3000487@ds.study.iitm.ac.in
 -[alejandro soto martinez](https://github.com/Alexsoto042)
@@ -1435,4 +1434,5 @@ Rongxin Zhang
 -Sriram
 - [kanikshaar](https://github.com/kanikshaar-1204)
 - [Pranjal Patil](https://github.com/pranjalp31)
+- Pranavgp24
 - (This line is added to show that auto-pr-merge workflow has bug allow any single line change)
