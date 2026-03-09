@@ -17,6 +17,7 @@
 - [Abdelhamid Ellab](https://github.com/Abdelhamid04)
 - [Alice-Chxn](https://github.com/alicechan-dev)
 - [Shyam Chavda](https://github.com/ShyamChavda005)
+- [JN Gonzales](https://github.com/jngonzales)
 - [Aman Jha](https://github.com/ajha19)
 - [Prathyusha Marri](https://github.com/Prathyusha-hub-M)
 - [Saket Anand](https://www.saketanand.com)
