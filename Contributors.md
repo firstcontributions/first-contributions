@@ -1443,3 +1443,4 @@ Rongxin Zhang
 - - [Harshit Gupta](https://github.com/Ashusf90)
 - [Krishna Sahithi](https://github.com/sahithi-prog-ops)
 - [Nikhil Kinikar](https://github.com/nikhilk001)
+- [Scott Rector] (https://github.com/scottrector60/first-contributions-sdr)
