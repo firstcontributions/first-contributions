@@ -270,6 +270,7 @@ Ben
 - [Carina Mach](https://github.com/carinamach)
 - [Carlos FH](https://github.com/carlosfhz13)
 - [Cecex](https://github.com/Cecex-git)
+- [Begali]
 - [Chaimae](https://github.com/GRICHChaimae)
 - [Chamith Dilshan Tharuka](https://github.com/ChamithDilshanTharuka)
 - [Chamudika Yagabamunu](https://github.com/Chamudika31)
