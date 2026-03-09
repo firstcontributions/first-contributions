@@ -472,6 +472,7 @@ Ben
 - [JBetz-Dev](https://github.com/JBetz-Dev)
 - [JJFJ](https://github.com/PugKing22)
 - [Jaanvi Chouhan](https://github.com/Jaanvichouhan34)
+- Janis J
 - [Jackie](https://github.com/PyXMR2025)
 - [Jackson Bichard](https://github.com/JacksonBichard)
 - [Jaideep Kalagara](https://github.com/jaideep-kalagara)
