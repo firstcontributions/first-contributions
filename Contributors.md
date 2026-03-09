@@ -582,6 +582,7 @@ Rongxin Zhang
 - [KrimPast](https://github.com/KrimPast)
 - [Krishan Kumar Singh](https://github.com/Krishan131)
 - [Krishna-Raj](https://github.com/krishna-stone)
+- [Kumar Sujal](https://github.com/SuperiorSU)
 - [Kushal Chavan](https://github.com/Kushalchavan)
 - [Kushal Obroy](https://github.com/Kushalobroy)
 - [Kushal V Achar](https://github.com/kushalvachar2006)
