@@ -1,6 +1,8 @@
 # Contributors
+- [Ton Lin]
 - [MeowWow520](https://meowwow520.cn/)
 - [Aman Jha] ([23f2003233](https://github.com/23f2003233))
+- [Daerian] (https://github.com/Daerian)
 - [Y Bhavana](https://github.com/yalalabhavana17-cmyk)
 - [jjipper] (https://github.com/jjipper)
 - [Abhay Agnihotri](https://github.com/Abhay-Agnihotri01/)
@@ -8,6 +10,7 @@
 - [Bishwa7](https://github.com/Bishwa7)
 - [yjh7979-12](https://github.com/yjh7979-12/)
 - [24f2008014](https://github.com/24f2008014)
+- [kumsb](https://github.com/24f2008015)
 - [PrincejiCoder](https://github.com/PrincejiCoder)
 - [Mohammad Yasir Khan](https://github.com/myasir-khan)
 - [Ammar Tafoiki](https://github.com/ammar116/)
@@ -40,6 +43,7 @@
 - [yjh7979](https://github.com/yjh7979)
 - [VipulBhattt](https://github.com/VipulBhattt)
 - Max
+- Sean Butt
 - Gonzalo (https://github.com/GonzaloAleo)
 - 23f3000487@ds.study.iitm.ac.in
 -[alejandro soto martinez](https://github.com/Alexsoto042)
@@ -67,12 +71,14 @@
 - [RibelAI](https://github.com/RibelAI)
 - [AJ Gyro](https://github.com/AJGyro)
 - [Leon](https://github.com/Leonels12)
+  - [JosecalderonGIT10](https://github.com/JosecalderonGIT10)
 - [Akshat Singhai](https://github.com/akshatsinghai6682-sketch)
 - [AKANKSHA JADHAV](https://github.com/Akankshaa1213)
 - [Aditya Zala](https://github.com/AdityaZala3919)
 - [APC](https://github.com/achamberlain04)
 - [AP3008](https://github.com/AP3008)
 - [ARCHANA_GURUSAMY](https://github.com/ARCHANA-SENGUNTHAR)
+- [HIMANSHU_AGRAWAL](https://github.com/Himanshuagrawal2003)
 - abubakar
 -[Tommmy]
 - [sancer](https://github.com/SantCer/first-contributions.git)
@@ -161,6 +167,7 @@
 - [Aryan Mehrotra]
 Chris
 Ashwin
+RLeish
 - [Santosh M Savalgi](https://github.com/Santosh-M-Savalgi)
 - [Ameer Ali](https://github.com/Ameeeerr)
 - [Amin abdolahi](https://github.com/Amin-Abdolahi)
@@ -365,6 +372,7 @@ Ben
 - [EB](https://github.com/boranj)
 - [EM KalpaniEkanayake](https://github.com/Kalpiekanayake)
 - [EdVKu](https://github.com/EdVKu)
+Steve
 - [Edgar Justus](https://github.com/edgarjustus)
 - [Eduardo](https://github.com/Edd17369)
 - [EduBroilo](https://github.com/EduBroilo)
@@ -1436,3 +1444,8 @@ Rongxin Zhang
 - [Pranjal Patil](https://github.com/pranjalp31)
 - Pranavgp24
 - (This line is added to show that auto-pr-merge workflow has bug allow any single line change)
+- (This line is added to show that auto-pr-merge workflow has bug allow any single line change)
+- - [Harshit Gupta](https://github.com/Ashusf90)
+- [Krishna Sahithi](https://github.com/sahithi-prog-ops)
+- [Nikhil Kinikar](https://github.com/nikhilk001)
+- [Scott Rector] (https://github.com/scottrector60/first-contributions-sdr)
