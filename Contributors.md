@@ -1256,6 +1256,7 @@ Rongxin Zhang
 - [sudhakarpappu](https://github.com/sudhakarpappu)
 - [sunjie](https://github.com/sj2902732578)
 - [Burchmire](https://github.com/Burchmire)
+- [Braydon Pettit](https://github.com/bray2sick)
 - [BuffyCode](https://github.com/BuffyCode)
 - [swaraj reddy](https://github.com/swarajreddy10)
 - [sxpar](https://github.com/sxpar)
