@@ -2939,3 +2939,4 @@ hello
 - Shunzi Yang: Hello, I am from China. This is my beginning of changing the world! 
 Dinesh Ingale 
 - [Ankita Rathore](https://github.com/Ankita19Rathore)
+- [Dhanashri Shivdas](https://github.com/DHANASHRI1221): Hello! I am from IIT Delhi, interested in Software Engineering and Machine Learning. This is my first open-source contribution.
