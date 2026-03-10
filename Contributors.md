@@ -66,6 +66,7 @@
 -[shiv bhajan akela ](https://github.com/akela007/first-contributions)
 - [1828](https://github.com/18-28)
 - [RobertMarc19] (https://github.com/RobertMarc19)
+- [Tanmay Raj](https://github.com/Tanmayraj31)
 - [Baseer Afridi](https://github.com/baseergroot)
 - [Shravani Devakar](https://github.com/shravani-devakar)
 - [1ESA1](https://github.com/1ESA1)
@@ -1468,3 +1469,4 @@ Rongxin Zhang
 - [Nishkarsh] (https://github.com/Nishkarshgupt)
 - [Yashveer Singh](https://github.com/yashveerniat)
 - [Tanishka Chopadkar](https://github.com/chopadkartanishka)
+- [Tanmay Raj](https://github.com/Tanmayraj31)
