@@ -1470,3 +1470,4 @@ Rongxin Zhang
 - [Nishkarsh] (https://github.com/Nishkarshgupt)
 - [Yashveer Singh](https://github.com/yashveerniat)
 - [Tanishka Chopadkar](https://github.com/chopadkartanishka)
+-[Daniele](https://github.com/DanieleNTCentral)
