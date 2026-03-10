@@ -53,6 +53,7 @@
 - Gonzalo (https://github.com/GonzaloAleo)
 - 23f3000487@ds.study.iitm.ac.in
 -[alejandro soto martinez](https://github.com/Alexsoto042)
+-  [shweta yadav](https://github.com/shwetayadav16/)
 -[Jppat](https://github.com/Jppat/)
 - [Suhayb Faysal](https://github.com/DrZiMo)
 - [Deepak Sriram](https://github.com/sriram15112001)
