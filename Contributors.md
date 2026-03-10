@@ -1459,3 +1459,4 @@ Rongxin Zhang
 - [Nikhil Kinikar](https://github.com/nikhilk001)
 - [Scott Rector] (https://github.com/scottrector60/first-contributions-sdr)
 - [Nishkarsh] (https://github.com/Nishkarshgupt)
+- [Yashveer Singh](https://github.com/yashveerniat)
