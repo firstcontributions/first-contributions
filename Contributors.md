@@ -1,6 +1,7 @@
 # Contributors
 - [Maurice Carroll] (https://github.com/nwbikedude)
 - [Ton Lin]
+- [Ibrahim_Abbas] (https://github.com/IbrahimAbbas-spec)
 - [Tariq Menla](https://github.com/Tariq-Menla)
 - [MeowWow520](https://meowwow520.cn/)
 - [Aman Jha] ([23f2003233](https://github.com/23f2003233))
