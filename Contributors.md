@@ -1445,6 +1445,7 @@ Rongxin Zhang
 - [GordonGGKGG](https://github.com/GordonGGKGG)
 - [fengtaowu](https://github.com/fengtaowu)
 - [Manav Pal](https://github.com/manavpal-dev)
+- [Motus](https://github.com/xuzihao0226)
 - [Squidpan Eleven](https://github.com/squidpan)
 -Sriram
 - [kanikshaar](https://github.com/kanikshaar-1204)
