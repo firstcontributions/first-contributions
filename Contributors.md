@@ -342,6 +342,7 @@ Ben
 - [Dave Herr](https://github.com/dave-herr)
 - [Deekshith](https://github.com/Deekshith2485)
 - [Deep Timbaliya](https://github.com/deeptimbaliya)
+- [Demuliere Lucas](https://github.com/6zaille)
 - [Dev Goel](https://github.com/404Dev-notFound)
 - [Dev Goyal](https://github.com/DevGoyal9238)
 - [Devanshu](https://github.com/devanshu23bcs030)
