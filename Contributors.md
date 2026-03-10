@@ -1485,3 +1485,4 @@ Rongxin Zhang
 -[Yubi](https://github.com/yubi00)
 Merjen Amanmuradova
 [siperman12](https://github.com/siperman12)
+-[Frozen Fried](https://github.com/Frozen-Fried)
