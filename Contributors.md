@@ -1327,6 +1327,7 @@ Rongxin Zhang
 - [yashpr349](https://github.com/yashpr349)
 - [youssefelganini](https://github.com/youssefelganini)
 - [zaka](https://github.com/oraichezakariyae)
+- [Zakariye Mohamed](https://github.com/zakiscoding)
 - [Donaldo Zoubery](https://github.com/donaldozoubery)
 - [zs1981](https://github.com/zs1981)
 - [zxc-lucky](https://github.com/zxc-lucky)
