@@ -1449,6 +1449,7 @@ Rongxin Zhang
 - [Pranjal Patil](https://github.com/pranjalp31)
 - (This line is added to show that auto-pr-merge workflow has bug allow any single line change)
 - - [Harshit Gupta](https://github.com/Ashusf90)
+- [Kabiraj Khatri](https://github.com/kabiraj)
 - [Krishna Sahithi](https://github.com/sahithi-prog-ops)
 - [Nikhil Kinikar](https://github.com/nikhilk001)
 - [Scott Rector] (https://github.com/scottrector60/first-contributions-sdr)
