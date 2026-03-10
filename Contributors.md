@@ -11,7 +11,7 @@
 - [Xiaochun Bai](https://github.com/Bingtagui404)
 - [Daerian] (https://github.com/Daerian)
 - [Y Bhavana](https://github.com/yalalabhavana17-cmyk)
-- [z0ryn](github.com/z0ryn)
+- [z0ryn](https://www.github.com/z0ryn)
 - [Md. Kamran Alam](https://github.com/mdkamranalam)
 - [jjipper] (https://github.com/jjipper)
 - [Abhay Agnihotri](https://github.com/Abhay-Agnihotri01/)
