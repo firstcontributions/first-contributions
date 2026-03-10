@@ -50,6 +50,7 @@
 - [reboyu](https://github.com/rezhboyu)
 - Sean Butt
 - [ZhangHao]
+- daniel1876-zhuo
 - Gonzalo (https://github.com/GonzaloAleo)
 - 23f3000487@ds.study.iitm.ac.in
 -[alejandro soto martinez](https://github.com/Alexsoto042)
