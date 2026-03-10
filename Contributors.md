@@ -1,10 +1,11 @@
 # Contributors
-- [Maurice Carroll] (https://github.com/nwbikedude)
+- [Ankush Gulia](https://github.com/ankushkgulia)
+- [Maurice Carroll](https://github.com/nwbikedude)
 - [Ton Lin]
-- [Ibrahim_Abbas] (https://github.com/IbrahimAbbas-spec)
+- [Ibrahim_Abbas](https://github.com/IbrahimAbbas-spec)
 - [Tariq Menla](https://github.com/Tariq-Menla)
 - [MeowWow520](https://meowwow520.cn/)
-- [Aman Jha] ([23f2003233](https://github.com/23f2003233))
+- [Aman Jha]([23f2003233](https://github.com/23f2003233))
 - [Xiaochun Bai](https://github.com/Bingtagui404)
 - [Daerian] (https://github.com/Daerian)
 - [Y Bhavana](https://github.com/yalalabhavana17-cmyk)
