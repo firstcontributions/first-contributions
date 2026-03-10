@@ -11,7 +11,7 @@
 #### _যদি কমান্ড লাইনে সমস্যা হয়, [তবে নীচে একটি GUI টুল ব্যবহার করে টিউটোরিয়াল দেওয়া হয়েছে।](#অন্যান্য-টুল-ব্যবহারের-টিউটোরিয়াল)_
 
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="এই রিপোজিটরি ফর্ক করুন" />
 
 আপনার কম্পিউটারে গিট না থাকলে, [ ইনস্টল করুন ](https://help.github.com/articles/set-up-git/)।
 
@@ -22,23 +22,23 @@
 
 ## রিপোজিটরি ক্লোন করুন
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="এই রিপোজিটরি ক্লোন করুন" />
 
 এখন এই রিপোজিটরিটি আপনার কম্পিউটারে ক্লোন করুন। এজন্যে প্রথমে ক্লোন(Clone) বাটনে ক্লিক করুন। এরপর ক্লিক করুন _ক্লিপবোর্ডে কপি করুন(copy to clipboard)_ আইকনটিতে।
 
 আপনার টার্মিনাল (উইন্ডোজের ক্ষেত্রে কমান্ড প্রম্পট (CMD)) চালু করুন এবং নিচের কমান্ড রান করুন :
 
-```
+```bash
 git clone "url you just copied"
 ```
 
 যেখানে "url you just copied" (উদ্ধৃতি চিহ্ন ব্যতীত) হচ্ছে এই রিপোজিটরির ইউআরএল যা আপনি পূর্বের ধাপেই পেয়েছেন।
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="ইউআরএল ক্লিপবোর্ডে কপি করুন" />
 
 যেমন:
 
-```
+```bash
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 
@@ -48,19 +48,19 @@ git clone https://github.com/this-is-you/first-contributions.git
 
 আপনার কম্পিউটারে রিপোজিটরির ডিরেক্টরিতে যান (যদি এখনো অন্য ডিরেক্টরিতে থাকেন) :
 
-```
+```bash
 cd first-contributions
 ```
 
 এখন `git switch` কমান্ডের মাধ্যমে একটি ব্রাঞ্চ তৈরি করুন :
 
-```
+```bash
 git switch -c <your-new-branch-name>
 ```
 
 যেমন :
 
-```
+```bash
 git switch -c add-alonzo-church
 ```
 
@@ -70,13 +70,13 @@ git switch -c add-alonzo-church
 
 এখন যে কোন টেক্সট এডিটরে `Contributors.md` ফাইলটি খুলুন, এতে আপনার নাম যুক্ত করুন, অতঃপর ফাইলটি সেভ করুন। এবার প্রজেক্ট ডিরেক্টরি থেকে `git status` কমান্ড রান করলে আপনি পরিবর্তনগুলো দেখতে পাবেন। `git add` কমান্ড দ্বারা এই পরিবর্তনগুলো আপনার তৈরি ব্রাঞ্চে যুক্ত করুন :
 
-```
+```bash
 git add Contributors.md
 ```
 
 এরপর `git commit` কমান্ড ব্যবহার করে এই পরিবর্তনগুলো কমিট করুন :
 
-```
+```bash
 git commit -m "Add <your-name> to Contributors list"
 ```
 
@@ -86,7 +86,7 @@ git commit -m "Add <your-name> to Contributors list"
 
 `git push` কমান্ড ব্যবহার করে পরিবর্তনগুলো পুশ করুন :
 
-```
+```bash
 git push origin -u <your-new-branch-name>
 ```
 
@@ -109,11 +109,11 @@ git push origin -u <your-new-branch-name>
 
 আপনার গিটহাব রিপোজিটরিতে `Compare & pull request` বাটনে ক্লিক করুন।
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="পুল রিকোয়েস্ট তৈরি করুন" />
 
 এখন _পুল রিকোয়েস্ট_ সাবমিট করুন।
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="পুল রিকোয়েস্ট জমা দিন" />
 
 শীঘ্রই আমি এই প্রজেক্টের মাস্টার ব্রাঞ্চে আপনার সমস্ত পরিবর্তন গুলো মার্জ করব। পরিবর্তনগুলি একত্রিত হয়ে গেলে আপনি একটি নিশ্চিতকরণ ই-মেইল পাবেন৷
 

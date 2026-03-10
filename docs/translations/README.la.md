@@ -12,7 +12,7 @@
 
 ຖ້າພ້ອມແລ້ວເຮົາມາລອງສົ່ງ contibution ທຳອິດກັນໄດ້ພຽງບໍ່ເທົ່າໃດຂັ້ນຕອນດ້ານລຸ່ມໄປພ້ອມໆກັນເລີຍ, ບອກເລີຍວ່າງ່າຍກວ່າປອກກ້ວຍ.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="Crea exemplar huius repositoris" />
 
 ຫາກໃຜຍັງບໍ່ໄດ້ຕິດຕັ້ງ git ລົງໃນເຄື່ອງ, ທ່ານສາມາດກົດລິ້ງ[ຕິດຕັ້ງໄດ້ທີ່ນີ້]( https://help.github.com/articles/set-up-git/ )
 
@@ -24,7 +24,7 @@
 
 ## ກົດປຸ່ມ "Clone" ໂປຣເຈັກນີ້
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="Replica hoc repositorium" />
 
 ມາຮອດຂັ້ນຕອນນີ້ເຮົາກໍ່ Clone ໂປຣເຈັກລົງມາທີ່ຄອມພິວເຕີຂອງເຮົາໂດຍການກົດທີ່ປຸ່ມ "Clone" ແລ້ວເລືອກ *Copy to clipboard* (ຄຳສັ່ງຄັດລອກ)
 
@@ -35,7 +35,7 @@ git clone "url ທີ່ຄັດລອກໄວ້"
 ```
 "url ທີ່ຄັດລອກໄວ້" (ບໍ່ຕ້ອງໃສ່ " ") ຄື url ຂອງໂປຣເຈັກຂອງທ່ານ ທ່ານສາມາດກັບໄປເບິ່ງວິທີການຄັດລອກ url ໄດ້ຈາກຫົວຂໍ້ກ່ອນໜ້ານີ້
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="URL in tabulam memoriae copia" />
 
 ຕົວຢ່າງ:
 ```
@@ -65,7 +65,7 @@ git checkout -b add-phongphat-khamphiew
 
 ຕອນນີ້ໃຫ້ເປີດໄຟລ໌ `Contributors.md` ໃນໂປຣແກຣມ text editor ເພີ່ມຊື່ຂອງທ່ານລົງໄປ ຈາກນັ້ນບັນທຶກໄຟລ໌
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="Statum Git" />
 
 ໃນ terminal ຖ້າທ່ານຢູ່ທີ່ directory ຂອງໂປຣເຈັກ ໃຫ້ລອງພິມຄຳສັ່ງ `git status` ຈະເຫັນວ່າທ່ານໄດ້ປ່ຽນແປງໄຟລ໌ໃດແນ່ແລ້ວ.
 
@@ -92,11 +92,11 @@ git push origin <ຊື່ branch ຂອງທ່ານ>
 
 ໄປທີ່ repository ຂອງທ່ານເທິງ GitHub ກົດທີ່ `Compare & pull request`
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="Crea petitionem trahendi" />
 
 ຕອນນີ້ກໍ່ສົ່ງ Pull Request ໄປທີ່ໂປຣເຈັກຫຼັກ ຫຼື ໂປຣເຈັກຕົ້ນນ້ຳໄດ້ເລີຍ
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="Mitte petitionem trahendi" />
 
 ເຮົາຈະທຳການ "Merge" ຫຼື ລວມຜົນງານທີ່ທ່ານໄດ້ປ່ຽນແປງ code ມາທີ່ master branch ຂອງໂປຣເຈັກນີ້, ທ່ານຈະໄດ້ຮັບອີເມວເມື່ອເຮົາໄດ້ທຳການ Merge ຜົນງານຂອງທ່ານສຳເລັດແລ້ວ.
 
