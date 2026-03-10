@@ -47,6 +47,7 @@
 - [yjh7979](https://github.com/yjh7979)
 - [VipulBhattt](https://github.com/VipulBhattt)
 - Max
+- [reboyu](https://github.com/rezhboyu)
 - Sean Butt
 - [ZhangHao]
 - Gonzalo (https://github.com/GonzaloAleo)
@@ -1459,4 +1460,5 @@ Rongxin Zhang
 - [Nikhil Kinikar](https://github.com/nikhilk001)
 - [Scott Rector] (https://github.com/scottrector60/first-contributions-sdr)
 - [Nishkarsh] (https://github.com/Nishkarshgupt)
+- [Yashveer Singh](https://github.com/yashveerniat)
 - [Tanishka Chopadkar](https://github.com/chopadkartanishka)
