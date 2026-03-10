@@ -124,6 +124,7 @@
 - [Abhinand B](https://github.com/abhinand2511)
 - [Abhinav Dwivedi](https://github.com/abhinavdwivedi05)
 - [Abhishek bhatt](https://github.com/abhirbhatt)
+- [Trinath Swain](https://github.com/Trinathswain45)
 - [Abinesh Sundar](https://github.com/Abinesh-Sundar/a-open-source)
 - [Abusaeed Shuvo](https://github.com/abusaeed-shuvo)
 - [Achan Sai Pranay](https://github.com/Achan-Sai-pranay)
