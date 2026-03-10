@@ -815,6 +815,7 @@ Rongxin Zhang
 - [Pantkartik](https://github.com/Pantkartik)
 - [Paras Parte](https://github.com/parasparte12)
 - [Paras](https://github.com/ParasSalonia)
+- [Patrick Araujo](https://github.com/PkLavc)
 - [Patrick Poon](https://github.com/PatrickPoon-dev)
 - [Paula Amorim](https://github.com/paulamori)
 - [Paul Henry Atienza](https://github.com/phatienza/)
