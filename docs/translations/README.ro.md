@@ -122,7 +122,7 @@ Felicitări! Ați finalizat fluxul standard _fork -> clone -> edit -> pull reque
 
 Sărbătoriți-vă contribuția și partajați-o cu prietenii și urmăritorii dvs., accesând [aplicația web](https://firstcontributions.github.io/#social-share).
 
-Puteți să vă alăturați echipei noastre Slack dacă aveți nevoie de ajutor sau aveți întrebări. [Alăturați-vă echipei Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1n4y7xnk0-DnLVTaN6U9xLU79H5Hi62w).
+Dacă doriți mai multă practică, consultați [code contributions](https://github.com/roshanjossey/code-contributions).
 
 Acum să vă începem cu contribuția la alte proiecte. Am compilat o listă de proiecte cu probleme ușoare cu care puteți începe. Verificați [lista de proiecte din aplicația web](https://firstcontributions.github.io/#project-list).
 

@@ -27,17 +27,17 @@ Sisan, i ka nin ɲɛbilasɛbɛn in clone i ka ɔridinatɛri kɔnɔ. Clone button
 
 Cikan yɔrɔ dɔ da wuli (n’i bɛ Windows kan) walima terminal (n’i bɛ MacOS walima Linux kan) ka nin git cikan ninnu kɛ:
 ```
-git clone "URL min ye i kopi kɛ sisan"
+git clone "URL min kopi kɛra sisan"
 ```
-wali "URL min ye i kopi kɛ sisan" (ni gillemants tɛ) ye url ye min bɛ kɛ ni ɲɛbilasɛbɛn ye. Aw ye tilayɔrɔ tɛmɛnen lajɛ walasa ka URL sɔrɔ.
+wali "URL min kopi kɛra sisan" (ni gillemants tɛ) ye url ye min bɛ kɛ ni ɲɛbilasɛbɛn ye. Aw ye tilayɔrɔ tɛmɛnen lajɛ walasa ka URL sɔrɔ.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copier l'URL dans le presse-papier" />
 
 misale :
 ```
-git clone https://github.com/votre-nom-d-utilisateur/first-contributions.git
+git clone https://github.com/i-ka-github-tɔgɔ/first-contributions.git
 ```
-yɔrɔ min na `i-tɔgɔ` ye i ka GitHub baarakɛla tɔgɔ ye. Yan i bɛ `first-contributions` ɲɛbilasɛbɛn kɔnɔkow kopi ka bɔ GitHub la ka taa i ka ɔridinatɛri kɔnɔ.
+yɔrɔ min na `i-ka-github-tɔgɔ` ye i ka GitHub baarakɛla tɔgɔ ye. Yan i bɛ `first-contributions` ɲɛbilasɛbɛn kɔnɔkow kopi ka bɔ GitHub la ka taa i ka ɔridinatɛri kɔnɔ.
 
 ## Bolo(contributions) dɔ dabɔ
 
@@ -46,9 +46,9 @@ Aw bɛ taa poroze ɲɛbilasɛbɛn kura clone (n’aw tɛ yen fɔlɔ):
 ```
 cd first-contributions
 ```
-Sisan, bolofara(branch) dɔ dabɔ ni cikan ye`git checkout` :
+Sisan, bolofara(branch) dɔ dabɔ ni cikan ye `git checkout` :
 ```
-git checkout -b <add-votre-nom>
+git checkout -b <add-i-tɔgɔ>
 ```
 
 misale :
@@ -64,19 +64,19 @@ Sisan, `Contributors.md` file da wuli sɛbɛnnikɛlan dɔ kɔnɔ, k'i tɔgɔ far
 git add Contributors.md
 ```
 
-Sisan, aw bɛ o fɛn caman Changements (Yɛlɛma) kɛ ni cikan(commade) ye`git commit`:
+Sisan, aw bɛ o fɛn caman Changements (Yɛlɛma) kɛ ni cikan(commade) ye `git commit`:
 ```
-git commit -m "Add <votre-nom> to Contributors list"
+git commit -m "Add <i-tɔgɔ> to Contributors list"
 ```
-ni `<add-votre-nom>` bilali ye i tɔgɔ nɔ na
+ni `<i-tɔgɔ>` bilali ye i tɔgɔ nɔ na
 
 ## Yɛlɛma caman bɛ GitHub (GitHub) la
 
 Aw bɛ aw ka fɛn caman Changements (Yɛlɛma) Gɛn ni cikan ye `git push` :
 ```
-git push origin <add-votre-nom>
+git push origin <add-i-tɔgɔ>
 ```
-ni `<add-your-name>` bilali ye bolofara min dabɔra ka kɔrɔ, o tɔgɔ bila a nɔ na.
+ni `<add-i-tɔgɔ>` bilali ye bolofara min dabɔra ka kɔrɔ, o tɔgɔ bila a nɔ na.
 
 ##Aw ye aw ka fɛn caman ci walasa ka segin u kan
 
@@ -100,7 +100,7 @@ Fɔlɔ, i ka wuli ka taa bolofara belebeleba(main) la
 
 Ani ka n ka ɲɛbilasɛbɛn url fara a kan i n’a fɔ `upstream remote url`:
 ```
-git yɔrɔjan fara sanfɛ https://github.com/Roshanjossey/fɔlɔ-dɛmɛ
+git yɔrɔjan fara sanfɛ https://github.com/i-ka-github-tɔgɔ/first-contributions
 ```
 Nin ye fɛɛrɛ ye k’a fɔ git ye ​​ko nin ɲɛbilasɛbɛn in bɔko wɛrɛ bɛ yen ladɛrɛsi kofɔlen na wa an b’a wele ko `upstream`. Ni fɛn caman Changements (Yɛlɛma) farala ɲɔgɔn kan, i ka version kura ɲini n ka ɲɛbilasɛbɛn kɔnɔ:
 ```
@@ -117,13 +117,13 @@ git push origin main
 ```
 Kɔlɔsili: Nin sen in na, i bɛ ka gɛlɛya ka taa yɔrɔjan ɲɛbilasɛbɛn na min bɛ wele ko origin.
 
-Nin hakɛ in na n y'i ka bolofara `<add-your-name>` fara n ka bolofara belebele kan, wa i ye n bolofara belebele fara ɲɔgɔn kan n'i ka bolofara belebele ye. I ka bolofara `<add-your-name>` nafa tɛ yen tugun, o la i bɛ se k'a bɔ yen:
+Nin hakɛ in na n y'i ka bolofara `<add-i-tɔgɔ>` fara n ka bolofara belebele kan, wa i ye n bolofara belebele fara ɲɔgɔn kan n'i ka bolofara belebele ye. I ka bolofara `<add-i-tɔgɔ>` nafa tɛ yen tugun, o la i bɛ se k'a bɔ yen:
 ```
-git branch -d <add-votre-nom>
+git branch -d <add-i-tɔgɔ>
 ```
 ani i bɛ se k’a bɔko bɔ yɔrɔjan ɲɛbilasɛbɛn kɔnɔ fana:
 ```
-git push origin --delete <add-votre-nom>
+git push origin --delete <add-i-tɔgɔ>
 ```
 O tɛ wajibi ye, nka bolofara tɔgɔ b’a jira ko a sinsinnen bɛ fɛn kɛrɛnkɛrɛnnen kan kosɛbɛ. A si bɛ se ka kɛ waati surun ye.
 

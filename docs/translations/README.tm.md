@@ -12,7 +12,7 @@ Blog postlary okamak ýa-da wideolary görüp öwrenmek kömek edip biler, ýön
 
 
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="şu repositoryny forklaň" />
 
 #### Eger kompýuteriňizde git ýok bolsa, [şu ýerden ýükläň](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
@@ -23,23 +23,23 @@ Blog postlary okamak ýa-da wideolary görüp öwrenmek kömek edip biler, ýön
 
 ## Şu repositoryny klonlaň(clone)
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="şu repositoryny klonlaň" />
 
 Indi, forklan repositoryny öz kompýuteriňize klonlaň(clone). Bu diýmek, ýaňy siziň github hasabyňyza kopiýasy gelen(forklan) şu proýekti oz kompyuteriňizde-de bir kopiýasyna eýe bolup bilýäňiz. Github hasabyňyza gidiň, forklan repositoryny açyň, code düwmesine basyň, soňra _copy to clipboard_ nyşanyna basyň. 
 
 Terminaly açyp aşakdaky git buýruguny işlediň:
 
-```
+```bash
 git clone "ýaňy kopiýa eden url-ňyz"
 ```
 
 "ýaňy kopiýa eden url-ňyz"(goşa dyrnaksyz) şu repositorynyň url-y (şu proýektiň siziň eden forkuňyz).Url-ny almak üçin ýokarda görkezilenleri yzarlaň.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="URL-ny buferiň içine kopiýalaň" />
 
 Mysal üçin:
 
-```
+```bash
 git clone https://github.com/ulanyjy-ady/first-contributions.git
 ```
 
@@ -49,19 +49,19 @@ git clone https://github.com/ulanyjy-ady/first-contributions.git
 
 Repositorynyň duran papkasynda däl bolsaňyz, şol ýere gidiň:
 
-```
+```bash
 cd first-contributions
 ```
 
 Indi, `git switch` buýrugy arkaly täze şaha(branch) dörediň:
 
-```
+```bash
 git switch -c siziň-täze-şahaňyzyň-ady
 ```
 
 Mysal üçin:
 
-```
+```bash
 git switch -c goş-ahmet-ahmedow
 ```
 
@@ -72,31 +72,30 @@ git switch -c goş-ahmet-ahmedow
 
 Indi, tekst redaktorynda(m.ü VSCode) `Contributors.md` faýlyny açyň, içinde iň soňunda adyňyzy giriziň we ýatda saklaň(save)
 
-```
+```bash
 - [Adyňyz](https://github.com/ulanyjy-adyňyz)
 ```
 
 Mysal üçin:
-```
+```bash
 - [Ahmet Ahmedow](https://github.com/ahmetahmedow)
 ```
 ```](``` arasynda boşluk ýokdur
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git ýagdaýy" />
 
 Terminalda eger proýektiň duran ýerine gidip,```git status``` buýrugyny işletseňiz, şol ýerde bolan üýtgeşmeleri görýaňiz.
 
 ```git add ``` buýrugyny ulanyp şol üýtgeşmeleri ýokarda döreden şahamyza(branch) goşýas:
 
 
-```
+```bash
 git add Contributors.md
 ```
 
 Indi, `git commit` buýrugy arkaly şol üýtgeşmeleri bellige alyp(commit) goýýas:
 
-```
-
+```bash
 git commit -m "<Adyňyz> goşant goşanlaryň hataryna girizildi"
 ```
 `<Adyňyz>` diýen ýere öz adyňyzy ýazyň
@@ -107,7 +106,7 @@ git commit -m "<Adyňyz> goşant goşanlaryň hataryna girizildi"
 
 `git push` buýrugy arkaly üýtgeşmeleriňizi iberiň(push):
 
-```
+```bash
 git push -u origin siziň-şahaňyzyň-ady
 ```
 
@@ -116,11 +115,11 @@ git push -u origin siziň-şahaňyzyň-ady
 ## Üýtgeşmeleriňizi gözden geçirmek üçin ýollaň
 Eger Githubda şu repositoryňyza gitseňiz, `Compare & pull request` düwmesini görýäňiz. Şol düwmä basyň.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="çekiş haýyşnamasyny dörediň" />
 
 Indi, Çekiş haýyşnamasyny(pull request) ýollaň.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="çekiş haýyşnamasyny iberiň" />
 
 Basym, Eden ähli üýtgeşmeleriňizi gözden geçirip, proýektiň esasy şahasy(main branch) bilen birleşdirýäs. Üýtgeşmeler birleşdirilen soň, habarnama alarsyňyz.
 
@@ -133,7 +132,6 @@ Eden goşandyňyza begeniň we dostlaryňyz bilen paýlaşyň!
 
 [Bu baglanma](https://firstcontributions.github.io/#social-share) arkaly hem birnäçe gyzykly proýektlere öz goşandyňyzy goşup bilýäňiz.
 
-Eger-de islendik kömek gerek bolsa ýa-da soraglaryňyz bar bolsa [biziň Slack toparymyza](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA) goşulyp bilýaňiz.
 
 
 
@@ -141,7 +139,7 @@ Eger-de islendik kömek gerek bolsa ýa-da soraglaryňyz bar bolsa [biziň Slack
 
 ## Başga gurallar hakynda sapaklar (ýöne iňlis dilinde)
 
-| <a href="gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
+| <a href="gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop gatnaşygynyň programmasy" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt=" Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="gui-tool-tutorials/ gitkraken-tutorial.md"><img alt=" GitKraken programmasy" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code redaktory" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt=" Sourcetree programmasy" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA programmasy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [GitHub Desktop](gui-tool-tutorials/github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](gui-tool-tutorials/github-windows-vs2017-tutorial.md)                                                                                                                          | [GitKraken](gui-tool-tutorials/gitkraken-tutorial.md)                                                                                                                                        | [Visual Studio Code](gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                                                  | [Atlassian Sourcetree](gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                                      | [IntelliJ IDEA](gui-tool-tutorials/github-windows-intellij-tutorial.md)                                                                                                                                                          |
 
