@@ -18,6 +18,7 @@
 - [Mohammad Yasir Khan](https://github.com/myasir-khan)
 - [Ammar Tafoiki](https://github.com/ammar116/)
 - [Hamad Ullah](https://github.com/hammadaiy/)
+- [Saqib](https://github.com/saq12)
 - [D7mnCh](http://github.com/D7mnCh)
 - [SJ](http://github.com/saaicasm)
 - [Kamipantsu0](https://github.com/Kamipantsu0)
