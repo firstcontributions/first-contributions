@@ -1469,4 +1469,3 @@ Rongxin Zhang
 - [Nishkarsh] (https://github.com/Nishkarshgupt)
 - [Yashveer Singh](https://github.com/yashveerniat)
 - [Tanishka Chopadkar](https://github.com/chopadkartanishka)
-- [Tanmay Raj](https://github.com/Tanmayraj31)
