@@ -900,6 +900,7 @@ Rongxin Zhang
 - [Robert Davis](https://github.com/robertdavis)
 - [Robiya](https://github.com/rhakim24)
 - [Rohit Sharma](https://github.com/rohitt-sharma96)
+- [Rollins Sean](https://github.com/Skaffloc)
 - [Ronak](https://github.com/roonakyadav)
 - [Ronik Kumbhar](https://github.com/ronik62)
 - [Roshan Jha](https://github.com/rosh-py)
