@@ -1,4 +1,6 @@
 # Contributors
+
+[Hardip Jadeja](https://github.com/hardyJ01)
  - [primemorti8-netizen](https://github.com/primemorti8-netizen)
 - [Ankush Gulia](https://github.com/ankushkgulia)
 [Kenil Gorasiya](https://github.com/Kenildev007)
