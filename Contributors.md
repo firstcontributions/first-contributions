@@ -63,6 +63,7 @@
 - [yjh7979](https://github.com/yjh7979)
 - [VipulBhattt](https://github.com/VipulBhattt)
 - Max
+- [Mahefoz Sowad](https://github.com/Mahefoz-Sowad)
 - [Roland Steiner]
 - [reboyu](https://github.com/rezhboyu)
 - Sean Butt
