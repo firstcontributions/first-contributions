@@ -14,6 +14,7 @@
 - [M_Rizwan](https://github.com/rizwan749)
 - [Daerian] (https://github.com/Daerian)
 - [Y Bhavana](https://github.com/yalalabhavana17-cmyk)
+  [Specturr] (https://github.com/Specturr)
 - [z0ryn](github.com/z0ryn)
 - [Md. Kamran Alam](https://github.com/mdkamranalam)
 - [jjipper] (https://github.com/jjipper)
