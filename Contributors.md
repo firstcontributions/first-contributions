@@ -1,4 +1,5 @@
 # Contributors
+ - [primemorti8-netizen](https://github.com/primemorti8-netizen)
 - [Ankush Gulia](https://github.com/ankushkgulia)
 [Kenil Gorasiya](https://github.com/Kenildev007)
 - [Vinesh nayak] (https://github.com/Vineshnayak)
