@@ -5,7 +5,6 @@
 - [Vinesh nayak] (https://github.com/Vineshnayak)
 - [Maurice Carroll] (https://github.com/nwbikedude)
 - [Ton Lin]
-- [Danish] (https://github.com/Danish7911)
 - [Naim Muaz](https://github.com/naimmuaz)git 
 - [Ibrahim_Abbas] (https://github.com/IbrahimAbbas-spec)
 - [Tariq Menla](https://github.com/Tariq-Menla)
@@ -200,6 +199,7 @@
 - [AmarnathV](https://github.com/amar1009)
 - [Ambar Singh](https://github.com/ambar-singh)
 - [Aryan Mehrotra](https://github.com/aryanmehrotra)
+- [Danish] (https://github.com/Danish7911)
 Chris
 Ashwin
 RLeish
