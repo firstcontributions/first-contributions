@@ -4,6 +4,7 @@
 - [Vinesh nayak] (https://github.com/Vineshnayak)
 - [Maurice Carroll] (https://github.com/nwbikedude)
 - [Ton Lin]
+- [Naim Muaz](https://github.com/naimmuaz)
 - [Ibrahim_Abbas] (https://github.com/IbrahimAbbas-spec)
 - [Tariq Menla](https://github.com/Tariq-Menla)
 - [MeowWow520](https://meowwow520.cn/)
