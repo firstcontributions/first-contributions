@@ -1493,6 +1493,7 @@ Rongxin Zhang
 - [Motus](https://github.com/xuzihao0226)
 - [Squidpan Eleven](https://github.com/squidpan)
 -Sriram
+- [Fabirizio Raffaelli](https://github.com/Fabro23)
 - [kanikshaar](https://github.com/kanikshaar-1204)
 - [Pranjal Patil](https://github.com/pranjalp31)
 - (This line is added to show that auto-pr-merge workflow has bug allow any single line change)
