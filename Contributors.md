@@ -1516,4 +1516,5 @@ Merjen Amanmuradova
 - [Shank] (https://github.com/ShashankTiwari1801)
 - [Nidhi Parate] (https://github.com/n1dhiparate)
 - [fzgma] (https://github.com/fzgma)
+- [Pragya Mandal] (github.com/pragyamandal)
 - [Nour] (https://github.com/Nour-ad)
