@@ -10,6 +10,7 @@
 - [Ibrahim_Abbas] (https://github.com/IbrahimAbbas-spec)
 - [Tariq Menla](https://github.com/Tariq-Menla)
 - [MeowWow520](https://meowwow520.cn/)
+- [Odo Kingsley Uchenna] (https://github.com/RealKingHubs)
 - [Aman Jha] ([23f2003233](https://github.com/23f2003233))
 - [Xiaochun Bai](https://github.com/Bingtagui404)
 - [M_Rizwan](https://github.com/rizwan749)
