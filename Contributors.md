@@ -240,6 +240,7 @@ RLeish
 - [Federico Amato](https://github.com/fedesss98)
 - [Anushka Aggarwal](https://github.com/anushka146)
 - [Sumit Sourabh](https://github.com/Sumit-sourabh45)
+- [Rafael Ghiorzi](https://github.com/rafaelghiorzi)
 - [Anushree](https://github.com/Anushree)
 - [Anushtha Mishra](https://github.com/Anushtha-Mishra)
 - [AoJacke](https://github.com/AoJackie)
