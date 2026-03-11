@@ -1,25 +1,23 @@
 ---
 name: Suggest changes
 about: If you want to report a bug or suggest improvements, please open an issue.
-title: ''
+title: 'Feature Request: Improve page load performance via caching'
 labels: discussion, question
 assignees: Roshanjossey
 
 ---
 
-<!--- Provide a general summary of the issue in the Title above -->
-<!-- Make sure that you've read through https://github.com/firstcontributions/first-contributions/issues/35892 and understand the design of this project. If you have questions about it, please write a comment in that issue. -->
-
 🐞 **Problem**
-<!--- Provide a detailed description of the change or addition you are proposing -->
-<!--- If it is a feature or a bug, what problem is it solving-->
+The page load time is significantly slow, leading to a poor user experience. Users have to wait too long for the page to become interactive, which may discourage new contributors from engaging with the project.
 
 🎯 **Goal**
-<!--- Why is this change important to you? How would you use it? -->
-<!--- How can it benefit other users? -->
+The goal is to improve page load performance so that the site feels fast and responsive. Faster load times will make the project more accessible to contributors worldwide, especially those on slower internet connections. This benefits all users by reducing friction when navigating the site.
 
 💡 **Possible solutions**
-<!--- Not obligatory, but suggest an idea for implementing addition or change -->
+Implement caching strategies to reduce redundant network requests and speed up page rendering. This could include:
+- Browser caching for static assets (JS, CSS, images)
+- Server-side caching for frequently requested resources
+- CDN caching to serve assets closer to the user's location
 
 📋  **Steps to solve the problem**
 
