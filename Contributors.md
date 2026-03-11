@@ -1423,6 +1423,7 @@ Rongxin Zhang
 - [Joe Shawky](https://github.com/joeshawky)
 - [Bruno Buss](https://github.com/bussbruno)
 - [Ammar Hassan] (https://github.com/ammarhassan6)
+- [Herald Fortunato](https://github.com/Fortunato-Herald)
 -[Shadan Rashid](https://github.com/Rashid-123)
 -[Nisitha](https://github.com/Nisitha076)
 - [Luqman Cassim](https://github.com/luqmanshaqiq2)
