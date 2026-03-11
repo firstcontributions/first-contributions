@@ -11,6 +11,7 @@
 - [MeowWow520](https://meowwow520.cn/)
 - [Aman Jha] ([23f2003233](https://github.com/23f2003233))
 - [Xiaochun Bai](https://github.com/Bingtagui404)
+- [M_Rizwan](https://github.com/rizwan749)
 - [Daerian] (https://github.com/Daerian)
 - [Y Bhavana](https://github.com/yalalabhavana17-cmyk)
 - [z0ryn](github.com/z0ryn)
