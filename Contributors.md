@@ -1506,3 +1506,4 @@ Merjen Amanmuradova
 - [Adicondro] (https://github.com/adicondro)
 - [Shank] (https://github.com/ShashankTiwari1801)
 - [Nidhi Parate] (https://github.com/n1dhiparate)
+- [Harshit Sharma] (https://github.com/harshit3665)
