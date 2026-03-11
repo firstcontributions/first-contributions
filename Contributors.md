@@ -1245,6 +1245,7 @@ Rongxin Zhang
 - [itxe-del](https://github.com/itxe-del)
 - [jennifer j](https://github.com/jenniferjayaraj19-ops)
 - [jennifer jayaraj](https://github.com/jenniferjayaraj19-ops)
+- [Jaya Krishna Miriyam](https://github.com/jayakrishna-miriyam)
 - [jhc4318](https://github.com/jhc4318)
 - [jsutCodes](https://github.com/jsutCodes)
 - [jy-kong](https://github.com/jy-kong)
