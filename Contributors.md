@@ -1126,6 +1126,7 @@ Rongxin Zhang
 - [Varsha Gitty](https://github.com/vgg1459)
 - [Varshini](https://github.com/Varshini131)
 - [Varshith Varma](https://github.com/varshith-uppalapati)
+-[Rakshak Patel V](https://github.com/rakshak2005)
 - [Varun Kumar](https://github.com/kukutapuvarun)
 - [Vasiliki Zagoraiou](https://github.com/vasilikiz5)
 - [Vasya Taburetkin]
