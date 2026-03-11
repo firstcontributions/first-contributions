@@ -1,4 +1,5 @@
 # Contributors
+- [Rajeev Patel](https://github.com/23f3002112)
  - [primemorti8-netizen](https://github.com/primemorti8-netizen)
 - [Ankush Gulia](https://github.com/ankushkgulia)
 [Kenil Gorasiya](https://github.com/Kenildev007)
