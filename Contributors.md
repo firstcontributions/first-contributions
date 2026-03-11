@@ -1502,3 +1502,4 @@ Merjen Amanmuradova
 - [Kozzontherun] (https://github.com/KozzOnTheRun)
 - [Adicondro] (https://github.com/adicondro)
 - [Shank] (https://github.com/ShashankTiwari1801)
+- [Nidhi Parate] (https://github.com/n1dhiparate)
