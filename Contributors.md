@@ -5,7 +5,7 @@
 - [Vinesh nayak] (https://github.com/Vineshnayak)
 - [Maurice Carroll] (https://github.com/nwbikedude)
 - [Ton Lin]
-- [Danish Raza] (https://github.com/Danish7911)
+- [Danish] (https://github.com/Danish7911)
 - [Naim Muaz](https://github.com/naimmuaz)git 
 - [Ibrahim_Abbas] (https://github.com/IbrahimAbbas-spec)
 - [Tariq Menla](https://github.com/Tariq-Menla)
