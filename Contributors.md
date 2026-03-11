@@ -157,6 +157,7 @@
 - [Aditya](https://github.com/thisadityasoni)
 - [Adnan Aftab](https://github.com/AdnanAftab1/)
 - [Lavika Singla](https://github.com/lavika17)
+- [Nishant Jha] (https://github.com/jhanishant658)
 - [Adrian PC M](https://github.com/AdrianPCM)
 - [Afham Irfan](https://github.com/auth-Afham)
 - [Rahul Meena](https://github.com/RahulM0912)
