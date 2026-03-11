@@ -1496,3 +1496,4 @@ Merjen Amanmuradova
 -[Frozen Fried](https://github.com/Frozen-Fried)
 - [Samrah Inayat](https:/github.com/scamzy)
 - [Kozzontherun] (https://github.com/KozzOnTheRun)
+- [Adicondro] (https://github.com/adicondro)
