@@ -1066,6 +1066,7 @@ Rongxin Zhang
 - [Swati Pandey](https://github.com/gr8swati)
 - [Syed Rahil Hussain](https://github.com/Syed-srh)
 - [Sylvain L](https://github.com/sylvain-lec)
+- [Syam Jalla](https://github.com/SyamJalla)
 - [TAHER EL Mehdi](https://github.com/taher-el-mehdi)
 - [Dhanush Kumar M](https://github.com/Dhanush-max)
 - [TOK7O](https://github.com/TOK7O)
