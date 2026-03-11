@@ -139,7 +139,7 @@
 - [Abhas Gaur](https://github.com/Abhas009)
 - [Abhijit-Gautam](github.com/Abhijit-Gautam)
 - [Abhinand B](https://github.com/abhinand2511)
-- Navdeep Singh
+- Navdeep 
 - [Abhinav Dwivedi](https://github.com/abhinavdwivedi05)
 - [Abhishek bhatt](https://github.com/abhirbhatt)
 - [Trinath Swain](https://github.com/Trinathswain45)
