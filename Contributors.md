@@ -1,4 +1,5 @@
 # Contributors
+- [Vishwajeet_Kanase](https://github.com/vishwajeetkanase)
 - [itzharshini](https://github.com/itzharshini)
 - [Toluwanimi](https://github.com/DevTolu79)
 - [lonely_white](https://github.com/lonelywhite233)
