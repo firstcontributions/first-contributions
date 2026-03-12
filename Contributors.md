@@ -1,4 +1,5 @@
 # Contributors
+- [itzharshini](https://github.com/itzharshini)
 - [lonely_white](https://github.com/lonelywhite233)
  - [primemorti8-netizen](https://github.com/primemorti8-netizen)
 - [Ankush Gulia](https://github.com/ankushkgulia)
@@ -48,6 +49,7 @@
 - [JN Gonzales](https://github.com/jngonzales)
 - [Aman Jha](https://github.com/ajha19)
 - [Prathyusha Marri](https://github.com/Prathyusha-hub-M)
+- [Tejas Srivastava](https://github.com/tejassri11)
 - [Saket Anand](https://www.saketanand.com)
 - [Scott Boudreaux (Elyan Labs)](https://github.com/Scottcjn)
 - [Kokkirigedda Lohit](https://github.com/lohit3050)
@@ -1506,6 +1508,7 @@ Rongxin Zhang
 - [Pranjal Patil](https://github.com/pranjalp31)
 - (This line is added to show that auto-pr-merge workflow has bug allow any single line change)
 - - [Harshit Gupta](https://github.com/Ashusf90)
+- [Ekansh] (https://github.com/EkanshWadhwa39)
 - [Kabiraj Khatri](https://github.com/kabiraj) (First contribute1)
 - [Krishna Sahithi](https://github.com/sahithi-prog-ops)
 - [Nikhil Kinikar](https://github.com/nikhilk001)
@@ -1530,3 +1533,5 @@ Merjen Amanmuradova
 - [Nour] (https://github.com/Nour-ad)
 -[sog](https://github.com/jtystart)
 -[ytnma](https://github.com/ytnma)
+- [Ritesh Kundara](https://github.com/23f2002447)
+- [JaeBeom Park](https://github.com/recrime)  
