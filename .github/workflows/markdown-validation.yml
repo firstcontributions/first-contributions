@@ -1,0 +1,38 @@
+name: Markdown Validation
+
+on:
+  pull_request:
+    paths:
+      - "**/*.md"
+      - "scripts/markdown_validator.py"
+
+jobs:
+  validate-markdown:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Collect changed Markdown files
+        id: changed-files
+        run: |
+          files=$(git diff --name-only --diff-filter=ACMRT "${{ github.event.pull_request.base.sha }}" "${{ github.sha }}" -- '*.md')
+          {
+            echo 'files<<EOF'
+            echo "$files"
+            echo 'EOF'
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Validate changed Markdown files
+        if: steps.changed-files.outputs.files != ''
+        run: |
+          mapfile -t files <<< "${{ steps.changed-files.outputs.files }}"
+          python3 scripts/markdown_validator.py --fail-on-warning "${files[@]}"

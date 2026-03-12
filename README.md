@@ -203,11 +203,11 @@ replacing `your-branch-name` with the name of the branch you created earlier.
   Go to [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) on generating and configuring an SSH key to your account.
 
   Also, you might want to run 'git remote -v' to check your remote address.
-  
+
   If it looks anything like this:
   <pre>origin	https://github.com/your-username/your_repo.git (fetch)
   origin	https://github.com/your-username/your_repo.git (push)</pre>
-  
+
   change it using this command:
   ```bash
   git remote set-url origin git@github.com:your-username/your_repo.git
@@ -238,6 +238,16 @@ If you'd like more practice, checkout [code contributions](https://github.com/ro
 Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
 
 ### [Additional material](docs/additional-material/git_workflow_scenarios/additional-material.md)
+
+## Validate Markdown docs
+
+To check documentation formatting locally, run:
+
+```bash
+python3 scripts/markdown_validator.py --fail-on-warning
+```
+
+You can also pass specific files or folders to validate only the docs you changed.
 
 ## Tutorials Using Other Tools
 

@@ -21,7 +21,7 @@ Please note, this tutorial is for MacOS. It is similar to Sourcetree on Windows 
 	*** This is commented out until      ***
 	*** a Windows tutorial can be created***
 	****************************************
-Please note, this tutorial is for MacOS. Please refer to the [Windows Tutorial]() for Sourcetree if that is what you want to use.
+Please note, this tutorial is for MacOS. A Sourcetree Windows tutorial is not available yet.
 -->
 
 Download [Sourcetree](https://www.sourcetreeapp.com), Install and open it.
