@@ -42,6 +42,7 @@
 - [Saqib](https://github.com/saq12)
 - [D7mnCh](http://github.com/D7mnCh)
 - [SJ](http://github.com/saaicasm)
+- [Blessing Izee](https://github.com/Blessing-Imoukhede)
 - [Kamipantsu0](https://github.com/Kamipantsu0)
 - [Jack Johnson](https://github.com/norvest06)
 - [Sindhu Reddy](https://github.com/prodduturisindhurdy)
