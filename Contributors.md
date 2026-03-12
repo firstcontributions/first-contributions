@@ -63,6 +63,7 @@
 - [Shyam Chavda](https://github.com/ShyamChavda005)
 - [JN Gonzales](https://github.com/jngonzales)
 - [Aman Jha](https://github.com/ajha19)
+- [Djora](https://github.com/GiggityGGit)
 - [Prathyusha Marri](https://github.com/Prathyusha-hub-M)
 - [Tejas Srivastava](https://github.com/tejassri11)
 - [Saket Anand](https://www.saketanand.com)
