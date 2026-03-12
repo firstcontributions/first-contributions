@@ -8,6 +8,7 @@
 - [Maurice Carroll] (https://github.com/nwbikedude)
 - [Ton Lin]
 - [Saqib Anjum Masoodi](https://github.com/SaqibMasoodi)
+- [Chidera Okere] (https://github.com/okerescm)
 - [Naim Muaz](https://github.com/naimmuaz)
 - [Justin Thomas](https://github.com/justinthomas11)
 - [Ibrahim_Abbas] (https://github.com/IbrahimAbbas-spec)
