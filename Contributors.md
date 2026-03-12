@@ -66,6 +66,7 @@
 - [Djora](https://github.com/GiggityGGit)
 - [Prathyusha Marri](https://github.com/Prathyusha-hub-M)
 - [Tejas Srivastava](https://github.com/tejassri11)
+Mawira vic 
 - [Saket Anand](https://www.saketanand.com)
 - [Scott Boudreaux (Elyan Labs)](https://github.com/Scottcjn)
 - [Kokkirigedda Lohit](https://github.com/lohit3050)
@@ -331,6 +332,7 @@ Ben
 - [Blas Sanchez](https://github.com/xbsanpan855-boop)
 - [Bluefox192](https://github.com/Bluefox192)
 - [Bobrikus Smith](https://github.com/fairhair9)
+
 - [Bradley Leventhal](https://github.com/btleventhal)
 - [Brahmpreet Singh](https://github.com/Brahmpreett)
 - [Brandon B Bolivar](https://github.com/AvoBolivar)
