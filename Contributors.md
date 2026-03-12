@@ -325,6 +325,7 @@ Ben
 - [Bruno Costa](https://github.com/brunocosta-devlab)
 - [BuggyJames](https://github.com/u0-a19B)
 - [botken](https://github.com/botken)
+- [Balogun Toyeeb] (https://github.com/toyeeb3)
 - [C. Yin](https://github.com/cy-Yin)
 - [Caleb Rollf](https://github.com/lemonsloth)
 - [Cam](https://github.com/cameron-knowles)
