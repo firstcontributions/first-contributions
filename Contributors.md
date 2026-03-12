@@ -142,6 +142,7 @@
 - [Abdessamad-Mechouahi](https://github.com/abdessamad-26)
 - [Sabina Jashir](https://github.com/sabinaljashir)
 - [Abdoulaye](https://github.com/elhadjdiab)
+- [favour-ai](https://github.com/Favour-ai)
 - [Abdullahil Baki](https://github.com/abdullahilbaki)
 - [Abhas Gaur](https://github.com/Abhas009)
 - [Abhijit-Gautam](github.com/Abhijit-Gautam)
