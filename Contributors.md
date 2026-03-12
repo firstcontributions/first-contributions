@@ -1275,6 +1275,7 @@ Rongxin Zhang
 - [granada1_lnrs](https://github.com/granad1_lnrs)
 - [Kavyasree Nunna](https://github.com/Kavyasree)
 - [guerrasz](https://github.com/guerrasz)
+- [kenHarris0](https://github.com/kenHarris0)
 - [happypepii](https://github.com/happypepii)
 - [hezk](https://github.com/hezhikui)
 - [hills-i](https://github.com/hills-i)
