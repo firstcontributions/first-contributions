@@ -9,6 +9,7 @@
  - [primemorti8-netizen](https://github.com/primemorti8-netizen)
 [Adedamola Aina](https://github.com/Adedamola007)
 - [Ankush Gulia](https://github.com/ankushkgulia)
+- [Archiii]
 [Kenil Gorasiya](https://github.com/Kenildev007)
 - [Vinesh nayak] (https://github.com/Vineshnayak)
 - [Maurice Carroll] (https://github.com/nwbikedude)
