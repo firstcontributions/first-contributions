@@ -1525,3 +1525,4 @@ Merjen Amanmuradova
 - [fzgma] (https://github.com/fzgma)
 - [Pragya Mandal] (github.com/pragyamandal)
 - [Nour] (https://github.com/Nour-ad)
+-[sog](https://github.com/jtystart)
