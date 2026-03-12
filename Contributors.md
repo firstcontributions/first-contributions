@@ -218,6 +218,7 @@ RLeish
 - [Amsapriya Krishnamoorthy](https://github.com/AmsapriyaKrishnamoorthy)
 - [Anand Raj](https://github.com/anandraj095)
 - [Anandajith S](https://github.com/AnandajithS)
+- [Wuzu11517](https://github.com/Wuzu11517)
 - [Anandb71](https://github.com/Anandb71)
 - [Anay](https://github.com/Anay-Patil)
 - [Anaïs Gatard](https://github.com/AnaisG14)
