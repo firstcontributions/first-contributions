@@ -1201,6 +1201,7 @@ Rongxin Zhang
 - [Yash Patel](https://github.com/WildTrio)
 - [Yasir Khan](https://github.com/itsyasirkhandev)
 - [Yasiru Liyanage](https://github.com/yasiruliyanage17)
+- [Ye Marn Aung/Jared Aung](https://github.com/JaredAung)
 - [Yijanho](https://github.com/jho951)
 - [Yitong Zhou](https://github.com/ZzzZzz-670)
 - [Youssef Hamdy](https://github.com/Empty002)
