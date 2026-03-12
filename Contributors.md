@@ -1,5 +1,7 @@
 # Contributors
+- [Daffa Kaisha Pratama Chandra](https://github.com/daff00)
 - [Vishwajeet_Kanase](https://github.com/vishwajeetkanase)
+- [Shiva Kumar](https://github.com/shiva-kumar04)
 - [itzharshini](https://github.com/itzharshini)
 - [Toluwanimi](https://github.com/DevTolu79)
 - [Ifeanyi](https://github.com/kevinify)
@@ -8,6 +10,7 @@
  - [primemorti8-netizen](https://github.com/primemorti8-netizen)
 [Adedamola Aina](https://github.com/Adedamola007)
 - [Ankush Gulia](https://github.com/ankushkgulia)
+- [Archiii]
 [Kenil Gorasiya](https://github.com/Kenildev007)
 - [Vinesh nayak] (https://github.com/Vineshnayak)
 - [Maurice Carroll] (https://github.com/nwbikedude)
@@ -23,6 +26,7 @@
 - [Odo Kingsley Uchenna] (https://github.com/RealKingHubs)
 - [Nolan Berg] (https://github.com/NolanBerg)
 - [Aman Jha] ([23f2003233](https://github.com/23f2003233))
+- [Eduardo Nunes] (https://github.com/eduardonunesfvm)
 - [Xiaochun Bai](https://github.com/Bingtagui404)
 - [M_Rizwan](https://github.com/rizwan749)
 - [Daerian] (https://github.com/Daerian)
@@ -41,6 +45,7 @@
 - [kumsb](https://github.com/24f2008015)
 - [Waffo Taffo](https://github.com/WaffoTaffo)
 - [PrincejiCoder](https://github.com/PrincejiCoder)
+- [Thien Nguyen](https://github.com/th13nnh)
 - [Mohammad Yasir Khan](https://github.com/myasir-khan)
 - [Ammar Tafoiki](https://github.com/ammar116/)
 - [Hamad Ullah](https://github.com/hammadaiy/)
@@ -58,6 +63,7 @@
 - [Shyam Chavda](https://github.com/ShyamChavda005)
 - [JN Gonzales](https://github.com/jngonzales)
 - [Aman Jha](https://github.com/ajha19)
+- [Djora](https://github.com/GiggityGGit)
 - [Prathyusha Marri](https://github.com/Prathyusha-hub-M)
 - [Tejas Srivastava](https://github.com/tejassri11)
 - [Saket Anand](https://www.saketanand.com)
@@ -220,6 +226,7 @@
 Chris
 Ashwin
 RLeish
+-[kedarnath](https://github.com/kedarnath)
 - [Santosh M Savalgi](https://github.com/Santosh-M-Savalgi)
 - [Ameer Ali](https://github.com/Ameeeerr)
 - [Amin abdolahi](https://github.com/Amin-Abdolahi)
@@ -236,6 +243,7 @@ RLeish
 - [Andrew Nathan Situmorang](https://github.com/andrwsitumorang)
 - [Andrew Park](https://github.com/AndePark)
 - [Archi Lodha](https://github.com/ARCHILODHA)
+- [Archita Jain](https://github.com/archi829)
 - [Andyple](https://github.com/andyple)
 - [Angad Bhalla](https://github.com/Anga205)
 - [Angel Sara](https://github.com/Angelishere)
@@ -1557,3 +1565,6 @@ Merjen Amanmuradova
 - [Ishola-Tosin-G](https://github.com/Ishola-Tosin-G)
 -[funmilola Ayinde]_(https://github.com/funmilolajanet)
 - [Merna Adel Abdelrahman Ibrahim](https://github.com/merna112)
+- [Nelli Bhasker](https://github.com/bhaskern55)
+- [aloha](https://github.com/666-yanzhi)
+* [Shashwajan Akinapelly](https://github.com/coderwrexx)
