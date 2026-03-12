@@ -49,6 +49,7 @@
 - [JN Gonzales](https://github.com/jngonzales)
 - [Aman Jha](https://github.com/ajha19)
 - [Prathyusha Marri](https://github.com/Prathyusha-hub-M)
+- [Tejas Srivastava](https://github.com/tejassri11)
 - [Saket Anand](https://www.saketanand.com)
 - [Scott Boudreaux (Elyan Labs)](https://github.com/Scottcjn)
 - [Kokkirigedda Lohit](https://github.com/lohit3050)
