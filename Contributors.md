@@ -1,5 +1,6 @@
 # Contributors
 - [itzharshini](https://github.com/itzharshini)
+- [Toluwanimi](https://github.com/DevTolu79)
 - [lonely_white](https://github.com/lonelywhite233)
  - [primemorti8-netizen](https://github.com/primemorti8-netizen)
 - [Ankush Gulia](https://github.com/ankushkgulia)
