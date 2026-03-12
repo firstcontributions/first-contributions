@@ -1,4 +1,5 @@
 # Contributors
+- [Daffa Kaisha Pratama Chandra](https://github.com/daff00)
 - [Vishwajeet_Kanase](https://github.com/vishwajeetkanase)
 - [itzharshini](https://github.com/itzharshini)
 - [Toluwanimi](https://github.com/DevTolu79)
