@@ -239,6 +239,7 @@ RLeish
 - [Andrew Nathan Situmorang](https://github.com/andrwsitumorang)
 - [Andrew Park](https://github.com/AndePark)
 - [Archi Lodha](https://github.com/ARCHILODHA)
+- [Archita Jain](https://github.com/archi829/)
 - [Andyple](https://github.com/andyple)
 - [Angad Bhalla](https://github.com/Anga205)
 - [Angel Sara](https://github.com/Angelishere)
