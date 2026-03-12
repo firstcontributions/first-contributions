@@ -1171,6 +1171,7 @@ Rongxin Zhang
 - [VizzScript](https://github.com/vizzscript)
 - [Vuk Topalovic](https://github.com/vukkt)
 - [WHA](https://github.com/wynehtetaung)
+- [Waltteri Riihimäki](https://github.com/waltterir) 
 - [Whrisper](https://github.com/SChrisper)
 - [Wikosac](https://github.com/wikosac)
 - [William Dellinger](https://github.com/Willd231)
