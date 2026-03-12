@@ -822,6 +822,7 @@ Rongxin Zhang
 - [Omm Prakash Nayak](https://github.com/bithal2006)
 - [Ong TX](https://github.com/AlexanderXI0904)
 - [OsamaShabih](https://github.com/osamashabih6960)
+- [Osinachi Chukwujama](https://github.com/vicradon)
 - [Osman Kaplan](https://github.com/kplnosmn94-droid)
 - [Ossama Nahle](https://github.com/ossamanahle)
 - [Otavio Góes](https://github.com/ogoess1999)
