@@ -1,6 +1,6 @@
 # Contributors
 - [itzharshini](https://github.com/itzharshini)
-- [Toluwanimi](https://github.com/DevTolu79)
+- [Kevinify](https://github.com/kevinify)
 - [lonely_white](https://github.com/lonelywhite233)
  - [primemorti8-netizen](https://github.com/primemorti8-netizen)
 - [Ankush Gulia](https://github.com/ankushkgulia)
@@ -9,7 +9,6 @@
 - [Maurice Carroll] (https://github.com/nwbikedude)
 - [Ton Lin]
 - [Saqib Anjum Masoodi](https://github.com/SaqibMasoodi)
-- [Chidera Okere] (https://github.com/okerescm)
 - [Naim Muaz](https://github.com/naimmuaz)
 - [Justin Thomas](https://github.com/justinthomas11)
 - [Ibrahim_Abbas] (https://github.com/IbrahimAbbas-spec)
