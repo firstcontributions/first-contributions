@@ -2,6 +2,7 @@
 - [Vishwajeet_Kanase](https://github.com/vishwajeetkanase)
 - [itzharshini](https://github.com/itzharshini)
 - [Toluwanimi](https://github.com/DevTolu79)
+- [Ifeanyi](https://github.com/kevinify)
 - [lonely_white](https://github.com/lonelywhite233)
  - [primemorti8-netizen](https://github.com/primemorti8-netizen)
 [Adedamola Aina](https://github.com/Adedamola007)
