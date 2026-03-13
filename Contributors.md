@@ -1,4 +1,7 @@
 # Contributors
+- [LChoa](https://github.com/LChoa)
+- [Ankit Kumar](https://github.com/ankitkumar-19)
+- [Siddharth](https://github.com/siddharth-19)
 - [Daffa Kaisha Pratama Chandra](https://github.com/daff00)
 - [Vishwajeet_Kanase](https://github.com/vishwajeetkanase)
 - [Shiva Kumar](https://github.com/shiva-kumar04)
