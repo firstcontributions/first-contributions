@@ -34,6 +34,7 @@
   [Specturr] (https://github.com/Specturr)
 - [BKaur20] (https://github.com/BKaur20/)
 - [z0ryn](github.com/z0ryn)
+- [Han](https://github.com/vy088473)
 - [Md. Kamran Alam](https://github.com/mdkamranalam)
 - [jjipper] (https://github.com/jjipper)
 - [Abhay Agnihotri](https://github.com/Abhay-Agnihotri01/)
@@ -1578,3 +1579,5 @@ Merjen Amanmuradova
 - [Marlon Nunez](https://github.com/MagusMar)
 - [QXiaoLingShang](https://github.com/QXiaoLingShang)
 - [xup6wei718](https://github.com/xup6wei718)
+- [kinglongwu2](https://github.com/KingLongWu2)
+- [uuudemo](https://github.com/UUUdemo)
