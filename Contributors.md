@@ -225,6 +225,7 @@
 - [fathahM](https://github.com/fathahM)
 - [Aman Singh](https://github.com/Amankumarsingh23)
 - [AmarnathV](https://github.com/amar1009)
+- [AnkitVerma](https://github.com/novakit7)
 - [Ambar Singh](https://github.com/ambar-singh)
 - [Aryan Mehrotra](https://github.com/aryanmehrotra)
 Chris
