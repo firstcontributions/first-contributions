@@ -1577,3 +1577,5 @@ Merjen Amanmuradova
 - [Jocelyna_liu](https://github.com/jocelynaaaaaa-boop)
 - [Marlon Nunez](https://github.com/MagusMar)
 - [QXiaoLingShang](https://github.com/QXiaoLingShang)
+- [QXiaoLingShang](https://github.com/QXiaoLingShang)
+- [Roger Lin]
