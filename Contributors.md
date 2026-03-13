@@ -1,4 +1,5 @@
 # Contributors
+- [Ashka Pathak](https://github.com/AshkaPathak)
 - [skntrl] (https://github.com/skntrl)
 - [Daffa Kaisha Pratama Chandra](https://github.com/daff00)
 - [Jules Cinc] (https://https://github.com/JulesCinc)
