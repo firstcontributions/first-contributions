@@ -75,6 +75,7 @@
 - [Mrrrrrrt](https://github.com/Mrrrrrrt)
 - [Henrique](https://github.com/roberto0906)
 - [Justin Morphosis](https://github.com/justinmorphosis)
+- [Isaac Keninger](https://github.com/IsaacKeninger)
 - [Bhavesh Gajengi](https://github.com/BhaveshGajengi1)
 - [Abdul Muqeet K B](https://github.com/muqeet-27)
 - [Anand Mani](https://github.com/astromani721)
