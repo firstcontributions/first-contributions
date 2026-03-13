@@ -1575,3 +1575,4 @@ Merjen Amanmuradova
 - [muharyman](https://github.com/muharyman)
 - [Jocelyna_liu](https://github.com/jocelynaaaaaa-boop)
 - [Marlon Nunez](https://github.com/MagusMar)
+- [QXiaoLingShang](https://github.com/QXiaoLingShang)
