@@ -1,4 +1,5 @@
 # Contributors
+- [skntrl] (https://github.com/skntrl)
 - [Daffa Kaisha Pratama Chandra](https://github.com/daff00)
 - [Jules Cinc] (https://https://github.com/JulesCinc)
 - [Vishwajeet_Kanase](https://github.com/vishwajeetkanase)
