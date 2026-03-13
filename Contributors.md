@@ -66,7 +66,7 @@
 - [Djora](https://github.com/GiggityGGit)
 - [Prathyusha Marri](https://github.com/Prathyusha-hub-M)
 - [Tejas Srivastava](https://github.com/tejassri11)
-- [Mawira vic](https://github.com/MawiraVictor)
+- [Mawira vic](https://github.com/MawiraVicto)
 - [Saket Anand](https://www.saketanand.com)
 - [Scott Boudreaux (Elyan Labs)](https://github.com/Scottcjn)
 - [Kokkirigedda Lohit](https://github.com/lohit3050)
