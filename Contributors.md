@@ -1574,3 +1574,4 @@ Merjen Amanmuradova
 - [Revati Natu](https://github.com/Revati-N)
 - [muharyman](https://github.com/muharyman)
 - [Jocelyna_liu](https://github.com/jocelynaaaaaa-boop)
+- [Marlon Nunez](https://github.com/MagusMar)
