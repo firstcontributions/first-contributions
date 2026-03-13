@@ -1609,6 +1609,8 @@ Merjen Amanmuradova
 - [maochuanjun](https://github.com/maochuanjun)
 - [BW3](https://github.com/brandonwilliams33)
 - [Noushidh](https://github.com/Noushidh)
+- [Daniel Konstantinov](https://github.com/danielbg14)
 - [Deepanshu Maliyan](https://github.com/deepanshu-maliyan)
--[G. M. Rashidul Islam Rahat ](https://github.com/rahat1517) 
+-[G. M. Rashidul Islam Rahat ](https://github.com/rahat1517)
+
 #### [Aniket Gautam](https://github.com/aniketgit-hub101)
