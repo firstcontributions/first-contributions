@@ -933,6 +933,7 @@ Rongxin Zhang
 - [RSM Harsha](https://github.com/rsmharsha)
 - [Rachel Hart](https://github.com/rachelmayhart/)
 - [Rafael Hernandez](https://github.com/rafawashere)
+- [Rafael Rodrigues](https://github.com/rafaelrodrigues-dev)
 - [Rafael Veloso](https://github.com/Rafaellinos)
 - [Raghav](https://github.com/Raghav9871)
 - [Rahul Keswani](https://github.com/rahulkeswani010)
