@@ -1559,6 +1559,7 @@ Merjen Amanmuradova
 - [fzgma] (https://github.com/fzgma)
 - [Pragya Mandal] (github.com/pragyamandal)
 - [Nour] (https://github.com/Nour-ad)
+- [KaiChing] (https://github.com/PierceLiu666)
 -[sog](https://github.com/jtystart)
 -[ytnma](https://github.com/ytnma)
 - [Ritesh Kundara](https://github.com/23f2002447)
@@ -1577,3 +1578,4 @@ Merjen Amanmuradova
 - [Jocelyna_liu](https://github.com/jocelynaaaaaa-boop)
 - [Marlon Nunez](https://github.com/MagusMar)
 - [QXiaoLingShang](https://github.com/QXiaoLingShang)
+
