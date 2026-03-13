@@ -792,6 +792,7 @@ Rongxin Zhang
 - [Muhammad Zakaria](https://github.com/zakk616)
 - [Muhammed Shareef](https://github.com/shareefmx)
 - [Nishk Mistry](https://github.com/nishkmistry)
+- [Vansh Agarwal](https://github.com/vansh-agarwal)
 - [Mumin](https://github.com/m6min)
 - [Muntazir-Sayed](https://github.com/Muntazir-sd)
 - [Mushfiqur Rahman](https://github.com/Mushfiqur719)
