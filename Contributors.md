@@ -39,6 +39,7 @@
 - [jjipper] (https://github.com/jjipper)
 - [Abhay Agnihotri](https://github.com/Abhay-Agnihotri01/)
 - [vencentDebug](https://github.com/vencentDebug/first-contributions)
+- [Dr MImie] (https://github.com/drMimie/)
 - [saumyadhote](https://github.com/saumyadhote)
 - [ankitongithb](https://github.com/ankitongithb)
 - [Bishwa7](https://github.com/Bishwa7)
