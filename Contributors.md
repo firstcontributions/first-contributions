@@ -97,6 +97,7 @@
 - [midikaif](https://github.com/midikaif)
 - [yjh7979](https://github.com/yjh7979)
 - [VipulBhattt](https://github.com/VipulBhattt)
+- [Yogesh Jindal](https://github.com/yogeshJindal1)
 - Max
 - [Mahefoz Sowad](https://github.com/Mahefoz-Sowad)
 - [Roland Steiner]
