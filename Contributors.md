@@ -771,6 +771,7 @@ Rongxin Zhang
 - [Midlaj](https://github.com/midlajdev)
 - [Miguel Hernandez](https://github.com/mangel-mhdez)
 - [Mika](https://github.com/mihirK5)
+- [Joshua Chikosha](https://github.com/joshuachikosha)
 - [Milhane](https://github.com/chmilhane)
 - [Minlish-Git](https://github.com/Minlish-Git)
 - [Mithielesh N](https://github.com/mithielesh05)
