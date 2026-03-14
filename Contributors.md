@@ -1,4 +1,5 @@
 # Contributors
+- [Khujrat Shaikh](https://github.com/khujrat17)
 - [Ashka Pathak](https://github.com/AshkaPathak)
 - [skntrl] (https://github.com/skntrl)
 - [Khalil Khamassi](https://github.com/khalilkhamassi62-oss)
