@@ -889,6 +889,7 @@ Rongxin Zhang
 - [Pavani](https://github.com/pavani42)
 - [Pavel Shegay](https://github.com/pavelshegay3)
 - [Pedro Chame](https://github.com/pedrochame)
+- [pessimismandvinegar](https://github.com/pessimismandvinegar)
 - Rohinish Ram
 - [Peter Imoh Victor](https://github.com/peterimoh)
 - [Pia Yeah](https://github.com/piagildehaus)
