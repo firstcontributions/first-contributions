@@ -1627,3 +1627,4 @@ Merjen Amanmuradova
 - Muhammad Fardan Naheem(https://github.com/fardu6288)
 - [Prewal Fredlin Fernandes](https://github.com/Prewal137)
 - [GangSQuadUA](https://github.com/GangSquadUA)
+- [Vishal Singh](https://github.com/VISHAL55UIET)
