@@ -1,4 +1,6 @@
 # Contributors
+
+- [wsh](https://github.com/wangsihao-gif)
 - [Ashka Pathak](https://github.com/AshkaPathak)
 - [Vadim Cebanu](https://github.com/vadim-cebanu)
 - [skntrl] (https://github.com/skntrl)
