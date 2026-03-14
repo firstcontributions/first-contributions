@@ -1513,6 +1513,7 @@ Rongxin Zhang
 - [priyanshuanubis](https://github.com/priyanshuanubis)
 - [Cindy Orangis](https://github.com/cindyorangis)
 - [Sapavat Anji](https://github.com/Sapavat-A)
+  Vijaya Pranav
 - [Abhinav Sharma](https://github.com/AbhinavSharma123-O)
 - [Prem Prajapat] (https://github.com/prem941)
 -[Nikita Rani]
