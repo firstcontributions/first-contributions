@@ -1,6 +1,7 @@
 # Contributors
 - [Ashka Pathak](https://github.com/AshkaPathak)
 - [skntrl] (https://github.com/skntrl)
+- [Khalil Khamassi](https://github.com/khalilkhamassi62-oss)
 - [Daffa Kaisha Pratama Chandra](https://github.com/daff00)
 - [Jules Cinc] (https://https://github.com/JulesCinc)
 - [Vishwajeet_Kanase](https://github.com/vishwajeetkanase)
