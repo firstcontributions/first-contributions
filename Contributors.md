@@ -354,6 +354,7 @@ Ben
 - [Brahmpreet Singh](https://github.com/Brahmpreett)
 - [Brandon B Bolivar](https://github.com/AvoBolivar)
 - [Brian Griffin](https://github.com/SolidUmbrella)
+- [Brian Luporini](https://github.com/bluporini)
 - [Bruno Costa](https://github.com/brunocosta-devlab)
 - [BuggyJames](https://github.com/u0-a19B)
 - [botken](https://github.com/botken)
