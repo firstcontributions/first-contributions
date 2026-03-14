@@ -40,6 +40,7 @@
   [Specturr] (https://github.com/Specturr)
 - [BKaur20] (https://github.com/BKaur20/)
 - [z0ryn](github.com/z0ryn)
+- [Kaushal Prakash](github.com/kaushal-Prakash)
 - [Han](https://github.com/vy088473)
 - [Md. Kamran Alam](https://github.com/mdkamranalam)
 - [jjipper] (https://github.com/jjipper)
