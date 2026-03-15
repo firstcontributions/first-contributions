@@ -1,4 +1,5 @@
 # Contributors
+- [Jeet Gupta](https://github.com/JeetG-AlphaDev)
 - [Shanmuga Sundaram Natarajan](https://github.com/shanmuga-sundaram-n)
 - [Ashka Pathak](https://github.com/AshkaPathak)
 - [Vadim Cebanu](https://github.com/vadim-cebanu)
