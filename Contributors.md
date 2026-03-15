@@ -1683,3 +1683,4 @@ Merjen Amanmuradova
 - [Abdul] (https://github.com/B-M-0)
 - [Xingchen Yan](https://github.com/crosseax)
 - [Iker Aramendi](https://github.com/IkerAramendi)
+- [Gia Miminoshvili](https://github.com/giamimino)
