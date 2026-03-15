@@ -4,6 +4,7 @@
 - [forkcommit](https://github.com/forkcommit)
 - [skntrl] (https://github.com/skntrl)
 - [Khalil Khamassi](https://github.com/khalilkhamassi62-oss)
+- - [Gayathri R](https://github.com/Gayathri17Ramesh)
 - [Daffa Kaisha Pratama Chandra](https://github.com/daff00)
 - [Jules Cinc] (https://https://github.com/JulesCinc)
 - [Vishwajeet_Kanase](https://github.com/vishwajeetkanase)
