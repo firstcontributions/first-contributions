@@ -658,6 +658,7 @@ Steve
 - [Karthik Sai](https://github.com/KarthikSai08)
 - [Karuna Gawai](https://github.com/zero-one1)
 - [Kassahun F](https://github.com/Kas1398)
+- [katicyan](https://github.com/katicyan)
 - [Kaushal Vaid](https://github.com/Kaushal00Vaid)
 - [Kaustubh Chaturvedi](https://github.com/Kaus-16)
 - [Kaustubh Singh](https://github.com/KaustubhSingh9000)
