@@ -1007,6 +1007,7 @@ Rongxin Zhang
 - [RubenDev25](https://github.com/RubenDev25)
 - [Ruben Garcia](https://github.com/rgarcr)
 - [Rudra](https://github.com/Rudra-cryptx)
+- [Ruti](https://github.com/rutibergs)
 - [Ryan Fernando](https://github.com/RyanJFM)
 - [Ryan Gapp](https://github.com/ryan-gapp)
 - [Ryan M](https://github.com/rmoylan2201)
