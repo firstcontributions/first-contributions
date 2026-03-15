@@ -1664,4 +1664,3 @@ Merjen Amanmuradova
 - [Alina Nair](https://github.com/NairAlina)
 - [Booker Ochieng Okumu](https://github.com/KOKUMUbooker)
 - [elegentLIFER](https://github.com/elegentLIFER)
-- [Rowan](https://github.com/Rowan-hhh)
