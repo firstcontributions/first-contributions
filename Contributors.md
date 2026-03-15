@@ -1,63 +1,66 @@
-# Contributors
-- [Ashka Pathak](https://github.com/AshkaPathak)
+# Contributors   #贡献者   贡献者
+- [Ashka Pathak   Ashka帕沙克](https://github.com/AshkaPathak)- AshkaPathak （https://github.com/AshkaPathak）
 - [Vadim Cebanu](https://github.com/vadim-cebanu)
-- [skntrl] (https://github.com/skntrl)
-- [Khalil Khamassi](https://github.com/khalilkhamassi62-oss)
-- [Daffa Kaisha Pratama Chandra](https://github.com/daff00)
-- [Jules Cinc] (https://https://github.com/JulesCinc)
-- [Vishwajeet_Kanase](https://github.com/vishwajeetkanase)
-- [Shiva Kumar](https://github.com/shiva-kumar04)
-- [itzharshini](https://github.com/itzharshini)
+- [skntrl] (https://github.com/skntrl)- [skntrl] （https://github.com/skntrl）
+- [Khalil Khamassi   哈利勒Khamassi](https://github.com/khalilkhamassi62-oss)-哈利勒·哈马西（https://github.com/khalilkhamassi62-oss）
+- [Daffa Kaisha Pratama Chandra达法·卡沙初级钱德拉](https://github.com/daff00)- [Daffa Kaisha Pratama Chandra达法·卡沙初级钱德拉]（https://github.com/daff00）
+- [Jules Cinc] (https://https://github.com/JulesCinc)-朱尔斯·辛克（https://https://github.com/JulesCinc）
+- [Vishwajeet_Kanase](https://github.com/vishwajeetkanase)——(Vishwajeet_Kanase) (https://github.com/vishwajeetkanase)
+- [Shiva Kumar](https://github.com/shiva-kumar04)- Shiva Kumar （https://github.com/shiva-kumar04）
+- [itzharshini](https://github.com/itzharshini)——(itzharshini) (https://github.com/itzharshini)
 - [Toluwanimi](https://github.com/DevTolu79)
 - [Ifeanyi](https://github.com/kevinify)
 - [Jamiu](https://github.com/RushNet01)
-- [Aditya Raj](https://github.com/iamadityaraj04)
-- [lonely_white](https://github.com/lonelywhite233)
+- [Aditya Raj](https://github.com/iamadityaraj04)- Aditya Raj （https://github.com/iamadityaraj04）
+- [lonely_white](https://github.com/lonelywhite233)——(lonely_white) (https://github.com/lonelywhite233)
  - [primemorti8-netizen](https://github.com/primemorti8-netizen)
-[Adedamola Aina](https://github.com/Adedamola007)
-- [Ankush Gulia](https://github.com/ankushkgulia)
+[Adedamola Aina](https://github.com/Adedamola007)[Adedamola Aina) (https://github.com/Adedamola007)
+- [Ankush Gulia](https://github.com/ankushkgulia)- [Ankush Gulia]（https://github.com/ankushkgulia）
 - [Archiii]
 [Kenil Gorasiya](https://github.com/Kenildev007)
 - [Vinesh nayak] (https://github.com/Vineshnayak)
-- [Maurice Carroll] (https://github.com/nwbikedude)
-- [Ton Lin]
+- [Maurice Carroll] (https://github.com/nwbikedude)- [Maurice Carroll   莫里斯·卡罗尔] （https://github.com
+wbikedude）   wbikedude)
+- [Ton Lin]   -[佟林]
 - [SimarLar]
-- [KSH]
-- [Shivani-Padia](https://github.com/shivanipadia01-cyber)
+- Nefelibata
+- [KSH]   ——(KSH)
+- [Shivani-Padia](https://github.com/shivanipadia01-cyber)——(Shivani-Padia) (https://github.com/shivanipadia01-cyber)
 - [Saqib Anjum Masoodi](https://github.com/SaqibMasoodi)
 - [Chidera Okere] (https://github.com/okerescm)
-- [Naim Muaz](https://github.com/naimmuaz)
-- [Phillip F](https://github.com/pfurpass)
-- [Justin Thomas](https://github.com/justinthomas11)
+- [Naim Muaz](https://github.com/naimmuaz)- [Naim Muaz](https://github.com
+aimmuaz)
+- [Phillip F](https://github.com/pfurpass)- [Phillip F   菲利普·F]（https://github.com/pfurpass）
+- [Justin Thomas](https://github.com/justinthomas11)——贾斯汀·托马斯（https://github.com/justinthomas11）
 - [Ibrahim_Abbas] (https://github.com/IbrahimAbbas-spec)
 - [Tariq Menla](https://github.com/Tariq-Menla)
-- [MeowWow520](https://meowwow520.cn/)
+- [MeowWow520](https://meowwow520.cn/)——(MeowWow520) (https://meowwow520.cn/)
 - [Odo Kingsley Uchenna] (https://github.com/RealKingHubs)
 - [Nolan Berg] (https://github.com/NolanBerg)
-- [Aman Jha] ([23f2003233](https://github.com/23f2003233))
+- [Aman Jha] ([23f2003233](https://github.com/23f2003233))- [Aman Jha   阿曼Jha] （[23f2003233](https://github.com/23f2003233)）
 - [Eduardo Nunes] (https://github.com/eduardonunesfvm)
-- [Xiaochun Bai](https://github.com/Bingtagui404)
-- [M_Rizwan](https://github.com/rizwan749)
+- [Xiaochun Bai](https://github.com/Bingtagui404)-[白晓春]（https://github.com/Bingtagui404）
+- [M_Rizwan](https://github.com/rizwan749)——(M_Rizwan) (https://github.com/rizwan749)
 - [Daerian] (https://github.com/Daerian)
-- [Y Bhavana](https://github.com/yalalabhavana17-cmyk)
+- [Y Bhavana](https://github.com/yalalabhavana17-cmyk)- [ybhavana]（https://github.com/yalalabhavana17-cmyk）
   [Specturr] (https://github.com/Specturr)
 - [BKaur20] (https://github.com/BKaur20/)
-- [z0ryn](github.com/z0ryn)
-- [Kaushal Prakash](github.com/kaushal-Prakash)
-- [Han](https://github.com/vy088473)
+- [z0ryn](github.com/z0ryn)——[z0ryn] (github.com/z0ryn)
+- [Kaushal Prakash](github.com/kaushal-Prakash)- [Kaushal Prakash   Kaushal普拉卡什]（github.com/kaushal-Prakash）
+- [Han](https://github.com/vy088473)-[韩](https://github.com/vy088473)
 - [Md. Kamran Alam](https://github.com/mdkamranalam)
 - [jjipper] (https://github.com/jjipper)
-- [Abhay Agnihotri](https://github.com/Abhay-Agnihotri01/)
+- [Abhay Agnihotri](https://github.com/Abhay-Agnihotri01/)- Abhay Agnihotri （https://github.com/Abhay-Agnihotri01/）
 - [vencentDebug](https://github.com/vencentDebug/first-contributions)
 - [saumyadhote](https://github.com/saumyadhote)
 - [SSkalas](https://github.com/SSkalas)
-- [ankitongithb](https://github.com/ankitongithb)
-- [Bishwa7](https://github.com/Bishwa7)
+- [ankitongithb](https://github.com/ankitongithb)——(ankitongithb) (https://github.com/ankitongithb)
+- [Bishwa7](https://github.com/Bishwa7)——(Bishwa7) (https://github.com/Bishwa7)
 - [yjh7979-12](https://github.com/yjh7979-12/)
-- [24f2008014](https://github.com/24f2008014)
+- [24f2008014](https://github.com/24f2008014)——(24 f2008014) (https://github.com/24f2008014)
 - [kumsb](https://github.com/24f2008015)
 - [sbp828](https://github.com/sbp828)
-- [Waffo Taffo](https://github.com/WaffoTaffo)
+- [Waffo Taffo](https://github.com/WaffoTaffo)-[华夫饼塔夫](https://github.com/华夫饼)
 - [PrincejiCoder](https://github.com/PrincejiCoder)
 - [Thien Nguyen](https://github.com/th13nnh)
 - [Mohammad Yasir Khan](https://github.com/myasir-khan)
