@@ -119,7 +119,7 @@ git push origin <अपनी-शाखा-का-नाम-जोड़ें>
 
 ## शिक्षण अन्य साधनो का उपयोग करने के लिए
 
-<p align="center">
+<p>
   <a href="../gui-tool-tutorials/github-desktop-tutorial.md">
     <img src="https://desktop.github.com/images/desktop-icon.svg" width="100"/>
   </a>
@@ -141,7 +141,7 @@ git push origin <अपनी-शाखा-का-नाम-जोड़ें>
   </a>
 </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md)&nbsp;&nbsp;
+[GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md)&nbsp;&nbsp;
 [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md)
 &nbsp;&nbsp;&nbsp;[Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md)
