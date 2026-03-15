@@ -1646,3 +1646,4 @@ Merjen Amanmuradova
 - [Matthew Wong](https://github.com/richmanpoorman)
 - [Noah Schroeder](https://github.com/nrschroeder)
 - [Ishani Basu](https://github.com/Ishani1024)
+- [Jargavi Jadeja](https://github.com/JargaviJadeja)
