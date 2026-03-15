@@ -572,6 +572,7 @@ Steve
 - [Aditi Thakare](https://github.com/aditithakare2004)
 - [Yau-20070205](https://github.com/Yau-20070205)
 - [Iam Pranav Yadav](https://github.com/pranav50227)
+- [Satish Yadav](https://github.com/Satish-yadav01)
 - [Ibrahim Oloyede](https://github.com/Mista-Log)
 - [Imanol57864](https://github.com/Imanol57864)
 - [Isaachbt](https://github.com/Isaachbt)
