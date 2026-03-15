@@ -233,6 +233,7 @@
 - [Alakh Awasthi](https://github.com/Awasthi577)
 - [Alanronald2001](https://github.com/Alanronald2001)
 - [Alanto Manu](https://github.com/alantomanu)
+- [Aleena Yogindar](https://github.com/Aleena-Y)
 - [Alejandro Aceituno](https://github.com/clement-zentz)
 - [Alexander](https://github.com/azuaje1982)
 - [Alfred Sjögren](https://github.com/4lfman)
