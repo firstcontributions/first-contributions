@@ -1171,6 +1171,7 @@ Rongxin Zhang
 - [Tracey Dingman](https://github.com/tdingman422)
 - [Trevor Tippery](https://github.com/trevortippery)
 - [Trishna](https://github.com/trishna2105)
+- [Tai Fong](https://github.com/taifong)
 - [Trần Huỳnh Đăng Khôi](https://github.com/KhoiTarn)
 - [Tushar Balakrishnan](https://github.com/iamtusharbala)
 - [Tushar Moolya](https://github.com/tushiar)
