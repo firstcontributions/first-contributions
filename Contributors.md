@@ -1593,6 +1593,7 @@ Merjen Amanmuradova
 - [fzgma] (https://github.com/fzgma)
 - [Pragya Mandal] (github.com/pragyamandal)
 - [Nour] (https://github.com/Nour-ad)
+- [Nícolas Marinho](https://github.com/nicolasmarinhoo)
 -[sog](https://github.com/jtystart)
 -[ytnma](https://github.com/ytnma)
 - [Ritesh Kundara](https://github.com/23f2002447)
