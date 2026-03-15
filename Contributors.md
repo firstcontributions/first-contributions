@@ -4,6 +4,7 @@
 - [skntrl] (https://github.com/skntrl)
 - [Khalil Khamassi](https://github.com/khalilkhamassi62-oss)
 - [Daffa Kaisha Pratama Chandra](https://github.com/daff00)
+- [Confidence Monday] (https://github.com/Confidence-Monday)
 - [Jules Cinc] (https://https://github.com/JulesCinc)
 - [Vishwajeet_Kanase](https://github.com/vishwajeetkanase)
 - [Shiva Kumar](https://github.com/shiva-kumar04)
