@@ -1684,3 +1684,4 @@ Merjen Amanmuradova
 - [Xingchen Yan](https://github.com/crosseax)
 - [Iker Aramendi](https://github.com/IkerAramendi)
 - [Gia Miminoshvili](https://github.com/giamimino)
+- [xql](https://github.com/kirobotdev)
