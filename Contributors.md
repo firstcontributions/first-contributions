@@ -1,6 +1,7 @@
 # Contributors
 - [Ashka Pathak](https://github.com/AshkaPathak)
 - [Vadim Cebanu](https://github.com/vadim-cebanu)
+- [forkcommit](https://github.com/forkcommit)
 - [skntrl] (https://github.com/skntrl)
 - [Khalil Khamassi](https://github.com/khalilkhamassi62-oss)
 - [Daffa Kaisha Pratama Chandra](https://github.com/daff00)
