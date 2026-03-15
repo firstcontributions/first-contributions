@@ -1,5 +1,6 @@
 # Contributors
 - [Ashka Pathak](https://github.com/AshkaPathak)
+- [Vadim Cebanu](https://github.com/vadim-cebanu)
 - [skntrl] (https://github.com/skntrl)
 - [Khalil Khamassi](https://github.com/khalilkhamassi62-oss)
 - [Daffa Kaisha Pratama Chandra](https://github.com/daff00)
@@ -10,6 +11,7 @@
 - [Toluwanimi](https://github.com/DevTolu79)
 - [Ifeanyi](https://github.com/kevinify)
 - [Jamiu](https://github.com/RushNet01)
+- [Aditya Raj](https://github.com/iamadityaraj04)
 - [lonely_white](https://github.com/lonelywhite233)
  - [primemorti8-netizen](https://github.com/primemorti8-netizen)
 [Adedamola Aina](https://github.com/Adedamola007)
@@ -19,6 +21,7 @@
 - [Vinesh nayak] (https://github.com/Vineshnayak)
 - [Maurice Carroll] (https://github.com/nwbikedude)
 - [Ton Lin]
+- [SimarLar]
 - [KSH]
 - [Shivani-Padia](https://github.com/shivanipadia01-cyber)
 - [Saqib Anjum Masoodi](https://github.com/SaqibMasoodi)
@@ -40,6 +43,7 @@
   [Specturr] (https://github.com/Specturr)
 - [BKaur20] (https://github.com/BKaur20/)
 - [z0ryn](github.com/z0ryn)
+- [Kaushal Prakash](github.com/kaushal-Prakash)
 - [Han](https://github.com/vy088473)
 - [Md. Kamran Alam](https://github.com/mdkamranalam)
 - [jjipper] (https://github.com/jjipper)
@@ -62,6 +66,7 @@
 - [Saqib](https://github.com/saq12)
 - [D7mnCh](http://github.com/D7mnCh)
 - [SJ](http://github.com/saaicasm)
+- [maria isabel solis](https://github.com/Maisa2006)
 - [Blessing Izee](https://github.com/Blessing-Imoukhede)
 - [Kamipantsu0](https://github.com/Kamipantsu0)
 - [Jack Johnson](https://github.com/norvest06)
@@ -93,6 +98,7 @@
 - [midikaif](https://github.com/midikaif)
 - [yjh7979](https://github.com/yjh7979)
 - [VipulBhattt](https://github.com/VipulBhattt)
+- [Yogesh Jindal](https://github.com/yogeshJindal1)
 - Max
 - [Mahefoz Sowad](https://github.com/Mahefoz-Sowad)
 - [Roland Steiner]
@@ -351,6 +357,7 @@ Ben
 - [Brahmpreet Singh](https://github.com/Brahmpreett)
 - [Brandon B Bolivar](https://github.com/AvoBolivar)
 - [Brian Griffin](https://github.com/SolidUmbrella)
+- [Brian Luporini](https://github.com/bluporini)
 - [Bruno Costa](https://github.com/brunocosta-devlab)
 - [BuggyJames](https://github.com/u0-a19B)
 - [botken](https://github.com/botken)
@@ -899,6 +906,7 @@ Rongxin Zhang
 - [Pooja](https://github.com/poojasounder)
 - [Oleksandr Perian](https://github.com/oleksandrperian-cpu)s
 - [Pouya Esfahani](https://github.com/Pooyash1998)
+- [Prabveer Bakshi](https://github.com/prabneer08)
 - [Prachi Pandey](https://github.com/prachi-pandey-13)
 - [Pradeep Reddy](https://github.com/Pradeep0997)
 - [Pragati Priya](https://github.com/pragati-2004)
@@ -1378,6 +1386,7 @@ Rongxin Zhang
 - [shwetasharma](https://github.com/ShwetaSharmaDev)
 - [snopstor](https://github.com/snopstor)
 - [socks5-sniffer](https://github.com/socks5-sniffer)
+- [accayo](https://github.com/Accayo14)
 - [sony](https://github.com/sony77697)
 - [srsxnsh](https://github.com/srsxnsh)
 - [stackashu](https://github.com/Stackashu)
@@ -1607,6 +1616,7 @@ Merjen Amanmuradova
 - [kinglongwu2](https://github.com/KingLongWu2)
 - [uuudemo](https://github.com/UUUdemo)
 - [V Rohith](https://github.com/Rohith15119)
+- [Abhishek](https://github.com/Abhishek-Prajapati442)
 - [S Rice](https://github.com/cyberrhyc)
 - [TheTeodora22](https://github.com/TheTeodora22)
 - [tempoo04](https://github.com/tempoo04)
@@ -1620,7 +1630,18 @@ Merjen Amanmuradova
 #### [Aniket Gautam](https://github.com/aniketgit-hub101)
 -[Anjali yadav] (https://github.com/anjliy784-ship-it)
 - [raghvandrasingh111-sys](https://github.com/raghvandrasingh111-sys)
-add-alexandre-borges
 - [Alexandre Borges](https://github.com/aleborges013-cell)
 - Muhammad Fardan Naheem(https://github.com/fardu6288)
- main
+- [Prewal Fredlin Fernandes](https://github.com/Prewal137)
+- [GangSQuadUA](https://github.com/GangSquadUA)
+- [Vishal Singh](https://github.com/VISHAL55UIET)
+- [Ram Pravesh Singh](https://github.com/rampravesh19-96)
+- Luis Dan
+- [NaveenKumar M](https://github.com/naveenkumar-rm)
+- [Avani J C](https://github.com/Avani24-byte)
+- [Sachin Singh](https://github.com/sachin844123)
+= [Suhani Maurya](https://github.com/suhanimaurya05)
+- [Komil Kodirov](https://github.com/Komil-goat)
+-[frecklysledge0](https://github.com/frecklysledge0)
+- [Matthew Wong](https://github.com/richmanpoorman)
+- [Noah Schroeder](https://github.com/nrschroeder)
