@@ -7,6 +7,7 @@
 - [Vadim Cebanu](https://github.com/vadim-cebanu)
 - [forkcommit](https://github.com/forkcommit)
 - [Ankur Mallick](https://github.com/AnkurMal)
+  [Jason Zinn](https://github.com/jasonzinndal)
 - [Muhsil NR](https://github.com/mhlohh)
 - [skntrl] (https://github.com/skntrl)
 - [Khalil Khamassi](https://github.com/khalilkhamassi62-oss)
