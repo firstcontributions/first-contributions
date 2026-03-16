@@ -1,6 +1,7 @@
 # Contributors
 - [Varshith Reddy](https://github.com/VarshithReddy2006)
 - [Jeet Gupta](https://github.com/JeetG-AlphaDev)
+- [Htoo Eant Linn](https://github.com/htooeantlinn)
 - [Shanmuga Sundaram Natarajan](https://github.com/shanmuga-sundaram-n)
 - [Ashka Pathak](https://github.com/AshkaPathak)
 - [Vadim Cebanu](https://github.com/vadim-cebanu)
@@ -36,6 +37,7 @@
 - [SimarLar]
 - [KSH]
 - [MiaByte-ctrl]
+- [Komal Godara](https://github.com/meow8080)
 - [Shivani-Padia](https://github.com/shivanipadia01-cyber)
 - [Saqib Anjum Masoodi](https://github.com/SaqibMasoodi)
 - [Chidera Okere] (https://github.com/okerescm)
