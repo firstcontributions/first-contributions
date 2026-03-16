@@ -64,6 +64,7 @@
 - [yjh7979-12](https://github.com/yjh7979-12/)
 - [24f2008014](https://github.com/24f2008014)
 - [kumsb](https://github.com/24f2008015)
+- [Patrick Jove](https://github.com/iamkcirtap)
 - [sbp828](https://github.com/sbp828)
 - [Waffo Taffo](https://github.com/WaffoTaffo)
 - [PrincejiCoder](https://github.com/PrincejiCoder)
