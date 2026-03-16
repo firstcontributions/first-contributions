@@ -45,6 +45,7 @@
 - [Phillip F](https://github.com/pfurpass)
 - [Justin Thomas](https://github.com/justinthomas11)
 - [Jayanti Deb]
+- [Luis Henrique] (https://github.com/Passarin1)
 - [Ibrahim_Abbas] (https://github.com/IbrahimAbbas-spec)
 - [Tariq Menla](https://github.com/Tariq-Menla)
 - [MeowWow520](https://meowwow520.cn/)
@@ -1718,3 +1719,4 @@ Merjen Amanmuradova
 - [Nandalal Shukla](https://github.com/nandalalshukla)
 - [Bikram Pal](https://github.com/Bikram-pal)
 -[Mayira Sharif](https://github.com/mayirasharif)
+- [Anton Vusatyi](https://github.com/vusatui)
