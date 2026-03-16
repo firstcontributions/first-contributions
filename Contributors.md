@@ -922,6 +922,7 @@ Rongxin Zhang
 - [Patrick Poon](https://github.com/PatrickPoon-dev)
 - [Paula Amorim](https://github.com/paulamori)
 - [Paul Henry Atienza](https://github.com/phatienza/)
+- [Sprtschk](https://github.com/sprt-schk/)
 - [Pavan kuppili](https://github.com/PavanKuppili)
 - [Pavani Ganti](https://github.com/Pavani23ios)
 - [Pavani](https://github.com/pavani42)
