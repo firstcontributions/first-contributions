@@ -1643,6 +1643,7 @@ Merjen Amanmuradova
 * [Shashwajan Akinapelly](https://github.com/coderwrexx)
 - [Revati Natu](https://github.com/Revati-N)
 - [muharyman](https://github.com/muharyman)
+- [Sumit Kumar](https://github.com/stevedav131207-cell)
 - [Jocelyna_liu](https://github.com/jocelynaaaaaa-boop)
 - [Marlon Nunez](https://github.com/MagusMar)
 - [QXiaoLingShang](https://github.com/QXiaoLingShang)
