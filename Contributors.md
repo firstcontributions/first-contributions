@@ -53,6 +53,7 @@
 - [Daerian] (https://github.com/Daerian)
 - [Y Bhavana](https://github.com/yalalabhavana17-cmyk)
 - [Zoraz](https://github.com/Zoraz01)
+- [Feizo](https://github.com/Felix-Kebaki)
   [Specturr] (https://github.com/Specturr)
 - [BKaur20] (https://github.com/BKaur20/)
 - [z0ryn](github.com/z0ryn)
