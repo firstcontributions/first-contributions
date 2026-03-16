@@ -1,4 +1,6 @@
 # Contributors
+
+- [Sangsaist](https://github.com/sangsaist)
 - [Varshith Reddy](https://github.com/VarshithReddy2006)
 - [Jeet Gupta](https://github.com/JeetG-AlphaDev)
 - [Htoo Eant Linn](https://github.com/htooeantlinn)
