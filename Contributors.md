@@ -1659,6 +1659,7 @@ Merjen Amanmuradova
 - [Vishal Singh](https://github.com/VISHAL55UIET)
 - [Ram Pravesh Singh](https://github.com/rampravesh19-96)
 - Luis Dan
+- [Aziz Oguntade] (https://github.com/azizoguntade-learning)
 - [NaveenKumar M](https://github.com/naveenkumar-rm)
 -[Yacine Mebarki](https://github.com/yacinemebarki)
 - [Avani J C](https://github.com/Avani24-byte)
