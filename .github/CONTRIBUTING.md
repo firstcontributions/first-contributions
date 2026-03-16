@@ -46,6 +46,8 @@ If you're making changes to a translation, please request a review from our prev
 | 한국어 | [Korean](https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.ko.md) | [<img width="100" src="https://avatars0.githubusercontent.com/u/2732120?s=460&v=4" alt="@espozbob" />](https://github.com/espozbob) |
 | Kiswahili | [Kiswahili](https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.kws.md) |[<img width="100" src="https://avatars.githubusercontent.com/u/36197725?v=4" alt="@zecollokaris" />](https://github.com/zecollokaris)  []() |
 | Kazakh | [Kazakh](https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.kz.md) | [<img width="100" src="https://avatars3.githubusercontent.com/u/12928246?s=460&v=4" alt="@kurshakuz" />](https://github.com/kurshakuz) |
+
+Wilme Linares Magallanes
 | Lietuvių kalba | [Lithuanian](https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.lt.md) | [<img width="100" src="https://avatars1.githubusercontent.com/u/9092712?s=460&v=4" alt="@neone35" />](https://github.com/neone35) |
 | Latviešu valoda | [Latvian](https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.lv.md) | []() |
 | Crnogorski | [Montenegrin](https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.me.md) | [<img width="100" src="https://avatars1.githubusercontent.com/u/9092712?s=460&v=4" alt="@neone35">]() |
