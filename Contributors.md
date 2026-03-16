@@ -888,6 +888,7 @@ Rongxin Zhang
 - [Nowshin Arony](https://github.com/nowshinarony)
 - [Nur Islam](https://github.com/nurislam243)
 - [Nyoman Kusuma](https://github.com/knyoman)
+- [Vijay Joshi](https://github.com/VijayJoshi17)
 - [OCHWO DAVID](https://github.com/DaveOch-sudo)
 - [OTTOGALLI Tristan](https://github.com/ottogalli-tristan)
 - [Olapu Ajay](https://github.com/olapuajay)
