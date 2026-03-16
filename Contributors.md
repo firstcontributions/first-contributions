@@ -1685,5 +1685,6 @@ Merjen Amanmuradova
 - [Iker Aramendi](https://github.com/IkerAramendi)
 - [Gia Miminoshvili](https://github.com/giamimino)
 - [xql](https://github.com/kirobotdev)
+- [Collins Kipkosgei] (https://github.com/KipCollo)
 - [Rodrigo Provoste](https://github.com/RgoPro)
 - [Anand G] (https://github.com/anandgsaga)
