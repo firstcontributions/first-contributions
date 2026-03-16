@@ -841,6 +841,7 @@ Rongxin Zhang
 - [Mwiza Sichinga](https://github.com/Munyuam/)
 - [NIKHIL GAJULA](https://github.com/nikhil07g)
 - [NabilMch](https://github.com/NabilMch)
+- [Rohan Darandale](https://github.com/rohandarandale1144)
 - [Nabil Mutawakkil Qisthi](https://github.com/NabilMQ)
 - [Nacho](https://github.com/100550759-commits)
 - [Naga Teja](https://github.com/invariantfields)
@@ -1696,3 +1697,4 @@ Merjen Amanmuradova
 - [dsk-dev-ai](https://github.com/dsk-dev-ai)
 - [Utkarsh Johari](https://github.com/utkarshjoharii21)
 - [Rishitha Vadde](https://github.com/Rishitha-Vadde)
+- [Navya Sahithi]-(https://github.com/NavyaSahithiPadilam)
