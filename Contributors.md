@@ -1754,3 +1754,4 @@ Merjen Amanmuradova
 - [Sushma](https://github.com/Sushma-0179)
 - [Skyler Warren](https://github.com/skylerwarren1985-ui)
 - [x](https://github.com/kirobotdev) 
+- [Rafael ISTE](https://github.com/RafaelIste)
