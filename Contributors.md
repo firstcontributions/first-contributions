@@ -1761,3 +1761,4 @@ Merjen Amanmuradova
 - [Rafael ISTE](https://github.com/RafaelIste)
 - [Rithika](https://github.com/Rithika0718)
 - [Venkata Ganapathi Subramanian](https://github.com/venkata0803)
+- [Michaelangelo Labrador](https://github.com/labram13)
