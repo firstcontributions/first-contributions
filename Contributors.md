@@ -9,6 +9,7 @@
 - [forkcommit](https://github.com/forkcommit)
 - [saudademjj](https://github.com/saudademjj)
 - [Ankur Mallick](https://github.com/AnkurMal)
+- [Abhay Patange](https://github.com/AbhayPatange)
   [Jason Zinn](https://github.com/jasonzinndal)
 - [Muhsil NR](https://github.com/mhlohh)
 - [skntrl] (https://github.com/skntrl)
