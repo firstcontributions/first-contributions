@@ -1768,3 +1768,4 @@ Merjen Amanmuradova
 - [Michaelangelo Labrador](https://github.com/labram13)
 - [Arismonx](https://github.com/Arismonx)
 - [Vítor Hugo](https://github.com/vitorhugo8899o-lgtm)
+- [dev patel](https://github.com/Devpatel954)
