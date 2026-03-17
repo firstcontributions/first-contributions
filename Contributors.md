@@ -1,7 +1,7 @@
 # Contributors
 - [Mohan Pawar](https://github.com/MOHANX-0001)
 - [Imad Rahhali](https://github.com/ImadRahhali)
-- [Charul Bhanarkar]([https://github.com/MOHANX-0001](https://github.com/charull44))
+- [Charul Bhanarkar](https://github.com/charull44)
 - [Yash Kewte](https://github.com/yashkewte)
 - [Adaji Gideon](https://github.com/gidosharpman)
 - [Varshith Reddy](https://github.com/VarshithReddy2006)
