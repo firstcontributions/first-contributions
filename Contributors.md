@@ -4,6 +4,7 @@
 - [Imad Rahhali](https://github.com/ImadRahhali)
 - [Charul Bhanarkar](https://github.com/charull44)
 - [Yash Kewte](https://github.com/yashkewte)
+- [Jyotula Siva Preetham](https://github.com/MooN4002)
 - [Adaji Gideon](https://github.com/gidosharpman)
 - [Varshith Reddy](https://github.com/VarshithReddy2006)
 - [Jeet Gupta](https://github.com/JeetG-AlphaDev)
