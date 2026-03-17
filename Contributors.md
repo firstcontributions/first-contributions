@@ -35,6 +35,7 @@
 - [itzharshini](https://github.com/itzharshini)
 - [Sahilarora83](https://github.com/Sahilarora83)
 - [Toluwanimi](https://github.com/DevTolu79)
+- [Gayatri Yadkikar](https://github.com/yadkikargayatri)
 - [Ifeanyi](https://github.com/kevinify)
 - [Jamiu](https://github.com/RushNet01)
 - [Aditya Raj](https://github.com/iamadityaraj04)
