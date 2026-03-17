@@ -11,6 +11,7 @@
 - [Shanmuga Sundaram Natarajan](https://github.com/shanmuga-sundaram-n)
 - [Ashka Pathak](https://github.com/AshkaPathak)
 - [Vadim Cebanu](https://github.com/vadim-cebanu)
+- [Saket Kumar Sinha](https://github.com/SaketSinha2005)
 - [forkcommit](https://github.com/forkcommit)
 - [saudademjj](https://github.com/saudademjj)
 - [Ankur Mallick](https://github.com/AnkurMal)
