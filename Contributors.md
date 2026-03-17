@@ -1734,3 +1734,4 @@ Merjen Amanmuradova
 - [Shyam Prakash Sah](https://github.com/23f3000828)
 - [Deepika](https://github.com/deepikagithub-07)
 - [tun43p](https://github.com/tun43p)
+- [bingzangda](https://github.com/Anyoneself)
