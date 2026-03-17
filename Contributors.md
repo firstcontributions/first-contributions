@@ -1747,5 +1747,4 @@ Merjen Amanmuradova
 - [Witheast](https://github.com/Witheast)
 - [Tidenflow](https://github.com/Tidenflow)
 - [Tahleel](https://github.com/Tahleels)
-- [LianHarman](https://github.com/LienThuan04)
-- [Sushma](https://github.com/Sushma-0179)
+- [LienThuan04 (LianHarman)](https://github.com/LienThuan04)
