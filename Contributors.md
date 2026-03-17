@@ -10,6 +10,7 @@
 - [saudademjj](https://github.com/saudademjj)
 - [Ankur Mallick](https://github.com/AnkurMal)
 - [Abhay Patange](https://github.com/AbhayPatange)
+- [Riyyan Khan](https://github.com/riyyankhan007)
   [Jason Zinn](https://github.com/jasonzinndal)
 - [Muhsil NR](https://github.com/mhlohh)
 - [skntrl] (https://github.com/skntrl)
