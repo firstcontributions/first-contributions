@@ -15,6 +15,7 @@
 - [Saket Kumar Sinha](https://github.com/SaketSinha2005)
 - [forkcommit](https://github.com/forkcommit)
 - [saudademjj](https://github.com/saudademjj)
+- [Danielle Lyles](https://github.com/Danielle-Lyles)
 - [Ankur Mallick](https://github.com/AnkurMal)
 - [Abhay Patange](https://github.com/AbhayPatange)
 - [Riyyan Khan](https://github.com/riyyankhan007)
