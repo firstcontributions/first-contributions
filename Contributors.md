@@ -529,6 +529,7 @@ Steve
 - [Ezra K](https://github.com/EzraKL)
 - [Farmata Kane](https://github.com/miiswom)
 - [Fathima Manal](https://github.com/FathimaManal)
+- [Farida Khaled](https://github.com/faridakhaled05)
 - [Fawaz Bello](https://github.com/Phawazz)
 - [Fedor Kupryakov](https://github.com/divohub)
 - [Fei Sun](https://github.com/Fei-Sun-1996)
