@@ -1,4 +1,5 @@
 # Contributors
+- [Imad Rahhali](https://github.com/ImadRahhali)
 - [Yash Kewte](https://github.com/yashkewte)
 - [Varshith Reddy](https://github.com/VarshithReddy2006)
 - [Jeet Gupta](https://github.com/JeetG-AlphaDev)
