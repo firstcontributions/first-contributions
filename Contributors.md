@@ -90,6 +90,7 @@
 - [Thien Nguyen](https://github.com/th13nnh)
 - [Mohammad Yasir Khan](https://github.com/myasir-khan)
 - [Ammar Tafoiki](https://github.com/ammar116/)
+- [Buyi](https://github.com/buyicoder)
 - [Hamad Ullah](https://github.com/hammadaiy/)
 - [Saqib](https://github.com/saq12)
 - [Sahil Hossain](https://github.com/Sahil-Hossain-1429)
