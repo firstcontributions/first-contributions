@@ -1062,6 +1062,7 @@ Rongxin Zhang
 (https://github.com/sathyashreekv)
 - [Said Berk](https://github.com/saidberk27)
 - [Saideepthi](https://github.com/Saideepthi04)
+- [Saif Kayyali](https://github.com/Skayyali3)
 - [Sal Adrian](https://github.com/Sal-Adrian)
 - [Samia-sh](https://github.com/samia-code0)
 - [Samuel Wright](samw46)
