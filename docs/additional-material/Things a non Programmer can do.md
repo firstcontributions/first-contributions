@@ -159,3 +159,6 @@ The best teacher is the one who can explain complex stuff with simple examples. 
 23. **Grant Writing & Fundraising**
 - Apply for open-source grants (GitHub Sponsors, NLnet).  
 - Draft **case studies** showcasing project impact.  
+
+
+Contribution: LionKingGauravChaturvedi
