@@ -112,7 +112,7 @@ git push origin <分支的名称>
 
 ## 接下来该做什么呢？
 
-祝贺！你刚刚完成了作为贡献者经常会使用到的标准流程：_fork -> clone -> edit -> push -> pull request_ ！
+祝贺！你刚刚完成了作为贡献者经常会使用到的标准流程：_fork -> clone -> edit -> commit and push -> pull request_ ！
 
 为你的第一次贡献庆祝吧，不要忘记和你的朋友以及你的小迷弟小迷妹们分享我们的[网站](https://roshanjossey.github.io/first-contributions/#social-share)哟！
 
