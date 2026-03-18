@@ -25,6 +25,7 @@ hello ji
 - [CP2]
 - [Muhsil NR](https://github.com/mhlohh)
 - [skntrl] (https://github.com/skntrl)
+- [Piyush Kanti Chanda] (https://github.com/piyushka-ally)
 - [Khalil Khamassi](https://github.com/khalilkhamassi62-oss)
 - [Atul Pandey](https://github.com/atulpandey9)
 - [Gayathri R](https://github.com/Gayathri17Ramesh)
