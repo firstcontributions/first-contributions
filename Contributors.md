@@ -22,8 +22,11 @@ hello ji
 - [Riyyan Khan](https://github.com/riyyankhan007)
   [Jason Zinn](https://github.com/jasonzinndal)
 - [Victor Almeida](https://github.com/vma5)
+- [CP2]
 - [Muhsil NR](https://github.com/mhlohh)
 - [skntrl] (https://github.com/skntrl)
+- [Paul Duthu](https://github.com/PaulDuthu)
+- [Piyush Kanti Chanda] (https://github.com/piyushka-ally)
 - [Khalil Khamassi](https://github.com/khalilkhamassi62-oss)
 - [Atul Pandey](https://github.com/atulpandey9)
 - [Gayathri R](https://github.com/Gayathri17Ramesh)
@@ -150,6 +153,7 @@ hello ji
 - [Roland Steiner]
 - [reboyu](https://github.com/rezhboyu)
 - Sean Butt
+- [Mohammad Rushaan](https://github.com/MohammadRushaan)
 - [ZhangHao]
 - daniel1876-zhuo
 - Gonzalo (https://github.com/GonzaloAleo)
@@ -992,6 +996,7 @@ Rongxin Zhang
 - [Priyanka Mali](https://github.com/priyanka1885)
 - [Priyansh Verma](https://github.com/PriyanshV10)
 - [Priyanshu Kumar Pandey](https://github.com/chefcookscode)
+- [Priyabrata Senapati](https://github.com/ranaiiest)
 - [Pro Kumar](https://github.com/pkumar2143)
 - [Purushothaman R](https://github.com/purushothaman-web)
 - [Pygame17](https://github.com/Pygame17)
