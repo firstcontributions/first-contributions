@@ -1,5 +1,6 @@
 # Contributors
 hello ji
+
 - [Nikhil More](https://github.com/Khiladi-786)
 -[Rajkumar senapati](https://github.com/Rajkumargit61)
 - [Mohan Pawar](https://github.com/MOHANX-0001)
@@ -12,6 +13,7 @@ hello ji
 - [Jeet Gupta](https://github.com/JeetG-AlphaDev)
 - [Htoo Eant Linn](https://github.com/htooeantlinn)
 - [Shanmuga Sundaram Natarajan](https://github.com/shanmuga-sundaram-n)
+- [Pritam Kumar](https://github.com/pritam1952)
 - [Ashka Pathak](https://github.com/AshkaPathak)
 - [Vadim Cebanu](https://github.com/vadim-cebanu)
 - [Saket Kumar Sinha](https://github.com/SaketSinha2005)
