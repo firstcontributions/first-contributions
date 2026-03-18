@@ -1126,6 +1126,7 @@ Rongxin Zhang
 - [Shanyu](https://github.com/shanyuin)
 - [Sharad vyas](https://github.com/sharadvyas123)
 - [Sharath Chandhan](https://github.com/sharath0x)
+- [Sharienne] (https://github.com/Sharienn-e)
 - [Shariq Naseem](https://github.com/muhammadshariq0007)
 - [Sharyu Patil](http://github.com/Sharyupatil01)
 - [Shaswat Raj](https://github.com/sh20raj)
