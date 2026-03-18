@@ -1,5 +1,6 @@
 # Contributors
 hello ji
+- [Bhumit Solanki](https://github.com/Bhumit0922)
 - [Nikhil More](https://github.com/Khiladi-786)
 -[Rajkumar senapati](https://github.com/Rajkumargit61)
 - [Mohan Pawar](https://github.com/MOHANX-0001)
