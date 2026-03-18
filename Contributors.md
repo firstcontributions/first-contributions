@@ -767,6 +767,7 @@ Rongxin Zhang
 - [Loic Hounyovi](https://github.com/mechakc)
 - [LokashakthivelSP](https://github.com/lokashakthivel-sp)
 - [LoongSir-ME](https://github.com/LoongSir-ME)
+- [laumaxim](https://github.com/laumaxim)
 - [LostChyld](https://github.com/dragonsewist/)
 - [Lottie Judge](https://github.com/lottiejudge-source)
 - [Louwrens Költzow](https://github.com/KoltzowLJ)
