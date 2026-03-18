@@ -22,6 +22,7 @@ hello ji
 - [Riyyan Khan](https://github.com/riyyankhan007)
   [Jason Zinn](https://github.com/jasonzinndal)
 - [Victor Almeida](https://github.com/vma5)
+- [CP2]
 - [Muhsil NR](https://github.com/mhlohh)
 - [skntrl] (https://github.com/skntrl)
 - [Khalil Khamassi](https://github.com/khalilkhamassi62-oss)
