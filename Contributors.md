@@ -741,6 +741,7 @@ Rongxin Zhang
 - [Keith Kaplan](https://github.com/darthkeith)
 - [Kevin Kimathi](https://github.com/muneneee)
 - [Kevin Wang](https://github.com/KevinWangHP)
+- [Kento Akiyama](https://github.com/Kento103)
 - [Khushhal Singh](https://github.com/Meatix)
 - [Kingsley Sarkodie](https://github.com/JoeBuydemDips)
 - [Kishita Deotale](https://github.com/kishitadeotale24)
