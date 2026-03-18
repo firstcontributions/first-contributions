@@ -1698,81 +1698,155 @@ Merjen Amanmuradova
 #### [Aniket Gautam](https://github.com/aniketgit-hub101)
 -[Anjali yadav] (https://github.com/anjliy784-ship-it)
 - [raghvandrasingh111-sys](https://github.com/raghvandrasingh111-sys)
+
 - Muhammad Fardan Naheem(https://github.com/fardu6288)
+
 - [Prewal Fredlin Fernandes](https://github.com/Prewal137)
+
 - [GangSQuadUA](https://github.com/GangSquadUA)
+
 - [Vishal Singh](https://github.com/VISHAL55UIET)
+
 - [Ram Pravesh Singh](https://github.com/rampravesh19-96)
+
 - Luis Dan
+
 - [Aziz Oguntade] (https://github.com/azizoguntade-learning)
+
 - [NaveenKumar M](https://github.com/naveenkumar-rm)
--[Yacine Mebarki](https://github.com/yacinemebarki)
+  -[Yacine Mebarki](https://github.com/yacinemebarki)
+
 - [Avani J C](https://github.com/Avani24-byte)
+
 - [Sachin Singh](https://github.com/sachin844123)
-[Suhani Maurya](https://github.com/suhanimaurya05)
+  [Suhani Maurya](https://github.com/suhanimaurya05)
+
 - [Komil Kodirov](https://github.com/Komil-goat)
--[frecklysledge0](https://github.com/frecklysledge0)
+  -[frecklysledge0](https://github.com/frecklysledge0)
+
 - [Matthew Wong](https://github.com/richmanpoorman)
+
 - [Noah Schroeder](https://github.com/nrschroeder)
+
 - [Ishani Basu](https://github.com/Ishani1024)
+
 - [Jargavi Jadeja](https://github.com/JargaviJadeja)
+
 - [Sandhya Adhikari](https://github.com/Sandhya-ad)
+
 - [Alina Nair](https://github.com/NairAlina)
+
 - [Booker Ochieng Okumu](https://github.com/KOKUMUbooker)
+
 - [Apurva Singh](https://github.com/Apurva-1610)
+
 - [elegentLIFER](https://github.com/elegentLIFER)
+
 - [Rowan](https://github.com/Rowan-hhh)
+
 - - Srasti Jain(https://github.com/Srasti527)
+
 - [Ashitha T](https://github.com/Ashi-tha)
+
 - [germainelry](https://github.com/germainelry)
+
 - [Yanshu Varshney](https://github.com/YanshuVars)
+
 - [Nithish Kumar](https://github.com/nithishkumar-dev-10)
+
 - [Sree](https://github.com/sree-iitm-bs)
+
 - [Abdul] (https://github.com/B-M-0)
+
 - [Xingchen Yan](https://github.com/crosseax)
+
 - [Iker Aramendi](https://github.com/IkerAramendi)
+
 - [Gia Miminoshvili](https://github.com/giamimino)
+
 - [xql](https://github.com/kirobotdev)
+
 - [Collins Kipkosgei - Kenya] (https://github.com/KipCollo)
+
 - [Rodrigo Provoste](https://github.com/RgoPro)
+
 - [Anand G] (https://github.com/anandgsaga)
+
 - [Lvyizhuo](https://lvyizhuo.github.io)
+
 - [dsk-dev-ai](https://github.com/dsk-dev-ai)
+
 - [Utkarsh Johari](https://github.com/utkarshjoharii21)
--[BRakshitha2003](https://github.com/BRakshitha2003)
+  -[BRakshitha2003](https://github.com/BRakshitha2003)
+
 - [Rishitha Vadde](https://github.com/Rishitha-Vadde)
+
 - [Navya Sahithi]-(https://github.com/NavyaSahithiPadilam)
+
 - #### [PressmenX](https://github.com/PressmenX)
+
 - [Beckett Wen](https://github.com/BeckettWen)
+
 - [170joeychua](https://github.com/170joeychua)
+
 - [KadamPrasad01](https://github.com/KadamPrasad01)
+
 - [Nandalal Shukla](https://github.com/nandalalshukla)
+
 - [Bikram Pal](https://github.com/Bikram-pal)
--[Mayira Sharif](https://github.com/mayirasharif)
+  -[Mayira Sharif](https://github.com/mayirasharif)
+
 - [Anton Vusatyi](https://github.com/vusatui)
+
 - [Nazish Ahmed](https://github.com/nazish16)
-[Banu A] https://github.com/banua
+  [Banu A] https://github.com/banua
+
 - [Tunan Pan](https//github.com/tunan-pan)
+
 - [ILLU510N](https://github.com/ILLU510N)
+
 - [Arjun Dholakiya](https://github.com/arjun-dholakiya)
+
 - [Shyam Prakash Sah](https://github.com/23f3000828)
+
 - [Deepika](https://github.com/deepikagithub-07)
+
 - [tun43p](https://github.com/tun43p)
+
 - [bingzangda](https://github.com/Anyoneself)
+
 - [Kasis Goenka](https://github.com/KasisGoenka15)
+
 - [wangxiaoxiang](https://github.com/wangxiaoxiang5599)
+
 - [Witheast](https://github.com/Witheast)
+
 - [Tidenflow](https://github.com/Tidenflow)
+
 - [Tahleel](https://github.com/Tahleels)
+
 - [LianHarman](https://github.com/LienThuan04)
+
 - [Sushma](https://github.com/Sushma-0179)
+
 - [Skyler Warren](https://github.com/skylerwarren1985-ui)
+
 - [x](https://github.com/kirobotdev) 
+
 - [Rafael ISTE](https://github.com/RafaelIste)
+
 - [Rithika](https://github.com/Rithika0718)
+
 - [Venkata Ganapathi Subramanian](https://github.com/venkata0803)
+
 - [Michaelangelo Labrador](https://github.com/labram13)
+
 - [Arismonx](https://github.com/Arismonx)
+
 - [Vítor Hugo](https://github.com/vitorhugo8899o-lgtm)
+
 - [dev patel](https://github.com/Devpatel954)
+
 - - [Vansh Virmani](https://github.com/vansh-virmani)
+
+- [cor72](https://github.com/cor72)
