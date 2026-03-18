@@ -35,6 +35,7 @@ hello ji
 - [Atul Pandey](https://github.com/atulpandey9)
 - [Gayathri R](https://github.com/Gayathri17Ramesh)
 - [Daffa Kaisha Pratama Chandra](https://github.com/daff00)
+- [mycoderisyad](https://github.com/mycoderisyad)
 - [AMAN KUSHWAHA] (https://github.com/MaxCoder07)
 - [Confidence Monday] (https://github.com/Confidence-Monday)
 - [Jules Cinc] (https://https://github.com/JulesCinc)
