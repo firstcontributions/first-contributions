@@ -997,6 +997,7 @@ Rongxin Zhang
 - [Prathamesh Kulkarni](https://github.com/prathamk11)
 - [Praveen Gupta](https://github.com/Praveen-0k9)
 - [Praveen Kayala](https://github.com/Praveen6-kms)
+- [Preethika R](https://github.com/Preethika-rj)
 - [Praveer Ranjan Singh](https://github.com/PRAVEERRANJANSINGH)
 - [Pravien Powel](https://github.com/PravienPowel)
 - [Prisha Jaiswal](https://github.com/prishajaiswal75)
