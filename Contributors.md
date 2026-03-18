@@ -731,6 +731,7 @@ Steve
 - [Kavana Ganesh](https://github.com/KavanaGanesh-dev)
 - [Kandepu Naga Venkata Manideep](https://github.com/manideep-777)
 - [Kannan Ramaswamy](https://github.com/lkannan)
+- [Kang Chenghua](https://github.com/chenghuakang)
 - [KavindiD](https://github.com/KavindiD)
 - [Kavish Pal Singh](https://github.com/23f2005144)
 Rongxin Zhang
