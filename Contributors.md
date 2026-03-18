@@ -150,6 +150,7 @@ hello ji
 - [Roland Steiner]
 - [reboyu](https://github.com/rezhboyu)
 - Sean Butt
+- [Mohammad Rushaan](https://github.com/MohammadRushaan)
 - [ZhangHao]
 - daniel1876-zhuo
 - Gonzalo (https://github.com/GonzaloAleo)
