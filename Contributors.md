@@ -45,6 +45,7 @@ hello ji
 [Adedamola Aina](https://github.com/Adedamola007)
 - [Ankush Gulia](https://github.com/ankushkgulia)
 - [Boussaid Louai](https://github.com/lou-bou)
+- [CP2]
 - [Archiii]
 - [Ishwinder]
 [Kenil Gorasiya](https://github.com/Kenildev007)
