@@ -114,6 +114,7 @@
 - [Sindhu Reddy](https://github.com/prodduturisindhurdy)
 - [Sai Srikar](https://github.com/saisrikarbommisetty)
 - [Ibrahim Ibn Tanweer Almadani](https://github.com/24f1001980)
+- [TheLoneBandana](https://github.com/TheLoneBandana)
 - [Abdelhamid Ellab](https://github.com/Abdelhamid04)
 - [Alice-Chxn](https://github.com/alicechan-dev)
  [Vishal Rathod](https://github.com/theboogyman15)
