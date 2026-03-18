@@ -74,6 +74,7 @@
 - [M_Rizwan](https://github.com/rizwan749)
 - [Daerian] (https://github.com/Daerian)
 - [Y Bhavana](https://github.com/yalalabhavana17-cmyk)
+- [Manuel Pérez] (https://github.com/Manuu77)
 - [Zoraz](https://github.com/Zoraz01)
 - [Feizo](https://github.com/Felix-Kebaki)
   [Specturr] (https://github.com/Specturr)
