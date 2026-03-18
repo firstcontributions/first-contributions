@@ -643,6 +643,7 @@ Steve
 - [Jackie](https://github.com/PyXMR2025)
 - [Jackson Bichard](https://github.com/JacksonBichard)
 - [Jaideep Kalagara](https://github.com/jaideep-kalagara)
+- [Jake Aringo](https://github.com/kalix-pdf)
 - [James Athanasopoulos](https://github.com/athje001)
 - [James Fan](https://github.com/JamesXuFan)
 - [Jan Michael Sibug](https://github.com/akushilan)
