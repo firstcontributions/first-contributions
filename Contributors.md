@@ -24,6 +24,7 @@ hello ji
 - [Victor Almeida](https://github.com/vma5)
 - [CP2]
 - [Muhsil NR](https://github.com/mhlohh)
+- [Anika](https://github.com/MsAnika)
 - [skntrl] (https://github.com/skntrl)
 - [Paul Duthu](https://github.com/PaulDuthu)
 - [Piyush Kanti Chanda] (https://github.com/piyushka-ally)
