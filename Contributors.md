@@ -1746,6 +1746,7 @@ Merjen Amanmuradova
 - [Abdul] (https://github.com/B-M-0)
 - [Xingchen Yan](https://github.com/crosseax)
 - [Iker Aramendi](https://github.com/IkerAramendi)
+- [Leandro R](http://github.com/leandrortavano)
 - [Gia Miminoshvili](https://github.com/giamimino)
 - [xql](https://github.com/kirobotdev)
 - [Collins Kipkosgei - Kenya] (https://github.com/KipCollo)
