@@ -5,6 +5,7 @@
 - [SJ](http://github.com/saaicasm)
 - [Jack Johnson](https://github.com/norvest06)
 - [Sai Srikar](https://github.com/saisrikarbommisetty)
+- [Keerthan](https://github.com/keerthan0803)
 - [Ibrahim Ibn Tanweer Almadani](https://github.com/24f1001980)
 - [Abdelhamid Ellab](https://github.com/Abdelhamid04)
 - [Alice-Chxn](https://github.com/alicechan-dev)
