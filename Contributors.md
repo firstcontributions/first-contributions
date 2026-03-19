@@ -407,6 +407,7 @@ RLeish
 - [Atharv Khare](https://github.com/1mystic8u)
 - [Neha Gautam] (https://github.com/nehagtm)
 - [Abdul Majid](https://github.com/abdulmajid124)
+- [Vlad M](https://github.com/mgnzee)
 - [Athulkrishna](https://github.com/AthulKrishna-736)
 - [AvAdiii](https://github.com/AvAdiii)
 - [Ava16](https://github.com/Ava16)
