@@ -807,6 +807,7 @@ Rongxin Zhang
 - [LuckyGautam](https://github.com/LuckyG05)
 - [Luigi Moro Turina](https://github.com/LuigiMTurina)
 - [Luiz Augusto](https://github.com/Luizxdas)
+- [Luisa Rincon](https://github.com/lufe089)
 - [Luka](https://github.com/LukachuPro88)
 - [Luke Eades](https://github.com/LukeEades)
 - [LLLmml](https://github.com/lllmml)
