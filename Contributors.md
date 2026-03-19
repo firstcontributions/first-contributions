@@ -23,6 +23,7 @@ hello ji
 - [Abhay Patange](https://github.com/AbhayPatange)
 - [Riyyan Khan](https://github.com/riyyankhan007)
   [Jason Zinn](https://github.com/jasonzinndal)
+  [Isly NN]
 - [Victor Almeida](https://github.com/vma5)
 - [CP2]
 - [Muhsil NR](https://github.com/mhlohh)
