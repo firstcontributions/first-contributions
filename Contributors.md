@@ -929,6 +929,7 @@ Rongxin Zhang
 - [Nguyễn Duy Bảo](https://github.com/nguyenduybao1)
 - [Nicolas Betancur](https://github.com/nicobe20)
 - [Nicolas Lizarazo](https://github.com/nicolas-lizarazo)
+- [Nicolas Cuastumal](https://github.com/NicolasCuastumalCordoba)
 - [NihadVeliyev](https://github.com/NihadVeliyev)
 - [Nihindu Dinujaya](https://github.com/nihindu05)
 - [Nikhil](https://github.com/NikhilKummari)
