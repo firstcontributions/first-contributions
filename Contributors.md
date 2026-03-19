@@ -4,6 +4,7 @@ hello ji
 - [Yashi Chaudhary](https://github.com/Yashee05)
 - [Likitha Tummapudi](https://github.com/LikithaTummapudi)
 - [Aya Driouche](https://github.com/aya119119)
+- [Gloria Iseghehi](https://github.com/Glowriaose)
 - [Jitendra Kumar](https://github.com/23f1000704)
 - [Bhumit Solanki](https://github.com/Bhumit0922)
 - [Nishi Mandhana](https://github.com/nmandhana)
