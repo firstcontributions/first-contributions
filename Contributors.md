@@ -23,6 +23,7 @@ hello ji
 - [Adaji Gideon](https://github.com/gidosharpman)
 - [Varshith Reddy](https://github.com/VarshithReddy2006)
 - [Jeet Gupta](https://github.com/JeetG-AlphaDev)
+- [Arnav Amrit](https://github.com/ArnavAmrit)
 - [Htoo Eant Linn](https://github.com/htooeantlinn)
 - [Shanmuga Sundaram Natarajan](https://github.com/shanmuga-sundaram-n)
 - [Ashka Pathak](https://github.com/AshkaPathak)
