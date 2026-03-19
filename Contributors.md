@@ -4,6 +4,7 @@ hello ji
 - [Bhumit Solanki](https://github.com/Bhumit0922)
 - [Nishi Mandhana](https://github.com/nmandhana)
 - [Yashwant Nayak](https://github.com/Yashwant990)
+- [Prithviraj Tandel](https://github.com/NSKY0808)
 - [Julian Andres](https://github.com/julianandresdev)
 - [REH](https://github.com/RODRIGO-ENH/)
 - [Nikhil More](https://github.com/Khiladi-786)
