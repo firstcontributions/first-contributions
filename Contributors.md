@@ -237,6 +237,7 @@ hello ji
 -[yayme]
 - [sancer](https://github.com/SantCer/first-contributions.git)
 - [Senadeera-NK](https://github.com/Senadeera-NK)
+- [lopes061](https://github.com/lopes061)
 - [saulagus] (https://github.com/saulagus)
 - [Kavyanshu]
 - [Prince Parmar]
