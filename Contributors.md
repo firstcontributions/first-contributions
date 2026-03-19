@@ -1,5 +1,6 @@
 # Contributors
-hello ji
+hello ji 
+- [Satyanshi Singh](https://github.com/23f3004132)
 - [Thecapstone Mogbolu](https://github.com/Thecapstone)
 - [Pankaj vishwakarma](https://github.com/pk-arma)
 - [Yashi Chaudhary](https://github.com/Yashee05)
