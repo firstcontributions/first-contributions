@@ -1823,3 +1823,4 @@ Merjen Amanmuradova
 - Abhiram Sakha
 - Jaanu(https://github.com/jahnavichalla19-Jaanu)
 - [Souka2](https://github.com/Souka2)
+- [Hitisha Soni](https://github.com/Hitisha-Soni)
