@@ -2,6 +2,7 @@
 
 hello ji
 
+- [Thecapstone Mogbolu](https://github.com/Thecapstone)
 - [Pankaj vishwakarma](https://github.com/pk-arma)
 - [Yashi Chaudhary](https://github.com/Yashee05)
 - [Likitha Tummapudi](https://github.com/LikithaTummapudi)
@@ -23,6 +24,7 @@ hello ji
 - [Adaji Gideon](https://github.com/gidosharpman)
 - [Varshith Reddy](https://github.com/VarshithReddy2006)
 - [Jeet Gupta](https://github.com/JeetG-AlphaDev)
+- [Arnav Amrit](https://github.com/ArnavAmrit)
 - [Htoo Eant Linn](https://github.com/htooeantlinn)
 - [Shanmuga Sundaram Natarajan](https://github.com/shanmuga-sundaram-n)
 - [Ashka Pathak](https://github.com/AshkaPathak)
@@ -138,6 +140,7 @@ hello ji
 - [Jack Johnson](https://github.com/norvest06)
 - [Sindhu Reddy](https://github.com/prodduturisindhurdy)
 - [Sai Srikar](https://github.com/saisrikarbommisetty)
+- [Keerthan](https://github.com/keerthan0803)
 - [Ibrahim Ibn Tanweer Almadani](https://github.com/24f1001980)
 - [TheLoneBandana](https://github.com/TheLoneBandana)
 - [Abdelhamid Ellab](https://github.com/Abdelhamid04)
@@ -800,6 +803,7 @@ hello ji
 - [LuckyGautam](https://github.com/LuckyG05)
 - [Luigi Moro Turina](https://github.com/LuigiMTurina)
 - [Luiz Augusto](https://github.com/Luizxdas)
+- [Luisa Rincon](https://github.com/lufe089)
 - [Luka](https://github.com/LukachuPro88)
 - [Luke Eades](https://github.com/LukeEades)
 - [LLLmml](https://github.com/lllmml)
@@ -925,6 +929,7 @@ hello ji
 - [Nguyễn Duy Bảo](https://github.com/nguyenduybao1)
 - [Nicolas Betancur](https://github.com/nicobe20)
 - [Nicolas Lizarazo](https://github.com/nicolas-lizarazo)
+- [Nicolas Cuastumal](https://github.com/NicolasCuastumalCordoba)
 - [NihadVeliyev](https://github.com/NihadVeliyev)
 - [Nihindu Dinujaya](https://github.com/nihindu05)
 - [Nikhil](https://github.com/NikhilKummari)
@@ -1064,6 +1069,7 @@ hello ji
 - [Razano](https://github.com/Razano26/)
 - [Rein Ding](https://github.com/ReinDing)
 - [Reynhard](https://github.com/reybui)
+- [Sebastian Delgado](https://github.com/sdelgado08)
 - [Ricardo Pinto](https://github.com/ricardobigote)
 - [Ricardo Takara](https://github.com/tiedmud)
 - [Richard Ochola](https://github.com/ochola-rich)
@@ -1112,6 +1118,7 @@ hello ji
 - [Sal Adrian](https://github.com/Sal-Adrian)
 - [Samia-sh](https://github.com/samia-code0)
 - [Samuel Wright](samw46)
+- [Samuel Rodriguez Solarte](https://github.com/samrodri911)
 - [Sanal Kumar](https://github.com/sanalkr)
 - [Sandeep Kumar](https://github.com/sandeep-sk)
 - [Sandeepa Induwara Samaranayake](https://github.com/SandeepaInduwaraSamaranayake)
@@ -1505,7 +1512,9 @@ hello ji
 - [terror-akshat](https://github.com/terror-akshat)
 - [tharsika](https://github.com/Tharsika21)
 - [umesh reddy](https://github.com/T-UmeshReddy)
-- [uzuraDev](https://github.com/uzuraDev) -[lawal_temitope]
+- [uzuraDev](https://github.com/uzuraDev) 
+- -[lawal_temitope]
+- [Valerie Marmolejo Molina] (https://github.com/valemm13)
 - [valentinfazenda](https://github.com/valentinfazenda)
 - [vivel-blenderlab](https://github.com/vivek-blenderlab)
 - [vivi214](https://github.com/vivi214)
@@ -1800,3 +1809,4 @@ hello ji
 - [Hitisha Soni](https://github.com/Hitisha-Soni)
 - [Prem Shenoy](https://github.com/prs241)
 - [Paawan Garg](https://github.com/Paawangarg1084)
+- [Swati Chaudhari](https://github.com/ChaudhariSwati)
