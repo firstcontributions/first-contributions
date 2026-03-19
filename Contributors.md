@@ -665,6 +665,7 @@ Steve
 - [Jason Wang](https://github.com/Jiachenw399)
 - [Jason Wiggs](https://github.com/wiggs30)
 - [Jason Lee](https://github.com/DS-J-L) 
+- [Jagjit Singh] (https://github.com/Jagjit790)
 - [Jasper Münzer](https://github.com/JasperKasp)
 - [Jayaditya Sahu](https://github.com/Jayadityas)
 - [Jayanth](https://github.com/MUNJETIJAYANTHKRISHNA)
