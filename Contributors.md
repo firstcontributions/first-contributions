@@ -1,6 +1,7 @@
 # Contributors
 hello ji
 - [Bhumit Solanki](https://github.com/Bhumit0922)
+- [Nishi Mandhana](https://github.com/nmandhana)
 - [Julian Andres](https://github.com/julianandresdev)
 - [REH](https://github.com/RODRIGO-ENH/)
 - [Nikhil More](https://github.com/Khiladi-786)
