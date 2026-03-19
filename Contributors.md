@@ -1117,6 +1117,7 @@ Rongxin Zhang
 - [Sal Adrian](https://github.com/Sal-Adrian)
 - [Samia-sh](https://github.com/samia-code0)
 - [Samuel Wright](samw46)
+- [Samuel Rodriguez Solarte](https://github.com/samrodri911)
 - [Sanal Kumar](https://github.com/sanalkr)
 - [Sandeep Kumar](https://github.com/sandeep-sk)
 - [Sandeepa Induwara Samaranayake](https://github.com/SandeepaInduwaraSamaranayake)
