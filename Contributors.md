@@ -7,7 +7,9 @@ hello ji
 - [Aya Driouche](https://github.com/aya119119)
 - [Jitendra Kumar](https://github.com/23f1000704)
 - [Bhumit Solanki](https://github.com/Bhumit0922)
-- [Nishi Mandhana](https://github.com/nmandhana)
+- [Nishi Mandhana]
+(https://github.com/nmandhana)
+- [Racheal Adeyemo](https://github.com/Rayverse-cloud)
 - [Yashwant Nayak](https://github.com/Yashwant990)
 - [Prithviraj Tandel](https://github.com/NSKY0808)
 - [Julian Andres](https://github.com/julianandresdev)
