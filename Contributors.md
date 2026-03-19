@@ -1836,3 +1836,4 @@ Merjen Amanmuradova
 - [Prem Shenoy](https://github.com/prs241)
 - [Paawan Garg](https://github.com/Paawangarg1084)
 - [Swati Chaudhari](https://github.com/ChaudhariSwati)
+- [Ishita Singh](https://github.com/codeishitech)
