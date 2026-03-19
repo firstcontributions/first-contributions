@@ -829,6 +829,7 @@ Rongxin Zhang
 - [Mariusz Jasko](https://github.com/Marjo185)
 - [Mariusz Sobczak](https://github.com/SmoQ)
 - [Mark](https://github.com/markferritto)
+- [Marko Radojevic](https://github.com/Marko3764)
 - [Marlene Davids](https://github.com/marls79)
 - [Marta Maia](https://github.com/martadmaia)
 - [Martin Chen](https://github.com/Shiyuan-Chen-17)
