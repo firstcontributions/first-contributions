@@ -647,6 +647,7 @@ Steve
 - [Ivanich0](https://github.com/Ivanich0)
 - [Iweisc](https://github.com/Iweisc)
 - [Iyed Rabia](https://github.com/Iyed-Rb)
+- [Varshitha](https://github.com/dobbydobap)
 - [Jinnarajin] (https://github.com/jinnarajin)
 - [JASP-R](https://github.com/JASP-R)
 - [JBetz-Dev](https://github.com/JBetz-Dev)
