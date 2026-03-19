@@ -3,6 +3,7 @@ hello ji
 - [Aya Driouche](https://github.com/aya119119)
 - [Bhumit Solanki](https://github.com/Bhumit0922)
 - [Nishi Mandhana](https://github.com/nmandhana)
+- [Yashwant Nayak](https://github.com/Yashwant990)
 - [Julian Andres](https://github.com/julianandresdev)
 - [REH](https://github.com/RODRIGO-ENH/)
 - [Nikhil More](https://github.com/Khiladi-786)
