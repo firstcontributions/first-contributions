@@ -1070,6 +1070,7 @@ Rongxin Zhang
 - [Razano](https://github.com/Razano26/)
 - [Rein Ding](https://github.com/ReinDing)
 - [Reynhard](https://github.com/reybui)
+- [Sebastian Delgado](https://github.com/sdelgado08)
 - [Ricardo Pinto](https://github.com/ricardobigote)
 - [Ricardo Takara](https://github.com/tiedmud)
 - [Richard Ochola](https://github.com/ochola-rich)
