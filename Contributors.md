@@ -1813,6 +1813,7 @@ Merjen Amanmuradova
 - [Nazish Ahmed](https://github.com/nazish16)
 [Banu A] https://github.com/banua
 - [Tunan Pan](https//github.com/tunan-pan)
+- [Abdul Azeez](https://github.com/Syedabdulazeez-021)
 - [ILLU510N](https://github.com/ILLU510N)
 - [Arjun Dholakiya](https://github.com/arjun-dholakiya)
 - [Shyam Prakash Sah](https://github.com/23f3000828)
@@ -1824,7 +1825,7 @@ Merjen Amanmuradova
 - [Witheast](https://github.com/Witheast)
 - [Tidenflow](https://github.com/Tidenflow)
 - [Tahleel](https://github.com/Tahleels)
-- [LianHarman](https://github.com/LienThuan04)
+- [LianHarman](https://github.com/LienThuan04)s
 - [Sushma](https://github.com/Sushma-0179)
 - [Skyler Warren](https://github.com/skylerwarren1985-ui)
 - [x](https://github.com/kirobotdev) 
