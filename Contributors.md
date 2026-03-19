@@ -1,5 +1,6 @@
 # Contributors
 hello ji 
+-[Neha Dubey](https://github.com/Nehainit)
 - [Satyanshi Singh](https://github.com/23f3004132)
 - [Thecapstone Mogbolu](https://github.com/Thecapstone)
 - [Pankaj vishwakarma](https://github.com/pk-arma)
@@ -68,6 +69,7 @@ hello ji
 - [Ifeanyi](https://github.com/kevinify)
 [Ijeoma] (https://github.com/graciElla001/graciElla001)
 - [Jamiu](https://github.com/RushNet01)
+  [Pedro_Vieira] (https://github.com/PedroVieira226)
 - [onasanya sarah](https://github.com/onasanyasarah17-bit)
 - [Aditya Raj](https://github.com/iamadityaraj04)
 - [lonely_white](https://github.com/lonelywhite233)
@@ -236,6 +238,7 @@ hello ji
 -[yayme]
 - [sancer](https://github.com/SantCer/first-contributions.git)
 - [Senadeera-NK](https://github.com/Senadeera-NK)
+- [lopes061](https://github.com/lopes061)
 - [saulagus] (https://github.com/saulagus)
 - [Kavyanshu]
 - [Prince Parmar]
@@ -406,6 +409,7 @@ RLeish
 - [Atharv Khare](https://github.com/1mystic8u)
 - [Neha Gautam] (https://github.com/nehagtm)
 - [Abdul Majid](https://github.com/abdulmajid124)
+- [Vlad M](https://github.com/mgnzee)
 - [Athulkrishna](https://github.com/AthulKrishna-736)
 - [AvAdiii](https://github.com/AvAdiii)
 - [Ava16](https://github.com/Ava16)
@@ -1854,3 +1858,4 @@ Merjen Amanmuradova
 - ### [amd1.7](https://github.com/amd1-7)
 - [Jyoti Sahani] (https://github.com/Jyoti9529)
 - [Matt Shih] (https://github.com/Matt940624)
+- Brenden Letsatsi
