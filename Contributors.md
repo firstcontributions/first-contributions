@@ -106,6 +106,7 @@ hello ji
 - [BKaur20] (https://github.com/BKaur20/)
 - [z0ryn](github.com/z0ryn)
 - [Kaushal Prakash](github.com/kaushal-Prakash)
+- [Paras Rawat](https://github.com/paras941)
 - [Han](https://github.com/vy088473)
 - [Md. Kamran Alam](https://github.com/mdkamranalam)
 - [jjipper] (https://github.com/jjipper)
