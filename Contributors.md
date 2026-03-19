@@ -14,6 +14,7 @@ hello ji
 - [REH](https://github.com/RODRIGO-ENH/)
 - [Nikhil More](https://github.com/Khiladi-786)
 -[Rajkumar senapati](https://github.com/Rajkumargit61)
+- [Elisio Augusto](https://github.com/elisio-tech)
 - [olive](https://github.com/Olive1017)
 - [Mohan Pawar](https://github.com/MOHANX-0001)
 - [Imad Rahhali](https://github.com/ImadRahhali)
