@@ -107,6 +107,7 @@ hello ji
 - [BKaur20] (https://github.com/BKaur20/)
 - [z0ryn](github.com/z0ryn)
 - [Kaushal Prakash](github.com/kaushal-Prakash)
+- [Paras Rawat](https://github.com/paras941)
 - [Han](https://github.com/vy088473)
 - [Md. Kamran Alam](https://github.com/mdkamranalam)
 - [jjipper] (https://github.com/jjipper)
@@ -1810,3 +1811,4 @@ hello ji
 - [Prem Shenoy](https://github.com/prs241)
 - [Paawan Garg](https://github.com/Paawangarg1084)
 - [Swati Chaudhari](https://github.com/ChaudhariSwati)
+- [Ishita Singh](https://github.com/codeishitech)
