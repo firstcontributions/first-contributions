@@ -1512,6 +1512,7 @@ Rongxin Zhang
 - [umesh reddy](https://github.com/T-UmeshReddy)
 - [uzuraDev](https://github.com/uzuraDev)
 -[lawal_temitope]
+- [Valerie Marmolejo Molina] (https://github.com/valemm13)
 - [valentinfazenda](https://github.com/valentinfazenda)
 - [vivel-blenderlab](https://github.com/vivek-blenderlab)
 - [vivi214](https://github.com/vivi214)
