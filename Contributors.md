@@ -1444,6 +1444,7 @@ hello ji
 - [mheavey](https://github.com/mheavey2)
 - [midhun](https://github.com/3idhun)
 - [Tase](https://github.com/Tasesho)
+- [abigail eboda](https://github.com/Abbanks)
 - [midikaif](https://github.com/midikaif)
 - [mohnish](https://github.com/Mohnish27-dev)
 - [sg20](https://github.com/ismasg20)
@@ -1799,4 +1800,3 @@ hello ji
 - [Hitisha Soni](https://github.com/Hitisha-Soni)
 - [Prem Shenoy](https://github.com/prs241)
 - [Paawan Garg](https://github.com/Paawangarg1084)
-- [Abigail Eboda](https://github.com/Abbanks)
