@@ -1764,6 +1764,7 @@ Merjen Amanmuradova
 - [Ashitha T](https://github.com/Ashi-tha)
 - [germainelry](https://github.com/germainelry)
 - [Yanshu Varshney](https://github.com/YanshuVars)
+- [Sujata Patel](https://github.com/sujatapatel7827-maker)
 - [Nithish Kumar](https://github.com/nithishkumar-dev-10)
 - [Sree](https://github.com/sree-iitm-bs)
 - [Abdul] (https://github.com/B-M-0)
