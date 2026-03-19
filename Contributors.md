@@ -2,6 +2,7 @@
 hello ji
 - [Yashi Chaudhary](https://github.com/Yashee05)
 - [Aya Driouche](https://github.com/aya119119)
+- [Jitendra Kumar](https://github.com/23f1000704)
 - [Bhumit Solanki](https://github.com/Bhumit0922)
 - [Nishi Mandhana](https://github.com/nmandhana)
 - [Yashwant Nayak](https://github.com/Yashwant990)
