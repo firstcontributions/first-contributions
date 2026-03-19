@@ -68,6 +68,7 @@ hello ji
 - [Ifeanyi](https://github.com/kevinify)
 [Ijeoma] (https://github.com/graciElla001/graciElla001)
 - [Jamiu](https://github.com/RushNet01)
+  [Pedro_Vieira] (https://github.com/PedroVieira226)
 - [onasanya sarah](https://github.com/onasanyasarah17-bit)
 - [Aditya Raj](https://github.com/iamadityaraj04)
 - [lonely_white](https://github.com/lonelywhite233)
