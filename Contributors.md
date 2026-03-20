@@ -16,6 +16,7 @@ hello ji
 - [Hernan Rico](https://github.com/hernanr2205)
 [- k-mirembe-mercy]
  [Likitha Tummapudi](https://github.com/LikithaTummapudi)
+- [Kyle Scritten](https://github.com/KyleScritten)
 - [Peter McGee](https://github.com/pmcgee-personal)
 - [Deepthikaa Nandhakumar](https://github.com/deepthikaa77)
 - [Aya Driouche](https://github.com/aya119119)
