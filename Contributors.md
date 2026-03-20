@@ -1915,3 +1915,4 @@ Merjen Amanmuradova
 - [guiping](https://github.com/guipingliu)
 - [Ayush Kumar](https://github.com/Ayush123-e/first-contributions)
 - [xql.devv](https://github.com/kirobotdev)
+- [Mani Movassagh](https://github.com/manimovassagh)
