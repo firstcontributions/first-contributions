@@ -1284,6 +1284,7 @@ Rongxin Zhang
 - [Tej M Bhat](https://github.com/TejBhat)
 - Salma
 - [Teja Chalikanti](https://github.com/tchalikanti1705)
+- [Vedansh Sharma]
 - [Tejas Jogdand](https://github.com/Tejas-Jogdand)
 - [Temhemc](https://github.com/temhemc)
 - [Teng-Hui Huang](https://github.com/hui811116)
