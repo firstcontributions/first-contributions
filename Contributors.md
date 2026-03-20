@@ -654,6 +654,7 @@ Steve
 - [Hemanth Kumar](https://github.com/h3manth-kumar)
 - [Hemendar](https://github.com/hemendar1)
 - [HemuTheReddy](https://github.com/HemuTheReddy)
+- [hezuoyi070229](https://github.com/hezuoyi070229)
 - [HieuThu16](https://github.com/HieuThu16)
 - [HiParham](https://github.com/hiparham)
 -  Hgitdasl
