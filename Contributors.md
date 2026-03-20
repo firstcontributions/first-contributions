@@ -338,6 +338,7 @@ hello ji
 - [Aleena Yogindar](https://github.com/Aleena-Y)
 - [Alejandro Aceituno](https://github.com/clement-zentz)
 - [Alexander](https://github.com/azuaje1982)
+- [Alexander Botello](https://github.com/Alexbp12)
 - [Alfred Sjögren](https://github.com/4lfman)
 - [Ali Nasser](https://github.com/AliNasser05)
 - [Alka Gupta](https://github.com/AlkaGupta6800)
@@ -1907,4 +1908,3 @@ Merjen Amanmuradova
 - [luyishui](https://github.com/luyishui)
 - [Ritesh Senthil](https://github.com/Ritesh-Senthil)
 - [guiping](https://github.com/guipingliu)
-[Ayush Kumar](https://github.com/Ayush123-e/first-contributions)
