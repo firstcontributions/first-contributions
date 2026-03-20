@@ -183,6 +183,7 @@ hello ji
 - [Prashant Kumar Tuhania](https://github.com/prashantkumar342)
 - [Mrrrrrrt](https://github.com/Mrrrrrrt)
 - [Henrique](https://github.com/roberto0906)
+- [Joe Nunn](https://github.com/officerjoe)
 - [Justin Morphosis](https://github.com/justinmorphosis)
 - [Isaac Keninger](https://github.com/IsaacKeninger)
 - [Bhavesh Gajengi](https://github.com/BhaveshGajengi1)
