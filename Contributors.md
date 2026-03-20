@@ -14,6 +14,7 @@ hello ji
 [- k-mirembe-mercy]
  [Likitha Tummapudi](https://github.com/LikithaTummapudi)
 - [Peter McGee](https://github.com/pmcgee-personal)
+- [Deepthikaa Nandhakumar](https://github.com/deepthikaa77)
 - [Aya Driouche](https://github.com/aya119119)
 - [Gloria Iseghehi](https://github.com/Glowriaose)
 - [Jitendra Kumar](https://github.com/23f1000704)
