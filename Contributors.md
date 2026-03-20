@@ -23,6 +23,7 @@ hello ji
 - [Julian Andres](https://github.com/julianandresdev)
 - [REH](https://github.com/RODRIGO-ENH/)
 - [Nikhil More](https://github.com/Khiladi-786)
+- [EGBO NNAEMEKA CYPRIAN](https://github.com/chiefEGBO)
 - [Santiago Moncayo](https://github.com/Smoncayo24)
 - [Rajkumar senapati](https://github.com/Rajkumargit61)
 - [Elisio Augusto](https://github.com/elisio-tech)
@@ -345,7 +346,6 @@ Chris
 Ashwin
 RLeish
 -[kedarnath](https://github.com/kedarnath)
-- [EGBO NNAEMEKA CYPRIAN](https://github.com/chiefEGBO)
 - [Santosh M Savalgi](https://github.com/Santosh-M-Savalgi)
 - [Ameer Ali](https://github.com/Ameeeerr)
 - [Amin abdolahi](https://github.com/Amin-Abdolahi)
