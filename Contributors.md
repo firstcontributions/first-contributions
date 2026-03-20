@@ -1648,6 +1648,7 @@ Rongxin Zhang
 - [Anna Chong](https://github.com/DsharpMaj7)
 - [Mithilesh lohar](https://github.com/mithlohar144)
 - [OSoufian](https://github.com/OSoufian)
+- [Kaio Jovane](https://github.com/kaio-jovane)
 -[Shanwanth](https://github.com/Shanwanth-16)
 - [Aza145](https://github.com/aza145)
 - [alok-ranjan](https://github.com/alokranjan89)
