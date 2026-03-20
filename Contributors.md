@@ -13,6 +13,7 @@ hello ji
 - [Pankaj vishwakarma](https://github.com/pk-arma)
 - [Yashi Chaudhary](https://github.com/Yashee05)
 - [Thecapstone Mogbolu](https://github.com/Thecapstone)
+- [Samuel Chacon](https://github.com/SamuelCh25)
 - [Hernan Rico](https://github.com/hernanr2205)
 [- k-mirembe-mercy]
  [Likitha Tummapudi](https://github.com/LikithaTummapudi)
