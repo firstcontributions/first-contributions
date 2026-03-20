@@ -90,6 +90,7 @@ hello ji
 - [Ton Lin]
 - [SimarLar]
 - [KSH]
+- [hajira](https://github.com/anonymousdarkcoder)
 - [Rouan Laporal](https://github.com/RouanLaporal)
 - [MiaByte-ctrl]
 - [Komal Godara](https://github.com/meow8080)
