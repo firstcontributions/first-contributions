@@ -1152,6 +1152,7 @@ Rongxin Zhang
 - [Sahil Sharma](https://github.com/sahil-me)
 -[Sathyashreekv]
 (https://github.com/sathyashreekv)
+- [Vedansh Sharma]
 - [Said Berk](https://github.com/saidberk27)
 - [Saideepthi](https://github.com/Saideepthi04)
 - [Saif Kayyali](https://github.com/Skayyali3)
