@@ -714,6 +714,7 @@ Steve
 - [Jingyi Lu](https://github.com/lulu61000)
 - [Joaquin D](https://github.com/Joaco273)
 - [Joe Rawnsley](https://github.com/joerawnsley)
+- [Juan Espinosa](https://github.com/juanEspinosa-design)
 - [Joel Singh](https:/github.com/Joel-Singh)
 - [Joey Grengs](https://github.com/papajpg)
 - [Johan](https://github.com/Johan621)
