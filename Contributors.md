@@ -1865,3 +1865,4 @@ Merjen Amanmuradova
 - [Matt Shih] (https://github.com/Matt940624)
 - Brenden Letsatsi
 -[qitao2023](https://github.com/qitao2023)
+- [xql.dev](https://github.com/kirobotdev)
