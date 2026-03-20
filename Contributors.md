@@ -1865,6 +1865,7 @@ Merjen Amanmuradova
 - [Swati Chaudhari](https://github.com/ChaudhariSwati)
 - [Ishita Singh](https://github.com/codeishitech)
 - ### [amd1.7](https://github.com/amd1-7)
+- [Gurmander Singh](https://github.com/GurmanderSinghMaan)
 - [Jyoti Sahani] (https://github.com/Jyoti9529)
 - [Matt Shih] (https://github.com/Matt940624)
 - Brenden Letsatsi
