@@ -11,6 +11,7 @@ hello ji
 - [Gloria Iseghehi](https://github.com/Glowriaose)
 - [Jitendra Kumar](https://github.com/23f1000704)
 - [Bhumit Solanki](https://github.com/Bhumit0922)
+- [Sanjeev Ragunathan](https://github.com/sanjeev-rm)
 - [Nishi Mandhana](https://github.com/nmandhana)
 - [Yashwant Nayak](https://github.com/Yashwant990)
 - [Prithviraj Tandel](https://github.com/NSKY0808)
