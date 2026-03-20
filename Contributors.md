@@ -19,7 +19,6 @@ hello ji
 - [Julian Andres](https://github.com/julianandresdev)
 - [REH](https://github.com/RODRIGO-ENH/)
 - [Nikhil More](https://github.com/Khiladi-786)
-- [Santiago Moncayo](https://github.com/Smoncayo24)
 - [Rajkumar senapati](https://github.com/Rajkumargit61)
 - [Elisio Augusto](https://github.com/elisio-tech)
 - [olive](https://github.com/Olive1017)
@@ -339,6 +338,7 @@ Chris
 Ashwin
 RLeish
 -[kedarnath](https://github.com/kedarnath)
+- [Santiago Moncayo](https://github.com/Smoncayo24)
 - [Santosh M Savalgi](https://github.com/Santosh-M-Savalgi)
 - [Ameer Ali](https://github.com/Ameeeerr)
 - [Amin abdolahi](https://github.com/Amin-Abdolahi)
