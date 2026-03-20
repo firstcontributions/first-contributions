@@ -1,6 +1,9 @@
 # Contributors
 hello ji 
+
 - [M. Fajal](https://github.com/Mfaj-cod)
+- [Anish Johari](https://github.com/AnishJohari)
+
 -[Neha Dubey](https://github.com/Nehainit)
 - [Satyanshi Singh](https://github.com/23f3004132)
 - [Thecapstone Mogbolu](https://github.com/Thecapstone)
