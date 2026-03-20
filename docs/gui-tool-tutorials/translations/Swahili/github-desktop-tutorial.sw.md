@@ -110,7 +110,7 @@ Hivi karibuni nitachangua mabadiliko yako yote kwenye tawi la master la mradi hu
 
 Hongera! Umefanya kazi ya kawaida ya _fork -> clone -> edit -> PR_ ambayo utakutana nayo mara nyingi kama mchangiaji!
 
-Adhimisha michango yako na ushiriki na marafiki na wafuataji kwa kwenda kwenye [程序](https://firstcontributions.github.io#social-share).
+Adhimisha michango yako na ushiriki na marafiki na wafuataji kwa kwenda kwenye [tovuti](https://firstcontributions.github.io#social-share).
 
 ### [Nyenzo za Ziada](../additional-material/git_workflow_scenarios/additional-material.md)
 
