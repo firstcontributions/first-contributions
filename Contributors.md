@@ -1169,6 +1169,7 @@ Rongxin Zhang
 - [Sanjana J Athreya](https://github.com/sanjanajathreya/)
 - [Sanskar Agarwal](https://github.com/sanskaragarwal001)
 - [Santosh Chakradhar](https://github.com/santoshchakradhar1)
+- [Santiago Angulo] (https://github.com/Santiago0012)
 - [Sanuthi Liyasika](https://github.com/Sanuthi50)
 - [Saqlain Sultan](https://github.com/saqlain991)
 - [Saron Pal](https://github.com/Saronpal)
