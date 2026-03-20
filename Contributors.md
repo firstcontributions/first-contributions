@@ -738,6 +738,7 @@ Steve
 - [João Otávio Schonarth](https://github.com/joschonarth)
 - [Jp Shively](https://github.com/jpshively0)
 - [Juan Botha](https://github.com/jbotha-sketch)
+- [Juan Sanchez](https://github.com/Festxt)
 - [Juan Torres](https://github.com/JuanTorres93)
 - [Juanes](https://github.com/juanes20027)
 - [Indranil Roy](https://github.com/nilreflects)
