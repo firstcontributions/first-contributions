@@ -5,6 +5,7 @@ hello ji
 - [Sahil Hande](https://github.com/sahilcommit)
 - [M. Fajal](https://github.com/Mfaj-cod)
 -[Neha Dubey](https://github.com/Nehainit)
+- [Tushar Rana] (https://github.com/Tushar-Rana-13)
 - [Satyanshi Singh](https://github.com/23f3004132)
 - [Thecapstone Mogbolu](https://github.com/Thecapstone)
 - [Pankaj vishwakarma](https://github.com/pk-arma)
