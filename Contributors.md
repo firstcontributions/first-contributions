@@ -122,6 +122,7 @@ hello ji
   [Specturr] (https://github.com/Specturr)
 - [BKaur20] (https://github.com/BKaur20/)
 - [z0ryn](github.com/z0ryn)
+- [Huzaifa Abdul Rehman](https://github.com/HuzaifaAbdulRehman)
 - [Kaushal Prakash](github.com/kaushal-Prakash)
 - [Paras Rawat](https://github.com/paras941)
 - [Han](https://github.com/vy088473)
