@@ -2887,4 +2887,3 @@ Darien Edwards
 - [Jingyi Ding](https://github.com/dingfwrvhfhb)
 - [Tristan Aragon](https://github.com/Nobitwhat)
 - [zep](https://github.com/zepredos)
-- [Ray Silva Matos](https://github.com/RSM23191)
