@@ -1912,4 +1912,5 @@ Merjen Amanmuradova
 - [luyishui](https://github.com/luyishui)
 - [Ritesh Senthil](https://github.com/Ritesh-Senthil)
 - [guiping](https://github.com/guipingliu)
-[Ayush Kumar](https://github.com/Ayush123-e/first-contributions)
+- [Ayush Kumar](https://github.com/Ayush123-e/first-contributions)
+- [xql.devv](https://github.com/kirobotdev)
