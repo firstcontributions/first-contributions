@@ -1,5 +1,6 @@
 # Contributors
 hello ji 
+- [Jose Daniel Mesa](https://github.com/Jdmesa)
 - [Siddharth S](https://github.com/codeXsidd)
 - [Sahil Hande](https://github.com/sahilcommit)
 - [M. Fajal](https://github.com/Mfaj-cod)
