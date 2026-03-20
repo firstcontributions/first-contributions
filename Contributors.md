@@ -23,7 +23,6 @@ hello ji
 - [Julian Andres](https://github.com/julianandresdev)
 - [REH](https://github.com/RODRIGO-ENH/)
 - [Nikhil More](https://github.com/Khiladi-786)
-- [EGBO NNAEMEKA CYPRIAN](https://github.com/chiefEGBO)
 - [Santiago Moncayo](https://github.com/Smoncayo24)
 - [Rajkumar senapati](https://github.com/Rajkumargit61)
 - [Elisio Augusto](https://github.com/elisio-tech)
