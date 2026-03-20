@@ -199,6 +199,7 @@ hello ji
 - [Isaac Keninger](https://github.com/IsaacKeninger)
 - [Bhavesh Gajengi](https://github.com/BhaveshGajengi1)
 - [Abdul Muqeet K B](https://github.com/muqeet-27)
+- [Samuel Mueses](https://github.com/Samxss)
 - [Anand Mani](https://github.com/astromani721)
 - [Bhautik Jani](https://github.com/BhautikJani11)
 - [midikaif](https://github.com/midikaif)
