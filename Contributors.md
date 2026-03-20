@@ -26,6 +26,7 @@ hello ji
 - [Rajkumar senapati](https://github.com/Rajkumargit61)
 - [Elisio Augusto](https://github.com/elisio-tech)
 - [olive](https://github.com/Olive1017)
+- [Zhijie](https://github.com/chikkkit)
 - [Mohan Pawar](https://github.com/MOHANX-0001)
 - [Imad Rahhali](https://github.com/ImadRahhali)
 - [Charul Bhanarkar](https://github.com/charull44)
