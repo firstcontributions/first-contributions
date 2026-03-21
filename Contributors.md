@@ -81,6 +81,7 @@ hello ji
   [Isly NN]
 - [Victor Almeida](https://github.com/vma5)
 -[Alessandro Gomez](https://github.com/06alesso)
+-[Harshvardhan Singh](https://github.com/harshvardhansingh3000)
 - [CP2]
 - [Muhsil NR](https://github.com/mhlohh)
 - [Anika](https://github.com/MsAnika)
