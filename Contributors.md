@@ -1924,3 +1924,4 @@ Merjen Amanmuradova
 - [Ayush Kumar](https://github.com/Ayush123-e/first-contributions)
 - [xql.devv](https://github.com/kirobotdev)
 - [Mani Movassagh](https://github.com/manimovassagh)
+- [Joe Zhang](https://github.com/zhangjoe063-star)
