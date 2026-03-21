@@ -1,6 +1,7 @@
 # Contributors
 hello ji 
 - [Vijay Goswami](https://vijaygoswami.com?utm_source=github)
+- [Esneider Veliz Guerrero](https://github.com/Esneider1107)
 - [Jose Daniel Mesa](https://github.com/Jdmesa)
 - [Alessandro Gomez]
 - [Santiago Sierra Marin](https://github.com/SantiSM10)
