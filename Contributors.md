@@ -4,7 +4,7 @@ hello ji
 - [Esneider Veliz Guerrero](https://github.com/Esneider1107)
 - [Jose Daniel Mesa](https://github.com/Jdmesa)
 - [Alessandro Gomez]
-- [Developer Dashboard](https://vijaygoswami.is-a-dev?utm_source=github)
+- [Developer Dashboard](https://vijaygoswami.is-a.dev?utm_source=github)
 - [Santiago Sierra Marin](https://github.com/SantiSM10)
 - [Santriss](https://github.com/Santriss)
 - [Siddharth S](https://github.com/codeXsidd)
