@@ -1969,3 +1969,4 @@ Merjen Amanmuradova
 - Meenakshi(https://github.com/mmeenakshibio2016-byte/brainglobe--atlasapi/branches?branch_event=branch%2520%27git-switch-c--brainglobe%27%2520was%2520created)
 - [Somiya](https://github.com/somiya-mittal)
 - [Ray Droplet](https://github.com/raydroplet)
+- [Alex Turdean](https://github.com/AlexTurdean)
