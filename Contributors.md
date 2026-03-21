@@ -1964,3 +1964,4 @@ Merjen Amanmuradova
 - [Ankit Sharma](https://github.com/AnkitSharma-5483)
 - Meenakshi(https://github.com/mmeenakshibio2016-byte/brainglobe--atlasapi/branches?branch_event=branch%2520%27git-switch-c--brainglobe%27%2520was%2520created)
 - [Somiya](https://github.com/somiya-mittal)
+- Diya Dinen
