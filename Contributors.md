@@ -1956,3 +1956,4 @@ Merjen Amanmuradova
 - [Madhavi Solanki](https://github.com/madhavisolanki-ui)
 - [Shubham Somwanshi](https://shu3102.github.io/portfolio/)
 - [Ndukiye](https://github.com/Ndukiye)
+- Maria Luiza Ramalho Almeida 
