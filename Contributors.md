@@ -484,6 +484,7 @@ Ben
 - [Bhavesh Desale](https://github.com/bhaveshdesale)
 - [Bhavna Jain](https://github.com/bhavnajain1997)
 - [Bhupesh](https://github.com/Bhupi1306)
+- [Bianca Amberger](https://github.com/Bicxi)
 - [Bibek Baram](https://portfolio.bibekbaram.com.np)
 - [Bill Lin](https://github.com/SeafoodproMax)
 - [Bird Dog](https://github.com/acuhlian)
