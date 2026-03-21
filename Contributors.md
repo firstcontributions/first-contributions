@@ -13,7 +13,6 @@ hello ji
 - [Pankaj vishwakarma](https://github.com/pk-arma)
 - [Yashi Chaudhary](https://github.com/Yashee05)
 - [Thecapstone Mogbolu](https://github.com/Thecapstone)
-- [Hernan Rico](https://github.com/hernanr2205)
 [- k-mirembe-mercy]
  [Likitha Tummapudi](https://github.com/LikithaTummapudi)
 - [Peter McGee](https://github.com/pmcgee-personal)
@@ -32,6 +31,7 @@ hello ji
 - [REH](https://github.com/RODRIGO-ENH/)
 - [Nikhil More](https://github.com/Khiladi-786)
 - [EGBO NNAEMEKA CYPRIAN](https://github.com/chiefEGBO)
+- [Hernan Rico](https://github.com/hernanr2205)
 - [Samuel Cuervo](https://github.com/Krow1224)
 - [Ray Silva](https://github.com/RSM23191)
 - [Santiago Moncayo](https://github.com/Smoncayo24)
