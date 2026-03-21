@@ -1,6 +1,7 @@
 # Contributors
 hello ji
 - [h3nr1-d14z](https://github.com/h3nr1-d14z)
+- [SbasLpz](https://github.com/SbasLpz)
 - [uehjriw]
 - [Sudesh] (https://github.com/Sudesh-dev)
 - [Santiago Bohorquez Gónzalez] (https://github.com/sborx12)
