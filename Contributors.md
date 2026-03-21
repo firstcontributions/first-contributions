@@ -127,6 +127,7 @@ hello ji
 - [Ton Lin]
 - [SimarLar]
 - [KSH]
+- [Edgar Mireles](https://github.com/edgarmb14)
 - [hajira](https://github.com/anonymousdarkcoder)
 - [Rouan Laporal](https://github.com/RouanLaporal)
 - [Abdo Fathy](https://github.com/abdofathy883)
