@@ -35,6 +35,7 @@ hello ji
 - [REH](https://github.com/RODRIGO-ENH/)
 - [Nikhil More](https://github.com/Khiladi-786)
 - [EGBO NNAEMEKA CYPRIAN](https://github.com/chiefEGBO)
+- [Hernan Rico](https://github.com/hernanr2205)
 - [Samuel Cuervo](https://github.com/Krow1224)
 - [Ray Silva](https://github.com/RSM23191)
 - [Santiago Moncayo](https://github.com/Smoncayo24)
