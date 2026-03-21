@@ -925,6 +925,7 @@ Rongxin Zhang
 - [Mesh Bright](https://github.com/MeshBright)
 - [Michael B.](https://github.com/mbyrd3)
 - [Michael Baker](https://github.com/promptmike)
+- [Michael Ferry](https://github.com/michaelferry25)
 - [Michael](https://github.com/LucidWinter)
 - [Midhun Ramesh](https://github.com/midhun-1717)
 - [Midlaj](https://github.com/midlajdev)
