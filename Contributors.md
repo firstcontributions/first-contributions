@@ -211,6 +211,7 @@ hello ji
 - [Scott Boudreaux (Elyan Labs)](https://github.com/Scottcjn)
 - [Kokkirigedda Lohit](https://github.com/lohit3050)
 - [Avuram Chandra Mohan Reddy](https://github.com/chandramohan385)
+- [yuvaraj singh](https://github.com/Yuvi264)
 - [Prashant Kumar Tuhania](https://github.com/prashantkumar342)
 - [Mrrrrrrt](https://github.com/Mrrrrrrt)
 - [Henrique](https://github.com/roberto0906)
