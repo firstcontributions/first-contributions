@@ -72,6 +72,7 @@ hello ji
   [Jason Zinn](https://github.com/jasonzinndal)
   [Isly NN]
 - [Victor Almeida](https://github.com/vma5)
+-[Alessandro Gomez](https://github.com/06alesso)
 - [CP2]
 - [Muhsil NR](https://github.com/mhlohh)
 - [Anika](https://github.com/MsAnika)
