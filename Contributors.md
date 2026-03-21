@@ -1975,3 +1975,5 @@ Merjen Amanmuradova
 - [Alex Turdean](https://github.com/AlexTurdean)
 - [Goncalo Gomes](https://github.com/GonZiin)
 - [hundreds-of-bears](https://github.com/hundreds-of-bears-dev)
+- [Juan Gabriel Pared](https://github.com/gabo4567)
+
