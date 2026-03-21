@@ -27,6 +27,7 @@ hello ji
 - [Kyle Scritten](https://github.com/KyleScritten)
 - [Peter McGee](https://github.com/pmcgee-personal)
 - [Mariana Garcia Marin](https://github.com/milkira)
+- [Nathaniel Marin](https://github.com/HorrySheet11)
 - [Deepthikaa Nandhakumar](https://github.com/deepthikaa77)
 - [Aya Driouche](https://github.com/aya119119)
 - [Ben Cruwys](https://github.com/bencruwys)
