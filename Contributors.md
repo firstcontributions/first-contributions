@@ -1781,6 +1781,7 @@ Rongxin Zhang
 -[Daniele](https://github.com/DanieleNTCentral)
 -[Yubi](https://github.com/yubi00)
 Merjen Amanmuradova
+- Kanha 🚀
 [siperman12](https://github.com/siperman12)
 -[Frozen Fried](https://github.com/Frozen-Fried)
 - [Samrah Inayat](https:/github.com/scamzy)
