@@ -2,6 +2,7 @@
 hello ji 
 - [Jose Daniel Mesa](https://github.com/Jdmesa)
 - [Santiago Sierra Marin](https://github.com/SantiSM10)
+- [Santriss](https://github.com/Santriss)
 - [Siddharth S](https://github.com/codeXsidd)
 - [Sahil Hande](https://github.com/sahilcommit)
 - [M. Fajal](https://github.com/Mfaj-cod)
