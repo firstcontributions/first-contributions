@@ -64,6 +64,7 @@
 - [Abhay Agnihotri](https://github.com/Abhay-Agnihotri01/)
 - [vencentDebug](https://github.com/vencentDebug/first-contributions)
 - [saumyadhote](https://github.com/saumyadhote)
+- [Jame](https://github.com/PL00T00)
 - [SSkalas](https://github.com/SSkalas)
 - [ankitongithb](https://github.com/ankitongithb)
 - [sivakkumar21](https://github.com/sivakkumar21)
