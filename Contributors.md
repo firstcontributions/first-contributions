@@ -24,6 +24,7 @@ hello ji
 - [Thecapstone Mogbolu](https://github.com/Thecapstone)
 - [Samuel Chacon](https://github.com/SamuelCh25)
 - [Hernan Rico](https://github.com/hernanr2205)
+- [Nicolle Ureña García] (https://github.com/NicolleUrenaGarcia)
 [- k-mirembe-mercy]
  [Likitha Tummapudi](https://github.com/LikithaTummapudi)
 - [Kyle Scritten](https://github.com/KyleScritten)
