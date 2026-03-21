@@ -19,6 +19,7 @@ hello ji
  [Likitha Tummapudi](https://github.com/LikithaTummapudi)
 - [Kyle Scritten](https://github.com/KyleScritten)
 - [Peter McGee](https://github.com/pmcgee-personal)
+- [Mariana Garcia Marin](https://github.com/milkira)
 - [Deepthikaa Nandhakumar](https://github.com/deepthikaa77)
 - [Aya Driouche](https://github.com/aya119119)
 - [Ben Cruwys](https://github.com/bencruwys)
