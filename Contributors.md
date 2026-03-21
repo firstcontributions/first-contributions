@@ -774,6 +774,7 @@ Steve
 - [Vitali K](https://github.com/captainvita)
 - [John Maar](https://github.com/JTylM)
 - [John Mixon](https://github.com/mixdev2112)
+- [Emanuele D'Andrea](https://github.com/emanuele-dandrea)
 - [Johnathon Sperandio](https://github.com/Johnathon-Sperandio)
 - [Jonatan Rosali](https://github.com/JonatanRosali)
 - [Jordan Wels](https://github.com/Jwels1)
