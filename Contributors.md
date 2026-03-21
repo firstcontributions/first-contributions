@@ -1,8 +1,6 @@
 # Contributors
 hello ji
 - [h3nr1-d14z](https://github.com/h3nr1-d14z)
-- [SbasLpz](https://github.com/SbasLpz)
-- [Awais](https://github.com/awaisasghaar)
 - [uehjriw]
 - [Sudesh] (https://github.com/Sudesh-dev)
 - [Santiago Bohorquez Gónzalez] (https://github.com/sborx12)
@@ -39,7 +37,6 @@ hello ji
 - [Gloria Iseghehi](https://github.com/Glowriaose)
 - [Jitendra Kumar](https://github.com/23f1000704)
 - [Bhumit Solanki](https://github.com/Bhumit0922)
-- [Bhoomika Jain](https://github.com/Bhoomika-iitm)
 - [Ashish Prakash Ojha](https://github.com/ashishprakashojha)
 - [Sanjeev Ragunathan](https://github.com/sanjeev-rm)
 - [Nishi Mandhana](https://github.com/nmandhana)
@@ -130,7 +127,6 @@ hello ji
 - [Ton Lin]
 - [SimarLar]
 - [KSH]
-- [Edgar Mireles](https://github.com/edgarmb14)
 - [hajira](https://github.com/anonymousdarkcoder)
 - [Rouan Laporal](https://github.com/RouanLaporal)
 - [Abdo Fathy](https://github.com/abdofathy883)
@@ -577,7 +573,6 @@ Ben
 - [Dhayanithi s r](https://github.com/its-dhaya)
 - [DhritiTS](https://github.com/DhritiTS)
 - [Dhruv Bansal](https://github.com/dhruvbansalup)
-- [Sarah Bizal](https://github.com/sarahbizal)
 - [Dhurv](https://github.com/DhruvMarulkar)
 - [Dhwaj Gupta](https://github.com/DG15062002)
 - [Divyanshu Yadav] (https://github.com/24f2001721)
@@ -824,7 +819,6 @@ Steve
 - [Karthik Sai](https://github.com/KarthikSai08)
 - [Karuna Gawai](https://github.com/zero-one1)
 - [Kassahun F](https://github.com/Kas1398)
-- [kathanCodes](https://github.com/kathanCodes)
 - [katicyan](https://github.com/katicyan)
 - [Kaushal Vaid](https://github.com/Kaushal00Vaid)
 - [Kaustubh Chaturvedi](https://github.com/Kaus-16)
@@ -1969,6 +1963,5 @@ Merjen Amanmuradova
 - zen-mode
 - [Ankit Sharma](https://github.com/AnkitSharma-5483)
 - Meenakshi(https://github.com/mmeenakshibio2016-byte/brainglobe--atlasapi/branches?branch_event=branch%2520%27git-switch-c--brainglobe%27%2520was%2520created)
-- [Somiya](https://github.com/somiya-mittal)
-- [Ray Droplet](https://github.com/raydroplet)
-- [Alex Turdean](https://github.com/AlexTurdean)
+- [Alex Turdean - maintenance proof](https://github.com/AlexTurdean)
+- [Alex Turdean - maintenance proof](https://github.com/AlexTurdean)
