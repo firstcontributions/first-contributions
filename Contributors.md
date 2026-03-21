@@ -577,6 +577,7 @@ Ben
 - [Dhayanithi s r](https://github.com/its-dhaya)
 - [DhritiTS](https://github.com/DhritiTS)
 - [Dhruv Bansal](https://github.com/dhruvbansalup)
+- [Sarah Bizal](https://github.com/sarahbizal)
 - [Dhurv](https://github.com/DhruvMarulkar)
 - [Dhwaj Gupta](https://github.com/DG15062002)
 - [Divyanshu Yadav] (https://github.com/24f2001721)
