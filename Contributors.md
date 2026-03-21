@@ -1810,7 +1810,7 @@ Merjen Amanmuradova
 - [Kejimi-data] (https://github.com/Kejimi-data)
 - [Ishola-Tosin-G](https://github.com/Ishola-Tosin-G)
 - [GiannisLinardos07](https://github.com/GiannisLinardos07)
--[funmilola Ayinde]_(https://github.com/funmilolajanet)
+- [funmilola Ayinde](https://github.com/funmilolajanet)
 - [Merna Adel Abdelrahman Ibrahim](https://github.com/merna112)
 - [Nelli Bhasker](https://github.com/bhaskern55)
 - [aloha](https://github.com/666-yanzhi)
@@ -1973,3 +1973,4 @@ Merjen Amanmuradova
 - [Ray Droplet](https://github.com/raydroplet)
 - [Alex Turdean](https://github.com/AlexTurdean)
 - [Goncalo Gomes](https://github.com/GonZiin)
+- [hundreds-of-bears](https://github.com/hundreds-of-bears-dev)
