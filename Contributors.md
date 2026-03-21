@@ -24,6 +24,7 @@ hello ji
 - [Thecapstone Mogbolu](https://github.com/Thecapstone)
 - [Samuel Chacon](https://github.com/SamuelCh25)
 - [Hernan Rico](https://github.com/hernanr2205)
+- [Nicolle Ureña García] (https://github.com/NicolleUrenaGarcia)
 [- k-mirembe-mercy]
  [Likitha Tummapudi](https://github.com/LikithaTummapudi)
 - [Kyle Scritten](https://github.com/KyleScritten)
@@ -1961,3 +1962,4 @@ Merjen Amanmuradova
 - [dhunsehgal](https://github.com/24f2001824)
 - zen-mode
 - [Ankit Sharma](https://github.com/AnkitSharma-5483)
+- Meenakshi(https://github.com/mmeenakshibio2016-byte/brainglobe--atlasapi/branches?branch_event=branch%2520%27git-switch-c--brainglobe%27%2520was%2520created)
