@@ -161,6 +161,7 @@ hello ji
 - [Yeswa Preetam Reddy](https://github.com/24f3003935)
 - [vencentDebug](https://github.com/vencentDebug/first-contributions)
 - [saumyadhote](https://github.com/saumyadhote)
+- [Jame](https://github.com/PL00T00)
 - [SSkalas](https://github.com/SSkalas)
 - [ankitongithb](https://github.com/ankitongithb)
 - [sivakkumar21](https://github.com/sivakkumar21)
