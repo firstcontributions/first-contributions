@@ -30,6 +30,7 @@
 <kbd>[<img title="தமிழ்" alt="தமிழ்" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/lk.svg" width="22">](docs/translations/README.ta.md)</kbd>
 <kbd>[<img title="فارسی" alt="فارسی" src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Iran_before_1979_Revolution.svg" width="22">](docs/translations/README.fa.md)</kbd>
 <kbd>[<img title="Italiano" alt="Italiano" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/it.svg" width="22">](docs/translations/README.it.md)</kbd>
+- Kanha 🚀 (update)
 <kbd>[<img title="日本語" alt="日本語" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/jp.svg" width="22">](docs/translations/README.ja.md)</kbd>
 <kbd>[<img title="සිංහල" alt="සිංහල" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/lk.svg" width="22">](docs/translations/README.si.md)</kbd>
 <kbd>[<img title="Kiswahili (Kenya)" alt="Kiswahili (Kenya)" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ke.svg" width="22">](docs/translations/README.kws.md)</kbd>
