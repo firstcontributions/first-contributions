@@ -1,6 +1,7 @@
 # Contributors
 hello ji 
 - [uehjriw]
+- [Sudesh] (https://github.com/Sudesh-dev)
 - [Santiago Bohorquez Gónzalez] (https://github.com/sborx12)
 - [Esneider Veliz Guerrero](https://github.com/Esneider1107)
 - [Jose Daniel Mesa](https://github.com/Jdmesa)
