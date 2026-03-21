@@ -12,7 +12,7 @@ hello ji
 - [Santriss](https://github.com/Santriss)
 - [Siddharth S](https://github.com/codeXsidd)
 - [Sahil Hande](https://github.com/sahilcommit)
-- [dontcallmelimohan](https://github.com/dontcallmelimohan)
+- [limohan](https://github.com/dontcallmelimohan)
 - [M. Fajal](https://github.com/Mfaj-cod)
 -[Neha Dubey](https://github.com/Nehainit)
 - [Tushar Rana] (https://github.com/Tushar-Rana-13)
