@@ -1488,6 +1488,7 @@ Rongxin Zhang
 - [dinesh](https://github.com/dineshv97)
 - [diya](https://github.com/diyaj14)
 - [djyun](https://github.com/dongjooyun)
+- [KosDateL](https://github.com/KosDateL)
 - [elijah](https://github.com/elijahladdie)
 - [eloi-web](https://github.com/eloi-web)
 - [enguy-hub](https://github.com/enguy-hub)
