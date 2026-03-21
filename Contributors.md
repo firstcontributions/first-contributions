@@ -1,6 +1,7 @@
 # Contributors
 hello ji 
 - [uehjriw]
+- [Sudesh] (https://github.com/Sudesh-dev)
 - [Santiago Bohorquez Gónzalez] (https://github.com/sborx12)
 - [Esneider Veliz Guerrero](https://github.com/Esneider1107)
 - [Jose Daniel Mesa](https://github.com/Jdmesa)
@@ -27,6 +28,7 @@ hello ji
 - [Kyle Scritten](https://github.com/KyleScritten)
 - [Peter McGee](https://github.com/pmcgee-personal)
 - [Mariana Garcia Marin](https://github.com/milkira)
+- [Nathaniel Marin](https://github.com/HorrySheet11)
 - [Deepthikaa Nandhakumar](https://github.com/deepthikaa77)
 - [Aya Driouche](https://github.com/aya119119)
 - [Ben Cruwys](https://github.com/bencruwys)
