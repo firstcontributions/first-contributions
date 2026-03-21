@@ -1972,3 +1972,4 @@ Merjen Amanmuradova
 - [Somiya](https://github.com/somiya-mittal)
 - [Ray Droplet](https://github.com/raydroplet)
 - [Alex Turdean](https://github.com/AlexTurdean)
+- [Goncalo Gomes](https://github.com/GonZiin)
