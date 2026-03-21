@@ -1,5 +1,6 @@
 # Contributors
 hello ji 
+- [Pavithra S] (https://github.com/Pavi1205)
 - [uehjriw]
 - [Santiago Bohorquez Gónzalez] (https://github.com/sborx12)
 - [Esneider Veliz Guerrero](https://github.com/Esneider1107)
