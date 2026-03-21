@@ -4,6 +4,7 @@ hello ji
 - [Esneider Veliz Guerrero](https://github.com/Esneider1107)
 - [Jose Daniel Mesa](https://github.com/Jdmesa)
 - [Alessandro Gomez]
+- [Developer Dashboard](https://vijaygoswami.is-a-dev?utm_source=github)
 - [Santiago Sierra Marin](https://github.com/SantiSM10)
 - [Santriss](https://github.com/Santriss)
 - [Siddharth S](https://github.com/codeXsidd)
@@ -160,6 +161,7 @@ hello ji
 - [Yeswa Preetam Reddy](https://github.com/24f3003935)
 - [vencentDebug](https://github.com/vencentDebug/first-contributions)
 - [saumyadhote](https://github.com/saumyadhote)
+- [Jame](https://github.com/PL00T00)
 - [SSkalas](https://github.com/SSkalas)
 - [ankitongithb](https://github.com/ankitongithb)
 - [sivakkumar21](https://github.com/sivakkumar21)
@@ -1662,6 +1664,7 @@ Rongxin Zhang
 - [Omar Ahmed](https://github.com/omarnaldo)
 - [Zaid Ahmed](https://github.com/Md-Zaid-Ahmed)
 - [Ebo](https://github.com/ebokoo)
+- [Aditi Agarwal] (https://github.com/aditi123-hub)
 - [Jovial David](https://github.com/jovialdavidd238-ui)
 - [TwoTATI](https://github.com/TwoTATI)
 - [Mohit](https://github.com/mohitsingh34)
@@ -1915,6 +1918,7 @@ Merjen Amanmuradova
 - ### [amd1.7](https://github.com/amd1-7)
 - [Gurmander Singh](https://github.com/GurmanderSinghMaan)
 - [Jyoti Sahani] (https://github.com/Jyoti9529)
+-[Nithya sree]((https://github.com/Nithya2709)
 - [Matt Shih] (https://github.com/Matt940624)
 - Brenden Letsatsi
 -[qitao2023](https://github.com/qitao2023)
