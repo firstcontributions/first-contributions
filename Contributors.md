@@ -1987,3 +1987,4 @@ Merjen Amanmuradova
 - [Shubham Vithalkar](https://github.com/shubhamvithalkar)
   - [Bindu S](https://github.com/Bindusuresh)
 - [mystiquemide](https://github.com/mystiquemide)
+- [xql.dév](https://github.com/kirobotdev)
