@@ -55,6 +55,7 @@ hello ji
 - [James Hillman]https://github.com/skillman85
 - [Yashwant Nayak](https://github.com/Yashwant990)
 - [Prithviraj Tandel](https://github.com/NSKY0808)
+- [Teresia Wairimu](https://github.com/teresiawairimu)
 - [Julian Andres](https://github.com/julianandresdev)
 - [REH](https://github.com/RODRIGO-ENH/)
 - [Vaishnav Bose](https://github.com/Vaishnav2606)
