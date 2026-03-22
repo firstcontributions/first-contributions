@@ -34,6 +34,7 @@ hello ji
 - [Thecapstone Mogbolu](https://github.com/Thecapstone)
 - [Pankaj vishwakarma](https://github.com/pk-arma)
 - [Yashi Chaudhary](https://github.com/Yashee05)
+- [Fuzail] (https://github.com/24f2007795)
 - [Thecapstone Mogbolu](https://github.com/Thecapstone)
 - [Charlesaj4] (https://github.com/charlesaj4)
 - [Samuel Chacon](https://github.com/SamuelCh25)
