@@ -213,6 +213,7 @@ hello ji
 - [Shyam Chavda](https://github.com/ShyamChavda005)
 - [JN Gonzales](https://github.com/jngonzales)
 - [Aman Jha](https://github.com/ajha19) 
+- [Siddhant Chutke](https://github.com/sid77x)
 - [Djora](https://github.com/GiggityGGit)
 - [Prathyusha Marri](https://github.com/Prathyusha-hub-M)
 - [Tejas Srivastava](https://github.com/tejassri11)
@@ -997,6 +998,7 @@ Rongxin Zhang
 - [Mushfiqur Rahman](https://github.com/Mushfiqur719)
 - [Muttu Bhjantri](https://github.com/muttuhb98-n)
 - [Mwiza Sichinga](https://github.com/Munyuam/)
+- [Alex]
 - [NIKHIL GAJULA](https://github.com/nikhil07g)
 - [NabilMch](https://github.com/NabilMch)
 - [Rohan Darandale](https://github.com/rohandarandale1144)
@@ -1987,3 +1989,4 @@ Merjen Amanmuradova
 - [Shubham Vithalkar](https://github.com/shubhamvithalkar)
   - [Bindu S](https://github.com/Bindusuresh)
 - [mystiquemide](https://github.com/mystiquemide)
+- [xql.dév](https://github.com/kirobotdev)
