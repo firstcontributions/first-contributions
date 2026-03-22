@@ -1312,6 +1312,7 @@ Rongxin Zhang
 - [Soham Das](https://github.com/SohamDas1502)
 - [Soham Patil](https://github.com/Soham-1616)
 - [Solomon-Prem-Sinai](https://github.com/solomon-2105)
+- [Adaobi Okwuosa](https://github.com/Adaobilynda1234)
 - [SpaceNinja-007](https://github.com/SpaceNinja-007)
 - [Sfisnb Yu](https://github.com/Sfisnb)
 - [Sourabh Gupta](https://github.com/srb1998)
