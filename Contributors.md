@@ -2048,8 +2048,8 @@ Merjen Amanmuradova
 - [Adarsh Singh](https://github.com/AdarshKumar-rathaur)
 - [Inesh Vijay](https://github.com/ineshvijayvergiya)
 - [Aishwarya](https://github.com/Aishwrya-029)
-- [Aryan Thakur](https://github.com/aryanthakur6601-del)
-- [Robert yes]
+- [Aryan Thakur](https://github.com/aryanthakur6601-del) 
+- [Yashovardhan Thopte](https://github.com/23f3010068)
 
 
 
