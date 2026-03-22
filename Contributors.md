@@ -259,6 +259,7 @@ hello ji
 -[alejandro soto martinez](https://github.com/Alexsoto042)
 -  [shweta yadav](https://github.com/shwetayadav16/)
 - Arpan (https://github.com/arpan-v/)
+itachi
 -[Jppat](https://github.com/Jppat/)
 - [Suhayb Faysal](https://github.com/DrZiMo)
 - [Deepak Sriram](https://github.com/sriram15112001)
