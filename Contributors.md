@@ -674,6 +674,8 @@ Steve
 - [GVE06](https://github.com/GVE06)
 - [Gabriel Augusto](https://github.com/gabrielaugusto23)
 - [Gabriel José](https://github.com/GabrielJnn)
+- [Gustavo Henrique]
+  [Gustavo Henrique Oliveira P]
 - [Gabriel McKay](https://github.com/Gobrielm)
 - [Gajji Chandu Yadav](https://github.com/AnandajithS)
 - [Galen Wang](https://github.com/galenhwang)
