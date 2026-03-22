@@ -1009,6 +1009,7 @@ Rongxin Zhang
 - [Alex]
 - [Bob]
 - [NIKHIL GAJULA](https://github.com/nikhil07g)
+- [Aamir Khan](https://github.com/aamir296)
 - [NabilMch](https://github.com/NabilMch)
 - [Rohan Darandale](https://github.com/rohandarandale1144)
 - [Nabil Mutawakkil Qisthi](https://github.com/NabilMQ)
