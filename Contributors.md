@@ -1016,7 +1016,7 @@ Rongxin Zhang
 - [NabilMch](https://github.com/NabilMch)
 - [Rohan Darandale](https://github.com/rohandarandale1144)
 - [Nabil Mutawakkil Qisthi](https://github.com/NabilMQ)
-- [Indeevar](25ds2000008@ds.study.iitm.ac.in)
+- [25ds2000008](25ds2000008@ds.study.iitm.ac.in)
 - [Nacho](https://github.com/100550759-commits)
 - [Naga Teja](https://github.com/invariantfields)
 - [Nagaraj](https://github.com/Nagaraj335)
