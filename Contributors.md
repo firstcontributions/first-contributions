@@ -1000,7 +1000,6 @@ Rongxin Zhang
 - [Mwiza Sichinga](https://github.com/Munyuam/)
 - [Alex]
 - [Bob]
-- [Alice]
 - [NIKHIL GAJULA](https://github.com/nikhil07g)
 - [NabilMch](https://github.com/NabilMch)
 - [Rohan Darandale](https://github.com/rohandarandale1144)
