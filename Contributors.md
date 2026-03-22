@@ -2006,3 +2006,4 @@ Merjen Amanmuradova
 - [rodiwaa](https://github.com/rodiwaa)
 - [Annie Valentina A](https://github.com/Annvalentina13)
 - [Meghna M Nambiar](https://github.com/meghna135-stu)
+- [Adarsh Singh](https://github.com/AdarshKumar-rathaur)
