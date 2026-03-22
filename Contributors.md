@@ -24,7 +24,7 @@ hello ji
 - [Sahil Hande](https://github.com/sahilcommit)
 - [M. Fajal](https://github.com/Mfaj-cod)
 - [Anish Johari](https://github.com/AnishJohari)
-
+- [Glauber Mendel](https://github.com/glaubermendel)
 -[Neha Dubey](https://github.com/Nehainit)
 - [Tushar Rana] (https://github.com/Tushar-Rana-13)
 - [Fuzail]
