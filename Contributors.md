@@ -1025,6 +1025,7 @@ Rongxin Zhang
 - [Naveen C](https://github.com/naveench98)
 - [Naveen Kumar](https://github.com/naveenkumarr1812)
 - [Nayonika Agarwal](https://github.com/nayonika04)
+- [Poonam Gupta](https://github.com/24f2006754poonam)
 - [Neel Kumar](https://github.com/neelkumar01)
 - [Neha Bajaj](https://github.com/bajajneha27)
 - [Newton Yetsedaw](https://github.com/NewtonY-dev)
