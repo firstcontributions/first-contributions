@@ -21,6 +21,7 @@ hello ji
 - [M. Fajal](https://github.com/Mfaj-cod)
 -[Neha Dubey](https://github.com/Nehainit)
 - [Tushar Rana] (https://github.com/Tushar-Rana-13)
+- [Fuzail]
 - [Satyanshi Singh](https://github.com/23f3004132)
 - | Sundaram Singh | [your-github](https://github.com/23f1002470) |
 - [Thecapstone Mogbolu](https://github.com/Thecapstone)
