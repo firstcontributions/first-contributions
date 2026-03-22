@@ -1836,7 +1836,7 @@ Merjen Amanmuradova
 - [Yuhan Zhang](https://github.com/Qinrayn)
 - [Adesina-Olajumoke-H](https://github.com/OlajumokeAdesina)
 - [sangjinnnggg](https://github.com/sangjinnnggg)
-- [Kejimi-data] (https://github.com/Kejimi-data)
+- [Kejimi-data](https://github.com/Kejimi-data)
 - [Ishola-Tosin-G](https://github.com/Ishola-Tosin-G)
 - [GiannisLinardos07](https://github.com/GiannisLinardos07)
 - [funmilola Ayinde](https://github.com/funmilolajanet)
