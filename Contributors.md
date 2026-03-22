@@ -44,6 +44,7 @@ hello ji
 [- k-mirembe-mercy]
  [Likitha Tummapudi](https://github.com/LikithaTummapudi)
 - [Kyle Scritten](https://github.com/KyleScritten)
+Arman P
 - [Peter McGee](https://github.com/pmcgee-personal)
 - [Mariana Garcia Marin](https://github.com/milkira)
 - [Nathaniel Marin](https://github.com/HorrySheet11)
