@@ -85,6 +85,7 @@ hello ji
 - [Arnav Amrit](https://github.com/ArnavAmrit)
 - [Htoo Eant Linn](https://github.com/htooeantlinn)
 - [Shanmuga Sundaram Natarajan](https://github.com/shanmuga-sundaram-n)
+- [Pritam Kumar](https://github.com/pritam1952)
 - [Ashka Pathak](https://github.com/AshkaPathak)
 - [Vadim Cebanu](https://github.com/vadim-cebanu)
 - [Saket Kumar Sinha](https://github.com/SaketSinha2005)
