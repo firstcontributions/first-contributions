@@ -1840,7 +1840,7 @@ Rongxin Zhang
 Merjen Amanmuradova
 [siperman12](https://github.com/siperman12)
 -[Frozen Fried](https://github.com/Frozen-Fried)
-- [Samrah Inayat](https:/github.com/scamzy)
+- [Samrah Inayat](https://github.com/scamzy)
 - [Kozzontherun] (https://github.com/KozzOnTheRun)
 - [Adicondro] (https://github.com/adicondro)
 - [Shank] (https://github.com/ShashankTiwari1801)
