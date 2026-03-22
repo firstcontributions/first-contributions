@@ -698,6 +698,7 @@ Steve
 - [hezuoyi070229](https://github.com/hezuoyi070229)
 - [HieuThu16](https://github.com/HieuThu16)
 - [HiParham](https://github.com/hiparham)
+- [Filipe Santos](https://github.com/lsantosfelipe1)
   [Hproncino](https://github.com/Hproncino)
 -  Hgitdasl
 - [Yashvardhan](https://github.com/yashvardhancse)
@@ -1979,3 +1980,5 @@ Merjen Amanmuradova
 - [hundreds-of-bears](https://github.com/hundreds-of-bears-dev)
 - [Ebbs-77](https://github.com/Ebbs-77)
 - [Nian-j](https://github.com/nian-j)
+- [Guilherme Henrique](https://github.com/guih0113)
+
