@@ -21,12 +21,13 @@ hello ji
 - [M. Fajal](https://github.com/Mfaj-cod)
 -[Neha Dubey](https://github.com/Nehainit)
 - [Tushar Rana] (https://github.com/Tushar-Rana-13)
-- [Fuzail] (https://github.com/24f2007795)
+- [Fuzail]
 - [Satyanshi Singh](https://github.com/23f3004132)
 - | Sundaram Singh | [your-github](https://github.com/23f1002470) |
 - [Thecapstone Mogbolu](https://github.com/Thecapstone)
 - [Pankaj vishwakarma](https://github.com/pk-arma)
 - [Yashi Chaudhary](https://github.com/Yashee05)
+- [Fuzail] (https://github.com/24f2007795)
 - [Thecapstone Mogbolu](https://github.com/Thecapstone)
 - [Samuel Chacon](https://github.com/SamuelCh25)
 - [Hernan Rico](https://github.com/hernanr2205)
