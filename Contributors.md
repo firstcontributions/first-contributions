@@ -1,4 +1,5 @@
 # Contributors
+- Vedant Ghodekar
 - [Shaurya Adarsh](https://github.com/shauryaadarsh)
 - [Shreyas](https://github.com/24f1002699)
 hello ji
