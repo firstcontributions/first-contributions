@@ -129,7 +129,7 @@ hello ji
 - [Aditya Raj](https://github.com/iamadityaraj04)
 - [lonely_white](https://github.com/lonelywhite233)
  - [primemorti8-netizen](https://github.com/primemorti8-netizen)
-[Adedamola Aina](https://github.com/Adedamola007)
+ - [Adedamola Aina](https://github.com/Adedamola007)
 - [Ankush Gulia](https://github.com/ankushkgulia)
 - [Boussaid Louai](https://github.com/lou-bou)
 - [CP2]
