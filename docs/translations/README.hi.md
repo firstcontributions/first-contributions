@@ -12,7 +12,7 @@
 
 यदि आपके कंप्यूटर पर Git नहीं है तो, [इसे स्थापित करें](https://help.github.com/articles/set-up-git/) ।
 
-_यदि आप कमांड लाइन के साथ सहज नहीं हैं, [तो यहाँ ग्राफिकल इंटरफेस (GUI) टूल्स का उपयोग करने वाले ट्यूटोरियल हैं] (#अन्य-टूल-का-उपयोग-करके-ट्यूटोरियल) ।_
+*यदि आप कमांड लाइन के साथ सहज नहीं हैं, [तो यहाँ ग्राफिकल इंटरफेस (GUI) टूल्स का उपयोग करने वाले ट्यूटोरियल हैं](#शिक्षण-अन्य-साधनो-का-उपयोग-करने-के-लिए) ।*
 
 ## रिपॉज़िटरी को फोर्क करना
 
@@ -44,86 +44,32 @@ git clone https://github.com/यह-आप-हैं/first-contributions.git
 
 ## एक शाखा (ब्राँच) बनाएँ
 
-अपने कंप्यूटर पर बनाई गई रिपॉज़िटरी की कॉपी के फोल्डर/डायरेक्टरी में जाएँ (यदि अभी तक नहीं की है तो निम्न आदेश चलाएँ)
-
 ```bash
 cd first-contributions
-```
-
-अब एक नई शाखा बनाएँ `git switch` कमांड का उपयोग करके ।
-नई शाखा बनाने के लिए -c ऑप्शन का उपयोग होता है ।
-
-```bash
 git switch -c <अपनी-शाखा-का-नाम-जोड़ें>
 ```
 
-उदाहरण के लिए:
-
-```bash
-git switch -c add-alonzo-church
-```
-
-( शाखा के नाम में `add` जोड़ने की आवश्यकता नहीं है, लेकिन इसमें शामिल होना जरूरी है क्योंकि इस शाखा का उद्देश्य एक सूची में अपना नाम जोड़ना है। )
-
 ## आवश्यक परिवर्तन करें और उन परिवर्तनों को कमिट करें-
-
-अब `Contributors.md` फ़ाइल को एक टेक्स्ट एडिटर में खोलकर इसमें अपना नाम जोड़ दें। फ़ाइल की शुरुआत या अंत में इसे न जोड़ें। इसे बीच में कहीं भी रखें ।
-
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="गिट स्थिति देखें" />
-
-आप यदि `git status` कमांड चलाएंगे , तो आपको अपने द्वारा किये गए परिवर्तन देखेंगे।
-
-उन परिवर्तनों को बनाई गई शाखा में जोड़ने के लिए `git add` कमांड का उपयोग करें ।
 
 ```bash
 git add Contributors.md
-```
-
-अब अपने किये गए बदलावों को `git commit` कमांड का उपयोग करके कमिट करें ।
-
-```bash
 git commit -m "Add <आपका-नाम> to Contributors list"
 ```
 
-<आपका-नाम> की जगह अपना नाम लिखें ।
-
 ## अपने बदलावों को Github में पुश करें ।
-
-`git push` का उपयोग कर अपने परिवर्तन को पुश करें ।
 
 ```bash
 git push origin <अपनी-शाखा-का-नाम-जोड़ें>
 ```
 
-`<अपनी-शाखा-का-नाम-जोड़ें>` की जगह अपनी शाखा का नाम लिखें ।
-
 ## अपने बदलावों को रिव्यु के लिए सबमिट करें ।
 
-यदि आप अपने GitHub प्रोफ़ाइल पर अपनी रिपॉज़िटरी खोलते हैं, तो आपको 'Compare & pull request' का विकल्प दिखाई देगा। उस पर क्लिक करें।
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="पुल रिक्वेस्ट बनाएं" />
+'Compare & pull request' पर क्लिक करें और PR बनाएं।
 
-अब अपनी pull request सबमिट करें ।
+---
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="पुल रिक्वेस्ट सबमिट करें" />
-जल्द ही मैं आपके बदलावों को इस प्रोजेक्ट की मुख्य शाखा में सम्मिलित कर दूंगा। आपको एक ईमेल आएगी जब आपके बदलाव सम्मिलित होंगे ।
+## शिक्षण: अन्य साधनों का उपयोग करने के लिए
 
-## यहाँ से कहाँ जाएं?
-
-बधाई! आपने _fork -> clone -> edit -> PR_ वर्कफ्लो की पूर्ति कर ली है, जिसका आप अक्सर एक योगदानकर्ता के रूप में सामना करेंगे!
-
-अपने पहले योगदान की खुशी में जश्न मनाएं तथा इसे [वेब एप्प](https://firstcontributions.github.io/#social-share) के जरिये अपने मित्रों के साथ शेयर करें।
-
-यदि आप अधिक अभ्यास करना चाहते हैं, तो हमारे । [कोड योगदान](https://github.com/roshanjossey/code-contributions)
-
-अब आप अन्य प्रोजेक्ट्स पर योगदान कर सकते हैं, तो चलिए शुरू करते हैं! हमने आपके लिए एक प्रोजेक्ट्स की सूचि तैयार की है जहाँ सरल इश्यूज हैं । आप चाहें तो वहाँ से आरम्भ कर सकते हैं । [प्रोजेक्ट्स कि लिस्ट](https://firstcontributions.github.io/#project-list)
-
-## शिक्षण अन्य साधनो का उपयोग करने के लिए
-
-|<a href="../github-desktop-tutorial.md"><img alt="गिटहब डेस्कटॉप" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> |
-<a href="../github-windows-vs2017-tutorial.md"><img alt="विज़ुअल स्टूडियो 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> |
-<a href="../gitkraken-tutorial.md"><img alt="गिटक्रैकेन" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> |
-<a href="../github-windows-vs-code-tutorial.md"><img alt="वीएस कोड" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width="100"></a> |
-<a href="sourcetree-macos-tutorial.md"><img alt="सॉर्सट्री ऐप" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width="100"></a>
-|
-| ------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md)                                                                          | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md)                                                                                                       | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md)                                                                                                                     | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                               | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                |
+| गिटहब डेस्कटॉप                                                     | विज़ुअल स्टूडियो 2017                                                         | गिटक्रैकेन                                               | वीएस कोड                                                                       | सॉर्सट्री ऐप                                                               |
+| ------------------------------------------------------------------ | ----------------------------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------------------------ | -------------------------------------------------------------------------- |
+| [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md) | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md) | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md) | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md) | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md) |
