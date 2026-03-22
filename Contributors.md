@@ -411,6 +411,7 @@ itachi
 - [AnkitVerma](https://github.com/novakit7)
 - [Ambar Singh](https://github.com/ambar-singh)
 - [Aryan Mehrotra](https://github.com/aryanmehrotra)
+- [Danish] (https://github.com/Danish7911)
 Chris
 pizpol
 Ashwin
