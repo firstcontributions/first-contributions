@@ -96,6 +96,7 @@ Arman P
 - [forkcommit](https://github.com/forkcommit)
 - [saudademjj](https://github.com/saudademjj)
 - [Danielle Lyles](https://github.com/Danielle-Lyles)
+- [Heidi Shelton](https://github.com/SunDusty)
 - [Ankur Mallick](https://github.com/AnkurMal)
 - [Abhay Patange](https://github.com/AbhayPatange)
 - [Riyyan Khan](https://github.com/riyyankhan007)
