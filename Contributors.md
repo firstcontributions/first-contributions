@@ -452,6 +452,7 @@ RLeish
 - [AntonioIonica](https://github.com/AntonioIonica)
 - [Anurag Banerjee](https://github.com/Banerjee2027)
 - [Federico Amato](https://github.com/fedesss98)
+- [zach]
 - [Anushka Aggarwal](https://github.com/anushka146)
 - [Sumit Sourabh](https://github.com/Sumit-sourabh45)
 - [Mohammad Kashan](https://github.com/23f2003821)
@@ -465,6 +466,7 @@ RLeish
 - [Arisa Abiko](https://github.com/arisaabiko)
 - [Javier Garcia](https://github.com/jgarciacardoso)
 - [Arnav Saraswat](https://github.com/arnavs-uol)
+- [Zachary Lee](https://github.com/Zach-flkl)
 - [Arti Shelar](https://github.com/shelararti)
 - [Arumugam N](https://github.com/blackwolf2902)
 - [Aryan Jha](https://github.com/aryankumarjha1441-debug)
