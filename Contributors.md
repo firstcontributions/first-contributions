@@ -2076,3 +2076,4 @@ Merjen Amanmuradova
 - [LKL-ZREO](https://github.com/LKL-ZREO)
 - [Shruti Tiwari](https://github.com/24f2005669)
 - [Karan Paigude](https://github.com/Karan28272827)
+- [Kashvi Jindal](https://github.com/Kashvi-jin)
