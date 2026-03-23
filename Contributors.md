@@ -486,6 +486,7 @@ RLeish
 - [Zachary Lee](https://github.com/Zach-flkl)
 - [Arti Shelar](https://github.com/shelararti)
 - [Arumugam N](https://github.com/blackwolf2902)
+- [Anushka Suvarna](https://github.com/23f2005114)
 - [Aryan Jha](https://github.com/aryankumarjha1441-debug)
 - [Aryan Rathore](https://github.com/javawithaaryan)
 - [Ash Ibarra](https://github.com/ashthewildfox)
