@@ -162,6 +162,7 @@ Arman P
  - [Adedamola Aina](https://github.com/Adedamola007)
 - [Ankush Gulia](https://github.com/ankushkgulia)
 - [Boussaid Louai](https://github.com/lou-bou)
+- 
 - [CP2]
 - [Archiii]
 - [Ishwinder]
@@ -171,11 +172,13 @@ Arman P
 - [Ton Lin]
 - [SimarLar]
 - [KSH]
+- [abiu72]
 - [Edgar Mireles](https://github.com/edgarmb14)
 - [hajira](https://github.com/anonymousdarkcoder)
 - [Rouan Laporal](https://github.com/RouanLaporal)
 - [Abdo Fathy](https://github.com/abdofathy883)
 - [MiaByte-ctrl]
+- []
 - [Komal Godara](https://github.com/meow8080)
 - [Shivam](https://github.com/shivam2405)
 - [Harmandeep Singh Raheel](https://github.com/Raheel-glicth) 
@@ -2063,7 +2066,6 @@ Merjen Amanmuradova
 - [dhunsehgal](https://github.com/24f2001824)
 - zen-mode
 - [Ankit Sharma](https://github.com/AnkitSharma-5483)
-- Meenakshi(https://github.com/mmeenakshibio2016-byte/brainglobe--atlasapi/branches?branch_event=branch%2520%27git-switch-c--brainglobe%27%2520was%2520created)
 - [Somiya](https://github.com/somiya-mittal)
 - [Ray Droplet](https://github.com/raydroplet)
 - [Alex Turdean](https://github.com/AlexTurdean)
