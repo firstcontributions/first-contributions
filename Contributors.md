@@ -2,6 +2,7 @@
 # Contributors
 
 - Vedant Ghodekar
+- [23f3001092](https://github.com/23f3001092)
 - [23f3001092](https://github.com/ChandraMohaniitm)
 - [Kartik Borse](https://github.com/Kartik-borse)
 - [Shaurya Adarsh](https://github.com/shauryaadarsh)
@@ -14,6 +15,7 @@
 - [Awais](https://github.com/awaisasghaar)
 - [Amare](https://github.com/ammarebf)
 - [uehjriw]
+- [Vivian](https://github.com/vivianps29)
 - [Anshul](https://github.com/Anshul2308z)
 - [Sudesh] (https://github.com/Sudesh-dev)
 - [Santiago Bohorquez Gónzalez] (https://github.com/sborx12)
@@ -33,6 +35,7 @@
 - [Anish Johari](https://github.com/AnishJohari)
 - [Valentinus Gunadi] (https://github.com/veempeelge)
 - [B Pine](https://github.com/B-Pine)
+- [Shivraj](https://github.com/Shiv0087)
 
 -[Neha Dubey](https://github.com/Nehainit)
 - [Tushar Rana] (https://github.com/Tushar-Rana-13)
@@ -2011,6 +2014,7 @@ Merjen Amanmuradova
 - [Joe Zhang](https://github.com/zhangjoe063-star)
 - [Fiona](https://github.com/Fionaxxxi)
 - [Aswathy K R](https://github.com/aswathyy004)
+- [Devansh Mishra](https://github.com/DevanshMishra123)
 - [Shrestho](https://github.com/24f2007173)
 - [Maanasa Kambam](https://github.com/kambammaanasa08-afk)
 - [Ashish Ranjan](https://github.com/Ashish-Ranjan-jpg)git
