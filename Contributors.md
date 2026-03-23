@@ -4,6 +4,7 @@
 - [Abubakar Imran](https://github.com/Abubakar-Imran)
 - [23f3001092](https://github.com/23f3001092)
 - [23f3001092](https://github.com/ChandraMohaniitm)
+- [Zacarias Casimiro](https://github.com/zcasimir39)
 - [Kartik Borse](https://github.com/Kartik-borse)
   [Rituraj Tripathi](https://github.com/Sandilya69)
 - [Shaurya Adarsh](https://github.com/shauryaadarsh)
