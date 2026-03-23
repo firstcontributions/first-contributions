@@ -90,6 +90,7 @@ Arman P
 - [Teresia Wairimu](https://github.com/teresiawairimu)
 - [Julian Andres](https://github.com/julianandresdev)
 - [REH](https://github.com/RODRIGO-ENH/)
+- [Peter Kohari](https://github.com/KOHIPEET)
 - [Vaishnav Bose](https://github.com/Vaishnav2606)
 - [Nikhil More](https://github.com/Khiladi-786)
 - [EGBO NNAEMEKA CYPRIAN](https://github.com/chiefEGBO)
