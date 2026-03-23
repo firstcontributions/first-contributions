@@ -9,6 +9,7 @@ hello ji
 - [penafortemarco](https://github.com/penafortemarco)
 - [SbasLpz](https://github.com/SbasLpz)
 - [Awais](https://github.com/awaisasghaar)
+- [Amare](https://github.com/ammarebf)
 - [uehjriw]
 - [Anshul](https://github.com/Anshul2308z)
 - [Sudesh] (https://github.com/Sudesh-dev)
@@ -50,6 +51,7 @@ hello ji
 - [Kyle Scritten](https://github.com/KyleScritten)
 Arman P
 - [Peter McGee](https://github.com/pmcgee-personal)
+- [Money Yu](https://github.com/lettucebo)
 - [Mariana Garcia Marin](https://github.com/milkira)
 - [Nathaniel Marin](https://github.com/HorrySheet11)
 - [Deepthikaa Nandhakumar](https://github.com/deepthikaa77)
