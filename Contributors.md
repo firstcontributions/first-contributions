@@ -15,6 +15,7 @@ hello ji
 - [Amare](https://github.com/ammarebf)
 - [uehjriw]
 - [Vivian](https://github.com/vivianps29)
+- [rizzoMartin](https://github.com/rizzoMartin)
 - [Anshul](https://github.com/Anshul2308z)
 - [Sudesh] (https://github.com/Sudesh-dev)
 - [Santiago Bohorquez Gónzalez] (https://github.com/sborx12)
