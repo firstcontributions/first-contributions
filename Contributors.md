@@ -2062,3 +2062,4 @@ Merjen Amanmuradova
 - Saumay
 - [Min0Gyu0Kang](https://github.com/Min0Gyu0Kang)
 - [23f3003974](https://github.com/23f3003974)
+- [xql.dèvv](https://github.com/kirobotdev)
