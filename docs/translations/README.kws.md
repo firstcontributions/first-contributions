@@ -122,7 +122,7 @@ Hongera! Wewe umekamilisha fomu ya kawaida *fork -> clone -> hariri -> pull requ
 
 Sherehekea mchango wako na marafiki na wafuasi wako kwa kuenda kwenye [programu ya wavuti](https://firstcontributions.github.io/#social-share).
 
-Unaweza kujiunga na timu yetu ya slack ikiwa unahitaji msaada wowote au una maswali yoyote. [Jiunge na timu ya slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
+Ikiwa ungependa kufanya mazoezi zaidi, angalia [code contributions](https://github.com/roshanjossey/code-contributions).
 
 Sasa hebu tuanze uanze na kuchangia kwenye miradi mingine. Tumeandika orodha ya miradi na masuala rahisi unaweza kuanza. Angalia [orodha ya miradi katika programu ya wavuti](https://firstcontributions.github.io/#project-list).
 
