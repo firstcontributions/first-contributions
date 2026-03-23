@@ -4,6 +4,7 @@
 - [23f3001092](https://github.com/23f3001092)
 - [23f3001092](https://github.com/ChandraMohaniitm)
 - [Kartik Borse](https://github.com/Kartik-borse)
+  [Rituraj Tripathi](https://github.com/Sandilya69)
 - [Shaurya Adarsh](https://github.com/shauryaadarsh)
 - [Jatin Banmol](https://github.com/jbanmol)
 - [Shreyas](https://github.com/24f1002699)
