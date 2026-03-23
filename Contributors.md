@@ -67,6 +67,7 @@ Arman P
 - [Deepthikaa Nandhakumar](https://github.com/deepthikaa77)
 - [Aya Driouche](https://github.com/aya119119)
 - [Ben Cruwys](https://github.com/bencruwys)
+- [Alex Nguyen](https://github.com/AlexNg92)
 - [Gloria Iseghehi](https://github.com/Glowriaose)
 - [Jitendra Kumar](https://github.com/23f1000704)
 - [Bhumit Solanki](https://github.com/Bhumit0922)
