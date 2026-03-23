@@ -2,6 +2,7 @@
 # Contributors
 - [Kava Flask](https://github.com/kavaflask)
 - [Abubakar Imran](https://github.com/Abubakar-Imran)
+- [Bighna Raj Bhattamishra](https://github.com/Facelessism)
 - [23f3001092](https://github.com/23f3001092)
 - [23f3001092](https://github.com/ChandraMohaniitm)
 - [Zacarias Casimiro](https://github.com/zcasimir39)
