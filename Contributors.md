@@ -5,6 +5,7 @@
 - [Jatin Banmol](https://github.com/jbanmol)
 - [Shreyas](https://github.com/24f1002699)
 hello ji
+- [Katio-Kyou](https://github.com/Katio-Kyou)
 - [h3nr1-d14z](https://github.com/h3nr1-d14z)
 - [penafortemarco](https://github.com/penafortemarco)
 - [SbasLpz](https://github.com/SbasLpz)
