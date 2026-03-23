@@ -1434,6 +1434,7 @@ Rongxin Zhang
 - [Tushar Qwerty](https://github.com/tushar743-ui)
 - [Tushar Vimalbhai Patel](https://github.com/tushar-patel28)
 - [Tushar Rampurkar](https://github.com/Gitnerd77)
+- [Sneha Chandel](https://github.com/snehachandel)
 - [Tyler O'Farrell](https://github.com/tyler3650)
 - [Tyler Westbrook](https://github.com/Iisyourdad)
 - - [RashiBista](https://github.com/RashiBista)
