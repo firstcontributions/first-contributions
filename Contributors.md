@@ -2085,4 +2085,5 @@ Merjen Amanmuradova
 - [Kashvi Jindal](https://github.com/Kashvi-jin)
 - [Abhishek Bhattacharjee](https://github.com/MathCsAI)
 - [Damilola Aboyade](https://github.com/Dami-s-projects)
+- [Ritu Yadav](https://github.com/ritu2906yadav)
 - [Nishi Sharma](https://github.com/nishisharma-14)
