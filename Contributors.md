@@ -1674,6 +1674,7 @@ Rongxin Zhang
 - [sathvikkv](https://github.com/sathvikkv556)
 - [shreyanth-sureshkrishnaa](https://github.com/shreyanth-sureshkrishnaa)
 - [Mohit Kumar](https://github.com/mohitk23)
+- [lboeglin](https://github.com/lboeglin)
 - [shwetasharma](https://github.com/ShwetaSharmaDev)
 - [snopstor](https://github.com/snopstor)
 - [socks5-sniffer](https://github.com/socks5-sniffer)
