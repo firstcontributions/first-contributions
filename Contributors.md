@@ -1244,6 +1244,7 @@ Rongxin Zhang
 - [Ricardo Pinto](https://github.com/ricardobigote)
 - [Ricardo Takara](https://github.com/tiedmud)
 - [Richard Ochola](https://github.com/ochola-rich)
+- [Richeal](https://github.com/richeal-cmd)
 - [Riddhima Biswas](https://github.com/RiddhimaBiswas)
 - [Rinushan ](https://github.com/2003Rinushan)
 - [Rishika](https://github.com/RISHIKA-A-S)
