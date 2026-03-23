@@ -20,6 +20,7 @@ hello ji
 - [SbasLpz](https://github.com/SbasLpz)
 - [Awais](https://github.com/awaisasghaar)
 - [uehjriw]
+- hello macha, hengidiya
 - [Vivian](https://github.com/vivianps29)
 - [rizzoMartin](https://github.com/rizzoMartin)
 - [Anshul](https://github.com/Anshul2308z)
@@ -127,6 +128,7 @@ Arman P
 -[Alessandro Gomez](https://github.com/06alesso)
 -[Harshvardhan Singh](https://github.com/harshvardhansingh3000)
 - [CP2]
+- [Eshaan Karanth] -- (https://github.com/EshaanKaranth06)
 - [Muhsil NR](https://github.com/mhlohh)
 - [Anika](https://github.com/MsAnika)
 - [skntrl] (https://github.com/skntrl)
