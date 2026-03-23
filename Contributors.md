@@ -1524,6 +1524,7 @@ Rongxin Zhang
 - [asart90](https://github.com/asart9O)
 - [asikrshoudo](https://github.com/asikrshoudo)
 - [askerino](https://github.com/askerino)
+- [cjointt](my first contribution)
 - [auditive-tokyo](https://github.com/auditive-tokyo)
 - [azhank391](https://github.com.azhank391)
 - [baldlow](https://github.com/baldlow)
