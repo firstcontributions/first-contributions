@@ -487,6 +487,7 @@ RLeish
 - [Ashen-Hirushan](https://github.com/Ashen-Hirushan)
 - [Ashigaraj](https://github.com/ashigaraj)
 - [Ashiq](https://github.com/devopashiq)
+- [makotonald](https://github.com/makotonald)
 - [Ashutosh Jha](https://github.com/ashutoshh-jhaa)
 - [Atharva Goel](https://github.com/AtharvaATL2011)
 - [Ashwin Raj](https://github.com/ashwinraj8090)
