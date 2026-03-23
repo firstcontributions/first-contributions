@@ -17,7 +17,6 @@ hello ji
 - [Pedro Daniel Souza Leal]
 - [SbasLpz](https://github.com/SbasLpz)
 - [Awais](https://github.com/awaisasghaar)
-- [Amare](https://github.com/ammarebf)
 - [uehjriw]
 - [Vivian](https://github.com/vivianps29)
 - [rizzoMartin](https://github.com/rizzoMartin)
