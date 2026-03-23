@@ -2082,3 +2082,4 @@ Merjen Amanmuradova
 - [Karan Paigude](https://github.com/Karan28272827)
 - [Kashvi Jindal](https://github.com/Kashvi-jin)
 - [Abhishek Bhattacharjee](https://github.com/MathCsAI)
+- [Nishi Sharma](https://github.com/nishisharma-14)
