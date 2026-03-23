@@ -2,6 +2,7 @@
 # Contributors
 
 - Vedant Ghodekar
+- [23f3001092](https://github.com/ChandraMohaniitm)
 - [Kartik Borse](https://github.com/Kartik-borse)
 - [Shaurya Adarsh](https://github.com/shauryaadarsh)
 - [Jatin Banmol](https://github.com/jbanmol)
@@ -485,6 +486,7 @@ RLeish
 - [Zachary Lee](https://github.com/Zach-flkl)
 - [Arti Shelar](https://github.com/shelararti)
 - [Arumugam N](https://github.com/blackwolf2902)
+- [Anushka Suvarna](https://github.com/23f2005114)
 - [Aryan Jha](https://github.com/aryankumarjha1441-debug)
 - [Aryan Rathore](https://github.com/javawithaaryan)
 - [Ash Ibarra](https://github.com/ashthewildfox)
@@ -1476,6 +1478,7 @@ RLeish
 - [Whrisper](https://github.com/SChrisper)
 - [Wikosac](https://github.com/wikosac)
 - [William Dellinger](https://github.com/Willd231)
+- [m-rasz]
 - [Wirt Salthouse](https://github.com/Wirt4)
 - [SingularWind](https://github.com/SingularWind979)
 - [Xingyeee Li](https://github.com/xingyeee-L)
@@ -2054,3 +2057,7 @@ Merjen Amanmuradova
 - [xql.dèvv](https://github.com/kirobotdev)
 - [sun9526](https://github.com/sun9526)
 - [LKL-ZREO](https://github.com/LKL-ZREO)
+- [Shruti Tiwari](https://github.com/24f2005669)
+- [Karan Paigude](https://github.com/Karan28272827)
+- [Kashvi Jindal](https://github.com/Kashvi-jin)
+- [Abhishek Bhattacharjee](https://github.com/MathCsAI)
