@@ -57,6 +57,7 @@ hello ji
 Arman P
 - [Peter McGee](https://github.com/pmcgee-personal)
 - [Money Yu](https://github.com/lettucebo)
+- [Chinenye Agu](https://github.com/Drchiagu)
 - [Mariana Garcia Marin](https://github.com/milkira)
 - [Nathaniel Marin](https://github.com/HorrySheet11)
 - [Deepthikaa Nandhakumar](https://github.com/deepthikaa77)
