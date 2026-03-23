@@ -10,6 +10,7 @@ hello ji
 - [Katio-Kyou](https://github.com/Katio-Kyou)
 - [h3nr1-d14z](https://github.com/h3nr1-d14z)
 - [penafortemarco](https://github.com/penafortemarco)
+- [Pedro Daniel Souza Leal]
 - [SbasLpz](https://github.com/SbasLpz)
 - [Awais](https://github.com/awaisasghaar)
 - [Amare](https://github.com/ammarebf)
