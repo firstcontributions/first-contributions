@@ -2115,3 +2115,6 @@ Merjen Amanmuradova
 - [Nishi Sharma](https://github.com/nishisharma-14)
 - [Mariam Hassan](https://github.com/mariamhassan2882006-sudo)
 - [Elia](https://github.com/El-Bi-Al)
+- [jjaguero](https://github.com/jjaguero)
+
+
