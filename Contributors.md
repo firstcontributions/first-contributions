@@ -50,6 +50,7 @@ hello ji
 - [Kyle Scritten](https://github.com/KyleScritten)
 Arman P
 - [Peter McGee](https://github.com/pmcgee-personal)
+- [Money Yu](https://github.com/lettucebo)
 - [Mariana Garcia Marin](https://github.com/milkira)
 - [Nathaniel Marin](https://github.com/HorrySheet11)
 - [Deepthikaa Nandhakumar](https://github.com/deepthikaa77)
