@@ -10,7 +10,6 @@ hello ji
 - [penafortemarco](https://github.com/penafortemarco)
 - [SbasLpz](https://github.com/SbasLpz)
 - [Awais](https://github.com/awaisasghaar)
-- [Amare](https://github.com/ammarebf)
 - [uehjriw]
 - [Anshul](https://github.com/Anshul2308z)
 - [Sudesh] (https://github.com/Sudesh-dev)
