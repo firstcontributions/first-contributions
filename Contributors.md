@@ -1947,6 +1947,7 @@ Merjen Amanmuradova
 - [Joe Zhang](https://github.com/zhangjoe063-star)
 - [Fiona](https://github.com/Fionaxxxi)
 - [Aswathy K R](https://github.com/aswathyy004)
+- [Devansh Mishra](https://github.com/DevanshMishra123)
 - [Shrestho](https://github.com/24f2007173)
 - [Maanasa Kambam](https://github.com/kambammaanasa08-afk)
 - [Ashish Ranjan](https://github.com/Ashish-Ranjan-jpg)git
