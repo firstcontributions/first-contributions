@@ -1729,6 +1729,7 @@ Rongxin Zhang
 - [Đặng Hoàng Phúc](https://github.com/phuc220793-cpu)
 - [İsaməddin Qurbanov](https://github.com/isameddin35)
 - [张喜昌](https://github.com/ZhangXiChang)
+- [Dhanashri Shivdas](https://github.com/DHANASHRI1221)
 - [zmj](https://github.com/ACM202309060114)
 - [원세영](https://github.com/seyoung5744)
 - [Kaison Liu](https://github.com/capton586)
