@@ -1476,6 +1476,7 @@ Rongxin Zhang
 - [Whrisper](https://github.com/SChrisper)
 - [Wikosac](https://github.com/wikosac)
 - [William Dellinger](https://github.com/Willd231)
+- [m-rasz]
 - [Wirt Salthouse](https://github.com/Wirt4)
 - [SingularWind](https://github.com/SingularWind979)
 - [Xingyeee Li](https://github.com/xingyeee-L)
