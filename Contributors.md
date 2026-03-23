@@ -2054,3 +2054,5 @@ Merjen Amanmuradova
 - [Aryan Thakur](https://github.com/aryanthakur6601-del)
 - [Tanvi Sharma]_(https://github.com/07Tanvi)
 - Saumay
+- [Aryan Thakur](https://github.com/aryanthakur6601-del)
+- [Maria Luiza Ramalho Dias](https://github.com/marialuiza-dias)
