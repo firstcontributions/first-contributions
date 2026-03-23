@@ -5,6 +5,7 @@
 - [Jatin Banmol](https://github.com/jbanmol)
 - [Shreyas](https://github.com/24f1002699)
 hello ji
+- [Katio-Kyou](https://github.com/Katio-Kyou)
 - [h3nr1-d14z](https://github.com/h3nr1-d14z)
 - [penafortemarco](https://github.com/penafortemarco)
 - [SbasLpz](https://github.com/SbasLpz)
@@ -1523,6 +1524,7 @@ Rongxin Zhang
 - [asart90](https://github.com/asart9O)
 - [asikrshoudo](https://github.com/asikrshoudo)
 - [askerino](https://github.com/askerino)
+- [cjointt](my first contribution)
 - [auditive-tokyo](https://github.com/auditive-tokyo)
 - [azhank391](https://github.com.azhank391)
 - [baldlow](https://github.com/baldlow)
