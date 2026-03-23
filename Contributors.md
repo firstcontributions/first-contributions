@@ -1146,6 +1146,7 @@ Rongxin Zhang
 - [Pedro Chame](https://github.com/pedrochame)
 - [pessimismandvinegar](https://github.com/pessimismandvinegar)
 - Rohinish Ram
+- [Peter](https://github.com/inoovador)
 - [Peter Imoh Victor](https://github.com/peterimoh)
 - [Pia Yeah](https://github.com/piagildehaus)
 - [Piotr Wrzosek](https://github.com/pwrzosek)
