@@ -176,6 +176,7 @@ Arman P
 - [Abdo Fathy](https://github.com/abdofathy883)
 - [MiaByte-ctrl]
 - [Komal Godara](https://github.com/meow8080)
+- [Shivam](https://github.com/shivam2405)
 - [Harmandeep Singh Raheel](https://github.com/Raheel-glicth) 
 - [Shivani-Padia](https://github.com/shivanipadia01-cyber)
 - [Saqib Anjum Masoodi](https://github.com/SaqibMasoodi)
@@ -1443,7 +1444,7 @@ Rongxin Zhang
 - [Sneha Chandel](https://github.com/snehachandel)
 - [Tyler O'Farrell](https://github.com/tyler3650)
 - [Tyler Westbrook](https://github.com/Iisyourdad)
-- - [RashiBista](https://github.com/RashiBista)
+- [RashiBista](https://github.com/RashiBista)
 - [U Shivakumar](https://github.com/Shivakumarsullagaddi)
 - [Umed Kumar](https://github.com/UmedKumar)
 - [Unigmos](https://github.com/Unigmos)
@@ -1465,7 +1466,7 @@ Rongxin Zhang
 - [Varsha Gitty](https://github.com/vgg1459)
 - [Varshini](https://github.com/Varshini131)
 - [Varshith Varma](https://github.com/varshith-uppalapati)
--[Rakshak Patel V](https://github.com/rakshak2005)
+- [Rakshak Patel V](https://github.com/rakshak2005)
 - [Varun Kumar](https://github.com/kukutapuvarun)
 - [Vasiliki Zagoraiou](https://github.com/vasilikiz5)
 - [Vasya Taburetkin]
@@ -1693,7 +1694,7 @@ Rongxin Zhang
 - [tharsika](https://github.com/Tharsika21)
 - [umesh reddy](https://github.com/T-UmeshReddy)
 - [uzuraDev](https://github.com/uzuraDev)
--[lawal_temitope]
+- [lawal_temitope]
 - [Valerie Marmolejo Molina] (https://github.com/valemm13)
 - [valentinfazenda](https://github.com/valentinfazenda)
 - [vivel-blenderlab](https://github.com/vivek-blenderlab)
