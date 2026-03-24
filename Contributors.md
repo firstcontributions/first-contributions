@@ -2148,3 +2148,4 @@ Merjen Amanmuradova
 - [24f2000838](https://github.com/24f2000838)
 -[Harsh Palas](https://github.com/harshpalas)
 - [oxtknight](https://github.com/oxtknight)
+- [Ajajul Middya](https://github.com/theMessiMagic)
