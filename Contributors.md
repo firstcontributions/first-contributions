@@ -52,7 +52,8 @@ hello ji
 - [Valentinus Gunadi] (https://github.com/veempeelge)
 - [B Pine](https://github.com/B-Pine)
 - [Shivraj](https://github.com/Shiv0087)
-
+- [Jithendra](https://github.com/Kaminenijithendra)
+  
 -[Neha Dubey](https://github.com/Nehainit)
 - [Akash Pandey](http://github.com/thepandeyakash)
 - [Tushar Rana] (https://github.com/Tushar-Rana-13)
