@@ -1,6 +1,7 @@
 
 # Contributors
 - [Kava Flask](https://github.com/kavaflask)
+- [Bhupesh Cholake](https://github.com/RealBhupesh)
 - [Norman Glad](https://github.com/norman-glad)
 - [CristyanVessimo](https://github.com/CristyanVessimo)
 - [Abubakar Imran](https://github.com/Abubakar-Imran)
