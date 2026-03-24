@@ -1298,6 +1298,7 @@ Rongxin Zhang
 - [SWanHK](https://github.com/swanhk)
 - [Saksham Tyagi](https://github.com/iam-saksham-tyagi)  
 - [sachin](https://github.com/sachin)
+- [Samuel Cardoso](https://github.com/samuellcardoso)
 - [Sachin vk](https://github.com/sachindasvk)
 - [Kyrillos Hamdy Nassif Hunein](https://github.com/KyrillosHamdy)
 - [Sachin](https://github.com/sachinkashi21)
