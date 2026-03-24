@@ -144,6 +144,7 @@ Arman P
 - [Muhsil NR](https://github.com/mhlohh)
 - [Anika](https://github.com/MsAnika)
 - [skntrl] (https://github.com/skntrl)
+- [mohdwajahat] (https://github.com/mohdwajahat)
 - [Paul Duthu](https://github.com/PaulDuthu)
 - [Piyush Kanti Chanda] (https://github.com/piyushka-ally)
 - [Khalil Khamassi](https://github.com/khalilkhamassi62-oss)
