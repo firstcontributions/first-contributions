@@ -450,6 +450,7 @@ Austin L.
 - [Alexander Botello](https://github.com/Alexbp12)
 - [Alfred Sjögren](https://github.com/4lfman)
 - [Ali Nasser](https://github.com/AliNasser05)
+- [Alioune Toure](https://github.com/Alioune4)
 - [Alka Gupta](https://github.com/AlkaGupta6800)
 - [Allamelol](https://github.com/Allamelol)
 - [Alnoor](https://github.com/Alnoormahmoud)
