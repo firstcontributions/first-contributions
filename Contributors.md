@@ -4,6 +4,7 @@
 - [Bhupesh Cholake](https://github.com/RealBhupesh)
 - [Norman Glad](https://github.com/norman-glad)
 - [CristyanVessimo](https://github.com/CristyanVessimo)
+- [Adeola Ajiboso](https://github.com/Ajiboso-Adeola/)
 - [Abubakar Imran](https://github.com/Abubakar-Imran)
 - [Bighna Raj Bhattamishra](https://github.com/Facelessism)
 - [23f3001092](https://github.com/23f3001092)
