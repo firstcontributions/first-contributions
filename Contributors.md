@@ -86,6 +86,7 @@ Arman P
 - [Jitendra Kumar](https://github.com/23f1000704)
 - [Bhumit Solanki](https://github.com/Bhumit0922)
 - [Bhoomika Jain](https://github.com/Bhoomika-iitm)
+- [Akshay Bolishetti](https://github.com/BolishettiAkshay)
 - [Ashish Prakash Ojha](https://github.com/ashishprakashojha)
 - [Sanjeev Ragunathan](https://github.com/sanjeev-rm)
 - [Nishi Mandhana](https://github.com/nmandhana)
