@@ -1953,6 +1953,7 @@ Merjen Amanmuradova
 - [V Rohith](https://github.com/Rohith15119)
 - [Abhishek](https://github.com/Abhishek-Prajapati442)
 - [S Rice](https://github.com/cyberrhyc)
+- [Francesco Carlesso](https://github.com/francesco-carlesso)
 - [TheTeodora22](https://github.com/TheTeodora22)
 - [tempoo04](https://github.com/tempoo04)
 - [fruite999](https://github.com/fruite999)
