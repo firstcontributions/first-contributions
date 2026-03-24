@@ -15,7 +15,7 @@
 - [Jatin Banmol](https://github.com/jbanmol)
 - [Shreyas](https://github.com/24f1002699)
 - [hello]()
-hello ji
+- [Peeyush Agnihotri](https://github.com/23f2002735)
 - [suman-kumar](https://github.com/sumankr1211)
 - [Katio-Kyou](https://github.com/Katio-Kyou)
 - [h3nr1-d14z](https://github.com/h3nr1-d14z)
