@@ -1,9 +1,11 @@
-
+-
 # Contributors
 - [Kava Flask](https://github.com/kavaflask)
 - [Bhupesh Cholake](https://github.com/RealBhupesh)
 - [Norman Glad](https://github.com/norman-glad)
 - [CristyanVessimo](https://github.com/CristyanVessimo)
+- [Xixivt](https://github.com/vis-c)
+- [Abubakar Imran](https://github.com/Abubakar-Imra)
 - [Abubakar Imran](https://github.com/Abubakar-Imran)
 - [Bighna Raj Bhattamishra](https://github.com/Facelessism)
 - [23f3001092](https://github.com/23f3001092)
