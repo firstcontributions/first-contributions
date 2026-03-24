@@ -54,6 +54,7 @@ hello ji
 - [Shivraj](https://github.com/Shiv0087)
 
 -[Neha Dubey](https://github.com/Nehainit)
+- [Akash Pandey](http://github.com/thepandeyakash)
 - [Tushar Rana] (https://github.com/Tushar-Rana-13)
 - [Fuzail]
 - [ Saksham Pokharel ](https://github.com/sakshampokharel01-beep)
