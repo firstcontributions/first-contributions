@@ -14,6 +14,7 @@
 - [Kartik Borse](https://github.com/Kartik-borse)
   [Rituraj Tripathi](https://github.com/Sandilya69)
 - [Shaurya Adarsh](https://github.com/shauryaadarsh)
+- [Vikrant Jaswal](https://github.com/Vickyjaswal1)
 - [Jatin Banmol](https://github.com/jbanmol)
 - [Shreyas](https://github.com/24f1002699)
 - [hello]()
