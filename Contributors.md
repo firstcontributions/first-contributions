@@ -41,6 +41,7 @@ hello ji
 - [vardhan reddy](https://github.com/vardhanreddy53)
 - [Developer Dashboard](https://vijaygoswami.is-a-dev?utm_source=github)
 - [Santiago Sierra Marin](https://github.com/SantiSM10)
+- [Harshit Pathak](https://github.com/harshitpathak18)
 - [Dathwik Kollikonda] (https://github.com/Dathwik)
 - [Santriss](https://github.com/Santriss)
 - [Siddharth S](https://github.com/codeXsidd)
