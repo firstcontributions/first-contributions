@@ -2119,6 +2119,7 @@ Merjen Amanmuradova
 - [Rudra-Kumar](https://github.com/Rudra-RNC)
 - [Min0Gyu0Kang](https://github.com/Min0Gyu0Kang)
 - [23f3003974](https://github.com/23f3003974)
+- [Roma](https://github.com/23f2002478-ROMA)
 - [xql.dèvv](https://github.com/kirobotdev)
 - [sun9526](https://github.com/sun9526)
 - [LKL-ZREO](https://github.com/LKL-ZREO)
