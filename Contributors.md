@@ -2136,5 +2136,7 @@ Merjen Amanmuradova
 - [D4ndyy] (https://github.com/D4ndyy)
 - [Sanjeev Uppu](https://github.com/Sanjeev-Uppu)
 - Yaroslav Fashevskyi
-- [Lokagagan K S] (https://github.com/24f3004113)
-- [Hussein Abdi] (Fullstack Developer)
+- [Lokagagan K S](https://github.com/24f3004113)
+- [Hussein Abdi](https://github.com/2679900)
+- [24f2000838](https://github.com/24f2000838)
+- [Harsh Palas](https://github.com/harshpalas)
