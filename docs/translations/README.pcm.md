@@ -37,9 +37,8 @@ where "url wey you just copy" (without the quotation marks) na the url to this r
 
 For example:
 
-```
+```bash
 git clone git@github.com:this-is-you/first-contributions.git
-
 ```
 
 where this-is-you na your GitHub username. Here you dey copy the contents of the first-contributions repository for GitHub go your computer.
@@ -47,23 +46,20 @@ where this-is-you na your GitHub username. Here you dey copy the contents of the
 ## Create a branch
 Change go the repository directory for your computer (if you no dey there already):
 
-```
+```bash
 cd first-contributions
-
 ```
 
 Now create a branch using the git switch command:
 
-```
+```bash
 git switch -c your-new-branch-name
-
 ```
 
 For example:
 
-```
+```bash
 git switch -c add-desmond-ezo-ojile
-
 ```
 
 ## Make necessary changes and commit those changes
@@ -74,15 +70,13 @@ If you go to the project directory and run the command git status, you go see sa
 
 Add those changes to the branch wey you just create using the git add command:
 
-```
+```bash
 git add Contributors.md
-
 ```
 Now commit those changes using the git commit command:
 
-```
+```bash
 git commit -m "Add your-name to Contributors list"
-
 ```
 
 replace your-name with your own name.
@@ -90,9 +84,8 @@ replace your-name with your own name.
 ## Push changes to GitHub
 Push your changes using the command git push:
 
-```
+```bash
 git push -u origin your-branch-name
-
 ```
 
 replace your-branch-name with the name of the branch wey you create before.

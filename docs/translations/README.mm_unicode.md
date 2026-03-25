@@ -11,7 +11,7 @@
 
 _command line (သို့) terminal အသုံးပြုရတာ အဆင်မပြေပါက [GUI tools အသုံးပြုပုံများကို ဒီမှာကြည့်ရန်](#အခြား-Tools-များ-အသုံးပြုသည့်-tutorial)_
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="ဒီ repository ကို fork လုပ်ပါ" />
 
 #### သင့်ကွန်ပျူတာထဲမှာ Git မသွင်းရသေးလျှင် [ဒီမှာ သွင်းနည်းကြည့်ရန်](https://help.github.com/articles/set-up-git/).
 
@@ -22,7 +22,7 @@ Fork လုပ်ဖို့အတွက် စာမျက်နှာအပ�
 
 ## ဒီ repository ကို clone လုပ်ပါ
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="ဒီ repository ကို clone လုပ်ပါ" />
 
 ခုနက fork လုပ်ထားတဲ့ repository ကို သင့်ကွန်ပျူတာထဲ clone လုပ်ပါမယ်။ သင့် Github အကောင့်ကိုသွားပြီး fork လုပ်ထားတဲ့ repository ကို ဖွင့်ပါ။ Code ဆိုတဲ့ ခလုတ်လေးကို နှိပ်ပြီး _copy to clipboard_ icon လေးကို နှိပ်ပါ။
 
@@ -34,7 +34,7 @@ git clone "ခုနက copy ထားတဲ့ လင့်ခ်"
 
 "ခုနက copy ထားတဲ့ လင့်ခ်" (quotation marks မထည့်ရပါ) ဆိုတာဟာ ဒီ repository (ဒီပရောဂျက်ရဲ့ သင့် fork) ရဲ့ လင့်ခ်ပဲ ဖြစ်ပါတယ်။ ဒီနေရာမှာ အဆင်မပြေဖြစ်ခဲ့ရင် အပေါ်က အဆင့်များကို ပြန်လုပ်ပါ။
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="URL ကို clipboard ထဲကို ကူးပါ" />
 
 ဥပမာ:
 
@@ -70,7 +70,7 @@ git checkout -b add-alonzo-church
 
 သင့် text editor မှာ `Contributors.md` ကိုဖွင့်ပါ။ ထိပ်ဆုံးနှင့်နောက်ဆုံးမှလွဲ၍ သင့်ရဲ့ နာမည်ကို အဆင်ပြေတဲ့ နေရာမှာထည့်ပြီး save ပါ။
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status command နဲ့ ထွက်တဲ့အခြေအနေကို ပြတဲ့ပုံ" />
 
 ပြီးရင် ဒီ folder ရှိတဲ့နေရာကိုသွားပြီး `git status` command ကို run ပါ။ သင်ဘာတွေပြောင်းထားလဲဆိုတာ မြင်ရပါလိမ့်မယ်။
 
@@ -102,11 +102,11 @@ git push origin <add-your-branch-name>
 
 သင့် GitHub က သင့် repository မှာ `Compare & pull request` ဆိုတဲ့ ခလုတ်မြင်နေရမှာပါ။ အဲ့ဒီ ခလုတ်ကို နှိပ်လိုက်ပါ။
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="pull request အသစ်တစ်ခု ဖန်တီးပါ" />
 
 အခု pull request ကို submit လုပ်လိုက်ပါ။
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="pull request ကို တင်သွင်းပါ" />
 
 သင့်ရဲ့ပြောင်းလဲမှုတွေကို ဒီ project ရဲ့ master branch မှာ ထည့်သွင်းပေးမှာဖြစ်ပါတယ်။ ဒါကြောင့် ဒီ project ရဲ့ master branch မှာ ထည့်သွင်းပြီးရင် သင့်မှာ notification email ရောက်လာပါလိမ့်မယ်။
 
