@@ -10,6 +10,7 @@
 - [Bighna Raj Bhattamishra](https://github.com/Facelessism)
 - [23f3001092](https://github.com/23f3001092)
 - [23f3001092](https://github.com/ChandraMohaniitm)
+- [22f2000954](https://github.com/22f2000954)
 - [Zacarias Casimiro](https://github.com/zcasimir39)
 - [Kartik Borse](https://github.com/Kartik-borse)
   [Rituraj Tripathi](https://github.com/Sandilya69)
