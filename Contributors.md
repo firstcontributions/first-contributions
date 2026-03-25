@@ -9,6 +9,7 @@
 - [Abubakar Imran](https://github.com/Abubakar-Imran)
 - [Bighna Raj Bhattamishra](https://github.com/Facelessism)
 - [23f3001092](https://github.com/23f3001092)
+- [janszarynski](https://github.com/janszarynski)
 - [23f3001092](https://github.com/ChandraMohaniitm)
 - [Zacarias Casimiro](https://github.com/zcasimir39)
 - [Kartik Borse](https://github.com/Kartik-borse)
