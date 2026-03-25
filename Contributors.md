@@ -1113,7 +1113,7 @@ Rongxin Zhang
 - [Nasrul](https://github.com/nnayz)
 - [NathanES](https://github.com/nathanES)
 - [Natpu Enean](https://github.com/NatpuEnean)
-- [Sumit Seth]()
+- [Sumit Seth]
 - [Naveen C](https://github.com/naveench98)
 - [Naveen Kumar](https://github.com/naveenkumarr1812)
 - [Nayonika Agarwal](https://github.com/nayonika04)   
