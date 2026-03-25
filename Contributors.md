@@ -15,6 +15,7 @@
   [Rituraj Tripathi](https://github.com/Sandilya69)
 - [Shaurya Adarsh](https://github.com/shauryaadarsh)
 - [Jatin Banmol](https://github.com/jbanmol)
+- [EJ]
 - [Shreyas](https://github.com/24f1002699)
 - [hello]()
 hello ji
