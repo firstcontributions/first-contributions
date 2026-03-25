@@ -98,6 +98,7 @@ Arman P
 - [Yashwant Nayak](https://github.com/Yashwant990)
 - [Prithviraj Tandel](https://github.com/NSKY0808)
 - [Teresia Wairimu](https://github.com/teresiawairimu)
+- [THIRUNAGARISAIRAMCHARAN](https://github.com/THIRUNAGARISAIRAMCHARAN)
 - [Rick I](https://github.com/Rick-I)
 - [Julian Andres](https://github.com/julianandresdev)
 - [REH](https://github.com/RODRIGO-ENH/)
