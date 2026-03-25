@@ -2003,6 +2003,7 @@ Merjen Amanmuradova
 - [Leandro R](http://github.com/leandrortavano)
 - [George Soden](https://github.com/georgesoden)
 - [Gia Miminoshvili](https://github.com/giamimino)
+- [DarDrax(Harikishanth)] (https://github.com/Harikishanth)
 - [xql](https://github.com/kirobotdev)
 - [Collins Kipkosgei - Kenya](https://github.com/KipCollo)
 - [Rodrigo Provoste](https://github.com/RgoPro)
