@@ -245,6 +245,7 @@ Arman P
 - [sivakkumar21](https://github.com/sivakkumar21)
 - [Bishwa7](https://github.com/Bishwa7)
 - [Aaryan Pandey](https://github.com/aaryanpandey29)
+- [Akanle Tolulope](https://github.com/Akansrodger)
 - [yjh7979-12](https://github.com/yjh7979-12/)
 - [24f2008014](https://github.com/24f2008014)
 - [kumsb](https://github.com/24f2008015)
