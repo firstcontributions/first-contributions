@@ -349,12 +349,12 @@ itachi
 - [Sanchana](https://github.com/Sanchana05)
 - [A Szpatowski](https://github.com/aszpatowski)
 - [AC](https://github.com/FortKnoxWasTaken)
-[Prashant Raj][https://github.com/prashantraj4105]
+- [Prashant Raj][https://github.com/prashantraj4105]
 - [RandomAimXD](https://github.com/RandomAimXD)
 - [RibelAI](https://github.com/RibelAI)
 - [AJ Gyro](https://github.com/AJGyro)
 - [Leon](https://github.com/Leonels12)
-  - [JosecalderonGIT10](https://github.com/JosecalderonGIT10)
+- [JosecalderonGIT10](https://github.com/JosecalderonGIT10)
 - [Akshat Singhai](https://github.com/akshatsinghai6682-sketch)
 - [AKANKSHA JADHAV](https://github.com/Akankshaa1213)
 - [Aditya Zala](https://github.com/AdityaZala3919)
@@ -364,8 +364,8 @@ itachi
 - [Jatin](https://github.com/Lord-Jastannum)
 - [HIMANSHU_AGRAWAL](https://github.com/Himanshuagrawal2003)
 - abubakar
--[Tommmy]
--[yayme]
+- [Tommmy]
+- [yayme]
 - [sancer](https://github.com/SantCer/first-contributions.git)
 - [Senadeera-NK](https://github.com/Senadeera-NK)
 - [lopes061](https://github.com/lopes061)
@@ -408,7 +408,7 @@ itachi
 - [Achan Sai Pranay](https://github.com/Achan-Sai-pranay)
 　[IIIHHH40](https://github.com/IIIHHH40)
 - [Achintha Gamage](https://github.com/AKGamage)
-Austin L.
+- Austin L.
 - [Miwa Miwa](https://github.com/miwadharod)
 - [Parth Chauhan](https://github.com/parthc2905)
 - [Adarsh84](https://github.com/adarshM84)
@@ -2148,8 +2148,9 @@ Merjen Amanmuradova
 - Yaroslav Fashevskyi
 - [Lokagagan K S] (https://github.com/24f3004113)
 - [24f2000838](https://github.com/24f2000838)
--[Harsh Palas](https://github.com/harshpalas)
+- [Harsh Palas](https://github.com/harshpalas)
 - [oxtknight](https://github.com/oxtknight)
 - [Ajajul Middya](https://github.com/theMessiMagic)
 - [Himanshu](https://github.com/W47K3RJO1N)
 - [23f2005717](https://github.com/23f2005717)
+- [Lynx](https://github.com/duanyao-0516)
