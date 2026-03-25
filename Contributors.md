@@ -1402,6 +1402,7 @@ Rithvik
 - [Smesi36](https://github.com/smesi36)
 - [Sohail](https://github.com/sohail78692)
 - [Soham Das](https://github.com/SohamDas1502)
+- [Lord-Lucius](https://github.com/Lord-Lucius)
 - [Soham Patil](https://github.com/Soham-1616)
 - [Solomon-Prem-Sinai](https://github.com/solomon-2105)
 - [Adaobi Okwuosa](https://github.com/Adaobilynda1234)
