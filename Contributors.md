@@ -972,6 +972,7 @@ Rongxin Zhang
 - [Leo Xu](https://github.com/LeoXu8)
 - [Likhith S Gowda](https://github.com/Likhi2005)
 - [Lily](https://github.com/lilypandey)
+Rithvik 
 - [Liquuid1](https://github.com/Liquuid1)
 - [LiuSam](https://www.youtube.com/CommitKU)
 - [Loey](https://github.com/loey1923)
