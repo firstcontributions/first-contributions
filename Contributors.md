@@ -37,6 +37,7 @@ hello ji
 - [Sudesh] (https://github.com/Sudesh-dev)
 - [Santiago Bohorquez Gónzalez] (https://github.com/sborx12)
 - Míriam Souza Leal
+- [Ayush kumar maury](https://github.com/Ayush4O4)
 - [Esneider Veliz Guerrero](https://github.com/Esneider1107)
 - [Madhuri H S](https://github.com/MADHURI-HS)
 - [Jose Daniel Mesa](https://github.com/Jdmesa)
