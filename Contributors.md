@@ -1,6 +1,7 @@
 
 # Contributors
 - [Kava Flask](https://github.com/kavaflask)
+- [Vishal Jakhar](https://github.com/vishal1011001)
 - [Frankie Liu](https://github.com/FrankieLiuF)
 - [Bhupesh Cholake](https://github.com/RealBhupesh)
 - [Norman Glad](https://github.com/norman-glad)
