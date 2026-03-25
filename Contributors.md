@@ -1114,9 +1114,10 @@ Rongxin Zhang
 - [Nasrul](https://github.com/nnayz)
 - [NathanES](https://github.com/nathanES)
 - [Natpu Enean](https://github.com/NatpuEnean)
+- [Sumit Seth]
 - [Naveen C](https://github.com/naveench98)
 - [Naveen Kumar](https://github.com/naveenkumarr1812)
-- [Nayonika Agarwal](https://github.com/nayonika04)
+- [Nayonika Agarwal](https://github.com/nayonika04)   
 - [Poonam Gupta](https://github.com/24f2006754poonam)
 - [Neel Kumar](https://github.com/neelkumar01)
 - [Neha Bajaj](https://github.com/bajajneha27)
