@@ -39,6 +39,7 @@ hello ji
 - [Madhuri H S](https://github.com/MADHURI-HS)
 - [Jose Daniel Mesa](https://github.com/Jdmesa)
 - [Alessandro Gomez]
+- [Tim S.] (https://github.com/Stadopower)
 - [Manoj K M](https://github.com/manoj-k-m)
 - [vardhan reddy](https://github.com/vardhanreddy53)
 - [Developer Dashboard](https://vijaygoswami.is-a-dev?utm_source=github)
