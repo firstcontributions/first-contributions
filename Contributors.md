@@ -2139,6 +2139,7 @@ Merjen Amanmuradova
 - [Ritu Yadav](https://github.com/ritu2906yadav)
 - [Nishi Sharma](https://github.com/nishisharma-14)
 - [Mariam Hassan](https://github.com/mariamhassan2882006-sudo)
+- [Waheba Husain](https://github.com/waheba-husain)
 - [Elia](https://github.com/El-Bi-Al)
 - [Iarley Jesus](https://github.com/Lawziinx)
 - [Venkata Ganapathi Subramanian](https://github.com/VENKATA080305)
