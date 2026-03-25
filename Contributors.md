@@ -40,6 +40,7 @@ hello ji
 - [Jose Daniel Mesa](https://github.com/Jdmesa)
 - [Alessandro Gomez]
 - [Manoj K M](https://github.com/manoj-k-m)
+- [Ankit Ranjan](https://github.com/notgodfather)
 - [vardhan reddy](https://github.com/vardhanreddy53)
 - [Developer Dashboard](https://vijaygoswami.is-a-dev?utm_source=github)
 - [Santiago Sierra Marin](https://github.com/SantiSM10)
