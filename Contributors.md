@@ -286,6 +286,7 @@ Arman P
 - [Mawira vic](https://github.com/MawiraVicto)
 - [Tusharika Srivastava](https://github.com/Tusharika725)
 - [Saket Anand](https://www.saketanand.com)
+- [Oduor Alphonce] (https://github.com/OduorAlphonce)
 - [Scott Boudreaux (Elyan Labs)](https://github.com/Scottcjn)
 - [Kokkirigedda Lohit](https://github.com/lohit3050)
 - [Avuram Chandra Mohan Reddy](https://github.com/chandramohan385)
