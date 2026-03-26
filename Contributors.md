@@ -2190,3 +2190,4 @@ Merjen Amanmuradova
 - [Avanish](https://github.com/satyaavanish)
 - [Pranav Wagh](https://github.com/Pranavwagh1)
 - [Harsh kalal](https://github.com/Harsh-HK7)
+- [Behruzbek Madiyarov](https://github.com/behruzbekjs)
