@@ -7,6 +7,7 @@
 - [Alialhadi AboKhalil](https://github.com/AlialhadiAk)
 - [Frankie Liu](https://github.com/FrankieLiuF)
 - [Bhupesh Cholake](https://github.com/RealBhupesh)
+- [Bhavyaveer Kumar](https://github.com/Bhavyaveer44)
 - [Norman Glad](https://github.com/norman-glad)
 - [Aryaman Kummamuru](https://github.com/23f3003961)
 - [CristyanVessimo](https://github.com/CristyanVessimo)
