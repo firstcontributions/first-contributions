@@ -1098,6 +1098,7 @@ Rithvik
 - [Mridul Narain](https://github.com/narainmridul)
 - [Mrityunjay Sahani](https://github.com/mritunjaysahani)
 - [Mrunal Jadhav](https://github.com/mrunaljadhav)
+- [Isaac Gonzalez] (https://github.com/ZaakyG)
 - [Jeet Jawale](https://github.com/jeetjawale)
 - [Mudipelly Shiva](https://github.com/shivamudipelly)
 - [Muhammad Ali](https://github.com/Sudo-Ali-Dev)
@@ -2153,7 +2154,7 @@ Merjen Amanmuradova
 - [Inesh Vijay](https://github.com/ineshvijayvergiya)
 - [Aishwarya](https://github.com/Aishwrya-029)
 - [Aryan Thakur](https://github.com/aryanthakur6601-del)
-- [Tanvi Sharma]_(https://github.com/07Tanvi)
+- [Tanvi Sharma] (https://github.com/07Tanvi)
 - Saumay
 - [Rudra-Kumar](https://github.com/Rudra-RNC)
 - [Min0Gyu0Kang](https://github.com/Min0Gyu0Kang)
