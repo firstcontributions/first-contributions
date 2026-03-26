@@ -8,6 +8,7 @@
 - [Frankie Liu](https://github.com/FrankieLiuF)
 - [Bhupesh Cholake](https://github.com/RealBhupesh)
 - [Norman Glad](https://github.com/norman-glad)
+- [Aryaman Kummamuru](https://github.com/23f3003961)
 - [CristyanVessimo](https://github.com/CristyanVessimo)
 - [Adeola Ajiboso](https://github.com/Ajiboso-Adeola/)
 - [Abubakar Imran](https://github.com/Abubakar-Imran)
