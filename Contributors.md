@@ -1,4 +1,4 @@
-# Contributors
+-[Arpita Sinha](https://github.com/arpitaa456)
 [wudong](https://github.com/wherefindme)
 - [Rishav Kumar](https://github.com/21f3002244)
 -[Krishna_KVH](https://github.com/Krishna_KVH)
