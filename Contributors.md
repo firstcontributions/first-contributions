@@ -850,6 +850,7 @@ Steve
 - [JBetz-Dev](https://github.com/JBetz-Dev)
 - [JJFJ](https://github.com/PugKing22)
 - [Jaanvi Chouhan](https://github.com/Jaanvichouhan34)
+- [Ayush Priyadarshi](https://github.com/Ayu-zh)
 - Janis J
 - [Jackie](https://github.com/PyXMR2025)
 - [Jackson Bichard](https://github.com/JacksonBichard)
