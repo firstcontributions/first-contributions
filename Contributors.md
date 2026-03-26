@@ -81,6 +81,7 @@ hello ji
 - [Kyle Scritten](https://github.com/KyleScritten)
 Arman P
 - [Peter McGee](https://github.com/pmcgee-personal)
+- Jose Acevedo
 - [Money Yu](https://github.com/lettucebo)
 - [Chinenye Agu](https://github.com/Drchiagu)
 - [Mariana Garcia Marin](https://github.com/milkira)
