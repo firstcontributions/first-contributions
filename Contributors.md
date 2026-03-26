@@ -1642,6 +1642,7 @@ Rithvik
 - [fusionAMAN](https://github.com/fusionAMAN)
 - [fuutot](https://github.com/fuutot)
 - [gatura](https://github.com/gatura-source)
+- [diljith](https://github.com/Diljithhh)
 - [gary](https://github.com/callmegary-dev)
 - [gkrishna247](https://github.com/gkrishna247)
 - [granada1_lnrs](https://github.com/granad1_lnrs)
