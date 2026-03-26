@@ -2,6 +2,7 @@
 # Contributors
 -[Krishna_KVH](https://github.com/Krishna_KVH)
 - [Kava Flask](https://github.com/kavaflask)
+- [Karthik Kumar Reddy Kota](https://github.com/kotakarthikreddy/)
 - [Alialhadi AboKhalil](https://github.com/AlialhadiAk)
 - [Frankie Liu](https://github.com/FrankieLiuF)
 - [Bhupesh Cholake](https://github.com/RealBhupesh)
