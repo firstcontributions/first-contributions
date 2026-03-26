@@ -5,6 +5,7 @@
 -[Dheeksha E](https://github.com/dheekshae)
 - [Kava Flask](https://github.com/kavaflask)
 - [Karthik Kumar Reddy Kota](https://github.com/kotakarthikreddy/)
+- [Aditya Sharma](https://github.com/4ditya-sharma)
 - [Alialhadi AboKhalil](https://github.com/AlialhadiAk)
 - [Frankie Liu](https://github.com/FrankieLiuF)
 - [Bhupesh Cholake](https://github.com/RealBhupesh)
