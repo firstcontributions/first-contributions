@@ -2199,4 +2199,5 @@ Merjen Amanmuradova
 - [Swastika Gupta](https://github.com/Swastika-311)
 - [Justin Lee] (https://github.com/JustinnCodes)
 - [Akhil Madikanti](https://github.com/24f2006274)
+- [Khushi Kumari](https://github.com/khushi5-js)
 - [Anson Chen](https://github.com/zhonganchen-anson)
