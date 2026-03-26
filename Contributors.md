@@ -220,6 +220,7 @@ Arman P
 - [Naim Muaz](https://github.com/naimmuaz)
 - [Phillip F](https://github.com/pfurpass)
 - [Justin Thomas](https://github.com/justinthomas11)
+- [Chiheb Kitar](https://github.com/KitarChiheb)
 - [Jayanti Deb]
 - [Luis Henrique] (https://github.com/Passarin1)
 - [Ibrahim_Abbas] (https://github.com/IbrahimAbbas-spec)
