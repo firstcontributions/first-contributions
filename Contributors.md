@@ -6,6 +6,7 @@
 - [Kava Flask](https://github.com/kavaflask)
 - [Karthik Kumar Reddy Kota](https://github.com/kotakarthikreddy/)
 - [Aditya Sharma](https://github.com/4ditya-sharma)
+- [Allwell](https://github.com/Allwell987)
 - [Alialhadi AboKhalil](https://github.com/AlialhadiAk)
 - [Frankie Liu](https://github.com/FrankieLiuF)
 - [Bhupesh Cholake](https://github.com/RealBhupesh)
