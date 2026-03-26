@@ -10,6 +10,7 @@
 - [Bhupesh Cholake](https://github.com/RealBhupesh)
 - [Bhavyaveer Kumar](https://github.com/Bhavyaveer44)
 - [Norman Glad](https://github.com/norman-glad)
+- - [Smaran](https://github.com/smaran9)
 - [Aryaman Kummamuru](https://github.com/23f3003961)
 - [CristyanVessimo](https://github.com/CristyanVessimo)
 - [Adeola Ajiboso](https://github.com/Ajiboso-Adeola/)
