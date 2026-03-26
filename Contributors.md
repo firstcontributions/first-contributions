@@ -7,6 +7,7 @@
 - [Karthik Kumar Reddy Kota](https://github.com/kotakarthikreddy/)
 - [Aditya Sharma](https://github.com/4ditya-sharma)
 - [Alialhadi AboKhalil](https://github.com/AlialhadiAk)
+- Aditya Gopal
 - [Frankie Liu](https://github.com/FrankieLiuF)
 - [Bhupesh Cholake](https://github.com/RealBhupesh)
 - [Bhavyaveer Kumar](https://github.com/Bhavyaveer44)
