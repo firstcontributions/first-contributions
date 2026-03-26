@@ -1,4 +1,3 @@
-
 # Contributors
 - [Rishav Kumar](https://github.com/21f3002244)
 -[Krishna_KVH](https://github.com/Krishna_KVH)
@@ -19,6 +18,7 @@
 - [23f3001092](https://github.com/23f3001092)
 - [23f3001092](https://github.com/ChandraMohaniitm)
 - [Zacarias Casimiro](https://github.com/zcasimir39)
+
 - [Kartik Borse](https://github.com/Kartik-borse)
   [Rituraj Tripathi](https://github.com/Sandilya69)
 - [Shaurya Adarsh](https://github.com/shauryaadarsh)
@@ -2185,3 +2185,4 @@ Merjen Amanmuradova
 - [Gisele Medina](https://github.com/code-medina)
 - [Seanachan Pai](https://github.com/Seanachan)
 - [Avanish](https://github.com/satyaavanish)
+- [Pranav Wagh](https://github.com/Pranavwagh1)
