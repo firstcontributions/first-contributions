@@ -1,5 +1,6 @@
 
 # Contributors
+- [Rishav Kumar](https://github.com/21f3002244)
 -[Krishna_KVH](https://github.com/Krishna_KVH)
 -[Dheeksha E](https://github.com/dheekshae)
 - [Kava Flask](https://github.com/kavaflask)
@@ -7,7 +8,10 @@
 - [Alialhadi AboKhalil](https://github.com/AlialhadiAk)
 - [Frankie Liu](https://github.com/FrankieLiuF)
 - [Bhupesh Cholake](https://github.com/RealBhupesh)
+- [Bhavyaveer Kumar](https://github.com/Bhavyaveer44)
 - [Norman Glad](https://github.com/norman-glad)
+- - [Smaran](https://github.com/smaran9)
+- [Aryaman Kummamuru](https://github.com/23f3003961)
 - [CristyanVessimo](https://github.com/CristyanVessimo)
 - [Adeola Ajiboso](https://github.com/Ajiboso-Adeola/)
 - [Abubakar Imran](https://github.com/Abubakar-Imran)
@@ -1966,6 +1970,7 @@ Merjen Amanmuradova
 - [Dharshini](https://github.com/dharshini1316)
 - [kinglongwu2](https://github.com/KingLongWu2)
 - [uuudemo](https://github.com/UUUdemo)
+- [mechPoDoll](https://github.com/mechPoDoll)
 - [V Rohith](https://github.com/Rohith15119)
 - [Abhishek](https://github.com/Abhishek-Prajapati442)
 - [S Rice](https://github.com/cyberrhyc)
