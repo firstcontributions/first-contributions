@@ -28,6 +28,7 @@
 - [Zacarias Casimiro](https://github.com/zcasimir39)
 - [Jane Doe]
 - [Biruk]
+- [Laureano]
 
 - [Kartik Borse](https://github.com/Kartik-borse)
   [Rituraj Tripathi](https://github.com/Sandilya69)
