@@ -140,6 +140,7 @@ Arman P
 - [Charul Bhanarkar](https://github.com/charull44)
 - [Yash Kewte](https://github.com/yashkewte)
 - [Aaqib Javaid](https://github.com/aaqib605)
+- [Bishal Rokaha](https://github.com/BishalRokaha)
 - [Jyotula Siva Preetham](https://github.com/MooN4002)
 - [Adaji Gideon](https://github.com/gidosharpman)
 - [Varshith Reddy](https://github.com/VarshithReddy2006)
