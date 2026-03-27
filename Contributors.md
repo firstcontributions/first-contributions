@@ -158,6 +158,7 @@ Arman P
 - [Jeet Gupta](https://github.com/JeetG-AlphaDev)
 - [Abhinav](https://github.com/Caterpillarok)
 - [Arnav Amrit](https://github.com/ArnavAmrit)
+- [Armando Compean](armandocompean1207-glitch)
 - [Htoo Eant Linn](https://github.com/htooeantlinn)
 - [Shanmuga Sundaram Natarajan](https://github.com/shanmuga-sundaram-n)
 - [Pritam Kumar](https://github.com/pritam1952)
