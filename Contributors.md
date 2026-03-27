@@ -1,4 +1,5 @@
 # Contributors
+-[Sutharsan Albert](https://github.com/softwarefarmer)
 [wudong](https://github.com/wherefindme)
 - [Rishav Kumar](https://github.com/21f3002244)
 -[Krishna_KVH](https://github.com/Krishna_KVH)
@@ -24,6 +25,7 @@
 - [Nicolas Iglesias](https://github.com/NicolasIgles)
 - [23f3001092](https://github.com/ChandraMohaniitm)
 - [Zacarias Casimiro](https://github.com/zcasimir39)
+  [Jane Doe]
 
 - [Kartik Borse](https://github.com/Kartik-borse)
   [Rituraj Tripathi](https://github.com/Sandilya69)
@@ -254,6 +256,7 @@ Arman P
 - [z0ryn](github.com/z0ryn)
 - [Huzaifa Abdul Rehman](https://github.com/HuzaifaAbdulRehman)
 - [Kaushal Prakash](github.com/kaushal-Prakash)
+- [Kirtan Jain](github.com/kirtanJain21)
 - [Paras Rawat](https://github.com/paras941)
 - [Han](https://github.com/vy088473)
 - [Md. Kamran Alam](https://github.com/mdkamranalam)
@@ -1700,6 +1703,7 @@ Rithvik
 - [mheavey](https://github.com/mheavey2)
 - [midhun](https://github.com/3idhun)
 - [Tase](https://github.com/Tasesho)
+- [Zamir](https://github.com/456zamir8/)
 - [midikaif](https://github.com/midikaif)
 - [mohnish](https://github.com/Mohnish27-dev)
 - [sg20](https://github.com/ismasg20)
