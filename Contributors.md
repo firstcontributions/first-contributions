@@ -1123,6 +1123,7 @@ Rithvik
 - [Muhammad Ayyub](https://github.com/devmab24)
 - [Muhammad P](https://github.com/mopy7)
 - [Muhammad Raza](https://github.com/RazaJavaid2004)
+- [Aayushmaan Patel](https://github.com/23f2003450)
 - [Muhammad Taha Nadeem](https://github.com/Taha-Nadeem-7)
 - [Muhammad Zakaria](https://github.com/zakk616)
 - [Muhammed Shareef](https://github.com/shareefmx)
