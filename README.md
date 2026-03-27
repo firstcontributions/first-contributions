@@ -89,7 +89,7 @@
 <kbd>[<img title="Tounsi" alt="Tounsi" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/tn.svg" width="22">](docs/translations/README.tn.md)</kbd>
 <kbd>[<img title="Lingala" alt="Lingala" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/cd.svg" width="22">](docs/translations/README.ln.md)</kbd>
 
-# First Contributions
+# First Contributions-瓦打西！摳幾倫欸！
 
 This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 
