@@ -141,7 +141,6 @@ Arman P
 - [Rajkumar senapati](https://github.com/Rajkumargit61)
 - [Elisio Augusto](https://github.com/elisio-tech)
 - [olive](https://github.com/Olive1017)
-- [Masta](https://github.com/Mastaaaa)
 - [Aerin](https://github.com/aerinpark)
 - [Zhijie](https://github.com/chikkkit)
 - [Jackson Kleeman](https://github.com/jacksonkleeman1997) 
