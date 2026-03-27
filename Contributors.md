@@ -2221,3 +2221,4 @@ Merjen Amanmuradova
 [Chendi Chandu](https://github.com/Chandu2622)
 [Piyush Rawat](https://github.com/25ds1000107-png)
 [Ajajul-IITM](https://github.com/Ajajul-IITM)
+[Rohit-Mal-IITM]((https://github.com/Rohit-Mal-IITM))
