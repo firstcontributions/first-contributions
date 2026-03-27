@@ -2220,3 +2220,4 @@ Merjen Amanmuradova
 [Faiz Ali] (https://github.com/faizzz2706)
 [Chendi Chandu](https://github.com/Chandu2622)
 [Piyush Rawat](https://github.com/25ds1000107-png)
+[Ajajul-IITM](https://github.com/Ajajul-IITM)
