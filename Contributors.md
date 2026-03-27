@@ -4,6 +4,7 @@
 -[Krishna_KVH](https://github.com/Krishna_KVH)
 -[Dheeksha E](https://github.com/dheekshae)
 - [Kava Flask](https://github.com/kavaflask)
+- [Vishal Jakhar](https://github.com/vishal1011001)
 - [Karthik Kumar Reddy Kota](https://github.com/kotakarthikreddy/)
 - [Aditya Sharma](https://github.com/4ditya-sharma)
 - [Allwell](https://github.com/Allwell987)
