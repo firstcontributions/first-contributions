@@ -254,6 +254,7 @@ Arman P
 - [z0ryn](github.com/z0ryn)
 - [Huzaifa Abdul Rehman](https://github.com/HuzaifaAbdulRehman)
 - [Kaushal Prakash](github.com/kaushal-Prakash)
+- [Kirtan Jain](github.com/kirtanJain21)
 - [Paras Rawat](https://github.com/paras941)
 - [Han](https://github.com/vy088473)
 - [Md. Kamran Alam](https://github.com/mdkamranalam)
