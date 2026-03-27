@@ -1701,6 +1701,7 @@ Rithvik
 - [mheavey](https://github.com/mheavey2)
 - [midhun](https://github.com/3idhun)
 - [Tase](https://github.com/Tasesho)
+- [Zamir](https://github.com/456zamir8/)
 - [midikaif](https://github.com/midikaif)
 - [mohnish](https://github.com/Mohnish27-dev)
 - [sg20](https://github.com/ismasg20)
