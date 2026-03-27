@@ -501,6 +501,7 @@ Austin L.
 Chris
 pizpol
 Ashwin
+XaRath-Rocy
 RLeish
 -[kedarnath](https://github.com/kedarnath)
 - [Santosh M Savalgi](https://github.com/Santosh-M-Savalgi)
