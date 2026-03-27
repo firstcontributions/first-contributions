@@ -2204,3 +2204,4 @@ Merjen Amanmuradova
 - [Khushi Kumari](https://github.com/khushi5-js)
 - [Anson Chen](https://github.com/zhonganchen-anson)
 - [BetterThanYou](https://github.com/Better-Than-You)
+- Better-than-you
