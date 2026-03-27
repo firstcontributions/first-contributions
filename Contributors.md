@@ -2210,3 +2210,4 @@ Merjen Amanmuradova
 - Better-than-you
 - [Better-Than-You]
 - [M Fakhri Randy](https://github.com/siapalahsayaini)
+- [hidetzu](https://github.com/hidetzu)
