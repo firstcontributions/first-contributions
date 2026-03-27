@@ -1444,6 +1444,7 @@ Rithvik
 - [Sriteja01](https://github.com/Sriteja01)
 - [Stgojo13243](https://github.com/Stgojo13243) 
 - [Stephen Ng](https://github.com/snust)
+- [Shreyas Fegade](https://github.com/shreyasfegade)
 - [Steve Coghill](https://github.com/BriarSMC)
 - [Subhajit Sarkar](https://github.com/Subhajit281)
 - [Subin Kumar](https://github.com/Subinkumar077)
