@@ -25,7 +25,8 @@
 - [Nicolas Iglesias](https://github.com/NicolasIgles)
 - [23f3001092](https://github.com/ChandraMohaniitm)
 - [Zacarias Casimiro](https://github.com/zcasimir39)
-  [Jane Doe]
+- [Jane Doe]
+- [Biruk]
 
 - [Kartik Borse](https://github.com/Kartik-borse)
   [Rituraj Tripathi](https://github.com/Sandilya69)
