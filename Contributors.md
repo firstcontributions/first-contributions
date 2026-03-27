@@ -2211,3 +2211,4 @@ Merjen Amanmuradova
 - [Better-Than-You]
 - [M Fakhri Randy](https://github.com/siapalahsayaini)
 - [hidetzu](https://github.com/hidetzu)
+[Faiz Ali] (https://github.com/faizzz2706)
