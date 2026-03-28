@@ -1,5 +1,6 @@
 # Contributors
 [sejal wattamwar](https://github.com/sejal88944)
+-[Arul Cornelious](https://github.com/Arul1998)
 -[Divyanshu Kumar](https://github.com/dgiitm)
 - [chandra kireeti](https://github.com/kireetikotturu)
 - - [Rahul Chaube](https://github.com/Rahulchaube1)
