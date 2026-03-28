@@ -2086,5 +2086,6 @@ Rithvik
 - [meowmeow](https://github.com/true-meowmeow) 🤯
 - [Lohith Reddy](https://github.com/Lohith-11)
 - [Kalmykov Nikita](https://github.com/nknk39)
+- [Gopal Choudhary](https://github.com/gopallchoudhary)
 - [Tyler Wolfe](https://github.com/JustSomeGuyy)
 
