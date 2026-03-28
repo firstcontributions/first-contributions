@@ -102,6 +102,7 @@ hello ji
 - [Thecapstone Mogbolu](https://github.com/Thecapstone)
 - [Charlesaj4] (https://github.com/charlesaj4)
 - [Samuel Chacon](https://github.com/SamuelCh25)
+- [Raghad AbdElaziz](https://github.com/Raghad74)
 - [Hernan Rico](https://github.com/hernanr2205)
 - [Nicolle Ureña García] (https://github.com/NicolleUrenaGarcia)
 [- k-mirembe-mercy]
