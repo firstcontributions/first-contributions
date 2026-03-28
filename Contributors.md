@@ -187,6 +187,7 @@ Arman P
 - [Riyyan Khan](https://github.com/riyyankhan007)
   [Jason Zinn](https://github.com/jasonzinndal)
   [Isly NN]
+  nirmit
 - [Victor Almeida](https://github.com/vma5)
 -[Alessandro Gomez](https://github.com/06alesso)
 -[Harshvardhan Singh](https://github.com/harshvardhansingh3000)
