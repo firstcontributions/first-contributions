@@ -1,8 +1,10 @@
 # Contributors
-[khushi sharma](https://github.com/khushisharma0709)
+ 
+-[khushi sharma](https://github.com/khushisharma0709)
+-[sejal wattamwar](https://github.com/sejal88944)
 -[Divyanshu Kumar](https://github.com/dgiitm)
 - [chandra kireeti](https://github.com/kireetikotturu)
-- - [Rahul Chaube](https://github.com/Rahulchaube1)
+- [Rahul Chaube](https://github.com/Rahulchaube1)
 - [Luca-Python](https://github.com/luca-python)
 - [Gautam Kumawat](https://github.com/gautam9892)
 - [Mateo](https://github.com/mateococimano)
@@ -1326,6 +1328,7 @@ Rithvik
 - [Raunak katiyar2](https://github.com/raunak-bigdp)
 - [Raunak katiyar](https://github.com/raunak-bigdp)
 - [Ravi Raj Choudhary](https://github.com/ravirajchoudhary03)
+- [Ravi Kumar K](https://github.com/24f1002594)
 - [Razano](https://github.com/Razano26/)
 - [Rein Ding](https://github.com/ReinDing)
 - [Reynhard](https://github.com/reybui)
