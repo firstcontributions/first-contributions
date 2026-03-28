@@ -84,7 +84,7 @@ hello ji
 - [Valentinus Gunadi] (https://github.com/veempeelge)
 - [B Pine](https://github.com/B-Pine)
 - [Shivraj](https://github.com/Shiv0087)
-
+- shriman181
 -[Neha Dubey](https://github.com/Nehainit)
 - [Akash Pandey](http://github.com/thepandeyakash)
 - [Tushar Rana] (https://github.com/Tushar-Rana-13)
@@ -123,6 +123,7 @@ Arman P
 - [Jitendra Kumar](https://github.com/23f1000704)
 - [Bhumit Solanki](https://github.com/Bhumit0922)
 - [Bhoomika Jain](https://github.com/Bhoomika-iitm)
+- [Shriman Maheshwari](https://github.com/shriman181)
 - [Akshay Bolishetti](https://github.com/BolishettiAkshay)
 - [Ashish Prakash Ojha](https://github.com/ashishprakashojha)
 - [Sanjeev Ragunathan](https://github.com/sanjeev-rm)
