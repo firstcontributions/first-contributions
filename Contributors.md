@@ -1,8 +1,10 @@
 # Contributors
-[sejal wattamwar](https://github.com/sejal88944)
+ 
+-[khushi sharma](https://github.com/khushisharma0709)
+-[sejal wattamwar](https://github.com/sejal88944)
 -[Divyanshu Kumar](https://github.com/dgiitm)
 - [chandra kireeti](https://github.com/kireetikotturu)
-- - [Rahul Chaube](https://github.com/Rahulchaube1)
+- [Rahul Chaube](https://github.com/Rahulchaube1)
 - [Luca-Python](https://github.com/luca-python)
 - [Gautam Kumawat](https://github.com/gautam9892)
 - [Mateo](https://github.com/mateococimano)
