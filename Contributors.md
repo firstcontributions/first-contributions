@@ -32,6 +32,7 @@
 - [Zacarias Casimiro](https://github.com/zcasimir39)
 - [Jane Doe]
 - [Biruk]
+- [Prakhyath Bandaluppi](https://github.com/prakhyath1501)
 - [Laureano](https://github.com/Staindek)
 
 - [Kartik Borse](https://github.com/Kartik-borse)
