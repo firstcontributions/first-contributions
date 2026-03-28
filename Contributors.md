@@ -1796,6 +1796,7 @@ Rithvik
 - [swaraj reddy](https://github.com/swarajreddy10)
 - [sxpar](https://github.com/sxpar)
 - [table106](https://github.com/table106)
+- [kaiittlou](https://github.com/kaiittlou)
 - [aiphru](https://github.com/Aiphru)
 - [td2thinh](https://github.com/td2thinh)
 - [tember8003](https://github.com/tember8003)
