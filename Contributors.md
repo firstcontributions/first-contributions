@@ -1,4 +1,5 @@
 # Contributors
+[khushi sharma](https://github.com/khushisharma0709)
 -[Divyanshu Kumar](https://github.com/dgiitm)
 - [chandra kireeti](https://github.com/kireetikotturu)
 - - [Rahul Chaube](https://github.com/Rahulchaube1)
