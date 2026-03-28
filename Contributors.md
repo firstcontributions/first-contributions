@@ -1325,6 +1325,7 @@ Rithvik
 - [Raunak katiyar2](https://github.com/raunak-bigdp)
 - [Raunak katiyar](https://github.com/raunak-bigdp)
 - [Ravi Raj Choudhary](https://github.com/ravirajchoudhary03)
+- [Ravi Kumar K](https://github.com/24f1002594)
 - [Razano](https://github.com/Razano26/)
 - [Rein Ding](https://github.com/ReinDing)
 - [Reynhard](https://github.com/reybui)
