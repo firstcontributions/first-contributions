@@ -1,5 +1,6 @@
 # Contributors
 - [chandra kireeti](https://github.com/kireetikotturu)
+- - [Rahul Chaube](https://github.com/Rahulchaube1)
 - [Luca-Python](https://github.com/luca-python)
 - [Gautam Kumawat](https://github.com/gautam9892)
 - [Mateo](https://github.com/mateococimano)
@@ -8,12 +9,14 @@
 -[Sutharsan Albert](https://github.com/softwarefarmer)
 [wudong](https://github.com/wherefindme)
 - [Rishav Kumar](https://github.com/21f3002244)
+- [Jatish Chawla](https://github.com/Jatishchawla)
 -[Krishna_KVH](https://github.com/Krishna_KVH)
 -[Dheeksha E](https://github.com/dheekshae)
 - [Kava Flask](https://github.com/kavaflask)
 - [Somesh Singh](https://github.com/YOUR-USERNAME)
 - [Vishal Jakhar](https://github.com/vishal1011001)
 - [Karthik Kumar Reddy Kota](https://github.com/kotakarthikreddy/)
+- [Andile Junior](https://github.com/just-junior869)
 - [Krishna Bansal](https://github.com/krishna20253145-dotcom)
 - [Aditya Sharma](https://github.com/4ditya-sharma)
 - [Allwell](https://github.com/Allwell987)
@@ -185,6 +188,7 @@ Arman P
 - [Riyyan Khan](https://github.com/riyyankhan007)
   [Jason Zinn](https://github.com/jasonzinndal)
   [Isly NN]
+  nirmit
 - [Victor Almeida](https://github.com/vma5)
 -[Alessandro Gomez](https://github.com/06alesso)
 -[Harshvardhan Singh](https://github.com/harshvardhansingh3000)
@@ -2277,3 +2281,4 @@ Merjen Amanmuradova
 - [Doorbekova Alina](https://github.com/linalina2323)
 - [Arjun-codess](https://github.com/Arjun-codess).
 - [Chiranthana S](https://github.com/Chiranthana27)
+- Lipika Saravanan
