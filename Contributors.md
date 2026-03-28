@@ -37,7 +37,7 @@
 - [Biruk]
 - [Prakhyath Bandaluppi](https://github.com/prakhyath1501)
 - [Laureano](https://github.com/Staindek)
-
+- [Diksha Upadhyay] (https://github.com/23f2004211)
 - [Kartik Borse](https://github.com/Kartik-borse)
   [Rituraj Tripathi](https://github.com/Sandilya69)
 - [Shaurya Adarsh](https://github.com/shauryaadarsh)
