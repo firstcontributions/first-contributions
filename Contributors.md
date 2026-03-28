@@ -9,6 +9,7 @@
 -[Sutharsan Albert](https://github.com/softwarefarmer)
 [wudong](https://github.com/wherefindme)
 - [Rishav Kumar](https://github.com/21f3002244)
+- [Jatish Chawla](https://github.com/Jatishchawla)
 -[Krishna_KVH](https://github.com/Krishna_KVH)
 -[Dheeksha E](https://github.com/dheekshae)
 - [Kava Flask](https://github.com/kavaflask)
