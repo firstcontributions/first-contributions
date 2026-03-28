@@ -49,6 +49,7 @@
 - [Kartik Borse](https://github.com/Kartik-borse)
   [Rituraj Tripathi](https://github.com/Sandilya69)
 - [Shaurya Adarsh](https://github.com/shauryaadarsh)
+- [Yash](https://github.com/yashhwanth)
 - [Jatin Banmol](https://github.com/jbanmol)
 - [Antonella Muñoz](https://github.com/antonellamunoz1989)
 - [Deepa Muthukrishnan](https://github.com/DeepaMuthu)
