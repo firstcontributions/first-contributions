@@ -1995,6 +1995,7 @@ Merjen Amanmuradova
 - [Adesina-Olajumoke-H](https://github.com/OlajumokeAdesina)
 - [sangjinnnggg](https://github.com/sangjinnnggg)
 - [Kejimi-data](https://github.com/Kejimi-data)
+- [BakareTobias](https://github.com/BakareTobias)
 - [Ishola-Tosin-G](https://github.com/Ishola-Tosin-G)
 - [GiannisLinardos07](https://github.com/GiannisLinardos07)
 - [funmilola Ayinde](https://github.com/funmilolajanet)
