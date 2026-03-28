@@ -2245,6 +2245,7 @@ Merjen Amanmuradova
 [Faiz Ali] (https://github.com/faizzz2706)
 [Chendi Chandu](https://github.com/Chandu2622)
 [Piyush Rawat](https://github.com/25ds1000107-png)
+[Sushma Singh](https://github.com/Sushma-0179)
 [Ajajul-IITM](https://github.com/Ajajul-IITM)
 [Rohit-Mal-IITM]((https://github.com/Rohit-Mal-IITM))
 -[Praveen-Kumar](https://github.com/praveen-1998-dev).
