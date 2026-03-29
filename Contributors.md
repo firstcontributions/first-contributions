@@ -16,6 +16,7 @@
 -[Krishna_KVH](https://github.com/Krishna_KVH)
 -[Dheeksha E](https://github.com/dheekshae)
 - [Kava Flask](https://github.com/kavaflask)
+Alicexxxx
 - [MdSourav76046](https://github.com/MdSourav76046)
 - [Somesh Singh](https://github.com/YOUR-USERNAME)
 - [Vishal Jakhar](https://github.com/vishal1011001)
@@ -32,6 +33,7 @@
 - [Norman Glad](https://github.com/norman-glad)
 - [Chirag Gowda](https://github.com/chirag249)
 - - [Smaran](https://github.com/smaran9)
+- [Mitali Mehta](https://github.com/Mitalimehta02)
 - [Aryaman Kummamuru](https://github.com/23f3003961)
 - [CristyanVessimo](https://github.com/CristyanVessimo)
 - [Adeola Ajiboso](https://github.com/Ajiboso-Adeola/)
@@ -45,6 +47,7 @@
 - [Jane Doe]
 - [Biruk]
 - [Prakhyath Bandaluppi](https://github.com/prakhyath1501)
+[Parvathi Supreeth](https://github.com/parvathisupreeth)
 - [Laureano](https://github.com/Staindek)
 
 - [Kartik Borse](https://github.com/Kartik-borse)
@@ -149,6 +152,7 @@ Arman P
 - [Teresia Wairimu](https://github.com/teresiawairimu)
 - [Rick I](https://github.com/Rick-I)
 - [Julian Andres](https://github.com/julianandresdev)
+- [Pushpak](https://github.com/pushpakjain628/)
 - [REH](https://github.com/RODRIGO-ENH/)
 - [Peter Kohari](https://github.com/KOHIPEET)
 - [Vaishnav Bose](https://github.com/Vaishnav2606)
@@ -1420,6 +1424,7 @@ Rithvik
 - [Shahid Malik](https://github.com/SHAHID-glitch)
 - [ShaiQ Shah](https://github.com/shahshaiq)
 - [Shaj2311](https://github.com/Shaj2311)
+- Ume
 - [Shakthi Lakshmanan V](https://github.com/Shakthi-lakshmanan-2006)
 - [Shalu Tiwari](https://github.com/tshalu63)
 - [Shamil T P](https://github.com/shamil-tp)
@@ -1796,6 +1801,7 @@ Rithvik
 - [swaraj reddy](https://github.com/swarajreddy10)
 - [sxpar](https://github.com/sxpar)
 - [table106](https://github.com/table106)
+- [kaiittlou](https://github.com/kaiittlou)
 - [aiphru](https://github.com/Aiphru)
 - [td2thinh](https://github.com/td2thinh)
 - [tember8003](https://github.com/tember8003)
@@ -2231,6 +2237,7 @@ Merjen Amanmuradova
 - [Sanjeev Uppu](https://github.com/Sanjeev-Uppu)
 - Yaroslav Fashevskyi
 - [Lokagagan K S] (https://github.com/24f3004113)
+-jjjj
 - [24f2000838](https://github.com/24f2000838)
 -[Harsh Palas](https://github.com/harshpalas)
 - [oxtknight](https://github.com/oxtknight)
@@ -2292,3 +2299,10 @@ Merjen Amanmuradova
 - [Chiranthana S](https://github.com/Chiranthana27)
 - Lipika Saravanan
 - FIRST ONE
+- [minirang](https://github.com/minirang)
+- [Pratiksha Bade](https://github.com/pratikshabade09)
+- [Karavind Kannaa V S](https://github.com/23f2000091)
+-[Aniruddh Khasanis](https://github.com/Anii109)
+-[Mrinal Kadam](https://github.com/mrinal97-tech)
+- [SteveLuo](https://github.com/Saudade77)
+- [Waqar Wani](https://github.com/Waqar-Wani)
