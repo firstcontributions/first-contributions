@@ -5,6 +5,7 @@
 -[Divyanshu Kumar](https://github.com/dgiitm)
 - [Temesgen Geta] (https://github.com/nigusmamo)
 - [chandra kireeti](https://github.com/kireetikotturu)
+- [Afaq Shahid Khan](https://github.com/AfaqShahidKhan)
 - - [Rahul Chaube](https://github.com/Rahulchaube1)
 - [Luca-Python](https://github.com/luca-python)
 - [Gautam Kumawat](https://github.com/gautam9892)
