@@ -1,8 +1,14 @@
 # Contributors
+- [DhirajB05](https://github.com/DhirajB05)
+- [tomroy2026](https://github.com/tomroy2026)
+- [Devansh jani](https://github.com/DEV1208)
 [sejal wattamwar](https://github.com/sejal88944)
+-[Halcyon Man](https://github.com/halcyon-man)
 -[Arul Cornelious](https://github.com/Arul1998)
 -[Divyanshu Kumar](https://github.com/dgiitm)
+- [Temesgen Geta] (https://github.com/nigusmamo)
 - [chandra kireeti](https://github.com/kireetikotturu)
+- [Afaq Shahid Khan](https://github.com/AfaqShahidKhan)
 - - [Rahul Chaube](https://github.com/Rahulchaube1)
 - [Luca-Python](https://github.com/luca-python)
 - [Gautam Kumawat](https://github.com/gautam9892)
@@ -48,6 +54,7 @@ Alicexxxx
 - [Biruk]
 - [Diksha Upadhyay](https://github.com/23f2004211)
 - [Prakhyath Bandaluppi](https://github.com/prakhyath1501)
+[Parvathi Supreeth](https://github.com/parvathisupreeth)
 - [Laureano](https://github.com/Staindek)
 - [Kartik Borse](https://github.com/Kartik-borse)
   [Rituraj Tripathi](https://github.com/Sandilya69)
@@ -2209,6 +2216,7 @@ Merjen Amanmuradova
 - [Inesh Vijay](https://github.com/ineshvijayvergiya)
 - [Aishwarya](https://github.com/Aishwrya-029)
 - [Aryan Thakur](https://github.com/aryanthakur6601-del)
+- [ByteTechno](https://github.com/ByteTechno)
 - [Tanvi Sharma]_(https://github.com/07Tanvi)
 - Saumay
 - [Rudra-Kumar](https://github.com/Rudra-RNC)
@@ -2236,6 +2244,7 @@ Merjen Amanmuradova
 - [Sanjeev Uppu](https://github.com/Sanjeev-Uppu)
 - Yaroslav Fashevskyi
 - [Lokagagan K S] (https://github.com/24f3004113)
+-jjjj
 - [24f2000838](https://github.com/24f2000838)
 -[Harsh Palas](https://github.com/harshpalas)
 - [oxtknight](https://github.com/oxtknight)
@@ -2299,4 +2308,10 @@ Merjen Amanmuradova
 - FIRST ONE
 - [minirang](https://github.com/minirang)
 - [Pratiksha Bade](https://github.com/pratikshabade09)
+- [Karavind Kannaa V S](https://github.com/23f2000091)
 -[Aniruddh Khasanis](https://github.com/Anii109)
+-[Mrinal Kadam](https://github.com/mrinal97-tech)
+- [SteveLuo](https://github.com/Saudade77)
+- [Waqar Wani](https://github.com/Waqar-Wani)
+-[Melvin Mohan Daniel] (https://github.com/melvincodesk)
+jieting-[ych3star](https://github.com/ych3star)
