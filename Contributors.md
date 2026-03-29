@@ -508,6 +508,7 @@ Austin L.
 - [AhmadObeid](https://github.com/AhmadObeid)
 - [AyorindeAdunse](https://github.com/ayorindeadunse)
 - [Ahmed Elshwil](https://github.com/elshwilahmed)
+- [Mridul Verma](https://github.com/mridul-verma2005)
 - [Ahmed Yasir](https://github.com/ahmedyasir779)
 - [Aiman](https://github.com/PX201)
 - [Aissatou Mbaye](https://github.com/AissatouMbaye19)
