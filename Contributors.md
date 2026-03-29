@@ -27,7 +27,7 @@
 - [Zacarias Casimiro](https://github.com/zcasimir39)
 - [Jane Doe]
 - [Biruk]
-- [Diksha Upadhyay] (https://github.com/23f2004211)
+
 - [Kartik Borse](https://github.com/Kartik-borse)
   [Rituraj Tripathi](https://github.com/Sandilya69)
 - [Shaurya Adarsh](https://github.com/shauryaadarsh)
@@ -208,7 +208,7 @@ Arman P
  - [Adedamola Aina](https://github.com/Adedamola007)
 - [Ankush Gulia](https://github.com/ankushkgulia)
 - [Boussaid Louai](https://github.com/lou-bou)
-- 
+- [Diksha Upadhyay](https://github.com/23f2004211)
 - [CP2]
 - [Archiii]
 - [Ishwinder]
