@@ -1,7 +1,7 @@
 # Contributors
 - [Devansh jani](https://github.com/DEV1208)
 - [sejal wattamwar](https://github.com/sejal88944)
--[Divyanshu Kumar](https://github.com/dgiitm)
+- [Divyanshu Kumar](https://github.com/dgiitm)
 - [chandra kireeti](https://github.com/kireetikotturu)
 - - [Rahul Chaube](https://github.com/Rahulchaube1)
 - [Luca-Python](https://github.com/luca-python)
