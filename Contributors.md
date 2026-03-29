@@ -1,6 +1,7 @@
 # Contributors
 - [Devansh jani](https://github.com/DEV1208)
 [sejal wattamwar](https://github.com/sejal88944)
+-[Halcyon Man](https://github.com/halcyon-man)
 -[Arul Cornelious](https://github.com/Arul1998)
 -[Divyanshu Kumar](https://github.com/dgiitm)
 - [Temesgen Geta] (https://github.com/nigusmamo)
