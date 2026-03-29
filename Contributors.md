@@ -48,6 +48,7 @@ Alicexxxx
 - [Jane Doe]
 - [Biruk]
 - [Prakhyath Bandaluppi](https://github.com/prakhyath1501)
+[Parvathi Supreeth](https://github.com/parvathisupreeth)
 - [Laureano](https://github.com/Staindek)
 
 - [Kartik Borse](https://github.com/Kartik-borse)
