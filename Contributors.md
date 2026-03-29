@@ -2293,3 +2293,4 @@ Merjen Amanmuradova
 - [Chiranthana S](https://github.com/Chiranthana27)
 - Lipika Saravanan
 - FIRST ONE
+- [minirang](https://github.com/minirang)
