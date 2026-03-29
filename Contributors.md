@@ -1,4 +1,5 @@
 # Contributors
+- [Kritika844](https://github.com/Kritika844)
 - [DhirajB05](https://github.com/DhirajB05)
 - [tomroy2026](https://github.com/tomroy2026)
 - [Devansh jani](https://github.com/DEV1208)
