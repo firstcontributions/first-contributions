@@ -2306,3 +2306,4 @@ Merjen Amanmuradova
 -[Aniruddh Khasanis](https://github.com/Anii109)
 -[Mrinal Kadam](https://github.com/mrinal97-tech)
 - [SteveLuo](https://github.com/Saudade77)
+- [Waqar Wani](https://github.com/Waqar-Wani)
