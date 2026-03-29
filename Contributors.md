@@ -121,6 +121,7 @@ Seif Alsayad
 - | Sundaram Singh | [your-github](https://github.com/23f1002470) |
 - [Thecapstone Mogbolu](https://github.com/Thecapstone)
 - [Pankaj vishwakarma](https://github.com/pk-arma)
+- [Anthonia Egwoyi](http://github.com/anthoniaoine)
 - [Yashi Chaudhary](https://github.com/Yashee05)
 - [Fuzail] (https://github.com/24f2007795)
 - [Thecapstone Mogbolu](https://github.com/Thecapstone)
