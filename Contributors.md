@@ -1,10 +1,15 @@
 # Contributors
+- [Anup](https://github.com/23f3002432)
+- [Kritika844](https://github.com/Kritika844)
+- [DhirajB05](https://github.com/DhirajB05)
+- [tomroy2026](https://github.com/tomroy2026)
 - [Devansh jani](https://github.com/DEV1208)
 - [sejal wattamwar](https://github.com/sejal88944)
 - [Arul Cornelious](https://github.com/Arul1998)
 - [Divyanshu Kumar](https://github.com/dgiitm)
 - [Temesgen Geta](https://github.com/nigusmamo)
 - [chandra kireeti](https://github.com/kireetikotturu)
+- [Afaq Shahid Khan](https://github.com/AfaqShahidKhan)
 - - [Rahul Chaube](https://github.com/Rahulchaube1)
 - [Luca-Python](https://github.com/luca-python)
 - [Gautam Kumawat](https://github.com/gautam9892)
@@ -48,10 +53,10 @@ Alicexxxx
 - [Zacarias Casimiro](https://github.com/zcasimir39)
 - [Jane Doe]
 - [Biruk]
+- [Diksha Upadhyay](https://github.com/23f2004211)
 - [Prakhyath Bandaluppi](https://github.com/prakhyath1501)
 [Parvathi Supreeth](https://github.com/parvathisupreeth)
 - [Laureano](https://github.com/Staindek)
-
 - [Kartik Borse](https://github.com/Kartik-borse)
   [Rituraj Tripathi](https://github.com/Sandilya69)
 - [Shaurya Adarsh](https://github.com/shauryaadarsh)
@@ -225,6 +230,7 @@ Arman P
 - [Jules Cinc] (https://https://github.com/JulesCinc)
 - [Vishwajeet_Kanase](https://github.com/vishwajeetkanase)
 - [Shiva Kumar](https://github.com/shiva-kumar04)
+- [8saku](https://github.com/8saku8)
 - [vamshi kiran](https://github.com/vamshikiran065-jpg)
 - [itzharshini](https://github.com/itzharshini)
 - [Sahilarora83](https://github.com/Sahilarora83)
@@ -427,6 +433,7 @@ itachi
 - [Jatin](https://github.com/Lord-Jastannum)
 - [HIMANSHU_AGRAWAL](https://github.com/Himanshuagrawal2003)
 - abubakar
+- [gfjdgfjhdgfuegfui]
 -[Tommmy]
 -[yayme]
 - [sancer](https://github.com/SantCer/first-contributions.git)
@@ -898,6 +905,7 @@ Steve
 - [Iyed Rabia](https://github.com/Iyed-Rb)
 - [Varshitha](https://github.com/dobbydobap)
 - [Jinnarajin] (https://github.com/jinnarajin)
+- [Adithya D K](https://github.com/curiousdk29)
 - [JASP-R](https://github.com/JASP-R)
 - [JBetz-Dev](https://github.com/JBetz-Dev)
 - [JJFJ](https://github.com/PugKing22)
@@ -2212,6 +2220,7 @@ Merjen Amanmuradova
 - [Inesh Vijay](https://github.com/ineshvijayvergiya)
 - [Aishwarya](https://github.com/Aishwrya-029)
 - [Aryan Thakur](https://github.com/aryanthakur6601-del)
+- [ByteTechno](https://github.com/ByteTechno)
 - [Tanvi Sharma]_(https://github.com/07Tanvi)
 - Saumay
 - [Rudra-Kumar](https://github.com/Rudra-RNC)
@@ -2308,3 +2317,10 @@ Merjen Amanmuradova
 -[Mrinal Kadam](https://github.com/mrinal97-tech)
 - [SteveLuo](https://github.com/Saudade77)
 - [Waqar Wani](https://github.com/Waqar-Wani)
+-[Melvin Mohan Daniel] (https://github.com/melvincodesk)
+jieting-[ych3star](https://github.com/ych3star)
+-[Sahan](https://github.com/Sahan-k)
+-Aryan Sharma(https://github.com/aryanIPS)
+-Lalithkishore
+-Mihir Panjikar(https://github.com/Mihir-Panjikar/)
+- [Musaab Al-Ubaidi](https://github.com/24f2006299)
