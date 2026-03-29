@@ -150,6 +150,7 @@ Arman P
 - [Teresia Wairimu](https://github.com/teresiawairimu)
 - [Rick I](https://github.com/Rick-I)
 - [Julian Andres](https://github.com/julianandresdev)
+- [Pushpak](https://github.com/pushpakjain628/)
 - [REH](https://github.com/RODRIGO-ENH/)
 - [Peter Kohari](https://github.com/KOHIPEET)
 - [Vaishnav Bose](https://github.com/Vaishnav2606)
