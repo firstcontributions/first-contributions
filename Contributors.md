@@ -2305,3 +2305,4 @@ Merjen Amanmuradova
 - [Karavind Kannaa V S](https://github.com/23f2000091)
 -[Aniruddh Khasanis](https://github.com/Anii109)
 -[Mrinal Kadam](https://github.com/mrinal97-tech)
+- [Waqar Wani](https://github.com/Waqar-Wani)
