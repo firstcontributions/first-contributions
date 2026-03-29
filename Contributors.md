@@ -2337,3 +2337,4 @@ jieting-[ych3star](https://github.com/ych3star)
 - [Devanshu Dhyanu](https://github.com/Devanshu-Dhyanu)
 - [GauravJha](https://github.com/your-23f2001550)
 - Vignesh Karthick I
+- [Pranshu Joshi](https://github.com/Praanshu-joshi)
