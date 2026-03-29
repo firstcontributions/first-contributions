@@ -2292,6 +2292,7 @@ Merjen Amanmuradova
 - [Sahil Kumar](https://github.com/Sahil18th)
 - [Jayesh Kumar Singh](https://github.com/jayeshkumarsingh11)
 - [24f2000903]
+- [valar-22]
 - [Avhi-kr](https://github.com/Avhi-kr)
 - - [VivekGitNinja](https://github.com/VivekGitNinja)
 - [Louise Braga] (https://github.com/LouiseBraga)
@@ -2329,3 +2330,6 @@ jieting-[ych3star](https://github.com/ych3star)
 - [Musaab Al-Ubaidi](https://github.com/24f2006299)
 - [Jarrett West](https://github.com/jaydubya818)
 - [CaiAo](https://github.com/LaobaiAi)
+- [Hidzy](https://github.com/HidzzY)
+- [Dipal Parmar](https://github.com/dipalparmar)
+- [Devanshu Dhyanu](https://github.com/Devanshu-Dhyanu)
