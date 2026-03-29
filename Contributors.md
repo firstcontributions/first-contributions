@@ -2313,7 +2313,7 @@ Merjen Amanmuradova
 - [Arjun-codess](https://github.com/Arjun-codess).
 - [Chiranthana S](https://github.com/Chiranthana27)
 - Lipika Saravanan
-- FIRST ONE
+- [Mend-Amar Badral](https://github.com/MendeBadra)
 - [minirang](https://github.com/minirang)
 - [Pratiksha Bade](https://github.com/pratikshabade09)
 - [Karavind Kannaa V S](https://github.com/23f2000091)
