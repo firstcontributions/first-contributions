@@ -1,5 +1,6 @@
 # Contributors
 
+- [Kritika844](https://github.com/Kritika844)
 - [DhirajB05](https://github.com/DhirajB05)
 - [tomroy2026](https://github.com/tomroy2026)
 - [Devansh jani](https://github.com/DEV1208)
@@ -887,6 +888,7 @@
 - [Iyed Rabia](https://github.com/Iyed-Rb)
 - [Varshitha](https://github.com/dobbydobap)
 - [Jinnarajin] (https://github.com/jinnarajin)
+- [Adithya D K](https://github.com/curiousdk29)
 - [JASP-R](https://github.com/JASP-R)
 - [JBetz-Dev](https://github.com/JBetz-Dev)
 - [JJFJ](https://github.com/PugKing22)
@@ -2277,3 +2279,7 @@
 - [Waqar Wani](https://github.com/Waqar-Wani) -[Melvin Mohan Daniel] (https://github.com/melvincodesk)
   jieting-[ych3star](https://github.com/ych3star)
 - [Khettab Driss](https://github.com/Driss-Khettab)
+- [Waqar Wani](https://github.com/Waqar-Wani)
+-[Melvin Mohan Daniel] (https://github.com/melvincodesk)
+jieting-[ych3star](https://github.com/ych3star)
+-[Sahan](https://github.com/Sahan-k)
