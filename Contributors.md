@@ -2264,9 +2264,6 @@ Merjen Amanmuradova
 - [Akhil Madikanti](https://github.com/24f2006274)
 - [Khushi Kumari](https://github.com/khushi5-js)
 - [Anson Chen](https://github.com/zhonganchen-anson)
-- [BetterThanYou](https://github.com/Better-Than-You)
-- Better-than-you
-- [Better-Than-You]
 - [M Fakhri Randy](https://github.com/siapalahsayaini)
 - Rishav Chandra (22f1001685@ds.study.iitm.ac.in)
 - [hidetzu](https://github.com/hidetzu)
