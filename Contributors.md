@@ -1,4 +1,5 @@
 # Contributors
+- [Arya Pande](https://github.com/ChinmayIITM)
 - [Kritika844](https://github.com/Kritika844)
 - [DhirajB05](https://github.com/DhirajB05)
 - [tomroy2026](https://github.com/tomroy2026)
