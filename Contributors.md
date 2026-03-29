@@ -1,4 +1,5 @@
 # Contributors
+- [Devansh jani](https://github.com/DEV1208)
 [sejal wattamwar](https://github.com/sejal88944)
 -[Arul Cornelious](https://github.com/Arul1998)
 -[Divyanshu Kumar](https://github.com/dgiitm)
@@ -48,6 +49,7 @@ Alicexxxx
 - [Jane Doe]
 - [Biruk]
 - [Prakhyath Bandaluppi](https://github.com/prakhyath1501)
+[Parvathi Supreeth](https://github.com/parvathisupreeth)
 - [Laureano](https://github.com/Staindek)
 
 - [Kartik Borse](https://github.com/Kartik-borse)
