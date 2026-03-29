@@ -2297,3 +2297,4 @@ Merjen Amanmuradova
 - Lipika Saravanan
 - FIRST ONE
 - [minirang](https://github.com/minirang)
+- [lolLorris](https://github.com/lolLorris)
