@@ -903,6 +903,7 @@ Steve
 - [Iyed Rabia](https://github.com/Iyed-Rb)
 - [Varshitha](https://github.com/dobbydobap)
 - [Jinnarajin] (https://github.com/jinnarajin)
+- [Adithya D K](https://github.com/curiousdk29)
 - [JASP-R](https://github.com/JASP-R)
 - [JBetz-Dev](https://github.com/JBetz-Dev)
 - [JJFJ](https://github.com/PugKing22)
