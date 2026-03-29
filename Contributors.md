@@ -420,6 +420,7 @@ itachi
 - [24f3003274-RISHABH](https://github.com/24f3003274-RISHABH)
 - [@Zakiahsan-arch](https://github.com/Zakiahsan-arch)
 - [Sanchana](https://github.com/Sanchana05)
+- [Dan Kafando] (https://github.com/avatGit)
 - [A Szpatowski](https://github.com/aszpatowski)
 - [AC](https://github.com/FortKnoxWasTaken)
 [Prashant Raj][https://github.com/prashantraj4105]
