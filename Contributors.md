@@ -639,6 +639,7 @@ RLeish
 - [Anushka Aggarwal](https://github.com/anushka146)
 - [Sumit Sourabh](https://github.com/Sumit-sourabh45)
 - [Mohammad Kashan](https://github.com/23f2003821)
+- [Rafael Dutra Basso](https://github.com/rafaeldutrabasso)
 - [Rafael Ghiorzi](https://github.com/rafaelghiorzi)
 - [Anushree](https://github.com/Anushree)
 - [Anushtha Mishra](https://github.com/Anushtha-Mishra)
