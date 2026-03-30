@@ -191,6 +191,7 @@ Arman P
 - [Prithviraj Tandel](https://github.com/NSKY0808)
 - [Yamin Hossain] (https://github.com/yamin-H)
 - [Teresia Wairimu](https://github.com/teresiawairimu)
+- [THIRUNAGARISAIRAMCHARAN](https://github.com/THIRUNAGARISAIRAMCHARAN)
 - [Rick I](https://github.com/Rick-I)
 - [Julian Andres](https://github.com/julianandresdev)
 - [Pushpak](https://github.com/pushpakjain628/)
