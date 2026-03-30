@@ -858,6 +858,7 @@ Steve
 - [Gui Jingzhao](https://github.com/PersianCat-tech)
 - [Guilherme Gomes](https://github.com/guilhermeGH900)
 - [Guna ](https://github.com/gunavardhan11)
+- [Siva IITM](https://github.com/siva-IITM)
 - [Gxelol](https://github.com/Gxelol)
 - [Gyan Prakash](https://github.com/Gyanprakash136)
 - [Gyanam Bhalgat](https://github.com/Gyanam1310)
