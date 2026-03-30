@@ -15,6 +15,7 @@
 -[Chakri](https://github.com/chakri)
 -[Halcyon Man](https://github.com/halcyon-man)
 -[Arul Cornelious](https://github.com/Arul1998)
+-[Aditya Swain](https://github.com/23f3004358)
 -[Prashant Ranjan](https://github.com/23f2002267)
 -[Divyanshu Kumar](https://github.com/dgiitm)
 - [Temesgen Geta] (https://github.com/nigusmamo)
