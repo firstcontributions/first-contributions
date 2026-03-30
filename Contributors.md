@@ -1866,6 +1866,7 @@ Rithvik
 - [BuffyCode](https://github.com/BuffyCode)
 - [swaraj reddy](https://github.com/swarajreddy10)
 - [sxpar](https://github.com/sxpar)
+- [dev joshi](https://github.com/23f2001743-blip)
 - [table106](https://github.com/table106)
 - [kaiittlou](https://github.com/kaiittlou)
 - [aiphru](https://github.com/Aiphru)
