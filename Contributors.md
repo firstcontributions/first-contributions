@@ -984,6 +984,7 @@ Steve
 - [Joe Rawnsley](https://github.com/joerawnsley)
 - [Juan Espinosa](https://github.com/juanEspinosa-design)
 - [Akshay](https://github.com/Dainampally-Akshay18)
+- [Joel Josy](https://github.com/JoelJosy)
 - [Joel Singh](https:/github.com/Joel-Singh)
 - [Joey Grengs](https://github.com/papajpg)
 - [Johan](https://github.com/Johan621)
