@@ -79,8 +79,6 @@
 - [Deepa Muthukrishnan](https://github.com/DeepaMuthu)
 - [Shreyas](https://github.com/24f1002699)
 - [Md.Habibur Rahman](https://github.com/himaloy007/)
-- [hello]()
-  hello ji
 - [suman-kumar](https://github.com/sumankr1211)
 - [Katio-Kyou](https://github.com/Katio-Kyou)
   Seif Alsayad
