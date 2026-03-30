@@ -2368,6 +2368,7 @@ jieting-[ych3star](https://github.com/ych3star)
 - [Pranshu Joshi](https://github.com/Praanshu-joshi)
 - [Enigma7-q](https://github.com/Enigma7-q)
 - [Somya](https://github.com/23f3003596)
+- [Newsworld](https://github.com/Newsworld-niu)
 - [Khushi Dangarh](https://github.com/24f2004980-khushi)
 - [Athira Binod](https://github.com/AthiraBinod-19)
 - 22f3001808@ds.study.iitm.ac.in -> https://github.com/22f3001808
