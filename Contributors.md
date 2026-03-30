@@ -1,4 +1,5 @@
 # Contributors
+- [Anuj Kaushik](https://github.com/Ajkaushik9045)
 - [Faizan Imran](https://github.com/Faizanimran)
 - [Anup](https://github.com/23f3002432)
 - [Kritika844](https://github.com/Kritika844)
