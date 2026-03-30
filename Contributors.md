@@ -1,6 +1,7 @@
 # Contributors
 - Divyanshu Kumar
 - [Abhinav Maurya](https://github.com/fire162)
+- [Edlyn Jessica Philip](https://github.com/edlynjessica)
 - [Rajath Kiran A](https://github.com/Rajath2005)
 - [Anuj Kaushik](https://github.com/Ajkaushik9045)
 - [Aniket Mankoo](https://github.com/MankooAniket)
