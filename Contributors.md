@@ -1,5 +1,6 @@
 # Contributors
 - [Anuj Kaushik](https://github.com/Ajkaushik9045)
+- [Aniket Mankoo](https://github.com/MankooAniket)
 - [abdul7867](https://github.com/abdul7867)
 - [Faizan Imran](https://github.com/Faizanimran)
 - [Anup](https://github.com/23f3002432)
