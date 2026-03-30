@@ -2364,3 +2364,5 @@ jieting-[ych3star](https://github.com/ych3star)
 - [Siddharth Sahu](https://github.com/22f3002567)
 - [Akshat Singh](https://github.com/akshat-collab)
 - [Sanjay Baskar](https://github.com/23f2002596)
+- [Nazar](https://github.com/nazmashovets74)
+
