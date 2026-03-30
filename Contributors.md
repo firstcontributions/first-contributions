@@ -2,6 +2,7 @@
 - [Anuj Kaushik](https://github.com/Ajkaushik9045)
 - [Faizan Imran](https://github.com/Faizanimran)
 - [Anup](https://github.com/23f3002432)
+- [Vaishnavi Jaiswal](https://github.com/Vaishnavi04102005)
 - [Kritika844](https://github.com/Kritika844)
 - [DhirajB05](https://github.com/DhirajB05)
 - [tomroy2026](https://github.com/tomroy2026)
