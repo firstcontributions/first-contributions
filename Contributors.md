@@ -11,6 +11,7 @@
 [sejal wattamwar](https://github.com/sejal88944)
 - [Ryan Goods](https://github.com/feelgooddd)
 -[paulo fernandez ](https://github.com/pauloafq)
+-[Chakri](https://github.com/chakri)
 -[Halcyon Man](https://github.com/halcyon-man)
 -[Arul Cornelious](https://github.com/Arul1998)
 -[Prashant Ranjan](https://github.com/23f2002267)
