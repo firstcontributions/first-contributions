@@ -191,7 +191,7 @@ Push your changes using the command `git push`:
 git push -u origin your-branch-name
 ```
 
-replacing `your-branch-name` with the name of the branch you created earlier.
+replacing `your-branch-name` with the name of the branch you created prior.
 
 <details>
 <summary> <strong>If you get any errors while pushing, click here:</strong> </summary>
