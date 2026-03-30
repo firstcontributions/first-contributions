@@ -13,6 +13,7 @@
 - [Faizan Imran](https://github.com/Faizanimran)
 - [Anup](https://github.com/23f3002432)
 - [Vaishnavi Jaiswal](https://github.com/Vaishnavi04102005)
+- [Kristipati Thoyajaksha Kashyap](https://github.com/kristipatithoyajakshakashyap)
 - [Cristina Ayala] (https://github.com/acristinaa)
 - [Kritika844](https://github.com/Kritika844)
 - [KshitijMJ](https://github.com/21f3002019/)
