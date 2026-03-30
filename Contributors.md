@@ -5,6 +5,7 @@
 - [tomroy2026](https://github.com/tomroy2026)
 - [Devansh jani](https://github.com/DEV1208)
 [sejal wattamwar](https://github.com/sejal88944)
+- [Ryan Goods](https://github.com/feelgooddd)
 -[Halcyon Man](https://github.com/halcyon-man)
 -[Arul Cornelious](https://github.com/Arul1998)
 -[Prashant Ranjan](https://github.com/23f2002267)
@@ -2344,4 +2345,9 @@ jieting-[ych3star](https://github.com/ych3star)
 - - [Shreenidhi](https://github.com/shreenidhi180305)
 - [Pranshu Joshi](https://github.com/Praanshu-joshi)
 - [Enigma7-q](https://github.com/Enigma7-q)
+
 [Nandani](https://github.com/Nandani567)
+
+- [Somya](https://github.com/23f3003596)
+- [Khushi Dangarh](https://github.com/24f2004980-khushi)
+
