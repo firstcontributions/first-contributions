@@ -470,6 +470,7 @@ itachi
 - [RandomAimXD](https://github.com/RandomAimXD)
 - [RibelAI](https://github.com/RibelAI)
 - [AJ Gyro](https://github.com/AJGyro)
+- [JohannMawrin](https://github.com/JohannMawrin)
 - [Leon](https://github.com/Leonels12)
   - [JosecalderonGIT10](https://github.com/JosecalderonGIT10)
 - [Akshat Singhai](https://github.com/akshatsinghai6682-sketch)
