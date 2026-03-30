@@ -145,6 +145,7 @@ Seif Alsayad
 [- k-mirembe-mercy]
  [Likitha Tummapudi](https://github.com/LikithaTummapudi)
 - [Kyle Scritten](https://github.com/KyleScritten)
+- [Slimzeo Cloud](https://github.com/Slimzeo)
 Arman P
 - [Peter McGee](https://github.com/pmcgee-personal)
 - [Mordernpc](https://github.com/mordernpc82-coder)
