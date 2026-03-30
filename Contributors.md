@@ -1764,6 +1764,7 @@ Rithvik
 - [koolkosmos](https://github.com/koolkosmos)
 - [lamKKe](https://github.com/lamKKe)
 - [laura-beja](https://github.com/laura-beja)
+- [laurapiro17](https://github.com/laurapiro17)
 - [law880](https://github.com/law880)
 - [lennyhurni](https://github.com/lennyhurni)
 - [lepickel](https://github.com/lepickel)
