@@ -519,6 +519,7 @@ Austin L.
 - [Mridul Verma](https://github.com/mridul-verma2005)
 - [Ahmed Yasir](https://github.com/ahmedyasir779)
 - [Aiman](https://github.com/PX201)
+- [Alejandro Parra](https://github.com/Alejandroparra08)
 - [Aissatou Mbaye](https://github.com/AissatouMbaye19)
 - [Akash Dhamane](https://github.com/explore)
 - [Akashi Shogo](https://github.com/AkashiShogo)
