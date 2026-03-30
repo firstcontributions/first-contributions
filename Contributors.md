@@ -989,6 +989,7 @@ Steve
 - [Jewel Geea George](https://github.com/)
 - [Raheem Fatai Olalekan](https://github.com/Adebayorr)
 - [Jiaqi Fan](https://github.com/jiaqifan42)
+- [Jihan Sakariya](https://github.com/JihanS07)
 - [Jingyi Lu](https://github.com/lulu61000)
 - [Joaquin D](https://github.com/Joaco273)
 - [Joe Rawnsley](https://github.com/joerawnsley)
