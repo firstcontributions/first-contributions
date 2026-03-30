@@ -16,6 +16,7 @@
 - [Kristipati Thoyajaksha Kashyap](https://github.com/kristipatithoyajakshakashyap)
 - [Cristina Ayala] (https://github.com/acristinaa)
 - [Kritika844](https://github.com/Kritika844)
+- [Nirav] (https://github.com/niravkpatel36)
 - [KshitijMJ](https://github.com/21f3002019/)
 - [Arjun Kallurkar](https://github.com/quasar-011)
 - [DhirajB05](https://github.com/DhirajB05)
