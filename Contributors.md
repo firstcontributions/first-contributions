@@ -9,6 +9,7 @@
 - [Vaishnavi Jaiswal](https://github.com/Vaishnavi04102005)
 - [Cristina Ayala] (https://github.com/acristinaa)
 - [Kritika844](https://github.com/Kritika844)
+- [Arjun Kallurkar](https://github.com/quasar-011)
 - [DhirajB05](https://github.com/DhirajB05)
 - [tomroy2026](https://github.com/tomroy2026)
 - [Devansh jani](https://github.com/DEV1208)
