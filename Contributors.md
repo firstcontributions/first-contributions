@@ -971,6 +971,7 @@ Steve
 - [Jesus Rey Gonzalez](https://github.com/jesusthecreator017)
 - [Jesús Martín](https://github.com/jesmarver)
 - [Jewel Geea George](https://github.com/)
+- [Raheem Fatai Olalekan](https://github.com/Adebayorr)
 - [Jiaqi Fan](https://github.com/jiaqifan42)
 - [Jingyi Lu](https://github.com/lulu61000)
 - [Joaquin D](https://github.com/Joaco273)
