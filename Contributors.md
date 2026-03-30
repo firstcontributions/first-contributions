@@ -1,4 +1,5 @@
 # Contributors
+- Divyanshu Kumar
 - [Rajath Kiran A](https://github.com/Rajath2005)
 - [Anuj Kaushik](https://github.com/Ajkaushik9045)
 - [Aniket Mankoo](https://github.com/MankooAniket)
@@ -8,12 +9,14 @@
 - [Vaishnavi Jaiswal](https://github.com/Vaishnavi04102005)
 - [Cristina Ayala] (https://github.com/acristinaa)
 - [Kritika844](https://github.com/Kritika844)
+- [Arjun Kallurkar](https://github.com/quasar-011)
 - [DhirajB05](https://github.com/DhirajB05)
 - [tomroy2026](https://github.com/tomroy2026)
 - [Devansh jani](https://github.com/DEV1208)
 [sejal wattamwar](https://github.com/sejal88944)
 - [Ryan Goods](https://github.com/feelgooddd)
 -[paulo fernandez ](https://github.com/pauloafq)
+-[Shreyas Bandekar](https://github.com/Shreyas-Bandekar)
 -[Chakri](https://github.com/chakri)
 -[Halcyon Man](https://github.com/halcyon-man)
 -[Arul Cornelious](https://github.com/Arul1998)
@@ -30,6 +33,7 @@
 - [Diana Araujo](https://github.com/dianadesiree)
 -[Sutharsan Albert](https://github.com/softwarefarmer)
 [wudong](https://github.com/wherefindme)
+-Noor
 - [Rishav Kumar](https://github.com/21f3002244)
 - [Jatish Chawla](https://github.com/Jatishchawla)
 -[Krishna_KVH](https://github.com/Krishna_KVH)
@@ -37,6 +41,7 @@
 -[Sasmita Das](https://github.com/D-sasmita)
 - [Kava Flask](https://github.com/kavaflask)
 Alicexxxx
+  
 - [MdSourav76046](https://github.com/MdSourav76046)
 - [Somesh Singh](https://github.com/YOUR-USERNAME)
 - [Vishal Jakhar](https://github.com/vishal1011001)
@@ -145,6 +150,7 @@ Seif Alsayad
 [- k-mirembe-mercy]
  [Likitha Tummapudi](https://github.com/LikithaTummapudi)
 - [Kyle Scritten](https://github.com/KyleScritten)
+- [Slimzeo Cloud](https://github.com/Slimzeo)
 Arman P
 - [Peter McGee](https://github.com/pmcgee-personal)
 - [Mordernpc](https://github.com/mordernpc82-coder)
@@ -2362,6 +2368,7 @@ jieting-[ych3star](https://github.com/ych3star)
 - [Somya](https://github.com/23f3003596)
 - [Khushi Dangarh](https://github.com/24f2004980-khushi)
 - [Athira Binod](https://github.com/AthiraBinod-19)
+- 22f3001808@ds.study.iitm.ac.in -> https://github.com/22f3001808
 -Lalithya
 - [Vaibhav Yadav](https://github.com/v-vaibhav07)
 - [Siddharth Sahu](https://github.com/22f3002567)
@@ -2369,4 +2376,3 @@ jieting-[ych3star](https://github.com/ych3star)
 - [Sanjay Baskar](https://github.com/23f2002596)
 - [Ipshita Karmakar](https://github.com/IpshitaKarmakar)
 - [Sudarshan Raut](https://github.com/Sudarshan-Raut)
-[Ian Frihk](https://github.com/Frihk)
