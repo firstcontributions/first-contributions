@@ -94,6 +94,7 @@ Seif Alsayad
 - [penafortemarco](https://github.com/penafortemarco)
 - [Prudhvi](https://github.com/prudhvisai26)
 - [Pedro Daniel Souza Leal]
+- [Saumajit Malakar](https://github.com/Saumajitt)
 - [SbasLpz](https://github.com/SbasLpz)
 - [Awais](https://github.com/awaisasghaar)
 - [Abhay Sharma](https://github.com/asabhaysharma)
