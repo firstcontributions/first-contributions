@@ -2,6 +2,7 @@
 - [Abhishek](https://github.com/abhishek-21f2000477)
 - Divyanshu Kumar
 - [Abhinav Maurya](https://github.com/fire162)
+- Amster [2k5]
 - [Edlyn Jessica Philip](https://github.com/edlynjessica)
 - [Rajath Kiran A](https://github.com/Rajath2005)
 - [Anuj Kaushik](https://github.com/Ajkaushik9045)
