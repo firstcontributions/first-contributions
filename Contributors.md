@@ -812,6 +812,7 @@ Ben
 - [Will](https://github.com/CrimsonKarma44)
 - [Dinithi Gunathilake](https://github.com/Dinithi-Gunathilake)
 - [Disha520](https://github.com/Disha520)
+- [Divya1S](https://github.com/Divya1S)
 - [Divyam Pariyar](https://github.com/div-html)
 - [Divyom Srivastava](https://github.com/DivyomSrivastava)
 - [Diya Dharmendra](https://github.com/DiyaDSV)
