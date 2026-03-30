@@ -172,6 +172,7 @@ Arman P
 - [Shriman Maheshwari](https://github.com/shriman181)
 - [Akshay Bolishetti](https://github.com/BolishettiAkshay)
 - [Ashish Prakash Ojha](https://github.com/ashishprakashojha)
+- [Rithwik Chaitanya](https://github.com/Rithwik09)
 - [Sanjeev Ragunathan](https://github.com/sanjeev-rm)
 - [Nishi Mandhana](https://github.com/nmandhana)
 - [James Hillman]https://github.com/skillman85
