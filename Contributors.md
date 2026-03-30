@@ -643,7 +643,7 @@ RLeish
 - [Abdul Majid](https://github.com/abdulmajid124)
 - [Vlad M](https://github.com/mgnzee)
 - [Athulkrishna](https://github.com/AthulKrishna-736)
-
+- Ari Young
 - [AvAdiii](https://github.com/AvAdiii)
 - [Ava16](https://github.com/Ava16)
 - [Avatar](https://github.com/ayush1944)
