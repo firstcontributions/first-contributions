@@ -120,7 +120,7 @@ Seif Alsayad
 - shriman181
 -[Neha Dubey](https://github.com/Nehainit)
 - [Akash Pandey](http://github.com/thepandeyakash)
-- [Kartikay Bhardwaj](https://github.com/KartikayBhardwaj-dev)
+- [Kartikay-Bhardwaj](https://github.com/KartikayBhardwaj-dev)
 - [Tushar Rana] (https://github.com/Tushar-Rana-13)
 - [Fuzail]
 - [ Saksham Pokharel ](https://github.com/sakshampokharel01-beep)
