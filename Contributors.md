@@ -823,6 +823,7 @@ Ben
 - [Dileep Munji](https://github.com/DileepMunji)
 - [DilekaSadaruwan](https://github.com/DilekaSadaruwan)
 - [Dimal Alagiyawanna](https://github.com/dimal-alagiyawanna)
+- [Fabricio Cubero](https://github.com/FabricioFDP)
 - [Liz Dauster](https://github.com/liz-dauster)
 - [DimondO20](https://github.com/DimondO20)
 - [Dinith Kariyawasam](https://github.com/dinithrk)
