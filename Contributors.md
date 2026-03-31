@@ -15,6 +15,7 @@
 - [Aniket Mankoo](https://github.com/MankooAniket)
 - [abdul7867](https://github.com/abdul7867)
 - [Faizan Imran](https://github.com/Faizanimran)
+-[Alonzo Church3](https://github.com/AlonzoCh) 
 - [Anup](https://github.com/23f3002432)
 - [Vaishnavi Jaiswal](https://github.com/Vaishnavi04102005)
 - [Kristipati Thoyajaksha Kashyap](https://github.com/kristipatithoyajakshakashyap)
