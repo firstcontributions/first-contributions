@@ -1,4 +1,5 @@
 # Contributors
+- Jabir Ahmad🥇
 - [serkansvmz](https://github.com/serkansvmz) 🚀
 - [Abhishek](https://github.com/abhishek-21f2000477)
 -[Aditya Kumar](https://github.com/AdityaKumar188)
