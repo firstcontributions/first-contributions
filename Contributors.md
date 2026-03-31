@@ -55,6 +55,7 @@
 -[Krishna_KVH](https://github.com/Krishna_KVH)
 -[Dheeksha E](https://github.com/dheekshae)
 -[Sasmita Das](https://github.com/D-sasmita)
+- [Vineet Pandey](https://github.com/Vineetpandey0)
 - [Kava Flask](https://github.com/kavaflask)
 Alicexxxx
   
