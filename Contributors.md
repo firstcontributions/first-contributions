@@ -265,6 +265,7 @@ mUchiha26
 - [Eshaan Karanth] -- (https://github.com/EshaanKaranth06)
 - [Muhsil NR](https://github.com/mhlohh)
 - [Anika](https://github.com/MsAnika)
+- HELLO
 - [skntrl] (https://github.com/skntrl)
 - [mohdwajahat] (https://github.com/mohdwajahat)
 - [Paul Duthu](https://github.com/PaulDuthu)
@@ -2431,3 +2432,4 @@ jieting-[ych3star](https://github.com/ych3star)
 - [Sanyam Kumari](https://github.com/sanyam0495)
 - [Ace](https://github.com/LITESPEAKING)
 - [Ning Yao](https://github.com/nyao925)
+- [William](https://github.com/williamchen8653)
