@@ -95,6 +95,7 @@ Alicexxxx
 - [Jane Doe]
 - [Biruk]
 - [Diksha Upadhyay](https://github.com/23f2004211)
+- [Rabia Zulfiqar](https://github.com/rabiazulfiqar1)
 - [Prakhyath Bandaluppi](https://github.com/prakhyath1501)
 [Parvathi Supreeth](https://github.com/parvathisupreeth)
 - [Laureano](https://github.com/Staindek)
