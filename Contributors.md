@@ -2439,4 +2439,8 @@ jieting-[ych3star](https://github.com/ych3star)
 - [Ace](https://github.com/LITESPEAKING)
 - [Ning Yao](https://github.com/nyao925)
 - [JosephRijan](http://github.com/JosephRijan)
+<<<<<<< HEAD
+- [Qirui Xu](https://github.com/qiruixu666-source)
+=======
 - [abhishek](https://github.com/xar43/first-contributions)
+>>>>>>> upstream/main
