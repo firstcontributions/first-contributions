@@ -96,6 +96,7 @@ Alicexxxx
 - [Jane Doe]
 - [Biruk]
 - [Diksha Upadhyay](https://github.com/23f2004211)
+- [Rabia Zulfiqar](https://github.com/rabiazulfiqar1)
 - [Prakhyath Bandaluppi](https://github.com/prakhyath1501)
 [Parvathi Supreeth](https://github.com/parvathisupreeth)
 - [Laureano](https://github.com/Staindek)
@@ -2392,6 +2393,7 @@ Merjen Amanmuradova
 - [Doorbekova Alina](https://github.com/linalina2323)
 - [Arjun-codess](https://github.com/Arjun-codess).
 - [Chiranthana S](https://github.com/Chiranthana27)
+- [ai1971training](https://github.com/ai1971training-cell)
 - Lipika Saravanan
 - FIRST ONE
 - [minirang](https://github.com/minirang)
@@ -2452,3 +2454,4 @@ jieting-[ych3star](https://github.com/ych3star)
 - [Khuman Dhakad](https://github.com/khuman-dhakad)
 - [Navjot Singh](https://github.com/NavjotML)
 
+- [Ninad Nimkar](https://github.com/Ninad-Nimkar)
