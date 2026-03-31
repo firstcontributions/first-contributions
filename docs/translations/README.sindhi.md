@@ -13,7 +13,7 @@
 
 #### _ ھن [ٻين ٻولين ۾] پڙھو (ترجما / ترجما. ايم ڊي) ._
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="ھن ريزاپوزيٽري کي فورڪ ڪيو" />
 
 #### جيڪڏهن توهان کي پنهنجي مشين تي گٽ نه آهي ، ته [انسٽال ڪريو] (https://help.github.com/articles/set-up-git/).
 
@@ -24,7 +24,7 @@
 
 ## مخزن کي کلون
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="ھن ريزاپوزيٽري کي ڪلون ڪيو" />
 
 هاڻي ڪلون محفوظ ڪيل مخزن کي توهان جي مشين ڏانهن پهچايو. پنھنجي GitHub اڪائونٽ ڏانھن وڃو ، فورڪ ٿيل مخزن کي کوليو ، ڪوڊ واري بٽڻ تي ڪلڪ ڪريو ۽ پوءِ _ ڪپي ڪلپ بورڊ جي آئڪن تي ڪلڪ ڪريو.
 
@@ -36,7 +36,7 @@
 
 جتي "صرف توهان يوپي ايل ڪاپي ڪئي آهي" (ڪڻڪ جي نشانين کانسواءِ) هن ريزنزوري ڏانهن يو آر ايل (هن پراجيڪٽ جي ڪانٽ). يو آر ايل حاصل ڪرڻ لاءِ پوئين قدم ڏسو.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="URL کي ڪلپ بورڊ ۾ نقل ڪيو" />
 
 مثال طور:
 
@@ -72,7 +72,7 @@
 
 ھاڻي ٽيڪسٽ ايڊيٽر ۾ Contributors.md فائل کوليو ، پنھنجو نالو ان ۾ شامل ڪريو. فائل جي شروعات يا آخر ۾ ان کي شامل نه ڪريو. ان کي وچ ۾ ڪٿي به وجھو. ھاڻي ، فائل کي بچايو.
 
-<img align="right" width="450" src="assets/git-status.png" alt="git status" />
+<img align="right" width="450" src="assets/git-status.png" alt="گِٽ جي حالت" />
 
 جيڪڏهن توهان پروجيڪٽ ڊاريڪٽري ڏانهن وڃو ۽ حڪم کي ختم ڪريو گٽ اسٽيٽس ، توهان ڏسندا ته هتي تبديليون آهن.
 
@@ -104,11 +104,11 @@ git commit -m "شرڪت ڪندڙن جي لسٽ ۾ <توھان جو نالو شا
 
 جيڪڏهن توهان GitHub تي پنهنجي مخزن ڏانهن ويندا آهيو ، توهان ڏسندا "تقابلي ۽ پلڻ واري درخواست" بٽڻ. انهي بٽڻ تي ڪلڪ ڪيو.
 
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="assets/compare-and-pull.png" alt="ھڪ پل رِڪوئسٽ ٺاهيو" />
 
 هاڻي پل جي درخواست جمع ڪر.
 
-<img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="assets/submit-pull-request.png" alt="پل رِڪوئسٽ جمع ڪرائيو" />
 
 جلد ئي آئون توهان جي سڀني تبديلين کي ان منصوبي جي ماسٽر برانچ ۾ ضم ڪري ڇڏيندس. توهان جون هڪ ڀيرو اطلاع ملڻ واري اي ميل حاصل ٿيندي هڪ ڀيرو تبديليون ضم ٿي ويون آهن.
 

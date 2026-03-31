@@ -49,22 +49,24 @@ Déplacez-vous dans le répertoire du projet nouvellement cloné (si vous n'y ê
 cd first-contributions
 ```
 
-Maintenant créez une branche avec la commande `git checkout` :
+Maintenant créez une branche avec la commande `git switch` :
 
 ```bash
-git checkout -b <add-votre-nom>
+git switch -c <add-votre-nom>
 ```
 
 Par exemple :
 
 ```bash
-git checkout -b add-koffi-sani
+git switch -c add-koffi-sani
 ```
 
 (Le nom de la branche n'a pas besoin de contenir le terme _add_, mais il est mieux de l'inclure car l'objectif de cette branche est d'ajouter votre nom à une liste.)
 
-<details> <summary> <strong>Si vous rencontrez une erreur avec git switch, cliquez ici :</strong> </summary>
-Si le message "Git: switch is not a git command. See git –help" s’affiche, c’est probablement parce que vous utilisez une ancienne version de Git.
+<details> 
+<summary> <strong>Si vous rencontrez une erreur avec git switch, cliquez ici :</strong> </summary>
+
+Si le message "Git: `switch` is not a git command. See `git –help`" s’affiche, c’est probablement parce que vous utilisez une ancienne version de Git.
 
 Dans ce cas, essayez plutôt :
 
