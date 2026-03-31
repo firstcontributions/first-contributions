@@ -92,6 +92,7 @@ Alicexxxx
 - [Kartik Borse](https://github.com/Kartik-borse)
   [Rituraj Tripathi](https://github.com/Sandilya69)
 - [Shaurya Adarsh](https://github.com/shauryaadarsh)
+- [Aeleen-Alfaro](https://git.hub/Ralyss)
 - [Yash](https://github.com/yashhwanth)
 - [Jatin Banmol](https://github.com/jbanmol)
 - [Antonella Muñoz](https://github.com/antonellamunoz1989)
