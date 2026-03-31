@@ -2419,6 +2419,7 @@ jieting-[ych3star](https://github.com/ych3star)
 - [Somya](https://github.com/23f3003596)
 - [Newsworld](https://github.com/Newsworld-niu)
 - [Khushi Dangarh](https://github.com/24f2004980-khushi)
+- [Ashish](https://github.com/ashish3120)
 - [Athira Binod](https://github.com/AthiraBinod-19)
 - 22f3001808@ds.study.iitm.ac.in -> https://github.com/22f3001808
 -Lalithya
