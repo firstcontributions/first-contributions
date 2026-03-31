@@ -11,6 +11,7 @@
 - Amster [2k5]
 - Rancho
 - [Edlyn Jessica Philip](https://github.com/edlynjessica)
+- [XtreellaDev](https://github.com/xtreellaDev)
 - [DosCocas](https://github.com/DosCocas)
 - [Anamika Pandey](https://github.com/AnamikaPandey22)
 - [Rajath Kiran A](https://github.com/Rajath2005)
