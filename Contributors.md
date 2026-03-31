@@ -1,6 +1,6 @@
 # Contributors
 - Jabir Ahmad🥇
-- [serkansvmz](https://github.com/serkansvmz) 🚀
+- [serkansvmz](https://github.com/serkaNsvmz) 🚀
 - [Abhishek](https://github.com/abhishek-21f2000477)
 -[Aditya Kumar](https://github.com/AdityaKumar188)
 - Divyanshu Kumar
@@ -23,6 +23,7 @@
 - [Cristina Ayala] (https://github.com/acristinaa)
 - [Kritika844](https://github.com/Kritika844)
 - [Nirav] (https://github.com/niravkpatel36)
+- [Nayan Dey](https://github.com/deyn4420-boop)
 - [KshitijMJ](https://github.com/21f3002019/)
 - [Arjun Kallurkar](https://github.com/quasar-011)
 - [DhirajB05](https://github.com/DhirajB05)
