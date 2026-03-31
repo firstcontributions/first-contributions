@@ -40,6 +40,7 @@
 - [Afaq Shahid Khan](https://github.com/AfaqShahidKhan)
 - - [Rahul Chaube](https://github.com/Rahulchaube1)
 - [Luca-Python](https://github.com/luca-python)
+- [Aarav Shah](https://github.com/Aarav-Shah-175)
 - [Gautam Kumawat](https://github.com/gautam9892)
 - [Mateo](https://github.com/mateococimano)
 - [Benhein Michael Ruben L](https://github.com/ben002mr)
