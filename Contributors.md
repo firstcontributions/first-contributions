@@ -2391,6 +2391,7 @@ Merjen Amanmuradova
 - [Doorbekova Alina](https://github.com/linalina2323)
 - [Arjun-codess](https://github.com/Arjun-codess).
 - [Chiranthana S](https://github.com/Chiranthana27)
+- [ai1971training](https://github.com/ai1971training-cell)
 - Lipika Saravanan
 - FIRST ONE
 - [minirang](https://github.com/minirang)
