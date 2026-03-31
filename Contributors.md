@@ -427,6 +427,7 @@ Naman Malik
 - [Akash Dhamane](https://github.com/explore)
   [Abhishek Maurya](https://github.com/AbhishekMauryaGEEK)
 - [Akhilesh Kotwal](https://github.com/AkhileshKotwal7)
+- [Vishnu A](https://github.com/Vishnu08n)
 - [Alan John Sudhan](https://github.com/AlanJohnSudhan27)
 - [Himanshu Kapure](https://github.com/Himanshu25kapure)
 - [Sudorio](https://github.com/sudorio)
