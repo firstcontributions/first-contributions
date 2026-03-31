@@ -1590,6 +1590,7 @@ Rithvik
 - [Sushmitha](https://github.com/Sushmigit)
 - [SutripatNew](https://github.com/SutripatNew)
 - [Suvani Basnet](https://github.com/suvani-ctrl)
+- [Sunrise Meow](https://github.com/sunrise-meow)
 - [Swapna S](https://github.com/swapcodes)
 - [Swati Pandey](https://github.com/gr8swati)
 - [Syed Rahil Hussain](https://github.com/Syed-srh)
