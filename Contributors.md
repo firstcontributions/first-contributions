@@ -1,8 +1,8 @@
 # Contributors
 - [serkansvmz](https://github.com/serkansvmz) 🚀
 - [Abhishek](https://github.com/abhishek-21f2000477)
--[Aditya Kumar](https://github.com/AdityaKumar188)
 - Divyanshu Kumar
+- [Aditya Kumar](https://github.com/AdityaKumar188)
 - [Abhinav Maurya](https://github.com/fire162)
 - Amster [2k5]
 - Rancho
