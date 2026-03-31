@@ -15,6 +15,7 @@
 - [Aniket Mankoo](https://github.com/MankooAniket)
 - [abdul7867](https://github.com/abdul7867)
 - [Faizan Imran](https://github.com/Faizanimran)
+-[Alonzo Church3](https://github.com/AlonzoCh) 
 - [Anup](https://github.com/23f3002432)
 - [Vaishnavi Jaiswal](https://github.com/Vaishnavi04102005)
 - [Kristipati Thoyajaksha Kashyap](https://github.com/kristipatithoyajakshakashyap)
@@ -2438,4 +2439,8 @@ jieting-[ych3star](https://github.com/ych3star)
 - [Ace](https://github.com/LITESPEAKING)
 - [Ning Yao](https://github.com/nyao925)
 - [JosephRijan](http://github.com/JosephRijan)
+<<<<<<< HEAD
 - [Qirui Xu](https://github.com/qiruixu666-source)
+=======
+- [abhishek](https://github.com/xar43/first-contributions)
+>>>>>>> upstream/main
