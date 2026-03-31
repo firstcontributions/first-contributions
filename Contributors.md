@@ -1,4 +1,5 @@
 # Contributors
+- [Purno Dewan](https://github.com/coderx86)
 - [Gregory Caravaca](https://github.com/greg7cm)
 - Jabir Ahmad🥇
 - [serkansvmz](https://github.com/serkansvmz) 🚀
