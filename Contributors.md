@@ -1849,6 +1849,7 @@ Rithvik
 - [raro212](https://github.com/raro212)
 - [rasmuskn44](https://github.com/rasmuskn44)
 - [reihori](https://github.com/reihori)
+- [rentechne](https://github.com/re-assist)
 - [rodrigoquerobim](https://github.com/RodrigoQuerobim1)
 - [rohansalunkhe](https://github.com/THEROHAN01)
 - [ronaldmirabal](https://github.com/ronaldmirabal)
