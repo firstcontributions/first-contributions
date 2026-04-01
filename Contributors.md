@@ -10,6 +10,7 @@
 - Divyanshu Kumar
 - [Aditya Kumar](https://github.com/AdityaKumar188)
 - [Abhinav Maurya](https://github.com/fire162)
+- [Jishnu](https://github.com/JishnuS732005)
 - Amster [2k5]
 - Rancho
 - [Edlyn Jessica Philip](https://github.com/edlynjessica)
