@@ -1457,6 +1457,7 @@ Rithvik
 - [Robert Davis](https://github.com/robertdavis)
 - [Robiya](https://github.com/rhakim24)
 - [Rohit Sharma](https://github.com/rohitt-sharma96)
+- [Roland](https://github.com/rolandmn)
 - [Rollins Sean](https://github.com/Skaffloc)
 - [Ronak](https://github.com/roonakyadav)
 - [Ronik Kumbhar](https://github.com/ronik62)
