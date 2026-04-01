@@ -1,4 +1,5 @@
 # Contributors
+- [Muhammad Suleman](https://github.com/SulemanWaraich)
 - [Prem Prakash](https://github.com/MrCarpediem)
 - [Om Kulkarni](https://github.com/justmeaprogrammer)
 - [Purno Dewan](https://github.com/coderx86)
