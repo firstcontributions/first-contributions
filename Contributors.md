@@ -885,6 +885,7 @@ Steve
 - [Esi Abrokwa](https://github.com/Petrichor1204)
 - [ETAModder](https://github.com/ETAModder)
 - [Ettore Ciolli](https://github.com/ettoreciolli1)
+- [aqua5230](https://github.com/aqua5230)
 - [Evan Rhea](https://github.com/MegaSF)
 - [Ezra K](https://github.com/EzraKL)
 - [Samudraneel](https://github.com/23f3002744)
