@@ -198,6 +198,7 @@ Seif Alsayad
  [Likitha Tummapudi](https://github.com/LikithaTummapudi)
 - [Kyle Scritten](https://github.com/KyleScritten)
 - [Slimzeo Cloud](https://github.com/Slimzeo)
+- [Michael Hill](https://github.com/michaelhill2)
 Arman P
 - [Peter McGee](https://github.com/pmcgee-personal)
 - [Mordernpc](https://github.com/mordernpc82-coder)
