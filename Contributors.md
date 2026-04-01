@@ -1,4 +1,5 @@
 # Contributors
+- [Muhammad Suleman](https://github.com/SulemanWaraich)
 - [Om Kulkarni](https://github.com/justmeaprogrammer)
 - [Purno Dewan](https://github.com/coderx86)
 - [Gregory Caravaca](https://github.com/greg7cm)
