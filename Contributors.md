@@ -19,6 +19,7 @@
 - [Anamika Pandey](https://github.com/AnamikaPandey22)
 - [Jignesh]
 - [Rajath Kiran A](https://github.com/Rajath2005)
+-[Sanskriti Mishra](https://github.com/sanskriti234)
 - [Anuj Kaushik](https://github.com/Ajkaushik9045)
 - [Aniket Mankoo](https://github.com/MankooAniket)
 - [Braham Ramos](https://github.com/BrahaME123)
