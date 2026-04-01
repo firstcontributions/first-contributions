@@ -1,4 +1,5 @@
 # Contributors
+- [Jinqi Tang](https://github.com/JinqiSMS/first-contributions)
 - [Muhammad Suleman](https://github.com/SulemanWaraich)
 - [Velagali Hemanth Kumar](https://github.com/HemanthVelagali)
 - [Prem Prakash](https://github.com/MrCarpediem)
