@@ -1326,6 +1326,7 @@ Rithvik
 - [Ong TX](https://github.com/AlexanderXI0904)
 - [OsamaShabih](https://github.com/osamashabih6960)
 - [Osinachi Chukwujama](https://github.com/vicradon)
+- [Juan Carlos Díaz](https://github.com/seojcarlos)
 - [Osman Kaplan](https://github.com/kplnosmn94-droid)
 - [Ossama Nahle](https://github.com/ossamanahle)
 - [Otavio Góes](https://github.com/ogoess1999)
