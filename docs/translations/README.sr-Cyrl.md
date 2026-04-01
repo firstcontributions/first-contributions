@@ -236,7 +236,7 @@ git push -u origin your-branch-name
 
 А сада, хајде да почнете са доприносом на другим пројектима. Направили смо списак пројеката са једноставним проблемима на којима можете почети да радите. Погледајте [списак пројеката на сајту](https://firstcontributions.github.io/#project-list).
 
-### [Додатни материјали](../additional-material/git_workflow_scenarios/additional-material.md)
+### [Додатни материјали](../additional-material/translations/Serbian/Cyrillic/additional-material.sr-Cyrl.md)
 
 ## Упутства за друге алате <a id="tutorials-using-other-tools"></a>
 
