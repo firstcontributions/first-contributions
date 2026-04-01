@@ -13,6 +13,7 @@
 - [Jishnu](https://github.com/JishnuS732005)
 - Amster [2k5]
 - Rancho
+- [Rahul](https://github.com/legendcoder-rahul)
 - [Edlyn Jessica Philip](https://github.com/edlynjessica)
 - [XtreellaDev](https://github.com/xtreellaDev)
 - [DosCocas](https://github.com/DosCocas)
