@@ -446,6 +446,7 @@ mUchiha26
 - [kevingao25](https://github.com/kevingao25)
 - [VipulBhattt](https://github.com/VipulBhattt)
 - [Yogesh Jindal](https://github.com/yogeshJindal1)
+- [Rishikesh Singh](https://github.com/errishi)
 - Max
 dany azord
 - [Andrew M]
