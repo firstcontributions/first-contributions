@@ -2,7 +2,6 @@
 - [Om Kulkarni](https://github.com/justmeaprogrammer)
 - [Purno Dewan](https://github.com/coderx86)
 - [Gregory Caravaca](https://github.com/greg7cm)
-- Jignesh Prajapati
 - Jabir Ahmad🥇
 - [serkansvmz](https://github.com/serkansvmz) 🚀
 - [Abhishek](https://github.com/abhishek-21f2000477)
@@ -16,6 +15,7 @@
 - [XtreellaDev](https://github.com/xtreellaDev)
 - [DosCocas](https://github.com/DosCocas)
 - [Anamika Pandey](https://github.com/AnamikaPandey22)
+- [Jignesh]
 - [Rajath Kiran A](https://github.com/Rajath2005)
 - [Anuj Kaushik](https://github.com/Ajkaushik9045)
 - [Aniket Mankoo](https://github.com/MankooAniket)
