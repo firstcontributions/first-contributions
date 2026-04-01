@@ -7,8 +7,10 @@
 - [Kashish Jain](https://github.com/kashish0603)
 - [Gregory Caravaca](https://github.com/greg7cm)
 - Jabir Ahmad🥇
+- [Abhinandan Joshi] (https://github.com/abhinandanjoshii/)
 - [Kareem Mohamed](https://github.com/karem5k5k5)
 - [serkansvmz](https://github.com/serkansvmz) 🚀
+- [Muhammad Abrar](https://github.com/Abrar140)
 - [Abhishek](https://github.com/abhishek-21f2000477)
 -[Aditya Kumar](https://github.com/AdityaKumar188)
 - Divyanshu Kumar
@@ -2496,3 +2498,4 @@ jieting-[ych3star](https://github.com/ych3star)
 -[Udayakeerthi](https://github.com/udayakeerthi2005)
 -[Sai](https://github.com/sainath998)
 - [Vikash Kumar](https://github.com/vikashbuilds)
+- [Irshad](https://github.com/dhnirshad)
