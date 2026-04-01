@@ -2,6 +2,7 @@
 - [Prem Prakash](https://github.com/MrCarpediem)
 - [Om Kulkarni](https://github.com/justmeaprogrammer)
 - [Purno Dewan](https://github.com/coderx86)
+- [Kashish Jain](https://github.com/kashish0603)
 - [Gregory Caravaca](https://github.com/greg7cm)
 - Jabir Ahmad🥇
 - [serkansvmz](https://github.com/serkansvmz) 🚀
