@@ -2508,3 +2508,4 @@ jieting-[ych3star](https://github.com/ych3star)
 - [Krishna K]
 - [laurandreea10](https://github.com/laurandreea10)
 - [Maddy10](https://github.com/Maddy10)
+- [Fred Campos](https://github.com/fredcampos3)
