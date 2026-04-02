@@ -331,7 +331,7 @@ zain
  - [Adedamola Aina](https://github.com/Adedamola007)
 - [Ankush Gulia](https://github.com/ankushkgulia)
 - [Boussaid Louai](https://github.com/lou-bou)
-- 
+- [John Chavarría](https://github.com/Johnchc10)
 - [CP2]
 - [Archiii]
 - [Ishwinder]
