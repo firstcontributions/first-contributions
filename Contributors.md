@@ -1492,6 +1492,7 @@ Rithvik
 - [S Hajare](https://github.com/swapnil-s-h)
 - [S-Dedeepya](https://github.com/S-Dedeepya)
 - [SImarjeet Singh Johar](https://github.comSimarjeeSinghJohar)
+- [Jhonata Ferreira](https://github.com/JhonataFerreira95)
 - [SWanHK](https://github.com/swanhk)
 - [Saksham Tyagi](https://github.com/iam-saksham-tyagi)  
 - [sachin](https://github.com/sachin)
