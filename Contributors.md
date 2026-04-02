@@ -1,4 +1,5 @@
 # Contributors
+- [Nishit Patel](https://github.com/nish-debug15)
 - [Kun-Hee Son](https://github.com/NICESONY)
 - [Pranav M S Krishnan](https://github.com/Pranav-MSK)
 - [Jinqi Tang](https://github.com/JinqiSMS/first-contributions)
