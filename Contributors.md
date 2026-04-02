@@ -1985,6 +1985,7 @@ Rithvik
 - -[Samaran S](https://github.com/iam-samzz)
 - [Monika kumari](https://github.com/monika-2906-git)
 - [Esther Okon-Paul](https://github.com/esthercodes-dev)
+- [SOHIT KUMAR](https://github.com/sohitkumar7505)
 - [Sagar Gupta](https://github.com/Sagargupta16)
 - [eric](https://github.com/Eric-Code09)
 - [Vivek Kumar Mali](https://github.com/24f2002719)
