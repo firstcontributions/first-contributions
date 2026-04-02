@@ -1849,6 +1849,7 @@ Rithvik
 - [Imane](https://github.com/kimaneeee00-gif)
 - [OwlUniversal](https://github.com/OwlUniversal)
 - [Vedansh Singhal](https://github.com/vedanshh16)
+- [Sanjay S] (https://github.com/diablo144)
 - [Bruno Figueiredo](https://github.com/BrunollFigueiredo)
 - [Samiya Kazi](https://github.com/samiyamalikkazi)
 - [Aaditri Kumari Yadav](https://github.com/caetty01)
@@ -2218,3 +2219,4 @@ Merjen Amanmuradova
 [Faiz Ali] (https://github.com/faizzz2706)
 [Chendi Chandu](https://github.com/Chandu2622)
 [Piyush Rawat](https://github.com/25ds1000107-png)
+
