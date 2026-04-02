@@ -9,7 +9,7 @@ Esesẽna ɣesiaɣi ne èwɔ nane zi gbãtɔ.Vɔvɔ̃ be yeawɔ vodadawo meɖea 
 
 Nyatiwo kple nufiamewo xexlẽ ate ŋu akpe ɖe ŋuwò, gake nukae nyo wu be nàdze agbagba eye màte ŋu awɔ vodada o? Dɔ sia ƒe taɖodzinue nye be wòana mɔfiame eye wòana alesi dɔsrɔ̃viwo wɔa woƒe nudzɔdzɔ gbãtɔ nanɔ bɔbɔe.Ðo ŋku edzi be: zi alesi nèfa tu la, zi nenemae nèsrɔ̃a nu nyuie wu.Ne èdi vevie be yeadzɔ nu gbãtɔ la, ɖeko nàwɔ ɖe afɔɖeɖe siawo dzi.Medo ŋugbe be anye modzakaɖeɖe.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="Wɔ nudzraɖoƒe sia ƒe kɔpi" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png"alt="fɔ̃ agbalẽdzraɖoƒe sia" />
 
 Ne git mele wò kɔmpiuta dzi o, [ tsɔe de wò kɔmpiuta dzi ]( https://help.github.com/articles/set-up-git/ ).
 
@@ -20,7 +20,8 @@ Esia ana be woaŋlɔ nyatakaka siwo le nyatakakadzraɖoƒea ɖe wò asitelefon d
 
 ## Wɔ numekugbalẽvi sia ƒe kɔpi
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="Kɔpi nudzraɖoƒe sia" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png"alt="fɔ̃ agbalẽdzraɖoƒe sia" />
+
 
 Azɔ wɔ agbalẽdzraɖoƒe sia ƒe nɔnɔmetata ɖe wò kɔmpiuta dzi. Zi clone ƒe dzesi dzi emegbe nàzi dzesi la dzi</b> *kɔpi ɖe agbalẽƒomɔ̃ me*.
 
