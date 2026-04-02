@@ -263,6 +263,7 @@ zain
 - [Mohan Pawar](https://github.com/MOHANX-0001)
 - [Imad Rahhali](https://github.com/ImadRahhali)
 - [Charul Bhanarkar](https://github.com/charull44)
+- [Kartikay Bhardwaj](https://github.com/KartikayBhardwaj-dev)
 - [Yash Kewte](https://github.com/yashkewte)
 - [Aaqib Javaid](https://github.com/aaqib605)
 - [Bishal Rokaha](https://github.com/BishalRokaha)
