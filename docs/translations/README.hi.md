@@ -12,7 +12,7 @@
 
 यदि आपके कंप्यूटर पर Git नहीं है तो, [इसे स्थापित करें](https://help.github.com/articles/set-up-git/) ।
 
-_यदि आप कमांड लाइन के साथ सहज नहीं हैं, [तो यहाँ ग्राफिकल इंटरफेस (GUI) टूल्स का उपयोग करने वाले ट्यूटोरियल हैं] (#अन्य-टूल-का-उपयोग-करके-ट्यूटोरियल) ।_
+_यदि आप कमांड लाइन के साथ सहज नहीं हैं, [तो यहाँ ग्राफिकल इंटरफेस (GUI) टूल्स का उपयोग करने वाले ट्यूटोरियल हैं](#शिक्षण-अन्य-साधनो-का-उपयोग-करने-के-लिए)_
 
 ## रिपॉज़िटरी को फोर्क करना
 
@@ -71,7 +71,7 @@ git switch -c add-alonzo-church
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="गिट स्थिति देखें" />
 
-आप यदि `git status` कमांड चलाएंगे , तो आपको अपने द्वारा किये गए परिवर्तन देखेंगे।
+यदि आप `git status` कमांड चलाते हैं, तो आपको अपने द्वारा किए गए परिवर्तन दिखाई देंगे।
 
 उन परिवर्तनों को बनाई गई शाखा में जोड़ने के लिए `git add` कमांड का उपयोग करें ।
 
@@ -87,7 +87,7 @@ git commit -m "Add <आपका-नाम> to Contributors list"
 
 <आपका-नाम> की जगह अपना नाम लिखें ।
 
-## अपने बदलावों को Github में पुश करें ।
+## अपने बदलावों को GitHub में पुश करें ।
 
 `git push` का उपयोग कर अपने परिवर्तन को पुश करें ।
 
@@ -119,11 +119,9 @@ git push origin <अपनी-शाखा-का-नाम-जोड़ें>
 
 ## शिक्षण अन्य साधनो का उपयोग करने के लिए
 
-|<a href="../github-desktop-tutorial.md"><img alt="गिटहब डेस्कटॉप" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> |
-<a href="../github-windows-vs2017-tutorial.md"><img alt="विज़ुअल स्टूडियो 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> |
-<a href="../gitkraken-tutorial.md"><img alt="गिटक्रैकेन" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> |
-<a href="../github-windows-vs-code-tutorial.md"><img alt="वीएस कोड" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width="100"></a> |
-<a href="sourcetree-macos-tutorial.md"><img alt="सॉर्सट्री ऐप" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width="100"></a>
-|
-| ------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md)                                                                          | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md)                                                                                                       | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md)                                                                                                                     | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                               | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                |
+| Tool | Link |
+| ---- | ---- |
+| GitHub Desktop | [ट्यूटोरियल](../gui-tool-tutorials/github-desktop-tutorial.md) |
+| Visual Studio Code | [ट्यूटोरियल](../gui-tool-tutorials/github-windows-vs-code-tutorial.md) |
+| GitKraken | [ट्यूटोरियल](../gui-tool-tutorials/gitkraken-tutorial.md) |
+| Atlassian Sourcetree | [ट्यूटोरियल](../gui-tool-tutorials/sourcetree-macos-tutorial.md) |
