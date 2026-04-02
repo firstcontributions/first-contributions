@@ -95,6 +95,8 @@ Alicexxxx
 - [Aditya Sharma](https://github.com/4ditya-sharma)
 - [Allwell](https://github.com/Allwell987)
 - [Alialhadi AboKhalil](https://github.com/AlialhadiAk)
+- Aditya Gopal
+- Ansh
 - [Frankie Liu](https://github.com/FrankieLiuF)
 - [Bhupesh Cholake](https://github.com/RealBhupesh)
 - [Bhavyaveer Kumar](https://github.com/Bhavyaveer44)
