@@ -711,6 +711,11 @@ RLeish
 - [Assamee](https://github.com/Assamee)
 - [Astros Aradottir](https://github.com/AstrosAradottir)
 - [Athanasios Daratzikis](https://github.com/ics25026)
+- [Siam] (https://github.com/siam-codes)
+- [Atirek Goyal](https://github.com/atirek89)
+- [Augustine Chiu](https://github.com/achiu283)
+- [Mayuresh Thorve](https://github.com/Mayurroro)
+Dedahi
 - [Atharv Jadhav](https://github.com/atharv5167)
 - [Atharv Khare](https://github.com/1mystic8u)
 - [Neha Gautam] (https://github.com/nehagtm)
