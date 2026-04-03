@@ -7,6 +7,10 @@
 - [Nishit Patel](https://github.com/nish-debug15)
 - [Kun-Hee Son](https://github.com/NICESONY)
 - [Pranav M S Krishnan](https://github.com/Pranav-MSK)
+
+- [Lasta Studio](https://lastastudio.com/) 
+- [ro han](https://by-rohan.com/)
+
 - [Jinqi Tang](https://github.com/JinqiSMS/first-contributions)
 - [Muhammad Suleman](https://github.com/SulemanWaraich)
 - [Velagali Hemanth Kumar](https://github.com/HemanthVelagali)
