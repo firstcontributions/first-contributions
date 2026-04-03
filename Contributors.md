@@ -1,7 +1,10 @@
 # Contributors
+- [Bobur Boboyev](https://github.com/Bobur-Boboyev)
+- [Piyush Srivastava](https://github.com/Phoenix-2207)
 - [Mohamed Ikbel Ben Nessib](https://github.com/ikbelbensib)
 - [Samuel Meddin](https://github.com/GalacticAvenger)
-- [Matthieu Gout]
+- [Matthieu Gout] 
+- [Aryan Gupta](https://github.com/aryanthepain)
 - [Nahom Mulugeta](https://github.com/nahomsolomon12)
 - [Ali Raza Chadharh](https://github.com/ali713111)
 - [Nishit Patel](https://github.com/nish-debug15)
@@ -45,8 +48,10 @@
 -[Sanskriti Mishra](https://github.com/sanskriti234)
 - [Shivam Honrao](https://github.com/ShivamH1)
 - [Anuj Kaushik](https://github.com/Ajkaushik9045)
+- [Aakif Kohari](https://github.com/Aakif-Kohari)
 - [Aniket Mankoo](https://github.com/MankooAniket)
 - [Braham Ramos](https://github.com/BrahaME123)
+- [Nihir Soni](https://github.com/Nihir-Soni/)
 - [abdul7867](https://github.com/abdul7867)
 - [Faizan Imran](https://github.com/Faizanimran)
 -[Alonzo Church3](https://github.com/AlonzoCh)
@@ -74,6 +79,7 @@
 -[Arul Cornelious](https://github.com/Arul1998)
 -[Aditya Swain](https://github.com/23f3004358)
 -[Prashant Ranjan](https://github.com/23f2002267)
+-[Subham Sutradhar]("https://github.com/SubhamFlow")
 -[Divyanshu Kumar](https://github.com/dgiitm)
 - [Temesgen Geta] (https://github.com/nigusmamo)
 - [chandra kireeti](https://github.com/kireetikotturu)
@@ -90,6 +96,7 @@
 -[Vishnu Gadekar](https://github.com/VishnuGadekar7)
 [wudong](https://github.com/wherefindme)
 -Noor
+-[Muhammad-Irfan] (https://github.com/Irfan-Sphere/)
 - [Rishav Kumar](https://github.com/21f3002244)
 - [Jatish Chawla](https://github.com/Jatishchawla)
 -[Krishna_KVH](https://github.com/Krishna_KVH)
@@ -181,6 +188,7 @@ Seif Alsayad
 - [Madhuri H S](https://github.com/MADHURI-HS)
 - [Jose Daniel Mesa](https://github.com/Jdmesa)
 - [Alessandro Gomez]
+- [Tejas MS](https://github.com/TejasMS1356)
 - [Manoj K M](https://github.com/manoj-k-m)
 - [Ankit Ranjan](https://github.com/notgodfather)
 - [vardhan reddy](https://github.com/vardhanreddy53)
@@ -312,6 +320,7 @@ zain
   [Isly NN]
   nirmit
 - [Victor Almeida](https://github.com/vma5)
+-[Shaurya Tiwari](https://github.com/Shaurya1803)
 -[Alessandro Gomez](https://github.com/06alesso)
 -[Harshvardhan Singh](https://github.com/harshvardhansingh3000)
 - [CP2]
@@ -2553,4 +2562,5 @@ jieting-[ych3star](https://github.com/ych3star)
 - [Rita](https://github.com/Rita007331)
 - [Ritik Sharma](https://github.com/sharmaritik0998)
 - [Maem](https://github.com/maelBuchs)
+- [Dhruv](https://github.com/Dhru08)
 - [Aashish](https://github.com/Aashish-po)
