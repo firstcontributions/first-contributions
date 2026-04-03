@@ -137,6 +137,7 @@ Alicexxxx
 - [Shaurya Adarsh](https://github.com/shauryaadarsh)
 - [Aeleen-Alfaro](https://git.hub/Ralyss)
 - [axxsiuu77](https://github.com/axxsiuu77)
+  [MADHAV ANAND](https://github.com/vsmadhav-dev)
 - [Yash](https://github.com/yashhwanth)
 - [Jatin Banmol](https://github.com/jbanmol)
 - [Antonella Muñoz](https://github.com/antonellamunoz1989)
