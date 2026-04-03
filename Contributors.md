@@ -45,6 +45,7 @@
 -[Sanskriti Mishra](https://github.com/sanskriti234)
 - [Shivam Honrao](https://github.com/ShivamH1)
 - [Anuj Kaushik](https://github.com/Ajkaushik9045)
+- [Aakif Kohari](https://github.com/Aakif-Kohari)
 - [Aniket Mankoo](https://github.com/MankooAniket)
 - [Braham Ramos](https://github.com/BrahaME123)
 - [Nihir Soni](https://github.com/Nihir-Soni/)
