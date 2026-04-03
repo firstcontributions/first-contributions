@@ -118,11 +118,13 @@ fatal: Authentication failed for 'https://github.com/&lt;your-username&gt;/first
 - خپل GitHub اکاونټ کې دې ریپوزیټوري ته لاړ شئ.
 - د **Compare & pull request** تڼۍ به ووینئ. پر هغې کلیک وکړئ.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="پُل ریکویسټ جوړ کړئ" />
+
 
 - اوس د pull request غوښتنه وسپارئ.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="پُل ریکویسټ واستوئ" />
+
 
 - له دې وروسته به ستاسو بدلونه د اصلي یا main څانګې سره یوځای شي او ستاسو نوم به د ګډون کوونکو لیست ته اضافه کړل شي.
 
