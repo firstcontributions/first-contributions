@@ -47,6 +47,7 @@
 - [Anuj Kaushik](https://github.com/Ajkaushik9045)
 - [Aniket Mankoo](https://github.com/MankooAniket)
 - [Braham Ramos](https://github.com/BrahaME123)
+- [Nihir Soni](https://github.com/Nihir-Soni/)
 - [abdul7867](https://github.com/abdul7867)
 - [Faizan Imran](https://github.com/Faizanimran)
 -[Alonzo Church3](https://github.com/AlonzoCh) 
