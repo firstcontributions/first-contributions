@@ -1690,6 +1690,7 @@ Rithvik
 - [Tushar Rampurkar](https://github.com/Gitnerd77)
 - [Sneha Chandel](https://github.com/snehachandel)
 - [Tyler O'Farrell](https://github.com/tyler3650)
+- [Srinjoy Nag](https://github.com/sinehypernova-0718)
 - [Tyler Westbrook](https://github.com/Iisyourdad)
 - [RashiBista](https://github.com/RashiBista)
 - [U Shivakumar](https://github.com/Shivakumarsullagaddi)
