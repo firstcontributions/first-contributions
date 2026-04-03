@@ -768,6 +768,7 @@ RLeish
 - [Barath B](https://github.com/barathb2007)
 - [Barnavo Dey](https://github.com/barnavo05)
 - [Basma BT](https://github.com/Boutaib-Basma)
+- [Shivam Khokhani](https://github.com/shivamk0311)
 - [Bastian Ibañez](https://github.com/bastianibanez)
 - [Behlool](https://github.com/BehloolKhan)
 Ben
