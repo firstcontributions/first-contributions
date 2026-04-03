@@ -35,6 +35,7 @@
 - [Aurora](https://github.com/Aurora-yixi)
 - [Jignesh]
 - Prakash G Dhole
+- [muard](https://github.com/murad-1999)
 - [Rajath Kiran A](https://github.com/Rajath2005)
 -[Sanskriti Mishra](https://github.com/sanskriti234)
 - [Anuj Kaushik](https://github.com/Ajkaushik9045)
