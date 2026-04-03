@@ -24,6 +24,7 @@
 - [Aditya Kumar](https://github.com/AdityaKumar188)
 - [Abhinav Maurya](https://github.com/fire162)
 - [Jishnu](https://github.com/JishnuS732005)
+- [knott] (https://github.com/knott-todd)
 - Amster [2k5]
 - Rancho
 - [Lohit T] (https://github.com/itsLohit)
