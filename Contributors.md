@@ -1949,7 +1949,7 @@ Rithvik
 - [tharsika](https://github.com/Tharsika21)
 - [umesh reddy](https://github.com/T-UmeshReddy)
 - [uzuraDev](https://github.com/uzuraDev)
-- [lawal_temitope]
+- [Pieter](https://github.com/Pieter-SWL)
 - [Valerie Marmolejo Molina] (https://github.com/valemm13)
 - [valentinfazenda](https://github.com/valentinfazenda)
 - [vivel-blenderlab](https://github.com/vivek-blenderlab)
@@ -1994,7 +1994,6 @@ Rithvik
 - [Zhiyu1723](https://github.com/Zhiyu1723/)
 - [sai krupali konda](https://github.com/saikrupalikonda)
 - [MeraNavaneetha](https://github.com/MeraNavaneethaa)
-- [Pieter](https://github.com/Pieter-SWL)
 - [seronly](https://github.com/seronly)
 - [lvmxn](https://github.com/lvmxn)
 - [Yhyh](https://github.com/YHc-ode)
