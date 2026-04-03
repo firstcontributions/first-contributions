@@ -187,6 +187,7 @@ Seif Alsayad
 - [B Pine](https://github.com/B-Pine)
 - [Shivraj](https://github.com/Shiv0087)
 - shriman181
+-[Rakesh Dintakurthi](https://github.com/rakeshdintakurthi)
 -[Neha Dubey](https://github.com/Nehainit)
 -[Aman Shukla](https://github.com/amanshukla2005)
 - [Akash Pandey](http://github.com/thepandeyakash)
