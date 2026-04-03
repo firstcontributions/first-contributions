@@ -856,6 +856,7 @@ Ben
 - [Devika Menon](https://github.com/DevikaaMenon)
 - [Dewanshu Sharma](https://github.com/dewanshu0311)
 - [Dhakshith S](https://github.com/Dhakshith)
+- [Matt Deeley](https://github.com/mdeeley)
 - [Dhanshree Patangrao](https://github.com/Dhanshree019)
 - [Dhanush M](https://github.com/Dhanush27m)
 - [Dhanush Shetty](https://github.com/dhanush-shetty1)
