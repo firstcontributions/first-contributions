@@ -31,6 +31,7 @@
 - [knott] (https://github.com/knott-todd)
 - Amster [2k5]
 - Rancho
+- DevenSpatel
 - [Lohit T] (https://github.com/itsLohit)
 - [Edlyn Jessica Philip](https://github.com/edlynjessica)
 - [XtreellaDev](https://github.com/xtreellaDev)
