@@ -34,6 +34,7 @@
 - DevenSpatel
 - [Lohit T] (https://github.com/itsLohit)
 - [Edlyn Jessica Philip](https://github.com/edlynjessica)
+- [Rorath](https://github.com/Rorath)
 - [XtreellaDev](https://github.com/xtreellaDev)
 - [DosCocas](https://github.com/DosCocas)
 - [Anamika Pandey](https://github.com/AnamikaPandey22)
