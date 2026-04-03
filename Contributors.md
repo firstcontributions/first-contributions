@@ -860,6 +860,7 @@ Ben
 - [DimondO20](https://github.com/DimondO20)
 - [Dinith Kariyawasam](https://github.com/dinithrk)
 - [Will](https://github.com/CrimsonKarma44)
+- [Dijon] (https://github.com/amorestperpe)
 - [Dinithi Gunathilake](https://github.com/Dinithi-Gunathilake)
 - [Disha520](https://github.com/Disha520)
 - [Divya1S](https://github.com/Divya1S)
