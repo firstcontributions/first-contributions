@@ -1,6 +1,7 @@
 # Contributors
 - [Mohamed Ikbel Ben Nessib](https://github.com/ikbelbensib)
 - [Samuel Meddin](https://github.com/GalacticAvenger)
+- [Matthieu Gout] 
 - [Nahom Mulugeta](https://github.com/nahomsolomon12)
 - [Ali Raza Chadharh](https://github.com/ali713111)
 - [Nishit Patel](https://github.com/nish-debug15)
