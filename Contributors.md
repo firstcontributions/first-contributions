@@ -1,4 +1,5 @@
 # Contributors
+- [Bobur Boboyev](https://github.com/Bobur-Boboyev)
 - [Piyush Srivastava](https://github.com/Phoenix-2207)
 - [Mohamed Ikbel Ben Nessib](https://github.com/ikbelbensib)
 - [Samuel Meddin](https://github.com/GalacticAvenger)
