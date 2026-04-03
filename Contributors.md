@@ -1265,6 +1265,7 @@ Rithvik
 - [Miguel Hernandez](https://github.com/mangel-mhdez)
 - [Mika](https://github.com/mihirK5)
 - [Joshua Chikosha](https://github.com/joshuachikosha)
+Alejandro Alfaro
 - [Milhane](https://github.com/chmilhane)
 - [Minlish-Git](https://github.com/Minlish-Git)
 - [Mithielesh N](https://github.com/mithielesh05)
