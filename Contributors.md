@@ -1498,6 +1498,7 @@ Alejandro Alfaro
 - [Riddhima Biswas](https://github.com/RiddhimaBiswas)
 - [Rinushan ](https://github.com/2003Rinushan)
 - [Rishika](https://github.com/RISHIKA-A-S)
+- [Ricardo] (https://github.com/ricardosanchez24)
 - [Rishitha Pachigolla](https://github.com/Rishithamanasa)
 - [Rithik Puthiyedath](https://github.com/Rithik149)
 - [Ritika Garg](https://github.com/ritikagarg0326)
