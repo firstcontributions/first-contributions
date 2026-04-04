@@ -65,6 +65,7 @@
 - [Nihir Soni](https://github.com/Nihir-Soni/)
 - [abdul7867](https://github.com/abdul7867)
 - [Faizan Imran](https://github.com/Faizanimran)
+- [Faisal Al Ramahi](https://github.com/Rama7ii)
 -[Alonzo Church3](https://github.com/AlonzoCh) 
 - [Anup](https://github.com/23f3002432)
 - [JosePaez](https://github.com/JosephPR12)
