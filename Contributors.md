@@ -25,6 +25,7 @@
 - [Muhammad Suleman](https://github.com/SulemanWaraich)
 - [Velagali Hemanth Kumar](https://github.com/HemanthVelagali)
 - [Prem Prakash](https://github.com/MrCarpediem)
+- [Raj Roy] (https://github.com/devKiNGCRiC)
 - [Aman Gupta](https://github.com/amangupta982)
 - [Om Kulkarni](https://github.com/justmeaprogrammer)
 [Nireeksha A P](https://github.com/NireekshaAP07)
