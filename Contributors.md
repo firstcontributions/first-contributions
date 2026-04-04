@@ -6,6 +6,7 @@
 - [Mohamed Ikbel Ben Nessib](https://github.com/ikbelbensib)
 - [Samuel Meddin](https://github.com/GalacticAvenger)
 - [Matthieu Gout] 
+- [Akash Prajapati](https://github.com/ZERO-DAY-CODE)
 - [OneTwo](https://github.com/OneTwo00712)
 - [Aryan Gupta](https://github.com/aryanthepain)
 - [Nahom Mulugeta](https://github.com/nahomsolomon12)
