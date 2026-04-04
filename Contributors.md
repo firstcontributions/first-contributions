@@ -9,6 +9,7 @@
 - [Nahom Mulugeta](https://github.com/nahomsolomon12)
 - [Ali Raza Chadharh](https://github.com/ali713111)
 - [Nishit Patel](https://github.com/nish-debug15)
+- [Sahil Sharma](https://github.com/Developer-Sahil)
 - [Kun-Hee Son](https://github.com/NICESONY)
 - [Pranav M S Krishnan](https://github.com/Pranav-MSK)
 - [Jinqi Tang](https://github.com/JinqiSMS/first-contributions)
