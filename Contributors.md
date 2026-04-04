@@ -332,6 +332,7 @@ zain
 - [23f2003927](https://github.com/23f2003927)
 - [Abhay Patange](https://github.com/AbhayPatange)
 - [Riyyan Khan](https://github.com/riyyankhan007)
+- [Vinay Dev S](https://github.com/vinay-devs)
   [Jason Zinn](https://github.com/jasonzinndal)
   [Isly NN]
   nirmit
