@@ -1,6 +1,7 @@
 # Contributors
 - Ponapati Spandana
 - [DarthVoydde](https://github.com/DarthVoydde)
+- [awais-sufi](https://github.com/awais-sufi)
 - [Bobur Boboyev](https://github.com/Bobur-Boboyev)
 - [Piyush Srivastava](https://github.com/Phoenix-2207)
 - [Mohamed Ikbel Ben Nessib](https://github.com/ikbelbensib)
