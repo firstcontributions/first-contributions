@@ -2623,3 +2623,4 @@ jieting-[ych3star](https://github.com/ych3star)
 - [Megha Pise](https://github.com/meghapise07)
 - [Rysan Deluna aka Ryan](https://github.com/RysanDeluna)
 - [Deep Patel](https://github.com/Deeppatelll)
+Emany Chiruza
