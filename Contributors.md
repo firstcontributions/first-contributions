@@ -214,6 +214,7 @@ Seif Alsayad
 - [Siddharth S](https://github.com/codeXsidd)
 - [Sahil Hande](https://github.com/sahilcommit)
 - [M. Fajal](https://github.com/Mfaj-cod)
+- [Shajith Bathina](https://github.com/shajith240)
 - [Anish Johari](https://github.com/AnishJohari)
 - [Valentinus Gunadi] (https://github.com/veempeelge)
 - [B Pine](https://github.com/B-Pine)
