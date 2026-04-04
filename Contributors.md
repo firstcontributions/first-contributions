@@ -9,6 +9,7 @@
 - [OneTwo](https://github.com/OneTwo00712)
 - [Aryan Gupta](https://github.com/aryanthepain)
 - [Nahom Mulugeta](https://github.com/nahomsolomon12)
+- [Niramay Shrivastava](https://github.com/Niramaynextgen)
 - [Ali Raza Chadharh](https://github.com/ali713111)
 - [Nishit Patel](https://github.com/nish-debug15)
 - [Sahil Sharma](https://github.com/Developer-Sahil)
