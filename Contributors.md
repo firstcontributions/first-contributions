@@ -2,6 +2,7 @@
 - Ponapati Spandana
 -[Ahmed Rafi](httpd://github.com/ahmed-rafi07)
 - [DarthVoydde](https://github.com/DarthVoydde)
+- [Akshaya](https://github.com/Akshaya2302)
 - [Bobur Boboyev](https://github.com/Bobur-Boboyev)
 - [Piyush Srivastava](https://github.com/Phoenix-2207)
 - [SAYEM](https://github.com/11UCRES)
