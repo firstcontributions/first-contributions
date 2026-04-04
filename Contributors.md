@@ -24,6 +24,7 @@
 - [Prem Prakash](https://github.com/MrCarpediem)
 - [Aman Gupta](https://github.com/amangupta982)
 - [Om Kulkarni](https://github.com/justmeaprogrammer)
+[Nireeksha A P](https://github.com/NireekshaAP07)
 - [Purno Dewan](https://github.com/coderx86)
 - [Kashish Jain](https://github.com/kashish0603)
 -[KaungMyatHtet](https://github.com/KaungMyatHtet-Coding)
