@@ -1,5 +1,6 @@
 # Contributors
 - Ponapati Spandana
+- [Akshaya](https://github.com/Akshaya2302)
 -[Ahmed Rafi](httpd://github.com/ahmed-rafi07)
 - [DarthVoydde](https://github.com/DarthVoydde)
 - [Bobur Boboyev](https://github.com/Bobur-Boboyev)
