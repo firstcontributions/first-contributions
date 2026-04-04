@@ -156,6 +156,7 @@ Alicexxxx
 - [22f2000954](https://github.com/22f2000954)
 - [Zacarias Casimiro](https://github.com/zcasimir39)
 - [Jane Doe]
+-[Tirth Barot](https://github.com/TirthBarot09-2005)
 - [Biruk]
 - [Diksha Upadhyay](https://github.com/23f2004211)
 - [Rabia Zulfiqar](https://github.com/rabiazulfiqar1)
