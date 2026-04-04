@@ -16,6 +16,7 @@
 - [Muhammad Suleman](https://github.com/SulemanWaraich)
 - [Velagali Hemanth Kumar](https://github.com/HemanthVelagali)
 - [Prem Prakash](https://github.com/MrCarpediem)
+- [Aman Gupta](https://github.com/amangupta982)
 - [Om Kulkarni](https://github.com/justmeaprogrammer)
 - [Purno Dewan](https://github.com/coderx86)
 - [Kashish Jain](https://github.com/kashish0603)
