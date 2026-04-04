@@ -38,6 +38,7 @@
 - Rancho
 - DevenSpatel
 - [Lohit T] (https://github.com/itsLohit)
+- [DDuran2007] (https://github.com/DDuran2007)
 - [Edlyn Jessica Philip](https://github.com/edlynjessica)
 - [XtreellaDev](https://github.com/xtreellaDev)
 - [DosCocas](https://github.com/DosCocas)
