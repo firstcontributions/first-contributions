@@ -9,6 +9,7 @@
 - [Matthieu Gout] 
 - [Akash Prajapati](https://github.com/ZERO-DAY-CODE)
 - [OneTwo](https://github.com/OneTwo00712)
+- [Kiran0548](https://github.com/Kiran0548)
 - [Aryan Gupta](https://github.com/aryanthepain)
 - [Nahom Mulugeta](https://github.com/nahomsolomon12)
 - [Niramay Shrivastava](https://github.com/Niramaynextgen)
