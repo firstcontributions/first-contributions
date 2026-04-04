@@ -2548,6 +2548,7 @@ jieting-[ych3star](https://github.com/ych3star)
 - [Vaishali](https://github.com/Vaishali561)
 - [Karushna Jeyakumar](https://github.com/karushna)
 - [23f1002778-Saikrishna](https://github.com/23f1002778-Saikrishna)
+-[Shri]
 - [Nikhil Itaudiya](https://github.com/23f2002113)
 - [Haran V S](https://github.com/Haran0706)
 - [Shraddha Dubey](https://github.com/24f1000774)
