@@ -1,6 +1,7 @@
 # Contributors
+- [Rodrigo Castro](https://github.com/rodrigoc-dev)
 - Ponapati Spandana
--[Ahmed Rafi](httpd://github.com/ahmed-rafi07)
+- [Ahmed Rafi](httpd://github.com/ahmed-rafi07)
 - [DarthVoydde](https://github.com/DarthVoydde)
 - [Akshaya](https://github.com/Akshaya2302)
 - [Bobur Boboyev](https://github.com/Bobur-Boboyev)
