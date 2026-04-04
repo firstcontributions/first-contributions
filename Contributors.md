@@ -2617,4 +2617,4 @@ jieting-[ych3star](https://github.com/ych3star)
 - [Fox Lin](https://github.com/Lin-Ruipeng)
 - [6NaCl](https://github.com/6NaCl)
 - [Megha Pise](https://github.com/meghapise07)
-- Ryan M. Andrade
+- [Rysan Deluna aka Ryan](https://github.com/RysanDeluna)
