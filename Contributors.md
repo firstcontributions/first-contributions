@@ -247,6 +247,7 @@ Seif Alsayad
 -[Rakesh Dintakurthi](https://github.com/rakeshdintakurthi)
 -[Neha Dubey](https://github.com/Nehainit)
 -[Aman Shukla](https://github.com/amanshukla2005)
+-[Farid Ahmadov]
 - [Akash Pandey](http://github.com/thepandeyakash)
 - [Kartikay Bhardwaj](https://github.com/KartikayBhardwaj-dev)
 - [Tushar Rana] (https://github.com/Tushar-Rana-13)
