@@ -1,3 +1,4 @@
+---
 [![kɔmpiutaɖoɖo femaxee ƒe Lɔlɔ̃](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
@@ -86,11 +87,11 @@ tsɔ alɔdze si wowɔ va yi ƒe ŋkɔ ɖɔli `<wò-ŋkɔ>`.
 
 Ne èyi wò nudzraɖoƒe le Github la, àkpɔ `Compare & pull request` ƒe dzesi. Zi dzesi sia dzi.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="Wɔ Pull Request aɖe" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="Wɔ tɔtrɔ biabia aɖe" />
 
 Azɔ tsɔ hehe ƒe biabiaa ɖo ɖa.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="Ɖo Pull Request la ɖa" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="Ɖo tɔtrɔ biabia la ɖa" />
 
 Eteƒe madidi o, maƒo miaƒe tɔtrɔwo katã nu ƒu ɖe dɔ sia ƒe alɔdze vevitɔ me. Àxɔ nyatakaka to e-mail dzi ne wonya wu ƒoƒo ɖekae nu ko.
 
