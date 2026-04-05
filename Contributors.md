@@ -8,6 +8,7 @@
 -[Bhanu S](https://github.com/Bhanuprakash2580)
 - [Ashlesh Bathina](https://github.com/AshleshBathina)
 -[Latika Popli](https://github.com/Latika2005)
+- [Jitesh Khatri](https://github.com/jiteshkhatri11)
 - [Rishitha Pachigolla](https://github.com/Rishithamanasa)
 - [Trishna](https://github.com/trishna2105)
 - [Debasish](https://github.com/DevDebas)
