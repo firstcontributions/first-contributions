@@ -1,6 +1,7 @@
 # Contributors
 - [Rodrigo Castro](https://github.com/rodrigoc-dev)
 - Ponapati Spandana
+- [jmoreno]
 - [Ahmed Rafi](httpd://github.com/ahmed-rafi07)
 - Sinthujan Jayaranjan
 - [DarthVoydde](https://github.com/DarthVoydde)
