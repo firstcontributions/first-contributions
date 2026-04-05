@@ -57,6 +57,7 @@
 - [Jishnu](https://github.com/JishnuS732005)
 - [knott] (https://github.com/knott-todd)
 - Amster [2k5]
+- roy
 - Rancho
 - DevenSpatel
 - [Lohit T] (https://github.com/itsLohit)
