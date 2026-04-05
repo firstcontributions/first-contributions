@@ -2644,3 +2644,4 @@ Emany Chiruza
 - [Jethro Tan](https://github.com/Jettan17)
 - [Yasutaka Sugimoto](https://github.com/Yasutaka-Sugimoto)
 - [Insuh Kim](https://github.com/insuhkim)
+- [Juan Carlos](https://github.com/juancarlosdlp73-oss)
