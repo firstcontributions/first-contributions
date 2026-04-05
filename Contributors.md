@@ -8,6 +8,7 @@
 - Sinthujan Jayaranjan
 - [DarthVoydde](https://github.com/DarthVoydde)
 - [Akshaya](https://github.com/Akshaya2302)
+- [Fahad Bin Siddique](https://github.com/fahadbinsiddique)
 - [Shruti627](https://github.com/Shruti627)
 - [Bobur Boboyev](https://github.com/Bobur-Boboyev)
 - [Piyush Srivastava](https://github.com/Phoenix-2207)
@@ -196,6 +197,7 @@ Alicexxxx
 - [Md.Habibur Rahman](https://github.com/himaloy007/)
 - [hello]()
 - David Mossop
+- David Batchelder
 hello ji
 - [suman-kumar](https://github.com/sumankr1211)
 - [Katio-Kyou](https://github.com/Katio-Kyou)
@@ -247,6 +249,7 @@ Seif Alsayad
 -[Rakesh Dintakurthi](https://github.com/rakeshdintakurthi)
 -[Neha Dubey](https://github.com/Nehainit)
 -[Aman Shukla](https://github.com/amanshukla2005)
+-[Farid Ahmadov]
 - [Akash Pandey](http://github.com/thepandeyakash)
 - [Kartikay Bhardwaj](https://github.com/KartikayBhardwaj-dev)
 - [Tushar Rana] (https://github.com/Tushar-Rana-13)
@@ -259,6 +262,7 @@ Seif Alsayad
 - [Pankaj vishwakarma](https://github.com/pk-arma)
 - [Anthonia Egwoyi](http://github.com/anthoniaoine)
 - [Yashi Chaudhary](https://github.com/Yashee05)
+- [Md Enayat Ansari](https://github.com/enayat-enoo)
 - [Fuzail] (https://github.com/24f2007795)
 - [Thecapstone Mogbolu](https://github.com/Thecapstone)
 - [Charlesaj4] (https://github.com/charlesaj4)
@@ -743,6 +747,7 @@ RLeish
 - [Ankit](https://www.youtube.com/watch?v=u3y1MqX4egE)
 - [Ankush Singh](https://github.com/whyankush07)
 - [Anshul Bhardwaj](https://github.com/Anshul-Bhardwaj-21)
+- [Harsh Vardhan Singh](https://github.com/explorer-rancho)
 - [Maitra Prajapati](https://github.com/maitra-prajapati)
 - [Anshik] (https://github.com/Anshikn)
 - [Ahmad Al-Manasrah](https://github.com/ahmad-almanasrah)
@@ -2650,4 +2655,12 @@ Emany Chiruza
 - [Insuh Kim](https://github.com/insuhkim)
 - [Juan Carlos](https://github.com/juancarlosdlp73-oss)
 - - [Savan Patel](https://github.com/SavanPatel02)
+ second-contributions
 - [Saptarshi Kuila](https://github.com/sap6011)
+- [Ashith Fernandes](https://github.com/spideyashith)
+- [Saptarshi Kuila](https://github.com/sap6011)
+-[Nazar](https://github.com/nazmashovets74)
+-[Mourya Vats](https://github.com/MaxiMult)
+- [Om Singh](https://github.com/Singh-OmDev)
+- [Harshdeep Singh](https://github.com/Harshdeep-creator)
+main
