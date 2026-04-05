@@ -2636,5 +2636,7 @@ Emany Chiruza
 - [Haoyueck](https://github.com/haoyueck)
 - [Vaibhav](https://github.com/vaibdevs)
 - [Pragyey](https://github.com/CatalyzedHONEY)
+- [Yasutaka Sugimoto](https://github.com/Yasutaka-Sugimoto)
+- [Insuh Kim](https://github.com/insuhkim)
 - [Jethro Tan](https://github.com/Jettan17)
 - [Yasutaka Sugimoto](https://github.com/Yasutaka-Sugimoto)
