@@ -8,6 +8,7 @@
 - [Akshaya](https://github.com/Akshaya2302)
 - [Bobur Boboyev](https://github.com/Bobur-Boboyev)
 - [Piyush Srivastava](https://github.com/Phoenix-2207)
+- [GP Singh](https://github.com/Gurpreetsingh1293)
 - [SAYEM](https://github.com/11UCRES)
 - [Mohamed Ikbel Ben Nessib](https://github.com/ikbelbensib)
 - [Samuel Meddin](https://github.com/GalacticAvenger)
