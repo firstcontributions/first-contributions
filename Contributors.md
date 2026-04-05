@@ -34,6 +34,7 @@
 - [Velagali Hemanth Kumar](https://github.com/HemanthVelagali)
 - [Prem Prakash](https://github.com/MrCarpediem)
 - [Raj Roy] (https://github.com/devKiNGCRiC)
+- [Srishti] (https://github.com/srishti-1935)
 - [Aman Gupta](https://github.com/amangupta982)
 - [Om Kulkarni](https://github.com/justmeaprogrammer)
 [Nireeksha A P](https://github.com/NireekshaAP07)
