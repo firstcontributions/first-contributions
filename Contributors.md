@@ -2634,3 +2634,4 @@ Emany Chiruza
 - [Max Klingner](https://github.com/max-klingner)
 - [Haoyueck](https://github.com/haoyueck)
 - [Vaibhav](https://github.com/vaibdevs)
+- [Pragyey](https://github.com/CatalyzedHONEY)
