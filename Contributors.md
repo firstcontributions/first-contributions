@@ -8,7 +8,7 @@
 - [SAYEM](https://github.com/11UCRES)
 - [Mohamed Ikbel Ben Nessib](https://github.com/ikbelbensib)
 - [Samuel Meddin](https://github.com/GalacticAvenger)
-- [Matthieu Gout] 
+- [Koushik Deb](https://github.com/koushik-ops) 
 - [Akash Prajapati](https://github.com/ZERO-DAY-CODE)
 - [OneTwo](https://github.com/OneTwo00712)
 - [Kiran0548](https://github.com/Kiran0548)
