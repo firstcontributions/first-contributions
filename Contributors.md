@@ -2660,3 +2660,4 @@ Emany Chiruza
 -[Mourya Vats](https://github.com/MaxiMult)
 - [Om Singh](https://github.com/Singh-OmDev)
 - [Harshdeep Singh](https://github.com/Harshdeep-creator)
+- [Murphy Amparo](https://github.com/MaxTecnoDev)
