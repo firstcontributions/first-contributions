@@ -3,6 +3,7 @@
 - [Rodrigo Castro](https://github.com/rodrigoc-dev)
 - Ponapati Spandana
 - [jmoreno]
+- [Himanshu](https://github.com/himanshubit)
 - [Ahmed Rafi](httpd://github.com/ahmed-rafi07)
 - Sinthujan Jayaranjan
 - [DarthVoydde](https://github.com/DarthVoydde)
