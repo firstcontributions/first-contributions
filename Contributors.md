@@ -195,6 +195,7 @@ Alicexxxx
 - [Md.Habibur Rahman](https://github.com/himaloy007/)
 - [hello]()
 - David Mossop
+- David Batchelder
 hello ji
 - [suman-kumar](https://github.com/sumankr1211)
 - [Katio-Kyou](https://github.com/Katio-Kyou)
@@ -246,6 +247,7 @@ Seif Alsayad
 -[Rakesh Dintakurthi](https://github.com/rakeshdintakurthi)
 -[Neha Dubey](https://github.com/Nehainit)
 -[Aman Shukla](https://github.com/amanshukla2005)
+-[Farid Ahmadov]
 - [Akash Pandey](http://github.com/thepandeyakash)
 - [Kartikay Bhardwaj](https://github.com/KartikayBhardwaj-dev)
 - [Tushar Rana] (https://github.com/Tushar-Rana-13)
@@ -2652,4 +2654,4 @@ Emany Chiruza
 - [Ashith Fernandes](https://github.com/spideyashith)
 - [Saptarshi Kuila](https://github.com/sap6011)
 -[Nazar](https://github.com/nazmashovets74)
-- [Mourya Vats](https://github.com/MaxiMult)
+-[Mourya Vats](https://github.com/MaxiMult)
