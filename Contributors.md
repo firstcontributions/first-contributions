@@ -390,6 +390,7 @@ Shwetank
 - [Toluwanimi](https://github.com/DevTolu79)
 - [Gayatri Yadkikar](https://github.com/yadkikargayatri)
 - [Ifeanyi](https://github.com/kevinify)
+- [Siddhartha Kushwaha](https://github.com/DevSidd2006)
 [Ijeoma] (https://github.com/graciElla001/graciElla001)
 - [Jamiu](https://github.com/RushNet01)
   [Pedro_Vieira] (https://github.com/PedroVieira226)
