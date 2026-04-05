@@ -2625,3 +2625,4 @@ jieting-[ych3star](https://github.com/ych3star)
 - [Rysan Deluna aka Ryan](https://github.com/RysanDeluna)
 - [Deep Patel](https://github.com/Deeppatelll)
 Emany Chiruza
+- [Max Klingner](https://github.com/max-klingner)
