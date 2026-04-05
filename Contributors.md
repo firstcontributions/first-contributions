@@ -6,6 +6,7 @@
 - Sinthujan Jayaranjan
 - [DarthVoydde](https://github.com/DarthVoydde)
 - [Akshaya](https://github.com/Akshaya2302)
+- [Shruti627](https://github.com/Shruti627)
 - [Bobur Boboyev](https://github.com/Bobur-Boboyev)
 - [Piyush Srivastava](https://github.com/Phoenix-2207)
 - [GP Singh](https://github.com/Gurpreetsingh1293)
