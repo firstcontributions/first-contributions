@@ -1,6 +1,7 @@
 # Contributors
 - [Boris Plotnikov](https://github.com/BorisPlotnikov)
 - [Rodrigo Castro](https://github.com/rodrigoc-dev)
+- [Yash](https://github.com/yash07-bit)
 - Ponapati Spandana
 - [jmoreno]
 - [Himanshu](https://github.com/himanshubit)

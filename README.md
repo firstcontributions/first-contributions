@@ -99,6 +99,34 @@ _If you're not comfortable with command line, [here are tutorials using GUI tool
 
 #### If you don't have git on your machine, [install it](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
+## Quick guide for first-time users
+
+If this is your first open source contribution, follow this simple flow:
+
+1. **Fork** this repository to your GitHub account.
+2. **Clone** your fork to your computer.
+3. **Create a new branch** for your change.
+4. **Edit** `Contributors.md` and add your name.
+5. **Commit** your change with a short message.
+6. **Push** the branch to GitHub.
+7. **Open a Pull Request** from your fork to this repository.
+
+### Small example
+
+Assume your GitHub username is `alex-dev` and your branch name is `add-alex-dev`.
+
+```bash
+git clone git@github.com:alex-dev/first-contributions.git
+cd first-contributions
+git switch -c add-alex-dev
+# edit Contributors.md and save
+git add Contributors.md
+git commit -m "Add alex-dev to Contributors list"
+git push -u origin add-alex-dev
+```
+
+Then go to your fork on GitHub and click **Compare & pull request**.
+
 ## Fork this repository
 
 Fork this repository by clicking on the fork button on the top of this page.
