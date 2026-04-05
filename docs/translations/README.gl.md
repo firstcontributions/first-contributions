@@ -8,7 +8,7 @@
 
 Ler artículos e ver titoriais pode axudar, pero ¿que haberá mellor que facer as cousas nunha contorna pensada para practicar? Iste proxecto enfócase en prover unha guía e en simplificar o xeito no que os novatos fan a súa primeira contribución. Lembra que mentres máis relaxado esteas, mellor aprenderás. Se queres facer a túa primeira contribución só tés que seguir os sinxelos pasos que se amosan a continuación. E prometémosche que será entretido.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork de éste repositorio" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="facer un fork deste repositorio" />
 
 Se aínda non tés git na túa máquina, [ instálao ]( https://help.github.com/articles/set-up-git/ )
 
@@ -30,7 +30,7 @@ git clone "url que copiache"
 ```
 Onde "url que copiache" (sen as comiñas) é a url  deste repositorio. Mira os pasos previos para obter a url.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copiar URL a clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copiar o URL ao portapapeis" />
 
 Por exemplo:
 ```bash
@@ -89,11 +89,11 @@ cambiando `<engade-o-teu-nome>` polo nome da branch que creaches antes.
 
 Se vas ó teu repositorio en GitHub, verás un botón `Compare & pull request`. Fai click nese botón:
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="crea unha pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="crear unha solicitude de pull" />
 
 Agora crea e envía a pull request:
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="sube a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="enviar a solicitude de pull" />
 
 Axiña mesturarei os teus cambios (facendo *merge*) na master branch deste proxecto. Recibirás unha notificación por correo cando os cambios xa estean mesturados.
 
