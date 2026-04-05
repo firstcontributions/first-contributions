@@ -161,6 +161,9 @@ git checkout -b your-new-branch-name
 
 </details>
 
+## Why create a branch?
+When multiple people work on the same project, each contributor may have different ideas and write code in their own way. Creating a separate branch allows you to make and test your changes without affecting the main project. You can check if your code works as expected in your branch. Once everything is working well, your changes can be merged into the main branch.
+
 ## Make necessary changes and commit those changes
 
 Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
