@@ -66,6 +66,7 @@
 - [Edlyn Jessica Philip](https://github.com/edlynjessica)
 - [XtreellaDev](https://github.com/xtreellaDev)
 - [DosCocas](https://github.com/DosCocas)
+- [Prabhat Bhatia](https://github.com/prabhatbhatiaa)
 - [Anamika Pandey](https://github.com/AnamikaPandey22)
 - [Aurora](https://github.com/Aurora-yixi)
 - [Jignesh]
