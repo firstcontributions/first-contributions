@@ -29,6 +29,7 @@
 - [Ali Raza Chadharh](https://github.com/ali713111)
 - [Nishit Patel](https://github.com/nish-debug15)
 - [Sahil Sharma](https://github.com/Developer-Sahil)
+- [Udochukwu Anigbogu](https://github.com/Bubbles80)
 - [Kun-Hee Son](https://github.com/NICESONY)
 - [Pranav M S Krishnan](https://github.com/Pranav-MSK)
 - [Jinqi Tang](https://github.com/JinqiSMS/first-contributions)
@@ -2654,9 +2655,12 @@ Emany Chiruza
 - [Insuh Kim](https://github.com/insuhkim)
 - [Juan Carlos](https://github.com/juancarlosdlp73-oss)
 - - [Savan Patel](https://github.com/SavanPatel02)
+ second-contributions
+- [Saptarshi Kuila](https://github.com/sap6011)
 - [Ashith Fernandes](https://github.com/spideyashith)
 - [Saptarshi Kuila](https://github.com/sap6011)
 -[Nazar](https://github.com/nazmashovets74)
 -[Mourya Vats](https://github.com/MaxiMult)
 - [Om Singh](https://github.com/Singh-OmDev)
 - [Harshdeep Singh](https://github.com/Harshdeep-creator)
+main
