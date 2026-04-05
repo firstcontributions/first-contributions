@@ -21,6 +21,7 @@
 - [OneTwo](https://github.com/OneTwo00712)
 - [Kiran0548](https://github.com/Kiran0548)
 - [Aryan Gupta](https://github.com/aryanthepain)
+- [Bishal Haldar](https://github.com/bishalhaldar)
 - [Nahom Mulugeta](https://github.com/nahomsolomon12)
 - [Niramay Shrivastava](https://github.com/Niramaynextgen)
 - [Iftaher Hossen Sayem] (https://github.com/IftaherSayem)
