@@ -233,6 +233,7 @@ Seif Alsayad
 - [Madhuri H S](https://github.com/MADHURI-HS)
 - [Jose Daniel Mesa](https://github.com/Jdmesa)
 - [Alessandro Gomez]
+- [Hans Levy]
 - [Tejas MS](https://github.com/TejasMS1356)
 - [Manoj K M](https://github.com/manoj-k-m)
 - [Ankit Ranjan](https://github.com/notgodfather)
