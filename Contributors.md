@@ -1466,6 +1466,7 @@ Alejandro Alfaro
 - [Paras](https://github.com/ParasSalonia)
 - [Patrick Araujo](https://github.com/PkLavc)
 - [Patrick Poon](https://github.com/PatrickPoon-dev)
+- [Zacul](https://github.com/ZacuLucaZ)
 - [Paula Amorim](https://github.com/paulamori)
 - [Paul Henry Atienza](https://github.com/phatienza/)
 - [Sprtschk](https://github.com/sprt-schk/)
