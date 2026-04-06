@@ -7,6 +7,7 @@
 - [Rodrigo Castro](https://github.com/rodrigoc-dev)
 - Ponapati Spandana
 - [MrAidxn](https://github.com/MrAidxn)
+- [John Chavarría](https://github.com/Johnchc10)
 - [jmoreno]
 - [Himanshu](https://github.com/himanshubit)
 - [Ahmed Rafi](httpd://github.com/ahmed-rafi07)
