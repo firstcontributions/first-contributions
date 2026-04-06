@@ -2694,3 +2694,4 @@ Emany Chiruza
 - [Artemka](https://github.com/Artemka)
 - [Mikhail](https://github.com/2len)
 - [Surya](https://github.com/GSuryaP)
+- [Mariangel Marin Acosta](https://github.com/marinacostamariangel2-hash)
