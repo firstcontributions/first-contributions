@@ -5,6 +5,7 @@
 - [ooweat](https://github.com/ooweat)
 - [Boris Plotnikov](https://github.com/BorisPlotnikov)
 - [Rodrigo Castro](https://github.com/rodrigoc-dev)
+- [Sahil Vishwakarma](https://github.com/sahilvish01)
 - Ponapati Spandana
 - [MrAidxn](https://github.com/MrAidxn)
 - [jmoreno]
