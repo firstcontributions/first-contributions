@@ -27,6 +27,7 @@
 - [jesse] (https://github.com/jesse-tnei)
 - [Bahnishikha Singha](https://github.com/aniCtrl)
 - [OneTwo](https://github.com/OneTwo00712)
+- [Daniel Vargas](https://github.com/huanguelen)
 - [Kiran0548](https://github.com/Kiran0548)
 - [Aryan Gupta](https://github.com/aryanthepain)
 - [Ayushi Rajput(https://github.com/Ayushi-ninja)
