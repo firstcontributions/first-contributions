@@ -997,6 +997,7 @@ Steve
 - [Ezra K](https://github.com/EzraKL)
 - [Samudraneel](https://github.com/23f3002744)
 - [Farmata Kane](https://github.com/miiswom)
+- [Fluff2513](https://github.com/fluff2513)
 - [Fathima Manal](https://github.com/FathimaManal)
 - [Farida Khaled](https://github.com/faridakhaled05)
 - [Fawaz Bello](https://github.com/Phawazz)
