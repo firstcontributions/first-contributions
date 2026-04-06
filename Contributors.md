@@ -40,6 +40,7 @@
 - [Prem Prakash](https://github.com/MrCarpediem)
 - [Raj Roy] (https://github.com/devKiNGCRiC)
 - [Srishti] (https://github.com/srishti-1935)
+- [Ramirez779] (https://github.com/Ramirez779)
 - [Aman Gupta](https://github.com/amangupta982)
 - [Om Kulkarni](https://github.com/justmeaprogrammer)
 [Nireeksha A P](https://github.com/NireekshaAP07)
