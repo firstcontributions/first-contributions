@@ -167,6 +167,7 @@ Alicexxxx
 - [Allwell](https://github.com/Allwell987)
 - Jovando
 - [Alialhadi AboKhalil](https://github.com/AlialhadiAk)
+- manoz
 - [Frankie Liu](https://github.com/FrankieLiuF)
 - [Bhupesh Cholake](https://github.com/RealBhupesh)
 - [Bhavyaveer Kumar](https://github.com/Bhavyaveer44)
