@@ -27,6 +27,7 @@
 - [Samuel Meddin](https://github.com/GalacticAvenger)
 - [Matthieu Gout] 
 - [Akash Prajapati](https://github.com/ZERO-DAY-CODE)
+- [DenisseLedezma](https://github.com/DenisseLedezma)
 - [jesse] (https://github.com/jesse-tnei)
 - [Bahnishikha Singha](https://github.com/aniCtrl)
 - [OneTwo](https://github.com/OneTwo00712)
