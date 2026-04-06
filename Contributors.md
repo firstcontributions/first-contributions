@@ -27,6 +27,7 @@
 - [jesse] (https://github.com/jesse-tnei)
 - [Bahnishikha Singha](https://github.com/aniCtrl)
 - [OneTwo](https://github.com/OneTwo00712)
+- [Daniel Vargas](https://github.com/huanguelen)
 - [Kiran0548](https://github.com/Kiran0548)
 - [Aryan Gupta](https://github.com/aryanthepain)
 - [Ayushi Rajput(https://github.com/Ayushi-ninja)
@@ -1466,6 +1467,7 @@ Alejandro Alfaro
 - [Paras](https://github.com/ParasSalonia)
 - [Patrick Araujo](https://github.com/PkLavc)
 - [Patrick Poon](https://github.com/PatrickPoon-dev)
+- [Zacul](https://github.com/ZacuLucaZ)
 - [Paula Amorim](https://github.com/paulamori)
 - [Paul Henry Atienza](https://github.com/phatienza/)
 - [Sprtschk](https://github.com/sprt-schk/)
@@ -2685,4 +2687,7 @@ Emany Chiruza
 - [SeojeongHong](https://github.com/SeojeongHong)
 - [Karri Chaitanya Pratap Reddy](https://github.com/kcprdev)
 - [Sarvesh Deepak Mohite](https://github.com/CyberSarvesh)
+- [Artemka](https://github.com/Artemka)
+- [Mikhail](https://github.com/2len)
 - [Artem](https://github.com/Artem1357901)
+
