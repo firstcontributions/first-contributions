@@ -8,6 +8,7 @@
 - [Sahil Vishwakarma](https://github.com/sahilvish01)
 - Ponapati Spandana
 - [MrAidxn](https://github.com/MrAidxn)
+- [John Chavarría](https://github.com/Johnchc10)
 - [jmoreno]
 - [Himanshu](https://github.com/himanshubit)
 - [Ahmed Rafi](httpd://github.com/ahmed-rafi07)
