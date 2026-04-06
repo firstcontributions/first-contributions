@@ -114,6 +114,7 @@
 - [Devansh jani](https://github.com/DEV1208)
 [sejal wattamwar](https://github.com/sejal88944)
 - [Ryan Goods](https://github.com/feelgooddd)
+- [Ashirwad Kumar](https://github.com/AshirwadKumar950)
 -[paulo fernandez ](https://github.com/pauloafq)
 -[Shreyas Bandekar](https://github.com/Shreyas-Bandekar)
   SB65555246
