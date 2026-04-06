@@ -1,4 +1,5 @@
 # Contributors
+- [Ipshita Chatterjee](https://github.com/IpshitaChatterjee)
 - [N V K Jaswanth](https://github.com/jaswanth6988)
 - [PrajanManojKumarRekha](https://github.com/PrajanManojKumarRekha)
 - [ooweat](https://github.com/ooweat)
@@ -36,6 +37,7 @@
 - [Sahil Sharma](https://github.com/Developer-Sahil)
 - [Kun-Hee Son](https://github.com/NICESONY)
 - [Pranav M S Krishnan](https://github.com/Pranav-MSK)
+- [Udochukwu Anigbogu](https://github.com/Bubbles80)
 - [Jinqi Tang](https://github.com/JinqiSMS/first-contributions)
 - [Muhammad Suleman](https://github.com/SulemanWaraich)
 - [Velagali Hemanth Kumar](https://github.com/HemanthVelagali)
@@ -2675,4 +2677,5 @@ Emany Chiruza
 - [Urvish Rathi] (https://github.com/urathi05)
 - [Ayush Aryan](https://github.com/ayushharyan19)
 - [Ninad Ubale](https://github.com/NinadUbale)
+- [Manu AP] (https://github.com/Man640)
 - [YongQiang Cao](https://github.com/caoyongq)
