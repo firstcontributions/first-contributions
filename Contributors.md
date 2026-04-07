@@ -1462,6 +1462,7 @@ Alejandro Alfaro
 - [Olapu Ajay](https://github.com/olapuajay)
 - [Olga Torok](https://github.com/OlgaTorok)
 - [Oliyad Zelalem](https://github.com/ozimmortal)
+- [Oluwajoba Bukola](https://github.com/Oluwajoba08)
 - [Om Bukkawar](https://github.com/omBukkawar)
 - [Omar Mostafa](https://github.com/omarkamola)
 - [Omkar Ala](https://github.com/omkarala)
