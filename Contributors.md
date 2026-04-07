@@ -2330,6 +2330,7 @@ Merjen Amanmuradova
 - [Apurva Singh](https://github.com/Apurva-1610)
 - [elegentLIFER](https://github.com/elegentLIFER)
 - [Rowan](https://github.com/Rowan-hhh)
+- [Samar Karim](https://github.com/Sr18-dev)
 - - Srasti Jain(https://github.com/Srasti527)
 - [Ashitha T](https://github.com/Ashi-tha)
 - [germainelry](https://github.com/germainelry)
