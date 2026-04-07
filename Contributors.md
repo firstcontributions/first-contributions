@@ -1526,6 +1526,7 @@ Alejandro Alfaro
 - [Preethika R](https://github.com/Preethika-rj)
 - [Praveer Ranjan Singh](https://github.com/PRAVEERRANJANSINGH)
 - [Pravien Powel](https://github.com/PravienPowel)
+- [Stella Saji](https://github.com/stella-saji)
 - [Prisha Jaiswal](https://github.com/prishajaiswal75)
 - [Priya Shah](https://github.com/priiyoCoding)
 - [Priyam Manna](https://github.com/priyam-that)
