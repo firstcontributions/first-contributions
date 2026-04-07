@@ -1684,6 +1684,7 @@ Alejandro Alfaro
 - [Shozab Ali Nasir](https://github.com/shozabali06)
 - [Shreecharana](https://github.com/Shreecharana24)
 - [Shrinivas Narhare](https://github.com/shrinivas9606)
+- [Shrihari]
 - [Shriram Selvam](https://github.com/ShriramSelvam)
 - [Shriya Mohanty](https://github.com/shriya5752)
 - [Shruti Chadda](https://github.com/Shruti-chadda)
