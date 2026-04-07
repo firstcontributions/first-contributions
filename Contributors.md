@@ -16,6 +16,7 @@
 - Yuyanran Xiao
 - Sinthujan Jayaranjan
 - [Brielle Johnston](https://github.com/briefjo)
+- [Owais Ahmad Shah](https://github.com/owaisahmadshah)
 - [DarthVoydde](https://github.com/DarthVoydde)
 - [Akshaya](https://github.com/Akshaya2302)
 - [Fahad Bin Siddique](https://github.com/fahadbinsiddique)
