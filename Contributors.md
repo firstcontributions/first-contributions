@@ -1294,4 +1294,5 @@ Rongxin Zhang
 -  [Elakkiya](https://github.com/dhineshdd)
 -[Gagan rajput](https://github.com/gagansokhal-coder)
 -[Connecto Shivam](https://github.com/connectoshivam)
+- Sahil Sharma - Open Source Contributor
 -[Dylan Haskell](https://github.com/dyl242)
