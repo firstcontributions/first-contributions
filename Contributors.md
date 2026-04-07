@@ -1,4 +1,5 @@
 # Contributors
+[Ajay](https://github.com/ajay-69)
 - [Fahmiajik](https://github.com/fahmiajik12)
 - [Ipshita Chatterjee](https://github.com/IpshitaChatterjee)
 - [N V K Jaswanth](https://github.com/jaswanth6988)
@@ -1004,6 +1005,7 @@ Steve
 - [ETAModder](https://github.com/ETAModder)
 - [Ettore Ciolli](https://github.com/ettoreciolli1)
 - [aqua5230](https://github.com/aqua5230)
+- [Harsh](https://github.com/harsh5d5)
 - [Evan Rhea](https://github.com/MegaSF)
 - [Ezra K](https://github.com/EzraKL)
 - [Samudraneel](https://github.com/23f3002744)
@@ -2718,4 +2720,8 @@ Emany Chiruza
 - [Yash Rastogi](https://github.com/Yrastogi)
 [sarthak sahu](https://github.com/sarthaksahu03)
 [rutuja](https://github.com/Rutu92)
+<<<<<<< add-myname
 [Qiujy](https://github.com/Qmoony)
+=======
+[Tanmay](https://github.com/Tanmaybuilds14)
+>>>>>>> main
