@@ -1671,6 +1671,7 @@ Alejandro Alfaro
 - [Shanyu](https://github.com/shanyuin)
 - [Sharad vyas](https://github.com/sharadvyas123)
 - [Sharath Chandhan](https://github.com/sharath0x)
+- [Dhruv Bamal] (https://github.com/dhruv-bamal)
 - [Sharienne] (https://github.com/Sharienn-e)
 - [Shariq Naseem](https://github.com/muhammadshariq0007)
 - [Sharyu Patil](http://github.com/Sharyupatil01)
