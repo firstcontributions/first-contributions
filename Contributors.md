@@ -1,11 +1,15 @@
 # Contributors
 
 - [Ecma Scripts]
+[Ajay](https://github.com/ajay-69)
+- [Fahmiajik](https://github.com/fahmiajik12)
 - [Ipshita Chatterjee](https://github.com/IpshitaChatterjee)
 - [N V K Jaswanth](https://github.com/jaswanth6988)
 - [PrajanManojKumarRekha](https://github.com/PrajanManojKumarRekha)
 - [ooweat](https://github.com/ooweat)
 - [Boris Plotnikov](https://github.com/BorisPlotnikov)
+- [Abdullah Asif](https://github.com/abdullaha24)
+- [Deepak Chauhan](https://github.com/ideepakchauhan7)
 - [Rodrigo Castro](https://github.com/rodrigoc-dev)
 - [Sahil Vishwakarma](https://github.com/sahilvish01)
 - Ponapati Spandana
@@ -18,6 +22,7 @@
 - Yuyanran Xiao
 - Sinthujan Jayaranjan
 - [Brielle Johnston](https://github.com/briefjo)
+- [Owais Ahmad Shah](https://github.com/owaisahmadshah)
 - [DarthVoydde](https://github.com/DarthVoydde)
 - [Akshaya](https://github.com/Akshaya2302)
 - [Fahad Bin Siddique](https://github.com/fahadbinsiddique)
@@ -56,6 +61,7 @@
 - [Srishti] (https://github.com/srishti-1935)
 - [Ramirez779] (https://github.com/Ramirez779)
 - [Aman Gupta](https://github.com/amangupta982)
+- [manojsharma46](https://github.com/manojsharma46)
 - [Om Kulkarni](https://github.com/justmeaprogrammer)
   [Nireeksha A P](https://github.com/NireekshaAP07)
 - [Purno Dewan](https://github.com/coderx86)
@@ -486,6 +492,7 @@
 - [D7mnCh](http://github.com/D7mnCh)
 - [Hajeera Begum](https://github.com/hajeera-begum)
 - [Hajeera's Branch]
+- [XIA Ming Wu](https://github.com/frankxiamingwu-collab)
 - [SJ](http://github.com/saaicasm)
 - [maria isabel solis](https://github.com/Maisa2006)
 - [Blessing Izee](https://github.com/Blessing-Imoukhede)
@@ -963,6 +970,7 @@
 - [ETAModder](https://github.com/ETAModder)
 - [Ettore Ciolli](https://github.com/ettoreciolli1)
 - [aqua5230](https://github.com/aqua5230)
+- [Harsh](https://github.com/harsh5d5)
 - [Evan Rhea](https://github.com/MegaSF)
 - [Ezra K](https://github.com/EzraKL)
 - [Samudraneel](https://github.com/23f3002744)
@@ -1062,6 +1070,7 @@
 - [Yau-20070205](https://github.com/Yau-20070205)
 - [Iam Pranav Yadav](https://github.com/pranav50227)
 - [Satish Yadav](https://github.com/Satish-yadav01)
+- [Stach Programista](https://github.com/stachprogramista)
 - [Ibrahim Oloyede](https://github.com/Mista-Log)
 - [Imanol57864](https://github.com/Imanol57864)
 - [Isaachbt](https://github.com/Isaachbt)
@@ -1644,6 +1653,7 @@
 - [Shozab Ali Nasir](https://github.com/shozabali06)
 - [Shreecharana](https://github.com/Shreecharana24)
 - [Shrinivas Narhare](https://github.com/shrinivas9606)
+- [Shrihari]
 - [Shriram Selvam](https://github.com/ShriramSelvam)
 - [Shriya Mohanty](https://github.com/shriya5752)
 - [Shruti Chadda](https://github.com/Shruti-chadda)
@@ -2455,6 +2465,7 @@
 - [BetterThanYou](https://github.com/Better-Than-You)
 - Better-than-you
 - [Better-Than-You]
+- [Foti](https://github.com/fotisanpetprojects)
 - [M Fakhri Randy](https://github.com/siapalahsayaini)
 - Rishav Chandra (22f1001685@ds.study.iitm.ac.in)
 - [hidetzu](https://github.com/hidetzu)
@@ -2547,6 +2558,7 @@
 - [Abinav GT](https://github.com/abinavgt)
 - [Sanjukta Mardi](https://github.com/sanjuktamardi)
 - [Khuman Dhakad](https://github.com/khuman-dhakad)
+- [jokrasno](https://github.com/jokrasno)
 - [Navjot Singh](https://github.com/NavjotML)
 - [Ninad Nimkar](https://github.com/Ninad-Nimkar)
 - [Santiago Escamilla](https://github.com/JtssMgr)
@@ -2637,3 +2649,12 @@
 - [Mariangel Marin Acosta](https://github.com/marinacostamariangel2-hash) -[lera](https://github.com/vodolaznica1488)
   -Muskan Bishnoi
   [Vaibhavi Ghutukade](https://github.com/Vaibhavi410)
+- [Mariangel Marin Acosta](https://github.com/marinacostamariangel2-hash)
+-[lera](https://github.com/vodolaznica1488)
+-Muskan Bishnoi
+[Vaibhavi Ghutukade](https://github.com/Vaibhavi410)
+[Monish](https://github.com/Swordship)
+- [Yash Rastogi](https://github.com/Yrastogi)
+[sarthak sahu](https://github.com/sarthaksahu03)
+[rutuja](https://github.com/Rutu92)
+[Tanmay](https://github.com/Tanmaybuilds14)
