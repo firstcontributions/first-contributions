@@ -31,6 +31,7 @@
 - [GP Singh](https://github.com/Gurpreetsingh1293)
 - [SAYEM](https://github.com/11UCRES)
 - [Mohamed Ikbel Ben Nessib](https://github.com/ikbelbensib)
+- [Carneirinho](https://github.com/pedrocarneiroa96-crypto)
 - [Samuel Meddin](https://github.com/GalacticAvenger)
 - [Matthieu Gout] 
 - [Akash Prajapati](https://github.com/ZERO-DAY-CODE)
