@@ -2702,6 +2702,7 @@ Emany Chiruza
 - [Ashith Fernandes](https://github.com/spideyashith)
 - [Saptarshi Kuila](https://github.com/sap6011)
 -[Nazar](https://github.com/nazmashovets74)
+- [SoyPikei](https://github.com/SoyPikei)
 -[Mourya Vats](https://github.com/MaxiMult)
 - [Om Singh](https://github.com/Singh-OmDev)
 - [Harshdeep Singh](https://github.com/Harshdeep-creator)
