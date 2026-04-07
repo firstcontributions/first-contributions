@@ -9,6 +9,7 @@
 - [Sahil Vishwakarma](https://github.com/sahilvish01)
 - Ponapati Spandana
 - [MrAidxn](https://github.com/MrAidxn)
+- [iacker](https://github.com/iacker)
 - [John Chavarría](https://github.com/Johnchc10)
 - [jmoreno]
 - [Himanshu](https://github.com/himanshubit)
@@ -28,6 +29,7 @@
 - [Samuel Meddin](https://github.com/GalacticAvenger)
 - [Matthieu Gout]
 - [Akash Prajapati](https://github.com/ZERO-DAY-CODE)
+- [DenisseLedezma](https://github.com/DenisseLedezma)
 - [jesse] (https://github.com/jesse-tnei)
 - [Bahnishikha Singha](https://github.com/aniCtrl)
 - [OneTwo](https://github.com/OneTwo00712)
@@ -2436,6 +2438,7 @@
 - [Apoorva](https://github.com/23f2004758)
 - [iskipcollege](https://github.com/iskipcollege)
 - [Adan Zeeshan](https://github.com/adanzee)
+- [German Mena](https://github.com/German-Mena)
 - [Abdullah Elsafty](https://github.com/your-abdullahelsafty4)
 - [Gisele Medina](https://github.com/code-medina)
 - [Seanachan Pai](https://github.com/Seanachan)
