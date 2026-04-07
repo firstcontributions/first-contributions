@@ -2519,6 +2519,7 @@ Merjen Amanmuradova
 - [BetterThanYou](https://github.com/Better-Than-You)
 - Better-than-you
 - [Better-Than-You]
+- [Foti](https://github.com/fotisanpetprojects)
 - [M Fakhri Randy](https://github.com/siapalahsayaini)
 - Rishav Chandra (22f1001685@ds.study.iitm.ac.in)
 - [hidetzu](https://github.com/hidetzu)
