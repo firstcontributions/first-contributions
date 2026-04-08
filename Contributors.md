@@ -36,6 +36,7 @@
 - [Manjunatha P](https://github.com/namelessweakl1ng)
 - [Shruti627](https://github.com/Shruti627)
 - [Sadiya Bhokare](https://github.com/sadiyabhokare)
+- Felipe Soler
 - [Bobur Boboyev](https://github.com/Bobur-Boboyev)
 - [Piyush Srivastava](https://github.com/Phoenix-2207)
 - [GP Singh](https://github.com/Gurpreetsingh1293)
