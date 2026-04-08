@@ -63,6 +63,7 @@
 - [Ramirez779] (https://github.com/Ramirez779)
 - [Aman Gupta](https://github.com/amangupta982)
 - [manojsharma46](https://github.com/manojsharma46)
+- [Rajkishor Thakur](https://github.com/rajkishort596)
 - Sarah Garcia
 - [Om Kulkarni](https://github.com/justmeaprogrammer)
 [Nireeksha A P](https://github.com/NireekshaAP07)
