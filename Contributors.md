@@ -19,7 +19,7 @@
 - [Himanshu](https://github.com/himanshubit)
 - [Ahmed Rafi](httpd://github.com/ahmed-rafi07)
 - Yuyanran Xiao
--[Elavarasan](https://github.com/Captain-Levi401)
+-[Elavarasan](https://github.com/Captain-Levi401) &  Commander Erwin Smith
 - Sinthujan Jayaranjan
 - [Brielle Johnston](https://github.com/briefjo)
 - [Owais Ahmad Shah](https://github.com/owaisahmadshah)
