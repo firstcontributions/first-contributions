@@ -7,6 +7,7 @@
 - [N V K Jaswanth](https://github.com/jaswanth6988)
 - [PrajanManojKumarRekha](https://github.com/PrajanManojKumarRekha)
 - [ooweat](https://github.com/ooweat)
+- [SaranrajAR](https://github.com/SaranrajAR)
 - [Boris Plotnikov](https://github.com/BorisPlotnikov)
 - [Abdullah Asif](https://github.com/abdullaha24)
 - [Deepak Chauhan](https://github.com/ideepakchauhan7)
