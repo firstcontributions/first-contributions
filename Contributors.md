@@ -53,6 +53,7 @@
 - [Sahil Sharma](https://github.com/Developer-Sahil)
 - [Kun-Hee Son](https://github.com/NICESONY)
 - [Pranav M S Krishnan](https://github.com/Pranav-MSK)
+- [Asif Khan](https://github.com/Mak-1911)
 - [Udochukwu Anigbogu](https://github.com/Bubbles80)
 - [Jinqi Tang](https://github.com/JinqiSMS/first-contributions)
 - [Muhammad Suleman](https://github.com/SulemanWaraich)
