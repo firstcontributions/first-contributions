@@ -98,6 +98,7 @@
 - [Prabhat Bhatia](https://github.com/prabhatbhatiaa)
 - [Anamika Pandey](https://github.com/AnamikaPandey22)
 - [Aurora](https://github.com/Aurora-yixi)
+- [Rahul](https://github.com/therahul-yo)
 - [Jignesh]
 - Prakash G Dhole
 - Ryomen Sukuna
