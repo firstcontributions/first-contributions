@@ -30,6 +30,7 @@
 - [Akshaya](https://github.com/Akshaya2302)
 - [Fahad Bin Siddique](https://github.com/fahadbinsiddique)
 - [Shruti627](https://github.com/Shruti627)
+- [Sadiya Bhokare](https://github.com/sadiyabhokare)
 - [Bobur Boboyev](https://github.com/Bobur-Boboyev)
 - [Piyush Srivastava](https://github.com/Phoenix-2207)
 - [GP Singh](https://github.com/Gurpreetsingh1293)
