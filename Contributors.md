@@ -2278,6 +2278,7 @@ Merjen Amanmuradova
 - [Shank] (https://github.com/ShashankTiwari1801)
 - [Nidhi Parate] (https://github.com/n1dhiparate)
 - [fzgma] (https://github.com/fzgma)
+- [Dandastino] (https://github.com/dandastino)
 - [Pragya Mandal] (github.com/pragyamandal)
 - [Nour] (https://github.com/Nour-ad)
 - [Nícolas Marinho](https://github.com/nicolasmarinhoo)
