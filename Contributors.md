@@ -1381,6 +1381,7 @@ Alejandro Alfaro
 - [Mohamed Salih](https://github.com/mohamedsalihva)
 - [Mohamed](https://github.com/momo70139)
 - [Stennis Smith](https://github.com/Stennis1)
+- [Mary Akussah](https://github.com/MaryAkussah)
 - [Mohammad Ali](https://github.com/md-ali-0)
 - [Mohammed Munaaf](https://github.com/MohammedMunaaf)
 - [Mohammed Saqib Rehaman Namzi](https://github.com/md-saqib001)
