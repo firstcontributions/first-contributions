@@ -996,6 +996,7 @@ Ben
 - [Big Tomo](https://github.com/thomas-hutchinson)
 - [EagleStrike33](https://github.com/EagleStrike33)
 - [Dylan Moore](https://github.com/dylanm3)
+- [Kannan S](https://github.com/kannanCodes)
 - [EB](https://github.com/boranj)
 - [EM KalpaniEkanayake](https://github.com/Kalpiekanayake)
 - [EdVKu](https://github.com/EdVKu)
