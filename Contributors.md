@@ -41,6 +41,7 @@
 - [Samuel Meddin](https://github.com/GalacticAvenger)
 - [Matthieu Gout] 
 - [Akash Prajapati](https://github.com/ZERO-DAY-CODE)
+- [Vedant Bankewar](https://github.com/VedantBankewar)
 - [DenisseLedezma](https://github.com/DenisseLedezma)
 - [jesse] (https://github.com/jesse-tnei)
 - [Bahnishikha Singha](https://github.com/aniCtrl)
@@ -1372,6 +1373,7 @@ Alejandro Alfaro
 - [Mohamed Anes](https://github.com/Mohamed-Anes)
 - [Mohamed Salih](https://github.com/mohamedsalihva)
 - [Mohamed](https://github.com/momo70139)
+- [Stennis Smith](https://github.com/Stennis1)
 - [Mohammad Ali](https://github.com/md-ali-0)
 - [Mohammed Munaaf](https://github.com/MohammedMunaaf)
 - [Mohammed Saqib Rehaman Namzi](https://github.com/md-saqib001)
@@ -2747,4 +2749,7 @@ Emany Chiruza
 - [Ziang Zhao] (https://github.com/theAtlantic-zza）
 - [Dipto Das](https://github.com/Das-Dipto)
 - [Muhammad Umar](https://github.com/thisisumar)
+
 [Bhumi Dingana] (https://github.com/Bhumii23)
+
+
