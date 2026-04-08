@@ -3,6 +3,7 @@
 - [MrTambe-jpg](https://github.com/MrTambe-jpg)
 [Ajay](https://github.com/ajay-69)
 - [Fahmiajik](https://github.com/fahmiajik12)
+- [suhail aazam](https://github.com/suhail891)
 - [Ipshita Chatterjee](https://github.com/IpshitaChatterjee)
 - [N V K Jaswanth](https://github.com/jaswanth6988)
 - [PrajanManojKumarRekha](https://github.com/PrajanManojKumarRekha)
