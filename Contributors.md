@@ -2758,3 +2758,4 @@ Emany Chiruza
 - [Satish Sharma](https://github.com/satish-sharma360)
 - [Batuhan KANBER](https://github.com/BatuhanKANBER)
 - [Saumya Bhagat](https://github.com/saumyaaa4)
+[Pranay Mehtta](https://github.com/mehttapranay)
