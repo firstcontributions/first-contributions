@@ -60,6 +60,7 @@
 - [Ali Raza Chadharh](https://github.com/ali713111)
 - [Nishit Patel](https://github.com/nish-debug15)
 - [Sahil Sharma](https://github.com/Developer-Sahil)
+- [Hood Shaikh](https://github.com/HoodShaikh)
 - [Kun-Hee Son](https://github.com/NICESONY)
 - [Pranav M S Krishnan](https://github.com/Pranav-MSK)
 - [Asif Khan](https://github.com/Mak-1911)
