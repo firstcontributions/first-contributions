@@ -74,6 +74,7 @@
 - [Prem Prakash](https://github.com/MrCarpediem)
 - [Raj Roy] (https://github.com/devKiNGCRiC)
 - [Srishti] (https://github.com/srishti-1935)
+- [Yicheng Wang](https://github.com/ggeennn)
 - [Ramirez779] (https://github.com/Ramirez779)
 - [Aman Gupta](https://github.com/amangupta982)
 - [manojsharma46](https://github.com/manojsharma46)
