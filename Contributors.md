@@ -300,6 +300,7 @@ Seif Alsayad
 - shriman181
 -[Rakesh Dintakurthi](https://github.com/rakeshdintakurthi)
 -[Neha Dubey](https://github.com/Nehainit)
+- [Najad M](https://github.com/najadsayshi)
 -[Aman Shukla](https://github.com/amanshukla2005)
 -[Farid Ahmadov]
 - [Akash Pandey](http://github.com/thepandeyakash)
