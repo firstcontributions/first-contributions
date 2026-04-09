@@ -1217,6 +1217,7 @@ Steve
 - [Jose Rios](https://github.com/josel006)
 - [Jose Soto](https://github.com/jossotriv)
 - [Joshna Jojo](https://github.com/joshnajojo12)
+- [Josh Kery](https://github.com/joshkery-rlmg)
 - [Joshua Hans](https://github.com/joshhans21)
 - [José Kahl](https://github.com/jskahl)
 - [Jothika Aravindhan](https://github.com/jothikaaravindhan)
