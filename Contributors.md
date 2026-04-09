@@ -1516,6 +1516,7 @@ Alejandro Alfaro
 - [Nyoman Kusuma](https://github.com/knyoman)
 - [Vijay Joshi](https://github.com/VijayJoshi17)
 - [OCHWO DAVID](https://github.com/DaveOch-sudo)
+- [Julian So](https://github.com/julianchso)
 - [OTTOGALLI Tristan](https://github.com/ottogalli-tristan)
 - [Olapu Ajay](https://github.com/olapuajay)
 - [Olga Torok](https://github.com/OlgaTorok)
