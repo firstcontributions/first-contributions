@@ -1536,6 +1536,7 @@ Alejandro Alfaro
 - [Pablo Hermun](https://github.com/PabloHermun)
 - [Pablo Souza](https://github.com/pablohsouza09)
 - [Paige Li](https://github.com/itspaigenli)
+- [Gagik Petrosian](https://github.com/GP-89)
 - [PanBurz](https://github.com/PanBurz)
 - [Panagiotis Tsomp](https://github.com/PanosTsomp)
 - [Panos L](https://github.com/PLCodingStuff)
