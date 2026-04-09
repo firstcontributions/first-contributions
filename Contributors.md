@@ -74,6 +74,7 @@
 - [Hood Shaikh](https://github.com/HoodShaikh)
 - [Kun-Hee Son](https://github.com/NICESONY)
 - [Pranav M S Krishnan](https://github.com/Pranav-MSK)
+- [Shubham shinde](https://github.com/shubhamshinde8111)
 - [Leonardo Rodriguez](https://github.com/ellxooo)
 - [Asif Khan](https://github.com/Mak-1911)
 - [Udochukwu Anigbogu](https://github.com/Bubbles80)
