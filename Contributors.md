@@ -108,6 +108,7 @@
 - [knott] (https://github.com/knott-todd)
 - Amster [2k5]
 - roy
+- Baha [DouD☄](https://github.com/xDouDx)
 - Rancho
 - DevenSpatel
 - [Lohit T] (https://github.com/itsLohit)
