@@ -145,6 +145,7 @@
 - [Cristina Ayala] (https://github.com/acristinaa)
 - [Kritika844](https://github.com/Kritika844)
 - [Nirav] (https://github.com/niravkpatel36)
+- [Nayan Dey](https://github.com/deyn4420-boop)
 - [KshitijMJ](https://github.com/21f3002019/)
 - [Mudassir Shaikh] (https://github.com/TheMudda6)
 - [Arjun Kallurkar](https://github.com/quasar-011)
