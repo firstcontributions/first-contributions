@@ -324,11 +324,12 @@ Seif Alsayad
 - [Tushar Rana] (https://github.com/Tushar-Rana-13)
 - Senthil Kumar
 - [Fuzail]
-- 
+-
 - [ Saksham Pokharel ](https://github.com/sakshampokharel01-beep)
 - [Satyanshi Singh](https://github.com/23f3004132)
 - Hello
-- | Sundaram Singh | [your-github](https://github.com/23f1002470) |
+- [Fabian648](https://github.com/Fabian648)
+ | Sundaram Singh | [your-github](https://github.com/23f1002470) |
 - [Thecapstone Mogbolu](https://github.com/Thecapstone)
 - [Pankaj vishwakarma](https://github.com/pk-arma)
 - [Anthonia Egwoyi](http://github.com/anthoniaoine)
