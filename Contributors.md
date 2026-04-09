@@ -1669,6 +1669,7 @@ Alejandro Alfaro
 - [S-Dedeepya](https://github.com/S-Dedeepya)
 - [SImarjeet Singh Johar](https://github.comSimarjeeSinghJohar)
 - [Jhonata Ferreira](https://github.com/JhonataFerreira95)
+- [Jhojan 00](https://github.com/Jhojan00)
 - [SWanHK](https://github.com/swanhk)
 - [Saksham Tyagi](https://github.com/iam-saksham-tyagi) 
 - [Pedro Frasao](https://github.com/PedroFrasao) 
