@@ -223,7 +223,7 @@ Alicexxxx
 - [Shingo](https://github.com/KatanoShingo)
 - [Aryaman Kummamuru](https://github.com/23f3003961)
 - [CristyanVessimo](https://github.com/CristyanVessimo)
-- [Adeola Ajiboso](https://github.com/Ajiboso-Adeola/)
+- [Adeola Ajiboso](https://github.com/Ajiboso-Adeola)
 - [Abubakar Imran](https://github.com/Abubakar-Imran)
 - [Bighna Raj Bhattamishra](https://github.com/Facelessism)
 - [Areeba Tahir](https://github.com/areebatahir11/)
