@@ -259,6 +259,7 @@ Alicexxxx
 - David Batchelder
 hello ji
 - [suman-kumar](https://github.com/sumankr1211)
+- [Kranthi-kumar](https://github.com/Kranthikumar06)
 - [Katio-Kyou](https://github.com/Katio-Kyou)
 Seif Alsayad
 - [h3nr1-d14z](https://github.com/h3nr1-d14z)
