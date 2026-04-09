@@ -51,7 +51,7 @@
 - [Mohamed Ikbel Ben Nessib](https://github.com/ikbelbensib)
 - [Carneirinho](https://github.com/pedrocarneiroa96-crypto)
 - [Samuel Meddin](https://github.com/GalacticAvenger)
-- [Matthieu Gout] 
+- [Koushik Deb](https://github.com/koushik-ops) 
 - [Akash Prajapati](https://github.com/ZERO-DAY-CODE)
 - [Vedant Bankewar](https://github.com/VedantBankewar)
 - [DenisseLedezma](https://github.com/DenisseLedezma)
