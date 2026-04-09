@@ -576,6 +576,8 @@ zain
 - [Mawira vic](https://github.com/MawiraVicto)
 - [Tusharika Srivastava](https://github.com/Tusharika725)
 - [Saket Anand](https://www.saketanand.com)
+- [Codex](https://github.com/codex)
+- Codex CS Career: Computer Science enthusiast focused on software engineering, open-source collaboration, Git workflows, and practical AI development.
 - [Scott Boudreaux (Elyan Labs)](https://github.com/Scottcjn)
 - [Kokkirigedda Lohit](https://github.com/lohit3050)
 - [Avuram Chandra Mohan Reddy](https://github.com/chandramohan385)
