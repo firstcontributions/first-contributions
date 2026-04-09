@@ -1422,6 +1422,7 @@ Alejandro Alfaro
 - [Mridul Narain](https://github.com/narainmridul)
 - [Mrityunjay Sahani](https://github.com/mritunjaysahani)
 - [Mrunal Jadhav](https://github.com/mrunaljadhav)
+- [Isaac Gonzalez] (https://github.com/ZaakyG)
 - [Jeet Jawale](https://github.com/jeetjawale)
 - [Hemanth P](https://github.com/Hemanth-Py)
 - [Mudipelly Shiva](https://github.com/shivamudipelly)
