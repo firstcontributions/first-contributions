@@ -6,6 +6,7 @@
 - [MrTambe-jpg](https://github.com/MrTambe-jpg)
 - [Ajay](https://github.com/ajay-69)
 - [Fahmiajik](https://github.com/fahmiajik12)
+- [Vicho1937](https://github.com/Vicho1937)
 - [Tejas Waghere](https://github.com/tejaswaghere)
 - [suhail aazam](https://github.com/suhail891)
 - [Ipshita Chatterjee](https://github.com/IpshitaChatterjee)
