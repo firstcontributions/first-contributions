@@ -124,6 +124,7 @@
 - [Lohit T] (https://github.com/itsLohit)
 - [DDuran2007] (https://github.com/DDuran2007)
 - [Edlyn Jessica Philip](https://github.com/edlynjessica)
+- [Rorath](https://github.com/Rorath)
 - [XtreellaDev](https://github.com/xtreellaDev)
 - [DosCocas](https://github.com/DosCocas)
 - [Prabhat Bhatia](https://github.com/prabhatbhatiaa)
