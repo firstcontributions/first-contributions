@@ -234,6 +234,7 @@ Alicexxxx
 - [Prakhyath Bandaluppi](https://github.com/prakhyath1501)
 [Parvathi Supreeth](https://github.com/parvathisupreeth)
 - [Laureano](https://github.com/Staindek)
+- [Lautaro Luna](https://github.com/lau-luna)
 - [Kartik Borse](https://github.com/Kartik-borse)
   [Rituraj Tripathi](https://github.com/Sandilya69)
 - [Shaurya Adarsh](https://github.com/shauryaadarsh)
