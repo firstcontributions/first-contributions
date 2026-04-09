@@ -2759,6 +2759,7 @@ Emany Chiruza
 [Tanmay](https://github.com/Tanmaybuilds14)
 [NikhilSharma](https://github.com/account)
 [Moksh Gupta](https://github.com/mokshxp)  
+[Vinay Phatarpekar](https://github.com/vinayp9399)  
 - [wodanimm](https://github.com/wodanimm)
 [Enayatullah Balaghi](https://github.com/EngEnayat)
 - [Coskun Ozaltin](https://github.com/CoskunOzaltin)
