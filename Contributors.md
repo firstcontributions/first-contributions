@@ -2808,6 +2808,7 @@ Emany Chiruza
 - [Yash Rastogi](https://github.com/Yrastogi)
 [sarthak sahu](https://github.com/sarthaksahu03)
 [rutuja](https://github.com/Rutu92)
+[Qiujy](https://github.com/Qmoony)
 [Tanmay](https://github.com/Tanmaybuilds14)
 [NikhilSharma](https://github.com/account)
 [Moksh Gupta](https://github.com/mokshxp)  
