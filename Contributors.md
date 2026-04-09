@@ -57,6 +57,7 @@
 - [Koushik Deb](https://github.com/koushik-ops) 
 - [Akash Prajapati](https://github.com/ZERO-DAY-CODE)
 - [Vedant Bankewar](https://github.com/VedantBankewar)
+- [HRIDAY SARKAR](https://github.com/Hriday-sarkar)
 - [DenisseLedezma](https://github.com/DenisseLedezma)
 - [jesse] (https://github.com/jesse-tnei)
 - [Bahnishikha Singha](https://github.com/aniCtrl)
