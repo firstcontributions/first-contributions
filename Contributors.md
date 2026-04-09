@@ -1787,6 +1787,7 @@ Alejandro Alfaro
 - [Swati Pandey](https://github.com/gr8swati)
 - [Syed Rahil Hussain](https://github.com/Syed-srh)
 - [Sylvain L](https://github.com/sylvain-lec)
+- [Ha Quang Trung](https://github.com/quangtrung03)
 - [Syam Jalla](https://github.com/SyamJalla)
 - [Joshua Peter](https://github.com/joshuapetertolu)
 - [TAHER EL Mehdi](https://github.com/taher-el-mehdi)
@@ -2094,6 +2095,7 @@ Alejandro Alfaro
 - [tharsika](https://github.com/Tharsika21)
 - [umesh reddy](https://github.com/T-UmeshReddy)
 - [uzuraDev](https://github.com/uzuraDev)
+
 - [lawal_temitope]
 - [Valerie Marmolejo Molina] (https://github.com/valemm13)
 - [valentinfazenda](https://github.com/valentinfazenda)
