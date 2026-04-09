@@ -2620,8 +2620,8 @@ Merjen Amanmuradova
 jieting-[ych3star](https://github.com/ych3star)
 -[Sahan](https://github.com/Sahan-k)
 -Aryan Sharma(https://github.com/aryanIPS)
--Lalithkishore
--Mihir Panjikar(https://github.com/Mihir-Panjikar/)
+- Lalithkishore
+- Mihir Panjikar(https://github.com/Mihir-Panjikar/)
 - [Musaab Al-Ubaidi](https://github.com/24f2006299)
 - [Jarrett West](https://github.com/jaydubya818)
 - [CaiAo](https://github.com/LaobaiAi)
