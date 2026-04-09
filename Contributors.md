@@ -2774,3 +2774,4 @@ Emany Chiruza
 [Pranay Mehtta](https://github.com/mehttapranay)
 -[Sumit Singh](https://github.com/Sumit-342)
 - [Jabes Nelma](https://github.com/JabesNelma)
+- [Alex Moore](https://github.com/chenzhihenga)
