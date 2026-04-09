@@ -2501,6 +2501,7 @@ Merjen Amanmuradova
 - [Tanvi Sharma]_(https://github.com/07Tanvi)
 - Saumay
 - [Rudra-Kumar](https://github.com/Rudra-RNC)
+- [SatyamCode12](https://github.com/SatyamCode12)
 - [Min0Gyu0Kang](https://github.com/Min0Gyu0Kang)
 - [23f3003974](https://github.com/23f3003974)
 - [Roma](https://github.com/23f2002478-ROMA)
