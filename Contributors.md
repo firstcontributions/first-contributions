@@ -41,6 +41,7 @@
 - Yuyanran Xiao
 - Sinthujan Jayaranjan
 - [Brielle Johnston](https://github.com/briefjo)
+- [Hemang Patel](https://github.com/Hemang0710)
 - [Owais Ahmad Shah](https://github.com/owaisahmadshah)
 - [DarthVoydde](https://github.com/DarthVoydde)
 - [Akshaya](https://github.com/Akshaya2302)
