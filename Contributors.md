@@ -180,6 +180,7 @@
   SB65555246
 [Chakri](https://github.com/chakri)
 -[Halcyon Man](https://github.com/halcyon-man)
+-[RicoNzioki](https://github.com/RicoNzioki)
 -[Arul Cornelious](https://github.com/Arul1998)
 -[Aditya Swain](https://github.com/23f3004358)
 -[Aidan Gray](https://github.com/Aitgray)
