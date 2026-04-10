@@ -331,7 +331,7 @@
 -[Farid Ahmadov]
 - [Akash Pandey](http://github.com/thepandeyakash)
 - [Kartikay-Bhardwaj](https://github.com/KartikayBhardwaj-dev)
-- [Tushar Rana] (https://github.com/Tushar-Rana-13)
+- [Tushar Rana](https://github.com/Tushar-Rana-13)
 - Senthil Kumar
 - [Fuzail]
 - 
