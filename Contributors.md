@@ -274,6 +274,7 @@ Alicexxxx
 - [hello]()
 - David Mossop
 - David Batchelder
+- Valentin DIDIER
 hello ji
 - [suman-kumar](https://github.com/sumankr1211)
 - [Kranthi-kumar](https://github.com/Kranthikumar06)
