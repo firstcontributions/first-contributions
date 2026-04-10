@@ -1334,6 +1334,7 @@ Rongxin Zhang
 - [Lam Tung Dang](https://github.com/BitOfForest)
 - [Larson](https://github.com/lixianphy)
 - [Laura Vazquez](https://github.com/lauravazquezp)
+- [Z3rricK](https://github.com/Z3rricK/)
 - [Lavanya B Y](https://github.com/lavanya23-8)
 - [Leo Xu](https://github.com/LeoXu8)
 - [Likhith S Gowda](https://github.com/Likhi2005)
