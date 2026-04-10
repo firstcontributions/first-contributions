@@ -2835,3 +2835,4 @@ Emany Chiruza
 - - [Ayush Dwivedi](https://github.com/ayushdwivedi-stack)
 - [Shubham Barnwal] (https://github.com/Shubham-Developer02)
 - [Hasan Naqvi](https://github.com/hasanaqvi)
+- [Roman Isadchenko](https://github.com/bug0x00)
