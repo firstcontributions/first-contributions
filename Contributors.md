@@ -20,6 +20,7 @@
 - [Vinay Munde]
 - [Danyell Shiflett]
 - [Koki Oishi]
+- [Sanindu Hansara](https://github.com/SaninduHansara)
 - [pp](https://github.com/pprbkt)
 - [pavan_shetty](https://github.com/shettypavan486-boop)  
 - [Ganesh_Bhargav](https://github.com/Ganeshbhargav)  
@@ -2530,3 +2531,4 @@
 - [prehan-13](https://github.com/prehan-13)
 - eemi
 - [A. Tejaswi](https://github.com/Tejaswi-9905) | B.Tech CSE | India
+  Sarthak Patil
