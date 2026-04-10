@@ -2,6 +2,7 @@
 -[Karthik_Reddy](https://github.com/Karthikreddy2411)
 -[AbdullahGp](https://github.com/MAbdullahGp)
 -[Yorka]
+- [SIDHARTH](https://github.com/Sid-2302)
 - [Sadia Islam Thaky](https://github.com/thakyislam)
 -[mnh2003](https://github.com/myatnoehla/mnh.git)
 -[nahosantor](https://github.com/nahosantor)
@@ -14,6 +15,7 @@
 - [Ajay](https://github.com/ajay-69)
 - [Kasenkow](https://github.com/Kasenkow)
 - [Fahmiajik](https://github.com/fahmiajik12)
+- [Markel Jaureguibehere](https://github.com/MarkelJaure)
 
 - [Vicho1937](https://github.com/Vicho1937)
 - [Santosh Andra]
@@ -2301,6 +2303,7 @@ ritu
 - [Linda Marika](https://github.com/LindaMarika)
 - [GordonGGKGG](https://github.com/GordonGGKGG)
 - [fengtaowu](https://github.com/fengtaowu)
+Arjit Sharma will Work in Google in late 2027 . I will Surely Do that . I will Become Best S Tier Developer . I will Surely Make This Happen ....
 - [22F3001706(MM)](https://github.com/22F3001706)
 - [Manav Pal](https://github.com/manavpal-dev)
 - [Motus](https://github.com/xuzihao0226)
@@ -2855,3 +2858,5 @@ Emany Chiruza
 - [Zainab-Nandhini](https://github.com/Nandhini6132)
 - [Ishit](https://github.com/ishitGsigma)
 - [qiiiz236](https://github.com/qiiiz236)
+- [Basil Ahamed](https://github.com/BASILAHAMED)
+
