@@ -1127,6 +1127,7 @@ Steve
 - [Hamza Qureshi](https://github.com/hamzaq453)
 - [Hannan Nasim](https://github.com/Hannan-Nasim)
 - [Hanna Lozano](https://github.com/hannalozano)
+- [Rohit Verma](https://github.com/rohitv33)
 - [Hareen-Liyanage](https://github.com/Hareen-Liyanage)
 - [Harinee12](https://github.com/Harinee12)
 - [Harish Kumbar](https://github.com/river-bridge)
