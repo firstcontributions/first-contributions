@@ -255,6 +255,7 @@ Alicexxxx
 - [Lautaro Luna](https://github.com/lau-luna)
 - [Kartik Borse](https://github.com/Kartik-borse)
 - [Sebastian Zhunaula](https://github.com/devsebastian44)
+- [Canberk Girgin](https://github.com/canberkg67)
   [Rituraj Tripathi](https://github.com/Sandilya69)
 - [Shaurya Adarsh](https://github.com/shauryaadarsh)
 - [Aeleen-Alfaro](https://git.hub/Ralyss)
