@@ -15,6 +15,7 @@
 - [Ajay](https://github.com/ajay-69)
 - [Kasenkow](https://github.com/Kasenkow)
 - [Fahmiajik](https://github.com/fahmiajik12)
+- [Markel Jaureguibehere](https://github.com/MarkelJaure)
 
 - [Vicho1937](https://github.com/Vicho1937)
 - [Santosh Andra]
