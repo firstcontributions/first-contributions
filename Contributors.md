@@ -2862,3 +2862,4 @@ Emany Chiruza
 - [Zainab-Nandhini](https://github.com/Nandhini6132)
 - [Ishit](https://github.com/ishitGsigma)
 - [Basil Ahamed](https://github.com/BASILAHAMED)
+- [Shashikant Kataria](https://github.com/shashix07)
