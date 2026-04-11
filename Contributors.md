@@ -10,6 +10,7 @@
 - [Motaz9999](https://github.com/Motaz9999)
 - [Ignvvcio254](https://github.com/Ignvvcio254)
 - [Bishal Ramdam](https://github.com/Bishal-RD)
+- [BlueCool12](https://github.com/BlueCool12)
 - [Shiningstar521](https://github.com/Shiningstar521)
 - [MrTambe-jpg](https://github.com/MrTambe-jpg)
 - [Ajay](https://github.com/ajay-69)
