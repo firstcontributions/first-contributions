@@ -20,6 +20,7 @@
 - [Vicho1937](https://github.com/Vicho1937)
 - [Santosh Andra]
 - [Tejas Waghere](https://github.com/tejaswaghere)
+- [Prem Soni](https://github.com/Premsoni24)
 - [suhail aazam](https://github.com/suhail891)
 - [Tushar Sharma](https://github.com/Tushar130506)
 - [Priyanshu Anand](https://github.com/Priyanshuanand1635)
@@ -73,6 +74,7 @@
 - [Vedant Bankewar](https://github.com/VedantBankewar)
 - [HRIDAY SARKAR](https://github.com/Hriday-sarkar)
 - [DenisseLedezma](https://github.com/DenisseLedezma)
+- [Avisha Srivastava] (https://github.com/shineyrbl-byte)
 - [jesse] (https://github.com/jesse-tnei)
 - [Bahnishikha Singha](https://github.com/aniCtrl)
 - [OneTwo](https://github.com/OneTwo00712)
@@ -430,6 +432,7 @@ zain
 - [Jyotula Siva Preetham](https://github.com/MooN4002)
 - [Adaji Gideon](https://github.com/gidosharpman)
 - [Varshith Reddy](https://github.com/VarshithReddy2006)
+- [Kushwanth Parameshwaraiah](https://github.com/kira2406)
 - [Jeet Gupta](https://github.com/JeetG-AlphaDev)
 - [Abhinav](https://github.com/Caterpillarok)
 - [ggxm19][https://github.com/ggxm]
@@ -1860,6 +1863,7 @@ Alejandro Alfaro
 - [Teena Goyal](https://github.com/teenagoyal21)
 - [Tej M Bhat](https://github.com/TejBhat)
 - Salma
+- art
 - [Teja Chalikanti](https://github.com/tchalikanti1705)
 - [Tejas Jogdand](https://github.com/Tejas-Jogdand)
 - [Temhemc](https://github.com/temhemc)
@@ -2518,6 +2522,7 @@ Merjen Amanmuradova
 - [Eneji Peacemaker Ohieku](https://enejiohieku.github.io)
 - [luyishui](https://github.com/luyishui)
 - [Ritesh Senthil](https://github.com/Ritesh-Senthil)
+- [Elliot](https://github.com/ejh1296)
 - [guiping](https://github.com/guipingliu)
 - [ShahedSuliman] (https://github.com/ShahedSuliman678)
 - [Ayush Kumar](https://github.com/Ayush123-e/first-contributions)
@@ -2879,4 +2884,5 @@ Emany Chiruza
 - [nai-long18](https://github.com/nai-long18)
 - [Ash300kl](https://github.com/ash300kl)
 - [Anshul Vishwakarma](https://github.com/anshulvishwakarma105)
+- [Honey Badger]
 - [Zztcoder](https://github.com/Zztcoder)
