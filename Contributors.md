@@ -30,6 +30,7 @@
 - [Ipshita Chatterjee](https://github.com/IpshitaChatterjee)
 - [N V K Jaswanth](https://github.com/jaswanth6988)
 - [PrajanManojKumarRekha](https://github.com/PrajanManojKumarRekha)
+- [Simone Serra](https://github.com/0SimoneSerra0)
 - [ooweat](https://github.com/ooweat)
 - [dhrubajit-cmd](https://github.com/dhrubajit-cmd)
 - [SaranrajAR](https://github.com/SaranrajAR)
