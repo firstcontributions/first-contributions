@@ -1497,6 +1497,7 @@ Alejandro Alfaro
 - [NathanES](https://github.com/nathanES)
 - [Natpu Enean](https://github.com/NatpuEnean)
 - [Sumit Seth]
+- Mathew Arguedas
 - [Naveen C](https://github.com/naveench98)
 - [Naveen Kumar](https://github.com/naveenkumarr1812)
 - [Nayonika Agarwal](https://github.com/nayonika04)   
@@ -2866,7 +2867,6 @@ Emany Chiruza
 - [kimya](https://github.com/itsleviosa)
 - [Papia Karmakar](https://github.com/Papia-tech)
 - [Fathima Siyad](https://github.com/FATHIMALEARNS)
-- [Marlon](https://github.com/marlon123)
 - [Prathmesh-Yadav](https://github.com/Prathmesh-Yadav0269)
 - [Zainab-Nandhini](https://github.com/Nandhini6132)
 - [Ishit](https://github.com/ishitGsigma)
