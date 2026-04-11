@@ -1023,6 +1023,7 @@ Christopher Aguilar
 - [Dharmin028](https://github.com/Dharmin028)
 - [Dhayanithi s r](https://github.com/its-dhaya)
 - [DhritiTS](https://github.com/DhritiTS)
+- Dinalcharuka
 - [Dhruv Bansal](https://github.com/dhruvbansalup)
 - [Sarah Bizal](https://github.com/sarahbizal)
 - [Dhurv](https://github.com/DhruvMarulkar)
