@@ -19,7 +19,6 @@
 - [Kasenkow](https://github.com/Kasenkow)
 - [Fahmiajik](https://github.com/fahmiajik12)
 - [Markel Jaureguibehere](https://github.com/MarkelJaure)
-  
 - [Vicho1937](https://github.com/Vicho1937)
 - [Santosh Andra]
 - [Tejas Waghere](https://github.com/tejaswaghere)
@@ -35,7 +34,7 @@
 - [dhrubajit-cmd](https://github.com/dhrubajit-cmd)
 - [SaranrajAR](https://github.com/SaranrajAR)
 - [Boris Plotnikov](https://github.com/BorisPlotnikov)
-- [N3thunt3r69] (https://github.com/N3thunt3r69)
+- [N3thunt3r69](https://github.com/N3thunt3r69)
 - [Abdullah Asif](https://github.com/abdullaha24)
 - [Deepak Chauhan](https://github.com/ideepakchauhan7)
 - [Rodrigo Castro](https://github.com/rodrigoc-dev)
