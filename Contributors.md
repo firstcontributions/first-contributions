@@ -22,6 +22,7 @@
 - [Tejas Waghere](https://github.com/tejaswaghere)
 - [suhail aazam](https://github.com/suhail891)
 - [Tushar Sharma](https://github.com/Tushar130506)
+- [Priyanshu Anand](https://github.com/Priyanshuanand1635)
 - [Ipshita Chatterjee](https://github.com/IpshitaChatterjee)
 - [N V K Jaswanth](https://github.com/jaswanth6988)
 - [PrajanManojKumarRekha](https://github.com/PrajanManojKumarRekha)
