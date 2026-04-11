@@ -21,10 +21,12 @@
 - [Santosh Andra]
 - [Tejas Waghere](https://github.com/tejaswaghere)
 - [suhail aazam](https://github.com/suhail891)
+- [Tushar Sharma](https://github.com/Tushar130506)
 - [Ipshita Chatterjee](https://github.com/IpshitaChatterjee)
 - [N V K Jaswanth](https://github.com/jaswanth6988)
 - [PrajanManojKumarRekha](https://github.com/PrajanManojKumarRekha)
 - [ooweat](https://github.com/ooweat)
+- [dhrubajit-cmd](https://github.com/dhrubajit-cmd)
 - [SaranrajAR](https://github.com/SaranrajAR)
 - [Boris Plotnikov](https://github.com/BorisPlotnikov)
 - [N3thunt3r69] (https://github.com/N3thunt3r69)
@@ -33,6 +35,8 @@
 - [Rodrigo Castro](https://github.com/rodrigoc-dev)
 - [Sahil Vishwakarma](https://github.com/sahilvish01)
 - Ponapati Spandana
+- [klmpt](https://github.com/klmpt)
+[Gaurav goswami](https://github.com/ggoswami777)
 - [Ayushman Pathak](https://github.com/ayushmanpathak9034)
 - [MrAidxn](https://github.com/MrAidxn)
 - [iacker](https://github.com/iacker)
@@ -50,6 +54,7 @@
 - [DarthVoydde](https://github.com/DarthVoydde)
 - [Akshaya](https://github.com/Akshaya2302)
 - [Fahad Bin Siddique](https://github.com/fahadbinsiddique)
+- [Vayunandan] (https://github.com/Vayunandan26)
 - [Manjunatha P](https://github.com/namelessweakl1ng)
 - [Shruti627](https://github.com/Shruti627)
 - [Sadiya Bhokare](https://github.com/sadiyabhokare)
@@ -180,6 +185,7 @@
   SB65555246
 [Chakri](https://github.com/chakri)
 -[Halcyon Man](https://github.com/halcyon-man)
+-[RicoNzioki](https://github.com/RicoNzioki)
 -[Arul Cornelious](https://github.com/Arul1998)
 -[Aditya Swain](https://github.com/23f3004358)
 -[Aidan Gray](https://github.com/Aitgray)
@@ -277,6 +283,7 @@ Alicexxxx
 - [hello]()
 - David Mossop
 - David Batchelder
+- Valentin DIDIER
 hello ji
 - [suman-kumar](https://github.com/sumankr1211)
 - [Kranthi-kumar](https://github.com/Kranthikumar06)
@@ -1333,6 +1340,7 @@ Rongxin Zhang
 - [Lam Tung Dang](https://github.com/BitOfForest)
 - [Larson](https://github.com/lixianphy)
 - [Laura Vazquez](https://github.com/lauravazquezp)
+- [Z3rricK](https://github.com/Z3rricK/)
 - [Lavanya B Y](https://github.com/lavanya23-8)
 - [Leo Xu](https://github.com/LeoXu8)
 - [Likhith S Gowda](https://github.com/Likhi2005)
@@ -2865,3 +2873,7 @@ Emany Chiruza
 - [Zainab-Nandhini](https://github.com/Nandhini6132)
 - [Ishit](https://github.com/ishitGsigma)
 - [Basil Ahamed](https://github.com/BASILAHAMED)
+- [Shashikant Kataria](https://github.com/shashix07)
+- [Alejandro PioPio2]
+- [Maverick-841](https://github.com/Maverick-841)
+- [VivekDeshmukh98](https://github.com/VivekDeshmukh98)
