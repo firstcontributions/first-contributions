@@ -430,6 +430,7 @@ zain
 - [Jyotula Siva Preetham](https://github.com/MooN4002)
 - [Adaji Gideon](https://github.com/gidosharpman)
 - [Varshith Reddy](https://github.com/VarshithReddy2006)
+- [Kushwanth Parameshwaraiah](https://github.com/kira2406)
 - [Jeet Gupta](https://github.com/JeetG-AlphaDev)
 - [Abhinav](https://github.com/Caterpillarok)
 - [ggxm19][https://github.com/ggxm]
