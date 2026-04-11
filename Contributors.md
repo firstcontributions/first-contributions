@@ -113,6 +113,7 @@
 - [Rajkishor Thakur](https://github.com/rajkishort596)
 - Sarah Garcia
 - Sahith
+- Shaina Ford
 - [Om Kulkarni](https://github.com/justmeaprogrammer)
 [Nireeksha A P](https://github.com/NireekshaAP07)
 - [Purno Dewan](https://github.com/coderx86)
