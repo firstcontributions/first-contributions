@@ -2895,3 +2895,4 @@ Emany Chiruza
 - [Vijaya Lakshmi Pokala] (https://github.com/vijayalakshmipokala)
 - [Divyank Sameer Shah] (https://github.com/divyankshah)
 - [kidding](https://github.com/ruihannnn)
+- [Rohit Baikar] (https://github.com/rohit7692)
