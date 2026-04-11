@@ -1,14 +1,14 @@
 # Contributors
--[Karthik_Reddy](https://github.com/Karthikreddy2411)
--[AbdullahGp](https://github.com/MAbdullahGp)
--[Yorka]
+- [Karthik_Reddy](https://github.com/Karthikreddy2411)
+- [AbdullahGp](https://github.com/MAbdullahGp)
+- [Yorka]
 - [UROOJ ISMAIL](https://github.com/uroojismail48)
 - [SIDHARTH](https://github.com/Sid-2302)
 - [Sadia Islam Thaky](https://github.com/thakyislam)
--[mnh2003](https://github.com/myatnoehla/mnh.git)
--[srijita](https://github.com/srijita2506)
--[nahosantor](https://github.com/nahosantor)
--[Yancka}](https://github.com/itsmieyancka)
+- [mnh2003](https://github.com/myatnoehla/mnh.git)
+- [srijita](https://github.com/srijita2506)
+- [nahosantor](https://github.com/nahosantor)
+- [Yancka}](https://github.com/itsmieyancka)
 - [Motaz9999](https://github.com/Motaz9999)
 - [Ignvvcio254](https://github.com/Ignvvcio254)
 - [Bishal Ramdam](https://github.com/Bishal-RD)
