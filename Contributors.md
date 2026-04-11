@@ -16,7 +16,7 @@
 - [Kasenkow](https://github.com/Kasenkow)
 - [Fahmiajik](https://github.com/fahmiajik12)
 - [Markel Jaureguibehere](https://github.com/MarkelJaure)
-
+- [ReganKarki555](https://github.com/ReganKarki555)
 - [Vicho1937](https://github.com/Vicho1937)
 - [Santosh Andra]
 - [Tejas Waghere](https://github.com/tejaswaghere)
