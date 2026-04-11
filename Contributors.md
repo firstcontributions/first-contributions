@@ -866,6 +866,7 @@ RLeish
 - [Anushree](https://github.com/Anushree)
 - [Anushtha Mishra](https://github.com/Anushtha-Mishra)
 - [AoJacke](https://github.com/AoJackie)
+-[satwik](https://github.com/Satwik2529)
 - [Archit Ojha](https://github.com/Archit1606)
 - [Argha Saha](https://github.com/arg387)
 - [Ariel Miele](https://github.com/arielmiele)
