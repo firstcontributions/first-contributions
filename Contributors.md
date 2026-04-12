@@ -1317,7 +1317,7 @@ Steve
 - [Kaustubh Singh](https://github.com/KaustubhSingh9000)
 - [Kavana Ganesh](https://github.com/KavanaGanesh-dev)
 - [Kandepu Naga Venkata Manideep](https://github.com/manideep-777)
-
+- [Kurt Jonathan Gozano](https://github.com/jonavoidd)
 - [Kannan Ramaswamy](https://github.com/lkannan)
 - [Kang Chenghua](https://github.com/chenghuakang)
 - [KavindiD](https://github.com/KavindiD)
