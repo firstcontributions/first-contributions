@@ -54,6 +54,7 @@
 [Gaurav goswami](https://github.com/ggoswami777)
 - [Ayushman Pathak](https://github.com/ayushmanpathak9034)
 - [MrAidxn](https://github.com/MrAidxn)
+- [Ethan M](https://github.com/29miaoet)
 - [iacker](https://github.com/iacker)
 - [Yasser Marinho](https://github.com/yasihm)
 - [Bao Khuong](https://github.com/KhuongBao)
@@ -2928,4 +2929,3 @@ Oiloo
 - [Vrushali Parmar](https://github.com/VrushaliParmar)
 - [Nikhil kumar](https://github.com/nikhilkumar5177)
 - [Rahul Rajak](https://github.com/rahul-rajak-nsut)
-- [Virendra](https://github.com/virendra-hue)
