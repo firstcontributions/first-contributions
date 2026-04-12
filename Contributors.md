@@ -2907,3 +2907,4 @@ Emany Chiruza
 - [Raj Gahoi](https://github.com/RajGahoi)
 Oiloo
 - [NaveenGarg](https://github.com/naveenkgrg) : This is demo01_april_2026_first_contribution
+- [Samrudhi Patil](https://github.com/orgs/Samruddhi11)
