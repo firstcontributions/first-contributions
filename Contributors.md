@@ -61,6 +61,7 @@
 - [jmoreno]
 - [Himanshu](https://github.com/himanshubit)
 - [Ahmed Rafi](httpd://github.com/ahmed-rafi07)
+- [Hassan Adelani](https://github.com/Hassan-Adelani-Luqman)
 - Yuyanran Xiao
 - Sinthujan Jayaranjan
 - [Brielle Johnston](https://github.com/briefjo)
