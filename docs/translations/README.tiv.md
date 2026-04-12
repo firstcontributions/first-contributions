@@ -16,13 +16,18 @@ _Ka i bua u sha command line, [kpe iyol sha je u sha GUI tools.](#tutorials-usin
 
 ## Fork Repository A
 
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork the repository" />
+
 Fork repository a sha u gbe button sha fork sha ier sha page a. Ngu i mba u ter copy sha repository sha sha account sha ër.
 
 ---
 
 ## Clone Repository A
 
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone the repository" />
+
 Ngu clone repository sha u fork sha er sha machine sha ër. Kpe sha GitHub account sha ër, yev repository sha u fork sha, gbe sha code button, hemen sha SSH tab, hemen gbe sha icon sha _copy url to clipboard_.
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 Yev terminal, nom u sha git command sha je:
 
@@ -79,6 +84,8 @@ git checkout -b zwa-branch-sha-ken-ken
 
 Ngu yev `Contributors.md` file sha sha text editor, nom iyol sha ër sha sha er. Ngu nom sha sha asen sha sha iyol. Nom sha sha bande. Ngu, save file a.
 
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+
 Ka u kpe sha project directory u nom command sha `git status`, u mba u yev sha sha nom sha sha.
 
 Nom sha sha branch sha u ter sha u sha command sha `git add`:
@@ -118,10 +125,14 @@ u faan `zwa-branch-sha-ër` sha iyol sha branch sha u ter sha sha je.
 ---
 
 ## Nom Sha U Nom Sha U Kpaa Review
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="compare and create pull request" />
 
 Ka u kpe sha repository sha ër sha GitHub, u mba u yev button sha `Compare & pull request`. Gbe sha button sha je.
 
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+
 Ngu nom pull request sha.
+
 
 Sha hemen, i mba u merge sha sha sha nom sha sha sha main branch sha project a. U mba u ngu notification email sha u merge sha sha sha nom sha sha.
 
