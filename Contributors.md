@@ -1,6 +1,8 @@
 # Contributors
+
 -[Karthik_Reddy](https://github.com/Karthikreddy2411)
 -[AbdullahGp](https://github.com/MAbdullahGp)
+- [Farheenayy](https://github.com/farheenayy33)
 -[Yorka]
 - [UROOJ ISMAIL](https://github.com/uroojismail48)
 - [SIDHARTH](https://github.com/Sid-2302)
