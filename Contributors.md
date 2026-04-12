@@ -1922,6 +1922,7 @@ Alejandro Alfaro
 - [RashiBista](https://github.com/RashiBista)
 - [U Shivakumar](https://github.com/Shivakumarsullagaddi)
 - [Tejaswini Gadde](https://github.com/Tejaswini2112)
+- [Ultra Boy](https://github.com/ultraboy5522)
 - [Umed Kumar](https://github.com/UmedKumar)
 - [Unigmos](https://github.com/Unigmos)
 - [UsrRed](https://github.com/UsrRed)
