@@ -206,6 +206,7 @@
 - [Afaq Shahid Khan](https://github.com/AfaqShahidKhan)
 - - [Rahul Chaube](https://github.com/Rahulchaube1)
 - [Luca-Python](https://github.com/luca-python)
+- [Carter Lewis](https://github.com/carter-lewis)
 - [Aarav Shah](https://github.com/Aarav-Shah-175)
 - [Gautam Kumawat](https://github.com/gautam9892)
 - [Atharva-insane](https://github.com/Atharva-insane)
