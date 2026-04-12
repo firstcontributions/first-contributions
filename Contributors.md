@@ -5,6 +5,7 @@
 -[AbdullahGp](https://github.com/MAbdullahGp)
 -[Yorka]
 - [UROOJ ISMAIL](https://github.com/uroojismail48)
+- [Devashish Pisal](https://github.com/Devashish-Pisal)
 - [SIDHARTH](https://github.com/Sid-2302)
 - [shiyu](https://github.com/qinyanzi)
 - [Sadia Islam Thaky](https://github.com/thakyislam)
