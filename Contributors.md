@@ -1838,6 +1838,7 @@ Alejandro Alfaro
 - [Suchi Shukla](https://github.com/Suchi1905)
 - [Suchit](https://github.com/suchit-hirani-python-ak)
 - [Sudarshan Dongre](https://github.com/SudWasatch)
+- [Tomomi Komatsu](https://github.com/tomo56u3-rgb)
 - [Sudi Williams](https://github.com/sudi-W)
 - [Sujal](https://github.com/sujaldarji)
 - [Sujanprasad](https://github.com/Sujanprasad)
