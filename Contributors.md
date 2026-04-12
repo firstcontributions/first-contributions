@@ -39,6 +39,7 @@
 - [N V K Jaswanth](https://github.com/jaswanth6988)
 - [PrajanManojKumarRekha](https://github.com/PrajanManojKumarRekha)
 - [Simone Serra](https://github.com/0SimoneSerra0)
+- [Kowshik-Prasath](https://github.com/kowshii27-rbg)
 - [ooweat](https://github.com/ooweat)
 - [00-Shreyas-00](https://github.com/00-Shreyas-00)
 - [dhrubajit-cmd](https://github.com/dhrubajit-cmd)
