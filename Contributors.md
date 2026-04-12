@@ -87,6 +87,7 @@
 - [OneTwo](https://github.com/OneTwo00712)
 - [Daniel Vargas](https://github.com/huanguelen)
 - [Kiran0548](https://github.com/Kiran0548)
+- [drik12](https://github.com/drik12)
 - [Aryan Gupta](https://github.com/aryanthepain)
 - [Ayushi Rajput(https://github.com/Ayushi-ninja)
 - [Bishal Haldar](https://github.com/bishalhaldar)
