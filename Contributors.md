@@ -185,6 +185,7 @@
   SB65555246
   [Chakri](https://github.com/chakri) -[Halcyon Man](https://github.com/halcyon-man) -[RicoNzioki](https://github.com/RicoNzioki) -[Arul Cornelious](https://github.com/Arul1998) -[Aditya Swain](https://github.com/23f3004358) -[Aidan Gray](https://github.com/Aitgray) -[Prashant Ranjan](https://github.com/23f2002267) -[Subham Sutradhar]("https://github.com/SubhamFlow") -[Divyanshu Kumar](https://github.com/dgiitm)
 - [Temesgen Geta] (https://github.com/nigusmamo)
+- [Rahul Roy](https://github.com/toad-of-code)
 - [chandra kireeti](https://github.com/kireetikotturu)
 - [Prince Makhansa](https://github.com/PrinceMakhansa)
 - [Afaq Shahid Khan](https://github.com/AfaqShahidKhan)
@@ -2840,3 +2841,4 @@
 - [Kritika Arora](https://github.com/Kritika-Arora19)
 - [Tajalli Us Samad](https://github.com/qrstajalli)
 - [Nikhil kumar](https://github.com/nikhilkumar5177)
+- [Vrushali Parmar](https://github.com/VrushaliParmar)
