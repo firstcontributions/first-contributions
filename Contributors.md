@@ -300,6 +300,7 @@ hello ji
 - [suman-kumar](https://github.com/sumankr1211)
 - [Kranthi-kumar](https://github.com/Kranthikumar06)
 - [Katio-Kyou](https://github.com/Katio-Kyou)
+- [Jun-Yi Deng](http://github.com/IMWLGDHGNC)
 Seif Alsayad
 - [h3nr1-d14z](https://github.com/h3nr1-d14z)
 - [Miliey Ahoussou](https://github.com/MilieyAhoussou)
@@ -1838,6 +1839,7 @@ Alejandro Alfaro
 - [Suchi Shukla](https://github.com/Suchi1905)
 - [Suchit](https://github.com/suchit-hirani-python-ak)
 - [Sudarshan Dongre](https://github.com/SudWasatch)
+- [Tomomi Komatsu](https://github.com/tomo56u3-rgb)
 - [Sudi Williams](https://github.com/sudi-W)
 - [Sujal](https://github.com/sujaldarji)
 - [Sujanprasad](https://github.com/Sujanprasad)
@@ -2916,3 +2918,4 @@ Oiloo
 - [Mateusz Głowa](https://github.com/mateuszglowa)
 - [Mohit Khandelwal](https://github.com/Mohit5Khandelwal)
 - [Kritika Arora](https://github.com/Kritika-Arora19)
+- [Tajalli Us Samad](https://github.com/qrstajalli)
