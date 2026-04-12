@@ -2074,6 +2074,7 @@ Alejandro Alfaro
 - [gkrishna247](https://github.com/gkrishna247)
 - [granada1_lnrs](https://github.com/granad1_lnrs)
 - [Kavyasree Nunna](https://github.com/Kavyasree)
+- [david-miller](https://github.com/Simsaladoo)
 - [guerrasz](https://github.com/guerrasz)
 - [kenHarris0](https://github.com/kenHarris0)
 - [happypepii](https://github.com/happypepii)
