@@ -205,6 +205,7 @@
 -[Subham Sutradhar]("https://github.com/SubhamFlow")
 -[Divyanshu Kumar](https://github.com/dgiitm)
 - [Temesgen Geta] (https://github.com/nigusmamo)
+- [Rahul Roy](https://github.com/toad-of-code)
 - [chandra kireeti](https://github.com/kireetikotturu)
 - [Prince Makhansa](https://github.com/PrinceMakhansa)
 - [Afaq Shahid Khan](https://github.com/AfaqShahidKhan)
