@@ -66,6 +66,7 @@
 <kbd>[<img title="Bambara (Mali)" alt="Bambara (Mali)" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ml.svg" width="22">](docs/translations/README.mli.md)</kbd>
 <kbd>[<img title="Hausa (Nigeria)" alt="Hausa (Nigeria)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Flag_of_the_Hausa_people.svg/1280px-Flag_of_the_Hausa_people.svg.png" width="22">](docs/translations/README.hau.md)</kbd>
 <kbd>[<img title="Yoruba (Nigeria)" alt="Yoruba (Nigeria)" src="https://www.fotw.info/images/n/ng%7Deoyor.gif" width="22">](docs/translations/README.yor.md)</kbd>
+<kbd>[<img title="Tiv (Nigeria)" alt="Tiv (Nigeria)" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ng.svg" width="22">](docs/translations/README.tiv.md)</kbd>
 <kbd>[<img title="Latvia" alt="Latvia" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/lv.svg" width="22">](docs/translations/README.lv.md)</kbd>
 <kbd>[<img title="Suomeksi" alt="Suomeksi" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/fi.svg" width="22">](docs/translations/README.fi.md)</kbd>
 <kbd>[<img title="Беларуская мова" alt="Беларуская мова" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/by.svg" width="22">](docs/translations/README.by.md)</kbd>
