@@ -266,6 +266,7 @@ Alicexxxx
 - [Mitali Mehta](https://github.com/Mitalimehta02)
 - [Mohammad Ruhaan Mir](https://github.com/dev-mir2011)
 - [Shingo](https://github.com/KatanoShingo)
+- [Rahul M](https://github.com/RahulMGatty)
 - [Aryaman Kummamuru](https://github.com/23f3003961)
 - [CristyanVessimo](https://github.com/CristyanVessimo)
 - [Adeola Ajiboso](https://github.com/Ajiboso-Adeola)
