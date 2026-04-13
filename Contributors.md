@@ -32,7 +32,7 @@
 - [Fahmiajik](https://github.com/fahmiajik12)
 - [Markel Jaureguibehere](https://github.com/MarkelJaure)
 - [LatentSpace-rgb](https://github.com/LatentSpace-rgb)
-  
+- [Syed Aun Ali Raza](https://github.com/syedaunaliraza30)
 - [Vicho1937](https://github.com/Vicho1937)
 - [Santosh Andra]
 - [Sharvani Marne](https://github.com/sharvanimarne)
