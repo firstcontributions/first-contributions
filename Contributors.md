@@ -6,6 +6,7 @@
 -[Binod Gogoi](https://github.com/gogoib477)
 -[Paravin Mulla](https://github.com/ParavinMulla786)
 -[Karthik_Reddy](https://github.com/Karthikreddy2411)
+-[Ankit Vijay Shinde](https://github.com/ankitshinde30)
 -[AbdullahGp](https://github.com/MAbdullahGp)
 -[Yorka]
 -[Hongju](https://github.com/hoot-hoot99)
