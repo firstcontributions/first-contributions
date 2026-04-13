@@ -2925,6 +2925,7 @@ Emany Chiruza
 - [Shaurya Rawat](https://github.com/shaurya0702-droid)
 - [Bhanu Narra](https://github.com/bhanu962)
 - [Vijaya Lakshmi Pokala] (https://github.com/vijayalakshmipokala)
+- [Rupathegreat](https://github.com/Rupathegreat)
 - [Divyank Sameer Shah] (https://github.com/divyankshah)
 - [kidding](https://github.com/ruihannnn)
 - [Rohit Baikar] (https://github.com/rohit7692)
