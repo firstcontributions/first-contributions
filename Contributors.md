@@ -1720,6 +1720,7 @@ Alejandro Alfaro
 - [Robiya](https://github.com/rhakim24)
 - [Rohit Sharma](https://github.com/rohitt-sharma96)
 - [Roland](https://github.com/rolandmn)
+- [Ayush-Thakur](https://github.com/ayu1335)
 - [Rollins Sean](https://github.com/Skaffloc)
 - [Ronak](https://github.com/roonakyadav)
 - [Ronik Kumbhar](https://github.com/ronik62)
