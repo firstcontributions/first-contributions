@@ -30,6 +30,7 @@
 - [Shiningstar521](https://github.com/Shiningstar521)
 - [MrTambe-jpg](https://github.com/MrTambe-jpg)
 - [Ajay](https://github.com/ajay-69)
+- [dinesh kumar prajapat]
 - [Kasenkow](https://github.com/Kasenkow)
 - [Fahmiajik](https://github.com/fahmiajik12)
 - [Markel Jaureguibehere](https://github.com/MarkelJaure)
