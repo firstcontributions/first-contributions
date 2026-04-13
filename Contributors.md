@@ -1077,6 +1077,7 @@ Christopher Aguilar
 - [Domenico Vecchio](https://github.com/domenico-vecchio)
 - [Dominic](https://github.com/mozz37)
 - [Dorcas Adebayor](https://github.com/dokipure)
+- [Francis Cidney](https://github.com/FrankCidney)
 - [Douae Bousnane](https://github.com/douaebousnane13-del)
 - [Duo](https://github.com/NamingRacksMyBrain)
 - [Durai Mohandoss](https://github.com/22f1000821)
