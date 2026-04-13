@@ -235,6 +235,7 @@
 - [Gautam Kumawat](https://github.com/gautam9892)
 - [Atharva-insane](https://github.com/Atharva-insane)
 - [Mateo](https://github.com/mateococimano)
+- [joblesskid-2510](https://github.com/joblesskid-2510)
 - [Benhein Michael Ruben L](https://github.com/ben002mr)
 - -[Karam](https://github.com/Karaammm)
 - [Diana Araujo](https://github.com/dianadesiree)
