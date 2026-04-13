@@ -80,6 +80,7 @@
 - [Jignesh]
 - Prakash G Dhole
 - Ryomen Sukuna
+- Kamalakannan Srinivasan
 - [muard](https://github.com/murad-1999)
 - [Rajath Kiran A](https://github.com/Rajath2005)
 -[Sanskriti Mishra](https://github.com/sanskriti234)
