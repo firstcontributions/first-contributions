@@ -9,6 +9,7 @@
 -[Yorka]
 - [UROOJ ISMAIL](https://github.com/uroojismail48)
 - [Devashish Pisal](https://github.com/Devashish-Pisal)
+- [Kanta Komoike](https://github.com/komoike-oss28-ui)
 - [Kolahalan](https://github.com/Kolahalan06)
 - [SIDHARTH](https://github.com/Sid-2302)
 - [shiyu](https://github.com/qinyanzi)
