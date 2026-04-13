@@ -15,6 +15,7 @@
 - [Kanta Komoike](https://github.com/komoike-oss28-ui)
 - [Kolahalan](https://github.com/Kolahalan06)
 - [SIDHARTH](https://github.com/Sid-2302)
+- [Harsha Nethra](https://github.com/HarshaNethra)
 - [shiyu](https://github.com/qinyanzi)
 - [Sadia Islam Thaky](https://github.com/thakyislam)
 -[mnh2003](https://github.com/myatnoehla/mnh.git)
