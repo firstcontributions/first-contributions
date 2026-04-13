@@ -1,5 +1,6 @@
 # Contributors-
 - [rayrishu19-wq](https://github.com/rayrishu19-wq)
+- [David Montenegro](https://github.com/davidomontenegro)
  [Riya Kushwaha](https://github.com/riyak790)
 -[Binod Gogoi](https://github.com/gogoib477)
 -[Karthik_Reddy](https://github.com/Karthikreddy2411)
