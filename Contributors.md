@@ -8,6 +8,7 @@
 -[Binod Gogoi](https://github.com/gogoib477)
 -[Paravin Mulla](https://github.com/ParavinMulla786)
 - [Amulya Harish](...)
+- [Ramnagendra Sripada](https://github.com/Ramnagendra2005)
 -[Karthik_Reddy](https://github.com/Karthikreddy2411)
 -[Ankit Vijay Shinde](https://github.com/ankitshinde30)
 -[AbdullahGp](https://github.com/MAbdullahGp)
