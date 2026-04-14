@@ -1,6 +1,6 @@
 # How to Contribute to Open Source: A Comprehensive Guide for Beginners
 
-TL;DR If you're eager to do your first pull request to an open source project, follow the instructions in [Readme](https://github.com/firstcontributions/first-contributions)
+TL;DR: If you're eager to make your first pull request to an open source project, follow the instructions in the [README](https://github.com/firstcontributions/first-contributions).
 
 Contributing to open source is one of the most rewarding ways to grow as a developer, build your portfolio, and give back to the community. Whether you're a seasoned programmer or just starting out, open source offers endless opportunities to learn, collaborate, and make an impact. In this guide, we’ll walk you through everything you need to know about contributing to open source, from finding the right project to making your first contribution.
 
@@ -52,13 +52,10 @@ When contributing, adhere to the project’s guidelines:
 
 ## Tips for Success in Open Source
 
-Communicate Effectively: Be respectful and professional in all interactions. Ask questions when unclear about requirements. Thank reviewers for their time and feedback. Stay patient during the review process
-
-Be Consistent: Regular contributions, even small ones, can have a big impact over time.
-
-Learn from Feedback: Code reviews are a learning opportunity. Embrace feedback and improve your skills.
-
-Give Back: Once you’re comfortable, help others by reviewing PRs, answering questions, or mentoring newcomers.
+- Communicate effectively: Be respectful and professional in all interactions, ask questions when requirements are unclear, thank reviewers for their time and feedback, and stay patient during the review process.
+- Be consistent: Regular contributions, even small ones, can have a big impact over time.
+- Learn from feedback: Code reviews are a learning opportunity; embrace feedback and improve your skills.
+- Give back: Once you’re comfortable, help others by reviewing PRs, answering questions, or mentoring newcomers.
 
 ## Common Challenges and How to Overcome Them
 
