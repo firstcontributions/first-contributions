@@ -196,6 +196,7 @@
 - [Faizan Imran](https://github.com/Faizanimran)
 - [Faisal Al Ramahi](https://github.com/Rama7ii)
 -[Alonzo Church3](https://github.com/AlonzoCh) 
+- [DenisParker7](https://github.com/DenisParker7)
 - [Anup](https://github.com/23f3002432)
 - [JosePaez](https://github.com/JosephPR12)
 - [Vaishnavi Jaiswal](https://github.com/Vaishnavi04102005)
