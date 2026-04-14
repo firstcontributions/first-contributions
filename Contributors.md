@@ -3012,3 +3012,4 @@ Oiloo
 - [Valentin Rbt]
 - [Daniil](https://github.com/alalagggc-lang)
 - [Ankit](https://github.com/ankitdevlabs)
+- [Jayden Barreiro](https://github.com/Jcoolzone)
