@@ -1,6 +1,6 @@
 # Contributors-
 - [ Arya ](https://github.com/aryansondharva)
- -[Vidhya Veera](https://github.com/vidhyaveeranellu)
+- [Vidhya Veera](https://github.com/vidhyaveeranellu)
 - [Deep Parashar](https://github.com/deepparashar)
 - [rayrishu19-wq](https://github.com/rayrishu19-wq)
 - [Leta Kasahun](https://github.com/Leta-Kasahun)
