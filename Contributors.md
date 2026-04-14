@@ -9,6 +9,7 @@
 -[Ankit Vijay Shinde](https://github.com/ankitshinde30)
 -[AbdullahGp](https://github.com/MAbdullahGp)
 -[Yorka]
+-[Aditya Shashank Chinta](https://github.com/AdityaShashank)
 -[Hongju](https://github.com/hoot-hoot99)
 - [UROOJ ISMAIL](https://github.com/uroojismail48)
 - [Devashish Pisal](https://github.com/Devashish-Pisal)
