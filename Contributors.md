@@ -110,6 +110,7 @@
 - [Avisha Srivastava] (https://github.com/shineyrbl-byte)
 - [Soumis Jain] (https://github.com/soumishjain)
 - [jesse] (https://github.com/jesse-tnei)
+- [Batsheva] (https://github.com/Batsheva-Malka)
 - [Bahnishikha Singha](https://github.com/aniCtrl)
 - [OneTwo](https://github.com/OneTwo00712)
 - [Daniel Vargas](https://github.com/huanguelen)
