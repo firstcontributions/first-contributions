@@ -325,6 +325,7 @@ Alicexxxx
   [Rituraj Tripathi](https://github.com/Sandilya69)
 - [Shaurya Adarsh](https://github.com/shauryaadarsh)
 - [Aeleen-Alfaro](https://git.hub/Ralyss)
+- [Kalpesh Sharma](https://github.com/Kalpesh1Sharma)
 - [axxsiuu77](https://github.com/axxsiuu77)
   [MADHAV ANAND](https://github.com/vsmadhav-dev)
 - [Yash](https://github.com/yashhwanth)
