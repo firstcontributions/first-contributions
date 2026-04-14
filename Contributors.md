@@ -555,7 +555,8 @@ zain
 - [Ankush Gulia](https://github.com/ankushkgulia)
 - [Boussaid Louai](https://github.com/lou-bou)
 - [JohannesL2](https://github.com/JohannesL2)
-- [CP2]
+- [Tarun Kumar](https://github.com/TarunSpeaks-832) 
+[CP2]
 - [Archiii]
 - [Ishwinder]
 [Kenil Gorasiya](https://github.com/Kenildev007)
