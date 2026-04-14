@@ -175,7 +175,7 @@
 - roy
 - Baha [DouD☄](https://github.com/xDouDx)
 - Rancho
-- DevenSpatel
+- DevenSpatel 
 - [Lohit T] (https://github.com/itsLohit)
 - [DDuran2007] (https://github.com/DDuran2007)
 - [Edlyn Jessica Philip](https://github.com/edlynjessica)
