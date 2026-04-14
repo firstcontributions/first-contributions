@@ -199,6 +199,7 @@
 - [Vaishnavi Jaiswal](https://github.com/Vaishnavi04102005)
 - [Kristipati Thoyajaksha Kashyap](https://github.com/kristipatithoyajakshakashyap)
 - Elkku
+- Richard Wu
 - [Cristina Ayala] (https://github.com/acristinaa)
 - [Kritika844](https://github.com/Kritika844)
 - [Nirav] (https://github.com/niravkpatel36)
