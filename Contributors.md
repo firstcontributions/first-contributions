@@ -71,6 +71,7 @@
 - [Sahil Vishwakarma](https://github.com/sahilvish01)
 - Ponapati Spandana
 - [klmpt](https://github.com/klmpt)
+- [zLeonelDev](https://github.com/zLeonelDev)
 [Gaurav goswami](https://github.com/ggoswami777)
 - [Ayushman Pathak](https://github.com/ayushmanpathak9034)
 - [MrAidxn](https://github.com/MrAidxn)
@@ -174,7 +175,7 @@
 - roy
 - Baha [DouD☄](https://github.com/xDouDx)
 - Rancho
-- DevenSpatel
+- DevenSpatel 
 - [Lohit T] (https://github.com/itsLohit)
 - [DDuran2007] (https://github.com/DDuran2007)
 - [Edlyn Jessica Philip](https://github.com/edlynjessica)
