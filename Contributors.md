@@ -3003,4 +3003,5 @@ Oiloo
 - [Arpit Shirbhate](https://github.com/arpit2006)
 - [Ankit](https://github.com/Ankit-954)
 - [Valentin Rbt]
+- [Daniil](https://github.com/alalagggc-lang)
 - [Ankit](https://github.com/ankitdevlabs)
