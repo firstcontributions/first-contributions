@@ -2324,6 +2324,7 @@ ritu
 -[Vivek Raj](https://github.com/vivekraj3456)
 -[OneByTheSide](https://github.com/OneByTheSide)
 - [Facu B](https://github.com/berFacundo)
+- [Ahmad Alqaisi](https://github.com/Ahmadalqaisi-eng)
 - [Joe Shawky](https://github.com/joeshawky)
 -[zwj](https://github.com/zwj)
 - [Bruno Buss](https://github.com/bussbruno)
