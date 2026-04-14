@@ -2630,6 +2630,7 @@ Merjen Amanmuradova
 - [ByteTechno](https://github.com/ByteTechno)
 - [Tanvi Sharma]_(https://github.com/07Tanvi)
 - Saumay
+- [Mohamed feroz](https://github.com/feroz8838)
 - [Rudra-Kumar](https://github.com/Rudra-RNC)
 - [SatyamCode12](https://github.com/SatyamCode12)
 - [Min0Gyu0Kang](https://github.com/Min0Gyu0Kang)
