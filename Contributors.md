@@ -34,6 +34,7 @@
 -[srijita](https://github.com/srijita2506)
 -[nahosantor](https://github.com/nahosantor)
 -[Yancka}](https://github.com/itsmieyancka)
+-[Yash Raj](https://github.com/Yash-Raj-5424)
 - [Motaz9999](https://github.com/Motaz9999)
 - [goodnamed](https://github.com/goodnamed)
 - [Atharva Jadhav](https://github.com/DrDrunkenstien-10)
