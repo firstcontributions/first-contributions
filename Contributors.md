@@ -41,6 +41,7 @@
 - [Atharva Jadhav](https://github.com/DrDrunkenstien-10)
 - [Sundaram Gupta](https://github.com/Sundaram-65)
 - [Ignvvcio254](https://github.com/Ignvvcio254)
+- [JanosNagy](https://github.com/JaniITmer)
 - [Bishal Ramdam](https://github.com/Bishal-RD)
 - [BlueCool12](https://github.com/BlueCool12)
 - [Shiningstar521](https://github.com/Shiningstar521)
