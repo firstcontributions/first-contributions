@@ -6,6 +6,7 @@
  [Riya Kushwaha](https://github.com/riyak790)
 -[Binod Gogoi](https://github.com/gogoib477)
 -[Paravin Mulla](https://github.com/ParavinMulla786)
+- [Amulya Harish](...)
 -[Karthik_Reddy](https://github.com/Karthikreddy2411)
 -[Ankit Vijay Shinde](https://github.com/ankitshinde30)
 -[AbdullahGp](https://github.com/MAbdullahGp)
