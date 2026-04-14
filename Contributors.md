@@ -2986,3 +2986,4 @@ Oiloo
 - [Hsu Kuangdi](https://github.com/dk363)
 - [Anshima Gupta] (https://github.com/Anshi-G)
 - [harsh gidwani](https://github.com/harsh-codess)
+- [sujal kurkute](https://github.com/sujalkurkute)
