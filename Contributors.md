@@ -69,6 +69,7 @@
 - [SaranrajAR](https://github.com/SaranrajAR)
 - [Boris Plotnikov](https://github.com/BorisPlotnikov)
 - [N3thunt3r69] (https://github.com/N3thunt3r69)
+- [Chronona] (https://github.com/Chronona)
 - [Abdullah Asif](https://github.com/abdullaha24)
 - [Deepak Chauhan](https://github.com/ideepakchauhan7)
 - [Rodrigo Castro](https://github.com/rodrigoc-dev)
