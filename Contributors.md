@@ -145,6 +145,7 @@
 - [Asif Khan](https://github.com/Mak-1911)
 - [Udochukwu Anigbogu](https://github.com/Bubbles80)
 - [Jinqi Tang](https://github.com/JinqiSMS/first-contributions)
+- [Rishita Bhatnagar](https://github.com/Rishibhat321)
 - [TC Cazy](https://github.com/Codebrother1)
 - [Muhammad Suleman](https://github.com/SulemanWaraich)
 - [Velagali Hemanth Kumar](https://github.com/HemanthVelagali)
