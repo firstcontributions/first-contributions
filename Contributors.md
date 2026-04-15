@@ -16,6 +16,7 @@
 -[Binod Gogoi](https://github.com/gogoib477)
 -[Paravin Mulla](https://github.com/ParavinMulla786)
 - [Amulya Harish](...)
+- [Rand P]
 - [Srashti Choudhary]
 - [Akshara]
 - [Kishore Reddy](https://github.com/kishore7860)
