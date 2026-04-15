@@ -1,4 +1,6 @@
 # Contributors-
+- [Mohammad Jahanseir](https://github.com/mjahanseir)
+
 - [Saad Amjad](https://github.com/saadamjad44)
 - [Mrinal Singh](https://github.com/mrinal444)
 - [ Ozodbek Fayzullayev ](https://github.com/fayzullayevvvv)
