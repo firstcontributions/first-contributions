@@ -124,6 +124,7 @@
 - [GP Singh](https://github.com/Gurpreetsingh1293)
 - [SAYEM](https://github.com/11UCRES)
 - [Mohamed Ikbel Ben Nessib](https://github.com/ikbelbensib)
+- [Digvijay Patel](https://github.com/DigvijayPatel1)
 - [Carneirinho](https://github.com/pedrocarneiroa96-crypto)
 - [Samuel Meddin](https://github.com/GalacticAvenger)
 - [Koushik Deb](https://github.com/koushik-ops) 
