@@ -1,4 +1,5 @@
 # Contributors-
+- [Mrinal Singh](https://github.com/mrinal444)
 - [ Ozodbek Fayzullayev ](https://github.com/fayzullayevvvv)
 - [ Ozodbek Fayzullayev ](https://github.com/fayzullayevvvvv)
 - [ Arya ](https://github.com/aryansondharva)
