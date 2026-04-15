@@ -1575,7 +1575,7 @@ Alejandro Alfaro
 - [NathanES](https://github.com/nathanES)
 - [Natpu Enean](https://github.com/NatpuEnean)
 - [Sumit Seth]
---[Yferry](https://github.com/Ferry-06)
+--[YFerry](https://github.com/Ferry-06)
 - [Naveen C](https://github.com/naveench98)
 - [Naveen Kumar](https://github.com/naveenkumarr1812)
 - [Nayonika Agarwal](https://github.com/nayonika04)   
