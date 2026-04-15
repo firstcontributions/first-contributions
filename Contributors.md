@@ -54,6 +54,7 @@
 - [Ajay](https://github.com/ajay-69)
 - [dinesh kumar prajapat]
 - [Kasenkow](https://github.com/Kasenkow)
+- [Ryan Donnelly](https://github.com/RYANDONNELLY40329285)
 - [Fahmiajik](https://github.com/fahmiajik12)
 - [Markel Jaureguibehere](https://github.com/MarkelJaure)
 - [LatentSpace-rgb](https://github.com/LatentSpace-rgb)
