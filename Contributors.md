@@ -131,6 +131,7 @@
 - [Vrinda0211](https://github.com/Vrinda0211)
 - [Aryan Gupta](https://github.com/aryanthepain)
 - [Ayushi Rajput(https://github.com/Ayushi-ninja)
+- [Arjun Patil](https://github.com/Arjun-patil-631)
 - [Bishal Haldar](https://github.com/bishalhaldar)
 - [Nahom Mulugeta](https://github.com/nahomsolomon12)
 - [Niramay Shrivastava](https://github.com/Niramaynextgen)
