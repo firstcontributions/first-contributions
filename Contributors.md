@@ -1,5 +1,5 @@
 # Contributors-
-- [ Ozodbek Fayzullayev ](https://github.com/fayzullayevvvvv)
+- [ Ozodbek Fayzullayev ](https://github.com/fayzullayevvvv)
 - [ Arya ](https://github.com/aryansondharva)
  -[Vidhya Veera](https://github.com/vidhyaveeranellu)
 - [Deep Parashar](https://github.com/deepparashar)
