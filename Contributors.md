@@ -1,4 +1,5 @@
 # Contributors-
+- [Palak](https://github.com/palak1-2)
 - [ Ozodbek Fayzullayev ](https://github.com/fayzullayevvvv)
 - [ Ozodbek Fayzullayev ](https://github.com/fayzullayevvvvv)
 - [ Arya ](https://github.com/aryansondharva)
