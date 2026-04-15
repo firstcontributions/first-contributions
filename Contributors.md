@@ -1027,6 +1027,7 @@ Alán
 - [CaraMcG](https://github.com/caraMcG)
 - [Carburio](https://github.com/Carburio)
 - [Allen](https://github.com/BoomClap444)
+- [harish](https://github.com/kenHarris0)
 - [Carina Mach](https://github.com/carinamach)
 - [Carlos FH](https://github.com/carlosfhz13)
 - [Cecex](https://github.com/Cecex-git)
