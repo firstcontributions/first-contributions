@@ -264,6 +264,7 @@
 -[Prashant Ranjan](https://github.com/23f2002267)
 -[Subham Sutradhar]("https://github.com/SubhamFlow")
 -[Divyanshu Kumar](https://github.com/dgiitm)
+-[Deva Nanda M](https://github.com/deva-nanda-m)
 - [Temesgen Geta] (https://github.com/nigusmamo)
 - [Rahul Roy](https://github.com/toad-of-code)
 - [chandra kireeti](https://github.com/kireetikotturu)
