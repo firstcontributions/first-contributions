@@ -32,6 +32,7 @@
 -[Yorka]
 -[Aditya Shashank Chinta](https://github.com/AdityaShashank)
 -[Hongju](https://github.com/hoot-hoot99)
+- [Elaine-764](https://github.com/Elaine-764)
 - [UROOJ ISMAIL](https://github.com/uroojismail48)
 - [Devashish Pisal](https://github.com/Devashish-Pisal)
 - [Kanta Komoike](https://github.com/komoike-oss28-ui)
