@@ -16,6 +16,7 @@
 - [Amulya Harish](...)
 - [Srashti Choudhary]
 - [Akshara]
+- [Kishore Reddy](https://github.com/kishore7860)
 - [Ramnagendra Sripada](https://github.com/Ramnagendra2005)
 - [Steven Haywood](https://github.com/Sinbad2000)
 -[Karthik_Reddy](https://github.com/Karthikreddy2411)
