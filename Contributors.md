@@ -58,6 +58,7 @@
 - [Sadia Islam Thaky](https://github.com/thakyislam)
 -[mnh2003](https://github.com/myatnoehla/mnh.git)
 -[srijita](https://github.com/srijita2506)
+-[Gautam](https://github.com/GautamPokharkar)
 -[nahosantor](https://github.com/nahosantor)
 -[Yancka}](https://github.com/itsmieyancka)
 -[Yash Raj](https://github.com/Yash-Raj-5424)
@@ -697,6 +698,7 @@ zain
 - [Jack Johnson](https://github.com/norvest06)
 - [Sindhu Reddy](https://github.com/prodduturisindhurdy)
 - [21f2001400](https://github.com/21f2001400-cloud)
+- [André Bentes](https://github.com/AndreBentesOliveira)
 - [Sai Srikar](https://github.com/saisrikarbommisetty)
 - [Keerthan](https://github.com/keerthan0803)
 - [Ibrahim Ibn Tanweer Almadani](https://github.com/24f1001980)
@@ -3062,6 +3064,7 @@ Oiloo
 - Surbhi
 - asuka-in-2024
 - [Mohammad Jahanseir](https://github.com/mjahjanseir/)
+- [Thabo Lubhele](https://github.com/Thabogift10/)
 - [Drew Ramos](https://github.com/drewsElearning) 
 - [HxxllanX](https://github.com/hxxlLAN)
 - [sisyphox](https://github.com/sisyphox)
