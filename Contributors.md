@@ -128,6 +128,7 @@
 - [Sadiya Bhokare](https://github.com/sadiyabhokare)
 - Felipe Soler
 - [Bobur Boboyev](https://github.com/Bobur-Boboyev)
+- [Swapnil Singh] (https://github.com/swapycoder)
 - [Can Koylan](https://github.com/universe7creator)
 - [Piyush Srivastava](https://github.com/Phoenix-2207)
 - [GP Singh](https://github.com/Gurpreetsingh1293)
