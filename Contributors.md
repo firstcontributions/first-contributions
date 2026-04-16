@@ -1,5 +1,6 @@
 # Contributors-
 - [Md Akhtar](https://github.com/mdakhtar03)
+- [CapyBaraTheKing](https://github.com/molangmalang)
 - [Saad Amjad](https://github.com/saadamjad44)
 - [Mrinal Singh](https://github.com/mrinal444)
 - [ Ozodbek Fayzullayev ](https://github.com/fayzullayevvvv)
