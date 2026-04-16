@@ -1,5 +1,6 @@
 # Contributors-
 - [Saad Amjad](https://github.com/saadamjad44)
+- [Usman Malik](https://github.com/Usman-Malik121)
 - [Mrinal Singh](https://github.com/mrinal444)
 - [ Ozodbek Fayzullayev ](https://github.com/fayzullayevvvv)
 - [ Ozodbek Fayzullayev ](https://github.com/fayzullayevvvvv)
