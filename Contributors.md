@@ -3,6 +3,7 @@
 - [Md Akhtar](https://github.com/mdakhtar03)
 - [CapyBaraTheKing](https://github.com/molangmalang)
 - [Saad Amjad](https://github.com/saadamjad44)
+- [Usman Malik](https://github.com/Usman-Malik121)
 - - [Puneet](https://github.com/puneetrwtz)
 - [Pragyan Dhar](https://github.com/pragyandhar)
 - [Mrinal Singh](https://github.com/mrinal444)
@@ -3068,3 +3069,4 @@ Oiloo
 - [Manjunath Byadagi](https://github.com/ManjunathByadagi)
 - [Satyabrata Das](https://github.com/satya-py)
 - [hypone233](https://github.com/hypone233)hello everyone
+- [LiorM84] (https://github.com/LiorM84)
