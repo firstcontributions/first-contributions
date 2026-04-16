@@ -992,6 +992,7 @@ RLeish
 - [Ashen-Hirushan](https://github.com/Ashen-Hirushan)
 - [Ashigaraj](https://github.com/ashigaraj)
 - [Ashiq](https://github.com/devopashiq)
+- [Jaron Tinsley](https://github.com/jaron1234)
 - [makotonald](https://github.com/makotonald)
 - [Ashutosh Jha](https://github.com/ashutoshh-jhaa)
 - [Atharva Goel](https://github.com/AtharvaATL2011)
