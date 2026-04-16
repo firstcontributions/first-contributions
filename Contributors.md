@@ -4,6 +4,7 @@
 - [CapyBaraTheKing](https://github.com/molangmalang)
 - [Saad Amjad](https://github.com/saadamjad44)
 - - [Puneet](https://github.com/puneetrwtz)
+- [Pragyan Dhar](https://github.com/pragyandhar)
 - [Mrinal Singh](https://github.com/mrinal444)
 - [ Ozodbek Fayzullayev ](https://github.com/fayzullayevvvv)
 - [ Ozodbek Fayzullayev ](https://github.com/fayzullayevvvvv)
