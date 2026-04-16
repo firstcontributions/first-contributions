@@ -121,6 +121,7 @@
 - [Himanshu](https://github.com/himanshubit)
 - [Ahmed Rafi](httpd://github.com/ahmed-rafi07)
 - [Hassan Adelani](https://github.com/Hassan-Adelani-Luqman)
+- [Huriam11] (https://github.com/Uriambylo)
 - [Hassan Jan](https://github.com/hassan-jan)
 - Yuyanran Xiao
 - [Philip](https://github.com/Philip-b-dev)
