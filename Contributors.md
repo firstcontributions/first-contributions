@@ -28,6 +28,7 @@
 - [Rand P]
 - [Srashti Choudhary]
 - [Akshara]
+- [Lalu]
 - [Laura N](https://github.com/lnezsierra/)
 - [JalCoder](https://github.com/jalCoder463)
 - [Lauri H](https://github.com/madpoet81)
