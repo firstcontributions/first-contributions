@@ -422,6 +422,7 @@ Seif Alsayad
 - [Madhumitha H](https://github.com/madhuh1210)
 - [Siddharth S](https://github.com/codeXsidd)
 - [Sahil Hande](https://github.com/sahilcommit)
+-spyco
 - [M. Fajal](https://github.com/Mfaj-cod)
 - [Shajith Bathina](https://github.com/shajith240)
 - [Anish Johari](https://github.com/AnishJohari)
