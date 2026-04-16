@@ -99,7 +99,7 @@ git push -u origin your-branch-name
      <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
   remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
   fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
-  [깃허브 튜토리얼](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)로 이동해서 본인의 계정에 SSH key 생성 및 설정에 대한 정보를 얻을 수 있습니다.
+  [깃허브 튜토리얼](https://docs.github.com/ko/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)로 이동해서 본인의 계정에 SSH key 생성 및 설정에 대한 정보를 얻을 수 있습니다.
 
 </details>
 
