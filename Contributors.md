@@ -25,6 +25,7 @@
 - [Srashti Choudhary]
 - [Akshara]
 - [Laura N](https://github.com/lnezsierra/)
+- [TimothyLab](https://github.com/TimothyLab)
 - [Kishore Reddy](https://github.com/kishore7860)
 - [Jonathon Lim](https://github.com/Jonjlim)
 - [Sukchan20090403](https://github.com/Sukchan20090403)
