@@ -1,6 +1,7 @@
 # Contributors-
 - [Sean Yu](https://github.com/takagibit18)
 - [Md Akhtar](https://github.com/mdakhtar03)
+- [CapyBaraTheKing](https://github.com/molangmalang)
 - [Saad Amjad](https://github.com/saadamjad44)
 - - [Puneet](https://github.com/puneetrwtz)
 - [Mrinal Singh](https://github.com/mrinal444)
