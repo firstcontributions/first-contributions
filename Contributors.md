@@ -6,6 +6,7 @@
 - - [Puneet](https://github.com/puneetrwtz)
 - [Pragyan Dhar](https://github.com/pragyandhar)
 - [Mrinal Singh](https://github.com/mrinal444)
+- [Faslu Olassery](https://github.com/fasluolassery)
 - [ Ozodbek Fayzullayev ](https://github.com/fayzullayevvvv)
 - [ Ozodbek Fayzullayev ](https://github.com/fayzullayevvvvv)
 - [ Arya ](https://github.com/aryansondharva)
