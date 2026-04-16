@@ -28,6 +28,7 @@
 - [Srashti Choudhary]
 - [Akshara]
 - [Laura N](https://github.com/lnezsierra/)
+- [JalCoder](https://github.com/jalCoder463)
 - [Lauri H](https://github.com/madpoet81)
 - [TimothyLab](https://github.com/TimothyLab)
 - [Kishore Reddy](https://github.com/kishore7860)
