@@ -3060,3 +3060,4 @@ Oiloo
 - [sisyphox](https://github.com/sisyphox)
 - [Olivia Linlin Guo](https://github.com/olivia-linlin-guo)
 - [Luiz Miguel dos Santos Costa](https://github.com/miguelzlw)
+- [Manjunath Byadagi](https://github.com/ManjunathByadagi)
