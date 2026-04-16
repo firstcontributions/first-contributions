@@ -1,7 +1,13 @@
 # Contributors-
+- [Sean Yu](https://github.com/takagibit18)
+- [Md Akhtar](https://github.com/mdakhtar03)
+- [CapyBaraTheKing](https://github.com/molangmalang)
 - [Saad Amjad](https://github.com/saadamjad44)
 - [Usman Malik](https://github.com/Usman-Malik121)
+- - [Puneet](https://github.com/puneetrwtz)
+- [Pragyan Dhar](https://github.com/pragyandhar)
 - [Mrinal Singh](https://github.com/mrinal444)
+- [Faslu Olassery](https://github.com/fasluolassery)
 - [ Ozodbek Fayzullayev ](https://github.com/fayzullayevvvv)
 - [ Ozodbek Fayzullayev ](https://github.com/fayzullayevvvvv)
 - [ Arya ](https://github.com/aryansondharva)
@@ -13,12 +19,19 @@
 - [Arun Eswaran](https://github.com/arun-1312)
 - [David Montenegro](https://github.com/davidomontenegro)
 - [Riya Kushwaha](https://github.com/riyak790)
+- [Liam Muro](https://github.com/liammuro)
 -[Binod Gogoi](https://github.com/gogoib477)
 -[Paravin Mulla](https://github.com/ParavinMulla786)
 - [Amulya Harish](...)
+- [Rand P]
 - [Srashti Choudhary]
 - [Akshara]
+- [Laura N](https://github.com/lnezsierra/)
+- [Lauri H](https://github.com/madpoet81)
+- [TimothyLab](https://github.com/TimothyLab)
 - [Kishore Reddy](https://github.com/kishore7860)
+- [Jonathon Lim](https://github.com/Jonjlim)
+- [Sukchan20090403](https://github.com/Sukchan20090403)
 - [Ramnagendra Sripada](https://github.com/Ramnagendra2005)
 - [Steven Haywood](https://github.com/Sinbad2000)
 -[Karthik_Reddy](https://github.com/Karthikreddy2411)
@@ -31,6 +44,7 @@
 -[Yorka]
 -[Aditya Shashank Chinta](https://github.com/AdityaShashank)
 -[Hongju](https://github.com/hoot-hoot99)
+- [Elaine-764](https://github.com/Elaine-764)
 - [UROOJ ISMAIL](https://github.com/uroojismail48)
 - [Devashish Pisal](https://github.com/Devashish-Pisal)
 - [Kanta Komoike](https://github.com/komoike-oss28-ui)
@@ -120,11 +134,13 @@
 - [Sadiya Bhokare](https://github.com/sadiyabhokare)
 - Felipe Soler
 - [Bobur Boboyev](https://github.com/Bobur-Boboyev)
+- [Swapnil Singh] (https://github.com/swapycoder)
 - [Can Koylan](https://github.com/universe7creator)
 - [Piyush Srivastava](https://github.com/Phoenix-2207)
 - [GP Singh](https://github.com/Gurpreetsingh1293)
 - [SAYEM](https://github.com/11UCRES)
 - [Mohamed Ikbel Ben Nessib](https://github.com/ikbelbensib)
+- [Digvijay Patel](https://github.com/DigvijayPatel1)
 - [Carneirinho](https://github.com/pedrocarneiroa96-crypto)
 - [Samuel Meddin](https://github.com/GalacticAvenger)
 - [Koushik Deb](https://github.com/koushik-ops) 
@@ -173,6 +189,7 @@
 - [Aman Gupta](https://github.com/amangupta982)
 - [manojsharma46](https://github.com/manojsharma46)
 - [Rajkishor Thakur](https://github.com/rajkishort596)
+- Paul
 - Sarah Garcia
 - Sahith
 - Shaina Ford
@@ -407,6 +424,7 @@ Seif Alsayad
 - [Madhumitha H](https://github.com/madhuh1210)
 - [Siddharth S](https://github.com/codeXsidd)
 - [Sahil Hande](https://github.com/sahilcommit)
+-spyco
 - [M. Fajal](https://github.com/Mfaj-cod)
 - [Shajith Bathina](https://github.com/shajith240)
 - [Anish Johari](https://github.com/AnishJohari)
@@ -1048,6 +1066,7 @@ Alán
 - [Chamith Dilshan Tharuka](https://github.com/ChamithDilshanTharuka)
 - [Chamudika Yagabamunu](https://github.com/Chamudika31)
 - [Chandan Bhirud](https://github.com/chandanb778)
+- [Sukchan20090403](https://github.com/Sukchan20090403)
 - [Chang Liu](https://github.com/canyonliu8-code)
 - [Chemini Newanma](https://github.com/chemini244)
 - [Chen](https://github.com/flasheddy)
@@ -3038,5 +3057,16 @@ Oiloo
 - [Stellin John George](https://github.com/Stellin-15)
 - [Palak](https://github.com/palak1-2)
 - [Berlin Brown](https://github.com/berlinbrown/)
+- [IH BARRET](https://github.com/IHBARRET/)
 - Surbhi
 - asuka-in-2024
+- [Mohammad Jahanseir](https://github.com/mjahjanseir/)
+- [Drew Ramos](https://github.com/drewsElearning) 
+- [HxxllanX](https://github.com/hxxlLAN)
+- [sisyphox](https://github.com/sisyphox)
+- [Olivia Linlin Guo](https://github.com/olivia-linlin-guo)
+- [Luiz Miguel dos Santos Costa](https://github.com/miguelzlw)
+- [Manjunath Byadagi](https://github.com/ManjunathByadagi)
+- [Satyabrata Das](https://github.com/satya-py)
+- [hypone233](https://github.com/hypone233)hello everyone
+- [LiorM84] (https://github.com/LiorM84)
