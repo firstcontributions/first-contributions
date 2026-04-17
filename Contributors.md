@@ -1,5 +1,5 @@
 # Contributors-
-- [Gelar Rahadian Fajar]( )
+- [Gelar Rahadian Fajar]( https://github.com/gelarahadian )
 - [Sean Yu](https://github.com/takagibit18)
 - [Xu Chen](https://github.com/g4chen)
 - [Md Akhtar](https://github.com/mdakhtar03)
