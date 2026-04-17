@@ -3,6 +3,7 @@ liuqi
 - [Rohit Bisht](https://github.com/lieutenant_geek
 - [Gelar Rahadian Fajar]( )
 - [Sean Yu](https://github.com/takagibit18)
+- [Abdul Abu](https://github.com/abdulmajidabubakar)
 - [Xu Chen](https://github.com/g4chen)
 - [Md Akhtar](https://github.com/mdakhtar03)
 - [CapyBaraTheKing](https://github.com/molangmalang)
