@@ -3088,3 +3088,4 @@ Oiloo
 -[şeyma bayram](https://github.com/seymabayram)
 - [Laolaoshiren](https://github.com/laolaoshiren)
 - [Kayden Ireland](https://github.com/kaydenireland)
+- [Aldo Trucios](https://github.com/aldo2510)
