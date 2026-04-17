@@ -3,9 +3,9 @@
 - [David Montenegro](https://github.com/davidomontenegro)
  [Riya Kushwaha](https://github.com/riyak790)
 -[Binod Gogoi](https://github.com/gogoib477)
+-[Khushi Tiwari]
 -[Paravin Mulla](https://github.com/ParavinMulla786)
 -[Karthik_Reddy](https://github.com/Karthikreddy2411)
--[Khushi Tiwari]
 -[AbdullahGp](https://github.com/MAbdullahGp)
 -[Yorka]
 - [UROOJ ISMAIL](https://github.com/uroojismail48)
