@@ -1,5 +1,6 @@
 # Contributors-
 liuqi
+- [Rohit Bisht](https://github.com/lieutenant_geek
 - [Gelar Rahadian Fajar]( )
 - [Sean Yu](https://github.com/takagibit18)
 - [Xu Chen](https://github.com/g4chen)
