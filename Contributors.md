@@ -1211,6 +1211,7 @@ Steve
 - [aqua5230](https://github.com/aqua5230)
 - [Harsh](https://github.com/harsh5d5)
 - [Evan Rhea](https://github.com/MegaSF)
+- Evangelin
 - [Ezra K](https://github.com/EzraKL)
 - [Samudraneel](https://github.com/23f3002744)
 - [Farmata Kane](https://github.com/miiswom)
