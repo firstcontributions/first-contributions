@@ -36,6 +36,7 @@ liuqi
 - [Akshara]
 - [Lalu]
 - [Laura N](https://github.com/lnezsierra/)
+- [Piyush Gupta](https://github.com/Piyush495)
 - [JalCoder](https://github.com/jalCoder463)
 - [Lauri H](https://github.com/madpoet81)
 Lina Muñoz
