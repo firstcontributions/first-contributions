@@ -214,6 +214,7 @@ Lina Muñoz
 - [Aman Gupta](https://github.com/amangupta982)
 - [manojsharma46](https://github.com/manojsharma46)
 - [Rajkishor Thakur](https://github.com/rajkishort596)
+- [shitoguaji](https://github.com/shitoguaji)
 - Paul
 - Sarah Garcia
 - Sahith
