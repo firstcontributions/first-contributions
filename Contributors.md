@@ -68,6 +68,7 @@ Lina Muñoz
 - [Kolahalan](https://github.com/Kolahalan06)
 - [Pranav Sawant](https://github.com/ItzPranav61)
 - [SIDHARTH](https://github.com/Sid-2302)
+[Swapan Rishi(https://github.com/Swapanrishi)
 - [Harsha Nethra](https://github.com/HarshaNethra)
 - [shiyu](https://github.com/qinyanzi)
 - [NelsonALima](https://github.com/NelsonALima)
