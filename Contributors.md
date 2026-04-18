@@ -5,6 +5,7 @@ liuqi
 - [Rohit Bisht](https://github.com/lieutenant_geek
 - [Gelar Rahadian Fajar]( )
 - [Sean Yu](https://github.com/takagibit18)
+- [Gyanendra Yadav](https://github.com/GyanendraYadav7715)
 - [Abdul Abu](https://github.com/abdulmajidabubakar)
 - [Xu Chen](https://github.com/g4chen)
 - [Md Akhtar](https://github.com/mdakhtar03)
