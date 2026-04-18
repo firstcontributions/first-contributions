@@ -2,6 +2,7 @@
 - [Yonadhan M M](https://github.com/YONADHAN)
 - [Luohino](https://github.com/Luohino)
 liuqi
+Mazin
 - I am here now, popopwopwop
 - [Rohit Bisht](https://github.com/lieutenant_geek
 - [Gelar Rahadian Fajar]( )
