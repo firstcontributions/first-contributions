@@ -44,6 +44,7 @@ liuqi
 - [TimothyLab](https://github.com/TimothyLab)
 - [Kishore Reddy](https://github.com/kishore7860)
 - [Jonathon Lim](https://github.com/Jonjlim)
+- [Sahasra](https://github.com/Sahasra-23)
 - [Sukchan20090403](https://github.com/Sukchan20090403)
 - [Ramnagendra Sripada](https://github.com/Ramnagendra2005)
 - [Steven Haywood](https://github.com/Sinbad2000) -[Karthik_Reddy](https://github.com/Karthikreddy2411) -[Ayman Mansuri](gybhubuh) -[Ankit Vijay Shinde](https://github.com/ankitshinde30) -[AbdullahGp](https://github.com/MAbdullahGp)
@@ -1608,6 +1609,7 @@ liuqi
 - [Nitish](https://github.com/sidkr222003)
 - [Nn Morishita](https://github.com/nn-morishita)
 - [NoMathematician1729](https://github.com/noMathematician1729)
+- [Madiri Lokesh](https://github.com/Lokesh-Madiri)
 - [Vijaya Nandana](https://github.com/vijayanandana25)
 - [Vedansh]
 - [Noah Kim](https://github.com/gratisreise)
@@ -3025,3 +3027,4 @@ liuqi
 - [Shreya Singh](https://github.com/singhshreya-bhriguvanshi/)
 - [Eraol](https://github.com/eraol)
 - [Rakshita Kumari](https://github.com/Rakshita006)
+- [Lemontree](https://github.com/Lemontree7981)
