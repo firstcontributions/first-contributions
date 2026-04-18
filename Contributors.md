@@ -218,6 +218,7 @@ Lina Muñoz
 - [shitoguaji](https://github.com/shitoguaji)
 - Paul
 - Sarah Garcia
+- Edvin
 - Sahith
 - Shaina Ford
 - [Om Kulkarni](https://github.com/justmeaprogrammer)
