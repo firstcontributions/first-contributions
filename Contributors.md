@@ -311,6 +311,7 @@ Lina Muñoz
 -[Arul Cornelious](https://github.com/Arul1998)
 -[Aditya Swain](https://github.com/23f3004358)
 -[Aidan Gray](https://github.com/Aitgray)
+-[Anurag](https://github.com/anuragcore)
 -[Prashant Ranjan](https://github.com/23f2002267)
 -[Subham Sutradhar]("https://github.com/SubhamFlow")
 -[Divyanshu Kumar](https://github.com/dgiitm)
