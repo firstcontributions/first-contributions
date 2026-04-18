@@ -1665,6 +1665,7 @@ Alejandro Alfaro
 - [Nitish](https://github.com/sidkr222003)
 - [Nn Morishita](https://github.com/nn-morishita)
 - [NoMathematician1729](https://github.com/noMathematician1729)
+- [Madiri Lokesh](https://github.com/Lokesh-Madiri)
 - [Vijaya Nandana](https://github.com/vijayanandana25)
 - [Vedansh]
 - [Noah Kim](https://github.com/gratisreise)
