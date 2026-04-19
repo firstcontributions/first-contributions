@@ -3161,3 +3161,5 @@ Oiloo
 - [Nileshkumar Chittevan] (https://github.com/npchittevan)
 - Aarushi Gupta
 - [Nitish Sharma] (https://github.com/Nitish-sharma99)
+- Aditi Khare (https://github.com/khareaditi16)
+- Shreya Mahesh | India | AIML Student | AI/ML, Web Dev
