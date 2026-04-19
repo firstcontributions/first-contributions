@@ -3167,3 +3167,4 @@ Oiloo
 - Aditi Khare (https://github.com/khareaditi16)
 - Shreya Mahesh | India | AIML Student | AI/ML, Web Dev
 - [snow](https://github.com/Snowtimes)
+- [Kunal Yegate](https://github.com/kunal-yelgate)
