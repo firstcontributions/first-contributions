@@ -229,6 +229,7 @@ Lina Muñoz
 - Edvin
 - Sahith
 - Shaina Ford
+- [Gabriel Bertero](https://github.com/gabibertero)
 - [Om Kulkarni](https://github.com/justmeaprogrammer)
 [Nireeksha A P](https://github.com/NireekshaAP07)
 - [FatPandaC8](https://github.com/FatPandaC8)
