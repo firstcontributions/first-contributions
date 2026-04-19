@@ -170,6 +170,7 @@ Lina Muñoz
 - [Can Koylan](https://github.com/universe7creator)
 - [Piyush Srivastava](https://github.com/Phoenix-2207)
 - [GP Singh](https://github.com/Gurpreetsingh1293)
+- [Maria Liu](https://github.com/MariaLiu20)
 - [SAYEM](https://github.com/11UCRES)
 - [Mohamed Ikbel Ben Nessib](https://github.com/ikbelbensib)
 - [Digvijay Patel](https://github.com/DigvijayPatel1)
