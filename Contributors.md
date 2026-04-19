@@ -1211,6 +1211,7 @@ Christopher Aguilar
 - [EdVKu](https://github.com/EdVKu)
 Steve
 - [Edgar Justus](https://github.com/edgarjustus)
+- [Kushaal]
 - [Eduardo](https://github.com/Edd17369)
 - [EduBroilo](https://github.com/EduBroilo)
 - [Elías Hernández Rodríguez](https://github.com/EliasHdzR)
