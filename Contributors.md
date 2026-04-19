@@ -34,6 +34,7 @@ Mazin
 - [Riya Kushwaha](https://github.com/riyak790)
 - [Liam Muro](https://github.com/liammuro)
 -[Binod Gogoi](https://github.com/gogoib477)
+-[Parth Lodha](https://github.com/parthlodha)
 -[Paravin Mulla](https://github.com/ParavinMulla786)
 - [Amulya Harish](...)
 - [Rand P]
