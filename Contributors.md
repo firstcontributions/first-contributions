@@ -190,6 +190,7 @@ Lina Muñoz
 - [drik12](https://github.com/drik12)
 - [Vrinda0211](https://github.com/Vrinda0211)
 - [Aryan Gupta](https://github.com/aryanthepain)
+- [Abhishek Singh](https://github.com/Abhis-Sin)
 - [Ayushi Rajput(https://github.com/Ayushi-ninja)
 - [Surya Prakash](https://github.com/surya2208)
 - [Arjun Patil](https://github.com/Arjun-patil-631)
