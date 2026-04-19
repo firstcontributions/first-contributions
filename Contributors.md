@@ -1,4 +1,5 @@
 # Contributors-
+- [Anis Omar Annad](https://github.com/anisannad)
 - [rayrishu19-wq](https://github.com/rayrishu19-wq)
  [Riya Kushwaha](https://github.com/riyak790)
 -[Binod Gogoi](https://github.com/gogoib477)
