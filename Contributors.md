@@ -34,6 +34,7 @@ Mazin
 - [Riya Kushwaha](https://github.com/riyak790)
 - [Liam Muro](https://github.com/liammuro)
 -[Binod Gogoi](https://github.com/gogoib477)
+-[Parth Lodha](https://github.com/parthlodha)
 -[Paravin Mulla](https://github.com/ParavinMulla786)
 - [Amulya Harish](...)
 - [Rand P]
@@ -1439,6 +1440,7 @@ Steve
 - [Karri Saiphani Reddy](https://github.com/Saiphani1022)
 - [Kartik Yadav](https://github.com/kartik912)
 - [Karthik Sai](https://github.com/KarthikSai08)
+- [Karthik Santhosh](https://github.com/kxrthiikk)
 - [Karuna Gawai](https://github.com/zero-one1)
 - [Kassahun F](https://github.com/Kas1398)
 - [kathanCodes](https://github.com/kathanCodes)
@@ -3150,3 +3152,4 @@ Oiloo
 - [Vkmalani9](https://github.com/vkmalani9)
 - [Ishan Chaudhary](https://github.com/Ishan74)
 - [jkfujinami](https://github.com/jkfujinami)
+- [dhaidev] (https://github.com/DhaiDev)
