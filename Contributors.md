@@ -1440,6 +1440,7 @@ Steve
 - [Karri Saiphani Reddy](https://github.com/Saiphani1022)
 - [Kartik Yadav](https://github.com/kartik912)
 - [Karthik Sai](https://github.com/KarthikSai08)
+- [Karthik Santhosh](https://github.com/kxrthiikk)
 - [Karuna Gawai](https://github.com/zero-one1)
 - [Kassahun F](https://github.com/Kas1398)
 - [kathanCodes](https://github.com/kathanCodes)
