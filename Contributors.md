@@ -44,6 +44,7 @@ Mazin
   [Romila Mukul]: the greatest of all ;
 - [Lalu]
 - [Laura N](https://github.com/lnezsierra/)
+- [ranjiGT](https://github.com/ranjiGT)
 - [Piyush Gupta](https://github.com/Piyush495)
 - [JalCoder](https://github.com/jalCoder463)
 - [Lauri H](https://github.com/madpoet81)
