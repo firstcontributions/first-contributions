@@ -921,6 +921,7 @@ tds
 - [Ahmed Yasir](https://github.com/ahmedyasir779)
 - [Aiman](https://github.com/PX201)
 - [Alejandro Parra](https://github.com/Alejandroparra08)
+- [Alejandro García S-H](https://github.com/alegarsan11)
 - [Aissatou Mbaye](https://github.com/AissatouMbaye19)
 - [Akash Dhamane](https://github.com/explore)
 - [Vishnu A](https://github.com/Vishnu08n)
