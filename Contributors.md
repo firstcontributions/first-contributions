@@ -6,6 +6,7 @@ liuqi
 Mazin
 - [Samman Jaiswal](https://github.com/jayssSmm)
 - I am here now, popopwopwop
+- [Rafi'i M](https://github.com/maul-PG)
 - [Mahmoud Abdelsalam](https://github.com/mahmoudabdelsalammahrous)
 - [Rohit Bisht](https://github.com/lieutenant_geek
 - [Gelar Rahadian Fajar]( )
@@ -19,6 +20,7 @@ Mazin
 - [Usman Malik](https://github.com/Usman-Malik121)
 - - [Puneet](https://github.com/puneetrwtz)
 - [mitupatel005]
+- [Martyna Budrewicz](https://github.com/martbudr)
 - [Pragyan Dhar](https://github.com/pragyandhar)
 - [Mrinal Singh](https://github.com/mrinal444)
 - [Faslu Olassery](https://github.com/fasluolassery)
@@ -46,10 +48,12 @@ Mazin
 -[Paravin Mulla](https://github.com/ParavinMulla786)
 - [Amulya Harish](...)
 - [Rand P]
+- [Wendy Abstone](https://github.com/wendyabstone)
 - [Srashti Choudhary]
 - [Akshara]
   [Romila Mukul]: the greatest of all ;
 - [aplicity](https://github.com/1634594707)
+- [ NILUOP ](https://github.com/NILUOP) I use Arch, btw
 - [Lalu]
 - [Laura N](https://github.com/lnezsierra/)
 - [ranjiGT](https://github.com/ranjiGT)
@@ -3196,3 +3200,4 @@ Oiloo
 - [Suman Kalyan Sahoo](https://github.com/SumanKalyanSahoo)
 - [Michelle Galindo](https://github.com/michellegalindo)
 - [Aditi Hazra](https://github.com/Aditi-coder439)
+- [Flávia Souza](https://github.com/Flavinha-Souza)
