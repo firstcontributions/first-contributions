@@ -3180,3 +3180,4 @@ Oiloo
 - [HuginnDani](https://github.com/HuginnDani)
 - [Vignesh-Vijaya-DE/DS/DA](https://github.com/vigneshdanalyst)
 - [capybara]
+- [Ayush Anand](https://github.com/anandd2006) hi lol
