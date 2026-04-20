@@ -62,6 +62,7 @@ Lina Muñoz
 - [Sahasra](https://github.com/Sahasra-23)
 - [Diksha Gulati](https://github.com/paperlanes)
 - [Sukchan20090403](https://github.com/Sukchan20090403)
+- [zaytec](https://github.com/zaytec)
 - [Ramnagendra Sripada](https://github.com/Ramnagendra2005)
 - [Steven Haywood](https://github.com/Sinbad2000)
 -[Karthik_Reddy](https://github.com/Karthikreddy2411)
