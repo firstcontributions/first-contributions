@@ -1374,6 +1374,7 @@ Steve
 - [Jasper Münzer](https://github.com/JasperKasp)
 - [Jayaditya Sahu](https://github.com/Jayadityas)
 - [Jayanth](https://github.com/MUNJETIJAYANTHKRISHNA)
+- [Jayesh Bhadane](https://github.com/jayesh2810)
 - [Jayesh Patil](https://github.com/JayeshPatil163)
 - [Jeeva m](https://github.com/jeevamahadevan16-igtm)
 - [Jeevan Raju](https://github.com/Jeevan-WPA)
