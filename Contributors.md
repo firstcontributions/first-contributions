@@ -122,7 +122,7 @@ Lina Muñoz
 - [Fahmiajik](https://github.com/fahmiajik12)
 - [Markel Jaureguibehere](https://github.com/MarkelJaure)
 - [LatentSpace-rgb](https://github.com/LatentSpace-rgb)
-  [Akan Abdireshov] (https://github.com/Asanovichoff)
+  [Akan Abdireshov] (https://github.com/Asanovichoff).
 - [Vicho1937](https://github.com/Vicho1937)
 - [Nishtha] (https://github.com/NISHTHACHOUBEY)
 - [Santosh Andra]
