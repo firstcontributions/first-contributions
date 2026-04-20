@@ -1617,6 +1617,7 @@ Alejandro Alfaro
 - [Mohd Rayyan Lulaniya](https://github.com/Rayyan-101)
 - [Moiie](https://github.cim/Moiie)
 - [Ian Westfall](https://github.com/ianlwestfall)
+- [Swapnil Lakra](https://github.com/Swapni-1)
 - [Monika R](https://github.com/monika-r9363)
 - [Navneet Anand Mishra](https://github.com/nav0804)
 - [Momina Fatima](https://github.com/mominaaa0)
