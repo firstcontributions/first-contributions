@@ -36,6 +36,7 @@ Mazin
 - [Sidra Maryam](https://github.com/Sidra-Maryam)
 - [aswanth mc](https://github.com/aswanth-mc)
 - [rayrishu19-wq](https://github.com/rayrishu19-wq)
+- [Ericson Tames](https://github.com/Ericson1234)
 - [Leta Kasahun](https://github.com/Leta-Kasahun)
 - [Md.Ahsan Khan](https://github.com/Ahsan-Khan317)
 - [Arun Eswaran](https://github.com/arun-1312)
