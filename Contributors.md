@@ -48,6 +48,7 @@ Mazin
 - [Srashti Choudhary]
 - [Akshara]
   [Romila Mukul]: the greatest of all ;
+- [aplicity](https://github.com/1634594707)
 - [Lalu]
 - [Laura N](https://github.com/lnezsierra/)
 - [ranjiGT](https://github.com/ranjiGT)
