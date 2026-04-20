@@ -784,6 +784,7 @@ zain
 - [Isaac Keninger](https://github.com/IsaacKeninger)
 - [Bhavesh Gajengi](https://github.com/BhaveshGajengi1)
 - [Abdul Muqeet K B](https://github.com/muqeet-27)
+- [Pierre Walther](https://github.com/PierreSenpai)
 - [Samuel Mueses](https://github.com/Samxss)
 - [Anand Mani](https://github.com/astromani721)
 - [Bhautik Jani](https://github.com/BhautikJani11)
