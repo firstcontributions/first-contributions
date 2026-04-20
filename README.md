@@ -45,6 +45,7 @@
 <kbd>[<img title="नेपाली" alt="नेपाली" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/np.svg" width="15">](docs/translations/README.np.md)</kbd>
 <kbd>[<img title="Wikang Filipino" alt="Wikang Filipino" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ph.svg" width="22">](docs/translations/README.fil.md)</kbd>
 <kbd>[<img title="English (Pirate)" alt="English (Pirate)" src="https://firstcontributions.github.io/assets/Readme/pirate.png" width="22">](docs/translations/README.en-pirate.md)</kbd>
+<kbd>[<img title="English (Caveman)" alt="English (Caveman)" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f5ff.png" width="22">](docs/translations/README.caveman.md)</kbd>
 <kbd>[<img title="اُاردو" alt="اردو" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/pk.svg" width="22">](docs/translations/README.ur.md)</kbd>
 <kbd>[<img title="Twi (Ghana)" alt="Twi (Ghana)" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/gh.svg" width="22">](docs/translations/README.gh.md)</kbd>
 <kbd>[<img title="Polski" alt="Polski" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/pl.svg" width="22">](docs/translations/README.pl.md)</kbd>
