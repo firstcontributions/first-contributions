@@ -998,6 +998,7 @@ RLeish
 - [Anirudh Panigrahi](https://github.com/Anirudh-020505)
 - [Anish Banda](https://github.con/anishbanda)
 - [Anish Dharu](https://github.com/AnishDharu)
+- [ADARSH KS](https://github.com/ADARSHKS-BCA)
 - [Anish Dubey](https://github.com/23f2001087)
 - [Vanshika](https://github.com/vanshika05-ai)
 - [Anjesh Ranjan Dash ](https://github.com/AnjeshDash)
