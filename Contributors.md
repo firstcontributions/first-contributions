@@ -1992,6 +1992,7 @@ Alejandro Alfaro
 - [Srajan Gupta](https://github.com/srajang1805)
 - [Sridhar S](https://github.com/sridhar-sri-s)
 - [Sridhar-EEE](https://github.com/sridhar-eee/)
+- [Karl Son](https://github.com/ksondeji)
 - [Sriram Chowdary Vundavalli](https://github.com/sriramchow)
 - [Sriteja01](https://github.com/Sriteja01)
 - [Stgojo13243](https://github.com/Stgojo13243) 
