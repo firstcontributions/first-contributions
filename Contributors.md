@@ -3,6 +3,7 @@
 - [Luohino](https://github.com/Luohino)
 liuqi
 Mazin
+- [Samman Jaiswal](https://github.com/jayssSmm)
 - I am here now, popopwopwop
 - [Mahmoud Abdelsalam](https://github.com/mahmoudabdelsalammahrous)
 - [Rohit Bisht](https://github.com/lieutenant_geek
