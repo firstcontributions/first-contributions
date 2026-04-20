@@ -111,7 +111,7 @@ Lina Muñoz
 - [Fahmiajik](https://github.com/fahmiajik12)
 - [Markel Jaureguibehere](https://github.com/MarkelJaure)
 - [LatentSpace-rgb](https://github.com/LatentSpace-rgb)
-  
+- [Hari Sudarsan](https://github.com/hari-599/)
 - [Vicho1937](https://github.com/Vicho1937)
 - [Santosh Andra]
 - [Sharvani Marne](https://github.com/sharvanimarne)
