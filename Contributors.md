@@ -30,6 +30,7 @@ Mazin
  -[Vidhya Veera](https://github.com/vidhyaveeranellu)
  -[Nakul Kumar Shaw](https://github.com/nakulshaw)
 - [Deep Parashar](https://github.com/deepparashar)
+- [Sidra Maryam](https://github.com/Sidra-Maryam)
 - [aswanth mc](https://github.com/aswanth-mc)
 - [rayrishu19-wq](https://github.com/rayrishu19-wq)
 - [Leta Kasahun](https://github.com/Leta-Kasahun)
