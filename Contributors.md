@@ -1179,6 +1179,7 @@ Christopher Aguilar
 - [Kunal jaiswal](https://github.com/Kunall7890)
 - [Harmandeep Singh Raheel](https://github.com/Raheel-glicth)
 - [Dhwanit Patel](https://github.com/dhwanit10)
+- [Alex Reyes](https://https://github.com/reysl-04)
 - [Dileep Munji](https://github.com/DileepMunji)
 - [DilekaSadaruwan](https://github.com/DilekaSadaruwan)
 - [Dimal Alagiyawanna](https://github.com/dimal-alagiyawanna)
