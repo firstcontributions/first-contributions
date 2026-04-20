@@ -16,6 +16,7 @@ Mazin
 - [Xu Chen](https://github.com/g4chen)
 - [Md Akhtar](https://github.com/mdakhtar03)
 - [CapyBaraTheKing](https://github.com/molangmalang)
+-[Rishabh Pandey](https://github.com/Lazyproton)
 - [Saad Amjad](https://github.com/saadamjad44)
 - [Usman Malik](https://github.com/Usman-Malik121)
 - - [Puneet](https://github.com/puneetrwtz)
