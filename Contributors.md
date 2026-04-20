@@ -121,6 +121,7 @@ Lina Muñoz
 - [Ryan Donnelly](https://github.com/RYANDONNELLY40329285)
 - [Fahmiajik](https://github.com/fahmiajik12)
 - [Markel Jaureguibehere](https://github.com/MarkelJaure)
+- [Emma Luk](https://github.com/emma-luky)
 - [LatentSpace-rgb](https://github.com/LatentSpace-rgb)
   
 - [Vicho1937](https://github.com/Vicho1937)
