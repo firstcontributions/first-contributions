@@ -118,6 +118,7 @@ Lina Muñoz
 - [LatentSpace-rgb](https://github.com/LatentSpace-rgb)
   
 - [Vicho1937](https://github.com/Vicho1937)
+- [Nishtha] (https://github.com/NISHTHACHOUBEY)
 - [Santosh Andra]
 - [Sharvani Marne](https://github.com/sharvanimarne)
 - [Tejas Waghere](https://github.com/tejaswaghere)
