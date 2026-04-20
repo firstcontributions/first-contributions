@@ -1295,6 +1295,7 @@ Steve
 - [Haddadi Houcine](https://github.com/Houcine0x7)
 - [Hafsa Irfan](https://github.com/hafxa)
 - [HaidarAbbas](https://github.com/Haidarabbas731)
+- [Haiqal Hasly](https://github.com/haiqalhasly)
 - [Hamza Qureshi](https://github.com/hamzaq453)
 - [Hannan Nasim](https://github.com/Hannan-Nasim)
 - [Hanna Lozano](https://github.com/hannalozano)
