@@ -8,7 +8,8 @@ Mazin
 - I am here now, popopwopwop
 - [Rafi'i M](https://github.com/maul-PG)
 - [Mahmoud Abdelsalam](https://github.com/mahmoudabdelsalammahrous)
-- [Rohit Bisht](https://github.com/lieutenant_geek
+- ([Akshat Rakesh](https://github.com/rakeshakshat67))
+- [Rohit Bisht](https://github.com/lieutenant_geek)
 - [Gelar Rahadian Fajar]( )
 - [Sean Yu](https://github.com/takagibit18)
 - [Gyanendra Yadav](https://github.com/GyanendraYadav7715)
