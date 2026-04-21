@@ -10,6 +10,7 @@ liuqi
 Mazin
 - [Samman Jaiswal](https://github.com/jayssSmm)
 - I am here now, popopwopwop
+- [Peeyush Kr Singh](https://github.com/Peeyush3587)
 - [Ruri Nanto]
 - [Rafi'i M](https://github.com/maul-PG)
 - [Mahmoud Abdelsalam](https://github.com/mahmoudabdelsalammahrous)
