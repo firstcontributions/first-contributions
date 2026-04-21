@@ -1,4 +1,5 @@
 # Contributors-
+- [Navye Jindal](https://github.com/Navye08)
 - [Troy Jackson](https://github.com/Troy999s)
 - [Jon Gomez](https://github.com/jongomez-sys)
 - [Tamish Ashtankar](https://github.com/Tamish-arch)
