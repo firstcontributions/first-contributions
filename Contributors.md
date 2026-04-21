@@ -2989,7 +2989,7 @@ jieting-[ych3star](https://github.com/ych3star)
 - [Mohammed](https://github.com/mohammed-972)
 - [Coresen](https://github.com/iCoresen)
 - [WhtNoiz](https://github.com/WhtNoiz)
-- [Dharun](https://github.com/dharun36)
+- [Dharun R](https://github.com/dharun36)
 - Jhon Bustos
 - [Jugal Nirav Shah](https://github.com/jugalshahh)
 - [Rita](https://github.com/Rita007331)
