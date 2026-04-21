@@ -606,6 +606,7 @@ zain
 - [Abhinav](https://github.com/Caterpillarok)
 - [ggxm19][https://github.com/ggxm]
 - [Arnav Amrit](https://github.com/ArnavAmrit)
+- [Amogh Ukkadgatri](https://github.com/Majorwhiskey)
 - [Armando Compean](armandocompean1207-glitch)
 - [23f2003692](https://github.com/23f2003692)
 - [Htoo Eant Linn](https://github.com/htooeantlinn)
