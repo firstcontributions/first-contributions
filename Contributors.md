@@ -41,6 +41,7 @@ Mazin
 - [BpsBaradwaz](https://github.com/Baradwaz-122)
  -[Vidhya Veera](https://github.com/vidhyaveeranellu)
  -[Nakul Kumar Shaw](https://github.com/nakulshaw)
+ - [Harsh Yadav](https://github.com/harshyadavDeveloper)
 - [Deep Parashar](https://github.com/deepparashar)
 - [Sidra Maryam](https://github.com/Sidra-Maryam)
 - [aswanth mc](https://github.com/aswanth-mc)
