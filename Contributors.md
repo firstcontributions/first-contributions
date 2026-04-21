@@ -7,6 +7,7 @@
 - [Naveen Verma](https://github.com/NavMysterio)
 -Abdikarin-dev
 - [Yonadhan M M](https://github.com/YONADHAN)
+- [Carson Lin](https://github.com/lstsk)
 - [Luohino](https://github.com/Luohino)
 liuqi
 Mazin
