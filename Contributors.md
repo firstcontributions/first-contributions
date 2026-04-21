@@ -1666,6 +1666,7 @@ Alejandro Alfaro
 - [Aamir Khan](https://github.com/aamir296)
 - [NabilMch](https://github.com/NabilMch)
 - [Rohan Darandale](https://github.com/rohandarandale1144)
+- [Palguna TM] (https://github.com/palgunatm66)
 - [Nabil Mutawakkil Qisthi](https://github.com/NabilMQ)
 - [Jesus Angel Nuñez Marquez] (https://github.com/AngeloChispa)
 - [25ds2000008](25ds2000008@ds.study.iitm.ac.in)
