@@ -58,6 +58,7 @@ Mazin
   [Romila Mukul]: the greatest of all ;
 - [aplicity](https://github.com/1634594707)
 - [ NILUOP ](https://github.com/NILUOP) I use Arch, btw
+- [wgdouglas] (https://github.com/wgdouglas) Fullstack Developer
 - [Lalu]
 - [Laura N](https://github.com/lnezsierra/)
 - [ranjiGT](https://github.com/ranjiGT)
