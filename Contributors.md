@@ -1,4 +1,5 @@
 # Contributors-
+- [Khushal Pareta](https://github.com/Kennny7)
 -Abdikarin-dev
 - [Yonadhan M M](https://github.com/YONADHAN)
 - [Luohino](https://github.com/Luohino)
