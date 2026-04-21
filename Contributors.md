@@ -10,6 +10,7 @@ Mazin
 - [Mahmoud Abdelsalam](https://github.com/mahmoudabdelsalammahrous)
 - ([Akshat Rakesh](https://github.com/rakeshakshat67))
 - [Rohit Bisht](https://github.com/lieutenant_geek)
+- [DD](https://github.com/danny-caliste)
 - [Gelar Rahadian Fajar]( )
 - [Sean Yu](https://github.com/takagibit18)
 - [Gyanendra Yadav](https://github.com/GyanendraYadav7715)
