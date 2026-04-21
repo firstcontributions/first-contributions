@@ -3110,6 +3110,7 @@ Oiloo
 - [Samrudhi Patil](https://github.com/orgs/Samruddhi11)
 - [lightartw](https://github.com/lightartw)
 - [Mateusz Głowa](https://github.com/mateuszglowa)
+- [zakaria tahraoui](https://github.com/zakitahraoui123-cmd)
 - [Mohit Khandelwal](https://github.com/Mohit5Khandelwal)
 - [Kritika Arora](https://github.com/Kritika-Arora19)
 - [Tajalli Us Samad](https://github.com/qrstajalli)
