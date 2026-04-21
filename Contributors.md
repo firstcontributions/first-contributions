@@ -2,6 +2,7 @@
 - [Jon Gomez](https://github.com/jongomez-sys)
 - [Tamish Ashtankar](https://github.com/Tamish-arch)
 - [Khushal Pareta](https://github.com/Kennny7)
+- [Naveen Verma](https://github.com/NavMysterio)
 -Abdikarin-dev
 - [Yonadhan M M](https://github.com/YONADHAN)
 - [Luohino](https://github.com/Luohino)
