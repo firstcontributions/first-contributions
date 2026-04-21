@@ -141,7 +141,6 @@ Lina Muñoz
 - [Markel Jaureguibehere](https://github.com/MarkelJaure)
 - [Emma Luk](https://github.com/emma-luky)
 - [LatentSpace-rgb](https://github.com/LatentSpace-rgb)
-  
 - [Vicho1937](https://github.com/Vicho1937)
 - [Nishtha] (https://github.com/NISHTHACHOUBEY)
 - [Santosh Andra]
@@ -553,6 +552,7 @@ Arman P
 - [Mariana Garcia Marin](https://github.com/milkira)
 - [Nathaniel Marin](https://github.com/HorrySheet11)
 - [Deepthikaa Nandhakumar](https://github.com/deepthikaa77)
+- [Jesse E](https://github.com/Peacanduck)
 - [Aya Driouche](https://github.com/aya119119)
 - [Olatemilode](https://github.com/olatemilode
 - [Ben Cruwys](https://github.com/bencruwys)
