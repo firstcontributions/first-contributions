@@ -396,6 +396,7 @@ Alicexxxx
 - [Bhupesh Cholake](https://github.com/RealBhupesh)
 - [Bhavyaveer Kumar](https://github.com/Bhavyaveer44)
 - [Norman Glad](https://github.com/norman-glad)
+- [SapotaDA](https://github.com/SapotaDA)
 - [Chirag Gowda](https://github.com/chirag249)
 - - [Smaran](https://github.com/smaran9)
 - [Mitali Mehta](https://github.com/Mitalimehta02)
