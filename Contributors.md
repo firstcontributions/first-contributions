@@ -1,4 +1,5 @@
 # Contributors-
+- [Troy Jackson](https://github.com/Troy999s)
 - [Jon Gomez](https://github.com/jongomez-sys)
 - [Tamish Ashtankar](https://github.com/Tamish-arch)
 - [Khushal Pareta](https://github.com/Kennny7)
