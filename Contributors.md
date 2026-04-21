@@ -166,6 +166,7 @@ Lina Muñoz
 - [Ayushman Pathak](https://github.com/ayushmanpathak9034)
 - [MrAidxn](https://github.com/MrAidxn)
 - [iacker](https://github.com/iacker)
+- [Nathan Kutete](https://github.com/nathankuts)
 - [Yasser Marinho](https://github.com/yasihm)
 - [Bao Khuong](https://github.com/KhuongBao)
 - [John Chavarría](https://github.com/Johnchc10)
