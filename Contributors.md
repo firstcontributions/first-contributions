@@ -8,6 +8,7 @@ liuqi
 Mazin
 - [Samman Jaiswal](https://github.com/jayssSmm)
 - I am here now, popopwopwop
+- [Ruri Nanto]
 - [Rafi'i M](https://github.com/maul-PG)
 - [Mahmoud Abdelsalam](https://github.com/mahmoudabdelsalammahrous)
 - ([Akshat Rakesh](https://github.com/rakeshakshat67))
