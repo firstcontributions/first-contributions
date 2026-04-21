@@ -29,6 +29,7 @@ Mazin
 - - [Puneet](https://github.com/puneetrwtz)
 - [mitupatel005]
 - [Martyna Budrewicz](https://github.com/martbudr)
+- [Stacy Hilliard](https://github.com/stacyah)
 - [Pragyan Dhar](https://github.com/pragyandhar)
 - [Mrinal Singh](https://github.com/mrinal444)
 - [Faslu Olassery](https://github.com/fasluolassery)
