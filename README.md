@@ -158,7 +158,7 @@ In this case, try to use `git checkout` instead:
 ```bash
 git checkout -b your-new-branch-name
 ```
-
+-Haridas Shinde
 </details>
 
 ## Make necessary changes and commit those changes
