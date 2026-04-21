@@ -1,5 +1,6 @@
 # Contributors-
--[Tamish Ashtankar](https://github.com/Tamish-arch)
+- [Jon Gomez](https://github.com/jongomez-sys)
+- [Tamish Ashtankar](https://github.com/Tamish-arch)
 - [Khushal Pareta](https://github.com/Kennny7)
 -Abdikarin-dev
 - [Yonadhan M M](https://github.com/YONADHAN)
