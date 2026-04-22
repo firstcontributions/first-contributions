@@ -1,16 +1,28 @@
 # Contributors-
 
+# Contributors
+- [Crescent](https://github.com/Crescent152)
+- [Navye Jindal](https://github.com/Navye08)
+- [Troy Jackson](https://github.com/Troy999s)
 - [Jon Gomez](https://github.com/jongomez-sys)
 - [Tamish Ashtankar](https://github.com/Tamish-arch)
 - [Khushal Pareta](https://github.com/Kennny7)
 - [Naveen Verma](https://github.com/NavMysterio)
-  -Abdikarin-dev
+- Abdikarin-dev
+- [NullEntity001](https://github.com/NullEntity001)
 - [Yonadhan M M](https://github.com/YONADHAN)
+- [Jaehoon Son](https://github.com/JaehoonSon)
+- [Carson Lin](https://github.com/lstsk)
+- [Cesar Ochoa](https://github.com/cesarocbu)
 - [Luohino](https://github.com/Luohino)
-  liuqi
-  Mazin
+
+- [Llewxam](https://github.com/Lamarq7eYT)
+- liuqi Mazin
+- [K Miyahara](https://github.com/zantmanpiman)
+- [Mahmoud Alaa] (https://github.com/mahmoud-alaa1)
 - [Samman Jaiswal](https://github.com/jayssSmm)
 - I am here now, popopwopwop
+- [Peeyush Kr Singh](https://github.com/Peeyush3587)
 - [Ruri Nanto]
 - [Rafi'i M](https://github.com/maul-PG)
 - [Mahmoud Abdelsalam](https://github.com/mahmoudabdelsalammahrous)
@@ -27,7 +39,7 @@
 - [CapyBaraTheKing](https://github.com/molangmalang) -[Rishabh Pandey](https://github.com/Lazyproton)
 - [Saad Amjad](https://github.com/saadamjad44)
 - [Usman Malik](https://github.com/Usman-Malik121)
-- - [Puneet](https://github.com/puneetrwtz)
+- [Puneet](https://github.com/puneetrwtz)
 - [mitupatel005]
 - [Martyna Budrewicz](https://github.com/martbudr)
 - [Stacy Hilliard](https://github.com/stacyah)
@@ -57,6 +69,7 @@
 - [Liam Muro](https://github.com/liammuro) -[Binod Gogoi](https://github.com/gogoib477) -[Parth Lodha](https://github.com/parthlodha) -[Paravin Mulla](https://github.com/ParavinMulla786)
 - [Amulya Harish](...)
 - [Rand P]
+- [Melissa McKenzie](https://github.com/MMckenz3)
 - [Wendy Abstone](https://github.com/wendyabstone)
 - [Srashti Choudhary]
 - [Akshara]
@@ -91,13 +104,19 @@
 - [Kolahalan](https://github.com/Kolahalan06)
 - [Pranav Sawant](https://github.com/ItzPranav61)
 - [SIDHARTH](https://github.com/Sid-2302)
-  [Swapan Rishi(https://github.com/Swapanrishi)
+- [Swapan Rishi(https://github.com/Swapanrishi)
 - [Harsha Nethra](https://github.com/HarshaNethra)
 - [shiyu](https://github.com/qinyanzi)
 - [NelsonALima](https://github.com/NelsonALima)
 - [wqpwqp1222](https://github.com/wqpwqp1222)
-- [Sadia Islam Thaky](https://github.com/thakyislam) -[mnh2003](https://github.com/myatnoehla/mnh.git) -[srijita](https://github.com/srijita2506) -[Gautam](https://github.com/GautamPokharkar)
-- [KIRANKUMAR S] (https://github.com/kumar-kiran-24) -[nahosantor](https://github.com/nahosantor) -[Yancka}](https://github.com/itsmieyancka) -[Yash Raj](https://github.com/Yash-Raj-5424)
+- [Sadia Islam Thaky](https://github.com/thakyislam) 
+- [mnh2003](https://github.com/myatnoehla/mnh.git) 
+- [srijita](https://github.com/srijita2506)
+- [Gautam](https://github.com/GautamPokharkar)
+- [KIRANKUMAR S] (https://github.com/kumar-kiran-24) 
+- [nahosantor](https://github.com/nahosantor) 
+- [Yancka}](https://github.com/itsmieyancka)
+- [Yash Raj](https://github.com/Yash-Raj-5424)
 - [Motaz9999](https://github.com/Motaz9999)
 - [goodnamed](https://github.com/goodnamed)
 - [Atharva Jadhav](https://github.com/DrDrunkenstien-10)
@@ -2558,6 +2577,7 @@
 - [Noah Schroeder](https://github.com/nrschroeder)
 - [Ishani Basu](https://github.com/Ishani1024)
 - [Jargavi Jadeja](https://github.com/JargaviJadeja)
+- [Thibault Rolland](https://github.com/trolland)
 - [Sandhya Adhikari](https://github.com/Sandhya-ad)
 - [Sayan Koley](https://github.com/sayan110923)
 - [Alina Nair](https://github.com/NairAlina)
@@ -3131,5 +3151,10 @@
 - [Sunil Talla](https://github.com/suniltalla1)
 
 * [M. Khubaib Zafar](https://github.com/mkhubaibzafar01)
-
 - Prarthana Bhandari
+- [Mohit](https://github.com/moihtdudeja)
+- [Code Humor](https://github.com/Lqyrmk)
+- [ahmad sleman](https://github.com/ahmadsleman36ss-byte)
+- [Priya Darshini](https://github.com/priya9787)
+- [Justin Clark] (https://github.com/Just1n-Clark)
+- [FEBIN C BABY](https://github.com/febinchundakkattiil)
