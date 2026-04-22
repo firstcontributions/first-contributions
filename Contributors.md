@@ -1,4 +1,4 @@
-# Contributors-
+# Contributors
 - [Navye Jindal](https://github.com/Navye08)
 - [Troy Jackson](https://github.com/Troy999s)
 - [Jon Gomez](https://github.com/jongomez-sys)
@@ -68,6 +68,7 @@ Mazin
 -[Paravin Mulla](https://github.com/ParavinMulla786)
 - [Amulya Harish](...)
 - [Rand P]
+- [Melissa McKenzie](https://github.com/MMckenz3)
 - [Wendy Abstone](https://github.com/wendyabstone)
 - [Srashti Choudhary]
 - [Akshara]
