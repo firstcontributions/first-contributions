@@ -7,6 +7,7 @@
 - [Tamish Ashtankar](https://github.com/Tamish-arch)
 - [Khushal Pareta](https://github.com/Kennny7)
 - [Naveen Verma](https://github.com/NavMysterio)
+-[Mayura Lokhande](https://github.com/Mayulokhande)
 -Abdikarin-dev
 - [NullEntity001](https://github.com/NullEntity001)
 - [Yonadhan M M](https://github.com/YONADHAN)
