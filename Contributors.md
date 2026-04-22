@@ -1,14 +1,27 @@
-# Contributors-
+# Contributors
+- [Ankan Karmakar](https://github.com/DarkMellow)
+- [Crescent](https://github.com/Crescent152)
+- [Navye Jindal](https://github.com/Navye08)
 - [Troy Jackson](https://github.com/Troy999s)
 - [Jon Gomez](https://github.com/jongomez-sys)
 - [Tamish Ashtankar](https://github.com/Tamish-arch)
 - [Khushal Pareta](https://github.com/Kennny7)
+- [Jimmy Mayta](https://github.com/jimmymayta)
 - [Naveen Verma](https://github.com/NavMysterio)
+-[Mayura Lokhande](https://github.com/Mayulokhande)
 -Abdikarin-dev
+- [NullEntity001](https://github.com/NullEntity001)
 - [Yonadhan M M](https://github.com/YONADHAN)
+- [Jaehoon Son](https://github.com/JaehoonSon)
+- [Carson Lin](https://github.com/lstsk)
+- [Cesar Ochoa](https://github.com/cesarocbu)
 - [Luohino](https://github.com/Luohino)
+- [Llewxam](https://github.com/Lamarq7eYT)
+- [Kaifi azam](https://github.com/itisbot21)
 liuqi
 Mazin
+- [K Miyahara](https://github.com/zantmanpiman)
+- [Mahmoud Alaa] (https://github.com/mahmoud-alaa1)
 - [Samman Jaiswal](https://github.com/jayssSmm)
 - I am here now, popopwopwop
 - [Peeyush Kr Singh](https://github.com/Peeyush3587)
@@ -45,6 +58,7 @@ Mazin
  -[Vidhya Veera](https://github.com/vidhyaveeranellu)
  -[Nakul Kumar Shaw](https://github.com/nakulshaw)
  - [Harsh Yadav](https://github.com/harshyadavDeveloper)
+-[Akash Karmakar](https://github.com/Akash-Karma)
 - [Deep Parashar](https://github.com/deepparashar)
 - [Sidra Maryam](https://github.com/Sidra-Maryam)
 - [Azhan Farooqui](https://github.com/404zhan)
@@ -53,6 +67,7 @@ Mazin
 - [Ericson Tames](https://github.com/Ericson1234)
 - [Leta Kasahun](https://github.com/Leta-Kasahun)
 - [Md.Ahsan Khan](https://github.com/Ahsan-Khan317)
+- [DEBANJAN GHORUI](https://github.com/debanjan100)
 - [Arun Eswaran](https://github.com/arun-1312)
 - [David Montenegro](https://github.com/davidomontenegro)
 - [Riya Kushwaha](https://github.com/riyak790)
@@ -64,6 +79,7 @@ Mazin
 -[Paravin Mulla](https://github.com/ParavinMulla786)
 - [Amulya Harish](...)
 - [Rand P]
+- [Melissa McKenzie](https://github.com/MMckenz3)
 - [Wendy Abstone](https://github.com/wendyabstone)
 - [Srashti Choudhary]
 - [Akshara]
@@ -2641,6 +2657,7 @@ Merjen Amanmuradova
 - [Noah Schroeder](https://github.com/nrschroeder)
 - [Ishani Basu](https://github.com/Ishani1024)
 - [Jargavi Jadeja](https://github.com/JargaviJadeja)
+- [Thibault Rolland](https://github.com/trolland)
 - [Sandhya Adhikari](https://github.com/Sandhya-ad)
 - [Sayan Koley](https://github.com/sayan110923)
 - [Alina Nair](https://github.com/NairAlina)
@@ -3235,3 +3252,13 @@ Oiloo
 * [M. Khubaib Zafar](https://github.com/mkhubaibzafar01)
 - Prarthana Bhandari
 - [Minh Phan](https://github.com/Mphan6139/)
+- [Mohit](https://github.com/moihtdudeja)
+- [Code Humor](https://github.com/Lqyrmk)
+- [ahmad sleman](https://github.com/ahmadsleman36ss-byte)
+- [Priya Darshini](https://github.com/priya9787)
+- [Justin Clark] (https://github.com/Just1n-Clark)
+- [FEBIN C BABY](https://github.com/febinchundakkattiil)
+- [Chou Enki]
+- [Pythntogo](https://github.com/pythontogo)
+- [Henry Kwok](https://github.com/329henry)
+* [M. Khubaib Zafar](https://github.com/mkhubaibzafar01)
