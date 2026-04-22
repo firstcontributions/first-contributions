@@ -246,7 +246,7 @@ Lina Muñoz
 - [Vrinda0211](https://github.com/Vrinda0211)
 - [Aryan Gupta](https://github.com/aryanthepain)
 - [Abhishek Singh](https://github.com/Abhis-Sin)
-- [Ayushi Rajput(https://github.com/Ayushi-ninja)
+- [Ayushi Rajput](https://github.com/Ayushi-ninja)
 - [Surya Prakash](https://github.com/surya2208)
 - [Arjun Patil](https://github.com/Arjun-patil-631)
 - [Bishal Haldar](https://github.com/bishalhaldar)
@@ -3251,6 +3251,7 @@ Oiloo
 - [Sunil Talla](https://github.com/suniltalla1)
 * [M. Khubaib Zafar](https://github.com/mkhubaibzafar01)
 - Prarthana Bhandari
+- [Minh Phan](https://github.com/Mphan6139/)
 - [Mohit](https://github.com/moihtdudeja)
 - [Code Humor](https://github.com/Lqyrmk)
 - [ahmad sleman](https://github.com/ahmadsleman36ss-byte)
