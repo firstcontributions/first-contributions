@@ -6,6 +6,7 @@
 - [Jon Gomez](https://github.com/jongomez-sys)
 - [Tamish Ashtankar](https://github.com/Tamish-arch)
 - [Khushal Pareta](https://github.com/Kennny7)
+- [Jimmy Mayta](https://github.com/jimmymayta)
 - [Naveen Verma](https://github.com/NavMysterio)
 -[Mayura Lokhande](https://github.com/Mayulokhande)
 -Abdikarin-dev
