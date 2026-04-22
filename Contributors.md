@@ -3244,6 +3244,7 @@ Oiloo
 - [snow](https://github.com/Snowtimes)
 - [Kunal Yegate](https://github.com/kunal-yelgate)
 - [HuginnDani](https://github.com/HuginnDani)
+- [James](https://github.com/xjamesrainsx)
 - [Vignesh-Vijaya-DE/DS/DA](https://github.com/vigneshdanalyst)
 - [capybara]
 - [Ayush Anand](https://github.com/anandd2006) hi lol
