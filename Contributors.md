@@ -6,6 +6,7 @@
 - [Khushal Pareta](https://github.com/Kennny7)
 - [Naveen Verma](https://github.com/NavMysterio)
 -Abdikarin-dev
+- [NullEntity001](https://github.com/NullEntity001)
 - [Yonadhan M M](https://github.com/YONADHAN)
 - [Carson Lin](https://github.com/lstsk)
 - [Luohino](https://github.com/Luohino)
