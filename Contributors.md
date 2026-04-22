@@ -220,6 +220,7 @@ Anshuk
 - [Shruti627](https://github.com/Shruti627)
 - [Sadiya Bhokare](https://github.com/sadiyabhokare)
 - Felipe Soler
+- [Samika Shokeen](https://github.com/samika692006)
 - [Bobur Boboyev](https://github.com/Bobur-Boboyev)
 - [Swapnil Singh] (https://github.com/swapycoder)
 - [Can Koylan](https://github.com/universe7creator)
