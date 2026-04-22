@@ -1,5 +1,6 @@
 # Contributors
 - [Ankan Karmakar](https://github.com/DarkMellow)
+- [Dhiraj Gurung] (https://github.com/dhirajgrg)
 - [AYUSHMAN SHARMA](https://github.com/Arachnodev-AYUSHMAN1617)
 - [Crescent](https://github.com/Crescent152)
 - [Navye Jindal](https://github.com/Navye08)
