@@ -445,6 +445,7 @@ Alicexxxx
 - [Rahul M](https://github.com/RahulMGatty)
 - [Aryaman Kummamuru](https://github.com/23f3003961)
 - [CristyanVessimo](https://github.com/CristyanVessimo)
+- [Kabir Khan](https://github.com/kabirumarkhan-stack)
 - [Adeola Ajiboso](https://github.com/Ajiboso-Adeola)
 - [Abubakar Imran](https://github.com/Abubakar-Imran)
 - [Bighna Raj Bhattamishra](https://github.com/Facelessism)
