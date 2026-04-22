@@ -1,6 +1,7 @@
 # Contributors-
 
 # Contributors
+- [Ankan Karmakar](https://github.com/DarkMellow)
 - [Crescent](https://github.com/Crescent152)
 - [Navye Jindal](https://github.com/Navye08)
 - [Troy Jackson](https://github.com/Troy999s)
@@ -9,6 +10,8 @@
 - [Khushal Pareta](https://github.com/Kennny7)
 - [Naveen Verma](https://github.com/NavMysterio)
 - Abdikarin-dev
+-[Mayura Lokhande](https://github.com/Mayulokhande)
+
 - [NullEntity001](https://github.com/NullEntity001)
 - [Yonadhan M M](https://github.com/YONADHAN)
 - [Jaehoon Son](https://github.com/JaehoonSon)
@@ -18,6 +21,8 @@
 
 - [Llewxam](https://github.com/Lamarq7eYT)
 - liuqi Mazin
+- [Kaifi azam](https://github.com/itisbot21)
+
 - [K Miyahara](https://github.com/zantmanpiman)
 - [Mahmoud Alaa] (https://github.com/mahmoud-alaa1)
 - [Samman Jaiswal](https://github.com/jayssSmm)
@@ -53,6 +58,8 @@
 - [ Arya ](https://github.com/aryansondharva)
 - [BpsBaradwaz](https://github.com/Baradwaz-122) -[Vidhya Veera](https://github.com/vidhyaveeranellu) -[Nakul Kumar Shaw](https://github.com/nakulshaw)
 - [Harsh Yadav](https://github.com/harshyadavDeveloper)
+ - [Harsh Yadav](https://github.com/harshyadavDeveloper)
+-[Akash Karmakar](https://github.com/Akash-Karma)
 - [Deep Parashar](https://github.com/deepparashar)
 - [Sidra Maryam](https://github.com/Sidra-Maryam)
 - [Azhan Farooqui](https://github.com/404zhan)
@@ -61,6 +68,7 @@
 - [Ericson Tames](https://github.com/Ericson1234)
 - [Leta Kasahun](https://github.com/Leta-Kasahun)
 - [Md.Ahsan Khan](https://github.com/Ahsan-Khan317)
+- [DEBANJAN GHORUI](https://github.com/debanjan100)
 - [Arun Eswaran](https://github.com/arun-1312)
 - [David Montenegro](https://github.com/davidomontenegro)
 - [Riya Kushwaha](https://github.com/riyak790)
@@ -3158,3 +3166,7 @@
 - [Priya Darshini](https://github.com/priya9787)
 - [Justin Clark] (https://github.com/Just1n-Clark)
 - [FEBIN C BABY](https://github.com/febinchundakkattiil)
+- [Chou Enki]
+- [Pythntogo](https://github.com/pythontogo)
+- [Henry Kwok](https://github.com/329henry)
+* [M. Khubaib Zafar](https://github.com/mkhubaibzafar01)
