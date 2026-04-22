@@ -20,6 +20,7 @@
 - [Carson Lin](https://github.com/lstsk)
 - [Arshad zeon] (https://github.com/Arshadx9)
 - [Cesar Ochoa](https://github.com/cesarocbu)
+- [RaymondChan](https://github.com/raymondchan98)
 - [Luohino](https://github.com/Luohino)
 - [Llewxam](https://github.com/Lamarq7eYT)
 - [Kaifi azam](https://github.com/itisbot21)
