@@ -21,6 +21,7 @@
 - [Luohino](https://github.com/Luohino)
 - [Llewxam](https://github.com/Lamarq7eYT)
 - [Kaifi azam](https://github.com/itisbot21)
+- Vishal Bharti
 liuqi
 Mazin
 - [FuraxDev](https://github.com/furax2204)
