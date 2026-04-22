@@ -2651,6 +2651,7 @@ Merjen Amanmuradova
 - [Noah Schroeder](https://github.com/nrschroeder)
 - [Ishani Basu](https://github.com/Ishani1024)
 - [Jargavi Jadeja](https://github.com/JargaviJadeja)
+- [Thibault Rolland](https://github.com/trolland)
 - [Sandhya Adhikari](https://github.com/Sandhya-ad)
 - [Sayan Koley](https://github.com/sayan110923)
 - [Alina Nair](https://github.com/NairAlina)
