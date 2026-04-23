@@ -14,6 +14,7 @@
 - [Khushal Pareta](https://github.com/Kennny7)
 - [Jimmy Mayta](https://github.com/jimmymayta)
 - [Naveen Verma](https://github.com/NavMysterio)
+-[Karthik](https://github.com/kar151A)
 -[Mayura Lokhande](https://github.com/Mayulokhande)
 -Abdikarin-dev
 - [NullEntity001](https://github.com/NullEntity001)
