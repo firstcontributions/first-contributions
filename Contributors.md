@@ -97,6 +97,7 @@ Mazin
 -[Parth Lodha](https://github.com/parthlodha)
 -[Paravin Mulla](https://github.com/ParavinMulla786)
 - [Amulya Harish](...)
+- [Rodrigo Mahlow](https://github.com/rmahlow/)
 - [Rand P]
 - [Melissa McKenzie](https://github.com/MMckenz3)
 - [Rakesh Kumar](https://github.com/prakeshkumar15633)
