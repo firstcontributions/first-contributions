@@ -3274,6 +3274,7 @@ Oiloo
 - [Ayush Anand](https://github.com/anandd2006) hi lol
 - [Fan Yuhang](https://github.com/escapefyh)
 - [Aakanksha Jadhav](https://github.com/aakankshajadhav2006)
+- [FromSi](https://github.com/FromSi)
 - [Suman Kalyan Sahoo](https://github.com/SumanKalyanSahoo)
 - [Michelle Galindo](https://github.com/michellegalindo)
 - [Aditi Hazra](https://github.com/Aditi-coder439)
