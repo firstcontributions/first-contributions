@@ -1,5 +1,6 @@
 # Contributors
 - [Priyanshu Ojha](https://github.com/Priyannshu)
+- [Moonshade](https://github.com/WMXB-Z)
 - [JyotiPrakash Jangid](https://github.com/jp7107)
 - [Hyunwoong Yu](https://github.com/Chocobone)
 - [Luis Ruvalcaba](https://github.com/luisruval)
@@ -73,7 +74,7 @@ Mazin
 - [ Arya ](https://github.com/aryansondharva)
 - [BpsBaradwaz](https://github.com/Baradwaz-122)
  -[Vidhya Veera](https://github.com/vidhyaveeranellu)
- -[Nakul Kumar Shaw](https://github.com/nakulshaw)
+  -[Nakul Kumar Shaw](https://github.com/nakulshaw)
  - [Harsh Yadav](https://github.com/harshyadavDeveloper)
 -[Akash Karmakar](https://github.com/Akash-Karma)
 - [Deep Parashar](https://github.com/deepparashar)
