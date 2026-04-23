@@ -631,6 +631,7 @@ Arman P
 - [Elisio Augusto](https://github.com/elisio-tech)
 mUchiha26
 zain
+- [Srinithi D](https://github.com/Srinithid0109)
 - [olive](https://github.com/Olive1017)
 - [Masta](https://github.com/Mastaaaa)
 - [Aerin](https://github.com/aerinpark)
