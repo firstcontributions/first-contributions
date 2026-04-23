@@ -268,6 +268,7 @@ Anshuk
 - [drik12](https://github.com/drik12)
 - [Vrinda0211](https://github.com/Vrinda0211)
 - [Aryan Gupta](https://github.com/aryanthepain)
+- [Minh Anh Tran](https://github.com/MinhTran283)
 - [Abhishek Singh](https://github.com/Abhis-Sin)
 - [Ayushi Rajput](https://github.com/Ayushi-ninja)
 - [Surya Prakash](https://github.com/surya2208)
