@@ -171,7 +171,7 @@ Anshuk
 - [Markel Jaureguibehere](https://github.com/MarkelJaure)
 - [Emma Luk](https://github.com/emma-luky)
 - [LatentSpace-rgb](https://github.com/LatentSpace-rgb)
-  
+- [Antonia Stieger](https://github.com/anstieger)
 - [Vicho1937](https://github.com/Vicho1937)
 - [Nishtha] (https://github.com/NISHTHACHOUBEY)
 - [Santosh Andra]
