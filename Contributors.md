@@ -75,6 +75,7 @@ Mazin
 - [Deep Parashar](https://github.com/deepparashar)
 - [Sidra Maryam](https://github.com/Sidra-Maryam)
 - [Azhan Farooqui](https://github.com/404zhan)
+- [Emmanuel Ngwala](https://github.com/Emmanuel-tech58)
 - [aswanth mc](https://github.com/aswanth-mc)
 - [rayrishu19-wq](https://github.com/rayrishu19-wq)
 - [Ericson Tames](https://github.com/Ericson1234)
