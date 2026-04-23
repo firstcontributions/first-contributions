@@ -8,6 +8,7 @@
 - [Dhiraj Gurung] (https://github.com/dhirajgrg)
 - [AYUSHMAN SHARMA](https://github.com/Arachnodev-AYUSHMAN1617)
 - [Crescent](https://github.com/Crescent152)
+- [Nakhat Parveen] (https://github.com/nakhat-parveen/)
 - [hamandres] (https://github.com/ham-andres)
 - [Navye Jindal](https://github.com/Navye08)
 - [Ashik Jishy] (https://github.com/loki-git001)
