@@ -1992,6 +1992,7 @@ Alejandro Alfaro
 - [Shaj2311](https://github.com/Shaj2311)
 - Ume
 - [Shakthi Lakshmanan V](https://github.com/Shakthi-lakshmanan-2006)
+- [Jesus Miguel Lopez Mesia](https://github.com/susejzepoI)
 - [Shalu Tiwari](https://github.com/tshalu63)
 - [Shamil T P](https://github.com/shamil-tp)
 - [Shantanu Dhane](https://github.com/Dev-Santo44)
