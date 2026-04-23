@@ -35,8 +35,8 @@
 - [Kaifi azam](https://github.com/itisbot21)
 - Vishal Bharti
 - [Kevin] (https://github.com/manches3003)
-liuqi
-Mazin
+- liuqi
+- Mazin
 - [FuraxDev](https://github.com/furax2204)
 - keerthi
 - [K Miyahara](https://github.com/zantmanpiman)
