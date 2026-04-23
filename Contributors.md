@@ -9,6 +9,7 @@
 - [Crescent](https://github.com/Crescent152)
 - [hamandres] (https://github.com/ham-andres)
 - [Navye Jindal](https://github.com/Navye08)
+- [Ashik Jishy] (https://github.com/loki-git001)
 - [Harsh Mundra](https://github.com/harshmundra2311)
 - [Troy Jackson](https://github.com/Troy999s)
 - [Jon Gomez](https://github.com/jongomez-sys)
