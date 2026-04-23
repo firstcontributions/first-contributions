@@ -3288,4 +3288,8 @@ Oiloo
 - [jdjr-code](https://github.com/jdjr-code)
 - [pagidem](https://github.com/pagidem)
 -([Md Tareq Hasan](https://github.com/mdtareqhasan)
+<<<<<<< HEAD
 - [Patel Pranshu](https://github.com/PatelPranshu21)
+=======
+- [Basit Rahim](https://github.com/Basit-Rahim)
+>>>>>>> 186e40ac8b952e488560bd79e2bc9541d5e98aa0
