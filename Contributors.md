@@ -641,6 +641,7 @@ zain
 - [Masta](https://github.com/Mastaaaa)
 - [Aerin](https://github.com/aerinpark)
 - [Zhijie](https://github.com/chikkkit)
+- [Sharwari A](https://github.com/sharwariakre)
 - [Jackson Kleeman](https://github.com/jacksonkleeman1997) 
 - [Kavya Sanger](https://github.com/Kavya0224)
 - [Manuela Alejandra Trujillo Collazos](https://github.com/Manu-t-c)
