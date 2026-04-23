@@ -53,6 +53,7 @@ Mazin
 - [Mamiy07](https://github.com/mamiy07)
 - [DD](https://github.com/danny-caliste)
 - [Gelar Rahadian Fajar]( )
+- [Owen Powell](https://github.com/opowell28)
 - [Sean Yu](https://github.com/takagibit18)
 - [Gyanendra Yadav](https://github.com/GyanendraYadav7715)
 - [Abdul Abu](https://github.com/abdulmajidabubakar)
