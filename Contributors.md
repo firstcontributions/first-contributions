@@ -722,6 +722,7 @@ zain
 - [onasanya sarah](https://github.com/onasanyasarah17-bit)
 - [Aditya Raj](https://github.com/iamadityaraj04)
 - [lonely_white](https://github.com/lonelywhite233)
+- [Gustavo Oliveira] (https://github.com/gustavo-olvr)
  - [primemorti8-netizen](https://github.com/primemorti8-netizen)
  - [Adedamola Aina](https://github.com/Adedamola007)
 - [Ankush Gulia](https://github.com/ankushkgulia)
