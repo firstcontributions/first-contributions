@@ -3294,6 +3294,7 @@ Oiloo
 - [Skroxos](https://github.com/Skroxos)
 - [jdjr-code](https://github.com/jdjr-code)
 - [pagidem](https://github.com/pagidem)
--([Md Tareq Hasan](https://github.com/mdtareqhasan)
+- [Md Tareq Hasan](https://github.com/mdtareqhasan)
 - [Basit Rahim](https://github.com/Basit-Rahim)
 - [Romysa](https://github.com/Rumaisa10)
+- [Manhmanh] (https://github.com/ntmyanh)
