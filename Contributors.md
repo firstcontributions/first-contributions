@@ -98,6 +98,7 @@ Mazin
 - [Amulya Harish](...)
 - [Rand P]
 - [Melissa McKenzie](https://github.com/MMckenz3)
+- [Rakesh Kumar](https://github.com/prakeshkumar15633)
 - [Wendy Abstone](https://github.com/wendyabstone)
 - [Srashti Choudhary]
 - [Akshara]
