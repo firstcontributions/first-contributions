@@ -230,6 +230,7 @@ Anshuk
 - [Philip](https://github.com/Philip-b-dev)
 - Sinthujan Jayaranjan
 - [Brielle Johnston](https://github.com/briefjo)
+- [Jennifer](https://github.com/jdyni)
 - [Ricardo Garcia](https://github.com/michoricardo)
 - [Hemang Patel](https://github.com/Hemang0710)
 - [Owais Ahmad Shah](https://github.com/owaisahmadshah)
