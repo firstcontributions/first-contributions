@@ -51,7 +51,7 @@ Mazin
  -[Vidhya Veera](https://github.com/vidhyaveeranellu)
  -[Nakul Kumar Shaw](https://github.com/nakulshaw)
  - [Harsh Yadav](https://github.com/harshyadavDeveloper)
-Mike Brooks
+mike brooks
 - [Deep Parashar](https://github.com/deepparashar)
 - [Sidra Maryam](https://github.com/Sidra-Maryam)
 - [Azhan Farooqui](https://github.com/404zhan)
