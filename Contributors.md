@@ -3281,6 +3281,7 @@ Oiloo
 - [HuginnDani](https://github.com/HuginnDani)
 - [James](https://github.com/xjamesrainsx)
 - [Vignesh-Vijaya-DE/DS/DA](https://github.com/vigneshdanalyst)
+- [jinx](https://github.com/jinx720)
 - [capybara]
 - [Ayush Anand](https://github.com/anandd2006) hi lol
 - [Fan Yuhang](https://github.com/escapefyh)
