@@ -1,5 +1,6 @@
 # Contributors
 - [Priyanshu Ojha](https://github.com/Priyannshu)
+- [Maryam Saleem](https://github.com/MARIUAM)
 - [JyotiPrakash Jangid](https://github.com/jp7107)
 - [Hyunwoong Yu](https://github.com/Chocobone)
 - [Luis Ruvalcaba](https://github.com/luisruval)
