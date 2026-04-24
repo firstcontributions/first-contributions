@@ -62,6 +62,7 @@ Mazin
 - [Gelar Rahadian Fajar]( )
 - [Owen Powell](https://github.com/opowell28)
 - [Sean Yu](https://github.com/takagibit18)
+- [Rohan Biswas](https://github.com/DeathGun122)
 - [Gyanendra Yadav](https://github.com/GyanendraYadav7715)
 - [Abdul Abu](https://github.com/abdulmajidabubakar)
 - [Xu Chen](https://github.com/g4chen)
