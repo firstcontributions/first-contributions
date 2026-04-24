@@ -1,4 +1,5 @@
 # Contributors
+- [Anvarbek Kuvandikov](https://github.com/kuvandikov)
 - [alexavancini](https://github.com/alexavancini)
 - [narutobaco](https://github.com/ttdranthanhdat)
 - [alok⚝](https://github.com/thealokverse)
