@@ -243,6 +243,7 @@ Anshuk
 - [Fahad Bin Siddique](https://github.com/fahadbinsiddique)
 - [Vayunandan] (https://github.com/Vayunandan26)
 - [Manjunatha P](https://github.com/namelessweakl1ng)
+- Manini Chhabra
 - [Shruti627](https://github.com/Shruti627)
 - [Sadiya Bhokare](https://github.com/sadiyabhokare)
 - Felipe Soler
