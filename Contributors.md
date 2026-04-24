@@ -4,6 +4,7 @@
 - [Sri Venkatesh](https://github.com/WHENKEY2007)
 - [Priyanshu Ojha](https://github.com/Priyannshu)
 - [Moonshade](https://github.com/WMXB-Z)
+- [Kar Pat] (https://github.com/karpat481)
 - [JyotiPrakash Jangid](https://github.com/jp7107)
 - [Hyunwoong Yu](https://github.com/Chocobone)
 - [Luis Ruvalcaba](https://github.com/luisruval)
