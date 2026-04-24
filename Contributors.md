@@ -27,6 +27,7 @@
 - [NullEntity001](https://github.com/NullEntity001)
 - [Yonadhan M M](https://github.com/YONADHAN)
 - [Jaehoon Son](https://github.com/JaehoonSon)
+- [Ashish Verma](https://github.com/ashish39403)
 - [Carson Lin](https://github.com/lstsk)
 - [Arshad zeon] (https://github.com/Arshadx9)
 - [Cesar Ochoa](https://github.com/cesarocbu)
