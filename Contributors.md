@@ -1521,6 +1521,7 @@ Steve
 - [Juan Sanchez](https://github.com/Festxt)
 - [Juan Torres](https://github.com/JuanTorres93)
 - [Juanes](https://github.com/juanes20027)
+- [Judyvinna Barbosa](https://github.com/judiba)
 - [Indranil Roy](https://github.com/nilreflects)
 - [KARUNYA](https://github.com/BonitoFlakes-afk)
 - [KG](https://github.com/kgoel9899)
