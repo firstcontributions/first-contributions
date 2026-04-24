@@ -1566,6 +1566,7 @@ Steve
 - [Kang Chenghua](https://github.com/chenghuakang)
 - [KavindiD](https://github.com/KavindiD)
 - [Kavish Pal Singh](https://github.com/23f2005144)
+- [Kang Eunji](https://github.com/EJ-KANG02)
 Rongxin Zhang
 - [Rio](https://github.com/PhoNoodles)
 - [Kavoshnik](https://github.com/kavoshnik)
