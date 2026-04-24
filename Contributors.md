@@ -498,6 +498,7 @@ Alicexxxx
 - [Yash](https://github.com/yashhwanth)
 - [Jatin Banmol](https://github.com/jbanmol)
 - [tawht](https://github.com/tawh666)
+- [Shalini H R] (https://github.com/Shalinihr1402)
 - [Antonella Muñoz](https://github.com/antonellamunoz1989)
 - [Deepa Muthukrishnan](https://github.com/DeepaMuthu)
 - [Shreyas](https://github.com/24f1002699)
