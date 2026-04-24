@@ -17,6 +17,7 @@
 -Abdikarin-dev
 - [NullEntity001](https://github.com/NullEntity001)
 - [Yonadhan M M](https://github.com/YONADHAN)
+- [Leonardo Ribeiro](https://github.com/Leoo098)
 - [Jaehoon Son](https://github.com/JaehoonSon)
 - [Carson Lin](https://github.com/lstsk)
 - [Arshad zeon] (https://github.com/Arshadx9)
