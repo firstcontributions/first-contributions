@@ -3234,6 +3234,7 @@ Oiloo
 - [Ankit](https://github.com/ankitdevlabs)
 - [Jayden Barreiro](https://github.com/Jcoolzone)
 - [Stellin John George](https://github.com/Stellin-15)
+- [Michael Fitzgerald](https://github.com/Fitz-Codes)
 - [Palak](https://github.com/palak1-2)
 - [Berlin Brown](https://github.com/berlinbrown/)
 - [IH BARRET](https://github.com/IHBARRET/)
