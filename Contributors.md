@@ -5,6 +5,7 @@
 - [Moonshade](https://github.com/WMXB-Z)
 - jin commint 1
 - jin commint 2
+- commmint 3
 - [JyotiPrakash Jangid](https://github.com/jp7107)
 - [Hyunwoong Yu](https://github.com/Chocobone)
 - [Luis Ruvalcaba](https://github.com/luisruval)
