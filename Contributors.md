@@ -1,6 +1,7 @@
 # Contributors
 
 - [Sri Venkatesh](https://github.com/WHENKEY2007)
+- kkachikim
 - [Priyanshu Ojha](https://github.com/Priyannshu)
 - [Moonshade](https://github.com/WMXB-Z)
 - jin commint 1
