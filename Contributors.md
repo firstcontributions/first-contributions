@@ -65,6 +65,7 @@ Mazin
 - [Rohan Biswas](https://github.com/DeathGun122)
 - [Gyanendra Yadav](https://github.com/GyanendraYadav7715)
 - [Abdul Abu](https://github.com/abdulmajidabubakar)
+- [Kyle Gossage](https://github.com/KGossage11)
 - [Xu Chen](https://github.com/g4chen)
 - [Md Akhtar](https://github.com/mdakhtar03)
 - [Bao Khanh](https://github.com/bluenoe)
