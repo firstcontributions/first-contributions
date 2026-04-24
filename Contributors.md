@@ -707,6 +707,7 @@ zain
 - [skntrl] (https://github.com/skntrl)
 - [mohdwajahat] (https://github.com/mohdwajahat)
 - [Paul Duthu](https://github.com/PaulDuthu)
+- [Rithwick](https://github.com/Dunkrick)
 - [Piyush Kanti Chanda] (https://github.com/piyushka-ally)
 - [Khalil Khamassi](https://github.com/khalilkhamassi62-oss)
 - [Rajeev](https://github.com/24f1002713)
