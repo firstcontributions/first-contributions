@@ -1,4 +1,5 @@
 # Contributors
+- [narutobaco](https://github.com/ttdranthanhdat)
 - [Sri Venkatesh](https://github.com/WHENKEY2007)
 - [Priyanshu Ojha](https://github.com/Priyannshu)
 - [Moonshade](https://github.com/WMXB-Z)
