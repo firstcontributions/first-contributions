@@ -1,5 +1,6 @@
 # Contributors
 - [narutobaco](https://github.com/ttdranthanhdat)
+- [alok⚝](https://github.com/thealokverse)
 - [Jhon Paul Baonil](https://github.com/JPB17387)
 - [Sri Venkatesh](https://github.com/WHENKEY2007)
 - [Priyanshu Ojha](https://github.com/Priyannshu)
