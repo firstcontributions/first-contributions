@@ -33,6 +33,7 @@
 -Abdikarin-dev
 - [NullEntity001](https://github.com/NullEntity001)
 - [Yonadhan M M](https://github.com/YONADHAN)
+- [Leonardo Ribeiro](https://github.com/Leoo098)
 - [Surajit](https://github.com/surajit20107)
 - [Jaehoon Son](https://github.com/JaehoonSon)
 - [Ashish Verma](https://github.com/ashish39403)
