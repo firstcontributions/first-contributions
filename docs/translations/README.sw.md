@@ -71,9 +71,9 @@ git checkout -b add-luke-oliff
 
 Sasa fungua faili linaloitwa `Contributors.md`, Andika jina lako. Usiweke jina lako mwanzoni au mwishoni mwa faili. Weka sehemu yoyote katikati. Baada ya hapo save faili.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="amri ya git status" />
 
-Ukiwa ndani ya directory hii kwenye terminal command ya `git status` itakuonesha mabadiliko yote uliyoyafanya.
+Ukiwa ndani ya directory hii kwenye terminal command ya `amri ya git status` itakuonesha mabadiliko yote uliyoyafanya.
 
 Jumuisha mabadiliko yote uliyoyafanya kwenye branch uliyotengeneza kwa kutumia command `git add` command:
 
