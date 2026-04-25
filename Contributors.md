@@ -20,6 +20,7 @@
 - [Dhiraj Gurung] (https://github.com/dhirajgrg)
 - [AYUSHMAN SHARMA](https://github.com/Arachnodev-AYUSHMAN1617)
 - [Crescent](https://github.com/Crescent152)
+- [Malcon Simbi](https://github.com/malconsimbi)
 - [Nakhat Parveen] (https://github.com/nakhat-parveen/)
 - [hamandres] (https://github.com/ham-andres)
 - [Navye Jindal](https://github.com/Navye08)
