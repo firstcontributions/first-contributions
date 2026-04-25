@@ -9,7 +9,7 @@
 
 _Терминалтай ажиллах дургүй бол [GUI ашигласан хичээл рүү ороорой.](#tutorials-using-other-tools)_
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="энэ репозиторыг форклох" />
 
 #### Компьютер дээрээ git суулгаагүй бол [энд дарж суулгана уу.](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
@@ -19,7 +19,7 @@ _Терминалтай ажиллах дургүй бол [GUI ашигласа
 
 ## Энэ рэпог хувилах
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="энэ репозиторыг клондох" />
 
 Форк хийчихсэн рэпогоо компьютер дээрээ суулгахын тулд хлээд Гитхаб хаяг дээрээ очоод, форклосон рэпогоо олоод, code гэсэн товчин даар дараад, SSH хэсэг дээр дарж, _хуулах_ товчлуур дээр дарах хэрэгтэй.
 
@@ -31,7 +31,7 @@ git clone "саяны хуулсан линк"
 
 "саяны хуулсан линк" хэсгийн оронд эхний алхам дээр хуулсан линкээ наана.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="URL-г санах ойд хуулах" />
 
 Жишээ нь:
 
@@ -78,9 +78,9 @@ git checkout -b шинэ-бранчийн-нэр
 
 `Contributors.md` файлыг дурын текст эдитор дээр нээгээд өөрийн нэрээ нэмээрэй. Файлын эхэнд болон сүүлд нэмэхгүй л байхад болно.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git төлөв" />
 
-Дараа нь, үндсэн фолдер луу шилжээд `git status` үйдлийг хийвэл танд таны өөрчилсөн файлууд харагдана.
+Дараа нь, үндсэн фолдер луу шилжээд `git төлөв` үйдлийг хийвэл танд таны өөрчилсөн файлууд харагдана.
 
 Харагдаж буй өөрчлөлтүүдээ эхлээд бранчдаа `git add` үйлдлийг ашиглан нэмнэ:
 
@@ -128,11 +128,11 @@ git push -u origin your-branch-name
 
 Гитхаб дээрх рэпо руу очмогц `Compare & pull request` товчлуур харагдах болно. Уг товчлуур дээр дарснаар шинэ нэгтгэх хүсэлт (pull request) үүсгэх хуудас гарч ирнэ.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="pull request үүсгэх" />
 
 Дараа нь нэгтгэх хүсэлтээ илгээнэ.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="pull request илгээх" />
 
 Таны хүсэлтийг бид хүлээн аваад автоматаар код бааздаа нэгтгэсэн байх болно. Энэ талаар бүртгэлтэй и-мейл хаяг дээр чинь мэдэгдэл ирнэ.
 
