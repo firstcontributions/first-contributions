@@ -69,7 +69,7 @@ Nyisd meg a `Contributors.md` fájlt egy szövegszerkesztőben, majd add hozzá 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git állapota" />
 
 
-Ha a project könyvtárába navigálsz és futtatod a `git status` parancsot, akkor a következő módosításokat fogod látni:
+Ha a project könyvtárába navigálsz és futtatod a `git status parancs` parancsot, akkor a következő módosításokat fogod látni:
 
 
 Ezeket a módosításokat add hozzá a branchez a `git add` paranccsal:
