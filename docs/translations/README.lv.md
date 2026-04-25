@@ -64,10 +64,10 @@ git checkout -b add-alonzo-church
 
 Tagad atver `Contributors.md` failu teksta redaktorā un pievieno tam savu vārdu. Nepievieno to faila sākumā vai beigās, bet ievieto to kaut kur pa vidu. Pēc tam saglabā failu.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status komanda" />
 
 
-Ja tu dosies uz projekta direktoriju un izpildīsi komandu `git status`, tu redzēsi, ka tajā ir izmaiņas.
+Ja tu dosies uz projekta direktoriju un izpildīsi komandu `git status komanda`, tu redzēsi, ka tajā ir izmaiņas.
 
 
 Pievieno šīs izmaiņas zaram, kuru tu tikko izveidoji, ar `git add` komandu:
