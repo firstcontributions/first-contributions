@@ -106,7 +106,7 @@ If you go to your repository on GitHub, you go see Compare & pull request button
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create pull request" />
 Now submit the pull request.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="send pull request" />
 Soon I go merge all your changes into the main branch of this project. You go get notification email once the changes don merge.
 
 ## Where to go from here?
