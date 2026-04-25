@@ -1778,6 +1778,7 @@ Alejandro Alfaro
 - [Hikhil Thomas](https://github.com/hikhilthomas)
 - [Nasrul](https://github.com/nnayz)
 - [NathanES](https://github.com/nathanES)
+- [WeirdAl62](https://github.com/WeirdAl62)
 - [Natpu Enean](https://github.com/NatpuEnean)
 - [Sumit Seth]
 --[YFerry](https://github.com/Ferry-06)
