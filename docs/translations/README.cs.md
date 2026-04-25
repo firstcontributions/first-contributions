@@ -67,9 +67,9 @@ Jméno větve by mělo vypovídat o tom, co kód nebo cokoliv jiného do ní př
 
 Otevřete soubor `Contributors.md` v textovém editoru a přidejte do něj své jméno. Napiště jej někam doprostřed a soubor uložte.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme//git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme//git-status.png" alt="příkaz git status" />
 
-Pokud teď v příkazové řádce spustíte příkaz `git status`, uvidíte jaké změny byly v repozitáři provedeny.
+Pokud teď v příkazové řádce spustíte příkaz `příkaz git status`, uvidíte jaké změny byly v repozitáři provedeny.
 
 Tyto změny do dané větvě přidáte příkazem `git add`:
 
