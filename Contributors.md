@@ -1,6 +1,7 @@
 # Contributors
 - [Karnapu Sravanthi](https://github.com/Sravanthi285)
 - - [Umate-Express](https://github.com/Umate-Express)
+- [Aziz Muntasir](https://github.com/muntasir24)
 - [Anvarbek Kuvandikov](https://github.com/kuvandikov)
 - [Dibyajyoti Ganguly](https://github.com/dibs02)
 - [alexavancini](https://github.com/alexavancini)
