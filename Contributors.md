@@ -2187,6 +2187,7 @@ Alejandro Alfaro
 - [Tyler Westbrook](https://github.com/Iisyourdad)
 - [RashiBista](https://github.com/RashiBista)
 - [U Shivakumar](https://github.com/Shivakumarsullagaddi)
+- [Shahir](https://github.com/Shahir-Habib)
 - [Tejaswini Gadde](https://github.com/Tejaswini2112)
 - [Ultra Boy](https://github.com/ultraboy5522)
 - [Umed Kumar](https://github.com/UmedKumar)
