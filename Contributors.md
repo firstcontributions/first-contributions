@@ -14,6 +14,7 @@
 - [Priyanshu Ojha](https://github.com/Priyannshu)
 - [Maryam Saleem](https://github.com/MARIUAM)
 - [Moonshade](https://github.com/WMXB-Z)
+- [Suraj](https://github.com/surajrastogi1)
 - [Kar Pat] (https://github.com/karpat481)
 - [JyotiPrakash Jangid](https://github.com/jp7107)
 - [Hyunwoong Yu](https://github.com/Chocobone)
