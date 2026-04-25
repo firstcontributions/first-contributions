@@ -69,9 +69,9 @@ git checkout -b add-alonzo-church
 
 Åben filen `Contributors.md` i en text editor og tilføj dit navn til listen. Undgå at tilføje dit navn øverst eller nederst på listen, men helst et sted i mellem. Når dette er gjort så gem filen.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status-kommando" />
 
-Hvis du går til konsollen og kører kommandoen `git status`, vil du se dine ændringer.
+Hvis du går til konsollen og kører kommandoen `git status-kommando`, vil du se dine ændringer.
 
 Tilføj disse ændringer til din branch med kommandoen `git add`:
 
