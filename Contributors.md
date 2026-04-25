@@ -1,5 +1,6 @@
 # Contributors
 - [Anvarbek Kuvandikov](https://github.com/kuvandikov)
+- [Dibyajyoti Ganguly](https://github.com/dibs02)
 - [alexavancini](https://github.com/alexavancini)
 - [narutobaco](https://github.com/ttdranthanhdat)
 - [alok⚝](https://github.com/thealokverse)
