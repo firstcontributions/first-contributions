@@ -1,8 +1,9 @@
 # Contributors
-<li>A.Veeresh</li>
+
 - [Karnapu Sravanthi](https://github.com/Sravanthi285)
 - [Anvarbek Kuvandikov](https://github.com/kuvandikov)
 - [Dibyajyoti Ganguly](https://github.com/dibs02)
+- [Veeresh](https://github.com/veeresh4520)
 - [alexavancini](https://github.com/alexavancini)
 - [narutobaco](https://github.com/ttdranthanhdat)
 - [alok⚝](https://github.com/thealokverse)
