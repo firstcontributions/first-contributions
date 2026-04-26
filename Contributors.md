@@ -147,6 +147,7 @@ Mazin
 - [ NILUOP ](https://github.com/NILUOP) I use Arch, btw
 - [wgdouglas] (https://github.com/wgdouglas) Fullstack Developer
 - [Lalu]
+- [tnats0](https://github.com/tnats0)
 - [Laura N](https://github.com/lnezsierra/)
 - [ranjiGT](https://github.com/ranjiGT)
 - [Piyush Gupta](https://github.com/Piyush495)
