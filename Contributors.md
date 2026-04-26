@@ -3376,3 +3376,4 @@ Oiloo
 - [Aryan Raj](https://github.com/Aryan-R-aj)
 - [Bhagya Senevirathna](https://github.com/Bhagyapiyumali)
 - [Maanas Casp](https://github.com/Maanas-Casp)
+- [Hilder Hidalgo](https://github.com/topdataone)
