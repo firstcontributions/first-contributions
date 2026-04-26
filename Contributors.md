@@ -156,6 +156,7 @@ Lina Muñoz
 - [Diksha Gulati](https://github.com/paperlanes)
 Anshuk
 - [Sukchan20090403](https://github.com/Sukchan20090403)
+- [Amarjit Jha](https://github.com/AmarjeetJha17)
 - [Ramnagendra Sripada](https://github.com/Ramnagendra2005)
 - [Steven Haywood](https://github.com/Sinbad2000)
 - [Bhuvanaesh R](https://github.com/Bhuvanaesh-R)
