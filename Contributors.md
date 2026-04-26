@@ -293,6 +293,7 @@ Anshuk
 - [Samuel Meddin](https://github.com/GalacticAvenger)
 - [Koushik Deb](https://github.com/koushik-ops) 
 - [Akash Prajapati](https://github.com/ZERO-DAY-CODE)
+- [Ved Parkash Arya](https://github.com/vedparkasharya)
 - [Vedant Bankewar](https://github.com/VedantBankewar)
 - [Pramodkumar Shivanna](https://github.com/pramod05edu-afk)
 - [HRIDAY SARKAR](https://github.com/Hriday-sarkar)
