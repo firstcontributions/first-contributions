@@ -4,6 +4,7 @@
 - [Mohammad Jahanseir](https://github.com/mjahanseir)
 - [tianwh](https://github.com/yunmengovo)
 - [Kanika Kapoor](https://gtihub.com/kanikakapoorcode)
+- [Mowrya Balivada](https://github.com/mowrya)
 - [Keyur](https://github.com/keyurchotaliyaa)
 - [Karnapu Sravanthi](https://github.com/Sravanthi285)
 - [Umate-Express](https://github.com/Umate-Express)
@@ -46,6 +47,7 @@
 -[Mayura Lokhande](https://github.com/Mayulokhande)
 -Abdikarin-dev
 - [NullEntity001](https://github.com/NullEntity001)
+- [Sanjay Narayanan N](https://github.com/sanjaynarayanan3010-byte)
 - [Yonadhan M M](https://github.com/YONADHAN)
 - [Leonardo Ribeiro](https://github.com/Leoo098)
 - [Surajit](https://github.com/surajit20107)
