@@ -1,6 +1,7 @@
 # Contributors
 
 - [calvinxu](https://github.com/calvinxu123456-hue)
+- [Mohammad Jahanseir](https://github.com/mjahanseir)
 - [tianwh](https://github.com/yunmengovo)
 - [Keyur](https://github.com/keyurchotaliyaa)
 - [Karnapu Sravanthi](https://github.com/Sravanthi285)
@@ -372,6 +373,7 @@
 - [Anup](https://github.com/23f3002432)
 - [JosePaez](https://github.com/JosephPR12)
 - [Vaishnavi Jaiswal](https://github.com/Vaishnavi04102005)
+- [Alok Kumar Jaiswal](https://github.com/alokumarjaiswal)
 - [Kristipati Thoyajaksha Kashyap](https://github.com/kristipatithoyajakshakashyap)
 - Elkku
 - Richard Wu
@@ -3270,7 +3272,9 @@
 - [Yifei Zhang](https://github.com/YifeiZhang0508)
 - [G.Mohammed Mansoor](https://github.com/VoidKernel786)
 - [Rukaiya Khan](https://github.com/Khanrukku)
-
+ jihad
+- [D57680](https://github.com/D57680)
+ main
 * [jeongwool](https://github.com/jeongwool)
 
 - [omar MT] (https://github.com/omarmouttalie)
