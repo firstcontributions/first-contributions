@@ -404,6 +404,7 @@ Anshuk
 - [Anup](https://github.com/23f3002432)
 - [JosePaez](https://github.com/JosephPR12)
 - [Vaishnavi Jaiswal](https://github.com/Vaishnavi04102005)
+- [Alok Kumar Jaiswal](https://github.com/alokumarjaiswal)
 - [Kristipati Thoyajaksha Kashyap](https://github.com/kristipatithoyajakshakashyap)
 - Elkku
 - Richard Wu
