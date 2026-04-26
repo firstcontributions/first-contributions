@@ -65,6 +65,7 @@
 - Vishal Bharti
 liuqi
 Mazin
+- [Dorothy WIld]
 - [FuraxDev](https://github.com/furax2204)
 - keerthi
 - [K Miyahara](https://github.com/zantmanpiman)
