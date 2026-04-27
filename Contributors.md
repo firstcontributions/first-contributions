@@ -4,6 +4,7 @@
 - [Mohammad Jahanseir](https://github.com/mjahanseir)
 - [tianwh](https://github.com/yunmengovo)
 - [Kanika Kapoor](https://gtihub.com/kanikakapoorcode)
+- [Mahesh Gite](https://github.com/Mahesh-Gite-28)
 - [Mowrya Balivada](https://github.com/mowrya)
 - [Keyur](https://github.com/keyurchotaliyaa)
 - [NCCU-Andy](https://github.com/NCCU-Andy)
