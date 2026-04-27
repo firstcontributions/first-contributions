@@ -708,6 +708,7 @@ Arman P
 - [REH](https://github.com/RODRIGO-ENH/)
 - [Peter Kohari](https://github.com/KOHIPEET)
 - [Vaishnav Bose](https://github.com/Vaishnav2606)
+- [Taylor] (https://github.com/Taylor577)
 - [Nikhil More](https://github.com/Khiladi-786)
 - [EGBO NNAEMEKA CYPRIAN](https://github.com/chiefEGBO)
 - [Hernan Rico](https://github.com/hernanr2205)
