@@ -6,6 +6,7 @@
 - [Kanika Kapoor](https://gtihub.com/kanikakapoorcode)
 - [Mowrya Balivada](https://github.com/mowrya)
 - [Keyur](https://github.com/keyurchotaliyaa)
+- [NCCU-Andy](https://github.com/NCCU-Andy)
 - [Karnapu Sravanthi](https://github.com/Sravanthi285)
 - [Umate-Express](https://github.com/Umate-Express)
 - [Aziz Muntasir](https://github.com/muntasir24)
@@ -32,6 +33,7 @@
 - [Crescent](https://github.com/Crescent152)
 - [Malcon Simbi](https://github.com/malconsimbi)
 - [Nakhat Parveen] (https://github.com/nakhat-parveen/)
+- [minsiiu](https://github.com/minsiiu)
 - [hamandres] (https://github.com/ham-andres)
 - [Navye Jindal](https://github.com/Navye08)
 - [Ashik Jishy] (https://github.com/loki-git001)
@@ -76,6 +78,7 @@ Mazin
 - I am here now, popopwopwop
 - [Peeyush Kr Singh](https://github.com/Peeyush3587)
 - [Caren Chepngetich](https://github.com/caren580)
+- [Akinfolabi A.]
 - [Ruri Nanto]
 - [Rafi'i M](https://github.com/maul-PG)
 - [Mahmoud Abdelsalam](https://github.com/mahmoudabdelsalammahrous)
@@ -1588,6 +1591,7 @@ Steve
 - [Kapil Kumar](https://github.com/kapilkumar05991)
 - [Karim_Mohamed](https://github.com/KarimAlkabily)
 - [Karri Saiphani Reddy](https://github.com/Saiphani1022)
+- [hossslgs-cyber](https://github.com/hossslgs-cyber)
 - [Kartik Yadav](https://github.com/kartik912)
 - [Karthik Sai](https://github.com/KarthikSai08)
 - [Karthik Santhosh](https://github.com/kxrthiikk)
@@ -3408,3 +3412,6 @@ Oiloo
 - [ashwink](https://github.com/akelappan)
 - [Oyanib]
 - [Delis2001](https://github.com/Delis2001) 🎉 first contribution
+- [Karan Rohra](https://github.com/karanrohra)
+- [naoki shibata](https://github.com/nosh1114)
+- [Nguyen Tu Minh Long](https://github.com/NguyenTuMinhLong)
