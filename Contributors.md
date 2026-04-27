@@ -1,4 +1,5 @@
 # Contributors
+- [Akash Chakraborty](https://github.com/deep72p0)
 - [calvinxu](https://github.com/calvinxu123456-hue)
 - [SE Jihad](https://github.com/sejihad)
 - [Mohammad Jahanseir](https://github.com/mjahanseir)
