@@ -1587,6 +1587,7 @@ Steve
 - [Juan Botha](https://github.com/jbotha-sketch)
 - [Juan Sanchez](https://github.com/Festxt)
 - [Juan Torres](https://github.com/JuanTorres93)
+- [Nedejde Teodor](https://github.com/teoNed)
 - [Juanes](https://github.com/juanes20027)
 - [Indranil Roy](https://github.com/nilreflects)
 - [KARUNYA](https://github.com/BonitoFlakes-afk)
