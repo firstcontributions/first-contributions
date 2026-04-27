@@ -2,133 +2,137 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
-# প্রথম অবদানসমূহ
+---
 
-এই প্রকল্পের উদ্দেশ্য হলো নতুন ডেভেলপারদের তাদের প্রথম অবদানটি সহজ করা এবং নির্দেশনা দেওয়া। যদি আপনি আপনার প্রথম অবদান করতে চান, তবে নীচের ধাপগুলি অনুসরণ করুন।
+# প্রথম অবদানসমূহ 🚀
 
-প্রবন্ধ পড়ে এবং টিউটোরিয়াল দেখে অনেক কিছুই শেখা যায়, কিন্তু ব্যবহারিক পদ্ধতিতে কাজ করার চেয়ে উপযোগী কিছু হতে পারে না। এই প্রজেক্টের লক্ষ্য হচ্ছে নবীনদের দিকনির্দেশনা দেওয়া আর সেই সাথে তাদের প্রথম অবদান রাখার কাজটি সহজ করে তোলা। আপনি যদি ওপেন সোর্সে আপনার প্রথম অবদান রাখতে চান, তাহলে নিচের সহজ ধাপগুলো অনুসরণ করুন। কথা দিচ্ছি, এই প্রক্রিয়াটি অত্যন্ত মজার ও আনন্দদায়ক।
+এই প্রকল্পের লক্ষ্য হলো নতুন ডেভেলপারদের জন্য ওপেন সোর্সে তাদের প্রথম অবদান রাখা সহজ করা এবং ধাপে ধাপে পরিষ্কার নির্দেশনা প্রদান করা।
 
-#### _যদি কমান্ড লাইনে সমস্যা হয়, [তবে নীচে একটি GUI টুল ব্যবহার করে টিউটোরিয়াল দেওয়া হয়েছে।](#অন্যান্য-টুল-ব্যবহারের-টিউটোরিয়াল)_
+ওপেন সোর্স শেখার জন্য শুধু টিউটোরিয়াল যথেষ্ট নয়—বাস্তব কাজের অভিজ্ঞতাই সবচেয়ে গুরুত্বপূর্ণ। এই প্রকল্পটি সেই বাস্তব অভিজ্ঞতা অর্জনের একটি সহজ ও নিরাপদ উপায় তৈরি করে।
 
+আপনি যদি ওপেন সোর্সে আপনার প্রথম অবদান রাখতে চান, তাহলে নিচের ধাপগুলো অনুসরণ করুন। পুরো প্রক্রিয়াটি সহজ, শিক্ষণীয় এবং উপভোগ্য 😊
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="এই রিপোজিটরি ফর্ক করুন" />
+---
 
-আপনার কম্পিউটারে গিট না থাকলে, [ ইনস্টল করুন ](https://help.github.com/articles/set-up-git/)।
+#### *যদি আপনি কমান্ড লাইনে স্বাচ্ছন্দ্যবোধ না করেন, তাহলে নিচে GUI টুল ব্যবহার করে টিউটোরিয়াল দেওয়া আছে।*
 
-## এই রিপোজিটরি ফর্ক করুন
+---
 
-এই রিপোজিটরি ফর্ক করতে 'ক্লিক এর মাধ্যমে' এই পৃষ্ঠার উপরে ফর্ক বাটনে ক্লিক করুন।
-এটি আপনার অ্যাকাউন্টে এই রিপোজিটরির একটি কপি তৈরি করবে।
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork the repository" />
 
-## রিপোজিটরি ক্লোন করুন
+## 🧩 Git ইনস্টল করুন
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="এই রিপোজিটরি ক্লোন করুন" />
+আপনার কম্পিউটারে যদি Git ইনস্টল না থাকে, তাহলে এটি ইনস্টল করুন:
+👉 https://docs.github.com/en/get-started/quickstart/set-up-git
 
-এখন এই রিপোজিটরিটি আপনার কম্পিউটারে ক্লোন করুন। এজন্যে প্রথমে ক্লোন(Clone) বাটনে ক্লিক করুন। এরপর ক্লিক করুন _ক্লিপবোর্ডে কপি করুন(copy to clipboard)_ আইকনটিতে।
+---
 
-আপনার টার্মিনাল (উইন্ডোজের ক্ষেত্রে কমান্ড প্রম্পট (CMD)) চালু করুন এবং নিচের কমান্ড রান করুন :
+## 🍴 ১. এই রিপোজিটরি Fork করুন
+
+এই রিপোজিটরির উপরের ডান পাশে থাকা **Fork** বাটনে ক্লিক করুন।
+এটি আপনার GitHub অ্যাকাউন্টে এই রিপোজিটরির একটি কপি তৈরি করবে।
+
+---
+
+## 📥 ২. রিপোজিটরি Clone করুন
+
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone repository" />
+
+আপনার fork করা রিপোজিটরি লোকাল মেশিনে ক্লোন করুন:
 
 ```bash
-git clone "url you just copied"
+git clone "repository-url"
 ```
 
-যেখানে "url you just copied" (উদ্ধৃতি চিহ্ন ব্যতীত) হচ্ছে এই রিপোজিটরির ইউআরএল যা আপনি পূর্বের ধাপেই পেয়েছেন।
-
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="ইউআরএল ক্লিপবোর্ডে কপি করুন" />
-
-যেমন:
+উদাহরণ:
 
 ```bash
-git clone https://github.com/this-is-you/first-contributions.git
+git clone https://github.com/your-username/first-contributions.git
 ```
 
-এখানে `this-is-you` হচ্ছে আপনার গিটহাব ইউজারনেম। এই কমান্ডটির মাধ্যমে আপনার কম্পিউটারে গিটহাবে অবস্থিত first-contributions রিপোজিটরির একটি কপি তৈরি হবে।
-
-## একটি ব্রাঞ্চ তৈরি করুন
-
-আপনার কম্পিউটারে রিপোজিটরির ডিরেক্টরিতে যান (যদি এখনো অন্য ডিরেক্টরিতে থাকেন) :
+তারপর ডিরেক্টরিতে যান:
 
 ```bash
 cd first-contributions
 ```
 
-এখন `git switch` কমান্ডের মাধ্যমে একটি ব্রাঞ্চ তৈরি করুন :
+---
+
+## 🌿 ৩. নতুন ব্রাঞ্চ তৈরি করুন
 
 ```bash
-git switch -c <your-new-branch-name>
+git switch -c add-your-name
 ```
 
-যেমন :
+(পুরানো Git ভার্সন হলে:)
 
 ```bash
-git switch -c add-alonzo-church
+git checkout -b add-your-name
 ```
 
-(ব্রাঞ্চের নামে _add_ শব্দটি যুক্ত থাকা জরুরী নয়। তবে এই ব্রাঞ্চের উদ্দেশ্য যেহেতু আপনার নাম তালিকাভুক্ত করা, সেহেতু _add_ শব্দটি যুক্ত থাকাই কাম্য।)
+---
 
-## প্রয়োজনীয় পরিবর্তন করুন ও পরিবর্তনগুলো কমিট করুন
+## ✍️ ৪. পরিবর্তন করুন ও কমিট করুন
 
-এখন যে কোন টেক্সট এডিটরে `Contributors.md` ফাইলটি খুলুন, এতে আপনার নাম যুক্ত করুন, অতঃপর ফাইলটি সেভ করুন। এবার প্রজেক্ট ডিরেক্টরি থেকে `git status` কমান্ড রান করলে আপনি পরিবর্তনগুলো দেখতে পাবেন। `git add` কমান্ড দ্বারা এই পরিবর্তনগুলো আপনার তৈরি ব্রাঞ্চে যুক্ত করুন :
+`Contributors.md` ফাইলটি খুলে আপনার নাম যোগ করুন।
+
+তারপর:
 
 ```bash
 git add Contributors.md
+git commit -m "Add your-name to Contributors list"
 ```
 
-এরপর `git commit` কমান্ড ব্যবহার করে এই পরিবর্তনগুলো কমিট করুন :
+---
+
+## 🚀 ৫. পরিবর্তন Push করুন
 
 ```bash
-git commit -m "Add <your-name> to Contributors list"
+git push origin add-your-name
 ```
 
-`<your-name>`-এর বদলে আপনার নাম লিখতে ভুলবেন না।
+---
 
-## পরিবর্তনগুলো গিটহাবে পুশ করা
+## 🔁 ৬. Pull Request তৈরি করুন
 
-`git push` কমান্ড ব্যবহার করে পরিবর্তনগুলো পুশ করুন :
+GitHub-এ আপনার রিপোজিটরিতে যান।
+**Compare & pull request** বাটনে ক্লিক করুন এবং সাবমিট করুন।
 
-```bash
-git push origin -u <your-new-branch-name>
-```
+---
 
-এক্ষেত্রে `<your-new-branch-name>`-এর বদলে পূর্বে আপনার তৈরি ব্রাঞ্চের নাম লিখুন।
+## 🎉 এরপর কী হবে?
 
-<details>
-<summary> <strong>পুশ করতে সমস্যা হলে এখানে ক্লিক করুন:</strong> </summary>
+আপনার Pull Request রিভিউ করা হবে এবং সফল হলে main branch-এ merge করা হবে।
+Merge হলে আপনি একটি কনফার্মেশন পাবেন।
 
-- ### অথ্যানটিকেশনে সমস্যা
-     <pre>remote: পাসওয়ার্ড অথ্যানটিকেশনের সাপোর্ট আগস্ট ১৩, ২০২১ থেকে আর নেই। Personal access token ব্যাবহার করুন।
-  remote: https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ তে আরো তথ্য পাবেন।
-  fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
-  [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) এ আপনার একাউন্টে SSH key generation এবং configuration
-  এর আরো তথ্য পাবেন।
+---
 
-</details>
+## 🌱 এরপর কী করবেন?
 
+🎯 এখন আপনি প্রথম ওপেন সোর্স কন্ট্রিবিউশন সম্পন্ন করেছেন!
 
-## রিভিউয়ের জন্য আপনার পরিবর্তনগুলো জমা দিন
+এখন আপনি আরও এগোতে পারেন:
 
-আপনার গিটহাব রিপোজিটরিতে `Compare & pull request` বাটনে ক্লিক করুন।
+* অন্যান্য ওপেন সোর্স প্রজেক্টে অবদান রাখুন
+* "good first issue" খুঁজে কাজ শুরু করুন
+* নিয়মিত GitHub ব্যবহার করুন
+* নিজের প্রজেক্ট ওপেন সোর্স করুন
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="পুল রিকোয়েস্ট তৈরি করুন" />
+---
 
-এখন _পুল রিকোয়েস্ট_ সাবমিট করুন।
+## 🧰 অন্যান্য টুল ব্যবহার করে টিউটোরিয়াল
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="পুল রিকোয়েস্ট জমা দিন" />
+| টুল            | লিংক            |
+| -------------- | --------------- |
+| GitHub Desktop | GUI Tutorial    |
+| VS Code        | Git Integration |
+| IntelliJ       | Git Workflow    |
 
-শীঘ্রই আমি এই প্রজেক্টের মাস্টার ব্রাঞ্চে আপনার সমস্ত পরিবর্তন গুলো মার্জ করব। পরিবর্তনগুলি একত্রিত হয়ে গেলে আপনি একটি নিশ্চিতকরণ ই-মেইল পাবেন৷
+---
 
-## এরপর কী করব?
+## ⭐ শুভ কামনা
 
-আপনার অবদানের আনন্দ উপভোগ করুন এবং [ওয়েব অ্যাপ](https://firstcontributions.github.io/#social-share)-এর মাধ্যমে বন্ধু ও অনুসরণকারীদের সাথে শেয়ার করুন।
+আপনার ওপেন সোর্স জার্নি এখনই শুরু হলো 🚀
+শিখতে থাকুন, অবদান রাখতে থাকুন!
 
-যদি আপনি আরও অনুশীলন করতে চান, তাহলে [কোড অবদানগুলি](https://github.com/roshanjossey/code-contributions) চেকআউট করুন।
-
-এখন আপনি অন্যান্য প্রজেক্টগুলোতেও অবদান রাখতে পারেন। আপনার সুবিধার্থে আমরা সহজ সমস্যা সম্বলিত প্রজেক্টগুলোর একটি তালিকা তৈরি করেছি। ওয়েব অ্যাপে [প্রজেক্টগুলোর তালিকা](https://firstcontributions.github.io/#project-list) দেখুন।
-
-### [ অতিরিক্ত উপাদানসমূহ ](../additional-material/git_workflow_scenarios/additional-material.md)
-
-## অন্যান্য টুল ব্যবহারের টিউটোরিয়াল
-
-| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/Readme/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [গিটহাব ডেস্কটপ](../gui-tool-tutorials/github-desktop-tutorial.md)                                                                                             | [ভিজুয়্যাল স্টুডিও ২০১৭](../gui-tool-tutorials/github-windows-vs2017-tutorial.md)                                                                                                                        | [গিটক্র্যাকেন](../gui-tool-tutorials/gitkraken-tutorial.md)                                                                                                                                        | [ভিজুয়্যাল স্টুডিও কোড](../gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                                                | [আটলাসিয়ান সোর্সট্রি](../gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                                      | [ইন্টেলিজ আইডিয়া](../gui-tool-tutorials/github-windows-intellij-tutorial.md)                                                                                                                                                       |
+---
