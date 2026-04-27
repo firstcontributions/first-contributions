@@ -2,6 +2,7 @@
 - [Akash Chakraborty](https://github.com/deep72p0)
 - [calvinxu](https://github.com/calvinxu123456-hue)
 - [SE Jihad](https://github.com/sejihad)
+- [Sloki Bhetwal](https://github.com/slokib)
 - [Mohammad Jahanseir](https://github.com/mjahanseir)
 - [tianwh](https://github.com/yunmengovo)
 - [Kanika Kapoor](https://gtihub.com/kanikakapoorcode)
