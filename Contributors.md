@@ -126,6 +126,7 @@ Mazin
 - - [Puneet](https://github.com/puneetrwtz)
 - [mitupatel005]
 - [Martyna Budrewicz](https://github.com/martbudr)
+- [Michael Kim] (https://github.com/mikecode124)
 - [Stacy Hilliard](https://github.com/stacyah)
 - [Pragyan Dhar](https://github.com/pragyandhar)
 - [Mrinal Singh](https://github.com/mrinal444)
