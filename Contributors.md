@@ -3224,6 +3224,7 @@ Emany Chiruza
 - [Jabes Nelma](https://github.com/JabesNelma)
 - [Alex Moore](https://github.com/chenzhihenga)
 - [Ragul CS](https://github.com/csr15)
+- Raya Parsa
 - [Natnael Tamirat](https://github.com/natnael3344)
 - [Abdellah](https://github.com/Abdev314)
 - [zhan haoyu](http://github.com/zhy-zhy321)
