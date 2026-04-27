@@ -1,4 +1,7 @@
 # Contributors
+
+- haolun
+
 - [calvinxu](https://github.com/calvinxu123456-hue)
 - [SE Jihad](https://github.com/sejihad)
 - [Mohammad Jahanseir](https://github.com/mjahanseir)
