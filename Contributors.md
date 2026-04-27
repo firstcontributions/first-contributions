@@ -3440,4 +3440,4 @@ Oiloo
 - [Pranav S](https://github.com/methodmystic)
 - [Liangxiao L](https://github.com/Liangxiao-LI)
 - [Yoshita Singhal](https://github.com/Yoshita09)
-- [Shivansh Goel](https://github.com/arthurxoxo)
+- [Shivansh goel](https://github.com/arthurxoxo)
