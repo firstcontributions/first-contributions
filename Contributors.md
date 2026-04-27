@@ -21,6 +21,7 @@
 - [Dibyajyoti Ganguly](https://github.com/dibs02)
 - [alexavancini](https://github.com/alexavancini)
 - [narutobaco](https://github.com/ttdranthanhdat)
+- [Semi] (https://github.com/Sneha-Sah-22-23)
 - [Elisha Okara](https://github.com/aehils)
 - [alok⚝](https://github.com/thealokverse)
 - [Aniket](https://github.com/Aniket-Gaur-1)
