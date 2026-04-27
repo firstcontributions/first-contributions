@@ -8,6 +8,7 @@
 - [SE Jihad](https://github.com/sejihad)
 - [aoyn1xw](https://github.com/aoyn1xw)
 - [Sloki Bhetwal](https://github.com/slokib)
+- [Leo Bartron](https://github.com/lbartron)
 - [Mohammad Jahanseir](https://github.com/mjahanseir)
 - [tianwh](https://github.com/yunmengovo)
 - [Kanika Kapoor](https://gtihub.com/kanikakapoorcode)
