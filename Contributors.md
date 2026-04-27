@@ -30,6 +30,7 @@
 - [Kar Pat] (https://github.com/karpat481)
 - [JyotiPrakash Jangid](https://github.com/jp7107)
 - [Hyunwoong Yu](https://github.com/Chocobone)
+- [Nickdetol] https://github.com/nickdetol)
 - [Luis Ruvalcaba](https://github.com/luisruval)
 - [Ankan Karmakar](https://github.com/DarkMellow)
 - [Dhiraj Gurung] (https://github.com/dhirajgrg)
