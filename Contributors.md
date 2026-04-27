@@ -20,6 +20,7 @@
 - [Dibyajyoti Ganguly](https://github.com/dibs02)
 - [alexavancini](https://github.com/alexavancini)
 - [narutobaco](https://github.com/ttdranthanhdat)
+- [Elisha Okara](https://github.com/aehils)
 - [alok⚝](https://github.com/thealokverse)
 - [Aniket](https://github.com/Aniket-Gaur-1)
 - [SashKom6](https://github.com/SashKom6)
