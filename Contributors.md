@@ -3414,3 +3414,4 @@ Oiloo
 - [Delis2001](https://github.com/Delis2001) 🎉 first contribution
 - [Karan Rohra](https://github.com/karanrohra)
 - [naoki shibata](https://github.com/nosh1114)
+- [Nguyen Tu Minh Long](https://github.com/NguyenTuMinhLong)
