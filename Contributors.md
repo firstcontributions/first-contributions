@@ -775,6 +775,7 @@ zain
 - [itzharshini](https://github.com/itzharshini)
 - [Sahilarora83](https://github.com/Sahilarora83)
 - [Toluwanimi](https://github.com/DevTolu79)
+- [Yul Kim](https://github.com/YulKimOfficial)
 - [Gayatri Yadkikar](https://github.com/yadkikargayatri)
 - [Ifeanyi](https://github.com/kevinify)
 - [Siddhartha Kushwaha](https://github.com/DevSidd2006)
