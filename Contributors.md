@@ -3434,3 +3434,4 @@ Oiloo
 - [Sahitya Chaddha](https://github.com/Sahitya3105)
 - [Pranav S](https://github.com/methodmystic)
 - [Liangxiao L](https://github.com/Liangxiao-LI)
+- [Yoshita Singhal](https://github.com/Yoshita09)
