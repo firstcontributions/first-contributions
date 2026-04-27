@@ -1,5 +1,6 @@
 # Contributors
 - [Akash Chakraborty](https://github.com/deep72p0)
+- [Sharad Malviya](https://github.com/SharadMalviya-0)
 - [calvinxu](https://github.com/calvinxu123456-hue)
 - [SE Jihad](https://github.com/sejihad)
 - [Sloki Bhetwal](https://github.com/slokib)
@@ -26,6 +27,7 @@
 - [Priyanshu Ojha](https://github.com/Priyannshu)
 - [Maryam Saleem](https://github.com/MARIUAM)
 - [Moonshade](https://github.com/WMXB-Z)
+- [Akhileswar](https://github.com/Akhileswar6)
 - [Suraj](https://github.com/surajrastogi1)
 - [Kar Pat] (https://github.com/karpat481)
 - [JyotiPrakash Jangid](https://github.com/jp7107)
@@ -462,6 +464,7 @@ Anshuk
 -[Divyanshu Kumar](https://github.com/dgiitm)
 -[Deva Nanda M](https://github.com/deva-nanda-m)
 - [Temesgen Geta] (https://github.com/nigusmamo)
+ - [Tianhao Wang](https://github.com/forest-sudo-art)
 - [Rahul Roy](https://github.com/toad-of-code)
 - [chandra kireeti](https://github.com/kireetikotturu)
 - [Prince Makhansa](https://github.com/PrinceMakhansa)
@@ -3420,6 +3423,7 @@ Oiloo
 - [Karan Rohra](https://github.com/karanrohra)
 - [naoki shibata](https://github.com/nosh1114)
 - [Nguyen Tu Minh Long](https://github.com/NguyenTuMinhLong)
+- dareto
 - [hi000513](https://github.com/hi000513)
 - [G S Abinivas](https://github.com/abi6374)
 - [Meet Patadiya](https://github.com/meetpatdiya)
