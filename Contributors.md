@@ -22,6 +22,7 @@
 - [narutobaco](https://github.com/ttdranthanhdat)
 - [alok⚝](https://github.com/thealokverse)
 - [Aniket](https://github.com/Aniket-Gaur-1)
+- [SashKom6](https://github.com/SashKom6)
 - [Jhon Paul Baonil](https://github.com/JPB17387)
 - [Sri Venkatesh](https://github.com/WHENKEY2007)
 - [Priyanshu Ojha](https://github.com/Priyannshu)
