@@ -634,6 +634,7 @@ Vinayakrishna
 - [B Pine](https://github.com/B-Pine)
 - [Shivraj](https://github.com/Shiv0087)
 - shriman181
+- [Thomas Juranich](https://github.com/Tjura3)
 -[Rakesh Dintakurthi](https://github.com/rakeshdintakurthi)
 -[Neha Dubey](https://github.com/Nehainit)
 - [Najad M](https://github.com/najadsayshi)
