@@ -22,6 +22,7 @@
 - [Karnapu Sravanthi](https://github.com/Sravanthi285)
 - [Umate-Express](https://github.com/Umate-Express)
 - [Aretha](https://github.com/khinezinthet503-ops/)
+- [Lucas WM] (https://github.com/LUC4SWM)
 - [Aziz Muntasir](https://github.com/muntasir24)
 - [Sashank Bandi] (https://github.com/SashankB160)
 - [Nishad Kookana] (https://github.com/NishadKook)
