@@ -32,6 +32,7 @@
 - [Crescent](https://github.com/Crescent152)
 - [Malcon Simbi](https://github.com/malconsimbi)
 - [Nakhat Parveen] (https://github.com/nakhat-parveen/)
+- [minsiiu](https://github.com/minsiiu)
 - [hamandres] (https://github.com/ham-andres)
 - [Navye Jindal](https://github.com/Navye08)
 - [Ashik Jishy] (https://github.com/loki-git001)
