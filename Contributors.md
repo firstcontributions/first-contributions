@@ -552,6 +552,7 @@ Alicexxxx
 - [Canberk Girgin](https://github.com/canberkg67)
   [Rituraj Tripathi](https://github.com/Sandilya69)
 - [Shaurya Adarsh](https://github.com/shauryaadarsh)
+- [Cady Merkle](https://github.com/cmerkle1)
 - [Aeleen-Alfaro](https://git.hub/Ralyss)
 - [Kalpesh Sharma](https://github.com/Kalpesh1Sharma)
 - [axxsiuu77](https://github.com/axxsiuu77)
