@@ -11,6 +11,7 @@
 - [Sloki Bhetwal](https://github.com/slokib)
 - [Leo Bartron](https://github.com/lbartron)
 - [Mohammad Jahanseir](https://github.com/mjahanseir)
+- [Hua](https://github.com/NgKokHua/first-contributions.git)
 - [tianwh](https://github.com/yunmengovo)
 - [Kanika Kapoor](https://gtihub.com/kanikakapoorcode)
 - [Mahesh Gite](https://github.com/Mahesh-Gite-28)
