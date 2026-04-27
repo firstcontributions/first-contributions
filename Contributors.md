@@ -97,6 +97,7 @@ Mazin
 - [DD](https://github.com/danny-caliste)
 - [Gelar Rahadian Fajar]( )
 - [Owen Powell](https://github.com/opowell28)
+- [Rajnandani](https://github.com/rajnandani-80)
 - [Sean Yu](https://github.com/takagibit18)
 - [Rohan Biswas](https://github.com/DeathGun122)
 - [Gyanendra Yadav](https://github.com/GyanendraYadav7715)
