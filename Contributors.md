@@ -5,7 +5,7 @@
 - [Akash Chakraborty](https://github.com/deep72p0)
 - [Christopher Hillebrand] (https://github.com/Yaaramir)
 - [Emma Tumurbat] (https://github.com/enkhemm)
-- [Jacob Arquiza] (https://github.com/jacobArquiza)
+- [Jacob_Arquiza] (https://github.com/jacobArquiza)
 - [Sharad Malviya](https://github.com/SharadMalviya-0)
 - [Manraj Singh](https://github.com/manrajs1)
 - [calvinxu](https://github.com/calvinxu123456-hue)
@@ -13,8 +13,8 @@
 - [aoyn1xw](https://github.com/aoyn1xw)
 - [Ayush Pratap Singh](https://github.com/zoomgy)
 - [Sloki Bhetwal](https://github.com/slokib)
-- [Eunice Leyanda R](https://github.com/EuniceLeyanda-R)
 - [Daizy Nyahay](https://github.com/DesuDucky)
+- [kumaraswamy]
 - [Conor MacMahon](https://github.com/conorjmacmahon)
 - [Abhigna Nimmagadda](https://github.com/4bh1gn4)
 - [Leo Bartron](https://github.com/lbartron)
