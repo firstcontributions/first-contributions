@@ -1,4 +1,5 @@
 # Contributors
+- [Tushar](https://github.com/tusharynayaka)
 - [MOHAMED ARRAF](https://github.com/medoxee)
 - [eyoung21](https://github.com/eyoung21)
 - [yash1511-bogam](https://github.com/yash1511-bogam)
