@@ -4,6 +4,7 @@
 - [calvinxu](https://github.com/calvinxu123456-hue)
 - [SE Jihad](https://github.com/sejihad)
 - [Sloki Bhetwal](https://github.com/slokib)
+- [Eunice Leyanda R](https://github.com/EuniceLeyanda-R)
 - [Mohammad Jahanseir](https://github.com/mjahanseir)
 - [tianwh](https://github.com/yunmengovo)
 - [Kanika Kapoor](https://gtihub.com/kanikakapoorcode)
