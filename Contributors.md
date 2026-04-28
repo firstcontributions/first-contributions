@@ -6,6 +6,7 @@
 - [Christopher Hillebrand] (https://github.com/Yaaramir)
 - [Emma Tumurbat] (https://github.com/enkhemm)
 - [Jacob Arquiza] (https://github.com/jacobArquiza)
+Aronas
 - [Sharad Malviya](https://github.com/SharadMalviya-0)
 - [Manraj Singh](https://github.com/manrajs1)
 - [calvinxu](https://github.com/calvinxu123456-hue)
