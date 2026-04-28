@@ -132,6 +132,8 @@ Eden goşandyňyza begeniň we dostlaryňyz bilen paýlaşyň!
 
 [Bu baglanma](https://firstcontributions.github.io/#social-share) arkaly hem birnäçe gyzykly proýektlere öz goşandyňyzy goşup bilýäňiz.
 
+Eger has köp maslahaty ulanmak isleseňiz, [kod goşantlary](https://github.com/roshanjossey/code-contributions) depozitarisine bakaň.
+
 
 
 
