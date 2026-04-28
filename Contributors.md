@@ -150,6 +150,7 @@ Mazin
  - [Harsh Yadav](https://github.com/harshyadavDeveloper)
 -[Akash Karmakar](https://github.com/Akash-Karma)
 - [Deep Parashar](https://github.com/deepparashar)
+- [Max Schwarz](https://github.com/SchwarSaMa)
 - [Sidra Maryam](https://github.com/Sidra-Maryam)
 - [Azhan Farooqui](https://github.com/404zhan)
 - [Emmanuel Ngwala](https://github.com/Emmanuel-tech58)
