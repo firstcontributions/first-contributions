@@ -11,6 +11,7 @@
 - [calvinxu](https://github.com/calvinxu123456-hue)
 - [SE Jihad](https://github.com/sejihad)
 - [aoyn1xw](https://github.com/aoyn1xw)
+- [Ayush Pratap Singh](https://github.com/zoomgy)
 - [Sloki Bhetwal](https://github.com/slokib)
 - [Eunice Leyanda R](https://github.com/EuniceLeyanda-R)
 - [Daizy Nyahay](https://github.com/DesuDucky)
