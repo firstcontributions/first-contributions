@@ -423,6 +423,7 @@ Anshuk
 - [Abhishek](https://github.com/abhishek-21f2000477)
 -[Aditya Kumar](https://github.com/AdityaKumar188)
 - Divyanshu Kumar
+- Aashi
 - [Aditya Kumar](https://github.com/AdityaKumar188)
 - [Abhinav Maurya](https://github.com/fire162)
 - [Jishnu](https://github.com/JishnuS732005)
