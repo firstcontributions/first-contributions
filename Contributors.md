@@ -159,6 +159,7 @@ Mazin
 - [Mohammad-Sameer](https://github.com/MohammadSameer-Dev)
 - [Md.Ahsan Khan](https://github.com/Ahsan-Khan317)
 - [DEBANJAN GHORUI](https://github.com/debanjan100)
+- [Favas](https://github.com/ibfavas)
 - [Arun Eswaran](https://github.com/arun-1312)
 - [David Montenegro](https://github.com/davidomontenegro)
 - [Riya Kushwaha](https://github.com/riyak790)
