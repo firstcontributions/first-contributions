@@ -12,6 +12,7 @@
 - [SE Jihad](https://github.com/sejihad)
 - [aoyn1xw](https://github.com/aoyn1xw)
 - [Sloki Bhetwal](https://github.com/slokib)
+- [Eunice Leyanda R](https://github.com/EuniceLeyanda-R)
 - [Daizy Nyahay](https://github.com/DesuDucky)
 - [Conor MacMahon](https://github.com/conorjmacmahon)
 - [Abhigna Nimmagadda](https://github.com/4bh1gn4)
