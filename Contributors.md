@@ -11,6 +11,7 @@
 - [SE Jihad](https://github.com/sejihad)
 - [aoyn1xw](https://github.com/aoyn1xw)
 - [Sloki Bhetwal](https://github.com/slokib)
+- [Daizy Nyahay](https://github.com/DesuDucky)
 - [Conor MacMahon](https://github.com/conorjmacmahon)
 - [Abhigna Nimmagadda](https://github.com/4bh1gn4)
 - [Leo Bartron](https://github.com/lbartron)
