@@ -23,6 +23,7 @@ Aronas
 - [Eunice Leyanda R](https://github.com/EuniceLeyanda-R)
 - [Daizy Nyahay](https://github.com/DesuDucky)
 - [Conor MacMahon](https://github.com/conorjmacmahon)
+- [Shantha](https://github.com/shantha26)
 - [Abhigna Nimmagadda](https://github.com/4bh1gn4)
 - [Leo Bartron](https://github.com/lbartron)
 - [Mohammad Jahanseir](https://github.com/mjahanseir)
@@ -3075,6 +3076,7 @@ Merjen Amanmuradova
 - [ai1971training](https://github.com/ai1971training-cell)
 - Lipika Saravanan
 - [Mend-Amar Badral](https://github.com/MendeBadra)
+- [Alice L](https://github.com/icepice-12)
 - [minirang](https://github.com/minirang)
 - [Pratiksha Bade](https://github.com/pratikshabade09)
 - [Shivansh Gupta](https://github.com/shivansh00000)
@@ -3206,6 +3208,7 @@ jieting-[ych3star](https://github.com/ych3star)
 - [6NaCl](https://github.com/6NaCl)
 - [Megha Pise](https://github.com/meghapise07)
 - [Rysan Deluna aka Ryan](https://github.com/RysanDeluna)
+- Ashish Kumar Gupta
 - [Deep Patel](https://github.com/Deeppatelll)
 Emany Chiruza
 - [Max Klingner](https://github.com/max-klingner)
@@ -3518,4 +3521,8 @@ Nagaraj M
 - [Sadman Sadik Taushif](https://github.com/taushif-arch)
 - [RexChen315](https://github.com/could562073)
 - [Ishan Verma](https://github.com/ishan4432)
+- [Sadman Sadik Taushif](https://github.com/taushif-arch)
+- [RexChen315](https://github.com/could562073)
 - [Harshal Barhate](https://github.com/Harshal-Bsys27)
+- [Mais Sameer](https://github.com/mais-sameer/first-contributions)
+- [Noëlla Vivienne](https://github.com/noellav/)
