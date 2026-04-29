@@ -1747,6 +1747,7 @@ Rithvik
 - [Malu Paes](https://github.com/MaaLuu21)
 - [Malvin-sehmaluva-Machingura](https://github.com/sehmaluva)
 - [Manjeet Singh](https://github.com/manjeetsingh78)
+- [Caden Warren](https://github.com/cw-0)
 - [Manny Lazalde](https://github.com/mannylazalde)
 - [Manohara](https://github.com/Manohara-Ai)
 - [Manvith Kumar Ullal](https://github.com/Manvith-kumar16)
