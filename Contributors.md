@@ -1,5 +1,6 @@
 # Contributors
 - [Pablo Avila](https://github.com/paf106)
+- [Platostol](https://github.com/Platostol)
 - [yiliangx2](https://github.com/yiliangx2)
 - [GeneLiao](https://github.com/GeneLiaoJY)
 - [seanmgomez] (https://github.com/seanmgomez)
