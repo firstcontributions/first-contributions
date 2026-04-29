@@ -93,6 +93,7 @@ Aronas
 - [Chitran Chakraborty](https://github.com/Chitran21Chakraborty)
 - [AMFarhan] (https://github.com/AMFarhan21)
 - [Jaehoon Son](https://github.com/JaehoonSon)
+- [Harsh Kumar](https://github.com/hars310)
 - [Ashish Verma](https://github.com/ashish39403)
 - [Carson Lin](https://github.com/lstsk)
 - [Arshad zeon] (https://github.com/Arshadx9)
