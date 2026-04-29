@@ -3207,6 +3207,7 @@ jieting-[ych3star](https://github.com/ych3star)
 - [6NaCl](https://github.com/6NaCl)
 - [Megha Pise](https://github.com/meghapise07)
 - [Rysan Deluna aka Ryan](https://github.com/RysanDeluna)
+- Ashish Kumar Gupta
 - [Deep Patel](https://github.com/Deeppatelll)
 Emany Chiruza
 - [Max Klingner](https://github.com/max-klingner)
