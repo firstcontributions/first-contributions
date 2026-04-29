@@ -13,6 +13,7 @@
 - [Jacob Arquiza] (https://github.com/jacobArquiza)
 Aronas
 - [Sharad Malviya](https://github.com/SharadMalviya-0)
+- [Samuel Tadele](https://github.com/samuelgt3)
 - [Shivani Saroj](https://github.com/ShivanSaroj)
 - [Manraj Singh](https://github.com/manrajs1)
 - [Haaris Naseeb](https://github.com/Harriis10)
