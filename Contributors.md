@@ -125,6 +125,7 @@ Mazin
 - [Mamiy07](https://github.com/mamiy07)
 - [DD](https://github.com/danny-caliste)
 - [Gelar Rahadian Fajar]( )
+- [Eric Teixera](https://github.com/EricTeixeir)
 - [Owen Powell](https://github.com/opowell28)
 - [Rajnandani](https://github.com/rajnandani-80)
 - [Sean Yu](https://github.com/takagibit18)
