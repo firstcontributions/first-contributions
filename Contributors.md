@@ -1,6 +1,7 @@
 # Contributors
 - [yiliangx2](https://github.com/yiliangx2)
 - [GeneLiao](https://github.com/GeneLiaoJY)
+- [seanmgomez] (https://github.com/seanmgomez)
 - [Tushar](https://github.com/tusharynayaka)
 - [DEBORAJ ROY](https://github.com/deboraj-roy)
 - [RuanK](https://github.com/aspectZA27)
