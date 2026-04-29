@@ -153,6 +153,7 @@ Mazin
 - [Xu Chen](https://github.com/g4chen)
 - [Md Akhtar](https://github.com/mdakhtar03)
 - [Bao Khanh](https://github.com/bluenoe)
+- [Pedro Moraes](https://github.com/pedromoraes-dev)
 - [CapyBaraTheKing](https://github.com/molangmalang)
 -[Rishabh Pandey](https://github.com/Lazyproton)
 - [Saad Amjad](https://github.com/saadamjad44)
