@@ -1,4 +1,5 @@
 # Contributors
+- [Pablo Avila](https://github.com/paf106)
 - [yiliangx2](https://github.com/yiliangx2)
 - [GeneLiao](https://github.com/GeneLiaoJY)
 - [seanmgomez] (https://github.com/seanmgomez)
@@ -22,6 +23,7 @@ Aronas
 - [SE Jihad](https://github.com/sejihad)
 - [aoyn1xw](https://github.com/aoyn1xw)
 - [George Falcon](https://github.com/kanvastudio)
+- [Logan Elam](https://github.com/MollaneGreed-Sandbox)
 - [Ali Hamza](https://github.com/M-AliHamza)
 - [Ayush Pratap Singh](https://github.com/zoomgy)
 - [Sloki Bhetwal](https://github.com/slokib)
@@ -3536,8 +3538,12 @@ Nagaraj M
 - [NikolosPl](https://github.com/NikolosPl)
 - [Bhavesh Gadling](https://github.com/BhaveshGadling77)
 - [DarshanJajoria](https://github.com/Darshanjajoria18)
+- [Mike K](https://github.com/mkanagarH)
+- [Joe Mendez] (...)
 - [IronByron](https://github.com/IronByron-GH)
 - [srikrishna karatalapu](https://github.com/SriKaratalapu)
 - [David Brooks](https://github.com/brooksdave)
 - [LIfegoeson9](https://github.com/lifegoeson9)
+- [Sunitha N](https://github.com/Sunitha20
+- [Abhay Lakhanpal(https://github.com/abhaylak)]
 - [Drew Ramos] (.....)
