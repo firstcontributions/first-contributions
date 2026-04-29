@@ -3076,6 +3076,7 @@ Merjen Amanmuradova
 - [ai1971training](https://github.com/ai1971training-cell)
 - Lipika Saravanan
 - [Mend-Amar Badral](https://github.com/MendeBadra)
+- [Alice L](https://github.com/icepice-12)
 - [minirang](https://github.com/minirang)
 - [Pratiksha Bade](https://github.com/pratikshabade09)
 - [Shivansh Gupta](https://github.com/shivansh00000)
