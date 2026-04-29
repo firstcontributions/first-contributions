@@ -3518,3 +3518,4 @@ Nagaraj M
 - [Sadman Sadik Taushif](https://github.com/taushif-arch)
 - [RexChen315](https://github.com/could562073)
 - [Ishan Verma](https://github.com/ishan4432)
+- [Mais Sameer](https://github.com/mais-sameer/first-contributions)
