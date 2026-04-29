@@ -1160,6 +1160,7 @@ tds
 - [AnkitVerma](https://github.com/novakit7)
 - [Ambar Singh](https://github.com/ambar-singh)
 - [Aryan Mehrotra](https://github.com/aryanmehrotra)
+- [Rushikesh Kadepurkar](https://github.com/RushiK8626)
 - [Danish] (https://github.com/Danish7911)
 Chris
 pizpol
