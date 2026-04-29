@@ -102,6 +102,8 @@ Mazin
 - I am here now, popopwopwop
 - [Peeyush Kr Singh](https://github.com/Peeyush3587)
 - [Caren Chepngetich](https://github.com/caren580)
+- Ayush Bhushan(https://github.com/Codewizrd1312)
+- 
 - [Akinfolabi A.]
 - [Ruri Nanto]
 - [Infantraj C]
