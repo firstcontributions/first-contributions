@@ -1221,6 +1221,7 @@ RLeish
 - [Javier Garcia](https://github.com/jgarciacardoso)
 - [Arnav Saraswat](https://github.com/arnavs-uol)
 - [Zachary Lee](https://github.com/Zach-flkl)
+- [sujay pradhan](https://github.com/sujay090)
 - [Arti Shelar](https://github.com/shelararti)
 - [Arumugam N](https://github.com/blackwolf2902)
 - [Anushka Suvarna](https://github.com/23f2005114)
