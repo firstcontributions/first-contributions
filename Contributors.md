@@ -5,6 +5,7 @@
 - [seanmgomez] (https://github.com/seanmgomez)
 - [Tushar](https://github.com/tusharynayaka)
 - [DEBORAJ ROY](https://github.com/deboraj-roy)
+- [Toshal Kirange](https://github.com/toshuuu)
 - [RuanK](https://github.com/aspectZA27)
 - [MOHAMED ARRAF](https://github.com/medoxee)
 - [eyoung21](https://github.com/eyoung21)
