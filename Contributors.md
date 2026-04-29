@@ -44,6 +44,7 @@ Aronas
 - [Aziz Muntasir](https://github.com/muntasir24)
 - [Sashank Bandi] (https://github.com/SashankB160)
 - [Nishad Kookana] (https://github.com/NishadKook)
+- [Avi Kaplan] (https://github.com/a-v-i-k)
 - [Anvarbek Kuvandikov](https://github.com/kuvandikov)
 - [Dibyajyoti Ganguly](https://github.com/dibs02)
 - [alexavancini](https://github.com/alexavancini)
