@@ -468,6 +468,7 @@ Anshuk
 - [muard](https://github.com/murad-1999)
 - [Rajath Kiran A](https://github.com/Rajath2005)
 -[Sanskriti Mishra](https://github.com/sanskriti234)
+- [Santosh Thakur](https://github.com/sangamewin)
 - [Shivam Honrao](https://github.com/ShivamH1)
 - [Anuj Kaushik](https://github.com/Ajkaushik9045)
 - [Aakif Kohari](https://github.com/Aakif-Kohari)
