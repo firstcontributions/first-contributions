@@ -2671,3 +2671,4 @@ Emany Chiruza
 - [Regina Castillo](https://github.com/ReginaPema)
 - [Urvish Rathi] (https://github.com/urathi05)
 - [Ayush Aryan](https://github.com/ayushharyan19)
+- [Rinki] (https://github.com/Anna-ai-28)
