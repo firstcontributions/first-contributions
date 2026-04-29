@@ -23,6 +23,7 @@ Aronas
 - [Eunice Leyanda R](https://github.com/EuniceLeyanda-R)
 - [Daizy Nyahay](https://github.com/DesuDucky)
 - [Conor MacMahon](https://github.com/conorjmacmahon)
+- [Shantha](https://github.com/shantha26)
 - [Abhigna Nimmagadda](https://github.com/4bh1gn4)
 - [Leo Bartron](https://github.com/lbartron)
 - [Mohammad Jahanseir](https://github.com/mjahanseir)
