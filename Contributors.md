@@ -3533,4 +3533,4 @@ Nagaraj M
 - [NikolosPl](https://github.com/NikolosPl)
 - [Bhavesh Gadling](https://github.com/BhaveshGadling77)
 - [DarshanJajoria](https://github.com/Darshanjajoria18)
-- [MikeK](https://github.com/mkanagarH)
+- [Mike K](https://github.com/mkanagarH)
