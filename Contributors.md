@@ -50,6 +50,7 @@ Aronas
 - [Lucas WM] (https://github.com/LUC4SWM)
 - [Aziz Muntasir](https://github.com/muntasir24)
 - [Sashank Bandi] (https://github.com/SashankB160)
+  [Minh Tran](https://github.com/tranmin001)
 - [Nishad Kookana] (https://github.com/NishadKook)
 - [Avi Kaplan] (https://github.com/a-v-i-k)
 - [Anvarbek Kuvandikov](https://github.com/kuvandikov)
