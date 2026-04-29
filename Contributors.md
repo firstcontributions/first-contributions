@@ -2,6 +2,7 @@
 - [yiliangx2](https://github.com/yiliangx2)
 - [GeneLiao](https://github.com/GeneLiaoJY)
 - [Tushar](https://github.com/tusharynayaka)
+- [DEBORAJ ROY](https://github.com/deboraj-roy)
 - [RuanK](https://github.com/aspectZA27)
 - [MOHAMED ARRAF](https://github.com/medoxee)
 - [eyoung21](https://github.com/eyoung21)
