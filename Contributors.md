@@ -141,6 +141,7 @@ Mazin
 -  [Tasfin Mahmud](https://github.com/TasfinMahmud)
 - [Mamiy07](https://github.com/mamiy07)
 - [DD](https://github.com/danny-caliste)
+- [Tega Ajise](https://github.com/tega-ajise)
 - [Gelar Rahadian Fajar]( )
 - [Eric Teixera](https://github.com/EricTeixeir)
 - [Owen Powell](https://github.com/opowell28)
