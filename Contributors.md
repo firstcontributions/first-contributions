@@ -61,6 +61,7 @@ Aronas
 - [Aziz Muntasir](https://github.com/muntasir24)
 - [Sashank Bandi] (https://github.com/SashankB160)
   [Minh Tran](https://github.com/tranmin001)
+  [Claudia Rocha](https://github.com/Claudia-Rocha-H)
 - [Nishad Kookana] (https://github.com/NishadKook)
 - [Avi Kaplan] (https://github.com/a-v-i-k)
 - [Anvarbek Kuvandikov](https://github.com/kuvandikov)
