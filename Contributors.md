@@ -15,6 +15,7 @@
 - [Akash Chakraborty](https://github.com/deep72p0)
 - [Christopher Hillebrand] (https://github.com/Yaaramir)
 - [Emma Tumurbat] (https://github.com/enkhemm)
+- [Eric Im] (http://github.com/hs1553)
 - [Jacob Arquiza] (https://github.com/jacobArquiza)
 Aronas
 - [Sharad Malviya](https://github.com/SharadMalviya-0)
