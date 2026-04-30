@@ -27,6 +27,7 @@ Aronas
 - [Shivani Saroj](https://github.com/ShivanSaroj)
 - [Manraj Singh](https://github.com/manrajs1)
 - [Haaris Naseeb](https://github.com/Harriis10)
+- Eric Hancock
 - [calvinxu](https://github.com/calvinxu123456-hue)
 - [SE Jihad](https://github.com/sejihad)
 - [aoyn1xw](https://github.com/aoyn1xw)
