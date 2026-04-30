@@ -1687,6 +1687,7 @@ Steve
 - [Kaustubh Chaturvedi](https://github.com/Kaus-16)
 - [Kaustubh Singh](https://github.com/KaustubhSingh9000)
 - [Kavana Ganesh](https://github.com/KavanaGanesh-dev)
+- [David Guo]
 - [Kandepu Naga Venkata Manideep](https://github.com/manideep-777)
 
 - [Kannan Ramaswamy](https://github.com/lkannan)
