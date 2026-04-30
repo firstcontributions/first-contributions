@@ -36,6 +36,7 @@ Aronas
 - [Ayush Pratap Singh](https://github.com/zoomgy)
 - [Sloki Bhetwal](https://github.com/slokib)
 - [Eunice Leyanda R](https://github.com/EuniceLeyanda-R)
+* __[Ajay Rao](https://github.com/Ajay43634)__
 - [Daizy Nyahay](https://github.com/DesuDucky)
 - [Conor MacMahon](https://github.com/conorjmacmahon)
 - [Shantha](https://github.com/shantha26)
