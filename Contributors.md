@@ -55,6 +55,7 @@
 - [AYUSHMAN SHARMA](https://github.com/Arachnodev-AYUSHMAN1617)
 - [Crescent](https://github.com/Crescent152)
 - [Malcon Simbi](https://github.com/malconsimbi)
+- Ayush Bhushan(https://github.com/Codewizard1312) 
 - [Nakhat Parveen] (https://github.com/nakhat-parveen/)
 - [minsiiu](https://github.com/minsiiu)
 - [hamandres] (https://github.com/ham-andres)
