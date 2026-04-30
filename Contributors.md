@@ -10,6 +10,7 @@
 - [RuanK](https://github.com/aspectZA27)
 - [MOHAMED ARRAF](https://github.com/medoxee)
 - [eyoung21](https://github.com/eyoung21)
+- [jatin](https://github.com/jatin0670)
 - [yash1511-bogam](https://github.com/yash1511-bogam)
 - [Akash Chakraborty](https://github.com/deep72p0)
 - [Christopher Hillebrand] (https://github.com/Yaaramir)
