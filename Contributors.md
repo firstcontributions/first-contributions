@@ -67,6 +67,7 @@ Aronas
 - [Jhon Paul Baonil](https://github.com/JPB17387)
 - [Sri Venkatesh](https://github.com/WHENKEY2007)
 - [Priyanshu Ojha](https://github.com/Priyannshu)
+- [Vasu Agrawal] (https://github.com/agrvasu05)
 - [Maryam Saleem](https://github.com/MARIUAM)
 - [Moonshade](https://github.com/WMXB-Z)
 - [Akhileswar](https://github.com/Akhileswar6)
