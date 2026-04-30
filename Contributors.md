@@ -15,6 +15,7 @@
 - [Akash Chakraborty](https://github.com/deep72p0)
 - [Christopher Hillebrand] (https://github.com/Yaaramir)
 - [Emma Tumurbat] (https://github.com/enkhemm)
+- [Phaneendra Peravarapu](https://github.com/Phaneeeee)
 - [Eric Im] (http://github.com/hs1553)
 - [Jacob Arquiza] (https://github.com/jacobArquiza)
 Aronas
@@ -27,6 +28,7 @@ Aronas
 - [SE Jihad](https://github.com/sejihad)
 - [aoyn1xw](https://github.com/aoyn1xw)
 - [George Falcon](https://github.com/kanvastudio)
+- [taesongxxxx](https://github.com/taesongxxxx)
 - [Logan Elam](https://github.com/MollaneGreed-Sandbox)
 - [Ali Hamza](https://github.com/M-AliHamza)
 - [Ayush Pratap Singh](https://github.com/zoomgy)
@@ -3564,4 +3566,10 @@ Nagaraj M
 - [Hong Zh](https://github.com/ho-zh)
 - [Sounak Das](https://github.com/LittleBoy9)
 - [We're doing okay](https://github.com/wmhxb)
+
 - [MHCHA](https://github.com/MHCHA)
+- [Jamiee42](https://github.com/Jamiee42)
+- [gyeong33](https://github.com/gyeong33)
+- [SMJ](https://github.com/SeokMinJeon)
+- [SJH21343](https://github.com/sjh2719)
+- [zzx](https://github.com/sadpotato1006)
