@@ -67,6 +67,7 @@ Aronas
 - [alexavancini](https://github.com/alexavancini)
 - [narutobaco](https://github.com/ttdranthanhdat)
 - [Semi] (https://github.com/Sneha-Sah-22-23)
+- [yafiakhtar](https://github.com/yafiakhtar)
 - [Elisha Okara](https://github.com/aehils)
 - [alok⚝](https://github.com/thealokverse)
 - [Aniket](https://github.com/Aniket-Gaur-1)
