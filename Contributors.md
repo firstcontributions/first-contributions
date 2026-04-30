@@ -46,6 +46,7 @@ Aronas
 - [Hua](https://github.com/NgKokHua/first-contributions.git)
 - [Aleeza](https://github.com/Aleeza-Bhatti/first-contributions)
 - [tianwh](https://github.com/yunmengovo)
+- [Roia Tembo](https://github.com/roiatembo)
 - [Kanika Kapoor](https://gtihub.com/kanikakapoorcode)
 - [Mahesh Gite](https://github.com/Mahesh-Gite-28)
 - [Mowrya Balivada](https://github.com/mowrya)
