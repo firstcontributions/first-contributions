@@ -3579,3 +3579,5 @@ Nagaraj M
 - [Manswi Pradhan](https://github.com/newton-lebniz)
 - [Rahul Jhamb](https://github.com/itzRJ)
 - [Pavlo] (https://github.com/twoj-nick)
+- [Kanan] (https://www.linkedin.com/in/kanan-sangal/)
+
