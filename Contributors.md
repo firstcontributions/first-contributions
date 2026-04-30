@@ -18,7 +18,7 @@
 - [Phaneendra Peravarapu](https://github.com/Phaneeeee)
 - [Eric Im] (http://github.com/hs1553)
 - [Jacob Arquiza] (https://github.com/jacobArquiza)
-Aronas
+- [Alexis](https://github.com/AlexisDabon)
 - [Sharad Malviya](https://github.com/SharadMalviya-0)
 - [Samuel Tadele](https://github.com/samuelgt3)
 - [Shivani Saroj](https://github.com/ShivanSaroj)
