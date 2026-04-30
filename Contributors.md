@@ -28,6 +28,7 @@ Aronas
 - [SE Jihad](https://github.com/sejihad)
 - [aoyn1xw](https://github.com/aoyn1xw)
 - [George Falcon](https://github.com/kanvastudio)
+- [taesongxxxx](https://github.com/taesongxxxx)
 - [Logan Elam](https://github.com/MollaneGreed-Sandbox)
 - [Ali Hamza](https://github.com/M-AliHamza)
 - [Ayush Pratap Singh](https://github.com/zoomgy)
