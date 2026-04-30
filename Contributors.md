@@ -87,6 +87,7 @@ Aronas
 - [Axlhnbi](https://github.com/axlhnbi)
 - [Dhiraj Gurung] (https://github.com/dhirajgrg)
 - [AYUSHMAN SHARMA](https://github.com/Arachnodev-AYUSHMAN1617)
+- Nect 
 - [Crescent](https://github.com/Crescent152)
 - [Malcon Simbi](https://github.com/malconsimbi)
 - [Nakhat Parveen] (https://github.com/nakhat-parveen/)
