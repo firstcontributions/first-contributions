@@ -1,5 +1,6 @@
 # Contributors
 - [AbdShahrour](https://github.com/AbdShahrour)
+- Khushi Shukla (https://github.com/khushi-shukla-cz)
 [Hammad Gul](https://github.com/hammadgul-dev)
 - [Kumari Vaishnavi](https://github.com/vaishnavijha12)
 - [Hailrake](https://github.com/zephyrPr1me)
