@@ -1011,6 +1011,7 @@ zain
 - [yuvaraj singh](https://github.com/Yuvi264)
 - [Prashant Kumar Tuhania](https://github.com/prashantkumar342)
 - [Mrrrrrrt](https://github.com/Mrrrrrrt)
+- [Dan Ellis](https://github.com/dellis-dare)
 - [Aman Jangir](https://github.com/AmanJ24)
 - [Sahil Alam](https://github.com/sahhilalam)
 - [Henrique](https://github.com/roberto0906)
