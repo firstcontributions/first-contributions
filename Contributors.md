@@ -38,6 +38,7 @@ Aronas
 - [Samuel Tadele](https://github.com/samuelgt3)
 - [Shivani Saroj](https://github.com/ShivanSaroj)
 - [Manraj Singh](https://github.com/manrajs1)
+- [SkyDragon43](https://github.com/SkyDragon43)
 - [Haaris Naseeb](https://github.com/Harriis10)
 - Eric Hancock
 [Maly Rosenstein](https://github.com/MalyRosenstein1)
