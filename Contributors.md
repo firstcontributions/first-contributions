@@ -2262,6 +2262,7 @@ Alejandro Alfaro
 - [Steve Coghill](https://github.com/BriarSMC)
 - [Subhajit Sarkar](https://github.com/Subhajit281)
 - [Subin Kumar](https://github.com/Subinkumar077)
+- [Bhorvy] (https://github.com/bhorvy)
 - [Suchi Shukla](https://github.com/Suchi1905)
 - [Suchit](https://github.com/suchit-hirani-python-ak)
 - [Sudarshan Dongre](https://github.com/SudWasatch)
