@@ -3612,3 +3612,4 @@ Nagaraj M
 - [Tanvir Rahman](https://github.com/tanviranindo)
 - [Deepak](https://github.com/deestudio028-droid)
 - [Dhruv Pandey] (https://github.com/atetoon)
+- [Aashish Tharu] (https://github.com/aashish-tharu)
