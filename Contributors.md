@@ -34,6 +34,7 @@ Aronas
 - [Manraj Singh](https://github.com/manrajs1)
 - [Haaris Naseeb](https://github.com/Harriis10)
 - Eric Hancock
+[Maly Rosenstein](https://github.com/MalyRosenstein1)
 - [calvinxu](https://github.com/calvinxu123456-hue)
 - [SE Jihad](https://github.com/sejihad)
 - [aoyn1xw](https://github.com/aoyn1xw)
