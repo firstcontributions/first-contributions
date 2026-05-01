@@ -1,4 +1,5 @@
 # Contributors
+- [Kumari Vaishnavi](https://github.com/vaishnavijha12)
 - [Hailrake](https://github.com/zephyrPr1me)
 -[Irina Vertiagina](https://github.com/IrinaVertiagina-hub)
 -[Puneet Dixit](https://github.com/puneetdixit200)
