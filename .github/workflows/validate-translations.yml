@@ -1,0 +1,95 @@
+name: Validate Translation Coverage
+
+# Ensures consistency between the translation links in README.md and the
+# translation files that actually exist in docs/translations/.
+#
+# Two outcomes:
+#   ERROR (fails CI): A link in README.md points to a non-existent file.
+#   WARNING (logged, non-blocking): A file exists in docs/translations/
+#     that is not yet linked from README.md.
+#
+# Triggers on:
+#   - Any push or PR that modifies README.md (the link source)
+#   - Any push or PR that adds/removes files in docs/translations/ (the targets)
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'README.md'
+      - 'docs/translations/**'
+
+  pull_request:
+    paths:
+      - 'README.md'
+      - 'docs/translations/**'
+
+jobs:
+  validate-translations:
+    name: Validate translation file coverage
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: read
+      pull-requests: write
+
+    steps:
+      # -----------------------------------------------------------------------
+      # Step 1: Checkout the repository
+      # For pull_request events we check out the merge commit so that both
+      # README.md and docs/translations/ reflect the proposed state.
+      # -----------------------------------------------------------------------
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # -----------------------------------------------------------------------
+      # Step 2: Make the coverage script executable
+      # -----------------------------------------------------------------------
+      - name: Make scripts executable
+        run: chmod +x .github/scripts/check_translation_coverage.sh
+
+      # -----------------------------------------------------------------------
+      # Step 3: Run coverage check
+      # -----------------------------------------------------------------------
+      - name: Check translation file coverage
+        id: coverage_check
+        run: |
+          bash .github/scripts/check_translation_coverage.sh \
+            README.md \
+            docs/translations/
+
+      # -----------------------------------------------------------------------
+      # Step 4: Post a comment on PRs when broken links are found
+      # -----------------------------------------------------------------------
+      - name: Post broken-link comment on PR
+        if: >
+          failure() &&
+          steps.coverage_check.outcome == 'failure' &&
+          github.event_name == 'pull_request'
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const msg = `## ❌ Translation Coverage Check Failed
+
+            This PR introduces a broken translation link: a file referenced in
+            \`README.md\` does not exist in \`docs/translations/\`.
+
+            **To fix:**
+            - If you added a link to a new translation in \`README.md\`, ensure
+              the corresponding \`.md\` file exists in \`docs/translations/\`.
+            - If you removed or renamed a translation file, update the link in
+              \`README.md\` to match.
+
+            Run the check locally:
+            \`\`\`bash
+            bash .github/scripts/check_translation_coverage.sh README.md docs/translations/
+            \`\`\``;
+
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: msg,
+            });
