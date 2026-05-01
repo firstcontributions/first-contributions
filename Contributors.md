@@ -1871,6 +1871,7 @@ Alejandro Alfaro
 - [Mridul Narain](https://github.com/narainmridul)
 - [Mrityunjay Sahani](https://github.com/mritunjaysahani)
 - [Mrunal Jadhav](https://github.com/mrunaljadhav)
+- [Mateusz J](https://github.com/mattDevInc)
 - [Isaac Gonzalez] (https://github.com/ZaakyG)
 - [Jeet Jawale](https://github.com/jeetjawale)
 - [Hemanth P](https://github.com/Hemanth-Py)
@@ -3601,3 +3602,4 @@ Nagaraj M
 - [Subhrajit](https://github.com/blackbird-e1)
 - [Saiii1014](https://github.com/Saiii1014)
 - [Rahul Khade](https://github.com/rahulkhadeeng)
+- [Tanvir Rahman](https://github.com/tanviranindo)
