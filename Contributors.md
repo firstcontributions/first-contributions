@@ -774,6 +774,7 @@ Arman P
 - [Sanjeev Ragunathan](https://github.com/sanjeev-rm)
 - [Nishi Mandhana](https://github.com/nmandhana)
 - [James Hillman]https://github.com/skillman85
+- [Pratik Kharadhara](https://github.com/Pratik-Kharadhara)
 - [Yashwant Nayak](https://github.com/Yashwant990)
 - [Prithviraj Tandel](https://github.com/NSKY0808)
 - [Yamin Hossain] (https://github.com/yamin-H)
