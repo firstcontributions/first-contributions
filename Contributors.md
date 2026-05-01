@@ -3,6 +3,7 @@
 -[Puneet Dixit](https://github.com/puneetdixit200)
 - [Ronit Bhat] (https://github.com/ronit404/first-contributions)
 - [Pablo Avila](https://github.com/paf106)
+- [Prashanta](https://github.com/PrashBytes)
 - [Platostol](https://github.com/Platostol)
 - [yiliangx2](https://github.com/yiliangx2)
 - [GeneLiao](https://github.com/GeneLiaoJY)
