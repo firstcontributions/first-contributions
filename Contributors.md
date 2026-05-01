@@ -156,6 +156,7 @@ Mazin
 - [Ruri Nanto]
 - [Infantraj C]
 - [Rafi'i M](https://github.com/maul-PG)
+- [Shantanu Fadnavis] (https://github.com/Shanny-dot)
 - [Mahmoud Abdelsalam](https://github.com/mahmoudabdelsalammahrous)
 - ([Akshat Rakesh](https://github.com/rakeshakshat67))
 - [Rohit Bisht](https://github.com/lieutenant_geek)
