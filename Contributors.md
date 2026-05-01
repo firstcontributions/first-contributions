@@ -45,6 +45,7 @@ Aronas
 - [Logan Elam](https://github.com/MollaneGreed-Sandbox)
 - [Ali Hamza](https://github.com/M-AliHamza)
 - [Ayush Pratap Singh](https://github.com/zoomgy)
+- [Hello this is new contributtion on the month of june]
 - [Sloki Bhetwal](https://github.com/slokib)
 - [Eunice Leyanda R](https://github.com/EuniceLeyanda-R)
 * __[Ajay Rao](https://github.com/Ajay43634)__
