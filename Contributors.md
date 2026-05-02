@@ -4,6 +4,7 @@
 - [AbdShahrour](https://github.com/AbdShahrour)
 - Khushi Shukla (https://github.com/khushi-shukla-cz)
 - [XervE](https://github.com/devxerve)
+- [MariusBerinde](https://github.com/MariusBerinde)
 - [Priyadarshi Kumar](https://github.com/iPriyadarshi)
 - [Hammad Gul](https://github.com/hammadgul-dev)
 - [Kumari Vaishnavi](https://github.com/vaishnavijha12)
