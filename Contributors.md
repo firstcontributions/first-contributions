@@ -1810,6 +1810,7 @@ Rithvik
 - [Madhav Singh](https://github.com/maddy710)
 - [avinashh10x](https://github.com/avinashh10x)
 - [Madhusudhanan](https://github.com/Madhu192005)
+- [avinashh10x](https://github.com/avinashh10x)
 - [Muhammad Faisal](https://github.com/Muhammad-Faisal-FTA)
 - [Magonborn](https://github.com/MagonBorn)
 - [Mahanthesh S](https://github.com/Mahi2708)
