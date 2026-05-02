@@ -3,6 +3,7 @@
   [Arnav8452](https://github.com/Arnav8452)
 - [AbdShahrour](https://github.com/AbdShahrour)
 - Khushi Shukla (https://github.com/khushi-shukla-cz)
+- [XervE](https://github.com/devxerve)
 - [Priyadarshi Kumar](https://github.com/iPriyadarshi)
 - [Hammad Gul](https://github.com/hammadgul-dev)
 - [Kumari Vaishnavi](https://github.com/vaishnavijha12)
