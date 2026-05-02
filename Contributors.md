@@ -2823,6 +2823,7 @@
 - [Iker Aramendi](https://github.com/IkerAramendi)
 - [Leandro R](http://github.com/leandrortavano)
 - [George Soden](https://github.com/georgesoden)
+- [0xai001](https://github.com/0xai001)
 - [Gia Miminoshvili](https://github.com/giamimino)
 - [DarDrax(Harikishanth)] (https://github.com/Harikishanth)
 - [xql](https://github.com/kirobotdev)
@@ -3529,3 +3530,4 @@
 - [Yash Garg] (https://github.com/Yashgarg0101)
 - [azuki](https://github.com/atou0219)
   [Elyas Aioby] (https://github.com/ElyasAioby)
+- [LosAve](https://github.com/LosAveRoad)
