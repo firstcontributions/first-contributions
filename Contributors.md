@@ -36,6 +36,7 @@
 - [Eric Im] (http://github.com/hs1553)
 - [Jacob Arquiza] (https://github.com/jacobArquiza)
 Aronas
+-[Pratik Bairagi](www.linkedin.com/in/pratik-bairagi-analyst)
 - [Sharad Malviya](https://github.com/SharadMalviya-0)
 - [Samuel Tadele](https://github.com/samuelgt3)
 - [Shivani Saroj](https://github.com/ShivanSaroj)
