@@ -385,6 +385,7 @@ Anshuk
 - Sinthujan Jayaranjan
 - [Brielle Johnston](https://github.com/briefjo)
 - [Jennifer](https://github.com/jdyni)
+- [Shaiza] (https://github.com/shaizaiqubal/)
 - [Ricardo Garcia](https://github.com/michoricardo)
 - [Hemang Patel](https://github.com/Hemang0710)
 - [Owais Ahmad Shah](https://github.com/owaisahmadshah)
