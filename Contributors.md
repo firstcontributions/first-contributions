@@ -22,6 +22,7 @@
 - [yiliangx2](https://github.com/yiliangx2)
 - [GeneLiao](https://github.com/GeneLiaoJY)
 - [Omar Adel](https://github.com/oadel1814)
+- [Isaac John](https://github.com/Isaac-Johnn)
 - [Irham Nur Hakim](https://github.com/irhamnh)
 - [seanmgomez] (https://github.com/seanmgomez)
 - [Tushar](https://github.com/tusharynayaka)
