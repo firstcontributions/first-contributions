@@ -3668,3 +3668,4 @@ Nagaraj M
   [Shruti Shinde](https://github.com/ShrutiiShinde05)
 - [Shaya Bhattacharjee](https://github.com/bhattacharjeeshayan860-netizen)
 - [Deepanshu Singh](https://github.com/deep-xu)
+- sathwika thatiparthi
