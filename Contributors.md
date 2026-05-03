@@ -122,6 +122,7 @@ Aronas
 - [Suraj](https://github.com/surajrastogi1)
 - [Kar Pat] (https://github.com/karpat481)
 - [JyotiPrakash Jangid](https://github.com/jp7107)
+- [Aryan Modi](https://github.com/a-m-0099)
 - [Jyotirmoy Borah](https://github.com/Rvk30)
 - [Hyunwoong Yu](https://github.com/Chocobone)
 - [Nickdetol] (https://github.com/nickdetol)
