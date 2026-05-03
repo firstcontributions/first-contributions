@@ -3638,7 +3638,7 @@ Nagaraj M
 - [Tanvir Rahman](https://github.com/tanviranindo)
 - [Deepak](https://github.com/deestudio028-droid)
 - [Dhruv Pandey] (https://github.com/atetoon)
--[Jiyoung Park](https://github.com/HwawonPjy3044)
+- [Jiyoung Park](https://github.com/HwawonPjy3044)
 - [tadanobutubutu](https://github.com/tadanobutubutu)
 - [Suneha] (https://github.com/sd060902)
 - [Gautam Sharma] (https://github.com/Gautamsharma427)
