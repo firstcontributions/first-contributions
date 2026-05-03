@@ -110,7 +110,7 @@ This will create a copy of this repository in your account.
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button, then on SSH tab and then click the _copy url to clipboard_ icon.
 
-Open a terminal and run the following git command:
+Open a terminal and run the following Git command:
 
 ```bash
 git clone "url you just copied"
@@ -208,7 +208,7 @@ replacing `your-branch-name` with the name of the branch you created earlier.
   <pre>origin	https://github.com/your-username/your_repo.git (fetch)
   origin	https://github.com/your-username/your_repo.git (push)</pre>
   
-  change it using this command:
+  Change it using this command:
   ```bash
   git remote set-url origin git@github.com:your-username/your_repo.git
   ```
