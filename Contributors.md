@@ -130,6 +130,7 @@ Aronas
 - [Girijesh Kumar Rajak](https://github.com/giri89)
 - [Harsh Mundra](https://github.com/harshmundra2311)
 - [Troy Jackson](https://github.com/Troy999s)
+- [zy](https://github.com/)
 - [Jon Gomez](https://github.com/jongomez-sys)
 - [Tamish Ashtankar](https://github.com/Tamish-arch)
 - [Khushal Pareta](https://github.com/Kennny7)
