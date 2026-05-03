@@ -100,6 +100,7 @@ Aronas
 - [Anvarbek Kuvandikov](https://github.com/kuvandikov)
 - [Dibyajyoti Ganguly](https://github.com/dibs02)
 - [alexavancini](https://github.com/alexavancini)
+- [Optimus Prime](https://github.com/DebOps01)
 - [narutobaco](https://github.com/ttdranthanhdat)
 - [Semi] (https://github.com/Sneha-Sah-22-23)
 - [yafiakhtar](https://github.com/yafiakhtar)
