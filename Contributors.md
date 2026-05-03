@@ -149,7 +149,7 @@ Aronas
 - [Surajit](https://github.com/surajit20107)
 - [Chitran Chakraborty](https://github.com/Chitran21Chakraborty)
 - [AMFarhan] (https://github.com/AMFarhan21)
-Nat
+- Meet ra
 - [Jaehoon Son](https://github.com/JaehoonSon)
 - [Harsh Kumar](https://github.com/hars310)
 - [Ashish Verma](https://github.com/ashish39403)
