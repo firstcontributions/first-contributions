@@ -1421,6 +1421,7 @@ Christopher Aguilar
 - [DHANUSH KUMAR A](https://github.com/dhansuhkumar)
 - [Daiwiik Harihar](https://github.com/daiv09)
 - [Daksh Gour](https://github.com/dakshgour)
+- [Guotao Gou](https://github.com/martin-gou/)
 - [Dallin Hogenson](https://github.com/dhogenson)
 - [Daniel Calle](https://github.com/danielocalle)
 - [Dan Qiu](https://github.com/danqiu-dev)
