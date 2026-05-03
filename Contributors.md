@@ -3670,3 +3670,4 @@ Nagaraj M
 - [Deepanshu Singh](https://github.com/deep-xu)
 - sathwika thatiparthi
 - [Kritika](https://github.com/kritss7)
+- [Francisco Lopes](https://github.com/Francisc0Lopes)
