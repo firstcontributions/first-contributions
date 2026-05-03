@@ -1421,6 +1421,7 @@ Christopher Aguilar
 - [DHANUSH KUMAR A](https://github.com/dhansuhkumar)
 - [Daiwiik Harihar](https://github.com/daiv09)
 - [Daksh Gour](https://github.com/dakshgour)
+- [Guotao Gou](https://github.com/martin-gou/)
 - [Dallin Hogenson](https://github.com/dhogenson)
 - [Daniel Calle](https://github.com/danielocalle)
 - [Dan Qiu](https://github.com/danqiu-dev)
@@ -3664,4 +3665,5 @@ Nagaraj M
 - [Shyam Sundar Tyagi](https://studio.youtube.com/channel/UCX3QrKfu1FdxUoB2QlODdMA)
   [Shruti Shinde](https://github.com/ShrutiiShinde05)
 - [Shaya Bhattacharjee](https://github.com/bhattacharjeeshayan860-netizen)
+- [SomeOtherPerson](https://github.com/xyz)
 - [Harshavardhana](https://github.com/harsha151)
