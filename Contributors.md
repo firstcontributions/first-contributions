@@ -114,6 +114,7 @@ Aronas
 - [Suraj](https://github.com/surajrastogi1)
 - [Kar Pat] (https://github.com/karpat481)
 - [JyotiPrakash Jangid](https://github.com/jp7107)
+- [Jyotirmoy Borah](https://github.com/Rvk30)
 - [Hyunwoong Yu](https://github.com/Chocobone)
 - [Nickdetol] (https://github.com/nickdetol)
 - [Luis Ruvalcaba](https://github.com/luisruval)
