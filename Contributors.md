@@ -508,6 +508,7 @@ Anshuk
 - Rancho
 - DevenSpatel 
 - [Lohit T] (https://github.com/itsLohit)
+- FirstCopadoTest (https://github.com/copadocrtuser)
 - [DDuran2007] (https://github.com/DDuran2007)
 - [Edlyn Jessica Philip](https://github.com/edlynjessica)
 - [Rorath](https://github.com/Rorath)
