@@ -240,6 +240,7 @@ Mazin
 - [BpsBaradwaz](https://github.com/Baradwaz-122)
  -[Vidhya Veera](https://github.com/vidhyaveeranellu)
   -[Nakul Kumar Shaw](https://github.com/nakulshaw)
+   - [Emanuel_Alejandro]
  - [Harsh Yadav](https://github.com/harshyadavDeveloper)
 -[Akash Karmakar](https://github.com/Akash-Karma)
 Jyothsna 
