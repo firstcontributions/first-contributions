@@ -180,6 +180,7 @@ Mazin
 - [Mahmoud Abdelsalam](https://github.com/mahmoudabdelsalammahrous)
 - ([Akshat Rakesh](https://github.com/rakeshakshat67))
 - [Rohit Bisht](https://github.com/lieutenant_geek)
+- [Rohit Jain](https://github.com/devrohitj)
 - [Tanishq Chauhan](https://github.com/tanishq-ch)
 - [Francesco Pirazzini](https://github.com/177Frenk)
 -  [Tasfin Mahmud](https://github.com/TasfinMahmud)
