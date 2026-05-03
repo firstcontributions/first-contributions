@@ -227,6 +227,7 @@ Mazin
   -[Nakul Kumar Shaw](https://github.com/nakulshaw)
  - [Harsh Yadav](https://github.com/harshyadavDeveloper)
 -[Akash Karmakar](https://github.com/Akash-Karma)
+Jyothsna 
 - [Deep Parashar](https://github.com/deepparashar)
 - [Max Schwarz](https://github.com/SchwarSaMa)
 - [Sidra Maryam](https://github.com/Sidra-Maryam)
