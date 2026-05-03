@@ -14,6 +14,7 @@ Venkateswaran
 - [Hailrake](https://github.com/zephyrPr1me)
 - [Basel Othman}(https://github.com/brao2004)
 -[Milan Sijo]{https://github.com/milansijo}
+-[Vatsal] (https://github.com/VatsalTrivedi24)
 -[Irina Vertiagina](https://github.com/IrinaVertiagina-hub)
 -[Puneet Dixit](https://github.com/puneetdixit200)
 - [Ronit Bhat] (https://github.com/ronit404/first-contributions)
