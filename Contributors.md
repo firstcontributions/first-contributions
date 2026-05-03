@@ -6,6 +6,7 @@
 - [Abu Bakar Ramzan](https://github.com/yarrbakr)
 - Khushi Shukla (https://github.com/khushi-shukla-cz)
 - [XervE](https://github.com/devxerve)
+- [Sarmila](https://github.com/Sarmila6)
 - [MariusBerinde](https://github.com/MariusBerinde)
 - [Priyadarshi Kumar](https://github.com/iPriyadarshi)
 - [Hammad Gul](https://github.com/hammadgul-dev)
