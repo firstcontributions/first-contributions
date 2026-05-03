@@ -29,6 +29,7 @@ Venkateswaran
 - [Omar Adel](https://github.com/oadel1814)
 - [Isaac John](https://github.com/Isaac-Johnn)
 - [Irham Nur Hakim](https://github.com/irhamnh)
+- [Abdelaziz Hassan Bichr](https://github.com/hollowstarshade)
 - [seanmgomez] (https://github.com/seanmgomez)
 - [Tushar](https://github.com/tusharynayaka)
 - [DEBORAJ ROY](https://github.com/deboraj-roy)
