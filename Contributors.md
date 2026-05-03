@@ -5,6 +5,7 @@ Venkateswaran
 - [Alex Cutler](https://github.com/cacutler)
 -SPK
   [Arnav8452](https://github.com/Arnav8452)
+- [Mrdeyroy](https://github.com/mrdeyroy)
 - [AbdShahrour](https://github.com/AbdShahrour)
 - [Abu Bakar Ramzan](https://github.com/yarrbakr)
 - Khushi Shukla (https://github.com/khushi-shukla-cz)git add
