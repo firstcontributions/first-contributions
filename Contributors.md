@@ -960,6 +960,7 @@ zain
 - [Huzaifa Abdul Rehman](https://github.com/HuzaifaAbdulRehman)
 - [Kaushal Prakash](github.com/kaushal-Prakash)
 - [Kirtan Jain](github.com/kirtanJain21)
+- [Rohit Jain](https://github.com/devrohitj)
 - [Paras Rawat](https://github.com/paras941)
 - [Han](https://github.com/vy088473)
 - [Md. Kamran Alam](https://github.com/mdkamranalam)
