@@ -105,6 +105,7 @@ Aronas
 - [narutobaco](https://github.com/ttdranthanhdat)
 - [Semi] (https://github.com/Sneha-Sah-22-23)
 - [yafiakhtar](https://github.com/yafiakhtar)
+- [Serge Metellus] (https://github.com/CodeSurge97)
 - [Elisha Okara](https://github.com/aehils)
 [Suneel Punnana](https://github.com/suneelpunnana)
 - [alok⚝](https://github.com/thealokverse)
