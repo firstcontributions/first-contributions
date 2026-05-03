@@ -1,9 +1,11 @@
 # Contributors
 Venkateswaran 
+- [Vir-Suppae](https://github.com/vir-suppae) @ 05/03/2026
 -[Preeti Singh](https://github.com/Pr241singh)
 - [Alex Cutler](https://github.com/cacutler)
 -SPK
   [Arnav8452](https://github.com/Arnav8452)
+- [Mrdeyroy](https://github.com/mrdeyroy)
 - [AbdShahrour](https://github.com/AbdShahrour)
 - [Abu Bakar Ramzan](https://github.com/yarrbakr)
 - Khushi Shukla (https://github.com/khushi-shukla-cz)git add
@@ -106,6 +108,7 @@ Aronas
 - [narutobaco](https://github.com/ttdranthanhdat)
 - [Semi] (https://github.com/Sneha-Sah-22-23)
 - [yafiakhtar](https://github.com/yafiakhtar)
+- [Serge Metellus] (https://github.com/CodeSurge97)
 - [Elisha Okara](https://github.com/aehils)
 [Suneel Punnana](https://github.com/suneelpunnana)
 - [alok⚝](https://github.com/thealokverse)
@@ -122,6 +125,7 @@ Aronas
 - [Suraj](https://github.com/surajrastogi1)
 - [Kar Pat] (https://github.com/karpat481)
 - [JyotiPrakash Jangid](https://github.com/jp7107)
+- [Aryan Modi](https://github.com/a-m-0099)
 - [Jyotirmoy Borah](https://github.com/Rvk30)
 - [Hyunwoong Yu](https://github.com/Chocobone)
 - [Nickdetol] (https://github.com/nickdetol)
