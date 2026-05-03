@@ -3669,3 +3669,4 @@ Nagaraj M
 - [Shaya Bhattacharjee](https://github.com/bhattacharjeeshayan860-netizen)
 - [Deepanshu Singh](https://github.com/deep-xu)
 - sathwika thatiparthi
+- [Kritika](https://github.com/kritss7)
