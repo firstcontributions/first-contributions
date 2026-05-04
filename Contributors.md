@@ -3700,4 +3700,5 @@ Nagaraj M
 - [Chetan Kawley] (https://github.com/Chetan-Kawley)
 - [Girisa Murali] (https://github.com/girisa06)
 - Ashiq Iqbal (https://github.com/AshiqIqbal1)
+- [Kiritore] (https://github.com/Kiritore76)
 - [Dante Grassi] (https://github.com/dantegrassi)
