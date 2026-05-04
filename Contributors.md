@@ -3682,3 +3682,4 @@ Nagaraj M
 - [Kritika](https://github.com/kritss7)
 - [Francisco Lopes](https://github.com/Francisc0Lopes)
 - [Vanktesh Dixit] (https://github.com/vankteshdixit/)
+- [Jagriti Aswal] (https://github.com/jagriti-aswal)
