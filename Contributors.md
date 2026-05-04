@@ -218,6 +218,7 @@ Mazin
 - [Eric Teixera](https://github.com/EricTeixeir)
 - [Owen Powell](https://github.com/opowell28)
 - [Rajnandani](https://github.com/rajnandani-80)
+- [Jadar7](https://github.com/Jadar7)
 - [Sean Yu](https://github.com/takagibit18)
 - [Rohan Biswas](https://github.com/DeathGun122)
 - [Gyanendra Yadav](https://github.com/GyanendraYadav7715)
