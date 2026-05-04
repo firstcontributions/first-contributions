@@ -534,6 +534,7 @@ Anshuk
 - [serkansvmz](https://github.com/serkansvmz) 🚀
 - [Muhammad Abrar](https://github.com/Abrar140)
 - [Abhishek](https://github.com/abhishek-21f2000477)
+- [Ethan Aurellano](https://github.com/ethanaurellano)
 -[Aditya Kumar](https://github.com/AdityaKumar188)
 - Divyanshu Kumar
 - Aashi
