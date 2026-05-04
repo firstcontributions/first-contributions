@@ -3693,4 +3693,4 @@ Nagaraj M
 - [Vanktesh Dixit] (https://github.com/vankteshdixit/)
 - [Jagriti Aswal] (https://github.com/jagriti-aswal)
 - [Chetan Kawley] (https://github.com/Chetan-Kawley)
-- [Girisa Murali] (https://github.com/girisa06)
+- [Girisa Murali] (https://github.com/girisa06)- Eric Dotse
