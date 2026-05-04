@@ -233,6 +233,7 @@ Mazin
 - [Faslu Olassery](https://github.com/fasluolassery)
 - [srvsh](https://github.com/0SRVSH)
 - [Chetan Renuka] (https://github.com/crenuka055) Hello, Everyone!
+- [Jim Han](https://github.com/hjim7760-design)
 - [ Ozodbek Fayzullayev ](https://github.com/fayzullayevvvv)
 - [ Mike Benn ](https://github.com/Mike-Benn)
 - [ Ozodbek Fayzullayev ](https://github.com/fayzullayevvvvv)
