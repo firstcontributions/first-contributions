@@ -4,8 +4,10 @@ Venkateswaran
 -[Preeti Singh](https://github.com/Pr241singh)
 -[Rahul Krishnan](https://github.com/Rahul2870-new)
 - [Alex Cutler](https://github.com/cacutler)
-  -SPK
-  [Arnav8452](https://github.com/Arnav8452) -[Daniel Mills](https://github.com/dmills38)
+-SPK
+  [Arnav8452](https://github.com/Arnav8452)
+-[Ayushsharma832](https://github.com/Ayushsharma832)
+-[Daniel Mills](https://github.com/dmills38)
 - [Mrdeyroy](https://github.com/mrdeyroy)
 - [abhishek sharma](https://github.com/abhi5205)
 - [SHARUKA](https://github.com/SHARUKA-2005)
