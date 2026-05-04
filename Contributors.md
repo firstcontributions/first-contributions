@@ -11,6 +11,7 @@ Venkateswaran
 - [Abu Bakar Ramzan](https://github.com/yarrbakr)
 - Khushi Shukla (https://github.com/khushi-shukla-cz)git add
 - [XervE](https://github.com/devxerve)
+- [Vivek Nimbolkar](https://github.com/viveknimbolkar)
 - [Xin Xin](https://github.com/Dearxinxin)
 - [MariusBerinde](https://github.com/MariusBerinde)
 - [Priyadarshi Kumar](https://github.com/iPriyadarshi)
