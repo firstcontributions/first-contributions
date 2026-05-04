@@ -343,6 +343,7 @@ Anshuk
 - [SIDHARTH](https://github.com/Sid-2302)
 [Swapan Rishi(https://github.com/Swapanrishi)
 - [Harsha Nethra](https://github.com/HarshaNethra)
+- [kevinITA](https://github.com/KevinITAn)
 - [shiyu](https://github.com/qinyanzi)
 - [NelsonALima](https://github.com/NelsonALima)
 - [wqpwqp1222](https://github.com/wqpwqp1222)
