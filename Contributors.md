@@ -26,7 +26,8 @@ Venkateswaran
 - [Hammad Gul](https://github.com/hammadgul-dev)
 - [Kumari Vaishnavi](https://github.com/vaishnavijha12)
 - [Hailrake](https://github.com/zephyrPr1me)
-- [Basel Othman}(https://github.com/brao2004)
+- [Basel Othman](https://github.com/brao2004)
+- [Rashadul dev](https://github.com/rashaduldev)
 -[Milan Sijo]{https://github.com/milansijo}
 -[Vatsal] (https://github.com/VatsalTrivedi24)
 -[Irina Vertiagina](https://github.com/IrinaVertiagina-hub)
