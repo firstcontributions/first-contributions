@@ -1850,6 +1850,7 @@ Rithvik
 - [Mahanthesh S](https://github.com/Mahi2708)
 - [Mahdi Es](https://github.com/xNIGMAx)
 - [Mahesh M](https://github.com/chlorophyllus)
+- [yogox](https://github.com/yogox)
 - [Mahip Kaushal](https://github.com/Mahipkaushal)
 - [Mahmud Yusifli](https://github.com/mahmudyusifli)
 - [Majit Mambetzhumayev](https://github.com/majitmambetzhumayev)
