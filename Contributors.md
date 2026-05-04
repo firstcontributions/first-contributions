@@ -1,16 +1,19 @@
 # Contributors
-
-Venkateswaran
-
-- [Vir-Suppae](https://github.com/vir-suppae) @ 05/03/2026 -[Preeti Singh](https://github.com/Pr241singh)
+Venkateswaran 
+- [Vir-Suppae](https://github.com/vir-suppae) @ 05/03/2026
+-[Preeti Singh](https://github.com/Pr241singh)
+-[Rahul Krishnan](https://github.com/Rahul2870-new)
 - [Alex Cutler](https://github.com/cacutler)
   -SPK
   [Arnav8452](https://github.com/Arnav8452) -[Daniel Mills](https://github.com/dmills38)
 - [Mrdeyroy](https://github.com/mrdeyroy)
+- [abhishek sharma](https://github.com/abhi5205)
+- [SHARUKA](https://github.com/SHARUKA-2005)
 - [AbdShahrour](https://github.com/AbdShahrour)
 - [Abu Bakar Ramzan](https://github.com/yarrbakr)
 - Khushi Shukla (https://github.com/khushi-shukla-cz)git add
 - [XervE](https://github.com/devxerve)
+- [Vivek Nimbolkar](https://github.com/viveknimbolkar)
 - [Xin Xin](https://github.com/Dearxinxin)
 - [MariusBerinde](https://github.com/MariusBerinde)
 - [Priyadarshi Kumar](https://github.com/iPriyadarshi)
@@ -19,6 +22,7 @@ Venkateswaran
 - [Hailrake](https://github.com/zephyrPr1me)
 - [Basel Othman}(https://github.com/brao2004) -[Milan Sijo]{https://github.com/milansijo} -[Vatsal] (https://github.com/VatsalTrivedi24) -[Taofeek Lawal] (https://github.com/TEE0207) -[Irina Vertiagina](https://github.com/IrinaVertiagina-hub) -[Puneet Dixit](https://github.com/puneetdixit200)
 - [Ronit Bhat] (https://github.com/ronit404/first-contributions)
+- [Sonakshi Gupta] (https://github.com/sonakshigupta29)
 - [Pablo Avila](https://github.com/paf106)
 - [Prashanta](https://github.com/PrashBytes)
 - [Platostol](https://github.com/Platostol)
@@ -92,6 +96,7 @@ Venkateswaran
 - [Aretha](https://github.com/khinezinthet503-ops/)
 - [Mrigangha](https://github.com/mrigangha/)
 - [Lucas WM] (https://github.com/LUC4SWM)
+- [Rathore Rajpal](https://github.com/Rathore-Rajpal)
 - [Aziz Muntasir](https://github.com/muntasir24)
 - [Sashank Bandi] (https://github.com/SashankB160)
 - - [Randika-Nipun](https://github.com/Randika-Nipun)
@@ -106,6 +111,7 @@ Venkateswaran
 - [narutobaco](https://github.com/ttdranthanhdat)
 - [Semi] (https://github.com/Sneha-Sah-22-23)
 - [yafiakhtar](https://github.com/yafiakhtar)
+- [Ryan Yamamoto](https://github.com/two-airships)
 - [Serge Metellus] (https://github.com/CodeSurge97)
 - [Elisha Okara](https://github.com/aehils)
   [Suneel Punnana](https://github.com/suneelpunnana)
@@ -227,6 +233,7 @@ Venkateswaran
 - [Faslu Olassery](https://github.com/fasluolassery)
 - [srvsh](https://github.com/0SRVSH)
 - [Chetan Renuka] (https://github.com/crenuka055) Hello, Everyone!
+- [Jim Han](https://github.com/hjim7760-design)
 - [ Ozodbek Fayzullayev ](https://github.com/fayzullayevvvv)
 - [ Mike Benn ](https://github.com/Mike-Benn)
 - [ Ozodbek Fayzullayev ](https://github.com/fayzullayevvvvv)
@@ -249,6 +256,7 @@ Venkateswaran
 - [Md.Ahsan Khan](https://github.com/Ahsan-Khan317)
 - [DEBANJAN GHORUI](https://github.com/debanjan100)
 - [Favas](https://github.com/ibfavas)
+- [CodingSayed](https://github.com/CodingSayed)
 - [Arun Eswaran](https://github.com/arun-1312)
 - [David Montenegro](https://github.com/davidomontenegro)
 - [Riya Kushwaha](https://github.com/riyak790)
@@ -1765,6 +1773,7 @@ Venkateswaran
 - [Mahanthesh S](https://github.com/Mahi2708)
 - [Mahdi Es](https://github.com/xNIGMAx)
 - [Mahesh M](https://github.com/chlorophyllus)
+- [yogox](https://github.com/yogox)
 - [Mahip Kaushal](https://github.com/Mahipkaushal)
 - [Mahmud Yusifli](https://github.com/mahmudyusifli)
 - [Majit Mambetzhumayev](https://github.com/majitmambetzhumayev)
@@ -3490,6 +3499,7 @@ Venkateswaran
 - [Liangxiao L](https://github.com/Liangxiao-LI)
 - [Yoshita Singhal](https://github.com/Yoshita09)
 - [Allison Oler] (https://github.com/allisonoler)
+- [Alam Aby Bashit](https://github.com/alamaby)
 - [Parv Garg](https://github.com/parvgarg05/)
 - [JJS](https://github.com/jsng23)
 - [Pankaj Upadhyay](https://github.com/pankaj-cod)
@@ -3570,3 +3580,6 @@ Venkateswaran
 - [Kritika](https://github.com/kritss7)
 - [Francisco Lopes](https://github.com/Francisc0Lopes)
 - [Vanktesh Dixit] (https://github.com/vankteshdixit/)
+- [Jagriti Aswal] (https://github.com/jagriti-aswal)
+- [Chetan Kawley] (https://github.com/Chetan-Kawley)
+- [Girisa Murali] (https://github.com/girisa06)
