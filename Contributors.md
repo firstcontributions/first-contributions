@@ -615,6 +615,7 @@ Anshuk
 -[Prashant Ranjan](https://github.com/23f2002267)
 -[Likitha Nanduri](https://github.com/lnanduri2005)
 -[Subham Sutradhar]("https://github.com/SubhamFlow")
+-[Savera Krishna](https://github.com/saverakrishna)
 -[Divyanshu Kumar](https://github.com/dgiitm)
 -[Deva Nanda M](https://github.com/deva-nanda-m)
 - [Temesgen Geta] (https://github.com/nigusmamo)
