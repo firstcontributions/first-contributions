@@ -53,6 +53,7 @@ Venkateswaran
 - [Irham Nur Hakim](https://github.com/irhamnh)
 - [Abdelaziz Hassan Bichr](https://github.com/hollowstarshade)
 - [seanmgomez] (https://github.com/seanmgomez)
+- [juancrespin](https://github.com/juancrespin)
 - [Tushar](https://github.com/tusharynayaka)
 - [DEBORAJ ROY](https://github.com/deboraj-roy)
 - [Toshal Kirange](https://github.com/toshuuu)
