@@ -2470,6 +2470,7 @@ Alejandro Alfaro
 - [Vito Bondanese](https://github.com/VBVB99)
 - [Vivek S](https://github.com/VivekSarvaiya)
 - [Vivek Soni](https://github.com/vivek-s-soni)
+- [Vivek Gaindhar](https://github.com/vivek-1314/)
 - [Loveyash Singh](https://github.com/Cyber-Py-Coder)
 - [Vivek](https://github.com/Vivek290100)
 - [Vivian](https://github.com/veevian26)
