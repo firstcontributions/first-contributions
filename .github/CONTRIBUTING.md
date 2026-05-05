@@ -49,6 +49,7 @@ If you're making changes to a translation, please request a review from our prev
 | Lietuvių kalba | [Lithuanian](../main/docs/translations/README.lt.md) | [<img width="100" src="https://avatars1.githubusercontent.com/u/9092712?s=460&v=4" alt="@neone35" />](https://github.com/neone35) |
 | Latviešu valoda | [Latvian](../main/docs/translations/README.lv.md) | []() |
 |  | [me](../main/docs/translations/README.me.md) | [<img width="100" src="https://avatars1.githubusercontent.com/u/9092712?s=460&v=4" alt="@neone35">]() |
+| Ryan | [English] | (../main/docs/translations/README.mk.md) | []() |
 | Македонски | [Macedonian](../main/docs/translations/README.mk.md) | []() |
 | മലയാളം | [Malayalam](../main/docs/translations/README.ml.md) | [<img width="100" src="https://avatars.githubusercontent.com/u/3657426?v=4" alt="@yedhukrishnan">](https://github.com/yedhukrishnan) |
 | Burmese | [Burmese](../main/docs/translations/README.mm_unicode.md) | [<img width="100" src="https://avatars0.githubusercontent.com/u/13135332?s=460&v=4" alt="@lwinkyawmyat" />](https://github.com/lwinkyawmyat) |
