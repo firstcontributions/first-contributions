@@ -433,6 +433,7 @@ Anshuk
 - [Yasser Marinho](https://github.com/yasihm)
 - [Bao Khuong](https://github.com/KhuongBao)
 - [John Chavarría](https://github.com/Johnchc10)
+- [John Stankewicz](https://github.com/JStankewicz)
 - [jmoreno]
 - [Himanshu](https://github.com/himanshubit)
 - [Ahmed Rafi](httpd://github.com/ahmed-rafi07)
