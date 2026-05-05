@@ -57,6 +57,7 @@ Venkateswaran
 - [Tushar](https://github.com/tusharynayaka)
 - [DEBORAJ ROY](https://github.com/deboraj-roy)
 - [Toshal Kirange](https://github.com/toshuuu)
+- [Devraj Singh Kurmi] (https://github.com/Dev1139)
 - [RuanK](https://github.com/aspectZA27)
 - [MOHAMED ARRAF](https://github.com/medoxee)
 - [eyoung21](https://github.com/eyoung21)
