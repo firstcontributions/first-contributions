@@ -99,6 +99,7 @@ Aronas
 * __[Ajay Rao](https://github.com/Ajay43634)__
 - [Daizy Nyahay](https://github.com/DesuDucky)
 - [Conor MacMahon](https://github.com/conorjmacmahon)
+- [HasBuen](https://github.com/hasbuen) 
 - [Shantha](https://github.com/shantha26)
 - [rafshanDev90](https://github.com/rafshanDev90)
 - [Abhigna Nimmagadda](https://github.com/4bh1gn4)
