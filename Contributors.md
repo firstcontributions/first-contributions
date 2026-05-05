@@ -124,6 +124,7 @@ Aronas
 - [Lucas WM] (https://github.com/LUC4SWM)
 - [Rania Shaikh] (https://github.com/rain2624)
 - [Rathore Rajpal](https://github.com/Rathore-Rajpal)
+- [Paul E.](https://github.com/PaulE777)
 - [Aziz Muntasir](https://github.com/muntasir24)
 - [Sashank Bandi] (https://github.com/SashankB160)
 - * [Randika-Nipun](https://github.com/Randika-Nipun)
