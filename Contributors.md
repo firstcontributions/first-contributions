@@ -1185,6 +1185,7 @@ itachi
 - [ASaHi Chin](https://github.com/Cxlyq)
 - [Aakash Chauhan](https://github.com/akashinedon)
 - [Aakash Chauhan](https://github.com/akashinedon)
+- [Sachin Mahato](https://github.com/sachin-mahato25)
 - [Aaliyah Raheem](https://github.com/aaliot)
 - [KadenTheHero](https://github.com/KadenTheHero)
 - [Aaqib Javaid](https://github.com/aaqib605)
