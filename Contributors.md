@@ -3756,3 +3756,4 @@ Ndikumana Jean Pierre
 - [Manas Kulkarni](https://github.com/Manas200426)
 -[Rina shewale](www.linkedin.com/in/rina-shewale-652a64327)
 - [Rudra Sarker](https://github.com/rudra496) @ 05/05/2026
+- [Lovish Mehra](https://github.com/Lovish-Mehra-06) @ 05/05/2026
