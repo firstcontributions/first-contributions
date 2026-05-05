@@ -3078,7 +3078,6 @@ Merjen Amanmuradova
 - [Joe Zhang](https://github.com/zhangjoe063-star)
 - [Fiona](https://github.com/Fionaxxxi)
 - [DavidBolaños] (https://github.com/ST4RDVID)
-- [tech-mkwiat] (https://github.com/tech-mkwiat)
 - [Aswathy K R](https://github.com/aswathyy004)
 - [Devansh Mishra](https://github.com/DevanshMishra123)
 - [Shrestho](https://github.com/24f2007173)
