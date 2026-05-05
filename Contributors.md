@@ -282,6 +282,7 @@ Jyothsna
 - [DEBANJAN GHORUI](https://github.com/debanjan100)
 - [Favas](https://github.com/ibfavas)
 - [CodingSayed](https://github.com/CodingSayed)
+anas
 - [Arun Eswaran](https://github.com/arun-1312)
 - [David Montenegro](https://github.com/davidomontenegro)
 - [Riya Kushwaha](https://github.com/riyak790)
