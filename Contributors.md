@@ -1607,6 +1607,7 @@ Steve
 - [Jose Antonio Olmos](https://github.com/Jaolmos)
 - [Siva IITM](https://github.com/siva-IITM)
 - [Gxelol](https://github.com/Gxelol)
+- [Rohit Maity](https://github.com/roohitmaity)
 - [Gyan Prakash](https://github.com/Gyanprakash136)
 - [Gyanam Bhalgat](https://github.com/Gyanam1310)
 - [Harish Wargad](https://github.com/harishwargad)
