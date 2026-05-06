@@ -3770,3 +3770,5 @@ Ndikumana Jean Pierre
 - [Lovish Mehra](https://github.com/Lovish-Mehra-06) @ 05/05/2026
 - [Ved Prakash Arya](https://github.com/vedparkasharya) @ 05/06/2026
 - [Moyou](https://github.com/humm0214) @ 05/06/2026
+- [aarush Pradhan](https://github.com/Aarush-Pradhan) @06/05/2026
+
