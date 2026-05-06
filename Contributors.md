@@ -1298,6 +1298,7 @@ tds
 - [Aryan Mehrotra](https://github.com/aryanmehrotra)
 - [Rushikesh Kadepurkar](https://github.com/RushiK8626)
 - [Danish] (https://github.com/Danish7911)
+[Avanthika]
 Chris
 pizpol
 Ashwin
