@@ -253,6 +253,7 @@ Mazin
 - [Bao Khanh](https://github.com/bluenoe)
 - [Hirendra Kumar Chaurasiya](https://github.com/hirendra84)
 - [Pedro Moraes](https://github.com/pedromoraes-dev)
+- [Takuya Kawase](https://github.com/taku-kawase)
 - [CapyBaraTheKing](https://github.com/molangmalang)
 -[Rishabh Pandey](https://github.com/Lazyproton)
 - [Saad Amjad](https://github.com/saadamjad44)
