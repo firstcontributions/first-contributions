@@ -1608,6 +1608,7 @@ Meshach
 - [Gabriel Augusto](https://github.com/gabrielaugusto23)
 - [Gabriel Pereira Soares](https://github.com/gps47)
 - [Gabriel José](https://github.com/GabrielJnn)
+- [Stéphane LABROT](https://github.com/stephanelab)
 - [Gustavo Henrique]
   [Gustavo Henrique Oliveira P]
 - [Gabriel McKay](https://github.com/Gobrielm)
