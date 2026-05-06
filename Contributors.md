@@ -3772,3 +3772,4 @@ Ndikumana Jean Pierre
 - [Ved Prakash Arya](https://github.com/vedparkasharya) @ 05/06/2026
 - [Moyou](https://github.com/humm0214) @ 05/06/2026
 - [ShawnGoethe](https://github.com/ShawnGoethe) @ 05/06/2026
+- [Kritika Agarwal](https://github.com/naragfc-ppw) @ 05/06/2026
