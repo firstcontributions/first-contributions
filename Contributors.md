@@ -17,6 +17,7 @@ Venkateswaran
   [Arnav8452](https://github.com/Arnav8452)
   [Rupesh Agarwal](https://github.com/rupesh1285)
 -[Ayushsharma832](https://github.com/Ayushsharma832)
+-[Sarthaks-24](https://github.com/Sarthaks-24)
 - [Ajit Kumar Saini](https://github.com/ajitkumarsaini02)
 -[Daniel Mills](https://github.com/dmills38)
 - [Mrdeyroy](https://github.com/mrdeyroy)
