@@ -118,7 +118,7 @@ Taya murna! Ka kawai karanta uwar garken -> kwafin fitarwa -> gyara -> Zazzage s
 
 Duba gudunmawar ku kuma ku raba ta tare da abokanku da mabiyanku ta ziyartar [app app](https://firstcontributions.github.io/#social-share).
 
-Kuna iya shiga cikin ma'aikatan mu na abokantaka idan kuna buƙatar kowane taimako ko kuna da tambayoyi. [Haɗa ƙungiyar slack](https://join.slack.com/t/firstcontr🏴ibutors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWYZm
+Kuna iya shiga cikin ma'aikatan mu na abokantaka idan kuna buƙatar kowane taimako ko kuna da tambayoyi.
 
 Yanzu, bari mu fara da ba da gudummawa don wasu ayyuka. Mun tattara jerin ayyuka masu sauƙi da tattaunawa da za ku iya farawa. Duba [jerin ayyuka da aikace-aikacen yanar gizo](https://firstcontributions.github.io/#project-list).
 
