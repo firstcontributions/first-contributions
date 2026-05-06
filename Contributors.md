@@ -484,6 +484,7 @@ Anshuk
 - [Akash Prajapati](https://github.com/ZERO-DAY-CODE)
 - [Ved Parkash Arya](https://github.com/vedparkasharya)
 - [Vedant Bankewar](https://github.com/VedantBankewar)
+- [matias-soc] (https://github.com/matias-soc)
 - [Pramodkumar Shivanna](https://github.com/pramod05edu-afk)
 - [HRIDAY SARKAR](https://github.com/Hriday-sarkar)
 - [DenisseLedezma](https://github.com/DenisseLedezma)
