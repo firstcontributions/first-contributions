@@ -3788,3 +3788,4 @@ Ndikumana Jean Pierre
 - [Mark Baillie](https://github.com/MarkBaillie)
 - [Macch Chor](https://github.com/mitragairik)
 - [David Herrera](https://github.com/dabidgmz) @ 05/06/2026 
+- [Srujan Amaragatti](https://github.com/Srujan-Amaragatti05) @ 05/06/2026
