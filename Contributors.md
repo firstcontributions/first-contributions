@@ -15,6 +15,7 @@ Venkateswaran
 - [KChan](https://github.com/kuro-chan-art)
 -SPK
   [Arnav8452](https://github.com/Arnav8452)
+  [Rupesh Agarwal](https://github.com/rupesh1285)
 -[Ayushsharma832](https://github.com/Ayushsharma832)
 - [Ajit Kumar Saini](https://github.com/ajitkumarsaini02)
 -[Daniel Mills](https://github.com/dmills38)
