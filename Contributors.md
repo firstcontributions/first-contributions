@@ -12,6 +12,7 @@ Venkateswaran
 -[Preeti Singh](https://github.com/Pr241singh)
 -[Rahul Krishnan](https://github.com/Rahul2870-new)
 - [Alex Cutler](https://github.com/cacutler)
+- [KChan](https://github.com/kuro-chan-art)
 -SPK
   [Arnav8452](https://github.com/Arnav8452)
 -[Ayushsharma832](https://github.com/Ayushsharma832)
