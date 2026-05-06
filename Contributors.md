@@ -1888,6 +1888,7 @@ Rithvik
 - [MC_CLINT](https://github.com/MC-CLINT)
 - [maaz](https://github.com/syed-mohammed-maaz)
 - [Madhav Singh](https://github.com/maddy710)
+- [Darsh](https://github.com/Darsh1118)
 - [avinashh10x](https://github.com/avinashh10x)
 - [Madhusudhanan](https://github.com/Madhu192005)
 - [avinashh10x](https://github.com/avinashh10x)
