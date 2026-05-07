@@ -23,6 +23,7 @@ Venkateswaran
 - [Mrdeyroy](https://github.com/mrdeyroy)
 - [abhishek sharma](https://github.com/abhi5205)
 - [Andre DeHerrera](https://github.com/bluewater82)
+- [ishaac Chninak](https://github.com/ichninak)
 - [Antonia Hernandez](https://github.com/jbeumala-hotmail)
 - [SHARUKA](https://github.com/SHARUKA-2005)
 - [AbdShahrour](https://github.com/AbdShahrour)
