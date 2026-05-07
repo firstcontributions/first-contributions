@@ -3707,6 +3707,7 @@ Oiloo
 - [Sahitya Chaddha](https://github.com/Sahitya3105)
 - [Pranav S](https://github.com/methodmystic)
 - [Liangxiao L](https://github.com/Liangxiao-LI)
+No commits between firstcontributions:main and Harshal-Bsys27:add-harshal-barhate
 - [Yoshita Singhal](https://github.com/Yoshita09)
 - [Allison Oler] (https://github.com/allisonoler)
 - [Alam Aby Bashit](https://github.com/alamaby)
@@ -3733,6 +3734,9 @@ Oiloo
 - [Sadman Sadik Taushif](https://github.com/taushif-arch)
 - [RexChen315](https://github.com/could562073)
 - [Ishan Verma](https://github.com/ishan4432)
+- [Sadman Sadik Taushif](https://github.com/taushif-arch)
+- [RexChen315](https://github.com/could562073)
+- [Harshal Barhate](https://github.com/Harshal-Bsys27)
 - [Mais Sameer](https://github.com/mais-sameer/first-contributions)
 - [Noëlla Vivienne](https://github.com/noellav/)
 - [Vishal](https://github.com/Vishal45718)
