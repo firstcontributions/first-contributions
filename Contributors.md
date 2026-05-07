@@ -127,6 +127,7 @@ Aronas
 - [Karnapu Sravanthi](https://github.com/Sravanthi285)
 - [Umate-Express](https://github.com/Umate-Express)
 - [Cam](https://github.com/cam-gits)
+- [nicvillanes3](https://github.com/nicvillanes3)
 - [Aretha](https://github.com/khinezinthet503-ops/)
 - [Mrigangha](https://github.com/mrigangha/)
 - [Lucas WM] (https://github.com/LUC4SWM)
