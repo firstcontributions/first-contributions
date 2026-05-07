@@ -34,6 +34,7 @@ Venkateswaran
 - [Vivek Nimbolkar](https://github.com/viveknimbolkar)
 - [Kyaw Lin Thu](https://github.com/kyawlinthu123)
 - [Xin Xin](https://github.com/Dearxinxin)
+- [Jkim](https://github.com/jkim1202)
 - [hari prasanna](https://github.com/hpthehacker0)
 - [MariusBerinde](https://github.com/MariusBerinde)
 - [Priyadarshi Kumar](https://github.com/iPriyadarshi)
