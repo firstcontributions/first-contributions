@@ -108,12 +108,14 @@ Aronas
 - [Ayush Pratap Singh](https://github.com/zoomgy)
 - [Hello this is new contributtion on the month of june]
 - [Sloki Bhetwal](https://github.com/slokib)
+- [Anas Khayar](https://github.com/AnasKh21)
 - [Eunice Leyanda R](https://github.com/EuniceLeyanda-R)
 * __[Ajay Rao](https://github.com/Ajay43634)__
 - [Daizy Nyahay](https://github.com/DesuDucky)
 - [kumaraswamy]
 - [Conor MacMahon](https://github.com/conorjmacmahon)
 - [HasBuen](https://github.com/hasbuen) 
+
 - [Shantha](https://github.com/shantha26)
 - [rafshanDev90](https://github.com/rafshanDev90)
 - [Abhigna Nimmagadda](https://github.com/4bh1gn4)
