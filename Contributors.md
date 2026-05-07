@@ -279,6 +279,7 @@ sun y
 - [CapyBaraTheKing](https://github.com/molangmalang)
 -[Rishabh Pandey](https://github.com/Lazyproton)
 - [Saad Amjad](https://github.com/saadamjad44)
+- [Cletus Abumah]
 - [Usman Malik](https://github.com/Usman-Malik121)
 - - [Puneet](https://github.com/puneetrwtz)
 - [mitupatel005]
