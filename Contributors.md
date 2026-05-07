@@ -3877,3 +3877,4 @@ Ndikumana Jean Pierre
 - [Sy Liu](https://github.com/Shunyu-Liu) @ 08/05/2026
 - [Shivanshi Sharma](https://github.com/ShivanshiSharma05)
 - [jaswanthraptati](https://github.com/jaswanthraptati)
+- [Gabriel Eduardo](https://github.com/gabrieleduardo2020)
