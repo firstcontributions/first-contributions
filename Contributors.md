@@ -153,6 +153,7 @@ Aronas
 - [Avi Kaplan] (https://github.com/a-v-i-k)
 - [Anvarbek Kuvandikov](https://github.com/kuvandikov)
 - [Dibyajyoti Ganguly](https://github.com/dibs02)
+- [Veeresh](https://github.com/veeresh4520)
 - [alexavancini](https://github.com/alexavancini)
 - [Optimus Prime](https://github.com/DebOps01)
 - [narutobaco](https://github.com/ttdranthanhdat)
