@@ -85,6 +85,7 @@ Venkateswaran
 - [jatin](https://github.com/jatin0670)
 - [yash1511-bogam](https://github.com/yash1511-bogam)
 - [Akash Chakraborty](https://github.com/deep72p0)
+- [John Landry](https://github.com/yrdnal-c-nhoj/)
 - [Sagasra](https://github.com/Sagasra20)
 - [Christopher Hillebrand] (https://github.com/Yaaramir)
 - [Emma Tumurbat] (https://github.com/enkhemm)
