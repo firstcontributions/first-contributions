@@ -44,6 +44,7 @@ Venkateswaran
 - [Jkim](https://github.com/jkim1202)
 - [hari prasanna](https://github.com/hpthehacker0)
 - [MariusBerinde](https://github.com/MariusBerinde)
+- [Bigerrr](https://github.com/Bigerrr)
 - [Priyadarshi Kumar](https://github.com/iPriyadarshi)
 - [Hammad Gul](https://github.com/hammadgul-dev)
 - [Kumari Vaishnavi](https://github.com/vaishnavijha12)
