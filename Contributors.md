@@ -3790,3 +3790,4 @@ Ndikumana Jean Pierre
 - [David Herrera](https://github.com/dabidgmz) @ 05/06/2026 
 - [Srujan Amaragatti](https://github.com/Srujan-Amaragatti05) @ 05/06/2026
 - [Joseph Villanueva](https://github.com/corpswag) @05/06/2026
+- [Guiilherme Fernandes do bem ](https://github.com/GuilhermeFer31) @06/06/2026
