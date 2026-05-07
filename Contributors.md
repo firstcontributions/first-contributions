@@ -83,6 +83,7 @@ Venkateswaran
 - [Emma Tumurbat] (https://github.com/enkhemm)
 - [Phaneendra Peravarapu](https://github.com/Phaneeeee)
 - [Eric Im] (http://github.com/hs1553)
+- [chrrodri](https://github.com/chrrodri)
 - [Jacob Arquiza] (https://github.com/jacobArquiza)
 Aronas
 -[Pratik Bairagi](www.linkedin.com/in/pratik-bairagi-analyst)
