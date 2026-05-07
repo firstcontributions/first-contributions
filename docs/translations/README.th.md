@@ -11,7 +11,7 @@
 
 โปรดทำใจให้สบาย ยิ่งคุณผ่อนคลายมากเท่าไหร่ คุณก็ยิ่งเรียนรู้ได้ดีมากขึ้นเท่านั้น!
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="ฟอร์กรีโพซิทอรีนี้" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="แยกที่เก็บนี้" />
 
 ถ้าหากคุณยังไม่ได้ติดตั้ง git ลงบนเครื่องของคุณ คุณสามารถ[ติดตั้งได้ที่นี่]( https://help.github.com/articles/set-up-git/)
 
@@ -25,7 +25,7 @@
 
 ## การ "Clone" โปรเจ็ค
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="โคลนรีโพซิทอรีนี้" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="โคลนที่เก็บนี้" />
 
 การ clone โปรเจคนั้น เป็นการ download sourcecode จาก GtiHub repository นั้นๆ มาลงคอมพิวเตอร์ของคุณ
 โดยการคลิ๊กที่ปุ่ม "Clone" แล้วเลือก *Copy to clipboard* (คำสั่งคัดลอก)
@@ -67,7 +67,7 @@ git checkout -b add-alonzo-church
 
 ตอนนี้ให้เปิดไฟล์ `Contributors.md` ในโปรแกรม text editor เพิ่มชื่อของคุณลงไป จากนั้นเซฟไฟล์
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="สถานะ git" />
 
 ในโปรแกรมเทอร์มินอล ถ้าคุณอยู่ที่ directory ของโปรเจ็ค ให้ลองพิมพ์คำสั่ง `git status` จะเห็นว่าคุณได้ทำการเปลี่ยนอะไรไปบ้าง
 
