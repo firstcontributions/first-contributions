@@ -46,6 +46,7 @@ Venkateswaran
 - [Rashadul dev](https://github.com/rashaduldev)
 -[Milan Sijo]{https://github.com/milansijo}
 -[Vatsal] (https://github.com/VatsalTrivedi24)
+-[Krupa] (https://github.com/krupa-1926)
 -[Irina Vertiagina](https://github.com/IrinaVertiagina-hub)
 -[Puneet Dixit](https://github.com/puneetdixit200)
 -[Fahim Akhtar](https://github.com/sovern-dev)
