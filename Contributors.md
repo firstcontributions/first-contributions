@@ -683,6 +683,7 @@ Anshuk
 - [Kava Flask](https://github.com/kavaflask)
 Alicexxxx
 - [rafcode-x](https://github.com/rafcode-x)
+- [oillypump](https://github.com/oillypump)
 - [MdSourav76046](https://github.com/MdSourav76046)
 - [Manavarrp](https://github.com/manavarrp)
 - [Somesh Singh](https://github.com/YOUR-USERNAME)
@@ -3806,3 +3807,5 @@ Ndikumana Jean Pierre
 - [Rugved Chandekar](https://github.com/Rugvedrc) 
 - [Nachiket Shinde](https://github.com/Nachiket858) @ 07/06/2026
 - [Rtjsx]
+- - [Jimmy88-8](https://github.com/Jimmy88-8)@ 07/05/2026
+- [Sarim Khan](https://github.com/kyouexe) @ 07/05/2026
