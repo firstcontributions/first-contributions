@@ -367,6 +367,7 @@ Anshuk
 - [Devashish Pisal](https://github.com/Devashish-Pisal)
 - [Kanta Komoike](https://github.com/komoike-oss28-ui)
 - [SirGhaniR](https://github.com/SirGhaniR)
+- [Vinayak Handa](https://github.com/vinayakhanda)
 - [Kolahalan](https://github.com/Kolahalan06)
 - [Ajay Sawandkar](https://github.com/ajaysawandkar05)
 - [Pranav Sawant](https://github.com/ItzPranav61)
