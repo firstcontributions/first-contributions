@@ -799,6 +799,7 @@ Vinayakrishna
 - [Esneider Veliz Guerrero](https://github.com/Esneider1107)
 - [Madhuri H S](https://github.com/MADHURI-HS)
 - [Jose Daniel Mesa](https://github.com/Jdmesa)
+- [Jeevan-1205](https://github.com/Jeevan-1205)
 - [Alessandro Gomez]
 - [Hans Levy]
 - [Tejas MS](https://github.com/TejasMS1356)
