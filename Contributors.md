@@ -3755,6 +3755,7 @@ Nagaraj M
 - [Francisco Lopes](https://github.com/Francisc0Lopes)
 - [Vanktesh Dixit] (https://github.com/vankteshdixit/)
 - [Jagriti Aswal] (https://github.com/jagriti-aswal)
+- [Chester] (https://github.com/ccorpuz)
 - [Chetan Kawley] (https://github.com/Chetan-Kawley)
 - [Girisa Murali] (https://github.com/girisa06)
 - Ashiq Iqbal (https://github.com/AshiqIqbal1)
