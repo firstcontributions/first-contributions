@@ -60,6 +60,7 @@ Venkateswaran
 - [Isaac John](https://github.com/Isaac-Johnn)
 - [Irham Nur Hakim](https://github.com/irhamnh)
 - [Abdelaziz Hassan Bichr](https://github.com/hollowstarshade)
+- [Durga Prasad](https://github.com/Durgaprasad-Developer)
 - [seanmgomez] (https://github.com/seanmgomez)
 - [juancrespin](https://github.com/juancrespin)
 - [Tushar](https://github.com/tusharynayaka)
