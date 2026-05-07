@@ -3699,6 +3699,7 @@ Oiloo
 - [Allison Oler] (https://github.com/allisonoler)
 - [Alam Aby Bashit](https://github.com/alamaby)
 - [Parv Garg](https://github.com/parvgarg05/)
+- [Pritha Panjal](https://github.com/prithapanjal) 🚀
 - [JJS](https://github.com/jsng23)
 - [Pankaj Upadhyay](https://github.com/pankaj-cod)
 - [Dgull] (https://github.com/Dgull617)
