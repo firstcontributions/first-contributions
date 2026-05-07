@@ -867,6 +867,7 @@ Arman P
 - [Mariana Garcia Marin](https://github.com/milkira)
 - [Nathaniel Marin](https://github.com/HorrySheet11)
 - [Deepthikaa Nandhakumar](https://github.com/deepthikaa77)
+- [Jesse E](https://github.com/Peacanduck)
 - [Aya Driouche](https://github.com/aya119119)
 - [Olatemilode](https://github.com/olatemilode
 - [Ben Cruwys](https://github.com/bencruwys)
