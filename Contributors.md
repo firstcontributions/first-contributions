@@ -87,8 +87,7 @@ Venkateswaran
 Aronas
 -[Pratik Bairagi](www.linkedin.com/in/pratik-bairagi-analyst)
 - [Sharad Malviya](https://github.com/SharadMalviya-0)
-- [Samuel Tadele](https://github.com/samuelgt3)
-- [Shivani Saroj](https://github.com/ShivanSaroj)
+-[Tony Lee] (https://github.com/yonteels)
 - [Manraj Singh](https://github.com/manrajs1)
 - [SkyDragon43](https://github.com/SkyDragon43)
 - [Haaris Naseeb](https://github.com/Harriis10)
