@@ -62,7 +62,7 @@
 <kbd>[<img title="Tiếng Việt" alt="Tiếng Việt" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/vn.svg" width="22">](README.vn.md)</kbd>
 <kbd>[<img title="Tanzania" alt="Swahili language" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/tz.svg" width="22">](README.sw.md)</kbd>
 <kbd>[<img title="Zulu (South Africa)" alt="Zulu (South Africa)" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/za.svg" width="22">](README.zul.md)</kbd>
-<kbd>[<img title="Afrikaans (South Africa)" alt="Afrikaans (South Africa)" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/za.svg" width="22">](README.afk.md)</kbd>
+<kbd>[<img title="Afrikaans (South Africa)" alt="Afrikaans (South Africa)" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/za.svg" width="22">](README.af.md)</kbd>
 <kbd>[<img title="Igbo (Nigeria)" alt="Igbo (Nigeria)" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ng.svg" width="22">](README.igb.md)</kbd>
 <kbd>[<img title="Bambara (Mali)" alt="Bambara (Mali)" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ml.svg" width="22">](README.mli.md)</kbd>
 <kbd>[<img title="Hausa (Nigeria)" alt="Hausa (Nigeria)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Flag_of_the_Hausa_people.svg/1280px-Flag_of_the_Hausa_people.svg.png" width="22">](README.hau.md)</kbd>

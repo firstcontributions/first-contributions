@@ -58,7 +58,7 @@
 <kbd>[<img title="Українська" alt="Українська" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ua.svg" width="22">](translations/README.ua.md)</kbd>
 <kbd>[<img title="Tiếng Việt" alt="Tiếng Việt" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/vn.svg" width="22">](translations/README.vn.md)</kbd>
 <kbd>[<img title="Zulu (South Africa)" alt="Zulu (South Africa)" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/za.svg" width="22">](translations/README.zul.md)</kbd>
-<kbd>[<img title="Afrikaans (South Africa)" alt="Afrikaans (South Africa)" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/za.svg" width="22">](translations/README.afk.md)</kbd>
+<kbd>[<img title="Afrikaans (South Africa)" alt="Afrikaans (South Africa)" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/za.svg" width="22">](translations/README.af.md)</kbd>
 <kbd>[<img title="Igbo (Nigeria)" alt="Igbo (Nigeria)" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ng.svg" width="22">](translations/README.igb.md)</kbd>
 <kbd>[<img title="Yoruba (Nigeria)" alt="Yoruba (Nigeria)" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ng.svg" width="22">](translations/README.yor.md)</kbd>
 <kbd>[<img title="Hausa (Nigeria)" alt="Hausa (Nigeria)" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ng.svg" width="22">](translations/README.hau.md)</kbd>
