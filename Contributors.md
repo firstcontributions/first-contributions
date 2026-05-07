@@ -101,6 +101,7 @@ Aronas
 - [Haaris Naseeb](https://github.com/Harriis10)
 - [Guillaume Laborie](https://github.com/glaborie)
 - Eric Hancock
+- rachit bhushan sharma (https://github.com/Rachit2115)
 [Maly Rosenstein](https://github.com/MalyRosenstein1)
 - [calvinxu](https://github.com/calvinxu123456-hue)
 - [SE Jihad](https://github.com/sejihad)
