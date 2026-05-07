@@ -273,7 +273,6 @@ sun y
 - [Usman Malik](https://github.com/Usman-Malik121)
 - - [Puneet](https://github.com/puneetrwtz)
 - [mitupatel005]
-- [Tara] (https://github.com/Tar4zed)
 - [Martyna Budrewicz](https://github.com/martbudr)
 - [Michael Kim] (https://github.com/mikecode124)
 - [Stacy Hilliard](https://github.com/stacyah)
