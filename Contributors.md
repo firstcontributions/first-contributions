@@ -361,6 +361,7 @@ Anshuk
 - [Daniel Vargas](https://github.com/huanguelen)
 - [Kiran0548](https://github.com/Kiran0548)
 - [drik12](https://github.com/drik12)
+- [u3Bepr3] (https://github.com/u3Bepr3)
 - [Vrinda0211](https://github.com/Vrinda0211)
 - [Aryan Gupta](https://github.com/aryanthepain)
 - [Minh Anh Tran](https://github.com/MinhTran283)
