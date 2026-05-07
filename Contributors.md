@@ -3805,4 +3805,4 @@ Ndikumana Jean Pierre
 - [Vivek Sharma](https://githu.com/vivekcodespace-arch/)
 - [Rugved Chandekar](https://github.com/Rugvedrc) 
 - [Nachiket Shinde](https://github.com/Nachiket858) @ 07/06/2026
-- [Rtjsx](https://github.com/rtjsx)
+- [Rtjsx]
