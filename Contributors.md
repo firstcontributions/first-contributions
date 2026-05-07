@@ -1855,7 +1855,7 @@ Meshach
 - [Kavana Ganesh](https://github.com/KavanaGanesh-dev)
 - [David Guo]
 - [Kandepu Naga Venkata Manideep](https://github.com/manideep-777)
-
+- [Kurt Jonathan Gozano](https://github.com/jonavoidd)
 - [Kannan Ramaswamy](https://github.com/lkannan)
 - [Kang Chenghua](https://github.com/chenghuakang)
 - [KavindiD](https://github.com/KavindiD)
