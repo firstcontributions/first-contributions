@@ -47,6 +47,7 @@ Venkateswaran
 -[Vatsal] (https://github.com/VatsalTrivedi24)
 -[Irina Vertiagina](https://github.com/IrinaVertiagina-hub)
 -[Puneet Dixit](https://github.com/puneetdixit200)
+-[Fahim Akhtar](https://github.com/sovern-dev)
 - [Ronit Bhat] (https://github.com/ronit404/first-contributions)
 - [Sonakshi Gupta] (https://github.com/sonakshigupta29)
 - [Pablo Avila](https://github.com/paf106)
@@ -3802,3 +3803,5 @@ Ndikumana Jean Pierre
 - [Dinesh Suthaar](https://github.com/dineshsuthar31) @ 06/05/2026
 - [7000frank](https://github.com/7000frank)
 - [Vivek Sharma](https://githu.com/vivekcodespace-arch/)
+- [Rugved Chandekar](https://github.com/Rugvedrc) 
+- [Nachiket Shinde](https://github.com/Nachiket858) @ 07/06/2026
