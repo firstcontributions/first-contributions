@@ -195,7 +195,8 @@ Aronas
 - [Axlhnbi](https://github.com/axlhnbi)
 - [Dhiraj Gurung] (https://github.com/dhirajgrg)
 - [AYUSHMAN SHARMA](https://github.com/Arachnodev-AYUSHMAN1617)
-- Nect 
+- Nect
+- [Agrawal Sujal] (https://github.com/AgrawalSujal/)
 - [German Morelli](https://github.com/GermanMorelli)
 - [Malcon Simbi](https://github.com/malconsimbi)
 - Ayush Bhushan(https://github.com/Codewizard1312) 
