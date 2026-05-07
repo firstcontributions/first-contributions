@@ -326,7 +326,7 @@ anas
 - [Anagh VP](https://github.com/an9gh)
 - [Liam Muro](https://github.com/liammuro)
 -[Binod Gogoi](https://github.com/gogoib477)
--[Parth Lodha](https://github.com/parthlodha)
+-[Khushi Tiwari](https://github.com/Thisisaindia)
 -[Paravin Mulla](https://github.com/ParavinMulla786)
 - [Amulya Harish](...)
 - [Rand P]
