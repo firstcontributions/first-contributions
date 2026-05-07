@@ -801,6 +801,7 @@ Vinayakrishna
 - [uehjriw]
 - [testuser]
 - hello macha, hengidiya
+- super maga
 - [Luiz Eduardo Oliveira Mendes](https://github.com/DuduBz7)
 - [Vivian](https://github.com/vivianps29)
 - [Kaustubh](https://github.com/kaustubhdeshmukh11)
