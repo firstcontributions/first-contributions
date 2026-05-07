@@ -68,8 +68,8 @@
 <kbd>[<img title="Српски" alt="Српски" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/rs.svg" width="22">](translations/README.sr-Cyrl.md)</kbd>
 <kbd>[<img title="Srpski" alt="Srpski" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/rs.svg" width="22">](translations/README.sr-Latn.md)</kbd>
 <kbd>[<img title="Қазақша" alt="Қазақша" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/kz.svg" width="22">](translations/README.kz.md)</kbd>
-<kbd>[<img title="Bosanski" alt="Bosanski" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ba.svg" width="22">](translations/README.bih.md)</kbd>
-<kbd>[<img title="Bosanski" alt="Bosanski" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/et.svg" width="22">](translations/README.bih.md)</kbd>
+<kbd>[<img title="Bosanski" alt="Bosanski" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ba.svg" width="22">](translations/README.bs.md)</kbd>
+<kbd>[<img title="Bosanski" alt="Bosanski" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/et.svg" width="22">](translations/README.bs.md)</kbd>
 <kbd>[<img title="Hrvatski" alt="Hrvatski" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/hr.svg" width="22">](translations/README.hr.md)</kbd>
 <kbd>[<img title="پښتو" alt="پښتو" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/af.svg" width="22">](translations/README.ps.md)</kbd>
 <kbd>[<img title="Af-soomaali" alt="Somalia" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/so.svg" width="22">](translations/README.so.md)</kbd>
