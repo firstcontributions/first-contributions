@@ -604,6 +604,7 @@ Anshuk
 - [hahaysh](https://github.com/hahaysh)
 - [muard](https://github.com/murad-1999)
 - [Rajath Kiran A](https://github.com/Rajath2005)
+- [Judah Finley](https://github.com/jjfinleyLiberty)
 -[Sanskriti Mishra](https://github.com/sanskriti234)
 - [Santosh Thakur](https://github.com/sangamewin)
 - [Shivam Honrao](https://github.com/ShivamH1)
