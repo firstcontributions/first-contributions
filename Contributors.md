@@ -127,6 +127,7 @@ Aronas
 - [Shantha](https://github.com/shantha26)
 - [rafshanDev90](https://github.com/rafshanDev90)
 - [Abhigna Nimmagadda](https://github.com/4bh1gn4)
+- [wish-nu-thecreator](https://github.com/wish-nu-thecreator)
 - [Leo Bartron](https://github.com/lbartron)
 - [Mohammad Jahanseir](https://github.com/mjahanseir)
 - [Hua](https://github.com/NgKokHua/first-contributions.git)
