@@ -3793,4 +3793,5 @@ Ndikumana Jean Pierre
 - [Joseph Villanueva](https://github.com/corpswag) @05/06/2026
 - [Guiilherme Fernandes do bem ](https://github.com/GuilhermeFer31) @06/06/2026
 - [Felipe Milani] (https://github.com/felipemilani)
-- [Manash Jyoti Mahanta](https://github.com/Tanmay0906) @07/05/2026
+- [Manash Jyoti Mahanta](https://github.com/Tanmay0906) @07/05/2026]  
+- [Breno Almeida ds web] https://github.com/resendebreno
