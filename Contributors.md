@@ -3790,6 +3790,7 @@ No commits between firstcontributions:main and Harshal-Bsys27:add-harshal-barhat
 - [LosAve](https://github.com/LosAveRoad)
 - [Harika Parlapalli](https://github.com/harikaparlapalli)
 - [Wang](https://github.com/xjtu-wang)
+- [Hardik Kaurani](https://github.com/hardikkaurani)
 - [Romy Zeiss](https://github.com/JeMaNd-r)
 - [Sanjay](https://github.com/SanjayMuthuswamy)
 - [Deepsikha Dash](https://github.com/deepsikha-dash)
