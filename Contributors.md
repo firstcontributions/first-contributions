@@ -183,6 +183,7 @@ Aronas
 - Nect 
 - [Crescent](https://github.com/Crescent152)
 - [Malcon Simbi](https://github.com/malconsimbi)
+- Ayush Bhushan(https://github.com/Codewizard1312) 
 - [Nakhat Parveen] (https://github.com/nakhat-parveen/)
 - [minsiiu](https://github.com/minsiiu)
 - [hamandres] (https://github.com/ham-andres)
@@ -234,6 +235,8 @@ sun y
 - I am here now, popopwopwop
 - [Peeyush Kr Singh](https://github.com/Peeyush3587)
 - [Caren Chepngetich](https://github.com/caren580)
+- Ayush Bhushan(https://github.com/Codewizrd1312)
+- 
 - [Akinfolabi A.]
 - [Ruri Nanto]
 - [Infantraj C]
