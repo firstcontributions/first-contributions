@@ -1647,6 +1647,7 @@ Meshach
 - [Harsh](https://github.com/harsh5d5)
 - [Evan Rhea](https://github.com/MegaSF)
 - Evangelin
+- [Adam LaRusso](https://github.com/Nyagamun)
 - [Ezra K](https://github.com/EzraKL)
 - [Samudraneel](https://github.com/23f3002744)
 - [Farmata Kane](https://github.com/miiswom)
