@@ -13,6 +13,7 @@ Venkateswaran
 - [Vir-Suppae](https://github.com/vir-suppae) @ 05/03/2026
 - Ty Patrick
 - [Abhishek Dam](https://github.com/abhishekdam) @ 05/05/2026
+- [Haziqfr](https://github.com/haziqfr/) @ 05/08/2026
 -[Preeti Singh](https://github.com/Pr241singh)
 -[Rahul Krishnan](https://github.com/Rahul2870-new)
 - [Alex Cutler](https://github.com/cacutler)
