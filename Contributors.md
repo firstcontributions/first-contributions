@@ -2176,6 +2176,7 @@ Alejandro Alfaro
 - [Pradeep Reddy](https://github.com/Pradeep0997)
 - [Pragati Priya](https://github.com/pragati-2004)
 - [Prajaka Jagdale](https://github.com/Hermione28)
+- [Prakhar Singh](https://github.com/praks0301)
 - [Prakhar Tripathi](https://github.com/prakhart07)
 - [Prakkhar](https://github.com/prktypes)
 - [Pramod Dhungana](https://github.com/dhunganapramod9)
