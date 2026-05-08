@@ -16,6 +16,7 @@ Venkateswaran
 - Ty Patrick
 - [Haziqfr](https://github.com/haziqfr/) @ 05/08/2026
 - [Abhishek Dam](https://github.com/abhishekdam) @ 05/05/2026
+- [Patrick Zoungla] (https://github.com/KoujoX) @ 08/05/2026
 -[Preeti Singh](https://github.com/Pr241singh)
 -[Rahul Krishnan](https://github.com/Rahul2870-new)
 - [Alex Cutler](https://github.com/cacutler)
