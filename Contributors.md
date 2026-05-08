@@ -128,6 +128,7 @@ Aronas
 * __[Ajay Rao](https://github.com/Ajay43634)__
 - [Daizy Nyahay](https://github.com/DesuDucky)
 - [kumaraswamy]
+- [Nina Borodin](https://github.com/ninaborodin)
 - [Conor MacMahon](https://github.com/conorjmacmahon)
 - [HasBuen](https://github.com/hasbuen) 
 - [Shubham Kumar](https://github.com/shubhamkr0142)
