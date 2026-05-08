@@ -1,11 +1,10 @@
 {{# Contributors
 -[Abraham Porras-Vargas](https://github.com/abrahamporras)
-
+- [Van da Man](https://github.com/pietievannieplaas)
 -[Luis Ruvalcaba](https://github.com/luisruval)
 -[Ikunda Patrick Ngoiya] (https://github.com/de-hacker369)
 Venkateswaran 
 -[Juan Aldana] (https://github.com/johnalda)
-
 -[Jatin Kumar](https://github.com/jatinydu)
 - [Asmat Ullah Khan] (https://github.com/Asmat01)
 -[Chen Hu](https://github.com/hc00125)
