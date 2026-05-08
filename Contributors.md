@@ -1,4 +1,5 @@
 {{# Contributors
+
 -[Abraham Porras-Vargas](https://github.com/abrahamporras)
 
 -[Luis Ruvalcaba](https://github.com/luisruval)
@@ -13,6 +14,7 @@ Venkateswaran
 - [Vir-Suppae](https://github.com/vir-suppae) @ 05/03/2026
 - Ty Patrick
 - [Abhishek Dam](https://github.com/abhishekdam) @ 05/05/2026
+-[SMungai.Dev](https://github.com/MungaiMwangi001) @ 08/05/2026
 -[Preeti Singh](https://github.com/Pr241singh)
 -[Rahul Krishnan](https://github.com/Rahul2870-new)
 - [Alex Cutler](https://github.com/cacutler)
