@@ -1693,6 +1693,7 @@ Meshach
 - [HaidarAbbas](https://github.com/Haidarabbas731)
 - [Haiqal Hasly](https://github.com/haiqalhasly)
 - [Hamza Qureshi](https://github.com/hamzaq453)
+- [Haneesh Reddy](https://github.com/Haneesh99)
 - [Hannan Nasim](https://github.com/Hannan-Nasim)
 - [Hanna Lozano](https://github.com/hannalozano)
 - [Rohit Verma](https://github.com/rohitv33)
