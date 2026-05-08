@@ -3900,3 +3900,4 @@ John Doe
 - [Jacoy yu](https://github.com/meloer101)
 - Pratik Arun Parjane
 - Brad D.
+- [Aldiyar Kassenov](https://github.com/T0Rt52)
