@@ -506,6 +506,7 @@ Anshuk
 - [Manjunatha P](https://github.com/namelessweakl1ng)
 - Manini Chhabra
 - [Shruti627](https://github.com/Shruti627)
+- [Muhammad Muaaz](https://github.com/MuhammadMuaaz007)
 - [Sadiya Bhokare](https://github.com/sadiyabhokare)
 - Felipe Soler
 - [Samika Shokeen](https://github.com/samika692006)
