@@ -1084,6 +1084,7 @@ zain
 - [Kaushal Prakash](github.com/kaushal-Prakash)
 - [Kirtan Jain](github.com/kirtanJain21)
 - [Rohit Jain](https://github.com/devrohitj)
+- [Dev Srijit](https://github.com/Devs7026)
 - [Paras Rawat](https://github.com/paras941)
 - [Han](https://github.com/vy088473)
 - [Md. Kamran Alam](https://github.com/mdkamranalam)
