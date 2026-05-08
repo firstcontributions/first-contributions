@@ -22,6 +22,7 @@ Venkateswaran
 - [KChan](https://github.com/kuro-chan-art)
 -SPK
   [Arnav8452](https://github.com/Arnav8452)
+-[Samveg Jain](https://github.com/samvegjain13)
   [Rupesh Agarwal](https://github.com/rupesh1285)
 -[Ayushsharma832](https://github.com/Ayushsharma832)
 -[Sarthaks-24](https://github.com/Sarthaks-24)
