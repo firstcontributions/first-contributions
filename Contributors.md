@@ -221,6 +221,7 @@ Aronas
 - [zy](https://github.com/)
 - [Jon Gomez](https://github.com/jongomez-sys)
 - [Tamish Ashtankar](https://github.com/Tamish-arch)
+- [Ricidleiv](https://github.com/tondatto)
 - [Khushal Pareta](https://github.com/Kennny7)
 - [Garv Choure](https://github.com/garvv29)
 - [Jimmy Mayta](https://github.com/jimmymayta)
