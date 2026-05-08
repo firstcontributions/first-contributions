@@ -61,6 +61,7 @@ Venkateswaran
 - [Sonakshi Gupta] (https://github.com/sonakshigupta29)
 - [Pablo Avila](https://github.com/paf106)
 - [Prashanta](https://github.com/PrashBytes)
+- [DelmedigoA] (https://github.com/DelmedigoA)
 - [Platostol](https://github.com/Platostol)
 - [Sneha Kumari](https://github.com/snehapriy958)
 - [jose beumala](https://github.com/jbeumala-hotmail)
