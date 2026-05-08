@@ -128,6 +128,7 @@ Aronas
 - [kumaraswamy]
 - [Conor MacMahon](https://github.com/conorjmacmahon)
 - [HasBuen](https://github.com/hasbuen) 
+- [Shubham Kumar](https://github.com/shubhamkr0142)
 
 - [Shantha](https://github.com/shantha26)
 - [rafshanDev90](https://github.com/rafshanDev90)
