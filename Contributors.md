@@ -7,7 +7,8 @@ Venkateswaran
 -[Juan Aldana] (https://github.com/johnalda)
 
 -[Jatin Kumar](https://github.com/jatinydu)
--[Amarnath Kumar]([https://github.com/jatinydu](https://github.com/Amarsah15))
+
+-[Amarnath Kumar](https://github.com/Amarsah15)
 - [Asmat Ullah Khan] (https://github.com/Asmat01)
 -[Chen Hu](https://github.com/hc00125)
 - [Asmat Ullah Khan](https://github.com/Asmat01)
