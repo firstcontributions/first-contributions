@@ -10,6 +10,7 @@ Venkateswaran
 
 - [Amarnath Kumar](https://github.com/Amarsah15)
 - [Asmat Ullah Khan] (https://github.com/Asmat01)
+- [Sahil Patel] (https://github.com/sahilpatel0oo7)
 -[Chen Hu](https://github.com/hc00125)
 - [Asmat Ullah Khan](https://github.com/Asmat01)
 - [Vir-Suppae](https://github.com/vir-suppae) @ 05/03/2026
@@ -3896,4 +3897,6 @@ John Doe
 [mahir_3161](https://github.com)
 - [abdy mohameden](https://github.com/mohameden19961)
 - [vraj gajjar](https://github.com/Vrajcoding)
+- [Charly Islami](https://github.com/CharlyIslami)
+- [Jacoy yu](https://github.com/meloer101)
 - Pratik Arun Parjane
