@@ -64,6 +64,7 @@ Venkateswaran
 -[Vatsal] (https://github.com/VatsalTrivedi24)
 -[Krupa] (https://github.com/krupa-1926)
 -[Irina Vertiagina](https://github.com/IrinaVertiagina-hub)
+- [Tiago Davila](https://github.com/Tiago-Davila)
 -[Puneet Dixit](https://github.com/puneetdixit200)
 -[Fahim Akhtar](https://github.com/sovern-dev)
 - [Ronit Bhat] (https://github.com/ronit404/first-contributions)
