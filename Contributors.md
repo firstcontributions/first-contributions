@@ -130,6 +130,7 @@ Aronas
 - [Logan Elam](https://github.com/MollaneGreed-Sandbox)
 - [Ali Hamza](https://github.com/M-AliHamza)
 - [Ayush Pratap Singh](https://github.com/zoomgy)
+- [BHAVYA GAUR](https://github.com/Whimsical-Maverick)
 - [Hello this is new contributtion on the month of june]
 - [Sloki Bhetwal](https://github.com/slokib)
 - [Anas Khayar](https://github.com/AnasKh21)
