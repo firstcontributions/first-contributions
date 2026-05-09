@@ -287,6 +287,7 @@ sun y
 - [Eric Teixera](https://github.com/EricTeixeir)
 - [Owen Powell](https://github.com/opowell28)
 - [Aayushi](https://github.com/aayushiie)
+- [Aditya Karna](https://github.com/aytida-anrak)
 - [Rajnandani](https://github.com/rajnandani-80)
 - [Jadar7](https://github.com/Jadar7)
 - [Sean Yu](https://github.com/takagibit18)
