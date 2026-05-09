@@ -27,6 +27,7 @@ Venkateswaran
 - [Alex Cutler](https://github.com/cacutler)
 - [KChan](https://github.com/kuro-chan-art)
 -SPK
+- [Nandakishore] (https://github.com/kishore1422)
   [Arnav8452](https://github.com/Arnav8452)
 -[Samveg Jain](https://github.com/samvegjain13)
   [Rupesh Agarwal](https://github.com/rupesh1285)
@@ -131,6 +132,7 @@ Aronas
 - [Logan Elam](https://github.com/MollaneGreed-Sandbox)
 - [Ali Hamza](https://github.com/M-AliHamza)
 - [Ayush Pratap Singh](https://github.com/zoomgy)
+- [BHAVYA GAUR](https://github.com/Whimsical-Maverick)
 - [Hello this is new contributtion on the month of june]
 - [Sloki Bhetwal](https://github.com/slokib)
 - [Anas Khayar](https://github.com/AnasKh21)
@@ -3937,5 +3939,7 @@ John Doe
 - [Guus Rotte](https://github.com/gamekiller2073) @ 05/09/2026
 - [Yash_dev](https://github.com/Yashwant001-git) 09/05/2026
 -[Sweta Gupta](https://github.com/Sweta-205)
+-[Jamesk Allen](https://github.com/helix1003)
 [Bala](https://github.com/bala444learning-png)
 [Rakesh varma sirivuri] (https://github.com/Rakeshvarma007)@ 9th march 2026
+[Janhvi Soni](https://github.com/janhvisoni804)
