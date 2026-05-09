@@ -10,6 +10,7 @@ Venkateswaran
 -[Jatin Kumar](https://github.com/jatinydu)
 - [Asmat Ullah Khan] (https://github.com/Asmat01)
 - [Sahil Patel] (https://github.com/sahilpatel0oo7)
+- Jeff Philips
 -[Chen Hu](https://github.com/hc00125)
 - [Asmat Ullah Khan](https://github.com/Asmat01)
 - [Vir-Suppae](https://github.com/vir-suppae) @ 05/03/2026
