@@ -19,6 +19,7 @@ Venkateswaran
 - [Abhishek Dam](https://github.com/abhishekdam) @ 05/05/2026
 - [Patrick Zoungla] (https://github.com/KoujoX) @ 08/05/2026
 -[Preeti Singh](https://github.com/Pr241singh)
+-[Anshu Dagur](https://github.com/DagurAnshu)
 -[Rahul Krishnan](https://github.com/Rahul2870-new)
 - [Alex Cutler](https://github.com/cacutler)
 - [KChan](https://github.com/kuro-chan-art)
