@@ -1,5 +1,6 @@
 {{# Contributors
-[ChillGats](https://github.com/ChillGats)
+-[asdfkim](https://github.com/asdfkim)
+-[ChillGats](https://github.com/ChillGats)
 -[Abraham Porras-Vargas](https://github.com/abrahamporras)
 
 -[Luis Ruvalcaba](https://github.com/luisruval)
