@@ -3511,6 +3511,7 @@ Emany Chiruza
 - [Eshaan Ojha](https://github.com/EshaanOjha)
 - [Abdellah](https://github.com/Abdev314)
 - [zhan haoyu](http://github.com/zhy-zhy321)
+- [Thelma Sainge Saingi](https://github.com/thelma-exe)
 - [Ayush Dwivedi](https://github.com/ayushdwivedi-stack)
 - [Lavanya](https://github.com/LavanyaPoojary02)
 -[CharM](https://github.com/UniqueVal225)
