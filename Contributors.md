@@ -1,4 +1,5 @@
 {{# Contributors
+- [Faizan Siddiqui](https://github.com/erfaizan2001)
 [ChillGats](https://github.com/ChillGats)
 -[Abraham Porras-Vargas](https://github.com/abrahamporras)
 
