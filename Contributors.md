@@ -1,4 +1,7 @@
 {{# Contributors
+
+[Marcus Sanders](https://github.com/mrcs-sndrs)
+
 [ChillGats](https://github.com/ChillGats)
 -[Abraham Porras-Vargas](https://github.com/abrahamporras)
 
