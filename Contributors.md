@@ -1,4 +1,6 @@
 {{# Contributors
+-[Aakash Singh Mutum](https://github.com/aakashmutum)
+
 - [Faizan Siddiqui](https://github.com/erfaizan2001)
 [ChillGats](https://github.com/ChillGats)
 -[Abraham Porras-Vargas](https://github.com/abrahamporras)
