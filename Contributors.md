@@ -1959,6 +1959,7 @@ Rithvik
 - [LLLmml](https://github.com/lllmml)
 - [Manthan utekar](https://github.com/manthanut27)
 - [M. Umasree](https://www.linkedin.com/in/umasree-mandla-231862349)
+- Charles Valerio Howlader
 - [M. Valentino](https://github.com/MarinoValentino)
 - [MACantara](https://github.com/MACantara)
 - [MC_CLINT](https://github.com/MC-CLINT)
