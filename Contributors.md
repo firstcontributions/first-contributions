@@ -85,6 +85,8 @@ Venkateswaran
 - [GeneLiao](https://github.com/GeneLiaoJY)
 - [Omar Adel](https://github.com/oadel1814)
 - [Isaac John](https://github.com/Isaac-Johnn)
+- [Vaibhav Jain](https://github.com/vaibhavjain9907)
+
 - [Irham Nur Hakim](https://github.com/irhamnh)
 - [Abdelaziz Hassan Bichr](https://github.com/hollowstarshade)
 - [Durga Prasad](https://github.com/Durgaprasad-Developer)
