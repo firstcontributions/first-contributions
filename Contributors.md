@@ -1,4 +1,5 @@
 {{# Contributors
+-[Prateeka](https://github.com/Prateeka15)
 - [Avinash Kumar] (https://github.com/04AvinashSingh)
 - [Faizan Siddiqui](https://github.com/erfaizan2001)
 [ChillGats](https://github.com/ChillGats)
