@@ -671,6 +671,7 @@ This is a test
 - [Alok Kumar Jaiswal](https://github.com/alokumarjaiswal)
 - [Kristipati Thoyajaksha Kashyap](https://github.com/kristipatithoyajakshakashyap)
 - Elkku
+- Anshul Awasthi
 - Richard Wu
 - [Cristina Ayala] (https://github.com/acristinaa)
 - [Kritika844](https://github.com/Kritika844)
