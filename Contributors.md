@@ -196,6 +196,7 @@ Aronas
 - [yafiakhtar](https://github.com/yafiakhtar)
 - [Ryan Yamamoto](https://github.com/two-airships)
 - [Serge Metellus] (https://github.com/CodeSurge97)
+- [Borzák Gábor] (https://github.com/DateFix)
 - [Elisha Okara](https://github.com/aehils)
 [Suneel Punnana](https://github.com/suneelpunnana)
 - [alok⚝](https://github.com/thealokverse)
