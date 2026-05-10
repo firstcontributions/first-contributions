@@ -211,6 +211,7 @@ Aronas
 - [Hyunwoong Yu](https://github.com/Chocobone)
 - [Nickdetol] (https://github.com/nickdetol)
 - [Luis Ruvalcaba](https://github.com/luisruval)
+- [Amirhossein Jahazi](https://github.com/combat47)
 - [Ankan Karmakar](https://github.com/DarkMellow)
 - [precelki](https://github.com/precelki)
 - [Swapnil Panda](https://github.com/Swapnil26-art)
