@@ -2000,6 +2000,7 @@ Rithvik
 - [Marco Biaggi](https://github.com/mafpbiaggi)
 - [Mario Sanchez](https://github.com/mcn22)
 - [Mariusz Jasko](https://github.com/Marjo185)
+- [Anushka Chaurasia](https://github.com/anushka-chaurasia-prog)
 - [Mariusz Sobczak](https://github.com/SmoQ)
 - [Mark](https://github.com/markferritto)
 - [Marko Radojevic](https://github.com/Marko3764)
