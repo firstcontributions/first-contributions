@@ -1808,6 +1808,7 @@ Meshach
 - [James Fan](https://github.com/JamesXuFan)
 - [Jan Michael Sibug](https://github.com/akushilan)
 - [Janvi Chetan Patel](https://github.com/JanviChetanPatel)
+- [Bernardo Pinto](https://github.com/Ben-MSP)
 - [Jason Wang](https://github.com/Jiachenw399)
 - [Jason Wiggs](https://github.com/wiggs30)
 - [Jason Lee](https://github.com/DS-J-L)
