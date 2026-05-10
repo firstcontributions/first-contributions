@@ -881,6 +881,7 @@ Vinayakrishna
 - [M. Fajal](https://github.com/Mfaj-cod)
 - [Shajith Bathina](https://github.com/shajith240)
 - [Anish Johari](https://github.com/AnishJohari)
+- [PedroRiveros-Lab](https://github.com/PedroRiveros44)
 - [Valentinus Gunadi] (https://github.com/veempeelge)
 - [B Pine](https://github.com/B-Pine)
 - [Shivraj](https://github.com/Shiv0087)
