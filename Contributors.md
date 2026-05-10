@@ -7,7 +7,7 @@
 - [Ikunda Patrick Ngoiya] (https://github.com/de-hacker369)
 - Venkateswaran
 - [Juan Aldana] (https://github.com/johnalda)
-- [**Jatin Awankar**](https://jatinawankar.dev) ⭐
+- [**Jatin Awankar**](https://jatinawankar.dev)⭐
 - [Jatin Kumar](https://github.com/jatinydu)
 - [Asmat Ullah Khan] (https://github.com/Asmat01)
 - [Sahil Patel] (https://github.com/sahilpatel0oo7)
