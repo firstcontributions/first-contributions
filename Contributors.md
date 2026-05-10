@@ -149,7 +149,7 @@ Aronas
 - [Conor MacMahon](https://github.com/conorjmacmahon)
 - [HasBuen](https://github.com/hasbuen) 
 - [Shubham Kumar](https://github.com/shubhamkr0142)
-
+- [Manas Gandhi](https://github.com/Manas-5461X)
 - [Shantha](https://github.com/shantha26)
 - [rafshanDev90](https://github.com/rafshanDev90)
 - [Abhigna Nimmagadda](https://github.com/4bh1gn4)
