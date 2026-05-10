@@ -27,6 +27,7 @@ Aronas
 - [George Falcon](https://github.com/kanvastudio)
 - [Logan Elam](https://github.com/MollaneGreed-Sandbox)
 - [Ali Hamza](https://github.com/M-AliHamza)
+- [Viviana McIntyre](https://github.com/ViviMac5)
 - [Ayush Pratap Singh](https://github.com/zoomgy)
 - [Sloki Bhetwal](https://github.com/slokib)
 - [Eunice Leyanda R](https://github.com/EuniceLeyanda-R)
