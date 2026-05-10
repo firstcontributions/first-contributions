@@ -1,4 +1,5 @@
 {{# Contributors
+- [Avinash Kumar] (https://github.com/04AvinashSingh)
 - [Faizan Siddiqui](https://github.com/erfaizan2001)
 [ChillGats](https://github.com/ChillGats)
 -[Abraham Porras-Vargas](https://github.com/abrahamporras)
