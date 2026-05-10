@@ -161,6 +161,7 @@ Aronas
 - [Roia Tembo](https://github.com/roiatembo)
 - [TORTUGATOR](https://github.com/tortugator)
 - [Sujit Kale](https://github.com/KaleSujit9011)
+- [Mussadiq Khan](https://github.com/mussadiqkhan6886)
 - [Kanika Kapoor](https://gtihub.com/kanikakapoorcode)
 - [Mahesh Gite](https://github.com/Mahesh-Gite-28)
 - [Mowrya Balivada](https://github.com/mowrya)
