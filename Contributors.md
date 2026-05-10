@@ -388,6 +388,7 @@ anas
 - [NinoYin](https://github.com/NinoYin)
 - [respiratoryPotato](https://github.com/respiratoryPotato)
 - [Lauri H](https://github.com/madpoet81)
+- [kevin](https://github.com/manches3003)
 - [Sal]
 Lina Muñoz
 - [TimothyLab](https://github.com/TimothyLab)
