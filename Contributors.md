@@ -290,6 +290,7 @@ sun y
 - [Peeyush Kr Singh](https://github.com/Peeyush3587)
 - [Caren Chepngetich](https://github.com/caren580)
 - Ayush Bhushan(https://github.com/Codewizrd1312)
+- [Adhik]
 - 
 - [Akinfolabi A.]
 - [Ruri Nanto]
