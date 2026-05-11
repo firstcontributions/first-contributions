@@ -118,11 +118,11 @@ fatal: Authentication failed for 'https://github.com/&lt;your-username&gt;/first
 - خپل GitHub اکاونټ کې دې ریپوزیټوري ته لاړ شئ.
 - د **Compare & pull request** تڼۍ به ووینئ. پر هغې کلیک وکړئ.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="د pull request جوړول" />
 
 - اوس د pull request غوښتنه وسپارئ.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="pull request استول" />
 
 - له دې وروسته به ستاسو بدلونه د اصلي یا main څانګې سره یوځای شي او ستاسو نوم به د ګډون کوونکو لیست ته اضافه کړل شي.
 
@@ -131,6 +131,7 @@ fatal: Authentication failed for 'https://github.com/&lt;your-username&gt;/first
 تاسو په بریالیتوب سره د فورک، کلون، ایډیټ، او pull request مرحلې بشپړې کړې. تاسې له دې نه وروسته کولی شئ چې په خلاص-سرچېنه پروژو کې په همدې طریقه برخه واخلئ.
 
 - خپل لومړئ ګډون ولمانځئ او له خپلو ملګرو سره یې [شریک کړئ](https://firstcontributions.github.io/#social-share).
+- که غواړئ لا ډېر تمرین وکړئ، د [code contributions](https://github.com/roshanjossey/code-contributions) زېرمه وګورئ.
 - اوس کولای شئ په نورو پروژو کې هم ګډون وکړئ. [دلته د پروژو لیست وګورئ](https://firstcontributions.github.io/#project-list).
 
 ## <a href="additional-material/git_workflow_scenarios/additional-material.md">اضافي مواد</a>
