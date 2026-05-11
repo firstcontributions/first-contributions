@@ -3953,7 +3953,7 @@ John Doe
 - Pratik Arun Parjane
 - Brad D.
 - [Aldiyar Kassenov](https://github.com/T0Rt52)
-  [zws](https://github.com/datousong)
+- [zws](https://github.com/datousong)
 - [Victoria Odalo](https://github.com/OdaloV) @ 09/05/2026
 - [LuKaNguyen61004](https://github.com/LukaNguyen61004)
 - [Devang Pratap Singh](https://github.com/devangpratap) @ 09/05/2026
@@ -3963,12 +3963,13 @@ John Doe
 - Rohan
 - [Guus Rotte](https://github.com/gamekiller2073) @ 05/09/2026
 - [Yash_dev](https://github.com/Yashwant001-git) 09/05/2026
--[Sweta Gupta](https://github.com/Sweta-205)
--[Jamesk Allen](https://github.com/helix1003)
-[Bala](https://github.com/bala444learning-png)
-[Rakesh varma sirivuri] (https://github.com/Rakeshvarma007)@ 9th march 2026
-[Janhvi Soni](https://github.com/janhvisoni804)
+- [Sweta Gupta](https://github.com/Sweta-205)
+- [Jamesk Allen](https://github.com/helix1003)
+- [Bala](https://github.com/bala444learning-png)
+- [Rakesh varma sirivuri] (https://github.com/Rakeshvarma007)@ 9th march 2026
+- [hollis-png](https://github.com/hollis-png)@11/05/2026
+- [Janhvi Soni](https://github.com/janhvisoni804)
 - [jayparikh81](https://github.com/jayparikh81) @ 2026-05-09
-justdembey[https://github.com/justdembey]
-- CaffeineAndSquats
-[Ranvijay Sahu](https://github.com/ranvijay360) @ 11/05/2026
+- [justdembey](https://github.com/justdembey)
+- [CaffeineAndSquats](https://github.com/CaffeineAndSquats)
+- [Ranvijay Sahu](https://github.com/ranvijay360) @ 11/05/2026
