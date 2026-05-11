@@ -1,4 +1,5 @@
 {{# Contributors
+-[Tomislav Pandza](https://github.com/pandzatomislav-cyber)
 -[EMR](https://github.com/fizyomatik)
 -[LilBoooopp](https://github.com/LilBoooopp)
 -[Prateeka](https://github.com/Prateeka15)
