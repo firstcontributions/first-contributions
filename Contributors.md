@@ -19,6 +19,7 @@ Venkateswaran
 
 -[Jatin Kumar](https://github.com/jatinydu)
 - [Asmat Ullah Khan] (https://github.com/Asmat01)
+- [Vaasu](https://github.com/vorte-wq)
 - [Sahil Patel] (https://github.com/sahilpatel0oo7)
 - Jeff Philips
 -[Chen Hu](https://github.com/hc00125)
