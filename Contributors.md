@@ -35,6 +35,7 @@ Venkateswaran
 - Jeff Philips
 -[Chen Hu](https://github.com/hc00125)
 - [Asmat Ullah Khan](https://github.com/Asmat01)
+- [Carol Bright](https://github.com/Carol-here)
 - [Vir-Suppae](https://github.com/vir-suppae) @ 05/03/2026
 - Ty Patrick
 - [Haziqfr](https://github.com/haziqfr/) @ 05/08/2026
