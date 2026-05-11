@@ -14,6 +14,8 @@
 
 -[DINESH RAVICHANDRAN](https://github.com/dhina-514)
 
+-[Kanisk Dasgupta](https://github.com/kanisk29)
+
 -[Luis Ruvalcaba](https://github.com/luisruval)
 -[Ikunda Patrick Ngoiya] (https://github.com/de-hacker369)
 Venkateswaran 
