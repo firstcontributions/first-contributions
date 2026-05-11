@@ -690,3 +690,4 @@
 - [张喜昌](https://github.com/ZhangXiChang)
 - [Drew Ramos](https://github.com/drewsElearning) 
 - [Venkatabatna](https://github.com/venkatabatna)
+- [Vinicius Tamari](https://github.com/vinicius-tamari) 
