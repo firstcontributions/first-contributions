@@ -10,7 +10,6 @@
 -[Abraham Porras-Vargas](https://github.com/abrahamporras)
 -[Vignesh Kumar U](https://github.com/viki22uied)
 -[woaiwang](https://github.com/woaiwang)
--[Carol Bright](https://github.com/Carol-here)
 -[Luis Ruvalcaba](https://github.com/luisruval)
 -[Ikunda Patrick Ngoiya] (https://github.com/de-hacker369)
 Venkateswaran 
@@ -24,6 +23,7 @@ Venkateswaran
 - Jeff Philips
 -[Chen Hu](https://github.com/hc00125)
 - [Asmat Ullah Khan](https://github.com/Asmat01)
+- [Carol Bright](https://github.com/Carol-here)
 - [Vir-Suppae](https://github.com/vir-suppae) @ 05/03/2026
 - Ty Patrick
 - [Haziqfr](https://github.com/haziqfr/) @ 05/08/2026
