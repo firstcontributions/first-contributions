@@ -3849,7 +3849,7 @@ No commits between firstcontributions:main and Harshal-Bsys27:add-harshal-barhat
 - [Tovoson](https://github.com/Tovoson)
 - [Sounak Das](https://github.com/LittleBoy9)
 - [We're doing okay](https://github.com/wmhxb)
-
+- [SSoussi](https://github.com/salma-soussi)
 - [MHCHA](https://github.com/MHCHA)
 - [Jamiee42](https://github.com/Jamiee42)
 - [gyeong33](https://github.com/gyeong33)
