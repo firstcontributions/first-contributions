@@ -3391,6 +3391,7 @@ jieting-[ych3star](https://github.com/ych3star)
 - 22f3001808@ds.study.iitm.ac.in -> https://github.com/22f3001808
 -Lalithya
 - [Vaibhav Yadav](https://github.com/v-vaibhav07)
+- [Cang Li](https://github.com/s0raLin)
 -Joe Schmoe
 - [Siddharth Sahu](https://github.com/22f3002567)
 - [Akshat Singh](https://github.com/akshat-collab)
