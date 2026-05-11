@@ -172,6 +172,7 @@ Aronas
 - [Mohammad Jahanseir](https://github.com/mjahanseir)
 - [Hua](https://github.com/NgKokHua/first-contributions.git)
 - [Aleeza](https://github.com/Aleeza-Bhatti/first-contributions)
+- [Shaurya Rohatgi](https://github.com/ShauryaRohatgi1810)
 - [tianwh](https://github.com/yunmengovo)
 - [Roia Tembo](https://github.com/roiatembo)
 - [TORTUGATOR](https://github.com/tortugator)
