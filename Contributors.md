@@ -13,8 +13,8 @@
 Venkateswaran 
 -[Juan Aldana] (https://github.com/johnalda)
 -[Gagan HM] (https://github.com/gaganhm3018-art)
-
--[Jatin Kumar](https://github.com/jatinydu)
+- [Thomas McKenzie] (https://github.com/tmckenzie24)
+- [Jatin Kumar](https://github.com/jatinydu)
 - [Asmat Ullah Khan] (https://github.com/Asmat01)
 - [Sahil Patel] (https://github.com/sahilpatel0oo7)
 - Jeff Philips
