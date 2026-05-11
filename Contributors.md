@@ -1,4 +1,4 @@
-{{# Contributors
+# Contributors
 [M Pallavi](https://github.com/Pallavi-vi-1234)
 -[Rahul Gunturu](https://github.com/RustyLegend)
 -[Tomislav Pandza](https://github.com/pandzatomislav-cyber)
@@ -16,14 +16,14 @@
 
 -[Kanisk Dasgupta](https://github.com/kanisk29)
 
--[Luis Ruvalcaba](https://github.com/luisruval)
+6o-[Luis Ruvalcaba](https://github.com/luisruval)
 -[Ikunda Patrick Ngoiya] (https://github.com/de-hacker369)
 Venkateswaran 
 -[Saransh Agrawal](https://github.com/saranshagrawal9)
 
 -[Juan Aldana] (https://github.com/johnalda)
 -[Gagan HM] (https://github.com/gaganhm3018-art)
-
+- [Vaishnavi Desai](https://github.com/vaishnavidesai09)
 -[joemzkie](https://github.com/joemzkie)
 
 -[Jatin Kumar](https://github.com/jatinydu)
