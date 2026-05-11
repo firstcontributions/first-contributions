@@ -2008,6 +2008,7 @@ Rithvik
 - [Darsh](https://github.com/Darsh1118)
 - [avinashh10x](https://github.com/avinashh10x)
 - [Madhusudhanan](https://github.com/Madhu192005)
+- [Max Garry](https://github.com/Kurodataio) @ 05/11/2026
 - [avinashh10x](https://github.com/avinashh10x)
 - [Muhammad Faisal](https://github.com/Muhammad-Faisal-FTA)
 - [Magonborn](https://github.com/MagonBorn)
