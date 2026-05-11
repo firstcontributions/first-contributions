@@ -690,5 +690,6 @@
 - [张喜昌](https://github.com/ZhangXiChang)
 - [Drew Ramos](https://github.com/drewsElearning) 
 - [Venkatabatna](https://github.com/venkatabatna)
+- [Helder Luz](https://github.com/HelderLuz)
 - [Vinicius Tamari](https://github.com/vinicius-tamari) 
 -[rafaelx890](https://github.com/rafaelx890)
