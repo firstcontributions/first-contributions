@@ -682,6 +682,7 @@ This is a test
 - [Anuj Kaushik](https://github.com/Ajkaushik9045)
 - [Aakif Kohari](https://github.com/Aakif-Kohari)
 - [Aniket Mankoo](https://github.com/MankooAniket)
+- [Pavel Safonov](https://github.com/Powarar)
 - [Braham Ramos](https://github.com/BrahaME123)
 - [Nihir Soni](https://github.com/Nihir-Soni/)
 - [abdul7867](https://github.com/abdul7867)
