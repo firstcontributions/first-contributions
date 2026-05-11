@@ -1043,6 +1043,7 @@ zain
 - [Confidence Monday] (https://github.com/Confidence-Monday)
 - [Jules Cinc] (https://https://github.com/JulesCinc)
 - [Vishwajeet_Kanase](https://github.com/vishwajeetkanase)
+- [Malcolm Hartley](https://github.com/LAlphaBCentauriW)
 - [Shiva Kumar](https://github.com/shiva-kumar04)
 - [8saku](https://github.com/8saku8)
 - [vamshi kiran](https://github.com/vamshikiran065-jpg)
