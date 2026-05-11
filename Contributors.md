@@ -3791,4 +3791,3 @@ Ndikumana Jean Pierre
 - [Srujan Amaragatti](https://github.com/Srujan-Amaragatti05) @ 05/06/2026
 - [Joseph Villanueva](https://github.com/corpswag) @05/06/2026
 - [Guiilherme Fernandes do bem ](https://github.com/GuilhermeFer31) @06/06/2026
-- [Eduardo Denzer] (https://githubcom/eduardodenzer-lab)- [Eduardo Denzer] (https://github.com/eduardodenzer-lab) @05/11/2026
