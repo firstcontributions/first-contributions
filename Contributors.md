@@ -6,7 +6,7 @@
 - [Faizan Siddiqui](https://github.com/erfaizan2001)
 [ChillGats](https://github.com/ChillGats)
 -[Abraham Porras-Vargas](https://github.com/abrahamporras)
--[Vsandov](https://github.com/victoralejandrosandovalduarte-design/first-contributions.git)
+-[Vsandoval](https://github.com/victoralejandrosandovalduarte-design/first-contributions.git)
 -[Luis Ruvalcaba](https://github.com/luisruval)
 -[Ikunda Patrick Ngoiya] (https://github.com/de-hacker369)
 Venkateswaran 
