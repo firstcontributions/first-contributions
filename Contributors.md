@@ -169,6 +169,7 @@
 - [Mohammad Jahanseir](https://github.com/mjahanseir)
 - [Hua](https://github.com/NgKokHua/first-contributions.git)
 - [Aleeza](https://github.com/Aleeza-Bhatti/first-contributions)
+- [Shaurya Rohatgi](https://github.com/ShauryaRohatgi1810)
 - [tianwh](https://github.com/yunmengovo)
 - [Roia Tembo](https://github.com/roiatembo)
 - [TORTUGATOR](https://github.com/tortugator)
@@ -648,6 +649,8 @@
 - [Abhinav Maurya](https://github.com/fire162)
 - [Jishnu](https://github.com/JishnuS732005)
 - [knott](https://github.com/knott-todd)
+- [knott](https://github.com/knott-todd)
+- [Amar Keshav](https://github.com/amark2005) 2026-May
 - Amster [2k5]
 - roy
 - Baha [DouD☄](https://github.com/xDouDx)
@@ -3975,3 +3978,4 @@
 - [galeseniorwedge](https://github.com/galeseniorwedge)
 - [Dimensioneisense](https://github.com/Dimensioneisense)
 - [JanikStLouis](https://github.com/JanikStLouis)
+- [Satou](https://github.com/Satou456)
