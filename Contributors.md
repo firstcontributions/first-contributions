@@ -1,4 +1,5 @@
 {{# Contributors
+-[Rahul Gunturu](https://github.com/RustyLegend)
 -[Tomislav Pandza](https://github.com/pandzatomislav-cyber)
 -[EMR](https://github.com/fizyomatik)
 -[LilBoooopp](https://github.com/LilBoooopp)
