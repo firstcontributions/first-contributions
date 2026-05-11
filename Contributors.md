@@ -7,6 +7,8 @@
 [ChillGats](https://github.com/ChillGats)
 -[Abraham Porras-Vargas](https://github.com/abrahamporras)
 
+-[Kanisk Dasgupta](https://github.com/kanisk29)
+
 -[Luis Ruvalcaba](https://github.com/luisruval)
 -[Ikunda Patrick Ngoiya] (https://github.com/de-hacker369)
 Venkateswaran 
