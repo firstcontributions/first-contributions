@@ -3792,3 +3792,4 @@ Ndikumana Jean Pierre
 - [Joseph Villanueva](https://github.com/corpswag) @05/06/2026
 - [Guiilherme Fernandes do bem ](https://github.com/GuilhermeFer31) @06/06/2026
 - [Felipe Milani] (https://github.com/felipemilani)
+- [Gustavo Salvador](https://github.com/gustavosalvador)
