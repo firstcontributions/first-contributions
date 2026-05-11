@@ -692,3 +692,6 @@
 - [Venkatabatna](https://github.com/venkatabatna)
 - [Vinicius Tamari](https://github.com/vinicius-tamari)
 - [N1xern](https://github.com/N1xern) 
+- [Helder Luz](https://github.com/HelderLuz)
+- [Vinicius Tamari](https://github.com/vinicius-tamari) 
+-[rafaelx890](https://github.com/rafaelx890)
