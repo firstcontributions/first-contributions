@@ -67,6 +67,7 @@ Venkateswaran
 - [Ishan Gupta](https://github.com/developer-ishan)
 - [AbdShahrour](https://github.com/AbdShahrour)
 - [Kateryna](https://github.com/KaterynaKon)
+- [vaibhav](https://github.com/vaibhavjain9907)
 - [Abu Bakar Ramzan](https://github.com/yarrbakr)
 - [indiser](https://github.com/indiser)
 - Khushi Shukla (https://github.com/khushi-shukla-cz)git add
@@ -115,6 +116,8 @@ Venkateswaran
 - [Omar Adel](https://github.com/oadel1814)
 - [Jayakumar N](https://github.com/thisisjayakumar)
 - [Isaac John](https://github.com/Isaac-Johnn)
+- [Vaibhav Jain](https://github.com/vaibhavjain9907)
+
 - [Irham Nur Hakim](https://github.com/irhamnh)
 - [Abdelaziz Hassan Bichr](https://github.com/hollowstarshade)
 - [Durga Prasad](https://github.com/Durgaprasad-Developer)
