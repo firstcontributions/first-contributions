@@ -678,6 +678,7 @@
 - [Yukesh D](https://github.com/Yukesh-30)
 - [Yulhui Kim](https://github.com/dbfgml2000)
 - [Yuval Tzur](https://github.com/yuvtz)
+- [Stone Cold](https://github.com/sewerslvvt)
 - [Yuvaraj K](https://github.com/22f3002987-UserYuv)
 - [Yuvi](https://github.com/yuvrajshrirame)
 - [Yuzhirua](https:/github.com/Yuzhirua)
