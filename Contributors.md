@@ -3986,6 +3986,8 @@ John Doe
 - [abdy mohameden](https://github.com/mohameden19961)
 - [Manirathnam](https://github.com/prasanthdeva)
 - [vraj gajjar](https://github.com/Vrajcoding)
+ Davi-Figueiredo
+-Davi Figueiredo
 - [Charly Islami](https://github.com/CharlyIslami)
 - [Jacoy yu](https://github.com/meloer101)
 - Pratik Arun Parjane
