@@ -48,6 +48,7 @@ Venkateswaran
 - [ishaac Chninak](https://github.com/ichninak)
 - [Antonia Hernandez](https://github.com/jbeumala-hotmail)
 - [SHARUKA](https://github.com/SHARUKA-2005)
+- [Safiya Nazly](https://github.com/safiyanazly-bit)
 - [Ishan Gupta](https://github.com/developer-ishan)
 - [AbdShahrour](https://github.com/AbdShahrour)
 - [Kateryna](https://github.com/KaterynaKon)
