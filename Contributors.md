@@ -125,6 +125,7 @@ OAT
 - [Dharun R](https://github.com/dharun36)
 - [DhirajB05](https://github.com/DhirajB05)
 - [DhritiTS](https://github.com/DhritiTS)
+- [Dhruv Srivastava](https://github.com/Dhruvh-maker)
 - [Dhruv Bansal](https://github.com/dhruvbansalup)
 - [Dhruv](https://github.com/Dhru08)
 - [Digvijay Patel](https://github.com/DigvijayPatel1)
