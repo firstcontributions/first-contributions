@@ -139,6 +139,7 @@
 - [EB](https://github.com/boranj)
 - [EGBO NNAEMEKA CYPRIAN](https://github.com/chiefEGBO)
 - [ETAModder](https://github.com/ETAModder)
+- [Ethan Kinch](https://github.com/epkinch)
 - [Edgar Mireles](https://github.com/edgarmb14)
 - [Elaine-764](https://github.com/Elaine-764)
 - [Elif Ş.](https://github.com/elifsz)
