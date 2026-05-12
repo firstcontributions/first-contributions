@@ -177,6 +177,23 @@ jobs:
               core.setFailed(error.message);
             }
 
+      # Post a comment when Contributors.md has multiple line changes (not auto-merged)
+      - name: Post comment on multi-line Contributors.md changes
+        if: env.only_contributors == 'true' && env.one_line_change == 'false'
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const username = context.payload.pull_request.user.login;
+            const body = `Hello @${username}, thank you for your pull request!\n\nThis PR modifies Contributors.md but has multiple line changes, so it could not be auto-merged. A maintainer will review it shortly.\n\nIn the meantime, please make sure you have only added one line with your name. If you accidentally modified other lines, you can update your PR to fix that.`;
+
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: body
+            });
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+
       # Post a comment on the pull request if it was not merged automatically
       - name: Post comment on PR if not merged automatically
         # Check if the pull request only modifies the CONTRIBUTORS.md file
