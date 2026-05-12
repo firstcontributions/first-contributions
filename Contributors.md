@@ -234,6 +234,7 @@
 - [James Athanasopoulos](https://github.com/athje001)
 - [JanosNagy](https://github.com/JaniITmer)
 - [Janvi Chetan Patel](https://github.com/JanviChetanPatel)
+- [Juan Caquias](https://github.com/jcaquiasjr)
 - [Kanika Kapoor](https://gtihub.com/kanikakapoorcode)
 - [Kanta Komoike](https://github.com/komoike-oss28-ui)
 - [Kapil Kumar](https://github.com/kapilkumar05991)
