@@ -1,5 +1,4 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -12,7 +11,7 @@ Readin' tales & watchin' tutorials can help, but wha''s better than actually doi
 
 #### *If ye're nah comfortable wit' command line, [here be tutorials usin' GUI tools.](#Tutorials-Usin'-Other-Tools)*
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="plunder this code chest" />
 
 If ye don't 'ave git on yer machine, [install it](https://help.github.com/articles/set-up-git/).
 
@@ -23,23 +22,23 @@ This will create a copy o' this repository in yer account.
 
 ## Clone the repository
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="make yer own copy o’ this treasure" />
 
 Now clone this repo t' yer machine. Go t' yer GitHub account, skewer on th' clone button 'n then skewer th' *copy to clipboard* icon.
 
 Open a terminal 'n run th' followin' git command:
 
-```
+```bash
 git clone "url ye jus' copied"
 ```
 
 where "url ye jus' copied" (without th' quote marks) be th' url t' this repository (yer fork o' this project). See th' previous steps t' obtain th' url.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="snatch the map link to yer clipboard" />
 
 Fer example:
 
-```
+```bash
 git clone https://github.com/this-be-ye/first-contributions.git
 ```
 
@@ -49,19 +48,19 @@ where `this-be-ye` be yer GitHub username. Here ye're copyin' th' contents o' th
 
 Change t' th' repository directory on yer 'puter (if ye be nah already thar):
 
-```
+```bash
 cd first-contributions
 ```
 
 Now create a branch usin' th' `git checkout` command:
 
-```
+```bash
 git checkout -b <add-your-new-branch-name>
 ```
 
 Fer example:
 
-```
+```bash
 git checkout -b add-luke-oliff
 ```
 
@@ -71,19 +70,19 @@ git checkout -b add-luke-oliff
 
 Now open `Contributors.md` file in a text editor, add yer name t' it. Don't add it at th' beginnin' or end o' th' file. Put it anywhere in between. Now, save th' file.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="check the ship’s log" />
 
 If ye go t' th' project directory 'n execute th' command `git status`, ye'll see thar are changes.
 
 Add those changes t' th' branch ye jus' created usin' th' `git add` command:
 
-```
+```bash
 git add Contributors.md
 ```
 
 Now commit those changes usin' th' `git commit` command:
 
-```
+```bash
 git commit -m "Add <yer-name> to Contributors list"
 ```
 
@@ -93,7 +92,7 @@ replacing `<yer-name>` with your name.
 
 Push yer changes usin' th' command `git push`:
 
-```
+```bash
 git push origin <add-yer-branch-name>
 ```
 
@@ -103,11 +102,11 @@ replacin' `<add-yer-branch-name>` wit' th' name o' th' branch ye created earlier
 
 If ye go t' yer repository on GitHub, ye'll see a  `Compare & pull request` button.  Click on that button.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="raise a flag fer a pull request" />
 
 Now submit th' pull request.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="send yer pull request to the captain" />
 
 Soon I'll be mergin' all yer changes into th' master branch o' this project. Ye will get a notification email once th' changes 'ave been merged.
 
@@ -116,8 +115,6 @@ Soon I'll be mergin' all yer changes into th' master branch o' this project. Ye 
 Well done! Ye jus' completed th' standard _fork -> clone -> edit -> PR_ workflow that ye'll encounter often as a contributor!
 
 Celebrate yer contribution 'n share it wit' yer hearties 'n followers by goin' t' [web app](https://firstcontributions.github.io/#social-share).
-
-Ye could join our slack crew in case ye needs any help or 'ave any riddles. [Join our slack crew](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
 Now let's get ye started wit' contributin' t' other projects. We've compiled a list o' projects wit' easy issues ye can get started on. Check out [th' list o' projects in web app](https://firstcontributions.github.io/#project-list).
 

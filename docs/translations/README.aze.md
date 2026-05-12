@@ -1,5 +1,4 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -9,7 +8,7 @@ Bu layihə yeni başlayanların ilk töhfələrini vermə yollarını sadələş
 
 _Əgər komanda sətri ilə rahat deyilsinizsə, [burada GUI alətlərindən istifadə edən təlimatlar tapa bilərsiniz.](#Digər-alətlərin-istifadəsi-üçün-təlimlər)_
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="bu anbarı çatal et" />
 
 #### Maşınınızda (yəni, kompüterinizdə) GIT yoxdursa, [buradan quraşdıra bilərsiniz](https://help.github.com/articles/set-up-git/).
 
@@ -20,21 +19,21 @@ Bu hesabınızda deponun bir kopyasını yaradacaqdır.
 
 ## Deponu (Repository) klonlaşdırma
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="bu anbarı surətini çıxar" />
 
 İndi çəngəlli deponu kompüterinizə klonlaşdırın. GitHub hesabınıza daxil olun, çəngəlli deponu açın, kod düyməsinə vurun və sonra _copy to clipboard_ simgəsinə klikləyin.
 
 Daha sonra terminalı açın və aşağıdakı git komandasını daxil edin:
 
-```
+```bash
 git clone "kopyaladığınız-url"
 ```
 "kopyaladığınız-url" (dırnaq işarəsi olmadan) yerinə bu deponun GitHub səhifəsindən aldığınız linki kopyalayın.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="URL-i panoya kopyala" />
 
 Misal üçün:
-```
+```bash
 git clone https://github.com/istifadəçi-adı/first-contributions.git
 ```
 `istifadəçi-adı` sizin GitHub istifadəçi adınızdır. Burada siz GitHub-da ilk töhfələr deposunun məzmununu kompüterinizə köçürürsünüz.
@@ -43,16 +42,16 @@ git clone https://github.com/istifadəçi-adı/first-contributions.git
 
 Kompüterinizdəki depo qovluğuna keçin (əgər orada deyilsinizsə):
 
-```
+```bash
 cd first-contributions
 ```
 `git checkout` əmrini istifadə edərək bir Budaq (Branch) yaradın:
-```
+```bash
 git checkout -b <sizin-yeni-budaq-adınız>
 ```
 
 Misal üçün:
-```
+```bash
 git checkout -b add-alonzo-church
 ```
 
@@ -60,13 +59,13 @@ git checkout -b add-alonzo-church
 
 İndi `Contributors.md` faylını mətn redaktorunda açın, adınızı əlavə edin. Faylın əvvəlinə və ya sonuna əlavə etməyin. Arada bir yerə qoyun. İndi faylı yadda saxlayın.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git vəziyyəti" />
 
 Layihə qovluğuna gedib `git status` əmrini icra etsəniz, dəyişikliklərin olduğunu görəcəksiniz.
 
 Bu dəyişiklikləri `git add` əmrindən istifadə edərək yaratdığınız Budağa əlavə edin:
 
-```
+```bash
 git add Contributors.md
 ```
 
@@ -79,7 +78,7 @@ adınızla `<your-name>` ilə əvəz olunsun.
 Dəyişikliklərinizi "git push" əmrindən istifadə edərək itələyin:
 
 
-```
+```bash
 git push origin <add-your-branch-name>
 ```
 
@@ -89,11 +88,11 @@ git push origin <add-your-branch-name>
 
 GitHub-dakı deponuza daxil olsanız, bir `Compare & pull request` düyməsini görəcəksiniz. Bu düyməni vurun.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="çəkiliş sorğusu yarat" />
 
 İndi çəkmə tələbini (pull request) göndərin.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="çəkiliş sorğusunu göndər" />
 
 Tezliklə bütün dəyişikliklərinizi bu layihənin master filialına birləşdirəcəyəm. Dəyişikliklər birləşdirildikdən sonra bildiriş e-poçtu alacaqsınız.
 
@@ -103,7 +102,7 @@ Təbriklər! Töhfə olaraq tez-tez qarşılaşacağınız standart _fork -> clo
 
 Töhfənizi qeyd edin və [veb tətbiqə](https://firstcontributions.github.io/#social-share) girərək dostlarınız və izləyicilərinizlə bölüşün.
 
-Hər hansı bir köməyə ehtiyacınız və ya suallarınız olarsa, [Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA) komandamıza qoşula bilərsiniz.
+Daha çox təcrübə istəyirsinizsə, yoxlayın [kod töhfələri](https://github.com/roshanjossey/code-contributions).
 
 İndi başqa layihələrə töhfə verməyə başlayaq. Başlaya biləcəyiniz asan məsələləri olan layihələrin siyahısını hazırladıq, [siyahıya baxın](https://firstcontributions.github.io/#project-list).
 

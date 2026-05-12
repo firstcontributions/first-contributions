@@ -1,5 +1,4 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -15,7 +14,7 @@ Kusoma makala na mafunzo ya kutazama yanaweza kusaidia, lakini ni nini bora zaid
 #### *Ikiwa huna urahisi na mstari wa amri, [hapa ni mafunzo kwa kutumia zana za GUI.](#Mafundisho-Kutumia-Zana-Zingine)*
 
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="uma hazina hii" />
 
 
 ## Vuta hifadhi hii
@@ -24,7 +23,7 @@ Vuta repo hii kwa kubonyeza kifungo cha fakia juu ya ukurasa huu. Hii itaunda na
 
 ## Weka chumba
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="nakili hazina hii" />
 
 Sasa nakala repo iliyovutwa kwa mashine yako. Nenda kwenye akaunti yako ya GitHub, fungua repo iliyovutwa, bonyeza kitufe cha kamba na kisha bofya nakala kwenye clipboard.
 
@@ -37,7 +36,7 @@ git clone "url you just copied"
 
 ambapo "url ulikosa tu" (bila alama za kupiga kura) ni url kwenye hifadhi hii (fomu yako ya mradi huu). Angalia hatua za awali ili kupata url.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="nakili URL kwenye ubao wa kunakili" />
 
 Kwa mfano:
 
@@ -74,7 +73,7 @@ git checkout -b add-alonzo-church
 
 Sasa fungua `Contributors.md` faili katika mhariri wa maandishi, uongeze jina lako. Usiongeze kwenye mwanzo au mwisho wa faili. Weka mahali popote katikati. Sasa, sahau faili.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="hali ya git" />
 
 Ikiwa unakwenda kwenye saraka ya mradi na kutekeleza amri `git status`, utaona kuna mabadiliko.
 
@@ -107,11 +106,13 @@ kubadilisha `<add-your-branch-name>` na jina la tawi uliloumba hapo awali.
 
 Ikiwa unaenda kwenye hifadhi yako kwenye GitHub, utaona `Compare & pull request` kifungo. Bofya kwenye kifungo hicho.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="unda ombi la kuvuta" />
+
 
 Sasa weka ombi la kuvuta.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="wasilisha ombi la kuvuta" />
+
 
 Hivi karibuni nitaunganisha mabadiliko yako yote kwenye tawi la mradi huu. Utapata barua pepe ya arifa mara mabadiliko yameunganishwa.
 

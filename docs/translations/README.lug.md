@@ -1,5 +1,4 @@
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1n4y7xnk0-DnLVTaN6U9xLU79H5Hi62w)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -9,7 +8,10 @@ Ekigendererwa ky'enteekateeka eno kwe kusobozesa n'okuyamba abayizi mu kuteekawo
 
 _Bw'oba tokkiriziganya na command line, [wano waliyo ebiranga ebikozesa ebikozesebwa ebiwa GUI.](#tutorials-using-other-tools)_
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300"
+     src="https://firstcontributions.github.io/assets/Readme/fork.png"
+     alt="Forka ekitabo kya repository" />
+
 
 #### Bw'oba tolina git ku kompyuta yo, [teeka git](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
@@ -19,7 +21,10 @@ Gabaako repo eno nga okozesa ekirungo ekiri waggulu ku lupapula luno. Kino kijja
 
 ## Koppa repo
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300"
+     src="https://firstcontributions.github.io/assets/Readme/clone.png"
+     alt="Koppa ekitabo kya repository" />
+
 
 Kati koppa repo eyogabiddwa ku kompyuta yo. Genda ku akaawunti yo ku GitHub, fungula repo eyogabiddwa, koona ku kaakano akaliko code n'oluvannyuma koona ku kirungo  _copy to clipboard_.
 
@@ -31,7 +36,10 @@ git clone "url you just copied"
 
 "URL gy'okoze koppa" (nga tekirina obubonero obuli mu kkiwandiiko) kye URL eri ku repo eno (okugaba kwo ku kawefube ono). Laba ku bigambo ebyo ebiri waggulu okugenda ku URL.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300"
+     src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png"
+     alt="Koppa URL ogiteeke mu clipboard" />
+
 
 Ekikokyo:
 
@@ -65,7 +73,10 @@ git switch -c add-alonzo-church
 
 Kati gulawo fayiro ya `Contributors.md` mu kikozesebwa ky'okuwandiika, yongeramu erinnya lyo mu fayiro eno. Togyongeramu ku ntandikwa oba ku nkomerero ya fayiro. Tta gy'ali wakati wa fayiro. Kati, giyita fayiro eno.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450"
+     src="https://firstcontributions.github.io/assets/Readme/git-status.png"
+     alt="Embeera ya git" />
+
 
 Bw'ogenda mu kisenge ky'enteekateeka n'okola ekiragiro `git status`, ojja kulaba nga waliyo enkyukakyuka.
 
@@ -97,11 +108,17 @@ oweerereza erinnya lyo ku  `your-branch-name`.
 
 Bw'ogenda ku repo yo ku GitHub, ojja kulaba akapipati ka `Compare & pull request`. Koona ku kapipati ako.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;"
+     src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png"
+     alt="Tondawo Pull Request" />
+
 
 Kati weereza pull request.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;"
+     src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png"
+     alt="Weereza Pull Request" />
+
 
 Olwatuuka kunsonga y'okukakasa enkyukakyuka zo, ojja kufuna email ya kunnyonnyola enkyukakyuka zomaze okukakasa.
 
@@ -110,8 +127,6 @@ Oluvannyuma lw'okwo
 Ki ekirungi! Onoowuziza ku ttendekero lya _fork -> clone -> edit -> pull request_ workflow gwe oyinza okufuna ng'omukozi!
 
 Jaguza ekyo ky'oyongeddeko era ogikwase mikwano gyo n'abagoberera nga oyita ku [web app](https://firstcontributions.github.io/#social-share).
-
-Osobola okuyingira ku team ya slack bw'oba oyagala obuyambi obulala oba olina ebibuuzo. [Yingira team ya slack.](https://firstcontributors.slack.com/join/shared_invite/zt-29qhyr9lt-Bi7WLbgGIFqV7aCEG_grvg#/shared-invite/email).
 
 Kati ka tutandikire okukola ku kintu ekirala. Tundese olukalala lwa project ezirina ebizibu ebitalina y'oyinza okutandika n'okukola. Kebera [olukalala lwa project mu web app](https://firstcontributions.github.io/#project-list).
 

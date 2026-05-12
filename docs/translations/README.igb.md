@@ -1,5 +1,4 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -11,7 +10,7 @@ O siri ike. Ọ na-esiri gị ike mgbe mbụ i mere ihe. Karịsịa mgbe ị na
 
 #### _Ọ bụrụ na ị naghị enwe mmasị na akara iwu, [ebe a bụ nkuzi na-eji ngwaọrụ GUI.](#Nkuzi-na-iji-ihe-ndi-ozo)_
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="Fork depo a" />
 
 Ọ bụrụ na ịnweghị igwe na igwe gị, [wụnye ya](https://help.github.com/articles/set-up-git/).
 
@@ -21,7 +20,8 @@ Wepu a repo site na ịpị bọtịnụ mkpịsị aka n'elu nke ibe a. Nke a g
 
 ## Na-ekpuchi ebe nchekwa
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="Kopịa depo a
+" />
 
 Ugbu a, dochie ya repo na igwe gị. Gaa na akaụntụ GitHub gị, meghee repo ahụ maka pịa, pịa bọtịnụ clone ma pịazie ya na akara ngosi akara ngosi.
 
@@ -33,7 +33,8 @@ git clone "url you just copied"
 
 ebe "url na ị depụtaghachiri" (na-enweghị ntinye ọnụ) bụ url maka nchekwa ebe a (mgbịrịgwụ nke ọrụ a). Hụ nzọụkwụ ndị gara aga iji nweta url.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="Kopịa URL gaa na klipbọọdụ
+" />
 
 Ọmụmaatụ:
 
@@ -101,11 +102,13 @@ dochie `<add-your-branch-name>` aha alaka ụlọ ọrụ ị mepụtara n'oge g
 
 Ọ bụrụ na ị gaa ebe nchekwa gị na GitHub, ị ga-ahụ `Compare & pull request` bọtịnụ. Pịa bọtịnụ ahụ.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="Mepụta arịrịọ pull
+" />
 
 Ugbu a, rịọ arịrịọ ahụ.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="Zipu arịrịọ pull
+" />
 
 N'oge na-adịghị anya, m ga-emeri mgbanwe gị niile n'ime ngalaba alaka ụlọ ọrụ a. Ị ga-enweta ozi ngosi mgbe ọ bụla emetụtara mgbanwe.
 
@@ -114,8 +117,6 @@ N'oge na-adịghị anya, m ga-emeri mgbanwe gị niile n'ime ngalaba alaka ụl
 Ekele! Naanị ị gụchara ihe nkesa -> mmepụta oyiri -> dezie -> Bọpụ ọrụ PR nke ị ga-ezute mgbe niile dị ka onye na-enye gị!
 
 Nalee onyinye gị ma soro ndị enyi gị na ụmụazụ gị kerịta ya site na ịga na [ngwa weebụ](https://firstcontributions.github.io/#social-share).
-
-Ị nwere ike isonyere ndị ọrụ anyị na-adịghị mma na ikpe ịchọrọ enyemaka ọ bụla ma ọ bụ nwee ajụjụ ọ bụla. [Jikọọ slack otu](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
 Ugbu a, ka anyị malite site na inye onyinye maka ọrụ ndị ọzọ. Anyị ejikọtawo ndepụta nke oru na okwu dị mfe ị nwere ike ịmalite. Lelee [ndepụta nke oru na ngwa weebụ ](https://firstcontributions.github.io/#project-list).
 

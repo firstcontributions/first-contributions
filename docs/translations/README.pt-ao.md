@@ -1,5 +1,4 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -11,7 +10,7 @@ Primeiramente, vamos começar por instalar o [Git](https://pt.wikipedia.org/wiki
 
 
 ## Faz Fork deste repositório
-<img align="right" width="350" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork deste repositorio" />
+<img align="right" width="350" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="bifurcar este repositório" />
 
 Faz Fork clicando no botão "Fork" no topo desta página e de seguida click na opção *Create a new Fork(Criar novo fork, em português)*
 <br></br><br></br>
@@ -22,13 +21,13 @@ Faz Fork clicando no botão "Fork" no topo desta página e de seguida click na o
 Pós o fork, clone o repositorío para o seu dispositivo, Clicando no botão de *Code(código, em português)* e de seguida copiar o link, que aparecerá.
 
 Abra o seu Terminal ou PowerShell e digite o seguinte:
-```
+```bash
 git clone <Qui aqele link que copiaste>
 ```
  Para que fique assim:
-
-> git clone https://github.com/firstcontributions/first-contributions.git
-
+```bash
+git clone https://github.com/firstcontributions/first-contributions.git
+```
 De seguida dê Enter
 
 
@@ -37,12 +36,12 @@ De seguida dê Enter
 Abra a pasta que foi criada quando você fez o clone
 
 Agora crie uma nova Branch usando o comando no terminal:  `git checkout`:
-```
+```bash
 git checkout -b <add-teu-nome>
 ```
 
 Por exemplo:
-```
+```bash
 git checkout -b edgar-dikenge
 ```
 Obs.: O nome do Branch não precisa de ter a sigla "add", mas neste caso é recomendável, porque a finalidade deste Branch é a de adicionar o teu nome a uma lista.
@@ -50,11 +49,11 @@ Obs.: O nome do Branch não precisa de ter a sigla "add", mas neste caso é reco
 ## Efetua as alterações necessárias e faz um Commit
 
 Agora vá para ficheiro `Contributors.md` no teu editor de código e adicione o seu nome e salve o ficheiro. Se fores para o diretório do projeto e executares o comando `git status`, verás que há alterações. Adiciona essas alterações ao Branch que acabaste de criar utilizando o comando `git add`:
-```
+```bash
 git add Contributors.md
 ```
 Agora faz um Commit dessas alterações utilizando o comando `git commit`:
-```
+```bash
 git commit -m "Add <Teu-nome> to Contributors list"
 ```
 substitui `<Teu-nome>` pelo teu nome ou nickname.
@@ -62,7 +61,7 @@ substitui `<Teu-nome>` pelo teu nome ou nickname.
 ## Faz um Push das alterações para o GitHub
 
 Faz um Push utilizando o comando `git push`:
-```
+```bash
 git push origin <add-teu-nome>
 ```
 substitui `<add-teu-nome>` pelo nome do Branch que criaste anteriormente.
@@ -71,11 +70,11 @@ substitui `<add-teu-nome>` pelo nome do Branch que criaste anteriormente.
 
 Se fores para o teu repositório no GitHub, verás um botão `Compare & pull request`. Clica nesse botão.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="Cria um Pull Request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="criar um pedido de pull" />
 
 Agora envia um Pull Request.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="Envia um pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submeter pedido de pull" />
 
 Quando puder incorporarei as tuas mudanças no Branch principal (master) deste projeto. Vais receber um e-mail de notificação quando as alterações forem incorporadas.
 
@@ -83,7 +82,7 @@ Quando puder incorporarei as tuas mudanças no Branch principal (master) deste p
 
 Partilhe com seus amigos e seguidores [web app](https://firstcontributions.github.io/#social-share).
 
- Podes também juntar-te à nossa equipa no Slack caso precises de alguma ajuda ou tenhas alguma dúvida. [Junta-te à nossa equipa no Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
+Se quiseres praticar mais, consulta [code contributions](https://github.com/roshanjossey/code-contributions).
 
 Aqui tens mais suguestões para a sua próxima contribuição, Baza lá dar uma olhada:
 
