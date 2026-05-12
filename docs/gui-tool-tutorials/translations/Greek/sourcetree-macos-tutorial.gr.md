@@ -116,7 +116,7 @@
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/sourcetree-macos-tutorial/submit-pull-request.png" alt="submit pull request" />
 
-Σύντομα θα ενσωματώσω όλες τις αλλαγές σας στο κύριο κλαδί (master) αυτού του έργου. Θα λάβετε ένα email ειδοποίησης μόλις οι αλλαγές έχουν ενσωματωθεί.
+Σύντομα θα ενσωματώσω όλες τις αλλαγές σας στο κύριο κλαδί (main) αυτού του έργου. Θα λάβετε ένα email ειδοποίησης μόλις οι αλλαγές έχουν ενσωματωθεί.
 
 ## Πού να πάτε από εδώ;
 
