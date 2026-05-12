@@ -185,6 +185,7 @@
 - [Gui Jingzhao](https://github.com/PersianCat-tech)
 - [Guilherme Gomes](https://github.com/guilhermeGH900)
 - [Guilherme Henrique](https://github.com/guih0113)
+- [Guillermo Navarrete](https://github.com/Guille-NaVa01)
 - [Guotao Gou](https://github.com/martin-gou/)
 - [Hafsa Irfan](https://github.com/hafxa)
 - [HaidarAbbas](https://github.com/Haidarabbas731)
