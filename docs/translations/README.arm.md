@@ -5,34 +5,70 @@
 
 # Առաջին ներդրումները
 
-Այս նախագիծը նպատակ ունի պարզեցնել և ուղղորդել, թե ինչպես են սկսնակները կատարում իրենց առաջին ներդրումը: Եթե ​​ցանկանում եք կատարել ձեր առաջին ներդրումը, հետևեք ստորև նշված քայլերին.
+Սկսնակների համար պարզ ու վստահ ուղեցույց՝ ձեր առաջին ներդրումն (առաջին Pull Request-ը) open source նախագծում կատարելու համար։
 
-_Եթե ​​ձեզ դուր չի գալիս հրամանի տողը, [այստեղ կան ձեռնարկներ՝ օգտագործելով GUI գործիքները](#tutorials-using-other-tools)_
+Եթե հրամանի տողը (Terminal) ձեզ հարմար չէ, անցեք [GUI գործիքներով ձեռնարկներին](#gui-tutorials)։
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="վալեցրու այս պահեստը" />
+<a id="contents"></a>
 
-#### Եթե ​​դուք չունեք git ձեր մեքենայի վրա, [տեղադրեք այն](https://docs.github.com/en/get-started/quickstart/set-up-git).
+## Բովանդակություն
 
-## Պատառաքաղեք այս պահոցը
+- [Արագ մեկնարկ](#quickstart)
+- [Նախապայմաններ](#prerequisites)
+- [Քայլ 1․ Fork (պատառաքաղել)](#step-1-fork)
+- [Քայլ 2․ Clone (կլոնավորել)](#step-2-clone)
+- [Քայլ 3․ Branch (մասնաճյուղ ստեղծել)](#step-3-branch)
+- [Քայլ 4․ Փոփոխել և commit անել](#step-4-change-and-commit)
+- [Քայլ 5․ Push (մղել) դեպի GitHub](#step-5-push)
+- [Քայլ 6․ Pull Request ներկայացնել](#step-6-pr)
+- [Հաճախ հանդիպող խնդիրներ](#troubleshooting)
+- [Ձեռնարկներ՝ GUI գործիքներով](#gui-tutorials)
+- [Որտեղ գնալ այստեղից](#next)
 
-Պատառաքաղեք այս պահոցը՝ սեղմելով այս էջի վերևի պատառաքաղի կոճակը:
-Այս կստեղծի այս պահոցի պատճենը ձեր հաշվում.
+<a id="quickstart"></a>
 
-## Կլոնավորեք պահեստը
+## Արագ մեկնարկ
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="պատճենիր այս պահեստը" />
+1. Fork արեք պահոցը GitHub-ում
+2. Clone արեք ձեր fork-ը համակարգչում
+3. Ստեղծեք նոր branch
+4. Թարմացրեք `Contributors.md`-ը և commit արեք
+5. Push արեք branch-ը GitHub
+6. Բացեք Pull Request
 
-Այժմ կլոնավորեք պատառաքաղված պահոցը ձեր մեքենայի մեջ: Գնացեք ձեր GitHub հաշիվ, բացեք պատառաքաղված պահոցը, սեղմեք կոճակի կոճակը և սեղմեք _copy to clipboard_ պատկերակը.
+<a id="prerequisites"></a>
 
-Բացեք տերմինալ և գործարկեք հետևյալ git հրամանը:
+## Նախապայմաններ
+
+- GitHub հաշիվ
+- Git (եթե դեռ չունեք՝ [տեղադրեք Git-ը](https://docs.github.com/en/get-started/quickstart/set-up-git))
+- Տերմինալ (Windows՝ PowerShell / Terminal, macOS / Linux՝ Terminal)
+
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="Fork արեք այս պահոցը" />
+
+<a id="step-1-fork"></a>
+
+## Քայլ 1․ Fork (պատառաքաղեք) այս պահոցը
+
+Սեղմեք էջի վերևում գտնվող **Fork** կոճակը․ արդյունքում այս պահոցի պատճենը կստեղծվի ձեր GitHub հաշվում։
+
+<a id="step-2-clone"></a>
+
+## Քայլ 2․ Clone (կլոնավորեք) ձեր fork-ը
+
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="Կլոնավորեք ձեր պահոցը" />
+
+Գնացեք ձեր GitHub հաշիվ, բացեք ձեր fork արած պահոցը, սեղմեք **Code** կոճակը և պատճենեք հղումը (_Copy to clipboard_)։
+
+Բացեք տերմինալ և գործարկեք՝
 
 ```bash
-git clone "url-ը որ դուք հենց նոր պատճենեցիք"
+git clone "այստեղ-տեղադրեք-ձեր-պատճենած-url-ը"
 ```
 
-որտեղ «url-ը, որը հենց նոր պատճենեցիր» (առանց չակերտների) այս պահոցի url-ն է (այս նախագծի ձեր պատառաքաղը): Դիտեք նախորդ քայլերը՝ URL-ը ստանալու համար
+որտեղ `"այստեղ-տեղադրեք-ձեր-պատճենած-url-ը"` ձեր fork-ի URL-ն է։
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="պատճենիր URL-ը կրծքաթելին" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="Պատճենեք URL-ը clipboard-ում" />
 
 Օրինակ:
 
@@ -40,101 +76,128 @@ git clone "url-ը որ դուք հենց նոր պատճենեցիք"
 git clone git@github.com:this-is-you/first-contributions.git
 ```
 
-որտեղ `this-is-you` ձեր GitHub օգտանունն է: Այստեղ դուք պատճենում եք GitHub-ի առաջին ներդրումների պահոցի բովանդակությունը ձեր համակարգչում.
+որտեղ `this-is-you` ձեր GitHub օգտանունն է։
 
-## Ստեղծեք մասնաճյուղ
+<a id="step-3-branch"></a>
 
-Փոխեք ձեր համակարգչի պահեստի գրացուցակը (եթե արդեն այնտեղ չեք):
+## Քայլ 3․ Ստեղծեք նոր branch (մասնաճյուղ)
+
+Մուտք գործեք հենց նոր կլոնավորած նախագծի պանակը՝
 
 ```bash
 cd first-contributions
 ```
 
-Այժմ ստեղծեք մասնաճյուղ՝ օգտագործելով «git switch» հրամանը:
+Ստեղծեք նոր branch՝
 
 ```bash
-git switch -c քո-նոր-մասնաճյուղի-անունը
+git switch -c your-new-branch-name
 ```
 
-Օրինակ:
+Օրինակ՝
 
 ```bash
-git switch -c add-sarkis-cult
+git switch -c add-your-name
 ```
 
-## Կատարեք անհրաժեշտ փոփոխությունները և commit կատարեք այդ փոփոխությունները
+<a id="step-4-change-and-commit"></a>
 
-Այժմ բացեք `Contributors.md` ֆայլը տեքստային խմբագրիչում, ավելացրեք ձեր անունը դրան: Մի ավելացրեք այն ֆայլի սկզբում կամ վերջում: Տեղադրեք այն ցանկացած տեղ արանքում: Այժմ պահեք ֆայլը.
+## Քայլ 4․ Կատարեք փոփոխությունը և commit արեք
+
+Բացեք նախագծի արմատում գտնվող [`Contributors.md`](../../Contributors.md) ֆայլը, ավելացրեք ձեր անունը ցուցակում և պահեք փոփոխությունը։
+
+Մի ավելացրեք անունը ֆայլի սկզբում կամ վերջում․ տեղադրեք այն ցանկում ցանկացած տեղ՝ շարադրանքի տրամաբանությունը չխախտելով։
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git-ի վիճակը" />
 
-Եթե ​​գնաք նախագծի գրացուցակ և կատարեք `git status` հրամանը, կտեսնեք, որ փոփոխություններ կան.
+Ստուգեք, որ փոփոխությունները տեսանելի են՝
 
-Ավելացրե՛ք այդ փոփոխությունները այն ճյուղին, որը հենց նոր ստեղծեցիք՝ օգտագործելով `git add` հրամանը:
+```bash
+git status
+```
+
+Ավելացրեք ֆայլը staging area՝
 
 ```bash
 git add Contributors.md
 ```
 
-Այժմ կատարեք այդ փոփոխությունները՝ օգտագործելով `git commit` հրամանը:
+Commit արեք փոփոխությունը՝
 
 ```bash
 git commit -m "Add your-name to Contributors list"
 ```
 
-`your-name` փոխարինելով ձեր անունով.
+`your-name`-ը փոխարինեք ձեր անունով։
 
-## Փոփոխությունները մղեք GitHub-ին
+<a id="step-5-push"></a>
 
-Կատարեք ձեր փոփոխությունները՝ օգտագործելով `git push` հրամանը:
+## Քայլ 5․ Push արեք փոփոխությունները GitHub
+
+Ձեր branch-ը մղեք GitHub՝
 
 ```bash
 git push -u origin your-branch-name
 ```
 
-`your-branch-name`-ը փոխարինելով ավելի վաղ ստեղծված մասնաճյուղի անունով.
+`your-branch-name`-ը փոխարինեք ձեր ստեղծած branch-ի անունով։
+
+<a id="troubleshooting"></a>
 
 <details>
-<summary> <strong>Եթե ​​հրելիս սխալներ եք ստանում, սեղմեք այստեղ.</strong> </summary>
+<summary><strong>Եթե push անելիս սխալ եք ստանում, բացեք այստեղ</strong></summary>
 
-- ### Վավերացման սխալ
-       <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
-  remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
-  fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
-  Գնացեք [GitHub-ի ձեռնարկ](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) ձեր հաշվի համար SSH բանալի ստեղծելու և կազմաձևելու վերաբերյալ.
-  </details>
+### Վավերացման (Authentication) խնդիր
 
-## Ներկայացրեք ձեր փոփոխությունները վերանայման
+Եթե տեսնում եք նման սխալ՝
 
-Եթե ​​գնաք ձեր պահոց GitHub-ում, կտեսնեք `Compare & pull request` կոճակը: Սեղմեք այդ կոճակի վրա.
+<pre>
+remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+fatal: Authentication failed for 'https://github.com/&lt;your-username&gt;/first-contributions.git/'
+</pre>
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="ստեղծիր pull request" />
+Դուք պետք է օգտագործեք՝
 
-Այժմ ներկայացրեք pull request-ը.
+- **SSH key** (խորհուրդ է տրվում) կամ
+- **Personal Access Token (PAT)**՝ եթե HTTPS եք օգտագործում։
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="ուղարկիր pull request" />
+Տե՛ս GitHub-ի ուղեցույցը՝ SSH բանալի ստեղծելու և ավելացնելու համար․  
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
+</details>
 
-Շուտով ես կմիավորեմ ձեր բոլոր փոփոխությունները այս նախագծի հիմնական ճյուղի մեջ: Փոփոխությունները միաձուլվելուց հետո դուք կստանաք ծանուցման նամակ.
+<a id="step-6-pr"></a>
 
-## Որտեղ գնալ այստեղից?
+## Քայլ 6․ Ներկայացրեք Pull Request (PR)
 
+Գնացեք ձեր fork-ի էջը GitHub-ում․ սովորաբար կտեսնեք `Compare & pull request` կոճակը։ Սեղմեք այն։
 
-Շնորհավորում եմ Դուք հենց նոր ավարտեցիք ստանդարտ _fork -> clone -> edit -> pull request_ աշխատանքային հոսքը, որը հաճախ կհանդիպեք որպես ներդրող!
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="Ստեղծեք Pull Request" />
 
-Նշեք ձեր ներդրումը և կիսվեք այն ձեր ընկերների և հետևորդների հետ՝ գնալով [վեբ հավելված](https://firstcontributions.github.io/#social-share).
+Այժմ լրացրեք վերնագիրը/նկարագրությունը և ուղարկեք Pull Request-ը։
 
-Եթե ցանկանում եք ավելի շատ փորձ ձեռք բերել, տեսեք [ծածկագրի ներդրումները](https://github.com/roshanjossey/code-contributions)։
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="Ուղարկեք Pull Request" />
 
+Փոփոխությունները հաստատվելուց և միաձուլվելուց հետո դուք կստանաք ծանուցում GitHub-ից։
 
-Հիմա եկեք սկսենք ձեր ներդրումն ունենալ այլ նախագծերում: Մենք կազմել ենք հեշտ խնդիրներ ունեցող նախագծերի ցանկ, որոնցից կարող եք սկսել: Ստուգեք [վեբ հավելվածի նախագծերի ցանկը](https://firstcontributions.github.io/#project-list).
+<a id="next"></a>
 
-### [Լրացուցիչ նյութ](additional-material/git_workflow_scenarios/additional-material.md)
+## Որտեղ գնալ այստեղից
 
-## Ձեռնարկներ՝ օգտագործելով այլ գործիքներ
+Շնորհավորում եմ․ դուք ավարտեցիք ստանդարտ `fork → clone → edit → pull request` հոսքը, որը ամենահաճախն է հանդիպում open source ներդրումների ժամանակ։
 
-| <a href="gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
+- Կիսվեք ձեր առաջին ներդրմամբ՝ [վեբ հավելվածում](https://firstcontributions.github.io/#social-share)
+- Եթե ցանկանում եք ավելի շատ փորձ հավաքել, դիտեք [code-contributions](https://github.com/roshanjossey/code-contributions)
+- Փնտրեք սկսնակների համար հարմար նախագծեր՝ [project list](https://firstcontributions.github.io/#project-list)
+
+### [Լրացուցիչ նյութ](../additional-material/git_workflow_scenarios/additional-material.md)
+
+<a id="gui-tutorials"></a>
+
+## Ձեռնարկներ՝ GUI գործիքներով
+
+| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [GitHub Desktop](gui-tool-tutorials/github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](gui-tool-tutorials/github-windows-vs2017-tutorial.md)                                                                                                                          | [GitKraken](gui-tool-tutorials/gitkraken-tutorial.md)                                                                                                                                        | [Visual Studio Code](gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                                                  | [Atlassian Sourcetree](gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                                      | [IntelliJ IDEA](gui-tool-tutorials/github-windows-intellij-tutorial.md)                                                                                                                                                          |
+| [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md)                                                                                                                          | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md)                                                                                                                                        | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                                                  | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                                      | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md)                                                                                                                                                          |
 
 <p>Այս նախագծին աջակցում են:</p>
 <p>
