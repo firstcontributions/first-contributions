@@ -697,3 +697,4 @@
 - [Vinicius Tamari](https://github.com/vinicius-tamari) 
 -[rafaelx890](https://github.com/rafaelx890)
 -[diganth_23](https://github.com/diganth_23)
+- [Brian Chen Hao](https://github.com/brianchenhao)
