@@ -25,6 +25,7 @@
 - [Abdul Azeez](https://github.com/Syedabdulazeez-021)
 - [Abdul Kareem](https://github.com/abdulkareem97)
 - [Abdullah Elsafty](https://github.com/your-abdullahelsafty4)
+- [Lorenzo Pica](https://github.com/Atmoloid)
 - [Abdullah Semar](https://github.com/abdullahsemar)
 - [Abhay Agnihotri](https://github.com/Abhay-Agnihotri01/)
 - [Abhay Sharma](https://github.com/asabhaysharma)
