@@ -186,6 +186,7 @@ OAT
 - [Georgia Pennington](https://github.com/gpenn4)
 - [German Morelli](https://github.com/GermanMorelli)
 - [Gisele Medina](https://github.com/code-medina)
+- [Giorgio Bellia](https://github.com/GiorgioBellia)
 - [Gourav soni](https://github.com/mrgaurav81)
 - [Gui Jingzhao](https://github.com/PersianCat-tech)
 - [Guilherme Gomes](https://github.com/guilhermeGH900)
