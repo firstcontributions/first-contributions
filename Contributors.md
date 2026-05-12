@@ -341,6 +341,7 @@ OAT
 - [Osinachi Chukwujama](https://github.com/vicradon)
 - [Ossama Nahle](https://github.com/ossamanahle)
 - [Ozan Kenan Güngör](https://github.com/ozankenangungor)
+- [Salar Memon](https://github.com/Salarmemon)
 - [Pablo Hermun](https://github.com/PabloHermun)
 - [Paige Li](https://github.com/itspaigenli)
 - [Palak](https://github.com/palak1-2)
