@@ -85,3 +85,29 @@
 | <img alt="Kurdî" title="Kurdî (Kurdish)" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Flag_of_Kurdistan.svg" width="22"> | [Kurdî](README.kr.md) |
 | <img alt="Javanese" title="Javanese" src="https://flagcdn.com/id.svg" width="22"> | [Javanese](README.jv.md) |
 | <img title="Монгол хэл" alt="Монгол хэл" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/mn.svg" width="22"> | [Монгол хэл](README.mn.md) |
+| Assamese | [First Contributions](README.assamese.md) |
+| Montenegrin | [Montenegrin](README.cnr.md) |
+| Español (Colombia) | [Primeras Contribuciones](README.col.md) |
+| Español (Ecuador) | [Primeras Contribuciones](README.ec.md) |
+| Esperanto | [Unuaj Kontribuoj](README.eo.md) |
+| Ewe | [Kpekpeɖeŋu Gbãtɔ](README.ewe.md) |
+| Filipino | [Mga Unang Kontribusyon](README.fil.md) |
+| Gaeilge (Irish) | [Tosaíonn Céad Cuireadh](README.ga.md) |
+| Ghanaian | [Ntoboa a Edi Kan](README.gh.md) |
+| Hrvatski (Croatian) | [Prvi doprinosi](README.hr.md) |
+| Հայերեն (Armenian) | [Առաջին ներդրումները](README.hy.md) |
+| ភាសាខ្មែរ (Khmer) | [ការរួមចំណែកជាលើកដំបូង](README.kh.md) |
+| Кыргызча (Kyrgyz) | [Алгачкы салымдар](README.ky.md) |
+| Lingala | [Makabo nto contribution ya Liboso](README.ln.md) |
+| Luganda | [Okwongezaako Eby'okusooka](README.lug.md) |
+| Moroccan Arabic | [Awel Moucharaka](README.ma.md) |
+| Montenegrin | [Prvi doprinos](README.me.md) |
+| Malagasy | [Fandraisana anjara voalohany](README.mg.md) |
+| Bambara (Mali) | [Bolomafara fɔlɔw](README.mli.md) |
+| Português (Angola) | [Primeiras Contribuições](README.pt-ao.md) |
+| سنڌي (Sindhi) | [پهريون تعاون](README.sindhi.md) |
+| Slovenčina (Slovak) | [Prvý príspevok](README.sk.md) |
+| Kiswahili | [Mchango wa Kwanza](README.sw.md) |
+| Tunisian Arabic | [Awel Contribution fil github bil tounsi](README.tn.md) |
+| Alien | [⎎⟟⍀⌇⏁ ☊⍜⋏⏁⍀⟟⏚⎍⏁⟟⍜⋏⌇](README.un-aln.md) |
+| O'zbek | [Birinchi hissalar](README.uz.md) |
