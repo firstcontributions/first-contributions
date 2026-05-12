@@ -725,4 +725,5 @@ OAT
 -[Ayush Kumar](https://github.com/ayushkumar87)
 -[Shikhar Srivastava](https://github.com/shikhar818)
 -[Sachin Kumar](https://github.com/sachin1301-w)
+-[Gurvir Singh](https://github.com/Gurvir1singh)
 -[Ekjyot Kaur](https://github.com/Ekjyotkaur07)
