@@ -950,5 +950,5 @@ justdembey[https://github.com/justdembey]
 -[Srinithi Maran](https://github.com/srinithithirumaran)
 -[cealiaaa](https://github.com/cealiaaa)
 - [AanandYadav12](https://github.com/AanandYadav12)
-- [Luqman Asif](https://github.com/mla303) @   11/05/2026
->>>>>>> upstream/main
+- [Luqman Asif](https://github.com/mla303)
+-[Ayush Kumar](https://github.com/ayushkumar87)
