@@ -482,6 +482,7 @@
 - [Satyabrata Das](https://github.com/satya-py)
 - [SatyamCode12](https://github.com/SatyamCode12)
 - [Satyanshi Singh](https://github.com/23f3004132)
+- [Satyendra Kumar](https://github.com/thesatyendrakumar)
 - [Saumya Bhagat](https://github.com/saumyaaa4)
 - [Saurav Sharma](https://github.com/saurav0369)
 - [Sayan Koley](https://github.com/sayan110923)
