@@ -1,3 +1,4 @@
+- [rud1x](https://github.com/rud1x)
 - [170joeychua](https://github.com/170joeychua)
 - [171joeychua](https://github.com/171joeychua2)
 - [1ESA1](https://github.com/1ESA1)
