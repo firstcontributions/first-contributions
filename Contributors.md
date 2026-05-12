@@ -217,6 +217,7 @@
 - [IronByron](https://github.com/IronByron-GH)
 - [Ishaan C](https://github.com/Ishaan-C)
 - [Ishan Gupta](https://github.com/developer-ishan)
+- [Anuja Wanigasekara](https://github.com/Anuja222)
 - [Ishan Verma](https://github.com/ishan4432)
 - [Ishit](https://github.com/ishitGsigma)
 - [Ishita Singh](https://github.com/codeishitech)
