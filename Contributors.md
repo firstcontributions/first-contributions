@@ -721,5 +721,4 @@ OAT
 -[cealiaaa](https://github.com/cealiaaa)
 - [AanandYadav12](https://github.com/AanandYadav12)
 -[Ayush Kumar](https://github.com/ayushkumar87)
--[Shikhar Srivastava](https://github.com/shikhar818)
--[Sachin Kumar](https://github.com/sachin1301-w)
+-[Aayushi Mohan](https://github.com/AayushiMohan)
