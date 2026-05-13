@@ -689,6 +689,7 @@ OAT
 - [Vishnupriya Shisode](https://github.com/vishnupriya-shisode)
 - [Vitali K](https://github.com/captainvita)
 - [Vivek Soni](https://github.com/vivek-s-soni)
+- [Brett Beloin](https://github.com/brettbeloin)
 - [VivekDeshmukh98](https://github.com/VivekDeshmukh98)
 - [Vivian](https://github.com/vivianps29)
 - [VizzScript](https://github.com/vizzscript)
