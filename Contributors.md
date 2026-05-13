@@ -763,3 +763,4 @@ OAT
 - [Guan-Xing-Zhe (Stargazer)](https://github.com/Guan-Xing-Zhe)
 - [IruTech](https://github.com/irutech777/)
 - [Idlechip](https://github.com/idlechip)
+- [Katti Janardhan](https://github.com/jdkatti)
