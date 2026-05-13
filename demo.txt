@@ -1,1 +1,2 @@
 This line was edited in the conflict-demo branch.
+This line was edited in the main branch.
