@@ -15,6 +15,7 @@
 - [171joeychua](https://github.com/171joeychua2)
 - [Chirantan112](https://github.com/Chirantan112)
 - [1ESA1](https://github.com/1ESA1)
+- [Vaibhav Kumar](https://github.com/hudson-hornet-01)
 - [Dhanush Raj](https://github.com/V-R-DhanushRaj)
 - [21f2001400](https://github.com/21f2001400-cloud)
 - [George Falcon](https://github.com/kanvastudio)
