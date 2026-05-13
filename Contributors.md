@@ -764,4 +764,3 @@ OAT
 - [IruTech](https://github.com/irutech777/)
 - [Idlechip](https://github.com/idlechip)
 - [Katti Janardhan](https://github.com/jdkatti)
-- [cyx](https://github.com/chen1942252746)
