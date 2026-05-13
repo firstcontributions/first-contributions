@@ -770,5 +770,6 @@ OAT
 - [Guan-Xing-Zhe (Stargazer)](https://github.com/Guan-Xing-Zhe)
 - [IruTech](https://github.com/irutech777/)
 - [Idlechip](https://github.com/idlechip)
+- [Marcos Rodriguez](https://github.com/marcosrodriguezmira/first-contributions.git)
 - [Katti Janardhan](https://github.com/jdkatti)
 -  [Harsh singh](https://github.com/harsh63528)
