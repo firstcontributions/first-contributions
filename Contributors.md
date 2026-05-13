@@ -27,6 +27,7 @@
 - [Abdellah](https://github.com/Abdev314)
 - [Abdelrahman_Mohye](https://github.com/aboda-0100011)
 - [Abdul Azeez](https://github.com/Syedabdulazeez-021)
+- [Priyanjal Rathore](https://github.com/rathore80)
 - [Abdul Kareem](https://github.com/abdulkareem97)
 - [Abdullah Elsafty](https://github.com/your-abdullahelsafty4)
 - [Asnaks](https://github.com/Asnaks)
