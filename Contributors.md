@@ -256,6 +256,7 @@ OAT
 - [Jaehoon Son](https://github.com/JaehoonSon)
 - [Jame](https://github.com/PL00T00)
 - [James Athanasopoulos](https://github.com/athje001)
+- [Janosch Püschel](https://github.com/janosch-pueschel)
 - [JanosNagy](https://github.com/JaniITmer)
 - [Janvi Chetan Patel](https://github.com/JanviChetanPatel)
 - [Josman Dev](https://github.com/jmaldama8110)
