@@ -1,1 +1,1 @@
-This is the original content.
+This line was edited in the conflict-demo branch.
