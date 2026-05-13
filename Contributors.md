@@ -353,6 +353,7 @@ OAT
 - [Noah Schroeder](https://github.com/nrschroeder)
 - [Noëlla Vivienne](https://github.com/noellav/)
 - [Nícolas Marinho](https://github.com/nicolasmarinhoo)
+- [Nguyen Quoc Thai](https://github.com/nqt-2)
 - [OSoufian](https://github.com/OSoufian)
 - [Olamilekan](https://github.com/kilan080)
 - [Olapu Ajay](https://github.com/olapuajay)
