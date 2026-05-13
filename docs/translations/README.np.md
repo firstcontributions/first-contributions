@@ -41,7 +41,7 @@
 <kbd>[<img title="Bahasa Melayu / بهاس ملايو‎ / Malay" alt="Bahasa Melayu / بهاس ملايو‎ / Malay" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/my.svg" width="22">](translations/README.my.md)</kbd>
 <kbd>[<img title="Dutch" alt="Dutch" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/nl.svg" width="22">](translations/README.nl.md)</kbd>
 <kbd>[<img title="Norsk" alt="Norsk" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/no.svg" width="22">](translations/README.no.md)</kbd>
-<kbd>[<img title="नेपाली" alt="नेपाली" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/np.svg" width="15">](translations/README.np.md)</kbd>
+<kbd>[<img title="नेपाली" alt="नेपाली" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/np.svg" width="22">](translations/README.np.md)</kbd>
 <kbd>[<img title="Wikang Filipino" alt="Wikang Filipino" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ph.svg" width="22">](translations/README.tl.md)</kbd>
 <kbd>[<img title="English (Pirate)" alt="English (Pirate)" src="https://firstcontributions.github.io/assets/Readme/pirate.png" width="22">](translations/README.en-pirate.md)</kbd>
 <kbd>[<img title="اُاردو" alt="اردو" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/pk.svg" width="22">](translations/README.ur.md)</kbd>
