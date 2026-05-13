@@ -56,6 +56,7 @@
 - [Avanish](https://github.com/satyaavanish)
 - [Aya Driouche](https://github.com/aya119119)
 - [Vishnu Anand](https://github.com/Vishnurockyedwards)
+- Ayinomba E
 - [AyorindeAdunse](https://github.com/ayorindeadunse)
 - [Ayush Kumar](https://github.com/Ayush123-e/first-contributions)
 - [Ayush Priyadarshi](https://github.com/Ayu-zh)
