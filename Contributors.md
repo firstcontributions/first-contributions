@@ -649,6 +649,7 @@ OAT
 - [Tushar Rampurkar](https://github.com/Gitnerd77)
 - [Tushar](https://github.com/tusharynayaka)
 - [Tyler O'Farrell](https://github.com/tyler3650)
+- [Allen Rahul](https://github.com/Allen737)
 - [U Shivakumar](https://github.com/Shivakumarsullagaddi)
 - [Udochukwu Anigbogu](https://github.com/Bubbles80)
 - [Ultra Boy](https://github.com/ultraboy5522)
