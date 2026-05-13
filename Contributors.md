@@ -24,7 +24,7 @@
 - [8saku](https://github.com/8saku8)
 - [@Zakiahsan-arch](https://github.com/Zakiahsan-arch)
 - [Aakanksha Jadhav](https://github.com/aakankshajadhav2006)
-- [Samir Khanal](https://github.com/shawmeer
+- [Samir Khanal](https://github.com/shawmeer)
 - [Aamir Khan](https://github.com/aamir296)
 - [Aamir](https://github.com/AamirMNAamir)
 - [Aaryan Pandey](https://github.com/aaryanpandey29)
@@ -310,6 +310,7 @@ OAT
 - [Luiz Eduardo Oliveira Mendes](https://github.com/DuduBz7)
 - [Luka](https://github.com/LukachuPro88)
 - [Luohino](https://github.com/Luohino)
+- [Lythae|Öykü](https://github.com/oykunazergelen)
 - [MOHAMED ARRAF](https://github.com/medoxee)
 - [M_Rizwan](https://github.com/rizwan749)
 - [Maanas Casp](https://github.com/Maanas-Casp)
