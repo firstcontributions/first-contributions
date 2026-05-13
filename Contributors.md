@@ -10,6 +10,7 @@
 - [1ESA1](https://github.com/1ESA1)
   Jesse Mwangi
 - [Dhanush Raj](https://github.com/V-R-DhanushRaj)
+- [Jesse Mwangi](https://github.com/gitdajesse)
 - [21f2001400](https://github.com/21f2001400-cloud)
 - [George Falcon](https://github.com/kanvastudio)
 - [25ds2000008](25ds2000008@ds.study.iitm.ac.in)
