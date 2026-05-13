@@ -19,6 +19,7 @@
 - [25ds2000008](25ds2000008@ds.study.iitm.ac.in)
 - [66point99](https://github.com/66point99)
 - [6NaCl](https://github.com/6NaCl)
+- [Chkoo](https://github.com/Chirantan112)
 - [8saku](https://github.com/8saku8)
 - [@Zakiahsan-arch](https://github.com/Zakiahsan-arch)
 - [Aakanksha Jadhav](https://github.com/aakankshajadhav2006)
