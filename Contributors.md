@@ -50,6 +50,7 @@
 - [Avani J C](https://github.com/Avani24-byte)
 - [Avanish](https://github.com/satyaavanish)
 - [Aya Driouche](https://github.com/aya119119)
+- [Vishnu Anand](https://github.com/Vishnurockyedwards)
 - [AyorindeAdunse](https://github.com/ayorindeadunse)
 - [Ayush Kumar](https://github.com/Ayush123-e/first-contributions)
 - [Ayush Priyadarshi](https://github.com/Ayu-zh)
