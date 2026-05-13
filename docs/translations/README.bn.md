@@ -17,7 +17,7 @@
 
 ## এই রিপোজিটরি ফর্ক করুন
 
-এই রিপোজিটরি ফর্ক করতে 'ক্লিক এর মাধ্যমে' এই পৃষ্ঠার উপরে ফর্ক বাটনে ক্লিক করুন।
+এই রিপোজিটরি ফর্ক করতে 'ক্লিকের মাধ্যমেে' এই পৃষ্ঠার উপরে ফর্ক বাটনে ক্লিক করুন।
 এটি আপনার অ্যাকাউন্টে এই রিপোজিটরির একটি কপি তৈরি করবে।
 
 ## রিপোজিটরি ক্লোন করুন
@@ -64,7 +64,7 @@ git switch -c <your-new-branch-name>
 git switch -c add-alonzo-church
 ```
 
-(ব্রাঞ্চের নামে _add_ শব্দটি যুক্ত থাকা জরুরী নয়। তবে এই ব্রাঞ্চের উদ্দেশ্য যেহেতু আপনার নাম তালিকাভুক্ত করা, সেহেতু _add_ শব্দটি যুক্ত থাকাই কাম্য।)
+(ব্রাঞ্চের নামে _add_ শব্দটি যুক্ত থাকা জরুরি নয়। তবে এই ব্রাঞ্চের উদ্দেশ্য যেহেতু আপনার নাম তালিকাভুক্ত করা, সেহেতু _add_ শব্দটি যুক্ত থাকাই কাম্য।)
 
 ## প্রয়োজনীয় পরিবর্তন করুন ও পরিবর্তনগুলো কমিট করুন
 
@@ -96,10 +96,10 @@ git push origin -u <your-new-branch-name>
 <summary> <strong>পুশ করতে সমস্যা হলে এখানে ক্লিক করুন:</strong> </summary>
 
 - ### অথ্যানটিকেশনে সমস্যা
-     <pre>remote: পাসওয়ার্ড অথ্যানটিকেশনের সাপোর্ট আগস্ট ১৩, ২০২১ থেকে আর নেই। Personal access token ব্যাবহার করুন।
+     <pre>remote: পাসওয়ার্ড অথ্যানটিকেশনের সাপোর্ট আগস্ট ১৩, ২০২১ থেকে আর নেই। Personal access token ব্যবহার করুন।
   remote: https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ তে আরো তথ্য পাবেন।
   fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
-  [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) এ আপনার একাউন্টে SSH key generation এবং configuration
+  [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) এ আপনার অ্যাকাউন্টে SSH key generation এবং configuration
   এর আরো তথ্য পাবেন।
 
 </details>
