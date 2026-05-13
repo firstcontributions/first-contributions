@@ -73,6 +73,7 @@
 - [Ayushi Rajput](https://github.com/Ayushi-ninja)
 - [Basma BT](https://github.com/Boutaib-Basma)
 - [Behruzbek Madiyarov](https://github.com/behruzbekjs)
+- [gavr malt](https://github.com/gavrmalt)
 - [Ben Cruwys](https://github.com/bencruwys)
 - [Ben Huotari](https://github.com/benhuotari)
 - [Benhein Michael Ruben L](https://github.com/ben002mr)
