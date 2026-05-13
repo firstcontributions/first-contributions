@@ -9,7 +9,7 @@
 - [170joeychua](https://github.com/170joeychua)
 - [171joeychua](https://github.com/171joeychua2)
 - [1ESA1](https://github.com/1ESA1)
-- [Dhanush Raj](https://github.com/V-R-DhanushRaj)
+- [Dhanush Raj](https://github.com/V-R-DhanushRaj
 - [21f2001400](https://github.com/21f2001400-cloud)
 - [George Falcon](https://github.com/kanvastudio)
 - [25ds2000008](25ds2000008@ds.study.iitm.ac.in)
@@ -22,6 +22,7 @@
 - [Aamir](https://github.com/AamirMNAamir)
 - [Aaryan Pandey](https://github.com/aaryanpandey29)
 - [Abhishek Agrawal](https://github.com/agrawalabhi881-a11y)
+- [Mayur Lad](https://github.com/mayurlad)
 -[Renuka Pawar](https://github.com/RenukaPawar658)
 - [Aashish](https://github.com/Aashish-po)
 - [Abdellah](https://github.com/Abdev314)
