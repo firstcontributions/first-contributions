@@ -47,6 +47,7 @@
 - [Anson Chen](https://github.com/zhonganchen-anson)
 - [Ashitha T](https://github.com/Ashi-tha)
 - [Asif Khan](https://github.com/Mak-1911)
+- [Jesse Mwangi](https://github.com/gitdajesse)
 - [Asif Raza Ansari](https://github.com/asifraza-776)
 - [Asiya Mujawar](https://github.com/asiyamujawar)
 - [Assaf Lewin](https://github.com/Assaf1713)
