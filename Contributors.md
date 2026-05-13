@@ -111,6 +111,7 @@ OAT
 - [Charly Islami](https://github.com/CharlyIslami)
 - [Charul Nampalliwar](https://github.com/Charul2304)
 - [Chemini Newanma](https://github.com/chemini244)
+- Chinmayee 
 - [Chinenye Agu](https://github.com/Drchiagu)
 - [apoorv_v](https://github.com/apoorvnv)
 - [Chirag Bimali](https://github.com/chirag-bimali)
