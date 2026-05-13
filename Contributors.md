@@ -160,6 +160,7 @@ OAT
 - [Divyam Pariyar](https://github.com/div-html)
 - [Divyanshu Tiwari](https://github.com/DivyanshuTiwari12)
 - [Divyom Srivastava](https://github.com/DivyomSrivastava)
+- [Max Taunton](https://github.com/PepsiMaxT)
 - [Dmytro Riehush](https://github.com/Diman98)
 - [Domenico Vecchio](https://github.com/domenico-vecchio)
 - [Dominic](https://github.com/mozz37)
