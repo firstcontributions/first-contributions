@@ -564,6 +564,7 @@ OAT
 - [Shubham Vithalkar](https://github.com/shubhamvithalkar)
 - [ShubhamK](https://github.com/Shubham91999)
 - [Sid-5137](https://github.com/Sid-5137)
+- [Akshit Goel](https://github.com/aclox)
 - [Siddharth S](https://github.com/codeXsidd)
 - [Siddhartha Kushwaha](https://github.com/DevSidd2006)
 - [Sindhu Reddy](https://github.com/prodduturisindhurdy)
