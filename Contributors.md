@@ -84,6 +84,7 @@ Venkateswaran
 - [Pablo Avila](https://github.com/paf106)
 - [Joshua Koyeerath](https://github.com/koyeerathjoshua)
 - [Prashanta](https://github.com/PrashBytes)
+- [Boris Vicena](https://github.com/borisvicena)
 - [DelmedigoA] (https://github.com/DelmedigoA)
 - [Platostol](https://github.com/Platostol)
 - [Sneha Kumari](https://github.com/snehapriy958)
