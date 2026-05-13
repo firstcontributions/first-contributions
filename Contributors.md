@@ -5,6 +5,7 @@
 - [Christy](https://github.com/ChristyBK202)
 - [Shivansh Goel89](https://github.com/SHIVANSH-ux-ys)
 - [rud1x](https://github.com/rud1x)
+-[Munish Kumar](https://github.com/munishmalhotra6230)
 - [170joeychua](https://github.com/170joeychua)
 - [171joeychua](https://github.com/171joeychua2)
 - [1ESA1](https://github.com/1ESA1)
