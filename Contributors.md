@@ -30,6 +30,7 @@
 - [Abdullah Elsafty](https://github.com/your-abdullahelsafty4)
 - [Lorenzo Pica](https://github.com/Atmoloid)
 - [Prajwal V R](https://github.com/prajwal-vr)
+- [Aryak Singh](https://github.com/aryaksinghh)
 - [Abdullah Semar](https://github.com/abdullahsemar)
 - [Abhay Agnihotri](https://github.com/Abhay-Agnihotri01/)
 - [Abhay Sharma](https://github.com/asabhaysharma)
