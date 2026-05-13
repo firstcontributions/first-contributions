@@ -165,6 +165,7 @@ OAT
 - [Edgar Mireles](https://github.com/edgarmb14)
 - [Elaine-764](https://github.com/Elaine-764)
 - [Elif Ş.](https://github.com/elifsz)
+- [EAyinomba](https://github.com/Jxt-Eli)
 - [Elijah Weiss](https://github.com/eweiss4)
 - [Elijah](https://github.com/Elijah647)
 - [Fabirizio Raffaelli](https://github.com/Fabro23)
