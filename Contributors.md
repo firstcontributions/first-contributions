@@ -10,6 +10,7 @@
 - [Julia](https://github.com/JuliaArison)
 - [bnova7](https://github.com/bnova7)
 - [Christy](https://github.com/ChristyBK202)
+- [Mayur Lad](https://github.com/mayurlad)
 - [Shivansh Goel89](https://github.com/SHIVANSH-ux-ys)
 - [rud1x](https://github.com/rud1x)
 - [coding-world-855]{https://github.com/coding-world855}
@@ -34,6 +35,7 @@
 - [Aamir](https://github.com/AamirMNAamir)
 - [Aaryan Pandey](https://github.com/aaryanpandey29)
 - [Abhishek Agrawal](https://github.com/agrawalabhi881-a11y)
+- [Mayur Lad](https://github.com/mayurlad)
 - [Djombissi Daniels](https://github.com/DMSD003)
 -[Renuka Pawar](https://github.com/RenukaPawar658)
 - [Aashish](https://github.com/Aashish-po)
