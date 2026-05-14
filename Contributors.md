@@ -395,6 +395,7 @@ OAT
 - [Pavel Shegay](https://github.com/pavelshegay3)
 - [Peter Imoh Victor](https://github.com/peterimoh)
 - [Peter McGee](https://github.com/pmcgee-personal)
+- [Médéric DOMINICI](https://github.com/MedericDOMINICI)
 - [Phenyo Morulane](https://github.com/spoja-10)
 - [Piotr Wrzosek](https://github.com/pwrzosek)
 - [Piyush Srivastava](https://github.com/Phoenix-2207)
