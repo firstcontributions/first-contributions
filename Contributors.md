@@ -114,6 +114,7 @@
 - [Caleb Ripley](https://github.com/cdripley7-bit)
 - [Caleb Rollf](https://github.com/lemonsloth)
 - [Canberk Girgin](https://github.com/canberkg67)
+- [Jin_Sakai](https://github.com/ShamGaneshan2008)
 - [Cang Li](https://github.com/s0raLin)
 OAT
 - [CapyBaraTheKing](https://github.com/molangmalang)
