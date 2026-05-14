@@ -41,6 +41,7 @@ rashid adiyarambath
 - [Aamir Khan](https://github.com/aamir296)
 - [Niharika Gupta](https://github.com/guptaniharika8953)
 - [Aamir](https://github.com/AamirMNAamir)
+- [Aarjav Patriya](https://github.com/Aarjav0p)
 - [Aaryan Pandey](https://github.com/aaryanpandey29)
 - [Abhishek Agrawal](https://github.com/agrawalabhi881-a11y)
 - [Djombissi Daniels](https://github.com/DMSD003)
