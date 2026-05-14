@@ -6,6 +6,7 @@
 - [xPayload](https://github.com/xPayload)
 - [Robert Stefan](https://github.com/rstefan84)
 - [Julia](https://github.com/JuliaArison)
+- [bnova7](https://github.com/bnova7)
 - [Christy](https://github.com/ChristyBK202)
 - [Shivansh Goel89](https://github.com/SHIVANSH-ux-ys)
 - [rud1x](https://github.com/rud1x)
