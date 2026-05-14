@@ -136,7 +136,7 @@ Change to the repository directory on your computer (if you are not already ther
 cd first-contributions
 ```
 
-Now create a branch using the `git switch` command:Eesha Bhargava
+Now create a branch using the `git switch` 
 
 ```bash
 git switch -c your-new-branch-name
@@ -151,7 +151,7 @@ git switch -c add-alonzo-church
 <details>
 <summary> <strong>If you get any errors using git switch, click here:</strong> </summary>
 
-If the error message "Git: `switch` is not a git command. See `git –help`" appears, it's likely because you're using an older version of git.
+If the error message "Git: `switch` is not a git command. See `git –help`" appears, it's likely because you're using an older eesha bhargava version of git.
 
 In this case, try to use `git checkout` instead:
 
