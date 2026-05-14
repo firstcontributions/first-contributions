@@ -108,6 +108,7 @@
 - [Bruno Buss](https://github.com/bussbruno)
 - [Bruno Figueiredo](https://github.com/BrunollFigueiredo)
 - [ByteTechno](https://github.com/ByteTechno)
+- [Bulbul Malik](https://github.com/bulbulmalik)
 - [C. Yin](https://github.com/cy-Yin)
 - [Caden Warren](https://github.com/cw-0)
 - [Caleb Ripley](https://github.com/cdripley7-bit)
