@@ -805,4 +805,6 @@ OAT
 - [Manish Shinde](https://github.com/Manish-1415)
 - [hulk](https://github.com/rishitha-1224)
 - [liyaan](https://github.com/SreeramRishitha)
+- [buddy](https://github.com/rishitha-1224)
+
 
