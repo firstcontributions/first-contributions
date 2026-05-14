@@ -1,3 +1,6 @@
+-[Shreya Singh]
+(https://github.com/shreya123) - Shreyasingh | Code • Learn • Build
+
 - [Kamrul Hossain](https://github.com/kamrullab) - EliteKamrul | Code • Learn • Build
 - [APH](https://github.com/AungPhyo774)
 - [zerobruhman](https://github.com/zerobruhman)
