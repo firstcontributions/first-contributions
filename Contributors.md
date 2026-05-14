@@ -153,6 +153,7 @@ OAT
 - [Devika Menon](https://github.com/DevikaaMenon)
 - [Dhakshith S](https://github.com/Dhakshith)
 - [Dhanush](https://github.com/imdhanukulkarni)
+- [Dharani Eswaramurthi](https://github.com/Dharani-Eswaramurthi)
 - [Dharun R](https://github.com/dharun36)
 - [DhirajB05](https://github.com/DhirajB05)
 - [DhritiTS](https://github.com/DhritiTS)
