@@ -7,6 +7,7 @@
 - [Dotify_71](https://github.com/Dotify_71)
 - [Abdul-Rehman](https://github.com/raoabdulrehman29-dev)
 - [Matsuda](https://github.com/matsudaushekage) — DevOps student
+- [Manaswini Saroja Reddy Karri](https://github.com/Manaswinisaroja) - Aspiring Entrepreneur
 - [xPayload](https://github.com/xPayload)
 - [Sarthak Bahal](https://github.com/sarthakbahal)
 - [Robert Stefan](https://github.com/rstefan84)
