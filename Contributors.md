@@ -45,6 +45,7 @@ rashid adiyarambath
 - [Aaryan Pandey](https://github.com/aaryanpandey29)
 - [Abhishek Agrawal](https://github.com/agrawalabhi881-a11y)
 - [Djombissi Daniels](https://github.com/DMSD003)
+- [Nidhi Kumari](https://github.com/nidhii-dev)
 -[Renuka Pawar](https://github.com/RenukaPawar658)
 - [Aashish](https://github.com/Aashish-po)
 - [Abdellah](https://github.com/Abdev314)
