@@ -18,6 +18,7 @@
 - [Christy](https://github.com/ChristyBK202)
 - [Shivansh Goel89](https://github.com/SHIVANSH-ux-ys)
 - [rud1x](https://github.com/rud1x)
+- [pastaepiselli] (https://github.com/pastaepiselli)
 - [shreya] (https://github.com/Shreya1810-tech)
 - [Ibtisam Ali](https://github.com/adventureibtisam111)
 - [coding-world-855]{https://github.com/coding-world855}
