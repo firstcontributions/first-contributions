@@ -327,6 +327,7 @@ OAT
 - [M_Rizwan](https://github.com/rizwan749)
 - [Maanas Casp](https://github.com/Maanas-Casp)
 - [Maanasa Kambam](https://github.com/kambammaanasa08-afk)
+- [Harsh Bhardwaj](https://github.com/harshbhardwaj000)
 - [Madhav Singh](https://github.com/maddy710)
 - [Muhammed Shareef](https://github.com/shareefmx)
 - [Muhsil NR](https://github.com/mhlohh)
