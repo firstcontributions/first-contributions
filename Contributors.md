@@ -28,6 +28,7 @@
 - [8saku](https://github.com/8saku8)
 - [@Zakiahsan-arch](https://github.com/Zakiahsan-arch)
 - [Aakanksha Jadhav](https://github.com/aakankshajadhav2006)
+rashid adiyarambath
 - [Samir Khanal](https://github.com/shawmeer)
 - [Aamir Khan](https://github.com/aamir296)
 - [Niharika Gupta](https://github.com/guptaniharika8953)
