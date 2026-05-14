@@ -30,6 +30,7 @@
 - [Abdullah Semar](https://github.com/abdullahsemar)
 - [Abhay Agnihotri](https://github.com/Abhay-Agnihotri01/)
 - [Abhay Sharma](https://github.com/asabhaysharma)
+- [Alex Mehanik](https://github.com/SertificatorGit)
 - [AmberStars](https://github.com/AmberStars)
 - [Anish Johari](https://github.com/AnishJohari)
 - [Anjesh Ranjan Dash ](https://github.com/AnjeshDash)
