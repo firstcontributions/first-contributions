@@ -1,3 +1,4 @@
+- Immanuel 
 - [Janmejay Shibaprasad Mahanta](https://github.com/janmejay1438)
 - [Saiteja]
 - [Kamrul Hossain](https://github.com/kamrullab) - EliteKamrul | Code • Learn • Build
@@ -7,6 +8,7 @@
 - [Dotify_71](https://github.com/Dotify_71)
 - [Abdul-Rehman](https://github.com/raoabdulrehman29-dev)
 - [Matsuda](https://github.com/matsudaushekage) — DevOps student
+- [Manaswini Saroja Reddy Karri](https://github.com/Manaswinisaroja) - Aspiring Entrepreneur
 - [xPayload](https://github.com/xPayload)
 - [x1n-Q](https://github.com/x1n-Q)
 - [Sarthak Bahal](https://github.com/sarthakbahal)
@@ -16,6 +18,8 @@
 - [Christy](https://github.com/ChristyBK202)
 - [Shivansh Goel89](https://github.com/SHIVANSH-ux-ys)
 - [rud1x](https://github.com/rud1x)
+- [shreya] (https://github.com/Shreya1810-tech)
+- [Ibtisam Ali](https://github.com/adventureibtisam111)
 - [coding-world-855]{https://github.com/coding-world855}
 - [Munish Kumar](https://github.com/munishmalhotra6230)
 - [170joeychua](https://github.com/170joeychua)
@@ -23,6 +27,7 @@
 - [Chirantan112](https://github.com/Chirantan112)
 - [1ESA1](https://github.com/1ESA1)
 - [Vaibhav Kumar](https://github.com/hudson-hornet-01)
+  [YManeesha](https://github.com/myadla1x-lab)
 - [Dhanush Raj](https://github.com/V-R-DhanushRaj)
 - [21f2001400](https://github.com/21f2001400-cloud)
 - [George Falcon](https://github.com/kanvastudio)
@@ -37,9 +42,11 @@ rashid adiyarambath
 - [Aamir Khan](https://github.com/aamir296)
 - [Niharika Gupta](https://github.com/guptaniharika8953)
 - [Aamir](https://github.com/AamirMNAamir)
+- [Aarjav Patriya](https://github.com/Aarjav0p)
 - [Aaryan Pandey](https://github.com/aaryanpandey29)
 - [Abhishek Agrawal](https://github.com/agrawalabhi881-a11y)
 - [Djombissi Daniels](https://github.com/DMSD003)
+- [Nidhi Kumari](https://github.com/nidhii-dev)
 -[Renuka Pawar](https://github.com/RenukaPawar658)
 - [Aashish](https://github.com/Aashish-po)
 - [Abdellah](https://github.com/Abdev314)
@@ -93,10 +100,12 @@ rashid adiyarambath
 - [Bhautik Jani](https://github.com/BhautikJani11)
 - [Bhavesh Desale](https://github.com/bhaveshdesale)
 - [Bhavesh Gajengi](https://github.com/BhaveshGajengi1)
+- [Ashwani Mishra](https://github.com/ashwyni-mishra)
 - [Bhoomika Jain](https://github.com/Bhoomika-iitm)
 - [Bhupesh Cholake](https://github.com/RealBhupesh)
 - [Bhuvanaesh R](https://github.com/Bhuvanaesh-R)
 - [Bianca Amberger](https://github.com/Bicxi)
+- [Bhargav Kallepally](https://github.com/BHARGAV-RUE)
 - [Bibek Baram](https://portfolio.bibekbaram.com.np)
 - [Bigerrr](https://github.com/Bigerrr)
 - [Bimal Ray](https://github.com/Bimal-ray99)
@@ -511,6 +520,7 @@ OAT
 - [Sagar Tayde](https://github.com/sagartaydedev)
 - [Sagasra](https://github.com/Sagasra20)
 - [Sahar Mahmoudi](https://github.com/saharmahmoudi)
+- [Sara Bekele](https://github.com/sarabekele30-cyber)
 - [Sahil Ghag](https://github.com/Sahilghagg)
 - [Sahil Hossain](https://github.com/Sahil-Hossain-1429)
 - [Javvaji Shalini]
@@ -787,6 +797,7 @@ OAT
 - [Sivaangayarkanni](https://github.com/sivaangayarkanni)
 - [Hammed Ali Oyeleye](https://github.com/Alike001)
 -[Kavita Suresh Kharade](https://github.com/KavitaKharade-08)
+-[Hanad Mohamed](https://github.com/Hanad14)
 - [Kshitij Dhariwal](https://github.com/KshitijDhariwal)
 - [Gumbile](https://github.com/Gumbile)
 - [Tim](https://github.com/TimBristol)
@@ -808,3 +819,6 @@ OAT
 - [buddy](https://github.com/rishitha-1224)
 
 
+- [jasxv](https://github.com/jasxv/learning-git)
+- [Khalilbentej](https://github.com/khalilbentej/first-contributions.git)
+https://github.com/1276604737-cloud
