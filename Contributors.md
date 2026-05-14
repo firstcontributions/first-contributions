@@ -8,6 +8,7 @@
 - [Abdul-Rehman](https://github.com/raoabdulrehman29-dev)
 - [Matsuda](https://github.com/matsudaushekage) — DevOps student
 - [xPayload](https://github.com/xPayload)
+- [x1n-Q](https://github.com/x1n-Q)
 - [Sarthak Bahal](https://github.com/sarthakbahal)
 - [Robert Stefan](https://github.com/rstefan84)
 - [Julia](https://github.com/JuliaArison)
