@@ -29,6 +29,7 @@
 - [8saku](https://github.com/8saku8)
 - [@Zakiahsan-arch](https://github.com/Zakiahsan-arch)
 - [Aakanksha Jadhav](https://github.com/aakankshajadhav2006)
+rashid adiyarambath
 - [Samir Khanal](https://github.com/shawmeer)
 - [Aamir Khan](https://github.com/aamir296)
 - [Niharika Gupta](https://github.com/guptaniharika8953)
@@ -115,6 +116,7 @@
 - [Caleb Ripley](https://github.com/cdripley7-bit)
 - [Caleb Rollf](https://github.com/lemonsloth)
 - [Canberk Girgin](https://github.com/canberkg67)
+- [Jin_Sakai](https://github.com/ShamGaneshan2008)
 - [Cang Li](https://github.com/s0raLin)
 OAT
 - [CapyBaraTheKing](https://github.com/molangmalang)
@@ -396,6 +398,7 @@ OAT
 - [Pavel Shegay](https://github.com/pavelshegay3)
 - [Peter Imoh Victor](https://github.com/peterimoh)
 - [Peter McGee](https://github.com/pmcgee-personal)
+- [Médéric DOMINICI](https://github.com/MedericDOMINICI)
 - [Phenyo Morulane](https://github.com/spoja-10)
 - [Piotr Wrzosek](https://github.com/pwrzosek)
 - [Piyush Srivastava](https://github.com/Phoenix-2207)
@@ -740,6 +743,7 @@ OAT
 - [Yicheng Wang](https://github.com/ggeennn)
 - [Yijanho](https://github.com/jho951)
 - [Yogesh Jindal](https://github.com/yogeshJindal1)
+- [Yohani Ranawaka](https://github.com/TrusfratedGucci)
 - [Yonadhan M M](https://github.com/YONADHAN)
 - [YongQiang Cao](https://github.com/caoyongq)
 - [Yukesh D](https://github.com/Yukesh-30)
@@ -788,4 +792,5 @@ OAT
 - [mrv0for0vandeta](https://github.com/mrv0for0vandeta)
 - [flyingpass](https://github.com/flyingpass)
 - [cyx](https://github.com/chen1942252746)
-
+- [daven](https://github.com/iamdaven)
+- [maheshgoyal-sys](https://github.com/maheshgoyal-sys/)
