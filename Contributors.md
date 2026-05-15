@@ -7,6 +7,7 @@
 - [APH](https://github.com/AungPhyo774)
 - [Ori_Gonen](https://github.com/cjk7ghh789-hub/first-contributions.git)
 - [zerobruhman](https://github.com/zerobruhman)
+- Divo changed this to add his name
 - [Dotify_71](https://github.com/Dotify_71)
 - [Abdul-Rehman](https://github.com/raoabdulrehman29-dev)
 - [Matsuda](https://github.com/matsudaushekage) — DevOps student
