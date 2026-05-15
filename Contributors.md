@@ -840,3 +840,4 @@ https://github.com/1276604737-cloud
 - [Shashwat Dhondyal] (https://github.com/DebugMajor)
 - [Yasharth Tiwari](https://github.com/yasharth25)
 - [SlakenKaken](https://github.com/SlakenKaken)
+- [imxde-code](https://github.com/imxde-code)
