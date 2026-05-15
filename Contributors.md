@@ -608,6 +608,7 @@ OAT
 - [Akshit Goel](https://github.com/aclox)
 - [Siddharth S](https://github.com/codeXsidd)
 - [Siddhartha Kushwaha](https://github.com/DevSidd2006)
+- [Eesha Bhargava](https://github.com/eesha05)
 - [Sindhu Reddy](https://github.com/prodduturisindhurdy)
 - [Siriuswyc](https://github.com/Siriuswyc)
 - [SisterMorphine](https://github.com/SisterMorphine)
