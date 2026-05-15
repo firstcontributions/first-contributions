@@ -9,6 +9,7 @@
 - [Abdul-Rehman](https://github.com/raoabdulrehman29-dev)
 - [Matsuda](https://github.com/matsudaushekage) — DevOps student
 - [Manaswini Saroja Reddy Karri](https://github.com/Manaswinisaroja) - Aspiring Entrepreneur
+- [Strawberry] (https://github.com/Riya61018)
 - [xPayload](https://github.com/xPayload)
 - [x1n-Q](https://github.com/x1n-Q)
 - [Sarthak Bahal](https://github.com/sarthakbahal)
