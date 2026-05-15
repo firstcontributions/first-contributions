@@ -513,6 +513,7 @@ OAT
 - [Ryan Gapp](https://github.com/ryan-gapp)
 - [Ryan Goods](https://github.com/feelgooddd)
 - [Rysan Deluna aka Ryan](https://github.com/RysanDeluna)
+-[Sagar H D](https://github.com/Sagar-HD)
 - [SAYEM](https://github.com/11UCRES)
 - [SIDHARTH](https://github.com/Sid-2302)
 - [SMJ](https://github.com/SeokMinJeon)
