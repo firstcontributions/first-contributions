@@ -13,6 +13,7 @@
 - [x1n-Q](https://github.com/x1n-Q)
 - [Sarthak Bahal](https://github.com/sarthakbahal)
 - [Robert Stefan](https://github.com/rstefan84)
+- [Vivek Maurya](https://github.com/vivekma38-sketch)
 - [Julia](https://github.com/JuliaArison)
 - [bnova7](https://github.com/bnova7)
 - [Christy](https://github.com/ChristyBK202)
