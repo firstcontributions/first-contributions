@@ -1,5 +1,5 @@
 - [lareinafan](https://github.com/lareinafan)
-- Immanuel 
+- [Immanuel] 
 - [Janmejay Shibaprasad Mahanta](https://github.com/janmejay1438)
 - [Saiteja]
 - [Kamrul Hossain](https://github.com/kamrullab) - EliteKamrul | Code • Learn • Build
@@ -31,7 +31,7 @@
 - [Chirantan112](https://github.com/Chirantan112)
 - [1ESA1](https://github.com/1ESA1)
 - [Vaibhav Kumar](https://github.com/hudson-hornet-01)
-  [YManeesha](https://github.com/myadla1x-lab)
+- [YManeesha](https://github.com/myadla1x-lab)
 - [Dhanush Raj](https://github.com/V-R-DhanushRaj)
 - [21f2001400](https://github.com/21f2001400-cloud)
 - [George Falcon](https://github.com/kanvastudio)
@@ -42,7 +42,7 @@
 - [8saku](https://github.com/8saku8)
 - [@Zakiahsan-arch](https://github.com/Zakiahsan-arch)
 - [Aakanksha Jadhav](https://github.com/aakankshajadhav2006)
-rashid adiyarambath
+- [rashid adiyarambath]
 - [Samir Khanal](https://github.com/shawmeer)
 - [Aamir Khan](https://github.com/aamir296)
 - [Niharika Gupta](https://github.com/guptaniharika8953)
@@ -52,7 +52,7 @@ rashid adiyarambath
 - [Abhishek Agrawal](https://github.com/agrawalabhi881-a11y)
 - [Djombissi Daniels](https://github.com/DMSD003)
 - [Nidhi Kumari](https://github.com/nidhii-dev)
--[Renuka Pawar](https://github.com/RenukaPawar658)
+- [Renuka Pawar](https://github.com/RenukaPawar658)
 - [Aashish](https://github.com/Aashish-po)
 - [Abdellah](https://github.com/Abdev314)
 - [Abdelrahman_Mohye](https://github.com/aboda-0100011)
@@ -90,7 +90,7 @@ rashid adiyarambath
 - [Avanish](https://github.com/satyaavanish)
 - [Aya Driouche](https://github.com/aya119119)
 - [Vishnu Anand](https://github.com/Vishnurockyedwards)
-- Ayinomba E
+- [Ayinomba E]
 - [AyorindeAdunse](https://github.com/ayorindeadunse)
 - [Ayush Kumar](https://github.com/Ayush123-e/first-contributions)
 - [Ayush Priyadarshi](https://github.com/Ayu-zh)
@@ -138,7 +138,7 @@ rashid adiyarambath
 - [Canberk Girgin](https://github.com/canberkg67)
 - [Jin_Sakai](https://github.com/ShamGaneshan2008)
 - [Cang Li](https://github.com/s0raLin)
-OAT
+- [OAT]
 - [CapyBaraTheKing](https://github.com/molangmalang)
 - [Carburio](https://github.com/Carburio)
 - [Carter Lewis](https://github.com/carter-lewis)
