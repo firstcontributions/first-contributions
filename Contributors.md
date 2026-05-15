@@ -81,6 +81,7 @@ rashid adiyarambath
 - [Asif Khan](https://github.com/Mak-1911)
 - [Asif Raza Ansari](https://github.com/asifraza-776)
 - [Asiya Mujawar](https://github.com/asiyamujawar)
+- [Asher King](https://github.com/asher-not-king)
 - [Assaf Lewin](https://github.com/Assaf1713)
 - [Atharva Jadhav](https://github.com/DrDrunkenstien-10)
 - [Athulkrishna](https://github.com/AthulKrishna-736)
