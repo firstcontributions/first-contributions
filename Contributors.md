@@ -751,6 +751,7 @@ OAT
 - [Xingchen Yan](https://github.com/crosseax)
 - [Xingyeee Li](https://github.com/xingyeee-L)
 - [Xuqiang Qin](https:/github.com/qinxuqiang)
+- [Yash Khanduja](https://github.com/ykshdja)
 - [Y Bhavana](https://github.com/yalalabhavana17-cmyk)
 - [Y Chandrakala](https://github.com/yChandrakala23)
 - [Y7XIFIED](https://github.com/Y7XIFIED)
