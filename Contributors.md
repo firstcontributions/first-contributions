@@ -1,4 +1,5 @@
 - [lareinafan](https://github.com/lareinafan)
+- [AyushTurale](https://github.com/AyushTurale)
 - Immanuel 
 - [Janmejay Shibaprasad Mahanta](https://github.com/janmejay1438)
 - [Saiteja]
