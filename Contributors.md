@@ -808,6 +808,7 @@ OAT
 - [Idlechip](https://github.com/idlechip)
 - [Marcos Rodriguez](https://github.com/marcosrodriguezmira/first-contributions.git)
 - [Katti Janardhan](https://github.com/jdkatti)
+- [Arnab Dutta](https://github.com/ArnabDutta01)
 -  [Harsh singh](https://github.com/harsh63528)
 - [mrv0for0vandeta](https://github.com/mrv0for0vandeta)
 - [flyingpass](https://github.com/flyingpass)
