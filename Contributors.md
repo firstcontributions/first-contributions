@@ -502,6 +502,7 @@ OAT
 - [Rithik Puthiyedath](https://github.com/Rithik149)
 - [RitwikReddy](https://github.com/RitwikReddyAerla)
 - [Riya Kushwaha](https://github.com/riyak790)
+- [Julia Meneses](https://github.com/juliamenes)
 - [Rizky-Amand](https://github.com/rzky21amanda-prog)
 - [Robert Mongold](https://github.com/rtmongold)
 - [Rodrigo Mahlow](https://github.com/rmahlow/)
