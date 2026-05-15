@@ -33,6 +33,7 @@
 - [171joeychua](https://github.com/171joeychua2)
 - [Chirantan112](https://github.com/Chirantan112)
 - [1ESA1](https://github.com/1ESA1)
+- [Oussama Aitlhaj] (https://github.com/itachiutchiha) From Avictos Open Source Club, Morocco
 - [Vaibhav Kumar](https://github.com/hudson-hornet-01)
   [YManeesha](https://github.com/myadla1x-lab)
 - [Dhanush Raj](https://github.com/V-R-DhanushRaj)
