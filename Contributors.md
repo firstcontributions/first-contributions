@@ -821,6 +821,7 @@ OAT
 - [jasxv](https://github.com/jasxv/learning-git)
 - [Khalilbentej](https://github.com/khalilbentej/first-contributions.git)
 - [Ayumi](https://github.com/ayumi1201)
+- [Vivek kumar](https://github.com/vivek8271)
 https://github.com/1276604737-cloud
 [Trisha Didwania]https://github.com/trishadidwania
 - From Avictos Open Source Club, Morocco
