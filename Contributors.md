@@ -46,6 +46,7 @@
 rashid adiyarambath
 - [Samir Khanal](https://github.com/shawmeer)
 - [Aamir Khan](https://github.com/aamir296)
+- [Aboubaker Amajjou](https://github.com/P4IN444)
 - [Niharika Gupta](https://github.com/guptaniharika8953)
 - [Aamir](https://github.com/AamirMNAamir)
 - [Aarjav Patriya](https://github.com/Aarjav0p)
