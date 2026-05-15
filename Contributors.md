@@ -78,6 +78,7 @@ rashid adiyarambath
 - [Ankush Singh](https://github.com/whyankush07)
 - [Anna Chong](https://github.com/DsharpMaj7)
 - [Anson Chen](https://github.com/zhonganchen-anson)
+- [Taha El atoui](https://github.com/taha-arch)
 - [Ashitha T](https://github.com/Ashi-tha)
 - [Asif Khan](https://github.com/Mak-1911)
 - [Asif Raza Ansari](https://github.com/asifraza-776)
