@@ -43,6 +43,7 @@
 - [Dhanush Raj](https://github.com/V-R-DhanushRaj)
 - [21f2001400](https://github.com/21f2001400-cloud)
 - [George Falcon](https://github.com/kanvastudio)
+- [Hussain Shamkhani](https://github.com/hussainshamkhani)
 - [25ds2000008](25ds2000008@ds.study.iitm.ac.in)
 - [Allen Payne](https://github.com/allenpaynecs)
 - [66point99](https://github.com/66point99)
