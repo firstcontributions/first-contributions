@@ -3590,3 +3590,4 @@ Nagaraj M
 - [epjnre] (https://github.com/epjnre)
 - [Mrunal Kolhe](https://github.com/tylrx404)
 - [Nitish Sharma1](https://github.com/tylrx404)
+- [Hao Huynh] (https://github.com/haohuynh9422)
