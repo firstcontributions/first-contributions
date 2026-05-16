@@ -1,6 +1,6 @@
 - [lareinafan](https://github.com/lareinafan)
 - [AyushTurale](https://github.com/AyushTurale)
-- Immanuel 
+- Immanuel
 - [Janmejay Shibaprasad Mahanta](https://github.com/janmejay1438)
 - [Saiteja]
 - [Kamrul Hossain](https://github.com/kamrullab) - EliteKamrul | Code • Learn • Build
@@ -154,7 +154,7 @@ OAT
 - [Charly Islami](https://github.com/CharlyIslami)
 - [Charul Nampalliwar](https://github.com/Charul2304)
 - [Chemini Newanma](https://github.com/chemini244)
-- Chinmayee 
+- Chinmayee
 - [Chinenye Agu](https://github.com/Drchiagu)
 - [apoorv_v](https://github.com/apoorvnv)
 - [Chirag Bimali](https://github.com/chirag-bimali)
@@ -490,6 +490,7 @@ OAT
 - [Ram S](https://github.com/RamSamudrala05)
 - [Ram](https://github.com/ratech-dev)
 - [RandomAimXD](https://github.com/RandomAimXD)
+- [Raquis](https://github.com/ezmemoar)
 - [Rashadul dev](https://github.com/rashaduldev)
 - [RashiBista](https://github.com/RashiBista)
 - [Rashmi Apagundi](https://github.com/Rashmi-apagundi)
@@ -796,10 +797,10 @@ OAT
 - [Zamir](https://github.com/456zamir8/)
 - [Zoraz](https://github.com/Zoraz01)
 - [张喜昌](https://github.com/ZhangXiChang)
-- [Drew Ramos](https://github.com/drewsElearning) 
+- [Drew Ramos](https://github.com/drewsElearning)
 - [Venkatabatna](https://github.com/venkatabatna)
 - [Helder Luz](https://github.com/HelderLuz)
-- [Vinicius Tamari](https://github.com/vinicius-tamari) 
+- [Vinicius Tamari](https://github.com/vinicius-tamari)
 -[rafaelx890](https://github.com/rafaelx890)
 -[diganth_23](https://github.com/diganth_23)
 - [Brian Chen Hao](https://github.com/brianchenhao)
