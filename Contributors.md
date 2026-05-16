@@ -6,6 +6,7 @@
 - [Saiteja]
 - [Kamrul Hossain](https://github.com/kamrullab) - EliteKamrul | Code • Learn • Build
 - [APH](https://github.com/AungPhyo774)
+- [Swati Singh](https://github.com/swati-singh24)
 - [Ori_Gonen](https://github.com/cjk7ghh789-hub/first-contributions.git)
 - [zerobruhman](https://github.com/zerobruhman)
 - Divo changed this to add his name
