@@ -96,6 +96,7 @@ rashid adiyarambath
 - [Asiya Mujawar](https://github.com/asiyamujawar)
 - [Asher King](https://github.com/asher-not-king)
 - [Vishal Vivek](https://github.com/Vishalvivek2007)
+- [Tushar Kandoo](https://github.com/tusharkandoo)
 - [Assaf Lewin](https://github.com/Assaf1713)
 - [Atharva Jadhav](https://github.com/DrDrunkenstien-10)
 - [Athulkrishna](https://github.com/AthulKrishna-736)
