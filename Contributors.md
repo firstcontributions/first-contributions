@@ -766,6 +766,7 @@ OAT
 - [WhtNoiz](https://github.com/WhtNoiz)
 - [Will](https://github.com/CrimsonKarma44)
 - [Wirt Salthouse](https://github.com/Wirt4)
+- [BFJiral](https://github.com/Wirt4)
 - [Witheast](https://github.com/Witheast)
 - [XervE](https://github.com/devxerve)
 - [Xin Xin](https://github.com/Dearxinxin)
