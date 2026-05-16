@@ -14,6 +14,7 @@
 - [Abdul-Rehman](https://github.com/raoabdulrehman29-dev)
 - [Matsuda](https://github.com/matsudaushekage) — DevOps student
 - [Manaswini Saroja Reddy Karri](https://github.com/Manaswinisaroja) - Aspiring Entrepreneur
+- [Ashish-gr12](https://github.com/ashish-gr12)
 - [Strawberry] (https://github.com/Riya61018)
 - [xPayload](https://github.com/xPayload)
 - [x1n-Q](https://github.com/x1n-Q)
@@ -42,6 +43,7 @@
 - [Dhanush Raj](https://github.com/V-R-DhanushRaj)
 - [21f2001400](https://github.com/21f2001400-cloud)
 - [George Falcon](https://github.com/kanvastudio)
+- [Hussain Shamkhani](https://github.com/hussainshamkhani)
 - [25ds2000008](25ds2000008@ds.study.iitm.ac.in)
 - [Allen Payne](https://github.com/allenpaynecs)
 - [66point99](https://github.com/66point99)
@@ -52,6 +54,7 @@
 rashid adiyarambath
 - [Samir Khanal](https://github.com/shawmeer)
 - [mboulagh] (https://github.com/MINATOnmk) From Avictos Open Source Club, Morocco  .
+- [Ramnivas Suthar](https://github.com/ramnivas11)
 - [Aamir Khan](https://github.com/aamir296)
 - [Aboubaker Amajjou](https://github.com/P4IN444)
 - [Niharika Gupta](https://github.com/guptaniharika8953)
@@ -92,6 +95,7 @@ rashid adiyarambath
 - [Asif Raza Ansari](https://github.com/asifraza-776)
 - [Asiya Mujawar](https://github.com/asiyamujawar)
 - [Asher King](https://github.com/asher-not-king)
+- [Vishal Vivek](https://github.com/Vishalvivek2007)
 - [Assaf Lewin](https://github.com/Assaf1713)
 - [Atharva Jadhav](https://github.com/DrDrunkenstien-10)
 - [Athulkrishna](https://github.com/AthulKrishna-736)
@@ -277,6 +281,7 @@ OAT
 - [Henrique](https://github.com/roberto0906)
 - [Herald Fortunato](https://github.com/Fortunato-Herald)
 - [Hernan Rico](https://github.com/hernanr2205)
+- [Neon Muthoni](https://github.com/Error404notf)
 - [Himanshu](https://github.com/Hima1234gh/)
 - [Himanshu](https://github.com/W47K3RJO1N)
 - [Himanshu](https://github.com/himanshubit)
@@ -852,15 +857,24 @@ https://github.com/1276604737-cloud
 - [little-blueberry](https://github.com/little-blueberry)
 - [Ankit](https://github.com/145Ankit)
 - [Shashwat Dhondyal] (https://github.com/DebugMajor)
+- [Nishvi](https://github.com/Nishviprp)
 - [Yasharth Tiwari](https://github.com/yasharth25)
 - [SlakenKaken](https://github.com/SlakenKaken)
 - [imxde-code](https://github.com/imxde-code)
 - [Hello-Git]
 - [I'm coming]
 - [vaibhav-gawade](https://github.com/vaibhav-gawade)
+- [Apeksha](https://github.com/Apeksha23-hub)
 - [itzdev691](https://github.com/itzdev691)
 - [Shaan Saurav](https://github.com/Shaan098)
 - [Gaddam Anudeep](https://github.com/AnudeepG25)
 - [SharwanKunwar] (https://github.com/SharwanKunwar)
+- [Yahia Abdeldjalil](https://github.com/yahiaabdeldjalil)
 - [Yash Kumar] (https://github.com/YASHK-arch)
+- [mez0m0rph](https://github.com)
+- [First Contribution to explore things ✅](https://github.com/IamPawan777)
 - [Sanidhya Shrivastava](https://github.com/Sanidhya069)
+- [Meenal Pandey exploring open source](https://github.com/meenal-pandey)
+- [rathore]
+- [willbebettter]https://github.com/willbebettter
+- [Aidil Amal] (https://github.com/AidilAmal)
