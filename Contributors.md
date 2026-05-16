@@ -264,7 +264,6 @@ Anshuk
 - [Markel Jaureguibehere](https://github.com/MarkelJaure)
 - [Emma Luk](https://github.com/emma-luky)
 - [LatentSpace-rgb](https://github.com/LatentSpace-rgb)
-  
 - [Vicho1937](https://github.com/Vicho1937)
 - [Nishtha] (https://github.com/NISHTHACHOUBEY)
 - [Santosh Andra]
