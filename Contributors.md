@@ -851,6 +851,7 @@ https://github.com/1276604737-cloud
 - [little-blueberry](https://github.com/little-blueberry)
 - [Ankit](https://github.com/145Ankit)
 - [Shashwat Dhondyal] (https://github.com/DebugMajor)
+- [Nishvi](https://github.com/Nishviprp)
 - [Yasharth Tiwari](https://github.com/yasharth25)
 - [SlakenKaken](https://github.com/SlakenKaken)
 - [imxde-code](https://github.com/imxde-code)
