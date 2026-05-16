@@ -872,6 +872,7 @@ https://github.com/1276604737-cloud
 - [mez0m0rph](https://github.com)
 - [First Contribution to explore things ✅](https://github.com/IamPawan777)
 - [Sanidhya Shrivastava](https://github.com/Sanidhya069)
+- [Meenal Pandey exploring open source](https://github.com/meenal-pandey)
 - [rathore]
 - [willbebettter]https://github.com/willbebettter
 - [Aidil Amal] (https://github.com/AidilAmal)
