@@ -281,6 +281,7 @@ OAT
 - [Himanshu](https://github.com/himanshubit)
 - [Hisham](https://github.com/sikehish)
 - [Hong Zh](https://github.com/ho-zh)
+- [Hritvika Chunduri](https://github.com/HritvikaC)
 - [HuginnDani](https://github.com/HuginnDani)
 - [HxxllanX](https://github.com/hxxlLAN)
 - [I Kanapathipillai](https://github.com/KI-5/)
