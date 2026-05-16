@@ -53,6 +53,7 @@
 - [Aakanksha Jadhav](https://github.com/aakankshajadhav2006)
 rashid adiyarambath
 - [Samir Khanal](https://github.com/shawmeer)
+- [mboulagh] (https://github.com/MINATOnmk) From Avictos Open Source Club, Morocco  .
 - [Ramnivas Suthar](https://github.com/ramnivas11)
 - [Aamir Khan](https://github.com/aamir296)
 - [Aboubaker Amajjou](https://github.com/P4IN444)
