@@ -1,6 +1,7 @@
 - [lareinafan](https://github.com/lareinafan)
 - [AyushTurale](https://github.com/AyushTurale)
 - Immanuel 
+- [**Jatin Awankar**](https://jatinawankar.dev)👽
 - [Janmejay Shibaprasad Mahanta](https://github.com/janmejay1438)
 - [Saiteja]
 - [Kamrul Hossain](https://github.com/kamrullab) - EliteKamrul | Code • Learn • Build
