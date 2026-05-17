@@ -762,6 +762,7 @@ OAT
 - [Waheba Husain](https://github.com/waheba-husain)
 - [Waltteri Riihimäki](https://github.com/waltterir)
 - [Wang](https://github.com/xjtu-wang)
+- [duckhash](https://github.com/duckhash)
 - [Waqar Wani](https://github.com/Waqar-Wani)
 - [We're doing okay](https://github.com/wmhxb)
 - [Wendy Abstone](https://github.com/wendyabstone)
