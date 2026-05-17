@@ -9,6 +9,7 @@
 - [Nebal Akash](https://github.com/Nebal-akash)
 - [Kamrul Hossain](https://github.com/kamrullab) - EliteKamrul | Code • Learn • Build
 - [APH](https://github.com/AungPhyo774)
+- [Sheetal Jatav](https://github.com/sheetaljatav)
 - [Shreya Raj] (https://github.com/speedyshreya)
 - [Swati Singh](https://github.com/swati-singh24)
 - [Ori_Gonen](https://github.com/cjk7ghh789-hub/first-contributions.git)
