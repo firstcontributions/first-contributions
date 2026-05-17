@@ -894,3 +894,4 @@ https://github.com/1276604737-cloud
 - [Shafin Reyaz Alam](https://github.com/shafinalam07)
 - [aarav]
 - [Oki Dwi Yulianto](https://github.com/okidwiyulianto)
+- [M Idrus Salam](https://github.com/salamidrus)
