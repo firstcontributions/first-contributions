@@ -2,7 +2,8 @@
 - [lareinafan](https://github.com/lareinafan)
 - [Prerna Raj](https://github.com/Prerna-2801)
 - [AyushTurale](https://github.com/AyushTurale)
-- Immanuel 
+- Immanuel
+- [Ayan](https://github.com/ayandevofficial)
 - [**Jatin Awankar**](https://jatinawankar.dev)👽
 - [Janmejay Shibaprasad Mahanta](https://github.com/janmejay1438)
 - [Saiteja]
