@@ -52,6 +52,7 @@
 - [66point99](https://github.com/66point99)
 - [6NaCl](https://github.com/6NaCl)
 - [8saku](https://github.com/8saku8)
+- [volatilespectre](https://github.com/volatilespectre)
 - [@Zakiahsan-arch](https://github.com/Zakiahsan-arch)
 - [Aakanksha Jadhav](https://github.com/aakankshajadhav2006)
 rashid adiyarambath
