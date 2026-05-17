@@ -207,7 +207,7 @@ OAT
 - [Divyam Pariyar](https://github.com/div-html)
 - [Divyanshu Tiwari](https://github.com/DivyanshuTiwari12)
 - [Divyom Srivastava](https://github.com/DivyomSrivastava)
-- [twin-im-crine][def]
+- [twin-im-crine](https://github.com/twin-im-crine)
 - [Max Taunton](https://github.com/PepsiMaxT)
 - [Dmytro Riehush](https://github.com/Diman98)
 - [Domenico Vecchio](https://github.com/domenico-vecchio)
