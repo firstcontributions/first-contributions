@@ -1,3 +1,4 @@
+- [Faizan](https://github.com/faizanfatmi)
 - [Nirajjj11](https://github.com/Nirajjj11)😄💻🌱💻✨
 - [lareinafan](https://github.com/lareinafan)
 - [Prerna Raj](https://github.com/Prerna-2801)
