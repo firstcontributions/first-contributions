@@ -878,18 +878,4 @@ https://github.com/1276604737-cloud
 - [itzdev691](https://github.com/itzdev691)
 - [Shaan Saurav](https://github.com/Shaan098)
 - [Gaddam Anudeep](https://github.com/AnudeepG25)
-- [SharwanKunwar] (https://github.com/SharwanKunwar)
-- [Yahia Abdeldjalil](https://github.com/yahiaabdeldjalil)
-- [Yash Kumar] (https://github.com/YASHK-arch)
-- [mez0m0rph](https://github.com)
-- [First Contribution to explore things ✅](https://github.com/IamPawan777)
-- [Sanidhya Shrivastava](https://github.com/Sanidhya069)
-- [Meenal Pandey exploring open source](https://github.com/meenal-pandey)
-- [rathore]
-- [willbebettter]https://github.com/willbebettter
-- [Aidil Amal] (https://github.com/AidilAmal)
-- [mbelfaki] (https://github.com/Mbelfaki) From Avictos Open Source Club, Moroccoo
-- [Vedx-bit](https://github.com/vedx-bit) 
-- [Shafin Reyaz Alam](https://github.com/shafinalam07)
-- [aarav]
-- [Oki Dwi Yulianto](https://github.com/okidwiyulianto)
+- [The magic you are looking for is in the work you are avoiding](https://github.com/SharwanKunwar)
