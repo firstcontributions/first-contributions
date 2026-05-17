@@ -725,6 +725,7 @@
 - [Tiago Lima](https://github.com/TiagooLima)
 - [Tidenflow](https://github.com/Tidenflow)
 - [Tim Abad](https://github.com/TimAbad)
+- [TimOthry](https://github.com/TimOthry)
 - [Toluwanimi](https://github.com/DevTolu79)
 - [Tometri](https://github.com/Tometri)
 - [Tony Wong](https://github.com/tony31913)
@@ -909,3 +910,4 @@
 - Siddhi Pansare (https://github.com/siddhi591) -[Ayush Agrawal] (https://github.com/agrawal-ayush-292005)
 - [Carlos Razanakoto](https://github.com/razanakoto-carlos)
 - [Logan Domineck](https://github.com/Logandomineck)
+- [Sourav Suman](https://github.com/Luciferxy)
