@@ -924,3 +924,4 @@ https://github.com/1276604737-cloud
 - [Carlos Razanakoto](https://github.com/razanakoto-carlos)
 - [Logan Domineck](https://github.com/Logandomineck)
 - [Sourav Suman](https://github.com/Luciferxy)
+- [Anushree Bose](https://github.com/HanaisHere)
