@@ -296,6 +296,7 @@ OAT
 - [Himanshu](https://github.com/himanshubit)
 - [Hisham](https://github.com/sikehish)
 - [Hong Zh](https://github.com/ho-zh)
+- [kai - https://github.com/RakeshKayal] Thank you for helping me as a beginner who wants to contribute in open source
 - [Hritvika Chunduri](https://github.com/HritvikaC)
 - [HuginnDani](https://github.com/HuginnDani)
 - [HxxllanX](https://github.com/hxxlLAN)
