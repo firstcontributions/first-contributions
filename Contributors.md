@@ -541,6 +541,7 @@ OAT
 - [Ruti](https://github.com/rutibergs)
 - [Ryan Gapp](https://github.com/ryan-gapp)
 - [Ryan Goods](https://github.com/feelgooddd)
+- [Swastik Sinha](https://github.com/swastiksinha1)
 - [Rysan Deluna aka Ryan](https://github.com/RysanDeluna)
 - [SAYEM](https://github.com/11UCRES)
 - [Sabin El Anwar :-)](https://github.com/sabinAnwar/)
