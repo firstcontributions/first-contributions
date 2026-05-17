@@ -16,6 +16,7 @@
 - [Abdul-Rehman](https://github.com/raoabdulrehman29-dev)
 - [Matsuda](https://github.com/matsudaushekage) — DevOps student
 - [Manaswini Saroja Reddy Karri](https://github.com/Manaswinisaroja) - Aspiring Entrepreneur
+- [Niraj-Baral] (https://https://github.com/Niraj996)
 - [Ashish-gr12](https://github.com/ashish-gr12)
 - [Strawberry] (https://github.com/Riya61018)
 - [xPayload](https://github.com/xPayload)
