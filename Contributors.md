@@ -6,6 +6,7 @@
 - [**Jatin Awankar**](https://jatinawankar.dev)👽
 - [Janmejay Shibaprasad Mahanta](https://github.com/janmejay1438)
 - [Saiteja]
+- [Nebal Akash](https://github.com/Nebal-akash)
 - [Kamrul Hossain](https://github.com/kamrullab) - EliteKamrul | Code • Learn • Build
 - [APH](https://github.com/AungPhyo774)
 - [Shreya Raj] (https://github.com/speedyshreya)
