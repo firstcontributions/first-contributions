@@ -948,3 +948,4 @@ https://github.com/1276604737-cloud
 - [Krittika Tiwari](https://github.com/Krittika-Tiwari)
 - [Pranali Bhusanar](https://github.com/PranaliBhusnar)
 - [Gimerbone](https://github.com/Gimerbone)
+- [AkariTrask](https://github.com/AkariTrask)
