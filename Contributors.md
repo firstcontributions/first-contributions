@@ -63,6 +63,7 @@
 - [25ds2000008](25ds2000008@ds.study.iitm.ac.in)
 - [Allen Payne](https://github.com/allenpaynecs)
 - [66point99](https://github.com/66point99)
+- [SaifDemos](https://github.com/SaifDemos)
 - [6NaCl](https://github.com/6NaCl)
 - [8saku](https://github.com/8saku8)
 - [volatilespectre](https://github.com/volatilespectre)
