@@ -926,3 +926,4 @@ https://github.com/1276604737-cloud
 - [Logan Domineck](https://github.com/Logandomineck)
 - [Sourav Suman](https://github.com/Luciferxy)
 - [Anushree Bose](https://github.com/HanaisHere)
+- [ls](https://github.com/cn-liushuo)
