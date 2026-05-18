@@ -382,6 +382,7 @@ OAT
 - [Maanasa Kambam](https://github.com/kambammaanasa08-afk)
 - [Harsh Bhardwaj](https://github.com/harshbhardwaj000)
 - [Madhav Singh](https://github.com/maddy710)
+- [Markus Priede] (https://github.com/markuspriede)
 - [Moe Nyi](https://github.com/moenyi12-kraken)
 - [Muhammed Shareef](https://github.com/shareefmx)
 - [Muhsil NR](https://github.com/mhlohh)
