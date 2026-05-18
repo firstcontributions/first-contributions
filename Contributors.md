@@ -77,7 +77,7 @@
 - [Djombissi Daniels](https://github.com/DMSD003)
 - [Nidhi Kumari](https://github.com/nidhii-dev) -[Renuka Pawar](https://github.com/RenukaPawar658)
 - [Aashish](https://github.com/Aashish-po)
-- [Venu Gopalan KT](https://github.com/DarkAstronaut)
+- [VenuGopalanKT](https://github.com/DarkAstronaut)
 - [Aashish Arya](https://github.com/aasheeeeesh)
 - [Abdellah](https://github.com/Abdev314)
 - [Abdelrahman_Mohye](https://github.com/aboda-0100011)
