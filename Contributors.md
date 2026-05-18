@@ -933,3 +933,4 @@ https://github.com/1276604737-cloud
 - [AITISPEC](https://github.com/AITISPEC)
 - [Rahul Surya](https://github.com/Rahulsurya23)
 - [TangYongyi](https://github.com/SlientStarRiver) - 大二CS学生，正在学习开源贡献
+- [Krittika Tiwari](https://github.com/Krittika-Tiwari)
