@@ -151,7 +151,13 @@ where "url you just copied" (without the quotation marks) is the url to this rep
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
-For example:
+For example (HTTPS):
+
+```bash
+git clone git@github.com:this-is-you/first-contributions.git
+```
+
+For example (SSH):
 
 ```bash
 git clone git@github.com:this-is-you/first-contributions.git
@@ -221,7 +227,8 @@ git checkout -b your-new-branch-name
 
 </details>
 
-### Description: Branching creates another branch having the same state as the current branch you are in. We do this so that any changes we make in one branch (usually other than `main`) does not affect the content of other branch (especially main).
+### Description: 
+Branching creates another branch having the same state as the current branch you are in. We do this so that any changes we make in one branch (usually other than `main`) does not affect the content of other branch (especially main).
 
 ## Make necessary changes and commit those changes
 
