@@ -1,3 +1,4 @@
+- [Nayagam](https://pmnayagam.github.io/portfolio/)
 - [Faizan](https://github.com/faizanfatmi)
 - [Nirajjj11](https://github.com/Nirajjj11)😄💻🌱💻✨
 - [lareinafan](https://github.com/lareinafan)
