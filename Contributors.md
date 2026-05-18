@@ -393,6 +393,7 @@ OAT
 - [Markus Priede] (https://github.com/markuspriede)
 - [Moe Nyi](https://github.com/moenyi12-kraken)
 - [Muhammed Shareef](https://github.com/shareefmx)
+- [Mudasir Ali](https://github.com/mudasirunar)
 - [Muhsil NR](https://github.com/mhlohh)
 - [Muntazir-Sayed](https://github.com/Muntazir-sd)
 - [Murphy Amparo](https://github.com/MaxTecnoDev)
