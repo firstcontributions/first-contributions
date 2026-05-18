@@ -934,3 +934,4 @@ https://github.com/1276604737-cloud
 - [Rahul Surya](https://github.com/Rahulsurya23)
 - [TangYongyi](https://github.com/SlientStarRiver) - 大二CS学生，正在学习开源贡献
 - [Krittika Tiwari](https://github.com/Krittika-Tiwari)
+- [Pranali Bhusanar](https://github.com/PranaliBhusnar)
