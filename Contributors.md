@@ -138,6 +138,7 @@ rashid adiyarambath
 - [Bhupesh Cholake](https://github.com/RealBhupesh)
 - [Bhuvanaesh R](https://github.com/Bhuvanaesh-R)
 - [Bianca Amberger](https://github.com/Bicxi)
+- [Aditi Kumari](https://github.com/aditi-avni)
 - [Bhargav Kallepally](https://github.com/BHARGAV-RUE)
 - [Bibek Baram](https://portfolio.bibekbaram.com.np)
 - [Bigerrr](https://github.com/Bigerrr)
