@@ -99,6 +99,37 @@ _If you're not comfortable with command line, [here are tutorials using GUI tool
 
 #### If you don't have git on your machine, [install it](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
+## Git vs GitHub (Quick Overview)
+
+Many beginners get confused between Git and GitHub. Here's a simple explanation:
+
+### Git
+- A version control tool
+- Works locally on your computer
+- Tracks changes in your code
+
+### GitHub
+- A platform to host repositories online
+- Used for collaboration and sharing code
+- Stores your code remotely
+
+Other platforms for hosting repositories also exist: GitLab, Bitbucket, Azure, Gitea, etc.
+
+### Analogy (Optional)
+
+- Git → like the kitchen (where code is prepared and managed)
+- GitHub → like the café (where code is shared and collaborated on)
+
+### Local vs Remote
+
+- Local → Code on your computer (your machine)
+- Remote → Code hosted on GitHub
+
+### Example
+
+- You make changes locally using Git
+- You upload them to GitHub using `git push`
+
 ## Fork this repository
 
 Fork this repository by clicking on the fork button on the top of this page.
@@ -108,7 +139,7 @@ This will create a copy of this repository in your account.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone the repository" />
 
-Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button, then on SSH tab and then click the _copy url to clipboard_ icon.
+Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button, and copy the repository URL.
 
 Open a terminal and run the following git command:
 
@@ -127,6 +158,21 @@ git clone git@github.com:this-is-you/first-contributions.git
 ```
 
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
+
+### Note
+
+If you are a beginner, you can use HTTPS instead of SSH, as it does not require additional setup.
+
+Example:
+
+```bash
+git clone https://github.com/your-username/first-contributions.git
+```
+
+SSH requires configuring SSH keys before use.
+
+### Description
+`git clone "url"` clones the repository from GitHub (remote) to your local machine.
 
 ## Create a branch
 
@@ -148,6 +194,20 @@ For example:
 git switch -c add-alonzo-church
 ```
 
+Alternatively, you can use:
+
+```bash
+git checkout -b your-new-branch-name
+```
+
+### Note:
+
+If you use `git branch` to create a branch, switch to it using:
+
+```bash
+git checkout newly-created-branch-name
+```
+
 <details>
 <summary> <strong>If you get any errors using git switch, click here:</strong> </summary>
 
@@ -160,6 +220,8 @@ git checkout -b your-new-branch-name
 ```
 
 </details>
+
+### Description: Branching creates another branch having the same state as the current branch you are in. We do this so that any changes we make in one branch (usually other than `main`) does not affect the content of other branch (especially main).
 
 ## Make necessary changes and commit those changes
 
@@ -182,6 +244,10 @@ git commit -m "Add your-name to Contributors list"
 ```
 
 replacing `your-name` with your name.
+
+### Description:
+- `git add` command stages the changes you've made in the file. Staging means that 'The changes in the file are reviewed and is ready to be committed'.
+- `git commit` saves your staged changes locally with a message describing what you did. This means your changes are saved locally and ready to be pushed to GitHub.
 
 ## Push changes to GitHub
 
@@ -214,6 +280,8 @@ replacing `your-branch-name` with the name of the branch you created earlier.
   ```
   Otherwise you'll still get prompted for username and password and get authentication error.
 </details>
+
+### Description: `git push` uploads your local changes to the remote repository (GitHub).
 
 ## Submit your changes for review
 
