@@ -933,6 +933,7 @@ https://github.com/1276604737-cloud
 - [Logan Domineck](https://github.com/Logandomineck)
 - [Sourav Suman](https://github.com/Luciferxy)
 - [Anushree Bose](https://github.com/HanaisHere)
+- [YaoJingxi](https://github.com/xiaoyumuxi)
 - [ls](https://github.com/cn-liushuo)
 - [AITISPEC](https://github.com/AITISPEC)
 - [Rahul Surya](https://github.com/Rahulsurya23)
