@@ -471,6 +471,7 @@ OAT
 - [Phenyo Morulane](https://github.com/spoja-10)
 - [Piotr Wrzosek](https://github.com/pwrzosek)
 - [admundhou](https://github.com/admundhou) ✨
+- [Rashida Safreen](https://github.com/rashidasafreen)
 - [Piyush Srivastava](https://github.com/Phoenix-2207)
 - [Platostol](https://github.com/Platostol)
 - [Dimitrij Jedich](https://github.com/dimitrijjedich)
