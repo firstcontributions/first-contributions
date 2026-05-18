@@ -9,6 +9,7 @@
 - Immanuel 
 - [**Jatin Awankar**](https://jatinawankar.dev)👽
 - [Janmejay Shibaprasad Mahanta](https://github.com/janmejay1438)
+[Bibas Sharma] (https://github.com/bsharm12)
 - [Saiteja]
 - [Saikiran Palli]
 -[xzh]
