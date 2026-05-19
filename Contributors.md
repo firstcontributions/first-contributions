@@ -174,6 +174,7 @@ rashid adiyarambath
 - [Bradley Leventhal](https://github.com/btleventhal)
 - [Braham Ramos](https://github.com/BrahaME123)
 - [Brahmpreet Singh](https://github.com/Brahmpreett)
+-[Walter Onyango](https://github.com/walterhrad-pixel)
 - [Brandon B Bolivar](https://github.com/AvoBolivar)
 - [Brian Luporini](https://github.com/bluporini)
 - [Bruno Buss](https://github.com/bussbruno)
