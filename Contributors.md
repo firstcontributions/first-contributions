@@ -9,6 +9,7 @@
 - [Prerna Raj](https://github.com/Prerna-2801)
 - [Lou Polletta] (https://github.com/lppolletta)
 - [AyushTurale](https://github.com/AyushTurale)
+- [Ankit Gupta](https://github.com/ankitxdev-me)
 - Immanuel
 - [jashvin]
 - [**Jatin Awankar**](https://jatinawankar.dev)👽
