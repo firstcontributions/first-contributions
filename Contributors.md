@@ -118,6 +118,7 @@ rashid adiyarambath
 - [Anson Chen](https://github.com/zhonganchen-anson)
 - [Taha El atoui](https://github.com/taha-arch)
 - [Ashitha T](https://github.com/Ashi-tha)
+- [Roman K](https://github.com/rkuzntsv)
 - [Asif Khan](https://github.com/Mak-1911)
 - [Asif Raza Ansari](https://github.com/asifraza-776)
 - [Asiya Mujawar](https://github.com/asiyamujawar)
