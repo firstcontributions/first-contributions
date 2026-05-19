@@ -91,7 +91,7 @@
 
 # First Contributions
 
-This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
+"If you are looking to make your first contribution, follow the steps below."
 
 _If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
 
@@ -108,7 +108,7 @@ This will create a copy of this repository in your account.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone the repository" />
 
-Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button, then on SSH tab and then click the _copy url to clipboard_ icon.
+Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the **Code** button, then select the **HTTPS** tab and click the _copy url to clipboard_ icon.
 
 Open a terminal and run the following git command:
 
