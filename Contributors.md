@@ -1,5 +1,6 @@
 -Prerna
 - Herit (herit007)
+- [Shainti](https://github.com/shainti/)
 - [Nayagam](https://pmnayagam.github.io/portfolio/)
 - [Suryansh] (https://github.com/snaxy318)
 - [Faizan](https://github.com/faizanfatmi)
