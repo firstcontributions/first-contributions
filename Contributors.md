@@ -18,6 +18,7 @@
 -[xzh]
 -[zyh]
 - [Nebal Akash](https://github.com/Nebal-akash)
+- [Arnav Kothekar](https://github.com/ArnavKothekar)
 - [Kamrul Hossain](https://github.com/kamrullab) - EliteKamrul | Code • Learn • Build
 - [APH](https://github.com/AungPhyo774)
 - [Sheetal Jatav](https://github.com/sheetaljatav)
