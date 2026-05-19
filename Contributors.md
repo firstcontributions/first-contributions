@@ -105,6 +105,7 @@ rashid adiyarambath
 - [Priyanshu](https://github.com/Priyanshu-arm)
 - [Asnaks](https://github.com/Asnaks)
 - [Lorenzo Pica](https://github.com/Atmoloid)
+- [Vikramaditya Sai P] (https://github.com/pvasB0-baymax) 
 - [Prajwal V R](https://github.com/prajwal-vr)
 - [Aryak Singh](https://github.com/aryaksinghh)
 - [Abdullah Semar](https://github.com/abdullahsemar)
