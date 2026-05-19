@@ -1,3 +1,4 @@
+- [Cutro](https://github.com/Cutro3010/first-contributions)
 -Prerna
 - Herit (herit007)
 - [Shainti](https://github.com/shainti/)
@@ -7,7 +8,7 @@
 - [Nirajjj11](https://github.com/Nirajjj11)😄💻🌱💻✨
 - [lareinafan](https://github.com/lareinafan)
 - [Prerna Raj](https://github.com/Prerna-2801)
-- [Lou Polletta] (https://github.com/lppolletta)
+- [Lou Polletta](https://github.com/lppolletta)
 - [AyushTurale](https://github.com/AyushTurale)
 - [Ankit Gupta](https://github.com/ankitxdev-me)
 - Immanuel
