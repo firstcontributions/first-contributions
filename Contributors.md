@@ -931,6 +931,7 @@ Prasanna Raj Neupane (https://github.com/prasannaneupane)
 - [Manish Shinde](https://github.com/Manish-1415)
 - [jasxv](https://github.com/jasxv/learning-git)
 - [Khalilbentej](https://github.com/khalilbentej/first-contributions.git)
+- [Alok Kharwar](https://github.com/alokxkh)
 - [Ayumi](https://github.com/ayumi1201)
 - [Vivek kumar](https://github.com/vivek8271)
 https://github.com/1276604737-cloud
