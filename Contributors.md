@@ -1008,3 +1008,4 @@ https://github.com/1276604737-cloud
 - [Danny Ray](https://github.com/dannyraylee)
 - [Siborne](https://github.com/Siborne)
 - [Anjef Dangol](https://github.com/d-anjef)
+- [Abdelali Rami] (https://github.com/alijr2018)
