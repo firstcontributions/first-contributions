@@ -15,6 +15,7 @@
 - [Ankit Gupta](https://github.com/ankitxdev-me)
 - [Darsheel nagrale](https://github.com/Dalchini-hub)
 - Immanuel
+- Julesfress
 - [jashvin]
 - [Aman](https://github.com/aman2603tiwari)
 - [**Jatin Awankar**](https://jatinawankar.dev)👽
