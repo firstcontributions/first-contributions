@@ -997,3 +997,10 @@ https://github.com/1276604737-cloud
 - [jimi](https://p)
 - - Harshit Shah (https://github.com/shahharshit226-glitch)
 - Apoorva Nayak
+- ### 张三
+- 院校：XXX大学
+- 专业：软件工程/计算机科学与技术
+- 学习内容：Git基础、GitHub协作、开源贡献流程
+- 本次贡献：完成人生第一个开源PR，熟悉Fork+分支+编辑+提交PR全流程
+- 心得：开源贡献并不难，网页操作也能轻松完成第一次贡献
+- 目标：持续学习GitHub使用，参与更多开源项目
