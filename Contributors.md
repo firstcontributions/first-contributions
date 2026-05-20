@@ -14,6 +14,7 @@
 - [Ankit Gupta](https://github.com/ankitxdev-me)
 - Immanuel
 - [jashvin]
+- [Aman](https://github.com/aman2603tiwari)
 - [**Jatin Awankar**](https://jatinawankar.dev)👽
 - [Janmejay Shibaprasad Mahanta](https://github.com/janmejay1438)
 [Bibas Sharma] (https://github.com/bsharm12)
