@@ -1,13 +1,16 @@
+- [Cutro](https://github.com/Cutro3010/first-contributions)
 -Prerna
 - Herit (herit007)
+- [Shainti](https://github.com/shainti/)
 - [Nayagam](https://pmnayagam.github.io/portfolio/)
 - [Suryansh] (https://github.com/snaxy318)
 - [Faizan](https://github.com/faizanfatmi)
 - [Nirajjj11](https://github.com/Nirajjj11)😄💻🌱💻✨
 - [lareinafan](https://github.com/lareinafan)
 - [Prerna Raj](https://github.com/Prerna-2801)
-- [Lou Polletta] (https://github.com/lppolletta)
+- [Lou Polletta](https://github.com/lppolletta)
 - [AyushTurale](https://github.com/AyushTurale)
+- [Ankit Gupta](https://github.com/ankitxdev-me)
 - Immanuel
 - [jashvin]
 - [**Jatin Awankar**](https://jatinawankar.dev)👽
@@ -18,6 +21,7 @@
 -[xzh]
 -[zyh]
 - [Nebal Akash](https://github.com/Nebal-akash)
+- [Arnav Kothekar](https://github.com/ArnavKothekar)
 - [Kamrul Hossain](https://github.com/kamrullab) - EliteKamrul | Code • Learn • Build
 - [APH](https://github.com/AungPhyo774)
 - [Sheetal Jatav](https://github.com/sheetaljatav)
@@ -28,6 +32,7 @@
 - [zerobruhman](https://github.com/zerobruhman)
 - Divo changed this to add his name
 - [Dotify_71](https://github.com/Dotify_71)
+- Shagun Sharma
 - [Deepti_63](https://github.com/Deepti63)
 - [Abdul-Rehman](https://github.com/raoabdulrehman29-dev)
 - [Matsuda](https://github.com/matsudaushekage) — DevOps student
@@ -40,6 +45,7 @@
 - [xPayload](https://github.com/xPayload)
 - [RamalingamKR](https://github.com/RAMALINGAMKR)
 - [Hao Huynh] (https://github.com/haohuynh9422)
+- [Yuthish Krishna](https://github.com/yuthishkrishna)
 - [x1n-Q](https://github.com/x1n-Q)
 - [Sarthak Bahal](https://github.com/sarthakbahal)
 - [Saksham Patil](https://github.com/PointBreak202)
@@ -104,6 +110,7 @@ rashid adiyarambath
 - [Priyanshu](https://github.com/Priyanshu-arm)
 - [Asnaks](https://github.com/Asnaks)
 - [Lorenzo Pica](https://github.com/Atmoloid)
+- [Vikramaditya Sai P] (https://github.com/pvasB0-baymax) 
 - [Prajwal V R](https://github.com/prajwal-vr)
 - [Aryak Singh](https://github.com/aryaksinghh)
 - [Abdullah Semar](https://github.com/abdullahsemar)
@@ -171,6 +178,7 @@ rashid adiyarambath
 - [Bradley Leventhal](https://github.com/btleventhal)
 - [Braham Ramos](https://github.com/BrahaME123)
 - [Brahmpreet Singh](https://github.com/Brahmpreett)
+-[Walter Onyango](https://github.com/walterhrad-pixel)
 - [Brandon B Bolivar](https://github.com/AvoBolivar)
 - [Brian Luporini](https://github.com/bluporini)
 - [Bruno Buss](https://github.com/bussbruno)
@@ -410,6 +418,7 @@ OAT
 - [Monica Fagerli](https://github.com/MonicaKristine)
 - [Muhammed Shareef](https://github.com/shareefmx)
 - [Mudasir Ali](https://github.com/mudasirunar)
+- [Fadel Bantan](https://github.com/fadelbantan)
 - [Muhsil NR](https://github.com/mhlohh)
 - [Muntazir-Sayed](https://github.com/Muntazir-sd)
 - [Murphy Amparo](https://github.com/MaxTecnoDev)
