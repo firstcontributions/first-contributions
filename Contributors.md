@@ -389,6 +389,7 @@ OAT
 - [Karri Saiphani Reddy](https://github.com/Saiphani1022)
 - [Kyle Gossage](https://github.com/KGossage11)
 - [Kyrillos Hamdy Nassif Hunein](https://github.com/KyrillosHamdy)
+- [B. Figuereo](https://github.com/KDBatistaFiguereo)
 - [Lakan](https://github.com/Jayadityas)
 - [Lakshigan Jeyanth](https://github.com/Jeyanth3)
 - [Lakshmi Priya](https://github.com/priya1503)
