@@ -19,6 +19,7 @@
 - [jashvin]
 - [Aman](https://github.com/aman2603tiwari)
 - [**Jatin Awankar**](https://jatinawankar.dev)👽
+- [Manas Pingle (Maglex)](https://github.com/Manaspingle)🥷
 - [Janmejay Shibaprasad Mahanta](https://github.com/janmejay1438)
 [Bibas Sharma] (https://github.com/bsharm12)
 - [Saiteja]
@@ -43,6 +44,7 @@
 so hard about it
 - Shagun Sharma
 - [Deepti_63](https://github.com/Deepti63)
+- [Manas Pingle](https://github.com/Manaspingle)🥷 -  Content Creator
 - [Abdul-Rehman](https://github.com/raoabdulrehman29-dev)
 - [Matsuda](https://github.com/matsudaushekage) — DevOps student
 - [Manaswini Saroja Reddy Karri](https://github.com/Manaswinisaroja) - Aspiring Entrepreneur
