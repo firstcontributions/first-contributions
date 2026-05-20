@@ -941,6 +941,7 @@ https://github.com/1276604737-cloud
 - [Ankit](https://github.com/145Ankit)
 - [Shashwat Dhondyal] (https://github.com/DebugMajor)
 - [Nishvi](https://github.com/Nishviprp)
+- [Volodishlav](https://github.com/Volodishlav)
 - [Yasharth Tiwari](https://github.com/yasharth25)
 - [SlakenKaken](https://github.com/SlakenKaken)
 - [imxde-code](https://github.com/imxde-code)
