@@ -492,6 +492,7 @@ OAT
 - [Nícolas Marinho](https://github.com/nicolasmarinhoo)
 - [Nguyen Quoc Thai](https://github.com/nqt-2)
 - [OSoufian](https://github.com/OSoufian)
+- [Mathis LaPivoine](https://github.com/Archeos932)
 - [Olamilekan](https://github.com/kilan080)
 - [Olapu Ajay](https://github.com/olapuajay)
 - [Oleg Ataeff](https://github.com/ariannamethod)
