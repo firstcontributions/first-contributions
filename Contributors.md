@@ -605,6 +605,7 @@ Hana
 - [Ryan Goods](https://github.com/feelgooddd)
 - [Swastik Sinha](https://github.com/swastiksinha1)
 - [Rysan Deluna aka Ryan](https://github.com/RysanDeluna)
+-[Sagar H D](https://github.com/Sagar-HD)
 - [SAYEM](https://github.com/11UCRES)
 - [Sabin El Anwar :-)](https://github.com/sabinAnwar/)
 - [SIDHARTH](https://github.com/Sid-2302)
