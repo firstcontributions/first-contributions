@@ -2,6 +2,7 @@
 - [404000-UI](https://github.com/404000-UI)
 -Prerna
 - Herit (herit007)
+- [Haarsh](https://github.com/haarshaacharya)
 - [Shainti](https://github.com/shainti/)
 - [Nayagam](https://pmnayagam.github.io/portfolio/)
 - [Suryansh] (https://github.com/snaxy318)
