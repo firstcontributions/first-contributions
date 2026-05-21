@@ -390,6 +390,7 @@ OAT
 - [Jnaneswar karedla](https://github.com/jnaneswar077)
 - [JulianoCLI](https://github.com/JulianoCLI)
 - [Josman Dev](https://github.com/jmaldama8110)
+- [Abdullah Khan](https://github.com/Python-genius900)
 - [Kanika Kapoor](https://gtihub.com/kanikakapoorcode)
 - [Kanta Komoike](https://github.com/komoike-oss28-ui)
 - [Kapil Kumar](https://github.com/kapilkumar05991)
