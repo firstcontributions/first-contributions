@@ -196,9 +196,11 @@ Maliha
 - [Blas Sanchez](https://github.com/xbsanpan855-boop)
 - [BlueCool12](https://github.com/BlueCool12)
 - [Bluefox192](https://github.com/Bluefox192)
+- [Anuradha Tiwari](https://github.com/Anuradhatiwari01)
 - [Bobur Boboyev](https://github.com/Bobur-Boboyev)
 - [BpsBaradwaz](https://github.com/Baradwaz-122)
 - [Bradley Leventhal](https://github.com/btleventhal)
+- [Brady Ratzlaff](https://github.com/bsratzlaff-del)
 - [Braham Ramos](https://github.com/BrahaME123)
 - [Brahmpreet Singh](https://github.com/Brahmpreett)
 -[Walter Onyango](https://github.com/walterhrad-pixel)
@@ -552,6 +554,7 @@ Hana
 - [Prince Makhansa](https://github.com/PrinceMakhansa)
 - [Prince](https://github.com/Prnc5804)
 - [Prithvi](https://github.com/Prithviisss)
+- [laa]
 - [Prithviraj Tandel](https://github.com/NSKY0808)
 - [Priya Vora](https://github.com/priyavora6)
 - [Priyam Manna](https://github.com/priyam-that)
@@ -1047,3 +1050,6 @@ https://github.com/1276604737-cloud
 - [PRIYAL DESHMUKH]
 - [Iketutwidiyane](https://github.com/IKetutWidiyane)
 - dhrux11
+- [Sachin Mehta](https://github.com/SachinMehta-sgoo)
+- [Ofir Eitan](https://github.com/OfirEitan)
+- [Hazem Hadj Ahmed](https://github.com/hazemha54)
