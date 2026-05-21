@@ -185,6 +185,7 @@ rashid adiyarambath
 - [Aditi Kumari](https://github.com/aditi-avni)
 - [Bhargav Kallepally](https://github.com/BHARGAV-RUE)
 - [Bibek Baram](https://portfolio.bibekbaram.com.np)
+Maliha
 - [Bigerrr](https://github.com/Bigerrr)
 - [Bimal Ray](https://github.com/Bimal-ray99)
 - [Bishwa7](https://github.com/Bishwa7)
