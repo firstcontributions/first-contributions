@@ -1021,3 +1021,13 @@ https://github.com/1276604737-cloud
 - [Bima Khoirot] (https://github.com/senobima)
 - [White Wall] (https://github.com/whitewall1575)
 - [epalkaran](https://github.com/epalkaran)
+
+- [Sem_Andru](https://github.com/quort3)
+- [avoforme] (https://github.com/avoforme)
+### BAIYU YIN
+
+- GitHub: https://github.com/yby2024211469-art
+- Learning Open Source Contribution
+- First Pull Request Practice
+- Student Contributor
+- Interested in Git and GitHub
