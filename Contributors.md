@@ -72,6 +72,7 @@ so hard about it
 - [Christy](https://github.com/ChristyBK202)
 - [Tobi] (infinite Tsukiyomi)
 - [Shivansh Goel89](https://github.com/SHIVANSH-ux-ys)
+- [rasyidmmz](https://github.com/rasyidmmz)
 - [rud1x](https://github.com/rud1x)
 - [pastaepiselli] (https://github.com/pastaepiselli)
 - [shreya] (https://github.com/Shreya1810-tech)
