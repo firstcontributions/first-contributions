@@ -22,6 +22,7 @@
 - [Janmejay Shibaprasad Mahanta](https://github.com/janmejay1438)
 [Bibas Sharma] (https://github.com/bsharm12)
 - [Saiteja]
+-[Adil Shaikh](https:github.com/adil162006)
 - [Saikiran Palli]
 -[xzh]
 -[zyh]
