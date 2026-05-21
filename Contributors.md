@@ -48,6 +48,7 @@
 so hard about it
 - Shagun Sharma
 - [Deepti_63](https://github.com/Deepti63)
+- [Zeeshan from Pakistan](https://github.com/Zeeshan-success)
 - [Abdul-Rehman](https://github.com/raoabdulrehman29-dev)
 - [Matsuda](https://github.com/matsudaushekage) — DevOps student
 - [Manaswini Saroja Reddy Karri](https://github.com/Manaswinisaroja) - Aspiring Entrepreneur
@@ -1029,3 +1030,4 @@ https://github.com/1276604737-cloud
 -[Vansh Rana] (https://github.com/Player1205)
 -[Shlok Srivastava] (https://github.com/shloksrivastava2509)
 - [Julio Garcia](https://github.com/jul10gg)
+- [darkyellowcat](https://github.com/darkyellowcat)
