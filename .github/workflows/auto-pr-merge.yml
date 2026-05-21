@@ -176,6 +176,21 @@ jobs:
               // Set GitHub Action as failed
               core.setFailed(error.message);
             }
+            
+      # Post comment when Contributors.md has multiple line changes
+      - name: Post comment for multiple line changes
+        if: env.only_contributors == 'true' && env.one_line_change != 'true'
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            await github.rest.issues.createComment({
+             owner: context.repo.owner,
+             repo: context.repo.repo,
+             issue_number: context.issue.number,
+             body: "Thank you for your pull request! This PR modifies Contributors.md with multiple line changes, so a maintainer will review it manually."
+             })
+
 
       # Post a comment on the pull request if it was not merged automatically
       - name: Post comment on PR if not merged automatically
