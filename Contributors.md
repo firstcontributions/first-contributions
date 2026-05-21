@@ -318,6 +318,7 @@ OAT
 - [LisaM516](https://github.com/LisaM516)
 - [FuraxDev](https://github.com/furax2204)
 - [Furkan Can](https://github.com/Furkancan2)
+- [gegi](https://github.com/gegi05)
 - [G S Abinivas](https://github.com/abi6374)
 - [G.Mohammed Mansoor](https://github.com/VoidKernel786)
 - [Gali Alon](https://github.com/gali-alon)
