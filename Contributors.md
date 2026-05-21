@@ -48,6 +48,7 @@
 so hard about it
 - Shagun Sharma
 - [Deepti_63](https://github.com/Deepti63)
+- [Zeeshan from Pakistan](https://github.com/Zeeshan-success)
 - [Abdul-Rehman](https://github.com/raoabdulrehman29-dev)
 - [Matsuda](https://github.com/matsudaushekage) — DevOps student
 - [Manaswini Saroja Reddy Karri](https://github.com/Manaswinisaroja) - Aspiring Entrepreneur
