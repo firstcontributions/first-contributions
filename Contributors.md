@@ -199,6 +199,7 @@ Maliha
 - [Bobur Boboyev](https://github.com/Bobur-Boboyev)
 - [BpsBaradwaz](https://github.com/Baradwaz-122)
 - [Bradley Leventhal](https://github.com/btleventhal)
+- [Brady Ratzlaff](https://github.com/bsratzlaff-del)
 - [Braham Ramos](https://github.com/BrahaME123)
 - [Brahmpreet Singh](https://github.com/Brahmpreett)
 -[Walter Onyango](https://github.com/walterhrad-pixel)
