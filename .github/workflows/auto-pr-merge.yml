@@ -213,3 +213,38 @@ jobs:
             }
             
           github-token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Post comment on PR if only Contributors.md file is changed but more than one line is changed.
+        if: env.only_contributors == 'true' && env.one_line_change != 'true'
+        uses: actions/github-script@v6
+        with:
+          script: |
+            // get the existing comments.
+            const {data: comments} = await github.rest.issues.listComments({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.payload.number,
+            })
+
+            // find any comment already made by the bot.                                                                                                    
+            const botComment = comments.find(comment => comment.user.login === 'github-actions[bot]')                                                                       
+
+            const body = `Thank you for your pull request. This pull request contains more than one line change in the Contributors.md file. We require only one line change in the Contributors.md file to automatically merge the pull request.`
+
+            if (botComment) {
+              await github.rest.issues.updateComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                comment_id: botComment.id,
+                body: body
+              })
+            } else {
+                await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                body: body
+              });
+            }
+            
+          github-token: ${{ secrets.GITHUB_TOKEN }}    
