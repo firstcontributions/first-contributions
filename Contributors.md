@@ -75,7 +75,7 @@ so hard about it
 - [nemanja33](https://github.com/nemanja33)
 - [Munish Kumar](https://github.com/munishmalhotra6230)
 -----------------------------------------------------------------------------------------------------------
-- [Preet kasana ]
+- [Preet kasana](https://github.com/Preet-kasana205)
 -----------------------------------------------------------------------------------------------------------
 -  "thanks lad!"
 - [170joeychua](https://github.com/170joeychua)
