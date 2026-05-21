@@ -1040,3 +1040,4 @@ https://github.com/1276604737-cloud
 - Daksh Mehta
 - [Thejaswini](https://github.com/Thejaswini-VS)
 - [PRIYAL DESHMUKH]
+[Sardar Mohamad Rashed](https://github.com/sardarMrashed)
