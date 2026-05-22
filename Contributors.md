@@ -6,6 +6,7 @@
 - [404000-UI](https://github.com/404000-UI)
 -Shravani
 -Prerna
+- [Dhruv Shah](https://github.com/DhruvShah-Dev)
 - Herit (herit007)
 - nipun jain 
 - [Shashank S](https://github.com/Shashank23123458867504/first-contributions)
