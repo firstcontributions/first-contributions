@@ -42,6 +42,7 @@
 - [jashvin]
 - [Aman](https://github.com/aman2603tiwari)
 - [**Jatin Awankar**](https://jatinawankar.dev)👽
+- [Manas Pingle (Maglex)](https://github.com/Manaspingle)🥷
 - [Janmejay Shibaprasad Mahanta](https://github.com/janmejay1438)
 [Bibas Sharma] (https://github.com/bsharm12)
 - [Saiteja]
