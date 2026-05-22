@@ -46,6 +46,7 @@
 - [Saikiran Palli]
 -[xzh]
 -[zyh]
+- [Shivangi Pandey](https://github.com/Shivangi-1905)
 - [Hong Cheng Wang](https://github.com/hongchengw)
 - [Babar Zargar](https://github.com/BabarZargar)
 - [Nebal Akash](https://github.com/Nebal-akash)
