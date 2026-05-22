@@ -11,6 +11,7 @@
 - [Raghav Sapra](https://github.com/RaghavSapraOfficial)
 - Herit (herit007)
 - nipun jain 
+- [Amaaz Lakhani] (https://github.com/Amaaz28)
 - [Shashank S](https://github.com/Shashank23123458867504/first-contributions)
 - [Josh Nolan](https://github.com/nolan-josh)
 - [Haarsh](https://github.com/haarshaacharya)
