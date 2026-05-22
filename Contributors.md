@@ -1082,6 +1082,7 @@ https://github.com/1276604737-cloud
 - [Sachin Mehta](https://github.com/SachinMehta-sgoo)
 - [Ofir Eitan](https://github.com/OfirEitan)
 - [Hazem Hadj Ahmed](https://github.com/hazemha54)
+- [Henrique Costa](https://github.com/odevhenrique)
 - [Vishnu Bhardwaj](https://github.com/Vishnu-Bhardwaj)
 - [AayushShah-904](https://github.com/AayushShah-904)
 - [Stewart Clay] (https://github.com/porkstew)
