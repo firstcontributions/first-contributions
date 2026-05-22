@@ -10,6 +10,7 @@
 - Divo changed this to add his name
 - [Dotify_71](https://github.com/Dotify_71)
 - [Abdul-Rehman](https://github.com/raoabdulrehman29-dev)
+- [Afrin-Khan]
 - [Matsuda](https://github.com/matsudaushekage) — DevOps student
 - [Manaswini Saroja Reddy Karri](https://github.com/Manaswinisaroja) - Aspiring Entrepreneur
 - [Strawberry] (https://github.com/Riya61018)
