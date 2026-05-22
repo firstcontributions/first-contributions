@@ -1,19 +1,4 @@
-[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
-
-#### _Read this in [other languages](docs/translations/Translations.md)._
-<kbd>[<img title="Shqip" alt="Shqip" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/al.svg" width="22">](docs/translations/README.al.md)</kbd>
-<kbd>[<img title="Armenian" alt="Armenian" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/am.svg" width="22">](docs/translations/README.arm.md)</kbd>
-<kbd>[<img title="Uzbek" alt="Uzbek language" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/uz.svg" width="22">](docs/translations/README.uz.md)</kbd>
-<kbd>[<img title="Azərbaycan dili" alt="Azərbaycan dili" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/az.svg" width="22">](docs/translations/README.aze.md)</kbd>
-<kbd>[<img title="বাংলা" alt="বাংলা" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/bd.svg" width="22">](docs/translations/README.bn.md)</kbd>
-<kbd>[<img title="Bulgarian" alt="Bulgarian" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/bg.svg" width="22">](docs/translations/README.bg.md)</kbd>
-<kbd>[<img title="Português (Brasil)" alt="Português (Brasil)" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/br.svg" width="22">](docs/translations/README.pt_br.md)</kbd>
-<kbd>[<img title="Català" alt="Català" src="https://firstcontributions.github.io/assets/Readme/catalan1.png" width="22">](docs/translations/README.ca.md)</kbd>
-<kbd>[<img title="中文 (Simplified)" alt="中文 (Simplified)" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/cn.svg" width="22">](docs/translations/README.zh-cn.md)</kbd>
-<kbd>[<img title="Czech" alt="Czech" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/cz.svg" width="22">](docs/translations/README.cs.md)</kbd>
-<kbd>[<img title="Deutsch" alt="Deutsch" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/de.svg" width="22">](docs/translations/README.de.md)</kbd>
+[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-sourtions/README.de.md)</kbd>
 <kbd>[<img title="Dansk" alt="Dansk" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/dk.svg" width="22">](docs/translations/README.da.md)</kbd>
 <kbd>[<img title="المصرية" alt="المصرية" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/eg.svg" width="22">](docs/translations/README.eg.md)</kbd>
 <kbd>[<img title="Dezéiriya" alt="Dezéiriya" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/dz.svg" width="22">](docs/translations/README.dz.md)</kbd>
