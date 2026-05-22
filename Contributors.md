@@ -72,6 +72,7 @@ so hard about it
 - [Niraj-Baral] (https://https://github.com/Niraj996)
 - [Krishna-Goswami] (https://github.com/Krishna-Gowami) - AIML engineer
 - [Subhakar-Tadimalla] (https://github.com/subhakartadimalla)
+- [Aaqib Javaid] (https://github.com/aaqib605)
 - [Ashish-gr12](https://github.com/ashish-gr12)
 - [Strawberry] (https://github.com/Riya61018)
 - [xPayload](https://github.com/xPayload)
