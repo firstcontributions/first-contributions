@@ -138,6 +138,7 @@ rashid adiyarambath
 - [Aarjav Patriya](https://github.com/Aarjav0p)
 - [Aaryan Pandey](https://github.com/aaryanpandey29)
 - [Abhishek Agrawal](https://github.com/agrawalabhi881-a11y)
+- [Mayur Lad](https://github.com/mayurlad)
 - [Djombissi Daniels](https://github.com/DMSD003)
 - [Nidhi Kumari](https://github.com/nidhii-dev)
 - [Yash Khatri](https://github.com/Yashkhatri01)
