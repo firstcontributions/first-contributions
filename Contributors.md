@@ -1095,4 +1095,6 @@ https://github.com/1276604737-cloud
 - [Ale Busayo](https://github.com/busayo090)
 - [Orishedere Oghale Joshua](https://github.com/DaffyonCrack)
 -[Swarana Bairavan](https://github.com/swarana-bairavan)
--[Vishal R J][https://github.com/rjvishal080]
+-[Vishal R J](https://github.com/rjvishal080)
+-[Vishal S](https://github.com/Vishal0250)
+
