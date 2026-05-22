@@ -112,6 +112,7 @@ rashid adiyarambath
 - [Samir Khanal](https://github.com/shawmeer)
 - [mboulagh] (https://github.com/MINATOnmk) From Avictos Open Source Club, Morocco  .
 - [Ramnivas Suthar](https://github.com/ramnivas11)
+- [Varun]
 - [Aamir Khan](https://github.com/aamir296)
 - [Aboubaker Amajjou](https://github.com/P4IN444)
 - [Niharika Gupta](https://github.com/guptaniharika8953)
