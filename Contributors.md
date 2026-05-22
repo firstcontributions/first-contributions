@@ -4,6 +4,7 @@
 -Shravani
 -Prerna
 - Herit (herit007)
+- [Shashank S](https://github.com/Shashank23123458867504/first-contributions)
 - [Haarsh](https://github.com/haarshaacharya)
 - [Aakriti Arya](https://aakriti-arya-portfolio.vercel.app)
 - [JheanLL](https://github.com/JheanLL)
