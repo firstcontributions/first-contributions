@@ -1,6 +1,7 @@
 -[Anushka Srivastava](https://github.com/anushkasrvstv)
  [Sridivya](https://github.com/sridivyaguttula20)
 - [SuperDeer](https://github.com/superdeer18/first-contributions)
+- [Shashwat Kaushik] (https://github.com/shashwatkaushik-bit/first-contributions.git)
 - [Cutro](https://github.com/Cutro3010/first-contributions)
 - [404000-UI](https://github.com/404000-UI)
 -Shravani
