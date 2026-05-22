@@ -24,6 +24,7 @@
 - [Nitisha Mali](https://github.com/Nitisha-hub)
 - Farhan Ishraq
 - [Nishtha](https://github.com/NishLon)
+- Johandrys
 - [Faizan](https://github.com/faizanfatmi)
 - [Khushi Trivedi](https://github.com/Khushi288-creator)
 - [Kush Saraswat] (https://github.com/DeveloperKush)
