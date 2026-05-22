@@ -12,6 +12,7 @@
 - [Shainti](https://github.com/shainti/)
 - [Nayagam](https://pmnayagam.github.io/portfolio/)
 - [Suryansh] (https://github.com/snaxy318)
+- [Nitisha Mali](https://github.com/Nitisha-hub)
 - Farhan Ishraq 
 - [Faizan](https://github.com/faizanfatmi)
 - [Khushi Trivedi](https://github.com/Khushi288-creator)
