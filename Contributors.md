@@ -132,6 +132,7 @@ rashid adiyarambath
 - [Varun]
 - [Aamir Khan](https://github.com/aamir296)
 - [Aboubaker Amajjou](https://github.com/P4IN444)
+
 - [Niharika Gupta](https://github.com/guptaniharika8953)
 - [Aamir](https://github.com/AamirMNAamir)
 - [Aarjav Patriya](https://github.com/Aarjav0p)
@@ -1097,3 +1098,4 @@ https://github.com/1276604737-cloud
 - [Orishedere Oghale Joshua](https://github.com/DaffyonCrack)
 -[Swarana Bairavan](https://github.com/swarana-bairavan)
 -[Vishal R J][https://github.com/rjvishal080]
+- [Faizan Shahid](https://github.com/faizanshahid00007)
