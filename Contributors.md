@@ -564,6 +564,7 @@ Hana
 - [Pragyey](https://github.com/CatalyzedHONEY)
 - [Prajaka Jagdale](https://github.com/Hermione28)
 - [Pramodkumar Shivanna](https://github.com/pramod05edu-afk)
+- [Ivan Dimitrov](https://github.com/Durotaren)
 - [Pranav Anandarao](https://github.com/pranandarao)
 - [Pranav Sawant](https://github.com/ItzPranav61)
 - [Pranav Wagh](https://github.com/Pranavwagh1)
