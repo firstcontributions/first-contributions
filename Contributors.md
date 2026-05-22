@@ -308,6 +308,7 @@ OAT
 - [EAyinomba](https://github.com/Jxt-Eli)
 - [Elijah Weiss](https://github.com/eweiss4)
 - [Elijah](https://github.com/Elijah647)
+- [Eiztrips](https://github.com/Eiztrips) 🎶😎
 - [Fabirizio Raffaelli](https://github.com/Fabro23)
 - [Balaji Ramachandran](https://github.com/rbalaji007)
 - [Fabricio Cubero](https://github.com/FabricioFDP)
