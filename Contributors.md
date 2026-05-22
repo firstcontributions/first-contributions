@@ -1,11 +1,4 @@
-- [Sanskar Pandey](https://github.com/pandeysanskar19)
--[Anushka Srivastava](https://github.com/anushkasrvstv)
- [Sridivya](https://github.com/sridivyaguttula20)
-- [SuperDeer](https://github.com/superdeer18/first-contributions)
-- [Shashwat Kaushik] (https://github.com/shashwatkaushik-bit/first-contributions.git)
-- [Cutro](https://github.com/Cutro3010/first-contributions)
-- [404000-UI](ham.github.io/portfolio/)
-- [Suryansh] (https://github.com/snaxy318)
+
 - [Nitisha Mali](https://github.com/Nitisha-hub)
 - Farhan Ishraq
 - [Nishtha](https://github.com/NishLon)
