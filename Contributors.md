@@ -64,6 +64,7 @@ so hard about it
 - [Deepti_63](https://github.com/Deepti63)
 - [Zeeshan from Pakistan](https://github.com/Zeeshan-success)
 - [Abdul-Rehman](https://github.com/raoabdulrehman29-dev)
+- [Afrin-Khan]
 - [Matsuda](https://github.com/matsudaushekage) — DevOps student
 - [Manaswini Saroja Reddy Karri](https://github.com/Manaswinisaroja) - Aspiring Entrepreneur
 - [Niraj-Baral] (https://https://github.com/Niraj996)
