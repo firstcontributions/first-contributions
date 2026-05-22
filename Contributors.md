@@ -5,6 +5,7 @@
 -Prerna
 - Herit (herit007)
 - [Haarsh](https://github.com/haarshaacharya)
+- [Mostafa](https://github.com/Mostafa-Shariare)
 - [Aakriti Arya](https://aakriti-arya-portfolio.vercel.app)
 - [JheanLL](https://github.com/JheanLL)
 - [Shainti](https://github.com/shainti/)
