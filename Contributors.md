@@ -858,4 +858,4 @@ https://github.com/1276604737-cloud
 - [Shaan Saurav](https://github.com/Shaan098)
 - [Gaddam Anudeep](https://github.com/AnudeepG25)
 - [SharwanKunwar] (https://github.com/SharwanKunwar)
-- [Harshika Patel] (https://github.com/harshikapatel46)
+- [Harshika Patel](https://github.com/harshikapatel46)
