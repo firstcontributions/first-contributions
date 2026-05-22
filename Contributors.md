@@ -8,6 +8,7 @@
 - [Shashank S](https://github.com/Shashank23123458867504/first-contributions)
 - [Haarsh](https://github.com/haarshaacharya)
 - [Aakriti Arya](https://aakriti-arya-portfolio.vercel.app)
+- [Anand Yadav](https://github.com/Anandyadav04)
 - [JheanLL](https://github.com/JheanLL)
 - [Shainti](https://github.com/shainti/)
 - [Nayagam](https://pmnayagam.github.io/portfolio/)
