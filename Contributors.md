@@ -31,6 +31,7 @@
 - [Lou Polletta](https://github.com/lppolletta)
 - tklee
 - [AyushTurale](https://github.com/AyushTurale)
+- [Muhammad Faisal Affan](https://github.com/faisalaffan)
 - [Ankit Gupta](https://github.com/ankitxdev-me)
 - [Darsheel nagrale](https://github.com/Dalchini-hub)
 - Immanuel
