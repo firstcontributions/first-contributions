@@ -1,5 +1,5 @@
--[Anushka Srivastava](https://github.com/anushkasrvstv)
- [Sridivya](https://github.com/sridivyaguttula20)
+- [Anushka Srivastava](https://github.com/anushkasrvstv)
+- [Sridivya](https://github.com/sridivyaguttula20)
 - [SuperDeer](https://github.com/superdeer18/first-contributions)
 - [Shashwat Kaushik] (https://github.com/shashwatkaushik-bit/first-contributions.git)
 - [Cutro](https://github.com/Cutro3010/first-contributions)
@@ -7,6 +7,7 @@
 -Shravani
 -Prerna
 - [Dhruv Shah](https://github.com/DhruvShah-Dev)
+- [Raghav Sapra](https://github.com/RaghavSapraOfficial)
 - Herit (herit007)
 - nipun jain 
 - [Shashank S](https://github.com/Shashank23123458867504/first-contributions)
