@@ -35,6 +35,7 @@
 - [Saikiran Palli]
 -[xzh]
 -[zyh]
+- [Hong Cheng Wang](https://github.com/hongchengw)
 - [Babar Zargar](https://github.com/BabarZargar)
 - [Nebal Akash](https://github.com/Nebal-akash)
 - [Arnav Kothekar](https://github.com/ArnavKothekar)
