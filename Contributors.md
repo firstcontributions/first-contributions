@@ -4,6 +4,7 @@
 - [Prerna Raj](https://github.com/Prerna-2801)
 - [AyushTurale](https://github.com/AyushTurale)
 - Immanuel 
+- [Rehan Shaik](https://github.com/rehans7)
 - [**Jatin Awankar**](https://jatinawankar.dev)👽
 - [Janmejay Shibaprasad Mahanta](https://github.com/janmejay1438)
 - [Saiteja]
