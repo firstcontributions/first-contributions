@@ -63,6 +63,38 @@ Julesfress
 [**Jatin Awankar**](https://jatinawankar.dev)👽
 
 [Janmejay Shibaprasad Mahanta](https://github.com/janmejay1438)
+=======
+- Herit (herit007)
+- nipun jain 
+- [Shashank S](https://github.com/Shashank23123458867504/first-contributions)
+- [Haarsh](https://github.com/haarshaacharya)
+- [Aakriti Arya](https://aakriti-arya-portfolio.vercel.app)
+- [Anand Yadav](https://github.com/Anandyadav04)
+- [JheanLL](https://github.com/JheanLL)
+- [Shainti](https://github.com/shainti/)
+- [Nayagam](https://pmnayagam.github.io/portfolio/)
+- [Suryansh] (https://github.com/snaxy318)
+- [Nitisha Mali](https://github.com/Nitisha-hub)
+- Farhan Ishraq 
+- [Faizan](https://github.com/faizanfatmi)
+- [Khushi Trivedi](https://github.com/Khushi288-creator)
+- [Nirajjj11](https://github.com/Nirajjj11)😄💻🌱💻✨
+- [lareinafan](https://github.com/lareinafan)
+- [Sumesh Kumar](https://github.com/smush1)
+- [KuantumKnight](https://github.com/KuantumKnight)
+- [Prerna Raj](https://github.com/Prerna-2801)
+- [Lou Polletta](https://github.com/lppolletta)
+- tklee
+- [AyushTurale](https://github.com/AyushTurale)
+- [Ankit Gupta](https://github.com/ankitxdev-me)
+- [Darsheel nagrale](https://github.com/Dalchini-hub)
+- Immanuel
+- Julesfress
+- [jashvin]
+- [Aman](https://github.com/aman2603tiwari)
+- [**Jatin Awankar**](https://jatinawankar.dev)👽
+- [Janmejay Shibaprasad Mahanta](https://github.com/janmejay1438)
+
 [Bibas Sharma] (https://github.com/bsharm12)
 
 [Saiteja]
@@ -2076,6 +2108,7 @@ Apoorva Nayak
 -[Vansh Rana] (https://github.com/Player1205)
 -[Shlok Srivastava] (https://github.com/shloksrivastava2509)
 
+
 [Julio Garcia](https://github.com/jul10gg)
 
 [darkyellowcat](https://github.com/darkyellowcat)
@@ -2107,3 +2140,20 @@ dhrux11
 Shanmathi K
 
 [Yuva A](https://github.com/yuvaranianandhan)
+- [Julio Garcia](https://github.com/jul10gg)
+- [darkyellowcat](https://github.com/darkyellowcat)
+- Daksh Mehta
+- [Thejaswini](https://github.com/Thejaswini-VS)
+- [PRIYAL DESHMUKH]
+- [Iketutwidiyane](https://github.com/IKetutWidiyane)
+- dhrux11
+- [Sachin Mehta](https://github.com/SachinMehta-sgoo)
+- [Ofir Eitan](https://github.com/OfirEitan)
+- [Hazem Hadj Ahmed](https://github.com/hazemha54)
+- [Vishnu Bhardwaj](https://github.com/Vishnu-Bhardwaj)
+- [AayushShah-904](https://github.com/AayushShah-904)
+- [Stewart Clay] (https://github.com/porkstew)
+- [Rafi Rafsan](https://github.com/bit-wander)
+- Shanmathi K
+- [Moh Garindra Bellamy Pasya](https://github.com/mgrndrabllmypsya)
+
