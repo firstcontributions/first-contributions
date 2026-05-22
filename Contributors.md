@@ -45,6 +45,7 @@
 - [zerobruhman](https://github.com/zerobruhman)
 - Divo changed this to add his name
 - [Dotify_71](https://github.com/Dotify_71)
+- [Bahi0](https://github.com/Bahi0)
 - [Donny Winther](https://github.com/dwinther)
 so hard about it
 - Shagun Sharma
