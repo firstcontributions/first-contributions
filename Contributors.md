@@ -9,6 +9,7 @@
 - Herit (herit007)
 - nipun jain 
 - [Shashank S](https://github.com/Shashank23123458867504/first-contributions)
+- [Josh Nolan](https://github.com/nolan-josh)
 - [Haarsh](https://github.com/haarshaacharya)
 - [Mostafa](https://github.com/Mostafa-Shariare)
 - [Aakriti Arya](https://aakriti-arya-portfolio.vercel.app)
