@@ -74,6 +74,7 @@
 - [SaifDemos](https://github.com/SaifDemos)
 - [6NaCl](https://github.com/6NaCl)
 - [8saku](https://github.com/8saku8)
+-[Smarpit Malik](https://github.com/smarpitm)
 - [volatilespectre](https://github.com/volatilespectre)
 - [@Zakiahsan-arch](https://github.com/Zakiahsan-arch)
 - [Aakanksha Jadhav](https://github.com/aakankshajadhav2006)
