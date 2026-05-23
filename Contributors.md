@@ -520,6 +520,7 @@ OAT
 - [Newsworld](https://github.com/Newsworld-niu)
 - [MQasimButtar] (https://github.com/MQasimButtar)
 - [Nicholas Sobchak](https://github.com/NicholasSobchak)
+- [Nicholas C](https://github.com/KrustKrabPizza42/)
 - [NihadVeliyev](https://github.com/NihadVeliyev)
 - [Nikhil Itaudiya](https://github.com/23f2002113)
 - [Nikhil More](https://github.com/Khiladi-786)
