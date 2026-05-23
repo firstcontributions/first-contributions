@@ -65,6 +65,7 @@
 - [Arnav Kothekar](https://github.com/ArnavKothekar)
 - [Kamrul Hossain](https://github.com/kamrullab) - EliteKamrul | Code • Learn • Build
 - [APH](https://github.com/AungPhyo774)
+- [Mehedi Hasan](https://github.com/Mehedi-Hasan-18)
 - [Sheetal Jatav](https://github.com/sheetaljatav)
 - [apoptonic]
 - [Sarthak Neeraj Bhaskar](https://github.com/sarthak-codes-tech)
