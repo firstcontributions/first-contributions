@@ -1153,3 +1153,4 @@ https://github.com/1276604737-cloud
 - [Suhail A](https://github.com/Suhail977)
 - [Vishal S](https://github.com/Vishal0250)
 - [Harshavarthini26-maker](https://github.com/Harshavarthini26-maker) - Chennai
+- [jos053](https://github.com/jos053)
