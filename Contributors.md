@@ -29,6 +29,7 @@
 - [hly010](https://github.com/hly842/)
 - [Suryansh] (https://github.com/snaxy318)
 - [Nitisha Mali](https://github.com/Nitisha-hub)
+- [Kunal Gupta](https://github.com/KunalGupta25)
 - Farhan Ishraq
 - [Nishtha](https://github.com/NishLon)
 - Johandrys
