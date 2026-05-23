@@ -1137,3 +1137,4 @@ https://github.com/1276604737-cloud
 - [syed samiath azam](https://github.com/samiath17)
 - [Vishesh Sharma] (https://github.com/vishesharma20)
 - [Peter T.] (https://github.com/petrucha95)
+- [Alex Koritko](https://github.com/alexergie)
