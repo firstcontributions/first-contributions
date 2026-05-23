@@ -60,6 +60,7 @@
 -[Adil Shaikh](https:github.com/adil162006)
 - [Saikiran Palli]
 -[xzh]
+-[kitanekubane]
 -[zyh]
 - [Shivangi Pandey](https://github.com/Shivangi-1905)
 - [Abhishek Kumar](https://github.com/abhishekwx7)
