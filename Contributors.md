@@ -64,7 +64,7 @@ so hard about it
 - [Hao Huynh] (https://github.com/haohuynh9422)
 - [Yuthish Krishna](https://github.com/yuthishkrishna)
 - [x1n-Q](https://github.com/x1n-Q)
-- [Sarthak Bahal](https://github.com/sarthakbahal)
+- [Sarthak Bahal](https://github.com/hsarthakbahal)
 - [Saksham Patil](https://github.com/PointBreak202)
 - [Matheus Ribeiro] (https://github.com/mathrib)
 - [Robert Stefan](https://github.com/rstefan84)
@@ -1034,3 +1034,4 @@ https://github.com/1276604737-cloud
 -[Shlok Srivastava] (https://github.com/shloksrivastava2509)
 - [Julio Garcia](https://github.com/jul10gg)
 - [darkyellowcat](https://github.com/darkyellowcat)
+- [Bahi0](https://github.com/Bahi0)
