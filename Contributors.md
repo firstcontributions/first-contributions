@@ -557,6 +557,7 @@ Hana
 - [Pavel Safonov](https://github.com/Powarar)
 - [Pavel Shegay](https://github.com/pavelshegay3)
 - [Peace Alliance](https://github.com/peaceall236)
+- [Sayed Risat](https://github.com/sayedrisat)
 - [Peter Imoh Victor](https://github.com/peterimoh)
 - [Peter McGee](https://github.com/pmcgee-personal)
 - [Médéric DOMINICI](https://github.com/MedericDOMINICI)
