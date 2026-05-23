@@ -395,6 +395,7 @@ OAT
 - [Hong Zh](https://github.com/ho-zh)
 - [kai - https://github.com/RakeshKayal] Thank you for helping me as a beginner who wants to contribute in open source
 - [Hritvika Chunduri](https://github.com/HritvikaC)
+- [Aclguh](https://github.com/Aclguh)
 - [HuginnDani](https://github.com/HuginnDani)
 - [HxxllanX](https://github.com/hxxlLAN)
 - [i1ii11iii111](https://github.com/i1ii11iii111)
