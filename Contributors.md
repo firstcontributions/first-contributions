@@ -50,6 +50,7 @@
 - [Darsheel nagrale](https://github.com/Dalchini-hub)
 - Immanuel
 - Julesfress
+-Bhanu Sreekar
 - [jashvin]
 - [Aman](https://github.com/aman2603tiwari)
 - [**Jatin Awankar**](https://jatinawankar.dev)👽
