@@ -1139,3 +1139,4 @@ https://github.com/1276604737-cloud
 - [Vishesh Sharma] (https://github.com/vishesharma20)
 - [Peter T.] (https://github.com/petrucha95)
 - [Alex Koritko](https://github.com/alexergie)
+- [Renato Malebo](https://github.com/Renatomalebo10)
