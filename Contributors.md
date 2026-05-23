@@ -1,4 +1,5 @@
-- [Sanskar Pandey](https://github.com/pandeysanskar19)
+- [Vanshika Vashistha](https://github.com/Vanshikavashistha)
+#- [Sanskar Pandey](https://github.com/pandeysanskar19)
 -[Anushka Srivastava](https://github.com/anushkasrvstv)
  [Sridivya](https://github.com/sridivyaguttula20)
 - [SuperDeer](https://github.com/superdeer18/first-contributions)
