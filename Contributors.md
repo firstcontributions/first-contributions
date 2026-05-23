@@ -1142,3 +1142,5 @@ https://github.com/1276604737-cloud
 - [Alex Koritko](https://github.com/alexergie)
 - [Renato Malebo](https://github.com/Renatomalebo10)
 - [HARSHAVARTHINI J](https://github.com/Harshavarthini26-maker)
+- [Tomas Shchegolev](https://github.com/karos7777)
+
