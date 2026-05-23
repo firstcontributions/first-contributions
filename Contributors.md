@@ -1,4 +1,5 @@
 -[aikiho](https://github.com/prulen)
+-[Dipak Rathod](https://github.com/dipakrathod-tech)
 - [Vanshika Vashistha](https://github.com/Vanshikavashistha)
 #- [Sanskar Pandey](https://github.com/pandeysanskar19)
 -[Anushka Srivastava](https://github.com/anushkasrvstv)
