@@ -532,6 +532,7 @@ OAT
 - [Nathan Kutete](https://github.com/nathankuts)
 - [Nathaniel Marin](https://github.com/HorrySheet11)
 - [Natpu Enean](https://github.com/NatpuEnean)
+- [Naveen Attri](https://github.com/naveen-attri)
 - [Naveen Kumar](https://github.com/naveenkumarr1812)
 - [Navjot Singh](https://github.com/NavjotML)
 - [Navneet Anand Mishra](https://github.com/nav0804)
