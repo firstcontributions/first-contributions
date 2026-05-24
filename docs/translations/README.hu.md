@@ -110,7 +110,7 @@ Gratulálunk! Sikeresen teljesítetted az alapvető _fork -> clone -> edit -> PR
 
 Ünnepeld meg az első kooperációdat és oszd meg barátaiddal és követőiddel ennek a [web app](https://firstcontributions.github.io/#social-share)-nak a segítségével.
 
-Bármilyen kérdésed van vagy segítségre lenne szükséged, csatlakozz slack csapatunkhoz. [Csatlakozz a slack csapathoz.](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
+Ha többet szeretnél gyakorolni, nézd meg a [code contributions](https://github.com/roshanjossey/code-contributions) repót.
 
 Itt az idő egy másik projektben is közreműködni. Összeállítottunk egy listát azokról a projektekről, melyek könnyebb feladatokat tartalmaznak az induláshoz. Nézd meg a [projektek listáját](https://firstcontributions.github.io/#project-list) a webalkalmazásban.
 
