@@ -2,6 +2,7 @@
 -[Dipak Rathod](https://github.com/dipakrathod-tech)
 - [Vanshika Vashistha](https://github.com/Vanshikavashistha)
 #- [Sanskar Pandey](https://github.com/pandeysanskar19)
+-[Deepak Saini](https://github.com/deepaksaini7344-web
 -[Anushka Srivastava](https://github.com/anushkasrvstv)
 -[Prince Jha](https://github.com/princejha-dev)
  [Sridivya](https://github.com/sridivyaguttula20)
@@ -196,6 +197,7 @@ Anyone from Korea?
 - [Anson Chen](https://github.com/zhonganchen-anson)
 - [Taha El atoui](https://github.com/taha-arch)
 - [Ashitha T](https://github.com/Ashi-tha)
+- [Deepak Saini](https://github.com/deepaksaini7344-web)
 - [Roman K](https://github.com/rkuzntsv)
 - [Asif Khan](https://github.com/Mak-1911)
 - [Asif Raza Ansari](https://github.com/asifraza-776)
