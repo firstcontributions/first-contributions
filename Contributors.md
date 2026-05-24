@@ -129,6 +129,7 @@ so hard about it
 - [coding-world-855]{https://github.com/coding-world855}
 - [nemanja33](https://github.com/nemanja33)
 - [Munish Kumar](https://github.com/munishmalhotra6230)
+- [Preet kasana](https://github.com/Preet-kasana205)
 - [170joeychua](https://github.com/170joeychua)
 - [171joeychua](https://github.com/171joeychua2)
 - [Chirantan112](https://github.com/Chirantan112)
