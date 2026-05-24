@@ -3,6 +3,7 @@
 -[Dipak Rathod](https://github.com/dipakrathod-tech)
 - [Vanshika Vashistha](https://github.com/Vanshikavashistha)
 #- [Sanskar Pandey](https://github.com/pandeysanskar19)
+[Tarun Kumar Gupta](https://github.com/tarun-2024)
 -[Anushka Srivastava](https://github.com/anushkasrvstv)
 -[Rashmi Gaonkar] (https://github.com/rashmi-g28)
 -[Prince Jha](https://github.com/princejha-dev)
