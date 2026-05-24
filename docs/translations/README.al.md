@@ -122,7 +122,7 @@ Urime! Sapo përfundove rrjedhën standarde _fork -> clone -> edit -> pull reque
 
 Festo kontributin tënd dhe shpërndaje me miqtë e tu dhe ndjekësit duke shkuar te [web app](https://firstcontributions.github.io/#social-share).
 
-Mund të bashkohesh në ekipin tonë slack në rast se ke nevojë për ndonjë ndihmë ose ke ndonjë pyetje. [Bashkohu në ekipin slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-29qhyr9lt-Bi7WLbgGIFqV7aCEG_grvg).
+Nëse dëshiron të praktikosh më shumë, shiko [code contributions](https://github.com/roshanjossey/code-contributions).
 
 Tani le të fillojmë me kontributin në projekte të tjera. Ne kemi përmbledhur një listë projektesh me probleme të lehta që mund të fillosh. Shiko [listën e projekteve në web app](https://firstcontributions.github.io/#project-list).
 
