@@ -1249,6 +1249,7 @@ itachi
 - [Sarthak Neeraj Bhaskar](https://github.com/sarthak-codes-tech)
 - [Shreya Raj] (https://github.com/speedyshreya)
 - [Swati Singh](https://github.com/swati-singh24)
+- [Avanish yadav](https://github.com/Avanish-Yadav)
 - [Navomy Mariya Alex](https://github.com/)
 - [Ori_Gonen](https://github.com/cjk7ghh789-hub/first-contributions.git)
 - [zerobruhman](https://github.com/zerobruhman)
@@ -2361,3 +2362,4 @@ https://github.com/1276604737-cloud
 - [MD Anas Ali](https://github.com/anasali101)
 - [初生](https://github.com/370205504-cmyk)
 - [Gangadhar Singh](https://github.com/Gangadhar017)
+- [Elisban Paco](https://github.com/elisbanpaco)
