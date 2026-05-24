@@ -202,6 +202,7 @@ Anyone from Korea?
 - [Abhay Sharma](https://github.com/asabhaysharma)
 - [AmberStars](https://github.com/AmberStars)
 - [Anish Johari](https://github.com/AnishJohari)
+- [Elias Alvarado Costa Rica][https://github.com/eliasalvaradocr]
 - [Anjesh Ranjan Dash ](https://github.com/AnjeshDash)
 - [Ankan Karmakar](https://github.com/DarkMellow)
 - [Ankit Singh](https://github.com/ANKITsingh-git2)
