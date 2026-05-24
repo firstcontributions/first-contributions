@@ -1145,8 +1145,8 @@ https://github.com/1276604737-cloud
 - [Amritavarshini S](https://github.com/AmritavarshiniS)
 - [Ale Busayo](https://github.com/busayo090)
 - [Orishedere Oghale Joshua](https://github.com/DaffyonCrack)
--[Swarana Bairavan](https://github.com/swarana-bairavan)
--[Vishal R J][https://github.com/rjvishal080]
+- [Swarana Bairavan](https://github.com/swarana-bairavan)
+- [Vishal R J](https://github.com/rjvishal080)
 - [Cary Zhu](https://github.com/CodeCary80)
 - [Satyam Vinod Mali](https://github.com/satyammali86)
 - [Aryan Naveen]
