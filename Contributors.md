@@ -10,6 +10,7 @@
 - [Cutro](https://github.com/Cutro3010/first-contributions)
 - [404000-UI](https://github.com/404000-UI)
 -Shravani
+-[Eric Lazarit](https://github.com/ericlazarit)
 -Prerna
 - [Dhruv Shah](https://github.com/DhruvShah-Dev)
 - [Raghav Sapra](https://github.com/RaghavSapraOfficial)
