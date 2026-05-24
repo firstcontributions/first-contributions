@@ -317,6 +317,7 @@ OAT
 - [DimondO20](https://github.com/DimondO20)
 - [Disha520](https://github.com/Disha520)
 - [Divyam Pariyar](https://github.com/div-html)
+- [Aravind V U](https://github.com/na23b005)
 - [Divyanshu Tiwari](https://github.com/DivyanshuTiwari12)
 - [Divyom Srivastava](https://github.com/DivyomSrivastava)
 - [twin-im-crine](https://github.com/twin-im-crine)
