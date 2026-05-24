@@ -152,6 +152,7 @@ Rahul
 - [6NaCl](https://github.com/6NaCl)
 - [8saku](https://github.com/8saku8)
 -[Smarpit Malik](https://github.com/smarpitm)
+- [s4d0x-dev](https://github.com/s4d0x-dev)
 - [volatilespectre](https://github.com/volatilespectre)
 - [@Zakiahsan-arch](https://github.com/Zakiahsan-arch)
 - [Aakanksha Jadhav](https://github.com/aakankshajadhav2006)
@@ -1194,3 +1195,4 @@ https://github.com/1276604737-cloud
 - [Vamsi Kongara]
 -[Velaga Akshaya](https://github.com/VelagaAkshaya)
 - [MD Anas Ali](https://github.com/anasali101)
+- [初生](https://github.com/370205504-cmyk)
