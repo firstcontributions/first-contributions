@@ -467,6 +467,7 @@ OAT
 - [Lakshmi Priya](https://github.com/priya1503)
 - [Lam Tung Dang](https://github.com/BitOfForest)
 - [Larson](https://github.com/lixianphy)
+- [Laryssa](https://github.com/krystall8778)
 - [LatentSpace-rgb](https://github.com/LatentSpace-rgb)
 - [Laura N](https://github.com/lnezsierra/)
 - [Leandro R](http://github.com/leandrortavano)
@@ -647,6 +648,7 @@ Jackson Gilstrap
 - [Rakesh Kumar](https://github.com/prakeshkumar15633)
 - [Ram S](https://github.com/RamSamudrala05)
 - [Ram](https://github.com/ratech-dev)
+- []
 - [RandomAimXD](https://github.com/RandomAimXD)
 - [Rashadul dev](https://github.com/rashaduldev)
 - [RashiBista](https://github.com/RashiBista)
