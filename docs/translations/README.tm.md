@@ -130,7 +130,10 @@ Gutlaýas! Siz standart goşant goşujy hökmünde kän gabat gelinýän _forkla
 
 Eden goşandyňyza begeniň we dostlaryňyz bilen paýlaşyň!
 
-[Şu repository](https://github.com/firstcontributions/first-contributions) arkaly hem birnäçe gyzykly proýektlere öz goşandyňyzy goşup bilýäňiz.
+[Bu baglanma](https://github.com/roshanjossey/code-contributions) arkaly hem birnäçe gyzykly proýektlere öz goşandyňyzy goşup bilýäňiz.
+
+Eger has köp maslahaty ulanmak isleseňiz, [kod goşantlary](https://github.com/roshanjossey/code-contributions) depozitarisine bakaň.
+
 
 
 
