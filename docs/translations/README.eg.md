@@ -1,180 +1,290 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
-# <div dir="rtl">مساهمتك الأولى</div>
 
-<div dir="rtl">
-الصعوبة متوقعة لما تبدأ أي مشروع جديد، خصوصاً لو كان المشروع بيتضمن ناس تانية، ودة بيخلي الوقوع في الخطأ مزعج ومتعب.
-<br>
-لكن المساهمة في مشاريع مفتوحة المصدر اسسها العمل الجماعي والعطاء.
-<br>
-في المشروع دة هدفنا هو تبسيط الطريق لأول مساهمة ليك.
-</div>
+# أول مساهمة ليك
 
-<div dir="rtl">
-ممكن تقرأ وتتفرج على فيديوهات على الإنترنت عشان تعرف تبدأ فى المساهمة للمشاريع مفتوحة المصدر، لكن هتستفيد أكتر لو عرفت تساهم في مشروع دلوقتي من غير خوف لحسن تعمل حاجة غلط. المشروع اللى انت فاتحه حاليا بيركز انه يوفرلك التوجيهات الأولية اللي هتحتجها عشان تبدأ أول مساهمة ليك. مش مشكلة تغلط المهم انك تتعلم من الغلط ودة الهدف هنا. تابع الخطوات واحدة واحدة ونوعدك انك هتستمتع.
-</div>
+المشروع ده هدفه يبسّط ويوضح إزاي المبتدئين يعملوا أول contribution ليهم. لو بتدور تعمل أول contribution، اتبع الخطوات دي.
 
+_لو مش مرتاح مع الـ command line، [اتفرج على التيوتوريالز دي اللي بتستخدم GUI tools.](#tutorials-using-other-tools)_
 
-<div dir="rtl">
-لو ماكنش عندك git على جهازك <a href="https://help.github.com/articles/set-up-git/">حمله من هنا.</a>
-</div>
+> 💡 **نصيحة:** الـ open source مش بس للمحترفين، حتى لو بتضيف اسمك بس، ده contribution حقيقي وبيفرق!
 
-## <div dir="rtl"> أفصل المشروع دة - Fork this Repository </div>
-<img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="اعمل فورك للمستودع ده" />
-<div dir="rtl">
-خد نسخة من المشروع دة (أو افصله) عن طريق انك تدوس على Fork في أعلى الصفحة.
-لو عملت كدة فأنت اخدت نسخة من الفولدر دة فى حسابك على github.
-</div>
+#### لو مش عندك git على جهازك، [ثبّته من هنا](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
-## <div dir="rtl"> إنسخ المشروع دة - Clone the repository </div>
+---
 
-<img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="انسخ المستودع على جهازك" />
+## 📖 مسرد المصطلحات، اعرف معنى كل كلمة قبل ما تبدأ
+ 
+| المصطلح | معناه |
+|---|---|
+| **Repository (repo)** | المشروع بالكامل، كل الـ files والـ history بتاعته محفوظين فيه |
+| **Fork** | نسخة من الـ repo بتتعمل في أكونتك على GitHub عشان تشتغل عليها براحتك |
+| **Clone** | تحميل الـ repo من GitHub على جهازك المحلي عشان تشتغل عليه offline |
+| **Branch** | نسخة موازية من الـ code بتشتغل عليها من غير ما تأثر على الـ main |
+| **Commit** | حفظ التغييرات اللي عملتها مع رسالة بتوصف إيه اللي اتغير |
+| **Push** | رفع الـ commits من جهازك على GitHub |
+| **Pull** | جيب آخر التغييرات من GitHub على جهازك |
+| **Pull Request (PR)** | طلب بتبعته لصاحب الـ repo الأصلي عشان يراجع تغييراتك ويضيفها |
+| **Merge** | دمج تغييرات branch في branch تاني (غالباً في الـ main) |
+| **Merge Conflict** | لما نفس السطر اتغير في مكانين مختلفين وـ Git محتاج منك تقرر تاخد إيه |
+| **Staging Area** | منطقة مؤقتة بتحط فيها التغييرات اللي عايز تحفظها في الـ commit الجاي |
+| **upstream** | الـ repo الأصلي اللي عملت منه fork (مش نسختك إنت) |
+| **origin** | الـ repo بتاعك على GitHub (نسختك الـ forked) |
+| **main** | الـ branch الرئيسي في المشروع، ده اللي الـ code الشغال بيتحفظ فيه |
+ 
+---
 
-<div dir="rtl">
-انسخ المشروع دة لجهازك.
-دوس على Clone بعدين دوس على أيقونة Copy to clipboard
-</div>
-<img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="انسخ الرابط للحافظة" />
-<div dir="rtl">
-إفتح التريمنال وأكتب الأمر دة:
-</div>
+## ⚠️ قبل ما تبدأ، حاجات مهمة اعرفها
 
+- **متعملش push على الـ `main` branch أبداً**، دايماً اشتغل على branch جديد منفصل.
+- **الـ fork هو نسختك الشخصية**، أي حاجة بتعملها فيه مش بتأثر على الـ repo الأصلي.
+- **الـ commit message لازم يكون واضح**، اكتب إيه اللي عملته بالظبط، مش "update" أو "fix".
+- **لو حصل غلط متخافش**، Git بيخليك ترجع لأي نقطة قديمة في أي وقت.
+
+---
+
+## الخطوة 1، عمل Fork للـ repository
+
+اعمل fork للـ repository بالضغط على زرار الـ **fork** في أعلى الصفحة. ده هيعمل نسخة من الـ repo دي في أكونتك على GitHub.
+
+> 📌 **إيه الفرق بين Fork و Clone؟**
+> - الـ **fork** = نسخة من الـ repo على GitHub في أكونتك.
+> - الـ **clone** = نسخة من الـ repo على جهازك المحلي.
+> - الاتنين مع بعض = تقدر تشتغل محلياً وترفع التغييرات على أكونتك.
+
+![عمل Fork للـ repository](https://camo.githubusercontent.com/42b18e612219cae827d8c4ee97bf15ec971f271fe60789e73a8aaeeeb42eb73f/68747470733a2f2f6669727374636f6e747269627574696f6e732e6769746875622e696f2f6173736574732f526561646d652f666f726b2e706e67)
+
+---
+
+## الخطوة 2، الـ Clone بتاع الـ repository
+
+![clone the repository](https://camo.githubusercontent.com/d4bafe4b6b8db07be80cb5d74070c2fb8ec18559711ad85ab3ae2bc576e1e9bc/68747470733a2f2f6669727374636f6e747269627574696f6e732e6769746875622e696f2f6173736574732f526561646d652f636c6f6e652e706e67)
+
+روح على الـ forked repository في أكونتك، اضغط زرار **Code**، اختار تاب **SSH**، وانسخ الـ URL.
+
+![copy URL to clipboard](https://camo.githubusercontent.com/fe81d0584418cc04c31a477538ec11825bceb285d865f5c34dff84180fb5adeb/68747470733a2f2f6669727374636f6e747269627574696f6e732e6769746875622e696f2f6173736574732f526561646d652f636f70792d746f2d636c6970626f6172642e706e67)
+
+افتح الـ terminal وشغّل:
+
+```bash
+git clone "الـ URL اللي نسخته"
 ```
-git clone "url you just copied"
-```
 
-<div dir="rtl">بدل "url you just copied" حط الرابط اللي نسخته من الخطوة اللي فاتت، الرابط دة بتاع المشروع.</div>
+> ⚡ **بيعمل إيه؟** بيجيب كل الـ files والـ history بتاع الـ project على جهازك في مجلد جديد.
 
-<div dir="rtl">على سبيل المثال:</div>
+---
 
-```
-git clone https://github.com/this-is-you/first-contributions.git
-```
+## الخطوة 3، إنشاء branch
 
-<div dir="rtl">
-في المثال دة لاحظ ان 'this-is-you' هيكون إسم حسابك في موقع github، الأمر دة هينسخ محتويات المشروع لجهازك الخاص عشان تقدر تعدل عليه بحرية في أي وقت.
-</div>
-<br>
+انتقل لمجلد الـ project:
 
-## <div dir="rtl">  إنشاء فرع - Create a branch </div>
-
-
-<div dir="rtl"> بما اننا عايزين نعمل تغيير فى الفايل اللى عملناله نسخة على الجهاز.. الأول ننتقل للفولدر اللي لسة نسخينه: </div>
-
-```
+```bash
 cd first-contributions
 ```
 
-<div dir="rtl"> قبل مانعمل التغيير هنعمل "فرع" وهنديله اسم زي كدة: </div>
+> 📌 `cd` = "change directory"، بتنقلك جوه المجلد.
 
-```
-git checkout -b "add-your-name"
-```
+أنشئ branch جديد:
 
-<div dir="rtl">هتحط اسمك بدل your-name</div>
-
-<div dir="rtl">مثلا:</div>
-
-```
-git checkout -b "add-alonzo-church"
+```bash
+git switch -c اسم-الـ-branch-الجديد
 ```
 
-<br>
+> ⚡ **بيعمل إيه؟** بيعمل branch جديد وبيبدّل عليه في نفس الوقت. الـ `-c` = "create".
+> الـ branch زي نسخة موازية من الـ code، بتشتغل عليها لوحدك من غير ما تأثر على الباقي.
 
-## <div dir="rtl">غيّر التغيير اللي حابب تغيره:</div></h2>
+مثال:
 
-<div dir="rtl">
-التغيير اللي هتغيره فى الحالة دي انك تحط اسمك فى نهاية قايمة الأسماء فى فايل. افتح فايل اسمه "Contributors.md" بالـ text editor المفضل ليك وحط إسمك و إحفظ الفايل.
-بعد كدة ارجع للترمينال وأكتب الأمر دة <code>git status</code>  الأمر دة بيظهر لك أي تغيرات حصلت في المشروع.
-عشان تضيف التغيرات دي للفرع بتاعك هتستخدم الأمر دا <code>git add</code>.
-</div>
-
+```bash
+git switch -c add-mahmoud-elgohary
 ```
+
+> 💡 **نصيحة:** سمّي الـ branch باسمك أو بوصف التغيير، ده بيسهّل على الفريق يفهم إيه اللي بيحصل.
+
+<details>
+<summary><strong>⚠️ لو طلعت errors مع git switch، اضغط هنا</strong></summary>
+
+لو ظهرت رسالة `"Git: switch is not a git command"`، على الأغلب بتستخدم نسخة قديمة من git. جرّب:
+
+```bash
+git checkout -b اسم-الـ-branch-الجديد
+```
+
+</details>
+
+---
+
+## الخطوة 4، عمل التعديلات والـ commit
+
+افتح ملف `Contributors.md` في أي text editor، وأضف اسمك في النص (مش في الأول ولا في الآخر). بعدين save الملف.
+
+تأكد إن التغييرات اتحفظت:
+
+```bash
+git status
+```
+
+> ⚡ **بيعمل إيه؟** بيوريك الـ files اللي اتغيرت، باللون الأحمر (مش متضافة لسه) أو الأخضر (جاهزة للـ commit).
+
+أضف الملف للـ staging area:
+
+```bash
 git add Contributors.md
 ```
 
-<div dir="rtl">حتى الأن انت عندك فرع فيه التغيير، عشان تبعت التغيير دة وتتمه  هيتعمل على خطوتين: الأولى انك تعمل للتغيير دة اسم فهتستخدم الأمر <code>git commit</code>.</div>
+> ⚡ **بيعمل إيه؟** بيقول لـ Git "الملف ده هو اللي عايز أحفظه في الـ commit الجاي".
+> لو عايز تضيف كل التغييرات دفعة واحدة: `git add .`
 
-```
-git commit -m "Add <your-name> to Contributors list"
-```
+عمل commit:
 
-<div dir="rtl"> إستبدل <code>&#60;your-name&#62;</code> بإسمك. </div>
-<br>
-
-## <div dir="rtl"> بعدين ترفع التغييرات - Push changes to Github </div>
-
-<div dir="rtl">هترفع التغييرات عن طريق الأمر <code>git push</code></div>
-
-```
-git push origin "add-your-name"
+```bash
+git commit -m "Add your-name to Contributors list"
 ```
 
-<div dir="rtl">إستبدل <code>&#60;add-your-name&#62;</code> بإسم الفرع اللي انت لسة عامله .</div>
+> ⚡ **بيعمل إيه؟** بيحفظ snapshot من التغييرات مع رسالة بتوصفها.
 
-<details dir="rtl">
-<summary> <strong>لو عندك مشكلة وانت بتعمل <bdi>push</bdi> غالبا هتكون <bdi>Authentication error</bdi></strong> </summary>
+> ⚠️ **الـ commit message مهم جداً:**
+> - ✅ `"Add Mahmoud Elgohary to Contributors list"`
+> - ❌ `"update"` أو `"fix"` أو `"done"`
 
-- ### Authentication Error
-     <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
-  remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
-  fatal: Authentication failed for 'https://github.com/&lt;your-username&gt;/first-contributions.git/'
+---
 
-	أسهل طريقة لحل المشكلة انك تعمل <bdi>ssh key</bdi> وتحطه علي <bdi>GitHub</bdi>
-	[GitHub's Tutorial - Create an ssh key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
-   [GitHub's tutorial - adding ssh key to your account](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) 
-    بكده هتكون <bdi>authenticated</bdi> و مش هيكون عندك مشكلة لما تعمل <bdi>push</bdi> 
+## الخطوة 5، رفع التغييرات على GitHub
 
-    تقدر تتاكد انك بترفع علي الريبو الصح لما تكتب في ال 
-	```bash
-	git remote -v
-	```
-    لو ظهرلك كده:
-  <pre>origin	https://github.com/your-username/your_repo.git (fetch)
-  origin	https://github.com/your-username/your_repo.git (push)</pre>
-    يبقي معندكش مشكلة
-	غير كده تقدر تغير ال <bdi>remote address</bdi> كده
-  ```bash
-  git remote set-url origin git@github.com:your-username/your_repo.git
-  ```
+```bash
+git push -u origin اسم-الـ-branch-بتاعك
+```
+
+> ⚡ **بيعمل إيه؟** بيرفع الـ branch من جهازك على GitHub. الـ `-u origin` بتربط الـ local branch بالـ remote عشان المرة الجاية تكتب `git push` بس.
+
+<details>
+<summary><strong>⚠️ لو طلعت errors وانت بتعمل push، اضغط هنا</strong></summary>
+
+### Authentication Error
+
+لو ظهرت رسالة إن الـ password authentication اتشالت، اعمل SSH key وربطه بأكونتك عن طريق [التيوتوريال ده](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account).
+
+شيّك على الـ remote address بتاعك:
+
+```bash
+git remote -v
+```
+
+لو شايف `https://` مش `git@github.com` غيّره بالأمر ده:
+
+```bash
+git remote set-url origin git@github.com:username-بتاعك/your_repo.git
+```
+
 </details>
 
-<br>
-<h2 id="سلم-تغيراتك-للمراجعة"><a name="سلم-تغيراتك-للمراجعة" href="#سلم-تغيراتك-للمراجعة"></a><div dir="rtl">سلم تغيراتك للمراجعة</div></h2>
+---
 
+## الخطوة 6، تقديم الـ pull request للمراجعة
 
-<div dir="rtl">في صفحة المشروع بتاعك على صفحتك الشخصية على github دوس على زرار <code>Compare &amp; pull request</code>. هو ماكنش  ظاهر قبل كدة.</div>
+روح على الـ repo بتاعك على GitHub، هتلاقي زرار **Compare & pull request**. اضغط عليه.
 
-<img style="float: left;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="اعمل Pull Request لدمج التغييرات" />
+![compare and pull request](https://camo.githubusercontent.com/af350925874cc9d92469b7800b819295f2b8da906486a169b54a874a30d75ded/68747470733a2f2f6669727374636f6e747269627574696f6e732e6769746875622e696f2f6173736574732f526561646d652f636f6d706172652d616e642d70756c6c2e706e67)
 
-<div dir="rtl">دلوقتي هتسلم طلبك لصاحب المشروع الأساسي عشان يراجع عليه، في الحالة دي الطلب بتاعك هيوصلي. </div>
+بعدين اضغط **Submit pull request**.
 
-<img style="float: left;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="قدّم الـ Pull Request" />
+![submit pull request](https://camo.githubusercontent.com/87bc1d6af5a0c15e6ed798ff80fe57efe8a145c47e98ba16245350ebdfd13007/68747470733a2f2f6669727374636f6e747269627574696f6e732e6769746875622e696f2f6173736574732f526561646d652f7375626d69742d70756c6c2d726571756573742e706e67)
 
-<div dir="rtl">بعد المراجعة هدمج تغيرراتك للفرع الرئيسي في المشروع. وهيتم تنبيهك عن طريق البريد الإلكتروني بدة.</div>
+> 📌 **الـ pull request بيعمل إيه؟** بيقول لصاحب الـ repo الأصلي "عندي تغييرات، ممكن تراجعها وتضيفها؟"
+>
+> 💡 **نصيحة:** في خانة الـ description، اكتب بإيجاز إيه اللي عملته وليه، ده بيساعد الـ maintainer يراجع أسرع.
 
-<div dir="rtl">لما يحصل وأقبل طلبك هتلاقي ان المشروع المنسوخ على حسابك مفيهوش التغيررات. فلازم تزامن المشروع الرئيسي باللي على حسابك بالخطوات دي:</div>
+قريباً هيتعمل merge لتغييراتك في الـ main branch وهتوصلك notification بالإيميل.
 
+---
 
-## <div dir="rtl">طب اعمل ايه بعد كدة؟</div>
+## 🛠️ أوامر Git مهمة تعرفها
 
-<div dir="rtl">
- احتفل بأول مساهمة ليك، أعمل شير مع صحابك ومتابعينك عن طريق زيارة <a href="https://firstcontributions.github.io/#social-share">الموقع دة. </a>
-</div>
+| الأمر | بيعمل إيه |
+|---|---|
+| `git status` | بيوريك الـ files اللي اتغيرت وحالتها |
+| `git log --oneline` | بيوريك تاريخ الـ commits بشكل مختصر |
+| `git diff` | بيوريك الفرق التفصيلي في الـ code قبل الـ add |
+| `git stash` | بيخفي تغييراتك مؤقتاً من غير ما تعمل commit |
+| `git stash pop` | بيرجّع التغييرات اللي خبيتها |
+| `git pull` | بيجيب آخر تحديثات من الـ remote |
+| `git branch` | بيوريك كل الـ branches اللي عندك |
+| `git branch -d اسم-الـ-branch` | بيمسح branch بعد ما تخلص منه |
 
-<div dir="rtl">إذا كنت ترغب في المزيد من التدريب <a href="https://github.com/roshanjossey/code-contributions">مساهمات </a></div>
+---
 
+## 🆘 حلول لأشهر المشاكل
 
-<br>
+<details>
+<summary><strong>عملت commit بالغلط، عايز أتراجع</strong></summary>
 
-<div dir="rtl">يلا نخليك تبدأ تساهم في مشاريع بجد؟ عملنا قائمة بمشاريع بمشاكل بسيطة ممكن تبدأ بيها النهاردة.</div>
-<div dir="rtl">شوف <a href="https://firstcontributions.github.io/#project-list">قائمة المشاريع على الموقع. </a> </div>
+تراجع عن آخر commit من غير ما تمسح التغييرات:
 
-## <div dir="rtl"><a href="../additional-material/additional-material.md">حاجات وأدوات زيادة</a></div>
+```bash
+git reset --soft HEAD~1
+```
 
-## <div dir="rtl">لو هتستخدم ادوات تانية ممكن تتعلم من هنا</div>
+تراجع ومسح التغييرات خالص **(خطر، مش هترجع)**:
 
-| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="تطبيق GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="فيجوال ستوديو 2017 " src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="برنامج GitKraken " src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="محرر VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="تطبيق Sourcetree" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="برنامج IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
+```bash
+git reset --hard HEAD~1
+```
+
+</details>
+
+<details>
+<summary><strong>الـ branch بتاعي بقى متأخر عن الـ main الأصلي</strong></summary>
+
+```bash
+git switch main
+git pull upstream main
+git switch اسم-الـ-branch-بتاعك
+git rebase main
+```
+
+</details>
+
+<details>
+<summary><strong>طلع merge conflict، إيه اللي أعمله؟</strong></summary>
+
+الـ merge conflict بيحصل لما نفس السطر اتغير في مكانين مختلفين. Git بيحطلك علامات في الملف كده:
+
+```
+<<<<<<< HEAD
+التغيير بتاعك
+=======
+التغيير التاني
+>>>>>>> branch-name
+```
+
+افتح الملف، اختار التغيير الصح أو ادمج الاتنين، امسح العلامات، وبعدين:
+
+```bash
+git add الملف-اللي-عدّلته
+git commit
+```
+
+</details>
+
+---
+
+## تعمل إيه بعد كده؟
+
+مبروك! 🎉 إنت خلّصت الـ workflow الأساسي:
+
+**fork → clone → branch → edit → commit → push → pull request**
+
+ده اللي هتشتغل بيه في أي open source project من دلوقتي.
+
+لو عايز تتدرب أكتر، اتفرج على [code contributions](https://github.com/roshanjossey/code-contributions).
+
+ودلوقتي خد نظرة على [قائمة الـ projects](https://firstcontributions.github.io/#project-list) اللي فيها issues سهلة تبدأ بيها.
+
+---
+
+## Tutorials باستخدام Tools تانية
+
+| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | --- | --- | --- | --- | --- | --- |
 | [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md) | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md) | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md) | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md) | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md) | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md) |
