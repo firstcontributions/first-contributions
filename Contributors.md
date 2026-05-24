@@ -93,6 +93,7 @@
 - [Sarthak Neeraj Bhaskar](https://github.com/sarthak-codes-tech)
 - [Shreya Raj] (https://github.com/speedyshreya)
 - [Swati Singh](https://github.com/swati-singh24)
+- [Avanish yadav](https://github.com/Avanish-Yadav)
 - [Navomy Mariya Alex](https://github.com/)
 - [Ori_Gonen](https://github.com/cjk7ghh789-hub/first-contributions.git)
 - [zerobruhman](https://github.com/zerobruhman)
