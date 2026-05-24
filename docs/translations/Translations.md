@@ -82,7 +82,6 @@
 | <img title="සිංහල" alt="සිංහල" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/lk.svg" width="22"> | [සිංහල(Sri Lanka)](README.si.md)
 | <img alt="Tükmençe" title="Türkmençe" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/tm.svg" width="22">                                                                                                                                                   | [Türkmençe](README.tm.md) |
 | <img alt="հայերեն" title="հայերեն" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/am.svg" width="22">                                                                                                                                                 | [հայերեն](README.arm.md)                                                  |
-| <img alt="Kurdî" title="Kurdî (Kurdish)" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Flag_of_Kurdistan.svg" width="22">                                                                                                                                                 | Kurdî
-| [Javanese](README.jv.md) |
-| <img alt="Javanese" title="Javanese" src="https://flagcdn.com/id.svg" width="22">                                                         |
-| <img title="Монгол хэл" alt="Монгол хэл" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/mn.svg" width="22">                                                                                                                                         | [Монгол хэл](README.mn.md)                           |
+| <img alt="Kurdî" title="Kurdî (Kurdish)" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Flag_of_Kurdistan.svg" width="22"> | [Kurdî](README.kr.md) |
+| <img alt="Javanese" title="Javanese" src="https://flagcdn.com/id.svg" width="22"> | [Javanese](README.jv.md) |
+| <img title="Монгол хэл" alt="Монгол хэл" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/mn.svg" width="22"> | [Монгол хэл](README.mn.md) |
