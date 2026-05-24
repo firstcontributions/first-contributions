@@ -69,7 +69,7 @@
 <kbd>[<img title="Yoruba (Nigeria)" alt="Yoruba (Nigeria)" src="https://www.fotw.info/images/n/ng%7Deoyor.gif" width="22">](README.yor.md)</kbd>
 <kbd>[<img title="Latvia" alt="Latvia" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/lv.svg" width="22">](README.lv.md)</kbd>
 <kbd>[<img title="Suomeksi" alt="Suomeksi" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/fi.svg" width="22">](README.fi.md)</kbd>
-<kbd>[<img title="Беларуская мова" alt="Беларуская мова" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/by.svg" width="22">](README.by.md)</kbd>
+<kbd>[<img title="Беларуская мова" alt="Беларуская мова" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/by.svg" width="22">](README.be.md)</kbd>
 <kbd>[<img title="Српски" alt="Српски" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/rs.svg" width="22">](README.sr-Cyrl.md)</kbd>
 <kbd>[<img title="Srpski" alt="Srpski" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/rs.svg" width="22">](README.sr-Latn.md)</kbd>
 <kbd>[<img title="Қазақша" alt="Қазақша" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/kz.svg" width="22">](README.kz.md)</kbd>
