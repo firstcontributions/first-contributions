@@ -68,7 +68,7 @@
 <kbd>[<img title="Hausa (Nigeria)" alt="Hausa (Nigeria)" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ng.svg" width="22">](translations/README.hau.md)</kbd>
 <kbd>[<img title="Latvia" alt="Latvia" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/lv.svg" width="22">](translations/README.lv.md)</kbd>
 <kbd>[<img title="Suomeksi" alt="Suomeksi" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/fi.svg" width="22">](translations/README.fi.md)</kbd>
-<kbd>[<img title="Беларуская мова" alt="Беларуская мова" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/by.svg" width="22">](translations/README.by.md)</kbd>
+<kbd>[<img title="Беларуская мова" alt="Беларуская мова" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/by.svg" width="22">](translations/README.be.md)</kbd>
 <kbd>[<img title="Српски" alt="Српски" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/rs.svg" width="22">](translations/README.sr-Cyrl.md)</kbd>
 <kbd>[<img title="Srpski" alt="Srpski" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/rs.svg" width="22">](translations/README.sr-Latn.md)</kbd>
 <kbd>[<img title="Қазақша" alt="Қазақша" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/kz.svg" width="22">](translations/README.kz.md)</kbd>
