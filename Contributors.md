@@ -91,6 +91,7 @@
 -[kitanekubane]
 -[zyh]
 -[Walter White]
+- [Marios Papadimas](https://github.com/mariospropapadimas-dev)
 - [Shivangi Pandey](https://github.com/Shivangi-1905)
 - [Abhishek Kumar](https://github.com/abhishekwx7)
 - [Hong Cheng Wang](https://github.com/hongchengw)
