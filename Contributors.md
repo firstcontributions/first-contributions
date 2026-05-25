@@ -1,5 +1,8 @@
 <img width="1679" height="353" alt="image" src="https://github.com/user-attachments/assets/0b9793bb-e278-4b4a-a9e9-a1bb8706e10e" />- [Momina29311](https://github.com/Momina29311)
 [Saurabh](https://github.com/[init4saurabh])
+- [SwatiManjari]
+-[Chaitanya Bargaje](https://github.com/chaitanyabuilds)
+-[Nitsimran Singh](https://github.com/Nitsimran-Singh)
 -[rajbir](https://github.com/Rajbir112)
 -[itzmeshaik](https://github.com/itzmeshaik)
 -[aikiho](https://github.com/prulen)
@@ -13,6 +16,7 @@
  [Sridivya]s(https://github.com/sridivyaguttula20)
 - [SuperDeer](https://github.com/superdeer18/first-contributions)
 - [Shashwat Kaushik] (https://github.com/shashwatkaushik-bit/first-contributions.git)
+- [Vicky Sah] (https://github.com/vicks321)
 - [Cutro](https://github.com/Cutro3010/first-contributions)
 - [404000-UI](https://github.com/404000-UI)
 -Shravani
@@ -58,8 +62,10 @@
 - [Sumesh Kumar](https://github.com/smush1)
 - [KuantumKnight](https://github.com/KuantumKnight)
 - [Prerna Raj](https://github.com/Prerna-2801)
+- [Parth Narkhede](https://github.com/ParthNarkhede)
 - [Lou Polletta](https://github.com/lppolletta)
 - tklee
+- [Omkar Dey] (https://github.com/wakeupletscode)
 - [AyushTurale](https://github.com/AyushTurale)
 - Immanuel 
 - Prabhat Gaurav Singh
@@ -864,6 +870,7 @@ Prasanna Raj Neupane (https://github.com/prasannaneupane)
 - [Swapnil Lakra](https://github.com/Swapni-1)
 - [Swarnali Saha](https://github.com/swarnalism)
 - [Swastika Gupta](https://github.com/Swastika-311)
+- [Om Chandwani](https://github.com/omch-29)
 - [Swati Pandey](https://github.com/gr8swati)
 - [Syam Jalla](https://github.com/SyamJalla)
 - [TAHER EL Mehdi](https://github.com/taher-el-mehdi)
@@ -1189,6 +1196,7 @@ https://github.com/1276604737-cloud
 - [syed samiath azam](https://github.com/samiath17)
 - [Vishesh Sharma] (https://github.com/vishesharma20)
 - [Peter T.] (https://github.com/petrucha95)
+- [ChristianMSchl] (https://github.com/ChristianMSchl)
 - [Alex Koritko](https://github.com/alexergie)
 - [Renato Malebo](https://github.com/Renatomalebo10)
 - [HARSHAVARTHINI J](https://github.com/Harshavarthini26-maker)
@@ -1223,9 +1231,15 @@ Zarasalim
 [shreya chakrabarti](https://github.com/23f2000103)
 - [Inbatamilan18](https://github.com/Inbatamilan18)
 - [soumya yadav](https://github.com/yadavsoumya)
-<<<<<<< HEAD
+-  HEAD
 - [Sahil149-doroid](https://github.com/Sahil149-doroid)
 
-=======
+
 - [Vishwesh RJ](https://github.com/vishweshrj)
->>>>>>> e6214562f73d5842a2cae95561809b2b700270a3
+ add-Sahil149-doroid
+ e6214562f73d5842a2cae95561809b2b700270a3
+
+ [dayaa-hash](https://github.com/dayaa-hash)
+- [GilasR-i](https://github.com/GilasR-i)
+- Arun
+ main
