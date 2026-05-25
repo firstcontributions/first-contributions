@@ -38,6 +38,7 @@
 - An Nguyen
 - [Amaaz Lakhani] (https://github.com/Amaaz28)
 - [Ali Alkhiami](https://github.com/alialkhiame)
+- [Kevin Shah] (https://github.com/kevin9shah)
 - [Shashank S](https://github.com/Shashank23123458867504/first-contributions)
 - [Josh Nolan](https://github.com/nolan-josh)
 - [Haarsh](https://github.com/haarshaacharya)
