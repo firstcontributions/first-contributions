@@ -45,6 +45,7 @@
 - Farhan Ishraq
 - [Nishtha](https://github.com/NishLon)
 - Johandrys
+- [Zayed](https://github.com/zayedansari2)
 - [Aravindh](https://github.com/ARAVINDH-1505)
 - [Faizan](https://github.com/faizanfatmi)
 - [Khushi Trivedi](https://github.com/Khushi288-creator)
