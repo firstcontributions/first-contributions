@@ -3,6 +3,7 @@
 Divyanshu Rana
 - [SwatiManjari]
 -[Chaitanya Bargaje](https://github.com/chaitanyabuilds)
+-[Niraj kumar](https://github.com/NirajS2118)
 -[Nitsimran Singh](https://github.com/Nitsimran-Singh)
 -[rajbir](https://github.com/Rajbir112)
 -[itzmeshaik](https://github.com/itzmeshaik)
