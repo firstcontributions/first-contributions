@@ -63,6 +63,7 @@
 - [Parth Narkhede](https://github.com/ParthNarkhede)
 - [Lou Polletta](https://github.com/lppolletta)
 - tklee
+- [Omkar Dey] (https://github.com/wakeupletscode)
 - [AyushTurale](https://github.com/AyushTurale)
 - Immanuel 
 - Prabhat Gaurav Singh
