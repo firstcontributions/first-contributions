@@ -203,6 +203,7 @@
 - [HuginnDani](https://github.com/HuginnDani)
 - [HxxllanX](https://github.com/hxxlLAN)
 - [I Kanapathipillai](https://github.com/KI-5/)
+- Ice Doma (https://github.com/IceTubig09)
 - [ILLU510N](https://github.com/ILLU510N)
 - [IRONMAN DEV](https://github.com/IROTECHLAB/)
 - [Iarley Jesus](https://github.com/Lawziinx)
@@ -688,9 +689,5 @@
 - [Zamir](https://github.com/456zamir8/)
 - [Zoraz](https://github.com/Zoraz01)
 - [张喜昌](https://github.com/ZhangXiChang)
-<<<<<<< first-contribution
-- Ice Doma (https://github.com/IceTubig09)
-=======
 - [Drew Ramos](https://github.com/drewsElearning) 
 - [Venkatabatna](https://github.com/venkatabatna)
->>>>>>> main
