@@ -24,6 +24,7 @@
 - nipun jain 
 - Ravage
   ylw0623
+- An Nguyen
 - [Amaaz Lakhani] (https://github.com/Amaaz28)
 - [Ali Alkhiami](https://github.com/alialkhiame)
 - [Shashank S](https://github.com/Shashank23123458867504/first-contributions)
