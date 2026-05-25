@@ -14,6 +14,7 @@
 -[Rashmi Gaonkar] (https://github.com/rashmi-g28)
 -[Prince Jha](https://github.com/princejha-dev)
  [Sridivya]s(https://github.com/sridivyaguttula20)
+ -[Parda212](https://github.com/kaneki-212903)
 - [SuperDeer](https://github.com/superdeer18/first-contributions)
 - [Shashwat Kaushik] (https://github.com/shashwatkaushik-bit/first-contributions.git)
 - [Vicky Sah] (https://github.com/vicks321)
