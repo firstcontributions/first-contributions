@@ -142,6 +142,7 @@ Rahul
 - [Preet kasana](https://github.com/Preet-kasana205)
 - [170joeychua](https://github.com/170joeychua)
 - [171joeychua](https://github.com/171joeychua2)
+  [Thedizking](https://github.com/Thedizking)
 - [Chirantan112](https://github.com/Chirantan112)
 - [1ESA1](https://github.com/1ESA1)
 - [Oussama Aitlhaj] (https://github.com/itachiutchiha) From Avictos Open Source Club, Morocco
