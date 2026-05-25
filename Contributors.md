@@ -1209,12 +1209,10 @@ https://github.com/1276604737-cloud
 -  [Vijayabalan B](https://github.com/vijayabalan2006)
 - [Vamsi Kongara]
 -[Velaga Akshaya](https://github.com/VelagaAkshaya)
-- [Moshakn111](https://github.com/Moshakn111)
 - [MD Anas Ali](https://github.com/anasali101)
 - [初生](https://github.com/370205504-cmyk)
 - [Gangadhar Singh](https://github.com/Gangadhar017)
 - [Elisban Paco](https://github.com/elisbanpaco)
-Zarasalim
-  -[Aneek Manna](https://github.com/Aneekcodes07)
-[shreya chakrabarti](https://github.com/23f2000103)
-- [Inbatamilan18](https://github.com/Inbatamilan18)
+-[Aneek Manna](https://github.com/Aneekcodes07)
+-[shreya chakrabarti](https://github.com/23f2000103)
+-[Vishwesh R J](https://github.com/vishweshrj)
