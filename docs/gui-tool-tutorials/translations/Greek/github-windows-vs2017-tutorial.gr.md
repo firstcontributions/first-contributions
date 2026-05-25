@@ -1,5 +1,4 @@
 [![Αγάπη για το Ανοιχτό Κώδικα](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![Άδεια: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Βοηθοί Ανοιχτού Κώδικα](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -54,7 +53,7 @@
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs2017-tutorial/vs2017-04-branch1.png" alt="Προβολή Κλαδιών" />
 
-Θα πρέπει να δείτε το αποθετήριο **first-contributions** και το προεπιλεγμένο κλαδί, το οποίο ονομάζεται `master`. Κάντε δεξί κλικ στο `master` και επιλέξτε "Δημιουργία Νέου Τοπικού Κλαδιού Από...".
+Θα πρέπει να δείτε το αποθετήριο **first-contributions** και το προεπιλεγμένο κλαδί, το οποίο ονομάζεται `main`. Κάντε δεξί κλικ στο `main` και επιλέξτε "Δημιουργία Νέου Τοπικού Κλαδιού Από...".
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs2017-tutorial/vs2017-05-branch2.png" alt="Νέο κλαδί" />
 
@@ -111,7 +110,7 @@ Here is the translation of the remaining text:
 
 Αφού ολοκληρωθεί η λειτουργία Push, ανοίξτε το αποθετήριό σας στο GitHub και θα δείτε ένα μήνυμα που υποδεικνύει μια πρόσφατα απεσταλμένη κλαδί.
 
-Μπορείτε να δείτε τις αλλαγές σας ανοίγοντας το αναπτυσσόμενο μενού "Branch: master" και επιλέγοντας το νέο σας κλαδί. Συγχαρητήρια, μπορείτε να μοιραστείτε το URL του κλαδιού με τον κόσμο για να δείξετε την πρόοδό σας!
+Μπορείτε να δείτε τις αλλαγές σας ανοίγοντας το αναπτυσσόμενο μενού "Branch: main" και επιλέγοντας το νέο σας κλαδί. Συγχαρητήρια, μπορείτε να μοιραστείτε το URL του κλαδιού με τον κόσμο για να δείξετε την πρόοδό σας!
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs2017-tutorial/vs2017-14-commit6.png" alt="Προβολή απεσταλμένου κλαδιού στο GitHub" />
 
@@ -137,7 +136,6 @@ Here is the translation of the remaining text:
 
 Γιορτάστε τη συνεισφορά σας και μοιραστείτε τη με τους φίλους και τους ακόλουθούς σας πηγαίνοντας στην [ιστοσελίδα εφαρμογής](https://firstcontributions.github.io#social-share).
 
-Μπορείτε να εγγραφείτε στην ομάδα μας στο Slack αν χρειαστείτε βοήθεια ή έχετε οποιεσδήποτε ερωτήσεις. [Εγγραφή στην ομάδα Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
 ### [Πρόσθετο υλικό](../additional-material/git_workflow_scenarios/additional-material.md)
 
