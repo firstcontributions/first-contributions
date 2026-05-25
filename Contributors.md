@@ -24,6 +24,7 @@
 -Shravani
 -[Eric Lazarit](https://github.com/ericlazarit)
 -Prerna
+- [Madhav] (https://github.com/ag-madhav)
 - [Dhruv Shah](https://github.com/DhruvShah-Dev)
 - [Tarun Kumar Gupta](https://github.com/tarun-2024)
 - [Rohit Prasad](https://github.com/rsekiro)
