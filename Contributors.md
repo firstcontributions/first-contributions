@@ -1243,5 +1243,6 @@ Zarasalim
 - [GilasR-i](https://github.com/GilasR-i)
 - Arun
 - [Aaneya Sabharwal](https://github.com/aaneyasabharwal)
+- [Dev Kadakia](https://github.com/dcodingdev)
 - [Harrison Bennett J](https://github.com/harrison007123)
 [Ehtasham](https://github.com/Ehtasham-Yasin)
