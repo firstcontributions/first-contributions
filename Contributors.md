@@ -27,6 +27,7 @@
 - [Raghav Sapra](https://github.com/RaghavSapraOfficial)
 - Herit (herit007)
 - nipun jain 
+- Palak Verma(https://github.com/PalakVerma-code)
 - Ravage
   ylw0623
 - An Nguyen
