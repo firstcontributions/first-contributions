@@ -1,28 +1,37 @@
 <img width="1679" height="353" alt="image" src="https://github.com/user-attachments/assets/0b9793bb-e278-4b4a-a9e9-a1bb8706e10e" />- [Momina29311](https://github.com/Momina29311)
 [Saurabh](https://github.com/[init4saurabh])
+- [SwatiManjari]
+-[Chaitanya Bargaje](https://github.com/chaitanyabuilds)
+-[Nitsimran Singh](https://github.com/Nitsimran-Singh)
 -[rajbir](https://github.com/Rajbir112)
 -[itzmeshaik](https://github.com/itzmeshaik)
 -[aikiho](https://github.com/prulen)
 -[Suraj R] (https://github.com/Surajr007)
 -[Dipak Rathod](https://github.com/dipakrathod-tech)
 - [Vanshika Vashistha](https://github.com/Vanshikavashistha)
+- [Ganesh Ajegaonkar](https://github.com/Ganesh-P-A)
 #- [Sanskar Pandey](https://github.com/pandeysanskar19)
 -[Anushka Srivastava](https://github.com/anushkasrvstv)
 -[Rashmi Gaonkar] (https://github.com/rashmi-g28)
 -[Prince Jha](https://github.com/princejha-dev)
  [Sridivya]s(https://github.com/sridivyaguttula20)
+ -[Parda212](https://github.com/kaneki-212903)
 - [SuperDeer](https://github.com/superdeer18/first-contributions)
 - [Shashwat Kaushik] (https://github.com/shashwatkaushik-bit/first-contributions.git)
+- [Vicky Sah] (https://github.com/vicks321)
 - [Cutro](https://github.com/Cutro3010/first-contributions)
 - [404000-UI](https://github.com/404000-UI)
 -Shravani
 -[Eric Lazarit](https://github.com/ericlazarit)
 -Prerna
+- [Madhav] (https://github.com/ag-madhav)
 - [Dhruv Shah](https://github.com/DhruvShah-Dev)
 - [Tarun Kumar Gupta](https://github.com/tarun-2024)
+- [Rohit Prasad](https://github.com/rsekiro)
 - [Raghav Sapra](https://github.com/RaghavSapraOfficial)
 - Herit (herit007)
 - nipun jain 
+- Palak Verma(https://github.com/PalakVerma-code)
 - Ravage
   ylw0623
 - An Nguyen
@@ -58,8 +67,10 @@
 - [Sumesh Kumar](https://github.com/smush1)
 - [KuantumKnight](https://github.com/KuantumKnight)
 - [Prerna Raj](https://github.com/Prerna-2801)
+- [Parth Narkhede](https://github.com/ParthNarkhede)
 - [Lou Polletta](https://github.com/lppolletta)
 - tklee
+- [Omkar Dey] (https://github.com/wakeupletscode)
 - [AyushTurale](https://github.com/AyushTurale)
 - Immanuel 
 - Prabhat Gaurav Singh
@@ -83,6 +94,7 @@
 -[kitanekubane]
 -[zyh]
 -[Walter White]
+- [Marios Papadimas](https://github.com/mariospropapadimas-dev)
 - [Shivangi Pandey](https://github.com/Shivangi-1905)
 - [Abhishek Kumar](https://github.com/abhishekwx7)
 - [Hong Cheng Wang](https://github.com/hongchengw)
@@ -864,6 +876,7 @@ Prasanna Raj Neupane (https://github.com/prasannaneupane)
 - [Swapnil Lakra](https://github.com/Swapni-1)
 - [Swarnali Saha](https://github.com/swarnalism)
 - [Swastika Gupta](https://github.com/Swastika-311)
+- [Om Chandwani](https://github.com/omch-29)
 - [Swati Pandey](https://github.com/gr8swati)
 - [Syam Jalla](https://github.com/SyamJalla)
 - [TAHER EL Mehdi](https://github.com/taher-el-mehdi)
@@ -1055,6 +1068,7 @@ Prasanna Raj Neupane (https://github.com/prasannaneupane)
 - [cyx](https://github.com/chen1942252746)
 - [daven](https://github.com/iamdaven)
 - [maheshgoyal-sys](https://github.com/maheshgoyal-sys/)
+- [Harsh Sahu](https;//github.com/Lazy-Pir8)
 - [Yashvardhan Jani](https://github.com/YashvardhanJani)
 - [Manish Shinde](https://github.com/Manish-1415)
 - [hulk](https://github.com/rishitha-1224)
@@ -1189,6 +1203,7 @@ https://github.com/1276604737-cloud
 - [syed samiath azam](https://github.com/samiath17)
 - [Vishesh Sharma] (https://github.com/vishesharma20)
 - [Peter T.] (https://github.com/petrucha95)
+- [ChristianMSchl] (https://github.com/ChristianMSchl)
 - [Alex Koritko](https://github.com/alexergie)
 - [Renato Malebo](https://github.com/Renatomalebo10)
 - [HARSHAVARTHINI J](https://github.com/Harshavarthini26-maker)
