@@ -9,7 +9,7 @@ awel contribution ta3melha 3al github bch tkon pratique tjareb wtchof kolchy b3i
 
 _Ken mat7ebech tesa3mel el cmd, [hedhom tutorials o5rin testa3mel fihom des logiciles.](#tutorials-using-other-tools)_
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork el repository" />
 
 #### Edhaken moch sabeb git 3andek fil pc, [sobo mil lien hedha](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
@@ -20,7 +20,7 @@ Haka iwali 3andek copie f compte mt3ek tejem tebedel fiha kima t7eb.
 
 ## Cloni el repo
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="cloni el repository" />
 
 Tw cloni el repo li 3meltelha fork lil machine mte3ek. Imchi lil compte github 7el el forked repo inzel 3al button "code" b3d el ssh b3d copi lien el mawjoud.
 

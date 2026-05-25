@@ -121,6 +121,8 @@ Felicitări! Ați finalizat fluxul standard _fork -> clone -> edit -> pull reque
 
 Sărbătoriți-vă contribuția și partajați-o cu prietenii și urmăritorii dvs., accesând [aplicația web](https://firstcontributions.github.io/#social-share).
 
+Dacă doriți mai multă practică, consultați [code contributions](https://github.com/roshanjossey/code-contributions).
+
 Acum să vă începem cu contribuția la alte proiecte. Am compilat o listă de proiecte cu probleme ușoare cu care puteți începe. Verificați [lista de proiecte din aplicația web](https://firstcontributions.github.io/#project-list).
 
 ### [Materiale suplimentare](additional-material/git_workflow_scenarios/additional-material.md)
