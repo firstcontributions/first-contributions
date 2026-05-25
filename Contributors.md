@@ -436,6 +436,7 @@ OAT
 - [Guilherme Henrique](https://github.com/guih0113)
 - [Guillermo Navarrete](https://github.com/Guille-NaVa01)
 - [Guotao Gou](https://github.com/martin-gou/)
+- [Gustavo Salvador](https://github.com/gustavosalvador)
 - [Hafsa Irfan](https://github.com/hafxa)
 - [HaidarAbbas](https://github.com/Haidarabbas731)
 - [Haiqal Hasly](https://github.com/haiqalhasly)
