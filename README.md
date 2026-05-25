@@ -268,4 +268,5 @@ AI assistants like DeepSeek, ChatGPT, or GitHub Copilot can greatly help beginne
 - Test your changes locally when possible
 - Be transparent about AI usage in your PR description
 
+
 Using AI doesn't replace learning - it accelerates it. Happy contributing! 🚀
