@@ -39,6 +39,7 @@
 - [Sumesh Kumar](https://github.com/smush1)
 - [KuantumKnight](https://github.com/KuantumKnight)
 - [Prerna Raj](https://github.com/Prerna-2801)
+- [Parth Narkhede](https://github.com/ParthNarkhede)
 - [Lou Polletta](https://github.com/lppolletta)
 - tklee
 - [AyushTurale](https://github.com/AyushTurale)
