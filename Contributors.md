@@ -25,6 +25,7 @@
 -Prerna
 - [Dhruv Shah](https://github.com/DhruvShah-Dev)
 - [Tarun Kumar Gupta](https://github.com/tarun-2024)
+- [Rohit Prasad](https://github.com/rsekiro)
 - [Raghav Sapra](https://github.com/RaghavSapraOfficial)
 - Herit (herit007)
 - nipun jain 
