@@ -46,6 +46,7 @@ Divyanshu Rana
 - [Kevin Shah] (https://github.com/kevin9shah)
 - [Shashank S](https://github.com/Shashank23123458867504/first-contributions)
 - [Josh Nolan](https://github.com/nolan-josh)
+- [Chennai Naveen]
 - [Haarsh](https://github.com/haarshaacharya)
 - [Archisha Gupta](https://github.com/archisha20)
 - [Samprit](https://2025-portfolio-teal-three.vercel.app/)
