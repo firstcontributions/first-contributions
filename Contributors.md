@@ -51,6 +51,7 @@ Divyanshu Rana
 - [Haarsh](https://github.com/haarshaacharya)
 - [Archisha Gupta](https://github.com/archisha20)
 - [Samprit](https://2025-portfolio-teal-three.vercel.app/)
+- [Ali](https://github.com/alifarabi)
 - [Mostafa](https://github.com/Mostafa-Shariare)
 - [Aakriti Arya](https://aakriti-arya-portfolio.vercel.app)
 - [Anand Yadav](https://github.com/Anandyadav04)
