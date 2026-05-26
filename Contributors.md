@@ -642,6 +642,7 @@ Hana
 - [Médéric DOMINICI](https://github.com/MedericDOMINICI)
 - [Phenyo Morulane](https://github.com/spoja-10)
 - [Piotr Wrzosek](https://github.com/pwrzosek)
+- [Hamza Asif] (https://github.com/HaMZAAsif043/)
 - [admundhou](https://github.com/admundhou) ✨
 - [Rashida Safreen](https://github.com/rashidasafreen)
 - [Piyush Srivastava](https://github.com/Phoenix-2207)
