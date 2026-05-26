@@ -213,3 +213,17 @@ jobs:
             }
             
           github-token: ${{ secrets.GITHUB_TOKEN }}
+
+      # Comment on PRs that only modify Contributors.md but have multiple line changes
+      - name: Comment on multi-line Contributors.md changes
+        if: env.only_contributors == 'true' && env.one_line_change == 'false'
+        uses: actions/github-script@v6
+        with:
+          script: |
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: `Thank you for your pull request! 🎉 This PR modifies Contributors.md with multiple line changes, so it was not auto-merged. A maintainer will review it shortly. We appreciate your contribution!`
+            })
+          github-token: ${{ secrets.GITHUB_TOKEN }}
