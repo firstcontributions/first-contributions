@@ -156,6 +156,7 @@ so hard about it
 - [Matheus Ribeiro] (https://github.com/mathrib)
 Rahul
 - [Robert Stefan](https://github.com/rstefan84)
+- [Zaid Almomani](https://github.com/Zaidzezo)
 - [Vivek Maurya](https://github.com/vivekma38-sketch)
 - [Julia](https://github.com/JuliaArison)
 - [bnova7](https://github.com/bnova7)
