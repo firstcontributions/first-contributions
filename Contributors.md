@@ -569,6 +569,7 @@ OAT
 - [Muhammad Habiibullah](https://github.com/habiibullahm)
 - [Mudasir Ali](https://github.com/mudasirunar)
 - [Fadel Bantan](https://github.com/fadelbantan)
+- [James Kabuga] (https://github.com/yfwjay)
 - [Muhsil NR](https://github.com/mhlohh)
 - [Muntazir-Sayed](https://github.com/Muntazir-sd)
 - [Murphy Amparo](https://github.com/MaxTecnoDev)
