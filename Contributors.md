@@ -122,6 +122,7 @@ Divyanshu Rana
 - [Avanish yadav](https://github.com/Avanish-Yadav)
 - [Navomy Mariya Alex](https://github.com/)
 - [Ori_Gonen](https://github.com/cjk7ghh789-hub/first-contributions.git)
+- [Abdullah bin Amin](https://github.com/AbdullahbinAmin)
 - [zerobruhman](https://github.com/zerobruhman)
 - Divo changed this to add his name
 - [Dotify_71](https://github.com/Dotify_71)
