@@ -637,7 +637,7 @@ Hana
 - [Peace Alliance](https://github.com/peaceall236)
 - [Sayed Risat](https://github.com/sayedrisat)
 - [Peter Imoh Victor](https://github.com/peterimoh)
-- [Harshita] (https://github.com/Harshitat23)
+- [Harshita](https://github.com/Harshitat23)
 - [Peter McGee](https://github.com/pmcgee-personal)
 - [Médéric DOMINICI](https://github.com/MedericDOMINICI)
 - [Phenyo Morulane](https://github.com/spoja-10)
