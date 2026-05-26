@@ -95,6 +95,7 @@ Divyanshu Rana
 - Immanuel
 - [Brandom Galder](https://github.com/wisprfrog)
 - Julesfress
+- xidaot
 -Bhanu Sreekar
 - [jashvin]
 - [Aman](https://github.com/aman2603tiwari)
