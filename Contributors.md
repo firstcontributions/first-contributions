@@ -77,6 +77,7 @@
 - [Darsheel nagrale](https://github.com/Dalchini-hub)
 - Immanuel
 - Julesfress
+- xidaot
 -Bhanu Sreekar
 - [jashvin]
 - [Aman](https://github.com/aman2603tiwari)
