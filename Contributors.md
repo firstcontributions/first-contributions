@@ -1252,6 +1252,7 @@ Zarasalim
 [shreya chakrabarti](https://github.com/23f2000103)
 - [Inbatamilan18](https://github.com/Inbatamilan18)
 - [soumya yadav](https://github.com/yadavsoumya)
+- [Nabeel Azard](https://github.com/na2099)
 - [Vishwesh RJ](https://github.com/vishweshrj)
  [dayaa-hash](https://github.com/dayaa-hash)
 - [Prerana-Sodankoor](https://github.com/Prerana-Sodankoor)
