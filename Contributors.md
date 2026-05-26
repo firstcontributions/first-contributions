@@ -1,4 +1,5 @@
 <img width="1679" height="353" alt="image" src="https://github.com/user-attachments/assets/0b9793bb-e278-4b4a-a9e9-a1bb8706e10e" />- 
+
 [07Vineet07](https://github.com/07Vineet07)
 [Ayush Jha](https://github.com/ayush-04jha)
 [Momina29311](https://github.com/Momina29311)
@@ -22,6 +23,7 @@ Divyanshu Rana
 - [Ganesh Ajegaonkar](https://github.com/Ganesh-P-A)
 #- [Sanskar Pandey](https://github.com/pandeysanskar19)
 -[Anushka Srivastava](https://github.com/anushkasrvstv)
+[Franco Otta De Anquin](https://github.com/Francodeanquin)
 -[Rashmi Gaonkar] (https://github.com/rashmi-g28)
 -[Prince Jha](https://github.com/princejha-dev)
  [Sridivya]s(https://github.com/sridivyaguttula20)
