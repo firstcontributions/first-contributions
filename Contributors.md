@@ -85,6 +85,7 @@ Divyanshu Rana
 - [Ankit Gupta](https://github.com/ankitxdev-me)
 - [Darsheel nagrale](https://github.com/Dalchini-hub)
 - Immanuel
+- [Brandom Galder](https://github.com/wisprfrog)
 - Julesfress
 -Bhanu Sreekar
 - [jashvin]
