@@ -3,7 +3,9 @@
 [Momina29311](https://github.com/Momina29311)
 [Saurabh](https://github.com/[init4saurabh])
 [Vaishnavi Kokare](https://github.com/vaishnavikokare2007-stack)
+[Summy Kumari](https://github.com/summykumari567)
 Divyanshu Rana
+[sakshi jha]([https://github.com/saakshi1jha])
 - [SwatiManjari]
 -[Chaitanya Bargaje](https://github.com/chaitanyabuilds)
 -[Niraj kumar](https://github.com/NirajS2118)
@@ -52,6 +54,7 @@ Divyanshu Rana
 - [Haarsh](https://github.com/haarshaacharya)
 - [Archisha Gupta](https://github.com/archisha20)
 - [Samprit](https://2025-portfolio-teal-three.vercel.app/)
+- [Ali](https://github.com/alifarabi)
 - [Mostafa](https://github.com/Mostafa-Shariare)
 - [Aakriti Arya](https://aakriti-arya-portfolio.vercel.app)
 - [Anand Yadav](https://github.com/Anandyadav04)
@@ -1275,3 +1278,4 @@ Zarasalim
 - [Ritusree Das](https://github.com/ritusree-d)
 - [wup666](https://github.com/wup666)
 - [huweiqin747](https://github.com/huweiqin747)
+- [Sakshi Jha](https://github.com/CygnusAzuri)
