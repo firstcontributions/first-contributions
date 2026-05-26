@@ -1267,5 +1267,6 @@ Zarasalim
 [Ehtasham](https://github.com/Ehtasham-Yasin)
 - [Matthew Wang](https://github.com/mw2326)
 - [BestArmor](https://github.com/BestArmor)
+- [Preetish Ramola](https://github.com/preetishramola)
 - [Anwesha Singh](https://github.com/gungun2703)
 - [Ritusree Das](https://github.com/ritusree-d)
