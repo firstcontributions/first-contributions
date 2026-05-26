@@ -135,6 +135,7 @@ Divyanshu Rana
 - [RamalingamKR](https://github.com/RAMALINGAMKR)
 - [Hao Huynh] (https://github.com/haohuynh9422)
 - [Yuthish Krishna](https://github.com/yuthishkrishna)
+- [f-p]
 - [x1n-Q](https://github.com/x1n-Q)
 - [Sarthak Bahal](https://github.com/sarthakbahal) -[Saanvi Dasa]
 - [Saksham Patil](https://github.com/PointBreak202)
@@ -583,6 +584,7 @@ Divyanshu Rana
 - [Nishant K Joshyabhatla](https://github.com/nishantkj911)
 - [Nishant kumar](https://github.com/nishantraj06)
 - [Nishk Mistry](https://github.com/nishkmistry)
+- [Dewanshi Baghel](https://github.com/dewanshi-txt)
 - [Nitish Sharma1](https://github.com/tylrx404)
 - [Noah Kim](https://github.com/gratisreise)
 - [Noah Schroeder](https://github.com/nrschroeder)
