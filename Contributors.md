@@ -1073,8 +1073,8 @@ Divyanshu Rana
 - [Alok Kharwar](https://github.com/alokxkh)
 - [Ayumi](https://github.com/ayumi1201)
 - [Vivek kumar](https://github.com/vivek8271)
-  https://github.com/1276604737-cloud
-  [Trisha Didwania]https://github.com/trishadidwania
+- [1276604737-cloud](https://github.com/1276604737-cloud)
+- [Trisha Didwania](https://github.com/trishadidwania)
 - From Avictos Open Source Club, Morocco
 - [saintninja](https://github.com/saintninja)
 - [Devansh Patel](https://github.com/Devansh-18155)
