@@ -1194,7 +1194,8 @@ https://github.com/1276604737-cloud
 - [avoforme] (https://github.com/avoforme)
 - [jeeva] (https://github.com/Jeeva1070)
 - [jimi](https://p)
-- - Harshit Shah (https://github.com/shahharshit226-glitch)
+- Alan Parrish was here
+- Harshit Shah (https://github.com/shahharshit226-glitch)
 - Apoorva Nayak
 - [Adam Alifio](https://github.com/redlondonarmy)
 - [M-OssaOliveira](https://github.com/M-ossaOliveira/)
