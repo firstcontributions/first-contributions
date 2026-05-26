@@ -87,6 +87,7 @@ Divyanshu Rana
 - [Parth Narkhede](https://github.com/ParthNarkhede)
 - [Lou Polletta](https://github.com/lppolletta)
 - tklee
+- [Richard Velits](https://github.com/rchrdo)
 - [Omkar Dey] (https://github.com/wakeupletscode)
 - [AyushTurale](https://github.com/AyushTurale)
 - Immanuel 
