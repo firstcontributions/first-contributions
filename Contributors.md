@@ -11,7 +11,8 @@
 [vfedladishh] (https://github.com/vfedladishh)
 [Ayush Jha](https://github.com/ayush-04jha)
 [ZeroxxG]
-[shravi25](https://github.com/shravi25)
+[Momina29311](https://github.com/Momina29311)
+[Nshuti Brice](https://github.com/Nshuti7)
 [Saurabh](https://github.com/[init4saurabh])
 [Vaishnavi Kokare](https://github.com/vaishnavikokare2007-stack)
 [Summy Kumari](https://github.com/summykumari567)
