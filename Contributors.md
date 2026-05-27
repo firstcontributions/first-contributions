@@ -543,6 +543,7 @@ OAT
 - [Kanta Komoike](https://github.com/komoike-oss28-ui)
 - [Kapil Kumar](https://github.com/kapilkumar05991)
 - [Karan Rohra](https://github.com/karanrohra)
+- [LaskaaaD](https://github.com/LaskaaaD)
 - [Karnapu Sravanthi](https://github.com/Sravanthi285)
 - [Karri Chaitanya Pratap Reddy](https://github.com/kcprdev)
 - [Karri Saiphani Reddy](https://github.com/Saiphani1022)
