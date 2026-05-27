@@ -6,6 +6,7 @@
 [ZeroxxG]
 [Momina29311](https://github.com/Momina29311)
 [Saurabh](https://github.com/[init4saurabh])
+[Trevor Wooten] (https://github.com/Trevor180)
 [Vaishnavi Kokare](https://github.com/vaishnavikokare2007-stack)
 [Summy Kumari](https://github.com/summykumari567)
 Divyanshu Rana
