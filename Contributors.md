@@ -1346,6 +1346,7 @@ Zarasalim
 - [用户039186](https://github.com/A1A1A1-1)
 - [Naman Agrawal](https://github.com/namaninfinite)
 -[Hargun Singh](https://github.com/HargunSingh27)
+- [kuro-0721](https://github.com/kuro-0721)
 -[JoePeach](https://github.com/JoePeach-gif)
 varshini
 -[Sounak Saha](https://github.com/littlegoblinjr)
