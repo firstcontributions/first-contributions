@@ -6,7 +6,6 @@
 [ZeroxxG]
 [Momina29311](https://github.com/Momina29311)
 [Saurabh](https://github.com/[init4saurabh])
-[Trevor Wooten] (https://github.com/Trevor180)
 [Vaishnavi Kokare](https://github.com/vaishnavikokare2007-stack)
 [Summy Kumari](https://github.com/summykumari567)
 Divyanshu Rana
@@ -14,6 +13,7 @@ Divyanshu Rana
 [ankita patil]
 - [Pushpendra Pal Singh Rathore](https://github.com/pushpendra1792)
 - [SwatiManjari]
+-[Trevor Wooten] (https://github.com/Trevor180)
 -[Chaitanya Bargaje](https://github.com/chaitanyabuilds)
 -[Niraj kumar](https://github.com/NirajS2118)
 -[Nitsimran Singh](https://github.com/Nitsimran-Singh)
