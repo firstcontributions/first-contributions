@@ -366,6 +366,7 @@ OAT
 - [junjielong21-netizen](https://github.com/junjielong21-netizen)
 - [Conner Lennon](https://github.com/cnnrl)
 - [Dave Herr](https://github.com/dave-herr)
+- [Dajmir LETS GOOO](https://github.com/dajmir)
 - [Deekshith](https://github.com/Deekshith2485)
 - [Deepa Choudhary](https://github.com/Deepachoudhary24)
 - [Deepanshu Singh](https://github.com/deep-xu)
