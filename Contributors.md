@@ -1,4 +1,7 @@
+修改
+
 <img width="1679" height="353" alt="image" src="https://github.com/user-attachments/assets/0b9793bb-e278-4b4a-a9e9-a1bb8706e10e" />- 
+[LydiaBug-Glitch](https://github.com/lydiabug-glitch)
 [Gregorius Christian Sunaryo](https://github.com/gchristiansun)
 [Tridev](https://github.com/tridev09-ops)
 [Jnyananjan](https://github.com/Jnyananjan)
@@ -35,6 +38,7 @@ Divyanshu Rana
 - [Ganesh Ajegaonkar](https://github.com/Ganesh-P-A)
 #- [Sanskar Pandey](https://github.com/pandeysanskar19)
 -[Anushka Srivastava](https://github.com/anushkasrvstv)
+[Franco Otta De Anquin](https://github.com/Francodeanquin)
 -[Rashmi Gaonkar] (https://github.com/rashmi-g28)
 -[Prince Jha](https://github.com/princejha-dev)
 -[Catherine9144](https://github.com/Catherine9144)
@@ -133,6 +137,7 @@ point blank
 -[zyh]
 -[Walter White]
 - [Marios Papadimas](https://github.com/mariospropapadimas-dev)
+- [Ananya Chaturvedi](https://github.com/ayc43210-ops)
 - [Shivangi Pandey](https://github.com/Shivangi-1905)
 - [Abhishek Kumar](https://github.com/abhishekwx7)
 - [Hong Cheng Wang](https://github.com/hongchengw)
@@ -928,7 +933,9 @@ Prasanna Raj Neupane (https://github.com/prasannaneupane)
 - [SungHo.You](https://github.com/hahaysh)
 - [Suraj](https://github.com/surajrastogi1)
 - [Surya](https://github.com/GSuryaP)
-- [Sushit Lal Pakrashy](https://github.com/Sushit-prog)
+- [Sushit Lal Pakrashy](https://github.com/
+Sushit-prog)
+- [Arpita Birla](https://github.com/Arpitabirla)
 - [Sushka_s_makom](https://github.com/Sushka_s_makom)
 - [Sushma](https://github.com/Sushma-0179)
 - [Sushmitha](https://github.com/Sushmigit)
