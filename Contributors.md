@@ -1332,3 +1332,4 @@ Zarasalim
 -[JoePeach](https://github.com/JoePeach-gif)
 varshini
 - [wdb904](https://github.com/wdb904) - 我来自大学，软件工程专业，正在学习Git和开源，这是我的第一次开源贡献，希望和大家一起进步！
+-[Pranav Singh Jethuri](https://github.com/77pranav)
