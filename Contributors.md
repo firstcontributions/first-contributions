@@ -41,7 +41,7 @@ Divyanshu Rana
 - [aarshiyaya] (https://github.com/aarshiyaya)
 - [Vicky Sah] (https://github.com/vicks321)
 - [Cutro](https://github.com/Cutro3010/first-contributions)
-- [404000-UI](https://github.com/404000-UI)
+- [404000-UI](https://github.com/404000-U
 -Shravani
 -[Eric Lazarit](https://github.com/ericlazarit)
 -Prerna
@@ -54,6 +54,7 @@ Divyanshu Rana
 - nipun jain 
 - Palak Verma(https://github.com/PalakVerma-code)
 - Ravage
+point blank
   ylw0623
 - An Nguyen
 - Lucas Santos Da Cruz (https://github.com/lsantosdacruz)
