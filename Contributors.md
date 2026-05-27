@@ -10,6 +10,7 @@
 [Summy Kumari](https://github.com/summykumari567)
 Divyanshu Rana
 [sakshi jha]([https://github.com/saakshi1jha])
+[ankita patil]
 - [Pushpendra Pal Singh Rathore](https://github.com/pushpendra1792)
 - [SwatiManjari]
 -[Chaitanya Bargaje](https://github.com/chaitanyabuilds)
@@ -54,6 +55,7 @@ Divyanshu Rana
   ylw0623
 - An Nguyen
 - [Amaaz Lakhani] (https://github.com/Amaaz28)
+- [Pratyush Girdher](https://github.com/Pratyush-Girdher)
 - [Ali Alkhiami](https://github.com/alialkhiame)
 - [Kevin Shah] (https://github.com/kevin9shah)
 - [Shashank S](https://github.com/Shashank23123458867504/first-contributions)
@@ -195,6 +197,7 @@ Rahul
 - [Muskan](https://github.com/Muskan-kagzi)
   [YManeesha](https://github.com/myadla1x-lab)
 - [Dhanush Raj](https://github.com/V-R-DhanushRaj)
+- [Jonas](https://github.com/Orbedk)
 - [Bhumika Hunachyali]
 - [21f2001400](https://github.com/21f2001400-cloud)
 - [George Falcon](https://github.com/kanvastudio)
@@ -385,6 +388,7 @@ OAT
 - [Divyam Pariyar](https://github.com/div-html)
 - [Aravind V U](https://github.com/na23b005)
 - [Divyanshu Tiwari](https://github.com/DivyanshuTiwari12)
+- [Divyansh Singh](https://github.com/divyansh23s) 
 - [Divyom Srivastava](https://github.com/DivyomSrivastava)
 - [twin-im-crine](https://github.com/twin-im-crine)
 - [Max Taunton](https://github.com/PepsiMaxT)
@@ -1312,4 +1316,3 @@ Zarasalim
 -Pooja
 -[Saravanakumar G](https://github.com/Saravanakumar2602)
 -[kanika](https://github.com/kanika021105)
-- [用户039186](https://github.com/A1A1A1-1)
