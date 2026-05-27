@@ -55,6 +55,7 @@ Divyanshu Rana
   ylw0623
 - An Nguyen
 - [Amaaz Lakhani] (https://github.com/Amaaz28)
+- [Pratyush Girdher](https://github.com/Pratyush-Girdher)
 - [Ali Alkhiami](https://github.com/alialkhiame)
 - [Kevin Shah] (https://github.com/kevin9shah)
 - [Shashank S](https://github.com/Shashank23123458867504/first-contributions)
