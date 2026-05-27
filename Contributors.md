@@ -380,7 +380,7 @@ OAT
 - [Divyam Pariyar](https://github.com/div-html)
 - [Aravind V U](https://github.com/na23b005)
 - [Divyanshu Tiwari](https://github.com/DivyanshuTiwari12)
-- [Divyansh Singh](https://github.com/divyansh23s)
+- [Divyansh Singh](https://github.com/divyansh23s) 
 - [Divyom Srivastava](https://github.com/DivyomSrivastava)
 - [twin-im-crine](https://github.com/twin-im-crine)
 - [Max Taunton](https://github.com/PepsiMaxT)
