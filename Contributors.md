@@ -3,6 +3,7 @@
 [07Vineet07](https://github.com/07Vineet07)
 [vfedladishh] (https://github.com/vfedladishh)
 [Ayush Jha](https://github.com/ayush-04jha)
+[ZeroxxG]
 [Momina29311](https://github.com/Momina29311)
 [Saurabh](https://github.com/[init4saurabh])
 [Vaishnavi Kokare](https://github.com/vaishnavikokare2007-stack)
@@ -1312,4 +1313,3 @@ Zarasalim
 -[Saravanakumar G](https://github.com/Saravanakumar2602)
 -[kanika](https://github.com/kanika021105)
 - [用户039186](https://github.com/A1A1A1-1)
-- Learning OSS contributions
