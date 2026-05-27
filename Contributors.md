@@ -535,6 +535,7 @@ OAT
 - [Janobourian](https://github.com/janobourian)
 - [Janosch Püschel](https://github.com/janosch-pueschel)
 - [JanosNagy](https://github.com/JaniITmer)
+- [Gabe Jasso](https://github.com/0bitbybit)
 - [Janvi Chetan Patel](https://github.com/JanviChetanPatel)
 - [Jnaneswar karedla](https://github.com/jnaneswar077)
 - [JulianoCLI](https://github.com/JulianoCLI)
