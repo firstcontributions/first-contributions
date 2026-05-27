@@ -54,6 +54,7 @@ Divyanshu Rana
 - [Tarun Kumar Gupta](https://github.com/tarun-2024)
 - [Rohit Prasad](https://github.com/rsekiro)
 - [Raghav Sapra](https://github.com/RaghavSapraOfficial)
+- [Prajwal](https://github.com/prajwal1221)
 - Herit (herit007)
 - nipun jain 
 - Palak Verma(https://github.com/PalakVerma-code)
