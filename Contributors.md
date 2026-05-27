@@ -81,6 +81,7 @@ Anyone from Korea?
 - [Ayush kumar maury](https://github.com/Ayush4O4)
 - [Ayushi Rajput](https://github.com/Ayushi-ninja)
 - [Basma BT](https://github.com/Boutaib-Basma)
+- [Bhavyatha Shetty](https://github.com/bhavyathashetty)
 - [Behruzbek Madiyarov](https://github.com/behruzbekjs)
 - [gavr malt](https://github.com/gavrmalt)
 - [Ben Cruwys](https://github.com/bencruwys)
