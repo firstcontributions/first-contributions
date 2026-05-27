@@ -1,4 +1,3 @@
-<img width="1679" height="353" alt="image" src="https://github.com/user-attachments/assets/0b9793bb-e278-4b4a-a9e9-a1bb8706e10e" />- 
 [nakshatrameena](https://github.com/nakshatrameena)
 [Jnyananjan](https://github.com/Jnyananjan)
 [shivamg66](https://github.com/shivamg66)
