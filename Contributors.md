@@ -35,6 +35,7 @@ Divyanshu Rana
 -[Prince Jha](https://github.com/princejha-dev)
 -[Catherine9144](https://github.com/Catherine9144)
  [Sridivya]s(https://github.com/sridivyaguttula20)
+ Shadow
  -[Parda212](https://github.com/kaneki-212903)
 - [SuperDeer](https://github.com/superdeer18/first-contributions)
 - [Shashwat Kaushik] (https://github.com/shashwatkaushik-bit/first-contributions.git)
