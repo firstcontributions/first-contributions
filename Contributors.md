@@ -2,6 +2,7 @@
 [Tridev](https://github.com/tridev09-ops)
 [Jnyananjan](https://github.com/Jnyananjan)
 [shivamg66](https://github.com/shivamg66)
+[Jordan Tantuico](https://github.com/vrjordant)
 [07Vineet07](https://github.com/07Vineet07)
 [vfedladishh] (https://github.com/vfedladishh)
 [Ayush Jha](https://github.com/ayush-04jha)
