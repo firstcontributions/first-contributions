@@ -3,6 +3,7 @@
 [07Vineet07](https://github.com/07Vineet07)
 [vfedladishh] (https://github.com/vfedladishh)
 [Ayush Jha](https://github.com/ayush-04jha)
+[ZeroxxG]
 [Momina29311](https://github.com/Momina29311)
 [Saurabh](https://github.com/[init4saurabh])
 [Vaishnavi Kokare](https://github.com/vaishnavikokare2007-stack)
