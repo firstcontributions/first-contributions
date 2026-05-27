@@ -9,6 +9,7 @@
 [Ayush Jha](https://github.com/ayush-04jha)
 [ZeroxxG]
 [Momina29311](https://github.com/Momina29311)
+[Nshuti Brice](https://github.com/Nshuti7)
 [Saurabh](https://github.com/[init4saurabh])
 [Vaishnavi Kokare](https://github.com/vaishnavikokare2007-stack)
 [Summy Kumari](https://github.com/summykumari567)
