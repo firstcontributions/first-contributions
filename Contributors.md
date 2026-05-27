@@ -1,5 +1,6 @@
 # Contributors
 - [6NaCl](https://github.com/6NaCl)
+- [AK20481](https://github.com/AK20481)
 - [8saku](https://github.com/8saku8)
 -[Smarpit Malik](https://github.com/smarpitm)
 - [s4d0x-dev](https://github.com/s4d0x-dev)
@@ -37,7 +38,7 @@ Anyone from Korea?
 - [Priyanshu](https://github.com/Priyanshu-arm)
 - [Asnaks](https://github.com/Asnaks)
 - [Lorenzo Pica](https://github.com/Atmoloid)
-- [Vikramaditya Sai P] (https://github.com/pvasB0-baymax) 
+- [Vikramaditya Sai P] (https://github.com/pvasB0-baymax)
 - [Prajwal V R](https://github.com/prajwal-vr)
 - [Aryak Singh](https://github.com/aryaksinghh)
 - [Abdullah Semar](https://github.com/abdullahsemar)
@@ -139,7 +140,7 @@ OAT
 - [Charly Islami](https://github.com/CharlyIslami)
 - [Charul Nampalliwar](https://github.com/Charul2304)
 - [Chemini Newanma](https://github.com/chemini244)
-- Chinmayee 
+- Chinmayee
 - [Chinenye Agu](https://github.com/Drchiagu)
 - [apoorv_v](https://github.com/apoorvnv)
 - [Chirag Bimali](https://github.com/chirag-bimali)
@@ -183,7 +184,7 @@ OAT
 - [Divyam Pariyar](https://github.com/div-html)
 - [Aravind V U](https://github.com/na23b005)
 - [Divyanshu Tiwari](https://github.com/DivyanshuTiwari12)
-- [Divyansh Singh](https://github.com/divyansh23s) 
+- [Divyansh Singh](https://github.com/divyansh23s)
 - [Divyom Srivastava](https://github.com/DivyomSrivastava)
 - [twin-im-crine](https://github.com/twin-im-crine)
 - [Max Taunton](https://github.com/PepsiMaxT)
@@ -872,16 +873,16 @@ Sushit-prog)
 - [Zamir](https://github.com/456zamir8/)
 - [Zoraz](https://github.com/Zoraz01)
 - [张喜昌](https://github.com/ZhangXiChang)
-- [Drew Ramos](https://github.com/drewsElearning) 
+- [Drew Ramos](https://github.com/drewsElearning)
 - [Adriano de Almeida Ludovico](https://github.com/Adriano-ludovico)
 - [Melody](https://github.com/paradoxmelody)
 - [Venkatabatna](https://github.com/venkatabatna)
 - [Vinicius Tamari](https://github.com/vinicius-tamari)
-- [N1xern](https://github.com/N1xern) 
+- [N1xern](https://github.com/N1xern)
 - [Helder Luz](https://github.com/HelderLuz)
 - [Aleksandr Shushunov](https://github.com/AleksandrShushunov)
 - [Adarsh Mani Tiwari](https://github.com/Adarsh0333)
-- [Vinicius Tamari](https://github.com/vinicius-tamari) 
+- [Vinicius Tamari](https://github.com/vinicius-tamari)
 -[rafaelx890](https://github.com/rafaelx890)
 -[diganth_23](https://github.com/diganth_23)
 - [Brian Chen Hao](https://github.com/brianchenhao)
@@ -964,7 +965,7 @@ https://github.com/1276604737-cloud
 - [willbebettter]https://github.com/willbebettter
 - [Aidil Amal] (https://github.com/AidilAmal)
 - [mbelfaki] (https://github.com/Mbelfaki) From Avictos Open Source Club, Moroccoo
-- [Vedx-bit](https://github.com/vedx-bit) 
+- [Vedx-bit](https://github.com/vedx-bit)
 - [Shafin Reyaz Alam](https://github.com/shafinalam07)
 - [aarav]
 - [Oki Dwi Yulianto](https://github.com/okidwiyulianto)
@@ -973,7 +974,7 @@ https://github.com/1276604737-cloud
 - [Aanchal Shah](https://github.com/aanchalsh)
 - Arda Gurkan
 - [Aman Kumar](https://github.com/AMAN240310)
-- - Ajay Kumar: Learning GitHub 
+- - Ajay Kumar: Learning GitHub
 - Siddhi Pansare (https://github.com/siddhi591)
 -[Ayush Agrawal] (https://github.com/agrawal-ayush-292005)
 - [Carlos Razanakoto](https://github.com/razanakoto-carlos)
