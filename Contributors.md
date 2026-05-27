@@ -55,6 +55,7 @@ Divyanshu Rana
 - Ravage
   ylw0623
 - An Nguyen
+- Lucas Santos Da Cruz (https://github.com/lsantosdacruz)
 - [Amaaz Lakhani] (https://github.com/Amaaz28)
 - [Pratyush Girdher](https://github.com/Pratyush-Girdher)
 - [Ali Alkhiami](https://github.com/alialkhiame)
