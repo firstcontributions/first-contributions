@@ -199,6 +199,7 @@ Rahul
 - [George Falcon](https://github.com/kanvastudio)
 - [Hussain Shamkhani](https://github.com/hussainshamkhani)
 - [25ds2000008](25ds2000008@ds.study.iitm.ac.in)
+- [Harsh Mishra](https://github.com/harshmishra-learner)
 - [Allen Payne](https://github.com/allenpaynecs)
 - [66point99](https://github.com/66point99)
 - [SaifDemos](https://github.com/SaifDemos)
