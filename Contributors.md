@@ -34,6 +34,7 @@ Divyanshu Rana
 - [Ganesh Ajegaonkar](https://github.com/Ganesh-P-A)
 #- [Sanskar Pandey](https://github.com/pandeysanskar19)
 -[Anushka Srivastava](https://github.com/anushkasrvstv)
+[Franco Otta De Anquin](https://github.com/Francodeanquin)
 -[Rashmi Gaonkar] (https://github.com/rashmi-g28)
 -[Prince Jha](https://github.com/princejha-dev)
 -[Catherine9144](https://github.com/Catherine9144)
