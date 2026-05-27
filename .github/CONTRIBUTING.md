@@ -17,7 +17,7 @@ If you're making changes to a translation, please request a review from our prev
 | Bulgarian | [Bulgarian](https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.bg.md) | []() |
 | Bosnian | [Bosnian](https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.bih.md) | []() |
 | বাংলা | [Bengali](https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.bn.md) | [<img width="100" src="https://avatars3.githubusercontent.com/u/12910423?s=460&v=4" alt="@cse031sust02" />](https://github.com/cse031sust02) |
-| Belarusian | [Belarusian](https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.by.md) | []() |
+| Belarusian | [Belarusian](https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.be.md) | []() |
 | Català | [Catalan](https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.ca.md) | [<img width="100" src="https://avatars0.githubusercontent.com/u/16263046?s=460&v=4" alt="@Sergih28" />](https://github.com/Sergih28) |
 | čeština | [Czech](https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.cs.md) | []() |
 | Danish | [Danish](https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.da.md) | [<img width="100" src="https://avatars1.githubusercontent.com/u/15271858?s=460&v=4" alt="@7013145" />](https://github.com/7013145) |
