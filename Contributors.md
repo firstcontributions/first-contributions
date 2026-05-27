@@ -20,9 +20,16 @@ Divyanshu Rana
 - [Vanshika Vashistha](https://github.com/Vanshikavashistha)
 - [RKK Vishva Kumar](https://github.com/rkvishwa)
 - [Ganesh Ajegaonkar](https://github.com/Ganesh-P-A)
-  #- [Sanskar Pandey](https://github.com/pandeysanskar19) -[Anushka Srivastava](https://github.com/anushkasrvstv) -[Rashmi Gaonkar] (https://github.com/rashmi-g28) -[Prince Jha](https://github.com/princejha-dev) -[Catherine9144](https://github.com/Catherine9144)
-  [Sridivya]s(https://github.com/sridivyaguttula20) -[Parda212](https://github.com/kaneki-212903)
+#- [Sanskar Pandey](https://github.com/pandeysanskar19)
+-[Anushka Srivastava](https://github.com/anushkasrvstv)
+-[Rashmi Gaonkar] (https://github.com/rashmi-g28)
+-[Prince Jha](https://github.com/princejha-dev)
+-[Catherine9144](https://github.com/Catherine9144)
+ [Sridivya]s(https://github.com/sridivyaguttula20)
+ Shadow
+ -[Parda212](https://github.com/kaneki-212903)
 - [SuperDeer](https://github.com/superdeer18/first-contributions)
+- [Nidhin K](https://github.com/nidhinpattiam)
 - [Shashwat Kaushik] (https://github.com/shashwatkaushik-bit/first-contributions.git) -[Rajat kumar ray](https://github.com/rayrajat)
 - [aarshiyaya] (https://github.com/aarshiyaya)
 - [Vicky Sah] (https://github.com/vicks321)
@@ -1275,6 +1282,10 @@ Divyanshu Rana
 - [atulyaai](https://github.com/atulyaai) -[Shreyesh Pachpor](https://github.com/Archiviste-ken) -[LucasNunespy](https://github.com/LucasNunespy)
   -Pooja -[Saravanakumar G](https://github.com/Saravanakumar2602) -[kanika](https://github.com/kanika021105)
 - [用户039186](https://github.com/A1A1A1-1)
-- [Naman Agrawal](https://github.com/namaninfinite) -[Hargun Singh](https://github.com/HargunSingh27) -[JoePeach](https://github.com/JoePeach-gif)
-  varshini
+- [Naman Agrawal](https://github.com/namaninfinite)
+-[Hargun Singh](https://github.com/HargunSingh27)
+-[JoePeach](https://github.com/JoePeach-gif)
+varshini
+-[Sounak Saha](https://github.com/littlegoblinjr)
 - [wdb904](https://github.com/wdb904) - 我来自大学，软件工程专业，正在学习Git和开源，这是我的第一次开源贡献，希望和大家一起进步！
+-[Pranav Singh Jethuri](https://github.com/77pranav)
