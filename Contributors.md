@@ -14,6 +14,7 @@ rashid adiyarambath
 - [Aamir Khan](https://github.com/aamir296)
 - [Aboubaker Amajjou](https://github.com/P4IN444)
 Anyone from Korea?
+- [Ayush Gangwar](https://github.com/ayush3011)
 - [limkyulee](https://github.com/limkyulee)
 - [Niharika Gupta](https://github.com/guptaniharika8953)
 - [Aamir](https://github.com/AamirMNAamir)
