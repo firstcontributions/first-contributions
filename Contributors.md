@@ -34,6 +34,7 @@ Divyanshu Rana
 - [SuperDeer](https://github.com/superdeer18/first-contributions)
 - [Shashwat Kaushik] (https://github.com/shashwatkaushik-bit/first-contributions.git)
 -[Rajat kumar ray](https://github.com/rayrajat)
+- [aarshiyaya] (https://github.com/aarshiyaya)
 - [Vicky Sah] (https://github.com/vicks321)
 - [Cutro](https://github.com/Cutro3010/first-contributions)
 - [404000-UI](https://github.com/404000-UI)
