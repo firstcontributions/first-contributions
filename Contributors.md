@@ -1,4 +1,5 @@
 <img width="1679" height="353" alt="image" src="https://github.com/user-attachments/assets/0b9793bb-e278-4b4a-a9e9-a1bb8706e10e" />- 
+[Jnyananjan](https://github.com/Jnyananjan)
 [shivamg66](https://github.com/shivamg66)
 [07Vineet07](https://github.com/07Vineet07)
 [vfedladishh] (https://github.com/vfedladishh)
@@ -23,6 +24,7 @@ Divyanshu Rana
 -[Linuka Hewagama] (https://github.com/L1nuka) :D
 -[Bhagwati](https://github.com/Bhagwati23)
 -[Dipak Rathod](https://github.com/dipakrathod-tech)
+-[dsl02](https://github.com/dsl02/)
 - [Vanshika Vashistha](https://github.com/Vanshikavashistha)
 - [RKK Vishva Kumar](https://github.com/rkvishwa)
 - [Ganesh Ajegaonkar](https://github.com/Ganesh-P-A)
@@ -54,7 +56,9 @@ Divyanshu Rana
 - Ravage
   ylw0623
 - An Nguyen
+- Lucas Santos Da Cruz (https://github.com/lsantosdacruz)
 - [Amaaz Lakhani] (https://github.com/Amaaz28)
+- [Pratyush Girdher](https://github.com/Pratyush-Girdher)
 - [Ali Alkhiami](https://github.com/alialkhiame)
 - [Kevin Shah] (https://github.com/kevin9shah)
 - [Shashank S](https://github.com/Shashank23123458867504/first-contributions)
@@ -63,6 +67,7 @@ Divyanshu Rana
 - [Haarsh](https://github.com/haarshaacharya)
 - [Archisha Gupta](https://github.com/archisha20)
 - [Samprit](https://2025-portfolio-teal-three.vercel.app/)
+- [Muhammad Subhan Qureshi](https://github.com/MSQureshi271)
 - [Ali](https://github.com/alifarabi)
 - [Mostafa](https://github.com/Mostafa-Shariare)
 - [Aakriti Arya](https://aakriti-arya-portfolio.vercel.app)
@@ -298,6 +303,7 @@ Anyone from Korea?
 - [Bhavesh Desale](https://github.com/bhaveshdesale)
 - [Bhavesh Gajengi](https://github.com/BhaveshGajengi1)
 - [Ashwani Mishra](https://github.com/ashwyni-mishra)
+- [Bhavya] (https://github.com/bhavyaaaa08)
 - [Bhoomika Jain](https://github.com/Bhoomika-iitm)
 - [Bhupesh Cholake](https://github.com/RealBhupesh)
 - [Bhuvanaesh R](https://github.com/Bhuvanaesh-R)
@@ -958,6 +964,7 @@ Prasanna Raj Neupane (https://github.com/prasannaneupane)
 - [Tony Wong](https://github.com/tony31913)
 - [Toshal Kirange](https://github.com/toshuuu)
 - [Tovoson](https://github.com/Tovoson)
+- [GuoYu](https://github.com/BaJiao-Gy)
 - [Tunan Pan](https//github.com/tunan-pan)
 - [Tushar Rampurkar](https://github.com/Gitnerd77)
 - [twin-im-crine](https://github.com/twin-im-crine)
@@ -1318,4 +1325,10 @@ Zarasalim
 - [用户039186](https://github.com/A1A1A1-1)
 - [Naman Agrawal](https://github.com/namaninfinite)
 -[Hargun Singh](https://github.com/HargunSingh27)
+<<<<<<< main
 - [Mahmud Hasan Shanto](https://github.com/CoderShanto)
+=======
+-[JoePeach](https://github.com/JoePeach-gif)
+varshini
+- [wdb904](https://github.com/wdb904) - 我来自大学，软件工程专业，正在学习Git和开源，这是我的第一次开源贡献，希望和大家一起进步！
+>>>>>>> main
