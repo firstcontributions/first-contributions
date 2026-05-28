@@ -479,6 +479,7 @@ Hana
 - [Dimitrij Jedich](https://github.com/dimitrijjedich)
 - [Pouya Esfahani](https://github.com/Pooyash1998)
 - [Prabhat Bhatia](https://github.com/prabhatbhatiaa)
+- [Shivam Nagulwar](https://github.com/Shivam-Nagulwar)
 - [Pradeep Reddy](https://github.com/Pradeep0997)
 - [Pragyey](https://github.com/CatalyzedHONEY)
 - [Prajaka Jagdale](https://github.com/Hermione28)
