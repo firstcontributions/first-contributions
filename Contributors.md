@@ -162,6 +162,7 @@ OAT
 - [Conor MacMahon](https://github.com/conorjmacmahon)
 - [junjielong21-netizen](https://github.com/junjielong21-netizen)
 - [Conner Lennon](https://github.com/cnnrl)
+- [Amavidato](https://github.com/Amavidato)
 - [Dave Herr](https://github.com/dave-herr)
 - [Dajmir LETS GOOO](https://github.com/dajmir)
 - [Deekshith](https://github.com/Deekshith2485)
