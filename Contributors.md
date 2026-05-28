@@ -564,6 +564,7 @@ Jackson Gilstrap
 - [Rithik Puthiyedath](https://github.com/Rithik149)
 - [RitwikReddy](https://github.com/RitwikReddyAerla)
 - [Riya Kushwaha](https://github.com/riyak790)
+- [Icaro Pereira](https://github.com/iikro)
 - [Julia Meneses](https://github.com/juliamenes)
 - [Rizky-Amand](https://github.com/rzky21amanda-prog)
 - [Robert Mongold](https://github.com/rtmongold)
