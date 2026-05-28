@@ -106,6 +106,7 @@ Anyone from Korea?
 - [Aditi Kumari](https://github.com/aditi-avni)
 - [Bhargav Kallepally](https://github.com/BHARGAV-RUE)
 - [Bibek Baram](https://portfolio.bibekbaram.com.np)
+- [hyuns](https://github.com/hyuns-git)
 Maliha
 - [Bigerrr](https://github.com/Bigerrr)
 - [Bimal Ray](https://github.com/Bimal-ray99)
