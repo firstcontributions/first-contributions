@@ -380,6 +380,7 @@ OAT
 - [Luiz Eduardo Oliveira Mendes](https://github.com/DuduBz7)
 - [Luka](https://github.com/LukachuPro88)
 - [Luohino](https://github.com/Luohino)
+- [macjeff](https://github.com/jeffalgoritmo)
 - [Lythae|Öykü](https://github.com/oykunazergelen)
 - [MOHAMED ARRAF](https://github.com/medoxee)
 - [M_Rizwan](https://github.com/rizwan749)
