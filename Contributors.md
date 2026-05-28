@@ -8,6 +8,7 @@
 [Vaishnavi Kokare](https://github.com/vaishnavikokare2007-stack)
 [Summy Kumari](https://github.com/summykumari567)
 Divyanshu Rana
+[Jayendra Patel](https://github.com/Jyndr)
 [sakshi jha]([https://github.com/saakshi1jha])
 - [Pushpendra Pal Singh Rathore](https://github.com/pushpendra1792)
 - [SwatiManjari]
