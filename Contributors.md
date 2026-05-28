@@ -20,6 +20,7 @@ Anyone from Korea?
 - [Ayush Gangwar](https://github.com/ayush3011)
 - [limkyulee](https://github.com/limkyulee)
 - [Niharika Gupta](https://github.com/guptaniharika8953)
+- [Likhitha](https://github.com/likhitha2005-alt)
 - [Aamir](https://github.com/AamirMNAamir)
 - [Aarjav Patriya](https://github.com/Aarjav0p)
 - [Aaryan Pandey](https://github.com/aaryanpandey29)
