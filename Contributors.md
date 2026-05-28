@@ -1,5 +1,5 @@
 # Contributors
-- [kunal sharma](https://github.com/kunal-sharma-droid)
+- [Anand Mani Tiwari](https://github.com/anandmt)- [kunal sharma](https://github.com/kunal-sharma-droid)
 - [Bruce4545](https://github.com/Bruce4545)
 - [6NaCl](https://github.com/6NaCl)
 - [8saku](https://github.com/8saku8)
