@@ -64,6 +64,7 @@ Anyone from Korea?
 - [Asif Khan](https://github.com/Mak-1911)
 - [Asif Raza Ansari](https://github.com/asifraza-776)
 - [Asiya Mujawar](https://github.com/asiyamujawar)
+- [Rahul Singh Meena](https://github.com/rahul820913)
 - [Asher King](https://github.com/asher-not-king)
 - [Vishal Vivek](https://github.com/Vishalvivek2007)
 - [Tushar Kandoo](https://github.com/tusharkandoo)
