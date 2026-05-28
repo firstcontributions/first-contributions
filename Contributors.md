@@ -332,6 +332,7 @@ OAT
 - [JanosNagy](https://github.com/JaniITmer)
 - [Gabe Jasso](https://github.com/0bitbybit)
 - [Janvi Chetan Patel](https://github.com/JanviChetanPatel)
+- [Juan Caquias](https://github.com/jcaquiasjr)
 - [Jnaneswar karedla](https://github.com/jnaneswar077)
 - [JulianoCLI](https://github.com/JulianoCLI)
 - [Junior-2103](https://github.com/Junior-2103)
