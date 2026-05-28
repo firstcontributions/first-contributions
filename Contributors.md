@@ -1,4 +1,5 @@
 # Contributors
+- [Bruce4545](https://github.com/Bruce4545)
 - [6NaCl](https://github.com/6NaCl)
 - [8saku](https://github.com/8saku8)
 -[Smarpit Malik](https://github.com/smarpitm)
