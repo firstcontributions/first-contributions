@@ -1139,6 +1139,7 @@ Zarasalim
 varshini
 -[Sounak Saha](https://github.com/littlegoblinjr)
 - [wdb904](https://github.com/wdb904) - 我来自大学，软件工程专业，正在学习Git和开源，这是我的第一次开源贡献，希望和大家一起进步！
+- [jessica-88](https://github.com/jessica-88)
 -[Pranav Singh Jethuri](https://github.com/77pranav)
 - [Hamid Iqbal](https://github.com/Hamid0004)
 - - [SnakeEye-sudo](https://github.com/SnakeEye-sudo)
