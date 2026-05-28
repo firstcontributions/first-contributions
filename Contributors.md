@@ -95,6 +95,7 @@ Divyanshu Rana
 - [AyushTurale](https://github.com/AyushTurale)
 - Immanuel 
 - Prabhat Gaurav Singh
+Jayendra Patel
 - [Rehan Shaik](https://github.com/rehans7)
 - [Muhammad Faisal Affan](https://github.com/faisalaffan)
 - [Ankit Gupta](https://github.com/ankitxdev-me)
