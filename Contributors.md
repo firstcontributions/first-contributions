@@ -4,6 +4,7 @@
 - [6NaCl](https://github.com/6NaCl)
 - [8saku](https://github.com/8saku8)
 akii
+- [Nagaraj Desai](https://github.com/nagarajd11)
 -[Smarpit Malik](https://github.com/smarpitm)
 - [s4d0x-dev](https://github.com/s4d0x-dev)
 - [volatilespectre](https://github.com/volatilespectre)
