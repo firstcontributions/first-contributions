@@ -2,6 +2,7 @@
 - [Bruce4545](https://github.com/Bruce4545)
 - [6NaCl](https://github.com/6NaCl)
 - [8saku](https://github.com/8saku8)
+akii
 -[Smarpit Malik](https://github.com/smarpitm)
 - [s4d0x-dev](https://github.com/s4d0x-dev)
 - [volatilespectre](https://github.com/volatilespectre)
