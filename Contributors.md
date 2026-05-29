@@ -582,6 +582,7 @@ Jackson Gilstrap
 - [Rodrigo Mahlow](https://github.com/rmahlow/)
 - [Roia Tembo](https://github.com/roiatembo)
 - [Roland](https://github.com/rolandmn)
+- [ReCodes26](https://github.com/ReCodes26)
 - [Roma](https://github.com/23f2002478-ROMA)
 - [Romysa](https://github.com/Rumaisa10)
 - [Ronak](https://github.com/roonakyadav)
