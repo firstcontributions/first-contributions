@@ -1009,6 +1009,7 @@ https://github.com/1276604737-cloud
 - [Aidil Amal] (https://github.com/AidilAmal)
 - [hashemallaham963](https://github.com/hashemallaham963)
 - [mbelfaki] (https://github.com/Mbelfaki) From Avictos Open Source Club, Moroccoo
+- [Ismail Bajjou] (https://github.com/Ismail-Bajjou) 
 - [Vedx-bit](https://github.com/vedx-bit) 
 - [Shafin Reyaz Alam](https://github.com/shafinalam07)
 - [aarav]
