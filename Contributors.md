@@ -1124,6 +1124,7 @@ Zarasalim
 - [Prerana-Sodankoor](https://github.com/Prerana-Sodankoor)
 - [GilasR-i](https://github.com/GilasR-i)
 - Arun
+- Lorenzo
 - [Aaneya Sabharwal](https://github.com/aaneyasabharwal)
 - [Dev Kadakia](https://github.com/dcodingdev)
 - [Harrison Bennett J](https://github.com/harrison007123)
