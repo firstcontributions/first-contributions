@@ -1177,6 +1177,7 @@ varshini
 - [Hafil](https://github.com/Hafil075)
 - [Thunyathep Kul](https://github.com/log1ri)
 - [Ananya Singh](https://github.com/ananyasingh7052258502-coder)
+- [Vaidant Tyagi](https://github.com/vaidant0410)
 - [Maheswari s] (https://github.com/maheswarisomashekar-code)
 - [Vishal Agarwal](https://github.com/vishalagarwal57)
 - [T. Greg O'Neil](https://github.com/tgregoneil)
