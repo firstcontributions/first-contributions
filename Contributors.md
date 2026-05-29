@@ -225,6 +225,7 @@ OAT
 - [Elijah Weiss](https://github.com/eweiss4)
 - [Elijah](https://github.com/Elijah647)
 - [Eiztrips](https://github.com/Eiztrips) 🎶😎
+- [Elkasca](https://github.com/Elkasaca)
 - [Fabiano Yoschitaki](https://github.com/fabianoyoschitaki)
 - [Fabirizio Raffaelli](https://github.com/Fabro23)
 - [Balaji Ramachandran](https://github.com/rbalaji007)
