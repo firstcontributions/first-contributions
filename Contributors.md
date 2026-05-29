@@ -31,6 +31,7 @@ Anyone from Korea?
 - [Niharika Gupta](https://github.com/guptaniharika8953)
 - [Likhitha](https://github.com/likhitha2005-alt)
 - [Aamir](https://github.com/AamirMNAamir)
+- [Chandrasekar Ravi](https://github.com/ChandruRavi3708)
 - [Aarjav Patriya](https://github.com/Aarjav0p)
 - [Aaryan Pandey](https://github.com/aaryanpandey29)
 - [Abhishek Agrawal](https://github.com/agrawalabhi881-a11y)
