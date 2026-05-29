@@ -6,6 +6,7 @@
 - [padmarajnidagundi](https://github.com/padmarajnidagundi)
 - [Rayhan-099](https://github.com/rayhan-099)
 - [Bruce4545](https://github.com/Bruce4545)
+- [Ziba Imani](https://github.com/zibaimani)
 - [6NaCl](https://github.com/6NaCl)
 - [VeeVal](https://github.com/VeeVal)
 - [8saku](https://github.com/8saku8)
