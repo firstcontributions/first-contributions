@@ -1,4 +1,5 @@
 # Contributors
+- [AfiqN](https://github.com/AfiqN)
 - [Sawastik Bhullar](https://github.com/sawastik7-bit)
 - [kunal sharma](https://github.com/kunal-sharma-droid)
 - [Padmaraj](https://github.com/padmaraj)
