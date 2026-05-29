@@ -1192,6 +1192,7 @@ https://github.com/1276604737-cloud
 - [Bima Khoirot] (https://github.com/senobima)
 - [White Wall] (https://github.com/whitewall1575)
 - [Nijushinde] (https://github.com/Nijushinde)
+- [Mark Ingya] (https://github.com/markingya)
 - [epalkaran](https://github.com/epalkaran)
 -[Sakshi Sharma](https://github.com/sakshisharma753)
 -[Vansh Rana] (https://github.com/Player1205)
