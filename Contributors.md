@@ -1,4 +1,5 @@
 # Contributors
+- [Sawastik Bhullar](https://github.com/sawastik7-bit)
 - [kunal sharma](https://github.com/kunal-sharma-droid)
 - [Padmaraj](https://github.com/padmaraj)
 - [padmarajnidagundi](https://github.com/padmarajnidagundi)
