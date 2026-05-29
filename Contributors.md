@@ -1195,6 +1195,7 @@ varshini
 - [Ujjwal Malhotra] (https://github.com/Ujjwal-Malhotra)
 - [Krishna Karthik] (https://github.com/kka10)
 - [Hafil](https://github.com/Hafil075)
+- [Sagar Mandal](https://github.com/sagar88826)
 - [Thunyathep Kul](https://github.com/log1ri)
 - [Ananya Singh](https://github.com/ananyasingh7052258502-coder)
 - [Vaidant Tyagi](https://github.com/vaidant0410)
