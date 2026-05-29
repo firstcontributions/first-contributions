@@ -1183,3 +1183,4 @@ varshini
 - [Manav Chauhan](https://github.com/manavc1303-cell)
 - [Priya Deshpande](https://github.com/Priyadeshpandee)
 - [Payal SDE 2030](https://github.com/payal-sde-2030)
+- [Jungi Kim](https://github.com/bobandsara)
