@@ -830,6 +830,7 @@ Sushit-prog)
 - [okokok0101]
 - [Venkata Ganapathi Subramanian](https://github.com/VENKATA080305)
 - [Vennela Reddy](https://github.com/VenRed12)
+- [Vinita]
 - [vrorvwxglr] (https://github.com/vrorvwxglr)
 - [Venu](https://github.com/Venu-R)
 - [Vesmorian Xavier](https://github.com/vaibhavsss)
