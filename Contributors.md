@@ -11,6 +11,7 @@
 - [Saurabh Salve](https://github.com/SAURABHSALVE)
 akii
 - [Nagaraj Desai](https://github.com/nagarajd11)
+- [Ashritha Kadarla](https://github.com/ashrithakadarla)
 -[Smarpit Malik](https://github.com/smarpitm)
 - [s4d0x-dev](https://github.com/s4d0x-dev)
 - [volatilespectre](https://github.com/volatilespectre)
