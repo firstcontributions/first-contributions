@@ -24,6 +24,7 @@ rashid adiyarambath
 - [Ramnivas Suthar](https://github.com/ramnivas11)
 - [Varun]
 - [Aamir Khan](https://github.com/aamir296)
+- [Yash Shinde](https://github.com/yashshinde217)
 - [Aboubaker Amajjou](https://github.com/P4IN444)
 Anyone from Korea?
 - [Ayush Gangwar](https://github.com/ayush3011)
