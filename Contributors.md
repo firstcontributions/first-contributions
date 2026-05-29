@@ -1103,7 +1103,7 @@ https://github.com/1276604737-cloud
 - [Sahil Arate](https://github.com/SahilArate)
 - [Sarath kumar M](https://github.com/sarath121-21)
 - [Pavan Kumar](https://github.com/Gumparthypavankumar)
--[Vishal K](https://github.com/vishalkvl-098)
+- [Vishal K](https://github.com/vishalkvl-098)
 - [Tharun Thilak G R](https://github.com/tharunthilak1919-creator)
 - [ybw] (https://github.com/YBW2006)
 - [Ayesha Ali](https://github.com/ashmayve)
