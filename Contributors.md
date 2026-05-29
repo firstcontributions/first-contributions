@@ -83,6 +83,7 @@ Anyone from Korea?
 - [Athulkrishna](https://github.com/AthulKrishna-736)
 - [Atul Pandey](https://github.com/atulpandey9)
 - [Avani J C](https://github.com/Avani24-byte)
+- [Nikhil Verma](https://github.com/nikhil9verma)
 - [Sandra] (https://github.com/Sandra-1209)
 - [Avanish](https://github.com/satyaavanish)
 - [Aya Driouche](https://github.com/aya119119)
@@ -147,6 +148,7 @@ Maliha
 - [Cang Li](https://github.com/s0raLin)
 OAT
 - [CapyBaraTheKing](https://github.com/molangmalang)
+
 - [Carburio](https://github.com/Carburio)
 - [Carter Lewis](https://github.com/carter-lewis)
 - [Cesar Ochoa](https://github.com/cesarocbu)
