@@ -34,6 +34,7 @@ Anyone from Korea?
 - [Yash Khatri](https://github.com/Yashkhatri01)
 -[Renuka Pawar](https://github.com/RenukaPawar658)
 - [Aashish](https://github.com/Aashish-po)
+- [Hritika](https://github.com/Hritikadas)
 [Prince Das](https://github.com/prince0021)
 - [Aashish Arya](https://github.com/aasheeeeesh)
 - [Abdellah](https://github.com/Abdev314)
