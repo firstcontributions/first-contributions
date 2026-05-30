@@ -33,6 +33,7 @@ rashid adiyarambath
 - [Ramnivas Suthar](https://github.com/ramnivas11)
 - [Sankeerthana Lode](https://github.com/SankeerthanaLode)
 - [Varun]
+- [Tristan Jensen] (https://github.com/TristanJensenCodes)
 - [Aamir Khan](https://github.com/aamir296)
 - [Yash Shinde](https://github.com/yashshinde217)
 - [Aboubaker Amajjou](https://github.com/P4IN444)
