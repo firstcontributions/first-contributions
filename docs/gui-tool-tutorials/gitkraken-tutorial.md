@@ -5,8 +5,14 @@
 
 # First Contributions
 
-|<img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="200">|GitKraken Edition|
-|---|---|
+<table>
+  <tr>
+    <td align="center">
+      <img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="120"><br>
+      <b>GitKraken Edition</b>
+    </td>
+  </tr>
+</table>
 
 It's hard. It's always hard, when you do something for the first time. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
 
@@ -91,7 +97,7 @@ Click the Push button on the toolbar.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-origin.png" alt="origin or branch" />
 
-Submit changes on the origin branch if you want the changes to reflect in the master branch directly, else select the appropriate branch you want to push.
+Submit changes on the origin branch if you want the changes to reflect in the main branch directly, else select the appropriate branch you want to push.
 
 
 ## Submit your changes for review
@@ -104,7 +110,7 @@ Now submit the pull request.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/submit-pull-request.png" alt="submit pull request" />
 
-Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
+Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
 
 ## Where to go from here?
 
