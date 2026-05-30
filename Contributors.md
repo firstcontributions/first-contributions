@@ -68,6 +68,7 @@ Anyone from Korea?
 - [Abdul Azeez](https://github.com/Syedabdulazeez-021)
 - [Priyanjal Rathore](https://github.com/rathore80)
 - [Abdul Kareem](https://github.com/abdulkareem97)
+- [Srikanth Medicherla](https://github.com/OSUMed)
 - [Abdullah Elsafty](https://github.com/your-abdullahelsafty4)
 - [Priyanshu](https://github.com/Priyanshu-arm)
 - [Asnaks](https://github.com/Asnaks)
