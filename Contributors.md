@@ -53,6 +53,7 @@ Anyone from Korea?
 - [Djombissi Daniels](https://github.com/DMSD003)
 - [Nidhi Kumari](https://github.com/nidhii-dev)
 - [Lenin Goud Athikam](https://github.com/leninathikam)
+- [Daniel Kuhn](https://github.com/DanielUmedaKuhn)
 - [Yash Khatri](https://github.com/Yashkhatri01)
 -[Renuka Pawar](https://github.com/RenukaPawar658)
 - [Aashish](https://github.com/Aashish-po)
