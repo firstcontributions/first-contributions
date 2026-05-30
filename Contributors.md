@@ -1,5 +1,6 @@
 # Contributors
--[Prajwal Hulle](https://github.com/prajwal-2509)
+- [Evanroby](https://github.com/Evanroby)
+- [Prajwal Hulle](https://github.com/prajwal-2509)
 - [AfiqN](https://github.com/AfiqN)
 - [Sawastik Bhullar](https://github.com/sawastik7-bit)
 - [kunal sharma](https://github.com/kunal-sharma-droid)
