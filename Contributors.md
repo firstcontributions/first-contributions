@@ -1254,3 +1254,4 @@ varshini
 - [Ravindra Reddy](https://github.com/yravindrareddy)
 - [VoidOneX](https://github.com/VoidOneX)
 - [Pulkit Sharma](https://github.com/PulkitSharma762)
+- [Soledad Rebolo](https://github.com/soledadrebolo2444-droid)
