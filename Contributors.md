@@ -1197,3 +1197,4 @@ varshini
 - [Jungi Kim](https://github.com/bobandsara)
 - [Siddharth Sharma](https://github.com/sidgitsdata)
 - [yanwenji99](https://github.com/yanwenji99)
+- [amit prajapati](https://github.com/amitpraja808-glitch/first-contributions.git)
