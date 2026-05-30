@@ -34,6 +34,7 @@ rashid adiyarambath
 - [Ramnivas Suthar](https://github.com/ramnivas11)
 - [Sankeerthana Lode](https://github.com/SankeerthanaLode)
 - [Varun]
+- [Tristan Jensen] (https://github.com/TristanJensenCodes)
 - [Aamir Khan](https://github.com/aamir296)
 - [Yash Shinde](https://github.com/yashshinde217)
 - [Aboubaker Amajjou](https://github.com/P4IN444)
@@ -53,6 +54,7 @@ Anyone from Korea?
 - [Djombissi Daniels](https://github.com/DMSD003)
 - [Nidhi Kumari](https://github.com/nidhii-dev)
 - [Lenin Goud Athikam](https://github.com/leninathikam)
+- [Daniel Kuhn](https://github.com/DanielUmedaKuhn)
 - [Yash Khatri](https://github.com/Yashkhatri01)
 -[Renuka Pawar](https://github.com/RenukaPawar658)
 - [Aashish](https://github.com/Aashish-po)
@@ -1245,3 +1247,4 @@ varshini
 - [Arnav Jain](https://github.com/Arnavj217)
 - - [Shikhar Srivastava](https://github.com/shikhar004dot-com)
 - 
+- [Ravindra Reddy](https://github.com/yravindrareddy)
