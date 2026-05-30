@@ -57,6 +57,7 @@ Anyone from Korea?
 - [Priyanshu](https://github.com/Priyanshu-arm)
 - [Asnaks](https://github.com/Asnaks)
 - [Lorenzo Pica](https://github.com/Atmoloid)
+- [smores] (https://github.com/Srobley)
 - [Vikramaditya Sai P] (https://github.com/pvasB0-baymax) 
 - [Prajwal V R](https://github.com/prajwal-vr)
 - [Aryak Singh](https://github.com/aryaksinghh)
