@@ -1,5 +1,6 @@
 # Contributors
--[Prajwal Hulle](https://github.com/prajwal-2509)
+- [zhj](https://github.com/ajajaj238)
+- [Prajwal Hulle](https://github.com/prajwal-2509)
 - [AfiqN](https://github.com/AfiqN)
 - [Sawastik Bhullar](https://github.com/sawastik7-bit)
 - [Y.  Wu(2th)](https://github.com/Wyh-max-star)
