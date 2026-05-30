@@ -41,6 +41,7 @@ Anyone from Korea?
 - [Mayur Lad](https://github.com/mayurlad)
 - [Djombissi Daniels](https://github.com/DMSD003)
 - [Nidhi Kumari](https://github.com/nidhii-dev)
+- [Lenin Goud Athikam](https://github.com/leninathikam)
 - [Yash Khatri](https://github.com/Yashkhatri01)
 -[Renuka Pawar](https://github.com/RenukaPawar658)
 - [Aashish](https://github.com/Aashish-po)
