@@ -1222,3 +1222,5 @@ varshini
 - [Aishwariya](https://github.com/aishwariya192006)
 - [Ayush Gade](https://github.com/ayushgade06)
 - [Igor Giamoniano](https://github.com/igorgiamoniano)
+- [Ayush Gade](https://github.com/ayushgade06) 
+- [miyuki_h](https://github.com/HM19Lab)
