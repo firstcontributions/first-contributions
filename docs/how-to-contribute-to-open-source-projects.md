@@ -23,6 +23,7 @@ Finding the right project is crucial. Look for projects that align with your int
 *   Explore GitHub: Use GitHub’s Explore page or search for topics like "good-first-issue" or "help-wanted."
 *   Check Open Source Programs: Programs like Google Summer of Code or Hacktoberfest are great for beginners.
 *   Follow Your Tools: Contribute to libraries, frameworks, or tools you already use.
+*   Consider Mobile-Friendly: If using Android Termux, look for projects with mobile documentation or add Termux-specific setup notes.
 
 ### 2. Understand the Project
 
