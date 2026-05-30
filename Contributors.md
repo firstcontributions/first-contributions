@@ -1247,7 +1247,7 @@ varshini
 - [miyuki_h](https://github.com/HM19Lab)
 - [Arav Jain](https://github.com/Aravj217)
 - [Arnav Jain](https://github.com/Arnavj217)
-- - [Shikhar Srivastava](https://github.com/shikhar004dot-com)
-- 
+- [Shikhar Srivastava](https://github.com/shikhar004dot-com)
+- [Sanjeevi Uthchav](https://github.com/sanjeevi0078)
 - [Ravindra Reddy](https://github.com/yravindrareddy)
 - [VoidOneX](https://github.com/VoidOneX)
