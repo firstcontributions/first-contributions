@@ -1220,4 +1220,5 @@ varshini
 - [yanwenji99](https://github.com/yanwenji99)
 - [anjali ajith](https://github.com/queenelizabethII879)
 - [Aishwariya](https://github.com/aishwariya192006)
-- [Ayush Gade](https://github.com/ayushgade06) 
+- [Ayush Gade](https://github.com/ayushgade06)
+- [Igor Giamoniano](https://github.com/igorgiamoniano)
