@@ -1235,4 +1235,4 @@ varshini
 - [miyuki_h](https://github.com/HM19Lab)
 - [Arav Jain](https://github.com/Aravj217)
 - [Arnav Jain](https://github.com/Arnavj217)
-- 
+- [Nitin Mali](https://github.com/nitinsmali)
