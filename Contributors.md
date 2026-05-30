@@ -293,6 +293,7 @@ OAT
 - [Ganesha N Hotti](https://github.com/GaneshaNHotti)
 - [GangSQuadUA](https://github.com/GangSquadUA)
 - [Garv Choure](https://github.com/garvv29)
+- [Garvit Kulshreshtha](https://github.com/WhoopDoop)
 - [Gaurav Singh](https://github.com/gauravsinghcodes)
 - [GauravJha](https://github.com/your-23f2001550)
 - [Gautam Kumawat](https://github.com/gautam9892)
