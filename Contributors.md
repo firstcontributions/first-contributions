@@ -1,7 +1,7 @@
 # Contributors
 
 - [kunal sharma](https://github.com/kunal-sharma-droid)
-- [Y.  Wu](https://github.com/Wyh-max-star)
+- [Y.  Wu(2th)](https://github.com/Wyh-max-star)
 - [Padmaraj](https://github.com/padmaraj)
 - [Rayhan-099](https://github.com/rayhan-099)
 - [Bruce4545](https://github.com/Bruce4545)
