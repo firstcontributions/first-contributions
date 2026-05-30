@@ -18,6 +18,7 @@
 akii
 - [Toushimaa](https://github.com/toushimaa)
 - [Nagaraj Desai](https://github.com/nagarajd11)
+- [Aryan](https://github.com/aryan-neogi)
 - [Anuraag Tripathy](https://github.com/AnuraagTripathy)
 - [Ashritha Kadarla](https://github.com/ashrithakadarla)
 -[Smarpit Malik](https://github.com/smarpitm)
