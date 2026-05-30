@@ -48,16 +48,16 @@ Pindah ke direktori repositori yang terdapat pada komputer Anda (jika Anda belum
 cd first-contributions
 ```
 
-Sekarang buatlah sebuah _branch_ menggunakan perintah `git checkout`:
+Sekarang buatlah sebuah _branch_ menggunakan perintah `git switch`:
 
 ```
-git checkout -b <tambahkan-nama-branch-baru>
+git switch -c <tambahkan-nama-branch-baru>
 ```
 
 Contohnya:
 
 ```
-git checkout -b add-alonzo-church
+git switch -c add-alonzo-church
 ```
 
 <details>
@@ -100,7 +100,7 @@ Ubah bagian `<nama-anda>` dengan nama Anda.
 _Push_ perubahan menggunakan perintah `git push`:
 
 ```
-git push origin <tambahkan-nama-cabang-baru>
+git push -u origin <tambahkan-nama-cabang-baru>
 ```
 
 ganti bagian `<tambahkan-nama-cabang-baru>` dengan nama cabang yang sebelumnya Anda buat.
