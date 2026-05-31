@@ -15,6 +15,7 @@
 - [Ziba Imani](https://github.com/zibaimani)
 - [6NaCl](https://github.com/6NaCl)
 - [VeeVal](https://github.com/VeeVal)
+- [NWT](http://github.com/Nyiwanna)
 - [8saku](https://github.com/8saku8)
 - [Saurabh Salve](https://github.com/SAURABHSALVE)
 akii
@@ -1255,3 +1256,4 @@ varshini
 - [VoidOneX](https://github.com/VoidOneX)
 - [Pulkit Sharma](https://github.com/PulkitSharma762)
 - [Soledad Rebolo](https://github.com/soledadrebolo2444-droid)
+- [tylrcc](https://github.com/tylrcc)
