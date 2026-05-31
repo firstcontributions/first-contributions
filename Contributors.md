@@ -1225,5 +1225,7 @@ varshini
 - [anjali ajith](https://github.com/queenelizabethII879)
 - [Aishwariya](https://github.com/aishwariya192006)
 - [Ayush Gade](https://github.com/ayushgade06) 
+Aditya Jain
+
 - [Muhammed Nihad P P](https://github.com/Nihad257)
 - [miyuki_h](https://github.com/HM19Lab)
