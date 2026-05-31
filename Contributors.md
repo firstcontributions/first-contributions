@@ -29,7 +29,7 @@ akii
 - [Aakanksha Jadhav](https://github.com/aakankshajadhav2006)
 rashid adiyarambath
 - [Samir Khanal](https://github.com/shawmeer)
-- [Rahul Kumar](https://github.com/imRvarma)
+- [Varma Rahul](https://github.com/imRvarma)
 - [mboulagh] (https://github.com/MINATOnmk) From Avictos Open Source Club, Morocco  .
 - [Ramnivas Suthar](https://github.com/ramnivas11)
 - [Sankeerthana Lode](https://github.com/SankeerthanaLode)
