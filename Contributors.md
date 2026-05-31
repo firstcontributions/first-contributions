@@ -612,6 +612,7 @@ Jackson Gilstrap
 - [Ricidleiv](https://github.com/tondatto)
 - [Rishika](https://github.com/RISHIKA-A-S)
 - [Rishikesh Singh](https://github.com/errishi)
+- [Aman Kumar Verma](https://github.com/amanbuilds-hub)
 - [Rishon Pravin](https://github.com/Rishon-P)
 - [Ritesh Senthil](https://github.com/Ritesh-Senthil)
 - [Rithik Puthiyedath](https://github.com/Rithik149)
