@@ -43,6 +43,7 @@ rashid adiyarambath
 - [Anand Mani Tiwari](https://github.com/anandmt)
 - [Aboubaker Amajjou](https://github.com/P4IN444)
 Anyone from Korea?
+- [Varma Rahul](https://github.com/imRvarma)
 - [Bhumi](https://github.com/bhumiks08)
 - [Ayush Gangwar](https://github.com/ayush3011)
 - [Abhishek](https://github.com/AbhiVanya)
@@ -357,6 +358,7 @@ OAT
 - [Ishan Edlabadkar](https://github.com/IshanEdlabadkar)
 - [Anuja Wanigasekara](https://github.com/Anuja222)
 - [Ishan Verma](https://github.com/ishan4432)
+- [Djamila](https://github.com/djami-colab)
 - [Ishit](https://github.com/ishitGsigma)
 - [Ishita Singh](https://github.com/codeishitech)
 - [Ishita](https://github.com/elekish)
