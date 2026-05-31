@@ -198,6 +198,7 @@ OAT
 - [Charul Nampalliwar](https://github.com/Charul2304)
 - [Chemini Newanma](https://github.com/chemini244)
 - Chinmayee 
+- [Sautrik Roy 2](https://github.com/sautrikroy17)
 - [Chinenye Agu](https://github.com/Drchiagu)
 - NobleChicken97(https://github.com/NobleChicken97)
 - [apoorv_v](https://github.com/apoorvnv)
