@@ -43,6 +43,7 @@ rashid adiyarambath
 - [Anand Mani Tiwari](https://github.com/anandmt)
 - [Aboubaker Amajjou](https://github.com/P4IN444)
 Anyone from Korea?
+-[Sankalp Vats](https://github.com/sankalp19projects)
 - [Varma Rahul](https://github.com/imRvarma)
 - [Bhumi](https://github.com/bhumiks08)
 - [Ayush Gangwar](https://github.com/ayush3011)
