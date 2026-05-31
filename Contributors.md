@@ -14,8 +14,8 @@
 - [Bruce4545](https://github.com/Bruce4545)
 - [Ziba Imani](https://github.com/zibaimani)
 - [6NaCl](https://github.com/6NaCl)
-- [VeeVal](https://github.com/VeeVal)
-- [8saku](https://github.com/8saku8)
+- [VeeVal](https://github.com/VeeV"al)
+- [NWT](https://github.com/Nyiwanna)
 - [Saurabh Salve](https://github.com/SAURABHSALVE)
 akii
 - [Toushimaa](https://github.com/toushimaa)
