@@ -29,7 +29,6 @@ akii
 - [Aakanksha Jadhav](https://github.com/aakankshajadhav2006)
 rashid adiyarambath
 - [Samir Khanal](https://github.com/shawmeer)
-- [Varma Rahul](https://github.com/imRvarma)
 - [mboulagh] (https://github.com/MINATOnmk) From Avictos Open Source Club, Morocco  .
 - [Ramnivas Suthar](https://github.com/ramnivas11)
 - [Sankeerthana Lode](https://github.com/SankeerthanaLode)
@@ -39,6 +38,7 @@ rashid adiyarambath
 - [Yash Shinde](https://github.com/yashshinde217)
 - [Aboubaker Amajjou](https://github.com/P4IN444)
 Anyone from Korea?
+- [Varma Rahul](https://github.com/imRvarma)
 - [Bhumi](https://github.com/bhumiks08)
 - [Ayush Gangwar](https://github.com/ayush3011)
 - [Abhishek](https://github.com/AbhiVanya)
