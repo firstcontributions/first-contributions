@@ -1232,6 +1232,7 @@ varshini
 - [Hafil](https://github.com/Hafil075)
 - [Sagar Mandal](https://github.com/sagar88826)
 - [Thunyathep Kul](https://github.com/log1ri)
+- [fant3k](https://github.com/fant3k) 
 - [Ananya Singh](https://github.com/ananyasingh7052258502-coder)
 - [Vaidant Tyagi](https://github.com/vaidant0410)
 - [Maheswari s] (https://github.com/maheswarisomashekar-code)
