@@ -1272,7 +1272,6 @@ varshini
 - [Ravindra Reddy](https://github.com/yravindrareddy)
 - [VoidOneX](https://github.com/VoidOneX)
 - [Pulkit Sharma](https://github.com/PulkitSharma762)
-<<<<<<< HEAD
 - [Darshan Gowda](https://github.com/Darshangowda05s)
 - [Soledad Rebolo](https://github.com/soledadrebolo2444-droid)
 - [tylrcc](https://github.com/tylrcc)
@@ -1280,6 +1279,4 @@ varshini
 - [ilyes899](https://github.com/ilyes899)
 - [samiSam](https://github.com/samyarous11)
 - [Syamalatha11](https://github.com/Syamalatha11)
-=======
 - [Mahamadsad Nadaf](https://github.com/mahamadsadnadaf-dev)
->>>>>>> 9de587611 (first change)
