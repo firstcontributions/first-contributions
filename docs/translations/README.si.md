@@ -26,7 +26,7 @@
 
 දැන් ඔයාගේ computer එකේ terminal (command prompt) එක open කරලා, මේ git command එක run කරන්න:
 
-```bash
+```
 git clone "ඔයා දැන් copy කරගත්තු url එක"
 ```
 
@@ -34,7 +34,7 @@ git clone "ඔයා දැන් copy කරගත්තු url එක"
 
 උදාහරණයක් විදියට:
 
-```bash
+```
 git clone git@github.com:this-is-you/first-contributions.git
 ```
 
@@ -44,19 +44,19 @@ git clone git@github.com:this-is-you/first-contributions.git
 
 Terminal එකේ ඉඳන් ඔයා දැන් clone කරගත්ත repository එකේ folder එකට යන්න (ඔයා දැනටමත් ඒක ඇතුලේ නෙවෙයි නම්):
 
-```bash
+```
 cd first-contributions
 ```
 
 දැන්, ඔයාගේ වෙනස්කම් ටික කරන්න අලුත් branch එකක් හදන්න `git switch` command එක run කරන්න:
 
-```bash
+```
 git switch -c ඔයාගේ-අලුත්-branch-එකේ-නම
 ```
 
 උදාහරණයක් විදියට:
 
-```bash
+```
 git switch -c add-kasun-perera
 ```
 
@@ -67,7 +67,7 @@ git switch -c add-kasun-perera
 
 ඒ වගේ වෙලාවක, `git switch` වෙනුවට `git checkout` command එක use කරලා බලන්න:
 
-```bash
+```
 git checkout -b your-new-branch-name
 ```
 
@@ -85,13 +85,13 @@ _(Branch එකේ නමට `add-` වගේ කෑල්ලක් එකතු
 
 ඒ වෙනස්කම් ටික ඔයා හදපු අලුත් branch එකට add කරන්න `git add` command එක run කරන්න:
 
-```bash
+```
 git add Contributors.md
 ```
 
 දැන්, `git commit` command එකෙන් මේ වෙනස්කම් ටික commit කරන්න:
 
-```bash
+```
 git commit -m "Add your-name to Contributors list"
 ```
 
@@ -101,7 +101,7 @@ your-name` කියන තැනට ඔයාගේ නම දාන්න.
 
 ඔයා කරපු වෙනස්කම් ටික GitHub එකට push (upload) කරන්න `git push` command එක run කරන්න:
 
-```bash
+```
 git push -u origin ඔයාගේ-branch-එකේ-නම
 ```
 
