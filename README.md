@@ -151,7 +151,7 @@ git switch -c add-alonzo-church
 <details>
 <summary> <strong>If you get any errors using git switch, click here:</strong> </summary>
 
-If the error message "Git: `switch` is not a git command. See `git –help`" appears, it's likely because you're using an older version of git.
+If the error message "Git: `switch` is not a git command. See `git --help`" appears, it's likely because you're using an older version of git.
 
 In this case, try to use `git checkout` instead:
 
@@ -233,7 +233,7 @@ Congrats! You just completed the standard _fork -> clone -> edit -> pull request
 
 Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io/#social-share).
 
-If you'd like more practice, checkout [code contributions](https://github.com/roshanjossey/code-contributions).
+If you'd like more practice, check out [code contributions](https://github.com/roshanjossey/code-contributions).
 
 Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
 
