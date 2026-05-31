@@ -40,6 +40,7 @@ rashid adiyarambath
 - [Tristan Jensen] (https://github.com/TristanJensenCodes)
 - [Aamir Khan](https://github.com/aamir296)
 - [Yash Shinde](https://github.com/yashshinde217)
+- [Anand Mani Tiwari](https://github.com/anandmt)
 - [Aboubaker Amajjou](https://github.com/P4IN444)
 Anyone from Korea?
 - [Bhumi](https://github.com/bhumiks08)
