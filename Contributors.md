@@ -1252,6 +1252,7 @@ varshini
 - [Arnav Jain](https://github.com/Arnavj217)
 - [Shikhar Srivastava](https://github.com/shikhar004dot-com)
 - [Sanjeevi Uthchav](https://github.com/sanjeevi0078)
+- [Ritesh Jha] (https://github.com/rjritesh)
 - [Ravindra Reddy](https://github.com/yravindrareddy)
 - [VoidOneX](https://github.com/VoidOneX)
 - [Pulkit Sharma](https://github.com/PulkitSharma762)
