@@ -497,6 +497,7 @@ OAT
 - [Noëlla Vivienne](https://github.com/noellav/)
 - [Nícolas Marinho](https://github.com/nicolasmarinhoo)
 - [Madhushree Mirji](https://github.com/madhushree-mirji/)
+- [Sautrik Roy](https://github.com/sautrikroy17)
 - [Nguyen Quoc Thai](https://github.com/nqt-2)
 - [OSoufian](https://github.com/OSoufian)
 - [Mathis LaPivoine](https://github.com/Archeos932)
