@@ -298,6 +298,7 @@ OAT
 - [FromSi](https://github.com/FromSi)
 - [LisaM516](https://github.com/LisaM516)
 - [FuraxDev](https://github.com/furax2204)
+- [Sautrik Roy 3](https://github.com/sautrikroy17)
 - [Furkan Can](https://github.com/Furkancan2)
 - [gegi](https://github.com/gegi05)
 - [G S Abinivas](https://github.com/abi6374)
