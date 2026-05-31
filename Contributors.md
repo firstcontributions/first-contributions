@@ -1,4 +1,5 @@
 # Contributors
+- [steve](https://github.com/mr-steveryan)
 - [Piyush Pritam Sethi](https://github.com/piyush37-6)
 - [Abivarsan](https://github.com/RAbivarsan)
 - [Abhijeet Raj] (https://github.com/Abhijeetraj01)
@@ -7,7 +8,7 @@
 - [Chetan](https://github.com/chetanakashV/)
 - [AfiqN](https://github.com/AfiqN)
 - [Aleem](https://github.com/Aleem-628296)
--[Jai Singh](https://github.com/jaisingh24)
+- [Jai Singh](https://github.com/jaisingh24)
 - [Sawastik Bhullar](https://github.com/sawastik7-bit)
 - [Y.  Wu(2th)](https://github.com/Wyh-max-star)
 - [kunal sharma](https://github.com/kunal-sharma-droid)
