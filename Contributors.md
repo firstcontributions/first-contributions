@@ -497,6 +497,7 @@ OAT
 - [Olapu Ajay](https://github.com/olapuajay)
 - [Oleg Ataeff](https://github.com/ariannamethod)
 - [Om Singh](https://github.com/Singh-OmDev)
+- [Karthik Kuncha](https://github.com/Karthikkuncha45)
 - [Omkar Ala](https://github.com/omkarala)
 - [OmkarS](https://github.com/omkar402)
 - [Optimus Prime](https://github.com/DebOps01)
