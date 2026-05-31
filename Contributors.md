@@ -1255,3 +1255,4 @@ varshini
 - [Ravindra Reddy](https://github.com/yravindrareddy)
 - [VoidOneX](https://github.com/VoidOneX)
 - [Pulkit Sharma](https://github.com/PulkitSharma762)
+- [Darshan Gowda](https://github.com/Darshangowda05s)
