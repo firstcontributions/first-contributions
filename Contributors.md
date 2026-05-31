@@ -17,6 +17,7 @@
 - [VeeVal](https://github.com/VeeVal)
 - [NWT](http://github.com/Nyiwanna)
 - [8saku](https://github.com/8saku8)
+- [Divyansh Shrivastava](https://github.com/divyanshshrivastava)
 - [Saurabh Salve](https://github.com/SAURABHSALVE)
 akii
 - [Toushimaa](https://github.com/toushimaa)
