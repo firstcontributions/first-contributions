@@ -1256,5 +1256,3 @@ varshini
 - [VoidOneX](https://github.com/VoidOneX)
 - [Pulkit Sharma](https://github.com/PulkitSharma762)
 - [Darshan Gowda](https://github.com/Darshangowda05s)
-- [Soledad Rebolo](https://github.com/soledadrebolo2444-droid)
-- [tylrcc](https://github.com/tylrcc)
