@@ -16,6 +16,7 @@
 - [Rayhan-099](https://github.com/rayhan-099)
 - [Bruce4545](https://github.com/Bruce4545)
 - [Ziba Imani](https://github.com/zibaimani)
+- [Kavin](https://github.com/atomthedark)
 - [6NaCl](https://github.com/6NaCl)
 - [VeeVal](https://github.com/VeeVal)
 - [NWT](http://github.com/Nyiwanna)
