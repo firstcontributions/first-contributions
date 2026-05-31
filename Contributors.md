@@ -1152,6 +1152,7 @@ Mohammed Hussein
 - [Cary Zhu](https://github.com/CodeCary80)
 - [Satyam Vinod Mali](https://github.com/satyammali86)
 - [Aryan Naveen]
+- [Dmitrii-Rumyantsev](https://github.com/Dmitrii-Rumyantsev)
 - [Sunlonglong-Creator](https://github.com/sunlonglong-creator)
 - [syed samiath azam](https://github.com/samiath17)
 - [Vishesh Sharma] (https://github.com/vishesharma20)
