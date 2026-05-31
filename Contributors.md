@@ -11,6 +11,7 @@
 - [Y.  Wu(2th)](https://github.com/Wyh-max-star)
 - [kunal sharma](https://github.com/kunal-sharma-droid)
 - [Padmaraj](https://github.com/padmaraj)
+- [lamsal27](https://github.com/lamsal27)
 - [padmarajnidagundi](https://github.com/padmarajnidagundi)
 - [Rayhan-099](https://github.com/rayhan-099)
 - [Bruce4545](https://github.com/Bruce4545)
