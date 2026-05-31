@@ -1255,4 +1255,5 @@ varshini
 - [Ravindra Reddy](https://github.com/yravindrareddy)
 - [VoidOneX](https://github.com/VoidOneX)
 - [Pulkit Sharma](https://github.com/PulkitSharma762)
-- - [tylrcc](https://github.com/tylrcc)
+- [Soledad Rebolo](https://github.com/soledadrebolo2444-droid)
+- [tylrcc](https://github.com/tylrcc)
