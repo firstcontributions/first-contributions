@@ -1274,3 +1274,4 @@ varshini
 - [MAbdessamed](https://github.com/AbdessamedMezz)
 - [ilyes899](https://github.com/ilyes899)
 - [samiSam](https://github.com/samyarous11)
+- [Moatasem Kharraz](https://github.com/MoatasemKharraz)
