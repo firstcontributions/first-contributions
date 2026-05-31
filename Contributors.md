@@ -1280,4 +1280,4 @@ varshini
 - [ilyes899](https://github.com/ilyes899)
 - [samiSam](https://github.com/samyarous11)
 - [Syamalatha11](https://github.com/Syamalatha11)
-- [Lê Khải ✅](https://github.com/dannhanong)
+- [dannhanong ✅](https://github.com/dannhanong)
