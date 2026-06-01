@@ -1182,6 +1182,7 @@ Mohammed Hussein
 - [Sarath kumar M](https://github.com/sarath121-21)
 - [Pavan Kumar](https://github.com/Gumparthypavankumar)
 - [Vishal K](https://github.com/vishalkvl-098)
+- [cassia-oss](https://github.com/cassia-oss)
 - [Tharun Thilak G R](https://github.com/tharunthilak1919-creator)
 - [ybw] (https://github.com/YBW2006)
 - [Ayesha Ali](https://github.com/ashmayve)
