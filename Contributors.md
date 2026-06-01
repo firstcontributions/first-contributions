@@ -25,6 +25,7 @@
 - [Ziba Imani](https://github.com/zibaimani)
 - [Kavin](https://github.com/atomthedark)
 - [6NaCl](https://github.com/6NaCl)
+- [Harsh] (https://github.com/impxharsh)
 - [VeeVal](https://github.com/VeeVal)
 - [NWT](http://github.com/Nyiwanna)
 - [8saku](https://github.com/8saku8)
