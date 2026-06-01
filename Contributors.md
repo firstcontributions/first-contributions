@@ -21,6 +21,7 @@
 - [padmarajnidagundi](https://github.com/padmarajnidagundi)
 - [test](https://github.com/test)
 - [Rayhan-099](https://github.com/rayhan-099)
+- [Johnathan Orizaba](https://github.com/johnathanorizaba15-max)
 - [Bruce4545](https://github.com/Bruce4545)
 - [Ziba Imani](https://github.com/zibaimani)
 - [Kavin](https://github.com/atomthedark)
