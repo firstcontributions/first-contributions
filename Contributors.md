@@ -26,6 +26,7 @@
 - [Rayhan-099](https://github.com/rayhan-099)
 - [Johnathan Orizaba](https://github.com/johnathanorizaba15-max)
 - [Bruce4545](https://github.com/Bruce4545)
+- [Ankit Patel](https://github.com/Ank0it)
 - [Ziba Imani](https://github.com/zibaimani)
 - [Kavin](https://github.com/atomthedark)
 - [6NaCl](https://github.com/6NaCl)
