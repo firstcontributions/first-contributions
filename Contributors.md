@@ -15,6 +15,7 @@
 - [AfiqN](https://github.com/AfiqN)
 - [fahaddev](https://github.com/fahadkhandev)
 - [Aleem](https://github.com/Aleem-628296)
+- [Harini Madasu](https://github.com/HariniMadasu/first-contributions.git)
 -[Jai Singh](https://github.com/jaisingh24)
 - [Sawastik Bhullar](https://github.com/sawastik7-bit)
 - [PedroVitor-Dev](https://github.com/PedroVitor-Dev)
