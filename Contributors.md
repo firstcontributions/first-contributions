@@ -236,6 +236,7 @@ OAT
 - [Deepa Choudhary](https://github.com/Deepachoudhary24)
 - [Deepanshu Singh](https://github.com/deep-xu)
 - [Deepika](https://github.com/deepikagithub-07)
+- [Radhika Kapoor](https://github.com/RadhikaKapoor383)
 - [Deepsikha Dash](https://github.com/deepsikha-dash)
 - [Demuliere Lucas](https://github.com/6zaille)
 - [Dev Goyal](https://github.com/DevGoyal9238)
