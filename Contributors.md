@@ -644,6 +644,7 @@ Jackson Gilstrap
 - [Rudra](https://github.com/Rudra-cryptx)
 - [Rupayan Saha](https://github.com/Cheezydip)
 - [Ruti](https://github.com/rutibergs)
+- [H-crowe](https://github.com/H-crowe)
 - [Abdulkarim Mohammed](https://github.com/amdev0)
 - [Ryan Gapp](https://github.com/ryan-gapp)
 - [Ryan Goods](https://github.com/feelgooddd)
