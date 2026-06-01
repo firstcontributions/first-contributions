@@ -1081,6 +1081,7 @@ https://github.com/1276604737-cloud
 - [Sanidhya Shrivastava](https://github.com/Sanidhya069)
 - [Meenal Pandey exploring open source](https://github.com/meenal-pandey)
 - [rathore]
+- [lowStakesDilemma](https://github.com/lowStakesDilemma)
 - [willbebettter]https://github.com/willbebettter
 - [Aidil Amal] (https://github.com/AidilAmal)
 - [hashemallaham963](https://github.com/hashemallaham963)
