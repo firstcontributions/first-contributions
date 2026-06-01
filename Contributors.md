@@ -1,4 +1,5 @@
 # Contributors
+- [Ashish Namdeo](https://github.com/ashishnamdeo16)
 - [Piyush Pritam Sethi](https://github.com/piyush37-6)
 - [JairHan](https://github.com/JairHan)
 - [Abivarsan](https://github.com/RAbivarsan)
