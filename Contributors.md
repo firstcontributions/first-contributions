@@ -147,6 +147,7 @@ Anyone from Korea?
 - [Bhavyatha Shetty](https://github.com/bhavyathashetty)
 - [Behruzbek Madiyarov](https://github.com/behruzbekjs)
 - [gavr malt](https://github.com/gavrmalt)
+- [Tiziano G.](https://github.com/tiz-88)
 - [Ben Cruwys](https://github.com/bencruwys)
 - [Ben Huotari](https://github.com/benhuotari)
 - [Benhein Michael Ruben L](https://github.com/ben002mr)
