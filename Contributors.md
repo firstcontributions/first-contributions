@@ -776,6 +776,7 @@ Prasanna Raj Neupane (https://github.com/prasannaneupane)
 - [Souka2](https://github.com/Souka2)
 - [Sourabh J](https://github.com/sourabhjagtap)
 - [SoyPikei](https://github.com/SoyPikei)
+- [Varshitha](https://github.com/Varshitha152004)
 - [Sprtschk](https://github.com/sprt-schk/)
 - [Squidpan Eleven](https://github.com/squidpan)
 - [Sridhar-EEE](https://github.com/sridhar-eee/)
@@ -1298,5 +1299,3 @@ varshini
 - [Syamalatha11](https://github.com/Syamalatha11)
 - [Mahamadsad Nadaf](https://github.com/mahamadsadnadaf-dev)
 - [Jay Patil](https://github.com/Jaypatil588)
-
-- [Varshitha](https://github.com/Varshitha152004)
