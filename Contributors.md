@@ -13,6 +13,7 @@
 - [Prajwal Hulle](https://github.com/prajwal-2509)
 - [Chetan](https://github.com/chetanakashV/)
 - [AfiqN](https://github.com/AfiqN)
+- [fahaddev](https://github.com/fahadkhandev)
 - [Aleem](https://github.com/Aleem-628296)
 -[Jai Singh](https://github.com/jaisingh24)
 - [Sawastik Bhullar](https://github.com/sawastik7-bit)
