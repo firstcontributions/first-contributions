@@ -1,6 +1,7 @@
 # Contributors
   [Ali ashraf] (https://github.com/alinct20-nct)
 - [Jashanjit Kaur](https://github.com/JashanjitKaur007)
+- [Avneesh](https://github.com/Avneesh26024)
 - [Ashish Namdeo](https://github.com/ashishnamdeo16)
 - [Piyush Pritam Sethi](https://github.com/piyush37-6)
 - [Amir Qafari] (github.com/qafariamirhossein)
