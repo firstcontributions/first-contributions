@@ -61,7 +61,7 @@ jobs:
         if: env.only_contributors == 'true' && env.one_line_change == 'true'
         uses: actions/github-script@v6
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.AUTO_MERGE_PAT }}
           script: |
             try {
             // Attempt to merge the pull request using the squash method
