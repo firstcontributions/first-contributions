@@ -38,7 +38,6 @@ akii
 - [volatilespectre](https://github.com/volatilespectre)
 - [@Zakiahsan-arch](https://github.com/Zakiahsan-arch)
 - [Aakanksha Jadhav](https://github.com/aakankshajadhav2006)
-- [Sourav Burman](https://github.com/thesouravburman)
 rashid adiyarambath
 - [Samir Khanal](https://github.com/shawmeer)
 - [mboulagh] (https://github.com/MINATOnmk) From Avictos Open Source Club, Morocco  .
@@ -221,6 +220,7 @@ OAT
 - [Deepika](https://github.com/deepikagithub-07)
 - [Deepsikha Dash](https://github.com/deepsikha-dash)
 - [Demuliere Lucas](https://github.com/6zaille)
+- [Sourav Burman](https://github.com/thesouravburman)
 - [Dev Goyal](https://github.com/DevGoyal9238)
 - [Dev Srijit](https://github.com/Devs7026)
 - [Devansh jani](https://github.com/DEV1208)
