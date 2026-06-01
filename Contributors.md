@@ -3,6 +3,7 @@
 - [Padmaraj](https://github.com/padmaraj)
 - [padmarajnidagundi](https://github.com/padmarajnidagundi)
 - [Rayhan-099](https://github.com/rayhan-099)
+- [Johnathan Orizaba](https://github.com/johnathanorizaba15-max)
 - [Bruce4545](https://github.com/Bruce4545)
 - [6NaCl](https://github.com/6NaCl)
 - [8saku](https://github.com/8saku8)
