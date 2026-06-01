@@ -17,7 +17,6 @@
 - [Y.  Wu(2th)](https://github.com/Wyh-max-star)
 - [kunal sharma](https://github.com/kunal-sharma-droid)
 - [Padmaraj](https://github.com/padmaraj)
-- Upasna Patel
 - [lamsal27](https://github.com/lamsal27)
 - [padmarajnidagundi](https://github.com/padmarajnidagundi)
 - [test](https://github.com/test)
@@ -1304,4 +1303,4 @@ varshini
 - [Syamalatha11](https://github.com/Syamalatha11)
 - [Mahamadsad Nadaf](https://github.com/mahamadsadnadaf-dev)
 - [Jay Patil](https://github.com/Jaypatil588)
-Upasna Patel
+   Upasna Patel
