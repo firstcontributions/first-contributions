@@ -1096,6 +1096,7 @@ https://github.com/1276604737-cloud
 - [Krittika Tiwari](https://github.com/Krittika-Tiwari)
 - [Pranali Bhusanar](https://github.com/PranaliBhusnar)
 - [Gimerbone](https://github.com/Gimerbone)
+- [ShashwatShubham](https://github.com/shAsh-cy)
 - [AkariTrask](https://github.com/AkariTrask)
 - [Muskan Yadav](https://github.com/pikmuse)
 - [Heinz Gastón](https://github.com/gastonheinz)
