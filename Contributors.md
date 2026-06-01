@@ -44,6 +44,7 @@ akii
 - [@Zakiahsan-arch](https://github.com/Zakiahsan-arch)
 - [Aakanksha Jadhav](https://github.com/aakankshajadhav2006)
 rashid adiyarambath
+- [Priyansh Dugar](https://github.com/Priyansh10ff)
 - [Samir Khanal](https://github.com/shawmeer)
 - [mboulagh] (https://github.com/MINATOnmk) From Avictos Open Source Club, Morocco  .
 - [Ramnivas Suthar](https://github.com/ramnivas11)
