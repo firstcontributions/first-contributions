@@ -12,6 +12,7 @@
 - [Chetan](https://github.com/chetanakashV/)
 - [AfiqN](https://github.com/AfiqN)
 - [Aleem](https://github.com/Aleem-628296)
+- [Harini](https://github.com/HariniMadasu/first-contributions.git)
 -[Jai Singh](https://github.com/jaisingh24)
 - [Sawastik Bhullar](https://github.com/sawastik7-bit)
 - [Y.  Wu(2th)](https://github.com/Wyh-max-star)
