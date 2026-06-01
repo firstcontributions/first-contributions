@@ -1307,6 +1307,7 @@ varshini
 - [Ayush Gade](https://github.com/ayushgade06)
 - [Igor Giamoniano](https://github.com/igorgiamoniano)
 - [Ayush Gade](https://github.com/ayushgade06) 
+- [Aditya Jain](https://github.com/Rookie-1207)
 - [Muhammed Nihad P P](https://github.com/Nihad257)
 - [Sneha Arun Naik](https://github.com/SnehaAN144)
 - [miyuki_h](https://github.com/HM19Lab)
