@@ -1,6 +1,7 @@
 # Contributors
 - [Ashish Namdeo](https://github.com/ashishnamdeo16)
 - [Piyush Pritam Sethi](https://github.com/piyush37-6)
+- [Amir Qafari] (github.com/qafariamirhossein)
 - [JairHan](https://github.com/JairHan)
 - [Abivarsan](https://github.com/RAbivarsan)
 - [Abhijeet Raj] (https://github.com/Abhijeetraj01)
@@ -20,10 +21,12 @@
 - [padmarajnidagundi](https://github.com/padmarajnidagundi)
 - [test](https://github.com/test)
 - [Rayhan-099](https://github.com/rayhan-099)
+- [Johnathan Orizaba](https://github.com/johnathanorizaba15-max)
 - [Bruce4545](https://github.com/Bruce4545)
 - [Ziba Imani](https://github.com/zibaimani)
 - [Kavin](https://github.com/atomthedark)
 - [6NaCl](https://github.com/6NaCl)
+- [Harsh] (https://github.com/impxharsh)
 - [VeeVal](https://github.com/VeeVal)
 - [NWT](http://github.com/Nyiwanna)
 - [8saku](https://github.com/8saku8)
@@ -58,6 +61,7 @@ Anyone from Korea?
 - [Ayush Gangwar](https://github.com/ayush3011)
 - [Abhishek](https://github.com/AbhiVanya)
 - [limkyulee](https://github.com/limkyulee)
+- [Nikhil Kumar Singh](https://github.com/DarkGod04)
 - [Niharika Gupta](https://github.com/guptaniharika8953)
 - [Likhitha](https://github.com/likhitha2005-alt)
 - [Aamir](https://github.com/AamirMNAamir)
@@ -338,6 +342,7 @@ OAT
 - [Hamad Ullah](https://github.com/hammadaiy/)
 - [Han](https://github.com/vy088473)
 - [Haneesh Reddy](https://github.com/Haneesh99)
+- [Harsh Anand] (https://github.com/impxharsh)
 - [Haoyueck](https://github.com/haoyueck)
 - [Henrique](https://github.com/roberto0906)
 - [Herald Fortunato](https://github.com/Fortunato-Herald)
@@ -350,7 +355,7 @@ OAT
 - [Hisham](https://github.com/sikehish)
 - [Hong Zh](https://github.com/ho-zh)
 - [kai - https://github.com/RakeshKayal] Thank you for helping me as a beginner who wants to contribute in open source
--[KAIFUR RAHAMAN](https://github.com/Kaif145)
+- [KAIFUR RAHAMAN](https://github.com/Kaif145)
 - [Hritvika Chunduri](https://github.com/HritvikaC)
 - [Aclguh](https://github.com/Aclguh)
 - [HuginnDani](https://github.com/HuginnDani)
@@ -623,6 +628,7 @@ Jackson Gilstrap
 - [Ricardo Takara](https://github.com/tiedmud)
 - [Richeal](https://github.com/richeal-cmd)
 - [Ricidleiv](https://github.com/tondatto)
+- [Hayzie] (https://github.com/hayzie)
 - [Rishika](https://github.com/RISHIKA-A-S)
 - [Rishikesh Singh](https://github.com/errishi)
 - [Aman Kumar Verma](https://github.com/amanbuilds-hub)
@@ -806,6 +812,7 @@ Ragib Ishrak
 - [Sushit Lal Pakrashy](https://github.com/
 Sushit-prog)
 - [Arpita Birla](https://github.com/Arpitabirla)
+- [Sourav Burman](https://github.com/thesouravburman)
 - [Sushka_s_makom](https://github.com/Sushka_s_makom)
 - [Sushma](https://github.com/Sushma-0179)
 - Reuben
@@ -1116,6 +1123,7 @@ https://github.com/1276604737-cloud
 - [Sem_Andru](https://github.com/quort3)
 - [avoforme] (https://github.com/avoforme)
 - [jeeva] (https://github.com/Jeeva1070)
+- [vossvayne] (https://github.com/vossvayne)
 - [jimi](https://p)
 Mohammed Hussein
 - Alan Parrish was here
@@ -1303,3 +1311,5 @@ varshini
 - [Syamalatha11](https://github.com/Syamalatha11)
 - [Mahamadsad Nadaf](https://github.com/mahamadsadnadaf-dev)
 - [Jay Patil](https://github.com/Jaypatil588)
+- [Cod1doc](https://github.com/Cod1doc)
+- [Vishal Patel](https://github.com/vishalpatel2023)
