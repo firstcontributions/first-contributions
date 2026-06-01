@@ -56,6 +56,7 @@ Anyone from Korea?
 - [Ayush Gangwar](https://github.com/ayush3011)
 - [Abhishek](https://github.com/AbhiVanya)
 - [limkyulee](https://github.com/limkyulee)
+- [Nikhil Kumar Singh](https://github.com/DarkGod04)
 - [Niharika Gupta](https://github.com/guptaniharika8953)
 - [Likhitha](https://github.com/likhitha2005-alt)
 - [Aamir](https://github.com/AamirMNAamir)
