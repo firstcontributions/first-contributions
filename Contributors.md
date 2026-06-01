@@ -339,6 +339,7 @@ OAT
 - [Hamad Ullah](https://github.com/hammadaiy/)
 - [Han](https://github.com/vy088473)
 - [Haneesh Reddy](https://github.com/Haneesh99)
+- [Harsh Anand] (https://github.com/impxharsh)
 - [Haoyueck](https://github.com/haoyueck)
 - [Henrique](https://github.com/roberto0906)
 - [Herald Fortunato](https://github.com/Fortunato-Herald)
