@@ -186,6 +186,7 @@ Maliha
 - [Bruno Buss](https://github.com/bussbruno)
 - [Bruno Figueiredo](https://github.com/BrunollFigueiredo)
 - [ByteTechno](https://github.com/ByteTechno)
+- [Jo Kershaw](https://github.com/jo-kershaw)
 - [Bulbul Malik](https://github.com/bulbulmalik)
 - [C. Yin](https://github.com/cy-Yin)
 - [Caden Warren](https://github.com/cw-0)
