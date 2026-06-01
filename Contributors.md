@@ -350,7 +350,7 @@ OAT
 - [Hisham](https://github.com/sikehish)
 - [Hong Zh](https://github.com/ho-zh)
 - [kai - https://github.com/RakeshKayal] Thank you for helping me as a beginner who wants to contribute in open source
--[KAIFUR RAHAMAN](https://github.com/Kaif145)
+- [KAIFUR RAHAMAN](https://github.com/Kaif145)
 - [Hritvika Chunduri](https://github.com/HritvikaC)
 - [Aclguh](https://github.com/Aclguh)
 - [HuginnDani](https://github.com/HuginnDani)
@@ -623,6 +623,7 @@ Jackson Gilstrap
 - [Ricardo Takara](https://github.com/tiedmud)
 - [Richeal](https://github.com/richeal-cmd)
 - [Ricidleiv](https://github.com/tondatto)
+- [Hayzie] (https://github.com/hayzie)
 - [Rishika](https://github.com/RISHIKA-A-S)
 - [Rishikesh Singh](https://github.com/errishi)
 - [Aman Kumar Verma](https://github.com/amanbuilds-hub)
