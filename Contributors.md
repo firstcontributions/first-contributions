@@ -40,6 +40,7 @@ akii
 - [Nagaraj Desai](https://github.com/nagarajd11)
 - [Aryan](https://github.com/aryan-neogi)
 - [Anuraag Tripathy](https://github.com/AnuraagTripathy)
+- [Elijah Almanza] (https://github.com/elijahalram)
 - [Ashritha Kadarla](https://github.com/ashrithakadarla)
 -[Smarpit Malik](https://github.com/smarpitm)
 - [s4d0x-dev](https://github.com/s4d0x-dev)
