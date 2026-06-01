@@ -1171,9 +1171,9 @@ https://github.com/1276604737-cloud
 - [Julio Garcia](https://github.com/jul10gg)
 - [darkyellowcat](https://github.com/darkyellowcat)
 - Daksh Mehta
-- [CS106LC](https://github.com/CS106LC)
 - [Thejaswini](https://github.com/Thejaswini-VS)
 - [PRIYAL DESHMUKH]
+- [CS106LC](https://github.com/CS106LC)
 - [Iketutwidiyane](https://github.com/IKetutWidiyane)
 - dhrux11
 - [Sachin Mehta](https://github.com/SachinMehta-sgoo)
