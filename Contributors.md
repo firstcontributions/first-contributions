@@ -17,6 +17,7 @@
 - [sysrecall](https://github.com/sysrecall)
 - [zhj](https://github.com/ajajaj238)
 - [Prajwal Hulle](https://github.com/prajwal-2509)
+- [Can Saray](https://github.com/cansaray956-svg)
 - [Chetan](https://github.com/chetanakashV/)
 - [AfiqN](https://github.com/AfiqN)
 - [fahaddev](https://github.com/fahadkhandev)
