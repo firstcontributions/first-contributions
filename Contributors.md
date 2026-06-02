@@ -40,6 +40,7 @@
 - [Padmaraj](https://github.com/padmaraj)
 - [aaryan padgilwar](https://github.com/aaryanpadgilwar-01)
 - [lamsal27](https://github.com/lamsal27)
+- [christian.lee](https://github.com/christianlee-dev)
 - [padmarajnidagundi](https://github.com/padmarajnidagundi)
 - [test](https://github.com/test)
 - [Rayhan-099](https://github.com/rayhan-099)
