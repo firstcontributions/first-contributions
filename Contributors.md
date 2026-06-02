@@ -17,6 +17,7 @@
 - [Chetan](https://github.com/chetanakashV/)
 - [AfiqN](https://github.com/AfiqN)
 - [fahaddev](https://github.com/fahadkhandev)
+- [Foysal Imtiaz Sabab](https://github.com/foysal-imtiaz/)
 - [Alma](https://github.com/Yazz405)
 - [Aleem](https://github.com/Aleem-628296)
 - [Harini Madasu](https://github.com/HariniMadasu/first-contributions.git)
