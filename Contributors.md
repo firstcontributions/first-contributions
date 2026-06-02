@@ -15,6 +15,7 @@
 - [Chetan](https://github.com/chetanakashV/)
 - [AfiqN](https://github.com/AfiqN)
 - [fahaddev](https://github.com/fahadkhandev)
+- [Alma](https://github.com/Yazz405)
 - [Aleem](https://github.com/Aleem-628296)
 - [Harini Madasu](https://github.com/HariniMadasu/first-contributions.git)
 -[Jai Singh](https://github.com/jaisingh24)
