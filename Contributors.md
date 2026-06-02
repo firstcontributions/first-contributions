@@ -96,6 +96,7 @@ Anyone from Korea?
 - [Chandrasekar Ravi](https://github.com/ChandruRavi3708)
 - [Aarjav Patriya](https://github.com/Aarjav0p)
 - [Aaryan Pandey](https://github.com/aaryanpandey29)
+- [Dan Nguyen](https://github.com/dannguyen24)
 - [Abhishek Agrawal](https://github.com/agrawalabhi881-a11y)
 - [Mayur Lad](https://github.com/mayurlad)
 - [Djombissi Daniels](https://github.com/DMSD003)
