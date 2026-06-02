@@ -1,0 +1,1 @@
+This is one of the way for practise the git collbration with team.
