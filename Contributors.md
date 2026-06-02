@@ -266,6 +266,7 @@ OAT
 - [Dhanush](https://github.com/imdhanukulkarni)
 - [Dharani Eswaramurthi](https://github.com/Dharani-Eswaramurthi)
 - [Dharun R](https://github.com/dharun36)
+- [Apurvam Arya](https://github.com/apurvamarya)
 - [DhirajB05](https://github.com/DhirajB05)
 - [DhritiTS](https://github.com/DhritiTS)
 - [Dhruv Srivastava](https://github.com/Dhruvh-maker)
