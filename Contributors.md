@@ -1343,6 +1343,6 @@ varshini
 - [Vishal Patel](https://github.com/vishalpatel2023)
 - [Puskar Mishra](https://github.com/puskar09)
 - [Kareena](https://github.com/karry25)
-- [Nick](https://github.com/nickknz)
+- [Nick] (https://github.com/nickknz)
 [Shiv Kumar Rathor](https://github.com/shiv1234-byte)
 
