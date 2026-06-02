@@ -11,6 +11,7 @@
 - [Ashish Namdeo](https://github.com/ashishnamdeo16)
 - [Kevin vataliya]
 - [Piyush Pritam Sethi](https://github.com/piyush37-6)
+- [Aryan-Londhe](https://github.com/Aryan-Londhe)
 - [Amir Qafari] (github.com/qafariamirhossein)
 - [JairHan](https://github.com/JairHan)
 - [Abivarsan](https://github.com/RAbivarsan)
@@ -25,6 +26,7 @@
 - [AfiqN](https://github.com/AfiqN)
 - [Riya Bangad](https://github.com/RiyaBangad)
 - [fahaddev](https://github.com/fahadkhandev)
+- [Bekir Kasan](https://github.com/Bskasan)
 - [Foysal Imtiaz Sabab](https://github.com/foysal-imtiaz/)
 - [Alma](https://github.com/Yazz405)
 - [Aleem](https://github.com/Aleem-628296)
@@ -79,6 +81,7 @@ rashid adiyarambath
 - [Anand Mani Tiwari](https://github.com/anandmt)
 - [Aboubaker Amajjou](https://github.com/P4IN444)
 Anyone from Korea?
+- [Sunny]
 -[Sankalp Vats](https://github.com/sankalp19projects)
 - [Varma Rahul](https://github.com/imRvarma)
 - [Bhumi](https://github.com/bhumiks08)
@@ -1338,6 +1341,7 @@ varshini
 - [yanwenji99](https://github.com/yanwenji99)
 - [Gallantly5399](https://github.com/Gallantly5399)
 - [anjali ajith](https://github.com/queenelizabethII879)
+- [I Kalra] ()
 - [Aishwariya](https://github.com/aishwariya192006)
 - [Ayush Gade](https://github.com/ayushgade06)
 - [Igor Giamoniano](https://github.com/igorgiamoniano)
@@ -1373,6 +1377,7 @@ varshini
 - [rohit kumar sharma] (https://github.com/rameest2277)
 - [Shiv Kumar Rathor](https://github.com/shiv1234-byte)
 - [SwiftLong](https://github.com/swiftlong)
+- [Arpan](https://www.linkedin.com/in/kalsariya-arpan-a474a8379/)
 - [zhoujiaxin0428](https://github.com/zhoujiaxin0428)
 - [ANSH-champ](https://github.com/ANSH-champ)
 - [UOD](https://github.com/universeofdestruction)
