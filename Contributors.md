@@ -1340,4 +1340,8 @@ varshini
 - [Puskar Mishra](https://github.com/puskar09)
 - [Kareena](https://github.com/karry25)
 - [Nick] (https://github.com/nickknz)
+<<<<<<< HEAD
 - [Muhammad Mehedi Hasan](https://github.com/m-mehedi)
+=======
+- [Muhammad Mehedi Hasan](https://github.com/m-mehedi)
+>>>>>>> 2ac8c638e796df63bed15eb302549d49a0c61730
