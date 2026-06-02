@@ -96,6 +96,7 @@ Anyone from Korea?
 [Prince Das](https://github.com/prince0021)
 [abhishek pal](https://github.com/abhishek123pal) thanks for helping bro . 
 - [Aashish Arya](https://github.com/aasheeeeesh)
+- [Hanuman](https://github.com/CH-Hanuman)
 - [Abdellah](https://github.com/Abdev314)
 - [Dpk](https://github.com/dpkbihani-blip)
 - [Abdelrahman_Mohye](https://github.com/aboda-0100011)
