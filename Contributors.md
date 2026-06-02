@@ -146,6 +146,7 @@ Anyone from Korea?
 - [Atharva Jadhav](https://github.com/DrDrunkenstien-10)
 - [Athulkrishna](https://github.com/AthulKrishna-736)
 - [Atul Pandey](https://github.com/atulpandey9)
+- [Chhaya Naidu](https://github.com/ChhayaN6)
 - [Avani J C](https://github.com/Avani24-byte)
 - [Nikhil Verma](https://github.com/nikhil9verma)
 - [Sandra] (https://github.com/Sandra-1209)
