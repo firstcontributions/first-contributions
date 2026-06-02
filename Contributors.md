@@ -18,6 +18,7 @@
 - [Alma](https://github.com/Yazz405)
 - [Aleem](https://github.com/Aleem-628296)
 - [Harini Madasu](https://github.com/HariniMadasu/first-contributions.git)
+- [Olha Sorych](https://github.com/colaola20/first-contributions.git)
 -[Jai Singh](https://github.com/jaisingh24)
 - [Sawastik Bhullar](https://github.com/sawastik7-bit)
 - [PedroVitor-Dev](https://github.com/PedroVitor-Dev)
