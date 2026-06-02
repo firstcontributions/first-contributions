@@ -518,6 +518,7 @@ OAT
 - [Ninad Ubale](https://github.com/NinadUbale)
 - [NinoYin](https://github.com/NinoYin)
 - [Nishant K Joshyabhatla](https://github.com/nishantkj911)
+- [Nishant Trivedi](https://github.com/Nish0178)
 - [Nishant kumar](https://github.com/nishantraj06)
 - [Nishk Mistry](https://github.com/nishkmistry)
 - [Dewanshi Baghel](https://github.com/dewanshi-txt)
