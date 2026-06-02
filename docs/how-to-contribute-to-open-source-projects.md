@@ -76,3 +76,16 @@ When contributing, adhere to the project’s guidelines:
 Contributing to open source is a journey that offers immense personal and professional growth. By starting small, staying consistent, and engaging with the community, you can make meaningful contributions while honing your skills. Remember, open source thrives on collaboration, and every contribution—no matter how small—helps build a better digital world. Ready to take the plunge? Find a project that excites you, make your first contribution, and join the global open source movement today!
 
 Open source is more than just code — it’s about people, collaboration, and continuous learning. By taking small, consistent steps and engaging with the community, you’ll not only grow as a developer but also make meaningful contributions to projects used by millions.
+
+## How to Become a Strong Contributor
+
+After a few successful PRs:
+
+Review other people's pull requests
+Help answer community questions
+Improve documentation
+Fix larger bugs
+Build features
+Participate in project discussions
+
+The best contributors are not necessarily the best programmers—they are reliable, communicative, and consistent.
