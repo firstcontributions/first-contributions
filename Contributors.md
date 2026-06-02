@@ -1,5 +1,6 @@
 - Harshit Prajapati# Contributors
 - [Ashik Ahmed](https://github.com/trueashik)
+- [Nived K S](https://github.com/NIVED-CYBER)
 - [Purvi Dhiman](https://github.com/PurviDhiman1)
 - [Vishal Kumar] (https://github.com/kumar-vishal01)
   [Ali ashraf] (https://github.com/alinct20-nct)
