@@ -20,6 +20,7 @@
 - [Can Saray](https://github.com/cansaray956-svg)
 - [Chetan](https://github.com/chetanakashV/)
 - [AfiqN](https://github.com/AfiqN)
+- [Riya Bangad](https://github.com/RiyaBangad)
 - [fahaddev](https://github.com/fahadkhandev)
 - [Foysal Imtiaz Sabab](https://github.com/foysal-imtiaz/)
 - [Alma](https://github.com/Yazz405)
