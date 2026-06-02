@@ -1,4 +1,4 @@
-# Contributors
+- Harshit Prajapati# Contributors
 - [Ashik Ahmed](https://github.com/trueashik)
 - [Purvi Dhiman](https://github.com/PurviDhiman1)
   [Ali ashraf] (https://github.com/alinct20-nct)
@@ -1347,3 +1347,4 @@ varshini
 - [Puskar Mishra](https://github.com/puskar09)
 - [Kareena](https://github.com/karry25)
 - [Nick] (https://github.com/nickknz)
+- [Classicharsh](https://github.com/Classicharsh)
