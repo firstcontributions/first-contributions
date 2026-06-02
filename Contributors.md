@@ -26,6 +26,7 @@
 - [AfiqN](https://github.com/AfiqN)
 - [Riya Bangad](https://github.com/RiyaBangad)
 - [fahaddev](https://github.com/fahadkhandev)
+- [Bekir Kasan](https://github.com/Bskasan)
 - [Foysal Imtiaz Sabab](https://github.com/foysal-imtiaz/)
 - [Alma](https://github.com/Yazz405)
 - [Aleem](https://github.com/Aleem-628296)
