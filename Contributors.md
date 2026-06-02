@@ -122,6 +122,7 @@ Anyone from Korea?
 - [Abhay Agnihotri](https://github.com/Abhay-Agnihotri01/)
 - [Aashin Rajeev](https://github.com/aashin1403)
 - [Abhay Sharma](https://github.com/asabhaysharma)
+- [Nicolas Antonio](https://github.com/nicolasantonioa)
 - [AmberStars](https://github.com/AmberStars)
 - [Anish Johari](https://github.com/AnishJohari)
 - [Elias Alvarado Costa Rica][https://github.com/eliasalvaradocr]
