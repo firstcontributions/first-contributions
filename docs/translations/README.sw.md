@@ -16,24 +16,24 @@ Kusoma makala na kuangalia mafunzo ya video yaweza kusaidia, lakini ni jambo lip
 
 Kama hauna git kwenye kompyuta yako, [pakua](https://help.github.com/articles/set-up-git/).
 
-## Tengeneza nakala ya repository kwenye akaunti yako ya Github
+## Tengeneza nakala ya hazina kwenye akaunti yako ya Github
 
-'Fork' repository hii kwa kubonyeza kitufe kilichopo juu ya ukurasa huu
-Kwa kufanya hivyo nakala ya repository hii itatengenezwa kwenye akaunti yako ya Github.
+Nakili(Fork) hazina hii kwa kubonyeza kitufe kilichopo juu ya ukurasa huu
+Kwa kufanya hivyo nakala ya hazina hii itatengenezwa kwenye akaunti yako ya Github.
 
-## Tengeneza nakala ya repository kwenye kompyuta yako
+## Tengeneza nakala ya hazina kwenye kompyuta yako
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone hazina hii" />
 
-Sasa clone repository kwenye kompyuta yako. Nenda kwenye akaunti yako ya Github bonyeza kitufe kilichoandikwa clone na baada ya hapo bonyeza kitufe kilichoandikwa *copy to clipboard* icon.
+Sasa clone hazina kwenye kompyuta yako. Nenda kwenye akaunti yako ya Github bonyeza kitufe kilichoandikwa clone na baada ya hapo bonyeza kitufe kilichoandikwa *copy to clipboard*.
 
-Fungua terminal >_ kwenye kompyuta yako kisha command ifuatayo:
+Fungua terminal >_ kwenye kompyuta yako kisha amri ifuatayo:
 
 ```bash
-git clone "url-uliyo-nakili-github"
+git clone "kiungio-ulicho-nakili-github"
 ```
 
-url hiyo inapatikana kwenye hatua ya ku clone, hakikisha unaondoa fungua semi na funga semi.
+Kiungio hicho kinapatikana kwenye hatua ya kupakua nakala(clone), hakikisha unaondoa fungua semi na funga semi.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="nakili URL kwenda clipboard" />
 
@@ -43,29 +43,29 @@ Kwa mfano:
 git clone https://github.com/jina-lako-unalotumia-Github/first-contributions.git
 ```
 
-Kwa kufanya hivyo utakuwa umenakili first-contributions repository kutoka Github kwenda kwenye kompyuta yako.
+Kwa kufanya hivyo utakuwa umenakili first-contributions hazina kutoka Github kwenda kwenye kompyuta yako.
 
-## Tengeneza branch:
+## Tengeneza tawi:
 
-Kwenye kompyuta yako, ukiwa kwenye terminal ingia kwenye repository uliyonakili
+Kwenye kompyuta yako, ukiwa kwenye terminal ingia kwenye hazina uliyonakili
 
 ```bash
 cd first-contributions
 ```
 
-Sasa tengeneza branch kwa kutumia command ifuatayo `git checkout` command:
+Sasa tengeneza tawi kwa kutumia amri ifuatayo `git checkout` amri:
 
 ```bash
-git checkout -b <add-your-new-branch-name>
+git checkout -b <jina-la-tawi-jipya>
 ```
 
 Kwa mfano:
 
 ```bash
-git checkout -b add-luke-oliff
+git checkout -b hariri-majina-ya-wachangiaji
 ```
 
-(Jina la branch sio lazima lianze na neno *add*.)
+(Jina la tawi sio lazima lianze na neno *ongeza*.)
 
 ## Fanya mabadiliko na baada ya hapo commit:
 
@@ -73,35 +73,35 @@ Sasa fungua faili linaloitwa `Contributors.md`, Andika jina lako. Usiweke jina l
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
-Ukiwa ndani ya directory hii kwenye terminal command ya `git status` itakuonesha mabadiliko yote uliyoyafanya.
+Ukiwa ndani ya directory hii kwenye terminal amri ya `git status` itakuonesha mabadiliko yote uliyoyafanya.
 
-Jumuisha mabadiliko yote uliyoyafanya kwenye branch uliyotengeneza kwa kutumia command `git add` command:
+Jumuisha mabadiliko yote uliyoyafanya kwenye tawi uliyotengeneza kwa kutumia amri `git add` amri:
 
 ```bash
 git add Contributors.md
 ```
 
-Sasa commit mabadiliko uliyoyafanya kwa kutumia command ya `git commit`:
+Sasa commit mabadiliko uliyoyafanya kwa kutumia amri ya `git commit`:
 
 ```bash
-git commit -m "Add <jina> to Contributor list"
+git commit -m "Ongeza <jina> kwenye orodha ya wachangiaji"
 ```
 
 Badilisha neno `<jina>` na jina lako.
 
 ## Tuma mabadiliko uliyoyafanya kwenda Github
 
-Tuma mabadiliko uliyoyafanya kwa kutumia command ya `git push`:
+Tuma mabadiliko uliyoyafanya kwa kutumia amri ya `git push`:
 
 ```bash
-git push origin <jina-la-branch>
+git push origin <jina-la-tawi>
 ```
 
-Badilisha `<jina-la-branch>` na jina la branch ulilotengeneza hapo awali.
+Badilisha `<jina-la-tawi>` na jina la tawi ulilotengeneza hapo awali.
 
 ## Kusanya mabadiliko uliyoyafanya kwa ajili ya uhakiki
 
-Ukiwa Github kwenye repository hii utaona kitufe kilichoandikwa `Compare & pull request`. Bonyeza kitufe hicho.
+Ukiwa Github kwenye hazina hii utaona kitufe kilichoandikwa `Compare & pull request`. Bonyeza kitufe hicho.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="unda pull request" />
 
@@ -109,11 +109,11 @@ Sasa tuma pull request.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="tuma pull request" />
 
-Haitochukua muda mrefu nitaanza kuchukua mabadiliko yaliyofanyika na kuyapeleka kwenye master branch ya mradi huu. Utapokea email kukujulisha mara tu hatua hii itakapokamilika.
+Haitochukua muda mrefu nitaanza kuchukua mabadiliko yaliyofanyika na kuyapeleka kwenye master tawi ya mradi huu. Utapokea email kukujulisha mara tu hatua hii itakapokamilika.
 
 ## Nini cha kufanya baada ya hapa?
 
-Hongera! Umeweza kumaliza hatua za msingi ambazo ni _fork -> clone -> edit -> PR_ ambazo utakutana nazo mara nyingi ukiwa kama mchangiaji!
+Hongera! Umeweza kumaliza hatua za msingi ambazo ni _nakili-> pakua nakala -> hariri -> omba muunganiko_ ambazo utakutana nazo mara nyingi ukiwa kama mchangiaji!
 
 Sherehekea hatua uliyofikia na wajulishe wengine kwa kwenda kwenye [wavuti](https://roshanjossey.github.io/first-contributions/#social-share).
 
