@@ -483,6 +483,7 @@ OAT
 - [Madhav Singh](https://github.com/maddy710)
 - [Markus Priede] (https://github.com/markuspriede)
 - [Moe Nyi](https://github.com/moenyi12-kraken)
+- [Manan Pal](https://github.com/mananpal-dev)
 - [Monica Fagerli](https://github.com/MonicaKristine)
 - [Muhammed Shareef](https://github.com/shareefmx)
 - [Muhammad Habiibullah](https://github.com/habiibullahm)
