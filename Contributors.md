@@ -6,6 +6,7 @@
 - [Ali ashraf] (https://github.com/alinct20-nct)
 - [Jashanjit Kaur](https://github.com/JashanjitKaur007)
 - [Avneesh](https://github.com/Avneesh26024)
+- [SalvadorCalero](https://github/SalvadorCalero)
 - [Ashish Namdeo](https://github.com/ashishnamdeo16)
 - [Kevin vataliya]
 - [Piyush Pritam Sethi](https://github.com/piyush37-6)
