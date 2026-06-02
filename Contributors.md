@@ -6,6 +6,7 @@
 - [Jashanjit Kaur](https://github.com/JashanjitKaur007)
 - [Avneesh](https://github.com/Avneesh26024)
 - [Ashish Namdeo](https://github.com/ashishnamdeo16)
+- [Kevin vataliya]
 - [Piyush Pritam Sethi](https://github.com/piyush37-6)
 - [Amir Qafari] (github.com/qafariamirhossein)
 - [JairHan](https://github.com/JairHan)
