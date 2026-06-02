@@ -374,7 +374,7 @@ OAT
 - [Henrique](https://github.com/roberto0906)
 - [Herald Fortunato](https://github.com/Fortunato-Herald)
 - [Rochard Wentzinger](https://github.com/Rorocode911)
-- [Matt D](https://github.com/mdelisle-Qosina)
+- [Matt Delisle](https://github.com/mdelisle-Qosina)
 - [Hernan Rico](https://github.com/hernanr2205)
 - [Neon Muthoni](https://github.com/Error404notf)
 - [Himanshu](https://github.com/Hima1234gh/)
