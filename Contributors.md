@@ -1,4 +1,5 @@
-- Harshit Prajapati# Contributors
+# Contributors
+- Harshit Prajapati
 - [Ashik Ahmed](https://github.com/trueashik)
 - [Amruta Wavdhane](https://github.com/Amruta-32)
 - [Purvi Dhiman](https://github.com/PurviDhiman1)
@@ -19,6 +20,7 @@
 - [zhj](https://github.com/ajajaj238)
 - [Prajwal Hulle](https://github.com/prajwal-2509)
 - [Can Saray](https://github.com/cansaray956-svg)
+- [Cole Ali](https://github.com/aliooo36)
 - [Chetan](https://github.com/chetanakashV/)
 - [AfiqN](https://github.com/AfiqN)
 - [Riya Bangad](https://github.com/RiyaBangad)
