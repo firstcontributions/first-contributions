@@ -1392,3 +1392,4 @@ varshini
 - [Amit Dankner](https://github.com/5z9mqq55vw-art)
 - [Uyen Nguyen](https://github.com/uyen-nguyen-190304)
 - [Yasir Almutairi](https://github.com/YMutiriDev)
+- [Karima Ali](https://github.com/Kari3as)
