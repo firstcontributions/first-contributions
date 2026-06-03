@@ -681,6 +681,7 @@ Jackson Gilstrap
 - [Rashmi Apagundi](https://github.com/Rashmi-apagundi)
 - [Rathore Rajpal](https://github.com/Rathore-Rajpal)
 - [Raunak katiyar](https://github.com/raunak-bigdp)
+- [Rawsie Nguyen](https://github.com/rawsie-dev)
 - [Ray Silva](https://github.com/RSM23191)
 - [Rein Ding](https://github.com/ReinDing)
 - [Reynhard](https://github.com/reybui)
