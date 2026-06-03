@@ -1427,3 +1427,4 @@ varshini
 - [Nicola Trinca](https://github.com/trinik15)
 
 - [Eric Liang](https://github.com/erickyy29)
+- [Kate Sahrchileva] (https://github.com/ekaterinam47)
