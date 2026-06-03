@@ -1434,7 +1434,7 @@ varshini
 - [Issac Zerubbabel](https://github.com/issaczerubbabela)
 - [Atul Rastogi](https://github.com/atulrasto)
 - [Nicola Trinca](https://github.com/trinik15)
-
+- [Hugo Byrne] (https://github.com/HugePsyduck)
 - [Eric Liang](https://github.com/erickyy29)
 - [Eric Liang](https://github.com/erickyy29)
 - [Kate Sahrchileva] (https://github.com/ekaterinam47)
