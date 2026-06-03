@@ -36,12 +36,12 @@ jobs:
             const isOnlyContributors = filenames.length === 1 && filenames[0] === 'Contributors.md';
 
             const { additions, deletions } = context.payload.pull_request;
-            const isOneLineChange = (additions === 1 && deletions === 0);
+            const isLinesChangedUnderThreshod = (additions < 5 && deletions < 4);
 
-            core.setOutput('only_contributors', isOnlyContributors && isOneLineChange);
+            core.setOutput('only_contributors', isOnlyContributors && isLinesChangedUnderThreshod);
             core.setOutput('filenames', filenames.join(', '));
 
-            const moreLineChanged = (isOnlyContributors && !isOneLineChange)
+            const moreLineChanged = (isOnlyContributors && !isLinesChangedUnderThreshod)
 
             // set true if multiple changed if only isOnlyContributors 
             core.setOutput('isMultipleLineChanged', moreLineChanged)
@@ -84,6 +84,7 @@ jobs:
                   'https://c.tenor.com/HJ0iSKwIG28AAAAC/yes-baby.gif',
                   'https://c.tenor.com/4blWuIh5MIYAAAAC/baby-yoda.gif',
                   'https://c.tenor.com/B_zYdea4l-4AAAAC/yay-minions.gif',
+                  'https://c.tenor.com/JHndvQVcsBUAAAAC/fern-pat-fern-good-job.gif',
                   'https://media1.giphy.com/media/artj92V8o75VPL7AeQ/giphy.gif',
                   'https://media2.giphy.com/media/IwAZ6dvvvaTtdI8SD5/giphy.gif',
                   'https://media0.giphy.com/media/z8gtBVdZVrH20/giphy.gif',
