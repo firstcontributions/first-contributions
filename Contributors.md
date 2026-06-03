@@ -1436,3 +1436,4 @@ varshini
 - [Eric Liang](https://github.com/erickyy29)
 - [Kate Sahrchileva] (https://github.com/ekaterinam47)
 - [Arav Jain] (https://github.com/Aravj217)
+- [Angela Shylyn](https://github.com/Shylyn05)
