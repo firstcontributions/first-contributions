@@ -1,5 +1,6 @@
 # Contributors
    - Rajlakshmi
+   - Sumit Kumar(https://github.com/sumitraj7766)
 - [Jagriti Tiwari](https://github.com/jagriti-codes)
 - [Gauransh Maheshwari](https://github.com/kardocode)
 - [1Burhanuddin](https://github.com/1Burhanuddin)
