@@ -1437,3 +1437,4 @@ varshini
 - [Kate Sahrchileva] (https://github.com/ekaterinam47)
 - [Arav Jain] (https://github.com/Aravj217)
 - [Angela Shylyn](https://github.com/Shylyn05)
+- [Edri Correa Pereira](https://github.com/edri3000)
