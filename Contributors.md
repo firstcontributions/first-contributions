@@ -320,6 +320,7 @@ OAT
 - [Dmytro Riehush](https://github.com/Diman98)
 - [Domenico Vecchio](https://github.com/domenico-vecchio)
 - [Dominic](https://github.com/mozz37)
+- [Donny Guo](https://github.com/Donny-Guo)
 - [Dorcas Adebayor](https://github.com/dokipure)
 - [DosCocas](https://github.com/DosCocas)
 - [Durai Mohandoss](https://github.com/22f1000821)
