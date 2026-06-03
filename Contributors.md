@@ -1415,6 +1415,7 @@ varshini
 - [Rudraansh](https://github.com/rudraanshpatel)
 - [Noway808](https://github.com/noway808)
 - [Vinay Kumar Mandal](https://github.com/VINAY-MANDAL)
+- - [Aryya Manna](https://github.com/aryyamanna9-svg)
 - [TobyMint](https://github.com/TobyMint)
 - [IcedSakana](https://github.com/IcedSakana
 - - Muhammad Talha Hakeem
