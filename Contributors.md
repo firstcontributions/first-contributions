@@ -978,6 +978,7 @@ Sushit-prog)
 - [Venkata Ganapathi Subramanian](https://github.com/VENKATA080305)
 - [Vennela Reddy](https://github.com/VenRed12)
 - [Vinita]
+- [Kamesh Aniruddha](https://github.com/kruddha981)
 - [vrorvwxglr] (https://github.com/vrorvwxglr)
 - [Venu](https://github.com/Venu-R)
 - [Vesmorian Xavier](https://github.com/vaibhavsss)
@@ -1428,5 +1429,6 @@ varshini
 - [Atul Rastogi](https://github.com/atulrasto)
 - [Nicola Trinca](https://github.com/trinik15)
 
+- [Eric Liang](https://github.com/erickyy29)
 - [Eric Liang](https://github.com/erickyy29)
 - [Kate Sahrchileva] (https://github.com/ekaterinam47)
