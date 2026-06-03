@@ -3,6 +3,7 @@
 - [Gauransh Maheshwari](https://github.com/kardocode)
 - [1Burhanuddin](https://github.com/1Burhanuddin)
 - Harshit Prajapati
+- Harshana Perianayaki
 - [Sumon](https://github.com/sumon3235)
 - [Lakshay](https://github.com/Lucky-Lakshay)
 - [Shabin Francis](https://github.com/shabinfrancis)
