@@ -1348,6 +1348,7 @@ varshini
 - [Gallantly5399](https://github.com/Gallantly5399)
 - [anjali ajith](https://github.com/queenelizabethII879)
 - [I Kalra] ()
+- Emmanuel Opoku (https://github.com/emmanuelakwasi)
 - [Aishwariya](https://github.com/aishwariya192006)
 - [Ayush Gade](https://github.com/ayushgade06)
 - [Igor Giamoniano](https://github.com/igorgiamoniano)
