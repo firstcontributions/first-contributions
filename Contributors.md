@@ -1,10 +1,20 @@
 # Contributors
+   - Rajlakshmi
+   - Sumit Kumar(https://github.com/sumitraj7766)
 - [Jagriti Tiwari](https://github.com/jagriti-codes)
+- [Gauransh Maheshwari](https://github.com/kardocode)
+- [1Burhanuddin](https://github.com/1Burhanuddin)
 - Harshit Prajapati
+- Harshana Perianayaki
+- Raeesah Iram
 - [Sumon](https://github.com/sumon3235)
+- [Bhargav Chataut](https://github.com/bhargav-chataut)
+- [Lakshay](https://github.com/Lucky-Lakshay)
+- [Shabin Francis](https://github.com/shabinfrancis)
 - [Ashik Ahmed](https://github.com/trueashik)
 - [Amruta Wavdhane](https://github.com/Amruta-32)
 - [Purvi Dhiman](https://github.com/PurviDhiman1)
+- [Andrei Laurentiu](https://github.com/landreiiii/)
 - [Vishal Kumar] (https://github.com/kumar-vishal01)
 - [Ali ashraf] (https://github.com/alinct20-nct)
 - [Jashanjit Kaur](https://github.com/JashanjitKaur007)
@@ -26,6 +36,7 @@
 - [Prajwal Hulle](https://github.com/prajwal-2509)
 - [Can Saray](https://github.com/cansaray956-svg)
 - [Cole Ali](https://github.com/aliooo36)
+- [Chaitanya Kashyap] (https://github.com/chaitanya-kashyap)
 - [Chetan](https://github.com/chetanakashV/)
 - [AfiqN](https://github.com/AfiqN)
 - [- Pornima Jadhav
@@ -92,6 +103,7 @@ Anyone from Korea?
 - [Varma Rahul](https://github.com/imRvarma)
 - [Bhumi](https://github.com/bhumiks08)
 - [Ayush Gangwar](https://github.com/ayush3011)
+- [Gaumtes Jain](https://github.com/Tecnic-debug)
 - [Darshan_Venkataramanan](https://github.com/TheHashiramaSenju) 
 - [Abhishek](https://github.com/AbhiVanya)
 - [limkyulee](https://github.com/limkyulee)
@@ -308,6 +320,7 @@ OAT
 - [Dmytro Riehush](https://github.com/Diman98)
 - [Domenico Vecchio](https://github.com/domenico-vecchio)
 - [Dominic](https://github.com/mozz37)
+- [Donny Guo](https://github.com/Donny-Guo)
 - [Dorcas Adebayor](https://github.com/dokipure)
 - [DosCocas](https://github.com/DosCocas)
 - [Durai Mohandoss](https://github.com/22f1000821)
@@ -465,6 +478,7 @@ OAT
 - [Karri Chaitanya Pratap Reddy](https://github.com/kcprdev)
 - [Karri Saiphani Reddy](https://github.com/Saiphani1022)
 - [Kyle Gossage](https://github.com/KGossage11)
+- [Kutbuddin Moiz Attarwala](https://github.com/Kutbuddin1110)
 - [Kyrillos Hamdy Nassif Hunein](https://github.com/KyrillosHamdy)
 - [B. Figuereo](https://github.com/KDBatistaFiguereo)
 - [Lakan](https://github.com/Jayadityas)
@@ -523,6 +537,7 @@ OAT
 - [Mussadiq Khan](https://github.com/mussadiqkhan6886)
 - [Min Jia](https://github.com/Alex-gift-hit/EsCommune#)
 - [N V K Jaswanth](https://github.com/jaswanth6988)
+- [Nikita Bonde](https://github.com/Nikitabonde30)
 - [NCCU-Andy](https://github.com/NCCU-Andy)
 - [NIKHIL GAJULA](https://github.com/nikhil07g)
 - [NabilMch](https://github.com/NabilMch)
@@ -607,6 +622,7 @@ Hana
 - [Hamza Asif] (https://github.com/HaMZAAsif043/)
 - [admundhou](https://github.com/admundhou) ✨
 - [Rashida Safreen](https://github.com/rashidasafreen)
+Pranav Parimi
 - [Piyush Srivastava](https://github.com/Phoenix-2207)
 - [Platostol](https://github.com/Platostol)
 - [Dimitrij Jedich](https://github.com/dimitrijjedich)
@@ -676,11 +692,13 @@ Jackson Gilstrap
 - [Rashmi Apagundi](https://github.com/Rashmi-apagundi)
 - [Rathore Rajpal](https://github.com/Rathore-Rajpal)
 - [Raunak katiyar](https://github.com/raunak-bigdp)
+- [Rawsie Nguyen](https://github.com/rawsie-dev)
 - [Ray Silva](https://github.com/RSM23191)
 - [Rein Ding](https://github.com/ReinDing)
 - [Reynhard](https://github.com/reybui)
 - [Shaanil] (https://github.com/shaanil)
 - [Rezwan Mahmud](https://github.com/rezwan0x01)
+- [Devdeep Sarkar](https://github.com/devdeepsarkar)
 - [Ricardo Takara](https://github.com/tiedmud)
 - [Richeal](https://github.com/richeal-cmd)
 - [Ricidleiv](https://github.com/tondatto)
@@ -965,6 +983,7 @@ Sushit-prog)
 - [Venkata Ganapathi Subramanian](https://github.com/VENKATA080305)
 - [Vennela Reddy](https://github.com/VenRed12)
 - [Vinita]
+- [Kamesh Aniruddha](https://github.com/kruddha981)
 - [vrorvwxglr] (https://github.com/vrorvwxglr)
 - [Venu](https://github.com/Venu-R)
 - [Vesmorian Xavier](https://github.com/vaibhavsss)
@@ -1213,6 +1232,7 @@ Mohammed Hussein
 - [PRIYAL DESHMUKH]
 - [Iketutwidiyane](https://github.com/IKetutWidiyane)
 - dhrux11
+- [Nero Nguyen](https://github.com/neronguyen)
 - [Ryder Warhurst](https://github.com/RyderWar/RyderWar)
 - [Sachin Mehta](https://github.com/SachinMehta-sgoo)
 - [Ofir Eitan](https://github.com/OfirEitan)
@@ -1397,6 +1417,7 @@ varshini
 - [UOD](https://github.com/universeofdestruction)
 - [SakthivelRaghupathy](https://github.com/SakthivelRaghupathy)
 - [Grom0x0](https://github.com/gromix0x0)
+- [Zulatan](https://github.com/Zulatan)
 - [Amit Dankner](https://github.com/5z9mqq55vw-art)
 - [Amit Dankner](https://github.com/5z9mqq55vw-art)
 - [Uyen Nguyen](https://github.com/uyen-nguyen-190304)
@@ -1404,6 +1425,25 @@ varshini
 - [Karima Ali](https://github.com/Kari3as)
 - [Rudraansh](https://github.com/rudraanshpatel)
 - [Noway808](https://github.com/noway808)
-- [Vinay Kumar Mandal](https://github.com/VINAY-MANDAL
-- [IcedSakana](https://github.com/IcedSakana
 - Spandan Kumar Patro (https://github.com/spandankumarpatro)
+- [sweta](https://github.com/s4swetakri-hub)
+- [Vinay Kumar Mandal](https://github.com/VINAY-MANDAL)
+- - [Aryya Manna](https://github.com/aryyamanna9-svg)
+- [TobyMint](https://github.com/TobyMint)
+- [IcedSakana](https://github.com/IcedSakana
+- - Muhammad Talha Hakeem
+- [Ishani Nair](https://github.com/GiornoGiovanna12345)
+- [Issac Zerubbabel](https://github.com/issaczerubbabela)
+- [Atul Rastogi](https://github.com/atulrasto)
+- [Nicola Trinca](https://github.com/trinik15)
+- [Hugo Byrne] (https://github.com/HugePsyduck)
+- [Eric Liang](https://github.com/erickyy29)
+- [Eric Liang](https://github.com/erickyy29)
+- [Kate Sahrchileva] (https://github.com/ekaterinam47)
+- [Arav Jain] (https://github.com/Aravj217)
+- [Angela Shylyn](https://github.com/Shylyn05)
+- [Edri Correa Pereira](https://github.com/edri3000)
+- [GHAZI Yassine](https://github.com/Ghaziyassine)
+- [Noura al hassanieh]
+- [SepJS](https://github.com/SepJS)
+- [SepJS](https://github.com/SepJS)
