@@ -524,6 +524,7 @@ OAT
 - [Mussadiq Khan](https://github.com/mussadiqkhan6886)
 - [Min Jia](https://github.com/Alex-gift-hit/EsCommune#)
 - [N V K Jaswanth](https://github.com/jaswanth6988)
+- [Nikita Bonde](https://github.com/Nikitabonde30)
 - [NCCU-Andy](https://github.com/NCCU-Andy)
 - [NIKHIL GAJULA](https://github.com/nikhil07g)
 - [NabilMch](https://github.com/NabilMch)
