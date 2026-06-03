@@ -20,6 +20,7 @@
 - [Viswa Yadeedya](https://github.com/viswayadeedya)
 - [sysrecall](https://github.com/sysrecall)
 - [zhj](https://github.com/ajajaj238)
+- [Heidy Gallardo](https://github.com/heidygallardo)
 - [Prajwal Hulle](https://github.com/prajwal-2509)
 - [Can Saray](https://github.com/cansaray956-svg)
 - [Cole Ali](https://github.com/aliooo36)
