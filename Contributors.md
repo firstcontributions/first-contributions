@@ -612,6 +612,7 @@ Hana
 - [Hamza Asif] (https://github.com/HaMZAAsif043/)
 - [admundhou](https://github.com/admundhou) ✨
 - [Rashida Safreen](https://github.com/rashidasafreen)
+Pranav Parimi
 - [Piyush Srivastava](https://github.com/Phoenix-2207)
 - [Platostol](https://github.com/Platostol)
 - [Dimitrij Jedich](https://github.com/dimitrijjedich)
