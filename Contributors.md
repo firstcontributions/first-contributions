@@ -442,6 +442,7 @@ OAT
 - [Janobourian](https://github.com/janobourian)
 - [Janosch Püschel](https://github.com/janosch-pueschel)
 - [JanosNagy](https://github.com/JaniITmer)
+- [Jay Singh] (https://github.com/iamjaysingh)
 - [Gabe Jasso](https://github.com/0bitbybit)
 - [Janvi Chetan Patel](https://github.com/JanviChetanPatel)
 - [Juan Caquias](https://github.com/jcaquiasjr)
