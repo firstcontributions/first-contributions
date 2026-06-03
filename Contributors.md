@@ -2,6 +2,7 @@
 - [Jagriti Tiwari](https://github.com/jagriti-codes)
 - Harshit Prajapati
 - [Sumon](https://github.com/sumon3235)
+- [Lakshay](https://github.com/Lucky-Lakshay)
 - [Ashik Ahmed](https://github.com/trueashik)
 - [Amruta Wavdhane](https://github.com/Amruta-32)
 - [Purvi Dhiman](https://github.com/PurviDhiman1)
@@ -20,6 +21,7 @@
 - [Abhijeet Raj] (https://github.com/Abhijeetraj01)
 - [Viswa Yadeedya](https://github.com/viswayadeedya)
 - [sysrecall](https://github.com/sysrecall)
+- [Robert] (https://github.com/robert-lukowski)
 - [zhj](https://github.com/ajajaj238)
 - [Heidy Gallardo](https://github.com/heidygallardo)
 - [Prajwal Hulle](https://github.com/prajwal-2509)
@@ -27,7 +29,8 @@
 - [Cole Ali](https://github.com/aliooo36)
 - [Chetan](https://github.com/chetanakashV/)
 - [AfiqN](https://github.com/AfiqN)
-- [Riya Bangad](https://github.com/RiyaBangad)
+- [- Pornima Jadhav
+- Riya Bangad](https://github.com/RiyaBangad)
 - [fahaddev](https://github.com/fahadkhandev)
 - [Bekir Kasan](https://github.com/Bskasan)
 - [Foysal Imtiaz Sabab](https://github.com/foysal-imtiaz/)
@@ -90,6 +93,7 @@ Anyone from Korea?
 - [Varma Rahul](https://github.com/imRvarma)
 - [Bhumi](https://github.com/bhumiks08)
 - [Ayush Gangwar](https://github.com/ayush3011)
+- [Darshan_Venkataramanan](https://github.com/TheHashiramaSenju) 
 - [Abhishek](https://github.com/AbhiVanya)
 - [limkyulee](https://github.com/limkyulee)
 - [Nikhil Kumar Singh](https://github.com/DarkGod04)
@@ -520,6 +524,7 @@ OAT
 - [Mussadiq Khan](https://github.com/mussadiqkhan6886)
 - [Min Jia](https://github.com/Alex-gift-hit/EsCommune#)
 - [N V K Jaswanth](https://github.com/jaswanth6988)
+- [Nikita Bonde](https://github.com/Nikitabonde30)
 - [NCCU-Andy](https://github.com/NCCU-Andy)
 - [NIKHIL GAJULA](https://github.com/nikhil07g)
 - [NabilMch](https://github.com/NabilMch)
@@ -1210,6 +1215,7 @@ Mohammed Hussein
 - [PRIYAL DESHMUKH]
 - [Iketutwidiyane](https://github.com/IKetutWidiyane)
 - dhrux11
+- [Nero Nguyen](https://github.com/neronguyen)
 - [Ryder Warhurst](https://github.com/RyderWar/RyderWar)
 - [Sachin Mehta](https://github.com/SachinMehta-sgoo)
 - [Ofir Eitan](https://github.com/OfirEitan)
@@ -1376,6 +1382,7 @@ varshini
 - [ilyes899](https://github.com/ilyes899)
 - [samiSam](https://github.com/samyarous11)
 - [Syamalatha11](https://github.com/Syamalatha11)
+- [nishalinishanmugan] (https://github.com/nishalinishanmugan)
 - [Muhammad Mehedi Hasan](https://github.com/m-mehedi)
 - [Mahamadsad Nadaf](https://github.com/mahamadsadnadaf-dev)
 - [Jay Patil](https://github.com/Jaypatil588)
