@@ -1379,7 +1379,6 @@ varshini
 - [Puskar Mishra](https://github.com/puskar09)
 - [Kareena](https://github.com/karry25)
 - [Nick] (https://github.com/nickknz)
-- [Rudraansh](https://github.com/rudraanshpatel)
 - [rohit kumar sharma] (https://github.com/rameest2277)
 - [Shiv Kumar Rathor](https://github.com/shiv1234-byte)
 - [SwiftLong](https://github.com/swiftlong)
@@ -1393,3 +1392,4 @@ varshini
 - [Amit Dankner](https://github.com/5z9mqq55vw-art)
 - [Uyen Nguyen](https://github.com/uyen-nguyen-190304)
 - [Yasir Almutairi](https://github.com/YMutiriDev)
+- [Rudraansh](https://github.com/rudraanshpatel)
