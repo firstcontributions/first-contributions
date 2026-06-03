@@ -514,6 +514,7 @@ OAT
 - [Luka](https://github.com/LukachuPro88)
 - [Luohino](https://github.com/Luohino)
 - [macjeff](https://github.com/jeffalgoritmo)
+- [Jeff Chiang](https://github.com/FuJen0980)
 - [Lythae|Öykü](https://github.com/oykunazergelen)
 - [MOHAMED ARRAF](https://github.com/medoxee)
 - [M_Rizwan](https://github.com/rizwan749)
