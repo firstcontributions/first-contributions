@@ -1214,6 +1214,7 @@ Mohammed Hussein
 - [PRIYAL DESHMUKH]
 - [Iketutwidiyane](https://github.com/IKetutWidiyane)
 - dhrux11
+- [Nero Nguyen](https://github.com/neronguyen)
 - [Ryder Warhurst](https://github.com/RyderWar/RyderWar)
 - [Sachin Mehta](https://github.com/SachinMehta-sgoo)
 - [Ofir Eitan](https://github.com/OfirEitan)
