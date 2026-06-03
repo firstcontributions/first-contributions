@@ -694,6 +694,7 @@ Jackson Gilstrap
 - [Reynhard](https://github.com/reybui)
 - [Shaanil] (https://github.com/shaanil)
 - [Rezwan Mahmud](https://github.com/rezwan0x01)
+- [Devdeep Sarkar](https://github.com/devdeepsarkar)
 - [Ricardo Takara](https://github.com/tiedmud)
 - [Richeal](https://github.com/richeal-cmd)
 - [Ricidleiv](https://github.com/tondatto)
