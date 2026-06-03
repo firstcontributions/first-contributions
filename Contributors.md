@@ -28,6 +28,7 @@
 - [Prajwal Hulle](https://github.com/prajwal-2509)
 - [Can Saray](https://github.com/cansaray956-svg)
 - [Cole Ali](https://github.com/aliooo36)
+- [Chaitanya Kashyap] (https://github.com/chaitanya-kashyap)
 - [Chetan](https://github.com/chetanakashV/)
 - [AfiqN](https://github.com/AfiqN)
 - [- Pornima Jadhav
