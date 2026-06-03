@@ -1411,3 +1411,4 @@ varshini
 - [TobyMint](https://github.com/TobyMint)
 - [IcedSakana](https://github.com/IcedSakana
 - - Muhammad Talha Hakeem
+- [Ishani Nair](https://github.com/GiornoGiovanna12345)
