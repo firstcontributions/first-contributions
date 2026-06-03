@@ -28,7 +28,8 @@
 - [Cole Ali](https://github.com/aliooo36)
 - [Chetan](https://github.com/chetanakashV/)
 - [AfiqN](https://github.com/AfiqN)
-- [Riya Bangad](https://github.com/RiyaBangad)
+- [- Pornima Jadhav
+- Riya Bangad](https://github.com/RiyaBangad)
 - [fahaddev](https://github.com/fahadkhandev)
 - [Bekir Kasan](https://github.com/Bskasan)
 - [Foysal Imtiaz Sabab](https://github.com/foysal-imtiaz/)
