@@ -1,4 +1,5 @@
 # Contributors
+- [Jagriti Tiwari](https://github.com/jagriti-codes)
 - Harshit Prajapati
 - [Sumon](https://github.com/sumon3235)
 - [Ashik Ahmed](https://github.com/trueashik)
