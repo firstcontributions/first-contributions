@@ -470,6 +470,7 @@ OAT
 - [Karri Chaitanya Pratap Reddy](https://github.com/kcprdev)
 - [Karri Saiphani Reddy](https://github.com/Saiphani1022)
 - [Kyle Gossage](https://github.com/KGossage11)
+- [Kutbuddin Moiz Attarwala](https://github.com/Kutbuddin1110)
 - [Kyrillos Hamdy Nassif Hunein](https://github.com/KyrillosHamdy)
 - [B. Figuereo](https://github.com/KDBatistaFiguereo)
 - [Lakan](https://github.com/Jayadityas)
