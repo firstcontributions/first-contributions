@@ -1327,6 +1327,7 @@ Zarasalim
 -[Hargun Singh](https://github.com/HargunSingh27)
 - [kuro-0721](https://github.com/kuro-0721)
 -[JoePeach](https://github.com/JoePeach-gif)
+- [Vladimir](https://github.com/coder202)
 varshini
 -[Sounak Saha](https://github.com/littlegoblinjr)
 - [James Zhou](https://github.com/jayyzzeezzy/) - From The Odin Project, server username is @JZhou on discord.
