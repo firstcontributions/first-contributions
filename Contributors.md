@@ -9,6 +9,7 @@
 - [Ashik Ahmed](https://github.com/trueashik)
 - [Amruta Wavdhane](https://github.com/Amruta-32)
 - [Purvi Dhiman](https://github.com/PurviDhiman1)
+- [Andrei Laurentiu](https://github.com/landreiiii/)
 - [Vishal Kumar] (https://github.com/kumar-vishal01)
 - [Ali ashraf] (https://github.com/alinct20-nct)
 - [Jashanjit Kaur](https://github.com/JashanjitKaur007)
