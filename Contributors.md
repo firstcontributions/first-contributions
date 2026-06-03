@@ -1425,6 +1425,7 @@ varshini
 - [Karima Ali](https://github.com/Kari3as)
 - [Rudraansh](https://github.com/rudraanshpatel)
 - [Noway808](https://github.com/noway808)
+- [sweta](https://github.com/s4swetakri-hub)
 - [Vinay Kumar Mandal](https://github.com/VINAY-MANDAL)
 - - [Aryya Manna](https://github.com/aryyamanna9-svg)
 - [TobyMint](https://github.com/TobyMint)
