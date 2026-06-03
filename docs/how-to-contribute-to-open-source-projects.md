@@ -10,7 +10,7 @@ Before diving into the "how," let’s explore the "why." Contributing to open so
 
 *   Skill Development: Open source projects expose you to real-world codebases, helping you improve your coding, debugging, and collaboration skills.
 *   Portfolio Building: Contributions to well-known projects can enhance your resume and GitHub profile, making you stand out to potential employers.
-*   Networking: You’ll connect with developers worldwide, learn from experts, and become part of a global community.
+*   Networking: You111111’ll connect with developers worldwide, learn from experts, and become part of a global community.
 *   Giving Back: Open source powers much of the software we use daily. Contributing is a way to support the tools and technologies you rely on.
 *   Career Opportunities: Many companies actively seek developers with open source experience, as it demonstrates initiative and teamwork.
 
