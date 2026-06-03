@@ -1421,3 +1421,4 @@ varshini
 - [IcedSakana](https://github.com/IcedSakana
 - - Muhammad Talha Hakeem
 - [Ishani Nair](https://github.com/GiornoGiovanna12345)
+- [Issac Zerubbabel](https://github.com/issaczerubbabela)
