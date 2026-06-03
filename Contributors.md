@@ -8,6 +8,7 @@ Divyanshu Rana
 -[Niraj kumar](https://github.com/NirajS2118)
 -[Nitsimran Singh](https://github.com/Nitsimran-Singh)
 -[rajbir](https://github.com/Rajbir112)
+-[SUJAL ZORO](https://github.com/ZORO-JUROO)
 -[itzmeshaik](https://github.com/itzmeshaik)
 -[aikiho](https://github.com/prulen)
 -[Suraj R] (https://github.com/Surajr007)
