@@ -1231,6 +1231,7 @@ https://github.com/1276604737-cloud
 - [Gimerbone](https://github.com/Gimerbone)
 - [ShashwatShubham](https://github.com/shAsh-cy)
 - [AkariTrask](https://github.com/AkariTrask)
+- [Pranay Mishra](https://github.com/Pranaycantcode)
 - [Muskan Yadav](https://github.com/pikmuse)
 - [Heinz Gastón](https://github.com/gastonheinz)
 - [Krishna Vinod](https://github.com/Krishna-Vinod07)
@@ -1508,3 +1509,4 @@ varshini
 -[Nirmay Rinesh](https://github.com/nirmay1-creator)
 -[ Reddy Pravallika](https://github.com/Pravallika2789)
 - [Nikhil VS](https://github.com/Nikhil-VS1811)
+- [Bagels are Yummy](https://github.com/salkal00)
