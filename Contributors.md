@@ -1484,3 +1484,4 @@ varshini
 - [Bhavya Jain](http://github.com/bhavya27092027)
 - [Prakhar Pant](https://github.com/imprakharpant)
 - [Giles Mwa](https://github.com/gilo9)
+- [Sejan Miah](https://github.com/sejanmiah)
