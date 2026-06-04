@@ -1497,5 +1497,6 @@ varshini
 - [Kevin Yang](https://github.com/kevyang267)
 [Aditya Vinayak Sahu](https://github.com/sahu-adityaVinayak)
 - [wailer-zero](https://github.com/wailer-zero)
-Death Legion Team - Sri Lanka
-Death Legion Team - Open Source Sri Lanka
+-[Nirmay Rinesh](https://github.com/nirmay1-creator)
+
+
