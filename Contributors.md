@@ -49,10 +49,11 @@
 - [Chaitanya Kashyap] (https://github.com/chaitanya-kashyap)
 - [Chetan](https://github.com/chetanakashV/)
 - [AfiqN](https://github.com/AfiqN)
-- [- Pornima Jadhav
+- [- Pornima Jadhav 
 - Riya Bangad](https://github.com/RiyaBangad)
 - [fahaddev](https://github.com/fahadkhandev)
 - [Bekir Kasan](https://github.com/Bskasan)
+- [Lalitesh Kannuri](https://github.com/LaliteshKannuri)
 - [Bravion Rebelrhino](https://github.com/suryanshm06)
 - [Foysal Imtiaz Sabab](https://github.com/foysal-imtiaz/)
 - [Alma](https://github.com/Yazz405)
