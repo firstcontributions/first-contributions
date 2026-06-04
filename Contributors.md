@@ -1515,3 +1515,4 @@ varshini
 -[Mary Han](https://github.com/hedgyhedge)
 - [Bagels are Yummy](https://github.com/salkal00)
 - [S Sujan](https://github.com/wolfieexd)
+- [Alice Guo] (https://github.com/arisudura)
