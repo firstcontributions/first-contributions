@@ -14,6 +14,7 @@
 - Raeesah Iram
 - Alimkhan Slambek
 - [Sumon](https://github.com/sumon3235)
+- Anushka
 - [Bhargav Chataut](https://github.com/bhargav-chataut)
 - [Vivek Singh](https://github.com/asympoto)
 - [Lakshay](https://github.com/Lucky-Lakshay)
