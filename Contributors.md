@@ -61,6 +61,7 @@
 - [PedroVitor-Dev](https://github.com/PedroVitor-Dev)
 - [Y.  Wu(2th)](https://github.com/Wyh-max-star)
 - [kunal sharma](https://github.com/kunal-sharma-droid)
+- [dangdaizheshi](https://github.com/dangdaizheshi/)
 - [Padmaraj](https://github.com/padmaraj)
 - [aaryan padgilwar](https://github.com/aaryanpadgilwar-01)
 - [lamsal27](https://github.com/lamsal27)
