@@ -40,6 +40,7 @@
 - [SalvadorCalero](https://github/SalvadorCalero)
 - [Ashish Namdeo](https://github.com/ashishnamdeo16)
 - [Kevin vataliya]
+- [Ghosty33](https://github.com/ghostyaq)
 - [Piyush Pritam Sethi](https://github.com/piyush37-6)
 - [Krishna] (https://github.com/Krishnaa-Kumar)
 - [Aryan-Londhe](https://github.com/Aryan-Londhe)
@@ -150,6 +151,7 @@ Anyone from Korea?
 - [Yash Khatri](https://github.com/Yashkhatri01)
 -[Renuka Pawar](https://github.com/RenukaPawar658)
 - [Aashish](https://github.com/Aashish-po)
+- [Jack Davis] (https://github.com/huskyeet)
 - [Hritika](https://github.com/Hritikadas)
 [Prince Das](https://github.com/prince0021)
 [abhishek pal](https://github.com/abhishek123pal) thanks for helping bro . 
@@ -1509,3 +1511,4 @@ varshini
 -[ Reddy Pravallika](https://github.com/Pravallika2789)
 - [Nikhil VS](https://github.com/Nikhil-VS1811)
 -[Mary Han](https://github.com/hedgyhedge)
+- [Bagels are Yummy](https://github.com/salkal00)
