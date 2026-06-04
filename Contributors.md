@@ -16,6 +16,7 @@
 - [Sumon](https://github.com/sumon3235)
 - Anushka
 - [Bhargav Chataut](https://github.com/bhargav-chataut)
+- [Akshat Goud] (https://github.com/akshattgoud)
 - [Vivek Singh](https://github.com/asympoto)
 - [Lakshay](https://github.com/Lucky-Lakshay)
 - [Shabin Francis](https://github.com/shabinfrancis)
