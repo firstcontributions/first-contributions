@@ -1143,6 +1143,7 @@ https://github.com/1276604737-cloud
 - [LLXXYY12](https://github.com/LLXXYY12)
 - [Shashwat Dhondyal] (https://github.com/DebugMajor)
 - [Nishvi](https://github.com/Nishviprp)
+- [Tish Griffiths](https://github.com/TishG)
 - [Volodishlav](https://github.com/Volodishlav)
 - [Yasharth Tiwari](https://github.com/yasharth25)
 - [SlakenKaken](https://github.com/SlakenKaken)
