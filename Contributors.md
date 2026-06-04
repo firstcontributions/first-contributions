@@ -734,6 +734,7 @@ Jackson Gilstrap
 - [Ruti](https://github.com/rutibergs)
 - [H-crowe](https://github.com/H-crowe)
 - [Abdulkarim Mohammed](https://github.com/amdev0)
+- [Eros Yap](https://github.com/Stonksers)
 - [Ryan Gapp](https://github.com/ryan-gapp)
 - [Ryan Goods](https://github.com/feelgooddd)
 - [Swastik Sinha](https://github.com/swastiksinha1)
