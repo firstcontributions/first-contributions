@@ -1447,7 +1447,7 @@ varshini
 - [Vinay Kumar Mandal](https://github.com/VINAY-MANDAL)
 - - [Aryya Manna](https://github.com/aryyamanna9-svg)
 - [TobyMint](https://github.com/TobyMint)
-- [IcedSakana](https://github.com/IcedSakana
+- [IcedSakana](https://github.com/IcedSakana)
 - - Muhammad Talha Hakeem
 - [Ishani Nair](https://github.com/GiornoGiovanna12345)
 - [Issac Zerubbabel](https://github.com/issaczerubbabela)
@@ -1465,3 +1465,4 @@ varshini
 - [SepJS](https://github.com/SepJS)
 - [fouaden](https://github.com/fouadbuilds)
 - [jesusb25](https://github.com/jesusb25)
+-[Bablu Kumar Pandey](https://creator-turbo.github.io/Creator-Turbo-Portfolio-website/)
