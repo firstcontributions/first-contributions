@@ -16,6 +16,7 @@
 - [Sumon](https://github.com/sumon3235)
 - Anushka
 - [Bhargav Chataut](https://github.com/bhargav-chataut)
+- [Akshat Goud] (https://github.com/akshattgoud)
 - [Vivek Singh](https://github.com/asympoto)
 - [Lakshay](https://github.com/Lucky-Lakshay)
 - [Shabin Francis](https://github.com/shabinfrancis)
@@ -1483,6 +1484,7 @@ varshini
 - [xiamx](http://github.com/xiamx-2001)
 - [Bhavya Jain](http://github.com/bhavya27092027)
 - [Prakhar Pant](https://github.com/imprakharpant)
+- [Shatakshi Katiyar](https://github.com/shatakshi0709)
 - [Giles Mwa](https://github.com/gilo9)
 - [Sejan Miah](https://github.com/sejanmiah)
 - [Puneet Kumar Boinpally](https://github.com/Puneetkumarboinpally)
