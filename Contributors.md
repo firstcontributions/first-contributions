@@ -3,6 +3,7 @@
    - Sumit Kumar(https://github.com/sumitraj7766)
 - [Jagriti Tiwari](https://github.com/jagriti-codes)
 - [Gauransh Maheshwari](https://github.com/kardocode)
+- [Swathi Pulipati](https://github.com/SwathiPulipati)
 - [1Burhanuddin](https://github.com/1Burhanuddin)
 - Harshit Prajapati
 - Harshana Perianayaki
