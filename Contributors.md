@@ -1,6 +1,8 @@
 # Contributors
+- [minus43](https://github.com/minus43)
    - Rajlakshmi
    - Sumit Kumar(https://github.com/sumitraj7766)
+- [Abhijay](https://github.com/abhijae-arch)
 - [Abhishek Reddy Adunoori](https://github.com/abhi13-tech)
 - [Jagriti Tiwari](https://github.com/jagriti-codes)
 - [Seah Yu Zhen](https://github.com/BronyBanana)
@@ -1361,6 +1363,7 @@ varshini
 - [Hamid Iqbal](https://github.com/Hamid0004)
 - - [SnakeEye-sudo](https://github.com/SnakeEye-sudo)
 - [Ankit-k97](https://github.com/Ankit-k97)
+- [Ayesha Noor Bristy](https://github.com/noor00111)
 - - [ankit020308](https://github.com/ankit020308)
 - [Mustafa Dalkılıç](https://github.com/MustafaD3)
 - [Yanfan Lin](https://github.com/yanfan-lin)
@@ -1446,7 +1449,7 @@ varshini
 - [Vinay Kumar Mandal](https://github.com/VINAY-MANDAL)
 - - [Aryya Manna](https://github.com/aryyamanna9-svg)
 - [TobyMint](https://github.com/TobyMint)
-- [IcedSakana](https://github.com/IcedSakana
+- [IcedSakana](https://github.com/IcedSakana)
 - - Muhammad Talha Hakeem
 - [Ishani Nair](https://github.com/GiornoGiovanna12345)
 - [Issac Zerubbabel](https://github.com/issaczerubbabela)
@@ -1464,4 +1467,5 @@ varshini
 - [SepJS](https://github.com/SepJS)
 - [fouaden](https://github.com/fouadbuilds)
 - [jesusb25](https://github.com/jesusb25)
-  [xiamx](http://github.com/xiamx-2001)
+- [Bablu Kumar Pandey](https://creator-turbo.github.io/Creator-Turbo-Portfolio-website/)
+- [xiamx](http://github.com/xiamx-2001)
