@@ -10,6 +10,7 @@
 - [Swathi Pulipati](https://github.com/SwathiPulipati)
 - [1Burhanuddin](https://github.com/1Burhanuddin)
 - Harshit Prajapati
+- Dhruv Kothari
 - Harshana Perianayaki
 - Raeesah Iram
 - Alimkhan Slambek
