@@ -14,6 +14,7 @@
 - Raeesah Iram
 - Alimkhan Slambek
 - [Sumon](https://github.com/sumon3235)
+- Anushka
 - [Bhargav Chataut](https://github.com/bhargav-chataut)
 - [Vivek Singh](https://github.com/asympoto)
 - [Lakshay](https://github.com/Lucky-Lakshay)
@@ -30,6 +31,7 @@
 - [Ashish Namdeo](https://github.com/ashishnamdeo16)
 - [Kevin vataliya]
 - [Piyush Pritam Sethi](https://github.com/piyush37-6)
+- [Krishna] (https://github.com/Krishnaa-Kumar)
 - [Aryan-Londhe](https://github.com/Aryan-Londhe)
 - [Amir Qafari] (github.com/qafariamirhossein)
 - [JairHan](https://github.com/JairHan)
@@ -47,10 +49,11 @@
 - [Chaitanya Kashyap] (https://github.com/chaitanya-kashyap)
 - [Chetan](https://github.com/chetanakashV/)
 - [AfiqN](https://github.com/AfiqN)
-- [- Pornima Jadhav
+- [- Pornima Jadhav 
 - Riya Bangad](https://github.com/RiyaBangad)
 - [fahaddev](https://github.com/fahadkhandev)
 - [Bekir Kasan](https://github.com/Bskasan)
+- [Lalitesh Kannuri](https://github.com/LaliteshKannuri)
 - [Bravion Rebelrhino](https://github.com/suryanshm06)
 - [Foysal Imtiaz Sabab](https://github.com/foysal-imtiaz/)
 - [Alma](https://github.com/Yazz405)
@@ -474,6 +477,7 @@ OAT
 - [Jay Singh] (https://github.com/iamjaysingh)
 - [Gabe Jasso](https://github.com/0bitbybit)
 - [Janvi Chetan Patel](https://github.com/JanviChetanPatel)
+- [Janvi Prajapati](https://github.com/JanviPrajapati0210)
 - [Juan Caquias](https://github.com/jcaquiasjr)
 - [Jonmino](https://github.com/jonmino)
 - [Jnaneswar karedla](https://github.com/jnaneswar077)
@@ -1480,3 +1484,6 @@ varshini
 - [Bhavya Jain](http://github.com/bhavya27092027)
 - [Prakhar Pant](https://github.com/imprakharpant)
 - [Shatakshi Katiyar](https://github.com/shatakshi0709)
+- [Giles Mwa](https://github.com/gilo9)
+- [Sejan Miah](https://github.com/sejanmiah)
+
