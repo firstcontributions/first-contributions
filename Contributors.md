@@ -151,6 +151,7 @@ Anyone from Korea?
 - [Yash Khatri](https://github.com/Yashkhatri01)
 -[Renuka Pawar](https://github.com/RenukaPawar658)
 - [Aashish](https://github.com/Aashish-po)
+- [Jack Davis] (https://github.com/huskyeet)
 - [Hritika](https://github.com/Hritikadas)
 [Prince Das](https://github.com/prince0021)
 [abhishek pal](https://github.com/abhishek123pal) thanks for helping bro . 
