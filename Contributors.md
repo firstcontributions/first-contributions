@@ -40,6 +40,7 @@
 - [SalvadorCalero](https://github/SalvadorCalero)
 - [Ashish Namdeo](https://github.com/ashishnamdeo16)
 - [Kevin vataliya]
+- [Ghosty33](https://github.com/ghostyaq)
 - [Piyush Pritam Sethi](https://github.com/piyush37-6)
 - [Krishna] (https://github.com/Krishnaa-Kumar)
 - [Aryan-Londhe](https://github.com/Aryan-Londhe)
