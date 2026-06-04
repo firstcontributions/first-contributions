@@ -10,6 +10,7 @@
 - Raeesah Iram
 - [Sumon](https://github.com/sumon3235)
 - [Bhargav Chataut](https://github.com/bhargav-chataut)
+- [Vivek Singh](https://github.com/asympoto)
 - [Lakshay](https://github.com/Lucky-Lakshay)
 - [Shabin Francis](https://github.com/shabinfrancis)
 - [Ashik Ahmed](https://github.com/trueashik)
