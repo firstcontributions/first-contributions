@@ -1483,5 +1483,7 @@ varshini
 - [xiamx](http://github.com/xiamx-2001)
 - [Bhavya Jain](http://github.com/bhavya27092027)
 - [Prakhar Pant](https://github.com/imprakharpant)
+- [Shatakshi Katiyar](https://github.com/shatakshi0709)
 - [Giles Mwa](https://github.com/gilo9)
 - [Sejan Miah](https://github.com/sejanmiah)
+
