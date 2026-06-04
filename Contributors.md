@@ -1,4 +1,5 @@
 # Contributors
+- [minus43](https://github.com/minus43)
    - Rajlakshmi
    - Sumit Kumar(https://github.com/sumitraj7766)
 - [Abhijay](https://github.com/abhijae-arch)
