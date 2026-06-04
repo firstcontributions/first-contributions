@@ -12,6 +12,7 @@
 - Harshit Prajapati
 - Harshana Perianayaki
 - Raeesah Iram
+- Alimkhan Slambek
 - [Sumon](https://github.com/sumon3235)
 - [Bhargav Chataut](https://github.com/bhargav-chataut)
 - [Vivek Singh](https://github.com/asympoto)
