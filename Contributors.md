@@ -13,6 +13,7 @@
 - [1Burhanuddin](https://github.com/1Burhanuddin)
 - Harshit Prajapati
 - Dhruv Kothari
+- Siddarth Vel(https://github.com/siddarth-vel)
 - Harshana Perianayaki
 - Raeesah Iram
 - Alimkhan Slambek
