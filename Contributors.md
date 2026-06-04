@@ -1,6 +1,7 @@
 # Contributors
    - Rajlakshmi
    - Sumit Kumar(https://github.com/sumitraj7766)
+- [Abhishek Reddy Adunoori](https://github.com/abhi13-tech)
 - [Jagriti Tiwari](https://github.com/jagriti-codes)
 - [Seah Yu Zhen](https://github.com/BronyBanana)
 - [Gauransh Maheshwari](https://github.com/kardocode)
