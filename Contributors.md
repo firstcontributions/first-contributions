@@ -657,7 +657,7 @@
 - [Priyanshu Anand](https://github.com/Priyanshuanand1635)
 - [Pro Kumar](https://github.com/pkumar2143)
 - [PushkarDSU2005](https://github.com/PushkarDSU2005)
-- [Puneet Kumar Boinpally](https://github.com/Puneetkumarboinpally)
+- [Puneet Kumar Boinapally](https://github.com/Puneetkumarboinpally)
 - [Pygame17](https://github.com/Pygame17)
 - [Quillenar-dev](https://github.com/Quillenar-dev)
 - [Quisim Bryant](https://github.com/quisimbryant)
