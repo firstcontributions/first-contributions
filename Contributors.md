@@ -1356,6 +1356,7 @@ Zarasalim
 - [kuro-0721](https://github.com/kuro-0721)
 -[JoePeach](https://github.com/JoePeach-gif)
 varshini
+-[Aditya Kurup](https://github.com/aditya-kurup)
 -[Sounak Saha](https://github.com/littlegoblinjr)
 - [James Zhou](https://github.com/jayyzzeezzy/) - From The Odin Project, server username is @JZhou on discord.
 - [wdb904](https://github.com/wdb904) - 我来自大学，软件工程专业，正在学习Git和开源，这是我的第一次开源贡献，希望和大家一起进步！
