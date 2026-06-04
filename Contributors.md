@@ -1,4 +1,4 @@
-# Contributors
+i# Contributors
 - Navneet Kumar(https://github.com/Navneet6050)
 - Nguyet Tam Nguyen
 - Saina Shiddique(https://github.com/saina354)
@@ -20,6 +20,7 @@
 - Harshana Perianayaki
 - Raeesah Iram
 - Alimkhan Slambek
+- Manil
 - purusottam
 - Vineet Kumar
 - [Sumon](https://github.com/sumon3235)
