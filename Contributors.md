@@ -110,6 +110,7 @@
 - [Divyansh Shrivastava](https://github.com/divyanshshrivastava)
 - [Saurabh Salve](https://github.com/SAURABHSALVE)
 akii
+- [Raden Chin](https://github.com/Pielde)
 - [Toushimaa](https://github.com/toushimaa)
 - [Nagaraj Desai](https://github.com/nagarajd11)
 - [Aryan](https://github.com/aryan-neogi)
