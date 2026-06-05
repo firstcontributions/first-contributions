@@ -56,6 +56,7 @@
 - [Krishna] (https://github.com/Krishnaa-Kumar)
 - [Aryan-Londhe](https://github.com/Aryan-Londhe)
 - [Amir Qafari] (github.com/qafariamirhossein)
+- [Pantelis Tsagkas] (https://github.com/PantelisTsagkas)
 - [JairHan](https://github.com/JairHan)
 - [Abivarsan](https://github.com/RAbivarsan)
 - [Abhijeet Raj] (https://github.com/Abhijeetraj01)
