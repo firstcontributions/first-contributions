@@ -246,6 +246,7 @@ Anyone from Korea?
 Maliha
 - [Bigerrr](https://github.com/Bigerrr)
 - [Nisha Muthurajan](https://github.com/nisha-muthurajan)
+- [Bill Qian](https://github.com/billqian513315)
 - [Bimal Ray](https://github.com/Bimal-ray99)
 - [Bishwa7](https://github.com/Bishwa7)
 - [Blas Sanchez](https://github.com/xbsanpan855-boop)
