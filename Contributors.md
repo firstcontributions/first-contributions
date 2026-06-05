@@ -8,6 +8,7 @@ Rohit
 - Saina Shiddique(https://github.com/saina354)
 - [minus43](https://github.com/minus43)
    - Rajlakshmi
+   Rohit
    - Sumit Kumar(https://github.com/sumitraj7766)
 - [Rudraksh Thakur](https://github.com/Thakur-ji-5513)
 - [Abhijay](https://github.com/abhijae-arch)
