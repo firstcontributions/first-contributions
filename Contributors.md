@@ -1481,6 +1481,7 @@ varshini
 - [Yasir Almutairi](https://github.com/YMutiriDev)
 - [Karima Ali](https://github.com/Kari3as)
 - [Rudraansh](https://github.com/rudraanshpatel)
+- [Nishi Agarwal](https://github.com/nishiagarwal18)
 - [Noway808](https://github.com/noway808)
 - Spandan Kumar Patro (https://github.com/spandankumarpatro)
 - [sweta](https://github.com/s4swetakri-hub)
