@@ -23,6 +23,7 @@ Rohit
 - [Gauransh Maheshwari](https://github.com/kardocode)
 - [Swathi Pulipati](https://github.com/SwathiPulipati)
 - [1Burhanuddin](https://github.com/1Burhanuddin)
+- [Pradeep Naru] (https://github.com/pradeep-git-dev)
 - Harshit Prajapati
 - Dhruv Kothari
 - Siddarth Vel(https://github.com/siddarth-vel)
