@@ -1547,3 +1547,4 @@ varshini
 - [Aditya Sharma](https://github.com/aditya-datahub)
 - [Chetan Sharma](https://github.com/Chetan-boi)
 - [Joshua Chiu](https://github.com/AhhhhhChiu)
+- [Mahin Patel](https://github.com/mahin281207)
