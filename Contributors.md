@@ -1530,4 +1530,4 @@ varshini
 -Sahitya Kunaparaju
 -[Anjana Raghavendran](https://github.com/anjanaraghavendran)
 - [Uttkarsh Chambiyal](https://github.com/Uttkarshchambiyal)
-- [Swapnil](https://github.com/SwapVat) 
+- [SwapVat](https://github.com/SwapVat) 
