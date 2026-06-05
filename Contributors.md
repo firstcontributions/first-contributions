@@ -1490,6 +1490,7 @@ varshini
 - [Amit Dankner](https://github.com/5z9mqq55vw-art)
 - [Amit Dankner](https://github.com/5z9mqq55vw-art)
 - [Uyen Nguyen](https://github.com/uyen-nguyen-190304)
+- [Kien Pham](https://github.com/kienpham07)
 - [Yasir Almutairi](https://github.com/YMutiriDev)
 - [Karima Ali](https://github.com/Kari3as)
 - [Rudraansh](https://github.com/rudraanshpatel)
@@ -1556,3 +1557,4 @@ varshini
 - [im-vaishnavi](https://github.com/im-vaishnavi)
 - [Sebastian Ramirez](https://github.com/im-vaishnavi)
 - [Gonalves3236](https://github.com/Gonalves3236)
+- [Rituraj Sharma](https://github.com/riturajdroid)
