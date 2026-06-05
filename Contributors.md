@@ -1556,3 +1556,4 @@ varshini
 - [qianqiang-del](https://github.com/qianqiang-del)
 - [im-vaishnavi](https://github.com/im-vaishnavi)
 - [Sebastian Ramirez](https://github.com/im-vaishnavi)
+- [Rituraj Sharma](https://github.com/riturajdroid)
