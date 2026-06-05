@@ -42,6 +42,7 @@ i# Contributors
 - [Andrei Laurentiu](https://github.com/landreiiii/)
 - [Vishal Kumar] (https://github.com/kumar-vishal01)
 - [Ali ashraf] (https://github.com/alinct20-nct)
+- [Harsh Upadhyay] (https://github.com/notharsh0905)
 - [Jashanjit Kaur](https://github.com/JashanjitKaur007)
 - [Avneesh](https://github.com/Avneesh26024)
 - [SalvadorCalero](https://github/SalvadorCalero)
