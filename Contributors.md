@@ -31,6 +31,7 @@
 - purusottam
 - Vineet Kumar
 - [Sumon](https://github.com/sumon3235)
+- Amrin Hadi Simanjuntak
 - Anushka
 - [Abisheka Priyan](https://github.com/AbishekVijay05)
 - [Bhargav Chataut](https://github.com/bhargav-chataut)
