@@ -1,4 +1,4 @@
-i# Contributors
+# Contributors
 - [Jecin Elizabeth Rajesh](https://github.com/JecinElizabeth)
 - [Rehab Ragab](https://github.com/RehabAbotalep)
 - #### [Aditya Bokde](https://github.com/adityabokde2007)
@@ -1539,3 +1539,4 @@ varshini
 - Faratabassum09-a11y (https://github.com/faratabassum09-a11y)
 - Manas Upadhyay (https://github.com/Manxs25)
 - [Soukarya-77](https://github.com/soukarya-77)
+- [Aditya Sharma](https://github.com/aditya-datahub)
