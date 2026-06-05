@@ -1531,3 +1531,4 @@ varshini
 -[Anjana Raghavendran](https://github.com/anjanaraghavendran)
 - [Uttkarsh Chambiyal](https://github.com/Uttkarshchambiyal)
 - [SwapVat](https://github.com/SwapVat) 
+- Faratabassum09-a11y (https://github.com/faratabassum09-a11y)
