@@ -126,6 +126,7 @@ akii
 - [@Zakiahsan-arch](https://github.com/Zakiahsan-arch)
 - [Aakanksha Jadhav](https://github.com/aakankshajadhav2006)
 rashid adiyarambath
+- [Aryavikram Pingali] (https://github.com/BrainySoap99689)
 - [Priyansh Dugar](https://github.com/Priyansh10ff)
 - [Samir Khanal](https://github.com/shawmeer)
 - [mboulagh] (https://github.com/MINATOnmk) From Avictos Open Source Club, Morocco  .
