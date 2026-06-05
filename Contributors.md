@@ -8,6 +8,7 @@
 - [minus43](https://github.com/minus43)
    - Rajlakshmi
    - Sumit Kumar(https://github.com/sumitraj7766)
+- [Rudraksh Thakur](https://github.com/Thakur-ji-5513)
 - [Abhijay](https://github.com/abhijae-arch)
 - [Yohanes Naibaho] (https://github.com/yohanesnaibaho303)
 - [Anurag Poddar](https://github.com/aunrxg)
