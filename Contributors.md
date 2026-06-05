@@ -1539,6 +1539,8 @@ varshini
 -[Nirmay Rinesh](https://github.com/nirmay1-creator)
 -[ Reddy Pravallika](https://github.com/Pravallika2789)
 - [Nikhil VS](https://github.com/Nikhil-VS1811)
+- [i love geckos](https://github.com/victoriaang3li-star)
+- [Bagels are Yummy](https://github.com/salkal00)
 -[Mary Han](https://github.com/hedgyhedge)
 - [Bagels are Yummy](https://github.com/salkal00)
 - [S Sujan](https://github.com/wolfieexd)
