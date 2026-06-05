@@ -1561,3 +1561,4 @@ varshini
 - [Sebastian Ramirez](https://github.com/im-vaishnavi)
 - [Gonalves3236](https://github.com/Gonalves3236)
 - [Rituraj Sharma](https://github.com/riturajdroid)
+- [William Morasch](https://github.com/wmora299)
