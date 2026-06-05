@@ -241,7 +241,7 @@ Anyone from Korea?
 - [Ayush kumar maury](https://github.com/Ayush4O4)
 - [Ayushi Rajput](https://github.com/Ayushi-ninja)
 - [Basma BT](https://github.com/Boutaib-Basma)
-- [Bhavyatha Shetty](https://github.com/bhavyathashetty)
+ [Bhavyatha Shetty](https://github.com/bhavyathashetty)
 - [Behruzbek Madiyarov](https://github.com/behruzbekjs)
 - [gavr malt](https://github.com/gavrmalt)
 - [Tiziano G.](https://github.com/tiz-88)
@@ -298,6 +298,7 @@ Maliha
 - [Cang Li](https://github.com/DileepGampala2005)
 - [Cang Li](https://github.com/s0raLin)
 OAT
+- [Omadbek UZB](https://github.com/Zenitsu-Yegr/)
 - [CapyBaraTheKing](https://github.com/molangmalang)
 - [Gabriel N Thayil](https://github.com/GabrielNThayil)
 - [Carburio](https://github.com/Carburio)
