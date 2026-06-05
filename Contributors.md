@@ -4,6 +4,7 @@
 - [minus43](https://github.com/minus43)
    - Rajlakshmi
    - Sumit Kumar(https://github.com/sumitraj7766)
+- [Rudraksh Thakur](https://github.com/Thakur-ji-5513)
 - [Abhijay](https://github.com/abhijae-arch)
 - [Abhi Kumar](https://github.com/abhistark007)
 - [Abhishek Reddy Adunoori](https://github.com/abhi13-tech)
