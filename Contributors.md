@@ -32,6 +32,7 @@ Rohit
 - Alimkhan Slambek
 - Manil
 - purusottam
+- PALAK JAYESHBHAI PATEL 
 - Vineet Kumar
 - [Sumon](https://github.com/sumon3235)
 - Amrin Hadi Simanjuntak
