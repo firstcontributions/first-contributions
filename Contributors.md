@@ -11,6 +11,7 @@
 - [Rudraksh Thakur](https://github.com/Thakur-ji-5513)
 - [Abhijay](https://github.com/abhijae-arch)
 - [Yohanes Naibaho] (https://github.com/yohanesnaibaho303)
+- [Nikita Jaiswal] (https://github.com/nikitaJaiswalDev)
 - [Anurag Poddar](https://github.com/aunrxg)
 - [Abhi Kumar](https://github.com/abhistark007)
 - [Abhishek Reddy Adunoori](https://github.com/abhi13-tech)
