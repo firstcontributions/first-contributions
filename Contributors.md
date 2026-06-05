@@ -117,6 +117,7 @@ akii
 - [UniqueName] (https://github.com/pnr220)
 - [Raden Chin](https://github.com/Pielde)
 - [Toushimaa](https://github.com/toushimaa)
+- [RestingNigel](https://github.com/RestingNigel)
 - [Nagaraj Desai](https://github.com/nagarajd11)
 - [Aryan](https://github.com/aryan-neogi)
 - [Anuraag Tripathy](https://github.com/AnuraagTripathy)
