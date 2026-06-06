@@ -1186,6 +1186,7 @@ Sushit-prog)
 - [Aeon-bytes] (https://github.com/Aeon-bytes)
 - [Katti Janardhan](https://github.com/jdkatti)
 - [Tomi]
+- [cronyaium](https://github.com/cronyaium)
 - [Arnab Dutta](https://github.com/ArnabDutta01)
 -  [Harsh singh](https://github.com/harsh63528)
 - [mrv0for0vandeta](https://github.com/mrv0for0vandeta)
