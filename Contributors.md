@@ -443,7 +443,6 @@ OAT
 - [GauravJha](https://github.com/your-23f2001550)
 - [Gautam Kumawat](https://github.com/gautam9892)
 - [Gayatri Yadkikar](https://github.com/yadkikargayatri)
-- [Kaushik Kumar](https://github.com/kaushikbargaway)
   [Gaurika](https://github.com/Gaurika-05)
 - [Gelar Rahadian Fajar]()
 - [George Soden](https://github.com/georgesoden)
