@@ -34,6 +34,7 @@ Rohit
 - Harshana Perianayaki
 - Raeesah Iram
 - Alimkhan Slambek
+- [Julianne Tomlinson](https://github.com/JewlzT)
 - Manil
 - purusottam
 - PALAK JAYESHBHAI PATEL 
