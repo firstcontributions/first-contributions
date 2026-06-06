@@ -75,6 +75,7 @@ Rohit
 - [Cole Ali](https://github.com/aliooo36)
 - [Rafeek Hanna](https://github.com/iRAFEEK)
 - [Chaitanya Kashyap] (https://github.com/chaitanya-kashyap)
+-[Rahul Konar] (https://github.com/RTheKonar)
 - [Chetan](https://github.com/chetanakashV/)
 - [AfiqN](https://github.com/AfiqN)
 - [- Pornima Jadhav 
