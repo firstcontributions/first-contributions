@@ -1363,7 +1363,7 @@ Mohammed Hussein
 -  [Vijayabalan B](https://github.com/vijayabalan2006)
 - [Vamsi Kongara]
   [Fahim Nihal] (https://github.com/fahimnihal10-ai)
--[Velaga Akshaya](https://github.com/VelagaAkshaya)
+  -[Velaga Akshaya](https://github.com/VelagaAkshaya)
 - [Moshakn111](https://github.com/Moshakn111)
 - [Alonso Lopez](https://github.com/Alonso-Lopez-1)
 - [Dinusha Dilshani](https://github.com/DinushaDilshani)
@@ -1371,7 +1371,7 @@ Mohammed Hussein
 - [初生](https://github.com/370205504-cmyk)
 - [Gangadhar Singh](https://github.com/Gangadhar017)
 - [Elisban Paco](https://github.com/elisbanpaco)
-Zarasalim
+  Zarasalim
   -[Aneek Manna](https://github.com/Aneekcodes07)
  - [Kailash Pillai_2] (https://github.com/AyeKarimba)
 [shreya chakrabarti](https://github.com/23f2000103)
@@ -1577,3 +1577,4 @@ varshini
 - [Derin Barutcu](https://github.com/derinbarutcu17)
 - [Mukul Chittora](https://github.com/mukul-design1901)
 - [Isabel Nebesky](https://github.com/walkemdownisa)
+- [hjYu](https://github.com/HJ-Y-u)
