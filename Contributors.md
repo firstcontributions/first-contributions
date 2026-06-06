@@ -20,6 +20,7 @@ Rohit
 - [Abhishek Kumar](https://github.com/Abhishek1106kr)
 - [Jagriti Tiwari](https://github.com/jagriti-codes)
 - [Seah Yu Zhen](https://github.com/BronyBanana)
+- Monika Ravindran
 - [Gauransh Maheshwari](https://github.com/kardocode)
 - [Swathi Pulipati](https://github.com/SwathiPulipati)
 - [1Burhanuddin](https://github.com/1Burhanuddin)
