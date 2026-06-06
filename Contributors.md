@@ -51,7 +51,6 @@ Rohit
 - [Amruta Wavdhane](https://github.com/Amruta-32)
 - [Purvi Dhiman](https://github.com/PurviDhiman1)
 - [Andrei Laurentiu](https://github.com/landreiiii/)
-- [Dean Potishman](https://github.com/dean-8)
 - [Vishal Kumar] (https://github.com/kumar-vishal01)
 - [Ali ashraf] (https://github.com/alinct20-nct)
 - [Harsh Upadhyay] (https://github.com/notharsh0905)
@@ -1550,3 +1549,4 @@ Rohit
 - [CodeByThur](https://github.com/CodeByThur) 📚👾 -[Ekaanksh](https://github.com/Ekaanksh-dev) -[Ramini Sai Santhosh]
 - [Ayush Srivastava](https://github.com/ayushsrivastavaup62)
 - [Achintya Singh](https://github.com/furygamingind24-art)
+- [Dean Potishman] (https://github.com/dean-8)
