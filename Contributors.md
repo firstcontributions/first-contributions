@@ -1580,3 +1580,4 @@ varshini
 - [Mukul Chittora](https://github.com/mukul-design1901)
 - [Isabel Nebesky](https://github.com/walkemdownisa)
 - [hjYu](https://github.com/HJ-Y-u)
+- [CodeByThur](https://github.com/CodeByThur) 📚👾
