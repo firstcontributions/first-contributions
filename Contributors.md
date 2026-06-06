@@ -91,6 +91,7 @@ Rohit
 -[Jai Singh](https://github.com/jaisingh24)
 - [Sawastik Bhullar](https://github.com/sawastik7-bit)
 - [PedroVitor-Dev](https://github.com/PedroVitor-Dev)
+- [Krishan Malhotra](https://github.com/krishan2005op)
 - [Y.  Wu(2th)](https://github.com/Wyh-max-star)
 - [kunal sharma](https://github.com/kunal-sharma-droid)
 - [dangdaizheshi](https://github.com/dangdaizheshi/)
