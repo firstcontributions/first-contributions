@@ -1610,4 +1610,5 @@ varshini
 - [Nayf Serag](https://github.com/nayefserag)
 - [Benjamin Wingerter](https://github.com/wingerter)
 - [Haneen Ayman](https://github.com/HaneenAyman23)
+- [lpalmendro-ux](https://github.com/lpalmendro-ux)
 - next here
