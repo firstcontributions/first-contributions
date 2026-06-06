@@ -525,7 +525,7 @@ OAT
 - [Jay Singh] (https://github.com/iamjaysingh)
 - [Gabe Jasso](https://github.com/0bitbybit)
 - [Janvi Chetan Patel](https://github.com/JanviChetanPatel)
-- [adeeb hussain](https://github.com/student-integralcollege)
+- [Adeeb Hussain](https://github.com/student-integralcollege)
 - [Janvi Prajapati](https://github.com/JanviPrajapati0210)
 - [Jayant Kumar](https://github.com/cnxstine)
 - [Juan Caquias](https://github.com/jcaquiasjr)
