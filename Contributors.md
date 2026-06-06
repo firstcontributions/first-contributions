@@ -519,6 +519,7 @@ OAT
 - [Gabe Jasso](https://github.com/0bitbybit)
 - [Janvi Chetan Patel](https://github.com/JanviChetanPatel)
 - [Janvi Prajapati](https://github.com/JanviPrajapati0210)
+- [Jayant Kumar](https://github.com/cnxstine)
 - [Juan Caquias](https://github.com/jcaquiasjr)
 - [Joylin Mathias](https://github.com/joylinmhs)
 - [Jonmino](https://github.com/jonmino)
