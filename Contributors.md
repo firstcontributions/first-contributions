@@ -1568,6 +1568,7 @@ varshini
 - [Nikhil VS](https://github.com/Nikhil-VS1811)
 - [casual-coffee](https://github.com/casual-coffee)
 - [i love geckos](https://github.com/victoriaang3li-star)
+- [Juan David Sanchez](https://github.com/JuanDa14Sa)
 - [Bagels are Yummy](https://github.com/salkal00)
 -[Mary Han](https://github.com/hedgyhedge)
 -[Arman Nekoui](https://github.com/arman-nekoui)
