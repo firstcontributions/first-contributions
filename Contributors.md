@@ -70,6 +70,7 @@ Rohit
 - [Robert] (https://github.com/robert-lukowski)
 - [zhj](https://github.com/ajajaj238)
 - [Heidy Gallardo](https://github.com/heidygallardo)
+- [Pulkit Shringi](https://github.com/PulkitShringi)
 - [Prajwal Hulle](https://github.com/prajwal-2509)
 - [Can Saray](https://github.com/cansaray956-svg)
 - [Cole Ali](https://github.com/aliooo36)
