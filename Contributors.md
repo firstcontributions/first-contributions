@@ -36,6 +36,7 @@ Rohit
 - Manil
 - purusottam
 - PALAK JAYESHBHAI PATEL
+- Asmit Bhardwaj
 - Vineet Kumar
 - [Sumon](https://github.com/sumon3235)
 - Amrin Hadi Simanjuntak
@@ -78,6 +79,7 @@ Rohit
 - [Can Saray](https://github.com/cansaray956-svg)
 - [Cole Ali](https://github.com/aliooo36)
 - [Rafeek Hanna](https://github.com/iRAFEEK)
+- Esha Premdas
 - [Chaitanya Kashyap] (https://github.com/chaitanya-kashyap)
 -[Rahul Konar] (https://github.com/RTheKonar)
 - [Chetan](https://github.com/chetanakashV/)
@@ -96,6 +98,7 @@ Rohit
 - [Olha Sorych](https://github.com/colaola20/first-contributions.git)
 -[Jai Singh](https://github.com/jaisingh24)
 - [Sawastik Bhullar](https://github.com/sawastik7-bit)
+- [Aniket Samanta] (https://github.com/AniSam0000)
 - [PedroVitor-Dev](https://github.com/PedroVitor-Dev)
 - [Krishan Malhotra](https://github.com/krishan2005op)
 - [Y.  Wu(2th)](https://github.com/Wyh-max-star)
@@ -443,6 +446,7 @@ OAT
 - [GauravJha](https://github.com/your-23f2001550)
 - [Gautam Kumawat](https://github.com/gautam9892)
 - [Gayatri Yadkikar](https://github.com/yadkikargayatri)
+- [Kaushik Kumar](https://github.com/kaushikbargaway)
   [Gaurika](https://github.com/Gaurika-05)
 - [Gelar Rahadian Fajar]()
 - [George Soden](https://github.com/georgesoden)
@@ -974,6 +978,7 @@ Sushit-prog)
 - [Sushka_s_makom](https://github.com/Sushka_s_makom)
 - [Sushma](https://github.com/Sushma-0179)
 - Reuben
+- [Rakibul Hasan](https://github.com/Rakib9891)
 - [Sushmitha](https://github.com/Sushmigit)
 - [Ashhad](https://github.com/Ashhad-Mazhar)
 - [SutripatNew](https://github.com/SutripatNew)
@@ -1597,3 +1602,4 @@ varshini
 -[Ramini Sai Santhosh]
 - [Ayush Srivastava](https://github.com/ayushsrivastavaup62)
 - [Achintya Singh](https://github.com/furygamingind24-art)
+- [Deepankar Singh](https://github.com/deepankarsingh106)
