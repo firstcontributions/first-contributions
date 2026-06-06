@@ -77,6 +77,7 @@ Rohit
 - [Can Saray](https://github.com/cansaray956-svg)
 - [Cole Ali](https://github.com/aliooo36)
 - [Rafeek Hanna](https://github.com/iRAFEEK)
+- Esha Premdas
 - [Chaitanya Kashyap] (https://github.com/chaitanya-kashyap)
 -[Rahul Konar] (https://github.com/RTheKonar)
 - [Chetan](https://github.com/chetanakashV/)
