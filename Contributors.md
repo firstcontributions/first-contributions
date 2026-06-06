@@ -1253,6 +1253,7 @@ https://github.com/1276604737-cloud
 - [Anushree Bose](https://github.com/HanaisHere)
 - [Virendra Shekhawat](https://github.com/virendra9768)
 - [YaoJingxi](https://github.com/xiaoyumuxi)
+- [Kenneth Liu](https://github.com/theofficialklpiano)
 - [ls](https://github.com/cn-liushuo)
 - [AITISPEC](https://github.com/AITISPEC)
 - [Rahul Surya](https://github.com/Rahulsurya23)
