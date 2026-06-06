@@ -23,6 +23,7 @@ Rohit
 - [Seah Yu Zhen](https://github.com/BronyBanana)
 - Monika Ravindran
 - [Gauransh Maheshwari](https://github.com/kardocode)
+-[Rupak Sharma](https://github.com/rouopak)
 -[Shiva Kumar](https://github.com/shhivakr)
 - [Swathi Pulipati](https://github.com/SwathiPulipati)
 - [1Burhanuddin](https://github.com/1Burhanuddin)
