@@ -5,6 +5,7 @@ Rohit
 - #### [Aditya Bokde](https://github.com/adityabokde2007)
 - Navneet Kumar(https://github.com/Navneet6050)
 - Nguyet Tam Nguyen
+- Ranvijay Singh(https://github.com/Ranvijay9559)
 - Saina Shiddique(https://github.com/saina354)
 - [minus43](https://github.com/minus43)
    - Rajlakshmi
