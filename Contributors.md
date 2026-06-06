@@ -65,6 +65,7 @@ Rohit
 - [Piyush Pritam Sethi](https://github.com/piyush37-6)
 - [Krishna] (https://github.com/Krishnaa-Kumar)
 - [Aryan-Londhe](https://github.com/Aryan-Londhe)
+- [Pablo-Lesta](https://github.com/Blito13)
 - [Amir Qafari] (github.com/qafariamirhossein)
 - [Pantelis Tsagkas] (https://github.com/PantelisTsagkas)
 - [JairHan](https://github.com/JairHan)
