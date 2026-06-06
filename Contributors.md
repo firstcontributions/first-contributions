@@ -88,6 +88,7 @@ Rohit
 - [Bravion Rebelrhino](https://github.com/suryanshm06)
 - [Foysal Imtiaz Sabab](https://github.com/foysal-imtiaz/)
 - [Alma](https://github.com/Yazz405)
+- [Vardhan](https://github.com/anonymous444-tech)
 - [Aleem](https://github.com/Aleem-628296)
 - [Harini Madasu](https://github.com/HariniMadasu/first-contributions.git)
 - [Olha Sorych](https://github.com/colaola20/first-contributions.git)
