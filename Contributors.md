@@ -36,6 +36,7 @@ Rohit
 - Manil
 - purusottam
 - PALAK JAYESHBHAI PATEL 
+- Asmit Bhardwaj
 - Vineet Kumar
 - [Sumon](https://github.com/sumon3235)
 - Amrin Hadi Simanjuntak
