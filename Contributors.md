@@ -534,6 +534,7 @@ OAT
 - [Kapil Kumar](https://github.com/kapilkumar05991)
 - [Karan Rohra](https://github.com/karanrohra)
 - [LaskaaaD](https://github.com/LaskaaaD)
+- [Kishan Pokar](https://github.com/Kishan-Pokar)
 - [Karnapu Sravanthi](https://github.com/Sravanthi285)
 - [Karri Chaitanya Pratap Reddy](https://github.com/kcprdev)
 - [Karri Saiphani Reddy](https://github.com/Saiphani1022)
