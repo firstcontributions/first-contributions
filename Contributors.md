@@ -125,6 +125,7 @@ Rohit
 - [Saurabh Salve](https://github.com/SAURABHSALVE)
 akii
 - [UniqueName] (https://github.com/pnr220)
+- [PallavG] (https://github.com/pallavghatvalwork-ops)
 - [Raden Chin](https://github.com/Pielde)
 - [Toushimaa](https://github.com/toushimaa)
 - [RestingNigel](https://github.com/RestingNigel)
