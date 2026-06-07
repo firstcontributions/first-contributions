@@ -32,6 +32,7 @@ Rohit
 - [1Burhanuddin](https://github.com/1Burhanuddin)
 - [Pradeep Naru] (https://github.com/pradeep-git-dev)
 - Harshit Prajapati
+Lakshya Patidar
 - Dhruv Kothari
 - Siddarth Vel(https://github.com/siddarth-vel)
 - Harshana Perianayaki
