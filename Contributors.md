@@ -892,6 +892,7 @@
 - [Uditadas10](https://github.com/Uditadas10)
 - [Udochukwu Anigbogu](https://github.com/Bubbles80)
 - [Ultra Boy](https://github.com/ultraboy5522)
+- [Umang Saluja](https://github.com/UmangSaluja10)
 - [Uppala Anand](https://github.com/uppalaanand)
 - [Usman Malik](https://github.com/Usman-Malik121)
 - [Vaasu](https://github.com/vorte-wq)
