@@ -7,6 +7,7 @@ Rohit
 - Navneet Kumar(https://github.com/Navneet6050)
 - Nguyet Tam Nguyen
 - Jimin Liu
+- Shlok Lobhas Ghadekar(https://github.com/ShlokGhadekar)
 - Ranvijay Singh(https://github.com/Ranvijay9559)
 - Saina Shiddique(https://github.com/saina354)
 - Alfredo Benites (https://github.com/AlfredoBenites)
