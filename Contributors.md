@@ -448,6 +448,7 @@
 - [Matty D](https://github.com/mdelisle-Qosina)
 - [Max Taunton](https://github.com/PepsiMaxT)
 - [Mayur Lad](https://github.com/mayurlad)
+- [minhho0567-art](https://github.com/minhho0567-art)
 - [Min Jia](https://github.com/Alex-gift-hit/EsCommune#)
 - [Moe Nyi](https://github.com/moenyi12-kraken)
 - [Monica Fagerli](https://github.com/MonicaKristine)
