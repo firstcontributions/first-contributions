@@ -81,7 +81,7 @@ git push origin -u your-branch-name
 - ### ઓથન્ટિકેશન ભૂલ
      <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
   remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
-  fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
+  fatal: Authentication failed for 'https://github.com/&lt;your-username&gt;/first-contributions.git/'</pre>
   તમારા GitHub એકાઉન્ટમાં SSH કી કેવી રીતે ઉમેરવી તે જાણવા માટે [GitHub ની ટ્યુટોરિયલ](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) જુઓ.
 
 </details>
