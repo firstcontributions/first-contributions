@@ -1,5 +1,6 @@
 # Contributors
 - [1Burhanuddin](https://github.com/1Burhanuddin)
+- [JoeArias1121](https://github.com/JoeArias1121)
 - [6NaCl](https://github.com/6NaCl)
 - [8nchanter](https://github.com/8nchanter)
 - [8saku](https://github.com/8saku8)
