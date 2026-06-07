@@ -7,6 +7,7 @@ Rohit
 - Nguyet Tam Nguyen
 - Ranvijay Singh(https://github.com/Ranvijay9559)
 - Saina Shiddique(https://github.com/saina354)
+- Alfredo Benites (https://github.com/AlfredoBenites)
 - [minus43](https://github.com/minus43)
    - Rajlakshmi
    Rohit
