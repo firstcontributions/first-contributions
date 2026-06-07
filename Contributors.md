@@ -230,6 +230,7 @@
 - [Edepoir](https://github.com/Edepoir)
 - [Edgar Mireles](https://github.com/edgarmb14)
 - [Eesha Bhargava](https://github.com/eesha05)
+- [Eeshan Kandikattu](https://github.com/ekandikattu)
 - [Elaine-764](https://github.com/Elaine-764)
 - [Elif Ş.](https://github.com/elifsz)
 - [Elijah Weiss](https://github.com/eweiss4)
