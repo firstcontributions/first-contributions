@@ -1037,3 +1037,4 @@
 - [wppppp](https://github.com/wojickkaten-dot)
 - [zhj](https://github.com/ajajaj238)
 - [张喜昌](https://github.com/ZhangXiChang)
+- Juan Carlos Carmona Chaidez - Ingeniería en Tecnologías de la Información - México
