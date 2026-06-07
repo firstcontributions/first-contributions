@@ -42,6 +42,7 @@ Lakshya Patidar
 - [Julianne Tomlinson](https://github.com/JewlzT)
 - Manil
 - purusottam
+- Awwal
 - PALAK JAYESHBHAI PATEL
 - [Ahmed Sheedh Mohamed Mahroof] (https://github.com/mohamedmahroofa) 
 - Asmit Bhardwaj
