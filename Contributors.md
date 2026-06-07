@@ -635,6 +635,7 @@
 - [Rashadul dev](https://github.com/rashaduldev)
 - [RashiBista](https://github.com/RashiBista)
 - [Rashida Safreen](https://github.com/rashidasafreen)
+- [Rashika Karmacharya] (https://github.com/rashika-k)
 - [Rashmi Apagundi](https://github.com/Rashmi-apagundi)
 - [Rathore Rajpal](https://github.com/Rathore-Rajpal)
 - [Raunak katiyar](https://github.com/raunak-bigdp)
