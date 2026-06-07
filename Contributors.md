@@ -25,6 +25,7 @@
 - [Tushar Sharma](https://github.com/Tushar130506)
 - [Priyanshu Anand](https://github.com/Priyanshuanand1635)
 - [Ipshita Chatterjee](https://github.com/IpshitaChatterjee)
+- [Eshaan Krishna Ojha](https://github.com/EshaanOjha)
 - [N V K Jaswanth](https://github.com/jaswanth6988)
 - [PrajanManojKumarRekha](https://github.com/PrajanManojKumarRekha)
 - [ooweat](https://github.com/ooweat)
