@@ -1616,4 +1616,5 @@ varshini
 - [Benjamin Wingerter](https://github.com/wingerter)
 - [Haneen Ayman](https://github.com/HaneenAyman23)
 - [lpalmendro-ux](https://github.com/lpalmendro-ux)
+- [Navneet Pratap](https://github.com/Navneet-pratap1027)
 - next here
