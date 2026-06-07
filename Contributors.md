@@ -7,6 +7,7 @@
 - [@Zakiahsan-arch](https://github.com/Zakiahsan-arch)
 - [Aakanksha Jadhav](https://github.com/aakankshajadhav2006)
 - [Aamir Khan](https://github.com/aamir296)
+- [ELOI-CODE1](https://github.com/ELOI-CODE1)
 - [Aamir](https://github.com/AamirMNAamir)
 - [Aarjav Patriya](https://github.com/Aarjav0p)
 - [Aaryan Pandey](https://github.com/aaryanpandey29)
