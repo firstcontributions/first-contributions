@@ -445,6 +445,7 @@
 - [Madhushree Mirji](https://github.com/madhushree-mirji/)
 - [Maged Ibrahim](https://github.com/I-Maged)
 - [Manan Pal](https://github.com/mananpal-dev)
+- [Mansib Rahman](https://github.com/mansibrahman03)
 - [Marcin Dec](https://github.com/MarcinDeeec)
 - [Mathis LaPivoine](https://github.com/Archeos932)
 - [Matty D](https://github.com/mdelisle-Qosina)
