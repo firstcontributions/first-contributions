@@ -558,6 +558,7 @@
 - [Ossama Nahle](https://github.com/ossamanahle)
 - [OwOchiii](https://github.com/OwOchiii)
 - [Ozan Kenan Güngör](https://github.com/ozankenangungor)
+- [Ozan Armagan](https://github.com/ozanpozan)
 - [Pablo Hermun](https://github.com/PabloHermun)
 - [Pablo-Lesta](https://github.com/Blito13)
 - [Padmaraj](https://github.com/padmaraj)
