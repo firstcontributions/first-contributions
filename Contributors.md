@@ -1015,6 +1015,7 @@
 - [Zack](https://github.com/acger-acmer)
 - [Zacul](https://github.com/ZacuLucaZ)
 - [Zainab-Nandhini](https://github.com/Nandhini6132)
+- [Suryanshi-Singh](https://github.com/ssuryanshi)
 - [Zamir](https://github.com/456zamir8/)
 - [Zeon Dsouza](https://github.com/Zeonnn121)
 - [Ziba Imani](https://github.com/zibaimani)
