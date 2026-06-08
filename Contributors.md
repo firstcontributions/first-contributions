@@ -511,6 +511,7 @@
 - [Nikhil Itaudiya](https://github.com/23f2002113)
 - [Nikhil Kumar Singh](https://github.com/DarkGod04)
 - [Nikhil More](https://github.com/Khiladi-786)
+- [Nikhil Rai](https://github.com/Nikhilrai27)
 - [Nikhil Verma](https://github.com/nikhil9verma)
 - [Nikhil](https://github.com/NikhilKummari)
 - [Nikita Bonde](https://github.com/Nikitabonde30)
