@@ -10,6 +10,7 @@
 - [Aamir Khan](https://github.com/aamir296)
 - [ELOI-CODE1](https://github.com/ELOI-CODE1)
 - [Aamir](https://github.com/AamirMNAamir)
+- [Christian Perez](https://github.com/p2rez)
 - [Aarjav Patriya](https://github.com/Aarjav0p)
 - [Aaryan Pandey](https://github.com/aaryanpandey29)
 - [Aashin Rajeev](https://github.com/aashin1403)
