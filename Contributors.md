@@ -226,6 +226,7 @@
 - [Dmytro Riehush](https://github.com/Diman98)
 - [Domenico Vecchio](https://github.com/domenico-vecchio)
 - [Dominic](https://github.com/mozz37)
+- [DonnieJ](https://github.com/jdmade)
 - [Donny Guo](https://github.com/Donny-Guo)
 - [Dor Cohen](https://github.com/Dor11126)
 - [Dorcas Adebayor](https://github.com/dokipure)
