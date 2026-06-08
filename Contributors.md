@@ -6,6 +6,7 @@
 - [8nchanter](https://github.com/8nchanter)
 - [8saku](https://github.com/8saku8)
 - [@Zakiahsan-arch](https://github.com/Zakiahsan-arch)
+- [Anubhav Gupta](https://github.com/Anubhav990)
 - [Aakanksha Jadhav](https://github.com/aakankshajadhav2006)
 - [Aamir Khan](https://github.com/aamir296)
 - [ELOI-CODE1](https://github.com/ELOI-CODE1)
