@@ -961,6 +961,7 @@
 - [VizzScript](https://github.com/vizzscript)
 - [Vladimir](https://github.com/coder202)
 - [Vuk Topalovic](https://github.com/vukkt)
+- [Tanisha](https://github.com/Tanisha800)
 - [Vyshnavi Gopavarapu](https://github.com/gopavarapuvyshnavi66-tech)
 - [WHA](https://github.com/wynehtetaung)
 - [Waffo Taffo](https://github.com/WaffoTaffo)
