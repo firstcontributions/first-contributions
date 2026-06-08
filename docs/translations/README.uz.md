@@ -113,7 +113,7 @@ git push origin -u new_branch # siz yaratgan yangi branch
 <pre>
   remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
   remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
-  fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'
+  fatal: Authentication failed for 'https://github.com/&lt;your-username&gt;/first-contributions.git/'
 </pre>
 
 Akkountingizga SSH kalit yaratish va konfiguratsiya qilish uchun [GitHub qo'llanma](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) ga o'ting.
