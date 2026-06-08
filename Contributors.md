@@ -41,6 +41,7 @@
 - [Aboubaker Amajjou](https://github.com/P4IN444)
 - [Aclguh](https://github.com/Aclguh)
 - [Aditi Kumari](https://github.com/aditi-avni)
+- [Aditya Kaushik](https://github.com/AdityaK05)
 - [AfiqN](https://github.com/AfiqN)
 - [Akshit Goel](https://github.com/aclox)
 - [Aleem](https://github.com/Aleem-628296)
