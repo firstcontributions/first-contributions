@@ -12,6 +12,7 @@
 - [Aakanksha Jadhav](https://github.com/aakankshajadhav2006)
 - [Aamir Khan](https://github.com/aamir296)
 - [ELOI-CODE1](https://github.com/ELOI-CODE1)
+- [Ragul Arumugam](https://github.com/ragul-rofi)
 - [Aamir](https://github.com/AamirMNAamir)
 - [Aakash](https://github.com/aakashkadlak)
 - [Christian Perez](https://github.com/p2rez)
