@@ -618,6 +618,7 @@
 - [Pulkit Shringi](https://github.com/PulkitShringi)
 - [Purvi Dhiman](https://github.com/PurviDhiman1)
 - [PushkarDSU2005](https://github.com/PushkarDSU2005)
+- [Pai](https://github.com/paingzinyemaung)
 - [Pygame17](https://github.com/Pygame17)
 - [PaingZinYeMaung](https://github.com/paingzinyemaung)
 - [Quillenar-dev](https://github.com/Quillenar-dev)
