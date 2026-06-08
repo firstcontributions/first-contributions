@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [dweep-js](https://github.com/dweep-js)
 - [1Burhanuddin](https://github.com/1Burhanuddin)
 - [Prog-Monkey](https://github.com/Prog-Monkey)
@@ -7,6 +7,7 @@
 - [8nchanter](https://github.com/8nchanter)
 - [8saku](https://github.com/8saku8)
 - [@Zakiahsan-arch](https://github.com/Zakiahsan-arch)
+- [Keara Skilling](https://github.com/keara-skilling)
 - [Anubhav Gupta](https://github.com/Anubhav990)
 - [Aakanksha Jadhav](https://github.com/aakankshajadhav2006)
 - [Aamir Khan](https://github.com/aamir296)
