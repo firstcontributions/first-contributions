@@ -1062,16 +1062,3 @@
 * \[GordonYuanyc] (https://github.com/GordonYuanyc)
 * [zhj](https://github.com/ajajaj238)
 * [张喜昌](https://github.com/ZhangXiChang)
--[Priyanshi Saini](https://github.com/priyanshi012)
-* [Kyle Shi](https://github.com/kyles88)
-* [Stefan Stojkovic](https://github.com/Seemlinsky)
--[Raj Nandini Soni](https://github.com/rajnandini0409)
-* [UncleWei9527](https://github.com/UncleWei9527)- [Ventixz](https://github.com/Ventixz)
--[AlexanderZ0](https://github.com/AlexanderZ0)
-* [Haku666-max](https://github.com/Haku666-max)
--[Avansh singh](https://github.com/AvanshChauhan)
-* [Mahnoor Naeem](https://github.com/mahnoorNaeem55)
-\\n- [TruongAnDev](https://github.com/truonganDevOps)
-
-
-
