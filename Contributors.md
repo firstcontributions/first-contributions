@@ -31,6 +31,7 @@
 - [Abhay Sharma](https://github.com/asabhaysharma)
 - [Abhi Kumar](https://github.com/abhistark007)
 - [Abhijay](https://github.com/abhijae-arch)
+- [Hirat] (https://github.com/hiratinspace)
 - [Abhishek Agrawal](https://github.com/agrawalabhi881-a11y)
 - [Abhishek Kumar](https://github.com/Abhishek1106kr)
 - [Abhishek Reddy Adunoori](https://github.com/abhi13-tech)
