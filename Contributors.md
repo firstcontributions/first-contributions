@@ -571,6 +571,7 @@
 - [Piyush Pritam Sethi](https://github.com/piyush37-6)
 - [Piyush Srivastava](https://github.com/Phoenix-2207)
 - [Platostol](https://github.com/Platostol)
+- [Priyanshu Sharma](https://github.com/MrCarnage00)
 - [Pouya Esfahani](https://github.com/Pooyash1998)
 - [Prabhat Bhatia](https://github.com/prabhatbhatiaa)
 - [Pradeep Reddy](https://github.com/Pradeep0997)
