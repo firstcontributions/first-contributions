@@ -46,6 +46,7 @@
 - [Alma](https://github.com/Yazz405)
 - [Aman Kumar Verma](https://github.com/amanbuilds-hub)
 - [Amavidato](https://github.com/Amavidato)
+- [Amishi Agrawal](https://github.com/amishiagrawal)
 - [AmberStars](https://github.com/AmberStars)
 - [Amruta Wavdhane](https://github.com/Amruta-32)
 - [Anand Mani Tiwari](https://github.com/anandmt)
