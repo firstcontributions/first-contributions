@@ -1060,6 +1060,7 @@
 - [txd0h](https://github.com/txd0h)
 - [ugutkarsh](https://github.com/ugutkarsh)
 - [volatilespectre](https://github.com/volatilespectre)
+- [Sahil Shahare](https://github.com/sahil-shahare)
 - [wppppp](https://github.com/wojickkaten-dot)
 - [GordonYuanyc] (https://github.com/GordonYuanyc)
 - [zhj](https://github.com/ajajaj238)
