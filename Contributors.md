@@ -574,7 +574,7 @@
 * [Platostol](https://github.com/Platostol)
 * [Pouya Esfahani](https://github.com/Pooyash1998)
 * [Prabhat Bhatia](https://github.com/prabhatbhatiaa)
-* [Prachi Phatak] (https://github.com/prachi-phatak)
+* [Prachi Phatak](https://github.com/prachi-phatak)
 * [Pradeep Reddy](https://github.com/Pradeep0997)
 * [Pragyey](https://github.com/CatalyzedHONEY)
 * [Prajaka Jagdale](https://github.com/Hermione28)
