@@ -857,6 +857,7 @@
 - [SungHo.You](https://github.com/hahaysh)
 - [Suraj](https://github.com/surajrastogi1)
 - [Survivor1007](https://github.com/Survivor1007)
+- [AdityaA2](https://github.com/AdityaA2)
 - [Surya](https://github.com/GSuryaP)
 - [Sushka_s_makom](https://github.com/Sushka_s_makom)
 - [Sushma](https://github.com/Sushma-0179)
@@ -1088,3 +1089,4 @@
 - [Shreyan Sharma](https://github.com/Sh3456)
 - [Shreya Das](https://github.com/sd2604)
 - [Ayaan Kapoor](https://github.com/Ayaan-20-11)
+
