@@ -44,6 +44,7 @@
 - [KshitijMJ](https://github.com/21f3002019/)
 - [Mudassir Shaikh] (https://github.com/TheMudda6)
 - [Arjun Kallurkar](https://github.com/quasar-011)
+- [Ayush Sahu] (https://github.com/ayusshhh1)
 - [DhirajB05](https://github.com/DhirajB05)
 - [Ebenezer](https://github.com/ebinchala)
 - [tomroy2026](https://github.com/tomroy2026)
