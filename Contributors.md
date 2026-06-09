@@ -1097,4 +1097,5 @@
 - [Shreya Das](https://github.com/sd2604)
 - [Ayaan Kapoor](https://github.com/Ayaan-20-11)
 - [Rajiv Ranjan Sahu](https://github.com/rajivranjan7)
+- [Deepanshu Kumar Jha](https://github.com/CppCracker11)
 Enzo Manes
