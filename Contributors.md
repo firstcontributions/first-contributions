@@ -1161,4 +1161,3 @@ Karen cortes naarrp
 - [GMMICHELETTI](https://github.com/gmmicheletti)
 - [Taina_valino]
 - [Juliano Bispo](https://github.com/julianobispo)
-
