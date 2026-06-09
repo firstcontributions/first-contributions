@@ -1127,3 +1127,4 @@
 - [Weihang Lv](https://github.com/starsstreaming)
 - [Dishita Mundra](https://github.com/Dishita-Mundra)
 - [Ewerson Benigno](https://github.com/ewbenigno)
+- [AugustoPS77](https://github.com/AugustoPS77)
