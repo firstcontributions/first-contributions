@@ -1153,4 +1153,6 @@ Karen cortes naarrp
 - [patferman](https://github.com/patferman)
 - [Nathalia Santos](https://github.com/Nathalia-dev42)
 - [Furnom Dam]
+- [Gabriel de Paula] (https:/github.com/gabrieldepaula73)
+(https://github.com/ZanyDruid20)
 (https://github.com/ZanyDruid20)
