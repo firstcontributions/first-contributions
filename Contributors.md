@@ -652,6 +652,7 @@
 - [RSM Harsha](https://github.com/rsmharsha)
 - [Rachana N P](https://github.com/rachananp)
 - [Rachana Panduranga Naidu](https://github.com/Rachana078)
+- [Radasia Waltower](https://github.com/rwaltower)
 - [Raden Chin](https://github.com/Pielde)
 - [Radhika Kapoor](https://github.com/RadhikaKapoor383)
 - [Rafael Ghiorzi](https://github.com/rafaelghiorzi)
