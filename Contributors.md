@@ -602,6 +602,7 @@
 - [Prajwal Hulle](https://github.com/prajwal-2509)
 - [Prajwal V R](https://github.com/prajwal-vr)
 - [Pramodkumar Shivanna](https://github.com/pramod05edu-afk)
+- [Pranam Pagi](https://github.com/pranampagi)
 - [Pranav Anandarao](https://github.com/pranandarao)
 - [Pranav Sawant](https://github.com/ItzPranav61)
 - [Pranav Wagh](https://github.com/Pranavwagh1)
