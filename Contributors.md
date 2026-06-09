@@ -1150,6 +1150,8 @@ Karen cortes naarrp
 - [Venkata Suresh Cherukuri](https://github.com/chvsuresh)
 - [Diego Nicolas Gimenez Irusta](https://github.com/diegogimenez04)
 - [Gustavo Henrique](https://github.com/Chucknoorms)
+- [Nathalia Santos](https://github.com/Nathalia-dev42)
 - [Furnom Dam]
 - [Gabriel de Paula] (https:/github.com/gabrieldepaula73)
+(https://github.com/ZanyDruid20)
 (https://github.com/ZanyDruid20)
