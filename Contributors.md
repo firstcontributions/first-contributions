@@ -73,6 +73,7 @@
 - [Anuja Wanigasekara](https://github.com/Anuja222)
 - [Anuraag Tripathy](https://github.com/AnuraagTripathy)
 - [Anuradha Tiwari](https://github.com/Anuradhatiwari01)
+- [Anupriya soni](https://github.com/anupriyasoni-debug)
 - [Anurag Poddar](https://github.com/aunrxg)
 - [Apurvam Arya](https://github.com/apurvamarya)
 - [Aravind V U](https://github.com/na23b005)
