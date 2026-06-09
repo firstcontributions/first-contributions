@@ -1,4 +1,5 @@
 # Contributors
+
 - [dweep-js](https://github.com/dweep-js)
 - [keeeeeliu](https://github.com/keeeeeliu)
 - [1Burhanuddin](https://github.com/1Burhanuddin)
@@ -13,6 +14,7 @@
 - [Anubhav Gupta](https://github.com/Anubhav990)
 - [Aakanksha Jadhav](https://github.com/aakankshajadhav2006)
 - [Aamir Khan](https://github.com/aamir296)
+- [Sai Praneeth Sharma](https://github.com/SHARMA1525)
 - [ELOI-CODE1](https://github.com/ELOI-CODE1)
 - [Ragul Arumugam](https://github.com/ragul-rofi)
 - [Aamir](https://github.com/AamirMNAamir)
