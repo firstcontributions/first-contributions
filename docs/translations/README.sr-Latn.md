@@ -198,7 +198,7 @@ zamenjujući `your-branch-name` sa imenom grane koju ste ranije napravili.
 - ### Greška prilikom autentifikacije
      <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
   remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
-  fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
+  fatal: Authentication failed for 'https://github.com/&lt;your-username&gt;/first-contributions.git/'</pre>
   Pogledajte [GitHub-ov tutorijal](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) za generisanje i konfiguraciju SSH ključa za Vaš nalog.
 
   Takođe, možda ćete želeti da izvršite 'git remote -v' da biste proverili Vašu udaljenu adresu.
