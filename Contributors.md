@@ -120,6 +120,7 @@
 - [Ayush Priyadarshi](https://github.com/Ayu-zh)
 - [Ayush kumar maury](https://github.com/Ayush4O4)
 - [Ayushi Rajput](https://github.com/Ayushi-ninja)
+- [Ayush Sahu](https://github.com/ayusshhh1)
 - [B. Figuereo](https://github.com/KDBatistaFiguereo)
 - [BFJiral](https://github.com/Wirt4)
 - [Balaji Ramachandran](https://github.com/rbalaji007)
