@@ -1150,6 +1150,7 @@ Karen cortes naarrp
 - [Venkata Suresh Cherukuri](https://github.com/chvsuresh)
 - [Diego Nicolas Gimenez Irusta](https://github.com/diegogimenez04)
 - [Gustavo Henrique](https://github.com/Chucknoorms)
+- [Valdinei Goncalves](https://github.com/Valdinei428)
 - [Luan Faria](https://github.com/HellKapiroto)
 - [patferman](https://github.com/patferman)
 - [Nathalia Santos](https://github.com/Nathalia-dev42)
@@ -1159,3 +1160,5 @@ Karen cortes naarrp
 (https://github.com/ZanyDruid20)
 - [GMMICHELETTI]
 - [Taina_valino]
+- [Juliano Bispo](https://github.com/julianobispo)
+
