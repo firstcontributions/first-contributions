@@ -1143,6 +1143,7 @@ Karen cortes naarrp
 -[SaqibFarhanProgrammer](https://github.com/SaqibFarhanProgrammer)
 - [Siddharth](https://github.com/siddharth-singh-cs)
 - [Carlos Castillo](https://github.com/crcastillocalderon)
-- [alexis moros]https://github.com/arekushisumorosu
+- [alexis moros](https://github.com/arekushisumorosu)
 - [Ahmed Mahmoud](https://github.com/AhmedMahmoud1447)
 - [Venkata Suresh Cherukuri](https://github.com/chvsuresh)
+- [Diego Nicolas Gimenez Irusta](https://github.com/diegogimenez04)
