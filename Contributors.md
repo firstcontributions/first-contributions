@@ -177,6 +177,7 @@
 - [Chirag Bimali](https://github.com/chirag-bimali)
 - [Choi Doyoun](https://github.com/justjs4evr)
 - [Christian Short](https://github.com/Coverttrickster)
+- [CG Moon](https://github.com/claire-moon)
 - [CodingSayed](https://github.com/CodingSayed)
 - [Cole Ali](https://github.com/aliooo36)
 - [Conner Lennon](https://github.com/cnnrl)
