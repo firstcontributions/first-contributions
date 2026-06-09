@@ -19,7 +19,7 @@ Now your changes are on the correct branch
 ### Moving the latest commits to a new Branch
 To do this, type:  
 ```git branch newbranch``` -  Creates a new Branch. Saving all the Commits.  
-```git reset --hard HEAD~#``` - Move master back by # commits. Remember, these commits will be gone from master  
+```git reset --hard HEAD~#``` - Move the current branch back by # commits. Remember, these commits will be gone from it  
 ```git checkout newbranch``` - Goes to the branch you created. It will have all the commits.  
 
 Remember: Any changes not committed will be LOST.
