@@ -64,6 +64,7 @@
 - [Aman Kumar Verma](https://github.com/amanbuilds-hub)
 - [Amavidato](https://github.com/Amavidato)
 - [Amishi Agrawal](https://github.com/amishiagrawal)
+- [Ethan Boya](https://github.com/ethanboya)
 - [AmberStars](https://github.com/AmberStars)
 - [Amruta Wavdhane](https://github.com/Amruta-32)
 - [Anand Mani Tiwari](https://github.com/anandmt)
