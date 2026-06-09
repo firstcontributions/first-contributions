@@ -324,6 +324,7 @@
 - [Giorgio Bellia](https://github.com/GiorgioBellia)
 - [Gisele Medina](https://github.com/code-medina)
 - [Gladwin Ly](https://github.com/gladwin-ly)
+- [Glen Reynolds](https://github.com/glenr37)
 - [Gnaneshwwaran K](https://github.com/rocklegend14)
 - [Gourav soni](https://github.com/mrgaurav81)
 - [Goodluck Igbokwe](https://github.com/mantle-bearer)
