@@ -13,6 +13,7 @@
 - [Keara Skilling](https://github.com/keara-skilling)
 - [Anubhav Gupta](https://github.com/Anubhav990)
 - [Aakanksha Jadhav](https://github.com/aakankshajadhav2006)
+- [Anupriya soni](https://github.com/anupriyasoni-debug)
 - [Aamir Khan](https://github.com/aamir296)
 - [Sai Praneeth Sharma](https://github.com/SHARMA1525)
 - [ELOI-CODE1](https://github.com/ELOI-CODE1)
