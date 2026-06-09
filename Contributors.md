@@ -66,6 +66,7 @@ Rohit
 - [Aryan-Londhe](https://github.com/Aryan-Londhe)
 - [Amir Qafari] (github.com/qafariamirhossein)
 - [Pantelis Tsagkas] (https://github.com/PantelisTsagkas)
+- [Manish Kumar Jawalkar] (https://github.com/ManishCodes0618)
 - [JairHan](https://github.com/JairHan)
 - [Manish](https://github.com/ManishCodes0618)
 - [Abivarsan](https://github.com/RAbivarsan)
