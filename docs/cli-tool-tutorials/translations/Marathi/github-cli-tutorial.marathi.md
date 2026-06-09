@@ -69,7 +69,7 @@ git push origin -u your-branch-name
 
 तुम्ही आधी तयार केलेल्या शाखेच्या नावाने `your-branch-name` बदला.
 
-<details><summary> <strong>पुश करताना तुम्हाला काही त्रुटी आढळल्यास, येथे क्लिक करा:</strong></summary></details>
+<details><summary> <strong>पुश करताना तुम्हाला काही त्रुटी आढळल्यास, येथे क्लिक करा:</strong></summary>
 
 - ### प्रमाणीकरण त्रुटी
 <pre>
@@ -78,7 +78,7 @@ git push origin -u your-branch-name
 घातक: 'https://github.com//first-contrib.git/' साठी प्रमाणीकरण अयशस्वी 
 </pre>
 [तुमच्या खात्यासाठी एसएसएच की तयार आणि कॉन्फिगर करण्यावर गिटहबचे ट्यूटोरियल](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account).
-
+</details>
 
 # तुमचे बदल पुनरावलोकनासाठी सबमिट करा
 
