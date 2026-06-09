@@ -622,6 +622,7 @@
 - [Priyanjal Rathore](https://github.com/rathore80)
 - [Priyansh Dugar](https://github.com/Priyansh10ff)
 - [Priyanshu Anand](https://github.com/Priyanshuanand1635)
+- [Satyam3245](https://github.com/satyam3245)
 - [Priyanshu](https://github.com/Priyanshu-arm)
 - [Pro Kumar](https://github.com/pkumar2143)
 - [Pulkit Shringi](https://github.com/PulkitShringi)
