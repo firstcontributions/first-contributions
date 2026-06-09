@@ -1157,4 +1157,4 @@ Karen cortes naarrp
 - [Gabriel de Paula] (https:/github.com/gabrieldepaula73)
 (https://github.com/ZanyDruid20)
 (https://github.com/ZanyDruid20)
-- [Juliano Bispo](https://github.com/julianobispo)
+- [Juliano Bispo](https://github.com/julianoab)
