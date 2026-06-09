@@ -146,7 +146,7 @@ For example:
 ```bash
 git switch -c add-alonzo-church
 ```
-
+ 
 <details>
 <summary> <strong>If you get any errors using git switch, click here:</strong> </summary>
 
