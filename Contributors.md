@@ -1,6 +1,7 @@
 # Contributors
 
 - [Ephraim-Munene](https://github.com/Ephraim-Munene)
+- [Marcus daymon](https://github.com/marcus-daymon)
 - [dweep-js](https://github.com/dweep-js)
 - [keeeeeliu](https://github.com/keeeeeliu)
 - [count-aaryam](https://github.com/count-aaryam)
@@ -883,6 +884,7 @@
 - [Sujal](https://github.com/sujaldarji)
 - [Sujit Kale](https://github.com/KaleSujit9011)
 - [Sumer](https://github.com/SumerSabharwal)
+Karen cortes naarrp
 - [Sumit Kumar](https://github.com/stevedav131207-cell)
 - [Sumit Sourabh](https://github.com/Sumit-sourabh45)
 - [Sumon](https://github.com/sumon3235)
@@ -1136,3 +1138,4 @@
 -[SaqibFarhanProgrammer](https://github.com/SaqibFarhanProgrammer)
 - [Siddharth](https://github.com/siddharth-singh-cs)
 - [Carlos Castillo](https://github.com/crcastillocalderon)
+- [alexis moros]https://github.com/arekushisumorosu
