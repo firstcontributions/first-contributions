@@ -3,6 +3,7 @@
 - [Ephraim-Munene](https://github.com/Ephraim-Munene)
 - [Marcus daymon](https://github.com/marcus-daymon)
 - [dweep-js](https://github.com/dweep-js)
+- [gmariel911](https://github.com/gmariel911)
 - [keeeeeliu](https://github.com/keeeeeliu)
 - [count-aaryam](https://github.com/count-aaryam)
 - [1Burhanuddin](https://github.com/1Burhanuddin)
