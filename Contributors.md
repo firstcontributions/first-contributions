@@ -1,5 +1,6 @@
 # Contributors
 
+- [Ephraim-Munene](https://github.com/Ephraim-Munene)
 - [dweep-js](https://github.com/dweep-js)
 - [keeeeeliu](https://github.com/keeeeeliu)
 - [count-aaryam](https://github.com/count-aaryam)
