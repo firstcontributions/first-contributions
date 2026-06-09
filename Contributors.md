@@ -10,6 +10,7 @@
 - [Prog-Monkey](https://github.com/Prog-Monkey)
 - [Chetanand](https://github.com/chetanandmeher)
 - [JoeArias1121](https://github.com/JoeArias1121)
+- [Saleeq Adnan Syed](https://github.com/CyberCoder-IITM)
 - [Mengyuan Ding](https://github.com/jessy-ding)
 - [6NaCl](https://github.com/6NaCl)
 - [8nchanter](https://github.com/8nchanter)
