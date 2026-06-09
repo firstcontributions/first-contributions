@@ -10,6 +10,7 @@
 - [Prog-Monkey](https://github.com/Prog-Monkey)
 - [Chetanand](https://github.com/chetanandmeher)
 - [JoeArias1121](https://github.com/JoeArias1121)
+- [ATgmu](https://githum.com/ATgmu)
 - [Saleeq Adnan Syed](https://github.com/CyberCoder-IITM)
 - [Mengyuan Ding](https://github.com/jessy-ding)
 - [6NaCl](https://github.com/6NaCl)
@@ -1150,3 +1151,11 @@ Karen cortes naarrp
 - [Diego Nicolas Gimenez Irusta](https://github.com/diegogimenez04)
 - [Gustavo Henrique](https://github.com/Chucknoorms)
 - [Valdinei Goncalves](https://github.com/Valdinei428)
+- [Luan Faria](https://github.com/HellKapiroto)
+- [patferman](https://github.com/patferman)
+- [Nathalia Santos](https://github.com/Nathalia-dev42)
+- [Furnom Dam]
+- [Gabriel de Paula] (https:/github.com/gabrieldepaula73)
+(https://github.com/ZanyDruid20)
+(https://github.com/ZanyDruid20)
+- [GMMICHELETTI]
