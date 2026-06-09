@@ -1151,4 +1151,5 @@ Karen cortes naarrp
 - [Diego Nicolas Gimenez Irusta](https://github.com/diegogimenez04)
 - [Gustavo Henrique](https://github.com/Chucknoorms)
 - [Furnom Dam]
+- [Gabriel de Paula] (https:/github.com/gabrieldepaula73)
 (https://github.com/ZanyDruid20)
