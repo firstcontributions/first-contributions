@@ -685,6 +685,7 @@
 - [Reynhard](https://github.com/reybui)
 - [Rezwan Mahmud](https://github.com/rezwan0x01)
 - [Ricardo Takara](https://github.com/tiedmud)
+- [Richard Miller](https://github.com/goshipgold417)
 - [Richeal](https://github.com/richeal-cmd)
 - [Ricidleiv](https://github.com/tondatto)
 - [Rishika](https://github.com/RISHIKA-A-S)
