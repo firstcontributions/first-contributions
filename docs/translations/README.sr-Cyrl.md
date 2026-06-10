@@ -198,7 +198,7 @@ git push -u origin your-branch-name
 - ### Грешка приликом аутентификације
      <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
   remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
-  fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
+  fatal: Authentication failed for 'https://github.com/&lt;your-username&gt;/first-contributions.git/'</pre>
   Погледајте [GitHub-ов туторијал](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) за генерисање и конфигурацију SSH кључа за Ваш налог.
 
   Такође, можда ћете желети да извршите 'git remote -v' да бисте проверили Вашу удаљену адресу.
