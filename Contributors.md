@@ -511,6 +511,7 @@
 - [Moe Nyi](https://github.com/moenyi12-kraken)
 - [Monica Fagerli](https://github.com/MonicaKristine)
 - [Mudasir Ali](https://github.com/mudasirunar)
+- [Muhammad Junaid](https://github.com/m-junaid-dev)
 - [Muhammad Habiibullah](https://github.com/habiibullahm)
 - [Muhammad Imran Butt](https://github.com/imranbuttcodes)
 - [Muhammed Shareef](https://github.com/shareefmx)
