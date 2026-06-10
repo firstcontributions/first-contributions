@@ -734,6 +734,7 @@
 - [Rayhan-099](https://github.com/rayhan-099)
 - [ReCodes26](https://github.com/ReCodes26)
 - [Rehab Ragab](https://github.com/RehabAbotalep)
+- [Rehaan Moodley](https://github.com/Rehaan7R)
 - [Rein Ding](https://github.com/ReinDing)
 - [RestingNigel](https://github.com/RestingNigel)
 - [Reynhard](https://github.com/reybui)
