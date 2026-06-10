@@ -498,6 +498,7 @@
 - [Luiz Eduardo Oliveira Mendes](https://github.com/DuduBz7)
 - [Luka](https://github.com/LukachuPro88)
 - [Luohino](https://github.com/Luohino)
+- [Sanjay Pandey](https://github.com/maescoder)
 - [Lythae|Öykü](https://github.com/oykunazergelen)
 - [MOHAMED ARRAF](https://github.com/medoxee)
 - [M_Rizwan](https://github.com/rizwan749)
