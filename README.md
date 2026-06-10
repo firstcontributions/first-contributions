@@ -141,6 +141,8 @@ Now create a branch using the `git switch` command:
 git switch -c your-new-branch-name
 ```
 
+A branch is a separate workspace for your changes. Creating a branch keeps your work separate from the `main` branch, so you can safely make edits and open a pull request without changing the main copy of the project directly.
+
 For example:
 
 ```bash
