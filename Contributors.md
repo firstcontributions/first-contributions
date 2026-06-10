@@ -308,6 +308,7 @@
 - [G S Abinivas](https://github.com/abi6374)
 - [G.Mohammed Mansoor](https://github.com/VoidKernel786)
 - [Gabe Jasso](https://github.com/0bitbybit)
+- [Gabriel A Fernandez](https://github.com/gfernandez123)
 - [Gabriel N Thayil](https://github.com/GabrielNThayil)
 - [Gali Alon](https://github.com/gali-alon)
 - [Ganesha N Hotti](https://github.com/GaneshaNHotti)
