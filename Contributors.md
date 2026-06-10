@@ -195,6 +195,7 @@
 - [Charly Islami](https://github.com/CharlyIslami)
 - [Charul Nampalliwar](https://github.com/Charul2304)
 - [Chemini Newanma](https://github.com/chemini244)
+- [Nikita Shiwach](https://github.com/nikitashiwach)
 - [Chetan](https://github.com/chetanakashV/)
 - [Chhaya Naidu](https://github.com/ChhayaN6)
 - [Chinenye Agu](https://github.com/Drchiagu)
