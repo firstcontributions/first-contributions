@@ -520,7 +520,7 @@
 - [Nagaraj Desai](https://github.com/nagarajd11)
 - [Nagaraj](https://github.com/Nagaraj335)
 - [Naimur Rahman](https://github.com/NaimurRahmannn)
-- [Nappi Peter] (https://github.com/KingVultre)
+- [Nappi Peter] (https://github.com/Pnappi)
 - [Narra-Jaswanth](https://github.com/Narra-Jaswanth)
 - [Nasser Buhamad](https://github.com/arabgb)
 - [Nathan Kutete](https://github.com/nathankuts)
