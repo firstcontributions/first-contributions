@@ -5,6 +5,7 @@
 - [dweep-js](https://github.com/dweep-js)
 - [gmariel911](https://github.com/gmariel911)
 - [keeeeeliu](https://github.com/keeeeeliu)
+- [John Martin](https://github.com/johnj-0316)
 - [count-aaryam](https://github.com/count-aaryam)
 - [1Burhanuddin](https://github.com/1Burhanuddin)
 - [Prog-Monkey](https://github.com/Prog-Monkey)
@@ -23,6 +24,7 @@
 - [Aakanksha Jadhav](https://github.com/aakankshajadhav2006)
 - [Anupriya soni](https://github.com/anupriyasoni-debug)
 - [Aamir Khan](https://github.com/aamir296)
+- [Ayaan Khan](https://github.com/ayaan47-1)
 - [Sai Praneeth Sharma](https://github.com/SHARMA1525)
 - [ELOI-CODE1](https://github.com/ELOI-CODE1)
 - [Ragul Arumugam](https://github.com/ragul-rofi)
@@ -1161,5 +1163,4 @@ Karen cortes naarrp
 - [GMMICHELETTI](https://github.com/gmmicheletti)
 - [Taina_valino]
 - [Juliano Bispo](https://github.com/julianoab)
-
-- [Gina Ding]([我的小站](https://icurious-d.github.io/))
+- [Gina Ding](https://icurious-d.github.io/)
