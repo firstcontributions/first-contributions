@@ -1,6 +1,7 @@
 # Contributors
 
 - [Ephraim-Munene](https://github.com/Ephraim-Munene)
+- [Harish-Peddi](https://github.com/hiharish)
 - [Marcus daymon](https://github.com/marcus-daymon)
 - [dweep-js](https://github.com/dweep-js)
 - [gmariel911](https://github.com/gmariel911)
