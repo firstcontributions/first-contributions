@@ -652,6 +652,7 @@
 - [Pratham Debnath](https://github.com/isthatpratham)
 - [Prathamesh Kulkarni](https://github.com/prathamk11)
 - [Prathmesh-Yadav](https://github.com/Prathmesh-Yadav0269)
+- [Pratik Joshi](https://github.com/pratikjoshi22)
 - [Praveen Kayala](https://github.com/Praveen6-kms)
 - [Praveer Ranjan Singh](https://github.com/PRAVEERRANJANSINGH)
 - [Pravin I](https://github.com/motoe-pi)
