@@ -730,6 +730,7 @@
 - [Rithik Puthiyedath](https://github.com/Rithik149)
 - [RitwikReddy](https://github.com/RitwikReddyAerla)
 - [Riya Kushwaha](https://github.com/riyak790)
+- [Khanak Jain] (https://github.com/khanakjain511)
 - [Rizky-Amand](https://github.com/rzky21amanda-prog)
 - [Robert Mongold](https://github.com/rtmongold)
 - [Rochard Wentzinger](https://github.com/Rorocode911)
