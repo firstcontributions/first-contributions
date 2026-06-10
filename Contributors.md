@@ -1173,6 +1173,7 @@ Karen cortes naarrp
 - [Taina_valino]
 - [Juliano Bispo](https://github.com/julianoab)
 - [Gina Ding](https://icurious-d.github.io/)
+- [Simona Sirbu]
 - Ashish
 Roshni-K6
 - [xleftee](https://github.com/xleftee)
