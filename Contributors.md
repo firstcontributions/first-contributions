@@ -193,6 +193,7 @@
 - [Celin Mampilly](https://github.com/celin-mampilly)
 - [Cesar Ochoa](https://github.com/cesarocbu)
 - [Chakri](https://github.com/chakri)
+- [Iyed Souilem](https://github.com/RectoBlazer)
 - [Chamith Dilshan Tharuka](https://github.com/ChamithDilshanTharuka)
 - [Chandrasekar Ravi](https://github.com/ChandruRavi3708)
 - [Charly Islami](https://github.com/CharlyIslami)
