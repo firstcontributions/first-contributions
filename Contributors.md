@@ -193,6 +193,7 @@
 - [Celin Mampilly](https://github.com/celin-mampilly)
 - [Cesar Ochoa](https://github.com/cesarocbu)
 - [Chakri](https://github.com/chakri)
+- [Iyed Souilem](https://github.com/RectoBlazer)
 - [Chamith Dilshan Tharuka](https://github.com/ChamithDilshanTharuka)
 - [Chandrasekar Ravi](https://github.com/ChandruRavi3708)
 - [Charly Islami](https://github.com/CharlyIslami)
@@ -1157,10 +1158,10 @@ Karen cortes naarrp
 - [Shreya Das](https://github.com/sd2604)
 - [Ayaan Kapoor](https://github.com/Ayaan-20-11)
 - [Rajiv Ranjan Sahu](https://github.com/rajivranjan7)
-- chandu bollu
 - [Vinayak Saxena](https://github.com/arkhamKnight78)
 - [Deepanshu Kumar Jha](https://github.com/CppCracker11)
-- [Groot Chen](https://github.com/Groot-PM)- [Phillippe Garado](https://github.com/Hubrisdog)
+- [Groot Chen](https://github.com/Groot-PM)
+- [Phillippe Garado](https://github.com/Hubrisdog)
 - [Phillippe G.](https://github.com/Hubrisdog)
 - [Shubh V](https://github.com/shubhvarshney100)
 - [yash2329-sug](https://github.com/yash2329-sug)
@@ -1171,7 +1172,7 @@ Karen cortes naarrp
 - [Ewerson Benigno](https://github.com/ewbenigno)
 - [AugustoPS77](https://github.com/AugustoPS77)
 - [Saran](https://github.com/ShyamsaranRajendran) 
--[SaqibFarhanProgrammer](https://github.com/SaqibFarhanProgrammer)
+- [SaqibFarhanProgrammer](https://github.com/SaqibFarhanProgrammer)
 - [Siddharth](https://github.com/siddharth-singh-cs)
 - [Carlos Castillo](https://github.com/crcastillocalderon)
 - [alexis moros](https://github.com/arekushisumorosu)
@@ -1183,17 +1184,10 @@ Karen cortes naarrp
 - [Luan Faria](https://github.com/HellKapiroto)
 - [patferman](https://github.com/patferman)
 - [Nathalia Santos](https://github.com/Nathalia-dev42)
-- [Furnom Dam]
-- [Gabriel de Paula] (https:/github.com/gabrieldepaula73)
-(https://github.com/ZanyDruid20)
-(https://github.com/ZanyDruid20)
+- [Gabriel de Paula](https:/github.com/gabrieldepaula73)
 - [GMMICHELETTI](https://github.com/gmmicheletti)
 - [Taina_valino]
 - [Juliano Bispo](https://github.com/julianoab)
 - [Gina Ding](https://icurious-d.github.io/)
 - [Simona Sirbu]
-- Ashish
-Roshni-K6
 - [xleftee](https://github.com/xleftee)
-- [MANOJ](https://github.com/Manojuio)
-- [nitikpsn](https://github.com/Nitikpsn)
