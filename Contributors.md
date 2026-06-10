@@ -400,6 +400,7 @@
 - [JJS](https://github.com/jsng23)
 - [Jaanvi Chouhan](https://github.com/Jaanvichouhan34)
 - [Jacoy yu](https://github.com/meloer101)
+- [Jun Takeyama](https://github.com/JUNTAKEYAMA)
 - [Jadar7](https://github.com/Jadar7)
 - [Jaehoon Son](https://github.com/JaehoonSon)
 - [Jagriti Tiwari](https://github.com/jagriti-codes)
