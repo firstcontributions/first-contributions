@@ -7,6 +7,7 @@
 - [gmariel911](https://github.com/gmariel911)
 - [Arnesh-Vimalraj](https://github.com/Arnesh-Vimalraj)
 - [keeeeeliu](https://github.com/keeeeeliu)
+- [shreyashposhattiwar] (https://github.com/ShreyashPoshattiwar)
 - [John Martin](https://github.com/johnj-0316)
 - [count-aaryam](https://github.com/count-aaryam)
 - [1Burhanuddin](https://github.com/1Burhanuddin)
@@ -69,6 +70,8 @@
 - [Aleem](https://github.com/Aleem-628296)
 - [Ali Ali](https://github.com/AlAl45643)
 - [Nathan Donley](https://github.com/N8theGr8est)
+- [Alex](https://github.com/Neznix)
+- [Knut](https://github.com/PowershellKnut)
 - [Allen Rahul](https://github.com/Allen737)
 - [Alma](https://github.com/Yazz405)
 - [Aman Kumar Verma](https://github.com/amanbuilds-hub)
@@ -623,6 +626,7 @@
 - [Priyanshu Sharma](https://github.com/MrCarnage00)
 - [Pouya Esfahani](https://github.com/Pooyash1998)
 - [Prabhat Bhatia](https://github.com/prabhatbhatiaa)
+- [Prabhav Sharma](https://github.com/23f2002227)
 - [Pradeep Reddy](https://github.com/Pradeep0997)
 - [Pragyey](https://github.com/CatalyzedHONEY)
 - [Prajaka Jagdale](https://github.com/Hermione28)
@@ -727,6 +731,7 @@
 - [Rithik Puthiyedath](https://github.com/Rithik149)
 - [RitwikReddy](https://github.com/RitwikReddyAerla)
 - [Riya Kushwaha](https://github.com/riyak790)
+- [Khanak Jain] (https://github.com/khanakjain511)
 - [Rizky-Amand](https://github.com/rzky21amanda-prog)
 - [Robert Mongold](https://github.com/rtmongold)
 - [Rochard Wentzinger](https://github.com/Rorocode911)
@@ -1174,6 +1179,7 @@ Karen cortes naarrp
 - [Taina_valino]
 - [Juliano Bispo](https://github.com/julianoab)
 - [Gina Ding](https://icurious-d.github.io/)
+- [Simona Sirbu]
 - Ashish
 Roshni-K6
 - [xleftee](https://github.com/xleftee)
