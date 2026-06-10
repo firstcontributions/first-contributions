@@ -23,7 +23,7 @@
 - [allCodeBreaker](https://github.com/allCodeBreaker")
 - [8nchanter](https://github.com/8nchanter)
 - [8saku](https://github.com/8saku8)
-- [Edcampbell1](https://github.com/Edcampbell1) 
+- [Edcampbell1](https://github.com/Edcampbell1)
 - - [Vineet](https://github.com/123vin123)
 - [@Zakiahsan-arch](https://github.com/Zakiahsan-arch)
 - [Adelita B.](https://github.com/adelitab)
@@ -1206,10 +1206,11 @@
 - [Gina Ding](https://icurious-d.github.io/)
 - [Simona Sirbu]
 - Ashish
+  Roshni-K6
 - [Heeseong Kim](https://github.com/mors119)
-Roshni-K6
 - [xleftee](https://github.com/xleftee)
 - [MANOJ](https://github.com/Manojuio)
 - [nitikpsn](https://github.com/Nitikpsn)
 - [Evarline Mipata](https://github.com/Evarline)
+- [tarun singh](https://github.com/fyodor88)
 
