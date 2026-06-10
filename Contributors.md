@@ -973,7 +973,7 @@ Karen cortes naarrp
 - [Uppala Anand](https://github.com/uppalaanand)
 - [tokito-99](https://github.com/tokito-99)
 - [Usman Malik](https://github.com/Usman-Malik121)
-Vedant Wadekar as a Contributor
+</br>Vedant Wadekar as a Contributor
 - [Vaasu](https://github.com/vorte-wq)
 - [Vaibhav Chitransh](https://github.com/Vaibhav-Chitransh)
 - [Vaibhav Hample](https://github.com/Vaibhav-rgb45)
