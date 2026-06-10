@@ -114,6 +114,7 @@
 - [Aryan](https://github.com/aryan-neogi)
 - [Asher King](https://github.com/asher-not-king)
 - [Ashhad](https://github.com/Ashhad-Mazhar)
+- [Ashidul Islam](https://github.com/Ashid332)
 - [Ashik Ahmed](https://github.com/trueashik)
 - [Ashish Namdeo](https://github.com/ashishnamdeo16)
 - [Ashitha T](https://github.com/Ashi-tha)
