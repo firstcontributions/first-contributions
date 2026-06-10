@@ -20,6 +20,7 @@
 - [Saleeq Adnan Syed](https://github.com/CyberCoder-IITM)
 - [Mengyuan Ding](https://github.com/jessy-ding)
 - [6NaCl](https://github.com/6NaCl)
+- [allCodeBreaker](https://github.com/allCodeBreaker")
 - [8nchanter](https://github.com/8nchanter)
 - [8saku](https://github.com/8saku8)
 - [Edcampbell1](https://github.com/Edcampbell1) 
