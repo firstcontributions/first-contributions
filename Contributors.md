@@ -83,6 +83,7 @@
 - [Amishi Agrawal](https://github.com/amishiagrawal)
 - [Ethan Boya](https://github.com/ethanboya)
 - [AmberStars](https://github.com/AmberStars)
+- [Anirudh Sharma](https://github.com/creativeknightl0)
 - [Amruta Wavdhane](https://github.com/Amruta-32)
 - [Anand Mani Tiwari](https://github.com/anandmt)
 - [Andrei Laurentiu](https://github.com/landreiiii/)
