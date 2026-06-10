@@ -24,6 +24,7 @@
 - - [Vineet](https://github.com/123vin123)
 - [@Zakiahsan-arch](https://github.com/Zakiahsan-arch)
 - [Keara Skilling](https://github.com/keara-skilling)
+- [Richard Silva](https://github.com/Rrss1992)
 - [Anubhav Gupta](https://github.com/Anubhav990)
 - [Aakanksha Jadhav](https://github.com/aakankshajadhav2006)
 - [Anupriya soni](https://github.com/anupriyasoni-debug)
