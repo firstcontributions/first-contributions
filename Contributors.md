@@ -742,6 +742,7 @@
 - [Robert Mongold](https://github.com/rtmongold)
 - [Rochard Wentzinger](https://github.com/Rorocode911)
 - [Rodrigo Mahlow](https://github.com/rmahlow/)
+- [Rohith Ramu](https://github.com/redmonster1224)
 - [Roia Tembo](https://github.com/roiatembo)
 - [Roland](https://github.com/rolandmn)
 - [Roma](https://github.com/23f2002478-ROMA)
