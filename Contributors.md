@@ -1153,6 +1153,7 @@ Karen cortes naarrp
 - [UncleWei9527](https://github.com/UncleWei9527)
 - [Ventixz](https://github.com/Ventixz)
 - [AlexanderZ0](https://github.com/AlexanderZ0)
+- [VlkovHristo](https://github.com/VlkovHristo)
 - [Haku666-max](https://github.com/Haku666-max)
 - [Mdfaf](https://github.com/mdfaf)
 - [Shreyan Sharma](https://github.com/Sh3456)
