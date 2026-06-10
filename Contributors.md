@@ -5,6 +5,7 @@
 - [Marcus daymon](https://github.com/marcus-daymon)
 - [dweep-js](https://github.com/dweep-js)
 - [gmariel911](https://github.com/gmariel911)
+- [Arnesh-Vimalraj](https://github.com/Arnesh-Vimalraj)
 - [keeeeeliu](https://github.com/keeeeeliu)
 - [John Martin](https://github.com/johnj-0316)
 - [count-aaryam](https://github.com/count-aaryam)
