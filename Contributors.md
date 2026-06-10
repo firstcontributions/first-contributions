@@ -1161,3 +1161,5 @@ Karen cortes naarrp
 - [GMMICHELETTI](https://github.com/gmmicheletti)
 - [Taina_valino]
 - [Juliano Bispo](https://github.com/julianoab)
+
+- [Gina Ding]([我的小站](https://icurious-d.github.io/))
