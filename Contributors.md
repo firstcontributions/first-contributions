@@ -533,6 +533,7 @@
 - [Nicholas C](https://github.com/KrustKrabPizza42/)
 - [Nicholas Sobchak](https://github.com/NicholasSobchak)
 - [Nicolas Antonio](https://github.com/nicolasantonioa)
+- [Nicoleeee Unilag] (https://github.com/justnicolee)
 - [Nidhi Kumari](https://github.com/nidhii-dev)
 - [NihadVeliyev](https://github.com/NihadVeliyev)
 - [Niharika Gupta](https://github.com/guptaniharika8953)
