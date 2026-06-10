@@ -1,6 +1,5 @@
 # Contributors
 
-- [Prakash Kumar Jha](https://github.com/prakashiitp)
 - [Ephraim-Munene](https://github.com/Ephraim-Munene)
 - [Harish-Peddi](https://github.com/hiharish)
 - [Marcus daymon](https://github.com/marcus-daymon)
@@ -48,6 +47,7 @@
 - [Abdellah](https://github.com/Abdev314)
 - [Azib-Mehraj](https://github.com/Azib-MehrajCollege)
 - [Abdelrahman_Mohye](https://github.com/aboda-0100011)
+- [Prakash Kumar Jha](https://github.com/prakashiitp)
 - [Abdul Azeez](https://github.com/Syedabdulazeez-021)
 - [Abdul Kareem](https://github.com/abdulkareem97)
 - [Abdulkarim Mohammed](https://github.com/amdev0)
