@@ -13,7 +13,7 @@ Readin' tales & watchin' tutorials can help, but wha''s better than actually doi
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="plunder this code chest" />
 
-If ye don't 'ave git on yer machine, [install it](https://help.github.com/articles/set-up-git/).
+If ye don't have git on yer machine, [install it](https://help.github.com/articles/set-up-git/).
 
 ## Fork this repository
 
@@ -100,7 +100,7 @@ replacin' `<add-yer-branch-name>` wit' th' name o' th' branch ye created earlier
 
 ## Submit yer changes fer review
 
-If ye go t' yer repository on GitHub, ye'll see a  `Compare & pull request` button.  Click on that button.
+If ye go t' your repository on GitHub, ye'll see a  `Compare & pull request` button.  Click on that button.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="raise a flag fer a pull request" />
 
@@ -110,9 +110,9 @@ Now submit th' pull request.
 
 Soon I'll be mergin' all yer changes into th' master branch o' this project. Ye will get a notification email once th' changes 'ave been merged.
 
-## Where t' go from here?
+## Where to' go from here?
 
-Well done! Ye jus' completed th' standard _fork -> clone -> edit -> PR_ workflow that ye'll encounter often as a contributor!
+Well done! Ye just' completed the' standard _fork -> clone -> edit -> PR_ workflow that ye'll encounter often as a contributor!
 
 Celebrate yer contribution 'n share it wit' yer hearties 'n followers by goin' t' [web app](https://firstcontributions.github.io/#social-share).
 
