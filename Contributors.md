@@ -12,6 +12,7 @@
 - [Anubhav Gupta](https://github.com/Anubhav990)
 - [Aakanksha Jadhav](https://github.com/aakankshajadhav2006)
 - [Aamir Khan](https://github.com/aamir296)
+- [Ayaan Khan](https://github.com/ayaan47-1)
 - [ELOI-CODE1](https://github.com/ELOI-CODE1)
 - [Ragul Arumugam](https://github.com/ragul-rofi)
 - [Aamir](https://github.com/AamirMNAamir)
