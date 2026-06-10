@@ -6,6 +6,7 @@
 - [dweep-js](https://github.com/dweep-js)
 - [gmariel911](https://github.com/gmariel911)
 - [Arnesh-Vimalraj](https://github.com/Arnesh-Vimalraj)
+- [TheNMan](https://github.com/gnikkoch96)
 - [keeeeeliu](https://github.com/keeeeeliu)
 - [shreyashposhattiwar] (https://github.com/ShreyashPoshattiwar)
 - [John Martin](https://github.com/johnj-0316)
