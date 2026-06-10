@@ -70,7 +70,7 @@
 - [Aleem](https://github.com/Aleem-628296)
 - [Ali Ali](https://github.com/AlAl45643)
 - [Nathan Donley](https://github.com/N8theGr8est)
-- [Alex] (https://github.com/Neznix)
+- [Alex](https://github.com/Neznix)
 - [Allen Rahul](https://github.com/Allen737)
 - [Alma](https://github.com/Yazz405)
 - [Aman Kumar Verma](https://github.com/amanbuilds-hub)
