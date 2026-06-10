@@ -23,6 +23,7 @@
 - [Edcampbell1](https://github.com/Edcampbell1) 
 - - [Vineet](https://github.com/123vin123)
 - [@Zakiahsan-arch](https://github.com/Zakiahsan-arch)
+- [Adelita B.](https://github.com/adelitab)
 - [Keara Skilling](https://github.com/keara-skilling)
 - [Anubhav Gupta](https://github.com/Anubhav990)
 - [Aakanksha Jadhav](https://github.com/aakankshajadhav2006)
