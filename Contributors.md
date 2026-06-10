@@ -1197,3 +1197,4 @@ Roshni-K6
 - [xleftee](https://github.com/xleftee)
 - [MANOJ](https://github.com/Manojuio)
 - [nitikpsn](https://github.com/Nitikpsn)
+- [Evarline Mipata](https://github.com/Evarline)
