@@ -1,13 +1,13 @@
 <div dir="rtl" lang="ps">
 
 <a href="https://github.com/ellerbrock/open-source-badges/">
-  <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source Love" />
+  <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="د خلاصې سرچینې مینه" />
 </a>
 <a href="https://opensource.org/licenses/MIT">
-  <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="MIT License" />
+  <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="د MIT جواز" />
 </a>
 <a href="https://www.codetriage.com/roshanjossey/first-contributions">
-  <img src="https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg" alt="Open Source Helpers" />
+  <img src="https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg" alt="د خلاصې سرچینې مرسته کوونکي" />
 </a>
 
 ---
