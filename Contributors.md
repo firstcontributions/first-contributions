@@ -79,6 +79,7 @@
 - [Aclguh](https://github.com/Aclguh)
 - [Aditi Kumari](https://github.com/aditi-avni)
 - [Aditya Kaushik](https://github.com/AdityaK05)
+- [Akshatha Jogi](https://github.com/Akshathajogi)
 - [AfiqN](https://github.com/AfiqN)
 - [Akshit Goel](https://github.com/aclox)
 - [Aleem](https://github.com/Aleem-628296)
