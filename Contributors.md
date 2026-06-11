@@ -1,5 +1,6 @@
 # Contributors
 - [ThoorM444](https://github.com/thoorM444)
+- [Mr-Broccolli](https://github.com/Mr-Broccolli)
 - [VisionStack-404](https://github.com/VisionStack-404)
 - [zxy010666-byte](https://github.com/zxy010666-byte)
 - [Nathan-Bezabeh](https://github.com/nati2405)
