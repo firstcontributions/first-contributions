@@ -1221,3 +1221,4 @@
 - [tarun singh](https://github.com/fyodor88)
 - [Dipti](https://github.com/Dipti46)
 - [Natan] (https://github.com/sharedbyNatan)
+- [Roger Briskey](https://github.com/rbriskey/)
