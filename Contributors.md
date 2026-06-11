@@ -1232,6 +1232,7 @@
 - Ashish
   Roshni-K6
 - [Heeseong Kim](https://github.com/mors119)
+- [Ron Shigeta](https://github.com/iAccelTech) 
 - [xleftee](https://github.com/xleftee)
 - [MANOJ](https://github.com/Manojuio)
 - [nitikpsn](https://github.com/Nitikpsn)
