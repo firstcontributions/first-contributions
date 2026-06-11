@@ -1,0 +1,32 @@
+flowchart TD
+  A[Establish Governance Framework]
+  B[Define Principles & Standards]
+  C[Integrate Governance with ADM & Projects]
+  D[Architecture Development (ADM Phases)]
+  E[Schedule Compliance Reviews at Checkpoints]
+  F{Review Outcome}
+  G[Approve & Publish Architecture]
+  H[Require Remediation]
+  I[Request Rework]
+  J[Evaluate Exception]
+  K{Exception Decision}
+  L[Implementation Governance & Monitoring]
+  M[Measure & Improve Governance]
+
+  A --> B
+  B --> C
+  C --> D
+  D --> E
+  E --> F
+  F -->|Approved| G
+  F -->|Approved with Conditions| H
+  F -->|Rejected| I
+  F -->|Exception Requested| J
+  H --> D
+  I --> D
+  J --> K
+  K -->|Approved| G
+  K -->|Rejected| I
+  G --> L
+  L --> M
+  M --> B

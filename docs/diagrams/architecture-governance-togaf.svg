@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1400" viewBox="0 0 1000 1400">
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="10" refY="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#333" />
+    </marker>
+    <style>
+      .box { fill:#fff; stroke:#2b2b2b; stroke-width:2; rx:8; }
+      .text { font: 14px sans-serif; fill:#111 }
+      .title { font: 16px sans-serif; font-weight:700 }
+      .diamond { fill:#fff; stroke:#2b2b2b; stroke-width:2 }
+    </style>
+  </defs>
+
+  <!-- Title -->
+  <text x="500" y="32" text-anchor="middle" class="title">Architecture Governance — TOGAF Flow</text>
+
+  <!-- Nodes (vertical layout) -->
+  <!-- A -->
+  <rect x="250" y="60" width="500" height="60" class="box"/>
+  <text x="500" y="98" text-anchor="middle" class="text">Establish Governance Framework</text>
+
+  <!-- B -->
+  <rect x="250" y="150" width="500" height="60" class="box"/>
+  <text x="500" y="188" text-anchor="middle" class="text">Define Principles & Standards</text>
+
+  <!-- C -->
+  <rect x="250" y="240" width="500" height="60" class="box"/>
+  <text x="500" y="278" text-anchor="middle" class="text">Integrate Governance with ADM & Projects</text>
+
+  <!-- D -->
+  <rect x="250" y="330" width="500" height="60" class="box"/>
+  <text x="500" y="368" text-anchor="middle" class="text">Architecture Development (ADM Phases)</text>
+
+  <!-- E -->
+  <rect x="250" y="420" width="500" height="60" class="box"/>
+  <text x="500" y="458" text-anchor="middle" class="text">Schedule Compliance Reviews at Checkpoints</text>
+
+  <!-- F (Decision) -->
+  <g transform="translate(500,560)">
+    <polygon points="0,-50 130,0 0,50 -130,0" class="diamond"/>
+    <text x="0" y="6" text-anchor="middle" class="text">Review Outcome</text>
+  </g>
+
+  <!-- Outcomes -->
+  <rect x="90" y="660" width="300" height="60" class="box"/>
+  <text x="240" y="698" text-anchor="middle" class="text">Approved</text>
+
+  <rect x="350" y="660" width="300" height="60" class="box"/>
+  <text x="500" y="698" text-anchor="middle" class="text">Approved with Conditions</text>
+
+  <rect x="610" y="660" width="280" height="60" class="box"/>
+  <text x="750" y="698" text-anchor="middle" class="text">Rejected</text>
+
+  <!-- Exception -->
+  <rect x="350" y="760" width="300" height="60" class="box"/>
+  <text x="500" y="798" text-anchor="middle" class="text">Exception Requested / Evaluate Exception</text>
+
+  <!-- G (Approved) -->
+  <rect x="250" y="860" width="500" height="60" class="box"/>
+  <text x="500" y="898" text-anchor="middle" class="text">Approve & Publish Architecture</text>
+
+  <!-- H (Remediation) -->
+  <rect x="60" y="960" width="300" height="60" class="box"/>
+  <text x="210" y="998" text-anchor="middle" class="text">Require Remediation</text>
+
+  <!-- I (Request Rework) -->
+  <rect x="610" y="960" width="280" height="60" class="box"/>
+  <text x="750" y="998" text-anchor="middle" class="text">Request Rework</text>
+
+  <!-- K (Exception Decision) -->
+  <g transform="translate(500,1060)">
+    <polygon points="0,-40 90,0 0,40 -90,0" class="diamond"/>
+    <text x="0" y="6" text-anchor="middle" class="text">Exception Decision</text>
+  </g>
+
+  <!-- L -->
+  <rect x="250" y="1160" width="500" height="60" class="box"/>
+  <text x="500" y="1198" text-anchor="middle" class="text">Implementation Governance & Monitoring</text>
+
+  <!-- M -->
+  <rect x="250" y="1260" width="500" height="60" class="box"/>
+  <text x="500" y="1298" text-anchor="middle" class="text">Measure & Improve Governance</text>
+
+  <!-- Arrows -->
+  <line x1="500" y1="120" x2="500" y2="150" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="500" y1="210" x2="500" y2="240" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="500" y1="300" x2="500" y2="330" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="500" y1="390" x2="500" y2="420" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="500" y1="480" x2="500" y2="510" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- from decision to outcomes -->
+  <line x1="370" y1="560" x2="260" y2="660" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="500" y1="610" x2="500" y2="660" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="630" y1="560" x2="720" y2="660" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="500" y1="610" x2="500" y2="760" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- outcomes back to ADM -->
+  <line x1="240" y1="720" x2="500" y2="860" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="500" y1="720" x2="500" y2="860" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="760" y1="720" x2="760" y2="960" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- remediation and rework back to ADM -->
+  <line x1="210" y1="1020" x2="500" y2="390" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="750" y1="1020" x2="500" y2="390" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- exception branch -->
+  <line x1="500" y1="820" x2="500" y2="860" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="500" y1="820" x2="500" y2="1040" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="500" y1="1100" x2="500" y2="1160" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- final loop back to standards -->
+  <line x1="500" y1="1320" x2="500" y2="1500" stroke="#999" stroke-width="1"/>
+
+</svg>
