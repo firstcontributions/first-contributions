@@ -335,6 +335,7 @@
 - [Francisco Lopes](https://github.com/Francisc0Lopes)
 - [Frankie Liu](https://github.com/FrankieLiuF)
 - [Frederick2313072](https://github.com/Frederick2313072)
+- [Javed Ak](https://github.com/javed-ak)
 - [FromSi](https://github.com/FromSi)
 - [FuraxDev](https://github.com/furax2204)
 - [Furkan Can](https://github.com/Furkancan2)
