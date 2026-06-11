@@ -776,6 +776,7 @@
 - [Khanak Jain] (https://github.com/khanakjain511)
 - [Rizky-Amand](https://github.com/rzky21amanda-prog)
 - [Robert Mongold](https://github.com/rtmongold)
+- [Praneeth N Naik](https://github.com/praneeth-naik) 
 - [Rochard Wentzinger](https://github.com/Rorocode911)
 - [Rodrigo Mahlow](https://github.com/rmahlow/)
 - [Rohith Ramu](https://github.com/redmonster1224)
