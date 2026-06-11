@@ -83,6 +83,7 @@
 - [Ali Ali](https://github.com/AlAl45643)
 - [Nathan Donley](https://github.com/N8theGr8est)
 - [Alex](https://github.com/Neznix)
+- [Aryaa] (https://github.com/aryaa-05)
 - [Knut](https://github.com/PowershellKnut)
 - [Allen Rahul](https://github.com/Allen737)
 - [Alma](https://github.com/Yazz405)
