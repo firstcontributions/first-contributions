@@ -625,6 +625,7 @@
 - [OsamaShabih](https://github.com/osamashabih6960)
 - [Osinachi Chukwujama](https://github.com/vicradon)
 - [Ossama Nahle](https://github.com/ossamanahle)
+- [Owais] (https://github.com/OwaisBinary)
 - [OwOchiii](https://github.com/OwOchiii)
 - [Ozan Kenan Güngör](https://github.com/ozankenangungor)
 - [Ozan Armagan](https://github.com/ozanpozan)
