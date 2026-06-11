@@ -125,6 +125,7 @@
 - [Aryan-Londhe](https://github.com/Aryan-Londhe)
 - [Ayesha Akram](https://github.com/AyeshaAkram01)
 - [Aryan](https://github.com/aryan-neogi)
+- [Aryan Mahajan](https://github.com/aryanmjn)
 - [Asher King](https://github.com/asher-not-king)
 - [Ashhad](https://github.com/Ashhad-Mazhar)
 - [Ashidul Islam](https://github.com/Ashid332)
