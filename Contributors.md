@@ -833,6 +833,7 @@
 - [Samuel Cardoso](https://github.com/samuellcardoso)
 - [Samuel Mueses](https://github.com/Samxss)
 - [Samuel Wright](samw46)
+- [Sanchita Gupta](https://github.com/SanchitaGupta7)
 - [Sandeep s](https://github.com/SandeeepS)
 - [Sandeepa Induwara Samaranayake](https://github.com/SandeepaInduwaraSamaranayake)
 - [Sandhya Adhikari](https://github.com/Sandhya-ad)
