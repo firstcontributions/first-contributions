@@ -95,6 +95,7 @@
 - [Aman Kumar Verma](https://github.com/amanbuilds-hub)
 - [Amavidato](https://github.com/Amavidato)
 - [Amishi Agrawal](https://github.com/amishiagrawal)
+- [Dani Noble] (https://github.com/dnvdevx)
 - [Ethan Boya](https://github.com/ethanboya)
 - [AmberStars](https://github.com/AmberStars)
 - [Anirudh Sharma](https://github.com/creativeknightl0)
