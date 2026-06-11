@@ -878,6 +878,7 @@
 - [Shalu Tiwari](https://github.com/tshalu63)
 - [Shanmuga Sundaram Natarajan](https://github.com/shanmuga-sundaram-n)
 - [Shantha](https://github.com/shantha26)
+- [ShanYu Hsiao](https://github.com/hsyisshy)
 - [Sharad Malviya](https://github.com/SharadMalviya-0)
 - [Shariq Naseem](https://github.com/muhammadshariq0007)
 - [Shaurya Rawat](https://github.com/shaurya0702-droid)
