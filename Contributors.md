@@ -410,6 +410,7 @@
 - [Ifunanya William Onah](https://github.com/IfunanyaWilliam)
 - [Ignvvcio254](https://github.com/Ignvvcio254)
 - [Ihsanullah Lemar](https://github.com/ihsanlemar-blip)
+- [Ingeborg Marie Lende](https://github.com/IngeborgMarieLende)
 - [ImLUJM](https://github.com/ImLUJM)
 - [Imane](https://github.com/kimaneeee00-gif)
 - [Indranil Roy](https://github.com/nilreflects)
