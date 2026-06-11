@@ -122,7 +122,7 @@
 - [Ashish Namdeo](https://github.com/ashishnamdeo16)
 - [Ashitha T](https://github.com/Ashi-tha)
 - [Ashritha Kadarla](https://github.com/ashrithakadarla)
-
+- [Samuel Pertov](https://github.com/samuelpert)
 - [Ashwani Mishra](https://github.com/ashwyni-mishra)
 - [Asif Khan](https://github.com/Mak-1911)
 - [Asif Raza Ansari](https://github.com/asifraza-776)
