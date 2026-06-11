@@ -532,6 +532,7 @@
 - [Luohino](https://github.com/Luohino)
 - [Sanjay Pandey](https://github.com/maescoder)
 - [Lythae|Öykü](https://github.com/oykunazergelen)
+- [AllisonMoran](https://github.com/allis)
 - [MOHAMED ARRAF](https://github.com/medoxee)
 - [M_Rizwan](https://github.com/rizwan749)
 - [Maanas Casp](https://github.com/Maanas-Casp)
