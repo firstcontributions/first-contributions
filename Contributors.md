@@ -1204,6 +1204,7 @@
 - [Deepanshu Kumar Jha](https://github.com/CppCracker11)
 - [Groot Chen](https://github.com/Groot-PM)- [Phillippe Garado](https://github.com/Hubrisdog)
 - [Phillippe G.](https://github.com/Hubrisdog)
+- [Atharva Moghe](https://github.com/atharvamoghe2)
 - [Shubh V](https://github.com/shubhvarshney100)
 - [yash2329-sug](https://github.com/yash2329-sug)
 - [Nirmay Rinesh](https://github.com/nirmay1-creator)
