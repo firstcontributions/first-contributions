@@ -185,6 +185,7 @@
 - [BpsBaradwaz](https://github.com/Baradwaz-122)
 - [Bradley Leventhal](https://github.com/btleventhal)
 - [Brady Ratzlaff](https://github.com/bsratzlaff-del)
+- [Bharat Agrawal](https://github.com/teamsmmg)
 - [Braham Ramos](https://github.com/BrahaME123)
 - [Brahmpreet Singh](https://github.com/Brahmpreett)
 - [Brandon B Bolivar](https://github.com/AvoBolivar)
