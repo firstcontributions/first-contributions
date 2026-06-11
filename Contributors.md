@@ -1248,6 +1248,7 @@
 - [Danusan] (https://github.com/dondanu)
 abhishek verma
 - [MedProgAyat] (https://github.com/medProgAyat)
+- [mario_m1ller] (https://github.com/mario_m1ller)
 - [niuezreal001](https://github.com/niuezreal001)
 - [Amogh](https://github.com/AmoghAK002)
 vaishnavi0521
