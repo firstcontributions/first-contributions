@@ -14,6 +14,7 @@
 - [John Martin](https://github.com/johnj-0316)
 - [count-aaryam](https://github.com/count-aaryam)
 - [dopdev08](https://github.com/dopdev08)
+- [Sruthijha](https://github.com/Sruthijha)
 - [1Burhanuddin](https://github.com/1Burhanuddin)
 - [Prog-Monkey](https://github.com/Prog-Monkey)
 - [Chetanand](https://github.com/chetanandmeher)
