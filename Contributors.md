@@ -1282,4 +1282,5 @@ vaishnavi0521
 
 - [Anamitra Bakshi](https://github.com/anamitra-tech)
 - [Rohan Sahani](https://github.com/rohansahani-sde)
+- [Manish M](https://github.com/manishrao0312)
 
