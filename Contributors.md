@@ -1,4 +1,5 @@
 # Contributors
+- [Daniel Jiménez](https://github.com/DanielJimenezA)
 - [Vishaka30](https://github.com/Vishaka30)
 - [Archita9412](https://github.com/Archita9412)
 - [ThoorM444](https://github.com/thoorM444)
