@@ -466,6 +466,7 @@
 - [JairHan](https://github.com/JairHan)
 - [Jame](https://github.com/PL00T00)
 - [James Athanasopoulos](https://github.com/athje001)
+- [James M](https://github.com/jdm3981)
 - [Shaunish Sharma](https://github.com/Shaunish123)
 - [Janobourian](https://github.com/janobourian)
 - [JanosNagy](https://github.com/JaniITmer)
