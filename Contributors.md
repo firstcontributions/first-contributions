@@ -1254,6 +1254,7 @@ WILLIMPALACIO
 - [Gustavo Henrique](https://github.com/Chucknoorms)
 - [Valdinei Goncalves](https://github.com/Valdinei428)
 - [Luan Faria](https://github.com/HellKapiroto)
+- [Shivank Sharma](https://github.com/shivsdev2)
 - [patferman](https://github.com/patferman)
 - [Nathalia Santos](https://github.com/Nathalia-dev42)
 - [Furnom Dam]
