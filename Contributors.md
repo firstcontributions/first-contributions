@@ -1,6 +1,7 @@
 # Contributors
 - [Daniel Jiménez](https://github.com/DanielJimenezA)
 - [Vishaka30](https://github.com/Vishaka30)
+- [Maahi-w-tech](https://github.com/Maahi-w-tech)
 - [Archita9412](https://github.com/Archita9412)
 - [ThoorM444](https://github.com/thoorM444)
 - [Mr-Broccolli](https://github.com/Mr-Broccolli)
@@ -952,6 +953,7 @@
 - [Sprtschk](https://github.com/sprt-schk/)
 - [Squidpan Eleven](https://github.com/squidpan)
 - [Sreekari] (https://github.com/MSreekari)
+- [Sreeram P](https://github.com/strangertomycode)
 - [Sridhar-EEE](https://github.com/sridhar-eee/)
 - [Srikanth Medicherla](https://github.com/OSUMed)
 - [Srinithi D](https://github.com/Srinithid0109)
