@@ -7,6 +7,7 @@
 - [VisionStack-404](https://github.com/VisionStack-404)
 - [zxy010666-byte](https://github.com/zxy010666-byte)
 - [Nathan-Bezabeh](https://github.com/nati2405)
+- [Vaishnavi14705](https://github.com/vaishnavi14705/first-contributions)
 - [Ephraim-Munene](https://github.com/Ephraim-Munene)
 - [Harish-Peddi](https://github.com/hiharish)
 - [Marcus daymon](https://github.com/marcus-daymon)
