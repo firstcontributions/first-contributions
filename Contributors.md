@@ -951,7 +951,6 @@
 - [Sprtschk](https://github.com/sprt-schk/)
 - [Squidpan Eleven](https://github.com/squidpan)
 - [Sreekari] (https://github.com/MSreekari)
-- [Sreeram P](https://github.com/strangertomycode)
 - [Sridhar-EEE](https://github.com/sridhar-eee/)
 - [Srikanth Medicherla](https://github.com/OSUMed)
 - [Srinithi D](https://github.com/Srinithid0109)
@@ -1274,3 +1273,4 @@
 - [Ashwitha K](https://github.com/Ashwitha-valli)
 - [Shourya Sharma](https://github.com/shourya011)
 - [Rohan Sahani](https://github.com/rohansahani-sde)
+- [Sreeram P](https://github.com/strangertomycode)
