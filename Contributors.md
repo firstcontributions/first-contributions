@@ -16,7 +16,7 @@
 - [Ephraim-Munene](https://github.com/Ephraim-Munene)
 - [Harish-Peddi](https://github.com/hiharish)
 - [Marcus daymon](https://github.com/marcus-daymon)
-- [Marcus daymon](https://github.com/gabriel181192)
+- [Gabriel-Gomez](https://github.com/gabriel181192)
 - [dweep-js](https://github.com/dweep-js)
 - [gmariel911](https://github.com/gmariel911)
 - [Arnesh-Vimalraj](https://github.com/Arnesh-Vimalraj)
