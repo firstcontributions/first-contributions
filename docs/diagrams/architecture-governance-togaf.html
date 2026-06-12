@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Architecture Governance — TOGAF Flow</title>
+  <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f5f5f5;
+      padding: 20px;
+      margin: 0;
+    }
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      background: white;
+      padding: 30px;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    h1 {
+      color: #2b6b8f;
+      text-align: center;
+      margin-bottom: 30px;
+    }
+    .mermaid {
+      display: flex;
+      justify-content: center;
+      background: #fafafa;
+      padding: 20px;
+      border-radius: 4px;
+      border: 1px solid #ddd;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Architecture Governance — TOGAF Flow Diagram</h1>
+    <div class="mermaid">
+      flowchart TD
+        A[Establish Governance Framework]
+        B[Define Principles & Standards]
+        C[Integrate Governance with ADM & Projects]
+        D[Architecture Development - ADM Phases]
+        E[Schedule Compliance Reviews at Checkpoints]
+        F{Review Outcome}
+        G[Approve & Publish Architecture]
+        H[Require Remediation]
+        I[Request Rework]
+        J[Evaluate Exception]
+        K{Exception Decision}
+        L[Implementation Governance & Monitoring]
+        M[Measure & Improve Governance]
+
+        A --> B
+        B --> C
+        C --> D
+        D --> E
+        E --> F
+        F -->|Approved| G
+        F -->|Approved with Conditions| H
+        F -->|Rejected| I
+        F -->|Exception Requested| J
+        H --> D
+        I --> D
+        J --> K
+        K -->|Approved| G
+        K -->|Rejected| I
+        G --> L
+        L --> M
+        M -->|Feedback| B
+    </div>
+  </div>
+  <script>
+    mermaid.initialize({ startOnLoad: true, theme: 'default' });
+    mermaid.contentLoaded();
+  </script>
+</body>
+</html>
