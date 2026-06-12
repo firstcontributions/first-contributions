@@ -66,6 +66,7 @@
 - [Abdul Azeez](https://github.com/Syedabdulazeez-021)
 - [Nabil Abubakar](https://github.com/Nabil201-ctrl)
 - [Abdul Kareem](https://github.com/abdulkareem97)
+- [Parsa Behnam](https://github.com/ParsaBehnam)
 - [Abdulkarim Mohammed](https://github.com/amdev0)
 - [Omina Elsheikh](https://github.com/RU1001)
 - [Ishan Gupta](https://github.com/heyy-ishan)
