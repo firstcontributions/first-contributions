@@ -1,0 +1,591 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Webhook Integration Pattern - AXA API Gateway</title>
+  <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      padding: 40px 20px;
+      min-height: 100vh;
+    }
+    
+    .container {
+      max-width: 1400px;
+      margin: 0 auto;
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+      overflow: hidden;
+    }
+    
+    .header {
+      background: linear-gradient(135deg, #2c3e50 0%, #3498db 100%);
+      color: white;
+      padding: 40px;
+      text-align: center;
+      border-bottom: 4px solid #e74c3c;
+    }
+    
+    .header h1 {
+      font-size: 2.5em;
+      margin-bottom: 10px;
+      font-weight: 700;
+      letter-spacing: 0.5px;
+    }
+    
+    .header p {
+      font-size: 1.1em;
+      opacity: 0.95;
+      font-weight: 300;
+    }
+    
+    .content {
+      padding: 50px 40px;
+    }
+    
+    .section {
+      margin-bottom: 50px;
+    }
+    
+    .section-title {
+      font-size: 1.8em;
+      color: #2c3e50;
+      margin-bottom: 30px;
+      padding-bottom: 15px;
+      border-bottom: 3px solid #3498db;
+      font-weight: 600;
+    }
+    
+    .diagram-container {
+      background: #f8f9fa;
+      padding: 30px;
+      border-radius: 8px;
+      border: 2px solid #ecf0f1;
+      margin-bottom: 30px;
+      overflow-x: auto;
+    }
+    
+    .mermaid {
+      display: flex;
+      justify-content: center;
+      min-height: 500px;
+    }
+    
+    .considerations {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 25px;
+      margin-top: 30px;
+    }
+    
+    .consideration-card {
+      background: white;
+      border-left: 5px solid #3498db;
+      padding: 25px;
+      border-radius: 8px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    
+    .consideration-card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 8px 12px rgba(0, 0, 0, 0.15);
+    }
+    
+    .consideration-card.security {
+      border-left-color: #e74c3c;
+    }
+    
+    .consideration-card.operational {
+      border-left-color: #f39c12;
+    }
+    
+    .consideration-card.reliability {
+      border-left-color: #27ae60;
+    }
+    
+    .consideration-card.performance {
+      border-left-color: #9b59b6;
+    }
+    
+    .card-title {
+      font-size: 1.3em;
+      font-weight: 600;
+      margin-bottom: 12px;
+      color: #2c3e50;
+      display: flex;
+      align-items: center;
+    }
+    
+    .card-title::before {
+      content: '';
+      display: inline-block;
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      margin-right: 10px;
+      background: currentColor;
+    }
+    
+    .consideration-card.security .card-title {
+      color: #e74c3c;
+    }
+    
+    .consideration-card.operational .card-title {
+      color: #f39c12;
+    }
+    
+    .consideration-card.reliability .card-title {
+      color: #27ae60;
+    }
+    
+    .consideration-card.performance .card-title {
+      color: #9b59b6;
+    }
+    
+    .card-description {
+      color: #555;
+      line-height: 1.6;
+      font-size: 0.95em;
+    }
+    
+    .card-list {
+      list-style: none;
+      margin-top: 12px;
+    }
+    
+    .card-list li {
+      padding: 6px 0;
+      color: #666;
+      font-size: 0.9em;
+      position: relative;
+      padding-left: 20px;
+    }
+    
+    .card-list li::before {
+      content: '✓';
+      position: absolute;
+      left: 0;
+      font-weight: bold;
+      color: #3498db;
+    }
+    
+    .flow-description {
+      background: #ecf0f1;
+      padding: 20px;
+      border-radius: 8px;
+      margin: 20px 0;
+      line-height: 1.8;
+      color: #555;
+    }
+    
+    .step {
+      display: flex;
+      align-items: flex-start;
+      margin: 15px 0;
+      padding: 12px;
+      background: white;
+      border-radius: 6px;
+      border-left: 4px solid #3498db;
+    }
+    
+    .step-number {
+      min-width: 40px;
+      width: 40px;
+      height: 40px;
+      background: #3498db;
+      color: white;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: bold;
+      margin-right: 15px;
+      flex-shrink: 0;
+    }
+    
+    .step-content {
+      flex: 1;
+    }
+    
+    .step-title {
+      font-weight: 600;
+      color: #2c3e50;
+      margin-bottom: 4px;
+    }
+    
+    .step-desc {
+      color: #666;
+      font-size: 0.95em;
+    }
+    
+    .architecture {
+      background: #f8f9fa;
+      padding: 30px;
+      border-radius: 8px;
+      margin-top: 30px;
+    }
+    
+    .component {
+      display: inline-block;
+      background: white;
+      padding: 15px 25px;
+      margin: 10px;
+      border-radius: 6px;
+      border: 2px solid #3498db;
+      font-weight: 500;
+      color: #2c3e50;
+    }
+    
+    .component.external {
+      border-color: #e74c3c;
+      background: #fadbd8;
+    }
+    
+    .component.gateway {
+      border-color: #3498db;
+      background: #d6eaf8;
+    }
+    
+    .component.handler {
+      border-color: #27ae60;
+      background: #d5f4e6;
+    }
+    
+    .component.infra {
+      border-color: #f39c12;
+      background: #fdebd0;
+    }
+    
+    .footer {
+      background: #ecf0f1;
+      padding: 20px;
+      text-align: center;
+      color: #666;
+      font-size: 0.9em;
+      border-top: 1px solid #bdc3c7;
+    }
+    
+    .badge {
+      display: inline-block;
+      background: #e74c3c;
+      color: white;
+      padding: 4px 12px;
+      border-radius: 20px;
+      font-size: 0.8em;
+      font-weight: 600;
+      margin-left: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <!-- Header -->
+    <div class="header">
+      <h1>Webhook Integration Pattern</h1>
+      <p>External Partner to AXA API Gateway via OpenShift</p>
+    </div>
+    
+    <!-- Main Content -->
+    <div class="content">
+      
+      <!-- Architecture Diagram Section -->
+      <div class="section">
+        <h2 class="section-title">Integration Architecture</h2>
+        <div class="diagram-container">
+          <div class="mermaid">
+            graph LR
+              subgraph "External Partner"
+                Partner["🌐 Partner System"]
+              end
+              
+              subgraph "AXA API Gateway<br/>Red Hat OpenShift"
+                TLS["🔒 TLS/HTTPS<br/>Termination"]
+                Auth["🔐 HMAC-SHA256<br/>Authentication"]
+                Validate["✓ Request Validation<br/>Timestamp Check"]
+                Route["🔀 Routing Logic<br/>Event Type Based"]
+              end
+              
+              subgraph "Webhook Handler<br/>Red Hat OpenShift"
+                Handler["⚙️ Business Logic<br/>Event Processing"]
+                Store["💾 Data Persistence<br/>Event Storage"]
+              end
+              
+              subgraph "Supporting Services"
+                Config["📋 Config Server<br/>Partner Secrets"]
+                Queue["📨 Message Queue<br/>Async Processing"]
+                Monitor["📊 Monitoring<br/>ELK/Prometheus"]
+              end
+              
+              Partner -->|"POST + Signature"| TLS
+              TLS --> Auth
+              Auth --> Validate
+              Validate --> Route
+              Route --> Handler
+              Auth -.->|"Fetch Secret"| Config
+              Handler --> Store
+              Handler --> Queue
+              Route -.->|"Log Events"| Monitor
+              Handler -.->|"Metrics"| Monitor
+              
+              classDef external fill:#e74c3c,stroke:#c0392b,color:#fff
+              classDef gateway fill:#3498db,stroke:#2980b9,color:#fff
+              classDef handler fill:#27ae60,stroke:#229954,color:#fff
+              classDef support fill:#f39c12,stroke:#d68910,color:#fff
+              
+              class Partner external
+              class TLS,Auth,Validate,Route gateway
+              class Handler,Store handler
+              class Config,Queue,Monitor support
+          </div>
+        </div>
+        
+        <div class="flow-description">
+          <strong>Flow Description:</strong> External partners send webhook requests with HMAC-SHA256 signatures to the AXA API Gateway deployed in Red Hat OpenShift. The gateway validates the HMAC signature using the partner secret (retrieved from a config server), checks the request timestamp to prevent replay attacks, and routes authenticated requests to the appropriate webhook handler. The handler processes the event, persists data, and may push events to a message queue for asynchronous processing. All activities are monitored and logged.
+        </div>
+      </div>
+      
+      <!-- Request Flow Steps -->
+      <div class="section">
+        <h2 class="section-title">Request Flow Steps</h2>
+        
+        <div class="step">
+          <div class="step-number">1</div>
+          <div class="step-content">
+            <div class="step-title">Partner Generates HMAC Signature</div>
+            <div class="step-desc">External partner computes HMAC-SHA256(secret_key, request_payload) and encodes it in Base64. Adds signature to request headers (X-Webhook-Signature).</div>
+          </div>
+        </div>
+        
+        <div class="step">
+          <div class="step-number">2</div>
+          <div class="step-content">
+            <div class="step-title">Partner Sends Webhook Request</div>
+            <div class="step-desc">HTTPS POST request to: <code>https://axa-gateway.openshift.io/webhooks/v1/{partner-id}/{event-type}</code> with headers: X-Webhook-Signature, X-Partner-ID, X-Timestamp, X-Request-ID.</div>
+          </div>
+        </div>
+        
+        <div class="step">
+          <div class="step-number">3</div>
+          <div class="step-content">
+            <div class="step-title">Gateway TLS Termination</div>
+            <div class="step-desc">OpenShift Route (Edge TLS) terminates the SSL/TLS connection. Validates certificate and encrypts traffic between partner and gateway.</div>
+          </div>
+        </div>
+        
+        <div class="step">
+          <div class="step-number">4</div>
+          <div class="step-content">
+            <div class="step-title">Gateway Fetches Partner Secret</div>
+            <div class="step-desc">Gateway extracts X-Partner-ID from headers and retrieves the corresponding secret from the Configuration Server using Kubernetes Secrets or external vault.</div>
+          </div>
+        </div>
+        
+        <div class="step">
+          <div class="step-number">5</div>
+          <div class="step-content">
+            <div class="step-title">HMAC Validation</div>
+            <div class="step-desc">Gateway computes expected signature: HMAC-SHA256(partner_secret, request_body). Compares with received signature from headers. Rejects (401 Unauthorized) if signatures don't match.</div>
+          </div>
+        </div>
+        
+        <div class="step">
+          <div class="step-number">6</div>
+          <div class="step-content">
+            <div class="step-title">Timestamp Validation</div>
+            <div class="step-desc">Validates X-Timestamp is within acceptable window (e.g., ±5 minutes). Prevents replay attacks. Rejects if timestamp is expired or in the future.</div>
+          </div>
+        </div>
+        
+        <div class="step">
+          <div class="step-number">7</div>
+          <div class="step-content">
+            <div class="step-title">Route to Handler</div>
+            <div class="step-desc">Gateway routes authenticated request to webhook handler based on event-type. Passes original payload, request ID, and audit trail headers.</div>
+          </div>
+        </div>
+        
+        <div class="step">
+          <div class="step-number">8</div>
+          <div class="step-content">
+            <div class="step-title">Handler Processes Event</div>
+            <div class="step-desc">Webhook handler executes business logic, validates payload, processes the event, and optionally stores in database or publishes to message queue (Kafka, RabbitMQ).</div>
+          </div>
+        </div>
+        
+        <div class="step">
+          <div class="step-number">9</div>
+          <div class="step-content">
+            <div class="step-title">Return Response</div>
+            <div class="step-desc">Handler returns HTTP 200 OK on success (or appropriate error codes: 400 Bad Request, 500 Internal Server Error). Gateway returns response to partner with traceability headers.</div>
+          </div>
+        </div>
+        
+        <div class="step">
+          <div class="step-number">10</div>
+          <div class="step-content">
+            <div class="step-title">Monitoring & Logging</div>
+            <div class="step-desc">All authentication attempts, routing decisions, and processing results logged to centralized logging system (ELK, Splunk). Metrics published to monitoring platform (Prometheus, Grafana).</div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Key Considerations -->
+      <div class="section">
+        <h2 class="section-title">Key Considerations</h2>
+        
+        <div class="considerations">
+          <!-- Security Cards -->
+          <div class="consideration-card security">
+            <div class="card-title">🔒 Security & Authentication</div>
+            <div class="card-description">Ensure robust protection against unauthorized access and message tampering.</div>
+            <ul class="card-list">
+              <li>Use HMAC-SHA256 minimum; SHA-512 for higher security</li>
+              <li>Store partner secrets in Kubernetes Secrets or HashiCorp Vault</li>
+              <li>Enforce TLS 1.2+ with valid certificates</li>
+              <li>Rotate partner secrets every 90 days</li>
+              <li>Implement request signature validation on every request</li>
+              <li>Validate timestamp to prevent replay attacks (±5 min window)</li>
+            </ul>
+          </div>
+          
+          <div class="consideration-card security">
+            <div class="card-title">🛡️ Network & Access Control</div>
+            <div class="card-description">Restrict traffic and enforce least-privilege access patterns.</div>
+            <ul class="card-list">
+              <li>Implement OpenShift NetworkPolicy for pod-to-pod communication</li>
+              <li>Use API Gateway rate limiting per partner (e.g., 1000 req/min)</li>
+              <li>Deploy Web Application Firewall (WAF) for DDoS protection</li>
+              <li>Whitelist external partner IPs if possible</li>
+              <li>Use service mesh (Istio) for advanced traffic policies</li>
+              <li>Enable pod network encryption in OpenShift</li>
+            </ul>
+          </div>
+          
+          <!-- Operational Cards -->
+          <div class="consideration-card operational">
+            <div class="card-title">📋 Configuration Management</div>
+            <div class="card-description">Manage partner secrets and routing rules securely and efficiently.</div>
+            <ul class="card-list">
+              <li>Store partner metadata in ConfigMaps (non-sensitive)</li>
+              <li>Store secrets in Kubernetes Secrets with RBAC controls</li>
+              <li>Use external secret manager (Vault) for enhanced security</li>
+              <li>Implement configuration versioning and audit trails</li>
+              <li>Document partner integration details in protected wiki</li>
+              <li>Use separate namespaces for dev/test/prod</li>
+            </ul>
+          </div>
+          
+          <div class="consideration-card operational">
+            <div class="card-title">⚙️ Deployment & Infrastructure</div>
+            <div class="card-description">Ensure reliable, scalable, and manageable OpenShift deployments.</div>
+            <ul class="card-list">
+              <li>Deploy Gateway and Handler as Kubernetes Deployments</li>
+              <li>Use at least 3 replicas for high availability</li>
+              <li>Configure liveness and readiness probes</li>
+              <li>Set resource requests/limits to prevent noisy neighbors</li>
+              <li>Use horizontal pod autoscaling (HPA) for traffic spikes</li>
+              <li>Implement pod disruption budgets (PDB) for graceful updates</li>
+            </ul>
+          </div>
+          
+          <!-- Reliability Cards -->
+          <div class="consideration-card reliability">
+            <div class="card-title">✅ Reliability & Error Handling</div>
+            <div class="card-description">Build resilient systems that handle failures gracefully.</div>
+            <ul class="card-list">
+              <li>Implement exponential backoff for retry logic</li>
+              <li>Use message queues (Kafka) for asynchronous processing</li>
+              <li>Implement idempotency keys to prevent duplicate processing</li>
+              <li>Use circuit breakers for downstream service failures</li>
+              <li>Implement graceful degradation for partial failures</li>
+              <li>Configure timeout policies (connection, read, write)</li>
+            </ul>
+          </div>
+          
+          <div class="consideration-card reliability">
+            <div class="card-title">🔍 Observability & Troubleshooting</div>
+            <div class="card-description">Maintain visibility into system behavior for debugging and optimization.</div>
+            <ul class="card-list">
+              <li>Implement structured logging (JSON format)</li>
+              <li>Use distributed tracing (Jaeger, OpenTelemetry)</li>
+              <li>Export metrics to Prometheus (request rate, latency, errors)</li>
+              <li>Create dashboards in Grafana for real-time visibility</li>
+              <li>Set up alerts for authentication failures and errors</li>
+              <li>Maintain audit logs for compliance (90+ day retention)</li>
+            </ul>
+          </div>
+          
+          <!-- Performance Cards -->
+          <div class="consideration-card performance">
+            <div class="card-title">⚡ Performance & Scalability</div>
+            <div class="card-description">Optimize for latency, throughput, and resource efficiency.</div>
+            <ul class="card-list">
+              <li>Cache partner secrets to reduce config server calls</li>
+              <li>Use connection pooling for database and external services</li>
+              <li>Implement response compression (gzip) for large payloads</li>
+              <li>Optimize HMAC validation (use streaming for large bodies)</li>
+              <li>Design for horizontal scaling with stateless services</li>
+              <li>Profile and benchmark critical code paths</li>
+            </ul>
+          </div>
+          
+          <div class="consideration-card performance">
+            <div class="card-title">📊 Monitoring & Alerting</div>
+            <div class="card-description">Track key metrics and respond quickly to anomalies.</div>
+            <ul class="card-list">
+              <li>Monitor HMAC validation success rate (target: &gt;99.5%)</li>
+              <li>Track webhook processing latency (p50, p95, p99)</li>
+              <li>Alert on repeated authentication failures (possible attack)</li>
+              <li>Monitor handler error rates and queue depth</li>
+              <li>Track partner-level metrics for SLA management</li>
+              <li>Create runbooks for common failure scenarios</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Architecture Components -->
+      <div class="section">
+        <h2 class="section-title">Architecture Components</h2>
+        <div class="architecture">
+          <p style="margin-bottom: 15px; color: #555;"><strong>Technology Stack:</strong></p>
+          <div>
+            <span class="component external">External Partner Systems</span>
+            <span class="component gateway">API Gateway (Spring Boot / Node.js)</span>
+            <span class="component handler">Webhook Handler (Python / Java)</span>
+            <span class="component infra">Red Hat OpenShift Container Platform</span>
+            <span class="component infra">Kubernetes Secrets / HashiCorp Vault</span>
+            <span class="component infra">Apache Kafka / RabbitMQ</span>
+            <span class="component infra">PostgreSQL / MongoDB</span>
+            <span class="component infra">ELK Stack / Splunk</span>
+            <span class="component infra">Prometheus / Grafana</span>
+            <span class="component infra">Jaeger / OpenTelemetry</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <!-- Footer -->
+    <div class="footer">
+      <p><strong>Document:</strong> Webhook Integration Pattern | <strong>Version:</strong> 1.0 | <strong>Last Updated:</strong> 2026-06-11</p>
+      <p>For security issues, contact: security@axa.com | For technical support: platform-team@axa.com</p>
+    </div>
+  </div>
+  
+  <script>
+    mermaid.initialize({ startOnLoad: true, theme: 'default', securityLevel: 'loose' });
+    mermaid.contentLoaded();
+  </script>
+</body>
+</html>
