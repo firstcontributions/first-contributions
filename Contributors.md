@@ -1022,6 +1022,7 @@
 - [Tanush Bhootra](https://github.com/Tanush576)
 - [Tanvir Rahman](https://github.com/tanviranindo)
 - [Tariq Menla](https://github.com/Tariq-Menla)
+- [Tarun mehra ](https://github.com/Tarun-mehra)
 - [Tase](https://github.com/Tasesho)
 - [Teena Goyal](https://github.com/teenagoyal21)
 - [Tejas MS](https://github.com/TejasMS1356)
