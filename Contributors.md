@@ -1260,6 +1260,7 @@ WILLIMPALACIO
 - [Juliano Bispo](https://github.com/julianoab)
 - [Gina Ding](https://icurious-d.github.io/)
 - [Simona Sirbu]
+- [Sr_Kennedy98](https://github.com/SrKennedy98)
 - Ashish
   Roshni-K6
 - [Heeseong Kim](https://github.com/mors119)
