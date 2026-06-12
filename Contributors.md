@@ -12,6 +12,7 @@
 - [zxy010666-byte](https://github.com/zxy010666-byte)
 - [Nathan-Bezabeh](https://github.com/nati2405)
 - [Vaishnavi14705](https://github.com/vaishnavi14705/first-contributions)
+- [Gabo-Juarez](https://github.com/gabriel18111992)
 - [Ephraim-Munene](https://github.com/Ephraim-Munene)
 - [Harish-Peddi](https://github.com/hiharish)
 - [Marcus daymon](https://github.com/marcus-daymon)
@@ -101,6 +102,7 @@
 - [Aclguh](https://github.com/Aclguh)
 - [Aditi Kumari](https://github.com/aditi-avni)
 - [Aditya Kaushik](https://github.com/AdityaK05)
+- [Adnan](https://github.com/Adnan9-63)
 - [Akshatha Jogi](https://github.com/Akshathajogi)
 - [AfiqN](https://github.com/AfiqN)
 - [Akshit Goel](https://github.com/aclox)
@@ -1254,6 +1256,7 @@ WILLIMPALACIO
 - [Gustavo Henrique](https://github.com/Chucknoorms)
 - [Valdinei Goncalves](https://github.com/Valdinei428)
 - [Luan Faria](https://github.com/HellKapiroto)
+- [Shivank Sharma](https://github.com/shivsdev2)
 - [patferman](https://github.com/patferman)
 - [Nathalia Santos](https://github.com/Nathalia-dev42)
 - [Furnom Dam]
@@ -1297,3 +1300,5 @@ vaishnavi0521
 - [Yemintun90](https://github.com/Yemintun90)
 - [Rishabh Kori](https://github.com/rishabh-kori-05)
 - [Ayushi Kaul](https://github.com/ayushikaul02)
+- Yakshitha Reddy 
+- [Kinder522](https://github.com/Kinder522) 
