@@ -72,6 +72,7 @@
 - [Abdul Kareem](https://github.com/abdulkareem97)
 - [Parsa Behnam](https://github.com/ParsaBehnam)
 - [Abdulkarim Mohammed](https://github.com/amdev0)
+- [Ashish Sahoo](https://github.com/ashishsahoo18)
 - [Omina Elsheikh](https://github.com/RU1001)
 - [Ishan Gupta](https://github.com/heyy-ishan)
 - [Abdullah Elsafty](https://github.com/your-abdullahelsafty4)
