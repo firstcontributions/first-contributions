@@ -1,5 +1,4 @@
 # Contributors
-- [Adnan](https://github.com/Adnan9-63)
 - [Daniel Jiménez](https://github.com/DanielJimenezA)
 - [Vishaka30](https://github.com/Vishaka30)
 - [Archita9412](https://github.com/Archita9412)
@@ -91,6 +90,7 @@
 - [Aclguh](https://github.com/Aclguh)
 - [Aditi Kumari](https://github.com/aditi-avni)
 - [Aditya Kaushik](https://github.com/AdityaK05)
+- [Adnan](https://github.com/Adnan9-63)
 - [Akshatha Jogi](https://github.com/Akshathajogi)
 - [AfiqN](https://github.com/AfiqN)
 - [Akshit Goel](https://github.com/aclox)
