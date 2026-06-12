@@ -1277,3 +1277,5 @@ vaishnavi0521
 - [Ashwitha K](https://github.com/Ashwitha-valli)
 - [Shourya Sharma](https://github.com/shourya011)
 - [Rohan Sahani](https://github.com/rohansahani-sde)
+- [Anamitra Bakshi](https://github.com/anamitra-tech)
+- [Rohan Sahani](https://github.com/rohansahani-sde)
