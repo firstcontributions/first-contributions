@@ -1,4 +1,5 @@
 # Contributors
+
 - [Meera Liz Joy](http://github.com/MeeraLizJoy)
 - [Daniel Jiménez](https://github.com/DanielJimenezA)
 - [Payal Agrawal](https://github.com/Payal-03)
@@ -15,6 +16,7 @@
 - [Ephraim-Munene](https://github.com/Ephraim-Munene)
 - [Harish-Peddi](https://github.com/hiharish)
 - [Marcus daymon](https://github.com/marcus-daymon)
+- [Marcus daymon](https://github.com/gabriel181192)
 - [dweep-js](https://github.com/dweep-js)
 - [gmariel911](https://github.com/gmariel911)
 - [Arnesh-Vimalraj](https://github.com/Arnesh-Vimalraj)
@@ -36,7 +38,7 @@
 - [Chetanand](https://github.com/chetanandmeher)
 - [JoeArias1121](https://github.com/JoeArias1121)
 - [ATgmu](https://githum.com/ATgmu)
--  [Unsa-Zareen](https://github.com/unsazareenwork-alt)
+- [Unsa-Zareen](https://github.com/unsazareenwork-alt)
 - [brison-coder](https://github.com/brison-coder)
 - [Saleeq Adnan Syed](https://github.com/CyberCoder-IITM)
 - [Mengyuan Ding](https://github.com/jessy-ding)
@@ -248,7 +250,7 @@
 - [Nikita Shiwach](https://github.com/nikitashiwach)
 - [Chetan](https://github.com/chetanakashV/)
 - [Chhaya Naidu](https://github.com/ChhayaN6)
-= [Utkarsh Singh](https://github.com/7sunray)
+  = [Utkarsh Singh](https://github.com/7sunray)
 - [Chinenye Agu](https://github.com/Drchiagu)
 - [Chirag Bimali](https://github.com/chirag-bimali)
 - [Choi Doyoun](https://github.com/justjs4evr)
@@ -377,8 +379,7 @@
 - [Garv Choure](https://github.com/garvv29)
 - [Garvit Kulshreshtha](https://github.com/WhoopDoop)
 - [Gaumtes Jain](https://github.com/Tecnic-debug)
-- [Gauransh Maheshwari](https://github.com/kardocode)
--[Gargi kalia](https://github.com/Kaliagargi)
+- [Gauransh Maheshwari](https://github.com/kardocode) -[Gargi kalia](https://github.com/Kaliagargi)
 - [Gaurav Singh](https://github.com/gauravsinghcodes)
 - [GauravJha](https://github.com/your-23f2001550)
 - [Gautam Kumawat](https://github.com/gautam9892)
@@ -1198,7 +1199,7 @@
 - [lonelyhty](https://github.com/lonelyhty)
 - [lovebansal0](https://github.com/lovebansal0)
 - [macjeff](https://github.com/jeffalgoritmo)
-WILLIMPALACIO
+  WILLIMPALACIO
 - [minus43](https://github.com/minus43)
 - [neoastra303](https://github.com/neoastra303)
 - [padmarajnidagundi](https://github.com/padmarajnidagundi)
@@ -1278,12 +1279,12 @@ WILLIMPALACIO
 - [Roger Briskey](https://github.com/rbriskey/)
 - [Anurag Verma](https://github.com/ryuk956983/)
 - [Danusan] (https://github.com/dondanu)
-abhishek verma
+  abhishek verma
 - [MedProgAyat] (https://github.com/medProgAyat)
 - [mario_m1ller] (https://github.com/mario_m1ller)
 - [niuezreal001](https://github.com/niuezreal001)
 - [Amogh](https://github.com/AmoghAK002)
-vaishnavi0521
+  vaishnavi0521
 - [Shreya-Bhardwaj](https://github.com/S-Bhardwaj21)
 - [Ashwitha K](https://github.com/Ashwitha-valli)
 - [Shourya Sharma](https://github.com/shourya011)
