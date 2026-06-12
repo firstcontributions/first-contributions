@@ -19,6 +19,7 @@
 - [Akhil Saklani](https://github.com/Akhildev7)
 - [keeeeeliu](https://github.com/keeeeeliu)
 - [utkarshvns](https://github.com/utkarshvns)
+- [Nikshaykr](https://github.com/Nikshaykr)
 - [shreyashposhattiwar] (https://github.com/ShreyashPoshattiwar)
 - [John Martin](https://github.com/johnj-0316)
 - [ADman007](https://github.com/ADman007) 
