@@ -1291,3 +1291,4 @@ vaishnavi0521
 - [Rohan Sahani](https://github.com/rohansahani-sde)
 - [Manish M](https://github.com/manishrao0312)
 - [Yemintun90](https://github.com/Yemintun90)
+- [Rishabh Kori](https://github.com/rishabh-kori-05)
