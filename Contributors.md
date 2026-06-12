@@ -1,4 +1,5 @@
 # Contributors
+- [Meera Liz Joy](http://github.com/MeeraLizJoy)
 - [Daniel Jiménez](https://github.com/DanielJimenezA)
 - [Vishaka30](https://github.com/Vishaka30)
 - [Maahi-w-tech](https://github.com/Maahi-w-tech)
