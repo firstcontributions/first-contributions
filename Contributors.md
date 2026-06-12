@@ -152,6 +152,7 @@
 - [Atul Pandey](https://github.com/atulpandey9)
 - [Avani J C](https://github.com/Avani24-byte)
 - [Avanish](https://github.com/satyaavanish)
+- [BrokenHardware](https://github.com/Aryan3it)
 - [Avneesh](https://github.com/Avneesh26024)
 - [Sunshine](https://github.com/Sunshine1917)
 - [Aya Driouche](https://github.com/aya119119)
