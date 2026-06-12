@@ -244,6 +244,7 @@
 - [Nikita Shiwach](https://github.com/nikitashiwach)
 - [Chetan](https://github.com/chetanakashV/)
 - [Chhaya Naidu](https://github.com/ChhayaN6)
+= [Utkarsh Singh](https://github.com/7sunray)
 - [Chinenye Agu](https://github.com/Drchiagu)
 - [Chirag Bimali](https://github.com/chirag-bimali)
 - [Choi Doyoun](https://github.com/justjs4evr)
