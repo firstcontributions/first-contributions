@@ -701,6 +701,7 @@
 - [Pradeep Reddy](https://github.com/Pradeep0997)
 - [Pragyey](https://github.com/CatalyzedHONEY)
 - [Prajaka Jagdale](https://github.com/Hermione28)
+- [Travis Stockelman](https://github.com/TStockelman-Dev)
 - [Prajwal Hulle](https://github.com/prajwal-2509)
 - [Prajwal V R](https://github.com/prajwal-vr)
 - [Pramodkumar Shivanna](https://github.com/pramod05edu-afk)
