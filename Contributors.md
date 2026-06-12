@@ -1,5 +1,4 @@
 # Contributors
-
 - [Daniel Jiménez](https://github.com/DanielJimenezA)
 - [Vishaka30](https://github.com/Vishaka30)
 - [Archita9412](https://github.com/Archita9412)
@@ -57,7 +56,6 @@
 - [Swantin63](https://github.com/Swantin-63)
 - [Ragul Arumugam](https://github.com/ragul-rofi)
 - [AlexEP11](https://github.com/AlexEP11)
-- [Poojitha](https://github.com/pooji-tha11)
 - [IJin511](https://github.com/IJin511)
 - [Aamir](https://github.com/AamirMNAamir)
 - [Aakash](https://github.com/aakashkadlak)
@@ -953,6 +951,7 @@
 - [Sprtschk](https://github.com/sprt-schk/)
 - [Squidpan Eleven](https://github.com/squidpan)
 - [Sreekari] (https://github.com/MSreekari)
+- [Sreeram P](https://github.com/strangertomycode)
 - [Sridhar-EEE](https://github.com/sridhar-eee/)
 - [Srikanth Medicherla](https://github.com/OSUMed)
 - [Srinithi D](https://github.com/Srinithid0109)
@@ -1275,4 +1274,3 @@
 - [Ashwitha K](https://github.com/Ashwitha-valli)
 - [Shourya Sharma](https://github.com/shourya011)
 - [Rohan Sahani](https://github.com/rohansahani-sde)
-- [Sreeram P](https://github.com/strangertomycode)
