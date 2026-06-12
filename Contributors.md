@@ -1242,8 +1242,6 @@ WILLIMPALACIO
 - [Nathalia Santos](https://github.com/Nathalia-dev42)
 - [Furnom Dam]
 - [Gabriel de Paula] (https:/github.com/gabrieldepaula73)
-  (https://github.com/ZanyDruid20)
-  (https://github.com/ZanyDruid20)
 - [GMMICHELETTI](https://github.com/gmmicheletti)
 - [Taina_valino]
 - [Juliano Bispo](https://github.com/julianoab)
