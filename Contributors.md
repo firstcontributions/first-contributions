@@ -487,6 +487,7 @@
 - [Jeev Dharshan](https://github.com/Jeev4i)
 - [Jeo](https://github.com/jeomarisaez)
 - [Jeff Chiang](https://github.com/FuJen0980)
+- [JeanBiza](https://github.com/JeanBiza)
 - [jesusnoelrg](https://github.com/jesusnoelrg)
 - [Jin_Sakai](https://github.com/ShamGaneshan2008)
 - [Jnaneswar karedla](https://github.com/jnaneswar077)
