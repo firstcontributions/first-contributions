@@ -290,6 +290,7 @@
 - [Dimitrij Jedich](https://github.com/dimitrijjedich)
 - [DimondO20](https://github.com/DimondO20)
 - [Disha520](https://github.com/Disha520)
+- [Divija2612](https://https://github.com/Divija2612)
 - [Divyam Pariyar](https://github.com/div-html)
 - [Divyansh Shrivastava](https://github.com/divyanshshrivastava)
 - [Divyanshu Tiwari](https://github.com/DivyanshuTiwari12)
