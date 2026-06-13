@@ -701,6 +701,7 @@ dhruvi
 - [Phenyo Morulane](https://github.com/spoja-10)
 - [My CS_Account](https://github.com/mycsaccount)
 - [Piotr Wrzosek](https://github.com/pwrzosek)
+- [Piyush Paranjape](https://github.com/piyushparanjape98)
 - [Piyush Pritam Sethi](https://github.com/piyush37-6)
 - [Piyush Srivastava](https://github.com/Phoenix-2207)
 - [Platostol](https://github.com/Platostol)
