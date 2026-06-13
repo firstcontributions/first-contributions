@@ -1,11 +1,12 @@
 # Contributors
+
 - [VENKATA_SAI_JASWANTH](https://github.com/venkata-sai-jaswanth)
 - [Rainluoer](https://github.com/Rainluoer)
 - [Yuvan Vishnu Pandi](https://github.com/yuvanvishnupandi)
 - [Roberto-Lins](https://github.com/Roberto-Lins)
 - [Meera Liz Joy](http://github.com/MeeraLizJoy)
 - [Daniel Jiménez](https://github.com/DanielJimenezA)
-dhruvi
+  dhruvi
 - [Nhatt Quangg]
 - [Payal Agrawal](https://github.com/Payal-03)
 - [Vishaka30](https://github.com/Vishaka30)
@@ -16,6 +17,7 @@ dhruvi
 - [ThoorM444](https://github.com/thoorM444)
 - [Mr-Broccolli](https://github.com/Mr-Broccolli)
 - [VisionStack-404](https://github.com/VisionStack-404)
+- [Antaryami Nayak](https://github.com/nayakantaryami)
 - [zxy010666-byte](https://github.com/zxy010666-byte)
 - [Nathan-Bezabeh](https://github.com/nati2405)
 - [Vaishnavi14705](https://github.com/vaishnavi14705/first-contributions)
@@ -47,7 +49,7 @@ dhruvi
 - [Chetanand](https://github.com/chetanandmeher)
 - [JoeArias1121](https://github.com/JoeArias1121)
 - [ATgmu](https://githum.com/ATgmu)
--  [Unsa-Zareen](https://github.com/unsazareenwork-alt)
+- [Unsa-Zareen](https://github.com/unsazareenwork-alt)
 - [brison-coder](https://github.com/brison-coder)
 - [Saleeq Adnan Syed](https://github.com/CyberCoder-IITM)
 - [Aidan Jiang](https://github.com/ajiang05)
@@ -266,7 +268,7 @@ dhruvi
 - [Nikita Shiwach](https://github.com/nikitashiwach)
 - [Chetan](https://github.com/chetanakashV/)
 - [Chhaya Naidu](https://github.com/ChhayaN6)
-= [Utkarsh Singh](https://github.com/7sunray)
+  = [Utkarsh Singh](https://github.com/7sunray)
 - [Chinenye Agu](https://github.com/Drchiagu)
 - [Chirag Bimali](https://github.com/chirag-bimali)
 - [Choi Doyoun](https://github.com/justjs4evr)
@@ -1223,7 +1225,7 @@ dhruvi
 - [lonelyhty](https://github.com/lonelyhty)
 - [lovebansal0](https://github.com/lovebansal0)
 - [macjeff](https://github.com/jeffalgoritmo)
-WILLIMPALACIO
+  WILLIMPALACIO
 - [minus43](https://github.com/minus43)
 - [neoastra303](https://github.com/neoastra303)
 - [padmarajnidagundi](https://github.com/padmarajnidagundi)
@@ -1304,12 +1306,12 @@ WILLIMPALACIO
 - [Roger Briskey](https://github.com/rbriskey/)
 - [Anurag Verma](https://github.com/ryuk956983/)
 - [Danusan] (https://github.com/dondanu)
-abhishek verma
+  abhishek verma
 - [MedProgAyat] (https://github.com/medProgAyat)
 - [mario_m1ller] (https://github.com/mario_m1ller)
 - [niuezreal001](https://github.com/niuezreal001)
 - [Amogh](https://github.com/AmoghAK002)
-vaishnavi0521
+  vaishnavi0521
 - [Shreya-Bhardwaj](https://github.com/S-Bhardwaj21)
 - [Ashwitha K](https://github.com/Ashwitha-valli)
 - [Shourya Sharma](https://github.com/shourya011)
@@ -1323,7 +1325,7 @@ vaishnavi0521
 - [Yemintun90](https://github.com/Yemintun90)
 - [Rishabh Kori](https://github.com/rishabh-kori-05)
 - [Ayushi Kaul](https://github.com/ayushikaul02)
-- Yakshitha Reddy 
+- Yakshitha Reddy
 - [Kinder522](https://github.com/Kinder522)
 - [Abdullah12389](https://github.com/Abdullah12389)
 - [Quiker04](https://github.com/Quiker04)
@@ -1335,4 +1337,4 @@ vaishnavi0521
 - [SurajKumar] (https://github.com/Suraj0x7)
 - Trương Lê Đình Bảo
 - [Aniket Kumar Singh] (https://github.com/ANIKET640-a11y)
-Contribution by Pranitha for Software Engineering Lab Task 14
+  Contribution by Pranitha for Software Engineering Lab Task 14
