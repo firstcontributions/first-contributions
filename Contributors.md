@@ -1320,3 +1320,4 @@ vaishnavi0521
 - [Luis](https://github.com/dev-Luis-Lab)
 - [artipunia27](https://github.com/artipunia27)
 - [krishnaswamykv](https://github.com/krishnaswamykv)
+- Trương Lê Đình Bảo
