@@ -36,6 +36,7 @@
 - [cnzhangxy51](https://github.com/cnzhangxy51)
 - [Yousuf Ansari](https://github.com/Yousuf-177)
 - [Akhil Saklani](https://github.com/Akhildev7)
+- [Deva Sri]
 - [keeeeeliu](https://github.com/keeeeeliu)
 - [utkarshvns](https://github.com/utkarshvns)
 - [Nikshaykr](https://github.com/Nikshaykr)
@@ -93,6 +94,7 @@
 - [Abdul Azeez](https://github.com/Syedabdulazeez-021)
 - [Shivangi Singla](https://github.com/Shivangisingla2710)
 - [Nabil Abubakar](https://github.com/Nabil201-ctrl)
+- [Harsh Bora](https://github.com/harshbora94)
 - [Abdul Kareem](https://github.com/abdulkareem97)
 - [Parsa Behnam](https://github.com/ParsaBehnam)
 - [Abdulkarim Mohammed](https://github.com/amdev0)
@@ -109,6 +111,7 @@
 - [Hirat] (https://github.com/hiratinspace)
 - [Abhishek Agrawal](https://github.com/agrawalabhi881-a11y)
 - [Abhishek Kumar](https://github.com/Abhishek1106kr)
+- [Matthias](https://github.com/M-Shdl)
 - [Abhishek Reddy Adunoori](https://github.com/abhi13-tech)
 - [Divyanshu uttam](https://github.com/divyanshu978)
 - [Abhishek](https://github.com/AbhiVanya)
@@ -540,6 +543,7 @@
 - [Kaushik Kumar](https://github.com/kaushikbargaway)
 - [Kavin](https://github.com/atomthedark)
 - [Kishan Pokar](https://github.com/Kishan-Pokar)
+- [Kevin Liao](https://github.com/kevintheliao)
 - [Krishan Malhotra](https://github.com/krishan2005op)
 - [Kutbuddin Moiz Attarwala](https://github.com/Kutbuddin1110)
 - [Kyle Gossage](https://github.com/KGossage11)
@@ -1351,3 +1355,4 @@ Contribution by Pranitha for Software Engineering Lab Task 14
 - [KRISHNA JAISWAL](https://github.com)
 - [Palak Gupta](https://github.com/palak22291)
 - main
+- [Pushty Jha](https://github.com/pushtyjha-blip)
