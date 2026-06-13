@@ -1064,6 +1064,7 @@ GitHub Copilot
 - [Tejas Waghere](https://github.com/tejaswaghere)
 - [Teng-Hui Huang](https://github.com/hui811116)
 - [Thabo Lubhele](https://github.com/Thabogift10/)
+- [Aryan Basra](https://github.com/exharmonic)
 - [Tharvesh Muhaideen A](https://github.com/tharvesh2026)
 - [That1LinuxGuy](https://github.com/That1LinuxGuy)
 - [TheTeodora22](https://github.com/TheTeodora22)
