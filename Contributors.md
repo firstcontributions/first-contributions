@@ -1328,4 +1328,5 @@ vaishnavi0521
 - [DeathToNatsuki](https://github.com/deathtonatsuki)
 - [SurajKumar] (https://github.com/Suraj0x7)
 - Trương Lê Đình Bảo
+- [Aniket Kumar Singh] (https://github.com/ANIKET640-a11y)
 Contribution by Pranitha for Software Engineering Lab Task 14
