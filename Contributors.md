@@ -1346,4 +1346,6 @@ Contribution by Pranitha for Software Engineering Lab Task 14
 3482386874y
 - Nithya Umapathi
 - [Liauuu](https://github.com/Liauuu)
+- [KRISHNA JAISWAL](https://github.com)
 - [Palak Gupta](https://github.com/palak22291)
+- main
