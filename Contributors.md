@@ -83,6 +83,7 @@ dhruvi
 - [Abdelrahman_Mohye](https://github.com/aboda-0100011)
 - [Prakash Kumar Jha](https://github.com/prakashiitp)
 - [Abdul Azeez](https://github.com/Syedabdulazeez-021)
+- [Shivangi Singla](https://github.com/Shivangisingla2710)
 - [Nabil Abubakar](https://github.com/Nabil201-ctrl)
 - [Abdul Kareem](https://github.com/abdulkareem97)
 - [Parsa Behnam](https://github.com/ParsaBehnam)
