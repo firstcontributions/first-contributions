@@ -2,6 +2,7 @@
 - [VENKATA_SAI_JASWANTH](https://github.com/venkata-sai-jaswanth)
 GitHub Copilot
 - [Rainluoer](https://github.com/Rainluoer)
+- [Krishal](https://github.com/krishal-p23)
 - [Joe Test]
 - [Yuvan Vishnu Pandi](https://github.com/yuvanvishnupandi)
 - [Saksham Paliwal](https://github.com/sakshampaliwal21)
