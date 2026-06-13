@@ -289,6 +289,7 @@ GitHub Copilot
 - [Cole Ali](https://github.com/aliooo36)
 - [Conner Lennon](https://github.com/cnnrl)
 - [Conor MacMahon](https://github.com/conorjmacmahon)
+- [Daan](https://github.com/Daan03)
 - [Dajmir LETS GOOO](https://github.com/dajmir)
 - [Dan Nguyen](https://github.com/dannguyen24)
 - [Daniel Kuhn](https://github.com/DanielUmedaKuhn)
