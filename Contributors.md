@@ -547,6 +547,7 @@ dhruvi
 - [Liam Muro](https://github.com/liammuro)
 - [Likhitha](https://github.com/likhitha2005-alt)
 - [Lily](https://github.com/lilypandey)
+- [Lim Jun Hong](https://github.com/jhjh1214)
 - [Linda Marika](https://github.com/LindaMarika)
 - [LisaM516](https://github.com/LisaM516)
 - [LiuSam](https://www.youtube.com/CommitKU)
@@ -1312,7 +1313,7 @@ vaishnavi0521
 - [Rishabh Kori](https://github.com/rishabh-kori-05)
 - [Ayushi Kaul](https://github.com/ayushikaul02)
 - Yakshitha Reddy 
-- [Kinder522](https://github.com/Kinder522) 
+- [Kinder522](https://github.com/Kinder522)
 - [Abdullah12389](https://github.com/Abdullah12389)
 - [Quiker04](https://github.com/Quiker04)
 - [Gaurav Kumar Singh](https://github.com/Gauravvarya)
