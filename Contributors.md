@@ -1308,10 +1308,5 @@ vaishnavi0521
 - [Manish M](https://github.com/manishrao0312)
 - [Yemintun90](https://github.com/Yemintun90)
 - [Rishabh Kori](https://github.com/rishabh-kori-05)
-- [Ayushi Kaul](https://github.com/ayushikaul02)
-- Yakshitha Reddy 
-- [Kinder522](https://github.com/Kinder522) 
-- [Abdullah12389](https://github.com/Abdullah12389)
-- [Quiker04](https://github.com/Quiker04)
-- [Gaurav Kumar Singh](https://github.com/Gauravvarya)
-- [Luis](https://github.com/dev-Luis-Lab)
+- Yakshitha Reddy
+- [artipunia27](https://github.com/artipunia27) 
