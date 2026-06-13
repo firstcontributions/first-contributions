@@ -1270,6 +1270,7 @@ WILLIMPALACIO
 - [Ayaan Kapoor](https://github.com/Ayaan-20-11)
 - [Rajiv Ranjan Sahu](https://github.com/rajivranjan7)
 - chandu bollu
+- [`Hojiakbarxon Olimxo'jayev`](https://github.com/Hojiakbarxon)
 - [Vinayak Saxena](https://github.com/arkhamKnight78)
 - [Deepanshu Kumar Jha](https://github.com/CppCracker11)
 - [Groot Chen](https://github.com/Groot-PM)- [Phillippe Garado](https://github.com/Hubrisdog)
