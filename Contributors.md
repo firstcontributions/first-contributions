@@ -16,6 +16,7 @@
 - [jayasree-007](https://github.com/jayasree-007)
 - [ThoorM444](https://github.com/thoorM444)
 - [Mr-Broccolli](https://github.com/Mr-Broccolli)
+- [Renan Marques](https://github.com/Renanmrqs)
 - [VisionStack-404](https://github.com/VisionStack-404)
 - [Parasa Deepak Kumar](https://github.com/deepak0422v)
 - [nayakantaryami](https://github.com/nayakantaryami)
