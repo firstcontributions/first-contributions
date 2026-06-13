@@ -1327,6 +1327,7 @@ vaishnavi0521
 - [Rishabh Kori](https://github.com/rishabh-kori-05)
 - [Ayushi Kaul](https://github.com/ayushikaul02)
 - Yakshitha Reddy 
+- [Giridharan Sivakumar](https://github.com/S-GIRI)
 - [Kinder522](https://github.com/Kinder522)
 - [Abdullah12389](https://github.com/Abdullah12389)
 - [Quiker04](https://github.com/Quiker04)
