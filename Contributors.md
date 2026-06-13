@@ -110,6 +110,7 @@
 - [Hirat] (https://github.com/hiratinspace)
 - [Abhishek Agrawal](https://github.com/agrawalabhi881-a11y)
 - [Abhishek Kumar](https://github.com/Abhishek1106kr)
+- [Matthias](https://github.com/M-Shdl)
 - [Abhishek Reddy Adunoori](https://github.com/abhi13-tech)
 - [Divyanshu uttam](https://github.com/divyanshu978)
 - [Abhishek](https://github.com/AbhiVanya)
