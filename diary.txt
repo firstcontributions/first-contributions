@@ -6,3 +6,4 @@ Learn Merge
 Pull Request 
 ggplt
 Learn Revert 
+hocr
