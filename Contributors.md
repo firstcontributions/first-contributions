@@ -503,6 +503,7 @@ GitHub Copilot
 - [Jaehoon Son](https://github.com/JaehoonSon)
 - [Jagriti Tiwari](https://github.com/jagriti-codes)
 - [JairHan](https://github.com/JairHan)
+- [Janif Kader](https://github.com/janifkader)
 - [Jame](https://github.com/PL00T00)
 - [James Athanasopoulos](https://github.com/athje001)
 - [James M](https://github.com/jdm3981)
