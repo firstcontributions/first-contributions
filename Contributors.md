@@ -1328,3 +1328,4 @@ vaishnavi0521
 - [DeathToNatsuki](https://github.com/deathtonatsuki)
 - [SurajKumar] (https://github.com/Suraj0x7)
 - Trương Lê Đình Bảo
+- [Aditya Sharma](https://github.com/aditya-dev500)
