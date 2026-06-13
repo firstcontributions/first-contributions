@@ -4,6 +4,7 @@
 - [Yuvan Vishnu Pandi](https://github.com/yuvanvishnupandi)
 - [Roberto-Lins](https://github.com/Roberto-Lins)
 - [Meera Liz Joy](http://github.com/MeeraLizJoy)
+- [Arpan Charola](https://github.com/ArpanCharola)
 - [Daniel Jiménez](https://github.com/DanielJimenezA)
 - [Payal Agrawal](https://github.com/Payal-03)
 - [Vishaka30](https://github.com/Vishaka30)
@@ -1344,3 +1345,4 @@ vaishnavi0521
 Contribution by Pranitha for Software Engineering Lab Task 14
 3482386874y
 - Nithya Umapathi
+- [Liauuu](https://github.com/Liauuu)
