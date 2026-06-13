@@ -91,6 +91,7 @@
 - [Abdul Azeez](https://github.com/Syedabdulazeez-021)
 - [Shivangi Singla](https://github.com/Shivangisingla2710)
 - [Nabil Abubakar](https://github.com/Nabil201-ctrl)
+- [Harsh Bora](https://github.com/harshbora94)
 - [Abdul Kareem](https://github.com/abdulkareem97)
 - [Parsa Behnam](https://github.com/ParsaBehnam)
 - [Abdulkarim Mohammed](https://github.com/amdev0)
