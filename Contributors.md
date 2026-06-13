@@ -5,8 +5,6 @@
 - [Roberto-Lins](https://github.com/Roberto-Lins)
 - [Meera Liz Joy](http://github.com/MeeraLizJoy)
 - [Daniel Jiménez](https://github.com/DanielJimenezA)
-dhruvi
-- [Nhatt Quangg]
 - [Payal Agrawal](https://github.com/Payal-03)
 - [Vishaka30](https://github.com/Vishaka30)
 - [Yogendra-08](https://github.com/Yogendra-08)
@@ -199,6 +197,7 @@ dhruvi
 - [Ayush kumar maury](https://github.com/Ayush4O4)
 - [Ayushi Rajput](https://github.com/Ayushi-ninja)
 - [Ayush Sahu](https://github.com/ayusshhh1)
+- [Ayush Tripathi](https://github.com/ayushtripathi-45)
 - [B. Figuereo](https://github.com/KDBatistaFiguereo)
 - [BFJiral](https://github.com/Wirt4)
 - [Balaji Ramachandran](https://github.com/rbalaji007)
