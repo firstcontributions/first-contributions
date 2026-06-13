@@ -10,6 +10,7 @@ GitHub Copilot
 - [Arpan Charola](https://github.com/ArpanCharola)
 - [Daniel Jiménez](https://github.com/DanielJimenezA)
 - [Payal Agrawal](https://github.com/Payal-03)
+- [Manas Shekhar Tiwari](https://github.com/Manas2135)
 - [Vishaka30](https://github.com/Vishaka30)
 - [Yogendra-08](https://github.com/Yogendra-08)
 - [sachin71011](https://github.com/sachin71011)
