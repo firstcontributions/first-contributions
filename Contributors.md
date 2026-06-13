@@ -4,6 +4,8 @@
 - [Yuvan Vishnu Pandi](https://github.com/yuvanvishnupandi)
 - [Roberto-Lins](https://github.com/Roberto-Lins)
 - [Meera Liz Joy](http://github.com/MeeraLizJoy)
+- [hazelr125](https://github.com/hazelr125)
+- [Arpan Charola](https://github.com/ArpanCharola)
 - [Daniel Jiménez](https://github.com/DanielJimenezA)
 - [Payal Agrawal](https://github.com/Payal-03)
 - [Vishaka30](https://github.com/Vishaka30)
@@ -14,7 +16,9 @@
 - [jayasree-007](https://github.com/jayasree-007)
 - [ThoorM444](https://github.com/thoorM444)
 - [Mr-Broccolli](https://github.com/Mr-Broccolli)
+- [Renan Marques](https://github.com/Renanmrqs)
 - [VisionStack-404](https://github.com/VisionStack-404)
+- [Parasa Deepak Kumar](https://github.com/deepak0422v)
 - [nayakantaryami](https://github.com/nayakantaryami)
 - [zxy010666-byte](https://github.com/zxy010666-byte)
 - [Nathan-Bezabeh](https://github.com/nati2405)
@@ -33,10 +37,12 @@
 - [cnzhangxy51](https://github.com/cnzhangxy51)
 - [Yousuf Ansari](https://github.com/Yousuf-177)
 - [Akhil Saklani](https://github.com/Akhildev7)
+- [Deva Sri]
 - [keeeeeliu](https://github.com/keeeeeliu)
 - [utkarshvns](https://github.com/utkarshvns)
 - [Nikshaykr](https://github.com/Nikshaykr)
 - [shreyashposhattiwar] (https://github.com/ShreyashPoshattiwar)
+- [saptak-chakraborty](https://github.com/Saptak10)
 - [John Martin](https://github.com/johnj-0316)
 - [ADman007](https://github.com/ADman007)
 - [count-aaryam](https://github.com/count-aaryam)
@@ -90,6 +96,7 @@
 - [Abdul Azeez](https://github.com/Syedabdulazeez-021)
 - [Shivangi Singla](https://github.com/Shivangisingla2710)
 - [Nabil Abubakar](https://github.com/Nabil201-ctrl)
+- [Harsh Bora](https://github.com/harshbora94)
 - [Abdul Kareem](https://github.com/abdulkareem97)
 - [Parsa Behnam](https://github.com/ParsaBehnam)
 - [Abdulkarim Mohammed](https://github.com/amdev0)
@@ -106,6 +113,7 @@
 - [Hirat] (https://github.com/hiratinspace)
 - [Abhishek Agrawal](https://github.com/agrawalabhi881-a11y)
 - [Abhishek Kumar](https://github.com/Abhishek1106kr)
+- [Matthias](https://github.com/M-Shdl)
 - [Abhishek Reddy Adunoori](https://github.com/abhi13-tech)
 - [Divyanshu uttam](https://github.com/divyanshu978)
 - [Abhishek](https://github.com/AbhiVanya)
@@ -537,6 +545,7 @@
 - [Kaushik Kumar](https://github.com/kaushikbargaway)
 - [Kavin](https://github.com/atomthedark)
 - [Kishan Pokar](https://github.com/Kishan-Pokar)
+- [Kevin Liao](https://github.com/kevintheliao)
 - [Krishan Malhotra](https://github.com/krishan2005op)
 - [Kutbuddin Moiz Attarwala](https://github.com/Kutbuddin1110)
 - [Kyle Gossage](https://github.com/KGossage11)
@@ -1343,5 +1352,11 @@ vaishnavi0521
 - [Ramya Reddy] 
 Contribution by Pranitha for Software Engineering Lab Task 14
 3482386874y
+- [Indrasish Biswas](https://github.com/boxbiswas)
+- Nithya Umapathi
 - [Liauuu](https://github.com/Liauuu)
-- [Indrasish Biswas] (https://github.com/boxbiswas)
+- [KRISHNA JAISWAL](https://github.com)
+- [Palak Gupta](https://github.com/palak22291)
+- main
+- [Pushty Jha](https://github.com/pushtyjha-blip)
+- [Andy Ron](https://github.com/andyRon)
