@@ -5,7 +5,7 @@
 - [Daniel Jiménez](https://github.com/DanielJimenezA)
 - [Payal Agrawal](https://github.com/Payal-03)
 - [Vishaka30](https://github.com/Vishaka30)
--[Yogendra-08](https://github.com/Yogendra-08)
+- [Yogendra-08](https://github.com/Yogendra-08)
 - [Maahi-w-tech](https://github.com/Maahi-w-tech)
 - [Archita9412](https://github.com/Archita9412)
 - [jayasree-007](https://github.com/jayasree-007)
@@ -385,7 +385,7 @@
 - [Garvit Kulshreshtha](https://github.com/WhoopDoop)
 - [Gaumtes Jain](https://github.com/Tecnic-debug)
 - [Gauransh Maheshwari](https://github.com/kardocode)
--[Gargi kalia](https://github.com/Kaliagargi)
+- [Gargi kalia](https://github.com/Kaliagargi)
 - [Gaurav Singh](https://github.com/gauravsinghcodes)
 - [GauravJha](https://github.com/your-23f2001550)
 - [Gautam Kumawat](https://github.com/gautam9892)
@@ -1302,7 +1302,7 @@ vaishnavi0521
 - [Rohan Sahani](https://github.com/rohansahani-sde)
 
 - [Radwa Fakhruddin](https://github.com/radwakhan)
-
+- [Khizra Hassan](https://github.com/hassankhizra97-crypto)
 - [Anamitra Bakshi](https://github.com/anamitra-tech)
 - [Rohan Sahani](https://github.com/rohansahani-sde)
 - [Manish M](https://github.com/manishrao0312)
