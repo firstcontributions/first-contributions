@@ -161,6 +161,7 @@ dhruvi
 - [Arpita Birla](https://github.com/Arpitabirla)
 - [Aryak Singh](https://github.com/aryaksinghh)
 - [Aryan-Londhe](https://github.com/Aryan-Londhe)
+- [Alif Ruslan](https://github.com/elleo1452)
 - [Ayesha Akram](https://github.com/AyeshaAkram01)
 - [Aryan](https://github.com/aryan-neogi)
 - [Aryan Mahajan](https://github.com/aryanmjn)
