@@ -1052,6 +1052,7 @@
 - [Toshal Kirange](https://github.com/toshuuu)
 - [Toushimaa](https://github.com/toushimaa)
 - [Tovoson](https://github.com/Tovoson)
+- [JihedR](https://github.com/JihedR)
 - [Tunan Pan](https//github.com/tunan-pan)
 - [Tushar Kandoo](https://github.com/tusharkandoo)
 - [Tushar Rampurkar](https://github.com/Gitnerd77)
