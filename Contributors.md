@@ -127,6 +127,7 @@ dhruvi
 - [Aman Kumar Verma](https://github.com/amanbuilds-hub)
 - [Amavidato](https://github.com/Amavidato)
 - [Amishi Agrawal](https://github.com/amishiagrawal)
+- [Joshith Gadi] ()
 - [Dani Noble] (https://github.com/dnvdevx)
 - [Ethan Boya](https://github.com/ethanboya)
 - [AmberStars](https://github.com/AmberStars)
