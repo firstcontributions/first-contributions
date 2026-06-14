@@ -20,6 +20,7 @@ GitHub Copilot
 - [sachin71011](https://github.com/sachin71011)
 - [Maahi-w-tech](https://github.com/Maahi-w-tech)
 - [Archita9412](https://github.com/Archita9412)
+- [Xander Wayne](https://github.com/xaaug)
 - [jayasree-007](https://github.com/jayasree-007)
 - [ThoorM444](https://github.com/thoorM444)
 - [StephenJarso](https://github.com/StephenJarso)
