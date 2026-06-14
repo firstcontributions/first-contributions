@@ -1,13 +1,16 @@
 # Contributors
+- [root-kcalb]
 - [VENKATA_SAI_JASWANTH](https://github.com/venkata-sai-jaswanth)
 GitHub Copilot
 -[Rishu Raj](https://github.com/Rishuraj3732)
 - [Rainluoer](https://github.com/Rainluoer)
 - [Krishal](https://github.com/krishal-p23)
 - [Joe Test]
+- [stindop]
 - [Yuvan Vishnu Pandi](https://github.com/yuvanvishnupandi)
 - [Saksham Paliwal](https://github.com/sakshampaliwal21)
 - [Roberto-Lins](https://github.com/Roberto-Lins)
+- [DSVNS Srinidhi](https://github.com/davulurisrinidhi1)
 - [Meera Liz Joy](http://github.com/MeeraLizJoy)
 - [hazelr125](https://github.com/hazelr125)
 - [Arpan Charola](https://github.com/ArpanCharola)
@@ -15,12 +18,17 @@ GitHub Copilot
 - [Payal Agrawal](https://github.com/Payal-03)
 - [Bhavya Khatri](https://github.com/bhavya-shikamaru)
 - [Manas Shekhar Tiwari](https://github.com/Manas2135)
+[shiva](https://github.com/Saishiva3000)
 - [Vishaka30](https://github.com/Vishaka30)
 - [Yogendra-08](https://github.com/Yogendra-08)
 - [sachin71011](https://github.com/sachin71011)
+- [msndindi](https://github.com/msndindi)
+-[Saee Salunkhe](https://github.com/s4eee)
 - [Maahi-w-tech](https://github.com/Maahi-w-tech)
 - [Archita9412](https://github.com/Archita9412)
+- [Xander Wayne](https://github.com/xaaug)
 - [jayasree-007](https://github.com/jayasree-007)
+- [sarthakgit123](https://github.com/sarthakgit123)
 - [ThoorM444](https://github.com/thoorM444)
 - [StephenJarso](https://github.com/StephenJarso)
 - [Mr-Broccolli](https://github.com/Mr-Broccolli)
@@ -994,6 +1002,7 @@ GitHub Copilot
 - [SileboxUnderfined](https://github.com/SileboxUnderfined)
 - [Sindhu Reddy](https://github.com/prodduturisindhurdy)
 - [Siriuswyc](https://github.com/Siriuswyc)
+- [Siri Nandini Alanka](https://github.com/SiriNandinii)
 - [SisterMorphine](https://github.com/SisterMorphine)
 - [Siva IITM](https://github.com/siva-IITM)
 - [Skroxos](https://github.com/Skroxos)
@@ -1276,6 +1285,7 @@ WILLIMPALACIO
 - [Mdfaf](https://github.com/mdfaf)
 - [Shreyan Sharma](https://github.com/Sh3456)
 - [Shreya Das](https://github.com/sd2604)
+- [Baig Zaid](https://github.com/zack-Blade)
 - [Ayaan Kapoor](https://github.com/Ayaan-20-11)
 - [Rajiv Ranjan Sahu](https://github.com/rajivranjan7)
 - chandu bollu
@@ -1313,6 +1323,7 @@ WILLIMPALACIO
 - [Juliano Bispo](https://github.com/julianoab)
 - [Gina Ding](https://icurious-d.github.io/)
 - [Simona Sirbu]
+- bodzibot
 - [Sr_Kennedy98](https://github.com/SrKennedy98)
 - Ashish
   Roshni-K6
@@ -1349,3 +1360,38 @@ vaishnavi0521
 - [Ayushi Kaul](https://github.com/ayushikaul02)
 - Yakshitha Reddy 
 - [Kinder522](https://github.com/Kinder522) 
+- [Giridharan Sivakumar](https://github.com/S-GIRI)
+- [Kinder522](https://github.com/Kinder522)
+- [Abdullah12389](https://github.com/Abdullah12389)
+- [Quiker04](https://github.com/Quiker04)
+- [Gaurav Kumar Singh](https://github.com/Gauravvarya)
+- [Luis](https://github.com/dev-Luis-Lab)
+- [artipunia27](https://github.com/artipunia27)
+- [krishnaswamykv](https://github.com/krishnaswamykv)
+- [DeathToNatsuki](https://github.com/deathtonatsuki)
+- [SurajKumar] (https://github.com/Suraj0x7)
+- Trương Lê Đình Bảo
+- [Aditya Sharma](https://github.com/aditya-dev500)
+- [Aniket Kumar Singh] (https://github.com/ANIKET640-a11y)
+- [Ramya Reddy] 
+- WindowsEmbedded
+Contribution by Pranitha for Software Engineering Lab Task 14
+3482386874y
+- [Indrasish Biswas](https://github.com/boxbiswas)
+- Nithya Umapathi
+- [Liauuu](https://github.com/Liauuu)
+SHREE SHARMA
+- [KRISHNA JAISWAL](https://github.com)
+- [Palak Gupta](https://github.com/palak22291)
+- main
+- [Pushty Jha](https://github.com/pushtyjha-blip)
+- [Andy Ron](https://github.com/andyRon)
+- [Nithyasri77] (https://github.com/Nithyasri77)
+- [Sierda](https://github.com/sierda)
+- [Kuldeep Parmar](https://github.com/ParmarKuldeep0)- [Rey Denim Osborn](https://github.com/reydenim)
+- [@reydenim](https://github.com/reydenim) — Pull Shark PR 2/2
+- [kongerly](https://github.com/kongerly)
+- [Anshuman Tiwari](https://github.com/rajtiwari04)
+- [Pawan khare](https://github.com/kharpaw)
+- [Binay Kumar Das](https://github.com/binaykumardas)- [Nathan](https://github.com/nathandefy-cyber)
+[13237599216-gif](https://github.com/13237599216-gif)
