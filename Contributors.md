@@ -8,8 +8,10 @@
 - [Joe Test]
 - [stindop]
 - [Yuvan Vishnu Pandi](https://github.com/yuvanvishnupandi)
+- [Suraj G Meharwade](https://github.com/Suru-web)
 - [Saksham Paliwal](https://github.com/sakshampaliwal21)
 - [Roberto-Lins](https://github.com/Roberto-Lins)
+- [DSVNS Srinidhi](https://github.com/davulurisrinidhi1)
 - [Meera Liz Joy](http://github.com/MeeraLizJoy)
 - [hazelr125](https://github.com/hazelr125)
 - [Arpan Charola](https://github.com/ArpanCharola)
@@ -22,7 +24,7 @@
 - [Yogendra-08](https://github.com/Yogendra-08)
 - [sachin71011](https://github.com/sachin71011)
 - [msndindi](https://github.com/msndindi)
--
+-[Saee Salunkhe](https://github.com/s4eee)
 - [Maahi-w-tech](https://github.com/Maahi-w-tech)
 - [Archita9412](https://github.com/Archita9412)
 - [Xander Wayne](https://github.com/xaaug)
@@ -1358,6 +1360,7 @@
 - [Rishabh Kori](https://github.com/rishabh-kori-05)
 - [Ayushi Kaul](https://github.com/ayushikaul02)
 - Yakshitha Reddy
+- [Kinder522](https://github.com/Kinder522) 
 - [Giridharan Sivakumar](https://github.com/S-GIRI)
 - [Kinder522](https://github.com/Kinder522)
 - [Abdullah12389](https://github.com/Abdullah12389)
@@ -1393,3 +1396,4 @@
 - [Pawan khare](https://github.com/kharpaw)
 - [Binay Kumar Das](https://github.com/binaykumardas)- [Nathan](https://github.com/nathandefy-cyber)
 - [yoimiya](https://github.com/yoimiya810)
+[13237599216-gif](https://github.com/13237599216-gif)
