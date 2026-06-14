@@ -1317,6 +1317,7 @@ WILLIMPALACIO
 - [Juliano Bispo](https://github.com/julianoab)
 - [Gina Ding](https://icurious-d.github.io/)
 - [Simona Sirbu]
+- bodzibot
 - [Sr_Kennedy98](https://github.com/SrKennedy98)
 - Ashish
   Roshni-K6
