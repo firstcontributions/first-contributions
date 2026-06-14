@@ -10,6 +10,7 @@ GitHub Copilot
 - [Yuvan Vishnu Pandi](https://github.com/yuvanvishnupandi)
 - [Saksham Paliwal](https://github.com/sakshampaliwal21)
 - [Roberto-Lins](https://github.com/Roberto-Lins)
+- [DSVNS Srinidhi](https://github.com/davulurisrinidhi1)
 - [Meera Liz Joy](http://github.com/MeeraLizJoy)
 - [hazelr125](https://github.com/hazelr125)
 - [Arpan Charola](https://github.com/ArpanCharola)
