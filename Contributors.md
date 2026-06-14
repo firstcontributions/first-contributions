@@ -622,6 +622,7 @@
 - [Madhushree Mirji](https://github.com/madhushree-mirji/)
 - [Maged Ibrahim](https://github.com/I-Maged)
 - [Manan Pal](https://github.com/mananpal-dev)
+- [Manish Kumar Jawalkar](https://github.com/ManishCodes0618)
 - [Mansib Rahman](https://github.com/mansibrahman03)
 - [Marcin Dec](https://github.com/MarcinDeeec)
 - [Mathis LaPivoine](https://github.com/Archeos932)
