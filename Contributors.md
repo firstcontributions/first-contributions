@@ -465,6 +465,7 @@
 - [Hardik kille](https://github.com/hrdk224/first-contributions)
 - [Harini Madasu](https://github.com/HariniMadasu/first-contributions.git)
 - [Harsh Bhardwaj](https://github.com/harshbhardwaj000)
+- [Harsh Gupta](https://github.com/HarshGupta492)
 - [Harshita](https://github.com/Harshitat23)
 - [Hamsini Sripaada](https://github.com/hamsinisripada-png)
 - [Hatef kHORRASHAHI](https://github.com/hatefinfo)
