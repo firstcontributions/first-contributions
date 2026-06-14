@@ -385,6 +385,7 @@
 - [Eros Yap](https://github.com/Stonksers)
 - [Eshaan Krishna Ojha](https://github.com/EshaanOjha)
 - [Ethan Kinch](https://github.com/epkinch)
+- [Emerson Smith](https://github.com/Emerson-Smith76)
 - [Fabiano Yoschitaki](https://github.com/fabianoyoschitaki)
 - [Fabirizio Raffaelli](https://github.com/Fabro23)
 - [Fabricio Cubero](https://github.com/FabricioFDP)
