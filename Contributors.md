@@ -7,6 +7,7 @@ GitHub Copilot
 - [Joe Test]
 - [stindop]
 - [Yuvan Vishnu Pandi](https://github.com/yuvanvishnupandi)
+- [Suraj G Meharwade](https://github.com/Suru-web)
 - [Saksham Paliwal](https://github.com/sakshampaliwal21)
 - [Roberto-Lins](https://github.com/Roberto-Lins)
 - [Meera Liz Joy](http://github.com/MeeraLizJoy)
