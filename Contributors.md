@@ -1279,6 +1279,7 @@ WILLIMPALACIO
 - [Mdfaf](https://github.com/mdfaf)
 - [Shreyan Sharma](https://github.com/Sh3456)
 - [Shreya Das](https://github.com/sd2604)
+- [Baig Zaid](https://github.com/zack-Blade)
 - [Ayaan Kapoor](https://github.com/Ayaan-20-11)
 - [Rajiv Ranjan Sahu](https://github.com/rajivranjan7)
 - chandu bollu
