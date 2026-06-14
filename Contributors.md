@@ -707,6 +707,7 @@
 - [Olapu Ajay](https://github.com/olapuajay)
 - [Oleg Ataeff](https://github.com/ariannamethod)
 - [Olha Sorych](https://github.com/colaola20/first-contributions.git)
+- [Olivier Brossard-Roy](https://github.com/obr-code)
 - [Om Chandwani](https://github.com/omch-29)
 - [Om Singh](https://github.com/Singh-OmDev)
 - [Omadbek UZB](https://github.com/Zenitsu-Yegr/)
