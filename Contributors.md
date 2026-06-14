@@ -1025,6 +1025,7 @@
 - [Srikanth Medicherla](https://github.com/OSUMed)
 - [Srinithi D](https://github.com/Srinithid0109)
 - [Sriteja01](https://github.com/Sriteja01)
+- [SRupia](https://github.com/SRupia)
 - [Stacy Hilliard](https://github.com/stacyah)
 - [Stennis Smith](https://github.com/Stennis1)
 - [Stephen Ng](https://github.com/snust)
