@@ -1,4 +1,5 @@
 # Contributors
+
 - [Pawar Rohit](https://github.com/PawarRohit132)
 - [Tanmay-Pansare](https://github.com/CodeWithTanmay635)
 - [root-kcalb]
@@ -586,6 +587,7 @@
 - [LaskaaaD](https://github.com/LaskaaaD)
 - [LatentSpace-rgb](https://github.com/LatentSpace-rgb)
 - [Laura N](https://github.com/lnezsierra/)
+- [Usman Malik] (https://github.com/usmanmalik10/)
 - [Leandro R](http://github.com/leandrortavano)
 - [Lemontree](https://github.com/Lemontree7981)
 - [Lenin Goud Athikam](https://github.com/leninathikam)
