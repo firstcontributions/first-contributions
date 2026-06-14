@@ -20,6 +20,7 @@ GitHub Copilot
 - [Archita9412](https://github.com/Archita9412)
 - [jayasree-007](https://github.com/jayasree-007)
 - [ThoorM444](https://github.com/thoorM444)
+- [StephenJarso](https://github.com/StephenJarso)
 - [Mr-Broccolli](https://github.com/Mr-Broccolli)
 - [Renan Marques](https://github.com/Renanmrqs)
 - [VisionStack-404](https://github.com/VisionStack-404)
