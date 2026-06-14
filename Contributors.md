@@ -1279,6 +1279,7 @@ WILLIMPALACIO
 - [Mdfaf](https://github.com/mdfaf)
 - [Shreyan Sharma](https://github.com/Sh3456)
 - [Shreya Das](https://github.com/sd2604)
+- [Baig Zaid](https://github.com/zack-Blade)
 - [Ayaan Kapoor](https://github.com/Ayaan-20-11)
 - [Rajiv Ranjan Sahu](https://github.com/rajivranjan7)
 - chandu bollu
@@ -1381,4 +1382,3 @@ SHREE SHARMA
 - [Sierda](https://github.com/sierda)
 - [Kuldeep Parmar](https://github.com/ParmarKuldeep0)- [Rey Denim Osborn](https://github.com/reydenim)
 - [@reydenim](https://github.com/reydenim) — Pull Shark PR 2/2
-- [Baig Zaid](https://github.com/zack-Blade)
