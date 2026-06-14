@@ -1000,6 +1000,7 @@ GitHub Copilot
 - [SileboxUnderfined](https://github.com/SileboxUnderfined)
 - [Sindhu Reddy](https://github.com/prodduturisindhurdy)
 - [Siriuswyc](https://github.com/Siriuswyc)
+- [Siri Nandini Alanka](https://github.com/SiriNandinii)
 - [SisterMorphine](https://github.com/SisterMorphine)
 - [Siva IITM](https://github.com/siva-IITM)
 - [Skroxos](https://github.com/Skroxos)
