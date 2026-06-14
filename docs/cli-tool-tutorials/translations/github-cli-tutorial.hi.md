@@ -70,7 +70,9 @@ git switch -c add-जॉन-डूई
 <details><summary> <strong>यदि आपको पुश करते समय कोई त्रुटि मिलती है, तो यहां क्लिक करें:</strong></summary></details>
 
 - ### प्रमाणीकरण त्रुटि
-       रिमोट: 13 अगस्त, 2021 को पासवर्ड प्रमाणीकरण के लिए समर्थन हटा दिया गया था। कृपया इसके बजाय एक व्यक्तिगत एक्सेस टोकन का उपयोग करें। दूरस्थ: अधिक जानकारी के लिए कृपया https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ देखें। घातक: 'https://github.com/' के लिए प्रमाणीकरण विफल /प्रथम-योगदान.गिट/'
+    <pre>रिमोट: 13 अगस्त, 2021 को पासवर्ड प्रमाणीकरण के लिए समर्थन हटा दिया गया था। कृपया इसके बजाय एक व्यक्तिगत एक्सेस टोकन का उपयोग करें।
+  दूरस्थ: अधिक जानकारी के लिए कृपया https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ देखें।
+  घातक: 'https://github.com/&lt;your-username&gt;/first-contributions.git/' के लिए प्रमाणीकरण विफल।</pre>
   अपने खाते में SSH कुंजी बनाने और कॉन्फ़िगर करने के लिए [GitHub के ट्यूटोरियल](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) पर जाएं।
 
 # समीक्षा के लिए अपने परिवर्तन सबमिट करें
