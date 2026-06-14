@@ -1382,3 +1382,4 @@ SHREE SHARMA
 - [Kuldeep Parmar](https://github.com/ParmarKuldeep0)- [Rey Denim Osborn](https://github.com/reydenim)
 - [@reydenim](https://github.com/reydenim) — Pull Shark PR 2/2
 - [kongerly](https://github.com/kongerly)
+- [Anshuman Tiwari](https://github.com/rajtiwari04)
