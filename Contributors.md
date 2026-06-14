@@ -1,6 +1,6 @@
 # Contributors
 
--[Tanmay-Pansare](https://github.com/CodeWithTanmay635)
+- [Tanmay-Pansare](https://github.com/CodeWithTanmay635)
 
 - [root-kcalb]
 - [VENKATA_SAI_JASWANTH](https://github.com/venkata-sai-jaswanth)
