@@ -201,7 +201,7 @@ replacing `your-branch-name` with the name of the branch you created earlier.
   fatal: Authentication failed for 'https://github.com/&lt;your-username&gt;/first-contributions.git/'</pre>
   Go to [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) on generating and configuring an SSH key to your account.
 
-  Also, you might want to run 'git remote -v' to check your remote address.
+  Also you might want to run 'git remote -v' to check your remote address.
   
   If it looks anything like this:
   <pre>origin	https://github.com/your-username/your_repo.git (fetch)
