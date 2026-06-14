@@ -11,6 +11,7 @@
 - [Divyansh Singh](https://github.com/divyanshSingh41)
 - [Suraj G Meharwade](https://github.com/Suru-web)
 - [Saksham Paliwal](https://github.com/sakshampaliwal21)
+- [Jahanvi Raycha](https://github.com/jahanvir)
 - [Roberto-Lins](https://github.com/Roberto-Lins)
 - [DSVNS Srinidhi](https://github.com/davulurisrinidhi1)
 - [Meera Liz Joy](http://github.com/MeeraLizJoy)
