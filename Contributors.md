@@ -27,6 +27,7 @@
 - [sachin71011](https://github.com/sachin71011)
 - [msndindi](https://github.com/msndindi)
 -[Saee Salunkhe](https://github.com/s4eee)
+- Bijli 
 - [Maahi-w-tech](https://github.com/Maahi-w-tech)
 - [Archita9412](https://github.com/Archita9412)
 - [Xander Wayne](https://github.com/xaaug)
