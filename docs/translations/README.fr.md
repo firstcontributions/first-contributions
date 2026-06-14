@@ -49,22 +49,24 @@ Déplacez-vous dans le répertoire du projet nouvellement cloné (si vous n'y ê
 cd first-contributions
 ```
 
-Maintenant créez une branche avec la commande `git checkout` :
+Maintenant créez une branche avec la commande `git switch` :
 
 ```bash
-git checkout -b <add-votre-nom>
+git switch -c <add-votre-nom>
 ```
 
 Par exemple :
 
 ```bash
-git checkout -b add-koffi-sani
+git switch -c add-koffi-sani
 ```
 
 (Le nom de la branche n'a pas besoin de contenir le terme _add_, mais il est mieux de l'inclure car l'objectif de cette branche est d'ajouter votre nom à une liste.)
 
-<details> <summary> <strong>Si vous rencontrez une erreur avec git switch, cliquez ici :</strong> </summary>
-Si le message "Git: switch is not a git command. See git –help" s’affiche, c’est probablement parce que vous utilisez une ancienne version de Git.
+<details> 
+<summary> <strong>Si vous rencontrez une erreur avec git switch, cliquez ici :</strong> </summary>
+
+Si le message "Git: `switch` is not a git command. See `git –help`" s’affiche, c’est probablement parce que vous utilisez une ancienne version de Git.
 
 Dans ce cas, essayez plutôt :
 
@@ -107,7 +109,9 @@ en remplaçant `<nom-de-votre-branche>` avec le nom de la branche précédemment
 <details> <summary> <strong>Si tu obtiens une erreur au moment de pousser, clique ici :</strong> </summary>
 
 - ### Erreur d’authentification
-  <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead. remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information. fatal: Authentication failed for 'https://github.com/<ton-nom-utilisateur>/first-contributions.git/'</pre>
+  <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+fatal: Authentication failed for 'https://github.com/&lt;ton-nom-utilisateur&gt;/first-contributions.git/'</pre>
   Suivez le tutoriel GitHub pour générer et configurer une clé SSH sur votre compte.
 
 Vous pouvez également exécuter git remote -v pour vérifier votre adresse distante.
