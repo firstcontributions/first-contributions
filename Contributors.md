@@ -612,6 +612,7 @@
 - [Maanas Casp](https://github.com/Maanas-Casp)
 - [Maanasa Kambam](https://github.com/kambammaanasa08-afk)
 - [Madhav Singh](https://github.com/maddy710)
+- [Ayushna Bora](https://github.com/AyushnaBora95)
 - [Madhushree Mirji](https://github.com/madhushree-mirji/)
 - [Maged Ibrahim](https://github.com/I-Maged)
 - [Manan Pal](https://github.com/mananpal-dev)
