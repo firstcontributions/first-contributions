@@ -1381,3 +1381,4 @@ SHREE SHARMA
 - [Sierda](https://github.com/sierda)
 - [Kuldeep Parmar](https://github.com/ParmarKuldeep0)- [Rey Denim Osborn](https://github.com/reydenim)
 - [@reydenim](https://github.com/reydenim) — Pull Shark PR 2/2
+- [Baig Zaid](https://github.com/zack-Blade)
