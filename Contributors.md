@@ -899,6 +899,7 @@
 - [Ryan Gapp](https://github.com/ryan-gapp)
 - [Ryan Goods](https://github.com/feelgooddd)
 - [Rysan Deluna aka Ryan](https://github.com/RysanDeluna)
+- [Saee Mane](https://github.com/saeemane05) 
 - [SAYEM](https://github.com/11UCRES)
 - [SIDHARTH](https://github.com/Sid-2302)
 - [SMJ](https://github.com/SeokMinJeon)
@@ -1431,4 +1432,7 @@
 - [Sahil Naliyadhara] (https://github.com/Sahil7383)
 - [Ujawala Sinha](https://github.com/Ujawala10)
 - [Signal-zxh](https://github.com/Signal-zxh)
+
 - - [Nishant Kumar- MERN Stack Developer](https://github.com/Nishant-codemm)
+- - [Nishant Kumar](https://github.com/Nishant-codemm)
+- [Gaurav Patil](https://github.com/Predator-888)
