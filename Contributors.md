@@ -18,6 +18,7 @@
 - [Divyansh Singh](https://github.com/divyanshSingh41)
 - [Suraj G Meharwade](https://github.com/Suru-web)
 - [Saksham Paliwal](https://github.com/sakshampaliwal21)
+- [Tanushree R](https://github.com/Tanushree-RD)
 - [Jahanvi Raycha](https://github.com/jahanvir)
 - [Roberto-Lins](https://github.com/Roberto-Lins)
 - [Daniel Corona](https://github.com/Danieeel0601)
