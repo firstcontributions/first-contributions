@@ -39,10 +39,10 @@
 - [msndindi](https://github.com/msndindi) -[Saee Salunkhe](https://github.com/s4eee)
 - Bijli
 - [utkarsh joshi] (https://github.com/utkarshjoshi24)
-- [Gurshaan Deol] (https://github.com/Gurshaan-Deol)
 - [Aditya](https://github.com/Aditya-aks-710)
 - [Maahi-w-tech](https://github.com/Maahi-w-tech)
 - [Archita9412](https://github.com/Archita9412)
+- [Gurshaan Deol] (https://github.com/Gurshaan-Deol)
 - [Xander Wayne](https://github.com/xaaug)
 - [jayasree-007](https://github.com/jayasree-007)
 - [sarthakgit123](https://github.com/sarthakgit123)
