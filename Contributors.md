@@ -2,6 +2,7 @@
 |
 
 - [Akshara Ramagiri](https://github.com/AksharaRamagiri)
+- [Anantha Kumar]
 - [Jas-mineWang](https://github.com/Jas-mineWang)
 - [okburkard1](https://github.com/okburkard1)
 - [Pawar Rohit](https://github.com/PawarRohit132)
@@ -38,6 +39,7 @@
 - [msndindi](https://github.com/msndindi) -[Saee Salunkhe](https://github.com/s4eee)
 - Bijli
 - [utkarsh joshi] (https://github.com/utkarshjoshi24)
+- [Aditya](https://github.com/Aditya-aks-710)
 - [Maahi-w-tech](https://github.com/Maahi-w-tech)
 - [Archita9412](https://github.com/Archita9412)
 - [Xander Wayne](https://github.com/xaaug)
@@ -117,6 +119,7 @@
 - [Swantin63](https://github.com/Swantin-63)
 - [Ragul Arumugam](https://github.com/ragul-rofi)
 - [AlexEP11](https://github.com/AlexEP11)
+- [Charan G](https://github.com/CharanGcG)
 - [Poojitha](https://github.com/pooji-tha11)
 - [IJin511](https://github.com/IJin511)
 - [Aamir](https://github.com/AamirMNAamir)
@@ -144,7 +147,6 @@
 - [Abdullah Elsafty](https://github.com/your-abdullahelsafty4)
 - [Abdullah Khan](https://github.com/Python-genius900)
 - [Abdullah Semar](https://github.com/abdullahsemar)
-- [Abhay-Maddheshiya](https://github.com/Abhay-Maddy)
 - [Abhay Agnihotri](https://github.com/Abhay-Agnihotri01/)
 - [Abhay Sharma](https://github.com/asabhaysharma)
 - [Abhi Kumar](https://github.com/abhistark007)
