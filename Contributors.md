@@ -1,5 +1,6 @@
 # Contributors
 
+- [Jas-mineWang](https://github.com/Jas-mineWang)
 - [okburkard1](https://github.com/okburkard1)
 - [Pawar Rohit](https://github.com/PawarRohit132)
 - [Tanmay-Pansare](https://github.com/CodeWithTanmay635)
