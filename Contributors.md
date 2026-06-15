@@ -1,4 +1,5 @@
 # Contributors
+|
 
 - [Jas-mineWang](https://github.com/Jas-mineWang)
 - [okburkard1](https://github.com/okburkard1)
@@ -41,6 +42,7 @@
 - [jayasree-007](https://github.com/jayasree-007)
 - [sarthakgit123](https://github.com/sarthakgit123)
 - [ThoorM444](https://github.com/thoorM444)
+- [DanielBustamante67](https://github.com/DanielBustamante67/curso-git)
 - [StephenJarso](https://github.com/StephenJarso)
 - [Mr-Broccolli](https://github.com/Mr-Broccolli)
 - [Renan Marques](https://github.com/Renanmrqs)
