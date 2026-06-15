@@ -323,6 +323,7 @@
 - [Dajmir LETS GOOO](https://github.com/dajmir)
 - [Dan Nguyen](https://github.com/dannguyen24)
 - [Daniel Kuhn](https://github.com/DanielUmedaKuhn)
+- [Darshika Shrivastava](https://github.com/darshika140)
 - [Dave Herr](https://github.com/dave-herr)
 - [Deekshith](https://github.com/Deekshith2485)
 - [Deepa Choudhary](https://github.com/Deepachoudhary24)
