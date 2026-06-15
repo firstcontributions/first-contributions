@@ -1431,4 +1431,4 @@
 - [Sahil Naliyadhara] (https://github.com/Sahil7383)
 - [Ujawala Sinha](https://github.com/Ujawala10)
 - [Signal-zxh](https://github.com/Signal-zxh)
-- - [Nishant Kumar](https://github.com/Nishant-codemm)
+- - [Nishant Kumar- MERN Stack Developer](https://github.com/Nishant-codemm)
