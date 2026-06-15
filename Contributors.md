@@ -50,6 +50,7 @@
 - [Harish-Peddi](https://github.com/hiharish)
 - [Marcus daymon](https://github.com/marcus-daymon)
 - [dweep-js](https://github.com/dweep-js)
+- [Amr Yasser](https://github.com/amryasser017)
 - [gmariel911](https://github.com/gmariel911)
 - [Arnesh-Vimalraj](https://github.com/Arnesh-Vimalraj)
 - [Vaishnavi14705](https://github.com/vaishnavi14705/first-contributions)
