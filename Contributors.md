@@ -105,6 +105,7 @@
 - [Ayaan Khan](https://github.com/ayaan47-1)
 - [Sai Praneeth Sharma](https://github.com/SHARMA1525)
 - [ELOI-CODE1](https://github.com/ELOI-CODE1)
+- [Navneet Pitani] (https://github.com/Navneet-Pitani)
 - [Ankit Rawat](https://github.com/Ankit-dmc)
 - [Swantin63](https://github.com/Swantin-63)
 - [Ragul Arumugam](https://github.com/ragul-rofi)
