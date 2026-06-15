@@ -110,7 +110,7 @@ ganti bagian `<tambahkan-nama-cabang-baru>` dengan nama cabang yang sebelumnya A
 
 - ### Kesalahan Autentikasi
 
-       <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+  <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
 
   remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
   fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
