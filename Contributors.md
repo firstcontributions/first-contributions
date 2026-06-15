@@ -1,6 +1,7 @@
 # Contributors
 |
 
+- [Akshara Ramagiri](https://github.com/AksharaRamagiri)
 - [Jas-mineWang](https://github.com/Jas-mineWang)
 - [okburkard1](https://github.com/okburkard1)
 - [Pawar Rohit](https://github.com/PawarRohit132)
