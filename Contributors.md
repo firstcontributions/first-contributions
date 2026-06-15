@@ -630,6 +630,7 @@
 - [Mansib Rahman](https://github.com/mansibrahman03)
 - [Marcin Dec](https://github.com/MarcinDeeec)
 - [Mathis LaPivoine](https://github.com/Archeos932)
+- [Matthew Means](https://github.com/MattyMeans19)
 - [Matty D](https://github.com/mdelisle-Qosina)
 - [Max Taunton](https://github.com/PepsiMaxT)
 - [Mayur Lad](https://github.com/mayurlad)
