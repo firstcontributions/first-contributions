@@ -1359,7 +1359,7 @@
 - bodzibot
 - [Sr_Kennedy98](https://github.com/SrKennedy98)
 - Ashish
-- Vivert
+- Vivert S
   Roshni-K6
 - [Heeseong Kim](https://github.com/mors119)
 - [Ron Shigeta](https://github.com/iAccelTech)
