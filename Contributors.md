@@ -1,5 +1,7 @@
 # Contributors
 |
+
+- [Jas-mineWang](https://github.com/Jas-mineWang)
 - [okburkard1](https://github.com/okburkard1)
 - [Pawar Rohit](https://github.com/PawarRohit132)
 - [Tanmay-Pansare](https://github.com/CodeWithTanmay635)
@@ -9,6 +11,7 @@
 - [Rainluoer](https://github.com/Rainluoer)
 - [Krishal](https://github.com/krishal-p23)
 - [Joe Test]
+- [Kishore](https://github.com/Kishore-pv)
 - [stindop]
 - [Yuvan Vishnu Pandi](https://github.com/yuvanvishnupandi)
 - [Divyansh Singh](https://github.com/divyanshSingh41)
@@ -32,6 +35,7 @@
 - [sachin71011](https://github.com/sachin71011)
 - [msndindi](https://github.com/msndindi) -[Saee Salunkhe](https://github.com/s4eee)
 - Bijli
+- [utkarsh joshi] (https://github.com/utkarshjoshi24)
 - [Maahi-w-tech](https://github.com/Maahi-w-tech)
 - [Archita9412](https://github.com/Archita9412)
 - [Xander Wayne](https://github.com/xaaug)
@@ -322,6 +326,7 @@
 - [Dajmir LETS GOOO](https://github.com/dajmir)
 - [Dan Nguyen](https://github.com/dannguyen24)
 - [Daniel Kuhn](https://github.com/DanielUmedaKuhn)
+- [Darshika Shrivastava](https://github.com/darshika140)
 - [Dave Herr](https://github.com/dave-herr)
 - [Deekshith](https://github.com/Deekshith2485)
 - [Deepa Choudhary](https://github.com/Deepachoudhary24)
@@ -1421,6 +1426,7 @@
 - [@reydenim](https://github.com/reydenim) — Pull Shark PR 2/2
 - [kongerly](https://github.com/kongerly)
 - [Anshuman Tiwari](https://github.com/rajtiwari04)
+-[Govhar Rahmanzade](https://github.com/GovharRhm)
 - [Pawan khare](https://github.com/kharpaw)
 - [Binay Kumar Das](https://github.com/binaykumardas)- [Nathan](https://github.com/nathandefy-cyber)
   [13237599216-gif](https://github.com/13237599216-gif)
@@ -1436,9 +1442,10 @@
 - [Sahil Naliyadhara] (https://github.com/Sahil7383)
 - [Ujawala Sinha](https://github.com/Ujawala10)
 - [Signal-zxh](https://github.com/Signal-zxh)
-
 - - [Nishant Kumar- MERN Stack Developer](https://github.com/Nishant-codemm)
 - - [Nishant Kumar](https://github.com/Nishant-codemm)
 - [Gaurav Patil](https://github.com/Predator-888)
 - [SHAURYA GUPTA](https://github.com/Shauryagupta4)
 - [Phanee](https://github.com/phanee27/)
+- [pavithra Gangadharan] ( https://github.com/pavithra97g )
+
