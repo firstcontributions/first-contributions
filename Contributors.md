@@ -1,11 +1,11 @@
 # Contributors
 |
 
-- [Akshara Ramagiri](https://github.com/AksharaRamagiri)
-- [Jas-mineWang](https://github.com/Jas-mineWang)
+- somadina the coder[Akshara Ramagiri](https://github.com/AksharaRamagiri)
+Son of the soil is also son of the air and milkyway- [Jas-mineWang](https://github.com/Jas-mineWang)
 - [okburkard1](https://github.com/okburkard1)
 - [Pawar Rohit](https://github.com/PawarRohit132)
-- [Tanmay-Pansare](https://github.com/CodeWithTanmay635)
+Omeka nnaya one- [Tanmay-Pansare](https://github.com/CodeWithTanmay635)
 - [root-kcalb]
 - [VENKATA_SAI_JASWANTH](https://github.com/venkata-sai-jaswanth)
   GitHub Copilot -[Rishu Raj](https://github.com/Rishuraj3732)
