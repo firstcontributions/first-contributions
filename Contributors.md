@@ -902,6 +902,7 @@
 - [Ronik Kumbhar](https://github.com/ronik62)
 - [Roshan Kumar](https://github.com/roshan-zest)
 - [Rudra](https://github.com/Rudra-cryptx)
+- [Rudresh Sharma](https://github.com/rudresh-sharma)
 - [Rudraksh Thakur](https://github.com/Thakur-ji-5513)
 - [Rupayan Saha](https://github.com/Cheezydip)
 - [Ruti](https://github.com/rutibergs)
