@@ -46,6 +46,7 @@
 - [nayakantaryami](https://github.com/nayakantaryami)
 - [zxy010666-byte](https://github.com/zxy010666-byte)
 - [Nathan-Bezabeh](https://github.com/nati2405)
+- [Priyanshu](https://github.com/Priyanshu1x)
 - [Vaishnavi14705](https://github.com/vaishnavi14705/first-contributions)
 - [Gabo-Juarez](https://github.com/gabriel18111992)
 - [Ephraim-Munene](https://github.com/Ephraim-Munene)
