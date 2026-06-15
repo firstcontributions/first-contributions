@@ -38,6 +38,7 @@
 - [msndindi](https://github.com/msndindi) -[Saee Salunkhe](https://github.com/s4eee)
 - Bijli
 - [utkarsh joshi] (https://github.com/utkarshjoshi24)
+- [Aditya](https://github.com/Aditya-aks-710)
 - [Maahi-w-tech](https://github.com/Maahi-w-tech)
 - [Archita9412](https://github.com/Archita9412)
 - [Xander Wayne](https://github.com/xaaug)
