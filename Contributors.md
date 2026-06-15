@@ -877,6 +877,7 @@
 - [RitwikReddy](https://github.com/RitwikReddyAerla)
 - [Riya Kushwaha](https://github.com/riyak790)
 - [Khanak Jain] (https://github.com/khanakjain511)
+- [Sangam-Basnet] (https://github.com/Sangam-Basnet)
 - [Rizky-Amand](https://github.com/rzky21amanda-prog)
 - [Robert Mongold](https://github.com/rtmongold)
 - [Praneeth N Naik](https://github.com/praneeth-naik)
