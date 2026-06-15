@@ -21,6 +21,7 @@
 - [Meera Liz Joy](http://github.com/MeeraLizJoy)
 - [hazelr125](https://github.com/hazelr125)
 - [Arpan Charola](https://github.com/ArpanCharola)
+- [Sushant Kumar](https://github.com/Sushant-Kumar111)
 - [Daniel Jiménez](https://github.com/DanielJimenezA)
 - [Payal Agrawal](https://github.com/Payal-03)
 - [Bhavya Khatri](https://github.com/bhavya-shikamaru)
