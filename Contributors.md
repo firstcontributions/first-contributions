@@ -1,6 +1,6 @@
 # Contributors
 |
-
+- [DLCisNoob](https://github.com/DLCisNoob1)
 - [Akshara Ramagiri](https://github.com/AksharaRamagiri)
 - [Anantha Kumar]
 - [Jas-mineWang](https://github.com/Jas-mineWang)
