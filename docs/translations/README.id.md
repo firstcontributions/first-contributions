@@ -109,7 +109,6 @@ ganti bagian `<tambahkan-nama-cabang-baru>` dengan nama cabang yang sebelumnya A
 <summary> <strong>Jika Anda mendapatkan kesalahan saat melakukan <i>push</i>, klik disini:</strong> </summary>
 
 - ### Kesalahan Autentikasi
-
   <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
 
   remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
