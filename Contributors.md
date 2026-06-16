@@ -1,4 +1,5 @@
 # Contributors
+- [Gaurav Mishra](https://github.com/gauravkmishra09)
 - [Krontixz](https://github.com/Krontixz)
 - [Princy](https://github.com/Princy-y)
 - [Ayush De] (https://github.com/the-one-ayush)
