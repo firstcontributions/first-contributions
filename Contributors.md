@@ -16,6 +16,7 @@
 - [Joe Test]
 - [Brian Oliver](https://github.com/brianohh)
 - [Kishore](https://github.com/Kishore-pv)
+- [Haarush](https://github.com/Haarush2006)
 - [stindop]
 - [Yuvan Vishnu Pandi](https://github.com/yuvanvishnupandi)
 - [Divyansh Singh](https://github.com/divyanshSingh41)
