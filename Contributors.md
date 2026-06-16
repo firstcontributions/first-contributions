@@ -2,7 +2,7 @@
 - [Gaurav Mishra](https://github.com/gauravkmishra09)
 
 - [Muhammad Taha Nawab](https://taha-nawab-portfolio.vercel.app) [Full-Stack Developer · AI/ML Engineer]
-(**Visit my the Digital Wonder**)
+(**___Visit the Digital Wonder___**)
 - [Krontixz](https://github.com/Krontixz)
 - [Princy](https://github.com/Princy-y)
 - [Ayush De] (https://github.com/the-one-ayush)
