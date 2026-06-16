@@ -1,5 +1,6 @@
 # Contributors
 |
+- [Amit Kumar](https://github.com/kamit15)
 - [DLCisNoob](https://github.com/DLCisNoob1)
 - [Akshara Ramagiri](https://github.com/AksharaRamagiri)
 - [Anantha Kumar]
