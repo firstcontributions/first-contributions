@@ -1,4 +1,5 @@
 # Contributors
+
 |
 
 - [Akshara Ramagiri](https://github.com/AksharaRamagiri)
@@ -709,6 +710,7 @@
 - [Niharika Gupta](https://github.com/guptaniharika8953)
 - [Nikhil Itaudiya](https://github.com/23f2002113)
 - [Nikhil Kumar Singh](https://github.com/DarkGod04)
+- [R Mubashir Sheriff](https://github.com/mubashir-73)
 - [Nikhil More](https://github.com/Khiladi-786)
 - [Nikhil Rai](https://github.com/Nikhilrai27)
 - [Nikhil Verma](https://github.com/nikhil9verma)
@@ -915,7 +917,7 @@
 - [Ryan Gapp](https://github.com/ryan-gapp)
 - [Ryan Goods](https://github.com/feelgooddd)
 - [Rysan Deluna aka Ryan](https://github.com/RysanDeluna)
-- [Saee Mane](https://github.com/saeemane05) 
+- [Saee Mane](https://github.com/saeemane05)
 - [SAYEM](https://github.com/11UCRES)
 - [SIDHARTH](https://github.com/Sid-2302)
 - [SMJ](https://github.com/SeokMinJeon)
@@ -1436,8 +1438,7 @@
 - [Kuldeep Parmar](https://github.com/ParmarKuldeep0)- [Rey Denim Osborn](https://github.com/reydenim)
 - [@reydenim](https://github.com/reydenim) — Pull Shark PR 2/2
 - [kongerly](https://github.com/kongerly)
-- [Anshuman Tiwari](https://github.com/rajtiwari04)
--[Govhar Rahmanzade](https://github.com/GovharRhm)
+- [Anshuman Tiwari](https://github.com/rajtiwari04) -[Govhar Rahmanzade](https://github.com/GovharRhm)
 - [Pawan khare](https://github.com/kharpaw)
 - [Binay Kumar Das](https://github.com/binaykumardas)- [Nathan](https://github.com/nathandefy-cyber)
   [13237599216-gif](https://github.com/13237599216-gif)
@@ -1460,7 +1461,7 @@
 - [Phanee](https://github.com/phanee27/)
 - [pavithra Gangadharan] ( https://github.com/pavithra97g )
 - [Sourav Bagchi](https://github.com/KamayegaBharat)
-- [Shashikant Pandey]( https://github.com/Sk-Pandey )
+- [Shashikant Pandey](https://github.com/Sk-Pandey)
 - [Aayush Kumar](https://github.com/aayushk2107)
 - [Fahad Siraj](https://github.com/imthecode777)
 - [Dominykas Burba] (https://github.com/DominykasBurba)
