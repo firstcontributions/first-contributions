@@ -1,4 +1,5 @@
 # Contributors
+- [Princy](https://github.com/Princy-y)
 - [Ayush De] (https://github.com/the-one-ayush)
 - [Hamza] (https://github.com/webgo-oss)
 - [Sri pravallika Malla](https://github.com/sripravallika05)
