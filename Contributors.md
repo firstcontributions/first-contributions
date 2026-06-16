@@ -4,6 +4,7 @@
 - [Hamza] (https://github.com/webgo-oss)
 - [Sri pravallika Malla](https://github.com/sripravallika05)
 - [Ivan Tran](https://github.com/IvanTran-2001)
+- [Edward Pineda](https://github.com/xEdwardP)
 - [Nikita Kushwaha](https://github.com/1nikitakushwaha)
 - [Ritesh nishad] (https://github.com/ritesh-404)
 - [Amit Kumar](https://github.com/kamit15)
