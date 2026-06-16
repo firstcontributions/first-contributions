@@ -679,6 +679,7 @@
 - [Muhammad Habiibullah](https://github.com/habiibullahm)
 - [Muhammad Imran Butt](https://github.com/imranbuttcodes)
 - [Muhammed Shareef](https://github.com/shareefmx)
+- [Mohamed Amdouni](https://github.com/mohamed-adhd)
 - [Muhsil NR](https://github.com/mhlohh)
 - [Muntazir-Sayed](https://github.com/Muntazir-sd)
 - [Murphy Amparo](https://github.com/MaxTecnoDev)
