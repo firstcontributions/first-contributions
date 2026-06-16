@@ -775,6 +775,7 @@
 - [Padmaraj](https://github.com/padmaraj)
 - [Paige Li](https://github.com/itspaigenli)
 - [Palak Gupta](https://github.com/palak700)
+- [Ernesto Lindo](https://github.com/ernestolindo)
 - [Palak](https://github.com/palak1-2)
 - [Pankaj Badhan](https://github.com/pankajbadhann)
 - [PanBurz](https://github.com/PanBurz)
