@@ -1471,3 +1471,4 @@
 - [Utkersh Pandyaa](https://github.com/utk-dev)
 - [Lily Sam](https://github.com/oforiwaasam)
 - [meeki34](https://github.com/meeki34)
+- [Mariana Valente](https://github.com/eusoumarianavalente-stack)
