@@ -1,5 +1,6 @@
 # Contributors
 - [Nikita Kushwaha](https://github.com/1nikitakushwaha)
+- [Ritesh nishad] (https://github.com/ritesh-404)
 - [Amit Kumar](https://github.com/kamit15)
 - [DLCisNoob](https://github.com/DLCisNoob1)
 - [Akshara Ramagiri](https://github.com/AksharaRamagiri)
