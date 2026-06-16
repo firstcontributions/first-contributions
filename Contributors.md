@@ -1,4 +1,5 @@
 # Contributors
+- [Krontixz](https://github.com/Krontixz)
 - [Princy](https://github.com/Princy-y)
 - [Ayush De] (https://github.com/the-one-ayush)
 - [Hamza] (https://github.com/webgo-oss)
