@@ -1265,6 +1265,7 @@
 - [Yash Kewte](https://github.com/yashkewte)
 - [Yash Khanduja](https://github.com/ykshdja)
 - [Yash Khatri](https://github.com/Yashkhatri01)
+- [Yash Nayak](https://github.com/YashNayakk)
 - [Yash Patel](https://github.com/WildTrio)
 - [Yash Shinde](https://github.com/yashshinde217)
 - [Yash](https://github.com/yashhwanth)
