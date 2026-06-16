@@ -1483,3 +1483,4 @@
 - [Mariana Valente](https://github.com/eusoumarianavalente-stack)
 - [lzjshijlba](https://github.com/lzjshijlba)
 - [jlzrc](https://github.com/jlzrc)
+- [Rishi Gupta](https://github.com/RISHI241005)
