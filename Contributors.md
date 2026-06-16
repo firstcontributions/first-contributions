@@ -758,6 +758,7 @@
 - [Olha Sorych](https://github.com/colaola20/first-contributions.git)
 - [Olivier Brossard-Roy](https://github.com/obr-code)
 - [Om Chandwani](https://github.com/omch-29)
+- [Om Chauhan](https://github.com/omm-prog)
 - [Om Singh](https://github.com/Singh-OmDev)
 - [Omadbek UZB](https://github.com/Zenitsu-Yegr/)
 - [Omkar Ala](https://github.com/omkarala)
