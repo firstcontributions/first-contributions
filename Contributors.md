@@ -12,6 +12,7 @@
 - [okburkard1](https://github.com/okburkard1)
 - [Pawar Rohit](https://github.com/PawarRohit132)
 - [Tanmay-Pansare](https://github.com/CodeWithTanmay635)
+  [John Nash](https://github.com/WickedSonny)
 - [root-kcalb]
 - [marco]
 - [VENKATA_SAI_JASWANTH](https://github.com/venkata-sai-jaswanth)
