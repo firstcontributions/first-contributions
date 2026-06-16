@@ -648,6 +648,7 @@
 - [LoongSir-ME](https://github.com/LoongSir-ME)
 - [Lord-Lucius](https://github.com/Lord-Lucius)
 - [Lorenzo Pica](https://github.com/Atmoloid)
+- [Alwaz](https://github.com/Alwaz1143)
 - [Lottie Judge](https://github.com/lottiejudge-source)
 - [Louwrens Költzow](https://github.com/KoltzowLJ)
 - [Loyd Ngei](https://github.com/LoydNgei)
