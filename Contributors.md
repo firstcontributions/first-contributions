@@ -9,6 +9,7 @@
 - [Edward Pineda](https://github.com/xEdwardP)
 - [Nikita Kushwaha](https://github.com/1nikitakushwaha)
 - [Ritesh nishad] (https://github.com/ritesh-404)
+- [Niharika]
 - [Amit Kumar](https://github.com/kamit15)
 - [Suksha](https://github.com/Suksha128)
 - [DLCisNoob](https://github.com/DLCisNoob1)
