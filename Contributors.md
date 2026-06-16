@@ -1496,3 +1496,4 @@
 -[Mahek Nandwana](https://github.com/maheknandwana9-pixel)
 - [Taegon Ko](https://github.com/taegonko)
 - [Edouard P](https://github.com/epap28)
+- [Norien-hue](https://github.com/Norien-hue)
