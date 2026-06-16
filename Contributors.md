@@ -77,6 +77,7 @@
 - [Gabo-Juarez](https://github.com/gabriel18111992)
 - [Ephraim-Munene](https://github.com/Ephraim-Munene)
 - [Harish-Peddi](https://github.com/hiharish)
+- [Roberto-Lopez](https://github.com/superrober1)
 - [Roum1212](https://github.com/Roum1212)
 - [Marcus daymon](https://github.com/marcus-daymon)
 - [dweep-js](https://github.com/dweep-js)
