@@ -1,5 +1,7 @@
 # Contributors
 - [Gaurav Mishra](https://github.com/gauravkmishra09)
+Added Taha to the List
+- [Muhammad Taha Nawab](https://taha-nawab-portfolio.vercel.app) [Full-Stack Developer · AI/ML Engineer]
 - [Krontixz](https://github.com/Krontixz)
 - [Princy](https://github.com/Princy-y)
 - [Ayush De] (https://github.com/the-one-ayush)
