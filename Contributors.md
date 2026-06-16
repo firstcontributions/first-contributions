@@ -1144,6 +1144,7 @@
 - [That1LinuxGuy](https://github.com/That1LinuxGuy)
 - [TheTeodora22](https://github.com/TheTeodora22)
 - [Thejus Kannoth](https://github.com/ThejusKannoth)
+- [Thejas Shetty](https://github.com/thejassh)
 - [Thilamaren S S](https://github.com/thilamaren1)
 - [Thisum Dantdhanarayana](https://github.com/thisum-dev)
 - [Thoka Harini](https://github.com/thokaharini24)
