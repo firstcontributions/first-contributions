@@ -1500,6 +1500,7 @@
 - [Fahad Siraj](https://github.com/imthecode777)
 - [Dominykas Burba] (https://github.com/DominykasBurba)
 - [Aakanksha Hedau](https://github.com/Akanksha-H)
+- [JesusROvr] (https://github.com/JesusROvr)
 - [Utkersh Pandyaa](https://github.com/utk-dev)
 - [Lily Sam](https://github.com/oforiwaasam)
 - [meeki34](https://github.com/meeki34)
