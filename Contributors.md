@@ -1489,3 +1489,4 @@
 - [Rishi Gupta](https://github.com/RISHI241005)
 -[Mahek Nandwana](https://github.com/maheknandwana9-pixel)
 - [Taegon Ko](https://github.com/taegonko)
+- [Edouard P](https://github.com/epap28)
