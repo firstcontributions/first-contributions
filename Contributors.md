@@ -32,6 +32,7 @@
 - [Yuvan Vishnu Pandi](https://github.com/yuvanvishnupandi)
 - [Divyansh Singh](https://github.com/divyanshSingh41)
 - [Suraj G Meharwade](https://github.com/Suru-web)
+- [Aditya Raj](https://github.com/adityarepos)
 - [Saksham Paliwal](https://github.com/sakshampaliwal21)
 - [Tanushree R](https://github.com/Tanushree-RD)
 - [Jahanvi Raycha](https://github.com/jahanvir)
