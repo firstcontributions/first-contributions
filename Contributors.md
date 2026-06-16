@@ -1,4 +1,5 @@
 # Contributors
+- [Shambhavi Singh](https://github.com/Shambhavigith)
 - [Gaurav Mishra](https://github.com/gauravkmishra09)
 - [Krontixz](https://github.com/Krontixz)
 - [Princy](https://github.com/Princy-y)
