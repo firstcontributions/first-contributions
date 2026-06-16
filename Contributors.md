@@ -346,6 +346,7 @@
 - [CG Moon](https://github.com/claire-moon)
 - [CodingSayed](https://github.com/CodingSayed)
 - [Cole Ali](https://github.com/aliooo36)
+- [Jason Chen](https://github.com/jchen1124)
 - [Conner Lennon](https://github.com/cnnrl)
 - [Conor MacMahon](https://github.com/conorjmacmahon)
 - [Daan](https://github.com/Daan03)
