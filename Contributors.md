@@ -325,6 +325,7 @@
 - [Caden Warren](https://github.com/cw-0)
 - [Caleb Ripley](https://github.com/cdripley7-bit)
 - [Caleb Rollf](https://github.com/lemonsloth)
+- [Muralikrishnan Menon](https://github.com/menonmuralikrishnan-new)
 - [Can Saray](https://github.com/cansaray956-svg)
 - [Canberk Girgin](https://github.com/canberkg67)
 - [Cang Li](https://github.com/DileepGampala2005)
@@ -1470,8 +1471,7 @@
 - [Kuldeep Parmar](https://github.com/ParmarKuldeep0)- [Rey Denim Osborn](https://github.com/reydenim)
 - [@reydenim](https://github.com/reydenim) — Pull Shark PR 2/2
 - [kongerly](https://github.com/kongerly)
-- [Anshuman Tiwari](https://github.com/rajtiwari04)
--[Govhar Rahmanzade](https://github.com/GovharRhm)
+- [Anshuman Tiwari](https://github.com/rajtiwari04) -[Govhar Rahmanzade](https://github.com/GovharRhm)
 - [Pawan khare](https://github.com/kharpaw)
 - [Binay Kumar Das](https://github.com/binaykumardas)- [Nathan](https://github.com/nathandefy-cyber)
   [13237599216-gif](https://github.com/13237599216-gif)
@@ -1514,6 +1514,5 @@
 - [Edouard P](https://github.com/epap28)
 - [Norien-hue](https://github.com/Norien-hue)
 - [Vladyslav Vytrykush](https://github.com/Perry1231)
--[Saran Vishakan]
-(https://github.com/RG9906)
--[kipkoech](https://github.com/codewithshadyy)
+- [Saran Vishakan](https://github.com/RG9906)
+- [kipkoech](https://github.com/codewithshadyy)
