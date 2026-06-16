@@ -1412,6 +1412,7 @@
 - [Anamitra Bakshi](https://github.com/anamitra-tech)
 - [Rohan Sahani](https://github.com/rohansahani-sde)
 - [Manish M](https://github.com/manishrao0312)
+- leocmp
 - [Yemintun90](https://github.com/Yemintun90)
 - [Rishabh Kori](https://github.com/rishabh-kori-05)
 - [Ayushi Kaul](https://github.com/ayushikaul02)
