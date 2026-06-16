@@ -197,6 +197,7 @@
 - [Allen Rahul](https://github.com/Allen737)
 - [Alma](https://github.com/Yazz405)
 - [Alvar Velázquez de León Lavarrios](https://github.com/alvarvelazquezdeleonlavarrios)
+- [Jordan Ross Sweigart](https://github.com/sweigfs-hub)
 - [Aman Kumar Verma](https://github.com/amanbuilds-hub)
 - [Amavidato](https://github.com/Amavidato)
 - [Amishi Agrawal](https://github.com/amishiagrawal)
