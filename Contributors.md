@@ -5,6 +5,7 @@ GitHub Copilot
 - [Rainluoer](https://github.com/Rainluoer)
 - [Krishal](https://github.com/krishal-p23)
 - [Joe Test]
+- [hns dev]
 - [stindop]
 - [Yuvan Vishnu Pandi](https://github.com/yuvanvishnupandi)
 - [Saksham Paliwal](https://github.com/sakshampaliwal21)
