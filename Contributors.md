@@ -6,7 +6,8 @@
 - [Shambhavi Singh](https://github.com/Shambhavigith)
 - [Gaurav Mishra](https://github.com/gauravkmishra09)
 - [Budati Chethana](https://github.com/Budatichethana)
-- [Muhammad Taha Nawab](https://taha-nawab-portfolio.vercel.app) [Full-Stack Developer · AI/ML Engineer]
+- [Muhammad Taha Nawab](https://taha-nawab-portfolio.vercel.app) [Full-Stack Developer · AI/
+ML Engineer]
 (**___Visit the Digital Wonder___**)
 - [Krontixz](https://github.com/Krontixz)
 - [Princy](https://github.com/Princy-y)
@@ -1269,6 +1270,7 @@
 - [VizzScript](https://github.com/vizzscript)
 - [Vladimir](https://github.com/coder202)
 - [Vuk Topalovic](https://github.com/vukkt)
+-[Preet Kalra](https://github.com/preetk25627-dotcom)
 - [Tanisha](https://github.com/Tanisha800)
 - [Vyshnavi Gopavarapu](https://github.com/gopavarapuvyshnavi66-tech)
 - [WHA](https://github.com/wynehtetaung)
