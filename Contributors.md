@@ -1,4 +1,5 @@
 # Contributors
+
 - [Princy](https://github.com/Princy-y)
 - [Ayush De] (https://github.com/the-one-ayush)
 - [Hamza] (https://github.com/webgo-oss)
@@ -29,7 +30,7 @@
 - [Kishore](https://github.com/Kishore-pv)
 - [Haarush](https://github.com/Haarush2006)
 - [stindop]
--any changes
+  -any changes
 - [Yuvan Vishnu Pandi](https://github.com/yuvanvishnupandi)
 - [Divyansh Singh](https://github.com/divyanshSingh41)
 - [Suraj G Meharwade](https://github.com/Suru-web)
@@ -1460,8 +1461,7 @@
 - [Kuldeep Parmar](https://github.com/ParmarKuldeep0)- [Rey Denim Osborn](https://github.com/reydenim)
 - [@reydenim](https://github.com/reydenim) — Pull Shark PR 2/2
 - [kongerly](https://github.com/kongerly)
-- [Anshuman Tiwari](https://github.com/rajtiwari04)
--[Govhar Rahmanzade](https://github.com/GovharRhm)
+- [Anshuman Tiwari](https://github.com/rajtiwari04) -[Govhar Rahmanzade](https://github.com/GovharRhm)
 - [Pawan khare](https://github.com/kharpaw)
 - [Binay Kumar Das](https://github.com/binaykumardas)- [Nathan](https://github.com/nathandefy-cyber)
   [13237599216-gif](https://github.com/13237599216-gif)
@@ -1484,7 +1484,7 @@
 - [Phanee](https://github.com/phanee27/)
 - [pavithra Gangadharan] ( https://github.com/pavithra97g )
 - [Sourav Bagchi](https://github.com/KamayegaBharat)
-- [Shashikant Pandey]( https://github.com/Sk-Pandey )
+- [Shashikant Pandey](https://github.com/Sk-Pandey)
 - [Aayush Kumar](https://github.com/aayushk2107)
 - [Fahad Siraj](https://github.com/imthecode777)
 - [Dominykas Burba] (https://github.com/DominykasBurba)
@@ -1504,3 +1504,4 @@
 - [Edouard P](https://github.com/epap28)
 - [Norien-hue](https://github.com/Norien-hue)
 - [Vladyslav Vytrykush](https://github.com/Perry1231)
+- [Pratik Paudel](https://github.com/PRDXdotEXE)
