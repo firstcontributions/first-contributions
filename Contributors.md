@@ -1326,6 +1326,7 @@
 - [csonoda30](https://github.com/csonoda30)
 - [dangdaizheshi](https://github.com/dangdaizheshi/)
 - [dolphin2468](https://github.com/dolphin2468)
+- [elliotdziemiela1](https://github.com/elliotdziemiela1)
 - [duckhash](https://github.com/duckhash)
 - [fahaddev](https://github.com/fahadkhandev)
 - [gavr malt](https://github.com/gavrmalt)
