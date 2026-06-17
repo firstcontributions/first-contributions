@@ -634,6 +634,7 @@
 - [Kavin](https://github.com/atomthedark)
 - [Kishan Pokar](https://github.com/Kishan-Pokar)
 - [Kevin Liao](https://github.com/kevintheliao)
+- [kpstasikowska](https://github.com/kpstasikowska)
 - [Krishan Malhotra](https://github.com/krishan2005op)
 - [Kutbuddin Moiz Attarwala](https://github.com/Kutbuddin1110)
 - [Kyle Gossage](https://github.com/KGossage11)
