@@ -43,6 +43,7 @@
 - [Haarush](https://github.com/Haarush2006)
 - [stindop]
 -any changes
+-[Diksha Jaju](https://github.com/Dikshajaju)
 - [Yuvan Vishnu Pandi](https://github.com/yuvanvishnupandi)
 - [Divyansh Singh](https://github.com/divyanshSingh41)
 - [Suraj G Meharwade](https://github.com/Suru-web)
