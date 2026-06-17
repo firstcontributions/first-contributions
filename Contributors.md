@@ -4,6 +4,7 @@
 - [Muhammad Hasnain](https://github.com/muhammadhasnain3031) 
 - [JGGY521 ](https://github.com/JGGY521)
 - [Shambhavi Singh](https://github.com/Shambhavigith)
+- [Krishna Vijaywargiya](github.com/v-krishna07)
 - [Gaurav Mishra](https://github.com/gauravkmishra09)
 - [Budati Chethana](https://github.com/Budatichethana)
 - [Krontixz](https://github.com/Krontixz)
