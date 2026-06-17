@@ -1497,6 +1497,7 @@ ML Engineer]
 - [Pushty Jha](https://github.com/pushtyjha-blip)
 - [Andy Ron](https://github.com/andyRon)
 - [Nithyasri77] (https://github.com/Nithyasri77)
+- [Karthik Sai](https://github.com/karthiksai15)
 - [Sierda](https://github.com/sierda)
 - [Kuldeep Parmar](https://github.com/ParmarKuldeep0)- [Rey Denim Osborn](https://github.com/reydenim)
 - [@reydenim](https://github.com/reydenim) — Pull Shark PR 2/2
@@ -1567,4 +1568,6 @@ holaaa soy haroldgit
 
 - [bhaveshbanshiwal](https://github.com/bhaveshbanshiwal)
 
-- [Sarika Chaudhary] (https://github.com/SarikaChaudhary18)
+- [Sarika Chaudhary](https://github.com/SarikaChaudhary18)
+=======
+>>>>>>> 4d2dd8d65 (Add Karthik Sai to contributors list)
