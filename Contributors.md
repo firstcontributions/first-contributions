@@ -2,7 +2,7 @@
 - [JGGY521 ](https://github.com/JGGY521)
 - [Shambhavi Singh](https://github.com/Shambhavigith)
 - [Gaurav Mishra](https://github.com/gauravkmishra09)
-
+- [Budati Chethana](https://github.com/Budatichethana)
 - [Muhammad Taha Nawab](https://taha-nawab-portfolio.vercel.app) [Full-Stack Developer · AI/ML Engineer]
 (**___Visit the Digital Wonder___**)
 - [Krontixz](https://github.com/Krontixz)
