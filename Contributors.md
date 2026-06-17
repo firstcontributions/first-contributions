@@ -1451,6 +1451,7 @@
 - [Rohan Sahani](https://github.com/rohansahani-sde)
 - [Suman Shil](https://github.com/Suman942)
 - [Radwa Fakhruddin](https://github.com/radwakhan)
+- [Sukanthan](https://github.com/Sukanthan06)
 - [Khizra Hassan](https://github.com/hassankhizra97-crypto)
 - [Anamitra Bakshi](https://github.com/anamitra-tech)
 - [Rohan Sahani](https://github.com/rohansahani-sde)
