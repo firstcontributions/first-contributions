@@ -47,6 +47,7 @@
 - [Jahanvi Raycha](https://github.com/jahanvir)
 - [Roberto-Lins](https://github.com/Roberto-Lins)
 - [Daniel Corona](https://github.com/Danieeel0601)
+- [WangX0111](https://github.com/WangX0111)
 - [DSVNS Srinidhi](https://github.com/davulurisrinidhi1)
 - [Meera Liz Joy](http://github.com/MeeraLizJoy)
 - [hazelr125](https://github.com/hazelr125)
