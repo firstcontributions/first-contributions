@@ -62,6 +62,7 @@
 - [Payal Agrawal](https://github.com/Payal-03)
 - [Bhavya Khatri](https://github.com/bhavya-shikamaru)
 - [Manas Shekhar Tiwari](https://github.com/Manas2135)
+- [Devansh Jaiswal](https://github.com/theycallme-witty)
   [shiva](https://github.com/Saishiva3000)
 - [Vishaka30](https://github.com/Vishaka30)
 - [Yogendra-08](https://github.com/Yogendra-08)
