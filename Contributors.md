@@ -124,6 +124,7 @@
 - [Ashritha Kadarla](https://github.com/ashrithakadarla)
 
 - [Ashwani Mishra](https://github.com/ashwyni-mishra)
+- [Ankit Kantheti](https://github.com/kankit12)
 - [Asif Khan](https://github.com/Mak-1911)
 - [Asif Raza Ansari](https://github.com/asifraza-776)
 - [Asiya Mujawar](https://github.com/asiyamujawar)
