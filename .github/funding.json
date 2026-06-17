@@ -82,12 +82,12 @@
         "income": 7,
         "expenses": 0,
         "taxes": 0,
-        "currency": "USD",
+        "currency": "rupees",
         "description": ""
       },
       {
         "year": 2023,
-        "income": 5,
+        "income": 6,
         "expenses": 0,
         "taxes": 0,
         "currency": "USD",
