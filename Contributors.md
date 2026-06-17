@@ -407,6 +407,7 @@
 - [Dhruv Srivastava](https://github.com/Dhruvh-maker)
 - [Dhruv](https://github.com/Dhru08)
 - [Dhruvi](https://github.com/DhruviGajjar26)
+- [Dhruvi Rana](https://github.com/Dhruvirana08)
 - [Digvijay Patel](https://github.com/DigvijayPatel1)
 - [Diksha Upadhyay](https://github.com/23f2004211)
 - [Dileep Kumar Rambarki](https://github.com/DileepKumarRambarki)
