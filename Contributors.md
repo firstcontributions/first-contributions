@@ -36,6 +36,7 @@
 - [Rainluoer](https://github.com/Rainluoer)
 - [Krishal](https://github.com/krishal-p23)
 - [Joe Test]
+- [hns dev]
 - [Brian Oliver](https://github.com/brianohh)
 - [Kishore](https://github.com/Kishore-pv)
 - [Haarush](https://github.com/Haarush2006)
