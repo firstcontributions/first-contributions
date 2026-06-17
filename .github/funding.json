@@ -67,7 +67,7 @@
         "status": "active",
         "name": "Hosting support",
         "description": "This will cover the monthly server hosting costs for the projects.",
-        "amount": 30,
+        "amount": 150,
         "currency": "USD",
         "frequency": "monthly",
         "channels": [
@@ -78,8 +78,8 @@
     ],
     "history": [
       {
-        "year": 2024,
-        "income": 3,
+        "year": 2026,
+        "income": 7,
         "expenses": 0,
         "taxes": 0,
         "currency": "USD",
