@@ -1,11 +1,12 @@
 # Contributors
-- [Muhammad Hasnain](https://github.com/muhammadhasnain3031) 
+
+- [Muhammad Hasnain](https://github.com/muhammadhasnain3031)
 - [JGGY521 ](https://github.com/JGGY521)
 - [Shambhavi Singh](https://github.com/Shambhavigith)
 - [Gaurav Mishra](https://github.com/gauravkmishra09)
 - [Budati Chethana](https://github.com/Budatichethana)
 - [Muhammad Taha Nawab](https://taha-nawab-portfolio.vercel.app) [Full-Stack Developer · AI/ML Engineer]
-(**___Visit the Digital Wonder___**)
+  (****_Visit the Digital Wonder_****)
 - [Krontixz](https://github.com/Krontixz)
 - [Princy](https://github.com/Princy-y)
 - [Ayush De] (https://github.com/the-one-ayush)
@@ -37,10 +38,11 @@
 - [Krishal](https://github.com/krishal-p23)
 - [Joe Test]
 - [Brian Oliver](https://github.com/brianohh)
+- [Shivam Saini](https://github.com/Shivam-2807)
 - [Kishore](https://github.com/Kishore-pv)
 - [Haarush](https://github.com/Haarush2006)
 - [stindop]
--any changes
+  -any changes
 - [Yuvan Vishnu Pandi](https://github.com/yuvanvishnupandi)
 - [Divyansh Singh](https://github.com/divyanshSingh41)
 - [Suraj G Meharwade](https://github.com/Suru-web)
@@ -297,7 +299,7 @@
 - [Ben Cruwys](https://github.com/bencruwys)
 - [Ben Huotari](https://github.com/benhuotari)
 - [Benhein Michael Ruben L](https://github.com/ben002mr)
-- [Bhavya Agarwal] (https://github.com/bhavya632/bhavya632.git) 
+- [Bhavya Agarwal] (https://github.com/bhavya632/bhavya632.git)
 - [Bhanu Narra](https://github.com/bhanu962)
 - [Bhargav Chataut](https://github.com/bhargav-chataut)
 - [Bhargav Kallepally](https://github.com/BHARGAV-RUE)
@@ -1535,16 +1537,16 @@
 - [Taegon Ko](https://github.com/taegonko)
 - [Edouard P](https://github.com/epap28)
 - [Norien-hue](https://github.com/Norien-hue)
-- [Vladyslav Vytrykush](https://github.com/Perry1231)
--[Saran Vishakan RG]
-(https://github.com/RG9906)
+- [Vladyslav Vytrykush](https://github.com/Perry1231) -[Saran Vishakan RG]
+  (https://github.com/RG9906)
 - [Liam Fudge](https://github.com/liamfudge)
 
-holaaa soy haroldgit 
+holaaa soy haroldgit
+
 - [TheAdelsw](https://github.com/TheAdelsw)
 - - [kilol-x](https://github.com/kilol-x)
 - [Lizyoko](https://github.com/lizyoko9)
-- [Pankaj Singh Dhami] 
+- [Pankaj Singh Dhami]
 - [Ammarah-droid](https://github.com/Ammarah-droid)
 - [Yachna Sharma](https://github.com/yach26)
 - [Glodi Mietete](https://github.com/Glodi-M)
