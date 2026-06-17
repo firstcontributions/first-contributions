@@ -77,17 +77,18 @@ git push origin -u your-branch-name
 
 zastępując `your-branch-name` nazwą gałęzi, którą utworzyłeś wcześniej.
 
-\<details\>
-\<summary\> \<strong\>Jeśli podczas wypychania wystąpią błędy, kliknij tutaj:\</strong\> \</summary\>
+<details>
+<summary> <strong>Jeśli podczas wypychania wystąpią błędy, kliknij tutaj:</strong> </summary>
 
   - ### Authentication Error
 
-     \<pre\>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
-  remote: Please see [https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/) for more information.
-  fatal: Authentication failed for '[https://github.com/](https://github.com/)\<your-username\>/first-contributions.git/'\</pre\>
-  Przejdź do [tutoriala GitHub](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) dotyczącego generowania i konfigurowania klucza SSH na swoim koncie.
+     <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+  remote: Please see [https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/) for more information.
+  fatal: Authentication failed for '[https://github.com/](https://github.com/)<your-username>/first-contributions.git/'</pre>
 
-\</details\>
+  Przejdź do [tutoriala GitHub](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) dotyczącego generowania i konfigurowania klucza SSH na swoim koncie.
+
+</details>
 
 -----
 
