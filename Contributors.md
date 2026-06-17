@@ -392,6 +392,7 @@
 - [Devashish Gupta](https://github.com/sudo-verse)
 - [Devdeep Sarkar](https://github.com/devdeepsarkar)
 - [Devdxpen](https://github.com/devdxpen)
+- [John Lowery](https://github.com/PugTaco)
 - [Developer Dashboard](https://vijaygoswami.is-a-dev?utm_source=github)
 - [Devesh Jain](https://github.com/jaindevesh144)
 - [Devika Menon](https://github.com/DevikaaMenon)
