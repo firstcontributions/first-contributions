@@ -6,9 +6,6 @@
 - [Shambhavi Singh](https://github.com/Shambhavigith)
 - [Gaurav Mishra](https://github.com/gauravkmishra09)
 - [Budati Chethana](https://github.com/Budatichethana)
-- [Muhammad Taha Nawab](https://taha-nawab-portfolio.vercel.app) [Full-Stack Developer · AI/
-ML Engineer]
-(**___Visit the Digital Wonder___**)
 - [Krontixz](https://github.com/Krontixz)
 - [Princy](https://github.com/Princy-y)
 - [Ayush De] (https://github.com/the-one-ayush)
@@ -45,8 +42,6 @@ ML Engineer]
 - [Kishore](https://github.com/Kishore-pv)
 - [Haarush](https://github.com/Haarush2006)
 - [stindop]
--any changes
--[Diksha Jaju](https://github.com/Dikshajaju)
 - [Yuvan Vishnu Pandi](https://github.com/yuvanvishnupandi)
 - [Divyansh Singh](https://github.com/divyanshSingh41)
 - [Suraj G Meharwade](https://github.com/Suru-web)
@@ -1549,6 +1544,7 @@ ML Engineer]
 - [Edouard P](https://github.com/epap28)
 - [Norien-hue](https://github.com/Norien-hue)
 - [Vladyslav Vytrykush](https://github.com/Perry1231)
+- [Pratik Paudel](https://github.com/PRDXdotEXE)
 -[Saran Vishakan RG]
 (https://github.com/RG9906)
 - [Liam Fudge](https://github.com/liamfudge)
@@ -1571,5 +1567,3 @@ holaaa soy haroldgit
 - [bhaveshbanshiwal](https://github.com/bhaveshbanshiwal)
 
 - [Sarika Chaudhary](https://github.com/SarikaChaudhary18)
-=======
->>>>>>> 4d2dd8d65 (Add Karthik Sai to contributors list)
