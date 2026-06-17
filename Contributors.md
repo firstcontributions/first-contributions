@@ -20,6 +20,7 @@
 - [Amit Kumar](https://github.com/kamit15)
 - [Suksha](https://github.com/Suksha128)
 - [DLCisNoob](https://github.com/DLCisNoob1)
+- [JyanezVilla(https://github.com/JyanezVilla)
 - [Akshara Ramagiri](https://github.com/AksharaRamagiri)
 - [Anantha Kumar]
 - [David Brownhill]
