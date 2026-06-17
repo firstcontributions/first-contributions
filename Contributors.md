@@ -1560,3 +1560,4 @@ holaaa soy haroldgit
 - [Teja V](https://github.com/teja200514)
 - Vidya
 
+- [Shoki Miyashita](https://github.com/toitoitoitoitoi)
