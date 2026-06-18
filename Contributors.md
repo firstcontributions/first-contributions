@@ -774,6 +774,7 @@
 - [NinoYin](https://github.com/NinoYin)
 - [Nischal Soni](this is my first contribution to a public repo)
 - [Nisha Muthurajan](https://github.com/nisha-muthurajan)
+- [Gustavo Purkoot](https://github.com/gustavopurkoot)
 - [Nishant K Joshyabhatla](https://github.com/nishantkj911)
 - [Nishant Trivedi](https://github.com/Nish0178)
 - [Nishant kumar](https://github.com/nishantraj06)
