@@ -638,6 +638,7 @@
 - [Jo Kershaw](https://github.com/jo-kershaw)
 - [Joey Statz](https://github.com/jstatz42)
 - [Johnathan Orizaba](https://github.com/johnathanorizaba15-max)
+- [Johnny Dunal](https://github.com/johnnydunal)
 - [Jonmino](https://github.com/jonmino)
 - [Josman Dev](https://github.com/jmaldama8110)
 - [Joylin Mathias](https://github.com/joylinmhs)
