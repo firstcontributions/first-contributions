@@ -10,6 +10,7 @@
 - [Ayesha Perveen](https://github.com/ayeshamallick6514-aye/first-contributions)
 -[Bhavin Goyal](https://github.com/Bhavin2007)
 - [Kabir Ahmed](https://github.com/GrowAsguard) main
+- [Sam George]
 - [Hamid Ali](https://github.com/hamidali54)
 - [Boskele](https://github.com/Boskelero)
 - [Mithulya Sandali](https://github.com/mithulya-s)
