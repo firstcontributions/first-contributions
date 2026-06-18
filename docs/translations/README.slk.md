@@ -12,7 +12,7 @@ Je to ťažké. Je to vždy ťažké, keď niečo robíš prvýkrát. Najmä vte
 
 #### *Ak sa ti nedarí s príkazovým riadkom, [tu sú návody s nástrojmi grafického rozhrania.]( #návody-pomocou-iných-nástrojov )*
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="vytvoriť vetvu tohto repozitára" />
 
 Ak nemáš na svojom počítači git, [nainštaluj ho]( https://help.github.com/articles/set-up-git/).
 
@@ -23,21 +23,21 @@ Tým sa vytvorí kópia tohto úložiska na tvojom účte.
 
 ## Stiahni toto úložisko
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="skopírovať tento repozitár" />
 
 Teraz stiahni toto úložisko do tvojho zariadenia. Prejdi do tvojho účtu GitHub, otvor skopírované úložisko, klikni na tlačidlo klonovania a potom klikni na ikonu * kopírovať do schránky *.
 
 Otvor terminál a spusti nasledujúci git príkaz:
 
-```
+```bash
 git clone "adresa, ktorú si práve skopíroval"
 ```
 kde "adresa ktorú si práve skopíroval" (bez úvodzoviek) je adresa URL tohto úložiska (tvoja kópia tohto projektu). Pozri si predchádzajúce kroky na získanie adresy URL.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="skopírovať URL do schránky" />
 
 Napríklad:
-```
+```bash
 git clone https://github.com/toto-si-ty/prve-prispevky.git
 ```
 kde `toto-si-ty` je tvoje GitHub užívateľské meno. Tu skopíruješ obsah GitHub úložiska prve-prispevky do tvojho počítača.
@@ -46,16 +46,16 @@ kde `toto-si-ty` je tvoje GitHub užívateľské meno. Tu skopíruješ obsah Git
 
 Prejdi do adresára úložiska v tvojom počítači (ak ešte nie si tam):
 
-```
+```bash
 cd prve-prispevky
 ```
 Teraz vytvor vetvu pomocou príkazu `git checkout`:
-```
+```bash
 git checkout -b <pridaj-meno-tvojej-novej-vetvy>
 ```
 
 Napríklad:
-```
+```bash
 git checkout -b pridaj-ferko-mrkvicka
 ```
 (Názov pobočky nemusí obsahovať slovo * pridaj *, ale je rozumné pridať ho, pretože účelom tejto pobočky je pridať tvoje meno do zoznamu.)
@@ -64,18 +64,18 @@ git checkout -b pridaj-ferko-mrkvicka
 
 Teraz otvor súbor `Contributors.md` v textovom editore a pridaj do neho svoje meno. Nepridávaj ho na začiatok alebo na koniec súboru. Daj ho kdekoľvek medzi tým. Teraz súbor ulož.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="stav gitu" />
 
 Ak prejdeš do adresára projektu a vykonáš príkaz `git status`, uvidíš zmeny.
 
 Pridaj tieto zmeny do vetvy, ktorú si práve vytvoril, pomocou príkazu `git add`:
 
-```
+```bash
 git add Contributors.md
 ```
 
 Teraz vykonaj tieto zmeny pomocou príkazu `git commit`:
-```
+```bash
 git commit -m "Pridaj <tvoje-meno> do zoznamu pripievateľov"
 ```
 nahraď `<tvoje-meno>` tvojim menon.
@@ -83,7 +83,7 @@ nahraď `<tvoje-meno>` tvojim menon.
 ## Nahraj zmeny na GitHub
 
 Nahraj svoje zmeny pomocou príkazu `git push`:
-```
+```bash
 git push origin <pridaj-meno-tvojej-novej-vetvy>
 ```
 nahraď `<pridaj-meno-tvojej-novej-vetvy>` názvom vetvy, ktorú si vytvoril skôr.
@@ -92,11 +92,11 @@ nahraď `<pridaj-meno-tvojej-novej-vetvy>` názvom vetvy, ktorú si vytvoril sk�
 
 Ak prejdeš do tvojho úložiska v službe GitHub, zobrazí sa tlačidlo `Compare & pull request`. Klikni na toto tlačidlo.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="vytvoriť pull request" />
 
 Teraz predlož požiadavku na vytiahnutie.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="odoslať pull request" />
 
 
 Čoskoro budem zlučovat všetky vaše zmeny do hlavnej pobočky tohto projektu. Po zlúčení zmien dostaneš upozornenie.
