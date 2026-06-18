@@ -1,5 +1,11 @@
 # Contributors
+- [Arsan] (https://github.com/Arsan-sk)
 - [Anya] (https://github.com/anyatomik) 
+- [Satya] (https://github.com/satynett)
+- [Antara] (https://github.com/Antarachive) 
+- [Anya] (https://github.com/anyatomik)
+- [Sonal Priya](https://github.com/sp-codebase)
+- [Kabir Ahmed](https://github.com/GrowAsguard)
 - [Hamid Ali](https://github.com/hamidali54)
 - [Boskele](https://github.com/Boskelero)
 - [Salar Ahmed](https://github.com/salarsain)
@@ -119,6 +125,7 @@
 - [heringston](https://github.com/heringston)
 - [ljc-1222](https://github.com/ljc-1222)
 - [keeeeeliu](https://github.com/keeeeeliu)
+- [Akshaya282](https://github.com/Akshaya282)
 - [utkarshvns](https://github.com/utkarshvns)
 - [Nikshaykr](https://github.com/Nikshaykr)
 - [shreyashposhattiwar](https://github.com/ShreyashPoshattiwar)
@@ -318,6 +325,7 @@
 - [Bhoomika Jain](https://github.com/Bhoomika-iitm)
 - [Bhumi](https://github.com/bhumiks08)
 - [Bhupesh Cholake](https://github.com/RealBhupesh)
+- [Bhuwan singh](https://github.com/Bhuwan9818)
 - [Bhuvanaesh R](https://github.com/Bhuvanaesh-R)
 - [Bianca Amberger](https://github.com/Bicxi)
 - [Bibek Baram](https://portfolio.bibekbaram.com.np)
@@ -703,6 +711,7 @@
 - [Madhav Singh](https://github.com/maddy710)
 - [Ayushna Bora](https://github.com/AyushnaBora95)
 - [Madhushree Mirji](https://github.com/madhushree-mirji/)
+- [Davy Jones](https://github.com/davyjones7321)
 - [Maged Ibrahim](https://github.com/I-Maged)
 - [Manan Pal](https://github.com/mananpal-dev)
 - [Manish Kumar Jawalkar](https://github.com/ManishCodes0618)
@@ -1180,6 +1189,7 @@
 - [Tamil Selvan R](https://github.com/tamilr0727-ux)
 - [Tamil Thendral](https://github.com/Thendral-07)
 - [Tamish Ashtankar](https://github.com/Tamish-arch)
+- [Tanishka Trivedi](https://github.com/tanishka-trivedi)
 - [Tanush Bhootra](https://github.com/Tanush576)
 - [Tanvir Rahman](https://github.com/tanviranindo)
 - [Tariq Menla](https://github.com/Tariq-Menla)
@@ -1512,6 +1522,7 @@
 - [Sierda](https://github.com/sierda)
 - [Kuldeep Parmar](https://github.com/ParmarKuldeep0)- [Rey Denim Osborn](https://github.com/reydenim)
 - [@reydenim](https://github.com/reydenim) — Pull Shark PR 2/2
+- [Saumya](https://github.com/saumyadebug)
 - [kongerly](https://github.com/kongerly)
 - [Anshuman Tiwari](https://github.com/rajtiwari04) -[Govhar Rahmanzade](https://github.com/GovharRhm)
 - [Pawan khare](https://github.com/kharpaw)
@@ -1572,7 +1583,7 @@ holaaa soy haroldgit
 - [Yachna Sharma](https://github.com/yach26)
 - [Glodi Mietete](https://github.com/Glodi-M)
 - [G M](https://github.com/Glodi-M)
-
+- [Aditya77-K](https://github.com/Aditya77-K)
 - [Teja V](https://github.com/teja200514)
 - Vidya
 - [Alsa](https://github.com/alsaahmad)
@@ -1582,10 +1593,21 @@ holaaa soy haroldgit
 
 - [Sarika Chaudhary](https://github.com/SarikaChaudhary18)
 
+- [Santhoshkumar](https://github.com/Santhosh1043k)
 - [Ansh__bhardwaj](https://github.com/Ansh811-hub?tab=repositories)
 - [Anjala N A](https://github.com/anjala25)
 
 - [Tejas B V](https://github.com/tejasbv46)
+
+- [Manas Rajdeep](https://github.com/manasrajdeep)
+
 - [Joshua Muinde] (https://github.com/Joshua-Muinde)
 
 - [Divesh Kumawat](https://github.com/D1v3shh)
+- [Sakshi](https://github.com/sak08322-crypto)
+- [Devang Kartik] (https://github.com/aatish-anonymous)
+
+- [XeleksiB] (https://github.com/XeleksiB)
+- [Purva_Salunke] (https://github.com/Purvasalunk1344)
+- [Gokul](https://github.com/GokulM8)
+- [Pratiksha Tripathi](https://github.com/pratikshatripathi13)
