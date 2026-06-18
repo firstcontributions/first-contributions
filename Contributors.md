@@ -324,6 +324,7 @@
 - [Bhoomika Jain](https://github.com/Bhoomika-iitm)
 - [Bhumi](https://github.com/bhumiks08)
 - [Bhupesh Cholake](https://github.com/RealBhupesh)
+- [Bhuwan singh](https://github.com/Bhuwan9818)
 - [Bhuvanaesh R](https://github.com/Bhuvanaesh-R)
 - [Bianca Amberger](https://github.com/Bicxi)
 - [Bibek Baram](https://portfolio.bibekbaram.com.np)
