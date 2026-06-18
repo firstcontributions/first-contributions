@@ -88,7 +88,6 @@ jobs:
                   'https://media1.giphy.com/media/artj92V8o75VPL7AeQ/giphy.gif',
                   'https://media2.giphy.com/media/IwAZ6dvvvaTtdI8SD5/giphy.gif',
                   'https://media0.giphy.com/media/z8gtBVdZVrH20/giphy.gif',
-                  'https://media2.giphy.com/media/26gN16cJ6gy4LzZSw/giphy.gif',
                   'https://media1.giphy.com/media/LZElUsjl1Bu6c/giphy.gif',
                   'https://media1.giphy.com/media/gHnwTttExPf4nwOWm7/giphy.gif',
                 ]
@@ -237,7 +236,6 @@ jobs:
                 diffBlock = `\n\nNo preview available.`;
               }
                 body = `### 👋 Hi @${username}! \n\nGreat job reaching the final step! However, it looks like there are **${totalChanges} lines of changes**.\n\n${diffBlock} \n\nThe tutorial works best when you add exactly **one line**. Please [follow tutorial](https://github.com/firstcontributions/first-contributions?tab=readme-ov-file#make-necessary-changes-and-commit-those-changes) carefully. \n\nWe're excited to have you in the community!`
-                labels = ['invalid', 'help wanted'];
                 isReviewRequired = true;
             }
 
