@@ -1,5 +1,6 @@
 # Contributors
 - [Anya] (https://github.com/anyatomik) 
+- [Satya] (https://github.com/satynett)
 - [Antara] (https://github.com/Antarachive) 
 - [Anya] (https://github.com/anyatomik)
 - [Sonal Priya](https://github.com/sp-codebase)
