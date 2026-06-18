@@ -1,6 +1,8 @@
 # Contributors
 - [Anya] (https://github.com/anyatomik) 
 - [Antara] (https://github.com/Antarachive) 
+- [Anya] (https://github.com/anyatomik)
+- [Sonal Priya](https://github.com/sp-codebase)
 - [Hamid Ali](https://github.com/hamidali54)
 - [Boskele](https://github.com/Boskelero)
 - [Salar Ahmed](https://github.com/salarsain)
@@ -1583,8 +1585,10 @@ holaaa soy haroldgit
 
 - [Sarika Chaudhary](https://github.com/SarikaChaudhary18)
 
+- [Santhoshkumar](https://github.com/Santhosh1043k)
 - [Ansh__bhardwaj](https://github.com/Ansh811-hub?tab=repositories)
 - [Anjala N A](https://github.com/anjala25)
 
 - [Tejas B V](https://github.com/tejasbv46)
 - [Joshua Muinde] (https://github.com/Joshua-Muinde)
+- [Devang Kartik] (https://github.com/aatish-anonymous)
