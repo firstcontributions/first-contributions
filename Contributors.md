@@ -1614,3 +1614,4 @@ holaaa soy haroldgit
 - [Purva_Salunke] (https://github.com/Purvasalunk1344)
 - [Gokul](https://github.com/GokulM8)
 - [Pratiksha Tripathi](https://github.com/pratikshatripathi13)
+- [Zaid Akhtar] (https://github.com/ZaiD-lgtm)
