@@ -13,6 +13,7 @@ Rohit
    - Sumit Kumar(https://github.com/sumitraj7766)
 - [Rudraksh Thakur](https://github.com/Thakur-ji-5513)
 - [Abhijay](https://github.com/abhijae-arch)
+- [Pratiksha Tripathi](https://github.com/pratikshatripathi13)
 - [Yohanes Naibaho] (https://github.com/yohanesnaibaho303)
 - [Nikita Jaiswal] (https://github.com/nikitaJaiswalDev)
 - [Anurag Poddar](https://github.com/aunrxg)
