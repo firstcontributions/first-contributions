@@ -1621,6 +1621,7 @@
 - [Purva_Salunke] (https://github.com/Purvasalunk1344)
 - [Geethashri](https://github.com/Geethashri-27)
 - [Gokul](https://github.com/GokulM8)
+- [cot-h](https://github.com/cot-h)
 - [Pratiksha Tripathi](https://github.com/pratikshatripathi13)
 - [Zaid Akhtar] (https://github.com/ZaiD-lgtm)
 - [zhangjiayang6835-cyber](https://github.com/zhangjiayang6835-cyber)
