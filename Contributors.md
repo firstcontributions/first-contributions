@@ -708,6 +708,7 @@
 - [Madhav Singh](https://github.com/maddy710)
 - [Ayushna Bora](https://github.com/AyushnaBora95)
 - [Madhushree Mirji](https://github.com/madhushree-mirji/)
+- [Davy Jones](https://github.com/davyjones7321)
 - [Maged Ibrahim](https://github.com/I-Maged)
 - [Manan Pal](https://github.com/mananpal-dev)
 - [Manish Kumar Jawalkar](https://github.com/ManishCodes0618)
