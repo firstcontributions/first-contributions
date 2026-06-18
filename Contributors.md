@@ -1,19 +1,20 @@
 # Contributors
+
 - [Arsan] (https://github.com/Arsan-sk)
-- [Anya] (https://github.com/anyatomik) 
+- [Anya] (https://github.com/anyatomik)
 - [Satya] (https://github.com/satynett)
-- [Antara] (https://github.com/Antarachive) 
+- [Antara] (https://github.com/Antarachive)
 - [Anya] (https://github.com/anyatomik)
 - [Gauri](https://github.com/yo2005)
 - [Sonal Priya](https://github.com/sp-codebase)
- add-ayesha-perveen
+  add-ayesha-perveen
 - [Ayesha Perveen](https://github.com/ayeshamallick6514-aye/first-contributions)
 - [Kabir Ahmed](https://github.com/GrowAsguard) main
 - [Hamid Ali](https://github.com/hamidali54)
 - [Boskele](https://github.com/Boskelero)
 - [Mithulya Sandali](https://github.com/mithulya-s)
 - [Salar Ahmed](https://github.com/salarsain)
-- [Muhammad Hasnain](https://github.com/muhammadhasnain3031) 
+- [Muhammad Hasnain](https://github.com/muhammadhasnain3031)
 - [JGGY521 ](https://github.com/JGGY521)
 - [Shambhavi Singh](https://github.com/Shambhavigith)
 - [Krishna Vijaywargiya](github.com/v-krishna07)
@@ -365,8 +366,7 @@
 - [Canberk Girgin](https://github.com/canberkg67)
 - [Cang Li](https://github.com/DileepGampala2005)
 - [Cang Li](https://github.com/s0raLin)
-- [CapyBaraTheKing](https://github.com/molangmalang)
--[Mateo Cortina](https://github.com/fonta81/fonta81)
+- [CapyBaraTheKing](https://github.com/molangmalang) -[Mateo Cortina](https://github.com/fonta81/fonta81)
 - [Carburio](https://github.com/Carburio)
 - [Carter Lewis](https://github.com/carter-lewis)
 - [Celin Mampilly](https://github.com/celin-mampilly)
@@ -1293,8 +1293,7 @@
 - [Vivian](https://github.com/vivianps29)
 - [VizzScript](https://github.com/vizzscript)
 - [Vladimir](https://github.com/coder202)
-- [Vuk Topalovic](https://github.com/vukkt)
--[Preet Kalra](https://github.com/preetk25627-dotcom)
+- [Vuk Topalovic](https://github.com/vukkt) -[Preet Kalra](https://github.com/preetk25627-dotcom)
 - [Tanisha](https://github.com/Tanisha800)
 - [Vyshnavi Gopavarapu](https://github.com/gopavarapuvyshnavi66-tech)
 - [WHA](https://github.com/wynehtetaung)
@@ -1575,12 +1574,11 @@
 - [Edouard P](https://github.com/epap28)
 - [Norien-hue](https://github.com/Norien-hue)
 - [Vladyslav Vytrykush](https://github.com/Perry1231)
-- [Pratik Paudel](https://github.com/PRDXdotEXE)
--[Saran Vishakan RG]
-(https://github.com/RG9906)
+- [Pratik Paudel](https://github.com/PRDXdotEXE) -[Saran Vishakan RG]
+  (https://github.com/RG9906)
 - [Liam Fudge](https://github.com/liamfudge)
 - [Pradeep Sarampalli](https://github.com/pradeepsarampalli)
-holaaa soy haroldgit 
+  holaaa soy haroldgit
 - [TheAdelsw](https://github.com/TheAdelsw)
 - - [kilol-x](https://github.com/kilol-x)
 - [Lizyoko](https://github.com/lizyoko9)
@@ -1601,7 +1599,7 @@ holaaa soy haroldgit
 - [Sarika Chaudhary](https://github.com/SarikaChaudhary18)
 
 - [Santhoshkumar](https://github.com/Santhosh1043k)
-- [Ansh__bhardwaj](https://github.com/Ansh811-hub?tab=repositories)
+- [Ansh\_\_bhardwaj](https://github.com/Ansh811-hub?tab=repositories)
 - [Anjala N A](https://github.com/anjala25)
 
 - [Tejas B V](https://github.com/tejasbv46)
@@ -1620,6 +1618,7 @@ holaaa soy haroldgit
 - [Pratiksha Tripathi](https://github.com/pratikshatripathi13)
 - [Zaid Akhtar] (https://github.com/ZaiD-lgtm)
 - [zhangjiayang6835-cyber](https://github.com/zhangjiayang6835-cyber)
-[Vashnavi Agarwal](https://github.com/vshOps)
-[Matt](https://github.com/mattisdumb08)
+  [Vashnavi Agarwal](https://github.com/vshOps)
+  [Matt](https://github.com/mattisdumb08)
 - [Jerry](https://github.com/Jerryswu0716)
+- [setty](https://github.com/hosamane)
