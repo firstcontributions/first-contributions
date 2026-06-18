@@ -1590,5 +1590,8 @@ holaaa soy haroldgit
 - [Anjala N A](https://github.com/anjala25)
 
 - [Tejas B V](https://github.com/tejasbv46)
+
+- [Manas Rajdeep](https://github.com/manasrajdeep)
+
 - [Joshua Muinde] (https://github.com/Joshua-Muinde)
 - [Devang Kartik] (https://github.com/aatish-anonymous)
