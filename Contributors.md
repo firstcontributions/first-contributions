@@ -1,4 +1,6 @@
 # Contributors
+- [Anya] (https://github.com/anyatomik) 
+- [Antara] (https://github.com/Antarachive) 
 - [Anya] (https://github.com/anyatomik)
 - [Sonal Priya](https://github.com/sp-codebase)
 - [Hamid Ali](https://github.com/hamidali54)
