@@ -1,5 +1,6 @@
 # Contributors
-- [Anya] (https://github.com/anyatomik) 
+- [Anya] (https://github.com/anyatomik)
+- [Sonal Priya](https://github.com/sp-codebase)
 - [Hamid Ali](https://github.com/hamidali54)
 - [Boskele](https://github.com/Boskelero)
 - [Salar Ahmed](https://github.com/salarsain)
