@@ -1594,4 +1594,5 @@ holaaa soy haroldgit
 - [Manas Rajdeep](https://github.com/manasrajdeep)
 
 - [Joshua Muinde] (https://github.com/Joshua-Muinde)
-- [Devang Kartik] (https://github.com/aatish-anonymous)
+- [Devang Kartik] (https://github.com/aatish-anonymous
+- [Sakshi](https://github.com/sak08322-crypto)
