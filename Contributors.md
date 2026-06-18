@@ -5,7 +5,9 @@
 - [Antara] (https://github.com/Antarachive) 
 - [Anya] (https://github.com/anyatomik)
 - [Sonal Priya](https://github.com/sp-codebase)
+ add-ayesha-perveen
 - [Ayesha Perveen](https://github.com/ayeshamallick6514-aye/first-contributions)
+- [Kabir Ahmed](https://github.com/GrowAsguard) main
 - [Hamid Ali](https://github.com/hamidali54)
 - [Boskele](https://github.com/Boskelero)
 - [Salar Ahmed](https://github.com/salarsain)
@@ -1602,9 +1604,12 @@ holaaa soy haroldgit
 - [Manas Rajdeep](https://github.com/manasrajdeep)
 
 - [Joshua Muinde] (https://github.com/Joshua-Muinde)
+
+- [Divesh Kumawat](https://github.com/D1v3shh)
 - [Sakshi](https://github.com/sak08322-crypto)
 - [Devang Kartik] (https://github.com/aatish-anonymous)
 
 - [XeleksiB] (https://github.com/XeleksiB)
 - [Purva_Salunke] (https://github.com/Purvasalunk1344)
 - [Gokul](https://github.com/GokulM8)
+- [Pratiksha Tripathi](https://github.com/pratikshatripathi13)
