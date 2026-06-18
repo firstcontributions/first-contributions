@@ -1623,3 +1623,4 @@ holaaa soy haroldgit
 [Vashnavi Agarwal](https://github.com/vshOps)
 [Matt](https://github.com/mattisdumb08)
 - [Jerry](https://github.com/Jerryswu0716)
+- [Simon](https://github.com/simon-mos17)
