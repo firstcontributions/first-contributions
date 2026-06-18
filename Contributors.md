@@ -4,11 +4,9 @@
 - [Muhammad Hasnain](https://github.com/muhammadhasnain3031) 
 - [JGGY521 ](https://github.com/JGGY521)
 - [Shambhavi Singh](https://github.com/Shambhavigith)
+- [Krishna Vijaywargiya](github.com/v-krishna07)
 - [Gaurav Mishra](https://github.com/gauravkmishra09)
 - [Budati Chethana](https://github.com/Budatichethana)
-- [Muhammad Taha Nawab](https://taha-nawab-portfolio.vercel.app) [Full-Stack Developer · AI/
-ML Engineer]
-(**___Visit the Digital Wonder___**)
 - [Krontixz](https://github.com/Krontixz)
 - [Princy](https://github.com/Princy-y)
 - [Ayush De] (https://github.com/the-one-ayush)
@@ -35,6 +33,7 @@ ML Engineer]
   [John Nash](https://github.com/WickedSonny)
 - [root-kcalb]
 - [marco]
+- [Rakshit Awadhiya](https://github.com/Ares-1609)
 - [VENKATA_SAI_JASWANTH](https://github.com/venkata-sai-jaswanth)
   GitHub Copilot -[Rishu Raj](https://github.com/Rishuraj3732)
 - [Rainluoer](https://github.com/Rainluoer)
@@ -42,11 +41,10 @@ ML Engineer]
 - [Joe Test]
 - [hns dev]
 - [Brian Oliver](https://github.com/brianohh)
+- [Shivam Saini](https://github.com/Shivam-2807)
 - [Kishore](https://github.com/Kishore-pv)
 - [Haarush](https://github.com/Haarush2006)
 - [stindop]
--any changes
--[Diksha Jaju](https://github.com/Dikshajaju)
 - [Yuvan Vishnu Pandi](https://github.com/yuvanvishnupandi)
 - [Divyansh Singh](https://github.com/divyanshSingh41)
 - [Suraj G Meharwade](https://github.com/Suru-web)
@@ -66,6 +64,7 @@ ML Engineer]
 - [Payal Agrawal](https://github.com/Payal-03)
 - [Bhavya Khatri](https://github.com/bhavya-shikamaru)
 - [Manas Shekhar Tiwari](https://github.com/Manas2135)
+- [Devansh Jaiswal](https://github.com/theycallme-witty)
   [shiva](https://github.com/Saishiva3000)
 - [Vishaka30](https://github.com/Vishaka30)
 - [Yogendra-08](https://github.com/Yogendra-08)
@@ -86,6 +85,7 @@ ML Engineer]
 - [DanielBustamante67](https://github.com/DanielBustamante67/curso-git)
 - [StephenJarso](https://github.com/StephenJarso)
 - [Mr-Broccolli](https://github.com/Mr-Broccolli)
+- [Viswanath Vadlamani](https://github.com/viswanathv4320)
 - [Renan Marques](https://github.com/Renanmrqs)
 - [VisionStack-404](https://github.com/VisionStack-404)
 - [Parasa Deepak Kumar](https://github.com/deepak0422v)
@@ -268,6 +268,7 @@ ML Engineer]
 - [Aurelie Raout](https://github.com/Lilousound)
 - [Samuel Pertov](https://github.com/samuelpert)
 - [Ashwani Mishra](https://github.com/ashwyni-mishra)
+- [Ankit Kantheti](https://github.com/kankit12)
 - [Asif Khan](https://github.com/Mak-1911)
 - [Asif Raza Ansari](https://github.com/asifraza-776)
 - [Asiya Mujawar](https://github.com/asiyamujawar)
@@ -302,8 +303,9 @@ ML Engineer]
 - [Bekir Kasan](https://github.com/Bskasan)
 - [Ben Cruwys](https://github.com/bencruwys)
 - [Ben Huotari](https://github.com/benhuotari)
+- [Benjamen Folarin](https://github.com/Benflow3)
 - [Benhein Michael Ruben L](https://github.com/ben002mr)
-- [Bhavya Agarwal] (https://github.com/bhavya632/bhavya632.git) 
+- [Bhavya Agarwal] (https://github.com/bhavya632/bhavya632.git)
 - [Bhanu Narra](https://github.com/bhanu962)
 - [Bhargav Chataut](https://github.com/bhargav-chataut)
 - [Bhargav Kallepally](https://github.com/BHARGAV-RUE)
@@ -349,6 +351,7 @@ ML Engineer]
 - [Cang Li](https://github.com/DileepGampala2005)
 - [Cang Li](https://github.com/s0raLin)
 - [CapyBaraTheKing](https://github.com/molangmalang)
+-[Mateo Cortina](https://github.com/fonta81/fonta81)
 - [Carburio](https://github.com/Carburio)
 - [Carter Lewis](https://github.com/carter-lewis)
 - [Celin Mampilly](https://github.com/celin-mampilly)
@@ -393,6 +396,7 @@ ML Engineer]
 - [Devashish Gupta](https://github.com/sudo-verse)
 - [Devdeep Sarkar](https://github.com/devdeepsarkar)
 - [Devdxpen](https://github.com/devdxpen)
+- [John Lowery](https://github.com/PugTaco)
 - [Developer Dashboard](https://vijaygoswami.is-a-dev?utm_source=github)
 - [Devesh Jain](https://github.com/jaindevesh144)
 - [Devika Menon](https://github.com/DevikaaMenon)
@@ -774,6 +778,7 @@ ML Engineer]
 - [NinoYin](https://github.com/NinoYin)
 - [Nischal Soni](this is my first contribution to a public repo)
 - [Nisha Muthurajan](https://github.com/nisha-muthurajan)
+- [Gustavo Purkoot](https://github.com/gustavopurkoot)
 - [Nishant K Joshyabhatla](https://github.com/nishantkj911)
 - [Nishant Trivedi](https://github.com/Nish0178)
 - [Nishant kumar](https://github.com/nishantraj06)
@@ -1548,15 +1553,16 @@ ML Engineer]
 - [Edouard P](https://github.com/epap28)
 - [Norien-hue](https://github.com/Norien-hue)
 - [Vladyslav Vytrykush](https://github.com/Perry1231)
+- [Pratik Paudel](https://github.com/PRDXdotEXE)
 -[Saran Vishakan RG]
 (https://github.com/RG9906)
 - [Liam Fudge](https://github.com/liamfudge)
-
+- [Pradeep Sarampalli](https://github.com/pradeepsarampalli)
 holaaa soy haroldgit 
 - [TheAdelsw](https://github.com/TheAdelsw)
 - - [kilol-x](https://github.com/kilol-x)
 - [Lizyoko](https://github.com/lizyoko9)
-- [Pankaj Singh Dhami] 
+- [Pankaj Singh Dhami]
 - [Ammarah-droid](https://github.com/Ammarah-droid)
 - [Yachna Sharma](https://github.com/yach26)
 - [Glodi Mietete](https://github.com/Glodi-M)
@@ -1564,13 +1570,11 @@ holaaa soy haroldgit
 
 - [Teja V](https://github.com/teja200514)
 - Vidya
-
+- [Alsa](https://github.com/alsaahmad)
 - [Shoki Miyashita](https://github.com/toitoitoitoitoi)
 
 - [bhaveshbanshiwal](https://github.com/bhaveshbanshiwal)
 
 - [Sarika Chaudhary](https://github.com/SarikaChaudhary18)
-=======
->>>>>>> 4d2dd8d65 (Add Karthik Sai to contributors list)
 
 - [Ansh__bhardwaj](https://github.com/Ansh811-hub?tab=repositories)
