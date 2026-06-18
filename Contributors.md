@@ -85,6 +85,7 @@ Rohit
 - Riya Bangad](https://github.com/RiyaBangad)
 - [fahaddev](https://github.com/fahadkhandev)
 - [Bekir Kasan](https://github.com/Bskasan)
+- [Tanishka Trivedi](https://github.com/tanishka-trivedi)
 - [Lalitesh Kannuri](https://github.com/LaliteshKannuri)
 - [Bravion Rebelrhino](https://github.com/suryanshm06)
 - [Foysal Imtiaz Sabab](https://github.com/foysal-imtiaz/)
