@@ -1531,6 +1531,7 @@ ML Engineer]
 - [Aakanksha Hedau](https://github.com/Akanksha-H)
 - [JesusROvr] (https://github.com/JesusROvr)
 - [Utkersh Pandyaa](https://github.com/utk-dev)
+- [Vashnavi Agarwal](https://github.com/vshOps)
 - [Lily Sam](https://github.com/oforiwaasam)
 - [meeki34](https://github.com/meeki34)
 - [Luisa](https://github.com/LuoisaWu)
