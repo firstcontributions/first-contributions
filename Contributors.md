@@ -135,6 +135,7 @@
 - [Unsa-Zareen](https://github.com/unsazareenwork-alt)
 - [brison-coder](https://github.com/brison-coder)
 - [Saleeq Adnan Syed](https://github.com/CyberCoder-IITM)
+- [Kais](https://github.com/kaisburwais)
 - [Aidan Jiang](https://github.com/ajiang05)
 - [Mengyuan Ding](https://github.com/jessy-ding)
 - [James_Zammit](https://github.com/Jamzes2)
