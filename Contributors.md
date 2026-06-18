@@ -1559,6 +1559,7 @@
 - [Aakanksha Hedau](https://github.com/Akanksha-H)
 - [JesusROvr] (https://github.com/JesusROvr)
 - [Utkersh Pandyaa](https://github.com/utk-dev)
+- [Vashnavi Agarwal](https://github.com/vshOps)
 - [Lily Sam](https://github.com/oforiwaasam)
 - [meeki34](https://github.com/meeki34)
 - [Luisa](https://github.com/LuoisaWu)
@@ -1596,6 +1597,7 @@ holaaa soy haroldgit
 
 - [bhaveshbanshiwal](https://github.com/bhaveshbanshiwal)
 
+- [Sarika Chaudhary] (https://github.com/SarikaChaudhary18)
 - [Sarika Chaudhary](https://github.com/SarikaChaudhary18)
 
 - [Santhoshkumar](https://github.com/Santhosh1043k)
@@ -1618,3 +1620,4 @@ holaaa soy haroldgit
 - [Pratiksha Tripathi](https://github.com/pratikshatripathi13)
 - [Zaid Akhtar] (https://github.com/ZaiD-lgtm)
 - [zhangjiayang6835-cyber](https://github.com/zhangjiayang6835-cyber)
+[Vashnavi Agarwal](https://github.com/vshOps)
