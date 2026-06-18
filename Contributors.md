@@ -1,4 +1,7 @@
 # Contributors
+- [Anya] (https://github.com/anyatomik)
+- [Sonal Priya](https://github.com/sp-codebase)
+- [Hamid Ali](https://github.com/hamidali54)
 - [Boskele](https://github.com/Boskelero)
 - [Salar Ahmed](https://github.com/salarsain)
 - [Muhammad Hasnain](https://github.com/muhammadhasnain3031) 
@@ -33,6 +36,7 @@
   [John Nash](https://github.com/WickedSonny)
 - [root-kcalb]
 - [marco]
+- [Rakshit Awadhiya](https://github.com/Ares-1609)
 - [VENKATA_SAI_JASWANTH](https://github.com/venkata-sai-jaswanth)
   GitHub Copilot -[Rishu Raj](https://github.com/Rishuraj3732)
 - [Rainluoer](https://github.com/Rainluoer)
@@ -134,6 +138,7 @@
 - [Unsa-Zareen](https://github.com/unsazareenwork-alt)
 - [brison-coder](https://github.com/brison-coder)
 - [Saleeq Adnan Syed](https://github.com/CyberCoder-IITM)
+- [Kais](https://github.com/kaisburwais)
 - [Aidan Jiang](https://github.com/ajiang05)
 - [Mengyuan Ding](https://github.com/jessy-ding)
 - [James_Zammit](https://github.com/Jamzes2)
@@ -267,6 +272,7 @@
 - [Aurelie Raout](https://github.com/Lilousound)
 - [Samuel Pertov](https://github.com/samuelpert)
 - [Ashwani Mishra](https://github.com/ashwyni-mishra)
+- [Ankit Kantheti](https://github.com/kankit12)
 - [Asif Khan](https://github.com/Mak-1911)
 - [Asif Raza Ansari](https://github.com/asifraza-776)
 - [Asiya Mujawar](https://github.com/asiyamujawar)
@@ -458,6 +464,7 @@
 - [Elkasca](https://github.com/Elkasaca)
 - [Eren Kahyaoglu](https://github.com/EKahyaoglu)
 - [Eros Yap](https://github.com/Stonksers)
+- [Homayun Kabir](https://github.com/homayungit)
 - [Eshaan Krishna Ojha](https://github.com/EshaanOjha)
 - [Ethan Kinch](https://github.com/epkinch)
 - [Emerson Smith](https://github.com/Emerson-Smith76)
@@ -1453,6 +1460,7 @@
 - [MedProgAyat] (https://github.com/medProgAyat)
 - [vivianix](https://github.com/vivianix)
 - [mario_m1ller] (https://github.com/mario_m1ller)
+- [Michiti] (https://github.com/M4CH3T3xd)
 - [niuezreal001](https://github.com/niuezreal001)
 - [Amogh](https://github.com/AmoghAK002)
   vaishnavi0521
@@ -1576,3 +1584,9 @@ holaaa soy haroldgit
 - [Sarika Chaudhary](https://github.com/SarikaChaudhary18)
 
 - [Santhoshkumar](https://github.com/Santhosh1043k)
+- [Ansh__bhardwaj](https://github.com/Ansh811-hub?tab=repositories)
+- [Anjala N A](https://github.com/anjala25)
+
+- [Tejas B V](https://github.com/tejasbv46)
+- [Joshua Muinde] (https://github.com/Joshua-Muinde)
+- [Devang Kartik] (https://github.com/aatish-anonymous)
