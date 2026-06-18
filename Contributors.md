@@ -8,7 +8,9 @@
 - [Sonal Priya](https://github.com/sp-codebase)
  add-ayesha-perveen
 - [Ayesha Perveen](https://github.com/ayeshamallick6514-aye/first-contributions)
+-[Bhavin Goyal](https://github.com/Bhavin2007)
 - [Kabir Ahmed](https://github.com/GrowAsguard) main
+- [Sam George]
 - [Hamid Ali](https://github.com/hamidali54)
 - [Boskele](https://github.com/Boskelero)
 - [Mithulya Sandali](https://github.com/mithulya-s)
@@ -638,6 +640,7 @@
 - [Jo Kershaw](https://github.com/jo-kershaw)
 - [Joey Statz](https://github.com/jstatz42)
 - [Johnathan Orizaba](https://github.com/johnathanorizaba15-max)
+- [Johnny Dunal](https://github.com/johnnydunal)
 - [Jonmino](https://github.com/jonmino)
 - [Josman Dev](https://github.com/jmaldama8110)
 - [Joylin Mathias](https://github.com/joylinmhs)
@@ -1610,10 +1613,6 @@ holaaa soy haroldgit
 
 - [Joshua Muinde] (https://github.com/Joshua-Muinde)
 
-- - Monika [https://github.com/Monika-18777]
-- [julianmetropolis](https://github.com/julianmetropolis)
-- [Mohamed Salih](https://github.com/mohamedsalihva)
--[Mohamed Arfan](https://github.com/CatOn60Hz)
 - Sahana K (sahanakothandapani1)
 - [Divesh Kumawat](https://github.com/D1v3shh)
 - [Sakshi](https://github.com/sak08322-crypto)
@@ -1628,3 +1627,7 @@ holaaa soy haroldgit
 [Vashnavi Agarwal](https://github.com/vshOps)
 [Matt](https://github.com/mattisdumb08)
 - [Jerry](https://github.com/Jerryswu0716)
+- [Gaurav Verma](https://github.com/GauravVerma789)
+
+- [shivamsinha02](https://github.com/shivamsinha02)
+
