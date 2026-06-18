@@ -5,6 +5,7 @@
 - [Antara] (https://github.com/Antarachive) 
 - [Anya] (https://github.com/anyatomik)
 - [Sonal Priya](https://github.com/sp-codebase)
+- [Kabir Ahmed](https://github.com/GrowAsguard)
 - [Hamid Ali](https://github.com/hamidali54)
 - [Boskele](https://github.com/Boskelero)
 - [Salar Ahmed](https://github.com/salarsain)
