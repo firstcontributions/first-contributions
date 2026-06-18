@@ -1457,6 +1457,7 @@
 - [MedProgAyat] (https://github.com/medProgAyat)
 - [vivianix](https://github.com/vivianix)
 - [mario_m1ller] (https://github.com/mario_m1ller)
+- [Michiti] (https://github.com/M4CH3T3xd)
 - [niuezreal001](https://github.com/niuezreal001)
 - [Amogh](https://github.com/AmoghAK002)
   vaishnavi0521
