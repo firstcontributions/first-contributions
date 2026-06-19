@@ -17,6 +17,7 @@
 - [Jyothi Kumari](https://github.com/jyothicodex)
 - [Gauri](https://github.com/yo2005)
 - [Sonal Priya](https://github.com/sp-codebase)
+- [Peter Pabon](https://github.com/peter-pabon/first-contributions)
 - [Priyansh Nihalani](https://github.com/priyanshnihalani/first-contributions)
   add-ayesha-perveen
 - [Ayesha Perveen](https://github.com/ayeshamallick6514-aye/first-contributions)
