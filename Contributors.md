@@ -1,5 +1,6 @@
 # Contributors
 
+- [Akshaya Sreleka](https://github.com/AkshayaSrelekaPS)
 - [Ashwinkumar K] (https://github.com/Ashwinkumar-k10)
 - [Arsan] (https://github.com/Arsan-sk)
 - [Anya] (https://github.com/anyatomik)
