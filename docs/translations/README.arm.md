@@ -100,7 +100,7 @@ git push -u origin your-branch-name
 - ### Վավերացման սխալ
        <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
   remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
-  fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
+  fatal: Authentication failed for 'https://github.com/&lt;your-username&gt;/first-contributions.git/'</pre>
   Գնացեք [GitHub-ի ձեռնարկ](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) ձեր հաշվի համար SSH բանալի ստեղծելու և կազմաձևելու վերաբերյալ.
   </details>
 
