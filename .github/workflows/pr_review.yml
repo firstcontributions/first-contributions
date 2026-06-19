@@ -1,0 +1,31 @@
+name: Automated PR Review
+on:
+pull_request:
+types: [opened, synchronize, reopened]
+permissions:
+pull-requests: write
+contents: read
+issues: write
+jobs:
+review:
+runs-on: ubuntu-latest
+```
+steps:
+  - name: Checkout PR
+    uses: actions/checkout@v4
+    with:
+      fetch-depth: 0
+  - name: Setup Python
+    uses: actions/setup-python@v5
+    with:
+      python-version: "3.11"
+  - name: Generate Review Report
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      PR_NUMBER: ${{ github.event.pull_request.number }}
+      REPO: ${{ github.repository }}
+      BASE_REF: ${{ github.event.pull_request.base.sha }}
+      HEAD_REF: ${{ github.event.pull_request.head.sha }}
+    run: |
+      python scripts/pr_review.py
+```
