@@ -1,5 +1,6 @@
 # Contributors
 -[hari]
+- [Sazzat Hj](https://github.com/SazzatHj)
 - [ArnavGarg7](https://github.com/ArnavGarg7)
 - [Yashasvi Solanki](https://github.com/Yashasvi-Solanki)
 - [Ashwinkumar K] (https://github.com/Ashwinkumar-k10)
@@ -62,6 +63,7 @@
 - [cheems](https://github.com/cheems908)
 - [root-kcalb]
 - [marco]
+- [Ritesh-mishraa] (https://github.com/Ritesh-mishraa)
 - [Ibrahem Gamel](https://github.com/IbrahemGamel)
 - [Rakshit Awadhiya](https://github.com/Ares-1609)
 - [VENKATA_SAI_JASWANTH](https://github.com/venkata-sai-jaswanth)
@@ -153,6 +155,7 @@
 - [Akshaya282](https://github.com/Akshaya282)
 - [utkarshvns](https://github.com/utkarshvns)
 - [Nikshaykr](https://github.com/Nikshaykr)
+- [Vaishnavi Patil]
 - [shreyashposhattiwar](https://github.com/ShreyashPoshattiwar)
 - [saptak-chakraborty](https://github.com/Saptak10)
 - [John Martin](https://github.com/johnj-0316)
@@ -178,6 +181,7 @@
 - [8nchanter](https://github.com/8nchanter)
 - [8saku](https://github.com/8saku8)
 - [Edcampbell1](https://github.com/Edcampbell1)
+- [sravasti12](https://github.com/sravasti12)
 - [Vineet](https://github.com/123vin123)
 - [@Zakiahsan-arch](https://github.com/Zakiahsan-arch)
 - [Adelita B.](https://github.com/adelitab)
@@ -882,6 +886,7 @@
 - [Piyush Pritam Sethi](https://github.com/piyush37-6)
 - [Piyush Srivastava](https://github.com/Phoenix-2207)
 - [Platostol](https://github.com/Platostol)
+- [Vodkrox](https://github.com/vodkrox)
 - [Purva Vhankalas](https://github.com/purvavhank-123)
 - [Priyanshu Sharma](https://github.com/MrCarnage00)
 - [Pouya Esfahani](https://github.com/Pooyash1998)
@@ -1660,6 +1665,7 @@
 - [shivamsinha02](https://github.com/shivamsinha02)
 - [Lance Tran](https://github.com/Lance-Tran)
 - [Rupesh Kumaran K R](https://github.com/RupeshKumaranKR)
+- [Praveenkumar A](https://github.com/davidson2kcc)
 - [Curtis Robert Oliver](https://github.com/CurtisRobertOliver)
 - [Ayisha siddiqa A](https://github.com/ayishasiddiqa26)
 - [roshninelson](https://github.com/roshninelson)
