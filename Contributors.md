@@ -16,7 +16,7 @@
 - [Priyansh Nihalani] (https://github.com/priyanshnihalani/first-contributions)
   add-ayesha-perveen
 - [Ayesha Perveen](https://github.com/ayeshamallick6514-aye/first-contributions)
-- wanjiku
+- wanjiku [](https://github.com/wanjikubrians-khim)
 -[Bhavin Goyal](https://github.com/Bhavin2007)
 - [Kabir Ahmed](https://github.com/GrowAsguard) main
 - [Sam George]
