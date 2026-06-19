@@ -11,6 +11,7 @@
 - [NithinKommi] (https://github.com/KOMMINITHIN)
 - [Gauri](https://github.com/yo2005)
 - [Sonal Priya](https://github.com/sp-codebase)
+
   add-ayesha-perveen
 - [Ayesha Perveen](https://github.com/ayeshamallick6514-aye/first-contributions)
 -[Bhavin Goyal](https://github.com/Bhavin2007)
@@ -1152,6 +1153,7 @@
 - [Sridhar-EEE](https://github.com/sridhar-eee/)
 - [Srikanth Medicherla](https://github.com/OSUMed)
 - [Srinithi D](https://github.com/Srinithid0109)
+- [Srishti Bhatia](https://github.com/srish0102)
 - [Sriteja01](https://github.com/Sriteja01)
 - [SRupia](https://github.com/SRupia)
 - [Stacy Hilliard](https://github.com/stacyah)
