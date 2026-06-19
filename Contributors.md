@@ -61,6 +61,7 @@
 - [cheems](https://github.com/cheems908)
 - [root-kcalb]
 - [marco]
+- [Ritesh-mishraa] (https://github.com/Ritesh-mishraa)
 - [Ibrahem Gamel](https://github.com/IbrahemGamel)
 - [Rakshit Awadhiya](https://github.com/Ares-1609)
 - [VENKATA_SAI_JASWANTH](https://github.com/venkata-sai-jaswanth)
