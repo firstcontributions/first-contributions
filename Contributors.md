@@ -1,5 +1,4 @@
 # Contributors
-- [Sana Osman](https://github.com/Sanaosman21)
 - [Yashasvi Solanki](https://github.com/Yashasvi-Solanki)
 - [Ashwinkumar K] (https://github.com/Ashwinkumar-k10)
 - [Arsan] (https://github.com/Arsan-sk)
@@ -1665,3 +1664,4 @@
 - [Akshita Choudhary](https://github.com/Alexachaharr)
 - [Yatharth88100](https://github.com/Yatharth88100)
 - [rohith871](https://github.com/rohith871)
+- [Sana Osman](https://github.com/Sanaosman21)
