@@ -1,5 +1,4 @@
 # Contributors
-
 - [Yashasvi Solanki](https://github.com/Yashasvi-Solanki)
 - [Ashwinkumar K] (https://github.com/Ashwinkumar-k10)
 - [Arsan] (https://github.com/Arsan-sk)
@@ -1661,3 +1660,5 @@
 - [konduriprudhvikumar](https://github.com/konduriprudhvikumar)
 - [vitalyahellkite-glitch](https://github.com/vitalyahellkite-glitch)
 - [Siddhesh Khankhoje](https://github.com/SiddheshK1704)
+- [Siddhesh Khankhoje](https://github.com/SiddheshK1704)
+- [Akshita Choudhary](https://github.com/Alexachaharr)
