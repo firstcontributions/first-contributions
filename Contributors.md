@@ -817,6 +817,7 @@
 - [Nina Borodin](https://github.com/ninaborodin)
 - [Ninad Ubale](https://github.com/NinadUbale)
 - [NinoYin](https://github.com/NinoYin)
+- [Nino-76](https://github.com/Nino-76)
 - [Nischal Soni](this is my first contribution to a public repo)
 - [Nisha Muthurajan](https://github.com/nisha-muthurajan)
 - [Gustavo Purkoot](https://github.com/gustavopurkoot)
