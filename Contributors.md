@@ -1658,6 +1658,8 @@
 - [Havish] (https://github.com/havishgupta)
 - [Kaushikpjain](https://github.com/Kaushikpjain)
 - [konduriprudhvikumar](https://github.com/konduriprudhvikumar)
+- [vitalyahellkite-glitch](https://github.com/vitalyahellkite-glitch)
+- [Siddhesh Khankhoje](https://github.com/SiddheshK1704)
 - [Siddhesh Khankhoje](https://github.com/SiddheshK1704)
 - [Akshita Choudhary](https://github.com/Alexachaharr)
 - [Yatharth88100](https://github.com/Yatharth88100)
