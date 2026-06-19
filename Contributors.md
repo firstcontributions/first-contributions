@@ -1,5 +1,4 @@
 # Contributors
-- [Akshita Choudhary](https://github.com/Alexachaharr)
 - [Yashasvi Solanki](https://github.com/Yashasvi-Solanki)
 - [Ashwinkumar K] (https://github.com/Ashwinkumar-k10)
 - [Arsan] (https://github.com/Arsan-sk)
@@ -1660,3 +1659,4 @@
 - [Kaushikpjain](https://github.com/Kaushikpjain)
 - [konduriprudhvikumar](https://github.com/konduriprudhvikumar)
 - [Siddhesh Khankhoje](https://github.com/SiddheshK1704)
+- [Akshita Choudhary](https://github.com/Alexachaharr)
