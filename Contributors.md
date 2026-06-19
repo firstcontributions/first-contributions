@@ -323,6 +323,7 @@
 - [AyorindeAdunse](https://github.com/ayorindeadunse)
 - [Ayush Gangwar](https://github.com/ayush3011)
 - [Ayush Kumar](https://github.com/Ayush123-e/first-contributions)
+
 - [Ayush Priyadarshi](https://github.com/Ayu-zh)
 - [Ayush kumar maury](https://github.com/Ayush4O4)
 - [Ayushi Rajput](https://github.com/Ayushi-ninja)
@@ -750,6 +751,7 @@
 - [Mayur Lad](https://github.com/mayurlad)
 - [Megha Nyassa](https://github.com/mnya28)
 - [minhho0567-art](https://github.com/minhho0567-art)
+- [Maitreyi](https://github.com/Maitreyi04)
 - [Min Jia](https://github.com/Alex-gift-hit/EsCommune#)
 - [Moe Nyi](https://github.com/moenyi12-kraken)
 - [Monica Fagerli](https://github.com/MonicaKristine)
