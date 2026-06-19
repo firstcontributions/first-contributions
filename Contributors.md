@@ -1666,6 +1666,7 @@
 - [Rupesh Kumaran K R](https://github.com/RupeshKumaranKR)
 - [Praveenkumar A](https://github.com/davidson2kcc)
 - [Curtis Robert Oliver](https://github.com/CurtisRobertOliver)
+- [Shaashvat](https://github.com/shash18-alt)
 - [Ayisha siddiqa A](https://github.com/ayishasiddiqa26)
 - [roshninelson](https://github.com/roshninelson)
 - [Rudrakash Kurude](https://github.com/Kurude)
