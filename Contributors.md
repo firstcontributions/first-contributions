@@ -3,6 +3,7 @@
 - [Yashasvi Solanki](https://github.com/Yashasvi-Solanki)
 - [Ashwinkumar K] (https://github.com/Ashwinkumar-k10)
 - [Arsan] (https://github.com/Arsan-sk)
+- [Shaurya] (https://github.com/shauryagangrade)
 - [Anya] (https://github.com/anyatomik)
 - [Satya] (https://github.com/satynett)
 - [Antara] (https://github.com/Antarachive)
