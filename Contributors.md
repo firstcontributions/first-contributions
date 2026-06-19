@@ -12,7 +12,7 @@
 - [NithinKommi] (https://github.com/KOMMINITHIN)
 - [Gauri](https://github.com/yo2005)
 - [Sonal Priya](https://github.com/sp-codebase)
-
+- [Priyansh Nihalani] (https://github.com/priyanshnihalani/first-contributions)
   add-ayesha-perveen
 - [Ayesha Perveen](https://github.com/ayeshamallick6514-aye/first-contributions)
 -[Bhavin Goyal](https://github.com/Bhavin2007)
