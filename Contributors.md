@@ -885,6 +885,7 @@
 - [Piyush Pritam Sethi](https://github.com/piyush37-6)
 - [Piyush Srivastava](https://github.com/Phoenix-2207)
 - [Platostol](https://github.com/Platostol)
+- [Vodkrox](https://github.com/vodkrox)
 - [Purva Vhankalas](https://github.com/purvavhank-123)
 - [Priyanshu Sharma](https://github.com/MrCarnage00)
 - [Pouya Esfahani](https://github.com/Pooyash1998)
@@ -1687,3 +1688,4 @@
 - [rmxob](https://github.com/rmxob)
 - [Saket Raj](https://github.com/saketraj234)
 - Sivasubramanian B
+
