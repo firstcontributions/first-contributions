@@ -1,4 +1,6 @@
 # Contributors
+-[hari]
+- [ArnavGarg7](https://github.com/ArnavGarg7)
 - [Yashasvi Solanki](https://github.com/Yashasvi-Solanki)
 - [Ashwinkumar K] (https://github.com/Ashwinkumar-k10)
 - [Arsan] (https://github.com/Arsan-sk)
@@ -16,6 +18,7 @@
 - [Priyansh Nihalani] (https://github.com/priyanshnihalani/first-contributions)
   add-ayesha-perveen
 - [Ayesha Perveen](https://github.com/ayeshamallick6514-aye/first-contributions)
+- wanjiku [](https://github.com/wanjikubrians-khim)
 -[Bhavin Goyal](https://github.com/Bhavin2007)
 - [Kabir Ahmed](https://github.com/GrowAsguard) main
 - [Sam George]
@@ -55,6 +58,7 @@
 - [Pawar Rohit](https://github.com/PawarRohit132)
 - [Tanmay-Pansare](https://github.com/CodeWithTanmay635)
   [John Nash](https://github.com/WickedSonny)
+- [cheems](https://github.com/cheems908)
 - [root-kcalb]
 - [marco]
 - [Ibrahem Gamel](https://github.com/IbrahemGamel)
@@ -105,6 +109,7 @@
 - [Gurshaan Deol] (https://github.com/Gurshaan-Deol)
 - [Xander Wayne](https://github.com/xaaug)
 - [jayasree-007](https://github.com/jayasree-007)
+- [Chintan-Sakpal](https://github.com/Chintan572)
 - [sarthakgit123](https://github.com/sarthakgit123)
 - [ThoorM444](https://github.com/thoorM444)
 - [Manan Agarwal](https://github.com/thisis-manan)
