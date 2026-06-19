@@ -1634,4 +1634,5 @@
 - [Gaurav Verma](https://github.com/GauravVerma789)
 
 - [shivamsinha02](https://github.com/shivamsinha02)
+- [Lance Tran](https://github.com/Lance-Tran)
 
