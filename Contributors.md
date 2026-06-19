@@ -1624,7 +1624,7 @@
 - [Manas Rajdeep](https://github.com/manasrajdeep)
 
 - [Joshua Muinde] (https://github.com/Joshua-Muinde)
-
+- [Aayush Gupta ] (https://github.com/Aayush652-ops)
 - Sahana K (sahanakothandapani1)
 - [Divesh Kumawat](https://github.com/D1v3shh)
 - [Sakshi](https://github.com/sak08322-crypto)
