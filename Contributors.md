@@ -1,4 +1,5 @@
 # Contributors
+- [ArnavGarg7](https://github.com/ArnavGarg7)
 - [Yashasvi Solanki](https://github.com/Yashasvi-Solanki)
 - [Ashwinkumar K] (https://github.com/Ashwinkumar-k10)
 - [Arsan] (https://github.com/Arsan-sk)
