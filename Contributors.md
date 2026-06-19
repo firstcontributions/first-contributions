@@ -50,6 +50,7 @@
   [John Nash](https://github.com/WickedSonny)
 - [root-kcalb]
 - [marco]
+- [Ibrahem Gamel](https://github.com/IbrahemGamel)
 - [Rakshit Awadhiya](https://github.com/Ares-1609)
 - [VENKATA_SAI_JASWANTH](https://github.com/venkata-sai-jaswanth)
   GitHub Copilot -[Rishu Raj](https://github.com/Rishuraj3732)
