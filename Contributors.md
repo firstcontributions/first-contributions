@@ -17,7 +17,7 @@
 - [Jyothi Kumari](https://github.com/jyothicodex)
 - [Gauri](https://github.com/yo2005)
 - [Sonal Priya](https://github.com/sp-codebase)
-- [Priyansh Nihalani] (https://github.com/priyanshnihalani/first-contributions)
+- [Priyansh Nihalani](https://github.com/priyanshnihalani/first-contributions)
   add-ayesha-perveen
 - [Ayesha Perveen](https://github.com/ayeshamallick6514-aye/first-contributions)
 - wanjiku [](https://github.com/wanjikubrians-khim)
@@ -28,6 +28,7 @@
 - [Md Mehedi Hasan](https://github.com/pymehedi)
 - [Boskele](https://github.com/Boskelero)
 - [Mithulya Sandali](https://github.com/mithulya-s)
+- [Harrison Mweene](https://github.com/mweene)
 - [Salar Ahmed](https://github.com/salarsain)
 - [Muhammad Hasnain](https://github.com/muhammadhasnain3031)
 - [JGGY521 ](https://github.com/JGGY521)
@@ -1693,6 +1694,3 @@
 - [Riya Dixit](https://github.com/riyadixit-rd)
 - [rmxob](https://github.com/rmxob)
 - [Saket Raj](https://github.com/saketraj234)
-- Sivasubramanian B
-
-- [Alex Chen](https://github.com/l46983284-cpu)
