@@ -4,6 +4,7 @@
 - [Anya] (https://github.com/anyatomik)
 - [Satya] (https://github.com/satynett)
 - [Antara] (https://github.com/Antarachive)
+- [Aum Ahuja] (https://github.com/AumAhuja)
 - [Anya] (https://github.com/anyatomik)
 - [Gauri](https://github.com/yo2005)
 - [Sonal Priya](https://github.com/sp-codebase)
