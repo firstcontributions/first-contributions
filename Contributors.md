@@ -996,6 +996,7 @@
 - [Rysan Deluna aka Ryan](https://github.com/RysanDeluna)
 - [Saee Mane](https://github.com/saeemane05)
 - [SAYEM](https://github.com/11UCRES)
+- [QwQqth](https://github.com/QwQqth)
 - [SIDHARTH](https://github.com/Sid-2302)
 - [SMJ](https://github.com/SeokMinJeon)
 - [SUJAL ZORO](https://github.com/ZORO-JUROO)
