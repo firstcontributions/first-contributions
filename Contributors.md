@@ -685,6 +685,7 @@
 - [Johnny Dunal](https://github.com/johnnydunal)
 - [Jonmino](https://github.com/jonmino)
 - [Josman Dev](https://github.com/jmaldama8110)
+- [Joseph Lucas (Gert)](https://github.com/Joseph-Ramon-Lucas)
 - [Joylin Mathias](https://github.com/joylinmhs)
 - [Jtoosh](https://github.com/jtoosh)
 - [Juan Caquias](https://github.com/jcaquiasjr)
