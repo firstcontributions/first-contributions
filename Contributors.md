@@ -1,6 +1,7 @@
 # Contributors
-- [Akshaya Sreleka](https://github.com/AkshayaSrelekaPS)
--[hari]
+
+-[Ketan Sapkal](https://github.com/ketan3)
+[Akshaya Sreleka](https://github.com/AkshayaSrelekaPS) -[hari]
 - [Sazzat Hj](https://github.com/SazzatHj)
 - [ArnavGarg7](https://github.com/ArnavGarg7)
 - [oliviaSima](https://github.com/oliviaSima/)
@@ -9,6 +10,7 @@
 - [Arsan] (https://github.com/Arsan-sk)
 - [Shaurya] (https://github.com/shauryagangrade)
 - [Anya] (https://github.com/anyatomik)
+- [Sriram] (https://github.com/SriramMagesh2008)
 - [Satya] (https://github.com/satynett)
 - [Antara] (https://github.com/Antarachive)
 - [Aum Ahuja] (https://github.com/AumAhuja)
@@ -22,12 +24,12 @@
 - [Priyansh Nihalani](https://github.com/priyanshnihalani/first-contributions)
   add-ayesha-perveen
 - [Ayesha Perveen](https://github.com/ayeshamallick6514-aye/first-contributions)
-- wanjiku [](https://github.com/wanjikubrians-khim)
--[Bhavin Goyal](https://github.com/Bhavin2007)
+- wanjiku [](https://github.com/wanjikubrians-khim) -[Bhavin Goyal](https://github.com/Bhavin2007)
 - [Kabir Ahmed](https://github.com/GrowAsguard) main
 - [Sam George]
 - [Hamid Ali](https://github.com/hamidali54)
 - [Md Mehedi Hasan](https://github.com/pymehedi)
+- Just a practice commit
 - [Boskele](https://github.com/Boskelero)
 - [Mithulya Sandali](https://github.com/mithulya-s)
 - [Harrison Mweene](https://github.com/mweene)
@@ -1036,6 +1038,7 @@
 - [Ryan Lewandowski] (https://github.com/ryanlew02)
 - [Rysan Deluna aka Ryan](https://github.com/RysanDeluna)
 - [Saee Mane](https://github.com/saeemane05)
+- [Erfan Naseh Itabar](https://github.com/Rfannn)
 - [SAYEM](https://github.com/11UCRES)
 - [QwQqth](https://github.com/QwQqth)
 - [SIDHARTH](https://github.com/Sid-2302)
@@ -1320,12 +1323,14 @@
 - [Victor Meireles](https://github.com/victor-meireles)
 - [Vijay Joshi](https://github.com/VijayJoshi17)
 - [Vinayak Handa](https://github.com/vinayakhanda)
+- [Vincent Juarbe](https://github.com/ouchvinny)
 - [Vinh D Tran](https://github.com/s3500659)
 - [Vinma](https://github.com/vinzdini)
 - [Viraj Hudlikar](https://github.com/vhudlikar)
 - [2017166132](https://github.com/2017166132)
 - [Vishal Vivek](https://github.com/Vishalvivek2007)
 - [Vishnu Anand](https://github.com/Vishnurockyedwards)
+- [vishnu11vj](https://github.com/vishnu11vj)
 - [Vishnupriya Shisode](https://github.com/vishnupriya-shisode)
 - [Viswa Yadeedya](https://github.com/viswayadeedya)
 - [Vitali K](https://github.com/captainvita)
@@ -1506,6 +1511,7 @@
 - [MANOJ](https://github.com/Manojuio)
 - [nitikpsn](https://github.com/Nitikpsn)
 - [Evarline Mipata](https://github.com/Evarline)
+- [rightruth7](https://github.com/rightruth7)
 - [tarun singh](https://github.com/fyodor88)
 - [Dipti](https://github.com/Dipti46)
 - [Natan] (https://github.com/sharedbyNatan)
@@ -1669,8 +1675,8 @@
 - [Zaid Akhtar] (https://github.com/ZaiD-lgtm)
 - [zhangjiayang6835-cyber](https://github.com/zhangjiayang6835-cyber)
 - [setty](https://github.com/hosamane)
-[Vashnavi Agarwal](https://github.com/vshOps)
-[Matt](https://github.com/mattisdumb08)
+  [Vashnavi Agarwal](https://github.com/vshOps)
+  [Matt](https://github.com/mattisdumb08)
 - [Jerry](https://github.com/Jerryswu0716)
 - [Gaurav Verma](https://github.com/GauravVerma789)
 - [Aksad](https://github.com/Aksadio)
@@ -1710,9 +1716,15 @@
 - [Raodgan0110](https://github.com/Raodgan0110)
 - [maolaoban](https://github.com/maolaoban)
 - [huluganna](https://github.com/huluganna)
+- [R shachin](https://github.com/Shachin717) 
 - [SubochArtem](https://github.com/SubochArtem)
+- [Fariddudin-attar](https://github.com/Fariddudin-attar)
 - [abhaya321](https://github.com/abhaya321)
-Palak S
 - [mrmoinshaikh](https://github.com/mrmoinshaikh)
-
 - [aastha](https://github.com/aasthapawansingh-cmyk)
+- [mrmoinshaikh](https://github.com/mrmoinshaikh)
+- [Kusum Kataria](https://github.com/Kusumkatariaa)
+- [Samiullah Syed Hussain](https://github.com/funistic25)
+- [Yadav Aditya](https://github.com/Aditya-acesun)
+- [finalskiller](https://github.com/finalskiller)
+- [Gowthami-bot](https://github.com/Gowthami-bot)
