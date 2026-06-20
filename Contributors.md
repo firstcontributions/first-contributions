@@ -1,5 +1,6 @@
 # Contributors
 
+-[Tarun Bansla](https://github.com/Anolt)
 -[Ketan Sapkal](https://github.com/ketan3)
 [Akshaya Sreleka](https://github.com/AkshayaSrelekaPS) -[hari]
 - [Sazzat Hj](https://github.com/SazzatHj)
