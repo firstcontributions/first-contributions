@@ -1,6 +1,6 @@
 # Contributors
-- [Akshaya Sreleka](https://github.com/AkshayaSrelekaPS)
--[hari]
+
+- [Akshaya Sreleka](https://github.com/AkshayaSrelekaPS) -[hari]
 - [Sazzat Hj](https://github.com/SazzatHj)
 - [ArnavGarg7](https://github.com/ArnavGarg7)
 - [oliviaSima](https://github.com/oliviaSima/)
@@ -22,8 +22,7 @@
 - [Priyansh Nihalani](https://github.com/priyanshnihalani/first-contributions)
   add-ayesha-perveen
 - [Ayesha Perveen](https://github.com/ayeshamallick6514-aye/first-contributions)
-- wanjiku [](https://github.com/wanjikubrians-khim)
--[Bhavin Goyal](https://github.com/Bhavin2007)
+- wanjiku [](https://github.com/wanjikubrians-khim) -[Bhavin Goyal](https://github.com/Bhavin2007)
 - [Kabir Ahmed](https://github.com/GrowAsguard) main
 - [Sam George]
 - [Hamid Ali](https://github.com/hamidali54)
@@ -1669,8 +1668,8 @@
 - [Zaid Akhtar] (https://github.com/ZaiD-lgtm)
 - [zhangjiayang6835-cyber](https://github.com/zhangjiayang6835-cyber)
 - [setty](https://github.com/hosamane)
-[Vashnavi Agarwal](https://github.com/vshOps)
-[Matt](https://github.com/mattisdumb08)
+  [Vashnavi Agarwal](https://github.com/vshOps)
+  [Matt](https://github.com/mattisdumb08)
 - [Jerry](https://github.com/Jerryswu0716)
 - [Gaurav Verma](https://github.com/GauravVerma789)
 - [Aksad](https://github.com/Aksadio)
@@ -1712,5 +1711,6 @@
 - [huluganna](https://github.com/huluganna)
 - [SubochArtem](https://github.com/SubochArtem)
 - [abhaya321](https://github.com/abhaya321)
-Palak S
+  Palak S
 - [mrmoinshaikh](https://github.com/mrmoinshaikh)
+- [Priti Maurya](https://github.com/priti16011996)
