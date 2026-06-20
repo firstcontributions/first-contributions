@@ -21,6 +21,7 @@
 - [Gauri](https://github.com/yo2005)
 - [Sonal Priya](https://github.com/sp-codebase)
 - [Peter Pabon](https://github.com/peter-pabon/first-contributions)
+- [Pardhu-2005558](https://github.com/Pardhu-2005558)
 - [Priyansh Nihalani](https://github.com/priyanshnihalani/first-contributions)
   add-ayesha-perveen
 - [Ayesha Perveen](https://github.com/ayeshamallick6514-aye/first-contributions)
