@@ -1005,6 +1005,7 @@
 - [Rishika](https://github.com/RISHIKA-A-S)
 - [Rishikesh Singh](https://github.com/errishi)
 - [Rishon Pravin](https://github.com/Rishon-P)
+- [PATEL JAINAM](https://github.com/Pateljainam069)
 - [Ritesh Senthil](https://github.com/Ritesh-Senthil)
 - [Rithik Puthiyedath](https://github.com/Rithik149)
 - [RitwikReddy](https://github.com/RitwikReddyAerla)
