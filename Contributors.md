@@ -15,6 +15,7 @@
 - [Antara] (https://github.com/Antarachive)
 - [Aum Ahuja] (https://github.com/AumAhuja)
 - [Anya] (https://github.com/anyatomik)
+- [Kamalesh] (https://github.com/kamaleshpanda)
 - [Code-Dev] (https://github.com/code-devkmd)
 - [NithinKommi] (https://github.com/KOMMINITHIN)
 - [Jyothi Kumari](https://github.com/jyothicodex)
