@@ -1036,6 +1036,7 @@
 - [Ryan Lewandowski] (https://github.com/ryanlew02)
 - [Rysan Deluna aka Ryan](https://github.com/RysanDeluna)
 - [Saee Mane](https://github.com/saeemane05)
+- [Erfan Naseh Itabar](https://github.com/Rfannn)
 - [SAYEM](https://github.com/11UCRES)
 - [QwQqth](https://github.com/QwQqth)
 - [SIDHARTH](https://github.com/Sid-2302)
@@ -1711,7 +1712,8 @@
 - [maolaoban](https://github.com/maolaoban)
 - [huluganna](https://github.com/huluganna)
 - [SubochArtem](https://github.com/SubochArtem)
+- [Fariddudin-attar](https://github.com/Fariddudin-attar)
 - [abhaya321](https://github.com/abhaya321)
-Palak S
 - [mrmoinshaikh](https://github.com/mrmoinshaikh)
+- [Kusum Kataria](https://github.com/Kusumkatariaa)
 - [finalskiller](https://github.com/finalskiller)
