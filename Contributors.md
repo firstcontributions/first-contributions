@@ -1511,6 +1511,7 @@
 - [MANOJ](https://github.com/Manojuio)
 - [nitikpsn](https://github.com/Nitikpsn)
 - [Evarline Mipata](https://github.com/Evarline)
+- [rightruth7](https://github.com/rightruth7)
 - [tarun singh](https://github.com/fyodor88)
 - [Dipti](https://github.com/Dipti46)
 - [Natan] (https://github.com/sharedbyNatan)
