@@ -9,6 +9,7 @@
 - [Arsan] (https://github.com/Arsan-sk)
 - [Shaurya] (https://github.com/shauryagangrade)
 - [Anya] (https://github.com/anyatomik)
+- [Sriram] (https://github.com/SriramMagesh2008)
 - [Satya] (https://github.com/satynett)
 - [Antara] (https://github.com/Antarachive)
 - [Aum Ahuja] (https://github.com/AumAhuja)
