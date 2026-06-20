@@ -46,6 +46,7 @@
 - [Krishna Vijaywargiya](github.com/v-krishna07)
 - [Shravani Thorave](https://github.com/ShravaniThorave)
 - [Gaurav Mishra](https://github.com/gauravkmishra09)
+- [Stuti Jain](http://github.com/jain-stuti-437)
 - [Budati Chethana](https://github.com/Budatichethana)
 - [Krontixz](https://github.com/Krontixz)
 - [Princy](https://github.com/Princy-y)
