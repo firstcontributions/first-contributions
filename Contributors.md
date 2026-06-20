@@ -1027,6 +1027,7 @@
 - [Ruti](https://github.com/rutibergs)
 - [Ryan Gapp](https://github.com/ryan-gapp)
 - [Ryan Goods](https://github.com/feelgooddd)
+- [Ryan Lewandowski] (https://github.com/ryanlew02)
 - [Rysan Deluna aka Ryan](https://github.com/RysanDeluna)
 - [Saee Mane](https://github.com/saeemane05)
 - [SAYEM](https://github.com/11UCRES)
