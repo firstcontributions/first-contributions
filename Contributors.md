@@ -1,6 +1,7 @@
 # Contributors
 
-- [Akshaya Sreleka](https://github.com/AkshayaSrelekaPS) -[hari]
+-[Ketan Sapkal](https://github.com/ketan3)
+[Akshaya Sreleka](https://github.com/AkshayaSrelekaPS) -[hari]
 - [Sazzat Hj](https://github.com/SazzatHj)
 - [ArnavGarg7](https://github.com/ArnavGarg7)
 - [oliviaSima](https://github.com/oliviaSima/)
@@ -20,6 +21,7 @@
 - [Gauri](https://github.com/yo2005)
 - [Sonal Priya](https://github.com/sp-codebase)
 - [Peter Pabon](https://github.com/peter-pabon/first-contributions)
+- [Pardhu-2005558](https://github.com/Pardhu-2005558)
 - [Priyansh Nihalani](https://github.com/priyanshnihalani/first-contributions)
   add-ayesha-perveen
 - [Ayesha Perveen](https://github.com/ayeshamallick6514-aye/first-contributions)
@@ -1715,14 +1717,16 @@
 - [Raodgan0110](https://github.com/Raodgan0110)
 - [maolaoban](https://github.com/maolaoban)
 - [huluganna](https://github.com/huluganna)
+- [R shachin](https://github.com/Shachin717) 
 - [SubochArtem](https://github.com/SubochArtem)
 - [Fariddudin-attar](https://github.com/Fariddudin-attar)
 - [abhaya321](https://github.com/abhaya321)
 - [mrmoinshaikh](https://github.com/mrmoinshaikh)
+- [aastha](https://github.com/aasthapawansingh-cmyk)
+- [mrmoinshaikh](https://github.com/mrmoinshaikh)
 - [Kusum Kataria](https://github.com/Kusumkatariaa)
 - [Samiullah Syed Hussain](https://github.com/funistic25)
-
- - [Yadav Aditya](https://github.com/Aditya-acesun)
+- [Yadav Aditya](https://github.com/Aditya-acesun)
 - [finalskiller](https://github.com/finalskiller)
 - [Gowthami-bot](https://github.com/Gowthami-bot)
 - [chillaxplaya](https://github.com/chillaxplaya)
