@@ -1542,6 +1542,7 @@
 - [Luis](https://github.com/dev-Luis-Lab)
 - [artipunia27](https://github.com/artipunia27)
 - [Pedro Alex](https://github.com/PedroAlexSMC)
+- [Rishabh Mathur]
 - [krishnaswamykv](https://github.com/krishnaswamykv)
 - [DeathToNatsuki](https://github.com/deathtonatsuki)
 - [SurajKumar] (https://github.com/Suraj0x7)
