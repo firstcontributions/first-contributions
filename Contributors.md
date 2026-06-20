@@ -1036,6 +1036,7 @@
 - [Ryan Lewandowski] (https://github.com/ryanlew02)
 - [Rysan Deluna aka Ryan](https://github.com/RysanDeluna)
 - [Saee Mane](https://github.com/saeemane05)
+- [Erfan Naseh Itabar](https://github.com/Rfannn)
 - [SAYEM](https://github.com/11UCRES)
 - [QwQqth](https://github.com/QwQqth)
 - [SIDHARTH](https://github.com/Sid-2302)
