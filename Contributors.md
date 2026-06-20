@@ -162,6 +162,7 @@
 - [utkarshvns](https://github.com/utkarshvns)
 - [Nikshaykr](https://github.com/Nikshaykr)
 - [Vaishnavi Patil]
+- [Shubham Parashar](https://github.com/shubham65p)
 - [shreyashposhattiwar](https://github.com/ShreyashPoshattiwar)
 - [saptak-chakraborty](https://github.com/Saptak10)
 - [John Martin](https://github.com/johnj-0316)
