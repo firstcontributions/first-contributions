@@ -51,6 +51,7 @@
 - [Ritesh nishad] (https://github.com/ritesh-404)
 - [Niharika]
 - [Danish] (https://github.com/danishds-13)
+- [Murari Nallamalli](https://github.com/cyberkrishna)
 - [Amit Kumar](https://github.com/kamit15)
 - [Suksha](https://github.com/Suksha128)
 - [DLCisNoob](https://github.com/DLCisNoob1)
