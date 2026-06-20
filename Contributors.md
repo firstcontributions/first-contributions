@@ -37,6 +37,7 @@
 - [pH-1491](https://github.com/pH-1491/first-contributions)
 - [Shambhavi Singh](https://github.com/Shambhavigith)
 - [Krishna Vijaywargiya](github.com/v-krishna07)
+- [Shravani Thorave](https://github.com/ShravaniThorave)
 - [Gaurav Mishra](https://github.com/gauravkmishra09)
 - [Budati Chethana](https://github.com/Budatichethana)
 - [Krontixz](https://github.com/Krontixz)
