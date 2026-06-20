@@ -1,6 +1,7 @@
 # Contributors
 
-- [Akshaya Sreleka](https://github.com/AkshayaSrelekaPS) -[hari]
+-[Ketan Sapkal](https://github.com/ketan3)
+[Akshaya Sreleka](https://github.com/AkshayaSrelekaPS) -[hari]
 - [Sazzat Hj](https://github.com/SazzatHj)
 - [ArnavGarg7](https://github.com/ArnavGarg7)
 - [oliviaSima](https://github.com/oliviaSima/)
