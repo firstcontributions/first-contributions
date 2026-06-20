@@ -1712,7 +1712,7 @@
 - [maolaoban](https://github.com/maolaoban)
 - [huluganna](https://github.com/huluganna)
 - [SubochArtem](https://github.com/SubochArtem)
+- [Fariddudin-attar](https://github.com/Fariddudin-attar)
 - [abhaya321](https://github.com/abhaya321)
-Palak S
 - [mrmoinshaikh](https://github.com/mrmoinshaikh)
 - [Kusum Kataria](https://github.com/Kusumkatariaa)
