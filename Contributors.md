@@ -303,6 +303,7 @@
 - [Aravind V U](https://github.com/na23b005)
 - [Arpita Birla](https://github.com/Arpitabirla)
 - [Ahmed Esmail](https://github.com/ahmdesmaill)
+- [newbie2301](https://github.com/newbie2301)
 - [Aryak Singh](https://github.com/aryaksinghh)
 - [Aryan-Londhe](https://github.com/Aryan-Londhe)
 - [Alif Ruslan](https://github.com/elleo1452)
