@@ -13,6 +13,7 @@
 - [Sriram] (https://github.com/SriramMagesh2008)
 - [Satya] (https://github.com/satynett)
 - [Antara] (https://github.com/Antarachive)
+-[Chandra](https://github.com/Chandra20052025)
 - [Aum Ahuja] (https://github.com/AumAhuja)
 - [Anya] (https://github.com/anyatomik)
 - [Kamalesh] (https://github.com/kamaleshpanda)
