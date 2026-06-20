@@ -494,6 +494,7 @@
 - [Homayun Kabir](https://github.com/homayungit)
 - [Eshaan Krishna Ojha](https://github.com/EshaanOjha)
 - [Ethan Kinch](https://github.com/epkinch)
+- [Ethanzzz21](https://github.com/Ethanzzz21)
 - [Emerson Smith](https://github.com/Emerson-Smith76)
 - [Fabiano Yoschitaki](https://github.com/fabianoyoschitaki)
 - [Fabirizio Raffaelli](https://github.com/Fabro23)
