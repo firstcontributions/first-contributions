@@ -1660,6 +1660,7 @@
 - [Purva_Salunke] (https://github.com/Purvasalunk1344)
 - [Geethashri](https://github.com/Geethashri-27)
 - [Gokul](https://github.com/GokulM8)
+- [Nik](https://github.com/Baumo)
 - [cot-h](https://github.com/cot-h)
 - [Pratiksha Tripathi](https://github.com/pratikshatripathi13)
 - [S V GOKUL](https://github.com/Gokul887-afk)
