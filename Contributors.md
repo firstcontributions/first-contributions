@@ -1737,4 +1737,5 @@
 - [Gowthami-bot](https://github.com/Gowthami-bot)
 - [chillaxplaya](https://github.com/chillaxplaya)
 - [Sainivas Katika](https://github.com/sainivas33)
+- [KajitsuGrisaia](https://github.com/KajitsuGrisaia)
 - [Tobok Salah Eddine](https://github.com/salahtobok)
