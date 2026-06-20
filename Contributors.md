@@ -5,10 +5,10 @@
 - [ArnavGarg7](https://github.com/ArnavGarg7)
 - [oliviaSima](https://github.com/oliviaSima/)
 - [Yashasvi Solanki](https://github.com/Yashasvi-Solanki)
-- [Ashwinkumar K] (https://github.com/Ashwinkumar-k10)
+- [Ashwinkumar K](https://github.com/Ashwinkumar-k10)
 - [Arsan] (https://github.com/Arsan-sk)
 - [Shaurya] (https://github.com/shauryagangrade)
-- [Anya] (https://github.com/anyatomik)
+- [Anya](https://github.com/anyatomik)
 - [Satya] (https://github.com/satynett)
 - [Antara] (https://github.com/Antarachive)
 - [Aum Ahuja] (https://github.com/AumAhuja)
@@ -28,6 +28,7 @@
 - [Kabir Ahmed](https://github.com/GrowAsguard) main
 - [Sam George]
 - [Hamid Ali](https://github.com/hamidali54)
+- [Inamullah Mahar](https://github.com/inamcodes)
 - [Md Mehedi Hasan](https://github.com/pymehedi)
 - Just a practice commit
 - [Boskele](https://github.com/Boskelero)
@@ -57,16 +58,15 @@
 - [Amit Kumar](https://github.com/kamit15)
 - [Suksha](https://github.com/Suksha128)
 - [DLCisNoob](https://github.com/DLCisNoob1)
-- [JyanezVilla(https://github.com/JyanezVilla)
+- [JyanezVilla](https://github.com/JyanezVilla)
 - [Akshara Ramagiri](https://github.com/AksharaRamagiri)
 - [Anantha Kumar]
 - [David Brownhill]
-  praj
 - [Jas-mineWang](https://github.com/Jas-mineWang)
 - [okburkard1](https://github.com/okburkard1)
 - [Pawar Rohit](https://github.com/PawarRohit132)
 - [Tanmay-Pansare](https://github.com/CodeWithTanmay635)
-  [John Nash](https://github.com/WickedSonny)
+- [John Nash](https://github.com/WickedSonny)
 - [cheems](https://github.com/cheems908)
 - [root-kcalb]
 - [marco]
