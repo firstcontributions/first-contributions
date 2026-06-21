@@ -1168,6 +1168,7 @@
 - [Shivani-Padia](https://github.com/shivanipadia01-cyber)
 - [Shivansh Gupta](https://github.com/Krish1022sona)
 - [Shivansh Gupta](https://github.com/shivansh00000)
+- [Shivali Savant](https://github.com/shivalisavant)
 - [Shlok Gupta](https://github.com/LogicHymn)
 - [Shozab Ali Nasir](https://github.com/shozabali06)
 - [Shraddha Dubey](https://github.com/24f1000774)
