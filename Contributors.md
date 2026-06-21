@@ -80,6 +80,7 @@
 - [cheems](https://github.com/cheems908)
 - [root-kcalb]
 - [marco]
+- [M Haseeb AHsan] (https://github.com/haseeb0077)
 - [Ritesh-mishraa] (https://github.com/Ritesh-mishraa)
 - [Ibrahem Gamel](https://github.com/IbrahemGamel)
 - [Rakshit Awadhiya](https://github.com/Ares-1609)
