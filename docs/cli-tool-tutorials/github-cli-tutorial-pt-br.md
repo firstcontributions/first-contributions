@@ -67,7 +67,7 @@ replacing `seu-nome-branch` com o nome do branch que você criou anterioramente.
 - ### Erro de Autenticação
      <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
   remote: Por favor veja https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ para mais informações.
-  fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
+  fatal: Authentication failed for 'https://github.com/&lt;your-username&gt;/first-contributions.git/'</pre>
   Vá para o [Tutorial do GitHub](https://docs.github.com/pt/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) sobre como gerar e configurar uma chave SSH para sua conta.
 
 </details>

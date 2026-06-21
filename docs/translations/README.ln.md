@@ -109,7 +109,9 @@ longola makomi oyo `<kombo-ya-branche-na-yo>` mpe tia kombo ya branche oyo osili
 <details> <summary> <strong>Soki ozwi ba erreurs ntango ya kopusa ba modifications, kliké awa:</strong> </summary>
 
 - ### Erreur ya authentification
-  <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead. remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information. fatal: Authentication failed for 'https://github.com/<kombo-na-yo-ya-utilisateur>/first-contributions.git/'</pre>
+  <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead. 
+  remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information. 
+  fatal: Authentication failed for 'https://github.com/<kombo-na-yo-ya-utilisateur>/first-contributions.git/'</pre>
   Landa tutoriel ya GitHub mpo na kosala mpe ko configurer clé SSH na compte na yo.
 
 Okoki mpe kosala `git remote -v` mpo na kotala adresse na yo ya mosika.
