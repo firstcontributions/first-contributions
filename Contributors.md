@@ -18,6 +18,7 @@
 -[Chandra](https://github.com/Chandra20052025)
 - [Aum Ahuja] (https://github.com/AumAhuja)
 - [Aaron](https://github.com/Aaro2745)
+- [Jixuan Liu](https://github.com/jixuanliu21)
 - [Anya] (https://github.com/anyatomik)
 - [Kamalesh] (https://github.com/kamaleshpanda)
 - [Code-Dev] (https://github.com/code-devkmd)
