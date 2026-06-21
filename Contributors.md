@@ -17,6 +17,7 @@
 - [Satya] (https://github.com/satynett)
 - [Antara] (https://github.com/Antarachive)
 -[Chandra](https://github.com/Chandra20052025)
+-[Maniya Nehal](https://github.com/ManiyaNehal19)
 - [Aum Ahuja] (https://github.com/AumAhuja)
 - [Aaron](https://github.com/Aaro2745)
 - [Jixuan Liu](https://github.com/jixuanliu21)
