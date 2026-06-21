@@ -871,6 +871,7 @@
 - [Noah Kim](https://github.com/gratisreise)
 - [Noah Schroeder](https://github.com/nrschroeder)
 - [Noëlla Vivienne](https://github.com/noellav/)
+- [Aryanosh] (https://github.com/aryanosh)
 - [Nícolas Marinho](https://github.com/nicolasmarinhoo)
 - [OCM](https://github.com/NF6124034)
 - [OSoufian](https://github.com/OSoufian)
