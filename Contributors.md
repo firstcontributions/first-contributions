@@ -1771,5 +1771,5 @@
 - [nathandefy-cyber](https://github.com/nathandefy-cyber)
 - [Jagdish Waghmode](https://github.com/jagdishwaghmode)
 - [Kushal R] (https://github.com/Snap1423)
-- [Sandeep Verma](https://github.com/sandeepverma2005)
-- [Vaidehi Gujar](https://github.com/vaidehigujar07)
+-[Vaidehi Gujar] (https://github.com/vaidehigujar07)
+[cot-h](https://github.com/cot-h)
