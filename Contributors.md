@@ -12,6 +12,7 @@
 - [Arsan] (https://github.com/Arsan-sk)
 - [Shaurya] (https://github.com/shauryagangrade)
 - [Anya] (https://github.com/anyatomik)
+- [Dhruv] (https://github.com/dhruv-gautam-dev)
 - [Sriram] (https://github.com/SriramMagesh2008)
 - [Satya] (https://github.com/satynett)
 - [Antara] (https://github.com/Antarachive)
