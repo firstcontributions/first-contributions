@@ -24,6 +24,7 @@
 - [Antara] (https://github.com/Antarachive)
 -[Chandra](https://github.com/Chandra20052025)
 -[Maniya Nehal](https://github.com/ManiyaNehal19)
+-[Yee-28006](https://github.com/Yee-28006)
 - [Aum Ahuja] (https://github.com/AumAhuja)
 - [Aaron](https://github.com/Aaro2745)
 - [Jixuan Liu](https://github.com/jixuanliu21)
@@ -872,6 +873,7 @@
 - [Noah Kim](https://github.com/gratisreise)
 - [Noah Schroeder](https://github.com/nrschroeder)
 - [Noëlla Vivienne](https://github.com/noellav/)
+- [Aryanosh] (https://github.com/aryanosh)
 - [Nícolas Marinho](https://github.com/nicolasmarinhoo)
 - [OCM](https://github.com/NF6124034)
 - [OSoufian](https://github.com/OSoufian)
@@ -1785,3 +1787,9 @@
 -[Bhuvanesh2303](https://github.com/Bhuvanesh2303)
 - [AkashRavichandran] (https://github.com/AkashRavichandran07-creator)
 - [Sai Keerthana](https://github.com/keerthana2307-23)
+- [add-mohamed-sherif](https://github.com/M0hamedXSherif)
+Rajneesh Ganesh
+- [Vikrant](https://github.com/Vikrant-k09)
+- [Saisaran M](https://github.com/saisaran-m)
+- [Roshna Jayan](https://github.com/roshnajayan198-cloud)
+- main
