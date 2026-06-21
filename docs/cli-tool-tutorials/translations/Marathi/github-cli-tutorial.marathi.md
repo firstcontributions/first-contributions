@@ -69,11 +69,16 @@ git push origin -u your-branch-name
 
 तुम्ही आधी तयार केलेल्या शाखेच्या नावाने `your-branch-name` बदला.
 
-<details><summary> <strong>पुश करताना तुम्हाला काही त्रुटी आढळल्यास, येथे क्लिक करा:</strong></summary></details>
+<details><summary> <strong>पुश करताना तुम्हाला काही त्रुटी आढळल्यास, येथे क्लिक करा:</strong></summary>
 
 - ### प्रमाणीकरण त्रुटी
-        रिमोट: 13 ऑगस्ट 2021 रोजी पासवर्ड ऑथेंटिकेशनसाठी सपोर्ट काढून टाकण्यात आला. कृपया त्याऐवजी वैयक्तिक प्रवेश टोकन वापरा. रिमोट: अधिक माहितीसाठी कृपया https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ पहा. घातक: 'https://github.com//first-contrib.git/' साठी प्रमाणीकरण अयशस्वी
-  [तुमच्या खात्यासाठी एसएसएच की तयार आणि कॉन्फिगर करण्यावर गिटहबचे ट्यूटोरियल](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account).
+<pre>
+रिमोट: 13 ऑगस्ट 2021 रोजी पासवर्ड ऑथेंटिकेशनसाठी सपोर्ट काढून टाकण्यात आला. कृपया त्याऐवजी वैयक्तिक प्रवेश टोकन वापरा. 
+रिमोट: अधिक माहितीसाठी कृपया https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ पहा. 
+घातक: 'https://github.com//first-contrib.git/' साठी प्रमाणीकरण अयशस्वी 
+</pre>
+[तुमच्या खात्यासाठी एसएसएच की तयार आणि कॉन्फिगर करण्यावर गिटहबचे ट्यूटोरियल](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account).
+</details>
 
 # तुमचे बदल पुनरावलोकनासाठी सबमिट करा
 
