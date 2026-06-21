@@ -1119,6 +1119,7 @@
 - [Saqib Anjum Masoodi](https://github.com/SaqibMasoodi)
 - [Saqib](https://github.com/saq12)
 - [Sara Bekele](https://github.com/sarabekele30-cyber)
+- [SarloSauro](https://github.com/SarloSauro)
 - [SaranrajAR](https://github.com/SaranrajAR)
 - [Sarthak Mandal](https://github.com/Sarthak1711-hub)
 - [Sarvesh Deepak Mohite](https://github.com/CyberSarvesh)
