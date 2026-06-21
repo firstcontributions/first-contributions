@@ -1756,3 +1756,4 @@
 - [Krishna Pandey](https://github.com/buildwith-krishna)
 - [Nisarg Gosavi](https://github.com/nisarg07-hue)
 - [Fe](https://github.com/weiderui)
+[Jagdish Waghmode](https://github.com/jagdishwaghmode)
