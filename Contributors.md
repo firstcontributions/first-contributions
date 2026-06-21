@@ -1,4 +1,5 @@
 # Contributors
+-[kaurharleen21](https://github.com/KaurHarleen21)
 - [Musif](https://github.com/m-musif)
 -[Tarun Bansla](https://github.com/Anolt)
 -[Shweta Shirsawade](https;//github.com/MsShweta)
@@ -18,6 +19,7 @@
 -[Chandra](https://github.com/Chandra20052025)
 - [Aum Ahuja] (https://github.com/AumAhuja)
 - [Aaron](https://github.com/Aaro2745)
+- [Jixuan Liu](https://github.com/jixuanliu21)
 - [Anya] (https://github.com/anyatomik)
 - [Kamalesh] (https://github.com/kamaleshpanda)
 - [Code-Dev] (https://github.com/code-devkmd)
@@ -1748,3 +1750,5 @@
 - [Mohammad Nasser Haji Hashemabad](https://github.com/mnhashemabadi)
 - - Sakshi Kaushal
 - [Krishna Pandey](https://github.com/buildwith-krishna)
+- [Nisarg Gosavi](https://github.com/nisarg07-hue)
+- [Fe](https://github.com/weiderui)
