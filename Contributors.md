@@ -41,6 +41,7 @@
 - wanjiku [](https://github.com/wanjikubrians-khim) -[Bhavin Goyal](https://github.com/Bhavin2007)
 - [Kabir Ahmed](https://github.com/GrowAsguard) main
 - [Sam George]
+- [Abhishek Singh](https://github.com/Abhi13shek)
 - [Hamid Ali](https://github.com/hamidali54)
 - [Md Mehedi Hasan](https://github.com/pymehedi)
 - Just a practice commit
