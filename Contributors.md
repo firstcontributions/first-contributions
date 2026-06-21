@@ -44,6 +44,7 @@
   add-ayesha-perveen
 - [Ayesha Perveen](https://github.com/ayeshamallick6514-aye/first-contributions)
 - wanjiku [](https://github.com/wanjikubrians-khim) -[Bhavin Goyal](https://github.com/Bhavin2007)
+- [somi seol](https://github.com/somiseol) 
 - [Kabir Ahmed](https://github.com/GrowAsguard) main
 - [Sam George]
 - [Abhishek Singh](https://github.com/Abhi13shek)
