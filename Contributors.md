@@ -1376,6 +1376,7 @@
 - [Vivek Singh](https://github.com/asympoto)
 - [Vivek Soni](https://github.com/vivek-s-soni)
 - [VivekDeshmukh98](https://github.com/VivekDeshmukh98)
+- [psidharta] https://github.com/prsidharta
 - [Vivian](https://github.com/vivianps29)
 - [VizzScript](https://github.com/vizzscript)
 - [Vladimir](https://github.com/coder202)
