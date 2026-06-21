@@ -50,6 +50,7 @@
 - Just a practice commit
 - [Boskele](https://github.com/Boskelero)
 - [Mithulya Sandali](https://github.com/mithulya-s)
+- [Nihita Gupta](https://github.com/Nihita21/first-contributions)
 - [Harrison Mweene](https://github.com/mweene)
 - [Salar Ahmed](https://github.com/salarsain)
 - [Muhammad Hasnain](https://github.com/muhammadhasnain3031)
