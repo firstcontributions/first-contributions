@@ -9,6 +9,7 @@
 [Akshaya Sreleka](https://github.com/AkshayaSrelekaPS) -[hari]
 - [Sazzat Hj](https://github.com/SazzatHj)
 - [ArnavGarg7](https://github.com/ArnavGarg7)
+- [Darsh Agarwal](https://github.com/darshag29)
 - [Allen](https://github.com/allennexe)
 - [oliviaSima](https://github.com/oliviaSima/)
 - [Yashasvi Solanki](https://github.com/Yashasvi-Solanki)
