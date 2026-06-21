@@ -1762,3 +1762,4 @@
 - [Nisarg Gosavi](https://github.com/nisarg07-hue)
 - [Fe](https://github.com/weiderui)
 [Jagdish Waghmode](https://github.com/jagdishwaghmode)
+- [Kushal R] (https://github.com/Snap1423)
