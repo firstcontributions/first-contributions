@@ -731,6 +731,7 @@
 - [Lakshay](https://github.com/Lucky-Lakshay)
 - [Lakshigan Jeyanth](https://github.com/Jeyanth3)
 - [Lakshmi Priya](https://github.com/priya1503)
+- [Lahari Bharatula](https://github.com/lahari-bharatula)
 - [Lalitesh Kannuri](https://github.com/LaliteshKannuri)
 - [Lam Tung Dang](https://github.com/BitOfForest)
 - [Larson](https://github.com/lixianphy)
