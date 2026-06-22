@@ -15,6 +15,7 @@
 - [Kini7686](https://github.com/Kini7686)
 - [Darsh Agarwal](https://github.com/darshag29)
 - [Allen](https://github.com/allennexe)
+- [Meenu Pandey](https://github.com/Meenu-Pandey)
 - [Moon](https://github.com/Bumblebee963)
 - [oliviaSima](https://github.com/oliviaSima/)
 - [Yashasvi Solanki](https://github.com/Yashasvi-Solanki)
