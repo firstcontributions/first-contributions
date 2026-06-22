@@ -447,6 +447,7 @@
 - [Chakri](https://github.com/chakri)
 - [Iyed Souilem](https://github.com/RectoBlazer)
 - [Chamith Dilshan Tharuka](https://github.com/ChamithDilshanTharuka)
+-[Lamia Akter](https://github.com/dev-lamia)
 - [Chandrasekar Ravi](https://github.com/ChandruRavi3708)
 - [Charly Islami](https://github.com/CharlyIslami)
 - [chakma](https://github.com/Monkey3711)
