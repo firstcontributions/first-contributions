@@ -1,5 +1,6 @@
 s# Contributors
 - [Ananya](https://github.com/Ananya-dozakh-survivor)
+- [Vinod Gawande](https://github.com/VinodGawande)
 - [Eric Zhao](https://github.com/eericzzhao)
 - [Shaurya Sharma](https://github.com/shaurya-sharma123)
 - [Dev Varshney](https://github.com/dev200413y)
