@@ -1,4 +1,4 @@
-# Contributors
+s# Contributors
 - [Dev Varshney](https://github.com/dev200413y)
 - [Yhb1213](https://github.com/Yhb1213)
 - [prince91908c](https://github.com/prince91908c)
@@ -608,6 +608,7 @@
 - [Gayatri Yadkikar](https://github.com/yadkikargayatri)
 - [Ganga Raghuwanshi] (https://github.com/ganga-300)
 - [Gunjan Yadav](https://github.com/Gunjan-Yadav12)
+- [T4oist](https://github.com/T4oist)
 - [George Soden](https://github.com/georgesoden)
 - [Georgia Pennington](https://github.com/gpenn4)
 - [German Morelli](https://github.com/GermanMorelli)
