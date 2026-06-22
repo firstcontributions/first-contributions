@@ -1817,7 +1817,7 @@ s# Contributors
 Rajneesh Ganesh
 - [Vikrant](https://github.com/Vikrant-k09)
 - [viritha](https://github.com/Viritha-D)
-- [Saisaran M](https://github.com/saisaran-m)
+- [Saisaran M](https://github.com/saisaran-m) (Developer of [github-badges](https://github.com/saisaran-m/github-badges))
 - [Roshna Jayan](https://github.com/roshnajayan198-cloud)
 - main
 - [Sri Keerthi](https://github.com/Srikeerthi05)
