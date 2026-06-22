@@ -1,5 +1,6 @@
 s# Contributors
 - [Ananya](https://github.com/Ananya-dozakh-survivor)
+- [Eric Zhao](https://github.com/eericzzhao)
 - [Shaurya Sharma](https://github.com/shaurya-sharma123)
 - [Dev Varshney](https://github.com/dev200413y)
 - [Yhb1213](https://github.com/Yhb1213)
@@ -1852,4 +1853,5 @@ Rajneesh Ganesh
 - [Spandan Kumkar](https://github.com/Spandan-kumkar)
 - [Kavita Vidhate](https://github.com/kavitaa30)
 - [Samridhi Bhardwaj](https://github.com/samridhibhardwaj006)
+
 
