@@ -41,6 +41,7 @@ s# Contributors
 -[Yee-28006](https://github.com/Yee-28006)
 - [Aum Ahuja] (https://github.com/AumAhuja)
 - [Aaron](https://github.com/Aaro2745)
+- [Anish](https://github.com/Realmer01)
 - [Jixuan Liu](https://github.com/jixuanliu21)
 - [Anya] (https://github.com/anyatomik)
 - [Raheem] (https://github.com/raheem-ui)
