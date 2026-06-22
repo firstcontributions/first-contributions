@@ -12,6 +12,7 @@
 [Akshaya Sreleka](https://github.com/AkshayaSrelekaPS) -[hari]
 - [Sazzat Hj](https://github.com/SazzatHj)
 - [ArnavGarg7](https://github.com/ArnavGarg7)
+- [Kini7686](https://github.com/Kini7686)
 - [Darsh Agarwal](https://github.com/darshag29)
 - [Allen](https://github.com/allennexe)
 - [oliviaSima](https://github.com/oliviaSima/)
