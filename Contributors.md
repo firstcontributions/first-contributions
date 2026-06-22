@@ -23,6 +23,7 @@
 - [Ashwinkumar K] (https://github.com/Ashwinkumar-k10)
 - [Arsan] (https://github.com/Arsan-sk)
 - [Shaurya] (https://github.com/shauryagangrade)
+- [Elyes] (https://github.com/ElyesLaaribi)
 - [Anya] (https://github.com/anyatomik)
 - [Dhruv] (https://github.com/dhruv-gautam-dev)
 - [Sriram] (https://github.com/SriramMagesh2008)
