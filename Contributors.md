@@ -1418,6 +1418,7 @@ Aakash Gupta
 - [VizzScript](https://github.com/vizzscript)
 - [Vladimir](https://github.com/coder202)
 - [Vuk Topalovic](https://github.com/vukkt) -[Preet Kalra](https://github.com/preetk25627-dotcom)
+- [Nitin](https://github.com/nitinenj)
 - [Tanisha](https://github.com/Tanisha800)
 - [Vyshnavi Gopavarapu](https://github.com/gopavarapuvyshnavi66-tech)
 - [WHA](https://github.com/wynehtetaung)
