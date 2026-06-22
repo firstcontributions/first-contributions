@@ -30,6 +30,7 @@
 - [Antara] (https://github.com/Antarachive)
 -[Chandra](https://github.com/Chandra20052025)
 -[Maniya Nehal](https://github.com/ManiyaNehal19)
+-[Aryaman Suri](https://github.com/aryamansuri)
 -[Lavanya](https://github.com/lavanyabr17-alt)
 -[Yee-28006](https://github.com/Yee-28006)
 - [Aum Ahuja] (https://github.com/AumAhuja)
