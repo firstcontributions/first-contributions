@@ -1,4 +1,7 @@
 # Contributors
+- [Yhb1213](https://github.com/Yhb1213)
+ -[Tiyashaghosh](https://github.com/Tiyashaghosh)
+- [Mohamed-Sherif](https://github.com/M0hamedXSherif)
 - [Snehan S](https://github.com/snehanofficial)
 - [Mr-Zulki](https://github.com/Mr-Zulki/)
 -[kaurharleen21](https://github.com/KaurHarleen21)
@@ -17,11 +20,14 @@
 - [Arsan] (https://github.com/Arsan-sk)
 - [Shaurya] (https://github.com/shauryagangrade)
 - [Anya] (https://github.com/anyatomik)
+- [Dhruv] (https://github.com/dhruv-gautam-dev)
 - [Sriram] (https://github.com/SriramMagesh2008)
 - [Satya] (https://github.com/satynett)
 - [Antara] (https://github.com/Antarachive)
 -[Chandra](https://github.com/Chandra20052025)
 -[Maniya Nehal](https://github.com/ManiyaNehal19)
+-[Lavanya](https://github.com/lavanyabr17-alt)
+-[Yee-28006](https://github.com/Yee-28006)
 - [Aum Ahuja] (https://github.com/AumAhuja)
 - [Aaron](https://github.com/Aaro2745)
 - [Jixuan Liu](https://github.com/jixuanliu21)
@@ -39,13 +45,16 @@
   add-ayesha-perveen
 - [Ayesha Perveen](https://github.com/ayeshamallick6514-aye/first-contributions)
 - wanjiku [](https://github.com/wanjikubrians-khim) -[Bhavin Goyal](https://github.com/Bhavin2007)
+- [somi seol](https://github.com/somiseol) 
 - [Kabir Ahmed](https://github.com/GrowAsguard) main
 - [Sam George]
+- [Abhishek Singh](https://github.com/Abhi13shek)
 - [Hamid Ali](https://github.com/hamidali54)
 - [Md Mehedi Hasan](https://github.com/pymehedi)
 - Just a practice commit
 - [Boskele](https://github.com/Boskelero)
 - [Mithulya Sandali](https://github.com/mithulya-s)
+- [Nihita Gupta](https://github.com/Nihita21/first-contributions)
 - [Harrison Mweene](https://github.com/mweene)
 - [Salar Ahmed](https://github.com/salarsain)
 - [Muhammad Hasnain](https://github.com/muhammadhasnain3031)
@@ -76,6 +85,7 @@
 - [Akeb](https://github.com/Akeboshiii)
 - [JyanezVilla(https://github.com/JyanezVilla)
 - [Akshara Ramagiri](https://github.com/AksharaRamagiri)
+- [Ruibin Zhang](https://github.com/jdhdb493)
 - [Anantha Kumar]
 - [David Brownhill]
   praj
@@ -774,6 +784,7 @@
 - [M_Rizwan](https://github.com/rizwan749)
 - [Maanas Casp](https://github.com/Maanas-Casp)
 - [Maanasa Kambam](https://github.com/kambammaanasa08-afk)
+- [Yadidiah Kanaparthi] (https://github.com/YADIDidiah24)
 - [Madhav Singh](https://github.com/maddy710)
 - [Ayushna Bora](https://github.com/AyushnaBora95)
 - [Madhushree Mirji](https://github.com/madhushree-mirji/)
@@ -868,6 +879,7 @@
 - [Noah Kim](https://github.com/gratisreise)
 - [Noah Schroeder](https://github.com/nrschroeder)
 - [Noëlla Vivienne](https://github.com/noellav/)
+- [Aryanosh] (https://github.com/aryanosh)
 - [Nícolas Marinho](https://github.com/nicolasmarinhoo)
 - [OCM](https://github.com/NF6124034)
 - [OSoufian](https://github.com/OSoufian)
@@ -1366,6 +1378,7 @@
 - [Vivek Singh](https://github.com/asympoto)
 - [Vivek Soni](https://github.com/vivek-s-soni)
 - [VivekDeshmukh98](https://github.com/VivekDeshmukh98)
+- [psidharta](https://github.com/prsidharta)
 - [Vivian](https://github.com/vivianps29)
 - [VizzScript](https://github.com/vizzscript)
 - [Vladimir](https://github.com/coder202)
@@ -1686,7 +1699,7 @@
 - [Tejas B V](https://github.com/tejasbv46)
 
 - [Manas Rajdeep](https://github.com/manasrajdeep)
-
+- [Sunir Ibrahim](https://github.com/sunir-ibrahim)
 - [Joshua Muinde] (https://github.com/Joshua-Muinde)
 - [Aayush Gupta ] (https://github.com/Aayush652-ops)
 - Sahana K (sahanakothandapani1)
@@ -1774,7 +1787,6 @@
 - [Kushal R] (https://github.com/Snap1423)
 -[Vaidehi Gujar] (https://github.com/vaidehigujar07)
 [cot-h](https://github.com/cot-h)
-- [Ashutosh Agnihotri](https://github.com/technocrat63)
 - [Anjana Pramod](https://github.com/Anjanapramod281)
 - [Sanjeev Radhaa] (https://github.com/sanjeev646)
 - [AkashRavichandran] (https://github.com/AkashRavichandran07-creator)
