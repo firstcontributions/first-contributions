@@ -497,6 +497,7 @@ s# Contributors
 - [Devansh jani](https://github.com/DEV1208)
 - [Devashish Gupta](https://github.com/sudo-verse)
 - [Devdeep Sarkar](https://github.com/devdeepsarkar)
+- [Devdeep Singh]_https://github.com/Dsr-code)
 - [Devdxpen](https://github.com/devdxpen)
 - [John Lowery](https://github.com/PugTaco)
 - [Developer Dashboard](https://vijaygoswami.is-a-dev?utm_source=github)
