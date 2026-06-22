@@ -783,6 +783,7 @@ Aakash Gupta
 - [Lemontree](https://github.com/Lemontree7981)
 - [Lenin Goud Athikam](https://github.com/leninathikam)
 - [Leon](https://github.com/Leonels12)
+- Daniel Louie
 - [Liam Muro](https://github.com/liammuro)
 - [Likhitha](https://github.com/likhitha2005-alt)
 - [Lily](https://github.com/lilypandey)
