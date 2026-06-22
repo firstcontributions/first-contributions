@@ -50,6 +50,7 @@
 - [Nikita Kushwaha](https://github.com/1nikitakushwaha)
 - [Ritesh nishad] (https://github.com/ritesh-404)
 - [Niharika]
+- [Prachi Saxena] (https://github.com/prachis2312)
 - [Danish] (https://github.com/danishds-13)
 - [Murari Nallamalli](https://github.com/cyberkrishna)
 - [Amit Kumar](https://github.com/kamit15)
