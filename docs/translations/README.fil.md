@@ -98,7 +98,7 @@ Ang `pangalan-ng-branch` ay pangalan ng branch na ginawa mo kanina.
 - ### Error sa Pagpapatunay
     <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
     remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
-    fatal: Authentication failed for 'https://github.com//first-contributions.git/'</pre>
+   fatal: Authentication failed for 'https://github.com/&lt;your-username&gt;/first-contributions.git/'</pre>
   Pumunta sa [tutorial ng GitHub](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) sa paggawa at pag-configure ng SSH key sa iyong account.
 </details>
 
@@ -119,6 +119,8 @@ Ime-merge ko ang lahat ng mga nabago mo sa _main branch_ ng proyektong ito. Maka
 Congrats! Nakumpleto mo lang ang karaniwang _fork -> clone -> edit -> pull request_ workflow na madalas mong gagamitin bilang isang _contributor_!
 
 Ipakita ang iyong kontribusyon sa iyong mga kaibigan at tagasubaybay at magpunta sa [web app](https://firstcontributions.github.io/#social-share).
+
+Kung gusto mo pang magsanay, tingnan ang [code contributions](https://github.com/roshanjossey/code-contributions).
 
 Ngayon, pwede ka nang gumawa ng kontribusyon sa iba pang mga proyekto! Gumawa kami ng isang listahan ng mga proyekto na may mga madadaling gawing _issues_ na pwede mong gawin. Tingnan ang [listahan ng mga proyekto sa web app](https://firstcontributions.github.io/#project-list).
 
