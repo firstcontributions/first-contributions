@@ -19,6 +19,7 @@
 - [Moon](https://github.com/Bumblebee963)
 - [oliviaSima](https://github.com/oliviaSima/)
 - [Yashasvi Solanki](https://github.com/Yashasvi-Solanki)
+- [Zara Syed](https://github.com/zaranet147) 
 - [Ashwinkumar K] (https://github.com/Ashwinkumar-k10)
 - [Arsan] (https://github.com/Arsan-sk)
 - [Shaurya] (https://github.com/shauryagangrade)
