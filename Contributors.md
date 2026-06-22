@@ -1,4 +1,5 @@
 # Contributors
+- [Yhb1213](https://github.com/Yhb1213)
  -[Tiyashaghosh](https://github.com/Tiyashaghosh)
 - [Mohamed-Sherif](https://github.com/M0hamedXSherif)
 - [Snehan S](https://github.com/snehanofficial)
@@ -1807,3 +1808,5 @@ Rajneesh Ganesh
 - [Abdullah Arif](https://github.com/AbdullahArif17)
 - [richman0909](https://github.com/richman0909)
 - [Sarthak Anand](https://github.com/sarthak-SyntaxSamurai)
+[Anurag Pareek](https://github.com/krsna016)
+[VishalReddy130](https://github.com/VishalReddy130)
