@@ -1805,3 +1805,4 @@ Rajneesh Ganesh
 - [Abdullah Arif](https://github.com/AbdullahArif17)
 - [richman0909](https://github.com/richman0909)
 - [Sarthak Anand](https://github.com/sarthak-SyntaxSamurai)
+[Anurag Pareek](https://github.com/krsna016)
