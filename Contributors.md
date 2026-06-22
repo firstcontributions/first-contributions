@@ -73,6 +73,7 @@ s# Contributors
 - [pH-1491](https://github.com/pH-1491/first-contributions)
 - [Shambhavi Singh](https://github.com/Shambhavigith)
 - [Krishna Vijaywargiya](github.com/v-krishna07)
+- [Srujan Kumar](https://github.com/SrujanNampally)
 - [Shravani Thorave](https://github.com/ShravaniThorave)
 - [Gaurav Mishra](https://github.com/gauravkmishra09)
 - [Stuti Jain](http://github.com/jain-stuti-437)
