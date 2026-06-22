@@ -1840,4 +1840,5 @@ Rajneesh Ganesh
 - [huangjun430-ctrl](https://github.com/huangjun430-ctrl)
 - [Abel P Abraham](https://github.com/abelpabraham)
 - [Spandan Kumkar](https://github.com/Spandan-kumkar)
+- [Kavita Vidhate](https://github.com/kavitaa30)
 
