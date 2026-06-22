@@ -1,4 +1,5 @@
 s# Contributors
+- [Ananya](https://github.com/Ananya-dozakh-survivor)
 - [Shaurya Sharma](https://github.com/shaurya-sharma123)
 - [Dev Varshney](https://github.com/dev200413y)
 - [Yhb1213](https://github.com/Yhb1213)
