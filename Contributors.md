@@ -1830,5 +1830,6 @@ Rajneesh Ganesh
 [krishna kumar](https://github.com/Krishna13771)
 - [Pranav Kumar](https://github.com/thePranav-kpk)
 - [Srijita Verma](https://github.com/SrijitaV)
+- [Rohan Binu](https://github.com/rtrinu)
 - [Taha Navidi](https://github.com/Taha-X-Dev)
 - [zrzisdouyin-hub](https://github.com/zrzisdouyin-hub)
