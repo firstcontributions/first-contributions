@@ -56,6 +56,7 @@
 - [Md Mehedi Hasan](https://github.com/pymehedi)
 - Just a practice commit
 - [Boskele](https://github.com/Boskelero)
+- [Atulya Juyal](https://github.com/Atulya-Juyal)
 - [Mithulya Sandali](https://github.com/mithulya-s)
 - [Nihita Gupta](https://github.com/Nihita21/first-contributions)
 - [Harrison Mweene](https://github.com/mweene)
