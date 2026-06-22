@@ -1794,6 +1794,8 @@
 - [Krishna Pandey](https://github.com/buildwith-krishna)
 - [Nisarg Gosavi](https://github.com/nisarg07-hue)
 - [Fe](https://github.com/weiderui)
+- [Kaushik-Developer](https://github.com/evosKaushik)
+[Jagdish Waghmode](https://github.com/jagdishwaghmode)
 - [nathandefy-cyber](https://github.com/nathandefy-cyber)
 - [Jagdish Waghmode](https://github.com/jagdishwaghmode)
 - [Kushal R] (https://github.com/Snap1423)
