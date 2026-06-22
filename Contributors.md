@@ -1,6 +1,6 @@
 # Contributors
 - [Yhb1213](https://github.com/Yhb1213)
-- [prince91908c](https://github.com/yhb1213)
+- [prince91908c](https://github.com/prince91908c)
  -[Tiyashaghosh](https://github.com/Tiyashaghosh)
 - [Mohamed-Sherif](https://github.com/M0hamedXSherif)
 - [Snehan S](https://github.com/snehanofficial)
