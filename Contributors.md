@@ -4,6 +4,7 @@
 - [pixelatedkisses] (https://github.com/pixelatedkisses)
 - [Tanish] (https://github.com/tanishmisra9)
 - [Harshini BV] (https://github.com/Harshbv)
+- [Amrit Kumar] (https://github.com/AmritKumar777)
 - [Vinod Gawande](https://github.com/VinodGawande)
 - [Eric Zhao](https://github.com/eericzzhao)
 - [Shaurya Sharma](https://github.com/shaurya-sharma123)
