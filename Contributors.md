@@ -8,6 +8,7 @@
 - [Amrit Kumar] (https://github.com/AmritKumar777)
 - [Vinod Gawande](https://github.com/VinodGawande)
 - [Eric Zhao](https://github.com/eericzzhao)
+-[Junaid Jamadar](https://github.com/JunaidDev20-spec)
 - [Shaurya Sharma](https://github.com/shaurya-sharma123)
 - [Dev Varshney](https://github.com/dev200413y)
 - [Yhb1213](https://github.com/Yhb1213)\
