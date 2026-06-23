@@ -1,4 +1,5 @@
 # Contributors
+-[Navya J](https://github.com/Navya-pavanan)
 - [Ananya](https://github.com/Ananya-dozakh-survivor)
 - [ettabihi](https://github.com/ettabihi)
 - [pixelatedkisses] (https://github.com/pixelatedkisses)
