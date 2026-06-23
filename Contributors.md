@@ -43,6 +43,7 @@
 -[Aryaman Suri](https://github.com/aryamansuri)
 -[Lavanya](https://github.com/lavanyabr17-alt)
 -[Yee-28006](https://github.com/Yee-28006)
+-[Rohan Mulukuntla](https://github.com/mulukuntlarohan)
 - [Aum Ahuja] (https://github.com/AumAhuja)
 - [Aaron](https://github.com/Aaro2745)
 - [Anish](https://github.com/Realmer01)
