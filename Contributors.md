@@ -1754,6 +1754,7 @@ Aakash Gupta
 - [Joshua Muinde] (https://github.com/Joshua-Muinde)
 - [Aayush Gupta ] (https://github.com/Aayush652-ops)
 - Sahana K (sahanakothandapani1)
+- Ian Sonoda (https://github.com/iansonoda)
 - [Divesh Kumawat](https://github.com/D1v3shh)
 - [Sakshi](https://github.com/sak08322-crypto)
 - [Devang Kartik] (https://github.com/aatish-anonymous)
