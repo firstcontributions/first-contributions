@@ -1827,6 +1827,7 @@ Aakash Gupta
 - [Jagdish Waghmode](https://github.com/jagdishwaghmode)
 - [Kushal R] (https://github.com/Snap1423)
 -[Vaidehi Gujar] (https://github.com/vaidehigujar07)
+-[Jeau Labyorteaux] (https://github.com/JeauLabyorteaux)
 [cot-h](https://github.com/cot-h)
 - [Anjana Pramod](https://github.com/Anjanapramod281)
 - [Sanjeev Radhaa] (https://github.com/sanjeev646)
