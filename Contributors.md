@@ -1,4 +1,5 @@
 # Contributors
+ - [agbuddy7](https://github.com/agbuddy7)
 - [Ananya](https://github.com/Ananya-dozakh-survivor)
 - [ettabihi](https://github.com/ettabihi)
 - [pixelatedkisses] (https://github.com/pixelatedkisses)
