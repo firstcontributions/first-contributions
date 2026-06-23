@@ -75,7 +75,7 @@ git push origin -u your-branch-name
 <pre>
 रिमोट: 13 ऑगस्ट 2021 रोजी पासवर्ड ऑथेंटिकेशनसाठी सपोर्ट काढून टाकण्यात आला. कृपया त्याऐवजी वैयक्तिक प्रवेश टोकन वापरा. 
 रिमोट: अधिक माहितीसाठी कृपया https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ पहा. 
-घातक: 'https://github.com//first-contrib.git/' साठी प्रमाणीकरण अयशस्वी 
+घातक: 'https://github.com/<your-username>/first-contributions.git/' साठी प्रमाणीकरण अयशस्वी 
 </pre>
 [तुमच्या खात्यासाठी एसएसएच की तयार आणि कॉन्फिगर करण्यावर गिटहबचे ट्यूटोरियल](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account).
 </details>
