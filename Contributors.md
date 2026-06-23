@@ -1873,8 +1873,6 @@ Rajneesh Ganesh
 - [Samridhi Bhardwaj](https://github.com/samridhibhardwaj006)
 - [r-igo](https://github.com/R-IGO-PROJECT)
 - [Nikunj Sharma](https://github.com/NikunjSharma-dev)
-
-
 - [Korey Wimberly](https://github.com/k3he1121kw)
 - [Saumya Jaiswal](https://github.com/Saumyajaiswal9794)
 - [Hema G](https://github.com/hemag111)
