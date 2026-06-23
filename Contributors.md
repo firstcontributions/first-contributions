@@ -1830,6 +1830,7 @@ Aakash Gupta
 - [SubochArtem](https://github.com/SubochArtem)
 - [Fariddudin-attar](https://github.com/Fariddudin-attar)
 - [abhaya321](https://github.com/abhaya321)
+- [aryan1803](https://github.com/aryan1803)
 - [mrmoinshaikh](https://github.com/mrmoinshaikh)
 - [aastha](https://github.com/aasthapawansingh-cmyk)
 - [Pankaj Bharvey] (https://github.com/coolpank)
