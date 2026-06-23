@@ -118,6 +118,7 @@
   [John Nash](https://github.com/WickedSonny)
 - [cheems](https://github.com/cheems908)
 - [root-kcalb]
+- [Krishna](https://github.com/krish-na-m)
 - [marco]
 - [M Haseeb AHsan] (https://github.com/haseeb0077)
 - [Ritesh-mishraa] (https://github.com/Ritesh-mishraa)
