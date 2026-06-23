@@ -142,6 +142,7 @@
 - [Kishore](https://github.com/Kishore-pv)
 - [Haarush](https://github.com/Haarush2006)
 - [stindop]
+- [Swetha Satheesh](https://github.com/Serenehue)
 - [Sathish](https://github.com/sathishreddyakepati/)
 - [Yuvan Vishnu Pandi](https://github.com/yuvanvishnupandi)
 - [Divyansh Singh](https://github.com/divyanshSingh41)
