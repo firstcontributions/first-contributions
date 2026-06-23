@@ -66,6 +66,7 @@ Anshi
 - [Max Ma](https://github.com/maxu198668)
 - [spacegodx](https://github.com/spacegodx)
 - [Nishu](https://github.com/nishuR31)
+- [Ben Samy](https://github.com/bsamy)
 - [Ward](https://github.com/rawadmuhammed)
 - [GoodBoy](https://github.com/prasad-bigdp)
 - [Toni Thomas](https://github.com/DiyBookOfLife)
