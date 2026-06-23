@@ -25,6 +25,7 @@
 - [ArnavGarg7](https://github.com/ArnavGarg7)
 - [Kini7686](https://github.com/Kini7686)
 - [Darsh Agarwal](https://github.com/darshag29)
+- [Jeremiah Aliyese](https://github.com/ternamdoo)
 - [Allen](https://github.com/allennexe)
 - [Meenu Pandey](https://github.com/Meenu-Pandey)
 - [Moon](https://github.com/Bumblebee963)
