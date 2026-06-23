@@ -1494,6 +1494,7 @@ Aakash Gupta
 - [Yuvi](https://github.com/yuvrajshrirame)
 - [Yuzhirua](https:/github.com/Yuzhirua)
 - [Zacarias Casimiro](https://github.com/zcasimir39)
+- [Aditya Warekar](https://github.com/adityawarekar)
 - [Zack](https://github.com/acger-acmer)
 - [Zacul](https://github.com/ZacuLucaZ)
 - [Zainab-Nandhini](https://github.com/Nandhini6132)
