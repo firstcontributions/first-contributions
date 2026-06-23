@@ -1,5 +1,6 @@
 # Contributors
 - [Ananya](https://github.com/Ananya-dozakh-survivor)
+- [pixelatedkisses] (https://github.com/pixelatedkisses)
 - [Tanish] (https://github.com/tanishmisra9)
 - [Harshini BV] (https://github.com/Harshbv)
 - [Vinod Gawande](https://github.com/VinodGawande)
