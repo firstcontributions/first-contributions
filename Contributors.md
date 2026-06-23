@@ -99,6 +99,7 @@
 - [Gaurav Mishra](https://github.com/gauravkmishra09)
 - [Stuti Jain](http://github.com/jain-stuti-437)
 - [Budati Chethana](https://github.com/Budatichethana)
+- 
 - [Krontixz](https://github.com/Krontixz)
 - [Princy](https://github.com/Princy-y)
 - [Ayush De] (https://github.com/the-one-ayush)
@@ -1267,6 +1268,7 @@ Aakash Gupta
 - [Siddhartha Kushwaha](https://github.com/DevSidd2006)
 - [SileboxUnderfined](https://github.com/SileboxUnderfined)
 - [Sindhu Reddy](https://github.com/prodduturisindhurdy)
+- roshan
 - [Siriuswyc](https://github.com/Siriuswyc)
 - [Siri Nandini Alanka](https://github.com/SiriNandinii)
 - [SisterMorphine](https://github.com/SisterMorphine)
