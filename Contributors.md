@@ -381,6 +381,7 @@
 - [Asif Raza Ansari](https://github.com/asifraza-776)
 - [Asiya Mujawar](https://github.com/asiyamujawar)
 - [Asnaks](https://github.com/Asnaks)
+- [Ali Aldaghishy](https://github.com/alide123321)
 - [datta852](https://github.com/datta852)
 - [Assaf Lewin](https://github.com/Assaf1713)
 - [Atharva Ghayal](https://github.com/atharvaghayal)
