@@ -47,6 +47,7 @@
 - [Aaron](https://github.com/Aaro2745)
 - [Anish](https://github.com/Realmer01)
 - [Jixuan Liu](https://github.com/jixuanliu21)
+- [Priya Patel](https://github.com/Priya-Patel-08)
 - [Anya] (https://github.com/anyatomik)
 - [Raheem] (https://github.com/raheem-ui)
 - [Kamalesh] (https://github.com/kamaleshpanda)
