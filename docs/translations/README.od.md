@@ -97,9 +97,10 @@ git push -u <ଉତ୍ପତ୍ତି ତୁମର ଶାଖା-ନାମ>
 <summary> <strong> ଯଦି ଆପଣ ଠେଲିବା ସମୟରେ କ any ଣସି ତ୍ରୁଟି ପାଆନ୍ତି, ତେବେ ଏଠାରେ କ୍ଲିକ୍ କରନ୍ତୁ: </strong> </summary>
 
 - ### ପ୍ରାମାଣିକିକରଣ ତ୍ରୁଟି |
-      <pre> ସୁଦୂର: ପାସୱାର୍ଡ ପ୍ରାମାଣିକିକରଣ ପାଇଁ ସମର୍ଥନ ଅଗଷ୍ଟ 13, 2021 ରେ ଅପସାରିତ ହୋଇଥିଲା। ଦୟାକରି ଏହା ବଦଳରେ ଏକ ବ୍ୟକ୍ତିଗତ ପ୍ରବେଶ ଟୋକେନ୍ ବ୍ୟବହାର କରନ୍ତୁ |
+  <pre>ସୁଦୂର: ପାସୱାର୍ଡ ପ୍ରାମାଣିକିକରଣ ପାଇଁ ସମର୍ଥନ ଅଗଷ୍ଟ 13, 2021 ରେ ଅପସାରିତ ହୋଇଥିଲା। ଦୟାକରି ଏହା ବଦଳରେ ଏକ ବ୍ୟକ୍ତିଗତ ପ୍ରବେଶ ଟୋକେନ୍ ବ୍ୟବହାର କରନ୍ତୁ |
   ସୁଦୂର: ଅଧିକ ସୂଚନା ପାଇଁ ଦୟାକରି https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ ଦେଖନ୍ତୁ |
-  ସାଂଘାତିକ: 'https://github.com/ <your-username> /first-contributions.git/' </pre> ପାଇଁ ପ୍ରାମାଣିକିକରଣ ବିଫଳ ହେଲା |
+  ସାଂଘାତିକ: 'https://github.com/ <your-username> /first-contributions.git/' ପାଇଁ ପ୍ରାମାଣିକିକରଣ ବିଫଳ ହେଲା |
+  </pre>
   [GitHub ର ଟ୍ୟୁଟୋରିଆଲ୍] କୁ ଯାଆନ୍ତୁ (https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) ଆପଣଙ୍କ ଖାତାକୁ ଏକ SSH କି ସୃଷ୍ଟି ଏବଂ ବିନ୍ୟାସ କରିବା |
 
 </details>
