@@ -1184,7 +1184,7 @@ Aakash Gupta
 - [SarloSauro](https://github.com/SarloSauro)
 - [SaranrajAR](https://github.com/SaranrajAR)
 - [Sarthak Mandal](https://github.com/Sarthak1711-hub)
-- [Saruhasan Thavachelvan](https://github.com/Saru-Work)
+- [Saruhasan T](https://github.com/Saru-Work)
 - [Sarvesh Deepak Mohite](https://github.com/CyberSarvesh)
 - [SashKom6](https://github.com/SashKom6)
 - [Satheem Muwaffaq](https://github.com/satheem)
