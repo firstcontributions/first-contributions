@@ -361,6 +361,7 @@
 - [Amishi Agrawal](https://github.com/amishiagrawal)
 - [Joshith Gadi] ()
 - [Dani Noble] (https://github.com/dnvdevx)
+- [JulianGStudium](https://github.com/JulianGStudium)
 - [Ethan Boya](https://github.com/ethanboya)
 - [AmberStars](https://github.com/AmberStars)
 - [Anirudh Sharma](https://github.com/creativeknightl0)
