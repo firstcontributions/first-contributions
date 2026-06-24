@@ -1599,6 +1599,7 @@ Aakash Gupta
 - [`Hojiakbarxon Olimxo'jayev`](https://github.com/Hojiakbarxon)
 - [Vinayak Saxena](https://github.com/arkhamKnight78)
 - [Deepanshu Kumar Jha](https://github.com/CppCracker11)
+- [East Schriner] (https://github.com/eastschriner)
 - [Groot Chen](https://github.com/Groot-PM)
 - [Phillippe Garado](https://github.com/Hubrisdog)
 - [Phillippe G.](https://github.com/Hubrisdog)
