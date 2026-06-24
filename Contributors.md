@@ -1,6 +1,7 @@
 # Contributors
 - [xDatabox] (https://github.com/xdatabox)
 - [Ayush Baware](https://github.com/AyushBaware)
+- [Krishi](https://github.com/Krishi-bot)
  -[agbuddy7](https://github.com/agbuddy7)
 - [Ananya](https://github.com/Ananya-dozakh-survivor)
 - [ettabihi](https://github.com/ettabihi)
