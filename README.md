@@ -94,6 +94,25 @@ This project aims to simplify and guide the way beginners make their first contr
 
 _If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
 
+## Table of Contents
+
+- [Prerequisites](#prerequisites)
+- [Fork this repository](#fork-this-repository)
+- [Clone the repository](#clone-the-repository)
+- [Create a branch](#create-a-branch)
+- [Make necessary changes and commit those changes](#make-necessary-changes-and-commit-those-changes)
+- [Push changes to GitHub](#push-changes-to-github)
+- [Submit your changes for review](#submit-your-changes-for-review)
+- [How to get help](#how-to-get-help)
+- [License](#license)
+
+## Prerequisites
+
+- A Git client installed. Follow the official guide: https://docs.github.com/en/get-started/quickstart/set-up-git
+- A GitHub account: https://github.com/join
+- A text editor or IDE (e.g., Visual Studio Code) or an optional GUI Git client if you prefer not to use the command line.
+- Recommended Git version: 2.23+ (for `git switch` support) — older versions can use `git checkout` as an alternative.
+
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork the repository" />
 
 #### If you don't have git on your machine, [install it](https://docs.github.com/en/get-started/quickstart/set-up-git).
@@ -109,7 +128,7 @@ This will create a copy of this repository in your account.
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button, then on SSH tab and then click the _copy url to clipboard_ icon.
 
-Open a terminal and run the following git command:
+Open a terminal and run the following git command (paste the SSH or HTTPS URL you copied):
 
 ```bash
 git clone "url you just copied"
@@ -119,10 +138,16 @@ where "url you just copied" (without the quotation marks) is the url to this rep
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
-For example:
+For example — SSH:
 
 ```bash
 git clone git@github.com:this-is-you/first-contributions.git
+```
+
+Or using HTTPS:
+
+```bash
+git clone https://github.com/this-is-you/first-contributions.git
 ```
 
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
@@ -225,6 +250,16 @@ Now submit the pull request.
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
 Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
+
+## How to get help
+
+- If you run into issues while following these steps, first check the repository's [Issues](https://github.com/roshanjossey/first-contributions/issues) page to see if someone else has reported the same problem.
+- If you can't find an existing discussion, open a new issue describing the problem, the steps you took, and any error messages or screenshots.
+- For quick questions about the contribution workflow, check the web app help or the `docs/` folder for tutorials and guides.
+
+## License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ## Where to go from here?
 
