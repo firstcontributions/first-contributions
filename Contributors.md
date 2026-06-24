@@ -1,5 +1,6 @@
 # Contributors
 -[surajshinde](https://github.com/surajshinde9)
+- [vikalpchaudhary](https://github.com/vikalpchaudhary)
 - [Rishabh](https://github.com/Rishp-3)
 - [gh900-0624] (https://github.com/)
 - [xDatabox] (https://github.com/xdatabox)
