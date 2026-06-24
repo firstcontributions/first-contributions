@@ -53,6 +53,7 @@
 - [Anya] (https://github.com/anyatomik)
 - [Tofuhsu] (https://github.com/Tofuhsu)
 - [Dhruv] (https://github.com/dhruv-gautam-dev)
+- [Diya Shukla]
 - [Sriram] (https://github.com/SriramMagesh2008)
 - [Satya] (https://github.com/satynett)
 - [Antara] (https://github.com/Antarachive)
