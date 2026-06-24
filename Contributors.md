@@ -785,6 +785,7 @@ Aakash Gupta
 - [Josman Dev](https://github.com/jmaldama8110)
 - [Joseph Lucas (Gert)](https://github.com/Joseph-Ramon-Lucas)
 - [Joylin Mathias](https://github.com/joylinmhs)
+- [Rizwan Khan](https://github.com/mdrizwanfk)
 - [Jtoosh](https://github.com/jtoosh)
 - [Juan Caquias](https://github.com/jcaquiasjr)
 - [Julia Meneses](https://github.com/juliamenes)
