@@ -2,6 +2,7 @@
 - [Rishabh](https://github.com/Rishp-3)
 - [gh900-0624] (https://github.com/)
 - [xDatabox] (https://github.com/xdatabox)
+- [Kashish Raj](https://github.com/CodeBytesRaj)
 - [Ayush Baware](https://github.com/AyushBaware)
 - [Krishi](https://github.com/Krishi-bot)
  -[agbuddy7](https://github.com/agbuddy7)
