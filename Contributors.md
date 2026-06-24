@@ -5,6 +5,7 @@
 - [Kashish Raj](https://github.com/CodeBytesRaj)
 - [Ayush Baware](https://github.com/AyushBaware)
 - [Krishi](https://github.com/Krishi-bot)
+- [Sam](https://github.com/rosen184)
  -[agbuddy7](https://github.com/agbuddy7)
 - [Ananya](https://github.com/Ananya-dozakh-survivor)
 - [ettabihi](https://github.com/ettabihi)
