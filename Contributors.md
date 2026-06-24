@@ -1850,6 +1850,7 @@ Aakash Gupta
 - [maolaoban](https://github.com/maolaoban)
 - [noteatnina](https://github.com/noteatnina)
 - [huluganna](https://github.com/huluganna)
+- [Michael Cogan](https://github.com/mothman01)
 - [R shachin](https://github.com/Shachin717) 
 - [SubochArtem](https://github.com/SubochArtem)
 - [Fariddudin-attar](https://github.com/Fariddudin-attar)
