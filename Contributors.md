@@ -74,6 +74,7 @@
 - [Anish](https://github.com/Realmer01)
 - [Jixuan Liu](https://github.com/jixuanliu21)
 - [Priya Patel](https://github.com/Priya-Patel-08)
+- [Joshua Napiñas](https://github.com/elib00)
 - [Anya] (https://github.com/anyatomik)
 - [Anushka](https://github.com/Anushkap-lab)
 - [Raheem] (https://github.com/raheem-ui)
