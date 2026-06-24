@@ -111,7 +111,7 @@ ngganti `your-branch-name` karo jeneng cabang sing digawe sadurunge.
 - ### Kasalahan Authentication
      <pre>remote: Dhukungan kanggo otentikasi tembung sandhi wis dibusak tanggal 13 Agustus 2021. Mangga gunakake token akses pribadhi.
   remot: Mangga deleng https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ kanggo informasi luwih lengkap.
-  fatal: Otentikasi gagal kanggo 'https://github.com/<your-username>/first-contributions.git/'</pre>
+  fatal: Otentikasi gagal kanggo 'https://github.com/&lt;your-username&lt;/first-contributions.git/'</pre>
   Bukak [Github's Tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) kanggo nggawe lan ngatur kunci SSH menyang akun sampeyan.
 
   Uga, sampeyan bisa uga pengin mbukak 'git remote -v' kanggo mriksa alamat remot.
