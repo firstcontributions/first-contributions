@@ -13,6 +13,7 @@
 - [Harshini BV] (https://github.com/Harshbv)
 - [Amrit Kumar] (https://github.com/AmritKumar777)
 - [Vinod Gawande](https://github.com/VinodGawande)
+- [Adeesha Induja](https://github.com/AdeeshaInduja)
 - [Priced](https://github.com/PricedTuna)
 - [Eric Zhao](https://github.com/eericzzhao)
 -[Junaid Jamadar](https://github.com/JunaidDev20-spec)
