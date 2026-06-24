@@ -1954,3 +1954,4 @@ Gayathri Kakumanu
 - [Kian Emami](https://github.com/kianemami1394)
 - [Vivek Maddheshiya](https://github.com/vivekmaddy16)
 - [Erik Sedin](https://github.com/Eriksedin08-hue)
+- [Zanoon Hassan](https://github.com/Al-Zaytoun)
