@@ -47,6 +47,7 @@
 - [Meenu Pandey](https://github.com/Meenu-Pandey)
 - [Moon](https://github.com/Bumblebee963)
 - [oliviaSima](https://github.com/oliviaSima/)
+- [WangSJ2023](https://github.com/WangSJ2023)
 - [Yashasvi Solanki](https://github.com/Yashasvi-Solanki)
 - [Zara Syed](https://github.com/zaranet147) 
 - [Ashwinkumar K] (https://github.com/Ashwinkumar-k10)
