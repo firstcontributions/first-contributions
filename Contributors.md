@@ -1850,7 +1850,6 @@ Aakash Gupta
 - [maolaoban](https://github.com/maolaoban)
 - [noteatnina](https://github.com/noteatnina)
 - [huluganna](https://github.com/huluganna)
-- [Michael Cogan](https://github.com/mothman01)
 - [R shachin](https://github.com/Shachin717) 
 - [SubochArtem](https://github.com/SubochArtem)
 - [Fariddudin-attar](https://github.com/Fariddudin-attar)
@@ -1946,5 +1945,5 @@ Rajneesh Ganesh
 Gayathri Kakumanu
 - [Hafeez Ur Rehman](https://github.com/Hafeezurrehman-hub)
 - [Kian Emami](https://github.com/kianemami1394)
-- [Vivek Maddheshiya] (https://github.com/vivekmaddy16)
+- [Vivek Maddheshiya](https://github.com/vivekmaddy16)
 - 
