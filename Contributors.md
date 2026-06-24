@@ -1,6 +1,7 @@
 # Contributors
 -[surajshinde](https://github.com/surajshinde9)
 - [vikalpchaudhary](https://github.com/vikalpchaudhary)
+- [Khang Nguyen](https://github.com/khangnguyen04work-program)
 - [Rishabh](https://github.com/Rishp-3)
 - [gh900-0624] (https://github.com/)
 - [xDatabox] (https://github.com/xdatabox)
@@ -40,6 +41,7 @@
 -[Merrill Dmonte](https://github.com/Merrill04)
 -[Ketan Sapkal](https://github.com/ketan3)
 [Akshaya Sreleka](https://github.com/AkshayaSrelekaPS) -[hari]
+- [Popoola Ibrahim] (https://github.com/popsy208)
 - [Sazzat Hj](https://github.com/SazzatHj)
 - [ArnavGarg7](https://github.com/ArnavGarg7)
 - [Kini7686](https://github.com/Kini7686)
@@ -1600,6 +1602,7 @@ Aakash Gupta
 - [`Hojiakbarxon Olimxo'jayev`](https://github.com/Hojiakbarxon)
 - [Vinayak Saxena](https://github.com/arkhamKnight78)
 - [Deepanshu Kumar Jha](https://github.com/CppCracker11)
+- [East Schriner] (https://github.com/eastschriner)
 - [Groot Chen](https://github.com/Groot-PM)
 - [Phillippe Garado](https://github.com/Hubrisdog)
 - [Phillippe G.](https://github.com/Hubrisdog)
@@ -1947,4 +1950,4 @@ Gayathri Kakumanu
 - [Hafeez Ur Rehman](https://github.com/Hafeezurrehman-hub)
 - [Kian Emami](https://github.com/kianemami1394)
 - [Vivek Maddheshiya](https://github.com/vivekmaddy16)
-- 
+- [Erik Sedin](https://github.com/Eriksedin08-hue)
