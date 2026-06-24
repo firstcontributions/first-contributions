@@ -374,6 +374,7 @@ s# Contributors
 - [Avani J C](https://github.com/Avani24-byte)
 - [Avanish](https://github.com/satyaavanish)
 - [BrokenHardware](https://github.com/Aryan3it)
+- [Avi Pandey](https://github.com/avi2512)
 - [Avneesh](https://github.com/Avneesh26024)
 - [Sunshine](https://github.com/Sunshine1917)
 - [Aya Driouche](https://github.com/aya119119)
