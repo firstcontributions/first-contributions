@@ -10,7 +10,7 @@ Go through Contribution guidelines that have in the repository (generally Contri
 
 ### On llms, coding agents and everything marketted as AI
 
-It's best to use them as a tool for learning and not to do your workk for you.
+It's best to use them as a tool for learning and not to do your work for you.
 
 - It's best to write comments yourself. If you're copy pasting what llm generated, maitainers are communicating with llms.
 - Test things yourself, verify details yourself. llms make mistakes all the time. You don't have to parrot those mistakes.
@@ -19,7 +19,7 @@ It's best to use them as a tool for learning and not to do your workk for you.
 
 ## Specific to contributing to first-contributions
 
-1. Don't make chanages in Readme.md
+1. Don't make changes in Readme.md
 2. Take a look at our design decisions before suggesting changes https://github.com/firstcontributions/first-contributions/issues/35892.
 3. Create new branches for different changes. Checkout main branch and create new branches from there
 4. Keep pull requests small. A pull request that has one file change is way easier to review than 20 files.
