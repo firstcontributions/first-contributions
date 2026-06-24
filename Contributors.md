@@ -615,6 +615,7 @@ Aakash Gupta
 - [Fathima Siyad](https://github.com/FATHIMALEARNS)
 - [Fawaz Bello](https://github.com/Phawazz)
 - [Fei Sun](https://github.com/Fei-Sun-1996)
+- [Ravi](https://github.com/isRavi)
 - [Feizo](https://github.com/Felix-Kebaki)
 - [Felipe](https://github.com/Fredericrypto)
 - [Felipe](https://github.com/felipemv13)
