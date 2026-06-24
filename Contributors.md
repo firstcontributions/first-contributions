@@ -535,6 +535,7 @@
 - [Daniel Kuhn](https://github.com/DanielUmedaKuhn)
 - [Darshika Shrivastava](https://github.com/darshika140)
 - [Dave Herr](https://github.com/dave-herr)
+- [Daniel Alv](https://github.com/dalt-builds)
 - [Deekshith](https://github.com/Deekshith2485)
 - [Deepa Choudhary](https://github.com/Deepachoudhary24)
 - [Deepak Saini](https://github.com/deepaksaini7344-web)
