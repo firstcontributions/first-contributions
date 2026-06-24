@@ -841,6 +841,7 @@ Aakash Gupta
 - [Lily](https://github.com/lilypandey)
 - [Lim Jun Hong](https://github.com/jhjh1214)
 - [Linda Marika](https://github.com/LindaMarika)
+- [Lissie](https://github.com/liszooning)
 - [LisaM516](https://github.com/LisaM516)
 - [LiuSam](https://www.youtube.com/CommitKU)
 - [Lohith Arcot](https://github.com/LohithArcot)
@@ -1157,6 +1158,7 @@ Aakash Gupta
 - [Ryan Goods](https://github.com/feelgooddd)
 - [Ryan Lewandowski] (https://github.com/ryanlew02)
 - [Rysan Deluna aka Ryan](https://github.com/RysanDeluna)
+
 - [Saee Mane](https://github.com/saeemane05)
 - [Erfan Naseh Itabar](https://github.com/Rfannn)
 - [SAYEM](https://github.com/11UCRES)
