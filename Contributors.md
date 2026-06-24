@@ -4,6 +4,7 @@
 - [ettabihi](https://github.com/ettabihi)
 - [pixelatedkisses] (https://github.com/pixelatedkisses)
 - [Tanish] (https://github.com/tanishmisra9)
+  [kshitij] ([Kshitij](https://github.com/KshitijK21)
 - [Harshini BV] (https://github.com/Harshbv)
 - [Amrit Kumar] (https://github.com/AmritKumar777)
 - [Vinod Gawande](https://github.com/VinodGawande)
