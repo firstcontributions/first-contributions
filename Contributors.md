@@ -65,6 +65,7 @@
 -[Rohan Mulukuntla](https://github.com/mulukuntlarohan)
 - [Aum Ahuja] (https://github.com/AumAhuja)
 - [Aaron](https://github.com/Aaro2745)
+- [Felix](https://github.com/LixzyA)
 - [Anish](https://github.com/Realmer01)
 - [Jixuan Liu](https://github.com/jixuanliu21)
 - [Priya Patel](https://github.com/Priya-Patel-08)
