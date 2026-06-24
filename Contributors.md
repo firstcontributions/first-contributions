@@ -16,8 +16,7 @@
 - [Harshini BV] (https://github.com/Harshbv)
 - [Amrit Kumar] (https://github.com/AmritKumar777)
 - [Vinod Gawande](https://github.com/VinodGawande)
-- [Adeesha Induja](https://github.com/AdeeshaInduja)
-- [Priced](https://github.com/PricedTuna)
+- [Adeesha Induja](https://github.com/AdeeshaInduja)- [Priced](https://github.com/PricedTuna)
 - [Eric Zhao](https://github.com/eericzzhao)
 -[Junaid Jamadar](https://github.com/JunaidDev20-spec)
 - [Shaurya Sharma](https://github.com/shaurya-sharma123)
@@ -1941,3 +1940,4 @@ Rajneesh Ganesh
 - [ajayrajr05](https://github.com/ajayrajr05)
 - [世昌](:github.com/Cheng0710868)
 Gayathri Kakumanu
+- [Hafeez Ur Rehman](https://github.com/Hafeezurrehman-hub)
