@@ -818,6 +818,7 @@ Aakash Gupta
 - [Karri Chaitanya Pratap Reddy](https://github.com/kcprdev)
 - [Karri Saiphani Reddy](https://github.com/Saiphani1022)
 - [Karthik Kuncha](https://github.com/Karthikkuncha45)
+- [Sharan Lakshetty](https://github.com/Sharan4405)
 - [Kaushik Balaji](https://github.com/KaushikBalaji05)
 - [Kaushik Kumar](https://github.com/kaushikbargaway)
 - [Kavin](https://github.com/atomthedark)
