@@ -1110,6 +1110,7 @@ Aakash Gupta
 - [PushkarDSU2005](https://github.com/PushkarDSU2005)
 - [Biprayan Choudhuri](https://github.com/CodeNeuron58)
 - [Pygame17](https://github.com/Pygame17)
+- [Shantanu Patil](https://github.com/ShantanuPatil11)
 - [Quillenar-dev](https://github.com/Quillenar-dev)
 - [Quisim Bryant](https://github.com/quisimbryant)
 - [Qunoot Zehra](https://github.com/syeda221)
