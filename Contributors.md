@@ -386,6 +386,7 @@
 - [Ankit Singh](https://github.com/ankitsingh0913)
 - [Ankush Singh](https://github.com/whyankush07)
 - [abhiram](https://github.com/dabhiram13)
+- [Niranjan K S](https://github.com/AU-DEN)
 - [Anna Chong](https://github.com/DsharpMaj7)
 - [Anson Chen](https://github.com/zhonganchen-anson)
 - [inchoel jeon](https://github.com/peefe2)
