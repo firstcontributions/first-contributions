@@ -18,6 +18,7 @@
 - [ettabihi](https://github.com/ettabihi)
 - [pixelatedkisses] (https://github.com/pixelatedkisses)
 - [Tanish] (https://github.com/tanishmisra9)
+- [问剑白玉京](https://github.com/789wjbyj)
   [kshitij] ([Kshitij](https://github.com/KshitijK21)
 - [Harshini BV] (https://github.com/Harshbv)
 - [Amrit Kumar] (https://github.com/AmritKumar777)
@@ -1986,3 +1987,5 @@ Gayathri Kakumanu
 - [Michael Mitchell](https://github.com/michaelmitchellgodzilla-ai)
 - [LTFEHI](https://github.com/LTFEHI)
 - [Rizqi Pratama](https://github.com/rizqipratama25)
+
+- [问剑白玉京](https://github.com/789wjbyj)
