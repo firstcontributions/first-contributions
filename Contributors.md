@@ -1975,3 +1975,4 @@ Gayathri Kakumanu
 - [mirmir7095-eng](https://github.com/mirmir7095-eng)
 - [Michael Mitchell](https://github.com/michaelmitchellgodzilla-ai)
 - [LTFEHI](https://github.com/LTFEHI)
+- [Rizqi Pratama](https://github.com/rizqipratama25)
