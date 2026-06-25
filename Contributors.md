@@ -1,5 +1,6 @@
 # Contributors
 -[Rodmehr Semnani](https://github.com/rsemnani)
+-[Aarav Shah](https://github.com/aaraven99)
 -[Bhagya Shah](https://github.com/bhagyashah-dev)
 -[surajshinde](https://github.com/surajshinde9)
 - [Hemanth kumar](https://github.com/hemanthshashidhar)
