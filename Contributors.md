@@ -1992,3 +1992,4 @@ Gayathri Kakumanu
 - [Rizqi Pratama](https://github.com/rizqipratama25)
 - [问剑白玉京](https://github.com/789wjbyj)
 - [Nazar Kashpur](https://github.com/Nazar-Kashpur)
+- [Nitish Varma](https://github.com/NitishVarma45)
