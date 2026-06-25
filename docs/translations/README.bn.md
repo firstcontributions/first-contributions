@@ -96,11 +96,11 @@ git push origin -u <your-new-branch-name>
 <summary> <strong>পুশ করতে সমস্যা হলে এখানে ক্লিক করুন:</strong> </summary>
 
 - ### অথ্যানটিকেশনে সমস্যা
-     <pre>remote: পাসওয়ার্ড অথ্যানটিকেশনের সাপোর্ট আগস্ট ১৩, ২০২১ থেকে আর নেই। Personal access token ব্যাবহার করুন।
-  remote: https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ তে আরো তথ্য পাবেন।
-  fatal: Authentication failed for 'https://github.com/&lt;your-username&gt;/first-contributions.git/'</pre>
-  [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) এ আপনার একাউন্টে SSH key generation এবং configuration
-  এর আরো তথ্য পাবেন।
+<pre>remote: পাসওয়ার্ড অথ্যানটিকেশনের সাপোর্ট আগস্ট ১৩, ২০২১ থেকে আর নেই। Personal access token ব্যাবহার করুন।
+remote: https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ তে আরো তথ্য পাবেন।
+fatal: Authentication failed for 'https://github.com/&lt;your-username&gt;/first-contributions.git/'</pre>
+[GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) এ আপনার একাউন্টে SSH key generation এবং configuration
+এর আরো তথ্য পাবেন।
 
 </details>
 
