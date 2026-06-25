@@ -102,6 +102,7 @@
 - [somi seol](https://github.com/somiseol) 
 - [Kabir Ahmed](https://github.com/GrowAsguard) main
 - [Sam George]
+- [Sudhar]
 - [seungseung123](https://github.com/seungseung123)
 - [Abhishek Singh](https://github.com/Abhi13shek)
 - [Hamid Ali](https://github.com/hamidali54)
