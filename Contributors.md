@@ -114,6 +114,7 @@
 - Just a practice commit
 - [Boskele](https://github.com/Boskelero)
 - [Atulya Juyal](https://github.com/Atulya-Juyal)
+- [kadapalanikith](https://github.com/kadapalanikith)
 - [Mithulya Sandali](https://github.com/mithulya-s)
 - [Nihita Gupta](https://github.com/Nihita21/first-contributions)
 - [Harrison Mweene](https://github.com/mweene)
