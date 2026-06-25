@@ -1269,6 +1269,7 @@ Aakash Gupta
 - [Sejal Mukane](https://github.com/SejalMukane)
 - [SeojeongHong](https://github.com/SeojeongHong)
 - [Seok-jun Kang](https://github.com/KSJ27)
+- [Yuchen Zhou](https://github.com/SeRendizc)
 - [Sergiu Nicolae Brega](https://github.com/sergiubrega)
 - [Sfisnb Yu](https://github.com/Sfisnb)
 - [Shabin Francis](https://github.com/shabinfrancis)
