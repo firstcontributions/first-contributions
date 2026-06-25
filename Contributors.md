@@ -1971,6 +1971,7 @@ Rajneesh Ganesh
 - [Kavita Vidhate](https://github.com/kavitaa30)
 - [Samridhi Bhardwaj](https://github.com/samridhibhardwaj006)
 - [r-igo](https://github.com/R-IGO-PROJECT)
+- [Federico Gómez Gómez](https://github.com/Fedegogo)
 - [Nikunj Sharma](https://github.com/NikunjSharma-dev)
 - [Korey Wimberly](https://github.com/k3he1121kw)
 - [Saumya Jaiswal](https://github.com/Saumyajaiswal9794)
