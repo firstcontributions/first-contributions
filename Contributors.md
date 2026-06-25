@@ -371,6 +371,7 @@
 - [Abivarsan](https://github.com/RAbivarsan)
 - [Aboubaker Amajjou](https://github.com/P4IN444)
 - [Aclguh](https://github.com/Aclguh)
+- [Aanya Mehrotra](https://github.com/aanyamehrotra)
 - [Aditi Kumari](https://github.com/aditi-avni)
 - [Aditya Kaushik](https://github.com/AdityaK05)
 - [Adnan](https://github.com/Adnan9-63)
