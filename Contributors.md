@@ -1282,7 +1282,7 @@ Aakash Gupta
 - [Shariq Naseem](https://github.com/muhammadshariq0007)
 - [Shaurya Rawat](https://github.com/shaurya0702-droid)
 - [Sheeba S](https://github.com/SheebaSalaman)
-- [Shibi H] (https://github.com/shibi-1202)
+- [Shibi H](https://github.com/shibi-1202)
 - [Shiro60527](https://github.com/shiro60527/)
 - [Shiva Kumar](https://github.com/shiva-kumar04)
 - [Shiva Sha](https://github.com//sadla001)
