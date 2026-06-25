@@ -182,6 +182,7 @@
 - [Haarush](https://github.com/Haarush2006)
 - [stindop]
 - [Swetha Satheesh](https://github.com/Serenehue)
+- [Anshika Yadav](https://github.com/anshika494)
 - [Sathish](https://github.com/sathishreddyakepati/)
 - [Andrew-Zhang-Repository](https://github.com/Andrew-Zhang-Repository)
 - [Yuvan Vishnu Pandi](https://github.com/yuvanvishnupandi)
