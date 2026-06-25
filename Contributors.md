@@ -2,6 +2,7 @@
 -[Rodmehr Semnani](https://github.com/rsemnani)
 -[Bhagya Shah](https://github.com/bhagyashah-dev)
 -[surajshinde](https://github.com/surajshinde9)
+- [Hemanth kumar](https://github.com/hemanthshashidhar)
 - [vikalpchaudhary](https://github.com/vikalpchaudhary)
 - [Khang Nguyen](https://github.com/khangnguyen04work-program)
 - [Rishabh](https://github.com/Rishp-3)
@@ -996,6 +997,7 @@ Aakash Gupta
 - [Nishant kumar](https://github.com/nishantraj06)
 - [Nishk Mistry](https://github.com/nishkmistry)
 - [Nitish Sharma1](https://github.com/tylrx404)
+- [UTUBMIR](https://github.com/UTUBMIR) 
 - [Noah Kim](https://github.com/gratisreise)
 - [Noah Schroeder](https://github.com/nrschroeder)
 - [Noëlla Vivienne](https://github.com/noellav/)
@@ -2001,3 +2003,5 @@ Gayathri Kakumanu
 - [andrjpi](https://github.com/andrjpi)
 - [Sumaniya Sheikh](https://github.com/Sumaniya-sheikh)
 - [Madhur Dhillon]
+- [Nischal H Ameen](https://github.com/Nischalh777)
+
