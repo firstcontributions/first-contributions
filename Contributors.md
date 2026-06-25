@@ -807,6 +807,7 @@ Aakash Gupta
 - [JanosNagy](https://github.com/JaniITmer)
 - [Janosch Püschel](https://github.com/janosch-pueschel)
 - [Janvi Chetan Patel](https://github.com/JanviChetanPatel)
+- [Ojas Poswal](https://github.com/Ojas-Poswal)
 - [Janvi Prajapati](https://github.com/JanviPrajapati0210)
 - [Jashanjit Kaur](https://github.com/JashanjitKaur007)
 - [Jayant Kumar](https://github.com/cnxstine)
