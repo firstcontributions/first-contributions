@@ -126,7 +126,7 @@
 - [Nihita Gupta](https://github.com/Nihita21/first-contributions)
 - [Harrison Mweene](https://github.com/mweene)
 -[vansh](https://github.com/van5h1007)
-- [Salar Ahmed](https://github.com/salarsain)
+- [Salar Ahmed](https://github.com/salarsain) 
 - [Muhammad Hasnain](https://github.com/muhammadhasnain3031)
 - [JGGY521 ](https://github.com/JGGY521)
 - [pH-1491](https://github.com/pH-1491/first-contributions)
@@ -162,7 +162,7 @@
 - [Ruibin Zhang](https://github.com/jdhdb493)
 - [Anantha Kumar]
 - [David Brownhill]
-  praj
+- [Prashant Kumar Gouda](https://github.com/prashantkumargouda)
 - [Jas-mineWang](https://github.com/Jas-mineWang)
 - [okburkard1](https://github.com/okburkard1)
 - [Pawar Rohit](https://github.com/PawarRohit132)
