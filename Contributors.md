@@ -25,6 +25,7 @@
 - [问剑白玉京](https://github.com/789wjbyj)
   [kshitij] ([Kshitij](https://github.com/KshitijK21)
 - [Harshini BV] (https://github.com/Harshbv)
+- [Sachin Chandra Goolla] (https://github.com/SachinGoolla)
 - [Amrit Kumar] (https://github.com/AmritKumar777)
 - [Vinod Gawande](https://github.com/VinodGawande)
 - [Adeesha Induja](https://github.com/AdeeshaInduja)- [Priced](https://github.com/PricedTuna)
