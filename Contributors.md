@@ -63,6 +63,7 @@
 - [Poojitha](https://github.com/pooji-tha11)
 - [IJin511](https://github.com/IJin511)
 - [Aamir](https://github.com/AamirMNAamir)
+- [Anagha Ajesh] (https://github.com/anaajesh) 
 - [Aakash](https://github.com/aakashkadlak)
 - [Christian Perez](https://github.com/p2rez)
 - [Aarjav Patriya](https://github.com/Aarjav0p)
