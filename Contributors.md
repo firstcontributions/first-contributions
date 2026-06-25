@@ -989,6 +989,7 @@ Aakash Gupta
 - [Ozan Armagan](https://github.com/ozanpozan)
 - [Pablo Hermun](https://github.com/PabloHermun)
 - [Pablo-Lesta](https://github.com/Blito13)
+- [Paddy-Eric](https://github.com/paddyeric)
 - [Padmaraj](https://github.com/padmaraj)
 - [Paige Li](https://github.com/itspaigenli)
 - [Palak Gupta](https://github.com/palak700)
