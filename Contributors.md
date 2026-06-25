@@ -1,5 +1,6 @@
 # Contributors
 -[Rodmehr Semnani](https://github.com/rsemnani)
+-[Bhagya Shah](https://github.com/bhagyashah-dev)
 -[surajshinde](https://github.com/surajshinde9)
 - [vikalpchaudhary](https://github.com/vikalpchaudhary)
 - [Khang Nguyen](https://github.com/khangnguyen04work-program)
@@ -26,6 +27,7 @@
 -[Junaid Jamadar](https://github.com/JunaidDev20-spec)
 - [Shaurya Sharma](https://github.com/shaurya-sharma123)
 - [Dev Varshney](https://github.com/dev200413y)
+- [Mrunalraul](https://github.com/mrunalraul)
 - [Yhb1213](https://github.com/Yhb1213)\
 - [Rishika Chouhan](https://github.com/rishikachouhan075)
 - [prince91908c](https://github.com/prince91908c)
