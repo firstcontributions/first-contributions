@@ -488,6 +488,7 @@
 - [Bimal Ray](https://github.com/Bimal-ray99)
 - [Bishwa7](https://github.com/Bishwa7)
 - [Blas Sanchez](https://github.com/xbsanpan855-boop)
+- [Blazej](https://github.com/bjechna)
 - [BlueCool12](https://github.com/BlueCool12)
 - [Bluefox192](https://github.com/Bluefox192)
 - [Bobur Boboyev](https://github.com/Bobur-Boboyev)
