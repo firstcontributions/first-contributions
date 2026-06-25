@@ -1226,6 +1226,7 @@ Aakash Gupta
 - [Samarth](https://github.com/samoff04)
 - [Sami](https://github.com/SAMI-CODEAI)
 - [Samika Shokeen](https://github.com/samika692006)
+- [Callum Smith](https://github.com/SilenceOfTheLambdas)
 - [Samir Khanal](https://github.com/shawmeer)
 - [Dennis01601](https://github.com/Dennis01601)
 - [Samiul Saimon](https://github.com/samiuls25)
