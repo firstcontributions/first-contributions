@@ -94,6 +94,7 @@
 - [Diego Aquino] (https://github.com/Dalqt-27)
 - [rover-3](https://github.com/rover-3)
 - [Gauri](https://github.com/yo2005)
+- [Sumit saini](https://github.com/sumitsaini03)
 - [Sonal Priya](https://github.com/sp-codebase)
 - [Peter Pabon](https://github.com/peter-pabon/first-contributions)
 - [Pardhu-2005558](https://github.com/Pardhu-2005558)
