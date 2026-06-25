@@ -997,6 +997,7 @@ Aakash Gupta
 - [Nishant kumar](https://github.com/nishantraj06)
 - [Nishk Mistry](https://github.com/nishkmistry)
 - [Nitish Sharma1](https://github.com/tylrx404)
+- [UTUBMIR](https://github.com/UTUBMIR) 
 - [Noah Kim](https://github.com/gratisreise)
 - [Noah Schroeder](https://github.com/nrschroeder)
 - [Noëlla Vivienne](https://github.com/noellav/)
@@ -2001,3 +2002,4 @@ Gayathri Kakumanu
 - [sxodhkss-arch](https://github.com/sxodhkss-arch)
 - [andrjpi](https://github.com/andrjpi)
 - (https://github.com/FFXSTTFF)
+- [Sumaniya Sheikh](https://github.com/Sumaniya-sheikh)
