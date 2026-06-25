@@ -175,6 +175,7 @@
 - [Krishal](https://github.com/krishal-p23)
 - [IBeMWatson](https://github.com/IBeMWatson)
 - [Joe Test]
+- [Eschxr](https://github.com/Eschxr)
 - [hns dev]
 - [Brian Oliver](https://github.com/brianohh)
 - [Shivam Saini](https://github.com/Shivam-2807)
