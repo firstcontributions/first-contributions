@@ -89,6 +89,7 @@
 - [Code-Dev] (https://github.com/code-devkmd)
 - [NithinKommi] (https://github.com/KOMMINITHIN)
 - [Jyothi Kumari](https://github.com/jyothicodex)
+- [Diego Aquino] (https://github.com/Dalqt-27)
 - [rover-3](https://github.com/rover-3)
 - [Gauri](https://github.com/yo2005)
 - [Sonal Priya](https://github.com/sp-codebase)
