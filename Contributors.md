@@ -1632,6 +1632,7 @@ Aakash Gupta
 - [Kuppireddy Bhageeratha Reddy](https://github.com/kuppireddybhageerathareddy1110)
 - [Victor Toba-Ogunleye](https://github.com/TOV-003)
 - [Kyle Shi](https://github.com/kyles88)
+- [Henri Roivas](https://github.com/Ohjelmointihenkka)
 - [Stefan Stojkovic](https://github.com/Seemlinsky)
 - [Raj Nandini Soni](https://github.com/rajnandini0409)
 - [UncleWei9527](https://github.com/UncleWei9527)
