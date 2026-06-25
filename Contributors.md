@@ -1354,6 +1354,7 @@ Aakash Gupta
 - [Srishti Bhatia](https://github.com/srish0102)
 - [Sriteja01](https://github.com/Sriteja01)
 - [SRupia](https://github.com/SRupia)
+- [Halacky](https://github.com/000catania0)
 - [Stacy Hilliard](https://github.com/stacyah)
 - [StaticShepherd](https://github.com/thestaticroom)
 - [Stennis Smith](https://github.com/Stennis1)
