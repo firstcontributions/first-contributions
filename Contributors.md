@@ -565,6 +565,7 @@
 - [Dajmir LETS GOOO](https://github.com/dajmir)
 - [Dan Nguyen](https://github.com/dannguyen24)
 - [Daniel Kuhn](https://github.com/DanielUmedaKuhn)
+- [coolwent](https://github.com/coolwent)
 - [Darshika Shrivastava](https://github.com/darshika140)
 - [Dave Herr](https://github.com/dave-herr)
 - [Daniel Alv](https://github.com/dalt-builds)
