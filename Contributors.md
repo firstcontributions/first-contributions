@@ -1952,6 +1952,7 @@ Rajneesh Ganesh
 - [Taha Navidi](https://github.com/Taha-X-Dev)
 - [zrzisdouyin-hub](https://github.com/zrzisdouyin-hub)
 - [huangjun430-ctrl](https://github.com/huangjun430-ctrl)
+- [Shriya](https://github.com/Shriyaa25)
 - [Abel P Abraham](https://github.com/abelpabraham)
 - [Spandan Kumkar](https://github.com/Spandan-kumkar)
 - [Kavita Vidhate](https://github.com/kavitaa30)
