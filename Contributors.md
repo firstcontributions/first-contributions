@@ -1660,6 +1660,7 @@ Aakash Gupta
 - [zhj](https://github.com/ajajaj238)
 - [张喜昌](https://github.com/ZhangXiChang)
 - [Priyanshi Saini](https://github.com/priyanshi012)
+- [Avanti Tatwawadi](https://github.com/Avanti-27)
 - [Kuppireddy Bhageeratha Reddy](https://github.com/kuppireddybhageerathareddy1110)
 - [Victor Toba-Ogunleye](https://github.com/TOV-003)
 - [Kyle Shi](https://github.com/kyles88)
