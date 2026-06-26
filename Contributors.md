@@ -931,6 +931,7 @@ Aakash Gupta
 - [Muhammad Junaid](https://github.com/m-junaid-dev)
 - [Muhammad Habiibullah](https://github.com/habiibullahm)
 - [Muhammad Imran Butt](https://github.com/imranbuttcodes)
+- [Soumyajit Roy](https://github.com/Roy221RS)
 - [Muhammed Shareef](https://github.com/shareefmx)
 - [Mohamed Amdouni](https://github.com/mohamed-adhd)
 - [Muhsil NR](https://github.com/mhlohh)
