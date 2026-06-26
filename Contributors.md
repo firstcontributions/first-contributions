@@ -11,6 +11,7 @@
 -[Aarav Shah](https://github.com/aaraven99)
 -[Bhagya Shah](https://github.com/bhagyashah-dev)
 -[surajshinde](https://github.com/surajshinde9)
+-[Ayushi Singh](https://github.com/ayus28ayushi-ai)
 - [Hemanth kumar](https://github.com/hemanthshashidhar)
 - [Afeefa CS](https://github.com/csafeefa-alt)
 - [Adwaith S Dileep](https://github.com/adwaiithh)
