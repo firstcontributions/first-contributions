@@ -53,6 +53,7 @@
 - [Harshini BV] (https://github.com/Harshbv)
 - [Sachin Chandra Goolla] (https://github.com/SachinGoolla)
 main
+
 - [Amrit Kumar] (https://github.com/AmritKumar777)
 - [Vinod Gawande](https://github.com/VinodGawande)
 - [Adeesha Induja](https://github.com/AdeeshaInduja)- [Priced](https://github.com/PricedTuna)
@@ -108,6 +109,7 @@ main
 - [Arsan] (https://github.com/Arsan-sk)
 - [Marlon] (https://github.com/MarlonSC14)
 - [Shaurya] (https://github.com/shauryagangrade)
+- [Abhishek] (https://github.com/Abhishek371681)
 - [Elyes] (https://github.com/ElyesLaaribi)
 - [Anya] (https://github.com/anyatomik)
 - [Tofuhsu] (https://github.com/Tofuhsu)
@@ -2069,3 +2071,4 @@ Gayathri Kakumanu
 - [Shivam](https://github.com/AFRADOX)
 - Anurag
 - [Meghana V](https://github.com/meghana202003])
+-[Rahul Majumder](https://github.com/irtrahul2007-IND)
