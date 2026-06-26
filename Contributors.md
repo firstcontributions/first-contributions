@@ -2012,6 +2012,7 @@ Gayathri Kakumanu
 - [mirmir7095-eng](https://github.com/mirmir7095-eng)
 - [Michael Mitchell](https://github.com/michaelmitchellgodzilla-ai)
 - [LTFEHI](https://github.com/LTFEHI)
+- [Ann Lozich](https://github.com/alozich)
 - [Rizqi Pratama](https://github.com/rizqipratama25)
 - [问剑白玉京](https://github.com/789wjbyj)
 - [Nazar Kashpur](https://github.com/Nazar-Kashpur)
