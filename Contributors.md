@@ -63,6 +63,7 @@
 [Akshaya Sreleka](https://github.com/AkshayaSrelekaPS) -[hari]
 - [Popoola Ibrahim] (https://github.com/popsy208)
 - [Sazzat Hj](https://github.com/SazzatHj)
+- [Amina Munawar](https://github.com/AminaMunawar39)
 - [ArnavGarg7](https://github.com/ArnavGarg7)
 - [Kini7686](https://github.com/Kini7686)
 - [Darsh Agarwal](https://github.com/darshag29)
