@@ -226,6 +226,7 @@
 - [Devansh Jaiswal](https://github.com/theycallme-witty)
   [shiva](https://github.com/Saishiva3000)
 - [Vishaka30](https://github.com/Vishaka30)
+- [haru](https://github.com/haru0806)
 - [Yogendra-08](https://github.com/Yogendra-08)
 - [sachin71011](https://github.com/sachin71011)
 - [msndindi](https://github.com/msndindi) -[Saee Salunkhe](https://github.com/s4eee)
