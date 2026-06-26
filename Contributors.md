@@ -159,6 +159,7 @@ main
 - [Hamid Ali](https://github.com/hamidali54)
 - [Md Mehedi Hasan](https://github.com/pymehedi)
 - Just a practice commit
+
 - [Boskele](https://github.com/Boskelero)
 - [Atulya Juyal](https://github.com/Atulya-Juyal)
 - [kadapalanikith](https://github.com/kadapalanikith)
@@ -475,6 +476,7 @@ main
 - [Ashik Ahmed](https://github.com/trueashik)
 - [Ashish Namdeo](https://github.com/ashishnamdeo16)
 - [Ashitha T](https://github.com/Ashi-tha)
+- [Angel](https://github.com/Angel-Gupta037)
 - [Ashritha Kadarla](https://github.com/ashrithakadarla)
 - [Aurelie Raout](https://github.com/Lilousound)
 - [Samuel Pertov](https://github.com/samuelpert)
