@@ -97,6 +97,7 @@ main
 - [Kini7686](https://github.com/Kini7686)
 - [Darsh Agarwal](https://github.com/darshag29)
 - [Jeremiah Aliyese](https://github.com/ternamdoo)
+- [Kush Arora](https://github.com/kush7arora)
 - [Tiffany Iong](https://github.com/tiffanyiong)
 - [Allen](https://github.com/allennexe)
 - [Meenu Pandey](https://github.com/Meenu-Pandey)
