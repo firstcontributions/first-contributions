@@ -125,7 +125,7 @@
 - [Gaurav Mishra](https://github.com/gauravkmishra09)
 - [Stuti Jain](http://github.com/jain-stuti-437)
 - [Budati Chethana](https://github.com/Budatichethana)
-- [Dev Karan Singh](https://github.com/devkaransingh1)
+- [Dev Karan Singh.](https://github.com/devkaransingh1)
 - [Krontixz](https://github.com/Krontixz)
 - [Princy](https://github.com/Princy-y)
 - [Ayush De] (https://github.com/the-one-ayush)
