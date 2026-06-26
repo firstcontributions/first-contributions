@@ -1,4 +1,5 @@
 # Contributors
+-[Hunter Rundhaug](https://github.com/HunterRundhaug)
 -[Rodmehr Semnani](https://github.com/rsemnani)
 -[Aarav Shah](https://github.com/aaraven99)
 -[Bhagya Shah](https://github.com/bhagyashah-dev)
