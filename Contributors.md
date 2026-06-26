@@ -47,7 +47,7 @@
 - [Tanish] (https://github.com/tanishmisra9)
 - [问剑白玉京](https://github.com/789wjbyj)
   [kshitij] ([Kshitij](https://github.com/KshitijK21)
- add-my-name
+- [Manisha Govind](https://github.com/Manisha5918)
 - [Harshini BV] (https://github.com/Harshbv)  
 - [Sanjana Kumari] (https://github.com/Brownteen18)
 - [Harshini BV] (https://github.com/Harshbv)
