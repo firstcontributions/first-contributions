@@ -84,6 +84,7 @@ main
 - [Popoola Ibrahim] (https://github.com/popsy208)
 - [Sazzat Hj](https://github.com/SazzatHj)
 - [Amina Munawar](https://github.com/AminaMunawar39)
+- [Jose Ignacio Robles](https://github.com/NaRo-03)
 - [ArnavGarg7](https://github.com/ArnavGarg7)
 - [Kini7686](https://github.com/Kini7686)
 - [Darsh Agarwal](https://github.com/darshag29)
