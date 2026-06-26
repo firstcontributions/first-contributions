@@ -1,4 +1,5 @@
 # Contributors
+- [Anil Tamang] (hhtps://github.com/anil-titung-tamang)
 -[Hunter Rundhaug](https://github.com/HunterRundhaug)
 -[Rodmehr Semnani](https://github.com/rsemnani)
 -[Aarav Shah](https://github.com/aaraven99)
