@@ -12,6 +12,7 @@
 -[Bhagya Shah](https://github.com/bhagyashah-dev)
 -[surajshinde](https://github.com/surajshinde9)
 - [Hemanth kumar](https://github.com/hemanthshashidhar)
+- [Afeefa CS](https://github.com/csafeefa-alt)
 - [Adwaith S Dileep](https://github.com/adwaiithh)
 - [vikalpchaudhary](https://github.com/vikalpchaudhary)
 - [Khang Nguyen](https://github.com/khangnguyen04work-program)
