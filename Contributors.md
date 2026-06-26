@@ -2022,6 +2022,7 @@ Gayathri Kakumanu
 - [Hritik](https://github.com/devinhritik)
 - [Luka Petrovic](https://github.com/lukapetrovicwork)
 - [Kevin Gallardo](https://github.com/keevega)
+- [Kunal Gupta](https://github.com/AmanGupta1703)
 - [Yordine Chimbutane](https://github.com/yr08ii)
 - [Sarah Alsubaie](https://github.com/sarahAlsubaie-IS)
 - [futaba3](https://github.com/futaba3)
