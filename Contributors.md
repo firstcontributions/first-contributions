@@ -1127,6 +1127,7 @@ Aakash Gupta
 - [Purvi Dhiman](https://github.com/PurviDhiman1)
 - [PushkarDSU2005](https://github.com/PushkarDSU2005)
 - [Biprayan Choudhuri](https://github.com/CodeNeuron58)
+- [Nick L](https://github.com/CeHePe)
 - [Pygame17](https://github.com/Pygame17)
 - [Shantanu Patil](https://github.com/ShantanuPatil11)
 - [Quillenar-dev](https://github.com/Quillenar-dev)
