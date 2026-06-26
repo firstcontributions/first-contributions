@@ -1897,6 +1897,7 @@ Aakash Gupta
   [Vashnavi Agarwal](https://github.com/vshOps)
   [Matt](https://github.com/mattisdumb08)
 - [Jerry](https://github.com/Jerryswu0716)
+- [Vikash Chaurasia](https://github.com/sgateVikash)
 - [Gaurav Verma](https://github.com/GauravVerma789)
 - [Aksad](https://github.com/Aksadio)
 - [shivamsinha02](https://github.com/shivamsinha02)
