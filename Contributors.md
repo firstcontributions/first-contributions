@@ -2054,6 +2054,7 @@ Gayathri Kakumanu
 - [Sumaniya Sheikh](https://github.com/Sumaniya-sheikh)
 - [Madhur Dhillon]
 - [Nischal H Ameen](https://github.com/Nischalh777)
+- [Eric Johnson](https://github.com/OrangeTango101)
 - [Hritik](https://github.com/devinhritik)
 - [Luka Petrovic](https://github.com/lukapetrovicwork)
 - [Kevin Gallardo](https://github.com/keevega)
