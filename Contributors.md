@@ -75,6 +75,7 @@ main
 -[S Jaya Pradeep](https://github.com/JPisOP007)
 - [Mohamed-Sherif](https://github.com/M0hamedXSherif)
 - [Snehan S](https://github.com/snehanofficial)
+- [Thejas Shetty](https://github.com/thejasshetty05)
 -  [Vedant S. Kadam](https://github.com/vedant331)
 - [Mr-Zulki](https://github.com/Mr-Zulki/)
 -[kaurharleen21](https://github.com/KaurHarleen21)
