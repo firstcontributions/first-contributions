@@ -17,7 +17,7 @@
 - [Afeefa CS](https://github.com/csafeefa-alt)
 - [Adwaith S Dileep](https://github.com/adwaiithh)
 - [Ashi Verma](https://github.com/Ashi-Verma1758)
-
+- [Prathamesh Jadhav](https://github.com/prathameshjadhav22)
 - [vikalpchaudhary](https://github.com/vikalpchaudhary)
 - [Khang Nguyen](https://github.com/khangnguyen04work-program)
 - [Rishabh](https://github.com/Rishp-3)
@@ -47,12 +47,13 @@
 - [Tanish] (https://github.com/tanishmisra9)
 - [问剑白玉京](https://github.com/789wjbyj)
   [kshitij] ([Kshitij](https://github.com/KshitijK21)
- add-my-name
+- [Manisha Govind](https://github.com/Manisha5918)
 - [Harshini BV] (https://github.com/Harshbv)  
 - [Sanjana Kumari] (https://github.com/Brownteen18)
 - [Harshini BV] (https://github.com/Harshbv)
 - [Sachin Chandra Goolla] (https://github.com/SachinGoolla)
 main
+
 - [Amrit Kumar] (https://github.com/AmritKumar777)
 - [Vinod Gawande](https://github.com/VinodGawande)
 - [Adeesha Induja](https://github.com/AdeeshaInduja)- [Priced](https://github.com/PricedTuna)
@@ -75,6 +76,7 @@ main
 -[S Jaya Pradeep](https://github.com/JPisOP007)
 - [Mohamed-Sherif](https://github.com/M0hamedXSherif)
 - [Snehan S](https://github.com/snehanofficial)
+- [Thejas Shetty](https://github.com/thejasshetty05)
 -  [Vedant S. Kadam](https://github.com/vedant331)
 - [Mr-Zulki](https://github.com/Mr-Zulki/)
 -[kaurharleen21](https://github.com/KaurHarleen21)
@@ -2054,6 +2056,7 @@ Gayathri Kakumanu
 - [Sumaniya Sheikh](https://github.com/Sumaniya-sheikh)
 - [Madhur Dhillon]
 - [Nischal H Ameen](https://github.com/Nischalh777)
+- [Eric Johnson](https://github.com/OrangeTango101)
 - [Hritik](https://github.com/devinhritik)
 - [Luka Petrovic](https://github.com/lukapetrovicwork)
 - [Kevin Gallardo](https://github.com/keevega)
@@ -2065,5 +2068,4 @@ Gayathri Kakumanu
 - [Jiahang Liu](https://github.com/LJH-apk)
 - [Adil](https://github.com/meadil)
 - [Shivam](https://github.com/AFRADOX)
-- Anurag
 -[Rahul Majumder](https://github.com/irtrahul2007-IND)
