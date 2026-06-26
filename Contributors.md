@@ -1,6 +1,6 @@
 # Contributors
 - GH900_27 (https://github.com/)
-- [Anil Tamang] (hhtps://github.com/anil-titung-tamang)
+- [Anil Tamang] (https://github.com/anil-titung-tamang)
 - [gh900-062601](https://github.com/)
 - [gh900-062622](https://github.com/)
 
