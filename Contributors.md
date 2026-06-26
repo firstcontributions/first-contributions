@@ -16,6 +16,8 @@
 - [Hemanth kumar](https://github.com/hemanthshashidhar)
 - [Afeefa CS](https://github.com/csafeefa-alt)
 - [Adwaith S Dileep](https://github.com/adwaiithh)
+- [Ashi Verma](https://github.com/Ashi-Verma1758)
+
 - [vikalpchaudhary](https://github.com/vikalpchaudhary)
 - [Khang Nguyen](https://github.com/khangnguyen04work-program)
 - [Rishabh](https://github.com/Rishp-3)
