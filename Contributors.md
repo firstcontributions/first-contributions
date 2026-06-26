@@ -29,6 +29,7 @@
 - [agbuddy7](https://github.com/agbuddy7)
 - [Ananya](https://github.com/Ananya-dozakh-survivor)
 - [Atharv](https://github.com/atharvtrynacode)
+- [Lewis wege](https://github.com/lewiswege)
 - -[Anas Nadeem](https://github.com/AnassNadeem)
 - [ettabihi](https://github.com/ettabihi)
 - [pixelatedkisses] (https://github.com/pixelatedkisses)
