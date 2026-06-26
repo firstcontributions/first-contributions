@@ -15,6 +15,7 @@
 - [vikalpchaudhary](https://github.com/vikalpchaudhary)
 - [Khang Nguyen](https://github.com/khangnguyen04work-program)
 - [Rishabh](https://github.com/Rishp-3)
+- [Divyansh Chandel](https://github.com/Divyansh0410-svg)
 - [gh900-0624] (https://github.com/)
 - [gh900-0626-18] (https://github.com/)
 - [Minh Pham] (https://github.com/tuanminh130707-create)
