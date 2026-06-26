@@ -24,6 +24,7 @@
 - [Ayush Baware](https://github.com/AyushBaware)
 - [Akanksha Dwivedi](https://github.com/Akanksha-1708)
 - [Krishi](https://github.com/Krishi-bot)
+- [Affan](https://github.com/)
 - [Sam](https://github.com/rosen184)
 - [gh900-1312] (https://github.com/)
 - [agbuddy7](https://github.com/agbuddy7)
