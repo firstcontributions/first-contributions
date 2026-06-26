@@ -42,8 +42,12 @@
 - [Tanish] (https://github.com/tanishmisra9)
 - [问剑白玉京](https://github.com/789wjbyj)
   [kshitij] ([Kshitij](https://github.com/KshitijK21)
+ add-my-name
+- [Harshini BV] (https://github.com/Harshbv)  
+- [Sanjana Kumari] (https://github.com/Brownteen18)
 - [Harshini BV] (https://github.com/Harshbv)
 - [Sachin Chandra Goolla] (https://github.com/SachinGoolla)
+main
 - [Amrit Kumar] (https://github.com/AmritKumar777)
 - [Vinod Gawande](https://github.com/VinodGawande)
 - [Adeesha Induja](https://github.com/AdeeshaInduja)- [Priced](https://github.com/PricedTuna)
