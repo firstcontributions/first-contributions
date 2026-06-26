@@ -2068,5 +2068,4 @@ Gayathri Kakumanu
 - [Jiahang Liu](https://github.com/LJH-apk)
 - [Adil](https://github.com/meadil)
 - [Shivam](https://github.com/AFRADOX)
-- Anurag
-- [Ayushi Tripathi](https://github.com/Ayushitripathi110505)
+-[Rahul Majumder](https://github.com/irtrahul2007-IND)
