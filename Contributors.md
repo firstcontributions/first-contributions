@@ -880,6 +880,7 @@ Aakash Gupta
 - [Juan Caquias](https://github.com/jcaquiasjr)
 - [Julia Meneses](https://github.com/juliamenes)
 - [Julianne Tomlinson](https://github.com/JewlzT)
+- [Pooja] (https://github.com/pd2025)
 - [JulianoCLI](https://github.com/JulianoCLI)
 - [Junior-2103](https://github.com/Junior-2103)
 - [Iamkobie](https://github.com/Iamkobie)
