@@ -53,6 +53,7 @@
 - [Harshini BV] (https://github.com/Harshbv)
 - [Sachin Chandra Goolla] (https://github.com/SachinGoolla)
 main
+
 - [Amrit Kumar] (https://github.com/AmritKumar777)
 - [Vinod Gawande](https://github.com/VinodGawande)
 - [Adeesha Induja](https://github.com/AdeeshaInduja)- [Priced](https://github.com/PricedTuna)
@@ -2068,3 +2069,4 @@ Gayathri Kakumanu
 - [Adil](https://github.com/meadil)
 - [Shivam](https://github.com/AFRADOX)
 - Anurag
+- [Ayushi Tripathi](https://github.com/Ayushitripathi110505)
