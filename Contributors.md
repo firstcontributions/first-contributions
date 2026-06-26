@@ -1820,6 +1820,7 @@ Aakash Gupta
 - [Vashnavi Agarwal](https://github.com/vshOps)
 - [Lily Sam](https://github.com/oforiwaasam)
 - [meeki34](https://github.com/meeki34)
+- [yGuox](https://github.com/yGuox)
 - [Luisa](https://github.com/LuoisaWu)
 - [Kuba](https://github.com/ImmaShinee)
 - [Mariana Valente](https://github.com/eusoumarianavalente-stack)
