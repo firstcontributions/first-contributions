@@ -2012,7 +2012,7 @@ Rajneesh Ganesh
 - [Hema G](https://github.com/hemag111)
 - [Avani Halbe](https://github.com/avani2518)
 - [Ayse Ciftci](https://github.com/aysenurcftc)
-
+- [Timothy Tan](https://github.com/tlmotan)
 - [Adrià](https://github.com/aBegiri)
 - [harish](https://github.com/harish18chappati)
 - [Evans Njenga](https://github.com/JustTrying652)
