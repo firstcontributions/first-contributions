@@ -2082,3 +2082,4 @@ Gayathri Kakumanu
 -[Rahul Majumder](https://github.com/irtrahul2007-IND)
 - [Akash Khatri](https://github.com/AkashKhatri-codes)
 - [Mojtaba Zarreh](https://github.com/MojtabaZarreh)
+- [Afrinz](https://github.com/afrinz1)
