@@ -1850,6 +1850,7 @@ Aakash Gupta
 - [JesusROvr] (https://github.com/JesusROvr)
 - [Utkersh Pandyaa](https://github.com/utk-dev)
 - [Vashnavi Agarwal](https://github.com/vshOps)
+- [Chinmay Bhat](https://github.com/Chinmay-23-cpu)
 - [Lily Sam](https://github.com/oforiwaasam)
 - [meeki34](https://github.com/meeki34)
 - [yGuox](https://github.com/yGuox)
