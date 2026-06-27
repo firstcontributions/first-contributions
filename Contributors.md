@@ -1,4 +1,5 @@
 # Contributors
+- [Anil Tamang] (hhtps://github.com/anil-titung-tamang)
 - [Harshita](https://github.com/Hershita-debug)
 - [Manya Parikh](https://github.com/Manya2302)
 - [Love Chauhan](https://github.com/chauhanlove271)
@@ -52,8 +53,7 @@
 - [vigin pv](https://github.com/vigin-pv)
 - [Affan](https://github.com/)
 - [Sam](https://github.com/rosen184)
-- [gh900-1312] (https://github.com/)
-- [agbuddy7](https://github.com/agbuddy7)
+ -[agbuddy7](https://github.com/agbuddy7)
 - [Ananya](https://github.com/Ananya-dozakh-survivor)
 - [Atharv](https://github.com/atharvtrynacode)
 - [Lewis wege](https://github.com/lewiswege)
