@@ -126,6 +126,7 @@ main
 -[Maniya Nehal](https://github.com/ManiyaNehal19)
 -[Aryaman Suri](https://github.com/aryamansuri)
 -[Lavanya](https://github.com/lavanyabr17-alt)
+-[Vaishak S](https://github.com/0x76hack)
 -[Yee-28006](https://github.com/Yee-28006)
 -[Rohan Mulukuntla](https://github.com/mulukuntlarohan)
 -[Abner A Rahim](https://github.com/Abner-source)
