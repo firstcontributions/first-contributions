@@ -1,6 +1,7 @@
 # Contributors
 - [Ayaz Ahmad](https://github.com/Ayazahmad01)
 - GH900_27 (https://github.com/)
+- Dev karan singh chandel
 - [Anil Tamang] (https://github.com/anil-titung-tamang)
 - [gh900-062601](https://github.com/)
 - [gh900-062622](https://github.com/)
@@ -2086,7 +2087,10 @@ Gayathri Kakumanu
 - [Akash Khatri](https://github.com/AkashKhatri-codes)
 - [Mojtaba Zarreh](https://github.com/MojtabaZarreh)
 - [Punith](https://github.com/anjan0546)
-- [Samuel Janring Sitio](https://github.com/samueljanringsitio)
+- [Samuel Janring Sitio](https://github.com/samueljanringsitio) - Indonesia 🇮🇩
 - [Shahir](https://github.com/shahir55312-collab)
+<<<<<<< HEAD
 main
 [Harsh Panchal](https://github.com/harry-34)
+=======
+>>>>>>> upstream/main
