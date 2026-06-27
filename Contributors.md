@@ -2101,3 +2101,4 @@ Gayathri Kakumanu
 - [Samuel Janring Sitio](https://github.com/samueljanringsitio) - Indonesia 🇮🇩
 - [Shahir](https://github.com/shahir55312-collab)
 - [Mounish-tatipigari] 
+- [Giovanni](https://github.com/giovanni473-afk)
