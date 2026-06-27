@@ -1521,6 +1521,7 @@
 - [Palak Gupta](https://github.com/palak22291)
 - main
 - [Pushty Jha](https://github.com/pushtyjha-blip)
+- [ADOUABOU Appolinaire](https://github.com/Appolinaire226)
 - [Andy Ron](https://github.com/andyRon)
 - [Nithyasri77] (https://github.com/Nithyasri77)
 - [Karthik Sai](https://github.com/karthiksai15)
