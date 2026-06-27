@@ -552,6 +552,7 @@ main
 - [Mohamed Anes](https://github.com/Mohamed-Anes)
 - [Bhavesh Gajengi](https://github.com/BhaveshGajengi1)
 - [Bhoomika Jain](https://github.com/Bhoomika-iitm)
+- [r05t02](https://github.com/r05t02)
 - [Bhumi](https://github.com/bhumiks08)
 - [Bhupesh Cholake](https://github.com/RealBhupesh)
 - [Bhuwan singh](https://github.com/Bhuwan9818)
