@@ -1,4 +1,5 @@
 # Contributors
+- [Harshita](https://github.com/Hershita-debug)
 - [Manya Parikh](https://github.com/Manya2302)
 - [Love Chauhan](https://github.com/chauhanlove271)
 - [Ayaz Ahmad](https://github.com/Ayazahmad01)
