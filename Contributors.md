@@ -1074,6 +1074,7 @@ Aakash Gupta
 - [Om Chandwani](https://github.com/omch-29)
 - [Om Chauhan](https://github.com/omm-prog)
 - [Om Singh](https://github.com/Singh-OmDev)
+- [Afroj](https://github.com/lifeaboutgreatgift)
 - [Omadbek UZB](https://github.com/Zenitsu-Yegr/)
 - [Alefe](https://github.com/zcom2503-art)
 - [Omkar Ala](https://github.com/omkarala)
@@ -2068,6 +2069,8 @@ Gayathri Kakumanu
 - [LTFEHI](https://github.com/LTFEHI)
 - [Ann Lozich](https://github.com/alozich)
 - [Rizqi Pratama](https://github.com/rizqipratama25)
+
+- [问剑白玉京](https://github.com/789wjbyj)
 - [问剑白玉京](https://github.com/789wjbyj)
 - [Nazar Kashpur](https://github.com/Nazar-Kashpur)
 - [sxodhkss-arch](https://github.com/sxodhkss-arch)
