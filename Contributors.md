@@ -299,6 +299,7 @@ main
 - [TusharAmbast](https://github.com/TusharAmbast)
 - [zxy010666-byte](https://github.com/zxy010666-byte)
 - [Nathan-Bezabeh](https://github.com/nati2405)
+- [Lazzaro11]
 - [Priyanshu](https://github.com/Priyanshu1x)
 - [Sirajer]
 - [Kapil Krishna Yadav](https://github.com/Kapilkrishnayadav/first-contributions)
