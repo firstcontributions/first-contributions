@@ -1,6 +1,7 @@
 # Contributors
 - [Ayaz Ahmad](https://github.com/Ayazahmad01)
 - GH900_27 (https://github.com/)
+- Himansh Solanki
 - Dev karan singh chandel
 - [KimsunLy](https://github.com/Kimsunly)
 - [Anil Tamang] (https://github.com/anil-titung-tamang)
