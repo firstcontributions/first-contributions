@@ -1966,9 +1966,8 @@ Aakash Gupta
 - [mrmoinshaikh](https://github.com/mrmoinshaikh)
 - [Kusum Kataria](https://github.com/Kusumkatariaa)
 - [Samiullah Syed Hussain](https://github.com/funistic25)
-
 - [Furqan Hameed Karim](https://github.com/FurqanHKarim)
-
+- [Saqib Cheema](https://github.com/saqibcheema)
 - [Yadav Aditya](https://github.com/Aditya-acesun)
 - [finalskiller](https://github.com/finalskiller)
 - [Gowthami-bot](https://github.com/Gowthami-bot)
@@ -2067,6 +2066,7 @@ Gayathri Kakumanu
 - [sxodhkss-arch](https://github.com/sxodhkss-arch)
 - [andrjpi](https://github.com/andrjpi)
 - [Sumaniya Sheikh](https://github.com/Sumaniya-sheikh)
+- [Saqib Cheema](https://github.com/saqibcheema)
 - [Madhur Dhillon]
 - [Nischal H Ameen](https://github.com/Nischalh777)
 - [Eric Johnson](https://github.com/OrangeTango101)
