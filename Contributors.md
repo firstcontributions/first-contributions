@@ -1,4 +1,5 @@
 # Contributors
+- [Manya Parikh](https://github.com/Manya2302)
 - [Love Chauhan](https://github.com/chauhanlove271)
 - [Ayaz Ahmad](https://github.com/Ayazahmad01)
 - GH900_27 (https://github.com/)
