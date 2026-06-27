@@ -1682,6 +1682,7 @@ Aakash Gupta
 - [s4d0x-dev](https://github.com/s4d0x-dev)
 - [salilnarvekar03](https://github.com/salilnarvekar03)
 - [sysrecall](https://github.com/sysrecall)
+- [Nikhil B](https://github.com/Xennonite)
 - [prabhat dubey](https://github.com/prabhat-eth-gif)
 - [test](https://github.com/test)
 - [twin-im-crine](https://github.com/twin-im-crine)
