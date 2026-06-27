@@ -2082,6 +2082,7 @@ Gayathri Kakumanu
 - [Nischal H Ameen](https://github.com/Nischalh777)
 - [Eric Johnson](https://github.com/OrangeTango101)
 - [Hritik](https://github.com/devinhritik)
+- [Ajish](https://github.com/AjishJ)
 - [Luka Petrovic](https://github.com/lukapetrovicwork)
 - [Kevin Gallardo](https://github.com/keevega)
 - [Kunal Gupta](https://github.com/AmanGupta1703)
