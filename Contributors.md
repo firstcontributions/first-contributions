@@ -1,6 +1,7 @@
 # Contributors
 - [Ayaz Ahmad](https://github.com/Ayazahmad01)
 - GH900_27 (https://github.com/)
+- Dev karan singh chandel
 - [Anil Tamang] (https://github.com/anil-titung-tamang)
 - [gh900-062601](https://github.com/)
 - [gh900-062622](https://github.com/)
