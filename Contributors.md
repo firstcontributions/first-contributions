@@ -31,6 +31,7 @@
 - [Rishabh](https://github.com/Rishp-3)
 - [Sifamol M N](https://github.com/shifamn7-cpu)
 - [Divyansh Chandel](https://github.com/Divyansh0410-svg)
+- [Pallavi Rawal](https://github.com/PallaviRawal)
 - [gh900-0624] (https://github.com/)
 - [gh900-0626-18] (https://github.com/)
 - [ayan_dev] (https://github.com/ayandevofficial)
