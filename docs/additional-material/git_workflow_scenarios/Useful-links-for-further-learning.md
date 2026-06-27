@@ -13,9 +13,9 @@ This document is dedicated to all the tips and tricks websites, blog posts, and 
 8. [Basics of Git - The Simple Quick Start Guide](https://blog.praveen.science/basics-of-git-the-quick-start-guide/)
 9. [Git Standards followed in our way of Spotify Agile Methodology](https://blog.praveen.science/git-standards-followed-in-our-way-of-spotify-agile-methodolgy/)
 10. [Git Shortcuts](https://blog.praveen.science/git-shortcuts/)
-11.  [GitHub training resources](https://docs.github.com/en/get-started/learning-about-github/git-and-github-learning-resources)
-12.  [Git cheat sheet from Tower](https://www.git-tower.com/learn/cheat-sheets/git)
-13.  [Common Git Problems](https://www.codementor.io/citizen428/git-tutorial-10-common-git-problems-and-how-to-fix-them-aajv0katd)
+11. [GitHub training resources](https://docs.github.com/en/get-started/learning-about-github/git-and-github-learning-resources)
+12. [Git cheat sheet from Tower](https://www.git-tower.com/learn/cheat-sheets/git)
+13. [Common Git Problems](https://www.codementor.io/citizen428/git-tutorial-10-common-git-problems-and-how-to-fix-them-aajv0katd) [Link Broken]
 14. [Git Rebase — an illustrated guide (Atlassian)](https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase)
 15. [Beginner's Guide to Rebasing and Squashing](https://github.com/servo/servo/wiki/Beginner%27s-guide-to-rebasing-and-squashing)
 16. [Git Cheatsheet that shows correlations between commands and files](https://ndpsoftware.com/git-cheatsheet.html)
