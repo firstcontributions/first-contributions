@@ -244,6 +244,7 @@ main
 - [Kishore](https://github.com/Kishore-pv)
 - [Haarush](https://github.com/Haarush2006)
 - [stindop]
+- [mika943](https://github.com/mika943)
 - [Swetha Satheesh](https://github.com/Serenehue)
 - [Anshika Yadav](https://github.com/anshika494)
 - [Sathish](https://github.com/sathishreddyakepati/)
