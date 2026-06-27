@@ -30,6 +30,7 @@
 - [gh900-0624] (https://github.com/)
 - [gh900-0626-18] (https://github.com/)
 - [ayan_dev] (https://github.com/ayandevofficial)
+- [Ayush Dharaiya] (https://github.com/Ayush2029)
 - [Minh Pham] (https://github.com/tuanminh130707-create)
 - [xDatabox] (https://github.com/xdatabox)
 - [Pratyusha] (https://github.com/PratyushaM09)
