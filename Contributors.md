@@ -1,5 +1,4 @@
 # Contributors
-- [Anil Tamang] (hhtps://github.com/anil-titung-tamang)
 - [Harshita](https://github.com/Hershita-debug)
 - [Manya Parikh](https://github.com/Manya2302)
 - [Love Chauhan](https://github.com/chauhanlove271)
@@ -2118,4 +2117,3 @@ Gayathri Kakumanu
 - [Giovanni](https://github.com/giovanni473-afk)
 - [Sakshi Borse](https://github.com/SakshiBorsepatil-123)
 - [Muskan Gupta](https://github.com/Muskan-gupta2118)
--[Komal Jha](https://github.com/Komaljha1504
