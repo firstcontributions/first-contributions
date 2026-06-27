@@ -24,6 +24,7 @@
 - [Hemanth kumar](https://github.com/hemanthshashidhar)
 - [Afeefa CS](https://github.com/csafeefa-alt)
 - [Adwaith S Dileep](https://github.com/adwaiithh)
+- [Jaimz](https://github.com/jaimzh) 
 - [Ashi Verma](https://github.com/Ashi-Verma1758)
 - [Prathamesh Jadhav](https://github.com/prathameshjadhav22)
 - [vikalpchaudhary](https://github.com/vikalpchaudhary)
