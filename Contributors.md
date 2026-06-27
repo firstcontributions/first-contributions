@@ -1,4 +1,5 @@
 # Contributors
+- [Ashwin Yadav](https://github.com/Ashwin-yadav24)
 - [Harshita](https://github.com/Hershita-debug)
 - [Manya Parikh](https://github.com/Manya2302)
 - [Love Chauhan](https://github.com/chauhanlove271)
@@ -2115,4 +2116,4 @@ Gayathri Kakumanu
 - [Giovanni](https://github.com/giovanni473-afk)
 - [Sakshi Borse](https://github.com/SakshiBorsepatil-123)
 - [Muskan Gupta](https://github.com/Muskan-gupta2118)
-- [Ashwin Yadav](https://github.com/Ashwin-yadav24)
+
