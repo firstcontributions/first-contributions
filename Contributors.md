@@ -2094,6 +2094,7 @@ Gayathri Kakumanu
 
 - [问剑白玉京](https://github.com/789wjbyj)
 - [问剑白玉京](https://github.com/789wjbyj)
+- [starrism-yan](https://github.com/starrism-yan)
 - [一盒子饭](https://github.com/BOxFaNXA)
 - [StarX](https://github.com/s-tar-d)
 - [Nazar Kashpur](https://github.com/Nazar-Kashpur)
