@@ -2046,6 +2046,7 @@ Gayathri Kakumanu
 - [Ann Lozich](https://github.com/alozich)
 - [Rizqi Pratama](https://github.com/rizqipratama25)
 - [问剑白玉京](https://github.com/789wjbyj)
+StarX
 - [Nazar Kashpur](https://github.com/Nazar-Kashpur)
 - [sxodhkss-arch](https://github.com/sxodhkss-arch)
 - [andrjpi](https://github.com/andrjpi)
