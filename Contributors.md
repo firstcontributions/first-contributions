@@ -2100,7 +2100,7 @@ Gayathri Kakumanu
 - [LTFEHI](https://github.com/LTFEHI)
 - [Ann Lozich](https://github.com/alozich)
 - [Rizqi Pratama](https://github.com/rizqipratama25)
-
+- [qwx](https://github.com/qwxiae)
 - [问剑白玉京](https://github.com/789wjbyj)
 - [问剑白玉京](https://github.com/789wjbyj)
 - [starrism-yan](https://github.com/starrism-yan)
