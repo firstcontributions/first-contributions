@@ -16,6 +16,7 @@
 - [Akshat Lal](https://github.com/lal-akshat)
 -am
 张三李四
+-[Piyush Thote](https://github.com/piyush-thote0867)
 -[Hunter Rundhaug](https://github.com/HunterRundhaug)
 -[GH900 062606] (https://github.com/)
 -[Rodmehr Semnani](https://github.com/rsemnani)
@@ -50,6 +51,7 @@
 - [Anshuman] (https://github.com/AnshumanTri)
 - [Kashish Raj](https://github.com/CodeBytesRaj)
 - [Ayush Baware](https://github.com/AyushBaware)
+- [Gopal Krishna](https://github.com/)
 - [Akanksha Dwivedi](https://github.com/Akanksha-1708)
 - [Krishi](https://github.com/Krishi-bot)
 - [vigin pv](https://github.com/vigin-pv)
@@ -236,6 +238,7 @@ main
 - [cheems](https://github.com/cheems908)
 - [root-kcalb]
 - [Krishna](https://github.com/krish-na-m)
+  [Prashant Maurya](https://github.com/PrashantMaurya007)
 - [marco]
 - [M Haseeb AHsan] (https://github.com/haseeb0077)
 - [Ritesh-mishraa] (https://github.com/Ritesh-mishraa)
@@ -2127,4 +2130,8 @@ Gayathri Kakumanu
 - [Takakura Anzu](https://github.com/takakura-anzu)
 - [Valeria Guerrero](https://github.com/ValeriaGuerreroTR)
 - [Akansha Gore](https://github.com/Akanshagore)   
+- [Krish Yadav](https://github.com/krshydv)
+- [Tchirek](https://github.com/Tchirek)
+- [AMOGH K](htps://github.com/amoghkrrish)
+
 
