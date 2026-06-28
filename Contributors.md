@@ -2151,3 +2151,4 @@ Gayathri Kakumanu
 - [Asmita Waghule](https://github.com/WaghuleAsmita)
 - [Laszlo Dus](https://github.com/laszlodus)
 - [Kesiena Micah Irikefe](https://github.com/DevTechMike-Coder)
+- [Giorgio Russek](https://github.com/giorgiorussek-sketch)
