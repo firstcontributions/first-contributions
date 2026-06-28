@@ -154,6 +154,7 @@ main
 -[Abner A Rahim](https://github.com/Abner-source)
 -[Jaume Torra](https://github.com/JaumeTorra)
 - [Aum Ahuja] (https://github.com/AumAhuja)
+- [Sam Bradley] (https://github.com/SamBradley2024)
 - [Aaron](https://github.com/Aaro2745)
 - [Felix](https://github.com/LixzyA)
 - [Anish](https://github.com/Realmer01)
