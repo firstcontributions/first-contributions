@@ -2144,3 +2144,4 @@ Gayathri Kakumanu
 - [FishgameStudio](https://github.com/FishgameStudio)
 - [Rajat Semwal](https://github.com/rsemwal1711)
 - [Asmita Waghule](https://github.com/WaghuleAsmita)
+- [Laszlo Dus](https://github.com/laszlodus)
