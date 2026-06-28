@@ -2126,3 +2126,5 @@ Gayathri Kakumanu
 - [Perry Tan](https://github.com/casualwarfare-wq)
 - [Takakura Anzu](https://github.com/takakura-anzu)
 - [Valeria Guerrero](https://github.com/ValeriaGuerreroTR)
+- [Akansha Gore](https://github.com/Akanshagore)   
+
