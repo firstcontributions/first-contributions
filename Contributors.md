@@ -2,6 +2,7 @@
 - [Harshita](https://github.com/Hershita-debug)
 - [Dembo Jatta](https://github.com/Demzi1)
 - [Manya Parikh](https://github.com/Manya2302)
+- [Nitin] (https://github.com/nitin3150)
 - [Love Chauhan](https://github.com/chauhanlove271)
 - [Ayaz Ahmad](https://github.com/Ayazahmad01)
 - GH900_27 (https://github.com/)
