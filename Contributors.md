@@ -1862,6 +1862,7 @@ Aakash Gupta
 - [Ujawala Sinha](https://github.com/Ujawala10)
 - [Signal-zxh](https://github.com/Signal-zxh)
 - - [Nishant Kumar- MERN Stack Developer](https://github.com/Nishant-codemm)
+- [Simarpreet Singh](https://github.com/Sim20004)
 - - [Nishant Kumar](https://github.com/Nishant-codemm)
 - [Gaurav Patil](https://github.com/Predator-888)
 - [SHAURYA GUPTA](https://github.com/Shauryagupta4)
@@ -1913,7 +1914,7 @@ Aakash Gupta
 - Vidya
 - [Alsa](https://github.com/alsaahmad)
 - [Shoki Miyashita](https://github.com/toitoitoitoitoi)
-- [Sravan] (https://github.com/Sravan-3)
+- [Sravan] (https://github.qcom/Sravan-3)
 - [bhaveshbanshiwal](https://github.com/bhaveshbanshiwal)
 - [Sarika Chaudhary] (https://github.com/SarikaChaudhary18)
 - [Sarika Chaudhary](https://github.com/SarikaChaudhary18)
