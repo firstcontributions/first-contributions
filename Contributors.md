@@ -2093,6 +2093,7 @@ Gayathri Kakumanu
 
 - [问剑白玉京](https://github.com/789wjbyj)
 - [问剑白玉京](https://github.com/789wjbyj)
+- [StarX](https://github.com/s-tar-d)
 - [Nazar Kashpur](https://github.com/Nazar-Kashpur)
 - [sxodhkss-arch](https://github.com/sxodhkss-arch)
 - [andrjpi](https://github.com/andrjpi)
