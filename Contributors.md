@@ -1282,6 +1282,7 @@ Zarasalim
 - [soumya yadav](https://github.com/yadavsoumya)
 - [Nabeel Azard](https://github.com/na2099)
 - [Vishwesh RJ](https://github.com/vishweshrj)
+- Omar Ortiz
  [dayaa-hash](https://github.com/dayaa-hash)
 - [Prerana-Sodankoor](https://github.com/Prerana-Sodankoor)
 - [GilasR-i](https://github.com/GilasR-i)
