@@ -701,6 +701,7 @@ Aakash Gupta
 - [Dzmitry Mukhin](https://github.com/divmone)
 - [EAyinomba](https://github.com/Jxt-Eli)
 - [EB](https://github.com/boranj)
+- [Eddie L.](https://github.com/eddielin978)
 - [Esther-ww](https://github.com/Esther-ww)
 - [EGBO NNAEMEKA CYPRIAN](https://github.com/chiefEGBO)
 - [ETAModder](https://github.com/ETAModder)
