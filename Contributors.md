@@ -50,6 +50,7 @@
 - [Anshuman] (https://github.com/AnshumanTri)
 - [Kashish Raj](https://github.com/CodeBytesRaj)
 - [Ayush Baware](https://github.com/AyushBaware)
+- [Gopal Krishna](https://github.com/)
 - [Akanksha Dwivedi](https://github.com/Akanksha-1708)
 - [Krishi](https://github.com/Krishi-bot)
 - [vigin pv](https://github.com/vigin-pv)
