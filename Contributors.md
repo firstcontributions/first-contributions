@@ -2130,11 +2130,4 @@ Aakash Gupta
 - [Bisti Ghosh](https://github.com/bistighosh16)
   = [Divya Bora](https://github.com/Codewhizz01)
 - [Niyati Patel](https://github.com/niyatipatel03)
-<<<<<<< HEAD
 - [Ayesha Khan](https://github.com/ayesha-khan-786)
-=======
-- [CloudCry]https://github.com/CloudCry
-- [Helena Nguyen](https://github.com/nhiraimu)
-- [Diego Sanchez](https://github.com/parra28)
-- [Shivraj Solanki](https://github.com/ShivRajSolanki)
->>>>>>> upstream/main
