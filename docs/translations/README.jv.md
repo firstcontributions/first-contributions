@@ -60,7 +60,7 @@ Contone:
 git switch -c your-new-branch-name
 ```
 
-<detail>
+<details>
 <summary> <strong>Yen sampeyan nemu kesalahan nggunakake git switch, klik kene:</strong> </summary>
 
 Yen pesen kesalahan "Git: `switch` dudu perintah git. Waca `git –help`" katon, kemungkinan amarga sampeyan nggunakake versi git sing lawas.
@@ -71,7 +71,7 @@ Ing kasus iki, coba gunakake `git checkout` tinimbang:
 git checkout -b jeneng-cabang-anyar sampeyan
 ```
 
-</detail>
+</details>
 
 ## Gawe owah-owahan sing perlu lan tindakake owah-owahan kasebut
 
@@ -105,13 +105,13 @@ git push -u origin your-branch-name
 
 ngganti `your-branch-name` karo jeneng cabang sing digawe sadurunge.
 
-<detail>
+<details>
 <summary> <strong>Yen ana kesalahan nalika meksa, klik kene:</strong> </summary>
 
 - ### Kasalahan Authentication
      <pre>remote: Dhukungan kanggo otentikasi tembung sandhi wis dibusak tanggal 13 Agustus 2021. Mangga gunakake token akses pribadhi.
   remot: Mangga deleng https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ kanggo informasi luwih lengkap.
-  fatal: Otentikasi gagal kanggo 'https://github.com/<your-username>/first-contributions.git/'</pre>
+  fatal: Otentikasi gagal kanggo 'https://github.com/&lt;your-username&gt;/first-contributions.git/'</pre>
   Bukak [Github's Tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) kanggo nggawe lan ngatur kunci SSH menyang akun sampeyan.
 
   Uga, sampeyan bisa uga pengin mbukak 'git remote -v' kanggo mriksa alamat remot.
@@ -125,7 +125,7 @@ ngganti `your-branch-name` karo jeneng cabang sing digawe sadurunge.
   git remote set-url asal git@github.com:your-username/your_repo.git
   ```
   Yen ora, sampeyan isih bakal dijaluk jeneng pangguna lan sandhi lan entuk kesalahan otentikasi.
-</detail>
+</details>
 
 ## Kirim owahan kanggo ditinjau
 
