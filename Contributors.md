@@ -7,6 +7,7 @@
 - [Nitin] (https://github.com/nitin3150)
 - [Love Chauhan](https://github.com/chauhanlove271)
 - [Ayaz Ahmad](https://github.com/Ayazahmad01)
+- [Sai Gokul](https://github.com/nvsaigokul-sudo)
 - GH900_27 (https://github.com/)
 - Himansh Solanki
 - Dev karan singh chandel
