@@ -898,6 +898,7 @@ Aakash Gupta
 - [Joey Statz](https://github.com/jstatz42)
 - [Johnathan Orizaba](https://github.com/johnathanorizaba15-max)
 - [Johnny Dunal](https://github.com/johnnydunal)
+- [Johny Tran](https://github.com/EarliestHippo27)
 - [Jonmino](https://github.com/jonmino)
 - [Josman Dev](https://github.com/jmaldama8110)
 - [Joseph Lucas (Gert)](https://github.com/Joseph-Ramon-Lucas)
