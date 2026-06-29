@@ -1794,6 +1794,7 @@ Aakash Gupta
 - [Ashwitha K](https://github.com/Ashwitha-valli)
 - [Shourya Sharma](https://github.com/shourya011)
 - [Rohan Sahani](https://github.com/rohansahani-sde)
+- [Shahista Aleem](https://github.com/aleemshahista)
 - [Suman Shil](https://github.com/Suman942)
 - [Radwa Fakhruddin](https://github.com/radwakhan)
 - [Sukanthan](https://github.com/Sukanthan06)
