@@ -674,6 +674,7 @@
 - [Domenico Vecchio](https://github.com/domenico-vecchio)
 - [Dominic](https://github.com/mozz37)
 - [DonnieJ](https://github.com/jdmade)
+- [Markus Baumann](https://github.com/eybmits)
 
 Aakash Gupta
 
