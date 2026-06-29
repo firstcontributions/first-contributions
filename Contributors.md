@@ -30,6 +30,7 @@
 - [Hemanth kumar](https://github.com/hemanthshashidhar)
 - [Afeefa CS](https://github.com/csafeefa-alt)
 - [Adwaith S Dileep](https://github.com/adwaiithh)
+- [Hassan Mallah](https://github.com/HassanMallah)
 - [Jaimz](https://github.com/jaimzh)
 - [Ashi Verma](https://github.com/Ashi-Verma1758)
 - [Shubhadeep Patra](https://github.com/ShubhCoder-17)
