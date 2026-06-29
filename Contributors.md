@@ -2,7 +2,7 @@
 - [AD0031]( https://github.com/AD0031-bit)
 
 ManoGowda
-
+- 
 - [Afzal Khan](https://github.com/khan1020)
 - [Harshita](https://github.com/Hershita-debug)
 - [Anushka Kawalkar](https://github.com/k-anushka14)
@@ -74,6 +74,7 @@ ManoGowda
 - [Sam](https://github.com/rosen184) -[agbuddy7](https://github.com/agbuddy7)
 - [Ananya](https://github.com/Ananya-dozakh-survivor)
 - [Atharv](https://github.com/atharvtrynacode)
+-[Akash Mishra](https://github.com/Akashmishra1421)
 - [Lewis wege](https://github.com/lewiswege)
 - -[Anas Nadeem](https://github.com/AnassNadeem)
 - [ettabihi](https://github.com/ettabihi)
