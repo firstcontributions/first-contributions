@@ -2162,5 +2162,6 @@ Second commit
 - [Varnika Pari](https://github.com/varnikapv)
 - [Dodo](https://github.com/gsurapureddy)
 - [ssureshsskumars](https://github.com/ssureshsskumars)
+- [Noah Moore](https://github.com/noahlabtime)
 - [LucasChan](https://github.com/chanl11)
 - [Melissa Theisen].(https//github.com/MTheisen77)
