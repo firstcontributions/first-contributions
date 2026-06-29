@@ -105,6 +105,7 @@
   [Akshaya Sreleka](https://github.com/AkshayaSrelekaPS) -[hari]
 - [Popoola Ibrahim] (https://github.com/popsy208)
 - [Sazzat Hj](https://github.com/SazzatHj)
+- [Killian Jallais] (https://github.com/JallaisKillian)
 - [Amina Munawar](https://github.com/AminaMunawar39)
 - [Jose Ignacio Robles](https://github.com/NaRo-03)
 - [ArnavGarg7](https://github.com/ArnavGarg7)
