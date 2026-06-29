@@ -1,11 +1,13 @@
 # Contributors
 
 - [Harshita](https://github.com/Hershita-debug)
+- [PNUjinsu](https://github.com/201924611)
 - [Dembo Jatta](https://github.com/Demzi1)
 - [Manya Parikh](https://github.com/Manya2302)
 - [Nitin] (https://github.com/nitin3150)
 - [Love Chauhan](https://github.com/chauhanlove271)
 - [Ayaz Ahmad](https://github.com/Ayazahmad01)
+- [Sai Gokul](https://github.com/nvsaigokul-sudo)
 - GH900_27 (https://github.com/)
 - Himansh Solanki
 - Dev karan singh chandel
@@ -30,6 +32,7 @@
 - [Hemanth kumar](https://github.com/hemanthshashidhar)
 - [Afeefa CS](https://github.com/csafeefa-alt)
 - [Adwaith S Dileep](https://github.com/adwaiithh)
+- [Hassan Mallah](https://github.com/HassanMallah)
 - [Jaimz](https://github.com/jaimzh)
 - [Ashi Verma](https://github.com/Ashi-Verma1758)
 - [Shubhadeep Patra](https://github.com/ShubhCoder-17)
@@ -37,7 +40,7 @@
 - [vikalpchaudhary](https://github.com/vikalpchaudhary)
 - [Varsha Racharla](https://github.com/varsha-0731)
 - [Khang Nguyen](https://github.com/khangnguyen04work-program)
-- [Rishabh](https://github.com/Rishp-3)
+- [Rishabh](https://github.com/Rish-p9)
 - [Sifamol M N](https://github.com/shifamn7-cpu)
 - [Divyansh Chandel](https://github.com/Divyansh0410-svg)
 - [Pallavi Rawal](https://github.com/PallaviRawal)
@@ -102,6 +105,7 @@
   [Akshaya Sreleka](https://github.com/AkshayaSrelekaPS) -[hari]
 - [Popoola Ibrahim] (https://github.com/popsy208)
 - [Sazzat Hj](https://github.com/SazzatHj)
+- [Killian Jallais] (https://github.com/JallaisKillian)
 - [Amina Munawar](https://github.com/AminaMunawar39)
 - [Jose Ignacio Robles](https://github.com/NaRo-03)
 - [ArnavGarg7](https://github.com/ArnavGarg7)
@@ -1815,6 +1819,7 @@ Aakash Gupta
 - main
 - [Pushty Jha](https://github.com/pushtyjha-blip)
 - [Andy Ron](https://github.com/andyRon)
+- [Sandra Marin Rajesh](https://github.com/Sandra-Marin)
 - [Nithyasri77] (https://github.com/Nithyasri77)
 - [Karthik Sai](https://github.com/karthiksai15)
 - [Sierda](https://github.com/sierda)
@@ -2125,4 +2130,11 @@ Aakash Gupta
 - [Bisti Ghosh](https://github.com/bistighosh16)
   = [Divya Bora](https://github.com/Codewhizz01)
 - [Niyati Patel](https://github.com/niyatipatel03)
+<<<<<<< HEAD
 - [Ayesha Khan](https://github.com/ayesha-khan-786)
+=======
+- [CloudCry]https://github.com/CloudCry
+- [Helena Nguyen](https://github.com/nhiraimu)
+- [Diego Sanchez](https://github.com/parra28)
+- [Shivraj Solanki](https://github.com/ShivRajSolanki)
+>>>>>>> upstream/main
