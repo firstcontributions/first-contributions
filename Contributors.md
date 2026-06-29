@@ -1,6 +1,7 @@
 # Contributors
 
 - [Harshita](https://github.com/Hershita-debug)
+- [PNUjinsu](https://github.com/201924611)
 - [Dembo Jatta](https://github.com/Demzi1)
 - [Manya Parikh](https://github.com/Manya2302)
 - [Nitin] (https://github.com/nitin3150)
