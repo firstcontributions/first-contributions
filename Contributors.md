@@ -6,6 +6,7 @@
 - [Manya Parikh](https://github.com/Manya2302)
 - [Nitin] (https://github.com/nitin3150)
 - [Love Chauhan](https://github.com/chauhanlove271)
+- [Yadiel Tesfaye](https://github.com/yadawprodev)
 - [Ayaz Ahmad](https://github.com/Ayazahmad01)
 - [Sai Gokul](https://github.com/nvsaigokul-sudo)
 - [Memphis DiAngelis](https://github.com/earthtomemphis)
