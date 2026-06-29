@@ -2,6 +2,7 @@
 
 ManoGowda
 
+- [Afzal Khan](https://github.com/khan1020)
 - [Harshita](https://github.com/Hershita-debug)
 - [PNUjinsu](https://github.com/201924611)
 - [Dembo Jatta](https://github.com/Demzi1)
