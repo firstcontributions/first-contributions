@@ -37,7 +37,7 @@
 - [vikalpchaudhary](https://github.com/vikalpchaudhary)
 - [Varsha Racharla](https://github.com/varsha-0731)
 - [Khang Nguyen](https://github.com/khangnguyen04work-program)
-- [Rishabh](https://github.com/Rishp-3)
+- [Rishabh](https://github.com/Rish-p9)
 - [Sifamol M N](https://github.com/shifamn7-cpu)
 - [Divyansh Chandel](https://github.com/Divyansh0410-svg)
 - [Pallavi Rawal](https://github.com/PallaviRawal)
