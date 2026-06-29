@@ -193,6 +193,7 @@
 - [Stuti Jain](http://github.com/jain-stuti-437)
 - [Budati Chethana](https://github.com/Budatichethana)
 - [Dev Karan Singh](https://github.com/devkaransingh1)
+- [Ami Pandey](https://github.com/AMI01590)
 - [Krontixz](https://github.com/Krontixz)
 - [Princy](https://github.com/Princy-y)
 - [Ayush De] (https://github.com/the-one-ayush)
