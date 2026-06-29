@@ -31,6 +31,7 @@
 - [Savanth G](https://github.com/Savanth114/first-contributions.git)
 - [Arjav Jain](https://github.com/ArjavJain-27)
 - [Haider Abbas](https://github.com/Haider-Abbas028) -[Aarav Shah](https://github.com/aaraven99) -[Bhagya Shah](https://github.com/bhagyashah-dev) -[surajshinde](https://github.com/surajshinde9) -[Ayushi Singh](https://github.com/ayus28ayushi-ai)
+- [HUALAW](https://github.com/HUALAW-max/first-contributions.git)
 - [Hemanth kumar](https://github.com/hemanthshashidhar)
 - [Afeefa CS](https://github.com/csafeefa-alt)
 - [Adwaith S Dileep](https://github.com/adwaiithh)
