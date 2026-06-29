@@ -357,6 +357,7 @@ ManoGowda
 - [Ahris Ali](https://github.com/ahrisali123)
 - [Prog-Monkey](https://github.com/Prog-Monkey)
 - [Chetanand](https://github.com/chetanandmeher)
+- [umi](https://github.com/NoWineNoLife)
 - [JoeArias1121](https://github.com/JoeArias1121)
 - [ATgmu](https://githum.com/ATgmu)
 - [Unsa-Zareen](https://github.com/unsazareenwork-alt)
