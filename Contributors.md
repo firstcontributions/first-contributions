@@ -528,7 +528,7 @@ myname
 - [AyorindeAdunse](https://github.com/ayorindeadunse)
 - [Ayush Gangwar](https://github.com/ayush3011)
 - [Ayush Kumar](https://github.com/Ayush123-e/first-contributions)
-
+- [Anjali Jamwal](https://github.com/anjali22-lgtm)
 - [Ayush Priyadarshi](https://github.com/Ayu-zh)
 - [Ayush kumar maury](https://github.com/Ayush4O4)
 - [Ayushi Rajput](https://github.com/Ayushi-ninja)
