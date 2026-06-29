@@ -10,6 +10,7 @@
 - Himansh Solanki
 - Dev karan singh chandel
 - [KimsunLy](https://github.com/Kimsunly)
+- [Shan Asif](https://github.com/shanAweb)
 - [Anil Tamang] (https://github.com/anil-titung-tamang)
 - [gh900-062601](https://github.com/)
 - [gh900-062622](https://github.com/)
