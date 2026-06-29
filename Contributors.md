@@ -2130,3 +2130,4 @@ Aakash Gupta
   = [Divya Bora](https://github.com/Codewhizz01)
 - [Niyati Patel](https://github.com/niyatipatel03)
 - [Helena Nguyen](https://github.com/nhiraimu)
+- [Diego Sanchez](https://github.com/parra28)
