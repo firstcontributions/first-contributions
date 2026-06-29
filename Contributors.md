@@ -1763,6 +1763,7 @@ Aakash Gupta
 - [tarun singh](https://github.com/fyodor88)
 - [Dipti](https://github.com/Dipti46)
 - [Natan] (https://github.com/sharedbyNatan)
+
 - [Roger Briskey](https://github.com/rbriskey/)
 - [Anurag Verma](https://github.com/ryuk956983/)
 - [Danusan] (https://github.com/dondanu)
@@ -1772,8 +1773,7 @@ Aakash Gupta
 - [mario_m1ller] (https://github.com/mario_m1ller)
 - [Michiti] (https://github.com/M4CH3T3xd)
 - [niuezreal001](https://github.com/niuezreal001)
-- [Amogh](https://github.com/AmoghAK002)
-  vaishnavi0521
+- [Amogh](https://github.com/AmoghAK002) - [Shreya-Bhardwaj](https://github.com/S-Bhardwaj21)
 - [Shreya-Bhardwaj](https://github.com/S-Bhardwaj21)
 - [Ashwitha K](https://github.com/Ashwitha-valli)
 - [Shourya Sharma](https://github.com/shourya011)
@@ -1785,7 +1785,7 @@ Aakash Gupta
 - [Anamitra Bakshi](https://github.com/anamitra-tech)
 - [Rohan Sahani](https://github.com/rohansahani-sde)
 - [Manish M](https://github.com/manishrao0312)
-- leocmp
+- [PacoMedzam](https://github.com/605090640)
 - [Yemintun90](https://github.com/Yemintun90)
 - [Rishabh Kori](https://github.com/rishabh-kori-05)
 - [Ayushi Kaul](https://github.com/ayushikaul02)
