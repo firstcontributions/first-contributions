@@ -69,9 +69,9 @@ git push origin -u your-branch-name
 <summary> <strong>اگر آپ کو دھکیلتے وقت کوئی غلطی ہو جاتی ہے تو، یہاں کلک کریں:</strong> </summary>
 
 - ### تصدیق کی غلطی
-     <pre>ریموٹ: پاس ورڈ کی توثیق کے لیے سپورٹ 13 اگست 2021 کو ہٹا دیا گیا تھا۔ براہ کرم اس کے بجائے ذاتی رسائی کا ٹوکن استعمال کریں۔
- remote: براہ کرم دیکھیں https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ مزید معلومات کے لیے.
-  fatal: کے لیے توثیق ناکام ہو گئی۔ 'https://github.com/<your-username>/first-contributions.git/'</pre>
+  <pre>ریموٹ: پاس ورڈ کی توثیق کے لیے سپورٹ 13 اگست 2021 کو ہٹا دیا گیا تھا۔ براہ کرم اس کے بجائے ذاتی رسائی کا ٹوکن استعمال کریں۔
+  remote: براہ کرم دیکھیں https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ مزید معلومات کے لیے.
+  fatal: کے لیے توثیق ناکام ہو گئی۔ 'https://github.com/&lt;your-username&gt;/first-contributions.git/'</pre>
   کے پاس جاؤ [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) اپنے اکاؤنٹ میں SSH کلید بنانے اور ترتیب دینے پر۔
 
 </details>

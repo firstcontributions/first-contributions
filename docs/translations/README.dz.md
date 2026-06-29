@@ -87,11 +87,11 @@ Bedel `<add-essem-diyalek>` be esseme el far3e eli créyeteho men 9abel.
 
 Idha rahet lel garage diyalek 3ala github, rah etchouffe beli kayen zire `Compare & pull request`, éclické 3ala el zire hadek.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="dir talab dyal pull request" />
 
 Dourka présenter el talebe diyalek lel fahsse.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="qaddem pull request" />
 
 Fi zamen saghire rah ene fuzioné el taghyérates ta3ek me3a el fare3 main ta3 el projet hada, Yewosselek rissala ta3 el taghyérates ghire ki tendare la fusion kamel.
 

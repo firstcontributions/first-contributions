@@ -65,7 +65,7 @@ git switch -c add-alonzo-church
 
 Сега отворете файла `Contributors.md` в текстов редактор и добавете името си в него. Не го добавяйте в началото или края на файла. Поставете го някъде посредата. Сега запазете промените.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git статус" />
 
 
 Ако навигирате през терминала до директорията на проекта и въведете командата `git status`, ще видите че има променени файлове.
@@ -111,7 +111,7 @@ git push origin <добави името на твоя клон>
 
 Ако бихте искали повече практика, разгледайте [код приноси](https://github.com/roshanjossey/code-contributions).
 
-Време да започнете да допринасяте и към други приекти. Ние сме съставили списък с проекти съдържащи лесни проблеми, които са лесни за начало. Проверете  [списъка от приекти в уеб приложението](https://firstcontributions.github.io/#project-list).
+Време да започнете да допринасяте и към други проекти. Ние сме съставили списък с проекти съдържащи лесни проблеми, които са лесни за начало. Проверете  [списъка от проекти в уеб приложението](https://firstcontributions.github.io/#project-list).
 
 ### [Допълнителни материали](../additional-material/git_workflow_scenarios/additional-material.md)
 
