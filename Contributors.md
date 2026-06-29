@@ -1240,6 +1240,7 @@ Aakash Gupta
 - [Rawsie Nguyen](https://github.com/rawsie-dev)
 - [Ray Silva](https://github.com/RSM23191)
 - [Rayhan-099](https://github.com/rayhan-099)
+- [Rebeccav25](https://github.com/RebeccaV25)
 - [ReCodes26](https://github.com/ReCodes26)
 - [Rehab Ragab](https://github.com/RehabAbotalep)
 - [Rehaan Moodley](https://github.com/Rehaan7R)
