@@ -900,6 +900,7 @@ Aakash Gupta
 - [Julianne Tomlinson](https://github.com/JewlzT)
 - [Pooja] (https://github.com/pd2025)
 - [JulianoCLI](https://github.com/JulianoCLI)
+- [Jumpr15] (https://github.com/Jumpr15)
 - [Junior-2103](https://github.com/Junior-2103)
 - [Iamkobie](https://github.com/Iamkobie)
 - [KAIFUR RAHAMAN](https://github.com/Kaif145)
