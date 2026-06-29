@@ -153,6 +153,7 @@ main
 - [Felix](https://github.com/LixzyA)
 - [Anish](https://github.com/Realmer01)
 - [Jixuan Liu](https://github.com/jixuanliu21)
+- [Sai Anirudh Siddi] (https://github.com/Anirudh64210)
 - [Priya Patel](https://github.com/Priya-Patel-08)
 - [Joshua Napiñas](https://github.com/elib00)
 - [Anya] (https://github.com/anyatomik)
