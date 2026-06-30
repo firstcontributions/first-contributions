@@ -188,6 +188,7 @@ ManoGowda
 - [Peter Pabon](https://github.com/peter-pabon/first-contributions)
 - [Pardhu-2005558](https://github.com/Pardhu-2005558)
 - [Priyansh Nihalani](https://github.com/priyanshnihalani/first-contributions)
+- [Ishan Gogna] (https://github.com/IshanGogna01)
   add-ayesha-perveen
 - [Ayesha Perveen](https://github.com/ayeshamallick6514-aye/first-contributions)
 - wanjiku [](https://github.com/wanjikubrians-khim) -[Bhavin Goyal](https://github.com/Bhavin2007)
@@ -2151,7 +2152,8 @@ Aakash Gupta
 - [Adil](https://github.com/meadil)
 - [Shivam](https://github.com/AFRADOX)
 - Anurag
-- [Meghana V](https://github.com/meghana202003]) -[Rahul Majumder](https://github.com/irtrahul2007-IND)
+- [Meghana V](https://github.com/meghana202003]) 
+-[Rahul Majumder](https://github.com/irtrahul2007-IND)
 - [Akash Khatri](https://github.com/AkashKhatri-codes)
 - [Mojtaba Zarreh](https://github.com/MojtabaZarreh)
 - [Punith](https://github.com/anjan0546)
@@ -2212,6 +2214,7 @@ Second commit
 - [Marve Star](https://github.com/Marvel-Lab)
 - [Marve Star](https://github.com/Marvel-Lab)
 - [Shubham Kumar] (https://github.com/cozyneurons)
+
 - [Hemanth Kumar PK] (https://github.com/https://github.com/KathiresanHemanth)
 - [Harshit Mishra] (https://github.com/Harshitbro-ctrlv)
 - [Kaung Si Thu] (https://github.com/https://github.com/kg-sithu)
