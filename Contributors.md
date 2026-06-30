@@ -1,5 +1,6 @@
 # Contributors
 - [alchemist240](https://github.com/alchemist240)
+- [Nicholas Kimmel] (https://github.com/Nicholas-Kimmel)
 - [AD0031]( https://github.com/AD0031-bit)
 - [Siddhesh Rao](https://github.com/siddheshR4)
 [Emmanuel Fagite] (https://github.com/fagiteemmanuel4-bit)
