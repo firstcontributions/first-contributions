@@ -4,6 +4,7 @@
 - [Emmanuel Fagite] (https://github.com/fagiteemmanuel4-bit)
 
 ManoGowda
+ivanzc
 - [game_ryo](https://github.com/ryotagtagtag-wq)
 - [Priyanka Siwach](https://github.com/PriyankaSiwach)
 - [Afzal Khan](https://github.com/khan1020)
