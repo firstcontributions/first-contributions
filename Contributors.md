@@ -186,6 +186,7 @@ ManoGowda
 - [Peter Pabon](https://github.com/peter-pabon/first-contributions)
 - [Pardhu-2005558](https://github.com/Pardhu-2005558)
 - [Priyansh Nihalani](https://github.com/priyanshnihalani/first-contributions)
+- [Ishan Gogna] (https://github.com/IshanGogna01)
   add-ayesha-perveen
 - [Ayesha Perveen](https://github.com/ayeshamallick6514-aye/first-contributions)
 - wanjiku [](https://github.com/wanjikubrians-khim) -[Bhavin Goyal](https://github.com/Bhavin2007)
@@ -2145,7 +2146,8 @@ Aakash Gupta
 - [Adil](https://github.com/meadil)
 - [Shivam](https://github.com/AFRADOX)
 - Anurag
-- [Meghana V](https://github.com/meghana202003]) -[Rahul Majumder](https://github.com/irtrahul2007-IND)
+- [Meghana V](https://github.com/meghana202003]) 
+-[Rahul Majumder](https://github.com/irtrahul2007-IND)
 - [Akash Khatri](https://github.com/AkashKhatri-codes)
 - [Mojtaba Zarreh](https://github.com/MojtabaZarreh)
 - [Punith](https://github.com/anjan0546)
@@ -2205,3 +2207,4 @@ Second commit
 - [Bhavishya Goyal](https://github.com/Bhavishya07-Tech)
 - [Marve Star](https://github.com/Marvel-Lab)
 - [Shubham Kumar] (https://github.com/cozyneurons)
+
