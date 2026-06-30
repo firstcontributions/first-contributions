@@ -16,6 +16,7 @@ ManoGowda
 - [Dembo Jatta](https://github.com/Demzi1)
 - [Erdemguvenc](https://github.com/Erdemguvenc)
 - [Manya Parikh](https://github.com/Manya2302)
+- [Abhijeet Raj](https://github.com/Abhijeet-99-dev)
 - [Nitin] (https://github.com/nitin3150)
 - [Love Chauhan](https://github.com/chauhanlove271)
 - [Yadiel Tesfaye](https://github.com/yadawprodev)
