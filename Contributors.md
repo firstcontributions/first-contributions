@@ -156,6 +156,7 @@ ManoGowda
 - [Jixuan Liu](https://github.com/jixuanliu21)
 - [Sai Anirudh Siddi] (https://github.com/Anirudh64210)
 - [Priya Patel](https://github.com/Priya-Patel-08)
+- [Kofi Reeves-Miller](https://github.com/Kofi-RM)
 - [Joshua Napiñas](https://github.com/elib00)
 - [Anya] (https://github.com/anyatomik)
 - [Anushka](https://github.com/Anushkap-lab)
