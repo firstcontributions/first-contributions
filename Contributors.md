@@ -2,6 +2,7 @@
 - [AD0031]( https://github.com/AD0031-bit)
 
 ManoGowda
+- [game_ryo](https://github.com/ryotagtagtag-wq)
 - [Priyanka Siwach](https://github.com/PriyankaSiwach)
 - [Afzal Khan](https://github.com/khan1020)
 - [Harshita](https://github.com/Hershita-debug)
