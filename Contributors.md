@@ -1425,6 +1425,7 @@ Aakash Gupta
 - [Sharad Malviya](https://github.com/SharadMalviya-0)
 - [Shariq Naseem](https://github.com/muhammadshariq0007)
 - [Shaurya Rawat](https://github.com/shaurya0702-droid)
+- [Shashi Ranjan](https://github.com/shashi7367)
 - [Sheeba S](https://github.com/SheebaSalaman)
 - [Shibi H](https://github.com/shibi-1202)
 - [Shiro60527](https://github.com/shiro60527/)
