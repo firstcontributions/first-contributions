@@ -47,9 +47,7 @@ ManoGowda
 - [Arjav Jain](https://github.com/ArjavJain-27)
 - [Haider Abbas](https://github.com/Haider-Abbas028) -[Aarav Shah](https://github.com/aaraven99) -[Bhagya Shah](https://github.com/bhagyashah-dev) -[surajshinde](https://github.com/surajshinde9) -[Ayushi Singh](https://github.com/ayus28ayushi-ai)
 - [HUALAW](https://github.com/HUALAW-max/first-contributions.git)
-- [Hemanth kumar](https://github.com/hemanthshashidhar)
-- [Afeefa CS](https://github.com/csafeefa-alt)
-- [Adwaith S Dileep](https://github.com/adwaiithh)
+
 - [Hassan Mallah](https://github.com/HassanMallah)
 - [Jaimz](https://github.com/jaimzh)
 - [Ashi Verma](https://github.com/Ashi-Verma1758)
@@ -107,6 +105,9 @@ ManoGowda
 - [Eric Zhao](https://github.com/eericzzhao)
 - [Avraj J.](https://github.com/avrajj)
 - [Yue Sl]
+- [Amrit Kumar] (https://github.com/AmritKumar777)
+- [Vinod Gawande](https://github.com/VinodGawande)
+[siddhartha71]
 - [Anagha Ajesh](https://github.com/anaajesh) -[Junaid Jamadar](https://github.com/JunaidDev20-spec)
 - [Shaurya Sharma](https://github.com/shaurya-sharma123)
 - [Dev Varshney](https://github.com/dev200413y)
@@ -341,7 +342,8 @@ ManoGowda
 - [Marcus daymon](https://github.com/marcus-daymon)
 - [dweep-js](https://github.com/dweep-js)
 - [Amr Yasser](https://github.com/amryasser017)
-- [gmariel911](https://github.com/gmariel911)
+- [gmariel911](https://github.com/gmariel911) 
+- [siddhartha71](this is my first contributin -- )
 - [Arnesh-Vimalraj](https://github.com/Arnesh-Vimalraj)
 - [Vaishnavi14705](https://github.com/vaishnavi14705/first-contributions)
 - [Gabo-Juarez](https://github.com/gabriel181)
@@ -2151,7 +2153,7 @@ Aakash Gupta
 - [Mounish-tatipigari]
 [Aditya Mehta](https://github.com/adityaaa539)
 - [Giovanni](https://github.com/giovanni473-afk)
-- [Sakshi Borse](https://github.com/SakshiBorsepatil-123)
+-[SiddharthaMaurya](https://github.com/SiddharthaMaurya)
 - [Muskan Gupta](https://github.com/Muskan-gupta2118)
 - [Gungun Kumari](https://github.com/gunguncodes)
 - [Perry Tan](https://github.com/casualwarfare-wq)
@@ -2190,13 +2192,11 @@ Second commit
 - [ssureshsskumars](https://github.com/ssureshsskumars)
 - [Melissa Theisen].(https//github.com/MTheisen77)
 - [Sriharsha Sangepu].
-- [Drew Ramos](https://github.com/drewsElearning)
-- [Melissa Theisen](https://github.com/MTheisen77)
-- [Noah Moore](https://github.com/noahlabtime)
-- [LucasChan](https://github.com/chanl11)
 - [Me106y](https://github.com/Me106y)
 -[fyZton](https://github.com/fyZton)
 -[Shibnath Maity](https://github.com/Shibnath-Maity)
 -[Raunaq David Nath](https://github.com/RaunaqDavidNath)
 - [Rahul K S](https://github.com/Rahul-K-S02)
-- [Bhavishya Goyal](https://github.com/Bhavishya07-Tech)
+- [Bhavishya Goyal](https://github.com/Bhavishya07-Tech)s i d d h a r t h a 7 1   -   m y   f i r s t   c o n t r i b u t i n 
+ 
+ 
