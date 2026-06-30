@@ -37,6 +37,7 @@ ManoGowda
 - [Test] (https://github.com/)
 - [Test] (https://github.com/)
 - [James Rouse]
+- [Richa Singh]
 - [Savanth G](https://github.com/Savanth114/first-contributions.git)
 - [Arjav Jain](https://github.com/ArjavJain-27)
 - [Haider Abbas](https://github.com/Haider-Abbas028) -[Aarav Shah](https://github.com/aaraven99) -[Bhagya Shah](https://github.com/bhagyashah-dev) -[surajshinde](https://github.com/surajshinde9) -[Ayushi Singh](https://github.com/ayus28ayushi-ai)
@@ -860,6 +861,7 @@ Aakash Gupta
   (https://github.com/Wiiya)
 - [Ishan Edlabadkar](https://github.com/IshanEdlabadkar)
 - [Ishan Gupta](https://github.com/developer-ishan)
+- [Tej Deep Masina](https://github.com/TejDeepM)
 - [Ishan Verma](https://github.com/ishan4432)
 - [Ishit](https://github.com/ishitGsigma)
 - [Ishita Singh](https://github.com/codeishitech)
@@ -2183,4 +2185,4 @@ Second commit
 - [Noah Moore](https://github.com/noahlabtime)
 - [LucasChan](https://github.com/chanl11)
 -[fyZton](https://github.com/fyZton)
--
+-[Shibnath Maity](https://github.com/Shibnath-Maity)
