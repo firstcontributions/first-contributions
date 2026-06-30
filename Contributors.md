@@ -1879,6 +1879,7 @@ Aakash Gupta
 - [Palak Gupta](https://github.com/palak22291)
 - main
 - [Pushty Jha](https://github.com/pushtyjha-blip)
+- [ADOUABOU Appolinaire](https://github.com/Appolinaire226)
 - [Andy Ron](https://github.com/andyRon)
 - [Sandra Marin Rajesh](https://github.com/Sandra-Marin)
 - [Nithyasri77] (https://github.com/Nithyasri77)
