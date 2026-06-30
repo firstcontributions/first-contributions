@@ -21,6 +21,7 @@ ManoGowda
 - [Yadiel Tesfaye](https://github.com/yadawprodev)
 - [Ayaz Ahmad](https://github.com/Ayazahmad01)
 - [Sai Gokul](https://github.com/nvsaigokul-sudo)
+-[vikash chudasama](https://github.com/vikashchudasama-sys)
 - [Memphis DiAngelis](https://github.com/earthtomemphis)
 - GH900_27 (https://github.com/)
 - Himansh Solanki
@@ -2200,7 +2201,8 @@ Second commit
 - [Me106y](https://github.com/Me106y)
 -[fyZton](https://github.com/fyZton)
 -[Shibnath Maity](https://github.com/Shibnath-Maity)
+
 -[Raunaq David Nath](https://github.com/RaunaqDavidNath)
 - [Rahul K S](https://github.com/Rahul-K-S02)
 - [Bhavishya Goyal](https://github.com/Bhavishya07-Tech)
-- [Marve Star](https://github.com/Marvel-Lab)
+- [Marve Star](https://github.com/Marvel-La
