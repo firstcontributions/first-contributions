@@ -2052,6 +2052,7 @@ Aakash Gupta
 - [Sai Mahitha Tarigoppula](https://github.com/MahithaWorks)
   [krishna kumar](https://github.com/Krishna13771)
 - [Pranav Kumar](https://github.com/thePranav-kpk)
+-[xAKx](https://github.com/xAKx)
 - [Srijita Verma](https://github.com/SrijitaV)
 - [Rohan Binu](https://github.com/rtrinu)
 - [Taha Navidi](https://github.com/Taha-X-Dev)
