@@ -2185,6 +2185,7 @@ Aakash Gupta
 - [Asmita Waghule](https://github.com/WaghuleAsmita)
 - [Laszlo Dus](https://github.com/laszlodus)
 - [Kesiena Micah Irikefe](https://github.com/DevTechMike-Coder)
+- [Giorgio Russek](https://github.com/giorgiorussek-sketch)
 Muhammad Taha
 Second commit
  - [Prashant Khosre] GH-900 Lab demonstration
