@@ -2198,3 +2198,4 @@ Second commit
 -[fyZton](https://github.com/fyZton)
 -[Shibnath Maity](https://github.com/Shibnath-Maity)
 -[Raunaq David Nath](https://github.com/RaunaqDavidNath)
+- [Rahul K S](https://github.com/Rahul-K-S02)
