@@ -1,7 +1,7 @@
 # Contributors
 - [alchemist240](https://github.com/alchemist240)
 - [AD0031]( https://github.com/AD0031-bit)
--, [Emmanuel Fagite] (https://github.com/fagiteemmanuel4-bit)
+- [Emmanuel Fagite] (https://github.com/fagiteemmanuel4-bit)
 
 ManoGowda
 - [game_ryo](https://github.com/ryotagtagtag-wq)
