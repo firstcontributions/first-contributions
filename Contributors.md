@@ -2,6 +2,7 @@
 - [alchemist240](https://github.com/alchemist240)
 - [AD0031]( https://github.com/AD0031-bit)
 - [Emmanuel Fagite] (https://github.com/fagiteemmanuel4-bit)
+- [Tushar Khurana]( https://github.com/Tushar-khurana-official/)
 
 ManoGowda
 - [game_ryo](https://github.com/ryotagtagtag-wq)
