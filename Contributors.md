@@ -1,7 +1,8 @@
 # Contributors
 - [alchemist240](https://github.com/alchemist240)
 - [AD0031]( https://github.com/AD0031-bit)
-- [Emmanuel Fagite] (https://github.com/fagiteemmanuel4-bit)
+- [Siddhesh Rao](https://github.com/siddheshR4)
+[Emmanuel Fagite] (https://github.com/fagiteemmanuel4-bit)
 - [Tushar Khurana]( https://github.com/Tushar-khurana-official/)
 
 ManoGowda
@@ -2224,3 +2225,4 @@ Second commit
 - [Harshit Mishra] (https://github.com/Harshitbro-ctrlv)
 - [Kaung Si Thu] (https://github.com/https://github.com/kg-sithu)
 Himanshu Singh wants Pull Shark
+Siddesh Raoandure
