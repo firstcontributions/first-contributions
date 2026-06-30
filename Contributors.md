@@ -1571,6 +1571,7 @@ Aakash Gupta
 - [Uppala Anand](https://github.com/uppalaanand)
 - [tokito-99](https://github.com/tokito-99)
 - [Usman Malik](https://github.com/Usman-Malik121)
+- [Poski777](https://github.com/poski777)
 - [Vedant Wadekar](https://github.com/vedant-wadekar)-hello world!
 - [Vaasu](https://github.com/vorte-wq)
 - [Vaibhav Chitransh](https://github.com/Vaibhav-Chitransh)
