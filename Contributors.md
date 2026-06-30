@@ -5,6 +5,7 @@
 - [Tushar Khurana]( https://github.com/Tushar-khurana-official/)
 
 ManoGowda
+-[ivanzc](https://github.com/Ivanzc2005)
 - [game_ryo](https://github.com/ryotagtagtag-wq)
 - [Priyanka Siwach](https://github.com/PriyankaSiwach)
 - [Afzal Khan](https://github.com/khan1020)
