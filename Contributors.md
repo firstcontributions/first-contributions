@@ -221,6 +221,7 @@ ManoGowda
 - [Krontixz](https://github.com/Krontixz)
 - [Princy](https://github.com/Princy-y)
 - [Ayush De] (https://github.com/the-one-ayush)
+- [slugneko]
 - [Hamza] (https://github.com/webgo-oss)
 - [Sri pravallika Malla](https://github.com/sripravallika05)
 - [Ivan Tran](https://github.com/IvanTran-2001)
