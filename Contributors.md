@@ -2213,4 +2213,5 @@ Second commit
 - [Marve Star](https://github.com/Marvel-Lab)
 - [Shubham Kumar] (https://github.com/cozyneurons)
 - [Hemanth Kumar PK] (https://github.com/https://github.com/KathiresanHemanth)
+- [Harshit Mishra] (https://github.com/Harshitbro-ctrlv)
 - [Kaung Si Thu] (https://github.com/https://github.com/kg-sithu)
