@@ -861,6 +861,7 @@ Aakash Gupta
   (https://github.com/Wiiya)
 - [Ishan Edlabadkar](https://github.com/IshanEdlabadkar)
 - [Ishan Gupta](https://github.com/developer-ishan)
+- [Tej Deep Masina](https://github.com/TejDeepM)
 - [Ishan Verma](https://github.com/ishan4432)
 - [Ishit](https://github.com/ishitGsigma)
 - [Ishita Singh](https://github.com/codeishitech)
