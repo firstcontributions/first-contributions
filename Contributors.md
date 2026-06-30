@@ -59,6 +59,7 @@ ManoGowda
 - [Khang Nguyen](https://github.com/khangnguyen04work-program)
 - [Rishabh](https://github.com/Rish-p9)
 - [Sifamol M N](https://github.com/shifamn7-cpu)
+- [Pratham Kaushik](https://github.com/domainkeeper)
 - [Divyansh Chandel](https://github.com/Divyansh0410-svg)
 - [Pallavi Rawal](https://github.com/PallaviRawal)
 - [gh900-0624] (https://github.com/)
