@@ -1109,6 +1109,7 @@ Aakash Gupta
 - [Alefe](https://github.com/zcom2503-art)
 - [Omkar Ala](https://github.com/omkarala)
 - [OmkarS](https://github.com/omkar402)
+- [Onkar Korale](https://github.com/Korale05)
 - [Optimus Prime](https://github.com/DebOps01)
 - [OsamaShabih](https://github.com/osamashabih6960)
 - [Osinachi Chukwujama](https://github.com/vicradon)
