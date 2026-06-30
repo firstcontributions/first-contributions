@@ -1156,6 +1156,7 @@ Aakash Gupta
 - [Prajwal Hulle](https://github.com/prajwal-2509)
 - [Prajwal V R](https://github.com/prajwal-vr)
 - [Pramodkumar Shivanna](https://github.com/pramod05edu-afk)
+- [Jacob Xu] (https://github.com/hacoobamatata)
 - [Pranam Pagi](https://github.com/pranampagi)
 - [Pranav Anandarao](https://github.com/pranandarao)
 - [Pranav Sawant](https://github.com/ItzPranav61)
