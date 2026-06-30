@@ -783,7 +783,7 @@ Aakash Gupta
 - [Ashmit Rama](https://github.com/ashmit-rama)
 - [GangSQuadUA](https://github.com/GangSquadUA)
 - [Garv Choure](https://github.com/garvv29)
-- [Garvit Kulshreshtha](https://github.com/WhoopDoop)
+- [Yogesh HN](https://github.com/YogeshHN)
 - [Gaumtes Jain](https://github.com/Tecnic-debug)
 - [Gauransh Maheshwari](https://github.com/kardocode)
 - [Gaurav kumar ](https://github.com/gauravbuildz)
