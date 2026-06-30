@@ -792,6 +792,7 @@ Aakash Gupta
 - [GauravJha](https://github.com/your-23f2001550)
 - [Gautam Kumawat](https://github.com/gautam9892)
 - [Gayatri Yadkikar](https://github.com/yadkikargayatri)
+- [Dhruvraj Singh](https://github.com/dhruvrajsinghgaur)
 - [Ganga Raghuwanshi] (https://github.com/ganga-300)
 - [Gunjan Yadav](https://github.com/Gunjan-Yadav12)
 - [T4oist](https://github.com/T4oist)
