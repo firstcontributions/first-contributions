@@ -2201,8 +2201,7 @@ Second commit
 - [Me106y](https://github.com/Me106y)
 -[fyZton](https://github.com/fyZton)
 -[Shibnath Maity](https://github.com/Shibnath-Maity)
-
 -[Raunaq David Nath](https://github.com/RaunaqDavidNath)
 - [Rahul K S](https://github.com/Rahul-K-S02)
 - [Bhavishya Goyal](https://github.com/Bhavishya07-Tech)
-- [Marve Star](https://github.com/Marvel-La
+- [Marve Star](https://github.com/Marvel-Lab)
