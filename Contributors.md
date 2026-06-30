@@ -250,6 +250,7 @@ ManoGowda
 - [Tanmay-Pansare](https://github.com/CodeWithTanmay635)
   [John Nash](https://github.com/WickedSonny)
 - [cheems](https://github.com/cheems908)
+- [Gary Dawson](https://github.com/garydawsonDEFRA)
 - [root-kcalb]
 - [Krishna](https://github.com/krish-na-m)
   [Prashant Maurya](https://github.com/PrashantMaurya007)
