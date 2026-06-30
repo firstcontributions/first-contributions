@@ -328,6 +328,7 @@ ManoGowda
 - [Manan Agarwal](https://github.com/thisis-manan)
 - [DanielBustamante67](https://github.com/DanielBustamante67/curso-git)
 - [StephenJarso](https://github.com/StephenJarso)
+- [Dinel8](https://github.com/Dinel8)
 - [Mr-Broccolli](https://github.com/Mr-Broccolli)
 - [Viswanath Vadlamani](https://github.com/viswanathv4320)
 - [Renan Marques](https://github.com/Renanmrqs)
