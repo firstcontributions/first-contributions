@@ -275,6 +275,7 @@ ManoGowda
 - [Joe Test]
 - [Eschxr](https://github.com/Eschxr)
 - [hns dev]
+- [Werner Venter](https://github.com/VenWer82)
 - [Brian Oliver](https://github.com/brianohh)
 - [Shivam Saini](https://github.com/Shivam-2807)
 - [Kishore](https://github.com/Kishore-pv)
