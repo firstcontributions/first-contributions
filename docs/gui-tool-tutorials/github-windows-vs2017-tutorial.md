@@ -21,7 +21,22 @@ Fork this repository by clicking on the fork button on the top of this page. Thi
 
 GitHub keeps track of the relationship between your repo and the one you forked it from.  You can think of your repo as a working copy.
 
-Most top-level GitHub repos (i.e. ones not forked from any other repo) have a small core team of people who can directly commit changes.  All other contributors must fork the repo and make changes in the fork, then create a Pull Request to ask for their changes to be merged back into the top-level repo. If the top-level repo administrator likes the changes they will be merged and you will gain instant fame and fortune!  More on how to do that later.
+## Contributing
+
+Most top-level GitHub repositories (repositories that are **not** forks of another repository) have a small team of maintainers with direct commit access.
+
+If you want to contribute but don't have write access, follow these steps:
+
+1. Fork the repository.
+2. Create a new branch in your fork.
+3. Make your changes.
+4. Commit and push your changes to your fork.
+5. Open a Pull Request (PR) to the original repository.
+
+The maintainers will review your changes. If your contribution is approved, it will be merged into the main repository. Every contribution, no matter how small, helps improve the project.
+
+More details about the contribution workflow are provided below.
+
 
 ## Clone your repository
 
