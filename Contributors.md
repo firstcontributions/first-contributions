@@ -140,6 +140,7 @@ ManoGowda
 - [Arsan] (https://github.com/Arsan-sk)
 - [Marlon] (https://github.com/MarlonSC14)
 - [Shaurya] (https://github.com/shauryagangrade)
+- [Mihailo R] (https://github.com/mihailoradovic)
 - [Abhishek] (https://github.com/Abhishek371681)
 - [Elyes] (https://github.com/ElyesLaaribi)
 - [Anya] (https://github.com/anyatomik)
