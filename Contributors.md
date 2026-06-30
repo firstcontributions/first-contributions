@@ -62,6 +62,7 @@ ManoGowda
 - [Shruti Dixit](https://github.com/sshrrutiiii)
 - [xDatabox] (https://github.com/xdatabox)
 - [Pratyusha] (https://github.com/PratyushaM09)
+- FingerSpinx
 - [Syed Hamid Rahim] (https://github.com/shamidrahim)
 - [Anshuman] (https://github.com/AnshumanTri)
 - [Kashish Raj](https://github.com/CodeBytesRaj)
