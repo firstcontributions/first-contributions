@@ -8,6 +8,7 @@ ManoGowda
 - [Harshita](https://github.com/Hershita-debug)
 - [Anushka Kawalkar](https://github.com/k-anushka14)
 - [Timothy Smith](https://github.com/timothysmithdev)
+- [Tanvi Dominic] (https://github.com/tanvidominic)
 - [PNUjinsu](https://github.com/201924611)
 - [Dembo Jatta](https://github.com/Demzi1)
 - [Erdemguvenc](https://github.com/Erdemguvenc)
