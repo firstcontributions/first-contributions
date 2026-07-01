@@ -1266,6 +1266,7 @@ Aakash Gupta
 - [Raj Dhende](https://github.com/RajDhende)
 - [Ramya Lakshmi KS](https://github.com/RamyaLakshmiKS)
 - [RandomAimXD](https://github.com/RandomAimXD)
+- [Alan Gausebeck](https://github.com/alangausebeck)
 - [Rashadul dev](https://github.com/rashaduldev)
 - [RashiBista](https://github.com/RashiBista)
 - [Rashida Safreen](https://github.com/rashidasafreen)
