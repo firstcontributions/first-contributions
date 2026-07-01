@@ -201,7 +201,12 @@
 - [rover-3](https://github.com/rover-3)
 - [Gauri](https://github.com/yo2005)
 - [Sumit saini](https://github.com/sumitsaini03)
+
 - [Sonal Priya](https://github.com/sp-codebase) -[Sara Ramraj Dhumal]
+
+- [Sonal Priya](https://github.com/sp-codebase)
+-[Sara Ramraj Dhumal]
+
 - [Peter Pabon](https://github.com/peter-pabon/first-contributions)
 - [Pardhu-2005558](https://github.com/Pardhu-2005558)
 - [Priyansh Nihalani](https://github.com/priyanshnihalani/first-contributions)
@@ -2264,4 +2269,8 @@ Aakash Gupta
 - [fan4754-hash](https://github.com/fan4754-hash)
 - [Triveni1706](https://github.com/Triveni1706)
 - [Aaron Dinh](https://github.com/Sinn3rs)
+
 - [Tabiq Zargar](https://github.com/TabiqZargar)
+
+- Kannan S
+
