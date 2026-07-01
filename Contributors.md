@@ -1,14 +1,15 @@
 # Contributors
-
+- [fluffy-regista](https://github.com/fluffy-regista)
 - [yuyaoyyds](https://github.com/yuyaoyyds)
 - [Palvendra Choudhary](https://github.com/palvendrachoudhary)
 - [alchemist240](https://github.com/alchemist240)
 - [Nicholas Kimmel] (https://github.com/Nicholas-Kimmel)
 - [AD0031](https://github.com/AD0031-bit)
 - [Siddhesh Rao](https://github.com/siddheshR4)
-  [Emmanuel Fagite] (https://github.com/fagiteemmanuel4-bit)
-- [Tushar Khurana](https://github.com/Tushar-khurana-official/)
-
+[Emmanuel Fagite] (https://github.com/fagiteemmanuel4-bit)
+- [Tushar Khurana]( https://github.com/Tushar-khurana-official/)
+- [Yishith Vilas](https://github.com/YiVibro)
+- strawhat
 ManoGowda
 -[ivanzc](https://github.com/Ivanzc2005)
 -[Anurag Anand](https://github.com/Recalcitrant-anurag)
@@ -40,11 +41,14 @@ ManoGowda
 - Dev karan singh chandel
 - [KimsunLy](https://github.com/Kimsunly)
 - [Shan Asif](https://github.com/shanAweb)
+- [Lucas Santos Da Cruz](https://github.com/lsantosdacruz)
 - [Anil Tamang] (https://github.com/anil-titung-tamang)
+- [Marcio Nielsen Baptista](https://github.com/marcionielsen)
 - [Unity Oware] (https://github.com/oware5)
 - [gh900-062601](https://github.com/)
 - [UtsavVariya] (https://github.com/UtsavVariya)
 - [gh900-062622](https://github.com/)
+- [MiguelPort80](https://github.com/MiguelPort80)
 - [Pankaj Garg](https://github.com/Garg-Pankaj29)
 - [ADHIRAJ994](https://github.com/ADHIRAJ994)
 - [ranjana](https://github.com/ranjana-nr)
@@ -52,7 +56,7 @@ ManoGowda
 - [Akshat Lal](https://github.com/lal-akshat)
 -  -am
   张三李四 -[Piyush Thote](https://github.com/piyush-thote0867) -[Hunter Rundhaug](https://github.com/HunterRundhaug)
-- [Sadra Hoseinpour](https://github.com/ItzsSadra) -[GH900 062606] (https://github.com/) -[Rodmehr Semnani](https://github.com/rsemnani)
+	- [Sadra Hoseinpour](https://github.com/ItzsSadra) -[GH900 062606] (https://github.com/) -[Rodmehr Semnani](https://github.com/rsemnani)
 - [Test] (https://github.com/)
 - [Test] (https://github.com/)
 - [James Rouse]
@@ -202,6 +206,7 @@ ManoGowda
 - [Gauri](https://github.com/yo2005)
 - [Sumit saini](https://github.com/sumitsaini03)
 - [Sonal Priya](https://github.com/sp-codebase)
+-[Sara Ramraj Dhumal]
 - [Peter Pabon](https://github.com/peter-pabon/first-contributions)
 - [Pardhu-2005558](https://github.com/Pardhu-2005558)
 - [Priyansh Nihalani](https://github.com/priyanshnihalani/first-contributions)
@@ -2261,3 +2266,8 @@ Aakash Gupta
 - [Mikhail Garayev](https://github.com/mikhailgarayev)
 
 [ninjitsuytber](https://github.com/ninjitsuytber)
+- [kihato](https://github.com/kihato)
+- [fan4754-hash](https://github.com/fan4754-hash)
+- [Triveni1706](https://github.com/Triveni1706)
+- [Aaron Dinh](https://github.com/Sinn3rs)
+- Kannan S
