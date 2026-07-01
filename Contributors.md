@@ -2243,6 +2243,7 @@ Second commit
 - [Marve Star](https://github.com/Marvel-Lab)
 - [Marve Star](https://github.com/Marvel-Lab)
 - [FJH3576](https://github.com/FJH3576)
+- [Jitendra Bansal](https://github.com/jbansal2)
 - [Shubham Kumar] (https://github.com/cozyneurons)
 - [Saint Jeane](https://github.com/SaintJeane)
 - [Khayrullo Isomiddinov](https://github.com/khayrullo-isomiddinov) - (drop me a follow, I'll follow you back)
