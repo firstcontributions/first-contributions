@@ -24,6 +24,7 @@
 - [Haarush](https://github.com/Haarush2006)
 - [stindop]
 -any changes
+- [Kummithi Thanvi](https://github.com/Thanvi-27)
 - [Yuvan Vishnu Pandi](https://github.com/yuvanvishnupandi)
 - [Divyansh Singh](https://github.com/divyanshSingh41)
 - [Suraj G Meharwade](https://github.com/Suru-web)
