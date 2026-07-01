@@ -9,6 +9,7 @@
 
 ManoGowda
 -[ivanzc](https://github.com/Ivanzc2005)
+
 - [game_ryo](https://github.com/ryotagtagtag-wq)
 - [Priyanka Siwach](https://github.com/PriyankaSiwach)
 - [Afzal Khan](https://github.com/khan1020)
@@ -80,7 +81,11 @@ ManoGowda
 - [Shruti Dixit](https://github.com/sshrrutiiii)
 - [xDatabox] (https://github.com/xdatabox)
 - [Pratyusha] (https://github.com/PratyushaM09)
+
 - FingerSpinx
+
+- YK
+
 - [Syed Hamid Rahim] (https://github.com/shamidrahim)
 - [Sandli Thakur](https://github.com/thakursandli01-bit)
 - [Anshuman] (https://github.com/AnshumanTri)
@@ -94,7 +99,7 @@ ManoGowda
 - [Sam](https://github.com/rosen184) -[agbuddy7](https://github.com/agbuddy7)
 - [Ananya](https://github.com/Ananya-dozakh-survivor)
 - [Atharv](https://github.com/atharvtrynacode)
--[Akash Mishra](https://github.com/Akashmishra1421)
+  -[Akash Mishra](https://github.com/Akashmishra1421)
 - [Lewis wege](https://github.com/lewiswege)
 - -[Anas Nadeem](https://github.com/AnassNadeem)
 - [ettabihi](https://github.com/ettabihi)
@@ -209,7 +214,7 @@ ManoGowda
 - [Hamid Ali](https://github.com/hamidali54)
 - [Md Mehedi Hasan](https://github.com/pymehedi)
 - Just a practice commit
--[BPURPLE](https://github.com/BPURPLE) - Sayanika 
+  -[BPURPLE](https://github.com/BPURPLE) - Sayanika 
 - [Boskele](https://github.com/Boskelero)
 - [Atulya Juyal](https://github.com/Atulya-Juyal)
 - [kadapalanikith](https://github.com/kadapalanikith)
@@ -451,7 +456,7 @@ ManoGowda
 - [Abdullah Elsafty](https://github.com/your-abdullahelsafty4)
 - [Abdullah Khan](https://github.com/Python-genius900)
 - [Abdullah Semar](https://github.com/abdullahsemar)
-myname
+  myname
 - [Abdullah Salim](https://github.com/AdvancedForge)
 - [Abhay Agnihotri](https://github.com/Abhay-Agnihotri01/)
 - [Abhay Sharma](https://github.com/asabhaysharma)
