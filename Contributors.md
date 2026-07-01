@@ -8,6 +8,7 @@
 [Emmanuel Fagite] (https://github.com/fagiteemmanuel4-bit)
 - [Tushar Khurana]( https://github.com/Tushar-khurana-official/)
 
+- strawhat
 ManoGowda
 -[ivanzc](https://github.com/Ivanzc2005)
 - [SabbathBro](https://github.com/SabbathBro)
