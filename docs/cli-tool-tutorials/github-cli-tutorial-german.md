@@ -75,6 +75,8 @@ Ersetzen Sie `your-branch-name` durch den Namen des Branches, den Sie zuvor erst
   [GitHub-Anleitung zum Erstellen und Konfigurieren eines SSH-Schlüssels für Ihr Konto](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account).
 </details>
 
+</details>
+
 # Reichen Sie Ihre Änderungen zur Überprüfung ein
 
 Nun können Sie diesen Befehl in unserem Repository-Verzeichnis ausführen, um eine Pull-Anfrage zur Überprüfung zu erstellen:
