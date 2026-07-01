@@ -186,6 +186,7 @@ ManoGowda
 - [Priya Patel](https://github.com/Priya-Patel-08)
 - [Kofi Reeves-Miller](https://github.com/Kofi-RM)
 - [Joshua Napiñas](https://github.com/elib00)
+- [Hariom Patidar](https://github.com/hariom24777)
 - [Anya] (https://github.com/anyatomik)
 - [Anushka](https://github.com/Anushkap-lab)
 - [Raheem] (https://github.com/raheem-ui)
