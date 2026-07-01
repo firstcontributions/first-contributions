@@ -1,16 +1,17 @@
 # Contributors
+
 - [yuyaoyyds](https://github.com/yuyaoyyds)
 - [Palvendra Choudhary](https://github.com/palvendrachoudhary)
 - [alchemist240](https://github.com/alchemist240)
 - [Nicholas Kimmel] (https://github.com/Nicholas-Kimmel)
-- [AD0031]( https://github.com/AD0031-bit)
+- [AD0031](https://github.com/AD0031-bit)
 - [Siddhesh Rao](https://github.com/siddheshR4)
-[Emmanuel Fagite] (https://github.com/fagiteemmanuel4-bit)
-- [Tushar Khurana]( https://github.com/Tushar-khurana-official/)
+  [Emmanuel Fagite] (https://github.com/fagiteemmanuel4-bit)
+- Masood Ahmed ( https://github.com/masoodkolachi)
+- [Tushar Khurana](https://github.com/Tushar-khurana-official/)
 
 - strawhat
-ManoGowda
--[ivanzc](https://github.com/Ivanzc2005)
+  ManoGowda -[ivanzc](https://github.com/Ivanzc2005)
 - [SabbathBro](https://github.com/SabbathBro)
 - [game_ryo](https://github.com/ryotagtagtag-wq)
 - [Priyanka Siwach](https://github.com/PriyankaSiwach)
@@ -30,8 +31,7 @@ ManoGowda
 - [Orji Emmanuel](https://github.com/ManuelOrji2)
 - [Yadiel Tesfaye](https://github.com/yadawprodev)
 - [Ayaz Ahmad](https://github.com/Ayazahmad01)
-- [Sai Gokul](https://github.com/nvsaigokul-sudo)
--[vikash chudasama](https://github.com/vikashchudasama-sys)
+- [Sai Gokul](https://github.com/nvsaigokul-sudo) -[vikash chudasama](https://github.com/vikashchudasama-sys)
 - [Memphis DiAngelis](https://github.com/earthtomemphis)
 - GH900_27 (https://github.com/)
 - Himansh Solanki
@@ -101,8 +101,7 @@ ManoGowda
 - [Affan](https://github.com/)
 - [Sam](https://github.com/rosen184) -[agbuddy7](https://github.com/agbuddy7)
 - [Ananya](https://github.com/Ananya-dozakh-survivor)
-- [Atharv](https://github.com/atharvtrynacode)
-  -[Akash Mishra](https://github.com/Akashmishra1421)
+- [Atharv](https://github.com/atharvtrynacode) -[Akash Mishra](https://github.com/Akashmishra1421)
 - [Lewis wege](https://github.com/lewiswege)
 - -[Anas Nadeem](https://github.com/AnassNadeem)
 - [ettabihi](https://github.com/ettabihi)
@@ -219,8 +218,7 @@ ManoGowda
 - [Abhishek Singh](https://github.com/Abhi13shek)
 - [Hamid Ali](https://github.com/hamidali54)
 - [Md Mehedi Hasan](https://github.com/pymehedi)
-- Just a practice commit
-  -[BPURPLE](https://github.com/BPURPLE) - Sayanika 
+- Just a practice commit -[BPURPLE](https://github.com/BPURPLE) - Sayanika
 - [Boskele](https://github.com/Boskelero)
 - [Atulya Juyal](https://github.com/Atulya-Juyal)
 - [kadapalanikith](https://github.com/kadapalanikith)
@@ -710,7 +708,7 @@ ManoGowda
 - [Dhruv Bansal](https://github.com/dhruvbansalup)
 - [Dhruv Srivastava](https://github.com/Dhruvh-maker)
 - [Dhruv](https://github.com/Dhru08)
-Cade Tramonte
+  Cade Tramonte
 - [Dhruvi](https://github.com/DhruviGajjar26)
 - [Dhruvi Rana](https://github.com/Dhruvirana08)
 - [Digvijay Patel](https://github.com/DigvijayPatel1)
@@ -2182,15 +2180,14 @@ Aakash Gupta
 - [Adil](https://github.com/meadil)
 - [Shivam](https://github.com/AFRADOX)
 - Anurag
-- [Meghana V](https://github.com/meghana202003]) 
--[Rahul Majumder](https://github.com/irtrahul2007-IND)
+- [Meghana V](https://github.com/meghana202003]) -[Rahul Majumder](https://github.com/irtrahul2007-IND)
 - [Akash Khatri](https://github.com/AkashKhatri-codes)
 - [Mojtaba Zarreh](https://github.com/MojtabaZarreh)
 - [Punith](https://github.com/anjan0546)
 - [Samuel Janring Sitio](https://github.com/samueljanringsitio) - Indonesia 🇮🇩
 - [Shahir](https://github.com/shahir55312-collab)
 - [Mounish-tatipigari]
-[Aditya Mehta](https://github.com/adityaaa539)
+  [Aditya Mehta](https://github.com/adityaaa539)
 - [Giovanni](https://github.com/giovanni473-afk)
 - [Sakshi Borse](https://github.com/SakshiBorsepatil-123)
 - [Muskan Gupta](https://github.com/Muskan-gupta2118)
@@ -2208,14 +2205,14 @@ Aakash Gupta
 - [Laszlo Dus](https://github.com/laszlodus)
 - [Kesiena Micah Irikefe](https://github.com/DevTechMike-Coder)
 - [Giorgio Russek](https://github.com/giorgiorussek-sketch)
-Muhammad Taha
-Second commit
- - [Prashant Khosre] GH-900 Lab demonstration
+  Muhammad Taha
+  Second commit
+- [Prashant Khosre] GH-900 Lab demonstration
 - [mark mayand]
 - [Andrey Protsenko](https://github.com/solik220-bit)
 - [Laszlo Dus](https://github.com/laszlodus)
 - [Kesiena Micah Irikefe](https://github.com/DevTechMike-Coder)
-= [Divya Bora](https://github.com/Codewhizz01)
+  = [Divya Bora](https://github.com/Codewhizz01)
 - [Min-lynne](https://github.com/Min-lynne)
 - [Bisti Ghosh](https://github.com/bistighosh16)
   = [Divya Bora](https://github.com/Codewhizz01)
@@ -2237,10 +2234,7 @@ Second commit
 - [Melissa Theisen](https://github.com/MTheisen77)
 - [Noah Moore](https://github.com/noahlabtime)
 - [LucasChan](https://github.com/chanl11)
-- [Me106y](https://github.com/Me106y)
--[fyZton](https://github.com/fyZton)
--[Shibnath Maity](https://github.com/Shibnath-Maity)
--[Raunaq David Nath](https://github.com/RaunaqDavidNath)
+- [Me106y](https://github.com/Me106y) -[fyZton](https://github.com/fyZton) -[Shibnath Maity](https://github.com/Shibnath-Maity) -[Raunaq David Nath](https://github.com/RaunaqDavidNath)
 - [Rahul K S](https://github.com/Rahul-K-S02)
 - [Bhavishya Goyal](https://github.com/Bhavishya07-Tech)
 - [Marve Star](https://github.com/Marvel-Lab)
@@ -2253,16 +2247,17 @@ Second commit
 - [Hemanth Kumar PK] (https://github.com/https://github.com/KathiresanHemanth)
 - [Harshit Mishra] (https://github.com/Harshitbro-ctrlv)
 - [Kaung Si Thu] (https://github.com/https://github.com/kg-sithu)
-- [ilyas üstüntaş](https://github.com/Lys-afk) 
+- [ilyas üstüntaş](https://github.com/Lys-afk)
 - [Santhosh C V](https://github.com/Santhoshcv07)
-Himanshu Singh wants Pull Shark
-Siddesh Raoandure
-Nethmi Thakshila
-Nice to try out first pull
-Nethmi(https://github.com/thakshilaaa)
+  Himanshu Singh wants Pull Shark
+  Siddesh Raoandure
+  Nethmi Thakshila
+  Nice to try out first pull
+  Nethmi(https://github.com/thakshilaaa)
 - [Siddharth](https://github.com/siddharth03015)
 - [Kaushambi Gujral](https://github.com/kgujral2612)
 - [Mikhail Garayev](https://github.com/mikhailgarayev)
 
 [ninjitsuytber](https://github.com/ninjitsuytber)
+
 - [kihato](https://github.com/kihato)
