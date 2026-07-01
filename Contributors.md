@@ -1,4 +1,5 @@
 # Contributors
+- [fluffy-regista](https://github.com/fluffy-regista)
 - [yuyaoyyds](https://github.com/yuyaoyyds)
 - [Palvendra Choudhary](https://github.com/palvendrachoudhary)
 - [alchemist240](https://github.com/alchemist240)
