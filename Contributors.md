@@ -7,6 +7,7 @@
 [Emmanuel Fagite] (https://github.com/fagiteemmanuel4-bit)
 - [Tushar Khurana]( https://github.com/Tushar-khurana-official/)
 
+- strawhat
 ManoGowda
 -[ivanzc](https://github.com/Ivanzc2005)
 - [game_ryo](https://github.com/ryotagtagtag-wq)
