@@ -7,9 +7,13 @@
 |<img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="200">|Visual Studio 2017 Edition|
 |---|---|
 
-It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
+It's always hard the first time you do something, especially when you're collaborating with others. Making mistakes can feel uncomfortable, but open source is all about collaboration, learning, and working together.
 
-Reading articles & watching tutorials can help, but what comes better than actually doing the stuff without messing up anything. This project aims at providing guidance & simplifying the way rookies make their first contribution. Remember the more relaxed you are the better you learn. If you are looking for making your first contribution just follow the simple steps below. We promise you, it will be fun.
+We created this project to simplify the process of making your first open-source contribution. While reading articles and watching tutorials can help, nothing beats learning by actually contributing in a safe and beginner-friendly environment.
+
+This project provides step-by-step guidance to help newcomers make their first contribution without worrying about breaking anything. Remember, the more relaxed and confident you are, the better you'll learn.
+
+If you're ready to make your first open-source contribution, simply follow the steps below. We promise—it'll be a fun and rewarding experience! 🚀
 
 If you don't have Visual Studio 2017 on your machine, [install it](https://www.visualstudio.com/downloads/).
 
