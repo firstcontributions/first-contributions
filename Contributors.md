@@ -2244,6 +2244,7 @@ Second commit
 - [Santhosh C V](https://github.com/Santhoshcv07)
 Himanshu Singh wants Pull Shark
 Siddesh Raoandure
+Nethmi Thakshila
 Nice to try out first pull
 Nethmi(https://github.com/thakshilaaa)
 - [Siddharth](https://github.com/siddharth03015)
