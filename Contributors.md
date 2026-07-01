@@ -5,12 +5,12 @@
 - [Nicholas Kimmel] (https://github.com/Nicholas-Kimmel)
 - [AD0031]( https://github.com/AD0031-bit)
 - [Siddhesh Rao](https://github.com/siddheshR4)
-[Emmanuel Fagite] (https://github.com/fagiteemmanuel4-bit)
+- [Emmanuel Fagite] (https://github.com/fagiteemmanuel4-bit)
 - [Tushar Khurana]( https://github.com/Tushar-khurana-official/)
 
 - strawhat
-ManoGowda
--[ivanzc](https://github.com/Ivanzc2005)
+- ManoGowda
+- [ivanzc](https://github.com/Ivanzc2005)
 - [SabbathBro](https://github.com/SabbathBro)
 - [game_ryo](https://github.com/ryotagtagtag-wq)
 - [Priyanka Siwach](https://github.com/PriyankaSiwach)
@@ -31,7 +31,7 @@ ManoGowda
 - [Yadiel Tesfaye](https://github.com/yadawprodev)
 - [Ayaz Ahmad](https://github.com/Ayazahmad01)
 - [Sai Gokul](https://github.com/nvsaigokul-sudo)
--[vikash chudasama](https://github.com/vikashchudasama-sys)
+- [vikash chudasama](https://github.com/vikashchudasama-sys)
 - [Memphis DiAngelis](https://github.com/earthtomemphis)
 - GH900_27 (https://github.com/)
 - Himansh Solanki
@@ -49,16 +49,23 @@ ManoGowda
 - [ranjana](https://github.com/ranjana-nr)
 - [Abhishek](https://github.com/trustAbhishek)
 - [Akshat Lal](https://github.com/lal-akshat)
-  -am
-  张三李四 -[Piyush Thote](https://github.com/piyush-thote0867) -[Hunter Rundhaug](https://github.com/HunterRundhaug)
-	- [Sadra Hoseinpour](https://github.com/ItzsSadra) -[GH900 062606] (https://github.com/) -[Rodmehr Semnani](https://github.com/rsemnani)
+- am
+- 张三李四 
+- [Piyush Thote](https://github.com/piyush-thote0867)
+- [Hunter Rundhaug](https://github.com/HunterRundhaug)
+- [Sadra Hoseinpour](https://github.com/ItzsSadra) -[GH900 062606] (https://github.com/)
+- [Rodmehr Semnani](https://github.com/rsemnani)
 - [Test] (https://github.com/)
 - [Test] (https://github.com/)
 - [James Rouse]
 - [Richa Singh]
 - [Savanth G](https://github.com/Savanth114/first-contributions.git)
 - [Arjav Jain](https://github.com/ArjavJain-27)
-- [Haider Abbas](https://github.com/Haider-Abbas028) -[Aarav Shah](https://github.com/aaraven99) -[Bhagya Shah](https://github.com/bhagyashah-dev) -[surajshinde](https://github.com/surajshinde9) -[Ayushi Singh](https://github.com/ayus28ayushi-ai)
+- [Haider Abbas](https://github.com/Haider-Abbas028) 
+- [Aarav Shah](https://github.com/aaraven99)
+- [Bhagya Shah](https://github.com/bhagyashah-dev)
+- [surajshinde](https://github.com/surajshinde9)
+- [Ayushi Singh](https://github.com/ayus28ayushi-ai)
 - [HUALAW](https://github.com/HUALAW-max/first-contributions.git)
 - [Hemanth kumar](https://github.com/hemanthshashidhar)
 - [Afeefa CS](https://github.com/csafeefa-alt)
@@ -103,23 +110,23 @@ ManoGowda
 - [Sam](https://github.com/rosen184) -[agbuddy7](https://github.com/agbuddy7)
 - [Ananya](https://github.com/Ananya-dozakh-survivor)
 - [Atharv](https://github.com/atharvtrynacode)
-  -[Akash Mishra](https://github.com/Akashmishra1421)
+- [Akash Mishra](https://github.com/Akashmishra1421)
 - [Lewis wege](https://github.com/lewiswege)
-- -[Anas Nadeem](https://github.com/AnassNadeem)
+- [Anas Nadeem](https://github.com/AnassNadeem)
 - [ettabihi](https://github.com/ettabihi)
 - [pixelatedkisses] (https://github.com/pixelatedkisses)
 - [Tanish] (https://github.com/tanishmisra9)
 - [问剑白玉京](https://github.com/789wjbyj)
-  [kshitij] ([Kshitij](https://github.com/KshitijK21)
+- [Kshitij](https://github.com/KshitijK21)
 - [Manisha Govind](https://github.com/Manisha5918)
 - [Jayesh Patil](https://github.com/Jay-wav)
 - [Harshini BV] (https://github.com/Harshbv)
 - [Sanjana Kumari] (https://github.com/Brownteen18)
-  [ankityogi](https://github.com/ankityogi)
+- [ankityogi](https://github.com/ankityogi)
 - [Harshini BV] (https://github.com/Harshbv)
 - [Sachin Chandra Goolla] (https://github.com/SachinGoolla)
-  main
-- [ Shriram J ] (https://github.com/Shriram2617)
+- main
+- [Shriram J] (https://github.com/Shriram2617)
 - [Amrit Kumar] (https://github.com/AmritKumar777)
 - [Vinod Gawande](https://github.com/VinodGawande)
 - [Adeesha Induja](https://github.com/AdeeshaInduja)- [Priced](https://github.com/PricedTuna)
