@@ -2284,3 +2284,4 @@ Aakash Gupta
 
 - - [Pooja Sri Vanum](https://github.com/poojasrivanum)
 - [Ryan Xue](https://github.com/AresLicy)
+- [Larissa Fernandez](https://github.com/larissafernandez-dev)
