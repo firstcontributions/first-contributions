@@ -302,6 +302,7 @@ ManoGowda
 - [Tanushree R](https://github.com/Tanushree-RD)
 - [Jahanvi Raycha](https://github.com/jahanvir)
 - [Roberto-Lins](https://github.com/Roberto-Lins)
+- [B Nandini Goud](https://github.com/BurremNandiniGoud/)
 - [Daniel Corona](https://github.com/Danieeel0601)
 - [Kuldeep Rajput](https://github.com/kuldeeprajput-dev)
 - [WangX0111](https://github.com/WangX0111)
