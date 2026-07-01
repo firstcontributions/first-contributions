@@ -8,6 +8,7 @@
 - [Siddhesh Rao](https://github.com/siddheshR4)
 [Emmanuel Fagite] (https://github.com/fagiteemmanuel4-bit)
 - [Tushar Khurana]( https://github.com/Tushar-khurana-official/)
+- [Gerardo Martinez] (https://github.com/hackmaster101/first-contributions)
 
 - strawhat
 ManoGowda
