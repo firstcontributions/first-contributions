@@ -7,6 +7,7 @@
 - [Siddhesh Rao](https://github.com/siddheshR4)
 [Emmanuel Fagite] (https://github.com/fagiteemmanuel4-bit)
 - [Tushar Khurana]( https://github.com/Tushar-khurana-official/)
+- Abhijnya K G(https://github.com/Abhijnya002)
 
 - strawhat
 ManoGowda
