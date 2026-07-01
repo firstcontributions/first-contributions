@@ -2277,4 +2277,5 @@ Aakash Gupta
 - [Aaron Dinh](https://github.com/Sinn3rs)
 - Kannan S
 - - [Ajit Jha](https://github.com/Ajitjha3095/)
+- [Shatanik Chatterjee](https://github.com/ShatanikC/)
 - Yashika Sharma (https://github.com/yashika48)
