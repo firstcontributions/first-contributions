@@ -2240,7 +2240,8 @@ Second commit
 - [Hemanth Kumar PK] (https://github.com/https://github.com/KathiresanHemanth)
 - [Harshit Mishra] (https://github.com/Harshitbro-ctrlv)
 - [Kaung Si Thu] (https://github.com/https://github.com/kg-sithu)
- - [Santhosh C V](https://github.com/Santhoshcv07)
+- [ilyas üstüntaş](https://github.com/Lys-afk) 
+- [Santhosh C V](https://github.com/Santhoshcv07)
 Himanshu Singh wants Pull Shark
 Siddesh Raoandure
 Nice to try out first pull
