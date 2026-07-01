@@ -1,4 +1,5 @@
 # Contributors
+- [yuyaoyyds](https://github.com/yuyaoyyds)
 - [alchemist240](https://github.com/alchemist240)
 - [Nicholas Kimmel] (https://github.com/Nicholas-Kimmel)
 - [AD0031]( https://github.com/AD0031-bit)
@@ -81,6 +82,7 @@ ManoGowda
 - [Pratyusha] (https://github.com/PratyushaM09)
 - FingerSpinx
 - [Syed Hamid Rahim] (https://github.com/shamidrahim)
+- [Sandli Thakur](https://github.com/thakursandli01-bit)
 - [Anshuman] (https://github.com/AnshumanTri)
 - [Kashish Raj](https://github.com/CodeBytesRaj)
 - [Ayush Baware](https://github.com/AyushBaware)
@@ -207,7 +209,7 @@ ManoGowda
 - [Hamid Ali](https://github.com/hamidali54)
 - [Md Mehedi Hasan](https://github.com/pymehedi)
 - Just a practice commit
-
+-[BPURPLE](https://github.com/BPURPLE) - Sayanika 
 - [Boskele](https://github.com/Boskelero)
 - [Atulya Juyal](https://github.com/Atulya-Juyal)
 - [kadapalanikith](https://github.com/kadapalanikith)
@@ -621,6 +623,7 @@ myname
 - [Bulbul Malik](https://github.com/bulbulmalik)
 - [ByteTechno](https://github.com/ByteTechno)
 - [C. Yin](https://github.com/cy-Yin)
+- [C12urrent](https://github.com/C12urrent）
 - [Caden Warren](https://github.com/cw-0)
 - [Caleb Ripley](https://github.com/cdripley7-bit)
 - [Caleb Rollf](https://github.com/lemonsloth)
@@ -695,6 +698,7 @@ myname
 - [Dhruv Bansal](https://github.com/dhruvbansalup)
 - [Dhruv Srivastava](https://github.com/Dhruvh-maker)
 - [Dhruv](https://github.com/Dhru08)
+Cade Tramonte
 - [Dhruvi](https://github.com/DhruviGajjar26)
 - [Dhruvi Rana](https://github.com/Dhruvirana08)
 - [Digvijay Patel](https://github.com/DigvijayPatel1)
@@ -1265,6 +1269,7 @@ Aakash Gupta
 - [Raj Dhende](https://github.com/RajDhende)
 - [Ramya Lakshmi KS](https://github.com/RamyaLakshmiKS)
 - [RandomAimXD](https://github.com/RandomAimXD)
+- [Alan Gausebeck](https://github.com/alangausebeck)
 - [Rashadul dev](https://github.com/rashaduldev)
 - [RashiBista](https://github.com/RashiBista)
 - [Rashida Safreen](https://github.com/rashidasafreen)
@@ -1878,6 +1883,7 @@ Aakash Gupta
 - [Palak Gupta](https://github.com/palak22291)
 - main
 - [Pushty Jha](https://github.com/pushtyjha-blip)
+- [ADOUABOU Appolinaire](https://github.com/Appolinaire226)
 - [Andy Ron](https://github.com/andyRon)
 - [Sandra Marin Rajesh](https://github.com/Sandra-Marin)
 - [Nithyasri77] (https://github.com/Nithyasri77)
@@ -2075,6 +2081,7 @@ Aakash Gupta
 - [Roshna Jayan](https://github.com/roshnajayan198-cloud)
 - main
 - [Sri Keerthi](https://github.com/Srikeerthi05)
+- [CrystalJade](https://github.com/Fun9usF1sh)
 - [SAYYED799](https://github.com/SAYYED799)
 - [Abdullah Arif](https://github.com/AbdullahArif17)
 - [richman0909](https://github.com/richman0909)
@@ -2233,7 +2240,13 @@ Second commit
 - [Hemanth Kumar PK] (https://github.com/https://github.com/KathiresanHemanth)
 - [Harshit Mishra] (https://github.com/Harshitbro-ctrlv)
 - [Kaung Si Thu] (https://github.com/https://github.com/kg-sithu)
- - [Santhosh C V](https://github.com/Santhoshcv07)
+- [ilyas üstüntaş](https://github.com/Lys-afk) 
+- [Santhosh C V](https://github.com/Santhoshcv07)
 Himanshu Singh wants Pull Shark
 Siddesh Raoandure
 Nethmi Thakshila
+Nice to try out first pull
+Nethmi(https://github.com/thakshilaaa)
+- [Siddharth](https://github.com/siddharth03015)
+- [Kaushambi Gujral](https://github.com/kgujral2612)
+- [Mikhail Garayev](https://github.com/mikhailgarayev)
