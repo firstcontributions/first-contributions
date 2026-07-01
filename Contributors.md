@@ -1,4 +1,5 @@
 # Contributors
+-[alealonso017](https://github.com/alealonso17)
 - [fluffy-regista](https://github.com/fluffy-regista)
 - [yuyaoyyds](https://github.com/yuyaoyyds)
 - [Palvendra Choudhary](https://github.com/palvendrachoudhary)
