@@ -2307,3 +2307,4 @@ Aakash Gupta
 - [Pranav SP](https://github.com/pranavsp12-dev)
 - [Pari Garg](https://github.com/Parigarg2006)
 - [Peterson Kagiri](https://github.com/pinchase)
+- [Aradhya Singh](https://github.com/beyondthebitss)
