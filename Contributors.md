@@ -35,6 +35,7 @@
 - strawhat
 ManoGowda
 -[ivanzc](https://github.com/Ivanzc2005)
+- [DylanB145](https://github.com/DylanB145)
 -[juanmi](https://github.com/Juanmi79)
 -[johnhandleyd](https://github.com/johnhandleyd/)
 -[Anurag Anand](https://github.com/Recalcitrant-anurag)
