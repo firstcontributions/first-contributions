@@ -1613,6 +1613,7 @@ Aakash Gupta
 - [Tidenflow](https://github.com/Tidenflow)
 - [Tim Abad](https://github.com/TimAbad)
 - [TimOthry](https://github.com/TimOthry)
+- [Timothi Pariyar](https://github.com/TimothiXGod)
 - [Tiziano G.](https://github.com/tiz-88)
 - [Toluwanimi](https://github.com/DevTolu79)
 - [Tometri](https://github.com/Tometri)
@@ -2298,6 +2299,7 @@ Aakash Gupta
 - [Siddharth](https://github.com/siddharth03015)
 - [Kaushambi Gujral](https://github.com/kgujral2612)
 - [Mikhail Garayev](https://github.com/mikhailgarayev)
+-Chandana Jagadish
 
 [ninjitsuytber](https://github.com/ninjitsuytber)
 - [kihato](https://github.com/kihato)
