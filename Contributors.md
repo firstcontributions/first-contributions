@@ -11,7 +11,7 @@
 - [Tushar Khurana]( https://github.com/Tushar-khurana-official/)
 - Abhijnya K G(https://github.com/Abhijnya002)
 - [Homam] (https://github.com/ahmadhomam)
-
+- [Shiraptinath](https://github.com/Shirapti-nath)
 - [Yishith Vilas](https://github.com/YiVibro)
 - strawhat
 ManoGowda
