@@ -2210,6 +2210,7 @@ Aakash Gupta
 - [Muskan Gupta](https://github.com/Muskan-gupta2118)
 - [Gungun Kumari](https://github.com/gunguncodes)
 - [Perry Tan](https://github.com/casualwarfare-wq)
+- Daz-ler
 - [Takakura Anzu](https://github.com/takakura-anzu)
 - [Valeria Guerrero](https://github.com/ValeriaGuerreroTR)
 - [Akansha Gore](https://github.com/Akanshagore)
