@@ -1,4 +1,11 @@
+
 - [tanve13](https://github.com/tanve13) #Contributor
+
+### New Contri
+- Ankur Macwan: [ankur3-101106](https://github.com/ankur3-101106)
+- Ankur 2: [ankur-1112](https://github.com/ankur-1112)
+
+
 - [Anand Prasad](https://github.com/Anandprasad03) #Contributors
 - [Mohammed](https://github.com/mosaahgaal-png) #Contributors
 - [PRAJWAL_RG](https://github.com/PRAJWAL-RAMGOND)# Contributors
@@ -2328,3 +2335,4 @@ Aakash Gupta
 - [Varad Hajare](https://github.com/varadhajare)
 - [Bekarys Maksutbek] (https://github.com/b2k4rys)
 - [Egor Vaganov] (https://github.com/egorvaganov)
+- [Shruti Verma](https://github.com/Shrutii008)
