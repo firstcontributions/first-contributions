@@ -2332,3 +2332,4 @@ Aakash Gupta
 - [Varad Hajare](https://github.com/varadhajare)
 - [Bekarys Maksutbek] (https://github.com/b2k4rys)
 - [Egor Vaganov] (https://github.com/egorvaganov)
+- [Shruti Verma](https://github.com/Shrutii008)
