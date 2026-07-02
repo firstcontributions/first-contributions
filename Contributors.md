@@ -166,6 +166,7 @@ ManoGowda
 - [Vinod Gawande](https://github.com/VinodGawande)
 - [Adeesha Induja](https://github.com/AdeeshaInduja)- [Priced](https://github.com/PricedTuna)
 - [Eric Zhao](https://github.com/eericzzhao)
+- [Harsh Prajapati](https://github.com/harsh-prajapati54)
 - [Avraj J.](https://github.com/avrajj)
 - [Yue Sl]
 - [Anagha Ajesh](https://github.com/anaajesh) -[Junaid Jamadar](https://github.com/JunaidDev20-spec)
