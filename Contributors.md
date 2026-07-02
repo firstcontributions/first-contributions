@@ -30,6 +30,7 @@
 [Emmanuel Fagite] (https://github.com/fagiteemmanuel4-bit)
 - [Nakul Iyer](https://github.com/naks123)
 - [Tushar Khurana]( https://github.com/Tushar-khurana-official/)
+- [Gerardo Martinez](https://github.com/hackmaster101/first-contributions)
 - Abhijnya K G(https://github.com/Abhijnya002)
 - [Homam] (https://github.com/ahmadhomam)
 - [Shiraptinath](https://github.com/Shirapti-nath)
