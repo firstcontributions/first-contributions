@@ -1,6 +1,6 @@
-# Contributors
-- [ADHIRAJ994](https://github.com/ADHIRAJ994)
+- [ADHIRAJ994](https://github.com/ADHIRAJ994)# Contributors
 - [alealonso017](https://github.com/alealonso17)
+- [Bittu Kumar](https://github.com/CSEBittuKr)
 - [fluffy-regista](https://github.com/fluffy-regista)
 - [yuyaoyyds](https://github.com/yuyaoyyds)
 - [Palvendra Choudhary](https://github.com/palvendrachoudhary)
@@ -16,6 +16,7 @@
 - ManoGowda
 - [ivanzc](https://github.com/Ivanzc2005)
 - [Anurag Anand](https://github.com/Recalcitrant-anurag)
+- [Mythrayee](https://github.com/Mythrayee12)
 - [SabbathBro](https://github.com/SabbathBro)
 - [Ishwika Bitla](https://github.com/IshwikaBitla)
 - [game_ryo](https://github.com/ryotagtagtag-wq)
