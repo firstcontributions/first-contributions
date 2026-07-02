@@ -29,6 +29,8 @@
   [Emmanuel Fagite] (https://github.com/fagiteemmanuel4-bit)
 - [Nakul Iyer](https://github.com/naks123)
 - [Tushar Khurana](https://github.com/Tushar-khurana-official/)
+- [Tushar Khurana]( https://github.com/Tushar-khurana-official/)
+- [Gerardo Martinez](https://github.com/hackmaster101/first-contributions)
 - Abhijnya K G(https://github.com/Abhijnya002)
 - [Homam] (https://github.com/ahmadhomam)
 - [Shiraptinath](https://github.com/Shirapti-nath)
@@ -55,9 +57,11 @@
 - [Dembo Jatta](https://github.com/Demzi1)
 - [Erdemguvenc](https://github.com/Erdemguvenc)
 - [Manya Parikh](https://github.com/Manya2302)
+- [Lavkesh Sharma]
 - [Abhijeet Raj](https://github.com/Abhijeet-99-dev)
 - [Shivendra Bhardwaj](https://github.com/ZenzoSH)
 - [Nitin] (https://github.com/nitin3150)
+- [Novato Sensacion](https://github.com/SUS640-Z)
 - [Love Chauhan](https://github.com/chauhanlove271)
 - [Orji Emmanuel](https://github.com/ManuelOrji2)
 - [Yadiel Tesfaye](https://github.com/yadawprodev)
@@ -2305,6 +2309,8 @@ Aakash Gupta
 - [Kaushambi Gujral](https://github.com/kgujral2612)
 - [Mikhail Garayev](https://github.com/mikhailgarayev)
   -Chandana Jagadish
+- [Janhavi Biradar](https://github.com/janhavibiradar123)
+-Chandana Jagadish
 
 [ninjitsuytber](https://github.com/ninjitsuytber)
 
@@ -2313,6 +2319,9 @@ Aakash Gupta
 - [Triveni1706](https://github.com/Triveni1706)
 - [Aaron Dinh](https://github.com/Sinn3rs)
 - Kannan S
+- [Ajit Jha](https://github.com/Ajitjha3095/)
+- [Ronak Kumar Singh](https://github.com/ronak-kumar-sing)
+- [aiautomationgalway-maker](https://github.com/aiautomationgalway-maker)
 - - [Ajit Jha](https://github.com/Ajitjha3095/)
 - [Shatanik Chatterjee](https://github.com/ShatanikC/)
 - Yashika Sharma (https://github.com/yashika48)
@@ -2343,3 +2352,5 @@ Aakash Gupta
 - [Gestão Saude Business](https://github.com/gestaosaudebusiness-tech)
 - [Omkar Dhere](https://github.com/omkar2524)
 - [Jahnavi Polasa](https://github.com/jahnavipolasa)
+
+- [mgmtapppirat-beep](https://github.com/mgmtapppirat-beep)
