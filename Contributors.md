@@ -30,6 +30,7 @@
 - [Homam] (https://github.com/ahmadhomam)
 - [Shiraptinath](https://github.com/Shirapti-nath)
 - [Yishith Vilas](https://github.com/YiVibro)
+- [Saniya Pendhari] (https://github.com/saniyap12)
 - strawhat
 ManoGowda
 -[ivanzc](https://github.com/Ivanzc2005)
