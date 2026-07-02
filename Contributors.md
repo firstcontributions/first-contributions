@@ -60,6 +60,7 @@ ManoGowda
 - [Dembo Jatta](https://github.com/Demzi1)
 - [Erdemguvenc](https://github.com/Erdemguvenc)
 - [Manya Parikh](https://github.com/Manya2302)
+- [Lavkesh Sharma]
 - [Abhijeet Raj](https://github.com/Abhijeet-99-dev)
 - [Shivendra Bhardwaj](https://github.com/ZenzoSH)
 - [Nitin] (https://github.com/nitin3150)
