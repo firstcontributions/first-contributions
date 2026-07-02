@@ -1148,6 +1148,7 @@ Aakash Gupta
 - [Nishk Mistry](https://github.com/nishkmistry)
 - [Nitish Sharma1](https://github.com/tylrx404)
 - [UTUBMIR](https://github.com/UTUBMIR)
+- [Jasmeet Singh from India 🇮🇳](https://github.com/JAS2343L)
 - [Noah Kim](https://github.com/gratisreise)
 - [Noah Schroeder](https://github.com/nrschroeder)
 - [HothoLina](https://github.com/HothoLina)
