@@ -2358,3 +2358,4 @@ Aakash Gupta
 - [mgmtapppirat-beep](https://github.com/mgmtapppirat-beep)
 
 - [Robert Königbauer](https://github.com/robertkoenigbauer-lang)
+- [Kayan Shah](https://github.com/KayanShah)
