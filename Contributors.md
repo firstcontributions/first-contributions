@@ -2316,3 +2316,4 @@ Aakash Gupta
 - [ohlocco](https://github.com/ohlocco)
 - [Srinivasa Prasad Gade](https://github.com/SrinivasaPrasadGade)
 - [Rabenn](https://github.com/Rabenn)
+- [Varad Hajare](https://github.com/varadhajare)
