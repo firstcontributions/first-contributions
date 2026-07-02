@@ -457,6 +457,7 @@ ManoGowda
 - [6NaCl](https://github.com/6NaCl)
 - [allCodeBreaker](https://github.com/allCodeBreaker)
 - [8nchanter](https://github.com/8nchanter)
+- [josef](https://github.com/jofezs)
 - [8saku](https://github.com/8saku8)
 - [Edcampbell1](https://github.com/Edcampbell1)
 - [sravasti12](https://github.com/sravasti12)
