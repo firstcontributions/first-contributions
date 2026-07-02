@@ -97,6 +97,7 @@ ManoGowda
 - [Shruti Dixit](https://github.com/sshrrutiiii)
 - [xDatabox] (https://github.com/xdatabox)
 - [Pratyusha] (https://github.com/PratyushaM09)
+- [Gabriel Borges] - (https://github.com/GabrielBorges0210)
 - FingerSpinx
 - YK
 - [Syed Hamid Rahim] (https://github.com/shamidrahim)
