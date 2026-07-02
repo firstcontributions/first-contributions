@@ -1,7 +1,10 @@
+
+- [tanve13](https://github.com/tanve13) #Contributor
+
 ### New Contri
 - Ankur Macwan: [ankur3-101106](https://github.com/ankur3-101106)
 - Ankur 2: [ankur-1112](https://github.com/ankur-1112)
----
+
 
 - [Anand Prasad](https://github.com/Anandprasad03) #Contributors
 - [Mohammed](https://github.com/mosaahgaal-png) #Contributors
