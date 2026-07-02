@@ -2346,5 +2346,5 @@ Aakash Gupta
 
 - [coolysh0318-art](https://github.com/coolysh0318-art)
 
-- [Ahmed Chmourk](https://github.com/ahmedchmourk)
+- [Ahmed Chmourk (Data Science & AI)](https://github.com/ahmedchmourk)
 
