@@ -2319,3 +2319,10 @@
 - [Shatanik Chatterjee](https://github.com/ShatanikC/)
 - [Yashika Sharma](https://github.com/yashika48)
 - [Pooja Sri Vanum](https://github.com/poojasrivanum)
+- [Ryan Xue](https://github.com/AresLicy)
+- [Larissa Fernandez](https://github.com/larissafernandez-dev)
+- [Mvaladares13](https://github.com/Mvaladares13)
+- [Sadeepa Lakshan](https://github.com/sadeepalakshan)
+- Samiksha Jungari
+- [Hoxofp](https://github.com/Hoxofp)
+- [Pranav SP](https://github.com/pranavsp12-dev)
