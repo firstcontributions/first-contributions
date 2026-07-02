@@ -2356,6 +2356,6 @@ Aakash Gupta
 - [Jahnavi Polasa](https://github.com/jahnavipolasa)
 
 - [mgmtapppirat-beep](https://github.com/mgmtapppirat-beep)
-
+- [Ellie Tran](https://github.com/etran13)
 - [Robert Königbauer](https://github.com/robertkoenigbauer-lang)
 - [Kayan Shah](https://github.com/KayanShah)
