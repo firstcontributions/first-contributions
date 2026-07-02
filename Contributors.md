@@ -1613,6 +1613,7 @@ Aakash Gupta
 - [Tidenflow](https://github.com/Tidenflow)
 - [Tim Abad](https://github.com/TimAbad)
 - [TimOthry](https://github.com/TimOthry)
+- [Timothi Pariyar](https://github.com/TimothiXGod)
 - [Tiziano G.](https://github.com/tiz-88)
 - [Toluwanimi](https://github.com/DevTolu79)
 - [Tometri](https://github.com/Tometri)
