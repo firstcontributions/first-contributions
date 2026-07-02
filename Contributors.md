@@ -2320,3 +2320,4 @@ Aakash Gupta
 - [Srinivasa Prasad Gade](https://github.com/SrinivasaPrasadGade)
 - [Rabenn](https://github.com/Rabenn)
 - [Varad Hajare](https://github.com/varadhajare)
+- [Bekarys Maksutbek] (https://github.com/b2k4rys)
