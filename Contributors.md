@@ -2336,6 +2336,7 @@ Aakash Gupta
 - [Pranav SP](https://github.com/pranavsp12-dev)
 - [Pari Garg](https://github.com/Parigarg2006)
 - [Peterson Kagiri](https://github.com/pinchase)
+- [Piyush Channote](https://github.com/Piyushch15)
 - [Aradhya Singh](https://github.com/beyondthebitss)
 - [ohlocco](https://github.com/ohlocco)
 - [Srinivasa Prasad Gade](https://github.com/SrinivasaPrasadGade)
