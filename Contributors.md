@@ -27,6 +27,7 @@
 - [AD0031](https://github.com/AD0031-bit)
 - [Siddhesh Rao](https://github.com/siddheshR4)
 [Emmanuel Fagite] (https://github.com/fagiteemmanuel4-bit)
+- [Nakul Iyer](https://github.com/naks123)
 - [Tushar Khurana]( https://github.com/Tushar-khurana-official/)
 - Abhijnya K G(https://github.com/Abhijnya002)
 - [Homam] (https://github.com/ahmadhomam)
