@@ -1,6 +1,11 @@
 - [PRAJWAL_RG](https://github.com/PRAJWAL-RAMGOND)# Contributors
 - [ADHIRAJ994](https://github.com/ADHIRAJ994)
+- [wowo](https://github.com/wowo0214)
+- [ADHIRAJ994](https://github.com/ADHIRAJ994)# Contributors
 -[alealonso017](https://github.com/alealonso17)
+- [Ashmita Debnath](https://github.com/ashcode06)
+- [Bittu Kumar](https://github.com/CSEBittuKr)
+- [Urvashi Pandey](https://github.com/UrvashiPandey-04)
 - [fluffy-regista](https://github.com/fluffy-regista)
 - [yuyaoyyds](https://github.com/yuyaoyyds)
 - [Palvendra Choudhary](https://github.com/palvendrachoudhary)
@@ -12,13 +17,15 @@
 - [Tushar Khurana]( https://github.com/Tushar-khurana-official/)
 - Abhijnya K G(https://github.com/Abhijnya002)
 - [Homam] (https://github.com/ahmadhomam)
-
+- [Shiraptinath](https://github.com/Shirapti-nath)
 - [Yishith Vilas](https://github.com/YiVibro)
 - strawhat
 ManoGowda
 -[ivanzc](https://github.com/Ivanzc2005)
 -[Anurag Anand](https://github.com/Recalcitrant-anurag)
-
+- [eol](https://github.com/eol02)
+- [shashwat4543](https://github.com/shashwat4543)
+- [Mythrayee] (https://github.com/Mythrayee12)
 - [SabbathBro](https://github.com/SabbathBro)
 [Ishwika Bitla](https://github.com/IshwikaBitla)
 - [game_ryo](https://github.com/ryotagtagtag-wq)
@@ -62,6 +69,7 @@ ManoGowda
 - [ranjana](https://github.com/ranjana-nr)
 - [Abhishek](https://github.com/trustAbhishek)
 - [Akshat Lal](https://github.com/lal-akshat)
+- [Krishnendu Basak](https://github.com/krishnendu127)
 -  -am
   张三李四 -[Piyush Thote](https://github.com/piyush-thote0867) -[Hunter Rundhaug](https://github.com/HunterRundhaug)
 	- [Sadra Hoseinpour](https://github.com/ItzsSadra) -[GH900 062606] (https://github.com/) -[Rodmehr Semnani](https://github.com/rsemnani)
@@ -98,6 +106,7 @@ ManoGowda
 - [Minh Pham] (https://github.com/tuanminh130707-create)
 - [Shruti Dixit](https://github.com/sshrrutiiii)
 - [xDatabox] (https://github.com/xdatabox)
+- [Aditya Harshavardhan](https://github.com/aditya-harsh11)
 - [Pratyusha] (https://github.com/PratyushaM09)
 - [Gabriel Borges] - (https://github.com/GabrielBorges0210)
 - FingerSpinx
@@ -163,6 +172,7 @@ ManoGowda
 - [Jonathan P] (https://github.com/jonathan-prabakar)
 - [Sazzat Hj](https://github.com/SazzatHj)
 - [Killian Jallais] (https://github.com/JallaisKillian)
+
 - [Amina Munawar](https://github.com/AminaMunawar39)
 - [Jose Ignacio Robles](https://github.com/NaRo-03)
 - [ArnavGarg7](https://github.com/ArnavGarg7)
@@ -1147,6 +1157,7 @@ Aakash Gupta
 - [Nishk Mistry](https://github.com/nishkmistry)
 - [Nitish Sharma1](https://github.com/tylrx404)
 - [UTUBMIR](https://github.com/UTUBMIR)
+- [Jasmeet Singh from India 🇮🇳](https://github.com/JAS2343L)
 - [Noah Kim](https://github.com/gratisreise)
 - [Noah Schroeder](https://github.com/nrschroeder)
 - [HothoLina](https://github.com/HothoLina)
@@ -2158,6 +2169,7 @@ Aakash Gupta
 - [Anupa Siby](https://github.com/anupa-dev)
 - [ajayrajr05](https://github.com/ajayrajr05)
 - [世昌](:github.com/Cheng0710868)
+- [南明远夏](https://github.com/FarSummer)
   Gayathri Kakumanu
 - [Hafeez Ur Rehman](https://github.com/Hafeezurrehman-hub)
 - [Kian Emami](https://github.com/kianemami1394)
@@ -2211,6 +2223,7 @@ Aakash Gupta
 - [Muskan Gupta](https://github.com/Muskan-gupta2118)
 - [Gungun Kumari](https://github.com/gunguncodes)
 - [Perry Tan](https://github.com/casualwarfare-wq)
+- Daz-ler
 - [Takakura Anzu](https://github.com/takakura-anzu)
 - [Valeria Guerrero](https://github.com/ValeriaGuerreroTR)
 - [Akansha Gore](https://github.com/Akanshagore)
@@ -2296,3 +2309,9 @@ Aakash Gupta
 - [Sadeepa Lakshan](https://github.com/sadeepalakshan)
 - Samiksha Jungari
 - [Hoxofp](https://github.com/Hoxofp)
+- [Pranav SP](https://github.com/pranavsp12-dev)
+- [Pari Garg](https://github.com/Parigarg2006)
+- [Peterson Kagiri](https://github.com/pinchase)
+- [Aradhya Singh](https://github.com/beyondthebitss)
+- [ohlocco](https://github.com/ohlocco)
+- [Srinivasa Prasad Gade](https://github.com/SrinivasaPrasadGade)
