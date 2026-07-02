@@ -159,6 +159,7 @@ ManoGowda
 - [Musif](https://github.com/m-musif) -[Tarun Bansla](https://github.com/Anolt) -[Shweta Shirsawade](https;//github.com/MsShweta) -[Merrill Dmonte](https://github.com/Merrill04) -[Ketan Sapkal](https://github.com/ketan3)
   [Akshaya Sreleka](https://github.com/AkshayaSrelekaPS) -[hari]
 - [Popoola Ibrahim] (https://github.com/popsy208)
+- [Jonathan P] (https://github.com/jonathan-prabakar)
 - [Sazzat Hj](https://github.com/SazzatHj)
 - [Killian Jallais] (https://github.com/JallaisKillian)
 - [Amina Munawar](https://github.com/AminaMunawar39)
