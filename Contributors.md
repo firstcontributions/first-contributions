@@ -2350,4 +2350,5 @@ Aakash Gupta
 
 - [Ahmed Chmourk (Data Science & AI)](https://github.com/ahmedchmourk)
 - [Gestão Saude Business](https://github.com/gestaosaudebusiness-tech)
+- [Jahnavi Polasa](https://github.com/jahnavipolasa)
 
