@@ -22,6 +22,7 @@ ManoGowda
 -[ivanzc](https://github.com/Ivanzc2005)
 -[Anurag Anand](https://github.com/Recalcitrant-anurag)
 - [eol](https://github.com/eol02)
+- [shashwat4543](https://github.com/shashwat4543)
 - [Mythrayee] (https://github.com/Mythrayee12)
 - [SabbathBro](https://github.com/SabbathBro)
 [Ishwika Bitla](https://github.com/IshwikaBitla)
