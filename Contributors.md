@@ -1116,6 +1116,7 @@ Aakash Gupta
 - [Soumyajit Roy](https://github.com/Roy221RS)
 - [Muhammed Shareef](https://github.com/shareefmx)
 - [Mohamed Amdouni](https://github.com/mohamed-adhd)
+- [Mohit Suri] (https://github.com/saturn657)git add Contributors.md
 - [Muhsil NR](https://github.com/mhlohh)
 - [Muntazir-Sayed](https://github.com/Muntazir-sd)
 - [Murphy Amparo](https://github.com/MaxTecnoDev)
