@@ -139,6 +139,7 @@
 - [Gabriel Borges] - (https://github.com/GabrielBorges0210)
 - FingerSpinx
 - YK
+[Abhishek Kumar] (https://buildbyabhi.github.io/)
 - [Syed Hamid Rahim] (https://github.com/shamidrahim)
 - [Sandli Thakur](https://github.com/thakursandli01-bit)
 - [Anshuman] (https://github.com/AnshumanTri)
