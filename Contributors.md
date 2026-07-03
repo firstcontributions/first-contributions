@@ -2350,6 +2350,8 @@ Aakash Gupta
 - [Shruti Verma](https://github.com/Shrutii008)
 - Keerthana D M
 
+- [Sai Rithwik Reddy Chirra](https://github.com/imrithwik1908)
+
 - [coolysh0318-art](https://github.com/coolysh0318-art)
 
 - [Ahmed Chmourk (Data Science & AI)](https://github.com/ahmedchmourk)
@@ -2362,3 +2364,4 @@ Aakash Gupta
 - [Robert Königbauer](https://github.com/robertkoenigbauer-lang)
 - [Kayan Shah](https://github.com/KayanShah)
 - [Savya Vats](https://github.com/vatssavvya)
+
