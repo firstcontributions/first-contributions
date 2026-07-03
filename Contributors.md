@@ -8,7 +8,6 @@
 - Ankur 2: [ankur-1112](https://github.com/ankur-1112) -[SharadPandey01](https://github.com/SharadPandey01)
 
 - [Saurabh Gupta](https://github.com/saurabhgupta3)
-
 - [Anand Prasad](https://github.com/Anandprasad03) #Contributors
 - [Mohammed](https://github.com/mosaahgaal-png) #Contributors
 - [PRAJWAL_RG](https://github.com/PRAJWAL-RAMGOND)# Contributors
@@ -69,6 +68,7 @@
 - [Love Chauhan](https://github.com/chauhanlove271)
 - [Orji Emmanuel](https://github.com/ManuelOrji2)
 - [Yadiel Tesfaye](https://github.com/yadawprodev)
+- [Shubh] (https://github.com/skv-1180)
 - [Ayaz Ahmad](https://github.com/Ayazahmad01)
 - [Sai Gokul](https://github.com/nvsaigokul-sudo) -[vikash chudasama](https://github.com/vikashchudasama-sys)
 - [Memphis DiAngelis](https://github.com/earthtomemphis)
