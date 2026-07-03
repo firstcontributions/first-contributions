@@ -223,6 +223,7 @@
 - [tanish singla](https://github.com/tanish4561/first-contributions)
 - [Ashwinkumar K] (https://github.com/Ashwinkumar-k10)
 - [Arsan] (https://github.com/Arsan-sk)
+- [Anubhav Singhal] (https://https://github.com/singhalanubhav55-design)
 - [Marlon] (https://github.com/MarlonSC14)
 - [Shaurya] (https://github.com/shauryagangrade)
 - [Mihailo R] (https://github.com/mihailoradovic)
