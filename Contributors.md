@@ -925,6 +925,7 @@ Aakash Gupta
 - [Himanshu J](https://github.com/Him1nshu)
 - [Himanshu](https://github.com/Hima1234gh/)
 - [Ayo Ayo](https://github.com/officialAY)
+- [w4ysonch](https://github.com/w4ysonch)
 - [Himanshu](https://github.com/W47K3RJO1N)
 - [Himanshu](https://github.com/himanshubit)
 - [Hisham](https://github.com/sikehish)
