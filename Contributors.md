@@ -32,7 +32,7 @@
   [Emmanuel Fagite] (https://github.com/fagiteemmanuel4-bit)
 - [Nakul Iyer](https://github.com/naks123)
 - [Tushar Khurana](https://github.com/Tushar-khurana-official/)
-- [Tushar Khurana]( https://github.com/Tushar-khurana-official/)
+- [Tushar Khurana](https://github.com/Tushar-khurana-official/)
 - [Gerardo Martinez](https://github.com/hackmaster101/first-contributions)
 - Abhijnya K G(https://github.com/Abhijnya002)
 - [Homam] (https://github.com/ahmadhomam)
@@ -925,6 +925,7 @@ Aakash Gupta
 - [Himanshu J](https://github.com/Him1nshu)
 - [Himanshu](https://github.com/Hima1234gh/)
 - [Ayo Ayo](https://github.com/officialAY)
+- [w4ysonch](https://github.com/w4ysonch)
 - [Himanshu](https://github.com/W47K3RJO1N)
 - [Himanshu](https://github.com/himanshubit)
 - [Hisham](https://github.com/sikehish)
@@ -2318,7 +2319,7 @@ Aakash Gupta
 - [Mikhail Garayev](https://github.com/mikhailgarayev)
   -Chandana Jagadish
 - [Janhavi Biradar](https://github.com/janhavibiradar123)
--Chandana Jagadish
+  -Chandana Jagadish
 
 [ninjitsuytber](https://github.com/ninjitsuytber)
 
@@ -2371,3 +2372,5 @@ Aakash Gupta
 - [Kayan Shah](https://github.com/KayanShah)
 - [Savya Vats](https://github.com/vatssavvya)
 - [Rushikesh kolla](https://github.com/RUSHI-KOLLA)
+- [Konchigeri Akash](https://github.com/Konchigeriakash)
+
