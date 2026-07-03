@@ -15,6 +15,7 @@
 - [Bian](https://github.com/chozinthwe25-crypto)
 - [Yousuf Faizan](https://github.com/SyedYousufFaizan)
 - [doorwell](https://github.com/doorwell)
+- [Milosz Kordzinski](https://github.com/milekv)
 - [ADHIRAJ994](https://github.com/ADHIRAJ994)# Contributors -[alealonso017](https://github.com/alealonso17)
 - [Ashmita Debnath](https://github.com/ashcode06)
 - [Bittu Kumar](https://github.com/CSEBittuKr)
