@@ -565,6 +565,7 @@
 - [Amruta Wavdhane](https://github.com/Amruta-32)
 - [Somya Chouhan](https://github.com/Somya-aa)
 - [Anand Mani Tiwari](https://github.com/anandmt)
+- [Christian Perez](https://github.com/P-chris157)
 - [Andrei Laurentiu](https://github.com/landreiiii/)
 - [Anish Johari](https://github.com/AnishJohari)
 - [Anjesh Ranjan Dash ](https://github.com/AnjeshDash)
