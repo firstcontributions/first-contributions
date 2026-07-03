@@ -13,6 +13,7 @@
 - [ADHIRAJ994](https://github.com/ADHIRAJ994)
 - [wowo](https://github.com/wowo0214)
 - [Bian](https://github.com/chozinthwe25-crypto)
+- [Yousuf Faizan](https://github.com/SyedYousufFaizan)
 - [doorwell](https://github.com/doorwell)
 - [ADHIRAJ994](https://github.com/ADHIRAJ994)# Contributors -[alealonso017](https://github.com/alealonso17)
 - [Ashmita Debnath](https://github.com/ashcode06)
