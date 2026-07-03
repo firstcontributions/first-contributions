@@ -2,6 +2,7 @@
 - [buptjrq](https://github.com/buptjrq)
 - [chillSort](https://github.com/soumayagarwal) #Contributor
 - [iiifk](https://github.com/iiifk)
+- Vijay Karthik - [CodeXSlayer](https://github.com/code-x-slayer)
 - [tanve13](https://github.com/tanve13) #Contributor -[Sori](https://github.com/iam-sori)
 - [Thejas K](https://github.com/thejas-1999)
 - Ankur Macwan: [ankur3-101106](https://github.com/ankur3-101106)
