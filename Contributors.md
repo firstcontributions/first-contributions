@@ -2401,3 +2401,4 @@
 - [Tatiana Perez](https://github.com/auxiliar1comprasaca-svg)
 - [Jessica Elliott](https://github.com/jeelliot)
 - [01w-01](https://github.com/01w-01)
+- [DAIACITA](https://github.com/DAIACITA)
