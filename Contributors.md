@@ -2359,3 +2359,4 @@ Aakash Gupta
 - [Ellie Tran](https://github.com/etran13)
 - [Robert Königbauer](https://github.com/robertkoenigbauer-lang)
 - [Kayan Shah](https://github.com/KayanShah)
+- [Savya Vats](https://github.com/vatssavvya)
