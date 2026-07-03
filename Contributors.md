@@ -797,8 +797,9 @@
 - [Dominic](https://github.com/mozz37)
 - [DonnieJ](https://github.com/jdmade)
 - [Markus Baumann](https://github.com/eybmits)
+- [GMAPLE777](https://github.com/GMAPLE777)
 
-Aakash Gupta
+- Aakash Gupta
 
 - [Donny Guo](https://github.com/Donny-Guo)
 - [Dor Cohen](https://github.com/Dor11126)
