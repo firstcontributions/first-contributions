@@ -2352,6 +2352,7 @@ Aakash Gupta
 - Keerthana D M
 
 - [Sai Rithwik Reddy Chirra](https://github.com/imrithwik1908)
+- [Himanshu Dogra](https://github.com/dograhimanshu)
 
 - [coolysh0318-art](https://github.com/coolysh0318-art)
 
