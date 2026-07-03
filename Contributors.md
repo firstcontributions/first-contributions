@@ -2397,3 +2397,4 @@
 - [Gaurav Garg](https://github.com/GauravGarg2087)
 - [Amisha](https://github.com/Amisha2405)
 - [Nithish Sarwin](https://github.com/Nithish-code17)
+- [Tatiana Perez](https://github.com/auxiliar1comprasaca-svg)
