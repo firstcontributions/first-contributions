@@ -1006,6 +1006,7 @@ Aakash Gupta
 - [Juan Caquias](https://github.com/jcaquiasjr)
 - [Julia Meneses](https://github.com/juliamenes)
 - [Julianne Tomlinson](https://github.com/JewlzT)
+- [Jaydip Koriya](https://github.com/jaydipKoriya)
 - [Pooja] (https://github.com/pd2025)
 - [JulianoCLI](https://github.com/JulianoCLI)
 - [Jumpr15] (https://github.com/Jumpr15)
