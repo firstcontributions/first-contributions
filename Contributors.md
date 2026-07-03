@@ -243,6 +243,7 @@
 - [Sam Bradley] (https://github.com/SamBradley2024)
 - [Aaron](https://github.com/Aaro2745)
 - [Felix](https://github.com/LixzyA)
+- Gunbuster-byte
 - [Anish](https://github.com/Realmer01)
 - [Jixuan Liu](https://github.com/jixuanliu21)
 - [Sai Anirudh Siddi] (https://github.com/Anirudh64210)
