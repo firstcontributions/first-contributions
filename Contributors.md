@@ -2398,3 +2398,4 @@
 - [Amisha](https://github.com/Amisha2405)
 - trtl-11
 - [Tatiana Perez](https://github.com/auxiliar1comprasaca-svg)
+- [Jessica Elliott](https://github.com/jeelliot)
