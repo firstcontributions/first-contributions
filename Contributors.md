@@ -1,8 +1,7 @@
 - [Abhishek](https://github.com/ABHIKALVIUM)
 - [buptjrq](https://github.com/buptjrq)
 - [iiifk](https://github.com/iiifk)
-- [tanve13](https://github.com/tanve13) #Contributor
--[Sori](https://github.com/iam-sori)
+- [tanve13](https://github.com/tanve13) #Contributor -[Sori](https://github.com/iam-sori)
 - [Thejas K](https://github.com/thejas-1999)
 - Ankur Macwan: [ankur3-101106](https://github.com/ankur3-101106)
 - Ankur 2: [ankur-1112](https://github.com/ankur-1112) -[SharadPandey01](https://github.com/SharadPandey01)
@@ -120,6 +119,7 @@
 - [Prathamesh Jadhav](https://github.com/prathameshjadhav22)
 - [vikalpchaudhary](https://github.com/vikalpchaudhary)
 - []
+- [Doffy] (https://github.com/Doffy4102)
 - [Varsha Racharla](https://github.com/varsha-0731)
 - [Khang Nguyen](https://github.com/khangnguyen04work-program)
 - [Rishabh](https://github.com/Rish-p9)
