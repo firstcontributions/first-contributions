@@ -32,7 +32,7 @@
   [Emmanuel Fagite] (https://github.com/fagiteemmanuel4-bit)
 - [Nakul Iyer](https://github.com/naks123)
 - [Tushar Khurana](https://github.com/Tushar-khurana-official/)
-- [Tushar Khurana]( https://github.com/Tushar-khurana-official/)
+- [Tushar Khurana](https://github.com/Tushar-khurana-official/)
 - [Gerardo Martinez](https://github.com/hackmaster101/first-contributions)
 - Abhijnya K G(https://github.com/Abhijnya002)
 - [Homam] (https://github.com/ahmadhomam)
@@ -2318,7 +2318,7 @@ Aakash Gupta
 - [Mikhail Garayev](https://github.com/mikhailgarayev)
   -Chandana Jagadish
 - [Janhavi Biradar](https://github.com/janhavibiradar123)
--Chandana Jagadish
+  -Chandana Jagadish
 
 [ninjitsuytber](https://github.com/ninjitsuytber)
 
@@ -2370,4 +2370,4 @@ Aakash Gupta
 - [Robert Königbauer](https://github.com/robertkoenigbauer-lang)
 - [Kayan Shah](https://github.com/KayanShah)
 - [Savya Vats](https://github.com/vatssavvya)
-
+- [Konchigeri Akash](https://github.com/Konchigeriakash)
