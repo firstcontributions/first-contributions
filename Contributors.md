@@ -1228,6 +1228,7 @@
 - [Om Chandwani](https://github.com/omch-29)
 - [Om Chauhan](https://github.com/omm-prog)
 - [Om Singh](https://github.com/Singh-OmDev)
+- Omar Ortiz
 - [Afroj](https://github.com/lifeaboutgreatgift)
 - [Omadbek UZB](https://github.com/Zenitsu-Yegr/)
 - [Alefe](https://github.com/zcom2503-art)
