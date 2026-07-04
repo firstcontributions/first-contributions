@@ -175,6 +175,7 @@ Sindy
 - [Joseph Ebersole]
 - [Emma C.]
 - [Atharv](https://github.com/atharvtrynacode) -[Akash Mishra](https://github.com/Akashmishra1421)
+- [Atharv Kamthane](https://github.com/atharvkamthane)
 - [Lewis wege](https://github.com/lewiswege)
 - -[Anas Nadeem](https://github.com/AnassNadeem)
 - [ettabihi](https://github.com/ettabihi)
