@@ -3,6 +3,7 @@
 
 - [Aaditya](https://github.com/Aadi_RE350)
 - [buptjrq](https://github.com/buptjrq)
+Sindy
 - [chillSort](https://github.com/soumayagarwal) #Contributor
 - [iiifk](https://github.com/iiifk)
 - [Legus](https://github.com/Legus-Yeung)
@@ -43,6 +44,7 @@
 - [AD0031](https://github.com/AD0031-bit)
 - [Siddhesh Rao](https://github.com/siddheshR4)
   [Emmanuel Fagite] (https://github.com/fagiteemmanuel4-bit)
+- [pragad](https://github.com/M-pragad)
 - [Nakul Iyer](https://github.com/naks123)
 - [Tushar Khurana](https://github.com/Tushar-khurana-official/)
 - [Tushar Khurana](https://github.com/Tushar-khurana-official/)
@@ -69,6 +71,7 @@
 - [Harshita](https://github.com/Hershita-debug)
 - [Anushka Kawalkar](https://github.com/k-anushka14)
 - [Timothy Smith](https://github.com/timothysmithdev)
+- Sindy
 - [Tanvi Dominic] (https://github.com/tanvidominic)
 - [Karthik Rathinavel] (https://github.com/karthikrathinavel)
 - [PNUjinsu](https://github.com/201924611)
@@ -76,6 +79,7 @@
 - [Erdemguvenc](https://github.com/Erdemguvenc)
 - [Manya Parikh](https://github.com/Manya2302)
 - [Lavkesh Sharma]
+- [TionEleven](https://github.com/shen825)
 - [Abhijeet Raj](https://github.com/Abhijeet-99-dev)
 - [Shivendra Bhardwaj](https://github.com/ZenzoSH)
 - [Nitin] (https://github.com/nitin3150)
@@ -152,7 +156,7 @@
 - [Gabriel Borges] - (https://github.com/GabrielBorges0210)
 - FingerSpinx
 - YK
-[Abhishek Kumar] (https://buildbyabhi.github.io/)
+  [Abhishek Kumar] (https://buildbyabhi.github.io/)
 - [Syed Hamid Rahim] (https://github.com/shamidrahim)
 - [Sandli Thakur](https://github.com/thakursandli01-bit)
 - [Anshuman] (https://github.com/AnshumanTri)
@@ -286,6 +290,7 @@
 - [somi seol](https://github.com/somiseol)
 - [Kabir Ahmed](https://github.com/GrowAsguard) main
 - [Sam George]
+- [Rohitneverest]
 - [Sudhar]
 - [Liker]
 - [seungseung123](https://github.com/seungseung123)
@@ -1468,6 +1473,7 @@
 - [Samuel Cardoso](https://github.com/samuellcardoso)
 - [Samuel Mueses](https://github.com/Samxss)
 - [Samuel Wright](samw46)
+- [Rishab Nagota](https://github.com/nagotarishab)
 - [Sanchita Gupta](https://github.com/SanchitaGupta7)
 - [Sandeep s](https://github.com/SandeeepS)
 - [Sandeepa Induwara Samaranayake](https://github.com/SandeepaInduwaraSamaranayake)
@@ -2234,6 +2240,7 @@
 - [Hafeez Ur Rehman](https://github.com/Hafeezurrehman-hub)
 - [Kian Emami](https://github.com/kianemami1394)
 - [Vivek Maddheshiya](https://github.com/vivekmaddy16)
+- [Erik](https://github.com/eriksedin)
 - [Erik Sedin](https://github.com/Eriksedin08-hue)
 - [Zanoon Hassan](https://github.com/Al-Zaytoun)
 - [mirmir7095-eng](https://github.com/mirmir7095-eng)
@@ -2386,6 +2393,7 @@
 - [Egor Vaganov] (https://github.com/egorvaganov)
 - [Shruti Verma](https://github.com/Shrutii008)
 - Keerthana D M
+- Kshitij A
 
 - [Sai Rithwik Reddy Chirra](https://github.com/imrithwik1908)
 - [Himanshu Dogra](https://github.com/dograhimanshu)
@@ -2429,3 +2437,5 @@
 - [wahaj khan](https://github.com/wahaj-kh)
 - [rok-create](https://github.com/rok-create)
 - [Astha38](https://github.com/Astha38)
+- [Jiulian Costa](https://github.com/jiuliancosta-collab)
+
