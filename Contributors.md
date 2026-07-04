@@ -392,6 +392,7 @@ Sindy
 - [Roberto-Lins](https://github.com/Roberto-Lins)
 - [B Nandini Goud](https://github.com/BurremNandiniGoud/)
 - [Daniel Corona](https://github.com/Danieeel0601)
+- [Ram Sai Tanguturi](https://github.com/ramsaitanguturi)
 - [Kuldeep Rajput](https://github.com/kuldeeprajput-dev)
 - [WangX0111](https://github.com/WangX0111)
 - [DSVNS Srinidhi](https://github.com/davulurisrinidhi1)
