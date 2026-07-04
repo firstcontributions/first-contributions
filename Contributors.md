@@ -1,6 +1,9 @@
 -Kenny (https://github.com/Kennyzambrano16122000)
- [Abhishek](https://github.com/ABHIKALVIUM)
+[Abhishek](https://github.com/ABHIKALVIUM)
+
+- [Aaditya](https://github.com/Aadi_RE350)
 - [buptjrq](https://github.com/buptjrq)
+Sindy
 - [chillSort](https://github.com/soumayagarwal) #Contributor
 - [iiifk](https://github.com/iiifk)
 - [Legus](https://github.com/Legus-Yeung)
@@ -14,7 +17,9 @@
 - Ankur 2: [ankur-1112](https://github.com/ankur-1112) -[SharadPandey01](https://github.com/SharadPandey01)
 - [Tamanna](https://github.com/tamannamalik09)
 - [Saurabh Gupta](https://github.com/saurabhgupta3)
+- [Ankit] (https://github.com/rathaur-ankit)
 - [Anand Prasad](https://github.com/Anandprasad03) #Contributors
+- [anaskhan002006-lab](https://github.com/anaskhan002006-lab)
 - [Mohammed](https://github.com/mosaahgaal-png) #Contributors
 - [PRAJWAL_RG](https://github.com/PRAJWAL-RAMGOND)# Contributors
 - [ADHIRAJ994](https://github.com/ADHIRAJ994)
@@ -35,6 +40,7 @@
 - [Arpan Kumar](https://github.com/Arpan-me-ios)
 - [alchemist240](https://github.com/alchemist240)
 - [Nicholas Kimmel] (https://github.com/Nicholas-Kimmel)
+- [Rasha Sharma](https://github.com/rashasharma)
 - [AD0031](https://github.com/AD0031-bit)
 - [Siddhesh Rao](https://github.com/siddheshR4)
   [Emmanuel Fagite] (https://github.com/fagiteemmanuel4-bit)
@@ -147,6 +153,7 @@
 - [Gabriel Borges] - (https://github.com/GabrielBorges0210)
 - FingerSpinx
 - YK
+  [Abhishek Kumar] (https://buildbyabhi.github.io/)
 - [Syed Hamid Rahim] (https://github.com/shamidrahim)
 - [Sandli Thakur](https://github.com/thakursandli01-bit)
 - [Anshuman] (https://github.com/AnshumanTri)
@@ -280,6 +287,7 @@
 - [somi seol](https://github.com/somiseol)
 - [Kabir Ahmed](https://github.com/GrowAsguard) main
 - [Sam George]
+- [Rohitneverest]
 - [Sudhar]
 - [Liker]
 - [seungseung123](https://github.com/seungseung123)
@@ -325,6 +333,7 @@
 - [Amit Kumar](https://github.com/kamit15)
 - [Suksha](https://github.com/Suksha128)
 - [DLCisNoob](https://github.com/DLCisNoob1)
+- [jonuhl](https://github.com/jonuhl)
 - [Akeb](https://github.com/Akeboshiii)
 - [JyanezVilla(https://github.com/JyanezVilla)
 - [Akshara Ramagiri](https://github.com/AksharaRamagiri)
@@ -990,6 +999,7 @@
 - [Jacoy yu](https://github.com/meloer101)
 - [Jun Takeyama](https://github.com/JUNTAKEYAMA)
 - [Jadar7](https://github.com/Jadar7)
+- [Sushant Shambharkar](https://github.com/sam1064max)
 - [Jaehoon Son](https://github.com/JaehoonSon)
 - [Jagriti Tiwari](https://github.com/jagriti-codes)
 - [JairHan](https://github.com/JairHan)
@@ -1222,6 +1232,7 @@
 - [Om Chandwani](https://github.com/omch-29)
 - [Om Chauhan](https://github.com/omm-prog)
 - [Om Singh](https://github.com/Singh-OmDev)
+- Omar Ortiz
 - [Afroj](https://github.com/lifeaboutgreatgift)
 - [Omadbek UZB](https://github.com/Zenitsu-Yegr/)
 - [Alefe](https://github.com/zcom2503-art)
@@ -2225,6 +2236,7 @@
 - [Hafeez Ur Rehman](https://github.com/Hafeezurrehman-hub)
 - [Kian Emami](https://github.com/kianemami1394)
 - [Vivek Maddheshiya](https://github.com/vivekmaddy16)
+- [Erik](https://github.com/eriksedin)
 - [Erik Sedin](https://github.com/Eriksedin08-hue)
 - [Zanoon Hassan](https://github.com/Al-Zaytoun)
 - [mirmir7095-eng](https://github.com/mirmir7095-eng)
@@ -2394,10 +2406,12 @@
 - [Robert Königbauer](https://github.com/robertkoenigbauer-lang)
 - [Kayan Shah](https://github.com/KayanShah)
 - [Savya Vats](https://github.com/vatssavvya)
+- [Claude](https://github.com/srn-93)
 - [Rushikesh kolla](https://github.com/RUSHI-KOLLA)
 - [Konchigeri Akash](https://github.com/Konchigeriakash)
 
 - [Hemanth Kumar](https://github.com/hemanth-2-0-0-5)
+- [buildbyabhi](https://github.com/buildbyabhi)
 - [Mehedi Hasan] (https://github.com/mehedi-05)
 - [Ujjwal](https://github.com/Ujjwal-sharma-mudgil)
 - [Gaurav Garg](https://github.com/GauravGarg2087)
@@ -2409,3 +2423,12 @@
 - [DAIACITA](https://github.com/DAIACITA)
 - [neardrain](https://github.com/neardrain)
 - [Mustafa Kızılay](https://github.com/Mustafakzlyy)
+
+- [butza406](https://github.com/butza406)
+- [aliaudi12345-dot](https://github.com/aliaudi12345-dot)
+- [yun](https://github.com/sener7106)
+- [gviedma1964](https://github.com/gviedma1964)
+- [incncart-cell](https://github.com/incncart-cell)
+- [Sudipto Biswas](https://github.com/dipto0079)
+- [wahaj khan](https://github.com/wahaj-kh)
+- [rok-create](https://github.com/rok-create)
