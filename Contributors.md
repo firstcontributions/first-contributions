@@ -2445,3 +2445,4 @@ Sindy
 - [Marcus A Bertli](https://github.com/MarcusABertli)
 - [nathandefy-cyber](https://github.com/nathandefy-cyber)
 - Chandrakanth Dodapaneni
+- [Kushagra Singh](https://github.com/KushagraSinghBharadwaj)
