@@ -152,7 +152,7 @@
 - [Gabriel Borges] - (https://github.com/GabrielBorges0210)
 - FingerSpinx
 - YK
-[Abhishek Kumar] (https://buildbyabhi.github.io/)
+  [Abhishek Kumar] (https://buildbyabhi.github.io/)
 - [Syed Hamid Rahim] (https://github.com/shamidrahim)
 - [Sandli Thakur](https://github.com/thakursandli01-bit)
 - [Anshuman] (https://github.com/AnshumanTri)
@@ -286,6 +286,7 @@
 - [somi seol](https://github.com/somiseol)
 - [Kabir Ahmed](https://github.com/GrowAsguard) main
 - [Sam George]
+- [Rohitneverest]
 - [Sudhar]
 - [Liker]
 - [seungseung123](https://github.com/seungseung123)
