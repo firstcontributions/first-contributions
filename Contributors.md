@@ -2377,7 +2377,7 @@
 - [Egor Vaganov] (https://github.com/egorvaganov)
 - [Shruti Verma](https://github.com/Shrutii008)
 - Keerthana D M
-- Kshitij 
+- Kshitij A
 
 - [Sai Rithwik Reddy Chirra](https://github.com/imrithwik1908)
 - [Himanshu Dogra](https://github.com/dograhimanshu)
