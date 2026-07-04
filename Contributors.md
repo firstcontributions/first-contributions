@@ -2446,3 +2446,4 @@ Sindy
 - [nathandefy-cyber](https://github.com/nathandefy-cyber)
 - Chandrakanth Dodapaneni
 - [Kushagra Singh](https://github.com/KushagraSinghBharadwaj)
+- [Natalia Giordano](https://github.com/nataliagiordano9-maker)
