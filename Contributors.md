@@ -45,6 +45,7 @@ Sindy
 - [Siddhesh Rao](https://github.com/siddheshR4)
   [Emmanuel Fagite] (https://github.com/fagiteemmanuel4-bit)
 - [Nakul Iyer](https://github.com/naks123)
+- [pragad](https://github.com/M-pragad)
 - [Tushar Khurana](https://github.com/Tushar-khurana-official/)
 - [Tushar Khurana](https://github.com/Tushar-khurana-official/)
 - [Gerardo Martinez](https://github.com/hackmaster101/first-contributions)
