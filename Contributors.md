@@ -330,6 +330,7 @@
 - [Amit Kumar](https://github.com/kamit15)
 - [Suksha](https://github.com/Suksha128)
 - [DLCisNoob](https://github.com/DLCisNoob1)
+- [jonuhl](https://github.com/jonuhl)
 - [Akeb](https://github.com/Akeboshiii)
 - [JyanezVilla(https://github.com/JyanezVilla)
 - [Akshara Ramagiri](https://github.com/AksharaRamagiri)
