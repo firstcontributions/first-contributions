@@ -69,6 +69,7 @@
 - [Harshita](https://github.com/Hershita-debug)
 - [Anushka Kawalkar](https://github.com/k-anushka14)
 - [Timothy Smith](https://github.com/timothysmithdev)
+- Sindy
 - [Tanvi Dominic] (https://github.com/tanvidominic)
 - [Karthik Rathinavel] (https://github.com/karthikrathinavel)
 - [PNUjinsu](https://github.com/201924611)
