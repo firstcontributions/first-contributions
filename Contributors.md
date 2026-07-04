@@ -5,6 +5,7 @@
 - [iiifk](https://github.com/iiifk)
 - [Legus](https://github.com/Legus-Yeung)
 - - Long (https://github.com/longon01)
+- Shinobi (https://github.com/ShineEnoki)
 - Vijay Karthik - [CodeXSlayer](https://github.com/code-x-slayer)
 - [cyx89032-dot](https://github.com/cyx89032-dot)
 - [tanve13](https://github.com/tanve13) #Contributor -[Sori](https://github.com/iam-sori)
