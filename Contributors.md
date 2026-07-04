@@ -1471,6 +1471,7 @@ Sindy
 - [Samuel Cardoso](https://github.com/samuellcardoso)
 - [Samuel Mueses](https://github.com/Samxss)
 - [Samuel Wright](samw46)
+- [Rishab Nagota](https://github.com/nagotarishab)
 - [Sanchita Gupta](https://github.com/SanchitaGupta7)
 - [Sandeep s](https://github.com/SandeeepS)
 - [Sandeepa Induwara Samaranayake](https://github.com/SandeepaInduwaraSamaranayake)
