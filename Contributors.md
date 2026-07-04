@@ -152,6 +152,7 @@
 - [Gabriel Borges] - (https://github.com/GabrielBorges0210)
 - FingerSpinx
 - YK
+[Abhishek Kumar] (https://buildbyabhi.github.io/)
 - [Syed Hamid Rahim] (https://github.com/shamidrahim)
 - [Sandli Thakur](https://github.com/thakursandli01-bit)
 - [Anshuman] (https://github.com/AnshumanTri)
@@ -2405,6 +2406,7 @@
 - [Konchigeri Akash](https://github.com/Konchigeriakash)
 
 - [Hemanth Kumar](https://github.com/hemanth-2-0-0-5)
+- [buildbyabhi](https://github.com/buildbyabhi)
 - [Mehedi Hasan] (https://github.com/mehedi-05)
 - [Ujjwal](https://github.com/Ujjwal-sharma-mudgil)
 - [Gaurav Garg](https://github.com/GauravGarg2087)
