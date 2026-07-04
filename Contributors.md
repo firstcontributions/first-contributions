@@ -1,6 +1,6 @@
 -Kenny (https://github.com/Kennyzambrano16122000)
 [Abhishek](https://github.com/ABHIKALVIUM)
-
+- [Chitranshu Dhakad](https://github.com/GoluScriptMage)
 - [Aaditya](https://github.com/Aadi_RE350)
 - [buptjrq](https://github.com/buptjrq)
 Sindy
