@@ -4,7 +4,7 @@
 
 #### _អានឯកសារនេះជា [ភាសាផ្សេង](translations/Translations.md)._
 
-<kbd>[<img title="Shqip" alt="Shqip" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/al.svg" width="22">](translations/README.al.md)</kbd>
+<kbd>[<img title="Shqip" alt="Shqip" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/al.svg" width="22">](translations/README.sq.md)</kbd>
 <kbd>[<img title="Armenian" alt="Armenian" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/am.svg" width="22">](translations/README.arm.md)</kbd>
 <kbd>[<img title="Uzbek" alt="Uzbek language" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/uz.svg" width="22">](translations/README.uz.md)</kbd>
 <kbd>[<img title="Azərbaycan dili" alt="Azərbaycan dili" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/az.svg" width="22">](translations/README.aze.md)</kbd>
@@ -180,7 +180,7 @@ git push -u origin your-branch-name
 - ### កំហុសនៅក្នុងការ Authentication (Authentication Error)
      <pre>remote: ការគាំទ្រសម្រាប់ការបញ្ចូលពាក្យសម្ងាត់ត្រូវបានដកហូតនៅថ្ងៃទី 13 ខែសីហា ឆ្នាំ 2021។ សូមប្រើ **Personal Access Token** ជំនួស។
   remote: សូមមើល https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ សម្រាប់ព័ត៌មានបន្ថែម។
-  fatal: ការ Authenticate បរាជ័យសម្រាប់ 'https://github.com/<your-username>/first-contributions.git/'</pre>
+  fatal: ការ Authenticate បរាជ័យសម្រាប់ 'https://github.com/&lt;your-username&gt;/first-contributions.git/'</pre>
   សូមចូលទៅកាន់ [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) ដើម្បីបង្កើត និងកំណត់រចនាសម្ព័ន្ធ SSH Key ទៅក្នុងគណនី GitHub របស់អ្នក។
 </details>
 

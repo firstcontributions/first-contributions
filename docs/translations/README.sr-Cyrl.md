@@ -3,7 +3,7 @@
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 #### _Прочитај ово на [другим језицима](Translations.md)._
-<kbd>[<img title="Shqip" alt="Shqip" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/al.svg" width="22">](README.al.md)</kbd>
+<kbd>[<img title="Shqip" alt="Shqip" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/al.svg" width="22">](README.sq.md)</kbd>
 <kbd>[<img title="Armenian" alt="Armenian" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/am.svg" width="22">](README.arm.md)</kbd>
 <kbd>[<img title="Uzbek" alt="Uzbek language" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/uz.svg" width="22">](README.uz.md)</kbd>
 <kbd>[<img title="Azərbaycan dili" alt="Azərbaycan dili" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/az.svg" width="22">](README.aze.md)</kbd>
@@ -198,7 +198,7 @@ git push -u origin your-branch-name
 - ### Грешка приликом аутентификације
      <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
   remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
-  fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
+  fatal: Authentication failed for 'https://github.com/&lt;your-username&gt;/first-contributions.git/'</pre>
   Погледајте [GitHub-ов туторијал](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) за генерисање и конфигурацију SSH кључа за Ваш налог.
 
   Такође, можда ћете желети да извршите 'git remote -v' да бисте проверили Вашу удаљену адресу.

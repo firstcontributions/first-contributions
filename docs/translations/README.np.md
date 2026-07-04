@@ -4,7 +4,7 @@
 
 #### _अन्य [भाषाहरूमा](translations/Translations.md) पढ्नुहोस्।_
 
-<kbd>[<img title="Shqip" alt="Shqip" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/al.svg" width="22">](translations/README.al.md)</kbd>
+<kbd>[<img title="Shqip" alt="Shqip" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/al.svg" width="22">](translations/README.sq.md)</kbd>
 <kbd>[<img title="Uzbek" alt="Uzbek language" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/uz.svg" width="22">](translations/README.uz.md)</kbd>
 <kbd>[<img title="Azərbaycan dili" alt="Azərbaycan dili" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/az.svg" width="22">](translations/README.aze.md)</kbd>
 <kbd>[<img title="বাংলা" alt="বাংলা" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/bd.svg" width="22">](translations/README.bn.md)</kbd>
@@ -179,7 +179,7 @@ git push -u origin add-ram-regmi
 - ### Authentication Error
   <pre>remote: पासवर्ड प्रमाणीकरण (authentication) को समर्थन अगस्ट 13, 2021 मा हटाइएको थियो। कृपया यसको सट्टा personal access token प्रयोग गर्नुहोस्।
   remote: थप जानकारीको लागी https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ हेर्नुहोस्।
-  fatal: 'https://github.com/<your-username>/first-contributions.git/' को लागी प्रमाणीकरण असफल भयो।</pre>
+  fatal: 'https://github.com/&lt;your-username&gt;/first-contributions.git/' को लागी प्रमाणीकरण असफल भयो।</pre>
     [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) मा गएर आफ्नो account को लागी SSH key generate र configure गर्नुहोस्।
 </details>
 
