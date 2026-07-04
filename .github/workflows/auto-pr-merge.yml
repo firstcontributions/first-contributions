@@ -77,23 +77,7 @@ jobs:
             // Check if the merge was successful by checking the status code of the response
              if (response.status === 200) {
 
-                const celebrationGifs = [
-                  'https://c.tenor.com/ZCq4SwgCfxAAAAAC/snoopy-peanuts.gif',
-                  'https://c.tenor.com/Z0ojZS2kpO0AAAAC/milk-and-mocha-happy.gif',
-                  'https://c.tenor.com/LffD4a8ET9AAAAAC/heart-celebrate.gif',
-                  'https://c.tenor.com/HJ0iSKwIG28AAAAC/yes-baby.gif',
-                  'https://c.tenor.com/4blWuIh5MIYAAAAC/baby-yoda.gif',
-                  'https://c.tenor.com/B_zYdea4l-4AAAAC/yay-minions.gif',
-                  'https://c.tenor.com/JHndvQVcsBUAAAAC/fern-pat-fern-good-job.gif',
-                  'https://media1.giphy.com/media/artj92V8o75VPL7AeQ/giphy.gif',
-                  'https://media2.giphy.com/media/IwAZ6dvvvaTtdI8SD5/giphy.gif',
-                  'https://media0.giphy.com/media/z8gtBVdZVrH20/giphy.gif',
-                  'https://media1.giphy.com/media/LZElUsjl1Bu6c/giphy.gif',
-                  'https://media1.giphy.com/media/gHnwTttExPf4nwOWm7/giphy.gif',
-                ]
-
-                const getRandomGif = () => celebrationGifs[Math.floor(Math.random() * celebrationGifs.length)]
-
+          
                 // social media links
                 const web_url = 'https://firstcontributions.github.io';
                 const codeContributionsLink = 'https://github.com/roshanjossey/code-contributions'
@@ -120,10 +104,7 @@ jobs:
                   
                   const nextSteps = `# Next steps \n - Continue contributing: If you're looking for projects to contribute to, checkout our [<img src="${repo_logo}" width="22" title="web app" /> webapp](${web_url}). \n - If you want more practice checkout [code contributions](${codeContributionsLink}). \n - Share on social media: You can share this content to help more people.\n   - [<img alt="bluesky" title="bluesky" src="${bluesky_logo}" width="22"> Post on Bluesky](${bluesky_share_link}).\n   - [<img alt="facebook" title="facebook" src="${fb_logo}" width="22"> share](${fb_share_link}).\n   - [ <img alt="reddit" title="reddit" src="${reddit_logo}" width="22"> share](${reddit_link}).\n   - [<img alt="linkedin" title="linkedin" src="${linkedin_logo}" width="22"> post](${linkedin_share_link}).\n   - [<img alt="devio" title="devio" src="${dev_logo}" width="22"> publish](${dev_share_link}).\n   - [<img src="${hackernews_logo}" width="22" title="HackerNews" /> Post on HackerNews](${hackernews_share_link}).`;
                   const feedbackMessage = `We'd love to hear your thoughts about this project. Let us know how we can improve by commenting or opening an issue here.`;
-                  
-                  const gif = `![celebration gif](${getRandomGif()})`;
-
-                  return `${greeting}\n\n${starRepoMessage}\n\n${nextSteps}\n\n${feedbackMessage}\n\n${gif}`;
+                
                 }
 
                 // Generate the merge message using the getMergeMessage function
