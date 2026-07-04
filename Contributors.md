@@ -3,6 +3,7 @@
 
 - [Aaditya](https://github.com/Aadi_RE350)
 - [buptjrq](https://github.com/buptjrq)
+Sindy
 - [chillSort](https://github.com/soumayagarwal) #Contributor
 - [iiifk](https://github.com/iiifk)
 - [Legus](https://github.com/Legus-Yeung)
