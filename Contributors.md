@@ -1,6 +1,6 @@
 # Contributors
 -[DHINESH-77](https://github.com/DHINESH-77)
--Kenny (https://github.com/Kennyzambrano16122000)
+-[Kenny] (https://github.com/Kennyzambrano16122000)
 [Abdullah](https://github.com/lets-abdullah/)
 [Abhishek](https://github.com/ABHIKALVIUM)
 -[Prasanth](https://github.com/github-prashanth)
