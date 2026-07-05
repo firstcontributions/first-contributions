@@ -12,6 +12,7 @@
   Sindy
 - [chillSort](https://github.com/soumayagarwal) #Contributor
 - [iiifk](https://github.com/iiifk)
+- [IRJ Prime](https://github.com/IRJ-Prime)
 - [Legus](https://github.com/Legus-Yeung)
 - [Vyash](https://github.com/vyash-s)
 - - Long (https://github.com/longon01)
