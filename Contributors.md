@@ -51,6 +51,7 @@
 - [Rasha Sharma](https://github.com/rashasharma)
 - [AD0031](https://github.com/AD0031-bit)
 - [Siddhesh Rao](https://github.com/siddheshR4)
+- [Chetla Srijith](https://github.com/chetlasrijith)
   [Emmanuel Fagite] (https://github.com/fagiteemmanuel4-bit)
 - [pragad](https://github.com/M-pragad)
 - [Nakul Iyer](https://github.com/naks123)
@@ -1362,6 +1363,7 @@
 - [RANJAN SHARMA](https://github.com/22054204/)
 - [RISHAD ROSHAN](https://github.com/rishadroshanpt)
 - [RSM Harsha](https://github.com/rsmharsha)
+- [Rachana](https://github.com/shivartha/revising.git)
 - [Rachana N P](https://github.com/rachananp)
 - [Rachana Panduranga Naidu](https://github.com/Rachana078)
 - [Radasia Waltower](https://github.com/rwaltower)
@@ -2472,5 +2474,4 @@
 - [Gayathri M](https://github.com/gayathrimgau2008-gayathri-m)
 
 - [mclerit](https://github.com/mclerit)
-- [sidsr003](https://https://github.com/sidsr003)-   ( h t t p s : / / g i t h u b . c o m / h e z a i m e n g l i m i n g )  
- 
+- [sidsr003](https://https://github.com/sidsr003)
