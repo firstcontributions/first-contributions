@@ -2477,6 +2477,7 @@
 - [sidsr003](https://https://github.com/sidsr003)
 - [Colin Young](https://github.com/colinyoung04)
 - [Krishna Singh](https://github.com/krishnasingh281)
+- [Tarun Soni]("https://github.com/Tarunson1/open-source.git")
 - [Akun Hosting7](https://github.com/aknhost7)
 - [Ava](https://github.com/Ava-91)
 - [Nethra T N](https://github.com/nethrathirumurugan21-debug)
