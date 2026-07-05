@@ -119,6 +119,7 @@
 - [KimsunLy](https://github.com/Kimsunly)
 - [Shan Asif](https://github.com/shanAweb)
 - [Lucas Santos Da Cruz](https://github.com/lsantosdacruz)
+- [Ariel Massetti](https://github.com/amassetti)
 - [Anil Tamang] (https://github.com/anil-titung-tamang)
 - [Marcio Nielsen Baptista](https://github.com/marcionielsen)
 - [Unity Oware] (https://github.com/oware5)
