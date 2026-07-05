@@ -17,6 +17,7 @@
 - Atot Aryoto - [Atot4](https://github.com/Atot4)
 - Shinobi (https://github.com/ShineEnoki)
 - Vijay Karthik - [CodeXSlayer](https://github.com/code-x-slayer)
+- [Samiksha-2702] (https://github.com/samiksha-2702)
 - [cyx89032-dot](https://github.com/cyx89032-dot)
 -[Askademy Ofiicial](https://github.com/askademyofficial)
 - [tanve13](https://github.com/tanve13) #Contributor -[Sori](https://github.com/iam-sori)
