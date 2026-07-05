@@ -2,7 +2,7 @@
 -Kenny (https://github.com/Kennyzambrano16122000)
 [Abdullah](https://github.com/lets-abdullah/)
 [Abhishek](https://github.com/ABHIKALVIUM)
--[Prasanth](https://github.com/github-prashanth)
+
 - [Chitranshu Dhakad](https://github.com/GoluScriptMage)
 - [Aaditya](https://github.com/Aadi_RE350)
 - [buptjrq](https://github.com/buptjrq)
@@ -2405,7 +2405,7 @@
 - [Shruti Verma](https://github.com/Shrutii008)
 - Keerthana D M
 - Kshitij A
-    
+
 - [Sai Rithwik Reddy Chirra](https://github.com/imrithwik1908)
 - [Himanshu Dogra](https://github.com/dograhimanshu)
 - [mskumar](https://github.com/ms-kumar)
