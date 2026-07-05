@@ -2492,3 +2492,4 @@
 - [Viresh Anand](https://github.com/vireshanand278)
 - [Toshima Rahangdale](https://github.com/Toshima17)
 [Shriya Pachunuri](https://github.com/shriya7756)
+- [Jacob Coyle](https://github.com/Jacob-Coyle)
