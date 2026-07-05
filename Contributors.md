@@ -155,7 +155,7 @@
 - [Shubhadeep Patra](https://github.com/ShubhCoder-17)
 - [Prathamesh Jadhav](https://github.com/prathameshjadhav22)
 - [vikalpchaudhary](https://github.com/vikalpchaudhary)
-- []
+- [Aditya prasad barik](https://github.com/Skit-025)
 - [Doffy] (https://github.com/Doffy4102)
 - [Varsha Racharla](https://github.com/varsha-0731)
 - [Khang Nguyen](https://github.com/khangnguyen04work-program)
