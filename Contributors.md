@@ -10,6 +10,7 @@
 - [chillSort](https://github.com/soumayagarwal) #Contributor
 - [iiifk](https://github.com/iiifk)
 - [Legus](https://github.com/Legus-Yeung)
+- [Vyash](https://github.com/vyash-s)
 - - Long (https://github.com/longon01)
 - Atot Aryoto - [Atot4](https://github.com/Atot4)
 - Shinobi (https://github.com/ShineEnoki)
