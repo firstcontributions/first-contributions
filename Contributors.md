@@ -51,6 +51,7 @@
 - [Rasha Sharma](https://github.com/rashasharma)
 - [AD0031](https://github.com/AD0031-bit)
 - [Siddhesh Rao](https://github.com/siddheshR4)
+- [Chetla Srijith](https://github.com/chetlasrijith)
   [Emmanuel Fagite] (https://github.com/fagiteemmanuel4-bit)
 - [pragad](https://github.com/M-pragad)
 - [Nakul Iyer](https://github.com/naks123)
