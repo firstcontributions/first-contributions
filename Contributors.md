@@ -2478,8 +2478,5 @@
 - [Colin Young](https://github.com/colinyoung04)
 - [Akun Hosting7](https://github.com/aknhost7)
 - [Ava](https://github.com/Ava-91)
-<<<<<<< HEAD
-- [densuke123](https://github.com/densuke123/)
-=======
 - [Nethra T N](https://github.com/nethrathirumurugan21-debug)
->>>>>>> upstream/main
+- [densuke123](https://github.com/densuke123/)
