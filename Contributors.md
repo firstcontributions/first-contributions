@@ -1,7 +1,8 @@
-##  Nagabhushana ([@MrNagabhushana-0-dev](https://github.com/MrNagabhushana-0-dev))
+## Nagabhushana ([@MrNagabhushana-0-dev](https://github.com/MrNagabhushana-0-dev))
+
 -Kenny (https://github.com/Kennyzambrano16122000)
 [Abdullah](https://github.com/lets-abdullah/)
-[Abhishek](https://github.com/ABHIKALVIUM)
+[Abhishek](https://github.com/ABHIKALVIUM) -[Prasanth](https://github.com/github-prashanth)
 
 - [Chitranshu Dhakad](https://github.com/GoluScriptMage)
 - [Aaditya](https://github.com/Aadi_RE350)
@@ -2458,9 +2459,7 @@
 - Chandrakanth Dodapaneni
 - [Kushagra Singh](https://github.com/KushagraSinghBharadwaj)
 - [Natalia Giordano](https://github.com/nataliagiordano9-maker)
-- [Caio](https://github.com/csuzigan)
--[Alexfleming] (https://github.com/rcbxdev)
--[Ammar-Zeyad] (https://github.com/AmmarZeyad0)
+- [Caio](https://github.com/csuzigan) -[Alexfleming] (https://github.com/rcbxdev) -[Ammar-Zeyad] (https://github.com/AmmarZeyad0)
 - [zcztt](https://github.com/zcztt)
 - [Hu Yushun](https://github.com/yukino39)
 - [Xvoid](https://github.com/F2207-VS)
