@@ -1,4 +1,4 @@
-##  Nagabhushana ([@MrNagabhushana-0-dev](https://github.com/MrNagabhushana-0-dev))
+# Contributors
 -Kenny (https://github.com/Kennyzambrano16122000)
 [Abdullah](https://github.com/lets-abdullah/)
 [Abhishek](https://github.com/ABHIKALVIUM)
@@ -38,7 +38,7 @@
 - [Yousuf Faizan](https://github.com/SyedYousufFaizan)
 - [doorwell](https://github.com/doorwell)
 - [Milosz Kordzinski](https://github.com/milekv)
-- [ADHIRAJ994](https://github.com/ADHIRAJ994)# Contributors -[alealonso017](https://github.com/alealonso17)
+- [ADHIRAJ994](https://github.com/ADHIRAJ994) -[alealonso017](https://github.com/alealonso17)
 - [Ashmita Debnath](https://github.com/ashcode06)
 - [Bittu Kumar](https://github.com/CSEBittuKr)
 - [Urvashi Pandey](https://github.com/UrvashiPandey-04)
@@ -2476,6 +2476,7 @@
 - [mclerit](https://github.com/mclerit)
 - [sidsr003](https://https://github.com/sidsr003)
 - [Colin Young](https://github.com/colinyoung04)
+- [Krishna Singh](https://github.com/krishnasingh281)
 - [Akun Hosting7](https://github.com/aknhost7)
 - [Ava](https://github.com/Ava-91)
 - [Nethra T N](https://github.com/nethrathirumurugan21-debug)
