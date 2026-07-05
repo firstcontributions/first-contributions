@@ -11,6 +11,7 @@
 - [iiifk](https://github.com/iiifk)
 - [Legus](https://github.com/Legus-Yeung)
 - - Long (https://github.com/longon01)
+- Atot Aryoto_vscode - [Atot4](https://github.com/Atot4)
 - Atot Aryoto - [Atot4](https://github.com/Atot4)
 - Shinobi (https://github.com/ShineEnoki)
 - Vijay Karthik - [CodeXSlayer](https://github.com/code-x-slayer)
