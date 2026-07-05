@@ -262,6 +262,7 @@
 - [Meenu Pandey](https://github.com/Meenu-Pandey)
 - [Moon](https://github.com/Bumblebee963)
 - [oliviaSima](https://github.com/oliviaSima/)
+- [Aaditya Senthilkumar](https://github.com/infrabeam1927)
 - [WangSJ2023](https://github.com/WangSJ2023)
 - [Kylen Nguyen](https://github.com/kylenngu135)
 - [Yashasvi Solanki](https://github.com/Yashasvi-Solanki)
