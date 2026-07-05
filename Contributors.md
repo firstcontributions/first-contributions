@@ -9,7 +9,7 @@ sardor Uchqunov
 - [one small step for humanity]
 - [Nikita Maurya](https://github.com/sun-andsky)
 - [William W.] (https://github.com/ParadigmPacket)
-- [Steven T]
+- [Steven Thomure](https:///github.com/srt1975)
 - [Shalini V] (https://github.com/shalini515)
 - [Mohith Butta] (https:/github.com/mohithnovoct)
 - [Saloni Zade](https://github.com/Saloni0111-cpu)
