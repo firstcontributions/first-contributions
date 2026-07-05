@@ -30,6 +30,7 @@
 -[The9coder](https://github.com/The9coder)
 - [Tamanna](https://github.com/tamannamalik09)
 - [Saurabh Gupta](https://github.com/saurabhgupta3)
+- [Aditya Singh](https://github.com/Siphon18)
 - [Ankit] (https://github.com/rathaur-ankit)
 - [benjaminbii] (https://github.com/benjaminbii)
 - [zyx18298126158-netizen](https://github.com/zyx18298126158-netizen)
