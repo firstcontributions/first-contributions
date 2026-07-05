@@ -39,6 +39,7 @@
 - [wowo](https://github.com/wowo0214)
 - [Bian](https://github.com/chozinthwe25-crypto)
 - [Bo Bo](https://github.com/xubo-master)
+  [Aman Rai](https://github.com/amanrai0810)
 - [Sakshi Lavekar](https://github.com/SakshiLavekar-btech)
 - [Yousuf Faizan](https://github.com/SyedYousufFaizan)
 - [doorwell](https://github.com/doorwell)
