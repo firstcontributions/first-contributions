@@ -1371,6 +1371,7 @@
 - [RISHAD ROSHAN](https://github.com/rishadroshanpt)
 - [RSM Harsha](https://github.com/rsmharsha)
 - [Rachana](https://github.com/shivartha/revising.git)
+- [Shivani](https://github.com/shivartha/revising.git)
 - [Rachana N P](https://github.com/rachananp)
 - [Rachana Panduranga Naidu](https://github.com/Rachana078)
 - [Radasia Waltower](https://github.com/rwaltower)
