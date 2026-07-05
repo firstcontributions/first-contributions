@@ -2474,3 +2474,4 @@
 - [mclerit](https://github.com/mclerit)
 - [sidsr003](https://https://github.com/sidsr003)
 - [Colin Young](https://github.com/colinyoung04)
+- [Krishna Singh](https://github.com/krishnasingh281)
