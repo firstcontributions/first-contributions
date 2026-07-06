@@ -1639,6 +1639,7 @@ Rudr Ahuja
 - [Srikanth Medicherla](https://github.com/OSUMed)
 - [Srinithi D](https://github.com/Srinithid0109)
 - [Srishti Bhatia](https://github.com/srish0102)
+- [Srishti Malaviya](https://github.com/Srishti918)
 - [Sriteja01](https://github.com/Sriteja01)
 - [SRupia](https://github.com/SRupia)
 - [Halacky](https://github.com/000catania0)
