@@ -1280,6 +1280,7 @@ Rudr Ahuja
 - [UTUBMIR](https://github.com/UTUBMIR)
 - [Jasmeet Singh from India 🇮🇳](https://github.com/JAS2343L)
 - [Noah Kim](https://github.com/gratisreise)
+- [BokkieNZ](https://github.com/BokkieNZ)
 - [Noah Schroeder](https://github.com/nrschroeder)
 - [Simon Waberski](https://github.com/waberskisimon)
 - [HothoLina](https://github.com/HothoLina)
