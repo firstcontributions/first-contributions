@@ -1125,6 +1125,7 @@ Rudr Ahuja
 - [Laura N](https://github.com/lnezsierra/)
 - [Usman Malik] (https://github.com/usmanmalik10/)
 - [Leandro R](http://github.com/leandrortavano)
+- [Lakshya] (https://github.com/lakshya2851)
 - [Lemontree](https://github.com/Lemontree7981)
 - [Lenin Goud Athikam](https://github.com/leninathikam)
 - [Leon](https://github.com/Leonels12)
