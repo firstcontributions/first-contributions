@@ -65,6 +65,7 @@
 - [Siddhesh Rao](https://github.com/siddheshR4)
 - [Chetla Srijith](https://github.com/chetlasrijith)
   [Emmanuel Fagite] (https://github.com/fagiteemmanuel4-bit)
+- [Anurag Tripathi](https://github.com/anurag24-26)
 - [pragad](https://github.com/M-pragad)
 - Pramod2211
 - [Nakul Iyer](https://github.com/naks123)
