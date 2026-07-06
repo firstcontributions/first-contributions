@@ -1843,6 +1843,7 @@
 - [Yuval Tzur](https://github.com/yuvtz)
 - [Yuvaraj K](https://github.com/22f3002987-UserYuv)
 - [Yuvi](https://github.com/yuvrajshrirame)
+- [Praneetha AS](https://github.com/Praneetha-as29)
 - [Yuzhirua](https:/github.com/Yuzhirua)
 - [Zacarias Casimiro](https://github.com/zcasimir39)
 - [Aditya Warekar](https://github.com/adityawarekar)
