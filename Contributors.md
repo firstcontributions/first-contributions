@@ -100,6 +100,7 @@ Rudr Ahuja
 - [Timothy Smith](https://github.com/timothysmithdev)
 - Sindy
 - [Tanvi Dominic] (https://github.com/tanvidominic)
+- Kabir Gupta
 - [Karthik Rathinavel] (https://github.com/karthikrathinavel)
 - [PNUjinsu](https://github.com/201924611)
 - [Dembo Jatta](https://github.com/Demzi1)
