@@ -20,6 +20,7 @@ Rudr Ahuja
 - [Vyash](https://github.com/vyash-s)
 - - Long (https://github.com/longon01)
 - Atot Aryoto - [Atot4](https://github.com/Atot4)
+- kaushiki [ kaushi - 12] (https://github.com/kaushi-12)
 - Shinobi (https://github.com/ShineEnoki)
 - Vijay Karthik - [CodeXSlayer](https://github.com/code-x-slayer)
 - [Ajwa Zameer](https://github.com/ajwazameer)
@@ -2551,3 +2552,5 @@ aaaa
 - [sanjeev-builds](https://github.com/sanjeev-builds)
 
 - [Edy (DruckerE)](https://github.com/DruckerE)
+- [cards2332](https://github.com/cards2332)
+- [heckerr404](https://github.com/heckerr404)
