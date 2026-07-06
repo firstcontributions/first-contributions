@@ -144,6 +144,7 @@ Rudr Ahuja
 - [Pankaj Garg](https://github.com/Garg-Pankaj29)
 - [ADHIRAJ994](https://github.com/ADHIRAJ994)
 - [ranjana](https://github.com/ranjana-nr)
+- [Abhish Shetty](https://github.com/abhishettyy)
 - [Abhishek](https://github.com/trustAbhishek)
 - [Saiesh Sharma](https://github.com/SaieshSharma)
 - [Akshat Lal](https://github.com/lal-akshat)
