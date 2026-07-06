@@ -129,7 +129,7 @@ Rudr Ahuja
 - Dev karan singh chandel
 - [KimsunLy](https://github.com/Kimsunly)
 - [Eric Ye](https://github.com/eriicye)
--[ Jove Amala Rathna🚀](https://github.com/joveamalarathna-s)
+-[ Jove Amala Rathna⭐](https://github.com/joveamalarathna-s)
 - [Shan Asif](https://github.com/shanAweb)
 - [Lucas Santos Da Cruz](https://github.com/lsantosdacruz)
 - [Ariel Massetti](https://github.com/amassetti)
