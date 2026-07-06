@@ -2474,6 +2474,7 @@ Rudr Ahuja
 - [Amisha](https://github.com/Amisha2405)
 - [Nithish Sarwin](https://github.com/Nithish-code17)
 - [Tatiana Perez](https://github.com/auxiliar1comprasaca-svg)
+- [Parikshit Gupta](https://github.com/ParikshitGupta2605)
 - [Jessica Elliott](https://github.com/jeelliot)
 - [01w-01](https://github.com/01w-01)
 - [DAIACITA](https://github.com/DAIACITA)
