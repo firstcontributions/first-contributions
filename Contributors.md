@@ -21,6 +21,7 @@ Rudr Ahuja
 - Atot Aryoto - [Atot4](https://github.com/Atot4)
 - Shinobi (https://github.com/ShineEnoki)
 - Vijay Karthik - [CodeXSlayer](https://github.com/code-x-slayer)
+- [Ajwa Zameer](https://github.com/ajwazameer)
 - Ansh Choudhary -[https://github.com/Ansh-choudhary08]
 -Robert James
 - Sankeerth Nara - [https://github.com/SankeerthNara]
