@@ -21,6 +21,7 @@
 - Vijay Karthik - [CodeXSlayer](https://github.com/code-x-slayer)
 - Ansh Choudhary -[https://github.com/Ansh-choudhary08]
 -Robert James
+- Sankeerth Nara - [https://github.com/SankeerthNara]
 - [Samiksha-2702] (https://github.com/samiksha-2702)
 - [cyx89032-dot](https://github.com/cyx89032-dot)
 -[Askademy Ofiicial](https://github.com/askademyofficial)
@@ -240,6 +241,7 @@
 - [Animesh Ghosh](https://github.com/Animesh2605) -[S Jaya Pradeep](https://github.com/JPisOP007)
 - [Mohamed-Sherif](https://github.com/M0hamedXSherif)
 - [Hema Chowdary] (https://github.com/pavulurihemachowdary)
+- [Dalila Mendonça](https://github.com/dalila-mendonca)
 - [Snehan S](https://github.com/snehanofficial)
 - [Thejas Shetty](https://github.com/thejasshetty05)
 - [Vedant S. Kadam](https://github.com/vedant331)
@@ -2114,6 +2116,7 @@
 - [Ansh\_\_bhardwaj](https://github.com/Ansh811-hub?tab=repositories)
 - [Anjala N A](https://github.com/anjala25)
 - [Tejas B V](https://github.com/tejasbv46)
+- [Luiz Gustavo](https://github.com/luizg-martins)
 - [mlv](https://github.com/marcelo-mlv)
 - [Manas Rajdeep](https://github.com/manasrajdeep)
 - [Sunir Ibrahim](https://github.com/sunir-ibrahim)
@@ -2515,3 +2518,5 @@
 - [Nikunj Dhakad] (https://github.com/Nikunjdhakad)
 - [dnjsqhal8956-create](https://github.com/dnjsqhal8956-create)
 - [Dhanya P](http://github.com/iamDhanya-p)
+[Devanshu Rajput] (https://github.com/Devanshu7455)
+[seymahdi](https://github.com/seymahdi)
