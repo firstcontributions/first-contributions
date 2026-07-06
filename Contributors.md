@@ -1273,6 +1273,7 @@ Rudr Ahuja
 - [Jasmeet Singh from India 🇮🇳](https://github.com/JAS2343L)
 - [Noah Kim](https://github.com/gratisreise)
 - [Noah Schroeder](https://github.com/nrschroeder)
+- [Simon Waberski](https://github.com/waberskisimon)
 - [HothoLina](https://github.com/HothoLina)
 - [Noëlla Vivienne](https://github.com/noellav/)
 - [Aryanosh] (https://github.com/aryanosh)
