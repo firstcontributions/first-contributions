@@ -2330,6 +2330,7 @@
 - Daz-ler
 - [Takakura Anzu](https://github.com/takakura-anzu)
 - [Valeria Guerrero](https://github.com/ValeriaGuerreroTR)
+- [eziolt7](https://github.com/eziolt7/first-contributions)
 - [Akansha Gore](https://github.com/Akanshagore)
 - [Krish Yadav](https://github.com/krshydv)
 - [Tchirek](https://github.com/Tchirek)
