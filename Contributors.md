@@ -1068,6 +1068,7 @@ Rudr Ahuja
 - [James M](https://github.com/jdm3981)
 - [Shaunish Sharma](https://github.com/Shaunish123)
 - [Janobourian](https://github.com/janobourian)
+- [Aryan Navin](https://github.com/aryann4)
 - [JanosNagy](https://github.com/JaniITmer)
 - [Janosch Püschel](https://github.com/janosch-pueschel)
 - [Janvi Chetan Patel](https://github.com/JanviChetanPatel)
