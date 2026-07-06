@@ -64,6 +64,7 @@ Rudr Ahuja
 - [Arpan Kumar](https://github.com/Arpan-me-ios)
 - [alchemist240](https://github.com/alchemist240)
 - [Nicholas Kimmel] (https://github.com/Nicholas-Kimmel)
+- [MohammadAli] (https://github.com/Horneteater)
 - [Rasha Sharma](https://github.com/rashasharma)
 - [AD0031](https://github.com/AD0031-bit)
 - [Siddhesh Rao](https://github.com/siddheshR4)
