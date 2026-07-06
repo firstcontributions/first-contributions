@@ -234,7 +234,9 @@ Rudr Ahuja
 - [Harsh Prajapati](https://github.com/harsh-prajapati54)
 - [Avraj J.](https://github.com/avrajj)
 - [Yue Sl]
-- [Anagha Ajesh](https://github.com/anaajesh) -[Junaid Jamadar](https://github.com/JunaidDev20-spec)
+- [Anagha Ajesh](https://github.com/anaajesh) 
+-[Junaid Jamadar](https://github.com/JunaidDev20-spec)
+- [Vaishnavi Reddy](https://github.com/Starhub-Vaishnavi)
 - [Shaurya Sharma](https://github.com/shaurya-sharma123)
 - [Dev Varshney](https://github.com/dev200413y)
 - [Mrunalraul](https://github.com/mrunalraul)
@@ -2539,3 +2541,4 @@ aaaa
 - [densuke123](https://github.com/densuke123)
 - [Akash HG](https://github.com/akashhg2007)
 - [hosama-adem](https://github.com/hosama-adem).
+
