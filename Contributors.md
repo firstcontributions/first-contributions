@@ -13,6 +13,7 @@ Rudr Ahuja
 - [Aaditya](https://github.com/Aadi_RE350)
 - [buptjrq](https://github.com/buptjrq)
   Sindy
+- Clarisse Campos
 - [chillSort](https://github.com/soumayagarwal) #Contributor
 - [iiifk](https://github.com/iiifk)
 - [IRJ Prime](https://github.com/IRJ-Prime)
