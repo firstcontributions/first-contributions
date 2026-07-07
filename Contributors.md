@@ -1,3 +1,5 @@
+- # Contributors
+- -[Tomas Granja](https://github.com/tomas-neo)
 
 -[Nicolas Hernandez](https://github.com/Tacocat405583)
 -[DHINESH-77](https://github.com/DHINESH-77)
@@ -22,6 +24,7 @@ Rudr Ahuja
 - [rid325] (https://github.com/rid325)
 - [IRJ Prime](https://github.com/IRJ-Prime)
 -[Srishti K R](https://github.com/srishti-m-cmd)
+- [Legus](https://github.com/Legus-Yeung)
 - [oddoos7](https://github.com/oddoos7)
 - [Vyash](https://github.com/vyash-s)
 - - Long (https://github.com/longon01)
