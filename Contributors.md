@@ -1,4 +1,6 @@
 # Contributors
+-[Tomas Granja](https://github.com/tomas-neo)
+
 -[Nicolas Hernandez](https://github.com/Tacocat405583)
 -[DHINESH-77](https://github.com/DHINESH-77)
 -[Divyansh Pandey](https://github.com/divyansh-coder-git)
@@ -2573,3 +2575,4 @@ aaaa
 - [lizi2323](https://github.com/lizi2323)
 - [Jack Mintzer](https://github.com/mintzerjack-bit)
 - [Admin 980064] (https://github.com/admin980064)
+- [Tomas Granja](https://github.com/tomas-neo)
