@@ -28,7 +28,7 @@ Now clone this repo to your machine.
 
 IMPORTANT: DO NOT CLONE THE ORIGINAL REPO. Go to your fork and clone it.
 
-To clone the repo, click on "Code" and then click on "Open in Github Desktop".
+To clone the repo, click on "Code" and then click on "Open in GitHub Desktop".
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-clonetodesktop.png" alt="clone this repository" />
 
@@ -36,15 +36,15 @@ A pop up window will open. Click on "Open GitHubDesktop.exe".
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-open-githubdesktop.png" alt="clone this repository" />
 
-After you click on "Open GitHubDesktop.exe" a 'Clone a repository' dialogue box appears. Click on 'Clone'.
+After you click on "Open GitHubDesktop.exe" a 'Clone a repository' dialog box appears. Click on 'Clone'.
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/clone-repository.png" alt="clone this repository" height="400" />  
 
-After that another dialogue box that says 'How are you planning to use this fork?' appears. Select 'To contribute to the parent project' and click on 'Continue'.
+After that, another dialog box that says 'How are you planning to use this fork?' appears. Select 'To contribute to the parent project' and click on 'Continue'.
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/repository-clone-purpose.png" alt="Use of repository" height="500" />
 
-Now you have copied the contents of the first-contributions repository in github to your computer.
+Now you have copied the contents of the first-contributions repository in GitHub to your computer.
 
 ## Create a branch
 
@@ -62,11 +62,11 @@ Click on `Create branch`
 
 Now, go to history tab and open `Contributors.md` file in a text editor by right clicking and open in text editor. Scroll to the bottom of the page and add your name to it, then save the file.
 
-Example: If your name is James Smith, It should look like this.
+Example: If your name is James Smith, it should look like this.
 
 \[James Smith](https://github.com/jamessmith)
 
-You can see that there are changes to Contributors.md and they have been added to the Github Desktop.
+You can see that there are changes to Contributors.md and they have been added to GitHub Desktop.
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-status.png" alt="check status" />
 
@@ -84,9 +84,9 @@ At the bottom, you can see that the commit has been created.
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-commit2.png" alt="commit your changes" />
 
-## Push changes to github
+## Push changes to GitHub
 
-Click on File->Options and sign-in to Github.com. Type in your Github username and password.
+Click on File->Options and sign in to GitHub.com. Type in your GitHub username and password.
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-sign-in.png" alt="log-in to Github" />
 
@@ -96,7 +96,7 @@ Click the `Publish` button on the top right.
 
 ## Submit your changes for review
 
-If you go to your repository on github, you'll see `Compare & pull request` button. click on that button.
+If you go to your repository on GitHub, you'll see the `Compare & pull request` button. Click on that button.
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/compare-and-pull.png" alt="create a pull request" />
 
@@ -110,7 +110,7 @@ Soon I'll be merging all your changes into the main branch of this project. You 
 
 Congrats! You just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
 
-Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io#social-share).
+Celebrate your contribution and share it with your friends and followers by going to the [web app](https://firstcontributions.github.io#social-share).
 
 ### [Additional material](../additional-material/git_workflow_scenarios/additional-material.md)
 

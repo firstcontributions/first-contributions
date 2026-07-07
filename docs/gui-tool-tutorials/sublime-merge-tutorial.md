@@ -21,7 +21,7 @@ Download [Sublime Merge](https://www.sublimemerge.com/), Install and open it.
 
 Fork this repo by clicking on the fork button on the top of this page.
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/sublime-merge-tutorial/fork.png" alt="fork this repository" />
-This will create of copy of this repository in your account.
+This will create a copy of this repository in your account.
 
 <br>
 <br>
@@ -87,7 +87,7 @@ or hit the small arrow in upward direction in the right hand corner.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/sublime-merge-tutorial/sm-login.png" alt="login" />
 
-Login to your Github Account with your username and password
+Login to your GitHub account with your username and password
 
 Submit changes on the origin branch if you want the changes to reflect in the main branch directly, else select the appropriate branch you want to push.
 
@@ -108,7 +108,7 @@ Soon I'll be merging all your changes into the main branch of this project. You 
 
 Congrats!  You have just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
 
-Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io#social-share).
+Celebrate your contribution and share it with your friends and followers by going to the [web app](https://firstcontributions.github.io#social-share).
 
 ### [Additional material](../additional-material/git_workflow_scenarios/additional-material.md)
 

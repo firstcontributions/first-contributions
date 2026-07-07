@@ -7,14 +7,14 @@
 | <img alt="GitHub Desktop" src="https://cdn.icon-icons.com/icons2/2157/PNG/512/github_git_hub_logo_icon_132878.png" width="200"> | GitHub Command Line Interface (CLI) |
 | ------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
 
-This is a guide for us, the terminal nerds, who want to do everything in the terminal, and thanks to [Github-CLI](https://cli.github.com/), we can achieve it, remembering your first contribution should be fun, rewarding and a motivator to keep on going!
+This is a guide for us, the terminal nerds, who want to do everything in the terminal. Thanks to [Github-CLI](https://cli.github.com/), we can achieve just that. Remember, your first contribution should be fun, rewarding, and a motivator to keep on going!
 
 This guide is a bit more challenging since we are not using any graphical interface at all, but it's still really fun and you can definitely follow it!
 
 The first requisite is to have:
 
 - Git installed (how to install [git](https://git-scm.com/downloads))
-- Github account
+- GitHub account
 
 Now we need to install the `github-cli` tool in our system by following the [official documentation](https://github.com/cli/cli#installation)
 
@@ -52,11 +52,18 @@ In the project directory execute `git status` and you will see the changes.
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
 Add those changes to the branch you just created using the `git add` command:
-`git add Contributors.md`
+
+```bash
+git add Contributors.md
+```
 
 Now commit those changes using the `git commit` command:
-`git commit -m "Add your-name to Contributors list"`
-replacing `your-name` with your name.
+
+```bash
+git commit -m "Add your-name to Contributors list"
+```
+
+Replacing `your-name` with your name.
 
 # Push changes to GitHub
 
@@ -97,7 +104,7 @@ Congratulations! You have just completed the standard _fork -> clone -> edit -> 
 
 Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io/#social-share).
 
-If you'd like more practice, checkout [code contributions](https://github.com/roshanjossey/code-contributions).
+If you'd like more practice, check out [code contributions](https://github.com/roshanjossey/code-contributions).
 
 Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
 

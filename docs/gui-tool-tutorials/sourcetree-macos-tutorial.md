@@ -34,7 +34,7 @@ From here, you want to click on Remote. If this is the first installation, then 
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/sourcetree-macos-tutorial/sourcetree-2-main-connect.png" alt="SourceTree Connect" />
 
-The *Accounts* dialog will appear. Click "Add" in the lower left hand corner. Then select the appropriate settings to add GitHub (or any other account you want) to the client. After you selected your settings for GitHub, click "Connect Account."
+The *Accounts* dialog will appear. Click "Add" in the lower left-hand corner. Then select the appropriate settings to add GitHub (or any other account you want) to the client. After you have selected your settings for GitHub, click "Connect Account."
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/sourcetree-macos-tutorial/sourcetree-4-accounts-add.png" alt="SourceTree Connect Add" />
 
@@ -44,7 +44,7 @@ This will open a page in your web browser. Follow the steps given to authorize y
 
 Fork this repo by clicking on the fork button on the top of this page.
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/sourcetree-macos-tutorial/fork.png" alt="fork this repository" />
-This will create of copy of this repository in your account.
+This will create a copy of this repository in your account.
 
 
 ## Clone the repository
@@ -82,9 +82,9 @@ To do this, click **Branch (1)** which launches the naming dialog. Then **Add yo
 
 ## Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor and add your name to it, with your Github URL link, then save the file.
+Now open `Contributors.md` file in a text editor and add your name to it, with your GitHub URL link, then save the file.
 
-You should be able to see and review the file that have been changed and decide what you would like to stage.  Staging is important to tell git exactly what file changes you want associated with this commit.
+You should be able to see and review the files that have been changed and decide what you would like to stage. Staging is important to tell git exactly what file changes you want associated with this commit.
 
 *Note: If you do not see the file's diff, click **Uncommitted Files** at the top of your dialog*
 
@@ -106,13 +106,13 @@ Congratulations, you've committed all the changes to your local copy of your bra
 
 ## Push changes to GitHub
 
-Now you are ready to push your changes to github. This will be pushing it to your own, forked, copy of the project. Follow the steps to push your branch up. First, click **Push (1)**, this will show the remote/push dialog. **Click (2)** the checkbox of your branch you want to push. Select **OK (3)** and this will push your commit up to Github.
+Now you are ready to push your changes to GitHub. This will be pushing it to your own, forked, copy of the project. Follow the steps to push your branch up. First, click **Push (1)**, this will show the remote/push dialog. **Click (2)** the checkbox of your branch you want to push. Select **OK (3)** and this will push your commit up to GitHub.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/sourcetree-macos-tutorial/sourcetree-10-pushing.png" alt="origin or branch" />
 
 ## Submit your changes for review
 
-If you go to your repository on github, you'll see  `Compare & pull request` button. Click on that button.
+If you go to your repository on github, you'll see `Compare & pull request` button. Click on that button.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/sourcetree-macos-tutorial/compare-and-pull.png" alt="create a pull request" />
 

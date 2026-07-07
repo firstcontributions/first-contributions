@@ -46,7 +46,7 @@ Try to recreate the bug with the latest version of the software.
 If it can't be recreated with the latest version, note that in the ticket and close it.
 If it still exists, note that in the ticket as well and leave it open.
 
-Working with Code
+## Working with Code
 Programmers of all experience levels can help with the code in the project.
 Don't think that you have to be a coding genius to make real contributions to your favorite project.
 
@@ -80,8 +80,9 @@ Check to see if the code could actually be hiding a bug. If not, modifying the s
 
 10. **Add a comment**:
 When you're digging through the code, you may find some spots that are confusing.
-Chances are if you were confused, others will be  as well. Document them in the code and submit a patch.
-Work with Documentation
+Chances are if you were confused, others will be as well. Document them in the code and submit a patch.
+
+## Work with Documentation
 Documentation is typically the part of a project that gets short shrift.
 It also can suffer from having been written from the point of view of those who are familiar with the project, rather than through the eyes of someone just getting into it.
 If you've ever read docs for a project where you think, "It's as though this manual expects that I already know how to use the package," you know what I'm talking about.
@@ -94,7 +95,7 @@ For an API or library, create an example program that uses the tool. This could 
 For a tool, show real-world examples of how you've used it in your daily life. If you’re visually oriented,
 consider creating a screen-capture of an important process, such as how to install the application.
 
-Work with Community
+## Work with Community
 Open source is only partly about code. Community makes open source work. Here are ways you can help build it up.
 
 12. **Answer a question**: The best way to help build the community is by helping others.
@@ -106,7 +107,7 @@ Everyone starts out somewhere, and projects need a constant inflow of people if 
 If you've got a blog, write about your experiences with the project that you're using.
 Tell about a problem you faced using the software and what you did to solve it.
 You'll be helping in two ways, both by helping keep the project on the minds of others around you,
-and by creating a record for anyone else who has your problem in the future  and searches the web for the answer.
+and by creating a record for anyone else who has your problem in the future and searches the web for the answer.
 (A blog of your technical adventures is also an excellent way to show real-world experience with the software in question next time you go hunting for a job using it.)
 
 14. **Improve a website**:

@@ -31,7 +31,7 @@ This document provides information about how to resolve merge conflicts.
 > Take these steps to resolve the annoying merge conflicts.
 
 ### [Reverting a commit](reverting-a-commit.md)
-This document provides information about how to revert a commit on the remote repository. It will come in handy in case you need to undo a commit that has already been pushed to Github.
+This document provides information about how to revert a commit on the remote repository. It will come in handy in case you need to undo a commit that has already been pushed to GitHub.
 > Take these steps if you want to reverse a commit.
 
 ### [Squashing Commits](squashing-commits.md)

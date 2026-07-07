@@ -107,7 +107,7 @@ This will create a copy of this repository in your account.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone the repository" />
 
-Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button, then on SSH tab and then click the _copy url to clipboard_ icon.
+Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button, then on the SSH tab, and then click the _copy URL to clipboard_ icon.
 
 Open a terminal and run the following git command:
 
@@ -115,7 +115,7 @@ Open a terminal and run the following git command:
 git clone "url you just copied"
 ```
 
-where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
+where "url you just copied" (without the quotation marks) is the URL to this repository (your fork of this project). See the previous steps to obtain the URL.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
@@ -150,7 +150,7 @@ git switch -c add-alonzo-church
 <details>
 <summary> <strong>If you get any errors using git switch, click here:</strong> </summary>
 
-If the error message "Git: `switch` is not a git command. See `git –help`" appears, it's likely because you're using an older version of git.
+If the error message "Git: `switch` is not a git command. See `git --help`" appears, it's likely because you're using an older version of git.
 
 In this case, try to use `git checkout` instead:
 
@@ -230,9 +230,9 @@ Soon I'll be merging all your changes into the main branch of this project. You 
 
 Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll often encounter as a contributor!
 
-Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io/#social-share).
+Celebrate your contribution and share it with your friends and followers by going to the [web app](https://firstcontributions.github.io/#social-share).
 
-If you'd like more practice, checkout [code contributions](https://github.com/roshanjossey/code-contributions).
+If you'd like more practice, check out [code contributions](https://github.com/roshanjossey/code-contributions).
 
 Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
 

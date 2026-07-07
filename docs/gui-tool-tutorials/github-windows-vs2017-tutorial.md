@@ -17,7 +17,7 @@ If you don't have Visual Studio 2017 on your machine, [install it](https://www.v
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs2017-tutorial/fork.png" alt="fork this repository" />
 
-Fork this repository by clicking on the fork button on the top of this page. This will create of copy of this repository in your GitHub account.
+Fork this repository by clicking on the fork button on the top of this page. This will create a copy of this repository in your GitHub account.
 
 GitHub keeps track of the relationship between your repo and the one you forked it from.  You can think of your repo as a working copy.
 
@@ -128,7 +128,7 @@ Soon I'll be merging all your changes into the main branch of this project. You 
 
 Congrats!  You have just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
 
-Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io#social-share).
+Celebrate your contribution and share it with your friends and followers by going to the [web app](https://firstcontributions.github.io#social-share).
 
 ### [Additional material](../additional-material/git_workflow_scenarios/additional-material.md)
 

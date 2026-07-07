@@ -4,7 +4,7 @@
 
 # First Contributions
 
-| <img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" width="40"> | Intellij IDEA |
+| <img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" width="40"> | IntelliJ IDEA |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
 
 
@@ -100,7 +100,7 @@ Soon I'll be merging all your changes into the main branch of this project. You 
 
 Congrats! You have just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
 
-Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io#social-share).
+Celebrate your contribution and share it with your friends and followers by going to the [web app](https://firstcontributions.github.io#social-share).
 
 
 ### [Additional material](../additional-material/git_workflow_scenarios/additional-material.md)

@@ -36,7 +36,7 @@ You should see the "Welcome to GitKraken" modal dialog - Sign in with GitHub and
 
 Fork this repo by clicking on the fork button on the top of this page.
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/fork.png" alt="fork this repository" />
-This will create of copy of this repository in your account.
+This will create a copy of this repository in your account.
 
 
 ## Clone the repository
@@ -102,7 +102,7 @@ Submit changes on the origin branch if you want the changes to reflect in the ma
 
 ## Submit your changes for review
 
-If you go to your repository on github, you'll see  `Compare & pull request` button. Click on that button.
+If you go to your repository on github, you'll see `Compare & pull request` button. Click on that button.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/compare-and-pull.png" alt="create a pull request" />
 
