@@ -1,6 +1,8 @@
 # Contributors
 - [ezyhe0n](https://github.com/ezhye0n)
 -[Tomas Granja](https://github.com/tomas-neo)
+
+-[SohaS](https://github.com/soha-sg)
 -[hyo](milk-the-cat)
 -[Nicolas Hernandez](https://github.com/Tacocat405583)
 -[Kim Seung-hyun](https://github.com/ksh1217)
