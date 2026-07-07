@@ -737,6 +737,7 @@ Charon
 - [Athulkrishna](https://github.com/AthulKrishna-736)
 - [Atul Pandey](https://github.com/atulpandey9)
 - [Avani J C](https://github.com/Avani24-byte)
+- [Ayush Katheriya](https://github.com/cwayush)
 - [Avanish](https://github.com/satyaavanish)
 - [BrokenHardware](https://github.com/Aryan3it)
 - [Avi Pandey](https://github.com/avi2512)
