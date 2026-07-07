@@ -1,4 +1,5 @@
 # Contributors
+- [Luis Ruvalcaba](https://github.com/luisruval)
 - [ezyhe0n](https://github.com/ezhye0n)
 -[Tomas Granja](https://github.com/tomas-neo)
 
@@ -2615,3 +2616,5 @@ aaaa
 - [Rahul-2008-lotm](https://github.com/Rahul-2008-lotm)
 - [Kunal Kolge](https://github.com/kunalkolge)
 - [maksimtech] (https://github.com/maksimtech)
+- [maksimtech] (https://github.com/maksimtech)
+- [marcusinsigtuna-art](https://github.com/marcusinsigtuna-art)
