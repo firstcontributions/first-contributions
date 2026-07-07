@@ -1041,6 +1041,7 @@ RLeish
 - [Archita Jain](https://github.com/archi829)
 - [Andyple](https://github.com/andyple)
 - [Angad Bhalla](https://github.com/Anga205)
+- [Ananya Bajpai](https://github.com/ananyabajpai729-ctrl)
 - [Angel Sara](https://github.com/Angelishere)
 - [Anidu](https://github.com/Anidu07)
 - [Anirudh Panigrahi](https://github.com/Anirudh-020505)
