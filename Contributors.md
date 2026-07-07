@@ -47,6 +47,7 @@ Rudr Ahuja
 - [Saurabh Gupta](https://github.com/saurabhgupta3)
 - [Aditya Singh](https://github.com/Siphon18)
 - [Ankit] (https://github.com/rathaur-ankit)
+- [milk-the-cat] (https://github.com/milk-the-cat)
 - [benjaminbii] (https://github.com/benjaminbii)
 - [Aryan Kapoor](https://github.com/Keninjavelas)
 - [zyx18298126158-netizen](https://github.com/zyx18298126158-netizen)
