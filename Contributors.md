@@ -35,6 +35,7 @@ Charon
 - [IRJ Prime](https://github.com/IRJ-Prime)
 -[Srishti K R](https://github.com/srishti-m-cmd)
 - [Legus](https://github.com/Legus-Yeung)
+- [Shounak](https://github.com/Script-Surfer)
 - [Vyash](https://github.com/vyash-s)
 - - Long (https://github.com/longon01)
 - Atot Aryoto - [Atot4](https://github.com/Atot4)
