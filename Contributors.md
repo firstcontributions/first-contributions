@@ -2572,4 +2572,4 @@ aaaa
 - [yusarymares](https://github.com/yusarymares)
 - [lizi2323](https://github.com/lizi2323)
 - [Jack Mintzer](https://github.com/mintzerjack-bit)
-- [Admin 980064] (https://github.com/admin980064)
+- [KristinChen] (https://github.com/kristib223lab)
