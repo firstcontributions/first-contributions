@@ -18,6 +18,7 @@ Rudr Ahuja
 - linjvnzhen
 - [chillSort](https://github.com/soumayagarwal) #Contributor
 - [iiifk](https://github.com/iiifk)
+- [rid325] (https://github.com/rid325)
 - [IRJ Prime](https://github.com/IRJ-Prime)
 -[Srishti K R](https://github.com/srishti-m-cmd)
 - [Legus](https://github.com/Legus-Yeung)
