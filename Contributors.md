@@ -2600,5 +2600,6 @@ aaaa
 - [Anadi Singh] (https://github.com/anadi-singh)
 - [Jass2345] (https://github.com/Jass2345)
 - [Ye lin Jeon](https://github.com/Somhya/first-contributions)
+- [Sajal test](https://github.com/SajalBharadwaj)
 - [Sajal Bharadwaj](https://github.com/SajalBharadwaj)
 - [Ye Yixing](https://github.com/yyx024314/first-contributions)
