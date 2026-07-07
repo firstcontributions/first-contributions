@@ -1,5 +1,5 @@
 # Contributors
-kim seung hyun
+-[Kim Seung-hyun](https://github.com/ksh1217)
 -[Tomas Granja](https://github.com/tomas-neo)
 
 -[Nicolas Hernandez](https://github.com/Tacocat405583)
