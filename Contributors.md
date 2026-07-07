@@ -14,6 +14,7 @@ Rudr Ahuja
 -[Prasanth](https://github.com/github-prashanth)
 - [Chitranshu Dhakad](https://github.com/GoluScriptMage)
 - [Aaditya](https://github.com/Aadi_RE350)
+- [jjks7021](https://github.com/jjks7021)
 - [buptjrq](https://github.com/buptjrq)
   Sindy
 - Clarisse Campos
