@@ -324,6 +324,7 @@ Rudr Ahuja
 - [Anish](https://github.com/Realmer01)
 - [Jixuan Liu](https://github.com/jixuanliu21)
 - [Sai Anirudh Siddi] (https://github.com/Anirudh64210)
+- [Bawoo Kim] (https://github.com/qkdn0204-alt)
 - [Priya Patel](https://github.com/Priya-Patel-08)
 - [Kofi Reeves-Miller](https://github.com/Kofi-RM)
 - [Joshua Napiñas](https://github.com/elib00)
