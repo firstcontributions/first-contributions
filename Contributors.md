@@ -129,6 +129,7 @@ Charon
 - [Afzal Khan](https://github.com/khan1020)
 - [Harshita](https://github.com/Hershita-debug)
 - [Anushka Kawalkar](https://github.com/k-anushka14)
+- hak
 - [Timothy Smith](https://github.com/timothysmithdev)
 - Sindy
 - [Tanvi Dominic] (https://github.com/tanvidominic)
