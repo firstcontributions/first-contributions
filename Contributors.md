@@ -15,6 +15,7 @@ Rudr Ahuja
 - [buptjrq](https://github.com/buptjrq)
   Sindy
 - Clarisse Campos
+- linjvnzhen
 - [chillSort](https://github.com/soumayagarwal) #Contributor
 - [iiifk](https://github.com/iiifk)
 - [IRJ Prime](https://github.com/IRJ-Prime)
