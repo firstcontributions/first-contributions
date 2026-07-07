@@ -2568,3 +2568,4 @@ aaaa
 - [ktsoator](https://github.com/ktsoator)
 - [yusarymares](https://github.com/yusarymares)
 - [lizi2323](https://github.com/lizi2323)
+- [Jack Mintzer](https://github.com/mintzerjack-bit)
