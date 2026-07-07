@@ -65,6 +65,7 @@ Rudr Ahuja
 - [Yousuf Faizan](https://github.com/SyedYousufFaizan)
 - [doorwell](https://github.com/doorwell)
 - [Milosz Kordzinski](https://github.com/milekv)
+- [MohammadAli](https://github.com/Horneteater)
 - [ADHIRAJ994](https://github.com/ADHIRAJ994) -[alealonso017](https://github.com/alealonso17)
 - [Ashmita Debnath](https://github.com/ashcode06)
 - [Bittu Kumar](https://github.com/CSEBittuKr)
@@ -75,7 +76,7 @@ Rudr Ahuja
 - [Arpan Kumar](https://github.com/Arpan-me-ios)
 - [alchemist240](https://github.com/alchemist240)
 - [Nicholas Kimmel] (https://github.com/Nicholas-Kimmel)
-- [MohammadAli] (https://github.com/Horneteater)
+
 - [Rasha Sharma](https://github.com/rashasharma)
 - [AD0031](https://github.com/AD0031-bit)
 - [Siddhesh Rao](https://github.com/siddheshR4)
