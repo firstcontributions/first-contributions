@@ -2557,7 +2557,6 @@ aaaa
 - [Akash HG](https://github.com/akashhg2007)
 - [hosama-adem](https://github.com/hosama-adem).
 - [sanjeev-builds](https://github.com/sanjeev-builds)
-
 - [Edy (DruckerE)](https://github.com/DruckerE)
 - [cards2332](https://github.com/cards2332)
 - [heckerr404](https://github.com/heckerr404)
@@ -2565,5 +2564,5 @@ aaaa
 -[shivangi sharma](https://github.com/shivangiii18_)
 - [Deev Jethwa](https://github.com/deevj37378)
 - [StarlightSSM](https://github.com/StarlightSSM)
-- [jillxingxirei] (https:/github.com/gig-trial-repository)
+- jillxingxirei
 - [ktsoator](https://github.com/ktsoator)
