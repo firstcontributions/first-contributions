@@ -1,6 +1,8 @@
 # Contributors
 - [ezyhe0n](https://github.com/ezhye0n)
 -[Tomas Granja](https://github.com/tomas-neo)
+
+-[SohaS](https://github.com/soha-sg)
 -[hyo](milk-the-cat)
 -[Nicolas Hernandez](https://github.com/Tacocat405583)
 -[Kim Seung-hyun](https://github.com/ksh1217)
@@ -2598,3 +2600,4 @@ aaaa
 - [Anadi Singh] (https://github.com/anadi-singh)
 - [Jass2345] (https://github.com/Jass2345)
 - [Ye lin Jeon](https://github.com/Somhya/first-contributions)
+- [Sajal Bharadwaj](https://github.com/SajalBharadwaj)
