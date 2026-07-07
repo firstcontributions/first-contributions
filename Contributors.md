@@ -2600,3 +2600,4 @@ aaaa
 - [Anadi Singh] (https://github.com/anadi-singh)
 - [Jass2345] (https://github.com/Jass2345)
 - [Ye lin Jeon](https://github.com/Somhya/first-contributions)
+- [Sajal Bharadwaj](https://github.com/SajalBharadwaj)
