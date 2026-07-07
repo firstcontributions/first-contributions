@@ -3,6 +3,7 @@
 -[Tomas Granja](https://github.com/tomas-neo)
 -[hyo](milk-the-cat)
 -[Nicolas Hernandez](https://github.com/Tacocat405583)
+-[Kim Seung-hyun](https://github.com/ksh1217)
 -[DHINESH-77](https://github.com/DHINESH-77)
 -[Divyansh Pandey](https://github.com/divyansh-coder-git)
 -[WahyuWian]
