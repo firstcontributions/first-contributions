@@ -184,6 +184,7 @@ Rudr Ahuja
 - [Doffy] (https://github.com/Doffy4102)
 - [Varsha Racharla](https://github.com/varsha-0731)
 - [Khang Nguyen](https://github.com/khangnguyen04work-program)
+- [Krauzy](https://github.com/Krauzy)
 - [Rishabh](https://github.com/Rish-p9)
 - [Sifamol M N](https://github.com/shifamn7-cpu)
 - [Pratham Kaushik](https://github.com/domainkeeper)
