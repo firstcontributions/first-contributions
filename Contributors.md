@@ -168,7 +168,7 @@ Rudr Ahuja
 - [Test] (https://github.com/)
 - [Test] (https://github.com/)
 - [James Rouse]
-- Bhavya 
+- Bhavya
 - [Richa Singh]
 - [Hi, This is Bhanodhar my first ever contribution,i am going to do something big in life either in cricket or in software, remember my name you might hear in future]
 - [Savanth G](https://github.com/Savanth114/first-contributions.git)
@@ -253,7 +253,7 @@ Rudr Ahuja
 - [Harsh Prajapati](https://github.com/harsh-prajapati54)
 - [Avraj J.](https://github.com/avrajj)
 - [Yue Sl]
-- [Anagha Ajesh](https://github.com/anaajesh) 
+- [Anagha Ajesh](https://github.com/anaajesh)
 -[Junaid Jamadar](https://github.com/JunaidDev20-spec)
 - [Vaishnavi Reddy](https://github.com/Starhub-Vaishnavi)
 - [Shaurya Sharma](https://github.com/shaurya-sharma123)
@@ -2560,6 +2560,7 @@ aaaa
 [seymahdi](https://github.com/seymahdi)
 -[Monika kaumri]:(https://github.com/moniika-2906-git)
 - [rosspai](https://github.com/rosspai2)
+- [Sernn](https://github.com/Sernn0)
 - [laurenthoranyi](https://github.com/laurenthoranyi)
 - [Om K Patel](https://github.com/OM152002)
 - [fish-444](https://github.com/fish-444)
