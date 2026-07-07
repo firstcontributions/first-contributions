@@ -2614,5 +2614,7 @@ aaaa
 - [Borja Alvarez](https://github.com/borjaalvglez-beep)
 - [Harmandeep Kaur](https://github.com/harman-2167)
 - [Rahul-2008-lotm](https://github.com/Rahul-2008-lotm)
+- [Kunal Kolge](https://github.com/kunalkolge)
+- [maksimtech] (https://github.com/maksimtech)
 - [maksimtech] (https://github.com/maksimtech)
 - [marcusinsigtuna-art](https://github.com/marcusinsigtuna-art)
