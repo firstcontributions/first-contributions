@@ -1311,6 +1311,7 @@ Charon
 - [Nitish Sharma1](https://github.com/tylrx404)
 - [UTUBMIR](https://github.com/UTUBMIR)
 - [Jasmeet Singh from India 🇮🇳](https://github.com/JAS2343L)
+- [Nano aka mec-nyan](https://github.com/mec-nyan)
 - [Noah Kim](https://github.com/gratisreise)
 - [BokkieNZ](https://github.com/BokkieNZ)
 - [Noah Schroeder](https://github.com/nrschroeder)
