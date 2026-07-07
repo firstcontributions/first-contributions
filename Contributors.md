@@ -1,4 +1,6 @@
 # Contributors
+-[Tomas Granja](https://github.com/tomas-neo)
+
 -[Nicolas Hernandez](https://github.com/Tacocat405583)
 -[DHINESH-77](https://github.com/DHINESH-77)
 -[Divyansh Pandey](https://github.com/divyansh-coder-git)
@@ -16,6 +18,7 @@ Rudr Ahuja
   Sindy
 - Clarisse Campos
 - linjvnzhen
+- Sakinah N
 - [chillSort](https://github.com/soumayagarwal) #Contributor
 - [iiifk](https://github.com/iiifk)
 - [rid325] (https://github.com/rid325)
@@ -102,6 +105,7 @@ Rudr Ahuja
 - [Ishwika Bitla](https://github.com/IshwikaBitla)
 - [game_ryo](https://github.com/ryotagtagtag-wq)
 - [Priyanka Siwach](https://github.com/PriyankaSiwach)
+- [Shubham Kalihari](https://github.com/shubhamk09)
 - [sunshineniuniu04](https://github.com/sunshineniuniu04)
 - [Afzal Khan](https://github.com/khan1020)
 - [Harshita](https://github.com/Hershita-debug)
@@ -2572,4 +2576,5 @@ aaaa
 - [yusarymares](https://github.com/yusarymares)
 - [lizi2323](https://github.com/lizi2323)
 - [Jack Mintzer](https://github.com/mintzerjack-bit)
-- [KristinChen] (https://github.com/kristib223lab)
+- [KristinChen] (https://github.com/kristin223lab)
+- 
