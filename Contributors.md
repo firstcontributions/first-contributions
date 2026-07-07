@@ -17,8 +17,10 @@ Rudr Ahuja
 - [buptjrq](https://github.com/buptjrq)
   Sindy
 - Clarisse Campos
+- linjvnzhen
 - [chillSort](https://github.com/soumayagarwal) #Contributor
 - [iiifk](https://github.com/iiifk)
+- [rid325] (https://github.com/rid325)
 - [IRJ Prime](https://github.com/IRJ-Prime)
 -[Srishti K R](https://github.com/srishti-m-cmd)
 - [Legus](https://github.com/Legus-Yeung)
@@ -186,6 +188,7 @@ Rudr Ahuja
 - [Doffy] (https://github.com/Doffy4102)
 - [Varsha Racharla](https://github.com/varsha-0731)
 - [Khang Nguyen](https://github.com/khangnguyen04work-program)
+- [Krauzy](https://github.com/Krauzy)
 - [Rishabh](https://github.com/Rish-p9)
 - [Sifamol M N](https://github.com/shifamn7-cpu)
 - [Pratham Kaushik](https://github.com/domainkeeper)
@@ -2570,3 +2573,6 @@ aaaa
 - [ktsoator](https://github.com/ktsoator)
 - [yusarymares](https://github.com/yusarymares)
 - [lizi2323](https://github.com/lizi2323)
+- [Jack Mintzer](https://github.com/mintzerjack-bit)
+- [Admin 980064] (https://github.com/admin980064)
+- [Tomas Granja](https://github.com/tomas-neo)
