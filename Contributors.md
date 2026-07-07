@@ -1,17 +1,14 @@
 # Contributors
--[Nicolas Hernandez](https://github.com/Tacocat405583)
--[DHINESH-77](https://github.com/DHINESH-77)
--[Divyansh Pandey](https://github.com/divyansh-coder-git)
--[WahyuWian]
--[Kenny] (https://github.com/Kennyzambrano16122000)
+
+-[Nicolas Hernandez](https://github.com/Tacocat405583) -[DHINESH-77](https://github.com/DHINESH-77) -[Divyansh Pandey](https://github.com/divyansh-coder-git) -[WahyuWian] -[Kenny] (https://github.com/Kennyzambrano16122000)
 [Abdullah](https://github.com/lets-abdullah/)
 [Abhishek](https://github.com/ABHIKALVIUM)
 Rudr Ahuja
-- [Riya Patel](https://github.com/Riya5407)
--[Shailesh](https://github.com/shaileshkumavat0)
--[Prasanth](https://github.com/github-prashanth)
+
+- [Riya Patel](https://github.com/Riya5407) -[Shailesh](https://github.com/shaileshkumavat0) -[Prasanth](https://github.com/github-prashanth)
 - [Chitranshu Dhakad](https://github.com/GoluScriptMage)
 - [Aaditya](https://github.com/Aadi_RE350)
+- [Srishti K R](https://github.com/srishti-m-cmd)
 - [buptjrq](https://github.com/buptjrq)
   Sindy
 - Clarisse Campos
@@ -27,16 +24,14 @@ Rudr Ahuja
 - Vijay Karthik - [CodeXSlayer](https://github.com/code-x-slayer)
 - [Ajwa Zameer](https://github.com/ajwazameer)
 - Ansh Choudhary -[https://github.com/Ansh-choudhary08]
--Robert James
+  -Robert James
 - Sankeerth Nara - [https://github.com/SankeerthNara]
 - [Samiksha-2702] (https://github.com/samiksha-2702)
-- [cyx89032-dot](https://github.com/cyx89032-dot)
--[Askademy Ofiicial](https://github.com/askademyofficial)
+- [cyx89032-dot](https://github.com/cyx89032-dot) -[Askademy Ofiicial](https://github.com/askademyofficial)
 - [tanve13](https://github.com/tanve13) #Contributor -[Sori](https://github.com/iam-sori)
 - [Thejas K](https://github.com/thejas-1999)
 - Ankur Macwan: [ankur3-101106](https://github.com/ankur3-101106)
-- Ankur 2: [ankur-1112](https://github.com/ankur-1112) -[SharadPandey01](https://github.com/SharadPandey01)
--[The9coder](https://github.com/The9coder)
+- Ankur 2: [ankur-1112](https://github.com/ankur-1112) -[SharadPandey01](https://github.com/SharadPandey01) -[The9coder](https://github.com/The9coder)
 - [Tamanna](https://github.com/tamannamalik09)
 - [Saurabh Gupta](https://github.com/saurabhgupta3)
 - [Aditya Singh](https://github.com/Siphon18)
@@ -132,8 +127,7 @@ Rudr Ahuja
 - [Yessy Vasquez](https://github.com/yessyvasquez632-gif)
 - Dev karan singh chandel
 - [KimsunLy](https://github.com/Kimsunly)
-- [Eric Ye](https://github.com/eriicye)
--[ Jove Amala Rathna⭐](https://github.com/joveamalarathna-s)
+- [Eric Ye](https://github.com/eriicye) -[ Jove Amala Rathna⭐](https://github.com/joveamalarathna-s)
 - [Shan Asif](https://github.com/shanAweb)
 - [Lucas Santos Da Cruz](https://github.com/lsantosdacruz)
 - [Ariel Massetti](https://github.com/amassetti)
@@ -159,7 +153,7 @@ Rudr Ahuja
 - [Test] (https://github.com/)
 - [Test] (https://github.com/)
 - [James Rouse]
-- Bhavya 
+- Bhavya
 - [Richa Singh]
 - [Hi, This is Bhanodhar my first ever contribution,i am going to do something big in life either in cricket or in software, remember my name you might hear in future]
 - [Savanth G](https://github.com/Savanth114/first-contributions.git)
@@ -243,8 +237,7 @@ Rudr Ahuja
 - [Harsh Prajapati](https://github.com/harsh-prajapati54)
 - [Avraj J.](https://github.com/avrajj)
 - [Yue Sl]
-- [Anagha Ajesh](https://github.com/anaajesh) 
--[Junaid Jamadar](https://github.com/JunaidDev20-spec)
+- [Anagha Ajesh](https://github.com/anaajesh) -[Junaid Jamadar](https://github.com/JunaidDev20-spec)
 - [Vaishnavi Reddy](https://github.com/Starhub-Vaishnavi)
 - [Shaurya Sharma](https://github.com/shaurya-sharma123)
 - [Dev Varshney](https://github.com/dev200413y)
@@ -467,7 +460,7 @@ Rudr Ahuja
 - [Liang Zhou] (https://github.com/Jay-wink)
 - [Aditya](https://github.com/Aditya-aks-710)
 - [Maahi-w-tech](https://github.com/Maahi-w-tech)
--TTT
+  -TTT
 - [Archita9412](https://github.com/Archita9412)
 - [Gurshaan Deol] (https://github.com/Gurshaan-Deol)
 - [Xander Wayne](https://github.com/xaaug)
@@ -2516,14 +2509,12 @@ Rudr Ahuja
 - Chandrakanth Dodapaneni
 - [Kushagra Singh](https://github.com/KushagraSinghBharadwaj)
 - [Natalia Giordano](https://github.com/nataliagiordano9-maker)
-- [Caio](https://github.com/csuzigan)
--[Alexfleming] (https://github.com/rcbxdev)
--[Ammar-Zeyad] (https://github.com/AmmarZeyad0)
+- [Caio](https://github.com/csuzigan) -[Alexfleming] (https://github.com/rcbxdev) -[Ammar-Zeyad] (https://github.com/AmmarZeyad0)
 - [zcztt](https://github.com/zcztt)
 - [Hu Yushun](https://github.com/yukino39)
 - [Xvoid](https://github.com/F2207-VS)- [Berkay Yalçın](https://github.com/berkayyalcin7)
 - [Gayathri M](https://github.com/gayathrimgau2008-gayathri-m)
--- [Kiranraj S G](https://github.com/kiranrajsg)
+  -- [Kiranraj S G](https://github.com/kiranrajsg)
 - [mclerit](https://github.com/mclerit)
 - [sidsr003](https://https://github.com/sidsr003)
 - [Colin Young](https://github.com/colinyoung04)
@@ -2535,7 +2526,7 @@ Rudr Ahuja
 - [Nethra T N](https://github.com/nethrathirumurugan21-debug)
 - [Viresh Anand](https://github.com/vireshanand278)
 - [Toshima Rahangdale](https://github.com/Toshima17)
-[Shriya Pachunuri](https://github.com/shriya7756)
+  [Shriya Pachunuri](https://github.com/shriya7756)
 - [Jacob Coyle](https://github.com/Jacob-Coyle)
 - [a0110330550770987](https://github.com/a0110330550770987)
 - [reiteroimhons-ai](https://github.com/reiteroimhons-ai)
@@ -2543,11 +2534,10 @@ Rudr Ahuja
 - [Stephulz](https://github.com/stephulz)
 - [Nikunj Dhakad] (https://github.com/Nikunjdhakad)
 - [dnjsqhal8956-create](https://github.com/dnjsqhal8956-create)
-aaaa
+  aaaa
 - [Dhanya P](http://github.com/iamDhanya-p)
-[Devanshu Rajput] (https://github.com/Devanshu7455)
-[seymahdi](https://github.com/seymahdi)
--[Monika kaumri]:(https://github.com/moniika-2906-git)
+  [Devanshu Rajput] (https://github.com/Devanshu7455)
+  [seymahdi](https://github.com/seymahdi) -[Monika kaumri]:(https://github.com/moniika-2906-git)
 - [rosspai](https://github.com/rosspai2)
 - [laurenthoranyi](https://github.com/laurenthoranyi)
 - [Om K Patel](https://github.com/OM152002)
@@ -2560,6 +2550,5 @@ aaaa
 - [Edy (DruckerE)](https://github.com/DruckerE)
 - [cards2332](https://github.com/cards2332)
 - [heckerr404](https://github.com/heckerr404)
-- [Yasir Ahmed](https://github.com/yasirsahmed1998-spec)
--[shivangi sharma](https://github.com/shivangiii18_)
+- [Yasir Ahmed](https://github.com/yasirsahmed1998-spec) -[shivangi sharma](https://github.com/shivangiii18_)
 - [Deev Jethwa](https://github.com/deevj37378)
