@@ -1,8 +1,11 @@
 # Contributors
+- [ezyhe0n](https://github.com/ezhye0n)
 -[Tomas Granja](https://github.com/tomas-neo)
 
 -[SohaS](https://github.com/soha-sg)
+-[hyo](milk-the-cat)
 -[Nicolas Hernandez](https://github.com/Tacocat405583)
+-[Kim Seung-hyun](https://github.com/ksh1217)
 -[DHINESH-77](https://github.com/DHINESH-77)
 -[Divyansh Pandey](https://github.com/divyansh-coder-git)
 -[WahyuWian]
@@ -10,11 +13,13 @@
 [Abdullah](https://github.com/lets-abdullah/)
 [Abhishek](https://github.com/ABHIKALVIUM)
 Rudr Ahuja
+Charon
 - [Riya Patel](https://github.com/Riya5407)
 -[Shailesh](https://github.com/shaileshkumavat0)
 -[Prasanth](https://github.com/github-prashanth)
 - [Chitranshu Dhakad](https://github.com/GoluScriptMage)
 - [Aaditya](https://github.com/Aadi_RE350)
+- [jjks7021](https://github.com/jjks7021)
 - [buptjrq](https://github.com/buptjrq)
   Sindy
 - Clarisse Campos
@@ -40,6 +45,7 @@ Rudr Ahuja
 - [cyx89032-dot](https://github.com/cyx89032-dot)
 -[Askademy Ofiicial](https://github.com/askademyofficial)
 - [tanve13](https://github.com/tanve13) #Contributor -[Sori](https://github.com/iam-sori)
+- [sangsu](https://github.com/sangsu745)
 - [Thejas K](https://github.com/thejas-1999)
 - Ankur Macwan: [ankur3-101106](https://github.com/ankur3-101106)
 - Ankur 2: [ankur-1112](https://github.com/ankur-1112) -[SharadPandey01](https://github.com/SharadPandey01)
@@ -48,6 +54,7 @@ Rudr Ahuja
 - [Saurabh Gupta](https://github.com/saurabhgupta3)
 - [Aditya Singh](https://github.com/Siphon18)
 - [Ankit] (https://github.com/rathaur-ankit)
+- [milk-the-cat] (https://github.com/milk-the-cat)
 - [benjaminbii] (https://github.com/benjaminbii)
 - [Aryan Kapoor](https://github.com/Keninjavelas)
 - [zyx18298126158-netizen](https://github.com/zyx18298126158-netizen)
@@ -61,7 +68,8 @@ Rudr Ahuja
 - [wowo](https://github.com/wowo0214)
 - [Bian](https://github.com/chozinthwe25-crypto)
 - [Bo Bo](https://github.com/xubo-master)
-  [Aman Rai](https://github.com/amanrai0810)
+- [Ahyeon](https://github.com/ahyeon2626)
+- [Aman Rai](https://github.com/amanrai0810)
 - [Sakshi Lavekar](https://github.com/SakshiLavekar-btech)
 - [Yousuf Faizan](https://github.com/SyedYousufFaizan)
 - [doorwell](https://github.com/doorwell)
@@ -77,6 +85,7 @@ Rudr Ahuja
 - [Arpan Kumar](https://github.com/Arpan-me-ios)
 - [alchemist240](https://github.com/alchemist240)
 - [Nicholas Kimmel] (https://github.com/Nicholas-Kimmel)
+- [Jaeyoon Ha](https://github.com/JaeYoonHa)
 
 - [Rasha Sharma](https://github.com/rashasharma)
 - [AD0031](https://github.com/AD0031-bit)
@@ -169,7 +178,7 @@ Rudr Ahuja
 - [Test] (https://github.com/)
 - [Test] (https://github.com/)
 - [James Rouse]
-- Bhavya 
+- Bhavya
 - [Richa Singh]
 - [Hi, This is Bhanodhar my first ever contribution,i am going to do something big in life either in cricket or in software, remember my name you might hear in future]
 - [Savanth G](https://github.com/Savanth114/first-contributions.git)
@@ -254,7 +263,7 @@ Rudr Ahuja
 - [Harsh Prajapati](https://github.com/harsh-prajapati54)
 - [Avraj J.](https://github.com/avrajj)
 - [Yue Sl]
-- [Anagha Ajesh](https://github.com/anaajesh) 
+- [Anagha Ajesh](https://github.com/anaajesh)
 -[Junaid Jamadar](https://github.com/JunaidDev20-spec)
 - [Vaishnavi Reddy](https://github.com/Starhub-Vaishnavi)
 - [Shaurya Sharma](https://github.com/shaurya-sharma123)
@@ -325,6 +334,7 @@ Rudr Ahuja
 - [Anish](https://github.com/Realmer01)
 - [Jixuan Liu](https://github.com/jixuanliu21)
 - [Sai Anirudh Siddi] (https://github.com/Anirudh64210)
+- [Bawoo Kim] (https://github.com/qkdn0204-alt)
 - [Priya Patel](https://github.com/Priya-Patel-08)
 - [Kofi Reeves-Miller](https://github.com/Kofi-RM)
 - [Joshua Napiñas](https://github.com/elib00)
@@ -523,6 +533,7 @@ Rudr Ahuja
 - [Muhammad Ihsan Ramadhan](https://github.com/ihsan-ramadhan)
 - [Yousuf Ansari](https://github.com/Yousuf-177)
 - [Akhil Saklani](https://github.com/Akhildev7)
+-[oce0917-beep](https://github.com/oce0917-beep)
 - [Deva Sri]
 - [heringston](https://github.com/heringston)
 - [ljc-1222](https://github.com/ljc-1222)
@@ -2561,6 +2572,7 @@ aaaa
 [seymahdi](https://github.com/seymahdi)
 -[Monika kaumri]:(https://github.com/moniika-2906-git)
 - [rosspai](https://github.com/rosspai2)
+- [Sernn](https://github.com/Sernn0)
 - [laurenthoranyi](https://github.com/laurenthoranyi)
 - [Om K Patel](https://github.com/OM152002)
 - [fish-444](https://github.com/fish-444)
@@ -2586,3 +2598,5 @@ aaaa
 - [Gauthamy Krishnan](https://github.com/gklearns)
 - [KristinChen] (https://github.com/kristin223lab)
 - [Anadi Singh] (https://github.com/anadi-singh)
+- [Jass2345] (https://github.com/Jass2345)
+- [Ye lin Jeon](https://github.com/Somhya/first-contributions)
