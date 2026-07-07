@@ -18,6 +18,7 @@ Rudr Ahuja
 - [chillSort](https://github.com/soumayagarwal) #Contributor
 - [iiifk](https://github.com/iiifk)
 - [IRJ Prime](https://github.com/IRJ-Prime)
+-[Srishti K R](https://github.com/srishti-m-cmd)
 - [Legus](https://github.com/Legus-Yeung)
 - [Vyash](https://github.com/vyash-s)
 - - Long (https://github.com/longon01)
