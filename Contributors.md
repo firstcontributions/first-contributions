@@ -182,6 +182,7 @@ Charon
 - -am
   张三李四 -[Piyush Thote](https://github.com/piyush-thote0867) -[Hunter Rundhaug](https://github.com/HunterRundhaug)
   - [Sadra Hoseinpour](https://github.com/ItzsSadra) -[GH900 062606] (https://github.com/) -[Rodmehr Semnani](https://github.com/rsemnani)
+- [cronus](https://gitgub.com)
 - [Test] (https://github.com/)
 - [Test] (https://github.com/)
 - [James Rouse]
