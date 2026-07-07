@@ -1,4 +1,5 @@
 # Contributors
+- [ezyhe0n](https://github.com/ezhye0n)
 -[Tomas Granja](https://github.com/tomas-neo)
 -[hyo](milk-the-cat)
 -[Nicolas Hernandez](https://github.com/Tacocat405583)
