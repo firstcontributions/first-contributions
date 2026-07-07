@@ -9,8 +9,7 @@
 [Abdullah](https://github.com/lets-abdullah/)
 [Abhishek](https://github.com/ABHIKALVIUM)
 Rudr Ahuja
-
--[Dumbo]
+Charon
 - [Riya Patel](https://github.com/Riya5407)
 -[Shailesh](https://github.com/shaileshkumavat0)
 -[Prasanth](https://github.com/github-prashanth)
