@@ -1,6 +1,6 @@
 # Contributors
 -[Tomas Granja](https://github.com/tomas-neo)
-
+-[SohaS](https://github.com/soha-sg)
 -[Nicolas Hernandez](https://github.com/Tacocat405583)
 -[DHINESH-77](https://github.com/DHINESH-77)
 -[Divyansh Pandey](https://github.com/divyansh-coder-git)
