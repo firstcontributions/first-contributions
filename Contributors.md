@@ -1835,6 +1835,7 @@ Charon
 - [Victor Meireles](https://github.com/victor-meireles)
 - [Vijay Joshi](https://github.com/VijayJoshi17)
 - [Vinayak Handa](https://github.com/vinayakhanda)
+- [Vince (Kobe) Sam](https://github.com/vincethecoder)
 - [Vincent Juarbe](https://github.com/ouchvinny)
 - [Vinh D Tran](https://github.com/s3500659)
 - [Vinma](https://github.com/vinzdini)
