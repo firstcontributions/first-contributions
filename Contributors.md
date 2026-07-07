@@ -12,6 +12,7 @@
 -[DHINESH-77](https://github.com/DHINESH-77)
 -[Divyansh Pandey](https://github.com/divyansh-coder-git)
 -[WahyuWian]
+[Adil Siddiqui]
 -[Kenny] (https://github.com/Kennyzambrano16122000)
 -[Margie] (https://github.com/margiecaina)
 [Abdullah](https://github.com/lets-abdullah/)
@@ -2625,3 +2626,4 @@ aaaa
 -[Varsha G](https://github.com/Varshavishnu)
 -[murugan877](https://github.com/murugan877)
 -Yash Khatri
+-Adil Siddiqui
