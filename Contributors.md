@@ -1,6 +1,6 @@
 # Contributors
 - [Eric Gichuri](https://github.com/ericgichuri)
--[Akshat Agnihotri](https://github.com/Agnihotri2096)
+- [Akshat Agnihotri](https://github.com/Agnihotri2096)
 - [Yasaswini](https://github.com/lYasaswini06)
 - [Luis Ruvalcaba](https://github.com/luisruval)
 - [Sabhya](https://github.com/sabhya1290)
