@@ -199,6 +199,7 @@ Rudr Ahuja
   [Abhishek Kumar] (https://buildbyabhi.github.io/)
 - [Syed Hamid Rahim] (https://github.com/shamidrahim)
 - [Sandli Thakur](https://github.com/thakursandli01-bit)
+- [88yomi](https://github.com/88yomi)
 - [Anshuman] (https://github.com/AnshumanTri)
 - [Kashish Raj](https://github.com/CodeBytesRaj)
 - [Ayush Baware](https://github.com/AyushBaware)
