@@ -10,6 +10,7 @@
 - [Samruddhi](https://github.com/s4mruddhi)
 -[SohaS](https://github.com/soha-sg)
 -[hyo](milk-the-cat)
+-[Harvey Lloyd-Smith] (HL-Smith)
 -[Mojdeh Work](https://github.com/mojdeh-work)
 - [Manglam Dubey](https://github.com/Manglam11)
 -[Nicolas Hernandez](https://github.com/Tacocat405583)
