@@ -3,6 +3,7 @@
 - [ezyhe0n](https://github.com/ezhye0n)
 -[Tomas Granja](https://github.com/tomas-neo)
 - [Dmitry Vorobey](https://github.com/dvorobej)
+- [Samruddhi](https://github.com/s4mruddhi)
 -[SohaS](https://github.com/soha-sg)
 -[hyo](milk-the-cat)
 -[Mojdeh Work](https://github.com/mojdeh-work)
