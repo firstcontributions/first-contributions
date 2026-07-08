@@ -35,6 +35,7 @@ Charon
 - Clarisse Campos
 - linjvnzhen
 - Sakinah N
+- [ManageSoft](https://github.com/ManageSoft-79) - Hello!
 - [chillSort](https://github.com/soumayagarwal) #Contributor
 - [iiifk](https://github.com/iiifk)
 - [rid325] (https://github.com/rid325)
