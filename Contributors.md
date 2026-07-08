@@ -1,4 +1,5 @@
 # Contributors
+- [Eric Gichuri](https://github.com/ericgichuri)
 - [Yasaswini](https://github.com/lYasaswini06)
 - [Luis Ruvalcaba](https://github.com/luisruval)
 - [Sabhya](https://github.com/sabhya1290)
