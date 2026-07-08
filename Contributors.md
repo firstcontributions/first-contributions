@@ -15,6 +15,7 @@
 -[Nicolas Hernandez](https://github.com/Tacocat405583)
 -[Kim Seung-hyun](https://github.com/ksh1217)
 - [Maciej Sztando](https://github.com/MaciejAtRelativity)
+- [Oscar Kriebel](https://github.com/OscarKriebel)
 -[DHINESH-77](https://github.com/DHINESH-77)
 - [Harshit Raj](https://github.com/harshitpraj12)
 - [Harshit Raj](https://github.com/harshitpraj12)
