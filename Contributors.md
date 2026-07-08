@@ -35,6 +35,7 @@ Charon
   Sindy
 - Clarisse Campos
 - linjvnzhen
+- Vasilis
 - Sakinah N
 - [ManageSoft](https://github.com/ManageSoft-79) - Hello!
 - [chillSort](https://github.com/soumayagarwal) #Contributor
