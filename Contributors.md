@@ -152,6 +152,7 @@ harry
 - Sindy
 - [Tanvi Dominic] (https://github.com/tanvidominic)
 - Kabir Gupta
+- Rahul Chinthamalla
 - [Karthik Rathinavel] (https://github.com/karthikrathinavel)
 - [PNUjinsu](https://github.com/201924611)
 - [Dembo Jatta](https://github.com/Demzi1)
