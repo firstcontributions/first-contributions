@@ -1,4 +1,4 @@
-# Contributors
+0# Contributors
 - [Pete Barb](https://github.com/DPB22)
 - [Rajkishor kumar](https://github.com/Raj24-dev)
 - [Eric Gichuri](https://github.com/ericgichuri)
@@ -1903,6 +1903,7 @@ niceshowmini
 - [WHA](https://github.com/wynehtetaung)
 - [Waffo Taffo](https://github.com/WaffoTaffo)
 - [Waheba Husain](https://github.com/waheba-husain)
+- [Diksha Joshi](https://github.com/dikshajoshi0610)
 - [Waltteri Riihimäki](https://github.com/waltterir)
 - [Wang](https://github.com/xjtu-wang)
 - [Waqar Wani](https://github.com/Waqar-Wani)
