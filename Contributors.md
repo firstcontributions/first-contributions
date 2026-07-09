@@ -1,4 +1,5 @@
 # Contributors
+- [Pete Barb](https://github.com/DPB22)
 - [Rajkishor kumar](https://github.com/Raj24-dev)
 - [Eric Gichuri](https://github.com/ericgichuri)
 - [Akshat Agnihotri](https://github.com/Agnihotri2096)
