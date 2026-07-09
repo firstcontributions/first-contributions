@@ -938,6 +938,7 @@ harry
 - Aanya
 - [Donny Guo](https://github.com/Donny-Guo)
 - [Dor Cohen](https://github.com/Dor11126)
+- [Bryce Walsh](https://github.com/bryce-walshh)
 - [Dorcas Adebayor](https://github.com/dokipure)
 - [DosCocas](https://github.com/DosCocas)
 - [Dpk](https://github.com/dpkbihani-blip)
