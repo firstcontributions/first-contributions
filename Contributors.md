@@ -5,7 +5,7 @@
 - [L.G Prayogi](https://github.com/lgprayogi)
 - [Akshat Agnihotri](https://github.com/Agnihotri2096)
 - [Hammad Afzal](https://github.com/Hammadafzal55)
-- Muhira Mohammed (https://github.com/Muhira557)
+- [Muhira Mohammed](https://github.com/Muhira557)
 - [Yasaswini](https://github.com/lYasaswini06)
 - [Jay Pant](https://github.com/Jaypant234)
 - [Luis Ruvalcaba](https://github.com/luisruval)
