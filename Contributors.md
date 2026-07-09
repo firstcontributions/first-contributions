@@ -6,6 +6,7 @@
 - [Akshat Agnihotri](https://github.com/Agnihotri2096)
 - [Hammad Afzal](https://github.com/Hammadafzal55)
 - [Yasaswini](https://github.com/lYasaswini06)
+- [Jay Pant](https://github.com/Jaypant234)
 - [Luis Ruvalcaba](https://github.com/luisruval)
 - [Sabhya](https://github.com/sabhya1290)
 - [ezyhe0n](https://github.com/ezhye0n)
