@@ -229,6 +229,7 @@ niceshowmini
 - [Hassan Mallah](https://github.com/HassanMallah)
 - [Jaimz](https://github.com/jaimzh)
 - [junior-xiaoc](https://github.com/junior-xiaoc)
+- [Yash Saxena](https://github.com/yashsaxena18)
 - [m-kras](https://github.com/m-kras)
 - [Ashi Verma](https://github.com/Ashi-Verma1758)
 - [Shubhadeep Patra](https://github.com/ShubhCoder-17)
