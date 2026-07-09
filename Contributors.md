@@ -12,6 +12,7 @@
 - [Samruddhi](https://github.com/s4mruddhi)
 -[SohaS](https://github.com/soha-sg)
 -[hyo](milk-the-cat)
+- [wangshibo](https://github.com/shibowang1)
 -[Harvey Lloyd-Smith] (HL-Smith)
 -[Mojdeh Work](https://github.com/mojdeh-work)
 - [Manglam Dubey](https://github.com/Manglam11)
