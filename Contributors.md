@@ -1,5 +1,6 @@
 # Contributors
 - [Rajkishor kumar](https://github.com/Raj24-dev)
+- [Ayush Kandari](https://github.com/Ayush13620)
 - [Eric Gichuri](https://github.com/ericgichuri)
 - [Akshat Agnihotri](https://github.com/Agnihotri2096)
 - [Hammad Afzal](https://github.com/Hammadafzal55)
