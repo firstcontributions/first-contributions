@@ -28,6 +28,7 @@
 - [beinuela](https://github.com/beinuela)
 -[M D]
 -[Kenny] (https://github.com/Kennyzambrano16122000)
+-[Alfred] (https://github.com/alfredd25)
 -[Margie] (https://github.com/margiecaina)
 [Abdullah](https://github.com/lets-abdullah/)
 [Abhishek](https://github.com/ABHIKALVIUM)
