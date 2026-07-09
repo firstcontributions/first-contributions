@@ -996,6 +996,7 @@ niceshowmini
 - [Fawaz Bello](https://github.com/Phawazz)
 - [Fei Sun](https://github.com/Fei-Sun-1996)
 - [Ravi](https://github.com/isRavi)
+- [cloudChen](https://github.com/cloudyc)
 - [Feizo](https://github.com/Felix-Kebaki)
 - [Felipe](https://github.com/Fredericrypto)
 - [Felipe](https://github.com/felipemv13)
