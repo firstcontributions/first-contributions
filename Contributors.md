@@ -2,6 +2,7 @@
 - [Pete Barb](https://github.com/DPB22)
 - [Rajkishor kumar](https://github.com/Raj24-dev)
 - [Eric Gichuri](https://github.com/ericgichuri)
+- [L.G Prayogi](https://github.com/lgprayogi)
 - [Akshat Agnihotri](https://github.com/Agnihotri2096)
 - [Hammad Afzal](https://github.com/Hammadafzal55)
 - [Yasaswini](https://github.com/lYasaswini06)
