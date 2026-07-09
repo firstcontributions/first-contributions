@@ -1267,6 +1267,7 @@ niceshowmini
 - [Matty D](https://github.com/mdelisle-Qosina)
 - [Max Taunton](https://github.com/PepsiMaxT)
 - [Mayur Lad](https://github.com/mayurlad)
+- [izislesar] (https://github.com/izislesar)
 - [Megha Nyassa](https://github.com/mnya28)
 - [minhho0567-art](https://github.com/minhho0567-art)
 - [Maitreyi](https://github.com/Maitreyi04)
