@@ -98,6 +98,7 @@ harry
 - [Aman Rai](https://github.com/amanrai0810)
 - [Sakshi Lavekar](https://github.com/SakshiLavekar-btech)
 - [Yousuf Faizan](https://github.com/SyedYousufFaizan)
+niceshowmini
 - [doorwell](https://github.com/doorwell)
 - [Milosz Kordzinski](https://github.com/milekv)
 - [MohammadAli](https://github.com/Horneteater)
