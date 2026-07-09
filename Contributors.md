@@ -179,6 +179,7 @@ harry
 - Himansh Solanki
 - [Yessy Vasquez](https://github.com/yessyvasquez632-gif)
 - Dev karan singh chandel
+- [Keyur Patel] (https://github.com/keyurpatel8809) (https://keyurpatel.dev)
 - [KimsunLy](https://github.com/Kimsunly)
 - [Eric Ye](https://github.com/eriicye)
 -[ Jove Amala Rathna⭐](https://github.com/joveamalarathna-s)
