@@ -1143,6 +1143,7 @@ niceshowmini
 - [Jayant Kumar](https://github.com/cnxstine)
 - [Jecin Elizabeth Rajesh](https://github.com/JecinElizabeth)
 - [Jeev Dharshan](https://github.com/Jeev4i)
+- [mtedium](https://github.com/mtedium)
 - [Jeo](https://github.com/jeomarisaez)
 - [Jeff Chiang](https://github.com/FuJen0980)
 - [JeanBiza](https://github.com/JeanBiza)
