@@ -16,6 +16,7 @@
 - [wangshibo](https://github.com/shibowang1)
 -[Harvey Lloyd-Smith] (HL-Smith)
 -[Mojdeh Work](https://github.com/mojdeh-work)
+-[Rohan](https://github.com/rohanasif17)
 - [Manglam Dubey](https://github.com/Manglam11)
 -[Nicolas Hernandez](https://github.com/Tacocat405583)
 -[Kim Seung-hyun](https://github.com/ksh1217)
