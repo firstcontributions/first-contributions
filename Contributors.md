@@ -82,6 +82,7 @@ harry
 - [Ankit] (https://github.com/rathaur-ankit)
 - [milk-the-cat] (https://github.com/milk-the-cat)
 - [benjaminbii] (https://github.com/benjaminbii)
+- [Aaditya rai] (https://github.com/aadityarai-bot)
 - [Aryan Kapoor](https://github.com/Keninjavelas)
 - [zyx18298126158-netizen](https://github.com/zyx18298126158-netizen)
 - [Anand Prasad](https://github.com/Anandprasad03) #Contributors
