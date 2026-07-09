@@ -76,6 +76,7 @@ harry
 -Robert James
 - Sankeerth Nara - [https://github.com/SankeerthNara]
 - [Samiksha-2702] (https://github.com/samiksha-2702)
+- [Suraj Patil] - [https://github.com/SurajPatil2645]
 - [LevelVoid] (https://github.com/LevelVoid)
 - [cyx89032-dot](https://github.com/cyx89032-dot)
 -[Askademy Ofiicial](https://github.com/askademyofficial)
