@@ -8,6 +8,7 @@
 - [Eric Gichuri](https://github.com/ericgichuri)
 - [L.G Prayogi](https://github.com/lgprayogi)
 - [Akshat Agnihotri](https://github.com/Agnihotri2096)
+- [Pratham Rathore](https://github.com/Pratham3017D)
 - [Hammad Afzal](https://github.com/Hammadafzal55)
 - [Muhira Mohammed](https://github.com/Muhira557)
 - [Aarush Gaikwad](https://github.com/AarushGaikwad)
