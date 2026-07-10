@@ -92,6 +92,7 @@ kalyani
 - Ankur 2: [ankur-1112](https://github.com/ankur-1112) -[SharadPandey01](https://github.com/SharadPandey01)
 -[The9coder](https://github.com/The9coder)
 - [Tamanna](https://github.com/tamannamalik09)
+-[Chakridhar Reddy](https://github.com/chakri0822)
 - [Saurabh Gupta](https://github.com/saurabhgupta3)
 - [Aditya Singh](https://github.com/Siphon18)
 - [Ankit] (https://github.com/rathaur-ankit)
