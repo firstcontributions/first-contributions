@@ -29,6 +29,7 @@
 - [Ritesh Raj]
 - [wangshibo](https://github.com/shibowang1)
 -[Harvey Lloyd-Smith] (HL-Smith)
+-[Maryam Tahir](https://github.com/maryamtahir9)
 -[Mojdeh Work](https://github.com/mojdeh-work)
 -[Rohan](https://github.com/rohanasif17)
 - [Manglam Dubey](https://github.com/Manglam11)
