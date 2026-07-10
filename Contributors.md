@@ -2534,7 +2534,7 @@ niceshowmini
 - - [Ajit Jha](https://github.com/Ajitjha3095/)
 - [Shatanik Chatterjee](https://github.com/ShatanikC/)
 - Yashika Sharma (https://github.com/yashika48)
-
+- [Zorathe](https://github.com/Zorathe)
 - - [Pooja Sri Vanum](https://github.com/poojasrivanum)
 - [Ryan Xue](https://github.com/AresLicy)
 - [Larissa Fernandez](https://github.com/larissafernandez-dev)
