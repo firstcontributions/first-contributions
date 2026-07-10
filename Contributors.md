@@ -8,6 +8,7 @@
 - [Akshat Agnihotri](https://github.com/Agnihotri2096)
 - [Hammad Afzal](https://github.com/Hammadafzal55)
 - [Muhira Mohammed](https://github.com/Muhira557)
+- [Aarush Gaikwad](https://github.com/AarushGaikwad)
 - [Yasaswini](https://github.com/lYasaswini06)
 - [Jay Pant](https://github.com/Jaypant234)
 - [Luis Ruvalcaba](https://github.com/luisruval)
