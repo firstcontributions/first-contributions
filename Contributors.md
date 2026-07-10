@@ -2755,3 +2755,4 @@ bhumika
 - [Raahu11](https://github.com/raahu11)
 - [Nik-yaduvanshi](https://github.com/Nik-yaduvanshi)
 - [sznbatista04-design](https://github.com/sznbatista04-design)
+- [Lucas Lima de Barros](https://github.com/lucaslimadebarros-star)
