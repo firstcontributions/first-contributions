@@ -85,6 +85,7 @@ main
 - [Mrunalraul](https://github.com/mrunalraul)
 - [Anish] (https://github.com/anishbasnetAB)
 - [Yhb1213](https://github.com/Yhb1213)\
+- [Samvedha Basireddy] (https://github.com/samvedhaB25)
 - [Rishika Chouhan](https://github.com/rishikachouhan075)
 - [prince91908c](https://github.com/prince91908c)
 -[Tiyashaghosh](https://github.com/Tiyashaghosh)
