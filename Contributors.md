@@ -1,4 +1,5 @@
 0# Contributors
+- [Ansh Singh](https://github.com/SinghAnsh07/)
 - [Zhou Longjie](https://github.com/longjie2003/)
 - [Pete Barb](https://github.com/DPB22)
 - [Aditya Vikram Singh](https://github.com/Adizz20)
