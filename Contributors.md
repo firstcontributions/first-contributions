@@ -1,5 +1,6 @@
 0# Contributors
 - [Pete Barb](https://github.com/DPB22)
+- [Aditya Vikram Singh](https://github.com/Adizz20)
 - [Rajkishor kumar](https://github.com/Raj24-dev)
 - [Eric Gichuri](https://github.com/ericgichuri)
 - [L.G Prayogi](https://github.com/lgprayogi)
