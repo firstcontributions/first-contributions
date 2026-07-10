@@ -337,6 +337,7 @@ niceshowmini
 - [PG](https://github.com/philipgadsden3)
 - [Anish] (https://github.com/anishbasnetAB)
 - [Yhb1213](https://github.com/Yhb1213)\
+- [Samvedha Basireddy] (https://github.com/samvedhaB25)
 - [Rishika Chouhan](https://github.com/rishikachouhan075)
 - [luckwinsubinaya](https://github.com/Luckwin-subinaya)
 - [prince91908c](https://github.com/prince91908c) -[Tiyashaghosh](https://github.com/Tiyashaghosh) -[Saud Manganhar](https://github.com/ssaauudd22) -[Yug Thummar](https://github.com/Yug-Thummar) -[Dev Raja](https://github.com/bundeladevraja123-raja)
