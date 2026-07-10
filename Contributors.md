@@ -2747,4 +2747,5 @@ bhumika
 - [Gerd10](https://github.com/Gerd10)
 - [lka-top](https://github.com/lka-top)
 - [Attlaass](https://github.com/Attlaass)
--[Raahu1l](https://github.com/raahu1l)
+- [Raahu11](https://github.com/raahu11)
+- [Nik-yaduvanshi](https://github.com/Nik-yaduvanshi)
