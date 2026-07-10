@@ -2733,3 +2733,4 @@ bhumika
 - [LaserKO](https://github.com/LaserKo)
 - [awk-io](https://github.com/awk-io)
 - [Sk Afjal Ali](https://github.com/afzalio)
+- [Lehar](https://github.com/lehar07-alt)
