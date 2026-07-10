@@ -1,5 +1,6 @@
 0# Contributors
 - [Aditya](https://github.com/aditya02x)
+- [Dikshant Rawat](https://github.com/Dikshant-Rawat?tab=repositories)
 - [Ansh Singh](https://github.com/SinghAnsh07/)
 - [Zhou Longjie](https://github.com/longjie2003/)
 - [Pete Barb](https://github.com/DPB22)
