@@ -29,6 +29,7 @@
  je_sky
 - Nishant Thakur
 - [Ritesh Raj]
+- [Khan-Fazal-sys](https://github.com/Khan-Fazal-sys)
 - [wangshibo](https://github.com/shibowang1)
 -[Harvey Lloyd-Smith] (HL-Smith)
 -[Maryam Tahir](https://github.com/maryamtahir9)
