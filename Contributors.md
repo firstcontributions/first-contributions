@@ -20,6 +20,7 @@
 -[SohaS](https://github.com/soha-sg)
 -[hyo](milk-the-cat)
 - Nishant Thakur
+- [Ritesh Raj]
 - [wangshibo](https://github.com/shibowang1)
 -[Harvey Lloyd-Smith] (HL-Smith)
 -[Mojdeh Work](https://github.com/mojdeh-work)
