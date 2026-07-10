@@ -24,6 +24,7 @@
 -[SohaS](https://github.com/soha-sg)
 -[Samaresh Jana](https://github.com/samaresh08)
 -[hyo](milk-the-cat)
+ je_sky
 - Nishant Thakur
 - [Ritesh Raj]
 - [wangshibo](https://github.com/shibowang1)
