@@ -19,6 +19,7 @@
 - [Dmitry Vorobey](https://github.com/dvorobej)
 - [Samruddhi](https://github.com/s4mruddhi)
 -[SohaS](https://github.com/soha-sg)
+-[Samaresh Jana](https://github.com/samaresh08)
 -[hyo](milk-the-cat)
 - Nishant Thakur
 - [Ritesh Raj]
