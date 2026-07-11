@@ -184,6 +184,7 @@ niceshowmini
 - hak
 - [Timothy Smith](https://github.com/timothysmithdev)
 - Sindy
+- [Ritvik Vudatha] (https://github.com/g1tvik)
 - [Tanvi Dominic] (https://github.com/tanvidominic)
 - Kabir Gupta
 - Rahul Chinthamalla
