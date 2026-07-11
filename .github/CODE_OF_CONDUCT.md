@@ -2,7 +2,7 @@
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
-
+we need to advenced and update news from your server on online any platform
 We as members, contributors, and leaders pledge to make participation in our
 community a harassment-free experience for everyone, regardless of age, body
 size, visible or invisible disability, ethnicity, sex characteristics, gender
