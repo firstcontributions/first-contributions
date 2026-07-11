@@ -2802,3 +2802,4 @@ bhumika
 - [Vitor Hugo](https://github.com/VitorHG25)
 - [chngsucns-ops](https://github.com/chngsucns-ops)
 - [Shubhan Chari](https://github.com/ShubhanC)
+- [Nicole Handler](https://github.com/HANDLERNICOLE)
