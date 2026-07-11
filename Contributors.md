@@ -2759,6 +2759,7 @@ bhumika
 - [jempolbagas](https://github.com/jempolbagas)
 - [Shodhan](https://github.com/shodhan-git)
 - [Gerd10](https://github.com/Gerd10)
+- [Hui-size](https://github.com/Hui-size)
 - [lka-top](https://github.com/lka-top)
 - [Attlaass](https://github.com/Attlaass)
 - [Raahu11](https://github.com/raahu11)
