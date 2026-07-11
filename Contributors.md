@@ -1,4 +1,5 @@
 0# Contributors
+- [Satya](https://github.com/satyaxo)
 - [Aditya](https://github.com/aditya02x)
 - [Dikshant Rawat](https://github.com/Dikshant-Rawat?tab=repositories)
 - [Ansh Singh](https://github.com/SinghAnsh07/)
@@ -301,6 +302,7 @@ niceshowmini
 - [Gopal Krishna](https://github.com/)
 - [Akanksha Dwivedi](https://github.com/Akanksha-1708)
 - [Krishi](https://github.com/Krishi-bot)
+- [Avishkar Dhonde](https://github.com/avishkardhonde23-tech)
 - [vigin pv](https://github.com/vigin-pv)
 - [Affan](https://github.com/)
 - [Sam](https://github.com/rosen184) -[agbuddy7](https://github.com/agbuddy7)
@@ -2757,6 +2759,7 @@ bhumika
 - [jempolbagas](https://github.com/jempolbagas)
 - [Shodhan](https://github.com/shodhan-git)
 - [Gerd10](https://github.com/Gerd10)
+- [Hui-size](https://github.com/Hui-size)
 - [lka-top](https://github.com/lka-top)
 - [Attlaass](https://github.com/Attlaass)
 - [Raahu11](https://github.com/raahu11)
@@ -2765,8 +2768,12 @@ bhumika
 - [Lucas Lima de Barros](https://github.com/lucaslimadebarros-star)
 - [Fauzan](https://github.com/fauzan660)
 - [Santiago Satragni](https://github.com/santisatragni)
+- - [01100001melia](https://github.com/01100001melia)
 <<<<<<< HEAD
 - [Ajwa Shahid](https://github.com/ajwashahid150-source)
 =======
 - [Shawon Dey](https://github.com/shawon-dey188)
 >>>>>>> 0336b03fb650815131c63deef0e6780b7e5342e6
+>>>>>>>
+>>>>>>> 
+- [rod-liu-id](https://github.com/rod-liu-id)
