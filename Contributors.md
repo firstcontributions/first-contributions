@@ -82,6 +82,7 @@ harry
 -[Srishti K R](https://github.com/srishti-m-cmd)
 - [Legus](https://github.com/Legus-Yeung)
 - [Shounak](https://github.com/Script-Surfer)
+- [Faizan Ur Rehman](https://github.com/fez-Ox)
 - [Vyash](https://github.com/vyash-s)
 - [shanaditi73-jpg](https://github.com/shanaditi73-jpg)
 - [Bongnteh Romarick Ndzelen](https://github.com/Bongnteh-Romarick-ndzelen)
