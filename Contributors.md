@@ -1,5 +1,6 @@
 0# Contributors
 //Mohamed//
+- [Rit Mangal](https://github.com/ritmangal)
 - [Satya](https://github.com/satyaxo)
 - [Aditya](https://github.com/aditya02x)
 - [Dikshant Rawat](https://github.com/Dikshant-Rawat?tab=repositories)
@@ -1288,7 +1289,6 @@ niceshowmini
 - [Sanjay Pandey](https://github.com/maescoder)
 - [Lythae|Öykü](https://github.com/oykunazergelen)
 - [AllisonMoran](https://github.com/allis)
-- [Saeed Mamani](https://github.com/Section33-ops)
 - [MOHAMED ARRAF](https://github.com/medoxee)
 - [M_Rizwan](https://github.com/rizwan749)
 - [Maanas Casp](https://github.com/Maanas-Casp)
