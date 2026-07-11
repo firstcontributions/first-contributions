@@ -50,6 +50,7 @@
 - [LELE3152](https://github.com/LELE3152)
 - [beinuela](https://github.com/beinuela)
 -[M D]
+- [shadow-byte-warrior](https://github.com/shadow-byte-warrior)
 -[Kenny] (https://github.com/Kennyzambrano16122000)
 -[Alfred] (https://github.com/alfredd25)
 -[Margie] (https://github.com/margiecaina)
