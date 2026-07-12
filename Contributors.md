@@ -2320,6 +2320,7 @@ niceshowmini
 - [shivamsinha02](https://github.com/shivamsinha02)
 - [Lance Tran](https://github.com/Lance-Tran)
 - [Rupesh Kumaran K R](https://github.com/RupeshKumaranKR)
+- [RaulVidal] (https://github.com/RaulAlvaro)
 - [Praveenkumar A](https://github.com/davidson2kcc)
 - [Curtis Robert Oliver](https://github.com/CurtisRobertOliver)
 - [Shaashvat](https://github.com/shash18-alt)
