@@ -2077,6 +2077,7 @@ niceshowmini
 - [Haku666-max](https://github.com/Haku666-max)
 - [Mdfaf](https://github.com/mdfaf)
 - [Shreyan Sharma](https://github.com/Sh3456)
+- [Rishi Chitnis](https://github.com/rishichitnis007)
 - [Shreya Das](https://github.com/sd2604)
 - [Baig Zaid](https://github.com/zack-Blade)
 - [Ayaan Kapoor](https://github.com/Ayaan-20-11)
