@@ -498,6 +498,7 @@ niceshowmini
 - [Akeb](https://github.com/Akeboshiii)
 - [JyanezVilla(https://github.com/JyanezVilla)
 - [Akshara Ramagiri](https://github.com/AksharaRamagiri)
+- [Shin HyeonSoo](https://github.com/je8075kbs-droid)
 - [Ruibin Zhang](https://github.com/jdhdb493)
 - [Anantha Kumar]
 - [David Brownhill]
