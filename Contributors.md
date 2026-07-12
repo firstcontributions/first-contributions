@@ -16,6 +16,7 @@
 - [Simplicity005] (https://github.com/Simplicity005)
 - [L.G Prayogi](https://github.com/lgprayogi)
 - [Akshat Agnihotri](https://github.com/Agnihotri2096)
+- [bellito] (https://github.com/bellito-on-git)
 - [Pratham Rathore](https://github.com/Pratham3017D)
 - [Hammad Afzal](https://github.com/Hammadafzal55)
 - [Muhira Mohammed](https://github.com/Muhira557)
