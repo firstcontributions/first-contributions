@@ -14,6 +14,9 @@ Reading articles & watching tutorials can help, but what comes better than actua
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-old-version-tutorial/fork.png" alt="fork this repository" />
 
+<img align="right" width="300" src="https://shorthand.com/the-craft/raster-images/assets/5kVrMqC0wp/sh-unsplash_5qt09yibrok-4096x2731.jpeg" alt="fork this repository" />
+
+
 If you don't have GitHub Desktop on your machine, [install it](https://desktop.github.com/).
 
 ## Fork this repository
