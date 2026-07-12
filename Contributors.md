@@ -1,5 +1,6 @@
 0# Contributors
 //Mohamed//
+- [Amaan saifi](https://github.com/amaansaifi-ai)
 - [Rit Mangal](https://github.com/ritmangal)
 - [Rohit Kumar](https://github.com/DemonDisguise)
 - [Satya](https://github.com/satyaxo)
