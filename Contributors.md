@@ -1,4 +1,4 @@
-<img width="511" height="667" alt="image" src="https://github.com/user-attachments/assets/07ee9e28-fe09-4717-a700-2364a11c9c8b" />0# Contributors
+0# Contributors
 //Mohamed//
 - [Rit Mangal](https://github.com/ritmangal)
 - [Rohit Kumar](https://github.com/DemonDisguise)
