@@ -1246,6 +1246,7 @@ niceshowmini
 - [Sharan Lakshetty](https://github.com/Sharan4405)
 - [Kaushik Balaji](https://github.com/KaushikBalaji05)
 - [Kaushik Kumar](https://github.com/kaushikbargaway)
+- [Khushi Chitlange](https://github.com/Khushi-Chitlange)
 - [Kavin](https://github.com/atomthedark)
 - [Kishan Pokar](https://github.com/Kishan-Pokar)
 - [Kevin Liao](https://github.com/kevintheliao)
