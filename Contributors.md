@@ -11,6 +11,7 @@
 - [Pete Barb](https://github.com/DPB22)
 - [Aditya Vikram Singh](https://github.com/Adizz20)
 - [Rajkishor kumar](https://github.com/Raj24-dev)
+- [Sounak Sarkar](https://github.com/NetRunnerXD)
 - [Atharv Palekar] (https://github.com/Atharv3105)
 - [Julia Rodriguez] (https://github.com/juliaRoSo)
 - [Eric Gichuri](https://github.com/ericgichuri)
