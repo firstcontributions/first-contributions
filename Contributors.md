@@ -2803,3 +2803,4 @@ bhumika
 - [chngsucns-ops](https://github.com/chngsucns-ops)
 - [Shubhan Chari](https://github.com/ShubhanC)
 - [Nicole Handler](https://github.com/HANDLERNICOLE)
+- [Afnan Bannihatti](https://github.com/Afnan-0206)
