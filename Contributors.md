@@ -2814,3 +2814,4 @@ bhumika
 - [Anisha Garg](https://github.com/anishagarg327)
 - [Ujwal M](https://github.com/itache2002)
 - [Navya Vashishth](https://github.com/Navya2057)
+- [Farhan Primaditya](https://github.com/farprima)
