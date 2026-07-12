@@ -1,6 +1,7 @@
 0# Contributors
 - [Satya](https://github.com/satyaxo)
 - [Aditya](https://github.com/aditya02x)
+- [Ayoub](https://github.com/KadriAyoub)
 - [Dikshant Rawat](https://github.com/Dikshant-Rawat?tab=repositories)
 - [Ansh Singh](https://github.com/SinghAnsh07/)
 - [Zhou Longjie](https://github.com/longjie2003/)
