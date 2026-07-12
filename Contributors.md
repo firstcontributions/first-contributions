@@ -2775,6 +2775,7 @@ bhumika
 - [jislovejsj-bot](https://github.com/jislovejsj-bot)
 - [LaserKO](https://github.com/LaserKo)
 - [awk-io](https://github.com/awk-io)
+- [Aradhya Biswas](https://github.com/aradhyabiswas)
 - [Sk Afjal Ali](https://github.com/afzalio)
 - [Lehar](https://github.com/lehar07-alt)
 - [Nithin Katariya V](https://github.com/Nithin-jain22)
@@ -2792,11 +2793,7 @@ bhumika
 - [Santiago Satragni](https://github.com/santisatragni)
 - [Sahil Dhanvij](https://github.com/Sahil4636)
 - - [01100001melia](https://github.com/01100001melia)
-<<<<<<< HEAD
 - [Ajwa Shahid](https://github.com/ajwashahid150-source)
-=======
-- [Shawon Dey](https://github.com/shawon-dey188)
->>>>>>> 0336b03fb650815131c63deef0e6780b7e5342e6
 >>>>>>>
 >>>>>>> 
 - [rod-liu-id](https://github.com/rod-liu-id)
