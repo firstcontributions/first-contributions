@@ -2811,6 +2811,8 @@ bhumika
 - [ViquinhoDev](https://github.com/viquinhodev)
 - [Ayush Aman](https://github.com/Ayushaman1291)
 - [Roblox](https://github.com/leozera-onfire)
+- [Jose Garcia](https://github.com/tzpfhk5bg9-blip)
+- [Maria Losantos](https://github.com/tzpfhk5bg9-blip)
 - [mgelcipoa-dot](https://github.com/mgelcipoa-dot)
 - [Vitor Hugo](https://github.com/VitorHG25)
 - [chngsucns-ops](https://github.com/chngsucns-ops)
