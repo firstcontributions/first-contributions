@@ -16,7 +16,16 @@ Before diving into the "how," let’s explore the "why." Contributing to open so
 
 ## How to Get Started with Open Source Contributions
 
-### 1. Choose the Right Project
+### 1. Before You Start: Evaluate Project Health
+
+Not all repositories are equally welcoming to new contributors. Before investing time, check:
+
+*   How recently was the last commit or release?
+*   Are maintainers responding to issues and PRs within a reasonable time?
+*   Is there a healthy ratio of merged PRs to open ones?
+*   Does the project have a CONTRIBUTING.md and active code of conduct?
+
+### 2. Choose the Right Project
 
 Finding the right project is crucial. Look for projects that align with your interests, skill level, and goals. Here’s how to find them:
 
@@ -24,7 +33,7 @@ Finding the right project is crucial. Look for projects that align with your int
 *   Check Open Source Programs: Programs like Google Summer of Code or Hacktoberfest are great for beginners.
 *   Follow Your Tools: Contribute to libraries, frameworks, or tools you already use.
 
-### 2. Understand the Project
+### 3. Understand the Project
 
 Before contributing, take time to understand the project:
 
@@ -32,7 +41,7 @@ Before contributing, take time to understand the project:
 *   Explore the Codebase: Familiarize yourself with the project structure and coding style.
 *   Join the Community: Participate in discussions on forums, Slack, or Discord to get a feel for the community.
 
-### 3. Start Small
+### 4. Start Small
 
 Begin with small, manageable tasks to build confidence:
 
@@ -40,7 +49,7 @@ Begin with small, manageable tasks to build confidence:
 *   Improve Documentation: Documentation updates are often overlooked but highly valuable.
 *   Write Tests: Adding tests is a great way to contribute and learn about the codebase.
 
-### 4. Follow Best Practices
+### 5. Follow Best Practices
 
 When contributing, adhere to the project’s guidelines:
 
