@@ -66,6 +66,7 @@
 Rudr Ahuja
 Charon
 - [Riya Patel](https://github.com/Riya5407)
+-[Tanishq Verma](https://github.com/tanishq-kuec2003)
 -[Shailesh](https://github.com/shaileshkumavat0)
 -[Prasanth](https://github.com/github-prashanth)
 - [Chitranshu Dhakad](https://github.com/GoluScriptMage)
