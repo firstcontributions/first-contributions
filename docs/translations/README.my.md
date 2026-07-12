@@ -5,14 +5,13 @@
 
 # Sumbangan Pertama
 
-Projek ini bertujuan untuk memberikan panduan dan memudahkan individu yang baru mula belajar membuat sumbangan pertama mereka. 
-Jika anda ingin membuat sumbangan pertama anda, sila ikuti arahan yang disediakan di bawah.
+Projek ini bertujuan untuk memudahkan dan membimbing pemula dalam memberikan sumbangan pertama mereka. Jika anda ingin membuat sumbangan pertama anda, sila ikuti arahan yang disediakan di bawah.
 
-#### *Sekiranya anda tidak selesa dengan menggunakan antara muka baris perintah (CLI), anda boleh mengikuti [panduan untuk menggunakan alat GUI di sini.](#Tutorial-Menggunakan-Alat-Lain)*
+_Sekiranya anda tidak selesa dengan menggunakan antara muka baris perintah (CLI), anda boleh mengikuti [panduan untuk menggunakan alat GUI di sini.](#tutorial-menggunakan-alat-lain)_
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="Fork repositori ini" />
 
-Jika git belum dipasang di mesin anda, sila memasangnya [di sini](https://help.github.com/articles/set-up-git/).
+#### Jika git belum dimuat turun pada mesin anda, sila [pasang di sini](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
 ## Fork repositori ini
 
@@ -23,9 +22,9 @@ Tindakan tersebut akan menghasilkan salinan repositori ini ke dalam akaun GitHub
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="Klon repositori ini" />
 
-Klon repositori yang anda telah fork ke mesin anda. Selepas itu, layari akaun GitHub anda, buka repositori yang baru dicabang, klik butang Clone, dan kemudian klik ikon *Copy url to clipboard*.
+Klon repositori yang anda telah fork ke mesin anda. Selepas itu, layari akaun GitHub anda, buka repositori yang baru dicabang, klik butang Code, klik tab SSH, dan kemudian klik ikon _copy url to clipboard_.
 
-Buka terminal dan jalankan arahan git berikut:
+Buka terminal dan melaksanakan arahan git berikut:
 
 ```bash
 git clone "URL anda baru disalin"
@@ -36,18 +35,18 @@ di mana "URL anda baru disalin" (tanpa tanda petikan) adalah URL ke repositori i
 
 Contoh:
 ```bash
-git clone https://github.com/<this-is-you>/first-contributions.git
+git clone git@github.com:<this-is-you>/first-contributions.git
 ```
 di mana `this-is-you` adalah nama pengguna GitHub anda. Di sini, anda menyalinkan kandungan repositori GitHub 'first-contributions' ke komputer anda.
 
-## Membuat branch
+## Mencipta sebuah branch
 
 Tukar ke direktori repositori pada komputer anda (jika lokasi CLI belum berada di sana):
 
 ```bash
 cd first-contributions
 ```
-Sila buat branch menggunakan arahan `git switch`:
+Sila cipta branch menggunakan arahan `git switch`:
 ```bash
 git switch -c add-your-name
 ```
@@ -56,6 +55,19 @@ Contoh:
 ```bash
 git switch -c add-emma-maembong
 ```
+
+<details>
+<summary> <strong>Jika anda mendapat sebarang ralat semasa menggunakan git switch, klik di sini:</strong> </summary>
+
+Jika mesej ralat "Git: `switch` is not a git command. See `git –help`" muncul, kemungkinan besar ini kerana anda menggunakan versi git yang lebih lama.
+
+Dalam kes ini, cuba gunakan `git checkout` sebagai gantinya:
+
+```bash
+git checkout -b add-your-name
+```
+
+</details>
 
 ## Buat perubahan yang diperlukan dan komit perubahan tersebut
 
@@ -86,6 +98,28 @@ git push -u origin <add-your-name>
 ```
 menggantikan `<add-your-name>` dengan nama branch yang kamu cipta sebelumnya.
 
+<details>
+<summary> <strong>Jika anda mendapat sebarang ralat semasa push, klik di sini:</strong> </summary>
+
+- ### Ralat Pengesahan (Authentication Error)
+     <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+  remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+  fatal: Authentication failed for 'https://github.com/&lt;your-username&gt;/first-contributions.git/'</pre>
+  Rujuk [tutorial GitHub](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) mengenai cara menjana dan menetapkan kunci SSH ke akaun anda.
+
+  Selain itu, anda mungkin perlu jalankan 'git remote -v' untuk semak alamat remote anda.
+
+  Jika ia kelihatan seperti ini:
+  <pre>origin	https://github.com/your-username/your_repo.git (fetch)
+  origin	https://github.com/your-username/your_repo.git (push)</pre>
+
+  tukarkan menggunakan arahan ini:
+  ```bash
+  git remote set-url origin git@github.com:your-username/your_repo.git
+  ```
+  Jika tidak, anda akan terus diminta untuk memasukkan nama pengguna dan kata laluan, dan mendapat ralat pengesahan.
+</details>
+
 ## Hantar perubahan anda untuk semakan
 
 Jika anda pergi ke repositori anda di GitHub, anda akan melihat butang `Compare & pull request`. Klik butang tersebut.
@@ -100,9 +134,11 @@ Tidak lama lagi, saya akan menggabungkan semua perubahan anda ke dalam branch 'm
 
 ## Pergi ke mana selepas ini?
 
-Tahniah! Anda baru saja selesai melaksanakan aliran kerja standard _fork -> clone -> edit -> pull request_ yang sering anda akan temui sebagai seorang penyumbang!
+Tahniah! Anda baru saja selesai melaksanakan aliran kerja standard _fork -> clone -> edit -> pull request_ yang sering anda akan temui sebagai seorang penyumbang (contributor)!
 
 Raikan sumbangan anda dan kongsi dengan rakan-rakan serta pengikut melalui [aplikasi web](https://firstcontributions.github.io/#social-share).
+
+Jika anda ingin lebih banyak latihan, lawati [code contributions](https://github.com/roshanjossey/code-contributions).
 
 Mari kita mulakan dengan menyumbang kepada projek lain. Kami telah menyediakan senarai projek dengan isu-isu mudah yang boleh anda mula sumbangkan. Sila rujuk [senarai projek dalam aplikasi web](https://firstcontributions.github.io/#project-list).
 
@@ -111,6 +147,6 @@ Mari kita mulakan dengan menyumbang kepada projek lain. Kami telah menyediakan s
 
 ## Tutorial Menggunakan Alat Lain
 
-| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
+| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/960px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | --- | --- | --- | --- | --- | --- |
 | [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md) | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md) | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md) | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md) | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md) | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md) |
