@@ -1,4 +1,5 @@
 # Contributors
+   - [Minato95-ayu](https://github.com/Minato95-ayu)
    - Rajlakshmi
    - Sumit Kumar(https://github.com/sumitraj7766)
 - [Abhishek Reddy Adunoori](https://github.com/abhi13-tech)
