@@ -1,4 +1,5 @@
 0# Contributors
+- [Noureddin Sameer](https://github.com/NoureddinSameer)
 - Mohamed
 - [Amaan saifi](https://github.com/amaansaifi-ai)
 - [Rit Mangal](https://github.com/ritmangal)
