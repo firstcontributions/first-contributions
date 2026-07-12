@@ -13,6 +13,7 @@
 - [Atharv Palekar] (https://github.com/Atharv3105)
 - [Julia Rodriguez] (https://github.com/juliaRoSo)
 - [Eric Gichuri](https://github.com/ericgichuri)
+- [Simplicity005] (https://github.com/Simplicity005)
 - [L.G Prayogi](https://github.com/lgprayogi)
 - [Akshat Agnihotri](https://github.com/Agnihotri2096)
 - [Pratham Rathore](https://github.com/Pratham3017D)
