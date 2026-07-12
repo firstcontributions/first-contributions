@@ -11,6 +11,7 @@
 - [Aditya Vikram Singh](https://github.com/Adizz20)
 - [Rajkishor kumar](https://github.com/Raj24-dev)
 - [Atharv Palekar] (https://github.com/Atharv3105)
+- [Julia Rodriguez] (https://github.com/juliaRoSo)
 - [Eric Gichuri](https://github.com/ericgichuri)
 - [L.G Prayogi](https://github.com/lgprayogi)
 - [Akshat Agnihotri](https://github.com/Agnihotri2096)
