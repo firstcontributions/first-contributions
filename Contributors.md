@@ -1,5 +1,6 @@
 0# Contributors
 //Mohamed//
+- [Mech-who](https://github.com/Mech-Who)
 - [Noureddin Sameer](https://github.com/NoureddinSameer)
 - [Saliya Ranasgalla](https://github.com/SaliyaRanasgalla)
 - [Amaan saifi](https://github.com/amaansaifi-ai)
