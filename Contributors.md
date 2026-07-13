@@ -1980,6 +1980,7 @@ niceshowmini
 - [Waqar Wani](https://github.com/Waqar-Wani)
 - [We&#39;re doing okay](https://github.com/wmhxb)
 - [Wendy Abstone](https://github.com/wendyabstone)
+- [Andrew Snook](https://github.com/acsnook94)
 - [Whrisper](https://github.com/SChrisper)
 - [WhtNoiz](https://github.com/WhtNoiz)
 - [Will](https://github.com/CrimsonKarma44)
