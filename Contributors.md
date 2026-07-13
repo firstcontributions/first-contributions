@@ -36,6 +36,7 @@
 - [Luis Ruvalcaba](https://github.com/luisruval)
 - [Sabhya](https://github.com/sabhya1290)
 - [ezyhe0n](https://github.com/ezhye0n)
+- [Ronit] (https://github.com/Shah-Ronit)
 - [malem777](https://github.com/malem777)
 - [Surya](https://github.com/SuryaElango-1208)
 - [onizukaTP] (https://github.com/onizukaTP)
