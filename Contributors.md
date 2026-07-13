@@ -4,6 +4,7 @@
 - [palak agrawal](https://github.com/Palak-agrawal123)
 - [Mech-who](https://github.com/Mech-Who)
 - [Noureddin Sameer](https://github.com/NoureddinSameer)
+- [Hudson Glines](https://github.com/drusticc)
 - [Saliya Ranasgalla](https://github.com/SaliyaRanasgalla)
 - [Amaan saifi](https://github.com/amaansaifi-ai)
 - [Yamini Gaur](https://github.com/Yami-gaur04)
