@@ -1,5 +1,6 @@
 0# Contributors
 //Mohamed//
+- [Veeraadinesh] (https://github.com/redveera2000/MYFITAPP.git)
 - [Mech-who](https://github.com/Mech-Who)
 - [Noureddin Sameer](https://github.com/NoureddinSameer)
 - [Saliya Ranasgalla](https://github.com/SaliyaRanasgalla)
@@ -51,6 +52,7 @@
 -[hyo](milk-the-cat)
  Lvbei
  je_sky
+BYE FUCK YOU GUYS ADD THIS IN repoedd opertion
 - Nishant Thakur
 - [Ritesh Raj]
 - [Khan-Fazal-sys](https://github.com/Khan-Fazal-sys)
@@ -986,6 +988,7 @@ niceshowmini
 - [Dharani Eswaramurthi](https://github.com/Dharani-Eswaramurthi)
 - [Dharshan Sai Kalavakunta](https://github.com/Dharshansai-k)
 - [Dharun R](https://github.com/dharun36)
+- [Joaquin Potocki](https://github.com/joaquinpotocki)
 - [Dhairya Kumar](https://github.com/dhairyakumar018)
 - [DhirajB05](https://github.com/DhirajB05)
 - [DhritiTS](https://github.com/DhritiTS)
