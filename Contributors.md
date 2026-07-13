@@ -6,6 +6,7 @@
 - [Saliya Ranasgalla](https://github.com/SaliyaRanasgalla)
 - [Amaan saifi](https://github.com/amaansaifi-ai)
 - [Priyadharshini D](https://github.com/Priyadharshinidhandapani)
+- [Spandan Jawkhedkar](https://github.com/Spandan77)
 - [Rit Mangal](https://github.com/ritmangal)
 - [Rohit Kumar](https://github.com/DemonDisguise)
 - [Satya](https://github.com/satyaxo)
