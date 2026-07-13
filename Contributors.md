@@ -1342,7 +1342,7 @@ niceshowmini
 - [Soumyajit Roy](https://github.com/Roy221RS)
 - [Muhammed Shareef](https://github.com/shareefmx)
 - [Mohamed Amdouni](https://github.com/mohamed-adhd)
-- [Mohit Suri] (https://github.com/saturn657)git add Contributors.md
+- [Mohit Suri] (https://github.com/saturn657)
 - [Muhsil NR](https://github.com/mhlohh)
 - [Muntazir-Sayed](https://github.com/Muntazir-sd)
 - [Murphy Amparo](https://github.com/MaxTecnoDev)
@@ -2152,7 +2152,8 @@ niceshowmini
 - [mario_m1ller] (https://github.com/mario_m1ller)
 - [Michiti] (https://github.com/M4CH3T3xd)
 - [niuezreal001](https://github.com/niuezreal001)
-- [Amogh](https://github.com/AmoghAK002) - [Shreya-Bhardwaj](https://github.com/S-Bhardwaj21)
+- [Amogh](https://github.com/AmoghAK002)
+- [Shreya-Bhardwaj](https://github.com/S-Bhardwaj21)
 - [Shreya-Bhardwaj](https://github.com/S-Bhardwaj21)
 - [Ashwitha K](https://github.com/Ashwitha-valli)
 - [Shourya Sharma](https://github.com/shourya011)
@@ -2802,14 +2803,9 @@ bhumika
 - [Fauzan](https://github.com/fauzan660)
 - [Santiago Satragni](https://github.com/santisatragni)
 - [Sahil Dhanvij](https://github.com/Sahil4636)
-- - [01100001melia](https://github.com/01100001melia)
-<<<<<<< HEAD
+- [01100001melia](https://github.com/01100001melia)
 - [Ajwa Shahid](https://github.com/ajwashahid150-source)
-=======
 - [Shawon Dey](https://github.com/shawon-dey188)
->>>>>>> 0336b03fb650815131c63deef0e6780b7e5342e6
->>>>>>>
->>>>>>> 
 - [rod-liu-id](https://github.com/rod-liu-id)
 - [ViquinhoDev](https://github.com/viquinhodev)
 - [Ayush Aman](https://github.com/Ayushaman1291)
@@ -2817,6 +2813,7 @@ bhumika
 - [Jose Garcia](https://github.com/tzpfhk5bg9-blip)
 - [Maria Losantos](https://github.com/tzpfhk5bg9-blip)
 - [mgelcipoa-dot](https://github.com/mgelcipoa-dot)
+- [Vahab Shalchian](https://github.com/vshalchian)
 - [Vitor Hugo](https://github.com/VitorHG25)
 - [chngsucns-ops](https://github.com/chngsucns-ops)
 - [Shubhan Chari](https://github.com/ShubhanC)
