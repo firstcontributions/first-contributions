@@ -2594,6 +2594,7 @@ niceshowmini
 
 [ninjitsuytber](https://github.com/ninjitsuytber)
 
+- [Vanshika Devi](https://github.com/Vanshika-devi)
 - [kihato](https://github.com/kihato)
 - [fan4754-hash](https://github.com/fan4754-hash)
 - [Triveni1706](https://github.com/Triveni1706)
