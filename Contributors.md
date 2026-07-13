@@ -2837,3 +2837,4 @@ bhumika
 - [Srinjoy Majumdar](https://github.com/srinjoy-iiith)
 - [Noelle Demery](https://github.com/Noelledemery)
 - [PADMAVATHY M](https://github.com/P-A-D-M-A)
+- [Jacson Myers](https://github.com/jacsonmyers)
