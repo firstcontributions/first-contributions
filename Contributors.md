@@ -7,6 +7,7 @@
 - [Amaan saifi](https://github.com/amaansaifi-ai)
 - [Priyadharshini D](https://github.com/Priyadharshinidhandapani)
 - [Spandan Jawkhedkar](https://github.com/Spandan77)
+- [Junior SEVERE](https://github.com/JuniorSEVERE-WEB)
 - [Rit Mangal](https://github.com/ritmangal)
 - [Rohit Kumar](https://github.com/DemonDisguise)
 - [Satya](https://github.com/satyaxo)
