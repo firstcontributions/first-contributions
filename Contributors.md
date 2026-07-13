@@ -64,6 +64,7 @@
 -[Divyansh Pandey](https://github.com/divyansh-coder-git)
 -[WahyuWian]
 - [LELE3152](https://github.com/LELE3152)
+- [Deeksha Sudheer](https://github.com/Sckultifacter)
 - [beinuela](https://github.com/beinuela)
 -[M D]
 - [shadow-byte-warrior](https://github.com/shadow-byte-warrior)
