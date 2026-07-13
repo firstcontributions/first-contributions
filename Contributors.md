@@ -902,6 +902,7 @@ Aakash Gupta
 - [Tej Deep Masina](https://github.com/TejDeepM)
 - [Ishan Verma](https://github.com/ishan4432)
 - [Ishit](https://github.com/ishitGsigma)
+- [Tabiq Zargar](https://github.com/TabiqZargar)
 - [Ishita Singh](https://github.com/codeishitech)
 - [Ishita](https://github.com/elekish)
 - [Itay Ben Daniel](https://github.com/ItayBenDaniel)
@@ -2263,4 +2264,3 @@ Aakash Gupta
 - [kihato](https://github.com/kihato)
 - [fan4754-hash](https://github.com/fan4754-hash)
 - [Triveni1706](https://github.com/Triveni1706)
-- [Tabiq Zargar](https://github.com/TabiqZargar)
