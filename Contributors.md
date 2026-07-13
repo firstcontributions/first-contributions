@@ -40,6 +40,7 @@
 - [dounoy](https://github.com/dounoy)
 - [Aarush Gaikwad](https://github.com/AarushGaikwad)
 - [Yasaswini](https://github.com/lYasaswini06)
+- [Mohammad Hafeez](https://github.com/Hafeez-001)
 - [Jay Pant](https://github.com/Jaypant234)
 - [Luis Ruvalcaba](https://github.com/luisruval)
 - [Sabhya](https://github.com/sabhya1290)
