@@ -1499,6 +1499,7 @@ niceshowmini
 - [Pramodkumar Shivanna](https://github.com/pramod05edu-afk)
 - [Jacob Xu] (https://github.com/hacoobamatata)
 - [Pranam Pagi](https://github.com/pranampagi)
+- [Rodrigo Henique Souza](https://github.com/rodrigoheniquesouza)
 - [Pavitra Boga](https://github.com/itspb-ux)
 - [Pranav Anandarao](https://github.com/pranandarao)
 - [Pranav Sawant](https://github.com/ItzPranav61)
