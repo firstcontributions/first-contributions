@@ -119,6 +119,7 @@ harry
 - [Legus](https://github.com/Legus-Yeung)
 - [Shounak](https://github.com/Script-Surfer)
 - [Faizan Ur Rehman](https://github.com/fez-Ox)
+- [José Miranda] (https://github.com/josemmiranda04) #first contribution
 - [Vyash](https://github.com/vyash-s)
 - [shanaditi73-jpg](https://github.com/shanaditi73-jpg)
 - [Bongnteh Romarick Ndzelen](https://github.com/Bongnteh-Romarick-ndzelen)
