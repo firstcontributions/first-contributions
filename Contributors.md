@@ -112,6 +112,7 @@ harry
 - [Oussama Sarboute](https://github.com/Oussama763)
 - [IRJ Prime](https://github.com/IRJ-Prime)
 -[Srishti K R](https://github.com/srishti-m-cmd)
+--[Anurag Pal](https://github.com/Anuxragg)
 - [Legus](https://github.com/Legus-Yeung)
 - [Shounak](https://github.com/Script-Surfer)
 - [Faizan Ur Rehman](https://github.com/fez-Ox)
