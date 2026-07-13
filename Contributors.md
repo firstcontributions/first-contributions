@@ -6,6 +6,7 @@
 - [Noureddin Sameer](https://github.com/NoureddinSameer)
 - [Saliya Ranasgalla](https://github.com/SaliyaRanasgalla)
 - [Amaan saifi](https://github.com/amaansaifi-ai)
+- [Yamini Gaur](https://github.com/Yami-gaur04)
 - [Priyadharshini D](https://github.com/Priyadharshinidhandapani)
 - [Spandan Jawkhedkar](https://github.com/Spandan77)
 - [Rit Mangal](https://github.com/ritmangal)
