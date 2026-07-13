@@ -52,6 +52,7 @@
 -[hyo](milk-the-cat)
  Lvbei
  je_sky
+BYE FUCK YOU GUYS ADD THIS IN repoedd opertion
 - Nishant Thakur
 - [Ritesh Raj]
 - [Khan-Fazal-sys](https://github.com/Khan-Fazal-sys)
