@@ -285,6 +285,7 @@ niceshowmini
 - [ranjana](https://github.com/ranjana-nr)
 - [Abhish Shetty](https://github.com/abhishettyy)
 - [Jacob](https://github.com/ajacob-c)
+- [Volticius](https://github.com/Ataba29)
 - [Abhishek](https://github.com/trustAbhishek)
 - [Saiesh Sharma](https://github.com/SaieshSharma)
 - [Akshat Lal](https://github.com/lal-akshat)
