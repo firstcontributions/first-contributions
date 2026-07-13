@@ -40,6 +40,7 @@
 - [Hammad Afzal](https://github.com/Hammadafzal55)
 - [Muhira Mohammed](https://github.com/Muhira557)
 - [Ait oubelli Ghilas] (https://github.com/ghilasaitoubelli-ui)
+- [Vaishnav Aron](https://github.com/VaishnavAron/contributions.git)
 - [dounoy](https://github.com/dounoy)
 - [Aarush Gaikwad](https://github.com/AarushGaikwad)
 - [Yasaswini](https://github.com/lYasaswini06)
