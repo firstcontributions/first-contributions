@@ -1264,6 +1264,7 @@ niceshowmini
 - [Rizwan Khan](https://github.com/mdrizwanfk)
 - [Jtoosh](https://github.com/jtoosh)
 - [Juan Caquias](https://github.com/jcaquiasjr)
+- [Cristian Martinez](https://github.com/cmartinezcode)
 - [Julia Meneses](https://github.com/juliamenes)
 - [Julianne Tomlinson](https://github.com/JewlzT)
 - [Jaydip Koriya](https://github.com/jaydipKoriya)
