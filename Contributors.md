@@ -13,6 +13,7 @@
 - [Junior SEVERE](https://github.com/JuniorSEVERE-WEB)
 - [Rit Mangal](https://github.com/ritmangal)
 - [Rohit Kumar](https://github.com/DemonDisguise)
+- [Sirish Upadhyay](https://github.com/jemanalytics)
 - [Satya](https://github.com/satyaxo)
 - [Aditya](https://github.com/aditya02x)
 - [Dikshant Rawat](https://github.com/Dikshant-Rawat?tab=repositories)
