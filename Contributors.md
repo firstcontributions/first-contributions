@@ -2858,3 +2858,4 @@ bhumika
 - [Raizen](https://github.com/rizalzein)
 - [KaiKumano1125](https://github.com/KaiKumano1125)
 - [Neha](https://github.com/Nehaignites)
+- [daricozzi1999-code](https://github.com/daricozzi1999-code)
