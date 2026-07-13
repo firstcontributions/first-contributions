@@ -986,6 +986,7 @@ niceshowmini
 - [Dharani Eswaramurthi](https://github.com/Dharani-Eswaramurthi)
 - [Dharshan Sai Kalavakunta](https://github.com/Dharshansai-k)
 - [Dharun R](https://github.com/dharun36)
+- [Joaquin Potocki](https://github.com/joaquinpotocki)
 - [Dhairya Kumar](https://github.com/dhairyakumar018)
 - [DhirajB05](https://github.com/DhirajB05)
 - [DhritiTS](https://github.com/DhritiTS)
