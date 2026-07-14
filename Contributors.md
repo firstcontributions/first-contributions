@@ -1,7 +1,7 @@
 0# Contributors
 
 //Mohamed//
-- [Veeraadinesh] (https://github.com/redveera2000/MYFITAPP.git)
+- [Veeraadineshhhhh] (https://github.com/redveera2000/MYFITAPP.git)
 - [Mayankshrey] (https://github.com/Mayankshrey438)
 - [palak agrawal](https://github.com/Palak-agrawal123)
 - [Mech-who](https://github.com/Mech-Who)
