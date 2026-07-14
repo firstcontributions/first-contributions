@@ -1497,6 +1497,7 @@ niceshowmini
 - [Noëlla Vivienne](https://github.com/noellav/)
 - [Aryanosh] (https://github.com/aryanosh)
 - [Nícolas Marinho](https://github.com/nicolasmarinhoo)
+- [jmiller913](https://github.com/jmiller913)
 - [OCM](https://github.com/NF6124034)
 - [OSoufian](https://github.com/OSoufian)
 - [Olamilekan](https://github.com/kilan080)
