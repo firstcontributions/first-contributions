@@ -17,6 +17,7 @@
 - [Priyadharshini D](https://github.com/Priyadharshinidhandapani)
 - [Spandan Jawkhedkar](https://github.com/Spandan77)
 - [Junior SEVERE](https://github.com/JuniorSEVERE-WEB)
+- [Omar Yousef](https://github.com/OmarYousef05)
 - [Rit Mangal](https://github.com/ritmangal)
 - [Rohit Kumar](https://github.com/DemonDisguise)
 - [Sirish Upadhyay](https://github.com/jemanalytics)
