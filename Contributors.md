@@ -7,6 +7,7 @@
 - [Veeraadineshhhhh] (https://github.com/redveera2000/MYFITAPP.git)
 - [Mayankshrey] (https://github.com/Mayankshrey438)
 - [Diegosantosgz] (https://github.com/Diegosantosgz)
+- [Nirmit Chaurasia] (https://github.com/nirmit01)
 - [palak agrawal](https://github.com/Palak-agrawal123)
 - [Vishnu Pratap](https://github.com/vishnupratap3790)
 - [Mech-who](https://github.com/Mech-Who)
@@ -401,6 +402,7 @@ niceshowmini
 - [Harshini BV] (https://github.com/Harshbv)
 - [Sachin Chandra Goolla] (https://github.com/SachinGoolla)
   main
+- [ChickyHuynh] (https://github.com/Chick25)
 - [Shireen] (https://github.com/shireenmne)
 - [ Shriram J ] (https://github.com/Shriram2617)
 - [Amrit Kumar] (https://github.com/AmritKumar777)
@@ -2877,13 +2879,7 @@ bhumika
 - [Santiago Satragni](https://github.com/santisatragni)
 - [Sahil Dhanvij](https://github.com/Sahil4636)
 - - [01100001melia](https://github.com/01100001melia)
-<<<<<<< HEAD
 - [Ajwa Shahid](https://github.com/ajwashahid150-source)
-=======
-- [Shawon Dey](https://github.com/shawon-dey188)
->>>>>>> 0336b03fb650815131c63deef0e6780b7e5342e6
->>>>>>>
->>>>>>> 
 - [rod-liu-id](https://github.com/rod-liu-id)
 - [ViquinhoDev](https://github.com/viquinhodev)
 - [Ayush Aman](https://github.com/Ayushaman1291)
