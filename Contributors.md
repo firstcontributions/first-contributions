@@ -64,6 +64,7 @@
 -[SohaS](https://github.com/soha-sg)
 -[Samaresh Jana](https://github.com/samaresh08)
 -[hyo](milk-the-cat)
+- [Anoop Raj](https://github.com/anoopraj-dev)
  Lvbei
  je_sky
 - Nishant Thakur
