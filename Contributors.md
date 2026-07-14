@@ -1,5 +1,5 @@
 0# Contributors
-
+- [Nico ](https://github.com/nicotrilles)
 - [Rajeev Nandan Damarla](https://github.com/Rajeev91691)
 //Mohamed//
 - [Atharv Rawat](https://github.com/atharvesting)
@@ -7,10 +7,12 @@
 - [Veeraadineshhhhh] (https://github.com/redveera2000/MYFITAPP.git)
 - [Mayankshrey] (https://github.com/Mayankshrey438)
 - [Diegosantosgz] (https://github.com/Diegosantosgz)
+- [Nirmit Chaurasia] (https://github.com/nirmit01)
 - [palak agrawal](https://github.com/Palak-agrawal123)
 - [Vishnu Pratap](https://github.com/vishnupratap3790)
 - [Mech-who](https://github.com/Mech-Who)
 - [Noureddin Sameer](https://github.com/NoureddinSameer)
+- [Guduru Chandhra Siddharrdha](https://github.com/Chandhra2004)
 - [Anjana Rajagopal](https://github.com/anjipoo)
 - [Hudson Glines](https://github.com/drusticc)
 - [Saliya Ranasgalla](https://github.com/SaliyaRanasgalla)
@@ -400,6 +402,7 @@ niceshowmini
 - [Harshini BV] (https://github.com/Harshbv)
 - [Sachin Chandra Goolla] (https://github.com/SachinGoolla)
   main
+- [ChickyHuynh] (https://github.com/Chick25)
 - [Shireen] (https://github.com/shireenmne)
 - [ Shriram J ] (https://github.com/Shriram2617)
 - [Amrit Kumar] (https://github.com/AmritKumar777)
@@ -2301,6 +2304,7 @@ niceshowmini
 - [Nishant Kumar](https://github.com/Nishant-codemm)
 - [Gaurav Patil](https://github.com/Predator-888)
 - [SHAURYA GUPTA](https://github.com/Shauryagupta4)
+- [inafrdr] (https://github.com/inafrdr)
 - [Phanee](https://github.com/phanee27/)
 - [Elijah Emmanuel](https://github.com/Elijah-hash7/)
 - [pavithra Gangadharan] ( https://github.com/pavithra97g )
@@ -2929,4 +2933,7 @@ bhumika
 - [Jiyeong Lim](https://github.com/limji02)
 - [Ayush Katiyar](https://github.com/yush786)
 - [Aditya Yadav](https://github.com/adityayadav161003)
+- [Rafael](https://github.com/rgnd3)
 - [Marco Silva](https://github.com/marcoantoniossilva)
+- [Shreyas Shukla](https://github.com/Shreyasshukla957)
+- [Mufaizul Hassan](https://github.com/MufaizulHassan)
