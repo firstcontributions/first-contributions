@@ -42,6 +42,7 @@
 - [Oscar Francisco] (https://github.com/OFranciscoDev)
 - [Pratham Rathore](https://github.com/Pratham3017D)
 - [Hammad Afzal](https://github.com/Hammadafzal55)
+- [Aayush](https://github.com/aayushcc)
 - [Muhira Mohammed](https://github.com/Muhira557)
 - [Ait oubelli Ghilas] (https://github.com/ghilasaitoubelli-ui)
 - [Vaishnav Aron](https://github.com/VaishnavAron/contributions.git)
