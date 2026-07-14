@@ -2946,4 +2946,4 @@ bhumika
 - [Shreyas Shukla](https://github.com/Shreyasshukla957)
 - [Mufaizul Hassan](https://github.com/MufaizulHassan)
 - [penyutti-crypto](https://github.com/penyutti-crypto)
->>>>>>> upstream/main
+- [devotedhruv] https://github.com/devotedhruv
