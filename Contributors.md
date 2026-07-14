@@ -2896,3 +2896,4 @@ bhumika
 - [Laura Doilea](https://github.com/lauradoilea)
 - [legaliercorp-boop](https://github.com/legaliercorp-boop)
 - [shinichihirao](https://github.com/shinichihirao)
+- [camisetasfratelli-droid](https://github.com/camisetasfratelli-droid)
