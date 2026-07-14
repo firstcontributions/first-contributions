@@ -2948,3 +2948,4 @@ bhumika
 - [penyutti-crypto](https://github.com/penyutti-crypto)
 - [devotedhruv] https://github.com/devotedhruv
 - [Naxisbeast] https://github.com/Naxisbeast
+- [Navya-Jindal](https://github.com/Navyajindal3)
