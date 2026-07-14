@@ -2941,4 +2941,4 @@ bhumika
 - [Shreyas Shukla](https://github.com/Shreyasshukla957)
 - [Mufaizul Hassan](https://github.com/MufaizulHassan)
 - [penyutti-crypto](https://github.com/penyutti-crypto)
-- git commit -m "Add Pranav Mishra to contributors"
+- [Pranav Mishra](https://github.com/pranavmishra498-dev)
