@@ -11,6 +11,7 @@
 - [Vishnu Pratap](https://github.com/vishnupratap3790)
 - [Mech-who](https://github.com/Mech-Who)
 - [Noureddin Sameer](https://github.com/NoureddinSameer)
+- [Guduru Chandhra Siddharrdha](https://github.com/Chandhra2004)
 - [Anjana Rajagopal](https://github.com/anjipoo)
 - [Hudson Glines](https://github.com/drusticc)
 - [Saliya Ranasgalla](https://github.com/SaliyaRanasgalla)
