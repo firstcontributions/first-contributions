@@ -55,6 +55,9 @@
 - [Ait oubelli Ghilas] (https://github.com/ghilasaitoubelli-ui)
 - [Vaishnav Aron](https://github.com/VaishnavAron/contributions.git)
 - [dounoy](https://github.com/dounoy)
+
+# Lucas Santos
+
 - [Aarush Gaikwad](https://github.com/AarushGaikwad)
 - [Yasaswini](https://github.com/lYasaswini06)
 - [Mohammad Hafeez](https://github.com/Hafeez-001)
@@ -2237,6 +2240,7 @@ niceshowmini
 - [Yemintun90](https://github.com/Yemintun90)
 - [Rishabh Kori](https://github.com/rishabh-kori-05)
 - [Ayushi Kaul](https://github.com/ayushikaul02)
+- [Andre Avancini](https://github.com/andre-avancini)
 - Yakshitha Reddy
 - [Kinder522](https://github.com/Kinder522)
 - [Giridharan Sivakumar](https://github.com/S-GIRI)
@@ -2911,14 +2915,12 @@ bhumika
 - [Priyakumari](https://github.com/priyarani8281)
 - [Rafael912785](https://github.com/Rafael912785)
 - [lucrlpk-ai](https://github.com/lucrlpk-ai)
-
 - [codewithsyedabdullah](https://github.com/codewithsyedabdullah)- [Sriram1576](https://github.com/Sriram1576)
 - [Laura Doilea](https://github.com/lauradoilea)
 - [legaliercorp-boop](https://github.com/legaliercorp-boop)
 - [shinichihirao](https://github.com/shinichihirao)
 - [camisetasfratelli-droid](https://github.com/camisetasfratelli-droid)
 - [Trinh Quang Huy](https://github.com/huytq1412)
-
 - [Nabila Sharif](https://github.com/nabila-sharif)
 - [Leonardo Lins](https://github.com/leonardolins)
 - [Deepanshi Mahajan](https://github.com/DeepanshiMahajan)
@@ -2927,3 +2929,4 @@ bhumika
 - [Jiyeong Lim](https://github.com/limji02)
 - [Ayush Katiyar](https://github.com/yush786)
 - [Aditya Yadav](https://github.com/adityayadav161003)
+- [Marco Silva](https://github.com/marcoantoniossilva)
