@@ -77,6 +77,7 @@
 -[Rohan](https://github.com/rohanasif17)
 - [Manglam Dubey](https://github.com/Manglam11)
 -[Nicolas Hernandez](https://github.com/Tacocat405583)
+-[zhushouze](http://github.com/zhushouze)
 -[Kim Seung-hyun](https://github.com/ksh1217)
 - [Maciej Sztando](https://github.com/MaciejAtRelativity)
 - [Oscar Kriebel](https://github.com/OscarKriebel)
