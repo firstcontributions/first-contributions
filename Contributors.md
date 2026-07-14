@@ -1,5 +1,5 @@
 0# Contributors
-
+- [Nico ](https://github.com/nicotrilles)
 - [Rajeev Nandan Damarla](https://github.com/Rajeev91691)
 //Mohamed//
 - [Atharv Rawat](https://github.com/atharvesting)
