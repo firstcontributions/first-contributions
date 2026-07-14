@@ -55,6 +55,9 @@
 - [Ait oubelli Ghilas] (https://github.com/ghilasaitoubelli-ui)
 - [Vaishnav Aron](https://github.com/VaishnavAron/contributions.git)
 - [dounoy](https://github.com/dounoy)
+
+# Lucas Santos
+
 - [Aarush Gaikwad](https://github.com/AarushGaikwad)
 - [Yasaswini](https://github.com/lYasaswini06)
 - [Mohammad Hafeez](https://github.com/Hafeez-001)
@@ -2237,6 +2240,7 @@ niceshowmini
 - [Yemintun90](https://github.com/Yemintun90)
 - [Rishabh Kori](https://github.com/rishabh-kori-05)
 - [Ayushi Kaul](https://github.com/ayushikaul02)
+- [Andre Avancini](https://github.com/andre-avancini)
 - Yakshitha Reddy
 - [Kinder522](https://github.com/Kinder522)
 - [Giridharan Sivakumar](https://github.com/S-GIRI)
