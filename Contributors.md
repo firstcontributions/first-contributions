@@ -106,6 +106,7 @@ rodrick
 - [Samuel MW](https://github.com/samuel-micah) : just right, Got right
 - [Mohammad Nadeem](https://github.com/mdnadeemm) : First open source contribution
 - [Yasar Arafath](https://yasar-raf.github.io/portfolio) : New here
+- [quasnip](https://github.com/quasnip) : i <3 open source
 - [Bhagyoday Jadhav](https://github.com/bhagyoday-j) : My first open source contribution
 - [Shivanshu Pandey](https://github.com/Shivanshupandey5) 👾🤖🎄 : First open source contribution
 - [Pavlo Zhurbytskyi](https://github.com/pavelkortp) 🚀🚀🚀 : First contribution, I want to learn
