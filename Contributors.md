@@ -27,6 +27,7 @@
 - [bellito] (https://github.com/bellito-on-git)
 - [Pratham Rathore](https://github.com/Pratham3017D)
 - [Hammad Afzal](https://github.com/Hammadafzal55)
+- [Aayush](https://github.com/aayushcc)
 - [Muhira Mohammed](https://github.com/Muhira557)
 - [Ait oubelli Ghilas] (https://github.com/ghilasaitoubelli-ui)
 - [dounoy](https://github.com/dounoy)
