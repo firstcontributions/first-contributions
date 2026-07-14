@@ -96,6 +96,7 @@
 -[Margie] (https://github.com/margiecaina)
 [Abdullah](https://github.com/lets-abdullah/)
 [Abhishek](https://github.com/ABHIKALVIUM)
+- Prasad Avidi
 - [Song Xiang](https://github.com/yewwwwww009)
 Rudr Ahuja
 Charon
