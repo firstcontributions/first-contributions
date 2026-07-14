@@ -2917,3 +2917,4 @@ bhumika
 - [Deepanshi Mahajan](https://github.com/DeepanshiMahajan)
 - [Manisha](https://github.com/tolukattemanisha)
 - [Saumya Kushwaha](https://github.com/saumya-2005)
+- [Jiyeong Lim](https://github.com/limji02)
