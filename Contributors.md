@@ -2888,6 +2888,9 @@ bhumika
 >>>>>>>
 >>>>>>> 
 - [rod-liu-id](https://github.com/rod-liu-id)
+<<<<<<< HEAD
+- [Paridhi Jaiswal](https://github.com/Paridhi75)
+=======
 - [ViquinhoDev](https://github.com/viquinhodev)
 - [Ayush Aman](https://github.com/Ayushaman1291)
 - [Roblox](https://github.com/leozera-onfire)
@@ -2942,3 +2945,4 @@ bhumika
 - [Shreyas Shukla](https://github.com/Shreyasshukla957)
 - [Mufaizul Hassan](https://github.com/MufaizulHassan)
 - [penyutti-crypto](https://github.com/penyutti-crypto)
+>>>>>>> upstream/main
