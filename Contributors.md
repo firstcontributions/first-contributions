@@ -96,6 +96,7 @@
 Rudr Ahuja
 Charon
 - [Riya Patel](https://github.com/Riya5407)
+-[HariHaruto](https://github.com/HARIHARUTO)
 -[Tanishq Verma](https://github.com/tanishq-kuec2003)
 -[Shailesh](https://github.com/shaileshkumavat0)
 -[Prasanth](https://github.com/github-prashanth)
