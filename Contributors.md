@@ -62,7 +62,6 @@
 -[hyo](milk-the-cat)
  Lvbei
  je_sky
-BYE FUCK YOU GUYS ADD THIS IN repoedd opertion
 - Nishant Thakur
 - [Ritesh Raj]
 - [Khan-Fazal-sys](https://github.com/Khan-Fazal-sys)
@@ -2155,6 +2154,7 @@ niceshowmini
 - [Diego Nicolas Gimenez Irusta](https://github.com/diegogimenez04)
 - [Gustavo Henrique](https://github.com/Chucknoorms)
 - [Valdinei Goncalves](https://github.com/Valdinei428)
+- [Ria Bawiskar](https://github.com/RiaBawiskar)
 - [Luan Faria](https://github.com/HellKapiroto)
 - [Shivank Sharma](https://github.com/shivsdev2)
 - [patferman](https://github.com/patferman)
