@@ -2291,6 +2291,7 @@ niceshowmini
 - [yGuox](https://github.com/yGuox)
 - [Luisa](https://github.com/LuoisaWu)
 - [Kuba](https://github.com/ImmaShinee)
+- [Yang](https://github.com/YANGANQI-Hitachi)  
 - [Mariana Valente](https://github.com/eusoumarianavalente-stack)
 - [lzjshijlba](https://github.com/lzjshijlba)
 - [jlzrc](https://github.com/jlzrc)
