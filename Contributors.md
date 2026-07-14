@@ -181,6 +181,7 @@ kalyani
 niceshowmini
 - [doorwell](https://github.com/doorwell)
 - [Milosz Kordzinski](https://github.com/milekv)
+- [Cong Vu Zuro Bui](https://github.com/zurozira)
 - [MohammadAli](https://github.com/Horneteater)
 - [ADHIRAJ994](https://github.com/ADHIRAJ994) -[alealonso017](https://github.com/alealonso17)
 - [Ashmita Debnath](https://github.com/ashcode06)
