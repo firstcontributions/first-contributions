@@ -7,6 +7,7 @@
 - [palak agrawal](https://github.com/Palak-agrawal123)
 - [Mech-who](https://github.com/Mech-Who)
 - [Noureddin Sameer](https://github.com/NoureddinSameer)
+- [Anjana Rajagopal](https://github.com/anjipoo)
 - [Hudson Glines](https://github.com/drusticc)
 - [Saliya Ranasgalla](https://github.com/SaliyaRanasgalla)
 - [Amaan saifi](https://github.com/amaansaifi-ai)
