@@ -2240,6 +2240,7 @@ niceshowmini
 - [Yemintun90](https://github.com/Yemintun90)
 - [Rishabh Kori](https://github.com/rishabh-kori-05)
 - [Ayushi Kaul](https://github.com/ayushikaul02)
+- [Andre Avancini](https://github.com/andre-avancini)
 - Yakshitha Reddy
 - [Kinder522](https://github.com/Kinder522)
 - [Giridharan Sivakumar](https://github.com/S-GIRI)
