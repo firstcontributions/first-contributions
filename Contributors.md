@@ -2906,3 +2906,5 @@ bhumika
 - [Trinh Quang Huy](https://github.com/huytq1412)
 
 - [Nabila Sharif](https://github.com/nabila-sharif)
+
+- [Deepanshi Mahajan](https://github.com/DeepanshiMahajan)
