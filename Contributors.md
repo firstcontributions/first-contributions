@@ -18,6 +18,7 @@
 - [Anjana Rajagopal](https://github.com/anjipoo)
 - [Ajit Kumar](https://github.com/SafarwithAK)
 - [Nikhil Sarathy] (https://github.com/ze-NICKEL)
+- [Surya Madireddy](https://github.com/SuryaMadireddy1)
 - [Hudson Glines](https://github.com/drusticc)
 - [Saliya Ranasgalla](https://github.com/SaliyaRanasgalla)
 - [Amaan saifi](https://github.com/amaansaifi-ai)
