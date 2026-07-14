@@ -6,6 +6,7 @@
 - [Raj Jadhav](https://github.com/Raj-Jadhav/)
 - [Veeraadineshhhhh] (https://github.com/redveera2000/MYFITAPP.git)
 - [Mayankshrey] (https://github.com/Mayankshrey438)
+- [Diegosantosgz] (https://github.com/Diegosantosgz)
 - [palak agrawal](https://github.com/Palak-agrawal123)
 - [Vishnu Pratap](https://github.com/vishnupratap3790)
 - [Mech-who](https://github.com/Mech-Who)
