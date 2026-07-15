@@ -17,7 +17,11 @@
 - [Noureddin Sameer](https://github.com/NoureddinSameer)
 - [Guduru Chandhra Siddharrdha](https://github.com/Chandhra2004)
 - [Anjana Rajagopal](https://github.com/anjipoo)
+<<<<<<< HEAD
+- [Ajit Kumar](https://github.com/DevwithAJ)
+=======
 - [Ajit Kumar](https://github.com/SafarwithAK)
+>>>>>>> upstream/main
 - [Nikhil Sarathy] (https://github.com/ze-NICKEL)
 - [Surya Madireddy](https://github.com/SuryaMadireddy1)
 - [Hudson Glines](https://github.com/drusticc)
