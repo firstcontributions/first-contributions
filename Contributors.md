@@ -138,6 +138,7 @@ Charon
 -[Tanishq Verma](https://github.com/tanishq-kuec2003)
 -[Shailesh](https://github.com/shaileshkumavat0)
 -[Prasanth](https://github.com/github-prashanth)
+-[Asvidal]
 -[Abhijeeth](https://github.com/abhijeeth12)
 - [Chitranshu Dhakad](https://github.com/GoluScriptMage)
 - [Aaditya](https://github.com/Aadi_RE350)
