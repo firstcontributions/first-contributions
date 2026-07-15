@@ -2,6 +2,7 @@
 
 - [Nico ](https://github.com/nicotrilles)
 - [Abhinav Singh Chilwal](https://github.com/abhinavchilwal-star)
+- [yellowstick]
 - [Rajeev Nandan Damarla](https://github.com/Rajeev91691)
 //Mohamed//
 - [Atharv Rawat](https://github.com/atharvesting)
