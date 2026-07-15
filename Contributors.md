@@ -59,6 +59,7 @@
 - [Willy Wonka] (https://github.com/wonka05)
 - Soham Sen(BloodRaven5551)
 - [Pete Barb](https://github.com/DPB22)
+- [Rachit Kushwaha](https://github.com/rachit-890)
 - [Ujjwal](https://github.com/ujjwal-dev23) // Hello Github
 - [YuHu Liu](https://github.com/yhliu-testhub)
 - [Ameya Shukla](https://github.com/ameya-shukla)
