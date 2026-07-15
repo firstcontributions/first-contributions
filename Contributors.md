@@ -1,6 +1,8 @@
 0# Contributors
+
 - [Nico ](https://github.com/nicotrilles)
 - [Abhinav Singh Chilwal](https://github.com/abhinavchilwal-star)
+- [yellowstick]
 - [Rajeev Nandan Damarla](https://github.com/Rajeev91691)
 //Mohamed//
 - [Atharv Rawat](https://github.com/atharvesting)
@@ -15,8 +17,13 @@
 - [Noureddin Sameer](https://github.com/NoureddinSameer)
 - [Guduru Chandhra Siddharrdha](https://github.com/Chandhra2004)
 - [Anjana Rajagopal](https://github.com/anjipoo)
+<<<<<<< HEAD
 - [Ajit Kumar](https://github.com/DevwithAJ)
+=======
+- [Ajit Kumar](https://github.com/SafarwithAK)
+>>>>>>> upstream/main
 - [Nikhil Sarathy] (https://github.com/ze-NICKEL)
+- [Surya Madireddy](https://github.com/SuryaMadireddy1)
 - [Hudson Glines](https://github.com/drusticc)
 - [Saliya Ranasgalla](https://github.com/SaliyaRanasgalla)
 - [Amaan saifi](https://github.com/amaansaifi-ai)
@@ -362,6 +369,7 @@ niceshowmini
 - [Ayush Dharaiya] (https://github.com/Ayush2029)
 - [Minh Pham] (https://github.com/tuanminh130707-create)
 - [Shruti Dixit](https://github.com/sshrrutiiii)
+  [gaurav Agrawal]
 - [xDatabox] (https://github.com/xdatabox)
 - [Aditya Harshavardhan](https://github.com/aditya-harsh11)
 - [Pratyusha] (https://github.com/PratyushaM09)
@@ -422,6 +430,7 @@ niceshowmini
 - [Shaurya Sharma](https://github.com/shaurya-sharma123)
 - [Dev Varshney](https://github.com/dev200413y)
 - [Mrunalraul](https://github.com/mrunalraul)
+-[vishnu](https://github.com/vishnu-R2005)
 - [PG](https://github.com/philipgadsden3)
 - [Anish] (https://github.com/anishbasnetAB)
 - [Yhb1213](https://github.com/Yhb1213)\
@@ -1495,6 +1504,7 @@ niceshowmini
 - [Noëlla Vivienne](https://github.com/noellav/)
 - [Aryanosh] (https://github.com/aryanosh)
 - [Nícolas Marinho](https://github.com/nicolasmarinhoo)
+- [jmiller913](https://github.com/jmiller913)
 - [OCM](https://github.com/NF6124034)
 - [OSoufian](https://github.com/OSoufian)
 - [Olamilekan](https://github.com/kilan080)
@@ -2949,3 +2959,5 @@ bhumika
 - [penyutti-crypto](https://github.com/penyutti-crypto)
 - [devotedhruv] https://github.com/devotedhruv
 - [Naxisbeast] https://github.com/Naxisbeast
+- [Navya-Jindal](https://github.com/Navyajindal3)
+- [catag1](https://github.com/catag1)
