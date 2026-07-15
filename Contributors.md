@@ -132,12 +132,12 @@
 Rudr Ahuja
 Charon
 - [Riya Patel](https://github.com/Riya5407)
--[HariHaruto](https://github.com/HARIHARUTO)
--[Tanishq Verma](https://github.com/tanishq-kuec2003)
--[Shailesh](https://github.com/shaileshkumavat0)
--[Prasanth](https://github.com/github-prashanth)
-- [Asvidal]
--[Abhijeeth](https://github.com/abhijeeth12)
+- [HariHaruto](https://github.com/HARIHARUTO)
+- [Tanishq Verma](https://github.com/tanishq-kuec2003)
+- [Shailesh](https://github.com/shaileshkumavat0)
+- [Prasanth](https://github.com/github-prashanth)
+- [Asvidal](https://github.com/Asvidal)
+- [Abhijeeth](https://github.com/abhijeeth12)
 - [Chitranshu Dhakad](https://github.com/GoluScriptMage)
 - [Aaditya](https://github.com/Aadi_RE350)
 - [jjks7021](https://github.com/jjks7021)
