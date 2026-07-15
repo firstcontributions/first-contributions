@@ -71,6 +71,7 @@
 - [Ait oubelli Ghilas] (https://github.com/ghilasaitoubelli-ui)
 - [Vaishnav Aron](https://github.com/VaishnavAron/contributions.git)
 - [dounoy](https://github.com/dounoy)
+- [Rohit Sharma](https://github.com/rohit357)
 
 # Lucas Santos
 
