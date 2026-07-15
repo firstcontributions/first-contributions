@@ -157,7 +157,6 @@ niceshowmini
 - hak
 - [Timothy Smith](https://github.com/timothysmithdev)
 - Sindy
-- Hrugveda Mane
 - [Tanvi Dominic] (https://github.com/tanvidominic)
 - Kabir Gupta
 - Rahul Chinthamalla
@@ -168,6 +167,7 @@ niceshowmini
 - [Jeffin Moncy](https://github.com/Jeffin-Moncy)
 - [Manya Parikh](https://github.com/Manya2302)
 - [Lavkesh Sharma]
+- Hrugveda Mane
 - [TionEleven](https://github.com/shen825)
 - [Abhijeet Raj](https://github.com/Abhijeet-99-dev)
 - [Shivendra Bhardwaj](https://github.com/ZenzoSH)
