@@ -4,6 +4,7 @@
 - [Dhanuri](https://github.com/Dhanuri-codes)
 - [Nico ](https://github.com/nicotrilles)
 - [Abhinav Singh Chilwal](https://github.com/abhinavchilwal-star)
+- [Phant0m1zed](https://github.com/Phant0m1zed/)
 - [yellowstick]
 - [suvinn](https://github.com/suvinn)
 - [Rajeev Nandan Damarla](https://github.com/Rajeev91691)
