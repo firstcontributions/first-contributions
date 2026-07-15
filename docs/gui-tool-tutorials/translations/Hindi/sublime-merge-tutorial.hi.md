@@ -111,7 +111,7 @@ Branches पर राइट-क्लिक करें -> नई ब्रा
 
 अगर आपको मदद चाहिए या कोई सवाल है तो आप हमारी स्लैक टीम में जॉइन कर सकते हैं। [स्लैक टीम में जॉइन करें](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)।
 
-### [अतिरिक्त सामग्री](../additional-material/git_workflow_senarios/additional-material.md)
+### [अतिरिक्त सामग्री](../../../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## अन्य टूल्स के लिए ट्यूटोरियल
 [मुख्य पेज पर वापस जाएं](https://github.com/firstcontributions/first-contributions#tutorials-using-other-tools)
