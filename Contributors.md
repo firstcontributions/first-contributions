@@ -7,12 +7,14 @@
 - [Abhinav Singh Chilwal](https://github.com/abhinavchilwal-star)
 - [Phant0m1zed](https://github.com/Phant0m1zed/)
 - [yellowstick]
+- [SusheelKrishna-Doraemon](https://github.com/JabadeSusheelKrishna)
 - [suvinn](https://github.com/suvinn)
 - [Rajeev Nandan Damarla](https://github.com/Rajeev91691)
 - [Jaya Siva Ganesh K](https://github.com/Sivaganesh122)
 //Mohamed//
 - [Atharv Rawat](https://github.com/atharvesting)
 - [Jasminder Singh](https://github.com/Jasminder-Singh)
+- [Mahima](https://github.com/mahima44-svg)
 - [Raj Jadhav](https://github.com/Raj-Jadhav/)
 - [Veeraadineshhhhh] (https://github.com/redveera2000/MYFITAPP.git)
 - [Mayankshrey] (https://github.com/Mayankshrey438)
@@ -142,6 +144,7 @@ Charon
 - [Chitranshu Dhakad](https://github.com/GoluScriptMage)
 - [Aaditya](https://github.com/Aadi_RE350)
 - [jjks7021](https://github.com/jjks7021)
+-[astavkhra](https://github.com/astavkhra)
 - [buptjrq](https://github.com/buptjrq)
   Sindy
 - Clarisse Campos
@@ -291,6 +294,7 @@ niceshowmini
 - [Manya Parikh](https://github.com/Manya2302)
 - [Dhanuja Isuru](https://github.com/Dhanujaisuru)
 - [Lavkesh Sharma]
+- Hrugveda Mane
 - [TionEleven](https://github.com/shen825)
 - [Abhijeet Raj](https://github.com/Abhijeet-99-dev)
 - [Shivendra Bhardwaj](https://github.com/ZenzoSH)
@@ -426,6 +430,7 @@ niceshowmini
 - [Sachin Chandra Goolla] (https://github.com/SachinGoolla)
   main
 - [ChickyHuynh] (https://github.com/Chick25)
+- [DaaniMM](https://github.com/DaaniMM)
 - [Shireen] (https://github.com/shireenmne)
 - [ Shriram J ] (https://github.com/Shriram2617)
 - [Amrit Kumar] (https://github.com/AmritKumar777)
@@ -2905,17 +2910,9 @@ bhumika
 - [Santiago Satragni](https://github.com/santisatragni)
 - [Sahil Dhanvij](https://github.com/Sahil4636)
 - - [01100001melia](https://github.com/01100001melia)
-<<<<<<< HEAD
 - [Ajwa Shahid](https://github.com/ajwashahid150-source)
-=======
-- [Shawon Dey](https://github.com/shawon-dey188)
->>>>>>> 0336b03fb650815131c63deef0e6780b7e5342e6
->>>>>>>
->>>>>>> 
 - [rod-liu-id](https://github.com/rod-liu-id)
-<<<<<<< HEAD
 - [Paridhi Jaiswal](https://github.com/Paridhi75)
-=======
 - [ViquinhoDev](https://github.com/viquinhodev)
 - [Ayush Aman](https://github.com/Ayushaman1291)
 - [Roblox](https://github.com/leozera-onfire)
@@ -2981,3 +2978,6 @@ bhumika
 - Alexander N
 - [Habtamu](https://github.com/Dark-programming546)
 - [Prashik Wankhade](https://github.com/PrashikWankhadeSCOE)
+- [Rodrigo Freitas](https://github.com/eusofreitas)
+- [Akylla Eich](https://github.com/Akylla123)
+- [JRT](https://github.com/jrt2026git)
