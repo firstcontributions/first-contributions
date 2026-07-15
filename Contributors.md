@@ -2,13 +2,16 @@
 # Contributors
 
 - [Shri Manasa](https://github.com/shrimanasa)
-- [Piumal Jayaweera](https://github.com/piumal-glitch)
-- [Tahzib Pathan](https://github.com/Tahzib-12)
-- [Chinmay Maheshwari](https://github.com/Chinmay0608)
-- [Calvin Moses](https://github.com/codeecal)
+-[Piumal Jayaweera](https://github.com/piumal-glitch)
+<<<<<<< making-beginner-contribution
+-[Tahzib Pathan](https://github.com/Tahzib-12)
+=======
+-[Calvin Moses]
+(https://github.com/codeecal)
+>>>>>>> main
 - [Asvidal](https://github.com/Asvidal)
 - [Gen]
-- [Wendy](https://github.com/zhaozixuan613)
+-[Wendy](https://github.com/zhaozixuan613)
 - [Dhanuri](https://github.com/Dhanuri-codes)
 - [Nico ](https://github.com/nicotrilles)
 - [Abhinav Singh Chilwal](https://github.com/abhinavchilwal-star)
