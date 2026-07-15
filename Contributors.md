@@ -2383,6 +2383,7 @@ niceshowmini
 - [Aditya77-K](https://github.com/Aditya77-K)
 - [Teja V](https://github.com/teja200514)
 - Vidya
+- [Aditya Singh](https://github.com/dunKey3)
 - [Alsa](https://github.com/alsaahmad)
 - [Shoki Miyashita](https://github.com/toitoitoitoitoi)
 - [Sravan] (https://github.qcom/Sravan-3)
