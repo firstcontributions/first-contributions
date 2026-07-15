@@ -1,5 +1,6 @@
 0# Contributors
 
+-[Wendy](https://github.com/zhaozixuan613)
 - [Dhanuri](https://github.com/Dhanuri-codes)
 - [Nico ](https://github.com/nicotrilles)
 - [Abhinav Singh Chilwal](https://github.com/abhinavchilwal-star)
