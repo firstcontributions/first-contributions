@@ -9,6 +9,7 @@
 - [Rajeev Nandan Damarla](https://github.com/Rajeev91691)
 //Mohamed//
 - [Atharv Rawat](https://github.com/atharvesting)
+- [Shourya Pachauri](https://github.com/ylosifer)
 - [Raj Jadhav](https://github.com/Raj-Jadhav/)
 - [Veeraadineshhhhh] (https://github.com/redveera2000/MYFITAPP.git)
 - [Mayankshrey] (https://github.com/Mayankshrey438)
