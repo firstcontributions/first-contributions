@@ -2,7 +2,12 @@
 0# Contributors
 
 -[Piumal Jayaweera](https://github.com/piumal-glitch)
+<<<<<<< making-beginner-contribution
 -[Tahzib Pathan](https://github.com/Tahzib-12)
+=======
+-[Calvin Moses]
+(https://github.com/codeecal)
+>>>>>>> main
 - [Asvidal](https://github.com/Asvidal)
 - [Gen]
 -[Wendy](https://github.com/zhaozixuan613)
@@ -58,6 +63,7 @@
 - [Willy Wonka] (https://github.com/wonka05)
 - Soham Sen(BloodRaven5551)
 - [Pete Barb](https://github.com/DPB22)
+- [Rachit Kushwaha](https://github.com/rachit-890)
 - [Ujjwal](https://github.com/ujjwal-dev23) // Hello Github
 - [YuHu Liu](https://github.com/yhliu-testhub)
 - [Ameya Shukla](https://github.com/ameya-shukla)
@@ -3000,3 +3006,4 @@ bhumika
 - [Prashant Powar](https://github.com/Prashantpowar45)
 - [Anisha Ranjan](https://github.com/anishaa-07)
 - [Saurav Thakur](https://github.com/sauravthakurq)
+- [Manguinho](https://github.com/manguinho-cmyk)
