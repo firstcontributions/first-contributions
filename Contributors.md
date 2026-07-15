@@ -1,5 +1,6 @@
 0# Contributors
 
+- [Asvidal](https://github.com/Asvidal)
 -[Wendy](https://github.com/zhaozixuan613)
 - [Dhanuri](https://github.com/Dhanuri-codes)
 - [Nico ](https://github.com/nicotrilles)
@@ -136,7 +137,7 @@ Charon
 - [Tanishq Verma](https://github.com/tanishq-kuec2003)
 - [Shailesh](https://github.com/shaileshkumavat0)
 - [Prasanth](https://github.com/github-prashanth)
-- [Asvidal](https://github.com/Asvidal)
+
 - [Abhijeeth](https://github.com/abhijeeth12)
 - [Chitranshu Dhakad](https://github.com/GoluScriptMage)
 - [Aaditya](https://github.com/Aadi_RE350)
