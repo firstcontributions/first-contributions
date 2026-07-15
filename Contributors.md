@@ -1,5 +1,6 @@
 0# Contributors
 
+- [Dhanuri](https://github.com/Dhanuri-codes)
 - [Nico ](https://github.com/nicotrilles)
 - [Abhinav Singh Chilwal](https://github.com/abhinavchilwal-star)
 - [yellowstick]
