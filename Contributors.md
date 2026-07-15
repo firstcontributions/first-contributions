@@ -7,6 +7,7 @@
 - [Abhinav Singh Chilwal](https://github.com/abhinavchilwal-star)
 - [Phant0m1zed](https://github.com/Phant0m1zed/)
 - [yellowstick]
+- [SusheelKrishna-Doraemon](https://github.com/JabadeSusheelKrishna)
 - [suvinn](https://github.com/suvinn)
 - [Rajeev Nandan Damarla](https://github.com/Rajeev91691)
 - [Jaya Siva Ganesh K](https://github.com/Sivaganesh122)
