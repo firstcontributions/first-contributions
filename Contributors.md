@@ -2991,3 +2991,4 @@ bhumika
 - [Rodrigo Freitas](https://github.com/eusofreitas)
 - [Akylla Eich](https://github.com/Akylla123)
 - [JRT](https://github.com/jrt2026git)
+- [Karan Singh](https://github.com/KaranSingh-007)
