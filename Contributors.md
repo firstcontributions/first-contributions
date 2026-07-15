@@ -7,6 +7,7 @@
 - [Abhinav Singh Chilwal](https://github.com/abhinavchilwal-star)
 - [Phant0m1zed](https://github.com/Phant0m1zed/)
 - [yellowstick]
+- [SusheelKrishna-Doraemon](https://github.com/JabadeSusheelKrishna)
 - [suvinn](https://github.com/suvinn)
 - [Rajeev Nandan Damarla](https://github.com/Rajeev91691)
 - [Jaya Siva Ganesh K](https://github.com/Sivaganesh122)
@@ -59,6 +60,7 @@
 - [Suman Gouda](https://github.com/SumanGouda)
 - [Aditya Vikram Singh](https://github.com/Adizz20)
 - [Rajkishor kumar](https://github.com/Raj24-dev)
+Syed Omer
 - [Sounak Sarkar](https://github.com/NetRunnerXD)
 - [Atharv Palekar] (https://github.com/Atharv3105)
 - [Julia Rodriguez] (https://github.com/juliaRoSo)
@@ -138,6 +140,7 @@ Charon
 -[Tanishq Verma](https://github.com/tanishq-kuec2003)
 -[Shailesh](https://github.com/shaileshkumavat0)
 -[Prasanth](https://github.com/github-prashanth)
+-[Asvidal]
 -[Abhijeeth](https://github.com/abhijeeth12)
 - [Chitranshu Dhakad](https://github.com/GoluScriptMage)
 - [Aaditya](https://github.com/Aadi_RE350)
@@ -292,6 +295,7 @@ niceshowmini
 - [Manya Parikh](https://github.com/Manya2302)
 - [Dhanuja Isuru](https://github.com/Dhanujaisuru)
 - [Lavkesh Sharma]
+- Hrugveda Mane
 - [TionEleven](https://github.com/shen825)
 - [Abhijeet Raj](https://github.com/Abhijeet-99-dev)
 - [Shivendra Bhardwaj](https://github.com/ZenzoSH)
@@ -2380,6 +2384,7 @@ niceshowmini
 - [Aditya77-K](https://github.com/Aditya77-K)
 - [Teja V](https://github.com/teja200514)
 - Vidya
+- [Aditya Singh](https://github.com/dunKey3)
 - [Alsa](https://github.com/alsaahmad)
 - [Shoki Miyashita](https://github.com/toitoitoitoitoi)
 - [Sravan] (https://github.qcom/Sravan-3)
@@ -2985,4 +2990,5 @@ bhumika
 - [Prashik Wankhade](https://github.com/PrashikWankhadeSCOE)
 - [Rodrigo Freitas](https://github.com/eusofreitas)
 - [Akylla Eich](https://github.com/Akylla123)
+- [JRT](https://github.com/jrt2026git)
 - [Karan Singh](https://github.com/KaranSingh-007)
