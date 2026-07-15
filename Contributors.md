@@ -2,9 +2,8 @@
 # Contributors
 
 - [Shri Manasa](https://github.com/shrimanasa)
--[Piumal Jayaweera](https://github.com/piumal-glitch)
-<<<<<<< making-beginner-contribution
--[Tahzib Pathan](https://github.com/Tahzib-12)
+- [Piumal Jayaweera](https://github.com/piumal-glitch)
+- [Tahzib Pathan](https://github.com/Tahzib-12)
 -[Calvin Moses]
 (https://github.com/codeecal)
 - [Asvidal](https://github.com/Asvidal)
