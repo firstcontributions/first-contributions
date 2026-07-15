@@ -2958,7 +2958,7 @@ bhumika
 - [Saumya Kushwaha](https://github.com/saumya-2005)
 - [Jiyeong Lim](https://github.com/limji02)
 - [Ayush Katiyar](https://github.com/yush786)
-- [Aditya Yadav](https://github.com/adityayadav161003)
+- [Aitya Yadav](https://github.com/adityayadav161003)
 - [Rafael](https://github.com/rgnd3)
 - [Marco Silva](https://github.com/marcoantoniossilva)
 - [Shreyas Shukla](https://github.com/Shreyasshukla957)
@@ -2973,3 +2973,4 @@ bhumika
 - [JatinAwasthi](https://github.com/JatinAwasthi)
 - [Sanjeev M S](https://github.com/SanjeevMS27)
 - Alexander N
+- [Habtamu](https://github.com/Dark-programming546)
