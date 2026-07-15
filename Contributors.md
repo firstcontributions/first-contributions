@@ -811,6 +811,7 @@ niceshowmini
 - [Abdelrahman_Mohye](https://github.com/aboda-0100011)
 - [Prakash Kumar Jha](https://github.com/prakashiitp)
 - [Abdul Azeez](https://github.com/Syedabdulazeez-021)
+- [Kevin Cruz](https://github.com/krcdev01)
 - [Shivangi Singla](https://github.com/Shivangisingla2710)
 - [Nabil Abubakar](https://github.com/Nabil201-ctrl)
 - [Harsh Bora](https://github.com/harshbora94)
