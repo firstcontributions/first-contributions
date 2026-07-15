@@ -13,6 +13,7 @@
 //Mohamed//
 - [Atharv Rawat](https://github.com/atharvesting)
 - [Jasminder Singh](https://github.com/Jasminder-Singh)
+- [Mahima](https://github.com/mahima44-svg)
 - [Raj Jadhav](https://github.com/Raj-Jadhav/)
 - [Veeraadineshhhhh] (https://github.com/redveera2000/MYFITAPP.git)
 - [Mayankshrey] (https://github.com/Mayankshrey438)
