@@ -2979,3 +2979,4 @@ bhumika
 - Alexander N
 - [Habtamu](https://github.com/Dark-programming546)
 - [Prashik Wankhade](https://github.com/PrashikWankhadeSCOE)
+- [Rodrigo Freitas](https://github.com/eusofreitas)
