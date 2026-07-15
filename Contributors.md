@@ -2,8 +2,12 @@
 0# Contributors
 
 -[Piumal Jayaweera](https://github.com/piumal-glitch)
+<<<<<<< making-beginner-contribution
+-[Tahzib Pathan](https://github.com/Tahzib-12)
+=======
 -[Calvin Moses]
 (https://github.com/codeecal)
+>>>>>>> main
 - [Asvidal](https://github.com/Asvidal)
 - [Gen]
 -[Wendy](https://github.com/zhaozixuan613)
