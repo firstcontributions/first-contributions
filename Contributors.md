@@ -7,6 +7,7 @@
 - [yellowstick]
 - [suvinn](https://github.com/suvinn)
 - [Rajeev Nandan Damarla](https://github.com/Rajeev91691)
+- [Jaya Siva Ganesh K](https://github.com/Sivaganesh122)
 //Mohamed//
 - [Atharv Rawat](https://github.com/atharvesting)
 - [Raj Jadhav](https://github.com/Raj-Jadhav/)
