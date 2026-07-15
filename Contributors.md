@@ -1,7 +1,7 @@
 
 # Contributors
 
-- [Shri Manasa](https://github.com/shrimanasa)
+- [Shri Manasa S](https://github.com/shrimanasa)
 -[Piumal Jayaweera](https://github.com/piumal-glitch)
 -[Calvin Moses]
 (https://github.com/codeecal)
