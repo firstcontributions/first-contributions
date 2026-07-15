@@ -2,6 +2,7 @@
 0# Contributors
 
 -[Piumal Jayaweera](https://github.com/piumal-glitch)
+-[Tahzib Pathan](https://github.com/Tahzib-12)
 - [Asvidal](https://github.com/Asvidal)
 - [Gen]
 -[Wendy](https://github.com/zhaozixuan613)
