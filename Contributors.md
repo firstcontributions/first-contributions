@@ -2985,3 +2985,4 @@ bhumika
 - [Prashik Wankhade](https://github.com/PrashikWankhadeSCOE)
 - [Rodrigo Freitas](https://github.com/eusofreitas)
 - [Akylla Eich](https://github.com/Akylla123)
+- [Karan Singh](https://github.com/KaranSingh-007)
