@@ -292,6 +292,7 @@ niceshowmini
 - [Aradhya Bhagwat] (https://github.com/Aradhya-Bhagwat)
 - [Andy0613](https://github.com/Andy0613)
 - [Novato Sensacion](https://github.com/SUS640-Z)
+-[BalrajuKonne2629](https://github.com/Balrajukonne2629/first-contributions.git)
 - [Love Chauhan](https://github.com/chauhanlove271)
 - [Orji Emmanuel](https://github.com/ManuelOrji2)
 - [Yadiel Tesfaye](https://github.com/yadawprodev)
