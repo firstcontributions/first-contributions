@@ -16,7 +16,7 @@
 - [Noureddin Sameer](https://github.com/NoureddinSameer)
 - [Guduru Chandhra Siddharrdha](https://github.com/Chandhra2004)
 - [Anjana Rajagopal](https://github.com/anjipoo)
-- [Ajit Kumar](https://github.com/SafarwithAK)
+- [Ajit Kumar](https://github.com/DevwithAJ)
 - [Nikhil Sarathy] (https://github.com/ze-NICKEL)
 - [Hudson Glines](https://github.com/drusticc)
 - [Saliya Ranasgalla](https://github.com/SaliyaRanasgalla)
