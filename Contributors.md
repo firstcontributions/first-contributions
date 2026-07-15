@@ -3,6 +3,7 @@
 - [Nico ](https://github.com/nicotrilles)
 - [Abhinav Singh Chilwal](https://github.com/abhinavchilwal-star)
 - [yellowstick]
+- [suvinn](https://github.com/suvinn)
 - [Rajeev Nandan Damarla](https://github.com/Rajeev91691)
 //Mohamed//
 - [Atharv Rawat](https://github.com/atharvesting)
@@ -17,11 +18,8 @@
 - [Noureddin Sameer](https://github.com/NoureddinSameer)
 - [Guduru Chandhra Siddharrdha](https://github.com/Chandhra2004)
 - [Anjana Rajagopal](https://github.com/anjipoo)
-<<<<<<< HEAD
 - [Ajit Kumar](https://github.com/DevwithAJ)
-=======
 - [Ajit Kumar](https://github.com/SafarwithAK)
->>>>>>> upstream/main
 - [Nikhil Sarathy] (https://github.com/ze-NICKEL)
 - [Surya Madireddy](https://github.com/SuryaMadireddy1)
 - [Hudson Glines](https://github.com/drusticc)
