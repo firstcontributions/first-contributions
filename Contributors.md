@@ -10,6 +10,7 @@
 - [Jaya Siva Ganesh K](https://github.com/Sivaganesh122)
 //Mohamed//
 - [Atharv Rawat](https://github.com/atharvesting)
+- [Jasminder Singh](https://github.com/Jasminder-Singh)
 - [Raj Jadhav](https://github.com/Raj-Jadhav/)
 - [Veeraadineshhhhh] (https://github.com/redveera2000/MYFITAPP.git)
 - [Mayankshrey] (https://github.com/Mayankshrey438)
