@@ -2969,3 +2969,4 @@ bhumika
 - [Pocachip94](https://github.com/Pocachip94)
 - [JatinAwasthi](https://github.com/JatinAwasthi)
 - [Sanjeev M S](https://github.com/SanjeevMS27)
+- [Sinky](https://github.com/Sinky2306)
