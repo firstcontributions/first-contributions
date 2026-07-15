@@ -2912,17 +2912,17 @@ bhumika
 - [Santiago Satragni](https://github.com/santisatragni)
 - [Sahil Dhanvij](https://github.com/Sahil4636)
 - - [01100001melia](https://github.com/01100001melia)
-<<<<<<< HEAD
+
 - [Ajwa Shahid](https://github.com/ajwashahid150-source)
-=======
+
 - [Shawon Dey](https://github.com/shawon-dey188)
->>>>>>> 0336b03fb650815131c63deef0e6780b7e5342e6
->>>>>>>
->>>>>>> 
+
+
+ 
 - [rod-liu-id](https://github.com/rod-liu-id)
-<<<<<<< HEAD
+
 - [Paridhi Jaiswal](https://github.com/Paridhi75)
-=======
+
 - [ViquinhoDev](https://github.com/viquinhodev)
 - [Ayush Aman](https://github.com/Ayushaman1291)
 - [Roblox](https://github.com/leozera-onfire)
@@ -2991,4 +2991,8 @@ bhumika
 - [Rodrigo Freitas](https://github.com/eusofreitas)
 - [Akylla Eich](https://github.com/Akylla123)
 - [JRT](https://github.com/jrt2026git)
+
 - [Amir](https://github.com/Amiirhosseini)
+
+- [Karan Singh](https://github.com/KaranSingh-007)
+
