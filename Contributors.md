@@ -14,6 +14,7 @@
 - #### [Chinmay Maheshwari](https://github.com/Chinmay0608)
 - [Dhanuri](https://github.com/Dhanuri-codes)
 - [Nico ](https://github.com/nicotrilles)
+- [Rupesh Thapa](https://github.com/rupeshthapa9700)
 - [Naya] (https://github.com/naya-valentine)
 - [Abhinav Singh Chilwal](https://github.com/abhinavchilwal-star)
 - [Phant0m1zed](https://github.com/Phant0m1zed/)
