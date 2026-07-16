@@ -398,6 +398,7 @@ niceshowmini
 - [Sifamol M N](https://github.com/shifamn7-cpu)
 - [Pratham Kaushik](https://github.com/domainkeeper)
 - [Divyansh Chandel](https://github.com/Divyansh0410-svg)
+- [Rahul Singh](https://github.com/RahulSingh-X01)
 - [Pallavi Rawal](https://github.com/PallaviRawal)
 - [gh900-0624] (https://github.com/)
 - [gh900-0626-18] (https://github.com/)
