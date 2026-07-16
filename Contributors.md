@@ -2,6 +2,8 @@
 # Contributors
 
 - [Hao Xiang](https://github.com/job159)
+- [Yazeed Alraddadi](https://github.com/yazeed1425)
+- [Kabir Maske](https://github.com/kabirmaske)
 - [Luis Ruvalcaba](https://github.com/luisruval)
 - [Atif Mazhar](https://github.com/AtifMazhar-01)
 - [A. Vasanth](https://github.com/vasanth-cloud)
@@ -42,6 +44,7 @@
 - [palak agrawal](https://github.com/Palak-agrawal123)
 - [Moritz G](https://github.com/Laugenstulle)
 - [Abhishek Kumar Sharma](https://github.com/Abhishekkrsharma07)
+- [lzzrhx](https://github.com/lzzrhx)
 - [Vishnu Pratap](https://github.com/vishnupratap3790)
 - [Mech-who](https://github.com/Mech-Who)
 - [Noureddin Sameer](https://github.com/NoureddinSameer)
@@ -2956,17 +2959,8 @@ bhumika
 - [Santiago Satragni](https://github.com/santisatragni)
 - [Sahil Dhanvij](https://github.com/Sahil4636)
 - - [01100001melia](https://github.com/01100001melia)
-<<<<<<< HEAD
 - [Ajwa Shahid](https://github.com/ajwashahid150-source)
-=======
 - [Shawon Dey](https://github.com/shawon-dey188)
->>>>>>> 0336b03fb650815131c63deef0e6780b7e5342e6
->>>>>>>
->>>>>>> 
-- [rod-liu-id](https://github.com/rod-liu-id)
-<<<<<<< HEAD
-- [Paridhi Jaiswal](https://github.com/Paridhi75)
-=======
 - [ViquinhoDev](https://github.com/viquinhodev)
 - [Ayush Aman](https://github.com/Ayushaman1291)
 - [Roblox](https://github.com/leozera-onfire)
@@ -2999,6 +2993,7 @@ bhumika
 - [Raizen](https://github.com/rizalzein)
 - [KaiKumano1125](https://github.com/KaiKumano1125)
 - [Neha](https://github.com/Nehaignites)
+- [prabhatvrma1](https://github.com/Prabhatvrma1)
 - [daricozzi1999-code](https://github.com/daricozzi1999-code)
 - [Priyakumari](https://github.com/priyarani8281)
 - [Rafael912785](https://github.com/Rafael912785)
@@ -3052,3 +3047,5 @@ bhumika
 - [Abdullah Muhammad](https://github.com/AbdullahMuhammad-29)
 - [Keviervos](https://github.com/Keviervos)
 - [Saksham Rana](https://github.com/sakshamraana)
+- [Ahmed](https://github.com/ahafez2k)
+- [Samiksha Jungari](https://github.com/Samikshajungari)
