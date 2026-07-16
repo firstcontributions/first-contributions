@@ -189,6 +189,7 @@ harry
 -[Srishti K R](https://github.com/srishti-m-cmd)
 --[Anurag Pal](https://github.com/Anuxragg)
 - [Legus](https://github.com/Legus-Yeung)
+- [Mamilla R Anjali](https://github.com/Mamilla-R-Anjali)
 - [Shounak](https://github.com/Script-Surfer)
 - [Faizan Ur Rehman](https://github.com/fez-Ox)
 - [José Miranda] (https://github.com/josemmiranda04) #first contribution
