@@ -60,6 +60,7 @@
 - [Satya](https://github.com/satyaxo)
 - [OfficialSpaceship](https://github.com/OfficialSpaceship)
 - [Aditya](https://github.com/aditya02x)
+- [Olga](https://github.com/olga232323)
 - [Dikshant Rawat](https://github.com/Dikshant-Rawat?tab=repositories)
 - [Aastha Parab](https://github.com/aasthaparab73-max)
 - [Ansh Singh](https://github.com/SinghAnsh07/)
