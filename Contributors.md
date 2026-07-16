@@ -28,6 +28,7 @@
 - [Atharv Rawat](https://github.com/atharvesting)
 - [Jasminder Singh](https://github.com/Jasminder-Singh)
 - [Mahima](https://github.com/mahima44-svg)
+- [Ronit](https://github.com/ronitchiluka06)
 - [Raj Jadhav](https://github.com/Raj-Jadhav/)
 - [Mehul Sinha](https://github.com/MehulEXE)
 - [Veeraadineshhhhh] (https://github.com/redveera2000/MYFITAPP.git)
