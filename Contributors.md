@@ -10,7 +10,6 @@
 (https://github.com/codeecal)
 - [Asvidal](https://github.com/Asvidal)
 - [Gen]
-- [Sandhiya](https://github.com/Sandhiya-003)
 -[Wendy](https://github.com/zhaozixuan613)
 - #### [Chinmay Maheshwari](https://github.com/Chinmay0608)
 - [Dhanuri](https://github.com/Dhanuri-codes)
@@ -31,6 +30,7 @@
 - [Raj Jadhav](https://github.com/Raj-Jadhav/)
 - [Mehul Sinha](https://github.com/MehulEXE)
 - [Veeraadineshhhhh] (https://github.com/redveera2000/MYFITAPP.git)
+- [Sandhiya](https://github.com/Sandhiya-003)
 - [DreadVoice](https://github.com/DreadVoice)
 - [Mayankshrey] (https://github.com/Mayankshrey438)
 - [Diegosantosgz] (https://github.com/Diegosantosgz)
