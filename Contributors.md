@@ -39,6 +39,7 @@
 - [Diegosantosgz] (https://github.com/Diegosantosgz)
 - [Nirmit Chaurasia] (https://github.com/nirmit01)
 - [palak agrawal](https://github.com/Palak-agrawal123)
+- [Moritz G](https://github.com/Laugenstulle)
 - [Abhishek Kumar Sharma](https://github.com/Abhishekkrsharma07)
 - [Vishnu Pratap](https://github.com/vishnupratap3790)
 - [Mech-who](https://github.com/Mech-Who)
