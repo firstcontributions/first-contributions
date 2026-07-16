@@ -117,7 +117,7 @@ Syed Omer
 -[hyo](milk-the-cat)
 - [Anoop Raj](https://github.com/anoopraj-dev)
  Lvbei
- je_sky
+  je_sky
 - Nishant Thakur
 - [Ritesh Raj]
 - [Khan-Fazal-sys](https://github.com/Khan-Fazal-sys)
@@ -3022,3 +3022,4 @@ bhumika
 - [caique738-hash](https://github.com/caique738-hash)
 - [Pineapplex8](https://github.com/Pineapplex8)
 - [Rinkal Mishra](https://github.com/RinkalMishra03)
+- [Huiyang Qin](https://github.com/Quashy)
