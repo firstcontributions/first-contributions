@@ -3013,3 +3013,4 @@ bhumika
 - [Manguinho](https://github.com/manguinho-cmyk)
 - [Dmytro](https://github.com/dmytroyunyk)
 - [caique738-hash](https://github.com/caique738-hash)
+- [Pineapplex8](https://github.com/Pineapplex8)
