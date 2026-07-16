@@ -78,6 +78,7 @@ Syed Omer
 - [Julia Rodriguez] (https://github.com/juliaRoSo)
 - [Eric Gichuri](https://github.com/ericgichuri)
 - [Simplicity005] (https://github.com/Simplicity005)
+- [JosephWilk] (https://github.com/jwilkjr12)
 - [L.G Prayogi](https://github.com/lgprayogi)
 - [Akshat Agnihotri](https://github.com/Agnihotri2096)
 - [bellito] (https://github.com/bellito-on-git)
