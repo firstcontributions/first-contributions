@@ -1,6 +1,7 @@
 
 # Contributors
 
+- [Yazeed Alraddadi](https://github.com/yazeed1425)
 - [Kabir Maske](https://github.com/kabirmaske)
 - [Luis Ruvalcaba](https://github.com/luisruval)
 - [Atif Mazhar](https://github.com/AtifMazhar-01)
