@@ -153,6 +153,7 @@ Syed Omer
 - [beinuela](https://github.com/beinuela)
 -[M D]
 - [shadow-byte-warrior](https://github.com/shadow-byte-warrior)
+- Sloan S
 -[Kenny] (https://github.com/Kennyzambrano16122000)
 -[Alfred] (https://github.com/alfredd25)
 -[Margie] (https://github.com/margiecaina)
