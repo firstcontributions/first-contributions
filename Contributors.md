@@ -26,6 +26,7 @@
 - [Jasminder Singh](https://github.com/Jasminder-Singh)
 - [Mahima](https://github.com/mahima44-svg)
 - [Raj Jadhav](https://github.com/Raj-Jadhav/)
+- [Mehul Sinha](https://github.com/MehulEXE)
 - [Veeraadineshhhhh] (https://github.com/redveera2000/MYFITAPP.git)
 - [DreadVoice](https://github.com/DreadVoice)
 - [Mayankshrey] (https://github.com/Mayankshrey438)
