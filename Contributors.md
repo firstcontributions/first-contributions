@@ -1,6 +1,7 @@
 
 # Contributors
 
+- [A. Vasanth](https://github.com/vasanth-cloud)
 - [Josh](https://github.com/joshlovesgiraffes)
 - [Shri Manasa](https://github.com/shrimanasa)
 - [Piumal Jayaweera](https://github.com/piumal-glitch)
@@ -44,6 +45,7 @@
 - [Nikhil Sarathy] (https://github.com/ze-NICKEL)
 - [Surya Madireddy](https://github.com/SuryaMadireddy1)
 - [Guruprasad K](https://github.com/Guru1316)
+- [Roshan Nepal](https://github.com/Rosh-an47)
 - [Hudson Glines](https://github.com/drusticc)
 - [Saliya Ranasgalla](https://github.com/SaliyaRanasgalla)
 - [Amaan saifi](https://github.com/amaansaifi-ai)
@@ -58,6 +60,7 @@
 - [Satya](https://github.com/satyaxo)
 - [OfficialSpaceship](https://github.com/OfficialSpaceship)
 - [Aditya](https://github.com/aditya02x)
+- [Olga](https://github.com/olga232323)
 - [Dikshant Rawat](https://github.com/Dikshant-Rawat?tab=repositories)
 - [Aastha Parab](https://github.com/aasthaparab73-max)
 - [Ansh Singh](https://github.com/SinghAnsh07/)
@@ -116,7 +119,7 @@ Syed Omer
 -[hyo](milk-the-cat)
 - [Anoop Raj](https://github.com/anoopraj-dev)
  Lvbei
- je_sky
+  je_sky
 - Nishant Thakur
 - [Ritesh Raj]
 - [Khan-Fazal-sys](https://github.com/Khan-Fazal-sys)
@@ -2706,7 +2709,6 @@ niceshowmini
   -Chandana Jagadish
 - [Janhavi Biradar](https://github.com/janhavibiradar123)
   -Chandana Jagadish
-
 [ninjitsuytber](https://github.com/ninjitsuytber)
 
 - [Vanshika Devi](https://github.com/Vanshika-devi)
@@ -2932,17 +2934,10 @@ bhumika
 - [Santiago Satragni](https://github.com/santisatragni)
 - [Sahil Dhanvij](https://github.com/Sahil4636)
 - - [01100001melia](https://github.com/01100001melia)
-<<<<<<< HEAD
 - [Ajwa Shahid](https://github.com/ajwashahid150-source)
-=======
 - [Shawon Dey](https://github.com/shawon-dey188)
->>>>>>> 0336b03fb650815131c63deef0e6780b7e5342e6
->>>>>>>
->>>>>>> 
 - [rod-liu-id](https://github.com/rod-liu-id)
-<<<<<<< HEAD
 - [Paridhi Jaiswal](https://github.com/Paridhi75)
-=======
 - [ViquinhoDev](https://github.com/viquinhodev)
 - [Ayush Aman](https://github.com/Ayushaman1291)
 - [Roblox](https://github.com/leozera-onfire)
@@ -2979,7 +2974,8 @@ bhumika
 - [Priyakumari](https://github.com/priyarani8281)
 - [Rafael912785](https://github.com/Rafael912785)
 - [lucrlpk-ai](https://github.com/lucrlpk-ai)
-- [codewithsyedabdullah](https://github.com/codewithsyedabdullah)- [Sriram1576](https://github.com/Sriram1576)
+- [codewithsyedabdullah](https://github.com/codewithsyedabdullah)
+- [Sriram1576](https://github.com/Sriram1576)
 - [Laura Doilea](https://github.com/lauradoilea)
 - [legaliercorp-boop](https://github.com/legaliercorp-boop)
 - [shinichihirao](https://github.com/shinichihirao)
@@ -3021,3 +3017,5 @@ bhumika
 - [caique738-hash](https://github.com/caique738-hash)
 - [Pineapplex8](https://github.com/Pineapplex8)
 - [Siddhi Sharma](https://github.com/siddhisharma3671)
+- [Rinkal Mishra](https://github.com/RinkalMishra03)
+- [Huiyang Qin](https://github.com/Quashy)
