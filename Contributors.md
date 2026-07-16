@@ -1,6 +1,6 @@
 
 # Contributors
-
+- [Prince Wang](https://github.com/noobifyLol)
 - [Yazeed Alraddadi](https://github.com/yazeed1425)
 - [Kabir Maske](https://github.com/kabirmaske)
 - [Luis Ruvalcaba](https://github.com/luisruval)
@@ -10,8 +10,7 @@
 - [Shri Manasa](https://github.com/shrimanasa)
 - [Piumal Jayaweera](https://github.com/piumal-glitch)
 - [Tahzib Pathan](https://github.com/Tahzib-12)
--[Calvin Moses]
-(https://github.com/codeecal)
+-[Calvin Moses](https://github.com/codeecal)
 - [Asvidal](https://github.com/Asvidal)
 - [Gen]
 -[Wendy](https://github.com/zhaozixuan613)
