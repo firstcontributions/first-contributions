@@ -14,6 +14,7 @@
 - #### [Chinmay Maheshwari](https://github.com/Chinmay0608)
 - [Dhanuri](https://github.com/Dhanuri-codes)
 - [Nico ](https://github.com/nicotrilles)
+- [Naya] (https://github.com/naya-valentine)
 - [Abhinav Singh Chilwal](https://github.com/abhinavchilwal-star)
 - [Phant0m1zed](https://github.com/Phant0m1zed/)
 - [yellowstick]
@@ -399,6 +400,7 @@ niceshowmini
 - [Sifamol M N](https://github.com/shifamn7-cpu)
 - [Pratham Kaushik](https://github.com/domainkeeper)
 - [Divyansh Chandel](https://github.com/Divyansh0410-svg)
+- [Rahul Singh](https://github.com/RahulSingh-X01)
 - [Pallavi Rawal](https://github.com/PallaviRawal)
 - [gh900-0624] (https://github.com/)
 - [gh900-0626-18] (https://github.com/)
@@ -2936,11 +2938,8 @@ bhumika
 - [Santiago Satragni](https://github.com/santisatragni)
 - [Sahil Dhanvij](https://github.com/Sahil4636)
 - - [01100001melia](https://github.com/01100001melia)
-<<<<<<< HEAD
 - [Ajwa Shahid](https://github.com/ajwashahid150-source)
-=======
 - [Shawon Dey](https://github.com/shawon-dey188)
->>>>>>> 0336b03fb650815131c63deef0e6780b7e5342e6
 >>>>>>>
 >>>>>>> 
 - [rod-liu-id](https://github.com/rod-liu-id)
@@ -3026,4 +3025,5 @@ bhumika
 - [Pineapplex8](https://github.com/Pineapplex8)
 - [Rinkal Mishra](https://github.com/RinkalMishra03)
 - [Huiyang Qin](https://github.com/Quashy)
+- [keenier](https://github.com/keenier)
 - [Shruti Chauhan](https://github.com/077Shruti)
