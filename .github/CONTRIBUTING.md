@@ -7,7 +7,7 @@ As this might be a starting point for people looking to contribute to open sourc
 It's best to think less in terms of what you can do to contribute and more in terms of what maintainers of the project want. Look for issues that maintainers have labeled as https://github.com/firstcontributions/first-contributions/labels/help%20wanted https://github.com/firstcontributions/first-contributions/labels/good%20first%20issue. This means that maintainers of that project have looked at that issue and would like someone to address it.
 
 Go through the contribution guidelines in the repository (generally Contributing.md). Pay attention to the details in there. It's very important.
-
+fariz sameer
 ### On LLMs, coding agents and everything marketed as AI
 
 It's best to use them as a tool for learning and not to do your work for you.
