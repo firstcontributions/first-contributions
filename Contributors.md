@@ -73,6 +73,7 @@
 - [Willy Wonka] (https://github.com/wonka05)
 - Soham Sen(BloodRaven5551)
 - [Pete Barb](https://github.com/DPB22)
+- [Sandip Panigrahi](https://github.com/sandip13579)
 - [Rachit Kushwaha](https://github.com/rachit-890)
 - [Ujjwal](https://github.com/ujjwal-dev23) // Hello Github
 - [YuHu Liu](https://github.com/yhliu-testhub)
@@ -3035,3 +3036,4 @@ bhumika
 - [Huiyang Qin](https://github.com/Quashy)
 - [keenier](https://github.com/keenier)
 - [John Mano](https://github.com/johnmanojj90-glitch)
+- [Abdullah Muhammad](https://github.com/AbdullahMuhammad-29)
