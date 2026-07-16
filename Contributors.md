@@ -440,6 +440,7 @@ niceshowmini
 - [Manisha Govind](https://github.com/Manisha5918)
 - [Jayesh Patil](https://github.com/Jay-wav)
 - [Harshini BV] (https://github.com/Harshbv)
+- [Medha Maradugu] (https://github.com/MedhaMaradugu7)
 - [Sanjana Kumari] (https://github.com/Brownteen18)
   [ankityogi](https://github.com/ankityogi)
 - [Harshini BV] (https://github.com/Harshbv)
