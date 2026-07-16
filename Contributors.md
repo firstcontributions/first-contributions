@@ -1,6 +1,6 @@
 
 # Contributors
-
+- [Prince Wang](https://github.com/noobifyLol)
 - [Yazeed Alraddadi](https://github.com/yazeed1425)
 - [Kabir Maske](https://github.com/kabirmaske)
 - [Luis Ruvalcaba](https://github.com/luisruval)
