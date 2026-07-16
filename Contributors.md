@@ -64,6 +64,7 @@
 - [Olga](https://github.com/olga232323)
 - [Dikshant Rawat](https://github.com/Dikshant-Rawat?tab=repositories)
 - [Aastha Parab](https://github.com/aasthaparab73-max)
+- [Gierszew](https://github.com/Gierszew)
 - [Ansh Singh](https://github.com/SinghAnsh07/)
 - [Ahmet Karapınar] (https://github.com/BullLazy/)
 - [Zhou Longjie](https://github.com/longjie2003/)
