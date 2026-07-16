@@ -66,12 +66,14 @@
 - [Olga](https://github.com/olga232323)
 - [Dikshant Rawat](https://github.com/Dikshant-Rawat?tab=repositories)
 - [Aastha Parab](https://github.com/aasthaparab73-max)
+- [Gierszew](https://github.com/Gierszew)
 - [Ansh Singh](https://github.com/SinghAnsh07/)
 - [Ahmet Karapınar] (https://github.com/BullLazy/)
 - [Zhou Longjie](https://github.com/longjie2003/)
 - [Willy Wonka] (https://github.com/wonka05)
 - Soham Sen(BloodRaven5551)
 - [Pete Barb](https://github.com/DPB22)
+- [Sandip Panigrahi](https://github.com/sandip13579)
 - [Rachit Kushwaha](https://github.com/rachit-890)
 - [Ujjwal](https://github.com/ujjwal-dev23) // Hello Github
 - [YuHu Liu](https://github.com/yhliu-testhub)
@@ -2945,17 +2947,10 @@ bhumika
 - [Santiago Satragni](https://github.com/santisatragni)
 - [Sahil Dhanvij](https://github.com/Sahil4636)
 - - [01100001melia](https://github.com/01100001melia)
-<<<<<<< HEAD
 - [Ajwa Shahid](https://github.com/ajwashahid150-source)
-=======
 - [Shawon Dey](https://github.com/shawon-dey188)
->>>>>>> 0336b03fb650815131c63deef0e6780b7e5342e6
->>>>>>>
->>>>>>> 
 - [rod-liu-id](https://github.com/rod-liu-id)
-<<<<<<< HEAD
 - [Paridhi Jaiswal](https://github.com/Paridhi75)
-=======
 - [ViquinhoDev](https://github.com/viquinhodev)
 - [Ayush Aman](https://github.com/Ayushaman1291)
 - [Roblox](https://github.com/leozera-onfire)
@@ -3040,3 +3035,4 @@ bhumika
 - [John Mano](https://github.com/johnmanojj90-glitch)
 - [Priyansh Sahu](https://github.com/PriyanshSahu65)
 
+- [Abdullah Muhammad](https://github.com/AbdullahMuhammad-29)
