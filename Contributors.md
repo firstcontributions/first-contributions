@@ -1,6 +1,7 @@
 
 # Contributors
 
+- [A. Vasanth](https://github.com/vasanth-cloud)
 - [Josh](https://github.com/joshlovesgiraffes)
 - [Shri Manasa](https://github.com/shrimanasa)
 - [Piumal Jayaweera](https://github.com/piumal-glitch)
