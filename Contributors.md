@@ -831,6 +831,7 @@ niceshowmini
 - [Harsh Bora](https://github.com/harshbora94)
 - [Abdul Kareem](https://github.com/abdulkareem97)
 - [Parsa Behnam](https://github.com/ParsaBehnam)
+- [Axel Nordström](https://github.com/AxelNordstromDev)
 - [Abdulkarim Mohammed](https://github.com/amdev0)
 - [Ashish Sahoo](https://github.com/ashishsahoo18)
 - [Omina Elsheikh](https://github.com/RU1001)
