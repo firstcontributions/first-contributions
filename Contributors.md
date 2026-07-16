@@ -10,7 +10,7 @@
 (https://github.com/codeecal)
 - [Asvidal](https://github.com/Asvidal)
 - [Gen]
-- [Sandhiya]
+- [Sandhiya](https://github.com/Sandhiya-003)
 -[Wendy](https://github.com/zhaozixuan613)
 - #### [Chinmay Maheshwari](https://github.com/Chinmay0608)
 - [Dhanuri](https://github.com/Dhanuri-codes)
