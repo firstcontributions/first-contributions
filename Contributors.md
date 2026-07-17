@@ -55,6 +55,7 @@
 - [Sazzat Hj](https://github.com/SazzatHj)
 - [ArnavGarg7](https://github.com/ArnavGarg7)
 - [Kini7686](https://github.com/Kini7686)
+- [Aditya Shaji](https://github.com/ps-aditya)
 - [Darsh Agarwal](https://github.com/darshag29)
 - [Jeremiah Aliyese](https://github.com/ternamdoo)
 - [Tiffany Iong](https://github.com/tiffanyiong)
