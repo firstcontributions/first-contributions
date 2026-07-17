@@ -22,6 +22,7 @@
 - [Rajeev Nandan Damarla](https://github.com/Rajeev91691)
 - [Jaya Siva Ganesh K](https://github.com/Sivaganesh122)
 //Mohamed//
+- [Shringar Sharan](https://github.com/shringarsharan)
 - [Atharv Rawat](https://github.com/atharvesting)
 - [Jasminder Singh](https://github.com/Jasminder-Singh)
 - [Mahima](https://github.com/mahima44-svg)
