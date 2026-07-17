@@ -2926,6 +2926,7 @@ aaaa
 - [DataShiv](https://github.com/DataShiv)
 - [Frank](https://github.com/FHHSOC)
 -[Aparesh Mondal](https://github.com/Aparesh-Mondal)
+-[Tejas mishra](https://github.com/Tejas-Mishra12)
 - [Sanjith Harshan C](https://github.com/Sanjithharshan)
 -[Tarulata Priya](https://github.com/Tarulatapriya)
 - [Dan Dobrin](https://github.com/dandob1)
