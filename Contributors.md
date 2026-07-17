@@ -19,7 +19,7 @@
 - [Tahzib Pathan](https://github.com/Tahzib-12)
 -[Calvin Moses](https://github.com/codeecal)
 - [Asvidal](https://github.com/Asvidal)
-- [Gen]
+- [Ayesha Asif](https://github.com/ayeshaasif12089-ship-it)
 [Siddharth](https://github.com/Siddharthx21s)
 -[Colin](https://github.com/colinbern8)
 -[Wendy](https://github.com/zhaozixuan613)
