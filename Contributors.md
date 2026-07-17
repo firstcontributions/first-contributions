@@ -14,6 +14,7 @@
 -[Calvin Moses](https://github.com/codeecal)
 - [Asvidal](https://github.com/Asvidal)
 - [Gen]
+-[Colin](https://github.com/colinbern8)
 -[Wendy](https://github.com/zhaozixuan613)
 - #### [Chinmay Maheshwari](https://github.com/Chinmay0608)
 - [Dhanuri](https://github.com/Dhanuri-codes)
