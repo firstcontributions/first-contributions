@@ -26,6 +26,7 @@
 - [Rupesh Thapa](https://github.com/rupeshthapa9700)
 - [Naya] (https://github.com/naya-valentine)
 - [Abhinav Singh Chilwal](https://github.com/abhinavchilwal-star)
+- [Vinay] (https://github.com/AtlaVinay555)
 - [Phant0m1zed](https://github.com/Phant0m1zed/)
 - [yellowstick]
 - [Adi Arora] https://github.com/adiarora06
