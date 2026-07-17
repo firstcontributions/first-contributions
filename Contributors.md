@@ -1,6 +1,7 @@
 
 # Contributors
 - [Ankur Shinde](https://github.com/ankurshnde)
+- [Eklavya Shinde](https://github.com/Eklavya1919)
 - [Prince Wang](https://github.com/noobifyLol)
 - [Yazeed Alraddadi](https://github.com/yazeed1425)
 - [Kabir Maske](https://github.com/kabirmaske)
