@@ -152,6 +152,7 @@ Syed Omer
 -[Nicolas Hernandez](https://github.com/Tacocat405583)
 -[zhushouze](http://github.com/zhushouze)
 - [Mamilla R Anjali](https://github.com/Mamilla-R-Anjali)
+- [Shivani Shet](https://github.com/Shivanishet)
 -[Kim Seung-hyun](https://github.com/ksh1217)
 - [Maciej Sztando](https://github.com/MaciejAtRelativity)
 - [Oscar Kriebel](https://github.com/OscarKriebel)
