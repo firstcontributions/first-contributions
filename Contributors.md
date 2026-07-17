@@ -3089,3 +3089,4 @@ bhumika
 - [Dheeraj Pranav](https://github.com/DheerajPranav)
 - [Yıldız Aydın](https://github.com/yildizaydnn)
 - [Dextir-AFK](https://github.com/Dextir-AFK)
+- [Simon Tettamanti](https://github.com/tettamantisimon-png)
