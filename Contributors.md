@@ -1,6 +1,7 @@
 
 # Contributors
 - [Dinesh](https://github.com/ad-Dinesh)
+- [Ayan Khan](https://github.com/ThunderKhan)
 - [Yitian Liao](https://github.com/yitianliao888)
 - [Ankur Shinde](https://github.com/ankurshnde)
 - [Eklavya Shinde](https://github.com/Eklavya1919)
