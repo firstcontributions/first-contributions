@@ -1582,6 +1582,7 @@ niceshowmini
 - [Noah Kim](https://github.com/gratisreise)
 - [BokkieNZ](https://github.com/BokkieNZ)
 - [Noah Schroeder](https://github.com/nrschroeder)
+- [Aditya Priyadarshi](https://github.com/PhaNtoM-GHosT-11101)
 - [Simon Waberski](https://github.com/waberskisimon)
 - [HothoLina](https://github.com/HothoLina)
 - [Noëlla Vivienne](https://github.com/noellav/)
