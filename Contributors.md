@@ -2775,7 +2775,7 @@ niceshowmini
 - [Shruti Verma](https://github.com/Shrutii008)
 - Keerthana D M
 - Kshitij A
-
+- [radiusxt](https://github.com/radiusxt)
 - [Sai Rithwik Reddy Chirra](https://github.com/imrithwik1908)
 - [Himanshu Dogra](https://github.com/dograhimanshu)
 - [mskumar](https://github.com/ms-kumar)
@@ -2964,11 +2964,8 @@ bhumika
 - [Santiago Satragni](https://github.com/santisatragni)
 - [Sahil Dhanvij](https://github.com/Sahil4636)
 - - [01100001melia](https://github.com/01100001melia)
-<<<<<<< HEAD
 - [Ajwa Shahid](https://github.com/ajwashahid150-source)
-=======
 - [Shawon Dey](https://github.com/shawon-dey188)
->>>>>>> 0336b03fb650815131c63deef0e6780b7e5342e6
 >>>>>>>
 >>>>>>> 
 - [rod-liu-id](https://github.com/rod-liu-id)
