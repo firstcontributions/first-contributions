@@ -19,6 +19,7 @@
 -[Calvin Moses](https://github.com/codeecal)
 - [Asvidal](https://github.com/Asvidal)
 - [Gen]
+[Siddharth](https://github.com/Siddharthx21s)
 -[Colin](https://github.com/colinbern8)
 -[Wendy](https://github.com/zhaozixuan613)
 - #### [Chinmay Maheshwari](https://github.com/Chinmay0608)
