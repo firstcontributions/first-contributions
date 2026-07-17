@@ -3079,6 +3079,7 @@ bhumika
 - [pipesots7991-oss](https://github.com/pipesots7991-oss)
 - [ByWinston23](https://github.com/ByWinston23)
 - [Ansuj K Meher](https://github.com/ANSUJKMEHER)
+- [EGOISTz](https://github.com/EGOISTz)
 - [crfcombatreadyfitness-dotcom](https://github.com/crfcombatreadyfitness-dotcom)
 - [Kavya Saxena](https://github.com/kavyasaxena28)
 - [Dheeraj Pranav](https://github.com/DheerajPranav)
