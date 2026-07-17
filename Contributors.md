@@ -200,6 +200,7 @@ harry
 - [Mamilla R Anjali](https://github.com/Mamilla-R-Anjali)
 - [Shounak](https://github.com/Script-Surfer)
 - [Faizan Ur Rehman](https://github.com/fez-Ox)
+- [Tejasvini Fulari] (https://github.com/tejasvinifulari5)
 - [José Miranda] (https://github.com/josemmiranda04) #first contribution
 - [Vyash](https://github.com/vyash-s)
 - [shanaditi73-jpg](https://github.com/shanaditi73-jpg)
