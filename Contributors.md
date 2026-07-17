@@ -65,6 +65,7 @@
 - [Surya Madireddy](https://github.com/SuryaMadireddy1)
 - [Guruprasad K](https://github.com/Guru1316)
 - [Roshan Nepal](https://github.com/Rosh-an47)
+- [Muhammad Ali](https://github.com/Muhammad-Ali-5331)
 - [Hudson Glines](https://github.com/drusticc)
 - [Saliya Ranasgalla](https://github.com/SaliyaRanasgalla)
 - [Amaan saifi](https://github.com/amaansaifi-ai)
