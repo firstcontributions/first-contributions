@@ -4,6 +4,7 @@
 - [Yazeed Alraddadi](https://github.com/yazeed1425)
 - [Kabir Maske](https://github.com/kabirmaske)
 - [Luis Ruvalcaba](https://github.com/luisruval)
+- [Tejaswini SL](https://github.com/Tej131-hue)
 - [Atif Mazhar](https://github.com/AtifMazhar-01)
 - [A. Vasanth](https://github.com/vasanth-cloud)
 - [Josh](https://github.com/joshlovesgiraffes)
