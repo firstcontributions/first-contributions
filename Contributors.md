@@ -3109,4 +3109,5 @@ bhumika
 - [Robson Benevides](https://github.com/robsonbenevides21-web)
 - asmitha
 - [anaplaster](https://github.com/anaplaster)
+- [Henrique](https://github.com/henrique08julho-sys)
 
