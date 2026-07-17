@@ -3062,4 +3062,5 @@ bhumika
 - [Ahmed](https://github.com/ahafez2k)
 - [Samiksha Jungari](https://github.com/Samikshajungari)
 - [Kareem Ghazi](https://github.com/kareem-ghaz)
+- [39Asterisk](https://github.com/39Asterisk)
 - [Henrique](https://github.com/Henrique-CL)
