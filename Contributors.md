@@ -1876,6 +1876,7 @@ niceshowmini
 - [Sanskar Agarwal](https://github.com/sanskaragarwal001)
 - [Santiago Sierra Marin](https://github.com/SantiSM10)
 - [Sanyam Kumari](https://github.com/sanyam0495)
+- [Alex Hanna](https://github.com/AlexHan-prog)
 - [Saptarshi Kuila](https://github.com/sap6011)
 - [Saqib Anjum Masoodi](https://github.com/SaqibMasoodi)
 - [Saqib](https://github.com/saq12)
