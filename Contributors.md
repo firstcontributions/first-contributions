@@ -126,7 +126,6 @@ Syed Omer
 - [dounoy](https://github.com/dounoy)
 - [Rohit Sharma](https://github.com/rohit357)
 - [Bhavin Shankur](https://github.com/exobhavinss-sketch)
-- [Hannn111111](https://github.com/Hannn111111)
 
 # Lucas Santos
 
