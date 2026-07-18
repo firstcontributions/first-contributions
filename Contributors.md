@@ -1,4 +1,5 @@
 # Contributors
+- [Siddh Tyagi](https://github.com/siddhtyagi18)
 - [Laib Rehman](https://github.com/laibarehmankhan123-wq)
 - [Dinesh](https://github.com/ad-Dinesh)
 - [Ayan Khan](https://github.com/ThunderKhan)
