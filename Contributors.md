@@ -211,6 +211,7 @@ harry
 - [chillSort](https://github.com/soumayagarwal) #Contributor
 - [iiifk](https://github.com/iiifk)
 - [rid325] (https://github.com/rid325)
+Aalli
 - Nemo
 - [Oussama Sarboute](https://github.com/Oussama763)
 - [IRJ Prime](https://github.com/IRJ-Prime)
