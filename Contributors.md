@@ -67,6 +67,7 @@
 - [Mech-who](https://github.com/Mech-Who)
 - [Noureddin Sameer](https://github.com/NoureddinSameer)
 - [Guduru Chandhra Siddharrdha](https://github.com/Chandhra2004)
+-[Rugved Padhye](https://github.com/rugved-21)
 - [Anjana Rajagopal](https://github.com/anjipoo)
 - [Ajit Kumar](https://github.com/DevwithAJ)
 - [Ajit Kumar](https://github.com/SafarwithAK)
