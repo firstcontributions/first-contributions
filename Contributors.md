@@ -3145,7 +3145,7 @@ hey yo!
 - [powerconect](https://github.com/powerconect)
 - [Mashikur Rahman Mirash](https://github.com/mashikur-steadfast)
 - [Omar Hassan](https://github.com/Omarh4700) 
-
+- [Vincent Ker](https://github.com/loviqu2)
 - [TejikaSingh02](https://github.com/TejikaSingh02)
 
 - fufufuwa
