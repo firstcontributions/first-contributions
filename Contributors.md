@@ -1,4 +1,5 @@
 # Contributors
+- [Tejika Singh](https://github.com/TejikaSingh02)
 - [Siddh Tyagi](https://github.com/siddhtyagi18)
 - [Laib Rehman](https://github.com/laibarehmankhan123-wq)
 - [Dinesh](https://github.com/ad-Dinesh)
@@ -274,6 +275,7 @@ kalyani
 - [anaskhan002006-lab](https://github.com/anaskhan002006-lab)
 - [Mohammed](https://github.com/mosaahgaal-png) #Contributors
 - [PRAJWAL_RG](https://github.com/PRAJWAL-RAMGOND)# Contributors
+- [Tejika Singh](https://github.com/TejikaSingh02)
 - [Surya_S](https://github.com/Suryaseenivasan2005)#Contributors
 - [ADHIRAJ994](https://github.com/ADHIRAJ994)
 -gaoyou
