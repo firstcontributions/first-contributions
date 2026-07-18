@@ -15,6 +15,7 @@
 - [Atif Mazhar](https://github.com/AtifMazhar-01)
 - [A. Vasanth](https://github.com/vasanth-cloud)
 - [Josh](https://github.com/joshlovesgiraffes)
+- [Ces](https://github.com/cessauce)
 - [Shri Manasa](https://github.com/shrimanasa)
 - [Piumal Jayaweera](https://github.com/piumal-glitch)
 - [Tahzib Pathan](https://github.com/Tahzib-12)
