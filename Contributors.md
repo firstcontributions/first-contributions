@@ -9,6 +9,7 @@
 - [Yitian Liao](https://github.com/yitianliao888)
 - [Ankur Shinde](https://github.com/ankurshnde)
 - [Eklavya Shinde](https://github.com/Eklavya1919)
+- [Mayu](https://github.com/PixWizard)
 - [Prince Wang](https://github.com/noobifyLol)
 - [Yazeed Alraddadi](https://github.com/yazeed1425)
 - [smz202000](https://github.com/smz202000)
