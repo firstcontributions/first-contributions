@@ -14,6 +14,7 @@
 - [Tejaswini SL](https://github.com/Tej131-hue)
 - [Atif Mazhar](https://github.com/AtifMazhar-01)
 - [A. Vasanth](https://github.com/vasanth-cloud)
+- [clypse](https://github.com/NaveenGadugina678)
 - [Josh](https://github.com/joshlovesgiraffes)
 - [Ces](https://github.com/cessauce)
 - [Shri Manasa](https://github.com/shrimanasa)
