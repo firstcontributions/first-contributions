@@ -56,6 +56,7 @@
 - [Ronit](https://github.com/ronitchiluka06)
 - [Raj Jadhav](https://github.com/Raj-Jadhav/)
 - [Mehul Sinha](https://github.com/MehulEXE)
+- [Shivangani Sinha](https://github.com/shii002)
 - [Atishay Jain](https://github.com/Atishay17)
 - [Veeraadineshhhhh] (https://github.com/redveera2000/MYFITAPP.git)
 - [DreadVoice](https://github.com/DreadVoice)
