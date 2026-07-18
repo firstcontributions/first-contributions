@@ -3124,3 +3124,4 @@ bhumika
 - [Arnav Sharma](https://github.com/arnavsharma09)
 - [UnknownIDD](https://github.com/UnknownIDD)
 - [sable-gayatri](https://github.com/sable-gayatri)
+- [Tariq Alharbi](https://github.com/tareq1148)
