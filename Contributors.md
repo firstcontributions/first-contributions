@@ -211,6 +211,7 @@ harry
 - [Legus](https://github.com/Legus-Yeung)
 - [Mamilla R Anjali](https://github.com/Mamilla-R-Anjali)
 - [Alok Gupta](https://github.com/Alok-0601)
+-[Alok](https://github.com/Alok-0601)
 - [Raghav Lath](https://github.com/Raghav09445)
 - [Shounak](https://github.com/Script-Surfer)
 - [Faizan Ur Rehman](https://github.com/fez-Ox)
