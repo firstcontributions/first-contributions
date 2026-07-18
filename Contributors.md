@@ -1,4 +1,5 @@
 # Contributors
+- [jershon] (https://github.com/jershonjefray-tech)
 - [Laib Rehman](https://github.com/laibarehmankhan123-wq)
 - [Dinesh](https://github.com/ad-Dinesh)
 - [Ayan Khan](https://github.com/ThunderKhan)
