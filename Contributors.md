@@ -1,4 +1,5 @@
 # Contributors
+- [SidGod](https://github.com/starboylive) 
 - [Tejika Singh](https://github.com/TejikaSingh02)
 - [Siddh Tyagi](https://github.com/siddhtyagi18)
 - [Laib Rehman](https://github.com/laibarehmankhan123-wq)
