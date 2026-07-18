@@ -1506,6 +1506,7 @@ niceshowmini
 - [Mayur Lad](https://github.com/mayurlad)
 - [izislesar] (https://github.com/izislesar)
 - [Megha Nyassa](https://github.com/mnya28)
+- [Alex](https://github.com/abesanets)
 - [minhho0567-art](https://github.com/minhho0567-art)
 - [Maitreyi](https://github.com/Maitreyi04)
 - [Min Jia](https://github.com/Alex-gift-hit/EsCommune#)
