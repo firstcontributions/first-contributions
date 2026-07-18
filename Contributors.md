@@ -64,6 +64,7 @@
 - [Ajit Kumar](https://github.com/SafarwithAK)
 - [Nikhil Sarathy] (https://github.com/ze-NICKEL)
 - [Surya Madireddy](https://github.com/SuryaMadireddy1)
+- [Aatish Hari](https://github.com/Aatish-hari)
 - [Guruprasad K](https://github.com/Guru1316)
 - [Roshan Nepal](https://github.com/Rosh-an47)
 - [Muhammad Ali](https://github.com/Muhammad-Ali-5331)
