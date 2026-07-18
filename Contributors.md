@@ -14,6 +14,7 @@
 - [Luis Ruvalcaba](https://github.com/luisruval)
 - [Tejaswini SL](https://github.com/Tej131-hue)
 - [Atif Mazhar](https://github.com/AtifMazhar-01)
+- [Pavani Satwika](https://github.com/satwii)
 - [A. Vasanth](https://github.com/vasanth-cloud)
 - [clypse](https://github.com/NaveenGadugina678)
 - [Josh](https://github.com/joshlovesgiraffes)
