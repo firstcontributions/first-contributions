@@ -998,6 +998,7 @@ niceshowmini
 - [Atharva Ghayal](https://github.com/atharvaghayal)
 - [Atharva Jadhav](https://github.com/DrDrunkenstien-10)
 - [Athulkrishna](https://github.com/AthulKrishna-736)
+- [Leo Davidson](https://github.com/leod6112)
 - [Atul Pandey](https://github.com/atulpandey9)
 - [Avani J C](https://github.com/Avani24-byte)
 - [Ayush Katheriya](https://github.com/cwayush)
