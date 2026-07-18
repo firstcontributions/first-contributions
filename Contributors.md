@@ -18,6 +18,7 @@
 - [A. Vasanth](https://github.com/vasanth-cloud)
 - [clypse](https://github.com/NaveenGadugina678)
 - [Josh](https://github.com/joshlovesgiraffes)
+- [Aditya Magar] (https://github.com/Aaditya-Magar)
 - [Ces](https://github.com/cessauce)
 - [Shri Manasa](https://github.com/shrimanasa)
 - [Piumal Jayaweera](https://github.com/piumal-glitch)
