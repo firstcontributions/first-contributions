@@ -324,6 +324,7 @@ niceshowmini
 - Pramod2211
 - [nishika dhankhar]
 - [Nakul Iyer](https://github.com/naks123)
+- [Zebicolon](https://github.com/KingSebs)
 - [Tushar Khurana](https://github.com/Tushar-khurana-official/)
 - [Tushar Khurana](https://github.com/Tushar-khurana-official/)
 - [Gerardo Martinez](https://github.com/hackmaster101/first-contributions)
