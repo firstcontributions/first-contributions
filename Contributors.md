@@ -3056,6 +3056,7 @@ bhumika
 - [Noelle Demery](https://github.com/Noelledemery)
 - [PADMAVATHY M](https://github.com/P-A-D-M-A)
 - [Jacson Myers](https://github.com/jacsonmyers)
+- [Miru](https://github.com/miru-kazuki)
 - [szystick-source](https://github.com/szystick-source)
 - [whdgns7479-coder](https://github.com/whdgns7479-coder)
 - [jeenal0712](https://github.com/jeenal0712)
