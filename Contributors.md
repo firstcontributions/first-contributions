@@ -332,6 +332,7 @@ niceshowmini
 - [Yishith Vilas](https://github.com/YiVibro)
 - [Saniya Pendhari] (https://github.com/saniyap12)
 - strawhat
+- [BardinBooger](https://github.com/BardinBooger)
   ManoGowda -[ivanzc](https://github.com/Ivanzc2005)
 - [DylanB145](https://github.com/DylanB145) -[juanmi](https://github.com/Juanmi79) -[johnhandleyd](https://github.com/johnhandleyd/) -[Anurag Anand](https://github.com/Recalcitrant-anurag)
 - [eol](https://github.com/eol02)
