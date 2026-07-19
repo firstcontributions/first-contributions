@@ -3165,3 +3165,4 @@ hey yo!
 - [la factoria](https://github.com/grupomezontle-code)
 - [Cam](https://github.com/CamBlackwell)
 - [Soumyadeep Das](https://github.com/Soumyadeepdas2)
+- [Seteiro](https://github.com/seteiro)
