@@ -3180,3 +3180,5 @@ hey yo!
 - [felipeqbrasil](https://github.com/felipeqbrasil)
 
 - [oozan](https://github.com/oozan)
+
+- [StephanR](https://github.com/stephan24484-a11y)
