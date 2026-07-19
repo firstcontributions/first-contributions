@@ -1,5 +1,6 @@
 # Contributors
-- [SidGod](https://github.com/starboylive)
+- [Kashish](https://github.com/Kashish1074)
+- [SidGod](https://github.com/starboylive) 
 - [Tejika Singh](https://github.com/TejikaSingh02)
 - [Siddh Tyagi](https://github.com/siddhtyagi18)
 - [Supriyo Kumar](https://github.com/SupriyoOG)
@@ -11,6 +12,7 @@
 - [Yitian Liao](https://github.com/yitianliao888)
 - [Ankur Shinde](https://github.com/ankurshnde)
 - [bycx725](https://github.com/bycx725)
+- [xenonbomin54](https://github.com/xenonbomin54)
 - [Eklavya Shinde](https://github.com/Eklavya1919)
 - [Mayu](https://github.com/PixWizard)
 - [Prince Wang](https://github.com/noobifyLol)
@@ -512,6 +514,8 @@ niceshowmini
 - [Harshini BV] (https://github.com/Harshbv)
 - [Sachin Chandra Goolla] (https://github.com/SachinGoolla)
   main
+- Kashish
+- [Kashish](https://github.com/Kashish1074)
 - [ChickyHuynh] (https://github.com/Chick25)
 - [DaaniMM](https://github.com/DaaniMM)
 - [Shireen] (https://github.com/shireenmne)
@@ -3023,17 +3027,9 @@ bhumika
 - [Santiago Satragni](https://github.com/santisatragni)
 - [Sahil Dhanvij](https://github.com/Sahil4636)
 - - [01100001melia](https://github.com/01100001melia)
-<<<<<<< HEAD
-- [Ajwa Shahid](https://github.com/ajwashahid150-source)
-=======
 - [Shawon Dey](https://github.com/shawon-dey188)
->>>>>>> 0336b03fb650815131c63deef0e6780b7e5342e6
->>>>>>>
->>>>>>>
 - [rod-liu-id](https://github.com/rod-liu-id)
-<<<<<<< HEAD
 - [Paridhi Jaiswal](https://github.com/Paridhi75)
-=======
 - [ViquinhoDev](https://github.com/viquinhodev)
 - [Ayush Aman](https://github.com/Ayushaman1291)
 - [Roblox](https://github.com/leozera-onfire)
@@ -3175,3 +3171,9 @@ hey yo!
 - [Anish Chakraborty](https://github.com/chakrabortyanish)�Ĵη�����
 - [Zhameer Sheraz](https://github.com/zhameersheraz)
 - [Kaushal Prajapati](https://github.com/KaushalxPrajapati)
+
+- [felipeqbrasil](https://github.com/felipeqbrasil)
+
+- [oozan](https://github.com/oozan)
+
+- [StephanR](https://github.com/stephan24484-a11y)
