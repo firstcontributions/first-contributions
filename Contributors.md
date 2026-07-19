@@ -2,6 +2,7 @@
 - [SidGod](https://github.com/starboylive) 
 - [Tejika Singh](https://github.com/TejikaSingh02)
 - [Siddh Tyagi](https://github.com/siddhtyagi18)
+- [Supriyo Kumar](https://github.com/SupriyoOG)
 - [Laib Rehman](https://github.com/laibarehmankhan123-wq)
 - [Dinesh](https://github.com/ad-Dinesh)
 - [Ashraf Naeem](https://github.com/ashrafnaeem1)
