@@ -3083,6 +3083,7 @@ bhumika
 - [Marco Silva](https://github.com/marcoantoniossilva)
 - [Shreyas Shukla](https://github.com/Shreyasshukla957)
 - [Mufaizul Hassan](https://github.com/MufaizulHassan)
+- [Aki-new](https://github.com/Aki-new)
 - [penyutti-crypto](https://github.com/penyutti-crypto)
 - [devotedhruv] https://github.com/devotedhruv
 - [Naxisbeast] https://github.com/Naxisbeast
