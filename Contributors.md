@@ -3159,3 +3159,4 @@ hey yo!
 - [Sharad Jain](https://github.com/sharadjain766-ai)
 - [yang-bigger](https://github.com/yangssss163)
 - [Automaton Worker](https://github.com/jackke88)
+- [la factoria](https://github.com/grupomezontle-code)
