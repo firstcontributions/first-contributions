@@ -1273,6 +1273,7 @@ niceshowmini
 - [Garv Choure](https://github.com/garvv29)
 - [Yogesh HN](https://github.com/YogeshHN)
 - [Gaumtes Jain](https://github.com/Tecnic-debug)
+- [Shkvarkin Arseniy][https://github.com/GlisteningIngyno]
 - [Gauransh Maheshwari](https://github.com/kardocode)
 - [Gaurav kumar ](https://github.com/gauravbuildz)
 - [Gargi kalia](https://github.com/Kaliagargi)
