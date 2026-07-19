@@ -1,5 +1,5 @@
 # Contributors
-- [SidGod](https://github.com/starboylive) 
+- [SidGod](https://github.com/starboylive)
 - [Tejika Singh](https://github.com/TejikaSingh02)
 - [Siddh Tyagi](https://github.com/siddhtyagi18)
 - [Supriyo Kumar](https://github.com/SupriyoOG)
@@ -397,7 +397,7 @@ niceshowmini
 - [Keyur Patel] (https://github.com/keyurpatel8809) (https://keyurpatel.dev)
 - [KimsunLy](https://github.com/Kimsunly)
 - [Eric Ye](https://github.com/eriicye)
-- [Joseph Costa](https://github.com/JoeCosta7) 
+- [Joseph Costa](https://github.com/JoeCosta7)
 -[ Jove Amala Rathna⭐](https://github.com/joveamalarathna-s)
 - [Shan Asif](https://github.com/shanAweb)
 - [Lucas Santos Da Cruz](https://github.com/lsantosdacruz)
@@ -2463,7 +2463,7 @@ niceshowmini
 - [yGuox](https://github.com/yGuox)
 - [Luisa](https://github.com/LuoisaWu)
 - [Kuba](https://github.com/ImmaShinee)
-- [Yang](https://github.com/YANGANQI-Hitachi)  
+- [Yang](https://github.com/YANGANQI-Hitachi)
 - [Mariana Valente](https://github.com/eusoumarianavalente-stack)
 - [lzjshijlba](https://github.com/lzjshijlba)
 - [jlzrc](https://github.com/jlzrc)
@@ -3029,7 +3029,7 @@ bhumika
 - [Shawon Dey](https://github.com/shawon-dey188)
 >>>>>>> 0336b03fb650815131c63deef0e6780b7e5342e6
 >>>>>>>
->>>>>>> 
+>>>>>>>
 - [rod-liu-id](https://github.com/rod-liu-id)
 <<<<<<< HEAD
 - [Paridhi Jaiswal](https://github.com/Paridhi75)
@@ -3158,7 +3158,7 @@ bhumika
 hey yo!
 - [powerconect](https://github.com/powerconect)
 - [Mashikur Rahman Mirash](https://github.com/mashikur-steadfast)
-- [Omar Hassan](https://github.com/Omarh4700) 
+- [Omar Hassan](https://github.com/Omarh4700)
 - [Vincent Ker](https://github.com/loviqu2)
 - [TejikaSingh02](https://github.com/TejikaSingh02)
 
@@ -3174,3 +3174,4 @@ hey yo!
 - [Akshat Bhardwaj](https://github.com/REAPER2705/)
 - [Anish Chakraborty](https://github.com/chakrabortyanish)�Ĵη�����
 - [Zhameer Sheraz](https://github.com/zhameersheraz)
+- [Kaushal Prajapati](https://github.com/KaushalxPrajapati)
