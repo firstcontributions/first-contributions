@@ -3187,3 +3187,5 @@ hey yo!
 - [oozan](https://github.com/oozan)
 
 - [StephanR](https://github.com/stephan24484-a11y)
+
+- [Anderson de Sousa](https://github.com/andersondesousa-sys)
