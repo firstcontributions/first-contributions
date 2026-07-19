@@ -1131,6 +1131,7 @@ niceshowmini
 - [coolwent](https://github.com/coolwent)
 - [Darshika Shrivastava](https://github.com/darshika140)
 - [Dave Herr](https://github.com/dave-herr)
+- [Daniel Klug](https://github.com/RandomCod3r)
 - [Daniel Alv](https://github.com/dalt-builds)
 - [Deekshith](https://github.com/Deekshith2485)
 - [Deepa Choudhary](https://github.com/Deepachoudhary24)
