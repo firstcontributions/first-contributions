@@ -2259,6 +2259,7 @@ niceshowmini
 - [quetzal-china](https://github.com/quetzal-china)
 - [s4d0x-dev](https://github.com/s4d0x-dev)
 - [salilnarvekar03](https://github.com/salilnarvekar03)
+- [Tejas Neog](https://github.com/tpncoder)
 - [sysrecall](https://github.com/sysrecall)
 - [Nikhil B](https://github.com/Xennonite)
 - [prabhat dubey](https://github.com/prabhat-eth-gif)
