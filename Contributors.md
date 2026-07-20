@@ -28,6 +28,7 @@
 - [Pavani Satwika](https://github.com/satwii)
 - [A. Vasanth](https://github.com/vasanth-cloud)
 - [clypse](https://github.com/NaveenGadugina678)
+- [dynvcc](https://github.com/dynvcc)
 - [Josh](https://github.com/joshlovesgiraffes)
 - [Aditya Magar] (https://github.com/Aaditya-Magar)
 - [Ces](https://github.com/cessauce)
