@@ -132,6 +132,7 @@
 - [Elamaran](https://github.com/elamaran25)
 Syed Omer
 - [Sounak Sarkar](https://github.com/NetRunnerXD)
+- [Willian Mainardi Fardin] (https://github.com/will-dlm)
 - [Atharv Palekar] (https://github.com/Atharv3105)
 - [Julia Rodriguez] (https://github.com/juliaRoSo)
 - [Eric Gichuri](https://github.com/ericgichuri)
