@@ -1,5 +1,6 @@
 # Contributors
 - [KingPlein] (https://github.com/KingPlein)
+- [Kingestif] (https://github.com/kingestif)
 - [Kashish](https://github.com/Kashish1074)
 - [Vignesh](https://github.com/vigneshsabapathi)
 - [SidGod](https://github.com/starboylive) 
