@@ -38,6 +38,7 @@
 - [Piumal Jayaweera](https://github.com/piumal-glitch)
 - [Tahzib Pathan](https://github.com/Tahzib-12)
 -[Calvin Moses](https://github.com/codeecal)
+- [mcprescribed](https://github.com/mcprescribed/first-contributions)
 - [Asvidal](https://github.com/Asvidal)
 - [Ayesha Asif](https://github.com/ayeshaasif12089-ship-it)
 - [Atul Agrawal](https://github.com/atul913)
