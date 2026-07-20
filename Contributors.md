@@ -60,7 +60,7 @@
 - [suvinn](https://github.com/suvinn)
 - [Rajeev Nandan Damarla](https://github.com/Rajeev91691)
 - [Jaya Siva Ganesh K](https://github.com/Sivaganesh122)
-- [victor Mejia](https://github.com/victor1243mj)-
+- [victor Mejia](https://github.com/victor1243mj)
 - [Mohamed Bewa](https://github.com/midodstudent17-max)
 - [Shringar Sharan](https://github.com/shringarsharan)
 - [Rushi Rane](https://github.com/RushiRane2006)
