@@ -63,6 +63,7 @@
 - [victor Mejia](https://github.com/victor1243mj)
 //Mohamed//
 - [Shringar Sharan](https://github.com/shringarsharan)
+- [Rushi Rane](https://github.com/RushiRane2006)
 - [Atharv Rawat](https://github.com/atharvesting)
 - [Jasminder Singh](https://github.com/Jasminder-Singh)
 - [Mahima](https://github.com/mahima44-svg)
