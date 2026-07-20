@@ -1606,6 +1606,7 @@ Eoin O'B
 - [devtechsector](https://github.com/devtechsector)
 - [Jitendar E Y](https://github.com/jitendarey9594)
 - [Matthew Romero](https://github.com/matmatromero)
+- [Tejas Ghoti](https://github.com/tejasghoti)
 - [Sai Manohar Nanduri](https://github.com/NSM1997)
 - [CynthiaWahome](https://github.com/CynthiaWahome)
 - [Nejma Latheef](https://github.com/Nejma-Latheef)
