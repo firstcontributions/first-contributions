@@ -1,13 +1,18 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
 # First Contributions
 
-|<img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="200">|GitKraken Edition|
-|---|---|
+<table>
+  <tr>
+    <td align="center">
+      <img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="120"><br>
+      <b>GitKraken Edition</b>
+    </td>
+  </tr>
+</table>
 
 It's hard. It's always hard, when you do something for the first time. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
 
@@ -92,7 +97,7 @@ Click the Push button on the toolbar.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-origin.png" alt="origin or branch" />
 
-Submit changes on the origin branch if you want the changes to reflect in the master branch directly, else select the appropriate branch you want to push.
+Submit changes on the origin branch if you want the changes to reflect in the main branch directly, else select the appropriate branch you want to push.
 
 
 ## Submit your changes for review
@@ -105,16 +110,13 @@ Now submit the pull request.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/submit-pull-request.png" alt="submit pull request" />
 
-Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
+Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
 
 ## Where to go from here?
 
 Congrats!  You have just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
 
 Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io/#social-share).
-
-You could join our slack team in case you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
-
 
 ### [Additional material](../additional-material/git_workflow_scenarios/additional-material.md)
 
