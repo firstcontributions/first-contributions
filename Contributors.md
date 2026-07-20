@@ -2092,6 +2092,7 @@ niceshowmini
 - [Thomas De Grava](https://github.com/thomas36058)
 - [Tiago Davila](https://github.com/Tiago-Davila)
 - [Tiago Lima](https://github.com/TiagooLima)
+- [Toleranzy](https://github.com/Toleranzy)
 - [Tidenflow](https://github.com/Tidenflow)
 - [Tim Abad](https://github.com/TimAbad)
 - [TimOthry](https://github.com/TimOthry)
@@ -3207,14 +3208,3 @@ hey yo!
 - [Kafi2611](https://github.com/Kafi2611)
 - [fusroader-hash](https://github.com/fusroader-hash)
 - [Senorbas](https://github.com/Senorbas)
-
-
-
-
-
-
-
-
-
-
-- [Toleranzy](https://github.com/Toleranzy)
