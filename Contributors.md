@@ -3178,6 +3178,7 @@ hey yo!
 - [TejikaSingh02](https://github.com/TejikaSingh02)
 
 - fufufuwa
+- [Sarthak](https://github.com/Sarthak05-code)
 - [Pankaj Thapa](https://github.com/pankajthapa7)
 - [Sharad Jain](https://github.com/sharadjain766-ai)
 - [yang-bigger](https://github.com/yangssss163)
