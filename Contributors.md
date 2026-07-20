@@ -1,5 +1,6 @@
 # Contributors
 - [Kashish](https://github.com/Kashish1074)
+- [Saphire](https://github.com/Msmile-shiny)
 - [SidGod](https://github.com/starboylive) 
 - [Tejika Singh](https://github.com/TejikaSingh02)
 - [Siddh Tyagi](https://github.com/siddhtyagi18)
@@ -3194,3 +3195,4 @@ hey yo!
 - [Anderson de Sousa](https://github.com/andersondesousa-sys)
 - [Sawyer Lilly](https://github.com/Sawyer525-L)
 - [JULIO127-ctrl](https://github.com/JULIO127-ctrl)
+Shiny
