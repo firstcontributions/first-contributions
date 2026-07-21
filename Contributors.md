@@ -10,6 +10,7 @@
 - [Madhavi Porte](https://github.com/madhaviporte)
 - [Dinesh](https://github.com/ad-Dinesh)
 - [Ashraf Naeem](https://github.com/ashrafnaeem1)
+- [Safwan Intisar](https://github.com/saftech2911)
 - [Ayan Khan](https://github.com/ThunderKhan)
 - [Tarun Rai](https://github.com/Tarun995)
 - [Yitian Liao](https://github.com/yitianliao888)
