@@ -3106,7 +3106,6 @@ bhumika
 - [Deepanshi Mahajan](https://github.com/DeepanshiMahajan)
 - [Manisha](https://github.com/tolukattemanisha)
 - [Saumya Kushwaha](https://github.com/saumya-2005)
-- [GreatKingdavid](https://github.com/GreatKingdavid)
 - [Jiyeong Lim](https://github.com/limji02)
 - [Ayush Katiyar](https://github.com/yush786)
 - [Aitya Yadav](https://github.com/adityayadav161003)
@@ -3221,3 +3220,5 @@ hey yo!
 - [Onjourney-J](https://github.com/Onjourney-J)
 - [lustybina](https://github.com/lustybina)
 - [boringtessa](https://github.com/boringtessa)
+- [GreatKingdavid](https://github.com/GreatKingdavid)
+
