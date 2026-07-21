@@ -40,19 +40,32 @@ git clone https://github.com/this-is-you/first-contributions.git
 cd first-contributions
 ```
 
-ਹੁਣ `git checkout` ਕਮਾਂਡ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਸ਼ਾਖਾ ਬਣਾਓ:
+ਹੁਣ `git switch` ਕਮਾਂਡ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਸ਼ਾਖਾ ਬਣਾਓ:
 
 ```bash
-git checkout -b ਤੁਹਾਡਾ-ਨਵੀਂ-ਸ਼ਾਖਾ-ਦਾ-ਨਾਮ
+git switch -c ਤੁਹਾਡਾ-ਨਵੀਂ-ਸ਼ਾਖਾ-ਦਾ-ਨਾਮ
 ```
 
 ਉਦਾਹਰਣ ਲਈ:
 
 ```bash
-git checkout -b add-alonzo-church
+git switch -c add-alonzo-church
 ```
 
 (ਸ਼ਾਖਾ ਦੇ ਨਾਮ ਨੂੰ ਇਸ ਵਿਚ _add_ ਸ਼ਬਦ ਦੀ ਜ਼ਰੂਰਤ ਨਹੀਂ ਹੈ, ਪਰ ਇਹ ਸ਼ਾਮਲ ਕਰਨਾ ਇਕ ਵਾਜਬ ਚੀਜ਼ ਹੈ ਕਿਉਂਕਿ ਇਸ ਸ਼ਾਖਾ ਦਾ ਉਦੇਸ਼ ਤੁਹਾਡੇ ਨਾਮ ਨੂੰ ਇਕ ਸੂਚੀ ਵਿਚ ਸ਼ਾਮਲ ਕਰਨਾ ਹੈ.)
+
+<details>
+<summary> <strong>ਜੇਕਰ ਤੁਹਾਨੂੰ <code>git switch</code> ਵਰਤਦੇ ਸਮੇਂ ਕੋਈ ਗਲਤੀ ਮਿਲਦੀ ਹੈ, ਤਾਂ ਇੱਥੇ ਕਲਿੱਕ ਕਰੋ:</strong> </summary>
+
+ਜੇਕਰ ਗਲਤੀ ਸੁਨੇਹਾ "Git: `switch` is not a git command. See `git –help`" ਆਉਂਦਾ ਹੈ, ਤਾਂ ਇਹ ਸੰਭਵ ਹੈ ਕਿਉਂਕਿ ਤੁਸੀਂ git ਦਾ ਪੁਰਾਣਾ ਸੰਸਕਰਣ ਵਰਤ ਰਹੇ ਹੋ।
+
+ਇਸ ਸਥਿਤੀ ਵਿੱਚ, ਇਸ ਦੀ ਬਜਾਏ <code>git checkout</code> ਵਰਤਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ:
+
+```bash
+git checkout -b ਤੁਹਾਡਾ-ਨਵੀਂ-ਸ਼ਾਖਾ-ਦਾ-ਨਾਮ
+```
+
+</details>
 
 ## ਜ਼ਰੂਰੀ ਤਬਦੀਲੀਆਂ ਕਰੋ ਅਤੇ ਉਨ੍ਹਾਂ ਬਦਲਾਵਾਂ ਨੂੰ ਪ੍ਰਤੀਬੱਧ ਕਰੋ
 ਹੁਣ ਟੈਕਸਟ ਐਡੀਟਰ ਵਿੱਚ `Contributors.md` ਫਾਈਲ ਖੋਲ੍ਹੋ, ਇਸ ਵਿੱਚ ਆਪਣਾ ਨਾਮ ਸ਼ਾਮਲ ਕਰੋ. ਇਸ ਨੂੰ ਫਾਈਲ ਦੇ ਸ਼ੁਰੂ ਜਾਂ ਅੰਤ 'ਤੇ ਨਾ ਸ਼ਾਮਲ ਕਰੋ. ਇਸ ਨੂੰ ਕਿਤੇ ਵੀ ਵਿਚਕਾਰ ਰੱਖੋ। ਹੁਣ, ਫਾਈਲ ਸੇਵ ਕਰੋ।
