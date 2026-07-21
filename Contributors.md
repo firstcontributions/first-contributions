@@ -9,6 +9,7 @@
 - [Laib Rehman](https://github.com/laibarehmankhan123-wq)
 - [Madhavi Porte](https://github.com/madhaviporte)
 - [Dinesh](https://github.com/ad-Dinesh)
+- [Yashwanth Patil](https://github.com/Yashwanthpatil2005)
 - [Ashraf Naeem](https://github.com/ashrafnaeem1)
 - [Ayan Khan](https://github.com/ThunderKhan)
 - [Tarun Rai](https://github.com/Tarun995)
