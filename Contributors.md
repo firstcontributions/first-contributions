@@ -1059,6 +1059,7 @@ niceshowmini
 - [Bhargav Chataut](https://github.com/bhargav-chataut)
 - [Bhargav Kallepally](https://github.com/BHARGAV-RUE)
 - [Bhautik Jani](https://github.com/BhautikJani11)
+- [Bhakti Kavathiya](https://github.com/bhaktikavathiya)
 - [Bhavesh Desale](https://github.com/bhaveshdesale)
 - [BillyClassTime](https://github.com/BillyClassTime)
 - [Mohamed Anes](https://github.com/Mohamed-Anes)
