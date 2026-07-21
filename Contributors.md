@@ -3199,10 +3199,10 @@ hey yo!
 - [Zhameer Sheraz](https://github.com/zhameersheraz)
 - [felipeqbrasil](https://github.com/felipeqbrasil)
 
-- [oozan](https://github.com/oozan)
+- [oozan](https://github.com/oozan)g
 
 - [StephanR](https://github.com/stephan24484-a11y)
-
+- [Diya Singh](https://github.com/ds312304)
 - [Anderson de Sousa](https://github.com/andersondesousa-sys)
 - [Sawyer Lilly](https://github.com/Sawyer525-L)
 - [JULIO127-ctrl](https://github.com/JULIO127-ctrl)
