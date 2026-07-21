@@ -2858,8 +2858,7 @@ niceshowmini
 - [Sai Rithwik Reddy Chirra](https://github.com/imrithwik1908)
 - [Himanshu Dogra](https://github.com/dograhimanshu)
 - [mskumar](https://github.com/ms-kumar)
-- [Okwor Kingdavid] (https://github.com/GreatKingdavid)
-
+- [GreatKingdavid] (https://github.com/GreatKingdavid)
 - [coolysh0318-art](https://github.com/coolysh0318-art)
 
 - [Ahmed Chmourk (Data Science & AI)](https://github.com/ahmedchmourk)
