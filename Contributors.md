@@ -1,4 +1,5 @@
 # Contributors
+- [DanielRamos] (https://github.com/Daniellramos09)
 - [KingPlein] (https://github.com/KingPlein)
 - [Kashish](https://github.com/Kashish1074)
 - [Vignesh](https://github.com/vigneshsabapathi)
