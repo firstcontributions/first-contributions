@@ -8,6 +8,7 @@
 - [Supriyo Kumar](https://github.com/SupriyoOG)
 - [Laib Rehman](https://github.com/laibarehmankhan123-wq)
 - [Madhavi Porte](https://github.com/madhaviporte)
+- [Shreyansh Soni](https://github.com/Shreyanshs0ni)
 - [Dinesh](https://github.com/ad-Dinesh)
 - [Ashraf Naeem](https://github.com/ashrafnaeem1)
 - [Ayan Khan](https://github.com/ThunderKhan)
