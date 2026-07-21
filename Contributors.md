@@ -3199,7 +3199,7 @@ hey yo!
 - [Zhameer Sheraz](https://github.com/zhameersheraz)
 - [felipeqbrasil](https://github.com/felipeqbrasil)
 
-- [oozan](https://github.com/oozan)g
+- [oozan](https://github.com/oozan)
 
 - [StephanR](https://github.com/stephan24484-a11y)
 - [Diya Singh](https://github.com/ds312304)
