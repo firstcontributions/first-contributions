@@ -2858,7 +2858,7 @@ niceshowmini
 - [Sai Rithwik Reddy Chirra](https://github.com/imrithwik1908)
 - [Himanshu Dogra](https://github.com/dograhimanshu)
 - [mskumar](https://github.com/ms-kumar)
-- [GreatKingdavid](https://github.com/GreatKingdavid)
+
 - [coolysh0318-art](https://github.com/coolysh0318-art)
 
 - [Ahmed Chmourk (Data Science & AI)](https://github.com/ahmedchmourk)
@@ -3106,6 +3106,7 @@ bhumika
 - [Deepanshi Mahajan](https://github.com/DeepanshiMahajan)
 - [Manisha](https://github.com/tolukattemanisha)
 - [Saumya Kushwaha](https://github.com/saumya-2005)
+- [GreatKingdavid](https://github.com/GreatKingdavid)
 - [Jiyeong Lim](https://github.com/limji02)
 - [Ayush Katiyar](https://github.com/yush786)
 - [Aitya Yadav](https://github.com/adityayadav161003)
@@ -3202,6 +3203,7 @@ hey yo!
 - [oozan](https://github.com/oozan)
 
 - [StephanR](https://github.com/stephan24484-a11y)
+
 
 - [Anderson de Sousa](https://github.com/andersondesousa-sys)
 - [Sawyer Lilly](https://github.com/Sawyer525-L)
