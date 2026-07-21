@@ -518,6 +518,7 @@ niceshowmini
 - [pixelatedkisses] (https://github.com/pixelatedkisses)
 - [Tanish] (https://github.com/tanishmisra9)
 - [问剑白玉京](https://github.com/789wjbyj)
+- [LionKrypt] (https://github.com/LionKrypt)
   [kshitij] [Kshitij](https://github.com/KshitijK21)
 - [Manisha Govind](https://github.com/Manisha5918)
 - [Jayesh Patil](https://github.com/Jay-wav)
