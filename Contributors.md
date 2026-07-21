@@ -3219,4 +3219,4 @@ hey yo!
 - [Onjourney-J](https://github.com/Onjourney-J)
 - [lustybina](https://github.com/lustybina)
 - [boringtessa](https://github.com/boringtessa)
-   - [Secondee Samuel Alfa](https://github.com/secondeesamuelalfa)
+  - [Secondee Samuel Alfa](https://github.com/secondeesamuelalfa)
