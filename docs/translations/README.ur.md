@@ -72,19 +72,32 @@ git clone https://github.com/this-is-you/first-contributions.git
 cd first-contributions
 ```
 
-<div dir="rtl"> اب <code>git checkout</code>  کمانڈ استعمال کرتے ہوئے ایک شاخ/برانچ  تشکیل دیں : </div>
+<div dir="rtl"> اب <code>git switch</code> کمانڈ استعمال کرتے ہوئے ایک شاخ/برانچ تشکیل دیں: </div>
 
 ```bash
-git checkout -b <add-your-name>
+git switch -c <add-your-name>
 ```
 
 <div dir="rtl">مثال کے طور پر:</div>
 
 ```bash
-git checkout -b add-alonzo-church
+git switch -c add-alonzo-church
 ```
 
 <div dir="rtl"> شاخ (برانچ) کا نام میں ضروری نہیں <i>add</i> شامل کریں، لیکن یہ مناسب ہے کہ اس میں یہ شامل ہو، کیونکہ اس شاخ کا مقصد آپ کے نام کو فہرست میں شامل کرنا ہے. </div>
+
+<details>
+<summary> <strong dir="rtl">اگر آپ <code>git switch</code> استعمال کرتے ہوئے کسی ایرر کا سامنا کرتے ہیں تو یہاں کلک کریں:</strong> </summary>
+
+<div dir="rtl">اگر ایرر میسج "Git: `switch` is not a git command. See `git –help`" ظاہر ہو، تو امکان ہے کہ آپ git کا پرانا ورژن استعمال کر رہے ہیں۔</div>
+
+<div dir="rtl">اس صورت میں، اس کے بجائے <code>git checkout</code> استعمال کرنے کی کوشش کریں:</div>
+
+```bash
+git checkout -b <add-your-name>
+```
+
+</details>
 
 ## <div dir="rtl"> ضروری تبدیلیاں کریں اور ان تبدیلیوں کو انجام دیں۔ </div>
 

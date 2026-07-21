@@ -59,6 +59,19 @@ git switch -c your-branch-name
 
 your-branch-name ستاسو د څانګې نوم دی. کولای شئ چې هر نوم تاسې ټاکلی شئ.
 
+<details>
+<summary> <strong dir="rtl">که د <code>git switch</code> کارولو پر مهال کومه تېروتنه ترلاسه کړئ، دلته کلیک وکړئ:</strong> </summary>
+
+<div dir="rtl">که چیرې د تېروتنې پیغام "Git: `switch` is not a git command. See `git –help`" ښکاره شي، نو شونې ده چې تاسې د git پخوانۍ نسخه کاروئ.</div>
+
+<div dir="rtl">په دې حالت کې، د هغې پر ځای د <code>git checkout</code> کارولو هڅه وکړئ:</div>
+
+```bash
+git checkout -b your-branch-name
+```
+
+</details>
+
 ## اړین بدلونونه راوړئ او commit کړئ
 
 - د `Contributors.md` فایل خلاص کړئ او خپل نوم پکې اضافه کړئ کې).
