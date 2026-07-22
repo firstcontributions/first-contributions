@@ -159,6 +159,7 @@ Syed Omer
 
 - [Aarush Gaikwad](https://github.com/AarushGaikwad)
 - [Yasaswini](https://github.com/lYasaswini06)
+- [Sahithi Cinchalapu](https://github.com/sahithicinchalapu)
 - [Mohammad Hafeez](https://github.com/Hafeez-001)
 - [Jay Pant](https://github.com/Jaypant234)
 - [Luis Ruvalcaba](https://github.com/luisruval)
