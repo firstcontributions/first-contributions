@@ -34,6 +34,7 @@
 - [Josh](https://github.com/joshlovesgiraffes)
 - [Aditya Magar] (https://github.com/Aaditya-Magar)
 - [Ces](https://github.com/cessauce)
+- [Nithish C](https://github.com/NITHISH-2006)
 - [Shri Manasa](https://github.com/shrimanasa)
 - [Piumal Jayaweera](https://github.com/piumal-glitch)
 - [Tahzib Pathan](https://github.com/Tahzib-12)
