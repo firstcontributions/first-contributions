@@ -1437,6 +1437,7 @@ niceshowmini
 - [Cristian Martinez](https://github.com/cmartinezcode)
 - [Julia Meneses](https://github.com/juliamenes)
 - [Julianne Tomlinson](https://github.com/JewlzT)
+- [Julius Hoang](https://github.com/jghoang1)
 - [Jaydip Koriya](https://github.com/jaydipKoriya)
 - [Pooja] (https://github.com/pd2025)
 - [JulianoCLI](https://github.com/JulianoCLI)
