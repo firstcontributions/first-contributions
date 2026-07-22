@@ -1,4 +1,5 @@
 # Contributors
+- [Debajyoti Karmakar](https://github.com/debkarma)
 - [KingPlein] (https://github.com/KingPlein)
 - [Kashish](https://github.com/Kashish1074)
 - [Vignesh](https://github.com/vigneshsabapathi)
