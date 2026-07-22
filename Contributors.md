@@ -3219,3 +3219,4 @@ hey yo!
 - [Onjourney-J](https://github.com/Onjourney-J)
 - [lustybina](https://github.com/lustybina)
 - [boringtessa](https://github.com/boringtessa)
+- [Lorenzo Willi Hillesheim da Silva](https://github.com/lorenzowillihillesheimdasilva-ship-it)
