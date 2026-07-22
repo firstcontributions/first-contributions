@@ -22,6 +22,7 @@
 - [Yazeed Alraddadi](https://github.com/yazeed1425)
 - [smz202000](https://github.com/smz202000)
 - [gustav26-a11Y](https://github.com/gustav26-a11y)
+  [yashasdv](https://github.com/yashasdv)
 - [Kabir Maske](https://github.com/kabirmaske)
 - [Naufal Ahamed](https://github.com/NaufalAhamed-M)
 - [Luis Ruvalcaba](https://github.com/luisruval)
