@@ -14,12 +14,6 @@ jobs:
       issues: write
       
     steps:
-      # Check out the repository code
-      - name: Checkout code
-        uses: actions/checkout@v6
-        with:
-          fetch-depth: 2
-
       - name: Check if PR only modifies Contributors.md and number of changes
         id: is_only_contributors_file_changed
         uses: actions/github-script@v8
