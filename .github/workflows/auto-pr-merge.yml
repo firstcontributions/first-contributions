@@ -1,6 +1,6 @@
 name: Auto-merge PRs
 on:
-  pull_request_target:
+  pull_request:
     types: [opened, synchronize]
     paths:
       - 'Contributors.md' # <- only run if only contributors file changed
