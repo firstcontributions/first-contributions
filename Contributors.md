@@ -119,6 +119,7 @@
 - [Zhou Longjie](https://github.com/longjie2003/)
 - [Willy Wonka] (https://github.com/wonka05)
 - Soham Sen(BloodRaven5551)
+- [Nikolo Quinones](https://github.com/NikoloQuinones)
 - [Pete Barb](https://github.com/DPB22)
 - [Sandip Panigrahi](https://github.com/sandip13579)
 - [Rachit Kushwaha](https://github.com/rachit-890)
