@@ -2344,6 +2344,7 @@ niceshowmini
 - [Venkata Suresh Cherukuri](https://github.com/chvsuresh)
 - [Diego Nicolas Gimenez Irusta](https://github.com/diegogimenez04)
 - [Gustavo Henrique](https://github.com/Chucknoorms)
+- [Jesus Rodriguez] (https://github.com/jesusrdguez)
 - [Valdinei Goncalves](https://github.com/Valdinei428)
 - [Ria Bawiskar](https://github.com/RiaBawiskar)
 - [Luan Faria](https://github.com/HellKapiroto)
