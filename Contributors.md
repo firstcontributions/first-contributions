@@ -103,6 +103,7 @@
 - [Priyadharshini D](https://github.com/Priyadharshinidhandapani)
 - [Spandan Jawkhedkar](https://github.com/Spandan77)
 - [Junior SEVERE](https://github.com/JuniorSEVERE-WEB)
+- [samuell-k](https://github.com/samuell-k)
 - [Omar Yousef](https://github.com/OmarYousef05)
 - [Rit Mangal](https://github.com/ritmangal)
 - [Rohit Kumar](https://github.com/DemonDisguise)
@@ -3219,3 +3220,4 @@ hey yo!
 - [Onjourney-J](https://github.com/Onjourney-J)
 - [lustybina](https://github.com/lustybina)
 - [boringtessa](https://github.com/boringtessa)
+
