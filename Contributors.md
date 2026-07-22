@@ -3198,6 +3198,7 @@ hey yo!
 - [Anish Chakraborty](https://github.com/chakrabortyanish)
 - [Zhameer Sheraz](https://github.com/zhameersheraz)
 - [felipeqbrasil](https://github.com/felipeqbrasil)
+- [Luis Serrano](https://github.com/lserranogft)
 
 - [oozan](https://github.com/oozan)
 
