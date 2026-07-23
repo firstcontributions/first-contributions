@@ -3202,7 +3202,7 @@ hey yo!
 - [oozan](https://github.com/oozan)
 
 - [StephanR](https://github.com/stephan24484-a11y)
-
+- [LynxQ1](https://github.com/LynxQ1)
 - [Anderson de Sousa](https://github.com/andersondesousa-sys)
 - [Sawyer Lilly](https://github.com/Sawyer525-L)
 - [JULIO127-ctrl](https://github.com/JULIO127-ctrl)
