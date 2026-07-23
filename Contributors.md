@@ -2158,6 +2158,7 @@ niceshowmini
 - [Vesmorian Xavier](https://github.com/vaibhavsss)
 - [V Harini](https://github.com/vharini777)
 - [Victor Almeida](https://github.com/vma5)
+- [josh05s] (https://github.com/josh05s)
 - [Victor Meireles](https://github.com/victor-meireles)
 - [Vijay Joshi](https://github.com/VijayJoshi17)
 - [Vinayak Handa](https://github.com/vinayakhanda)
