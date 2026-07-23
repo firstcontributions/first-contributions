@@ -1,6 +1,6 @@
 # Contributors
 - [KingPlein] (https://github.com/KingPlein)
-- - [Marcia Cristina](https://github.com/clibosque-star)
+- [Marcia Cristina](https://github.com/clibosque-star)
 - [Kashish](https://github.com/Kashish1074)
 - [Vignesh](https://github.com/vigneshsabapathi)
 - [SidGod](https://github.com/starboylive) 
