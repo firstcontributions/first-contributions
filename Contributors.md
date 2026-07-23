@@ -653,6 +653,7 @@ LIUYY到此一游
 - [Alejandro](https://github.com/Jano2402)
 - [Rajashekar+Mudigonda] (https://github.com/RajshekarM/)
 - [BorisovCloud](https://github.com/BorisovCloud)
+Samuel Shih
 - [Kamdoum Loich](https://github.com/kamdoumloich)
 - [Tarun207](https://github.com/Tarun207)
 - [Oyeyemi Obaloluwa](https://github.com/sudo-init-do)
