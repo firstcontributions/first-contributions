@@ -3183,7 +3183,7 @@ hey yo!
 - [Omar Hassan](https://github.com/Omarh4700) 
 - [Vincent Ker](https://github.com/loviqu2)
 - [TejikaSingh02](https://github.com/TejikaSingh02)
-
+- [Danny Rashid](https://github.com/danny-rashd)
 - fufufuwa
 - [Sarthak](https://github.com/Sarthak05-code)
 - [Pankaj Thapa](https://github.com/pankajthapa7)
