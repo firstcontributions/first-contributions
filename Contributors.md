@@ -51,6 +51,7 @@
 - [Rupesh Thapa](https://github.com/rupeshthapa9700)
 - [Aswitocom] (https://github.com/aswitocom)
 - [Naya] (https://github.com/naya-valentine)
+- [Tuba] (https://github.com/tubacodes)
 - [Abhinav Singh Chilwal](https://github.com/abhinavchilwal-star)
 - [Vinay] (https://github.com/AtlaVinay555)
 - [Phant0m1zed](https://github.com/Phant0m1zed/)
@@ -385,19 +386,19 @@ niceshowmini
 - [Jeffin Moncy](https://github.com/Jeffin-Moncy)
 - [Manya Parikh](https://github.com/Manya2302)
 - [Dhanuja Isuru](https://github.com/Dhanujaisuru)
-- [Lavkesh Sharma]
-- Hrugveda Mane
+- [Lavkesh_Sharma]
+- [Hrugveda_Mane]
 - [TionEleven](https://github.com/shen825)
 - [VorajeeM](https://github.com/vorajeem)
 - [Abhijeet Raj](https://github.com/Abhijeet-99-dev)
 - [Shivendra Bhardwaj](https://github.com/ZenzoSH)
 - [Nitin] (https://github.com/nitin3150)
-- [Aradhya Bhagwat] (https://github.com/Aradhya-Bhagwat)
+- [Aradhya_Bhagwat] (https://github.com/Aradhya-Bhagwat)
 - [Andy0613](https://github.com/Andy0613)
 - [Novato Sensacion](https://github.com/SUS640-Z)
 - Ippy B
 - [Jefferson Brito](https://github.com/jeffbrito-dev)
--[BalrajuKonne2629](https://github.com/Balrajukonne2629/first-contributions.git)
+- [BalrajuKonne2629](https://github.com/Balrajukonne2629/first-contributions.git)
 - [Love Chauhan](https://github.com/chauhanlove271)
 - [Orji Emmanuel](https://github.com/ManuelOrji2)
 - [Yadiel Tesfaye](https://github.com/yadawprodev)
@@ -414,7 +415,7 @@ niceshowmini
 - [KimsunLy](https://github.com/Kimsunly)
 - [Eric Ye](https://github.com/eriicye)
 - [Joseph Costa](https://github.com/JoeCosta7) 
--[ Jove Amala Rathna⭐](https://github.com/joveamalarathna-s)
+- [Jove Amala Rathna⭐](https://github.com/joveamalarathna-s)
 - [Shan Asif](https://github.com/shanAweb)
 - [Lucas Santos Da Cruz](https://github.com/lsantosdacruz)
 - [Ariel Massetti](https://github.com/amassetti)
