@@ -65,6 +65,7 @@
 - [Shringar Sharan](https://github.com/shringarsharan)
 - [Rushi Rane](https://github.com/RushiRane2006)
 - [Atharv Rawat](https://github.com/atharvesting)
+- [Vlad](https://github.com/ah0R-59V0gEOWrFv)
 - [Jasminder Singh](https://github.com/Jasminder-Singh)
 - [Mahima](https://github.com/mahima44-svg)
 - [Ronit](https://github.com/ronitchiluka06)
