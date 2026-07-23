@@ -18,6 +18,7 @@
 - [xenonbomin54](https://github.com/xenonbomin54)
 - [Eklavya Shinde](https://github.com/Eklavya1919)
 - [Mayu](https://github.com/PixWizard)
+- [David-Izadi](https://github.com/David-Izadi)
 - [Prince Wang](https://github.com/noobifyLol)
 - [Yazeed Alraddadi](https://github.com/yazeed1425)
 - [smz202000](https://github.com/smz202000)
