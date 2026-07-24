@@ -12,6 +12,7 @@
 - [SalvadorCalero](https://github/SalvadorCalero)
 - [Ashish Namdeo](https://github.com/ashishnamdeo16)
 - [Kevin vataliya]
+- [Rohitth](https://github.com/Rohitth2405)
 - [Piyush Pritam Sethi](https://github.com/piyush37-6)
 - [Aryan-Londhe](https://github.com/Aryan-Londhe)
 - [Amir Qafari] (github.com/qafariamirhossein)
