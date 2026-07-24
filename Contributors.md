@@ -13,6 +13,7 @@
 - [Sandeep Mahato](https://github.com/sandeepmahato1)
 - [Dinesh](https://github.com/ad-Dinesh)
 - [Ashraf Naeem](https://github.com/ashrafnaeem1)
+- [Safwan Intisar](https://github.com/saftech2911)
 - [Ayan Khan](https://github.com/ThunderKhan)
 - [DON-Saji](https://github.com/Don-Saji/)
 - [Tarun Rai](https://github.com/Tarun995)
