@@ -6,6 +6,7 @@
 - [KingPlein] (https://github.com/KingPlein)
 - [Marcia Cristina](https://github.com/clibosque-star)
 - [Kashish](https://github.com/Kashish1074)
+- [sristikundu1](https://github.com/sristikundu1)
 - [ShohebMomin](https://github.com/ShohebMomin)
 - [Vignesh](https://github.com/vigneshsabapathi)
 - [APB](https://github.com/amandapbrown)
