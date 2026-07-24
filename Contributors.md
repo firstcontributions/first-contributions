@@ -3219,3 +3219,4 @@ hey yo!
 - [Onjourney-J](https://github.com/Onjourney-J)
 - [lustybina](https://github.com/lustybina)
 - [boringtessa](https://github.com/boringtessa)
+- [Afnan Bannihatti Ramzan](https://github.com/Afnan-0206)
