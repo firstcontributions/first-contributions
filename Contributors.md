@@ -38,6 +38,7 @@
 - [smz202000](https://github.com/smz202000)
 - [gustav26-a11Y](https://github.com/gustav26-a11y)
 - [Kabir Maske](https://github.com/kabirmaske)
+- [Sarweshwar Buddolla] (https://github.com/sarweshwargoud)
 - [Naufal Ahamed](https://github.com/NaufalAhamed-M)
 - [Kalpesh Patil](https://github.com/kalpesh172000)
 - [Luis Ruvalcaba](https://github.com/luisruval)
