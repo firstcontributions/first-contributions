@@ -3101,17 +3101,10 @@ bhumika
 - [Santiago Satragni](https://github.com/santisatragni)
 - [Sahil Dhanvij](https://github.com/Sahil4636)
 - - [01100001melia](https://github.com/01100001melia)
-<<<<<<< HEAD
 - [Ajwa Shahid](https://github.com/ajwashahid150-source)
-=======
 - [Shawon Dey](https://github.com/shawon-dey188)
->>>>>>> 0336b03fb650815131c63deef0e6780b7e5342e6
->>>>>>>
->>>>>>> 
 - [rod-liu-id](https://github.com/rod-liu-id)
-<<<<<<< HEAD
 - [Paridhi Jaiswal](https://github.com/Paridhi75)
-=======
 - [ViquinhoDev](https://github.com/viquinhodev)
 - [Ayush Aman](https://github.com/Ayushaman1291)
 - [Roblox](https://github.com/leozera-onfire)
@@ -3171,6 +3164,7 @@ bhumika
 - [Mufaizul Hassan](https://github.com/MufaizulHassan)
 - [Aki-new](https://github.com/Aki-new)
 - [penyutti-crypto](https://github.com/penyutti-crypto)
+- [Pranav Mishra](https://github.com/pranavmishra498-dev)
 - [devotedhruv] https://github.com/devotedhruv
 - [Naxisbeast] https://github.com/Naxisbeast
 - [Navya-Jindal](https://github.com/Navyajindal3)
