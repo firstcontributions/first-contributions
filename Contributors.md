@@ -28,6 +28,7 @@
 - [Tejaswini SL](https://github.com/Tej131-hue)
 - [Atif Mazhar](https://github.com/AtifMazhar-01)
 - [Pavani Satwika](https://github.com/satwii)
+- [Preetham Rao](https://github.com/PreethamYT)
 - [A. Vasanth](https://github.com/vasanth-cloud)
 - [clypse](https://github.com/NaveenGadugina678)
 - [dynvcc](https://github.com/dynvcc)
