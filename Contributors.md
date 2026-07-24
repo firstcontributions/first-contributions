@@ -364,6 +364,7 @@ niceshowmini
 - [Nicholas Kimmel] (https://github.com/Nicholas-Kimmel)
 - [Jaeyoon Ha](https://github.com/JaeYoonHa)
 - [Thant Sin Htun](https://github.com/Thantsin9999)
+- [Min Thant Kyaw](https://github.com/Mrmuffs05)
 - [Diabetic Donut](https://github.com/DiabeticDonut)
 - [dexone](https://github.com/dexone)
 - [Rasha Sharma](https://github.com/rashasharma)
