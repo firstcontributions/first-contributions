@@ -20,6 +20,7 @@ jobs:
         with:
           ref: ${{ github.event.pull_request.head.sha }}
           fetch-depth: 2
+          allow-unsafe-pr-checkout: true
 
       - name: Check if PR only modifies Contributors.md and number of changes
         id: is_only_contributors_file_changed
