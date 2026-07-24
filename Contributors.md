@@ -385,6 +385,7 @@ niceshowmini
 - [Jeffin Moncy](https://github.com/Jeffin-Moncy)
 - [Manya Parikh](https://github.com/Manya2302)
 - [Dhanuja Isuru](https://github.com/Dhanujaisuru)
+- [Shubham Rathod](https://github.com/Rathodshubham0)
 - [Lavkesh Sharma]
 - Hrugveda Mane
 - [TionEleven](https://github.com/shen825)
