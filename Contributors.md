@@ -107,6 +107,7 @@
 - [Rit Mangal](https://github.com/ritmangal)
 - [Rohit Kumar](https://github.com/DemonDisguise)
 - [Sirish Upadhyay](https://github.com/jemanalytics)
+- [KimThea]https://github.com/Kimthea1221
 - [Satya](https://github.com/satyaxo)
 - [OfficialSpaceship](https://github.com/OfficialSpaceship)
 - [Aditya](https://github.com/aditya02x)
