@@ -2873,7 +2873,6 @@ niceshowmini
   -Chandana Jagadish
 - [Janhavi Biradar](https://github.com/janhavibiradar123)
   -Chandana Jagadish
-
 [ninjitsuytber](https://github.com/ninjitsuytber)
 
 - [Vanshika Devi](https://github.com/Vanshika-devi)
@@ -3149,7 +3148,8 @@ bhumika
 - [Priyakumari](https://github.com/priyarani8281)
 - [Rafael912785](https://github.com/Rafael912785)
 - [lucrlpk-ai](https://github.com/lucrlpk-ai)
-- [codewithsyedabdullah](https://github.com/codewithsyedabdullah)- [Sriram1576](https://github.com/Sriram1576)
+- [codewithsyedabdullah](https://github.com/codewithsyedabdullah)
+- [Sriram1576](https://github.com/Sriram1576)
 - [Laura Doilea](https://github.com/lauradoilea)
 - [legaliercorp-boop](https://github.com/legaliercorp-boop)
 - [shinichihirao](https://github.com/shinichihirao)
@@ -3195,7 +3195,9 @@ bhumika
 -[Rishab](https://github.com/ItsRishabDeveloper)
 - [caique738-hash](https://github.com/caique738-hash)
 - [Pineapplex8](https://github.com/Pineapplex8)
+- [Siddhi Sharma](https://github.com/siddhisharma3671)
 - [Rinkal Mishra](https://github.com/RinkalMishra03)
+- [Huiyang Qin](https://github.com/Quashy)
 - [Palak Kanwar Chouhan](https://github.com/itsypalak53)
 - [Huiyang Qin](https://github.com/Quashy)
 - [keenier](https://github.com/keenier)
