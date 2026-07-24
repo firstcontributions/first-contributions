@@ -3125,6 +3125,7 @@ bhumika
 - [Navya Vashishth](https://github.com/Navya2057)
 - [Farhan Primaditya](https://github.com/farprima)
 - [Azeen Ehsan](https://github.com/azeenehsan09-afk)
+- [Asomoh18](https://github.com/Asomoh18/)
 - [Praneeth Sai](https://github.com/PraneethSai1810)
 - [victorrobertopiovesan-ui](https://github.com/victorrobertopiovesan-ui)
 - [Long Le] (https://github.com/longle7)
