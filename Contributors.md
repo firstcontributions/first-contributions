@@ -33,6 +33,7 @@
 - [dynvcc](https://github.com/dynvcc)
 - [Josh](https://github.com/joshlovesgiraffes)
 - [Aditya Magar] (https://github.com/Aaditya-Magar)
+- [Yatharth Sharma](https://github.com/YatharthSharma0)
 - [Ces](https://github.com/cessauce)
 - [Shri Manasa](https://github.com/shrimanasa)
 - [Piumal Jayaweera](https://github.com/piumal-glitch)
