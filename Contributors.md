@@ -45,6 +45,7 @@
 - [Aditya Magar] (https://github.com/Aaditya-Magar)
 - [José Sá] (https://github.com/josesa2004)
 - [Ces](https://github.com/cessauce)
+- [Nithish C](https://github.com/NITHISH-2006)
 - [Shri Manasa](https://github.com/shrimanasa)
 - [Piumal Jayaweera](https://github.com/piumal-glitch)
 - [Tahzib Pathan](https://github.com/Tahzib-12)
