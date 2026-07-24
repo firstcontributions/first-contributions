@@ -61,7 +61,7 @@ Par exemple :
 git switch -c add-koffi-sani
 ```
 
-(Le nom de la branche n'a pas besoin de contenir le terme _add_, mais il est mieux de l'inclure car l'objectif de cette branche est d'ajouter votre nom à une liste.)
+(Le nom de la branche n'a pas besoin de contenir le terme _add_, mais il vaut mieux l'inclure car l'objectif de cette branche est d'ajouter votre nom à une liste.)
 
 <details> 
 <summary> <strong>Si vous rencontrez une erreur avec git switch, cliquez ici :</strong> </summary>
@@ -78,7 +78,7 @@ git checkout -b nom-de-ta-nouvelle-branche
 
 ## Effectuez les modifications nécessaires et enregistrez-les
 
-Ouvrez le fichier `Contributors.md` dans un éditeur de texte, ajoutez-y votre nom, et enregistrez-le. Ne l’ajoutez pas au début ou à la fin du fichier, mais quelque part au milieu.
+Ouvrez le fichier `Contributors.md` dans un éditeur de texte, ajoutez-y votre nom et enregistrez-le. Ne l’ajoutez pas au début ou à la fin du fichier, mais quelque part au milieu.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="Sortie de la commande git status" />
 
@@ -88,7 +88,7 @@ Si vous ouvrez l'invite de commande et que vous exécutez la commande `git statu
 git add Contributors.md
 ```
 
-Maintenant faites un commit de ces modifications avec la commande `git commit`:
+Maintenant faites un commit de ces modifications avec la commande `git commit` :
 
 ```bash
 git commit -m "Add <votre-nom> to Contributors list"
@@ -106,7 +106,7 @@ git push -u origin <nom-de-votre-branche>
 
 en remplaçant `<nom-de-votre-branche>` avec le nom de la branche précédemment créée.
 
-<details> <summary> <strong>Si tu obtiens une erreur au moment de pousser, clique ici :</strong> </summary>
+<details> <summary> <strong>Si vous obtienez une erreur au moment de pousser, cliquez ici :</strong> </summary>
 
 - ### Erreur d’authentification
   <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
@@ -131,7 +131,7 @@ Sinon, vous continuerez de devoir entrer votre mot de passe et vous obtiendrez u
 
 ## Soumettez votre contribution pour révision
 
-Si vous vous rendez sur votre répertoire sur Github, vous verrez un bouton `Compare & pull request`. Cliquez dessus.
+Si vous vous rendez sur votre répertoire sur GitHub, vous verrez un bouton `Compare & pull request`. Cliquez dessus.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="Créer une pull request" />
 
@@ -152,7 +152,7 @@ D'abord, basculez sur la branche main
 git checkout main
 ```
 
-Et ajouter l'url de mon répertoire comme `upstream remote url` :
+Et ajoutez l'url de mon répertoire comme `upstream remote url` :
 
 ```bash
 git remote add upstream https://github.com/Roshanjossey/first-contributions
@@ -170,7 +170,7 @@ Ici nous cherchons toutes les modifications dans mon embranchement (upstream rem
 git rebase upstream/main
 ```
 
-Ici nous appliquons toutes les modifications que vous avez récupéré à la branche main. Si vous poussez la branche main maintenant, votre embranchement aussi aura les modifications :
+Ici nous appliquons toutes les modifications que vous avez récupérées à la branche main. Si vous poussez la branche main maintenant, votre embranchement aussi aura les modifications :
 
 ```bash
 git push origin main
@@ -178,7 +178,7 @@ git push origin main
 
 Avertissement: Cette fois, vous poussez les modifications au répertoire distant appelé origin.
 
-A cet instant j'ai fusionné votre branche `<add-votre-nom>` avec ma branche main, et vous avez fusionné ma branche main avec votre branche main. Votre branche `<add-votre-nom>` n'est plus utile, donc vous pouvez la supprimer :
+À cet instant j'ai fusionné votre branche `<add-votre-nom>` avec ma branche main, et vous avez fusionné ma branche main avec votre branche main. Votre branche `<add-votre-nom>` n'est plus utile, donc vous pouvez la supprimer :
 
 ```bash
 git branch -d <add-votre-nom>
