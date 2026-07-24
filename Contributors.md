@@ -35,6 +35,7 @@
 - [gustav26-a11Y](https://github.com/gustav26-a11y)
 - [Kabir Maske](https://github.com/kabirmaske)
 - [Naufal Ahamed](https://github.com/NaufalAhamed-M)
+- [Kalpesh Patil](https://github.com/kalpesh172000)
 - [Luis Ruvalcaba](https://github.com/luisruval)
 - [Tejaswini SL](https://github.com/Tej131-hue)
 - [Atif Mazhar](https://github.com/AtifMazhar-01)
