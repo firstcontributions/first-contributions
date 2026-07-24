@@ -735,6 +735,7 @@ niceshowmini
 - [Haarush](https://github.com/Haarush2006)
 - [stindop]
   -any changes
+- [Amogh shrivastav](https://github.com/amogh8021)
 - [Kummithi Thanvi](https://github.com/Thanvi-27)
 - [mika943](https://github.com/mika943)
 - [Swetha Satheesh](https://github.com/Serenehue)
