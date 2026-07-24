@@ -186,12 +186,6 @@ Syed Omer
 - [dounoy](https://github.com/dounoy)
 - [Rohit Sharma](https://github.com/rohit357)
 - [Bhavin Shankur](https://github.com/exobhavinss-sketch)
-- [Pavan Kumar](https://github.com/pavankumargp8)
-- [zerlinpi](https://github.com/zerlinpi)
-- [Ishani](https://github.com/ishani1813)
-
-# Lucas Santos
-
 - [Aarush Gaikwad](https://github.com/AarushGaikwad)
 - [Yasaswini](https://github.com/lYasaswini06)
 - [Sahithi Cinchalapu](https://github.com/sahithicinchalapu)
@@ -3234,6 +3228,7 @@ bhumika
 - [eduspda](https://github.com/eduspda-sys)
 - [Arnav Sharma](https://github.com/arnavsharma09)
 - [UnknownIDD](https://github.com/UnknownIDD)
+- [Hannn111111](https://github.com/Hannn111111)
 - [sable-gayatri](https://github.com/sable-gayatri)
 - [Tariq Alharbi](https://github.com/tareq1148)
 - [Akhila K C] (https://github.com/Akhs77)
