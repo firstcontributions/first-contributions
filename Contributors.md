@@ -3239,6 +3239,7 @@ hey yo!
 - [Htet Aung Win](https://github.com/HAW777)
 - [Star](https://github.com/star920822)
 - [100jinwoo001](https://github.com/100jinwoo001)
+- [haaszbence](https://github.com/HaaszBence)
 - [Onjourney-J](https://github.com/Onjourney-J)
 - [lustybina](https://github.com/lustybina)
 - [boringtessa](https://github.com/boringtessa)
