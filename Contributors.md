@@ -84,6 +84,7 @@
 - [Vishnu Pratap](https://github.com/vishnupratap3790)
 - [Abdullah](https://github.com/md-abdullah-al-ahad)
 - [Mech-who](https://github.com/Mech-Who)
+- [Rohit Singh] (https://github.com/rohit-singh-3200)
 - [Noureddin Sameer](https://github.com/NoureddinSameer)
 - [Guduru Chandhra Siddharrdha](https://github.com/Chandhra2004)
 -[Rugved Padhye](https://github.com/rugved-21)
