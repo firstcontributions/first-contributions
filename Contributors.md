@@ -61,6 +61,7 @@
 - [Abhinav Singh Chilwal](https://github.com/abhinavchilwal-star)
 - [Vinay] (https://github.com/AtlaVinay555)
 - [Phant0m1zed](https://github.com/Phant0m1zed/)
+-[Aryan](https://github.com/Aryan007-dev)
 - [yellowstick]
 - [Adi Arora] https://github.com/adiarora06
 - [SusheelKrishna-Doraemon](https://github.com/JabadeSusheelKrishna)
