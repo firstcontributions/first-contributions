@@ -1193,6 +1193,7 @@ niceshowmini
 - [Divija2612](https://https://github.com/Divija2612)
 - [Divyam Pariyar](https://github.com/div-html)
 - [Divyansh Shrivastava](https://github.com/divyanshshrivastava)
+- [Bhaghyesh Shah](https://github.com/Devnexys)
 - [Divyanshu Tiwari](https://github.com/DivyanshuTiwari12)
 - [Kanala Shyam Kumar Reddy](https://github.com/Shyam-R12)
 - [Divyom Srivastava](https://github.com/DivyomSrivastava)
