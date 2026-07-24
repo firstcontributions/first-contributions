@@ -32,6 +32,7 @@
 - [clypse](https://github.com/NaveenGadugina678)
 - [dynvcc](https://github.com/dynvcc)
 - [Josh](https://github.com/joshlovesgiraffes)
+- [Steven](https://github.com/smcclenic)
 - [Aditya Magar] (https://github.com/Aaditya-Magar)
 - [Ces](https://github.com/cessauce)
 - [Shri Manasa](https://github.com/shrimanasa)
