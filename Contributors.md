@@ -3198,6 +3198,7 @@ bhumika
 - [Siddhi Sharma](https://github.com/siddhisharma3671)
 - [Rinkal Mishra](https://github.com/RinkalMishra03)
 - [Huiyang Qin](https://github.com/Quashy)
+- [Shruti Chauhan](https://github.com/077Shruti)
 - [Palak Kanwar Chouhan](https://github.com/itsypalak53)
 - [Huiyang Qin](https://github.com/Quashy)
 - [keenier](https://github.com/keenier)
