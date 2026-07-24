@@ -840,6 +840,7 @@ niceshowmini
 - [Harish-Peddi](https://github.com/hiharish)
 - [Roberto-Lopez](https://github.com/superrober1)
 - [Roum1212](https://github.com/Roum1212)
+- [Weerakorn-Leartsirisorn](https://github.com/Weerakorn-Leartsirisorn)
 - [ojasalai27](https://github.com/ojasalai27)
 - [Marcus daymon](https://github.com/marcus-daymon)
 - [dweep-js](https://github.com/dweep-js)
