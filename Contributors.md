@@ -2042,6 +2042,7 @@ niceshowmini
 - [Srinithi D](https://github.com/Srinithid0109)
 - [Srishti Bhatia](https://github.com/srish0102)
 - [Siddhesh K](https://github.com/iamsiddhesh-dev)
+- [Srikar Gudidevuni](https://github.com/srikar7803)
 - [Srishti Malaviya](https://github.com/Srishti918)
 - [Sriteja01](https://github.com/Sriteja01)
 - [SRupia](https://github.com/SRupia)
