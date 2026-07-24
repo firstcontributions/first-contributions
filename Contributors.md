@@ -37,6 +37,7 @@
 - [clypse](https://github.com/NaveenGadugina678)
 - [dynvcc](https://github.com/dynvcc)
 - [Josh](https://github.com/joshlovesgiraffes)
+- [Steven](https://github.com/smcclenic)
 - [Aditya Magar] (https://github.com/Aaditya-Magar)
 - [José Sá] (https://github.com/josesa2004)
 - [Ces](https://github.com/cessauce)
