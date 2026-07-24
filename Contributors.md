@@ -3157,6 +3157,7 @@ bhumika
 - [Saurav Thakur](https://github.com/sauravthakurq)
 - [Manguinho](https://github.com/manguinho-cmyk)
 - [Dmytro](https://github.com/dmytroyunyk)
+-[Rishab](https://github.com/ItsRishabDeveloper)
 - [caique738-hash](https://github.com/caique738-hash)
 - [Pineapplex8](https://github.com/Pineapplex8)
 - [Rinkal Mishra](https://github.com/RinkalMishra03)
