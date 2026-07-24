@@ -3156,6 +3156,7 @@ bhumika
 - [camisetasfratelli-droid](https://github.com/camisetasfratelli-droid)
 - [Trinh Quang Huy](https://github.com/huytq1412)
 - [Nabila Sharif](https://github.com/nabila-sharif)
+- [Leonardo Lins](https://github.com/leonardolins)
 - [Deepanshi Mahajan](https://github.com/DeepanshiMahajan)
 - [Manisha](https://github.com/tolukattemanisha)
 - [Saumya Kushwaha](https://github.com/saumya-2005)
