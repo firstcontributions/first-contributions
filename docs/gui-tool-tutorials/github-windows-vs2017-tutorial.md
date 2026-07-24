@@ -17,7 +17,7 @@ If you don't have Visual Studio 2017 on your machine, [install it](https://www.v
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs2017-tutorial/fork.png" alt="fork this repository" />
 
-Fork this repository by clicking on the fork button on the top of this page. This will create of copy of this repository in your GitHub account.
+Fork this repository by clicking on the fork button on the top of this page. This will create a copy of this repository in your GitHub account.
 
 GitHub keeps track of the relationship between your repo and the one you forked it from.  You can think of your repo as a working copy.
 
