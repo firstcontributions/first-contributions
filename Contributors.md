@@ -1,5 +1,6 @@
 # Contributors
 - [KingPlein] (https://github.com/KingPlein)
+- [Science-33](https://github.com/Science-33)
 - [Kashish](https://github.com/Kashish1074)
 - [Vignesh](https://github.com/vigneshsabapathi)
 - [SidGod](https://github.com/starboylive) 
