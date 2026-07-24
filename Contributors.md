@@ -2110,6 +2110,7 @@ niceshowmini
 - [hwl-0710](https://github.com/hwl-0710)
 - [Swapnil Lakra](https://github.com/Swapni-1)
 - [Swarnali Saha](https://github.com/swarnalism)
+- [Sambitasterio](https://github.com/Sambitasterio)
 - [Swastik Sinha](https://github.com/swastiksinha1)
 - [Swastika Gupta](https://github.com/Swastika-311)
 - [Swathi Pulipati](https://github.com/SwathiPulipati)
