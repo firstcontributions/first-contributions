@@ -25,6 +25,7 @@
 - [Safwan Intisar](https://github.com/saftech2911)
 - [Ayan Khan](https://github.com/ThunderKhan)
 - [DON-Saji](https://github.com/Don-Saji/)
+- [Rohan Mukka](https://github.com/RohanMukka)
 - [Tarun Rai](https://github.com/Tarun995)
 - [Yitian Liao](https://github.com/yitianliao888)
 - [Ankur Shinde](https://github.com/ankurshnde)
