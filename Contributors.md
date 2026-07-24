@@ -35,6 +35,7 @@
 - [Aditya Magar] (https://github.com/Aaditya-Magar)
 - [Ces](https://github.com/cessauce)
 - [Shri Manasa](https://github.com/shrimanasa)
+- [Hemang Rattra](https://github.com/HemangRattra2)
 - [Piumal Jayaweera](https://github.com/piumal-glitch)
 - [Tahzib Pathan](https://github.com/Tahzib-12)
 -[Calvin Moses](https://github.com/codeecal)
