@@ -2547,6 +2547,7 @@ niceshowmini
 - [Tejas B V](https://github.com/tejasbv46)
 - [Luiz Gustavo](https://github.com/luizg-martins)
 - [mlv](https://github.com/marcelo-mlv)
+- [Josue_Batz]
 - [Manas Rajdeep](https://github.com/manasrajdeep)
 - [Sunir Ibrahim](https://github.com/sunir-ibrahim)
 - [Joshua Muinde] (https://github.com/Joshua-Muinde)
