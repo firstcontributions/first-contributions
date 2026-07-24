@@ -2,7 +2,6 @@
 - [KingPlein] (https://github.com/KingPlein)
 - [Kashish](https://github.com/Kashish1074)
 - [Vignesh](https://github.com/vigneshsabapathi)
-- [ai3os](https://github.com/ai3os)
 - [SidGod](https://github.com/starboylive) 
 - [Tejika Singh](https://github.com/TejikaSingh02)
 - [Siddh Tyagi](https://github.com/siddhtyagi18)
