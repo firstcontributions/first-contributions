@@ -1655,6 +1655,7 @@ niceshowmini
 - [Niharika Gupta](https://github.com/guptaniharika8953)
 - [Nikhil Itaudiya](https://github.com/23f2002113)
 - [R Mubashir Sheriff](https://github.com/mubashir-73)
+- [bryanlcy](https://github.com/bryanlcy)
 - [Nikhil Kumar Singh](https://github.com/DarkGod04)
 - [R Mubashir Sheriff](https://github.com/mubashir-73)
 - [Arav](https://github.com/Arav-Agarwal18)
