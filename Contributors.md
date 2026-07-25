@@ -1233,6 +1233,7 @@ niceshowmini
 - [DimondO20](https://github.com/DimondO20)
 - [Disha520](https://github.com/Disha520)
 - [Divija2612](https://https://github.com/Divija2612)
+- [Divya Thomas](https://github.com/Divya-Elsa)
 - [Divyam Pariyar](https://github.com/div-html)
 - [Divyansh Shrivastava](https://github.com/divyanshshrivastava)
 - [Bhaghyesh Shah](https://github.com/Devnexys)
