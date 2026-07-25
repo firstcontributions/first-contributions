@@ -99,6 +99,7 @@
 - [Jasminder Singh](https://github.com/Jasminder-Singh)
 - [Mahima](https://github.com/mahima44-svg)
 - [Ronit](https://github.com/ronitchiluka06)
+- [Aditya Adarsh](https://github.com/AdityaAdarsh25)
 - [Raj Jadhav](https://github.com/Raj-Jadhav/)
 - [Patrick Shehata](https://github.com/rekozzz)
 - [Mehul Sinha](https://github.com/MehulEXE)
