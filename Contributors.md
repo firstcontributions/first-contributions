@@ -2,6 +2,7 @@
 
 - [hosseinghorbani](https://github.com/hosseinghorbani0) 
 nathan practice here
+- [Trisha Hingu](https://github.com/trishahingu)
 - [jershon](https://github.com/jershonjefray-tech)
 - [Shindy Yuliyatini](https://github.com/shindyyuliyatini)
 - [KingPlein] (https://github.com/KingPlein)
