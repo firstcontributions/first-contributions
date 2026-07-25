@@ -4,6 +4,7 @@
 - [jershon](https://github.com/jershonjefray-tech)
 - [Shindy Yuliyatini](https://github.com/shindyyuliyatini)
 - [KingPlein] (https://github.com/KingPlein)
+- [Aavash] (https://github.com/aavashX17)
 - [Marcia Cristina](https://github.com/clibosque-star)
 - [Kashish](https://github.com/Kashish1074)
 - [sristikundu1](https://github.com/sristikundu1)
