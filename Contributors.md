@@ -99,6 +99,7 @@
 - [Mahima](https://github.com/mahima44-svg)
 - [Ronit](https://github.com/ronitchiluka06)
 - [Raj Jadhav](https://github.com/Raj-Jadhav/)
+- [Patrick Shehata](https://github.com/rekozzz)
 - [Mehul Sinha](https://github.com/MehulEXE)
 - [Shivangani Sinha](https://github.com/shii002)
 - [Atishay Jain](https://github.com/Atishay17)
