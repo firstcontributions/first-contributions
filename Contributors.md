@@ -69,6 +69,7 @@ nathan practice here
 - [Shri Manasa](https://github.com/shrimanasa)
 - [Piumal Jayaweera](https://github.com/piumal-glitch)
 - [Tahzib Pathan](https://github.com/Tahzib-12)
+- [Sinchana B M](https://github.com/sinchanabm-ux)
 - [Calvin Moses](https://github.com/codeecal)
 - [mcprescribed](https://github.com/mcprescribed/first-contributions)
 - [Asvidal](https://github.com/Asvidal)
