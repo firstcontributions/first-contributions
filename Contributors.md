@@ -1,6 +1,7 @@
 # Contributors
 
 - [hosseinghorbani](https://github.com/hosseinghorbani0) 
+nathan practice here
 - [jershon](https://github.com/jershonjefray-tech)
 - [Shindy Yuliyatini](https://github.com/shindyyuliyatini)
 - [KingPlein] (https://github.com/KingPlein)
@@ -93,12 +94,14 @@
 - [Yoh Brain](https://github.com/Yoh-Brain)
 //Mohamed//
 - [Shringar Sharan](https://github.com/shringarsharan)
+- [Ahmed Awad](https://github.com/ahmedawad72)
 - [Rushi Rane](https://github.com/RushiRane2006)
 - [Atharv Rawat](https://github.com/atharvesting)
 - [Vlad](https://github.com/ah0R-59V0gEOWrFv)
 - [Jasminder Singh](https://github.com/Jasminder-Singh)
 - [Mahima](https://github.com/mahima44-svg)
 - [Ronit](https://github.com/ronitchiluka06)
+- [Aditya Adarsh](https://github.com/AdityaAdarsh25)
 - [Raj Jadhav](https://github.com/Raj-Jadhav/)
 - [Patrick Shehata](https://github.com/rekozzz)
 - [Mehul Sinha](https://github.com/MehulEXE)
@@ -3307,3 +3310,7 @@ hey yo!
 - [Sushant Kataria](https://github.com/sushant-kataria)
 - [kaose67-droid](https://github.com/kaose67-droid)
 - [aakarsh-34](https://github.com/aakarsh-34)
+- [tadakazukawani](https://github.com/tadakazukawani)
+- [Ezzah-git](https://github.com/Ezzah-git)
+- [Derek Allan Boman](https://github.com/derekallanboman)
+- [Oindreela Saha](https://github.com/oindreela04)
