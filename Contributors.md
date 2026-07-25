@@ -3336,5 +3336,6 @@ hey yo!
 - - [Nyx Tesla](https://github.com/rmsm369-tech)
 - - [kshitij haibate](https://github.com/kshitijraj913)
 - [Rajeev Nandan Damarla](https://github.com/Rajeev91691)
+- [HellfireDevs](https://github.com/HellfireDevs)
 - [Beatoff](https://github.com/Beatoff)
 - [Amer-css](https://github.com/Amer-css)
