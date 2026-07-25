@@ -3308,4 +3308,5 @@ hey yo!
 - [Sushant Kataria](https://github.com/sushant-kataria)
 - [kaose67-droid](https://github.com/kaose67-droid)
 - [tadakazukawani](https://github.com/tadakazukawani)
+- [Ezzah-git](https://github.com/Ezzah-git)
 - [Derek Allan Boman](https://github.com/derekallanboman)
