@@ -72,6 +72,7 @@ nathan practice here
 - [Calvin Moses](https://github.com/codeecal)
 - [mcprescribed](https://github.com/mcprescribed/first-contributions)
 - [Asvidal](https://github.com/Asvidal)
+- [Park Pessimist](https://github.com/puphera-stack)
 - [Ayesha Asif](https://github.com/ayeshaasif12089-ship-it)
 - [Atul Agrawal](https://github.com/atul913)
 - [Erick Chagas](https://github.com/ericktechx)
