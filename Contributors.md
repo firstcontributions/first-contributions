@@ -73,6 +73,7 @@ nathan practice here
 - [Asvidal](https://github.com/Asvidal)
 - [Ayesha Asif](https://github.com/ayeshaasif12089-ship-it)
 - [Atul Agrawal](https://github.com/atul913)
+- [Erick Chagas](https://github.com/ericktechx)
 - [Siddharth](https://github.com/Siddharthx21s)
 -[Colin](https://github.com/colinbern8)
 -[Wendy](https://github.com/zhaozixuan613)
