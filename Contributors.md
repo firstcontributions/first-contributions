@@ -3306,4 +3306,4 @@
 - [tadakazukawani](https://github.com/tadakazukawani)
 - [Ezzah-git](https://github.com/Ezzah-git)
 - [Derek Allan Boman](https://github.com/derekallanboman)
-- Awa Penn Strength/Strength17
+- [Awa Penn Strength](https://github.com/Strength17)
