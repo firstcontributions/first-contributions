@@ -1008,6 +1008,7 @@ niceshowmini
 - [Amishi Agrawal](https://github.com/amishiagrawal)
 - [Joshith Gadi] ()
 - [Dani Noble] (https://github.com/dnvdevx)
+- [Edward](https://github.com/Ed3110)
 - [JulianGStudium](https://github.com/JulianGStudium)
 - [Ethan Boya](https://github.com/ethanboya)
 - [AmberStars](https://github.com/AmberStars)
