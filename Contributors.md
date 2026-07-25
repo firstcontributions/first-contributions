@@ -12,6 +12,7 @@ nathan practice here
 - [Marcia Cristina](https://github.com/clibosque-star)
 - [Kashish](https://github.com/Kashish1074)
 - [sristikundu1](https://github.com/sristikundu1)
+- Vijay-Karthi-Kayan | (https://github.com/Vijay-Karthikayan)
 - [ShohebMomin](https://github.com/ShohebMomin)
 - [Vignesh](https://github.com/vigneshsabapathi)
 - [Madhumitha](https://github.com/madhumithakk01)
