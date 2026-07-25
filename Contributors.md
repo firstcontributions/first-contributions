@@ -88,6 +88,7 @@ nathan practice here
 -[Aryan](https://github.com/Aryan007-dev)
 - [yellowstick]
 - [Adi Arora] https://github.com/adiarora06
+- [Thomas Azzalin](https://github.com/ThomasAzzalin)
 - [SusheelKrishna-Doraemon](https://github.com/JabadeSusheelKrishna)
 - [suvinn](https://github.com/suvinn)
 - [Rajeev Nandan Damarla](https://github.com/Rajeev91691)
