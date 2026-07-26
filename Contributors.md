@@ -1,5 +1,6 @@
 # Contributors
   This is a testing
+- [Fahad Shaikh](https://github.com/FahadS5534)
 - [Suchay Joshi] (https://github.com/sucxay)
 - [hosseinghorbani](https://github.com/hosseinghorbani0) 
 nathan practice here
