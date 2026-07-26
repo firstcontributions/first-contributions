@@ -10,6 +10,7 @@ nathan practice here
 - [Shindy Yuliyatini](https://github.com/shindyyuliyatini)
 - [KingPlein] (https://github.com/KingPlein)
 - [Aavash] (https://github.com/aavashX17)
+- [Vaishnavi S V](https://github.com/vaish-sv22)
 - [Marcia Cristina](https://github.com/clibosque-star)
 - [Kashish](https://github.com/Kashish1074)
 - [sristikundu1](https://github.com/sristikundu1)
