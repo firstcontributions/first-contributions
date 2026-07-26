@@ -1,5 +1,5 @@
 # Contributors
-  Vayu Datta
+-[Vayu Datta](https://github.com/vayudattasamasthanik-rgb)
 
 - [Fahad Shaikh](https://github.com/FahadS5534)
 - [Suchay Joshi] (https://github.com/sucxay)
