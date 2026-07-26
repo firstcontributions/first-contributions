@@ -3352,5 +3352,6 @@ hey yo!
 - [Vishal Kumar](https://github.com/vishal-1401)
 - [Suman Shrestha](https://github.com/sumancfc)
 - [Marilio Almeida](https://github.com/marilioalmeida)
+- [Dinesh Perera](https://github.com/Dinesh-Perera-X)
 - [Sungmin Kwak](https://github.com/expect4568)
 - [Le Xuan Duc](https://github.com/lxndc)
