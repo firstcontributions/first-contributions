@@ -3318,7 +3318,7 @@ hey yo!
 - [Zhameer Sheraz](https://github.com/zhameersheraz)
 - [felipeqbrasil](https://github.com/felipeqbrasil)
 - [Luis Serrano](https://github.com/lserranogft)
-
+- [Yusuf(Ghazi)](https://github.com/Yusuf-9198)
 - [oozan](https://github.com/oozan)
 
 - [StephanR](https://github.com/stephan24484-a11y)
