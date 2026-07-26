@@ -3377,3 +3377,4 @@ hey yo!
 - [Monica M S](https://github.com/Monicamathursivakumar) 
 - [Oliver Radfahrer](https://github.com/hotchomat)
 - [Shellfish](https://github.com/shellfish27)
+- [Nilton Segundo](https://github.com/niltonsegundo4-collab)
