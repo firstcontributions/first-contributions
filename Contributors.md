@@ -3369,3 +3369,4 @@ hey yo!
 - [zinedineejey-art](https://github.com/zinedineejey-art)
 - [Nakul Sharma](https://github.com/nakulsharma02)
 - [Priya Dharshini](https://github.com/Dharshukutti)
+- [Samuel Manik](https://github.com/5amuel02)
