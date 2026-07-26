@@ -61,6 +61,7 @@ nathan practice here
 - [P. Pradeep](https://github.com/pradeep123935)
 - [clypse](https://github.com/NaveenGadugina678)
 - [dynvcc](https://github.com/dynvcc)
+-[PeeDee](https://github.com/juanmapeedee)
 - [Josh](https://github.com/joshlovesgiraffes)
 - [Steven](https://github.com/smcclenic)
 - [Preetham Rao](https://github.com/PreethamYT)
