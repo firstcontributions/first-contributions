@@ -3378,6 +3378,7 @@ hey yo!
 - [Samuel Manik](https://github.com/5amuel02)
 - [Monica M S](https://github.com/Monicamathursivakumar) 
 - [Oliver Radfahrer](https://github.com/hotchomat)
+- [Sedar007](https://github.com/sedar007)
 - [Prathamesh Mundada](https://github.com/Pratham-1604)
 - [Shellfish](https://github.com/shellfish27)
 - [Nilton Segundo](https://github.com/niltonsegundo4-collab)
