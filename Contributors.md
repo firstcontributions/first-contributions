@@ -26,6 +26,7 @@ nathan practice here
 - [Ashwini](https://github.com/ashwinidattukumar)
 - [mikel-btw](https://github.com/mikel-btw)
 - [Tejika Singh](https://github.com/TejikaSingh02)
+- [Monil Chourasiya](https://github.com/Tryhardmonkey)
 - [Shadow-Coder-888] ( https://github.com/Shadow-Coder-888 )
 - [Siddh Tyagi](https://github.com/siddhtyagi18)
 - [Supriyo Kumar](https://github.com/SupriyoOG)
@@ -263,6 +264,7 @@ hiba
 - [Harshit Raj](https://github.com/harshitpraj12)
 -[Divyansh Pandey](https://github.com/divyansh-coder-git)
 -[WahyuWian]
+- [Sanya Bakshi](https://github.com/sanyabakshi18)
 - [LELE3152](https://github.com/LELE3152)
 - [Deeksha Sudheer](https://github.com/Sckultifacter)
 - [beinuela](https://github.com/beinuela)
@@ -3266,6 +3268,7 @@ bhumika
 - [pipesots7991-oss](https://github.com/pipesots7991-oss)
 - [ByWinston23](https://github.com/ByWinston23)
 - [Ansuj K Meher](https://github.com/ANSUJKMEHER)
+- [Rupesh Belhekar](https://github.com/RupeshBelhekar)
 - [EGOISTz](https://github.com/EGOISTz)
 - [crfcombatreadyfitness-dotcom](https://github.com/crfcombatreadyfitness-dotcom)
 - [Kavya Saxena](https://github.com/kavyasaxena28)
