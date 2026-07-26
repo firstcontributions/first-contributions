@@ -5,6 +5,7 @@
 nathan practice here
 - [Trisha Hingu](https://github.com/trishahingu)
   [Sanika Talkhedkar]
+- [Sakshi Vyavahare](https://github.com/sakshivyavahare20)
 - [jershon](https://github.com/jershonjefray-tech)
 - [Joselyne Dusabemungu](https://github.com/joselynedusabemungu)
 - [Shindy Yuliyatini](https://github.com/shindyyuliyatini)
