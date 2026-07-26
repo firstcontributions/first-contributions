@@ -512,7 +512,7 @@
 - [James Rouse]
 - [Bhavya]
 - [Richa Singh]
-- [Bhanodhar my first ever contribution,i am going to do something big in life either in cricket or in software, remember my name you might hear in future]
+- [Bhanodhar]
 - [Savanth G](https://github.com/Savanth114/first-contributions.git)
 - [S.M. Mazharul Islam](https://github.com/sm-mazharul-islam)
 - [SrivarsanK](https://github.com/SrivarsanK)
@@ -2877,12 +2877,12 @@
 - [Adil](https://github.com/meadil)
 - [Shivam](https://github.com/AFRADOX)
 - [Anurag]
-- [Meghana V](https://github.com/meghana202003])
+- [Meghana V](https://github.com/meghana202003)
 - [Rahul Majumder](https://github.com/irtrahul2007-IND)
 - [Akash Khatri](https://github.com/AkashKhatri-codes)
 - [Mojtaba Zarreh](https://github.com/MojtabaZarreh)
 - [Punith](https://github.com/anjan0546)
-- [Samuel Janring Sitio](https://github.com/samueljanringsitio) - Indonesia 🇮🇩
+- [Samuel Janring Sitio](https://github.com/samueljanringsitio)
 - [Shahir](https://github.com/shahir55312-collab)
 - [Mounish-tatipigari]
 - [Aditya Mehta](https://github.com/adityaaa539)
