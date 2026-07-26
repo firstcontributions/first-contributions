@@ -1,5 +1,6 @@
 # Contributors
-  This is a testing
+  Vayu Datta
+
 - [Fahad Shaikh](https://github.com/FahadS5534)
 - [Suchay Joshi] (https://github.com/sucxay)
 - [hosseinghorbani](https://github.com/hosseinghorbani0) 
