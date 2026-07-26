@@ -1,5 +1,4 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -14,7 +13,7 @@
 
 #### *თუ ტერმინალთან დიდად არ მეგობრობ, [აქ ნახავ რამდენიმე პროგრამას, რომელიც ტერმინალის გამოყენებას აგარიდებს თავიდან]( #ტუტორიალები-სხვა-პროგრამების-გამოყენებით )*
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="დააფორკეთ ეს რეპოზიტორი" />
 
 თუ კომპიუტერში გითი არ გაქვს ჩაწერილი, [მიჰყევი ლინკს]( https://help.github.com/articles/set-up-git/).
 
@@ -24,21 +23,22 @@
 
 ## რეპოზიტორიის დაკლონვა
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="კლონირება ამ რეპოზიტორიის" />
 
 ახლა, დაფორკილი რეპოზიტორია შენს კომპიუტერზე უნდა გადმოიტანო. ამისთვის შედი შენს გითჰაბის პროფილზე, გახსენი რეპოზიტორია და დააჭირე "Clone or download"-ს, შემდეგ კი *"copy to clipboard"*-ის სურათს.
 
 ახლა გახსენი ტერმინალი და გაუშვი შემდეგი ბრძანება:
 
-```
+```bash
 git clone "url you just copied"
 ```
 სადაც "url you just copied" (ბრჭყალების გარეშე) არის შენ მიერ დაკოპირებული რეპოზიტორიის ლინკი. (თუ ეს ლინკი არ გაქვს, წინა ნაბიჯი თავიდან გაიარე).
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="URL-ის კოპირება ბუფერში" />
 
 მაგალითად:
-```
+
+```bash
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 სადაც `this-is-you` ნაწილი, შენი გითჰაბის სახელია. ამითი რეპოზიტორიის ყველა ფაილი შენს კომპიუტერში გადმოვა.
@@ -47,16 +47,16 @@ git clone https://github.com/this-is-you/first-contributions.git
 
 შენი კომპიუტერით შედი რეპოზიტორიის ფოლდერში (თუ უკვე იქ არ ხარ):
 
-```
+```bash
 cd first-contributions
 ```
 ახლა შექმენი ახალი ბრენჩი `git checkout` ბრძანების გამოყენებით:
-```
+```bash
 git checkout -b <add-your-new-branch-name>
 ```
 
 მაგალითად:
-```
+```bash
 git checkout -b add-alonzo-church
 ```
 (ბრენჩის სახელის დასაწყისში *add*-ის მიწერა სავალდებულო არაა, თუმცა მიზანშეწონილია, რადგანაც მისი მთავარი მიზანია თქვენი სახელი დაამატოს კონტრიბუტორთა სიაში.)
@@ -65,7 +65,7 @@ git checkout -b add-alonzo-church
 
 ახლა რომელიმე პროგრამით (სასურველია ტექსტ ედიტორით) გახსენი ფაილი, სახელად `Contributors.md` და დაამატე შენი სახელი. ოღონდ გაითვალისწინე, რომ ის სხვების სახელებს შორის უნდა ჩაწერო და არა ფაილის დასაწყისში, ან ბოლოში. შეინახე ცვლილებები.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status ბრძანება" />
 
 
 თუ პროექტის ფოლდერში გადახვალ და გაუშვებ ბრძანება: `git status`. ტერმინალი გაჩვენებს რა ფაილებში მოხდა ცვლილებები.
@@ -73,12 +73,12 @@ git checkout -b add-alonzo-church
 
 `git add`-ით დაამატე ცვლილებები შენ მიერ შექმნილ ახალ ბრენჩს:
 
-```
+```bash
 git add Contributors.md
 ```
 
 ახლა შეინახე ისინი `git commit`-ის გამოყენებით:
-```
+```bash
 git commit -m "Add <your-name> to Contributors list"
 ```
 აქაც, `<your-name>` უნდა შეცვალო შენი პროფილის სახელით.
@@ -86,7 +86,7 @@ git commit -m "Add <your-name> to Contributors list"
 ## ცვლილებების ატვირთვა გითჰაბზე
 
 ატვირთე შენი ნამუშევარი `git push`-ის მეშვეობით:
-```
+```bash
 git push origin <add-your-branch-name>
 ```
 `<add-your-branch-name>` აქ შენ მიერ შექმნილი ბრენჩის სახელით უნდა ჩაანაცვლო.
@@ -95,11 +95,11 @@ git push origin <add-your-branch-name>
 
 გითჰაბზე, შენს რეპოზიტორიაში როცა გადახვალ, დაინახავ `Compare & pull request` ღილაკს. დააჭირე.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="Pull Request-ის შექმნა" />
 
 ახლა შენ მოითხოვ ცვლილებების განხილვას.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="Pull Request-ის გაგზავნა" />
 
 და სულ მალე, შენი ნამუშევარი ამ პროექტის მთავარ ბრენჩზე გამოჩნდება. ამის შესახებ მეილსაც მიიღებ.
 
@@ -107,9 +107,10 @@ git push origin <add-your-branch-name>
 
 გილოცავ! შენ შეასრულე სტანდარტული კონტრიბუციის პროცედურა, რომელსაც მომავალში ხშირად გამოიყენებ, როგორც კონტრიბუტორი!
 
-აღნიშნე და გაუზიარე მეგობრებს შენი წარმატება [ამ ლინკზე გადასვლით](https://firstcontributions.github.io/#social-share).
+აღნიშნე და გაუზიარე მეგობრებს შენი წარმატება [ამ ლინკზე გადასვლით] (https://firstcontributions.github.io/#social-share)
 
-[შემოგვიერთდი slack-ზე](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
+თუ კონტრიბუციების სხვაგან შეტანაც გინდა, გადახედე კოდის [კონტრიბუციები] (https://github.com/roshanjossey/code-contributions)
+
 
 თუ კონტრიბუციების სხვაგან შეტანაც გინდა, ჩვენ შენთვის შედარებით მარტივად გასაგები პროექტები შევარჩიეთ,  [რომლებსაც აქ ნახავ](https://firstcontributions.github.io/#project-list).
 

@@ -9,7 +9,7 @@
 
 _Եթե ​​ձեզ դուր չի գալիս հրամանի տողը, [այստեղ կան ձեռնարկներ՝ օգտագործելով GUI գործիքները](#tutorials-using-other-tools)_
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="պատառաքաղել այս պահոցը" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="վալեցրու այս պահեստը" />
 
 #### Եթե ​​դուք չունեք git ձեր մեքենայի վրա, [տեղադրեք այն](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
@@ -20,7 +20,8 @@ _Եթե ​​ձեզ դուր չի գալիս հրամանի տողը, [այստ
 
 ## Կլոնավորեք պահեստը
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="Կլոնավորեք պահեստը" />
+
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="պատճենիր այս պահեստը" />
 
 Այժմ կլոնավորեք պատառաքաղված պահոցը ձեր մեքենայի մեջ: Գնացեք ձեր GitHub հաշիվ, բացեք պատառաքաղված պահոցը, սեղմեք կոճակի կոճակը և սեղմեք _copy to clipboard_ պատկերակը.
 
@@ -32,7 +33,7 @@ git clone "url-ը որ դուք հենց նոր պատճենեցիք"
 
 որտեղ «url-ը, որը հենց նոր պատճենեցիր» (առանց չակերտների) այս պահոցի url-ն է (այս նախագծի ձեր պատառաքաղը): Դիտեք նախորդ քայլերը՝ URL-ը ստանալու համար
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="պատճենել URL-ը clipboard-ում" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="պատճենիր URL-ը կրծքաթելին" />
 
 Օրինակ:
 
@@ -66,7 +67,7 @@ git switch -c add-sarkis-cult
 
 Այժմ բացեք `Contributors.md` ֆայլը տեքստային խմբագրիչում, ավելացրեք ձեր անունը դրան: Մի ավելացրեք այն ֆայլի սկզբում կամ վերջում: Տեղադրեք այն ցանկացած տեղ արանքում: Այժմ պահեք ֆայլը.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git-ի վիճակը" />
 
 Եթե ​​գնաք նախագծի գրացուցակ և կատարեք `git status` հրամանը, կտեսնեք, որ փոփոխություններ կան.
 
@@ -98,9 +99,9 @@ git push -u origin your-branch-name
 <summary> <strong>Եթե ​​հրելիս սխալներ եք ստանում, սեղմեք այստեղ.</strong> </summary>
 
 - ### Վավերացման սխալ
-       <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+  <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
   remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
-  fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
+  fatal: Authentication failed for 'https://github.com/&lt;your-username&gt;/first-contributions.git/'</pre>
   Գնացեք [GitHub-ի ձեռնարկ](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) ձեր հաշվի համար SSH բանալի ստեղծելու և կազմաձևելու վերաբերյալ.
   </details>
 
@@ -108,11 +109,11 @@ git push -u origin your-branch-name
 
 Եթե ​​գնաք ձեր պահոց GitHub-ում, կտեսնեք `Compare & pull request` կոճակը: Սեղմեք այդ կոճակի վրա.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="ստեղծիր pull request" />
 
 Այժմ ներկայացրեք pull request-ը.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="ուղարկիր pull request" />
 
 Շուտով ես կմիավորեմ ձեր բոլոր փոփոխությունները այս նախագծի հիմնական ճյուղի մեջ: Փոփոխությունները միաձուլվելուց հետո դուք կստանաք ծանուցման նամակ.
 

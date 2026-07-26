@@ -1,16 +1,13 @@
 <div dir="rtl" lang="ps">
 
 <a href="https://github.com/ellerbrock/open-source-badges/">
-  <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source Love" />
+  <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="د خلاصې سرچینې مینه" />
 </a>
 <a href="https://opensource.org/licenses/MIT">
-  <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="MIT License" />
+  <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="د MIT جواز" />
 </a>
 <a href="https://www.codetriage.com/roshanjossey/first-contributions">
-  <img src="https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg" alt="Open Source Helpers" />
-</a>
-<a href="https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA">
-  <img align="left" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png" alt="Join Slack Team" />
+  <img src="https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg" alt="د خلاصې سرچینې مرسته کوونکي" />
 </a>
 
 ---
@@ -28,7 +25,7 @@
 
 ## دا ذخیره (repository) فورک کړئ
 
-<img align="left" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="left" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="د دې زیرمې فورک کول" />
 
 - د دې پاڼې په سر کې د Fork تڼۍ کلیک کړئ.
 - فورک کول به د دې ذخیرې یوه کاپي ستاسو د GitHub اکاونټ ته انتقال کړي.
@@ -37,7 +34,7 @@
 
 ## دا ذخیره (repository) کلون کړئ
 
-<img align="left" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="left" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="د دې زیرمې کلون کول" />
 
 - خپل اکاونټ ته لاړ شئ او د فورک شوې ذخیرې لینک د **Code** تڼۍ څخه کاپي کړئ.
 
@@ -67,7 +64,7 @@ your-branch-name ستاسو د څانګې نوم دی. کولای شئ چې هر
 - د `Contributors.md` فایل خلاص کړئ او خپل نوم پکې اضافه کړئ کې).
 - فایل ذخیره کړئ.
 
-<img align="left" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="left" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="د Git حالت" />
 
 - ترمینل ته لاړ شئ او دا کمانډ اجرا کړئ ترڅو وګورئ کوم فایلونه مو بدل کړي دي:
 
@@ -121,11 +118,11 @@ fatal: Authentication failed for 'https://github.com/&lt;your-username&gt;/first
 - خپل GitHub اکاونټ کې دې ریپوزیټوري ته لاړ شئ.
 - د **Compare & pull request** تڼۍ به ووینئ. پر هغې کلیک وکړئ.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="د pull request جوړول" />
 
 - اوس د pull request غوښتنه وسپارئ.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="pull request استول" />
 
 - له دې وروسته به ستاسو بدلونه د اصلي یا main څانګې سره یوځای شي او ستاسو نوم به د ګډون کوونکو لیست ته اضافه کړل شي.
 
@@ -134,7 +131,7 @@ fatal: Authentication failed for 'https://github.com/&lt;your-username&gt;/first
 تاسو په بریالیتوب سره د فورک، کلون، ایډیټ، او pull request مرحلې بشپړې کړې. تاسې له دې نه وروسته کولی شئ چې په خلاص-سرچېنه پروژو کې په همدې طریقه برخه واخلئ.
 
 - خپل لومړئ ګډون ولمانځئ او له خپلو ملګرو سره یې [شریک کړئ](https://firstcontributions.github.io/#social-share).
-- که کومه ستونزه یا پوښتنه لرئ، کولای شئ زموږ د Slack ټیم سره یوځای شئ.
+- که غواړئ لا ډېر تمرین وکړئ، د [code contributions](https://github.com/roshanjossey/code-contributions) زېرمه وګورئ.
 - اوس کولای شئ په نورو پروژو کې هم ګډون وکړئ. [دلته د پروژو لیست وګورئ](https://firstcontributions.github.io/#project-list).
 
 ## <a href="additional-material/git_workflow_scenarios/additional-material.md">اضافي مواد</a>

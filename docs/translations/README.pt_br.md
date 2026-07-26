@@ -24,7 +24,7 @@ Agora clone este repositório para a sua máquina. Clique no botão "_Code_" e, 
 
 Abra um terminal e execute o seguinte comando do git:
 
-```
+```bash
 git clone "url que copiou"
 ```
 
@@ -34,7 +34,7 @@ onde "url que copiou" (sem as aspas) é a URL deste repositório (seu fork deste
 
 Por exemplo:
 
-```
+```bash
 git clone https://github.com/seu-usuario/first-contributions.git
 ```
 
@@ -44,19 +44,19 @@ onde "seu-usuário" é o seu usuário do _GitHub_. Aqui você estará copiando o
 
 Acesse o diretório do repositório no seu computador (caso você não esteja nele):
 
-```
+```bash
 cd first-contributions
 ```
 
 Agora crie um _Branch_ usando o comando `git switch`:
 
-```
+```bash
 git switch -c <nome-da-sua-nova-branch>
 ```
 
 Por exemplo:
 
-```
+```bash
 git switch -c add-andre-oliveira
 ```
 
@@ -70,13 +70,13 @@ Agora, abra o arquivo `Contributors.md` em seu editor de código e adicione o se
 
 Se você for para o diretório do projeto e executar o comando `git status`, verá que há alterações. Adicione essas alterações ao _Branch_ que você acabou de criar utilizando o comando `git add`:
 
-```
+```bash
 git add Contributors.md
 ```
 
 Agora, confirme essas alterações usando o comando git commit `git commit`:
 
-```
+```bash
 git commit -m "Add <seu-nome> to Contributors list"
 ```
 
@@ -86,7 +86,7 @@ substituindo `<seu-nome>` pelo seu nome.
 
 Envie suas alterações usando o comando `git push`:
 
-```
+```bash
 git push origin <nome-da-sua-branch>
 ```
 

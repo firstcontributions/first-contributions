@@ -12,7 +12,6 @@
 이 명령을 실행할 때 표시되는 첫번째 7개의 문자는 축약 커밋 해시라고 합니다.
 
 예를 들어, 이 저장소에서 ```git log --oneline ``` 을 실행하면 다음과 같은 결과를 얻을 수 있습니다:
-For example, here is what I get when I run ```git log --oneline ``` on this repository:
 ```
 389004d added spacing in title
 c1b9fc1 Merge branch 'master' into tutorials

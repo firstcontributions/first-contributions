@@ -1,5 +1,4 @@
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-[<img align="right" width="150" src="assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -14,7 +13,7 @@
 
 #### _ ھن [ٻين ٻولين ۾] پڙھو (ترجما / ترجما. ايم ڊي) ._
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="ھن ريزاپوزيٽري کي فورڪ ڪيو" />
 
 #### جيڪڏهن توهان کي پنهنجي مشين تي گٽ نه آهي ، ته [انسٽال ڪريو] (https://help.github.com/articles/set-up-git/).
 
@@ -25,7 +24,7 @@
 
 ## مخزن کي کلون
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="ھن ريزاپوزيٽري کي ڪلون ڪيو" />
 
 هاڻي ڪلون محفوظ ڪيل مخزن کي توهان جي مشين ڏانهن پهچايو. پنھنجي GitHub اڪائونٽ ڏانھن وڃو ، فورڪ ٿيل مخزن کي کوليو ، ڪوڊ واري بٽڻ تي ڪلڪ ڪريو ۽ پوءِ _ ڪپي ڪلپ بورڊ جي آئڪن تي ڪلڪ ڪريو.
 
@@ -37,7 +36,7 @@
 
 جتي "صرف توهان يوپي ايل ڪاپي ڪئي آهي" (ڪڻڪ جي نشانين کانسواءِ) هن ريزنزوري ڏانهن يو آر ايل (هن پراجيڪٽ جي ڪانٽ). يو آر ايل حاصل ڪرڻ لاءِ پوئين قدم ڏسو.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="URL کي ڪلپ بورڊ ۾ نقل ڪيو" />
 
 مثال طور:
 
@@ -73,7 +72,7 @@
 
 ھاڻي ٽيڪسٽ ايڊيٽر ۾ Contributors.md فائل کوليو ، پنھنجو نالو ان ۾ شامل ڪريو. فائل جي شروعات يا آخر ۾ ان کي شامل نه ڪريو. ان کي وچ ۾ ڪٿي به وجھو. ھاڻي ، فائل کي بچايو.
 
-<img align="right" width="450" src="assets/git-status.png" alt="git status" />
+<img align="right" width="450" src="assets/git-status.png" alt="گِٽ جي حالت" />
 
 جيڪڏهن توهان پروجيڪٽ ڊاريڪٽري ڏانهن وڃو ۽ حڪم کي ختم ڪريو گٽ اسٽيٽس ، توهان ڏسندا ته هتي تبديليون آهن.
 
@@ -105,11 +104,11 @@ git commit -m "شرڪت ڪندڙن جي لسٽ ۾ <توھان جو نالو شا
 
 جيڪڏهن توهان GitHub تي پنهنجي مخزن ڏانهن ويندا آهيو ، توهان ڏسندا "تقابلي ۽ پلڻ واري درخواست" بٽڻ. انهي بٽڻ تي ڪلڪ ڪيو.
 
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="assets/compare-and-pull.png" alt="ھڪ پل رِڪوئسٽ ٺاهيو" />
 
 هاڻي پل جي درخواست جمع ڪر.
 
-<img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="assets/submit-pull-request.png" alt="پل رِڪوئسٽ جمع ڪرائيو" />
 
 جلد ئي آئون توهان جي سڀني تبديلين کي ان منصوبي جي ماسٽر برانچ ۾ ضم ڪري ڇڏيندس. توهان جون هڪ ڀيرو اطلاع ملڻ واري اي ميل حاصل ٿيندي هڪ ڀيرو تبديليون ضم ٿي ويون آهن.
 
@@ -118,8 +117,6 @@ git commit -m "شرڪت ڪندڙن جي لسٽ ۾ <توھان جو نالو شا
 مبارڪون هجن! توهان صرف معياري _فورڪ -> ڪلون -> ايڊٽ ڪيو -> پل درخواست_ ڪم جي وهڪري کي مڪمل ڪيو جنهن سان توهان اڪثر منهن ڏيڻ ۾ مدد ڪندا!
 
 پنهنجي حصي جو جشن ملهايو ۽ ان کي [ويب ايپ] تي وڃڻ سان پنهنجن دوستن ۽ پوئلڳن سان حصيداري ڪريو (https://firstcontactions.github.io/#social-share).
-
-جيڪڏهن توهان ڪنهن مدد جي گهرج ۾ يا ڪنهن سوال جي صورت ۾ توهان اسان جي سستي ٽيم ۾ شامل ٿي ويا [سليڪ ٽيم ۾ شامل ٿيو] (https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
 هاڻي اچو ته توهان شروع ڪيو ٻين منصوبن ۾ ڀاڙي سان حصو وٺي اسان منصوبن جي هڪ فهرست مرتب ڪئي آهي توهان کي آسان مسئلن تي جيڪي توهان شروع ڪري سگهو ٿا. [ويب ائپ ۾ منصوبن جي فهرست] چيڪ ڪريو (https://firstcontactions.github.io/#project-list).
 

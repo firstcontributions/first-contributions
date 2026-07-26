@@ -1,5 +1,4 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -28,7 +27,7 @@ Ahora toca clonar este repositorio en tu compu. Andate a tu cuenta de GitHub, da
 
 Abre tu consola o terminal y ejecuta el siguiente comando de git:
 
-```
+```bash
 git clone "url que acabas de copiar"
 ```
 
@@ -38,7 +37,7 @@ Donde dice "url que acabas de copiar" (sin las comillas, ojo) es la _url_ de est
 
 Por ejemplo:
 
-```
+```bash
 git clone https://github.com/este-eres-tu/first-contributions.git
 ```
 
@@ -48,19 +47,19 @@ Cambiá `este-eres-tu` por tu usuario de GitHub. Acá estás copiando todo el co
 
 Metete al directorio del repositorio en tu compu (si no estás ya ahí).
 
-```
+```bash
 cd first-contributions
 ```
 
 Ahora crea una rama (_branch_) usando el comando `git checkout`:
 
-```
+```bash
 git checkout -b <añade tu nombre>
 ```
 
 Por ejemplo:
 
-```
+```bash
 git checkout -b add-alonzo-church
 ```
 
@@ -70,19 +69,19 @@ git checkout -b add-alonzo-church
 
 Abrí el archivo `Contributors.md` en un editor de texto y agregá tu nombre. No lo pongas ni al principio ni al final del archivo, metelo en cualquier otro lado. Guardá el archivo.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="gestado de git" />
 
 Si vas al directorio del proyecto y ejecutas el comando `git status`, verás que hay cambios.
 
 Agrega esos cambios a la rama (_branch_) que creaste anteriormente usando el comando `git add`:
 
-```
+```bash
 git add Contributors.md
 ```
 
 Ahora hacele un _commit_ a esos cambios ejecutando el comando `git commit`:
 
-```
+```bash
 git commit -m "Add <tu-nombre> to Contributors list"
 ```
 
@@ -92,7 +91,7 @@ cambiando `<tu-nombre>` por tu nombre, obviamente.
 
 Mandale un _push_ de tus cambios usando el comando `git push`:
 
-```
+```bash
 git push origin <añade-el-nombre-de-la-rama>
 ```
 
@@ -116,7 +115,7 @@ Dentro de poco voy a estar fusionando tus cambios (haciendo merge) con la rama m
 
 Celebrá tu aporte y compartilo con tus amigos y seguidores en la.[web app](https://firstcontributions.github.io/#social-share).
 
-También te podés unir a nuestro equipo de Slack si necesitás una mano o tenés alguna pregunta.[Unite a nuestro Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
+Si querés practicar más, revisá [code contributions](https://github.com/roshanjossey/code-contributions).
 
 Ahora dale, empezá a contribuir a otros proyectos. Armamos una lista de proyectos con issues fáciles para que arranques. Dale una mirada a la[lista de proyectos en la aplicación web](https://firstcontributions.github.io/#project-list).
 
