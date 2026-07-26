@@ -3350,4 +3350,3 @@ hey yo!
 - [Vishal Kumar](https://github.com/vishal-1401)
 - [Suman Shrestha](https://github.com/sumancfc)
 - [Marilio Almeida](https://github.com/marilioalmeida)
-Le Xuan Duc
