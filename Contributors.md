@@ -3356,3 +3356,4 @@ hey yo!
 - [Dinesh Perera](https://github.com/Dinesh-Perera-X)
 - [Sungmin Kwak](https://github.com/expect4568)
 - [Le Xuan Duc](https://github.com/lxndc)
+- [Shu Fries Rat](https://github.com/ShuFriesRat)
