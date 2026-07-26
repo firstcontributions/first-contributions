@@ -5,11 +5,13 @@
 nathan practice here
 - [Trisha Hingu](https://github.com/trishahingu)
   [Sanika Talkhedkar]
+- [Sakshi Vyavahare](https://github.com/sakshivyavahare20)
 - [jershon](https://github.com/jershonjefray-tech)
 - [Joselyne Dusabemungu](https://github.com/joselynedusabemungu)
 - [Shindy Yuliyatini](https://github.com/shindyyuliyatini)
 - [KingPlein] (https://github.com/KingPlein)
 - [Aavash] (https://github.com/aavashX17)
+- [Vaishnavi S V](https://github.com/vaish-sv22)
 - [Marcia Cristina](https://github.com/clibosque-star)
 - [Kashish](https://github.com/Kashish1074)
 - [sristikundu1](https://github.com/sristikundu1)
@@ -3357,3 +3359,4 @@ hey yo!
 - [Sungmin Kwak](https://github.com/expect4568)
 - [Le Xuan Duc](https://github.com/lxndc)
 - [Shu Fries Rat](https://github.com/ShuFriesRat)
+- [macsius](https://github.com/macsius)
