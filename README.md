@@ -166,7 +166,7 @@ Now open `Contributors.md` file in a text editor, add your name to it. Don't add
 
 > [!IMPORTANT]
 > To maintain uniformity, please follow the same format as:
-> ```bash
+> ```md
 > - [Your Name](https://github.com/your-username)
 > or
 > - [Your Name]

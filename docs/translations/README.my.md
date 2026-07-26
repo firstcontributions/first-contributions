@@ -76,7 +76,7 @@ Sekarang, buka fail `Contributors.md` dalam sebuah penyunting teks, dan tambahka
 
 > [!IMPORTANT]
 > Untuk membuat keseragaman, sila ikut format yang sama seperti:
-> ```bash
+> ```md
 > - [Nama Anda](https://github.com/nama-pengguna-github-anda)
 > atau
 > - [Nama Anda]
