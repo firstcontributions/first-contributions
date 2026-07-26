@@ -1,5 +1,6 @@
 # Contributors
   This is a testing
+- [Suchay Joshi] (https://github.com/sucxay)
 - [hosseinghorbani](https://github.com/hosseinghorbani0) 
 nathan practice here
 - [Trisha Hingu](https://github.com/trishahingu)
