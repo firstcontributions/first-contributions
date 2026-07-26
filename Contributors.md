@@ -1533,6 +1533,7 @@ niceshowmini
 - [Kaushik Balaji](https://github.com/KaushikBalaji05)
 - [Kaushik Kumar](https://github.com/kaushikbargaway)
 - [Khushi Chitlange](https://github.com/Khushi-Chitlange)
+- [Khushi R](https://github.com/Khushisri05)
 - [Kavin](https://github.com/atomthedark)
 - [Kishan Pokar](https://github.com/Kishan-Pokar)
 - [Kevin Liao](https://github.com/kevintheliao)
