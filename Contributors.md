@@ -3353,3 +3353,4 @@ hey yo!
 - [Suman Shrestha](https://github.com/sumancfc)
 - [Marilio Almeida](https://github.com/marilioalmeida)
 - [Sungmin Kwak](https://github.com/expect4568)
+- [Le Xuan Duc](https://github.com/lxndc)
