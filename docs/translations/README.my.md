@@ -60,7 +60,7 @@ git switch -c add-emma-maembong
 <details>
 <summary> <strong>Jika anda mendapati sebarang kesalahan menggunakan git switch, klik di sini:</strong> </summary>
 
-Jika mesej ralat "Git: `switch` is not a git command. See `git –help`" muncul, kemungkinan kerana anda menggunakan versi git yang lebih lama.
+Jika mesej ralat "Git: `switch` is not a git command. See `git -–help`" muncul, kemungkinan kerana anda menggunakan versi git yang lebih lama.
 
 Untuk kes ini, cuba gunakan `git checkout` sebagai ganti:
 
