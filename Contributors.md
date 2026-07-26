@@ -80,6 +80,7 @@ nathan practice here
 - [Vinayak](https://github.com/Vinayak-07)
 - [José Sá] (https://github.com/josesa2004)
 - [Ces](https://github.com/cessauce)
+- [Aditya G](https://github.com/adityag-25)
 - [Nithish C](https://github.com/NITHISH-2006)
 - [Shri Manasa](https://github.com/shrimanasa)
 - [Piumal Jayaweera](https://github.com/piumal-glitch)
