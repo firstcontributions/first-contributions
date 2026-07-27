@@ -8,6 +8,7 @@ nathan practice here
 - [Trisha Hingu](https://github.com/trishahingu)
   [Sanika Talkhedkar]
 - [Sakshi Vyavahare](https://github.com/sakshivyavahare20)
+- [Rihan R. Chougule](https://github.com/RihanC)
 - [jershon](https://github.com/jershonjefray-tech)
 - [ZihaoYang](https://github.com/yangzihao2005)
 - [Joselyne Dusabemungu](https://github.com/joselynedusabemungu)
