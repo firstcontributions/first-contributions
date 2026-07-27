@@ -9,6 +9,7 @@
 - [Hamayl Zahid](https://github.com/hamaylzahid)
 - [Amar Kumar Thakur](https://github.com/supercell02)
 - [Fahad Shaikh](https://github.com/FahadS5534)
+[Wesley Walker](https://github.com/wwalker2)
 - [Suchay Joshi] (https://github.com/sucxay)
 - [hosseinghorbani](https://github.com/hosseinghorbani0) 
 nathan practice here
