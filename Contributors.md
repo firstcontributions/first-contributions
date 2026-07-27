@@ -901,6 +901,7 @@ niceshowmini
 - [Kapil Krishna Yadav](https://github.com/Kapilkrishnayadav/first-contributions)
 - [Vaishnavi14705](https://github.com/vaishnavi14705/first-contributions)
 - [Gabo-Juarez](https://github.com/gabriel18111992)
+- [Priyans]
 - [Ephraim-Munene](https://github.com/Ephraim-Munene)
 - [Harish-Peddi](https://github.com/hiharish)
 - [Roberto-Lopez](https://github.com/superrober1)
@@ -3414,6 +3415,7 @@ hey yo!
 - [karilinda386-png](https://github.com/karilinda386-png)
 - [Jannik Bäcker](https://github.com/jannikbx)
 - [Ashwin](https://github.com/ashwinprakash14)
+- [Azusa] (https://github.com/atakeishi)
 - [odn775](https://github.com/odn775)
 - [Bavatharani V](https://github.com/Bavatharanivethamani)
 - [j3s5e_1225](https://github.com/haftigthund)
