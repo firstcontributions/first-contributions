@@ -1142,6 +1142,7 @@ niceshowmini
 - Theegala Yeseswini
 - [Bhanu Narra](https://github.com/bhanu962)
 - [Bhargav Chataut](https://github.com/bhargav-chataut)
+- [Dustar233](https://github.com/Dustar233)
 - [Bhargav Kallepally](https://github.com/BHARGAV-RUE)
 - [Bhautik Jani](https://github.com/BhautikJani11)
 - [Bhakti Kavathiya](https://github.com/bhaktikavathiya)
@@ -3397,3 +3398,4 @@ hey yo!
 - [karilinda386-png](https://github.com/karilinda386-png)
 - [Jannik Bäcker](https://github.com/jannikbx)
 - [odn775](https://github.com/odn775)
+- [Bavatharani V](https://github.com/Bavatharanivethamani)
