@@ -3342,7 +3342,7 @@ hey yo!
 - [Luis Serrano](https://github.com/lserranogft)
 - [Yusuf(Ghazi)](https://github.com/Yusuf-9198)
 - [oozan](https://github.com/oozan)
-
+- [saul-paulus](https://github.com/saul-paulus)
 - [StephanR](https://github.com/stephan24484-a11y)
 - [SHIWANI](https://github.com/Shiwanitmdt01)
 - [LynxQ1](https://github.com/LynxQ1)
