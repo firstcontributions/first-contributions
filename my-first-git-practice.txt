@@ -1,3 +1,0 @@
-Hello Open Source!
-
-This is my first Git practice.
