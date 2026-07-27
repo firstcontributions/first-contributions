@@ -7,6 +7,7 @@
  - [Prajwal Srinivas](https://github.com/prajwal2308)
  - [Tejaswini Abburi](https://github.com/Tejaswini1112)
 - [Hamayl Zahid](https://github.com/hamaylzahid)
+- [Amar Kumar Thakur](https://github.com/supercell02)
 - [Fahad Shaikh](https://github.com/FahadS5534)
 - [Suchay Joshi] (https://github.com/sucxay)
 - [hosseinghorbani](https://github.com/hosseinghorbani0) 
