@@ -1,9 +1,9 @@
-# Contributors
-
+# Contributors     
 -[Binay Dalai](https://github.com/bkd-dotcom)
 -[Vayu Datta](https://github.com/vayudattasamasthanik-rgb)
 - [Mohamed Safwat](https://github.com/klax05/)
   This is a testing
+ - [Fathia Omar](https://github.com/fathiaomar)
 - [Hamayl Zahid](https://github.com/hamaylzahid)
 - [Fahad Shaikh](https://github.com/FahadS5534)
 - [Suchay Joshi] (https://github.com/sucxay)
