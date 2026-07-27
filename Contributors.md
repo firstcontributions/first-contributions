@@ -27,6 +27,7 @@ nathan practice here
 - [Erika Buckley](https://github.com/Erikabuckley)
 - [SidGod](https://github.com/starboylive)
 - [Ashwini](https://github.com/ashwinidattukumar)
+  [Aarib](https://github.com/muhammadaaribali)
 - [mikel-btw](https://github.com/mikel-btw)
 - [Tejika Singh](https://github.com/TejikaSingh02)
 - [Monil Chourasiya](https://github.com/Tryhardmonkey)
