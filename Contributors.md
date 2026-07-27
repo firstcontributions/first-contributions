@@ -63,6 +63,7 @@ nathan practice here
 - [Prince Wang](https://github.com/noobifyLol)
 - [Yazeed Alraddadi](https://github.com/yazeed1425)
 - [Soham Raorane](https://github.com/sohamraorane)
+- [Wahid Ali](https://github.com/wahidst3)
 - [smz202000](https://github.com/smz202000)
 - [gustav26-a11Y](https://github.com/gustav26-a11y)
 - [Kabir Maske](https://github.com/kabirmaske)
