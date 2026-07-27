@@ -3264,6 +3264,7 @@ bhumika
 - [Habtamu](https://github.com/Dark-programming546)
 - [Prashik Wankhade](https://github.com/PrashikWankhadeSCOE)
 - [Rodrigo Freitas](https://github.com/eusofreitas)
+- [Puranjay Kapoor](https://github.com/Puranjay10)
 - [Akylla Eich](https://github.com/Akylla123)
 - [JRT](https://github.com/jrt2026git)
 - [Amir](https://github.com/Amiirhosseini)
