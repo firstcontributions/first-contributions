@@ -4,6 +4,7 @@
 - [Mohamed Safwat](https://github.com/klax05/)
   This is a testing
  - [Fathia Omar](https://github.com/fathiaomar)
+ - [Prajwal Srinivas](https://github.com/prajwal2308)
 - [Hamayl Zahid](https://github.com/hamaylzahid)
 - [Fahad Shaikh](https://github.com/FahadS5534)
 - [Suchay Joshi] (https://github.com/sucxay)
