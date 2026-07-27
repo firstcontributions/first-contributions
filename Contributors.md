@@ -876,6 +876,7 @@ niceshowmini
 - [StephenJarso](https://github.com/StephenJarso)
 - [Dinel8](https://github.com/Dinel8)
 - [Mr-Broccolli](https://github.com/Mr-Broccolli)
+  [Anil s yaragatti](https://github.com/anilyaragatti/)
 - [Viswanath Vadlamani](https://github.com/viswanathv4320)
 - [Renan Marques](https://github.com/Renanmrqs)
 - [VisionStack-404](https://github.com/VisionStack-404)
