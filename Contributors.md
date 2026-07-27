@@ -901,6 +901,7 @@ niceshowmini
 - [Kapil Krishna Yadav](https://github.com/Kapilkrishnayadav/first-contributions)
 - [Vaishnavi14705](https://github.com/vaishnavi14705/first-contributions)
 - [Gabo-Juarez](https://github.com/gabriel18111992)
+- [Priyans]
 - [Ephraim-Munene](https://github.com/Ephraim-Munene)
 - [Harish-Peddi](https://github.com/hiharish)
 - [Roberto-Lopez](https://github.com/superrober1)
