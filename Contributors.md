@@ -3392,3 +3392,4 @@ hey yo!
 - [yangbh86](https://github.com/yangbh86)
 - [SCHAVEZT](https://github.com/SCHAVEZT)
 - [karilinda386-png](https://github.com/karilinda386-png)
+- [Jannik Bäcker](https://github.com/jannikbx)
