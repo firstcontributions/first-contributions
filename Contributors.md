@@ -3419,3 +3419,4 @@ hey yo!
 - [gmagno123](https://github.com/gmagno123)
 - [Jean-Jaques Pietersen](https://github.com/jeanj14)
 - [Priyanshi Ghadiya](https://github.com/PriyanshiGhadiya53)
+- [Natalia Almeida Souza](https://github.com/nataliaalmsouza-cyber)
