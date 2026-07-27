@@ -19,6 +19,7 @@ nathan practice here
 - [KingPlein] (https://github.com/KingPlein)
 - [Aavash] (https://github.com/aavashX17)
 - [Vaishnavi S V](https://github.com/vaish-sv22)
+- [Lorenzo Aserio](https://github.com/laserio)
 - [Marcia Cristina](https://github.com/clibosque-star)
 - [Kashish](https://github.com/Kashish1074)
 - [sristikundu1](https://github.com/sristikundu1)
