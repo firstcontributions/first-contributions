@@ -3426,4 +3426,5 @@ hey yo!
 - [Priyanshi Ghadiya](https://github.com/PriyanshiGhadiya53)
 - [Natalia Almeida Souza](https://github.com/nataliaalmsouza-cyber)
 - [Noah Menezes](https://github.com/NoahMenezes)
+- [Nakul Mital](https://github.com/rhit-mitaln)
 - [yy381](https://github.com/yiyang381/)
