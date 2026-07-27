@@ -3414,6 +3414,7 @@ hey yo!
 - [karilinda386-png](https://github.com/karilinda386-png)
 - [Jannik Bäcker](https://github.com/jannikbx)
 - [Ashwin](https://github.com/ashwinprakash14)
+- [Azusa] (https://github.com/atakeishi)
 - [odn775](https://github.com/odn775)
 - [Bavatharani V](https://github.com/Bavatharanivethamani)
 - [j3s5e_1225](https://github.com/haftigthund)
