@@ -3445,3 +3445,4 @@ Nici30067
 - [Priyanka Saxena](https://github.com/Priyanka-cmd23)
 - [natanaelcalebe](https://github.com/oncompanny-web)
 - [fadymas](https://github.com/fadymas)
+- [Wagner](https://github.com/wfsantos19772-lgtm)
