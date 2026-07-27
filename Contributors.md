@@ -62,6 +62,7 @@ nathan practice here
 - [Sarweshwar Buddolla] (https://github.com/sarweshwargoud)
 - [Ashmita Kamath] (https://github.com/ashmita-kamath)
 - [Naufal Ahamed](https://github.com/NaufalAhamed-M)
+- [Ju5tG](https://github.com/Ju5tG)
 - [Kalpesh Patil](https://github.com/kalpesh172000)
 - [Luis Ruvalcaba](https://github.com/luisruval)
 - [Tejaswini SL](https://github.com/Tej131-hue)
