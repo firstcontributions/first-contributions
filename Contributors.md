@@ -237,6 +237,7 @@ Syed Omer
 - [Sahithi Cinchalapu](https://github.com/sahithicinchalapu)
 - [Mohammad Hafeez](https://github.com/Hafeez-001)
 - [Jay Pant](https://github.com/Jaypant234)
+- [Suman Patel](https://github.com/sumanpatel2104-png)
 - [Luis Ruvalcaba](https://github.com/luisruval)
 - [Sabhya](https://github.com/sabhya1290)
 - [ezyhe0n](https://github.com/ezhye0n)
