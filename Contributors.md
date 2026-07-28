@@ -1,4 +1,5 @@
-# Contributors     
+# Contributors    
+-[Bilaal Bakare] (https://github.com/BilaalBakare) 
 -[Thuta] (https://github.com/thuta-dev)
 -[Lalitha Sri](https://github.com/LalithaSriSanthapur)
 - [Arvind Verma](https://github.com/varvindea) 
