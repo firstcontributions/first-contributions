@@ -6,6 +6,7 @@
 - [Mohamed Safwat](https://github.com/klax05/)
   This is a testing
  - [Fathia Omar](https://github.com/fathiaomar)
+ - [Rene Paul](https://github.com/rene-pau)
 -[Barry J]
  - [Prajwal Srinivas](https://github.com/prajwal2308)
  - [Tejaswini Abburi](https://github.com/Tejaswini1112)
