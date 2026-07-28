@@ -7,6 +7,7 @@
  - [Fathia Omar](https://github.com/fathiaomar)
 -[Barry J]
  - [Prajwal Srinivas](https://github.com/prajwal2308)
+ - [Abel Jacob](github.com/Abel-Jacob)
  - [Tejaswini Abburi](https://github.com/Tejaswini1112)
 - [Hamayl Zahid](https://github.com/hamaylzahid)
 - [Amar Kumar Thakur](https://github.com/supercell02)
