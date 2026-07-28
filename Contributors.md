@@ -120,6 +120,7 @@ nathan practice here
 - [yadav Rahul Suresh Chandra](https://github.com/Rey-Coder10/Rey-Coder10)
 - [Lavanya N M](https://github.com/Lavanya-N24)
 - [Nico ](https://github.com/nicotrilles)
+- [fungu5](https://github.com/fungu5)
 - [Rupesh Thapa](https://github.com/rupeshthapa9700)
 - [Aswitocom] (https://github.com/aswitocom)
 - [Naya] (https://github.com/naya-valentine)
