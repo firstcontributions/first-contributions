@@ -3461,6 +3461,7 @@ Nici30067
 - [natanaelcalebe](https://github.com/oncompanny-web)
 - [fadymas](https://github.com/fadymas)
 - [Wagner](https://github.com/wfsantos19772-lgtm)
+- [Saruja C](https://github.com/SARUJA-2006)
 - [angel0l0l](https://github.com/angel0101)
 - [angel0l](https://github.com/angel0l0l)
 - [jeanbatistou01](https://github.com/jeanbatistou01-hash)
