@@ -3449,3 +3449,4 @@ Nici30067
 - [natanaelcalebe](https://github.com/oncompanny-web)
 - [fadymas](https://github.com/fadymas)
 - [Wagner](https://github.com/wfsantos19772-lgtm)
+- [jeanbatistou01](https://github.com/jeanbatistou01-hash)
