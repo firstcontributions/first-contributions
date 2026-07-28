@@ -1,9 +1,11 @@
 # Contributors     
+-[Thuta] (https://github.com/thuta-dev)
 -[Binay Dalai](https://github.com/bkd-dotcom)
 -[Vayu Datta](https://github.com/vayudattasamasthanik-rgb)
 - [Mohamed Safwat](https://github.com/klax05/)
   This is a testing
  - [Fathia Omar](https://github.com/fathiaomar)
+-[Barry J]
  - [Prajwal Srinivas](https://github.com/prajwal2308)
  - [Tejaswini Abburi](https://github.com/Tejaswini1112)
 - [Hamayl Zahid](https://github.com/hamaylzahid)
@@ -39,7 +41,8 @@ nathan practice here
 - [Jeet Narayan Chakraborty](https://github.com/JeetNarayanChakraborty)
 - [SidGod](https://github.com/starboylive)
 - [Ashwini](https://github.com/ashwinidattukumar)
-  [Aarib](https://github.com/muhammadaaribali)
+- [Aarib](https://github.com/muhammadaaribali)
+- [Satyajeet sahoo](https://github.com/satyajeet-sahoo)
 - [mikel-btw](https://github.com/mikel-btw)
 - [Tejika Singh](https://github.com/TejikaSingh02)
 - [Jaideep](https://github.com/jaysinghrajpurohit913-stack)
@@ -51,6 +54,7 @@ nathan practice here
 - [Laib Rehman](https://github.com/laibarehmankhan123-wq)
 - [JangCheonMyeong](https://github.com/jcm0314)
 - [Madhavi Porte](https://github.com/madhaviporte)
+- [Navin Choudhary](https://github.com/Navin-Choudhary)
 - [Sandeep Mahato](https://github.com/sandeepmahato1)
 - [Dinesh](https://github.com/ad-Dinesh)
 - [Yashwanth Patil](https://github.com/Yashwanthpatil2005)
@@ -116,6 +120,7 @@ nathan practice here
 -[Colin](https://github.com/colinbern8)
 -[Wendy](https://github.com/zhaozixuan613)
 - #### [Chinmay Maheshwari](https://github.com/Chinmay0608)
+- [Arnesh R](https://github.com/arnesh-02)
 - [Dhanuri](https://github.com/Dhanuri-codes)
 - [yadav Rahul Suresh Chandra](https://github.com/Rey-Coder10/Rey-Coder10)
 - [Lavanya N M](https://github.com/Lavanya-N24)
@@ -284,6 +289,7 @@ hiba
 -[Kim Seung-hyun](https://github.com/ksh1217)
 - [Maciej Sztando](https://github.com/MaciejAtRelativity)
 - [Oscar Kriebel](https://github.com/OscarKriebel)
+- ManichandraG
 -[DHINESH-77](https://github.com/DHINESH-77)
 - [Harshit Raj](https://github.com/harshitpraj12)
 - [Harshit Raj](https://github.com/harshitpraj12)
@@ -352,6 +358,7 @@ Aalli
 - Shinobi (https://github.com/ShineEnoki)
 - Vijay Karthik - [CodeXSlayer](https://github.com/code-x-slayer)
 - [Ajwa Zameer](https://github.com/ajwazameer)
+- [Karthikeyan-S](https://github.com/Karthik-357)
 - Ansh Choudhary -[https://github.com/Ansh-choudhary08]
 -Robert James
 - Sankeerth Nara - [https://github.com/SankeerthNara]
@@ -395,6 +402,7 @@ kalyani
 - [ADHIRAJ994](https://github.com/ADHIRAJ994)
 -gaoyou
 - [wowo](https://github.com/wowo0214)
+- [Blufrucy]([Blufrucy（玉堂）](https://github.com/Blufrucy))
 - [Rahafebx](https://github.com/rahafebx)
 - [Bian](https://github.com/chozinthwe25-crypto)
 -[Ripunjay_Saini](https://github.com/Cluckpro31)
@@ -1228,6 +1236,7 @@ niceshowmini
 - [Charly Islami](https://github.com/CharlyIslami)
 - [chakma](https://github.com/Monkey3711)
 - [Charul Nampalliwar](https://github.com/Charul2304)
+- [cxknotjj](https://github.com/cxknotjj)
 - [Chemini Newanma](https://github.com/chemini244)
 - [Nikita Shiwach](https://github.com/nikitashiwach)
 - [Chetan](https://github.com/chetanakashV/)
@@ -2955,7 +2964,7 @@ niceshowmini
   -Chandana Jagadish
 - [Janhavi Biradar](https://github.com/janhavibiradar123)
   -Chandana Jagadish
-[ninjitsuytber](https://github.com/ninjitsuytber)
+  [ninjitsuytber](https://github.com/ninjitsuytber)
 
 - [Vanshika Devi](https://github.com/Vanshika-devi)
 - [kihato](https://github.com/kihato)
@@ -3375,6 +3384,7 @@ hey yo!
 - [haaszbence](https://github.com/HaaszBence)
 - [Onjourney-J](https://github.com/Onjourney-J)
 - [lustybina](https://github.com/lustybina)
+- [ArhaanKhan] (https://github.com/ArhaanDev24)
 - [boringtessa](https://github.com/boringtessa)
 - [Prathamesh Hirwale](https://github.com/Hprathamesh)
 - [aakarsh-34](https://github.com/aakarsh-34)
@@ -3408,6 +3418,7 @@ hey yo!
 - [Samuel Manik](https://github.com/5amuel02)
 - [Monica M S](https://github.com/Monicamathursivakumar) 
 - [Oliver Radfahrer](https://github.com/hotchomat)
+- [Aprajita Mishra](https://github.com/mishra-aprajita)
 - [Sedar007](https://github.com/sedar007)
 - [Prathamesh Mundada](https://github.com/Pratham-1604)
 - [Shellfish](https://github.com/shellfish27)
@@ -3431,6 +3442,7 @@ hey yo!
 - [Tempo](https://github.com/wjs-tech)
 - [Dawn]
 - [Nasser575](https://github.com/Nasser575)
+- [jhpdh](https://github.com/jhpdh)
 - [Nagesh K](https://github.com/Nageshk88)
 - [gmagno123](https://github.com/gmagno123)
 - [Jean-Jaques Pietersen](https://github.com/jeanj14)
@@ -3440,6 +3452,7 @@ hey yo!
 - [Mariyamalikho](https://github.com/Mariyamalikho)
 - [Noah Menezes](https://github.com/NoahMenezes)
 - [yy381](https://github.com/yiyang381/)
+- [Chirag Neelgund](https://github.com/Chirrrag17)
 - [Swetha Chigurupati] (https://github.com/marioworld99)
 - [Arun Lama](https://github.com/arun-2057)
 - [Youssouf123-coder](https://github.com/Youssouf123-coder)
@@ -3448,4 +3461,9 @@ Nici30067
 - [natanaelcalebe](https://github.com/oncompanny-web)
 - [fadymas](https://github.com/fadymas)
 - [Wagner](https://github.com/wfsantos19772-lgtm)
--[Saruja C](https://github.com/SARUJA-2006)
+- [Saruja C](https://github.com/SARUJA-2006)
+- [angel0l0l](https://github.com/angel0101)
+- [angel0l](https://github.com/angel0l0l)
+- [jeanbatistou01](https://github.com/jeanbatistou01-hash)
+- [Roshan](https://github.com/lauv22)
+- [Ronak](https://ronakportfolio.pages.dev/)
