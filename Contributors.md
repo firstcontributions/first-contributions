@@ -35,6 +35,7 @@ nathan practice here
 - [Vaishnavi S V](https://github.com/vaish-sv22)
 - [Lorenzo Aserio](https://github.com/laserio)
 - [Marcia Cristina](https://github.com/clibosque-star)
+- cocodrilo-bit
 - [Kashish](https://github.com/Kashish1074)
 - [sristikundu1](https://github.com/sristikundu1)
 - Vijay-Karthi-Kayan | (https://github.com/Vijay-Karthikayan)
@@ -127,6 +128,7 @@ nathan practice here
 - [Siddharth](https://github.com/Siddharthx21s)
 -[Colin](https://github.com/colinbern8)
 -[Wendy](https://github.com/zhaozixuan613)
+- [kneeyeahtea](https://github.com/kneeyeahtea)
 - #### [Chinmay Maheshwari](https://github.com/Chinmay0608)
 - [Arnesh R](https://github.com/arnesh-02)
 - [Dhanuri](https://github.com/Dhanuri-codes)
@@ -3491,3 +3493,5 @@ Nici30067
 - [Darpana S](https://github.com/Darpana14)
 - [Diana Lucero](https://github.com/httpsdluc)
 - [Prabhat Kiran](https://github.com/prabhatkiran777)
+- [Shahzeen](https://github.com/Shahzeen-178)
+
