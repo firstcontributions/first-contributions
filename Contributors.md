@@ -1282,6 +1282,7 @@ niceshowmini
 - [Devdxpen](https://github.com/devdxpen)
 - [John Lowery](https://github.com/PugTaco)
 - [Developer Dashboard](https://vijaygoswami.is-a-dev?utm_source=github)
+- [Aryan Mishra](https://github.com/Aryanmishra-dev)
 - [Devesh Jain](https://github.com/jaindevesh144)
 - [Devika Menon](https://github.com/DevikaaMenon)
 - [Dewanshi Baghel](https://github.com/dewanshi-txt)
