@@ -3484,6 +3484,7 @@ Nici30067
 - [angel0l](https://github.com/angel0l0l)
 - [jeanbatistou01](https://github.com/jeanbatistou01-hash)
 - [Roshan](https://github.com/lauv22)
+- [Ron Kuan](https://github.com/lchron0328)
 - [Ronak](https://ronakportfolio.pages.dev/)
 - [Haripriya K](https://github.com/haripriya07-sudo)
 - [Harney-Jenifar-R-S](https://github.com/Harney-Jenifar-R-S)
