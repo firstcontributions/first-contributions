@@ -402,6 +402,7 @@ kalyani
 - [ADHIRAJ994](https://github.com/ADHIRAJ994)
 -gaoyou
 - [wowo](https://github.com/wowo0214)
+- [Blufrucy]([Blufrucy（玉堂）](https://github.com/Blufrucy))
 - [Rahafebx](https://github.com/rahafebx)
 - [Bian](https://github.com/chozinthwe25-crypto)
 -[Ripunjay_Saini](https://github.com/Cluckpro31)
@@ -2963,7 +2964,7 @@ niceshowmini
   -Chandana Jagadish
 - [Janhavi Biradar](https://github.com/janhavibiradar123)
   -Chandana Jagadish
-[ninjitsuytber](https://github.com/ninjitsuytber)
+  [ninjitsuytber](https://github.com/ninjitsuytber)
 
 - [Vanshika Devi](https://github.com/Vanshika-devi)
 - [kihato](https://github.com/kihato)
