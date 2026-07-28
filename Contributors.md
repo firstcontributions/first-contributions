@@ -61,6 +61,7 @@ nathan practice here
 - [bycx725](https://github.com/bycx725)
 - [Tanya Kumari](https://github.com/tanyakaundinya)
 - [xenonbomin54](https://github.com/xenonbomin54)
+- [Gunesh Bari](https://github.com/Guneshbari)
 - [Eklavya Shinde](https://github.com/Eklavya1919)
 - [Mayu](https://github.com/PixWizard)
 - [David-Izadi](https://github.com/David-Izadi)
