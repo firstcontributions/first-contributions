@@ -1999,6 +1999,7 @@ niceshowmini
 - [SMJ](https://github.com/SeokMinJeon)
 - [SUJAL ZORO](https://github.com/ZORO-JUROO)
 - [Sabin El Anwar :-)](https://github.com/sabinAnwar/)
+- [Alvaro Salazar](https://github.com/alvaroslzar/)
 - [Sachin Singh](https://github.com/sachin844123)
 - [Sachin Thakur](https://github.com/iams4ch9n)
 - [Safiya Nazly](https://github.com/safiyanazly-bit)
