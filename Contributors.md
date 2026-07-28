@@ -1,4 +1,5 @@
 # Contributors     
+-[Thuta] (https://github.com/thuta-dev)
 -[Binay Dalai](https://github.com/bkd-dotcom)
 -[Vayu Datta](https://github.com/vayudattasamasthanik-rgb)
 - [Mohamed Safwat](https://github.com/klax05/)
@@ -39,7 +40,8 @@ nathan practice here
 - [Jeet Narayan Chakraborty](https://github.com/JeetNarayanChakraborty)
 - [SidGod](https://github.com/starboylive)
 - [Ashwini](https://github.com/ashwinidattukumar)
-  [Aarib](https://github.com/muhammadaaribali)
+- [Aarib](https://github.com/muhammadaaribali)
+- [Satyajeet sahoo](https://github.com/satyajeet-sahoo)
 - [mikel-btw](https://github.com/mikel-btw)
 - [Tejika Singh](https://github.com/TejikaSingh02)
 - [Jaideep](https://github.com/jaysinghrajpurohit913-stack)
@@ -353,6 +355,7 @@ Aalli
 - Shinobi (https://github.com/ShineEnoki)
 - Vijay Karthik - [CodeXSlayer](https://github.com/code-x-slayer)
 - [Ajwa Zameer](https://github.com/ajwazameer)
+- [Karthikeyan-S](https://github.com/Karthik-357)
 - Ansh Choudhary -[https://github.com/Ansh-choudhary08]
 -Robert James
 - Sankeerth Nara - [https://github.com/SankeerthNara]
@@ -3451,3 +3454,5 @@ Nici30067
 - [Wagner](https://github.com/wfsantos19772-lgtm)
 - [angel0l0l](https://github.com/angel0101)
 - [angel0l](https://github.com/angel0l0l)
+- [jeanbatistou01](https://github.com/jeanbatistou01-hash)
+- [Roshan](https://github.com/lauv22)
