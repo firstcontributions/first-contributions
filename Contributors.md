@@ -54,6 +54,7 @@ nathan practice here
 - [Laib Rehman](https://github.com/laibarehmankhan123-wq)
 - [JangCheonMyeong](https://github.com/jcm0314)
 - [Madhavi Porte](https://github.com/madhaviporte)
+- [Navin Choudhary](https://github.com/Navin-Choudhary)
 - [Sandeep Mahato](https://github.com/sandeepmahato1)
 - [Dinesh](https://github.com/ad-Dinesh)
 - [Yashwanth Patil](https://github.com/Yashwanthpatil2005)
@@ -288,6 +289,7 @@ hiba
 -[Kim Seung-hyun](https://github.com/ksh1217)
 - [Maciej Sztando](https://github.com/MaciejAtRelativity)
 - [Oscar Kriebel](https://github.com/OscarKriebel)
+- ManichandraG
 -[DHINESH-77](https://github.com/DHINESH-77)
 - [Harshit Raj](https://github.com/harshitpraj12)
 - [Harshit Raj](https://github.com/harshitpraj12)
@@ -3438,6 +3440,7 @@ hey yo!
 - [Tempo](https://github.com/wjs-tech)
 - [Dawn]
 - [Nasser575](https://github.com/Nasser575)
+- [jhpdh](https://github.com/jhpdh)
 - [Nagesh K](https://github.com/Nageshk88)
 - [gmagno123](https://github.com/gmagno123)
 - [Jean-Jaques Pietersen](https://github.com/jeanj14)
@@ -3455,5 +3458,8 @@ Nici30067
 - [natanaelcalebe](https://github.com/oncompanny-web)
 - [fadymas](https://github.com/fadymas)
 - [Wagner](https://github.com/wfsantos19772-lgtm)
+- [angel0l0l](https://github.com/angel0101)
+- [angel0l](https://github.com/angel0l0l)
 - [jeanbatistou01](https://github.com/jeanbatistou01-hash)
 - [Roshan](https://github.com/lauv22)
+- [Ronak](https://ronakportfolio.pages.dev/)
