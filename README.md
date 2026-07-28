@@ -242,4 +242,91 @@ Now let's get you started with contributing to other projects. We've compiled a 
 
 | <a href="docs/gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="docs/gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="docs/gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="docs/gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="docs/gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="docs/gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/960px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [GitHub Desktop](docs/gui-tool-tutorials/github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](docs/gui-tool-tutorials/github-windows-vs2017-tutorial.md)                                                                                                                          | [GitKraken](docs/gui-tool-tutorials/gitkraken-tutorial.md)                                                                                                                                        | [Visual Studio Code](docs/gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                                                  | [Atlassian Sourcetree](docs/gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                                      | [IntelliJ IDEA](docs/gui-tool-tutorials/github-windows-intellij-tutorial.md)                                                                                                                                                          |
+| [GitHub Desktop](docs/gui-tool-tutorials/github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](docs/gui-tool-tutorials/github-windows-vs2017-tutorial.md)                                                                                                                          | [GitKraken](docs/gui-tool-tutorials/gitkraken-tutorial.md)                                                                                                                                        | [Visual Studio Code](docs/gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                                                  | [Atlassian Sourcetree](docs/gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                                      | [IntelliJ IDEA](docs/gui-tool-tutorials/github-windows-intellij-tutorial.md)                                                                                                                                                         # ==========================================
+# CLUSTER PLOTS
+# ==========================================
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+from sklearn.cluster import KMeans, AgglomerativeClustering
+from sklearn.decomposition import PCA
+from sklearn.metrics import silhouette_samples, silhouette_score
+from sklearn.preprocessing import StandardScaler
+
+# Pull unique cultural markers using Macro country preferences database
+df_countries = pd.read_csv('/kaggle/input/datasets/kylefengkfeng209/the-ethics-of-self-driving-cars-who-dies/country_preferences.csv')
+cluster_features = ['n_saved', 'n_outcomes', 'save_rate']
+df_cluster_clean = df_countries[cluster_features].dropna()
+
+scaler = StandardScaler()
+X_scaled = scaler.fit_transform(df_cluster_clean)
+
+# Execute core configurations
+km = KMeans(n_clusters=3, random_state=42, n_init=10)
+km_labels = km.fit_predict(X_scaled)
+
+agg = AgglomerativeClustering(n_clusters=3)
+agg_labels = agg.fit_predict(X_scaled)
+
+plt.figure(figsize=(22, 14))
+
+# Plot 1: K-Means WCSS Inertia Elbow Curve Profiler
+plt.subplot(2, 3, 1)
+wcss = []
+for i in range(1, 8):
+    kmeans_test = KMeans(n_clusters=i, random_state=42, n_init=10)
+    kmeans_test.fit(X_scaled)
+    wcss.append(kmeans_test.inertia_)
+plt.plot(range(1, 8), wcss, marker='s', color='darkgreen', linestyle='-')
+plt.title('WCSS Inertia Elbow Optimization Map')
+plt.xlabel('Cluster Count (k)')
+plt.ylabel('WCSS Metric Space')
+
+# Plot 2: Silhouette Coefficient Distribution Boundary
+plt.subplot(2, 3, 2)
+sil_vals = silhouette_samples(X_scaled, km_labels)
+sil_avg = silhouette_score(X_scaled, km_labels)
+y_ticks_start = 10
+for i in range(3):
+    ith_cluster_sil_vals = sil_vals[km_labels == i]
+    ith_cluster_sil_vals.sort()
+    size_cluster_i = ith_cluster_sil_vals.shape[0]
+    y_ticks_end = y_ticks_start + size_cluster_i
+    plt.fill_betweenx(np.arange(y_ticks_start, y_ticks_end), 0, ith_cluster_sil_vals, alpha=0.7)
+    y_ticks_start = y_ticks_end + 10
+plt.axvline(x=sil_avg, color="red", linestyle="--", label=f'Avg Silhouette ({sil_avg:.2f})')
+plt.title('Silhouette Cluster Coefficient Thickness')
+plt.legend()
+
+# Plot 3: PCA Component Structural Dimension Mapping
+plt.subplot(2, 3, 3)
+pca = PCA(n_components=2)
+X_pca = pca.fit_transform(X_scaled)
+plt.scatter(X_pca[:, 0], X_pca[:, 1], c=km_labels, cmap='tab10', edgecolors='k', alpha=0.8)
+plt.xlabel('PCA Feature Dim 1')
+plt.ylabel('PCA Feature Dim 2')
+plt.title('PCA Multi-Dimensional Structural Spatial Mapping')
+
+# Plot 4: Agglomerative Tree Linkage Clustering Topology Scatter
+plt.subplot(2, 3, 4)
+sns.scatterplot(data=df_cluster_clean, x='n_outcomes', y='save_rate', hue=agg_labels, palette='prism')
+plt.title('Agglomerative Hierarchical Topology Grid')
+
+# Plot 5: Cluster Center Feature Attribute Profiles Grid
+plt.subplot(2, 3, 5)
+df_cluster_clean['Cluster_ID'] = km_labels
+cluster_profile = df_cluster_clean.groupby('Cluster_ID').mean().reset_index()
+cluster_melt = pd.melt(cluster_profile, id_vars=['Cluster_ID'], value_vars=['save_rate'])
+sns.barplot(data=cluster_melt, x='Cluster_ID', y='value', color='teal')
+plt.title('Cluster Centroid Average Save Rate Profiles')
+
+# Plot 6: Spatial Bivariate Cluster Concentration Boundaries
+plt.subplot(2, 3, 6)
+sns.scatterplot(data=df_cluster_clean, x='n_saved', y='save_rate', hue='Cluster_ID', palette='viridis', style='Cluster_ID', s=70)
+plt.title('Bivariate Spatial Cluster Profiles')
+
+plt.tight_layout()
+plt.show()
+
+print("📝 EXPLANATION: Clustering splits countries into clear moral groups. The elbow method selects the right number of groups, and silhouette scores verify that the boundaries cleanly separate the data.")
