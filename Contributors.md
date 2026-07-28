@@ -1244,6 +1244,7 @@ niceshowmini
   = [Utkarsh Singh](https://github.com/7sunray)
 - [Chinenye Agu](https://github.com/Drchiagu)
 - [Chirag Bimali](https://github.com/chirag-bimali)
+- [VeeranaGouda](https://github.com/veeranagouda1)
 - [Choi Doyoun](https://github.com/justjs4evr)
 - [Christian Short](https://github.com/Coverttrickster)
 - [CG Moon](https://github.com/claire-moon)
