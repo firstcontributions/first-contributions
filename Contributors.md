@@ -1,9 +1,9 @@
-# Contributors    
--[Bilaal Bakare] (https://github.com/BilaalBakare) 
+# Contributors
+-[Bilaal Bakare] (https://github.com/BilaalBakare)
 - [Azra Karakaya](https://github.com/azrakarakaya1)
 -[Thuta] (https://github.com/thuta-dev)
 -[Lalitha Sri](https://github.com/LalithaSriSanthapur)
-- [Arvind Verma](https://github.com/varvindea) 
+- [Arvind Verma](https://github.com/varvindea)
 -[Binay Dalai](https://github.com/bkd-dotcom)
 - [Paras Agarwal](https://github.com/ParasxAgarwal)
 -[Vayu Datta](https://github.com/vayudattasamasthanik-rgb)
@@ -25,7 +25,7 @@
 - [Fahad Shaikh](https://github.com/FahadS5534)
 [Wesley Walker](https://github.com/wwalker2)
 - [Suchay Joshi] (https://github.com/sucxay)
-- [hosseinghorbani](https://github.com/hosseinghorbani0) 
+- [hosseinghorbani](https://github.com/hosseinghorbani0)
 nathan practice here
 - [Trisha Hingu](https://github.com/trishahingu)
   [Sanika Talkhedkar]
@@ -184,7 +184,7 @@ nathan practice here
 - [Mayankshrey] (https://github.com/Mayankshrey438)
 - [Diegosantosgz] (https://github.com/Diegosantosgz)
 - [Nirmit Chaurasia] (https://github.com/nirmit01)
-  [deeba-raine] (https://github.com/deeba-raine) 
+  [deeba-raine] (https://github.com/deeba-raine)
 - [palak agrawal](https://github.com/Palak-agrawal123)
 - [Moritz G](https://github.com/Laugenstulle)
 - [Abhishek Kumar Sharma](https://github.com/Abhishekkrsharma07)
@@ -524,7 +524,7 @@ niceshowmini
 - [Jefferson Brito](https://github.com/jeffbrito-dev)
 -[BalrajuKonne2629](https://github.com/Balrajukonne2629/first-contributions.git)
 - [Trongcoderr](https://github.com/Trongcoderr)
-- [Love Chauhan](https://github.com/chauhanlove271)     
+- [Love Chauhan](https://github.com/chauhanlove271)
 - [Orji Emmanuel](https://github.com/ManuelOrji2)
 - [Yadiel Tesfaye](https://github.com/yadawprodev)
 - [Shubh] (https://github.com/skv-1180)
@@ -539,7 +539,7 @@ niceshowmini
 - [Keyur Patel] (https://github.com/keyurpatel8809) (https://keyurpatel.dev)
 - [KimsunLy](https://github.com/Kimsunly)
 - [Eric Ye](https://github.com/eriicye)
-- [Joseph Costa](https://github.com/JoeCosta7) 
+- [Joseph Costa](https://github.com/JoeCosta7)
 -[ Jove Amala Rathna⭐](https://github.com/joveamalarathna-s)
 - [Shan Asif](https://github.com/shanAweb)
 - [Lucas Santos Da Cruz](https://github.com/lsantosdacruz)
@@ -2014,7 +2014,7 @@ niceshowmini
 - [Ronak](https://github.com/roonakyadav)
 - [Ronik Kumbhar](https://github.com/ronik62)
 - [Roshan Kumar](https://github.com/roshan-zest)
-- 
+-
 - [Rudra](https://github.com/Rudra-cryptx)
 - [Rudresh Sharma](https://github.com/rudresh-sharma)
 - [Rudraksh Thakur](https://github.com/Thakur-ji-5513)
@@ -2662,7 +2662,7 @@ niceshowmini
 - [yGuox](https://github.com/yGuox)
 - [Luisa](https://github.com/LuoisaWu)
 - [Kuba](https://github.com/ImmaShinee)
-- [Yang](https://github.com/YANGANQI-Hitachi)  
+- [Yang](https://github.com/YANGANQI-Hitachi)
 - [Mariana Valente](https://github.com/eusoumarianavalente-stack)
 - [lzjshijlba](https://github.com/lzjshijlba)
 - [jlzrc](https://github.com/jlzrc)
@@ -3377,7 +3377,7 @@ bhumika
 hey yo!
 - [powerconect](https://github.com/powerconect)
 - [Mashikur Rahman Mirash](https://github.com/mashikur-steadfast)
-- [Omar Hassan](https://github.com/Omarh4700) 
+- [Omar Hassan](https://github.com/Omarh4700)
 - [Vincent Ker](https://github.com/loviqu2)
 - [TejikaSingh02](https://github.com/TejikaSingh02)
 | [Eddiegah](https://github.com/Eddiegah) | [GalamseySentinel](https://github.com/Eddiegah/GalamseySentinel) |
@@ -3455,7 +3455,7 @@ hey yo!
 - [Nakul Sharma](https://github.com/nakulsharma02)
 - [Priya Dharshini](https://github.com/Dharshukutti)
 - [Samuel Manik](https://github.com/5amuel02)
-- [Monica M S](https://github.com/Monicamathursivakumar) 
+- [Monica M S](https://github.com/Monicamathursivakumar)
 - [Oliver Radfahrer](https://github.com/hotchomat)
 - [Aprajita Mishra](https://github.com/mishra-aprajita)
 - [Sedar007](https://github.com/sedar007)
@@ -3521,7 +3521,7 @@ Nici30067
 - [estevaonr](https://github.com/estevaonr)
 - [Ulises Lopez](https://github.com/Uliseslopez02)
 - [Martin Romero](https://github.com/martinjulianromeroherrera-glitch)
--[Balasubramanian V](https://github.com/BalasubramanianV32)git 
+-[Balasubramanian V](https://github.com/BalasubramanianV32)git
 -[ardi1s](https://github.com/ardi1s)
 - [Tesla-538](https://github.com/Tesla-538)
 - [Satish Prajapati](https://github.com/satishTB82)
@@ -3541,3 +3541,4 @@ Nici30067
 - [Otavio Lopes](https://github.com/taviolopes2023-arch)
 - [Beatriz Azevedo](https://github.com/biahandradeaz-hash)
 - [Guhan Thangarasu](https://github.com/GUHAN0205)
+- [Eliatan Gabriel](https://github.com/EliatanGabriel)
