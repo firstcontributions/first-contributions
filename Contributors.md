@@ -820,6 +820,7 @@ niceshowmini
 - [Warren Edwards](https://github.com/warrenfromaustin)
 - [Edward Pineda](https://github.com/xEdwardP)
 - [Nikita Kushwaha](https://github.com/1nikitakushwaha)
+- [BeiN1](https://github.com/BeiN1)
 - [Ritesh nishad] (https://github.com/ritesh-404)
 - [Niharika]
 - [Prachi Saxena] (https://github.com/prachis2312)
