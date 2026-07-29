@@ -97,6 +97,7 @@ nathan practice here
 - [Naufal Ahamed](https://github.com/NaufalAhamed-M)
 - [Ju5tG](https://github.com/Ju5tG)
 - [Kalpesh Patil](https://github.com/kalpesh172000)
+- [Ladan Hamoud](https://github.com/ladanhamoud)
 - [Luis Ruvalcaba](https://github.com/luisruval)
 - [Tejaswini SL](https://github.com/Tej131-hue)
 - [Atif Mazhar](https://github.com/AtifMazhar-01)
