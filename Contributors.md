@@ -53,6 +53,7 @@ nathan practice here
 - [Jeet Narayan Chakraborty](https://github.com/JeetNarayanChakraborty)
 - [SidGod](https://github.com/starboylive)
 - [Ashwini](https://github.com/ashwinidattukumar)
+- [Subhash Joshi](https://github.com/Joshisubhash)
 - [Aarib](https://github.com/muhammadaaribali)
 - [Satyajeet sahoo](https://github.com/satyajeet-sahoo)
 - [mikel-btw](https://github.com/mikel-btw)
