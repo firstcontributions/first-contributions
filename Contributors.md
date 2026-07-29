@@ -325,6 +325,7 @@ hiba
 - Sloan S
 -[Kenny] (https://github.com/Kennyzambrano16122000)
 -[Alfred] (https://github.com/alfredd25)
+- [decriptcypher](https://github.com/decriptcypher)
 -[Margie] (https://github.com/margiecaina)
 [Abdullah](https://github.com/lets-abdullah/)
 [Abhishek](https://github.com/ABHIKALVIUM)
