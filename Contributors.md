@@ -6,6 +6,7 @@
 -[Binay Dalai](https://github.com/bkd-dotcom)
 - [Paras Agarwal](https://github.com/ParasxAgarwal)
 -[Vayu Datta](https://github.com/vayudattasamasthanik-rgb)
+- [R Sujay Bharadwaj](https://github.com/SujayBWJ)
 - [Mohamed Safwat](https://github.com/klax05/)
   This is a testing
  - [Fathia Omar](https://github.com/fathiaomar)
