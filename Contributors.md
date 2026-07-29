@@ -20,6 +20,7 @@
  - [Tejaswini Abburi](https://github.com/Tejaswini1112)
 - [Hamayl Zahid](https://github.com/hamaylzahid)
 -[Abel Jacob](github.com/Abel-Jacob)
+- [Daniel Shapiro](https://github.com/DanielS-CodeDev)
 - [Amar Kumar Thakur](https://github.com/supercell02)
 - [donneko](https://github.com/donneko)
 - [Fahad Shaikh](https://github.com/FahadS5534)
