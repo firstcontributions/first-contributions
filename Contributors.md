@@ -1,14 +1,14 @@
-# Contributors    
--[Bilaal Bakare] (https://github.com/BilaalBakare) 
--[Thuta] (https://github.com/thuta-dev)
--[Lalitha Sri](https://github.com/LalithaSriSanthapur)
+# Contributors  
+- [Hani Kahale](https://github.com/HaniKah)
+- [Bilaal Bakare](https://github.com/BilaalBakare) 
+- [Thuta](https://github.com/thuta-dev)
+- [Lalitha Sri](https://github.com/LalithaSriSanthapur)
 - [Arvind Verma](https://github.com/varvindea) 
--[Binay Dalai](https://github.com/bkd-dotcom)
+- [Binay Dalai](https://github.com/bkd-dotcom)
 - [Paras Agarwal](https://github.com/ParasxAgarwal)
--[Vayu Datta](https://github.com/vayudattasamasthanik-rgb)
+- [Vayu Datta](https://github.com/vayudattasamasthanik-rgb)
 - [R Sujay Bharadwaj](https://github.com/SujayBWJ)
 - [Mohamed Safwat](https://github.com/klax05/)
-  This is a testing
  - [Fathia Omar](https://github.com/fathiaomar)
  - [Rene Paul](https://github.com/rene-pau)
 -[Barry J]
