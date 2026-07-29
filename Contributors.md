@@ -3304,6 +3304,7 @@ bhumika
 - [Sanjeev M S](https://github.com/SanjeevMS27)
 - [kgandhi01](https://github.com/kgandhi01)
 - Alexander N
+- [Alan Walters](https://github.com/alanjwalters)
 - [Edison Lin](https://github.com/edisonlin2873)
 - [Habtamu](https://github.com/Dark-programming546)
 - [Prashik Wankhade](https://github.com/PrashikWankhadeSCOE)
