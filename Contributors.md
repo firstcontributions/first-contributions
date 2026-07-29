@@ -1,5 +1,6 @@
 # Contributors    
 -[Bilaal Bakare] (https://github.com/BilaalBakare) 
+- [Azra Karakaya](https://github.com/azrakarakaya1)
 -[Thuta] (https://github.com/thuta-dev)
 -[Lalitha Sri](https://github.com/LalithaSriSanthapur)
 - [Arvind Verma](https://github.com/varvindea) 
@@ -3526,6 +3527,9 @@ Nici30067
 
 - [PiePzhanH](https://github.com/PiePzhanH)
 [Muhammad Lutfi Muzaki](https://github.com/MuhammadLutfiMuzakiiVY)
+- [deepak](https://github.com/deeps019)
 - [Nylog](https://github.com/Nylog)
 - [Manas Sharma](https://github.com/ManasDevHub00)
 - [Henry Deng](https://github.com/HenryDDD123)
+- yuyu945
+- [Otavio Lopes](https://github.com/taviolopes2023-arch)
