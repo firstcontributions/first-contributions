@@ -1580,6 +1580,7 @@ niceshowmini
 - [jesusnoelrg](https://github.com/jesusnoelrg)
 - [Jin_Sakai](https://github.com/ShamGaneshan2008)
 - [Jnaneswar karedla](https://github.com/jnaneswar077)
+- [Juan Escobar]
 - [Jo Kershaw](https://github.com/jo-kershaw)
 - [Joey Statz](https://github.com/jstatz42)
 - [Johnathan Orizaba](https://github.com/johnathanorizaba15-max)
