@@ -150,7 +150,7 @@
 - [Yoh Brain](https://github.com/Yoh-Brain)
   //Mohamed//
 - [Shringar Sharan](https://github.com/shringarsharan)
-  [shreyac]
+  [Shreyac]
 - [Ahmed Awad](https://github.com/ahmedawad72)
 - [Rushi Rane](https://github.com/RushiRane2006)
 - [Atharv Rawat](https://github.com/atharvesting)
