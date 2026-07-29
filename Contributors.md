@@ -3546,3 +3546,5 @@ Nici30067
 - [Beatriz Azevedo](https://github.com/biahandradeaz-hash)
 - [Guhan Thangarasu](https://github.com/GUHAN0205)
 - [Banky O] (https://github.com/engrbanky-hash)
+- [Saverio Traversa](https://github.com/saveriot)
+- [Drew Ramos](https://github.com/drewsElearning) 
