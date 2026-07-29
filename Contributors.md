@@ -208,6 +208,7 @@ nathan practice here
 - [Muhammad Ali](https://github.com/Muhammad-Ali-5331)
 - [Muhammad Uwais Baig](https://github.com/UwaisBaig)
 - [Hudson Glines](https://github.com/drusticc)
+- [Yoran Voorter](https://github.com/yoranvoorter)
 - [Saliya Ranasgalla](https://github.com/SaliyaRanasgalla)
 - [Amaan saifi](https://github.com/amaansaifi-ai)
 - [Yamini Gaur](https://github.com/Yami-gaur04)
