@@ -997,6 +997,7 @@ niceshowmini
 - [Mengyuan Ding](https://github.com/jessy-ding)
 - [James_Zammit](https://github.com/Jamzes2)
 - [6NaCl](https://github.com/6NaCl)
+- [dididev](https://github.com/itsdididev)
 - [allCodeBreaker](https://github.com/allCodeBreaker)
 - [8nchanter](https://github.com/8nchanter)
 - [Aditya_kesarwani](https://github.com/adityakesarwani10)
