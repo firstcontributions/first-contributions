@@ -2,12 +2,13 @@
 
 -[Bilaal Bakare] (https://github.com/BilaalBakare) -[Thuta] (https://github.com/thuta-dev) -[Lalitha Sri](https://github.com/LalithaSriSanthapur)
 
+- [Pranav Patnaik](https://github.com/pranavpatnaik1)
 - [Arvind Verma](https://github.com/varvindea) -[Binay Dalai](https://github.com/bkd-dotcom)
 - [Paras Agarwal](https://github.com/ParasxAgarwal) -[Vayu Datta](https://github.com/vayudattasamasthanik-rgb)
 - [Mohamed Safwat](https://github.com/klax05/)
   This is a testing
 - [Fathia Omar](https://github.com/fathiaomar)
-- [Rene Paul](https://github.com/rene-pau) -[Barry J] -[Pranav Patnaik](https://github.com/pranavpatnaik1) -[Pranjal Giri](https://github.com/pranjalx07)
+- [Rene Paul](https://github.com/rene-pau) -[Barry J] -[Pranjal Giri](https://github.com/pranjalx07)
 - [Vittor Guimaraes](https://github.com/vittorguimaraes-git)
 - [Prajwal Srinivas](https://github.com/prajwal2308)
 - [Tejaswini Abburi](https://github.com/Tejaswini1112)
