@@ -3533,3 +3533,4 @@ Nici30067
 - [Henry Deng](https://github.com/HenryDDD123)
 - yuyu945
 - [Otavio Lopes](https://github.com/taviolopes2023-arch)
+- [Beatriz Azevedo](https://github.com/biahandradeaz-hash)
