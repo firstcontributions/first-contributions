@@ -4,6 +4,7 @@
 
 - [Arvind Verma](https://github.com/varvindea) -[Binay Dalai](https://github.com/bkd-dotcom)
 - [Paras Agarwal](https://github.com/ParasxAgarwal) -[Vayu Datta](https://github.com/vayudattasamasthanik-rgb)
+- [R Sujay Bharadwaj](https://github.com/SujayBWJ)
 - [Mohamed Safwat](https://github.com/klax05/)
   This is a testing
 - [Fathia Omar](https://github.com/fathiaomar)
@@ -92,6 +93,7 @@
 - [Naufal Ahamed](https://github.com/NaufalAhamed-M)
 - [Ju5tG](https://github.com/Ju5tG)
 - [Kalpesh Patil](https://github.com/kalpesh172000)
+- [Ladan Hamoud](https://github.com/ladanhamoud)
 - [Luis Ruvalcaba](https://github.com/luisruval)
 - [Tejaswini SL](https://github.com/Tej131-hue)
 - [Atif Mazhar](https://github.com/AtifMazhar-01)
