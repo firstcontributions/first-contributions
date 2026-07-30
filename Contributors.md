@@ -3597,3 +3597,4 @@ Nici30067
 - [Samuel Eicker](https://github.com/samueleicker-rgb)
 - [evazoka](https://github.com/evazoka)
 - [jiu99203](https://github.com/jiu99203)
+- [Michael Tucker](https://github.com/micheal-tucker)
