@@ -998,6 +998,7 @@ niceshowmini
 - [ADman007](https://github.com/ADman007)
 - [count-aaryam](https://github.com/count-aaryam)
 - [dopdev08](https://github.com/dopdev08)
+- [Kennedy Karimi](https://github.com/OPTIMUS-9113)
 - [Sruthijha](https://github.com/Sruthijha)
 - [1Burhanuddin](https://github.com/1Burhanuddin)
 - [Ahris Ali](https://github.com/ahrisali123)
