@@ -1566,6 +1566,7 @@ niceshowmini
 - [Ishit](https://github.com/ishitGsigma)
 - [Ishita Singh](https://github.com/codeishitech)
 - [Ishita](https://github.com/elekish)
+- [Ishita Sajeev](https://github.com/IshitaSajeev)
 - [Itay Ben Daniel](https://github.com/ItayBenDaniel)
 - [Ivan Dimitrov](https://github.com/Durotaren)
 - [Ivanich0](https://github.com/Ivanich0)
