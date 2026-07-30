@@ -35,6 +35,7 @@
 - [hosseinghorbani](https://github.com/hosseinghorbani0) 
 nathan practice here
 - [Trisha Hingu](https://github.com/trishahingu)
+- [Nikesh Sapkota](https://github.com/nikeshsapkota32)
 - [Prerit Gupta](https://github.com/TryToPlay)
   [Sanika Talkhedkar]
 - [Sakshi Vyavahare](https://github.com/sakshivyavahare20)
