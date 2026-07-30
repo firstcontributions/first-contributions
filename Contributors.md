@@ -83,6 +83,7 @@ nathan practice here
 - [Rohan Mukka](https://github.com/RohanMukka)
 - [Jeff Mckee](https://github.com/Jeff-Mckee)
 - [Meysam Rezaee](https://github.com/meysamrezaee)
+- [Jordan Stempel](https://github.com/Jordan-Stempel)
 - [Tarun Rai](https://github.com/Tarun995)
 - [Yitian Liao](https://github.com/yitianliao888)
 - [Ankur Shinde](https://github.com/ankurshnde)
