@@ -3613,3 +3613,4 @@ Nici30067
 - [Vitor Faria](https://github.com/CriativoStudio)
 - [Felipe Faria](https://github.com/felipeffaria)
 - [Naziya Shah](https://github.com/naziyashah)
+- [Bruno Zimmer](https://github.com/bruzimmer123-debug)
