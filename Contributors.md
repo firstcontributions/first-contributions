@@ -3584,4 +3584,5 @@ Nici30067
 - [AMAN](https://github.com/kauraman80-dev)
 - [Abdullah](https://github.com/abdallaroom100) 
 - [Kedi Wang](https://github.com/FrankWkd-Plus)
+- [Kate Angel Escobar](https://github.com/KateAngelx)
 - [Samuel Eicker](https://github.com/samueleicker-rgb)
