@@ -104,6 +104,7 @@ nathan practice here
 - [Soham Raorane](https://github.com/sohamraorane)
 - [Wahid Ali](https://github.com/wahidst3)
 - [smz202000](https://github.com/smz202000)
+- [prishadoshi](https://github.com/prishadoshi)
 - [gustav26-a11Y](https://github.com/gustav26-a11y)
 - [Kabir Maske](https://github.com/kabirmaske)
 - [Sarweshwar Buddolla] (https://github.com/sarweshwargoud)
