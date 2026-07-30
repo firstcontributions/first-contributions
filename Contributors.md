@@ -1,5 +1,4 @@
 # Contributors
-
 - [Pavithra S] (https://github.com/Pavi1205)
 - [uehjriw]
 - [Santiago Bohorquez Gónzalez] (https://github.com/sborx12)
