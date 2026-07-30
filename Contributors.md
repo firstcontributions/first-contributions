@@ -83,6 +83,7 @@ nathan practice here
 - [Rohan Mukka](https://github.com/RohanMukka)
 - [Jeff Mckee](https://github.com/Jeff-Mckee)
 - [Meysam Rezaee](https://github.com/meysamrezaee)
+- [Jordan Stempel](https://github.com/Jordan-Stempel)
 - [Tarun Rai](https://github.com/Tarun995)
 - [Yitian Liao](https://github.com/yitianliao888)
 - [Ankur Shinde](https://github.com/ankurshnde)
@@ -319,6 +320,7 @@ hiba
 - [Harshit Raj](https://github.com/harshitpraj12)
 - [Harshit Raj](https://github.com/harshitpraj12)
 -[Divyansh Pandey](https://github.com/divyansh-coder-git)
+- [Gidon Loewenberg](https://github.com/lgidon)
 -[WahyuWian]
 - [Sanya Bakshi](https://github.com/sanyabakshi18)
 - [LELE3152](https://github.com/LELE3152)
@@ -1786,6 +1788,7 @@ niceshowmini
 - [chlwns301-cloud](https://github.com/chlwns301-cloud)
 - [Nilesh Sarkar](https://github.com/23f2004613)
 - [Nina Borodin](https://github.com/ninaborodin)
+- [PVESS](https://github.com/12gudfokhr)
 - [Mukund Sridhar](https://github.com/mukundsridhargit)
 - [Ninad Ubale](https://github.com/NinadUbale)
 - [NinoYin](https://github.com/NinoYin)
@@ -3559,3 +3562,4 @@ Nici30067
 - [nandofss](https://github.com/nandofss)
 - [hch9503](https://github.com/hch9503-ship-it)
 - [Nivethitha Anand](https://github.com/Nivethithaanand05)
+- [tpdls741](https://github.com/tpdls741)
