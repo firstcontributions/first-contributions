@@ -3605,3 +3605,4 @@ Nici30067
 - [Vitor Faria](https://github.com/CriativoStudio)
 - [Felipe Faria](https://github.com/felipeffaria)
 - [Naziya Shah](https://github.com/naziyashah)
+- [Mateus Lerbach](https://github.com/9n5bwsdysc-code)
