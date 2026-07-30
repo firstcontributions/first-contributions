@@ -3,13 +3,17 @@
 - [Azra Karakaya](https://github.com/azrakarakaya1)
 -[Thuta] (https://github.com/thuta-dev)
 - [Arvind Verma](https://github.com/varvindea)
+# Contributors  
+- [Hani Kahale](https://github.com/HaniKah)
+- [Bilaal Bakare](https://github.com/BilaalBakare) 
+- [Thuta](https://github.com/thuta-dev)
 - [Lalitha Sri](https://github.com/LalithaSriSanthapur)
--[Binay Dalai](https://github.com/bkd-dotcom)
+- [Arvind Verma](https://github.com/varvindea) 
+- [Binay Dalai](https://github.com/bkd-dotcom)
 - [Paras Agarwal](https://github.com/ParasxAgarwal)
--[Vayu Datta](https://github.com/vayudattasamasthanik-rgb)
+- [Vayu Datta](https://github.com/vayudattasamasthanik-rgb)
 - [R Sujay Bharadwaj](https://github.com/SujayBWJ)
 - [Mohamed Safwat](https://github.com/klax05/)
-  This is a testing
  - [Fathia Omar](https://github.com/fathiaomar)
  - [Abdul khudus] (https://github.com/Abdulkhudus)
  - [Rene Paul](https://github.com/rene-pau)
@@ -3545,6 +3549,7 @@ Nici30067
 - [Satish Prajapati](https://github.com/satishTB82)
 - [Costas Giallouros](https://github.com/giallouros)
 - [unclehank5255](https://github.com/unclehank5255)
+- [Om More](https://github.com/omkailasmore)
 - [tedhwang700](https://github.com/tedhwang700)
 
 - [Yagmur Sultan](https://github.com/yagmursultanekin)
@@ -3570,3 +3575,4 @@ Nici30067
 - [tpdls741](https://github.com/tpdls741)
 - [Kalla Sai Suraj](https://github/Surai-12343423)
 - [Ananya Das](https://github.com/apananya3p7-prog)
+- [Angelo Montini](https://github.com/montiniangelo)
