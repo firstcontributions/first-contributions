@@ -3588,3 +3588,4 @@ Nici30067
 - [Kedi Wang](https://github.com/FrankWkd-Plus)
 - [Kate Angel Escobar](https://github.com/KateAngelx)
 - [Samuel Eicker](https://github.com/samueleicker-rgb)
+- [evazoka](https://github.com/evazoka)
