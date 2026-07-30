@@ -300,6 +300,7 @@ Syed Omer
 - [Anoop Raj](https://github.com/anoopraj-dev)
  Lvbei
   je_sky
+- [Jai Akash K] {https://github.com/JaiAkash-CodesIO}
 - Nishant Thakur
 - [Ritesh Raj]
 - [Khan-Fazal-sys](https://github.com/Khan-Fazal-sys)
@@ -319,6 +320,7 @@ hiba
 - [Maciej Sztando](https://github.com/MaciejAtRelativity)
 - [Oscar Kriebel](https://github.com/OscarKriebel)
 - ManichandraG
+- 
 -[DHINESH-77](https://github.com/DHINESH-77)
 - [Harshit Raj](https://github.com/harshitpraj12)
 - [Harshit Raj](https://github.com/harshitpraj12)
@@ -398,6 +400,7 @@ Aalli
 - [Suraj Patil] - [https://github.com/SurajPatil2645]
 - [조민석](https://github.com/borntobefarmer)
 - Shuvashree Baisya - [https://github.com/shuva-shree]
+-jai akash k
 - [LevelVoid] (https://github.com/LevelVoid)
 - [cyx89032-dot](https://github.com/cyx89032-dot)
 -[Askademy Ofiicial](https://github.com/askademyofficial)
