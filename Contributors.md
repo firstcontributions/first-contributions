@@ -1,6 +1,7 @@
 # Contributors  
 - [Anshul Kanodia](https://github.com/AnshulKanodia) 
 - oussema tayechi
+- [Azlan Ainto](https://github.com/Azlan-Ainto)
 - {Harshitha L M}(https://github.com/HarshithaLM)
 - [Hira Khyzer](https://github.com/Hirakhyzer)
 - [Hani Kahale](https://github.com/HaniKah)
