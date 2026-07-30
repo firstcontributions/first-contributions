@@ -2437,6 +2437,7 @@ niceshowmini
 - [Zoraz](https://github.com/Zoraz01)
 - [aaryan padgilwar](https://github.com/aaryanpadgilwar-01)
 - [apoorv_v](https://github.com/apoorvnv)
+- [fedi](https://github.com/fedilouhichi-95)
 - [aps](https://github.com/aps-181)
 - [bengierk](https://github.com/bengierk)
 - [Lisa Yang](https://github.com/lisayang6666)
