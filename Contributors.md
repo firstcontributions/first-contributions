@@ -28,6 +28,7 @@
 [Wesley Walker](https://github.com/wwalker2)
 
 - [Suchay Joshi] (https://github.com/sucxay)
+-[Deepthi sree Chekuri]
 - [hosseinghorbani](https://github.com/hosseinghorbani0) 
 nathan practice here
 - [Trisha Hingu](https://github.com/trishahingu)
