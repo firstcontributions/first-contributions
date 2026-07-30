@@ -2155,6 +2155,7 @@ niceshowmini
 - [Yuchen Zhou](https://github.com/SeRendizc)
 - [Sergiu Nicolae Brega](https://github.com/sergiubrega)
 - [Sfisnb Yu](https://github.com/Sfisnb)
+- [Saf-ire](https://github.com/Saf-ire)
 - [Shabin Francis](https://github.com/shabinfrancis)
 - [Shahir](https://github.com/Shahir-Habib)
 - [ShandiniM](https://github.com/shandiniece2024)
