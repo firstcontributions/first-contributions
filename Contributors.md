@@ -11,6 +11,7 @@
 - [Arvind Verma](https://github.com/varvindea) 
 - [Binay Dalai](https://github.com/bkd-dotcom)
 - [Paras Agarwal](https://github.com/ParasxAgarwal)
+- [Vinay Shakelli](https://github.com/VinayShakelli)
 - [miguelessecond](https://github.com/miguelessecond)
 - [Vayu Datta](https://github.com/vayudattasamasthanik-rgb)
 - [R Sujay Bharadwaj](https://github.com/SujayBWJ)
