@@ -164,15 +164,6 @@ git checkout -b your-new-branch-name
 
 Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
 
-> [!IMPORTANT]
-> To maintain uniformity, please follow the same format as:
-> ```md
-> - [Your Name](https://github.com/your-username)
-> or
-> - [Your Name]
-> ```
-> Avoid adding any unnecessary words like "This is my first contribution" or any other descriptive text.
-
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
 If you go to the project directory and execute the command `git status`, you'll see there are changes.
@@ -211,11 +202,11 @@ replacing `your-branch-name` with the name of the branch you created earlier.
   Go to [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) on generating and configuring an SSH key to your account.
 
   Also, you might want to run 'git remote -v' to check your remote address.
-
+  
   If it looks anything like this:
   <pre>origin	https://github.com/your-username/your_repo.git (fetch)
   origin	https://github.com/your-username/your_repo.git (push)</pre>
-
+  
   change it using this command:
   ```bash
   git remote set-url origin git@github.com:your-username/your_repo.git
