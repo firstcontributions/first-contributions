@@ -3460,6 +3460,7 @@ hey yo!
 - [Ezzah-git](https://github.com/Ezzah-git)
 - [Derek Allan Boman](https://github.com/derekallanboman)
 - [Oindreela Saha](https://github.com/oindreela04)
+- [Salil Chauhan](https://github.com/SalilFTW)
 - [Hariom Nagar](https://github.com/Hariomnagar628)
 - [Thiseni Rathnayake](https://github.com/Thiseni-R)
 - [Nyx Tesla](https://github.com/rmsm369-tech)
