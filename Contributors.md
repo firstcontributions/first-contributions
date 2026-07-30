@@ -25,6 +25,7 @@
 - [donneko](https://github.com/donneko)
 - [Fahad Shaikh](https://github.com/FahadS5534)
 [Wesley Walker](https://github.com/wwalker2)
+
 - [Suchay Joshi] (https://github.com/sucxay)
 - [hosseinghorbani](https://github.com/hosseinghorbani0) 
 nathan practice here
@@ -566,6 +567,7 @@ niceshowmini
 - [ranjana](https://github.com/ranjana-nr)
 - [Abhish Shetty](https://github.com/abhishettyy)
 - [Jacob](https://github.com/ajacob-c)
+- [Daniel Hancock] (https://github.com/danielhancockdev)
 - [Volticius](https://github.com/Ataba29)
 - [Abhishek](https://github.com/trustAbhishek)
 - [Saiesh Sharma](https://github.com/SaieshSharma)
