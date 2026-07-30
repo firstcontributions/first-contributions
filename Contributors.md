@@ -15,6 +15,7 @@
  - [Rene Paul](https://github.com/rene-pau)
 -[Barry J]
 -[Pranjal Giri](https://github.com/pranjalx07)
+[Neethi Amrutha](https://github.com/githubsneethi)
 - [Vittor Guimaraes](https://github.com/vittorguimaraes-git)
  - [Prajwal Srinivas](https://github.com/prajwal2308)
  - [Tejaswini Abburi](https://github.com/Tejaswini1112)
