@@ -3358,6 +3358,7 @@ bhumika
 - [Ghannath Kumar](https://github.com/GHANNATHKUMAR)
 - [Robson Benevides](https://github.com/robsonbenevides21-web)
 - asmitha
+- [Ashish Mishra](https://github.com/ashish08m)
 - [anaplaster](https://github.com/anaplaster)
 - [Henrique](https://github.com/henrique08julho-sys)
 - [Luis Castillo](https://github.com/devcastlecix)
