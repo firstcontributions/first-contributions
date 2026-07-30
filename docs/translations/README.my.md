@@ -5,32 +5,32 @@
 
 # Sumbangan Pertama
 
-Projek ini bertujuan untuk memberikan panduan dan memudahkan individu yang baru mula belajar membuat sumbangan pertama mereka. 
+Projek ini bertujuan untuk memberikan panduan dan memudahkan individu yang baru mula belajar membuat sumbangan pertama mereka.
 Jika anda ingin membuat sumbangan pertama anda, sila ikuti arahan yang disediakan di bawah.
 
 #### *Sekiranya anda tidak selesa dengan menggunakan antara muka baris perintah (CLI), anda boleh mengikuti [panduan untuk menggunakan alat GUI di sini.](#Tutorial-Menggunakan-Alat-Lain)*
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="Fork repositori ini" />
 
-Jika git belum dipasang di mesin anda, sila memasangnya [di sini](https://help.github.com/articles/set-up-git/).
+Jika git belum dipasang di mesin anda, sila memasangnya, [rujuk di sini](https://help.github.com/articles/set-up-git/).
 
 ## Fork repositori ini
 
-Fork repositori ini dengan menekankan butang 'Fork' yang terletak di bahagian atas halaman ini.
-Tindakan tersebut akan menghasilkan salinan repositori ini ke dalam akaun GitHub anda.
+Langkah pertama, fork repositori ini dengan menekan butang **Fork** yang terletak di bahagian atas halaman ini.
+Tindakan ini akan membuat salinan repositori ini ke dalam akaun GitHub anda.
 
 ## Klon repositori ini
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="Klon repositori ini" />
 
-Klon repositori yang anda telah fork ke mesin anda. Selepas itu, layari akaun GitHub anda, buka repositori yang baru dicabang, klik butang Clone, dan kemudian klik ikon *Copy url to clipboard*.
+Klon repositori yang telah anda *fork* ke komputer anda. Pergi ke akaun GitHub anda, buka repositori yang baru dicabang, klik butang **Code**, dan kemudian tekan ikon *Copy URL to clipboard*.
 
 Buka terminal dan jalankan arahan git berikut:
 
 ```bash
 git clone "URL anda baru disalin"
 ```
-di mana "URL anda baru disalin" (tanpa tanda petikan) adalah URL ke repositori ini (fork anda bagi projek ini). Rujuk langkah-langkah sebelumnya untuk mendapatkan URL tersebut.
+di mana "URL anda baru disalin" (tanpa tanda petikan) adalah URL ke repositori fork anda bagi projek ini. Rujuk langkah-langkah sebelumnya untuk mendapatkan URL tersebut.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="Salin URL ke papan keratan" />
 
@@ -38,16 +38,16 @@ Contoh:
 ```bash
 git clone https://github.com/<this-is-you>/first-contributions.git
 ```
-di mana `this-is-you` adalah nama pengguna GitHub anda. Di sini, anda menyalinkan kandungan repositori GitHub 'first-contributions' ke komputer anda.
+di mana `this-is-you` adalah nama pengguna GitHub anda. Arahan ini akan menyalin kandungan repositori anda tadi 'first-contributions' ke komputer anda.
 
 ## Membuat branch
 
-Tukar ke direktori repositori pada komputer anda (jika lokasi CLI belum berada di sana):
+Tukar ke direktori repositori di komputer anda (jika terminal anda belum berada di dalamnya):
 
 ```bash
 cd first-contributions
 ```
-Sila buat branch menggunakan arahan `git switch`:
+Cipta branch menggunakan arahan `git switch`:
 ```bash
 git switch -c add-your-name
 ```
@@ -57,14 +57,35 @@ Contoh:
 git switch -c add-emma-maembong
 ```
 
+<details>
+<summary> <strong>Jika anda mendapati sebarang kesalahan menggunakan git switch, klik di sini:</strong> </summary>
+
+Jika mesej ralat "Git: `switch` is not a git command. See `git -–help`" muncul, kemungkinan kerana anda menggunakan versi git yang lebih lama.
+
+Untuk kes ini, cuba gunakan `git checkout` sebagai ganti:
+
+```bash
+git checkout -b your-new-branch-name
+```
+
+</details>
+
 ## Buat perubahan yang diperlukan dan komit perubahan tersebut
 
-Sekarang, buka fail `Contributors.md` dalam sebuah editor teks, dan tambahkan nama anda ke dalam fail itu. Jangan tambahkan pada awal atau akhir fail. Letakkan di mana-mana bahagian di antara kedua-duanya. Kemudian, simpan fail tersebut.
+Sekarang, buka fail `Contributors.md` dalam sebuah penyunting teks, dan tambahkan nama anda ke dalam fail itu. Jangan tambahkan pada awal atau paling bawah fail. Letakkan di mana-mana bahagian di antaranya. Kemudian, simpan fail tersebut.
+
+> [!IMPORTANT]
+> Untuk membuat keseragaman, sila ikut format yang sama seperti:
+> ```md
+> - [Nama Anda](https://github.com/nama-pengguna-github-anda)
+> atau
+> - [Nama Anda]
+> ```
+> Elakkan menambah perkataan yang tidak perlu seperti "Ini adalah sumbangan pertama saya" atau sebagainya.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
-
-Jika anda pergi ke direktori projek dan laksanakan arahan `git status`, anda akan melihat perubahan tersebut.
+Jika anda pergi ke direktori projek dan melaksanakan arahan `git status`, anda akan melihat perubahan yang telah dibuat.
 
 Tambahkan perubahan itu ke branch yang baru anda cipta menggunakan arahan `git add`:
 
@@ -72,23 +93,42 @@ Tambahkan perubahan itu ke branch yang baru anda cipta menggunakan arahan `git a
 git add Contributors.md
 ```
 
-Selepas itu, komit perubahan tersebut menggunakan arahan `git commit`:
+Kemudian, komit perubahan tersebut menggunakan arahan `git commit`:
 ```bash
 git commit -m "Add <your-name> to Contributors list"
 ```
-menggantikan `<your-name>` dengan nama anda.
+Gantikan `<your-name>` dengan nama anda.
 
-## Push perubahan ke dalam GitHub
+## Muatnaik (Push) perubahan ke dalam GitHub
 
-Tolak perubahan anda menggunakan arahan `git push`:
+Muatnaik perubahan anda menggunakan arahan `git push`:
 ```bash
-git push -u origin <add-your-name>
+git push -u origin <your-name>
 ```
-menggantikan `<add-your-name>` dengan nama branch yang kamu cipta sebelumnya.
+Gantikan `<your-name>` dengan nama branch yang kamu cipta.
+
+<details>
+<summary> <strong>Jika anda mendapati sebarang ralat semasa menghantar (push), klik di sini:</strong> </summary>
+
+Anda mungkin mendapat mesej ralat seperti ini:
+```bash
+fatal: 'origin' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+```
+
+Anda mungkin perlu menambah repositori asal sebagai 'remote' untuk repositori anda. Jalankan arahan berikut:
+```bash
+git remote add origin <URL repositori fork anda>
+```
+
+</details>
 
 ## Hantar perubahan anda untuk semakan
 
-Jika anda pergi ke repositori anda di GitHub, anda akan melihat butang `Compare & pull request`. Klik butang tersebut.
+Jika anda pergi ke repositori anda di GitHub, anda akan melihat butang `Compare & pull request`. Klik pada butang tersebut.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="Cipta pull request" />
 
