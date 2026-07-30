@@ -3598,3 +3598,4 @@ Nici30067
 - [evazoka](https://github.com/evazoka)
 - [jiu99203](https://github.com/jiu99203)
 - [Vitor Faria](https://github.com/CriativoStudio)
+- [Felipe Faria](https://github.com/felipeffaria)
