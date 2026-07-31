@@ -117,7 +117,7 @@ Adigoo `magaca-laantaada` ku badalaya magaca laanta aad hore u abuurtay.
 - ### Cilad Xaqiijin
      <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
   remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
-  fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
+  fatal: Authentication failed for 'https://github.com/&lt;your-username&gt;/first-contributions.git/'</pre>
   Tag [casharrada GitHub](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) ee ku saabsan abuuritaanka iyo habaynta furaha SSH ee akoonkaaga
 
 </details>
@@ -139,6 +139,8 @@ Dhawaan waxaan ku dari doonaa dhammaan isbeddelladaada laanta ugu weyn ee mashru
 Hambalyo! Waxaad hadda dhamaystirtay heerka caadiga ah ee kalaqaybinta(fork) -> koobbi-ga (clone) -> wax kabedelka -> codsiga jiidista habka shaqada oo aad inta badan la kulmi doonto ka qaybqaate ahaan!
 
 U dabaaldeg wax ku biirintaada oo la wadaag asxaabtaada iyo kuwa ku raacsan adiga oo aadaya [abka shabakada](https://firstcontributions.github.io/#social-share).
+
+Haddii aad rabto tababar dheeraad ah, eeg [code contributions](https://github.com/roshanjossey/code-contributions).
 
 Hadda aan kuu bilowno ka qayb qaadashada mashaariicda kale. Waxaan soo diyaarinay liis mashruucyo ah oo leh qaladaad sahlan oo aad ku bilaabi karto. Fiiri [liiska mashaariicda ku jira abka shabakada](https://firstcontributions.github.io/#project-list).
 

@@ -10,8 +10,7 @@ Leer artículos y ver tutoriales puede ayudar, pero, ¿Qué mejor manera de prac
 
 #### *Si no estás familiarizado con la consola o terminal, [aquí hay tutoriales usando herramientas con Interfaz Gráfica (GUI)](#Tutoriales-con-otras-herramientas)*
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="hacer un fork de este repositorio"
- />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="hacer un fork de este repositorio" />
 
 Si no tienes git en tu equipo, puedes encontrar instrucciones para instalarlo en [este enlace]( https://docs.github.com/es/get-started/quickstart/set-up-git ).
 

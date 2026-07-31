@@ -111,7 +111,7 @@ git push -u origin your-branch-name
 - ### প্ৰমাণীকৰণ ত্ৰুটি
      <pre>remote: পাসৱৰ্ড প্ৰমাণীকৰণৰ সহায়তা অপসাৰণ কৰা হৈছিল 13 আগষ্ট, 2021 তাৰিখে
   remote: অনুগ্ৰহ কৰি চাওক:: https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ অধিক তথ্যৰ বাবে
-অনুগ্ৰহ কৰি এইটো চাওক: 'https://github.com/<your-username>/first-contributions.git/'</pre>
+  অনুগ্ৰহ কৰি এইটো চাওক: 'https://github.com/&lt;your-username&gt;/first-contributions.git/'</pre>
   যাওক [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) SSH কী সৃষ্ট আৰু কনফিগাৰ কৰাৰ জন্য যোৱা
 
   আপুনি 'git remote -v' কমাণ্ডটো চলাব পাৰে আপোনাৰ দূৰৱর্তী ঠিকনাটো পৰীক্ষা কৰিবলৈ।

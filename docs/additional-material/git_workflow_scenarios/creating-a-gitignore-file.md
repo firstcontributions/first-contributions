@@ -2,7 +2,7 @@
 
 The `.gitignore` file is an essential component of Git's workflow. It tells Git which files and folders to ignore, preventing unnecessary or sensitive data from being tracked in your repository.
 
-## Why Use .gitignore?
+## Why use .gitignore?
 
 Certain files should not be included in version control because they are either:
 - Temporary or system-generated (e.g., cache, build files, logs)
@@ -21,7 +21,7 @@ To create a `.gitignore` file:
 
 ### Basic Syntax for .gitignore
 - `*` → Wildcard for matching multiple files.
-- `/` → Specifies path relative to `.gitignore`.
+- `/` → Specifies a path relative to `.gitignore`.
 - `#` → Adds comments.
 
 ### Example .gitignore File:
@@ -49,7 +49,7 @@ To create a global `.gitignore` file (applies to all repositories):
 ```sh
 git config --global core.excludesfile ~/.gitignore_global
 ```
-Then, edit `~/.gitignore_global` as you would a local `.gitignore`.
+Then edit `~/.gitignore_global` as you would edit a local `.gitignore` file.
 
 ## Removing Files from Git Tracking
 
