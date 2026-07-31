@@ -39,6 +39,7 @@ Amir Osman
 - [Rishita Sinha](https://github.com/rishita0706)
 # guilherme gomes
 - [Musawer Ahmad](https://github.com/musawerxd)
+- [Lakshmi Priya K S](https://github.com/Lakssiva)
 - [Raunak katiyar github](https://github.com/raunak-bigdp)
 SILVIO
 - [hezk](https://github.com/hezhikui)
