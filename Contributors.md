@@ -1,4 +1,5 @@
 # Contributors  
+- [TheRodzz](https://github.com/TheRodzz)
 - [safae](https://github.com/kaiha1)
 - [Anshul Kanodia](https://github.com/AnshulKanodia) 
 - oussema tayechi
