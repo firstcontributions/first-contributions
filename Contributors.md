@@ -3617,6 +3617,7 @@ Nici30067
 - [Ananya Das](https://github.com/apananya3p7-prog)
 - [Angelo Montini](https://github.com/montiniangelo)
 - [AMAN](https://github.com/kauraman80-dev)
+- [Ajay Verma](https://github.com/ajayverma7)
 - [Abdullah](https://github.com/abdallaroom100) 
 - [Kedi Wang](https://github.com/FrankWkd-Plus)
 - [Kate Angel Escobar](https://github.com/KateAngelx)
