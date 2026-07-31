@@ -3202,7 +3202,7 @@ aaaa
 - [cards2332](https://github.com/cards2332)
 - [heckerr404](https://github.com/heckerr404)
 - [Yasir Ahmed](https://github.com/yasirsahmed1998-spec)
--[shivangi sharma](https://github.com/shivangiii18_)
+- [shivangi sharma](https://github.com/shivangiii18_)
 - [Deev Jethwa](https://github.com/deevj37378)
 - [StarlightSSM](https://github.com/StarlightSSM)
 - [ktsoator](https://github.com/ktsoator)
@@ -3231,14 +3231,14 @@ aaaa
 - [maksimtech] (https://github.com/maksimtech)
 - [marcusinsigtuna-art](https://github.com/marcusinsigtuna-art)
 - [qoozovfx-afk](https://github.com/qoozovfx-afk)
--[Varsha G](https://github.com/Varshavishnu)
--[murugan877](https://github.com/murugan877)
--[JtFeilan]
--Yash Khatri
+- [Varsha G](https://github.com/Varshavishnu)
+- [murugan877](https://github.com/murugan877)
+- [JtFeilan]
+- Yash Khatri
 - [BytesAIren] (https://github.com/bytesAIren)
 - [tamyreslims](https://github.com/tamyreslims)
 - [Mulugeta Girmay](https://github.com/mulugeta70)
--saikiran N
+- saikiran N
 - [reong123-cell](https://github.com/reong123-cell)
 - [thejanoboy1-design](https://github.com/thejanoboy1-design)
 - [Pari Garg](https://github.com/Parigarg2006)
@@ -3250,10 +3250,10 @@ aaaa
 - [DFGHJ43](https://github.com/DFGHJ43)
 - [DataShiv](https://github.com/DataShiv)
 - [Frank](https://github.com/FHHSOC)
--[Aparesh Mondal](https://github.com/Aparesh-Mondal)
--[Tejas mishra](https://github.com/Tejas-Mishra12)
+- [Aparesh Mondal](https://github.com/Aparesh-Mondal)
+- [Tejas mishra](https://github.com/Tejas-Mishra12)
 - [Sanjith Harshan C](https://github.com/Sanjithharshan)
--[Tarulata Priya](https://github.com/Tarulatapriya)
+- [Tarulata Priya](https://github.com/Tarulatapriya)
 - [Dan Dobrin](https://github.com/dandob1)
 - [Mia](https://github.com/miawritten)
 - [Ogatsuki](https://github.com/Ogatsuki)
@@ -3261,15 +3261,13 @@ aaaa
 - [HarshMehta9000](https://github.com/HarshMehta9000)
 - [Nikhil2005Rai](https://github.com/Nikhil2005Rai)
 - [Adam-Augustus](https://github.com/Adam-Augustus)
--Rutika Tilekar
+- Rutika Tilekar
 - [monkeylicker230-jpg](https://github.com/monkeylicker230-jpg)
-bhumika
+- bhumika
 - [luheiwang](https://github.com/1121939690)
-- Mohammed Mujahed Ahmed
-(https://github.com/mujahed-hash)
--vijaykiran yarra
-(https://github.com/vijaykiran06)
-- [Sana Sinha] (https://github.com/sanasinha2005)
+- [Mohammed Mujahed Ahmed](https://github.com/mujahed-hash)
+- [vijaykiran yarra](https://github.com/vijaykiran06)
+- [Sana Sinha](https://github.com/sanasinha2005)
 - [Rodney Seery](https://github.com/rodneypseery-oss)
 - [Rajashree Rokade](https://github.com/rajashreerokade675-afk)
 - [Easton Martin](https://github.com/eastmart1000-tech)
@@ -3296,7 +3294,7 @@ bhumika
 - [Fauzan](https://github.com/fauzan660)
 - [Santiago Satragni](https://github.com/santisatragni)
 - [Sahil Dhanvij](https://github.com/Sahil4636)
-- - [01100001melia](https://github.com/01100001melia)
+- [01100001melia](https://github.com/01100001melia)
 - [Ajwa Shahid](https://github.com/ajwashahid150-source)
 - [rod-liu-id](https://github.com/rod-liu-id)
 - [Paridhi Jaiswal](https://github.com/Paridhi75)
@@ -3391,7 +3389,7 @@ bhumika
 - [Saurav Thakur](https://github.com/sauravthakurq)
 - [Manguinho](https://github.com/manguinho-cmyk)
 - [Dmytro](https://github.com/dmytroyunyk)
--[Rishab](https://github.com/ItsRishabDeveloper)
+- [Rishab](https://github.com/ItsRishabDeveloper)
 - [caique738-hash](https://github.com/caique738-hash)
 - [Pineapplex8](https://github.com/Pineapplex8)
 - [Siddhi Sharma](https://github.com/siddhisharma3671)
@@ -3439,7 +3437,7 @@ bhumika
 - [sable-gayatri](https://github.com/sable-gayatri)
 - [Tariq Alharbi](https://github.com/tareq1148)
 - [Akhila K C] (https://github.com/Akhs77)
-hey yo!
+- hey yo!
 - [powerconect](https://github.com/powerconect)
 - [Mashikur Rahman Mirash](https://github.com/mashikur-steadfast)
 - [Omar Hassan](https://github.com/Omarh4700)
@@ -3561,7 +3559,7 @@ hey yo!
 - [Swetha Chigurupati] (https://github.com/marioworld99)
 - [Arun Lama](https://github.com/arun-2057)
 - [Youssouf123-coder](https://github.com/Youssouf123-coder)
-Nici30067
+- Nici30067
 - [Priyanka Saxena](https://github.com/Priyanka-cmd23)
 - [natanaelcalebe](https://github.com/oncompanny-web)
 - [fadymas](https://github.com/fadymas)
@@ -3591,8 +3589,8 @@ Nici30067
 - [estevaonr](https://github.com/estevaonr)
 - [Ulises Lopez](https://github.com/Uliseslopez02)
 - [Martin Romero](https://github.com/martinjulianromeroherrera-glitch)
--[Balasubramanian V](https://github.com/BalasubramanianV32)git
--[ardi1s](https://github.com/ardi1s)
+- [Balasubramanian V](https://github.com/BalasubramanianV32)git
+- [ardi1s](https://github.com/ardi1s)
 - [Tesla-538](https://github.com/Tesla-538)
 - [Satish Prajapati](https://github.com/satishTB82)
 - [Costas Giallouros](https://github.com/giallouros)
@@ -3600,11 +3598,10 @@ Nici30067
 - [Dhanashankar](https://github.com/dhanashankar1020)
 - [Om More](https://github.com/omkailasmore)
 - [tedhwang700](https://github.com/tedhwang700)
-
 - [Yagmur Sultan](https://github.com/yagmursultanekin)
 - [Pranav Patnaik](https://github.com/pranavpatnaik1)
 - [PiePzhanH](https://github.com/PiePzhanH)
-[Muhammad Lutfi Muzaki](https://github.com/MuhammadLutfiMuzakiiVY)
+- [Muhammad Lutfi Muzaki](https://github.com/MuhammadLutfiMuzakiiVY)
 - [deepak](https://github.com/deeps019)
 - [Nylog](https://github.com/Nylog)
 - [Manas Sharma](https://github.com/ManasDevHub00)
@@ -3615,10 +3612,11 @@ Nici30067
 - [Beatriz Azevedo](https://github.com/biahandradeaz-hash)
 - [Guhan Thangarasu](https://github.com/GUHAN0205)
 - [Eliatan Gabriel](https://github.com/EliatanGabriel)
-- [Banky O] (https://github.com/engrbanky-hash)
+- [Banky O](https://github.com/engrbanky-hash)
 - [Saverio Traversa](https://github.com/saveriot)
 - [Drew Ramos](https://github.com/drewsElearning) 
 - [Vigneshwaran](https://github.com/Vikki-2006)
+- [Gabriel Juliati](https://github.com/GabrielJuliati)
 - [Guimahel Palmas](https://github.com/guimahelpalmas-create)
 - [nandofss](https://github.com/nandofss)
 - [hch9503](https://github.com/hch9503-ship-it)
@@ -3643,7 +3641,7 @@ Nici30067
 - [Bruno Zimmer](https://github.com/bruzimmer123-debug)
 - [Ellen](https://github.com/Ellen7687)
 - [Neker02](https://github.com/neker02)
-* [sisiphamus](https://github.com/sisiphamus)
+- [sisiphamus](https://github.com/sisiphamus)
 - [Pratham Shah](https://github.com/PS2006m)
 - [Krushna Mahajan](https://github.com/Thekrish7264)
 - [Supti Das Medha](https://github.com/Supti-Das-Medha)
