@@ -2779,6 +2779,7 @@ niceshowmini
 - [Vashnavi Agarwal](https://github.com/vshOps)
 - [Matt](https://github.com/mattisdumb08)
 - [Jerry](https://github.com/Jerryswu0716)
+- [Bogdan](https://github.com/ExABogdan02)
 - [Julius](https://github.com/jrehb)
 - [Vikash Chaurasia](https://github.com/sgateVikash)
 - [Gaurav Verma](https://github.com/GauravVerma789)
