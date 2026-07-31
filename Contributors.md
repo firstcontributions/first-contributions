@@ -3377,6 +3377,7 @@ bhumika
 - [JRT](https://github.com/jrt2026git)
 - [Amir](https://github.com/Amiirhosseini)
 - [Prashant Powar](https://github.com/Prashantpowar45)
+- [Arnav Gupta](https://github.com/arnavgupta2021)
 - [Anisha Ranjan](https://github.com/anishaa-07)
 - [C3L0](https://github.com/C3L0)
 - [Saurav Thakur](https://github.com/sauravthakurq)
