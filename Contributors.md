@@ -3628,6 +3628,7 @@ Nici30067
 - [Nivethitha Anand](https://github.com/Nivethithaanand05)
 - [tpdls741](https://github.com/tpdls741)
 - [Kalla Sai Suraj](https://github/Surai-12343423)
+- [Gabriel Juliati](https://github.com/GabrielJuliati)
 - [Ananya Das](https://github.com/apananya3p7-prog)
 - [Angelo Montini](https://github.com/montiniangelo)
 - [AMAN](https://github.com/kauraman80-dev)
