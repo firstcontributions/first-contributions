@@ -1,3 +1,16 @@
+
+# Rajitha
+
+### Location
+India
+
+### Skills
+- Java
+- DSA
+- MERN Stack
+
+### GitHub
+https://github.com/nagadurga-tech
 # Contributors  
 - [safae](https://github.com/kaiha1)
 - [Anshul Kanodia](https://github.com/AnshulKanodia) 
