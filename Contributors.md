@@ -1,5 +1,5 @@
 # Contributors  
--[safae](https://github.com/kaiha1)
+- [safae](https://github.com/kaiha1)
 - [Anshul Kanodia](https://github.com/AnshulKanodia) 
 - oussema tayechi
 - [Azlan Ainto](https://github.com/Azlan-Ainto)
