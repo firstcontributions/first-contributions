@@ -133,6 +133,7 @@ nathan practice here
 - [Ladan Hamoud](https://github.com/ladanhamoud)
 - [Luis Ruvalcaba](https://github.com/luisruval)
 - [Tejaswini SL](https://github.com/Tej131-hue)
+- [Lakshmi Priya K S](https://github.com/Lakssiva)
 - [Atif Mazhar](https://github.com/AtifMazhar-01)
 - [Ria Sommerfeld](https://github.com/natsudaS)
 - [Pavani Satwika](https://github.com/satwii)
