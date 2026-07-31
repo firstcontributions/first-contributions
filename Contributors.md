@@ -3646,3 +3646,4 @@ Nici30067
 
 - [Ayushman Bhardwaj](https://github.com/Ayushman-00)
 - [jinseo-ai](https://github.com/jinseo-ai)
+-| Satya Bhargav Teki | [@satyabhargavteki25-sudo](https://github.com/satyabhargavteki25-sudo) | Future ECE engineer, starting open source! |
