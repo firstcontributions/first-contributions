@@ -3660,3 +3660,4 @@ Nici30067
 - [A Chandhana](https://github.com/chandhanaa1509/first-contributions)
 - [Zoey Anderson](https://github.com/copiumuser)
 - [Dani Torralba](https://github.com/danitorralba)
+- [fernandoromero-ship-it](https://github.com/fernandoromero-ship-it)
