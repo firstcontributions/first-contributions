@@ -3628,6 +3628,7 @@ Nici30067
 - Roberto Ogalino
 - [Felipe Faria](https://github.com/felipeffaria)
 - [Naziya Shah](https://github.com/naziyashah)
+- [Mateus Lerbach](https://github.com/9n5bwsdysc-code)
 - [Bruno Zimmer](https://github.com/bruzimmer123-debug)
 - [Ellen](https://github.com/Ellen7687)
 - [Neker02](https://github.com/neker02)
