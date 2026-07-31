@@ -6,6 +6,7 @@
 - [safae](https://github.com/kaiha1)
 - [Tanvika Ojha](https://github.com/TanvikaOjha)
 - [Anshul Kanodia](https://github.com/AnshulKanodia) 
+- [Pratham Jain](https://github.com/prathamnjain1)
 - oussema tayechi
 - [Azlan Ainto](https://github.com/Azlan-Ainto)
 - [Troy C](https://github.com/ArT-BrC)
