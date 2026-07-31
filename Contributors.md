@@ -3,6 +3,7 @@
 - [Anshul Kanodia](https://github.com/AnshulKanodia) 
 - oussema tayechi
 - [Azlan Ainto](https://github.com/Azlan-Ainto)
+- [Troy C](https://github.com/ArT-BrC)
 - [Gururaj Suresh Lande](https://github.com/gururajlande7)
 - {Harshitha L M}(https://github.com/HarshithaLM)
 - [Hira Khyzer](https://github.com/Hirakhyzer)
