@@ -3643,3 +3643,4 @@ Nici30067
 - [Michael_Tucker](https://github.com/micheal-tucker)
 
 - [Ayushman Bhardwaj](https://github.com/Ayushman-00)
+- [jinseo-ai](https://github.com/jinseo-ai)
