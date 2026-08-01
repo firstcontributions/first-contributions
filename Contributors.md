@@ -5,6 +5,7 @@
 - [xiaoguoba](https://github.com/xilele777)
 - [Syeda Sumayya](https://github.com/syedasumayya)
 - [Yutubdua7](https://github.com/yutubdua7-sys)
+- [Yashraj Pal](https://github.com/yashraj013)
 - [Kundan Dhage](https://github.com/KundanDhage)
 - [Praveen Bishnoi](https://github.com/parveen0029)
 - [jiangbei0921](https://github.com/jiangbei0921)
