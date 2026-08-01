@@ -220,6 +220,7 @@ nathan practice here
 - [Veeraadineshhhhh] (https://github.com/redveera2000/MYFITAPP.git)
 - [don saji] (https://github.com/Don-Saji/)
 - [DreadVoice](https://github.com/DreadVoice)
+- [Glazzze](https://github.com/Glazzze)
 - [Mayankshrey] (https://github.com/Mayankshrey438)
 - [Diegosantosgz] (https://github.com/Diegosantosgz)
 - [Nirmit Chaurasia] (https://github.com/nirmit01)
