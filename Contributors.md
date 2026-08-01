@@ -12,6 +12,7 @@
 - [Tanvika Ojha](https://github.com/TanvikaOjha)
 - [Amy Ann Jims](https://github.com/Amy-code658)
 - [Anshul Kanodia](https://github.com/AnshulKanodia) 
+- [Prayas Dey](https://github.com/Prayas340)
 - [Pratham Jain](https://github.com/prathamnjain1)
 - oussema tayechi
 - [Anvay D](https://github.com/Anvay-D)
