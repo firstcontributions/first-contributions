@@ -102,6 +102,7 @@ nathan practice here
 - [Jaideep](https://github.com/jaysinghrajpurohit913-stack)
 - [Ankita Priyadarshini Pallai](https://github.com/AnkitaPriyadarshini-repos)
 - [Monil Chourasiya](https://github.com/Tryhardmonkey)
+- [Sujal Wadhankar](https://github.com/suja0981)
 - [Shadow-Coder-888] ( https://github.com/Shadow-Coder-888 )
 - [Matias Rojas] (https://github.com/espinola-matias)
 - [Siddh Tyagi](https://github.com/siddhtyagi18)
