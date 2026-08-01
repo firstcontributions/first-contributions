@@ -66,6 +66,7 @@ nathan practice here
 - [Prerit Gupta](https://github.com/TryToPlay)
   [Sanika Talkhedkar]
 - [Sakshi Vyavahare](https://github.com/sakshivyavahare20)
+- [Divyansh Sareen](https://github.com/DivyanshSareen)
 - [Nick Anderson](https://github.com/NickCAnderson)
 - [Rihan R. Chougule](https://github.com/RihanC)
 - [jershon](https://github.com/jershonjefray-tech)
