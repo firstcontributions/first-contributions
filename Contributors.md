@@ -1,5 +1,6 @@
 # Contributors 
 - [Bas]
+- [muaz aman] (https://github.com/Muaxacker)
 - [xiaoguoba](https://github.com/xilele777)
 - [Yutubdua7](https://github.com/yutubdua7-sys)
 - [Kundan Dhage](https://github.com/KundanDhage)
