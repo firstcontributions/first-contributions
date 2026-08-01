@@ -3677,6 +3677,7 @@ Nici30067
 - [Gaurav Giri Goswami](https://github.com/gaurav-goswamii)
 - [Ayushman Bhardwaj](https://github.com/Ayushman-00)
 - [jinseo-ai](https://github.com/jinseo-ai)
+| Satya Bhargav Teki | [@satyabhargavteki25-sudo](https://github.com/satyabhargavteki25-sudo) | My first ECE contribution! |
 - [Proshanto Kumar Roy](https://github.com/proshanto-kumar-roy)
 - [Praveen Agrawal](https://github.com/agrawalpraveen12)
 - [A Chandhana](https://github.com/chandhanaa1509/first-contributions)
