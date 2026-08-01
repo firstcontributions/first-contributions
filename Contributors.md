@@ -3686,3 +3686,4 @@ Nici30067
 - [lynvortex](https://github.com/lynvortex)
 - [Constâncio Saraiva](https://github.com/constanciosaraiva-create)
 - [Abhishek Bellad](https://github.com/abhishekbellad7952)
+- [Yug Khatri](https://github.com/yugg04)
