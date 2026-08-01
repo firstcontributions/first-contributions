@@ -23,14 +23,36 @@
 yangdon/
   README.md
   requirements.txt
+  docs/
+    AIHUB.md           # AI Hub 데이터 API 연동 가이드
   src/
+    aihub.py           # AI Hub 데이터 API 클라이언트(검색/트리/다운로드)
     generate_data.py   # 합성 양돈 스마트팜 데이터 생성
     eda.py             # 기초통계·상관·시각화
     train.py           # 베이스라인 모델링(회귀+분류) + 교차검증 + 특성중요도
+  tools/
+    aihubshell         # AI Hub 공식 다운로드 스크립트(v0.6)
   data/
     train.csv          # (생성물) 돈군 단위 데이터
   outputs/             # (생성물) EDA 표·그림, 모델 성능·특성중요도
 ```
+
+## 실제 데이터: AI Hub 연동
+
+[AI Hub](https://www.aihub.or.kr) 에 양돈 관련 데이터셋이 있다 (622 스마트축사(양돈),
+71408/71763 양돈 생체 에너지 데이터 등). API로 검색·다운로드하는 방법은
+[`docs/AIHUB.md`](docs/AIHUB.md) 참고.
+
+```bash
+python yangdon/src/aihub.py search 양돈       # 데이터셋 검색 (API 키 불필요)
+python yangdon/src/aihub.py tree 71408        # 파일 트리·filekey 확인 (키 불필요)
+# 다운로드는 AIHUB_APIKEY 환경변수 + 데이터셋 활용신청 승인 필요
+export AIHUB_APIKEY="발급받은_키"
+python yangdon/src/aihub.py download 71408 509489,509492   # 라벨링데이터만
+```
+
+> 원천데이터(영상)는 수 TB이므로 정형 분석/모델링에는 **라벨링데이터(주석 JSON)만**
+> 받는다. 자세한 filekey·용량 주의사항은 `docs/AIHUB.md`.
 
 ## 실행 방법
 
