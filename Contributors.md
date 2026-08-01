@@ -2,6 +2,7 @@
 - [Bas]
 - [muaz aman] (https://github.com/Muaxacker)
 - [xiaoguoba](https://github.com/xilele777)
+- [Syeda Sumayya](https://github.com/syedasumayya)
 - [Yutubdua7](https://github.com/yutubdua7-sys)
 - [Kundan Dhage](https://github.com/KundanDhage)
 - [Praveen Bishnoi](https://github.com/parveen0029)
