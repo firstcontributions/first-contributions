@@ -20,9 +20,13 @@
 ## 폴더 구조
 
 ```
+.claude/
+  hooks/session-start.sh  # 새 세션마다 의존성 설치·상태 점검(SessionStart 훅)
+  settings.json           # 훅 등록
 yangdon/
   README.md
   requirements.txt
+  run_pipeline.sh    # 원커맨드: AI Hub 라벨 다운로드→추출→구조점검
   docs/
     AIHUB.md           # AI Hub 데이터 API 연동 가이드
   src/
@@ -30,12 +34,31 @@ yangdon/
     generate_data.py   # 합성 양돈 스마트팜 데이터 생성
     eda.py             # 기초통계·상관·시각화
     train.py           # 베이스라인 모델링(회귀+분류) + 교차검증 + 특성중요도
+  tests/
+    smoke_test.py      # 의존성·클라이언트·파이프라인 스모크 테스트
   tools/
     aihubshell         # AI Hub 공식 다운로드 스크립트(v0.6)
   data/
     train.csv          # (생성물) 돈군 단위 데이터
   outputs/             # (생성물) EDA 표·그림, 모델 성능·특성중요도
 ```
+
+## 새 세션에서 이어가기
+
+이 저장소에는 **SessionStart 훅**(`.claude/hooks/session-start.sh`)이 있어,
+Claude Code on the web에서 **새 세션이 시작될 때 의존성을 자동 설치**하고
+`AIHUB_APIKEY` 등록 여부를 점검한다. 따라서 절차는:
+
+1. AI Hub API 키 발급 + 데이터셋(71763·622·71471) 활용신청 승인
+2. 원격 환경 설정의 **환경 시크릿**에 `AIHUB_APIKEY` 등록
+3. **새 세션** 시작 → 훅이 자동으로 환경을 준비
+4. `bash yangdon/run_pipeline.sh` 로 라벨 다운로드→추출→구조점검
+   (JSON 스키마 확인 후 파서로 `data/train.csv` 생성 → `eda.py`/`train.py`)
+
+> 환경 시크릿은 **세션 시작 시 주입**되므로, 등록 후에는 반드시 **새 세션**에서
+> 진행해야 키가 적용된다.
+
+스모크 테스트: `python yangdon/tests/smoke_test.py`
 
 ## 실제 데이터: AI Hub 연동
 
