@@ -90,22 +90,23 @@ python yangdon/src/aihub.py download 71408 509489,509492
 압축 해제에는 데이터 크기의 2~3배 여유 공간이 필요하다.
 (원격 샌드박스는 디스크 할당이 제한적이므로, 대용량 원천데이터는 로컬/서버에서 받는 것을 권장)
 
-### 라벨링데이터 다운로드 치트시트
+### 라벨링데이터 다운로드 치트시트 (사용 확정 3종)
 
 키 발급 + 활용신청 승인 후, 아래 명령으로 **라벨링데이터만** 받는다.
+원천데이터(영상)는 각 데이터셋이 수 TB이므로 받지 않는다.
 
-**71408 양돈 생체 에너지 데이터** (총 293MB)
+#### ① 71763 양돈 생체 에너지 데이터 (2023) — 라벨 총 298MB
 
 | 구분 | 파일 | 크기 | filekey |
 |---|---|---|---|
-| Training | TL.zip | 261 MB | 509489 |
-| Validation | VL.zip | 32 MB | 509492 |
+| Training | TL.zip | 265 MB | 528771 |
+| Validation | VL.zip | 33 MB | 528774 |
 
 ```bash
-python yangdon/src/aihub.py download 71408 509489,509492
+python yangdon/src/aihub.py download 71763 528771,528774
 ```
 
-**622 지능형 스마트축사 통합 데이터(양돈)** (라벨 총 ~267MB, 주석 유형별)
+#### ② 622 지능형 스마트축사 통합 데이터(양돈) — 라벨 총 ~267MB
 
 | 구분 | 유형 | 크기 | filekey |
 |---|---|---|---|
@@ -123,8 +124,43 @@ python yangdon/src/aihub.py download 622 533707,533708,533709,533717,533718,5337
 python yangdon/src/aihub.py download 622 533707,533717
 ```
 
+#### ③ 71471 소·돼지 발정행동 데이터 — 양돈만(돼지+흑돼지) 선택 수신
+
+이 데이터셋은 한우/젖소/돼지/흑돼지가 섞여 있다. **양돈 과제이므로 돼지·흑돼지
+라벨만** 받는다. (한우·젖소는 제외)
+
+| 구분 | 축종 | 유형 | 크기 | filekey |
+|---|---|---|---|---|
+| Training | 돼지 | bbox | 231 MB | 511410 |
+| Training | 돼지 | keypoints | 28 MB | 511411 |
+| Training | 돼지 | polygon | 163 MB | 511412 |
+| Training | 흑돼지 | bbox | 92 MB | 511416 |
+| Training | 흑돼지 | keypoints | 12 MB | 511417 |
+| Training | 흑돼지 | polygon | 63 MB | 511418 |
+| Validation | 돼지 | bbox | 29 MB | 511458 |
+| Validation | 돼지 | keypoints | 4 MB | 511459 |
+| Validation | 돼지 | polygon | 20 MB | 511460 |
+| Validation | 흑돼지 | bbox | 12 MB | 511464 |
+| Validation | 흑돼지 | keypoints | 1 MB | 511465 |
+| Validation | 흑돼지 | polygon | 8 MB | 511466 |
+
+부가 라벨(외음부이미지·3D이미지·울음소리)도 있으나 용량이 작다. 발정행동
+분석에는 외음부·울음소리도 신호가 될 수 있어 필요 시 추가:
+돼지 511413(외음부)/511414(3D)/511415(울음소리),
+흑돼지 511419/511420/511421 (Validation: 511461~511463 / 511467~511469).
+
+```bash
+# 돼지+흑돼지 핵심 라벨(bbox+keypoints+polygon)
+python yangdon/src/aihub.py download 71471 \
+  511410,511411,511412,511416,511417,511418,\
+511458,511459,511460,511464,511465,511466
+# keypoints만 (자세/행동 분석)
+python yangdon/src/aihub.py download 71471 511411,511417,511459,511465
+```
+
 > filekey는 데이터셋 갱신 시 바뀔 수 있으니, 받기 전에
 > `python yangdon/src/aihub.py tree <datasetkey>` 로 최신값을 확인할 것.
+> (참고: 71408 '양돈 생체 에너지 데이터'(2023 이전판) 라벨은 509489/509492)
 
 ## 6. 다운로드 후
 

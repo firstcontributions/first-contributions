@@ -39,16 +39,23 @@ yangdon/
 
 ## 실제 데이터: AI Hub 연동
 
-[AI Hub](https://www.aihub.or.kr) 에 양돈 관련 데이터셋이 있다 (622 스마트축사(양돈),
-71408/71763 양돈 생체 에너지 데이터 등). API로 검색·다운로드하는 방법은
+[AI Hub](https://www.aihub.or.kr) 데이터를 사용한다. **사용 확정 3종:**
+
+| datasetkey | 이름 | 활용 |
+|---|---|---|
+| **71763** | 양돈 생체 에너지 데이터 (2023) | 생체·에너지 라벨 |
+| **622** | 지능형 스마트축사 통합 데이터(양돈) | 탐지·자세(bbox/polygon/keypoint) |
+| **71471** | 소·돼지 발정행동 데이터 (양돈만) | 발정행동·자세 |
+
+API로 검색·다운로드하는 방법과 데이터셋별 라벨 filekey는
 [`docs/AIHUB.md`](docs/AIHUB.md) 참고.
 
 ```bash
 python yangdon/src/aihub.py search 양돈       # 데이터셋 검색 (API 키 불필요)
-python yangdon/src/aihub.py tree 71408        # 파일 트리·filekey 확인 (키 불필요)
+python yangdon/src/aihub.py tree 71763        # 파일 트리·filekey 확인 (키 불필요)
 # 다운로드는 AIHUB_APIKEY 환경변수 + 데이터셋 활용신청 승인 필요
 export AIHUB_APIKEY="발급받은_키"
-python yangdon/src/aihub.py download 71408 509489,509492   # 라벨링데이터만
+python yangdon/src/aihub.py download 71763 528771,528774   # 라벨링데이터만
 ```
 
 > 원천데이터(영상)는 수 TB이므로 정형 분석/모델링에는 **라벨링데이터(주석 JSON)만**
