@@ -1,0 +1,98 @@
+# 양돈(養豚) AI 공모전 — 데이터 분석·모델링
+
+스마트팜 양돈 데이터로 **생산성**과 **폐사 위험**을 예측하는 머신러닝 파이프라인.
+공모전 실제 데이터가 확보되기 전, 전체 흐름(데이터 → EDA → 모델링 → 해석)을
+바로 돌려볼 수 있는 **베이스라인 스캐폴드**다.
+
+> ⚠️ 현재 `data/train.csv` 는 실제 데이터가 아니라 변수 간 관계를 의도적으로
+> 심어 만든 **합성 데이터**다. 실제 공모전 데이터가 오면 같은 스키마의 CSV로
+> 교체하기만 하면 이후 단계가 그대로 동작한다. (아래 "실제 데이터 연결" 참고)
+
+## 다루는 과제
+
+| 과제 | 타깃 | 유형 | 의미 |
+|---|---|---|---|
+| 생산성 예측 | `adg_kg_day` (일당증체량) | 회귀 | 사양·환경 조건별 성장 성능 |
+| 위험 예측 | `mortality` (폐사 여부) | 분류 | 폐사 고위험 돈군 조기 식별 |
+
+부수 지표로 `fcr`(사료요구율), `market_age_days`(출하일령)도 데이터에 포함.
+
+## 폴더 구조
+
+```
+yangdon/
+  README.md
+  requirements.txt
+  src/
+    generate_data.py   # 합성 양돈 스마트팜 데이터 생성
+    eda.py             # 기초통계·상관·시각화
+    train.py           # 베이스라인 모델링(회귀+분류) + 교차검증 + 특성중요도
+  data/
+    train.csv          # (생성물) 돈군 단위 데이터
+  outputs/             # (생성물) EDA 표·그림, 모델 성능·특성중요도
+```
+
+## 실행 방법
+
+```bash
+pip install -r yangdon/requirements.txt
+
+python yangdon/src/generate_data.py   # data/train.csv 생성
+python yangdon/src/eda.py             # outputs/ 에 EDA 결과
+python yangdon/src/train.py           # 회귀+분류 모두 (reg / clf 인자로 개별 실행)
+```
+
+## 데이터 스키마 (돈군 = batch 단위 1행)
+
+| 컬럼 | 설명 |
+|---|---|
+| `farm_id`, `house_id` | 농장·돈사 식별자 |
+| `sex`, `breed` | 성별(거세/암), 교잡종 |
+| `init_age_days`, `init_weight_kg` | 입식 일령·체중 |
+| `avg_temp_c`, `humidity_pct`, `nh3_ppm`, `co2_ppm` | 비육기 돈사 환경 평균 |
+| `stocking_density` | 사육밀도(두/m²) |
+| `feed_intake_kg`, `feed_grade` | 두당 일일 사료섭취·사료등급 |
+| `vaccinated`, `antibiotic_days` | 백신 접종 여부·항생제 투여일수 |
+| `adg_kg_day` | **타깃(회귀)** 일당증체량 |
+| `fcr`, `market_age_days` | 파생 지표(사료요구율·출하일령) |
+| `mortality` | **타깃(분류)** 폐사 여부 |
+
+## 베이스라인 성능 (합성 데이터, 5-fold CV)
+
+| 과제 | 지표 | 값 |
+|---|---|---|
+| 회귀 (adg) | MAE / R² | ≈ 0.034 kg/day / ≈ 0.83 |
+| 분류 (폐사) | ROC-AUC | ≈ 0.70 |
+
+모델이 짚어낸 상위 요인이 데이터에 심어 둔 실제 인과와 일치한다:
+- 증체 ← 사료섭취량(＋), 기온(고온 스트레스 −), 사료등급
+- 폐사 ← 암모니아, 사육밀도, 고온 스트레스
+
+즉 파이프라인이 신호를 제대로 학습함을 확인했다. (합성 데이터라 절대 수치보다
+"흐름이 옳다"는 검증에 의미가 있다)
+
+## 모델링 설계 메모
+
+- **누수(leakage) 차단**: `adg` 예측 시 이로부터 파생된 `fcr`·`market_age_days`,
+  그리고 다른 타깃 `mortality` 는 특성에서 제외.
+- **전처리**: 수치형 표준화 + 범주형 원-핫을 `Pipeline` 안에 넣어 CV 각 fold에서
+  독립적으로 적합 → 전처리 누수 방지.
+- **교차검증**: 회귀 KFold(5), 분류 StratifiedKFold(5).
+- **베이스라인 모델**: GradientBoosting. 실데이터 확보 후 XGBoost/LightGBM,
+  하이퍼파라미터 탐색, 시계열/공간(농장) 분할 검증으로 확장 예정.
+
+## 실제 데이터 연결
+
+1. 공모전 데이터를 `data/train.csv` 로 저장 (위 스키마에 맞추거나,
+   컬럼명이 다르면 `train.py`의 `LEAK_COLS`·타깃명만 수정).
+2. `python yangdon/src/eda.py` → 분포·결측·상관 점검.
+3. `python yangdon/src/train.py` → 베이스라인 성능 확인 후 개선.
+
+## 로드맵
+
+- [x] 합성 데이터 + end-to-end 파이프라인 (EDA·회귀·분류·특성중요도)
+- [ ] 실제 공모전 데이터 연결 및 스키마 정합
+- [ ] 부스팅 계열 모델·하이퍼파라미터 최적화
+- [ ] 농장 단위 그룹 분할 검증(일반화 성능 정직하게 측정)
+- [ ] 예측 결과 해석(SHAP) 및 현장 활용 시나리오
+- [ ] (선택) 결과 대시보드 — 필요 시 단일 HTML로 제작
