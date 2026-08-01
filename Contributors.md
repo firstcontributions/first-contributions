@@ -1076,6 +1076,7 @@ niceshowmini
 - [Anupriya soni](https://github.com/anupriyasoni-debug)
 - [Hamendra Tyagi] (https://github.com/hamendranathtyagi)
 - [Aamir Khan](https://github.com/aamir296)
+Amna Naeem
 - [Ayaan Khan](https://github.com/ayaan47-1)
 - [Sai Praneeth Sharma](https://github.com/SHARMA1525)
 - [ELOI-CODE1](https://github.com/ELOI-CODE1)
