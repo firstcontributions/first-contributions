@@ -2248,6 +2248,7 @@ niceshowmini
 - [Snehabharathi-06](https://github.com/Snehabharathi-06)
 - [Snehakandala0101](https://github.com/Snehakandala0101)
 - [SOKOUDJOU-LEOPOLD](https://github.com/SOKOUDJOU-LEOPOLD)
+- [Soni Syed](https://github.com/syedsoni)
 - [Souka2](https://github.com/Souka2)
 - [Sourabh J](https://github.com/sourabhjagtap)
 - [Sourav Burman](https://github.com/thesouravburman)
