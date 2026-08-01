@@ -56,8 +56,8 @@
 - [Amar Kumar Thakur](https://github.com/supercell02)
 - [donneko](https://github.com/donneko)
 - [Fahad Shaikh](https://github.com/FahadS5534)
-[Wesley Walker](https://github.com/wwalker2)
-
+- [Wesley Walker](https://github.com/wwalker2)
+- [Chuck G](https://github.com/SJFrontinus)
 - [Suchay Joshi] (https://github.com/sucxay)
 -[Deepthi sree Chekuri]
 - [AMM] (https://github.com/AunggMyatt)
