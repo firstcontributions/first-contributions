@@ -135,6 +135,7 @@ nathan practice here
 - [Tanya Kumari](https://github.com/tanyakaundinya)
 - [xenonbomin54](https://github.com/xenonbomin54)
 - [Gunesh Bari](https://github.com/Guneshbari)
+- [Amrit Raj](https://github.com/techierizz)
 - [Eklavya Shinde](https://github.com/Eklavya1919)
 - [Mayu](https://github.com/PixWizard)
 - [David-Izadi](https://github.com/David-Izadi)
