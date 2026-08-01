@@ -1152,6 +1152,7 @@ niceshowmini
 - [Aman Kumar Verma](https://github.com/amanbuilds-hub)
 - [Amavidato](https://github.com/Amavidato)
 - [Amishi Agrawal](https://github.com/amishiagrawal)
+- [Chaitanya Bhambere](https://github.com/chaitanya29082000)
 - [Joshith Gadi] ()
 - [Dani Noble] (https://github.com/dnvdevx)
 - [Edward](https://github.com/Ed3110)
