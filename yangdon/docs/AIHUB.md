@@ -90,6 +90,42 @@ python yangdon/src/aihub.py download 71408 509489,509492
 압축 해제에는 데이터 크기의 2~3배 여유 공간이 필요하다.
 (원격 샌드박스는 디스크 할당이 제한적이므로, 대용량 원천데이터는 로컬/서버에서 받는 것을 권장)
 
+### 라벨링데이터 다운로드 치트시트
+
+키 발급 + 활용신청 승인 후, 아래 명령으로 **라벨링데이터만** 받는다.
+
+**71408 양돈 생체 에너지 데이터** (총 293MB)
+
+| 구분 | 파일 | 크기 | filekey |
+|---|---|---|---|
+| Training | TL.zip | 261 MB | 509489 |
+| Validation | VL.zip | 32 MB | 509492 |
+
+```bash
+python yangdon/src/aihub.py download 71408 509489,509492
+```
+
+**622 지능형 스마트축사 통합 데이터(양돈)** (라벨 총 ~267MB, 주석 유형별)
+
+| 구분 | 유형 | 크기 | filekey |
+|---|---|---|---|
+| Training | 바운딩박스 | 148 MB | 533707 |
+| Training | 폴리곤 | 77 MB | 533708 |
+| Training | 키포인트 | 13 MB | 533709 |
+| Validation | 바운딩박스 | 19 MB | 533717 |
+| Validation | 폴리곤 | 8 MB | 533718 |
+| Validation | 키포인트 | 2 MB | 533719 |
+
+```bash
+# 전체 라벨
+python yangdon/src/aihub.py download 622 533707,533708,533709,533717,533718,533719
+# 바운딩박스만 (탐지/계수 과제)
+python yangdon/src/aihub.py download 622 533707,533717
+```
+
+> filekey는 데이터셋 갱신 시 바뀔 수 있으니, 받기 전에
+> `python yangdon/src/aihub.py tree <datasetkey>` 로 최신값을 확인할 것.
+
 ## 6. 다운로드 후
 
 `aihubshell` 이 `download.tar` 를 내려받아 자동으로 압축 해제하고, 분할된
