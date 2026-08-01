@@ -29,6 +29,7 @@
 - [Thuta](https://github.com/thuta-dev)
 - [Lalitha Sri](https://github.com/LalithaSriSanthapur)
 - [Arvind Verma](https://github.com/varvindea) 
+- [JC Abucay](https://github.com/abukix) 
 - [Mahi](https://github.com/mahi-prakash)
 - [Ryan Williams](https://github.com/ryanwilliamske)
 -[Saikrishna Penta](https://github.com/Sai13122005)
