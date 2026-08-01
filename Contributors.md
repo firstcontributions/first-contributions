@@ -221,7 +221,9 @@ nathan practice here
 - [Vlad](https://github.com/ah0R-59V0gEOWrFv)
 - [Jasminder Singh](https://github.com/Jasminder-Singh)
 - [Mahima](https://github.com/mahima44-svg)
-- [Ronit](https://github.com/ronitchiluka06)
+  -[Aditi Mahajan](https://github.com/adi1233883)
+
+  [Ronit](https://github.com/ronitchiluka06)
 - [Aditya Adarsh](https://github.com/AdityaAdarsh25)
 - [Raj Jadhav](https://github.com/Raj-Jadhav/)
 - [Patrick Shehata](https://github.com/rekozzz)
