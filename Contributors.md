@@ -3667,3 +3667,4 @@ Nici30067
 - [Abdelrahman Yehia](https://github.com/AbdelrahmanYehiaGharib23)
 - [almaghariz](https://github.com/almaghariz)
 - [chanhyuk4195](https://github.com/chanhyuk4195-droid)
+- [Emanuel Marinelli](https://github.com/emanuelmarinelli6-sudo)
