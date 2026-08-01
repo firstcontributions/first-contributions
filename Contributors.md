@@ -1623,6 +1623,7 @@ niceshowmini
 - [Jashanjit Kaur](https://github.com/JashanjitKaur007)
 - [Jayant Kumar](https://github.com/cnxstine)
 - [Jecin Elizabeth Rajesh](https://github.com/JecinElizabeth)
+- [Jednorbie Jarin](https://github.com/jednorbie1993)
 - [Jeev Dharshan](https://github.com/Jeev4i)
 - [Jesse Wu](https://github.com/Gungnir-01)
 - [mtedium](https://github.com/mtedium)
