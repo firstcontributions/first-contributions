@@ -47,6 +47,7 @@
  - [Rene Paul](https://github.com/rene-pau)
 -[Barry J]
 -[Sahil pandey](https://github.com/sahilpandey217)
+- [Jothi Prakasam R](https://github.com/jothiprakasam)
 -[Pranjal Giri](https://github.com/pranjalx07)
 [Neethi Amrutha](https://github.com/githubsneethi)
 - [Vittor Guimaraes](https://github.com/vittorguimaraes-git)
