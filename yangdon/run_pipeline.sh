@@ -57,6 +57,14 @@ done
 
 echo
 echo "=========================================="
+echo "모델링: 71471 발정 탐지 (중점)"
+echo "=========================================="
+if [ -d "$DL_DIR/71471" ]; then
+  python3 "$ROOT/yangdon/src/model_71471_estrus.py" "$DL_DIR/71471" || true
+fi
+
+echo
+echo "=========================================="
 echo "모델링: 71763 생체에너지 회귀"
 echo "=========================================="
 if [ -d "$DL_DIR/71763" ]; then
@@ -65,4 +73,4 @@ fi
 
 echo
 echo "완료. 결과: yangdon/data/*_parsed.csv, yangdon/outputs/importance_*.csv"
-echo "622(XML)·71471(발정) 모델링은 스키마 확인 후 model 스크립트 확장 예정."
+echo "622(XML) 개체탐지/월령분류 모델링은 스키마 확인 후 확장 예정."

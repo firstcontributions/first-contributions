@@ -24,20 +24,31 @@ yangdon/src/parse_aihub.py --selftest` (스키마대로 만든 합성 샘플로 
 **검증**: 같은 개체(pig_id) 누수 방지 → `GroupKFold`
 **모델 데모**: `python yangdon/src/model_71763.py [라벨디렉터리]`
 
-## ② 71471 소·돼지 발정행동 데이터 — JSON
+## ② 71471 소·돼지 발정행동 데이터 — JSON ⭐ (중점 과제: 발정 탐지)
 
 BBox / Keypoints / Polygon + 울음소리 + 외음부 + 3D. 파일명에 농장정보·발정시간·
 채널·프레임수 인코딩. 발정여부 = 발정체크장비 + 전문가 검수.
 
 행동분류(영문명): standing, lying, eating, head shaking, tailing, sitting …
 
-| 과제 | 타깃 | 유형 |
-|---|---|---|
-| 발정 탐지 | estrus(0/1) | 이진 분류 |
-| 행동 분류 | behavior | 다중 분류 |
+### 발정 탐지 접근 (핵심)
 
-**피처**: keypoint 기반 자세(폭·높이·비율), bbox, 종(pig/blackpig)
-※ 양돈 과제이므로 **돼지·흑돼지만** 사용.
+발정은 **한 프레임이 아니라 시간에 걸친 행동·활동 변화**로 나타난다:
+활동량↑, 기립(standing)·꼬리세움(tailing)↑, 눕는 시간(lying)↓.
+따라서 **프레임 라벨을 개체(individual_id) 단위로 집계**해 분류한다.
+
+| 단계 | 내용 |
+|---|---|
+| 파싱 | 프레임 단위 행 (individual_id, frame_idx, behavior, bbox, keypoint 중심/산포) |
+| 피처 | 행동 비율 + **활동량**(프레임 간 중심 이동 평균/표준편차/최대) + 자세(종횡비·면적·산포) |
+| 모델 | 개체당 1행 → GradientBoosting, StratifiedKFold |
+| 지표 | ROC-AUC, F1, 정밀도, **재현율**(발정 놓치면 21일 손실 → 재현율 우선, 임계값 하향) |
+
+**실행**: `python yangdon/src/model_71471_estrus.py [라벨디렉터리]`
+합성 스키마 기준 데모: AUC≈0.72, 임계값 0.3에서 재현율≈0.78.
+
+※ 양돈 과제이므로 **돼지·흑돼지만** 사용. 부가 모달(울음소리·외음부·3D)은
+   확보 시 멀티모달로 확장(문서상 CRNN 멀티모달 발정분류 F1 0.90).
 
 ## ③ 622 지능형 스마트축사(양돈) — XML (CVAT)
 

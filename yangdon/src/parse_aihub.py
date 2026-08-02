@@ -152,9 +152,12 @@ SPECIES_71471 = ["pig", "blackpig"]
 
 
 def parse_71471(label_dir: str) -> pd.DataFrame:
-    """71471 라벨 JSON → 개체·프레임 단위 테이블.
+    """71471 라벨 JSON → 개체·프레임(키프레임) 단위 테이블.
 
-    keypoint 로부터 간단한 자세 피처(폭·높이 비율)를 만들고, 행동/발정 라벨을 붙인다.
+    발정 판단은 시간에 걸친 행동/활동 변화가 핵심이므로, 프레임 단위 행을
+    개체(individual_id)·프레임(frame_idx) 식별자와 함께 반환한다. keypoint 는
+    프레임 간 이동(활동량) 계산을 위해 중심좌표(centroid)와 산포로 축약한다.
+    상위 피처 집계는 build_estrus_features() (model_71471_estrus.py) 가 담당.
     """
     rows: list[dict] = []
     for path in _iter_json(label_dir):
@@ -164,51 +167,115 @@ def parse_71471(label_dir: str) -> pd.DataFrame:
             continue
         meta = obj.get("metadata", obj.get("info", {}))
         species = obj.get("species") or meta.get("species")
+        indiv = (obj.get("individual_id") or meta.get("individual_id")
+                 or _id_from_name(os.path.basename(path)))
+        frame = (obj.get("frame_idx") if obj.get("frame_idx") is not None
+                 else meta.get("frame_idx"))
+        estrus = _to_int(obj.get("estrus", meta.get("estrus")))
         for a in _annotations_list(obj):
             bbox = a.get("bbox") or a.get("bounding_box") or []
             kps = a.get("keypoints") or a.get("keypoint") or []
             w = h = None
             if len(bbox) == 4:
-                # [x, y, w, h] 또는 [x1,y1,x2,y2] 모두 대응
                 x1, y1, x3, y4 = bbox
-                w = abs(x3) if x3 < x1 or x3 < 5 else abs(x3 - x1)
-                h = abs(y4) if y4 < y1 or y4 < 5 else abs(y4 - y1)
+                w = abs(x3) if (x3 < x1 or x3 < 5) else abs(x3 - x1)
+                h = abs(y4) if (y4 < y1 or y4 < 5) else abs(y4 - y1)
+            cx, cy, spread = _keypoint_summary(kps)
             rows.append({
                 "file": os.path.basename(path),
+                "individual_id": indiv,
+                "frame_idx": frame,
                 "species": species,
                 "behavior": a.get("behavior") or a.get("action")
                             or a.get("category"),
-                "estrus": _to_int(obj.get("estrus", meta.get("estrus"))),
-                "bbox_w": w,
-                "bbox_h": h,
+                "estrus": estrus,
+                "bbox_w": w, "bbox_h": h,
                 "aspect_ratio": (w / h) if (w and h) else None,
-                "num_keypoints": len(kps) // 2 if kps and isinstance(kps[0],
-                                 (int, float)) else len(kps),
+                "centroid_x": cx, "centroid_y": cy, "kp_spread": spread,
             })
     return pd.DataFrame(rows)
 
 
-def generate_synthetic_71471(out_dir: str, n: int = 200) -> None:
+def _keypoint_summary(kps: list) -> tuple:
+    """[x1,y1,x2,y2,...] 평면 리스트 → (중심x, 중심y, 산포)."""
+    if not kps:
+        return (None, None, None)
+    flat = kps
+    if isinstance(kps[0], (list, tuple)):  # [[x,y],...] 형태
+        flat = [v for xy in kps for v in xy[:2]]
+    xs = flat[0::2]
+    ys = flat[1::2]
+    if not xs or not ys:
+        return (None, None, None)
+    cx = sum(xs) / len(xs)
+    cy = sum(ys) / len(ys)
+    spread = (sum((x - cx) ** 2 for x in xs) / len(xs)) ** 0.5
+    return (round(cx, 2), round(cy, 2), round(spread, 2))
+
+
+def _id_from_name(name: str):
+    """파일명에서 개체 식별자 추출(발정시간·채널·프레임 인코딩 규칙 대응).
+
+    실데이터 파일명 규칙 확인 후 이 함수만 조정하면 된다. 기본은 마지막
+    '_f### / frame' 앞부분을 개체 키로 본다.
+    """
+    base = name.rsplit(".", 1)[0]
+    for tok in ("_f", "_frame", "_F"):
+        if tok in base:
+            return base.split(tok)[0]
+    return base
+
+
+def generate_synthetic_71471(out_dir: str, n_individuals: int = 80,
+                             frames: int = 20) -> None:
+    """개체×프레임 구조의 합성 라벨 생성.
+
+    발정 개체는 (a) 활동량↑(프레임 간 중심 이동 큼), (b) standing/tailing 잦음,
+    (c) lying 적음 — 이라는 도메인 신호를 심어, 시계열 집계 피처가 학습되도록 한다.
+    """
     os.makedirs(out_dir, exist_ok=True)
     rng = random.Random(71471)
-    for i in range(n):
-        behavior = rng.choice(BEHAVIORS_71471)
-        # 발정 개체는 서성임(standing)·꼬리세움(tailing)이 잦다는 도메인 신호 반영
-        estrus = 1 if (behavior in ("standing", "tailing") and rng.random() < 0.6) \
-            else (1 if rng.random() < 0.1 else 0)
-        w = rng.uniform(80, 300); h = rng.uniform(60, 200)
-        obj = {
-            "metadata": {"species": rng.choice(SPECIES_71471)},
-            "estrus": estrus,
-            "annotations": [{
-                "behavior": behavior,
-                "bbox": [rng.uniform(0, 100), rng.uniform(0, 100),
-                         round(w, 1), round(h, 1)],
-                "keypoints": [round(rng.uniform(0, 400), 1) for _ in range(34)],
-            }],
-        }
-        json.dump(obj, open(os.path.join(out_dir, f"E_{i:04d}.json"), "w",
-                            encoding="utf-8"), ensure_ascii=False)
+    farms = ["pigfarmA", "blackpigB"]
+    for ind in range(n_individuals):
+        estrus = 1 if rng.random() < 0.4 else 0
+        species = rng.choice(SPECIES_71471)
+        farm = rng.choice(farms)
+        base_x, base_y = rng.uniform(200, 800), rng.uniform(200, 600)
+        # 활동량: 발정이 평균적으로 높지만 개체차로 범위가 겹치게(현실적)
+        move = (rng.uniform(10, 28) if estrus else rng.uniform(5, 20)) \
+            + rng.gauss(0, 3)
+        move = max(2.0, move)
+        # 행동 분포도 경향만 다르게(완전 분리 아님)
+        if estrus:
+            probs = {"standing": .24, "tailing": .15, "eating": .15,
+                     "head shaking": .10, "sitting": .11, "lying": .25}
+        else:
+            probs = {"lying": .34, "eating": .20, "standing": .15,
+                     "sitting": .13, "head shaking": .08, "tailing": .10}
+        behs = list(probs); wts = list(probs.values())
+        for f in range(frames):
+            behavior = rng.choices(behs, weights=wts)[0]
+            cx = base_x + rng.gauss(0, move)
+            cy = base_y + rng.gauss(0, move)
+            kps = []
+            for _ in range(17):  # 17 keypoint
+                kps += [round(cx + rng.gauss(0, 25), 1),
+                        round(cy + rng.gauss(0, 25), 1)]
+            w = rng.uniform(120, 300); h = rng.uniform(70, 180)
+            obj = {
+                "metadata": {"species": species, "farm": farm,
+                             "individual_id": f"{farm}_{ind:03d}",
+                             "frame_idx": f},
+                "estrus": estrus,
+                "annotations": [{
+                    "behavior": behavior,
+                    "bbox": [round(cx - w / 2, 1), round(cy - h / 2, 1),
+                             round(w, 1), round(h, 1)],
+                    "keypoints": kps}],
+            }
+            fn = f"{farm}_{ind:03d}_ch1_f{f:03d}.json"
+            json.dump(obj, open(os.path.join(out_dir, fn), "w",
+                                encoding="utf-8"), ensure_ascii=False)
 
 
 # ---------------------------------------------------------------------------
