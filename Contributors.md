@@ -1,6 +1,7 @@
 # Contributors
 - [KingPlein] (https://github.com/KingPlein)
 - [Kashish](https://github.com/Kashish1074)
+- [babysatochan72](https://github.com/babysatochan72)
 - [Vignesh](https://github.com/vigneshsabapathi)
 - [SidGod](https://github.com/starboylive) 
 - [Tejika Singh](https://github.com/TejikaSingh02)
