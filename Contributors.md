@@ -1,5 +1,6 @@
 # Contributors
 - [Abhinav Gupta](https://github.com/Abhinav201310)
+- [Rishabh Jaiswal] (https://github.com/rishabhjaiswal)
 - [Bas]
 - [pritam jadhav] (https://github.com/priiiiitam)
 - [Revathy M R](https://github.com/ReVuZ)
