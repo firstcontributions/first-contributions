@@ -3716,3 +3716,4 @@ Harish K
 - [victorhugoabogado-ux](https://github.com/victorhugoabogado-ux)
 -[Mesayan-0](https://github.com/MeSayan-0)
 - [makomikolako](https://github.com/MAKOMIKOLAKO)
+- [Davi Moraes](https://github.com/davimoraes3036)
