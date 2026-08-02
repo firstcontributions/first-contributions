@@ -56,8 +56,10 @@ def make_pipeline(num: list[str], cat: list[str], estimator) -> Pipeline:
 
 def save_importances(pipe: Pipeline, num: list[str], cat: list[str],
                      name: str) -> None:
-    ohe = pipe.named_steps["pre"].named_transformers_["cat"]
-    feat_names = num + list(ohe.get_feature_names_out(cat))
+    feat_names = list(num)
+    if cat:  # 범주형이 없으면 OneHotEncoder 가 적합되지 않으므로 건너뜀
+        ohe = pipe.named_steps["pre"].named_transformers_["cat"]
+        feat_names += list(ohe.get_feature_names_out(cat))
     imp = pipe.named_steps["model"].feature_importances_
     s = pd.Series(imp, index=feat_names).sort_values(ascending=False)
     s.round(4).to_csv(f"{OUT}/importance_{name}.csv",

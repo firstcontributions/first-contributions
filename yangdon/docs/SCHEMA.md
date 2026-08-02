@@ -50,6 +50,25 @@ BBox / Keypoints / Polygon + 울음소리 + 외음부 + 3D. 파일명에 농장�
 ※ 양돈 과제이므로 **돼지·흑돼지만** 사용. 부가 모달(울음소리·외음부·3D)은
    확보 시 멀티모달로 확장(문서상 CRNN 멀티모달 발정분류 F1 0.90).
 
+### 확장: 후보돈 무발정·발정지연 위험 (예측 + 처방)
+
+도메인 근거(한돈뉴스, pignpork.com): *"초교배 일령이 지났는데 발정이 오지 않거나
+강도가 약하면 후보돈 성장과정의 질병 이력, 후보돈사 시설·질병·사료·음수를
+체크하여 반드시 개선."* → 무발정은 **관리 가능한 요인**에 좌우된다.
+
+`src/model_gilt_anestrus.py` 는 이를 예측+처방 문제로 다룬다.
+
+| 구분 | 내용 |
+|---|---|
+| 타깃 | anestrus(0/1): 초교배 일령까지 정상 발정 미발현 |
+| 피처 | age_over_target, growth_disease_cnt, backfat, facility_score, **feed/water_adequacy**, nh3/temp/humidity, **boar_exposure**(웅돈 접촉), weight |
+| 출력 | ① 위험 예측(AUC) ② **개체별 개선요인 처방**(관리 가능한 불량 요인 플래그) |
+
+데이터 출처: 환경·사료·음수는 71763(SensorData/FeedingAndManagement), 발정
+결과는 71471, 질병력·시설·웅돈접촉·등지방은 농장 사양관리 기록/점검표에서 결합.
+합성 데모: AUC≈0.66, 관리요인 불량군 무발정률 43% vs 양호군 19%.
+실행: `python yangdon/src/model_gilt_anestrus.py [gilt.csv]`
+
 ## ③ 622 지능형 스마트축사(양돈) — XML (CVAT)
 
 라벨 형식이 **XML**(`annotations.xml`, CVAT 스타일). 공식 파이프라인도
