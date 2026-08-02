@@ -90,7 +90,7 @@ nathan practice here
 - [Marcia Cristina](https://github.com/clibosque-star)
 - cocodrilo-bit
 - [Kashish](https://github.com/Kashish1074)
-- [babysatochan72](https://github.com/babysatochan72)
+- [babysatochan72](https://github.com/babysatochan72-create)
 - [sristikundu1](https://github.com/sristikundu1)
 - Vijay-Karthi-Kayan | (https://github.com/Vijay-Karthikayan)
 - [ShohebMomin](https://github.com/ShohebMomin)
@@ -301,6 +301,7 @@ nathan practice here
 - Soham Sen(BloodRaven5551)
 - [Nikolo Quinones](https://github.com/NikoloQuinones)
 - [Pete Barb](https://github.com/DPB22)
+- [jaivik Patoliya] 
 - [Sandip Panigrahi](https://github.com/sandip13579)
 - [Jacob Cherian](https://github.com/JC230903)
 - [Rachit Kushwaha](https://github.com/rachit-890)
@@ -3740,3 +3741,5 @@ Harish K
 -[Shubhang-2111](https://github.com/Shubhang-2111)
 - [Shivam Parmar](https://github.com/shivamparmar-problemsolver)
 - [Chris Boat](https://github.com/Chris-code-tech)
+- [Guillermo Barreto] (https://github.com/GuillermoBarreto)
+- [Claudio Ibe] (https://github.com/0xclaudi0)
