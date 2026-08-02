@@ -16,6 +16,7 @@
 - [safae](https://github.com/kaiha1)
 - [Tanvika Ojha](https://github.com/TanvikaOjha)
 - [Amy Ann Jims](https://github.com/Amy-code658)
+- [Anas Ghayas](https://github.com/anasghayas)
 - [Anshul Kanodia](https://github.com/AnshulKanodia) 
 - [Pratham Jain](https://github.com/prathamnjain1)
 - oussema tayechi
