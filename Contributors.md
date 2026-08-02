@@ -578,6 +578,7 @@ niceshowmini
 - [Laszlo Sutus] (https://github.com/sutusxxx)
 - hak
 - [Timothy Smith](https://github.com/timothysmithdev)
+- [HP729]
 - Sindy
 - [Ritvik Vudatha] (https://github.com/g1tvik)
 - [Tanvi Dominic] (https://github.com/tanvidominic)
