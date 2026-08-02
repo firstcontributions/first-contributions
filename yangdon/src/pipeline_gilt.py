@@ -71,8 +71,11 @@ def generate_joint(n_gilts: int = 600, frames: int = 20, seed: int = 11):
                                    + 0.02 * np.maximum(0, age_over))))
     anestrus_y = (rng.random(n_gilts) < p_anestrus).astype(int)
 
+    farms = np.array(["햇살농장", "대명농장", "우리농장", "한돈혁신"])
+    farm_of = farms[rng.integers(0, len(farms), n_gilts)]
     mgmt = pd.DataFrame({
-        "individual_id": [f"G{ i:04d}".replace(" ", "") for i in range(n_gilts)],
+        "individual_id": [f"G{i:04d}" for i in range(n_gilts)],
+        "farm": farm_of,
         "age_over_target": age_over.round(0),
         "growth_disease_cnt": disease,
         "backfat_mm": backfat.round(1),
@@ -136,7 +139,7 @@ def run(frames: pd.DataFrame, mgmt: pd.DataFrame) -> None:
     y = df["anestrus"].astype(int).to_numpy()
     print(f"무발정/발정지연 {y.sum()}두 ({y.mean():.0%})")
 
-    drop = {"anestrus", "individual_id"}
+    drop = {"anestrus", "individual_id", "farm"}
     feats = [c for c in df.columns if c not in drop]
     num = [c for c in feats if pd.api.types.is_numeric_dtype(df[c])]
     cat = [c for c in feats if c not in num]

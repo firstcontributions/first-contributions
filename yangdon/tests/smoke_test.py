@@ -69,10 +69,25 @@ def test_pipeline_gilt_integration() -> None:
     assert "activity_mean" in merged.columns and "feed_adequacy" in merged.columns
 
 
+def test_estrus_onset_and_dashboard() -> None:
+    """발정 시작점 탐지 + 대시보드 데이터 생성이 되는지."""
+    import estrus_onset
+    import build_dashboard
+    import pipeline_gilt
+    frames, mgmt = pipeline_gilt.generate_joint(n_gilts=40, frames=10)
+    onsets = estrus_onset.detect_all(frames)
+    assert len(onsets) == 40
+    any_res = next(iter(onsets.values()))
+    assert "score" in any_res and "status" in any_res
+    data = build_dashboard.build_data(frames, mgmt)
+    assert data["meta"]["n_gilts"] == 40
+    assert len(data["gilts"]) == 40 and data["importance"]
+
+
 def main() -> int:
     tests = [test_dependencies_import, test_aihub_client_no_key,
              test_pipeline_runs, test_aihub_parsers,
-             test_pipeline_gilt_integration]
+             test_pipeline_gilt_integration, test_estrus_onset_and_dashboard]
     failed = 0
     for t in tests:
         try:

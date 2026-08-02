@@ -46,6 +46,26 @@ yangdon/
   outputs/             # (생성물) EDA 표·그림, 모델 성능·특성중요도
 ```
 
+## 웹 대시보드
+
+`dashboard/index.html` — 단일 HTML(외부 라이브러리 없음, SVG 차트). 브라우저로 열면 끝.
+
+```bash
+python yangdon/src/build_dashboard.py                       # 합성 시연 데이터로 생성
+python yangdon/src/build_dashboard.py <cctv_dir> <mgmt.csv> # 실데이터로 생성
+```
+
+기능:
+- KPI: 후보돈 수, **전체 발정률**, CCTV 발정 미탐지 수, 무발정률, 융합 AUC
+- 무발정 위험 입력구성별 AUC 비교(CCTV/관리/융합) · 주요 요인
+- **농장별 발정률**(낮은 농장 = 관리 점검 필요)
+- **이메일 발정/무발정 알람**: 이메일 입력 → 미탐지·고위험 개체 경보 메일 초안(mailto)
+  구성 (실시간 자동발송은 SMTP 서버 연동 필요)
+- **후보돈 목록**(위험도·농장 필터) → 개체 선택 시:
+  - **개체별 발정**: 활동량·발정점수 시계열, **시간 윈도우 발정 시작점** 표시
+    (임계 미달 지속 시 무발정 경보)
+  - 개선 처방 + 관리요인 현황
+
 ## 새 세션에서 이어가기
 
 이 저장소에는 **SessionStart 훅**(`.claude/hooks/session-start.sh`)이 있어,

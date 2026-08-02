@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>후보돈 발정관찰 · 무발정 위험 대시보드</title>
+<style>
+:root{
+  color-scheme: light;
+  --page:#f9f9f7; --surface:#fcfcfb; --surface2:#f2f2ee;
+  --ink:#0b0b0b; --ink2:#52514e; --muted:#898781;
+  --border:rgba(11,11,11,0.12); --grid:#e4e3dc;
+  --activity:#2a78d6; --score:#eb6834;
+  --good:#0ca30c; --warning:#fab219; --serious:#ec835a; --critical:#d03b3b;
+}
+@media (prefers-color-scheme: dark){
+  :root:where(:not([data-theme="light"])){
+    color-scheme: dark;
+    --page:#0d0d0d; --surface:#1a1a19; --surface2:#242422;
+    --ink:#fff; --ink2:#c3c2b7; --muted:#898781;
+    --border:rgba(255,255,255,0.14); --grid:#2c2c2a;
+    --activity:#3987e5; --score:#d95926;
+  }
+}
+:root[data-theme="dark"]{
+  color-scheme: dark;
+  --page:#0d0d0d; --surface:#1a1a19; --surface2:#242422;
+  --ink:#fff; --ink2:#c3c2b7; --muted:#898781;
+  --border:rgba(255,255,255,0.14); --grid:#2c2c2a;
+  --activity:#3987e5; --score:#d95926;
+}
+*{box-sizing:border-box; margin:0; padding:0;}
+body{font-family:system-ui,-apple-system,"Segoe UI","Malgun Gothic",sans-serif;
+  background:var(--page); color:var(--ink); line-height:1.5; padding:20px;}
+.wrap{max-width:1160px; margin:0 auto;}
+h1{font-size:1.5rem; font-weight:700;}
+.sub{color:var(--ink2); font-size:.9rem; margin:4px 0 18px;}
+.kpis{display:grid; grid-template-columns:repeat(auto-fit,minmax(150px,1fr)); gap:12px; margin-bottom:16px;}
+.kpi{background:var(--surface); border:1px solid var(--border); border-radius:12px; padding:14px 16px;}
+.kpi .v{font-size:1.7rem; font-weight:700; letter-spacing:-.02em;}
+.kpi .l{font-size:.78rem; color:var(--muted); margin-top:2px;}
+.row2{display:grid; grid-template-columns:1fr 1fr; gap:14px; margin-bottom:16px;}
+.card{background:var(--surface); border:1px solid var(--border); border-radius:12px; padding:16px;}
+.card h2{font-size:.92rem; font-weight:600; margin-bottom:12px; color:var(--ink);}
+.main{display:grid; grid-template-columns:340px 1fr; gap:14px;}
+@media(max-width:820px){ .row2,.main{grid-template-columns:1fr;} }
+.filters{display:flex; gap:6px; flex-wrap:wrap; margin-bottom:10px;}
+.fbtn{font:inherit; font-size:.76rem; padding:4px 10px; border-radius:999px; cursor:pointer;
+  border:1px solid var(--border); background:var(--surface2); color:var(--ink2);}
+.fbtn.on{background:var(--ink); color:var(--page); border-color:var(--ink);}
+.tablewrap{max-height:520px; overflow-y:auto; border:1px solid var(--border); border-radius:10px;}
+table{width:100%; border-collapse:collapse; font-size:.82rem;}
+th,td{text-align:left; padding:8px 10px; border-bottom:1px solid var(--grid); white-space:nowrap;}
+th{position:sticky; top:0; background:var(--surface2); font-weight:600; font-size:.75rem; color:var(--ink2);}
+tbody tr{cursor:pointer;}
+tbody tr:hover{background:var(--surface2);}
+tbody tr.sel{background:color-mix(in srgb, var(--activity) 14%, transparent);}
+.badge{display:inline-block; padding:1px 8px; border-radius:999px; font-size:.72rem; font-weight:600; color:#fff;}
+.b-good{background:var(--good);} .b-warning{background:var(--warning); color:#3a2d08;}
+.b-serious{background:var(--serious); color:#3d2116;} .b-critical{background:var(--critical);}
+.dot{display:inline-block; width:8px; height:8px; border-radius:50%; margin-right:5px; vertical-align:middle;}
+.legend{display:flex; gap:14px; font-size:.76rem; color:var(--ink2); margin:2px 0 8px; flex-wrap:wrap;}
+.chartbox{position:relative;}
+svg{display:block; width:100%; height:auto;}
+.tip{position:absolute; pointer-events:none; background:var(--ink); color:var(--page);
+  font-size:.72rem; padding:5px 8px; border-radius:6px; opacity:0; transition:opacity .08s; white-space:nowrap; z-index:5;}
+.banner{padding:8px 12px; border-radius:8px; font-size:.82rem; font-weight:600; margin:4px 0 12px;}
+.banner.estrus{background:color-mix(in srgb,var(--good) 16%,transparent); color:var(--good);}
+.banner.anestrus{background:color-mix(in srgb,var(--critical) 16%,transparent); color:var(--critical);}
+.chips{display:flex; gap:6px; flex-wrap:wrap; margin:6px 0 14px;}
+.chip{font-size:.76rem; padding:3px 10px; border-radius:999px; background:color-mix(in srgb,var(--serious) 18%,transparent);
+  color:var(--serious); border:1px solid color-mix(in srgb,var(--serious) 40%,transparent); font-weight:600;}
+.chip.none{background:var(--surface2); color:var(--muted); border-color:var(--border);}
+.mgmt{display:grid; grid-template-columns:repeat(auto-fill,minmax(140px,1fr)); gap:8px; font-size:.78rem;}
+.mgmt div{background:var(--surface2); border-radius:8px; padding:6px 10px;}
+.mgmt .k{color:var(--muted); font-size:.72rem;} .mgmt .v{font-weight:600;}
+.hbar{display:grid; grid-template-columns:120px 1fr 44px; align-items:center; gap:8px; margin:6px 0; font-size:.78rem;}
+.hbar .track{background:var(--surface2); border-radius:6px; height:14px; overflow:hidden;}
+.hbar .fill{height:100%; border-radius:6px;}
+.note{font-size:.72rem; color:var(--muted); margin-top:10px; line-height:1.5;}
+.detail-head{display:flex; align-items:center; gap:10px; flex-wrap:wrap; margin-bottom:4px;}
+.detail-head .id{font-size:1.1rem; font-weight:700;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>후보돈 발정관찰 · 무발정 위험 대시보드</h1>
+  <div class="sub">CCTV 발정관찰(개체 시계열) → 시간 윈도우 발정 시작점 탐지 · 관리요인 융합 무발정 위험 예측 + 개선 처방</div>
+
+  <div class="kpis" id="kpis"></div>
+
+  <div class="row2">
+    <div class="card">
+      <h2>무발정 위험 예측 — 입력 구성별 AUC</h2>
+      <div id="modelbars"></div>
+      <div class="note">CCTV 행동 신호와 관리요인을 <b>융합</b>할 때 성능이 가장 높다(상호보완).</div>
+    </div>
+    <div class="card">
+      <h2>무발정 위험 주요 요인 (융합 모델)</h2>
+      <div id="impbars"></div>
+    </div>
+  </div>
+
+  <div class="row2">
+    <div class="card">
+      <h2>농장별 발정률 <span style="color:var(--muted);font-weight:400;font-size:.8rem">(낮을수록 관리 점검 필요)</span></h2>
+      <div id="farmbars"></div>
+    </div>
+    <div class="card">
+      <h2>이메일 발정/무발정 알람</h2>
+      <div style="font-size:.82rem;color:var(--ink2);margin-bottom:10px">
+        이메일을 입력하면 <b>발정 미탐지·고위험(경계/위험) 후보돈</b> 경보를 메일로 구성합니다.</div>
+      <div style="display:flex;gap:8px;flex-wrap:wrap">
+        <input id="email" type="email" placeholder="alert@farm.com"
+          style="flex:1;min-width:180px;font:inherit;font-size:.85rem;padding:8px 10px;border-radius:8px;border:1px solid var(--border);background:var(--surface2);color:var(--ink)">
+        <button id="alarmBtn" class="fbtn on" style="font-size:.82rem;padding:8px 14px">알람 설정</button>
+      </div>
+      <div id="alarmStatus" style="font-size:.8rem;margin-top:10px;color:var(--ink2)"></div>
+      <div class="note">※ 실시간 자동 발송은 서버(SMTP) 연동이 필요합니다. 본 데모는
+        경보 대상을 집계해 메일 초안(mailto)을 생성합니다.</div>
+    </div>
+  </div>
+
+  <div class="main">
+    <div class="card">
+      <h2>후보돈 목록 <span id="count" style="color:var(--muted);font-weight:400"></span></h2>
+      <div class="filters" id="filters"></div>
+      <div class="filters" id="farmFilters"></div>
+      <div class="tablewrap">
+        <table><thead><tr><th>개체</th><th>농장</th><th>위험도</th><th>발정관찰</th></tr></thead>
+        <tbody id="tbody"></tbody></table>
+      </div>
+    </div>
+    <div class="card" id="detail"></div>
+  </div>
+
+  <div class="note">
+    ※ 현재 표시는 문서 스키마 기반 <b>합성 시연 데이터</b>입니다. 실데이터 연결 시
+    <code>build_dashboard.py &lt;cctv_dir&gt; &lt;mgmt.csv&gt;</code> 로 동일 화면이 생성됩니다.
+    발정 시작점은 활동량·발정행동(기립·꼬리세움)의 슬라이딩 윈도우 점수가 임계값(0.5)을
+    지속 초과하는 첫 시점이며, 끝까지 미초과 시 <b>무발정</b>으로 표시합니다.
+  </div>
+</div>
+
+<script>
+window.DATA = /*__DATA__*/null;
+(function(){
+  const D = window.DATA;
+  if(!D){ document.body.innerHTML = "<p style='padding:40px'>데이터가 없습니다. build_dashboard.py 를 실행하세요.</p>"; return; }
+  const BAND = {good:"양호", warning:"주의", serious:"경계", critical:"위험"};
+  const bandColor = b => getComputedStyle(document.documentElement).getPropertyValue("--"+b).trim();
+  const pct = x => (x*100).toFixed(0)+"%";
+
+  // KPI
+  const m = D.meta;
+  document.getElementById("kpis").innerHTML = [
+    ["후보돈", m.n_gilts+"두"],
+    ["전체 발정률", pct(m.estrus_rate)],
+    ["CCTV 발정 미탐지", m.n_no_onset+"두"],
+    ["무발정률(실측)", pct(m.anestrus_rate)],
+    ["융합 모델 AUC", m.auc_fusion.toFixed(3)],
+  ].map(([l,v])=>`<div class="kpi"><div class="v">${v}</div><div class="l">${l}</div></div>`).join("");
+
+  // 모델 비교 막대
+  const models=[["CCTV 신호만",m.auc_cctv,"var(--activity)"],
+                ["관리요인만",m.auc_mgmt,"var(--score)"],
+                ["CCTV + 관리요인 (융합)",m.auc_fusion,"var(--good)"]];
+  const amax=Math.max(...models.map(x=>x[1]));
+  document.getElementById("modelbars").innerHTML = models.map(([l,v,c])=>`
+    <div class="hbar"><span>${l}</span>
+    <div class="track"><div class="fill" style="width:${(v/amax*100).toFixed(1)}%;background:${c}"></div></div>
+    <b>${v.toFixed(3)}</b></div>`).join("");
+
+  // 특성 중요도
+  const imax=Math.max(...D.importance.map(d=>d.value));
+  document.getElementById("impbars").innerHTML = D.importance.map(d=>`
+    <div class="hbar"><span title="${d.feature}">${d.feature}</span>
+    <div class="track"><div class="fill" style="width:${(d.value/imax*100).toFixed(1)}%;background:var(--activity)"></div></div>
+    <b>${d.value.toFixed(2)}</b></div>`).join("");
+
+  // 농장별 발정률 막대
+  const frmax=Math.max(...D.farms.map(f=>f.estrus_rate),0.01);
+  document.getElementById("farmbars").innerHTML = D.farms.map(f=>{
+    const c = f.estrus_rate<0.5?"var(--critical)":f.estrus_rate<0.7?"var(--serious)":"var(--good)";
+    return `<div class="hbar"><span title="${f.farm}">${f.farm} (${f.n})</span>
+      <div class="track"><div class="fill" style="width:${(f.estrus_rate/frmax*100).toFixed(1)}%;background:${c}"></div></div>
+      <b>${pct(f.estrus_rate)}</b></div>`;
+  }).join("");
+
+  // 필터(위험도 + 농장) + 테이블
+  let filter="all", farmFilter="all";
+  const bands=["all","critical","serious","warning","good"];
+  const flabel={all:"전체",critical:"위험",serious:"경계",warning:"주의",good:"양호"};
+  document.getElementById("filters").innerHTML = bands.map(b=>
+    `<button class="fbtn${b==="all"?" on":""}" data-b="${b}">${flabel[b]}</button>`).join("");
+  const farmNames=[...new Set(D.gilts.map(g=>g.farm))];
+  document.getElementById("farmFilters").innerHTML =
+    [`<button class="fbtn on" data-f="all">농장 전체</button>`]
+    .concat(farmNames.map(f=>`<button class="fbtn" data-f="${f}">${f}</button>`)).join("");
+  document.querySelectorAll("#filters .fbtn").forEach(btn=>btn.onclick=()=>{
+    filter=btn.dataset.b;
+    document.querySelectorAll("#filters .fbtn").forEach(x=>x.classList.toggle("on",x===btn));
+    renderTable();
+  });
+  document.querySelectorAll("#farmFilters .fbtn").forEach(btn=>btn.onclick=()=>{
+    farmFilter=btn.dataset.f;
+    document.querySelectorAll("#farmFilters .fbtn").forEach(x=>x.classList.toggle("on",x===btn));
+    renderTable();
+  });
+
+  const filtered = ()=>D.gilts.filter(g=>(filter==="all"||g.band===filter)
+    && (farmFilter==="all"||g.farm===farmFilter));
+
+  let selected=D.gilts[0];
+  function renderTable(){
+    const rows=filtered();
+    document.getElementById("count").textContent="("+rows.length+")";
+    document.getElementById("tbody").innerHTML = rows.map(g=>{
+      const os = g.onset_status==="estrus"
+        ? `<span class="dot" style="background:var(--good)"></span>발정 F${g.onset_frame}`
+        : `<span class="dot" style="background:var(--critical)"></span>미탐지`;
+      return `<tr data-id="${g.id}" class="${g===selected?"sel":""}">
+        <td>${g.id}</td>
+        <td style="color:var(--ink2)">${g.farm}</td>
+        <td><span class="badge b-${g.band}">${pct(g.risk)}</span></td>
+        <td>${os}</td></tr>`;
+    }).join("");
+    document.querySelectorAll("#tbody tr").forEach(tr=>tr.onclick=()=>{
+      selected=D.gilts.find(g=>g.id===tr.dataset.id); renderTable(); renderDetail();
+    });
+  }
+
+  // 이메일 알람: 경보 대상(발정 미탐지 또는 경계/위험) 집계 → mailto 초안
+  const alertTargets = ()=>D.gilts.filter(g=>
+    g.onset_status==="anestrus" || g.band==="serious" || g.band==="critical");
+  const emailInput=document.getElementById("email");
+  emailInput.value = localStorage.getItem("gilt_alarm_email")||"";
+  function updateAlarm(saved){
+    const t=alertTargets();
+    const st=document.getElementById("alarmStatus");
+    if(saved){
+      const body = ["[후보돈 발정/무발정 경보]",
+        `대상 ${t.length}두 (발정 미탐지·고위험)`,""]
+        .concat(t.slice(0,40).map(g=>`- ${g.id} (${g.farm}) 위험 ${pct(g.risk)} / `
+          + (g.onset_status==="anestrus"?"발정 미탐지":"발정 관찰")
+          + (g.prescribe.length?` → 개선: ${g.prescribe.join(", ")}`:"")))
+        .join("\n");
+      const mailto = `mailto:${encodeURIComponent(saved)}`
+        + `?subject=${encodeURIComponent("[양돈 발정관찰] 후보돈 경보 "+t.length+"두")}`
+        + `&body=${encodeURIComponent(body)}`;
+      st.innerHTML = `✓ <b>${saved}</b> 로 알람 설정됨 — 경보 대상 <b>${t.length}두</b> `
+        + `<a href="${mailto}" style="color:var(--activity)">경보 메일 열기 ↗</a>`;
+    } else {
+      st.innerHTML = `경보 대상 현재 <b>${t.length}두</b> — 이메일을 입력하고 설정하세요.`;
+    }
+  }
+  document.getElementById("alarmBtn").onclick=()=>{
+    const v=emailInput.value.trim();
+    if(!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(v)){ emailInput.focus(); emailInput.style.borderColor="var(--critical)"; return; }
+    emailInput.style.borderColor="var(--border)";
+    localStorage.setItem("gilt_alarm_email",v); updateAlarm(v);
+  };
+  updateAlarm(emailInput.value||null);
+
+  // 라인차트(단일 시리즈, viewBox) + 옵션 임계선/onset/hover
+  function lineChart(series, opts){
+    const W=560,H=opts.h||150,P={l:34,r:12,t:12,b:22};
+    const xs=series.x, ys=series.y;
+    const ymin=opts.ymin!=null?opts.ymin:Math.min(...ys);
+    const ymax=opts.ymax!=null?opts.ymax:Math.max(...ys)*1.05||1;
+    const X=i=> P.l + (xs.length<2?0:i/(xs.length-1))*(W-P.l-P.r);
+    const Y=v=> H-P.b - (v-ymin)/((ymax-ymin)||1)*(H-P.t-P.b);
+    const path=ys.map((v,i)=>(i?"L":"M")+X(i).toFixed(1)+" "+Y(v).toFixed(1)).join(" ");
+    let g="";
+    // y grid (3)
+    for(let k=0;k<=2;k++){const v=ymin+(ymax-ymin)*k/2; const y=Y(v);
+      g+=`<line x1="${P.l}" y1="${y}" x2="${W-P.r}" y2="${y}" stroke="var(--grid)" stroke-width="1"/>`;
+      g+=`<text x="${P.l-5}" y="${y+3}" text-anchor="end" font-size="9" fill="var(--muted)">${v.toFixed(opts.dec||0)}</text>`;}
+    // threshold
+    if(opts.threshold!=null){const y=Y(opts.threshold);
+      g+=`<line x1="${P.l}" y1="${y}" x2="${W-P.r}" y2="${y}" stroke="var(--critical)" stroke-width="1.5" stroke-dasharray="4 3"/>`;
+      g+=`<text x="${W-P.r}" y="${y-3}" text-anchor="end" font-size="9" fill="var(--critical)">임계 ${opts.threshold}</text>`;}
+    // onset region + marker
+    if(opts.onset!=null){const oi=xs.indexOf(opts.onset); if(oi>=0){const x=X(oi);
+      g+=`<rect x="${x}" y="${P.t}" width="${W-P.r-x}" height="${H-P.t-P.b}" fill="var(--good)" opacity="0.08"/>`;
+      g+=`<line x1="${x}" y1="${P.t}" x2="${x}" y2="${H-P.b}" stroke="var(--good)" stroke-width="1.5"/>`;
+      g+=`<text x="${x+3}" y="${P.t+9}" font-size="9" fill="var(--good)">발정 시작 F${opts.onset}</text>`;}}
+    g+=`<path d="${path}" fill="none" stroke="${opts.color}" stroke-width="2" stroke-linejoin="round"/>`;
+    // x labels (첫/끝)
+    g+=`<text x="${P.l}" y="${H-6}" font-size="9" fill="var(--muted)">F${xs[0]}</text>`;
+    g+=`<text x="${W-P.r}" y="${H-6}" text-anchor="end" font-size="9" fill="var(--muted)">F${xs[xs.length-1]}</text>`;
+    // hover overlay
+    const cross=`<line id="cx" x1="0" y1="${P.t}" x2="0" y2="${H-P.b}" stroke="var(--ink2)" stroke-width="1" opacity="0"/>
+      <circle id="cd" r="3.5" fill="${opts.color}" opacity="0"/>`;
+    const hit=`<rect id="hit" x="${P.l}" y="${P.t}" width="${W-P.l-P.r}" height="${H-P.t-P.b}" fill="transparent"/>`;
+    return {svg:`<svg viewBox="0 0 ${W} ${H}" preserveAspectRatio="xMidYMid meet">${g}${cross}${hit}</svg>`,
+            W,H,P,X,Y,xs,ys};
+  }
+
+  function attachHover(box, chart, fmt){
+    const svg=box.querySelector("svg"), hit=svg.querySelector("#hit"),
+      cx=svg.querySelector("#cx"), cd=svg.querySelector("#cd"), tip=box.querySelector(".tip");
+    if(!hit) return;
+    hit.addEventListener("mousemove",e=>{
+      const r=svg.getBoundingClientRect(), sx=(e.clientX-r.left)/r.width*chart.W;
+      let i=Math.round((sx-chart.P.l)/((chart.W-chart.P.l-12)||1)*(chart.xs.length-1));
+      i=Math.max(0,Math.min(chart.xs.length-1,i));
+      const X=chart.X(i),Y=chart.Y(chart.ys[i]);
+      cx.setAttribute("x1",X); cx.setAttribute("x2",X); cx.setAttribute("opacity","0.5");
+      cd.setAttribute("cx",X); cd.setAttribute("cy",Y); cd.setAttribute("opacity","1");
+      tip.style.opacity=1; tip.style.left=(e.clientX-r.left+10)+"px"; tip.style.top=(e.clientY-r.top-10)+"px";
+      tip.innerHTML=fmt(i);
+    });
+    hit.addEventListener("mouseleave",()=>{cx.setAttribute("opacity","0"); cd.setAttribute("opacity","0"); tip.style.opacity=0;});
+  }
+
+  function renderDetail(){
+    const g=selected;
+    const el=document.getElementById("detail");
+    const banner = g.onset_status==="estrus"
+      ? `<div class="banner estrus">✓ 발정 관찰됨 — 프레임 F${g.onset_frame} 시작</div>`
+      : `<div class="banner anestrus">⚠ 발정 미탐지 — 무발정/발정지연 의심, 아래 요인 개선 필요</div>`;
+    const chips = g.prescribe.length
+      ? g.prescribe.map(p=>`<span class="chip">${p}</span>`).join("")
+      : `<span class="chip none">뚜렷한 관리요인 없음 (질병력·성성숙 검토)</span>`;
+    const mgmt = Object.entries(g.mgmt).map(([k,v])=>
+      `<div><div class="k">${k}</div><div class="v">${v}</div></div>`).join("");
+
+    el.innerHTML = `
+      <div class="detail-head">
+        <span class="id">${g.id}</span>
+        <span class="badge b-${g.band}">무발정 위험 ${pct(g.risk)} · ${BAND[g.band]}</span>
+      </div>
+      ${banner}
+      <div class="legend"><span><span class="dot" style="background:var(--score)"></span>발정 점수(0–1)</span>
+        <span><span class="dot" style="background:var(--activity)"></span>활동량(px/frame)</span></div>
+      <div class="chartbox" id="cScore"><div class="tip"></div></div>
+      <div class="chartbox" id="cAct" style="margin-top:6px"><div class="tip"></div></div>
+      <div style="margin-top:14px;font-size:.82rem;font-weight:600">개선 처방</div>
+      <div class="chips">${chips}</div>
+      <div style="font-size:.82rem;font-weight:600;margin-bottom:6px">관리요인 현황</div>
+      <div class="mgmt">${mgmt}</div>`;
+
+    const sc=lineChart({x:g.frames,y:g.score},
+      {color:"var(--score)",ymin:0,ymax:1,dec:1,threshold:D.meta.threshold,onset:g.onset_frame,h:160});
+    const scb=el.querySelector("#cScore"); scb.insertAdjacentHTML("afterbegin",sc.svg);
+    attachHover(scb,sc,i=>`F${g.frames[i]} · 점수 ${g.score[i].toFixed(2)}`);
+
+    const ac=lineChart({x:g.frames,y:g.activity},{color:"var(--activity)",ymin:0,dec:0,h:110});
+    const acb=el.querySelector("#cAct"); acb.insertAdjacentHTML("afterbegin",ac.svg);
+    attachHover(acb,ac,i=>`F${g.frames[i]} · 활동량 ${g.activity[i].toFixed(1)}`);
+  }
+
+  renderTable(); renderDetail();
+})();
+</script>
+</body>
+</html>
