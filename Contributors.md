@@ -301,6 +301,7 @@ nathan practice here
 - Soham Sen(BloodRaven5551)
 - [Nikolo Quinones](https://github.com/NikoloQuinones)
 - [Pete Barb](https://github.com/DPB22)
+- [jaivik Patoliya] 
 - [Sandip Panigrahi](https://github.com/sandip13579)
 - [Jacob Cherian](https://github.com/JC230903)
 - [Rachit Kushwaha](https://github.com/rachit-890)
