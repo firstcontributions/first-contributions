@@ -1,0 +1,1 @@
+print("The first merge using the terminal is done, now need to commit using PR requests.")
