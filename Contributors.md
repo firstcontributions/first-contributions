@@ -3,6 +3,7 @@
 - [Abhinav Gupta](https://github.com/Abhinav201310)
 - [Abhinav Bhatpude](https://github.com/abhinav05-bhatpude)
 - [Rishabh Jaiswal] (https://github.com/rishabhjaiswal)
+- [Saurabh Chaudhary](https://github.com/saurabhcr007)
 - [Bas]
 - [pritam jadhav] (https://github.com/priiiiitam)
 - [Revathy M R](https://github.com/ReVuZ)
@@ -3747,3 +3748,4 @@ Harish K
 - [Claudio Ibe] (https://github.com/0xclaudi0)
 - [Dibyaranjan Sahoo](https://github.com/dibya024)
 - [Jocky-Jazz](https://github.com/Jocky-Jazz)
+- [Alok Jadhao](https://github.com/Alok-Jadhao)
