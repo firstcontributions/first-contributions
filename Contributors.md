@@ -3747,4 +3747,5 @@ Harish K
 - [Guillermo Barreto] (https://github.com/GuillermoBarreto)
 - [Claudio Ibe] (https://github.com/0xclaudi0)
 - [Dibyaranjan Sahoo](https://github.com/dibya024)
+- [Jocky-Jazz](https://github.com/Jocky-Jazz)
 - [Alok Jadhao](https://github.com/Alok-Jadhao)
