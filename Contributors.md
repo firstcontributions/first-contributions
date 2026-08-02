@@ -39,6 +39,7 @@
 - [Arvind Verma](https://github.com/varvindea) 
 - [JC Abucay](https://github.com/abukix) 
 - [Mahi](https://github.com/mahi-prakash)
+- [Isha](https://github.com/ishacm)
 - [Ryan Williams](https://github.com/ryanwilliamske)
 -[Saikrishna Penta](https://github.com/Sai13122005)
 - [Binay Dalai](https://github.com/bkd-dotcom)
