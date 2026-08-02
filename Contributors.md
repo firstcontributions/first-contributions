@@ -1,6 +1,7 @@
 # Contributors
 - [Abhinav Gupta](https://github.com/Abhinav201310)
 - [Bas]
+- [pritam jadhav] (https://github.com/priiiiitam)
 - [Revathy M R](https://github.com/ReVuZ)
 - [muaz aman] (https://github.com/Muaxacker)
 - [xiaoguoba](https://github.com/xilele777)
