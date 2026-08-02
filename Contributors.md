@@ -1433,6 +1433,7 @@ Amna Naeem
 - Aakash Gupta
 - [Madhan Kumaar](https://github.com/Madhan3009)
 - Aanya
+- [Minglang Chen](https://github.com/langchengit)
 - [Donny Guo](https://github.com/Donny-Guo)
 - [John Robert](https://github.com/okarin-sama)
 - [Dor Cohen](https://github.com/Dor11126)
@@ -3724,3 +3725,5 @@ Harish K
 - [Dinni Sravya](https://github.com/MUTAKANI-DINNI-SRAVYA)
 - [rohinkzth](https://github.com/rohinkzth)
 - [Matthew-Zy](https://github.com/Matthew-Zy)
+- [ShiftHappens-Lab](https://github.com/ShiftHappens-Lab)
+
