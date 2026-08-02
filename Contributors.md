@@ -3743,3 +3743,4 @@ Harish K
 - [Chris Boat](https://github.com/Chris-code-tech)
 - [Guillermo Barreto] (https://github.com/GuillermoBarreto)
 - [Claudio Ibe] (https://github.com/0xclaudi0)
+- [Alejandro G](https://github.com/alejandrodnt7-debug)
