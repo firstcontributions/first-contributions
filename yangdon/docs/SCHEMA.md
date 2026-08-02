@@ -69,6 +69,22 @@ BBox / Keypoints / Polygon + 울음소리 + 외음부 + 3D. 파일명에 농장�
 합성 데모: AUC≈0.66, 관리요인 불량군 무발정률 43% vs 양호군 19%.
 실행: `python yangdon/src/model_gilt_anestrus.py [gilt.csv]`
 
+### 통합 파이프라인: CCTV 발정관찰 → 무발정 위험 → 처방
+
+`src/pipeline_gilt.py` 는 위 두 과제를 하나로 잇는다.
+
+```
+CCTV 키프레임(71471) → 개체 시계열 발정행동 신호(활동량·행동비율·자세)
+        └─┬─ 관리요인(사료·음수·시설·웅돈접촉·질병력·환경) 결합
+          └─ 융합 → 무발정 위험 예측 + 개체별 개선 처방
+```
+
+- CCTV 신호와 무발정 결과는 **공통 잠재변수(번식 준비도)** 를 공유하도록 설계.
+  CCTV는 발정의 '관찰 가능한 증거', 관리요인은 '개선 지렛대'.
+- 데모(입력 구성별 5-fold): **융합 AUC 0.71 > CCTV만 0.70 · 관리만 0.69**
+  → 두 소스가 상호보완. 위험 상위 개체에 개선요인을 자동 처방.
+- 실행: `python yangdon/src/pipeline_gilt.py [cctv_dir] [mgmt.csv]`
+
 ## ③ 622 지능형 스마트축사(양돈) — XML (CVAT)
 
 라벨 형식이 **XML**(`annotations.xml`, CVAT 스타일). 공식 파이프라인도

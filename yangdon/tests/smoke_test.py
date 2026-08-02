@@ -59,9 +59,20 @@ def test_aihub_parsers() -> None:
             assert len(df) > 0, f"{key} 파싱 결과가 빔"
 
 
+def test_pipeline_gilt_integration() -> None:
+    """CCTV→무발정 통합 파이프라인: 조인트 생성→신호추출→결합이 되는지."""
+    import pipeline_gilt
+    frames, mgmt = pipeline_gilt.generate_joint(n_gilts=40, frames=8)
+    signals = pipeline_gilt.build_cctv_signals(frames)
+    merged = mgmt.merge(signals, on="individual_id", how="inner")
+    assert len(merged) == len(mgmt)
+    assert "activity_mean" in merged.columns and "feed_adequacy" in merged.columns
+
+
 def main() -> int:
     tests = [test_dependencies_import, test_aihub_client_no_key,
-             test_pipeline_runs, test_aihub_parsers]
+             test_pipeline_runs, test_aihub_parsers,
+             test_pipeline_gilt_integration]
     failed = 0
     for t in tests:
         try:
