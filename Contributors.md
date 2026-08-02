@@ -9,6 +9,7 @@
 - [Yashraj Pal](https://github.com/yashraj013)
 - [Kundan Dhage](https://github.com/KundanDhage)
 - [Praveen Bishnoi](https://github.com/parveen0029)
+- [AleH14](https://github.com/AleH14)
 - [jiangbei0921](https://github.com/jiangbei0921)
 - [TheRodzz](https://github.com/TheRodzz)
 - [safae](https://github.com/kaiha1)
