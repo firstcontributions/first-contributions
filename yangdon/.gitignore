@@ -2,3 +2,11 @@
 # (실제 공모전 데이터가 들어오면 아래 예외 규칙을 조정할 것)
 __pycache__/
 *.pyc
+
+# API 키 등 비밀값 — 절대 커밋 금지
+.aihub_key
+.env
+*.key
+
+# 다운로드한 대용량 AI Hub 데이터
+data/aihub/
