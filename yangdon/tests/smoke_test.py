@@ -48,8 +48,20 @@ def test_pipeline_runs() -> None:
     assert np.isfinite(pred).all()
 
 
+def test_aihub_parsers() -> None:
+    """세 데이터셋 파서가 스키마 합성 데이터를 정상 파싱하는지."""
+    import tempfile
+    import parse_aihub
+    for key in ("71763", "71471", "622"):
+        with tempfile.TemporaryDirectory() as d:
+            parse_aihub.GENERATORS[key](d)
+            df = parse_aihub.PARSERS[key](d)
+            assert len(df) > 0, f"{key} 파싱 결과가 빔"
+
+
 def main() -> int:
-    tests = [test_dependencies_import, test_aihub_client_no_key, test_pipeline_runs]
+    tests = [test_dependencies_import, test_aihub_client_no_key,
+             test_pipeline_runs, test_aihub_parsers]
     failed = 0
     for t in tests:
         try:

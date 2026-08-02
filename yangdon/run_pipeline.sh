@@ -31,28 +31,38 @@ for key in 71763 622 71471; do
   echo "=========================================="
   echo "다운로드: datasetkey=$key filekey=${LABELS[$key]}"
   echo "=========================================="
-  ( cd "$DL_DIR" && python3 "$ROOT/yangdon/src/aihub.py" download "$key" "${LABELS[$key]}" ) \
+  mkdir -p "$DL_DIR/$key"
+  ( cd "$DL_DIR/$key" && python3 "$ROOT/yangdon/src/aihub.py" download "$key" "${LABELS[$key]}" ) \
     || { echo "[$key] 다운로드 실패 — 활용신청 승인 여부를 확인하세요." >&2; continue; }
 done
 
 echo
 echo "=========================================="
-echo "라벨 구조 점검"
+echo "압축 해제"
 echo "=========================================="
 find "$DL_DIR" -name '*.zip' -print 2>/dev/null | while read -r z; do
-  echo "압축 해제: $z"
+  echo "해제: $z"
   unzip -o -q "$z" -d "${z%.zip}" || echo "  (unzip 실패: $z)"
 done
 
-echo "--- JSON 파일 개수 ---"
-json_count=$(find "$DL_DIR" -name '*.json' | wc -l)
-echo "$json_count 개"
-if [ "$json_count" -gt 0 ]; then
-  sample=$(find "$DL_DIR" -name '*.json' | head -1)
-  echo "--- 샘플 JSON ($sample) 앞부분 ---"
-  head -c 1200 "$sample"; echo
+echo
+echo "=========================================="
+echo "파싱: 라벨 → CSV (스키마 기반)"
+echo "=========================================="
+for key in 71763 622 71471; do
+  [ -d "$DL_DIR/$key" ] || continue
+  python3 "$ROOT/yangdon/src/parse_aihub.py" "$key" "$DL_DIR/$key" \
+    "yangdon/data/${key}_parsed.csv" || echo "  [$key] 파싱 건너뜀"
+done
+
+echo
+echo "=========================================="
+echo "모델링: 71763 생체에너지 회귀"
+echo "=========================================="
+if [ -d "$DL_DIR/71763" ]; then
+  python3 "$ROOT/yangdon/src/model_71763.py" "$DL_DIR/71763" || true
 fi
 
 echo
-echo "다음 단계: 위 JSON 스키마에 맞춰 파서를 작성해 data/train.csv 생성 후"
-echo "  python yangdon/src/eda.py && python yangdon/src/train.py"
+echo "완료. 결과: yangdon/data/*_parsed.csv, yangdon/outputs/importance_*.csv"
+echo "622(XML)·71471(발정) 모델링은 스키마 확인 후 model 스크립트 확장 예정."

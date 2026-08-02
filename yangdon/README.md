@@ -29,8 +29,11 @@ yangdon/
   run_pipeline.sh    # 원커맨드: AI Hub 라벨 다운로드→추출→구조점검
   docs/
     AIHUB.md           # AI Hub 데이터 API 연동 가이드
+    SCHEMA.md          # 3종 라벨 스키마 & 파서 설명
   src/
     aihub.py           # AI Hub 데이터 API 클라이언트(검색/트리/다운로드)
+    parse_aihub.py     # 라벨(JSON/XML) → 정형 CSV 파서 + 스키마 합성/자체검증
+    model_71763.py     # 71763 생체에너지 파싱→회귀(GroupKFold) 데모/실행
     generate_data.py   # 합성 양돈 스마트팜 데이터 생성
     eda.py             # 기초통계·상관·시각화
     train.py           # 베이스라인 모델링(회귀+분류) + 교차검증 + 특성중요도
@@ -83,6 +86,22 @@ python yangdon/src/aihub.py download 71763 528771,528774   # 라벨링데이터�
 
 > 원천데이터(영상)는 수 TB이므로 정형 분석/모델링에는 **라벨링데이터(주석 JSON)만**
 > 받는다. 자세한 filekey·용량 주의사항은 `docs/AIHUB.md`.
+
+### 라벨 스키마 & 파서 (데이터 도착 전 선작성 완료)
+
+3종 라벨 구조를 AI Hub 문서에서 조사해 파서를 미리 작성해 두었다
+([`docs/SCHEMA.md`](docs/SCHEMA.md)). 실데이터가 오면 파서만 통과시키면
+바로 모델링에 들어간다.
+
+```bash
+python yangdon/src/parse_aihub.py --selftest   # 스키마 합성 데이터로 파서 검증
+python yangdon/src/model_71763.py              # (합성) 파싱→생체에너지 회귀 데모
+```
+
+- **71763**: 환경센서·개체온도·체중·사양관리 → 호흡수/현열량/잠열량 회귀
+  (같은 개체 누수 방지 GroupKFold). 필드 확정 → 데모 R²≈0.9(합성).
+- **71471**: 발정 탐지(이진)·행동 분류(다중), keypoint 자세 피처.
+- **622**: CVAT XML 파싱, 개체 탐지·월령/상태 분류.
 
 ## 실행 방법
 
