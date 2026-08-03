@@ -67,6 +67,7 @@
 - [Daniel Shapiro](https://github.com/DanielS-CodeDev)
 - [Amar Kumar Thakur](https://github.com/supercell02)
 - [donneko](https://github.com/donneko)
+- [Krish Wanchoo] (https://github.com/Dx-Alz-xD)
 - [Fahad Shaikh](https://github.com/FahadS5534)
 - [Wesley Walker](https://github.com/wwalker2)
 - [Chuck G](https://github.com/SJFrontinus)
