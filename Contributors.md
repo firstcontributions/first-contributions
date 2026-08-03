@@ -3621,7 +3621,7 @@
 - [Dhanashankar](https://github.com/dhanashankar1020)
 - [Om More](https://github.com/omkailasmore)
 - [tedhwang700](https://github.com/tedhwang700)
-- [lowie] (https://github.com/lowie03)
+- [Lowie] (https://github.com/lowie03)
 - [Yagmur Sultan](https://github.com/yagmursultanekin)
 - [Pranav Patnaik](https://github.com/pranavpatnaik1)
 - [PiePzhanH](https://github.com/PiePzhanH)
