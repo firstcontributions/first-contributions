@@ -1,17 +1,24 @@
 # Contributors
+- [aroojresearch](https://github.com/aroojresearch)
+- [JanLancelot] (https://github.com/JanLancelot)
+- [lukedryan] (https://github.com/lukedryan)
 - [saiyarram]
+- [dousha189](https://github.com/dousha189)
 - [ODbeke](https://github.com/ODbeke)
 - [Abhinav Gupta](https://github.com/Abhinav201310)
 - [Abhinav Bhatpude](https://github.com/abhinav05-bhatpude)
 - [Rishabh Jaiswal] (https://github.com/rishabhjaiswal)
 - [Saurabh Chaudhary](https://github.com/saurabhcr007)
 - [Bas]
+- [taehunkang36](https://github.com/taehunkang36)
+- [Evan Williams] (https://github.com/EvanInTech)
 - [Muhammad Zeeshan](https://github.com/zeeshanxbuilds)
 - [pritam jadhav] (https://github.com/priiiiitam)
 - [Revathy M R](https://github.com/ReVuZ)
 - [muaz aman] (https://github.com/Muaxacker)
 - [xiaoguoba](https://github.com/xilele777)
 - [Paul]
+- [Anchal Kashyap](https://github.com/anchal284)
 - [Syeda Sumayya](https://github.com/syedasumayya)
 - [Yutubdua7](https://github.com/yutubdua7-sys)
 - [Yashraj Pal](https://github.com/yashraj013)
@@ -75,6 +82,7 @@
 - [Chuck G](https://github.com/SJFrontinus)
 - [Suchay Joshi] (https://github.com/sucxay)
 -[Deepthi sree Chekuri]
+-[ABHAY PINGLE](https://github.com/abhaypingle)
 - [AMM] (https://github.com/AunggMyatt)
 - [hosseinghorbani](https://github.com/hosseinghorbani0) 
 nathan practice here
@@ -204,6 +212,7 @@ nathan practice here
 - [Atul Agrawal](https://github.com/atul913)
 - [Erick Chagas](https://github.com/ericktechx)
 - [D VISHNU VASHISTA](https://github.com/vishnuvasista99-droid)
+- [Santhosh Kalpagur](https://github.com/Santhoshkalpagur)
 - [Siddharth](https://github.com/Siddharthx21s)
 -[Colin](https://github.com/colinbern8)
 -[Wendy](https://github.com/zhaozixuan613)
@@ -298,6 +307,7 @@ nathan practice here
 - [Satya](https://github.com/satyaxo)
 - [OfficialSpaceship](https://github.com/OfficialSpaceship)
 - [Aditya](https://github.com/aditya02x)
+- [Saksham Agrahari](https://github.com/saksham2882)
 - [Olga](https://github.com/olga232323)
 - [Dikshant Rawat](https://github.com/Dikshant-Rawat?tab=repositories)
 - [Aastha Parab](https://github.com/aasthaparab73-max)
@@ -305,6 +315,7 @@ nathan practice here
 - [Ansh Singh](https://github.com/SinghAnsh07/)
 - [Ahmet Karapınar] (https://github.com/BullLazy/)
 - [Zhou Longjie](https://github.com/longjie2003/)
+- [Lohith Virothi](https://github.com/LohithVSV)
 - [Rida Khan](https://github.com/ridak5845)
 - [Willy Wonka] (https://github.com/wonka05)
 - Soham Sen(BloodRaven5551)
@@ -3751,6 +3762,7 @@ Harish K
 - [dipakshimpi-india](https://github.com/dipakshimpi)
 -[Shubhang-2111](https://github.com/Shubhang-2111)
 - [Shivam Parmar](https://github.com/shivamparmar-problemsolver)
+- [Supran Bajracharya](https://github.com/supran8657)
 - [Chris Boat](https://github.com/Chris-code-tech)
 - [Guillermo Barreto] (https://github.com/GuillermoBarreto)
 - [Claudio Ibe] (https://github.com/0xclaudi0)
@@ -3760,3 +3772,8 @@ Harish K
 - [Ankit Kumar]
 - [Thiago Costa](https://github.com/thicosta-dev)
 - [Edwin](https://github.com/edwinemps98-hue)
+- [Reoixero]
+- [Harinishri](https://github.com/harinishri2204-cpu)
+- [HemapojavalliV](https://github.com/HemapojavalliV)
+- [Santhru](https://github.com/santhru135)
+- [Luiz Henrique](https://github.com/luizhenriqueengcon-hash)
