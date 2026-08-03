@@ -1,17 +1,20 @@
 # Contributors
 - [lukedryan] (https://github.com/lukedryan)
 - [saiyarram]
+- [dousha189](https://github.com/dousha189)
 - [ODbeke](https://github.com/ODbeke)
 - [Abhinav Gupta](https://github.com/Abhinav201310)
 - [Abhinav Bhatpude](https://github.com/abhinav05-bhatpude)
 - [Rishabh Jaiswal] (https://github.com/rishabhjaiswal)
 - [Saurabh Chaudhary](https://github.com/saurabhcr007)
 - [Bas]
+- [Evan Williams] (https://github.com/EvanInTech)
 - [Muhammad Zeeshan](https://github.com/zeeshanxbuilds)
 - [pritam jadhav] (https://github.com/priiiiitam)
 - [Revathy M R](https://github.com/ReVuZ)
 - [muaz aman] (https://github.com/Muaxacker)
 - [xiaoguoba](https://github.com/xilele777)
+- [Anchal Kashyap](https://github.com/anchal284)
 - [Syeda Sumayya](https://github.com/syedasumayya)
 - [Yutubdua7](https://github.com/yutubdua7-sys)
 - [Yashraj Pal](https://github.com/yashraj013)
@@ -75,6 +78,7 @@
 - [Chuck G](https://github.com/SJFrontinus)
 - [Suchay Joshi] (https://github.com/sucxay)
 -[Deepthi sree Chekuri]
+-[ABHAY PINGLE](https://github.com/abhaypingle)
 - [AMM] (https://github.com/AunggMyatt)
 - [hosseinghorbani](https://github.com/hosseinghorbani0) 
 nathan practice here
@@ -3762,3 +3766,5 @@ Harish K
 - [Thiago Costa](https://github.com/thicosta-dev)
 - [Edwin](https://github.com/edwinemps98-hue)
 - [Reoixero]
+- [Harinishri](https://github.com/harinishri2204-cpu)
+- [HemapojavalliV](https://github.com/HemapojavalliV)
