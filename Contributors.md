@@ -296,6 +296,7 @@ nathan practice here
 - [Ansh Singh](https://github.com/SinghAnsh07/)
 - [Ahmet Karapınar] (https://github.com/BullLazy/)
 - [Zhou Longjie](https://github.com/longjie2003/)
+- [Lohith Virothi](https://github.com/LohithVSV)
 - [Rida Khan](https://github.com/ridak5845)
 - [Willy Wonka] (https://github.com/wonka05)
 - Soham Sen(BloodRaven5551)
