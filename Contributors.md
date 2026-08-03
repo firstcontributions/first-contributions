@@ -2,6 +2,7 @@
 - [Yash Badhe]
 - [aroojresearch](https://github.com/aroojresearch)
 - [JanLancelot] (https://github.com/JanLancelot)
+- [Kamyar Azizi](https://github.com/KamyarAzz)
 - [lukedryan] (https://github.com/lukedryan)
 - [saiyarram]
 - [dousha189](https://github.com/dousha189)
