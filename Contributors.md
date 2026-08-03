@@ -81,6 +81,7 @@
 - [Krish Wanchoo] (https://github.com/Dx-Alz-xD)
 - [Fahad Shaikh](https://github.com/FahadS5534)
 - [Wesley Walker](https://github.com/wwalker2)
+- [Felipe Trajano](https://github.com/ftrajano)
 - [Chuck G](https://github.com/SJFrontinus)
 - [Suchay Joshi] (https://github.com/sucxay)
 -[Deepthi sree Chekuri]
