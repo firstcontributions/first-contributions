@@ -3754,3 +3754,4 @@ Harish K
 - [Jocky-Jazz](https://github.com/Jocky-Jazz)
 - [Alok Jadhao](https://github.com/Alok-Jadhao)
 - [Ankit Kumar]
+- [Thiago Costa](https://github.com/thicosta-dev)
