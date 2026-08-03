@@ -28,6 +28,7 @@
 - [AleH14](https://github.com/AleH14)
 - [jiangbei0921](https://github.com/jiangbei0921)
 - [TheRodzz](https://github.com/TheRodzz)
+- [Ömer Çolak](https://github.com/omerrco)
 - [safae](https://github.com/kaiha1)
 - [Tanvika Ojha](https://github.com/TanvikaOjha)
 - [Amy Ann Jims](https://github.com/Amy-code658)
