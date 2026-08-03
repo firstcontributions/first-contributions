@@ -2250,6 +2250,7 @@ Amna Naeem
 - [Sean Yu](https://github.com/takagibit18)
 - [Seanachan Pai](https://github.com/Seanachan)
 - [Sebastian Delgado](https://github.com/sdelgado08)
+- [cliang100](https://github.com/cliang100)
 - [Sejal Mukane](https://github.com/SejalMukane)
 - [Sejin Oh](https://github.com/userofthefreedom)
 - [SeojeongHong](https://github.com/SeojeongHong)
