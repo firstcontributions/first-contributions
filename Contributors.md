@@ -612,6 +612,7 @@ niceshowmini
 - [Lavkesh Sharma]
 - Hrugveda Mane
 - [TionEleven](https://github.com/shen825)
+- [Vadoslar] (https://github.com/Vadoslar)
 - [VorajeeM](https://github.com/vorajeem)
 - [Abhijeet Raj](https://github.com/Abhijeet-99-dev)
 - [Shivendra Bhardwaj](https://github.com/ZenzoSH)
