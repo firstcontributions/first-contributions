@@ -1,5 +1,6 @@
 # Contributors
 - [aroojresearch](https://github.com/aroojresearch)
+- [JanLancelot] (https://github.com/JanLancelot)
 - [lukedryan] (https://github.com/lukedryan)
 - [saiyarram]
 - [dousha189](https://github.com/dousha189)
