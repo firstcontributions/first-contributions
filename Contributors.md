@@ -3787,6 +3787,7 @@ Harish K
 - [Edwin](https://github.com/edwinemps98-hue)
 - [Reoixero]
 - [Harinishri](https://github.com/harinishri2204-cpu)
+- [Motolani](https://github.com/motolaniob)
 - [HemapojavalliV](https://github.com/HemapojavalliV)
 - [Santhru](https://github.com/santhru135)
 - [Luiz Henrique](https://github.com/luizhenriqueengcon-hash)
