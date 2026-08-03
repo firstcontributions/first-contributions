@@ -1,4 +1,5 @@
 # Contributors
+- [Yash Badhe]
 - [aroojresearch](https://github.com/aroojresearch)
 - [JanLancelot] (https://github.com/JanLancelot)
 - [lukedryan] (https://github.com/lukedryan)
