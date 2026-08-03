@@ -1,4 +1,5 @@
 # Contributors
+- [aroojresearch](https://github.com/aroojresearch)
 - [lukedryan] (https://github.com/lukedryan)
 - [saiyarram]
 - [dousha189](https://github.com/dousha189)
