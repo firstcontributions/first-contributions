@@ -793,6 +793,7 @@ niceshowmini
 - [Arturo Avalos] (https://github.com/aavalose)
 -[vishnu](https://github.com/vishnu-R2005)
 - [PG](https://github.com/philipgadsden3)
+- [Tejas Ghoti](https://github.com/tejasghoti)
 - [Anish] (https://github.com/anishbasnetAB)
 - [Yhb1213](https://github.com/Yhb1213)\
 - [Samvedha Basireddy] (https://github.com/samvedhaB25)
