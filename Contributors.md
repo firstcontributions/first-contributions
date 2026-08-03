@@ -454,6 +454,7 @@ Aalli
 - [Aliendated Forstbyte](https://github.com/alienated-forstbyte)
 - [Oussama Sarboute](https://github.com/Oussama763)
 - [IRJ Prime](https://github.com/IRJ-Prime)
+-[Karthik](https://github.com/karthikroyal01)
 -[Srishti K R](https://github.com/srishti-m-cmd)
 --[Anurag Pal](https://github.com/Anuxragg)
 - [Legus](https://github.com/Legus-Yeung)
