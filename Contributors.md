@@ -2736,6 +2736,7 @@ Amna Naeem
 - [SurajKumar] (https://github.com/Suraj0x7)
 - Trương Lê Đình Bảo
 - [Aditya Sharma](https://github.com/aditya-dev500)
+- [redish]
 - [Aniket Kumar Singh] (https://github.com/ANIKET640-a11y)
 - [Ramya Reddy]
 - WindowsEmbedded
