@@ -5,6 +5,7 @@
 - [Rishabh Jaiswal] (https://github.com/rishabhjaiswal)
 - [Saurabh Chaudhary](https://github.com/saurabhcr007)
 - [Bas]
+- [Muhammad Zeeshan](https://github.com/zeeshanxbuilds)
 - [pritam jadhav] (https://github.com/priiiiitam)
 - [Revathy M R](https://github.com/ReVuZ)
 - [muaz aman] (https://github.com/Muaxacker)
@@ -38,9 +39,11 @@
 - [Arvind Verma](https://github.com/varvindea) 
 - [JC Abucay](https://github.com/abukix) 
 - [Mahi](https://github.com/mahi-prakash)
+- [Isha](https://github.com/ishacm)
 - [Ryan Williams](https://github.com/ryanwilliamske)
 -[Saikrishna Penta](https://github.com/Sai13122005)
 - [Binay Dalai](https://github.com/bkd-dotcom)
+- [Aradhana Behera](https://github.com/Aradhana1225)
 - [Paras Agarwal](https://github.com/ParasxAgarwal)
 - [Vinay Shakelli](https://github.com/VinayShakelli)
 - [miguelessecond](https://github.com/miguelessecond)
@@ -576,6 +579,7 @@ niceshowmini
 - [Laszlo Sutus] (https://github.com/sutusxxx)
 - hak
 - [Timothy Smith](https://github.com/timothysmithdev)
+- [HP729]
 - Sindy
 - [Ritvik Vudatha] (https://github.com/g1tvik)
 - [Tanvi Dominic] (https://github.com/tanvidominic)
@@ -3749,4 +3753,5 @@ Harish K
 - [Dibyaranjan Sahoo](https://github.com/dibya024)
 - [Jocky-Jazz](https://github.com/Jocky-Jazz)
 - [Alok Jadhao](https://github.com/Alok-Jadhao)
+- [Ankit Kumar]
 - [Thiago Costa](https://github.com/thicosta-dev)
