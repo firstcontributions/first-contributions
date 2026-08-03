@@ -301,6 +301,7 @@ nathan practice here
 - [Priyadharshini D](https://github.com/Priyadharshinidhandapani)
 - [Spandan Jawkhedkar](https://github.com/Spandan77)
 - [Junior SEVERE](https://github.com/JuniorSEVERE-WEB)
+- [Anant Kumar](https://github.com/AnantKumarTyagi)
 - [Satyaprakash Paikaray](https://github.com/Satyaprakash1235)
 - [Omar Yousef](https://github.com/OmarYousef05)
 - [Rit Mangal](https://github.com/ritmangal)
