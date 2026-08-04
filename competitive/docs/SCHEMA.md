@@ -85,6 +85,20 @@ CCTV 키프레임(71471) → 개체 시계열 발정행동 신호(활동량·행
   → 두 소스가 상호보완. 위험 상위 개체에 개선요인을 자동 처방.
 - 실행: `python competitive/src/pipeline_gilt.py [cctv_dir] [mgmt.csv]`
 
+## 행동 → 발정 연계 (estrus_link.py)
+
+발정은 행동으로 나타난다(수의학 근거): 승가(mounting)·활동량↑·탐색/사회접촉↑·
+휴식(눕기·수면)↓. `estrus_link.py` 는 개체별 **행동 구성 + 활동량**에 도메인
+가중치를 적용해 **발정 의심 지수(0~1)** 를 산출한다.
+
+- 발정 정답이 없는 실데이터(Edinburgh) → 규칙기반 지수 + 유발 행동 표시
+- 발정 정답이 있는 데이터(71471 estrus) → 로지스틱 회귀로 지도 보정 + AUC 리포트
+  (행동으로 발정을 예측할 수 있는지 타당성 검증)
+
+Edinburgh 실데이터 적용: 활발·탐색 개체(walk/run/investigating) → 발정 의심 상위,
+휴식 개체(lying/sleep) → 하위. `build_edinburgh_dashboard.py` 대시보드에
+발정 의심 지수·유발 행동으로 통합.
+
 ## ③ 622 지능형 스마트축사(양돈) — XML (CVAT)
 
 라벨 형식이 **XML**(`annotations.xml`, CVAT 스타일). 공식 파이프라인도

@@ -67,7 +67,7 @@ tbody tr.sel{background:color-mix(in srgb, var(--activity) 14%, transparent);}
 <body>
 <div class="wrap">
   <h1>돼지 활동 모니터링 <span style="font-size:.8rem;color:var(--muted)">Edinburgh 실데이터</span></h1>
-  <div class="sub">돈방 CCTV 개체 시계열 → 활동량·행동 프로필. 발정 관찰 시스템의 '관찰 계층'(활동↑·정지↓ = 발정 의심)을 실데이터로 시연.</div>
+  <div class="sub">돈방 CCTV 개체 시계열 → 행동 인식 → <b>발정 의심 지수</b> 연계. 승가·활동↑·탐색↑·눕기↓ 행동을 발정 신호로 종합(수의학 근거, 규칙기반). 발정 정답(AI Hub 71471) 결합 시 지도 보정.</div>
 
   <div class="kpis" id="kpis"></div>
 
@@ -79,9 +79,9 @@ tbody tr.sel{background:color-mix(in srgb, var(--activity) 14%, transparent);}
   <div class="main">
     <div class="card">
       <h2>개체 목록 <span id="count" style="color:var(--muted);font-weight:400"></span>
-        <span style="font-weight:400;color:var(--muted);font-size:.76rem">· 활동성 순</span></h2>
+        <span style="font-weight:400;color:var(--muted);font-size:.76rem">· 발정 의심 순</span></h2>
       <div class="tablewrap">
-        <table><thead><tr><th>개체</th><th>활동성</th><th>평균활동</th><th>주행동</th></tr></thead>
+        <table><thead><tr><th>개체</th><th>발정지수</th><th>활동성</th><th>주행동</th></tr></thead>
         <tbody id="tbody"></tbody></table>
       </div>
     </div>
@@ -105,7 +105,8 @@ window.DATA = /*__DATA__*/null;
   const m=D.meta;
   document.getElementById("kpis").innerHTML=[
     ["개체(pig)",m.n_individuals],["녹화",m.n_recordings],
-    ["프레임",m.n_frames.toLocaleString()],["행동 종류",m.n_behaviors],
+    ["프레임",m.n_frames.toLocaleString()],
+    ["발정 의심(지수≥0.6)",(m.n_suspect!=null?m.n_suspect+"두":"-")],
     ["행동인식 정확도",m.accuracy.toFixed(3)],["Macro-F1",m.macro_f1.toFixed(3)],
   ].map(([l,v])=>`<div class="kpi"><div class="v">${v}</div><div class="l">${l}</div></div>`).join("");
 
@@ -128,8 +129,8 @@ window.DATA = /*__DATA__*/null;
     document.getElementById("tbody").innerHTML=D.individuals.map(g=>`
       <tr data-id="${g.id}" class="${g===selected?"sel":""}">
         <td>${g.id}</td>
-        <td><span class="actbadge" style="background:${actColor(g.active_frac)}">${pct(g.active_frac)}</span></td>
-        <td class="mono">${g.activity_mean}</td>
+        <td><span class="actbadge" style="background:${actColor(g.estrus_index!=null?g.estrus_index:0)}">${pct(g.estrus_index||0)}</span></td>
+        <td class="mono">${pct(g.active_frac)}</td>
         <td>${g.dominant}</td></tr>`).join("");
     document.querySelectorAll("#tbody tr").forEach(tr=>tr.onclick=()=>{
       selected=D.individuals.find(g=>g.id===tr.dataset.id); renderTable(); renderDetail();});
@@ -175,9 +176,11 @@ window.DATA = /*__DATA__*/null;
     el.innerHTML=`
       <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-bottom:4px">
         <span style="font-size:1.1rem;font-weight:700">${g.id}</span>
-        <span class="pill" style="background:color-mix(in srgb,${actColor(g.active_frac)} 18%,transparent);color:${actColor(g.active_frac)}">활동성 ${pct(g.active_frac)}</span>
+        <span class="pill" style="background:color-mix(in srgb,${actColor(g.estrus_index||0)} 20%,transparent);color:${actColor(g.estrus_index||0)}">발정 의심 지수 ${pct(g.estrus_index||0)}</span>
+        <span class="pill" style="background:var(--surface2);color:var(--ink2)">활동성 ${pct(g.active_frac)}</span>
         <span style="font-size:.8rem;color:var(--ink2)">녹화 ${g.recording} · ${g.n_frames}프레임 · 주행동 <b>${g.dominant}</b></span>
       </div>
+      ${g.estrus_drivers&&g.estrus_drivers!=="-"?`<div style="font-size:.82rem;color:var(--serious);margin:2px 0 8px">발정 유발 행동: <b>${g.estrus_drivers}</b> (활동↑·탐색↑ = 발정 신호)</div>`:``}
       ${g.high_activity_frame!=null?`<div style="font-size:.82rem;color:var(--serious);font-weight:600;margin:4px 0 8px">▲ 고활동 구간 감지 — 프레임 F${g.high_activity_frame} (발정 의심 신호 후보)</div>`:`<div style="font-size:.82rem;color:var(--good);font-weight:600;margin:4px 0 8px">● 고활동 구간 없음 (정상 활동)</div>`}
       <div class="legend"><span><span class="dot" style="background:var(--score)"></span>활동 점수(0–1)</span><span><span class="dot" style="background:var(--activity)"></span>이동속도(px/frame)</span></div>
       <div class="chartbox" id="cScore"><div class="tip"></div></div>

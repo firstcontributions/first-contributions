@@ -134,12 +134,33 @@ def test_view_align_feats() -> None:
     assert b.shape == (4, 2) and v.shape == (4, 2)
 
 
+def test_estrus_link() -> None:
+    """행동→발정 연계: 활발 개체 > 휴식 개체 발정지수 확인."""
+    import pandas as pd
+    import estrus_link
+    rows = []
+    # 활발 개체 A(walk/run/investigating), 휴식 개체 B(lying/sleep)
+    for f in range(12):
+        rows.append({"individual_id": "A", "frame_idx": f,
+                     "behavior": ["walk", "run", "investigating"][f % 3],
+                     "centroid_x": f * 20.0, "centroid_y": f * 15.0,
+                     "aspect_ratio": 1.2, "bbox_w": 60, "bbox_h": 50,
+                     "kp_spread": 20.0, "species": "pig", "estrus": None})
+        rows.append({"individual_id": "B", "frame_idx": f,
+                     "behavior": ["lying", "sleep"][f % 2],
+                     "centroid_x": 100.0, "centroid_y": 100.0,
+                     "aspect_ratio": 1.3, "bbox_w": 60, "bbox_h": 50,
+                     "kp_spread": 20.0, "species": "pig", "estrus": None})
+    res = estrus_link.behavior_estrus_index(pd.DataFrame(rows)).set_index("individual_id")
+    assert res.loc["A", "estrus_index"] > res.loc["B", "estrus_index"]
+
+
 def main() -> int:
     tests = [test_dependencies_import, test_aihub_client_no_key,
              test_pipeline_runs, test_aihub_parsers,
              test_pipeline_gilt_integration, test_estrus_onset_and_dashboard,
              test_edinburgh_parser, test_posture_eval_mapping,
-             test_view_align_feats]
+             test_view_align_feats, test_estrus_link]
     failed = 0
     for t in tests:
         try:

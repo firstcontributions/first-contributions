@@ -19,6 +19,7 @@ from sklearn.model_selection import GroupKFold, cross_val_predict
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
+import estrus_link  # noqa: E402
 import model_edinburgh_behavior as beh_mod  # noqa: E402
 import parse_edinburgh  # noqa: E402
 
@@ -107,7 +108,14 @@ def build_data(df: pd.DataFrame) -> dict:
             "score": score,
             "high_activity_frame": hi,
         })
-    individuals.sort(key=lambda d: d["active_frac"], reverse=True)
+    # 행동 → 발정 연계: 개체별 발정 의심 지수 + 유발 행동
+    link = estrus_link.behavior_estrus_index(df).set_index("individual_id")
+    for g in individuals:
+        r = link.loc[g["id"]] if g["id"] in link.index else None
+        g["estrus_index"] = float(r["estrus_index"]) if r is not None else 0.0
+        g["estrus_drivers"] = (r["estrus_drivers"] if r is not None else "-")
+    individuals.sort(key=lambda d: d["estrus_index"], reverse=True)
+    n_suspect = int(sum(1 for g in individuals if g["estrus_index"] >= 0.6))
 
     return {
         "meta": {
@@ -116,7 +124,7 @@ def build_data(df: pd.DataFrame) -> dict:
             "n_frames": int(total),
             "n_behaviors": int(df["behavior"].nunique()),
             "accuracy": round(acc, 3), "macro_f1": round(macro, 3),
-            "act_ref": round(act_ref, 2),
+            "act_ref": round(act_ref, 2), "n_suspect": n_suspect,
         },
         "behavior_dist": behavior_dist,
         "perclass": perclass,
