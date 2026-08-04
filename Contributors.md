@@ -3824,6 +3824,6 @@ Harish K
 - [Shravya Hegade](https://github.com/ShravyaHegade)
 - [0xJieREN](https://github.com/0xJieREN)
 - [Vaibhav Chavanpatil](https://github.com/VAIBHAV7848)
-
+- [Vidhya K H](https://github.com/vidhya-kh)
 
 - [Eduardo Castelli](https://github.com/eduavamooo)
