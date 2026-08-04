@@ -16,6 +16,7 @@
 - [Evan Williams] (https://github.com/EvanInTech)
 - [Muhammad Zeeshan](https://github.com/zeeshanxbuilds)
 - [pritam jadhav] (https://github.com/priiiiitam)
+- [dioppylsci] (https://github.com/Scorpion160)
 - [Revathy M R](https://github.com/ReVuZ)
 - [muaz aman] (https://github.com/Muaxacker)
 - [xiaoguoba](https://github.com/xilele777)
