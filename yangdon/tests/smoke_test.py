@@ -84,10 +84,32 @@ def test_estrus_onset_and_dashboard() -> None:
     assert len(data["gilts"]) == 40 and data["importance"]
 
 
+def test_edinburgh_parser() -> None:
+    """Edinburgh output.json 파서(작은 합성 샘플로 검증, 다운로드 불필요)."""
+    import json
+    import tempfile
+    import parse_edinburgh
+    sample = {"videoFileName": "color.mp4", "stepSize": 0.1, "config": {},
+              "objects": [{"id": "0", "frames": [
+                  {"frameNumber": 0, "bbox": {"x": 10, "y": 20, "width": 30,
+                   "height": 15}, "visible": True, "behaviour": "walk"},
+                  {"frameNumber": 1, "bbox": {"x": 12, "y": 22, "width": 30,
+                   "height": 15}, "visible": True, "behaviour": "standing"}]}]}
+    with tempfile.TemporaryDirectory() as d:
+        import os as _os
+        rec = _os.path.join(d, "2019_11_05", "000001")
+        _os.makedirs(rec)
+        json.dump(sample, open(_os.path.join(rec, "output.json"), "w"))
+        df = parse_edinburgh.parse_edinburgh(d)
+        assert len(df) == 2
+        assert {"individual_id", "frame_idx", "behavior", "centroid_x"} <= set(df.columns)
+
+
 def main() -> int:
     tests = [test_dependencies_import, test_aihub_client_no_key,
              test_pipeline_runs, test_aihub_parsers,
-             test_pipeline_gilt_integration, test_estrus_onset_and_dashboard]
+             test_pipeline_gilt_integration, test_estrus_onset_and_dashboard,
+             test_edinburgh_parser]
     failed = 0
     for t in tests:
         try:

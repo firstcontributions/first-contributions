@@ -10,3 +10,8 @@ __pycache__/
 
 # 다운로드한 대용량 AI Hub 데이터
 data/aihub/
+
+# Kaggle 다운로드 데이터(라이선스: 재배포 대신 다운로드 스크립트로)
+data/edinburgh/
+edinburgh_frames.csv
+data/*_parsed.csv

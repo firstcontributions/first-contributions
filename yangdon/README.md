@@ -46,6 +46,25 @@ yangdon/
   outputs/             # (생성물) EDA 표·그림, 모델 성능·특성중요도
 ```
 
+## 실데이터 트랙 — Edinburgh Pig Behaviour (Kaggle)
+
+AI Hub 71471은 국내 IP에서만 다운로드 가능(해외 클라우드 차단)이라, 원격에서
+바로 실험 가능한 공개 데이터로 검증 트랙을 만들었다
+([`docs/EDINBURGH.md`](docs/EDINBURGH.md)).
+
+- Kaggle `jackbyte/edinburgh-pig-behaviour-annotated` — 개체·프레임별 bbox +
+  행동 라벨 시계열 (영상 제외, output.json만 사용)
+- `parse_edinburgh.py`(→71471 호환 프레임 스키마) + `model_edinburgh_behavior.py`
+  (모션 피처 + 개체 분리 GroupKFold 행동 분류)
+- **실데이터 베이스라인**: 12녹화·96개체·12,646프레임 → 정확도 0.43 /
+  Macro-F1 0.33, 활동량(속도)이 핵심 피처 = 발정 관찰의 기반
+
+```bash
+pip install kaggle    # ~/.kaggle/kaggle.json 필요
+python yangdon/src/parse_edinburgh.py
+python yangdon/src/model_edinburgh_behavior.py yangdon/data/edinburgh_frames.csv
+```
+
 ## 웹 대시보드
 
 `dashboard/index.html` — 단일 HTML(외부 라이브러리 없음, SVG 차트). 브라우저로 열면 끝.
