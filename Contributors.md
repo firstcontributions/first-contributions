@@ -3815,3 +3815,5 @@ Harish K
 - [Anubhav Agrawal](https://github.com/anubhav2921)
 - [Shravya Hegade](https://github.com/ShravyaHegade)
 - [0xJieREN](https://github.com/0xJieREN)
+- [Vaibhav Chavanpatil](https://github.com/VAIBHAV7848)
+
