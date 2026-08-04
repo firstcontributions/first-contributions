@@ -1,6 +1,7 @@
 <img width="1916" height="848" alt="image" src="https://github.com/user-attachments/assets/38414d5e-882b-4caf-9ca9-d637aa40b04c" /># Contributors
 - [Rakshita Bangera](https://github.com/RakshitaBangera)
 - [Yash Badhe]
+- [Jay Adesara](https://github.com/JayAdesara-07)
 - [Lucas Cabral](https://github.com/aquelemago)
 - [aroojresearch](https://github.com/aroojresearch)
 - [Sakshi Sinha](https://github.com/sakshi9703)
