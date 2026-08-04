@@ -370,6 +370,7 @@ Syed Omer
 - [bellito] (https://github.com/bellito-on-git)
 - [Oscar Francisco] (https://github.com/OFranciscoDev)
 - [Pratham Rathore](https://github.com/Pratham3017D)
+- [Salieri](https://github.com/Salieri-hub)
 - [Hammad Afzal](https://github.com/Hammadafzal55)
 - [Aayush](https://github.com/aayushcc)
 - [Muhira Mohammed](https://github.com/Muhira557)
