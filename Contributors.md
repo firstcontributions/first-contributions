@@ -13,6 +13,7 @@
 - [Abhinav Bhatpude](https://github.com/abhinav05-bhatpude)
 - [Rishabh Jaiswal] (https://github.com/rishabhjaiswal)
 - [Saurabh Chaudhary](https://github.com/saurabhcr007)
+- [Jaya Nallapati] (https://github.com/jaya103)
 - [Bas]
 - [taehunkang36](https://github.com/taehunkang36)
 - [Evan Williams] (https://github.com/EvanInTech)
