@@ -3842,7 +3842,7 @@ Harish K
 - [0xJieREN](https://github.com/0xJieREN)
 - [Vaibhav Chavanpatil](https://github.com/VAIBHAV7848)
 - [Deepika Shree](https://github.com/Deepika-shree)
-
+- [Het_Prajapati](https://github.com/DeadJoker24)
 
 - [Eduardo Castelli](https://github.com/eduavamooo)
 - [Dey AI Labs](https://github.com/deyailabs)
