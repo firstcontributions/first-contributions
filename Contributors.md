@@ -1,5 +1,6 @@
 # Contributors
 - [Yash Badhe]
+- [Lucas Cabral](https://github.com/aquelemago)
 - [aroojresearch](https://github.com/aroojresearch)
 - [Sakshi Sinha](https://github.com/sakshi9703)
 - [JanLancelot] (https://github.com/JanLancelot)
@@ -253,6 +254,7 @@ nathan practice here
 - [Yoh Brain](https://github.com/Yoh-Brain)
 //Mohamed//
 - [Deepak J Mathew](https://github.com/DeepakJ-777)
+[Alonzo Church](https://github.com/AlonzoChurch)
 - [Shringar Sharan](https://github.com/shringarsharan)
 - [Mohamed Ahmed Abdelrazik](https://github.com/mohamed5446)
 - [Ahmed Awad](https://github.com/ahmedawad72)
@@ -350,6 +352,7 @@ nathan practice here
 Syed Omer
 - [Sounak Sarkar](https://github.com/NetRunnerXD)
 - [Gurulingappa] (https://github.com/GuruB-Codes)
+- [BIMBA K](https://github.com/BIMBA-K)
 - [Willian Mainardi Fardin] (https://github.com/will-dlm)
 - [Atharv Palekar] (https://github.com/Atharv3105)
 - [Julia Rodriguez] (https://github.com/juliaRoSo)
@@ -3822,3 +3825,4 @@ Harish K
 - [Vaibhav Chavanpatil](https://github.com/VAIBHAV7848)
 
 
+- [Eduardo Castelli](https://github.com/eduavamooo)
