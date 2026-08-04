@@ -92,6 +92,7 @@
 - [Sitesh Gupta](https://github.com/Siteshcodes)
 - [Daniel Shapiro](https://github.com/DanielS-CodeDev)
 - [Amar Kumar Thakur](https://github.com/supercell02)
+- [Riya J](https://github.com/Riyaj-ops)
 - [donneko](https://github.com/donneko)
 - [Krish Wanchoo] (https://github.com/Dx-Alz-xD)
 - [Fahad Shaikh](https://github.com/FahadS5534)
