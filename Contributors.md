@@ -1237,6 +1237,7 @@ Amna Naeem
 - [Dani Noble] (https://github.com/dnvdevx)
 - [Edward](https://github.com/Ed3110)
 - [JulianGStudium](https://github.com/JulianGStudium)
+- [99bizzness](https://github.com/99bizzness)
 - [Ethan Boya](https://github.com/ethanboya)
 - [AmberStars](https://github.com/AmberStars)
 - [Anirudh Sharma](https://github.com/creativeknightl0)
