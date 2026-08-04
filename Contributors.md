@@ -400,6 +400,7 @@ Syed Omer
 - [ezyhe0n](https://github.com/ezhye0n)
 - [Ronit] (https://github.com/Shah-Ronit)
 - [malem777](https://github.com/malem777)
+- [royya6](https://github.com/royya6)
 - [Surya](https://github.com/SuryaElango-1208)
 - [onizukaTP] (https://github.com/onizukaTP)
 - [Hemant Kumar](https://github.com/hemant2186)
