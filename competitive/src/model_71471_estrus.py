@@ -10,7 +10,7 @@
 개체당 1행 → StratifiedKFold 로 교차검증(AUC/F1/정밀도/재현율).
 
 실데이터:
-    python yangdon/src/model_71471_estrus.py yangdon/data/aihub/71471
+    python competitive/src/model_71471_estrus.py competitive/data/aihub/71471
 없이 실행하면 문서 스키마대로 합성 라벨을 만들어 전체 흐름을 시연한다.
 """
 from __future__ import annotations
@@ -117,7 +117,7 @@ def run(frames: pd.DataFrame) -> None:
 
 def main() -> int:
     label_dir = sys.argv[1] if len(sys.argv) > 1 else None
-    os.makedirs("yangdon/outputs", exist_ok=True)
+    os.makedirs("competitive/outputs", exist_ok=True)
     run(load_frames(label_dir))
     return 0
 

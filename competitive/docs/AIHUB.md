@@ -38,21 +38,21 @@ export AIHUB_APIKEY="발급받은_키"
 
 ```bash
 # 데이터셋 검색 (키 불필요)
-python yangdon/src/aihub.py search 양돈
+python competitive/src/aihub.py search 양돈
 
 # 파일 트리 — 파일명 | 크기 | filekey 확인 (키 불필요)
-python yangdon/src/aihub.py tree 71408
+python competitive/src/aihub.py tree 71408
 
 # 다운로드 — filekey를 콤마로 지정 (AIHUB_APIKEY 필요)
-python yangdon/src/aihub.py download 71408 509489,509492
+python competitive/src/aihub.py download 71408 509489,509492
 ```
 
 공식 스크립트를 직접 써도 된다:
 
 ```bash
-bash yangdon/tools/aihubshell -mode l                     # 목록
-bash yangdon/tools/aihubshell -mode l 71408               # 파일 트리
-bash yangdon/tools/aihubshell -aihubapikey "$AIHUB_APIKEY" \
+bash competitive/tools/aihubshell -mode l                     # 목록
+bash competitive/tools/aihubshell -mode l 71408               # 파일 트리
+bash competitive/tools/aihubshell -aihubapikey "$AIHUB_APIKEY" \
      -mode d -datasetkey 71408 -filekey 509489,509492     # 다운로드
 ```
 
@@ -84,7 +84,7 @@ bash yangdon/tools/aihubshell -aihubapikey "$AIHUB_APIKEY" \
 | Validation 라벨링 `VL.zip` | 32 MB | 509492 |
 
 ```bash
-python yangdon/src/aihub.py download 71408 509489,509492
+python competitive/src/aihub.py download 71408 509489,509492
 ```
 
 압축 해제에는 데이터 크기의 2~3배 여유 공간이 필요하다.
@@ -103,7 +103,7 @@ python yangdon/src/aihub.py download 71408 509489,509492
 | Validation | VL.zip | 33 MB | 528774 |
 
 ```bash
-python yangdon/src/aihub.py download 71763 528771,528774
+python competitive/src/aihub.py download 71763 528771,528774
 ```
 
 #### ② 622 지능형 스마트축사 통합 데이터(양돈) — 라벨 총 ~267MB
@@ -119,9 +119,9 @@ python yangdon/src/aihub.py download 71763 528771,528774
 
 ```bash
 # 전체 라벨
-python yangdon/src/aihub.py download 622 533707,533708,533709,533717,533718,533719
+python competitive/src/aihub.py download 622 533707,533708,533709,533717,533718,533719
 # 바운딩박스만 (탐지/계수 과제)
-python yangdon/src/aihub.py download 622 533707,533717
+python competitive/src/aihub.py download 622 533707,533717
 ```
 
 #### ③ 71471 소·돼지 발정행동 데이터 — 양돈만(돼지+흑돼지) 선택 수신
@@ -151,15 +151,15 @@ python yangdon/src/aihub.py download 622 533707,533717
 
 ```bash
 # 돼지+흑돼지 핵심 라벨(bbox+keypoints+polygon)
-python yangdon/src/aihub.py download 71471 \
+python competitive/src/aihub.py download 71471 \
   511410,511411,511412,511416,511417,511418,\
 511458,511459,511460,511464,511465,511466
 # keypoints만 (자세/행동 분석)
-python yangdon/src/aihub.py download 71471 511411,511417,511459,511465
+python competitive/src/aihub.py download 71471 511411,511417,511459,511465
 ```
 
 > filekey는 데이터셋 갱신 시 바뀔 수 있으니, 받기 전에
-> `python yangdon/src/aihub.py tree <datasetkey>` 로 최신값을 확인할 것.
+> `python competitive/src/aihub.py tree <datasetkey>` 로 최신값을 확인할 것.
 > (참고: 71408 '양돈 생체 에너지 데이터'(2023 이전판) 라벨은 509489/509492)
 
 ## 6. 다운로드 후

@@ -1,7 +1,7 @@
 """파이프라인 스모크 테스트.
 
 의존성이 제대로 깔렸는지, 핵심 모듈이 import 되고 최소 파이프라인이 도는지
-빠르게 확인한다. 순수 파이썬으로 실행 가능하고(`python yangdon/tests/smoke_test.py`),
+빠르게 확인한다. 순수 파이썬으로 실행 가능하고(`python competitive/tests/smoke_test.py`),
 pytest 로도 수집된다(함수명이 test_* ).
 """
 from __future__ import annotations
@@ -10,7 +10,7 @@ import importlib
 import os
 import sys
 
-# yangdon/src 를 import 경로에 추가
+# competitive/src 를 import 경로에 추가
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(ROOT, "src"))
 

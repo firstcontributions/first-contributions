@@ -3,7 +3,7 @@
 돈방 CCTV 실데이터로 개체별 활동량·행동 프로필을 시각화한다. 이는 발정 관찰
 시스템의 '관찰 계층'(활동↑·정지↓ = 발정 의심)을 실데이터로 보여주는 화면이다.
 
-    python yangdon/src/build_edinburgh_dashboard.py [frames.csv|라벨디렉터리]
+    python competitive/src/build_edinburgh_dashboard.py [frames.csv|라벨디렉터리]
 """
 from __future__ import annotations
 
@@ -23,8 +23,8 @@ import model_edinburgh_behavior as beh_mod  # noqa: E402
 import parse_edinburgh  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(HERE))
-TEMPLATE = os.path.join(ROOT, "yangdon", "dashboard", "edinburgh_template.html")
-OUT_HTML = os.path.join(ROOT, "yangdon", "dashboard", "edinburgh.html")
+TEMPLATE = os.path.join(ROOT, "competitive", "dashboard", "edinburgh_template.html")
+OUT_HTML = os.path.join(ROOT, "competitive", "dashboard", "edinburgh.html")
 
 # 활동성 행동(발정 관찰 관점: 활동↑) vs 정지
 ACTIVE = {"walk", "run", "investigating", "fight", "playwithtoy",
@@ -34,7 +34,7 @@ ACTIVE = {"walk", "run", "investigating", "fight", "playwithtoy",
 def load(arg: str | None) -> pd.DataFrame:
     if arg and os.path.isfile(arg):
         return pd.read_csv(arg)
-    root = arg if (arg and os.path.isdir(arg)) else "yangdon/data/edinburgh"
+    root = arg if (arg and os.path.isdir(arg)) else "competitive/data/edinburgh"
     return parse_edinburgh.parse_edinburgh(root)
 
 

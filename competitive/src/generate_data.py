@@ -112,7 +112,7 @@ def generate(n: int = 4000) -> pd.DataFrame:
 
 def main() -> None:
     df = generate()
-    out = "yangdon/data/train.csv"
+    out = "competitive/data/train.csv"
     df.to_csv(out, index=False, encoding="utf-8-sig")
     print(f"생성 완료: {out}  (행 {len(df)}, 열 {df.shape[1]})")
     print(df.head())

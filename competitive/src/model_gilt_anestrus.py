@@ -163,7 +163,7 @@ def run(df: pd.DataFrame) -> None:
 
 def main() -> int:
     path = sys.argv[1] if len(sys.argv) > 1 else None
-    os.makedirs("yangdon/outputs", exist_ok=True)
+    os.makedirs("competitive/outputs", exist_ok=True)
     run(load(path))
     return 0
 

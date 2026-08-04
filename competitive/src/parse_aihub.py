@@ -425,7 +425,7 @@ def main(argv: list[str]) -> int:
         print(f"알 수 없는 데이터셋: {key}")
         return 1
     df = PARSERS[key](label_dir)
-    out = argv[2] if len(argv) >= 3 else f"yangdon/data/{key}_parsed.csv"
+    out = argv[2] if len(argv) >= 3 else f"competitive/data/{key}_parsed.csv"
     os.makedirs(os.path.dirname(out), exist_ok=True)
     df.to_csv(out, index=False, encoding="utf-8-sig")
     print(f"[{key}] 파싱 완료: {len(df)}행 → {out}")

@@ -9,7 +9,7 @@
   - area_pct_v: 뷰 내 면적 백분위
 (라벨을 쓰지 않는 무감독 정규화 — 누수 아님)
 
-    python yangdon/src/view_align.py [대회경로]
+    python competitive/src/view_align.py [대회경로]
 """
 from __future__ import annotations
 

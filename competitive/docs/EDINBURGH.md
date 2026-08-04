@@ -14,7 +14,7 @@ pip install kaggle          # + ~/.kaggle/kaggle.json (Kaggle API 토큰)
 # 각 녹화 폴더의 output.json 만 선택 다운로드
 kaggle datasets files jackbyte/edinburgh-pig-behaviour-annotated   # 경로 확인
 kaggle datasets download jackbyte/edinburgh-pig-behaviour-annotated \
-  -f <녹화>/output.json -p yangdon/data/edinburgh/<녹화>
+  -f <녹화>/output.json -p competitive/data/edinburgh/<녹화>
 ```
 (영상 color.mp4 는 녹화당 ~280MB로 크므로 받지 않는다. 행동 분석엔 output.json만 필요.)
 
@@ -33,8 +33,8 @@ nose-to-nose, drink, sitting, run, playwithtoy, nose-poke-elsewhere,
 ## 파이프라인
 
 ```bash
-python yangdon/src/parse_edinburgh.py                    # output.json → 프레임 CSV
-python yangdon/src/model_edinburgh_behavior.py yangdon/data/edinburgh_frames.csv
+python competitive/src/parse_edinburgh.py                    # output.json → 프레임 CSV
+python competitive/src/model_edinburgh_behavior.py competitive/data/edinburgh_frames.csv
 ```
 
 - `parse_edinburgh.py`: 프레임 단위 테이블(개체 시계열). 컬럼을 71471 파서와
@@ -65,8 +65,8 @@ bbox+모션만의 정직한 베이스라인. **활동량(속도)이 유효 신�
 - 스케일·해상도 불변 피처만 사용(aspect_ratio, area 백분위) → 데이터셋 간 비교 가능
 
 ```bash
-python yangdon/src/posture_eval.py                         # 소스=Edinburgh
-python yangdon/src/posture_eval.py <behavior_frames.csv>   # 소스=AI Hub 71471 등
+python competitive/src/posture_eval.py                         # 소스=Edinburgh
+python competitive/src/posture_eval.py <behavior_frames.csv>   # 소스=AI Hub 71471 등
 ```
 
 결과 예(소스=Edinburgh → 대회 평가):
@@ -100,8 +100,8 @@ python yangdon/src/posture_eval.py <behavior_frames.csv>   # 소스=AI Hub 71471
 - 자체완결 HTML(이미지/영상 data URI). 대회 데이터·생성 HTML은 커밋 제외.
 
 ```bash
-python yangdon/src/view_align.py            # 뷰 정합 전/후 정확도
-python yangdon/src/build_posture_gallery.py # 사진·영상 프론트 생성
+python competitive/src/view_align.py            # 뷰 정합 전/후 정확도
+python competitive/src/build_posture_gallery.py # 사진·영상 프론트 생성
 ```
 
 ## AI Hub 71471 로 옮길 때

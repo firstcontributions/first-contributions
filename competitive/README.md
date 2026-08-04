@@ -23,7 +23,7 @@
 .claude/
   hooks/session-start.sh  # 새 세션마다 의존성 설치·상태 점검(SessionStart 훅)
   settings.json           # 훅 등록
-yangdon/
+competitive/
   README.md
   requirements.txt
   run_pipeline.sh    # 원커맨드: AI Hub 라벨 다운로드→추출→구조점검
@@ -61,8 +61,8 @@ AI Hub 71471은 국내 IP에서만 다운로드 가능(해외 클라우드 차�
 
 ```bash
 pip install kaggle    # ~/.kaggle/kaggle.json 필요
-python yangdon/src/parse_edinburgh.py
-python yangdon/src/model_edinburgh_behavior.py yangdon/data/edinburgh_frames.csv
+python competitive/src/parse_edinburgh.py
+python competitive/src/model_edinburgh_behavior.py competitive/data/edinburgh_frames.csv
 ```
 
 ## 웹 대시보드
@@ -70,8 +70,8 @@ python yangdon/src/model_edinburgh_behavior.py yangdon/data/edinburgh_frames.csv
 `dashboard/index.html` — 단일 HTML(외부 라이브러리 없음, SVG 차트). 브라우저로 열면 끝.
 
 ```bash
-python yangdon/src/build_dashboard.py                       # 합성 시연 데이터로 생성
-python yangdon/src/build_dashboard.py <cctv_dir> <mgmt.csv> # 실데이터로 생성
+python competitive/src/build_dashboard.py                       # 합성 시연 데이터로 생성
+python competitive/src/build_dashboard.py <cctv_dir> <mgmt.csv> # 실데이터로 생성
 ```
 
 기능:
@@ -94,13 +94,13 @@ Claude Code on the web에서 **새 세션이 시작될 때 의존성을 자동 �
 1. AI Hub API 키 발급 + 데이터셋(71763·622·71471) 활용신청 승인
 2. 원격 환경 설정의 **환경 시크릿**에 `AIHUB_APIKEY` 등록
 3. **새 세션** 시작 → 훅이 자동으로 환경을 준비
-4. `bash yangdon/run_pipeline.sh` 로 라벨 다운로드→추출→구조점검
+4. `bash competitive/run_pipeline.sh` 로 라벨 다운로드→추출→구조점검
    (JSON 스키마 확인 후 파서로 `data/train.csv` 생성 → `eda.py`/`train.py`)
 
 > 환경 시크릿은 **세션 시작 시 주입**되므로, 등록 후에는 반드시 **새 세션**에서
 > 진행해야 키가 적용된다.
 
-스모크 테스트: `python yangdon/tests/smoke_test.py`
+스모크 테스트: `python competitive/tests/smoke_test.py`
 
 ## 실제 데이터: AI Hub 연동
 
@@ -116,11 +116,11 @@ API로 검색·다운로드하는 방법과 데이터셋별 라벨 filekey는
 [`docs/AIHUB.md`](docs/AIHUB.md) 참고.
 
 ```bash
-python yangdon/src/aihub.py search 양돈       # 데이터셋 검색 (API 키 불필요)
-python yangdon/src/aihub.py tree 71763        # 파일 트리·filekey 확인 (키 불필요)
+python competitive/src/aihub.py search 양돈       # 데이터셋 검색 (API 키 불필요)
+python competitive/src/aihub.py tree 71763        # 파일 트리·filekey 확인 (키 불필요)
 # 다운로드는 AIHUB_APIKEY 환경변수 + 데이터셋 활용신청 승인 필요
 export AIHUB_APIKEY="발급받은_키"
-python yangdon/src/aihub.py download 71763 528771,528774   # 라벨링데이터만
+python competitive/src/aihub.py download 71763 528771,528774   # 라벨링데이터만
 ```
 
 > 원천데이터(영상)는 수 TB이므로 정형 분석/모델링에는 **라벨링데이터(주석 JSON)만**
@@ -133,21 +133,21 @@ python yangdon/src/aihub.py download 71763 528771,528774   # 라벨링데이터�
 바로 모델링에 들어간다.
 
 ```bash
-python yangdon/src/parse_aihub.py --selftest   # 스키마 합성 데이터로 파서 검증
-python yangdon/src/model_71763.py              # (합성) 파싱→생체에너지 회귀 데모
+python competitive/src/parse_aihub.py --selftest   # 스키마 합성 데이터로 파서 검증
+python competitive/src/model_71763.py              # (합성) 파싱→생체에너지 회귀 데모
 ```
 
 - **71471 발정 탐지 ⭐(중점)**: 프레임을 개체 단위로 집계 → 행동비율 +
   활동량(중심 이동) + 자세 피처로 발정 이진 분류. 재현율 우선(임계값 하향).
-  데모 AUC≈0.72. `python yangdon/src/model_71471_estrus.py`
+  데모 AUC≈0.72. `python competitive/src/model_71471_estrus.py`
 - **후보돈 무발정·발정지연 위험 ⭐(예측+처방)**: 초교배 일령 경과 후보돈의
   무발정 위험을 사료·음수·시설·웅돈접촉·질병력·환경으로 예측하고, **개체별
   개선요인을 처방**. 데모 AUC≈0.66, 관리불량군 무발정률 43% vs 양호군 19%.
-  `python yangdon/src/model_gilt_anestrus.py`
+  `python competitive/src/model_gilt_anestrus.py`
 - **통합 파이프라인 ⭐⭐ (CCTV→무발정→처방)**: CCTV 발정관찰(개체 시계열
   활동·행동) + 관리요인을 **융합**해 무발정 위험 예측 + 처방. 데모에서
   융합 AUC 0.71 > CCTV만 0.70 · 관리만 0.69 (두 소스가 상호보완).
-  `python yangdon/src/pipeline_gilt.py`
+  `python competitive/src/pipeline_gilt.py`
 - **71763**: 환경센서·개체온도·체중·사양관리 → 호흡수/현열량/잠열량 회귀
   (같은 개체 누수 방지 GroupKFold). 데모 R²≈0.9(합성).
 - **622**: CVAT XML 파싱, 개체 탐지·월령/상태 분류.
@@ -158,11 +158,11 @@ python yangdon/src/model_71763.py              # (합성) 파싱→생체에너�
 ## 실행 방법
 
 ```bash
-pip install -r yangdon/requirements.txt
+pip install -r competitive/requirements.txt
 
-python yangdon/src/generate_data.py   # data/train.csv 생성
-python yangdon/src/eda.py             # outputs/ 에 EDA 결과
-python yangdon/src/train.py           # 회귀+분류 모두 (reg / clf 인자로 개별 실행)
+python competitive/src/generate_data.py   # data/train.csv 생성
+python competitive/src/eda.py             # outputs/ 에 EDA 결과
+python competitive/src/train.py           # 회귀+분류 모두 (reg / clf 인자로 개별 실행)
 ```
 
 ## 데이터 스키마 (돈군 = batch 단위 1행)
@@ -208,8 +208,8 @@ python yangdon/src/train.py           # 회귀+분류 모두 (reg / clf 인자�
 
 1. 공모전 데이터를 `data/train.csv` 로 저장 (위 스키마에 맞추거나,
    컬럼명이 다르면 `train.py`의 `LEAK_COLS`·타깃명만 수정).
-2. `python yangdon/src/eda.py` → 분포·결측·상관 점검.
-3. `python yangdon/src/train.py` → 베이스라인 성능 확인 후 개선.
+2. `python competitive/src/eda.py` → 분포·결측·상관 점검.
+3. `python competitive/src/train.py` → 베이스라인 성능 확인 후 개선.
 
 ## 로드맵
 
