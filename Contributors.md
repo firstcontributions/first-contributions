@@ -1844,6 +1844,7 @@ Amna Naeem
 - [minhho0567-art](https://github.com/minhho0567-art)
 - [Maitreyi](https://github.com/Maitreyi04)
 - [Min Jia](https://github.com/Alex-gift-hit/EsCommune#)
+- [MikiMax18](https://github.com/MikiMax18)
 - [potabash](https://github.com/potabash)
 - [Moe Nyi](https://github.com/moenyi12-kraken)
 - [Monica Fagerli](https://github.com/MonicaKristine)
