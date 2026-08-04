@@ -3808,3 +3808,4 @@ Harish K
 - [JoaoMenoli](https://github.com/JoaoMenoli)
 - [Aniket](https://github.com/AniketXcode)
 - [rm4x1](https://github.com/rm4x1)
+- [Lucas Bruno](https://github.com/lucasklimaschenski1-dotcom)
