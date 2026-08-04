@@ -55,6 +55,31 @@ bbox+모션만의 정직한 베이스라인. **활동량(속도)이 유효 신�
 확인 — 이는 발정 관찰(활동↑·정지↓)의 핵심 기반이다. 향상 여지: keypoint/자세,
 시간 윈도우 시퀀스 모델(LSTM/temporal), 외형 특징(영상 프레임) 결합.
 
+## 교차 데이터셋 검증 도구 (posture_eval.py)
+
+독립된 Kaggle 대회 **multi-view-pig-posture-recognition** 데이터로, 행동/자세로
+학습한 모델의 **일반화 성능**을 검증한다.
+
+- 공통 자세공간 {standing, sitting, lying} 으로 매핑
+  (대회: Standing/Sitting/lateral·sternal-lying, 소스: standing/sitting/lying·sleep)
+- 스케일·해상도 불변 피처만 사용(aspect_ratio, area 백분위) → 데이터셋 간 비교 가능
+
+```bash
+python yangdon/src/posture_eval.py                         # 소스=Edinburgh
+python yangdon/src/posture_eval.py <behavior_frames.csv>   # 소스=AI Hub 71471 등
+```
+
+결과 예(소스=Edinburgh → 대회 평가):
+
+| 구성 | 정확도 | Macro-F1 |
+|---|---|---|
+| 교차(Edinburgh→대회) | 0.41 | 0.31 |
+| 대회 내부 천장(train1→train2) | 0.75 | 0.64 |
+
+→ 행동 데이터로 학습한 모델이 대회 데이터엔 일반화가 약함(도메인 갭 정량화).
+이 갭이 검증 도구의 핵심 산출물이다. 개선: 뷰 정합, bbox 크롭 외형(CNN) 피처
+추가. 대회 데이터는 용량·라이선스상 커밋하지 않고 `kagglehub` 로 받는다.
+
 ## AI Hub 71471 로 옮길 때
 
 동일 개체 시계열 구조라, 71471 라벨을 로컬(국내)에서 받아 `parse_aihub.py`

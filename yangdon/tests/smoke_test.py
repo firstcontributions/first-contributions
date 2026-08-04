@@ -105,11 +105,28 @@ def test_edinburgh_parser() -> None:
         assert {"individual_id", "frame_idx", "behavior", "centroid_x"} <= set(df.columns)
 
 
+def test_posture_eval_mapping() -> None:
+    """교차검증 도구: 라벨 매핑·피처·소스 로더(작은 CSV)가 동작하는지."""
+    import tempfile
+    import pandas as pd
+    import posture_eval
+    assert posture_eval.COMP_TO_COMMON["Sternal_lying"] == "lying"
+    assert posture_eval.BEHAVIOR_TO_COMMON["sleep"] == "lying"
+    X = posture_eval._feats([100.0, 50.0], [50.0, 100.0], [5000.0, 5000.0])
+    assert X.shape == (2, 2)
+    with tempfile.NamedTemporaryFile("w", suffix=".csv", delete=False) as f:
+        pd.DataFrame({"behavior": ["standing", "lying", "walk"],
+                      "bbox_w": [30, 60, 40], "bbox_h": [40, 30, 35]}).to_csv(f.name, index=False)
+        src = posture_eval.load_source(f.name)
+    assert set(src["posture"]) <= {"standing", "sitting", "lying"}
+    assert len(src) == 2  # walk 제외
+
+
 def main() -> int:
     tests = [test_dependencies_import, test_aihub_client_no_key,
              test_pipeline_runs, test_aihub_parsers,
              test_pipeline_gilt_integration, test_estrus_onset_and_dashboard,
-             test_edinburgh_parser]
+             test_edinburgh_parser, test_posture_eval_mapping]
     failed = 0
     for t in tests:
         try:
