@@ -42,6 +42,7 @@
 - [Anas Ghayas](https://github.com/anasghayas)
 - [Anshul Kanodia](https://github.com/AnshulKanodia) 
 - [Pratham Jain](https://github.com/prathamnjain1)
+- [Aditya Agarwal](https://github.com/adityaagarwal2303-pixel)
 - oussema tayechi
 - [alllex47](https://github.com/alllex47)
 - [Dinesh Kumar Sahu](https://github.com/kumarsahudinesh52-byte)
