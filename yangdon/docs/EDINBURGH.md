@@ -80,6 +80,30 @@ python yangdon/src/posture_eval.py <behavior_frames.csv>   # 소스=AI Hub 71471
 이 갭이 검증 도구의 핵심 산출물이다. 개선: 뷰 정합, bbox 크롭 외형(CNN) 피처
 추가. 대회 데이터는 용량·라이선스상 커밋하지 않고 `kagglehub` 로 받는다.
 
+## 멀티뷰 뷰 정합 & 프론트
+
+대회 test 세트는 train에 없는 카메라 뷰로 구성된 **교차-뷰** 과제다.
+`view_align.py` 는 라벨 있는 train1+train2에서 test 뷰를 held-out 으로 떼어
+**뷰 정합 전/후**를 비교한다(뷰별 aspect z-정규화 + 뷰내 면적 백분위).
+
+| 구성 | 정확도 | Macro-F1 |
+|---|---|---|
+| 뷰 정합 전 | 0.378 | 0.220 |
+| 뷰 정합 후 | 0.362 | 0.228 |
+
+→ 기하 피처만으론 뷰 정규화 효과가 미미(±0.01). **외형(bbox 크롭 CNN) 피처가
+필요**함을 수치로 확인. (표본 516행으로 잡음도 큼)
+
+**프론트**: `build_posture_gallery.py` → `dashboard/posture_gallery.html`
+- 실제 대회 이미지에 bbox+자세(정답 색/예측 오답 빨강 점선) SVG 오버레이 갤러리
+- 한 카메라 연속 프레임에 bbox를 그린 **주석 영상(webm)** 임베드
+- 자체완결 HTML(이미지/영상 data URI). 대회 데이터·생성 HTML은 커밋 제외.
+
+```bash
+python yangdon/src/view_align.py            # 뷰 정합 전/후 정확도
+python yangdon/src/build_posture_gallery.py # 사진·영상 프론트 생성
+```
+
 ## AI Hub 71471 로 옮길 때
 
 동일 개체 시계열 구조라, 71471 라벨을 로컬(국내)에서 받아 `parse_aihub.py`

@@ -122,11 +122,24 @@ def test_posture_eval_mapping() -> None:
     assert len(src) == 2  # walk 제외
 
 
+def test_view_align_feats() -> None:
+    """뷰 정합 피처 함수(작은 df)와 held-out 뷰 정의."""
+    import pandas as pd
+    import view_align
+    assert "pen1_tur_cam1" in view_align.HELD_OUT_VIEWS
+    df = pd.DataFrame({"aspect": [1.0, 2.0, 0.5, 1.5],
+                       "area": [100, 200, 50, 150],
+                       "view": ["a", "a", "b", "b"]})
+    b = view_align.baseline_feats(df); v = view_align.view_aligned_feats(df)
+    assert b.shape == (4, 2) and v.shape == (4, 2)
+
+
 def main() -> int:
     tests = [test_dependencies_import, test_aihub_client_no_key,
              test_pipeline_runs, test_aihub_parsers,
              test_pipeline_gilt_integration, test_estrus_onset_and_dashboard,
-             test_edinburgh_parser, test_posture_eval_mapping]
+             test_edinburgh_parser, test_posture_eval_mapping,
+             test_view_align_feats]
     failed = 0
     for t in tests:
         try:
