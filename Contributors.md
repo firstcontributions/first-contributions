@@ -38,6 +38,7 @@
 - [Anshul Kanodia](https://github.com/AnshulKanodia) 
 - [Pratham Jain](https://github.com/prathamnjain1)
 - oussema tayechi
+- [Dinesh Kumar Sahu](https://github.com/kumarsahudinesh52-byte)
 - [Anvay D](https://github.com/Anvay-D)
 - [MaxDeveloper42](https://github.com/maxDeveloper42)
 - [Azlan Ainto](https://github.com/Azlan-Ainto)
