@@ -1,4 +1,4 @@
-# Contributors
+<img width="1916" height="848" alt="image" src="https://github.com/user-attachments/assets/38414d5e-882b-4caf-9ca9-d637aa40b04c" /># Contributors
 - [Rakshita Bangera](https://github.com/RakshitaBangera)
 - [Yash Badhe]
 - [Lucas Cabral](https://github.com/aquelemago)
@@ -3847,3 +3847,5 @@ Harish K
 - [Grant Johnson](https://github.com/johnsongrantr)
 - [Sachitanand Kumar](https://github.com/sach1tanand)
 - [Gabriel Oliveira](https://github.com/gabrielomv10-droid)
+
+- [Adithyan H P](https://github.com/adithyanhp)
