@@ -3816,6 +3816,9 @@ Harish K
 [Adedeji Makinde](https://github.com/adedeji-makinde)
 - [GRGANESH-91](https://github.com/GRGANESH-91)
 - [Urooj Fatima](https://github.com/UroojFatima-052)
+
+- [Sathi Chaitanya Sai Durga](https://github.com/sathichaitanyasaidurga)
+
 - [Sourabh Kumar](https://github.com/sourabhku88)
 -[Aashi Srivastava](https://github.com/AashiSrivastava411)
 - [JoaoMenoli](https://github.com/JoaoMenoli)
@@ -3829,4 +3832,5 @@ Harish K
 
 
 - [Eduardo Castelli](https://github.com/eduavamooo)
+- [Dey AI Labs](https://github.com/deyailabs)
 - [Dey AI Labs](https://github.com/deyailabs)
