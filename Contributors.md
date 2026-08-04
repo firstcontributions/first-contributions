@@ -3859,3 +3859,4 @@ Harish K
 - [danianmecanica-debug](https://github.com/danianmecanica-debug)
 - [cruzmicael96-ops](https://github.com/cruzmicael96-ops)
 - [sk4477](https://github.com/sk4477)
+- [lucianoadm10amazon-prog](https://github.com/lucianoadm10amazon-prog)
