@@ -1,4 +1,5 @@
 # Contributors
+- [Rakshita Bangera](https://github.com/RakshitaBangera)
 - [Yash Badhe]
 - [Lucas Cabral](https://github.com/aquelemago)
 - [aroojresearch](https://github.com/aroojresearch)
