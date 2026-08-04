@@ -1,5 +1,6 @@
 # Contributors
 - [Yash Badhe]
+- [Lucas Cabral](https://github.com/aquelemago)
 - [aroojresearch](https://github.com/aroojresearch)
 - [Sakshi Sinha](https://github.com/sakshi9703)
 - [JanLancelot] (https://github.com/JanLancelot)
