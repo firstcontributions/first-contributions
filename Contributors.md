@@ -9,6 +9,7 @@
 - [saiyarram]
 - [dousha189](https://github.com/dousha189)
 - [ODbeke](https://github.com/ODbeke)
+- [rickylinn](https://github.com/rickylinn)
 - [Abhinav Gupta](https://github.com/Abhinav201310)
 - [Abhinav Bhatpude](https://github.com/abhinav05-bhatpude)
 - [Rishabh Jaiswal] (https://github.com/rishabhjaiswal)
