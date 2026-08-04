@@ -13,8 +13,8 @@
 따라서 CCTV 행동 신호는 무발정의 '관찰 가능한 증거', 관리요인은 '개선 지렛대'.
 
 실행:
-    python competitive/src/pipeline_gilt.py                 # 합성 시연
-    python competitive/src/pipeline_gilt.py <cctv_라벨디렉터리> <gilt_mgmt.csv>
+    python competition/src/pipeline_gilt.py                 # 합성 시연
+    python competition/src/pipeline_gilt.py <cctv_라벨디렉터리> <gilt_mgmt.csv>
 """
 from __future__ import annotations
 
@@ -185,7 +185,7 @@ def run(frames: pd.DataFrame, mgmt: pd.DataFrame) -> None:
 
 
 def main() -> int:
-    os.makedirs("competitive/outputs", exist_ok=True)
+    os.makedirs("competition/outputs", exist_ok=True)
     if len(sys.argv) >= 3 and os.path.isdir(sys.argv[1]):
         frames = parse_aihub.parse_71471(sys.argv[1])
         mgmt = pd.read_csv(sys.argv[2])

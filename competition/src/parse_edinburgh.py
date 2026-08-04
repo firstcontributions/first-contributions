@@ -52,13 +52,13 @@ def parse_edinburgh(root: str) -> pd.DataFrame:
 
 def main() -> int:
     import sys
-    root = sys.argv[1] if len(sys.argv) > 1 else "competitive/data/edinburgh"
+    root = sys.argv[1] if len(sys.argv) > 1 else "competition/data/edinburgh"
     df = parse_edinburgh(root)
     print(f"파싱: {len(df)}행 (녹화 {df['recording'].nunique()}개, "
           f"개체 {df['individual_id'].nunique()}두)")
     print("\n행동 분포:")
     print(df["behavior"].value_counts().to_string())
-    out = "competitive/data/edinburgh_frames.csv"
+    out = "competition/data/edinburgh_frames.csv"
     df.to_csv(out, index=False, encoding="utf-8-sig")
     print(f"\n저장: {out}")
     return 0

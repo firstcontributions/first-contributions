@@ -10,7 +10,7 @@ if [ "${CLAUDE_CODE_REMOTE:-}" != "true" ]; then
 fi
 
 ROOT="${CLAUDE_PROJECT_DIR:-.}"
-REQ="$ROOT/competitive/requirements.txt"
+REQ="$ROOT/competition/requirements.txt"
 
 echo "[session-start] 양돈 AI 프로젝트 준비 중..."
 
@@ -27,10 +27,10 @@ fi
 # 2) AI Hub API 키 상태 점검 (값은 절대 출력하지 않음)
 if [ -n "${AIHUB_APIKEY:-}" ]; then
   echo "[session-start] AIHUB_APIKEY 감지됨 → 라벨 다운로드 가능"
-  echo "[session-start] 다음: python $ROOT/competitive/run_pipeline.sh 로 다운로드→EDA→학습"
+  echo "[session-start] 다음: python $ROOT/competition/run_pipeline.sh 로 다운로드→EDA→학습"
 else
   echo "[session-start] AIHUB_APIKEY 없음 → 환경 시크릿 등록 후 새 세션에서 진행"
-  echo "[session-start] (키 없이도 python competitive/src/aihub.py search 양돈 등 조회는 가능)"
+  echo "[session-start] (키 없이도 python competition/src/aihub.py search 양돈 등 조회는 가능)"
 fi
 
 echo "[session-start] 준비 완료."

@@ -19,8 +19,8 @@
   - area_pct     = 데이터셋 내 bbox 면적 백분위(0~1)
 
 사용:
-  python competitive/src/posture_eval.py                  # 소스=Edinburgh
-  python competitive/src/posture_eval.py <frames.csv>     # 소스=AI Hub 등 behavior CSV
+  python competition/src/posture_eval.py                  # 소스=Edinburgh
+  python competition/src/posture_eval.py <frames.csv>     # 소스=AI Hub 등 behavior CSV
 """
 from __future__ import annotations
 
@@ -77,7 +77,7 @@ def load_source(arg: str | None) -> pd.DataFrame:
     if arg and os.path.isfile(arg):
         df = pd.read_csv(arg)
     else:
-        root = arg if (arg and os.path.isdir(arg)) else "competitive/data/edinburgh"
+        root = arg if (arg and os.path.isdir(arg)) else "competition/data/edinburgh"
         df = parse_edinburgh.parse_edinburgh(root)
     df = df[df["behavior"].isin(BEHAVIOR_TO_COMMON)].copy()
     df["posture"] = df["behavior"].map(BEHAVIOR_TO_COMMON)

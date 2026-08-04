@@ -9,9 +9,9 @@
 특성 중요도를 outputs/ 에 저장한다.
 
 사용:
-    python competitive/src/train.py            # 두 과제 모두
-    python competitive/src/train.py reg        # 회귀만
-    python competitive/src/train.py clf        # 분류만
+    python competition/src/train.py            # 두 과제 모두
+    python competition/src/train.py reg        # 회귀만
+    python competition/src/train.py clf        # 분류만
 """
 from __future__ import annotations
 
@@ -28,8 +28,8 @@ from sklearn.model_selection import KFold, StratifiedKFold, cross_val_predict
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
 
-DATA = "competitive/data/train.csv"
-OUT = "competitive/outputs"
+DATA = "competition/data/train.csv"
+OUT = "competition/outputs"
 
 # 타깃/누수(leakage) 변수는 특성에서 제외한다.
 # adg 를 예측할 때 fcr/market_age 는 adg 로부터 파생되므로 누수 → 제외.

@@ -9,10 +9,10 @@ API 키는 코드에 넣지 말고 환경변수 AIHUB_APIKEY 로 전달한다.
     export AIHUB_APIKEY="발급받은_키"
 
 사용 예:
-    python competitive/src/aihub.py search 양돈
-    python competitive/src/aihub.py list
-    python competitive/src/aihub.py tree 71408
-    python competitive/src/aihub.py download 71408 509489,509492   # 라벨링데이터만
+    python competition/src/aihub.py search 양돈
+    python competition/src/aihub.py list
+    python competition/src/aihub.py tree 71408
+    python competition/src/aihub.py download 71408 509489,509492   # 라벨링데이터만
 """
 from __future__ import annotations
 

@@ -10,7 +10,7 @@
 발정 의심 지수**(0~1)를 산출한다. 발정 정답(estrus)이 있는 데이터(AI Hub 71471)
 에서는 로지스틱 회귀로 지도 보정하고 AUC 를 보고한다(연계의 타당성 검증).
 
-    python competitive/src/estrus_link.py [frames.csv|라벨디렉터리]
+    python competition/src/estrus_link.py [frames.csv|라벨디렉터리]
 """
 from __future__ import annotations
 
@@ -101,12 +101,12 @@ def load(arg):
     if arg and os.path.isfile(arg):
         return pd.read_csv(arg)
     import parse_edinburgh
-    root = arg if (arg and os.path.isdir(arg)) else "competitive/data/edinburgh"
+    root = arg if (arg and os.path.isdir(arg)) else "competition/data/edinburgh"
     return parse_edinburgh.parse_edinburgh(root)
 
 
 def main() -> int:
-    arg = sys.argv[1] if len(sys.argv) > 1 else "competitive/data/edinburgh_frames.csv"
+    arg = sys.argv[1] if len(sys.argv) > 1 else "competition/data/edinburgh_frames.csv"
     frames = load(arg)
     res = behavior_estrus_index(frames)
     n_hi = int((res["estrus_index"] >= 0.6).sum())

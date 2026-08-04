@@ -13,8 +13,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 
-DATA = "competitive/data/train.csv"
-OUT = "competitive/outputs"
+DATA = "competition/data/train.csv"
+OUT = "competition/outputs"
 
 # 한글 폰트가 없을 수 있으므로 그림 라벨은 영문 키를 사용.
 NUMERIC_TARGETS = ["adg_kg_day", "fcr", "market_age_days"]

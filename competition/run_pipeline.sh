@@ -6,12 +6,12 @@
 #   4) (스키마 확인 후) JSON→data/train.csv 가공은 별도 파서에서 수행
 #      이어서 EDA/모델 학습은 eda.py / train.py 로.
 #
-# 사용: AIHUB_APIKEY 등록된 세션에서  bash competitive/run_pipeline.sh
+# 사용: AIHUB_APIKEY 등록된 세션에서  bash competition/run_pipeline.sh
 set -euo pipefail
 
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 cd "$ROOT"
-DL_DIR="competitive/data/aihub"
+DL_DIR="competition/data/aihub"
 mkdir -p "$DL_DIR"
 
 if [ -z "${AIHUB_APIKEY:-}" ]; then
@@ -32,7 +32,7 @@ for key in 71763 622 71471; do
   echo "다운로드: datasetkey=$key filekey=${LABELS[$key]}"
   echo "=========================================="
   mkdir -p "$DL_DIR/$key"
-  ( cd "$DL_DIR/$key" && python3 "$ROOT/competitive/src/aihub.py" download "$key" "${LABELS[$key]}" ) \
+  ( cd "$DL_DIR/$key" && python3 "$ROOT/competition/src/aihub.py" download "$key" "${LABELS[$key]}" ) \
     || { echo "[$key] 다운로드 실패 — 활용신청 승인 여부를 확인하세요." >&2; continue; }
 done
 
@@ -51,8 +51,8 @@ echo "파싱: 라벨 → CSV (스키마 기반)"
 echo "=========================================="
 for key in 71763 622 71471; do
   [ -d "$DL_DIR/$key" ] || continue
-  python3 "$ROOT/competitive/src/parse_aihub.py" "$key" "$DL_DIR/$key" \
-    "competitive/data/${key}_parsed.csv" || echo "  [$key] 파싱 건너뜀"
+  python3 "$ROOT/competition/src/parse_aihub.py" "$key" "$DL_DIR/$key" \
+    "competition/data/${key}_parsed.csv" || echo "  [$key] 파싱 건너뜀"
 done
 
 echo
@@ -60,7 +60,7 @@ echo "=========================================="
 echo "모델링: 71471 발정 탐지 (중점)"
 echo "=========================================="
 if [ -d "$DL_DIR/71471" ]; then
-  python3 "$ROOT/competitive/src/model_71471_estrus.py" "$DL_DIR/71471" || true
+  python3 "$ROOT/competition/src/model_71471_estrus.py" "$DL_DIR/71471" || true
 fi
 
 echo
@@ -68,9 +68,9 @@ echo "=========================================="
 echo "모델링: 71763 생체에너지 회귀"
 echo "=========================================="
 if [ -d "$DL_DIR/71763" ]; then
-  python3 "$ROOT/competitive/src/model_71763.py" "$DL_DIR/71763" || true
+  python3 "$ROOT/competition/src/model_71763.py" "$DL_DIR/71763" || true
 fi
 
 echo
-echo "완료. 결과: competitive/data/*_parsed.csv, competitive/outputs/importance_*.csv"
+echo "완료. 결과: competition/data/*_parsed.csv, competition/outputs/importance_*.csv"
 echo "622(XML) 개체탐지/월령분류 모델링은 스키마 확인 후 확장 예정."

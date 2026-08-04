@@ -4,7 +4,7 @@
 생체에너지 지표(호흡수·현열량·잠열량)를 예측하는 회귀 베이스라인.
 
 실데이터:
-    python competitive/src/model_71763.py competitive/data/aihub/71763   # 라벨 디렉터리
+    python competition/src/model_71763.py competition/data/aihub/71763   # 라벨 디렉터리
 없이 실행하면 문서 스키마대로 합성 라벨을 만들어 전체 흐름을 시연한다.
 """
 from __future__ import annotations
@@ -80,7 +80,7 @@ def run(df: pd.DataFrame) -> None:
 
 def main() -> int:
     label_dir = sys.argv[1] if len(sys.argv) > 1 else None
-    os.makedirs("competitive/outputs", exist_ok=True)
+    os.makedirs("competition/outputs", exist_ok=True)
     run(load(label_dir))
     return 0
 

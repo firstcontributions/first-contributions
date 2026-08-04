@@ -1,10 +1,10 @@
-"""대시보드 데이터 생성 → competitive/dashboard/index.html.
+"""대시보드 데이터 생성 → competition/dashboard/index.html.
 
 통합 파이프라인(CCTV 발정관찰 + 관리요인 → 무발정 위험/처방)과 시간 윈도우
 발정 시작점 탐지 결과를 하나의 JSON 으로 만들어 템플릿에 주입한다.
 
-    python competitive/src/build_dashboard.py                       # 합성 시연
-    python competitive/src/build_dashboard.py <cctv_dir> <mgmt.csv> # 실데이터
+    python competition/src/build_dashboard.py                       # 합성 시연
+    python competition/src/build_dashboard.py <cctv_dir> <mgmt.csv> # 실데이터
 """
 from __future__ import annotations
 
@@ -27,8 +27,8 @@ import pipeline_gilt  # noqa: E402
 import train as train_mod  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(HERE))
-OUT_HTML = os.path.join(ROOT, "competitive", "dashboard", "index.html")
-TEMPLATE = os.path.join(ROOT, "competitive", "dashboard", "template.html")
+OUT_HTML = os.path.join(ROOT, "competition", "dashboard", "index.html")
+TEMPLATE = os.path.join(ROOT, "competition", "dashboard", "template.html")
 
 FEATURE_KO = {
     "feed_adequacy": "사료 적정도", "water_adequacy": "음수 적정도",

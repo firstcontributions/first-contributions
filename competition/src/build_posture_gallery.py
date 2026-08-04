@@ -6,7 +6,7 @@
 
 이미지/영상은 축소·압축해 data URI 로 임베드(자체완결 HTML).
 
-    python competitive/src/build_posture_gallery.py [대회경로]
+    python competition/src/build_posture_gallery.py [대회경로]
 """
 from __future__ import annotations
 
@@ -27,8 +27,8 @@ from sklearn.ensemble import RandomForestClassifier
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(os.path.dirname(HERE))
-TEMPLATE = os.path.join(ROOT, "competitive", "dashboard", "posture_gallery_template.html")
-OUT_HTML = os.path.join(ROOT, "competitive", "dashboard", "posture_gallery.html")
+TEMPLATE = os.path.join(ROOT, "competition", "dashboard", "posture_gallery_template.html")
+OUT_HTML = os.path.join(ROOT, "competition", "dashboard", "posture_gallery.html")
 import glob as _glob
 _ff = _glob.glob("/opt/pw-browsers/ffmpeg*/ffmpeg-linux")
 FFMPEG = _ff[0] if _ff else "ffmpeg"

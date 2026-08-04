@@ -6,7 +6,7 @@ bbox 시계열에서 모션 피처(속도·가속도·면적변화)를 만들어
 행동은 발정 관찰의 기반 신호다: 활동(walk/run/investigating)↑·정지(lying/
 sleep)↓ 패턴, 승가(jumpontopof) 등은 번식행동 지표로 이어진다.
 
-    python competitive/src/model_edinburgh_behavior.py [frames.csv 또는 라벨디렉터리]
+    python competition/src/model_edinburgh_behavior.py [frames.csv 또는 라벨디렉터리]
 """
 from __future__ import annotations
 
@@ -45,7 +45,7 @@ def g_apply_diff(df: pd.DataFrame, col: str) -> pd.Series:
 def load(arg: str | None) -> pd.DataFrame:
     if arg and os.path.isfile(arg):
         return pd.read_csv(arg)
-    root = arg if (arg and os.path.isdir(arg)) else "competitive/data/edinburgh"
+    root = arg if (arg and os.path.isdir(arg)) else "competition/data/edinburgh"
     return parse_edinburgh.parse_edinburgh(root)
 
 
@@ -82,8 +82,8 @@ def run(df: pd.DataFrame) -> None:
     clf.fit(X, y)
     imp = pd.Series(clf.feature_importances_, index=feats).sort_values(ascending=False)
     print("특성 중요도:\n" + imp.round(3).to_string())
-    os.makedirs("competitive/outputs", exist_ok=True)
-    imp.round(4).to_csv("competitive/outputs/importance_edinburgh_behavior.csv",
+    os.makedirs("competition/outputs", exist_ok=True)
+    imp.round(4).to_csv("competition/outputs/importance_edinburgh_behavior.csv",
                         header=["importance"], encoding="utf-8-sig")
 
 
