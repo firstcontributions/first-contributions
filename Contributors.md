@@ -39,6 +39,7 @@
 - [Pratham Jain](https://github.com/prathamnjain1)
 - oussema tayechi
 - [Anvay D](https://github.com/Anvay-D)
+- [MaxDeveloper42](https://github.com/maxDeveloper42)
 - [Azlan Ainto](https://github.com/Azlan-Ainto)
 - [Troy C](https://github.com/ArT-BrC)
 - [Gururaj Suresh Lande](https://github.com/gururajlande7)
