@@ -1,5 +1,6 @@
 <img width="1916" height="848" alt="image" src="https://github.com/user-attachments/assets/38414d5e-882b-4caf-9ca9-d637aa40b04c" /># Contributors
 - [Rakshita Bangera](https://github.com/RakshitaBangera)
+- [Payal Gupta](https://github.com/payal1020-creator)
 - [Yash Badhe]
 - [Lucas Cabral](https://github.com/aquelemago)
 - [aroojresearch](https://github.com/aroojresearch)
