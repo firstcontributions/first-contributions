@@ -70,6 +70,7 @@
  - [Abdul khudus] (https://github.com/Abdulkhudus)
  - [Rene Paul](https://github.com/rene-pau)
 -[Barry J]
+- [Talluri Subhash] (https://github.com/Subhash-2005)
 -[Sahil pandey](https://github.com/sahilpandey217)
 - [Jothi Prakasam R](https://github.com/jothiprakasam)
 - [Pranjal Giri](https://github.com/pranjalx07)
