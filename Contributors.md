@@ -3820,3 +3820,4 @@ Harish K
 - [0xJieREN](https://github.com/0xJieREN)
 - [Vaibhav Chavanpatil](https://github.com/VAIBHAV7848)
 
+- [Eduardo Castelli](https://github.com/eduavamooo)
