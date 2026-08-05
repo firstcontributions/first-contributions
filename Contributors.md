@@ -1,4 +1,4 @@
-<img width="1916" height="848" alt="image" src="https://github.com/user-attachments/assets/38414d5e-882b-4caf-9ca9-d637aa40b04c" /># Contributors
+# Contributors
 
 - [abdelrahman-mahmoud](https://github.com/abdelrahman-amrawy)
 - [Rakshita Bangera](https://github.com/RakshitaBangera)
@@ -14,6 +14,7 @@
 - [Kamyar Azizi](https://github.com/KamyarAzz)
 - [lukedryan] (https://github.com/lukedryan)
 - [saiyarram]
+- [Sudarshan Murade](https://github.com/sudarshan-murade)
 - [Sagar Kumar] (https://github.com/Sagar-Kumar01)
 - [dousha189](https://github.com/dousha189)
 - [ODbeke](https://github.com/ODbeke)
