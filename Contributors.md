@@ -14,6 +14,7 @@
 - [JanLancelot] (https://github.com/JanLancelot)
 - [Kamyar Azizi](https://github.com/KamyarAzz)
 - [lukedryan] (https://github.com/lukedryan)
+- [Aditya Vatsa] (https://github.com/VatsAditya48)
 - [saiyarram]
 - [Sudarshan Murade](https://github.com/sudarshan-murade)
 - [Sagar Kumar] (https://github.com/Sagar-Kumar01)
