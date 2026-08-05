@@ -1,10 +1,12 @@
-<img width="1916" height="848" alt="image" src="https://github.com/user-attachments/assets/38414d5e-882b-4caf-9ca9-d637aa40b04c" /># Contributors
+# Contributors
 
+- [Rakhi Jamdade]
 - [abdelrahman-mahmoud](https://github.com/abdelrahman-amrawy)
 - [Rakshita Bangera](https://github.com/RakshitaBangera)
 - [Yash Badhe]
 - [fichil](https://github.com/fichil)
 - [Jay Adesara](https://github.com/JayAdesara-07)
+- [Khuram Shahzad](https://github.com/khuram354)
 - [Lucas Cabral](https://github.com/aquelemago)
 - [aroojresearch](https://github.com/aroojresearch)
 - [Sakshi Sinha](https://github.com/sakshi9703)
@@ -12,7 +14,10 @@
 - [JanLancelot] (https://github.com/JanLancelot)
 - [Kamyar Azizi](https://github.com/KamyarAzz)
 - [lukedryan] (https://github.com/lukedryan)
+- [Aditya Vatsa] (https://github.com/VatsAditya48)
 - [saiyarram]
+- [Sanjana N N] (https://github.com/Sanjana-nn2)
+- [Sudarshan Murade](https://github.com/sudarshan-murade)
 - [Sagar Kumar] (https://github.com/Sagar-Kumar01)
 - [dousha189](https://github.com/dousha189)
 - [ODbeke](https://github.com/ODbeke)
@@ -41,6 +46,7 @@
 - [Anchal Kashyap](https://github.com/anchal284)
 - [Syeda Sumayya](https://github.com/syedasumayya)
 - [Yutubdua7](https://github.com/yutubdua7-sys)
+- [Azan khan](https://github.com/Azankham)
 - [Yashraj Pal](https://github.com/yashraj013)
 - [Kundan Dhage](https://github.com/KundanDhage)
 - [Praveen Bishnoi](https://github.com/parveen0029)
@@ -359,6 +365,7 @@ nathan practice here
 - Soham Sen(BloodRaven5551)
 - [Nikolo Quinones](https://github.com/NikoloQuinones)
 - [Pete Barb](https://github.com/DPB22)
+- [Jaysen Jondhale](https://github.com/jays3n)
 - [jaivik Patoliya] 
 - [Sandip Panigrahi](https://github.com/sandip13579)
 - [Jacob Cherian](https://github.com/JC230903)
@@ -995,6 +1002,7 @@ niceshowmini
 - [Tanmay-Pansare](https://github.com/CodeWithTanmay635)
   [John Nash](https://github.com/WickedSonny)
 - [cheems](https://github.com/cheems908)
+- [Perczel-Szabó Dániel](https://github.com/Pesadon)
 - [Gary Dawson](https://github.com/garydawsonDEFRA)
 - [root-kcalb]
 - [Krishna](https://github.com/krish-na-m)
@@ -3885,3 +3893,6 @@ Harish K
 - [Moh. Zainur Rozy](https://github.com/Xeerodev)
 - [Rafael de Moraes](https://github.com/advrafaeldemoraes-cell)
 - [AlbertJesu10](https://github.com/AlbertJesu10)
+- [yorkyang2333](https://github.com/yorkyang2333)
+- [Fabian Graef](https://github.com/fabiangraef001-wq)
+ main
