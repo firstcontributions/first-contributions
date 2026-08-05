@@ -24,6 +24,7 @@
 - [Bas]
 - [V.Pranavi](https://github.com/pranavivaranasi07-dev)
 - [antoni306] (https://github.com/antoni306)
+- [adwait zanjurne](https://github.com/adwaitzanjurnepz-netizen)
 - [taehunkang36](https://github.com/taehunkang36)
 - [Evan Williams] (https://github.com/EvanInTech)
 - [Muhammad Zeeshan](https://github.com/zeeshanxbuilds)
