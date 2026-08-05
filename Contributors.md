@@ -3870,4 +3870,5 @@ Harish K
 - [rafidosman](https://github.com/rafidosman)
 - [Vinoth S](https://github.com/itzvinoth04-design)
 - [Amrita Bhardwaj](https://github.com/amrita321-art)
+- Yoshi Kita
 - [cg123999](https://github.com/cg123999)
