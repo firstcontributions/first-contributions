@@ -997,6 +997,7 @@ niceshowmini
 - [Tanmay-Pansare](https://github.com/CodeWithTanmay635)
   [John Nash](https://github.com/WickedSonny)
 - [cheems](https://github.com/cheems908)
+- [Perczel-Szabó Dániel](https://github.com/Pesadon)
 - [Gary Dawson](https://github.com/garydawsonDEFRA)
 - [root-kcalb]
 - [Krishna](https://github.com/krish-na-m)
