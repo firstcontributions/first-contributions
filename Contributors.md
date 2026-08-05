@@ -1131,6 +1131,7 @@ niceshowmini
 - [utkarshvns](https://github.com/utkarshvns)
 - [Nikshaykr](https://github.com/Nikshaykr)
 - [Vaishnavi Patil]
+- [Rahul Lokare](https://github.com/Rahul-5599)
 - [Shubham Parashar](https://github.com/shubham65p)
 - [shreyashposhattiwar](https://github.com/ShreyashPoshattiwar)
 - [saptak-chakraborty](https://github.com/Saptak10)
