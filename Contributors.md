@@ -3903,3 +3903,4 @@ Harish K
  main
 - [constertine](https://github.com/constertine)
 - [Talha Çaydere](https://github.com/talhacaydere)
+- [Max Campos](https://github.com/maxcamposdev)
