@@ -1893,7 +1893,6 @@
 - [Suraj Suresh](https://github.com/ssuresh808)
 - [zanmstfa](https://github.com/zanmstfa)
 - [hangyuan2](https://github.com/hangyuan2)
-- [Sarmad Jalil](https://github.com/sarmad-jalil)
 - [NikolosPl](https://github.com/NikolosPl)
 - [chlwns301-cloud](https://github.com/chlwns301-cloud)
 - [Nilesh Sarkar](https://github.com/23f2004613)
@@ -3817,3 +3816,4 @@
 - [CongYuuu](https://github.com/CongYuuu)
 - [Ricardo Rocha](https://github.com/r0charm)
 - [Hassan](https://github.com/muhammadhassanoffi-cs)
+- [Sarmad Jalil](https:github.com/sarmad-jalil)
