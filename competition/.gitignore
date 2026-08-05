@@ -20,3 +20,4 @@ data/*_parsed.csv
 dashboard/edinburgh.html
 dashboard/posture_gallery.html
 dashboard/analysis_report.html
+dashboard/behavior_gallery.html
