@@ -43,6 +43,7 @@
 - [Anchal Kashyap](https://github.com/anchal284)
 - [Syeda Sumayya](https://github.com/syedasumayya)
 - [Yutubdua7](https://github.com/yutubdua7-sys)
+- [Azan khan](https://github.com/Azankham)
 - [Yashraj Pal](https://github.com/yashraj013)
 - [Kundan Dhage](https://github.com/KundanDhage)
 - [Praveen Bishnoi](https://github.com/parveen0029)
