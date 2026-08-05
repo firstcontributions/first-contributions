@@ -13,6 +13,7 @@
 - [Kamyar Azizi](https://github.com/KamyarAzz)
 - [lukedryan] (https://github.com/lukedryan)
 - [saiyarram]
+- [Sagar Kumar] (https://github.com/Sagar-Kumar01)
 - [dousha189](https://github.com/dousha189)
 - [ODbeke](https://github.com/ODbeke)
 - [Darshan Bothra](https://github.com/DarshanBothra)
