@@ -155,12 +155,27 @@ def test_estrus_link() -> None:
     assert res.loc["A", "estrus_index"] > res.loc["B", "estrus_index"]
 
 
+def test_aihub_reference() -> None:
+    """71471 발정 표준: 어휘 매핑·점수·매핑 합산."""
+    import aihub_estrus_reference as ref
+    assert ref.to_reference("walk") == "restless"
+    assert ref.to_reference("jumpontopof") == "mounting"
+    assert ref.to_reference("sleep") == "lying"
+    R = ref.EstrusReference()
+    # 승가/서성임 개체 > 눕기 개체
+    hi = R.score({"mounting": 0.3, "restless": 0.5, "standing": 0.2}, 0.9)
+    lo = R.score({"lying": 0.8, "sitting": 0.2}, 0.05)
+    assert hi > lo
+    m = ref.map_fractions({"walk": 0.4, "run": 0.2, "lying": 0.4})
+    assert round(m["restless"], 3) == 0.6 and m["lying"] == 0.4
+
+
 def main() -> int:
     tests = [test_dependencies_import, test_aihub_client_no_key,
              test_pipeline_runs, test_aihub_parsers,
              test_pipeline_gilt_integration, test_estrus_onset_and_dashboard,
              test_edinburgh_parser, test_posture_eval_mapping,
-             test_view_align_feats, test_estrus_link]
+             test_view_align_feats, test_estrus_link, test_aihub_reference]
     failed = 0
     for t in tests:
         try:
