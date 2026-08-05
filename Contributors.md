@@ -15,6 +15,7 @@
 - [Kamyar Azizi](https://github.com/KamyarAzz)
 - [lukedryan] (https://github.com/lukedryan)
 - [Aditya Vatsa] (https://github.com/VatsAditya48)
+- [elated]
 - [saiyarram]
 - [Sanjana N N] (https://github.com/Sanjana-nn2)
 - [Sudarshan Murade](https://github.com/sudarshan-murade)
@@ -3901,3 +3902,9 @@ Harish K
  main
 - [constertine](https://github.com/constertine)
 - [Talha Çaydere](https://github.com/talhacaydere)
+
+- Elated Krithik (@ElatedKrithik)
+
+- [elated]
+
+- [elated]
