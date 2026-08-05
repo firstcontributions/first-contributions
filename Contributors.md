@@ -3874,3 +3874,4 @@ Harish K
 - Yoshi Kita
 - [cg123999](https://github.com/cg123999)
 - [CongYuuu](https://github.com/CongYuuu)
+- [Ricardo Rocha](https://github.com/r0charm)
