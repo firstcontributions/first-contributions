@@ -169,6 +169,51 @@ python competition/src/aihub.py download 71471 511411,511417,511459,511465
 `src/` 파이프라인의 정형 데이터로 가공해 `data/train.csv` 형태로 만들어
 `eda.py` / `train.py` 에 연결하면 된다.
 
+## 7. ⚠️ 해외 다운로드 제한(지역 차단)과 해결법
+
+AI Hub는 **데이터 다운로드를 국내 IP에서만** 허용한다. 조회는 되지만 다운로드는 막힌다.
+
+| 단계 | 해외 IP(원격 샌드박스) |
+|---|---|
+| 데이터셋 검색 / 파일 트리 | ✅ 정상 |
+| API 키 인증 | ✅ 통과 |
+| **데이터 다운로드** | ❌ `HTTP 502` — `AI 허브는 해외에서의 데이터 다운로드를 제한하고 있습니다.` |
+
+즉 이 원격 환경(프록시=해외 IP)에서는 키가 유효해도 71471을 못 받는다. 키·권한이
+아니라 **접속 위치** 문제다.
+
+### 해결 절차 (국내망 1회 다운로드 → 자동 실측 검증)
+
+1. **국내망**(한국 내 PC/서버, 또는 국내 리전 클라우드 VM)에서 키를 설정하고
+   위 §5-③의 **돼지 라벨만** 받는다. 발정 검증에는 keypoints/bbox면 충분(수십 MB):
+
+   ```bash
+   export AIHUB_APIKEY="발급받은_키"
+   # 돼지 Validation 라벨(가장 가벼움): bbox+keypoints
+   python competition/src/aihub.py download 71471 511458,511459
+   ```
+
+2. 받은 라벨 JSON을 프로젝트의 아래 경로에 둔다(디렉터리째 복사):
+
+   ```
+   competition/data/aihub/71471/
+   ```
+
+   (또는 임의 위치에 두고 `export AIHUB_71471_DIR=/받은/경로` 로 지정)
+
+3. 그러면 **파이프라인이 자동으로 실측 발정 AUC를 채운다.** 별도 코드 수정 불필요:
+
+   ```bash
+   python competition/src/validate_estrus_reference.py   # 보정 AUC vs 규칙 baseline
+   python competition/src/build_eval_report.py           # 리포트 D 섹션이 실측으로 교체
+   ```
+
+   - 파일이 **없으면**: 리포트 D 섹션은 "합성 시연"으로 표시되고 국내망 안내 배너가 뜬다.
+   - 파일이 **있으면**: 같은 자리에 실측 AUC + ROC/PR/보정곡선이 자동 렌더된다.
+
+> 요약: 코드(로더·보정·리포트 슬롯)는 이미 완성되어 대기 중이다. 국내망에서 라벨
+> 파일만 한 번 떨어뜨리면 발정 실측 검증이 그대로 돌아간다.
+
 ## 출처
 
 - [AI 허브 오픈 API 'aihubshell' 이용안내](https://www.aihub.or.kr/devsport/apishell/list.do)

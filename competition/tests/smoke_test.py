@@ -209,6 +209,16 @@ def test_eval_report_figs() -> None:
     assert "<tr>" in rows
 
 
+def test_estrus_reference_validation() -> None:
+    """발정 실측 검증 다리: 합성 71471 로 보정 AUC 가 산출되는지."""
+    import validate_estrus_reference as ver
+    r = ver.evaluate()  # 실파일 없으면 합성 시연
+    assert r["is_real"] is False and r["n"] >= 20
+    assert 0.0 <= r["auc_calibrated"] <= 1.0
+    assert 0.0 <= r["auc_rule"] <= 1.0
+    assert len(r["proba"]) == r["n"] and len(r["y"]) == r["n"]
+
+
 def main() -> int:
     tests = [test_dependencies_import, test_aihub_client_no_key,
              test_pipeline_runs, test_aihub_parsers,
@@ -216,7 +226,7 @@ def main() -> int:
              test_edinburgh_parser, test_posture_eval_mapping,
              test_view_align_feats, test_estrus_link, test_aihub_reference,
              test_appearance_crop_feats, test_iou_tracker,
-             test_eval_report_figs]
+             test_eval_report_figs, test_estrus_reference_validation]
     failed = 0
     for t in tests:
         try:

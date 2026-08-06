@@ -36,6 +36,7 @@ sys.path.insert(0, HERE)
 import model_behavior_appearance as mba  # noqa: E402
 import model_edinburgh_behavior as beh  # noqa: E402
 import posture_eval  # noqa: E402
+import validate_estrus_reference as ver  # noqa: E402
 import view_align  # noqa: E402
 
 OUT = os.path.join(ROOT, "competition", "dashboard", "eval_report.html")
@@ -152,11 +153,47 @@ def eval_posture():
     return {"acc": round(acc, 3), "cm": cm, "rows": perclass_bars(te["cls"].to_numpy(), pred, classes)}
 
 
+def build_estrus_section(E):
+    """D 섹션 HTML. 실측이면 KPI+곡선, 시연이면 baseline+국내망 안내 배너."""
+    cal = E.get("auc_calibrated"); rule = E.get("auc_rule")
+    kpis = (f'<div class="kpi"><div class="v">{cal if cal is not None else "—"}</div>'
+            f'<div class="l">보정 발정 AUC</div></div>'
+            f'<div class="kpi"><div class="v">{rule if rule is not None else "—"}</div>'
+            f'<div class="l">규칙 baseline AUC</div></div>'
+            f'<div class="kpi"><div class="v">{E["n"]}</div><div class="l">개체(두)</div></div>'
+            f'<div class="kpi"><div class="v">{E["pos_rate"]:.0%}</div><div class="l">발정 비율</div></div>')
+    img = f'<img src="{E["uri"]}">' if E.get("uri") else ""
+    if E["is_real"]:
+        banner = ('<div class="ok">✅ <b>실측</b> — AI Hub 71471 발정 정답으로 보정·검증됨. '
+                  '규칙 대비 보정 모델의 개선 폭이 실데이터에서 확인됩니다.</div>')
+    else:
+        banner = ('<div class="warn">⚠️ <b>현재는 합성 시연</b>입니다. 71471 은 국내 IP 전용이라 '
+                  '이 원격 환경에서 직접 다운로드가 차단됩니다(HTTP 502 "해외 다운로드 제한"). '
+                  '<b>국내망에서 라벨 파일(bbox/keypoints)만</b> 받아 '
+                  '<code>competition/data/aihub/71471/</code> 에 두면 위 숫자·곡선이 '
+                  '<b>실측값으로 자동 교체</b>됩니다. 파이프라인은 완성되어 대기 중입니다.</div>')
+    return (f'<div class="kpis">{kpis}</div><div class="card">{banner}{img}'
+            f'<div class="note">방법: 개체별 (71471 표준 카테고리 비율 + 활동량) → '
+            f'로지스틱 보정(5-fold). 규칙 baseline 은 수의학 가중치 점수의 AUC. '
+            f'보정 AUC ≥ baseline 이면 데이터 기반 학습이 규칙을 개선한 것.</div></div>')
+
+
+def eval_estrus():
+    """D. 발정 실측 검증 — 71471 정답으로 EstrusReference 보정.
+    실파일이 있으면 실측, 없으면 합성 시연(is_real=False)."""
+    r = ver.evaluate()
+    if r.get("proba") is not None:
+        r["uri"], _ = curves_fig(r["y"], r["proba"], "Estrus (71471-calibrated)")
+    return r
+
+
 def main() -> int:
     print("A. 행동 인식 평가..."); B, df = eval_behavior()
     print("B. 이진(활동/휴식) 평가..."); BIN = eval_binary(df)
     print("C. 자세 평가..."); P = eval_posture()
+    print("D. 발정 실측 검증(71471)..."); E = eval_estrus()
     tbl = ('<table><tr><th>클래스</th><th>정밀도</th><th>재현율</th><th>F1</th><th>지지도</th></tr>')
+    estrus_html = build_estrus_section(E)
     html = f"""<!DOCTYPE html><html lang="ko"><head><meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0"><title>평가 리포트</title><style>
 :root{{color-scheme:light;--page:#f9f9f7;--surface:#fcfcfb;--surface2:#f2f2ee;--ink:#0b0b0b;--ink2:#52514e;--muted:#898781;--border:rgba(11,11,11,.12)}}
@@ -171,6 +208,9 @@ img{{max-width:100%;border-radius:8px;background:#fff}}
 table{{width:100%;border-collapse:collapse;font-size:.82rem;margin-top:8px}}td,th{{text-align:left;padding:5px 9px;border-bottom:1px solid var(--surface2)}}th{{color:var(--ink2);font-size:.75rem}}
 .two{{display:grid;grid-template-columns:1fr 1fr;gap:14px;align-items:start}}@media(max-width:760px){{.two{{grid-template-columns:1fr}}}}
 .note{{font-size:.73rem;color:var(--muted);margin-top:8px;line-height:1.6}}
+.warn{{font-size:.82rem;background:color-mix(in srgb,#e8a33d 16%,transparent);border:1px solid color-mix(in srgb,#e8a33d 45%,transparent);border-radius:9px;padding:11px 13px;margin-bottom:10px;line-height:1.55}}
+.ok{{font-size:.82rem;background:color-mix(in srgb,#1baf7a 16%,transparent);border:1px solid color-mix(in srgb,#1baf7a 45%,transparent);border-radius:9px;padding:11px 13px;margin-bottom:10px;line-height:1.55}}
+code{{background:var(--surface2);padding:1px 5px;border-radius:4px;font-size:.85em}}
 </style></head><body><div class="wrap">
 <h1>📐 평가 리포트 <span style="font-size:.8rem;color:var(--muted)">혼동행렬·ROC·PR·보정곡선</span></h1>
 <div class="sub">실데이터 기준 엄정 평가. 검증은 개체/뷰 분리(GroupKFold·held-out) — 낙관 편향 배제.</div>
@@ -197,6 +237,9 @@ table{{width:100%;border-collapse:collapse;font-size:.82rem;margin-top:8px}}td,t
 <div class="card two"><div><img src="{P['cm']}"></div>
 <div>{tbl}{P['rows']}</table>
 <div class="note">측와위(lateral/sternal lying)는 종횡비로 잘 구분, sitting 은 표본 적고 겹침.</div></div></div>
+
+<h2>D. 발정 실측 검증 (AI Hub 71471 정답 기준)</h2>
+{estrus_html}
 
 <div class="note">※ 검증: 행동/이진 = 개체 분리 GroupKFold(5), 자세 = train1→train2. 그림은 matplotlib.
 데이터: Edinburgh(CC BY-NC 4.0), multi-view-pig-posture. 생성 리포트는 커밋 제외.</div>
