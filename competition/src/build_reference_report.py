@@ -75,7 +75,10 @@ def build_video_section(res) -> str:
                 '확보 시 영상 근거가 표시됩니다.</div>')
     try:
         import build_behavior_gallery as bg
-        data = bg.build(folder, video)
+        fd, gallery = bg.build_feed(rec_id, folder, video)
+        data = {"video": fd.get("video"), "gallery": gallery,
+                "legend": [{"cat": c, "color": "#%02x%02x%02x" % col, "behaviors": bs}
+                           for c, (bs, col) in bg.CATS.items()]}
     except Exception as e:  # noqa: BLE001
         return f'<div class="note">영상 생성 실패: {e}</div>'
     vid_html = (f'<video src="{data["video"]}" controls autoplay muted loop '

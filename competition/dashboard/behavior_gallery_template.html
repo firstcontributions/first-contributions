@@ -3,21 +3,21 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>돼지 행동 확인 — Edinburgh 실영상</title>
+<title>돼지 행동 확인 — 농장 CCTV 피드</title>
 <style>
-:root{color-scheme:light;--page:#f9f9f7;--surface:#fcfcfb;--surface2:#f2f2ee;--ink:#0b0b0b;--ink2:#52514e;--muted:#898781;--border:rgba(11,11,11,.12);--accent:#2a78d6;}
-@media(prefers-color-scheme:dark){:root:where(:not([data-theme=light])){--page:#0d0d0d;--surface:#1a1a19;--surface2:#242422;--ink:#fff;--ink2:#c3c2b7;--muted:#898781;--border:rgba(255,255,255,.14);--accent:#3987e5;}}
-:root[data-theme=dark]{--page:#0d0d0d;--surface:#1a1a19;--surface2:#242422;--ink:#fff;--ink2:#c3c2b7;--muted:#898781;--border:rgba(255,255,255,.14);--accent:#3987e5;}
+:root{color-scheme:light;--page:#f9f9f7;--surface:#fcfcfb;--surface2:#f2f2ee;--ink:#0b0b0b;--ink2:#52514e;--muted:#898781;--border:rgba(11,11,11,.12);--accent:#2a78d6}
+@media(prefers-color-scheme:dark){:root:where(:not([data-theme=light])){--page:#0d0d0d;--surface:#1a1a19;--surface2:#242422;--ink:#fff;--ink2:#c3c2b7;--muted:#898781;--border:rgba(255,255,255,.14);--accent:#3987e5}}
+:root[data-theme=dark]{--page:#0d0d0d;--surface:#1a1a19;--surface2:#242422;--ink:#fff;--ink2:#c3c2b7;--muted:#898781;--border:rgba(255,255,255,.14);--accent:#3987e5}
 *{box-sizing:border-box;margin:0;padding:0}body{font-family:system-ui,-apple-system,"Malgun Gothic",sans-serif;background:var(--page);color:var(--ink);line-height:1.5;padding:20px}
 .wrap{max-width:1160px;margin:0 auto}h1{font-size:1.5rem}.sub{color:var(--ink2);font-size:.9rem;margin:4px 0 16px}
 .kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:10px;margin-bottom:14px}
 .kpi{background:var(--surface);border:1px solid var(--border);border-radius:11px;padding:11px 14px}.kpi .v{font-size:1.5rem;font-weight:700}.kpi .l{font-size:.74rem;color:var(--muted)}
 .card{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:16px;margin-bottom:14px}.card h2{font-size:1rem;margin-bottom:10px}
-video{width:100%;max-width:640px;border-radius:10px;border:1px solid var(--border);display:block}
+video{width:100%;max-width:680px;border-radius:10px;border:1px solid var(--border);display:block;background:#000}
 .legend{display:flex;gap:16px;flex-wrap:wrap;font-size:.8rem;color:var(--ink2);margin-bottom:12px}
 .legend .grp{display:flex;align-items:center;gap:5px}.sw{width:12px;height:12px;border-radius:3px;display:inline-block}
 .filters{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:12px}
-.fbtn{font:inherit;font-size:.74rem;padding:4px 10px;border-radius:999px;cursor:pointer;border:1px solid var(--border);background:var(--surface2);color:var(--ink2)}.fbtn.on{background:var(--ink);color:var(--page);border-color:var(--ink)}
+.fbtn{font:inherit;font-size:.76rem;padding:5px 11px;border-radius:999px;cursor:pointer;border:1px solid var(--border);background:var(--surface2);color:var(--ink2)}.fbtn.on{background:var(--ink);color:var(--page);border-color:var(--ink)}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px}
 .tile{border:1px solid var(--border);border-radius:10px;overflow:hidden;cursor:pointer;background:var(--surface2)}
 .tile .imgbox{position:relative;line-height:0}.tile img{width:100%;display:block}
@@ -25,24 +25,26 @@ video{width:100%;max-width:640px;border-radius:10px;border:1px solid var(--borde
 svg.ov{position:absolute;top:0;left:0;width:100%;height:100%}
 rect.box{fill:transparent;stroke-width:2.5}text.lbl{font-size:11px;font-weight:700;paint-order:stroke;stroke:rgba(0,0,0,.55);stroke-width:2px}
 .modal{position:fixed;inset:0;background:rgba(0,0,0,.82);display:none;align-items:center;justify-content:center;z-index:20;padding:20px}.modal.on{display:flex}
-.modal .inner{max-width:1000px;width:100%;background:var(--surface);border-radius:12px;padding:16px;max-height:92vh;overflow:auto}
-.modal .imgbox{position:relative;line-height:0}.modal img{width:100%;border-radius:8px}.close{float:right;cursor:pointer;font-size:1.2rem;color:var(--ink2);border:none;background:none}
+.modal .inner{max-width:1000px;width:100%;background:var(--surface);border-radius:12px;padding:16px;max-height:92vh;overflow:auto}.modal .imgbox{position:relative;line-height:0}.modal img{width:100%;border-radius:8px}.close{float:right;cursor:pointer;font-size:1.2rem;color:var(--ink2);border:none;background:none}
 .hbar{display:grid;grid-template-columns:130px 1fr 50px;align-items:center;gap:8px;margin:4px 0;font-size:.78rem}.hbar .track{background:var(--surface2);border-radius:6px;height:13px;overflow:hidden}.hbar .fill{height:100%;border-radius:6px}
 .note{font-size:.72rem;color:var(--muted);margin-top:8px;line-height:1.5}
+.feedmeta{font-size:.8rem;color:var(--ink2);margin-top:8px}
 </style></head>
 <body><div class="wrap">
-<h1>돼지 행동 확인 <span style="font-size:.8rem;color:var(--muted)">Edinburgh 실영상</span></h1>
-<div class="sub">돈방 CCTV 실영상 프레임에 개체별 <b>행동</b>을 bbox+라벨로 표시. 색=행동 카테고리(활동/휴식/섭식/사회·번식). 활동 행동이 발정 관찰의 핵심 신호.</div>
+<h1>돼지 행동 확인 <span style="font-size:.8rem;color:var(--muted)">농장 CCTV 피드</span></h1>
+<div class="sub">여러 카메라(녹화)의 실영상에 개체별 <b>행동</b>을 bbox+라벨로 표시. 미래 농장 CCTV 를 가정한 장척 주석 영상. 색=행동 카테고리(활동/휴식/섭식/사회·번식).</div>
 <div class="kpis" id="kpis"></div>
 
-<div class="card"><h2>주석 영상 (연속 프레임 + 행동 bbox)</h2><div id="videobox"></div>
-<div class="note" id="videonote"></div></div>
+<div class="card"><h2>📹 CCTV 카메라 피드</h2>
+<div class="filters" id="feeds"></div>
+<div id="videobox"></div>
+<div class="feedmeta" id="feedmeta"></div>
+<div class="legend" id="legend" style="margin-top:10px"></div></div>
 
-<div class="card"><h2>행동 분포 (이 녹화)</h2><div id="behdist"></div></div>
+<div class="card"><h2>행동 분포 (전체 피드)</h2><div id="behdist"></div></div>
 
 <div class="card"><h2>행동 갤러리 <span id="gcount" style="color:var(--muted);font-weight:400;font-size:.85rem"></span></h2>
-<div class="legend" id="legend"></div>
-<div class="filters" id="filters"></div>
+<div class="filters" id="behfilters"></div>
 <div class="grid" id="grid"></div>
 <div class="note">박스 색 = 행동 카테고리, 라벨 = 정확한 행동. 타일 클릭 시 확대.</div></div>
 </div>
@@ -55,52 +57,62 @@ window.DATA=/*__DATA__*/null;
   const D=window.DATA; if(!D){document.body.innerHTML="<p style='padding:40px'>데이터 없음</p>";return;}
   const m=D.meta;
   document.getElementById("kpis").innerHTML=[
-    ["녹화",m.recording],["돼지",m.n_pigs],["갤러리",m.n_gallery+"장"],
-    ["영상 프레임",m.n_vidframes],["행동 종류",D.behavior_dist.length],
+    ["카메라 피드",m.n_feeds+"대"],["총 영상 길이",m.total_dur+"s"],
+    ["갤러리",m.n_gallery+"장"],["행동 종류",D.behavior_dist.length],
   ].map(([l,v])=>`<div class="kpi"><div class="v">${v}</div><div class="l">${l}</div></div>`).join("");
 
-  const vb=document.getElementById("videobox");
-  if(D.video){vb.innerHTML=`<video src="${D.video}" controls autoplay muted loop playsinline></video>`;
-    document.getElementById("videonote").textContent=`${m.recording} · ${m.n_vidframes}프레임(6fps). 각 개체 bbox에 행동 라벨.`;}
-  else vb.innerHTML="<p style='color:var(--muted)'>영상 없음</p>";
+  // 카메라 피드 선택
+  let curFeed=D.feeds[0];
+  document.getElementById("feeds").innerHTML=D.feeds.map((f,i)=>
+    `<button class="fbtn${i===0?" on":""}" data-r="${f.rec}">📷 ${f.rec} (${f.dur}s)</button>`).join("");
+  function showFeed(f){
+    curFeed=f;
+    document.getElementById("videobox").innerHTML= f.video
+      ? `<video src="${f.video}" controls autoplay muted loop playsinline></video>`
+      : "<p style='color:var(--muted)'>영상 없음</p>";
+    document.getElementById("feedmeta").textContent=
+      `${f.rec} · ${f.n_frames}프레임 · ${f.dur}초 · 각 개체 bbox에 행동 라벨 표시`;
+  }
+  document.querySelectorAll("#feeds .fbtn").forEach(b=>b.onclick=()=>{
+    document.querySelectorAll("#feeds .fbtn").forEach(x=>x.classList.toggle("on",x===b));
+    showFeed(D.feeds.find(f=>f.rec===b.dataset.r));});
+  showFeed(curFeed);
+
+  document.getElementById("legend").innerHTML=D.legend.map(l=>
+    `<span class="grp"><span class="sw" style="background:${l.color}"></span>${l.cat} <span style="color:var(--muted);font-size:.72rem">(${l.behaviors.join(", ")})</span></span>`).join("");
 
   const bmax=Math.max(...D.behavior_dist.map(d=>d[1]));
   document.getElementById("behdist").innerHTML=D.behavior_dist.map(([b,c])=>`
     <div class="hbar"><span title="${b}">${b}</span><div class="track"><div class="fill" style="width:${c/bmax*100}%;background:var(--accent)"></div></div><b>${c}</b></div>`).join("");
-
-  document.getElementById("legend").innerHTML=D.legend.map(l=>
-    `<span class="grp"><span class="sw" style="background:${l.color}"></span>${l.cat} <span style="color:var(--muted);font-size:.72rem">(${l.behaviors.join(", ")})</span></span>`).join("");
 
   function ov(item,cls){
     return `<svg class="${cls}" viewBox="0 0 ${item.w} ${item.h}" preserveAspectRatio="none">`+
       item.boxes.map(b=>`<rect class="box" x="${b.x}" y="${b.y}" width="${b.w}" height="${b.h}" stroke="${b.color}"/>`+
       `<text class="lbl" x="${b.x+3}" y="${b.y+13}" fill="${b.color}">${b.behavior}</text>`).join("")+`</svg>`;
   }
-
-  // 행동 필터
-  let filter="all";
+  let bf="all";
   const allbeh=["all",...new Set(D.gallery.flatMap(g=>g.boxes.map(b=>b.behavior)))];
-  document.getElementById("filters").innerHTML=allbeh.map(b=>
+  document.getElementById("behfilters").innerHTML=allbeh.map(b=>
     `<button class="fbtn${b==="all"?" on":""}" data-b="${b}">${b==="all"?"전체 행동":b}</button>`).join("");
-  document.querySelectorAll(".fbtn").forEach(x=>x.onclick=()=>{
-    filter=x.dataset.b;document.querySelectorAll(".fbtn").forEach(y=>y.classList.toggle("on",y===x));render();});
+  document.querySelectorAll("#behfilters .fbtn").forEach(x=>x.onclick=()=>{
+    bf=x.dataset.b;document.querySelectorAll("#behfilters .fbtn").forEach(y=>y.classList.toggle("on",y===x));render();});
 
   function render(){
-    const items=D.gallery.filter(g=>filter==="all"||g.boxes.some(b=>b.behavior===filter));
+    const items=D.gallery.filter(g=>bf==="all"||g.boxes.some(b=>b.behavior===bf));
     document.getElementById("gcount").textContent="("+items.length+")";
     document.getElementById("grid").innerHTML=items.map(g=>{
       const behs=[...new Set(g.boxes.map(b=>b.behavior))];
-      return `<div class="tile" data-f="${g.frame_no}">
+      return `<div class="tile" data-k="${g.feed}|${g.frame_no}">
         <div class="imgbox"><img src="${g.img}" loading="lazy">${ov(g,"ov")}</div>
-        <div class="cap"><span>frame ${g.frame_no}</span><span>${g.boxes.length}두 · ${behs.length}행동</span></div></div>`;
+        <div class="cap"><span>${g.feed} · F${g.frame_no}</span><span>${g.boxes.length}두 · ${behs.length}행동</span></div></div>`;
     }).join("");
-    document.querySelectorAll(".tile").forEach(t=>t.onclick=()=>openM(+t.dataset.f));
+    document.querySelectorAll(".tile").forEach(t=>t.onclick=()=>openM(t.dataset.k));
   }
-  function openM(fn){
-    const g=D.gallery.find(x=>x.frame_no===fn);
+  function openM(k){
+    const g=D.gallery.find(x=>(x.feed+"|"+x.frame_no)===k);
     const behs=[...new Set(g.boxes.map(b=>b.behavior))].join(", ");
     document.getElementById("mbody").innerHTML=
-      `<div style="font-weight:700;margin-bottom:8px">frame ${g.frame_no} <span style="color:var(--muted);font-weight:400">· ${g.boxes.length}두 · ${behs}</span></div>
+      `<div style="font-weight:700;margin-bottom:8px">${g.feed} · frame ${g.frame_no} <span style="color:var(--muted);font-weight:400">· ${g.boxes.length}두 · ${behs}</span></div>
        <div class="imgbox">${`<img src="${g.img}">`}${ov(g,"ov")}</div>`;
     document.getElementById("modal").classList.add("on");
   }
