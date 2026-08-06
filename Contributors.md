@@ -3709,7 +3709,7 @@ hey yo!
 - [Noah Menezes](https://github.com/NoahMenezes)
 - [yy381](https://github.com/yiyang381/)
 - [Chirag Neelgund](https://github.com/Chirrrag17)
-- [Swetha Chigurupati] (https://github.com/marioworld99)
+- [Swetha Chigurupati](https://github.com/marioworld99)
 - [Arun Lama](https://github.com/arun-2057)
 - [Youssouf123-coder](https://github.com/Youssouf123-coder)
 Nici30067
@@ -3766,7 +3766,7 @@ Nici30067
 - [Beatriz Azevedo](https://github.com/biahandradeaz-hash)
 - [Guhan Thangarasu](https://github.com/GUHAN0205)
 - [Eliatan Gabriel](https://github.com/EliatanGabriel)
-- [Banky O] (https://github.com/engrbanky-hash)
+- [Banky O](https://github.com/engrbanky-hash)
 - [Saverio Traversa](https://github.com/saveriot)
 - [Drew Ramos](https://github.com/drewsElearning) 
 - [Vigneshwaran](https://github.com/Vikki-2006)
@@ -3788,7 +3788,7 @@ Nici30067
 - [evazoka](https://github.com/evazoka)
 - [jiu99203](https://github.com/jiu99203)
 - [Vitor Faria](https://github.com/CriativoStudio)
-- Roberto Ogalino
+- [Roberto-Ogalino]
 - [Felipe Faria](https://github.com/felipeffaria)
 - [Naziya Shah](https://github.com/naziyashah)
 - [Mateus Lerbach](https://github.com/9n5bwsdysc-code)
@@ -3846,13 +3846,13 @@ Harish K
 - [Supran Bajracharya](https://github.com/supran8657)
 - [Mukesh soni](https://github.com/mukeshsoni5937)
 - [Chris Boat](https://github.com/Chris-code-tech)
-- [Guillermo Barreto] (https://github.com/GuillermoBarreto)
-- [Claudio Ibe] (https://github.com/0xclaudi0)
+- [Guillermo Barreto](https://github.com/GuillermoBarreto)
+- [Claudio Ibe](https://github.com/0xclaudi0)
 - [Dibyaranjan Sahoo](https://github.com/dibya024)
 - [Mark Remon](https://github.com/mark2remon-creator)
 - [Jocky-Jazz](https://github.com/Jocky-Jazz)
 - [Alok Jadhao](https://github.com/Alok-Jadhao)
-- [Ankit Kumar]
+- [Ankit-Kumar]
 - [Thiago Costa](https://github.com/thicosta-dev)
 - [Edwin](https://github.com/edwinemps98-hue)
 - [Reoixero]
