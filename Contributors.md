@@ -35,6 +35,7 @@
 - [Jaya Nallapati] (https://github.com/jaya103)
 - [Bas]
 - [Jemelrey Abastillas](https://github.com/Jembilog)
+-[Antrika Kashyap](https://github.com/antrika02)
 - [V.Pranavi](https://github.com/pranavivaranasi07-dev)
 - [antoni306] (https://github.com/antoni306)
 - [adwait zanjurne](https://github.com/adwaitzanjurnepz-netizen)
@@ -1935,6 +1936,7 @@ Amna Naeem
 - [n-noraf](https://github.com/n-noraf)
 - [Nicolas Lefterache](https://github.com/Nick-codes-47)
 - [Nicolas Antonio](https://github.com/nicolasantonioa)
+
 - [Nicoleeee Unilag] (https://github.com/justnicolee)
 - [Nidhi Chougule](https://github.com/nidhichougule)
 - [Nidhi Kumari](https://github.com/nidhii-dev)
