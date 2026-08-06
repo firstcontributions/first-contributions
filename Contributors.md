@@ -5,6 +5,7 @@
 - [Rakhi Jamdade]
 - [LizC AU](https://github.com/lizc-au)
 - [Yush] (https://github.com/yushtr)
+- [Ranzeus](https://github.com/Ranzeus)
 - [abdelrahman-mahmoud](https://github.com/abdelrahman-amrawy)
 - [Rakshita Bangera](https://github.com/RakshitaBangera)
 - [Yash Badhe]
@@ -18,6 +19,7 @@
 - [Om Ingle](https://github.com/Om-ingle)
 - [JanLancelot] (https://github.com/JanLancelot)
 - [Kamyar Azizi](https://github.com/KamyarAzz)
+- [Eugenio Coimbra](https://github.com/nennno)
 - [lukedryan] (https://github.com/lukedryan)
 - [Aditya Vatsa] (https://github.com/VatsAditya48)
 - [saiyarram]
