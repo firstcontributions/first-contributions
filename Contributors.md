@@ -3914,5 +3914,6 @@ Harish K
 - [Talha Çaydere](https://github.com/talhacaydere)
 - [Max Campos](https://github.com/maxcamposdev)- [Krshs90](https://github.com/Krshs90)
 - [Nikita Malhotra](https://github.com/malhotranikita2024-coder)
-- [Ved Akash Amte](https://github.com/amteved-lang)
+- [QoLamdaS](https://github.com/QoLamdaS)
+
 
