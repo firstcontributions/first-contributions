@@ -1,6 +1,7 @@
 # Contributors
 
 - [Rakhi Jamdade]
+- [Yush] (https://github.com/yushtr)
 - [abdelrahman-mahmoud](https://github.com/abdelrahman-amrawy)
 - [Rakshita Bangera](https://github.com/RakshitaBangera)
 - [Yash Badhe]
