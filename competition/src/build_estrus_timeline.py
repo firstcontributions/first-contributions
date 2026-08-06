@@ -27,6 +27,7 @@ ROOT = os.path.dirname(os.path.dirname(HERE))
 sys.path.insert(0, HERE)
 import aihub_estrus_reference as ref  # noqa: E402
 import iou_tracker as trk  # noqa: E402
+import model_behavior_appearance as mba  # noqa: E402
 
 OUT = os.path.join(ROOT, "competition", "dashboard", "estrus_timeline.html")
 EDIN = os.path.join(ROOT, "competition", "data", "edinburgh")
@@ -82,10 +83,33 @@ def per_track_estrus(members, act_ref, reference):
     return frames, scores
 
 
+def compute_feats(folder, video, seq):
+    """영상 1패스로 박스별 외형 피처 → frames_feats."""
+    cap = cv2.VideoCapture(video)
+    needed = {fn * STEP: i for i, (fn, _, _) in enumerate(seq)}
+    feats_by_fn = {}
+    idx = 0
+    while True:
+        ok, fr = cap.read()
+        if not ok:
+            break
+        if idx in needed:
+            fn, boxes, _ = seq[needed[idx]]
+            feats_by_fn[fn] = [mba.crop_feats(fr[max(0, y):y+h, max(0, x):x+w])
+                               for (x, y, w, h) in boxes]
+        idx += 1
+    cap.release()
+    return [(fn, b, m, feats_by_fn.get(fn, [None]*len(b))) for fn, b, m in seq]
+
+
 def build(folder, video):
     seq = load_frames(folder)
-    tracks = trk.track_sequence(seq, iou_thr=0.3, max_age=5)  # ID 일관성 우선
+    # 외형 Re-ID 추적(위치 게이트) — 단편화 감소. 순수 IoU 는 비교용.
+    ff = compute_feats(folder, video, seq)
+    tracks = trk.track_sequence_reid(ff, iou_thr=0.3, max_age=5,
+                                     reid_thr=0.93, reid_memory=90, reid_max_dist=90)
     ev = trk.evaluate_vs_gt(tracks)
+    ev_plain = trk.evaluate_vs_gt(trk.track_sequence(seq, iou_thr=0.3, max_age=5))
     reference = ref.EstrusReference()
 
     # 활동 정규화 기준
@@ -130,6 +154,8 @@ def build(folder, video):
         "meta": {"rec": os.path.basename(folder.rstrip("/")),
                  "n_tracks": ev["n_tracks"], "n_long": len(tl), "n_gt": ev["n_gt"],
                  "id_consistency": ev["id_consistency"], "fragments": ev["fragments"],
+                 "n_tracks_plain": ev_plain["n_tracks"],
+                 "consistency_plain": ev_plain["id_consistency"],
                  "n_suspect": sum(1 for t in tl if t["peak_score"] >= 0.6)},
         "tracks": tl, "video": video_uri,
     }
@@ -249,6 +275,13 @@ def main() -> int:
 <div class="kpi"><div class="v">{m['n_gt']}</div><div class="l">실제 개체(GT)</div></div>
 <div class="kpi"><div class="v">{m['n_suspect']}</div><div class="l">발정 의심(≥60%)</div></div>
 </div>
+<div class="card"><h2>추적 방식 비교 (외형 Re-ID + 위치 게이트)</h2>
+<div style="font-size:.85rem;color:var(--ink2)">
+순수 IoU: 트랙 <b>{m['n_tracks_plain']}</b>개 · ID일관성 <b>{m['consistency_plain']:.2f}</b><br>
+외형 Re-ID: 트랙 <b>{m['n_tracks']}</b>개 · ID일관성 <b>{m['id_consistency']:.2f}</b>
+<span style="color:#0ca30c">(단편 {(1-m['n_tracks']/m['n_tracks_plain'])*100:.0f}%↓)</span></div>
+<div class="note">Re-ID 로 끊긴 트랙을 되살려 <b>단편화를 줄였다</b>(개체별 타임라인이 덜 쪼개짐).
+돼지는 외형이 비슷해 병합 시 일관성이 소폭 낮아지는 것이 한계 — 딥 Re-ID(메트릭 학습)가 다음 레버.</div></div>
 <div class="card"><h2>📹 추적 영상 (개체 ID + 발정 수준 색)</h2>{vid}
 <div class="lg">박스 색 = 발정 점수: <b style="color:#0ca30c">낮음</b> → <b style="color:#fab219">주의</b> → <b style="color:#ec835a">경계</b> → <b style="color:#d03b3b">높음</b>. 라벨 #ID %발정.</div></div>
 <div class="card"><h2>개체별 발정 타임라인 (발정 점수↓순)</h2>{rows}
