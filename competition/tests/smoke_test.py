@@ -180,13 +180,24 @@ def test_appearance_crop_feats() -> None:
     assert mba.crop_feats(None).shape == (40,)
 
 
+def test_iou_tracker() -> None:
+    """IoU 추적기: 이동하는 두 개체에 안정적 ID 부여."""
+    import iou_tracker as trk
+    frames = [(f, [(f * 2, 10, 20, 20), (100 - f, 100, 20, 20)],
+               [{"gt": "A"}, {"gt": "B"}]) for f in range(10)]
+    tracks = trk.track_sequence(frames)
+    ev = trk.evaluate_vs_gt(tracks)
+    assert ev["n_tracks"] == 2 and ev["id_consistency"] == 1.0
+    assert trk.iou((0, 0, 10, 10), (0, 0, 10, 10)) == 1.0
+
+
 def main() -> int:
     tests = [test_dependencies_import, test_aihub_client_no_key,
              test_pipeline_runs, test_aihub_parsers,
              test_pipeline_gilt_integration, test_estrus_onset_and_dashboard,
              test_edinburgh_parser, test_posture_eval_mapping,
              test_view_align_feats, test_estrus_link, test_aihub_reference,
-             test_appearance_crop_feats]
+             test_appearance_crop_feats, test_iou_tracker]
     failed = 0
     for t in tests:
         try:

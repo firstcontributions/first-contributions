@@ -22,5 +22,7 @@ run $SRC/build_posture_gallery.py
 VID=$(ls /tmp/edvid/color.mp4 /tmp/edin_vids/2019_11_05_000009/color.mp4 2>/dev/null | head -1)
 [ -n "$VID" ] && run $SRC/build_behavior_gallery.py competition/data/edinburgh/2019_11_05/000009 "$VID"
 # 통합 허브(마지막)
+VID2=$(ls /tmp/edvid/color.mp4 /tmp/edin_vids/2019_11_05_000009/color.mp4 2>/dev/null | head -1)
+[ -n "$VID2" ] && run $SRC/build_estrus_timeline.py competition/data/edinburgh/2019_11_05/000009 "$VID2"
 run $SRC/build_dashboard_hub.py
 echo "완료 → competition/dashboard/index.html 를 브라우저로 여세요."
