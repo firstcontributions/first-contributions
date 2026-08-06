@@ -170,12 +170,23 @@ def test_aihub_reference() -> None:
     assert round(m["restless"], 3) == 0.6 and m["lying"] == 0.4
 
 
+def test_appearance_crop_feats() -> None:
+    """외형 크롭 피처가 40차원으로 산출되는지(더미 이미지)."""
+    import numpy as np
+    import model_behavior_appearance as mba
+    dummy = (np.random.rand(60, 40, 3) * 255).astype("uint8")
+    f = mba.crop_feats(dummy)
+    assert f.shape == (40,)
+    assert mba.crop_feats(None).shape == (40,)
+
+
 def main() -> int:
     tests = [test_dependencies_import, test_aihub_client_no_key,
              test_pipeline_runs, test_aihub_parsers,
              test_pipeline_gilt_integration, test_estrus_onset_and_dashboard,
              test_edinburgh_parser, test_posture_eval_mapping,
-             test_view_align_feats, test_estrus_link, test_aihub_reference]
+             test_view_align_feats, test_estrus_link, test_aihub_reference,
+             test_appearance_crop_feats]
     failed = 0
     for t in tests:
         try:

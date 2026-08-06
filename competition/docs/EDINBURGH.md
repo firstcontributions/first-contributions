@@ -109,3 +109,9 @@ python competition/src/build_posture_gallery.py # 사진·영상 프론트 생�
 동일 개체 시계열 구조라, 71471 라벨을 로컬(국내)에서 받아 `parse_aihub.py`
 (또는 파일명/필드에 맞춘 소폭 수정)로 같은 프레임 스키마를 만들면 이 행동/활동
 파이프라인과 발정 모델을 그대로 적용할 수 있다.
+
+## 행동 인식 개선 — 외형 피처
+
+`model_behavior_appearance.py`: 영상 크롭의 HSV 색·그래디언트 방향 히스토그램(40-D)을
+기하+모션 피처에 추가. 실데이터(6녹화·48개체) before/after: 정확도 0.432→0.491,
+Macro-F1 0.301→0.375. 영상 캐시(/tmp/edin_vids) 필요.
