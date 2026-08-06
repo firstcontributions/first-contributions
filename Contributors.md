@@ -3941,3 +3941,4 @@ abhinav abhinav
 - [BujesL](https://github.com/BujesL)
 
 - [Gloria Velasco](https://github.com/gvelascopena)
+- [danielstnx-ctrl](https://github.com/danielstnx-ctrl)
