@@ -263,6 +263,17 @@ def test_estrus_early_warning() -> None:
     assert tl["alert_day"] is not None
 
 
+def test_repro_dashboard_svg() -> None:
+    """번식 대시보드 SVG 헬퍼: 막대·라인차트가 유효 SVG 를 내는지."""
+    import build_repro_dashboard as brd
+    svg = brd.hbar([("A", 3, "#111", "3두"), ("B", 1, "#222", "1두")])
+    assert svg.startswith("<svg") and svg.rstrip().endswith("</svg>")
+    ex = {"normal": {"days": [0, 1, 2], "scores": [0.2, 0.5, 0.8],
+                     "onset": 2, "imminent": 1, "alert": None}}
+    chart, legend = brd.line_chart(ex)
+    assert "<polyline" in chart and "발정 임계" in chart and "정상 발정" in legend
+
+
 def main() -> int:
     tests = [test_dependencies_import, test_aihub_client_no_key,
              test_pipeline_runs, test_aihub_parsers,
@@ -271,7 +282,8 @@ def main() -> int:
              test_view_align_feats, test_estrus_link, test_aihub_reference,
              test_appearance_crop_feats, test_iou_tracker,
              test_eval_report_figs, test_estrus_reference_validation,
-             test_repro_cause_attribution, test_estrus_early_warning]
+             test_repro_cause_attribution, test_estrus_early_warning,
+             test_repro_dashboard_svg]
     failed = 0
     for t in tests:
         try:
