@@ -243,6 +243,26 @@ def test_repro_cause_attribution() -> None:
          "age_over_target": 0}, risk=0.1) == "정상"
 
 
+def test_estrus_early_warning() -> None:
+    """발정 조기경보: D-day 외삽·경보 상태·리드타임 동작."""
+    import estrus_early_warning as ew
+    # 상승 추세 → 임계 도달일 외삽
+    d = ew.predict_onset_day([0, 1, 2, 3], [0.2, 0.3, 0.4, 0.5])
+    assert d is not None and d > 3
+    # 정체 추세 → 예측 없음
+    assert ew.predict_onset_day([0, 1, 2], [0.2, 0.2, 0.2]) is None
+    # 발정 도래(임계 지속) → 상태 '발정 확인'
+    days = list(range(10)); sc = [0.2, 0.25, 0.3, 0.4, 0.6, 0.7, 0.75, 0.8, 0.82, 0.85]
+    a = ew.assess(days, sc)
+    assert a["state"] == "발정 확인" and a["onset_actual"] is not None
+    # 끝까지 낮음 → 무발정 경보
+    flat = ew.assess(list(range(22)), [0.2] * 22)
+    assert flat["state"] == "무발정 경보"
+    # 타임라인: 지연 개체는 지연/무발정 경보가 발화
+    tl = ew.timeline(list(range(22)), [0.2] * 8 + [0.3, 0.5, 0.7, 0.8] + [0.85] * 10)
+    assert tl["alert_day"] is not None
+
+
 def main() -> int:
     tests = [test_dependencies_import, test_aihub_client_no_key,
              test_pipeline_runs, test_aihub_parsers,
@@ -251,7 +271,7 @@ def main() -> int:
              test_view_align_feats, test_estrus_link, test_aihub_reference,
              test_appearance_crop_feats, test_iou_tracker,
              test_eval_report_figs, test_estrus_reference_validation,
-             test_repro_cause_attribution]
+             test_repro_cause_attribution, test_estrus_early_warning]
     failed = 0
     for t in tests:
         try:
