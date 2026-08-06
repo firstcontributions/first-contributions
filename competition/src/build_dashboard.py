@@ -27,7 +27,7 @@ import pipeline_gilt  # noqa: E402
 import train as train_mod  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(HERE))
-OUT_HTML = os.path.join(ROOT, "competition", "dashboard", "index.html")
+OUT_HTML = os.path.join(ROOT, "competition", "dashboard", "gilt_dashboard.html")
 TEMPLATE = os.path.join(ROOT, "competition", "dashboard", "template.html")
 
 FEATURE_KO = {
