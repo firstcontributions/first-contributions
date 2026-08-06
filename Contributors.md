@@ -3911,4 +3911,4 @@ Harish K
 - [constertine](https://github.com/constertine)
 - [Talha Çaydere](https://github.com/talhacaydere)
 - [Max Campos](https://github.com/maxcamposdev)- [Krshs90](https://github.com/Krshs90)
->>>>>>> upstream/main
+- [Nikita Malhotra](https://github.com/malhotranikita2024-coder)
