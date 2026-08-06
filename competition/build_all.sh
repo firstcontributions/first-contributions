@@ -15,6 +15,7 @@ run $SRC/build_reference_report.py ${AIHUB_71471:-}
 run $SRC/build_analysis_report.py
 run $SRC/build_edinburgh_dashboard.py competition/data/edinburgh_frames.csv
 run $SRC/build_activity_analysis.py
+run $SRC/build_eval_report.py
 # 탐색 뷰
 run $SRC/build_detection_viewer.py
 run $SRC/build_posture_gallery.py

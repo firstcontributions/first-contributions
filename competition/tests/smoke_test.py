@@ -191,13 +191,32 @@ def test_iou_tracker() -> None:
     assert trk.iou((0, 0, 10, 10), (0, 0, 10, 10)) == 1.0
 
 
+def test_eval_report_figs() -> None:
+    """평가 리포트 그림 생성(혼동행렬·ROC/PR/보정)이 data URI 를 내는지."""
+    import numpy as np
+    import build_eval_report as ev
+    rng = np.random.default_rng(0)
+    y = rng.integers(0, 2, 200)
+    proba = np.clip(0.5 + 0.3 * (y - 0.5) + rng.normal(0, 0.2, 200), 0, 1)
+    uri, mets = ev.curves_fig(y, proba, "test")
+    assert uri.startswith("data:image/png;base64,")
+    assert 0.0 <= mets["auc"] <= 1.0 and "brier" in mets
+    labels = ["a", "b", "c"]
+    yc = rng.choice(labels, 90); pc = rng.choice(labels, 90)
+    cm = ev.confusion_fig(yc, pc, labels, "test")
+    assert cm.startswith("data:image/png;base64,")
+    rows = ev.perclass_bars(yc, pc, labels)
+    assert "<tr>" in rows
+
+
 def main() -> int:
     tests = [test_dependencies_import, test_aihub_client_no_key,
              test_pipeline_runs, test_aihub_parsers,
              test_pipeline_gilt_integration, test_estrus_onset_and_dashboard,
              test_edinburgh_parser, test_posture_eval_mapping,
              test_view_align_feats, test_estrus_link, test_aihub_reference,
-             test_appearance_crop_feats, test_iou_tracker]
+             test_appearance_crop_feats, test_iou_tracker,
+             test_eval_report_figs]
     failed = 0
     for t in tests:
         try:
