@@ -1332,6 +1332,7 @@ Amna Naeem
 - [Atharva Ghayal](https://github.com/atharvaghayal)
 - [Atharva Jadhav](https://github.com/DrDrunkenstien-10)
 - [Athulkrishna](https://github.com/AthulKrishna-736)
+- [JoaoLazaroSilveira](https://github.com/jlazarosilveira)
 - [Leo Davidson](https://github.com/leod6112)
 - [Atul Pandey](https://github.com/atulpandey9)
 - [Avani J C](https://github.com/Avani24-byte)
