@@ -3907,4 +3907,4 @@ Harish K
  main
 - [constertine](https://github.com/constertine)
 - [Talha Çaydere](https://github.com/talhacaydere)
-- [Max Campos](https://github.com/maxcamposdev)
+- [Max Campos](https://github.com/maxcamposdev)- [Krshs90](https://github.com/Krshs90)
