@@ -1,5 +1,7 @@
 # Contributors
 
+
+
 - [Rakhi Jamdade]
 - [LizC AU](https://github.com/lizc-au)
 - [Yush] (https://github.com/yushtr)
@@ -39,6 +41,7 @@
 - [Jemelrey Abastillas](https://github.com/Jembilog)
 -[Antrika Kashyap](https://github.com/antrika02)
 - [V.Pranavi](https://github.com/pranavivaranasi07-dev)
+-[Rakshita.Naik](https://github.com/rakshiknaik211-netizen/first-contributions)
 - [antoni306] (https://github.com/antoni306)
 - [adwait zanjurne](https://github.com/adwaitzanjurnepz-netizen)
 - [taehunkang36](https://github.com/taehunkang36)
