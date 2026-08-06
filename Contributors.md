@@ -38,6 +38,7 @@
 - [Nay Nelson](https://github.com/estrogenius)
 - [Jaya Nallapati] (https://github.com/jaya103)
 - [Bas]
+- [Mariam Hassan](https://github.com/mariamhmousa)
 - [Jemelrey Abastillas](https://github.com/Jembilog)
 -[Antrika Kashyap](https://github.com/antrika02)
 - [V.Pranavi](https://github.com/pranavivaranasi07-dev)
