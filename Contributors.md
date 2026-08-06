@@ -1295,6 +1295,7 @@ Amna Naeem
 - [Niranjan K S](https://github.com/AU-DEN)
 - [Anna Chong](https://github.com/DsharpMaj7)
 - [Anson Chen](https://github.com/zhonganchen-anson)
+- [Antaryami Sahu](https://github.com/Antaryami-044)
 - [inchoel jeon](https://github.com/peefe2)
 - [Tenzin Woesel Kunsang Lama](https://github.com/woesel-dev)
 - [Anuja Wanigasekara](https://github.com/Anuja222)
