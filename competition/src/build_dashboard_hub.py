@@ -22,7 +22,7 @@ VIEWS = [
     ("reference_report.html", "발정 표준 리포트", "AI Hub 71471 발정 기준으로 케글 데이터 분석 + 실영상 근거", "🎯", "분석"),
     ("edinburgh.html", "활동·발정 모니터링", "개체 시계열 활동량 + 행동→발정 의심 지수", "📈", "분석"),
     ("analysis_report.html", "종합 분석 리포트", "행동 인식·자세 일반화(내부/교차-뷰/교차-데이터셋)", "📊", "분석"),
-    ("behavior_gallery.html", "행동 확인 (실영상)", "돈방 CCTV 영상 프레임에 행동 bbox+라벨", "🎬", "탐색"),
+    ("behavior_gallery.html", "행동 확인 (실영상)", "6대 카메라 CCTV 피드(각 20초) + 행동 bbox+라벨", "🎬", "탐색"),
     ("posture_gallery.html", "자세 인식 (사진·영상)", "자세 5클래스 bbox(정답/예측) 사진·영상", "🧍", "탐색"),
     ("detection_viewer.html", "탐지 뷰어 (검색)", "파일명·축사번호로 검색 → 돼지 탐지 즉시 표시", "🔍", "탐색"),
     ("activity_analysis.html", "탐지 기반 행동분석", "축사·세션별 점유 heatmap + 활동량 추이", "🗺️", "분석"),

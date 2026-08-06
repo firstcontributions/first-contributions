@@ -42,8 +42,8 @@ CATS = {
 }
 BEH_COLOR = {b: c for _, (bs, c) in CATS.items() for b in bs}
 STEP = 3
-MAX_FEEDS = 3          # 카메라 피드 수
-VID_FRAMES = 300       # 피드당 최대 프레임(장척)
+MAX_FEEDS = 6          # 카메라 피드 수
+VID_FRAMES = 200       # 피드당 최대 프레임(장척)
 VID_FPS = 10           # 재생 fps
 VID_W = 560
 GALLERY_PER_FEED = 6
