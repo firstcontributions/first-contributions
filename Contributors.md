@@ -1,6 +1,7 @@
 # Contributors
 
 - [Rakhi Jamdade]
+- [Yush] (https://github.com/yushtr)
 - [abdelrahman-mahmoud](https://github.com/abdelrahman-amrawy)
 - [Rakshita Bangera](https://github.com/RakshitaBangera)
 - [Yash Badhe]
@@ -3894,6 +3895,9 @@ Harish K
 - [Amrita Bhardwaj](https://github.com/amrita321-art)
 - Yoshi Kita
 - [cg123999](https://github.com/cg123999)
+<<<<<<< HEAD
+- [Rudra Atul Dahikar](https://github.com/Rudramsd7)
+=======
 - [CongYuuu](https://github.com/CongYuuu)
 - [Ricardo Rocha](https://github.com/r0charm)
 - [Hassan](https://github.com/muhammadhassanoffi-cs)
@@ -3908,3 +3912,4 @@ Harish K
 - [constertine](https://github.com/constertine)
 - [Talha Çaydere](https://github.com/talhacaydere)
 - [Max Campos](https://github.com/maxcamposdev)- [Krshs90](https://github.com/Krshs90)
+>>>>>>> upstream/main
