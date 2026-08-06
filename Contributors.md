@@ -3939,3 +3939,5 @@ abhinav abhinav
 - [Caleb33-del](https://github.com/Caleb33-del)
 - [林清渊](https://github.com/userlinqingyuan)
 - [BujesL](https://github.com/BujesL)
+
+- [Gloria Velasco](https://github.com/gvelascopena)
