@@ -31,6 +31,7 @@
 - [Abhinav Bhatpude](https://github.com/abhinav05-bhatpude)
 - [Rishabh Jaiswal] (https://github.com/rishabhjaiswal)
 - [Saurabh Chaudhary](https://github.com/saurabhcr007)Azure5821
+- [Nay Nelson](https://github.com/estrogenius)
 - [Jaya Nallapati] (https://github.com/jaya103)
 - [Bas]
 - [Jemelrey Abastillas](https://github.com/Jembilog)
