@@ -3898,9 +3898,7 @@ Harish K
 - [Amrita Bhardwaj](https://github.com/amrita321-art)
 - Yoshi Kita
 - [cg123999](https://github.com/cg123999)
-<<<<<<< HEAD
 - [Rudra Atul Dahikar](https://github.com/Rudramsd7)
-=======
 - [CongYuuu](https://github.com/CongYuuu)
 - [Ricardo Rocha](https://github.com/r0charm)
 - [Hassan](https://github.com/muhammadhassanoffi-cs)
@@ -3911,7 +3909,6 @@ Harish K
 - [yorkyang2333](https://github.com/yorkyang2333)
 - [Fabian Graef](https://github.com/fabiangraef001-wq)
 - [Maroyan Putros](https://github.com/maroyanp)
- main
 - [constertine](https://github.com/constertine)
 - [Talha Çaydere](https://github.com/talhacaydere)
 - [Max Campos](https://github.com/maxcamposdev)- [Krshs90](https://github.com/Krshs90)
