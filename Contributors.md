@@ -5,6 +5,7 @@
 - [Rakhi Jamdade]
 - [LizC AU](https://github.com/lizc-au)
 - [Yush] (https://github.com/yushtr)
+- [Ranzeus](https://github.com/Ranzeus)
 - [abdelrahman-mahmoud](https://github.com/abdelrahman-amrawy)
 - [Rakshita Bangera](https://github.com/RakshitaBangera)
 - [Yash Badhe]
