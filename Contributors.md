@@ -94,7 +94,6 @@
 - [Aradhana Behera](https://github.com/Aradhana1225)
 - [Paras Agarwal](https://github.com/ParasxAgarwal)
 - [Vinay Shakelli](https://github.com/VinayShakelli)
-- [Shardul Jadhav](https://github.com/jshardul26)
 - [miguelessecond](https://github.com/miguelessecond)
 - [Vayu Datta](https://github.com/vayudattasamasthanik-rgb)
 - [R Sujay Bharadwaj](https://github.com/SujayBWJ)
@@ -3920,7 +3919,9 @@ Harish K
 - [Max Campos](https://github.com/maxcamposdev)- [Krshs90](https://github.com/Krshs90)
 - [Nikita Malhotra](https://github.com/malhotranikita2024-coder)
 - [QoLamdaS](https://github.com/QoLamdaS)
+- [Ravi Muliki](https://github.com/Ravi7035/)
 - [Heena](https://linkedin.com/in/heena-jangra-b44966418)
+
 
 
 abhinav abhinav
