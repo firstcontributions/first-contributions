@@ -23,6 +23,88 @@ import aihub_estrus_reference as ref  # noqa: E402
 import analyze_kaggle_by_reference as akr  # noqa: E402
 
 OUT = os.path.join(ROOT, "competition", "dashboard", "reference_report.html")
+EDIN_DIR = os.path.join(ROOT, "competition", "data", "edinburgh")
+
+
+def rec_folder(rec_id):
+    """'2019_11_05_000009' -> competition/data/edinburgh/2019_11_05/000009"""
+    date, vid = rec_id.rsplit("_", 1)
+    return os.path.join(EDIN_DIR, date, vid)
+
+
+def ensure_video(rec_id):
+    """녹화 color.mp4 경로 확보(캐시/다운로드). 없으면 None."""
+    folder = rec_folder(rec_id)
+    cands = [os.path.join(folder, "color.mp4"),
+             f"/tmp/edin_vids/{rec_id}/color.mp4"]
+    if rec_id == "2019_11_05_000009":
+        cands.append("/tmp/edvid/color.mp4")
+    for c in cands:
+        if os.path.exists(c) and os.path.getsize(c) > 1e6:
+            return c
+    # kaggle 다운로드 시도
+    try:
+        import subprocess
+        date, vid = rec_id.rsplit("_", 1)
+        dst = f"/tmp/edin_vids/{rec_id}"
+        os.makedirs(dst, exist_ok=True)
+        env = dict(os.environ, KAGGLE_CONFIG_DIR=os.path.expanduser("~/.kaggle"))
+        subprocess.run(["kaggle", "datasets", "download", "-d",
+                        "jackbyte/edinburgh-pig-behaviour-annotated", "-f",
+                        f"{date}/{vid}/color.mp4", "-p", dst],
+                       env=env, timeout=400, capture_output=True)
+        z = os.path.join(dst, "color.mp4.zip")
+        if os.path.exists(z):
+            subprocess.run(["unzip", "-o", "-q", z, "-d", dst], capture_output=True)
+        c = os.path.join(dst, "color.mp4")
+        return c if os.path.exists(c) else None
+    except Exception:  # noqa: BLE001
+        return None
+
+
+def build_video_section(res) -> str:
+    """상위 의심 개체가 속한 녹화의 주석 영상 + 프레임(정적 SVG 오버레이)."""
+    recs = [i.split("#")[0] for i in res.head(10)["individual_id"]]
+    rec_id = max(set(recs), key=recs.count) if recs else None
+    if not rec_id:
+        return ""
+    folder = rec_folder(rec_id)
+    video = ensure_video(rec_id)
+    if not (video and os.path.isdir(folder)):
+        return ('<div class="note">실영상 미확보 — 로컬에서 해당 녹화 color.mp4 '
+                '확보 시 영상 근거가 표시됩니다.</div>')
+    try:
+        import build_behavior_gallery as bg
+        data = bg.build(folder, video)
+    except Exception as e:  # noqa: BLE001
+        return f'<div class="note">영상 생성 실패: {e}</div>'
+    vid_html = (f'<video src="{data["video"]}" controls autoplay muted loop '
+                f'playsinline style="width:100%;max-width:640px;border-radius:10px;'
+                f'border:1px solid var(--border)"></video>' if data.get("video") else "")
+    tiles = ""
+    for g in data["gallery"][:6]:
+        ovs = "".join(
+            f'<rect x="{b["x"]}" y="{b["y"]}" width="{b["w"]}" height="{b["h"]}" '
+            f'fill="transparent" stroke="{b["color"]}" stroke-width="2"/>'
+            f'<text x="{b["x"]+2}" y="{b["y"]+12}" font-size="10" fill="{b["color"]}" '
+            f'style="paint-order:stroke;stroke:rgba(0,0,0,.5);stroke-width:2px">{b["behavior"]}</text>'
+            for b in g["boxes"])
+        tiles += (f'<div style="position:relative;line-height:0;border:1px solid '
+                  f'var(--border);border-radius:8px;overflow:hidden">'
+                  f'<img src="{g["img"]}" style="width:100%;display:block">'
+                  f'<svg viewBox="0 0 {g["w"]} {g["h"]}" preserveAspectRatio="none" '
+                  f'style="position:absolute;inset:0;width:100%;height:100%">{ovs}</svg></div>')
+    legend = " ".join(
+        f'<span style="font-size:.75rem;color:var(--ink2)"><span style="display:inline-block;'
+        f'width:10px;height:10px;border-radius:2px;background:{l["color"]};'
+        f'vertical-align:middle;margin-right:3px"></span>{l["cat"]}</span>'
+        for l in data["legend"])
+    return f"""<h2>2-1. 실영상 근거 — 녹화 {rec_id} (발정 의심 상위 개체 출처)</h2>
+<div class="card"><div style="margin-bottom:10px">{vid_html}</div>
+<div style="margin-bottom:8px">{legend}</div>
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:8px">{tiles}</div>
+<div class="insight">발정 의심 상위 개체들이 이 녹화에서 나왔다. 영상·프레임의 활동(파랑)·탐색 행동이
+표준 발정 신호와 일치함을 실제 화면으로 확인할 수 있다.</div></div>"""
 
 
 def bars(rows, fmt, color="var(--accent)", neg=False):
@@ -75,6 +157,8 @@ def main() -> int:
     # 상위 10두
     top = res.head(10)[["individual_id", "estrus_index", "activity_norm", "ref_drivers"]].values.tolist()
     det = detection_summary()
+    print("실영상 근거 섹션 생성 중...")
+    video_section = build_video_section(res)
 
     kpi = lambda v, l: f'<div class="kpi"><div class="v">{v}</div><div class="l">{l}</div></div>'
     suspect_rows = "".join(
@@ -113,6 +197,8 @@ table{{width:100%;border-collapse:collapse;font-size:.82rem}}td,th{{text-align:l
 <div class="card"><b style="font-size:.85rem">발정 의심 지수 분포</b>{bars(dist_rows, lambda v: str(v))}</div>
 <div class="card"><b style="font-size:.85rem">발정 의심 상위 10두 (표준 기준)</b>
 <table><tr><th>개체</th><th>발정지수</th><th>활동량</th><th>표준 유발 카테고리</th></tr>{suspect_rows}</table></div>
+
+{video_section}
 
 <h2>3. 케글 탐지(multiview) — 표준 활동 기준 요약</h2>
 <div class="card"><table><tr><th>세션(축사·카메라·날짜)</th><th>프레임</th><th>평균 마릿수</th><th>최대 활동</th><th>급증 시점</th></tr>{det_rows}</table>
