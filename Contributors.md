@@ -211,6 +211,7 @@ nathan practice here
 - [David-Izadi](https://github.com/David-Izadi)
 - [StayHydr8ed](https://github.com/StayHydr8ed)
 - [Prince Wang](https://github.com/noobifyLol)
+- [ricgir](https://github.com/ricgir)
 - [Yazeed Alraddadi](https://github.com/yazeed1425)
 - [Soham Raorane](https://github.com/sohamraorane)
 - [Wahid Ali](https://github.com/wahidst3)
