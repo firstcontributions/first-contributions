@@ -219,6 +219,30 @@ def test_estrus_reference_validation() -> None:
     assert len(r["proba"]) == r["n"] and len(r["y"]) == r["n"]
 
 
+def test_repro_cause_attribution() -> None:
+    """번식 문제 유형 분류 + 원인 귀인: THI·심각도·진단 동작."""
+    import repro_cause_attribution as rca
+    assert rca.thi(30, 80) > rca.thi(20, 50)   # 고온다습이 THI↑
+    # 영양·수퇘지 자극 부족 개체 → 원인 귀인
+    row = {"backfat_mm": 9.0, "feed_adequacy": 0.5, "temp_c": 22,
+           "humidity_pct": 60, "boar_exposure_min": 2, "facility_score": 0.8,
+           "water_adequacy": 0.9, "nh3_ppm": 12, "growth_disease_cnt": 0,
+           "age_over_target": 20, "activity_mean": 6.0,
+           "frac_standing": 0.05, "frac_tailing": 0.02}
+    a = rca.attribute(row)
+    assert abs(sum(a["share"].values()) - 1.0) < 1e-6
+    assert a["top"][0] in rca.CAUSE_GROUPS
+    d = rca.diagnose(row, risk=0.9)
+    assert d["problem"] in rca.PROBLEMS and d["action"]
+    # 활동↓·징후~0 → 무발정, 활동 정상·징후 뚜렷·저위험 → 정상
+    assert rca.classify_problem(
+        {"activity_norm": 0.05, "frac_standing": 0.02, "frac_tailing": 0.0,
+         "age_over_target": 0}, risk=0.9) == "무발정"
+    assert rca.classify_problem(
+        {"activity_norm": 0.8, "frac_standing": 0.20, "frac_tailing": 0.10,
+         "age_over_target": 0}, risk=0.1) == "정상"
+
+
 def main() -> int:
     tests = [test_dependencies_import, test_aihub_client_no_key,
              test_pipeline_runs, test_aihub_parsers,
@@ -226,7 +250,8 @@ def main() -> int:
              test_edinburgh_parser, test_posture_eval_mapping,
              test_view_align_feats, test_estrus_link, test_aihub_reference,
              test_appearance_crop_feats, test_iou_tracker,
-             test_eval_report_figs, test_estrus_reference_validation]
+             test_eval_report_figs, test_estrus_reference_validation,
+             test_repro_cause_attribution]
     failed = 0
     for t in tests:
         try:
