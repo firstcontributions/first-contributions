@@ -13,6 +13,7 @@
 - [Rakshita Bangera](https://github.com/RakshitaBangera)
 - [Yash Badhe]
 - [Ayush]
+- [AlexMnrs](https://github.com/AlexMnrs)
 - [fichil](https://github.com/fichil)
 - [Jay Adesara](https://github.com/JayAdesara-07)
 - [Khuram Shahzad](https://github.com/khuram354)
