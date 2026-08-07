@@ -3970,11 +3970,8 @@ abhinav abhinav
 - [Angel Panayotov](https://github.com/arpanayotov-source)
 - [Sebastian Gebhardt](https://github.com/sebastiangebhardt10-sudo)
 - [Aniruddh523](https://github.com/Aniruddh523)
-<<<<<<< HEAD
-
 - [Anshul Kumar](https://github.com/anshullakra007)
-=======
 - [Mayank Dhanagar](https://github.com/mayankdhanagar)
->>>>>>> b07d95969 (Add Mayank Dhanagar to Contributors list)
 - [Roger](https://github.com/rdemarco13-byte)
 - [Asif Ilyas](https://github.com/Kakaman-Kakaman)
+- [thomasjunius-prog](https://github.com/thomasjunius-prog)
