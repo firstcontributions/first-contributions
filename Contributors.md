@@ -4,6 +4,7 @@
 - Second Contribution
 - Joseph Francis
 - [Rakhi Jamdade]
+- [hamsehmahamud] (https://github.com/hamsehmahamud)
 - [LizC AU](https://github.com/lizc-au)
 - [Yush] (https://github.com/yushtr)
 - [Ranzeus](https://github.com/Ranzeus)
