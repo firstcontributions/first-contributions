@@ -110,6 +110,7 @@
 - [Vayu Datta](https://github.com/vayudattasamasthanik-rgb)
 - [R Sujay Bharadwaj](https://github.com/SujayBWJ)
 - [Mohamed Safwat](https://github.com/klax05/)
+- [Nida Azam](https://github.com/nidaAtGithub/)
  - [Fathia Omar](https://github.com/fathiaomar)
  - [Abdul khudus] (https://github.com/Abdulkhudus)
  - [Rene Paul](https://github.com/rene-pau)
