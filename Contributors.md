@@ -114,6 +114,7 @@
 - [miguelessecond](https://github.com/miguelessecond)
 - [Vayu Datta](https://github.com/vayudattasamasthanik-rgb)
 - [R Sujay Bharadwaj](https://github.com/SujayBWJ)
+- EhowRan
 - [Mohamed Safwat](https://github.com/klax05/)
 - [Nida Azam](https://github.com/nidaAtGithub/)
  - [Fathia Omar](https://github.com/fathiaomar)
