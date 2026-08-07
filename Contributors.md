@@ -10,6 +10,7 @@
 - [abdelrahman-mahmoud](https://github.com/abdelrahman-amrawy)
 - [Rakshita Bangera](https://github.com/RakshitaBangera)
 - [Yash Badhe]
+- [Ayush]
 - [fichil](https://github.com/fichil)
 - [Jay Adesara](https://github.com/JayAdesara-07)
 - [Khuram Shahzad](https://github.com/khuram354)
