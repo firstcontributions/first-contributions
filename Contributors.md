@@ -1,5 +1,6 @@
 # Contributors
 
+- [Ayush](https://github.com/Ayush123141) - First contribution
 - Joseph Francis
 - [Rakhi Jamdade]
 - [LizC AU](https://github.com/lizc-au)
@@ -3312,6 +3313,7 @@ Amna Naeem
 - [nathandefy-cyber](https://github.com/nathandefy-cyber)
 - Chandrakanth Dodapaneni
 - [Kushagra Singh](https://github.com/KushagraSinghBharadwaj)
+- [Davide Olmi] (https://github.com/davidolmi)
 -[Balaji Velaga](https://github.com/BalajiVelaga18)
 - [Natalia Giordano](https://github.com/nataliagiordano9-maker)
 - [Caio](https://github.com/csuzigan)
@@ -3948,13 +3950,8 @@ abhinav abhinav
 - [Paul Madut](https://github.com/paul-madut)
 - [Diana Acciarito](https://github.com/Diana-2202)
 
-<<<<<<< HEAD
-
-=======
 abhinav abhinav
->>>>>>> a4f8c2c3bdc4445e184a2870b2b31f58d9bc5094
-
-https://github.com/firstcontributions/first-contributions
+abhinav abhinav
 - [Gloria Velasco](https://github.com/gvelascopena)
 - [charismile98](https://github.com/charismile98)
 - [Yeswanth Reddy](https://github.com/YeswanthReddi644)
