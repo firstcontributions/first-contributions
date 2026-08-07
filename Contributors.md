@@ -90,6 +90,7 @@
 - [Hira Khyzer](https://github.com/Hirakhyzer)
 - [Hani Kahale](https://github.com/HaniKah)
 - [Adhiraj Sengar](https://github.com/Adhiraj2601)
+- [Erikito Consultancy](https://github.com/erikvanappeldoorn)
 -[sanchit] 
 - [Bilaal Bakare](https://github.com/BilaalBakare) 
 - [Thuta](https://github.com/thuta-dev)
@@ -3948,3 +3949,4 @@ abhinav abhinav
 - [charismile98](https://github.com/charismile98)
 - [Yeswanth Reddy](https://github.com/YeswanthReddi644)
 - [Shah Faisal](https://github.com/faisalg1t)
+- [Accept](https://github.com/Accept-ai)
