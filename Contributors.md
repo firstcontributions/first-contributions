@@ -1985,6 +1985,7 @@ Amna Naeem
 - [Nikhil](https://github.com/NikhilKummari)
 - [Nikita Bonde](https://github.com/Nikitabonde30)
 - [Tom Goldberg](https://github.com/tomm1990)
+- [Kesley David](https://github.com/KesleyDavid)
 - [Suraj Suresh](https://github.com/ssuresh808)
 - [zanmstfa](https://github.com/zanmstfa)
 - [hangyuan2](https://github.com/hangyuan2)
