@@ -1,6 +1,7 @@
 # Contributors
 
-- [Ayush](https://github.com/Ayush123141) - First contribution
+- First contribution
+- Second Contribution
 - Joseph Francis
 - [Rakhi Jamdade]
 - [LizC AU](https://github.com/lizc-au)
