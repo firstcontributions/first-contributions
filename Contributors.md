@@ -3940,6 +3940,7 @@ abhinav abhinav
 - [Caleb33-del](https://github.com/Caleb33-del)
 - [林清渊](https://github.com/userlinqingyuan)
 - [BujesL](https://github.com/BujesL)
+- [Paul Madut](https://github.com/paul-madut)
 
 - [Gloria Velasco](https://github.com/gvelascopena)
 - [charismile98](https://github.com/charismile98)
