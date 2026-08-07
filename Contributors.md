@@ -13,6 +13,7 @@
 - [Jayaditya Sahu](My second push)
 - [Rakshita Bangera](https://github.com/RakshitaBangera)
 - [Yash Badhe]
+- iuri-valbao
 - [Ayush]
 - [AlexMnrs](https://github.com/AlexMnrs)
 - [fichil](https://github.com/fichil)
