@@ -53,6 +53,7 @@
 - [pritam jadhav] (https://github.com/priiiiitam)
 - [dioppylsci] (https://github.com/Scorpion160)
 - [Revathy M R](https://github.com/ReVuZ)
+- [Mohit Biswas](https://github.com/Xen0pp)
 - [muaz aman] (https://github.com/Muaxacker)
 - [xiaoguoba](https://github.com/xilele777)
 - [Paul]
