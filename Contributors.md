@@ -3962,5 +3962,9 @@ abhinav abhinav
 - [Accept](https://github.com/Accept-ai)
 - [Angel Panayotov](https://github.com/arpanayotov-source)
 - [Sebastian Gebhardt](https://github.com/sebastiangebhardt10-sudo)
+<<<<<<< HEAD
 
 - [Anshul Kumar](https://github.com/anshullakra007)
+=======
+- [Mayank Dhanagar](https://github.com/mayankdhanagar)
+>>>>>>> b07d95969 (Add Mayank Dhanagar to Contributors list)
