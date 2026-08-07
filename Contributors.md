@@ -237,6 +237,7 @@ nathan practice here
 - [Naufal Ahamed](https://github.com/NaufalAhamed-M)
 - [Ju5tG](https://github.com/Ju5tG)
 - [James Liu] (https://github.com/jameshualiu)
+- [Akshay Kumar Amavarapu](https://github.com/n200534)
 - [Kalpesh Patil](https://github.com/kalpesh172000)
 - [Ladan Hamoud](https://github.com/ladanhamoud)
 - [Luis Ruvalcaba](https://github.com/luisruval)
