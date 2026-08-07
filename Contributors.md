@@ -3961,6 +3961,7 @@ abhinav abhinav
 - [charismile98](https://github.com/charismile98)
 - [Yeswanth Reddy](https://github.com/YeswanthReddi644)
 - [Shah Faisal](https://github.com/faisalg1t)
+- [Lokesh Joshi](https://github.com/poklok123)
 - [Accept](https://github.com/Accept-ai)
 - [Angel Panayotov](https://github.com/arpanayotov-source)
 - [Sebastian Gebhardt](https://github.com/sebastiangebhardt10-sudo)
