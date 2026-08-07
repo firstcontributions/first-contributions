@@ -128,7 +128,7 @@ git push origin <add-your-name>
 
 Τώρα μπορείτε να ξεκινήσετε να συνεισφέρετε και σε άλλα project. Έχουμε φτιάξει μια λίστα από project με εύκολα προβλήματα για να ξεκινήσετε. Δείτε εδώ [τη λίστα με τα project](https://firstcontributions.github.io/#project-list).
 
-Μπορείτε να βρείτε περισσότερους τρόπους να συνεισφέρετε [εδώ](https://github.com/firstcontributions/first-contributions#code-contributions).
+Μπορείτε να βρείτε περισσότερους τρόπους να συνεισφέρετε [εδώ](https://github.com/roshanjossey/code-contributions).
 
 ### [Επιπρόσθετο υλικό](../additional-material/git_workflow_scenarios/additional-material.md)
 
