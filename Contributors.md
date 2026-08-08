@@ -15,6 +15,7 @@
 - [Payal Gupta](https://github.com/payal1020-creator)
 - [Yash Badhe]
 - iuri-valbao
+- [Uday](https://github.com/Udayahir25)
 - [Ayush]
 - [AlexMnrs](https://github.com/AlexMnrs)
 - [fichil](https://github.com/fichil)
