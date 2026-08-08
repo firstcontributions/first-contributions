@@ -113,7 +113,7 @@ ersetze `dein-zweig-name` mit dem Namen des Zweiges den du vorhin erstellt hast.
 - ### Authentifizierungs Fehler
      <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
   remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
-  fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
+  fatal: Authentication failed for 'https://github.com/&lt;your-username&gt;/first-contributions.git/'</pre>
   Gehe zu [GitHub's tutorial](https://...github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) wie du einen ssh Key zu deinem Account hinzufügst und konfigurierst.
   Außerdem, kannst du 'git remote -v' ausführen um deine Remote Addresse anzuzeigen.
   

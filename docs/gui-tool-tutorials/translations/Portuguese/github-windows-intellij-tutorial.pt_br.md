@@ -101,7 +101,7 @@ Agora submeta o pull request.
 
 <img src="https://camo.githubusercontent.com/71401ba5551a64aeac3838825a52ce7a7597cd8b54a0d7200d9454e2cbfbb13f/68747470733a2f2f6669727374636f6e747269627574696f6e732e6769746875622e696f2f6173736574732f526561646d652f7375626d69742d70756c6c2d726571756573742e706e67" alt="submit pull request" />
 
-Em breve estarei mesclando todas as suas alterações no branch master deste projeto. Você receberá um e-mail de notificação assim que as alterações forem integradas.
+Em breve estarei mesclando todas as suas alterações no branch main deste projeto. Você receberá um e-mail de notificação assim que as alterações forem integradas.
 
 ## Para onde ir agora?
 
@@ -119,7 +119,7 @@ Agora vamos começar a contribuir para outros projetos, compilamos uma lista de 
 ### [Material Adicional](../../additional-material/translations/Portuguese/additional-material.pt_br.md).
 
 ## Tutoriais usando outras ferramentas
-[Voltar a página principal](https://github.com/firstcontributions/first-contributions/blob/master/translations/README.pt_br.md)
+[Voltar a página principal](https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.pt_br.md)
 
 ## Autopromoção
  
