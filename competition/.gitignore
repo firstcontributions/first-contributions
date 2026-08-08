@@ -15,6 +15,7 @@ data/aihub/
 data/edinburgh/
 edinburgh_frames.csv
 data/*_parsed.csv
+data/aihub_71471_frames.csv
 
 # 실데이터가 임베드된 생성 HTML — 커밋 대신 로컬 생성
 dashboard/edinburgh.html
