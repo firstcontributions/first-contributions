@@ -68,6 +68,7 @@
 - [dioppylsci] (https://github.com/Scorpion160)
 - [Revathy M R](https://github.com/ReVuZ)
 - [Mohit Biswas](https://github.com/Xen0pp)
+- [Tathagata Ghosh](https://github.com/Tathagata16)
 - [muaz aman] (https://github.com/Muaxacker)
 - [xiaoguoba](https://github.com/xilele777)
 - [Paul]
