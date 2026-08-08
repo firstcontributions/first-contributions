@@ -1,4 +1,5 @@
 # Contributors
+- [Pavithra S] (https://github.com/Pavi1205)
 - [betterkite502](https://github.com/betterkite)
 - First contribution
 - Second Contribution
