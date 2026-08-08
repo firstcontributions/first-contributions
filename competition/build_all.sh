@@ -17,6 +17,7 @@ run $SRC/build_edinburgh_dashboard.py competition/data/edinburgh_frames.csv
 run $SRC/build_activity_analysis.py
 run $SRC/build_eval_report.py
 run $SRC/build_repro_dashboard.py
+run $SRC/build_alert_console.py
 # 탐색 뷰
 run $SRC/build_detection_viewer.py
 run $SRC/build_posture_gallery.py
