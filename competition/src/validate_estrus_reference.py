@@ -137,20 +137,49 @@ def evaluate_real_schema(label_dir: str) -> dict | None:
     n_g = len(set(groups))
 
     if confounded:
-        # 기하 피처는 카메라를 그대로 노출하므로 사용 금지 → 행동만으로 평가
-        out["cv"] = (f"검증 불가(교락) — 발정이 채널과 1:1 대응"
-                     f"(순수 그룹 {ch['pure_groups']}/{ch['n_groups']})")
-        out["auc_calibrated"] = None
-        out["note"] = (
-            "이 표본에서는 ESTRUS 가 카메라(채널)와 완전히 교락되어, bbox 기하를 "
-            "쓰면 '발정'이 아니라 '카메라'를 학습한다(AUC≈1.0 은 누수). "
-            "채널을 그룹으로 분리하면 학습 폴드에 한 클래스만 남아 지도검증 자체가 "
-            "구조적으로 불가능하다. 유효 검증에는 같은 돈방에서 발정/비발정이 함께 "
-            "관측된 표본(또는 같은 개체의 시간적 전이)이 필요하다.")
-        # 교락 상황에서 유일하게 정직한 수치 = 무학습 규칙 baseline(행동만 사용)
-        out["auc_behavior_only"] = out["auc_rule"]
+        # 라벨이 돈방(카메라) 단위. 기하 피처는 카메라를 그대로 노출하므로 제외하고
+        # **행동만으로** 교차-카메라 검증한다(각 클래스에 채널이 2개 이상일 때 가능).
+        per_ch = df.groupby("channel")["estrus"].mean()
+        n_pos_ch = int((per_ch == 1).sum()); n_neg_ch = int((per_ch == 0).sum())
+        out["label_level"] = "pen/camera (개체 아님)"
+        out["n_pos_channels"] = n_pos_ch; out["n_neg_channels"] = n_neg_ch
         out["behavior_estrus_rate"] = (
             df.groupby("behavior")["estrus"].mean().round(3).to_dict())
+        out["auc_calibrated"] = None
+        if n_pos_ch >= 2 and n_neg_ch >= 2:
+            k = min(4, n_pos_ch, n_neg_ch)
+            Xb = pd.get_dummies(df["behavior"].fillna("unknown"), prefix="beh")
+            pb = cross_val_predict(LogisticRegression(max_iter=5000,
+                                   class_weight="balanced"), Xb, y,
+                                   cv=GroupKFold(k), groups=groups,
+                                   method="predict_proba")[:, 1]
+            out["auc_behavior_only"] = round(float(roc_auc_score(y, pb)), 3)
+            out["proba"] = pb; out["y"] = y
+            # 누수 시연: 기하를 넣으면 못 본 카메라에서 오히려 무너진다
+            Xg = Xb.copy()
+            for c in GEOM:
+                Xg[c] = pd.to_numeric(df[c], errors="coerce")
+            pg = cross_val_predict(LogisticRegression(max_iter=5000,
+                                   class_weight="balanced"), Xg.fillna(0.0), y,
+                                   cv=GroupKFold(k), groups=groups,
+                                   method="predict_proba")[:, 1]
+            out["auc_with_geometry"] = round(float(roc_auc_score(y, pg)), 3)
+            out["cv"] = (f"GroupKFold({k}) by channel — 행동만 사용"
+                         f"(발정 채널 {n_pos_ch} · 비발정 채널 {n_neg_ch})")
+            out["note"] = (
+                "ESTRUS 는 개체가 아니라 **돈방/카메라 단위** 라벨이다(각 채널이 100% "
+                "또는 0%). 따라서 bbox 기하를 쓰면 '발정'이 아니라 '카메라'를 학습한다"
+                f"(동일 채널 내 AUC≈1.0 은 누수이며, 못 본 카메라에서는 "
+                f"{out['auc_with_geometry']} 로 무너져 이를 입증한다). "
+                f"카메라 무관한 행동 라벨만의 정직한 분리력은 "
+                f"{out['auc_behavior_only']} 이다.")
+        else:
+            out["cv"] = (f"검증 불가 — 클래스별 채널이 부족"
+                         f"(발정 {n_pos_ch} · 비발정 {n_neg_ch}, 각 2개 이상 필요)")
+            out["auc_behavior_only"] = out["auc_rule"]
+            out["note"] = (
+                "ESTRUS 가 채널과 1:1 교락되고 클래스별 채널이 2개 미만이라 "
+                "교차-카메라 검증이 구조적으로 불가능하다. 더 많은 채널의 표본이 필요하다.")
         return out
 
     # ---- 교락 없음: 행동 + bbox 기하로 정상 검증 ----
@@ -238,9 +267,14 @@ def main() -> int:
             print("  발정 개체 행동: " + ", ".join(
                 f"{k} {v}" for k, v in r["estrus_behavior"].items()))
         if r.get("confounded_by_channel"):
-            print(f"  ⚠️ 교락 경고: {r.get('note','')}")
-            print(f"  행동 라벨만의 AUC: {r.get('auc_behavior_only')} "
-                  f"| 규칙 baseline AUC {r.get('auc_rule')}")
+            print(f"  ⚠️ 라벨 수준: {r.get('label_level','-')}")
+            print(f"  {r.get('note','')}")
+            print(f"  → 행동만 AUC {r.get('auc_behavior_only')} "
+                  f"| 기하 포함(누수 시연) {r.get('auc_with_geometry')} "
+                  f"| 규칙 baseline {r.get('auc_rule')}")
+            if r.get("behavior_estrus_rate"):
+                print("  행동별 발정률: " + ", ".join(
+                    f"{k} {v}" for k, v in r["behavior_estrus_rate"].items()))
             return 0
     else:
         print(f"발정 검증 [{tag}] — 개체 {r['n']}두, 발정 {r['pos_rate']:.0%}")
