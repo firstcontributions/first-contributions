@@ -15,7 +15,7 @@
 - [Rakshita Bangera](https://github.com/RakshitaBangera)
 - [Payal Gupta](https://github.com/payal1020-creator)
 - [Yash Badhe]
-- [Prachiti Kothekar][def https://github.com/Prachiti102005]
+- [Prachiti Kothekar](https://github.com/Prachiti102005)
 - iuri-valbao
 - [Uday](https://github.com/Udayahir25)
 - [Ayush]
@@ -3964,9 +3964,8 @@ Harish K
 - [Ravi Muliki](https://github.com/Ravi7035/)
 - [Heena](https://linkedin.com/in/heena-jangra-b44966418)
 - [Luis  Miguel](https://github.com/luismiguelti)
-- i was here......................
 
-abhinav abhinav
+- abhinav abhinav
 - [Caleb33-del](https://github.com/Caleb33-del)
 - [林清渊](https://github.com/userlinqingyuan)
 - [BujesL](https://github.com/BujesL)
@@ -3984,12 +3983,12 @@ abhinav abhinav
 - [Angel Panayotov](https://github.com/arpanayotov-source)
 - [Sebastian Gebhardt](https://github.com/sebastiangebhardt10-sudo)
 - [Aniruddh523](https://github.com/Aniruddh523)
-<<<<<<< HEAD
+
 
 - [Anshul Kumar](https://github.com/anshullakra007)
-=======
+
 - [Mayank Dhanagar](https://github.com/mayankdhanagar)
->>>>>>> b07d95969 (Add Mayank Dhanagar to Contributors list)
+-  (Add Mayank Dhanagar to Contributors list)
 - [Roger](https://github.com/rdemarco13-byte)
 - [Asif Ilyas](https://github.com/Kakaman-Kakaman)
 - [Prateek Pandey](https://github.com/prateek942)
@@ -3997,6 +3996,3 @@ abhinav abhinav
 - [Medhansh Poojari](https://github.com/Medhanshug99)
 - [2160039878-cyber](https://github.com/2160039878-cyber)
 - [Super23456](https://github.com/Super23456)
-
-
-[def]: https://github.com/Prachiti102005
