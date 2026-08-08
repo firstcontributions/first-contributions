@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>돼지 탐지 뷰어 — 파일/축사 검색</title>
+<style>
+:root{color-scheme:light;--page:#f9f9f7;--surface:#fcfcfb;--surface2:#f2f2ee;--ink:#0b0b0b;--ink2:#52514e;--muted:#898781;--border:rgba(11,11,11,.12);--accent:#2a78d6;--box:#eb6834;}
+@media(prefers-color-scheme:dark){:root:where(:not([data-theme=light])){--page:#0d0d0d;--surface:#1a1a19;--surface2:#242422;--ink:#fff;--ink2:#c3c2b7;--muted:#898781;--border:rgba(255,255,255,.14);--accent:#3987e5;--box:#d95926;}}
+:root[data-theme=dark]{--page:#0d0d0d;--surface:#1a1a19;--surface2:#242422;--ink:#fff;--ink2:#c3c2b7;--muted:#898781;--border:rgba(255,255,255,.14);--accent:#3987e5;--box:#d95926;}
+*{box-sizing:border-box;margin:0;padding:0}body{font-family:system-ui,-apple-system,"Malgun Gothic",sans-serif;background:var(--page);color:var(--ink);line-height:1.5;padding:20px}
+.wrap{max-width:1160px;margin:0 auto}h1{font-size:1.5rem}.sub{color:var(--ink2);font-size:.9rem;margin:4px 0 14px}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:10px;margin-bottom:14px}
+.kpi{background:var(--surface);border:1px solid var(--border);border-radius:11px;padding:11px 14px}.kpi .v{font-size:1.4rem;font-weight:700}.kpi .l{font-size:.74rem;color:var(--muted)}
+.searchbar{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:10px}
+#q{flex:1;min-width:220px;font:inherit;font-size:.95rem;padding:10px 14px;border-radius:10px;border:1px solid var(--border);background:var(--surface);color:var(--ink)}
+.filters{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:12px}
+.fbtn{font:inherit;font-size:.74rem;padding:4px 10px;border-radius:999px;cursor:pointer;border:1px solid var(--border);background:var(--surface2);color:var(--ink2)}.fbtn.on{background:var(--ink);color:var(--page);border-color:var(--ink)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:12px}
+.tile{border:1px solid var(--border);border-radius:10px;overflow:hidden;cursor:pointer;background:var(--surface2)}
+.tile .imgbox{position:relative;line-height:0}.tile img{width:100%;display:block}
+.tile .cap{padding:7px 10px;font-size:.73rem;color:var(--ink2)}
+.tile .cap .f{color:var(--ink);font-weight:600;word-break:break-all;font-size:.72rem}
+svg.ov{position:absolute;top:0;left:0;width:100%;height:100%}
+rect.box{fill:transparent;stroke:var(--box);stroke-width:2}
+.cnt{position:absolute;top:6px;right:6px;background:var(--accent);color:#fff;font-size:.72rem;font-weight:700;padding:1px 8px;border-radius:999px}
+.empty{color:var(--muted);font-size:.9rem;padding:30px;text-align:center}
+.modal{position:fixed;inset:0;background:rgba(0,0,0,.82);display:none;align-items:center;justify-content:center;z-index:20;padding:20px}.modal.on{display:flex}
+.modal .inner{max-width:1000px;width:100%;background:var(--surface);border-radius:12px;padding:16px;max-height:92vh;overflow:auto}.modal .imgbox{position:relative;line-height:0}.modal img{width:100%;border-radius:8px}.close{float:right;cursor:pointer;font-size:1.2rem;color:var(--ink2);border:none;background:none}
+.note{font-size:.72rem;color:var(--muted);margin-top:10px;line-height:1.5}
+</style></head>
+<body><div class="wrap">
+<h1>돼지 탐지 뷰어 <span style="font-size:.8rem;color:var(--muted)">파일/축사 검색</span></h1>
+<div class="sub">파일명이나 <b>축사번호(pen1·pen2)</b>·소스·카메라를 입력하면 해당 이미지의 돼지 탐지(bbox)를 바로 표시. YOLO 라벨(0=pig).</div>
+<div class="kpis" id="kpis"></div>
+
+<div class="searchbar">
+  <input id="q" placeholder="예: pen1  /  cam2  /  multiview  /  pen2_tur  /  파일명 일부" autofocus>
+</div>
+<div class="filters" id="pens"></div>
+<div class="filters" id="srcs"></div>
+
+<div id="grid" class="grid"></div>
+<div id="empty" class="empty" style="display:none">검색 결과 없음 — 다른 파일명/축사번호를 입력하세요.</div>
+<div class="note">※ 자체완결 뷰어: 전체 데이터셋 중 대표 샘플을 임베드했습니다. 검색은 임베드된 샘플에서 파일명·축사·소스·카메라를 즉시 매칭합니다. 로컬에서 전체 데이터셋으로 생성하면 모든 이미지가 대상이 됩니다.</div>
+</div>
+<div class="modal" id="modal"><div class="inner"><button class="close" id="close">✕</button><div id="mbody"></div></div></div>
+
+<script>
+window.DATA=/*__DATA__*/null;
+(function(){
+  const D=window.DATA; if(!D){document.body.innerHTML="<p style='padding:40px'>데이터 없음</p>";return;}
+  const m=D.meta;
+  document.getElementById("kpis").innerHTML=[
+    ["전체 이미지",m.total_img.toLocaleString()],["전체 탐지(bbox)",m.total_box.toLocaleString()],
+    ["임베드 샘플",m.n_sample+"장"],["축사",Object.keys(m.pens).join(", ")||"-"],
+    ["소스",m.sources.length+"종"],
+  ].map(([l,v])=>`<div class="kpi"><div class="v">${v}</div><div class="l">${l}</div></div>`).join("");
+
+  let q="", penF="all", srcF="all";
+  const pens=["all",...Object.keys(m.pens)];
+  document.getElementById("pens").innerHTML=pens.map(p=>
+    `<button class="fbtn${p==="all"?" on":""}" data-p="${p}">${p==="all"?"축사 전체":p}</button>`).join("");
+  document.getElementById("srcs").innerHTML=["all",...m.sources].map(s=>
+    `<button class="fbtn${s==="all"?" on":""}" data-s="${s}">${s==="all"?"소스 전체":s}</button>`).join("");
+  document.querySelectorAll("#pens .fbtn").forEach(b=>b.onclick=()=>{penF=b.dataset.p;document.querySelectorAll("#pens .fbtn").forEach(x=>x.classList.toggle("on",x===b));render();});
+  document.querySelectorAll("#srcs .fbtn").forEach(b=>b.onclick=()=>{srcF=b.dataset.s;document.querySelectorAll("#srcs .fbtn").forEach(x=>x.classList.toggle("on",x===b));render();});
+  document.getElementById("q").addEventListener("input",e=>{q=e.target.value.trim().toLowerCase();render();});
+
+  function ov(g,cls){return `<svg class="${cls}" viewBox="0 0 ${g.w} ${g.h}" preserveAspectRatio="none">`+
+    g.boxes.map(b=>`<rect class="box" x="${b.x}" y="${b.y}" width="${b.w}" height="${b.h}"/>`).join("")+`</svg>`;}
+
+  function match(g){
+    if(penF!=="all"&&g.pen!==penF)return false;
+    if(srcF!=="all"&&g.src!==srcF)return false;
+    if(q){const hay=(g.file+" "+g.src+" "+g.pen+" "+g.cam).toLowerCase();return hay.includes(q);}
+    return true;
+  }
+  function render(){
+    const items=D.gallery.filter(match);
+    document.getElementById("empty").style.display=items.length?"none":"block";
+    document.getElementById("grid").innerHTML=items.map((g,i)=>`
+      <div class="tile" data-i="${D.gallery.indexOf(g)}">
+        <div class="imgbox"><img src="${g.img}" loading="lazy">${ov(g,"ov")}<span class="cnt">🐖 ${g.count}</span></div>
+        <div class="cap"><div class="f">${g.file}</div>${g.src} · ${g.pen} · ${g.cam}</div></div>`).join("");
+    document.querySelectorAll(".tile").forEach(t=>t.onclick=()=>openM(+t.dataset.i));
+  }
+  function openM(i){const g=D.gallery[i];
+    document.getElementById("mbody").innerHTML=
+      `<div style="font-weight:700;margin-bottom:8px;word-break:break-all">${g.file} <span style="color:var(--muted);font-weight:400">· ${g.src} · ${g.pen} · ${g.cam} · 탐지 ${g.count}마리</span></div>
+       <div class="imgbox"><img src="${g.img}">${ov(g,"ov")}</div>`;
+    document.getElementById("modal").classList.add("on");}
+  document.getElementById("close").onclick=()=>document.getElementById("modal").classList.remove("on");
+  document.getElementById("modal").onclick=e=>{if(e.target.id==="modal")e.currentTarget.classList.remove("on");};
+  render();
+})();
+</script></body></html>

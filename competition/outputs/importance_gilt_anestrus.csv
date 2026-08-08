@@ -1,0 +1,12 @@
+﻿,importance
+facility_score,0.154
+feed_adequacy,0.1516
+age_over_target,0.1311
+weight_kg,0.1095
+water_adequacy,0.106
+humidity_pct,0.0783
+boar_exposure_min,0.0672
+temp_c,0.0561
+nh3_ppm,0.0532
+backfat_mm,0.047
+growth_disease_cnt,0.046

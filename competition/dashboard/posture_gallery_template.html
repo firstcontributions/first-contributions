@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>돼지 자세 인식 — 사진·영상 프론트</title>
+<style>
+:root{color-scheme:light;
+  --page:#f9f9f7;--surface:#fcfcfb;--surface2:#f2f2ee;--ink:#0b0b0b;--ink2:#52514e;--muted:#898781;
+  --border:rgba(11,11,11,0.12);--standing:#2a78d6;--sitting:#eda100;--lying:#1baf7a;--bad:#d03b3b;}
+@media(prefers-color-scheme:dark){:root:where(:not([data-theme="light"])){color-scheme:dark;
+  --page:#0d0d0d;--surface:#1a1a19;--surface2:#242422;--ink:#fff;--ink2:#c3c2b7;--muted:#898781;
+  --border:rgba(255,255,255,0.14);--standing:#3987e5;--sitting:#c98500;--lying:#199e70;--bad:#e66767;}}
+:root[data-theme="dark"]{color-scheme:dark;
+  --page:#0d0d0d;--surface:#1a1a19;--surface2:#242422;--ink:#fff;--ink2:#c3c2b7;--muted:#898781;
+  --border:rgba(255,255,255,0.14);--standing:#3987e5;--sitting:#c98500;--lying:#199e70;--bad:#e66767;}
+*{box-sizing:border-box;margin:0;padding:0;}
+body{font-family:system-ui,-apple-system,"Segoe UI","Malgun Gothic",sans-serif;background:var(--page);color:var(--ink);line-height:1.5;padding:20px;}
+.wrap{max-width:1160px;margin:0 auto;}
+h1{font-size:1.5rem;}.sub{color:var(--ink2);font-size:.9rem;margin:4px 0 16px;}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:12px;margin-bottom:16px;}
+.kpi{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:12px 15px;}
+.kpi .v{font-size:1.5rem;font-weight:700;}.kpi .l{font-size:.75rem;color:var(--muted);}
+.card{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:16px;margin-bottom:16px;}
+.card h2{font-size:1rem;margin-bottom:10px;}
+.legend{display:flex;gap:16px;flex-wrap:wrap;font-size:.8rem;color:var(--ink2);margin-bottom:12px;align-items:center;}
+.sw{display:inline-block;width:12px;height:12px;border-radius:3px;margin-right:5px;vertical-align:middle;}
+video{width:100%;max-width:640px;border-radius:10px;border:1px solid var(--border);display:block;}
+.filters{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:12px;}
+.fbtn{font:inherit;font-size:.76rem;padding:4px 10px;border-radius:999px;cursor:pointer;border:1px solid var(--border);background:var(--surface2);color:var(--ink2);}
+.fbtn.on{background:var(--ink);color:var(--page);border-color:var(--ink);}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:12px;}
+.tile{border:1px solid var(--border);border-radius:10px;overflow:hidden;cursor:pointer;background:var(--surface2);}
+.tile .imgbox{position:relative;line-height:0;}
+.tile img{width:100%;height:auto;display:block;}
+.tile .cap{padding:7px 10px;font-size:.74rem;color:var(--ink2);display:flex;justify-content:space-between;}
+.tile .cap b{color:var(--ink);}
+svg.ov{position:absolute;top:0;left:0;width:100%;height:100%;}
+.modal{position:fixed;inset:0;background:rgba(0,0,0,.8);display:none;align-items:center;justify-content:center;z-index:20;padding:20px;}
+.modal.on{display:flex;}
+.modal .inner{max-width:1000px;width:100%;background:var(--surface);border-radius:12px;padding:16px;max-height:92vh;overflow:auto;}
+.modal .imgbox{position:relative;line-height:0;}
+.modal img{width:100%;border-radius:8px;}
+.close{float:right;cursor:pointer;font-size:1.2rem;color:var(--ink2);border:none;background:none;}
+.note{font-size:.72rem;color:var(--muted);margin-top:6px;line-height:1.5;}
+rect.box{fill:transparent;stroke-width:2.5;}
+text.lbl{font-size:11px;font-weight:700;paint-order:stroke;stroke:rgba(0,0,0,.5);stroke-width:2px;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>돼지 자세 인식 <span style="font-size:.8rem;color:var(--muted)">실이미지·영상 프론트</span></h1>
+  <div class="sub">Kaggle multi-view-pig-posture-recognition 실데이터. bbox+자세(정답/예측)를 실제 사진·영상 위에 표시.</div>
+
+  <div class="kpis" id="kpis"></div>
+
+  <div class="card">
+    <h2>주석 영상 (연속 프레임 + bbox 자세)</h2>
+    <div id="videobox"></div>
+    <div class="note" id="videonote"></div>
+  </div>
+
+  <div class="card">
+    <h2>사진 갤러리 <span id="gcount" style="color:var(--muted);font-weight:400;font-size:.85rem"></span></h2>
+    <div class="legend">
+      <span><span class="sw" style="background:var(--standing)"></span>서있음(standing)</span>
+      <span><span class="sw" style="background:var(--sitting)"></span>앉음(sitting)</span>
+      <span><span class="sw" style="background:var(--lying)"></span>누움(lying)</span>
+      <span><span class="sw" style="background:var(--bad)"></span>예측 오답(점선)</span>
+    </div>
+    <div class="filters" id="filters"></div>
+    <div class="grid" id="grid"></div>
+    <div class="note">박스 색 = 정답 자세. 예측이 틀린 개체는 빨강 점선 + ✗. 타일 클릭 시 확대.</div>
+  </div>
+</div>
+
+<div class="modal" id="modal"><div class="inner">
+  <button class="close" id="close">✕</button>
+  <div id="modalbody"></div>
+</div></div>
+
+<script>
+window.DATA=/*__DATA__*/null;
+(function(){
+  const D=window.DATA;
+  if(!D){document.body.innerHTML="<p style='padding:40px'>데이터 없음.</p>";return;}
+  const COLOR={standing:"var(--standing)",sitting:"var(--sitting)",lying:"var(--lying)"};
+  const m=D.meta;
+  document.getElementById("kpis").innerHTML=[
+    ["이미지",m.n_images],["bbox(개체)",m.n_boxes.toLocaleString()],
+    ["자세 클래스","5종→3색"],["학습 정확도(참고)",m.train_acc.toFixed(3)],
+  ].map(([l,v])=>`<div class="kpi"><div class="v">${v}</div><div class="l">${l}</div></div>`).join("");
+
+  // 영상
+  const vb=document.getElementById("videobox");
+  if(D.video){ vb.innerHTML=`<video src="${D.video}" controls autoplay muted loop playsinline></video>`;
+    document.getElementById("videonote").textContent=
+      `뷰 ${m.video_view} · ${m.video_frames}프레임(3fps). 각 개체 bbox에 자세 색상 표시.`;
+  } else { vb.innerHTML="<p style='color:var(--muted)'>영상 생성 실패</p>"; }
+
+  function overlaySVG(item, cls){
+    const b=item.boxes.map(bx=>{
+      const col=bx.ok?COLOR[bx.common]:"var(--bad)";
+      const dash=bx.ok?"":'stroke-dasharray="5 4"';
+      const mark=bx.ok?"":" ✗";
+      return `<rect class="box" x="${bx.x}" y="${bx.y}" width="${bx.w}" height="${bx.h}" stroke="${col}" ${dash}/>`
+        +`<text class="lbl" x="${bx.x+3}" y="${bx.y+13}" fill="${col}">${bx.common}${mark}</text>`;
+    }).join("");
+    return `<svg class="${cls}" viewBox="0 0 ${item.w} ${item.h}" preserveAspectRatio="none">${b}</svg>`;
+  }
+
+  // 필터(뷰)
+  let filter="all";
+  const views=["all",...new Set(D.gallery.map(g=>g.view))];
+  document.getElementById("filters").innerHTML=views.map(v=>
+    `<button class="fbtn${v==="all"?" on":""}" data-v="${v}">${v==="all"?"전체 뷰":v}</button>`).join("");
+  document.querySelectorAll(".fbtn").forEach(b=>b.onclick=()=>{
+    filter=b.dataset.v;document.querySelectorAll(".fbtn").forEach(x=>x.classList.toggle("on",x===b));render();});
+
+  function render(){
+    const items=D.gallery.filter(g=>filter==="all"||g.view===filter);
+    document.getElementById("gcount").textContent="("+items.length+")";
+    document.getElementById("grid").innerHTML=items.map((g,i)=>{
+      const ok=g.boxes.filter(b=>b.ok).length;
+      return `<div class="tile" data-i="${D.gallery.indexOf(g)}">
+        <div class="imgbox"><img src="${g.img}" loading="lazy">${overlaySVG(g,"ov")}</div>
+        <div class="cap"><span>${g.view}</span><span><b>${ok}/${g.boxes.length}</b> 정답</span></div></div>`;
+    }).join("");
+    document.querySelectorAll(".tile").forEach(t=>t.onclick=()=>openModal(+t.dataset.i));
+  }
+  function openModal(i){
+    const g=D.gallery[i];
+    const ok=g.boxes.filter(b=>b.ok).length;
+    document.getElementById("modalbody").innerHTML=
+      `<div style="font-weight:700;margin-bottom:8px">${g.image_id} <span style="color:var(--muted);font-weight:400">· ${g.view} · 정답 ${ok}/${g.boxes.length}</span></div>
+       <div class="imgbox"><img src="${g.img}">${overlaySVG(g,"ov")}</div>`;
+    document.getElementById("modal").classList.add("on");
+  }
+  document.getElementById("close").onclick=()=>document.getElementById("modal").classList.remove("on");
+  document.getElementById("modal").onclick=e=>{if(e.target.id==="modal")document.getElementById("modal").classList.remove("on");};
+  render();
+})();
+</script>
+</body>
+</html>

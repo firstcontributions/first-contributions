@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>돼지 활동 모니터링 — Edinburgh 실데이터</title>
+<style>
+:root{
+  color-scheme: light;
+  --page:#f9f9f7; --surface:#fcfcfb; --surface2:#f2f2ee;
+  --ink:#0b0b0b; --ink2:#52514e; --muted:#898781;
+  --border:rgba(11,11,11,0.12); --grid:#e4e3dc;
+  --activity:#2a78d6; --score:#eb6834; --aqua:#1baf7a;
+  --good:#0ca30c; --warning:#fab219; --serious:#ec835a; --critical:#d03b3b;
+}
+@media (prefers-color-scheme: dark){:root:where(:not([data-theme="light"])){
+  color-scheme: dark;
+  --page:#0d0d0d; --surface:#1a1a19; --surface2:#242422;
+  --ink:#fff; --ink2:#c3c2b7; --muted:#898781;
+  --border:rgba(255,255,255,0.14); --grid:#2c2c2a;
+  --activity:#3987e5; --score:#d95926; --aqua:#199e70;
+}}
+:root[data-theme="dark"]{
+  color-scheme: dark;
+  --page:#0d0d0d; --surface:#1a1a19; --surface2:#242422;
+  --ink:#fff; --ink2:#c3c2b7; --muted:#898781;
+  --border:rgba(255,255,255,0.14); --grid:#2c2c2a;
+  --activity:#3987e5; --score:#d95926; --aqua:#199e70;
+}
+*{box-sizing:border-box; margin:0; padding:0;}
+body{font-family:system-ui,-apple-system,"Segoe UI","Malgun Gothic",sans-serif;
+  background:var(--page); color:var(--ink); line-height:1.5; padding:20px;}
+.wrap{max-width:1160px; margin:0 auto;}
+h1{font-size:1.5rem;} .sub{color:var(--ink2); font-size:.9rem; margin:4px 0 18px;}
+.kpis{display:grid; grid-template-columns:repeat(auto-fit,minmax(140px,1fr)); gap:12px; margin-bottom:16px;}
+.kpi{background:var(--surface); border:1px solid var(--border); border-radius:12px; padding:14px 16px;}
+.kpi .v{font-size:1.6rem; font-weight:700; letter-spacing:-.02em;}
+.kpi .l{font-size:.76rem; color:var(--muted); margin-top:2px;}
+.row2{display:grid; grid-template-columns:1fr 1fr; gap:14px; margin-bottom:16px;}
+.card{background:var(--surface); border:1px solid var(--border); border-radius:12px; padding:16px;}
+.card h2{font-size:.92rem; font-weight:600; margin-bottom:12px;}
+.main{display:grid; grid-template-columns:340px 1fr; gap:14px;}
+@media(max-width:820px){ .row2,.main{grid-template-columns:1fr;} }
+.tablewrap{max-height:520px; overflow-y:auto; border:1px solid var(--border); border-radius:10px;}
+table{width:100%; border-collapse:collapse; font-size:.82rem;}
+th,td{text-align:left; padding:8px 10px; border-bottom:1px solid var(--grid); white-space:nowrap;}
+th{position:sticky; top:0; background:var(--surface2); font-weight:600; font-size:.75rem; color:var(--ink2);}
+tbody tr{cursor:pointer;} tbody tr:hover{background:var(--surface2);}
+tbody tr.sel{background:color-mix(in srgb, var(--activity) 14%, transparent);}
+.hbar{display:grid; grid-template-columns:130px 1fr 52px; align-items:center; gap:8px; margin:5px 0; font-size:.78rem;}
+.hbar .track{background:var(--surface2); border-radius:6px; height:14px; overflow:hidden;}
+.hbar .fill{height:100%; border-radius:6px;}
+.legend{display:flex; gap:14px; font-size:.76rem; color:var(--ink2); margin:2px 0 8px; flex-wrap:wrap;}
+.dot{display:inline-block; width:8px; height:8px; border-radius:50%; margin-right:5px; vertical-align:middle;}
+.chartbox{position:relative;} svg{display:block; width:100%; height:auto;}
+.tip{position:absolute; pointer-events:none; background:var(--ink); color:var(--page);
+  font-size:.72rem; padding:5px 8px; border-radius:6px; opacity:0; transition:opacity .08s; white-space:nowrap; z-index:5;}
+.pill{display:inline-block; padding:1px 8px; border-radius:999px; font-size:.72rem; font-weight:600;}
+.mono{font-variant-numeric:tabular-nums;}
+.note{font-size:.72rem; color:var(--muted); margin-top:10px; line-height:1.5;}
+.actbadge{padding:1px 8px;border-radius:999px;font-size:.72rem;font-weight:600;color:#fff;}
+.behgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(120px,1fr));gap:6px;font-size:.76rem;margin-top:6px}
+.behgrid div{background:var(--surface2);border-radius:7px;padding:5px 9px}
+.behgrid .k{color:var(--muted);font-size:.7rem}.behgrid .v{font-weight:600}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>돼지 활동 모니터링 <span style="font-size:.8rem;color:var(--muted)">Edinburgh 실데이터</span></h1>
+  <div class="sub">돈방 CCTV 개체 시계열 → 행동 인식 → <b>발정 의심 지수</b> 연계. 승가·활동↑·탐색↑·눕기↓ 행동을 발정 신호로 종합(수의학 근거, 규칙기반). 발정 정답(AI Hub 71471) 결합 시 지도 보정.</div>
+
+  <div class="kpis" id="kpis"></div>
+
+  <div class="row2">
+    <div class="card"><h2>행동 분포 (전체 프레임)</h2><div id="behdist"></div></div>
+    <div class="card"><h2>행동 인식 성능 — 클래스별 F1 <span style="font-weight:400;color:var(--muted);font-size:.78rem">(개체 분리 GroupKFold)</span></h2><div id="perclass"></div></div>
+  </div>
+
+  <div class="main">
+    <div class="card">
+      <h2>개체 목록 <span id="count" style="color:var(--muted);font-weight:400"></span>
+        <span style="font-weight:400;color:var(--muted);font-size:.76rem">· 발정 의심 순</span></h2>
+      <div class="tablewrap">
+        <table><thead><tr><th>개체</th><th>발정지수</th><th>활동성</th><th>주행동</th></tr></thead>
+        <tbody id="tbody"></tbody></table>
+      </div>
+    </div>
+    <div class="card" id="detail"></div>
+  </div>
+
+  <div class="note">
+    ※ Edinburgh Pig Behaviour Annotated (Kaggle, CC BY-NC 4.0) · 영상 제외 주석(output.json)만 사용.
+    활동성 = 활동 행동(walk/run/investigating/fight 등) 프레임 비율. 활동 점수 = 이동속도의
+    슬라이딩 윈도우 평균(전체 80분위 기준 정규화). 발정 정답 라벨은 이 데이터엔 없어
+    <b>활동·행동 관찰까지</b>가 범위이며, AI Hub 71471의 발정 정답과 결합하면 발정 판정으로 확장됩니다.
+  </div>
+</div>
+
+<script>
+window.DATA = /*__DATA__*/null;
+(function(){
+  const D=window.DATA;
+  if(!D){document.body.innerHTML="<p style='padding:40px'>데이터 없음. build_edinburgh_dashboard.py 실행.</p>";return;}
+  const pct=x=>(x*100).toFixed(0)+"%";
+  const m=D.meta;
+  document.getElementById("kpis").innerHTML=[
+    ["개체(pig)",m.n_individuals],["녹화",m.n_recordings],
+    ["프레임",m.n_frames.toLocaleString()],
+    ["발정 의심(지수≥0.6)",(m.n_suspect!=null?m.n_suspect+"두":"-")],
+    ["행동인식 정확도",m.accuracy.toFixed(3)],["Macro-F1",m.macro_f1.toFixed(3)],
+  ].map(([l,v])=>`<div class="kpi"><div class="v">${v}</div><div class="l">${l}</div></div>`).join("");
+
+  const bmax=Math.max(...D.behavior_dist.map(d=>d.count));
+  document.getElementById("behdist").innerHTML=D.behavior_dist.map(d=>`
+    <div class="hbar"><span title="${d.behavior}">${d.behavior}</span>
+    <div class="track"><div class="fill" style="width:${(d.count/bmax*100).toFixed(1)}%;background:var(--activity)"></div></div>
+    <b>${pct(d.frac)}</b></div>`).join("");
+
+  document.getElementById("perclass").innerHTML=D.perclass.map(d=>{
+    const c=d.f1>=0.6?"var(--good)":d.f1>=0.4?"var(--warning)":"var(--serious)";
+    return `<div class="hbar"><span title="${d.behavior}">${d.behavior} <span style="color:var(--muted)">(${d.support})</span></span>
+    <div class="track"><div class="fill" style="width:${(d.f1*100).toFixed(1)}%;background:${c}"></div></div>
+    <b>${d.f1.toFixed(2)}</b></div>`;}).join("");
+
+  const actColor=f=>f>=0.7?"var(--critical)":f>=0.5?"var(--serious)":f>=0.3?"var(--warning)":"var(--good)";
+  let selected=D.individuals[0];
+  function renderTable(){
+    document.getElementById("count").textContent="("+D.individuals.length+")";
+    document.getElementById("tbody").innerHTML=D.individuals.map(g=>`
+      <tr data-id="${g.id}" class="${g===selected?"sel":""}">
+        <td>${g.id}</td>
+        <td><span class="actbadge" style="background:${actColor(g.estrus_index!=null?g.estrus_index:0)}">${pct(g.estrus_index||0)}</span></td>
+        <td class="mono">${pct(g.active_frac)}</td>
+        <td>${g.dominant}</td></tr>`).join("");
+    document.querySelectorAll("#tbody tr").forEach(tr=>tr.onclick=()=>{
+      selected=D.individuals.find(g=>g.id===tr.dataset.id); renderTable(); renderDetail();});
+  }
+
+  function lineChart(x,y,opts){
+    const W=560,H=opts.h||150,P={l:34,r:12,t:12,b:22};
+    const ymin=opts.ymin!=null?opts.ymin:Math.min(...y);
+    const ymax=opts.ymax!=null?opts.ymax:(Math.max(...y)*1.05||1);
+    const X=i=>P.l+(x.length<2?0:i/(x.length-1))*(W-P.l-P.r);
+    const Y=v=>H-P.b-(v-ymin)/((ymax-ymin)||1)*(H-P.t-P.b);
+    let g="";
+    for(let k=0;k<=2;k++){const v=ymin+(ymax-ymin)*k/2,yy=Y(v);
+      g+=`<line x1="${P.l}" y1="${yy}" x2="${W-P.r}" y2="${yy}" stroke="var(--grid)"/>`;
+      g+=`<text x="${P.l-5}" y="${yy+3}" text-anchor="end" font-size="9" fill="var(--muted)">${v.toFixed(opts.dec||0)}</text>`;}
+    if(opts.threshold!=null){const yy=Y(opts.threshold);
+      g+=`<line x1="${P.l}" y1="${yy}" x2="${W-P.r}" y2="${yy}" stroke="var(--critical)" stroke-width="1.3" stroke-dasharray="4 3"/>`;}
+    if(opts.mark!=null){const mi=x.indexOf(opts.mark); if(mi>=0){const xx=X(mi);
+      g+=`<rect x="${xx}" y="${P.t}" width="${W-P.r-xx}" height="${H-P.t-P.b}" fill="var(--serious)" opacity="0.08"/>`;
+      g+=`<line x1="${xx}" y1="${P.t}" x2="${xx}" y2="${H-P.b}" stroke="var(--serious)" stroke-width="1.4"/>`;
+      g+=`<text x="${xx+3}" y="${P.t+9}" font-size="9" fill="var(--serious)">고활동 F${opts.mark}</text>`;}}
+    g+=`<path d="${y.map((v,i)=>(i?"L":"M")+X(i).toFixed(1)+" "+Y(v).toFixed(1)).join(" ")}" fill="none" stroke="${opts.color}" stroke-width="2" stroke-linejoin="round"/>`;
+    g+=`<text x="${P.l}" y="${H-6}" font-size="9" fill="var(--muted)">F${x[0]}</text>`;
+    g+=`<text x="${W-P.r}" y="${H-6}" text-anchor="end" font-size="9" fill="var(--muted)">F${x[x.length-1]}</text>`;
+    g+=`<line id="cx" x1="0" y1="${P.t}" x2="0" y2="${H-P.b}" stroke="var(--ink2)" opacity="0"/><circle id="cd" r="3.5" fill="${opts.color}" opacity="0"/>`;
+    g+=`<rect id="hit" x="${P.l}" y="${P.t}" width="${W-P.l-P.r}" height="${H-P.t-P.b}" fill="transparent"/>`;
+    return {svg:`<svg viewBox="0 0 ${W} ${H}" preserveAspectRatio="xMidYMid meet">${g}</svg>`,W,P,X,Y,x,y};
+  }
+  function attachHover(box,ch,fmt){
+    const svg=box.querySelector("svg"),hit=svg.querySelector("#hit"),cx=svg.querySelector("#cx"),cd=svg.querySelector("#cd"),tip=box.querySelector(".tip");
+    hit.addEventListener("mousemove",e=>{const r=svg.getBoundingClientRect(),sx=(e.clientX-r.left)/r.width*ch.W;
+      let i=Math.round((sx-ch.P.l)/((ch.W-ch.P.l-12)||1)*(ch.x.length-1)); i=Math.max(0,Math.min(ch.x.length-1,i));
+      const X=ch.X(i),Y=ch.Y(ch.y[i]); cx.setAttribute("x1",X);cx.setAttribute("x2",X);cx.setAttribute("opacity","0.5");
+      cd.setAttribute("cx",X);cd.setAttribute("cy",Y);cd.setAttribute("opacity","1");
+      tip.style.opacity=1;tip.style.left=(e.clientX-r.left+10)+"px";tip.style.top=(e.clientY-r.top-10)+"px";tip.innerHTML=fmt(i);});
+    hit.addEventListener("mouseleave",()=>{cx.setAttribute("opacity","0");cd.setAttribute("opacity","0");tip.style.opacity=0;});
+  }
+
+  function renderDetail(){
+    const g=selected, el=document.getElementById("detail");
+    const behs=Object.entries(g.behaviors).sort((a,b)=>b[1]-a[1]);
+    const behHtml=behs.map(([b,f])=>`<div><div class="k">${b}</div><div class="v">${pct(f)}</div></div>`).join("");
+    el.innerHTML=`
+      <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-bottom:4px">
+        <span style="font-size:1.1rem;font-weight:700">${g.id}</span>
+        <span class="pill" style="background:color-mix(in srgb,${actColor(g.estrus_index||0)} 20%,transparent);color:${actColor(g.estrus_index||0)}">발정 의심 지수 ${pct(g.estrus_index||0)}</span>
+        <span class="pill" style="background:var(--surface2);color:var(--ink2)">활동성 ${pct(g.active_frac)}</span>
+        <span style="font-size:.8rem;color:var(--ink2)">녹화 ${g.recording} · ${g.n_frames}프레임 · 주행동 <b>${g.dominant}</b></span>
+      </div>
+      ${g.estrus_drivers&&g.estrus_drivers!=="-"?`<div style="font-size:.82rem;color:var(--serious);margin:2px 0 8px">발정 유발 행동: <b>${g.estrus_drivers}</b> (활동↑·탐색↑ = 발정 신호)</div>`:``}
+      ${g.high_activity_frame!=null?`<div style="font-size:.82rem;color:var(--serious);font-weight:600;margin:4px 0 8px">▲ 고활동 구간 감지 — 프레임 F${g.high_activity_frame} (발정 의심 신호 후보)</div>`:`<div style="font-size:.82rem;color:var(--good);font-weight:600;margin:4px 0 8px">● 고활동 구간 없음 (정상 활동)</div>`}
+      <div class="legend"><span><span class="dot" style="background:var(--score)"></span>활동 점수(0–1)</span><span><span class="dot" style="background:var(--activity)"></span>이동속도(px/frame)</span></div>
+      <div class="chartbox" id="cScore"><div class="tip"></div></div>
+      <div class="chartbox" id="cAct" style="margin-top:6px"><div class="tip"></div></div>
+      <div style="margin-top:12px;font-size:.82rem;font-weight:600">행동 분포</div>
+      <div class="behgrid">${behHtml}</div>`;
+    const sc=lineChart(g.frames,g.score,{color:"var(--score)",ymin:0,ymax:1,dec:1,threshold:0.5,mark:g.high_activity_frame,h:150});
+    const scb=el.querySelector("#cScore"); scb.insertAdjacentHTML("afterbegin",sc.svg);
+    attachHover(scb,sc,i=>`F${g.frames[i]} · 점수 ${g.score[i].toFixed(2)}`);
+    const ac=lineChart(g.frames,g.activity,{color:"var(--activity)",ymin:0,dec:0,h:110});
+    const acb=el.querySelector("#cAct"); acb.insertAdjacentHTML("afterbegin",ac.svg);
+    attachHover(acb,ac,i=>`F${g.frames[i]} · 속도 ${g.activity[i].toFixed(1)}`);
+  }
+  renderTable(); renderDetail();
+})();
+</script>
+</body>
+</html>

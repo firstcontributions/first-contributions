@@ -1,0 +1,16 @@
+﻿,importance
+activity_max,0.1815
+activity_std,0.1577
+frac_lying,0.1149
+kp_spread_mean,0.0911
+bbox_area_mean,0.079
+frac_standing,0.079
+frac_eating,0.077
+activity_mean,0.065
+aspect_mean,0.0496
+frac_head_shaking,0.0486
+frac_tailing,0.0368
+frac_sitting,0.0135
+species_pig,0.006
+species_blackpig,0.0003
+n_frames,0.0
