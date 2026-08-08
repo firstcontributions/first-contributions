@@ -9,7 +9,8 @@
 - [soupnaie-mnm]
 - [Rakhi Jamdade]
 - [abdelrahman-mahmoud] (Iterating Test)
-- [hamsehmahamud](https://github.com/hamsehmahamud)
+- [hamsehmahamud] (https://github.com/hamsehmahamud)
+- [harshita-suresh] (https://github.com/Harshi108)
 - [LizC AU](https://github.com/lizc-au)
 - [Yush](https://github.com/yushtr)
 - [Ranzeus](https://github.com/Ranzeus)
@@ -535,25 +536,25 @@ Syed Omer
 - [jjks7021](https://github.com/jjks7021)
 - [astavkhra](https://github.com/astavkhra)
 - [buptjrq](https://github.com/buptjrq)
-  Sindy
+- Sindy
 - Clarisse Campos
 - linjvnzhen
 - Vasilis
 - Sakinah N
-harry
+- harry
 - [ManageSoft](https://github.com/ManageSoft-79) - Hello!
 - [chillSort](https://github.com/soumayagarwal) #Contributor
 - [iiifk](https://github.com/iiifk)
 - [rid325](https://github.com/rid325)
-Aalli
+= Aalli
 - Nemo
 - [Aliendated Forstbyte](https://github.com/alienated-forstbyte)
 - [Oussama Sarboute](https://github.com/Oussama763)
 - [gelrn](http://github.com/gelrn)
 - [IRJ Prime](https://github.com/IRJ-Prime)
--[Karthik](https://github.com/karthikroyal01)
--[Srishti K R](https://github.com/srishti-m-cmd)
---[Anurag Pal](https://github.com/Anuxragg)
+- [Karthik](https://github.com/karthikroyal01)
+- [Srishti K R](https://github.com/srishti-m-cmd)
+- [Anurag Pal](https://github.com/Anuxragg)
 - [Legus](https://github.com/Legus-Yeung)
 - [Mamilla R Anjali](https://github.com/Mamilla-R-Anjali)
 - [Alok Gupta](https://github.com/Alok-0601)
@@ -726,7 +727,7 @@ Aalli
 - [Novato Sensacion](https://github.com/SUS640-Z)
 - Ippy B
 - [Jefferson Brito](https://github.com/jeffbrito-dev)
--[BalrajuKonne2629](https://github.com/Balrajukonne2629/first-contributions.git)
+- [BalrajuKonne2629](https://github.com/Balrajukonne2629/first-contributions.git)
 - [Trongcoderr](https://github.com/Trongcoderr)
 - [Love Chauhan](https://github.com/chauhanlove271)
 - [Orji Emmanuel](https://github.com/ManuelOrji2)
@@ -3747,9 +3748,7 @@ Aalli
 - [macsius](https://github.com/macsius)
 - [Savneel Prasad](https://gihub.com/savneel-prasad)
 - [zinedineejey-art](https://github.com/zinedineejey-art)
-
 - [AzyzHm](https://github.com/AzyzHm)
-
 - [Nakul Sharma](https://github.com/nakulsharma02)
 - [Priya Dharshini](https://github.com/Dharshukutti)
 - [Samuel Manik](https://github.com/5amuel02)
@@ -3832,11 +3831,10 @@ Aalli
 - [Dhanashankar](https://github.com/dhanashankar1020)
 - [Om More](https://github.com/omkailasmore)
 - [tedhwang700](https://github.com/tedhwang700)
-
 - [Yagmur Sultan](https://github.com/yagmursultanekin)
 - [Pranav Patnaik](https://github.com/pranavpatnaik1)
 - [PiePzhanH](https://github.com/PiePzhanH)
-[Muhammad Lutfi Muzaki](https://github.com/MuhammadLutfiMuzakiiVY)
+- [Muhammad Lutfi Muzaki](https://github.com/MuhammadLutfiMuzakiiVY)
 - [deepak](https://github.com/deeps019)
 - [Nylog](https://github.com/Nylog)
 - [Manas Sharma](https://github.com/ManasDevHub00)
@@ -3946,15 +3944,13 @@ Harish K
 - [elrafael](https://github.com/elrafael)
 - [samtopia1-coder](https://github.com/samtopia1-coder)
 - [keredix](https://github.com/keredix)
-[Adedeji Makinde](https://github.com/adedeji-makinde)
+- [Adedeji Makinde](https://github.com/adedeji-makinde)
 - [GRGANESH-91](https://github.com/GRGANESH-91)
 - [Urooj Fatima](https://github.com/UroojFatima-052)
 - [Daryl Harry Bennet](https://github.com/LayzWOW)
-
 - [Sathi Chaitanya Sai Durga](https://github.com/sathichaitanyasaidurga)
-
 - [Sourabh Kumar](https://github.com/sourabhku88)
--[Aashi Srivastava](https://github.com/AashiSrivastava411)
+- [Aashi Srivastava](https://github.com/AashiSrivastava411)
 - [JoaoMenoli](https://github.com/JoaoMenoli)
 - [Aniket](https://github.com/AniketXcode)
 - [rm4x1](https://github.com/rm4x1)
@@ -4028,7 +4024,6 @@ Harish K
 - [2160039878-cyber](https://github.com/2160039878-cyber)
 - [Super23456](https://github.com/Super23456)
 - [RickStko](https://github.com/RickStko)
-
 - [Menard Rosal](https://github.com/rexblade58)
 - [ReSearCheR](https://github.com/thisistheRSCR)
 - [Saigafarova](https://github.com/Saigafarova)
@@ -4037,3 +4032,5 @@ Harish K
 - [Riya Singh](https://github.com/ri-ya24)
 - [iskipcollege](https://github.com/iskipcollege)
 - [moonllama-sketch](https://github.com/moonllama-sketch)
+- [oswaldo fabrizio de los santos ascencio](https://github.com/oswwwaldo)
+Raphael Karani
