@@ -342,6 +342,45 @@ def test_estrus_calendar_link() -> None:
         assert (linked.groupby("animal")["estrus"].nunique() > 1).all()
 
 
+def test_estrus_contrast_eval() -> None:
+    """개체 내 대조 발정 검증: 프레임 구성·그룹 AUC·결론 문장."""
+    import json
+    import tempfile
+    import estrus_contrast_eval as ece
+    acts = ["lying", "standing", "sitting", "eating"]
+    with tempfile.TemporaryDirectory() as d:
+        vd = os.path.join(d, "v"); bd = os.path.join(d, "b")
+        os.makedirs(vd); os.makedirs(bd)
+        animals = ["1-10", "1-11", "1-12", "1-13"]
+        for i, a in enumerate(animals):   # 모두 09/21 발정
+            json.dump({"VULVA": {"ANIMAL_ID": a, "DATE": "20220921_090000",
+                                 "FARM_NAME": "pigfarmA", "ESTRUS": "Y"}},
+                      open(os.path.join(vd, f"v{i}.json"), "w"))
+        # 같은 채널(ch3)에서 발정일(0921)·비발정일(1005) 프레임 생성
+        for a in animals:
+            for dt in ("2022092109", "2022100509"):
+                for t in range(6):
+                    anns = [{"ID": 1, "BOUNDING_BOX_X_COORDINATE": 10 + j * 50,
+                             "BOUNDING_BOX_Y_COORDINATE": 20,
+                             "BOUNDING_BOX_WIDTH": 100, "BOUNDING_BOX_HEIGHT": 80,
+                             "CATEGORY_NAME": "pig",
+                             "ACTION_NAME": acts[(j + t) % 4], "ESTRUS": "Y"}
+                            for j in range(4)]
+                    fn = f"pigfarmA_ch3_{dt}_{a}_{1000 + t}.json"
+                    json.dump({"IMAGE": {"IMAGE_FILE_NAME": fn[:-5] + ".jpg",
+                                         "WIDTH": 1920, "HEIGHT": 1080,
+                                         "TIMESTAMP": 1000 + t, "FARMID": "pigfarmA"},
+                               "ANNOTATION_INFO": anns},
+                              open(os.path.join(bd, fn), "w"))
+        F = ece.build_frames(vd, bd)
+        assert len(F) == 48 and F["animal"].nunique() == 4
+        assert F.groupby("animal")["y"].nunique().eq(2).all()  # 개체 내 대조 성립
+        r = ece.evaluate(vd, bd)
+        assert r["ok"] and r["n_within_contrast"] == 4
+        assert r["auc_behavior"] is not None
+        assert isinstance(ece.verdict(r), str) and ece.verdict(r)
+
+
 def main() -> int:
     tests = [test_dependencies_import, test_aihub_client_no_key,
              test_pipeline_runs, test_aihub_parsers,
@@ -352,7 +391,7 @@ def main() -> int:
              test_eval_report_figs, test_estrus_reference_validation,
              test_repro_cause_attribution, test_estrus_early_warning,
              test_repro_dashboard_svg, test_parse_71471_real_schema,
-             test_estrus_calendar_link]
+             test_estrus_calendar_link, test_estrus_contrast_eval]
     failed = 0
     for t in tests:
         try:
