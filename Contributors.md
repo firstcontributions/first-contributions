@@ -22,6 +22,7 @@
 - iuri-valbao
 - [Uday](https://github.com/Udayahir25)
 - [Ayush]
+- [ParaMatrix-404]
 - [Mr Talha Mulani](https://github.com/Mr-Talha-Mulani)
 - [AlexMnrs](https://github.com/AlexMnrs)
 - [fichil](https://github.com/fichil)
