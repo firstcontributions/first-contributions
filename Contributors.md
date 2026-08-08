@@ -74,6 +74,7 @@
 - [Syeda Sumayya](https://github.com/syedasumayya)
 - [Yutubdua7](https://github.com/yutubdua7-sys)
 - [Azan khan](https://github.com/Azankham)
+- [Praveen Thanvi](https://github.com/pthanvi10)
 - [Yashraj Pal](https://github.com/yashraj013)
 - [Kundan Dhage](https://github.com/KundanDhage)
 - [River Karnas](https://github.com/riverkarnas)
