@@ -22,7 +22,7 @@
 - [Sagar Kumar] (https://github.com/Sagar-Kumar01)
 - [dousha189](https://github.com/dousha189)
 - [Sachin Srivastava](https://github.com/SachinSrivastava777) 
--[Om Mithari](https://github.com/Ommithari21)
+- [Om Mithari](https://github.com)
 - [Kaustubh](https://github.com/Kaustubh0404)
 - [ODbeke](https://github.com/ODbeke)
 - [Darshan Bothra](https://github.com/DarshanBothra)
