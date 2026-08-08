@@ -108,7 +108,7 @@ CCTV → [탐지] → [추적/활동] → [행동 인식] → [발정 판정] �
 
 ---
 
-## 웹 대시보드 (11개 뷰, 통합 허브)
+## 웹 대시보드 (12개 뷰, 통합 허브)
 
 모든 뷰는 **외부 라이브러리·연결 없는 자체완결 HTML**(인라인 SVG/데이터, 라이트·
 다크 테마). 실데이터가 임베드된 대용량 뷰는 커밋하지 않고 로컬 생성한다.
@@ -121,6 +121,7 @@ bash competition/build_all.sh          # 전체 뷰 + 허브 생성
 | 카테고리 | 뷰 |
 |---|---|
 | 분석·리포트 | 발정 표준 리포트 · 활동/발정 모니터링 · 개체별 발정 타임라인 · 종합 분석 · **번식 진단·조기경보** · **평가 신뢰도 리포트** · 후보돈 무발정 위험 |
+| 분석·리포트(계속) | **실시간 경보 콘솔** |
 | 데이터 탐색 | 행동 확인(실영상 CCTV) · 자세 인식 · 탐지 뷰어(검색) · 탐지 기반 행동분석 |
 
 - **번식 진단·조기경보**(`build_repro_dashboard.py`): 문제 유형 분포 · 원인 4종
@@ -154,7 +155,7 @@ bash competition/build_all.sh          # 전체 뷰 + 허브 생성
 | 개체 식별 | RFID(확실, 설치비↑) | 영상 Re-ID(무센서·저비용, 0.77) |
 | 도입 비용 | 이표·센서 설치 | **기존 CCTV 활용** |
 | 평가 투명성 | 검증법 비공개 | ✅ 개체 분리·보정곡선 공개 |
-| 실시간 알람·모바일 | ✅ | ⬜ 배치 분석 |
+| 실시간 알람·모바일 | ✅ | 🟡 경보 콘솔·푸시 목업(발송 연동 미구현) |
 | 하드웨어 제어·ERP 통합 | ✅ | ⬜ 미대상(발정 구간 집중) |
 | 실농장 실증 | ✅ | ⬜ 미실시(단, 데이터 적합성은 실측 검증 완료) |
 
@@ -177,9 +178,12 @@ bash competition/build_all.sh          # 전체 뷰 + 허브 생성
 - [x] 관찰: 탐지→추적→행동 인식→활동 분석
 - [x] 진단: 문제 3종 분류 + 원인 4종 귀인 + 처방
 - [x] 예측: 발정 조기경보(D-day·지연/무발정)
-- [x] 대시보드: 11뷰 통합 허브 + 평가 신뢰도 리포트
+- [x] 대시보드: 12뷰 통합 허브 + 평가 신뢰도 리포트
 - [x] 실측: 71471 발정 정답 검증 — 서브셋 부적합을 3단계 설계로 규명(AUC 0.465)
-- [ ] 발정 판정 재도전: 원천 동영상(활동량 시계열) 또는 외음부 이미지 원천 확보
+- [x] keypoints 경로 시도: 파서·자세 기술자(44개, 회전·크기 불변) 완성 — 단,
+      날짜 불일치로 검증 미실시(파이프라인은 대기 상태)
+- [x] 실시간 경보 콘솔: 긴급도 조치 큐 + 모바일 푸시 목업
+- [ ] 발정 판정 재도전: 원천 동영상(활동량 시계열) 또는 날짜가 겹치는 keypoints 확보
 - [ ] 원인 실측 연계: 71763 센서(THI·영양)로 귀인 검증
 - [ ] 처방 효과 폐루프 검증(처방 후 발정 회복률)
 
@@ -193,12 +197,12 @@ competition/
   build_all.sh              # 전체 대시보드 생성
   requirements.txt
   docs/  AIHUB.md · EDINBURGH.md · SCHEMA.md
-  src/   (37개) 관찰·판정·진단·예측·대시보드 생성 스크립트
+  src/   (39개) 관찰·판정·진단·예측·대시보드 생성 스크립트
     iou_tracker.py  model_behavior_appearance.py  aihub_estrus_reference.py
     repro_cause_attribution.py  estrus_early_warning.py  validate_estrus_reference.py
     parse_71471_real.py  estrus_calendar.py  estrus_contrast_eval.py
     build_eval_report.py  build_repro_dashboard.py  build_dashboard_hub.py  ...
-  tests/ smoke_test.py       # 21개 스모크 테스트
+  tests/ smoke_test.py       # 22개 스모크 테스트
   dashboard/                 # (생성물) 뷰 HTML — 허브 index.html 제외 커밋 안 함
   data/, outputs/            # (생성물)
 ```
@@ -209,7 +213,7 @@ competition/
 
 ```bash
 pip install -r competition/requirements.txt
-python competition/tests/smoke_test.py        # 21/21 통과 확인
+python competition/tests/smoke_test.py        # 22/22 통과 확인
 
 # 개별 모듈(합성/케글 데이터로 즉시 실행)
 python competition/src/repro_cause_attribution.py   # 번식 진단
