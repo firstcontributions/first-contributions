@@ -29,17 +29,16 @@ jobs:
             const isOnlyContributors = filenames.length === 1 && filenames[0] === 'Contributors.md';
 
             const { additions, deletions } = context.payload.pull_request;
-            const isLinesChangedUnderThreshod = (additions < 5 && deletions < 4);
+            const isLinesChangedUnderThreshold = (additions < 5 && deletions < 4);
 
-            core.setOutput('only_contributors', isOnlyContributors && isLinesChangedUnderThreshod);
+            core.setOutput('only_contributors', isOnlyContributors && isLinesChangedUnderThreshold);
             core.setOutput('filenames', filenames.join(', '));
 
-            const moreLineChanged = (isOnlyContributors && !isLinesChangedUnderThreshod)
-
-            // set true if multiple changed if only isOnlyContributors 
+            const moreLineChanged = (isOnlyContributors && !isLinesChangedUnderThreshold)
+            // Set to true if only Contributors.md was changed but multiple lines were modified.
             core.setOutput('isMultipleLineChanged', moreLineChanged)
 
-            // is multiple file changed
+            // Check if multiple files were changed
             core.setOutput('isMultipleFilesChanged', !isOnlyContributors)
             
             if (!isOnlyContributors) {
