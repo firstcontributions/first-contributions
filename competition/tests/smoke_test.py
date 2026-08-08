@@ -274,6 +274,41 @@ def test_repro_dashboard_svg() -> None:
     assert "<polyline" in chart and "발정 임계" in chart and "정상 발정" in legend
 
 
+def test_parse_71471_real_schema() -> None:
+    """71471 실제 배포 스키마(ANNOTATION_INFO/ESTRUS) 파서 + 실측 검증 경로."""
+    import json
+    import tempfile
+    import parse_71471_real as p71
+    import validate_estrus_reference as ver
+    acts = ["lying", "standing", "eating", "tailing", "sitting"]
+    with tempfile.TemporaryDirectory() as d:
+        for k in range(10):
+            ts = 160700 + k * 100
+            anns = [{"ID": 1000 + k * 10 + i,
+                     "BOUNDING_BOX_X_COORDINATE": 142 + i * 180,
+                     "BOUNDING_BOX_Y_COORDINATE": 455,
+                     "BOUNDING_BOX_WIDTH": 360 - i * 20,
+                     "BOUNDING_BOX_HEIGHT": 260 - i * 10,
+                     "CATEGORY_NAME": "pig",
+                     "ACTION_NAME": "tailing" if i == 0 else acts[i % len(acts)],
+                     "ESTRUS": "Y" if i == 0 else "N"} for i in range(5)]
+            fn = f"pigfarmA_ch9_2022092109_20-85_{ts}.json"
+            json.dump({"INFO": {"VERSION": "1.0"},
+                       "IMAGE": {"IMAGE_FILE_NAME": fn.replace(".json", ".jpg"),
+                                 "WIDTH": 1920, "HEIGHT": 1080, "TIMESTAMP": ts,
+                                 "FARMID": "pigfarmA", "HEADCOUNT": 500},
+                       "ANNOTATION_INFO": anns},
+                      open(os.path.join(d, fn), "w"), ensure_ascii=False)
+        df = p71.parse_dir(d)
+        assert len(df) == 50 and df["estrus"].sum() == 10
+        assert {"session", "behavior", "estrus", "bbox_w"} <= set(df.columns)
+        nm = p71.parse_name("pigfarmA_ch9_2022092109_20-85_160700.json")
+        assert nm["farm"] == "pigfarmA" and nm["channel"] == "ch9" and nm["ts"] == 160700
+        r = ver.evaluate_real_schema(d)
+        assert r["is_real"] and r["schema"] == "71471-real"
+        assert 0.0 <= r["auc_calibrated"] <= 1.0
+
+
 def main() -> int:
     tests = [test_dependencies_import, test_aihub_client_no_key,
              test_pipeline_runs, test_aihub_parsers,
@@ -283,7 +318,7 @@ def main() -> int:
              test_appearance_crop_feats, test_iou_tracker,
              test_eval_report_figs, test_estrus_reference_validation,
              test_repro_cause_attribution, test_estrus_early_warning,
-             test_repro_dashboard_svg]
+             test_repro_dashboard_svg, test_parse_71471_real_schema]
     failed = 0
     for t in tests:
         try:

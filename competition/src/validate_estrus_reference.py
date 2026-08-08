@@ -30,9 +30,11 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(os.path.dirname(HERE))
 sys.path.insert(0, HERE)
 import aihub_estrus_reference as ref  # noqa: E402
+import parse_71471_real  # noqa: E402
 import parse_aihub  # noqa: E402
 
 REAL_DIR = os.path.join(ROOT, "competition", "data", "aihub", "71471")
+GEOM = ["bbox_w", "bbox_h", "aspect_ratio", "area", "centroid_x", "centroid_y"]
 
 
 def resolve_dir(arg: str | None) -> str | None:
@@ -82,7 +84,78 @@ def to_individual_table(frames: pd.DataFrame) -> pd.DataFrame:
     return tbl.drop(columns="_activity_raw")
 
 
+def evaluate_real_schema(label_dir: str) -> dict | None:
+    """71471 **실제 배포 스키마**(ANNOTATION_INFO/ESTRUS) 인스턴스 단위 실측 검증.
+
+    각 bbox 에 ESTRUS(Y/N) 정답이 있으므로 개체 집계 없이 바로 지도 검증한다.
+    누수 방지: 세션(농장+채널+일시) 단위 GroupKFold.
+      · auc_rule       : 71471 표준 가중치(무학습) 점수의 AUC — baseline
+      · auc_calibrated : 행동 원핫 + bbox 기하로 학습한 보정 모델의 AUC
+    """
+    from sklearn.linear_model import LogisticRegression
+    from sklearn.metrics import roc_auc_score
+    from sklearn.model_selection import GroupKFold, cross_val_predict
+    df = parse_71471_real.parse_dir(label_dir)
+    if not len(df) or df["estrus"].isna().all():
+        return None
+    df = df[df["estrus"].notna()].copy()
+    y = df["estrus"].astype(int).to_numpy()
+    out = {"is_real": True, "schema": "71471-real", "n": int(len(df)),
+           "pos_rate": round(float(y.mean()), 3),
+           "n_sessions": int(df["session"].nunique()),
+           "n_files": int(df["file"].nunique()),
+           "auc_rule": None, "auc_calibrated": None}
+    # 규칙 baseline: 행동 → 71471 표준 카테고리 → 수의학 가중치
+    R = ref.EstrusReference()
+    rule = np.array([R.score({ref.to_reference(b): 1.0} if ref.to_reference(b)
+                             else {}, 0.0) for b in df["behavior"]])
+    if len(set(y)) < 2:
+        out["note"] = "단일 클래스 — 검증 불가(발정 라벨이 한 종류)"
+        return out
+    out["auc_rule"] = round(float(roc_auc_score(y, rule)), 3)
+    # 보정 모델: 행동 원핫 + bbox 기하, 세션 분리 검증
+    X = pd.get_dummies(df["behavior"].fillna("unknown"), prefix="beh")
+    for c in GEOM:
+        X[c] = pd.to_numeric(df[c], errors="coerce")
+    X = X.fillna(0.0)
+    groups = df["session"].to_numpy()
+    n_g = len(set(groups))
+    clf = LogisticRegression(max_iter=2000, class_weight="balanced")
+    if n_g >= 2 and len(df) >= 20:
+        cv = GroupKFold(n_splits=min(5, n_g))
+        proba = cross_val_predict(clf, X, y, cv=cv, groups=groups,
+                                  method="predict_proba")[:, 1]
+        out["cv"] = f"GroupKFold({min(5, n_g)}) by session"
+    else:                       # 세션이 1개뿐이면 층화 5-fold (누수 주의 명시)
+        from sklearn.model_selection import StratifiedKFold
+        proba = cross_val_predict(clf, X, y, cv=StratifiedKFold(5, shuffle=True,
+                                  random_state=42), method="predict_proba")[:, 1]
+        out["cv"] = "StratifiedKFold(5) — 세션 1개라 세션 분리 불가"
+    out["auc_calibrated"] = round(float(roc_auc_score(y, proba)), 3)
+    out["proba"] = proba
+    out["y"] = y
+    out["behavior_top"] = df["behavior"].value_counts().head(8).to_dict()
+    # 발정 개체의 행동 분포(도메인 근거 확인용)
+    out["estrus_behavior"] = (df[df["estrus"] == 1]["behavior"]
+                              .value_counts().head(6).to_dict())
+    return out
+
+
 def evaluate(arg: str | None = None) -> dict:
+    """실데이터가 있으면 실측, 없으면 합성 시연.
+
+    실제 배포 스키마(ANNOTATION_INFO/ESTRUS)를 먼저 시도하고, 아니면 기존
+    (소문자 키) 스키마 경로로 폴백한다.
+    """
+    d = resolve_dir(arg)
+    if d:
+        real = evaluate_real_schema(d)
+        if real is not None:
+            return real
+    return _evaluate_legacy(arg)
+
+
+def _evaluate_legacy(arg: str | None = None) -> dict:
     """실측(또는 시연) 발정 검증 결과 dict.
 
     반환: is_real, n, pos_rate, auc_calibrated(지도 보정 AUC),
@@ -122,7 +195,16 @@ def main() -> int:
     arg = sys.argv[1] if len(sys.argv) > 1 else None
     r = evaluate(arg)
     tag = "실측(71471)" if r["is_real"] else "합성 시연(국내망 파일 도착 전)"
-    print(f"발정 검증 [{tag}] — 개체 {r['n']}두, 발정 {r['pos_rate']:.0%}")
+    if r.get("schema") == "71471-real":
+        print(f"발정 검증 [{tag}] — 인스턴스 {r['n']:,}개(bbox), "
+              f"발정 {r['pos_rate']:.1%} | 파일 {r['n_files']:,} · "
+              f"세션 {r['n_sessions']}")
+        print(f"  검증: {r.get('cv','-')}")
+        if r.get("estrus_behavior"):
+            print("  발정 개체 행동: " + ", ".join(
+                f"{k} {v}" for k, v in r["estrus_behavior"].items()))
+    else:
+        print(f"발정 검증 [{tag}] — 개체 {r['n']}두, 발정 {r['pos_rate']:.0%}")
     if r.get("auc_calibrated") is not None:
         print(f"  보정 AUC {r['auc_calibrated']}  |  규칙 baseline AUC {r['auc_rule']}")
     else:

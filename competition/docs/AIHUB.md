@@ -214,6 +214,36 @@ AI Hub는 **데이터 다운로드를 국내 IP에서만** 허용한다. 조회�
 > 요약: 코드(로더·보정·리포트 슬롯)는 이미 완성되어 대기 중이다. 국내망에서 라벨
 > 파일만 한 번 떨어뜨리면 발정 실측 검증이 그대로 돌아간다.
 
+### 실제 라벨 스키마 (확인 완료, 2022 labelon 배포본)
+
+실데이터를 받아 확인한 결과 스키마는 **대문자 키 + 프레임(이미지) 1개당 JSON 1개**다.
+`src/parse_71471_real.py` 가 이 스키마를 파싱한다.
+
+```json
+{"INFO": {"DATASET_NAME": "[Bbox]돼지(백돼지) 발정행동 데이터", "VERSION": "1.0"},
+ "IMAGE": {"IMAGE_FILE_NAME": "pigfarmA_ch9_2022092109_20-85_160700.jpg",
+           "WIDTH": 1920, "HEIGHT": 1080, "TIMESTAMP": 160700,
+           "FARMID": "pigfarmA", "HEADCOUNT": 500, "RECORD_TIME": 23},
+ "ANNOTATION_INFO": [
+   {"ID": 122946126,
+    "BOUNDING_BOX_X_COORDINATE": 142, "BOUNDING_BOX_Y_COORDINATE": 455,
+    "BOUNDING_BOX_WIDTH": 363, "BOUNDING_BOX_HEIGHT": 260,
+    "CATEGORY_NAME": "pig", "ACTION_NAME": "lying", "ESTRUS": "N"}]}
+```
+
+핵심 포인트:
+- **`ESTRUS`("Y"/"N")가 bbox(개체 인스턴스)별 정답 라벨** → 발정 지도학습의 근거.
+- `ACTION_NAME` = 행동 라벨(lying/standing/eating/head shaking/tailing/sitting).
+- **개체 추적 ID 는 없다**(`ID`는 주석 고유번호). 개체 단위 집계가 필요하면
+  `iou_tracker` 로 프레임 간 ID 를 부여한다. 발정 검증은 인스턴스 단위로 바로 가능.
+- 파일명 규칙: `{farm}_{channel}_{yyyymmddHH}_{pen}_{timestamp}.json`
+  → 세션(농장+채널+일시)을 **누수 방지 GroupKFold 그룹 키**로 사용한다.
+
+```bash
+python competition/src/parse_71471_real.py <라벨디렉터리>     # 파싱·요약
+python competition/src/validate_estrus_reference.py <라벨디렉터리>  # 실측 발정 AUC
+```
+
 ## 출처
 
 - [AI 허브 오픈 API 'aihubshell' 이용안내](https://www.aihub.or.kr/devsport/apishell/list.do)
