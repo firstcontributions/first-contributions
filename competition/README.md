@@ -168,7 +168,9 @@ bash competition/build_all.sh          # 전체 뷰 + 허브 생성
 - **발정 판정 미완(원인 규명됨)**: 71471 [Bbox] 서브셋으로 실측한 결과, 카메라·개체를
   통제하면 AUC 0.465(무작위)로 **이 라벨로는 발정 판정이 불가**함을 확인했다. 발정
   지시 행동이 주석에 없는 것이 원인. → 원천 동영상 또는 외음부 이미지 원천이 필요.
-- **행동 인식 0.49**: 미묘 행동(fight·sitting) 혼동. → 포즈/시퀀스(LSTM) 모델 여지.
+- **행동 인식 0.49**: 미묘 행동(fight·sitting) 혼동. → 시퀀스(LSTM) 모델 여지.
+  (단, 71471 에서 자세 기술자 44개가 행동 라벨 4종과 대등했으므로 **정지 프레임
+  피처를 늘리는 방향은 이득이 작다** — 시간 축 확장이 옳은 방향.)
 - **도메인 격차**: 케글은 영국 연구용 우리, 국내 상용 돈방과 차이. 교차-데이터셋
   일반화 ~0.41. → 국내 데이터 파인튜닝 필요.
 - **Re-ID 한계**: 고전 외형 Re-ID는 위치 게이트로 오병합을 막았으나 잔여 단편화
@@ -180,8 +182,9 @@ bash competition/build_all.sh          # 전체 뷰 + 허브 생성
 - [x] 예측: 발정 조기경보(D-day·지연/무발정)
 - [x] 대시보드: 12뷰 통합 허브 + 평가 신뢰도 리포트
 - [x] 실측: 71471 발정 정답 검증 — 서브셋 부적합을 3단계 설계로 규명(AUC 0.465)
-- [x] keypoints 경로 시도: 파서·자세 기술자(44개, 회전·크기 불변) 완성 — 단,
-      날짜 불일치로 검증 미실시(파이프라인은 대기 상태)
+- [x] keypoints 경로 시도: 파서·자세 기술자(44개, 회전·크기 불변) 완성. 날짜
+      불일치로 개체 내 대조는 미실시했으나, **자세 vs 행동라벨 정보량 비교**를
+      수행 — 대등(0.596 vs 0.619)으로 **정지 프레임의 천장**을 확인
 - [x] 실시간 경보 콘솔: 긴급도 조치 큐 + 모바일 푸시 목업
 - [ ] 발정 판정 재도전: 원천 동영상(활동량 시계열) 또는 날짜가 겹치는 keypoints 확보
 - [ ] 원인 실측 연계: 71763 센서(THI·영양)로 귀인 검증
@@ -197,12 +200,12 @@ competition/
   build_all.sh              # 전체 대시보드 생성
   requirements.txt
   docs/  AIHUB.md · EDINBURGH.md · SCHEMA.md
-  src/   (39개) 관찰·판정·진단·예측·대시보드 생성 스크립트
+  src/   (41개) 관찰·판정·진단·예측·대시보드 생성 스크립트
     iou_tracker.py  model_behavior_appearance.py  aihub_estrus_reference.py
     repro_cause_attribution.py  estrus_early_warning.py  validate_estrus_reference.py
     parse_71471_real.py  estrus_calendar.py  estrus_contrast_eval.py
     build_eval_report.py  build_repro_dashboard.py  build_dashboard_hub.py  ...
-  tests/ smoke_test.py       # 22개 스모크 테스트
+  tests/ smoke_test.py       # 23개 스모크 테스트
   dashboard/                 # (생성물) 뷰 HTML — 허브 index.html 제외 커밋 안 함
   data/, outputs/            # (생성물)
 ```
@@ -213,7 +216,7 @@ competition/
 
 ```bash
 pip install -r competition/requirements.txt
-python competition/tests/smoke_test.py        # 22/22 통과 확인
+python competition/tests/smoke_test.py        # 23/23 통과 확인
 
 # 개별 모듈(합성/케글 데이터로 즉시 실행)
 python competition/src/repro_cause_attribution.py   # 번식 진단

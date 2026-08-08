@@ -414,6 +414,41 @@ def test_keypoints_parser_pose() -> None:
         assert set(kpp.FEATURES) <= set(df.columns) and len(kpp.FEATURES) == 44
 
 
+def test_pose_vs_behavior_eval() -> None:
+    """자세 vs 행동라벨 비교 평가: 채널 분리 검증과 결론 문장."""
+    import json
+    import tempfile
+    import random
+    import pose_vs_behavior_eval as pve
+    random.seed(4)
+    acts = ["lying", "standing", "sitting", "eating"]
+    with tempfile.TemporaryDirectory() as d:
+        # ch1~4 발정 / ch5~8 비발정 (클래스별 채널 4개씩)
+        for ch in range(1, 9):
+            est = "Y" if ch <= 4 else "N"
+            for t_ in range(6):
+                anns = []
+                for i in range(3):
+                    kp = [v for j in range(8) for v in
+                          (800 + i * 150 + j * 11 + random.randint(-4, 4),
+                           600 + (j % 3) * 18 + random.randint(-4, 4), 2)]
+                    anns.append({"ID": ch * 100 + t_ * 10 + i, "KEYPOINTS": kp,
+                                 "NUM_KEYPIONTS": 8, "CATEGORY_NAME": "pig",
+                                 "ACTION_NAME": random.choice(acts), "ESTRUS": est})
+                fn = f"pigfarmA_ch{ch}_2022071009_100_{5000 + t_}.json"
+                json.dump({"IMAGE": {"IMAGE_FILE_NAME": fn[:-5] + ".jpg",
+                                     "WIDTH": 1920, "HEIGHT": 1080,
+                                     "TIMESTAMP": 5000 + t_, "FARMID": "pigfarmA"},
+                           "ANNOTATION_INFO": anns},
+                          open(os.path.join(d, fn), "w"))
+        r = pve.evaluate(d)
+        assert r["ok"] and r["n_channels"] == 8
+        assert r["n_pos_ch"] == 4 and r["n_neg_ch"] == 4
+        assert 0.0 <= r["auc_pose"] <= 1.0 and 0.0 <= r["auc_behavior"] <= 1.0
+        assert set(r["auc_pose_parts"]) == {"쌍거리(28)", "형태지표(8)", "가시성(8)"}
+        assert isinstance(pve.verdict(r), str) and pve.verdict(r)
+
+
 def main() -> int:
     tests = [test_dependencies_import, test_aihub_client_no_key,
              test_pipeline_runs, test_aihub_parsers,
@@ -425,7 +460,7 @@ def main() -> int:
              test_repro_cause_attribution, test_estrus_early_warning,
              test_repro_dashboard_svg, test_parse_71471_real_schema,
              test_estrus_calendar_link, test_estrus_contrast_eval,
-             test_keypoints_parser_pose]
+             test_keypoints_parser_pose, test_pose_vs_behavior_eval]
     failed = 0
     for t in tests:
         try:
