@@ -309,6 +309,39 @@ def test_parse_71471_real_schema() -> None:
         assert 0.0 <= r["auc_calibrated"] <= 1.0
 
 
+def test_estrus_calendar_link() -> None:
+    """외음부 발정 달력 × bbox 인덱스 연결(개체 내 시간 대조)."""
+    import json
+    import tempfile
+    import estrus_calendar as ec
+    with tempfile.TemporaryDirectory() as d:
+        vd = os.path.join(d, "vulva"); bd = os.path.join(d, "bbox")
+        os.makedirs(vd); os.makedirs(bd)
+        # 개체 A: 11/02 발정 / 개체 B: 11/09 발정
+        for i, (a, dt) in enumerate([("1-16", "20221102_090000"),
+                                     ("1-23", "20221109_090000")]):
+            json.dump({"VULVA": {"ANIMAL_ID": a, "DATE": dt,
+                                 "FARM_NAME": "pigfarmA", "ESTRUS": "Y"}},
+                      open(os.path.join(vd, f"v{i}.json"), "w"))
+        # bbox: 발정일 프레임 + 멀리 떨어진 비발정일 프레임 + 애매구간
+        for a, dt in [("1-16", "2022110209"), ("1-16", "2022101009"),
+                      ("1-16", "2022110409"), ("1-23", "2022110909"),
+                      ("1-23", "2022100109")]:
+            fn = f"pigfarmA_ch1_{dt}_{a}_100.json"
+            open(os.path.join(bd, fn), "w").write("{}")
+        cal = ec.load_calendar(vd)
+        assert len(cal) == 2 and cal["estrus"].sum() == 2
+        idx = ec.bbox_index(bd)
+        assert len(idx) == 5 and set(idx["animal"]) == {"1-16", "1-23"}
+        linked = ec.link(cal, idx, window=3)
+        # 발정일 2건(양성), 멀리 떨어진 2건(음성), 11/04(발정+2일)은 제외
+        assert int((linked["estrus"] == 1).sum()) == 2
+        assert int((linked["estrus"] == 0).sum()) == 2
+        assert len(linked) == 4
+        # 개체 내 대조가 성립(각 개체가 양성·음성 모두 보유)
+        assert (linked.groupby("animal")["estrus"].nunique() > 1).all()
+
+
 def main() -> int:
     tests = [test_dependencies_import, test_aihub_client_no_key,
              test_pipeline_runs, test_aihub_parsers,
@@ -318,7 +351,8 @@ def main() -> int:
              test_appearance_crop_feats, test_iou_tracker,
              test_eval_report_figs, test_estrus_reference_validation,
              test_repro_cause_attribution, test_estrus_early_warning,
-             test_repro_dashboard_svg, test_parse_71471_real_schema]
+             test_repro_dashboard_svg, test_parse_71471_real_schema,
+             test_estrus_calendar_link]
     failed = 0
     for t in tests:
         try:
