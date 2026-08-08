@@ -14,6 +14,7 @@
 - [Rakshita Bangera](https://github.com/RakshitaBangera)
 - [Yash Badhe]
 - iuri-valbao
+- [Uday](https://github.com/Udayahir25)
 - [Ayush]
 - [AlexMnrs](https://github.com/AlexMnrs)
 - [fichil](https://github.com/fichil)
