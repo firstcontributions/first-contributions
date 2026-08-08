@@ -1895,6 +1895,7 @@ Amna Naeem
 - [Ayushna Bora](https://github.com/AyushnaBora95)
 - [Madhushree Mirji](https://github.com/madhushree-mirji/)
 - [Davy Jones](https://github.com/davyjones7321)
+- [Ganesh Chandra](https://github.com/ganeshchandra111)
 - [Maged Ibrahim](https://github.com/I-Maged)
 - [Mamata Poudel](https://github.com/mamata0117)
 - [Manan Pal](https://github.com/mananpal-dev)
