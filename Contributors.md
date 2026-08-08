@@ -31,6 +31,7 @@
 - [Aditya Vatsa] (https://github.com/VatsAditya48)
 - [saiyarram]
 - [Nico]
+- [Samuel Gutierrez](https://github.com/SamuelCosmo)
 - [Sanjana N N] (https://github.com/Sanjana-nn2)
 - [Sudarshan Murade](https://github.com/sudarshan-murade)
 - [Sagar Kumar] (https://github.com/Sagar-Kumar01)
