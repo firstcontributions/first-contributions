@@ -3469,6 +3469,8 @@ bhumika
 - Milz
 - [Lehar](https://github.com/lehar07-alt)
 - [Nithin Katariya V](https://github.com/Nithin-jain22)
+- [Shodhan](https://github.com/shodhan-git)
+- [Muhammad Usman](https://github.com/techyusman)
 - [jempolbagas](https://github.com/jempolbagas)
 - [Shodhan](https://github.com/shodhan-git)
 - [Gerd10](https://github.com/Gerd10)
