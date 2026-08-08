@@ -381,6 +381,39 @@ def test_estrus_contrast_eval() -> None:
         assert isinstance(ece.verdict(r), str) and ece.verdict(r)
 
 
+def test_keypoints_parser_pose() -> None:
+    """71471 [Keypoints] 파서 + 회전·크기 불변 자세 기술자."""
+    import json
+    import tempfile
+    import numpy as np
+    import parse_71471_keypoints as kpp
+    # 자세 기술자: 회전·평행이동·크기를 바꿔도 쌍거리는 동일해야 한다
+    base = np.array([[0, 0], [10, 0], [20, 0], [20, 10],
+                     [10, 10], [0, 10], [5, 5], [15, 5]], float)
+    kp1 = np.hstack([base, np.full((8, 1), 2.0)])
+    th = np.pi / 3
+    R = np.array([[np.cos(th), -np.sin(th)], [np.sin(th), np.cos(th)]])
+    kp2 = np.hstack([(base @ R.T) * 2.5 + 100, np.full((8, 1), 2.0)])
+    f1, f2 = kpp.pose_features(kp1), kpp.pose_features(kp2)
+    for c in kpp.PAIR_COLS[:6]:
+        assert abs(f1[c] - f2[c]) < 1e-6, f"{c} 불변성 위반"
+    assert abs(f1["kp_elong"] - f2["kp_elong"]) < 1e-6
+    # 파서
+    with tempfile.TemporaryDirectory() as d:
+        kp = [v for j in range(8) for v in (800 + j * 10, 600 + (j % 3) * 15, 2)]
+        fn = "pigfarmA_ch9_2022080509_334_663233.json"
+        json.dump({"IMAGE": {"IMAGE_FILE_NAME": fn[:-5] + ".jpg", "WIDTH": 1920,
+                             "HEIGHT": 1080, "TIMESTAMP": 663233, "FARMID": "pigfarmA"},
+                   "ANNOTATION_INFO": [{"ID": 1, "KEYPOINTS": kp, "NUM_KEYPIONTS": 8,
+                                        "CATEGORY_NAME": "pig", "ACTION_NAME": "lying",
+                                        "ESTRUS": "N"}]},
+                  open(os.path.join(d, fn), "w"))
+        df = kpp.parse_dir(d)
+        assert len(df) == 1 and df["animal"].iloc[0] == "334"
+        assert df["channel"].iloc[0] == "ch9" and df["estrus"].iloc[0] == 0
+        assert set(kpp.FEATURES) <= set(df.columns) and len(kpp.FEATURES) == 44
+
+
 def main() -> int:
     tests = [test_dependencies_import, test_aihub_client_no_key,
              test_pipeline_runs, test_aihub_parsers,
@@ -391,7 +424,8 @@ def main() -> int:
              test_eval_report_figs, test_estrus_reference_validation,
              test_repro_cause_attribution, test_estrus_early_warning,
              test_repro_dashboard_svg, test_parse_71471_real_schema,
-             test_estrus_calendar_link, test_estrus_contrast_eval]
+             test_estrus_calendar_link, test_estrus_contrast_eval,
+             test_keypoints_parser_pose]
     failed = 0
     for t in tests:
         try:
