@@ -12,6 +12,7 @@
 - [abdelrahman-mahmoud](https://github.com/abdelrahman-amrawy)
 - [Jayaditya Sahu](My second push)
 - [Rakshita Bangera](https://github.com/RakshitaBangera)
+- [Payal Gupta](https://github.com/payal1020-creator)
 - [Yash Badhe]
 - iuri-valbao
 - [Ayush]
