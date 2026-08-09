@@ -74,7 +74,7 @@
 -[Antrika Kashyap](https://github.com/antrika02)
 - [V.Pranavi](https://github.com/pranavivaranasi07-dev)
 -[Rakshita.Naik](https://github.com/rakshiknaik211-netizen/first-contributions)
-- [antoni306] (https://github.com/antoni306)
+- [antoni306] (httpcd first-contributionss://github.com/antoni306)
 - [adwait zanjurne](https://github.com/adwaitzanjurnepz-netizen)
 - [taehunkang36](https://github.com/taehunkang36)
 - [Evan Williams] (https://github.com/EvanInTech)
@@ -4031,3 +4031,4 @@ Raphael Karani
 - [Shradul Sharma](https://github.com/RevenClaw)
 - [Varun](https://github.com/Varun-code012)
 - [REAF-feng](https://github.com/REAF-feng)
+- [Bhuvnesh](https://github.com/bhuvitw)
