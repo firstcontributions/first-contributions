@@ -8,6 +8,7 @@
 - Second Contribution
 - Joseph Francis
 - first contribution
+- Rohit Negi
 - [soupnaie-mnm]
 - [Rakhi Jamdade]
 - [abdelrahman-mahmoud] (Iterating Test)
