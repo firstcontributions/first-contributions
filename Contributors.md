@@ -639,6 +639,7 @@ kalyani
 - [Bian](https://github.com/chozinthwe25-crypto)
 -[Ripunjay_Saini](https://github.com/Cluckpro31)
 - [Bo Bo](https://github.com/xubo-master)
+- sayeed
 - [Ahyeon](https://github.com/ahyeon2626)
 - [Aman Rai](https://github.com/amanrai0810)
 - [Sakshi Lavekar](https://github.com/SakshiLavekar-btech)
