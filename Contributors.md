@@ -238,6 +238,7 @@ nathan practice here
 - [Navin Choudhary](https://github.com/Navin-Choudhary)
 - [Sandeep Mahato](https://github.com/sandeepmahato1)
 - [Dinesh](https://github.com/ad-Dinesh)
+- [Atharv Shukla](https://github.com/atharvshukla24)
 - [Yashwanth Patil](https://github.com/Yashwanthpatil2005)
 - [Ashraf Naeem](https://github.com/ashrafnaeem1)
 - [Safwan Intisar](https://github.com/saftech2911)
