@@ -351,6 +351,7 @@ nathan practice here
 - [Jasminder Singh](https://github.com/Jasminder-Singh)
 - [Mahima](https://github.com/mahima44-svg)
   -[Aditi Mahajan](https://github.com/adi1233883)
+- [PULKIT](https://github.com/PULKIT-OP)
 
   [Ronit](https://github.com/ronitchiluka06)
 - [Aditya Adarsh](https://github.com/AdityaAdarsh25)
