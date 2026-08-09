@@ -123,6 +123,7 @@
 - [Gururaj Suresh Lande](https://github.com/gururajlande7)
 - {Harshitha L M}(https://github.com/HarshithaLM)
 - [Hira Khyzer](https://github.com/Hirakhyzer)
+- [Ryn Nucrz](https://github.com/rynrizn)
 - [Hani Kahale](https://github.com/HaniKah)
 - [Adhiraj Sengar](https://github.com/Adhiraj2601)
 - [Erikito Consultancy](https://github.com/erikvanappeldoorn)
