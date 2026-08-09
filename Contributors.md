@@ -1146,6 +1146,7 @@ niceshowmini
 - [Manan Agarwal](https://github.com/thisis-manan)
 - [DanielBustamante67](https://github.com/DanielBustamante67/curso-git)
 - [StephenJarso](https://github.com/StephenJarso)
+- [bigladdus22] (https://github.com/bigladdus22)
 - [Dinel8](https://github.com/Dinel8)
 - [Mr-Broccolli](https://github.com/Mr-Broccolli)
   [Anil s yaragatti](https://github.com/anilyaragatti/)
