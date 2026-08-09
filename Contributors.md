@@ -4050,3 +4050,7 @@ Raphael Karani
 Nitin Sharma
 - [Zainab](https://github.com/untitledfolder01)
 [Abdullah](https://github.com/Malik-Abdullah123)
+Megan Das 
+- [Shrestha Mohanty] (https://github.com/shresthamohanty05-art)
+- [Davi Maceno](https://github.com/DAVI2027508)
+
