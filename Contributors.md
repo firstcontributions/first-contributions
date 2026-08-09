@@ -24,6 +24,7 @@
 - [Ayush]
 - [ParaMatrix-404]
 - [SathvikaGangalam](https://github.com/gsathvika28) 
+- [Sushant Prabhu Sawkar](https://github.com/susfungit)
 - [Mr Talha Mulani](https://github.com/Mr-Talha-Mulani)
 - [AlexMnrs](https://github.com/AlexMnrs)
 - [fichil](https://github.com/fichil)
