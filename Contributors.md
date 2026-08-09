@@ -23,6 +23,7 @@
 - [Uday](https://github.com/Udayahir25)
 - [Ayush]
 - [ParaMatrix-404]
+- [SathvikaGangalam](https://github.com/gsathvika28) 
 - [Mr Talha Mulani](https://github.com/Mr-Talha-Mulani)
 - [AlexMnrs](https://github.com/AlexMnrs)
 - [fichil](https://github.com/fichil)
@@ -37,7 +38,7 @@
 - [Kamyar Azizi](https://github.com/KamyarAzz)
 - [Eugenio Coimbra](https://github.com/nennno)
 - [lukedryan] (https://github.com/lukedryan)
-- [Aditya Vatsa] (https://github.com/VatsAditya48)
+- [Aditya Vatsa] (https://github.com/VatsAditya48) 
 - [saiyarram]
 - [Nico]
 - [Pooja Tiwari](https://github.com/pooja-dev42)
