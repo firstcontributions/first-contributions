@@ -8,6 +8,7 @@
 - Second Contribution
 - Joseph Francis
 - first contribution
+- Daniel Batistella
 - Rohit Negi
 - [soupnaie-mnm]
 - [Rakhi Jamdade]
