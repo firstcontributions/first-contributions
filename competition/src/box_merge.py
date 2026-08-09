@@ -45,12 +45,31 @@ def _gap_and_align(a, b):
     return gy, ov_x
 
 
-def merge_split_boxes(boxes, gap_ratio: float = 0.25, align_min: float = 0.55,
-                      max_aspect: float = 6.0, max_area_ratio: float = 2.2):
-    """분할된 박스들을 병합. 반환: 병합된 박스 리스트."""
+def merge_split_boxes(boxes, gap_ratio: float = 0.18, align_min: float = 0.70,
+                      max_aspect: float = 4.0, max_area_ratio: float = 1.35,
+                      max_size_vs_median: float = 1.25, max_rounds: int = 1):
+    """분할된 박스들을 병합. 반환: 병합된 박스 리스트.
+
+    ⚠️ 과병합 주의(실측 교훈): 군사 사육 영상에서는 돼지들이 서로 붙어 있어
+    "창살에 쪼개진 한 마리"와 "나란히 선 두 마리"를 구분하기 어렵다. 초기 버전은
+    연쇄 병합까지 허용해 프레임 전체를 한 덩어리로 만들었다(마릿수 5 → 1).
+    안전장치 셋:
+      · max_rounds=1        연쇄 병합 금지(한 번만)
+      · max_size_vs_median  합친 박스가 온전한 개체 크기(75퍼센타일)의 N배 초과 시 취소
+      · 임계 강화           더 가깝고(0.18) 더 잘 정렬된(0.70) 경우만
+    붙어 있는 개체가 많은 영상에서는 **끄는 편이 안전**하다.
+    """
+    import numpy as _np
     cur = [tuple(map(float, b)) for b in boxes]
-    changed = True
-    while changed and len(cur) > 1:
+    if len(cur) < 2:
+        return cur
+    # 기준 크기는 **75퍼센타일**을 쓴다. 중앙값을 쓰면 조각이 많은 프레임에서
+    # 기준 자체가 조각 크기로 내려가 정상 병합까지 막힌다(온전한 개체는 상위에 분포).
+    areas = [b[2] * b[3] for b in cur]
+    med_area = float(_np.percentile(areas, 75)) or 1.0
+    rounds, changed = 0, True
+    while changed and len(cur) > 1 and rounds < max_rounds:
+        rounds += 1
         changed = False
         best = None
         for i in range(len(cur)):
@@ -68,6 +87,8 @@ def merge_split_boxes(boxes, gap_ratio: float = 0.25, align_min: float = 0.55,
                     continue
                 if u[2] * u[3] > max_area_ratio * (a[2] * a[3] + b[2] * b[3]):
                     continue
+                if u[2] * u[3] > max_size_vs_median * med_area:
+                    continue      # 온전한 개체(75퍼센타일)보다 과도하게 큼 → 두 마리
                 score = align - gap / max(1e-6, scale)      # 정렬 좋고 가까울수록
                 if best is None or score > best[0]:
                     best = (score, i, j, u)
@@ -111,12 +132,13 @@ def compare_on_video(video: str, model_path: str | None = None, step: int = 15,
 
 def main() -> int:
     if len(sys.argv) < 2:
-        # 자체 테스트: 세로 창살로 쪼개진 한 마리
-        parts = [(100, 100, 60, 80), (168, 102, 55, 78)]
-        out = merge_split_boxes(parts)
-        print(f"자체 테스트: 조각 {len(parts)}개 → 병합 {len(out)}개  {out}")
+        # 자체 테스트
+        mix = [(0, 0, 45, 60), (50, 2, 45, 58), (300, 0, 100, 60), (420, 0, 100, 60)]
+        print(f"조각2+정상2: {len(mix)}개 → {len(merge_split_boxes(mix))}개 (3이 정상)")
+        adj = [(0, 0, 100, 60), (102, 0, 100, 60), (204, 0, 100, 60)]
+        print(f"나란한 3마리: {len(adj)}개 → {len(merge_split_boxes(adj))}개 (3이 정상, 과병합 금지)")
         far = [(100, 100, 60, 80), (500, 100, 60, 80)]
-        print(f"먼 두 마리:  {len(far)}개 → {len(merge_split_boxes(far))}개 (병합 안 됨이 정상)")
+        print(f"먼 두 마리:   {len(far)}개 → {len(merge_split_boxes(far))}개 (2가 정상)")
         return 0
     r = compare_on_video(sys.argv[1])
     print(f"{r['video']} — {r['frames']}프레임")

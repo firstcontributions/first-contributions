@@ -476,10 +476,16 @@ def test_motion_tracker() -> None:
 def test_box_merge() -> None:
     """창살 분할 박스 병합: 인접 조각은 합치고 멀리 떨어진 개체는 유지."""
     import box_merge as bm
-    out = bm.merge_split_boxes([(100, 100, 60, 80), (168, 102, 55, 78)])
-    assert len(out) == 1 and out[0][2] > 100      # 가로로 합쳐짐
+    # 조각(작음) 2개 + 온전한 개체 2마리 → 조각만 합쳐 3개가 되어야 한다.
+    # (프레임 내 '온전한 개체 크기'가 있어야 무엇이 조각인지 판별 가능하다)
+    mix = [(0, 0, 45, 60), (50, 2, 45, 58), (300, 0, 100, 60), (420, 0, 100, 60)]
+    assert len(bm.merge_split_boxes(mix)) == 3
     assert len(bm.merge_split_boxes([(100, 100, 60, 80), (500, 100, 60, 80)])) == 2
     assert len(bm.merge_split_boxes([(10, 10, 50, 50)])) == 1
+    # 과병합 방지(실측 회귀): 비슷한 크기 개체가 나란히 붙어 있으면 합치지 않는다.
+    # 군사 사육 영상에서 이 케이스를 놓쳐 마릿수가 5→1 로 붕괴한 적이 있다.
+    adj = [(0, 0, 100, 60), (102, 0, 100, 60), (204, 0, 100, 60)]
+    assert len(bm.merge_split_boxes(adj)) == 3, "붙어 있는 개체를 과병합함"
 
 
 def test_temporal_features() -> None:
