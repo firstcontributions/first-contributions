@@ -8,8 +8,11 @@
   - 행동 분류: standing, lying, eating, head shaking, tailing, sitting
   - 발정 판별: 발정체크장비 + 전문가 검수(정답), 멀티모달(영상·keypoint·울음소리·
                외음부·3D). 문서상 멀티모달 발정분류 CRNN F1 0.90.
-  - 발정기 행동 특징(수의학): 기립반사(standing)·승가(mounting)·꼬리세움(tailing)·
+  - 발정기 징후(수의학·현장 교육자료): **기립반사(부동자세)**·승가(mounting)·
+    꼬리세움(tailing)·**귀 세움(안쪽으로 바짝)**·**외음부 발적·점액 분비**·
     서성임(활동↑)·탐색↑, 휴식(lying/sitting)↓.
+    ※ 71471 의 `standing`(서 있는 자세)과 **기립반사**는 다른 개념이다 —
+      아래 ESTRUS_REFERENCE 주석 참조.
 
 이 표준은 두 가지로 쓴다:
   (1) 규칙 기준: 아래 가중치로 발정 점수 산출(정답 없이).
@@ -19,22 +22,42 @@ from __future__ import annotations
 
 import numpy as np
 
-# 71471 표준 행동 분류
+# 71471 표준 행동 분류 + 현장 발정 징후(교육자료·수의 문헌 기반)
 REFERENCE_BEHAVIORS = ["standing", "lying", "eating", "head_shaking",
-                       "tailing", "sitting", "restless", "mounting"]
+                       "tailing", "sitting", "restless", "mounting",
+                       "immobility", "ear_erect", "vulva_sign"]
 
 # 표준 발정 연관 가중치(+ 발정 시사 / - 휴식). 수의학 근거.
+#
+# ⚠️ 중요 구분: 71471 의 `standing` 은 **단순히 서 있는 자세(posture)** 이지
+# **기립반사(standing reflex, 부동자세)가 아니다.** 초기 버전은 이 둘을 혼동해
+# standing 에 0.6 을 줬으나, 서 있는 자세 자체는 발정 신호가 약하다(실데이터에서도
+# 발정/비발정 간 standing 비율 차이 거의 없음: 3.7% vs 3.3%). 기립반사는 별도
+# 카테고리 `immobility` 로 분리한다.
 ESTRUS_REFERENCE = {
-    "mounting": 1.0,       # 승가 — 최강 신호
+    "immobility": 1.0,     # 기립반사(부동자세) — 승가압박 시 미동 없음. 현장 확진 기준
+    "mounting": 1.0,       # 승가 — 최강 행동 신호
     "tailing": 0.9,        # 꼬리세움
-    "standing": 0.6,       # 기립반사(모돈 발정 핵심)
+    "vulva_sign": 0.9,     # 외음부 발적·부종·점액 분비 — 직접 생리 지표
+    "ear_erect": 0.7,      # 귀 세움(안쪽으로 바짝) — 현장 관찰 지표
     "restless": 0.5,       # 서성임·탐색·활동 증가
+    "standing": 0.15,      # 서 있는 자세 — 약한 신호(기립반사와 구분)
     "head_shaking": 0.2,
     "eating": -0.2,
     "sitting": -0.3,
     "lying": -0.6,         # 휴식
 }
 ACTIVITY_WEIGHT = 0.5      # 활동량(정규화) 기여
+
+# 징후별 관측 가능성(CCTV 기준) — 어떤 카메라·해상도가 필요한지 설계 근거
+DETECTABILITY = {
+    "restless":   ("high",   "일반 부감 CCTV, 활동량 시계열로 포착"),
+    "immobility": ("medium", "활동량 급감 + 자세 유지. 웅돈 접촉·압박 시점 필요"),
+    "mounting":   ("medium", "군사 사육에서만 발생. 부감 시점 필요"),
+    "tailing":    ("low",    "꼬리 해상도 필요. 근접·고해상 카메라"),
+    "ear_erect":  ("low",    "귀 각도 판별에 근접 촬영 또는 고해상 필요"),
+    "vulva_sign": ("low",    "후방 근접 카메라 필요(일반 CCTV로는 불가)"),
+}
 
 # 타 데이터 행동 어휘 → 71471 표준 카테고리 매핑
 VOCAB_MAP = {
@@ -49,6 +72,11 @@ VOCAB_MAP = {
     "head shaking": "head_shaking", "head_shaking": "head_shaking",
     "tailing": "tailing", "eating": "eating", "mounting": "mounting",
     "restless": "restless",
+    # 현장 발정 징후(교육자료 기반) — 관측 파이프라인이 산출하면 매핑된다
+    "immobility": "immobility", "standing_reflex": "immobility",
+    "부동자세": "immobility", "기립반사": "immobility",
+    "ear_erect": "ear_erect", "ears_up": "ear_erect", "귀세움": "ear_erect",
+    "vulva_sign": "vulva_sign", "vulva": "vulva_sign", "외음부": "vulva_sign",
 }
 
 
