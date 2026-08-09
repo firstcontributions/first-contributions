@@ -28,12 +28,20 @@ import numpy as np
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(os.path.dirname(HERE))
 sys.path.insert(0, HERE)
-import iou_tracker as trk  # noqa: E402
+import box_merge as bm  # noqa: E402
+import motion_tracker as mt  # noqa: E402
 
 DASH = os.path.join(ROOT, "competition", "dashboard")
 MODEL = os.path.join(ROOT, "competition", "models", "pig_yolo.pt")
 STEP = 3            # 프레임 샘플 간격(30fps → 10fps)
-CONF = 0.35
+# 추적 기본값은 tracking_sweep.py 실측으로 정했다(국내 축사 영상).
+# 과분할의 주원인은 카메라 흔들림이 아니라 **탐지 명멸**(3마리/프레임)이었고,
+# conf 0.25 + max_age 40 + 박스 병합 조합이 기본(0.35/8) 대비 과분할 59% 개선.
+# (카메라 모션 보상은 같은 조건에서 14%에 그쳐 기본 비활성)
+CONF = 0.25
+MAX_AGE = 40
+IOU_THR = 0.25
+MERGE_BOXES = True
 
 
 def _ffmpeg() -> str:
@@ -60,7 +68,7 @@ def analyze(video: str, model_path: str | None = None, out_webm: str | None = No
     cap = cv2.VideoCapture(video)
     fps = cap.get(cv2.CAP_PROP_FPS) or 30.0
     W, H = int(cap.get(3)), int(cap.get(4))
-    tracker = trk.IoUTracker(iou_thr=0.25, max_age=8)
+    tracker = mt.MCIoUTracker(iou_thr=IOU_THR, max_age=MAX_AGE)
 
     enc = None
     if out_webm:
@@ -85,6 +93,8 @@ def analyze(video: str, model_path: str | None = None, out_webm: str | None = No
         res = model.predict(img, imgsz=512, conf=CONF, verbose=False)[0]
         boxes = [(float(a), float(b), float(c - a), float(d - b))
                  for a, b, c, d in res.boxes.xyxy.cpu().numpy()]
+        if MERGE_BOXES:          # 창살에 쪼개진 박스 병합(마릿수·매칭 안정화)
+            boxes = bm.merge_split_boxes(boxes)
         counts.append(len(boxes))
         # 카메라 흔들림: 전역 밝기 이동(간이 추정)
         gray = cv2.cvtColor(cv2.resize(img, (160, 90)), cv2.COLOR_BGR2GRAY)
