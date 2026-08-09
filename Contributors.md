@@ -183,6 +183,7 @@ nathan practice here
 - [Prerit Gupta](https://github.com/TryToPlay)
   [Sanika Talkhedkar]
 - [Buni saraswati] (https://github.com/buni-saraswati)
+- [Leanne] (https://github.com/LeanneJacob)
 - [Sakshi Vyavahare](https://github.com/sakshivyavahare20)
 - [Saniya Muskan](https://github.com/muskan-io)
 - [Divyansh Sareen](https://github.com/DivyanshSareen)
