@@ -17,6 +17,7 @@
 - [Payal Gupta](https://github.com/payal1020-creator)
 - [Yash Badhe]
 - iuri-valbao
+- [soheetech](https://github.com/soheetech)
 - [Uday](https://github.com/Udayahir25)
 - [Ayush]
 - [Mr Talha Mulani](https://github.com/Mr-Talha-Mulani)
