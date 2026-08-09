@@ -30,3 +30,6 @@ dashboard/estrus_timeline.html
 dashboard/eval_report.html
 dashboard/repro_dashboard.html
 dashboard/alert_console.html
+models/*.pt
+dashboard/video_report_*.html
+dashboard/video_*.webm
