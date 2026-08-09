@@ -118,6 +118,7 @@
 - [Aditya Agarwal (Adii)](https://github.com/adityaagarwal2303-pixel)
 - oussema tayechi
 - [alllex47](https://github.com/alllex47)
+- [Eric G] (https://github.com/Eric-G173)
 - [Dinesh Kumar Sahu](https://github.com/kumarsahudinesh52-byte)
 - [Anvay D](https://github.com/Anvay-D)
 - [MaxDeveloper42](https://github.com/maxDeveloper42)
