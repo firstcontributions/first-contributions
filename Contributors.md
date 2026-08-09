@@ -4,7 +4,7 @@
 - [Pavithra S] (https://github.com/Pavi1205)
 - [betterkite502](https://github.com/betterkite)
 - First contribution
-- water(PowerOfWater777) contributed here
+- water contributed here
 - Second Contribution
 - Joseph Francis
 - first contribution
