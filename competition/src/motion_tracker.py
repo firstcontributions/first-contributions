@@ -173,10 +173,18 @@ def compare_on_video(video: str, model_path: str | None = None,
             seen_m.add(tid)
             x, y, w, h = boxes[bi]; c = (x + w / 2, y + h / 2)
             if tid in prev_m:
-                act_m.append(((c[0]-prev_m[tid][0])**2 + (c[1]-prev_m[tid][1])**2) ** 0.5)
+                # 활동량도 **카메라 이동을 보상해야** 한다. 직전 중심을 M 으로 워프한
+                # 뒤 비교해야 개체 고유의 움직임만 남는다(원본끼리 빼면 카메라 이동이
+                # 그대로 활동량으로 잡힌다 — 발정 판정의 핵심 지표가 오염됨).
+                px, py = prev_m[tid]
+                if M is not None:
+                    wb = warp_box((px, py, 0.0, 0.0), M)
+                    px, py = wb[0], wb[1]
+                act_m.append(((c[0] - px) ** 2 + (c[1] - py) ** 2) ** 0.5)
             prev_m[tid] = c
     cap.release()
     med = float(np.median(counts)) if counts else 1.0
+    lp = [v for v in plain.tracks.values()]      # 참고용(살아있는 트랙)
     return {
         "video": os.path.basename(video), "frames": used, "med_pigs": med,
         "cam_motion_px": round(float(np.mean(mags)), 2),
@@ -185,6 +193,9 @@ def compare_on_video(video: str, model_path: str | None = None,
         "frag_mc": round(len(seen_m) / med, 1) if med else None,
         "act_plain": round(float(np.mean(act_p)), 2) if act_p else 0.0,
         "act_mc": round(float(np.mean(act_m)), 2) if act_m else 0.0,
+        "det_flicker": round(float(np.mean(np.abs(np.diff(counts)))), 2) if len(counts) > 1 else 0.0,
+        "det_cv": round(float(np.std(counts) / max(1e-6, np.mean(counts))), 3) if counts else 0.0,
+        "_alive_plain": len(lp),
     }
 
 
@@ -199,6 +210,8 @@ def main() -> int:
           f"활동량 {r['act_plain']}px")
     print(f"  모션 보상    트랙 {r['tracks_mc']:4d}  과분할 {r['frag_mc']}배  "
           f"활동량 {r['act_mc']}px")
+    print(f"  탐지 흔들림: 프레임간 마릿수 변화 평균 {r['det_flicker']}마리 "
+          f"(변동계수 {r['det_cv']})")
     if r["frag_plain"] and r["frag_mc"]:
         imp = (1 - r["frag_mc"] / r["frag_plain"]) * 100
         print(f"  → 과분할 {imp:+.0f}% 개선, 활동량 "
