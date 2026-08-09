@@ -1,4 +1,6 @@
 # Contributors
+- [Uchenna Bethel Orji](https://github.com/ucbethuel)
+- [Avadh Savaliya](https://github.com/avadh-7)
 - [Pavithra S] (https://github.com/Pavi1205)
 - [betterkite502](https://github.com/betterkite)
 - First contribution
@@ -20,6 +22,7 @@
 - [Payal Gupta](https://github.com/payal1020-creator)
 - [Yash Badhe]
 - iuri-valbao
+- [soheetech](https://github.com/soheetech)
 - [Uday](https://github.com/Udayahir25)
 - [Ayush]
 - [ParaMatrix-404]
@@ -71,7 +74,7 @@
 -[Antrika Kashyap](https://github.com/antrika02)
 - [V.Pranavi](https://github.com/pranavivaranasi07-dev)
 -[Rakshita.Naik](https://github.com/rakshiknaik211-netizen/first-contributions)
-- [antoni306] (https://github.com/antoni306)
+- [antoni306] (httpcd first-contributionss://github.com/antoni306)
 - [adwait zanjurne](https://github.com/adwaitzanjurnepz-netizen)
 - [taehunkang36](https://github.com/taehunkang36)
 - [Evan Williams] (https://github.com/EvanInTech)
@@ -200,7 +203,7 @@ nathan practice here
 - [babysatochan72](https://github.com/babysatochan72-create)
 - [sristikundu1](https://github.com/sristikundu1)
 - Vijay-Karthi-Kayan | (https://github.com/Vijay-Karthikayan)
--
+- [yusen-love](https://github.com/yusen-love)
 - [ShohebMomin](https://github.com/ShohebMomin)
 - [Vignesh](https://github.com/vigneshsabapathi)
 - [Madhumitha](https://github.com/madhumithakk01)
@@ -4026,3 +4029,7 @@ Raphael Karani
 [artemis64]
 - [Maria Clara](https://github.com/mariaclaraa21)
 - [Anukriti Jain](https://github.com/heyAnukritiJain)
+- [Shradul Sharma](https://github.com/RevenClaw)
+- [Varun](https://github.com/Varun-code012)
+- [REAF-feng](https://github.com/REAF-feng)
+- [Bhuvnesh](https://github.com/bhuvitw)
