@@ -449,6 +449,60 @@ def test_pose_vs_behavior_eval() -> None:
         assert isinstance(pve.verdict(r), str) and pve.verdict(r)
 
 
+def test_motion_tracker() -> None:
+    """카메라 모션 보상 추적: 화면 전체가 이동해도 ID 유지."""
+    import numpy as np
+    import motion_tracker as mt
+    # 카메라가 오른쪽으로 20px 이동한 것과 동등한 아핀
+    M = np.array([[1.0, 0.0, 20.0], [0.0, 1.0, 0.0]])
+    assert abs(mt.motion_magnitude(M) - 20.0) < 1e-6
+    b = mt.warp_box((10, 10, 40, 30), M)
+    assert abs(b[0] - 30) < 1e-6 and abs(b[1] - 10) < 1e-6
+    # 개체는 정지, 카메라만 이동 → 보상하면 트랙 2개 유지
+    mc, plain = mt.MCIoUTracker(), mt.MCIoUTracker()
+    ids_mc, ids_pl = set(), set()
+    M = np.array([[1.0, 0.0, 50.0], [0.0, 1.0, 0.0]])   # 박스 너비(40)보다 큰 이동
+    for k in range(6):
+        sh = k * 50.0                      # 카메라 누적 이동
+        boxes = [(10 + sh, 10, 40, 30), (400 + sh, 100, 40, 30)]
+        for tid, _ in mc.update(boxes, M if k else None):
+            ids_mc.add(tid)
+        for tid, _ in plain.update(boxes, None):
+            ids_pl.add(tid)
+    assert len(ids_mc) == 2, f"보상 시 ID 유지 실패: {len(ids_mc)}"
+    assert len(ids_pl) > len(ids_mc)        # 보상 없으면 과분할
+
+
+def test_box_merge() -> None:
+    """창살 분할 박스 병합: 인접 조각은 합치고 멀리 떨어진 개체는 유지."""
+    import box_merge as bm
+    out = bm.merge_split_boxes([(100, 100, 60, 80), (168, 102, 55, 78)])
+    assert len(out) == 1 and out[0][2] > 100      # 가로로 합쳐짐
+    assert len(bm.merge_split_boxes([(100, 100, 60, 80), (500, 100, 60, 80)])) == 2
+    assert len(bm.merge_split_boxes([(10, 10, 50, 50)])) == 1
+
+
+def test_temporal_features() -> None:
+    """시간 윈도우 피처: 서성임(제자리 맴돎) vs 직선 이동 구분."""
+    import numpy as np
+    import pandas as pd
+    import temporal_features as tf
+    rows = []
+    for k in range(20):                     # A: 제자리 왕복(서성임)
+        rows.append({"individual_id": "A", "frame_idx": k, "speed": 5.0,
+                     "centroid_x": 100 + (5 if k % 2 else -5), "centroid_y": 100,
+                     "darea": 0.0})
+    for k in range(20):                     # B: 직선 이동
+        rows.append({"individual_id": "B", "frame_idx": k, "speed": 5.0,
+                     "centroid_x": 100 + 5 * k, "centroid_y": 100, "darea": 0.0})
+    d = tf.add_temporal(pd.DataFrame(rows))
+    assert set(tf.TEMPORAL_COLS) <= set(d.columns)
+    a = d[(d.individual_id == "A") & (d.frame_idx >= 15)]["path_ratio15"].mean()
+    b = d[(d.individual_id == "B") & (d.frame_idx >= 15)]["path_ratio15"].mean()
+    assert a > b, f"서성임 경로비({a:.2f})가 직선({b:.2f})보다 커야 함"
+    assert np.isfinite(d[tf.TEMPORAL_COLS].to_numpy()).all()
+
+
 def main() -> int:
     tests = [test_dependencies_import, test_aihub_client_no_key,
              test_pipeline_runs, test_aihub_parsers,
@@ -460,7 +514,8 @@ def main() -> int:
              test_repro_cause_attribution, test_estrus_early_warning,
              test_repro_dashboard_svg, test_parse_71471_real_schema,
              test_estrus_calendar_link, test_estrus_contrast_eval,
-             test_keypoints_parser_pose, test_pose_vs_behavior_eval]
+             test_keypoints_parser_pose, test_pose_vs_behavior_eval,
+             test_motion_tracker, test_box_merge, test_temporal_features]
     failed = 0
     for t in tests:
         try:
