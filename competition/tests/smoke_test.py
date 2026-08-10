@@ -574,6 +574,40 @@ def test_stall_estrus() -> None:
     assert 0.5 < auc < 0.99, f"합성이 비현실적으로 쉬움(AUC {auc:.3f})"
 
 
+def test_feeding_monitor() -> None:
+    """합사 급이 모니터링: 세션·경쟁·섭취속도(순환논리 회귀 검증)."""
+    import numpy as np
+    import pandas as pd
+    import feeding_monitor as fm
+    zones = [(0.0, 0.0, 0.3, 0.3)]
+    rows = []
+    # A: 급이기에 오래 + 머리 많이 움직임(빨리 먹음)
+    # B: 급이기에 오래 + 거의 안 움직임(천천히 먹음)  → 같은 시간, 다른 속도
+    rng = np.random.default_rng(0)
+    for f in range(300):
+        rows.append({"pig_id": "A", "frame_idx": f,
+                     "cx": 0.15 + rng.normal(0, 0.010),
+                     "cy": 0.15 + rng.normal(0, 0.010)})
+        rows.append({"pig_id": "B", "frame_idx": f,
+                     "cx": 0.15 + rng.normal(0, 0.001),
+                     "cy": 0.15 + rng.normal(0, 0.001)})
+        rows.append({"pig_id": "C", "frame_idx": f, "cx": 0.8, "cy": 0.8})
+    tracks = pd.DataFrame(rows)
+    sess = fm.feeding_sessions(tracks, zones, fps=10.0)
+    assert set(sess["pig_id"]) == {"A", "B"}, "급이기 밖 개체가 세션에 포함됨"
+    assert "motion" in sess.columns
+    met = fm.feeding_metrics(sess, fm.displacements(sess), total_feed_kg=6.0)
+    m = met.set_index("pig_id")
+    # 저작 강도가 큰 A 가 더 빨리 먹은 것으로 추정돼야 한다
+    assert m.loc["A", "chew_intensity"] > m.loc["B", "chew_intensity"]
+    assert m.loc["A", "eat_rate_g_per_min"] > m.loc["B", "eat_rate_g_per_min"]
+    # 순환논리 회귀: 점유시간이 같은데 속도가 같아지면 안 된다
+    assert abs(m.loc["A", "eat_rate_g_per_min"] - m.loc["B", "eat_rate_g_per_min"]) > 1
+    d = fm.flag_risk(met)
+    assert "feed_adequacy" in d.columns and "status" in d.columns
+    assert fm.zone_of(0.15, 0.15, zones) == 0 and fm.zone_of(0.9, 0.9, zones) is None
+
+
 def main() -> int:
     tests = [test_dependencies_import, test_aihub_client_no_key,
              test_pipeline_runs, test_aihub_parsers,
@@ -587,7 +621,7 @@ def main() -> int:
              test_estrus_calendar_link, test_estrus_contrast_eval,
              test_keypoints_parser_pose, test_pose_vs_behavior_eval,
              test_motion_tracker, test_box_merge, test_temporal_features,
-             test_breeding_timing, test_stall_estrus]
+             test_breeding_timing, test_stall_estrus, test_feeding_monitor]
     failed = 0
     for t in tests:
         try:
