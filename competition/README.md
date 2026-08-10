@@ -20,7 +20,8 @@ CCTV → [탐지] → [추적/활동] → [행동 인식] → [발정 판정] �
 
 | 과제 | 지표 | 값 | 검증 |
 |---|---|---|---|
-| 행동 인식(다중, 외형피처) | 정확도 / Macro-F1 | **0.49 / 0.38** | 개체 분리 GroupKFold(5) |
+| 행동 인식(외형+시간윈도우) | 정확도 / Macro-F1 | **0.516 / 0.386** | 개체 분리 GroupKFold(5) |
+| 돼지 탐지기(직접 학습) | mAP50 | **0.659** | pig-detection 3,743장 학습 |
 | 활동 vs 휴식(이진, 발정 관찰 기반) | ROC-AUC / Brier | **0.739 / 0.174** | 개체 분리 GroupKFold(5) |
 | 자세 인식(5클래스) | 정확도 | **0.642** | train1→train2 held-out |
 | 개체 추적(Re-ID) | 단편화 감소 | **-46%** (107→58 트랙) | GT ID 일관성 0.77 |
@@ -39,8 +40,11 @@ CCTV → [탐지] → [추적/활동] → [행동 인식] → [발정 판정] �
 - **탐지**: pig-detection(YOLO) 45,611 bbox, 8개 소스. `build_detection_viewer.py`
 - **추적**: IoU + 외형 Re-ID(HSV·gradient 40D + 위치 게이트)로 개체 ID 부여,
   가림에 의한 단편화 46% 감소. `iou_tracker.py`
-- **행동 인식**: 기하 + 모션 + **외형 피처**로 0.43→0.49 개선.
-  `model_edinburgh_behavior.py`, `model_behavior_appearance.py`
+- **행동 인식**: 기하+모션 → **외형 + 시간윈도우** 조합으로 0.432→**0.516** 개선
+  (둘이 상보적: +시간 0.471 / +외형 0.491 / **둘 다 0.516**).
+  `model_behavior_appearance.py`, `temporal_features.py`
+- **탐지기 자체 학습**: pig-detection 3,743장으로 YOLOv8n 학습(mAP50 0.659) →
+  **임의 영상에 바로 적용 가능**. `models/pig_yolo.pt`, `train_pseudo_label.py`
 - **활동 분석**: 점유 heatmap·마릿수·활동량 추이. `build_activity_analysis.py`
 
 ### ② 판정·진단 (Diagnosis)
@@ -108,6 +112,20 @@ CCTV → [탐지] → [추적/활동] → [행동 인식] → [발정 판정] �
 
 ---
 
+## 국내 실축사 영상 검증 (적용 조건 규명)
+
+직접 학습한 탐지기로 국내 모돈사 영상을 처리해 **어디서 되고 어디서 안 되는지**를
+실측했다(`analyze_video.py` — 영상을 넣으면 리포트가 나오고, 촬영 조건을 자동 진단).
+
+| 조건 | 판정 | 근거 |
+|---|---|---|
+| 탐지 | ✅ 국내에서도 동작 | 미탐지 0프레임, 신뢰도 최대 0.97 |
+| **군사(群飼) 사육** | ✅ **필수** | 활동량 군사 14.0px vs 스톨 8.7px — 스톨은 신호 자체가 없음 |
+| **고정 카메라** | ✅ **필수** | 핸드헬드 시 추적 과분할(트랙/마릿수 20배↑) |
+
+추적 과분할의 주원인은 카메라 흔들림이 아니라 **탐지 명멸**(3.02마리/프레임)이었고,
+`conf 0.25 + max_age 40` 으로 **과분할 59% 개선**했다(모션 보상은 14%에 그침).
+
 ## 웹 대시보드 (12개 뷰, 통합 허브)
 
 모든 뷰는 **외부 라이브러리·연결 없는 자체완결 HTML**(인라인 SVG/데이터, 라이트·
@@ -168,9 +186,9 @@ bash competition/build_all.sh          # 전체 뷰 + 허브 생성
 - **발정 판정 미완(원인 규명됨)**: 71471 [Bbox] 서브셋으로 실측한 결과, 카메라·개체를
   통제하면 AUC 0.465(무작위)로 **이 라벨로는 발정 판정이 불가**함을 확인했다. 발정
   지시 행동이 주석에 없는 것이 원인. → 원천 동영상 또는 외음부 이미지 원천이 필요.
-- **행동 인식 0.49**: 미묘 행동(fight·sitting) 혼동. → 시퀀스(LSTM) 모델 여지.
-  (단, 71471 에서 자세 기술자 44개가 행동 라벨 4종과 대등했으므로 **정지 프레임
-  피처를 늘리는 방향은 이득이 작다** — 시간 축 확장이 옳은 방향.)
+- **행동 인식 0.516**: 미묘 행동(fight·sitting) 혼동은 남음. → 시퀀스(LSTM) 여지.
+  방향은 실측으로 확정됐다 — 정지 프레임 피처는 천장(71471 자세 44차원 0.596 ≈
+  행동 4종 0.619)이고 **시간 축이 효과**(롤링 윈도우 +0.042, 모션 기반 활동/휴식 0.739).
 - **도메인 격차**: 케글은 영국 연구용 우리, 국내 상용 돈방과 차이. 교차-데이터셋
   일반화 ~0.41. → 국내 데이터 파인튜닝 필요.
 - **Re-ID 한계**: 고전 외형 Re-ID는 위치 게이트로 오병합을 막았으나 잔여 단편화
@@ -186,6 +204,9 @@ bash competition/build_all.sh          # 전체 뷰 + 허브 생성
       불일치로 개체 내 대조는 미실시했으나, **자세 vs 행동라벨 정보량 비교**를
       수행 — 대등(0.596 vs 0.619)으로 **정지 프레임의 천장**을 확인
 - [x] 실시간 경보 콘솔: 긴급도 조치 큐 + 모바일 푸시 목업
+- [x] **돼지 탐지기 자체 학습**(mAP50 0.659) + 임의 영상 분석기(촬영조건 자동 진단)
+- [x] **국내 실축사 영상 검증** — 적용 조건 규명(군사 사육·고정 카메라 필수)
+- [x] **성능 개선**: 행동 인식 0.432→0.516(외형+시간윈도우) · 추적 과분할 59% 감소
 - [ ] 발정 판정 재도전: 원천 동영상(활동량 시계열) 또는 날짜가 겹치는 keypoints 확보
 - [ ] 원인 실측 연계: 71763 센서(THI·영양)로 귀인 검증
 - [ ] 처방 효과 폐루프 검증(처방 후 발정 회복률)
@@ -200,12 +221,12 @@ competition/
   build_all.sh              # 전체 대시보드 생성
   requirements.txt
   docs/  AIHUB.md · EDINBURGH.md · SCHEMA.md
-  src/   (41개) 관찰·판정·진단·예측·대시보드 생성 스크립트
+  src/   (46개) 관찰·판정·진단·예측·대시보드 생성 스크립트
     iou_tracker.py  model_behavior_appearance.py  aihub_estrus_reference.py
     repro_cause_attribution.py  estrus_early_warning.py  validate_estrus_reference.py
     parse_71471_real.py  estrus_calendar.py  estrus_contrast_eval.py
     build_eval_report.py  build_repro_dashboard.py  build_dashboard_hub.py  ...
-  tests/ smoke_test.py       # 23개 스모크 테스트
+  tests/ smoke_test.py       # 26개 스모크 테스트
   dashboard/                 # (생성물) 뷰 HTML — 허브 index.html 제외 커밋 안 함
   data/, outputs/            # (생성물)
 ```
@@ -216,12 +237,15 @@ competition/
 
 ```bash
 pip install -r competition/requirements.txt
-python competition/tests/smoke_test.py        # 23/23 통과 확인
+python competition/tests/smoke_test.py        # 26/26 통과 확인
 
 # 개별 모듈(합성/케글 데이터로 즉시 실행)
 python competition/src/repro_cause_attribution.py   # 번식 진단
 python competition/src/estrus_early_warning.py      # 발정 조기경보
 python competition/src/build_eval_report.py         # 평가 신뢰도 리포트
+
+# 임의 영상 분석(탐지→추적→활동량 + 촬영조건 진단)
+python competition/src/analyze_video.py <영상.mp4> [이름]
 
 # 전체 대시보드
 bash competition/build_all.sh                       # → dashboard/index.html
