@@ -117,6 +117,9 @@ CCTV → [탐지] → [추적/활동] → [행동 인식] → [발정 판정] �
 직접 학습한 탐지기로 국내 모돈사 영상을 처리해 **어디서 되고 어디서 안 되는지**를
 실측했다(`analyze_video.py` — 영상을 넣으면 리포트가 나오고, 촬영 조건을 자동 진단).
 
+> 📌 검증에 쓴 외부 영상은 **참고 자료**이며 제출물·앱에 포함하지 않는다(저작권).
+> 분석기 산출물은 `outputs/` 에 생성되고 통합 대시보드와 분리돼 있다.
+
 | 조건 | 판정 | 근거 |
 |---|---|---|
 | 탐지 | ✅ 국내에서도 동작 | 미탐지 0프레임, 신뢰도 최대 0.97 |
@@ -244,7 +247,7 @@ python competition/src/repro_cause_attribution.py   # 번식 진단
 python competition/src/estrus_early_warning.py      # 발정 조기경보
 python competition/src/build_eval_report.py         # 평가 신뢰도 리포트
 
-# 임의 영상 분석(탐지→추적→활동량 + 촬영조건 진단)
+# 임의 영상 분석(탐지→추적→활동량 + 촬영조건 진단) — 산출물은 outputs/, 앱과 분리
 python competition/src/analyze_video.py <영상.mp4> [이름]
 
 # 전체 대시보드

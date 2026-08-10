@@ -31,5 +31,5 @@ dashboard/eval_report.html
 dashboard/repro_dashboard.html
 dashboard/alert_console.html
 models/*.pt
-dashboard/video_report_*.html
-dashboard/video_*.webm
+outputs/video_report_*.html
+outputs/video_*.webm

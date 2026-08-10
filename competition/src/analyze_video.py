@@ -1,7 +1,11 @@
 """영상 분석기 — 영상 파일을 넣으면 결과 리포트(HTML)를 만든다.
 
     python competition/src/analyze_video.py <영상.mp4> [출력이름]
-    → competition/dashboard/video_report_<이름>.html
+    → competition/outputs/video_report_<이름>.html
+
+⚠️ 출력은 **앱(dashboard/)이 아니라 outputs/ 에 둔다.** 이 리포트는 임의 영상에
+대한 **분석 도구의 산출물**이지 제품 화면이 아니며, 외부 영상(예: 공개 영상)을
+임베드할 수 있어 배포물에 포함해서는 안 된다. 통합 대시보드에도 넣지 않는다.
 
 파이프라인(프로젝트 3축을 새 영상에 그대로 적용):
   ① 탐지   : 직접 학습한 YOLO 돼지 탐지기(models/pig_yolo.pt)
@@ -31,7 +35,7 @@ sys.path.insert(0, HERE)
 import box_merge as bm  # noqa: E402
 import motion_tracker as mt  # noqa: E402
 
-DASH = os.path.join(ROOT, "competition", "dashboard")
+OUTDIR = os.path.join(ROOT, "competition", "outputs")   # 앱 아님 — 도구 산출물
 MODEL = os.path.join(ROOT, "competition", "models", "pig_yolo.pt")
 STEP = 3            # 프레임 샘플 간격(30fps → 10fps)
 # 추적 기본값은 tracking_sweep.py 실측으로 정했다(국내 축사 영상).
@@ -264,10 +268,10 @@ def main() -> int:
     if find_model() is None:
         print("탐지 모델이 없습니다. competition/models/pig_yolo.pt 를 두거나 "
               "train_pseudo_label.py 로 학습하세요."); return 1
-    webm = os.path.join(DASH, f"video_{name}.webm")
+    webm = os.path.join(OUTDIR, f"video_{name}.webm")
     print(f"분석 중: {video}")
     r = analyze(video, out_webm=webm)
-    out = build_report(r, os.path.join(DASH, f"video_report_{name}.html"))
+    out = build_report(r, os.path.join(OUTDIR, f"video_report_{name}.html"))
     print(f"  마릿수 중앙값 {r['med_pigs']:.0f} · 트랙 {r['n_tracks']}"
           f"(과분할 {r['frag_ratio']}배) · 활동 평균 {r['act_mean']}px")
     for s, k, t in diagnose(r):
