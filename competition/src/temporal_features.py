@@ -121,7 +121,54 @@ def evaluate(frames_csv: str | None = None) -> dict:
             "d_mf1": round(b["mf1"] - a["mf1"], 3)}
 
 
+def evaluate_with_appearance() -> dict:
+    """외형 피처 + 시간 윈도우 조합 평가(영상 캐시 필요).
+
+    시간윈도우(0.485)와 외형(0.491)이 대등하게 나왔으므로, 서로 **다른 정보**를
+    담고 있다면 합쳤을 때 더 오른다. 이 함수가 그것을 확인한다.
+    """
+    from sklearn.ensemble import RandomForestClassifier
+    from sklearn.metrics import accuracy_score, f1_score
+    from sklearn.model_selection import GroupKFold, cross_val_predict
+    import model_behavior_appearance as mba
+    import model_edinburgh_behavior as beh
+    df = beh.add_motion(mba.build_frames())
+    df = add_temporal(df)
+    vc = df["behavior"].value_counts()
+    keep = set(vc[vc >= mba.MIN_COUNT].index)
+    df["behavior"] = df["behavior"].where(df["behavior"].isin(keep), "other")
+    GEOM = ["bbox_w", "bbox_h", "aspect_ratio", "area", "speed", "accel",
+            "darea", "centroid_x", "centroid_y"]
+    APP = [f"a{k}" for k in range(40)]
+    df = df.dropna(subset=GEOM)
+    y = df["behavior"].to_numpy(); g = df["individual_id"].to_numpy()
+
+    def run(cols, tag):
+        clf = RandomForestClassifier(n_estimators=250, min_samples_leaf=2,
+                                     class_weight="balanced", n_jobs=-1,
+                                     random_state=42)
+        p = cross_val_predict(clf, df[cols], y, cv=GroupKFold(5), groups=g, n_jobs=-1)
+        return {"tag": tag, "n_feat": len(cols),
+                "acc": round(accuracy_score(y, p), 3),
+                "mf1": round(f1_score(y, p, average="macro", zero_division=0), 3)}
+
+    rows = [run(GEOM, "기하+모션"),
+            run(GEOM + TEMPORAL_COLS, "+시간윈도우"),
+            run(GEOM + APP, "+외형"),
+            run(GEOM + APP + TEMPORAL_COLS, "+외형+시간윈도우")]
+    return {"n": int(len(df)), "n_ind": int(df["individual_id"].nunique()),
+            "rows": rows}
+
+
 def main() -> int:
+    if len(sys.argv) > 1 and sys.argv[1] == "--appearance":
+        r = evaluate_with_appearance()
+        print(f"프레임 {r['n']:,} · 개체 {r['n_ind']} · 개체 분리 GroupKFold(5)")
+        for x in r["rows"]:
+            print(f"  {x['tag']:20s} 피처 {x['n_feat']:3d}  정확도 {x['acc']}  Macro-F1 {x['mf1']}")
+        b = max(r["rows"], key=lambda x: x["acc"])
+        print(f"  → 최고: {b['tag']} (정확도 {b['acc']})")
+        return 0
     arg = sys.argv[1] if len(sys.argv) > 1 else None
     r = evaluate(arg)
     print(f"프레임 {r['n']:,} · 개체 {r['n_ind']} · 개체 분리 GroupKFold(5)")
