@@ -15,7 +15,7 @@
 - first contribution
 - Daniel Batistella
 - [Jody Haynes]
-yuvraj
+- yuvraj
 - Rohit Negi
 - [soupnaie-mnm]
 - [Diogo Higa]
