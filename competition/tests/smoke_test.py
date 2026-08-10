@@ -937,6 +937,77 @@ def test_breeding_ledger() -> None:
     assert wl["합계"].sum() == len(up), "작업량 총합이 향후 일정 건수와 다름"
 
 
+def test_posture_crop_feats() -> None:
+    """크롭 외형 피처: 차원·결정성·자세 구분력 + 파일명 회귀."""
+    import numpy as np
+    import posture_crop_feats as pcf
+    rng = np.random.default_rng(0)
+
+    # 가로로 긴 밝은 띠(옆으로 누운 몸통) vs 세로로 긴 띠 — 방향 피처가 달라야 한다
+    horiz = np.full((pcf.SZ, pcf.SZ), 40, dtype=np.uint8)
+    horiz[20:28, 6:42] = 200
+    vert = np.full((pcf.SZ, pcf.SZ), 40, dtype=np.uint8)
+    vert[6:42, 20:28] = 200
+    fh, fv = pcf._crop_feats(horiz), pcf._crop_feats(vert)
+    assert fh.shape == (len(pcf.CROP_COLS),) == fv.shape
+    assert np.isfinite(fh).all() and np.isfinite(fv).all()
+    i_cos = pcf.CROP_COLS.index("sil_cos2t")
+    assert abs(fh[i_cos] - fv[i_cos]) > 0.5, "가로/세로 실루엣이 구분되지 않음"
+    i_el = pcf.CROP_COLS.index("sil_elong")
+    assert fh[i_el] > 1.5 and fv[i_el] > 1.5, "긴 띠인데 장단축비가 1 근처"
+
+    # 결정적이어야 한다(같은 입력 → 같은 출력)
+    assert np.allclose(fh, pcf._crop_feats(horiz))
+    # 균일 크롭은 그래디언트가 없다
+    flat = pcf._crop_feats(np.full((pcf.SZ, pcf.SZ), 128, dtype=np.uint8))
+    assert flat[pcf.CROP_COLS.index("edge_den")] == 0.0
+
+    # 파일명 회귀: image_id 에 이미 확장자가 있는데 .jpg 를 덧붙여 전량 누락됐었다.
+    # 절반 이상 실패하면 0 행렬을 조용히 캐시하지 말고 터져야 한다.
+    import pandas as pd
+    bad = pd.DataFrame([{"image_id": "없는파일.jpg", "x": 0, "y": 0,
+                         "w": 10, "h": 10}])
+    try:
+        pcf.extract(bad, {"d": "/nonexistent"}, verbose=False)
+        raise AssertionError("전량 누락인데 예외가 나지 않음")
+    except RuntimeError:
+        pass
+
+
+def test_posture_crossview() -> None:
+    """교차-뷰 프로토콜: 뷰 정규화의 무누수성·3클래스 매핑·상한 계산."""
+    import numpy as np
+    import posture_crossview as pcv
+    import posture_features as pf
+
+    # 5클래스 → 발정 3클래스 매핑이 stall_estrus 어휘와 맞아야 한다
+    import stall_estrus as se
+    for v in set(pcv.TO_ESTRUS.values()):
+        assert se._canon(v) == v, f"{v} 가 stall_estrus 어휘와 불일치"
+    assert pcv.TO_ESTRUS["Lateral_lying_left"] == \
+        pcv.TO_ESTRUS["Lateral_lying_right"] == "lying"
+
+    # 좌우 횡와를 못 가른다는 가정의 상한: 1 - 비중/2
+    import pandas as pd
+    df = pd.DataFrame({"cls": ["Lateral_lying_left"] * 2
+                       + ["Lateral_lying_right"] * 2 + ["Standing"] * 6})
+    c = pcv.ceiling_from_lr(df)
+    assert abs(c["lr_share"] - 0.4) < 1e-9 and abs(c["ceiling"] - 0.8) < 1e-9
+
+    # 뷰 정규화는 뷰 단위로 독립이어야 한다 — 한 뷰를 바꿔도 다른 뷰 결과는 그대로
+    F = np.array([[1.0, 5.0], [3.0, 7.0], [10.0, 1.0], [20.0, 3.0]])
+    v = np.array(["a", "a", "b", "b"])
+    n1 = pcv.view_normalize(F, v)
+    F2 = F.copy(); F2[2:] *= 100.0
+    n2 = pcv.view_normalize(F2, v)
+    assert np.allclose(n1[:2], n2[:2]), "다른 뷰의 값이 결과에 새어 들어감"
+    for grp in ("a", "b"):
+        blk = n1[v == grp]
+        assert abs(blk.mean()) < 1e-9, "뷰 내 평균이 0 이 아님"
+    # 상수 열에서 0 나눗셈이 나면 안 된다
+    assert np.isfinite(pcv.view_normalize(np.ones((4, 2)), v)).all()
+
+
 def test_barn_environment() -> None:
     """THI 계산·구간 판정·착상기 위험군 교차."""
     import barn_environment as be
@@ -1039,6 +1110,7 @@ def main() -> int:
              test_breeding_timing, test_stall_estrus, test_feeding_monitor,
              test_repro_calendar, test_pregnancy_check, test_herd_board,
              test_farm_registry, test_breeding_ledger, test_barn_environment,
+             test_posture_crop_feats, test_posture_crossview,
              test_dashboard_builders]
     failed = 0
     for t in tests:

@@ -33,3 +33,4 @@ dashboard/alert_console.html
 models/*.pt
 outputs/video_report_*.html
 outputs/video_*.webm
+data/posture_crops.npz
