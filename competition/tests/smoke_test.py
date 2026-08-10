@@ -519,6 +519,32 @@ def test_temporal_features() -> None:
     assert np.isfinite(d[tf.TEMPORAL_COLS].to_numpy()).all()
 
 
+def test_breeding_timing() -> None:
+    """교배 적기: WEI 보정·argmax 권장·회전율 경제 계산."""
+    import breeding_timing as bt
+    # WEI 가 짧으면 발정이 길고 배란이 늦다
+    assert bt.ovulation_time("sow", 4) > bt.ovulation_time("sow", 10)
+    # 후보돈은 경산돈보다 발정이 짧다
+    assert bt.estrus_duration("gilt", 7) < bt.estrus_duration("sow", 7)
+    # 권장 시각은 **자기 모델의 argmax** — 관행(12/24h)보다 항상 낫거나 같아야 한다
+    for parity in ("sow", "gilt"):
+        for wei in (4, 7, 10):
+            w = bt.insemination_window(parity, wei)
+            opt = bt.conception_prob([w["ai1_h"], w["ai2_h"]], parity, wei)
+            routine = bt.conception_prob([12, 24], parity, wei)
+            assert opt >= routine - 1e-9, f"{parity} WEI{wei}: 권장이 관행보다 나쁨"
+            assert w["window_start_h"] < w["ovulation_h"] < w["window_end_h"] + 1e-9
+    # 배란 한참 뒤 수정은 수태율이 급감한다
+    ov = bt.ovulation_time("sow", 7)
+    assert bt.conception_prob([ov - 6], "sow", 7) > bt.conception_prob([ov + 30], "sow", 7)
+    # 회전율: 수태율이 높을수록 회전 빠르고 공태일 적다
+    assert bt.turnover(0.9) > bt.turnover(0.7)
+    assert bt.npd(0.9) < bt.npd(0.7)
+    assert bt.cycle_days(1.0) == bt.GESTATION + bt.LACTATION + bt.NORMAL_WEI
+    e = bt.economics(300, 0.78, 0.85)
+    assert e["won_saved_year"] > 0 and e["turnover_after"] > e["turnover_before"]
+
+
 def main() -> int:
     tests = [test_dependencies_import, test_aihub_client_no_key,
              test_pipeline_runs, test_aihub_parsers,
@@ -531,7 +557,8 @@ def main() -> int:
              test_repro_dashboard_svg, test_parse_71471_real_schema,
              test_estrus_calendar_link, test_estrus_contrast_eval,
              test_keypoints_parser_pose, test_pose_vs_behavior_eval,
-             test_motion_tracker, test_box_merge, test_temporal_features]
+             test_motion_tracker, test_box_merge, test_temporal_features,
+             test_breeding_timing]
     failed = 0
     for t in tests:
         try:
