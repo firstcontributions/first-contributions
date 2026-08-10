@@ -365,6 +365,7 @@ nathan practice here
   [Ronit](https://github.com/ronitchiluka06)
 - [Aditya Adarsh](https://github.com/AdityaAdarsh25)
 - [Raj Jadhav](https://github.com/Raj-Jadhav/)
+- [Chinwendu Onwuka](https://github.com/Thenewgirl04)
 - [Patrick Shehata](https://github.com/rekozzz)
 - [Mehul Sinha](https://github.com/MehulEXE)
 - [Mohammed Metwally](https://github.com/MohammedMetw)
