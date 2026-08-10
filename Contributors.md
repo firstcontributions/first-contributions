@@ -1877,5 +1877,7 @@ Maqsood Ansari
 - [Sudhishna Mallavarapu] (https://github.com/mallavarapusudhishna)
 - [Anshika Jain](https://github.com/AnshikaJain-code)
 - [toeandrook-sketch](https://github.com/toeandrook-sketch)
+- [Manoj Dewda](https://github.com/Manoj-Dewda)
 - [Roshni Sah](https://github.com/Roshni-Sah)
 - [NYClifewithNyx](https://github.com/NYClifewithNyx)
+- - [Manoj Dewda](https://github.com/Manoj-Dewda)
