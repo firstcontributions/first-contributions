@@ -4071,3 +4071,4 @@ Megan Das
 - [bywoo43-arch](https://github.com/bywoo43-arch)
 - [Ashutosh Bijalwan] (https://github.com/AshutoshBijalwan)
 - [Atheros](https://github.com/chishkin-afk)
+- [Aashutosh K.C.](https://github.com/Aashutosh-kc)
