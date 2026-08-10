@@ -56,6 +56,13 @@ ACTIONS = {
 OVERDUE_HORIZON = 14      # 이보다 오래 지난 작업은 조치 불가 — 큐에서 뺀다
 
 
+def _dd(d) -> str:
+    """D-day 표기. None·NaN 은 '-'."""
+    if not present(d):
+        return "-"
+    return "오늘" if int(d) == 0 else f"D-{int(d)}"
+
+
 def present(v) -> bool:
     """None·NaN 을 결측으로 본다 — 소비 측이 반드시 이걸 써야 한다.
 
@@ -200,6 +207,113 @@ def ledger(farm: fr.Farm, herd: pd.DataFrame, schedules: dict,
     return df.sort_values("urgency", ascending=False).reset_index(drop=True)
 
 
+# --------------------------------------------------------------------------
+# 조치 대상 판정. **여기 한 곳에만 둔다** — 도면 뷰와 큐가 각자 정의를 갖고
+# 있었더니 같은 군을 23두와 68두로 세는 일이 벌어졌다. 화면마다 숫자가 다르면
+# 어느 것도 못 믿는다.
+TASK_TO_STATUS = {"교배": "교배", "발정 관찰": "발정확인", "분만": "분만",
+                  "임신감정": "임신감정", "재발정 확인": "재발확인",
+                  "분만사 이동": "임신감정", "이유": "정상"}
+# D-day 가 며칠 이내면 조치 대상인가. 작업마다 준비 시간이 다르다 — 교배는
+# 당일 판단이지만 분만은 자리·인력·야간 순찰을 미리 잡아야 한다.
+ACTION_WINDOW = 2
+ACTION_WINDOW_BY_TASK = {"분만": 7, "분만사 이동": 5}
+
+
+def action_status(row) -> tuple:
+    """관리표 한 행 → (조치 종류, 기한경과 여부).
+
+    임박한 시한작업이 지연보다 **앞선다**. 오늘 교배해야 할 개체를 어제 놓친
+    관찰 때문에 '지연'으로 분류하면 정작 오늘 할 일이 가려진다. 지연은 작업
+    종류가 아니라 수식어이므로 따로 돌려준다.
+    """
+    late = (row.get("overdue_days") or 0) > 0
+    c = row.get("conflict")
+    if present(c) and str(c).strip():
+        return "경보", late
+    d, task = row.get("d_day"), row.get("next_task")
+    if present(d) and d <= ACTION_WINDOW_BY_TASK.get(task, ACTION_WINDOW):
+        return TASK_TO_STATUS.get(task, "정상"), late
+    return "정상", late
+
+
+def is_actionable(row) -> bool:
+    """오늘 손댈 일이 있는 개체인가.
+
+    작업 로그에 완료가 찍힌 행(done)은 제외한다 — 긴급도만 0 으로 내려서는
+    큐에서 빠지지 않는다(판정이 긴급도를 보지 않기 때문).
+    """
+    if row.get("done"):
+        return False
+    st, late = action_status(row)
+    return st not in ("정상", "공실") or late
+
+
+# 작업별 준비물 — 동에 들어가기 전에 챙길 것. 빈손으로 갔다 되돌아오면
+# 그 왕복이 곧 놓친 교배가 된다.
+SUPPLIES = {
+    # 발정 관찰과 재발정 확인은 둘 다 웅돈을 끌고 간다. 따로 적으면 준비물
+    # 목록에 '웅돈'이 두 줄로 잡혀 몇 마리가 필요한지 알 수 없다.
+    "교배": "정액·주입기", "발정 관찰": "웅돈", "재발정 확인": "웅돈",
+    "임신감정": "초음파기", "분만": "분만 키트", "분만사 이동": "이동 준비",
+    "이유": "자돈 분리 상자",
+}
+# 시한작업 — 놓치면 그날로 기회가 사라진다(다음 발정까지 21일)
+TIME_CRITICAL = ("교배", "분만", "발정 관찰")
+
+
+def barn_queue(led: pd.DataFrame, order: str = "urgency",
+               route: list | None = None, only_action: bool = True) -> list:
+    """작업동별 조치 큐 — 사람은 동 단위로 움직인다.
+
+    긴급도 한 줄로 세우면 1동 → 3동 → 1동 → 2동 처럼 오가게 된다. 실제 아침
+    점검은 축사를 하나씩 도는 일이므로, **동으로 묶은 뒤 동 안에서 긴급도순**이
+    맞다. 이동이 줄면 그만큼 놓치는 작업도 준다.
+
+    order="urgency"  가장 급한 개체가 있는 동부터. 오늘 교배할 개체가 어느 동에
+                     있든 그 동이 먼저 온다.
+    order="route"    농장의 물리적 동선 순서(route 인자, 없으면 이름순). 아침
+                     정기 점검처럼 어차피 다 도는 경우에 쓴다.
+
+    동마다 **준비물**을 함께 낸다 — 빈손으로 갔다 되돌아오는 왕복이 곧 놓친
+    교배가 되기 때문이다.
+    """
+    if only_action:
+        keep = [is_actionable(r) for r in led.to_dict("records")]
+        d = led[pd.Series(keep, index=led.index)]
+    else:
+        d = led
+    groups = []
+    for barn, g in d.groupby("barn", sort=False):
+        g = g.sort_values("urgency", ascending=False)
+        tasks = g["next_task"].tolist()
+        sup = {}
+        for t in tasks:
+            s = SUPPLIES.get(t)
+            if s:
+                sup[s] = sup.get(s, 0) + 1
+        crit = int((g["next_task"].isin(TIME_CRITICAL)
+                    & (g["d_day"].fillna(99) <= 1)).sum())
+        groups.append({
+            "barn": barn, "n": int(len(g)),
+            "n_critical": crit,
+            "n_overdue": int((g["overdue_days"] > 0).sum()),
+            "n_conflict": int(g["conflict"].notna().sum()),
+            "top_urgency": float(g["urgency"].max()),
+            "supplies": sup, "rows": g.to_dict("records"),
+        })
+    if order == "route":
+        seq = route or sorted({x["barn"] for x in groups})
+        rank = {b: i for i, b in enumerate(seq)}
+        groups.sort(key=lambda x: (rank.get(x["barn"], 999), -x["top_urgency"]))
+    else:
+        # 가장 급한 개체가 있는 동이 먼저. 같으면 일이 많은 동부터.
+        groups.sort(key=lambda x: (-x["top_urgency"], -x["n"]))
+    for i, gr in enumerate(groups, start=1):
+        gr["visit_order"] = i
+    return groups
+
+
 def upcoming(schedules: dict, today=None, days: int = 14,
              farm: fr.Farm | None = None) -> pd.DataFrame:
     """향후 N일 관리 일정 — 날짜·작업·개체(+위치)."""
@@ -292,6 +406,26 @@ def main() -> int:
         par = "-" if not np.isfinite(r.parity) else f"{int(r.parity)}"
         print(f"  {r.id:>5} {r.loc:<16} {par:>3} {str(r.stage):<4} "
               f"{r.estrus:<6} {r.pregnancy:<8} {r.next_task:<9} {dd:>4}  {r.action}")
+
+    print("\n=== 작업동별 조치 큐 (사람은 동 단위로 움직인다) ===")
+    for g in barn_queue(led):
+        sup = " · ".join(f"{k}×{v}" for k, v in g["supplies"].items()) or "-"
+        flag = f"  ⚠ 시한작업 {g['n_critical']}건" if g["n_critical"] else ""
+        print(f"  [{g['visit_order']}] {g['barn']} — {g['n']}건"
+              f"(지연 {g['n_overdue']} · 경보 {g['n_conflict']}){flag}")
+        print(f"      준비물: {sup}")
+        for r in g["rows"][:3]:
+            print(f"      · {r['id']} {r['loc']:<14} {r['next_task']:<9} "
+                  f"{_dd(r['d_day'])}")
+        if g["n"] > 3:
+            print(f"      … 외 {g['n'] - 3}건")
+    print("  ※ 긴급도 한 줄로 세우면 1동→3동→1동 처럼 오가게 된다. 동으로 묶고"
+          "\n    동 안에서 긴급도순으로 두면 이동이 준다.")
+
+    print("\n=== 같은 큐, 동선 순서 (아침 정기 점검용) ===")
+    for g in barn_queue(led, order="route"):
+        print(f"  {g['barn']} {g['n']}건"
+              + (f" · 시한 {g['n_critical']}" if g["n_critical"] else ""))
 
     ov = led[led["overdue_days"] > 0]
     print(f"\n=== 기한 경과 {len(ov)}두 (놓친 작업 = 공태일) ===")

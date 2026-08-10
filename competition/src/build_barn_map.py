@@ -49,13 +49,11 @@ STATUS = {
     "공실":      ("#c9c9c2", "빈 자리"),
 }
 OVERDUE_STROKE = "#a02020"
-TASK_TO_STATUS = {"교배": "교배", "발정 관찰": "발정확인", "분만": "분만",
-                  "임신감정": "임신감정", "재발정 확인": "재발확인",
-                  "분만사 이동": "임신감정", "이유": "정상"}
-# D-day 가 며칠 이내면 '조치 대상'으로 칠할지. 작업마다 준비 시간이 다르다 —
-# 교배는 당일 판단이지만 분만은 자리·인력·야간 순찰을 미리 잡아야 한다.
-ACT_WINDOW = 2
-ACT_WINDOW_BY_TASK = {"분만": 7, "분만사 이동": 5}
+# 판정 규칙은 breeding_ledger 한 곳에만 둔다. 여기 따로 두었더니 큐는 68두,
+# 도면은 23두로 같은 군을 다르게 셌다. 이 파일은 **색만** 갖는다.
+TASK_TO_STATUS = bl.TASK_TO_STATUS
+ACT_WINDOW = bl.ACTION_WINDOW
+ACT_WINDOW_BY_TASK = bl.ACTION_WINDOW_BY_TASK
 
 
 def _dday(d) -> str:
@@ -70,21 +68,8 @@ def _dday(d) -> str:
 _present = bl.present
 
 
-def cell_status(row) -> tuple:
-    """관리표 한 행 → (색 구분, 기한경과 여부).
-
-    임박한 시한작업이 지연보다 **앞선다**. 오늘 교배해야 할 개체를 어제 놓친
-    관찰 때문에 '지연'으로 칠하면, 정작 오늘 들고 가야 할 정액이 화면에서
-    사라진다. 지연은 테두리로 따로 표시하므로 정보가 없어지지도 않는다.
-    """
-    late = (row.get("overdue_days") or 0) > 0
-    c = row.get("conflict")
-    if _present(c) and str(c).strip():
-        return "경보", late
-    d, task = row.get("d_day"), row.get("next_task")
-    if _present(d) and d <= ACT_WINDOW_BY_TASK.get(task, ACT_WINDOW):
-        return TASK_TO_STATUS.get(task, "정상"), late
-    return "정상", late
+# 조치 종류·기한경과 판정도 breeding_ledger 가 제공한다(단일 정의).
+cell_status = bl.action_status
 
 
 def build_layout(farm: fr.Farm, led: pd.DataFrame) -> dict:

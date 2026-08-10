@@ -139,6 +139,13 @@ def build_payload() -> dict:
                   "score": int(r["score"]), "reason": r["reason"]}
                  for r in cc.head(10).to_dict("records")],
         "ai": _ai_case(farm, herd, scores),
+        "queue": [{"barn": g["barn"], "order": g["visit_order"],
+                   "n": g["n"], "crit": g["n_critical"],
+                   "late": g["n_overdue"], "conf": g["n_conflict"],
+                   "supplies": g["supplies"],
+                   "ids": [str(r["id"]) for r in g["rows"]]}
+                  for g in bl.barn_queue(led)],
+        "route": [b for b in farm.barns],
     }
 
 
@@ -288,6 +295,31 @@ padding:9px;border-radius:9px;font-weight:700;font-size:.82rem;cursor:pointer}
 .btrack{flex:1;height:13px;background:var(--scr2);border-radius:4px;overflow:hidden}
 .bfill{height:100%;border-radius:4px}
 .empty{color:var(--muted);font-size:.76rem;padding:16px 4px;text-align:center}
+.bhead{margin:12px 0 7px;padding-bottom:5px;border-bottom:1px solid var(--border)}
+.bhead:first-child{margin-top:0}
+.bh1{display:flex;align-items:center;gap:7px;font-size:.88rem}
+.bord{background:var(--accent);color:#fff;width:17px;height:17px;border-radius:50%;
+font-size:.62rem;display:flex;align-items:center;justify-content:center;font-weight:700}
+.bcnt{color:var(--muted);font-size:.7rem}
+.bcrit{font-size:.62rem;font-weight:700;color:#d03b3b;
+background:rgba(208,59,59,.13);padding:1px 7px;border-radius:999px}
+.bsup{font-size:.65rem;color:var(--ink2);margin-top:2px}
+.acts{display:flex;gap:6px;margin-top:6px}
+.acts span{flex:1;text-align:center;font-size:.68rem;font-weight:700;padding:4px;
+border-radius:6px;cursor:pointer}
+.acts .ok{background:color-mix(in srgb,#1baf7a 16%,transparent);color:#1baf7a}
+.acts .skip{background:var(--scr2);color:var(--muted)}
+.acts span:active{opacity:.55}
+.logrow{display:flex;align-items:baseline;gap:7px;font-size:.72rem;padding:6px 2px;
+border-bottom:1px solid var(--scr2)}
+.lg1{color:var(--muted);font-size:.65rem;width:64px;flex-shrink:0}
+.lg2{flex:1}.lg2 em{font-style:normal;color:var(--muted);font-size:.65rem}
+.lg3{font-size:.65rem;font-weight:700;padding:1px 7px;border-radius:999px}
+.lg3.okc{background:color-mix(in srgb,#1baf7a 16%,transparent);color:#1baf7a}
+.lg3.skc{background:var(--scr2);color:var(--muted)}
+.lg4{font-size:.62rem;color:#a02020}
+.btn.ghost{background:transparent;color:var(--muted);
+border:1px solid var(--border)}
 .foot{max-width:392px;width:100%;font-size:.7rem;color:var(--muted);
 margin-top:14px;line-height:1.6}
 """
@@ -305,6 +337,47 @@ const dnum=iso=>Math.round((new Date(iso+'T00:00:00')-T0)/864e5);
 const md=iso=>iso?iso.slice(5).replace('-','/'):'';
 
 let filter='all';
+const LKEY='pig_worklog_v1';
+function loadLog(){try{return JSON.parse(localStorage.getItem(LKEY)||'[]');}
+ catch(e){return[];}}
+function saveLog(x){try{localStorage.setItem(LKEY,JSON.stringify(x));}catch(e){}}
+function addLog(a,result){
+  const g=loadLog();
+  g.push({ts:new Date().toISOString().slice(0,19),id:a.id,task:a.task,
+    result:result,loc:a.loc,planned:a.date,operator:'현장'});
+  saveLog(g);
+}
+function vLog(v){
+  const g=loadLog().slice().reverse();
+  const done=g.filter(x=>x.result==='완료').length;
+  v.appendChild(el('div','sum',
+    `<div><b>${g.length}</b><span>기록</span></div>
+     <div><b>${done}</b><span>완료</span></div>
+     <div><b>${g.length-done}</b><span>미실시</span></div>`));
+  if(!g.length){
+    v.appendChild(el('div','empty',
+      '아직 기록이 없습니다.<br>홈에서 <b>완료</b>를 누르면 여기 쌓입니다.'));
+  }
+  g.forEach(x=>{
+    const late=x.planned?Math.round(
+      (new Date(x.ts.slice(0,10))-new Date(x.planned))/864e5):null;
+    v.appendChild(el('div','logrow',
+      `<span class="lg1">${esc(x.ts.slice(5,10))} ${esc(x.ts.slice(11,16))}</span>
+       <span class="lg2"><b>${esc(x.id)}</b> ${esc(x.task)}
+        <em>${esc(x.loc||'')}</em></span>
+       <span class="lg3 ${x.result==='완료'?'okc':'skc'}">${esc(x.result)}</span>
+       ${late!=null&&late>0?`<span class="lg4">+${late}일</span>`:''}`));
+  });
+  if(g.length){
+    const b=el('div','btn ghost','기록 전체 지우기');
+    b.onclick=()=>{if(confirm('작업 로그를 모두 지웁니다.')){saveLog([]);nav();}};
+    v.appendChild(b);
+  }
+  v.appendChild(el('div','hint',
+    '작업 로그는 <b>추가만</b> 합니다 — 기록을 고치면 성적이 왜곡되므로 정정은 '
+    +'취소 기록을 덧붙이는 방식입니다. 이 프로토타입은 브라우저에 저장하므로 '
+    +'새로고침해도 남습니다. 실제 앱은 서버에 같은 스키마로 쌓습니다.'));
+}
 
 function go(h){location.hash=h;}
 function nav(){
@@ -312,10 +385,11 @@ function nav(){
   const v=$('#view'); v.innerHTML=''; v.scrollTop=0;
   const back=$('#back'); back.classList.toggle('on',p[0]==='card');
   const titles={home:'오늘 할 일',list:'모돈 목록',card:'모돈카드',
-   map:'축사 도면',board:'현황판',alert:'알림',ai:'교배기록 등록'};
+   map:'축사 도면',board:'현황판',alert:'알림',ai:'교배기록 등록',
+   log:'작업 로그'};
   $('#title').textContent=titles[p[0]]||'오늘 할 일';
-  ({home:vHome,list:vList,card:vCard,map:vMap,board:vBoard,alert:vAlert,ai:vAi}
-   [p[0]]||vHome)(v,p[1]);
+  ({home:vHome,list:vList,card:vCard,map:vMap,board:vBoard,alert:vAlert,
+    ai:vAi,log:vLog}[p[0]]||vHome)(v,p[1]);
   document.querySelectorAll('.tab').forEach(t=>
     t.classList.toggle('on',t.dataset.r===p[0]));
 }
@@ -334,18 +408,52 @@ function taskCard(a){
 }
 
 function vHome(v){
-  const k=D.kpi;
+  const k=D.kpi, done=loadLog();
+  const doneKey=a=>a.id+'|'+a.task;
+  const isDone=a=>done.some(x=>x.id===a.id&&x.task===a.task);
+  const remain=D.queue.map(g=>({...g,
+    items:g.ids.map(i=>byId[i]).filter(a=>a&&!isDone(a))}))
+    .filter(g=>g.items.length);
+  const nAct=remain.reduce((s,g)=>s+g.items.length,0);
   v.appendChild(el('div','sum',
-    `<div><b>${k.nAct}</b><span>조치 대상</span></div>
-     <div><b>${k.nLate}</b><span>지연</span></div>
+    `<div><b>${nAct}</b><span>남은 조치</span></div>
+     <div><b>${done.length}</b><span>오늘 완료</span></div>
      <div><b>${k.nConf}</b><span>경보</span></div>`));
-  const list=D.animals.filter(a=>a.status!=='정상'||a.late)
-    .sort((x,y)=>y.urgency-x.urgency);
-  if(!list.length)v.appendChild(el('div','empty','오늘 조치할 개체가 없습니다'));
-  list.slice(0,20).forEach(a=>v.appendChild(taskCard(a)));
+  if(!remain.length){
+    v.appendChild(el('div','empty','오늘 조치할 개체가 없습니다 👍'));
+  }
+  remain.forEach(g=>{
+    const sup=Object.entries(g.supplies).map(([s,n])=>`${esc(s)}×${n}`).join(' · ');
+    const head=el('div','bhead',
+      `<div class="bh1"><span class="bord">${g.order}</span>
+        <b>${esc(g.barn)}</b>
+        <span class="bcnt">${g.items.length}건</span>
+        ${g.crit?`<span class="bcrit">시한 ${g.crit}</span>`:''}</div>
+       <div class="bsup">준비물 · ${sup||'-'}</div>`);
+    v.appendChild(head);
+    g.items.forEach(a=>{
+      const c=D.taskColors[a.task]||'#888';
+      const d=el('div','task',
+        `<div class="tl"><b>${esc(a.id)}</b>
+          <span class="dd" style="color:${c}">${dday(a.dday)}</span></div>
+         <div class="t2">${esc(a.loc)}</div>
+         <div class="t3" style="color:${c}">${esc(a.task)} · ${esc(a.action)}</div>
+         ${a.late?`<span class="late">${esc(a.lateTask)} ${a.lateDays}일 경과</span>`:''}
+         <div class="acts"><span class="ok">완료</span><span class="skip">미실시</span></div>`);
+      d.style.borderLeftColor=c;
+      d.querySelector('.ok').onclick=e=>{e.stopPropagation();
+        addLog(a,'완료');nav();};
+      d.querySelector('.skip').onclick=e=>{e.stopPropagation();
+        addLog(a,'미실시');nav();};
+      d.onclick=()=>go('#/card/'+a.id);
+      v.appendChild(d);
+    });
+  });
   v.appendChild(el('div','hint',
-    '긴급도순입니다. <b>교배·분만·발정관찰</b>은 놓치면 그날로 기회가 사라지므로'
-    +'(다음 발정까지 21일) 단순 지연보다 위에 옵니다. 눌러서 개체카드로.'));
+    '<b>작업동별</b>로 묶었습니다. 사람은 축사를 하나씩 도니까요 — 긴급도 한 줄로 '
+    +'세우면 1동→3동→1동 처럼 오가게 됩니다. 동 순서는 <b>가장 급한 개체가 있는 '
+    +'동</b>부터이고, 동에 들어가기 전 챙길 <b>준비물</b>을 함께 냅니다. '
+    +'완료를 누르면 로그에 쌓이고 큐에서 빠집니다.'));
 }
 
 function vList(v,q){
@@ -564,7 +672,7 @@ def main() -> int:
                       allow_nan=False)
     tabs = [("home", "☰", "오늘"), ("list", "☷", "목록"),
             ("map", "▦", "도면"), ("board", "▤", "현황"),
-            ("alert", "◉", "알림")]
+            ("log", "✓", "로그"), ("alert", "◉", "알림")]
     tab_html = "".join(
         f'<div class="tab" data-r="{r}"><b>{i}</b>{n}</div>' for r, i, n in tabs)
 

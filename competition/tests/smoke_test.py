@@ -814,6 +814,102 @@ def test_farm_registry() -> None:
     assert not set(ok) & set(mp["id"]), "정상 배치가 오류로 잡힘"
 
 
+def test_barn_queue() -> None:
+    """작업동별 조치 큐: 단일 판정·동 순서·준비물."""
+    import breeding_ledger as bl
+    import build_barn_map as bm
+    today = "2026-08-10"
+    farm, herd, scheds, scores = bl.build_demo(today)
+    led = bl.ledger(farm, herd, scheds, scores, today=today)
+
+    # 판정은 한 곳에만 — 도면과 큐가 같은 수를 세야 한다(23 vs 68 회귀)
+    assert bm.cell_status is bl.action_status
+    n_map = sum(1 for r in led.to_dict("records") if bl.is_actionable(r))
+    q = bl.barn_queue(led)
+    assert sum(g["n"] for g in q) == n_map, "큐 합계가 도면 조치 대상과 불일치"
+    assert n_map < len(led), "전 개체가 조치 대상"
+
+    # 동은 겹치지 않고, 동 안은 긴급도 내림차순
+    barns = [g["barn"] for g in q]
+    assert len(barns) == len(set(barns))
+    for g in q:
+        u = [r["urgency"] for r in g["rows"]]
+        assert u == sorted(u, reverse=True), f"{g['barn']} 동 내부 정렬 깨짐"
+        assert g["n"] == len(g["rows"])
+    # 가장 급한 개체가 있는 동이 먼저
+    tops = [g["top_urgency"] for g in q]
+    assert tops == sorted(tops, reverse=True)
+    assert [g["visit_order"] for g in q] == list(range(1, len(q) + 1))
+
+    # 준비물: 발정 관찰과 재발정 확인은 둘 다 웅돈 — 한 줄로 합쳐야 한다
+    assert bl.SUPPLIES["발정 관찰"] == bl.SUPPLIES["재발정 확인"] == "웅돈"
+    for g in q:
+        tasks = [r["next_task"] for r in g["rows"]]
+        want = sum(1 for t in tasks if bl.SUPPLIES.get(t) == "웅돈")
+        assert g["supplies"].get("웅돈", 0) == want, f"{g['barn']} 웅돈 수 불일치"
+
+    # 동선 순서: 등록 순서를 따른다
+    route = list(farm.barns)
+    rq = bl.barn_queue(led, order="route", route=route)
+    seen = [g["barn"] for g in rq]
+    assert seen == [b for b in route if b in seen], "동선 순서가 지켜지지 않음"
+
+
+def test_work_log() -> None:
+    """작업 로그: 추가전용·취소 반영·큐 정정·적기 준수."""
+    import tempfile
+    import breeding_ledger as bl
+    import work_log as wl
+    today = "2026-08-10"
+    farm, herd, scheds, scores = bl.build_demo(today)
+    led = bl.ledger(farm, herd, scheds, scores, today=today)
+
+    with tempfile.TemporaryDirectory() as d:
+        path = os.path.join(d, "log.csv")
+        assert len(wl.load(path)) == 0
+        wl.record("A", "교배", "2026-08-10", operator="김", path=path,
+                  planned_date="2026-08-09")
+        wl.record("B", "임신감정", "2026-08-10", path=path)
+        lg = wl.load(path)
+        assert len(lg) == 2 and list(lg.columns) == wl.COLS
+        assert wl.done_keys(lg) == {("A", "교배"), ("B", "임신감정")}
+        # 취소를 덧붙이면 완료가 무효가 된다(기록은 지우지 않는다)
+        wl.record("A", "교배", "2026-08-10", result="취소", path=path)
+        lg2 = wl.load(path)
+        assert len(lg2) == 3, "취소가 기존 행을 덮어썼다 — 추가전용이 깨짐"
+        assert ("A", "교배") not in wl.done_keys(lg2)
+        try:
+            wl.record("C", "교배", today, result="없는결과", path=path)
+            raise AssertionError("잘못된 result 가 허용됨")
+        except ValueError:
+            pass
+
+    # 합성 로그로 큐 정정
+    log = wl.generate_demo(scheds, today=today)
+    assert len(log) and set(log["result"]) <= set(wl.RESULTS)
+    before = sum(1 for r in led.to_dict("records") if bl.is_actionable(r))
+    led2 = wl.apply_to_ledger(led, log)
+    after = sum(1 for r in led2.to_dict("records") if bl.is_actionable(r))
+    assert "done" in led2.columns
+    assert after <= before, "로그를 반영했는데 조치 대상이 늘었다"
+    if int(led2["done"].sum()):
+        assert after < before, "완료 기록이 있는데 큐가 줄지 않았다"
+    # done 은 반드시 큐에서 빠져야 한다(긴급도만 0 으로 내리면 안 빠졌다)
+    assert not any(bl.is_actionable(r) for r in led2.to_dict("records")
+                   if r["done"])
+
+    c = wl.compliance(log)
+    assert len(c) and (c["on_time_rate"].between(0, 1)).all()
+    assert (c["on_time"] + c["late"] + c["early"] <= c["n"]).all()
+    # 교배는 허용 폭이 가장 좁아야 한다
+    assert wl.ON_TIME["교배"] < wl.ON_TIME["임신감정"]
+
+    s = wl.summary(log, days=14, today=today)
+    assert s["n"] >= 0 and len(s["daily"]) == 14
+    assert sum(x["n"] for x in s["daily"]) == s["n"]
+    assert len(wl.summary(wl.load("/nonexistent.csv"))) == 1  # {"n":0}
+
+
 def test_pregnancy_check() -> None:
     """임신진단 3단계: 캐스케이드 보존·조기검출 이득·초음파 의존성."""
     import pregnancy_check as pc
@@ -1224,6 +1320,7 @@ def main() -> int:
              test_motion_tracker, test_box_merge, test_temporal_features,
              test_breeding_timing, test_stall_estrus, test_feeding_monitor,
              test_repro_calendar, test_pregnancy_check, test_herd_board,
+             test_barn_queue, test_work_log,
              test_farm_registry, test_breeding_ledger, test_barn_environment,
              test_posture_crop_feats, test_posture_crossview, test_posture_report,
              test_dashboard_builders]
