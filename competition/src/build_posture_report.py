@@ -134,6 +134,12 @@ def fold_svg(folds, width=860) -> str:
          f'stroke-dasharray="4 3"/>'
          f'<text x="{pad_l + plot * mean + 4:.1f}" y="{h - pad_b + 14}" '
          f'class="tk">단순평균 {mean:.3f}</text>']
+    tot = sum(f["n_test"] for f in folds) or 1
+    wmean = sum(f["acc"] * f["n_test"] for f in folds) / tot
+    if abs(wmean - mean) > 0.002:
+        p.append(f'<line x1="{pad_l + plot * wmean:.1f}" y1="4" '
+                 f'x2="{pad_l + plot * wmean:.1f}" y2="{h - pad_b}" '
+                 f'stroke="var(--accent)" stroke-dasharray="2 3"/>')
     for i, f in enumerate(sorted(folds, key=lambda r: -r["acc"])):
         y = 6 + i * bh
         w = max(2.0, plot * f["acc"])
@@ -175,6 +181,19 @@ def main() -> int:
     p_old = next(x[2] for x in PROPAGATION if x[0] == 0.513)
     p_perf = next(x[2] for x in PROPAGATION if x[0] == 1.0)
     recov = (p_best - p_old) / (p_perf - p_old)
+
+    # 혼동행렬에서 캡션에 쓸 실제 값을 뽑는다(손으로 적으면 재계산 때 어긋난다)
+    def _row(conf, true_lab):
+        labs = conf["labels"]
+        M = np.array(conf["matrix"], dtype=float)
+        i = labs.index(true_lab)
+        s = M[i].sum() or 1.0
+        return {labs[j]: M[i][j] / s for j in range(len(labs))}
+
+    gl = _row(r["confusion_geom"], "Lateral_lying_left")
+    geom_lr = (gl["Lateral_lying_left"], gl["Lateral_lying_right"], gl["Standing"])
+    geom_stand = _row(r["confusion_geom"], "Standing")["Standing"]
+    best_stand = _row(r["confusion_best"], "Standing")["Standing"]
 
     kpis = [
         ("폐기", "이전 보고값 0.642", "누수 분할 — 이미지 3,090장 공유"),
@@ -265,8 +284,12 @@ MF1 {geom["cls3"]["mf1_w"]:.3f} → <b>{best["cls3"]["mf1_w"]:.3f}</b>
 카메라별 밝기·대비 편차를 안고 있는 건 크롭 쪽이기 때문이다.</div>
 </div>
 
-<h2>4. 혼동행렬 — 동전던지기의 증거</h2>
-<div class="h2d">행 = 정답, 열 = 예측(행 기준 비율). 좌횡와 행을 보면 좌·우로 거의 반씩 갈린다. 초록 대각이 정답, 붉을수록 오분류.</div>
+<h2>4. 혼동행렬 — 무엇을 무엇으로 착각하는가</h2>
+<div class="h2d">행 = 정답, 열 = 예측(행 기준 비율). 초록 대각이 정답, 붉을수록 오분류.
+<b>두 가지를 따로 읽어야 한다.</b> ⑴ 좌횡와 행의 좌·우 예측이 {geom_lr[0]:.2f} / {geom_lr[1]:.2f} 로
+사실상 같다 — 좌우를 <b>구분하지 못한다</b>는 증거다. ⑵ 그런데 가장 큰 오분류 덩어리는
+좌우 혼동이 아니라 <b>횡와 → 기립</b>({geom_lr[2]:.2f})이다. 크롭 외형이 메우는 것은 주로 이쪽으로,
+기립 재현율이 {geom_stand:.2f} → {best_stand:.2f} 로 올라간다.</div>
 <div class="two">
 <div><div class="h2d">기하만 (기존)</div>
 <div class="card">{confusion_svg(r["confusion_geom"]["labels"], r["confusion_geom"]["matrix"], 470)}</div></div>
@@ -277,8 +300,11 @@ MF1 {geom["cls3"]["mf1_w"]:.3f} → <b>{best["cls3"]["mf1_w"]:.3f}</b>
 <h2>5. 폴드별 분산 — 한 번의 분할을 믿을 수 없는 이유</h2>
 <div class="h2d">기존 코드는 뷰 8개 중 마지막 2개만 held-out 으로 썼는데 <b>그 둘이 전체의 42%</b> 였다. 카메라마다 난이도가 크게 다르므로 한 번의 임의 분할로 낸 수치로는 개선을 잴 수 없다.</div>
 <div class="card">{fold_svg(best["folds3"])}
-<div class="note">최선 구성 · 발정 3클래스 기준. 가중평균 {best["cls3"]["acc_w"]:.3f}
-(검증 표본 수로 가중). 단순평균과 다른 것은 폴드 크기가 크게 다르기 때문이다.</div></div>
+<div class="note">최선 구성 · 발정 3클래스 기준. 폴드 정확도가
+{min(f["acc"] for f in best["folds3"]):.3f} ~ {max(f["acc"] for f in best["folds3"]):.3f} 로 흩어진다.
+가중평균(검증 표본 수 기준) {best["cls3"]["acc_w"]:.3f} ·
+단순평균 {np.mean([f["acc"] for f in best["folds3"]]):.3f} —
+폴드 크기가 200~9,713 으로 크게 다른데도 두 값이 거의 같은 것은 우연이다.</div></div>
 
 <h2>6. 더 엄정한 조건 — 돈방째 held-out</h2>
 <div class="h2d">카메라만 빼면 <b>같은 돈방의 다른 카메라가 같은 돼지를 비춘다</b>. '새 농장'에 가장 가까운 조건은 돈방을 통째로 빼는 것이다.</div>

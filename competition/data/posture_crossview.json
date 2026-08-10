@@ -1,0 +1,373 @@
+{
+ "n_boxes": 23450,
+ "n_images": 3150,
+ "n_views": 8,
+ "folds": [
+  "pen1_orb_cam1",
+  "pen1_orb_cam2",
+  "pen1_tur_cam1",
+  "pen1_tur_cam2",
+  "pen2_orb_cam1",
+  "pen2_tur_cam1",
+  "pen2_tur_cam2"
+ ],
+ "classes": [
+  "Lateral_lying_left",
+  "Lateral_lying_right",
+  "Sitting",
+  "Standing",
+  "Sternal_lying"
+ ],
+ "ceiling": {
+  "lr_share": 0.278,
+  "ceiling": 0.861
+ },
+ "baseline": {
+  "cls": {
+   "acc_w": 0.423,
+   "mf1_w": 0.119
+  },
+  "cls3": {
+   "acc_w": 0.547,
+   "mf1_w": 0.239
+  }
+ },
+ "configs": [
+  {
+   "tag": "기하만 (기존)",
+   "feature_set": "geom",
+   "view_norm": false,
+   "cls": {
+    "acc_w": 0.414,
+    "mf1_w": 0.228
+   },
+   "cls3": {
+    "acc_w": 0.513,
+    "mf1_w": 0.35
+   },
+   "folds3": [
+    {
+     "view": "pen1_orb_cam1",
+     "n_test": 722,
+     "acc": 0.688,
+     "mf1": 0.635
+    },
+    {
+     "view": "pen1_orb_cam2",
+     "n_test": 1488,
+     "acc": 0.428,
+     "mf1": 0.281
+    },
+    {
+     "view": "pen1_tur_cam1",
+     "n_test": 200,
+     "acc": 0.595,
+     "mf1": 0.547
+    },
+    {
+     "view": "pen1_tur_cam2",
+     "n_test": 8194,
+     "acc": 0.507,
+     "mf1": 0.332
+    },
+    {
+     "view": "pen2_orb_cam1",
+     "n_test": 2817,
+     "acc": 0.517,
+     "mf1": 0.331
+    },
+    {
+     "view": "pen2_tur_cam1",
+     "n_test": 9713,
+     "acc": 0.511,
+     "mf1": 0.353
+    },
+    {
+     "view": "pen2_tur_cam2",
+     "n_test": 196,
+     "acc": 0.663,
+     "mf1": 0.498
+    }
+   ]
+  },
+  {
+   "tag": "기하 + 뷰 정규화",
+   "feature_set": "geom",
+   "view_norm": true,
+   "cls": {
+    "acc_w": 0.412,
+    "mf1_w": 0.208
+   },
+   "cls3": {
+    "acc_w": 0.509,
+    "mf1_w": 0.344
+   },
+   "folds3": [
+    {
+     "view": "pen1_orb_cam1",
+     "n_test": 722,
+     "acc": 0.44,
+     "mf1": 0.435
+    },
+    {
+     "view": "pen1_orb_cam2",
+     "n_test": 1488,
+     "acc": 0.225,
+     "mf1": 0.151
+    },
+    {
+     "view": "pen1_tur_cam1",
+     "n_test": 200,
+     "acc": 0.825,
+     "mf1": 0.531
+    },
+    {
+     "view": "pen1_tur_cam2",
+     "n_test": 8194,
+     "acc": 0.554,
+     "mf1": 0.368
+    },
+    {
+     "view": "pen2_orb_cam1",
+     "n_test": 2817,
+     "acc": 0.521,
+     "mf1": 0.339
+    },
+    {
+     "view": "pen2_tur_cam1",
+     "n_test": 9713,
+     "acc": 0.508,
+     "mf1": 0.343
+    },
+    {
+     "view": "pen2_tur_cam2",
+     "n_test": 196,
+     "acc": 0.622,
+     "mf1": 0.402
+    }
+   ]
+  },
+  {
+   "tag": "기하 + 크롭 외형",
+   "feature_set": "both",
+   "view_norm": false,
+   "cls": {
+    "acc_w": 0.435,
+    "mf1_w": 0.226
+   },
+   "cls3": {
+    "acc_w": 0.553,
+    "mf1_w": 0.371
+   },
+   "folds3": [
+    {
+     "view": "pen1_orb_cam1",
+     "n_test": 722,
+     "acc": 0.447,
+     "mf1": 0.44
+    },
+    {
+     "view": "pen1_orb_cam2",
+     "n_test": 1488,
+     "acc": 0.457,
+     "mf1": 0.301
+    },
+    {
+     "view": "pen1_tur_cam1",
+     "n_test": 200,
+     "acc": 0.645,
+     "mf1": 0.424
+    },
+    {
+     "view": "pen1_tur_cam2",
+     "n_test": 8194,
+     "acc": 0.541,
+     "mf1": 0.351
+    },
+    {
+     "view": "pen2_orb_cam1",
+     "n_test": 2817,
+     "acc": 0.448,
+     "mf1": 0.274
+    },
+    {
+     "view": "pen2_tur_cam1",
+     "n_test": 9713,
+     "acc": 0.613,
+     "mf1": 0.419
+    },
+    {
+     "view": "pen2_tur_cam2",
+     "n_test": 196,
+     "acc": 0.612,
+     "mf1": 0.419
+    }
+   ]
+  },
+  {
+   "tag": "기하 + 크롭 + 뷰 정규화",
+   "feature_set": "both",
+   "view_norm": true,
+   "cls": {
+    "acc_w": 0.467,
+    "mf1_w": 0.249
+   },
+   "cls3": {
+    "acc_w": 0.636,
+    "mf1_w": 0.434
+   },
+   "folds3": [
+    {
+     "view": "pen1_orb_cam1",
+     "n_test": 722,
+     "acc": 0.699,
+     "mf1": 0.653
+    },
+    {
+     "view": "pen1_orb_cam2",
+     "n_test": 1488,
+     "acc": 0.356,
+     "mf1": 0.239
+    },
+    {
+     "view": "pen1_tur_cam1",
+     "n_test": 200,
+     "acc": 0.77,
+     "mf1": 0.501
+    },
+    {
+     "view": "pen1_tur_cam2",
+     "n_test": 8194,
+     "acc": 0.575,
+     "mf1": 0.383
+    },
+    {
+     "view": "pen2_orb_cam1",
+     "n_test": 2817,
+     "acc": 0.77,
+     "mf1": 0.513
+    },
+    {
+     "view": "pen2_tur_cam1",
+     "n_test": 9713,
+     "acc": 0.685,
+     "mf1": 0.468
+    },
+    {
+     "view": "pen2_tur_cam2",
+     "n_test": 196,
+     "acc": 0.597,
+     "mf1": 0.4
+    }
+   ]
+  }
+ ],
+ "pen": [
+  {
+   "tag": "기하만 (기존)",
+   "cls": 0.399,
+   "cls3": 0.479,
+   "cls_mf1": 0.235,
+   "cls3_mf1": 0.328
+  },
+  {
+   "tag": "기하 + 크롭 + 뷰 정규화",
+   "cls": 0.461,
+   "cls3": 0.606,
+   "cls_mf1": 0.259,
+   "cls3_mf1": 0.408
+  }
+ ],
+ "confusion_geom": {
+  "labels": [
+   "Lateral_lying_left",
+   "Lateral_lying_right",
+   "Sitting",
+   "Standing",
+   "Sternal_lying"
+  ],
+  "matrix": [
+   [
+    324,
+    269,
+    38,
+    2020,
+    424
+   ],
+   [
+    400,
+    327,
+    34,
+    2125,
+    524
+   ],
+   [
+    39,
+    52,
+    13,
+    529,
+    61
+   ],
+   [
+    702,
+    446,
+    366,
+    7497,
+    861
+   ],
+   [
+    309,
+    301,
+    75,
+    4101,
+    1493
+   ]
+  ]
+ },
+ "confusion_best": {
+  "labels": [
+   "Lateral_lying_left",
+   "Lateral_lying_right",
+   "Sitting",
+   "Standing",
+   "Sternal_lying"
+  ],
+  "matrix": [
+   [
+    346,
+    267,
+    1,
+    1925,
+    536
+   ],
+   [
+    247,
+    257,
+    0,
+    2261,
+    645
+   ],
+   [
+    32,
+    20,
+    1,
+    557,
+    84
+   ],
+   [
+    226,
+    128,
+    12,
+    8529,
+    977
+   ],
+   [
+    401,
+    212,
+    5,
+    3900,
+    1761
+   ]
+  ]
+ }
+}
