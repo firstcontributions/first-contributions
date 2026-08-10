@@ -1289,6 +1289,19 @@ def test_dashboard_builders() -> None:
         assert bad not in proto, f"프로토타입에 외부 참조 {bad}"
     assert "prefers-color-scheme" in proto
 
+    # PC 콘솔: 폰 프로토타입과 **같은 payload** 를 써야 숫자가 갈리지 않는다
+    import build_pc_console as bpc
+    assert bpc.build_payload is bap.build_payload
+    assert bpc.main() == 0
+    pc = open(bpc.OUT, encoding="utf-8").read()
+    for bad in ("http://", "https://", "<script src", "cdn."):
+        assert bad not in pc, f"PC 콘솔에 외부 참조 {bad}"
+    assert "prefers-color-scheme" in pc
+    assert "@media print" in pc, "작업지시서 인쇄 스타일이 없다"
+    # PC 에서만 되는 것들이 실제로 붙어 있는지
+    for need in ('id="bulk"', 'type="checkbox"', 'data-k=', "keydown"):
+        assert need in pc, f"PC 전용 기능 누락: {need}"
+
     for mod in (bc, bm, bas):
         assert mod.main() == 0
         assert os.path.exists(mod.OUT) and os.path.getsize(mod.OUT) > 8000

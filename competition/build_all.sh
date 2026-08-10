@@ -15,6 +15,7 @@ run $SRC/build_breeding_console.py
 run $SRC/build_barn_map.py
 run $SRC/build_app_screens.py
 run $SRC/build_app_prototype.py
+run $SRC/build_pc_console.py
 # 분석 리포트
 run $SRC/build_reference_report.py ${AIHUB_71471:-}
 run $SRC/build_analysis_report.py

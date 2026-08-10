@@ -1,0 +1,489 @@
+<!DOCTYPE html><html lang="ko"><head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>양돈 번식관리 · PC 콘솔</title><style>
+:root{color-scheme:light;--page:#f4f4f2;--surf:#fff;--surf2:#f0f0ec;--ink:#0b0b0b;
+--ink2:#52514e;--muted:#8d8b85;--border:rgba(11,11,11,.13);--accent:#2a78d6;
+--sel:color-mix(in srgb,#2a78d6 12%,transparent)}
+@media(prefers-color-scheme:dark){:root:where(:not([data-theme=light])){
+--page:#0c0c0c;--surf:#171716;--surf2:#212120;--ink:#fff;--ink2:#c3c2b7;
+--muted:#8d8b85;--border:rgba(255,255,255,.14);--accent:#3987e5;
+--sel:color-mix(in srgb,#3987e5 20%,transparent)}}
+:root[data-theme=dark]{--page:#0c0c0c;--surf:#171716;--surf2:#212120;--ink:#fff;
+--ink2:#c3c2b7;--muted:#8d8b85;--border:rgba(255,255,255,.14);--accent:#3987e5;
+--sel:color-mix(in srgb,#3987e5 20%,transparent)}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:system-ui,-apple-system,"Malgun Gothic",sans-serif;
+background:var(--page);color:var(--ink);line-height:1.5;font-size:13px}
+.shell{display:grid;grid-template-columns:186px 1fr 316px;height:100vh}
+@media(max-width:1180px){.shell{grid-template-columns:60px 1fr 300px}
+ .nav b{display:none}.brand span{display:none}}
+@media(max-width:900px){.shell{grid-template-columns:60px 1fr}
+ .detail{display:none}}
+.side{background:var(--surf);border-right:1px solid var(--border);
+display:flex;flex-direction:column;overflow:hidden}
+.brand{padding:15px 14px 11px;font-weight:800;font-size:.95rem;
+display:flex;align-items:center;gap:7px;letter-spacing:-.02em}
+.nav{padding:4px 8px;flex:1;overflow-y:auto}
+.nav a{display:flex;align-items:center;gap:9px;padding:8px 10px;border-radius:8px;
+color:var(--ink2);text-decoration:none;font-size:.83rem;margin-bottom:2px;
+cursor:pointer}
+.nav a:hover{background:var(--surf2)}
+.nav a.on{background:var(--sel);color:var(--accent);font-weight:700}
+.nav i{font-style:normal;width:16px;text-align:center;font-size:1rem}
+.nav .cnt{margin-left:auto;font-size:.68rem;color:var(--muted);font-weight:600}
+.sidefoot{padding:10px 14px;border-top:1px solid var(--border);
+font-size:.66rem;color:var(--muted);line-height:1.5}
+.main{display:flex;flex-direction:column;overflow:hidden}
+.top{display:flex;align-items:center;gap:9px;padding:11px 16px;
+border-bottom:1px solid var(--border);background:var(--surf);flex-shrink:0}
+.top h1{font-size:1.02rem;letter-spacing:-.01em}
+.top .sp{flex:1}
+.srch{padding:6px 10px;border-radius:7px;border:1px solid var(--border);
+background:var(--surf2);color:var(--ink);font-size:.8rem;width:170px}
+.btn{padding:6px 12px;border-radius:7px;border:1px solid var(--border);
+background:var(--surf2);color:var(--ink);font-size:.78rem;cursor:pointer;
+font-weight:600}
+.btn:hover{border-color:var(--accent);color:var(--accent)}
+.btn.pri{background:var(--accent);color:#fff;border-color:var(--accent)}
+.btn.pri:hover{opacity:.88;color:#fff}
+.btn:disabled{opacity:.4;cursor:default}
+.body{flex:1;overflow-y:auto;padding:14px 16px 26px}
+.detail{background:var(--surf);border-left:1px solid var(--border);
+overflow-y:auto;padding:14px}
+table{width:100%;border-collapse:collapse;font-size:.8rem}
+th{text-align:left;padding:6px 8px;color:var(--muted);font-size:.68rem;
+text-transform:uppercase;letter-spacing:.04em;border-bottom:1px solid var(--border);
+position:sticky;top:0;background:var(--page);cursor:pointer;user-select:none}
+th:hover{color:var(--accent)}
+td{padding:6px 8px;border-bottom:1px solid var(--surf2);white-space:nowrap}
+tr.r{cursor:pointer}
+tr.r:hover td{background:var(--surf2)}
+tr.r.sel td{background:var(--sel)}
+tr.r.cur td{box-shadow:inset 2px 0 0 var(--accent)}
+tr.done td{opacity:.42;text-decoration:line-through}
+.pill{font-size:.68rem;font-weight:700;padding:1px 7px;border-radius:999px;
+white-space:nowrap}
+.dotc{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:5px}
+.bgrp{margin-bottom:16px}
+.bgh{display:flex;align-items:center;gap:9px;padding:7px 8px;background:var(--surf);
+border:1px solid var(--border);border-radius:9px 9px 0 0;font-size:.86rem}
+.bord{background:var(--accent);color:#fff;width:19px;height:19px;border-radius:50%;
+font-size:.66rem;display:flex;align-items:center;justify-content:center;font-weight:700}
+.bsup{font-size:.7rem;color:var(--ink2);margin-left:auto}
+.bcrit{font-size:.66rem;font-weight:700;color:#d03b3b;
+background:rgba(208,59,59,.13);padding:1px 8px;border-radius:999px}
+.bwrap{border:1px solid var(--border);border-top:0;border-radius:0 0 9px 9px;
+overflow:hidden;background:var(--surf)}
+.bwrap th{background:var(--surf);position:static}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));
+gap:10px;margin-bottom:14px}
+.kpi{background:var(--surf);border:1px solid var(--border);border-radius:10px;
+padding:10px 12px}
+.kpi b{display:block;font-size:1.5rem;letter-spacing:-.02em}
+.kpi span{font-size:.7rem;color:var(--muted)}
+.dh{font-size:1.35rem;font-weight:800;letter-spacing:-.02em}
+.dsub{font-size:.74rem;color:var(--muted);margin-bottom:10px}
+.dgrid{display:grid;grid-template-columns:1fr 1fr;gap:6px 10px;margin-bottom:12px}
+.dgrid span{display:block;font-size:.65rem;color:var(--muted)}
+.dgrid b{font-size:.83rem}
+.sect{font-size:.66rem;font-weight:700;color:var(--muted);margin:12px 0 5px;
+text-transform:uppercase;letter-spacing:.04em}
+.tli{display:flex;gap:7px;font-size:.74rem;padding:3px 0;
+border-bottom:1px solid var(--surf2)}
+.tli.est{color:var(--ink2)}
+.tli .dot{width:10px;font-weight:700}
+.tli .dt{width:38px;color:var(--muted);font-variant-numeric:tabular-nums}
+.tli .tk{flex:1;font-weight:600}
+.tli .dd{font-size:.66rem;color:var(--muted)}
+.warn{border-left:3px solid #e0407f;background:color-mix(in srgb,#e0407f 8%,var(--surf2));
+padding:8px 10px;border-radius:7px;font-size:.74rem;margin-bottom:10px}
+.hint{font-size:.72rem;color:var(--ink2);background:var(--surf2);border-radius:8px;
+padding:9px 11px;margin-top:14px;line-height:1.6}
+.mbarn{background:var(--surf);border:1px solid var(--border);border-radius:10px;
+padding:10px 12px;margin-bottom:10px}
+.mh{font-size:.84rem;font-weight:700;margin-bottom:7px;display:flex;
+justify-content:space-between}
+.mpen{font-size:.68rem;color:var(--muted);margin:5px 0 3px}
+.mcells{display:flex;flex-wrap:wrap;gap:4px}
+.mcells i{width:26px;height:20px;border-radius:4px;font-style:normal;
+font-size:.6rem;color:#fff;text-align:center;line-height:20px;cursor:pointer}
+.mcells i:hover{outline:2px solid var(--ink)}
+.mleg{display:flex;flex-wrap:wrap;gap:9px;margin-top:8px;font-size:.68rem;
+color:var(--ink2)}
+.mleg span{display:inline-flex;align-items:center;gap:4px}
+.mleg i{width:10px;height:10px;border-radius:2px}
+.chart{display:flex;align-items:flex-end;gap:4px;height:130px;
+border-bottom:1px solid var(--border);position:relative;margin:8px 0 4px}
+.wk{flex:1;display:flex;flex-direction:column;align-items:center;
+justify-content:flex-end}
+.wb{width:100%;border-radius:3px 3px 0 0;min-height:2px}
+.wk span{font-size:.62rem;font-weight:700}
+.wk em{font-size:.56rem;color:var(--muted);font-style:normal}
+.tline{position:absolute;left:0;right:0;border-top:1px dashed #d03b3b}
+.tline span{position:absolute;right:0;top:-12px;font-size:.6rem;color:#d03b3b;
+font-weight:700}
+.empty{color:var(--muted);padding:26px;text-align:center}
+.kbd{display:inline-block;border:1px solid var(--border);border-bottom-width:2px;
+border-radius:4px;padding:0 4px;font-size:.68rem;font-family:ui-monospace,monospace;
+background:var(--surf2)}
+@media print{
+ .side,.top,.detail,.hint,.noprint{display:none!important}
+ .shell{display:block;height:auto}.body{overflow:visible;padding:0}
+ body{background:#fff;font-size:11px}
+ .bgrp{break-inside:avoid;margin-bottom:10px}
+ .prt{display:block!important;margin-bottom:12px}
+ td,th{border-color:#ccc}
+}
+.prt{display:none}
+</style></head><body>
+<div class="shell">
+ <div class="side">
+  <div class="brand">🐖 <span>번식관리 콘솔</span></div>
+  <div class="nav"><a data-r="home"><i>☰</i><b>오늘 할 일</b><span class="cnt" id="c-home"></span></a><a data-r="list"><i>☷</i><b>모돈 목록</b><span class="cnt" id="c-list"></span></a><a data-r="map"><i>▦</i><b>축사 도면</b><span class="cnt" id="c-map"></span></a><a data-r="board"><i>▤</i><b>현황판</b><span class="cnt" id="c-board"></span></a><a data-r="log"><i>✓</i><b>작업 로그</b><span class="cnt" id="c-log"></span></a></div>
+  <div class="sidefoot">기준일 2026-08-10<br>모돈 62두 ·
+   4개 동<br>합성 데이터 시연</div>
+ </div>
+ <div class="main">
+  <div class="top">
+   <h1 id="title">오늘 할 일</h1>
+   <span id="bulk"></span>
+   <span class="sp"></span>
+   <input class="srch" id="srch" placeholder="개체·위치·단계 검색 ( / )">
+   <button class="btn" id="print">🖨 작업지시서 인쇄</button>
+  </div>
+  <div class="body" id="body"></div>
+ </div>
+ <div class="detail" id="detail"></div>
+</div>
+<script>const D={"today":"2026-08-10","animals":[{"id":"2022","loc":"1동 B열 11번","barn":"1동","parity":5,"stage":"공태","estrus":"발정 의심","score":0.63,"preg":"-","task":"교배","date":"2026-08-10","dday":0,"action":"정액 준비 · 적기 수정","late":true,"lateTask":"발정 관찰","lateDays":1,"conflict":null,"status":"교배","urgency":254.0},{"id":"2063","loc":"4동 순치방 3번","barn":"4동","parity":2,"stage":"공태","estrus":"발정 의심","score":0.62,"preg":"-","task":"발정 관찰","date":"2026-08-10","dday":0,"action":"승가허용 확인(등누르기)","late":true,"lateTask":"발정 관찰","lateDays":2,"conflict":null,"status":"발정확인","urgency":238.0},{"id":"2006","loc":"1동 A열 7번","barn":"1동","parity":3,"stage":"공태","estrus":"관찰","score":0.62,"preg":"-","task":"발정 관찰","date":"2026-08-10","dday":0,"action":"승가허용 확인(등누르기)","late":true,"lateTask":"발정 관찰","lateDays":2,"conflict":null,"status":"발정확인","urgency":208.0},{"id":"2060","loc":"3동 분만실 10번","barn":"3동","parity":1,"stage":"임신","estrus":"발정 의심","score":0.75,"preg":"초음파 확인","task":"임신감정","date":"2026-08-15","dday":5,"action":"초음파 확인","late":true,"lateTask":"임신감정","lateDays":11,"conflict":"임신·포유 중 발정 신호 — 유산/오진/개체 오인 의심","status":"경보","urgency":143.2},{"id":"2042","loc":"2동 3방 1번","barn":"2동","parity":6,"stage":"교배","estrus":"발정 의심","score":0.62,"preg":"3주 통과","task":"재발정 확인","date":"2026-08-10","dday":0,"action":"웅돈 노출 + 발정체크","late":false,"lateTask":null,"lateDays":0,"conflict":null,"status":"재발확인","urgency":124.0},{"id":"2002","loc":"1동 A열 3번","barn":"1동","parity":3,"stage":"교배","estrus":"발정 의심","score":0.66,"preg":"확인 전","task":"재발정 확인","date":"2026-08-11","dday":1,"action":"웅돈 노출 + 발정체크","late":false,"lateTask":null,"lateDays":0,"conflict":null,"status":"재발확인","urgency":117.3},{"id":"2055","loc":"3동 분만실 5번","barn":"3동","parity":10,"stage":"교배","estrus":"발정 의심","score":0.84,"preg":"확인 전","task":"재발정 확인","date":"2026-08-14","dday":4,"action":"웅돈 노출 + 발정체크","late":false,"lateTask":null,"lateDays":0,"conflict":null,"status":"정상","urgency":97.1},{"id":"2051","loc":"3동 분만실 1번","barn":"3동","parity":2,"stage":"임신","estrus":"정상","score":0.28,"preg":"임신 확정","task":"분만","date":"2026-08-13","dday":3,"action":"분만 준비 · 야간 순찰","late":true,"lateTask":"분만사 이동","lateDays":4,"conflict":null,"status":"분만","urgency":86.7},{"id":"2065","loc":"4동 순치방 5번","barn":"4동","parity":1,"stage":"임신","estrus":"정상","score":0.17,"preg":"임신 확정","task":"분만","date":"2026-08-13","dday":3,"action":"분만 준비 · 야간 순찰","late":true,"lateTask":"분만사 이동","lateDays":4,"conflict":null,"status":"분만","urgency":86.7},{"id":"2056","loc":"3동 분만실 6번","barn":"3동","parity":6,"stage":"임신","estrus":"정상","score":0.15,"preg":"임신 확정","task":"분만","date":"2026-08-13","dday":3,"action":"분만 준비 · 야간 순찰","late":true,"lateTask":"분만사 이동","lateDays":4,"conflict":null,"status":"분만","urgency":86.7},{"id":"2053","loc":"3동 분만실 3번","barn":"3동","parity":4,"stage":"교배","estrus":"발정 의심","score":0.74,"preg":"확인 전","task":"재발정 확인","date":"2026-08-16","dday":6,"action":"웅돈 노출 + 발정체크","late":false,"lateTask":null,"lateDays":0,"conflict":null,"status":"정상","urgency":83.7},{"id":"2020","loc":"1동 B열 9번","barn":"1동","parity":7,"stage":"교배","estrus":"관찰","score":0.59,"preg":"확인 전","task":"재발정 확인","date":"2026-08-12","dday":2,"action":"웅돈 노출 + 발정체크","late":false,"lateTask":null,"lateDays":0,"conflict":null,"status":"재발확인","urgency":80.6},{"id":"2048","loc":"2동 3방 7번","barn":"2동","parity":1,"stage":"임신","estrus":"정상","score":0.13,"preg":"3주 통과","task":"임신감정","date":"2026-08-12","dday":2,"action":"초음파 확인","late":true,"lateTask":"재발정 확인","lateDays":4,"conflict":null,"status":"임신감정","urgency":70.9},{"id":"2045","loc":"2동 3방 4번","barn":"2동","parity":3,"stage":"교배","estrus":"관찰","score":0.55,"preg":"확인 전","task":"재발정 확인","date":"2026-08-14","dday":4,"action":"웅돈 노출 + 발정체크","late":false,"lateTask":null,"lateDays":0,"conflict":null,"status":"정상","urgency":67.1},{"id":"2031","loc":"2동 1방 8번","barn":"2동","parity":10,"stage":"임신","estrus":"정상","score":0.03,"preg":"초음파 확인","task":"임신감정","date":"2026-08-17","dday":7,"action":"초음파 확인","late":true,"lateTask":"임신감정","lateDays":9,"conflict":null,"status":"정상","urgency":66.5},{"id":"2066","loc":"4동 순치방 6번","barn":"4동","parity":10,"stage":"임신","estrus":"정상","score":0.21,"preg":"초음파 확인","task":"임신감정","date":"2026-08-29","dday":19,"action":"초음파 확인","late":true,"lateTask":"재발정 확인","lateDays":13,"conflict":null,"status":"정상","urgency":64.2},{"id":"2037","loc":"2동 2방 5번","barn":"2동","parity":1,"stage":"임신","estrus":"정상","score":0.15,"preg":"초음파 확인","task":"임신감정","date":"2026-08-29","dday":19,"action":"초음파 확인","late":true,"lateTask":"재발정 확인","lateDays":13,"conflict":null,"status":"정상","urgency":64.2},{"id":"2019","loc":"1동 B열 8번","barn":"1동","parity":0,"stage":"후보","estrus":"정상","score":0.23,"preg":"-","task":"발정 관찰","date":"2026-08-13","dday":3,"action":"승가허용 확인(등누르기)","late":false,"lateTask":null,"lateDays":0,"conflict":null,"status":"정상","urgency":62.9},{"id":"2017","loc":"1동 B열 6번","barn":"1동","parity":4,"stage":"임신","estrus":"정상","score":0.29,"preg":"3주 통과","task":"임신감정","date":"2026-08-13","dday":3,"action":"초음파 확인","late":true,"lateTask":"재발정 확인","lateDays":3,"conflict":null,"status":"정상","urgency":62.3},{"id":"2038","loc":"2동 2방 6번","barn":"2동","parity":4,"stage":"교배","estrus":"관찰","score":0.56,"preg":"확인 전","task":"재발정 확인","date":"2026-08-15","dday":5,"action":"웅돈 노출 + 발정체크","late":false,"lateTask":null,"lateDays":0,"conflict":null,"status":"정상","urgency":60.4},{"id":"2026","loc":"2동 1방 3번","barn":"2동","parity":4,"stage":"교배","estrus":"정상","score":0.38,"preg":"확인 전","task":"재발정 확인","date":"2026-08-15","dday":5,"action":"웅돈 노출 + 발정체크","late":false,"lateTask":null,"lateDays":0,"conflict":null,"status":"정상","urgency":60.4},{"id":"2058","loc":"3동 분만실 8번","barn":"3동","parity":4,"stage":"교배","estrus":"관찰","score":0.48,"preg":"확인 전","task":"재발정 확인","date":"2026-08-15","dday":5,"action":"웅돈 노출 + 발정체크","late":false,"lateTask":null,"lateDays":0,"conflict":null,"status":"정상","urgency":60.4},{"id":"2035","loc":"2동 2방 3번","barn":"2동","parity":2,"stage":"임신","estrus":"정상","score":0.31,"preg":"임신 확정","task":"분만","date":"2026-08-16","dday":6,"action":"분만 준비 · 야간 순찰","late":true,"lateTask":"분만사 이동","lateDays":1,"conflict":null,"status":"분만","urgency":55.4},{"id":"2057","loc":"3동 분만실 7번","barn":"3동","parity":10,"stage":"임신","estrus":"정상","score":0.12,"preg":"임신 확정","task":"분만사 이동","date":"2026-09-07","dday":28,"action":"분만사 자리 확보 후 이동","late":true,"lateTask":"임신감정","lateDays":10,"conflict":null,"status":"정상","urgency":50.0},{"id":"2007","loc":"1동 A열 8번","barn":"1동","parity":1,"stage":"교배","estrus":"발정 의심","score":0.67,"preg":"확인 전","task":"재발정 확인","date":"2026-08-27","dday":17,"action":"웅돈 노출 + 발정체크","late":false,"lateTask":null,"lateDays":0,"conflict":null,"status":"정상","urgency":48.8},{"id":"2028","loc":"2동 1방 5번","barn":"2동","parity":3,"stage":"임신","estrus":"정상","score":0.1,"preg":"임신 확정","task":"분만사 이동","date":"2026-08-11","dday":1,"action":"분만사 자리 확보 후 이동","late":false,"lateTask":null,"lateDays":0,"conflict":null,"status":"임신감정","urgency":46.4},{"id":"2010","loc":"1동 A열 11번","barn":"1동","parity":0,"stage":"후보","estrus":"발정 의심","score":0.71,"preg":"-","task":"발정 관찰","date":"2026-08-23","dday":13,"action":"승가허용 확인(등누르기)","late":false,"lateTask":null,"lateDays":0,"conflict":null,"status":"정상","urgency":46.0},{"id":"2001","loc":"1동 A열 2번","barn":"1동","parity":0,"stage":"후보","estrus":"관찰","score":0.54,"preg":"-","task":"발정 관찰","date":"2026-08-16","dday":6,"action":"승가허용 확인(등누르기)","late":false,"lateTask":null,"lateDays":0,"conflict":null,"status":"정상","urgency":45.7},{"id":"2024","loc":"2동 1방 1번","barn":"2동","parity":5,"stage":"포유","estrus":"정상","score":0.09,"preg":"-","task":"이유","date":"2026-08-11","dday":1,"action":"자돈 분리 · 모돈 교배사 이동","late":false,"lateTask":null,"lateDays":0,"conflict":null,"status":"정상","urgency":37.1},{"id":"2027","loc":"2동 1방 4번","barn":"2동","parity":5,"stage":"포유","estrus":"정상","score":0.27,"preg":"-","task":"이유","date":"2026-08-11","dday":1,"action":"자돈 분리 · 모돈 교배사 이동","late":false,"lateTask":null,"lateDays":0,"conflict":null,"status":"정상","urgency":37.1},{"id":"2005","loc":"1동 A열 6번","barn":"1동","parity":4,"stage":"임신","estrus":"정상","score":0.15,"preg":"3주 통과","task":"임신감정","date":"2026-08-16","dday":6,"action":"초음파 확인","late":false,"lateTask":null,"lateDays":0,"conflict":null,"status":"정상","urgency":36.6},{"id":"2050","loc":"2동 3방 9번","barn":"2동","parity":0,"stage":"후보","estrus":"관찰","score":0.52,"preg":"-","task":"발정 관찰","date":"2026-08-18","dday":8,"action":"승가허용 확인(등누르기)","late":false,"lateTask":null,"lateDays":0,"conflict":null,"status":"정상","urgency":34.3},{"id":"2025","loc":"2동 1방 2번","barn":"2동","parity":1,"stage":"임신","estrus":"정상","score":0.15,"preg":"임신 확정","task":"분만사 이동","date":"2026-09-11","dday":32,"action":"분만사 자리 확보 후 이동","late":true,"lateTask":"임신감정","lateDays":6,"conflict":null,"status":"정상","urgency":34.0},{"id":"2008","loc":"1동 A열 9번","barn":"1동","parity":6,"stage":"포유","estrus":"정상","score":0.14,"preg":"-","task":"이유","date":"2026-08-13","dday":3,"action":"자돈 분리 · 모돈 교배사 이동","late":false,"lateTask":null,"lateDays":0,"conflict":null,"status":"정상","urgency":31.4},{"id":"2064","loc":"4동 순치방 4번","barn":"4동","parity":4,"stage":"포유","estrus":"관찰","score":0.5,"preg":"-","task":"이유","date":"2026-08-14","dday":4,"action":"자돈 분리 · 모돈 교배사 이동","late":false,"lateTask":null,"lateDays":0,"conflict":null,"status":"정상","urgency":28.6},{"id":"2030","loc":"2동 1방 7번","barn":"2동","parity":5,"stage":"임신","estrus":"정상","score":0.07,"preg":"초음파 확인","task":"임신감정","date":"2026-08-22","dday":12,"action":"초음파 확인","late":true,"lateTask":"임신감정","lateDays":4,"conflict":null,"status":"정상","urgency":28.2},{"id":"2023","loc":"1동 B열 12번","barn":"1동","parity":2,"stage":"임신","estrus":"정상","score":0.04,"preg":"3주 통과","task":"임신감정","date":"2026-08-18","dday":8,"action":"초음파 확인","late":false,"lateTask":null,"lateDays":-2,"conflict":null,"status":"정상","urgency":27.4},{"id":"2014","loc":"1동 B열 3번","barn":"1동","parity":3,"stage":"임신","estrus":"정상","score":0.2,"preg":"임신 확정","task":"분만사 이동","date":"2026-09-13","dday":34,"action":"분만사 자리 확보 후 이동","late":true,"lateTask":"임신감정","lateDays":4,"conflict":null,"status":"정상","urgency":26.0},{"id":"2029","loc":"2동 1방 6번","barn":"2동","parity":2,"stage":"포유","estrus":"정상","score":0.36,"preg":"-","task":"이유","date":"2026-08-15","dday":5,"action":"자돈 분리 · 모돈 교배사 이동","late":false,"lateTask":null,"lateDays":0,"conflict":null,"status":"정상","urgency":25.7},{"id":"2062","loc":"4동 순치방 2번","barn":"4동","parity":6,"stage":"포유","estrus":"정상","score":0.4,"preg":"-","task":"이유","date":"2026-08-15","dday":5,"action":"자돈 분리 · 모돈 교배사 이동","late":false,"lateTask":null,"lateDays":0,"conflict":null,"status":"정상","urgency":25.7},{"id":"2046","loc":"2동 3방 5번","barn":"2동","parity":1,"stage":"임신","estrus":"정상","score":0.17,"preg":"임신 확정","task":"분만사 이동","date":"2026-09-14","dday":35,"action":"분만사 자리 확보 후 이동","late":true,"lateTask":"임신감정","lateDays":3,"conflict":null,"status":"정상","urgency":22.0},{"id":"2016","loc":"1동 B열 5번","barn":"1동","parity":3,"stage":"교배","estrus":"정상","score":0.29,"preg":"확인 전","task":"재발정 확인","date":"2026-08-21","dday":11,"action":"웅돈 노출 + 발정체크","late":false,"lateTask":null,"lateDays":0,"conflict":null,"status":"정상","urgency":20.1},{"id":"2039","loc":"2동 2방 7번","barn":"2동","parity":7,"stage":"교배","estrus":"관찰","score":0.51,"preg":"확인 전","task":"재발정 확인","date":"2026-08-25","dday":15,"action":"웅돈 노출 + 발정체크","late":false,"lateTask":null,"lateDays":0,"conflict":null,"status":"정상","urgency":18.8},{"id":"2049","loc":"2동 3방 8번","barn":"2동","parity":3,"stage":"임신","estrus":"정상","score":0.28,"preg":"임신 확정","task":"분만사 이동","date":"2026-08-19","dday":9,"action":"분만사 자리 확보 후 이동","late":false,"lateTask":null,"lateDays":0,"conflict":null,"status":"정상","urgency":17.9},{"id":"2036","loc":"2동 2방 4번","barn":"2동","parity":0,"stage":"후보","estrus":"관찰","score":0.61,"preg":"-","task":"발정 관찰","date":"2026-08-21","dday":11,"action":"승가허용 확인(등누르기)","late":false,"lateTask":null,"lateDays":0,"conflict":null,"status":"정상","urgency":17.1},{"id":"2040","loc":"2동 2방 8번","barn":"2동","parity":0,"stage":"후보","estrus":"관찰","score":0.59,"preg":"-","task":"발정 관찰","date":"2026-08-23","dday":13,"action":"승가허용 확인(등누르기)","late":false,"lateTask":null,"lateDays":0,"conflict":null,"status":"정상","urgency":16.0},{"id":"2033","loc":"2동 2방 1번","barn":"2동","parity":3,"stage":"임신","estrus":"정상","score":0.41,"preg":"임신 확정","task":"분만사 이동","date":"2026-08-20","dday":10,"action":"분만사 자리 확보 후 이동","late":false,"lateTask":null,"lateDays":0,"conflict":null,"status":"정상","urgency":14.3},{"id":"2034","loc":"2동 2방 2번","barn":"2동","parity":6,"stage":"포유","estrus":"정상","score":0.23,"preg":"-","task":"이유","date":"2026-08-19","dday":9,"action":"자돈 분리 · 모돈 교배사 이동","late":false,"lateTask":null,"lateDays":0,"conflict":null,"status":"정상","urgency":14.3},{"id":"2021","loc":"1동 B열 10번","barn":"1동","parity":9,"stage":"임신","estrus":"정상","score":0.09,"preg":"임신 확정","task":"분만사 이동","date":"2026-08-20","dday":10,"action":"분만사 자리 확보 후 이동","late":false,"lateTask":null,"lateDays":0,"conflict":null,"status":"정상","urgency":14.3},{"id":"2018","loc":"1동 B열 7번","barn":"1동","parity":9,"stage":"임신","estrus":"정상","score":0.14,"preg":"임신 확정","task":"분만사 이동","date":"2026-09-16","dday":37,"action":"분만사 자리 확보 후 이동","late":true,"lateTask":"임신감정","lateDays":1,"conflict":null,"status":"정상","urgency":14.0},{"id":"2047","loc":"2동 3방 6번","barn":"2동","parity":4,"stage":"임신","estrus":"정상","score":0.13,"preg":"임신 확정","task":"분만사 이동","date":"2026-08-21","dday":11,"action":"분만사 자리 확보 후 이동","late":false,"lateTask":null,"lateDays":0,"conflict":null,"status":"정상","urgency":10.7},{"id":"2000","loc":"1동 A열 1번","barn":"1동","parity":5,"stage":"임신","estrus":"정상","score":0.39,"preg":"임신 확정","task":"분만사 이동","date":"2026-09-01","dday":22,"action":"분만사 자리 확보 후 이동","late":false,"lateTask":null,"lateDays":0,"conflict":null,"status":"정상","urgency":10.0},{"id":"2003","loc":"1동 A열 4번","barn":"1동","parity":8,"stage":"임신","estrus":"정상","score":0.25,"preg":"임신 확정","task":"분만사 이동","date":"2026-09-17","dday":38,"action":"분만사 자리 확보 후 이동","late":false,"lateTask":null,"lateDays":0,"conflict":null,"status":"정상","urgency":10.0},{"id":"2067","loc":"4동 순치방 7번","barn":"4동","parity":2,"stage":"임신","estrus":"정상","score":0.15,"preg":"임신 확정","task":"분만사 이동","date":"2026-09-19","dday":40,"action":"분만사 자리 확보 후 이동","late":false,"lateTask":null,"lateDays":-2,"conflict":null,"status":"정상","urgency":10.0},{"id":"2052","loc":"3동 분만실 2번","barn":"3동","parity":1,"stage":"임신","estrus":"정상","score":0.05,"preg":"임신 확정","task":"분만사 이동","date":"2026-08-22","dday":12,"action":"분만사 자리 확보 후 이동","late":false,"lateTask":null,"lateDays":0,"conflict":null,"status":"정상","urgency":10.0},{"id":"2054","loc":"3동 분만실 4번","barn":"3동","parity":3,"stage":"임신","estrus":"정상","score":0.29,"preg":"임신 확정","task":"분만사 이동","date":"2026-09-20","dday":41,"action":"분만사 자리 확보 후 이동","late":false,"lateTask":null,"lateDays":-3,"conflict":null,"status":"정상","urgency":10.0},{"id":"2013","loc":"1동 B열 2번","barn":"1동","parity":4,"stage":"임신","estrus":"정상","score":0.12,"preg":"임신 확정","task":"분만사 이동","date":"2026-08-23","dday":13,"action":"분만사 자리 확보 후 이동","late":false,"lateTask":null,"lateDays":0,"conflict":null,"status":"정상","urgency":10.0},{"id":"2012","loc":"1동 B열 1번","barn":"1동","parity":6,"stage":"임신","estrus":"정상","score":0.23,"preg":"임신 확정","task":"분만사 이동","date":"2026-09-21","dday":42,"action":"분만사 자리 확보 후 이동","late":false,"lateTask":null,"lateDays":-4,"conflict":null,"status":"정상","urgency":10.0},{"id":"2011","loc":"1동 A열 12번","barn":"1동","parity":1,"stage":"임신","estrus":"정상","score":0.2,"preg":"임신 확정","task":"분만사 이동","date":"2026-09-29","dday":50,"action":"분만사 자리 확보 후 이동","late":false,"lateTask":null,"lateDays":-12,"conflict":null,"status":"정상","urgency":10.0},{"id":"2032","loc":"2동 1방 9번","barn":"2동","parity":4,"stage":"임신","estrus":"정상","score":0.06,"preg":"임신 확정","task":"분만사 이동","date":"2026-09-19","dday":40,"action":"분만사 자리 확보 후 이동","late":false,"lateTask":null,"lateDays":-2,"conflict":null,"status":"정상","urgency":10.0},{"id":"2009","loc":"1동 A열 10번","barn":"1동","parity":1,"stage":"포유","estrus":"정상","score":0.08,"preg":"-","task":"이유","date":"2026-08-26","dday":16,"action":"자돈 분리 · 모돈 교배사 이동","late":false,"lateTask":null,"lateDays":0,"conflict":null,"status":"정상","urgency":8.0},{"id":"2004","loc":"1동 A열 5번","barn":"1동","parity":3,"stage":"포유","estrus":"정상","score":0.08,"preg":"-","task":"이유","date":"2026-08-27","dday":17,"action":"자돈 분리 · 모돈 교배사 이동","late":false,"lateTask":null,"lateDays":0,"conflict":null,"status":"정상","urgency":8.0},{"id":"2015","loc":"1동 B열 4번","barn":"1동","parity":3,"stage":"포유","estrus":"정상","score":0.11,"preg":"-","task":"이유","date":"2026-08-22","dday":12,"action":"자돈 분리 · 모돈 교배사 이동","late":false,"lateTask":null,"lateDays":0,"conflict":null,"status":"정상","urgency":8.0},{"id":"2041","loc":"2동 2방 9번","barn":"2동","parity":5,"stage":"포유","estrus":"관찰","score":0.45,"preg":"-","task":"이유","date":"2026-09-02","dday":23,"action":"자돈 분리 · 모돈 교배사 이동","late":false,"lateTask":null,"lateDays":0,"conflict":null,"status":"정상","urgency":8.0},{"id":"2044","loc":"2동 3방 3번","barn":"2동","parity":4,"stage":"포유","estrus":"정상","score":0.27,"preg":"-","task":"이유","date":"2026-09-03","dday":24,"action":"자돈 분리 · 모돈 교배사 이동","late":false,"lateTask":null,"lateDays":0,"conflict":null,"status":"정상","urgency":8.0},{"id":"2043","loc":"2동 3방 2번","barn":"2동","parity":3,"stage":"포유","estrus":"정상","score":0.04,"preg":"-","task":"이유","date":"2026-09-03","dday":24,"action":"자돈 분리 · 모돈 교배사 이동","late":false,"lateTask":null,"lateDays":0,"conflict":null,"status":"정상","urgency":8.0},{"id":"2059","loc":"3동 분만실 9번","barn":"3동","parity":1,"stage":"포유","estrus":"정상","score":0.2,"preg":"-","task":"이유","date":"2026-09-06","dday":27,"action":"자돈 분리 · 모돈 교배사 이동","late":false,"lateTask":null,"lateDays":0,"conflict":null,"status":"정상","urgency":8.0},{"id":"2061","loc":"4동 순치방 1번","barn":"4동","parity":3,"stage":"포유","estrus":"정상","score":0.17,"preg":"-","task":"이유","date":"2026-08-27","dday":17,"action":"자돈 분리 · 모돈 교배사 이동","late":false,"lateTask":null,"lateDays":0,"conflict":null,"status":"정상","urgency":8.0}],"sched":{"2000":[{"d":"2026-05-16","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-06-03","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-06-15","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-07-11","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-09-01","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-09-08","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-10-06","t":"이유","x":"포유 28일","e":true}],"2001":[{"d":"2026-08-16","t":"발정 관찰","x":"발정 예상일","e":true},{"d":"2026-08-17","t":"교배","x":"1차 — 발정 후 17h (01시) · 배란 추정 29h","e":true},{"d":"2026-08-17","t":"교배","x":"2차 — 발정 후 25h (09시) · 배란 추정 29h","e":true},{"d":"2026-09-04","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-09-16","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-10-12","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-12-03","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-12-10","t":"분만","x":"교배 후 115일 (3-3-3 규칙)","e":true},{"d":"2027-01-07","t":"이유","x":"포유 28일 — 다음 주기 시작","e":true}],"2002":[{"d":"2026-07-24","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-08-11","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-08-23","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-09-18","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-11-09","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-11-16","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-12-14","t":"이유","x":"포유 28일","e":true}],"2003":[{"d":"2026-06-01","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-06-19","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-07-01","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-07-27","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-09-17","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-09-24","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-10-22","t":"이유","x":"포유 28일","e":true}],"2004":[{"d":"2026-04-06","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-04-24","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-05-06","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-06-01","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-07-23","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-07-30","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-08-27","t":"이유","x":"포유 28일","e":true}],"2005":[{"d":"2026-07-17","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-08-04","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-08-16","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-09-11","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-11-02","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-11-09","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-12-07","t":"이유","x":"포유 28일","e":true}],"2006":[{"d":"2026-08-05","t":"이유","x":"산차구분 sow","e":false},{"d":"2026-08-08","t":"발정 관찰","x":"CCTV 관찰 시작 (예상 발정 D+5)","e":true},{"d":"2026-08-10","t":"발정 관찰","x":"발정 예상일","e":true},{"d":"2026-08-11","t":"교배","x":"1차 — 발정 후 27h (10시) · 배란 추정 39h","e":true},{"d":"2026-08-11","t":"교배","x":"2차 — 발정 후 35h (18시) · 배란 추정 39h","e":true},{"d":"2026-08-29","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-09-10","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-10-06","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-11-27","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-12-04","t":"분만","x":"교배 후 115일 (3-3-3 규칙)","e":true},{"d":"2027-01-01","t":"이유","x":"포유 28일 — 다음 주기 시작","e":true}],"2007":[{"d":"2026-08-09","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-08-27","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-09-08","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-10-04","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-11-25","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-12-02","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-12-30","t":"이유","x":"포유 28일","e":true}],"2008":[{"d":"2026-03-23","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-04-10","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-04-22","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-05-18","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-07-09","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-07-16","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-08-13","t":"이유","x":"포유 28일","e":true}],"2009":[{"d":"2026-04-05","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-04-23","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-05-05","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-05-31","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-07-22","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-07-29","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-08-26","t":"이유","x":"포유 28일","e":true}],"2010":[{"d":"2026-08-23","t":"발정 관찰","x":"발정 예상일","e":true},{"d":"2026-08-24","t":"교배","x":"1차 — 발정 후 17h (01시) · 배란 추정 29h","e":true},{"d":"2026-08-24","t":"교배","x":"2차 — 발정 후 25h (09시) · 배란 추정 29h","e":true},{"d":"2026-09-11","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-09-23","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-10-19","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-12-10","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-12-17","t":"분만","x":"교배 후 115일 (3-3-3 규칙)","e":true},{"d":"2027-01-14","t":"이유","x":"포유 28일 — 다음 주기 시작","e":true}],"2011":[{"d":"2026-06-13","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-07-01","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-07-13","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-08-08","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-09-29","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-10-06","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-11-03","t":"이유","x":"포유 28일","e":true}],"2012":[{"d":"2026-06-05","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-06-23","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-07-05","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-07-31","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-09-21","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-09-28","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-10-26","t":"이유","x":"포유 28일","e":true}],"2013":[{"d":"2026-05-07","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-05-25","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-06-06","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-07-02","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-08-23","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-08-30","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-09-27","t":"이유","x":"포유 28일","e":true}],"2014":[{"d":"2026-05-28","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-06-15","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-06-27","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-07-23","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-09-13","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-09-20","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-10-18","t":"이유","x":"포유 28일","e":true}],"2015":[{"d":"2026-04-01","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-04-19","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-05-01","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-05-27","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-07-18","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-07-25","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-08-22","t":"이유","x":"포유 28일","e":true}],"2016":[{"d":"2026-08-03","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-08-21","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-09-02","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-09-28","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-11-19","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-11-26","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-12-24","t":"이유","x":"포유 28일","e":true}],"2017":[{"d":"2026-07-14","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-08-01","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-08-13","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-09-08","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-10-30","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-11-06","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-12-04","t":"이유","x":"포유 28일","e":true}],"2018":[{"d":"2026-05-31","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-06-18","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-06-30","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-07-26","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-09-16","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-09-23","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-10-21","t":"이유","x":"포유 28일","e":true}],"2019":[{"d":"2026-08-13","t":"발정 관찰","x":"발정 예상일","e":true},{"d":"2026-08-14","t":"교배","x":"1차 — 발정 후 17h (01시) · 배란 추정 29h","e":true},{"d":"2026-08-14","t":"교배","x":"2차 — 발정 후 25h (09시) · 배란 추정 29h","e":true},{"d":"2026-09-01","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-09-13","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-10-09","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-11-30","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-12-07","t":"분만","x":"교배 후 115일 (3-3-3 규칙)","e":true},{"d":"2027-01-04","t":"이유","x":"포유 28일 — 다음 주기 시작","e":true}],"2020":[{"d":"2026-07-25","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-08-12","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-08-24","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-09-19","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-11-10","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-11-17","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-12-15","t":"이유","x":"포유 28일","e":true}],"2021":[{"d":"2026-05-04","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-05-22","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-06-03","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-06-29","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-08-20","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-08-27","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-09-24","t":"이유","x":"포유 28일","e":true}],"2022":[{"d":"2026-08-04","t":"이유","x":"산차구분 sow","e":false},{"d":"2026-08-07","t":"발정 관찰","x":"CCTV 관찰 시작 (예상 발정 D+5)","e":true},{"d":"2026-08-09","t":"발정 관찰","x":"발정 예상일","e":true},{"d":"2026-08-10","t":"교배","x":"1차 — 발정 후 27h (10시) · 배란 추정 39h","e":true},{"d":"2026-08-10","t":"교배","x":"2차 — 발정 후 35h (18시) · 배란 추정 39h","e":true},{"d":"2026-08-28","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-09-09","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-10-05","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-11-26","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-12-03","t":"분만","x":"교배 후 115일 (3-3-3 규칙)","e":true},{"d":"2026-12-31","t":"이유","x":"포유 28일 — 다음 주기 시작","e":true}],"2023":[{"d":"2026-07-19","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-08-06","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-08-18","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-09-13","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-11-04","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-11-11","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-12-09","t":"이유","x":"포유 28일","e":true}],"2024":[{"d":"2026-03-21","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-04-08","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-04-20","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-05-16","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-07-07","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-07-14","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-08-11","t":"이유","x":"포유 28일","e":true}],"2025":[{"d":"2026-05-26","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-06-13","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-06-25","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-07-21","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-09-11","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-09-18","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-10-16","t":"이유","x":"포유 28일","e":true}],"2026":[{"d":"2026-07-28","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-08-15","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-08-27","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-09-22","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-11-13","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-11-20","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-12-18","t":"이유","x":"포유 28일","e":true}],"2027":[{"d":"2026-03-21","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-04-08","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-04-20","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-05-16","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-07-07","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-07-14","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-08-11","t":"이유","x":"포유 28일","e":true}],"2028":[{"d":"2026-04-25","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-05-13","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-05-25","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-06-20","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-08-11","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-08-18","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-09-15","t":"이유","x":"포유 28일","e":true}],"2029":[{"d":"2026-03-25","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-04-12","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-04-24","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-05-20","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-07-11","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-07-18","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-08-15","t":"이유","x":"포유 28일","e":true}],"2030":[{"d":"2026-06-27","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-07-15","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-07-27","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-08-22","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-10-13","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-10-20","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-11-17","t":"이유","x":"포유 28일","e":true}],"2031":[{"d":"2026-06-22","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-07-10","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-07-22","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-08-17","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-10-08","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-10-15","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-11-12","t":"이유","x":"포유 28일","e":true}],"2032":[{"d":"2026-06-03","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-06-21","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-07-03","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-07-29","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-09-19","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-09-26","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-10-24","t":"이유","x":"포유 28일","e":true}],"2033":[{"d":"2026-05-04","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-05-22","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-06-03","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-06-29","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-08-20","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-08-27","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-09-24","t":"이유","x":"포유 28일","e":true}],"2034":[{"d":"2026-03-29","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-04-16","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-04-28","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-05-24","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-07-15","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-07-22","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-08-19","t":"이유","x":"포유 28일","e":true}],"2035":[{"d":"2026-04-23","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-05-11","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-05-23","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-06-18","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-08-09","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-08-16","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-09-13","t":"이유","x":"포유 28일","e":true}],"2036":[{"d":"2026-08-21","t":"발정 관찰","x":"발정 예상일","e":true},{"d":"2026-08-22","t":"교배","x":"1차 — 발정 후 17h (01시) · 배란 추정 29h","e":true},{"d":"2026-08-22","t":"교배","x":"2차 — 발정 후 25h (09시) · 배란 추정 29h","e":true},{"d":"2026-09-09","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-09-21","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-10-17","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-12-08","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-12-15","t":"분만","x":"교배 후 115일 (3-3-3 규칙)","e":true},{"d":"2027-01-12","t":"이유","x":"포유 28일 — 다음 주기 시작","e":true}],"2037":[{"d":"2026-07-04","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-07-22","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-08-03","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-08-29","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-10-20","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-10-27","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-11-24","t":"이유","x":"포유 28일","e":true}],"2038":[{"d":"2026-07-28","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-08-15","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-08-27","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-09-22","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-11-13","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-11-20","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-12-18","t":"이유","x":"포유 28일","e":true}],"2039":[{"d":"2026-08-07","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-08-25","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-09-06","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-10-02","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-11-23","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-11-30","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-12-28","t":"이유","x":"포유 28일","e":true}],"2040":[{"d":"2026-08-23","t":"발정 관찰","x":"발정 예상일","e":true},{"d":"2026-08-24","t":"교배","x":"1차 — 발정 후 17h (01시) · 배란 추정 29h","e":true},{"d":"2026-08-24","t":"교배","x":"2차 — 발정 후 25h (09시) · 배란 추정 29h","e":true},{"d":"2026-09-11","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-09-23","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-10-19","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-12-10","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-12-17","t":"분만","x":"교배 후 115일 (3-3-3 규칙)","e":true},{"d":"2027-01-14","t":"이유","x":"포유 28일 — 다음 주기 시작","e":true}],"2041":[{"d":"2026-04-12","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-04-30","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-05-12","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-06-07","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-07-29","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-08-05","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-09-02","t":"이유","x":"포유 28일","e":true}],"2042":[{"d":"2026-07-23","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-08-10","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-08-22","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-09-17","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-11-08","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-11-15","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-12-13","t":"이유","x":"포유 28일","e":true}],"2043":[{"d":"2026-04-13","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-05-01","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-05-13","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-06-08","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-07-30","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-08-06","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-09-03","t":"이유","x":"포유 28일","e":true}],"2044":[{"d":"2026-04-13","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-05-01","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-05-13","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-06-08","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-07-30","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-08-06","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-09-03","t":"이유","x":"포유 28일","e":true}],"2045":[{"d":"2026-07-27","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-08-14","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-08-26","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-09-21","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-11-12","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-11-19","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-12-17","t":"이유","x":"포유 28일","e":true}],"2046":[{"d":"2026-05-29","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-06-16","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-06-28","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-07-24","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-09-14","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-09-21","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-10-19","t":"이유","x":"포유 28일","e":true}],"2047":[{"d":"2026-05-05","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-05-23","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-06-04","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-06-30","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-08-21","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-08-28","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-09-25","t":"이유","x":"포유 28일","e":true}],"2048":[{"d":"2026-07-13","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-07-31","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-08-12","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-09-07","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-10-29","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-11-05","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-12-03","t":"이유","x":"포유 28일","e":true}],"2049":[{"d":"2026-05-03","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-05-21","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-06-02","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-06-28","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-08-19","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-08-26","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-09-23","t":"이유","x":"포유 28일","e":true}],"2050":[{"d":"2026-08-18","t":"발정 관찰","x":"발정 예상일","e":true},{"d":"2026-08-19","t":"교배","x":"1차 — 발정 후 17h (01시) · 배란 추정 29h","e":true},{"d":"2026-08-19","t":"교배","x":"2차 — 발정 후 25h (09시) · 배란 추정 29h","e":true},{"d":"2026-09-06","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-09-18","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-10-14","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-12-05","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-12-12","t":"분만","x":"교배 후 115일 (3-3-3 규칙)","e":true},{"d":"2027-01-09","t":"이유","x":"포유 28일 — 다음 주기 시작","e":true}],"2051":[{"d":"2026-04-20","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-05-08","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-05-20","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-06-15","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-08-06","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-08-13","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-09-10","t":"이유","x":"포유 28일","e":true}],"2052":[{"d":"2026-05-06","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-05-24","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-06-05","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-07-01","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-08-22","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-08-29","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-09-26","t":"이유","x":"포유 28일","e":true}],"2053":[{"d":"2026-07-29","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-08-16","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-08-28","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-09-23","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-11-14","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-11-21","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-12-19","t":"이유","x":"포유 28일","e":true}],"2054":[{"d":"2026-06-04","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-06-22","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-07-04","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-07-30","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-09-20","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-09-27","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-10-25","t":"이유","x":"포유 28일","e":true}],"2055":[{"d":"2026-07-27","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-08-14","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-08-26","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-09-21","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-11-12","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-11-19","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-12-17","t":"이유","x":"포유 28일","e":true}],"2056":[{"d":"2026-04-20","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-05-08","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-05-20","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-06-15","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-08-06","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-08-13","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-09-10","t":"이유","x":"포유 28일","e":true}],"2057":[{"d":"2026-05-22","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-06-09","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-06-21","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-07-17","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-09-07","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-09-14","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-10-12","t":"이유","x":"포유 28일","e":true}],"2058":[{"d":"2026-07-28","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-08-15","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-08-27","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-09-22","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-11-13","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-11-20","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-12-18","t":"이유","x":"포유 28일","e":true}],"2059":[{"d":"2026-04-16","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-05-04","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-05-16","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-06-11","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-08-02","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-08-09","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-09-06","t":"이유","x":"포유 28일","e":true}],"2060":[{"d":"2026-06-20","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-07-08","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-07-20","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-08-15","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-10-06","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-10-13","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-11-10","t":"이유","x":"포유 28일","e":true}],"2061":[{"d":"2026-04-06","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-04-24","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-05-06","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-06-01","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-07-23","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-07-30","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-08-27","t":"이유","x":"포유 28일","e":true}],"2062":[{"d":"2026-03-25","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-04-12","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-04-24","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-05-20","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-07-11","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-07-18","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-08-15","t":"이유","x":"포유 28일","e":true}],"2063":[{"d":"2026-08-05","t":"이유","x":"산차구분 sow","e":false},{"d":"2026-08-08","t":"발정 관찰","x":"CCTV 관찰 시작 (예상 발정 D+5)","e":true},{"d":"2026-08-10","t":"발정 관찰","x":"발정 예상일","e":true},{"d":"2026-08-11","t":"교배","x":"1차 — 발정 후 27h (10시) · 배란 추정 39h","e":true},{"d":"2026-08-11","t":"교배","x":"2차 — 발정 후 35h (18시) · 배란 추정 39h","e":true},{"d":"2026-08-29","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-09-10","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-10-06","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-11-27","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-12-04","t":"분만","x":"교배 후 115일 (3-3-3 규칙)","e":true},{"d":"2027-01-01","t":"이유","x":"포유 28일 — 다음 주기 시작","e":true}],"2064":[{"d":"2026-03-24","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-04-11","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-04-23","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-05-19","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-07-10","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-07-17","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-08-14","t":"이유","x":"포유 28일","e":true}],"2065":[{"d":"2026-04-20","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-05-08","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-05-20","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-06-15","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-08-06","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-08-13","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-09-10","t":"이유","x":"포유 28일","e":true}],"2066":[{"d":"2026-07-04","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-07-22","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-08-03","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-08-29","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-10-20","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-10-27","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-11-24","t":"이유","x":"포유 28일","e":true}],"2067":[{"d":"2026-06-03","t":"교배","x":"입력된 교배일","e":false},{"d":"2026-06-21","t":"재발정 확인","x":"3주 (18~24일) 웅돈노출 + 발정체크 — 재발돈의 80%","e":true},{"d":"2026-07-03","t":"임신감정","x":"5주 (30~40일) 초음파 진단 — 재발돈의 15%","e":true},{"d":"2026-07-29","t":"임신감정","x":"8~10주 (56~70일) 육안 관찰 — 재발돈의 5%","e":true},{"d":"2026-09-19","t":"분만사 이동","x":"분만 7일 전","e":true},{"d":"2026-09-26","t":"분만","x":"교배 후 115일","e":true},{"d":"2026-10-24","t":"이유","x":"포유 28일","e":true}]},"barns":[{"barn":"1동","stage":"교배사","pens":[{"pen":"A열","housing":"스톨(개별)","cap":12,"slots":[{"s":"1","id":"2000"},{"s":"2","id":"2001"},{"s":"3","id":"2002"},{"s":"4","id":"2003"},{"s":"5","id":"2004"},{"s":"6","id":"2005"},{"s":"7","id":"2006"},{"s":"8","id":"2007"},{"s":"9","id":"2008"},{"s":"10","id":"2009"},{"s":"11","id":"2010"},{"s":"12","id":"2011"}]},{"pen":"B열","housing":"스톨(개별)","cap":12,"slots":[{"s":"1","id":"2012"},{"s":"2","id":"2013"},{"s":"3","id":"2014"},{"s":"4","id":"2015"},{"s":"5","id":"2016"},{"s":"6","id":"2017"},{"s":"7","id":"2018"},{"s":"8","id":"2019"},{"s":"9","id":"2020"},{"s":"10","id":"2021"},{"s":"11","id":"2022"},{"s":"12","id":"2023"}]}],"thi":76.7,"temp":27.7,"rh":61.4,"level":"경증","color":"#e0c33d","advice":"사료 섭취 감소 시작"},{"barn":"2동","stage":"임신사","pens":[{"pen":"1방","housing":"군사(합사)","cap":10,"slots":[{"s":"1","id":"2024"},{"s":"2","id":"2025"},{"s":"3","id":"2026"},{"s":"4","id":"2027"},{"s":"5","id":"2028"},{"s":"6","id":"2029"},{"s":"7","id":"2030"},{"s":"8","id":"2031"},{"s":"9","id":"2032"}]},{"pen":"2방","housing":"군사(합사)","cap":10,"slots":[{"s":"1","id":"2033"},{"s":"2","id":"2034"},{"s":"3","id":"2035"},{"s":"4","id":"2036"},{"s":"5","id":"2037"},{"s":"6","id":"2038"},{"s":"7","id":"2039"},{"s":"8","id":"2040"},{"s":"9","id":"2041"}]},{"pen":"3방","housing":"군사(합사)","cap":10,"slots":[{"s":"1","id":"2042"},{"s":"2","id":"2043"},{"s":"3","id":"2044"},{"s":"4","id":"2045"},{"s":"5","id":"2046"},{"s":"6","id":"2047"},{"s":"7","id":"2048"},{"s":"8","id":"2049"},{"s":"9","id":"2050"}]}],"thi":80.0,"temp":28.6,"rh":75.4,"level":"중등도","color":"#e8a33d","advice":"하계불임 구간 — 발정 지연·착상 실패 위험"},{"barn":"3동","stage":"분만사","pens":[{"pen":"분만실","housing":"분만틀","cap":12,"slots":[{"s":"1","id":"2051"},{"s":"2","id":"2052"},{"s":"3","id":"2053"},{"s":"4","id":"2054"},{"s":"5","id":"2055"},{"s":"6","id":"2056"},{"s":"7","id":"2057"},{"s":"8","id":"2058"},{"s":"9","id":"2059"},{"s":"10","id":"2060"}]}],"thi":86.8,"temp":33.3,"rh":72.9,"level":"중증","color":"#d03b3b","advice":"수태율 저하 · 즉시 냉방 조치"},{"barn":"4동","stage":"후보사","pens":[{"pen":"순치방","housing":"군사(합사)","cap":12,"slots":[{"s":"1","id":"2061"},{"s":"2","id":"2062"},{"s":"3","id":"2063"},{"s":"4","id":"2064"},{"s":"5","id":"2065"},{"s":"6","id":"2066"},{"s":"7","id":"2067"}]}],"thi":77.9,"temp":28.1,"rh":65.7,"level":"경증","color":"#e0c33d","advice":"사료 섭취 감소 시작"}],"statusColors":{"교배":"#d03b3b","발정확인":"#e8a33d","분만":"#8b3fd0","임신감정":"#2a78d6","재발확인":"#d98cc4","경보":"#e0407f","정상":"#7d9c86","공실":"#c9c9c2"},"statusLabels":{"교배":"교배 (정액 준비)","발정확인":"발정 확인 (등누르기)","분만":"분만 임박 (야간 순찰)","임신감정":"임신감정 (초음파)","재발확인":"재발정 확인 (웅돈 노출)","경보":"모순 경보 (유산·오진 의심)","정상":"조치 없음","공실":"빈 자리"},"stageColors":{"후보":"#8b8b83","공태":"#e8a33d","교배":"#d03b3b","임신":"#2a78d6","포유":"#1baf7a"},"taskColors":{"교배":"#d03b3b","발정 관찰":"#e8a33d","분만":"#8b3fd0","임신감정":"#2a78d6","재발정 확인":"#d98cc4","분만사 이동":"#2a78d6","이유":"#1baf7a"},"board":[{"w":0,"s":"2026-08-10","e":"2026-08-16","f":4,"wn":6,"t":2.8,"locked":true,"short":false},{"w":1,"s":"2026-08-17","e":"2026-08-23","f":1,"wn":2,"t":2.8,"locked":true,"short":true},{"w":2,"s":"2026-08-24","e":"2026-08-30","f":6,"wn":3,"t":2.8,"locked":true,"short":false},{"w":3,"s":"2026-08-31","e":"2026-09-06","f":0,"wn":4,"t":2.8,"locked":true,"short":true},{"w":4,"s":"2026-09-07","e":"2026-09-13","f":1,"wn":0,"t":2.8,"locked":true,"short":true},{"w":5,"s":"2026-09-14","e":"2026-09-20","f":3,"wn":0,"t":2.8,"locked":true,"short":false},{"w":6,"s":"2026-09-21","e":"2026-09-27","f":6,"wn":0,"t":2.8,"locked":true,"short":false},{"w":7,"s":"2026-09-28","e":"2026-10-04","f":1,"wn":0,"t":2.8,"locked":true,"short":true},{"w":8,"s":"2026-10-05","e":"2026-10-11","f":1,"wn":0,"t":2.8,"locked":true,"short":true},{"w":9,"s":"2026-10-12","e":"2026-10-18","f":2,"wn":0,"t":2.8,"locked":true,"short":false},{"w":10,"s":"2026-10-19","e":"2026-10-25","f":1,"wn":0,"t":2.8,"locked":true,"short":true},{"w":11,"s":"2026-10-26","e":"2026-11-01","f":2,"wn":0,"t":2.8,"locked":true,"short":false},{"w":12,"s":"2026-11-02","e":"2026-11-08","f":2,"wn":0,"t":2.8,"locked":true,"short":false},{"w":13,"s":"2026-11-09","e":"2026-11-15","f":3,"wn":0,"t":2.8,"locked":true,"short":false},{"w":14,"s":"2026-11-16","e":"2026-11-22","f":8,"wn":0,"t":2.8,"locked":true,"short":false},{"w":15,"s":"2026-11-23","e":"2026-11-29","f":1,"wn":0,"t":2.8,"locked":true,"short":true},{"w":16,"s":"2026-11-30","e":"2026-12-06","f":2,"wn":0,"t":2.8,"locked":false,"short":false}],"kpi":{"nSows":62,"turnover":2.37,"svcTarget":3.3,"svcActual":2,"farrowTarget":2.8,"nAct":23,"nLate":19,"nConf":1,"nCull":14,"nRisk":10},"risk":[{"id":"2002","barn":"1동","days":17,"level":"경증"},{"id":"2016","barn":"1동","days":7,"level":"경증"},{"id":"2020","barn":"1동","days":16,"level":"경증"},{"id":"2026","barn":"2동","days":13,"level":"중등도"},{"id":"2038","barn":"2동","days":13,"level":"중등도"},{"id":"2042","barn":"2동","days":18,"level":"중등도"},{"id":"2045","barn":"2동","days":14,"level":"중등도"},{"id":"2053","barn":"3동","days":12,"level":"중증"},{"id":"2055","barn":"3동","days":14,"level":"중증"},{"id":"2058","barn":"3동","days":13,"level":"중증"}],"parity":[{"p":"1","n":11,"share":0.177,"target":0.2,"gap":-1.4},{"p":"2","n":6,"share":0.097,"target":0.18,"gap":-5.2},{"p":"3","n":13,"share":0.21,"target":0.17,"gap":2.5},{"p":"4","n":11,"share":0.177,"target":0.15,"gap":1.7},{"p":"5","n":6,"share":0.097,"target":0.12,"gap":-1.4},{"p":"6","n":6,"share":0.097,"target":0.09,"gap":0.4},{"p":"7+","n":9,"share":0.145,"target":0.09,"gap":3.4}],"cull":[{"id":"2018","parity":9,"score":65,"reason":"9산 노령 · 총산자 9두"},{"id":"2031","parity":10,"score":45,"reason":"10산 노령"},{"id":"2055","parity":10,"score":45,"reason":"10산 노령"},{"id":"2057","parity":10,"score":45,"reason":"10산 노령"},{"id":"2066","parity":10,"score":45,"reason":"10산 노령"},{"id":"2021","parity":9,"score":40,"reason":"9산 노령"},{"id":"2003","parity":8,"score":35,"reason":"8산 노령"},{"id":"2039","parity":7,"score":30,"reason":"7산 노령"},{"id":"2020","parity":7,"score":30,"reason":"7산 노령"},{"id":"2008","parity":6,"score":25,"reason":"총산자 8두"}],"ai":{"id":"2006","loc":"1동 교배사 A열 7번","wean":"2026-08-05","planned":"2026-08-11","score":0.62,"confirmed":"2026-08-09 06:00","ai1":"08-10 10시","ai2":"08-10 18시","h1":28,"h2":36,"ovul":40},"queue":[{"barn":"1동","order":1,"n":7,"crit":2,"late":5,"conf":0,"supplies":{"정액·주입기":1,"웅돈":3,"초음파기":1,"이동 준비":2},"ids":["2022","2006","2002","2020","2017","2014","2018"]},{"barn":"4동","order":2,"n":3,"crit":1,"late":3,"conf":0,"supplies":{"웅돈":1,"분만 키트":1,"초음파기":1},"ids":["2063","2065","2066"]},{"barn":"3동","order":3,"n":4,"crit":0,"late":4,"conf":1,"supplies":{"초음파기":1,"분만 키트":2,"이동 준비":1},"ids":["2060","2051","2056","2057"]},{"barn":"2동","order":4,"n":9,"crit":0,"late":7,"conf":0,"supplies":{"웅돈":1,"초음파기":4,"분만 키트":1,"이동 준비":3},"ids":["2042","2048","2031","2037","2035","2028","2025","2030","2046"]}],"route":["1동","2동","3동","4동"]};
+const $=s=>document.querySelector(s), $$=s=>[...document.querySelectorAll(s)];
+const el=(t,c,h)=>{const e=document.createElement(t);if(c)e.className=c;
+ if(h!==undefined)e.innerHTML=h;return e;};
+const esc=s=>String(s==null?'':s).replace(/[&<>"]/g,
+ c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const byId=Object.fromEntries(D.animals.map(a=>[a.id,a]));
+const T0=new Date(D.today+'T00:00:00');
+const dday=d=>d==null?'-':(d===0?'오늘':'D-'+d);
+const dnum=iso=>Math.round((new Date(iso+'T00:00:00')-T0)/864e5);
+const md=iso=>iso?iso.slice(5).replace('-','/'):'';
+
+const LKEY='pig_worklog_v1';
+const loadLog=()=>{try{return JSON.parse(localStorage.getItem(LKEY)||'[]');}
+ catch(e){return[];}};
+const saveLog=x=>{try{localStorage.setItem(LKEY,JSON.stringify(x));}catch(e){}};
+function addLog(a,result){
+  const g=loadLog();
+  g.push({ts:new Date().toISOString().slice(0,19),id:a.id,task:a.task,
+   result:result,loc:a.loc,planned:a.date,operator:'사무실'});
+  saveLog(g);
+}
+const isDone=a=>loadLog().some(x=>x.id===a.id&&x.task===a.task&&x.result==='완료');
+
+let route='home', sel=new Set(), cur=null, sortKey='id', sortAsc=true, q='';
+
+function go(r){route=r;sel.clear();render();}
+function pick(id){cur=id;renderDetail();
+  $$('tr.r').forEach(t=>t.classList.toggle('cur',t.dataset.id===id));}
+
+function remainByBarn(){
+  return D.queue.map(g=>({...g,items:g.ids.map(i=>byId[i])
+    .filter(a=>a&&!isDone(a))})).filter(g=>g.items.length);
+}
+
+function bulkBar(n){
+  const b=el('div',null,'');
+  const ok=el('button','btn pri',`선택 ${n}건 완료`);
+  ok.disabled=!n;
+  ok.onclick=()=>{sel.forEach(id=>{const a=byId[id];if(a)addLog(a,'완료');});
+    sel.clear();render();};
+  const sk=el('button','btn',`미실시`); sk.disabled=!n;
+  sk.onclick=()=>{sel.forEach(id=>{const a=byId[id];if(a)addLog(a,'미실시');});
+    sel.clear();render();};
+  b.append(ok,document.createTextNode(' '),sk);
+  return b;
+}
+
+function rowFor(a,withChk){
+  const c=D.taskColors[a.task]||'#888';
+  const done=isDone(a);
+  const tr=el('tr','r'+(done?' done':'')+(sel.has(a.id)?' sel':''));
+  tr.dataset.id=a.id;
+  tr.innerHTML=
+   (withChk?`<td><input type="checkbox" ${sel.has(a.id)?'checked':''}
+     ${done?'disabled':''}></td>`:'')
+   +`<td><b>${esc(a.id)}</b></td>
+     <td>${esc(a.loc)}</td>
+     <td><span class="pill" style="background:color-mix(in srgb,
+      ${D.stageColors[a.stage]||'#888'} 18%,transparent);
+      color:${D.stageColors[a.stage]||'#888'}">${esc(a.stage)}</span></td>
+     <td style="color:${c};font-weight:600">${esc(a.task)}</td>
+     <td>${dday(a.dday)}</td>
+     <td>${esc(a.action)}</td>
+     <td>${a.late?`<span class="pill" style="background:rgba(160,32,32,.13);
+      color:#a02020">${a.lateDays}일</span>`:''}</td>`;
+  if(withChk){
+    const cb=tr.querySelector('input');
+    cb.onclick=e=>{e.stopPropagation();
+      cb.checked?sel.add(a.id):sel.delete(a.id);
+      tr.classList.toggle('sel',cb.checked);
+      $('#bulk').replaceChildren(bulkBar(sel.size));};
+  }
+  tr.onclick=()=>pick(a.id);
+  return tr;
+}
+
+const HEAD=(chk)=>(chk?'<th style="width:28px"></th>':'')
+ +'<th>개체</th><th>위치</th><th>단계</th><th>작업</th><th>D-day</th>'
+ +'<th>조치</th><th>지연</th>';
+
+function vHome(b){
+  const grps=remainByBarn();
+  const n=grps.reduce((s,g)=>s+g.items.length,0);
+  const log=loadLog();
+  b.appendChild(el('div','kpis',
+    `<div class="kpi"><b>${n}</b><span>남은 조치</span></div>
+     <div class="kpi"><b>${log.filter(x=>x.result==='완료').length}</b><span>완료 기록</span></div>
+     <div class="kpi"><b>${D.kpi.nConf}</b><span>모순 경보</span></div>
+     <div class="kpi"><b>${D.kpi.nRisk}</b><span>착상기 위험</span></div>`));
+  b.appendChild(el('div','prt',
+    `<b>작업지시서</b> · 기준일 ${D.today} · 총 ${n}건`));
+  if(!grps.length){b.appendChild(el('div','empty','오늘 조치할 개체가 없습니다'));return;}
+  grps.forEach(g=>{
+    const sup=Object.entries(g.supplies).map(([s,k])=>`${esc(s)}×${k}`).join(' · ');
+    const wrap=el('div','bgrp');
+    wrap.appendChild(el('div','bgh',
+      `<span class="bord">${g.order}</span><b>${esc(g.barn)}</b>
+       <span style="color:var(--muted)">${g.items.length}건</span>
+       ${g.crit?`<span class="bcrit">시한 ${g.crit}</span>`:''}
+       <span class="bsup">준비물 · ${sup||'-'}</span>`));
+    const tw=el('div','bwrap');
+    const t=el('table',null,'<thead><tr>'+HEAD(true)+'</tr></thead>');
+    const tb=el('tbody');
+    g.items.forEach(a=>tb.appendChild(rowFor(a,true)));
+    t.appendChild(tb); tw.appendChild(t); wrap.appendChild(tw);
+    b.appendChild(wrap);
+  });
+  b.appendChild(el('div','hint',
+    '<b>작업동별</b>로 묶었습니다 — 사람은 축사를 하나씩 도니까요. 동 순서는 '
+    +'가장 급한 개체가 있는 동부터입니다. 체크해서 <b>여러 건을 한 번에</b> '
+    +'완료 처리할 수 있고(축사에서 끝내고 돌아와 한 번에 기록하는 흐름), '
+    +'상단 <b>인쇄</b>로 동별 작업지시서를 종이로 뽑을 수 있습니다.<br>'
+    +'단축키 <span class="kbd">j</span>/<span class="kbd">k</span> 이동 · '
+    +'<span class="kbd">space</span> 선택 · <span class="kbd">/</span> 검색'));
+}
+
+function vList(b){
+  let rows=D.animals.filter(a=>!q||a.id.includes(q)||a.loc.includes(q)
+    ||a.stage.includes(q));
+  const dir=sortAsc?1:-1;
+  rows.sort((x,y)=>{
+    let A=x[sortKey],B=y[sortKey];
+    if(A==null)A=''; if(B==null)B='';
+    return (A>B?1:A<B?-1:0)*dir;});
+  const t=el('table',null,
+    `<thead><tr><th data-k="id">개체</th><th data-k="loc">위치</th>
+     <th data-k="stage">단계</th><th data-k="parity">산차</th>
+     <th data-k="estrus">발정</th><th data-k="preg">임신</th>
+     <th data-k="task">작업</th><th data-k="dday">D-day</th></tr></thead>`);
+  const tb=el('tbody');
+  rows.forEach(a=>{
+    const tr=el('tr','r'+(isDone(a)?' done':''));
+    tr.dataset.id=a.id;
+    tr.innerHTML=`<td><b>${esc(a.id)}</b></td><td>${esc(a.loc)}</td>
+      <td><span class="dotc" style="background:${D.statusColors[a.status]}"></span>
+       ${esc(a.stage)}</td><td>${a.parity}산</td>
+      <td>${esc(a.estrus)} <span style="color:var(--muted)">${a.score.toFixed(2)}</span></td>
+      <td>${esc(a.preg)}</td><td>${esc(a.task)}</td><td>${dday(a.dday)}</td>`;
+    tr.onclick=()=>pick(a.id);
+    tb.appendChild(tr);
+  });
+  t.appendChild(tb);
+  t.querySelectorAll('th[data-k]').forEach(th=>th.onclick=()=>{
+    const k=th.dataset.k;
+    if(sortKey===k)sortAsc=!sortAsc; else{sortKey=k;sortAsc=true;}
+    render();});
+  b.appendChild(el('div','dsub',`${rows.length}두 · 열 제목을 눌러 정렬`));
+  b.appendChild(t);
+}
+
+function vMap(b){
+  D.barns.forEach(bn=>{
+    const box=el('div','mbarn');
+    box.appendChild(el('div','mh',
+      `<span>${esc(bn.barn)} ${esc(bn.stage)}</span>`
+      +(bn.thi!=null?`<span style="color:${bn.color};font-size:.72rem">
+        ${bn.temp}℃ · ${bn.rh}% · THI ${bn.thi} ${esc(bn.level)}</span>`:'')));
+    bn.pens.forEach(p=>{
+      box.appendChild(el('div','mpen',
+        `${esc(p.pen)} · ${esc(p.housing)} (${p.slots.length}/${p.cap})`));
+      const row=el('div','mcells');
+      p.slots.forEach(s=>{
+        const a=byId[s.id]; if(!a)return;
+        const i=el('i',null,esc(s.s));
+        i.style.background=D.statusColors[a.status];
+        if(a.late)i.style.border='2px solid #a02020';
+        i.title=`${a.id} · ${a.stage} · ${a.task} ${dday(a.dday)}`;
+        i.onclick=()=>pick(a.id);
+        row.appendChild(i);
+      });
+      box.appendChild(row);
+    });
+    b.appendChild(box);
+  });
+  const leg=el('div','mleg');
+  Object.entries(D.statusColors).forEach(([k,c])=>{if(k==='공실')return;
+    leg.appendChild(el('span',null,`<i style="background:${c}"></i>${esc(k)}`));});
+  leg.appendChild(el('span',null,'<i style="border:2px solid #a02020"></i>기한 경과'));
+  b.appendChild(leg);
+}
+
+function vBoard(b){
+  const k=D.kpi;
+  b.appendChild(el('div','kpis',
+    `<div class="kpi"><b>${k.nSows}</b><span>모돈</span></div>
+     <div class="kpi"><b>${k.turnover}</b><span>회전율/년</span></div>
+     <div class="kpi"><b>${k.svcTarget}</b><span>주간 교배목표</span></div>
+     <div class="kpi"><b>${k.nCull}</b><span>도태 후보</span></div>`));
+  b.appendChild(el('div','sect','주차별 분만 예정 (17주)'));
+  const mx=Math.max(...D.board.map(x=>x.f),k.farrowTarget)||1;
+  const ch=el('div','chart');
+  D.board.forEach(x=>{
+    const c=x.short&&x.locked?'#d03b3b':(x.short?'#e8a33d':'#2a78d6');
+    const w=el('div','wk',
+      `<div class="wb" style="height:${(96*x.f/mx).toFixed(0)}px;background:${c}"></div>
+       <span>${x.f}</span><em>W${x.w}</em>`);
+    w.title=`W${x.w} ${md(x.s)}~${md(x.e)} · 분만 ${x.f}복 (목표 ${x.t})`;
+    ch.appendChild(w);
+  });
+  const tl=el('div','tline',`<span>목표 ${k.farrowTarget}</span>`);
+  tl.style.bottom=(96*k.farrowTarget/mx).toFixed(0)+'px';
+  ch.appendChild(tl); b.appendChild(ch);
+  b.appendChild(el('div','sect','산차 구성 (목표 대비)'));
+  const t=el('table',null,'<thead><tr><th>산차</th><th>두수</th><th>비율</th>'
+    +'<th>목표</th><th>편차</th></tr></thead>');
+  const tb=el('tbody');
+  D.parity.forEach(p=>tb.appendChild(el('tr',null,
+    `<td>${esc(p.p)}산</td><td>${p.n}</td><td>${(p.share*100).toFixed(1)}%</td>
+     <td>${(p.target*100).toFixed(0)}%</td>
+     <td style="color:${p.gap>3?'#d03b3b':(p.gap<-3?'#e8a33d':'var(--ink2)')}">
+      ${p.gap>0?'+':''}${p.gap}</td>`)));
+  t.appendChild(tb); b.appendChild(t);
+  b.appendChild(el('div','sect','도태 후보'));
+  const t2=el('table',null,'<thead><tr><th>개체</th><th>산차</th><th>점수</th>'
+    +'<th>사유</th></tr></thead>');
+  const tb2=el('tbody');
+  D.cull.forEach(c=>{const tr=el('tr','r',
+    `<td><b>${esc(c.id)}</b></td><td>${c.parity}산</td><td>${c.score}</td>
+     <td>${esc(c.reason)}</td>`);
+    tr.onclick=()=>pick(c.id); tb2.appendChild(tr);});
+  t2.appendChild(tb2); b.appendChild(t2);
+}
+
+function vLog(b){
+  const g=loadLog().slice().reverse();
+  const done=g.filter(x=>x.result==='완료').length;
+  b.appendChild(el('div','kpis',
+    `<div class="kpi"><b>${g.length}</b><span>기록</span></div>
+     <div class="kpi"><b>${done}</b><span>완료</span></div>
+     <div class="kpi"><b>${g.length-done}</b><span>미실시</span></div>`));
+  if(!g.length){b.appendChild(el('div','empty',
+    '아직 기록이 없습니다. 오늘 할 일에서 완료 처리하면 여기 쌓입니다.'));return;}
+  const t=el('table',null,'<thead><tr><th>일시</th><th>개체</th><th>작업</th>'
+    +'<th>위치</th><th>예정일</th><th>지연</th><th>결과</th><th>작업자</th></tr></thead>');
+  const tb=el('tbody');
+  g.forEach(x=>{
+    const late=x.planned?Math.round(
+      (new Date(x.ts.slice(0,10))-new Date(x.planned))/864e5):null;
+    tb.appendChild(el('tr',null,
+      `<td>${esc(x.ts.slice(5,16).replace('T',' '))}</td>
+       <td><b>${esc(x.id)}</b></td><td>${esc(x.task)}</td>
+       <td>${esc(x.loc||'')}</td><td>${esc(x.planned||'-')}</td>
+       <td>${late!=null&&late>0?`<span style="color:#a02020">+${late}일</span>`:''}</td>
+       <td><span class="pill" style="background:${x.result==='완료'
+        ?'color-mix(in srgb,#1baf7a 16%,transparent)':'var(--surf2)'};
+        color:${x.result==='완료'?'#1baf7a':'var(--muted)'}">${esc(x.result)}</span></td>
+       <td>${esc(x.operator||'')}</td>`));
+  });
+  t.appendChild(tb); b.appendChild(t);
+  const clr=el('button','btn noprint','기록 전체 지우기');
+  clr.style.marginTop='12px';
+  clr.onclick=()=>{if(confirm('작업 로그를 모두 지웁니다.')){saveLog([]);render();}};
+  b.appendChild(clr);
+  b.appendChild(el('div','hint',
+    '로그는 <b>추가만</b> 합니다 — 기록을 고치면 성적이 왜곡되므로 정정은 취소 '
+    +'기록을 덧붙이는 방식입니다. 예정일 대비 지연이 쌓이면 적기 준수율이 되고, '
+    +'그것이 수태율의 선행 지표입니다.'));
+}
+
+function renderDetail(){
+  const d=$('#detail'); d.innerHTML='';
+  if(!cur||!byId[cur]){
+    d.appendChild(el('div','empty','왼쪽에서 개체를 선택하세요'));return;}
+  const a=byId[cur];
+  d.appendChild(el('div','dh',esc(a.id)));
+  d.appendChild(el('div','dsub',esc(a.loc)));
+  if(a.conflict)d.appendChild(el('div','warn','⚠️ '+esc(a.conflict)));
+  d.appendChild(el('div','dgrid',
+    `<div><span>단계</span><b>${esc(a.stage)}</b></div>
+     <div><span>산차</span><b>${a.parity}산</b></div>
+     <div><span>발정</span><b>${esc(a.estrus)} (${a.score.toFixed(2)})</b></div>
+     <div><span>임신</span><b>${esc(a.preg)}</b></div>
+     <div><span>다음 작업</span><b>${esc(a.task)}</b></div>
+     <div><span>기한</span><b>${dday(a.dday)}</b></div>`));
+  if(!isDone(a)){
+    const ok=el('button','btn pri','이 작업 완료'); ok.style.width='100%';
+    ok.onclick=()=>{addLog(a,'완료');render();};
+    d.appendChild(ok);
+  }else d.appendChild(el('div','dsub','✓ 완료 기록됨'));
+  d.appendChild(el('div','sect','번식 일정'));
+  (D.sched[a.id]||[]).forEach(t=>{
+    const dd=dnum(t.d); if(dd<-40||dd>135)return;
+    const c=D.taskColors[t.t]||'#888';
+    d.appendChild(el('div','tli '+(t.e?'est':''),
+      `<span class="dot" style="color:${c}">${t.e?'~':'●'}</span>
+       <span class="dt">${md(t.d)}</span><span class="tk">${esc(t.t)}</span>
+       <span class="dd">${dd>=0?dday(dd):(-dd)+'일 전'}</span>`));
+  });
+}
+
+const VIEWS={home:vHome,list:vList,map:vMap,board:vBoard,log:vLog};
+const TITLES={home:'오늘 할 일',list:'모돈 목록',map:'축사 도면',
+ board:'현황판',log:'작업 로그'};
+
+function render(){
+  $('#title').textContent=TITLES[route];
+  $$('.nav a').forEach(n=>n.classList.toggle('on',n.dataset.r===route));
+  const b=$('#body'); b.innerHTML='';
+  (VIEWS[route]||vHome)(b);
+  $('#bulk').replaceChildren(route==='home'?bulkBar(sel.size):document.createTextNode(''));
+  $('#srch').style.display=route==='list'?'':'none';
+  const grps=remainByBarn();
+  $('#c-home').textContent=grps.reduce((s,g)=>s+g.items.length,0);
+  $('#c-list').textContent=D.animals.length;
+  $('#c-log').textContent=loadLog().length;
+  renderDetail();
+}
+
+$$('.nav a').forEach(n=>n.onclick=()=>go(n.dataset.r));
+$('#srch').oninput=e=>{q=e.target.value.trim();render();};
+$('#print').onclick=()=>window.print();
+
+document.addEventListener('keydown',e=>{
+  if(e.target.tagName==='INPUT')  {if(e.key==='Escape')e.target.blur();return;}
+  if(e.key==='/'){e.preventDefault();go('list');$('#srch').focus();return;}
+  const rows=$$('tr.r'); if(!rows.length)return;
+  let i=rows.findIndex(r=>r.dataset.id===cur);
+  if(e.key==='j'||e.key==='ArrowDown'){e.preventDefault();
+    i=Math.min(rows.length-1,i+1);pick(rows[i].dataset.id);
+    rows[i].scrollIntoView({block:'nearest'});}
+  else if(e.key==='k'||e.key==='ArrowUp'){e.preventDefault();
+    i=Math.max(0,i<0?0:i-1);pick(rows[i].dataset.id);
+    rows[i].scrollIntoView({block:'nearest'});}
+  else if(e.key===' '&&cur){e.preventDefault();
+    sel.has(cur)?sel.delete(cur):sel.add(cur);render();
+    const t=$$('tr.r').find(r=>r.dataset.id===cur);
+    if(t){t.classList.add('cur');t.scrollIntoView({block:'nearest'});}}
+});
+render();
+</script>
+</body></html>
