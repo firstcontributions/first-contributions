@@ -16,6 +16,7 @@
 yuvraj
 - Rohit Negi
 - [soupnaie-mnm]
+- [Diogo Higa]
 - [Rakhi Jamdade]
 - [abdelrahman-mahmoud] (Iterating Test)
 - [hamsehmahamud] (https://github.com/hamsehmahamud)
