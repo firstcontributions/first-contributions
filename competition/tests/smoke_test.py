@@ -608,6 +608,107 @@ def test_feeding_monitor() -> None:
     assert fm.zone_of(0.15, 0.15, zones) == 0 and fm.zone_of(0.9, 0.9, zones) is None
 
 
+def test_repro_calendar() -> None:
+    """작업 캘린더: 날짜 1개 → 전체 일정, 관측이 예상을 대체, 그룹 일괄 생성."""
+    from datetime import date, datetime
+    import repro_calendar as rc
+    tasks = rc.schedule_from_weaning("2026-08-10", parity="sow")
+    kinds = [t["task"] for t in tasks]
+    for need in ("이유", "발정 관찰", "교배", "재발정 확인", "임신감정",
+                 "분만사 이동", "분만"):
+        assert need in kinds, f"{need} 작업이 생성되지 않음"
+    assert tasks == sorted(tasks, key=lambda t: t["date"]), "날짜순이 아님"
+
+    # 순서 회귀: '발정 관찰'이 '교배'보다 뒤에 오면 안 된다
+    first_obs = min(t["date"] for t in tasks if t["task"] == "발정 관찰")
+    first_ai = min(t["date"] for t in tasks if t["task"] == "교배")
+    assert first_obs < first_ai, "발정 관찰이 교배 뒤에 배치됨"
+
+    s = rc.cycle_summary(tasks)
+    assert 140 <= s["cycle_days"] <= 160, f"1주기 {s['cycle_days']}일 (150 근처여야)"
+    assert s["npd_days"] == s["cycle_days"] - rc.GESTATION - rc.LACTATION
+
+    # 후보돈은 이유가 없다 — 경산돈 경로로 넣으면 거부해야 한다
+    try:
+        rc.schedule_from_weaning("2026-08-10", parity="gilt")
+        raise AssertionError("후보돈에 이유 기준 일정이 허용됨")
+    except ValueError:
+        pass
+    g = rc.schedule_from_estrus("2026-08-10", parity="gilt")
+    assert "이유" not in [t["task"] for t in g][:2]
+    assert min(t["date"] for t in g if t["task"] == "교배") >= date(2026, 8, 10)
+
+    # 관측이 예상을 대체한다: 확정 교배는 estimated=False
+    conf = rc.schedule_from_weaning("2026-08-10", "sow",
+                                    estrus_confirmed=datetime(2026, 8, 14, 6))
+    ai = [t for t in conf if t["task"] == "교배"]
+    assert ai and all(not t["estimated"] for t in ai), "확정 발정인데 교배가 추정으로 남음"
+    est = [t for t in tasks if t["task"] == "교배"]
+    assert all(t["estimated"] for t in est), "미확인인데 교배가 확정으로 표시됨"
+    assert ai[0]["date"] != est[0]["date"], "발정 확인이 교배일에 반영되지 않음"
+
+    # 그룹 등록: 입력 1회 → N두, 개별 확인은 해당 개체만 갱신
+    grp = rc.group_from_weaning(["A", "B", "C"], "2026-08-10")
+    assert len(grp) == 3 and all(len(v) == len(tasks) for v in grp.values())
+    grp2 = rc.confirm_estrus(grp, "B", datetime(2026, 8, 14, 6))
+    ai_b = [t["date"] for t in grp2["B"] if t["task"] == "교배"]
+    ai_a = [t["date"] for t in grp2["A"] if t["task"] == "교배"]
+    assert ai_b != ai_a, "개체 확인이 반영되지 않음"
+    assert grp2["A"] == grp["A"], "다른 개체 일정까지 바뀜"
+
+    todo = rc.due_today(grp, today="2026-08-16", horizon=1)
+    assert todo and all(0 <= t["d_day"] <= 1 for t in todo)
+    assert todo == sorted(todo, key=lambda t: (t["d_day"], -t["priority"]))
+    late = rc.overdue(grp, today="2026-09-30")
+    assert late and all(t["late_days"] > 0 for t in late)
+
+
+def test_herd_board() -> None:
+    """모돈군 현황판: 단계 판정·주차 파이프라인·산차 구성·도태·전입 계획."""
+    from datetime import date, timedelta
+    import herd_board as hb
+    herd = hb.build_herd(hb.generate_demo(n=200, today="2026-08-10"),
+                         today="2026-08-10")
+    assert len(herd) == 200
+    sc = hb.stage_counts(herd)
+    assert sum(sc.values()) == 200
+    # 단계 판정 회귀: 이유까지 끝난 모돈이 '임신'으로 남으면 공태가 0이 된다
+    assert sc["공태"] > 0, "공태돈이 한 두도 없다 — 최근 사건 판정이 깨졌다"
+    assert sc["임신"] > 0 and sc["포유"] > 0
+
+    t0 = date(2026, 8, 10)
+    one = hb.build_herd([{"id": "X", "parity": 3,
+                          "service_date": t0 - timedelta(days=160),
+                          "farrow_date": t0 - timedelta(days=45),
+                          "weaning_date": t0 - timedelta(days=17)}], today=t0)
+    assert one.loc[0, "stage"] == "공태" and one.loc[0, "npd"] == 17
+
+    wb = hb.weekly_board(herd, today="2026-08-10")
+    assert len(wb) == 17 and (wb["farrow"] >= 0).all()
+    # 확정 판정 회귀: 주 '끝'을 역산해야 한다. 마지막 주는 아직 교배로 메울 수 있다
+    assert not bool(wb.iloc[-1]["locked"]), "메울 수 있는 주가 확정 손실로 잡힘"
+    assert bool(wb.iloc[0]["locked"])
+
+    pp = hb.parity_profile(herd)
+    assert abs(pp["target_share"].sum() - 1.0) < 1e-9, "목표 산차 구성 합이 1이 아님"
+    assert pp["n"].sum() == int((herd["parity"] > 0).sum()), "산차 집계 누락/중복"
+
+    cc = hb.cull_candidates(herd)
+    assert len(cc) and (cc["score"].diff().dropna() <= 0).all(), "점수 내림차순 아님"
+    assert cc["reason"].str.len().gt(0).all()
+
+    gi = hb.gilt_intake_plan(herd, months=6, today="2026-08-10")
+    a = gi.attrs
+    # 용량 상한 회귀: 적체가 아무리 커도 월 전입이 상한을 넘으면 안 된다
+    assert (gi["need"] <= a["monthly_cap"] + 1).all(), "월 전입이 격리사 용량 초과"
+    assert (gi["backlog_left"].diff().dropna() <= 0).all(), "적체가 늘어남"
+    assert a["months_to_clear"] is None or a["months_to_clear"] >= 1
+
+    st = hb.service_target(herd, today="2026-08-10")
+    assert st["service_target_week"] > st["farrow_target_week"], \
+        "수태 실패분을 감안하면 교배 목표가 분만 목표보다 커야 한다"
+
+
 def main() -> int:
     tests = [test_dependencies_import, test_aihub_client_no_key,
              test_pipeline_runs, test_aihub_parsers,
@@ -621,7 +722,8 @@ def main() -> int:
              test_estrus_calendar_link, test_estrus_contrast_eval,
              test_keypoints_parser_pose, test_pose_vs_behavior_eval,
              test_motion_tracker, test_box_merge, test_temporal_features,
-             test_breeding_timing, test_stall_estrus, test_feeding_monitor]
+             test_breeding_timing, test_stall_estrus, test_feeding_monitor,
+             test_repro_calendar, test_herd_board]
     failed = 0
     for t in tests:
         try:
