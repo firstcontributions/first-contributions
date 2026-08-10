@@ -22,6 +22,7 @@ yuvraj
 - [abdelrahman-mahmoud] (Iterating Test)
 - [hamsehmahamud] (https://github.com/hamsehmahamud)
 -[harshita-suresh] (https://github.com/Harshi108)
+- [Harsh] (https://github.com/hharsh17)
 - [LizC AU](https://github.com/lizc-au)
 - [Markus Pröhl](https://github.com/proehl-R1)
 - [Yush] (https://github.com/yushtr)
