@@ -33,8 +33,18 @@ CYCLE_DAYS = GESTATION + LACTATION + NORMAL_WEI      # 150
 # 발정 지속시간(h) — 산차별
 ESTRUS_DURATION = {"gilt": 44.0, "sow": 54.0}        # 후보돈 / 경산돈
 OVULATION_FRAC = 2.0 / 3.0                            # 배란 시점(발정 지속의 2/3)
-SPERM_VIABLE_H = 24.0                                 # 정자 수정능 유지
+SPERM_VIABLE_H = 30.0                                 # 정자 생존(자궁·난관 내)
 OVUM_VIABLE_H = 10.0                                  # 난자 유효
+# 수정능획득(capacitation): 주입 직후의 정자는 수정 능력이 없다. 자궁·난관을
+# 거치며 4~6h 이 지나야 난자를 수정시킬 수 있고, 그 사이 난관팽대부에 정자
+# 저장소가 만들어진다. **배란 시점에 이미 수정능을 갖춘 정자가 대기하고 있어야**
+# 한다 — 이것이 "배란 직전이 아니라 배란 몇 시간 전"이 적기인 이유다.
+CAPACITATION_H = 4.0
+
+# 현장 지침(발정확인·정액주입 가이드)의 적기 구간(승가허용 시작 기준 h).
+# 모델 권장값이 이 구간을 벗어나면 둘 중 하나가 틀린 것이다 — 검증용 기준.
+FIELD_OPTIMAL_WINDOW = (12.0, 36.0)
+FIELD_NO_AI_BEFORE_H = 12.0      # 이 전에는 '주입 금지'(수태율 낮음)
 
 
 def estrus_duration(parity: str = "sow", wei_days: float = NORMAL_WEI) -> float:
@@ -50,21 +60,63 @@ def ovulation_time(parity: str = "sow", wei_days: float = NORMAL_WEI) -> float:
     return estrus_duration(parity, wei_days) * OVULATION_FRAC
 
 
-def insemination_window(parity: str = "sow", wei_days: float = NORMAL_WEI) -> dict:
+def insemination_window(parity: str = "sow", wei_days: float = NORMAL_WEI,
+                        frac: float = 0.5) -> dict:
     """발정 시작 기준 최적 수정 창(h)과 권장 2회 수정 시각.
 
-    최적 창 = [배란 - 정자 수정능(24h), 배란 + 난자 유효(10h)의 절반] 로 잡되,
-    실무 안전을 위해 배란 직전 구간을 우선한다.
+    창을 상수식(배란-24h ~ 배란+5h)으로 박아두면 유효도 모델과 어긋난다.
+    **유효도가 정점의 frac 이상인 구간**을 창으로 삼아 모델과 항상 일치시킨다.
     """
     ov = ovulation_time(parity, wei_days)
-    start = max(0.0, ov - SPERM_VIABLE_H)
-    end = ov + OVUM_VIABLE_H / 2.0
+    grid = [i * 0.5 for i in range(0, int((ov + OVUM_VIABLE_H) / 0.5) + 1)]
+    effs = [(t, ai_efficacy(t, parity, wei_days)) for t in grid]
+    peak_t, peak_e = max(effs, key=lambda x: x[1])
+    ok = [t for t, e in effs if e >= frac * peak_e and e > 0]
+    start, end = (min(ok), max(ok)) if ok else (peak_t, peak_t)
     ai1, ai2 = optimal_ai_times(parity, wei_days)
     return {"parity": parity, "wei_days": float(wei_days),
             "estrus_duration_h": round(estrus_duration(parity, wei_days), 1),
             "ovulation_h": round(ov, 1),
+            "peak_h": round(peak_t, 1), "peak_efficacy": round(peak_e, 3),
             "window_start_h": round(start, 1), "window_end_h": round(end, 1),
             "ai1_h": ai1, "ai2_h": ai2}
+
+
+def estrus_timeline(parity: str = "sow", wei_days: float = NORMAL_WEI) -> dict:
+    """발정 전후 관찰 신호의 시간 구조(승가허용 시작 = 0h 기준).
+
+    현장 지침의 타임라인을 그대로 모델에 넣은 것. 관찰 신호마다 **나타나는
+    시점이 다르다**는 점이 중요하다 — 외음부 변화는 승가허용보다 이틀 먼저
+    시작하므로, 카메라가 외음부를 읽으면 **승가허용 전에 미리 알 수 있다**.
+    등누르기(배부압박) 반응은 창이 하루뿐이라 육안 점검은 놓치기 쉽다.
+    """
+    dur = estrus_duration(parity, wei_days)
+    return {
+        "vulva_change": (-48.0, 48.0),      # 외음부 발적·부종 — 약 4일간
+        "prodromal": (-24.0, 0.0),          # 발정징후(불안·발성) — 승가허용 전
+        "standing_heat": (0.0, dur),        # 승가허용(발정기간)
+        "back_pressure": (12.0, 36.0),      # 등누르기 검사 허용 — 약 1일
+        "ovulation": ovulation_time(parity, wei_days),
+        "ai_window": (FIELD_OPTIMAL_WINDOW[0], FIELD_OPTIMAL_WINDOW[1]),
+    }
+
+
+def check_against_field_guide(parity: str = "sow",
+                              wei_days: float = NORMAL_WEI) -> dict:
+    """모델 권장값이 현장 지침의 적기 구간 안에 있는지 검증.
+
+    지침은 '주입 금지(~12h) / 적기(12~36h) / 다음차(36h~)' 로 구간을 나눈다.
+    모델이 이 밖을 권하면 둘 중 하나가 틀렸다는 뜻이므로 드러내 놓고 본다.
+    """
+    w = insemination_window(parity, wei_days)
+    lo, hi = FIELD_OPTIMAL_WINDOW
+    times = [w["ai1_h"], w["ai2_h"]]
+    return {"parity": parity, "wei_days": wei_days,
+            "ai_times": times, "peak_h": w["peak_h"],
+            "field_window": FIELD_OPTIMAL_WINDOW,
+            "in_window": all(lo <= t <= hi for t in times),
+            "peak_in_window": lo <= w["peak_h"] <= hi,
+            "no_early_ai": all(t >= FIELD_NO_AI_BEFORE_H for t in times)}
 
 
 def optimal_ai_times(parity: str = "sow", wei_days: float = NORMAL_WEI,
@@ -94,34 +146,119 @@ def optimal_ai_times(parity: str = "sow", wei_days: float = NORMAL_WEI,
     return best
 
 
-def conception_prob(ai_hours: list, parity: str = "sow",
-                    wei_days: float = NORMAL_WEI, base: float = 0.90) -> float:
-    """수정 시각(발정 시작 후 h) 목록 → 기대 수태율.
+def ai_efficacy(ai_h: float, parity: str = "sow",
+                wei_days: float = NORMAL_WEI, steps: int = 200) -> float:
+    """수정 1회의 유효도 0~1 — 정자 가용 구간과 난자 유효 구간의 겹침으로 계산.
 
-    각 수정의 유효도는 **배란 대비 상대 시점**으로 정한다:
-      · 배란 24h 전 ~ 배란   : 최적(1.0 부근)
-      · 너무 이르면(정자 수명 초과) 또는 배란 후 늦으면 급감
-    여러 번 수정하면 실패 확률이 곱으로 줄어든다(독립 근사).
-    base 는 적기에 맞췄을 때의 상한(관리·정액 품질 등 다른 요인 포함).
+    이전 구현은 "배란 직전일수록 좋다"고 보아 **배란 시각 정각을 최적(1.0)** 으로
+    줬다. 그런데 현장 지침의 수태율 곡선은 배란보다 이른 시점에서 정점을 찍고
+    배란 무렵엔 이미 내려온다. 원인은 수정능획득이다 — 배란 직전에 주입한 정자는
+    아직 수정 능력이 없어, 난자가 나왔을 때 쓸 수 있는 정자가 없다.
+
+    그래서 시간 겹침을 직접 적분한다:
+      정자 수정 가능 구간 S = [주입 + 수정능획득, 주입 + 생존시간]
+      난자 유효 구간      O = [배란, 배란 + 난자수명]
+      유효도 = (1/난자수명) ∫_{S∩O} w_정자(경과) · w_난자(경과) dτ
+
+    가중치는 둘 다 시간이 갈수록 떨어진다(정자는 완만히, 난자는 급격히).
+    이 형태는 '배란 4~12h 전 주입이 최적'이라는 보고와 일치하며, 배란 직전·직후
+    주입이 나쁜 이유도 같은 식에서 자동으로 나온다.
     """
     ov = ovulation_time(parity, wei_days)
-    eff = []
-    for t in ai_hours:
-        d = float(t) - ov                       # 음수=배란 전, 양수=배란 후
-        if -SPERM_VIABLE_H <= d <= 0:
-            e = 1.0 - 0.3 * (abs(d) / SPERM_VIABLE_H)      # 직전일수록 좋음
-        elif 0 < d <= OVUM_VIABLE_H:
-            e = 1.0 - 0.7 * (d / OVUM_VIABLE_H)            # 배란 후 급감
-        else:
-            over = abs(d) - (SPERM_VIABLE_H if d < 0 else OVUM_VIABLE_H)
-            e = max(0.0, 0.3 - 0.02 * over)
-        eff.append(max(0.0, min(1.0, e)))
+    s0, s1 = float(ai_h) + CAPACITATION_H, float(ai_h) + SPERM_VIABLE_H
+    o0, o1 = ov, ov + OVUM_VIABLE_H
+    lo, hi = max(s0, o0), min(s1, o1)
+    if hi <= lo:
+        return 0.0
+    acc, dt = 0.0, (hi - lo) / steps
+    for i in range(steps):
+        tau = lo + (i + 0.5) * dt
+        age_s = tau - float(ai_h)                 # 주입 후 경과
+        age_o = tau - ov                          # 배란 후 경과
+        w_s = 1.0 - 0.4 * (age_s - CAPACITATION_H) / max(
+            1e-9, SPERM_VIABLE_H - CAPACITATION_H)
+        w_o = 1.0 - age_o / OVUM_VIABLE_H
+        acc += max(0.0, w_s) * max(0.0, w_o) * dt
+    return max(0.0, min(1.0, acc / OVUM_VIABLE_H))
+
+
+def conception_prob(ai_hours: list, parity: str = "sow",
+                    wei_days: float = NORMAL_WEI, base: float = 1.55) -> float:
+    """수정 시각(발정 시작 후 h) 목록 → 기대 수태율.
+
+    여러 번 수정하면 실패 확률이 곱으로 줄어든다(독립 근사).
+    base 는 유효도를 수태율로 환산하는 계수 — 적기 2회 수정 시 85~90% 대가
+    나오도록 잡았다(관리·정액 품질 등 다른 요인이 이미 반영된 상한).
+    """
+    eff = [ai_efficacy(t, parity, wei_days) for t in ai_hours]
     if not eff:
         return 0.0
     fail = 1.0
     for e in eff:
-        fail *= (1.0 - base * e)
+        fail *= max(0.0, 1.0 - base * e)
     return round(1.0 - fail, 3)
+
+
+def timing_under_detection(check_interval_h: float, offsets=(12.0, 24.0),
+                           parity: str = "sow", wei_days: float = NORMAL_WEI,
+                           steps: int = 24) -> float:
+    """**발정 확인 주기**가 수태율에 미치는 영향 — 이 앱의 실제 가치.
+
+    적기 계산이 아무리 정확해도 **발정이 언제 시작됐는지 모르면** 쓸 수 없다.
+    하루 2회 육안 점검이면 발정 시작을 최대 12h 늦게 알게 되고, 수정 시각은
+    그만큼 통째로 밀린다. 즉 관행 대비 개선의 본질은 '더 좋은 시각표'가 아니라
+    **관측 지연의 제거**다.
+
+    점검 주기 T 일 때 실제 발정 시작은 발견 시점보다 U(0,T) 만큼 앞이다.
+    수정은 '발견 + offset' 에 하므로 발정 시작 기준으로는 offset + U(0,T) 가
+    된다. 그 분포에 대한 기대 수태율을 반환한다.
+    """
+    T = max(0.0, float(check_interval_h))
+    if T <= 1e-9:
+        return conception_prob(list(offsets), parity, wei_days)
+    tot = 0.0
+    for i in range(steps):
+        lag = (i + 0.5) * T / steps          # 발견이 늦은 정도
+        tot += conception_prob([o + lag for o in offsets], parity, wei_days)
+    return round(tot / steps, 3)
+
+
+def best_offsets_for_interval(check_interval_h: float, parity: str = "sow",
+                              wei_days: float = NORMAL_WEI,
+                              min_gap_h: float = 8.0) -> tuple:
+    """점검 주기 T 를 아는 농장이 고를 **최적 고정 프로토콜**(발견 후 h).
+
+    이게 없으면 비교가 불공정해진다. 적기 오프셋(24/32h)을 그대로 둔 채 지연만
+    키우면 하루 1회 점검의 수태율이 0.37 로 나왔다 — 현실에 없는 숫자다. 실제로
+    하루 1회 점검하는 농장은 발견이 늦다는 걸 알고 **더 이르게** 주입한다.
+    그러니 각 주기마다 그 주기에 맞는 최선의 프로토콜을 찾아 비교해야 하고,
+    남는 차이가 곧 **불확실성 자체의 비용**이다.
+    """
+    grid = [i * 2.0 for i in range(0, 19)]          # 발견 후 0~36h
+    best, best_p = (0.0, min_gap_h), -1.0
+    for i, a in enumerate(grid):
+        for b in grid[i:]:
+            if b - a < min_gap_h:
+                continue
+            p = timing_under_detection(check_interval_h, (a, b), parity, wei_days)
+            if p > best_p:
+                best_p, best = p, (a, b)
+    return best
+
+
+def detection_value(check_interval_h: float, parity: str = "sow",
+                    wei_days: float = NORMAL_WEI) -> dict:
+    """점검 주기별 기대 수태율 + 연속 관측(CCTV) 대비 손실.
+
+    각 주기는 **그 주기에 최적화된 프로토콜**을 쓴다고 가정한다(공정 비교).
+    """
+    w = insemination_window(parity, wei_days)
+    best = conception_prob([w["ai1_h"], w["ai2_h"]], parity, wei_days)
+    off = best_offsets_for_interval(check_interval_h, parity, wei_days)
+    got = timing_under_detection(check_interval_h, off, parity, wei_days)
+    return {"check_interval_h": check_interval_h, "conception": got,
+            "offsets": off, "best_possible": best,
+            "loss_pp": round((best - got) * 100, 1)}
 
 
 # --------------------------------------------------------------------------
@@ -168,22 +305,45 @@ def economics(n_sows: int, cr_before: float, cr_after: float,
 
 
 def main() -> int:
-    print("=== 교배 적기 (발정 시작 기준 시간) ===")
+    print("=== 발정 전후 타임라인 (승가허용 시작 = 0h) ===")
+    tl = estrus_timeline("sow", NORMAL_WEI)
+    for k, label in (("vulva_change", "외음부 변화"), ("prodromal", "발정징후"),
+                     ("standing_heat", "승가허용"), ("back_pressure", "등누르기 허용"),
+                     ("ai_window", "주입 적기(지침)")):
+        a, b = tl[k]
+        print(f"  {label:<14} {a:>+6.0f}h ~ {b:>+6.0f}h")
+    print(f"  {'배란':<14} {tl['ovulation']:>+6.0f}h")
+    print("  → 외음부 변화는 승가허용보다 이틀 먼저 시작한다. 카메라가 외음부를"
+          "\n    읽으면 승가허용 전에 미리 대비할 수 있다(조기 신호).")
+
+    print("\n=== 수정 유효도 곡선 (sow, WEI 7 · 배란 36h) ===")
+    for t in range(0, 45, 4):
+        e = ai_efficacy(t, "sow", NORMAL_WEI)
+        zone = ("주입금지" if t < FIELD_NO_AI_BEFORE_H else
+                "적기" if t <= FIELD_OPTIMAL_WINDOW[1] else "늦음")
+        print(f"  {t:>3}h {e:.3f} {'█' * int(e * 50):<26} {zone}")
+
+    print("\n=== 교배 적기 (발정 시작 기준 시간) ===")
     for parity in ("sow", "gilt"):
         for wei in (4, 7, 10):
             w = insemination_window(parity, wei)
+            chk = check_against_field_guide(parity, wei)
+            ok = "지침 적기 내" if chk["in_window"] else "⚠ 지침 이탈"
             print(f"  {parity:5s} WEI {wei:2d}일 → 발정지속 {w['estrus_duration_h']}h · "
                   f"배란 {w['ovulation_h']}h · 창 {w['window_start_h']}~{w['window_end_h']}h · "
-                  f"권장 수정 {w['ai1_h']}h, {w['ai2_h']}h")
+                  f"권장 {w['ai1_h']}h, {w['ai2_h']}h  [{ok}]")
 
-    print("\n=== 관행(12/24h 일괄) vs 적기 맞춤 — 기대 수태율 ===")
-    for parity in ("sow", "gilt"):
-        for wei in (4, 7, 10):
-            w = insemination_window(parity, wei)
-            rout = conception_prob([12, 24], parity, wei)
-            opt = conception_prob([w["ai1_h"], w["ai2_h"]], parity, wei)
-            print(f"  {parity:5s} WEI {wei:2d}일 → 관행 {rout:.3f} vs 적기 {opt:.3f} "
-                  f"({opt - rout:+.3f})")
+    print("\n=== 발정 확인 주기가 수태율에 미치는 영향 (앱의 실제 가치) ===")
+    print("  각 주기는 '그 주기에 최적화된 프로토콜'을 쓴다고 본다 — 공정 비교.")
+    for iv, label in ((0, "연속(CCTV)"), (2, "2시간"), (6, "6시간"),
+                      (12, "하루 2회"), (24, "하루 1회")):
+        d = detection_value(iv, "sow", NORMAL_WEI)
+        print(f"  {label:<10} 프로토콜 발견+{d['offsets'][0]:.0f}/{d['offsets'][1]:.0f}h → "
+              f"수태율 {d['conception']:.3f}  (연속 대비 {-d['loss_pp']:+.1f}pp)")
+    print("  → 하루 2회 점검의 최적 프로토콜이 '발견 후 14/22h' 로 나오는데, 이는"
+          "\n    현장 지침의 12/24h 관행과 사실상 같다. 모델이 관행을 독립적으로"
+          "\n    재현한 셈이며, 거꾸로 관행은 '하루 2회 점검'을 전제로 최적이다.")
+    print("  → 즉 개선의 본질은 시각표가 아니라 **관측 지연의 제거**다.")
 
     print("\n=== 회전율·공태일 (수태율의 영향) ===")
     for cr in (0.70, 0.80, 0.85, 0.90):

@@ -79,9 +79,22 @@ def expected_wei(parity: str = "sow", season_hot: bool = False) -> float:
     return w + (1.5 if season_hot else 0.0)
 
 
+def _preg_checks(service_date) -> list:
+    """교배일 → 임신진단 작업들.
+
+    임신감정을 '교배 후 30일 초음파' 한 번으로 두면 현장 지침과 어긋난다.
+    실제 1차 관문은 3주 발정체크이고 재발돈의 80% 가 거기서 드러난다. 그래서
+    재발정 확인과 임신진단을 따로 두지 않고 **3단계 체크포인트**로 합친다.
+    """
+    import pregnancy_check as pc
+    return pc.checkpoint_tasks(service_date)
+
+
 def _finish(tasks: list) -> list:
+    # 이미 우선순위가 실린 작업(임신진단 체크포인트 등)은 덮어쓰지 않는다 —
+    # 관문마다 잡아내는 몫이 달라 같은 '임신감정'이라도 급함이 다르다.
     for t in tasks:
-        t["priority"] = PRIORITY.get(t["task"], 10)
+        t.setdefault("priority", PRIORITY.get(t["task"], 10))
     return sorted(tasks, key=lambda t: (t["date"], -t["priority"]))
 
 
@@ -111,12 +124,7 @@ def schedule_from_estrus(estrus, parity: str = "sow", wei_days: float | None = N
                                  f"배란 추정 {win['ovulation_h']:.0f}h"),
                       "estimated": est})
     svc = ai_dts[0].date()
-    tasks += [
-        {"date": svc + timedelta(days=RETURN_CHECK), "task": "재발정 확인",
-         "detail": f"교배 후 {RETURN_CHECK}일 — 발정이 돌아오면 임신 실패",
-         "estimated": True},
-        {"date": svc + timedelta(days=PREG_CHECK_US), "task": "임신감정",
-         "detail": f"초음파 (교배 후 {PREG_CHECK_US}일)", "estimated": True},
+    tasks += _preg_checks(svc) + [
         {"date": svc + timedelta(days=GESTATION - MOVE_BEFORE_FARROW),
          "task": "분만사 이동", "detail": f"분만 {MOVE_BEFORE_FARROW}일 전",
          "estimated": True},
@@ -165,10 +173,7 @@ def schedule_from_service(service, parity: str = "sow") -> list:
     s = _d(service)
     tasks = [
         {"date": s, "task": "교배", "detail": "입력된 교배일", "estimated": False},
-        {"date": s + timedelta(days=RETURN_CHECK), "task": "재발정 확인",
-         "detail": f"교배 후 {RETURN_CHECK}일", "estimated": True},
-        {"date": s + timedelta(days=PREG_CHECK_US), "task": "임신감정",
-         "detail": f"초음파 (교배 후 {PREG_CHECK_US}일)", "estimated": True},
+        *_preg_checks(s),
         {"date": s + timedelta(days=GESTATION - MOVE_BEFORE_FARROW),
          "task": "분만사 이동", "detail": f"분만 {MOVE_BEFORE_FARROW}일 전",
          "estimated": True},

@@ -533,10 +533,45 @@ def test_breeding_timing() -> None:
             opt = bt.conception_prob([w["ai1_h"], w["ai2_h"]], parity, wei)
             routine = bt.conception_prob([12, 24], parity, wei)
             assert opt >= routine - 1e-9, f"{parity} WEI{wei}: 권장이 관행보다 나쁨"
-            assert w["window_start_h"] < w["ovulation_h"] < w["window_end_h"] + 1e-9
-    # 배란 한참 뒤 수정은 수태율이 급감한다
+            # 창은 유효도 정점을 포함하고, 정점은 **배란보다 앞**이어야 한다
+            # (수정능획득 때문 — 배란 정각 주입은 이미 늦다)
+            assert w["window_start_h"] <= w["peak_h"] <= w["window_end_h"]
+            assert w["peak_h"] < w["ovulation_h"], "정점이 배란 이후 — 수정능획득 누락"
+
+    # 수정능획득 지연: 배란 직전 주입보다 몇 시간 앞선 주입이 낫다
     ov = bt.ovulation_time("sow", 7)
+    assert bt.ai_efficacy(ov - 8, "sow", 7) > bt.ai_efficacy(ov, "sow", 7)
+    # 지침의 '주입 금지' 구간은 유효도가 낮아야 한다
+    assert bt.ai_efficacy(0, "sow", 7) < 0.05
+    assert bt.ai_efficacy(4, "sow", 7) < bt.ai_efficacy(24, "sow", 7)
+    # 배란 한참 뒤 수정은 수태율이 급감한다
     assert bt.conception_prob([ov - 6], "sow", 7) > bt.conception_prob([ov + 30], "sow", 7)
+
+    # 현장 지침(적기 12~36h)과 대조 — 권장값이 구간을 벗어나면 안 된다
+    for parity in ("sow", "gilt"):
+        for wei in (4, 7, 10):
+            c = bt.check_against_field_guide(parity, wei)
+            assert c["in_window"], f"{parity} WEI{wei}: 권장 {c['ai_times']} 이 지침 이탈"
+            assert c["peak_in_window"] and c["no_early_ai"]
+
+    # 관측 지연: 점검 주기가 길수록 수태율이 떨어진다(각 주기의 최적 프로토콜 기준).
+    # 오프셋을 고정한 채 지연만 키우면 하루 1회 점검이 0.37 로 나오는 비현실적
+    # 결과가 됐다 — 주기마다 최적 프로토콜을 다시 찾아 비교해야 한다.
+    prev = None
+    for iv in (0, 6, 12, 24):
+        d = bt.detection_value(iv, "sow", 7)
+        assert 0.5 < d["conception"] <= 1.0, f"{iv}h 주기 수태율 {d['conception']}"
+        if prev is not None:
+            assert d["conception"] <= prev + 1e-9, "점검이 뜸한데 수태율이 올랐다"
+        prev = d["conception"]
+    # 점검이 뜸할수록 프로토콜은 더 이르게 잡혀야 한다(지연을 미리 상쇄)
+    assert (bt.best_offsets_for_interval(24, "sow", 7)[0]
+            < bt.best_offsets_for_interval(0, "sow", 7)[0])
+
+    tl = bt.estrus_timeline("sow", 7)
+    assert tl["vulva_change"][0] < tl["standing_heat"][0], \
+        "외음부 변화가 승가허용보다 늦다 — 조기 신호가 성립하지 않음"
+    assert tl["prodromal"][1] <= tl["standing_heat"][0]
     # 회전율: 수태율이 높을수록 회전 빠르고 공태일 적다
     assert bt.turnover(0.9) > bt.turnover(0.7)
     assert bt.npd(0.9) < bt.npd(0.7)
@@ -663,6 +698,51 @@ def test_repro_calendar() -> None:
     assert late and all(t["late_days"] > 0 for t in late)
 
 
+def test_pregnancy_check() -> None:
+    """임신진단 3단계: 캐스케이드 보존·조기검출 이득·초음파 의존성."""
+    import pregnancy_check as pc
+    shares = sum(c[4] for c in pc.CHECKPOINTS)
+    assert abs(shares - 1.0) < 1e-9, f"재발 비율 합이 {shares} (1.0 이어야)"
+    # 1차 관문은 초음파가 아니라 발정체크 — 이 프로젝트의 근거
+    assert pc.CHECKPOINTS[0][5] == "재발정 확인" and pc.CHECKPOINTS[0][4] == 0.80
+
+    rows = pc.detection_cascade()
+    total = sum(r["caught"] for r in rows) + rows[-1]["missed_forward"]
+    assert abs(total - 1.0) < 1e-6, f"캐스케이드 총합 {total} — 재발돈이 사라졌다"
+    assert (rows[0]["npd_if_caught"] < rows[1]["npd_if_caught"]
+            < rows[2]["npd_if_caught"]), "늦게 잡을수록 공태일이 길어야 한다"
+
+    # 민감도가 높을수록 기대 공태일이 짧다
+    good = pc.npd_from_returns(pc.CCTV_SENSITIVITY)
+    poor = pc.npd_from_returns(pc.DEFAULT_SENSITIVITY)
+    assert good < poor, "3주 검출을 개선했는데 공태일이 줄지 않음"
+    assert 18 <= good <= 114
+
+    v = pc.value_of_early(300)
+    assert v["won_saved_year"] > 0 and v["npd_saved_per_return"] > 0
+    # 초음파가 부실할수록 3주 개선의 가치가 커진다(과장 방지용 회귀)
+    strict = pc.value_of_early(300,
+                               base_sens={"3주": .70, "5주": .95, "8~10주": .90},
+                               improved_sens={"3주": .92, "5주": .95, "8~10주": .90})
+    none_us = pc.value_of_early(300,
+                                base_sens={"3주": .70, "5주": .0, "8~10주": .90},
+                                improved_sens={"3주": .92, "5주": .0, "8~10주": .90})
+    assert none_us["won_saved_year"] > strict["won_saved_year"], \
+        "초음파 유무와 무관하게 같은 이득이 나옴 — 캐스케이드가 작동하지 않는다"
+
+    tasks = pc.checkpoint_tasks("2026-08-16")
+    assert len(tasks) == 3
+    assert [t["date"] for t in tasks] == sorted(t["date"] for t in tasks)
+    assert tasks[0]["priority"] > tasks[1]["priority"], \
+        "80% 를 잡는 관문이 더 급해야 한다"
+
+    # 캘린더에 3단계가 실제로 반영됐는지
+    import repro_calendar as rc
+    sched = rc.schedule_from_service("2026-08-16")
+    cps = [t for t in sched if t["task"] in ("재발정 확인", "임신감정")]
+    assert len(cps) == 3, f"캘린더에 체크포인트가 {len(cps)}개"
+
+
 def test_herd_board() -> None:
     """모돈군 현황판: 단계 판정·주차 파이프라인·산차 구성·도태·전입 계획."""
     from datetime import date, timedelta
@@ -723,7 +803,7 @@ def main() -> int:
              test_keypoints_parser_pose, test_pose_vs_behavior_eval,
              test_motion_tracker, test_box_merge, test_temporal_features,
              test_breeding_timing, test_stall_estrus, test_feeding_monitor,
-             test_repro_calendar, test_herd_board]
+             test_repro_calendar, test_pregnancy_check, test_herd_board]
     failed = 0
     for t in tests:
         try:
