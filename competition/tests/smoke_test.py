@@ -545,6 +545,35 @@ def test_breeding_timing() -> None:
     assert e["won_saved_year"] > 0 and e["turnover_after"] > e["turnover_before"]
 
 
+def test_stall_estrus() -> None:
+    """교배사(스톨) 발정 지표: 자세 기반 특징 추출과 점수화."""
+    import pandas as pd
+    import stall_estrus as se
+    # A: 기립 많고 전환 잦음(발정 양상) / B: 계속 누움
+    rows = []
+    for f in range(40):
+        rows.append({"stall_id": "A", "frame_idx": f,
+                     "posture": "standing" if f % 3 else "lying"})
+        rows.append({"stall_id": "B", "frame_idx": f, "posture": "lying"})
+    feat = se.stall_features(pd.DataFrame(rows)).set_index("stall_id")
+    assert feat.loc["A", "stand_frac"] > feat.loc["B", "stand_frac"]
+    assert feat.loc["A", "transitions"] > feat.loc["B", "transitions"]
+    assert feat.loc["B", "lie_frac"] == 1.0
+    sc = se.estrus_score(se.stall_features(pd.DataFrame(rows))).set_index("stall_id")
+    assert sc.loc["A", "estrus_score"] > sc.loc["B", "estrus_score"]
+    # 부동자세: 연속 기립이 길면 immobile_frac 이 잡힌다
+    long_stand = [{"stall_id": "C", "frame_idx": f, "posture": "standing"}
+                  for f in range(30)]
+    fc = se.stall_features(pd.DataFrame(long_stand)).iloc[0]
+    assert fc["longest_stand"] == 30 and fc["immobile_frac"] == 1.0
+    # 합성 시연이 **완전 분리(AUC 1.0)가 아니어야** 한다(개체차 반영)
+    from sklearn.metrics import roc_auc_score
+    ts, truth = se.generate_demo(n_stalls=40, seed=0)
+    d = se.estrus_score(se.stall_features(ts)).merge(truth, on="stall_id")
+    auc = roc_auc_score(d["estrus"], d["estrus_score"])
+    assert 0.5 < auc < 0.99, f"합성이 비현실적으로 쉬움(AUC {auc:.3f})"
+
+
 def main() -> int:
     tests = [test_dependencies_import, test_aihub_client_no_key,
              test_pipeline_runs, test_aihub_parsers,
@@ -558,7 +587,7 @@ def main() -> int:
              test_estrus_calendar_link, test_estrus_contrast_eval,
              test_keypoints_parser_pose, test_pose_vs_behavior_eval,
              test_motion_tracker, test_box_merge, test_temporal_features,
-             test_breeding_timing]
+             test_breeding_timing, test_stall_estrus]
     failed = 0
     for t in tests:
         try:
