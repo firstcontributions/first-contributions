@@ -6,7 +6,7 @@
 - [kiron](https://github.com/KironLimbu)
 - [Uchenna Bethel Orji](https://github.com/ucbethuel)
 - [Avadh Savaliya](https://github.com/avadh-7)
-- [Pavithra S] (https://github.com/Pavi1205)
+- [Pavithra S](https://github.com/Pavi1205)
 - [betterkite502](https://github.com/betterkite)
 - First contribution
 - Second Contribution
