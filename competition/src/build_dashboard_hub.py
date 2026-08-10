@@ -19,6 +19,8 @@ OUT = os.path.join(DASH, "index.html")
 
 # 뷰 카드 (파일, 제목, 설명, 아이콘, 카테고리)
 VIEWS = [
+    ("breeding_console.html", "번식 관리 콘솔", "조치 큐·향후 일정·17주 파이프라인·임신진단·교배 적기 — 번식 운영 전반", "📋", "운영"),
+    ("barn_map.html", "농장 도면 관제", "축사 배치도 위에 사육현황·환경(THI)·오늘의 업무를 겹쳐 표시", "🗺️", "운영"),
     ("reference_report.html", "발정 표준 리포트", "AI Hub 71471 발정 기준으로 케글 데이터 분석 + 실영상 근거", "🎯", "분석"),
     ("edinburgh.html", "활동·발정 모니터링", "개체 시계열 활동량 + 행동→발정 의심 지수", "📈", "분석"),
     ("estrus_timeline.html", "개체별 발정 타임라인", "IoU 추적으로 개체 ID 부여 → 개체별 발정 점수 시계열(실영상)", "⏱️", "분석"),
@@ -78,6 +80,8 @@ h2{{font-size:.85rem;color:var(--muted);text-transform:uppercase;letter-spacing:
 <div class="kpis">{kpi_html}</div>
 <div class="flow">파이프라인: <b>탐지</b>(YOLO) → <b>추적/활동</b>(점유·활동량) → <b>행동 인식</b>(기하+모션+외형) → <b>발정 연계</b>(71471 표준) → <b>판정·근거</b>(리포트+실영상)</div>
 
+<h2>번식 운영 (현장용)</h2>
+<div class="grid">{cards_by(cat="운영")}</div>
 <h2>분석 · 리포트</h2>
 <div class="grid">{cards_by(cat="분석")}</div>
 <h2>데이터 탐색 · 시각화</h2>

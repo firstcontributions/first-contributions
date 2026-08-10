@@ -166,9 +166,15 @@ def ledger(farm: fr.Farm, herd: pd.DataFrame, schedules: dict,
     # 발정 신호 ↔ 번식 단계 모순. 곱해서 뭉개지 않고 별도 열로 남긴다.
     exp = df["stage"].map(EXPECT_ESTRUS)
     hot = df["estrus_score"] >= ESTRUS_HI
-    df["conflict"] = np.where(hot & (exp == False),  # noqa: E712
-                              "임신·포유 중 발정 신호 — 유산/오진/개체 오인 의심",
-                              None)
+    # dtype 에 주의. pandas 3 은 [str, None, ...] 을 str dtype 으로 추론하면서
+    # None 을 **float NaN** 으로 바꾼다. 그런데 bool(nan) 은 True 라서, dict 로
+    # 꺼내 `if row["conflict"]:` 로 판정하면 전 개체가 경보로 잡힌다(실제로 68두
+    # 전부가 그렇게 됐다). notna() 로는 정상으로 보여 더 늦게 발견된다.
+    # object dtype 을 강제해 진짜 None 을 유지한다.
+    MSG = "임신·포유 중 발정 신호 — 유산/오진/개체 오인 의심"
+    df["conflict"] = pd.Series(
+        [MSG if (bool(h) and e is not None and e == e and not e) else None
+         for h, e in zip(hot, exp)], index=df.index, dtype=object)
     # 긴급도. 지연을 선형으로 키우면 19일 지난 임신감정이 **오늘 해야 할 교배**를
     # 눌러버린다. 교배·분만·발정관찰은 놓치면 그날로 기회가 사라지고 다음 발정
     # (21일)까지 기다려야 하므로, 임박한 시한작업에 별도 가중을 준다.

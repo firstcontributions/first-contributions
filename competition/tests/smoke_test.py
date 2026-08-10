@@ -937,6 +937,87 @@ def test_breeding_ledger() -> None:
     assert wl["합계"].sum() == len(up), "작업량 총합이 향후 일정 건수와 다름"
 
 
+def test_barn_environment() -> None:
+    """THI 계산·구간 판정·착상기 위험군 교차."""
+    import barn_environment as be
+    import farm_registry as fr
+    import herd_board as hb
+    # 같은 온도라도 습도가 높으면 THI 가 높다(온도만으로 판정하면 안 되는 이유)
+    assert be.thi(30, 80) > be.thi(30, 40)
+    assert be.thi(20, 60) < be.thi(30, 60)
+    assert be.band(90)[0] == "중증" and be.band(60)[0] == "적정"
+    assert be.band(80)[0] == "중등도" and be.band(76)[0] == "경증"
+
+    env = be.assess({"A": (30.0, 80.0), "B": (18.0, 55.0)})
+    a = env.set_index("barn")
+    assert bool(a.loc["A", "heat_stress"]) and not bool(a.loc["B", "heat_stress"])
+    assert a.loc["A", "wei_penalty_d"] > a.loc["B", "wei_penalty_d"]
+    assert (env["thi"] > 0).all()
+
+    farm = fr.demo_farm()
+    ids = sorted(farm._where)
+    recs = hb.generate_demo(n=len(ids) + 40, today="2026-08-10")[:len(ids)]
+    for r, i in zip(recs, ids):
+        r["id"] = i
+    herd = hb.build_herd(recs, today="2026-08-10")
+    hot = be.assess(be.demo_readings(hot_summer=True))
+    risk = be.at_risk_services(herd, hot, farm)
+    lo, hi = be.IMPLANTATION_WINDOW
+    if len(risk):
+        # 일 단위여야 한다(주차로 재면 7일 단위로 뭉개져 경계가 흐려진다)
+        assert risk["days_since_service"].between(lo, hi).all()
+        assert (risk["days_since_service"] % 7 != 0).any(), "주 단위로 뭉개졌다"
+    # 서늘하면 위험군이 없어야 한다
+    cool = be.assess(be.demo_readings(hot_summer=False))
+    assert not len(be.at_risk_services(herd, cool, farm))
+
+
+def test_dashboard_builders() -> None:
+    """새 웹 뷰 2종이 자체완결 HTML 로 생성되는지 + 상태 판정 회귀."""
+    import os
+    import build_barn_map as bm
+    import build_breeding_console as bc
+    import breeding_ledger as bl
+
+    today = "2026-08-10"
+    farm, herd, scheds, scores = bl.build_demo(today)
+    led = bl.ledger(farm, herd, scheds, scores, today=today)
+
+    # 결측 판정 회귀: pandas 를 거친 None 은 float NaN 이 되고 bool(nan) 은 True.
+    # 그대로 두면 전 개체가 '경보'로 칠해진다(실제로 68/68 이 그랬다).
+    assert not bm._present(float("nan")) and not bm._present(None)
+    assert bm._present("x") and bm._present(0)
+    pairs = [bm.cell_status(r) for r in led.to_dict("records")]
+    kinds = {s for s, _ in pairs}
+    assert "정상" in kinds, "조치 없음 개체가 하나도 없다 — 결측 판정이 깨졌다"
+    n_alert = sum(1 for s, _ in pairs if s == "경보")
+    assert n_alert == len(bl.conflicts(led)), "도면 경보 수가 모순 목록과 불일치"
+    assert n_alert < len(led), "전 개체가 경보"
+
+    # 지연은 색이 아니라 테두리 — 오늘 교배할 개체가 지연 색으로 덮이면 안 된다
+    ai_today = [r for r in led.to_dict("records")
+                if r["next_task"] == "교배" and r["d_day"] == 0
+                and (r["overdue_days"] or 0) > 0]
+    for r in ai_today:
+        st, late = bm.cell_status(r)
+        assert st == "교배" and late, "지연이 임박한 교배를 덮어씀"
+    assert "지연" not in bm.STATUS, "지연이 색 범례에 남아 있다"
+
+    layout = bm.build_layout(farm, led)
+    total = sum(len(p["cells"]) for b in layout.values() for p in b["pens"])
+    assert total == len(farm.table()), "도면 칸 수가 배치 두수와 다름"
+
+    for mod in (bc, bm):
+        assert mod.main() == 0
+        assert os.path.exists(mod.OUT) and os.path.getsize(mod.OUT) > 8000
+        page = open(mod.OUT, encoding="utf-8").read()
+        assert page.startswith("<!DOCTYPE html>") and page.rstrip().endswith("</html>")
+        # 자체완결: 외부 리소스를 부르면 안 된다
+        for bad in ("http://", "https://", "<script src", "cdn."):
+            assert bad not in page, f"{os.path.basename(mod.OUT)} 에 외부 참조 {bad}"
+        assert 'prefers-color-scheme' in page, "다크 모드 대응 없음"
+
+
 def rc_date(x):
     import repro_calendar as rc
     return rc._d(x)
@@ -957,7 +1038,8 @@ def main() -> int:
              test_motion_tracker, test_box_merge, test_temporal_features,
              test_breeding_timing, test_stall_estrus, test_feeding_monitor,
              test_repro_calendar, test_pregnancy_check, test_herd_board,
-             test_farm_registry, test_breeding_ledger]
+             test_farm_registry, test_breeding_ledger, test_barn_environment,
+             test_dashboard_builders]
     failed = 0
     for t in tests:
         try:
