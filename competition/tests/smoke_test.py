@@ -881,6 +881,67 @@ def test_herd_board() -> None:
         "수태 실패분을 감안하면 교배 목표가 분만 목표보다 커야 한다"
 
 
+def test_breeding_ledger() -> None:
+    """통합 관리표: 완료 추론·조치 가능 지연·모순 검출·향후 일정·작업량."""
+    from datetime import date, timedelta
+    import breeding_ledger as bl
+    today = "2026-08-10"
+    farm, herd, scheds, scores = bl.build_demo(today)
+    led = bl.ledger(farm, herd, scheds, scores, today=today)
+    assert len(led) == len(farm.table()), "관리표 행 수가 배치 두수와 다름"
+    assert led["id"].nunique() == len(led), "개체 중복"
+    for c in ("loc", "stage", "estrus", "pregnancy", "next_task", "d_day",
+              "action", "conflict", "urgency"):
+        assert c in led.columns, f"{c} 열 없음"
+
+    # 완료 추론 회귀: 분만한 모돈에게 '교배 142일 경과' 를 띄우면 안 된다
+    assert (led["overdue_days"] <= bl.OVERDUE_HORIZON).all(), \
+        "조치 불가능한 과거 작업이 지연 큐에 남아 있다"
+    lact = led[led["stage"] == "포유"]
+    assert not (lact["overdue"] == "교배").any(), \
+        "이미 분만한 모돈이 교배 미실시로 잡힘"
+
+    # 후보돈에게 '이유' 작업이 생기면 안 된다
+    gilts = set(led[led["stage"] == "후보"]["id"])
+    for g in gilts:
+        assert not any(t["task"] == "이유" and t["date"] <= rc_date(today)
+                       for t in scheds[g]), f"{g}: 후보돈에 이유 작업"
+
+    # 시한작업 우선: 오늘 교배해야 할 개체가 단순 지연 건보다 위에 있어야 한다
+    ai_today = led[(led["next_task"] == "교배") & (led["d_day"] == 0)]
+    if len(ai_today):
+        routine = led[(led["next_task"] == "임신감정") & (led["d_day"] > 5)]
+        if len(routine):
+            assert ai_today["urgency"].max() > routine["urgency"].max(), \
+                "오늘 교배가 여유 있는 임신감정보다 아래로 밀림"
+
+    # 모순: 임신 중 발정 신호는 별도로 남아야 한다(곱해서 뭉개지 않는다)
+    cf = bl.conflicts(led)
+    hot_preg = led[(led["estrus_score"] >= bl.ESTRUS_HI)
+                   & (led["stage"].isin(("임신", "포유")))]
+    assert len(cf) == len(hot_preg), "임신 중 발정 신호가 누락됨"
+    if len(cf):
+        assert cf["conflict"].str.len().gt(0).all()
+
+    up = bl.upcoming(scheds, today=today, days=14, farm=farm)
+    assert len(up) and (up["d_day"].between(0, 14)).all()
+    assert up["d_day"].is_monotonic_increasing
+    assert up["loc"].str.len().gt(0).all(), "향후 일정에 위치가 비었다"
+
+    wl = bl.workload(scheds, today=today, days=14)
+    assert "합계" in wl.columns and len(wl)
+    task_cols = [c for c in wl.columns if c not in ("date", "합계")]
+    # 표가 전부 0 으로 찍히던 회귀(공백 든 한글 컬럼명 접근 실패)
+    assert wl[task_cols].to_numpy().sum() > 0, "작업량 표가 비었다"
+    assert (wl[task_cols].sum(axis=1) == wl["합계"]).all(), "합계 불일치"
+    assert wl["합계"].sum() == len(up), "작업량 총합이 향후 일정 건수와 다름"
+
+
+def rc_date(x):
+    import repro_calendar as rc
+    return rc._d(x)
+
+
 def main() -> int:
     tests = [test_dependencies_import, test_aihub_client_no_key,
              test_pipeline_runs, test_aihub_parsers,
@@ -896,7 +957,7 @@ def main() -> int:
              test_motion_tracker, test_box_merge, test_temporal_features,
              test_breeding_timing, test_stall_estrus, test_feeding_monitor,
              test_repro_calendar, test_pregnancy_check, test_herd_board,
-             test_farm_registry]
+             test_farm_registry, test_breeding_ledger]
     failed = 0
     for t in tests:
         try:
