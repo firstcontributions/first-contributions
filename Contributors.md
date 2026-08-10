@@ -14,6 +14,7 @@
 - HelaElbez
 - first contribution
 - Daniel Batistella
+- [Jody Haynes]
 yuvraj
 - Rohit Negi
 - [soupnaie-mnm]
