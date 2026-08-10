@@ -1169,6 +1169,30 @@ def test_dashboard_builders() -> None:
     assert f'{est_ai["date"]:%Y-%m-%d}' in app, "예정일이 실제 일정과 다름"
     assert f'{wean:%Y-%m-%d}' in app, "이유일이 화면에 없음"
 
+    # 동작 프로토타입: 심는 데이터가 유효한 JSON 이고 다른 뷰와 값이 맞는지
+    import json
+    import build_app_prototype as bap
+    P = bap.build_payload()
+    for k in ("animals", "sched", "barns", "board", "kpi", "ai",
+              "statusColors", "stageColors"):
+        assert k in P, f"payload 에 {k} 없음"
+    assert len(P["animals"]) == len(led)
+    assert P["kpi"]["nAct"] == n_act, "프로토타입 조치 대상 수가 도면과 불일치"
+    assert P["kpi"]["nConf"] == len(bl.conflicts(led))
+    # NaN 이 새면 JS 에서 truthy 로 잘못 동작한다 — allow_nan=False 로 잡는다
+    json.dumps(P, allow_nan=False)
+    assert all(a["conflict"] is None or isinstance(a["conflict"], str)
+               for a in P["animals"]), "conflict 에 NaN 이 남았다"
+    ids = {a["id"] for a in P["animals"]}
+    assert all(s["id"] in ids for b in P["barns"] for p in b["pens"]
+               for s in p["slots"]), "도면 칸이 없는 개체를 가리킨다"
+    assert set(P["sched"]) >= ids, "일정이 없는 개체가 있다"
+    assert bap.main() == 0
+    proto = open(bap.OUT, encoding="utf-8").read()
+    for bad in ("http://", "https://", "<script src", "cdn."):
+        assert bad not in proto, f"프로토타입에 외부 참조 {bad}"
+    assert "prefers-color-scheme" in proto
+
     for mod in (bc, bm, bas):
         assert mod.main() == 0
         assert os.path.exists(mod.OUT) and os.path.getsize(mod.OUT) > 8000

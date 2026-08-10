@@ -65,13 +65,9 @@ def _dday(d) -> str:
     return "오늘" if int(d) == 0 else f"D-{int(d)}"
 
 
-def _present(v) -> bool:
-    """None·NaN 을 결측으로 본다.
-
-    `if row["conflict"]:` 로 끝내면 안 된다 — pandas 를 거친 결측은 float NaN 이
-    되어 올 수 있고 bool(nan) 은 True 다. 그대로 두면 전 개체가 경보로 칠해진다.
-    """
-    return v is not None and v == v
+# 결측 판정은 그 열을 만드는 breeding_ledger 가 제공한다. 소비 측마다 따로
+# 구현하면 한 곳만 고쳐도 다른 곳에서 다시 샌다.
+_present = bl.present
 
 
 def cell_status(row) -> tuple:

@@ -56,6 +56,16 @@ ACTIONS = {
 OVERDUE_HORIZON = 14      # 이보다 오래 지난 작업은 조치 불가 — 큐에서 뺀다
 
 
+def present(v) -> bool:
+    """None·NaN 을 결측으로 본다 — 소비 측이 반드시 이걸 써야 한다.
+
+    `if row["conflict"]:` 로 끝내면 안 된다. pandas 를 거친 결측은 float NaN 이
+    되어 오는데 bool(nan) 은 True 다. 그대로 두면 전 개체가 경보로 잡힌다(실제로
+    68/68 이 그랬다). 결측이 생기는 곳이 여기이므로 판정도 여기서 제공한다.
+    """
+    return v is not None and v == v
+
+
 def _still_actionable(task: dict, today: date) -> bool:
     """지난 작업이 아직 손쓸 여지가 있는지.
 
