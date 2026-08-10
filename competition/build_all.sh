@@ -19,6 +19,8 @@ run $SRC/build_analysis_report.py
 run $SRC/build_edinburgh_dashboard.py competition/data/edinburgh_frames.csv
 run $SRC/build_activity_analysis.py
 run $SRC/build_eval_report.py
+# 자세 병목 리포트(케글 자세 데이터 + 크롭 캐시 필요, 없으면 건너뜀)
+run $SRC/build_posture_report.py
 run $SRC/build_repro_dashboard.py
 run $SRC/build_alert_console.py
 # 탐색 뷰

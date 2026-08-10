@@ -176,7 +176,83 @@ def ceiling_from_lr(full: pd.DataFrame) -> dict:
     return {"lr_share": round(share, 3), "ceiling": round(1.0 - share / 2, 3)}
 
 
+RESULTS = os.path.join(ROOT, "competition", "data", "posture_crossview.json")
+CONFIGS = (("기하만 (기존)", "geom", False),
+           ("기하 + 뷰 정규화", "geom", True),
+           ("기하 + 크롭 외형", "both", False),
+           ("기하 + 크롭 + 뷰 정규화", "both", True))
+
+
+def pooled_confusion(full: pd.DataFrame, X: np.ndarray, feature_set: str,
+                     view_norm: bool, label: str = "cls",
+                     folds: list | None = None) -> tuple:
+    """폴드별 예측을 모아 만든 혼동행렬. 좌/우 횡와 동전던지기를 보여주는 근거."""
+    G = full[pf.RICH_COLS].to_numpy(dtype=np.float64)
+    F = G if feature_set == "geom" else np.hstack([G, X.astype(np.float64)])
+    if view_norm:
+        F = view_normalize(F, full["view"].to_numpy())
+    views = full["view"].to_numpy()
+    y = full[label].to_numpy()
+    counts = full["view"].value_counts()
+    use = folds or [v for v in sorted(counts.index) if counts[v] >= MIN_FOLD]
+    yt, yp = [], []
+    for v in use:
+        m = views == v
+        _a, _f, p = _fit_eval(F[~m], y[~m], F[m], y[m])
+        yt.extend(y[m].tolist())
+        yp.extend(p.tolist())
+    labels = sorted(set(y))
+    from sklearn.metrics import confusion_matrix
+    return labels, confusion_matrix(yt, yp, labels=labels).tolist()
+
+
+def run_all(rebuild: bool = False, use_cache: bool = True) -> dict:
+    """대시보드가 쓸 전체 결과 묶음. 계산이 오래 걸려 JSON 으로 캐시한다."""
+    import json
+    if use_cache and not rebuild and os.path.exists(RESULTS):
+        with open(RESULTS, encoding="utf-8") as f:
+            return json.load(f)
+    full, X, classes = load()
+    counts = full["view"].value_counts()
+    use = [v for v in sorted(counts.index) if counts[v] >= MIN_FOLD]
+    out = {
+        "n_boxes": int(len(full)), "n_images": int(full["image_id"].nunique()),
+        "n_views": int(full["view"].nunique()), "folds": use,
+        "classes": classes, "ceiling": ceiling_from_lr(full),
+        "baseline": {"cls": majority_baseline(full, "cls"),
+                     "cls3": majority_baseline(full, "cls3")},
+        "configs": [], "pen": [],
+    }
+    for tag, fs, vn in CONFIGS:
+        r5 = lovo(full, X, fs, "cls", vn, folds=use)
+        r3 = lovo(full, X, fs, "cls3", vn, folds=use)
+        out["configs"].append({
+            "tag": tag, "feature_set": fs, "view_norm": vn,
+            "cls": {k: r5[k] for k in ("acc_w", "mf1_w")},
+            "cls3": {k: r3[k] for k in ("acc_w", "mf1_w")},
+            "folds3": r3["folds"].to_dict("records")})
+    for tag, fs, vn in (CONFIGS[0], CONFIGS[3]):
+        p5 = lovo(full, X, fs, "cls", vn, group="pen")
+        p3 = lovo(full, X, fs, "cls3", vn, group="pen")
+        out["pen"].append({"tag": tag, "cls": p5["acc_w"], "cls3": p3["acc_w"],
+                           "cls_mf1": p5["mf1_w"], "cls3_mf1": p3["mf1_w"]})
+    labels, cm = pooled_confusion(full, X, "geom", False, "cls", use)
+    out["confusion_geom"] = {"labels": labels, "matrix": cm}
+    labels, cm = pooled_confusion(full, X, "both", True, "cls", use)
+    out["confusion_best"] = {"labels": labels, "matrix": cm}
+    os.makedirs(os.path.dirname(RESULTS), exist_ok=True)
+    with open(RESULTS, "w", encoding="utf-8") as f:
+        json.dump(out, f, ensure_ascii=False, indent=1)
+    return out
+
+
 def main() -> int:
+    if "--json" in sys.argv:
+        r = run_all(rebuild=True)
+        print(f"결과 캐시 저장: {RESULTS}")
+        print(f"  구성 {len(r['configs'])} · 폴드 {len(r['folds'])} · "
+              f"혼동행렬 2종")
+        return 0
     quick = "--quick" in sys.argv
     full, X, classes = load("--rebuild" in sys.argv)
     print(f"데이터 {len(full):,}박스 · 이미지 {full['image_id'].nunique():,} · "

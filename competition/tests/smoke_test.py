@@ -1032,6 +1032,56 @@ def test_posture_crossview() -> None:
     assert np.isfinite(pcv.view_normalize(np.ones((4, 2)), v)).all()
 
 
+def test_posture_report() -> None:
+    """자세 병목 리포트: SVG 렌더러 + 자체완결 HTML(캐시 있을 때만 전체 생성)."""
+    import os
+    import numpy as np
+    import build_posture_report as bpr
+    import posture_crossview as pcv
+
+    # 혼동행렬 렌더러: 행 정규화라 각 행의 표시값 합이 1 이어야 한다
+    labels = ["Standing", "Sternal_lying"]
+    svg = bpr.confusion_svg(labels, [[3, 1], [2, 2]], 300)
+    assert svg.startswith("<svg") and "0.75" in svg and "0.50" in svg
+    # 합이 0 인 행이 있어도 0 나눗셈으로 죽지 않아야 한다
+    assert bpr.confusion_svg(labels, [[0, 0], [1, 1]], 300).startswith("<svg")
+
+    bars = bpr.grouped_bars([("a", {"acc_w": 0.5, "mf1_w": 0.2}, False),
+                             ("b", {"acc_w": 0.7, "mf1_w": 0.4}, True)],
+                            width=400, ref=0.45)
+    assert bars.startswith("<svg") and "0.700" in bars
+    # 값이 전부 0 이어도 죽지 않아야 한다(mx=0 나눗셈)
+    assert bpr.grouped_bars([("z", {"acc_w": 0.0, "mf1_w": 0.0}, False)],
+                            width=300).startswith("<svg")
+
+    folds = [{"view": "v1", "n_test": 100, "acc": 0.7, "mf1": 0.5},
+             {"view": "v2", "n_test": 50, "acc": 0.4, "mf1": 0.3}]
+    assert bpr.fold_svg(folds, 400).startswith("<svg")
+
+    # 전체 생성은 결과 캐시가 있을 때만(케글 데이터 없는 환경 배려)
+    if not os.path.exists(pcv.RESULTS):
+        return
+    assert bpr.main() == 0
+    page = open(bpr.OUT, encoding="utf-8").read()
+    assert page.startswith("<!DOCTYPE html>") and page.rstrip().endswith("</html>")
+    assert os.path.getsize(bpr.OUT) > 8000
+    for bad in ("http://", "https://", "<script src", "cdn."):
+        assert bad not in page, f"외부 참조 {bad}"
+    assert "prefers-color-scheme" in page
+    # 폐기한 누수 수치를 성과처럼 다시 싣지 않았는지
+    assert "0.642" in page and "폐기" in page, "0.642 폐기 사실이 빠졌다"
+
+    r = pcv.run_all()
+    for k in ("baseline", "configs", "pen", "ceiling", "confusion_geom"):
+        assert k in r, f"{k} 없음"
+    cm = np.array(r["confusion_geom"]["matrix"])
+    assert cm.sum() > 0 and cm.shape[0] == cm.shape[1] == len(r["classes"])
+    # 좌/우 횡와가 실제로 갈리는지(동전던지기 주장의 근거)
+    labs = r["confusion_geom"]["labels"]
+    li, ri = labs.index("Lateral_lying_left"), labs.index("Lateral_lying_right")
+    assert cm[li][ri] > 0 and cm[ri][li] > 0, "좌우 혼동이 없다 — 주장과 불일치"
+
+
 def test_barn_environment() -> None:
     """THI 계산·구간 판정·착상기 위험군 교차."""
     import barn_environment as be
@@ -1134,7 +1184,7 @@ def main() -> int:
              test_breeding_timing, test_stall_estrus, test_feeding_monitor,
              test_repro_calendar, test_pregnancy_check, test_herd_board,
              test_farm_registry, test_breeding_ledger, test_barn_environment,
-             test_posture_crop_feats, test_posture_crossview,
+             test_posture_crop_feats, test_posture_crossview, test_posture_report,
              test_dashboard_builders]
     failed = 0
     for t in tests:
