@@ -1269,6 +1269,7 @@ niceshowmini
 - [Aamir Khan](https://github.com/aamir296)
 Amna Naeem
 - [Ayaan Khan](https://github.com/ayaan47-1)
+- [Aaryan Jain](https://github.com/GardinJardin)
 - [Sai Praneeth Sharma](https://github.com/SHARMA1525)
 - [ELOI-CODE1](https://github.com/ELOI-CODE1)
 - [Sneha_Agrawal] (https://github.com/Sneha798)
