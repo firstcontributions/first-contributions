@@ -33,6 +33,7 @@ yuvraj
 - [Rakshita Bangera](https://github.com/RakshitaBangera)
 - [Payal Gupta](https://github.com/payal1020-creator)
 - [Yash Badhe]
+-Hu0v0
 - iuri-valbao
 - [soheetech](https://github.com/soheetech)
 - [Uday](https://github.com/Udayahir25)
