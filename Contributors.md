@@ -1972,7 +1972,7 @@ Amna Naeem
 - [Mohamed Amdouni](https://github.com/mohamed-adhd)
 - [Mohit Suri] (https://github.com/saturn657)git add Contributors.md
 - [Muhsil NR](https://github.com/mhlohh)
-- [Vernon Jones]
+- [Vernon Jones](https://github.com/vjones-sierracedar)
 - [Muntazir-Sayed](https://github.com/Muntazir-sd)
 - [Murphy Amparo](https://github.com/MaxTecnoDev)
 - [Musaab Al-Ubaidi](https://github.com/24f2006299)
