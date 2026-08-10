@@ -1,0 +1,95 @@
+<!DOCTYPE html><html lang="ko"><head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>앱 사용 화면</title><style>
+:root{color-scheme:light;--page:#f9f9f7;--surface:#fcfcfb;--surface2:#eeeeea;--ink:#0b0b0b;--ink2:#52514e;--muted:#898781;--border:rgba(11,11,11,.12);--accent:#2a78d6;--scr:#fff;--scr2:#f4f4f1}
+@media(prefers-color-scheme:dark){:root:where(:not([data-theme=light])){--page:#0d0d0d;--surface:#1a1a19;--surface2:#2b2b28;--ink:#fff;--ink2:#c3c2b7;--muted:#898781;--border:rgba(255,255,255,.14);--accent:#3987e5;--scr:#1c1c1b;--scr2:#262624}}
+:root[data-theme=dark]{--page:#0d0d0d;--surface:#1a1a19;--surface2:#2b2b28;--ink:#fff;--ink2:#c3c2b7;--muted:#898781;--border:rgba(255,255,255,.14);--accent:#3987e5;--scr:#1c1c1b;--scr2:#262624}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:system-ui,-apple-system,"Malgun Gothic",sans-serif;background:var(--page);color:var(--ink);line-height:1.5;padding:24px}
+.wrap{max-width:1180px;margin:0 auto}h1{font-size:1.55rem;letter-spacing:-.02em}
+.sub{color:var(--ink2);font-size:.92rem;margin:5px 0 18px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:26px 20px}
+.pwrap{display:flex;flex-direction:column;align-items:center}
+.phone{width:296px;background:var(--scr);border:1px solid var(--border);
+ border-radius:26px;overflow:hidden;box-shadow:0 6px 22px rgba(0,0,0,.10)}
+.bar{display:flex;justify-content:space-between;font-size:.62rem;color:var(--muted);
+ padding:7px 15px 3px}
+.hdr{display:flex;align-items:center;gap:8px;font-weight:700;font-size:.9rem;
+ padding:6px 14px 10px;border-bottom:1px solid var(--border)}
+.back{color:var(--muted);font-size:1.1rem}
+.body{padding:11px 12px 15px;min-height:414px;background:var(--scr)}
+.badge{margin-top:9px;font-size:.72rem;font-weight:700;color:var(--accent);
+ background:color-mix(in srgb,var(--accent) 13%,transparent);padding:2px 10px;border-radius:999px}
+.pnote{font-size:.74rem;color:var(--ink2);margin-top:7px;line-height:1.55;max-width:300px}
+.sum{display:flex;gap:7px;margin-bottom:10px}
+.sum div{flex:1;background:var(--scr2);border-radius:9px;padding:7px 4px;text-align:center}
+.sum b{display:block;font-size:1.15rem}.sum span{font-size:.62rem;color:var(--muted)}
+.task{border-left:3px solid;background:var(--scr2);border-radius:0 8px 8px 0;
+ padding:7px 9px;margin-bottom:6px}
+.tl{display:flex;justify-content:space-between;font-size:.82rem}
+.dd{font-weight:700;font-size:.74rem}
+.t2{font-size:.68rem;color:var(--muted)}
+.t3{font-size:.72rem;font-weight:600;margin-top:2px}
+.late{display:inline-block;font-size:.62rem;color:#a02020;background:rgba(160,32,32,.12);
+ padding:1px 6px;border-radius:999px;margin-top:3px}
+.card2{border-radius:11px;padding:11px 12px;color:#fff;margin-bottom:10px}
+.cno{font-size:1.5rem;font-weight:800;letter-spacing:-.02em}
+.cgrid{display:grid;grid-template-columns:1fr 1fr;gap:5px 8px;margin-top:7px}
+.cgrid span{display:block;font-size:.6rem;opacity:.82}
+.cgrid b{font-size:.78rem}
+.sect{font-size:.68rem;font-weight:700;color:var(--muted);margin:9px 0 5px;
+ text-transform:uppercase;letter-spacing:.04em}
+.tli{display:flex;align-items:center;gap:7px;font-size:.73rem;padding:3.5px 0;
+ border-bottom:1px solid var(--surface2)}
+.tli.est{color:var(--ink2)}.tli .dot{width:10px;font-weight:700}
+.dt{width:38px;font-variant-numeric:tabular-nums;color:var(--muted)}
+.tk2{flex:1;font-weight:600}.dd2{font-size:.66rem;color:var(--muted)}
+.legend2{font-size:.63rem;color:var(--muted);margin-top:7px}
+.frow{display:flex;align-items:center;gap:8px;margin-bottom:7px}
+.frow>span{width:82px;font-size:.68rem;color:var(--muted);flex-shrink:0}
+.frow i{display:block;font-style:normal;font-size:.58rem;color:var(--accent);font-weight:700}
+.fval{flex:1;background:var(--scr2);border-radius:7px;padding:6px 9px;font-size:.76rem}
+.fval.auto{background:color-mix(in srgb,var(--accent) 11%,transparent);
+ border:1px solid color-mix(in srgb,var(--accent) 34%,transparent)}
+.fval.hi{background:color-mix(in srgb,#d03b3b 11%,transparent);
+ border:1px solid color-mix(in srgb,#d03b3b 34%,transparent)}
+.fval.fixed{font-weight:700}.fval.sel{color:var(--muted)}
+.fval em{font-style:normal;font-size:.63rem;color:var(--muted)}
+.hintbox{font-size:.66rem;color:var(--ink2);background:var(--scr2);border-radius:8px;
+ padding:7px 9px;margin-top:9px;line-height:1.5}
+.btn{margin-top:9px;background:var(--accent);color:#fff;text-align:center;
+ padding:8px;border-radius:8px;font-weight:700;font-size:.8rem}
+.push{background:var(--scr2);border-radius:11px;padding:9px 11px;margin-bottom:8px;
+ border-left:3px solid #1baf7a}
+.push.warn{border-left-color:#e0407f}.push.heat{border-left-color:#d03b3b}
+.push.feed{border-left-color:#e8a33d}
+.pt{font-size:.76rem;font-weight:700}
+.pb{font-size:.68rem;color:var(--ink2);margin-top:2px}
+.pw{display:inline-block;margin-top:6px;font-size:.66rem;font-weight:700;
+ color:var(--accent)}
+.mbarn{background:var(--scr2);border-radius:9px;padding:7px 9px;margin-bottom:7px}
+.mh{font-size:.7rem;font-weight:700;margin-bottom:5px;display:flex;
+ justify-content:space-between;align-items:baseline}
+.thi{font-size:.62rem;font-weight:700}
+.mcells{display:flex;flex-wrap:wrap;gap:3px}
+.mcells i{width:15px;height:13px;border-radius:3px;display:block}
+.mleg{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px;font-size:.6rem;color:var(--ink2)}
+.mleg span{display:inline-flex;align-items:center;gap:3px}
+.mleg i{width:9px;height:9px;border-radius:2px;display:inline-block}
+.chart{position:relative;display:flex;align-items:flex-end;gap:4px;height:96px;
+ padding:0 2px;border-bottom:1px solid var(--border)}
+.wk{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:flex-end}
+.wb{width:100%;border-radius:3px 3px 0 0;min-height:2px}
+.wk span{font-size:.58rem;font-weight:700}.wk em{font-size:.53rem;color:var(--muted);
+ font-style:normal}
+.tline{position:absolute;left:0;right:0;border-top:1px dashed #d03b3b}
+.tline span{position:absolute;right:0;top:-11px;font-size:.55rem;color:#d03b3b;
+ font-weight:700}
+.note{font-size:.73rem;color:var(--muted);margin-top:22px;line-height:1.6}
+</style></head><body><div class="wrap">
+<h1>📱 앱 사용 화면</h1>
+<div class="sub">화면의 숫자는 목업이 아니라 <b>앞의 모듈들이 계산한 값</b>이다 — 화면을 위해 지어낸 값이 하나도 없다. 하루 동선 순서로 배치했다.</div>
+<div class="grid"><div class="pwrap"><div class="phone"><div class="bar"><span>9:41</span><span>▮▮▮ ᯤ</span></div><div class="hdr"><span class="back">‹</span>오늘 할 일</div><div class="body"><div class="sum"><div><b>23</b><span>조치 대상</span></div><div><b>19</b><span>지연</span></div><div><b>1</b><span>경보</span></div></div><div class="task" style="border-left-color:#d03b3b"><div class="tl"><b>2022</b><span class="dd" style="color:#d03b3b">오늘</span></div><div class="t2">1동 B열 11번</div><div class="t3" style="color:#d03b3b">교배 · 정액 준비 · 적기 수정</div><span class="late">1일 경과</span></div><div class="task" style="border-left-color:#e8a33d"><div class="tl"><b>2063</b><span class="dd" style="color:#e8a33d">오늘</span></div><div class="t2">4동 순치방 3번</div><div class="t3" style="color:#e8a33d">발정 관찰 · 승가허용 확인(등누르기)</div><span class="late">2일 경과</span></div><div class="task" style="border-left-color:#e8a33d"><div class="tl"><b>2006</b><span class="dd" style="color:#e8a33d">오늘</span></div><div class="t2">1동 A열 7번</div><div class="t3" style="color:#e8a33d">발정 관찰 · 승가허용 확인(등누르기)</div><span class="late">2일 경과</span></div><div class="task" style="border-left-color:#2a78d6"><div class="tl"><b>2060</b><span class="dd" style="color:#2a78d6">D-5</span></div><div class="t2">3동 분만실 10번</div><div class="t3" style="color:#2a78d6">임신감정 · 초음파 확인</div><span class="late">11일 경과</span></div><div class="task" style="border-left-color:#d98cc4"><div class="tl"><b>2042</b><span class="dd" style="color:#d98cc4">오늘</span></div><div class="t2">2동 3방 1번</div><div class="t3" style="color:#d98cc4">재발정 확인 · 웅돈 노출 + 발정체크</div></div><div class="task" style="border-left-color:#d98cc4"><div class="tl"><b>2002</b><span class="dd" style="color:#d98cc4">D-1</span></div><div class="t2">1동 A열 3번</div><div class="t3" style="color:#d98cc4">재발정 확인 · 웅돈 노출 + 발정체크</div></div></div></div><div class="badge">① 조치 큐</div><div class="pnote">앱을 켜면 첫 화면. 긴급도순이며 <b>시한작업</b>(교배·분만·발정관찰)이 단순 지연보다 위에 온다 — 놓치면 다음 발정까지 21일이다.</div></div><div class="pwrap"><div class="phone"><div class="bar"><span>9:41</span><span>▮▮▮ ᯤ</span></div><div class="hdr"><span class="back">‹</span>모돈카드</div><div class="body"><div class="card2" style="background:#e8a33d"><div class="cno">2022</div><div class="cgrid"><div><span>현재상태</span><b>공태</b></div><div><span>산차</span><b>5산</b></div><div><span>발정</span><b>발정 의심</b></div><div><span>위치</span><b>1동 B열 11번</b></div></div></div><div class="sect">번식 일정</div><div class="tli conf"><span class="dot" style="color:#1baf7a">●</span><span class="dt">08/04</span><span class="tk2">이유</span><span class="dd2">6일 전</span></div><div class="tli est"><span class="dot" style="color:#e8a33d">~</span><span class="dt">08/07</span><span class="tk2">발정 관찰</span><span class="dd2">3일 전</span></div><div class="tli est"><span class="dot" style="color:#e8a33d">~</span><span class="dt">08/09</span><span class="tk2">발정 관찰</span><span class="dd2">1일 전</span></div><div class="tli est"><span class="dot" style="color:#d03b3b">~</span><span class="dt">08/10</span><span class="tk2">교배</span><span class="dd2">오늘</span></div><div class="tli est"><span class="dot" style="color:#d03b3b">~</span><span class="dt">08/10</span><span class="tk2">교배</span><span class="dd2">오늘</span></div><div class="tli est"><span class="dot" style="color:#d98cc4">~</span><span class="dt">08/28</span><span class="tk2">재발정 확인</span><span class="dd2">D-18</span></div><div class="tli est"><span class="dot" style="color:#2a78d6">~</span><span class="dt">09/09</span><span class="tk2">임신감정</span><span class="dd2">D-30</span></div><div class="tli est"><span class="dot" style="color:#2a78d6">~</span><span class="dt">10/05</span><span class="tk2">임신감정</span><span class="dd2">D-56</span></div><div class="tli est"><span class="dot" style="color:#2a78d6">~</span><span class="dt">11/26</span><span class="tk2">분만사 이동</span><span class="dd2">D-108</span></div><div class="tli est"><span class="dot" style="color:#8b3fd0">~</span><span class="dt">12/03</span><span class="tk2">분만</span><span class="dd2">D-115</span></div><div class="legend2">● 확정 &nbsp; ~ 예상(관측되면 갱신)</div></div></div><div class="badge">② 개체 상세</div><div class="pnote">개체 하나의 전체 번식 일정. <b>예상(~)과 확정(●)을 구분</b>해 표시하므로 무엇이 추정인지 농가가 안다.</div></div><div class="pwrap"><div class="phone"><div class="bar"><span>9:41</span><span>▮▮▮ ᯤ</span></div><div class="hdr"><span class="back">‹</span>교배기록 등록</div><div class="body"><div class="frow"><span>모돈번호</span><div class="fval fixed">2006</div></div><div class="frow"><span>이유일 <i>입력</i></span><div class="fval fixed">2026-08-05</div></div><div class="frow"><span>예정일 <i>자동</i></span><div class="fval auto">2026-08-11 <em>(이유 +6일)</em></div></div><div class="frow"><span>발정 확인 <i>CCTV</i></span><div class="fval auto">08-09 06:00 <em>승가허용 점수 0.62</em></div></div><div class="frow"><span>1차 교배 <i>적기 자동</i></span><div class="fval hi">08-10 <b>10시</b> <em>발정 후 28h</em></div></div><div class="frow"><span>2차 교배 <i>적기 자동</i></span><div class="fval hi">08-10 <b>18시</b> <em>발정 후 36h</em></div></div><div class="frow"><span>교배자</span><div class="fval sel">선택 ▾</div></div><div class="frow"><span>웅돈</span><div class="fval sel">선택 ▾</div></div><div class="hintbox">농가가 채우는 칸은 <b>교배자·웅돈 둘뿐</b>이다. 날짜·시각은 이유일 하나에서 전부 계산됐고, CCTV 가 발정을 확인하면 그 시각 기준으로 다시 잡힌다.</div><div class="btn">저장</div></div></div><div class="badge">③ 입력 간소화</div><div class="pnote">경쟁 제품도 '작업예정일자 제공'을 내세운다. 차이는 <b>CCTV 관측이 예상을 덮어쓴다</b>는 점 — 예정일은 추정이고, 실제 발정이 확인되면 교배 <b>시각</b>까지 다시 계산된다.</div></div><div class="pwrap"><div class="phone"><div class="bar"><span>9:41</span><span>▮▮▮ ᯤ</span></div><div class="hdr"><span class="back">‹</span>알림</div><div class="body"><div class="push"><div class="pt">🐖 발정 확인 · 2006</div><div class="pb">1동 교배사 A열 7번 · 승가허용 점수 <b>0.62</b><br>적기 교배 <b>08-10 10시 / 18시</b></div><div class="pw">지금 확인</div></div><div class="push warn"><div class="pt">⚠️ 모순 경보 · 2060</div><div class="pb">임신 중인데 발정 신호(0.75)<br>유산·오진·개체 오인 확인 필요</div></div><div class="push heat"><div class="pt">🌡️ 3동 열스트레스 (THI 86.8)</div><div class="pb">착상기 모돈 <b>3두</b> — 3주 재발 확인 필수<br>수태율 저하 · 즉시 냉방 조치</div></div><div class="push feed"><div class="pt">🍽️ 급이 소외 · 군사 돈방</div><div class="pb">섭취량 하위 개체 분리 급이 검토<br><em>feeding_monitor — 별도 영상 입력 필요</em></div></div><div class="hintbox">알림은 <b>무엇을 들고 가야 하는지</b>까지 말한다. 발정만 알리고 끝내면 결국 사람이 다시 판단해야 한다.</div></div></div><div class="badge">④ 능동 알림</div><div class="pnote">발정만 알리지 않는다. <b>모순 경보</b>(임신 중 발정 신호), <b>착상기 열스트레스</b>, <b>급이 소외</b>는 환경·번식기록·영상을 겹쳐야 나오는 알림이다.</div></div><div class="pwrap"><div class="phone"><div class="bar"><span>9:41</span><span>▮▮▮ ᯤ</span></div><div class="hdr"><span class="back">‹</span>축사 도면</div><div class="body"><div class="mbarn"><div class="mh">1동 교배사<span class="thi" style="color:#e0c33d">THI 76.7</span></div><div class="mcells"><i style="background:#7d9c86"></i><i style="background:#7d9c86"></i><i style="background:#d98cc4"></i><i style="background:#7d9c86"></i><i style="background:#7d9c86"></i><i style="background:#7d9c86"></i><i style="background:#e8a33d;border:2px solid #a02020"></i><i style="background:#7d9c86"></i><i style="background:#7d9c86"></i><i style="background:#7d9c86"></i><i style="background:#7d9c86"></i><i style="background:#7d9c86"></i><i style="background:#7d9c86"></i><i style="background:#7d9c86"></i><i style="background:#7d9c86;border:2px solid #a02020"></i><i style="background:#7d9c86"></i><i style="background:#7d9c86"></i><i style="background:#7d9c86;border:2px solid #a02020"></i><i style="background:#7d9c86;border:2px solid #a02020"></i><i style="background:#7d9c86"></i><i style="background:#d98cc4"></i><i style="background:#7d9c86"></i><i style="background:#d03b3b;border:2px solid #a02020"></i><i style="background:#7d9c86"></i></div></div><div class="mbarn"><div class="mh">2동 임신사<span class="thi" style="color:#e8a33d">THI 80.0</span></div><div class="mcells"><i style="background:#7d9c86"></i><i style="background:#7d9c86;border:2px solid #a02020"></i><i style="background:#7d9c86"></i><i style="background:#7d9c86"></i><i style="background:#2a78d6"></i><i style="background:#7d9c86"></i><i style="background:#7d9c86;border:2px solid #a02020"></i><i style="background:#7d9c86;border:2px solid #a02020"></i><i style="background:#7d9c86"></i><i style="background:#7d9c86"></i><i style="background:#7d9c86"></i><i style="background:#8b3fd0;border:2px solid #a02020"></i><i style="background:#7d9c86"></i><i style="background:#7d9c86;border:2px solid #a02020"></i><i style="background:#7d9c86"></i><i style="background:#7d9c86"></i><i style="background:#7d9c86"></i><i style="background:#7d9c86"></i><i style="background:#d98cc4"></i><i style="background:#7d9c86"></i><i style="background:#7d9c86"></i><i style="background:#7d9c86"></i><i style="background:#7d9c86;border:2px solid #a02020"></i><i style="background:#7d9c86"></i><i style="background:#2a78d6;border:2px solid #a02020"></i><i style="background:#7d9c86"></i><i style="background:#7d9c86"></i></div></div><div class="mbarn"><div class="mh">3동 분만사<span class="thi" style="color:#d03b3b">THI 86.8</span></div><div class="mcells"><i style="background:#8b3fd0;border:2px solid #a02020"></i><i style="background:#7d9c86"></i><i style="background:#7d9c86"></i><i style="background:#7d9c86"></i><i style="background:#7d9c86"></i><i style="background:#8b3fd0;border:2px solid #a02020"></i><i style="background:#7d9c86;border:2px solid #a02020"></i><i style="background:#7d9c86"></i><i style="background:#7d9c86"></i><i style="background:#e0407f;border:2px solid #a02020"></i></div></div><div class="mbarn"><div class="mh">4동 후보사<span class="thi" style="color:#e0c33d">THI 77.9</span></div><div class="mcells"><i style="background:#7d9c86"></i><i style="background:#7d9c86"></i><i style="background:#e8a33d;border:2px solid #a02020"></i><i style="background:#7d9c86"></i><i style="background:#8b3fd0;border:2px solid #a02020"></i><i style="background:#7d9c86;border:2px solid #a02020"></i><i style="background:#7d9c86"></i></div></div><div class="mleg"><span><i style="background:#d03b3b"></i>교배</span><span><i style="background:#e8a33d"></i>발정 확인</span><span><i style="background:#8b3fd0"></i>분만 임박</span><span><i style="background:#2a78d6"></i>임신감정</span><span><i style="background:#d98cc4"></i>재발정 확인</span><span><i style="background:#e0407f"></i>모순 경보</span><span><i style="background:#7d9c86"></i>조치 없음</span></div></div></div><div class="badge">⑤ 동선</div><div class="pnote">목록은 '누가 급한가'에 답하지만 '어디로 가야 하는가'에는 답하지 못한다. 색은 <b>들고 갈 것</b>(정액·초음파·분만준비), 테두리는 기한 경과.</div></div><div class="pwrap"><div class="phone"><div class="bar"><span>9:41</span><span>▮▮▮ ᯤ</span></div><div class="hdr"><span class="back">‹</span>임신돈 현황판</div><div class="body"><div class="sum"><div><b>62</b><span>모돈</span></div><div><b>2.37</b><span>회전/년</span></div><div><b>3</b><span>주 교배목표</span></div></div><div class="sect">주차별 분만 예정</div><div class="chart"><div class="tline" style="bottom:42px"><span>목표 2.8</span></div><div class="wk"><div class="wb" style="height:31px;background:#2a78d6"></div><span>4</span><em>W0</em></div><div class="wk"><div class="wb" style="height:8px;background:#d03b3b"></div><span>1</span><em>W1</em></div><div class="wk"><div class="wb" style="height:46px;background:#2a78d6"></div><span>6</span><em>W2</em></div><div class="wk"><div class="wb" style="height:0px;background:#d03b3b"></div><span>0</span><em>W3</em></div><div class="wk"><div class="wb" style="height:8px;background:#d03b3b"></div><span>1</span><em>W4</em></div><div class="wk"><div class="wb" style="height:23px;background:#2a78d6"></div><span>3</span><em>W5</em></div><div class="wk"><div class="wb" style="height:46px;background:#2a78d6"></div><span>6</span><em>W6</em></div><div class="wk"><div class="wb" style="height:8px;background:#d03b3b"></div><span>1</span><em>W7</em></div><div class="wk"><div class="wb" style="height:8px;background:#d03b3b"></div><span>1</span><em>W8</em></div><div class="wk"><div class="wb" style="height:16px;background:#2a78d6"></div><span>2</span><em>W9</em></div></div><div class="hintbox">앞쪽 주차의 빨강은 <b>이미 확정된 손실</b>이다. 임신 115일은 단축할 수 없어 지금 교배해도 메울 수 없다.</div></div></div><div class="badge">⑥ 군 단위</div><div class="pnote">개체가 아니라 <b>군의 흐름</b>. 17주 뒤 분만이 비면 지금 교배가 부족하다는 뜻이고, 그 빈칸은 나중에 메울 수 없다.</div></div></div>
+<div class="note">※ 합성 데이터 시연이다. 실제로는 농장 번식기록·축사 등록 정보·CCTV 발정 점수·환경 센서값을 그대로 넣으면 같은 화면이 나온다.<br>
+※ 화면 구성은 기능 배치를 보이기 위한 것으로, 실제 앱의 시각 디자인은 별도다.</div>
+</div></body></html>

@@ -1152,7 +1152,24 @@ def test_dashboard_builders() -> None:
     total = sum(len(p["cells"]) for b in layout.values() for p in b["pens"])
     assert total == len(farm.table()), "도면 칸 수가 배치 두수와 다름"
 
-    for mod in (bc, bm):
+    # 앱 사용 화면: 숫자가 다른 뷰와 어긋나면 "지어낸 값 없음" 전제가 깨진다
+    import build_app_screens as bas
+    assert bas.main() == 0
+    app = open(bas.OUT, encoding="utf-8").read()
+    n_act = sum(1 for s, late in pairs if s not in ("정상", "공실") or late)
+    assert f'<b>{n_act}</b><span>조치 대상</span>' in app, \
+        f"앱 화면의 조치 대상 수가 도면과 불일치(도면 {n_act})"
+    assert f'<b>{len(bl.conflicts(led))}</b><span>경보</span>' in app
+
+    # 교배기록 화면의 날짜는 그 개체의 실제 일정에서 나와야 한다
+    import repro_calendar as rc2
+    sid, wean, _sc = bas.pick_service_case(herd, scores)
+    est = rc2.schedule_from_weaning(wean)
+    est_ai = [t for t in est if t["task"] == "교배"][0]
+    assert f'{est_ai["date"]:%Y-%m-%d}' in app, "예정일이 실제 일정과 다름"
+    assert f'{wean:%Y-%m-%d}' in app, "이유일이 화면에 없음"
+
+    for mod in (bc, bm, bas):
         assert mod.main() == 0
         assert os.path.exists(mod.OUT) and os.path.getsize(mod.OUT) > 8000
         page = open(mod.OUT, encoding="utf-8").read()

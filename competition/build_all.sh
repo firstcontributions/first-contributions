@@ -13,6 +13,7 @@ run(){ echo "── $*"; python3 "$@" || echo "  (건너뜀: 데이터/영상 �
 # 번식 운영 뷰(데이터 불필요 — 항상 생성)
 run $SRC/build_breeding_console.py
 run $SRC/build_barn_map.py
+run $SRC/build_app_screens.py
 # 분석 리포트
 run $SRC/build_reference_report.py ${AIHUB_71471:-}
 run $SRC/build_analysis_report.py
