@@ -698,6 +698,98 @@ def test_repro_calendar() -> None:
     assert late and all(t["late_days"] > 0 for t in late)
 
 
+def test_farm_registry() -> None:
+    """축사 등록·배치 규칙·관리표·분석 경로."""
+    import farm_registry as fr
+    f = fr.Farm("t")
+    f.add_barn("1동", "교배사").add_pen("1동", "A열", "stall", 3)
+    f.add_barn("2동", "임신사").add_pen("2동", "1방", "group", 2)
+
+    # 미등록 축사/돈방, 잘못된 용도·방식은 거부
+    for bad in (lambda: f.add_barn("9동", "없는용도"),
+                lambda: f.add_pen("9동", "x", "stall", 2),
+                lambda: f.add_pen("1동", "y", "없는방식", 2),
+                lambda: f.add_pen("1동", "z", "stall", 0),
+                lambda: f.place("A", "1동", "없는방")):
+        try:
+            bad()
+            raise AssertionError("잘못된 등록이 허용됨")
+        except (KeyError, ValueError):
+            pass
+
+    # 스톨은 자리 번호 필수 — 없으면 카메라 화면과 대조할 수 없다
+    try:
+        f.place("A", "1동", "A열")
+        raise AssertionError("스톨에 자리 없이 배치가 허용됨")
+    except ValueError:
+        pass
+
+    f.place("A", "1동", "A열", 1).place("B", "1동", "A열", 2)
+    assert f.locate("A") == ("1동", "A열", "1")
+    assert f.at("1동", "A열") == ["A", "B"]
+    assert "1동" in f.label("A") and "1번" in f.label("A")
+    assert f.label("없는개체") == "미배치"
+
+    # 같은 자리 이중 배치 금지
+    try:
+        f.place("C", "1동", "A열", 1)
+        raise AssertionError("이미 찬 자리에 배치가 허용됨")
+    except ValueError:
+        pass
+    # 수용능력 초과 금지
+    f.place("C", "1동", "A열", 3)
+    try:
+        f.place("D", "1동", "A열", 4)
+        raise AssertionError("수용능력 초과 배치가 허용됨")
+    except ValueError:
+        pass
+
+    # 이동하면 옛 자리는 비어야 한다(같은 개체가 두 곳에 잡히면 두수가 틀어진다)
+    f.place("A", "2동", "1방")
+    assert f.locate("A")[0] == "2동"
+    assert "A" not in f.at("1동", "A열")
+    assert len(f.table()) == 3
+
+    # 자리 번호 자연 정렬(1,10,2 가 아니라 1,2,10)
+    g = fr.Farm("s")
+    g.add_barn("1동", "교배사").add_pen("1동", "A열", "stall", 12)
+    for s in (10, 2, 1):
+        g.place(f"P{s}", "1동", "A열", s)
+    assert list(g.table()["slot"]) == ["1", "2", "10"]
+
+    occ = f.occupancy().set_index(["barn", "pen"])
+    assert occ.loc[("1동", "A열"), "n"] == 2 and occ.loc[("1동", "A열"), "free"] == 1
+
+    # 등록이 분석 경로를 정한다: 스톨/군사는 다른 모듈, 분만틀은 대상 외
+    route = f.analysis_route().set_index(["barn", "pen"])
+    assert route.loc[("1동", "A열"), "module"] == "stall_estrus"
+    assert "motion_tracker" in route.loc[("2동", "1방"), "module"]
+    f.add_barn("3동", "분만사").add_pen("3동", "분만실", "crate", 2)
+    route = f.analysis_route().set_index(["barn", "pen"])
+    assert not bool(route.loc[("3동", "분만실"), "estrus_target"]), \
+        "분만사에 발정 판정을 돌리려 함"
+
+    f.remove("A")
+    assert f.locate("A") is None and len(f.table()) == 2
+
+    # 번식 상태 결합 + 배치 오류 검출
+    import herd_board as hb
+    demo = fr.demo_farm()
+    ids = sorted(demo._where)
+    recs = hb.generate_demo(n=len(ids) + 40, today="2026-08-10")[:len(ids)]
+    for r, i in zip(recs, ids):
+        r["id"] = i
+    herd = hb.build_herd(recs, today="2026-08-10")
+    t = demo.table(herd)
+    assert len(t) == len(ids) and "stage_h" in t.columns
+    assert t["id"].nunique() == len(ids), "관리표에 개체 중복"
+    mp = demo.misplaced(herd)
+    assert len(mp) and {"id", "loc", "reason"} <= set(mp.columns)
+    # 분만사의 포유돈은 정상 — 오류로 잡히면 안 된다
+    ok = t[(t["stage"] == "분만사") & (t["stage_h"] == "포유")]["id"]
+    assert not set(ok) & set(mp["id"]), "정상 배치가 오류로 잡힘"
+
+
 def test_pregnancy_check() -> None:
     """임신진단 3단계: 캐스케이드 보존·조기검출 이득·초음파 의존성."""
     import pregnancy_check as pc
@@ -803,7 +895,8 @@ def main() -> int:
              test_keypoints_parser_pose, test_pose_vs_behavior_eval,
              test_motion_tracker, test_box_merge, test_temporal_features,
              test_breeding_timing, test_stall_estrus, test_feeding_monitor,
-             test_repro_calendar, test_pregnancy_check, test_herd_board]
+             test_repro_calendar, test_pregnancy_check, test_herd_board,
+             test_farm_registry]
     failed = 0
     for t in tests:
         try:
