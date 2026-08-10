@@ -1,4 +1,5 @@
 # Contributors
+- Jeff Gray
 - [Raha](https://github.com/raha-ak)
 - MZS
 - [c00lkiddX17](https://github.com/owakcx2014)
