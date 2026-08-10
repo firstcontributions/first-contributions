@@ -29,8 +29,13 @@ import pandas as pd
 # 원인 4종: 각 요인의 (나쁜 방향, 임계, 포화 스케일, 가중). severity 0~1.
 #   bad="low": 임계 미만이 문제,  bad="high": 임계 초과가 문제
 CAUSE_GROUPS = {
+    # 등지방(P2)은 **양방향** 문제다 — 야위어도, 비만해도 번식이 나빠진다.
+    # 현장 BCS 표준(교배 목표 BCS 3~3.25):
+    #   BCS 1 <10mm(야윔) · 2~2.5 11~15mm(부족) · 3~3.25 **16~18mm(적정)**
+    #   3.5~4 19~22mm(과다) · 5 >22mm(비만)
+    # 초기 구현은 임계를 12mm 로 낮게 잡고 **낮을 때만** 벌점을 줬다(비만 무시).
     "영양 부족": [
-        ("backfat_mm", "low", 12.0, 4.0, 1.0),      # 성성숙 지표
+        ("backfat_mm", "outside", (16.0, 22.0), 5.0, 1.0),   # 적정 대역 벗어남
         ("feed_adequacy", "low", 0.6, 0.4, 0.8),
     ],
     "더위 스트레스": [
@@ -56,11 +61,31 @@ def thi(temp_c: float, humidity_pct: float) -> float:
     return 0.8 * float(temp_c) + rh * (float(temp_c) - 14.4) + 46.4
 
 
-def _severity(value: float, bad: str, thr: float, scale: float) -> float:
-    """요인 하나의 문제 심각도 0~1(임계 초과분을 스케일로 포화)."""
+def bcs_from_backfat(p2_mm: float) -> float:
+    """P2 등지방두께(mm) → BCS(1~5) 근사. 현장 표준 구간을 선형 보간."""
+    if p2_mm is None or (isinstance(p2_mm, float) and np.isnan(p2_mm)):
+        return float("nan")
+    pts = [(8.0, 1.0), (10.0, 1.5), (15.0, 2.5), (17.0, 3.0),
+           (22.0, 4.0), (26.0, 5.0)]
+    xs = [p[0] for p in pts]; ys = [p[1] for p in pts]
+    return float(np.clip(np.interp(float(p2_mm), xs, ys), 1.0, 5.0))
+
+
+def _severity(value: float, bad: str, thr, scale: float) -> float:
+    """요인 하나의 문제 심각도 0~1(임계 초과분을 스케일로 포화).
+
+    bad="low"     : thr 미만이 문제
+    bad="high"    : thr 초과가 문제
+    bad="outside" : thr=(lo, hi) 대역을 **양쪽**으로 벗어나면 문제
+                    (등지방처럼 야위어도 비만해도 나쁜 U자형 요인)
+    """
     if value is None or (isinstance(value, float) and np.isnan(value)):
         return 0.0
-    dev = (thr - value) if bad == "low" else (value - thr)
+    if bad == "outside":
+        lo, hi = thr
+        dev = max(lo - float(value), float(value) - hi, 0.0)
+    else:
+        dev = (thr - value) if bad == "low" else (value - thr)
     return float(np.clip(dev / scale, 0.0, 1.0))
 
 
@@ -143,7 +168,8 @@ def classify_problem(row, risk: float, ctx: dict | None = None) -> str:
 
 # 원인별 표준 처방(현장 조치)
 PRESCRIPTION = {
-    "영양 부족": "플러싱(발정 2주 전 증량 급여)·에너지 강화, 등지방 14mm 목표",
+    "영양 부족": "등지방 P2 16~18mm(BCS 3~3.25) 목표 — 야위면 플러싱(발정 2주 전 "
+                 "증량 급여)·에너지 강화, 비만이면 임신사료 제한·운동",
     "더위 스트레스": "쿨링(송풍·점적)·환기 강화, 사료 급여시간 서늘한 때로 이동",
     "수퇘지 자극 부족": "성숙 웅돈 1일 2회·10분↑ 직접 대면 노출(격리사육 지양)",
     "사양 관리 불량": "시설(바닥·채광)·음수 점검, 암모니아 25ppm↓ 환기, 질병 이력 관리",

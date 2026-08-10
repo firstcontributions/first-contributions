@@ -36,6 +36,7 @@ sys.path.insert(0, HERE)
 import model_behavior_appearance as mba  # noqa: E402
 import model_edinburgh_behavior as beh  # noqa: E402
 import posture_eval  # noqa: E402
+import temporal_features as tfeat  # noqa: E402
 import validate_estrus_reference as ver  # noqa: E402
 import view_align  # noqa: E402
 
@@ -48,6 +49,9 @@ REST = {"lying", "sleep", "sitting", "standing"}
 GEOM = ["bbox_w", "bbox_h", "aspect_ratio", "area", "speed", "accel",
         "darea", "centroid_x", "centroid_y"]
 APP = [f"a{k}" for k in range(40)]
+# 시간 윈도우 피처(롤링 통계 11개). 실측상 외형과 **상보적**이다 —
+# 기하+모션 0.432 / +시간 0.471 / +외형 0.491 / +외형+시간 0.516.
+TEMP = tfeat.TEMPORAL_COLS
 
 
 def fig_uri(fig):
@@ -105,12 +109,12 @@ def perclass_bars(y, pred, labels):
 
 
 def eval_behavior():
-    df = beh.add_motion(mba.build_frames())
+    df = tfeat.add_temporal(beh.add_motion(mba.build_frames()))
     vc = df["behavior"].value_counts()
     keep = set(vc[vc >= mba.MIN_COUNT].index)
     df["behavior"] = df["behavior"].where(df["behavior"].isin(keep), "other")
     df = df.dropna(subset=GEOM)
-    X = df[GEOM + APP]; y = df["behavior"].to_numpy(); g = df["individual_id"].to_numpy()
+    X = df[GEOM + APP + TEMP]; y = df["behavior"].to_numpy(); g = df["individual_id"].to_numpy()
     clf = RandomForestClassifier(n_estimators=250, min_samples_leaf=2,
                                  class_weight="balanced", n_jobs=-1, random_state=42)
     pred = cross_val_predict(clf, X, y, cv=GroupKFold(5), groups=g, n_jobs=-1)
@@ -126,7 +130,7 @@ def eval_binary(df):
     d = df[df["behavior"].isin(ACTIVE | REST)].copy()
     d["y"] = d["behavior"].isin(ACTIVE).astype(int)
     d = d.dropna(subset=GEOM)
-    X = d[GEOM + APP]; y = d["y"].to_numpy(); g = d["individual_id"].to_numpy()
+    X = d[GEOM + APP + TEMP]; y = d["y"].to_numpy(); g = d["individual_id"].to_numpy()
     clf = RandomForestClassifier(n_estimators=250, min_samples_leaf=2,
                                  class_weight="balanced", n_jobs=-1, random_state=42)
     proba = cross_val_predict(clf, X, y, cv=GroupKFold(5), groups=g,

@@ -231,6 +231,16 @@ def test_repro_cause_attribution() -> None:
            "frac_standing": 0.05, "frac_tailing": 0.02}
     a = rca.attribute(row)
     assert abs(sum(a["share"].values()) - 1.0) < 1e-6
+    # 등지방은 U자형 — 적정(16~22mm)은 무벌점, 야윔·비만 양쪽에 벌점
+    base = {"feed_adequacy": 0.9, "temp_c": 22, "humidity_pct": 60,
+            "boar_exposure_min": 20, "facility_score": 0.9,
+            "water_adequacy": 0.9, "nh3_ppm": 10, "growth_disease_cnt": 0}
+    sev = lambda bf: rca.attribute({**base, "backfat_mm": bf})["severity"]["영양 부족"]
+    assert sev(17) == 0.0, "적정 등지방에 벌점"
+    assert sev(9) > 0.3, "야윔에 벌점 없음"
+    assert sev(26) > 0.3, "비만에 벌점 없음(양방향 미반영)"
+    assert 1.0 <= rca.bcs_from_backfat(17) <= 5.0
+    assert rca.bcs_from_backfat(9) < rca.bcs_from_backfat(17) < rca.bcs_from_backfat(25)
     assert a["top"][0] in rca.CAUSE_GROUPS
     d = rca.diagnose(row, risk=0.9)
     assert d["problem"] in rca.PROBLEMS and d["action"]
