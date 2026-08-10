@@ -608,6 +608,30 @@ def test_stall_estrus() -> None:
     auc = roc_auc_score(d["estrus"], d["estrus_score"])
     assert 0.5 < auc < 0.99, f"합성이 비현실적으로 쉬움(AUC {auc:.3f})"
 
+    # 자세 오류 전파: 상류 정확도가 낮을수록 발정 AUC 가 낮아야 한다.
+    # 표본이 작으면 시드 분산에 순서가 뒤집힌다(24개/5회로 재니 실제로 뒤집혔다).
+    import numpy as np
+    big_ts, big_truth = se.generate_demo(n_stalls=200, frames=120, seed=3)
+
+    def auc_at(acc, seeds=12):
+        vals = []
+        for s in range(1 if acc >= 1.0 else seeds):
+            n = big_ts if acc >= 1.0 else se.degrade(big_ts, acc, seed=s)
+            d = se.estrus_score(se.stall_features(n)).merge(big_truth,
+                                                           on="stall_id")
+            vals.append(roc_auc_score(d["estrus"], d["estrus_score"]))
+        return float(np.mean(vals))
+
+    perfect, better, worse = auc_at(1.0), auc_at(0.636), auc_at(0.513)
+    assert perfect > better > worse, (
+        f"자세 오류가 발정 AUC 에 단조롭게 전파되지 않음 "
+        f"({perfect:.3f} / {better:.3f} / {worse:.3f})")
+    # degrade 는 실제로 라벨을 바꿔야 한다(무작위성이 죽으면 조용히 통과한다)
+    d0 = se.degrade(big_ts, 0.5, seed=1)
+    changed = (d0["posture"].to_numpy() != big_ts["posture"].to_numpy()).mean()
+    assert 0.2 < changed < 0.6, f"오류 주입 비율이 이상하다({changed:.2f})"
+    assert set(d0["posture"]) <= {"standing", "sitting", "lying"}
+
 
 def test_feeding_monitor() -> None:
     """합사 급이 모니터링: 세션·경쟁·섭취속도(순환논리 회귀 검증)."""

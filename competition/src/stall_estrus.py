@@ -161,6 +161,31 @@ def generate_demo(n_stalls: int = 24, frames: int = 120, seed: int = 3):
     return pd.DataFrame(rows), pd.DataFrame(truth)
 
 
+def degrade(ts: pd.DataFrame, acc: float, seed: int = 0,
+            id_col: str = "stall_id") -> pd.DataFrame:
+    """자세 인식 오류를 주입한다 — 상류 정확도가 발정 판정에 얼마나 전파되는가.
+
+    자세 시계열은 공짜로 주어지지 않는다. 못 본 카메라에서 3클래스 정확도는
+    실측 0.513(기존) ~ 0.636(개선)이다. 그 오차를 넣고 다시 재야 "자세 병목을
+    푼 것이 발정 판정에 실제로 값을 하는가"를 답할 수 있다.
+
+    오류 모형은 단순화다 — 확률 (1-acc) 로 다른 자세를 균등 추출한다. 실제
+    혼동은 비대칭(횡와↔기립이 많다)이므로 이 추정은 낙관·비관 어느 쪽으로도
+    치우칠 수 있다. 정확한 전파를 보려면 실측 혼동행렬을 써야 한다.
+    """
+    rng = np.random.default_rng(seed)
+    d = ts.copy()
+    p = d["posture"].map(_canon).to_numpy(dtype=object)
+    kinds = np.array(["standing", "sitting", "lying"], dtype=object)
+    flip = rng.random(len(p)) > float(acc)
+    for i in np.nonzero(flip)[0]:
+        alt = kinds[kinds != p[i]]
+        if len(alt):
+            p[i] = alt[rng.integers(len(alt))]
+    d["posture"] = p
+    return d
+
+
 def main() -> int:
     from sklearn.metrics import roc_auc_score
     ts, truth = generate_demo()
@@ -176,6 +201,29 @@ def main() -> int:
         print(f"{r.stall_id:>5} {r.stand_frac:>6.2f} {r.lie_frac:>6.2f} "
               f"{r.transitions:>6.2f} {r.immobile_frac:>6.2f} "
               f"{r.estrus_score:>7.3f} {'발정' if r.estrus else '-':>4}")
+    print("\n=== 자세 인식 오류의 전파 (상류 정확도 → 발정 판정 AUC) ===")
+    print("  자세 시계열은 공짜가 아니다. 못 본 카메라의 3클래스 실측치를 넣고 다시 잰다.")
+    print("  스톨 200개 · 시드 20회 평균 — 24개/5회로 재니 순서가 뒤집힐 만큼"
+          "\n  시드 분산이 커서 표본을 늘렸다.")
+    big_ts, big_truth = generate_demo(n_stalls=200, frames=120, seed=3)
+    prop = {}
+    for acc, lab in ((1.00, "완벽(참고)"), (0.636, "개선 후(크롭+뷰정규화)"),
+                     (0.547, "다수 클래스 기준선"), (0.513, "기존(기하만)")):
+        aucs = []
+        for s in range(1 if acc >= 1.0 else 20):
+            n = big_ts if acc >= 1.0 else degrade(big_ts, acc, seed=s)
+            sc2 = estrus_score(stall_features(n)).merge(big_truth, on="stall_id")
+            aucs.append(roc_auc_score(sc2["estrus"], sc2["estrus_score"]))
+        prop[acc] = float(np.mean(aucs))
+        print(f"  자세 정확도 {acc:.3f} ({lab:<20}) → 발정 AUC "
+              f"{np.mean(aucs):.3f} ± {np.std(aucs):.3f}")
+    gain, gap = prop[0.636] - prop[0.513], prop[1.00] - prop[0.513]
+    print(f"  → 자세 0.513→0.636 개선이 발정 AUC 를 {gain:+.3f} 올린다"
+          f"(완벽 자세까지의 격차 {gap:.3f} 중 {gain / gap:.0%} 회수).")
+    print("  → 전파는 있으나 1:1 이 아니다. 자세 오차가 시계열 통계(전환율·부동)로"
+          "\n    집계되며 일부 상쇄되기 때문이다. 오류 모형은 균등 추출 단순화이고"
+          "\n    실제 혼동은 비대칭(횡와↔기립)이라 이 값은 어림치다.")
+
     print("\n※ 스톨은 개체가 고정돼 **위치가 곧 개체 ID** — 군사 사육의 추적 단편화 문제가"
           "\n  없다. 대신 활동량이 없으므로 자세·전환·부동자세로 판정한다.")
     print("※ 합성 데이터 시연이다. 실측에는 스톨 자세 시계열 + 발정 정답이 필요하다.")

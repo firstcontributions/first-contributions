@@ -138,6 +138,33 @@ def lovo(full: pd.DataFrame, X: np.ndarray, feature_set: str = "geom",
             "n_folds": len(r)}
 
 
+def majority_baseline(full: pd.DataFrame, label: str = "cls",
+                      group: str = "view") -> dict:
+    """학습 폴드의 다수 클래스를 그대로 찍는 기준선.
+
+    이 기준선을 같이 보지 않으면 정확도를 완전히 잘못 읽는다. 실측에서 기존
+    기하 전용 모델은 5클래스 0.414 인데 **다수 클래스만 찍어도 0.423** 이다 —
+    즉 정확도만 보면 모델이 기준선보다 못하다. 클래스가 치우쳐 있어서 그렇다.
+    실제 신호는 Macro-F1 에서 드러난다(기준선 0.119 vs 모델 0.228).
+    """
+    from sklearn.metrics import accuracy_score, f1_score
+    vs = full[group].value_counts()
+    use = [v for v in sorted(vs.index) if vs[v] >= MIN_FOLD]
+    rows = []
+    for v in use:
+        m = full[group].to_numpy() == v
+        maj = full.loc[~m, label].value_counts().idxmax()
+        yte = full.loc[m, label]
+        p = np.full(len(yte), maj)
+        rows.append({"n": int(m.sum()),
+                     "acc": accuracy_score(yte, p),
+                     "mf1": f1_score(yte, p, average="macro", zero_division=0)})
+    r = pd.DataFrame(rows)
+    w = r["n"] / r["n"].sum()
+    return {"acc_w": round(float((r["acc"] * w).sum()), 3),
+            "mf1_w": round(float((r["mf1"] * w).sum()), 3)}
+
+
 def ceiling_from_lr(full: pd.DataFrame) -> dict:
     """좌/우 횡와를 못 가른다고 가정할 때 5클래스 정확도의 상한.
 
@@ -170,6 +197,10 @@ def main() -> int:
     print(f"\n=== 뷰별 leave-one-out ({len(use)}폴드) ===")
     print(f"  {'구성':<34} {'5클래스':>16}   {'발정 3클래스':>16}")
     print(f"  {'':<34} {'가중acc':>7} {'MacroF1':>8}   {'가중acc':>7} {'MacroF1':>8}")
+    m5 = majority_baseline(full, "cls")
+    m3 = majority_baseline(full, "cls3")
+    print(f"  {'다수 클래스만 찍기(기준선)':<30} {m5['acc_w']:>7.3f} {m5['mf1_w']:>8.3f}   "
+          f"{m3['acc_w']:>7.3f} {m3['mf1_w']:>8.3f}")
     results = {}
     for tag, fs, vn in (("기하만 (기존)", "geom", False),
                         ("기하 + 뷰 정규화", "geom", True),
@@ -185,10 +216,21 @@ def main() -> int:
     best_tag = max(results, key=lambda k: results[k][1]["acc_w"])
     b5, b3 = results[best_tag]
     print(f"\n  → 최선 구성: {best_tag}")
-    print(f"     5클래스   {base5['acc_w']:.3f} → {b5['acc_w']:.3f} "
-          f"({b5['acc_w'] - base5['acc_w']:+.3f})")
-    print(f"     발정 3클래스 {base3['acc_w']:.3f} → {b3['acc_w']:.3f} "
-          f"({b3['acc_w'] - base3['acc_w']:+.3f})")
+    print(f"     5클래스     acc {base5['acc_w']:.3f} → {b5['acc_w']:.3f} "
+          f"({b5['acc_w'] - base5['acc_w']:+.3f}) · "
+          f"MF1 {base5['mf1_w']:.3f} → {b5['mf1_w']:.3f} "
+          f"({b5['mf1_w'] - base5['mf1_w']:+.3f})")
+    print(f"     발정 3클래스 acc {base3['acc_w']:.3f} → {b3['acc_w']:.3f} "
+          f"({b3['acc_w'] - base3['acc_w']:+.3f}) · "
+          f"MF1 {base3['mf1_w']:.3f} → {b3['mf1_w']:.3f} "
+          f"({b3['mf1_w'] - base3['mf1_w']:+.3f})")
+    print("\n  ※ 정확도만 보면 안 된다. 기존 기하 전용 모델은 5클래스 "
+          f"{base5['acc_w']:.3f} 인데"
+          f"\n    **다수 클래스만 찍어도 {m5['acc_w']:.3f}** 이다 — 기준선보다 못하다."
+          "\n    클래스가 치우쳐 있어 정확도가 신호를 가린다. 실제 판별력은"
+          f"\n    Macro-F1 에서 드러난다(기준선 {m5['mf1_w']:.3f} vs 개선 {b5['mf1_w']:.3f})."
+          "\n    3클래스도 마찬가지다: 기준선 "
+          f"{m3['acc_w']:.3f}/{m3['mf1_w']:.3f} vs 개선 {b3['acc_w']:.3f}/{b3['mf1_w']:.3f}.")
 
     print(f"\n=== 폴드별 상세 (최선 구성, 발정 3클래스) ===")
     print(f"  {'뷰':<16} {'검증수':>7} {'정확도':>7} {'MacroF1':>8}")
