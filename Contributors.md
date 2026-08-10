@@ -1,4 +1,5 @@
 # Contributors
+- MZS
 - [c00lkiddX17](https://github.com/owakcx2014)
 - [kiron](https://github.com/KironLimbu)
 - [Uchenna Bethel Orji](https://github.com/ucbethuel)
