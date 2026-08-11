@@ -16,6 +16,7 @@
 - Joseph Francis
 - HelaElbez
 - first contribution
+- Kartik
 - Daniel Batistella
 - [Jacob-Lee] (https://github.com/jacoblee216)
 - [Jody Haynes]
