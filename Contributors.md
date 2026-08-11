@@ -7,6 +7,7 @@
 - [Thrissha Arcot](https://github.com/3sha-arcot)
 - Krititka
 - [Akshay K M IMT2024014](https://github.com/Akshay-K-M)
+- [H Sanjay BT2024192](https://github.com/H-Sanjay18)
 - MZS
 - [Punith M Reddy](https://github.com/punith1206)
 - [Addoroar](https://github.com/Addoroar)
