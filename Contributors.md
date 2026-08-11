@@ -53,6 +53,7 @@
 - [Devaang Rastogi BT2024031] (https://github.com/Devaang-Rastogi) 
 - Aryan Sharma BT2024212
 - Shashank Peddi BT2024210
+- Penumarti Hanish BT2024190
 - Vedansh Patel BT2024162
 - [Ryan Sajan Varughese](https://github.com/RyanSajan)
 - Daniel Batistella
