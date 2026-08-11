@@ -1,5 +1,6 @@
 # Contributors
 - Jeff Gray
+- Parth Sutaria BT2024028
 - [Raha](https://github.com/raha-ak)
 - Krititka
 - MZS
@@ -13,6 +14,7 @@
 - [betterkite502](https://github.com/betterkite)
 - First contribution
 - Second Contribution
+
 - Joseph Francis
 - HelaElbez
 - first contribution
