@@ -110,6 +110,7 @@ Varshith IMT2024044
 - [Yash Badhe]
 -Hu0v0
 - iuri-valbao
+- Abdul-Farooqui
 - [soheetech](https://github.com/soheetech)
 - BT2024151
 - [Uday](https://github.com/Udayahir25)
