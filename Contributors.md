@@ -134,6 +134,7 @@
 -[shuvronil](https://github.com/shuvronilmondal3)
 - [Kaustubh](https://github.com/Kaustubh0404)
 - [ODbeke](https://github.com/ODbeke)
+- [Harshil Srivastav] (https://github.com/rasmalai25)
 - [Haikal Taufiq](https://github.com/haikaltaufiq)
 - [Darshan Bothra](https://github.com/DarshanBothra)
 - [Jyatin Singh](https://github.com/Jyatin)
