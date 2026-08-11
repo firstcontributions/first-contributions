@@ -855,6 +855,78 @@ def test_barn_queue() -> None:
     assert seen == [b for b in route if b in seen], "동선 순서가 지켜지지 않음"
 
 
+def test_growth_flow() -> None:
+    """사육단계: 단계·체중·밀도·지연개체·PSY/MSY."""
+    import numpy as np
+    import pandas as pd
+    import growth_flow as gf
+
+    # 단계는 끊김·겹침 없이 이어져야 한다
+    for (n0, a0, a1, w0, w1, _b, _r), nxt in zip(gf.STAGES, gf.STAGES[1:]):
+        assert a1 == nxt[1], f"{n0}→{nxt[0]} 일령이 안 이어진다"
+        assert abs(w1 - nxt[3]) < 1e-9, f"{n0}→{nxt[0]} 체중이 안 이어진다"
+        assert w1 > w0 and a1 > a0
+    assert gf.STAGES[-1][2] == gf.MARKET_AGE
+    assert abs(gf.STAGES[-1][4] - gf.MARKET_WEIGHT) < 1e-9
+
+    assert gf.stage_at(40)[0] == "이유자돈" and gf.stage_at(40)[1] == "자돈사"
+    assert gf.stage_at(200)[0] == "출하"
+    # 체중은 단조증가하고 단계 경계에서 기준값과 맞아야 한다
+    ws = [gf.weight_at(a) for a in range(0, 200, 5)]
+    assert all(b >= a for a, b in zip(ws, ws[1:])), "체중이 감소하는 구간이 있다"
+    for _n, a0, _a1, w0, _w1, _b, _r in gf.STAGES:
+        assert abs(gf.weight_at(a0) - w0) < 1e-6
+    # age_for_weight 는 weight_at 의 역이어야 한다
+    for kg in (10.0, 30.0, 60.0, 115.0):
+        assert abs(gf.weight_at(gf.age_for_weight(kg)) - kg) < 0.5
+
+    tl = gf.batch_timeline("2026-08-10", 300)
+    assert list(tl["stage"]) == ["이유자돈", "육성돈", "비육돈"], "포유가 섞였다"
+    # 두수는 단계마다 줄기만 한다
+    assert (tl["n_out"] <= tl["n_in"]).all()
+    assert list(tl["n_in"][1:]) == list(tl["n_out"][:-1]), "단계 간 두수 불연속"
+    assert tl.attrs["n_marketed"] < 300
+    assert 0.85 < tl.attrs["survival"] < 1.0
+    # 기간이 일령 구간과 맞는지
+    for r in tl.itertuples(index=False):
+        assert (r.end - r.start).days == r.days == r.age_to - r.age_from
+
+    # 밀도: 법정 기준 미만이면 과밀
+    ok = gf.density_check(100, 30.0, "이유자돈")      # 0.30 = 기준 정확히
+    assert not ok["overcrowded"] and ok["excess"] == 0
+    tight = gf.density_check(100, 20.0, "이유자돈")   # 0.20 < 0.30
+    assert tight["overcrowded"] and tight["excess"] == 100 - int(20.0 // 0.30)
+    assert gf.density_check(10, 5.0, "포유자돈")["regulated"] is False
+
+    # 지연 개체: 가벼운 개체가 잡히고, 되돌리라고 말하지 않아야 한다
+    pigs = pd.DataFrame({
+        "id": ["A", "B", "C", "D"], "batch": "B1", "age_days": [120] * 4,
+        "weight_kg": [80.0, 78.0, 82.0, 40.0]})
+    te = gf.tail_enders(pigs)
+    assert len(te) == 4 and te.iloc[0]["id"] == "D", "가장 가벼운 개체가 위가 아니다"
+    assert bool(te.set_index("id").loc["D", "tail_ender"])
+    assert not bool(te.set_index("id").loc["C", "tail_ender"])
+    assert te.set_index("id").loc["D", "delay_days"] > 0
+    for a in te["action"]:
+        assert "되돌리지" in a or "정상" in a
+    assert not any("어린 배치로 이동" in a for a in te["action"]), \
+        "역류를 권하고 있다 — AIAO 가 깨진다"
+    assert len(gf.tail_enders(pigs.iloc[:0])) == 0
+
+    # PSY/MSY: MSY = PSY × 육성률, 벤치마크 재현
+    r = gf.psy_msy(2.20, 10.4, 0.807)
+    assert abs(r["psy"] - 22.9) < 0.15 and abs(r["msy"] - 18.5) < 0.15
+    dk = gf.psy_msy(2.30, 13.6, 0.933)
+    assert abs(dk["psy"] - 31.3) < 0.2 and abs(dk["msy"] - 29.2) < 0.2
+    assert abs(r["msy"] - r["psy"] * r["post_wean_survival"]) < 0.05
+    assert abs(r["post_wean_mortality"] + r["post_wean_survival"] - 1.0) < 1e-9
+    # 국내 평균의 이유후 폐사가 덴마크보다 크다 — 전체 관리로 넓혀야 하는 근거
+    assert r["post_wean_mortality"] > dk["post_wean_mortality"] * 2
+    for name in gf.BENCHMARKS:
+        assert name in r["vs"]
+        assert gf.BENCHMARKS[name]["msy"] < gf.BENCHMARKS[name]["psy"]
+
+
 def test_aihub_bridge() -> None:
     """AI Hub 실데이터 연동: 파싱·라벨 감사·축사 생성(데이터 없으면 건너뜀)."""
     import pandas as pd
@@ -1573,7 +1645,7 @@ def main() -> int:
              test_breeding_timing, test_stall_estrus, test_feeding_monitor,
              test_repro_calendar, test_pregnancy_check, test_herd_board,
              test_barn_queue, test_batch_flow, test_work_log,
-             test_aihub_bridge, test_pig_polygon,
+             test_aihub_bridge, test_pig_polygon, test_growth_flow,
              test_farm_registry, test_breeding_ledger, test_barn_environment,
              test_posture_crop_feats, test_posture_crossview, test_posture_report,
              test_dashboard_builders]
