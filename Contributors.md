@@ -42,6 +42,7 @@
 - [Yash Badhe]
 -Hu0v0
 - iuri-valbao
+- Abdul-Farooqui
 - [soheetech](https://github.com/soheetech)
 - [Uday](https://github.com/Udayahir25)
 - [levonhard]
