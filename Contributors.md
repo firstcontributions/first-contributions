@@ -4105,7 +4105,7 @@ Megan Das
 - [Atheros](https://github.com/chishkin-afk)
 - [Aashutosh K.C.](https://github.com/Aashutosh-kc)
 - [Ayfa Mehrin P](https://github.com/ayfamehrinpalapatta1234)
-
+- [Jashandeep Singh Bedi- IMT2024022](https://github.com/Jdsb06)
 - Deepika - https://github.com/deepika072
 -[Swaraj P.](https://github.com/swarajpatil10)
 -[Anmol Bansal](https://github.com/anmolbansal13)
