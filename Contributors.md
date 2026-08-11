@@ -27,6 +27,7 @@
 - [soupnaie-mnm]
 - [Diogo Higa]
 - [Rakhi Jamdade]
+- [Yashvi Mehta]
 - [abdelrahman-mahmoud] (Iterating Test)
 - [hamsehmahamud] (https://github.com/hamsehmahamud)
 -[harshita-suresh] (https://github.com/Harshi108)
