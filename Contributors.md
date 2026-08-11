@@ -1,5 +1,6 @@
 # Contributors
 - [Raha](https://github.com/raha-ak)
+- Krititka
 - MZS
 - [c00lkiddX17](https://github.com/owakcx2014)
 - [kiron](https://github.com/KironLimbu)
