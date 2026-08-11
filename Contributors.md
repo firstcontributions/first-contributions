@@ -2,6 +2,7 @@
 - Jeff Gray
 - [Raha](https://github.com/raha-ak)
 - Krititka
+- [Akshay K M IMT2024014](https://github.com/Akshay-K-M)
 - MZS
 - [Addoroar](https://github.com/Addoroar)
 - [c00lkiddX17](https://github.com/owakcx2014)
