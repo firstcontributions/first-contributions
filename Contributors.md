@@ -66,6 +66,7 @@
 - M Sai Ranga Reddy BT2024185
 -  Talluri Kartheek BT2024108 
 - Rohit Negi
+- Srikar BT2024081
 - MUZHAIB_MANZOOR_BT2024129
 - [Boyina Saketh](https://github.com/Alex240424)
 - Pennam Nikhil
