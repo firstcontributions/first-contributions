@@ -1,4 +1,5 @@
 # Contributors
+- [Tanmay Dixit](https://github.com/tdixit547)
 - [Abhyudaya_Singh_BT2024180](https://github.com/xerlixx)
 - Awwab Ghole BT2024033 (https://github.com/Awwab157)
 - Aprajita Agarwal BT2024258
