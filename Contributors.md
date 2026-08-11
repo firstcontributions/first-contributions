@@ -1,4 +1,5 @@
 # Contributors
+- Hardh S Kava
 - Gourav Nayak BT2024213 (https://github.com/GouravN97)
 - Jeff Gray
 - [Arjun](https://github.com/arjunsai-dev)
