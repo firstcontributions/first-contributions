@@ -1624,6 +1624,84 @@ def test_dashboard_builders() -> None:
         assert 'prefers-color-scheme' in page, "다크 모드 대응 없음"
 
 
+def test_farm_economics() -> None:
+    """생산비 구조: 사료 비중·손익분기·지렛대 순서."""
+    import farm_economics as fe
+
+    fp = fe.feed_plan()
+    assert list(fp["stage"]) == ["이유자돈", "육성돈", "비육돈"], list(fp["stage"])
+    for r in fp.itertuples(index=False):
+        assert abs(r.feed_kg - r.gain_kg * r.fcr) < 0.1
+        assert r.cost == int(round(r.feed_kg * r.price))
+    # 포유(1.4→8.0)를 뺀 이유~출하 증체
+    assert abs(fp.attrs["total_gain_kg"] - 107.0) < 1e-6
+    assert fp.attrs["overall_fcr"] > 2.0
+
+    c = fe.cost_per_pig()
+    assert c["total"] == fp.attrs["feed_cost"] + sum(fe.NON_FEED.values())
+    assert abs(sum(c["share"].values()) - 1.0) < 0.01
+    # 사료가 절반을 넘어야 한다 — 넘지 않으면 단가 가정이 어긋난 것
+    assert 0.5 < c["feed_share"] < 0.7, c["feed_share"]
+
+    rev = fe.revenue_per_pig()
+    assert abs(rev["carcass_kg"] - rev["live_kg"] * fe.DRESSING_RATE) < 0.1
+    assert rev["revenue"] > c["total"], "두당 적자면 이후 시나리오가 무의미"
+
+    # 손익분기: 그 단가에서 순이익이 0 이어야 한다
+    be = fe.breakeven_price(24.0, 0.86)
+    assert 0 < be < fe.PORK_PRICE, f"손익분기 {be} 가 현재 시세 이상"
+    at_be = fe.per_sow_year(24.0, 0.86, price=be)["net_per_sow"]
+    assert abs(at_be) < 5000, f"손익분기 단가에서 순이익 {at_be}"
+
+    # MSY = PSY × 육성률, 순이익 = 총이익 − 모돈 유지비
+    p = fe.per_sow_year(24.0, 0.86)
+    assert abs(p["msy"] - 24.0 * 0.86) < 0.01
+    assert p["net_per_sow"] == p["gross_per_sow"] - p["sow_cost"]
+    assert p["margin_per_pig"] == p["revenue_per_pig"] - p["cost_per_pig"]
+
+    # 지렛대는 효과 크기 내림차순이고, 시세는 농장이 못 바꾼다고 표시돼야 한다
+    lv = fe.levers()
+    eff = list(lv["연간효과"])
+    assert eff == sorted(eff, reverse=True), eff
+    assert all(x > 0 for x in eff), eff
+    assert any("못 바꾼다" in x for x in lv["경로"]), "통제 불가 항목 표시 없음"
+
+    # 모돈 두수에 대해 선형 — 600두 효과는 300두의 2배
+    a = fe.levers(n_sows=300)
+    b = fe.levers(n_sows=600)
+    assert list(a["lever"]) == list(b["lever"]), "두수만 바꿨는데 순위가 뒤집혔다"
+    assert abs(b["연간효과"][0] - 2 * a["연간효과"][0]) < 2.0
+
+    # 두 경로는 서로 다르므로 합산 가능하되 상호작용은 작아야 한다
+    v = fe.app_value()
+    assert v["repro_path"] > 0 and v["growth_path"] > 0
+    assert abs(v["interaction"]) < 0.05 * v["combined"], v
+
+    # PSY·육성률이 높을수록 순이익이 커야 한다(단조)
+    prof = [fe.per_sow_year(x, 0.86)["net_per_sow"] for x in (20.0, 24.0, 28.0)]
+    assert prof == sorted(prof), prof
+    surv = [fe.per_sow_year(24.0, s)["net_per_sow"] for s in (0.80, 0.86, 0.93)]
+    assert surv == sorted(surv), surv
+
+
+def test_pigflow_package() -> None:
+    """돈군흐름 패키지 — 명세 §5 검산과 시뮬레이터 회귀를 통째로 돌린다."""
+    import importlib.util
+    path = os.path.join(ROOT, "pigflow", "tests", "test_pigflow.py")
+    assert os.path.exists(path), path
+    spec = importlib.util.spec_from_file_location("_pigflow_tests", path)
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+    failed = []
+    for t in mod.TESTS:
+        try:
+            t()
+        except Exception as e:                                    # noqa: BLE001
+            failed.append(f"{t.__name__}: {e}")
+    assert not failed, f"{len(failed)}/{len(mod.TESTS)} 실패 — " + "; ".join(
+        failed[:3])
+
+
 def rc_date(x):
     import repro_calendar as rc
     return rc._d(x)
@@ -1648,7 +1726,8 @@ def main() -> int:
              test_aihub_bridge, test_pig_polygon, test_growth_flow,
              test_farm_registry, test_breeding_ledger, test_barn_environment,
              test_posture_crop_feats, test_posture_crossview, test_posture_report,
-             test_dashboard_builders]
+             test_dashboard_builders, test_farm_economics,
+             test_pigflow_package]
     failed = 0
     for t in tests:
         try:

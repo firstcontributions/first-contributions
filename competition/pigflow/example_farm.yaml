@@ -1,0 +1,49 @@
+# 예시 농장 — 분만틀 20개 · 2주 배치(B2W) · 모돈 약 270두
+#
+#   python -m pigflow --config competition/pigflow/example_farm.yaml
+#
+# 이 예시는 **일부러 비육사 돈방을 하나 부족하게** 잡았다(필요 5 · 보유 4).
+# 현장에서 가장 흔한 실수가 번식·분만 쪽만 늘리고 비육 수용력을 그대로 두는
+# 것이고, 그 결과가 출하 지연으로 나타나기 때문이다. 데모에서 병목이 어떻게
+# 잡히는지 보려면 finisher 돈방을 4개→5개로 늘려 보면 된다.
+
+crate_count: 20
+batch_system_id: B2W
+safety_margin: 0.10
+
+breeding:
+  lactation_days: 21          # 2주 배치는 이유일령을 앞당기는 편이다
+  farrowing_rate: 0.85        # 농장 실적으로 교체할 것
+  weaned_per_litter: 12.0
+  sow_turnover: 2.35
+
+stages:
+  # 이유일령을 21일로 당겼으므로 포유 기간도 맞춘다
+  - {id: SUCKLING,  duration_days: 21, exit_age_days: 21}
+  - {id: NURSERY_1, entry_age_days: 21, exit_age_days: 45, duration_days: 24}
+
+# 보유 돈방 — 이 목록이 있으면 소요량 대신 실제 보유분으로 시뮬레이션한다.
+# area_m2 가 스테이지 요구 면적(두당)을 만족하는 방만 배정된다.
+rooms:
+  - {room_id: F-1, house: farrowing, capacity_head: 290, area_m2: 0}
+  - {room_id: F-2, house: farrowing, capacity_head: 290, area_m2: 0}
+  - {room_id: F-3, house: farrowing, capacity_head: 290, area_m2: 0}
+
+  - {room_id: N1-1, house: nursery, capacity_head: 270, area_m2: 66}
+  - {room_id: N1-2, house: nursery, capacity_head: 270, area_m2: 66}
+  - {room_id: N1-3, house: nursery, capacity_head: 270, area_m2: 66}
+  - {room_id: N2-1, house: nursery, capacity_head: 270, area_m2: 90}
+  - {room_id: N2-2, house: nursery, capacity_head: 270, area_m2: 90}
+  - {room_id: N2-3, house: nursery, capacity_head: 270, area_m2: 90}
+
+  - {room_id: G-1, house: grower, capacity_head: 260, area_m2: 115}
+  - {room_id: G-2, house: grower, capacity_head: 260, area_m2: 115}
+  - {room_id: G-3, house: grower, capacity_head: 260, area_m2: 115}
+  - {room_id: G-4, house: grower, capacity_head: 260, area_m2: 115}
+  - {room_id: G-5, house: grower, capacity_head: 260, area_m2: 115}
+
+  # ↓ 필요 5, 보유 4 — 여기서 막힌다
+  - {room_id: B-1, house: finisher, capacity_head: 260, area_m2: 195}
+  - {room_id: B-2, house: finisher, capacity_head: 260, area_m2: 195}
+  - {room_id: B-3, house: finisher, capacity_head: 260, area_m2: 195}
+  - {room_id: B-4, house: finisher, capacity_head: 260, area_m2: 195}
