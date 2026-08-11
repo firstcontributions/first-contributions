@@ -32,6 +32,7 @@
 - yuvraj
 - Gagan
 - Rohit Negi
+- [Boyina Saketh](https://github.com/Alex240424)
 - Pennam Nikhil
 - IMT2024065
 - BT2024015 - Mai bhi aaya tha. Thnax
@@ -4133,9 +4134,7 @@ Megan Das
 - [agenciaklyp](https://github.com/agenciaklyp)
 - Joseph Francis (refresh)
 - [Yerassyl Kaiyrzhan](https://github.com/yerakairzhan)
-<<<<<<< HEAD
 - [Mahesh Epili](https://github.com/maheshepili)
-=======
 - [Jaspinder Singh](https://github.com/Jaspinder-12)
 - [LetUsTakeANapForever] (https://github.com/LetUsTakeANapForever)
 - [bywoo43-arch](https://github.com/bywoo43-arch)
@@ -4168,4 +4167,3 @@ Megan Das
 - [kritika](https://github.com/Kxor8)
 - [Yashkumar](https://github.com/yash110905)
 - [Gular Mammadova](https://github.com/gularmammadof)
->>>>>>> upstream/main
