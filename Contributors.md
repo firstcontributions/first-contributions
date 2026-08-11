@@ -27,6 +27,7 @@ Varshith IMT2024044
 - [Punith M Reddy](https://github.com/punith1206)
 - [Addoroar](https://github.com/Addoroar)
 [Siddharth S IMT2024017](https://github.com/Siddhpro)
+- [Srijan Gupta BT2024098](https://github.com/SrijanG07)
 - [c00lkiddX17](https://github.com/owakcx2014)
 - [Dayal Gupta](https://github.com/DayalGupta03)
 - [Sushmit-Biswas-BT2024038](https://github.com/Sushmit-Biswas)
