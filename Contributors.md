@@ -74,6 +74,7 @@
 - [lukedryan] (https://github.com/lukedryan)
 - [Aditya Vatsa] (https://github.com/VatsAditya48) 
 - [saiyarram]
+- [BrindaP]
 - [Nico]
 - [Lyrisink] (https://github.com/Lyrisink)
 - [Pooja Tiwari](https://github.com/pooja-dev42)
