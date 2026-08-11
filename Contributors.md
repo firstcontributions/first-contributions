@@ -9,6 +9,7 @@
 - BT2024088
 - [Thrissha Arcot](https://github.com/3sha-arcot)
 - Krititka
+- Pradyumna BT2024157
 - [Akshay K M IMT2024014](https://github.com/Akshay-K-M)
 - [Sumanth Y M BT2024072](https://github.com/Sumanth-YM)
 - MZS
