@@ -8,7 +8,7 @@
 - Krititka
 - [Akshay K M IMT2024014](https://github.com/Akshay-K-M)
 - MZS
-- IMT2024041 Punith
+- [Punith M Reddy](https://github.com/punith1206)
 - [Addoroar](https://github.com/Addoroar)
 [Siddharth S IMT2024017](https://github.com/Siddhpro)
 - [c00lkiddX17](https://github.com/owakcx2014)
