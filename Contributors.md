@@ -215,6 +215,7 @@ Varshith IMT2024044
 - [Kundan Dhage](https://github.com/KundanDhage)
 - [River Karnas](https://github.com/riverkarnas)
 - [Praveen Bishnoi](https://github.com/parveen0029)
+- [Ch Tharun Sai Pranav]
 - [AleH14](https://github.com/AleH14)
 - [jiangbei0921](https://github.com/jiangbei0921)
 - [TheRodzz](https://github.com/TheRodzz)
@@ -864,6 +865,7 @@ niceshowmini
 - Hrugveda Mane
 - [TionEleven](https://github.com/shen825)
 - [Vadoslar] (https://github.com/Vadoslar)
+- Tharun Sai Pranav
 - [VorajeeM](https://github.com/vorajeem)
 - [Abhijeet Raj](https://github.com/Abhijeet-99-dev)
 - [Shivendra Bhardwaj](https://github.com/ZenzoSH)
