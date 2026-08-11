@@ -36,6 +36,7 @@
 - [Jody Haynes]
 - yuvraj
 - Dhanush Kommireddy BT2024169
+- Jaya Raghunandhan Reddy BT2024029
 - Savani Vedant Vijay BT2024191
 - Gagan
 - Rohit Negi
