@@ -1,16 +1,25 @@
 # Contributors
+- Hemakshi Jadeja - BT2024002 (https://github.com/hemakshijadeja)
+- Gourav Nayak BT2024213 (https://github.com/GouravN97)
 - Jeff Gray
+- Parth Sutaria BT2024028
 - [Arjun](https://github.com/arjunsai-dev)
 - [Raha](https://github.com/raha-ak)
 - BT2024088
+- [Thrissha Arcot](https://github.com/3sha-arcot)
 - Krititka
 - [Akshay K M IMT2024014](https://github.com/Akshay-K-M)
 - MZS
-- IMT2024041 Punith
+- [Punith M Reddy](https://github.com/punith1206)
 - [Addoroar](https://github.com/Addoroar)
+[Siddharth S IMT2024017](https://github.com/Siddhpro)
 - [c00lkiddX17](https://github.com/owakcx2014)
 - [Dayal Gupta](https://github.com/DayalGupta03)
 - [Soham Banerjee](https://github.com/oki-dokii)
+- [S Tharun Kumar IMT2024010](https://github.com/Tharunqi)
+- [Soham Banerjee](https://github.com/oki-dokii)
+- [Rishiraj BT2024017](https://github.com/Rishi-nalla11)
+- Tatwik Sai M BT2024200
 - [kiron](https://github.com/KironLimbu)
 - Amith
 - [Uchenna Bethel Orji](https://github.com/ucbethuel)
@@ -20,22 +29,28 @@
 - [betterkite502](https://github.com/betterkite)
 - First contribution
 - Second Contribution
+
 - Joseph Francis
+- Ankita Gupta
 - HelaElbez
 - first contribution
 - Kartik
+- [Parth Malhotra BT2024197](https://github.com/ParthMalhotra07)
 - [Siddharth Brijesh Tripathi IMT2024011](https://github.com/sidtricoder)
 - [Devaang Rastogi BT2024031] (https://github.com/Devaang-Rastogi) 
 - Aryan Sharma BT2024212
+- Shashank Peddi BT2024210
 - Vedansh Patel BT2024162
 - [Ryan Sajan Varughese](https://github.com/RyanSajan)
 - Daniel Batistella
 - [Jacob-Lee] (https://github.com/jacoblee216)
 - [Jody Haynes]
 - yuvraj
+- Dhanush Kommireddy BT2024169
 - Savani Vedant Vijay BT2024191
 - Gagan
 - Rohit Negi
+- MUZHAIB_MANZOOR_BT2024129
 - [Boyina Saketh](https://github.com/Alex240424)
 - Pennam Nikhil
 - IMT2024065
@@ -93,7 +108,9 @@
 - [saiyarram]
 - [BrindaP]
 - [Nico]
+- BT2024165
 - IMT2024056
+- BT2024208
 - [Lyrisink] (https://github.com/Lyrisink)
 - [Pooja Tiwari](https://github.com/pooja-dev42)
 - [Samuel Gutierrez](https://github.com/SamuelCosmo)
@@ -166,6 +183,7 @@
 - [Pratham Jain](https://github.com/prathamnjain1)
 - [Aditya Agarwal (Adii)](https://github.com/adityaagarwal2303-pixel)
 - oussema tayechi
+-
 - [alllex47](https://github.com/alllex47)
 - [Eric G] (https://github.com/Eric-G173)
 - [Dinesh Kumar Sahu](https://github.com/kumarsahudinesh52-byte)
@@ -181,7 +199,8 @@
 - [Adhiraj Sengar](https://github.com/Adhiraj2601)
 - [Erikito Consultancy](https://github.com/erikvanappeldoorn)
 -[sanchit] 
-- [Bilaal Bakare](https://github.com/BilaalBakare) 
+- [Bilaal Bakare](https://github.com/BilaalBakare)
+[Raj Gandhi](https://github.com/rajg2906) 
 - [Thuta](https://github.com/thuta-dev)
 - [Lalitha Sri](https://github.com/LalithaSriSanthapur)
 - [Omerat]
@@ -192,6 +211,7 @@
 - [JC Abucay](https://github.com/abukix) 
 - [Mahi](https://github.com/mahi-prakash)
 - [Isha](https://github.com/ishacm)
+- [Dhyan Patel](https://github.com/dhyanspatel49)
 - [Ryan Williams](https://github.com/ryanwilliamske)
 -[Saikrishna Penta](https://github.com/Sai13122005)
 - [Binay Dalai](https://github.com/bkd-dotcom)
@@ -208,6 +228,7 @@
  - [Abdul khudus] (https://github.com/Abdulkhudus)
  - [Rene Paul](https://github.com/rene-pau)
 -[Barry J]
+- [Naga Rutwik] (https://github.com/nrmalapaka) 
 - [Talluri Subhash] (https://github.com/Subhash-2005)
 -[Sahil pandey](https://github.com/sahilpandey217)
 - [Jothi Prakasam R](https://github.com/jothiprakasam)
@@ -1073,6 +1094,7 @@ niceshowmini
 - [somi seol](https://github.com/somiseol)
 - [Kabir Ahmed](https://github.com/GrowAsguard) main
 - [bgyoo970](https://github.com/bgyoo970)
+- [qrxf](https://github.com/qrxf)
 - [Sam George]
 - [Rohitneverest]
 - [Sudhar]
@@ -4146,6 +4168,8 @@ Megan Das
 - [Atheros](https://github.com/chishkin-afk)
 - [Aashutosh K.C.](https://github.com/Aashutosh-kc)
 - [Ayfa Mehrin P](https://github.com/ayfamehrinpalapatta1234)
+
+- [Jashandeep Singh Bedi- IMT2024022](https://github.com/Jdsb06)
 - [Mitansh Shringi](https://github.com/Mitansh1309)
 - Deepika - https://github.com/deepika072
 -[Swaraj P.](https://github.com/swarajpatil10)
@@ -4168,6 +4192,11 @@ Megan Das
 - [vishyatchennai2026](https://github.com/vishyatchennai2026)
 - [markchang](https://github.com/13603601431mayc-cell)
 - [buiducnhat](https://github.com/buiducnhat)
+- [Rudra Hardik Shroff](https://github.com/rudra-shroff06)
 - [kritika](https://github.com/Kxor8)
 - [Yashkumar](https://github.com/yash110905)
 - [Gular Mammadova](https://github.com/gularmammadof)
+- [Jaideep krishna A](https://github.com/jaideepkrishna2008-ui)
+1
+- [Vansh Desai](https://github.com/vansh-desai-23)
+- [Arshad Ansari](https://github.com/05unique-dotcom)
