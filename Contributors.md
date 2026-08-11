@@ -3735,6 +3735,7 @@ hey yo!
 - [lustybina](https://github.com/lustybina)
 - [ArhaanKhan] (https://github.com/ArhaanDev24)
 - [boringtessa](https://github.com/boringtessa)
+- [SteveXXD](https://github.com/SteveXXD)
 - [Prathamesh Hirwale](https://github.com/Hprathamesh)
 - [aakarsh-34](https://github.com/aakarsh-34)
 - [tadakazukawani](https://github.com/tadakazukawani)
@@ -4107,4 +4108,6 @@ Megan Das
 - [PercevalFox](https://github.com/PercevalFox)
 - [Priyanshi jain](http://github.com/priislearning)
 - [dongzeyu95827-spec](https://github.com/dongzeyu95827-spec)
-- [LateWinter_](https://github.com/LateWinteryy)
+- [Tiago Tavares](https://github.com/tiagomtavares9-byte)
+- [LateWinter_]
+
