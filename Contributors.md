@@ -1,4 +1,5 @@
 # Contributors
+- [Anurag](https://github.com/Invito101)
 - Rayyan Tayyab
 - k2p2
 - Hardh S Kava
