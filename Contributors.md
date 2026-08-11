@@ -43,6 +43,7 @@ Varshith IMT2024044
 - [Soham Banerjee](https://github.com/oki-dokii)
 - [Rishiraj BT2024017](https://github.com/Rishi-nalla11)
 - [Dinesh Karthik BT2024199] (https://github.com/DINESH3803)
+- [Vishudha Sood IMT2024067] (https://github.com/VishudhaSood)
 - [S Shrivathsan](https://github.com/SShrivathsan)
 - Tatwik Sai M BT2024200
 - [kiron](https://github.com/KironLimbu)
