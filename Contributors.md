@@ -1,5 +1,6 @@
 # Contributors
 - Jeff Gray
+- Pranav Goyal BT2024086
 - [Raha](https://github.com/raha-ak)
 - Krititka
 - MZS
