@@ -19,7 +19,7 @@
 - Tatwik Sai M BT2024200
 - [kiron](https://github.com/KironLimbu)
 - Amith
-- Amballa Pardhiv BT2024071
+- [Amballa Pardhiv BT2024071](https://github.com/PardhivAmballa)
 - [Uchenna Bethel Orji](https://github.com/ucbethuel)
 - [bearbau](https://github.com/bearbau)
 - [Avadh Savaliya](https://github.com/avadh-7)
