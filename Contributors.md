@@ -8,12 +8,14 @@
 - Krititka
 - [Akshay K M IMT2024014](https://github.com/Akshay-K-M)
 - MZS
-- IMT2024041 Punith
+- [Punith M Reddy](https://github.com/punith1206)
 - [Addoroar](https://github.com/Addoroar)
 [Siddharth S IMT2024017](https://github.com/Siddhpro)
 - [c00lkiddX17](https://github.com/owakcx2014)
 - [Dayal Gupta](https://github.com/DayalGupta03)
+- [S Tharun Kumar IMT2024010](https://github.com/Tharunqi)
 - [Soham Banerjee](https://github.com/oki-dokii)
+- Tatwik Sai M BT2024200
 - [kiron](https://github.com/KironLimbu)
 - Amith
 - [Uchenna Bethel Orji](https://github.com/ucbethuel)
@@ -27,9 +29,11 @@
 - HelaElbez
 - first contribution
 - Kartik
+- [Parth Malhotra BT2024197](https://github.com/ParthMalhotra07)
 - [Siddharth Brijesh Tripathi IMT2024011](https://github.com/sidtricoder)
 - [Devaang Rastogi BT2024031] (https://github.com/Devaang-Rastogi) 
 - Aryan Sharma BT2024212
+- Shashank Peddi BT2024210
 - Vedansh Patel BT2024162
 - [Ryan Sajan Varughese](https://github.com/RyanSajan)
 - Daniel Batistella
@@ -4184,3 +4188,4 @@ Megan Das
 - [Gular Mammadova](https://github.com/gularmammadof)
 - [Jaideep krishna A](https://github.com/jaideepkrishna2008-ui)
 1
+- [Vansh Desai](https://github.com/vansh-desai-23)
