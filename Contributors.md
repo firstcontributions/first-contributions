@@ -1,4 +1,5 @@
 # Contributors
+- Rayyan Tayyab
 - k2p2
 - Hardh S Kava
 - Hemakshi Jadeja - BT2024002 (https://github.com/hemakshijadeja)
