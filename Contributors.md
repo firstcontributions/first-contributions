@@ -1,7 +1,10 @@
 # Contributors
+- Aprajita Agarwal BT2024258
+- Dinesh BT2024199 (a+b)^3 = a^3 + b^3 + 3ab(a+b)
 - Abhinav Bhatia BT2024156 (a+b)^2 = a^2 + 2ab + b^2
 - [Pulkit Pandey](https://github.com/COolAlien35)
 - [Aditya Mittal](https://github.com/Adityamtl)
+- [Thapan Komaravelly](https://github.com/SapphireGaze21)
 - [Anurag](https://github.com/Invito101)
 - Rayyan Tayyab
 - k2p2
@@ -20,6 +23,7 @@
 Varshith IMT2024044
 - BT2024088
 - [Thrissha Arcot](https://github.com/3sha-arcot)
+- Shive S Bhat BT2024067
 - Yashaswini
 - Krititka
 - mohammedfarhanBT2024140
@@ -45,6 +49,7 @@ Varshith IMT2024044
 - [Soham Banerjee](https://github.com/oki-dokii)
 - [Rishiraj BT2024017](https://github.com/Rishi-nalla11)
 - [Dinesh Karthik BT2024199] (https://github.com/DINESH3803)
+- [Vishudha Sood IMT2024067] (https://github.com/VishudhaSood)
 - [S Shrivathsan](https://github.com/SShrivathsan)
 - Tatwik Sai M BT2024200
 - [kiron](https://github.com/KironLimbu)
@@ -314,6 +319,7 @@ nathan practice here
 - [Saniya Muskan](https://github.com/muskan-io)
 - [Divyansh Sareen](https://github.com/DivyanshSareen)
 - [Nick Anderson](https://github.com/NickCAnderson)
+- [Nilesh Gupta](https://www.linkedin.com/in/nileshg22/)
 - [Rihan R. Chougule](https://github.com/RihanC)
 - [jershon](https://github.com/jershonjefray-tech)
 - [ZihaoYang](https://github.com/yangzihao2005)
