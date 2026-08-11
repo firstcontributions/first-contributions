@@ -1,5 +1,5 @@
 # Contributors
-- Rishit Raman [The Backend Developer]
+- [Rishit Raman](https://github.com/ramanrishit448-RR)
 - [Tanmay Dixit](https://github.com/tdixit547)
 - [Abhyudaya_Singh_BT2024180](https://github.com/xerlixx)
 - Awwab Ghole BT2024033 (https://github.com/Awwab157)
