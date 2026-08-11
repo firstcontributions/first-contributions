@@ -1,4 +1,5 @@
 # Contributors
+- Hemakshi Jadeja - BT2024002 (https://github.com/hemakshijadeja)
 - Gourav Nayak BT2024213 (https://github.com/GouravN97)
 - Jeff Gray
 - [Arjun](https://github.com/arjunsai-dev)
