@@ -1,5 +1,6 @@
 # Contributors
 - Jeff Gray
+- [Arjun](https://github.com/arjunsai-dev)
 - [Raha](https://github.com/raha-ak)
 - Krititka
 - MZS
