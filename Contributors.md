@@ -72,6 +72,7 @@
 - MUZHAIB_MANZOOR_BT2024129
 - [Boyina Saketh](https://github.com/Alex240424)
 - Pennam Nikhil
+- Sai sathvik K
 - IMT2024065
 - BT2024015 - Mai bhi aaya tha. Thnax
 - BT2024053
