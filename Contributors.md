@@ -1,4 +1,6 @@
 # Contributors
+- [Pulkit Pandey](https://github.com/COolAlien35)
+- [Anurag](https://github.com/Invito101)
 - Rayyan Tayyab
 - k2p2
 - Hardh S Kava
@@ -11,6 +13,7 @@
 - [Arjun](https://github.com/arjunsai-dev)
 - [Raha](https://github.com/raha-ak)
 - [Akshay-K-M_IMT2024014] (https://github.com/Akshay-K-M)
+Varshith IMT2024044
 - BT2024088
 - [Thrissha Arcot](https://github.com/3sha-arcot)
 - Krititka
@@ -55,6 +58,7 @@
 - first contribution
 - Kartik
 - [Parth Malhotra BT2024197](https://github.com/ParthMalhotra07)
+- Aditya Bhat BT2024035
 - [Siddharth Brijesh Tripathi IMT2024011](https://github.com/sidtricoder)
 - [Devaang Rastogi BT2024031] (https://github.com/Devaang-Rastogi) 
 - Aryan Sharma BT2024212
@@ -135,6 +139,7 @@
 - [lukedryan] (https://github.com/lukedryan)
 - [Aditya Vatsa] (https://github.com/VatsAditya48) 
 - [saiyarram]
+-Rohit Antony
 - [BrindaP]
 - [Nico]
 -[Tom Stanly]
@@ -151,6 +156,7 @@
 - [Kaustubh](https://github.com/Kaustubh0404)
 - 
 - [ODbeke](https://github.com/ODbeke)
+- [Harshil Srivastav] (https://github.com/rasmalai25)
 - [Haikal Taufiq](https://github.com/haikaltaufiq)
 - [Darshan Bothra](https://github.com/DarshanBothra)
 - [Jyatin Singh](https://github.com/Jyatin)
@@ -4238,4 +4244,7 @@ Megan Das
 - [Vraj Saurabhbhai Vashi](https://github.com/VrajVashi) 
 - [Sachin Nain](https://github.com/SachinSNain)
 - [Dev Kumar Taggar BT2024158](https://github.com/DevKT896)
+jadav-sai-rugvedh_IMT2024051
 - [Jadav Sai Rugvedh](https://github.com/rugvedhjadav)
+
+main
