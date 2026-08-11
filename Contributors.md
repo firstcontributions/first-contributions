@@ -1,16 +1,21 @@
 # Contributors
+- Gourav Nayak BT2024213 (https://github.com/GouravN97)
 - Jeff Gray
 - [Arjun](https://github.com/arjunsai-dev)
 - [Raha](https://github.com/raha-ak)
 - BT2024088
+- [Thrissha Arcot](https://github.com/3sha-arcot)
 - Krititka
 - [Akshay K M IMT2024014](https://github.com/Akshay-K-M)
 - MZS
-- IMT2024041 Punith
+- [Punith M Reddy](https://github.com/punith1206)
 - [Addoroar](https://github.com/Addoroar)
+[Siddharth S IMT2024017](https://github.com/Siddhpro)
 - [c00lkiddX17](https://github.com/owakcx2014)
 - [Dayal Gupta](https://github.com/DayalGupta03)
 - [S Tharun Kumar IMT2024010](https://github.com/Tharunqi)
+- [Soham Banerjee](https://github.com/oki-dokii)
+- Tatwik Sai M BT2024200
 - [kiron](https://github.com/KironLimbu)
 - Amith
 - [Uchenna Bethel Orji](https://github.com/ucbethuel)
@@ -27,15 +32,18 @@
 - [Siddharth Brijesh Tripathi IMT2024011](https://github.com/sidtricoder)
 - [Devaang Rastogi BT2024031] (https://github.com/Devaang-Rastogi) 
 - Aryan Sharma BT2024212
+- Shashank Peddi BT2024210
 - Vedansh Patel BT2024162
 - [Ryan Sajan Varughese](https://github.com/RyanSajan)
 - Daniel Batistella
 - [Jacob-Lee] (https://github.com/jacoblee216)
 - [Jody Haynes]
 - yuvraj
+- Dhanush Kommireddy BT2024169
 - Savani Vedant Vijay BT2024191
 - Gagan
 - Rohit Negi
+- MUZHAIB_MANZOOR_BT2024129
 - [Boyina Saketh](https://github.com/Alex240424)
 - Pennam Nikhil
 - IMT2024065
@@ -93,7 +101,9 @@
 - [saiyarram]
 - [BrindaP]
 - [Nico]
+- BT2024165
 - IMT2024056
+- BT2024208
 - [Lyrisink] (https://github.com/Lyrisink)
 - [Pooja Tiwari](https://github.com/pooja-dev42)
 - [Samuel Gutierrez](https://github.com/SamuelCosmo)
@@ -208,6 +218,7 @@
  - [Abdul khudus] (https://github.com/Abdulkhudus)
  - [Rene Paul](https://github.com/rene-pau)
 -[Barry J]
+- [Naga Rutwik] (https://github.com/nrmalapaka) 
 - [Talluri Subhash] (https://github.com/Subhash-2005)
 -[Sahil pandey](https://github.com/sahilpandey217)
 - [Jothi Prakasam R](https://github.com/jothiprakasam)
@@ -1073,6 +1084,7 @@ niceshowmini
 - [somi seol](https://github.com/somiseol)
 - [Kabir Ahmed](https://github.com/GrowAsguard) main
 - [bgyoo970](https://github.com/bgyoo970)
+- [qrxf](https://github.com/qrxf)
 - [Sam George]
 - [Rohitneverest]
 - [Sudhar]
@@ -4171,3 +4183,4 @@ Megan Das
 - [kritika](https://github.com/Kxor8)
 - [Yashkumar](https://github.com/yash110905)
 - [Gular Mammadova](https://github.com/gularmammadof)
+- [Jaideep krishna A](https://github.com/jaideepkrishna2008-ui)
