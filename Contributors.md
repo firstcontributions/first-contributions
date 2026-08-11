@@ -4117,6 +4117,7 @@ Megan Das
 - [dongzeyu95827-spec](https://github.com/dongzeyu95827-spec)
 - [Tiago Tavares](https://github.com/tiagomtavares9-byte)
 - [LateWinter_]
+- [Aditya Deolalikar] (https://github.com/AdityaDeolalikar)
 - [dhwowns00](https://github.com/dhwowns00)
 - [wjdrjsdud303-crypto](https://github.com/wjdrjsdud303-crypto)
 - Zainab [GitHub](https://github.com/zanimohsin)
