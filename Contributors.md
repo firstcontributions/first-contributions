@@ -259,6 +259,7 @@ nathan practice here
 - [Vignesh](https://github.com/vigneshsabapathi)
 - [Madhumitha](https://github.com/madhumithakk01)
 - [Tamil Kumaran]
+- [Raj Vardhan Gutha]
 - [APB](https://github.com/amandapbrown)
 - [Raj Vardhan Gutha](IMT2024003)
 - [Prachi](https://github.com/prachu25)
