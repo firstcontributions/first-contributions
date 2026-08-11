@@ -47,6 +47,7 @@ Varshith IMT2024044
 - [Addoroar](https://github.com/Addoroar)
 - [Bharath Vikas Tadepalli] - BT2024073
 [Siddharth S IMT2024017](https://github.com/Siddhpro)
+- [Srijan Gupta BT2024098](https://github.com/SrijanG07)
 - [c00lkiddX17](https://github.com/owakcx2014)
 - [Dayal Gupta](https://github.com/DayalGupta03)
 - [Sushmit-Biswas-BT2024038](https://github.com/Sushmit-Biswas)
