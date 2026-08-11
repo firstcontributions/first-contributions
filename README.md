@@ -92,6 +92,16 @@
 
 This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 
+## Prerequisites
+
+Before starting your first contribution, make sure you have:
+
+- A GitHub account
+- Git installed on your computer
+- A code editor such as Visual Studio Code
+- Basic knowledge of Git and GitHub
+- An internet connection
+
 _If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork the repository" />
