@@ -855,6 +855,124 @@ def test_barn_queue() -> None:
     assert seen == [b for b in route if b in seen], "동선 순서가 지켜지지 않음"
 
 
+def test_aihub_bridge() -> None:
+    """AI Hub 실데이터 연동: 파싱·라벨 감사·축사 생성(데이터 없으면 건너뜀)."""
+    import pandas as pd
+    import aihub_bridge as ab
+
+    # 라벨 감사 로직은 데이터 없이도 검증할 수 있다.
+    # 돈방마다 라벨이 순수하면 '카메라 라벨'로 판정해야 한다(71471 의 함정).
+    pure = pd.DataFrame({
+        "pen": ["a"] * 4 + ["b"] * 4,
+        "estrus_label": ["Y"] * 4 + ["N"] * 4,
+        "posture": ["lying", "standing"] * 4})
+    a = ab.label_audit(pure)
+    assert a["confounded"] and a["pure_pens"] == a["n_pens"] == 2
+    assert a["behaviour_tvd"] is not None and a["behaviour_tvd"] < 1e-9, \
+        "행동 분포가 같은데 차이가 0 이 아니다"
+    # 각 돈방에 Y/N 이 섞여 있고(교락 아님), Y 는 눕기 N 은 서기로 갈린다
+    mixed = pd.DataFrame({
+        "pen": ["a"] * 4 + ["b"] * 4,
+        "estrus_label": ["Y", "Y", "N", "N"] * 2,
+        "posture": ["lying", "lying", "standing", "standing"] * 2})
+    m = ab.label_audit(mixed)
+    assert not m["confounded"], "혼재 라벨을 교락으로 오판"
+    assert m["behaviour_tvd"] > 0.5, "행동이 갈리는데 TVD 가 작다"
+    assert ab.label_audit(pd.DataFrame())["has_label"] is False
+
+    dirs = ab.data_dirs()
+    if not dirs:
+        return                      # 국내 IP 전용 — 없는 환경에서는 건너뛴다
+    df = ab.load_frames(dirs)
+    if not len(df):
+        return
+    # 두 디렉터리에 같은 파일이 겹쳐 있다. 프레임 이름으로 중복을 제거해야
+    # bbox 수가 부풀지 않는다(중복 포함 13,916 vs 고유 12,805).
+    assert df["frame"].nunique() == df.attrs["n_frames"], "프레임 중복 제거 실패"
+    assert set(df["posture"]) <= {"lying", "sitting", "standing", "other"}
+    # 폭·높이 0 인 박스가 실제로 섞여 있다(1/12,805). 원본은 그대로 두되
+    # 몇 건인지 세어 두고, 소비 측은 valid_boxes() 로 걸러 쓴다.
+    assert "degenerate_boxes" in df.attrs
+    ok = ab.valid_boxes(df)
+    assert (ok["w"] > 0).all() and (ok["h"] > 0).all()
+    assert ok.attrs["dropped"] == df.attrs["degenerate_boxes"]
+    assert len(ok) + ok.attrs["dropped"] == len(df)
+
+    real = ab.label_audit(df)
+    assert real["confounded"], "71471 ESTRUS 는 카메라 교락이어야 한다"
+
+    farm = ab.build_farm(df)
+    assert len(farm.pens) == df["pen"].nunique()
+    # 개체 ID 가 없으므로 자리 배치를 하면 안 된다(없는 개체를 만들어내는 것)
+    assert len(farm.slots) == 0, "추적 ID 가 없는데 개체를 배치했다"
+    occ = farm.occupancy()
+    assert (occ["capacity"] > 0).all() and (occ["n"] == 0).all()
+
+    ses = ab.pen_sessions(df)
+    assert len(ses) and (ses["headcount"] > 0).all()
+    frac = ses[["standing", "sitting", "lying"]].sum(axis=1)
+    assert ((frac - 1.0).abs() < 0.02).all(), "자세 비율 합이 1 이 아니다"
+    sc = ab.pen_estrus_scores(ses)
+    assert len(sc) == df["pen"].nunique()
+    assert sc["estrus_score"].is_monotonic_decreasing
+
+
+def test_pig_polygon() -> None:
+    """Pig_Polygon(분만 폴리곤): CVAT 파싱·감사·이미지 단위 분할·내보내기."""
+    import os
+    import tempfile
+    import parse_pig_polygon as pp
+
+    with tempfile.TemporaryDirectory() as d:
+        xml = pp.synth_cvat(os.path.join(d, "annotations.xml"), n_images=10)
+        df = pp.parse_cvat(xml)
+        assert len(df) and df["image"].nunique() == 10
+        assert (df["n_points"] >= 3).all() and (df["area"] > 0).all()
+        assert (df["w"] > 0).all() and (df["h"] > 0).all()
+
+        # 신발끈 공식: 단위 정사각형은 면적 1
+        assert abs(pp.polygon_area([(0, 0), (1, 0), (1, 1), (0, 1)]) - 1.0) < 1e-9
+        assert pp.polygon_area([(0, 0), (1, 1)]) == 0.0
+        # 방향(시계/반시계)에 무관해야 한다
+        assert abs(pp.polygon_area([(0, 0), (0, 1), (1, 1), (1, 0)]) - 1.0) < 1e-9
+
+        a = pp.audit(df)
+        assert a["zero_area"] == 0 and a["degenerate"] == 0
+        assert a["out_of_frame"] == 0
+        assert set(a["labels"]) == {"pig", "farrowing"}
+        assert not a["label_purity"]["single_label"]
+
+        # 분할은 **이미지 단위** — 같은 이미지가 train/test 에 갈라지면 누수
+        sp = pp.split_images(df, seed=1)
+        assert set(sp) == {"train", "val", "test"}
+        imgs = [set(v["image"]) for v in sp.values()]
+        assert not (imgs[0] & imgs[1]) and not (imgs[0] & imgs[2])
+        assert not (imgs[1] & imgs[2])
+        assert sum(len(v) for v in sp.values()) == len(df)
+        assert sum(v["image"].nunique() for v in sp.values()) == 10
+
+        coco = pp.to_coco(sp["train"])
+        assert len(coco["images"]) == sp["train"]["image"].nunique()
+        assert len(coco["annotations"]) == len(sp["train"])
+        ids = {i["id"] for i in coco["images"]}
+        assert all(x["image_id"] in ids for x in coco["annotations"])
+        assert all(len(x["segmentation"][0]) >= 6 for x in coco["annotations"])
+        assert all(x["area"] > 0 for x in coco["annotations"])
+
+        out = os.path.join(d, "yolo")
+        n = pp.to_yolo_seg(sp["train"], out)
+        assert n == sp["train"]["image"].nunique()
+        txts = [f for f in os.listdir(out) if f.endswith(".txt")]
+        assert len(txts) == n
+        # YOLO-seg 좌표는 0~1 정규화여야 한다
+        vals = open(os.path.join(out, txts[0])).read().split()
+        assert all(0.0 <= float(v) <= 1.0 for v in vals[1:])
+
+    # 기준선은 지표까지 함께 기록해야 비교가 성립한다
+    assert pp.BASELINE["value"] == 60.0 and "AP50" in pp.BASELINE["metric"]
+    assert abs(sum(pp.SPLIT.values()) - 1.0) < 1e-9
+
+
 def test_batch_flow() -> None:
     """돈군흐름(배칭): 배치 수·AIAO 방 수·여유·배치 유지율."""
     import numpy as np
@@ -1455,6 +1573,7 @@ def main() -> int:
              test_breeding_timing, test_stall_estrus, test_feeding_monitor,
              test_repro_calendar, test_pregnancy_check, test_herd_board,
              test_barn_queue, test_batch_flow, test_work_log,
+             test_aihub_bridge, test_pig_polygon,
              test_farm_registry, test_breeding_ledger, test_barn_environment,
              test_posture_crop_feats, test_posture_crossview, test_posture_report,
              test_dashboard_builders]
