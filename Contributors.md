@@ -3,6 +3,7 @@
 - [Anurag](https://github.com/Invito101)
 - Rayyan Tayyab
 - k2p2
+- AyushPatel - BT2024171 (https://github.com/Ayush1patel)
 - Hardh S Kava
 - Hemakshi Jadeja - BT2024002 (https://github.com/hemakshijadeja)
 - [Aryan_Malik_BT2024006](https://github.com/AryanOg0209)
