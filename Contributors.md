@@ -1,4 +1,5 @@
 # Contributors
+- [Tanmay Dixit](https://github.com/tdixit547)
 - [Pulkit Pandey](https://github.com/COolAlien35)
 - [Anurag](https://github.com/Invito101)
 - Rayyan Tayyab
