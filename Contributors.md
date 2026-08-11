@@ -1064,6 +1064,7 @@ niceshowmini
 - [Sazzat Hj](https://github.com/SazzatHj)
 - [Killian Jallais] (https://github.com/JallaisKillian)
 - [奇迹烧真](https://github.com/miracleburntrue)
+- [Laksh Chovatiya](https://github.com/Laksh2717)
 - [David Easley]
 - [Amina Munawar](https://github.com/AminaMunawar39)
 - [Jose Ignacio Robles](https://github.com/NaRo-03)
