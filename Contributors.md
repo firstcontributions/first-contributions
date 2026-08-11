@@ -78,6 +78,7 @@ Varshith IMT2024044
 - HelaElbez
 - first contribution
 - Kartik
+- Kkshiteej Tiwari BT2024154
 - [Parth Malhotra BT2024197](https://github.com/ParthMalhotra07)
 - Aditya Bhat BT2024035
 - [Siddharth Brijesh Tripathi IMT2024011](https://github.com/sidtricoder)
