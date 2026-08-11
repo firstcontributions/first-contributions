@@ -1,4 +1,5 @@
 # Contributors
+- Awwab Ghole BT2024033 (https://github.com/Awwab157)
 - Aprajita Agarwal BT2024258
 - Dinesh BT2024199 (a+b)^3 = a^3 + b^3 + 3ab(a+b)
 - Abhinav Bhatia BT2024156 (a+b)^2 = a^2 + 2ab + b^2
