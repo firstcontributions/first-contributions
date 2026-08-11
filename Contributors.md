@@ -7,10 +7,10 @@
 - [Akshay K M IMT2024014](https://github.com/Akshay-K-M)
 - MZS
 - IMT2024041 Punith
-- [S Tharun Kumar IMT2024010](https://github.com/Tharunqi)
 - [Addoroar](https://github.com/Addoroar)
 - [c00lkiddX17](https://github.com/owakcx2014)
 - [Dayal Gupta](https://github.com/DayalGupta03)
+- [S Tharun Kumar IMT2024010](https://github.com/Tharunqi)
 - [kiron](https://github.com/KironLimbu)
 - Amith
 - [Uchenna Bethel Orji](https://github.com/ucbethuel)
